@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14200/22372238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1983-452484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc7bdfafd6a33f4206812a69d4a0c74caaaf1d2414e61d0449698a4cc26f45f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aec018adedcdca1904ad9fb1a22474558ff8c5af89e830091a066145a9341d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Regional de Segurança Social
+- Segurança Social
+- Serviços de Fiscalização
 relationships:
 - type: amended_by
   target: pt:dre:536226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:536226:por
+  label: "Revogado pelo DR.22/2001.2001.12.26.MTS,DR.IS-B [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-2001-536226
+  date: '2001-12-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:55Z'
   warnings: []
   errors: []
 ---
@@ -98,34 +114,34 @@ Assim, tendo em conta a natureza dessas funções, que não aconselha a criaçã
 
 Em execução do disposto no artigo 7.º do [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, e ao abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O serviço de fiscalização dos centros regionais de segurança social, criado pelo [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, depende directamente da comissão instaladora ou do órgão que lhe vier a suceder findo o regime de instalação.
+Artigo 1.º O serviço de fiscalização dos centros regionais de segurança social, criado pelo [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, depende directamente da comissão instaladora ou do órgão que lhe vier a suceder findo o regime de instalação.
 
-###### Art. 2.º - 1 - As funções do serviço de fiscalização serão desempenhadas por pessoal do quadro do respectivo centro regional, pertencente às seguintes carreiras: técnica superior, técnica e técnico-profissional e administrativa.
+Art. 2.º - 1 - As funções do serviço de fiscalização serão desempenhadas por pessoal do quadro do respectivo centro regional, pertencente às seguintes carreiras: técnica superior, técnica e técnico-profissional e administrativa.
 
 2 - A dotação, para cada centro regional, do pessoal a afectar ao serviço de fiscalização deve constar de proposta a submeter a despacho ministerial.
 
 3 - O apoio administrativo e auxiliar necessário ao funcionamento do serviço de fiscalização é prestado pelos correspondentes serviços do centro regional.
 
-###### Art. 3.º Os funcionários afectos ao serviço de fiscalização são portadores, para efeitos de identificação junto de contribuintes e beneficiários, do cartão de identidade, cujo modelo se encontra anexo ao presente diploma, e por ele é aprovado, a emitir pelo órgão directivo do centro regional.
+Art. 3.º Os funcionários afectos ao serviço de fiscalização são portadores, para efeitos de identificação junto de contribuintes e beneficiários, do cartão de identidade, cujo modelo se encontra anexo ao presente diploma, e por ele é aprovado, a emitir pelo órgão directivo do centro regional.
 
-###### Art. 4.º - 1 - Pelo exercício das respectivas funções, o pessoal do serviço de fiscalização dos centros regionais de segurança social tem direito à gratificação mensal de 5000$00, a actualizar por portaria dos Ministros das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, sempre que forem actualizados os vencimentos dos funcionários públicos.
+Art. 4.º - 1 - Pelo exercício das respectivas funções, o pessoal do serviço de fiscalização dos centros regionais de segurança social tem direito à gratificação mensal de 5000$00, a actualizar por portaria dos Ministros das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, sempre que forem actualizados os vencimentos dos funcionários públicos.
 
 2 - O direito à gratificação no seu montante máximo fica condicionado à realização de 15 deslocações mensais.
 
 3 - Sempre que o número de deslocações seja inferior a 15, o abono da gratificação fixado no n.º 1 deste artigo será calculado na base de 1/30.
 
-###### Art. 5.º É aplicável ao pessoal pertencente às mesmas carreiras do Instituto de Gestão Financeira da Segurança Social que, nos termos do artigo 6.º do [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, desempenhe funções de inspecção o disposto nos artigos 3.º e 4.º deste diploma.
+Art. 5.º É aplicável ao pessoal pertencente às mesmas carreiras do Instituto de Gestão Financeira da Segurança Social que, nos termos do artigo 6.º do [Decreto-Lei n.º 388/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1982-375808), de 16 de Setembro, desempenhe funções de inspecção o disposto nos artigos 3.º e 4.º deste diploma.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Luís Eduardo da Silva Barbosa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 17 de Maio de 1983.**
+Promulgado em 17 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Maio de 1983.**
+Referendado em 28 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14200/22372238.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14200/22372238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14200/22372238.pdf)

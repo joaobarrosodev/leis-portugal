@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-1982-375176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6c3421082e7dfbc2550db7a460a78888b2e5913e7b3e0d1d47f61f98900df8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7057b29979ae6a5613992dc0335c4accc87e591b0c8eeff67c42d7098df74feb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abrantes
+- Direcção Geral do Património
+- Interesse Público
+- Prédio Rústico
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507009:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:44Z'
   warnings: []
   errors: []
 ---
@@ -89,4 +102,4 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 24 de Junho de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22200/30263027.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22200/30263027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22200/30263027.pdf)

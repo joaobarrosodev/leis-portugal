@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 126/1999, 1º Suplemento, Série I-A de 1999-05-31
   number: '126'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3110-(2) a 3110-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/126a01/00020060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb2e8ef9b873ef235f04e3052dd81de5dc28fd71395d03e22e1937b9ea30d98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3df06927f5c9022484f143a5e9e2f93227b33d8b6d3f02b4a43cd86be5435dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,70 +72,68 @@ subjects:
 - Almeirim
 - Amarante
 - Apoio Administrativo
-- Jurisdição
-- Vila Franca de Xira
+- ÁREA de Jurisdição
 - Barcelos
 - Barreiro
 - Bombarral
 - Braga
-- Ordem dos Advogados
+- Cascais
 - Círculo Judicial
-- Procurador Geral da República
+- Coimbra
 - Competência Jurisdicional
+- Conselho dos Oficiais de Justiça
 - Conselho Superior da Magistratura
 - Criação de Lugares
 - Definição de Competências
 - Direcção Geral dos Serviços Judiciários
+- Évora
 - Faro
 - Feriado
 - Férias Judiciais
-- Lisboa
-- Pessoal de Justiça
-- Oficial de Justiça
-- Secretaria Geral
-- Tribunal do Trabalho
+- Funchal
 - Gabinete de Gestão Financeira
-- Ministério da Justiça
-- Remuneração Acessória
 - Guimarães
 - Horário de Funcionamento
 - Informatização
 - Instalação de Serviços
 - Integração de Trabalhadores
 - Julgamento
-- ÁREA de Jurisdição
+- Jurisdição
 - Lagoa
 - Leiria
+- Lisboa
 - Loures
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Mangualde
 - Mealhada
-- Conselho dos Oficiais de Justiça
+- Ministério da Justiça
+- Ministério Público
 - MIRA
 - Mirandela
 - Moita
+- Oeiras
+- Oficial de Justiça
 - Oliveira de Azeméis
+- Ordem dos Advogados
 - Orgânica
+- Organização Judiciária
 - Paços de Ferreira
 - Paredes
 - Penafiel
-- Setúbal
-- Funchal
-- VILA do Conde
-- Vila Real
+- Pessoal de Justiça
 - Pombal
-- Coimbra
 - Portalegre
 - Portimão
+- Porto
 - Póvoa de Varzim
 - Presidente
-- Supremo Tribunal de Justiça
-- Procurador Geral Adjunto
 - Procurador da República
+- Procurador Geral Adjunto
+- Procurador Geral da República
 - Regime de Exclusividade
-- Ministério Público
 - Remuneração
+- Remuneração Acessória
 - Ribeira Grande
 - Santa Comba DÃO
 - Santa CRUZ
@@ -143,19 +141,19 @@ subjects:
 - Santa CRUZ das Flores
 - Santa Maria da Feira
 - Santo Tirso
-- Évora
-- Organização Judiciária
+- Secretaria Geral
 - Secretaria Judicial
 - Seixal
 - Serviços Administrativos
+- Setúbal
 - Sever do Vouga
 - Silves
-- Cascais
-- Oeiras
 - Sintra
 - Substituição de Funções
+- Supremo Tribunal de Justiça
 - Tondela
 - Trabalho por Turnos
+- Tribunal
 - Tribunal Central de Instrução Criminal
 - Tribunal Colectivo
 - Tribunal da Relação
@@ -165,22 +163,131 @@ subjects:
 - Tribunal de Execução das Penas
 - Tribunal de Família e de Menores
 - Tribunal de Instrução Criminal
+- Tribunal do Trabalho
 - Tribunal Judicial
 - Tribunal Marítimo
-- Porto
-- Tribunal
 - VALE de Cambra
 - Valongo
 - VARA Criminal
 - Viana do Castelo
+- VILA do Conde
+- Vila Franca de Xira
 - VILA NOVA de Famalicão
 - VILA NOVA de GAIA
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:571615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346358:por
+  label: "Alterados os arts. 15.º, 24.º, 25.º, 31.º, 38.º, 39.º, 65.º, 66.º, 67.º e 75.º, alterados os mapas VII e VIII e\
+    \ republicado o mapa III anexo ao presente diploma, pelo DEC LEI.290/99.1999.07.30.MJDR.IS-A [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1999-346358
+  date: '1999-07-30'
+- type: amended_by
+  target: pt:dre:157599:por
+  label: "Aditado um nº 2 ao art. 61º pelo DEC LEI.27-B/2000.2000.03.03.MJ DR.IS-A [53]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-b-2000-157599
+  date: '2000-03-03'
+- type: amended_by
+  target: pt:dre:339395:por
+  label: "Alterados os mapas I, II, III, VI, VII e VIII anexos ao presente diploma pelo DEC LEI.178/2000.09.08.2000.MJ, DR.IS-A\
+    \ [183] de 09.08.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2000-339395
+  date: '2000-08-09'
+- type: amended_by
+  target: pt:dre:371041:por
+  label: "Alterados os mapas II e VI anexos, pelo DEC LEI.246-A/2001.2001.09.14.MJ, DR.IS-A [214]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-a-2001-371041
+  date: '2001-09-14'
+- type: amended_by
+  target: pt:dre:300608:por
+  label: "Alterados os arts 12º e 13º pelo DEC LEI.74/2002.2002.03.26.MJ DR.IS-A [72]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2002-300608
+  date: '2002-03-26'
+- type: amended_by
+  target: pt:dre:272404:por
+  label: "Alterados os arts. 16.º e 18.º, bem como o anexo VI (com a redacção introduzida pelo Dec Lei 246-A/2001, de 14-Set),\
+    \ e aditado o art. 16.º-A, pelo DEC LEI.148/2004.21.06.2004.MJ, DR.IS-A [144] de 21.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2004-272404
+  date: '2004-06-21'
+- type: amended_by
+  target: pt:dre:561977:por
+  label: "Alterados os mapas IV, V e VI (este último na redacção dos Dec Lei 178/2000, de 09-Ago, 246-A/2001, de 14-Set, e\
+    \ 148/2004, de 21-Jun) anexos ao presente diploma, pelo Dec Lei 219/2004 de 26-Out, DR.IS-A [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2004-561977
+  date: '2004-10-26'
+- type: amended_by
+  target: pt:dre:635828:por
+  label: "Revisto o presente diploma (criados, convertidos e extintos diversas varas e juízos) e alterado o mapa VI anexo,\
+    \ com as alterações introduzidas pelos Dec Lei 178/2000 de 09-Ago, 246-A/2001 de 14-Set, 148/2004 de 21-Jun e 219/2004\
+    \ de 26-Out e pela Res 59/2007 de 29-Mar, pelo DEC LEI.250/2007.29.06.2007.MJ, DR.IS [124] de 29.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2007-635828
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:670020:por
+  label: "Reorganizadas as comarcas da Cova da Beira e de Lisboa, procedendo à criação do Tribunal da Comarca da Cova da Beira\
+    \ (que se desdobra nos seguintes juízos de competência especializada, com sede na Covilhã: Juízo Misto do Trabalho e de\
+    \ Instrução Criminal, Juízo de Família e Menores, Juízo de Grande Instância Cível, Juízo de Média Instância e Pequena\
+    \ Instância Cível e Juízo de Instância Criminal; assim como com sede no Fundão: Juízo de Família e Menores, Juízo de Média\
+    \ e Pequena Instância Cível e Juízo de Instância Criminal) e do Tribunal da Comarca de Lisboa (que se desdobra nos seguintes\
+    \ juízos de competência especializada, com sede em Lisboa: Juízo do Trabalho, Juízo de Família e Menores, Juízo de Execução,\
+    \ Juízo Central de Instrução Criminal, Juízo do Comércio, Juízo de Grande Instância Cível, Juízo de Média Instância Cível,\
+    \ Juízo de Pequena Instância Cível, Juízo de Grande Instância Criminal, Juízo de Média Instância Criminal, Juízo de Pequena\
+    \ Instância Criminal, Juízo Marítimo e Juízo de Execução das Penas), assim como à criação, com sede na Covilhã, do Juízo\
+    \ de Família e Menores, do Juízo de Grande Instância Cível, do Juízo de Média e Pequena Instância Cível e do Juízo de\
+    \ Instância Criminal; e, com sede no Fundão, do Juízo de Família de Menores, Juízo de Média e Pequena Instância Cível\
+    \ e Juízo de Instância Criminal; à extinção (com efeitos a partir de 01.12.2011, salvo disposição em contrário) dos círculos\
+    \ judiciais da Covilhã e de Lisboa, e das comarcas da Covilhã, do Fundão e de Lisboa; bem como à extinção (na data de\
+    \ produção de efeitos da portaria que procede à alteração dos quadros de pessoal das respectivas secretarias) da 5ª Vara\
+    \ Cível do Tribunal da Comarca do Porto, do 4º Juízo Criminal do Tribunal da Comarca de Braga, do 5º Juízo de Competência\
+    \ Especializada Cível do Tribunal da Comarca de Oeiras, do 4º Juízo Cível do Tribunal da Comarca do Porto e do 4º Juízo\
+    \ do Tribunal da Comarca de São João da Madeira; à conversão dos seguintes tribunais, varas e juízos, em Lisboa: Tribunal\
+    \ do Trabalho, convertido em Juízo do Trabalho, Tribunal de Família e Menores, convertido em Juízo de Família e Menores,\
+    \ Juízos de Execução, convertidos em Juízo de Execução, Tribunal Central de Instrução Criminal, convertido em Juízo Central\
+    \ de Instrução Criminal, Tribunal de Instrução Criminal, convertido em Juízo de Instrução Criminal, Tribunal do Comércio,\
+    \ convertido em Juízo do Comércio, Varas Cíveis, convertidas no Juízo de Instância Cível, Juízos Cíveis, convertidos em\
+    \ Juízo de Média Instância Cível, Juízos de Pequena Instância Cível, convertidos no Juízo de Pequena Instância Cível,\
+    \ as Varas Criminais, convertidas no Juízo de Grande Instância Criminal, os Juízos Criminais, convertidos no Juízo de\
+    \ Média Instância Criminal, os Juízos de Pequena Instância Criminal, convertidos no Juízo de Pequena Instância Criminal,\
+    \ o Tribunal Marítimo, convertido no Juízo Marítimo, e o Tribunal de Execução das Penas, Juízo de Execução das Penas;\
+    \ assim como à conversão, na Covilhã, do Tribunal do Trabalho, em Juízo Misto do Trabalho e de Instrução Criminal da Covilhã;\
+    \ revogadas as referências aos municípios integrados nas comarcas da Cova da Beira e de Lisboa, constantes do presente\
+    \ diploma, e respectivos mapas anexos, salvo no que respeita ao mapa I, para efeitos de distribuição de competência dos\
+    \ tribunais da Relação; e dada nova redacção aos mapas II (alterado pelos Dec Lei 178/2000 de 09-Ago e 246-A/2011 de 14-Set),\
+    \ VI (alterado pelos Dec Lei 178/2000 de 09-Ago, 246-A/2001 de 14-Set, 148/2004 de 21-Jun e 219/2004 de 26-Out, pela Res\
+    \ 59/2007 de 24-Abr e pelo Dec Lei 250/2007 de 29-Jun), VII e VIII (ambos alterados pelos Dec Lei 290/99 de 30-Jul e 178/2000\
+    \ de 09-Ago) deste diploma, tudo pelo DEC LEI.74/2011.20.06.2011.MJ, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2011-670020
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:167413:por
+  label: "Alterados o Regulamento da Lei de Organização e Funcionamento dos Tribunais Judiciais e os mapas VI (na redacção\
+    \ do Dec Lei 178/2000, de 09-Ago, Dec Lei 246-A/2001, de 14-Set, Dec Lei 148/2004, de 21-Jun, Dec Lei 219/2004, de 26-Out,\
+    \ Dec Lei 250/2007, de 29-Jun, Dec Lei 25/2009, de 26-Jan, e Dec Lei 74/2011, de 20-Jun - ora revogado) e VII (na redacção\
+    \ do Dec Lei 290/99, de 30-Jul, Dec Lei 178/2000, de 09-Ago, e Dec Lei 74/2011, de 20-Jun - ora revogado), pelo DEC LEI.113-A/2011.29.11.2011.MJ,\
+    \ DR.IS [229-Supl] de 29.11.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-a-2011-167413
+  date: '2011-11-29'
+- type: amended_by
+  target: pt:dre:553633:por
+  label: "Alterados o art. 37º e os mapas VI (na redacção do Dec Lei 178/2000, de 09-Ago, Dec Lei 246-A/2001, de 14-Set, Dec\
+    \ Lei 148/2004, de 21-Jun, Dec Lei 219/2004, de 26-Out, Dec Lei 250/2007, de 29-Jun, Dec Lei 25/2009, de 26-Jan, Dec Lei\
+    \ 74/2011, de 20-Jun e Dec Lei 113-A/201, de 29-Nov) e VII (na redacção do Dec Lei 290/99, de 30-Jul, Dec Lei 178/2000,\
+    \ de 09-Ago, Dec Lei 74/2011, de 20-Jun e Dec Lei 113-A/201, de 29-Nov), do Regulamento da Lei de Organização e Funcionamento\
+    \ dos Tribunais Judiciais aprovado pelo presente diploma, pelo DEC LEI.67/2012.20.03.2012.MJ, DR.IS [57] de 20.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2012-553633
+  date: '2012-03-20'
+- type: amended_by
+  target: pt:dre:571615:por
+  label: "Extintos a partir de 01.09.2014, os atuais distritos judiciais, os atuais círculos judiciais e as atuais comarcas,\
+    \ pelo DEC LEI.49/2014.27.03.2014.MJ, DR.IS [61] de 27.03.2014, nos termos do art. 117º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2014-571615
+  date: '2014-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1991/06/07/p/dre
   label: null
@@ -201,16 +308,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453251:por
+  label: "Revogado a partir de 02.01.2009, mantida em vigor até 31 de Agosto de 2010, a competência territorial dos tribunais\
+    \ da Relação, tal como definida no presente diploma, pela LEI.52/2008.28.08.2008.AR, DR.IS [166] de 28.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: repealed_by
+  target: pt:dre:602770:por
+  label: "Revogadas, nos termos do nº 1 do art. 51.º, as referências aos municípios integrados nas comarcas piloto do Alentejo\
+    \ Litoral, Baixo Vouga e Grande Lisboa-Noroeste e respectivos mapas anexos, salvo no que respeita ao mapa I, e alterados,\
+    \ nos termos do nº 2 do mesmo artigo, os mapas II, VI, e VIII, todos do presente diploma, pelo DEC LEI.25/2009.26.01.2009.MJ,\
+    \ DR.IS [17] de 26.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2009-602770
+  date: '2009-01-26'
+- type: repealed_by
+  target: pt:dre:499514:por
+  label: "Revogado pela LEI.62/2013.26.08.2013.AR, DR.IS [163] de 26.08.2013, nos termos do disposto no nº 1 do seu art. 188º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2013-499514
+  date: '2013-08-26'
 article_structure:
   article_count: 75
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:25Z'
   warnings: []
   errors: []
 ---
@@ -259,9 +410,13 @@ Do mesmo modo, proceder-se-á gradualmente ao preenchimento do quadro de juízes
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de Janeiro, nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
 
-#### SECÇÃO I — Divisão judicial e quadros de magistrados
+#### SECÇÃO I
 
-###### Artigo 1.º — Divisão judicial
+##### Divisão judicial e quadros de magistrados
+
+###### Artigo 1.º
+
+##### Divisão judicial
 
 1 - O território nacional divide-se em quatro distritos judiciais, com sede, respectivamente, em Lisboa, Porto, Coimbra e Évora.
 
@@ -1237,15 +1392,15 @@ O presente diploma produz efeitos no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 25 de Maio de 1999.**
+Promulgado em 25 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Maio de 1999.**
+Referendado em 27 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 

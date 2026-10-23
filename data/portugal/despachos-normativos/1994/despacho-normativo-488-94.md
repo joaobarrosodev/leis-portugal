@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/488/1994/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/488-1994-299601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fb919e195d54780e4655765e710bc89ed3c2cacfe5986751e08a9edf460130a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3deb061b00186d53e9865ffeb72b14a2b02c080640f7713daf57ca7ade1d2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exploração Florestal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:20:06Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ O surto de incêndios florestais que nos últimos anos tem afectado o País, sob
 
 Por outro lado, importa atenuar o impacte sobre o Orçamento do Estado do esquema de subsídios adoptado no passado recente, orientando as populações no sentido de recorrerem ao mecanismo normal de cobertura dos prejuízos através do seguro contra incêndios.
 
-**O Ministro da Administração Interna, atento ao Programa do XII Governo Constitucional, no que se refere à protecção civil e à semelhança de anos anteriores, determina o seguinte:**
+O Ministro da Administração Interna, atento ao Programa do XII Governo Constitucional, no que se refere à protecção civil e à semelhança de anos anteriores, determina o seguinte:
 
 1 - É atribuída ao Serviço Nacional de Protecção Civil (SNPC) a missão de estudar e avaliar as declarações de prejuízos de natureza social e pedidos de subsídio formulados pelas vítimas dos incêndios florestais ocorridos na época estival de 1994 e proceder à concessão de subsídios até ao montante global de 150000 contos.
 

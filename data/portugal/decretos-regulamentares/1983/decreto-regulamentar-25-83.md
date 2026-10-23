@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1983-310453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e282ac9fdedfc9f535f5d70f4dae99a7d3f408242057a45a15acde3377349af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee917b6bf5552dba47b26e79efa94509634897fd35bd2906e572655dc926fa90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Coimbra
+- Comunidades Portuguesas
+- Criação de Serviços
+- Emigrante
+- Faro
+- Guarda
+- Instituto de Apoio à Emigração e às Comunidades Portuguesas
+- Porto
+- Serviço Regional
 relationships:
 - type: amended_by
   target: pt:dre:515462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515462:por
+  label: "Alterada a denominação das delegações regionais e aprovada a sua transição para o âmbito da Direcção Geral dos Assuntos\
+    \ Consulares e Comunidades Portuguesas, pelo DEC LEI.53/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1994-515462
+  date: '1994-02-24'
+- type: cites
+  target: pt:dre:428224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457404:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:13Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +118,9 @@ No que respeita à cidade do Porto, já há muitos anos ali se encontra a funcio
 
 Assim sendo, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas no Instituto de Apoio à Emigração e às Comunidades Portuguesas as Delegações do Porto, de Coimbra, da Guarda e de Faro.
+Artigo 1.º São criadas no Instituto de Apoio à Emigração e às Comunidades Portuguesas as Delegações do Porto, de Coimbra, da Guarda e de Faro.
 
-###### Art. 2.º São atribuições das delegações do Instituto:
+Art. 2.º São atribuições das delegações do Instituto:
 
 a) Orientar e informar os trabalhadores que desejam emigrar, organizar os respectivos processos e intervir na obtenção da documentação que para o efeito se torna necessária;
 
@@ -111,9 +134,9 @@ e) Cooperar na repressão de actividades ilícitas referentes a emigração, des
 
 f) Quaisquer outras actuações que lhe sejam cometidas pela direcção do Instituto.
 
-###### Art. 3.º As delegações do Instituto são dirigidas por um chefe de repartição e dependem hierarquicamente da direcção do Instituto, sem prejuízo de se poderem corresponder e tratar de assuntos das suas atribuições directamente com os serviços do Instituto ou de outras entidades, segundo a orientação que lhes seja fixada pela direcção.
+Art. 3.º As delegações do Instituto são dirigidas por um chefe de repartição e dependem hierarquicamente da direcção do Instituto, sem prejuízo de se poderem corresponder e tratar de assuntos das suas atribuições directamente com os serviços do Instituto ou de outras entidades, segundo a orientação que lhes seja fixada pela direcção.
 
-###### Art. 4.º Compete ao chefe de cada delegação:
+Art. 4.º Compete ao chefe de cada delegação:
 
 a) Coordenar e orientar os serviços da delegação, assegurando o cumprimento das suas atribuições;
 
@@ -125,20 +148,20 @@ d) Apresentar relatórios sobre a actividade desenvolvida pela delegação, nos 
 
 e) Representar a delegação e o Instituto junto de quaisquer entidades, quando tal lhe for cometido e dentro dos moldes que lhe forem fixados.
 
-###### Art. 5.º O pessoal das delegações fará parte do quadro único do Instituto e será destacado para as respectivas delegações por despacho do presidente do Instituto.
+Art. 5.º O pessoal das delegações fará parte do quadro único do Instituto e será destacado para as respectivas delegações por despacho do presidente do Instituto.
 
-###### Art. 6.º - 1 - Ao quadro de pessoal do Instituto de Apoio à Emigração e às Comunidades Portuguesas, constante do mapa anexo à [Portaria n.º 961/80](https://diariodarepublica.pt/dr/detalhe/portaria/961-1980-457404), de 11 de Novembro, são aditados 4 lugares de chefe de repartição, letra E, ficando a constar do referido quadro o número de 6 lugares de chefe de repartição, tendo em conta que um dos lugares incluídos no citado mapa já foi extinto, por ter vagado.
+Art. 6.º - 1 - Ao quadro de pessoal do Instituto de Apoio à Emigração e às Comunidades Portuguesas, constante do mapa anexo à [Portaria n.º 961/80](https://diariodarepublica.pt/dr/detalhe/portaria/961-1980-457404), de 11 de Novembro, são aditados 4 lugares de chefe de repartição, letra E, ficando a constar do referido quadro o número de 6 lugares de chefe de repartição, tendo em conta que um dos lugares incluídos no citado mapa já foi extinto, por ter vagado.
 
 2 - Os 4 lugares de chefe de repartição criados no número anterior poderão ser imediatamente preenchidos, sendo o provimento a efectuar nos termos do n.º 5 do artigo 3.º do [Decreto n.º 375/76](https://diariodarepublica.pt/dr/detalhe/decreto/375-1976-428224), de 19 de Maio.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Adriano Gago Vitorino - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 22 de Fevereiro de 1983.**
+Promulgado em 22 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Março de 1983.**
+Referendado em 1 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

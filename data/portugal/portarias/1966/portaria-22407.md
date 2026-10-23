@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22407-1966-488165
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8584a749b61b586674144a1c9f182495a0e8879ed9d6fc44b48fa45e70ce1e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b918d968339cd3e49b8925c4cf889aa0a03cbdfdcd3e3004f517f87df0fb4ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:237818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:58Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +96,6 @@ Ministério da Saúde e Assistência, 30 de Dezembro de 1966. - O Ministro da Sa
 
 Modelos das insígnias das medalhas a que se refere a Portaria n.º 22407
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/12/30200/23612362.pdf))](https://files.diariodarepublica.pt/1s/1966/12/30200/23612362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/12/30200/23612362.pdf)
 
 Ministério da Saúde e Assistência, 30 de Dezembro de 1966. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

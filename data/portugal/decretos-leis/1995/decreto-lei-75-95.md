@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/092a00/22192222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/1995/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1995-224068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8054b05b96e9ff1a1728a927c4cfb60a4af4af97eb918b5aef31808cb41003e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8abce646762ce8110390e36d285f9f067d89c1944847d7f6306aac09738e8f37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interprofissional da Região Demarcada do Douro
-- Denominação de Origem
 - Controlo de Qualidade
 - Definição de Competências
+- Denominação de Origem
 - Fiscalização
 - Instituto do Vinho do Porto
 - Orgânica
@@ -80,16 +80,30 @@ relationships:
   target: pt:dre:468404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468404:por
+  label: "Revogado o Dec Lei 192/88 de 30-Mai, com a redacção do presente diploma, a partir da entrada em vigor do DEC LEI.278/2003.06.11.2003.MADRP,\
+    \ DR.IS-A [257] de 06.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-2003-468404
+  date: '2003-11-06'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:31Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +124,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º a 6.º e 9.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º a 6.º e 9.º do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Sede e delegações
 
@@ -224,9 +238,9 @@ m) [Anterior alínea l).]
 
 n) [Anterior alínea m).]
 
-###### Art. 2.º São revogadas a alínea b) do artigo 7.º e a secção II do capítulo III do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio.
+Art. 2.º São revogadas a alínea b) do artigo 7.º e a secção II do capítulo III do [Decreto-Lei n.º 192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio.
 
-###### Art. 3.º - 1 - A título transitório, e até ao início do mandato do conselho geral da Comissão Interprofissional da Região Demarcada do Douro (CIRDD), continua o IVP a prosseguir as atribuições que lhe foram conferidas pelos Decretos-Leis n.os [166/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1986-228465), de 26 de Junho, e [192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, na sua anterior redacção, relativamente às seguintes matérias:
+Art. 3.º - 1 - A título transitório, e até ao início do mandato do conselho geral da Comissão Interprofissional da Região Demarcada do Douro (CIRDD), continua o IVP a prosseguir as atribuições que lhe foram conferidas pelos Decretos-Leis n.os [166/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1986-228465), de 26 de Junho, e [192/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1988-374380), de 30 de Maio, na sua anterior redacção, relativamente às seguintes matérias:
 
 a) Fixação da quantidade de mosto que deve ser beneficiado em cada ano na Região Demarcada do Douro;
 
@@ -240,12 +254,12 @@ c) Aprovação das regras e dos prazos a que devem obedecer as compras a efectua
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 14 de Março de 1995.**
+Promulgado em 14 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1995.**
+Referendado em 16 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

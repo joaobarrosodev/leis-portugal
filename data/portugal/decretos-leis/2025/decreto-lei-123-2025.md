@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2025/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2025-949908817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e0f071d3da46419168788b762bdb58d9f644380d674d120ce7e46396cdda074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d25cd5fa24cbda0b87a4ba72f0af0cd7c24f2d67612e918992aa06dab16d55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Construção Civil
-- Obras Particulares
-- Contra-ordenação
-- Segurança no Trabalho
-- Fiscalização
-- Indústria da Construção
-- Obras Públicas
-- Habitação
-- Saúde no Trabalho
-- Trabalhador por Conta de Outrem
 - Autoridade para as Condições do Trabalho
+- Construção Civil
+- Contra-ordenação
+- Fiscalização
+- Habitação
+- Indústria da Construção
+- Multa
+- Obras Particulares
+- Obras Públicas
+- Saúde no Trabalho
+- Segurança no Trabalho
+- Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: celex:31992L0057
@@ -123,6 +123,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
+- type: cites
+  target: pt:dre:115440317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:867194464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:911693279:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31992L0057
   label: null
@@ -130,13 +210,13 @@ relationships:
 article_structure:
   article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:10Z'
   warnings: []
   errors: []
 ---
@@ -281,9 +361,9 @@ d) A resolução das desconformidades identificadas, nos termos previstos no n.�
 
 4 - O empregador é ainda responsável, designadamente, por:
 
-a) Escolher o tipo de alojamento temporário a disponibilizar, nos termos dos n.<sup>os</sup>2 e 3 do artigo 7.º;
+a) Escolher o tipo de alojamento temporário a disponibilizar, nos termos dos n.os2 e 3 do artigo 7.º;
 
-b) Garantir o cumprimento do disposto nos n.<sup>os</sup>2 e 3 do artigo 9.º, no n.º 1 do artigo 10.º, nos n.<sup>os</sup>1 e 2 do artigo 11.º e no n.º 1 do artigo 21.º, caso corresponda à entidade executante;
+b) Garantir o cumprimento do disposto nos n.os2 e 3 do artigo 9.º, no n.º 1 do artigo 10.º, nos n.os1 e 2 do artigo 11.º e no n.º 1 do artigo 21.º, caso corresponda à entidade executante;
 
 c) Elaborar um regulamento interno, nos termos previstos no n.º 1 do artigo 20.º;
 
@@ -381,7 +461,7 @@ a) Deslocações diárias dos trabalhadores deslocados que comprometam o tempo d
 
 b) A existência de obstáculos de difícil resolução no acesso a infraestruturas destinadas ao fornecimento de eletricidade e de água e que permitam ligação às redes de saneamento preexistentes.
 
-4 - Os requisitos previstos nos n.<sup>os</sup>2 e 3 são objeto de regulamentação pela portaria mencionada no n.º 2 do artigo anterior.
+4 - Os requisitos previstos nos n.os2 e 3 são objeto de regulamentação pela portaria mencionada no n.º 2 do artigo anterior.
 
 ###### Artigo 10.º — Capacidade do alojamento temporário
 
@@ -449,7 +529,7 @@ Compete à entidade executante realizar as obras necessárias à instalação do
 
 3 - As despesas com a remoção e desmantelamento do alojamento temporário devem ser suportadas pela entidade executante.
 
-4 - Em caso de incumprimento dos prazos estipulados nos n.<sup>os</sup>1 e 2, o dono da obra deve notificar a entidade executante, caso sejam entidades distintas, para proceder à reposição da situação anterior à instalação do alojamento temporário, num prazo razoável.
+4 - Em caso de incumprimento dos prazos estipulados nos n.os1 e 2, o dono da obra deve notificar a entidade executante, caso sejam entidades distintas, para proceder à reposição da situação anterior à instalação do alojamento temporário, num prazo razoável.
 
 5 - Mantendo-se a situação de incumprimento prevista no número anterior após o decurso do prazo previsto no mesmo número, compete ao dono da obra, diretamente ou por intermédio de terceiro, proceder à reposição da situação anterior à instalação do alojamento temporário, a expensas da entidade executante.
 
@@ -477,15 +557,15 @@ c) Respeitar o disposto no presente decreto-lei e na portaria mencionada no n.º
 
 5 - O subempreiteiro pode sugerir, e a entidade executante pode promover, soluções alternativas às previstas no plano de alojamento temporário, desde que tal não implique a inobservância do previsto no presente diploma.
 
-6 - A aprovação e a validação parciais do plano de alojamento temporário mencionadas nos n.<sup>os</sup>3 e 4, devem ocorrer após a elaboração dos elementos referidos nas alíneas a) a d) do artigo seguinte.
+6 - A aprovação e a validação parciais do plano de alojamento temporário mencionadas nos n.os3 e 4, devem ocorrer após a elaboração dos elementos referidos nas alíneas a) a d) do artigo seguinte.
 
-7 - A aprovação e a validação integrais do plano de alojamento temporário mencionadas nos n.<sup>os</sup>3 e 4, devem ocorrer após a elaboração de todos os elementos referidos no artigo seguinte.
+7 - A aprovação e a validação integrais do plano de alojamento temporário mencionadas nos n.os3 e 4, devem ocorrer após a elaboração de todos os elementos referidos no artigo seguinte.
 
-8 - A entidade executante só deve iniciar a implantação do alojamento temporário após a aprovação ou a validação parcial do plano de alojamento temporário, nos termos previstos nos n.<sup>os</sup>3 e 4, consoante aplicável.
+8 - A entidade executante só deve iniciar a implantação do alojamento temporário após a aprovação ou a validação parcial do plano de alojamento temporário, nos termos previstos nos n.os3 e 4, consoante aplicável.
 
 9 - O dono da obra deve impedir que a entidade executante desrespeite o disposto no número anterior, caso sejam entidades distintas.
 
-10 - O dono da obra deve dar conhecimento, por escrito, do plano de alojamento temporário integralmente aprovado ou validado, nos termos previstos nos n.<sup>os</sup>3 e 4, consoante aplicável, e das respetivas alterações, à entidade executante, caso sejam entidades distintas.
+10 - O dono da obra deve dar conhecimento, por escrito, do plano de alojamento temporário integralmente aprovado ou validado, nos termos previstos nos n.os3 e 4, consoante aplicável, e das respetivas alterações, à entidade executante, caso sejam entidades distintas.
 
 11 - Após receber o plano de alojamento temporário nos termos do número anterior, a entidade executante deve dar conhecimento do mesmo a todos os intervenientes da obra.
 
@@ -531,7 +611,7 @@ c) Comunicar ao empregador a ocorrência de qualquer desconformidade.
 
 ###### Artigo 19.º — Vistoria inicial
 
-1 - No prazo de 10 dias após a aprovação ou validação parciais do plano de alojamento temporário, nos termos dos n.<sup>os</sup>3 e 4 do artigo 16.º, consoante aplicável, ou a realização das respetivas obras, quando aplicável, o alojamento temporário é objeto de vistoria para verificação da conformidade com o plano de alojamento temporário, com o presente decreto-lei e com a portaria mencionada no n.º 2 do artigo 8.º
+1 - No prazo de 10 dias após a aprovação ou validação parciais do plano de alojamento temporário, nos termos dos n.os3 e 4 do artigo 16.º, consoante aplicável, ou a realização das respetivas obras, quando aplicável, o alojamento temporário é objeto de vistoria para verificação da conformidade com o plano de alojamento temporário, com o presente decreto-lei e com a portaria mencionada no n.º 2 do artigo 8.º
 
 2 - A vistoria mencionada no número anterior, deve ser realizada pelo coordenador de segurança em obra.
 
@@ -545,7 +625,7 @@ c) Comunicar ao empregador a ocorrência de qualquer desconformidade.
 
 ###### Artigo 21.º — Utilização do alojamento temporário
 
-1 - O alojamento temporário só deve ser utilizado após a aprovação ou a validação integrais do plano de alojamento temporário, nos termos previstos nos n.<sup>os</sup>3 e 4 do artigo 16.º, consoante aplicável, e a elaboração e aceitação do teor do regulamento interno, nos termos dos n.<sup>os</sup>1 e 2 do artigo anterior.
+1 - O alojamento temporário só deve ser utilizado após a aprovação ou a validação integrais do plano de alojamento temporário, nos termos previstos nos n.os3 e 4 do artigo 16.º, consoante aplicável, e a elaboração e aceitação do teor do regulamento interno, nos termos dos n.os1 e 2 do artigo anterior.
 
 2 - O prazo fixado no contrato para a execução da obra não começa a correr antes de se verificarem as condições necessárias para a utilização do alojamento temporário mencionadas no número anterior.
 
@@ -627,13 +707,13 @@ c) A identificação e correção das desconformidades que envolvam riscos para 
 
 1 - Constitui contraordenação muito grave, imputável ao empregador, a prática dos seguintes factos:
 
-a) A violação do disposto nos n.<sup>os</sup>1 e 2 e nas alíneas a) e b) do n.º 3 do artigo 5.º;
+a) A violação do disposto nos n.os1 e 2 e nas alíneas a) e b) do n.º 3 do artigo 5.º;
 
 b) A violação do disposto no n.º 1 do artigo 10.º;
 
-c) A violação do disposto nos n.<sup>os</sup>1 e 2 do artigo 11.º;
+c) A violação do disposto nos n.os1 e 2 do artigo 11.º;
 
-d) A violação do disposto nos n.<sup>os</sup>1, 8 e 11 do artigo 16.º;
+d) A violação do disposto nos n.os1, 8 e 11 do artigo 16.º;
 
 e) A violação do disposto no n.º 1 do artigo 21.º;
 
@@ -667,9 +747,9 @@ b) A violação do disposto no n.º 1 do artigo 27.º
 
 ###### Artigo 29.º — Regime da responsabilidade contraordenacional
 
-1 - O regime geral da responsabilidade contraordenacional consagrado nos artigos 548.º a 566.º do Código do Trabalho aplica-se, subsidiariamente, às infrações previstas nos n.<sup>os</sup>1 a 3 do artigo anterior, sem prejuízo das competências legais atribuídas nas regiões autónomas, aos respetivos órgãos e serviços regionais.
+1 - O regime geral da responsabilidade contraordenacional consagrado nos artigos 548.º a 566.º do Código do Trabalho aplica-se, subsidiariamente, às infrações previstas nos n.os1 a 3 do artigo anterior, sem prejuízo das competências legais atribuídas nas regiões autónomas, aos respetivos órgãos e serviços regionais.
 
-2 - O processamento das contraordenações previstas nos n.<sup>os</sup>1 a 3 do artigo anterior, é regulado pelo regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, na sua redação atual.
+2 - O processamento das contraordenações previstas nos n.os1 a 3 do artigo anterior, é regulado pelo regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, na sua redação atual.
 
 3 - À contraordenação prevista no n.º 5 do artigo 28.º, aplica-se o disposto no RJUE.
 
@@ -693,12 +773,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de setembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz - Rosário Palma Ramalho.
 
-**Promulgado em 13 de novembro de 2025.**
+Promulgado em 13 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de novembro de 2025.**
+Referendado em 14 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119779313

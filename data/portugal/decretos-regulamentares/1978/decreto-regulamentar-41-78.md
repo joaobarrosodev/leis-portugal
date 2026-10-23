@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26300/23942396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1978-325960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab88543ab844de1e652725551d408633bc6f9e9b596c982fdbf517a1a70da7f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbf1f25fc25bafa6af8c9ef9a4403f71774f4f43545b04260d65b7fcfb0855c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Instalações Radioelétricas
+- Oeiras
+- Radio Marconi
+- Servidão Radioelétrica
+- Utilidade Pública
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:70373437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70373437:por
+  label: Revogado, a partir de 29.09.2015, pelo(a) Decreto Regulamentar n.º 18/2015 - Diário da República n.º 187/2015, Série
+    I de 2015-09-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-2015-70373437
+  date: '2015-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:59Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +118,9 @@ Considerando o disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As zonas confinantes com a estação receptora e costeira Lisboa-Rádio, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As zonas confinantes com a estação receptora e costeira Lisboa-Rádio, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º A estação receptora e costeira referida no número anterior situa-se em Linda-a-Velha, município de Oeiras, e ocupa uma área aproximada de 12100 m2, confinando com prédios cujos proprietários são a seguir indicados:
+Art. 2.º A estação receptora e costeira referida no número anterior situa-se em Linda-a-Velha, município de Oeiras, e ocupa uma área aproximada de 12100 m2, confinando com prédios cujos proprietários são a seguir indicados:
 
 a) A norte:
 
@@ -145,13 +166,13 @@ Bairro económico (em princípio de construção) do Fundo de Fomento da Habita�
 
 Adérito Machado Gonçalves Pereira, Rua do Marquês de Sá da Bandeira, 8, 1.º, direito, Lisboa.
 
-###### Art. 3.º As zonas de libertação primária e secundária a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631) encontram-se demarcadas na planta topográfica, na escala 1:25000, incluída na parte final do presente diploma e têm a seguinte extensão:
+Art. 3.º As zonas de libertação primária e secundária a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631) encontram-se demarcadas na planta topográfica, na escala 1:25000, incluída na parte final do presente diploma e têm a seguinte extensão:
 
 Zona de libertação primária: de 50 m a 100 m;
 
 Zona de libertação secundária: 550 m.
 
-###### Art. 4.º - 1 - Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
+Art. 4.º - 1 - Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
 
 a) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;
 
@@ -171,7 +192,7 @@ a) As linhas aéreas de energia eléctrica só serão permitidas para tensão co
 
 b) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou móvel se o nível superior de tal obstáculo não ultrapassar a cota máxima de 109 m em relação ao nível do mar, adicionada a um décimo de distância entre o mesmo e o limite exterior da zona primária.
 
-###### Art. 5.º A Direcção dos Serviços de Telecomunicações dos CTT é a entidade competente para:
+Art. 5.º A Direcção dos Serviços de Telecomunicações dos CTT é a entidade competente para:
 
 a) Conceder as autorizações que se referenciam nos n.os 1 e 2 do artigo anterior;
 
@@ -181,16 +202,16 @@ c) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 d) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), as multas decorrentes das infracções verificadas.
 
-###### Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministério dos Transportes e Comunicações.
+Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministério dos Transportes e Comunicações.
 
 Alfredo Jorge Nobre da Costa - António Gonçalves Ribeiro - Amílcar José de Gouveia Marques - João Orlindo de Almeida Pina.
 
-**Promulgado em 26 de Outubro de 1978.**
+Promulgado em 26 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/26300/23942396.pdf))](https://files.diariodarepublica.pt/1s/1978/11/26300/23942396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/26300/23942396.pdf)
 
-**O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.**
+O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.

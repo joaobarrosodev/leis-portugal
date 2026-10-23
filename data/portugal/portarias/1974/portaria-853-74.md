@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/853-1974-461240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1faf2f28c0147d5d00e1304c6ae907871c0a9e7e20c3440ec8b397cdefbde5cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83b3dcfc3b482b7d6334321a7398864736e8835decbdd5420011d9f6b94d7cb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Junta Autónoma dos Portos do Distrito de Ponta Delgada
+- Tarifa Portuária
+relationships:
+- type: cites
+  target: pt:dre:235511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:31Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transpo
 
 ### CAPÍTULO I — Guindastes e outros aparelhos de carga
 
-###### Art. 63.º Pela utilização de guindastes, transportadores e outros aparelhos de carga e descarga, dentro da área do porto, da Junta são cobradas as taxas seguintes por hora ou fracção:
+Art. 63.º Pela utilização de guindastes, transportadores e outros aparelhos de carga e descarga, dentro da área do porto, da Junta são cobradas as taxas seguintes por hora ou fracção:
 
 a) Guindastes:
 
@@ -153,7 +164,7 @@ Bombas eléctricas de mais de 2 polegadas de diâmetro ... 120$00
 
 ### CAPÍTULO III — Utilização de rebocadores
 
-###### Art. 70.º Pela utilização de rebocadores para o serviço de atracação ou desatracação aos molhes e amarração ou desamarração às bóias das embarcações serão cobradas por cada rebocador empregado as seguintes taxas:
+Art. 70.º Pela utilização de rebocadores para o serviço de atracação ou desatracação aos molhes e amarração ou desamarração às bóias das embarcações serão cobradas por cada rebocador empregado as seguintes taxas:
 
 Embarcações até 1000 tAB ... 750$00
 
@@ -207,7 +218,7 @@ a) Esta taxa não é aplicável dentro das horas normais de serviço, em dias ú
 
 § 10.º Quando se trate de serviços especiais, tais como salvamentos, assistência a navios em perigo, incêndio a bordo, água aberta e todos aqueles que não sejam especificamente de reboque a navios para as manobras de atracação e desatracação, dentro do porto de Ponta Delgada, será acordada uma tarifa especial entre a comissão administrativa da Junta e o requisitante.
 
-###### Art. 70.º-A. Pela utilização das lanchas a motor serão cobradas por hora de serviço as seguintes taxas:
+Art. 70.º-A. Pela utilização das lanchas a motor serão cobradas por hora de serviço as seguintes taxas:
 
 Lanchas até 50 HP ... 250$00
 
@@ -221,7 +232,7 @@ Lanchas acima de 100 HP ... 500$00
 
 ### CAPÍTULO IV — Utilização de planos inclinados, rampas e varadouros
 
-###### Art. 75.º Pela utilização de rampas e varadouros cobrar-se-ão as seguintes taxas:
+Art. 75.º Pela utilização de rampas e varadouros cobrar-se-ão as seguintes taxas:
 
 Pela elevação e descida de embarcações:
 
@@ -261,7 +272,7 @@ Botes e pequenas embarcações ... 1$00
 
 ### CAPÍTULO V — Básculas e balanças
 
-###### Art. 76.º Pela utilização das básculas do porto serão cobradas as seguintes taxas:
+Art. 76.º Pela utilização das básculas do porto serão cobradas as seguintes taxas:
 
 a) Por cada pesagem de automóvel, camioneta ou camião, tractor ou outros volumes ... 5$00
 
@@ -269,13 +280,13 @@ b) Gado (por cabeça) ... 1$00
 
 c) Por cada tonelada de carga registada ... 1$00
 
-###### Art. 77.º Pela utilização das balanças do porto será cobrada, por cada pesagem, a taxa de 1$50.
+Art. 77.º Pela utilização das balanças do porto será cobrada, por cada pesagem, a taxa de 1$50.
 
 A utilização das balanças do porto é obrigatória desde que as haja disponíveis. Na sua falta, poderá o consignatário da mercadoria usar balanças próprias, pagando 50% daquela taxa.
 
 ### CAPÍTULO VII — Serviço de mergulhador
 
-###### Art. 79.º As taxas de serviço do mergulhador, compreendendo o pessoal e material necessários, são as seguintes:
+Art. 79.º As taxas de serviço do mergulhador, compreendendo o pessoal e material necessários, são as seguintes:
 
 Mergulhador convencional:
 
@@ -287,13 +298,13 @@ Mergulhador autónomo:
 
 Por cada hora de mergulhação e por períodos indivisíveis ... 250$00
 
-###### Art. 80.º ...
+Art. 80.º ...
 
 § 3.º Aos mergulhadores e guias de mergulhação que beneficiarem do disposto neste artigo não serão abonadas horas extraordinárias.
 
 ### CAPÍTULO IX — Entrada nos recintos reservados e nos terraplenos
 
-###### Art. 86.º A entrada nos recintos reservados do porto ou nos seus terraplenos fica sujeita ao pagamento das seguintes taxas:
+Art. 86.º A entrada nos recintos reservados do porto ou nos seus terraplenos fica sujeita ao pagamento das seguintes taxas:
 
 Por cada veículo de carga ... 3$00
 
@@ -327,7 +338,7 @@ A Junta poderá conceder, em casos especiais, autorizações para entrada gratui
 
 ### CAPÍTULO XII — Defensas
 
-###### Art. 89.º Pela utilização de defensas serão cobradas as seguintes taxas por cada dia ou fracção:
+Art. 89.º Pela utilização de defensas serão cobradas as seguintes taxas por cada dia ou fracção:
 
 Defensas fixas ... 100$00
 
@@ -337,7 +348,7 @@ Defensas flutuantes ... 75$00
 
 ### CAPÍTULO XIV — Pranchas, estrados e cavaletes
 
-###### Art. 91.º Pela utilização das pranchas, estrados e cavaletes serão cobradas as seguintes taxas, por dia ou fracção:
+Art. 91.º Pela utilização das pranchas, estrados e cavaletes serão cobradas as seguintes taxas, por dia ou fracção:
 
 Pranchas até 5 m ... 50$00
 
@@ -347,13 +358,13 @@ Estrados e cavaletes ... 20$00
 
 ### CAPÍTULO XV — Encerados
 
-###### Art. 92.º Pela utilização de encerados para cobrir mercadoria será cobrada a taxa de 50$00 por cada dia ou fracção.
+Art. 92.º Pela utilização de encerados para cobrir mercadoria será cobrada a taxa de 50$00 por cada dia ou fracção.
 
 § único. Os serviços respectivos providenciarão para que toda a mercadoria estacionada no cais seja coberta com encerados, salvo declaração em contrário do consignatário no acto da descarga.
 
 ### CAPÍTULO XVI — Serviço de amarração e desamarração a postes fixos
 
-###### Art. 93.º Pelo serviço de amarração e desamarração aos órgãos de amarração fixos serão pagas, por cada operação e dentro dos períodos normais de trabalho, as seguintes taxas:
+Art. 93.º Pelo serviço de amarração e desamarração aos órgãos de amarração fixos serão pagas, por cada operação e dentro dos períodos normais de trabalho, as seguintes taxas:
 
 Embarcações até 5000 tAB ... 200$00
 
@@ -363,13 +374,13 @@ Embarcações superiores a 5000 tAB ... 300$00
 
 ### CAPÍTULO XVIII — Serviço de amarrar ou desamarrar espias
 
-###### Art. 95.º ...
+Art. 95.º ...
 
 § único. Pela utilização de lanchas para recolha e passagem de cabos na atracação ou amarração das embarcações e nas mudanças será cobrada, por cada serviço, a taxa de 250$00, independentemente do tempo empregado.
 
 ### CAPÍTULO XIX — Bagagens
 
-###### Art. 97.º O transporte de bagagens dos passageiros de ou para as embarcações é feito unicamente pelo pessoal da Junta ou por aquele que esta autorizar, mediante o pagamento das seguintes taxas:
+Art. 97.º O transporte de bagagens dos passageiros de ou para as embarcações é feito unicamente pelo pessoal da Junta ou por aquele que esta autorizar, mediante o pagamento das seguintes taxas:
 
 Natureza e peso dos volumes:
 
@@ -389,7 +400,7 @@ Automóveis ... 100$00
 
 § único. As taxas acima descritas dizem respeito, no embarque, ao transporte de bagagem desde o piquete de verificação de bagagem ao navio para volumes de porão; e, no desembarque, ao transporte desde o navio ou descarga do porão à delegação aduaneira.
 
-###### Art. 99.º A cobrança das taxas acima referidas será feita por funcionários da Junta, que entregarão ao passageiro o talão do recibo assinado, mencionando a quantidade e a classificação dos volumes, sendo a apresentação deste talão indispensável no caso de reclamação.
+Art. 99.º A cobrança das taxas acima referidas será feita por funcionários da Junta, que entregarão ao passageiro o talão do recibo assinado, mencionando a quantidade e a classificação dos volumes, sendo a apresentação deste talão indispensável no caso de reclamação.
 
 § 1.º É proibida qualquer cobrança feita pelo bagageiro.
 
@@ -401,7 +412,7 @@ Estão igualmente isentos do pagamento de taxa de bagagem os náufragos, os pres
 
 ### CAPÍTULO I — Fornecimento de energia eléctrica
 
-###### Art. 107.º Pelo fornecimento de energia eléctrica nos terraplenos do porto ou a bordo das embarcações será cobrada uma taxa, designada por «taxa de fornecimento», ao preço de 8$00 por kilowatt.
+Art. 107.º Pelo fornecimento de energia eléctrica nos terraplenos do porto ou a bordo das embarcações será cobrada uma taxa, designada por «taxa de fornecimento», ao preço de 8$00 por kilowatt.
 
 § 1.º A taxa de aluguer do contador e de ligação será de 30$00.
 
@@ -409,11 +420,11 @@ Estão igualmente isentos do pagamento de taxa de bagagem os náufragos, os pres
 
 ### CAPÍTULO III — Fornecimento de pessoal
 
-###### Art. 112.º Em todos os casos de fornecimento de pessoal ou de serviços a executar por pessoal da Junta, de conta de outras entidades oficiais ou particulares, compete ao director dos portos resolver sobre o pessoal a empregar, condições do seu trabalho e tabelas a utilizar, sendo estas fixadas em função da categoria e salários do pessoal utilizado e dos encargos de carácter social.
+Art. 112.º Em todos os casos de fornecimento de pessoal ou de serviços a executar por pessoal da Junta, de conta de outras entidades oficiais ou particulares, compete ao director dos portos resolver sobre o pessoal a empregar, condições do seu trabalho e tabelas a utilizar, sendo estas fixadas em função da categoria e salários do pessoal utilizado e dos encargos de carácter social.
 
 ### CAPÍTULO IV — Comunicações
 
-###### Art. 113.º Pela instalação do telefone a bordo das embarcações serão cobradas as seguintes taxas:
+Art. 113.º Pela instalação do telefone a bordo das embarcações serão cobradas as seguintes taxas:
 
 Por cada ligação ... 50$00
 
@@ -425,7 +436,7 @@ Por cada dia ou fracção ... 100$00
 
 ### CAPÍTULO VI — Fornecimento de água
 
-###### Art. 115.º-A. Pelo fornecimento de água potável às embarcações serão cobradas as seguintes taxas, por metro cúbico:
+Art. 115.º-A. Pelo fornecimento de água potável às embarcações serão cobradas as seguintes taxas, por metro cúbico:
 
 Nas tomadas de água dos cais ... 8$00
 
@@ -441,12 +452,12 @@ Nas barcaças ou barcos-cisternas ... 50
 
 § 2.º No fornecimento a embarcações de pesca desportiva e recreio a quantidade mínima a cobrar será de 1 m3.
 
-###### Art. 115.º-C. Pelo fornecimento de água para usos terrestres será cobrada a taxa de 5$00 por metro cúbico.
+Art. 115.º-C. Pelo fornecimento de água para usos terrestres será cobrada a taxa de 5$00 por metro cúbico.
 
 § único. Se o contador for da Junta, será cobrada a taxa mensal de 7$50 pelo aluguer.
 
-###### Art. 115.º-D. Os fornecimentos de água fora das horas normais terão o aumento de 50% se a quantidade fornecida for inferior a 100 m3 e de 30% se for superior.
+Art. 115.º-D. Os fornecimentos de água fora das horas normais terão o aumento de 50% se a quantidade fornecida for inferior a 100 m3 e de 30% se for superior.
 
-###### Art. 115.º-E. Quando a quantidade requisitada não for fornecida por culpa exclusiva do requisitante, será paga por este toda a despesa proveniente de mobilização ou imobilização do material e do pessoal.
+Art. 115.º-E. Quando a quantidade requisitada não for fornecida por culpa exclusiva do requisitante, será paga por este toda a despesa proveniente de mobilização ou imobilização do material e do pessoal.
 
 Ministério do Equipamento Social e do Ambiente, 28 de Dezembro de 1974. - O Secretário de Estado dos Transportes e Comunicações, Manuel Branco Ferreira Lima. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24450-1969-217316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc91315d92292f1518bbd8fc8e09e8cd1f85ea810a6e539ea398df09b483813a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8303201a97476339968ae2ae5c8590c97533ffa24fadf9688a83abfad3afd0f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:38Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +91,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42559-1959-429862), de 3 de Outubro de 1959, reforçar com as quantias que se indicam as seguintes verbas inscritas na tabela de despesa do orçamento privativo das forças terrestres ultramarinas em vigor na província de Timor no ano de 1969:
 
-###### Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 100000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 100000$00
 
-###### Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas em manobras anuais» ... 150000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas em manobras anuais» ... 150000$00
 
 ... 250000$00
 
 tomando como contrapartida as disponibilidades existentes na seguinte verba inscrita na mesma tabela de despesa:
 
-###### Artigo 10.º, n.º 4) «Encargos administrativos - Subvenção de família» ... 250000$00
+Artigo 10.º, n.º 4) «Encargos administrativos - Subvenção de família» ... 250000$00
 
 Presidência do Conselho, 3 de Dezembro de 1969. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 

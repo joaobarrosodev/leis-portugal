@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/089a00/20312032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/1999/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1999-545274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4be439d04614d628fd2d3a926dcdb8a476dd6e95d439b3a7fc3c00117ab892e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e35db0735222a5353b297e62112b0bdfe2cf3f223576c3cc8fd06a4df4498e29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Gestão de Resíduos
-- Incineração
+- Comissão
 - Comissão Científica Independente de Controlo e Fiscalização Ambiental da Co-incineração
 - Definição de Competências
-- Saúde Pública
-- Comissão
+- Eliminação de Resíduos
 - Fiscalização
+- Gestão de Resíduos
+- Incineração
 - Incineração de Resíduos
 - Parecer
-- Proteção do Ambiente
 - Poluição Industrial
 - Prazo
-- Eliminação de Resíduos
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:197363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582188:por
+  label: "Alterados os arts. 1º e 2º pela LEI.148/99.1999.09.03.AR,DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/148-1999-582188
+  date: '1999-09-03'
 - type: cites
   target: celex:31994L0067
   label: null
@@ -102,16 +107,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/1999/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/1999/04/15/p/dre
+- type: repealed_by
+  target: pt:dre:197363:por
+  label: "Revogado pelo DEC LEI.175/2002.2002.07.25.MCOTA DR.IS-A [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2002-197363
+  date: '2002-07-25'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:54Z'
   warnings: []
   errors: []
 ---
@@ -156,12 +166,12 @@ Cessa a suspensão da vigência das normas relativas aos limites de emissão pre
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - António Luís Santos da Costa.
 
-**Promulgado em 27 de Março de 1999.**
+Promulgado em 27 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 1999.**
+Referendado em 31 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

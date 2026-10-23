@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/205a00/29532959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/1996/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1996-241644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a22c3fcc9066eb92554a037d24f98e221c7b1eca5b27dc6514a03d3c4d616b3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 633d11ba5f3c3898f202dc9dc579f64e9f54e9abc9531238a27902bc4190c1b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Comissão de Fiscalização
-- Gestão Financeira
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
 - Estatuto
 - Estatuto do Pessoal
 - Gestão
 - Gestão do Património
+- Gestão Financeira
+- Instituto de Gestão do Crédito Público
 - Ministro das Finanças
-- Conselho Diretivo
-- Conselho Consultivo
-- Presidente
 - Mobilidade de Pessoal
+- Presidente
 - Segredo Profissional
 - Segurança Social
 - Tutela
@@ -89,16 +89,74 @@ relationships:
   target: pt:dre:174556:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229486:por
+  label: "Alterados os arts. 2º, 5º e 11º dos Estatutos do Instituto de Gestão do Crédito Público, pelos DEC LEI.28/98.1998.02.11.MF\
+    \ DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1998-229486
+  date: '1998-02-11'
+- type: amended_by
+  target: pt:dre:492268:por
+  label: "Alterado o art. 25º dos Estatutos do IGCP, com a redacção dada pelo Dec Lei 28/98 de 11-Fev, pelo DEC LEI.2/99.1999.01.04.MF\
+    \ DR.IS-A [2], que procedeu à republicação daqueles Estatutos\0s\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1999-492268
+  date: '1999-01-04'
+- type: amended_by
+  target: pt:dre:520442:por
+  label: "Alterado o artigo 4.º, o artigo 5.º (na redacção do Decreto-Lei 28/98, de 11 de Fevereiro) e o artigo 6.º (na redacção\
+    \ do Decreto-Lei 455/99, de 05 de Novembro) dos Estatutos do Instituto de Gestão do Crédito Público, aprovados pelo presente\
+    \ diploma, pelo DEC LEI.86/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2007-520442
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636406:por
+  label: "Alterado o artigo 1.º, o artigo 4.º (na redacção do Decreto-Lei 86/2007, de 29 de Março), o artigo 5.º (na redacção\
+    \ dos Decretos-Leis 28/98, de 11 de Fevereiro e 86/2007, de 29 de Março), o artigo 6.º (na redacção dos Decretos-Leis\
+    \ 455/99, de 5 de Novembro e 86/2007, de 29 de Março), o artigo 11.º (na redacção dos Decretos-Leis 28/98, de 11 de Fevereiro\
+    \ e 455/99, de 5 de Novembro), o artigo 16.º (na redacção do Decreto-Lei 455/99, de 5 de Novembro), o artigo 17.º e o\
+    \ artigo 25.º (na redacção dos Decretos-Leis 2/99, de 4 de Janeiro e 455/99, de 5 de Novembro), e revogado o artigo 27.º\
+    \ dos Estatutos, e determinada a alteração de dominação do Instituto para Instituto de Gestão da Tesouraria e do Crédito\
+    \ Público, pelo DEC LEI.273/2007.30.07.2007.MFAP, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2007-636406
+  date: '2007-07-30'
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 6.º dos Estatutos do Instituto de Gestão do Crédito Público, I. P., aprovados pelo presente diploma,\
+    \ na redacção dos Dec Lei 455/99, de 05-Nov, 86/2007, de 29-Mar e 273/2007, de 30-Jul, pelo DEC LEI.69-A/2009.24.03.2009.MFAP,\
+    \ DR.IS [58-Supl] de 24.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
+- type: corrected_by
+  target: pt:dre:147847:por
+  label: "Rectificado pela DECL-RECT.14-B/96.30.09.1996.PCM, DR.IS-A [227-3ºSupl] de 30.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-b-1996-147847
+  date: '1996-09-30'
+- type: repealed_by
+  target: pt:dre:693818:por
+  label: "Revogada a al. c) do nº 1 do art. 16º, alterados os arts. 6º, 11º (na redacção do Dec Lei 28/98 de 11-Fev) e 25º\
+    \ (na redacção dos Dec Leis 28/98 de 11-Fev e 2/99 de 04-Jan) e republicado em anexo o texto integral dos Estatutos do\
+    \ IGCP, aprovados pelo presente diploma, pelo DEC LEI.455/99.1999.11.05.MF, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/455-1999-693818
+  date: '1999-11-05'
+- type: repealed_by
+  target: pt:dre:174556:por
+  label: "Revogado, a partir de 01.09.2012, o presente diploma, na redação do Dec Lei 28/98, de 11-fev, da Lei 87-B/98, de\
+    \ 31-dez, dos Dec Lei 2/99, de 04-jan, 455/99, de 05-nov, 86/2007, de 29-mar, 273/2007, de 30-jul e 69-A/2009, de 24-mar\
+    \ e transformado o Instituto de Gestão da Tesouraria e do Crédito Público, I. P., na Agência de Gestão da Tesouraria e\
+    \ da Dívida Pública - IGCP, E. P. E., e aprovados os respetivos estatutos, pelo DEC LEI.200/2012.27.08.2012.MF, DR.IS\
+    \ [165] de 27.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2012-174556
+  date: '2012-08-27'
 article_structure:
   article_count: 30
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:32Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +195,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia.
 
-**Promulgado em 20 de Agosto de 1996.**
+Promulgado em 20 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DO INSTITUTO DE GESTÃO DO CRÉDITO PÚBLICO
 

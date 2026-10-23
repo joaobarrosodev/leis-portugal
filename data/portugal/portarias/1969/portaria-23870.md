@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23870-1969-526817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0408176c470775e12649295ea5b96ef24fd644fe14a9926cac3f9d7a8522fda0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4d8fa0265bd33ff80caeff4aec9420858db986f68af88a62d34ddbe8e060556
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:12Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +116,9 @@ a) Um da importância de 2574325$00 destinado a reforçar, com as quantias que s
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2076.º, n.º 13), alínea L) «Quota-parte da província em encargos na metrópole - Outros encargos - Fundo destinado à construção, reconstrução, ampliação e grandes reparações de edifícios pertencentes ao património comum das províncias ultramarinas em Lisboa (artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962)» ... 1574325$00
+Artigo 2076.º, n.º 13), alínea L) «Quota-parte da província em encargos na metrópole - Outros encargos - Fundo destinado à construção, reconstrução, ampliação e grandes reparações de edifícios pertencentes ao património comum das províncias ultramarinas em Lisboa (artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962)» ... 1574325$00
 
-###### Artigo 2080.º, n.º 2), alínea a) «Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 1000000$00
+Artigo 2080.º, n.º 2), alínea a) «Deslocações do pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 1000000$00
 
 ... 2574325$00
 
@@ -110,13 +130,13 @@ c) Um da importância de 2900000$00 destinado a reforçar, com as quantias que s
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2769.º «Deslocações de pessoal»:
+Artigo 2769.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 500000$00
 
 N.º 4), alínea a), 1 «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 2000000$00
 
-###### Artigo 2770.º «Diversas despesas»:
+Artigo 2770.º «Diversas despesas»:
 
 N.º 2), alínea c) «Passagens a conceder aos estudantes, nos termos do [Decreto n.º 45653](https://diariodarepublica.pt/dr/detalhe/decreto/45653-1964-471773), de 11 de Abril de 1964 - Passagens de regresso» ... 100000$00
 

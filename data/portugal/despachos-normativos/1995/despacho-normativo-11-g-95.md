@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 55/1995, 1º Suplemento, Série I-B de 1995-03-06
   number: '55'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1228-(26) a 1228-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/055b01/00260027.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/11-g/1995/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-g-1995-263701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 022d64f6d654afc377db91ac255418c892e7a3e134f82cf069b2445faa3d9fd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f905aaea7ac1b76ac29b3036863a55ddda03176b995f5111bfff30be168c7b0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Empresa
-- Metrologia
-- Sistema Português da Qualidade
-- Projeto de Investimento
+- Financiamento
 - Indústria
 - Instituto Português da Qualidade
+- Metrologia
 - Modernização Industrial
+- Normalização
+- Pedip II
+- Projeto de Investimento
 - Regime de Apoio
 - Regime de Apoio à Consolidação das Infra-Estruturas da Qualidade Industrial
-- Pedip II
 - Sistema de Incentivos Pedip
+- Sistema Português da Qualidade
 - Subsídio
-- Normalização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
@@ -89,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/557/1994/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/557/1994/07/29/p/dre
+- type: cites
+  target: pt:dre:231888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:48Z'
   warnings: []
   errors: []
 ---

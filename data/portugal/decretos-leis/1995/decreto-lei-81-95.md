@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/1995/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1995-223469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08182b4c32f61d69527477b8fee1014ac40b74fa383e181ef3b0e21b4157ee49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e4de83eb890845a738baaaa9dbed2cf292b994ced7d68368311494ed40cb76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Crime
 - Consumo
 - Criação de Serviços
+- Crime
 - Definição de Competências
 - Direcção Geral das Alfândegas
-- Instituto Nacional de Polícia e Ciências Criminais
-- GNR
 - Droga
-- Serviço de Estrangeiros e Fronteiras
-- Regime Jurídico
-- Polícia Judiciária
+- GNR
+- Instituto Nacional de Polícia e Ciências Criminais
 - Investigação Criminal
+- Polícia Judiciária
+- PSP
+- Regime Jurídico
+- Serviço de Estrangeiros e Fronteiras
 relationships:
 - type: amended_by
   target: pt:dre:553932:por
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/61/1994/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/61/1994/10/12/p/dre
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:41Z'
   warnings: []
   errors: []
 ---
@@ -186,12 +194,12 @@ A formação específica adequada à prossecução das atribuições de prevenç
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 4 de Abril de 1995.**
+Promulgado em 4 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1995.**
+Referendado em 6 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1979, 3º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3478-(54) a 3478-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30003/00540054.pdf
 entry_into_force_dates: []
@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1979-231146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c8abf2ae51c1d47191fbf799408867a033b01cfa98442ca49a6f9be0e62a26a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1586e1f86677366bde154f4107a5eb1edf4d232b28d2e8a937a2a4b62da10674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Descrição de Funções
+- Equiparação de Cargos
+- Gabinete de Estudos e Planeamento
+- Gabinete de Planeamento e Integração Económica
+- Gabinete do Plano e Desenvolvimento da Região do Zambeze
+- Ministério dos Negócios Estrangeiros
+- Pessoal Dirigente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:142329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:56Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +143,4 @@ Director do Gabinete de Planeamento e Integração Económica. - Na dependência
 
 Chefe dos serviços administrativos do Gabinete do Plano do Zambeze. - O cargo de chefe dos serviços administrativos dos Serviços Centrais do Gabinete do Plano do Zambeze, a que corresponde a letra D da tabela de vencimentos do funcionalismo público, vem incluído no pessoal dirigente do quadro de pessoal anexo ao [Decreto n.º 218/70](https://diariodarepublica.pt/dr/detalhe/decreto/218-1970-142329), de 16 de Maio, competindo-lhe orientar os sectores de expediente (correspondência, centro de dactilografia para todos os serviços centrais, cópias, arquivo, secretariado e traduções), de pessoal (correspondente a uma moderna gestão de pessoal), de economato (aprovisionamento dos Serviços Centrais e serviço de procuradoria quanto aos serviços regionais) e de contencioso (contratos, recursos, arbitragens), supervisionar os serviços administrativos regionais e tomar parte como vogal nas reuniões da comissão administrativa dos Serviços Centrais.
 
-**O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro dos Negócios Estrangeiros, João Carlos Lopes Cardoso de Freitas Cruz. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

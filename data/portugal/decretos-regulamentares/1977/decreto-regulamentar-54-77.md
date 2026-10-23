@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 195/1977, 1º Suplemento, Série I de 1977-08-24
   number: '195'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2040-(14) a 2040-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19501/00140017.pdf
 entry_into_force_dates: []
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1977-659716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad976a976d687d983e3310452d7eb22e6fa03dae8d4331fe0066ae7053f65690
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1674706256c8e4cabe9ec300fb2535b25e35f1a7e4bafb9c3d9977d4a2b6d11c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Benefícios Fiscais
+- Contrato
+- Instituto de Investimento Estrangeiro
+- Investimento Estrangeiro
+- Projeto de Investimento
+relationships:
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:18Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +97,7 @@ Considerando o disposto no artigo 5.º do [Decreto-Lei n.º 348/77](https://diar
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Disposições gerais)
 
@@ -98,7 +107,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 3. Salvo em casos especiais, justificáveis pela natureza e pelo volume dos investimentos a realizar, as sucursais de empresas estrangeiras não poderão beneficiar do regime contratual previsto neste diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Conceito e âmbito)
 
@@ -108,7 +117,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 3. Nos sobreditos contratos poderá ser incluído o plano de revestimentos a efectuar pelas empresas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Outorga dos contratos)
 
@@ -116,7 +125,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 2. Os contratos deverão definir claramente os direitos e obrigações de cada um dos intervenientes para a realização dos objectivos dos mesmos contratos.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Objecto dos contratos)
 
@@ -126,7 +135,7 @@ a) A execução de programas de investimento que se enquadrem nas linhas de pol�
 
 b) A adopção de medidas de reorganização ou reconversão técnica, financeira, administrativa ou comercial das empresas contratantes, com finalidades idênticas às da alínea anterior.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Características dos programas e projectos)
 
@@ -156,7 +165,7 @@ c) Melhor ajustamento da gama e das características dos bens ou serviços produ
 
 3. Quando o investimento directo tenha associada uma transferência de tecnologia, a apreciação desta será feita como parte integrante do contrato de investimento, sem prejuízo das disposições regulamentares na matéria.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Benefícios a conceder)
 
@@ -180,7 +189,7 @@ g) Outros benefícios previstos em regimes gerais ou especiais existentes.
 
 3. O tipo e a medida de benefícios admitidos em cada caso, bem como as condições de que depende a sua concessão, nomeadamente das obrigações que nesse contexto assumirão os não residentes, deverão ser rigorosamente fixados nos contratos, com observância das regras estabelecidas no presente diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Obrigações das empresas)
 
@@ -196,7 +205,7 @@ g) Outros benefícios previstos em regimes gerais ou especiais existentes.
 
 6. O Instituto poderá exigir das empresas contratantes, para a concessão de determinados tipos de benefícios, as garantias reais ou pessoais que julgar adequadas.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Prazo dos contratos)
 
@@ -204,7 +213,7 @@ g) Outros benefícios previstos em regimes gerais ou especiais existentes.
 
 2. O prazo fixado nos termos do número anterior poderá, mediante resolução do Conselho de Ministros, ser prorrogado pelo tempo indispensável para se atingirem os objectivos referidos, quando a sua falta de cumprimento não for imputável às empresas contratantes ou os interesses da economia nacional o aconselharem.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Do processo)
 
@@ -218,7 +227,7 @@ g) Outros benefícios previstos em regimes gerais ou especiais existentes.
 
 5. Relativamente a cada contrato, o Instituto transmitirá as instruções técnicas aos departamentos do Estado e outras entidades interessadas, para comunicação regular dos benefícios fiscais e de outra natureza que forem sendo concedidos nos termos dos aludidos contratos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Resolução dos contratos)
 
@@ -236,19 +245,19 @@ c) Quando se verificarem quaisquer outros factos que, nos termos da lei geral ou
 
 4. Quando a falta de cumprimento ou o facto impeditivo não for imputável à empresa e dele resultar a impossibilidade manifesta de se atingirem as finalidades essenciais do contrato, este poderá ser resolvido, sem prejuízo das obrigações assumidas pelo Estado para com terceiros intervenientes no contrato.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Interpretação dos contratos)
 
 Quaisquer dúvidas que surjam na aplicação e execução dos contratos serão solucionadas por despacho do Ministro do Plano e Coordenação Económica, sob proposta do Instituto.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Foro competente)
 
 Nos contratos poderá ser estabelecido o foro convencional para conflitos que possam surgir da sua execução ou do seu incumprimento.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Disposições diversas)
 
@@ -256,8 +265,8 @@ O disposto no presente decreto entra em vigor no dia imediato ao da sua publica�
 
 Mário Soares - Henrique Teixeira Queirós de Barros - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 9 de Agosto de 1977.**
+Promulgado em 9 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

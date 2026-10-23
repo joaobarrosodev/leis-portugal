@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22135-1966-474163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85d269c42de44e37f63c518abc41f7a44691ada4b71dbe2ae59e36f056882bbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03b85e5d809eb8e002fca6eba1198824ecb2408c7f3d0c72d5e9ac96153e238c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:10Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +93,21 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 2000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo dentro da província» ... 2000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 2000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Ajudas de custo fora da província» ... 2000$00
 
-###### Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 5000$00
+Artigo 3.º, n.º 5), alínea a) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 5000$00
 
-###### Artigo 3.º. n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 10000$00
+Artigo 3.º. n.º 5), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na metrópole» ... 10000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1), alínea c) «Despesas de higiene, saúde e conforto - Serviços clínicos de hospitalização - Outras despesas com o tratamento do pessoal» ... 5000$00
+Artigo 7.º, n.º 1), alínea c) «Despesas de higiene, saúde e conforto - Serviços clínicos de hospitalização - Outras despesas com o tratamento do pessoal» ... 5000$00
 
-###### Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Pagamento de serviços e encargos não especificados - Nos serviços gerais» ... 2000$00
+Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Pagamento de serviços e encargos não especificados - Nos serviços gerais» ... 2000$00
 
-###### Artigo 11.º «Abono de família» ... 30000$00
+Artigo 11.º «Abono de família» ... 30000$00
 
 ... 56000$00
 
@@ -111,19 +115,19 @@ tomando como contrapartida as seguintes disponibilidades na mesma tabela de desp
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 40000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Alimentação às praças» ... 40000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 4000$00
+Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 4000$00
 
-###### Artigo 4.º, n.º 1), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 7000$00
+Artigo 4.º, n.º 1), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 7000$00
 
-###### Artigo 4.º, n.º 1), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 2000$00
+Artigo 4.º, n.º 1), alínea g) «Aquisições de utilização permanente - Móveis - Extintores e outros artigos para serviço de incêndios» ... 2000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 3000$00
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 3000$00
 
 ... 56000$00
 

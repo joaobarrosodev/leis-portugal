@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-1984-384446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:01:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 132e860770c835ed354d2024595bdf76094295195b981b5fbac897823d5640cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 310675a2079ff06a1699e00615798e9373f36747b535b94ed08b69325ce0a8e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:01:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde Mental Infantil
+- Criação de Lugares
+- Lisboa
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:649126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERA O QUADRO DE PESSOAL APROVADO PELA PORT 463/82 DE 04-MAI DR.IS [102]\0[102]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-05-04'
+- type: cites
+  target: pt:dre:393040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:01:48Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +118,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 9 de Maio de 1984.**
+Assinada em 9 de Maio de 1984.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
 
 Mapa a que se refere o n.º 1.º da Portaria n.º 314/84
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12200/16981699.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12200/16981699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12200/16981699.pdf)

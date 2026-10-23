@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04800/0143601440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2008/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2008-247247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4162c7f53cfb7cb490d61de727018a2bb41e5e208eaa58edf801bd74ab533496
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c3664a224fd4d99a5d052625ab6c7ede2c2a5a29188a2c7d8aed8c381fda311
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
+- Autarquia Local
 - Cobrança de Impostos
-- Imposto Municipal sobre Imóveis
-- Gestão Financeira
-- Finanças Locais
+- Contabilidade Pública
 - Contrato de Reequilibrio Financeiro
 - Definição de Competências
 - Derrama
 - Direção Geral das Autarquias Locais
 - Dívidas das Autarquias Locais
 - Empréstimo
+- Finanças Locais
 - Fundo de Regularização Municipal
 - Gestão Autárquica
+- Gestão Financeira
 - Gestão Orçamental
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Imposto Municipal sobre Imóveis
+- Instituição de Crédito
 - Lei das Finanças Locais
 - Pocal
 - Prestação de Contas
-- Receita Própria
 - Receita Municipal
-- Contabilidade Pública
+- Receita Própria
 - Taxa
 - Transferência de Verbas
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:499528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178825:por
+  label: "Alterado o art. 19º pelo DEC LEI.120/2012.19.06.2012.PCM, DR.IS [117] de 19.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2012-178825
+  date: '2012-06-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2007/01/15/p/dre
   label: null
@@ -115,16 +120,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
+- type: cites
+  target: pt:dre:180070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499528:por
+  label: Revogado, a partir de 01.01.2014, o presente diploma, alterado pelo Dec Lei 120/2012 de 19-jun, pela LEI.73/2013.03.09.2013.AR,
+    DR.IS [169] de 03.09.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-2013-499528
+  date: '2013-09-03'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:44Z'
   warnings: []
   errors: []
 ---
@@ -401,12 +436,12 @@ O regime jurídico previsto no presente decreto-lei em matéria de acompanhament
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 27 de Fevereiro de 2008.**
+Promulgado em 27 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Fevereiro de 2008.**
+Referendado em 29 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

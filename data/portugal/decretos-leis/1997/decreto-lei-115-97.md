@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/109a00/22802285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/1997/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1997-385209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dd50d14174f7a53c01cc0877193787971f707dd2126ca58714ac368911d51cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77465a143c069e416b07f012e4d35555cd8e845a3a2b5a5b4aebcb1121f38f89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,96 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Pessoal Dirigente
 - Comissão Permanente de Concertação Social
+- Criação de Emprego
 - Criação de Serviços
 - Definição de Competências
-- Estatuto Jurídico
-- Ministério para a Qualificação e o Emprego
-- Gestão
-- Inofor
-- Investigação
-- Criação de Emprego
-- Ministro para a Qualificação e o Emprego
 - Emprego
-- Promoção de Emprego
+- Estatuto Jurídico
+- Formação Profissional
+- Gestão
+- Gestão de Recursos Humanos
+- Inofor
+- Instituto do Emprego e Formação Profissional
+- Investigação
+- Ministério para a Qualificação e o Emprego
+- Ministro para a Qualificação e o Emprego
+- Pessoal Dirigente
 - Política de Emprego
+- Promoção de Emprego
 - Quadro de Pessoal
 - Recursos Humanos
 - Setor Privado
 - Setor Público
-- Gestão de Recursos Humanos
 - VIDA Activa
 relationships:
 - type: amended_by
   target: pt:dre:569550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Sujeitado a superintendência conjunta, cabendo a tutela funcional e patrimonial ao Ministro da Segurança Social\
+    \ e do Trabalho e sendo a determinação das linhas de orientação e dos domínios prioritários da sua actuação exercida em\
+    \ articulação com o Ministro da Educação, pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão do Instituto para a Qualidade na Formação, nos direitos e obrigações, ao Instituto para a\
+    \ Inovação na Formação, criado pelo presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição (até à entrada em vigor do Dec Lei 171/2004 de 17-Jul) para o Ministério das Actividades\
+    \ Económicas e do Trabalho do Instituto para a Qualidade na Formação (ex-Instituto para a Inovação de Formação-INOFOR,\
+    \ integrado no agora extinto Ministério da Segurança Social e do Trabalho), e sujeitado a superintendência conjunta cabendo\
+    \ a tutela funcional e patrimonial ao Ministro de Estado e das Actividades Económicas e do Trabalho e sendo a definição\
+    \ das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Educação,\
+    \ pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social do Instituto para a Qualidade na\
+    \ Formação, I. P. (integrado no extinto Ministério das Actividades Económicas e do Trabalho), criado no presente diploma,\
+    \ sendo a competência relativa à definição das orientações estratégicas, bem como o acompanhamento da sua execução, seja\
+    \ exercida pelo Ministro do Trabalho e da Solidariedade Social em articulação com o Ministro da Educação, pelo DEC LEI.79/2005.15.04.2005.PCM,\
+    \ DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinto o Instituto para a Qualidade na Formação, sucessor do INOFOR, pelo DEC LEI.211/2006.27.10.2006.MTSSO, DR.IS\
+    \ [208] de 27.10.2006, nos termos do preceituado no respectivo art. 36º, sendo as suas atribuições integradas no Instituto\
+    \ do Emprego e da Formação Profissional e na Agência Nacional para a Qualificação, com excepção das atribuições em matéria\
+    \ de certificação das entidades formadoras, que são integradas na Direcção-Geral do Emprego e das Relações de Trabalho\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638527:por
+  label: "Determinado que a DGERT suceda nas atribuições, em matéria de acreditação das entidades formadoras, ao Instituto\
+    \ para a Qualidade da Formação,I.P., constante do Dec Lei 171/2004, de 17-Jul, e sucessor do Instituto para a Inovação\
+    \ da Formação - INOFOR, cuja criação e orgânica constam do presente diploma, pelo DEC LEI.210/2007.29.05.2007.MTSSO, DR.IS\
+    \ [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2007-638527
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638534:por
+  label: "Determinada a sucessão do Instituto do Emprego e Formação Profissional, I.P., (IEFP, I.P.) nas atribuições do Instituto\
+    \ para a Qualidade na Formação (anterior INOFOR), relativamente aos centros de recursos em conhecimento, pelo DEC LEI.213/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2007-638534
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:569550:por
+  label: "Extinto o Instituto para a Qualidade na Formação que sucedeu ao INOFOR, criado no presente diploma, ora revogado,\
+    \ a partir de 01.09.2007, pelo DEC LEI.276-C/2007.31.07.2007.ME, DR.IS [146]3ºSupl de 31.07.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-c-2007-569550
+  date: '2007-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
@@ -101,16 +164,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/17/1996/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/17/1996/02/26/p/dre
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516029:por
+  label: "Revogado o nº 3 do art. 4º pelo DEC LEI.115/98.1998.05.04.MTS, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1998-516029
+  date: '1998-05-04'
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:59Z'
   warnings: []
   errors: []
 ---
@@ -431,16 +507,16 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Manuel da Costa Monteiro Consiglieri Pedroso - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria João Fernandes Rodrigues - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Abril de 1997.**
+Promulgado em 22 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Abril de 1997.**
+Referendado em 28 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro a que se refere o n.º 1 do artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/109a00/22802285.pdf))](https://files.diariodarepublica.pt/1s/1997/05/109a00/22802285.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/109a00/22802285.pdf)

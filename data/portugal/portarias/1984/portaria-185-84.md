@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-1984-661729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8743255e273973f400eff1a40a57ed1152a34d035ce4c9d0f437a41eab7003a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6d582ef4b677da10a0c9efc34834d55e5af6ac06394e0c38fd3ef18308e2f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
+- Secretaria Judicial
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:382410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382410:por
+  label: "Substituido o quadro de pessoal do Tribunal de Penafiel, aprovado pelo Dec Lei 385/82, de 16-Set, na redacção do\
+    \ presnete diploma, pela PORT.594/84.11.08.1984.MJ, DR.IS [186] de 11.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-1984-382410
+  date: '1984-08-11'
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:24Z'
   warnings: []
   errors: []
 ---
@@ -226,7 +239,7 @@ Tribunal de Abrantes
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -256,7 +269,7 @@ Tribunal de Mangualde
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -286,7 +299,7 @@ Tribunal do Montijo
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos.
+Secção central e 3 secções de processos.
 
 Pessoal:
 
@@ -316,7 +329,7 @@ Tribunal de Rio Maior
 
 Secretaria judicial:
 
-#### Secção central e 2 secções de processos.
+Secção central e 2 secções de processos.
 
 Pessoal:
 
@@ -342,7 +355,7 @@ Tribunal de Tomar
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos.
+Secção central e 4 secções de processos.
 
 Pessoal:
 
@@ -372,7 +385,7 @@ Tribunal de Instrução Criminal da Figueira da Foz
 
 Secretaria judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -392,7 +405,7 @@ Tribunal de Instrução Criminal de Lamego
 
 Secretaria judicial:
 
-#### Secção central e 1 secção de processos.
+Secção central e 1 secção de processos.
 
 Pessoal:
 
@@ -436,6 +449,6 @@ Tribunal de Lamego:
 
 Ministério da Justiça.
 
-**Assinada em 29 de Fevereiro de 1984.**
+Assinada em 29 de Fevereiro de 1984.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.

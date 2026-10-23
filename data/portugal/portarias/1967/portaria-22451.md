@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22451-1967-501423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc26e4cfb67c4c046247224251d0edcf808859c5dce5e4467c6636938f6a26c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79382ad0fcf67542db94871d012768ff0d6fbaa1455246661a0dcca9103d258f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468177:por
+  label: Revogadas, a partir de 04 de dezembro de 1974, as disposições referentes ao Estatuto da Federação das Caixas de Previdência
+    e Abono de Família, e extinguidos o conselho de administração e o conselho médico da Federação das Caixas de Previdência
+    e Abono de Família, da presente portaria, pelo(a) Portaria n.º 821/74 - Diário do Governo n.º 294/1974, Série I de 1974-12-18,
+    nos termos do seu n.º 3
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/821-1974-468177
+  date: '1974-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:53Z'
   warnings: []
   errors: []
 ---

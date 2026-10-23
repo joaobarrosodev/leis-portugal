@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 146/2007, 3º Suplemento, Série I de 2007-07-31
   number: '146'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4902-(11) a 4902-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14603/0001100013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276-b/2007/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-b-2007-569549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3edfe1d8da1a4b7033ffeef091ff177341d426e7861391d4c91dc55cc46c0845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3178d6fae869d917088be5e21cc6971e46aa834cfe38b8c8ca33d2ae19569be8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
 - Definição de Competências
 - Inspecção Geral do Ambiente e do Ordenamento do Território
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:543675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, a Inspeção-Geral do Ambiente e do Ordenamento do Território (criada como Inspeção-Geral\
+    \ do Ambiente no âmbito do então Ministério do Ambiente pelo Dec Lei 239/97 de 30-Ago e posteriormente redenominada pelo\
+    \ Dec Lei 53/2005 de 25-Fev - ambos revogados), cujas atribuições e competências constam do presente diploma, pelo DEC\
+    \ LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º; sendo as suas\
+    \ atribuições integradas na Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, criada\
+    \ naquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/2006/10/27/p/dre
   label: null
@@ -96,16 +106,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543675:por
+  label: "Revogado, a partir de 01.03.2012, pelo DEC LEI.23/2012.01.02.2012.MAMAOT, DR.IS [23] de 01.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2012-543675
+  date: '2012-02-01'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:12Z'
   warnings: []
   errors: []
 ---
@@ -282,16 +317,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto a aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14603/0001100013.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14603/0001100013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14603/0001100013.pdf)

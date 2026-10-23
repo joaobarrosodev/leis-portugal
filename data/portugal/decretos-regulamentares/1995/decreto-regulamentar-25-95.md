@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/25/1995/09/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1995-563058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 431c73868cc0cbf91ff269c1ab35e1bbd24ff8a9394669790e63a7fce4679e74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78fa8239afb5b4c4faea35564e554c19e01140ff0b5accb4c67d31866a6eb873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Lugares
 - Gabinete de Estudos e Planeamento
 - Ministério da Indústria e Energia
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:575139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:11Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 26.º do [Decreto-Lei n.º 206/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1989-620758), de 27 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 3.º do [Decreto Regulamentar n.º 16/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139), de 8 de Junho, passa a ter a seguinte redacção:
+Artigo único. O artigo 3.º do [Decreto Regulamentar n.º 16/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139), de 8 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -115,12 +123,12 @@ Presidência do Conselho de Ministros, 24 de Julho de 1995.
 
 Manuel Dias Loureiro - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Agosto de 1995.**
+Promulgado em 24 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Agosto de 1995.**
+Referendado em 28 de Agosto de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

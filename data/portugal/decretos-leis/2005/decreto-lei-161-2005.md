@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/09/183a00/56745677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/2005/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2005-148000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a07f8bad9e75eea4f755145fba2ac113414a81e0f61b67a0a49ff18f546afa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 876520f0c2b6cdb3ba05ca1df9d39d980533badc108acf690eef61fec3d4edc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Gestão Financeira
 - Criação de Serviços
-- Instituto de Altos Estudos da Força Aérea
-- Extinção de Serviços
-- Instituto de Estudos Superiores Militares
-- Instituto de Altos Estudos Militares
-- Instituto Superior Naval de Guerra
-- GNR
-- Orgânica
 - Estabelecimento de Ensino
-- Ministro da Defesa Nacional
+- Extinção de Serviços
 - Gestão de Recursos Humanos
+- Gestão Financeira
+- GNR
+- Instituto de Altos Estudos da Força Aérea
+- Instituto de Altos Estudos Militares
+- Instituto de Estudos Superiores Militares
+- Instituto Superior Naval de Guerra
+- Ministério da Defesa Nacional
+- Ministro da Defesa Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:70832992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655675:por
+  label: "Transferido o Instituto de Estudos Superiores Militares, criado pelo presente diploma, para a dependência do Chefe\
+    \ do Estado-Maior-General das Forças Armadas, pelo DEC LEI.154-A/2009.06.07.2009.MDN, DR.IS [128]2ºSupl de 06.07.2009,\
+    \ nos termos do n.º 6 do artigo 30.º e do n.º 1 do artigo 32.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
+- type: amended_by
+  target: pt:dre:489711:por
+  label: "Transferido, para a dependência do Chefe do Estado-Maior-General das Forças Armadas, o Instituto de Estudos Superiores\
+    \ Militares, criado pelo presente diploma, a partir da entrada em vigor de novo estatuto daquele organismo, pelo DEC LEI.234/2009.15.09.2009.MDN,\
+    \ DR.IS [179] de 15.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2009-489711
+  date: '2009-09-15'
+- type: amended_by
+  target: pt:dre:612664:por
+  label: "Alterados os arts. 1º a 19º e 24º do presente diploma, pelo DEC LEI.28/2010.31.03.2010.MDN, DR.IS [63] de 31.03.2010,\
+    \ que o republicou na sua redacção actual\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2010-612664
+  date: '2010-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/31/1994/09/01/p/dre
   label: null
@@ -92,16 +112,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/55/1994/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/55/1994/09/03/p/dre
+- type: cites
+  target: pt:dre:183422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657865:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70832992:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 249/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2015-70832992
+  date: '2015-10-28'
 article_structure:
   article_count: 25
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:42Z'
   warnings: []
   errors: []
 ---
@@ -416,12 +469,12 @@ f) O [Decreto Regulamentar n.º 55/94](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 2 de Agosto de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado.
 
-**Promulgado em 9 de Setembro de 2005.**
+Promulgado em 9 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2005.**
+Referendado em 13 de Setembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

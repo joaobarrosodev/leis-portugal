@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/737-1978-324722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2244fb20893001498d37bc456ae7fc6eccae2461edffc3c46bbe5adcb6a0ff5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4893868f136a5d90b5881bafc7c5334a91e16b420da54aac5e8035454347f95d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Direcção Geral da Administração Civil
+- Guarda Fiscal
+- Militar
+- PSP
+- Secretaria de Estado da Administração Pública
+relationships:
+- type: cites
+  target: pt:dre:299069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:48:40Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +106,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças e do Plano, da Administração Interna e dos Transportes Comunicações e Secretário de Estado da Administração Pública, nos termos do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março, o seguinte:
 
-###### Artigo 1.º As alíneas d) e f) dos artigo 1.º e 2.º da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º As alíneas d) e f) dos artigo 1.º e 2.º da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -100,13 +114,13 @@ d) Oficiais, comandantes de circunscrição, chefes-ajudantes, chefes e subchefe
 
 f) Oficiais, adjuntos do Comando-Geral, adjuntos distritais, comandantes de secção, comissários, chefes e subchefes da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 d) Cabos e guardas da Guarda Fiscal das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados;
 
 f) Guardas da Polícia de Segurança Pública das ex-colónias, na situação de desligados para efeitos de aposentação e aposentados.
 
-###### Art. 2.º O n.º 2 do artigo 4.º da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do artigo 4.º da [Portaria n.º 471/78](https://diariodarepublica.pt/dr/detalhe/portaria/471-1978-299069), de 19 de Agosto, passa a ter a seguinte redacção:
 
 2 - Os elementos de identificação referidos no número anterior, quando a sua validade possa justificadamente suscitar fundadas dúvidas ou na sua falta, serão obrigatoriamente acompanhados ou substituídos por uma credencial que os autentique, passada pelo comando a que o militar ou elemento das forças militarizadas se encontre subordinado ou pela Direcção-Geral da Administração Civil, da Secretaria de Estado da Administração Pública, autenticada com o respectivo selo branco.
 

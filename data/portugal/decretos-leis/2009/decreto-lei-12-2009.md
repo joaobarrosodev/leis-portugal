@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2009/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2009-397324
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a12d489984db6ce5f5a10610d9095e5c90827f23aa3442672c046e10334ee41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b965c912ce80fe082c789ecf8ccbe3f9e98f4961fa3603c55cac788d3c24554d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
+- Beja
+- Centro de Saúde
 - Comissão de Apoio Técnico
+- Conselho Consultivo
 - Conselho de Administração
 - Criação de Serviços
 - Estatuto
 - Extinção de Serviços
-- Unidade Local de Saúde da Guarda
-- Conselho Consultivo
-- Integração de Trabalhadores
-- Centro de Saúde
-- Beja
-- Seia
+- Fiscal Único
 - Guarda
 - Hospital de Nossa Senhora da Assunção
 - Hospital de Sousa Martins
+- Integração de Trabalhadores
+- Seia
+- Unidade Local de Saúde da Guarda
 - Unidade Local de Saúde do Alto Minho
 - Unidade Local de Saúde do Baixo Alentejo
 - Viana do Castelo
@@ -110,16 +110,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66325236:por
+  label: Revogado o art. 11.º do Dec Lei 183/2008 de 04-set, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 12/2015
+    - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:08Z'
   warnings: []
   errors: []
 ---
@@ -148,13 +174,17 @@ Os artigos 2.º, 11.º e 13.º do [Decreto-Lei n.º 183/2008](https://diariodare
 
 As ULS sucedem em todos os direitos e obrigações dos hospitais que nelas são integrados, bem como na universalidade dos direitos e obrigações das administrações regionais de saúde relativos aos centros de saúde mencionados no artigo anterior.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A aquisição de bens e serviços e a contratação das empreitadas de obras públicas seguem o regime previsto no [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro, para os hospitais com a natureza de entidades públicas empresariais.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O pessoal com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, esteja provido em lugares dos quadros do Centro Hospitalar do Alto Minho, E. P. E., do Centro Hospitalar do Baixo Alentejo, E. P. E., do Hospital de Sousa Martins, Guarda, do Hospital de Nossa Senhora da Assunção, Seia, e dos centros de saúde referidos no artigo 1.º, bem como o respectivo pessoal com contrato administrativo de provimento, transita para a Unidade Local de Saúde do Alto Minho, E. P. E., Unidade Local de Saúde do Baixo Alentejo, E. P. E., e Unidade Local de Saúde da Guarda, E. P. E., respectivamente, sendo garantida a manutenção integral do respectivo estatuto jurídico.
 
@@ -192,12 +222,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 15 de Dezembro de 2008.**
+Promulgado em 15 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Dezembro de 2008.**
+Referendado em 27 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

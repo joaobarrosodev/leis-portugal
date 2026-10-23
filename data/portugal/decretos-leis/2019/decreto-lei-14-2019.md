@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0044300446.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50c6f10ff38dde91b76c2c69d1ad1deec061d974aec697571bf4c403ee9079d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2034d677c175ea6f8cba345c93281665b8a6a5c80bf800bd312fe29f8cf0cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Regulamentação de Atos Legislativos
 - Direcção Geral dos Recursos Florestais
+- Prevenção de Incêndios
 - Proteção da Floresta
-- ZONA Crítica de Incêndio Florestal
+- Regulamentação de Atos Legislativos
 - Sistema de Defesa da Floresta contra Incêndios
 - Sistema de Gestão de Informação de Incêndios Florestais
+- ZONA Crítica de Incêndio Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2018/02/14/p/dre
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2018/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2018/01/03/p/dre
+- type: cites
+  target: pt:dre:108010872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114685734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:13Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +227,9 @@ n) Emitir os pareceres previstos no artigo 16.º, nomeadamente sobre as medidas 
 
 o) [Anterior alínea n).]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -249,7 +287,9 @@ b) Um representante da direção regional de agricultura territorialmente compet
 
 c) Um representante da ANPC.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A realização de queimadas só é permitida após autorização do município ou da freguesia, nos termos da lei que estabelece o quadro de transferência de competências para as autarquias locais, tendo em conta a proposta de realização da queima, o enquadramento meteorológico e operacional, bem como a data e local onde a mesma é proposta.
 
@@ -269,7 +309,9 @@ b) Receber os pedidos e comunicações prévias e instruir os procedimentos de a
 
 7 - A realização de queimadas sem autorização e sem o acompanhamento definido no presente artigo, deve ser considerada uso de fogo intencional.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Nos espaços rurais, durante o período crítico ou quando o índice de risco de incêndio seja de níveis muito elevado ou máximo:
 
@@ -285,7 +327,9 @@ c) A queima de matos cortados e amontoados e qualquer tipo de sobrantes de explo
 
 4 - Durante o período crítico ou quando o índice do risco de incêndio seja de níveis muito elevado ou máximo, a queima de matos cortados e amontoados e qualquer tipo de sobrantes de exploração, sem autorização e sem o acompanhamento definido pela autarquia local, deve ser considerada uso de fogo intencional.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -339,12 +383,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - João Titterington Gomes Cravinho - Carlos Manuel Soares Miguel - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de dezembro de 2018.**
+Promulgado em 28 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111989373

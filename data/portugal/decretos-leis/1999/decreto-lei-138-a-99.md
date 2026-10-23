@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 95/1999, 1º Suplemento, Série I-A de 1999-04-23
   number: '95'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2168-(2) a 2168-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/095a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138-a/1999/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-a-1999-222615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3904825b6a0f00c203db9103fc4212d1f2d3ba042e30fb789592476d8a7c9a32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33f055d71530b0fdfea73d58e5447da9a9fbe682f304e864ce3cb6aa52494942
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Brisa
 - Capital Social
 - Delegação de Competências
+- Direito de Voto
 - Isenção Fiscal
 - OPV
 - Privatização
 - Venda Directa
-- Direito de Voto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/253/1997/09/26/p/dre
@@ -108,16 +108,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/200-a/1997/11/21/p/dre
+- type: cites
+  target: pt:dre:214559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685660:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:14Z'
   warnings: []
   errors: []
 ---
@@ -322,12 +358,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Emanuel José Leandro Maranha das Neves.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1999.**
+Referendado em 22 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

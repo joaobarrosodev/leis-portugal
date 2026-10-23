@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 295/2003, 1º Suplemento, Série I-A de 2003-12-23
   number: '295'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8670-(5) a 8670-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/295a01/00050006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/62-n/2003/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-n-2003-638345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae3ef7abef9bdafbbd7f6390f99dbc28dfbb1562762eef645e4eb37c9c77acd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3836e3ac16a01670bbe717deb26c40b10f8ec6546cf6645f07fa201364548e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:52Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Luís Miguel Gaspar Gonçalves, de 28 anos de idade, no processo n.º 433/98.0GELRS, da 2.ª Vara do Tribunal Judicial da Comarca de Loures, é reduzida, por indulto, em 6 meses de prisão, pelo esforço desenvolvido na reinserção social por via do estudo e da recuperação da toxicodependência.
 
@@ -95,12 +95,12 @@ a) Não se ter o indultado constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir o indultado em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 22 de Dezembro de 2003.**
+Assinado em 22 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2003.**
+Referendado em 23 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

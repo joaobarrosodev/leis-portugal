@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16400/0595705958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2008/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2008-453559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ead0a5f2acc477adc41805a59e5c06636131d3b0d82624dcfcf80d6cbb85d9a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492aae377f6dd98760e36f44a765c27f7c3bd24acc5e94c93cd12da2978cae21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Instituição de Crédito
+- Banco de Portugal
 - Contra-ordenação
+- Contrato de Seguro
+- Crédito
 - Crédito à Habitação
 - Empréstimo
-- Banco de Portugal
-- Crédito
-- Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Habitação
+- Instituição de Crédito
+- Regime Geral das Instituições de Crédito e Sociedades Financeiras
 relationships:
 - type: amended_by
   target: pt:dre:107561581:por
@@ -88,16 +88,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+- type: cites
+  target: pt:dre:386799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107561581:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 171/2008, de 26-ago, pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República
+    n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos do seu art. 47.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:04Z'
   warnings: []
   errors: []
 ---
@@ -164,12 +178,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 31 de Julho de 2008.**
+Promulgado em 31 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Agosto de 2008.**
+Referendado em 1 de Agosto de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

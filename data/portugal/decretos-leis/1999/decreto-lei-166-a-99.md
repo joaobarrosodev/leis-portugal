@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 111/1999, 1º Suplemento, Série I-A de 1999-05-13
   number: '111'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2564-(2) a 2564-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/111a01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166-a/1999/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-a-1999-257454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 209f22f2c91441560c23aa874509d0a663e2fa6473bb68d570c6687d9b1b34ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4216cebd49d2ccc4c82a6eaaf0b0de4438d635a1a73a9174d58cb121891060b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,96 +68,106 @@ subjects:
 - Acesso à Informação
 - ACTO Administrativo
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Anafre
 - Associação de Consumidores
 - Associação Nacional de Municípios Portugueses
-- DECO
 - Atendimento Personalizado
 - Audição do Utente
-- Livro de Reclamações
+- Auditor de Qualidade em Serviços Públicos
+- Auditoria de Qualidade
 - Avaliação Contínua do Mérito
 - Balanço Social
-- Modernização Administrativa
-- Formação Profissional
-- Confederação Nacional da Agricultura
-- Gestão Financeira
+- Centro de Estudos e Formação Autárquica
+- Certificado de Qualidade
+- Cgtp-in
 - Comissão Técnica Especializada
 - Confederação da Indústria Portuguesa
 - Confederação de Turismo Português
 - Confederação do Comércio e Serviços de Portugal
 - Confederação dos Agricultores de Portugal
-- UGT
+- Confederação Nacional da Agricultura
 - Conselho de Ministros
+- Conselho Nacional da Qualidade
 - Conselho para a Qualidade nos Serviços Públicos
+- Controlo de Avaliação
 - Controlo de Qualidade
 - Correio Electrónico
 - Criação de Serviços
+- Curso de Auditores de Qualidade em Serviços Públicos
+- DECO
 - Definição de Competências
 - Delegação de Competências
-- Mudança Tecnológica
+- Direção Geral do Orçamento
+- Direcção Geral da Administração Pública
 - Direcção Regional da Administração Pública e Local
 - Direcção Regional das Autarquias Locais
 - Direcção Regional de Organização e Administração Pública
+- Direito à Informação
 - Direito Administrativo
 - Direito da Informação
+- Direitos do Utente
 - Documentação Administrativa
-- Administração Pública
-- Qualidade dos Serviços
-- INA
-- Cgtp-in
+- Formação Profissional
+- Função Pública
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Pública
+- INA
 - Instituto do Consumidor
-- Instituto Público
-- Direito à Informação
-- Linha de Atendimento Telefónico
-- Certificado de Qualidade
 - Instituto Português da Qualidade
-- Direcção Geral da Administração Pública
-- Direção Geral do Orçamento
-- Centro de Estudos e Formação Autárquica
+- Instituto Público
+- Linha de Atendimento Telefónico
+- Livro de Reclamações
+- Modernização Administrativa
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Núcleo de Modernização Administrativa
 - Plano de Actividades
+- Prémio de Qualidade em Serviços Públicos
 - Prestação de Serviços
 - Proteção do Consumidor
 - Qualidade do Produto
+- Qualidade dos Serviços
 - Reclamação
-- Administração Local
 - Relatório de Actividade
 - Responsabilidade Administrativa
 - Secretariado para a Modernização Administrativa
-- Auditor de Qualidade em Serviços Públicos
-- Auditoria de Qualidade
-- Controlo de Avaliação
-- Curso de Auditores de Qualidade em Serviços Públicos
-- Direitos do Utente
-- Prémio de Qualidade em Serviços Públicos
 - Serviço Público com Qualidade
-- Administração Regional
-- Gestão de Recursos Humanos
 - Sistema de Qualidade em Serviços Públicos
-- Conselho Nacional da Qualidade
+- UGT
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:692200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério da Reforma do Estado e da Administração Pública, do Conselho para a Qualidade\
+    \ nos Serviços Públicos, criado pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/234/1993/07/02/p/dre
+- type: cites
+  target: pt:dre:373863:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:51Z'
   warnings: []
   errors: []
 ---
@@ -456,12 +466,12 @@ Nos casos em que os bens e serviços prestados pela Administração Pública exi
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Armando António Martins Vara - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 10 de Maio de 1999.**
+Promulgado em 10 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

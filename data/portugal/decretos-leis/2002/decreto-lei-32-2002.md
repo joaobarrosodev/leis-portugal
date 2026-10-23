@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/042a00/13511353.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2002/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2002-278030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f3d507add151eb1fedd1ee786e68d5b762c30cee3dd015349d7132bb0b81dac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb0f6f017a47c6e3d2ef8859a2a3b89b809e6015bad3fde242bc2316b24812fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agrupamento de Explorações Agrícolas
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
-- Gestão Financeira
+- Ajuda Comunitária
+- Associação
 - Definição de Competências
 - Direcção Regional de Agricultura
 - Direito de Associação
+- Exploração Agrícola
+- Financiamento
 - Fiscalização
 - Fruto
+- Gestão Financeira
 - Mercado Agrícola
-- Exploração Agrícola
 - Política Agrícola Comum
+- Produção Agrícola
 - Produto Hortícola
 - Produtor
-- Produção Agrícola
-- Associação
 relationships:
 - type: amended_by
   target: pt:dre:209635:por
@@ -100,16 +100,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/252/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/252/1998/08/11/p/dre
+- type: repealed_by
+  target: pt:dre:209635:por
+  label: "Revogado, por força da revogação do Dec Lei 252/98 de 11-Ago, pelo DEC LEI.222/2004.03.12.2004.MAPF, DR.IS-A [283]\
+    \ de 03.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2004-209635
+  date: '2004-12-03'
 article_structure:
-  article_count: 9
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:23Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +158,9 @@ a) Envolva acções devidamente identificadas mas não aplicadas pelos seus memb
 
 b) A respectiva comparticipação financeira se encontre expressamente especificada no programa operacional dos membros e as acções propostas sejam integralmente financiadas pelos mesmos, através de contribuições provenientes dos respectivos fundos operacionais.
 
-###### Artigo 3.º — Condições do reconhecimento
+Artigo 3.º
+
+Condições do reconhecimento
 
 1 - Podem ser reconhecidas, a seu pedido, as organizações de produtores que, cumulativamente, preencham os seguintes requisitos:
 
@@ -174,7 +182,9 @@ a) Estejam devidamente constituídas;
 
 b) Incluam nos respectivos estatutos a possibilidade de poderem vir a agir em substituição dos seus membros no que se refere à gestão do fundo operacional destes.
 
-###### Artigo 5.º — Apresentação dos pedidos
+Artigo 5.º
+
+Apresentação dos pedidos
 
 1 - Os pedidos de reconhecimento e de pré-reconhecimento devem ser apresentados junto das direcções regionais de agricultura (DRA) da área onde se localize a sede do requerente, devidamente acompanhados dos seguintes documentos:
 
@@ -202,7 +212,9 @@ b) Valor da produção comercializada de cada uma das organizações de produtor
 
 c) Título de reconhecimento de todos os membros e respectivos números fiscais.
 
-###### Artigo 9.º — Elaboração de relatórios
+Artigo 9.º
+
+Elaboração de relatórios
 
 Serão anualmente elaborados relatórios, de âmbito regional e nacional, sobre a aplicação do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), de 28 de Outubro, de acordo com o seguinte calendário:
 
@@ -212,11 +224,15 @@ b) Até ao dia 31 de Março de cada ano, as DRA remetem ao GPPAA as fichas refer
 
 c) ...
 
-###### Artigo 10.º — Fiscalização
+Artigo 10.º
+
+Fiscalização
 
 A DRA da área onde se localiza a sede da requerente deverá proceder ao controlo periódico da manutenção das condições justificativas de reconhecimento e do pré-reconhecimento, bem como às inspecções sobre a evolução do estado de realização do plano escalonado e do programa operacional.
 
-###### Artigo 11.º — Sanções
+Artigo 11.º
+
+Sanções
 
 1 - Compete ao GPPAA propor a suspensão ou revogação do título de reconhecimento ou pré-reconhecimento sempre que se verifique uma das seguintes condições:
 
@@ -246,7 +262,7 @@ Programa operacional
 
 Elementos necessários para a elaboração do programa operacional - artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), de 28 de Outubro, e artigo 8.º do Regulamento (CE) n.º [609/2001](http://data.europa.eu/eli/reg/2001/609/oj?locale=pt), de 28 de Março:
 
-###### Artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), de 28 de Outubro
+Artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt), de 28 de Outubro
 
 1 - ...
 
@@ -260,7 +276,7 @@ Elementos necessários para a elaboração do programa operacional - artigo 15.�
 
 6 - ...
 
-###### Artigo 8.º do Regulamento (CE) n.º [609/2001](http://data.europa.eu/eli/reg/2001/609/oj?locale=pt), de 28 de Março
+Artigo 8.º do Regulamento (CE) n.º [609/2001](http://data.europa.eu/eli/reg/2001/609/oj?locale=pt), de 28 de Março
 
 1 - O projecto de programa operacional deve observar os requisitos do n.º 4 do artigo 15.º do Regulamento (CE) n.º [2200/96](http://data.europa.eu/eli/reg/1996/2200/oj?locale=pt) ou, no caso dos planos de acção, os necessários para garantir, no final do plano de acção, o cumprimento do disposto no n.º 2 do artigo 11.º daquele Regulamento.
 
@@ -296,12 +312,12 @@ b) Do compromisso escrito da organização de produtores de respeitar o disposto
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 31 de Janeiro de 2002.**
+Promulgado em 31 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2002.**
+Referendado em 7 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

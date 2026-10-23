@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2011/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2011-146212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a0c905f8dd7466aa788c0d00db1a8bde6113284026f8c285781d6861d531939
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5a0c054ee8d88e10380ff6dba18073d6c8faecd0b0d2f5ef39250e946ba760
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Agência Nacional de Compras Públicas
 - Aquisição de Bens e Serviços
-- Tecnologia da Informação
+- Gerap
 - Política de Saúde
 - Serviço Nacional de Saúde
-- TIC
-- Gerap
-- Administração Central do Sistema de Saúde
 - Serviços Partilhados do Ministério da Saúde
+- Tecnologia da Informação
+- TIC
 - Transferência de Pessoal
 - Unidade Ministerial de Compras
 relationships:
@@ -84,6 +84,19 @@ relationships:
   target: pt:dre:115487877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107522251:por
+  label: Alterado, a partir de 17.06.2017, o art. 3.º (na redação do presente diploma) do Dec Lei 19/2010 de 22-mar, pelo
+    Decreto-Lei n.º 69/2017 - Diário da República n.º 115/2017, Série I de 2017-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2017-107522251
+  date: '2017-06-16'
+- type: amended_by
+  target: pt:dre:115487877:por
+  label: Alterado o art. 3.º do Dec Lei 19/2010 de 22-mar, bem como alterado o art. 2.º dos Estatutos da SPMS, E.P.E., aprovados
+    em anexo àquele diploma, ambos na redação do presente, pelo(a) Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018,
+    Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2018-115487877
+  date: '2018-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/2010/12/27/p/dre
   label: null
@@ -124,16 +137,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei
   label: null
   source: http://data.dre.pt/eli/lei
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543026:por
+  label: "Revogado, a partir de 01.03.2012, o Dec Lei 219/2007 de 29-mai, alterado pelo presente diploma, pelo DEC LEI.35/2012.15.02.2012.MS,\
+    \ DR.IS [33] de 15.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2012-543026
+  date: '2012-02-15'
 article_structure:
-  article_count: 11
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:27Z'
   warnings: []
   errors: []
 ---
@@ -272,7 +355,9 @@ Os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 19/2010](https://diariodarepub
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3 e das atribuições da Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E. (GeRAP), e da Agência Nacional de Compras Públicas, E. P. E. (ANCP), em serviços partilhados transversais à Administração Pública, a SPMS, E. P. E., exerce em exclusividade a actividade de disponibilização dos serviços partilhados específicos da área da saúde em matéria de compras e logística, financeiros, recursos humanos e tecnologias de informação e de comunicação aos estabelecimentos e serviços do SNS, independentemente da sua natureza jurídica, bem como aos órgãos e serviços do Ministério da Saúde, nos casos em que estes recorram a uma solução de serviços partilhados para assegurar o exercício daquelas funções, sem prejuízo da utilização das ferramentas de interoperabilidade da Agência para a Modernização Administrativa, I. P.
 
@@ -294,7 +379,9 @@ Os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 19/2010](https://diariodarepub
 
 10 - Sem prejuízo do disposto no [Decreto-Lei n.º 37/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2007-517987), de 19 de Fevereiro, as aquisições a efectuar ao abrigo dos contratos públicos de aprovisionamento celebrados pela SPMS, E. P. E., dos bens e serviços a que se refere o número anterior, podem ser tornadas obrigatórias, por despacho do membro do Governo responsável pela área da saúde, para todos os serviços e estabelecimentos do SNS.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -370,12 +457,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 7 de Novembro de 2011.**
+Promulgado em 7 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Novembro de 2011.**
+Referendado em 9 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

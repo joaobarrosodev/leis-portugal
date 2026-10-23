@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/17000/10371040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/459-1975-336493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0f8a6f9a2e6c4304bcaf0f5c0038d3d9a365c15e26b6091ad918a129b8ce653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d96e4c897136484bc64a780ae4ff7692d61384e252c7023354f6a1f517bf149
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola de Hotelaria e Turismo
+- Estatuto
+- Órgãos de Gestão
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:324523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324523:por
+  label: Revogada pelo(a) Portaria n.º 715/78 - Diário da República n.º 280/1978, Série I de 1978-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1978-324523
+  date: '1978-12-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:14Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +125,7 @@ I
 
 Dos órgãos de gestão
 
-###### Artigo 1.º A direcção e gestão da Escola de Hotelaria e de Turismo do Porto será assegurada pelos seguintes órgãos:
+Artigo 1.º A direcção e gestão da Escola de Hotelaria e de Turismo do Porto será assegurada pelos seguintes órgãos:
 
 a) Conselho de gestão;
 
@@ -120,7 +137,7 @@ II
 
 Do conselho de gestão
 
-###### Art. 2.º - 1. O conselho de gestão é composto pelos seguintes elementos:
+Art. 2.º - 1. O conselho de gestão é composto pelos seguintes elementos:
 
 a) Um representante do Estado, nomeado pelo Secretário de Estado do Turismo, que presidirá;
 
@@ -138,27 +155,27 @@ g) Três representantes dos trabalhadores da Escola, eleitos democraticamente pe
 
 2. No início de cada ano lectivo, o conselho elegerá, de entre os seus membros, o elemento que substituirá o presidente nas suas faltas ou impedimentos.
 
-###### Art. 3.º - 1. As designações destes representantes serão feitas por um período de dois anos, renovável, podendo ser substituídos a todo o tempo.
+Art. 3.º - 1. As designações destes representantes serão feitas por um período de dois anos, renovável, podendo ser substituídos a todo o tempo.
 
 2. As substituições deverão ser comunicadas ao presidente do conselho de gestão.
 
-###### Art. 4.º - 1. Durante o ano lectivo, o conselho de gestão reunir-se-á, pelo menos, uma vez por mês, podendo, todavia, reunir-se extraordinariamente sempre que o seu presidente ou um terço dos seus membros o convoque.
+Art. 4.º - 1. Durante o ano lectivo, o conselho de gestão reunir-se-á, pelo menos, uma vez por mês, podendo, todavia, reunir-se extraordinariamente sempre que o seu presidente ou um terço dos seus membros o convoque.
 
 2. As reuniões extraordinárias do conselho deverão ser convocadas por escrito, com a antecedência mínima de quarenta e oito horas.
 
 3. A convocatória será assinada pelo presidente ou, se este se recusar a fazê-lo, pelos membros que convocam a reunião extraordinária.
 
-###### Art. 5.º - 1. O conselho de gestão só pode validamente deliberar quando estejam presentes, pelo menos, seis dos seus membros.
+Art. 5.º - 1. O conselho de gestão só pode validamente deliberar quando estejam presentes, pelo menos, seis dos seus membros.
 
 2. As decisões do conselho de gestão serão tomadas por maioria simples de votos dos membros presentes, tendo o presidente voto de qualidade em caso de empate.
 
-###### Art. 6.º O conselho de gestão poderá criar comissões e grupos de trabalho para tratar de questões específicas do funcionamento da Escola e do Hotel-Escola, competindo-lhe definir a respectiva composição e os objectivos e normas de funcionamento de tais comissões ou grupos.
+Art. 6.º O conselho de gestão poderá criar comissões e grupos de trabalho para tratar de questões específicas do funcionamento da Escola e do Hotel-Escola, competindo-lhe definir a respectiva composição e os objectivos e normas de funcionamento de tais comissões ou grupos.
 
 III
 
 Da competência do conselho de gestão
 
-###### Art. 7.º Ao conselho de gestão, para além de assegurar o regular funcionamento da Escola e do Hotel-Escola dentro dos limites do orçamento anualmente aprovado, compete, especialmente:
+Art. 7.º Ao conselho de gestão, para além de assegurar o regular funcionamento da Escola e do Hotel-Escola dentro dos limites do orçamento anualmente aprovado, compete, especialmente:
 
 a) Apreciar e aprovar os orçamentos, relatórios e contas de gerência da Escola e do Hotel-Escola;
 
@@ -178,27 +195,27 @@ h) Autorizar a realização de despesas não orçamentadas, bem como a transfer�
 
 i) Aprovar e autorizar as aquisições de valor superior a 15000$00 que não digam respeito a despesas de consumo e uso corrente inerentes à manutenção e funcionamento da Escola e do Hotel-Escola.
 
-###### Art. 8.º Competirá em especial ao presidente do conselho de gestão:
+Art. 8.º Competirá em especial ao presidente do conselho de gestão:
 
 a) Presidir às reuniões do conselho;
 
 b) Representar externamente o estabelecimento, nomeadamente perante o Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 9.º Até 31 de Julho de cada ano, o conselho de gestão apresentará, para aprovação superior, o orçamento para o ano seguinte.
+Art. 9.º Até 31 de Julho de cada ano, o conselho de gestão apresentará, para aprovação superior, o orçamento para o ano seguinte.
 
 IV
 
 Da direcção
 
-###### Art. 10.º A direcção da Escola é um órgão colegial constituído por um director e dois subdirectores, sendo um técnico de turismo e outro técnico da indústria hoteleira e similar.
+Art. 10.º A direcção da Escola é um órgão colegial constituído por um director e dois subdirectores, sendo um técnico de turismo e outro técnico da indústria hoteleira e similar.
 
-###### Art. 11.º - 1. Os elementos da direcção desempenharão as suas funções em tempo completo, mediante contrato anual celebrado com a Escola, e terão direito a uma remuneração mensal fixada de acordo com as suas qualificações técnicas e as condições do mercado de trabalho respectivo.
+Art. 11.º - 1. Os elementos da direcção desempenharão as suas funções em tempo completo, mediante contrato anual celebrado com a Escola, e terão direito a uma remuneração mensal fixada de acordo com as suas qualificações técnicas e as condições do mercado de trabalho respectivo.
 
 2. Estas remunerações serão abonadas mesmo durante o período de férias.
 
 3. As remunerações dos elementos da direcção serão fixadas pelo conselho de gestão, dentro dos limites do orçamento aprovado.
 
-###### Art. 12.º Competirá especialmente à direcção:
+Art. 12.º Competirá especialmente à direcção:
 
 a) Assegurar diariamente as tarefas de gestão administrativa e pedagógica da Escola;
 
@@ -210,7 +227,7 @@ d) Organizar os processos disciplinares do pessoal da Escola e propor as respect
 
 e) Decidir todos os assuntos correntes ou outros que lhe sejam delegados, ou ainda quaisquer situações de emergência em que não seja possível convocar o conselho de gestão.
 
-###### Art. 13.º Competirá em especial ao director:
+Art. 13.º Competirá em especial ao director:
 
 a) Representar externamente o estabelecimento de acordo com a delegação que lhe for conferida pelo conselho de gestão;
 
@@ -220,13 +237,13 @@ c) Propor ao conselho de gestão o regulamento interno da Escola e as respectiva
 
 d) Assinar todo o expediente e os documentos de contabilidade.
 
-###### Art. 14.º Competirá aos subdirectores, para além da sua participação na direcção, coadjuvar o director no exercício das suas funções.
+Art. 14.º Competirá aos subdirectores, para além da sua participação na direcção, coadjuvar o director no exercício das suas funções.
 
 V
 
 Do conselho pedagógico
 
-###### Art. 15.º - 1. O conselho pedagógico será constituído pelos seguintes elementos:
+Art. 15.º - 1. O conselho pedagógico será constituído pelos seguintes elementos:
 
 a) Direcção da Escola;
 
@@ -256,7 +273,7 @@ l) Um representante da secretaria da Escola, que servirá de secretário, sem di
 
 4. O conselho elegerá anualmente, de entre os seus membros, o elemento que substituirá o presidente nas suas faltas ou impedimentos.
 
-###### Art. 16.º Competem ao conselho pedagógico todos os assuntos que directamente afectem o ensino ministrado na Escola, nomeadamente:
+Art. 16.º Competem ao conselho pedagógico todos os assuntos que directamente afectem o ensino ministrado na Escola, nomeadamente:
 
 a) A elaboração dos programas de ensino, bem como a estruturação e modo de execução dos cursos ministrados na Escola e no Hotel-Escola;
 
@@ -270,7 +287,7 @@ e) A apreciação de todos os assuntos que digam respeito às matrículas de adm
 
 f) A convocação, através do seu presidente, das reuniões do corpo docente.
 
-###### Art. 17.º - 1. É aplicável ao conselho pedagógico o estabelecido no artigo 4.º para o conselho de gestão.
+Art. 17.º - 1. É aplicável ao conselho pedagógico o estabelecido no artigo 4.º para o conselho de gestão.
 
 2. O conselho pedagógico reunirá obrigatoriamente, pelo menos, um mês antes da abertura do ano lectivo, para apreciar e propor as alterações aos programas e cursos que considerar convenientes.
 
@@ -278,11 +295,11 @@ VI
 
 Do Hotel-Escola
 
-###### Art. 18.º O Hotel-Escola de Santa Luzia dependerá orgânica e administrativamente da Escola do Porto.
+Art. 18.º O Hotel-Escola de Santa Luzia dependerá orgânica e administrativamente da Escola do Porto.
 
-###### Art. 19.º O Hotel-Escola será dirigido por um director, designado pelo conselho de gestão.
+Art. 19.º O Hotel-Escola será dirigido por um director, designado pelo conselho de gestão.
 
-###### Art. 20.º Ao director do Hotel-Escola competirá, para além de assegurar o regular funcionamento do Hotel, o seguinte:
+Art. 20.º Ao director do Hotel-Escola competirá, para além de assegurar o regular funcionamento do Hotel, o seguinte:
 
 a) Representar externamente o estabelecimento em tudo o que respeitar ao seu funcionamento e não seja da competência do conselho de gestão;
 
@@ -308,10 +325,10 @@ VII
 
 Das disposições transitórias
 
-###### Art. 21.º Deixam de ser aplicáveis à Escola de Hotelaria e de Turismo do Porto os artigos 19.º a 23.º da [Portaria n.º 505/70](https://diariodarepublica.pt/dr/detalhe/portaria/505-1970-148383), de 10 de Outubro, bem como quaisquer outras disposições desse diploma que sejam incompatíveis com o que se dispõe neste Estatuto.
+Art. 21.º Deixam de ser aplicáveis à Escola de Hotelaria e de Turismo do Porto os artigos 19.º a 23.º da [Portaria n.º 505/70](https://diariodarepublica.pt/dr/detalhe/portaria/505-1970-148383), de 10 de Outubro, bem como quaisquer outras disposições desse diploma que sejam incompatíveis com o que se dispõe neste Estatuto.
 
-###### Art. 22.º Serão designados em cada ano dois funcionários da Secretaria de Estado do Turismo para apreciar o relatório e contas referentes ao ano lectivo findo apresentados pelo presidente do conselho directivo da Escola.
+Art. 22.º Serão designados em cada ano dois funcionários da Secretaria de Estado do Turismo para apreciar o relatório e contas referentes ao ano lectivo findo apresentados pelo presidente do conselho directivo da Escola.
 
-###### Art. 23.º Quaisquer dúvidas surgidas na execução desta regulamentação serão resolvidas por despacho do Secretário de Estado do Turismo.
+Art. 23.º Quaisquer dúvidas surgidas na execução desta regulamentação serão resolvidas por despacho do Secretário de Estado do Turismo.
 
-**O Secretário de Estado do Turismo, Artur Luís Alves Conde.**
+O Secretário de Estado do Turismo, Artur Luís Alves Conde.

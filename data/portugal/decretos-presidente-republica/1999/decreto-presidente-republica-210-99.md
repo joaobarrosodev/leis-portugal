@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/210/1999/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/210-1999-683177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccdd83fa6bfcef49d572cd5760cd81017895b2f5995c60f5d11d0d1890d8e93b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56ef21a0f6cf59bef028191516d325dfe92fd5259d8a9f4dfc45374ecffdeaf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Genebra
 - Macau
 - OIT
+- Portugal
 - Trabalho de Menores
-- Genebra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/11/1998/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/11/1998/03/19/p/dre
+- type: cites
+  target: pt:dre:197340:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:38Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ validation:
 
 de 9 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau a Convenção n.º 138 da OIT, sobre a idade mínima de admissão ao emprego, de 26 de Junho de 1973, ratificada pelo [Decreto do Presidente da República n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/11-1998-197340), de 19 de Março, cujo texto foi publicado no Diário da República, 1.ª série, de 19 de Março de 1998.
 
@@ -103,8 +107,8 @@ A República Portuguesa declara aceitar, relativamente ao território de Macau, 
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 29 de Outubro de 1999.**
+Assinado em 29 de Outubro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

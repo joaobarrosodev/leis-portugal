@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/288a00/70507062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/2004/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2004-213408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20f8c5176edbebaf7228c9eae6b38390ea42bde27f2e3dc273f7af6233d8981e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bcdc5302110b74fc2609a03e261b85b0b8ccb80ffdb1c490c82ff04195ea0d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Financiamento
 - Comissão de Acompanhamento
 - Contra-ordenação
+- Eliminação de Resíduos
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
+- Financiamento
 - Fiscalização
-- Transporte de Resíduos
-- Licenciamento
-- Resíduo
+- Gestão de Resíduos
 - Instituto dos Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Produtor
+- Licenciamento
 - Madeira.região Autónoma
+- Produtor
+- Proteção do Ambiente
 - Regime Jurídico
+- Resíduo
 - Resíduo Industrial
-- Açores
-- Eliminação de Resíduos
+- Saúde Pública
 - Substância Perigosa
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:25343745:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:595123:por
+  label: "Alterado o art. 2º pelo DEC LEI.174/2005.25.10.2005.MAOTDR, DR.IS-A [205] de 25.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2005-595123
+  date: '2005-10-25'
+- type: amended_by
+  target: pt:dre:306437:por
+  label: "Alterados os arts. 3º (cuja al. n), na redacção conferida neste diploma, produz efeitos a partir de 01.06.2015;\
+    \ e à qual é conferida nova redacção, transitória, da definição de “Substância ou mistura perigosa” constante da mesma\
+    \ al. n), para vigorar entre 01.12.2010 e 01.06.2015), 5º, 7º, 9º, 12º, 13º, 21º, 23º, 26º, 27º, 29º, 31º, 32º, 33º e\
+    \ 34º, assim como o anexo ii; e revogadas as als. a), f), h), j), l), m), n), o) e p) do nº 1 do art. 32º pelo DEC LEI.132/2010.17.12.2010.MAOT,\
+    \ DR.IS [243] de 17.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2010-306437
+  date: '2010-12-17'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Mantidas em vigor até à entrada em funcionamento do registo efectuado na plataforma electrónica, nos termos do disposto\
+    \ no artigo 45.º, as licenças atribuídas às entidades de registo no âmbito do presente diploma, pelo DEC LEI.73/2011.17.06.2011.MAOT,\
+    \ DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -142,16 +163,39 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogados os nºs 5 e 6 do art. 20º pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: repealed_by
+  target: pt:dre:670034:por
+  label: "Revogado o art. 27º pelo DEC LEI.73/2011.17.06.2011.MAOT, DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: repealed_by
+  target: pt:dre:496704:por
+  label: "Revogado o art 6.º, a al. e) do n.º 1 do art. 32.º (este na redação do Dec Lei 132/2010, de 17-dez) e o anexo V\
+    \ do presente diploma, pelo DEC LEI.79/2013.11.06.2013.MAMAOT, DR.IS [111] de 11.06.2013\02013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2013-496704
+  date: '2013-06-11'
+- type: repealed_by
+  target: pt:dre:25343745:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 174/2005, de 25-out, do Dec Lei 178/2006, de 05-set, do Dec Lei\
+    \ 132/2010, de 17-dez, do Dec Lei 73/2011, de 17-jun, e do Dec Lei 79/2013, de 11-jun, pelo DEC LEI.67/2014.07.05.2014.MAOTE,\
+    \ DR.IS [87] de 07.05.2014\0.2014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2014-25343745
+  date: '2014-05-07'
 article_structure:
   article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:48Z'
   warnings: []
   errors: []
 ---
@@ -740,15 +784,15 @@ O regime previsto no presente diploma aplica-se às Regiões Autónomas, com as 
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 15 de Novembro de 2004.**
+Promulgado em 15 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 2004.**
+Referendado em 25 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Lista dos produtos e funções que deverão ser considerados para efeitos do presente diploma
 

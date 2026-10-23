@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2002/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2002-250607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de9797836c203631d06087251a9ad306ecc56a425b216b39c58257c1750d738c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2a66437761eafcbdf91bb76e92619259b873f251ee7190e35c3b099b340c68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Indústria Hoteleira
+- Infraestrutura Turística
 - Licenciamento
 - Parque de Campismo
 - Regime Jurídico
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546014:por
+  label: "Alterados os arts. 25.º a 30.º, 32.º, 33.º, 34.º, 61.º, 61.º, 62.º e 72.º e aditado o art. 30.º-A ao Dec Lei 167/97,\
+    \ de 04-Jul, pelo DEC LEI.217/2006.31.10.2006.MEI, DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2006-546014
+  date: '2006-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -116,16 +122,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: pt:dre:144995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado, a partir de 06.04.2008, o Dec Lei 167/97 de 04-Jul, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 144
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 92
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:59Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +288,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 4.º — Parques de campismo públicos e privativos
+Artigo 4.º
+
+Parques de campismo públicos e privativos
 
 1 - ...
 
@@ -188,7 +302,9 @@ d) ...
 
 5 - Nos parques de campismo podem existir áreas afectas a instalações de alojamento, nos termos a definir no regulamento a que se refere o n.º 3 do artigo 1.º
 
-###### Artigo 6.º — Conjuntos turísticos
+Artigo 6.º
+
+Conjuntos turísticos
 
 1 - São conjuntos turísticos os núcleos de instalações funcionalmente interdependentes, localizados numa área demarcada, submetidos a uma mesma administração, que integrem exclusivamente um ou vários estabelecimentos hoteleiros ou meios complementares de alojamento turístico, estabelecimentos de restauração ou de bebidas e pelo menos um estabelecimento, iniciativa, projecto ou actividade declarados com interesse para o turismo nos termos previstos no artigo 57.º
 
@@ -196,7 +312,9 @@ d) ...
 
 3 - Sem prejuízo do disposto no número anterior, a realização de operações urbanísticas referentes a cada estabelecimento ou empreendimento integrado num conjunto turístico é objecto de licenciamento ou de autorização própria.
 
-###### Artigo 7.º — Competência da Direcção-Geral do Turismo
+Artigo 7.º
+
+Competência da Direcção-Geral do Turismo
 
 1 - Para efeitos do presente diploma, compete à Direcção-Geral do Turismo, sem prejuízo de outras competências atribuídas por lei:
 
@@ -224,7 +342,9 @@ b) Todas as operações de loteamento desde que se destinem à instalação de e
 
 4 - ...
 
-###### Artigo 8.º — Competência dos órgãos municipais
+Artigo 8.º
+
+Competência dos órgãos municipais
 
 1 - Para efeitos do presente diploma, compete à câmara municipal, sem prejuízo de outras competências atribuídas por lei:
 
@@ -248,11 +368,15 @@ b) ...
 
 c) Atribuir e retirar a qualificação aos parques de campismo privativos.
 
-###### Artigo 9.º — Instalação
+Artigo 9.º
+
+Instalação
 
 Para efeitos do presente diploma, considera-se instalação de empreendimentos turísticos o processo de licenciamento ou de autorização para a realização de operações urbanísticas relativas à construção e ou utilização de edifícios ou suas fracções destinados ao funcionamento daqueles empreendimentos.
 
-###### Artigo 10.º — Regime aplicável
+Artigo 10.º
+
+Regime aplicável
 
 1 - Os processos respeitantes à instalação de empreendimentos turísticos são regulados pelo regime jurídico da urbanização e da edificação, com as especificidades estabelecidas nos artigos seguintes, competindo às câmaras municipais o seu licenciamento ou a sua autorização.
 
@@ -264,7 +388,9 @@ Para efeitos do presente diploma, considera-se instalação de empreendimentos t
 
 5 - Os estudos e projectos de empreendimentos turísticos devem ser subscritos por arquitecto ou por arquitecto em colaboração com engenheiro civil, devidamente identificados.
 
-###### Artigo 12.º — Consulta à Direcção-Geral do Turismo
+Artigo 12.º
+
+Consulta à Direcção-Geral do Turismo
 
 1 - Sempre que a Direcção-Geral do Turismo deva emitir parecer sobre o licenciamento ou a autorização para a realização de obras de edificação referentes a empreendimentos turísticos, a câmara municipal deve consultar aquela entidade no âmbito da apreciação do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento referido no artigo anterior.
 
@@ -282,7 +408,9 @@ c) A apreciação da localização do empreendimento turístico, quando este nã
 
 5 - ...
 
-###### Artigo 14.º — Consulta à direcção regional do ambiente e do ordenamento do território
+Artigo 14.º
+
+Consulta à direcção regional do ambiente e do ordenamento do território
 
 1 - Sem prejuízo do disposto no artigo 39.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a câmara municipal deve solicitar o parecer sobre a localização do empreendimento turístico à direcção regional do ambiente e do ordenamento do território competente, no âmbito do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento previsto no artigo 11.º
 
@@ -292,9 +420,13 @@ c) A apreciação da localização do empreendimento turístico, quando este nã
 
 4 - ...
 
-#### SECÇÃO III — Licenciamento ou autorização de operações urbanísticas
+SECÇÃO III
 
-###### Artigo 15.º — Parecer da Direcção-Geral do Turismo
+Licenciamento ou autorização de operações urbanísticas
+
+Artigo 15.º
+
+Parecer da Direcção-Geral do Turismo
 
 1 - O deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação referentes a empreendimentos turísticos carece sempre de parecer da Direcção-Geral do Turismo sobre o projecto de arquitectura e sobre a localização dos mesmos nos casos previstos no n.º 3.
 
@@ -314,7 +446,9 @@ c) A apreciação da localização do empreendimento turístico, quando este se 
 
 6 - A não emissão de parecer dentro do prazo fixado no n.º 2 entende-se como parecer favorável.
 
-###### Artigo 19.º — Parecer da direcção regional do ambiente e do ordenamento do território
+Artigo 19.º
+
+Parecer da direcção regional do ambiente e do ordenamento do território
 
 1 - Sem prejuízo do disposto no artigo 39.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, a câmara municipal deve solicitar o parecer sobre a localização do empreendimento turístico à direcção regional do ambiente e do ordenamento do território competente, se esta não se tiver pronunciado no âmbito do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento previsto no artigo 11.º
 
@@ -324,7 +458,9 @@ c) A apreciação da localização do empreendimento turístico, quando este se 
 
 4 - Quando desfavorável, o parecer da direcção regional do ambiente e do ordenamento do território competente é vinculativo.
 
-###### Artigo 20.º — Parecer das autoridades de saúde
+Artigo 20.º
+
+Parecer das autoridades de saúde
 
 1 - O deferimento pela câmara municipal do pedido de licenciamento ou de autorização para a realização de obras de edificação em empreendimentos turísticos carece de parecer das autoridades de saúde a emitir pelo delegado concelhio de saúde ou adjunto do delegado concelhio de saúde, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento previsto no artigo 11.º
 
@@ -334,7 +470,9 @@ c) A apreciação da localização do empreendimento turístico, quando este se 
 
 4 - Quando desfavorável, o parecer das autoridades de saúde é vinculativo.
 
-###### Artigo 21.º — Obras isentas ou dispensadas de licença ou de autorização municipal
+Artigo 21.º
+
+Obras isentas ou dispensadas de licença ou de autorização municipal
 
 1 - Carecem de autorização da Direcção-Geral do Turismo as obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, quando as mesmas forem realizadas no interior de empreendimentos turísticos, desde que:
 
@@ -350,7 +488,9 @@ b) Sejam susceptíveis de prejudicar os requisitos mínimos exigíveis para a cl
 
 5 - Se o interessado pretender realizar as obras referidas no n.º 1 durante a construção do empreendimento, deve requerer previamente à Direcção-Geral do Turismo a respectiva autorização, aplicando-se nesse caso o disposto na parte final do n.º 2 e nos n.os 3 e 4.
 
-###### Artigo 22.º — Parecer do Serviço Nacional de Bombeiros
+Artigo 22.º
+
+Parecer do Serviço Nacional de Bombeiros
 
 1 - O deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação em empreendimentos turísticos carece de parecer do Serviço Nacional de Bombeiros.
 
@@ -360,7 +500,9 @@ b) Sejam susceptíveis de prejudicar os requisitos mínimos exigíveis para a cl
 
 4 - Nos casos previstos nos n.os 1 e 5 do artigo anterior, a Direcção-Geral do Turismo deve consultar o Serviço Nacional de Bombeiros para efeito da emissão de parecer sobre o cumprimento das regras de segurança contra riscos de incêndio.
 
-###### Artigo 23.º — Autorização do Serviço Nacional de Bombeiros
+Artigo 23.º
+
+Autorização do Serviço Nacional de Bombeiros
 
 1 - Carecem de autorização do Serviço Nacional de Bombeiros as obras a realizar no interior dos empreendimentos turísticos, quando estejam isentas ou dispensadas de licença ou de autorização municipal, nos termos previstos nas alíneas a) e b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, nem sujeitas a autorização da Direcção-Geral do Turismo, nos termos do artigo 21.º
 
@@ -368,13 +510,19 @@ b) Sejam susceptíveis de prejudicar os requisitos mínimos exigíveis para a cl
 
 3 - ...
 
-###### Artigo 24.º — Aprovação da classificação dos parques de campismo
+Artigo 24.º
+
+Aprovação da classificação dos parques de campismo
 
 No caso dos parques de campismo, a câmara municipal, juntamente com a emissão do alvará de licença ou de autorização para a realização de obras de edificação urbanísticas, aprova o nome do empreendimento e, a título provisório, fixa a capacidade máxima e aprova a classificação que pode ser obtida de acordo com o projecto apresentado, e ou a sua qualificação, consoante os casos.
 
-#### SECÇÃO IV — Licenciamento ou autorização da utilização
+SECÇÃO IV
 
-###### Artigo 25.º — Licença ou autorização de utilização turística
+Licenciamento ou autorização da utilização
+
+Artigo 25.º
+
+Licença ou autorização de utilização turística
 
 1 - Concluída a obra e equipado o empreendimento em condições de iniciar o seu funcionamento, o interessado requer a concessão da licença ou da autorização de utilização turística dos edifícios novos, reconstruídos, ampliados ou alterados, ou das fracções autónomas cujas obras tenham sido licenciadas ou autorizadas nos termos do presente diploma.
 
@@ -386,7 +534,9 @@ No caso dos parques de campismo, a câmara municipal, juntamente com a emissão 
 
 5 - No caso dos parques de campismo, juntamente com a licença ou a autorização, de utilização turística é confirmada ou alterada, a título definitivo, em função do resultado da vistoria, a classificação do empreendimento, e ou a sua qualificação, consoante os casos, fixando-se ainda a respectiva capacidade máxima.
 
-###### Artigo 26.º — Vistoria
+Artigo 26.º
+
+Vistoria
 
 1 - A vistoria deve realizar-se no prazo de 30 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.
 
@@ -416,13 +566,17 @@ g) Um representante da Federação Portuguesa de Campismo, quando se tratar dos 
 
 7 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto, fundamentado, de um dos elementos referidos nas alíneas b) e c) do n.º 2, não pode ser concedida a licença ou a autorização de utilização turística.
 
-###### Artigo 27.º — Alvará de licença ou de autorização de utilização turística
+Artigo 27.º
+
+Alvará de licença ou de autorização de utilização turística
 
 1 - Concedida a licença ou a autorização de utilização turística o titular requer ao presidente da câmara municipal a emissão do alvará que a titula, o qual deve ser emitido no prazo de 30 dias a contar da data da recepção do respectivo requerimento.
 
 2 - A emissão do alvará deve ser notificada ao requerente, por correio registado, no prazo de oito dias a contar da data da sua decisão.
 
-###### Artigo 28.º — Funcionamento dos empreendimentos turísticos
+Artigo 28.º
+
+Funcionamento dos empreendimentos turísticos
 
 1 - O funcionamento dos empreendimentos turísticos depende apenas da titularidade do alvará de licença ou de autorização de utilização turística, emitido nos termos do disposto no artigo anterior, o qual constitui, relativamente a estes empreendimentos, o alvará de licença ou autorização de utilização previsto nos artigos 62.º e 74.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
@@ -430,7 +584,9 @@ g) Um representante da Federação Portuguesa de Campismo, quando se tratar dos 
 
 3 - O funcionamento do empreendimento pode ser autorizado por fases, aplicando-se a cada uma delas o disposto na presente secção.
 
-###### Artigo 29.º — Especificações do alvará
+Artigo 29.º
+
+Especificações do alvará
 
 1 - O alvará de licença ou de autorização de utilização turística deve especificar, para além dos elementos referidos no n.º 5 do artigo 77.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, os seguintes:
 
@@ -446,11 +602,15 @@ e) No caso dos parques de campismo, a classificação, e ou a qualificação, co
 
 2 - Sempre que haja alteração de qualquer dos elementos constantes do alvará, a entidade exploradora do empreendimento deve, para efeitos de averbamento, comunicar o facto à câmara municipal no prazo de 30 dias a contar da data do mesmo, enviando cópia à Direcção-Geral do Turismo.
 
-###### Artigo 30.º — Modelo de alvará de licença ou autorização de utilização turística
+Artigo 30.º
+
+Modelo de alvará de licença ou autorização de utilização turística
 
 O modelo de alvará de licença ou de autorização de utilização turística é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ordenamento do território e do turismo.
 
-###### Artigo 31.º — Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
+Artigo 31.º
+
+Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
 
 1 - Se for requerida a alteração ao uso fixado em anterior licença ou autorização de utilização para permitir que o edifício ou sua fracção se destine à instalação de um dos empreendimentos referidos nas alíneas a) a c) do n.º 2 do artigo 1.º, ou quando se pretender utilizar total ou parcialmente edifícios que não possuam licença ou autorização de utilização para neles se proceder à instalação daqueles empreendimentos, a câmara municipal deve consultar a Direcção-Geral do Turismo, o Serviço Nacional de Bombeiros e as autoridades de saúde, aplicando-se aos pareceres destas entidades, com as necessárias adaptações, o disposto nos artigos 15.º, 16.º, 20.º e 22.º
 
@@ -460,7 +620,9 @@ O modelo de alvará de licença ou de autorização de utilização turística �
 
 4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização ou de alteração da utilização é o constante da alínea b) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
 
-###### Artigo 32.º — Caducidade da licença ou da autorização de utilização turística
+Artigo 32.º
+
+Caducidade da licença ou da autorização de utilização turística
 
 1 - A licença ou a autorização de utilização turística caduca:
 
@@ -478,13 +640,17 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 3 - A apreensão do alvará tem lugar na sequência de notificação ao respectivo titular, sendo em seguida encerrado o empreendimento.
 
-###### Artigo 33.º — Intimação judicial para a prática de acto legalmente devido
+Artigo 33.º
+
+Intimação judicial para a prática de acto legalmente devido
 
 1 - Decorridos os prazos para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, aplica-se aos empreendimentos turísticos, com as necessárias adaptações, o disposto nos artigos 111.º, 112.º e 113.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
 2 - As associações patronais do sector do turismo que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação previstos no número anterior.
 
-###### Artigo 34.º — Requerimento
+Artigo 34.º
+
+Requerimento
 
 1 - No prazo de dois meses a contar da data da emissão do alvará de licença ou de autorização de utilização turística ou da abertura do empreendimento nos termos no n.º 1 do artigo anterior, o interessado deve requerer à Direcção-Geral do Turismo a aprovação definitiva da classificação dos empreendimentos turísticos referidos nas alíneas a) e b) do n.º 2 do artigo 1.º
 
@@ -492,7 +658,9 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 3 - ...
 
-###### Artigo 36.º — Classificação
+Artigo 36.º
+
+Classificação
 
 1 - ...
 
@@ -500,7 +668,9 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 3 - A classificação e a capacidade máxima definitivas do empreendimento são averbadas ao alvará de licença ou de autorização de utilização turística, devendo para o efeito a Direcção-Geral do Turismo comunicar o facto à câmara municipal.
 
-###### Artigo 38.º — Revisão da classificação
+Artigo 38.º
+
+Revisão da classificação
 
 1 - ...
 
@@ -516,13 +686,17 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 7 - ...
 
-###### Artigo 42.º — Referência à classificação e à capacidade
+Artigo 42.º
+
+Referência à classificação e à capacidade
 
 1 - Em toda a publicidade, correspondência, documentação e, de um modo geral, em toda a actividade externa do empreendimento não podem ser sugeridas características que este não possua, sendo obrigatória a referência à classificação aprovada, sem prejuízo do disposto no número seguinte.
 
 2 - Nos anúncios ou reclamos instalados nos próprios empreendimentos pode constar apenas o seu nome.
 
-###### Artigo 43.º — Exploração de serviços de alojamento turístico
+Artigo 43.º
+
+Exploração de serviços de alojamento turístico
 
 1 - Com excepção das casas e empreendimentos de turismo no espaço rural, das casas de natureza, dos quartos particulares e dos estabelecimentos de hospedagem previstos no artigo 79.º, a exploração de serviços de alojamento turístico apenas é permitida em edifício ou parte de edifício que constitua ou integre um dos empreendimentos turísticos referidos no n.º 2 do artigo 1.º
 
@@ -534,7 +708,9 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 5 - As unidades de alojamento dos empreendimentos turísticos não se consideram retiradas da exploração de serviços de alojamento pelo facto de se encontrarem sujeitas ao regime do direito real de habitação periódica.
 
-###### Artigo 44.º — Exploração dos empreendimentos turísticos
+Artigo 44.º
+
+Exploração dos empreendimentos turísticos
 
 1 - A exploração de cada empreendimento turístico deve ser da responsabilidade de uma única entidade.
 
@@ -544,13 +720,17 @@ e) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou 
 
 4 - As unidades de alojamento que tiverem sido retiradas da exploração de um empreendimento turístico não podem ser objecto de outra exploração comercial, turística ou não.
 
-###### Artigo 45.º — Fracções imobiliárias
+Artigo 45.º
+
+Fracções imobiliárias
 
 1 - Para efeito do disposto no presente diploma, são consideradas fracções imobiliárias as partes componentes dos empreendimentos turísticos susceptíveis de constituírem unidades distintas e independentes, devidamente delimitadas, e que constituam ou se destinem à constituição de unidades de alojamento ou a instalações, equipamentos e serviços de exploração turística.
 
 2 - As unidades de alojamento dos empreendimentos turísticos só constituem fracções imobiliárias quando, nos termos da lei geral, sejam consideradas fracções autónomas ou como tal possam ser consideradas.
 
-###### Artigo 46.º — Relações entre proprietários
+Artigo 46.º
+
+Relações entre proprietários
 
 1 - Sem prejuízo do disposto no presente diploma e seus regulamentos, às relações entre os proprietários das várias fracções imobiliárias dos empreendimentos turísticos é aplicável o regime da propriedade horizontal, com as necessárias adaptações resultantes das características do empreendimento.
 
@@ -590,7 +770,9 @@ h) Os meios de resolução dos conflitos de interesses.
 
 11 - A falta da menção referida no número anterior no título de transmissão constitui fundamento de recusa do registo da mesma.
 
-###### Artigo 47.º — Despesas de conservação, fruição e funcionamento
+Artigo 47.º
+
+Despesas de conservação, fruição e funcionamento
 
 1 - Quando a totalidade das unidades de alojamento de um empreendimento turístico estiver integrada na sua exploração, ainda que aquelas pertençam a mais de uma pessoa, as despesas de conservação e de fruição de todas as instalações e equipamentos, incluindo as unidades de alojamento, bem como do funcionamento dos serviços de utilização turística de uso comum, são sempre da exclusiva responsabilidade da entidade exploradora, salvo o disposto no n.º 6 do artigo 49.º
 
@@ -604,7 +786,9 @@ h) Os meios de resolução dos conflitos de interesses.
 
 6 - À conservação e à fruição das infra-estruturas urbanísticas do empreendimento aplica-se o disposto nos n.os 1 e 2, consoante os casos, enquanto não forem recebidas pela câmara municipal.
 
-###### Artigo 48.º — Deveres do proprietário
+Artigo 48.º
+
+Deveres do proprietário
 
 1 - O proprietário de qualquer unidade de alojamento que constitua fracção imobiliária de um empreendimento turístico, esteja ou não integrada na sua exploração turística, fica obrigado a:
 
@@ -616,7 +800,9 @@ c) Não praticar quaisquer actos ou realizar obras que sejam susceptíveis de af
 
 2 - O proprietário fica ainda obrigado a efectuar a conservação da unidade de alojamento sempre que a mesma seja retirada da exploração turística do empreendimento e no caso previsto no n.º 6 do artigo seguinte.
 
-###### Artigo 49.º — Administração dos empreendimentos
+Artigo 49.º
+
+Administração dos empreendimentos
 
 1 - Nos empreendimentos turísticos em que a propriedade das várias fracções imobiliárias que o compõem pertencer a mais de uma pessoa, as funções que cabem ao administrador do condomínio, nos termos do regime da propriedade horizontal, são exercidas, sem limite de tempo, pela respectiva entidade exploradora, salvo o disposto no número seguinte.
 
@@ -630,7 +816,9 @@ c) Não praticar quaisquer actos ou realizar obras que sejam susceptíveis de af
 
 6 - Quando se verificar a situação prevista no n.º 2, os proprietários de fracções imobiliárias do empreendimento que tiverem votado favoravelmente a destituição da entidade exploradora das suas funções de administração passam a ser responsáveis pelas despesas de conservação e de fruição da sua fracção, ainda que, no caso de se tratar de uma unidade de alojamento, esta se mantenha integrada na exploração do empreendimento.
 
-###### Artigo 50.º — Acesso aos empreendimentos
+Artigo 50.º
+
+Acesso aos empreendimentos
 
 1 - É livre o acesso aos empreendimentos turísticos, salvo o disposto nos números seguintes.
 
@@ -658,11 +846,15 @@ b) A reserva temporária de parte ou da totalidade de empreendimentos turístico
 
 7 - Desde que devidamente publicitado, a entidade exploradora dos empreendimentos turísticos pode reservar para os utentes neles alojados e seus acompanhantes o acesso e a utilização dos serviços, equipamentos e instalações do empreendimento.
 
-###### Artigo 51.º — Período de funcionamento
+Artigo 51.º
+
+Período de funcionamento
 
 Os empreendimentos turísticos devem estar abertos ao público durante todo o ano, salvo se a entidade exploradora comunicar à Direcção-Geral do Turismo ou à câmara municipal, consoante os casos, até ao dia 1 de Outubro de cada ano, em que período encerrará o empreendimento no ano seguinte.
 
-###### Artigo 52.º — Estado das instalações e do equipamento
+Artigo 52.º
+
+Estado das instalações e do equipamento
 
 1 - As estruturas, as instalações e o equipamento dos empreendimentos turísticos devem funcionar em boas condições e ser mantidos em perfeito estado de conservação e higiene por forma a evitar que seja posta em perigo a saúde dos seus utentes.
 
@@ -670,25 +862,35 @@ Os empreendimentos turísticos devem estar abertos ao público durante todo o an
 
 3 - A Direcção-Geral do Turismo ou a câmara municipal, consoante os casos, pode determinar a reparação das deteriorações e avarias verificadas, fixando prazo para o efeito, consultando as autoridades de saúde quando estiverem em causa o cumprimento de requisitos de instalação e o funcionamento relativos à higiene e saúde pública.
 
-###### Artigo 53.º — Serviço
+Artigo 53.º
+
+Serviço
 
 1 - Nos empreendimentos turísticos deve ser prestado um serviço compatível com a respectiva classificação, nos termos previstos no regulamento a que se refere o n.º 3 do artigo 1.º
 
 2 - A entidade exploradora de um empreendimento turístico pode contratar com terceiros a prestação de serviços próprios do empreendimento, mantendo-se, porém, responsável pelo seu funcionamento, bem como pelo cumprimento dos requisitos exigidos para a respectiva classificação.
 
-###### Artigo 54.º — Responsável pelos empreendimentos
+Artigo 54.º
+
+Responsável pelos empreendimentos
 
 1 - Em todos os empreendimentos turísticos deve haver um responsável, nomeado pela respectiva entidade exploradora, a quem cabe zelar pelo seu funcionamento e nível de serviço, e ainda assegurar o cumprimento das disposições legais e regulamentares aplicáveis.
 
 2 - Para efeito do disposto no número anterior, a entidade exploradora deve comunicar à Direcção-Geral do Turismo o nome da pessoa ou das pessoas que asseguram permanentemente aquelas funções.
 
-###### Artigo 55.º — Sinais normalizados
+Artigo 55.º
+
+Sinais normalizados
 
 Nas informações de carácter geral relativas aos empreendimentos turísticos e aos serviços que neles são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo responsável pela área do turismo.
 
-### CAPÍTULO V — Conjuntos turísticos
+CAPÍTULO V
 
-###### Artigo 56.º — Conjuntos turísticos
+Conjuntos turísticos
+
+Artigo 56.º
+
+Conjuntos turísticos
 
 1 - A qualificação como conjunto turístico é atribuída pela Direcção-Geral do Turismo, nos termos a estabelecer no regulamento referido no n.º 3 do artigo 1.º, o qual definirá os requisitos das instalações, dos serviços, da exploração e da administração dos conjuntos turísticos e dos estabelecimentos que o integram.
 
@@ -696,13 +898,19 @@ Nas informações de carácter geral relativas aos empreendimentos turísticos e
 
 3 - Para efeito do disposto no número anterior, a câmara municipal deve comunicar à Direcção-Geral do Turismo a declaração de nulidade, de caducidade ou a anulação das licenças ou autorizações referentes aos estabelecimentos e empreendimentos que integram o conjunto turístico.
 
-### CAPÍTULO VI — Declaração de interesse para o turismo
+CAPÍTULO VI
+
+Declaração de interesse para o turismo
 
 ...
 
-### CAPÍTULO VII — Fiscalização e sanções
+CAPÍTULO VII
 
-###### Artigo 58.º — Competência de fiscalização
+Fiscalização e sanções
+
+Artigo 58.º
+
+Competência de fiscalização
 
 1 - ...
 
@@ -712,13 +920,17 @@ Nas informações de carácter geral relativas aos empreendimentos turísticos e
 
 4 - ...
 
-###### Artigo 59.º — Serviços de inspecção
+Artigo 59.º
+
+Serviços de inspecção
 
 1 - Aos funcionários da Direcção-Geral do Turismo, das câmaras municipais e, quando for caso disso, dos órgãos regionais ou locais de turismo em serviço de inspecção deve ser facultado o acesso aos empreendimentos turísticos e às instalações previstas nos n.º 2 e 3 do artigo 43.º, devendo ainda ser-lhes apresentados os documentos justificadamente solicitados.
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos e nas instalações previstas nos n.os 2 e 3 do artigo 43.º
 
-###### Artigo 61.º — Contra-ordenações
+Artigo 61.º
+
+Contra-ordenações
 
 1 - Para além das previstas no regulamento a que se refere o n.º 3 do artigo 1.º e das estabelecidas no artigo 98.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, constituem contra-ordenações:
 
@@ -794,7 +1006,9 @@ ff) A exploração ou a utilização de empreendimentos turísticos sem o projec
 
 8 - ...
 
-###### Artigo 62.º — Sanções acessórias
+Artigo 62.º
+
+Sanções acessórias
 
 1 - ...
 
@@ -806,7 +1020,9 @@ ff) A exploração ou a utilização de empreendimentos turísticos sem o projec
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 64.º — Competência sancionatória
+Artigo 64.º
+
+Competência sancionatória
 
 A aplicação das coimas e das sanções acessórias previstas no presente diploma e no regulamento a que se refere o n.º 3 do artigo 1.º compete:
 
@@ -814,13 +1030,19 @@ a) ...
 
 b) Às câmaras municipais, relativamente aos parques de campismo.
 
-###### Artigo 67.º — Interdição de utilização
+Artigo 67.º
+
+Interdição de utilização
 
 O director-geral do Turismo é competente para determinar a interdição temporária do funcionamento dos empreendimentos turísticos, na sua totalidade, ou de partes individualizadas, instalações ou equipamentos, sem prejuízo das competências atribuídas às autoridades de saúde pelo [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, nessa matéria, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e nos seus regulamentos, quando as mesmas forem susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes.
 
-### CAPÍTULO VIII — Disposições finais e transitórias
+CAPÍTULO VIII
 
-###### Artigo 71.º — Alvará de licença ou de autorização de utilização turística para empreendimentos turísticos existentes
+Disposições finais e transitórias
+
+Artigo 71.º
+
+Alvará de licença ou de autorização de utilização turística para empreendimentos turísticos existentes
 
 1 - O alvará de licença ou de autorização de utilização turística, emitido na sequência das obras de ampliação, reconstrução ou alteração a realizar em empreendimentos turísticos existentes e em funcionamento à data da entrada em vigor do presente diploma, respeita a todo o empreendimento turístico, incluindo as partes não abrangidas pelas obras.
 
@@ -828,13 +1050,17 @@ O director-geral do Turismo é competente para determinar a interdição tempor�
 
 3 - Ao requerimento previsto no número anterior aplica-se, com as necessárias adaptações, o regime previsto nos artigos 34.º a 37.º
 
-###### Artigo 72.º — Autorização de abertura
+Artigo 72.º
+
+Autorização de abertura
 
 1 - A autorização de abertura dos empreendimentos turísticos existentes à data da entrada em vigor do presente diploma, concedida pela Direcção-Geral do Turismo ou pelas câmaras municipais nos termos do artigo 36.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, ou de legislação anterior, mantém-se válida, só sendo substituída pelo alvará de licença ou de autorização de utilização turística na sequência das obras de ampliação, reconstrução ou alteração.
 
 2 - ...
 
-###### Artigo 74.º — Processos pendentes respeitantes à autorização de abertura de empreendimentos turísticos
+Artigo 74.º
+
+Processos pendentes respeitantes à autorização de abertura de empreendimentos turísticos
 
 1 - ...
 
@@ -844,7 +1070,9 @@ O director-geral do Turismo é competente para determinar a interdição tempor�
 
 4 - No caso dos empreendimentos turísticos que estiverem em construção à data da entrada em vigor do presente diploma, o início do seu funcionamento depende da titularidade do alvará de licença ou de autorização de utilização turística a emitir nos termos nele previstos, sendo a respectiva classificação regulada pelo regime constante do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, com as alterações que lhe foram introduzidas, e respectivos regulamentos.
 
-###### Artigo 76.º — Satisfação dos requisitos
+Artigo 76.º
+
+Satisfação dos requisitos
 
 Os empreendimentos turísticos licenciados ou autorizados e classificados nos termos do disposto nos artigos 73.º a 75.º devem satisfazer os requisitos previstos para a respectiva categoria, de acordo com o presente diploma e o regulamento a que se refere o n.º 3 do artigo 1.º, no prazo de dois anos a contar da data da emissão do respectivo alvará de licença ou de autorização de utilização turística ou da autorização de abertura.»
 
@@ -896,17 +1124,19 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva.
 
-**Promulgado em 14 de Fevereiro de 2002.**
+Promulgado em 14 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Âmbito
 
@@ -1648,7 +1878,9 @@ c) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos e nas instalações previstas nos n.os 2 e 3 do artigo 43.º
 
-###### Artigo 60.º — Livro de reclamações
+###### Artigo 60.º
+
+## Livro de reclamações
 
 1 - Em todos os empreendimentos turísticos deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/1995/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1995-668291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cff1f28858b46fa39f1072f9271f5ed16cd8f66f6ef032cc11d77c452e34cd49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e4b21972a5dae7d6235f03c5c21c074ef16170150442cc430542cc329d3ac9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime Florestal
-- Vinho
-- Ordenamento do Território
+- Bragança
 - CAÇA
 - Dação em Cumprimento
-- Reserva Agrícola Nacional
-- Etiquetagem
-- Lisboa
-- Instituto da Vinha e do Vinho
 - Embalagem
+- Etiquetagem
+- Instituto da Vinha e do Vinho
+- Lisboa
+- Ordenamento do Território
 - Parque Florestal de Monsanto
 - Política de Solos
 - Prédio Rústico
+- Regime Florestal
 - Regime Jurídico
-- Bragança
+- Reserva Agrícola Nacional
 - Taxa
 - Venda
+- Vinho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/1995/06/14/p/dre
@@ -95,16 +95,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/45/1991/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/45/1991/01/24/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:20Z'
   warnings: []
   errors: []
 ---
@@ -123,27 +155,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Ficam sujeitos, nos termos do disposto nos artigos 19.º, 20.º e 24.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, ao regime cinegético especial, por tempo indeterminado, os prédios rústicos englobados pela poligonal descrita na planta constante do anexo I ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Aveleda, Deilão, Rio de Onor, São Julião, Babe e Quintanilha, do município de Bragança, com uma área total de 20830 ha.
+Artigo 1.º - 1 - Ficam sujeitos, nos termos do disposto nos artigos 19.º, 20.º e 24.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, ao regime cinegético especial, por tempo indeterminado, os prédios rústicos englobados pela poligonal descrita na planta constante do anexo I ao presente diploma, que dele faz parte integrante, sitos nas freguesias de Aveleda, Deilão, Rio de Onor, São Julião, Babe e Quintanilha, do município de Bragança, com uma área total de 20830 ha.
 
 2 - O ordenamento e a exploração cinegéticos serão feitos de acordo com o disposto no [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro.
 
 3 - A zona de caça será obrigatoriamente sinalizada com tabuletas do modelo n.º 1 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho, no prazo de 15 dias após a entrada em vigor do presente diploma.
 
-###### Art. 2.º O artigo 12.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 12.º do [Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - Sem prejuízo das preferências estabelecidas no Código Civil e em legislação complementar, os proprietários de prédios rústicos incluídos numa área da RAN gozam do direito de preferência na venda ou dação em cumprimento de prédios rústicos sitos na mesma área.
+Art. 12.º - 1 - Sem prejuízo das preferências estabelecidas no Código Civil e em legislação complementar, os proprietários de prédios rústicos incluídos numa área da RAN gozam do direito de preferência na venda ou dação em cumprimento de prédios rústicos sitos na mesma área.
 
 2 - ...
 
 3 - ...
 
-###### Art. 3.º - 1 - É aditado ao [Decreto-Lei n.º 137/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1995-518656), de 14 de Junho, o artigo 12.º, com a seguinte redacção:
+Art. 3.º - 1 - É aditado ao [Decreto-Lei n.º 137/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1995-518656), de 14 de Junho, o artigo 12.º, com a seguinte redacção:
 
-###### Art. 12.º O presente diploma, com excepção do seu artigo 6.º, entra em vigor conjuntamente com a regulamentação prevista naquele artigo.
+Art. 12.º O presente diploma, com excepção do seu artigo 6.º, entra em vigor conjuntamente com a regulamentação prevista naquele artigo.
 
 2 - O artigo 3.º do [Decreto-Lei n.º 137/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1995-518656), de 14 de Junho, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) O acto de fornecimento de selos emitidos pelo IVV, no caso de o produto ser embalado em recipientes com uma capacidade inferior a 60 L, rotulados e munidos de dispositivo de fecho não recuperável;
 
@@ -157,22 +189,22 @@ c) ...
 
 4 - ...
 
-###### Art. 4.º É excluída do âmbito do [Decreto-Lei n.º 29135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29135-1938-349496), de 16 de Novembro de 1938, uma parcela de terreno pertencente ao município de Lisboa com a área de 18378,20 m2, conforme demarcação na planta constante do anexo II ao presente diploma, que dele faz parte integrante, a qual fica destinada à construção de um estabelecimento de ensino.
+Art. 4.º É excluída do âmbito do [Decreto-Lei n.º 29135](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29135-1938-349496), de 16 de Novembro de 1938, uma parcela de terreno pertencente ao município de Lisboa com a área de 18378,20 m2, conforme demarcação na planta constante do anexo II ao presente diploma, que dele faz parte integrante, a qual fica destinada à construção de um estabelecimento de ensino.
 
-###### Art. 5.º É revogado o [Decreto-Lei n.º 45/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1991-507811), de 24 de Janeiro.
+Art. 5.º É revogado o [Decreto-Lei n.º 45/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1991-507811), de 24 de Janeiro.
 
 Visto e aprovado em Conselho de Ministros, de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - António Duarte Silva.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Outubro de 1995.**
+Referendado em 18 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf))](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/247a00/66196621.pdf)

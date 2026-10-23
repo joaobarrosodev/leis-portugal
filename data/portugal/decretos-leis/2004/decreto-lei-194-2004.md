@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2004/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2004-480918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b780035d1226b9c05663747656f523da6772a2ff262802a991e2bcadcc116c10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2c26c248fb788a9fcedc32bd9373cdd86dff06f5f2269ea7166c89d1a4d046c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Cessação de Actividade
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Instituto Superior de Humanidades e Tecnologias
 - Instituto Superior de Matemática e Gestão
 - Instituto Superior Manuel Teixeira Gomes
 - Interesse Público
 - Portimão
-- Estabelecimento de Ensino
-- Ensino Superior
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:55Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +174,12 @@ O estabelecimento de ensino é autorizado a funcionar no concelho de Portimão.
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2004. - José Manuel Durão Barroso - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

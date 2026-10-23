@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1981-574300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82bf2d022e93ed0f5941fd2d876230c673bdb01c577b8b1e12b64e4db8a70f38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9efea73e770f6d90376ddc3fef3ad9c2ec5e6b9e6122ded8cd3b56c3e1bf220f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Naval
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:170142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345904:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:46:42Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +103,7 @@ Tornando-se necessário alterar algumas disposições do Regulamento da Escola N
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, que os n.os 3, 4, 5, 6, 7, 8 e 9 do artigo 70.º, os n.os 2 e 3 do artigo 71.º e o artigo 72.º do Regulamento da Escola Naval tomem a seguinte redacção:
 
-###### Art. 70.º - 1 - ...
+Art. 70.º - 1 - ...
 
 2 - ...
 
@@ -127,7 +141,7 @@ Procedimento análogo poderá ser seguido em relação a personalidades civis li
 
 9 - Os professores referidos no número anterior poderão ser entidades civis ou militares dos quadros permanentes ou de complemento habilitadas com curso superior e de comprovada competência nas matérias das respectivas cadeiras, sendo o modo de admissão determinado, caso a caso, por despacho do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 71.º - 1 - ...
+Art. 71.º - 1 - ...
 
 2 - A admissão dos professores a que se refere o número anterior é feita:
 
@@ -141,6 +155,6 @@ a) Na falta de concorrentes aos concursos mencionados na alínea a) do mesmo nú
 
 b) Sempre que tal se revele conveniente, em regime de acumulação, por escolha do Chefe do Estado-Maior da Armada, sob proposta do comandante da Escola Naval.
 
-###### Art. 72.º Só podem ser admitidos ao concurso para professores das cadeiras de natureza técnico-naval oficiais com os postos de capitão-de-fragata, capitão-tenente e primeiro-tenente.
+Art. 72.º Só podem ser admitidos ao concurso para professores das cadeiras de natureza técnico-naval oficiais com os postos de capitão-de-fragata, capitão-tenente e primeiro-tenente.
 
 Estado-Maior da Armada, 12 de Maio de 1981. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

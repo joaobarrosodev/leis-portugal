@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22492-1967-500770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f6ebc92942a7f34dee6ef540df356f74c8505a08946bca63a9ee7f3a342889d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b879ed2dcbd7dbff5dabaea65605d88fc3b1d8c59707457aba7d304623abab96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:44Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, que, pela verba do n.º 4) do artigo 22.º, capítulo 3.º, do orçamento em vigor, sejam abonadas às embaixadas de Portugal abaixo indicadas, durante o ano económico de 1967, as importâncias mensais a seguir mencionadas, a fim de ocorrerem ao pagamento de salários ao pessoal assalariado em serviço nas mesmas embaixadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/02400/01380141.pdf))](https://files.diariodarepublica.pt/1s/1967/01/02400/01380141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/02400/01380141.pdf)
 
 Ministério dos Negócios Estrangeiros, 28 de Janeiro de 1967. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
 

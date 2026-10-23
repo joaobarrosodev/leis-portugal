@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/259a00/59815982.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/347/1998/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1998-223422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbc50a75e94c2d41191bb5f1e2b0d69dd121e358ce0506abbbd4269ba19c90b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7736bfdb30b0987ded8760c1c2190f228c53be51a3add9ce963f12c5e4a4ae0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção da Maternidade
 - Maternidade
-- Proteção ao Deficiente
 - Prestações da Segurança Social
+- Proteção ao Deficiente
+- Protecção da Maternidade
 - Regime Geral da Segurança Social
 - Segurança Social
 - Subsídio de Adopção
@@ -84,6 +84,28 @@ relationships:
   target: pt:dre:603961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275867:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 5.º, 20.º e 22.º, aditados os arts. 12.º-C e 12.º-D e revogado o art. 22.º-A do\
+    \ Dec Lei 154/88, de 29-Abr DR.IS [99], com as alterações do Dec Lei 333/95, de 23-Dez DR.IS-A [295] e do presente diploma,\
+    \ pelo DEC LEI.77/2000.2000.05.09.MTS DR.IS-A [107]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2000-275867
+  date: '2000-05-09'
+- type: amended_by
+  target: pt:dre:386845:por
+  label: "Determinado, que o certificado de incapacidade temporária para o trabalho por estado de doença (CIT) que ateste\
+    \ o período de incapacidade temporária para o trabalho para prestar assistência a descendentes dos beneficiários ou equiparados\
+    \ substitui o requerimento para atribuição do subsídio para assistência na doença a descendentes menores ou deficientes,\
+    \ previsto no artigo 19.º do Decreto-Lei n.º 154/88, de 29 de Abril, com a redacção que lhe foi dada pelo presente diploma,\
+    \ pela PORT.24/2008.10.01.2008.MTSSO, DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2008-386845
+  date: '2008-01-10'
+- type: amended_by
+  target: pt:dre:456212:por
+  label: "Alterado, a partir de 01.08.2008, o 19º do Dec Lei 154/88, de 29-Abr, na redacção do presente diploma, pelo DEC\
+    \ LEI.105/2008.25.06.2008.MTSSO, DR.IS [121] de 25.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2008-456212
+  date: '2008-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/333/1995/12/23/p/dre
   label: null
@@ -96,16 +118,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
+- type: cites
+  target: pt:dre:285482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603961:por
+  label: "Revogado, a partir de 01.05.2009, o Dec Lei 154/88, de 29-Abr, na redacção do presente diploma, pelo DEC LEI.91/2009.09.04.2009.MTSSO,\
+    \ DR.IS [70] de 09.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2009-603961
+  date: '2009-04-09'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:12Z'
   warnings: []
   errors: []
 ---
@@ -136,23 +188,31 @@ Protecção na maternidade
 
 2 - Os beneficiários do regime de segurança social dos trabalhadores independentes têm igualmente direito ao esquema de prestações previsto no presente diploma, com excepção do subsídio para assistência a descendentes doentes e do subsídio para assistência a deficientes profundos e doentes crónicos, regulados no âmbito do presente diploma.
 
-###### Artigo 2.º — Caracterização das eventualidades
+Artigo 2.º
+
+Caracterização das eventualidades
 
 1 - A protecção social estabelecida neste diploma abrange as situações respeitantes à saúde e à segurança no trabalho das beneficiárias grávidas, puérperas e lactantes, bem como as situações de incapacidade ou de indisponibilidade para o exercício da actividade profissional por motivo de maternidade, paternidade e acompanhamento de menores adoptados e, ainda, por motivo de assistência na doença a filhos do beneficiário ou do cônjuge e a adoptados, menores ou deficientes, bem como de assistência a deficientes profundos e doentes crónicos.
 
 2 - Para efeitos deste diploma, a caracterização de deficiência profunda e de doença crónica é objecto de despacho conjunto dos Ministros da Saúde e do Trabalho e da Solidariedade.
 
-###### Artigo 3.º — Modalidades das prestações
+Artigo 3.º
+
+Modalidades das prestações
 
 A protecção social efectiva-se mediante a atribuição de prestações pecuniárias, designadas subsídios de maternidade, de paternidade, por adopção e para assistência na doença a descendentes menores ou deficientes e subsídio para assistência a deficientes profundos e doentes crónicos.
 
-###### Artigo 7.º — Condições especiais de atribuição dos subsídios para assistência a filhos doentes e a deficientes profundos e doentes crónicos
+Artigo 7.º
+
+Condições especiais de atribuição dos subsídios para assistência a filhos doentes e a deficientes profundos e doentes crónicos
 
 1 - A atribuição do subsídio para assistência na doença a filhos do beneficiário ou do cônjuge ou adoptados, com idade inferior a 10 anos ou deficientes, depende de estes se integrarem no agregado familiar do beneficiário e que com ele residam.
 
 2 - A atribuição do subsídio para assistência a deficientes profundos e doentes crónicos, com idade igual ou inferior a 12 anos, depende igualmente de estes se integrarem no agregado familiar do beneficiário e que com ele residam.
 
-###### Artigo 19.º — Requerimento das prestações
+Artigo 19.º
+
+Requerimento das prestações
 
 As prestações devem ser requeridas pelos beneficiários dentro do prazo de seis meses a contar do facto determinante da protecção.»
 
@@ -166,18 +226,20 @@ Montante do subsídio para assistência a deficientes profundos e doentes cróni
 
 O montante diário do subsídio para assistência a deficientes profundos e doentes crónicos corresponde a 65% da remuneração de referência do beneficiário, tendo como limite máximo a remuneração mínima mensal garantida mais elevada.
 
-###### Artigo 15.º-B — Período de concessão do subsídio para assistência a deficientes profundos e doentes crónicos
+Artigo 15.º-B
+
+Período de concessão do subsídio para assistência a deficientes profundos e doentes crónicos
 
 O subsídio para assistência a deficientes profundos e doentes crónicos é concedido pelo período da duração da licença especial a que se refere o artigo 14.º-A da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, introduzido pela [Lei n.º 102/97](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), de 13 de Setembro.»
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 26 de Outubro de 1998.**
+Promulgado em 26 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 1998.**
+Referendado em 28 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

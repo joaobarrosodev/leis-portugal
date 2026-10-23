@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/705-1984-399221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfa003b84e4bada3a1ac80fe6c60b6302624d3df71375c4f0ec12d296430f230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 878d1d7781c46287680c8074f0f8b928ba9bf1d3a7aec7fdbc5f42aa108e6728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Direcção Geral de Energia
+- Equipamento Eléctrico
+- Segurança dos Edifícios
+relationships:
+- type: amended_by
+  target: pt:dre:274252:por
+  label: "ALTERADOS OS NUMEROS 4 E 13 PELA PORTARIA 483/93, PUBLICADO NO DR.IS-B, 106, DE 930507.\0507.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1993-274252
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:12Z'
   warnings: []
   errors: []
 ---
@@ -131,9 +143,9 @@ b) 2 professores do ensino secundário, um do 2.º grupo B e outro do 12.º grup
 
 Ministérios da Educação e da Indústria e Energia.
 
-**Assinada em 26 de Julho de 1984.**
+Assinada em 26 de Julho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra. - O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro da Educação, José Augusto Seabra. - O Ministro da Indústria e Energia, José Veiga Simão.
 
 ## ANEXO - QUADRO I — Matérias das provas de avaliação
 

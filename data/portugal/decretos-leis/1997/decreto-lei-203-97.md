@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/182a00/40924094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/203/1997/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1997-204239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb6e8b211c48c87a4818abe6687377c494d6c9ee9a33b624aa6b75a4fdd1f29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07dd78400fcfb772dd6b74caf9f0612c7285af267d747bc182390fdfcadc7b79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Combustível
 - Concurso Público
 - Contrato de Concessão
-- Combustível
 - Serviço Público
 relationships:
 - type: amended_by
@@ -87,16 +87,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/33/1991/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/1991/01/16/p/dre
+- type: cites
+  target: pt:dre:217371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539238:por
+  label: "Revogado pelo DEC LEI.140/2006.26.07.2006.MEI, DR.IS [143] de 26.07.2006, sem prejuízo do disposto no nº 1 do art.\
+    \ 71º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2006-539238
+  date: '2006-07-26'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:00Z'
   warnings: []
   errors: []
 ---
@@ -181,12 +203,12 @@ A base XXI do anexo I ao [Decreto-Lei n.º 33/91](https://diariodarepublica.pt/d
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 23 de Julho de 1997.**
+Promulgado em 23 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1997.**
+Referendado em 28 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/1998/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1998-478431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6343308ca8fe8d7a3c6b9d2cb438457ea753b85311ecf950683d725691e5e72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda13520d22af7fc03ddfd70ee57d2713aeea46550aee80d8242406e697f145c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,81 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do IRC
-- Instituto de Gestão do Crédito Público
 - Dívida Pública
-- Isenção Fiscal
+- Instituto de Gestão do Crédito Público
 - IRC
+- Isenção Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 8º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 8.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/3/1998/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/1998/01/12/p/dre
+- type: cites
+  target: pt:dre:222979:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:43Z'
   warnings: []
   errors: []
 ---
@@ -126,12 +178,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 9 de Junho de 1998.**
+Promulgado em 9 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Junho de 1998.**
+Referendado em 17 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

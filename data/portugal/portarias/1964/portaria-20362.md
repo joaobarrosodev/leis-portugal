@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20362-1964-469641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9cbdefa539bb1434624530ddd6f87537917ed13e2b8c185c1a0cb84b81f3e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c999542f3dc731282ccaed3f4fa7e12553b2c01aae1341ebceffb8b20f46382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342473:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:20Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 1.º As designações e a localização do centro de recrutamento da 1.ª região aérea e das unidades referidas nos artigos 32.º, 33.º, 34.º, 35.º, 36.º e 38.º do [Decreto-Lei n.º 44724](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44724-1962-155472), de 24 de Novembro de 1962, são as seguintes, no que respeita à metrópole:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/03100/02570258.pdf))](https://files.diariodarepublica.pt/1s/1964/02/03100/02570258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/03100/02570258.pdf)
 
 2.º São revogadas as Portarias n.os 16993, de 12 de Janeiro de 1959, 19686, de 6 de Fevereiro de 1963, 20183, de 22 de Novembro de 1963.
 

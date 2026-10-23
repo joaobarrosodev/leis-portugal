@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16400/0005500059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2019/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df6c802e13b935b778f8f5d3f9cfe72710fc550ec1a08b26eb8d60cf9c9f73fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41804ee2425b1ffd46d78a3f2b41483078ca66751eddc4288a333125480e612
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Financiamento
+- Bolsa de Estudos
 - Bolsa de Formação
 - Bolseiro
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
-- Definição de Competências
 - Código do Trabalho
-- Doutoramento
-- Estatuto
-- Fiscalização
 - Conselho Diretivo
-- Incompatibilidades
-- Lei Geral do Trabalho em Funções Públicas
 - Contrato de Trabalho
-- Regulamento
+- Definição de Competências
+- Doutoramento
 - Ensino Superior
-- Bolsa de Estudos
+- Estatuto
+- Financiamento
+- Fiscalização
+- Fundação para a Ciência e a Tecnologia
+- Incompatibilidades
+- Investigação Científica e Tecnológica
+- Investigador
+- Lei Geral do Trabalho em Funções Públicas
+- Regulamento
 - Remuneração
 - Subsídio
 relationships:
@@ -122,16 +122,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216371:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:59Z'
   warnings: []
   errors: []
 ---
@@ -204,13 +240,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - João Alberto Sobrinho Teixeira.
 
-**Promulgado em 29 de julho de 2019.**
+Promulgado em 29 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2019.**
+Referendado em 30 de julho de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -230,7 +266,9 @@ Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Est
 
 5 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -252,7 +290,9 @@ d) O bolseiro não exceda, com a celebração do contrato de bolsa em causa, um 
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -262,7 +302,9 @@ d) O bolseiro não exceda, com a celebração do contrato de bolsa em causa, um 
 
 4 - Terminado o contrato relativo às bolsas referidas na alínea b) do n.º 1 do artigo anterior, não pode ser celebrado novo contrato de bolsa entre a mesma entidade de acolhimento e o mesmo bolseiro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -272,7 +314,9 @@ d) O bolseiro não exceda, com a celebração do contrato de bolsa em causa, um 
 
 4 - Considera-se, ainda, compatível com o regime de dedicação exclusiva a realização de atividades externas à entidade de acolhimento, mesmo que remuneradas, desde que diretamente relacionadas com o plano de atividades subjacente à bolsa ou desempenhadas sem caráter de permanência, não prejudicando a execução do referido programa de trabalhos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +354,9 @@ k) [Anterior alínea j).]
 
 7 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -323,3 +369,5 @@ k) [Anterior alínea j).]
 5 - [...].
 
 6 - A decisão de aplicação das sanções a que se referem os n.os 1 e 2 compete ao conselho diretivo da Fundação para a Ciência e a Tecnologia, I. P., ouvido o provedor do bolseiro.»
+
+112540828

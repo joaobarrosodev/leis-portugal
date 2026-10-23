@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20500/0793307941.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/2009/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2009-483170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a191515c9eab56215372ed340ab4a4434139bba885accb04d6b031ad1c42c9bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1032f469d12635fa325b9db80cbb25948e960253de3cc323966aa66809892179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Estabelecimento Psiquiátrico
-- Doença Mental
-- Instituto da Droga e da Toxicodependência
-- Coordenador Nacional
-- Conselho Nacional de Saúde Mental
-- Serviço Nacional de Saúde
 - Administração Central do Sistema de Saúde
 - ALTO Comissariado da Saúde
-- Saúde Mental
+- Conselho Nacional de Saúde Mental
+- Coordenador Nacional
 - Cuidados Médicos
+- Doença Mental
 - Estabelecimento Hospitalar
+- Estabelecimento Psiquiátrico
+- Instituto da Droga e da Toxicodependência
+- Instituto do Emprego e Formação Profissional
+- Saúde Mental
 - Serviço Local de Saúde Mental
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:280268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280268:por
+  label: "Alterado, a partir de 01.03.2011, o art. 3º do Dec Lei 35/99, de 05-Fev , na redacção e republicado pelo presente\
+    \ diploma, pelo DEC LEI.22/2011.10.02.2011.MS, DR.IS [29] de 10.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2011-280268
+  date: '2011-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -108,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2008/03/06/p/dre
+- type: cites
+  target: pt:dre:169001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 45
+  article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:09Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +182,9 @@ Os artigos 1.º a 13.º e 15.º a 18.º do [Decreto-Lei n.º 35/99](https://diar
 
 O presente decreto-lei estabelece os princípios orientadores da organização, gestão e avaliação dos serviços de saúde mental.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -166,7 +198,9 @@ O presente decreto-lei estabelece os princípios orientadores da organização, 
 
 6 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O Conselho Nacional de Saúde Mental é o órgão consultivo em matéria de saúde mental, ao qual compete emitir pareceres e apresentar propostas e recomendações, a pedido do membro do Governo responsável pela área da saúde ou por sua iniciativa, designadamente sobre:
 
@@ -216,7 +250,9 @@ q) Um representante designado pelo Instituto Nacional para a Reabilitação, I. 
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +260,9 @@ q) Um representante designado pelo Instituto Nacional para a Reabilitação, I. 
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A regulamentação, orientação e inspecção da prestação de cuidados de saúde mental, bem como a fiscalização de unidades privadas, competem à Direcção-Geral da Saúde e à Inspecção-Geral das Actividades em Saúde, nos termos da lei.
 
@@ -232,13 +270,17 @@ q) Um representante designado pelo Instituto Nacional para a Reabilitação, I. 
 
 3 - Os gabinetes de apoio técnico são coordenados por um profissional da área da saúde mental, adiante designado por coordenador regional, a nomear pelo conselho directivo da respectiva administração regional de saúde, ouvido o coordenador nacional da Saúde Mental.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - Os serviços locais são a base do sistema nacional de saúde mental, devendo funcionar de forma integrada e em estreita articulação com os cuidados de saúde primários e demais serviços e estabelecimentos de saúde, para garantia da unidade e continuidade da prestação de cuidados e da promoção da saúde mental.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Têm âmbito regional os serviços de saúde mental que, pelo elevado grau de especialização das respectivas valências ou pela racionalidade de distribuição de recursos, não seja possível ou justificável dispor a nível local, nos termos do Plano Nacional de Saúde Mental.
 
@@ -246,7 +288,9 @@ q) Um representante designado pelo Instituto Nacional para a Reabilitação, I. 
 
 3 - A criação, alteração ou extinção de serviços regionais de saúde mental, bem como a definição da respectiva área geográfica e sede, fazem-se por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +326,9 @@ n) Um técnico com experiência e perfil adequados para a administração em sa�
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Cada conselho regional de saúde mental rege-se por um regulamento interno por ele elaborado e aprovado pelo conselho directivo da administração regional de saúde territorialmente competente, podendo funcionar por secções, correspondentes a áreas específicas de intervenção.
 
@@ -290,7 +336,9 @@ n) Um técnico com experiência e perfil adequados para a administração em sa�
 
 3 - ...
 
-###### Artigo 10.º — Serviços locais de saúde mental
+Artigo 10.º
+
+Serviços locais de saúde mental
 
 1 - Aos serviços locais de saúde mental compete assegurar a prestação de cuidados globais essenciais de saúde mental, quer a nível ambulatório quer de internamento, à população de uma área geográfica determinada, através de uma rede de programas e serviços que assegurem a continuidade de cuidados.
 
@@ -312,7 +360,9 @@ e) ...
 
 5 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os serviços locais de saúde mental organizam-se sob a forma de departamento ou de serviço de hospital geral, de acordo com a respectiva área de influência definida no Plano Nacional de Saúde Mental, devendo constituir centros de responsabilidade, dotados de orçamentos programa próprios, nos termos da lei.
 
@@ -320,7 +370,9 @@ e) ...
 
 3 - Os cuidados de saúde mental da criança e do adolescente são assegurados através de equipas multiprofissionais específicas, organizadas sob a forma de serviço ou de unidade funcional, de acordo com a dimensão da população alvo, e sob a responsabilidade de um psiquiatra da infância e da adolescência.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +382,9 @@ e) ...
 
 4 - O coordenador dos serviços locais de saúde mental deve ser coadjuvado por um enfermeiro com a especialidade de saúde mental e psiquiátrica e por um administrador hospitalar, designados, sob sua proposta, pelo conselho de administração do hospital.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -360,11 +414,15 @@ l) ...
 
 3 - O coordenador pode delegar e subdelegar competências no enfermeiro e no administrador referidos no n.º 4 do artigo 12.º, bem como nos responsáveis pelas áreas funcionais dos serviços locais de saúde mental.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 A criação, alteração ou extinção dos serviços locais de saúde mental, bem como a definição da respectiva forma de organização e da área geográfica abrangida, fazem-se, de acordo com o Plano Nacional de Saúde Mental, por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 16.º — Atribuições dos hospitais e centros hospitalares psiquiátricos
+Artigo 16.º
+
+Atribuições dos hospitais e centros hospitalares psiquiátricos
 
 1 - ...
 
@@ -372,13 +430,17 @@ A criação, alteração ou extinção dos serviços locais de saúde mental, be
 
 3 - Os conselhos de administração destes estabelecimentos devem colaborar com as respectivas administrações regionais de saúde na criação dos serviços locais referidos na alínea a) do n.º 1, através da disponibilização dos recursos que se revelem necessários à sua implementação.
 
-###### Artigo 17.º — Serviços regionais de saúde mental da infância e da adolescência
+Artigo 17.º
+
+Serviços regionais de saúde mental da infância e da adolescência
 
 1 - Sem prejuízo do disposto no artigo 7.º e da reestruturação da rede hospitalar, consideram-se serviços regionais os departamentos ou serviços de saúde mental da infância e da adolescência dos Centros Hospitalares de Lisboa Central, de Coimbra e do Porto, aos quais compete garantir, para além das valências especializadas de âmbito regional, os cuidados de saúde mental à população de crianças e jovens das áreas geodemográficas em que eles não estão disponíveis e enquanto tal se verificar.
 
 2 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - No prazo máximo de seis meses contados da data da entrada em vigor do presente decreto-lei, o ACS/CNSM e as administrações regionais de saúde devem submeter ao membro do Governo responsável pela área da saúde uma proposta conjunta de medidas que garantam a efectiva articulação funcional e a integração progressiva da prestação de cuidados de saúde mental com os estabelecimentos e serviços do Serviço Nacional de Saúde.
 
@@ -398,7 +460,9 @@ São aditados ao [Decreto-Lei n.º 35/99](https://diariodarepublica.pt/dr/detalh
 
 O disposto no presente decreto-lei aplica-se a todas as instituições do Serviço Nacional de Saúde, incluindo as que, no todo ou em parte, sejam geridas por outras entidades, públicas ou privadas, mediante contrato de gestão ou, em regime de convenção, por grupos de profissionais, nos termos do Estatuto do Serviço Nacional de Saúde, aprovado pelo [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro, e de acordo com o disposto no [Decreto-Lei n.º 185/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2002-171692), de 20 de Agosto, no respeito pelos princípios gerais da Lei de Saúde Mental.
 
-###### Artigo 18.º-A — Articulação intersectorial
+Artigo 18.º-A
+
+Articulação intersectorial
 
 A integração profissional das pessoas portadoras de doença mental grave, prevista no n.º 4 do artigo 10.º, obedece aos princípios definidos pelos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social e da saúde, por portaria que regulamente a cooperação nas áreas do emprego e formação profissional.»
 
@@ -412,15 +476,15 @@ São revogados os n.os 5 do artigo 10.º e 2 dos artigos 11.º e 17.º do [Decre
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge.
 
-**Promulgado em 15 de Outubro de 2009.**
+Promulgado em 15 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Outubro de 2009.**
+Referendado em 16 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 35/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1999-169001), de 5 de Fevereiro
 

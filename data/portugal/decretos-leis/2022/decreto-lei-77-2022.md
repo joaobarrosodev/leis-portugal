@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2022/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b46e73c12d8505ffbbe7c6172f9eb8bc789df0b35714b0e7b5555b2b1e4ad5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ea6ee95d93872d234098275f38ab01a976a79589d82362f73ea9cb645cbef01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distinção Honorífica
 - Definição de Competências
+- Distinção Honorífica
 - Forças Armadas
-- Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 - Militar
+- Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:906543085:por
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/2002/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/2002/12/27/p/dre
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:01Z'
   warnings: []
   errors: []
 ---
@@ -127,15 +131,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de outubro de 2022. - António Luís Santos da Costa - Marco Alexandre da Silva Capitão Costa Ferreira - Jorge Albino Alves Costa - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 26 de outubro de 2022.**
+Promulgado em 26 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de outubro de 2022.**
+Referendado em 28 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -157,7 +161,9 @@ e) A medalha de mérito aeronáutico, concedida pelo Chefe do Estado-Maior da Fo
 
 2 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 [...]
 
@@ -243,11 +249,11 @@ ii) 3.ª classe: Na fita de suspensão, ao centro, trifólio em ouro, e com o di
 
 iii) 4.ª classe: Sem nenhuma peça a carregar a fita de suspensão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-A - Insígnia para o peito - Anverso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-B - Insígnia para o peito - Reverso
 
@@ -259,7 +265,7 @@ Passadeira espalmada cinzelada e canevão: dourados;
 
 Pendente: igual ao da insígnia para o peito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-C - Insígnia para o pescoço
 
@@ -267,7 +273,7 @@ Fig. 6a-C - Insígnia para o pescoço
 
 Fita de suspensão idêntica à da insígnia para o peito, com a largura máxima de 0,015 m e o comprimento total da miniatura de 0,06 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-D - Miniatura da insígnia
 
@@ -277,7 +283,7 @@ a) As rosetas são constituídas por um cilindro, com a altura de 0,003 m, forra
 
 b) Tem o diâmetro de 0,017 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-E - Rosetas
 
@@ -285,6 +291,8 @@ Fig. 6a-E - Rosetas
 
 As fitas simples, de tecido igual ao da fita de suspensão da insígnia de peito, com 0,03 m de comprimento e 0,012 m de largura, são colocadas em barras metálicas ou de material plástico rígido. Estas barras têm um alfinete de segurança para fixação;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21400/0000200007.pdf)
 
 Fig. 6a-F - Fitas simples»
+
+115836443

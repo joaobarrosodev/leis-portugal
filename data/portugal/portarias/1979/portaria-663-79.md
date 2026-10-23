@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/663-1979-366625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd20d6bf0981d7fe1bd7f136c698c0553a6755e19cff43109a9a2f0850c719ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5d51c926304317a89bfd95f7f4e6a0f753bc3897864061c6cc6ee9fe3e2a2ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências Sociais e Humanas
+- Instituto Universitário de Évora
+- Iscte
+- Licenciatura
+- Plano de Estudos
+- Universidade do Minho
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:420601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420601:por
+  label: "Derrogada, no que diz respeito ao curso de sociologia da Universidade de Évora, pela PORT.643/87.22.07.1987.MEC,\
+    \ DR.IS [166] de 22.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/643-1987-420601
+  date: '1987-07-22'
+- type: cites
+  target: pt:dre:196533:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:07Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +110,7 @@ Ao abrigo do disposto no artigo 2.º do [Decreto n.º 128-A/79](https://diarioda
 
 Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:
 
-###### Artigo 1.º - 1 - A presente portaria estabelece os planos de estudo dos cursos de licenciatura, no domínio das ciências sociais, ministrados na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, na Universidade do Minho, no Instituto Universitário de Évora e no Instituto Superior de Ciências do Trabalho e da Empresa e contém algumas normas genéricas sobre a sua organização.
+Artigo 1.º - 1 - A presente portaria estabelece os planos de estudo dos cursos de licenciatura, no domínio das ciências sociais, ministrados na Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa, na Universidade do Minho, no Instituto Universitário de Évora e no Instituto Superior de Ciências do Trabalho e da Empresa e contém algumas normas genéricas sobre a sua organização.
 
 2 - Os cursos referidos no número anterior são, respectivamente:
 
@@ -138,7 +156,7 @@ b) Sociologia Política;
 
 c) Sociologia do Trabalho.
 
-###### Art. 2.º - 1 - Os cursos de ciências sociais contemplados na presente portaria compreenderão um ciclo de base e um ciclo de formação específica.
+Art. 2.º - 1 - Os cursos de ciências sociais contemplados na presente portaria compreenderão um ciclo de base e um ciclo de formação específica.
 
 2 - O ciclo de base corresponde aos dois primeiros anos dos cursos referidos no artigo 1.º, contendo:
 
@@ -148,7 +166,7 @@ b) Um conjunto de disciplinas de formação própria a cada curso.
 
 3 - O ciclo de formação específica será leccionado na sequência do ciclo de base e compreenderá dois ou três anos escolares.
 
-###### Art. 3.º As disciplinas que compõem o núcleo comum referido no n.º 2 do artigo anterior são as seguintes:
+Art. 3.º As disciplinas que compõem o núcleo comum referido no n.º 2 do artigo anterior são as seguintes:
 
 Sociologia Geral;
 
@@ -162,7 +180,7 @@ Antropologia ou Introdução à Antropologia ou Antropologia Geral;
 
 História Económica e Social ou História Contemporânea.
 
-###### Art. 4.º Os planos de estudo dos cursos referidos no artigo 1.º são os seguintes:
+Art. 4.º Os planos de estudo dos cursos referidos no artigo 1.º são os seguintes:
 
 1) Licenciatura em Sociologia da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa:
 
@@ -946,7 +964,7 @@ c) Sociologia do Trabalho;
 
 Duas optativas anuais ou quatro semestrais.
 
-###### Art. 5.º - 1 - O elenco das disciplinas de opção dos cursos de licenciatura referidos nos n.os 1), 2) e 3) do artigo anterior é o seguinte:
+Art. 5.º - 1 - O elenco das disciplinas de opção dos cursos de licenciatura referidos nos n.os 1), 2) e 3) do artigo anterior é o seguinte:
 
 Sociologia Industrial e do Trabalho.
 
@@ -1096,9 +1114,9 @@ Cooperativismo (semestral).
 
 8 - Sem prejuízo das opções previstas no plano de licenciatura que frequentar, poderá o aluno fazer ainda, complementarmente, a partir do 2.º ano, outras disciplinas optativas.
 
-###### Art. 6.º Salvo nos casos de indicação em contrário todas as disciplinas mencionadas nos artigos 4.º e 5.º são anuais e terão uma escolaridade semanal de, pelo menos, três horas.
+Art. 6.º Salvo nos casos de indicação em contrário todas as disciplinas mencionadas nos artigos 4.º e 5.º são anuais e terão uma escolaridade semanal de, pelo menos, três horas.
 
-###### Art. 7.º - 1 - O estágio mencionado no n.º 3 do artigo 4.º terá a duração de um ano lectivo e será efectuado sob orientação e responsabilidade de um professor doutorado do respectivo curso e o acompanhamento de um profissional da instituição em que for realizado.
+Art. 7.º - 1 - O estágio mencionado no n.º 3 do artigo 4.º terá a duração de um ano lectivo e será efectuado sob orientação e responsabilidade de um professor doutorado do respectivo curso e o acompanhamento de um profissional da instituição em que for realizado.
 
 2 - O estágio compreenderá, obrigatoriamente, um seminário com, pelo menos, três horas de escolaridade semanal, de natureza transdisciplinar, sob orientação de um professor doutorado.
 
@@ -1108,9 +1126,9 @@ Cooperativismo (semestral).
 
 5 - Com ressalva do disposto no número anterior, o grau de licenciado só é conferido após defesa do relatório de estágio.
 
-###### Art. 8.º Os alunos do curso de licenciatura referido no n.º 3) do artigo 4.º deverão, até ao final do 2.º ano do respectivo plano de estudos, demonstrar conhecimentos de inglês e francês do nível que for fixado pela comissão instaladora.
+Art. 8.º Os alunos do curso de licenciatura referido no n.º 3) do artigo 4.º deverão, até ao final do 2.º ano do respectivo plano de estudos, demonstrar conhecimentos de inglês e francês do nível que for fixado pela comissão instaladora.
 
-###### Art. 9.º - 1 - Os alunos do curso de licenciatura referido no n.º 7) do artigo 4.º deverão:
+Art. 9.º - 1 - Os alunos do curso de licenciatura referido no n.º 7) do artigo 4.º deverão:
 
 a) No decurso do 1.º e 2.º semestres frequentar um curso de educação física;
 
@@ -1118,7 +1136,7 @@ b) Demonstrar conhecimentos do nível que for fixado pelo IUE, até ao fim do 2.
 
 2 - Para efeitos do referido na alínea b) do número anterior os alunos poderão frequentar no IUE, cursos de francês, inglês ou alemão.
 
-###### Art. 10.º - 1 - Os planos de estudo aprovados pela presente portaria serão postos em prática, progressivamente, começando a funcionar em 1979-1980 o 1.º ano.
+Art. 10.º - 1 - Os planos de estudo aprovados pela presente portaria serão postos em prática, progressivamente, começando a funcionar em 1979-1980 o 1.º ano.
 
 2 - À medida que forem entrando em funcionamento os vários anos do curso, segundo os novos planos de estudo, deixarão de ser professadas as disciplinas dos planos de estudo anteriores.
 
@@ -1126,16 +1144,16 @@ b) Demonstrar conhecimentos do nível que for fixado pelo IUE, até ao fim do 2.
 
 4 - A organização do período de transição entre os planos de estudo vigentes e os novos e, bem assim, a integração dos alunos nestes últimos competem ao conselho científico ou à comissão instaladora no caso dos estabelecimentos em regime de instalação.
 
-###### Art. 11.º - 1 - Podem os estabelecimentos de ensino promover cursos de actualização ou de aperfeiçoamento com a duração não superior a oito meses lectivos.
+Art. 11.º - 1 - Podem os estabelecimentos de ensino promover cursos de actualização ou de aperfeiçoamento com a duração não superior a oito meses lectivos.
 
 2 - O conselho científico ou a comissão instaladora no caso de estabelecimentos em regime de instalação proporão, fundamentadamente, ao Ministro da Educação o regime de cada um destes cursos.
 
-###### Art. 12.º - 1 - Após aproveitamento em todas as disciplinas do ciclo de base de um dos cursos de licenciatura, poderá o aluno transitar para o 3.º ano de outro curso diferente segundo condições a estabelecer pelos respectivos conselhos científicos ou comissões instaladoras, conforme os casos, sem prejuízo do disposto no número seguinte.
+Art. 12.º - 1 - Após aproveitamento em todas as disciplinas do ciclo de base de um dos cursos de licenciatura, poderá o aluno transitar para o 3.º ano de outro curso diferente segundo condições a estabelecer pelos respectivos conselhos científicos ou comissões instaladoras, conforme os casos, sem prejuízo do disposto no número seguinte.
 
 2 - Aos alunos que transitem de curso não poderá ser exigida a frequência de mais de duas disciplinas anuais ou quatro semestrais, para além das fixadas no respectivo plano de estudos, as quais não poderão ser precedentes de qualquer disciplina dos anos seguintes.
 
-###### Art. 13.º A precedência das disciplinas a observar pelos alunos na sequência dos estudos será fixada por portaria do Ministro da Educação sob proposta dos estabelecimentos de ensino.
+Art. 13.º A precedência das disciplinas a observar pelos alunos na sequência dos estudos será fixada por portaria do Ministro da Educação sob proposta dos estabelecimentos de ensino.
 
-###### Art. 14.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação, ouvidos os órgãos competentes dos respectivos estabelecimentos de ensino.
+Art. 14.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação, ouvidos os órgãos competentes dos respectivos estabelecimentos de ensino.
 
 Ministério da Educação, 26 de Novembro de 1979. - O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha.

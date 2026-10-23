@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2013/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2013-502976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9b9376fabcf1831959f60d76a0b0807f031fb8002d50186bdb05c433bcac215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de874a5cd04402249332d0919842e8e4d7021accda0e2f4e23bb27a75317ca06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Definição de Competências
 - Direção Geral da Administração Escolar
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Oficial
 - Estatuto
-- Ministério da Educação e Ciência
+- Instituto de Avaliação Educativa
 - JURI
 - JURI Nacional
-- Instituto de Avaliação Educativa
+- Ministério da Educação e Ciência
 - Pessoal Docente
-- Ensino Básico
-- Avaliação de Conhecimentos
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
@@ -109,16 +109,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:248503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74717230:por
+  label: Revogado, a partir de 18.06.2016, o DR 3/2008 de 21-jan, alterado e republicado pelo presente diploma, pelo(a) Lei
+    n.º 16/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2016-74717230
+  date: '2016-06-17'
 article_structure:
-  article_count: 44
+  article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:35Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +195,9 @@ Os artigos 1.º, 3.º a 5.º, e 7.º a 19.º do [Decreto Regulamentar n.º 3/200
 
 O presente decreto regulamentar estabelece o regime da prova de avaliação de conhecimentos e capacidades, adiante, abreviadamente, designada por prova, prevista no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A prova visa verificar o domínio de conhecimentos e capacidades fundamentais para o exercício da função docente.
 
@@ -169,13 +205,17 @@ O presente decreto regulamentar estabelece o regime da prova de avaliação de c
 
 3 - A prova pode ainda integrar uma componente específica relativa ao nível de ensino, área disciplinar ou grupo de recrutamento dos candidatos, conforme consta do anexo I ao presente decreto regulamentar e que dele faz parte integrante.
 
-###### Artigo 4.º — Calendário
+Artigo 4.º
+
+Calendário
 
 1 - O calendário de realização das componentes comum e específica da prova é fixado por despacho do membro do Governo responsável pela área da educação.
 
 2 - [Revogado].
 
-###### Artigo 5.º — Modalidades
+Artigo 5.º
+
+Modalidades
 
 1 - A componente comum da prova é constituída por uma prova escrita.
 
@@ -187,13 +227,17 @@ O presente decreto regulamentar estabelece o regime da prova de avaliação de c
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A componente comum da prova tem a duração máxima de 120 minutos.
 
 2 - A duração máxima de cada uma das componentes específicas da prova é fixada por despacho do membro do Governo responsável pela área da educação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A apreciação e a classificação das componentes da prova são da responsabilidade do Júri Nacional da Prova (JNP), em articulação com o Instituto de Avaliação Educativa, I.P. ( IAVE, I.P.).
 
@@ -215,7 +259,9 @@ O presente decreto regulamentar estabelece o regime da prova de avaliação de c
 
 10 - As listas de classificações são divulgadas na página eletrónica do IAVE, I.P.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -237,13 +283,17 @@ b) Contenham elementos identificativos do candidato ou do local em que este real
 
 c) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ao IAVE, I.P., compete coordenar o processo de elaboração e validação da prova.
 
 2 - No âmbito do disposto do número anterior inclui-se, designadamente, a elaboração das matrizes, dos enunciados e dos respetivos critérios de classificação, bem como a seleção dos professores classificadores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O IAVE, I.P., pode constituir parcerias com associações pedagógicas ou científicas, centros de investigação ou instituições de ensino superior nacionais ou estrangeiras, ou de outra natureza, tendo em vista a elaboração de qualquer das componentes da prova.
 
@@ -251,13 +301,17 @@ c) [...].
 
 3 - [Revogado].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A realização da prova é publicitada pelo IAVE, I.P., mediante aviso publicado na 2.ª série do Diário da República e na respetiva página eletrónica.
 
 2 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A realização da prova depende de inscrição prévia através de formulário eletrónico constante na página eletrónica do IAVE, I.P., complementada com os documentos comprovativos que forem exigidos, a enviar através da aplicação eletrónica aí disponibilizada.
 
@@ -267,7 +321,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Até cinco dias úteis, após a publicação do aviso a que se refere o artigo 12.º, é divulgado na página eletrónica do IAVE, I.P., um «Guia da Prova», que contém as normas práticas do seu processo de realização.
 
@@ -289,7 +345,9 @@ g) [...].
 
 3 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O JNP funciona no âmbito da Direção-Geral da Administração Escolar (DGAE) e é constituído por um presidente, dois vogais efetivos e dois vogais suplentes.
 
@@ -299,13 +357,17 @@ g) [...].
 
 4 - [Revogado].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O presidente do JNP é designado pelo membro do Governo responsável pela área da educação, através de despacho a publicar na 2.ª série do Diário da República.
 
 2 - Ao presidente do JNP compete a designação dos vogais.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Ao JNP compete coordenar a organização do processo de realização e de reapreciação das provas.
 
@@ -317,7 +379,9 @@ g) [...].
 
 5 - A competência prevista no número anterior pode ser delegada nos diretores das escolas, sem prejuízo da obrigatoriedade de estes submeterem ao presidente do JNP relatórios fundamentados das decisões tomadas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -325,7 +389,9 @@ g) [...].
 
 3 - [...].
 
-###### Artigo 19.º — Locais de realização das provas
+Artigo 19.º
+
+Locais de realização das provas
 
 1 - Cabe ao IAVE, I.P., propor ao JNP a lista das escolas designadas para a realização das provas, tendo em conta critérios de segurança, de eficácia e de eficiência inerentes ao processo de realização das mesmas.
 
@@ -357,13 +423,13 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 16 de outubro de 2013.**
+Promulgado em 16 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de outubro de 2013.**
+Referendado em 17 de outubro de 2013.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -371,7 +437,7 @@ Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
 Componente específica da prova por grupos de recrutamento e ciclos de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf)
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -599,4 +665,4 @@ Em tudo o que não esteja especialmente previsto neste diploma aplica-se o dispo
 
 Componente específica da prova por grupos de recrutamento e ciclos de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf))](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/10/20500/0621206218.pdf)

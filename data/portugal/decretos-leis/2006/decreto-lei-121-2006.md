@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2006/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2006-370982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 129c03a4d36a722346a8b99864db668fd24bfdc9a7f191f81c2a63a2ac0967e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b43c98ef745c708524e1f29f691e298a23c90f9c318360b21c2290f210c89d4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:622306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego do Conselho Nacional de Higiene e Segurança no\
+    \ Trabalho, integrado no ex-Ministério do Trabalho e da Solidariedade Social, estruturado pelo Dec Lei 245/2001 de 08-Set,\
+    \ alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amends
+  target: pt:numero:decreto-lei:245/2001
+  label: "Altera os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 9.º e 10.º e revoga o artigo 8.º do Decreto-Lei n.º 245/2001, de 8 de\
+    \ Setembro, DR.IS-A [209], extinguindo a comissão de acompanhamento nele prevista\0\0"
+  source: null
+  date: '2001-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/245/2001/09/08/p/dre
   label: null
@@ -82,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:629788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:11Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +179,9 @@ h) [Anterior alínea i).]
 
 i) Elaborar um relatório bianual de avaliação da aplicação do regime jurídico decorrente do regime da segurança, higiene e saúde no trabalho consagrado no Código do Trabalho, em particular do modelo de prevenção nele preconizado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +213,9 @@ i) Por dois representantes de cada uma das associações sindicais com assento n
 
 6 - A designação de qualquer representante para membro do CNHST implica a imediata designação de um outro representante suplente, para sua substituição, no caso de impossibilidade de comparência às reuniões do CNHST.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -202,11 +227,15 @@ i) Por dois representantes de cada uma das associações sindicais com assento n
 
 5 - As entidades referidas nos n.os 4 e 5 do artigo anterior não dispõem de direito de voto.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O funcionamento do CNHST será objecto de regulamento interno, a aprovar por despacho do ministro responsável pela área laboral, por proposta do CNHST.
 
-###### Artigo 7.º — Observatório da Prevenção
+Artigo 7.º
+
+Observatório da Prevenção
 
 1 - Por deliberação do CNHST, pode ser criado um Observatório da Prevenção, com a natureza de grupo de trabalho de apoio, de objectivos e duração previamente definidos, com vista ao desenvolvimento das seguintes tarefas:
 
@@ -230,13 +259,17 @@ d) [Anterior alínea g).]
 
 7 - Quando tal se revele mais adequado à natureza dos objectivos a atingir, o CNHST pode deliberar que as tarefas previstas no n.º 1 sejam desenvolvidas por via de acordo celebrado com entidade terceira.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O serviço com competências na área da prevenção da segurança, higiene e saúde no trabalho assegura o apoio técnico, logístico e financeiro ao CNHST, com verbas inscritas na rubrica afecta às actividades de prevenção.
 
 2 - O projecto de orçamento do funcionamento do CNHST é submetido pelo seu presidente, em Setembro de cada ano, a apreciação e deliberação do CNHST e é aprovado pelo ministro responsável pela área laboral.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Durante o ano em curso, o orçamento do CNHST deve ser apresentado ao ministro com responsabilidades na área laboral para aprovação, no prazo de 30 dias após a primeira reunião do CNHST que tenha lugar a partir da entrada em vigor do presente decreto-lei.»
 
@@ -246,12 +279,12 @@ Durante o ano em curso, o orçamento do CNHST deve ser apresentado ao ministro c
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 8 de Junho de 2006.**
+Promulgado em 8 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Junho de 2006.**
+Referendado em 8 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

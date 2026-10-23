@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28500/18761876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/669-1971-632021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e07fbd58eddd89b048ed90295b28c47b80558dabd44462657b15f101c2c8d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08b9e553cbc8c32655e9dfa3cc1f9e5d5be5f01bc79df59cd2e167ffcd50c170
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Investimento Mobiliário
+- Orgânica
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:152331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:294949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632018:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152331:por
+  label: Revogado pelo DEC LEI.134/85.1985.05.02.MFP DR.IS [100]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1985-152331
+  date: '1985-05-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:27Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +137,4 @@ a) No prazo estabelecido na alínea b) do artigo 10.º do [Decreto n.º 46342](h
 
 b) No prazo de seis meses, quanto aos restantes casos.
 
-**O Secretário de Estado do Tesouro, João Luís da Costa André.**
+O Secretário de Estado do Tesouro, João Luís da Costa André.

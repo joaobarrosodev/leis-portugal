@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26142616.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/49/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-2007-520995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1daea727dd9588a083f51be95fbfe1161ed196c2849f319453ce51c98353492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9076563343e100cdaabebffaef733d0efdf66a02d080b0ada3eaef412be68e62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
 - Conselho Consultivo da Acção Social Complementar
-- Pessoal Dirigente
-- Serviços Sociais da Administração Pública
 - Definição de Competências
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
+- Serviços Sociais da Administração Pública
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:542461:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280923:por
+  label: "Integrada, a partir de 01.02.2011, ficando subordinada ao regime estabelecido no Dec Lei 122/2007 de 27-Abr, a acção\
+    \ social complementar da justiça nos Serviços Sociais da Administração Pública (SSAP), cuja orgânica consta do presente\
+    \ diploma, e determinada a sucessão dos SSAP nos direitos e obrigações na titularidade da Secretaria-Geral do Ministério\
+    \ da Justiça respeitantes à acção social complementar da justiça, transferindo para aqueles serviços a posição contratual\
+    \ da Secretaria-Geral do Ministério da Justiça nos acordos, contratos ou protocolos de colaboração estabelecidos no âmbito\
+    \ da acção social complementar da Justiça, sendo reafectos os bens móveis na titularidade da Secretaria-Geral do Ministério\
+    \ da Justiça necessários ao funcionamento dos refeitórios geridos pelo subsistema de saúde e acção social complementar\
+    \ da justiça, nos termos previstos no Dec Lei 307/94 de 21-Dez, pelo DEC LEI.11/2011.21.01.2011.MJ, DR.IS [15] de 21.01.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2011-280923
+  date: '2011-01-21'
+- type: amends
+  target: pt:numero:decreto-lei:5/2005
+  label: "Determina que os Serviços Sociais da Administração Pública, sucedam nos termos do n.º 1 do artigo 12.º, nas atribuições\
+    \ dos Serviços Sociais do Ministério do Trabalho e da Solidariedade Social, cuja orgânica foi aprovada pelo Decreto-Lei\
+    \ n.º 5/2005, de 05 de Janeiro, DR.IS-A [3]\0\0"
+  source: null
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -119,16 +139,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:144202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542461:por
+  label: "Revogado, a partir de 01.03.2012, pelo DEC LEI.49/2012.29.02.2012.MF, DR.IS [43] de 29.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2012-542461
+  date: '2012-02-29'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 131/71, de 06 de Abril, DG.IS [81] e determina que os Serviços Sociais da Administração Pública sucedam, nos termos\
+    \ do n.º 1 do artigo 12.º , nas atribuições da Obra Social do Ministério das Obras Públicas, Transportes e Comunicações\
+    \ (actual denominação atribuída pelo Decreto-Lei n.º 58/2005, de 04 de Março) cuja orgânica foi aprovada pelo citado diploma.\0\
+    \0"
+  source: null
+  date: '1971-04-06'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 157/79, de 29 de Maio, DR.IS [123]\0\0"
+  source: null
+  date: '1979-05-29'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 360/90, de 14 de Dezembro, DR.IS [263]\0\0"
+  source: null
+  date: '1990-12-14'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 109/92, de 02 de Junho, DR.IS-A [127]\0\0"
+  source: null
+  date: '1992-06-02'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 19-A/93, de 25 de Janeiro, DR.IS-A [20]Supl e determina que os Serviços Sociais da Administração Pública sucedam,\
+    \ nos termos do n.º 1 do artigo 12.º, nas atribuições dos Serviços Sociais da Presidência do Conselho de Ministros, cuja\
+    \ orgânica foi aprovada pelo citado diploma.\0\0"
+  source: null
+  date: '1993-01-25'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 182/97, de 25 de Julho, DR.IS-A [170] e determina que os Serviços Sociais da Administração Pública sucedam, nos\
+    \ termos do n.º 1 do artigo 12.º, nas atribuições dos Serviços Sociais do Ministério da Educação, cuja orgânica foi aprovada\
+    \ pelo citado diploma.\0\0"
+  source: null
+  date: '1997-07-25'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 537/99, de 13 de Dezembro, DR.IS-A [288] e determina que os Serviços Sociais da Administração Pública sucedam nos\
+    \ termos do n.º 1 do artigo 12.º nas atribuições dos Serviços Sociais do Ministério das Finanças e da Administração Pública,\
+    \ cuja orgânica foi aprovada pelo citado diploma.\0\0"
+  source: null
+  date: '1999-12-13'
+- type: repeals
+  target: pt:numero:decreto-lei:201/2006
+  label: "Revoga, a partir de 01.05.2007, nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o Decreto-Lei\
+    \ n.º 129/2001, de 18 de Abril, DR.IS-A [91] e determina que os Serviços Sociais da Administração Pública, sucedam nos\
+    \ termos do n.º 1 do artigo 12.º, nas atribuições dos Serviços Sociais do Ministério da Justiça, no tocante aos trabalhadores\
+    \ não abrangidos pelo sistema de saúde da Justiça, cuja orgânica foi aprovada pelo citado diploma.\0\0"
+  source: null
+  date: '2001-04-18'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:48Z'
   warnings: []
   errors: []
 ---
@@ -321,16 +469,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 20 de Abril de 2007.**
+Promulgado em 20 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26142616.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26142616.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26142616.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/224a00/63276327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2003/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2003-493696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b849cf9245c539a334b2a829457d7741594062c841abd972170eee851e13faf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bdef8a027f2da65a5f70cff36d522ee97c1e3ed43173cadb467f8900f7f44a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - CE Países
 - Certificado de Origem
-- Doença Vegetal
-- Controlo Sanitário
-- Floricultura
-- Importação
 - Certificado de Qualidade
 - Circulação de Mercadorias
+- Controlo Sanitário
+- Doença Vegetal
 - Exploração Florestal
-- Proteção Fitossanitária
-- Produção Vegetal
+- Floricultura
 - Fruticultura
-- Agricultura
+- Importação
+- Produção Vegetal
+- Proteção Fitossanitária
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220749:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 14/99, de 12-Jan DR.IS-A [9], republicado pelo Dec Lei 517/99, de\
+    \ 04-Dez, na redacção que lhe foi dada pelo presente diploma e pelos Dec Leis 63/2000, de 19-Abr, 160/2000, de 27-Jul,\
+    \ 269/2001, de 06-Out, 172/2002, de 25-Jul e 142/2003, de 02-Jul, pelo DEC LEI.83/2004.14.04.2004.MADRP, DR.IS-A [88]\
+    \ de 14.04.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2004-220749
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos IV e V do Dec Lei 14/99, de 12-Jan, na redacção do presente diploma, pelo DEC LEI.183/2004.29.07.2004.MADRP,\
+    \ DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -95,16 +109,21 @@ relationships:
   target: celex:32003L0047
   label: null
   source: http://data.europa.eu/eli/dir/2003/47/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:28Z'
   warnings: []
   errors: []
 ---
@@ -143,12 +162,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003.- José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2003.**
+Referendado em 15 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

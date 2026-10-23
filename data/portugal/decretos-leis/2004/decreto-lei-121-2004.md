@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a00/32263227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2004-270808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8462070a313c3668ace68bf1509fa10eaa081e138b55122c0a18e7e3bccf351
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62e580041266819ccdba53fe86ec1833e3424959520636eff4b3fe80c457c04b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Actividade Artística
 - Classificação de Espectáculos
-- Multa
-- Inspecção Geral das Actividades Culturais
 - Contra-ordenação
-- Mudança Tecnológica
 - Direito de Autor
 - Fiscalização
-- Actividade Artística
+- Inspecção Geral das Actividades Culturais
+- Mudança Tecnológica
+- Multa
 - Videograma
 relationships:
 - type: amended_by
@@ -84,16 +84,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/315/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:283086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122960393:por
+  label: Revogado, a partir de 10.07.2019, o Dec Lei 39/88 de 06-fev, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2019-122960393
+  date: '2019-07-05'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:20Z'
   warnings: []
   errors: []
 ---
@@ -122,17 +140,17 @@ Os artigos 1.º, 2.º, 8.º, 10.º e 14.º do [Decreto-Lei n.º 39/88](https://d
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 2.º
+Artigo 2.º
 
 O exercício da actividade de edição, reprodução, distribuição, venda, aluguer ou troca de videogramas fica sujeito à superintendência da Inspecção-Geral das Actividades Culturais, aplicando-se o disposto no artigo 24.º do [Decreto-Lei n.º 315/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1995-626594), de 28 de Novembro.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
 2 - A obrigatoriedade imposta pelo número anterior não se aplica aos videogramas expostos para aluguer ou venda nos estabelecimentos referidos no artigo 2.º do [Decreto-Lei n.º 254/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1976-502803), de 7 de Abril.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - A exibição pública de videogramas é considerada espectáculo de natureza artística, para todos os efeitos legais.
 
@@ -140,7 +158,7 @@ O exercício da actividade de edição, reprodução, distribuição, venda, alu
 
 3 - Considera-se também, para o efeito do número anterior, como exibição pública a utilização de videogramas com difusão a partir da mesma origem, nomeadamente em situações como a do vídeo comunitário, e a de circuitos de computadores com acesso ao público, devendo em casos desta natureza o selo a que se refere o artigo 5.º ser aposto no suporte ou suportes de instalação do videograma, independentemente do número de terminais cliente, número este que deve, não obstante, constar do requerimento a que se refere o artigo 3.º
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - O videograma não classificado considera-se ilegalmente produzido e o seu armazenamento, posterior distribuição ou exibição pública são punidos com coima de (euro) 500 a (euro) 3740 e de (euro) 1000 a (euro) 30000, conforme sejam praticados por pessoa singular ou colectiva, respectivamente.
 
@@ -168,12 +186,12 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

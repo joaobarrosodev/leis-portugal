@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-1970-141254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a4cb513b6b5d72680dfab4dd7487a7b5b7152d0436f86cc6797feff23d42625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c8fd55a1f04415213d1dc7c722ecf5dfd45f0559a07c4be2dc20b261062e80a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:36Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +98,17 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º No artigo 1.º a alínea a) do artigo 4.º do [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, passa a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Estar o respectivo requerente domiciliado ou ter sede, filial ou agência no concelho para onde requereu a exploração do veículo e ser titular do número mínimo de licenças relativas ao mesmo tipo de veículos fixado pelo governador ou governador-geral, depois de ouvido o conselho dos transportes terrestres da província.
 
 3.º O artigo 2.º passa a ter a seguinte redacção:
 
-###### Art. 2.º A fiscalização da indústria de aluguer de automóveis sem condutor compete ao conselho dos transportes terrestres e demais autoridades com atribuições na matéria de transportes.
+Art. 2.º A fiscalização da indústria de aluguer de automóveis sem condutor compete ao conselho dos transportes terrestres e demais autoridades com atribuições na matéria de transportes.
 
 4.º O artigo 3.º passa a ter a seguinte redacção:
 
-###### Art. 3.º O governador ou governador-geral pode determinar que os automóveis de aluguer sem condutor tenham uma matrícula especial.
+Art. 3.º O governador ou governador-geral pode determinar que os automóveis de aluguer sem condutor tenham uma matrícula especial.
 
 Ministério do Ultramar, 28 de Julho de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1984-381725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:06:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a05696b09c4a94df72326cc0e67e640a4a4c2489ab85becd0fbce70f85b1545
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 610f33683174c5b03b06aff1b28d93cc9e728467fc151682497d5f9f4063f59d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:06:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Superior
+- Faculdade de Letras
+- Mestrado
+- Plano de Estudos
+- Universidade de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:665894:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665894:por
+  label: "Alterado o n.º 3.2 do anexo VIII à Port 728/81, de 27-Ago DR.IS [196], na redacção do presente diploma e das Ports.\
+    \ 1178/82, de 22-Dez, 363/83, de 04-Abr e 813/83, de 03-Ago, pela PORT.324/87.1987.04.21.MEC DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-1987-665894
+  date: '1987-04-21'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577945:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:06:54Z'
   warnings: []
   errors: []
 ---
@@ -161,6 +189,6 @@ b) Geografia Regional.
 
 Ministério da Educação.
 
-**Assinada em 28 de Junho de 1984.**
+Assinada em 28 de Junho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

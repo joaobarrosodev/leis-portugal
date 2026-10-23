@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14200/22532264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1983-452497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27e589dc79ab11c4157adbb41d113bd9eae2165a4bf3cb3907cbf4be37a2860c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5685e7eb5f0fe82a38d7cbc358a1a87952f3071c91d323262942dd2c807cc5cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Radioamador
+- Radiodifusão
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:146567:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176987:por
+  label: "Alterado pelo DR.59/85.1985.09.27.MES, DR.IS [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-1985-176987
+  date: '1985-09-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ".O19850927 - ALTERADO PELO DECRETO REGULAMENTAR 59/85, DE 27 DE SETEMBRO, PUBLICADO NO DR.IS, 223.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-09-14'
+- type: cites
+  target: pt:dre:182375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578692:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673783:por
+  label: Rectificado o Regulamento de Amador de Radiocomunicações, anexo ao presente diploma, pela DECL.DD5716.08.08.1983.PCM,
+    DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673783
+  date: '1983-08-08'
+- type: repealed_by
+  target: pt:dre:355960:por
+  label: "Revogado o artigo 3.º pelo DEC LEI.320/88.14.09.1988.MOPTC, DR.IS [213] de 14.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1988-355960
+  date: '1988-09-14'
+- type: repealed_by
+  target: pt:dre:146567:por
+  label: "Revogado pelo DEC LEI.5/95.1995.01.17.MOPTC, DR.IS-A [14]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1995-146567
+  date: '1995-01-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:58Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +153,13 @@ Assim:
 
 De acordo com o disposto no artigo 24.º do [Decreto-Lei n.º 22783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22783-1933-411363), de 29 de Junho de 1933, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São revogados o [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, que aprovou o Regulamento dos Postos de Amador, bem como os Decretos n.os 37714, 38030 e 45642, respectivamente de 30 de Dezembro de 1949, 3 de Novembro de 1950 e 6 de Abril de 1964, que o alteraram.
+Artigo 1.º São revogados o [Decreto n.º 36438](https://diariodarepublica.pt/dr/detalhe/decreto/36438-1947-182375), de 29 de Julho de 1947, que aprovou o Regulamento dos Postos de Amador, bem como os Decretos n.os 37714, 38030 e 45642, respectivamente de 30 de Dezembro de 1949, 3 de Novembro de 1950 e 6 de Abril de 1964, que o alteraram.
 
-###### Art. 2.º É aprovado o Regulamento de Amador de Radiocomunicações anexo a este diploma, que dele faz parte integrante.
+Art. 2.º É aprovado o Regulamento de Amador de Radiocomunicações anexo a este diploma, que dele faz parte integrante.
 
-###### Art. 3.º O artigo 3.º do [Decreto n.º 22784](https://diariodarepublica.pt/dr/detalhe/decreto/22784-1933-411364), de 29 de Junho de 1933, passa a ter a redacção seguinte:
+Art. 3.º O artigo 3.º do [Decreto n.º 22784](https://diariodarepublica.pt/dr/detalhe/decreto/22784-1933-411364), de 29 de Junho de 1933, passa a ter a redacção seguinte:
 
-###### Art. 3.º - 1 - Nenhuma estação radioeléctrica particular, emissora, receptora ou emissora-receptora não sujeita a outra regulamentação específica, poderá ser instalada ou utilizada sem prévio licenciamento.
+Art. 3.º - 1 - Nenhuma estação radioeléctrica particular, emissora, receptora ou emissora-receptora não sujeita a outra regulamentação específica, poderá ser instalada ou utilizada sem prévio licenciamento.
 
 Para efeitos de aplicação desta disposição, considera-se que a detenção de equipamentos emissores, receptores ou emissores-receptores, com antena incorporada ou com antena exterior, em condições de funcionamento imediato, sem recorrer a meios especiais que não sejam a ligação da antena e da alimentação ao equipamento, pressupõe a sua utilização.
 
@@ -136,23 +185,23 @@ O não cumprimento desta disposição dará lugar à aplicação de coima de 100
 
 4 - A entidade licenciadora poderá cassar as licenças das estações radioeléctricas emissoras, receptoras ou emissoras-receptoras cujos possuidores não cumpram integralmente as condições gerais e técnicas exigidas nos regulamentos emergentes do [Decreto-Lei n.º 22783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22783-1933-411363), de 29 de Junho de 1933.
 
-###### Art. 4.º - 1 - A entidade licenciadora a que se refere este decreto é o Instituto das Comunicações de Portugal, de acordo com as atribuições que lhe foram cometidas pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, que o criou.
+Art. 4.º - 1 - A entidade licenciadora a que se refere este decreto é o Instituto das Comunicações de Portugal, de acordo com as atribuições que lhe foram cometidas pelo [Decreto-Lei n.º 188/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1981-578692), de 2 de Julho, que o criou.
 
 2 - Até à entrada em funcionamento dos serviços do Instituto das Comunicações de Portugal, compete aos CTT o exercício das funções de licenciamento e fiscalização, nos termos das suas atribuições estatutárias.
 
-###### Art. 5.º Este diploma entra em vigor um mês após a sua publicação.
+Art. 5.º Este diploma entra em vigor um mês após a sua publicação.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 2 de Junho de 1983.**
+Promulgado em 2 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 6 de Junho de 1983.**
+Referendado em 6 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 REGULAMENTO DE AMADOR DE RADIOCOMUNICAÇÕES
 
@@ -1302,4 +1351,4 @@ Nas emissões em F3E e F3C, o desvio de frequência não deverá exceder (mais o
 
 9 - Necessitam de autorização prévia da entidade licenciadora as seguintes classes de emissão: A3C, C3F, F3F, K1A, K2A, K3E.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.

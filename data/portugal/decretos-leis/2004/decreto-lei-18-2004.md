@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/014a00/03400342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2004/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2004-604629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fcf86c277617e1d1bdbd466231e1a79e0b450305b806599a52a5a96099fbf73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 718e5738cb55cf17181315074b8e64ba6e5fb0b48bc4a982202602b8cb6f2bae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Carreira Profissional
 - Concurso
 - Contratação de Docentes
 - Direcção Geral dos Recursos Humanos da Educação
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
-- Horário de Trabalho
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Horário de Trabalho
+- Pessoal Docente
+- Recrutamento de Pessoal
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:544667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624793:por
+  label: "Alterados os arts. 33º, 38º e 43º do Dec Lei 35/2003 de 27-Fev DR.IS-A[49], com a redacção do presente diploma,\
+    \ pelo DEC LEI.20/2005.19.01.2005.ME, DR.IS-A [13] de 19.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2005-624793
+  date: '2005-01-19'
+- type: amends
+  target: pt:numero:decreto-lei:35/2003
+  label: "Altera os artigos 12.º, 18.º, 30.º, 33.º, 38.º, 40.º, 43.º e 44.º do Decreto-Lei n.º 35/2003, de 27 de Fevereiro\
+    \ DR.IS-A [49]\0\0"
+  source: null
+  date: '2003-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/2003/02/27/p/dre
   label: null
@@ -90,16 +102,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544667:por
+  label: "Revogado o Dec Lei 35/2003 de 27-Fev, com a redacção dada pelo presente diploma, pelo DEC LEI.20/2006.31.01.2006.ME,\
+    \ DR.IS-A [22] de 31.01.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2006-544667
+  date: '2006-01-31'
 article_structure:
-  article_count: 8
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:38Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +170,9 @@ c) Horário entre onze e dezassete horas;
 
 d) Horário até dez horas.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -154,7 +182,9 @@ d) Horário até dez horas.
 
 4 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As necessidades residuais de pessoal docente, incluindo as das escolas profissionais públicas nas componentes de formação sócio-cultural e científica, são recolhidas pela Direcção-Geral dos Recursos Humanos da Educação, mediante proposta dos órgãos de gestão dos estabelecimentos de educação ou de ensino ou de agrupamentos, estruturada em horários, completos ou incompletos, disponíveis, devendo os órgãos de gestão, sempre que se verifique a necessidade de um horário referente apenas a uma disciplina de um grupo de docência bidisciplinar, indicar em simultâneo com o horário a disciplina concreta pretendida.
 
@@ -172,7 +202,9 @@ d) Horário até dez horas.
 
 8 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +212,9 @@ d) Horário até dez horas.
 
 3 - Podem ser ocupados horários incompletos, desde que a componente lectiva do docente corresponda ao horário declarado ou desde que, para efeitos exclusivos do concurso, a componente lectiva dos horários seja igual ou superior a dezoito horas semanais, caso em que, justificando-o o horário atribuído e permitindo-o a componente lectiva do docente, se deverá proceder ao completamento dos mesmos.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A afectação é feita por um ano escolar, considerando, para cada quadro de zona pedagógica e cada grupo de docência, a necessidade de, sequencialmente, se esgotarem os horários integrantes de cada um dos seguintes intervalos:
 
@@ -200,7 +234,9 @@ d) Horário até sete horas.
 
 5 - Os docentes referidos no número anterior podem ser afectos nos termos do n.º 1 ou podem assegurar, no estabelecimento de educação ou de ensino integrado no âmbito territorial do quadro de zona pedagógica a que pertencem que for indicado pela Direcção-Geral dos Recursos Humanos da Educação, a solicitação da respectiva direcção regional de educação, o serviço que, de acordo com os objectivos definidos no n.º 1 do artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, lhes for atribuído, em ambos os casos determinando a actualização da lista graduada de candidatos não colocados.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +250,9 @@ d) Horário até sete horas.
 
 6 - Para efeitos exclusivos do concurso, o destacamento pode ocorrer para horários de componente lectiva igual ou superior a dezoito horas semanais, caso em que, justificando-o o horário atribuído e permitindo-o a componente lectiva do docente, se deverá proceder ao completamento dos mesmos.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - A Direcção-Geral dos Recursos Humanos da Educação elabora a lista de colocação para efeitos da contratação para horários anuais e para substituições, sendo essa lista homologada pelo director-geral dos Recursos Humanos da Educação, determinando a actualização da lista graduada de candidatos não colocados.
 
@@ -228,7 +266,9 @@ d) Horário até sete horas.
 
 6 - A não aceitação no prazo previsto no número anterior determina o impedimento de prestar serviço nesse ano escolar em qualquer estabelecimento de educação ou de ensino público.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - As necessidades residuais de pessoal docente que não puderem ser supridas nos termos dos artigos anteriores são-no por contratação resultante de oferta de escola, considerando-se não supridas as necessidades quando se tenha esgotado a lista definitiva de ordenação no respectivo grupo de docência ou disciplina ou quando se trate de horários de substituição temporária ou inferiores a seis horas, desde que, em qualquer destas duas situações, tenham estes horários sido recusados por duas vezes.
 
@@ -242,12 +282,12 @@ d) Horário até sete horas.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino.
 
-**Promulgado em 7 de Janeiro de 2004.**
+Promulgado em 7 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Janeiro de 2004.**
+Referendado em 8 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

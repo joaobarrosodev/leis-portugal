@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/210-1981-576509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:10:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66f43378427cf944411a4a805d7b06f4daa88c5fe127e9e442d8ba51c3042182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d51b0e40b0bd5dfcdc7a2038e357566274e281f5dcb17e585f7d5a61697d0de5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:10:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia Portuguesa de Transportes Marítimos
+- Pisee
 relationships:
 - type: amended_by
   target: pt:dre:606750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573331:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606750:por
+  label: "Revogado o nº 7, pelo DN.64/82.1982.04.28.MFP, DR.IS [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/64-1982-606750
+  date: '1982-04-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:10:36Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +116,7 @@ Tendo em conta os trabalhos desenvolvidos pelo grupo de trabalho criado pelo Des
 
 2 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1981 os projectos da CTM - Companhia Portuguesa de Transportes Marítimos, E. P., a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18800/21252126.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18800/21252126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18800/21252126.pdf)
 
 3 - Tendo em vista a necessidade de limitar o investimento do sector público a um nível compatível com os objectivos estabelecidos no plano anual, o montante da FBCF efectivamente realizado não deverá, no final do corrente ano, exceder 69% do total previsto no número anterior.
 

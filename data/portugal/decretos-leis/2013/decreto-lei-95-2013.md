@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2013/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2013-498127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f6d7bb0ab06ff0ce9b0d7df23b54dadf2abb4c25da8ecd5bfcfd4c10f604062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7101c4920205ea110570a6f4c264966175c0bd990fb0677d1b60d9a1070d794f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,48 +69,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Actividade Marítimo-Turística
 - Agência de Turismo
 - Animação Sócio-cultural
+- Animação turística
+- ASAE
 - Atribuição de Verba
-- Empresa
-- Turismo
-- Promoção Turística
-- Multa
 - Definição de Competências
-- Turismo de Natureza
+- Desporto
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Geral da Autoridade Marítima
+- Direito de Estabelecimento
 - Divulgação Cultural
 - Ecoturismo
 - Embarcação de Recreio
+- Empresa
+- Empresa Estrangeira
 - Fiscalização
+- Instituto da Conservação da Natureza e das Florestas
 - Instituto da Mobilidade e dos Transportes
 - Instituto de Turismo de Portugal
-- Publicitação
-- ASAE
-- Direito de Estabelecimento
 - Livre Prestação de Serviços
-- Veículo
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Instituto da Conservação da Natureza e das Florestas
+- Multa
 - Operador Turístico
-- Actividade Marítimo-Turística
 - Prestação de Serviços
+- Promoção Turística
+- Publicitação
 - Rede Nacional de Áreas Protegidas
 - Regime Jurídico
 - Registo Nacional de Agentes de Animação Turística
 - Seguro de Acidentes Pessoais
 - Seguro de Assistência as Pessoas
 - Seguro Obrigatório de Responsabilidade Civil
-- Direcção Geral da Autoridade Marítima
-- Empresa Estrangeira
 - Taxa
-- Desporto
+- Turismo
+- Turismo de Natureza
 - Turismo Rural
-- Animação turística
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:70179162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70179162:por
+  label: Alterados os arts. 4.º, 5.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 16.º, 16.º-A, 19.º, 20.º, 27.º, 29.º, 31.º e 40.º;
+    aditado o art. 20.º-A; alterada a sistemática referente ao Cap. V, que passa a ser composto pelos arts. 20.º e 20.º-A;
+    e revogados o n.º 3 do art. 6.º, o n.º 5 do art. 8.º, os n.ºs 2 e 4 do art. 16.º e os arts. 21.º a 24.º, todos do Dec
+    Lei 108/2009 de 15-mai DR.IS [94], alterado e republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 186/2015 - Diário
+    da República n.º 172/2015, Série I de 2015-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2015-70179162
+  date: '2015-09-03'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -128,15 +137,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
 article_structure:
-  article_count: 91
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:11Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +204,9 @@ b) «Operador marítimo-turístico», a empresa sujeita ao Regulamento da Ativid
 
 3 - Consideram-se igualmente excluídas do âmbito de aplicação do presente decreto-lei as atividades de informação, visitação, educação e sensibilização das populações, dos agentes e das organizações na área da conservação da natureza e da biodiversidade, que tenham em vista criar uma consciência coletiva da importância dos valores naturais, quando organizadas pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), ou pelos respetivos serviços dependentes.
 
-###### Artigo 3.º — Atividades de animação turística
+Artigo 3.º
+
+Atividades de animação turística
 
 1 - São atividades de animação turística as atividades lúdicas de natureza recreativa, desportiva ou cultural, que se configurem como atividades de turismo de ar livre ou de turismo cultural e que tenham interesse turístico para a região em que se desenvolvam, tais como as enunciadas no anexo ao presente decreto-lei, que dele faz parte integrante.
 
@@ -219,7 +230,9 @@ b) A organização de espetáculos, feiras, congressos, eventos de qualquer tipo
 
 c) O mero aluguer de equipamentos de animação, com exceção dos previstos no n.º 2 do artigo 4.º.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As atividades de animação turística desenvolvidas em áreas classificadas ou outras com valores naturais designam-se por atividades de turismo de natureza, desde que sejam reconhecidas como tal, nos termos previstos no artigo 13.º e no capítulo v.
 
@@ -227,7 +240,9 @@ c) O mero aluguer de equipamentos de animação, com exceção dos previstos no 
 
 3 - ...
 
-###### Artigo 5.º — Registo Nacional de Agentes de Animação Turística
+Artigo 5.º
+
+Registo Nacional de Agentes de Animação Turística
 
 1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 29.º, apenas as empresas que tenham realizado a mera comunicação prévia ou a comunicação prévia com prazo através do Registo Nacional de Agentes de Animação Turística (RNAAT), acessível através do balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., nos termos previstos nos artigos 11.º e 13.º, podem exercer e comercializar, em território nacional, as atividades de animação turística definidas no artigo 3.º e nos n.os 1 e 2 do artigo anterior.
 
@@ -253,7 +268,9 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 7 - A gratuitidade de entrada nos locais referidos no número anterior apenas é garantida mediante exibição de documento comprovativo do registo e, tratando-se de pessoa diversa da constante no registo, declaração da empresa contendo a identificação do profissional em exercício de funções de visita guiada complementada com documento de identificação civil.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Antes da contratualização da prestação dos seus serviços, as empresas de animação turística e os operadores marítimo-turísticos devem informar os clientes sobre as características específicas das atividades a desenvolver, dificuldades e eventuais riscos inerentes, material necessário quando não seja disponibilizado pela empresa, aptidões físicas e técnicas exigidas aos participantes, idade mínima e máxima admitida, serviços disponibilizados e respetivos preços, e quaisquer outros elementos indispensáveis à realização das atividades em causa.
 
@@ -261,13 +278,17 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - As atividades de animação turística realizadas em áreas protegidas devem, nomeadamente, observar os respetivos planos de ordenamento e cartas de desporto da natureza ou outros documentos de ordenamento em vigor.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As denominações de «empresa de animação turística» e de «operador marítimo-turístico» só podem ser usadas por empresas que exerçam e comercializem legalmente em território nacional, nos termos do presente decreto-lei, as atividades de animação turística definidas no artigo 3.º e nos n.os 1 e 2 do artigo 4.º.
 
@@ -279,7 +300,9 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 5 - O logótipo a que se refere o número anterior é aprovado por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do turismo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O Turismo de Portugal, I. P., organiza e mantém atualizado o RNAAT, que integra o registo das empresas de animação turística e dos operadores marítimo-turísticos que tenham realizado mera comunicação prévia e comunicação prévia com prazo, quando aplicável, nos termos do presente decreto-lei, de acesso disponível ao público no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet do Turismo de Portugal, I. P..
 
@@ -303,7 +326,9 @@ h) ...
 
 i) As menções distintivas de qualidade quando as mesmas constem da comunicação prévia referida no número anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, qualquer alteração aos elementos constantes do registo de empresas estabelecidas em território nacional, nos termos referidos no n.º 2 do artigo anterior, incluindo a abertura de novos estabelecimentos ou formas de representação locais, o encerramento de estabelecimento ou a cessação da atividade da empresa em território nacional, deve ser comunicada ao Turismo de Portugal, I. P., através do RNAAT, no prazo de 30 dias após a respetiva verificação.
 
@@ -313,7 +338,9 @@ i) As menções distintivas de qualidade quando as mesmas constem da comunicaç�
 
 4 - ...
 
-###### Artigo 11.º — Acesso à atividade de animação turística
+Artigo 11.º
+
+Acesso à atividade de animação turística
 
 1 - O exercício de atividades de animação turística depende de:
 
@@ -361,7 +388,9 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 7 - O disposto no número anterior não é aplicável ao cumprimento das condições referentes diretamente às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo seguinte, regularmente recebida a mera comunicação prévia por via eletrónica é automaticamente enviado um recibo de receção ao remetente, o qual pode iniciar a sua atividade, desde que se encontrem pagas as taxas a que se refere o artigo 16.º, quando devidas.
 
@@ -369,7 +398,9 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 3 - No prazo de 10 dias a contar da data da comunicação prévia ou do cumprimento do solicitado nos termos do número anterior, o Turismo de Portugal, I. P., comunica à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), à Direção-Geral da Autoridade Marítima (DGAM) e à Agência Portuguesa do Ambiente, I. P., o registo de operadores marítimo-turísticos e de empresas de animação turística cujo projeto de atividades inclua o exercício de atividades marítimo-turísticas e, no caso da DGRM, ainda quando o exercício dessas atividades também inclua a modalidade da pesca turística.
 
-###### Artigo 13.º — Reconhecimento de atividades de turismo de natureza
+Artigo 13.º
+
+Reconhecimento de atividades de turismo de natureza
 
 1 - O exercício de atividades de animação turística fica sujeito a comunicação prévia com prazo, tal como definida na alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, quando o requerente pretenda obter o reconhecimento das suas atividades como turismo de natureza nos termos previstos no capítulo v, salvo nos casos previstos no n.º 3 do artigo 20.º que ficam sujeitos ao regime da mera comunicação prévia.
 
@@ -383,7 +414,9 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 6 - O reconhecimento de atividades de turismo de natureza pode ser requerido aquando da mera comunicação prévia para inscrição no RNAAT, prevista na alínea a) do n.º 1 do artigo 11.º, ou em momento posterior.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, pela inscrição no RNAAT de empresas de animação turística estabelecidas em território nacional é devida uma taxa, com o valor a seguir indicado, consoante o caso:
 
@@ -427,7 +460,9 @@ a) Taxas relativas a licenças individuais de pesca turística quando seja exerc
 
 b) Taxas e cauções, devidas pela emissão de títulos de utilização privativa de recursos hídricos nos termos do disposto no artigo 59.º na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 130/2012, de 22 de junho, e respetiva legislação complementar e regulamentar, quando esteja em causa a reserva de áreas do domínio público hídrico para o exercício da atividade ou instalação de estruturas de apoio ou quando tal utilização implicar alteração no estado dos recursos ou colocar esse estado em perigo.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada de forma desmaterializada, através do RNAAT, acessível através do balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., os quais, entre outras funcionalidades, permitem:
 
@@ -451,7 +486,9 @@ f) (Revogada.)
 
 5 - ...
 
-###### Artigo 20.º — Reconhecimento de atividades de turismo de natureza
+Artigo 20.º
+
+Reconhecimento de atividades de turismo de natureza
 
 1 - As pessoas singulares e coletivas habilitadas a exercer atividades de animação turística ou atividades marítimo-turísticas que pretendam obter o reconhecimento das suas atividades como turismo de natureza devem efetuar a comunicação prévia com prazo nos termos previstos no artigo 13.º, instruída com os seguintes elementos:
 
@@ -465,7 +502,9 @@ c) ...
 
 3 - As empresas proprietárias ou exploradoras de empreendimentos reconhecidos como de turismo de natureza que exerçam atividades próprias de animação turística nos termos previstos no n.º 3 do artigo 5.º usufruem do reconhecimento destas atividades como turismo de natureza por mera comunicação prévia da qual conste a sua identificação como proprietária ou exploradora de empreendimento de turismo de natureza devidamente reconhecido.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 O reconhecimento da atividade de turismo de natureza a desenvolver pelas empresas referidas no n.º 1 do artigo anterior é efetuado pelo ICNF, I. P., de acordo com os seguintes critérios:
 
@@ -475,7 +514,9 @@ b) ...
 
 c) ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O projeto de conservação da natureza referido na alínea c) do artigo anterior é aprovado pelo ICNF, I. P., de acordo com os seguintes critérios:
 
@@ -497,7 +538,9 @@ f) Disponibilização de serviços de visitação e atividades de educação amb
 
 4 - O novo projeto referido no número anterior, o qual pode ser submetido a aprovação através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., considera-se aprovado caso o ICNF, I. P., não se pronuncie no prazo de 20 dias contado da data da sua receção.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 O reconhecimento da atividade de turismo de natureza pode ser revogado pelo ICNF, I. P. nos seguintes casos:
 
@@ -507,7 +550,9 @@ b) ...
 
 c) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, na Rede Nacional de Áreas Protegidas, o exercício de atividades de animação turística fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, apenas pode ser promovido por empresas reconhecidas nos termos previstos no artigo 20.º.
 
@@ -551,13 +596,17 @@ s) Mergulho, snorkeling e similares.
 
 3 - Sem prejuízo da demais legislação aplicável, as entidades referidas no n.º 4 do artigo 5.º, que pretendam exercer as atividades mencionadas no número anterior na Rede Nacional de Áreas Protegidas devem ainda enviar ao ICNF, I. P., a declaração de adesão formal a um código de conduta das empresas de turismo de natureza prevista na alínea b) do n.º 1 do artigo 20.º, aplicável com as devidas adaptações.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Quando as empresas de animação turística disponham de instalações fixas, estas devem satisfazer as normas vigentes para cada tipo de atividade e devem encontrar-se licenciadas ou autorizadas, pelas entidades competentes, nos termos da legislação aplicável.
 
 2 - A inscrição no RNAAT não substitui qualquer ato administrativo de licenciamento ou autorização legalmente previstos para a utilização de equipamentos, infraestruturas ou implementação prática de um estabelecimento, iniciativa, projeto ou atividade, nem constitui prova do respeito pelas normas aplicáveis aos mesmos, nem isenta os respetivos promotores da responsabilidade civil ou criminal que se possa verificar por força de qualquer ato ilícito relacionado com a atividade.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Na realização de passeios turísticos ou transporte de clientes no âmbito das suas atividades, e quando utilizem veículos automóveis com lotação superior a nove lugares, as empresas de animação turística devem estar licenciadas para a atividade de transportador público rodoviário de passageiros ou recorrer a entidade habilitada para o efeito nos termos da legislação aplicável.
 
@@ -567,7 +616,9 @@ s) Mergulho, snorkeling e similares.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Sem prejuízo das isenções previstas nos artigos 28.º e 28.º-A, as empresas de animação turística e os operadores marítimo-turísticos que exerçam atividade em território nacional estão obrigados a celebrar e a manter válidos seguros que cubram os riscos para a saúde e segurança dos destinatários dos serviços ou de terceiros decorrentes da sua atividade, nos seguintes termos:
 
@@ -593,7 +644,9 @@ c) Um seguro de responsabilidade civil que cubra os danos patrimoniais e não pa
 
 9 - Os capitais mínimos a cobrir pelos seguros referidos no n.º 1, a fixar pela portaria mencionada no n.º 2, e no anexo iii do RAMT, a que alude o n.º 3, são atualizados anualmente, em função do índice de inflação publicado pelo INE, I. P., no ano imediatamente anterior, sendo os montantes decorrentes da atualização divulgados no portal do Turismo de Portugal, I. P., e no balcão único eletrónico dos serviços.
 
-###### Artigo 28.º — Isenções gerais
+Artigo 28.º
+
+Isenções gerais
 
 1 - Não exigem a contratação dos seguros referidos nas alíneas a) e c) do n.º 1 do artigo anterior:
 
@@ -605,7 +658,9 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 2 - Ficam dispensadas da contratação do seguro de responsabilidade civil referido na alínea c) do n.º 1 do artigo anterior as empresas referidas no n.º 3 do mesmo artigo, desde que o seguro contratado ao abrigo do anexo iii do RAMT cubra todas as atividades que exerçam e que o capital mínimo de cobertura seja igual ou superior.
 
-###### Artigo 29.º — Livre prestação de serviços
+Artigo 29.º
+
+Livre prestação de serviços
 
 1 - Sem prejuízo do disposto nos números seguintes, as pessoas singulares ou coletivas estabelecidas noutro Estado-Membro da União Europeia ou do espaço económico europeu e que aí exerçam legalmente atividades de animação turística podem exercê-las livremente em território nacional, de forma ocasional e esporádica, em regime de livre prestação de serviços.
 
@@ -619,7 +674,9 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 6 - As empresas que, nos termos do n.º 3, tenham optado por não constar do RNAAT, não gozam do direito de entrada livre referido no n.º 6 do artigo 5.º.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -627,7 +684,9 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -669,11 +728,15 @@ n) O incumprimento pelas empresas que desenvolvam atividades marítimo-turístic
 
 7 - Às contraordenações previstas no presente decreto-lei é aplicável o regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, e 244/95, de 16 de setembro, e pelas Leis n.os 323/2001, de 17 de dezembro, e 109/2001, de 24 de dezembro, com exceção da contraordenação ambiental prevista no n.º 4 à qual se aplica a Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Sempre que necessário, pode ser determinada a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Compete à ASAE a instrução dos processos decorrentes de infração ao disposto no presente decreto-lei, salvo os decorrentes de infração ao disposto no artigo 26.º, cuja competência é do presidente do conselho diretivo do IMT, I. P..
 
@@ -687,7 +750,9 @@ Sempre que necessário, pode ser determinada a apreensão provisória de bens e 
 
 6 - A aplicação das coimas e das sanções acessórias é comunicada ao Turismo de Portugal, I. P., no prazo de três dias após a respetiva aplicação, para efeitos de averbamento ao registo.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -709,7 +774,9 @@ c) ...
 
 3 - A repartição do produto das coimas resultantes das contraordenações ambientais previstas no n.º 4 do artigo 35.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, é efetuada nos termos do seu artigo 73.º.
 
-###### Artigo 36.º — Aplicação de medidas cautelares
+Artigo 36.º
+
+Aplicação de medidas cautelares
 
 1 - A ASAE é competente para determinar a suspensão temporária, total ou parcial, do exercício da atividade e o encerramento temporário do estabelecimento nos seguintes casos:
 
@@ -725,7 +792,9 @@ d) Em caso de violação reiterada das normas estabelecidas no presente decreto-
 
 3 - A aplicação de medidas cautelares é comunicada ao Turismo de Portugal, I. P., no prazo de três dias após a respetiva aplicação, para efeitos de averbamento ao registo.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - As empresas de animação turística e os operadores marítimo-turísticos devem dispor de livro de reclamações nos termos e condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro.
 
@@ -733,7 +802,9 @@ d) Em caso de violação reiterada das normas estabelecidas no presente decreto-
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -755,7 +826,9 @@ b) Verificação de irregularidades graves na gestão da empresa ou incumpriment
 
 2 - A dissolução das empresas de animação turística e dos operadores marítimo-turísticos registados no RNAAT dá lugar ao imediato cancelamento da sua inscrição naquele registo.
 
-###### Artigo 16.º-A — Acesso de empresas de animação turística às atividades próprias das agências de viagens e turismo
+Artigo 16.º-A
+
+Acesso de empresas de animação turística às atividades próprias das agências de viagens e turismo
 
 1 - As empresas de animação turística que pretendam exercer atividades próprias das agências de viagens e turismo devem:
 
@@ -767,7 +840,9 @@ c) Cumprir os demais requisitos exigidos para o exercício da atividade nos term
 
 2 - As empresas referidas no número anterior, quando estabelecidas em território nacional, pagam a diferença entre o valor devido ao abrigo do n.º 4 do artigo 8.º do Decreto-Lei n.º 61/2011, de 6 de maio, alterado pelo Decreto-Lei n.º 199/2012, de 24 de agosto, e o valor das taxas pagas no âmbito do regime jurídico da atividade de animação turística e dos operadores marítimo-turísticos.
 
-###### Artigo 28.º-A — Isenção específica para livre prestação de serviços
+Artigo 28.º-A
+
+Isenção específica para livre prestação de serviços
 
 1 - As empresas de animação turística e os operadores marítimo-turísticos estabelecidos noutros Estados-Membros da União Europeia ou do espaço económico europeu que prestem serviços de animação turística em território nacional em regime de livre prestação e que estejam obrigados, nos termos da legislação do Estado-membro de origem, à contratação de garantia financeira para a cobertura em território nacional dos riscos para a saúde e segurança dos destinatários dos serviços ou de terceiros, decorrentes da sua atividade, de cobertura obrigatória nos termos dos n.os 1 a 3 do artigo 27.º e do artigo anterior, estão isentos da obrigação de contratação dos seguros referidos nos n.os 1 a 3 daquele artigo, ou de seguros, garantias ou instrumentos equivalentes nos termos do n.º 4 do mesmo artigo 27.º.
 
@@ -775,7 +850,9 @@ c) Cumprir os demais requisitos exigidos para o exercício da atividade nos term
 
 3 - Nos casos de isenção nos termos dos números anteriores, as informações referidas na alínea m) do n.º 1 do artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho, referem-se à garantia financeira contratada nos termos da legislação do Estado-Membro de origem, devendo as empresas de animação turística e os operadores marítimo-turísticos identificar a autoridade competente daquele Estado que exerce poder punitivo pela violação do requisito em causa em território nacional na declaração referida no n.º 2 do artigo seguinte e ainda sempre que tal lhe seja solicitado pelo destinatário do serviço ou por autoridade competente.
 
-###### Artigo 40.º-A — Cooperação Administrativa
+Artigo 40.º-A
+
+Cooperação Administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores já estabelecidos noutro Estado-Membro da União Europeia ou do espaço económico europeu, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.»
 
@@ -813,15 +890,15 @@ O presente decreto-lei entra em vigor 15 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de maio de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 15 de julho de 2013.**
+Promulgado em 15 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de julho de 2013.**
+Referendado em 16 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -891,17 +968,25 @@ Visitas guiadas a museus, monumentos e outros locais de interesse patrimonial;
 
 Jogos populares e tradicionais.
 
-## ANEXO II — (a que se refere o artigo 8.º)
+ANEXO II
+
+(a que se refere o artigo 8.º)
 
 Republicação do Decreto-Lei n.º 108/2009, de 15 de maio
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente decreto-lei estabelece as condições de acesso e de exercício da atividade das empresas de animação turística e dos operadores marítimo-turísticos.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - Para efeitos do presente decreto-lei entende-se por:
 
@@ -913,9 +998,13 @@ b) «Operador marítimo-turístico», a empresa sujeita ao Regulamento da Ativid
 
 3 - Consideram-se igualmente excluídas do âmbito de aplicação do presente decreto-lei as atividades de informação, visitação, educação e sensibilização das populações, dos agentes e das organizações na área da conservação da natureza e da biodiversidade, que tenham em vista criar uma consciência coletiva da importância dos valores naturais, quando organizadas pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), ou pelos respetivos serviços dependentes.
 
-### CAPÍTULO II — Âmbito da atividade das empresas de animação turística
+CAPÍTULO II
 
-###### Artigo 3.º — Atividades de animação turística
+Âmbito da atividade das empresas de animação turística
+
+Artigo 3.º
+
+Atividades de animação turística
 
 1 - São atividades de animação turística as atividades lúdicas de natureza recreativa, desportiva ou cultural, que se configurem como atividades de turismo de ar livre ou de turismo cultural e que tenham interesse turístico para a região em que se desenvolvam, tais como as enunciadas no anexo ao presente decreto-lei, que dele faz parte integrante.
 
@@ -939,7 +1028,9 @@ b) A organização de espetáculos, feiras, congressos, eventos de qualquer tipo
 
 c) O mero aluguer de equipamentos de animação, com exceção dos previstos no n.º 2 do artigo 4.º.
 
-###### Artigo 4.º — Tipo de atividades
+Artigo 4.º
+
+Tipo de atividades
 
 1 - As atividades de animação turística desenvolvidas em áreas classificadas ou outras com valores naturais designam-se por atividades de turismo de natureza, desde que sejam reconhecidas como tal, nos termos previstos no artigo 13.º e no capítulo v.
 
@@ -963,7 +1054,9 @@ h) Outros serviços, designadamente os respeitantes a serviços de reboque de eq
 
 3 - As embarcações, com ou sem propulsão, e demais meios náuticos utilizados na atividade marítimo-turística estão sujeitos aos requisitos e procedimentos técnicos, designadamente em termos de segurança, regulados por diploma próprio.
 
-###### Artigo 5.º — Registo Nacional de Agentes de Animação Turística
+Artigo 5.º
+
+Registo Nacional de Agentes de Animação Turística
 
 1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 29.º, apenas as empresas que tenham realizado a mera comunicação prévia ou a comunicação prévia com prazo através do Registo Nacional de Agentes de Animação Turística (RNAAT), acessível através do balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., nos termos previstos nos artigos 11.º e 13.º, podem exercer e comercializar, em território nacional, as atividades de animação turística definidas no artigo 3.º e nos n.os 1 e 2 do artigo anterior.
 
@@ -989,7 +1082,9 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 7 - A gratuitidade de entrada nos locais referidos no número anterior apenas é garantida mediante exibição de documento comprovativo do registo e, tratando-se de pessoa diversa da constante no registo, declaração da empresa contendo a identificação do profissional em exercício de funções de visita guiada complementada com documento de identificação civil.
 
-###### Artigo 6.º — Dever de informação
+Artigo 6.º
+
+Dever de informação
 
 1 - Antes da contratualização da prestação dos seus serviços, as empresas de animação turística e os operadores marítimo-turísticos devem informar os clientes sobre as características específicas das atividades a desenvolver, dificuldades e eventuais riscos inerentes, material necessário quando não seja disponibilizado pela empresa, aptidões físicas e técnicas exigidas aos participantes, idade mínima e máxima admitida, serviços disponibilizados e respetivos preços, e quaisquer outros elementos indispensáveis à realização das atividades em causa.
 
@@ -997,13 +1092,17 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 3 - As empresas que desenvolvam atividades reconhecidas como turismo de natureza devem disponibilizar ao público informação sobre a experiência e formação dos seus colaboradores em matéria de ambiente, património natural e conservação da natureza.
 
-###### Artigo 7.º — Desempenho ambiental
+Artigo 7.º
+
+Desempenho ambiental
 
 1 - As atividades de animação turística devem realizar-se de acordo com as disposições legais e regulamentares em matéria de ambiente e, sempre que possível, contribuir para a preservação do ambiente, nomeadamente maximizando a eficiência na utilização dos recursos e minimizando a produção de resíduos, ruído, emissões para a água e para a atmosfera e os impactes no património natural.
 
 2 - As atividades de animação turística realizadas em áreas protegidas devem, nomeadamente, observar os respetivos planos de ordenamento e cartas de desporto da natureza ou outros documentos de ordenamento em vigor.
 
-###### Artigo 8.º — Identificação das empresas de animação turística e dos operadores marítimo-turísticos
+Artigo 8.º
+
+Identificação das empresas de animação turística e dos operadores marítimo-turísticos
 
 1 - As denominações de «empresa de animação turística» e de «operador marítimo-turístico» só podem ser usadas por empresas que exerçam e comercializem legalmente em território nacional, nos termos do presente decreto-lei, as atividades de animação turística definidas no artigo 3.º e nos n.os 1 e 2 do artigo 4.º.
 
@@ -1015,9 +1114,13 @@ e) No caso de serem utilizadas embarcações e demais meios náuticos, estes cum
 
 5 - O logótipo a que se refere o número anterior é aprovado por portaria dos membros do Governo responsáveis pelas áreas do ambiente e do turismo.
 
-### CAPÍTULO III — Registo Nacional dos Agentes de Animação Turística
+CAPÍTULO III
 
-###### Artigo 9.º — Elementos do RNAAT
+Registo Nacional dos Agentes de Animação Turística
+
+Artigo 9.º
+
+Elementos do RNAAT
 
 1 - O Turismo de Portugal, I. P., organiza e mantém atualizado o RNAAT, que integra o registo das empresas de animação turística e dos operadores marítimo-turísticos que tenham realizado mera comunicação prévia e comunicação prévia com prazo, quando aplicável, nos termos do presente decreto-lei, de acesso disponível ao público no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet do Turismo de Portugal, I. P..
 
@@ -1041,7 +1144,9 @@ h) As sanções aplicadas;
 
 i) As menções distintivas de qualidade quando as mesmas constem da comunicação prévia referida no número anterior.
 
-###### Artigo 10.º — Obrigação de comunicação
+Artigo 10.º
+
+Obrigação de comunicação
 
 1 - Sem prejuízo do disposto no número seguinte, qualquer alteração aos elementos constantes do registo de empresas estabelecidas em território nacional, nos termos referidos no n.º 2 do artigo anterior, incluindo a abertura de novos estabelecimentos ou formas de representação locais, o encerramento de estabelecimento ou a cessação da atividade da empresa em território nacional, deve ser comunicada ao Turismo de Portugal, I. P., através do RNAAT, no prazo de 30 dias após a respetiva verificação.
 
@@ -1051,7 +1156,9 @@ i) As menções distintivas de qualidade quando as mesmas constem da comunicaç�
 
 4 - A alteração dos elementos do registo deve ser comunicada pelo Turismo de Portugal, I. P., às entidades competentes em razão da matéria a que se reporte a alteração.
 
-###### Artigo 10.º-A — Informação pública no RNAAT
+Artigo 10.º-A
+
+Informação pública no RNAAT
 
 1 - O Turismo de Portugal, I. P., publicita, através do RNAAT, a cessação da atividade das empresas de animação turística e dos operadores marítimo-turísticos nele registados por um período superior a 90 dias sem justificação atendível bem como as situações de irregularidade verificadas no exercício da sua atividade, durante o período em que as mesmas se verifiquem, nomeadamente, as seguintes:
 
@@ -1061,9 +1168,13 @@ b) Verificação de irregularidades graves na gestão da empresa ou incumpriment
 
 2 - A dissolução das empresas de animação turística e dos operadores marítimo-turísticos registados no RNAAT dá lugar ao imediato cancelamento da sua inscrição naquele registo.
 
-### CAPÍTULO IV — Mera comunicação prévia para inscrição no RNAAT
+CAPÍTULO IV
 
-###### Artigo 11.º — Acesso à atividade de animação turística
+Mera comunicação prévia para inscrição no RNAAT
+
+Artigo 11.º
+
+Acesso à atividade de animação turística
 
 1 - O exercício de atividades de animação turística depende de:
 
@@ -1111,7 +1222,9 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 7 - O disposto no número anterior não é aplicável ao cumprimento das condições referentes diretamente às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
 
-###### Artigo 12.º — Tramitação
+Artigo 12.º
+
+Tramitação
 
 1 - Sem prejuízo do disposto no artigo seguinte, regularmente recebida a mera comunicação prévia por via eletrónica é automaticamente enviado um recibo de receção ao remetente, o qual pode iniciar a sua atividade, desde que se encontrem pagas as taxas a que se refere o artigo 16.º, quando devidas.
 
@@ -1119,7 +1232,9 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 3 - No prazo de 10 dias a contar da data da comunicação prévia ou do cumprimento do solicitado nos termos do número anterior, o Turismo de Portugal, I. P., comunica à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), à Direção-Geral da Autoridade Marítima (DGAM) e à Agência Portuguesa do Ambiente, I. P., o registo de operadores marítimo-turísticos e de empresas de animação turística cujo projeto de atividades inclua o exercício de atividades marítimo-turísticas e, no caso da DGRM, ainda quando o exercício dessas atividades também inclua a modalidade da pesca turística.
 
-###### Artigo 13.º — Reconhecimento de atividades de turismo de natureza
+Artigo 13.º
+
+Reconhecimento de atividades de turismo de natureza
 
 1 - O exercício de atividades de animação turística fica sujeito a comunicação prévia com prazo, tal como definida na alínea a) do n.º 2 do artigo 8.º do Decreto-Lei n.º 92/2010, de 26 de julho, quando o requerente pretenda obter o reconhecimento das suas atividades como turismo de natureza nos termos previstos no capítulo v, salvo nos casos previstos no n.º 3 do artigo 20.º que ficam sujeitos ao regime da mera comunicação prévia.
 
@@ -1133,11 +1248,17 @@ h) Comprovativo do pagamento das taxas a que se refere o artigo 16.º, nos casos
 
 6 - O reconhecimento de atividades de turismo de natureza pode ser requerido aquando da mera comunicação prévia para inscrição no RNAAT, prevista na alínea a) do n.º 1 do artigo 11.º, ou em momento posterior.
 
-###### Artigo 14.º — (Revogado.)
+Artigo 14.º
 
-###### Artigo 15.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 16.º — Taxas
+Artigo 15.º
+
+(Revogado.)
+
+Artigo 16.º
+
+Taxas
 
 1 - Sem prejuízo do disposto no n.º 3, pela inscrição no RNAAT de empresas de animação turística estabelecidas em território nacional é devida uma taxa, com o valor a seguir indicado, consoante o caso:
 
@@ -1181,7 +1302,9 @@ a) Taxas relativas a licenças individuais de pesca turística quando seja exerc
 
 b) Taxas e cauções, devidas pela emissão de títulos de utilização privativa de recursos hídricos nos termos do disposto no artigo 59.º na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 130/2012, de 22 de junho, e respetiva legislação complementar e regulamentar, quando esteja em causa a reserva de áreas do domínio público hídrico para o exercício da atividade ou instalação de estruturas de apoio ou quando tal utilização implicar alteração no estado dos recursos ou colocar esse estado em perigo.
 
-###### Artigo 16.º-A — Acesso de empresas de animação turística às atividades próprias das agências de viagens e turismo
+Artigo 16.º-A
+
+Acesso de empresas de animação turística às atividades próprias das agências de viagens e turismo
 
 1 - As empresas de animação turística que pretendam exercer atividades próprias das agências de viagens e turismo devem:
 
@@ -1193,11 +1316,17 @@ c) Cumprir os demais requisitos exigidos para o exercício da atividade nos term
 
 2 - As empresas referidas no número anterior, quando estabelecidas em território nacional, pagam a diferença entre o valor devido ao abrigo do n.º 4 do artigo 8.º do Decreto-Lei n.º 61/2011, de 6 de maio, alterado pelo Decreto-Lei n.º 199/2012, de 24 de agosto, e o valor das taxas pagas no âmbito do regime jurídico da atividade de animação turística e dos operadores marítimo-turísticos.
 
-###### Artigo 17.º — (Revogado.)
+Artigo 17.º
 
-###### Artigo 18.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 19.º — Sistema de informação
+Artigo 18.º
+
+(Revogado.)
+
+Artigo 19.º
+
+Sistema de informação
 
 1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada de forma desmaterializada, através do RNAAT, acessível através do balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., os quais, entre outras funcionalidades, permitem:
 
@@ -1221,9 +1350,13 @@ f) (Revogada.)
 
 5 - Os sistemas de informação produzem notificações automáticas para as entidades envolvidas sempre que novos elementos sejam adicionados ao processo.
 
-### CAPÍTULO V — Turismo de natureza
+CAPÍTULO V
 
-###### Artigo 20.º — Reconhecimento de atividades de turismo de natureza
+Turismo de natureza
+
+Artigo 20.º
+
+Reconhecimento de atividades de turismo de natureza
 
 1 - As pessoas singulares e coletivas habilitadas a exercer atividades de animação turística ou atividades marítimo-turísticas que pretendam obter o reconhecimento das suas atividades como turismo de natureza devem efetuar a comunicação prévia com prazo nos termos previstos no artigo 13.º, instruída com os seguintes elementos:
 
@@ -1237,7 +1370,9 @@ c) Projeto de conservação da natureza, quando aplicável.
 
 3 - As empresas proprietárias ou exploradoras de empreendimentos reconhecidos como de turismo de natureza que exerçam atividades próprias de animação turística nos termos previstos no n.º 3 do artigo 5.º, usufruem do reconhecimento destas atividades como turismo de natureza por mera comunicação prévia da qual conste a sua identificação como proprietária ou exploradora de empreendimento de turismo de natureza devidamente reconhecido.
 
-###### Artigo 21.º — Critérios de reconhecimento
+Artigo 21.º
+
+Critérios de reconhecimento
 
 O reconhecimento da atividade de turismo de natureza a desenvolver pelas empresas referidas no n.º 1 do artigo anterior é efetuado pelo ICNF, I. P., de acordo com os seguintes critérios:
 
@@ -1247,7 +1382,9 @@ b) Adesão ao código de conduta das empresas de turismo de natureza, referido n
 
 c) Participação da empresa, diretamente ou em parceria com entidades públicas ou privadas, num projeto de conservação da natureza, aprovado nos termos do artigo seguinte.
 
-###### Artigo 22.º — Projeto de conservação da natureza
+Artigo 22.º
+
+Projeto de conservação da natureza
 
 1 - O projeto de conservação da natureza referido na alínea c) do artigo anterior é aprovado pelo ICNF, I. P., de acordo com os seguintes critérios:
 
@@ -1269,7 +1406,9 @@ f) Disponibilização de serviços de visitação e atividades de educação amb
 
 4 - O novo projeto referido no número anterior, o qual pode ser submetido a aprovação através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do sítio na Internet do Turismo de Portugal, I. P., considera-se aprovado caso o ICNF, I. P., não se pronuncie no prazo de 20 dias contado da data da sua receção.
 
-###### Artigo 23.º — Validade do reconhecimento
+Artigo 23.º
+
+Validade do reconhecimento
 
 O reconhecimento da atividade de turismo de natureza pode ser revogado pelo ICNF, I. P., nos seguintes casos:
 
@@ -1279,7 +1418,9 @@ b) Incumprimento do código de conduta das empresas de turismo de natureza;
 
 c) Se não forem entregues, no prazo de seis meses, os elementos do projeto de conservação da natureza referidos no n.º 2 do artigo anterior.
 
-###### Artigo 24.º — Exclusividade em áreas protegidas
+Artigo 24.º
+
+Exclusividade em áreas protegidas
 
 1 - Sem prejuízo do disposto no n.º 3, na Rede Nacional de Áreas Protegidas, o exercício de atividades de animação turística fora dos perímetros urbanos e da rede viária nacional, regional e local, aberta à circulação pública, apenas pode ser promovido por empresas reconhecidas nos termos previstos no artigo 20.º.
 
@@ -1323,15 +1464,21 @@ s) Mergulho, snorkeling e similares.
 
 3 - Sem prejuízo da demais legislação aplicável, as entidades referidas no n.º 4 do artigo 5.º, que pretendam exercer as atividades mencionadas no número anterior na Rede Nacional de Áreas Protegidas devem ainda enviar ao ICNF, I. P., a declaração de adesão formal a um código de conduta das empresas de turismo de natureza prevista na alínea b) do n.º 1 do artigo 20.º, aplicável com as devidas adaptações.
 
-### CAPÍTULO VI — Instalações e equipamento
+CAPÍTULO VI
 
-###### Artigo 25.º — Instalações, equipamento e material
+Instalações e equipamento
+
+Artigo 25.º
+
+Instalações, equipamento e material
 
 1 - Quando as empresas de animação turística disponham de instalações fixas, estas devem satisfazer as normas vigentes para cada tipo de atividade e devem encontrar-se licenciadas ou autorizadas, pelas entidades competentes, nos termos da legislação aplicável.
 
 2 - A inscrição no RNAAT não substitui qualquer ato administrativo de licenciamento ou autorização legalmente previstos para a utilização de equipamentos, infraestruturas ou implementação prática de um estabelecimento, iniciativa, projeto ou atividade, nem constitui prova do respeito pelas normas aplicáveis aos mesmos, nem isenta os respetivos promotores da responsabilidade civil ou criminal que se possa verificar por força de qualquer ato ilícito relacionado com a atividade.
 
-###### Artigo 26.º — Utilização de meios de transporte
+Artigo 26.º
+
+Utilização de meios de transporte
 
 1 - Na realização de passeios turísticos ou transporte de clientes no âmbito das suas atividades, e quando utilizem veículos automóveis com lotação superior a nove lugares, as empresas de animação turística devem estar licenciadas para a atividade de transportador público rodoviário de passageiros ou recorrer a entidade habilitada para o efeito nos termos da legislação aplicável.
 
@@ -1341,9 +1488,13 @@ s) Mergulho, snorkeling e similares.
 
 4 - Nos transportes de passeios turísticos ou transporte de clientes em veículos com lotação até nove lugares, o motorista deve ser portador do seu horário de trabalho e de documento que contenha a identificação da empresa, a especificação do evento, iniciativa ou projeto, a data, a hora e o local de partida e de chegada, que exibirá a qualquer entidade competente que o solicite.
 
-### CAPÍTULO VII — Das garantias financeiras
+CAPÍTULO VII
 
-###### Artigo 27.º — Seguros obrigatórios
+Das garantias financeiras
+
+Artigo 27.º
+
+Seguros obrigatórios
 
 1 - Sem prejuízo das isenções previstas nos artigos 28.º e 28.º-A, as empresas de animação turística e os operadores marítimo-turísticos que exerçam atividade em território nacional estão obrigados a celebrar e a manter válidos seguros que cubram os riscos para a saúde e segurança dos destinatários dos serviços ou de terceiros decorrentes da sua atividade, nos seguintes termos:
 
@@ -1369,7 +1520,9 @@ c) Um seguro de responsabilidade civil que cubra os danos patrimoniais e não pa
 
 9 - Os capitais mínimos a cobrir pelos seguros referidos no n.º 1, a fixar pela portaria mencionada no n.º 2, e no anexo iii do RAMT, a que alude o n.º 3, são atualizados anualmente, em função do índice de inflação publicado pelo INE, I. P., no ano imediatamente anterior, sendo os montantes decorrentes da atualização divulgados no portal do Turismo de Portugal, I. P., e no balcão único eletrónico dos serviços.
 
-###### Artigo 28.º — Isenções gerais
+Artigo 28.º
+
+Isenções gerais
 
 1 - Não exigem a contratação dos seguros referidos nas alíneas a) e c) do n.º 1 do artigo anterior:
 
@@ -1381,7 +1534,9 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 2 - Ficam dispensadas da contratação do seguro de responsabilidade civil referido na alínea c) do n.º 1 do artigo anterior as empresas referidas no n.º 3 do mesmo artigo, desde que o seguro contratado ao abrigo do anexo iii do RAMT cubra todas as atividades que exerçam e que o capital mínimo de cobertura seja igual ou superior.
 
-###### Artigo 28.º-A — Isenção específica para livre prestação de serviços
+Artigo 28.º-A
+
+Isenção específica para livre prestação de serviços
 
 1 - As empresas de animação turística e os operadores marítimo-turísticos estabelecidos noutros Estados-Membros da União Europeia ou do espaço económico europeu que prestem serviços de animação turística em território nacional em regime de livre prestação e que estejam obrigados, nos termos da legislação do Estado-membro de origem, à contratação de garantia financeira para a cobertura em território nacional dos riscos para a saúde e segurança dos destinatários dos serviços ou de terceiros, decorrentes da sua atividade, de cobertura obrigatória nos termos dos n.os 1 a 3 do artigo 27.º e do artigo anterior, estão isentos da obrigação de contratação dos seguros referidos nos n.os 1 a 3 daquele artigo, ou de seguros, garantias ou instrumentos equivalentes nos termos do n.º 4 do mesmo artigo 27.º.
 
@@ -1389,9 +1544,13 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 3 - Nos casos de isenção nos termos dos números anteriores, as informações referidas na alínea m) do n.º 1 do artigo 20.º do Decreto-Lei n.º 92/2010, de 26 de julho, referem-se à garantia financeira contratada nos termos da legislação do Estado-Membro de origem, devendo as empresas de animação turística e os operadores marítimo-turísticos identificar a autoridade competente daquele Estado que exerce poder punitivo pela violação do requisito em causa em território nacional na declaração referida no n.º 2 do artigo seguinte e ainda sempre que tal lhe seja solicitado pelo destinatário do serviço ou por autoridade competente.
 
-### CAPÍTULO VIII — Empresas em livre prestação de serviços em território nacional
+CAPÍTULO VIII
 
-###### Artigo 29.º — Livre prestação de serviços
+Empresas em livre prestação de serviços em território nacional
+
+Artigo 29.º
+
+Livre prestação de serviços
 
 1 - Sem prejuízo do disposto nos números seguintes, as pessoas singulares ou coletivas estabelecidas noutro Estado-Membro da União Europeia ou do espaço económico europeu e que aí exerçam legalmente atividades de animação turística podem exercê-las livremente em território nacional, de forma ocasional e esporádica, em regime de livre prestação de serviços.
 
@@ -1405,9 +1564,13 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 6 - As empresas que, nos termos do n.º 3, tenham optado por não constar do RNAAT, não gozam do direito de entrada livre referido no n.º 6 do artigo 5.º.
 
-### CAPÍTULO IX — Regime sancionatório
+CAPÍTULO IX
 
-###### Artigo 30.º — Competência para a fiscalização
+Regime sancionatório
+
+Artigo 30.º
+
+Competência para a fiscalização
 
 1 - Sem prejuízo das competências próprias das entidades intervenientes nos procedimentos previstos no presente decreto-lei, e das demais entidades competentes em razão da matéria ou área de jurisdição, compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar a observância do disposto no presente decreto-lei.
 
@@ -1415,7 +1578,9 @@ c) A prestação de serviços por uma empresa através de outra empresa subcontr
 
 3 - Aos funcionários em serviço de inspeção devem ser facultados os elementos justificadamente solicitados.
 
-###### Artigo 31.º — Contraordenações
+Artigo 31.º
+
+Contraordenações
 
 1 - Constituem contraordenações:
 
@@ -1457,7 +1622,9 @@ n) O incumprimento pelas empresas que desenvolvam atividades marítimo-turístic
 
 7 - Às contraordenações previstas no presente decreto-lei é aplicável o regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, e 244/95, de 16 de setembro, e pelas Leis n.os 323/2001, de 17 de dezembro, e 109/2001, de 24 de dezembro, com exceção da contraordenação ambiental prevista no n.º 4 à qual se aplica a Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
 
-###### Artigo 32.º — Sanções acessórias
+Artigo 32.º
+
+Sanções acessórias
 
 Em função da gravidade da infração e da culpa do agente, e sempre que a gravidade da situação assim o justifique, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -1465,11 +1632,15 @@ a) Apreensão do material através do qual se praticou a infração;
 
 b) Suspensão do exercício da atividade e encerramento dos estabelecimentos, iniciativas ou projetos pelo período máximo de dois anos.
 
-###### Artigo 33.º — Apreensão cautelar
+Artigo 33.º
+
+Apreensão cautelar
 
 Sempre que necessário, pode ser determinada a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto.
 
-###### Artigo 34.º — Instrução dos processos e aplicação das coimas e das sanções acessórias
+Artigo 34.º
+
+Instrução dos processos e aplicação das coimas e das sanções acessórias
 
 1 - Compete à ASAE a instrução dos processos decorrentes de infração ao disposto no presente decreto-lei, salvo os decorrentes de infração ao disposto no artigo 26.º, cuja competência é do presidente do conselho diretivo do IMT, I. P..
 
@@ -1483,7 +1654,9 @@ Sempre que necessário, pode ser determinada a apreensão provisória de bens e 
 
 6 - A aplicação das coimas e das sanções acessórias é comunicada ao Turismo de Portugal, I. P., no prazo de três dias após a respetiva aplicação, para efeitos de averbamento ao registo.
 
-###### Artigo 35.º — Produto das coimas
+Artigo 35.º
+
+Produto das coimas
 
 1 - O produto das coimas recebidas por violação do disposto no presente decreto-lei reverte em:
 
@@ -1505,7 +1678,9 @@ c) 60 % para o Estado.
 
 3 - A repartição do produto das coimas resultantes das contraordenações ambientais previstas no n.º 4 do artigo 35.º da Lei n.º 50/2006, de 29 de agosto, alterada pela Lei n.º 89/2009, de 31 de agosto, é efetuada nos termos do seu artigo 73.º.
 
-###### Artigo 36.º — Aplicação de medidas cautelares
+Artigo 36.º
+
+Aplicação de medidas cautelares
 
 1 - A ASAE é competente para determinar a suspensão temporária, total ou parcial, do exercício da atividade e o encerramento temporário do estabelecimento nos seguintes casos:
 
@@ -1521,9 +1696,13 @@ d) Em caso de violação reiterada das normas estabelecidas no presente decreto-
 
 3 - A aplicação de medidas cautelares é comunicada ao Turismo de Portugal, I. P., no prazo de três dias após a respetiva aplicação, para efeitos de averbamento ao registo.
 
-### CAPÍTULO X — Disposições finais e transitórias
+CAPÍTULO X
 
-###### Artigo 37.º — Livro de reclamações
+Disposições finais e transitórias
+
+Artigo 37.º
+
+Livro de reclamações
 
 1 - As empresas de animação turística e os operadores marítimo-turísticos devem dispor de livro de reclamações nos termos e condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro.
 
@@ -1531,7 +1710,9 @@ d) Em caso de violação reiterada das normas estabelecidas no presente decreto-
 
 3 - A ASAE deve facultar ao Turismo de Portugal, I. P., acesso às reclamações dirigidas às empresas de animação turística e operadores marítimo-turísticos, nos termos de protocolo a celebrar entre os dois organismos.
 
-###### Artigo 38.º — Alteração ao Decreto-Lei n.º 21/2002, de 31 de janeiro
+Artigo 38.º
+
+Alteração ao Decreto-Lei n.º 21/2002, de 31 de janeiro
 
 Os artigos 1.º e 2.º do Regulamento da Atividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 21/2002, de 31 de janeiro, alterado pelo Decreto-Lei n.º 269/2003, de 28 de outubro, passam a ter a seguinte redação:
 
@@ -1541,23 +1722,33 @@ Os artigos 1.º e 2.º do Regulamento da Atividade Marítimo-Turística, aprovad
 
 O Regulamento da Atividade Marítimo-Turística, abreviadamente designado por RAMT, define as regras aplicáveis às embarcações utilizadas por agentes autorizados a exercer a atividade marítimo-turística.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O RAMT é aplicável às embarcações utilizadas pelos operadores marítimo-turísticos e empresas de animação turística que exerçam a atividade marítimo-turística, em todo o território nacional.»
 
-###### Artigo 39.º — (Revogado.)
+Artigo 39.º
 
-###### Artigo 40.º — Regiões Autónomas
+(Revogado.)
+
+Artigo 40.º
+
+Regiões Autónomas
 
 1 - O presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas a serviços ou organismos da administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências.
 
 2 - Nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 92/2010, de 26 de julho, os controlos exercidos quer pelos organismos da administração central, quer pelos serviços competentes das administrações das regiões autónomas, no âmbito do presente decreto-lei, incluindo os registos no RNAAT, são válidos para todo o território nacional, excetuados os controlos referentes a instalações físicas.
 
-###### Artigo 40.º-A — Cooperação Administrativa
+Artigo 40.º-A
+
+Cooperação Administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores já estabelecidos noutro Estado-Membro da União Europeia ou do espaço económico europeu, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno.
 
-###### Artigo 41.º — Empresas de animação turística e operadores marítimo-turísticos existentes
+Artigo 41.º
+
+Empresas de animação turística e operadores marítimo-turísticos existentes
 
 1 - As empresas de animação turística licenciadas à data da entrada em vigor do presente decreto-lei consideram-se registadas nos termos nele previstos, convertendo-se automaticamente o respetivo número de licença no número de inscrição da empresa no RNAAT, desde que se mantenham válidas as garantias legais exigidas.
 
@@ -1567,7 +1758,9 @@ As autoridades competentes nos termos do presente decreto-lei participam na coop
 
 4 - Os operadores marítimo-turísticos licenciados como tal à data da entrada em vigor do presente decreto-lei devem pedir o respetivo registo no RNAAT junto do Turismo de Portugal, I. P., no prazo de seis meses contados da sua publicação, sem encargos adicionais.
 
-###### Artigo 42.º — Norma revogatória
+Artigo 42.º
+
+Norma revogatória
 
 São revogados:
 
@@ -1585,11 +1778,15 @@ f) A Portaria n.º 138/2001, de 1 de março;
 
 g) A Portaria n.º 164/2005, de 11 de fevereiro.
 
-###### Artigo 43.º — Entrada em vigor
+Artigo 43.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor 30 dias a contar da data da sua publicação.
 
-## ANEXO — Lista exemplificativa de atividades de empresas de animação turística
+ANEXO
+
+Lista exemplificativa de atividades de empresas de animação turística
 
 (a que se refere o n.º 1 do artigo 3.º)
 

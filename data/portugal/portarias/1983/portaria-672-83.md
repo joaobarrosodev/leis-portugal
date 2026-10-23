@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-1983-451847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60add96949ee383990231179a91412adb5b91509132ea2f606ad8447c6bb452a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 702f6380de5e104f0e8f2455412d1def2e604878eeeed639ec10eff01af24c08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cofre de Previdência
+- GNR
+- PSP
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:02Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +110,21 @@ Manda o Governo da República Portuguesa, pelo Ministro da Administração Inter
 
 Ministério da Administração Interna.
 
-**Assinada em 19 de Maio de 1983.**
+Assinada em 19 de Maio de 1983.
 
-**O Ministro da Administração Interna, José Ângelo Ferreira Correia.**
+O Ministro da Administração Interna, José Ângelo Ferreira Correia.
 
 Regulamento do Cofre de Previdência da Guarda Nacional Republicana
 
 ### CAPÍTULO I — Da denominação, constituição e objectivos
 
-###### Artigo 1.º O Cofre de Previdência da Guarda Nacional Republicana, integrado nos Serviços Sociais da Guarda Nacional Republicana, nos termos do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, e do despacho ministerial de 23 de Março de 1960, é uma instituição de previdência de 4.ª categoria, nos termos da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, de duração ilimitada e com sede em Lisboa.
+Artigo 1.º O Cofre de Previdência da Guarda Nacional Republicana, integrado nos Serviços Sociais da Guarda Nacional Republicana, nos termos do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, e do despacho ministerial de 23 de Março de 1960, é uma instituição de previdência de 4.ª categoria, nos termos da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, de duração ilimitada e com sede em Lisboa.
 
-###### Art. 2.º O Cofre tem por objectivo fundamental assegurar um subsídio pecuniário único pago uma só vez à pessoa ou pessoas consideradas hábeis para o efeito, nos termos do capítulo IV, sem prejuízo de, quando as condições financeiras o permitirem, cooperar na campanha de fomento de construção de casas e em outras actividades destinadas a beneficiar os subscritores.
+Art. 2.º O Cofre tem por objectivo fundamental assegurar um subsídio pecuniário único pago uma só vez à pessoa ou pessoas consideradas hábeis para o efeito, nos termos do capítulo IV, sem prejuízo de, quando as condições financeiras o permitirem, cooperar na campanha de fomento de construção de casas e em outras actividades destinadas a beneficiar os subscritores.
 
 ### CAPÍTULO II — Dos subscritores
 
-###### Art. 3.º Haverá 3 categorias de subscritores: ordinários, extraordinários e honorários:
+Art. 3.º Haverá 3 categorias de subscritores: ordinários, extraordinários e honorários:
 
 a) São inscritas obrigatoriamente como subscritores ordinários todas as praças que se alistem na Guarda Nacional Republicana;
 
@@ -116,11 +132,11 @@ b) São inscritos como subscritores extraordinários todos os sócios beneficiá
 
 c) São inscritos a título honorário os indivíduos ou entidades que prestem ao Cofre relevantes serviços e que a direcção julgue dignos de tal distinção.
 
-###### Art. 4.º Os subscritores que forem promovidos a oficiais podem, se tiverem pago 12 quotas mensais, pelo menos, e assim o requererem, receber na ocasião da sua promoção a importância correspondente a 80% da sua reserva matemática, anulando, assim, a sua inscrição.
+Art. 4.º Os subscritores que forem promovidos a oficiais podem, se tiverem pago 12 quotas mensais, pelo menos, e assim o requererem, receber na ocasião da sua promoção a importância correspondente a 80% da sua reserva matemática, anulando, assim, a sua inscrição.
 
-###### Art. 5.º Os subscritores que tiverem pago mais de 12 quotas mensais e deixarem de pertencer aos quadros da Guarda Nacional Republicana (activo, reserva ou reforma) ou perderem a qualidade de sócios beneficiários dos Serviços Sociais da Guarda Nacional Republicana perderão aquela categoria, podendo, porém, receber na ocasião, se assim o solicitarem, uma importância correspondente a 80% da sua reserva matemática.
+Art. 5.º Os subscritores que tiverem pago mais de 12 quotas mensais e deixarem de pertencer aos quadros da Guarda Nacional Republicana (activo, reserva ou reforma) ou perderem a qualidade de sócios beneficiários dos Serviços Sociais da Guarda Nacional Republicana perderão aquela categoria, podendo, porém, receber na ocasião, se assim o solicitarem, uma importância correspondente a 80% da sua reserva matemática.
 
-###### Art. 6.º São deveres dos subscritores:
+Art. 6.º São deveres dos subscritores:
 
 1.º Cumprir todas as disposições regulamentares e determinações da direcção;
 
@@ -134,23 +150,23 @@ c) São inscritos a título honorário os indivíduos ou entidades que prestem a
 
 ### CAPÍTULO III — Das contribuições
 
-###### Art. 7.º Os subscritores pagarão, por desconto nos seus vencimentos ou pensões, as quotas correspondentes à tabela A anexa ou aquelas que vigorarem à data da publicação do presente Regulamento, podendo, em caso de impossibilidade, liquidá-las directamente no conselho administrativo dos Serviços Sociais da Guarda Nacional Republicana.
+Art. 7.º Os subscritores pagarão, por desconto nos seus vencimentos ou pensões, as quotas correspondentes à tabela A anexa ou aquelas que vigorarem à data da publicação do presente Regulamento, podendo, em caso de impossibilidade, liquidá-las directamente no conselho administrativo dos Serviços Sociais da Guarda Nacional Republicana.
 
 ### CAPÍTULO IV — Dos benefícios
 
 #### SECÇÃO I — Do subsídio por morte
 
-###### Art. 8.º O subsídio a que se refere o artigo 2.º poderá ser, conforme o desejo do subscritor, de 20000$00 a 200000$00, por múltiplos de 5000$00.
+Art. 8.º O subsídio a que se refere o artigo 2.º poderá ser, conforme o desejo do subscritor, de 20000$00 a 200000$00, por múltiplos de 5000$00.
 
 § único. O subsídio vence-se por inteiro, a partir da data da entrada no Cofre da primeira quota que se lhe refere.
 
-###### Art. 9.º O subscritor que estiver inscrito num subsídio inferior ao máximo poderá em qualquer data, desde que não conte mais de 52 anos de idade, elevá-lo até esse máximo, por múltiplos de 5000$00, ficando sujeito, em relação ao aumento, ao acréscimo da quota correspondente à idade que tiver na data em que o aumento se verificar.
+Art. 9.º O subscritor que estiver inscrito num subsídio inferior ao máximo poderá em qualquer data, desde que não conte mais de 52 anos de idade, elevá-lo até esse máximo, por múltiplos de 5000$00, ficando sujeito, em relação ao aumento, ao acréscimo da quota correspondente à idade que tiver na data em que o aumento se verificar.
 
 § único. O subsídio aumentado vence-se de harmonia com a tabela C e nas condições nela referidas.
 
-###### Art. 10.º Os subsídios a legar por morte, em vigor em 31 de Dezembro de 1963, são aumentados, para os antigos subscritores existentes à data de entrada em vigor da presente portaria, em 75%, continuando, contudo, os subscritores a pagar as mesmas quotas.
+Art. 10.º Os subsídios a legar por morte, em vigor em 31 de Dezembro de 1963, são aumentados, para os antigos subscritores existentes à data de entrada em vigor da presente portaria, em 75%, continuando, contudo, os subscritores a pagar as mesmas quotas.
 
-###### Art. 11.º O direito ao subsídio será regulado da forma seguinte:
+Art. 11.º O direito ao subsídio será regulado da forma seguinte:
 
 a) Deixando o subscritor só viúva ou viúva e filhas e filhos maiores de 18 anos, terá aquela direito à totalidade do subsídio;
 
@@ -176,17 +192,17 @@ j) Não se dando nenhum dos requisitos estabelecidos nas alíneas anteriores, re
 
 2 - A declaração a que se refere a alínea g) deste artigo poderá ser substituída pelo subscritor sempre que o desejar.
 
-###### Art. 12.º Os subscritores que tenham mais de 60 anos de idade e não tenham nenhum dos herdeiros de que tratam as alíneas a) a f) do artigo anterior poderão, mediante requerimento dirigido à direcção, levantar a importância correspondente a 80% da sua reserva matemática, perdendo o direito a legar o respectivo subsídio.
+Art. 12.º Os subscritores que tenham mais de 60 anos de idade e não tenham nenhum dos herdeiros de que tratam as alíneas a) a f) do artigo anterior poderão, mediante requerimento dirigido à direcção, levantar a importância correspondente a 80% da sua reserva matemática, perdendo o direito a legar o respectivo subsídio.
 
-###### Art. 13.º Não tem direito ao subsídio o herdeiro ou legatário que for judicialmente condenado como autor ou cúmplice ou encobridor da morte do subscritor.
+Art. 13.º Não tem direito ao subsídio o herdeiro ou legatário que for judicialmente condenado como autor ou cúmplice ou encobridor da morte do subscritor.
 
-###### Art. 14.º Os subsídios que não forem reclamados dentro do prazo de 3 anos, a contar da data do falecimento do subscritor, reverterão para o Cofre.
+Art. 14.º Os subsídios que não forem reclamados dentro do prazo de 3 anos, a contar da data do falecimento do subscritor, reverterão para o Cofre.
 
-###### Art. 15.º O subscritor que se inscrever para um subsídio superior ao mínimo fixado no artigo 8.º poderá dispor, a favor de quem desejar, de um terço do subsídio que tiver direito a legar, para o que deverá entregar à direcção uma declaração análoga àquela de que trata a alínea g) do artigo 11.º
+Art. 15.º O subscritor que se inscrever para um subsídio superior ao mínimo fixado no artigo 8.º poderá dispor, a favor de quem desejar, de um terço do subsídio que tiver direito a legar, para o que deverá entregar à direcção uma declaração análoga àquela de que trata a alínea g) do artigo 11.º
 
 #### SECÇÃO II — Dos empréstimos para habitação própria
 
-###### Art. 16.º Nenhum empréstimo pode exceder o montante do subsídio por morte vencido à data em que for contraído, salvo o disposto no n.º 5.
+Art. 16.º Nenhum empréstimo pode exceder o montante do subsídio por morte vencido à data em que for contraído, salvo o disposto no n.º 5.
 
 1 - Os empréstimos serão amortizáveis no máximo de 120 prestações mensais e terão de estar liquidados até à data em que o subscritor perfaça 65 anos de idade.
 
@@ -202,7 +218,7 @@ j) Não se dando nenhum dos requisitos estabelecidos nas alíneas anteriores, re
 
 ### CAPÍTULO V — Dos fundos
 
-###### Art. 17.º As receitas do Cofre desdobram-se nas seguintes:
+Art. 17.º As receitas do Cofre desdobram-se nas seguintes:
 
 a) Quotas;
 
@@ -212,13 +228,13 @@ c) Subvenções, donativos e quaisquer outras receitas não especificadas;
 
 d) Subsídios e reservas matemáticas prescritas.
 
-###### Art. 18.º As despesas do Cofre consistem nas seguintes:
+Art. 18.º As despesas do Cofre consistem nas seguintes:
 
 a) Subsídios por morte e empréstimos para habitação própria;
 
 b) Gastos de administração e outras despesas.
 
-###### Art. 19.º Constituirão fundos e contas distintas:
+Art. 19.º Constituirão fundos e contas distintas:
 
 a) As reservas matemáticas destinadas a assegurar a satisfação dos subsídios por morte;
 
@@ -236,29 +252,29 @@ e) A provisão para flutuação de títulos de crédito.
 
 3 - O movimento de cada gerência será apurado, com referência a 31 de Dezembro de cada ano, na conta «Fundo disponível».
 
-###### Art. 20.º Os valores das reservas matemáticas e do fundo de reserva deverão ser aplicados em títulos do Estado ou por este garantidos, em empréstimos para aquisição, construção, reparação ou benfeitoria da casa própria dos subscritores do Cofre e na aquisição de casas de renda económica para habitação dos subscritores.
+Art. 20.º Os valores das reservas matemáticas e do fundo de reserva deverão ser aplicados em títulos do Estado ou por este garantidos, em empréstimos para aquisição, construção, reparação ou benfeitoria da casa própria dos subscritores do Cofre e na aquisição de casas de renda económica para habitação dos subscritores.
 
 § único. O limite total dos empréstimos em curso para fomento de habitação a financiar pelo Cofre de Previdência não poderá exceder 25% da soma dos valores das reservas matemáticas e do fundo de reserva.
 
 ### CAPÍTULO VI — Da administração
 
-###### Art. 21.º A gerência do Cofre é confiada à direcção dos Serviços Sociais da Guarda Nacional Republicana.
+Art. 21.º A gerência do Cofre é confiada à direcção dos Serviços Sociais da Guarda Nacional Republicana.
 
-###### Art. 22.º A administração, escrita, contabilidade e fiscalização do Cofre serão reguladas, em instruções especiais, pela direcção dos Serviços Sociais da Guarda Nacional Republicana.
+Art. 22.º A administração, escrita, contabilidade e fiscalização do Cofre serão reguladas, em instruções especiais, pela direcção dos Serviços Sociais da Guarda Nacional Republicana.
 
 ### CAPÍTULO VII — Das penalidades
 
-###### Art. 23.º Serão expulsos do Cofre os subscritores que forem expulsos das fileiras da Guarda Nacional Republicana, podendo, porém, receber na ocasião, se assim o solicitarem, uma importância correspondente a parte da sua reserva matemática, nunca superior a 70%.
+Art. 23.º Serão expulsos do Cofre os subscritores que forem expulsos das fileiras da Guarda Nacional Republicana, podendo, porém, receber na ocasião, se assim o solicitarem, uma importância correspondente a parte da sua reserva matemática, nunca superior a 70%.
 
-###### Art. 24.º Perderão a qualidade de subscritores sem direito a restituição da reserva matemática os que deverem 4 ou mais quotas e, depois de notificados para pagarem a importância em dívida e respectivos juros, o não fizerem no prazo que lhes tiver sido fixado (a taxa de juro será a praticada nos juros de mora do Estado).
+Art. 24.º Perderão a qualidade de subscritores sem direito a restituição da reserva matemática os que deverem 4 ou mais quotas e, depois de notificados para pagarem a importância em dívida e respectivos juros, o não fizerem no prazo que lhes tiver sido fixado (a taxa de juro será a praticada nos juros de mora do Estado).
 
 ### CAPÍTULO VIII — Das disposições gerais
 
-###### Art. 25.º Das decisões da direcção cabe recurso para o general comandante-geral da Guarda Nacional Republicana.
+Art. 25.º Das decisões da direcção cabe recurso para o general comandante-geral da Guarda Nacional Republicana.
 
-###### Art. 26.º Este Regulamento entra em vigor no dia seguinte ao da sua publicação.
+Art. 26.º Este Regulamento entra em vigor no dia seguinte ao da sua publicação.
 
-###### Art. 27.º Fica revogado o Regulamento do Cofre de Previdência das Praças da Guarda Nacional Republicana, aprovado pela [Portaria n.º 10595](https://diariodarepublica.pt/dr/detalhe/portaria/10595-1944-272239), de 4 de Fevereiro de 1944, e tudo o que sobre a matéria está publicado do antecedente que contrarie as disposições da presente portaria.
+Art. 27.º Fica revogado o Regulamento do Cofre de Previdência das Praças da Guarda Nacional Republicana, aprovado pela [Portaria n.º 10595](https://diariodarepublica.pt/dr/detalhe/portaria/10595-1944-272239), de 4 de Fevereiro de 1944, e tudo o que sobre a matéria está publicado do antecedente que contrarie as disposições da presente portaria.
 
 TABELA A
 
@@ -294,12 +310,12 @@ Empréstimos para habitação própria
 
 (Prestações mensais por cada 5000$00 de empréstimo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf)
 
 TABELA C
 
 Aumento de subsídio: sua liquidação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13200/20872090.pdf)
 
 Nota. - Se o falecimento do subscritor ocorrer antes de terminados estes períodos, as importâncias pagas correspondentes ao aumento de quota serão restituídas juntamente com o subsídio anterior vencido.

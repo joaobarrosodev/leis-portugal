@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/35003502.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/218/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2007-638528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79ac1223ec90c2b2406cfde56a937d9349eb7c5f8cc72e29532983fce776f0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b825be859fc0e8dc1eb4dda3cfba5c34f5104c3a0ffd1b2c9d20c92529b7ea2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ALTO Comissário da Saúde
-- Direção Geral da Saúde
-- Coordenador Nacional
-- Definição de Competências
 - ALTO Comissariado da Saúde
 - ALTO Comissário Adjunto da Saúde
+- ALTO Comissário da Saúde
+- Coordenador Nacional
+- Definição de Competências
+- Direção Geral da Saúde
+- Estatuto Remuneratório
 - Orgânica
 - Plano Nacional de Saúde
-- Estatuto Remuneratório
 relationships:
 - type: amended_by
   target: pt:dre:543721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334117:por
+  label: "Alterados os art.s 2º, 3º, 4º e 5º, pelo DEC LEI.91/2010.22.07.2010.MS, DR.IS [141] de 22.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2010-334117
+  date: '2010-07-22'
+- type: amended_by
+  target: pt:dre:145186:por
+  label: "Extinto, sendo objecto de fusão, o Alto Comissariado da Saúde e integradas as suas atribuições na Direcção-Geral\
+    \ da Saúde, com excepção das atribuições no domínio da avaliação do PNS, que são integradas no Instituto Nacional de Saúde\
+    \ Doutor Ricardo Jorge, I. P., pelo DEC LEI.124/2011.29.12.2011.MS, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544428:por
+  label: "Determinada a sucessão da DGS nas atribuições do Alto Comissariado da Saúde, com exceção das atribuições no domínio\
+    \ da avaliação do Plano Nacional de Saúde, pelo DR.14/2012.26.01.2012.MS, DR.IS [19] de 26.01.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-2012-544428
+  date: '2012-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre
   label: null
@@ -87,16 +105,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
+- type: cites
+  target: pt:dre:241792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543721:por
+  label: "Revogado o presente diploma, a partir de 01.03.2012, na redacção do Dec Lei 91/2010, de 22- Jul, pelo DEC LEI.27/2012.08.02.2012.MS,\
+    \ DR.IS [28] de 08.02.2012, sucedendo o INSA, I. P., nas atribuições do Alto-Comissariado da Saúde no domínio da avaliação\
+    \ do Plano Nacional de Saúde.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2012-543721
+  date: '2012-02-08'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:03Z'
   warnings: []
   errors: []
 ---
@@ -223,16 +256,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/35003502.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/35003502.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/35003502.pdf)

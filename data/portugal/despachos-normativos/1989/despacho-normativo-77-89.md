@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-1989-618522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0065faec02e1cb0cd71b38746162b38a0d473fe4f83f0863d8159d30a6c4f0c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47a8fe63cdf92be61dd6332a01b09e034aed80ca4188a824a086f53d9412f4e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506178:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:45Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Nos termos do artigo único do [Decreto n.º 17/76](https://diariodarepublica.pt
 
 1 - É aditado ao Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, um artigo, 331.º-A, com a seguinte redacção:
 
-###### Art. 331.º-A. Quando as exportações se efectuarem pela via marítima em recintos de embarque especialmente preparados para a movimentação de contentores, dotados de estatuto aduaneiro, nomeadamente de depósito geral franco, e estiverem sob gestão, com carácter de permanência, de uma entidade juridicamente definida, compete à entidade gestora a identificação e o registo dos embarques.
+Art. 331.º-A. Quando as exportações se efectuarem pela via marítima em recintos de embarque especialmente preparados para a movimentação de contentores, dotados de estatuto aduaneiro, nomeadamente de depósito geral franco, e estiverem sob gestão, com carácter de permanência, de uma entidade juridicamente definida, compete à entidade gestora a identificação e o registo dos embarques.
 
 § 1.º O resultado dessa diligência será objecto de uma listagem a elaborar pela entidade gestora, que deverá ser de imediato entregue nos serviços aduaneiros instalados no respectivo local e dela deverão constar os seguintes elementos:
 
@@ -118,7 +130,7 @@ e) Dar cumprimento aos procedimentos que forem mandados adoptar por despacho do 
 
 2 - É aditado um parágrafo ao artigo 356.º do Regulamento das Alfândegas, com a seguinte redacção:
 
-###### Art. 356.º ...
+Art. 356.º ...
 
 § único. Quando os embarques se efectuarem em locais abrangidos pelo disposto no artigo 331.º-A deste Regulamento, os procedimentos nele previstos como prova de embarque equivalem aos recibos passados pelos capitães.
 

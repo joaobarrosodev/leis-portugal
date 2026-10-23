@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22396-1966-477982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238ba0eb65a2f5b26467c4c418dd3fc070c9d0ede68ba3f23cf161b0e5a17044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef7af237cfb871e519fad1bf11dd31da2f92a4e07cef4a9ecfead6e12f07181e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ relationships:
   target: pt:dre:431400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431400:por
+  label: Alterados o n.º 5.º do art. 39.º e os arts. 42.º, 43.º, 45.º e 51.º do Regulamento dos Processos Relativos à Circulação
+    de Viaturas Automóveis do Exército, pelo(a) Portaria n.º 396/76 - Diário da República n.º 154/1976, Série I de 1976-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/396-1976-431400
+  date: '1976-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:43Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ REGULAMENTO DOS PROCESSOS RELATIVOS À CIRCULAÇÃO DE VIATURAS AUTOMÓVEIS DO E
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Todo o acidente de viação ocorrido com viaturas militares dará sempre lugar a um processo disciplinar.
+Artigo 1.º Todo o acidente de viação ocorrido com viaturas militares dará sempre lugar a um processo disciplinar.
 
 Simultâneamente a este instaurar-se-á ainda:
 
@@ -108,21 +114,21 @@ Simultâneamente a este instaurar-se-á ainda:
 
 3.º Processo por desastre em serviço, nos termos da regulamentação própria.
 
-###### Art. 2.º As infracções às normas reguladoras do serviço automóvel militar darão também origem a processo disciplinar autónomo se, cumulativamente, não ocorrer acidente de viação. Caso este se verifique, serão aquelas infracções averiguadas no mesmo e único processo.
+Art. 2.º As infracções às normas reguladoras do serviço automóvel militar darão também origem a processo disciplinar autónomo se, cumulativamente, não ocorrer acidente de viação. Caso este se verifique, serão aquelas infracções averiguadas no mesmo e único processo.
 
-###### Art. 3.º A elaboração do processo disciplinar será facultativa quando a infracção possa ser apreciada e julgada pelo comandante da unidade ou chefe do estabelecimento a que pertencer o infractor.
+Art. 3.º A elaboração do processo disciplinar será facultativa quando a infracção possa ser apreciada e julgada pelo comandante da unidade ou chefe do estabelecimento a que pertencer o infractor.
 
-###### Art. 4.º Para os efeitos do presente regulamento é também considerado acidente de viação o facto danoso resultante da circulação de veículos em locais não considerados vias públicas, como, por exemplo, as áreas dos aquartelamentos. Porém, neste caso, a culpabilidade será apreciada à luz dos princípios gerais ou normas privativas que eventualmente existam, não tendo, assim, aplicabilidade as disposições do Código da Estrada.
+Art. 4.º Para os efeitos do presente regulamento é também considerado acidente de viação o facto danoso resultante da circulação de veículos em locais não considerados vias públicas, como, por exemplo, as áreas dos aquartelamentos. Porém, neste caso, a culpabilidade será apreciada à luz dos princípios gerais ou normas privativas que eventualmente existam, não tendo, assim, aplicabilidade as disposições do Código da Estrada.
 
-###### Art. 5.º Sem prejuízo da acção fiscalizadora da polícia militar, nos termos do que se achar regulamentado, todo o militar, ao qual assista pelo Regulamento de Disciplina Militar ou Código de Justiça Militar o dever de denúncia, incorrerá em responsabilidade disciplinar se tomar conhecimento de acidente de viação com viaturas do Exército, ou verificar que alguma circula em contravenção das disposições regulamentares, e não o comunicar superiormente.
+Art. 5.º Sem prejuízo da acção fiscalizadora da polícia militar, nos termos do que se achar regulamentado, todo o militar, ao qual assista pelo Regulamento de Disciplina Militar ou Código de Justiça Militar o dever de denúncia, incorrerá em responsabilidade disciplinar se tomar conhecimento de acidente de viação com viaturas do Exército, ou verificar que alguma circula em contravenção das disposições regulamentares, e não o comunicar superiormente.
 
 ### CAPÍTULO II — Do processo disciplinar
 
 #### SECÇÃO I — Objecto do processo e entidades competentes para o seu julgamento
 
-###### Art. 6.º O proceso disciplinar tem por fim o apuramento da responsabilidade do arguido ou arguidos em face do dever de respeito, quer pelas regras de trânsito, quer pelas normas reguladoras do serviço automóvel militar e, ainda, o apuramento de responsabilidades pelos prejuízos materiais causados.
+Art. 6.º O proceso disciplinar tem por fim o apuramento da responsabilidade do arguido ou arguidos em face do dever de respeito, quer pelas regras de trânsito, quer pelas normas reguladoras do serviço automóvel militar e, ainda, o apuramento de responsabilidades pelos prejuízos materiais causados.
 
-###### Art. 7.º Serão exclusivamente julgados pelo Ministro ou Subsecretário de Estado do Exército:
+Art. 7.º Serão exclusivamente julgados pelo Ministro ou Subsecretário de Estado do Exército:
 
 1.º Os processos disciplinares por acidente de viação com viaturas militares sempre que neste também intervenham viaturas ou elementos estranhos ao Ministério do Exército, ou que do mesmo resultem danos para terceiros;
 
@@ -136,13 +142,13 @@ b) Condução não autorizada e sem motivo justificado de viatura militar na via
 
 4.º Os processos disciplinares relacionados com a circulação de viaturas militares, sempre que o arguido tenha a patente de capitão ou superior.
 
-###### Art. 8.º A culpa grave para efeitos do n.º 2.º do artigo anterior supõe sempre a verificação de um dos seguintes requisitos:
+Art. 8.º A culpa grave para efeitos do n.º 2.º do artigo anterior supõe sempre a verificação de um dos seguintes requisitos:
 
 a) A embriaguez completa ou incompleta do condutor, quando o acidente resulte de falta de destreza, atenção ou segurança, provenientes desse estado, exceptuando-se apenas o caso de embriaguez imprevista;
 
 b) O excesso de velocidade, quando o acidente resulte dessa circunstância, entendendo-se para esse efeito a velocidade que exceda os limites máximos estabelecidos para a circulação de viaturas militares.
 
-###### Art. 9.º Nos restantes casos não compreendidos no artigo 7.º os processos disciplinares serão julgados pelos comandantes das regiões militares e comandos territoriais independentes.
+Art. 9.º Nos restantes casos não compreendidos no artigo 7.º os processos disciplinares serão julgados pelos comandantes das regiões militares e comandos territoriais independentes.
 
 § único. Será porém da competência do comando da unidade ou chefe do estabelecimento, se outras faltas não concorrerem que a tal obste, a punição das seguintes infracções:
 
@@ -152,7 +158,7 @@ b) O excesso de velocidade, quando o acidente resulte dessa circunstância, ente
 
 3.º A falta de limpeza ou negligência no tratamento das viaturas, se destas faltas não resultarem prejuízos que impeçam o seu funcionamento.
 
-###### Art. 10.º Quando, nos termos do artigo 7.º, o julgamento das infracções cometidas for da competência ministerial, os serviços de justiça das regiões militares ou comandos territoriais independentes farão subir ao Ministério do Exército o respectivo processo acompanhado de uma informação da qual conste:
+Art. 10.º Quando, nos termos do artigo 7.º, o julgamento das infracções cometidas for da competência ministerial, os serviços de justiça das regiões militares ou comandos territoriais independentes farão subir ao Ministério do Exército o respectivo processo acompanhado de uma informação da qual conste:
 
 1.º A descrição dos factos;
 
@@ -170,7 +176,7 @@ b) O excesso de velocidade, quando o acidente resulte dessa circunstância, ente
 
 ##### SUBSECÇÃO I — Organização do processo
 
-###### Art. 11.º Dos processos disciplinares por acidente de viação deverá sempre constar:
+Art. 11.º Dos processos disciplinares por acidente de viação deverá sempre constar:
 
 1.º A participação do facto que lhes dá origem;
 
@@ -202,35 +208,35 @@ b) O excesso de velocidade, quando o acidente resulte dessa circunstância, ente
 
 15.º O relatório do oficial averiguante, com a descrição sumária e clara da ocorrência, e conclusões precisas sobre a responsabilidade ou irresponsabilidade do arguido, indicando-se os factos provados, com os correspondentes deveres militares infringidos, os factos não provados e as circunstâncias agravantes e atenuantes, devendo ainda indicar-se se o arguido tem auto de corpo de delito pendente pelos factos respeitantes ao processo em causa, ou se tem qualquer outro processo de averiguações que esteja correndo seus termos, e se foi ou não despojado da sua carta de condução.
 
-###### Art. 12.º No relatório da reconstituição do acidente a que se refere o n.º 4.º do artigo anterior devem ser descritas as condições do local ao tempo do acidente e as posições relativas dos veículos intervenientes e relatadas, pormenorizadamente, as causas que lhe terão dado origem, bem como as conclusões sobre a culpabilidade. Estas deverão ser expressas em termos de percentagem sempre que se entenda haver concorrência de culpas.
+Art. 12.º No relatório da reconstituição do acidente a que se refere o n.º 4.º do artigo anterior devem ser descritas as condições do local ao tempo do acidente e as posições relativas dos veículos intervenientes e relatadas, pormenorizadamente, as causas que lhe terão dado origem, bem como as conclusões sobre a culpabilidade. Estas deverão ser expressas em termos de percentagem sempre que se entenda haver concorrência de culpas.
 
 § único. À reconstituição assistirão sempre os arguidos, os declarantes e as testemunhas, salvo impedimento devidamente justificado.
 
-###### Art. 13.º Por avaliação pericial dos danos sofridos pelas viaturas militares a que se refere o n.º 6.º do artigo 12.º deve entender-se o duplicado ou cópia autenticada da primeira das avaliações que instituirão o processo administrativo autónomo relativo à matéria de prejuízos.
+Art. 13.º Por avaliação pericial dos danos sofridos pelas viaturas militares a que se refere o n.º 6.º do artigo 12.º deve entender-se o duplicado ou cópia autenticada da primeira das avaliações que instituirão o processo administrativo autónomo relativo à matéria de prejuízos.
 
 Porém, se antes de encerrado o processo disciplinar se tiver conhecimento da conclusão definitiva daquela matéria, deverá a mesma constar, por simples termo, do processo disciplinar.
 
-###### Art. 14.º Desde que se torne necessário efectuar a avaliação dos prejuízos sofridos por veículos civis, o respectivo exame pericial deverá ser feito pelos peritos militares e por um perito civil a requisitar pelo oficial averiguante à companhia seguradora ou ao proprietário do veículo, conforme este estiver ou não no seguro, devendo proceder-se a essa peritagem no prazo máximo de oito dias após o acidente; por outro lado, a companhia seguradora ou o proprietário do veículo devem logo ser informados da conveniência de, entretanto, não procederem à sua reparação.
+Art. 14.º Desde que se torne necessário efectuar a avaliação dos prejuízos sofridos por veículos civis, o respectivo exame pericial deverá ser feito pelos peritos militares e por um perito civil a requisitar pelo oficial averiguante à companhia seguradora ou ao proprietário do veículo, conforme este estiver ou não no seguro, devendo proceder-se a essa peritagem no prazo máximo de oito dias após o acidente; por outro lado, a companhia seguradora ou o proprietário do veículo devem logo ser informados da conveniência de, entretanto, não procederem à sua reparação.
 
 § 1.º A mesma doutrina, com as necessárias adaptações, aplicar-se-á à avaliação de outros quaisquer danos materiais causados a terceiros.
 
 § 2.º Incorre em responsabilidade disciplinar o oficial averiguante que, por exceder injustificadamente aquele prazo ou não fazer aquela informação, causar prejuízos à Fazenda Nacional.
 
-###### Art. 15.º Se, por motivo justificado, a viatura civil tiver sido mandada reparar antecipadamente ao exame pericial de que trata o artigo anterior, de modo a tornar impossível esse exame, o oficial averiguante solicitará ao proprietário do veículo ou à respectiva companhia seguradora as facturas comprovativas da sua reparação. Estas facturas deverão ser submetidas a apreciação dos peritos militares para que estes se pronunciem sobre a veracidade dos prejuízos nelas descritos em face das circunstâncias em que o acidente ocorreu.
+Art. 15.º Se, por motivo justificado, a viatura civil tiver sido mandada reparar antecipadamente ao exame pericial de que trata o artigo anterior, de modo a tornar impossível esse exame, o oficial averiguante solicitará ao proprietário do veículo ou à respectiva companhia seguradora as facturas comprovativas da sua reparação. Estas facturas deverão ser submetidas a apreciação dos peritos militares para que estes se pronunciem sobre a veracidade dos prejuízos nelas descritos em face das circunstâncias em que o acidente ocorreu.
 
-###### Art. 16.º O exame de reconstituição do acidente tem carácter obrigatório, só podendo ser dispensado em caso de emergência ou impossibilidade devidamente comprovadas.
+Art. 16.º O exame de reconstituição do acidente tem carácter obrigatório, só podendo ser dispensado em caso de emergência ou impossibilidade devidamente comprovadas.
 
-###### Art. 17.º Os exames médicos em caso de manifesta impossibilidade poderão ser levados a efeito por um só perito.
+Art. 17.º Os exames médicos em caso de manifesta impossibilidade poderão ser levados a efeito por um só perito.
 
-###### Art. 18.º Os peritos, assim como as testemunhas, deverão ser ajuramentados, nos termos legais, sob pena de nulidade dos respectivos actos.
+Art. 18.º Os peritos, assim como as testemunhas, deverão ser ajuramentados, nos termos legais, sob pena de nulidade dos respectivos actos.
 
 ##### SUBSECÇÃO II — Prazos para a conclusão do processo
 
-###### Art. 19.º Salvo caso de força maior, devidamente justificado, os processos, obrigatòriamente envolvidos por uma capa de papel almaço branco e cosidos, deverão ser concluídos no prazo de 30 dias após a data da ocorrência.
+Art. 19.º Salvo caso de força maior, devidamente justificado, os processos, obrigatòriamente envolvidos por uma capa de papel almaço branco e cosidos, deverão ser concluídos no prazo de 30 dias após a data da ocorrência.
 
 Os processos que se destinarem ao Ministério do Exército deverão dar a respectiva entrada no prazo máximo de 40 dias contados da mesma data; para o caso de os factos que deram origem ao processo terem ocorrido nas ilhas adjacentes ou no ultramar, o prazo indicado em segundo lugar poderá ser excedido em 20 dias.
 
-###### Art. 20.º Incorre em responsabilidade disciplinar o oficial instrutor do processo que, sem a devida justificação, exceder o prazo estabelecido no artigo antecedente.
+Art. 20.º Incorre em responsabilidade disciplinar o oficial instrutor do processo que, sem a devida justificação, exceder o prazo estabelecido no artigo antecedente.
 
 § único. Os quartéis-generais, por intermédio dos serviços de justiça respectivos, fiscalizarão o cumprimento daquele prazo e, quando excedido, apreciarão os motivos alegados como justificação.
 
@@ -238,7 +244,7 @@ Os processos que se destinarem ao Ministério do Exército deverão dar a respec
 
 ##### SUBSECÇÃO I — Privação temporária da carta de condução
 
-###### Art. 21.º O condutor da viatura militar acidentada aguardará em liberdade a decisão do processo disciplinar e ser-lhe-á imediatamente apreendida a carta de condução, excepto se, desde logo, se verificar uma das seguintes circunstâncias:
+Art. 21.º O condutor da viatura militar acidentada aguardará em liberdade a decisão do processo disciplinar e ser-lhe-á imediatamente apreendida a carta de condução, excepto se, desde logo, se verificar uma das seguintes circunstâncias:
 
 a) Ausência de culpa na produção do acidente;
 
@@ -248,13 +254,13 @@ b) Manifesta e imperiosa necessidade de serviço, mas só enquanto tal necessida
 
 § 2.º A apreciação das referidas circunstâncias será de responsabilidade do comandante da unidade ou chefe do estabelecimento a que pertencer o arguido. Para este efeito o processo irá com vista àquelas entidades.
 
-###### Art. 22.º Quando ao arguido tenha sido apreendida a carta de condução, o comandante da unidade ou chefe do estabelecimento, após concluídos os autos de peritagem e numa primeira apreciação, sob proposta fundamentada do oficial instrutor do processo, poderá restituir a carta ao condutor.
+Art. 22.º Quando ao arguido tenha sido apreendida a carta de condução, o comandante da unidade ou chefe do estabelecimento, após concluídos os autos de peritagem e numa primeira apreciação, sob proposta fundamentada do oficial instrutor do processo, poderá restituir a carta ao condutor.
 
 § único. A referida proposta só se entende devidamente fundamentada se tiver por base alguma das circunstâncias previstas no artigo anterior.
 
 ##### SUBSECÇÃO II — O chefe da viatura - Sua responsabilidade disciplinar
 
-###### Art. 23.º Quando numa viatura militar seguir um militar de maior graduação ou antiguidade do que o condutor, assumirá ele o comando da viatura, ficando responsável pela disciplina do pessoal transportado e, bem assim, pelo cumprimento das disposições em vigor sobre a circulação de viaturas automóveis do Exército.
+Art. 23.º Quando numa viatura militar seguir um militar de maior graduação ou antiguidade do que o condutor, assumirá ele o comando da viatura, ficando responsável pela disciplina do pessoal transportado e, bem assim, pelo cumprimento das disposições em vigor sobre a circulação de viaturas automóveis do Exército.
 
 Em caso de acidente, e se este for devido a excesso de velocidade, o chefe da viatura é também disciplinarmente responsável.
 
@@ -262,19 +268,19 @@ Em caso de acidente, e se este for devido a excesso de velocidade, o chefe da vi
 
 ##### SUBSECÇÃO III — Responsabilidade dos instrutores, instruendos e examinandos
 
-###### Art. 24.º Os instrutores são disciplinarmente responsáveis pelos acidentes causados pelos instruendos, excepto se aqueles resultarem de desobediência intencional às indicações da instrução, ou, no caso de esta ser ministrada em viatura de comando simples, ser-lhes impossível intervir de modo a evitar o acidente.
+Art. 24.º Os instrutores são disciplinarmente responsáveis pelos acidentes causados pelos instruendos, excepto se aqueles resultarem de desobediência intencional às indicações da instrução, ou, no caso de esta ser ministrada em viatura de comando simples, ser-lhes impossível intervir de modo a evitar o acidente.
 
-###### Art. 25.º Sem prejuízo do disposto no artigo 23.º, os examinandos respondem disciplinarmente pelos acidentes que causem durante o exame.
+Art. 25.º Sem prejuízo do disposto no artigo 23.º, os examinandos respondem disciplinarmente pelos acidentes que causem durante o exame.
 
 ##### SUBSECÇÃO IV — Responsabilidade pelo transporte de pessoal não autorizado
 
-###### Art. 26.º Os condutores das viaturas militares ou os chefes das mesmas, quando os houver, são disciplinarmente responsáveis pelo transporte de pessoas que não figurem nos respectivos boletins de serviço, pelo que destes deve constar sempre a relação das pessoas autorizadas a seguirem nas viaturas.
+Art. 26.º Os condutores das viaturas militares ou os chefes das mesmas, quando os houver, são disciplinarmente responsáveis pelo transporte de pessoas que não figurem nos respectivos boletins de serviço, pelo que destes deve constar sempre a relação das pessoas autorizadas a seguirem nas viaturas.
 
 ##### SUBSECÇÃO V — A atenuante do pagamento voluntário dos prejuízos
 
-###### Art. 27.º A espontânea reparação dos danos resultantes de um acidente de viação constitui sempre circunstância atenuante no julgamento das infracções cometidas.
+Art. 27.º A espontânea reparação dos danos resultantes de um acidente de viação constitui sempre circunstância atenuante no julgamento das infracções cometidas.
 
-###### Art. 28.º O arguido que quiser beneficiar da atenuante referida no artigo anterior deverá constituir-se na obrigação efectivada de pagar, total ou parcialmente, os prejuízos a que deu azo ou com as quais se tornou solidário.
+Art. 28.º O arguido que quiser beneficiar da atenuante referida no artigo anterior deverá constituir-se na obrigação efectivada de pagar, total ou parcialmente, os prejuízos a que deu azo ou com as quais se tornou solidário.
 
 Normalmente, tal obrigação será efectivada a pronto, antes do julgamento disciplinar, mediante depósito, no conselho administrativo da unidade, da importância a que se obrigou.
 
@@ -286,7 +292,7 @@ Excepcionalmente, e quando o arguido pertença à classe de oficiais ou de sarge
 
 ### CAPÍTULO III — Do procedimento criminal
 
-###### Art. 29.º Haverá lugar a auto de corpo de delito, o qual correrá seus termos independentemente do processo disciplinar, nos seguintes casos:
+Art. 29.º Haverá lugar a auto de corpo de delito, o qual correrá seus termos independentemente do processo disciplinar, nos seguintes casos:
 
 1.º Quando de um acidente de viação com viatura militar resultarem mortes ou ofensas corporais que produzam mais de dez dias de doença ou impossibilidade para o trabalho;
 
@@ -296,19 +302,19 @@ Excepcionalmente, e quando o arguido pertença à classe de oficiais ou de sarge
 
 § 2.º No caso de a utilização abusiva de viaturas militares não ter natureza criminal, deverá, contudo, ser instaurado auto de corpo de delito pelo crime previsto e punido pelo artigo 218.º do Código de Justiça Militar, se de tal utilização tiver resultado um consumo de combustíveis e lubrificantes de valor superior a 100$00.
 
-###### Art. 30.º O auto de corpo de delito por acidente de viação tem como objectivo o apuramento da responsabilidade criminal em face das consequências de ordem pessoal que do acidente tenham resultado.
+Art. 30.º O auto de corpo de delito por acidente de viação tem como objectivo o apuramento da responsabilidade criminal em face das consequências de ordem pessoal que do acidente tenham resultado.
 
-###### Art. 31.º O auto de corpo de delito por utilização abusiva de viatura militar destina-se a apurar a responsabilidade pelo crime de furto de uso.
+Art. 31.º O auto de corpo de delito por utilização abusiva de viatura militar destina-se a apurar a responsabilidade pelo crime de furto de uso.
 
-###### Art. 32.º Sempre que não se verifique desobediência intencional dos instruendos, os instrutores figuram no auto de corpo de delito como autores morais das infracções penais cometidas por aqueles.
+Art. 32.º Sempre que não se verifique desobediência intencional dos instruendos, os instrutores figuram no auto de corpo de delito como autores morais das infracções penais cometidas por aqueles.
 
-###### Art. 33.º Instaurado auto de corpo de delito, seguir-se-á quanto à prisão preventiva o disposto no Código de Justiça Militar, na parte aplicável, conjugado com o disposto no Código da Estrada.
+Art. 33.º Instaurado auto de corpo de delito, seguir-se-á quanto à prisão preventiva o disposto no Código de Justiça Militar, na parte aplicável, conjugado com o disposto no Código da Estrada.
 
 ### CAPÍTULO IV — Do cancelamento definitivo da carta de condução
 
-###### Art. 34.º Por carta militar de condução entender-se-á o «certificado de capacidade para a condução de viaturas automóveis militares» ou o «boletim de condução», previsto e regulados pelas normas de execução permanente, da Direcção do Serviço de Transportes.
+Art. 34.º Por carta militar de condução entender-se-á o «certificado de capacidade para a condução de viaturas automóveis militares» ou o «boletim de condução», previsto e regulados pelas normas de execução permanente, da Direcção do Serviço de Transportes.
 
-###### Art. 35.º O cancelamento definitivo da carta militar de condução será sempre da competência ministerial e terá normalmente lugar nos seguintes casos:
+Art. 35.º O cancelamento definitivo da carta militar de condução será sempre da competência ministerial e terá normalmente lugar nos seguintes casos:
 
 1.º Quando o condutor, agindo com culpa grave, tenha dado origem a um acidente de viação com viatura militar;
 
@@ -322,7 +328,7 @@ Excepcionalmente, e quando o arguido pertença à classe de oficiais ou de sarge
 
 § único. Para os efeitos do n.º 1.º deste artigo, o conceito de culpa grave é o que se acha referido no artigo 8.º
 
-###### Art. 36.º Sempre que as circunstâncias previstas nos três últimos números do artigo anterior sejam do conhecimento das regiões militares ou comandos territoriais independentes, deverá ser organizado um processo disciplinar com a finalidade de se decidir se o condutor deve ou não continuar de posse da respectiva carta de condução.
+Art. 36.º Sempre que as circunstâncias previstas nos três últimos números do artigo anterior sejam do conhecimento das regiões militares ou comandos territoriais independentes, deverá ser organizado um processo disciplinar com a finalidade de se decidir se o condutor deve ou não continuar de posse da respectiva carta de condução.
 
 § 1.º Este processo, a enviar ao Ministério do Exército, será constituído pela nota de assentos do condutor acompanhada de uma proposta do comandante da unidade ou chefe do estabelecimento, da qual deverá constar sempre o seu juízo ampliativo sobre o interessado.
 
@@ -332,15 +338,15 @@ Excepcionalmente, e quando o arguido pertença à classe de oficiais ou de sarge
 
 #### SECÇÃO I — Objecto do processo
 
-###### Art. 37.º Sempre que de um acidente de viação com viaturas militares resultarem prejuízos para estas, terá lugar um processo autónomo com vistas ao apuramento exacto dos danos sofridos e à obtenção, tanto quanto possível rápida, da autorização para a sua reparação.
+Art. 37.º Sempre que de um acidente de viação com viaturas militares resultarem prejuízos para estas, terá lugar um processo autónomo com vistas ao apuramento exacto dos danos sofridos e à obtenção, tanto quanto possível rápida, da autorização para a sua reparação.
 
-###### Art. 38.º A instrução do processo ficará a cargo do mesmo oficial que for nomeado para a instrução do processo disciplinar.
+Art. 38.º A instrução do processo ficará a cargo do mesmo oficial que for nomeado para a instrução do processo disciplinar.
 
 #### SECÇÃO II — Organização e decisão do processo quando no acidente apenas intervenham viaturas militares
 
 ##### SUBSECÇÃO I — Organização do processo
 
-###### Art. 39.º Este processo será constituído por:
+Art. 39.º Este processo será constituído por:
 
 1.º Descrição sumária do acidente;
 
@@ -356,58 +362,58 @@ Excepcionalmente, e quando o arguido pertença à classe de oficiais ou de sarge
 
 7.º O visto do comandante da unidade ou chefe de estabelecimento.
 
-###### Art. 40.º No relatório pericial a que se refere o n.º 2.º do artigo anterior, os peritos deverão cingir-se, exclusivamente, aos danos causados pelo acidente, discriminando o valor atribuído aos materiais inutilizados e ao custo da mão-de-obra a empregar na reparação da viatura.
+Art. 40.º No relatório pericial a que se refere o n.º 2.º do artigo anterior, os peritos deverão cingir-se, exclusivamente, aos danos causados pelo acidente, discriminando o valor atribuído aos materiais inutilizados e ao custo da mão-de-obra a empregar na reparação da viatura.
 
 § único. O duplicado ou cópia autenticada deste relatório deverá ser junta ao processo disciplinar nos termos e para os efeitos do disposto no n.º 6.º do artigo 12.º deste regulamento.
 
-###### Art. 41.º As declarações a que referem os números 3.º e 4.º do artigo 39.º poderão ser exaradas por simples termo no processo.
+Art. 41.º As declarações a que referem os números 3.º e 4.º do artigo 39.º poderão ser exaradas por simples termo no processo.
 
-###### Art. 42.º O recurso a oficinas civis só se justificará se as várias oficinas militares declararem não ter possibilidades técnicas, ou o excessivo trabalho lhes não permitir que seja nelas reparada a viatura.
+Art. 42.º O recurso a oficinas civis só se justificará se as várias oficinas militares declararem não ter possibilidades técnicas, ou o excessivo trabalho lhes não permitir que seja nelas reparada a viatura.
 
 ##### SUBSECÇÃO II — Decisão do processo e respectiva comunicação
 
-###### Art. 43.º O processo, assim instruído, será remetido pelas vias competentes à 3.ª Repartição da Direcção do Serviço de Material para que esta julgue da conveniência da reparação da viatura do ponto de vista técnico e logístico e, caso afirmativo, proceda à apreciação e aprovação do orçamento mais conveniente.
+Art. 43.º O processo, assim instruído, será remetido pelas vias competentes à 3.ª Repartição da Direcção do Serviço de Material para que esta julgue da conveniência da reparação da viatura do ponto de vista técnico e logístico e, caso afirmativo, proceda à apreciação e aprovação do orçamento mais conveniente.
 
-###### Art. 44.º Emitido e exarado nos autos o parecer técnico a que se refere o artigo anterior, a 3.ª Repartição da Direcção do Serviço de Material solicitará a conveniente autorização superior, quer para dispêndio da verba aprovada e oportunidade da reparação, quer para se proceder ao competente auto de incapacidade.
+Art. 44.º Emitido e exarado nos autos o parecer técnico a que se refere o artigo anterior, a 3.ª Repartição da Direcção do Serviço de Material solicitará a conveniente autorização superior, quer para dispêndio da verba aprovada e oportunidade da reparação, quer para se proceder ao competente auto de incapacidade.
 
-###### Art. 45.º Obtida esta autorização, será ela comunicada ao quartel-general que enviou o processo e, através deste, à unidade a que pertencer a viatura.
+Art. 45.º Obtida esta autorização, será ela comunicada ao quartel-general que enviou o processo e, através deste, à unidade a que pertencer a viatura.
 
 § único. Nesta comunicação mencionar-se-á sempre a matrícula da viatura, a identidade militar do respectivo condutor e o local e data do acidente.
 
-###### Art. 46.º O disposto nesta subsecção não se aplica a nenhuma das regiões militares ou comandos territoriais independentes das províncias ultramarinas, cabendo aos respectivos comandantes a autorização de despesas com a reparação das viaturas militares acidentadas, excepto se a verba a despender ultrapassar a sua competência administrativa.
+Art. 46.º O disposto nesta subsecção não se aplica a nenhuma das regiões militares ou comandos territoriais independentes das províncias ultramarinas, cabendo aos respectivos comandantes a autorização de despesas com a reparação das viaturas militares acidentadas, excepto se a verba a despender ultrapassar a sua competência administrativa.
 
 #### SECÇÃO III — Organização e decisão do processo quando no acidente intervenham viaturas ou elementos estranhos ao Ministério do Exército
 
 ##### SUBSECÇÃO I — Organização do processo
 
-###### Art. 47.º O processo será organizado nos termos do artigo 39.º, com as seguintes diferenças:
+Art. 47.º O processo será organizado nos termos do artigo 39.º, com as seguintes diferenças:
 
 1.º À avaliação dos prejuízos sofridos pela viatura militar assistirá o proprietário da viatura civil ou perito nomeado por este ou pela companhia seguradora, o mesmo valendo em relação a qualquer outro agente causador do acidente, desde que estranho ao Ministério do Exército.
 
 2.º Devem constar ainda as declarações do proprietário da viatura civil ou da companhia seguradora sobre se aceitam responsabilizar-se, e em que medida, pelos prejuízos causados ao Estado, observando-se o mesmo em relação a outros intervenientes desde que estranhos ao Ministério do Exército.
 
-###### Art. 48.º A avaliação dos prejuízos sofridos pelas viaturas civis ou de outros quaisquer danos sofridos por terceiros continua a constar apenas do processo disciplinar, não interessando, portanto, ao processo relativo à matéria de prejuízos.
+Art. 48.º A avaliação dos prejuízos sofridos pelas viaturas civis ou de outros quaisquer danos sofridos por terceiros continua a constar apenas do processo disciplinar, não interessando, portanto, ao processo relativo à matéria de prejuízos.
 
 ##### SUBSECÇÃO II — Decisão do processo e respectiva comunicação
 
-###### Art. 49.º O processo, assim organizado, seguirá a mesma tramitação estabelecida nos artigos 43.º e seguintes.
+Art. 49.º O processo, assim organizado, seguirá a mesma tramitação estabelecida nos artigos 43.º e seguintes.
 
-###### Art. 50.º A autorização da verba a despender com a reparação da viatura militar será sempre a título provisório, dado que susceptível de reembolso por a responsabilidade poder ser atribuída a terceiros.
+Art. 50.º A autorização da verba a despender com a reparação da viatura militar será sempre a título provisório, dado que susceptível de reembolso por a responsabilidade poder ser atribuída a terceiros.
 
-###### Art. 51.º A comunicação da autorização relativa à reparação da viatura militar e do exacto montante dos prejuízos por esta sofridos será prontamente feita à Repartição de Justiça do Ministério do Exército e, através do quartel-general da região militar, à unidade a que a viatura pertencer.
+Art. 51.º A comunicação da autorização relativa à reparação da viatura militar e do exacto montante dos prejuízos por esta sofridos será prontamente feita à Repartição de Justiça do Ministério do Exército e, através do quartel-general da região militar, à unidade a que a viatura pertencer.
 
 § único. Nesta comunicação observar-se-á o disposto no § único do artigo 45.º, devendo ainda fazer-se referência aos restantes intervenientes.
 
-###### Art. 52.º A autorização da verba para a reparação das viaturas civis ou de outros quaisquer danos causados a terceiros será obtida através da Repartição de Justiça do Ministério do Exército, uma vez que também a esta Repartição está cometida a função de apreciar a responsabilidade civil emergente de todo o acidente em que intervenham viaturas ou elementos estranhos a este Ministério. Por esta razão, as respectivas avaliações constarão apenas do processo disciplinar, conforme se deixa estabelecido no artigo 48.º
+Art. 52.º A autorização da verba para a reparação das viaturas civis ou de outros quaisquer danos causados a terceiros será obtida através da Repartição de Justiça do Ministério do Exército, uma vez que também a esta Repartição está cometida a função de apreciar a responsabilidade civil emergente de todo o acidente em que intervenham viaturas ou elementos estranhos a este Ministério. Por esta razão, as respectivas avaliações constarão apenas do processo disciplinar, conforme se deixa estabelecido no artigo 48.º
 
-###### Art. 53.º À excepção do que se estabelece no artigo 50.º, o disposto nesta subsecção não se aplica em relação aos acidentes de viação ocorridos nas províncias ultramarinas nos termos do artigo 46.º
+Art. 53.º À excepção do que se estabelece no artigo 50.º, o disposto nesta subsecção não se aplica em relação aos acidentes de viação ocorridos nas províncias ultramarinas nos termos do artigo 46.º
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 54.º Sempre que de um acidente de viação resultem prejuízos para o Estado e se prove caber a responsabilidade a elementos estranhos ao Ministério do Exército, será o processo disciplinar enviado ao tribunal competente, através da Direcção-Geral de Justiça, a fim de que o Estado seja indemenizado por perdas e danos.
+Art. 54.º Sempre que de um acidente de viação resultem prejuízos para o Estado e se prove caber a responsabilidade a elementos estranhos ao Ministério do Exército, será o processo disciplinar enviado ao tribunal competente, através da Direcção-Geral de Justiça, a fim de que o Estado seja indemenizado por perdas e danos.
 
 Ar. 55.º Para efeitos estatísticos, todas as regiões militares, comandos territoriais independentes e estabelecimentos militares dependentes do Ministério do Exército, enviarão semestralmente à Secção de Expediente do Arquivo da Direcção do Serviço de Transportes, até 10 de Janeiro e 10 de Julho, um mapa, conforme modelo em uso, com o resumo de todos os acidentes de viação ocorridos; e, mensalmente, à Repartição de Justiça e Disciplina da Direcção do Serviço de Justiça e Disciplina uma relação de todos os acidentes de viação cujos processos disciplinares tenham sido julgados nas regiões militares e comandos territoriais independentes.
 
-###### Art. 56.º O presente regulamento aplica-se a todo o território nacional e a partir do início da sua vigência fica revogada a circular n.º 5, processo AV/59, de 3 de Julho de 1959, da extinta 1.ª/1.ª do Ministério do Exército, e, em geral, todas as disposições que tenham por objecto as matérias aqui especialmente regulamentadas.
+Art. 56.º O presente regulamento aplica-se a todo o território nacional e a partir do início da sua vigência fica revogada a circular n.º 5, processo AV/59, de 3 de Julho de 1959, da extinta 1.ª/1.ª do Ministério do Exército, e, em geral, todas as disposições que tenham por objecto as matérias aqui especialmente regulamentadas.
 
 Ministério do Exército, 27 de Dezembro de 1966. - O Ministro do Exército, Joaquim da Luz Cunha.

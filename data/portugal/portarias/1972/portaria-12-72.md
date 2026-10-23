@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-1972-291783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d382b74d0ad00f2f4c5b157169cca9f0ebd1de586da70175e42bd3202caf9e30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21cec6fb8cfe75858d5da1fa24ffd6eab1ffa970b178ba9975c00ab73ade617c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,30 @@ relationships:
   target: pt:dre:295813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295813:por
+  label: Alterado, no referente ao grupo de pessoal oficinal, o quadro de pessoal civil do Exército, aprovado em anexo ao
+    presente diploma pelo(a) Portaria n.º 258/78 - Diário da República n.º 104/1978, Série I de 1978-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/258-1978-295813
+  date: '1978-05-06'
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577306:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:53Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +110,4 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde e
 
 O disposto no n.º 5.º da [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961, é tornado extensivo aos militares do quadro de complemento que tenham obtido aprovação em qualquer dos cursos de técnicos e auxiliares dos serviços clínicos ministrados na Escola de Serviço de Saúde Militar.
 
-**O Secretário de Estado da Saúde e Assistência, Francisco Gonçalves Ferreira.**
+O Secretário de Estado da Saúde e Assistência, Francisco Gonçalves Ferreira.

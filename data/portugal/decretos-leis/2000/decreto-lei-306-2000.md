@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/2000/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2000-592711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dc7bf83a1410d3149f09a7c4bd6ef05b417d7a9997fdc995bed8c6a1acc5fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b13c2afbb4a5c6f43a6a3d7726e7d1906752cb05018a795e4bdc32254294bd7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
 - Estatuto
-- Salinas do Samouco
-- Proteção do Ambiente
-- Gestão do Ambiente
+- Fundação
 - Fundação para a Protecção de Gestão Ambiental das Salinas do Samouco
+- Gestão do Ambiente
+- Proteção do Ambiente
+- Salinas do Samouco
 relationships:
 - type: amended_by
   target: pt:dre:601475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601475:por
+  label: "Modificados os instituidores da Fundação para a Protecção e Gestão Ambiental das Salinas do Samouco, e substituídos\
+    \ os Estatutos da mesma, publicados em anexo ao presente diploma, pelo DEC LEI.36/2009.10.02.2009.MAOTDR, DR.IS [28] de\
+    \ 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2009-601475
+  date: '2009-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/121/1998/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/121/1998/10/15/p/dre
+- type: cites
+  target: pt:dre:235099:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 21
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:08Z'
   warnings: []
   errors: []
 ---
@@ -142,17 +153,19 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 9 de Novembro de 2000.**
+Promulgado em 9 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Novembro de 2000.**
+Referendado em 16 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — CAPÍTULO I
+## ANEXO I
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -246,7 +259,9 @@ g) Proceder anualmente a um inventário do património da Fundação e a um bala
 
 3 - O mandato dos membros do conselho tem a duração de três anos, sem prejuízo da exoneração a todo o tempo.
 
-#### SECÇÃO II — Artigo 8.º
+#### SECÇÃO II
+
+###### Artigo 8.º
 
 Vinculação
 

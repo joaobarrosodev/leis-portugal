@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1978-325928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ea803b5a2e6be3106dd7217219865ec9290b8a53eb6590e5e626caaf62a110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faa84ae709079aeb35fd866d12f4b9e2e469c05aead3556f0a8f072a052f94fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Expropriação
+- Matosinhos
+- Obras Públicas
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:59Z'
   warnings: []
   errors: []
 ---
@@ -93,26 +101,26 @@ Tendo já sido aprovada por despacho do Ministro dos Transportes e Comunicaçõe
 
 Nestes termos, ao abrigo do artigo 9.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É declarado de utilidade pública para fins de expropriação o terreno afecto à futura instalação do terminal para transportes terrestres internacionais em Leça da Palmeira, situado na freguesia de Leça da Palmeira, município de Matosinhos, assinalado na planta anexa e com a forma de um polígono cujos vértices são definidos pelas letras A a R e cujas coordenadas constam do mapa também anexo.
+Artigo 1.º É declarado de utilidade pública para fins de expropriação o terreno afecto à futura instalação do terminal para transportes terrestres internacionais em Leça da Palmeira, situado na freguesia de Leça da Palmeira, município de Matosinhos, assinalado na planta anexa e com a forma de um polígono cujos vértices são definidos pelas letras A a R e cujas coordenadas constam do mapa também anexo.
 
-###### Art. 2.º O processo a seguir na expropriação será o urgente.
+Art. 2.º O processo a seguir na expropriação será o urgente.
 
-###### Art. 3.º A prática de todos os actos necessários ao processo de expropriação será exercida pelo Ministro dos Transportes e Comunicações ou por quem dele obtenha delegação para o efeito.
+Art. 3.º A prática de todos os actos necessários ao processo de expropriação será exercida pelo Ministro dos Transportes e Comunicações ou por quem dele obtenha delegação para o efeito.
 
-###### Art. 4.º - 1 - O processo de expropriação poderá ser iniciado imediatamente após a publicação do presente diploma.
+Art. 4.º - 1 - O processo de expropriação poderá ser iniciado imediatamente após a publicação do presente diploma.
 
 2 - O prazo de validade desta declaração de utilidade pública, para efeitos de início do processo de expropriação, é de dois anos, a contar da data da publicação deste diploma, prorrogável, caso seja necessário.
 
-###### Art. 5.º A declaração de utilidade pública do terreno referido no artigo 1.º deste diploma não impede ulteriores declarações para fins de expropriação de outros terrenos, contíguos ou não, que se mostrem indispensáveis à realização deste terminal.
+Art. 5.º A declaração de utilidade pública do terreno referido no artigo 1.º deste diploma não impede ulteriores declarações para fins de expropriação de outros terrenos, contíguos ou não, que se mostrem indispensáveis à realização deste terminal.
 
 Alfredo Jorge Nobre da Costa - António Gonçalves Ribeiro - Amílcar José de Gouveia Marques.
 
-**Promulgado em 26 de Outubro de 1978.**
+Promulgado em 26 de Outubro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/11/26200/23792381.pdf))](https://files.diariodarepublica.pt/1s/1978/11/26200/23792381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/11/26200/23792381.pdf)
 
-**O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.**
+O Ministro dos Transportes e Comunicações, Amílcar José de Gouveia Marques.

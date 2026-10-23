@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 72/2010, 1º Suplemento, Série I de 2010-04-14
   number: '72'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1286-(2) a 1286-(30)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07201/0000200030.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33-a/2010/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2010-672986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75e6b574bd6201d35302be0bd6d2d66cd59aeff6597d2663800d15544268f309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 793db35a3ed24e5d4a328a3aab238c398bb4b4cee054385542adb2678dddeb38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
+- ÁREA NON Aedificandi
 - Contrato de Concessão
-- Transporte Ferroviário
 - Definição de Competências
 - Empreitada de Obras Públicas
+- Évora
 - Expropriação
-- Projeto de Investimento
+- Financiamento
+- Garantia
 - Infraestrutura dos Transportes
 - Investimento Público
+- Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado e das Finanças
 - Obras Públicas
 - Palmela
-- Ministro de Estado e das Finanças
+- Projeto de Investimento
 - Rede Ferroviária Portuguesa de Alta Velocidade
 - Refer
 - RIO CAIA
-- Évora
-- Ministro das Obras Públicas Transportes e Comunicações
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
+- Transporte Ferroviário
 - Utilidade Pública
-- ÁREA NON Aedificandi
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:52Z'
   warnings: []
   errors: []
 ---
@@ -160,21 +160,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 13 de Abril de 2010.**
+Promulgado em 13 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Abril de 2010.**
+Referendado em 14 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nas presentes bases, sempre que iniciados por maiúscula, e salvo se do contexto resultar claramente sentido diferente, os termos abaixo indicados têm os seguintes significados:
 
@@ -346,27 +348,37 @@ ii) As Infra-Estruturas Ferroviárias convencionais a construir entre o limite l
 
 ### CAPÍTULO II — Da Concessão
 
-###### Base II — Objecto
+Base II
+
+Objecto
 
 1 - A concessão tem por objecto a concessão do projecto, construção, financiamento, manutenção e disponibilização, por todo o período da concessão, do Troço Poceirão-Caia.
 
 2 - A Concessão compreende ainda concessão do projecto, construção, financiamento, manutenção, disponibilização e exploração da Estação de Évora, que integra a gestão e comercialização da publicidade nela instalada, das áreas comerciais que a compõem e dos parques de estacionamento que lhe são adjacentes.
 
-###### Base III — Serviço público
+Base III
+
+Serviço público
 
 1 - A Concessionária deve desempenhar as actividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, as Normas e os melhores padrões de qualidade disponíveis em cada momento, tudo nos exactos termos das disposições aplicáveis das presentes bases.
 
 2 - A Concessionária não pode recusar a utilização do Troço Poceirão-Caia a qualquer pessoa ou entidade nem discriminar ou estabelecer diferenças de tratamento entre os utentes da mesma.
 
-###### Base IV — Natureza da Concessão
+Base IV
+
+Natureza da Concessão
 
 A Concessão é de obra pública e é estabelecida em regime de exclusividade relativamente ao Troço Poceirão-Caia.
 
-###### Base V — Estabelecimento da Concessão
+Base V
+
+Estabelecimento da Concessão
 
 O Estabelecimento da Concessão é composto pelo Troço Poceirão-Caia.
 
-###### Base VI — Empreendimento Concessionado
+Base VI
+
+Empreendimento Concessionado
 
 1 - Integram a Concessão:
 
@@ -394,7 +406,9 @@ b) Todas as obras, máquinas, equipamentos, aparelhagens e respectivos acessóri
 
 11 - Os bens e direitos da Concessionária não abrangidos nos números anteriores e que sejam utilizados no desenvolvimento das actividades integradas na Concessão podem ser livremente alienados, onerados e substituídos pela Concessionária.
 
-###### Base VII — Delimitação física da Concessão
+Base VII
+
+Delimitação física da Concessão
 
 1 - A delimitação física da Concessão consta do Contrato de Concessão.
 
@@ -402,21 +416,29 @@ b) Todas as obras, máquinas, equipamentos, aparelhagens e respectivos acessóri
 
 3 - Nos locais onde o Troço Poceirão-Caia coexista com outras linhas ferroviárias preexistentes, os limites da Concessão são estabelecidos de acordo com o Contrato de Concessão.
 
-###### Base VIII — Prazo da Concessão
+Base VIII
+
+Prazo da Concessão
 
 O prazo da Concessão é de 40 anos a contar da data de assinatura do Contrato de Concessão, expirando automaticamente às 24 horas do dia em que ocorrer o 40.º aniversário dessa assinatura.
 
-###### Base IX — Efeitos para além do Termo da Concessão
+Base IX
+
+Efeitos para além do Termo da Concessão
 
 O disposto na base anterior não prejudica a aplicação, para além do prazo da Concessão ou do evento que lhe puser termo, das disposições do Contrato de Concessão que, pela sua natureza ou pela sua letra, perduram para além do Termo da Concessão.
 
 ### CAPÍTULO III — Sociedade Concessionária, ACE e Operador de Manutenção
 
-###### Base X — Objecto social, sede e forma da Concessionária
+Base X
+
+Objecto social, sede e forma da Concessionária
 
 A Concessionária tem como objecto social exclusivo o exercício das actividades que, nos termos do Contrato de Concessão, se consideram integradas na Concessão, devendo manter, ao longo de toda a vigência da Concessão, a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
 
-###### Base XI — Estrutura accionista da Concessionária
+Base XI
+
+Estrutura accionista da Concessionária
 
 1 - O capital social da Concessionária encontra-se inicialmente distribuído entre os Membros do Agrupamento na exacta medida que foi pelo Agrupamento indicada na Proposta, carecendo a alteração da posição hierárquica dos Membros do Agrupamento no capital social da Concessionária de autorização prévia do Concedente.
 
@@ -430,7 +452,9 @@ A Concessionária tem como objecto social exclusivo o exercício das actividades
 
 6 - Consideram-se acções, para os efeitos previstos na presente base, todos os valores mobiliários representativos do capital social da Concessionária que confiram ou, por força do disposto no capítulo iii do título iv do Código das Sociedades Comerciais, possam vir a conferir direito de voto aos seus titulares.
 
-###### Base XII — Capital social da Concessionária
+Base XII
+
+Capital social da Concessionária
 
 1 - O capital social da Concessionária é subscrito e realizado nos termos do Acordo de Subscrição de Capital.
 
@@ -444,7 +468,9 @@ A Concessionária tem como objecto social exclusivo o exercício das actividades
 
 6 - A Concessionária não pode, até à emissão do Certificado de Disponibilidade do Troço Poceirão-Caia, deter acções próprias.
 
-###### Base XIII — Estatutos e Acordo Parassocial da Concessionária
+Base XIII
+
+Estatutos e Acordo Parassocial da Concessionária
 
 1 - Quaisquer alterações aos Estatutos são objecto de autorização prévia do Concedente, sob pena de nulidade.
 
@@ -462,7 +488,9 @@ c) Alteração do número dos membros dos órgãos sociais ou da mesa da Assembl
 
 5 - A Concessionária remete ao Concedente, no prazo de 30 dias após a respectiva outorga, cópia simples dos documentos que consagrem as alterações dos Estatutos que tiver realizado nos termos da presente base.
 
-###### Base XIV — Oneração de acções representativas do capital social da Concessionária
+Base XIV
+
+Oneração de acções representativas do capital social da Concessionária
 
 1 - A oneração de acções representativas do capital social da Concessionária depende, sob pena de nulidade, de autorização prévia do Concedente.
 
@@ -470,7 +498,9 @@ c) Alteração do número dos membros dos órgãos sociais ou da mesa da Assembl
 
 3 - Sem prejuízo do disposto em acordo directo com as Entidades Financiadoras, da execução, mesmo que não judicial, dos instrumentos de oneração de acções referidos no número anterior não pode nunca resultar a detenção, a transmissão ou a posse, em violação do disposto no Contrato de Concessão e, nomeadamente, nas bases xi a xiii, por entidades que não sejam Membros do Agrupamento de acções representativas do capital social da Concessionária.
 
-###### Base XV — Composição do ACE e do Operador de Manutenção
+Base XV
+
+Composição do ACE e do Operador de Manutenção
 
 1 - A composição de capital do ACE consta do Contrato de Concessão.
 
@@ -490,13 +520,17 @@ c) Alteração do número dos membros dos órgãos sociais ou da mesa da Assembl
 
 9 - Consideram-se acções, para os efeitos previstos na presente base, todos os valores mobiliários representativos do capital social do Operador de Manutenção, que confiram ou, por força do disposto no capítulo iii do título iv do Código das Sociedades Comerciais, possam vir a conferir, direito de voto aos seus titulares.
 
-###### Base XVI — Acordo de Constituição do ACE
+Base XVI
+
+Acordo de Constituição do ACE
 
 Qualquer alteração ao Acordo de Constituição do ACE é objecto de autorização prévia do Concedente, sob pena de nulidade.
 
 ### CAPÍTULO IV — Informações ao Concedente
 
-###### Base XVII — Obrigações de informação da Concessionária
+Base XVII
+
+Obrigações de informação da Concessionária
 
 Ao longo de todo o período da Concessão, e sem prejuízo das demais obrigações de informação estabelecidas no Contrato de Concessão e na lei, a Concessionária compromete-se para com o Concedente a:
 
@@ -526,7 +560,9 @@ m) Apresentar, prontamente, as informações complementares ou adicionais que lh
 
 ### CAPÍTULO V — Licenças
 
-###### Base XVIII — Obtenção de licenças
+Base XVIII
+
+Obtenção de licenças
 
 1 - Compete à Concessionária requerer, custear, obter e manter todas as licenças, certificações e autorizações necessárias ao exercício das actividades integradas na Concessão, nomeadamente o Certificado de Disponibilidade e o Certificado de Interoperabilidade, as licenças ambientais exigíveis, as licenças relativas à desafectação das áreas de Reserva Agrícola Nacional e Reserva Ecológica Nacional e a autorização para utilização de áreas de Domínio Público Hídrico, observando todos os requisitos que a tal sejam necessários.
 
@@ -538,7 +574,9 @@ m) Apresentar, prontamente, as informações complementares ou adicionais que lh
 
 5 - As listas referidas nos n.os 3 e 4 devem ser mantidas permanentemente actualizadas pela Concessionária, que deve comunicar ao Concedente as actualizações necessárias pelo menos 30 dias antes de as licenças aditadas serem necessárias ou exigíveis ou no prazo de 30 dias após alguma das licenças constantes de alguma daquelas listas deixar de ser necessária ou exigível.
 
-###### Base XIX — Autorização de Segurança
+Base XIX
+
+Autorização de Segurança
 
 1 - Compete à Concessionária preparar e entregar à REFER, E. P. E., toda a documentação relativa ao Troço Poceirão-Caia e necessária, nos termos do disposto no Decreto-Lei n.º 270/2003, de 28 de Outubro, alterado pelos Decretos-Leis n.os 146/2004, de 17 de Junho, e 231/2007, de 14 de Junho, para a obtenção, por esta, junto do IMTT, I. P., da Autorização de Segurança.
 
@@ -546,17 +584,23 @@ m) Apresentar, prontamente, as informações complementares ou adicionais que lh
 
 ### CAPÍTULO VI — Financiamento
 
-###### Base XX — Responsabilidade da Concessionária pelo Financiamento
+Base XX
+
+Responsabilidade da Concessionária pelo Financiamento
 
 1 - A Concessionária é responsável única pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto da Concessão, para que possa cumprir cabal e atempadamente todas as obrigações que assume no Contrato de Concessão.
 
 2 - O Concedente não está sujeito a qualquer obrigação nem assume qualquer responsabilidade ou risco no que respeita ao financiamento necessário ao desenvolvimento das actividades integradas na Concessão, salvo no que se encontra expressamente previsto no Contrato de Concessão e nas presentes bases.
 
-###### Base XXI — Contratos de Financiamento
+Base XXI
+
+Contratos de Financiamento
 
 Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades que integram o objecto da Concessão, a Concessionária celebra com as Entidades Financiadoras os Contratos de Financiamento e celebra com os seus accionistas o Acordo de Subscrição de Capital que, em conjunto com o cash flow líquido gerado pela Concessão e com os Fundos Comunitários referidos na base seguinte e com os pagamentos do Concedente e da REFER, E. P. E., previstos nas bases lxi e lxii, declara no Contrato de Concessão garantirem-lhe tais fundos.
 
-###### Base XXII — Fundos Comunitários
+Base XXII
+
+Fundos Comunitários
 
 1 - A Concessionária tem o dever de colaborar com o Concedente, ou com qualquer outra entidade por este designada, em tudo o que lhe for exigido no âmbito da atribuição de Fundos Comunitários à Concessão, nomeadamente no que respeita aos procedimentos a adoptar para efeitos dos pagamentos referidos na base lxii.
 
@@ -572,7 +616,9 @@ Com vista à obtenção dos fundos necessários ao desenvolvimento das actividad
 
 ### CAPÍTULO VII — Expropriações
 
-###### Base XXIII — Disposições aplicáveis
+Base XXIII
+
+Disposições aplicáveis
 
 1 - Às expropriações efectuadas por causa, directa ou indirecta, da Concessão são aplicáveis as disposições da legislação portuguesa em vigor.
 
@@ -596,7 +642,9 @@ d) Notificar o Concedente da aprovação dos projectos de execução.
 
 7 - Qualquer atraso imputável ao Concedente, e superior a 30 dias, na emissão e publicação das Declarações de Utilidade Pública confere à Concessionária o direito à reposição do equilíbrio financeiro da Concessão, nos termos da base xciii.
 
-###### Base XXIV — Condução, controlo e custos dos processos expropriativos
+Base XXIV
+
+Condução, controlo e custos dos processos expropriativos
 
 1 - Compete à Concessionária a condução e realização dos processos expropriativos dos bens ou direitos necessários ao Estabelecimento da Concessão, como entidade expropriante em nome do Estado, cabendo-lhe ainda suportar todos os custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações decorrentes das expropriações ou da imposição de servidões, desafectações ou outros ónus ou encargos que delas sejam consequência.
 
@@ -608,11 +656,15 @@ a) Expropriação por utilidade pública;
 
 b) Utilização e protecção do Empreendimento Concessionado.
 
-###### Base XXV — Cadastro
+Base XXV
+
+Cadastro
 
 A Concessionária obriga-se a proceder, à sua custa, e até dois anos a contar da data de emissão do Certificado de Disponibilidade, em conjunto com os proprietários expropriados e em presença de um representante da REFER, E. P. E., ao levantamento do respectivo auto, à delimitação dos terrenos que façam parte integrante da Concessão, procedendo, em seguida, ao levantamento da respectiva planta, em fundo cadastral e a escala não inferior a 1:2000, que identifique esses terrenos, as áreas sobrantes e os futuros confinantes.
 
-###### Base XXVI — Delimitação dos terrenos e respectiva planta cadastral
+Base XXVI
+
+Delimitação dos terrenos e respectiva planta cadastral
 
 1 - O cadastro referido na base anterior é rectificado, nos mesmos termos, sempre que os terrenos ou dependências sofram alterações, dentro do prazo que, para cada caso, for fixado pelo Concedente.
 
@@ -622,7 +674,9 @@ A Concessionária obriga-se a proceder, à sua custa, e até dois anos a contar 
 
 ### CAPÍTULO VIII — Projecto e construção do Troço Poceirão-Caia
 
-###### Base XXVII — Contrato de Empreitada
+Base XXVII
+
+Contrato de Empreitada
 
 1 - Para cumprimento das obrigações assumidas em matéria de projecto e construção do Troço Poceirão-Caia, a Concessionária celebra, com o ACE, o Contrato de Empreitada.
 
@@ -630,11 +684,15 @@ A Concessionária obriga-se a proceder, à sua custa, e até dois anos a contar 
 
 3 - O prazo de execução do Contrato de Empreitada não é alterável, excepto em virtude de modificações do Calendário de Factos Relevantes.
 
-###### Base XXVIII — Data chave da Concessão
+Base XXVIII
+
+Data chave da Concessão
 
 A data limite de Entrada em Serviço do Troço Poceirão-Caia é o último dia do 48.º mês a contar da data de assinatura do Contrato de Concessão.
 
-###### Base XXIX — Disposições gerais relativas a estudos e projectos
+Base XXIX
+
+Disposições gerais relativas a estudos e projectos
 
 1 - A Concessionária promove, por sua conta e inteira responsabilidade, a realização dos estudos e projectos relativos ao Troço Poceirão-Caia, os quais devem:
 
@@ -670,7 +728,9 @@ d) Elaborados e apresentados para permitir o cumprimento das datas de testes e d
 
 9 - As entidades técnicas independentes propostas pela Concessionária consideram-se tacitamente aprovadas no prazo de 30 dias a contar da sua indicação, nos termos do número anterior, ao Concedente.
 
-###### Base XXX — Projecto e construção da Estação de Évora
+Base XXX
+
+Projecto e construção da Estação de Évora
 
 1 - As disposições das bases xxix, xxxi e xxxiii são aplicáveis ao projecto e construção da Estação de Évora, com as excepções constantes dos números seguintes.
 
@@ -692,7 +752,9 @@ e) Alçados - Cortes e Cortes: Transversais e Longitudinais - escala 1:200;
 
 f) Especialidades complementares (Estabilidade, Baixa Tensão, Rede de Águas e Esgotos, Electromecânicas).
 
-###### Base XXXI — Apresentação dos estudos e projectos
+Base XXXI
+
+Apresentação dos estudos e projectos
 
 1 - Sempre que houver lugar à apresentação de estudos prévios, devem os mesmos ser elaborados nos termos especificados no Contrato de Concessão e de acordo com as boas práticas de projecto e conter todas as peças escritas e desenhadas consideradas, pelo Concedente, necessárias e suficientes à boa interpretação e percepção dos mesmos e ser apresentados ao Concedente divididos nos seguintes volumes técnicos:
 
@@ -826,7 +888,9 @@ t) RECAPE.
 
 7 - A documentação informática usa os tipos de ficheiros que forem indicados pelo Concedente à Concessionária.
 
-###### Base XXXII — Aprovação dos estudos prévios e dos anteprojectos
+Base XXXII
+
+Aprovação dos estudos prévios e dos anteprojectos
 
 1 - Os estudos prévios, o estudo de imagem integral e os anteprojectos apresentados pela Concessionária, desde que acompanhados pelos respectivos pareceres de revisão, são aprovados pelo Concedente no prazo de 60 dias a contar da respectiva apresentação, data a partir da qual, na falta de pronúncia expressa por parte do Concedente, se consideram tacitamente aprovados.
 
@@ -834,7 +898,9 @@ t) RECAPE.
 
 3 - Quando for exigível a emissão de Declaração de Impacte Ambiental, o prazo de aprovação referido no n.º 1 é reduzido para 30 dias e conta-se a partir da data da respectiva recepção pelo Concedente, ou do termo do prazo previsto na lei para a sua emissão.
 
-###### Base XXXIII — Aprovação dos projectos de execução
+Base XXXIII
+
+Aprovação dos projectos de execução
 
 1 - Os projectos de execução são aprovados pela Concessionária, de forma expressa, a qual deve notificar o Concedente de tal facto, acompanhada por uma cópia do projecto, no prazo de três dias após a respectiva aprovação.
 
@@ -842,13 +908,17 @@ t) RECAPE.
 
 3 - O Concedente pode, a todo o tempo, verificando que existem desconformidades dos projectos de execução com as Normas aplicáveis à data da aprovação desses projectos ou com os termos das aprovações das fases antecedentes, ordenar a respectiva correcção e, se assim o entender, a demolição das partes já executadas da obra que são afectadas pelas referidas desconformidades, sem que tal instrução confira direito a qualquer indemnização da Concessionária ou à reposição do equilíbrio financeiro do contrato.
 
-###### Base XXXIV — Localização geográfica
+Base XXXIV
+
+Localização geográfica
 
 1 - O traçado do Troço Poceirão-Caia deve respeitar os pontos de passagem obrigatória referidos no Contrato de Concessão.
 
 2 - A localização geográfica do traçado do Troço Poceirão-Caia não confere o direito à reposição do equilíbrio financeiro da Concessão em nenhuma circunstância, salvo quando decorrer directamente de modificação unilateral imposta pelo Concedente.
 
-###### Base XXXV — Execução das obras
+Base XXXV
+
+Execução das obras
 
 1 - A execução de qualquer obra, pela Concessionária, só pode iniciar-se depois de aprovado o respectivo projecto de execução e de contratadas, nos termos da base xxxvi, a Entidade Fiscalizadora e, nos termos da base lviii, a Entidade de Acompanhamento Ambiental.
 
@@ -860,7 +930,9 @@ t) RECAPE.
 
 5 - A Concessionária é responsável perante o Concedente por que apenas sejam contratadas para desenvolver actividades integradas na Concessão entidades que se encontrem devidamente licenciadas e autorizadas e que detenham capacidade técnica e profissional adequada para o efeito.
 
-###### Base XXXVI — Entidade Fiscalizadora
+Base XXXVI
+
+Entidade Fiscalizadora
 
 1 - No prazo de 30 dias contados da data de assinatura do Contrato de Concessão, a Concessionária identifica a Entidade Fiscalizadora que propõe para o desempenho das funções que lhe são atribuídas no Contrato de Concessão.
 
@@ -868,7 +940,9 @@ t) RECAPE.
 
 3 - O Concedente pode solicitar directamente à Entidade Fiscalizadora quaisquer esclarecimentos ou informações, que devem ser prestados em prazo útil.
 
-###### Base XXXVII — Condicionamentos especiais aos projectos e à construção
+Base XXXVII
+
+Condicionamentos especiais aos projectos e à construção
 
 1 - O Concedente pode impor à Concessionária a realização de modificações aos projectos e estudos apresentados, mesmo se já aprovados, mediante comunicação dirigida à Concessionária e imediatamente aplicável.
 
@@ -884,7 +958,9 @@ t) RECAPE.
 
 7 - Os documentos do procedimento pré-contratual referido no número anterior, e a respectiva adjudicação, devem ser previamente aprovados pelo Concedente.
 
-###### Base XXXVIII — Calendário de Factos Relevantes
+Base XXXVIII
+
+Calendário de Factos Relevantes
 
 1 - O Calendário de Factos Relevantes não pode ser alterado pelas Partes no Contrato de Concessão.
 
@@ -892,7 +968,9 @@ t) RECAPE.
 
 3 - A aceitação, pelas partes, do Calendário de Factos Relevantes Actualizado não pode ser interpretada como significando a admissão, por qualquer delas ou por ambas, de qualquer responsabilidade pelo atraso no cumprimento das datas e dos prazos constantes do Calendário de Factos Relevantes.
 
-###### Base XXXIX — Plano de Recuperação de Atrasos
+Base XXXIX
+
+Plano de Recuperação de Atrasos
 
 1 - Ocorrendo, ou sendo previsível a ocorrência, de atraso no cumprimento de alguma ou algumas das datas ou prazos constantes do Calendário de Factos Relevantes, o Concedente pode notificar a Concessionária para apresentar, no prazo que lhe for fixado, um Plano de Recuperação dos Atrasos, que tem de conter a indicação do reforço de meios para o efeito necessários, bem como o respectivo custo e a imputação da responsabilidade pelo seu pagamento, tal como entendida pela Concessionária.
 
@@ -904,7 +982,9 @@ t) RECAPE.
 
 5 - Até à aprovação ou imposição de um Plano de Recuperação de Atrasos, a Concessionária deve manter a execução dos trabalhos nos termos definidos no Calendário de Factos Relevantes, ficando obrigada, após ser notificada daquela aprovação ou imposição, a cumprir o Plano de Recuperação de Atrasos e a observar as medidas dele constantes.
 
-###### Base XL — Vias de comunicação e serviços afectados
+Base XL
+
+Vias de comunicação e serviços afectados
 
 1 - Compete à Concessionária realizar, antes do início dos trabalhos de construção, um levantamento exaustivo das condições das vias de comunicação e dos serviços que serão afectados pela construção do Troço Poceirão-Caia, bem como das condições das vias de comunicação que serão utilizadas pelos meios afectos à obra.
 
@@ -924,11 +1004,15 @@ t) RECAPE.
 
 9 - Todas as vias de comunicação, infra-estruturas ou serviços que são objecto de reparação ou reposição pela Concessionária são entregues às entidades que neles superintendem imediatamente após a respectiva intervenção, mediante auto a celebrar entre a Concessionária e essas entidades.
 
-###### Base XLI — Vias de comunicação futuras
+Base XLI
+
+Vias de comunicação futuras
 
 Compete à Concessionária construir, no Troço Poceirão-Caia, as obras de arte necessárias ao estabelecimento das vias de comunicação constantes dos planos regionais de ordenamento do território, dos planos directores municipais, dos planos de pormenor urbanísticos, dos Estudos de Impacte Ambiental e das Declarações de Impacte Ambiental que estejam em vigor à data da aprovação do projecto de execução.
 
-###### Base XLII — Telas finais
+Base XLII
+
+Telas finais
 
 1 - Até um ano após a Entrada em Serviço Comercial do Troço Poceirão-Caia, a Concessionária fornece ao Concedente um exemplar das telas finais, incluindo o respectivo suporte informático, em forma e formato a definir pelo Concedente.
 
@@ -938,7 +1022,9 @@ Compete à Concessionária construir, no Troço Poceirão-Caia, as obras de arte
 
 ### CAPÍTULO IX — Período de Disponibilidade
 
-###### Base XLIII — Condições para o início do Período de Disponibilidade
+Base XLIII
+
+Condições para o início do Período de Disponibilidade
 
 1 - São condições para o início do Período de Disponibilidade e para a consequente emissão do Certificado de Disponibilidade:
 
@@ -988,7 +1074,9 @@ f) O Pagamento de Manutenção é reduzido para 75 % do valor que para ele resul
 
 9 - Uma vez obtida a Autorização de Segurança, o Certificado de Disponibilidade extingue-se.
 
-###### Base XLIV — Forma e conteúdos dos Testes
+Base XLIV
+
+Forma e conteúdos dos Testes
 
 1 - Os Testes realizam-se nos termos estabelecidos do Contrato de Concessão.
 
@@ -996,13 +1084,17 @@ f) O Pagamento de Manutenção é reduzido para 75 % do valor que para ele resul
 
 3 - O projecto de relatório e o relatório referido no Contrato de Concessão devem incluir um programa detalhado de Testes.
 
-###### Base XLV — Procedimento para a emissão da Autorização de Segurança
+Base XLV
+
+Procedimento para a emissão da Autorização de Segurança
 
 1 - Concluídos os Testes a que se refere o n.º 3 da base xliii, deve a Concessionária dar cumprimento ao disposto na base xix, relativamente aos subsistemas do Troço Poceirão-Caia que hajam até então sido testados satisfatoriamente.
 
 2 - Concluídos os Testes a que se refere a base xliii, deve a Concessionária dar cumprimento ao disposto na base xix relativamente a todos os subsistemas do Troço Poceirão-Caia.
 
-###### Base XLVI — Responsabilidade pela segurança
+Base XLVI
+
+Responsabilidade pela segurança
 
 1 - A Concessionária é responsável pela segurança dos sistemas, dos subsistemas e das actividades de apoio à operação ferroviária do Troço Poceirão-Caia e pela capacidade de este recuperar de actos criminosos, de terrorismo, violência, sabotagem ou vandalismo, devendo, para o efeito, elaborar, implementar e manter um Sistema de Gestão de Segurança adequado em cada momento da vigência do Contrato de Concessão.
 
@@ -1012,7 +1104,9 @@ f) O Pagamento de Manutenção é reduzido para 75 % do valor que para ele resul
 
 ### CAPÍTULO X — Interoperabilidade e Interfaces do Troço Poceirão-Caia
 
-###### Base XLVII — Interoperabilidade
+Base XLVII
+
+Interoperabilidade
 
 1 - A Concessionária deve observar as Especificações Técnicas de Interoperabilidade, e as Normas, na adequação do Troço Poceirão-Caia ao fim a que se destina e ao seu uso em conjunto com outras estruturas técnicas, nomeadamente de sinalização e telecomunicações, e com os comboios que nela circularão.
 
@@ -1020,19 +1114,25 @@ f) O Pagamento de Manutenção é reduzido para 75 % do valor que para ele resul
 
 3 - A comprovação, pelo Concedente, da permanente conformidade do Troço Poceirão-Caia com as Normas pode ser objecto de auditorias e testes a realizar sempre que o Concedente o entenda necessário.
 
-###### Base XLVIII — Interfaces
+Base XLVIII
+
+Interfaces
 
 No âmbito dos interfaces da Concessão do Troço Poceirão-Caia, são obrigações da Concessionária apenas as que se encontram prescritas no Contrato de Concessão.
 
 ### CAPÍTULO XI — Qualidade do Troço Poceirão-Caia
 
-###### Base XLIX — Qualidade da concepção e da execução das obras
+Base XLIX
+
+Qualidade da concepção e da execução das obras
 
 1 - A Concessionária garante ao Concedente a qualidade da concepção, do projecto e da execução das obras de construção e manutenção do Troço Poceirão-Caia, responsabilizando-se pela sua durabilidade, em permanentes e plenas condições de funcionamento e operacionalidade, ao longo de todo o período da Concessão.
 
 2 - A Concessionária responde, perante o Concedente e perante terceiros, nos termos gerais da lei, por quaisquer danos emergentes ou lucros cessantes resultantes de deficiências ou omissões na concepção, no projecto, na execução das obras de construção e na manutenção do Troço Poceirão-Caia, devendo esta responsabilidade ser coberta por seguro apropriado.
 
-###### Base L — Sistema de Gestão da Qualidade
+Base L
+
+Sistema de Gestão da Qualidade
 
 1 - A Concessionária deve elaborar, implementar, manter e actualizar continuamente um Sistema de Gestão da Qualidade referente às actividades a realizar por si em cumprimento do Contrato de Concessão.
 
@@ -1046,7 +1146,9 @@ No âmbito dos interfaces da Concessão do Troço Poceirão-Caia, são obrigaç�
 
 ### CAPÍTULO XII — Manutenção do Troço Poceirão-Caia e Exploração da Estação de Évora
 
-###### Base LI — Obrigação de Manutenção
+Base LI
+
+Obrigação de Manutenção
 
 1 - A Concessionária obriga-se a manter, durante a vigência do Contrato de Concessão e a expensas suas, o Empreendimento Concessionado em bom estado de funcionamento, de operacionalidade, de manutenção e conservação e segurança, nos termos e condições estabelecidos no Contrato de Concessão e nas Normas, realizando de imediato os trabalhos de manutenção, de conservação, de reparação, de renovação e de adaptação que, para o efeito, se tornem necessárias para que o Empreendimento Concessionado satisfaça cabal e permanentemente o fim a que se destina.
 
@@ -1054,7 +1156,9 @@ No âmbito dos interfaces da Concessão do Troço Poceirão-Caia, são obrigaç�
 
 3 - A Concessionária é responsável pela manutenção e conservação de todas as obras de arte de transposição, com excepção da camada de desgaste do respectivo piso, quando constituída por materiais betuminosos.
 
-###### Base LII — Código de Exploração
+Base LII
+
+Código de Exploração
 
 1 - A Concessionária obriga-se a elaborar e respeitar um Código de Exploração, que submete à aprovação do Concedente no prazo de seis meses a contar da data de assinatura do Contrato de Concessão.
 
@@ -1066,7 +1170,9 @@ No âmbito dos interfaces da Concessão do Troço Poceirão-Caia, são obrigaç�
 
 5 - O Código de Exploração só pode ser alterado mediante autorização do Concedente, a qual se considera tacitamente concedida se não for recusada no prazo de 60 dias após ter sido solicitada.
 
-###### Base LIII — Exploração da Estação de Évora
+Base LIII
+
+Exploração da Estação de Évora
 
 1 - A Concessionária explora a Estação de Évora, assegurando que nela estarão disponíveis as funcionalidades referidas no Contrato de Concessão.
 
@@ -1082,13 +1188,17 @@ d) A aceitação de tais terceiros de que qualquer alteração aos contratos que
 
 3 - Os contratos e as suas modificações a que se refere o número anterior consideram-se aprovados pelo Concedente se não forem por este rejeitados no prazo de 30 dias após a sua apresentação.
 
-###### Base LIV — Contrato de Manutenção
+Base LIV
+
+Contrato de Manutenção
 
 1 - Para cumprimento das obrigações assumidas em matéria de operação, vigilância e manutenção do Empreendimento Concessionado e exploração da Estação de Évora, a Concessionária celebra com o Operador de Manutenção o Contrato de Manutenção.
 
 2 - No Termo da Concessão caduca automaticamente, e em razão daquele termo, o Contrato de Manutenção, nos termos do disposto na base lxxxvii.
 
-###### Base LV — Relação entre o Concedente e o Operador de Manutenção
+Base LV
+
+Relação entre o Concedente e o Operador de Manutenção
 
 1 - Em caso de incumprimento das obrigações de Manutenção, o Concedente pode sequestrar a concessão, ou notificar a Concessionária e o Operador para, no prazo fixado para cada circunstância e que não poderá ultrapassar seis meses, cessar o incumprimento e reparar as respectivas consequências, com a expressa indicação de que da sua manutenção ou das suas consequências pode originar o termo do Contrato de Manutenção.
 
@@ -1100,7 +1210,9 @@ d) A aceitação de tais terceiros de que qualquer alteração aos contratos que
 
 5 - O Operador de Manutenção proposto pela Concessionária ao Concedente nos termos do número anterior bem como o conteúdo do respectivo Contrato de Manutenção com a Concessionária devem ser expressamente aprovados pelo Concedente antes de iniciar as suas funções.
 
-###### Base LVI — Encerramento de vias e trabalhos no Troço Poceirão-Caia
+Base LVI
+
+Encerramento de vias e trabalhos no Troço Poceirão-Caia
 
 1 - Após a emissão do Certificado de Disponibilidade do Troço Poceirão-Caia, apenas será permitido o seu encerramento ou restrição à circulação ferroviária, nos termos estabelecidos no Contrato de Concessão.
 
@@ -1108,7 +1220,9 @@ d) A aceitação de tais terceiros de que qualquer alteração aos contratos que
 
 ### CAPÍTULO XIII — Responsabilidade ambiental e social
 
-###### Base LVII — Responsabilidade ambiental
+Base LVII
+
+Responsabilidade ambiental
 
 1 - A Concessionária assume a posição de proponente, nos termos da lei, sendo a única responsável pela obtenção das licenças e autorizações ambientais necessárias ao desenvolvimento das actividades integradas na Concessão.
 
@@ -1122,7 +1236,9 @@ d) A aceitação de tais terceiros de que qualquer alteração aos contratos que
 
 6 - A Concessionária deve promover acções de educação ambiental e colaborar com organizações ambientais, autoridades locais e outras entidades relevantes na promoção ambiental do Troço Poceirão-Caia.
 
-###### Base LVIII — Entidade de Acompanhamento Ambiental
+Base LVIII
+
+Entidade de Acompanhamento Ambiental
 
 1 - A Concessionária deve contratar uma entidade independente para o acompanhamento ambiental durante o Período de Desenvolvimento, designada por Entidade de Acompanhamento Ambiental, a qual tem como principal incumbência a verificação do cumprimento das obrigações e a monitorização do desempenho da Concessionária em matéria de ambiente.
 
@@ -1138,7 +1254,9 @@ d) A aceitação de tais terceiros de que qualquer alteração aos contratos que
 
 7 - A Entidade de Acompanhamento Ambiental e a proposta de âmbito e conteúdo apresentadas pela Concessionária consideram-se tacitamente aprovadas no prazo de 30 dias a contar da sua apresentação, nos termos dos números anteriores, ao Concedente.
 
-###### Base LIX — Património histórico e achados arqueológicos
+Base LIX
+
+Património histórico e achados arqueológicos
 
 1 - A descoberta de qualquer património histórico ou arqueológico no decurso das obras de construção do Troço Poceirão-Caia não confere à Concessionária o direito à reposição do equilíbrio financeiro da Concessão, excepto se o Concedente impuser uma alteração de traçado do Troço Poceirão-Caia que implique a realização de nova avaliação de impacte ambiental em virtude da descoberta de tal património.
 
@@ -1150,7 +1268,9 @@ b) Sem prejuízo de não ser emitido o Certificado de Disponibilidade, o Concede
 
 3 - Nem a Declaração de Termo de Procedimento para a Emissão da Autorização de Segurança Provisória nem a Declaração de Termo de Procedimento para a Emissão da Autorização de Segurança Definitiva podem ser emitidas sem que a totalidade da obra do Troço Poceirão-Caia esteja concluída.
 
-###### Base LX — Relacionamento com populações e demais interessados
+Base LX
+
+Relacionamento com populações e demais interessados
 
 É obrigação da Concessionária, no quadro da divulgação pública do empreendimento do Troço Poceirão-Caia:
 
@@ -1182,7 +1302,9 @@ n) Garantir o registo fotográfico e áudio-visual das diversas fases de impleme
 
 ### CAPÍTULO XIV — Remuneração da Concessionária
 
-###### Base LXI — Limitação das receitas
+Base LXI
+
+Limitação das receitas
 
 1 - A Concessionária tem apenas direito a receber:
 
@@ -1194,7 +1316,9 @@ b) Outros rendimentos, desde que expressamente previstos nas presentes bases e n
 
 3 - O exercício de actividades acessórias propostas pela Concessionária, nos termos do número anterior, fica sujeito à autorização expressa do Concedente.
 
-###### Base LXII — Pagamentos durante o Período de Desenvolvimento
+Base LXII
+
+Pagamentos durante o Período de Desenvolvimento
 
 1 - A Concessionária tem direito a receber, durante o Período de Desenvolvimento, um pagamento anual calculado da seguinte forma:
 
@@ -1212,7 +1336,9 @@ FC(índice t) = montante relativo a Fundos Comunitários, no ano t, nos termos d
 
 2 - No final do Período de Desenvolvimento, se necessário, o Caso Base deverá ser objecto de ajustamento determinado nos termos do Contrato de Concessão.
 
-###### Base LXIII — Pagamentos durante o Período de Disponibilidade
+Base LXIII
+
+Pagamentos durante o Período de Disponibilidade
 
 1 - A Concessionária tem direito a receber, durante o Período de Disponibilidade, uma remuneração anual calculada da seguinte forma:
 
@@ -1238,19 +1364,25 @@ D(índice t) = Deduções de Desempenho a aplicar à Concessionária, no ano t, 
 
 CT(índice t) = Componente de Tráfego, no ano t, nos termos definidos no Contrato de Concessão.
 
-###### Base LXIV — Métodos de Pagamento à Concessionária
+Base LXIV
+
+Métodos de Pagamento à Concessionária
 
 Os pagamentos referidos nas bases lxii e lxiii são efectuados pelo Concedente e pela REFER, E. P. E., nas datas e nas condições indicadas no Contrato de Concessão.
 
 ### CAPÍTULO XV — Fiscalização do cumprimento das obrigações da Concessionária
 
-###### Base LXV — Funções da REFER
+Base LXV
+
+Funções da REFER
 
 1 - A REFER, E. P. E., representa o Concedente no Contrato de Concessão, competindo-lhe exercer os poderes e os direitos atribuídos ao Concedente no Contrato de Concessão.
 
 2 - Todas as decisões susceptíveis de envolver aumentos dos custos do Estado ou da REFER, E. P. E., com a Concessão devem ser autorizadas pelos membros do Governo responsáveis pela área das finanças e pela tutela sectorial.
 
-###### Base LXVI — Fiscalização pelo Concedente
+Base LXVI
+
+Fiscalização pelo Concedente
 
 1 - A Concessionária faculta ao Concedente, ou a qualquer entidade por este nomeada, livre acesso a todo o Empreendimento Concessionado, bem como a todos os livros de actas, listas de presenças e documentos anexos relativos à Concessionária, livros, registos e documentos relativos às instalações e actividades objecto da Concessão, incluindo as estatísticas e registos de gestão utilizados, e presta sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
 
@@ -1266,7 +1398,9 @@ Os pagamentos referidos nas bases lxii e lxiii são efectuados pelo Concedente e
 
 7 - O Concedente pode recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior.
 
-###### Base LXVII — Controlo da construção
+Base LXVII
+
+Controlo da construção
 
 1 - A Concessionária obriga-se a apresentar, semestralmente, ao Concedente, um relatório geral de progresso, tendo em consideração o previsto no Calendário de Factos Relevantes.
 
@@ -1278,7 +1412,9 @@ Os pagamentos referidos nas bases lxii e lxiii são efectuados pelo Concedente e
 
 ### CAPÍTULO XVI — Terceiros
 
-###### Base LXVIII — Responsabilidade perante o Concedente
+Base LXVIII
+
+Responsabilidade perante o Concedente
 
 1 - A Concessionária é a única responsável, perante o Concedente, pelo desenvolvimento de todas as actividades concessionadas e pelo cabal cumprimento das obrigações assumidas no Contrato de Concessão, independentemente da contratação dessas actividades, no todo ou em parte, com terceiros e sem prejuízo das obrigações e responsabilidades directamente assumidas perante o Concedente pelas contrapartes nesses contratos.
 
@@ -1286,7 +1422,9 @@ Os pagamentos referidos nas bases lxii e lxiii são efectuados pelo Concedente e
 
 3 - Não são oponíveis ao Concedente quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela Concessionária com quaisquer terceiros, incluindo com as Entidades Financiadoras e com os seus accionistas.
 
-###### Base LXIX — Atravessamento do Canal Ferroviário
+Base LXIX
+
+Atravessamento do Canal Ferroviário
 
 1 - Quando, ao longo do período da Concessão, se venha a mostrar necessário o atravessamento do canal ferroviário, licenciado pela REFER, E. P. E., por quaisquer instalações ou redes de serviço público não previstas anteriormente, a Concessionária deve permitir a sua instalação e manutenção, as quais têm, porém, de ser executadas de forma a não causar perturbação da circulação ferroviária.
 
@@ -1296,7 +1434,9 @@ Os pagamentos referidos nas bases lxii e lxiii são efectuados pelo Concedente e
 
 ### CAPÍTULO XVII — Garantias do cumprimento das obrigações da Concessionária
 
-###### Base LXX — Garantias
+Base LXX
+
+Garantias
 
 1 - O cumprimento das obrigações assumidas pela Concessionária no Contrato de Concessão é garantido, cumulativamente, através de:
 
@@ -1322,15 +1462,21 @@ b) Garantia bancária, emitida por instituição de crédito em benefício do Co
 
 6 - Todas as despesas e obrigações relativas à prestação da caução são da responsabilidade da Concessionária.
 
-###### Base LXXI — Utilização da caução
+Base LXXI
+
+Utilização da caução
 
 O Concedente pode utilizar a caução nos termos previstos no CCP e, também, sem necessidade de prévia decisão judicial ou arbitral sobre a matéria em causa, sempre que a Concessionária não proceda ao pagamento das multas contratuais, dos prémios de seguro ou sempre que tal se revele necessário em virtude da aplicação de qualquer disposição contratual.
 
-###### Base LXXII — Reposição do valor da caução
+Base LXXII
+
+Reposição do valor da caução
 
 Sempre que o Concedente utilize a caução, a Concessionária deve proceder à reposição do seu montante integral no prazo de 15 dias a contar da notificação que, para o efeito, lhe seja feita pelo Concedente, salvo nos casos de resolução do Contrato de Concessão pelo Concedente.
 
-###### Base LXXIII — Cobertura por seguros
+Base LXXIII
+
+Cobertura por seguros
 
 1 - A Concessionária deve assegurar a existência, e manutenção em vigor, das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão, emitidas por seguradoras aceites pelo Concedente.
 
@@ -1350,7 +1496,9 @@ Sempre que o Concedente utilize a caução, a Concessionária deve proceder à r
 
 ### CAPÍTULO XVIII — Incumprimento e cumprimento defeituoso do Contrato
 
-###### Base LXXIV — Incumprimento
+Base LXXIV
+
+Incumprimento
 
 1 - Sem prejuízo da possibilidade de sequestro ou resolução da Concessão, nos casos e nos termos previstos no Contrato de Concessão e na lei, o incumprimento, pela Concessionária, de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei, das presentes bases ou do Contrato de Concessão, pode ser sancionado, por decisão exclusiva do Concedente, pela aplicação de multas contratuais, cujo valor pode variar entre (euro) 1000 e (euro) 1 000 000.
 
@@ -1370,7 +1518,9 @@ Sempre que o Concedente utilize a caução, a Concessionária deve proceder à r
 
 9 - Uma vez atingido o limite máximo a que se refere o número anterior, o Concedente pode, a título sancionatório, resolver o contrato e aplicar as sanções previstas no Contrato de Concessão ou na lei em caso de incumprimento pela Concessionária.
 
-###### Base LXXV — Força maior
+Base LXXV
+
+Força maior
 
 1 - Consideram-se, unicamente, casos de força maior os acontecimentos, imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária.
 
@@ -1412,27 +1562,37 @@ g) A Concessionária obriga-se a comunicar, de imediato, ao Concedente a ocorrê
 
 ### CAPÍTULO XIX — Autorizações do Concedente
 
-###### Base LXXVI — Aprovações do Concedente
+Base LXXVI
+
+Aprovações do Concedente
 
 A aprovação ou a não aprovação dos estudos e projectos e a emissão ou recusa de emissão de autorizações ou aprovações, pelo Concedente, não acarreta qualquer responsabilidade para este nem exonera a Concessionária do cumprimento pontual das obrigações assumidas no Contrato de Concessão ou da responsabilidade que porventura lhe advenha da imperfeição daqueles, das concepções previstas ou da execução das obras, excepto em caso de modificações unilateralmente impostas pelo Concedente, relativamente às quais a Concessionária tenha manifestado, por escrito, reservas referentes à segurança, qualidade ou durabilidade das mesmas e a responsabilidade concreta que for invocada pelo Concedente ou por terceiro lesado ou o vício de que as obras venham a padecer decorram directamente de factos incluídos em tais reservas.
 
-###### Base LXXVII — Contagem de prazo para as aprovações do Concedente
+Base LXXVII
+
+Contagem de prazo para as aprovações do Concedente
 
 1 - Sem prejuízo do disposto em contrário nas presentes bases, os prazos de emissão, pelo Concedente, de autorizações ou aprovações previstas no Contrato de Concessão contam-se da submissão do respectivo pedido desde que este se mostre instruído com toda a documentação que o deva acompanhar e suspendem-se com o pedido, pelo Concedente, de esclarecimentos ou documentos adicionais e até que estes sejam prestados ou entregues.
 
 2 - A falta de autorização ou aprovação do Concedente, quando esta for, nos termos do das presentes bases ou do Contrato de Concessão, necessária, fere de nulidade os actos ou contratos a elas sujeitos.
 
-###### Base LXXVIII — Contratos de Projecto
+Base LXXVIII
+
+Contratos de Projecto
 
 1 - Carecem de aprovação prévia do Concedente a substituição, suspensão, modificação, cancelamento ou a resolução dos Contratos de Projecto, bem como a celebração, pela Concessionária, de qualquer negócio jurídico que tenha por objecto as matérias reguladas pelos mesmos.
 
 2 - A decisão do Concedente sobre pedido que lhe tenha sido dirigido em cumprimento do disposto na presente base deve ocorrer no prazo de 90 dias, findo o qual, na falta de pronúncia expressa por parte do Concedente, se considera tacitamente concedida a aprovação solicitada.
 
-###### Base LXXIX — Contratos de Financiamento
+Base LXXIX
+
+Contratos de Financiamento
 
 Exceptuam-se do disposto no número anterior, no âmbito dos Contratos de Financiamento, as alterações relativas à identidade das Entidades Financiadoras, do Banco Depositário, do Banco Agente do Modelo Financeiro e do Banco Agente do Empréstimo, tal como esses termos são definidos nos Contratos de Financiamento.
 
-###### Base LXXX — Outras autorizações do Concedente
+Base LXXX
+
+Outras autorizações do Concedente
 
 1 - Carecem de autorização expressa do Concedente a suspensão, substituição, modificação, cancelamento ou a resolução dos seguintes documentos:
 
@@ -1450,21 +1610,29 @@ d) Apólices de seguro referidas na base lxxiii.
 
 ### CAPÍTULO XX — Responsabilidade extracontratual perante terceiros
 
-###### Base LXXXI — Responsabilidade pela culpa e pelo risco
+Base LXXXI
+
+Responsabilidade pela culpa e pelo risco
 
 A Concessionária responde, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco.
 
-###### Base LXXXII — Responsabilidade por prejuízos causados por entidades contratadas
+Base LXXXII
+
+Responsabilidade por prejuízos causados por entidades contratadas
 
 A Concessionária responde, nos termos gerais da relação comitente-comissário, pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na Concessão.
 
-###### Base LXXXIII — Execução de trabalhos por terceiros
+Base LXXXIII
+
+Execução de trabalhos por terceiros
 
 Constitui especial dever da Concessionária exigir a qualquer entidade com que venha a contratar que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
 
 ### CAPÍTULO XXI — Modificações subjectivas na Concessão
 
-###### Base LXXXIV — Cedência, oneração e alienação
+Base LXXXIV
+
+Cedência, oneração e alienação
 
 1 - Sem prejuízo do disposto em contrário no Contrato de Concessão, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou o Contrato de Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
 
@@ -1474,17 +1642,21 @@ Constitui especial dever da Concessionária exigir a qualquer entidade com que v
 
 ### CAPÍTULO XXII — Caducidade, termo, extinção e suspensão da Concessão
 
-###### Base LXXXV — Caducidade
+Base LXXXV
+
+Caducidade
 
 O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes, sem prejuízo dos efeitos das disposições que, pela sua natureza ou pela sua letra, se destinem a perdurar para além daquela data.
 
-###### Base LXXXVI — Reversão de bens no Termo da Concessão
+Base LXXXVI
+
+Reversão de bens no Termo da Concessão
 
 1 - No Termo da Concessão, revertem, gratuita e automaticamente, para o Concedente todos os bens que integram o Estabelecimento da Concessão, obrigando-se a Concessionária a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do Contrato de Concessão, e livres de quaisquer ónus ou encargos, satisfazendo plenamente os requisitos técnicos estabelecidos nas presentes bases e, em especial, no Contrato de Concessão.
 
 2 - No fim do prazo da Concessão os activos deverão ser entregues ao Concedente em estado que satisfaça as seguintes condições de Duração Residual Mínima:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/04/07201/0000200030.pdf))](https://files.diariodarepublica.pt/1s/2010/04/07201/0000200030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/04/07201/0000200030.pdf)
 
 3 - Todos os bens não contemplados no quadro previsto no número anterior deverão ser entregues em estado que garanta 50 % da vida útil de cada um dos seus componentes.
 
@@ -1496,7 +1668,9 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 7 - Os montantes entregues ao abrigo do número anterior são entregues à Concessionária, na medida em que não forem efectivamente utilizados, acrescidos de juros calculados à taxa EURIBOR para o prazo de três meses. Caso tenha sido prestada a garantia bancária referida na parte final do número anterior, o Concedente reembolsa à Concessionária a proporção, face ao montante dela não utilizado, do seu custo.
 
-###### Base LXXXVII — Efeitos do Termo da Concessão
+Base LXXXVII
+
+Efeitos do Termo da Concessão
 
 1 - O Termo da Concessão importa a extinção imediata dos Contratos de Projecto, sem prejuízo do disposto nas presentes bases e nos acordos que o Concedente tenha estabelecido ou venha a estabelecer directamente com as respectivas contrapartes.
 
@@ -1504,7 +1678,9 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 3 - O disposto no n.º 1 em nada prejudica a vigência dos Contratos de Financiamento no que se refere, exclusivamente, às relações jurídicas entre as Entidades Financiadoras e a Concessionária.
 
-###### Base LXXXVIII — Resgate
+Base LXXXVIII
+
+Resgate
 
 1 - Nos últimos 10 anos de vigência da Concessão, pode o Concedente proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate.
 
@@ -1516,7 +1692,9 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 5 - Com o resgate, são libertadas, um ano depois, a caução e as demais garantias a que se refere a base lxx, mediante comunicação dirigida pelo Concedente aos respectivos depositários ou emitentes.
 
-###### Base LXXXIX — Sequestro
+Base LXXXIX
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, ou estando o mesmo iminente, o Concedente pode, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, suspendendo os pagamentos e recebendo directamente as remunerações a que a Concessionária teria direito.
 
@@ -1538,7 +1716,9 @@ b) Violação de deveres e obrigações da Concessionária emergentes do Contrat
 
 8 - A Concessionária pode optar pela resolução da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 10 da base xc.
 
-###### Base XC — Resolução sancionatória
+Base XC
+
+Resolução sancionatória
 
 1 - Para além dos casos previstos na lei, o Concedente pode pôr fim à Concessão através de resolução sancionatória do Contrato de Concessão, em caso de violação grave, não sanada ou não sanável, das obrigações da Concessionária decorrentes do Contrato de Concessão ou das presentes bases.
 
@@ -1580,17 +1760,23 @@ i) Actividade fraudulenta destinada a lesar o interesse público.
 
 ### CAPÍTULO XXIII — Condição financeira da Concessionária
 
-###### Base XCI — Assunção de riscos
+Base XCI
+
+Assunção de riscos
 
 A Concessionária assume, expressa, integral e exclusivamente, a responsabilidade por todos os riscos inerentes à Concessão, excepto nos casos especificamente previstos nas presentes bases ou no Contrato de Concessão.
 
-###### Base XCII — Caso Base
+Base XCII
+
+Caso Base
 
 1 - As Partes acordam que o Caso Base representa a equação financeira com base na qual é efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base xciii.
 
 2 - O Caso Base apenas pode ser alterado quando haja lugar, nos termos do número seguinte, à reposição do equilíbrio financeiro da Concessão, e exclusivamente, para reflectir a reposição efectuada, bem como quando da realização de um Refinanciamento da Concessão.
 
-###### Base XCIII — Reposição do Equilíbrio Financeiro
+Base XCIII
+
+Reposição do Equilíbrio Financeiro
 
 1 - Sem prejuízo do disposto na lei, nomeadamente nos artigos 282.º e 314.º do CCP, a Concessionária tem direito à reposição do equilíbrio financeiro da Concessão, nos termos dispostos neste número, nos seguintes casos:
 
@@ -1658,7 +1844,9 @@ b) Valor mínimo do Rácio de Cobertura da Vida do Empréstimo é reduzido em ma
 
 c) A Taxa Interna de Rendibilidade anual nominal para os accionistas da Concessionária é reduzida em mais de 0,0100 %.
 
-###### Base XCIV — Refinanciamento da Concessão
+Base XCIV
+
+Refinanciamento da Concessão
 
 1 - A Concessionária, em articulação com o Concedente, pode proceder ao Refinanciamento da Concessão, de forma a assegurar a obtenção de níveis de eficiência mais elevados e custos adequados aos riscos envolvidos.
 
@@ -1694,13 +1882,17 @@ c) Numa composição resultante das alternativas anteriores.
 
 14 - Ocorrendo Refinanciamento da Concessão, o Caso Base será alterado para reflectir as novas facilidades dele decorrentes, bem como o mecanismo de partilha do benefício do Refinanciamento da Concessão.
 
-###### Base XCV — IRC
+Base XCV
+
+IRC
 
 1 - Quando ocorra variação da taxa global de tributação directa sobre o lucro das sociedades que, conjunta ou isoladamente, tenha por efeito a variação da TIR Accionista em mais de 0,0100 pontos percentuais face ao que se encontra previsto no Caso Base, a Concessionária pagará ou receberá do Concedente, consoante o caso, os valores que, simulados no Caso Base, reponham, ano a ano, o valor do Cash Flow Accionista caso tal variação não tivesse ocorrido.
 
 2 - O plano de pagamentos ou de recebimentos do valor referido no número anterior deve ser objecto de acordo entre as Partes, devendo, em qualquer caso, o pagamento ou recebimento, conforme for o caso, ocorrer em 30 de Junho do ano a que respeita.
 
-###### Base XCVI — Alterações à Proposta
+Base XCVI
+
+Alterações à Proposta
 
 1 - O Concedente pode autorizar alterações à Proposta que lhe sejam submetidas, nalguma das fases de projecto, pela Concessionária, desde que aquelas correspondam a uma melhoria e a um aperfeiçoamento da Proposta:
 
@@ -1728,7 +1920,9 @@ c) Que não implique aumento das despesas de manutenção e conservação.
 
 ### CAPÍTULO XXIV — Direitos de propriedade industrial e intelectual
 
-###### Base XCVII — Direitos de propriedade industrial e intelectual
+Base XCVII
+
+Direitos de propriedade industrial e intelectual
 
 1 - A Concessionária cede, gratuitamente, ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária seja pelos terceiros que para o efeito subcontratar.
 
@@ -1736,7 +1930,9 @@ c) Que não implique aumento das despesas de manutenção e conservação.
 
 ### CAPÍTULO XXV — Vigência da Concessão
 
-###### Base XCVIII — Entrada em vigor
+Base XCVIII
+
+Entrada em vigor
 
 1 - O Contrato de Concessão entra em vigor às 24 horas do dia da sua assinatura, contando-se a partir dessa data o prazo de duração da Concessão.
 
@@ -1746,7 +1942,9 @@ c) Que não implique aumento das despesas de manutenção e conservação.
 
 ### CAPÍTULO XXVI — Disposições diversas
 
-###### Base XCIX — Investimento em investigação e desenvolvimento
+Base XCIX
+
+Investimento em investigação e desenvolvimento
 
 1 - A Concessionária tem a obrigação de promover e financiar um programa de investigação e desenvolvimento em matérias relacionadas com o objecto principal da concessão, designadamente nas áreas dos transportes, engenharia ferroviária, ambiente e energia, a concretizar em território nacional, em cooperação com terceiras entidades, de valor correspondente a 1 % do Preço Contratual.
 
@@ -1758,13 +1956,17 @@ c) Que não implique aumento das despesas de manutenção e conservação.
 
 ### CAPÍTULO XXVII — Resolução de diferendos
 
-###### Base C — Processo de arbitragem
+Base C
+
+Processo de arbitragem
 
 1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão são resolvidos por arbitragem.
 
 2 - A submissão de qualquer questão a arbitragem não exonera as Partes do pontual e atempado cumprimento das disposições destas bases ou do Contrato de Concessão, nem exonera a Concessionária do cumprimento das determinações do Concedente que, no seu âmbito, lhe sejam comunicadas, mesmo que posteriormente ao pedido de constituição do tribunal arbitral, nem permite ou justifica qualquer interrupção do normal desenvolvimento das actividades integradas na Concessão.
 
-###### Base CI — Tribunal arbitral
+Base CI
+
+Tribunal arbitral
 
 1 - O tribunal arbitral é composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/655-1970-146179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d09dbe8d24a97bcbca8ac1ddd7283d92cbcc8e00ae87c2cac1eb7a807d1125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0377d4a227a393cbe61a1ab628890c4967fba4f160f9a6432e8b58f9761d030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486877:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:14Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +105,25 @@ Considerando a necessidade de criar a Escola de Instrutores de Educação Físic
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas o [Decreto-Lei n.º 49233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066), de 11 de Setembro de 1969, com excepção do n.º 2 do artigo 7.º e do n.º 3 do artigo 9.º e com as seguintes alterações:
 
-###### Artigo 1.º São criadas a Escola de Instrutores de Educação Física de Luanda e a Escola de Instrutores de Educação Física de Lourenço Marques, estabelecimentos de ensino público, de grau médio, que ficam na dependência do Conselho Provincial de Educação Física da respectiva província.
+Artigo 1.º São criadas a Escola de Instrutores de Educação Física de Luanda e a Escola de Instrutores de Educação Física de Lourenço Marques, estabelecimentos de ensino público, de grau médio, que ficam na dependência do Conselho Provincial de Educação Física da respectiva província.
 
-###### Art. 2.º - 1. Os indivíduos diplomados por qualquer das referidas Escolas têm direito ao título de instrutores de educação física e ficam habilitados a ministrar a educação física, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas, de harmonia com o disposto no [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966.
+Art. 2.º - 1. Os indivíduos diplomados por qualquer das referidas Escolas têm direito ao título de instrutores de educação física e ficam habilitados a ministrar a educação física, sob a orientação de diplomados com o curso de professores do Instituto Nacional de Educação Física, em estabelecimentos de ensino público ou particular ou em organismos onde se pratiquem actividades gimnodesportivas, de harmonia com o disposto no [Decreto n.º 46912](https://diariodarepublica.pt/dr/detalhe/decreto/46912-1966-486877), de 19 de Março de 1966.
 
 2. O disposto no número anterior aplica-se, para todos os efeitos legais, aos alunos que frequentaram em Lourenço Marques cursos que ali vêm sendo regidos com base na [Portaria n.º 21770](https://diariodarepublica.pt/dr/detalhe/portaria/21770-1966-233332), de 3 de Janeiro de 1966.
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 2. ...
 
 3. Por despacho do governador-geral podem ser admitidos a frequentar o curso, com dispensa de provas práticas, os indivíduos que à data da publicação do presente diploma tenham exercido o lugar de professor contratado ou eventual de Educação Física em estabelecimentos de ensino secundário oficial durante, pelo menos, cinco anos, com informação de bom e efectivo serviço.
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. O director e subdirector, que perceberão gratificações pelo exercício dos seus cargos, serão nomeados pelo governador-geral, sobre proposta do Conselho Provincial de Educação Física.
 
 3. As gratificações serão fixadas pelos órgãos legislativos da província.
 
-###### Art. 5.º - 1. ...
+Art. 5.º - 1. ...
 
 2. ...
 
@@ -115,7 +131,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 4. ...
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. ...
 
@@ -123,14 +139,14 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 4. Os lugares de professor extraordinário são providos por escolha do governador-geral de entre indivíduos de reconhecida competência, sobre parecer do respectivo conselho escolar.
 
-###### Art. 9.º - 1. O pessoal docente, técnico e administrativo da escola pode também ser admitido em regime de comissão de serviço.
+Art. 9.º - 1. O pessoal docente, técnico e administrativo da escola pode também ser admitido em regime de comissão de serviço.
 
 2. ...
 
-###### Art. 10.º Dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, o Conselho Provincial de Educação Física submeterá aprovação do governador-geral o Regulamento da Escola de Instrutores de Educação Física.
+Art. 10.º Dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, o Conselho Provincial de Educação Física submeterá aprovação do governador-geral o Regulamento da Escola de Instrutores de Educação Física.
 
-###### Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados por dotação global a inscrever no orçamento ordinário do Conselho Provincial de Educação Física.
+Art. 11.º Os encargos resultantes da execução do presente diploma serão suportados por dotação global a inscrever no orçamento ordinário do Conselho Provincial de Educação Física.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2007/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2007-638512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf8ce927c3dbeb87b539ea0ca5c5d13a6493dda7aade84a9ef36c56878e21a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0cbae73a3cae5fb6d3353a30f49f9f4499df58243fd7aac5ae95615184e70f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
+- Comércio
 - Controlo de Qualidade
 - Controlo Sanitário
 - Pesticida
 - Produto Fitofarmacêutico
-- Agricultura
-- Comércio
 - Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:543004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641462:por
+  label: "Alterado o Anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.334/2007.10.10.2007.MADRP,\
+    \ DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-2007-641462
+  date: '2007-10-10'
+- type: amended_by
+  target: pt:dre:246540:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.61/2008.28.03.2008.MADRP,\
+    \ DR.IS [62] de 28.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2008-246540
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:490243:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.240/2009.16.09.2009.MADRP,\
+    \ DR.IS [180] de 16.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2009-490243
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:614299:por
+  label: "Alterado, e publicado em anexo, o anexo i do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC\
+    \ LEI.44/2010.03.05.2010.MADRP, DR.IS [85] de 03.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2010-614299
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:342790:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.106/2010.01.10.2010.MADRP,\
+    \ DR.IS [192] de 01.10.2010, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2010-342790
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279674:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr,na redacção do presente diploma, pelo DEC LEI.24/2011.11.02.2011.MADRP,\
+    \ DR.IS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2011-279674
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:670023:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.80/2011.20.06.2011.MADRP,\
+    \ DR.IS [117] de 20.06.2011, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2011-670023
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:543004:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-abr, na redacção do presente diploma, pelo DEC LEI.37/2012.16.02.2012.MAMAOT,\
+    \ DR.IS [34] de 16.02.2012, de acordo com o respectivo anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2012-543004
+  date: '2012-02-16'
 - type: cites
   target: celex:31991L0414
   label: null
@@ -100,16 +148,21 @@ relationships:
   target: celex:32006L0075
   label: null
   source: http://data.europa.eu/eli/dir/2006/75/oj
+- type: corrected_by
+  target: pt:dre:636420:por
+  label: "Rectificado pela DECL-RECT.73/2007.27.07.2007.PCM, DR.IS [144] de 27.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-2007-636420
+  date: '2007-07-27'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:50Z'
   warnings: []
   errors: []
 ---
@@ -168,15 +221,15 @@ b) Até 30 de Setembro de 2010 ou até ao final do prazo estabelecido nos decret
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Maio de 2007.**
+Promulgado em 15 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Maio de 2007.**
+Referendado em 16 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -188,4 +241,4 @@ Ao anexo I do Decreto-Lei n.º 94/98, de 15 de Abril, na redacção dada a esse 
 
 Substâncias activas inscritas na Lista Positiva Comunitária cuja utilização em produtos fitofarmacêuticos é autorizada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10200/34483453.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10200/34483453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10200/34483453.pdf)

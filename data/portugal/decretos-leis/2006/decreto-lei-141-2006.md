@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14400/53445356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2006/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fdb91b22fc9ab147547c2cd17f550f54059ab747c4165218531cd730ba2891a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3463b3d1b9b283dbacc06a1eea88c685c5a1c91ec783d49a9e3795409e7377e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86/2003/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2003/04/26/p/dre
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177863:por
+  label: "Revogado, a partir de 01.07.2012, o Dec Lei 86/2003, de 26-abr, na redação do presente diploma, pelo DEC LEI.111/2012.23.05.2012.MF,\
+    \ DR.IS [100] de 23.05.2012, nos termos dos art. 47º e 48º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2012-177863
+  date: '2012-05-23'
 article_structure:
-  article_count: 49
+  article_count: 32
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:29Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +186,9 @@ e) ...
 
 6 - As parcerias público-privadas promovidas por empresas públicas sob a forma societária devem observar, com as devidas adaptações, as exigências materiais e os princípios constantes do presente decreto-lei, designadamente os resultantes dos artigos 4.º, 5.º, 6.º, 7.º, 14.º-C e 14.º-F, sendo o respectivo acompanhamento e controlo pelos Ministros das Finanças e da tutela sectorial exercidos através da função accionista do Estado.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -176,11 +196,15 @@ e) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 No âmbito das parcerias público-privadas, incumbe ao parceiro público o acompanhamento e o controlo da execução do objecto da parceria, de forma a garantir que são alcançados os fins de interesse público subjacentes, e ao parceiro privado cabe, preferencialmente, o financiamento, bem como o exercício e a gestão da actividade contratada.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +232,9 @@ g) A identificação expressa da entidade pública que tem a responsabilidade de
 
 6 - Nos casos em que sejam apresentadas propostas com variantes assentes em pressupostos diferentes daqueles que serviram de base à declaração de impacte ambiental, os riscos inerentes à variante correm exclusivamente por conta do parceiro privado.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os ministros das tutelas sectoriais que pretendam iniciar processos de parceria público-privada devem notificar o Ministro das Finanças, para efeitos de constituição de uma comissão de acompanhamento da preparação e da avaliação prévia do projecto, apresentando o respectivo estudo estratégico e as minutas dos instrumentos jurídicos para a realização do procedimento prévio à contratação.
 
@@ -248,7 +274,9 @@ f) Colaborar com as entidades incumbidas da fiscalização e acompanhamento glob
 
 10 - Em casos excepcionais, devidamente fundamentados, a constituição da comissão de acompanhamento pode ser dispensada, nos termos e no prazo referidos no n.º 3.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Até ao início do procedimento prévio à contratação, a comissão de avaliação de propostas é designada por despacho conjunto dos Ministros das Finanças e da tutela sectorial, aplicando-se à respectiva composição, com as devidas adaptações, o disposto no n.º 4 do artigo anterior, podendo a mesma ser alargada, em casos devidamente fundamentados, até sete ou nove elementos, sendo observada a paridade entre Ministérios na respectiva nomeação.
 
@@ -256,7 +284,9 @@ f) Colaborar com as entidades incumbidas da fiscalização e acompanhamento glob
 
 3 - É aplicável à comissão de avaliação das propostas, com as necessárias adaptações, o regime previsto nos n.os 6, 8 e 9 do artigo 8.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Até ao termo do prazo fixado nos termos do n.º 6 do artigo 8.º, a comissão de acompanhamento, ouvido o órgão de gestão da entidade pública interessada, quando for o caso, submete à consideração dos Ministros das Finanças e da tutela sectorial, em relatório fundamentado, uma recomendação da decisão a ser tomada.
 
@@ -284,7 +314,9 @@ h) A declaração de impacte ambiental, quando exigível nos termos da lei aplic
 
 5 - O lançamento da parceria é feito segundo o procedimento adjudicatório aplicável, nos termos da legislação relativa à contratação pública.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo da competência prevista na lei para autorização de despesa, a adjudicação é realizada mediante despacho conjunto dos Ministros das Finanças e da tutela sectorial ou, quando se trate de entidades com personalidade jurídica, por acto do respectivo órgão de gestão precedido de despacho conjunto favorável daqueles ministros, aos quais compete apreciar o relatório elaborado pela comissão de avaliação de propostas, nos termos do artigo anterior, e verificar a conformidade com o disposto no n.º 1 do artigo 6.º e no artigo 7.º, bem como com as alíneas c) a g) do n.º 4 do artigo anterior.
 
@@ -296,7 +328,9 @@ h) A declaração de impacte ambiental, quando exigível nos termos da lei aplic
 
 5 - A interrupção do procedimento de constituição da parceria é obrigatória sempre que se apresente apenas um concorrente no respectivo procedimento adjudicatório, salvo decisão expressa e fundamentada dos Ministros das Finanças e da tutela sectorial.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -324,7 +358,9 @@ g) Proceder ao arquivo e registos de elementos relacionados com as parcerias.
 
 6 - Sem prejuízo do disposto nos números anteriores, quando a complexidade, o valor ou o interesse público da parceria o justifiquem, os Ministros das Finanças e da tutela sectorial podem designar uma comissão de acompanhamento da fase inicial da execução do contrato em causa, mediante despacho conjunto, que fixa o âmbito da missão atribuída à respectiva comissão, observando-se, com as devidas adaptações, o disposto nos n.os 3 a 9 do artigo 8.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -350,7 +386,9 @@ Programas sectoriais de parcerias
 
 3 - O estudo previsto no número anterior deve demonstrar a aptidão do projecto para atrair o sector privado, tendo em conta os potenciais interessados e as condições de mercado existentes.
 
-###### Artigo 14.º-A — Competências da comissão de negociação
+Artigo 14.º-A
+
+Competências da comissão de negociação
 
 1 - Compete à comissão de negociação representar o parceiro público nas negociações que venham a ocorrer com o parceiro privado, bem como elaborar o correspondente relatório, submetendo-o à apreciação do órgão máximo do serviço do Estado que deu origem ao início do processo de alteração da parceria ou do órgão de gestão do respectivo parceiro público, quando se trate de entidade com personalidade jurídica.
 
@@ -364,7 +402,9 @@ c) Proceder à estimativa do impacte potencial dos riscos, directa ou indirectam
 
 d) Fazer menção aos elementos indicados nas alíneas d), e) e g) do n.º 4 do artigo 10.º
 
-###### Artigo 14.º-B — Processo de alteração da parceria
+Artigo 14.º-B
+
+Processo de alteração da parceria
 
 1 - Quando o órgão máximo do serviço do Estado ou o órgão de gestão, quando se trate de entidades com personalidade jurídica, considerar que o processo de alteração da parceria se encontra em condições de ser concluído, deve remeter aos Ministros das Finanças e da tutela sectorial o relatório a que se refere o n.º 1 do artigo anterior, acompanhado da minuta das alterações contratuais e de todos os elementos considerados relevantes.
 
@@ -372,7 +412,9 @@ d) Fazer menção aos elementos indicados nas alíneas d), e) e g) do n.º 4 do 
 
 3 - Emergindo novas situações susceptíveis de fundamentarem outra alteração à mesma parceria ou situações que fundamentem a reposição do equilíbrio financeiro do respectivo contrato, compete à comissão de negociação que se encontre em funções conduzir o respectivo processo.
 
-###### Artigo 14.º-C — Equilíbrio financeiro e novas actividades
+Artigo 14.º-C
+
+Equilíbrio financeiro e novas actividades
 
 1 - Pode haver lugar à reposição do equilíbrio financeiro do respectivo contrato quando ocorra uma alteração significativa das condições financeiras de desenvolvimento da parceria, nomeadamente nos casos de modificação unilateral, imposta pelo parceiro público, do conteúdo das obrigações contratuais do parceiro privado ou das condições essenciais de desenvolvimento da parceria.
 
@@ -396,7 +438,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que venha a s
 
 7 - Quando o parceiro privado pretenda exercer actividades não previstas expressamente no contrato de parceria, a autorização das entidades que aprovaram a celebração do contrato de parceria não pode em caso algum ser emitida quando as propostas apresentadas não contenham a respectiva projecção económico-financeira e uma partilha da correspondente receita.
 
-###### Artigo 14.º-D — Acréscimo de encargos
+Artigo 14.º-D
+
+Acréscimo de encargos
 
 1 - Sem prejuízo da observância do regime jurídico relativo à realização de despesas públicas, carece de despacho prévio de concordância dos Ministros das Finanças e da tutela sectorial, a emitir no prazo de 30 dias, findo o qual se presume tacitamente emitido, a realização, redução ou alteração de obras não previstas ou programadas em contrato de parceria já celebrado ou qualquer outra decisão susceptível de, no âmbito da execução do respectivo contrato e das condições aí fixadas, gerar um acréscimo dos encargos previstos para o parceiro público ou para o Estado, excepto se o respectivo valor não exceder, em termos acumulados anuais, (euro) 1000000.
 
@@ -406,7 +450,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que venha a s
 
 4 - Quando o serviço ou a entidade que representa o parceiro público na execução dos contratos de parcerias tomarem conhecimento de situações susceptíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes no desenvolvimento do processo, devem, de imediato, comunicar tais factos aos Ministros das Finanças e da tutela sectorial, sempre que possível com indicação dos valores estimados envolvidos.
 
-###### Artigo 14.º-E — Acompanhamento de processos arbitrais
+Artigo 14.º-E
+
+Acompanhamento de processos arbitrais
 
 1 - Quando, nos termos de contrato de parceria já celebrado, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o serviço ou entidade que representar o parceiro público no contrato de parceria deve comunicar imediatamente aos Ministros das Finanças e da tutela sectorial a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo.
 
@@ -414,7 +460,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que venha a s
 
 3 - Devem ser remetidas, periodicamente, à entidade directamente incumbida de proceder ao acompanhamento do respectivo processo arbitral, cópias dos actos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareceres técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
 
-###### Artigo 14.º-F — Consultores externos
+Artigo 14.º-F
+
+Consultores externos
 
 1 - Sem prejuízo da observância do regime jurídico relativo à realização de despesas públicas, a decisão de contratar consultores para apoio no âmbito de processos de parcerias público-privadas deve identificar ou conter:
 
@@ -454,15 +502,15 @@ São revogados os n.os 4 e 5 do artigo 14.º do [Decreto-Lei n.º 86/2003](https
 
 Visto e aprovado em Conselho de Ministros de 27 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia - Francisco Ventura Ramos.
 
-**Promulgado em 8 de Julho de 2006.**
+Promulgado em 8 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 17 de Julho de 2006.**
+Referendado em 17 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -824,7 +872,9 @@ Os artigos 1.º, 12.º e 18.º do [Decreto-Lei n.º 185/2002](https://diariodare
 
 O presente diploma define os princípios e os instrumentos para o estabelecimento de parcerias em saúde, em regime de gestão e financiamento privados, entre o Ministério da Saúde ou instituições e serviços integrados no Serviço Nacional de Saúde e outras entidades, nos termos do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), de 26 de Abril.
 
-###### Artigo 12.º — Competências do Ministro da Saúde
+Artigo 12.º
+
+Competências do Ministro da Saúde
 
 1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:
 
@@ -846,7 +896,9 @@ h) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato
 
 2 - O disposto nas alíneas a) a e) do número anterior observa o regime previsto no [Decreto-Lei n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), de 26 de Abril.
 
-###### Artigo 18.º — Remuneração da entidade gestora
+Artigo 18.º
+
+Remuneração da entidade gestora
 
 1 - ...
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/236-1972-679865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e929487d370c37f58db25215ab1e7b6ecb0b1528284c0fd90a8a792d7cb208c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56074f8c5049e18e3301f57131b5de82adc73792810c5b4cfe8ac7d38fc87a45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:40Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +91,6 @@ de 29 de Abril
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e Secretários de Estado da Aeronáutica e das Comunicações e Transportes, que o montante dos subsídios a conceder nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957 seja no ano de 1972 o seguidamente indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/10100/05350535.pdf))](https://files.diariodarepublica.pt/1s/1972/04/10100/05350535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/10100/05350535.pdf)
 
 Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

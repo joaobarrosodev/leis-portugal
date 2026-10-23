@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/20500/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2022/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dca075382a168d7f5709fb468b04374ac9e7f1c04ae906326e0a33673b2343e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff0cb6c26a3645824ea32dbf8f3e0e9e03f672f5b6ad54d71cf4425e0f2a166b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
+- Agência para a Gestão Integrada de Fogos Rurais
+- Autarquia Local
 - Central Termoeléctrica
-- Energia Elétrica
-- Proteção da Floresta
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Fiscalização
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
 - Licenciamento
 - Matéria-Prima
-- Instituto da Conservação da Natureza e das Florestas
 - Ordenamento Florestal
-- Proteção do Ambiente
-- Entidade Reguladora dos Serviços Energéticos
 - Prazo
 - Preço
+- Prevenção de Incêndios
 - Produção de Energia Elétrica
+- Proteção da Floresta
+- Proteção do Ambiente
 - Rede Elétrica de Serviço Público
 - Sector Florestal
-- Autarquia Local
-- Agência para a Gestão Integrada de Fogos Rurais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2019/08/22/p/dre
@@ -107,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/2017/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/2017/06/12/p/dre
+- type: cites
+  target: pt:dre:107507169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124134339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:56Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +179,9 @@ a) Aos pedidos de instalação e exploração de centrais de biomassa apresentad
 
 b) A um máximo de potência de injeção na rede elétrica de serviço público (RESP), no continente, de 60 MW e, por cada central, de 10 MW.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -175,13 +197,17 @@ b) [...]
 
 c) 'Territórios vulneráveis' as freguesias identificadas nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 28-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483), de 26 de junho, na sua redação atual.
 
-###### Artigo 2.º-A — [...]
+Artigo 2.º-A
+
+[...]
 
 1 - [...]
 
 2 - Os pedidos são apresentados junto da Direção-Geral de Energia e Geologia (DGEG).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -205,13 +231,17 @@ e) [...]
 
 6 - Os títulos de reserva de capacidade de injeção na RESP, emitidos nos termos previstos no n.º 1 do artigo 5.º, em nome dos interessados que não obtenham vencimento no processo de licitação caducam, devendo ser-lhes restituída a caução prestada, no prazo de cinco dias e nos termos estabelecidos no [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro.
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 1 - O cumprimento do requisito previsto na alínea c) do n.º 2 do artigo anterior é demonstrado mediante parecer vinculativo do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a solicitar pela DGEG, no prazo de três dias após a receção do pedido referido no artigo 2.º-A.
 
 2 - O parecer referido no número anterior é emitido no prazo de 30 dias.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de atribuição de licença de produção é precedido da obtenção de título de reserva de capacidade de injeção na RESP, nos termos estabelecidos no [Decreto-Lei n.º 15/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2022-177634016), de 14 de janeiro.
 
@@ -223,7 +253,9 @@ e) [...]
 
 5 - Por portaria dos membros do Governo responsáveis pelas áreas da energia e das florestas são fixados os elementos instrutórios do pedido de licença de produção e de licença de exploração, incluindo o disposto no artigo 6.º-B, os elementos necessários à emissão do parecer previsto no artigo 3.º-A, bem como do procedimento de licitação previsto no n.º 3 do artigo 3.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -243,7 +275,9 @@ b) Um prémio por MWh no âmbito do contributo dado pela central para a gestão 
 
 7 - [...]
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - [...]
 
@@ -275,15 +309,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de setembro de 2022. - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Rui Manuel Costa Martinho.
 
-**Promulgado em 14 de outubro de 2022.**
+Promulgado em 14 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2022.**
+Referendado em 17 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -420,3 +454,5 @@ b) Um prémio por MWh no âmbito do contributo dado pela central para a gestão 
 ###### Artigo 8.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+115790687

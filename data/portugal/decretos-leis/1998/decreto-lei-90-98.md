@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/1998/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1998-167177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b811b00e4bd569572562107f23e220c7aeef138f355b7dd666f9508757a3698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d13277b820cca191bfe5a158531a9e5483182e5c0c4c4f9092149e1c5edcf422
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - ADSE
 - Assistência Médica
-- Pessoal Dirigente
 - Criação de Lugares
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Subdirector Geral
 relationships:
@@ -78,16 +78,30 @@ relationships:
   target: pt:dre:25343710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343710:por
+  label: "Alterados os arts. 46º e 47º do Dec Lei 118/83 de 25-fev, na redação do presente diploma, pela LEI.30/2014.19.05.2014.AR,\
+    \ DR.IS [95] de 19.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2014-25343710
+  date: '2014-05-19'
+- type: cites
+  target: pt:dre:282916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:04Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +132,17 @@ Princípio geral
 
 A gestão da ADSE compete ao director-geral, coadjuvado por três subdirectores-gerais e pelo conselho administrativo.
 
-###### Artigo 47.º — Constituição
+Artigo 47.º
+
+Constituição
 
 1 - A direcção da ADSE é constituída por um director-geral, coadjuvado por três subdirectores-gerais.
 
 2 - Nas suas faltas e impedimentos, o director-geral é substituído pelo subdirector-geral que para o efeito for designado.
 
-###### Artigo 49.º — Constituição
+Artigo 49.º
+
+Constituição
 
 1 - ...
 
@@ -148,12 +166,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 30 de Março de 1998.**
+Promulgado em 30 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Abril de 1998.**
+Referendado em 2 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

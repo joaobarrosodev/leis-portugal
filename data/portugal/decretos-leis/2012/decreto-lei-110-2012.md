@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2012/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313f92b6d0b8a7e3d94a57ee14e9d8f6d63c35014fc1488bd6ce68bd7146dc35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74d473e0312a656d3def33589ee8e1ccc69005ebdd98e7beb928b6cde2d526a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Equipamento Desportivo
-- Definição de Competências
-- Fiscalização
 - ASAE
 - Câmara Municipal
+- Definição de Competências
+- Equipamento Desportivo
+- Fiscalização
 - Regime Jurídico
 relationships:
 - type: cites
@@ -83,15 +83,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/141/2009/06/16/p/dre
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:30Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +134,9 @@ Os artigos 10.º, 18.º e 19.º do Decreto-Lei n.º 141/2009, de 16 de junho, pa
 
 5 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Decorridos os prazos para emissão da autorização de utilização ou para realização da vistoria, nos termos do previsto no artigo 65.º do RJUE, o interessado na abertura ao público e início de funcionamento das instalações desportivas deve apresentar uma mera comunicação prévia à câmara municipal, através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, instruída com os seguintes elementos:
 
@@ -152,7 +154,9 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -168,12 +172,12 @@ Em virtude da publicação da Lei n.º 126-C/2011, de 29 de dezembro, que aprova
 
 Visto e aprovado em Conselho de Ministros de 29 de março de 2012. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 11 de maio de 2012.**
+Promulgado em 11 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de maio de 2012.**
+Referendado em 16 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

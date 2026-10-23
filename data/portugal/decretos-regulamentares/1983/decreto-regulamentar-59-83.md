@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1983-452692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f93ae36bc96a187042e135c714d8e0bcc409bcee865dba2f1c3d55c12e2b37e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16277c89e86d5b8dd41a5d09415260b8b7f584e9b0be22004f5abe96d74fba4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:534618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 375/88 DE 08-JUN DR.IS [132]\02]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-06-08'
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682059:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534618:por
+  label: "Revogado pelo DEC LEI.296/94.1994.11.17.MOPTC, DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1994-534618
+  date: '1994-11-17'
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:03Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +138,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados ao [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, o n.º 3 do artigo 4.º, n.os 1, alínea d), e 3 do artigo 11.º, o artigo 14.º-A, os n.os 1, alíneas e), f), g), h) e i), e 2 do artigo 16.º, o artigo 20.º-A, os n.os 1, alíneas c) e d), e 2 do artigo 22.º, o artigo 24.º-A, os n.os 1, alíneas d), e), f), g), h) e i), e 2 do artigo 26.º, o artigo 28.º-A, as alíneas a), b) e c) do artigo 34.º, o artigo 37.º-A, o n.º 3 do artigo 40.º e os n.os 1, A), alíneas c) e d), B), alíneas c) e d), C), alíneas b), c) e d), D), alíneas b) e c) do artigo 43.º, rectificados os n.os 2, 3, 4 e 5 e aditados os n.os 5 e 6 ao mesmo artigo, com a seguinte redacção:
+Artigo 1.º São aditados ao [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, o n.º 3 do artigo 4.º, n.os 1, alínea d), e 3 do artigo 11.º, o artigo 14.º-A, os n.os 1, alíneas e), f), g), h) e i), e 2 do artigo 16.º, o artigo 20.º-A, os n.os 1, alíneas c) e d), e 2 do artigo 22.º, o artigo 24.º-A, os n.os 1, alíneas d), e), f), g), h) e i), e 2 do artigo 26.º, o artigo 28.º-A, as alíneas a), b) e c) do artigo 34.º, o artigo 37.º-A, o n.º 3 do artigo 40.º e os n.os 1, A), alíneas c) e d), B), alíneas c) e d), C), alíneas b), c) e d), D), alíneas b) e c) do artigo 43.º, rectificados os n.os 2, 3, 4 e 5 e aditados os n.os 5 e 6 ao mesmo artigo, com a seguinte redacção:
 
 ###### ARTIGO 4.º — (Conceito)
 
@@ -242,21 +268,21 @@ a) Repartição de Pessoal:
 
 #### Secção de Pessoal;
 
-#### Secção de Cadastro;
+Secção de Cadastro;
 
 b) Repartição dos Serviços Gerais:
 
-#### Secção de Expediente Geral e Arquivo;
+Secção de Expediente Geral e Arquivo;
 
-#### Secção de Recepção e Cobrança de Taxas;
+Secção de Recepção e Cobrança de Taxas;
 
-#### Secção de Transgressões;
+Secção de Transgressões;
 
 c) Repartição de Contabilidade e Património - Tesouraria:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Património e Aquisições;
+Secção de Património e Aquisições;
 
 Tesouraria;
 
@@ -330,7 +356,7 @@ c) Delegação de Transportes de Faro, com uma Secção de Exploração.
 
 6 - As delegações de transportes serão chefiadas por um técnico superior ou técnico, a designar pelo director-geral.
 
-###### Art. 2.º O artigo 36.º do [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O artigo 36.º do [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, passa a ter a seguinte redacção:
 
 ###### ARTIGO 36.º — (Atribuições da Repartição dos Serviços Gerais)
 
@@ -344,29 +370,29 @@ c) Proceder à recepção de documentos, à cobrança e registo de taxas devidas
 
 d) Instruir os processos de transgressões relativos a infracções à legislação sobre transportes terrestres, promovendo toda a sua tramitação e organizando o respectivo arquivo.
 
-###### Art. 3.º Os lugares de chefe de secção e de escriturário-dactilógrafo do quadro de pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, e alterado pela [Portaria n.º 949/80](https://diariodarepublica.pt/dr/detalhe/portaria/949-1980-457982), de 8 de Novembro, passa a ser o constante do mapa anexo ao presente diploma.
+Art. 3.º Os lugares de chefe de secção e de escriturário-dactilógrafo do quadro de pessoal da Direcção-Geral de Transportes Terrestres, aprovado pelo [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, e alterado pela [Portaria n.º 949/80](https://diariodarepublica.pt/dr/detalhe/portaria/949-1980-457982), de 8 de Novembro, passa a ser o constante do mapa anexo ao presente diploma.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Carlos Pinto Soromenho Viana Baptista - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf)
 
 Programação da satisfação das necessidades de pessoal referentes a lugares dos quadros
 
 Para efeitos do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, apresenta-se o mapa com o programa de preenchimento escalonado dos novos lugares de chefe de secção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14800/23722375.pdf)
 
 Notas
 

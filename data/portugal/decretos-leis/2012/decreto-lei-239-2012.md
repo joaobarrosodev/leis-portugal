@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/2012/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-2012-191514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42a2ac313c566d96e90c59b2b04cb764601cbde29441c0121f3c33a514249631
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d042728c5751c0d8723f89342907e03ec26d57360c0be5e8ae5e482274cbf717
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Definição de Competências
-- Fiscalização
 - Direção Geral do Território
+- Fiscalização
+- Ordenamento do Território
 - Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:207272800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498122:por
+  label: "Alterado, a partir de 17.10.2013, o art. 20.º do Dec Lei 166/2008, de 22-ago, redação do presente diploma, pelo\
+    \ DEC LEI.96/2013.19.07.2013.MAMAOT, DR.IS [138] de 19.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2013-498122
+  date: '2013-07-19'
+- type: amended_by
+  target: pt:dre:124256708:por
+  label: Alterados os arts. 2.º a 4.º, 7.º a 9.º, 11.º, 12.º, 15.º a 16.º-A, 18.º, 20.º (este último na redação do Dec Lei
+    96/2013, de 19-jul), 22.º, 24.º, 25.º, 33.º, 35.º, 37.º, 39.º, 43.º e 44.º, revogados o n.º 4 do art. 7.º, o n.º 2 do
+    art. 33.º, os arts. 41.º, 45.º e as subals. iii) a vii) do n.º 3 do ponto I da secção I do anexo I e alterados os anexos
+    I, II, III e IV todos do Dec Lei 166/2008, de 22-ago, na versão revista e republicada pelo presente diploma pelo(a) Decreto-Lei
+    n.º 124/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2019-124256708
+  date: '2019-08-28'
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Altera, com efeitos, a 01.03.2023, o art. 24.º do presente diploma, na versão republicada pelo Dec Lei 124/2019 de
+    28-ago, pelo(a) Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -117,16 +138,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2012/10/03/p/dre
+- type: cites
+  target: pt:dre:175805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67212743:por
+  label: Revogados a partir de 13.07.2015 os arts. 28.º a 31.º do Dec Lei 166/2008, de 22-ago, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 80/2015 - Diário da República n.º 93/2015, Série I de 2015-05-14, nos termos art. 205.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2015-67212743
+  date: '2015-05-14'
 article_structure:
-  article_count: 73
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 57
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:28Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +350,9 @@ d) ...
 
 e) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -271,15 +396,21 @@ c) A receção da proposta de delimitação devidamente reformulada, nos termos 
 
 15 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A Direção-Geral do Território procede ao depósito das cartas da REN e da respetiva memória descritiva, bem como das eventuais correções materiais e retificações efetuadas ao abrigo do artigo 19.º
 
 2 - ...
 
-###### Artigo 14.º — (Revogado.)
+Artigo 14.º
 
-###### Artigo 15.º — [...]
+(Revogado.)
+
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +418,9 @@ c) A receção da proposta de delimitação devidamente reformulada, nos termos 
 
 3 - O disposto nos n.os 5 a 13 do artigo 11.º e no artigo 12.º aplica-se às situações de delimitação da REN que ocorram em simultâneo com a elaboração, alteração ou revisão de plano municipal de ordenamento do território.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As alterações da delimitação da REN devem salvaguardar a preservação dos valores naturais fundamentais, bem como a prevenção e mitigação de riscos para pessoas e bens.
 
@@ -299,9 +432,13 @@ c) A receção da proposta de delimitação devidamente reformulada, nos termos 
 
 5 - O disposto no presente artigo pressupõe necessariamente o cumprimento das normas legais e regulamentares aplicáveis, designadamente as constantes nos instrumentos de gestão territorial e nos demais regimes jurídicos de licenciamento.
 
-###### Artigo 17.º — (Revogado.)
+Artigo 17.º
 
-###### Artigo 19.º — [...]
+(Revogado.)
+
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +448,9 @@ c) A receção da proposta de delimitação devidamente reformulada, nos termos 
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -331,7 +470,9 @@ iii) (Revogada.)
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -357,9 +498,13 @@ c) Foi objeto de parecer desfavorável da Agência Portuguesa do Ambiente, I. P.
 
 9 - O disposto no presente artigo pressupõe necessariamente o cumprimento das normas legais e regulamentares aplicáveis, designadamente as constantes nos instrumentos de gestão territorial e nos demais regimes jurídicos de licenciamento.
 
-###### Artigo 23.º — (Revogado.)
+Artigo 23.º
 
-###### Artigo 24.º — [...]
+(Revogado.)
+
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -379,19 +524,25 @@ c) Foi objeto de parecer desfavorável da Agência Portuguesa do Ambiente, I. P.
 
 9 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As áreas integradas na REN podem ser incluídas em operações de loteamento desde que não sejam destinadas a usos ou ações incompatíveis com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais.
 
 2 - As áreas integradas na REN podem ser consideradas para efeitos de cedências destinadas a espaços verdes públicos e de utilização coletiva, infraestruturas e equipamentos que sejam compatíveis, nos termos do presente decreto-lei, com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais daquelas áreas.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Na elaboração dos planos municipais de ordenamento do território, as áreas integradas na REN são consideradas para efeitos de estabelecimento dos mecanismos de perequação compensatória dos benefícios e encargos entre os proprietários.
 
 2 - Sem prejuízo do disposto no número anterior, as áreas da REN não são contabilizadas para o cálculo da edificabilidade nos casos em que os planos municipais de ordenamento do território assim o determinem.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -413,7 +564,9 @@ b) (Revogada.)
 
 8 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -425,7 +578,9 @@ b) (Revogada.)
 
 5 - No caso dos municípios sem delimitação de REN em vigor, o procedimento de revisão dos planos diretores municipais apenas pode ser aprovado, sob pena de nulidade, se a respetiva delimitação municipal da REN for efetuada ao abrigo das orientações estratégicas de âmbito nacional e regional, aprovadas pela [Resolução do Conselho de Ministros n.º 81/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/81-2012-175805), de 3 de outubro.
 
-###### Artigo 43.º — Adaptação das delimitações municipais
+Artigo 43.º
+
+Adaptação das delimitações municipais
 
 1 - (Revogado.)
 
@@ -485,7 +640,9 @@ O anexo i do [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/detalhe
 
 [...]
 
-#### SECÇÃO I — [...]
+SECÇÃO I
+
+[...]
 
 a) [...]
 
@@ -663,7 +820,9 @@ ii) Manutenção do equilíbrio e da dinâmica flúvio-marinha.
 
 l) (Revogada.)
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 a) [...]
 
@@ -731,7 +890,9 @@ v) Prevenir e reduzir o risco de intrusão salina, no caso dos aquíferos costei
 
 vi) Assegurar a sustentabilidade dos ecossistemas de águas subterrâneas, principalmente nos aquíferos cársicos, como por exemplo invertebrados que ocorrem em cavidades e grutas.
 
-#### SECÇÃO III — [...]
+SECÇÃO III
+
+[...]
 
 a) [...]
 
@@ -835,15 +996,15 @@ O presente diploma entra em vigor no dia 1 de dezembro de 2012.
 
 Visto e aprovado em Conselho de Ministros de 20 de setembro de 2012. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 23 de outubro de 2012.**
+Promulgado em 23 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de outubro de 2012.**
+Referendado em 25 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -851,13 +1012,13 @@ Visto e aprovado em Conselho de Ministros de 20 de setembro de 2012. - Pedro Pas
 
 Usos e ações compatíveis com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais de áreas integradas na REN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 43.º)
 
 Correspondência das áreas definidas no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de março, com as novas categorias de áreas integradas na REN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
 
 ## ANEXO II — (a que se refere o artigo 7.º)
 
@@ -1867,7 +2028,7 @@ iii) Prevenção e redução do risco, garantindo a segurança de pessoas e bens
 
 Usos e ações compatíveis com os objetivos de proteção ecológica e ambiental e de prevenção e redução de riscos naturais de áreas integradas na REN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
 
 ## ANEXO III — Áreas sujeitas a autorização, nos termos do artigo 42.º, no caso de inexistência de delimitação municipal ao abrigo do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de março
 
@@ -1895,4 +2056,4 @@ j) Escarpas e abruptos de erosão com desnível superior a 15 m, incluindo faixa
 
 Correspondência das áreas definidas no [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de março, com as novas categorias de áreas integradas na REN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21200/0630806346.pdf)

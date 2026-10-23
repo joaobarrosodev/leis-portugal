@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(2) a 7-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23701/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101-c/2020/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19093e71a9696ec00e6879774665779a033e5d29659b75935eeead0adb186c33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98be4506780841787659715cf363e8add53ddd549944dce400604175e22b4f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
 subjects:
 - Acidente de Transporte
 - Administração de Cooperação Internacional
+- Agência Ferroviária da União Europeia
 - Aproximação das Legislações
 - Autorização Legislativa
 - Comissão Europeia dos Direitos do Homem
 - Contra-ordenação
-- Transporte Ferroviário
-- Regulamentação de Atos Legislativos
-- União Europeia
 - Gabinete de Investigação de Segurança e de Acidentes Ferroviários
-- Investigação
-- Política de Transportes
-- Relatório
-- Polícia Criminal
 - Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários
-- Agência Ferroviária da União Europeia
+- Investigação
+- Polícia Criminal
+- Política de Transportes
+- Regulamentação de Atos Legislativos
+- Relatório
+- Transporte Ferroviário
+- União Europeia
 relationships:
 - type: cites
   target: celex:31995L0018
@@ -123,6 +123,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2020/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2020/10/13/p/dre
+- type: cites
+  target: pt:dre:106663786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31995L0018
   label: null
@@ -136,15 +160,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 38
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:24Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +243,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se à investigação de segurança de acidentes e incidentes no transporte ferroviário que ocorram em território nacional, cuja competência seja, nos termos do [Decreto-Lei n.º 36/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2017-106663786), de 28 de março, do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários (GPIAAF), sem prejuízo das competências próprias das autoridades judiciárias e dos órgãos de polícia criminal.
 
@@ -233,7 +259,9 @@ f) [...]
 
 6 - Quando ocorram em território nacional acidentes ou incidentes envolvendo empresas ferroviárias estabelecidas ou licenciadas noutros Estados-Membros ou um veículo registado ou mantido noutros Estados-Membros, deve o GPIAAF, se aplicável, convidar os organismos competentes desses Estados-Membros a participar na investigação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -257,7 +285,9 @@ d) Os pedidos dos gestores das infraestruturas, das empresas ferroviárias, da A
 
 7 - A investigação de segurança prevista nos n.os 1 e 3 não tem por objetivo o apuramento de culpas ou a determinação de responsabilidades, é independente e ocorre sem prejuízo de eventuais processos judiciais ou administrativos que visem apurar culpas ou imputar responsabilidades.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Imediatamente após a notificação de um acidente ou incidente, o chefe de equipa multidisciplinar da área de transporte ferroviário do GPIAAF designa um investigador responsável pela investigação.
 
@@ -267,7 +297,9 @@ d) Os pedidos dos gestores das infraestruturas, das empresas ferroviárias, da A
 
 4 - Em caso de impedimento do investigador responsável nomeado, ou quando a gestão operacional do GPIAAF o justifique, pode o chefe de equipa referido no n.º 1 nomear outro investigador responsável em sua substituição.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +343,9 @@ q) [...]
 
 5 - As competências atribuídas ao investigador responsável podem ser delegadas nos membros da comissão de investigação constituída nos termos do disposto no n.º 2 do artigo anterior.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - No exercício das suas competências, aos investigadores do GPIAAF deve ser facultado, com a maior brevidade possível:
 
@@ -337,7 +371,9 @@ h) O direito de inquirir o pessoal ferroviário envolvido no acidente ou inciden
 
 4 - Os investigadores concluem as suas investigações no local do acidente no mais curto prazo possível, por forma a dar ao gestor da infraestrutura a possibilidade de a repor em condições e a abrir aos serviços de transporte ferroviário com a maior brevidade.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - São de notificação obrigatória ao GPIAAF todos os acidentes e incidentes verificados no território português, exceto quanto aos verificados em elétricos e funiculares em exploração em contexto rodoviário urbano, aos quais esta notificação só se aplica no caso de acidentes graves.
 
@@ -359,7 +395,9 @@ b) 48 horas, nas restantes ocorrências.
 
 8 - O GPIAAF deve decidir no prazo máximo de dois meses, após a receção da notificação do acidente ou incidente em questão, se abre ou não a investigação de segurança, sem prejuízo de dever desenvolver, no menor prazo possível após a notificação, a recolha de evidências relativas à infraestrutura e ao material circulante que considere necessária para instruir essa decisão, com vista a minimizar eventual impacto no serviço ferroviário.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O GPIAAF não deve divulgar os documentos constantes do processo de investigação de segurança, salvo a autoridade judiciária ou a órgão de polícia criminal, a pedido destes.
 
@@ -373,7 +411,9 @@ b) 48 horas, nas restantes ocorrências.
 
 6 - Os factos referidos no número anterior que ainda estejam sujeitos ao segredo de justiça e que devam constar dos relatórios elaborados pelo investigador responsável e pelos investigadores de segurança só podem ser divulgados após autorização da autoridade judiciária competente.
 
-###### Artigo 10.º — Estatuto da investigação de segurança e sua condução
+Artigo 10.º
+
+Estatuto da investigação de segurança e sua condução
 
 1 - A investigação de segurança tem natureza de urgência sobre outras atividades, devendo ser realizada no mais curto prazo possível.
 
@@ -385,7 +425,9 @@ b) 48 horas, nas restantes ocorrências.
 
 5 - Para efeitos do dever de informação a que se refere n.º 3, devem ser considerados como partes interessadas o gestor da infraestrutura, as empresas ferroviárias em questão, a autoridade nacional de segurança ferroviária, a Agência Ferroviária da União Europeia, as entidades exploradoras dos sistemas guiados, quando não se trate de caminho de ferro pesado, as vítimas e os seus familiares, os proprietários de bens danificados, os fabricantes, os serviços de urgência médica competentes, bem como os representantes dos trabalhadores e dos utilizadores.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -393,7 +435,9 @@ b) 48 horas, nas restantes ocorrências.
 
 3 - As entidades destinatárias das recomendações de segurança devem tomar as medidas necessárias para garantir que essas recomendações são devidamente tidas em conta e, se for caso disso, aplicadas, devendo o GPIAAF ser informado, pelo menos semestralmente, das medidas tomadas ou previstas na sequência da comunicação da recomendação.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os custos decorrentes das peritagens técnicas e da reconstituição de acidentes e incidentes, no âmbito da investigação de segurança, são da responsabilidade do gestor da infraestrutura ou dos operadores, consoante a natureza da peritagem técnica ou reconstituição solicitada.
 
@@ -401,7 +445,9 @@ b) 48 horas, nas restantes ocorrências.
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A violação das disposições dos n.os 1 a 4 do artigo 8.º constitui contraordenação punível com coima de (euro) 1000 a (euro) 3740, quando se trate de pessoa singular, e de (euro) 2500 a (euro) 15 000, quando se trate de pessoa coletiva.
 
@@ -439,7 +485,9 @@ d) Verificação, exame, recolha de vestígios e identificação de provas nos e
 
 6 - A cooperação entre a investigação de segurança e o procedimento criminal não prejudica os respetivos objetivos e independência.
 
-###### Artigo 8.º-B — Proteção do local do acidente e do material circulante
+Artigo 8.º-B
+
+Proteção do local do acidente e do material circulante
 
 1 - Coexistindo inquérito de segurança e procedimento criminal, o investigador responsável articula-se com as autoridades judiciárias e com os órgãos de polícia criminal a operar na dependência destas, garantindo a harmonização e a melhor sequenciação de procedimentos, a fim de evitar que uma investigação inviabilize ou dificulte a outra, nomeadamente pela não preservação dos locais ou pela contaminação da prova.
 
@@ -455,7 +503,9 @@ d) Verificação, exame, recolha de vestígios e identificação de provas nos e
 
 7 - Ao investigador responsável compete decidir, no menor tempo possível, e parcelarmente, se necessário para minimizar constrangimentos no serviço ferroviário, a libertação do material circulante e dos componentes da infraestrutura quando já não sejam necessários à investigação, após prévia autorização da autoridade judiciária.
 
-###### Artigo 11.º-A — Relatório
+Artigo 11.º-A
+
+Relatório
 
 1 - As investigações de segurança são objeto de relatórios, cuja forma depende do tipo ou gravidade do acidente ou incidente e da importância das conclusões, em que constem os objetivos da investigação e, se for caso disso, recomendações de segurança.
 
@@ -483,15 +533,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Berta Ferreira Milheiro Nunes - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 2 de dezembro de 2020.**
+Promulgado em 2 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2020.**
+Referendado em 3 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -800,3 +850,5 @@ O GPIAAF conserva a documentação respeitante à investigação de segurança p
 1 - O processamento das contraordenações compete ao GPIAAF e a aplicação das coimas ao seu diretor.
 
 2 - As receitas provenientes das coimas revertem em 40 % para o GPIAAF e no restante para o Estado.
+
+113784868

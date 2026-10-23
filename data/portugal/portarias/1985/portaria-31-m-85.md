@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(13) a 72-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf
 entry_into_force_dates: []
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61590c3bb8e244d9cd0c1f6555313a0583bb88fbc1d4eb79a6f98379f0123a82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a8e9407910af2326849eef6be62ca70a274b495b1062a88cce3766886da11d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EDP
+- Energia Elétrica
+- Fundo de Apoio Térmico
+- Preço
+- TAXA Adicional
 relationships:
 - type: amended_by
   target: pt:dre:316712:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS O PONTO 1.9 DO PREÂMBULO, O NUMERO 1 DO NUMERO 2, O NUMERO 2 DO NUMERO 2 E O QUADRO 1 ANEXO, PELA PORTARIA
+    61/85, DE 30 DE JANEIRO, PUBLICADA NO DR.IS, 25.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-01-30'
+- type: cites
+  target: pt:dre:146000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:36Z'
   warnings: []
   errors: []
 ---
@@ -202,14 +245,14 @@ d) Nos casos em que, por razões imputáveis ao consumidor, não for possível e
 
 Ministério da Indústria e Energia
 
-**Assinada em 10 de Janeiro de 1985.**
+Assinada em 10 de Janeiro de 1985.
 
-**O Ministro da Indústria e Energia, José Veiga Simão.**
+O Ministro da Indústria e Energia, José Veiga Simão.
 
 QUADRO 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)
 
 QUADRO 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00130017.pdf)

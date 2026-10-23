@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/77/1995/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-1995-633736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a1c98c35b87e79523d9f5ee2bdd1ce165777c23201098d175a52905ea31f6a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a962197053e17371dd194cf4fa146dffd125fd6f7e08177e0334c2d672cbee4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 78
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:29Z'
   warnings: []
   errors: []
 ---
@@ -1032,7 +1052,7 @@ b) Os quadros do pessoal não docente do IPS são discriminados por serviços ce
 
 ###### Artigo 75.º — Cessação de funções
 
-**O presidente do IPS cessa funções com a tomada de posse do primeiro presidente eleito.**
+O presidente do IPS cessa funções com a tomada de posse do primeiro presidente eleito.
 
 ###### Artigo 76.º — Fim do regime de instalação
 
@@ -1046,4 +1066,4 @@ As dúvidas suscitadas na aplicação dos presentes Estatutos são resolvidas pe
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/280b00/75887596.pdf))](https://files.diariodarepublica.pt/1s/1995/12/280b00/75887596.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/280b00/75887596.pdf)

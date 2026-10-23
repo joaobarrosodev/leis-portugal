@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/109a00/20342038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2000/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2000-275432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebb808a11c37231861898b9d5ec29f5be8b690f734f99727ad184da2bb1e279a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce294c3c0c046b0973998d4e1e018d7805f30e865cbcf0d581b069b60b5d0cec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,47 @@ reuse:
 subjects:
 - Acção Financeira
 - Assembleia Geral
-- Sociedade Anónima
 - Capital Social
 - Estatuto
 - Fiscalização
 - Portugal Global
 - Quadro de Pessoal
 - SGPS
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:656091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642555:por
+  label: "Colocada na dependencia do Ministro da Cultura a Portugal Global S.G.P.S., S.A., pelo DEC LEI.247/2001.2001.09.18.PCM,\
+    \ DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2001-642555
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:584863:por
+  label: "Alterado o art. 2º deste diploma, bem como o art. 5º dos Estatutos publicados em anexo I e o anexo II, pelo DEC\
+    \ LEI.2/2002.2002.01.04.MF DR.IS-A [3]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2002-584863
+  date: '2002-01-04'
+- type: repealed_by
+  target: pt:dre:656091:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 2/2002, de 04-Jan, extinta a Portugal Global, SGPS, S. A., transferido\
+    \ o seu património para a Rádio e Televisão de Portugal, SGPS, S. A. à excepção das participações sociais referidas no\
+    \ nº 3 do art. 12º, que serão transferidas para o Estado, pela LEI.33/2003.2003.08.22.AR, DR.IS-A [193]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2003-656091
+  date: '2003-08-22'
 article_structure:
   article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:19Z'
   warnings: []
   errors: []
 ---
@@ -179,15 +198,15 @@ Fica por esta forma convocada a assembleia geral da Portugal Global, a qual deve
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Alberto de Sousa Martins - Armando António Martins Vara.
 
-**Promulgado em 26 de Abril de 2000.**
+Promulgado em 26 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Maio de 2000.**
+Referendado em 3 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 

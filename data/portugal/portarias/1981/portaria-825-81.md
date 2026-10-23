@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/825-1981-563191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6de4accbabd592d4cd75cb3cf8305adf4cb9ed84ee563a05b45a4c73c7b76cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24e6f632e48ec2acbb52f8436d161b9536a5939d978d0863573bddd9f4831274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faculdade de Ciências e Tecnologia
+- Pessoal Docente
+- Quadro de Pessoal
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:218481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218481:por
+  label: "Alterado o quadro de pessoal docente anexo ao presente diploma, pela PORT.123/98.1998.03.03.PCM DR.IS-B [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-1998-218481
+  date: '1998-03-03'
+- type: cites
+  target: pt:dre:138828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675867:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:55:37Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +135,4 @@ Ministérios das Finanças e do Plano, da Educação e Ciência e da Reforma Adm
 
 Mapa anexo à Portaria n.º 825/81
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21900/25352535.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21900/25352535.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21900/25352535.pdf)

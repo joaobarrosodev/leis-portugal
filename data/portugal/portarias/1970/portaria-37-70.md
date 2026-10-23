@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-1970-227043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bdd01feddfd992c5cb96b9b509108ab50a53227c0acd00524acf906b89b57ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22b8daae03c8fb9b638f353f434dc904e23d0efe610b29296e34d5e9bcd9a051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:26Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +176,7 @@ a) Aceleração do ritmo além do da respiração natural.
 
 b) Obstrução das vias respiratórias resultante da posição defeituosa da cabeça.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 C) Tratamento de queimaduras
 
@@ -194,17 +198,17 @@ I) Respiração por insuflação boca a boca:
 
 2.º Ajoelhar ao lado da vítima, levantar com uma das mãos a nuca da vítima e com a outra mão inclinar-lhe, o mais possível, a cabeça para trás e depois puxar com a primeira mão o queixo para cima (figura 3). Esta posição é indispensável para garantir a desobstrução das vias respiratórias e a livre passagem do ar, e por isso deve manter-se durante a operação de reanimação (figuras 1 e 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 3.º Inspirar a fundo. Obturar as narinas da vítima com os dedos polegar e indicador da mão que se apoia na testa e manter aberta a boca da vítima com a mão que segura o queixo. Aplicar a boca bem aberta na boca da vítima, de modo a evitar fugas de ar, e expirar, verificando ao mesmo tempo se o tórax da vítima aumenta de volume (figura 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 No caso de o tórax da vítima não aumentar de volume durante a insuflação, verificar de novo a posição da cabeça e do queixo da vítima e corrigi-la, se necessário.
 
 4.º Afastar a boca e deixar de obturar as narinas da vítima a fim de o ar poder sair dos pulmões pela boca e pelo nariz (figura 5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 5.º Repetir as operações 3.º e 4.º, sucessivamente todos os quatro a cinco segundos, até a respiração natural da vítima se manter.
 
@@ -220,13 +224,13 @@ III) Respiração por movimento dos braços (método Sylvester-Broosh):
 
 2.º Seguidamente pôr um joelho no chão atrás da cabeça da vítima, agarrar-lhe os braços, pelos pulsos, puxá-los para cima e, a seguir, para trás, por cima da cabeça até tocarem o chão (figura n.º 6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 3.º Conservar os braços nesta posição durante dois a três segundos (contando, por exemplo, em voz alta os números, seguidos, 151, 152).
 
 4.º Após esta pausa, mover os braços da vítima em sentido contrário até apoiar os antebraços no peito da vítima, comprimindo-o ligeiramente (figura 7).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf))](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/01/01400/00960098.pdf)
 
 5.º Fazer nova pausa de dois a três segundos (contando, por exemplo, em voz alta 153, 154).
 

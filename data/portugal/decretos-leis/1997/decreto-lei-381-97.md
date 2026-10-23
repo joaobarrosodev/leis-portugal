@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/300a00/68336844.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/381/1997/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1997-319925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbd4873ad082a66b1e99adcbb2e12d850963b65e39590ae76db11a19e65684c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f75ab02ea16d2cadcdf0efa3fcea2c0c22a5b850f1c5eed351fd70ad403caf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,58 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Consulado
-- Regulamento Consular
 - Ministério dos Negócios Estrangeiros
+- Regulamento Consular
 relationships:
 - type: amended_by
   target: pt:dre:603208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198116:por
+  label: "Exceptuada do disposto no nº 2 do art. 35º do Regulamento aprovado pelo presente diploma, a competência dos cônsules\
+    \ honorários para a prática dos actos a que respeitam os arts. 18º, nºs 2 e 3 do 24º, 46º, 47º, 48º, 49º, 52º, 53º, 56º,\
+    \ 59º, 79º e 80º da Tabela de Emolumentos Consulares, pelo DEC LEI.75/98.1998.03.27.MNE, DR.IS-A [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1998-198116
+  date: '1998-03-27'
+- type: amended_by
+  target: pt:dre:516741:por
+  label: "Alterados os arts. 6º e 77º do Regulamento Consular, aprovado pelo art. 1º do presente diploma, pela LEI.22/98.1998.05.12.AR\
+    \ DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-1998-516741
+  date: '1998-05-12'
+- type: amended_by
+  target: pt:dre:538616:por
+  label: "Alterados os arts. 1.º, 3.º, 27.º, 28.º, 30.º, 33.º, 40.º, 48.º, 49.º, 52.º e 56.º, aditado o art. 40.º-A, revogados\
+    \ os arts. 23.º, 24.º e 25.º todos do Regulamento Consular e republicado pelo Dec Lei.162/2006.08.08.2006.MNE, DR.IS [152]\
+    \ de 08.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2006-538616
+  date: '2006-08-08'
+- type: cites
+  target: pt:dre:629816:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276074:por
+  label: "Rectificado pela DECL-RECT.7-A/98.1998.03.24.PCM, DR.IS-A [76]3ºSupl de 31/Mar/19984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-1998-276074
+  date: '1998-03-24'
+- type: repealed_by
+  target: pt:dre:603208:por
+  label: "Revogado o presente diploma, alterado pela Lei 22/98, de 12-Maio, e pelo Dec Lei 162/2006, de 08-Ago, pelo DEC LEI.71/2009.31.03.2009.MNE,\
+    \ DR.IS [63] de 31.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2009-603208
+  date: '2009-03-31'
 article_structure:
   article_count: 87
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:02Z'
   warnings: []
   errors: []
 ---
@@ -137,19 +172,19 @@ O Regulamento Consular entra em vigor um mês após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - António José Martins Seguro.
 
-**Promulgado em 3 de Dezembro de 1997.**
+Promulgado em 3 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO CONSULAR
 
-# PARTE I — Da organização consular
+## PARTE I — Da organização consular
 
 ## TÍTULO I — Dos serviços consulares externos e dos titulares dos postos consulares
 
@@ -479,7 +514,7 @@ d) Recenseamento eleitoral.
 
 As facilidades, privilégios e imunidades relativos aos postos consulares, aos funcionários consulares de carreira e aos outros membros dos postos consulares são os concedidos pelo direito internacional público e pelas normas locais do Estado receptor.
 
-# PARTE II — Da acção consular
+## PARTE II — Da acção consular
 
 ## TÍTULO I — Das funções consulares
 
@@ -847,7 +882,7 @@ b) Colaborar com os respectivos postos e secções consulares, nos termos acorda
 
 2 - Os postos e secções consulares poderão apresentar propostas de aprofundamento e sistematização da colaboração referida no número anterior.
 
-# PARTE III — Dos membros do pessoal consular
+## PARTE III — Dos membros do pessoal consular
 
 ## TÍTULO I — Dos membros do pessoal consular
 

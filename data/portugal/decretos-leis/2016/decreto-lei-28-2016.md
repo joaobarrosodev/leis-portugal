@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2016/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2016-74774858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c813044d36170cf30ced33ca1dd31439864c5c7a61a1d01523ae80db96c49ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ea0c501b0c9bd10798fc9218d3b5a9a9545d3db0508bbdac586e9bc26b620e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Qualidade do AR
-- EEE
+- Certificação Energética dos Edifícios
 - Climatização
+- EEE
+- Eficiência Energética
+- Habitação
+- Poupança de Energia
+- Prédio Urbano
+- Qualidade do AR
 - Regulamento dos Sistemas Energéticos de Climatização em Edifícios
 - Sistema de Certificação Energética
-- Certificação Energética dos Edifícios
-- Poupança de Energia
-- Habitação
 - Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
-- Prédio Urbano
-- Eficiência Energética
 relationships:
 - type: cites
   target: celex:32002L0091
@@ -126,6 +126,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/80/2006/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/80/2006/04/04/p/dre
+- type: cites
+  target: pt:dre:145271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71100900:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0091
   label: null
@@ -135,15 +203,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 73
+  article_count: 60
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:51Z'
   warnings: []
   errors: []
 ---
@@ -302,7 +370,9 @@ ggg) [Revogada];
 
 hhh) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -328,7 +398,9 @@ j) [Anterior alínea g)];
 
 k) [Anterior alínea j)].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -360,7 +432,9 @@ d) Nos edifícios de comércio e serviços devolutos, para os efeitos previstos 
 
 8 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -372,7 +446,9 @@ d) Nos edifícios de comércio e serviços devolutos, para os efeitos previstos 
 
 5 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O registo no SCE dos pré-certificados e dos certificados SCE por parte dos PQ é feito mediante o pagamento de uma taxa, cuja receita é repartida, até 10 %, por um fundo destinado a apoiar projetos de eficiência energética a definir por despacho do membro do Governo responsável pela área da energia e o restante pela ADENE.
 
@@ -380,13 +456,17 @@ d) Nos edifícios de comércio e serviços devolutos, para os efeitos previstos 
 
 3 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O REH estabelece os requisitos mínimos para os edifícios de habitação, novos ou sujeitos a intervenções, bem como os parâmetros e as metodologias de caracterização do desempenho energético, em condições nominais, de todos os edifícios de habitação e dos seus sistemas técnicos, no sentido de promover a melhoria do respetivo comportamento térmico, a eficiência dos seus sistemas técnicos e a minimização do risco de ocorrência de condensações superficiais nos elementos da envolvente.
 
 2 - Os requisitos mínimos referidos no número anterior são estabelecidos de forma a alcançar níveis ótimos de rentabilidade e revistos periodicamente em função dos resultados da análise de custo ótimo realizada para os edifícios de habitação, com intervalos não superiores a cinco anos.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -398,7 +478,9 @@ a) [...];
 
 b) Monumentos e edifícios individualmente classificados ou em vias de classificação e edifícios integrados em conjuntos ou sítios classificados ou em vias de classificação, nos termos do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos [Decretos-Leis n.os 115/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2011-145271), de 5 de dezembro, e [265/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2012-190388), de 28 de dezembro, no que respeita à aplicação de requisitos mínimos de desempenho energético, na medida em que o cumprimento desses requisitos altere de forma inaceitável o seu caráter ou aspeto, tal como reconhecido por entidade competente para o licenciamento da operação urbanística.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -416,7 +498,9 @@ b) Monumentos e edifícios individualmente classificados ou em vias de classific
 
 8 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os componentes instalados, intervencionados ou substituídos em sistemas técnicos devem cumprir os requisitos mínimos de eficiência e outros definidos em portaria do membro do Governo responsável pela área da energia, sem prejuízo da obrigação geral de melhoria do desempenho energético de edifício ou de parte de edifício que seja sujeito a intervenção, na medida em que tal seja possível do ponto de vista técnico e funcional.
 
@@ -432,13 +516,17 @@ b) Monumentos e edifícios individualmente classificados ou em vias de classific
 
 7 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O RECS estabelece as regras a observar no projeto, na construção, na alteração, na operação e na manutenção de edifícios de comércio e serviços e seus sistemas técnicos, bem como os requisitos mínimos para a caracterização do seu desempenho, no sentido de promover a eficiência energética e a qualidade do ar interior.
 
 2 - Os requisitos mínimos referidos no número anterior são estabelecidos de forma a alcançar níveis ótimos de rentabilidade e revistos periodicamente em função dos resultados da análise de custo ótimo realizada para os edifícios de comércio e serviços, com intervalos não superiores a cinco anos.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -452,7 +540,9 @@ b) Os casos previstos nas alíneas a) a d) do artigo 4.º;
 
 c) Os monumentos e edifícios individualmente classificados ou em vias de classificação e os edifícios integrados em conjuntos ou sítios classificados ou em vias de classificação, nos termos do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, alterado pelos [Decretos-Leis n.os 115/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2011-145271), de 5 de dezembro, e [265/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2012-190388), de 28 de dezembro, no que respeita à aplicação de requisitos mínimos de desempenho energético, na medida em que o cumprimento desses requisitos altere de forma inaceitável o seu caráter ou aspeto, tal como reconhecido por entidade competente para o licenciamento da operação urbanística.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -466,7 +556,9 @@ c) Os monumentos e edifícios individualmente classificados ou em vias de classi
 
 6 - [...].
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -480,7 +572,9 @@ c) Os monumentos e edifícios individualmente classificados ou em vias de classi
 
 6 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - No caso de edifícios de comércio e serviços sujeitos a intervenção que incida sobre o sistema de ventilação, deve ser assegurado, nos espaços a intervencionar, o cumprimento dos requisitos previstos no artigo 40.º para edifícios novos.
 
@@ -506,15 +600,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Helena Maria Mesquita Ribeiro - José António Fonseca Vieira da Silva - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 15 de junho de 2016.**
+Promulgado em 15 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de junho de 2016.**
+Referendado em 21 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

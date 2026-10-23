@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2014/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2014-58801094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f13b74fa99a2d0ffde813b62971e9a8bffbb7696baba633aa960cf5cedbe8c75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98e448ff9883bc4c3bcecb81e9dc8ae1a794c4553ed15e352b5ceae6e5341592
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - CE Países
 - Certificado Fitossanitário
-- Doença Vegetal
 - Contra-ordenação
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Doença Vegetal
 - Fiscalização
 - Instituto da Conservação da Natureza e das Florestas
-- Proteção Fitossanitária
 - Produção Vegetal
-- Agricultura
 - Produto Agrícola
+- Proteção Fitossanitária
+- Saúde Pública
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos I, II, III, IV, V e X do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i, ii, iii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -107,20 +125,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15, sem prejuízo
+    do disposto no art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 - type: transposes
   target: celex:32000L0029
   label: null
   source: null
 article_structure:
-  article_count: 18
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:32Z'
   warnings: []
   errors: []
 ---
@@ -251,7 +275,9 @@ ee) [...].
 
 2 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Compete à Direção-Geral de Alimentação e Veterinária (DGAV), na qualidade de autoridade fitossanitária nacional, a aplicação e o controlo do disposto no presente decreto-lei e legislação complementar, em articulação com as direções regionais de agricultura e pescas (DRAP) e com o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), nos termos previstos em diploma próprio.
 
@@ -265,7 +291,9 @@ ee) [...].
 
 6 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -275,7 +303,9 @@ ee) [...].
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeito do cumprimento das medidas de proteção fitossanitária, os seguintes operadores económicos devem estar obrigatoriamente inscritos no registo oficial atribuído e mantido pela DGAV:
 
@@ -301,17 +331,23 @@ g) Outros operadores económicos cuja inscrição seja determinada e condicionad
 
 5 - A notificação da suspensão ou do cancelamento do registo oficial aos interessados implica a cessação imediata das atividades autorizadas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os operadores económicos referidos no artigo anterior devem apresentar, através de meios eletrónicos, nos termos da lei, um pedido de inscrição no registo oficial, mediante o preenchimento de um formulário normalizado, disponibilizado pelas DRAP ou pelo ICNF, I. P., consoante se trate, respetivamente, de matéria agrícola ou florestal.
 
 2 - Uma vez apresentado o pedido de inscrição no registo oficial a que se refere o número anterior, as DRAP ou o ICNF, I. P., consoante os casos, verificam, caso a caso, se os operadores económicos estão em condições de cumprir as obrigações decorrentes da legislação fitossanitária em vigor, após o que é feita a inscrição mediante a atribuição de um número de registo oficial.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Qualquer alteração aos elementos constantes do registo oficial, incluindo a cessação da atividade, deve ser comunicada pelo operador económico aos serviços de inspeção, para que estes procedam à sua atualização.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os operadores económicos inscritos no registo oficial, ao abrigo do disposto no presente decreto-lei, ficam sujeitos às seguintes obrigações:
 
@@ -349,7 +385,9 @@ vi) O número de referência do certificado fitossanitário e, ou, do certificad
 
 b) [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -377,7 +415,9 @@ j) Proibição de dar aos vegetais, produtos vegetais e outros objetos uso ou de
 
 3 - Sem prejuízo do disposto no n.º 1, quando, no decurso das inspeções fitossanitárias, os serviços de inspeção verificarem a presença de organismos prejudiciais aos vegetais e produtos vegetais, não em consequência do incumprimento por parte dos operadores económicos das exigências fitossanitárias legalmente estabelecidas mas por outras causas, podem aqueles operadores vir a beneficiar das ajudas financeiras, em termos a definir por despacho do membro do Governo responsável pela área da agricultura.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]:
 
@@ -395,11 +435,15 @@ f) Proibição de dar aos vegetais, produtos vegetais e outros objetos uso ou de
 
 2 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Os encargos resultantes da aplicação das medidas de proteção fitossanitária referidas nos artigos 20.º, 21.º e 21.º-A são suportados pelos respetivos operadores económicos.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -423,7 +467,9 @@ g) A destruição dos vegetais, produtos vegetais e outros objetos que não resp
 
 4 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -431,7 +477,9 @@ g) A destruição dos vegetais, produtos vegetais e outros objetos que não resp
 
 3 - No caso de uma conduta contraordenacional ter ocasionado um grave risco de propagação dos organismos prejudiciais, deve ser dada publicidade à decisão condenatória definitiva de aplicação da coima, mediante a afixação de editais na sede da DRAP ou do departamento de conservação da natureza e florestas, consoante se trate, respetivamente, de matéria agrícola ou florestal, da área onde foi praticada a infração.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As competências atribuídas pelo presente decreto-lei às DRAP e ao ICNF, I. P., são exercidas nas Regiões Autónomas dos Açores e da Madeira pelos organismos dos departamentos regionais competentes.
 
@@ -471,23 +519,27 @@ b) O Despacho normativo n.º 10/2006, de 28 de setembro, publicado no Diário da
 
 Visto e aprovado em Conselho de Ministros de 9 de outubro de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 30 de outubro de 2014.**
+Promulgado em 30 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de outubro de 2014.**
+Referendado em 30 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 «ANEXO I
 
-# PARTE A — [...]
+PARTE A
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 a) [...]
 
@@ -631,7 +683,9 @@ e) [...]
 
 [...].
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 a) [...]
 
@@ -679,39 +733,47 @@ d) [...]
 
 [...].
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 a) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 b) [...]
 
 [...].
 
-## ANEXO II — PARTE A
+ANEXO II
+
+PARTE A
 
 [...]
 
-#### SECÇÃO I — [...]
+SECÇÃO I
+
+[...]
 
 a) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 c) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 d) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 a) [...]
 
@@ -719,65 +781,85 @@ a) [...]
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 c) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 d) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 a) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 c) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 d) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
-## ANEXO III — PARTE A
+ANEXO III
 
-[...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
-
-# PARTE B — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
-
-## ANEXO IV — PARTE A
+PARTE A
 
 [...]
 
-#### SECÇÃO I — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+PARTE B
 
-#### SECÇÃO II — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
-# PARTE B — [...]
+ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+PARTE A
 
-## ANEXO V — [...]
+[...]
 
-# PARTE A — [...]
+SECÇÃO I
 
-#### SECÇÃO I — [...]
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+
+SECÇÃO II
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+
+PARTE B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+
+ANEXO V
+
+[...]
+
+PARTE A
+
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - [...]
 
@@ -823,7 +905,9 @@ Sementes de Helianthus annus L. (***), Solanum lycopersicum L. (***) e Phaseolus
 
 (***) [...]
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 [...]
 
@@ -869,9 +953,13 @@ b) [...]
 
 (*) [...]
 
-# PARTE B — [...]
+PARTE B
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - Vegetais, destinados à plantação, com exceção de sementes, mas incluindo sementes de Cruciferae, Gramineae, Trifolium spp. originárias da Argentina, Austrália, Bolívia, Chile, Nova Zelândia e Uruguai, sementes dos géneros Triticum, Secale e X Triticosecale originárias do Afeganistão, Índia, Irão, Iraque, México, Nepal, Paquistão, África do Sul e EUA, sementes de Citrus L., Fortunella Swingle e Poncirus Raf., e seus híbridos, e sementes de Capsicum spp., Helianthus annuus L., Solanum lycopersicum L., Medicago sativa L., Prunus L., Rubus L., Oryza spp., Zea mais L., Allium ascalonicum L., Allium cepa L., Allium porrum L., Allium schoenoprasum L. e Phaseolus L.
 
@@ -941,13 +1029,15 @@ Betula L., incluindo madeira que não manteve a sua superfície natural arredond
 
 b) [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf))](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/11/21600/0568605713.pdf)
 
 7 - [...]
 
 8 - [...]
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 [...]
 
@@ -971,7 +1061,7 @@ b) [...]
 
 9 - [...]
 
-## ANEXO X
+ANEXO X
 
 1 - [...]
 

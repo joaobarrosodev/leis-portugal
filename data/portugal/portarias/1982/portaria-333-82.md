@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/333-1982-608520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9e9da82220da77235fad9a5a04b522300e03ff2763d7ba7fec05ae4f23be2f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e7c594a3c56c5505f94e615513404dda81e78ab55d7c05b4b2c5fbd67da830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Integração de Trabalhadores
+- Polícia Judiciária
+- Quadro de Pessoal
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:400037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400037:por
+  label: "Alterado o quadro de pessoal da Polícia Judiciária aprovado pelo Decreto Lei 364/77, de 2 de Setembro, com a redacção\
+    \ conferida no presente diploma, pela PORT.786/84.09.10.1984.PCM, DR.IS [234] de 09.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1984-400037
+  date: '1984-10-09'
+- type: cites
+  target: pt:dre:457451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:13:58Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +129,4 @@ Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 
 
 Quadro de pessoal da Polícia Judiciária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/07600/07410741.pdf))](https://files.diariodarepublica.pt/1s/1982/04/07600/07410741.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/07600/07410741.pdf)

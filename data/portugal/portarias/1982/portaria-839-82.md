@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/09/20300/25872588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-1982-374448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4915be5193823ff6c93dd94b340869d8d32bb224d90d1cd23a6d997471faf685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aea929442aaf351d0d5af57aafa3f5c93dca64dcae3340c5ec0b2686f32d37e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjudicação por Concurso Público
+- Concurso Público
+- Contrato de Concessão
+- Jogos de Fortuna e Azar
+relationships:
+- type: cites
+  target: pt:dre:394162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394168:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287595:por
+  label: "REVOGADA PELA PORTARIA 139/88, DE 2 DE MARCO, PUBLICADA NO DR.IS, 51, DE 880302.\0302.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/139-1988-287595
+- type: repealed_by
+  target: pt:dre:287595:por
+  label: "Revogada, a partir de 07.03.1988, pela PORT.139/88.02.03.1988.MCT, DR.IS [51] de 02.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/139-1988-287595
+  date: '1988-03-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:17Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/146a00/38003806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/2001/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2001-361952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51ef46e4a16e3350ef2811ca095920ca4121de1fc6a88bf9b73cb4058097e68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3410092c84b9f5a7b1427e752c68a2e03aa4d6e96cae5cc249c405dc0097bb64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:175158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175158:por
+  label: "Fundido com a Agência Portuguesa de Apoio ao Desenvolvimento o Instituto da Cooperação Portuguesa, criado pelo presente\
+    \ diploma, revogando-o, pelo DEC LEI.5/2003.2003.01.13.MNE DR.IS-A [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2003-175158
+  date: '2003-01-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/293/1997/10/24/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/60/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:426745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671933:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:49Z'
   warnings: []
   errors: []
 ---
@@ -549,15 +571,15 @@ O pessoal que à data da entrada em vigor do presente diploma se encontre a pres
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 4 de Junho de 2001.**
+Promulgado em 4 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2001.**
+Referendado em 8 de Junho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pessoal do Instituto da Cooperação Portuguesa a que se refere o n.º 1 do artigo 25.º
 

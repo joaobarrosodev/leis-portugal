@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/107b00/22482256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/1997/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1997-384601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a21c3b334197eb1615585c7de7605fc4a8d7ccf77cd264de75771883d16a675
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d3699b612bc504dba50adbdf3940fc5b1bf3421eaa3803c78cb6bfd42159cbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Gabinete de Planeamento e Política Agro-alimentar
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:518852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições do GPPA, cuja orgânica consta do presente diploma, que\
+    \ é revogado a partir de 01.03.2007 pelo DR.6/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:08Z'
   warnings: []
   errors: []
 ---
@@ -283,7 +293,9 @@ b) Divisão de Relações Internacionais;
 
 c) Divisão de Cooperação para o Desenvolvimento.
 
-###### Artigo 10.º — Divisão de Assuntos Europeus
+###### Artigo 10.º
+
+##### Divisão de Assuntos Europeus
 
 À Divisão de Assuntos Europeus compete:
 
@@ -299,7 +311,9 @@ e) Acompanhar as missões comunitárias de controlo;
 
 f) Dinamizar e acompanhar o intercâmbio entre o MADRP e os seus congéneres e instituições de outros países;
 
-###### Artigo 11.º — Divisão de Relações Internacionais
+###### Artigo 11.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete:
 
@@ -309,7 +323,9 @@ b) Acompanhar e enquadrar a participação do Ministério nos processos de alter
 
 c) Acompanhar e enquadrar a participação do Ministério em convenções e organizações internacionais nos assuntos que relevem do âmbito do MADRP.
 
-###### Artigo 12.º — Divisão de Cooperação para o Desenvolvimento
+###### Artigo 12.º
+
+##### Divisão de Cooperação para o Desenvolvimento
 
 À Divisão de Cooperação para o Desenvolvimento compete:
 
@@ -341,7 +357,9 @@ c) Divisão de Organização e Informática;
 
 d) Repartição de Administração Geral.
 
-###### Artigo 14.º — Divisão de Formação e Gestão de Recursos Humanos
+###### Artigo 14.º
+
+##### Divisão de Formação e Gestão de Recursos Humanos
 
 À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -369,7 +387,9 @@ l) Assegurar o processamento dos vencimentos do pessoal e outros abonos a que ti
 
 m) Instruir os processos relativos às prestações sociais dos funcionários do GPPAA e dos seus familiares e a acidentes em serviço.
 
-###### Artigo 15.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 15.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -391,7 +411,9 @@ h) Garantir o tratamento automático da informação de carácter financeiro.
 
 2 - Na dependência da Divisão de Gestão Financeira funciona uma tesouraria, coordenada por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 16.º — Divisão de Organização e Informática
+###### Artigo 16.º
+
+##### Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -451,7 +473,9 @@ e) Assegurar o funcionamento dos serviços de limpeza e segurança;
 
 f) Coordenar a actividade do pessoal auxiliar.
 
-###### Artigo 18.º — Divisão de Divulgação e Relações Públicas
+###### Artigo 18.º
+
+##### Divisão de Divulgação e Relações Públicas
 
 À Divisão de Divulgação e Relações Públicas compete:
 
@@ -467,7 +491,9 @@ e) Difundir as cotações e restante informação dos mercados pelos agentes eco
 
 f) Assegurar os serviços de recepção e encaminhamento dos utentes e visitantes do GPPAA.
 
-###### Artigo 19.º — Divisão de Documentação
+###### Artigo 19.º
+
+##### Divisão de Documentação
 
 À Divisão de Documentação compete:
 
@@ -509,7 +535,9 @@ a) Divisão de Estatísticas Agrícolas e dos Mercados Agro-Alimentares;
 
 b) Divisão de Inquérito, Metodologia Estatística e Gestão da Informação.
 
-###### Artigo 22.º — Divisão de Estatísticas Agrícolas e dos Mercados Agro-Alimentares
+###### Artigo 22.º
+
+##### Divisão de Estatísticas Agrícolas e dos Mercados Agro-Alimentares
 
 À Divisão de Estatísticas Agrícolas e dos Mercados Agro-Alimentares compete:
 
@@ -527,7 +555,9 @@ f) Acompanhar o trabalho estatístico ao nível das regiões, em articulação c
 
 g) Centralizar a informação relativa aos cadastros das estruturas da produção agrícola e agro-industrial.
 
-###### Artigo 23.º — Divisão de Inquérito, Metodologia Estatística e Gestão da Informação
+###### Artigo 23.º
+
+##### Divisão de Inquérito, Metodologia Estatística e Gestão da Informação
 
 À Divisão de Inquérito, Metodologia Estatística e Gestão da Informação compete, em articulação com o Instituto Nacional de Estatística:
 
@@ -557,7 +587,9 @@ c) Divisão de Política Sócio-Estrutural;
 
 d) Divisão de Acompanhamento e Avaliação.
 
-###### Artigo 25.º — Divisão de Estudos e Análise da Conjuntura
+###### Artigo 25.º
+
+##### Divisão de Estudos e Análise da Conjuntura
 
 À Divisão de Estudos e Análise da Conjuntura compete:
 
@@ -571,7 +603,9 @@ d) Preparar anualmente o relatório da situação da agricultura e agro-indústr
 
 e) Analisar os resultados de estudos e relatórios com vista à sua divulgação.
 
-###### Artigo 26.º — Divisão de Planeamento e Políticas
+###### Artigo 26.º
+
+##### Divisão de Planeamento e Políticas
 
 À Divisão de Planeamento e Políticas compete:
 
@@ -591,7 +625,9 @@ g) Promover a articulação com os serviços competentes do INGA e do IFADAP, te
 
 h) Articular tecnicamente os diversos instrumentos de planeamento com os serviços centrais e regionais do MADRP.
 
-###### Artigo 27.º — Divisão de Política Sócio-Estrutural
+###### Artigo 27.º
+
+##### Divisão de Política Sócio-Estrutural
 
 À Divisão de Política Sócio-Estrutural compete:
 
@@ -601,7 +637,9 @@ b) Propor a regulamentação nacional das medidas sócio-estruturais e acompanha
 
 c) Acompanhar a aplicação das medidas de política estrutural agrícola e agro-industrial e elaborar os relatórios de execução necessários.
 
-###### Artigo 28.º — Divisão de Acompanhamento e Avaliação
+###### Artigo 28.º
+
+##### Divisão de Acompanhamento e Avaliação
 
 À Divisão de Acompanhamento e Avaliação compete:
 
@@ -737,16 +775,16 @@ Presidência do Conselho de Ministros, 20 de Fevereiro de 1997.
 
 António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - José Alberto Rebelo dos Reis Lamego - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Abril de 1997.**
+Referendado em 24 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O n.º 1 DO ARTIGO 36.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/107b00/22482256.pdf))](https://files.diariodarepublica.pt/1s/1997/05/107b00/22482256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/107b00/22482256.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 282/2000, 1º Suplemento, Série I-A de 2000-12-07
   number: '282'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7026-(2) a 7026-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/282a01/00020013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316-a/2000/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-a-2000-325765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6826f92f7325278ea098a0b6ae60fdffebc90a95d75e0337b8e55f1bcc6c6f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d574645a48f72817d38140973117b65e5064cd9c7df4045e8dfd86cba92b8f3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administrador Delegado Regional da Solidariedade e Segurança Social
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
+- Centro Distrital de Solidariedade e Segurança Social
 - Centro Nacional de Pensões
 - Centro Regional de Segurança Social
 - Comissão de Fiscalização
-- Instituto de Solidariedade e Segurança Social
-- Ministro do Trabalho e da Solidariedade
+- Conselho Consultivo
+- Conselho Consultivo Distrital de Solidariedade e Segurança Social
+- Conselho Diretivo
 - Contrato Individual de Trabalho
 - Estatuto
 - Extinção de Serviços
-- Conselho Diretivo
-- Conselho Consultivo
-- Administrador Delegado Regional da Solidariedade e Segurança Social
-- Centro Distrital de Solidariedade e Segurança Social
-- Conselho Consultivo Distrital de Solidariedade e Segurança Social
-- Serviço Regional de Planeamento e Fiscalização
+- Funcionário Público
+- Instituto de Solidariedade e Segurança Social
 - Instituto Público
 - Integração de Trabalhadores
+- Ministro do Trabalho e da Solidariedade
 - Orçamento
 - Regime Geral da Segurança Social
 - Remuneração
-- Funcionário Público
+- Serviço Regional de Planeamento e Fiscalização
 - Transferência de Serviços
 - Transferência Patrimonial
 - Tutela
@@ -96,6 +96,28 @@ relationships:
   target: pt:dre:638526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:268650:por
+  label: "Alterados os arts. 4.º, 6.º, 7.º, 12.º, 20.º, 23.º e 26.º e revogados os arts. 11.º e o n.º 5 do art. 25.º dos Estatutos\
+    \ do Instituto de Solidariedade e Segurança Social, aprovados pelo presente diploma, pelo DEC LEI.112/2004.13.05.2004.MSST,\
+    \ DR.IS-A [112] de 13.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2004-268650
+  date: '2004-05-13'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Determinada a sucessão do Instituto da Segurança Social, nos direitos e obrigações, ao Instituto da Solidariedade\
+    \ e da Segurança Social, cujos estatutos foram aprovados pelo presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST,\
+    \ DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:457199:por
+  label: "Determinada que o Instituto de Informática e Estatística da Segurança Social suceda nos direitos e obrigações ao\
+    \ Instituto de Informática Estatística de Solidariedade cujos estatutos foram aprovados pelo Dec Lei 41-A/99, de 09-Fev\
+    \ e (nos termos do art. 33.º) a sua integração no Instituto de Segurança Social cujos estatutos foram aprovados pelo presente\
+    \ diploma, pelo DEC LEI.5/2005.05.01.2005.MSSFC, DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2005-457199
+  date: '2005-01-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -136,16 +158,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632929:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:315515:por
+  label: "Rectificado pela DECL-RECT.16-X/2000.2000.12.29.PCM,DR.IS-A [300]5º Supl de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-x-2000-315515
+  date: '2000-12-29'
+- type: repealed_by
+  target: pt:dre:638526:por
+  label: "Revogado a partir de 01.06.2007 pelo DEC LEI.214/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2007-638526
+  date: '2007-05-29'
 article_structure:
   article_count: 52
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:27Z'
   warnings: []
   errors: []
 ---
@@ -266,15 +366,15 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 30 de Novembro de 2000.**
+Promulgado em 30 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2000.**
+Referendado em 6 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE SOLIDARIEDADE E SEGURANÇA SOCIAL
 
@@ -786,7 +886,9 @@ O ISSS pode relacionar-se com a banca, nos termos da legislação aplicável, de
 
 O ISSS goza de todas as regalias e isenções reconhecidas por lei ao Estado.
 
-###### Artigo 36.º — Título executivo
+###### Artigo 36.º
+
+## Título executivo
 
 Para todos os efeitos legais, a certidão do despacho do director do centro distrital ou do CNP que determine a restituição de prestação ou subsídio indevidamente pago e a sua notificação ao devedor constitui título executivo bastante para promover a execução através dos serviços competentes.
 

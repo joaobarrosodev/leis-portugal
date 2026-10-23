@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-1984-399211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c07d77bd7756d3c9634b0e3bc84c56a85b4812eb338a08f532be4b2cfe9b2351
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38141e46b73101146aa5dda16bc235acc10e526af3c8eae0604eb00bab5f0bf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Equipamento Eléctrico
+- Regulamento de Segurança das Instalações Eléctricas das Embarcações
+relationships:
+- type: cites
+  target: pt:dre:311799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577948:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:09Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +105,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 REGULAMENTO DE SEGURANÇA DAS INSTALAÇÕES ELÉCTRICAS DAS EMBARCAÇÕES
 
-# PARTE III
+## PARTE III
 
 Geradores e motores eléctricos. Transformadores. Rectificadores. Acumuladores. Aparelhos de iluminação, aquecimento e cozinhas.
 
@@ -264,7 +279,7 @@ f) Medição da resistência dos enrolamentos.
 
 As colunas rectificadoras de selénio e óxido de cobre deverão possuir um isolamento da parte de corrente alternada que lhes permita suportar sem disrupção a aplicação durante 1 minuto de uma tensão alternada (50 Hz ou 60 Hz) com os seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
 
 ###### ARTIGO 19.º — (Utilização)
 
@@ -318,7 +333,7 @@ Os transformadores deverão ser equipados com terminais adequados numa posição
 
 2 - A duração do curto-circuito e os valores das intensidades de corrente deverão ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
 
 ###### ARTIGO 28.º — (Ensaios)
 
@@ -428,7 +443,7 @@ b) Se a potência do sistema de carga for igual ou superior a 2 kV, as baterias 
 
 3 - A secção das condutas de ventilação natural deverá ser igual ou superior aos valores dados no quadro a seguir, em função da potência de carga instalada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
 
 4 - Se for impossível ou insuficiente o emprego de ventilação natural, deverá ser empregue ventilação forçada por extracção do local.
 
@@ -508,7 +523,7 @@ b) Um gerador accionado por um dos motores que for normalmente servido pela bate
 
 Os tipos de suportes a usar serão, em regra, os indicados a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf))](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/21300/28322844.pdf)
 
 ###### ARTIGO 45.º — (Construção dos suportes de lâmpadas)
 
@@ -866,12 +881,12 @@ Os sistemas de carga de baterias de acumuladores empregues para alimentação de
 
 Mário Soares - Carlos Alberto da Mota Pinto - Carlos Montez Melancia.
 
-**Promulgado em 27 de Julho de 1984.**
+Promulgado em 27 de Julho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 27 de Julho de 1984.**
+Referendado em 27 de Julho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

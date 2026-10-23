@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/450-1982-393049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 909dc96b1303fdb064a671c62ca3d6dcee11227a5a44a114a3d88753c4195c44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9c99d5c89c4446729d90fa1ed3394aabfa0307370c20f2bb7e704258afbb52e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social Escolar
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:152341:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:165858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644282:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152341:por
+  label: "Revogado o n.º 3.1 pela PORT.263/85.09.05.1985.ME, DR.IS [106] de 09.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1985-152341
+  date: '1985-05-09'
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:16:54Z'
   warnings: []
   errors: []
 ---
@@ -307,4 +332,4 @@ b) A aplicar de acordo com a expressa manifestação de vontade do doador, caso 
 
 3.4 - Todas as receitas consignadas à acção social escolar, bem como os pagamentos efectuados por conta dessas receitas, devem ser inscritas na conta de gerência dos serviços de acção social escolar de cada estabelecimento de ensino, de acordo com as instruções emanadas do IASE.
 
-**O Ministro da Educação e das Universidades, Vítor Pereira Crespo.**
+O Ministro da Educação e das Universidades, Vítor Pereira Crespo.

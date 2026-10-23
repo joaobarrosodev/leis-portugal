@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/445-1971-635241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e0fa6460ad52d19f43f74e6f4d460e9ca6c222f70c801a57ccfd904f55cb9be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 541e51ce544d6c1f2c0b725f27539a85c3eb5e6d3969d3b801442a818185def2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Distinção Honorífica
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Guerra
+- Incapacidade Física
+- Isenção de Propinas
+- Louvor
+- Militar
+- Protecção à Família
+relationships:
+- type: cites
+  target: pt:dre:141256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687400:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:08Z'
   warnings: []
   errors: []
 ---
@@ -122,11 +139,11 @@ g) Medalha dos promovidos por feitos distintos em combate.
 
 8. O bom comportamento escolar dos interessados de que trata a parte final do artigo 3.º do já citado [Decreto-Lei n.º 358/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1970-141256), no caso de transferência de estabelecimento de ensino, comprova-se por documento passado pelo estabelecimento que aqueles frequentaram no ano lectivo transacto. Nos demais casos é presumível o bom comportamento escolar até prova em contrário pelas reitorias ou direcções responsáveis.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
-## Anexo n.º 1 à Portaria n.º 445/71
+Anexo n.º 1 à Portaria n.º 445/71
 
 MINISTÉRIO D ...
 
@@ -150,7 +167,7 @@ Assinatura (ver nota d) ...
 
 (nota d) Assinatura do comandante ou chefe.
 
-## Anexo n.º 2 à Portaria n.º 445/71
+Anexo n.º 2 à Portaria n.º 445/71
 
 MINISTÉRIO D ...
 
@@ -176,4 +193,4 @@ Assinatura (ver nota e) ...
 
 (nota e) Assinatura do comandante ou chefe.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Educação Nacional, José Veiga Simão.

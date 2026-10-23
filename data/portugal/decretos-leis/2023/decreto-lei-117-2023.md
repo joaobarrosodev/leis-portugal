@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24400/0004600057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2023/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2023-808125338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e70f2a79b2a8e8fa69e9a8cc83ae138a9f05d99971d6bddff0fd78ad6a40609e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 287eec4614a93aabd57cfdb4b9de82ae7e0f6ec025300eb193cd4aa3fe698ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Nacional de Clubes e Féderações Desportivas
+- Base de Dados
+- Centro de Estudos e Formação Desportiva
 - Desporto Escolar
 - Igualdade de Tratamento
-- Base de Dados
 - Instituto Português do Desporto e Juventude
 - Página na Internet
 - Pessoal Técnico
 - Regime Jurídico
-- Centro de Estudos e Formação Desportiva
+- Regime Jurídico das Contraordenações Económicas
+- Registo Nacional de Clubes e Féderações Desportivas
 - Regulamento Interno
 - Taxa
-- Regime Jurídico das Contraordenações Económicas
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:10/2009
+  label: Altera, a partir de 19 de março de 2024, o artigo 3.º do Decreto-Lei n.º 10/2009, de 12 de janeiro, Diário da República
+    n.º 7/2009, Série I
+  source: null
+  date: '2009-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2009/01/12/p/dre
   label: null
@@ -118,16 +124,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:107692694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669999:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:53Z'
   warnings: []
   errors: []
 ---
@@ -442,7 +496,9 @@ g) Os contactos da câmara municipal e da junta de freguesia, das entidades poli
 
 2 - As entidades organizadoras devem celebrar um contrato de seguro que cubra acidentes pessoais dos participantes, nos termos do artigo 5.º do [Decreto-Lei n.º 10/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2009-397323), de 12 de janeiro, na sua redação atual.
 
-###### Artigo 18.º — Livro de reclamações
+###### Artigo 18.º
+
+## Livro de reclamações
 
 1 - As entidades organizadoras de atividades de formação desportiva são obrigadas a ter livro de reclamações, nos termos da legislação em vigor.
 
@@ -572,12 +628,14 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de novembro de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia - Isabel Maria Duarte de Almeida Rodrigues - Nuno Jorge Cardona Fazenda de Almeida - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 13 de dezembro de 2023.**
+Promulgado em 13 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de dezembro de 2023.**
+Referendado em 14 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117168748

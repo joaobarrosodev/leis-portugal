@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/102a00/09981005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1996-476916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632b078c0bae035adc4606b23ece4deb65ef0ea8681cf53acd00f5d28f04528b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4582ed3ab14e5982c60a47d1f1103a97445e2adb0532a938854305248c84db0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,50 +65,93 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa de Previdência
 - Caixa Nacional de Seguros de Doenças Profissionais
+- CASA PIA de Lisboa
 - Centro Nacional de Pensões
 - Centro Nacional de Protecção contra os Riscos Profissionais
+- Centro Regional de Segurança Social da Região de Lisboa e VALE do TEJO
+- Centro Regional de Segurança Social da Região do Alentejo
 - Centro Regional de Segurança Social da Região do Algarve
 - Centro Regional de Segurança Social da Região do Centro
 - Centro Regional de Segurança Social da Região do Norte
-- Centro Regional de Segurança Social da Região de Lisboa e VALE do TEJO
-- Centro Regional de Segurança Social da Região do Alentejo
-- Pessoal Dirigente
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Comissão Nacional para a Política de Terceira Idade
 - Competência Própria
-- Departamento de Relações Internacionais de Segurança Social
 - Conselho Nacional para a Economia Social
+- Conselho Nacional para a Política de Terceira Idade
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Criação de Serviços
 - Departamento de Estatística Estudos e Planeamento
+- Departamento de Relações Internacionais de Segurança Social
 - Direcção Geral da Acção Social
 - Direcção Geral da Família
 - Direcção Geral de Apoio Técnico a Gestão
 - Direcção Geral dos Regimes de Segurança Social
 - Extinção de Serviços
-- Lisboa
 - Fundo de Estabilização Financeira da Segurança Social
 - Gabinete de Assuntos Europeus e de Relações Internacionais
-- Ministério da Solidariedade e Segurança Social
+- Inatel
 - Inspecção Geral da Segurança Social
 - Instituto de Gestão Financeira da Segurança Social
-- CASA PIA de Lisboa
-- Santa Casa da Misericórdia
+- Lisboa
 - Magistrado do Ministério Público
-- Caixa de Previdência
-- Conselho Nacional para a Política de Terceira Idade
+- Ministério da Solidariedade e Segurança Social
 - Observatório Social
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Santa Casa da Misericórdia
 - Secretariado Nacional de Reabilitação
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 - Serviços Sociais
-- Inatel
 relationships:
 - type: amended_by
   target: pt:dre:145193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469586:por
+  label: "Alterados os artºs 6º, 19º, 25º 27º e 29º e o mapa anexo ao presente diploma pelo DEC LEI.88/97.1997.04.18.MSSS\
+    \ DR.IS-A [91] DE 18/ABR/1997; aditado o art 7º-A à Secção II do Cap II pelo mesmo diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-1997-469586
+  date: '1997-04-18'
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitados para a dependência do Ministro do Trabalho e da Solidariedade os organismos e serviços até aqui integrados\
+    \ no presente Ministério, pelo DEC LEI.55/98.1998.03.16.PCM DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Extinto o Conselho Nacional para a Economia Social, criado pelo presente diploma, cuja dependência transitou para\
+    \ o Ministro do Trabalho e da Solidariedade prevista na orgânica do MTS aprovada pelo Dec Lei 115/98 de 04-Maio, pelo\
+    \ DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinto o Centro Nacional de Protecção contra os Riscos Profissionais, criado no âmbito do ex-Ministério da Solidariedade\
+    \ e Segurança Social pelo presente diploma e cuja orgânica consta do Dec Lei 160/99 de 11-Mai, pelo DEC LEI.211/2006.27.10.2006.MTSSO,\
+    \ DR.IS [208] de 27.10.2006, nos termos do previsto no respectivo art. 36º, sendo as suas atribuições de natureza técnico-normativa\
+    \ integradas na Direcção-Geral da Segurança Social, as suas atribuições de natureza operacional integradas no Instituto\
+    \ da Segurança Social e as atribuições relativas à gestão dos fundos obrigatórios integradas no Instituto de Gestão Financeira\
+    \ da Segurança Social \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638546:por
+  label: "Determinado que a DGSS suceda nas atribuições técnicas e normativas do Centro Nacional de Protecção contra os Riscos\
+    \ Profissionais, criado pelo presente diploma, e cuja orgânica consta do Dec Lei 160/99, de 11-Mai, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:145193:por
+  label: "Extinto, sendo objecto de fusão, o Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência,\
+    \ criado no presente diploma, e cujas composição e competências constam do Dec Lei 225/97 de 27-Ago, pelo DEC LEI.126/2011.29.12.2011.MSSSOC,\
+    \ DR.IS [249] de 29.12.2011, nos termos do disposto nos seus arts, 25º, 26º e 28º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/1993/06/16/p/dre
   label: null
@@ -121,16 +164,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:265689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516029:por
+  label: "Revogado pelo DEC LEI.115/98.1998.05.04.MTS, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1998-516029
+  date: '1998-05-04'
 article_structure:
-  article_count: 31
+  article_count: 32
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:09Z'
   warnings: []
   errors: []
 ---
@@ -609,7 +677,9 @@ Ao pessoal dos serviços do MSSS que, nos termos do disposto na alínea b) do n.
 
 2 - Transitam, em termos a estabelecer por despacho conjunto dos Ministros das Finanças, para a Qualificação e o Emprego e da Solidariedade e Segurança Social, para os novos serviços, de acordo com a repartição de atribuições e competências resultantes da reestruturação orgânica em ambos os Ministérios, os saldos das verbas orçamentais atribuídas aos existentes, à data da entrada em vigor deste diploma.
 
-#### SECÇÃO IV — Artigo 32.º
+#### SECÇÃO IV
+
+###### Artigo 32.º
 
 Norma revogatória
 
@@ -617,15 +687,15 @@ São revogados os Decretos-Leis n.os [83/91](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Abril de 1996.**
+Promulgado em 17 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1996.**
+Referendado em 22 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o artigo 19.º
 

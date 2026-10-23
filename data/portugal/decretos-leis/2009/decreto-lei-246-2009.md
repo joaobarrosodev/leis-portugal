@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/2009/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2ee736e9e955517f3ca09f954489d350e727014c2192007bc1527fe499412b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf9938af4473f87ee757cf06fafbbb8905c2ce8ba1511d55fc608d9951e53d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/4/1993/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/1993/01/08/p/dre
+- type: cites
+  target: pt:dre:283681:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:14Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +129,9 @@ Os artigos 5.º, 24.º e 26.º do Regulamento de Taxas de Instalações Eléctri
 
 4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas faz-se pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -145,7 +151,9 @@ g) Transferência de titularidade de licenças.
 
 2 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000, no caso de pessoas singulares, e de (euro) 500 a (euro) 5000, no caso de pessoas colectivas:
 
@@ -171,12 +179,12 @@ São revogados o n.º 3 do artigo 5.º e o n.º 2 do artigo 24.º do [Decreto-Le
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Fernando Teixeira dos Santos.
 
-**Promulgado em 8 de Setembro de 2009.**
+Promulgado em 8 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Setembro de 2009.**
+Referendado em 9 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-1982-395764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e3548020ea4dc1807c6deca1a91f823cb9ea499b912ce245a9ff59a39c9d3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c9e27a306bba8255c247cde5c96eb59928314971baf2533c965eb82370f52d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Quadro de Pessoal
+- Secretaria de Estado dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:226992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396326:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 1096/80, de 27-Dez, com as alterações introduzidas pelo presente\
+    \ diploma, pela PORT.926/84.18.12.1984.PCM, DR.IS [291] de 18.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/926-1984-396326
+  date: '1984-12-18'
+- type: amended_by
+  target: pt:dre:226992:por
+  label: "Alterado o quadro de pessoal do Ministério dos Negócios Estrangeiros, constante do anexo da Port 1096/80, de 27-Dez,\
+    \ com a redacção do presente diploma, pela PORT.261/86.31.05.1986.MF, DR.IS [124] de 31.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-1986-226992
+  date: '1986-05-31'
+- type: cites
+  target: pt:dre:457074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:05Z'
   warnings: []
   errors: []
 ---

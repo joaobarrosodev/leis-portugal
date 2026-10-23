@@ -46,36 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1978-326546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:47:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2da54ec23ddc5cddece9b5ad07b9c09398ec9a93b39537470af3b9eb4d9c9d24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc3b82823ddaf21d5bc8744b4c496536a230f1d89db5d8a24e332c702cd5a22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:47:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Águeda
+- Albergaria-a-velha
+- Armamar
+- Aveiro
+- Beja
+- Boticas
+- Bragança
+- Castelo Branco
+- Castro Daire
+- Comissão de Viticultura da Região do Douro
+- Conselho Regional da Região de Turismo do Douro SUL
+- Espinho
+- Évora
+- Faro
+- Gondomar
+- Guarda
+- Lamego
+- Lisboa
+- MAIA
+- Matosinhos
+- Moimenta da Beira
+- Montalegre
+- Oliveira de Azeméis
+- Oliveira de Frades
+- Penedono
+- Portalegre
+- Porto
+- Produto Vitivinícola
+- Santarém
+- são JOÃO da Pesqueira
+- são Pedro do SUL
+- Secretário de Estado do Comércio Interno
+- Sernancelhe
+- Setúbal
+- Sever do Vouga
+- Tabuaço
+- Tarouca
+- Vagos
+- Valongo
+- VILA NOVA de GAIA
+- VILA NOVA de Paiva
+- VILA Pouca de Aguiar
+- Vila Real
+- Vinho
+- Viseu
+- Vouzela
+relationships:
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690063:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:47:55Z'
   warnings: []
   errors: []
 ---

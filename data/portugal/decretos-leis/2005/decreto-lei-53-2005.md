@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/040a00/17771785.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2005/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2005-584398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c95329fcddc9992d05c2dad475d8bbde1b16e06236a506ff0c804bd120309c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6887b137d117683a738f1e3dc55fb97278c37a269b708749b1a9a514b141f98b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Programa Polis
-- Pessoal Dirigente
-- Reserva Ecológica Nacional
-- EDIA
-- Programa de Equipamentos Urbanos de Utilização Colectiva
-- Secretaria Geral
 - Comissão de Coordenação e Desenvolvimento Regional
+- Conselho Nacional da ÁGUA
+- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- EDIA
+- Gabinete de Relações Internacionais
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto da ÁGUA
 - Instituto da Conservação da Natureza
 - Instituto do Ambiente
-- Gabinete de Relações Internacionais
-- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
-- Conselho Nacional da ÁGUA
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Inspecção Geral do Ambiente e do Ordenamento do Território
 - Instituto dos Resíduos
-- Orgânica
-- Programa de Recuperação de Áreas Urbanas Degradadas
-- Quadro de Pessoal
 - Ministério do Ambiente e do Ordenamento do Território
+- Orgânica
+- Pessoal Dirigente
+- Programa de Equipamentos Urbanos de Utilização Colectiva
+- Programa de Recuperação de Áreas Urbanas Degradadas
+- Programa Polis
+- Quadro de Pessoal
+- Reserva Ecológica Nacional
+- Secretaria Geral
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional,\
+    \ dos serviços, organismos e entidades compreendidos no ora extinto Ministério, cuja orgânica foi aprovada no presente\
+    \ diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005, nos termos do seu art. 25.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta a Inspeção-Geral do Ambiente e do Ordenamento do Território, criada como Inspecção-Geral do Ambiente pelo\
+    \ Dec Lei 230/97 de 30-Ago, e posteriormente redenominada pelo presente diploma, DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
   label: null
@@ -131,16 +145,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545642:por
+  label: "Revogado o presente diploma pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, que determinou,\
+    \ de acordo ao preceituado no respectivo art. 29º: - a extinção, com fusão, dos seguintes organismos: do Instituto do\
+    \ Ambiente, do Instituto dos Resíduos e do Gabinete de Relações Internacionais, sendo as suas atribuições integradas:\
+    \ na Agência Portuguesa do Ambiente e no Departamento de Prospectiva e Planeamento e Relações Internacionais; - e a reestruturação:\
+    \ do Instituto da Conservação da Natureza - que passa a designar-se Instituto da Conservação da Natureza e da Biodiversidade,\
+    \ e do Instituto Regulador das Águas e dos Resíduos – que passa a designar-se Entidade Reguladora dos Serviços de Águas\
+    \ e dos Resíduos, e dos demais serviços, organismos e estruturas referidos nos arts. 4º, 5º e 6º do citado diploma. \0\
+    a. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:50Z'
   warnings: []
   errors: []
 ---
@@ -311,7 +401,7 @@ A SG é o serviço central de natureza executiva que tem por missão o apoio té
 
 ###### Artigo 11.º — Comissões de coordenação e desenvolvimento regional
 
-**O Ministro do Ambiente e do Ordenamento do Território exerce o poder hierárquico sobre as comissões de coordenação e desenvolvimento regional (CCDR) nas matérias incluídas nos domínios do ambiente e do ordenamento do território, conforme o anexo II ao presente diploma, que dele faz parte integrante.**
+O Ministro do Ambiente e do Ordenamento do Território exerce o poder hierárquico sobre as comissões de coordenação e desenvolvimento regional (CCDR) nas matérias incluídas nos domínios do ambiente e do ordenamento do território, conforme o anexo II ao presente diploma, que dele faz parte integrante.
 
 #### SECÇÃO II — Dos organismos da administração indirecta do Estado
 
@@ -423,15 +513,15 @@ Os funcionários e agentes do MAOT continuam abrangidos pela Obra Social do Mini
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 11 de Fevereiro de 2005.**
+Promulgado em 11 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Fevereiro de 2005.**
+Referendado em 17 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — (matérias a que se refere o n.º 2 do artigo 9.º do presente diploma)
 

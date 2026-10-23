@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2014/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2014-25343717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d197b1287a45e62be08582d038d40d78801a14d65bdc81c0cd72ccd1afb4c236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb75382b435535aa5efd8c05030c0d0f464fe66ad10aef6574a5d67945db9d6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,23 @@ reuse:
 subjects:
 - Aerosol
 - Aproximação das Legislações
+- ASAE
 - Autoridade Tributária e Aduaneira
 - Contra-ordenação
 - Direção Geral das Atividades Económicas
 - Diretor Geral
-- ASAE
 - Parlamento Europeu
 relationships:
 - type: amended_by
   target: pt:dre:114163923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados, com efeitos a partir de 01.01.2018, os arts. 7.º e 12.º e o anexo do Dec Lei 61/2010 de 09-jun, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -115,15 +121,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/2010/06/09/p/dre
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:38Z'
   warnings: []
   errors: []
 ---
@@ -180,11 +186,15 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Sempre que as entidades fiscalizadoras previstas no n.º 1 do artigo seguinte verifiquem, com base numa fundamentação detalhada, que uma ou várias embalagens aerossóis, embora obedecendo ao estabelecido no presente decreto-lei, apresentam um perigo para a segurança ou saúde pública, deve ser proibida ou restringida a sua colocação no mercado, ou assegurada a sua retirada do mesmo, mediante despacho devidamente fundamentado do inspetor-geral da Autoridade de Segurança Alimentar e Económica (ASAE) ou do diretor-geral da Autoridade Tributária e Aduaneira (AT), consoante as respetivas competências.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -202,11 +212,15 @@ b) À AT.
 
 6 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Compete ao inspetor-geral da ASAE a aplicação das coimas e sanções acessórias previstas no artigo anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O produto das coimas resultante da aplicação das contraordenações previstas no presente decreto-lei é distribuído da seguinte forma:
 
@@ -242,15 +256,15 @@ b) A partir de 1 de junho de 2015, quanto às embalagens aerossóis que contenha
 
 Visto e aprovado em Conselho de Ministros de 13 de março de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 16 de abril de 2014.**
+Promulgado em 16 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de abril de 2014.**
+Referendado em 22 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -328,7 +342,7 @@ O calor de combustão ((Delta)H(índice c)), em kilojoules por grama, pode ser c
 
 Para uma formulação composta incluída no aerossol, o calor de combustão é a soma dos calores ponderados de combustão de cada componente, calculado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 O responsável pela colocação no mercado da embalagem aerossol tem de descrever o método utilizado para determinar o calor de combustão num documento a disponibilizar prontamente numa língua comunitária oficial no endereço especificado no rótulo, em conformidade com a alínea a) do n.º 1 do artigo 5.º, se o calor de combustão for utilizado como um parâmetro para avaliar a inflamabilidade de aerossóis, de acordo com as disposições do presente decreto-lei.
 
@@ -402,7 +416,7 @@ b) As embalagens aerossóis cheias com gás dissolvido não são obrigadas a sup
 
 c) As embalagens aerossóis contendo gás liquefeito ou misturas de gás liquefeito não são obrigadas a suportar, a 20ºC, pressões superiores às indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 Este quadro indica os limites de pressão admissíveis a 20ºC em função da percentagem de gás.
 
@@ -420,7 +434,7 @@ a) As embalagens aerossóis cheias com gás dissolvido não são obrigadas a sup
 
 b) As embalagens aerossóis cheias com gás liquefeito não são obrigadas a suportar, a 20ºC, pressões superiores às indicadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 Este quadro indica os limites de pressão admissíveis a 20ºC em função da percentagem de gás liquefeito.
 
@@ -554,7 +568,7 @@ h) Nivelar o orifício do atuador e a chama do bico de Bunsen, assegurando-se qu
 
 FIGURA 6.3.1.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 i) Cumprir os requisitos gerais relativamente à necessidade de agitar a embalagem;
 
@@ -592,7 +606,7 @@ u) Registar todos os resultados no quadro 6.3.1.1, como indicado infra.
 
 QUADRO 6.3.1.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 6.3.2 - Ensaio de ignição em espaço fechado:
 
@@ -628,19 +642,19 @@ c) Na outra extremidade do recipiente cilíndrico, abrir um furo de 50 mm de di�
 
 FIGURA 6.3.2.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 d) Utilizar um suporte metálico de 200 mm x 200 mm sobre o qual deve ser colocada uma vela de parafina de 20 mm a 40 mm de diâmetro e 100 mm de altura. A vela deve ser substituída quando tiver uma altura de menos de 80 mm. A chama da vela é protegida da ação da pulverização por um defletor de 150 mm de largura e 200 mm de altura. Este dispositivo inclui o plano inclinado a 45º colocado a 150 mm da base do defletor (fig. 6.3.2.2);
 
 FIGURA 6.3.2.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 e) A vela colocada no suporte metálico deve ser posicionada a igual distância das duas extremidades do recipiente cilíndrico (fig. 6.3.2.3);
 
 FIGURA 6.3.2.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf))](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/04/08000/0250402514.pdf)
 
 f) O recipiente cilíndrico é deitado no solo ou colocado num suporte, num local em que a temperatura esteja compreendida entre 15ºC e 25ºC. O produto a ensaiar é pulverizado no interior do recipiente de cerca de 200ºdm3, onde se encontra uma fonte de ignição.
 

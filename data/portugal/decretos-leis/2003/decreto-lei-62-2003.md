@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/079a00/21702185.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2003/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2003-232885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 826bb80e6f12c7d6747fad2b46e9fdcda8177b4ed193ecd37c280ad7b993d030
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4bc3452a9bb91dcafc14bdb523c5dcde8826fc3d32d2d7e6d793d4bcf024754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Certificação Electrónica
-- Entidade Certificadora
-- Segurança da Informação
-- Documento Eletrónico
-- Nova Tecnologia
 - Assinatura Digital
+- Certificação Electrónica
+- Documento Eletrónico
+- Entidade Certificadora
+- Nova Tecnologia
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:179293:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517375:por
+  label: "Alterado o art. 29.º do Dec Lei 290-D/99, de 02-Ago, na redacção do presente diploma, pelo DEC LEI.165/2004.06.07.2004.MJ,\
+    \ DR.IS-A [157] de 06.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2004-517375
+  date: '2004-07-06'
+- type: amended_by
+  target: pt:dre:548239:por
+  label: "Dada nova redacção ao art. 9.º do Dec Lei 290-D/99, de 02-Ago, alterado pelo presente diploma, pelo DEC LEI.116-A/2006.16.06.2006.PCM,\
+    \ DR.IS-A [115-2ºSupl] de 16.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-a-2006-548239
+  date: '2006-06-16'
+- type: amended_by
+  target: pt:dre:603950:por
+  label: "Alterados os arts. 5.º, 28.º, 29.º e 38.º do Dec Lei 290-D/99 de 02-Ago, na redacção e republicação do presente\
+    \ diploma, pelo DEC LEI.88/2009.09.04.2009.PCM, DR.IS [70] de 09.04.2009, que o republica na redacção actual\0al\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2009-603950
+  date: '2009-04-09'
 - type: cites
   target: celex:31999L0093
   label: null
@@ -87,15 +105,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
 article_structure:
-  article_count: 80
+  article_count: 47
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:01Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +156,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º, 13.º, 
 
 O presente diploma regula a validade, eficácia e valor probatório dos documentos electrónicos, a assinatura electrónica e a actividade de certificação de entidades certificadoras estabelecidas em Portugal.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para os fins do presente diploma, entende-se por:
 
@@ -200,7 +220,9 @@ u) [Anterior alínea j).]
 
 v) [Anterior alínea l).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -212,13 +234,17 @@ v) [Anterior alínea l).]
 
 5 - Sem prejuízo do disposto no número anterior, o valor probatório dos documentos electrónicos aos quais não seja aposta uma assinatura electrónica qualificada certificada por entidade certificadora credenciada é apreciado nos termos gerais de direito.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os organismos públicos podem emitir documentos electrónicos com assinatura electrónica qualificada aposta em conformidade com as normas do presente diploma.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +256,9 @@ v) [Anterior alínea l).]
 
 5 - ...
 
-###### Artigo 7.º — Assinatura electrónica qualificada
+Artigo 7.º
+
+Assinatura electrónica qualificada
 
 1 - A aposição de uma assinatura electrónica qualificada a um documento electrónico equivale à assinatura autógrafa dos documentos com forma escrita sobre suporte de papel e cria a presunção de que:
 
@@ -246,11 +274,15 @@ c) O documento electrónico não sofreu alteração desde que lhe foi aposta a a
 
 4 - A aposição de assinatura electrónica qualificada que conste de certificado que esteja revogado, caduco ou suspenso na data da aposição ou não respeite as condições dele constantes equivale à falta de assinatura.
 
-###### Artigo 8.º — Obtenção dos dados de assinatura e certificado
+Artigo 8.º
+
+Obtenção dos dados de assinatura e certificado
 
 Quem pretenda utilizar uma assinatura electrónica qualificada deve, nos termos do n.º 1 do artigo 28.º, gerar ou obter os dados de criação e verificação de assinatura, bem como obter o respectivo certificado emitido por entidade certificadora nos termos deste diploma.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - É livre o exercício da actividade de entidade certificadora, sendo facultativa a solicitação da credenciação regulada nos artigos 11.º e seguintes.
 
@@ -258,11 +290,15 @@ Quem pretenda utilizar uma assinatura electrónica qualificada deve, nos termos 
 
 3 - A credenciação e o registo estão sujeitos ao pagamento de taxas em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes, nos termos a fixar por despacho conjunto dos Ministros da Justiça e das Finanças, que constituem receita da autoridade credenciadora.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A credenciação de entidades certificadoras para efeitos do presente diploma compete à autoridade credenciadora.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - É concedida a credenciação a entidades certificadoras de assinaturas electrónicas qualificadas, mediante pedido apresentado à autoridade credenciadora, que satisfaçam os seguintes requisitos:
 
@@ -276,7 +312,9 @@ d) ...
 
 2 - A credenciação é válida pelo período de três anos, podendo ser objecto de renovação por períodos de igual duração.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O pedido de credenciação de entidade certificadora deve ser instruído com os seguintes documentos:
 
@@ -314,7 +352,9 @@ b) Descrição geral das actividades exercidas nos últimos três anos e balanç
 
 c) Declaração em como todos os elementos referidos no n.º 1 deste artigo e nos n.os 2 e 3 do artigo 32.º não sofreram alteração desde a sua apresentação à autoridade credenciadora.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As entidades certificadoras privadas, que sejam pessoas colectivas, devem estar dotadas de capital social no valor mínimo de (euro) 200000 ou, não sendo sociedades, do substrato patrimonial equivalente.
 
@@ -322,7 +362,9 @@ c) Declaração em como todos os elementos referidos no n.º 1 deste artigo e no
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -336,11 +378,15 @@ c) Sujeita a sanções, no País ou no estrangeiro, pela prática de infracçõe
 
 3 - A falta dos requisitos de idoneidade previstos no presente artigo constitui fundamento de recusa e de revogação da credenciação, nos termos da alínea c) do n.º 1 do artigo 18.º e da alínea f) do n.º 1 do artigo 20.º
 
-###### Artigo 16.º — Seguro obrigatório de responsabilidade civil
+Artigo 16.º
+
+Seguro obrigatório de responsabilidade civil
 
 (Anterior artigo 17.º)
 
-###### Artigo 17.º — Decisão
+Artigo 17.º
+
+Decisão
 
 1 - (Anterior n.º 1 do artigo 18.º)
 
@@ -352,7 +398,9 @@ c) Sujeita a sanções, no País ou no estrangeiro, pela prática de infracçõe
 
 5 - A decisão de credenciação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
 
-###### Artigo 18.º — Recusa de credenciação
+Artigo 18.º
+
+Recusa de credenciação
 
 1 - A credenciação é recusada sempre que:
 
@@ -364,7 +412,9 @@ c) A autoridade credenciadora não considerar demonstrado algum dos requisitos e
 
 2 - (Anterior n.º 2 do artigo 19.º)
 
-###### Artigo 19.º — Caducidade da credenciação
+Artigo 19.º
+
+Caducidade da credenciação
 
 1 - A credenciação caduca nos seguintes casos:
 
@@ -380,7 +430,9 @@ d) Quando, findo o prazo de validade, a credenciação não tenha sido objecto d
 
 3 - A caducidade da credenciação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
 
-###### Artigo 20.º — Revogação da credenciação
+Artigo 20.º
+
+Revogação da credenciação
 
 1 - A credenciação é revogada, sem prejuízo de outras sanções aplicáveis nos termos da lei, quando se verifique alguma das seguintes situações:
 
@@ -404,15 +456,21 @@ g) Se os certificados do organismo de certificação referidos na alínea f) do 
 
 4 - A decisão de revogação é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
 
-###### Artigo 21.º — Anomalias nos órgãos de administração e fiscalização
+Artigo 21.º
+
+Anomalias nos órgãos de administração e fiscalização
 
 (Anterior artigo 22.º)
 
-###### Artigo 22.º — Comunicação de alterações
+Artigo 22.º
+
+Comunicação de alterações
 
 (Anterior artigo 23.º)
 
-###### Artigo 23.º — Registo de alterações
+Artigo 23.º
+
+Registo de alterações
 
 1 - (Anterior n.º 1 do artigo 24.º)
 
@@ -424,7 +482,9 @@ g) Se os certificados do organismo de certificação referidos na alínea f) do 
 
 5 - (Anterior n.º 5 do artigo 24.º)
 
-###### Artigo 24.º — Deveres da entidade certificadora que emite certificados qualificados
+Artigo 24.º
+
+Deveres da entidade certificadora que emite certificados qualificados
 
 Compete à entidade certificadora que emite certificados qualificados:
 
@@ -474,7 +534,9 @@ q) [Anterior alínea j) do artigo 25.º]
 
 r) [Anterior alínea i) do artigo 25.º]
 
-###### Artigo 25.º — Protecção de dados
+Artigo 25.º
+
+Protecção de dados
 
 1 - As entidades certificadoras só podem coligir dados pessoais necessários ao exercício das suas actividades e obtê-los directamente das pessoas interessadas na titularidade dos dados de criação e verificação de assinatura e respectivos certificados, ou de terceiros junto dos quais aquelas pessoas autorizem a sua colecta.
 
@@ -484,13 +546,17 @@ r) [Anterior alínea i) do artigo 25.º]
 
 4 - (Anterior n.º 4 do artigo 26.º)
 
-###### Artigo 26.º — Responsabilidade civil
+Artigo 26.º
+
+Responsabilidade civil
 
 1 - A entidade certificadora é civilmente responsável pelos danos sofridos pelos titulares dos certificados e por terceiros, em consequência do incumprimento dos deveres que lhe incumbem por força do presente diploma e da sua regulamentação, excepto se provar que não actuou de forma dolosa ou negligente.
 
 2 - (Anterior n.º 2 do artigo 27.º)
 
-###### Artigo 27.º — Cessação da actividade
+Artigo 27.º
+
+Cessação da actividade
 
 1 - No caso de pretender cessar voluntariamente a sua actividade, a entidade certificadora que emite certificados qualificados deve comunicar essa intenção à autoridade credenciadora e às pessoas a quem tenha emitido certificados que permaneçam em vigor, com a antecipação mínima de três meses, indicando também qual a entidade certificadora à qual é transmitida a sua documentação ou a revogação dos certificados no termo daquele prazo, devendo neste último caso, quando seja credenciada, colocar a sua documentação à guarda da autoridade credenciadora.
 
@@ -502,7 +568,9 @@ r) [Anterior alínea i) do artigo 25.º]
 
 5 - A cessação da actividade de entidade certificadora é comunicada à Comissão Europeia e aos outros Estados membros da União Europeia.
 
-###### Artigo 28.º — Emissão dos certificados qualificados
+Artigo 28.º
+
+Emissão dos certificados qualificados
 
 1 - A entidade certificadora emite, a pedido de uma pessoa singular ou colectiva interessada e a favor desta, os dados de criação e de verificação de assinatura ou, se tal for solicitado, coloca à disposição os meios técnicos necessários para que esta os crie, devendo sempre verificar, por meio legalmente idóneo e seguro, a identidade e, quando existam, os poderes de representação da requerente.
 
@@ -520,7 +588,9 @@ c) À conveniência de os documentos aos quais foi aposta uma assinatura serem n
 
 5 - (Anterior n.º 5 do artigo 29.º)
 
-###### Artigo 29.º — Conteúdo dos certificados qualificados
+Artigo 29.º
+
+Conteúdo dos certificados qualificados
 
 1 - O certificado qualificado deve conter, pelo menos, as seguintes informações:
 
@@ -546,7 +616,9 @@ j) Indicação de que é emitido como certificado qualificado.
 
 2 - (Anterior n.º 2 do artigo 30.º)
 
-###### Artigo 30.º — Suspensão e revogação dos certificados qualificados
+Artigo 30.º
+
+Suspensão e revogação dos certificados qualificados
 
 1 - A entidade certificadora suspende o certificado:
 
@@ -578,7 +650,9 @@ e) [Anterior alínea l) do n.º 3 do artigo 31.º]
 
 8 - A partir da suspensão ou revogação de um certificado ou do termo do seu prazo de validade, é proibida a emissão de certificado referente aos mesmos dados de criação de assinatura pela mesma ou outra entidade certificadora.
 
-###### Artigo 31.º — Obrigações do titular
+Artigo 31.º
+
+Obrigações do titular
 
 1 - (Anterior n.º 1 do artigo 32.º)
 
@@ -588,7 +662,9 @@ e) [Anterior alínea l) do n.º 3 do artigo 31.º]
 
 4 - (Anterior n.º 4 do artigo 32.º)
 
-###### Artigo 32.º — Deveres de informação das entidades certificadoras
+Artigo 32.º
+
+Deveres de informação das entidades certificadoras
 
 1 - As entidades certificadoras fornecem à autoridade credenciadora, de modo pronto e exaustivo, todas as informações que ela lhes solicite para fins de fiscalização da sua actividade e facultam-lhe para os mesmos fins a inspecção dos seus estabelecimentos e o exame local de documentos, objectos, equipamentos de hardware e software e procedimentos operacionais, no decorrer dos quais a autoridade credenciadora poderá fazer as cópias e registos que sejam necessários.
 
@@ -596,13 +672,17 @@ e) [Anterior alínea l) do n.º 3 do artigo 31.º]
 
 3 - Até ao último dia útil de cada semestre, as entidades certificadoras credenciadas devem enviar à autoridade credenciadora uma versão actualizada das relações referidas na alínea b) do n.º 1 do artigo 13.º
 
-###### Artigo 33.º — Auditor de segurança
+Artigo 33.º
+
+Auditor de segurança
 
 1 - As entidades certificadoras que emitam certificados qualificados devem ser auditadas por um auditor de segurança que cumpra os requisitos especificados na regulamentação a que se refere o artigo 39.º
 
 2 - O auditor de segurança elabora um relatório anual de segurança que envia à autoridade credenciadora, até 31 de Março de cada ano civil.
 
-###### Artigo 37.º — Organismos de certificação
+Artigo 37.º
+
+Organismos de certificação
 
 A conformidade dos produtos de assinatura electrónica com os requisitos técnicos a que se refere a alínea c) do n.º 1 do artigo 12.º é verificada e certificada por:
 
@@ -612,7 +692,9 @@ b) Organismo de certificação acreditado no âmbito da EA (European Cooperation
 
 c) Organismo de certificação designado por outros Estados membros e notificado à Comissão Europeia nos termos da alínea b) do n.º 1 do artigo 11.º da Directiva n.º [1999/93/CE](http://data.europa.eu/eli/dir/1999/93/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Dezembro.
 
-###### Artigo 38.º — Certificados de outros Estados
+Artigo 38.º
+
+Certificados de outros Estados
 
 1 - As assinaturas electrónicas qualificadas certificadas por entidade certificadora credenciada em outro Estado membro da União Europeia são equiparadas às assinaturas electrónicas qualificadas certificadas por entidade certificadora credenciada nos termos deste diploma.
 
@@ -628,7 +710,9 @@ c) O certificado ou a entidade certificadora seja reconhecido com base num acord
 
 4 - (Anterior n.º 2 do artigo 37.º)
 
-###### Artigo 39.º — Normas regulamentares
+Artigo 39.º
+
+Normas regulamentares
 
 (Anterior artigo 38.º)».
 
@@ -654,15 +738,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - Pedro Lynce de Faria.
 
-**Promulgado em 20 de Março de 2003.**
+Promulgado em 20 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2003.**
+Referendado em 24 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Decreto-Lei n.º 290-D/99
 
@@ -898,7 +982,7 @@ c) Sujeita a sanções, no País ou no estrangeiro, pela prática de infracçõe
 
 ###### Artigo 16.º — Seguro obrigatório de responsabilidade civil
 
-**O Ministro das Finanças definirá, por portaria, as características do contrato de seguro de responsabilidade civil a que se refere a alínea d) do artigo 12.º**
+O Ministro das Finanças definirá, por portaria, as características do contrato de seguro de responsabilidade civil a que se refere a alínea d) do artigo 12.º
 
 ###### Artigo 17.º — Decisão
 

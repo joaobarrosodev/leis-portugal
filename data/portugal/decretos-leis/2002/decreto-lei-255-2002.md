@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/255/2002/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90de15a8c8042e1b5cfa9cec2e28e6c5dcaeeae3d85927086422edc7f6dc7de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a18d6d31b4bcd941d1d073cbc44f365902e8c8fc145ab7bc0ab25f96eebf0c22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Cultura
+- Gabinete de Relações Culturais Internacionais
 - Gabinete de Relações Internacionais
+- Ministro da Cultura
 - Orgânica
 - Quadro de Pessoal
-- Gabinete de Relações Culturais Internacionais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/497/1999/11/19/p/dre
@@ -79,16 +79,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/1997/03/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/1997/03/19/p/dre
+- type: cites
+  target: pt:dre:311438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 33
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 22
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:05Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +135,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º e 
 
 O Gabinete das Relações Culturais Internacionais, adiante designado por GRCI, é um serviço dotado de autonomia administrativa, na dependência do Ministro da Cultura, com a missão de contribuir para a divulgação e promoção da cultura portuguesa e de assegurar e acompanhar as relações internacionais no âmbito da participação do Estado em organizações internacionais com competência na área da cultura, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros na formulação e condução da política externa.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São atribuições do GRCI:
 
@@ -147,7 +165,9 @@ l) Preparar, organizar, coordenar e assegurar o desenvolvimento de acções de d
 
 2 - O GRCI tem competência para atribuir apoios financeiros destinados a desenvolver acções no âmbito das suas atribuições, de acordo com regulamento a aprovar por decreto regulamentar.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O GRCI compreende os seguintes órgãos e serviços:
 
@@ -163,7 +183,9 @@ e) ...
 
 f) Divisão dos Serviços Administrativos.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O GRCI é dirigido por um director, coadjuvado por um subdirector.
 
@@ -185,7 +207,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +227,9 @@ f) ...
 
 2 - A Direcção de Serviços de Projectos e de Divulgação é dirigida por um director de serviços.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -221,7 +247,9 @@ f) ...
 
 g) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +269,9 @@ g) Propor a representação nacional aos grupos de trabalho ou comités sectoria
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +285,9 @@ d) [Anterior alínea c).]
 
 2 - O Centro de Informação e Documentação é dirigido por um chefe de divisão.
 
-###### Artigo 9.º — Divisão dos Serviços Administrativos
+Artigo 9.º
+
+Divisão dos Serviços Administrativos
 
 1 - A Divisão dos Serviços Administrativos compreende:
 
@@ -297,7 +329,9 @@ g) ...
 
 h) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Constituem receitas do GRCI, além das dotações que lhe sejam atribuídas no Orçamento do Estado:
 
@@ -311,13 +345,17 @@ d) As receitas provenientes de subsídios ou outros donativos de instituições 
 
 2 - ...
 
-###### Artigo 12.º — Quadros de pessoal
+Artigo 12.º
+
+Quadros de pessoal
 
 1 - O GRCI dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma, que deste faz parte integrante.
 
 2 - O GRCI dispõe também de um quadro de pessoal sujeito ao regime da função pública, a aprovar por portaria conjunta dos Ministros das Finanças e da Cultura.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O pessoal que integra o actual quadro de pessoal do GRI transita para o quadro previsto no n.º 2 do artigo anterior, para a mesma carreira, categoria e escalão que possui, sem prejuízo dos processos de reclassificação profissional que se justifiquem de acordo com o [Decreto-Lei n.º 497/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1999-634930), de 19 de Novembro.
 
@@ -345,15 +383,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 16 de Outubro de 2002.**
+Promulgado em 16 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente do GRCI
 
@@ -511,7 +549,9 @@ d) Assegurar canais de comunicação, a nível interno, que permitam a circulaç
 
 2 - O Centro de Informação e Documentação é dirigido por um chefe de divisão.
 
-###### Artigo 9.º — Divisão dos Serviços Administrativos
+###### Artigo 9.º
+
+##### Divisão dos Serviços Administrativos
 
 1 - À Divisão dos Serviços Administrativos compreende:
 

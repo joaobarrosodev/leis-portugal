@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2024-901661918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5327a1c3dd59fc505d108ed60794fbc21fa4eda2bddda05b608dda638ac4ef6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fbb33b64701269e7d34cabf6f97ca2e77b55ebed00bc712ee822c5c3f1322ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada com Portagem SCUT
 - Auto-estrada da Beira Interior
 - Beira Interior
 - Compensação Financeira
 - Contrato de Concessão
 - Direção Geral do Tesouro e Finanças
+- Infraestruturas de Portugal
 - Instituto da Mobilidade e dos Transportes
 - Isenção de Portagem
-- Auto-estrada
 - Portagem
 - Taxa
-- Infraestruturas de Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2024/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2024/08/07/p/dre
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70409923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875716581:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:39Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +185,14 @@ Aplica-se subsidiariamente o [Decreto-Lei n.º 111/2012](https://diariodarepubli
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 23 de dezembro de 2024.**
+Promulgado em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2024.**
+Referendado em 27 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118515948

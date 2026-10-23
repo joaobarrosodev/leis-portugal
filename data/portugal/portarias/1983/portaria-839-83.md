@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/19000/29612962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-1983-455115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 170fee0d839affb0ae1fba96926e3da851632a70722262772800237dc0d81fca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d5c87832aa9aee0c2ea48f54837cfcec6b3111997f3dcb3ab30895287c93e09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Naval
+- Marinha
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:170142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 471/86, DE 28 DE AGOSTO, PUBLICADA NO DR.IS, 197.\0197."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1986-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:15Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, ao a
 
 1.º O artigo 131.º do Regulamento da Escola Naval passa a ter a seguinte redacção:
 
-###### Art. 131.º Além dos embarques referidos no artigo anterior, os alunos realizarão, entre outros, embarques de fim de semana em navio ou navios para o efeito designados pelo Chefe do Estado-Maior da Armada, conforme estabelecido nos respectivos planos de curso.
+Art. 131.º Além dos embarques referidos no artigo anterior, os alunos realizarão, entre outros, embarques de fim de semana em navio ou navios para o efeito designados pelo Chefe do Estado-Maior da Armada, conforme estabelecido nos respectivos planos de curso.
 
 2.º São alterados, pela forma abaixo indicada, os seguintes números do anexo C ao mesmo Regulamento:
 
@@ -132,6 +148,6 @@ b) A actual redacção dos n.os 7 e seguintes não sofre alteração, devendo co
 
 Ministério da Defesa Nacional.
 
-**Assinada em 10 de Agosto de 1983.**
+Assinada em 10 de Agosto de 1983.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06000/0000800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2025/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71115488c6ca94dd701598c24677acdcf9923a80ddba0f19ede0a373b316cba9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2027912ace322c09eaa1f91d9149f44082f76bf7b440b56657989fee8beb83d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,20 @@ reuse:
 subjects:
 - Acesso à Informação
 - Cartão de Identificação
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comparticipação do Estado
 - Contra-ordenação
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
-- Publicação
 - Leitura Pública
+- Publicação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:98/2007
+  label: Altera, a partir de 27 de março de 2025, nos termos do artigo 5.º do presente diploma, os artigos 4.º, 4.º-A, 4.º-B,
+    5.º, 9.º-A, 18.º e 20.º, adita o artigo 18.º-A, revoga o n.º 8 do artigo 5.º e o n.º 5 do artigo 11.º e republica o Decreto-Lei
+    n.º 98/2007, de 2 de abril, Diário da República n.º 65/2007, Série I
+  source: null
+  date: '2007-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/22/2015/02/06/p/dre
   label: null
@@ -98,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre
+- type: cites
+  target: pt:dre:106579661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:884941426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898201693:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 36
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:20Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +163,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 98/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2007-520203), de 2 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[22/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), de 6 de fevereiro, e [27/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), de 10 de março, que aprova o regime de incentivo à leitura de publicações periódicas, modificando este regime no que respeita às condições de acesso, à comparticipação do Estado nos custos de expedição de publicações periódicas suportados pelos assinantes e às obrigações de informação.
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 98/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2007-520203), de 2 de abril, alterado pelos Decretos-Leis n.os[22/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), de 6 de fevereiro, e [27/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), de 10 de março, que aprova o regime de incentivo à leitura de publicações periódicas, modificando este regime no que respeita às condições de acesso, à comparticipação do Estado nos custos de expedição de publicações periódicas suportados pelos assinantes e às obrigações de informação.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 98/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2007-520203), de 2 de abril
 
@@ -158,19 +189,25 @@ e) As publicações periódicas registadas que tenham uma periodicidade igual ou
 
 3 - [...]
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo anterior pode, respeitadas as condições de acesso, atingir a percentagem de 90 % para assinantes residentes em território nacional caso tenha sido deferida à empresa proprietária ou editora da publicação candidatura ao incentivo ao desenvolvimento digital, nos termos e com as condições definidas no diploma que aprova o regime de incentivos do Estado à comunicação social.
 
 2 - [...]
 
-###### Artigo 4.º-B — [...]
+Artigo 4.º-B
+
+[...]
 
 1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo 4.º pode, respeitadas as condições de acesso, atingir a percentagem de 85 %, nos casos de assinantes residentes em território nacional, caso a empresa proprietária ou editora da publicação desenvolva o seu projeto ou atividade em territórios de baixa densidade ou em territórios com um índice PIB per capita regional inferior a 75 % da média do PIB per capita nacional.
 
 2 - Para efeitos do disposto no n.º 2 do artigo 4.º e no número anterior, consideram-se territórios de baixa densidade os de nível NUTS III com menos de 100 habitantes por quilómetro quadrado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -190,7 +227,9 @@ e) As publicações periódicas registadas que tenham uma periodicidade igual ou
 
 9 - [...]
 
-###### Artigo 9.º-A — [...]
+Artigo 9.º-A
+
+[...]
 
 As entidades responsáveis pela atribuição do incentivo previsto no presente decreto-lei:
 
@@ -198,7 +237,9 @@ a) Mantêm no respetivo sítio na Internet listagens atualizadas das entidades b
 
 b) Remetem anualmente, durante o mês de janeiro, ao membro do Governo responsável pela área da comunicação social a compilação de toda a informação referida na alínea anterior.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -208,7 +249,9 @@ b) Remetem anualmente, durante o mês de janeiro, ao membro do Governo responsá
 
 4 - Cada CCDR deve, durante o mês de janeiro de cada ano, enviar ao membro do Governo responsável pela área da comunicação social um relatório detalhado sobre as ações de fiscalização realizadas no ano anterior e respetivas conclusões e informação sobre a utilização da verba prevista no n.º 2 do artigo 20.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os encargos decorrentes da aplicação do presente decreto-lei são inscritos anualmente em dotação própria no orçamento da Estrutura de Missão para a Comunicação Social, criada pela [Resolução do Conselho de Ministros n.º 105/2024](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2024-884941426), de 21 de agosto, designada por #PortugalMediaLab, competindo à Secretaria-Geral do Governo a certificação e o pagamento das verbas respeitantes ao incentivo naquele previsto, através do referido orçamento.
 
@@ -248,15 +291,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Pedro Miguel Duarte.
 
-**Promulgado em 21 de março de 2025.**
+Promulgado em 21 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de março de 2025.**
+Referendado em 21 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -360,13 +403,13 @@ e) As publicações periódicas registadas que tenham uma periodicidade igual ou
 
 5 - As publicações que tenham por objeto principal a promoção da igualdade de género, manifesto no seu estatuto editorial e nos conteúdos publicados, desde que não ocupem com conteúdo publicitário uma superfície superior a 20 % do espaço disponível, incluindo suplementos e encartes, beneficiam de uma comparticipação de 80 % no custo da sua expedição postal.
 
-6 - No uso das respetivas competências administrativas, cabe ao presidente da comissão de coordenação e desenvolvimento regional (CCDR) competente, em função da sede da entidade proprietária da publicação, decidir sobre o enquadramento das publicações referidas nos n.<sup>os</sup>1 a 5, após parecer prévio fundamentado dos serviços ou organismos da Administração Pública que se ocupem das áreas temáticas a que as mesmas respeitam.
+6 - No uso das respetivas competências administrativas, cabe ao presidente da comissão de coordenação e desenvolvimento regional (CCDR) competente, em função da sede da entidade proprietária da publicação, decidir sobre o enquadramento das publicações referidas nos n.os1 a 5, após parecer prévio fundamentado dos serviços ou organismos da Administração Pública que se ocupem das áreas temáticas a que as mesmas respeitam.
 
 7 - Para beneficiarem da comparticipação prevista no n.º 1, as publicações devem estar registadas à data de apresentação do requerimento de candidatura.
 
 8 - (Revogado.)
 
-9 - As publicações referidas nos n.<sup>os</sup>1 a 5 apenas beneficiam de comparticipação até à gramagem máxima de 200 g por exemplar, incluindo suplementos.
+9 - As publicações referidas nos n.os1 a 5 apenas beneficiam de comparticipação até à gramagem máxima de 200 g por exemplar, incluindo suplementos.
 
 ###### Artigo 6.º — Portal da imprensa regional
 
@@ -414,7 +457,9 @@ a) Mantêm no respetivo sítio na Internet listagens atualizadas das entidades b
 
 b) Remetem anualmente, durante o mês de janeiro, ao membro do Governo responsável pela área da comunicação social a compilação de toda a informação referida na alínea anterior.
 
-###### Artigo 10.º — Título de acesso
+###### Artigo 10.º
+
+## Título de acesso
 
 1 - A comprovação do enquadramento de uma publicação no regime do presente decreto-lei, designadamente no momento de cada expedição, é feita mediante a apresentação de um título de acesso emitido pela CCDR competente, que contém o número de titular, previamente atribuído, o regime de comparticipação aplicável, as datas de emissão e de caducidade, o título da respetiva publicação periódica e a designação da entidade requerente.
 
@@ -450,7 +495,7 @@ b) A publicação a que respeita for editada com periodicidade diferente daquela
 
 c) A tiragem média por edição, avaliada em cada ano civil, for inferior à fixada para o enquadramento;
 
-d) A publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.<sup>os</sup>2 a 5 do artigo 5.º;
+d) A publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os2 a 5 do artigo 5.º;
 
 e) O número de profissionais ou de jornalistas for inferior ao estabelecido nas alíneas a), b), c) ou d) do n.º 1 do artigo 4.º, caso tenha concorrido para a determinação do regime aplicável;
 
@@ -466,7 +511,7 @@ i) (Revogada.)
 
 3 - É também considerada abusiva a inserção de outras publicações não credenciadas.
 
-4 - O disposto no número anterior não se aplica a suplementos de publicações periódicas, sem prejuízo do disposto na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.<sup>os</sup>2 a 5 do artigo 5.º
+4 - O disposto no número anterior não se aplica a suplementos de publicações periódicas, sem prejuízo do disposto na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os2 a 5 do artigo 5.º
 
 5 - (Revogado.)
 
@@ -474,7 +519,7 @@ i) (Revogada.)
 
 1 - Constitui contraordenação leve, punível com coima de 500 € a 2000 €, para as pessoas singulares, e de 2500 € a 20 000 €, para as pessoas coletivas:
 
-a) A falta de informação à CCDR competente de qualquer alteração relacionada com o cumprimento dos requisitos gerais e específicos que determinaram o respetivo enquadramento, dentro dos prazos fixados nos n.<sup>os</sup>1 e 3 do artigo 11.º;
+a) A falta de informação à CCDR competente de qualquer alteração relacionada com o cumprimento dos requisitos gerais e específicos que determinaram o respetivo enquadramento, dentro dos prazos fixados nos n.os1 e 3 do artigo 11.º;
 
 b) A falta de comunicação à CCDR competente da transmissão da propriedade da publicação ou a falta de devolução do título de acesso, dentro do prazo fixado pelo n.º 4 do artigo 11.º;
 
@@ -500,7 +545,7 @@ b) A utilização do benefício instituído pelo presente decreto-lei quando a p
 
 c) A utilização do benefício instituído pelo presente decreto-lei quando a tiragem média por edição, avaliada em cada ano civil, for inferior à fixada para o enquadramento;
 
-d) A utilização do benefício instituído pelo presente decreto-lei quando a publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.<sup>os</sup>2 a 5 do artigo 5.º;
+d) A utilização do benefício instituído pelo presente decreto-lei quando a publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os2 a 5 do artigo 5.º;
 
 e) A utilização do benefício instituído pelo presente decreto-lei quando o número de profissionais ou de jornalistas for inferior ao estabelecido nas alíneas a), b), c) ou d) do n.º 1 do artigo 4.º, caso tenha concorrido para a determinação do regime aplicável;
 
@@ -581,3 +626,5 @@ k) A utilização do benefício instituído pelo presente decreto-lei quando oco
 ###### Artigo 23.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+118858027

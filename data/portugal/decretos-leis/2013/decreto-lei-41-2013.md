@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2013/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99938f180de913d6332dcdac5b5a737f45dfb0d8161a6961f756c29fa3b6168b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bca6a2ef79554b404717b4da61a96227807b69479b65f1dc5459f499e6ad87c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
 - Orgânica
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 relationships:
 - type: amended_by
   target: pt:dre:114706489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66443112:por
+  label: Dada nova redação ao art. 5.º do Dec Lei 4/2012 de 16-jan, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2015-66443112
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:114311302:por
+  label: Integrado, a partir de 02.01.2018, no Centro de Competências Especializadas do Estado (JurisAPP) o DIGESTO - Sistema
+    Integrado de Tratamento da Informação Jurídica e da PCMLEX, no âmbito da Secretaria-Geral da Presidência do Conselho de
+    Ministros; e revogadas, também a partir de 02.01.2018, as als. e) e f) do n.º 1 do art. 4.º e, na parte respeitante à
+    gestão do DIGESTO e da PCMLEX, a al. b) do art. 5.º, ambos do Dec Lei 4/2012 de 16-jan, com a redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2017-114311302
+  date: '2017-12-06'
+- type: amended_by
+  target: pt:dre:114706489:por
+  label: Alterado, a partir de 17.02.2018, o art. 5.º do Dec Lei 4/2012, de 16-jan, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 12/2018 - Diário da República n.º 34/2018, Série I de 2018-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2018-114706489
+  date: '2018-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/2012/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/4/2012/01/16/p/dre
+- type: cites
+  target: pt:dre:544577:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:10Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +151,9 @@ Os artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 4/2012](https://diariodarepubl
 
 A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -152,7 +179,9 @@ i) Assegurar o arquivamento dos originais de diplomas legislativos e regulamenta
 
 3 - O secretário-geral-adjunto exerce as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral, competindo substituí-lo nas suas faltas e impedimentos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -166,15 +195,15 @@ O anexo ao [Decreto-Lei n.º 4/2012](https://diariodarepublica.pt/dr/detalhe/dec
 
 Visto e aprovado em Conselho de Ministros de 21 de fevereiro de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 12 de março de 2013.**
+Promulgado em 12 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de março de 2013.**
+Referendado em 18 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -184,4 +213,4 @@ Visto e aprovado em Conselho de Ministros de 21 de fevereiro de 2013. - Pedro Pa
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/05700/0178401784.pdf))](https://files.diariodarepublica.pt/1s/2013/03/05700/0178401784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/05700/0178401784.pdf)

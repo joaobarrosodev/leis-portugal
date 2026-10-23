@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 46/2008, 1º Suplemento, Série I de 2008-03-05
   number: '46'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1392-(2) a 1392-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04601/0000200008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2008-241045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e6a8578648d39efdd4f3f4cc53e00ec566165735e140f27425f68281e6c42c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf6ab73acbf86dcd0e0d2faeef7162f56703c127527fcd810758d8be5450f7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,61 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- QREN
-- Proder
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Desenvolvimento Rural
+- Açores
+- Agricultura
+- Apoio ao Investimento
+- Cobrança de Dívidas
 - Contrato de Financiamento
 - Definição de Competências
-- Plano Estratégico Nacional
-- Feader
+- Desenvolvimento Rural
 - Especificação Técnica
 - Execução Fiscal
-- Apoio ao Investimento
-- Pagamento
+- Exploração Agrícola
+- Exploração Florestal
+- Feader
+- Financiamento
+- FSE
 - IFAP
 - Instituto de Gestão da Tesouraria e do Crédito Público
-- FSE
-- Exploração Agrícola
+- Madeira.região Autónoma
+- Modernização do Sector Agrícola
+- Pagamento
+- Plano Estratégico Nacional
+- Proder
 - Proderam
-- Exploração Florestal
+- Programa de Desenvolvimento Rural
 - Prorural
 - QCA III
-- Madeira.região Autónoma
-- Cobrança de Dívidas
+- QREN
 - Regulamento
 - Regulamento CE
-- Modernização do Sector Agrícola
-- Agricultura
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605545:por
+  label: "Alterados os arts. 3.º, 4.º, 10.º, 12.º, 15.º e 18.º, revogado o n.º 5 do artigo 12.º e as alíneas e) e f) do n.º\
+    \ 1 do artigo 18.º, todos do presente diploma, pelo DEC LEI.66/2009.20.03.2009.MADRP, DR.IS [56] de 20.03.2009, que o\
+    \ republica no seu anexo II, com a redacção actual \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2009-605545
+  date: '2009-03-20'
+- type: amended_by
+  target: pt:dre:335686:por
+  label: "Alterados os arts. 1.º, 4.º (este último na redacção do Dec Lei 66/2009 de 20-Mar), 6.º, 8.º, 9.º, 11.º e 16.º do\
+    \ presente diploma, republicado pelo Dec Lei 66/2009 de 20-Mar, pelo DEC LEI.69/2010.16.06.2010.MADRP, DR.IS [115] de\
+    \ 16.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2010-335686
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:58683427:por
+  label: Determinada a transferência para a Autoridade de Gestão do Programa de Desenvolvimento Rural do Continente (PDR 2020)
+    das atribuições, dos direitos e das obrigações da Autoridade de Gestão do Programa de Desenvolvimento Rural do Continente
+    (PRODER) e do Programa da Rede Rural Nacional (PRRN), previstas no presente diploma, pelo(a) Despacho n.º 13279-E/2014
+    - Diário da República n.º 211/2014, 2º Suplemento, Série II de 2014-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/13279-e-2014-58683427
+  date: '2014-10-31'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -132,13 +154,13 @@ relationships:
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:43Z'
   warnings: []
   errors: []
 ---
@@ -537,12 +559,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - José António Fonseca Vieira da Silva.
 
-**Promulgado em 19 de Fevereiro de 2008.**
+Promulgado em 19 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Março de 2008.**
+Referendado em 4 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa..**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa..

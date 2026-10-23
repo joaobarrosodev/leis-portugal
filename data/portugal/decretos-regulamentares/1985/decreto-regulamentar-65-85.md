@@ -48,40 +48,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1985-178373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1889579f2d7a024e33ef1069ffa459c8f1661679e2678eed73068a02a8d1ee4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 751c56839604b61d9a490807e0fa217952342c7ee5535078143ab49b379a54de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Internacional da Cultura Portuguesa
+- Instituto Português do Património Cultural
+- Património Cultural
 relationships:
 - type: amended_by
   target: pt:dre:227181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227181:por
+  label: "Alterado o art. 1º, pelo DR.17/86.1986.05.16.MEC, DR.IS [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1986-227181
+  date: '1986-05-16'
+- type: cites
+  target: pt:dre:238651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:02Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +120,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+Artigo 1.º A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
 
-###### Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.
+Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.
 
-**Promulgado em 27 de Setembro de 1985.**
+Promulgado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado, em 30 de Setembro de 1985.**
+Referendado, em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

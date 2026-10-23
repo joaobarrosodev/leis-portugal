@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/125a00/26372647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/1997/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1997-352172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b36ab2e45e008619c02589a8def4a2c47d2c8f9619094a4cf23bc4edd86aaf5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 638346c6069ec0435cdcd4cc641860a5597261b7e90fa578510f55ac4712c568
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Autonomia Administrativa
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Criação de Serviços
 - Definição de Competências
 - Estatuto Jurídico
 - Extinção de Serviços
+- Gestão de Recursos Humanos
 - Gestão do Património
 - Instituto de Hidráulica Engenharia Rural e Ambiente
 - Instituto Público
+- Investigação Científica e Tecnológica
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Personalidade Jurídica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:518854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições do IDRH no domínio da concepção da política de planeamento\
+    \ e ordenamento do espaço rural e da concepção da política de qualidade dos produtos agrícolas e dos géneros alimentícios\
+    \ pelo DR.6/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
+- type: amended_by
+  target: pt:dre:518854:por
+  label: "Determinada a sucessão da DGADR nas atribuições do IDRH (que é extinto), com excepção das atribuições no domínio\
+    \ da concepção da política de planeamento e ordenamento do espaço rural e da concepção da política de qualidade dos produtos\
+    \ agrícolas e dos géneros alimentícios, cuja orgânica consta do presente diploma, que é revogado, nos termos do art. 5º\
+    \ do Dec Lei 201/2006 de 27-Out, a partir de 01.03.2007 pelo DR.8/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2007-518854
+  date: '2007-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre
   label: null
@@ -106,16 +121,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680645:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:484674:por
+  label: "Rectificado pela DECL-RECT.14-A/97.1997.07.11.PCM, DR.IS-A [175]-3ºSupl de 1997.07.31t\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-a-1997-484674
+  date: '1997-07-11'
 article_structure:
   article_count: 44
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:25Z'
   warnings: []
   errors: []
 ---
@@ -290,7 +338,9 @@ c) Divisão de Gestão Financeira e Controlo Orçamental;
 
 d) Repartição de Administração Geral.
 
-###### Artigo 9.º — Divisão de Organização e Informática
+###### Artigo 9.º
+
+##### Divisão de Organização e Informática
 
 À Divisão de Organização e Informática compete:
 
@@ -304,7 +354,9 @@ d) Colaborar com as restantes unidades orgânicas da DSGA, assegurando a anális
 
 e) Assegurar as ligações entre o IHERA e os serviços do MADRP no domínio da informática e garantir a segurança e privacidade da informação sigilosa ou reservada que esteja à sua guarda.
 
-###### Artigo 10.º — Divisão de Formação e Gestão dos Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Formação e Gestão dos Recursos Humanos
 
 À Divisão de Formação e Gestão dos Recursos Humanos compete:
 
@@ -320,7 +372,9 @@ e) Fornecer à Secção de Pessoal, Cadastro e Abonos as informações tendentes
 
 f) Fornecer à Divisão de Gestão dos Recursos Financeiros os elementos destinados à elaboração do orçamento anual na parte respeitante às despesas com pessoal.
 
-###### Artigo 11.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 11.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -404,7 +458,9 @@ e) Preparar os projectos de resposta nos recursos hierárquicos e de contencioso
 
 f) Patrocinar os interesses do IHERA em juízo.
 
-###### Artigo 14.º — Divisão de Informação e Cooperação Internacional
+###### Artigo 14.º
+
+##### Divisão de Informação e Cooperação Internacional
 
 À Divisão de Informação e Cooperação Internacional compete:
 
@@ -438,7 +494,9 @@ c) Divisão de Análise de Projectos e Expropriações;
 
 d) Divisão de Planeamento, Avaliação e Controlo.
 
-###### Artigo 16.º — Divisão de Ambiente e Ordenamento
+###### Artigo 16.º
+
+##### Divisão de Ambiente e Ordenamento
 
 À Divisão de Ambiente e Ordenamento compete:
 
@@ -458,7 +516,9 @@ g) Acompanhar e participar na elaboração dos planos regionais, municipais e es
 
 h) Colaborar em acções que articulem agricultura e ambiente, nomeadamente nas que decorrem da aplicação de legislação nacional e comunitária.
 
-###### Artigo 17.º — Divisão de Planeamento do Regadio
+###### Artigo 17.º
+
+##### Divisão de Planeamento do Regadio
 
 À Divisão de Planeamento do Regadio compete:
 
@@ -478,7 +538,9 @@ g) Estudar e propor a adopção de incentivos financeiros visando o correcto apr
 
 h) Coordenar e dinamizar a aplicação de medidas nacionais e comunitárias para o sector.
 
-###### Artigo 18.º — Divisão de Análise de Projectos e Expropriações
+###### Artigo 18.º
+
+##### Divisão de Análise de Projectos e Expropriações
 
 À Divisão de Análise de Projectos e Expropriações compete:
 
@@ -492,7 +554,9 @@ d) Proceder aos estudos agro-económicos relativos às áreas a inundar ou ocupa
 
 e) Promover e coordenar todos os estudos necessários à execução das acções de indemnização e expropriação.
 
-###### Artigo 19.º — Divisão de Planeamento, Avaliação e Controlo
+###### Artigo 19.º
+
+##### Divisão de Planeamento, Avaliação e Controlo
 
 À Divisão de Planeamento, Avaliação e Controlo compete:
 
@@ -520,7 +584,9 @@ c) Divisão de Hidrologia Agrícola e Qualidade da Água;
 
 d) Divisão de Apoio aos Perímetros de Aproveitamento Hidroagrícola.
 
-###### Artigo 21.º — Divisão de Cartografia e Informação Geográfica
+###### Artigo 21.º
+
+##### Divisão de Cartografia e Informação Geográfica
 
 À Divisão de Cartografia e Informação Geográfica compete:
 
@@ -532,7 +598,9 @@ c) Colaborar, em especial com o Instituto Português de Cartografia e Cadastro, 
 
 d) Assegurar a produção das cartas elaboradas pelos diversos departamentos do IHERA e outros organismos do MADRP, conforme decisão superior.
 
-###### Artigo 22.º — Divisão de Solos
+###### Artigo 22.º
+
+##### Divisão de Solos
 
 À Divisão de Solos compete:
 
@@ -546,7 +614,9 @@ d) Promover e coordenar as medidas e acções relativas à RAN visando a sua con
 
 e) Propor medidas legislativas necessárias ao controlo da erosão e à conservação do solo.
 
-###### Artigo 23.º — Divisão de Hidrologia Agrícola e Qualidade da Água
+###### Artigo 23.º
+
+##### Divisão de Hidrologia Agrícola e Qualidade da Água
 
 À Divisão de Hidrologia Agrícola e Qualidade da Água compete:
 
@@ -566,7 +636,9 @@ g) Promover e acompanhar os estudos de prospecção de águas subterrâneas para
 
 h) Colaborar com outros organismos, nomeadamente o INAG, na protecção e recarga de lençóis subterrâneos de interesse para fins agrícolas.
 
-###### Artigo 24.º — Divisão de Apoio aos Perímetros de Aproveitamento Hidroagrícola
+###### Artigo 24.º
+
+##### Divisão de Apoio aos Perímetros de Aproveitamento Hidroagrícola
 
 À Divisão de Apoio aos Perímetros de Aproveitamento Hidroagrícola compete:
 
@@ -604,7 +676,9 @@ c) Divisão de Mecanização Agrária;
 
 d) Divisão de Estruturação Agrária.
 
-###### Artigo 26.º — Divisão de Rega, Drenagem e Caminhos
+###### Artigo 26.º
+
+##### Divisão de Rega, Drenagem e Caminhos
 
 À Divisão de Rega, Drenagem e Caminhos compete:
 
@@ -622,7 +696,9 @@ f) Analisar e dar parecer sobre os pedidos de financiamento das obras hidroagrí
 
 g) Promover a elaboração de estudos e projectos relativos a vias de comunicação em zonas abrangidas por planos integrados de desenvolvimento agrícola.
 
-###### Artigo 27.º — Divisão de Estruturas Hidráulicas
+###### Artigo 27.º
+
+##### Divisão de Estruturas Hidráulicas
 
 À Divisão de Estruturas Hidráulicas compete:
 
@@ -644,7 +720,9 @@ h) Apoiar as associações de beneficiários na elaboração de estudos, project
 
 i) Colaborar no fomento da electrificação de zonas rurais e na definição de uma adequada política de tarifação da energia eléctrica para a agricultura.
 
-###### Artigo 28.º — Divisão de Mecanização Agrária
+###### Artigo 28.º
+
+##### Divisão de Mecanização Agrária
 
 À Divisão de Mecanização Agrária compete:
 
@@ -666,7 +744,9 @@ h) Assegurar o regular funcionamento de uma comissão consultiva de mecanizaçã
 
 i) Assegurar a coordenação do benefício fiscal ao gasóleo agrícola.
 
-###### Artigo 29.º — Divisão de Estruturação Agrária
+###### Artigo 29.º
+
+##### Divisão de Estruturação Agrária
 
 À Divisão de Estruturação Agrária compete:
 
@@ -696,7 +776,9 @@ c) Gabinete de Gestão do Parque de Máquinas.
 
 3 - Na dependência do director de serviços funciona um núcleo técnico e administrativo destinado a apoiar a gestão das equipas de projecto dos perímetros sob responsabilidade do IHERA ou que integrem aproveitamentos de fins múltiplos a cargo de outros departamentos ministeriais e a promover, em colaboração com a DSGA e a DSPA, a programação integrada da execução financeira dos projectos.
 
-###### Artigo 31.º — Divisão de Topografia
+###### Artigo 31.º
+
+##### Divisão de Topografia
 
 À Divisão de Topografia compete:
 
@@ -704,7 +786,9 @@ a) Promover a execução dos trabalhos topográficos e a recolha e preparação 
 
 b) Efectuar os trabalhos topográficos de implantação das obras de infra-estruturas e dos novos prédios resultantes da recomposição agrária da responsabilidade do IHERA.
 
-###### Artigo 32.º — Divisão de Obras e Fiscalização
+###### Artigo 32.º
+
+##### Divisão de Obras e Fiscalização
 
 À Divisão de Obras e Fiscalização compete:
 
@@ -862,16 +946,16 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Maio de 1997.**
+Promulgado em 8 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Maio de 1997.**
+Referendado em 15 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O n.º 2 DO ARTIGO 41.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/125a00/26372647.pdf))](https://files.diariodarepublica.pt/1s/1997/05/125a00/26372647.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/125a00/26372647.pdf)

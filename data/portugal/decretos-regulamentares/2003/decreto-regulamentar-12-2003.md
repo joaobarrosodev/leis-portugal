@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/124b00/32883289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/2003/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2003-545874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d64009573a5a413dd8c75ac3a83652261f7ef971f1e42115fc83da7c6834cc56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb078d4cf3091e8781a8f8b1b2d8549eb73195cb8611c2e3d62e49bfda837f16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distinção Honorífica
 - Chanceler das Antigas Ordens Militares
+- Distinção Honorífica
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:278888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:372797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575138:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278888:por
+  label: "Revogado em 09.03.2011 pela LEI.5/2011.02.03.2011.AR, DR.IS [43] de 02.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2011-278888
+  date: '2011-03-02'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:19Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +137,7 @@ e) Vice-almirante ou tenente-general e postos superiores - grã-cruz.
 
 2 - Salvo em casos absolutamente excepcionais, e por iniciativa do Presidente da República, será obrigatoriamente respeitada a correspondência estabelecida no n.º 1.
 
-###### Artigo 36.º
+Artigo 36.º
 
 1 - São condições gerais necessárias, no seu conjunto, para atribuição de qualquer grau da Ordem Militar de Avis as seguintes:
 
@@ -162,7 +179,7 @@ c) Conter um juízo global dos serviços prestados à instituição militar ou �
 
 7 - O disposto nos n.os 3 e 4 do presente artigo não é aplicável aos casos em que a atribuição da Ordem Militar de Avis ocorra por iniciativa do Presidente da República, nos termos do artigo 19.º da Lei Orgânica das Ordens Honoríficas Portuguesa, e à atribuição do grau da grã-cruz aos almirantes, generais, almirantes da Armada e marechais.
 
-###### Artigo 37.º
+Artigo 37.º
 
 1 - O chanceler das antigas ordens militares, baseado nas vagas existentes no quadro da Ordem Militar de Avis e em função dos respectivos efectivos orgânicos em oficiais dos ramos das Forças Armadas e da Guarda Nacional Republicana, comunica anualmente, até 31 de Dezembro, aos chefes de estado-maior dos ramos e ao comandante-geral da Guarda Nacional Republicana o número máximo de propostas, por graus, que podem apresentar.
 
@@ -172,12 +189,12 @@ c) Conter um juízo global dos serviços prestados à instituição militar ou �
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 2003. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Nuno Albuquerque Morais Sarmento.
 
-**Promulgado em 7 de Maio de 2003.**
+Promulgado em 7 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Maio de 2003.**
+Referendado em 9 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

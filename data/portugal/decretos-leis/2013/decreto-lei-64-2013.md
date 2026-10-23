@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2013-261149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1d55e081e6c23b73a8aa0176a3480a83c40d375a997d629c3d93f7ef22dfa3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a63f6cf6ba8d19d87f4b1bf2254b67faa1f36b1e492cbf043a589471a2ac3c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Sociedade Comercial
 - Contabilidade
 - Entidade sem FINS Lucrativos
 - IPSS
-- Sistema de Normalização Contabilística
-- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
-- Plano Oficial de Contabilidade
-- Prestação de Contas
 - Microempresa
 - Pequenas e Médias Empresas
+- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Plano Oficial de Contabilidade
 - PME
+- Prestação de Contas
+- Sistema de Normalização Contabilística
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:117537583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterado o art. 12.º do Dec Lei 36-A/2011 de 09-mar, na redação do presente diploma, pelo(a) Lei n.º 71/2018 - Diário
+    da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
 - type: cites
   target: celex:32009L0049
   label: null
@@ -99,13 +105,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:37Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +158,12 @@ No caso da primeira aplicação por uma entidade, do regime de normalização co
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2013. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de maio de 2013.**
+Promulgado em 8 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2013.**
+Referendado em 9 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

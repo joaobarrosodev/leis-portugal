@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 194/1983, 1º Suplemento, Série I de 1983-08-24
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3000-(7) a 3000-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf
 entry_into_force_dates: []
@@ -46,36 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/852-1983-294090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cca8d7b339e65ed235079123146e5641b60a2a8556fe85854d433c47cfeedd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22b8e8f00705822c17784ff35cd0a122106d41e9af31b21ac8c62ec62194e287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Passe Social
+- Preço
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:35Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +161,7 @@ Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 Linha verde:
 
@@ -112,7 +171,7 @@ Duas zonas ... 100$00
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 Elevadores:
 
@@ -130,7 +189,7 @@ Pré-comprado (ver nota a) ... 18$00
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 1.2 - Passes:
 
@@ -186,7 +245,7 @@ LE ... 3125$00
 
 Válidos na Carris e no Metropolitano e ainda num percurso de um operador rodoviário, nos termos definidos na [Portaria n.º 765-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/765-a-1980-250430), de 1 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 1.2.5 - Passes combinados (L/CP e L/Transtejo).
 
@@ -276,17 +335,17 @@ Passe Terreiro do Paço-Montijo para a terceira idade (mensal) (válido para ind
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 2.1.2 - Outros percursos com 1 ou 2 términos fora da cidade:
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 Linha verde:
 
@@ -296,7 +355,7 @@ Linha verde:
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras do STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas. A requerimento dos respectivos concessionários, o director-geral de Transportes Terrestres poderá autorizar, por despacho, que nas carreiras interurbanas se pratique naqueles percursos o regime tarifário previsto no n.º 4 do presente diploma.
 
@@ -366,7 +425,7 @@ Válido nos STCP e na CP, nos termos definidos pela [Portaria n.º 306/80](https
 
 Válidos nos termos definidos pela [Portaria n.º 756/80](https://diariodarepublica.pt/dr/detalhe/portaria/756-1980-461620), de 30 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 3 - Outros transportes urbanos:
 
@@ -404,13 +463,13 @@ A Direcção-Geral de Transportes Terrestres poderá aprovar mínimos de cobran�
 
 4.3.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 4.3.2 - Para número limitado de viagens:
 
 Em substituição da modalidade referida no número anterior e a requerimento dos concessionários, pode a Direcção-Geral de Transportes Terrestres autorizar a emissão de assinaturas de linha para 44, 52 e 88 viagens, não podendo esta última modalidade ser praticada como modalidade única.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
 
 4.3.3 - Quando as assinaturas de linha previstas nos números anteriores permitirem a utilização de 2 ou mais carreiras, o seu preço será correspondente à distância zonal do percurso para que são válidas.
 
@@ -434,8 +493,8 @@ Em substituição da modalidade referida no número anterior e a requerimento do
 
 Ministérios do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 18 de Agosto de 1983.**
+Assinada em 18 de Agosto de 1983.
 
-**O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19401/00070013.pdf)

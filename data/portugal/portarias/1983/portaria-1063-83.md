@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1063-1983-444418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 560113d2ef11bce56623d0d5b510ec92004bace45e770731e3de107130f34c09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83f9ae634a5b755bccce2be3f723198fe2d253b5b0969556593c0a0a7c2b314b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Guarda Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:387312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387312:por
+  label: "Substituida a tabela de ajudas de custo a que se refere a o presente diploma, pela PORT.411/84.27.06.1984.PCM, DR.IS\
+    \ [147] de 27.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1984-387312
+  date: '1984-06-27'
+- type: cites
+  target: pt:dre:439424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568304:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:146005:por
+  label: Rectificada pela DECL.DD1176.1984.01.24.PCM DR.IS [26]3ºSupl.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-146005
+  date: '1984-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:42Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +111,10 @@ de 27 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, que a tabela de ajudas de custo a que se refere a [Portaria n.º 967/81](https://diariodarepublica.pt/dr/detalhe/portaria/967-1981-568304), de 12 de Novembro, seja substituída, nas mesmas condições indicadas pela [Portaria n.º 868/83](https://diariodarepublica.pt/dr/detalhe/portaria/868-1983-439424), de 1 de Setembro, com aplicação aos militares do Exército, da Marinha e da Força Aérea, pela que seguidamente se publica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/29700/41204121.pdf))](https://files.diariodarepublica.pt/1s/1983/12/29700/41204121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/29700/41204121.pdf)
 
 Ministério das Finanças e do Plano.
 
-**Assinada em 12 de Outubro de 1983.**
+Assinada em 12 de Outubro de 1983.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.

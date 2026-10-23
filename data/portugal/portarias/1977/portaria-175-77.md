@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-1977-139678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac9c522d33af3e49b37051dd6b6ac21288b1b85ae97267fcf325d9cd22cd509e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e3fad3d3e05dac2bc3794d7b1c49a721085671e6d746a0a17df7bb47a351553
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola
+- Contribuição Predial
+- Política Fiscal
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:495096:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654922:por
+  label: "Alterada a tabela anexa ao presente diploma, pela Port.249/84.18.04.1984.MFP, DR.IS [92] de 18.04.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-1984-654922
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:495096:por
+  label: "Alterada a tabela anexa ao presente diploma, alterada pela Port 249/84, de 18-Abr, pela PORT.772/87.07.09.1987.MF,\
+    \ DR.IS [205] de 07.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/772-1987-495096
+  date: '1987-09-07'
+- type: cites
+  target: pt:dre:355320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407757:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:54Z'
   warnings: []
   errors: []
 ---

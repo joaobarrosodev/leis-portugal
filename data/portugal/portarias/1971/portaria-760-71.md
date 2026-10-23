@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
   number: '304'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2074-(11) a 2074-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00110012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-1971-368257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 168b9959bfc6ce69ea38ce1723bb75e3798b1dc402d9e195cee731a796aad825
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d73e70fef7f32883e703a324353546a50fb62c5cacae9ebd299d31f5400c750
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:42Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +95,19 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 2) «Material de consumo corrente»:
+Artigo 6.º, n.º 2) «Material de consumo corrente»:
 
 Diversos não especificados, incluindo artigos de expediente, assinaturas do Diário do Governo e outras publicações, compra de livros indispensáveis ao serviço, pequenas reparações eventuais, etc. ... 40000$00
 
 Pagamento de serviços:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 60000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 60000$00
 
-###### Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 25000$00
+Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 25000$00
 
-###### Artigo 9.º, n.º 1), alínea b) «Diversos serviços - Publicidade - Publicação de relatórios e outros trabalhos» ... 250000$00
+Artigo 9.º, n.º 1), alínea b) «Diversos serviços - Publicidade - Publicação de relatórios e outros trabalhos» ... 250000$00
 
-###### Artigo 9.º, n.º 2), alínea e) «Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 300000$00
+Artigo 9.º, n.º 2), alínea e) «Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 300000$00
 
 ... 675000$00
 

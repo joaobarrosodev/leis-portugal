@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 39/1985, 1º Suplemento, Série I de 1985-02-15
   number: '39'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 368-(2) a 368-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/03901/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-a-1985-443751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 267706d926e62d0b8b521553e0d427fd54e929ecfcc7da2dd9f9b7aac21945c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 644f915e0654d7d0ae9af0ae13767f9592126301a14a2b349618a86de100d623
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Bancário
+- Obrigações
+- Taxa
+- TAXA de JURO
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:393610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:1308239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326709:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393610:por
+  label: "Revogada pelo DEC LEI.311-A/85.30.07.1985.MFP, DR.IS [173-2ºSupl] de 30.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-a-1985-393610
+  date: '1985-07-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:15Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +127,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Tesouro,
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 15 de Fevereiro de 1985.**
+Assinada em 15 de Fevereiro de 1985.
 
-**O Secretário de Estado do Tesouro, António d'Almeida.**
+O Secretário de Estado do Tesouro, António d'Almeida.

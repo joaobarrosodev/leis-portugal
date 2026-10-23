@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/242a00/54645465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/1998/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1998-239981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adbe6bbcceaa4067eacc98cea5431976e2a6d8ed1dd9c5db82f118e77f67e54a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a61be8713575bcdbcee6a548c675cd72758e97f43f8888d85ff71eb44485f512
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
-- Falência
-- Empresa
 - Código dos Processos Especiais de Recuperação da Empresa e de Falência
 - Direito Penal Económico
-- Recuperação de Empresas
+- Empresa
+- Falência
 - IAPMEI
+- Insolvência
+- Recuperação de Empresas
 - Situação Económica Dificil
 - Viabilidade Económica
 relationships:
@@ -80,6 +80,11 @@ relationships:
   target: pt:dre:179028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480707:por
+  label: "Alterados os arts. 1º a 4º, 10º e 11º, pelo DEC LEI.201/2004.18.08.2004.MECO, DR.IS-A [194] de 18.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2004-480707
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
   label: null
@@ -96,16 +101,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/81/1998/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1998/04/02/p/dre
+- type: cites
+  target: pt:dre:209270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179028:por
+  label: "Revogado o presente diploma, a partir de 01.09.2012, na redação do Dec Lei 201/2004, de 18-ago, pelo DEC LEI.178/2012.03.08.2012.MEE,\
+    \ DR.IS [150] de 03.08.2012, sem prejuízo do disposto no nº 1 do seu art. 21º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2012-179028
+  date: '2012-08-03'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:34Z'
   warnings: []
   errors: []
 ---
@@ -210,12 +237,12 @@ O presente diploma entra em vigor na data do início de vigência do [Decreto-Le
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1998. - António Manuel de Oliveira Guterres - José Manuel de Matos Fernandes - Vítor Manuel Sampaio Caetano Ramalho.
 
-**Promulgado em 18 de Agosto de 1998.**
+Promulgado em 18 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Agosto de 1998.**
+Referendado em 20 de Agosto de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

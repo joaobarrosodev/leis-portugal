@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2452-(93) a 2452-(95)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72-d/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-d-2003-315875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc9f8ee441b4fe169a9457006f9a6d93ffae8453b51df25587aa70a2df2ad269
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5f384fb3256dd190cbdc2646108f25f9be62b02ecfde0ddaabd35bdd74de5f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Homologação
-- Veículo
 - Equipamento de Veículo
+- Homologação
 - Poluição por Hidrocarbonetos
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:281200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:281200:por
+  label: "Alterados os arts. 182º, 186º-A e 194º e o nº 6.6 do anexo 24º do Regulamento aprovado pelo Dec Lei 202/2000 de\
+    \ 01-Set, com a redacção do presente diploma pelo DEC LEI.132/2004.03.06.2004.MAI, DR.IS-A [130] de 03.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2004-281200
+  date: '2004-06-03'
 - type: cites
   target: celex:31970L0220
   label: null
@@ -87,15 +93,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2001/100/oj
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:16Z'
   warnings: []
   errors: []
 ---
@@ -168,19 +174,23 @@ a) ...
 
 b) ...
 
-###### Artigo 149.º — Introdução
+Artigo 149.º
+
+Introdução
 
 1 - ...
 
 2 - O presente capítulo aplica-se aos veículos de ignição comandada conforme definidos no n.º 2 do artigo 13.º do presente Regulamento.
 
-###### Artigo 150.º — Equipamento de ensaio
+Artigo 150.º
+
+Equipamento de ensaio
 
 1 - O presente capítulo trata dos equipamentos necessários para os ensaios das emissões pelo escape a baixa temperatura ambiente com veículos com motores de ignição comandada conforme definidos no n.º 2 do artigo 13.º do presente Regulamento, correspondendo o equipamento necessário e as especificações aos previstos para o ensaio do tipo I, conforme determinado no capítulo II e seus anexos, caso não sejam estabelecidos requisitos específicos para o ensaio do tipo VI.
 
 2 - ...»
 
-###### Artigo 3.º
+Artigo 3.º
 
 Alteração ao anexo XXXII do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas, relativamente às Emissões Poluentes.
 
@@ -188,26 +198,28 @@ Os quadros I e IV constantes do anexo XXXII do Regulamento das Homologações CE
 
 «QUADRO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)
 
 QUADRO IV
 
 Temperatura do ensaio 266 K (-7ºC)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)»
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)](https://files.diariodarepublica.pt/1s/2003/04/088a01/00930095.pdf)»
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Isaltino Afonso de Morais.
 
-**Promulgado em 10 de Abril de 2003.**
+Promulgado em 10 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 2003.**
+Referendado em 14 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21500/0821008218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/375/2007/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-2007-629172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c9d08a6f025c4f27b251740b1243c27689aff2f45dec94fe39033d80329957d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6938fb82baf71f12f4bc6fefab7ed4bbc1bac4e44796a5c94bd398d0623fe341
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CMVM
 - Fundo de Capital de Risco
 - Investimento
 - Regime Jurídico
-- CMVM
 - Sociedade de Capital de Risco
 relationships:
 - type: amended_by
@@ -88,16 +88,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/52/2006/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/52/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66655590:por
+  label: Revogado, a partir de 03.04.2015, pelo(a) Lei n.º 18/2015 - Diário da República n.º 44/2015, Série I de 2015-03-04
+    que determina que as remissões legais ou contratuais para o presente diploma consideram-se feitas para as disposições
+    correspondentes do Regime Jurídico aprovado em anexo à referida lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2015-66655590
+  date: '2015-03-04'
+- type: repeals
+  target: pt:numero:decreto-lei:319/2002
+  label: "Revoga o Decreto-Lei n.º 319/2002, de 28 de Dezembro, DR.IS-A [300], alterado pelos Decretos-Lei n.º 252/2003 de\
+    \ 17-Out, 151/2004 de 26-Jun e 52/2006 de 15-Mar\0\0"
+  source: null
+  date: '2002-12-28'
 article_structure:
   article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:08Z'
   warnings: []
   errors: []
 ---
@@ -702,12 +727,12 @@ b) A sociedade gestora esclarecer os participantes e proceder à apreciação ge
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 26 de Outubro de 2007.**
+Promulgado em 26 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Outubro de 2007.**
+Referendado em 30 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/10700/0173701744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2016/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2016-74605300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ddb40c763abb632087d778234f4ec807de2ca0f089c8f1605338942442605ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783294b653fc84451b1727784fd98e6f53bd514a86bec36da18016d1d1e42e1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,22 +72,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
 - Código dos Valores Mobiliários
 - Difusão da Informação
 - Documentação Administrativa
 - Emissão de Títulos
+- Informação do Consumidor
 - Investimento
 - Mercado de Valores
 - Oferta Pública de Distribuição
-- Informação do Consumidor
 - Pequenas e Médias Empresas
 - PME
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:115740680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Alterado o art. 367.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-nov, na versão republicada
+    do Código pelo Dec Lei 357-A/2007 de 31-out e retificada pela Decl Ret 117-A/2007 de 28-dez, na redação do presente diploma,
+    pelo(a) Lei n.º 28/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30 nos termos dos seus arts. 8.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2017-107094723
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterado o art. 111.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente
+    diploma pelo(a) Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
 - type: cites
   target: celex:32003L0071
   label: null
@@ -128,6 +141,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/98/2015/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/98/2015/06/02/p/dre
+- type: cites
+  target: pt:dre:67356342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0109
   label: null
@@ -137,15 +158,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 23
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:47Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +227,9 @@ Os artigos 8.º, 16.º, 16.º-A, 20.º, 109.º, 111.º, 134.º, 145.º, 163.º-A
 
 4 - No caso de as informações trimestrais ou semestrais terem sido sujeitas a auditoria ou a revisão limitada, é incluído o relatório de auditoria ou de revisão ou, no caso de não terem sido, deve ser declarado tal facto.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Quem atinja ou ultrapasse participação de 10 %, 20 %, um terço, metade, dois terços e 90 % dos direitos de voto correspondentes ao capital social de uma sociedade aberta, sujeita a lei pessoal portuguesa, e quem reduza a sua participação para valor inferior a qualquer daqueles limites deve, o mais rapidamente possível e no prazo máximo de quatro dias de negociação após o dia da ocorrência do facto ou do seu conhecimento:
 
@@ -246,7 +269,9 @@ d) Discriminar o número e a percentagem de direitos de voto imputáveis por tip
 
 10 - Para efeitos da presente secção, no caso de certificados de depósito admitidos à negociação em mercado regulamentado, as referências a emitente correspondem ao emitente dos valores mobiliários representados, independentemente de os mesmos estarem admitidos à negociação em mercado regulamentado.
 
-###### Artigo 16.º-A — Isenção de dever de comunicação
+Artigo 16.º-A
+
+Isenção de dever de comunicação
 
 1 - Os deveres de comunicação previstos nos n.os 1, 2 e 5 do artigo anterior não se aplicam a:
 
@@ -284,7 +309,9 @@ c) Apresentar à CMVM, a pedido desta, o contrato de criação de mercado quando
 
 5 - As isenções previstas no n.º 1, com exceção da alínea f) do mesmo número, aplicam-se, com as necessárias adaptações, aos instrumentos financeiros referidos nas alíneas e) e i) do n.º 1 do artigo 20.º, bem como nos termos previstos no artigo 6.º do Regulamento Delegado (UE) n.º [2015/761](https://data.europa.eu/eli/reg/2015/761/oj?locale=pt), da Comissão, de 17 de dezembro de 2014.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -330,7 +357,9 @@ b) No caso de instrumentos com exclusiva liquidação financeira, numa base de c
 
 c) No caso de instrumentos financeiros indexados a um cabaz de ações ou a um índice, nos termos do artigo 4.º do Regulamento Delegado (UE) n.º [2015/761](https://data.europa.eu/eli/reg/2015/761/oj?locale=pt), da Comissão, de 17 de dezembro de 2014.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - [...].
 
@@ -344,7 +373,9 @@ b) [...]
 
 c) A oferta dirigida a, pelo menos, 150 pessoas que sejam investidores não qualificados, por Estado membro.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [...]:
 
@@ -380,7 +411,9 @@ n) [...].
 
 4 - [...].
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - [...].
 
@@ -410,7 +443,9 @@ g) [...].
 
 7 - [...].
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - A CMVM é competente para a aprovação de prospetos de ofertas públicas de distribuição, cujos emitentes tenham sede estatutária em Portugal, relativamente a emissões de ações, de valores mobiliários que deem direito à sua aquisição, desde que o emitente dos valores mobiliários seja o emitente dos valores mobiliários subjacentes ou uma entidade pertencente ao grupo deste último emitente, e de outros valores mobiliários com valor nominal inferior a (euro) 1 000 ou, quando denominados noutra moeda, com valor equivalente na data de emissão.
 
@@ -430,7 +465,9 @@ b) Nos casos previstos no n.º 2 do artigo 244.º-A.
 
 5 - [...].
 
-###### Artigo 163.º-A — Regime linguístico
+Artigo 163.º-A
+
+Regime linguístico
 
 1 - O prospeto relativo a oferta pública de distribuição efetuada exclusivamente em Portugal, sendo a CMVM a autoridade competente nos termos do artigo 145.º, deve ser redigido em idioma aceite pela CMVM.
 
@@ -446,13 +483,17 @@ b) Não sendo a CMVM a autoridade competente, deve ser disponibilizado, à escol
 
 5 - No caso previsto na alínea b) do número anterior, a CMVM pode exigir que o sumário seja divulgado também em português.
 
-###### Artigo 237.º-A — Regime linguístico
+Artigo 237.º-A
+
+Regime linguístico
 
 1 - Sem prejuízo do disposto no número seguinte, é aplicável ao prospeto de admissão, com as devidas adaptações, o disposto no artigo 163.º-A.
 
 2 - O prospeto de admissão relativo a valores mobiliários não representativos de capital com valor nominal unitário igual ou superior a (euro) 100 000 ou, quando denominados noutra moeda, de valor equivalente na data de emissão, pode ser redigido em idioma aceite pela CMVM ou num idioma de uso corrente nos mercados financeiros internacionais, à escolha do emitente, do oferente ou da pessoa que solicita a admissão.
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - [...]:
 
@@ -484,7 +525,9 @@ b) [...].
 
 9 - No caso de certificados de depósito admitidos à negociação em mercado regulamentado, as referências a emitente para efeitos dos artigos seguintes correspondem ao emitente dos valores mobiliários representados, independentemente de os mesmos estarem admitidos à negociação em mercado regulamentado.
 
-###### Artigo 244.º-A — Escolha do Estado membro competente
+Artigo 244.º-A
+
+Escolha do Estado membro competente
 
 1 - Para os efeitos referidos nas alíneas c) e d) do n.º 1 do artigo anterior, a competência da CMVM resulta, respetivamente:
 
@@ -512,7 +555,9 @@ a) Os valores mobiliários em causa estarem exclusivamente admitidos à negocia�
 
 b) Os valores mobiliários em causa estarem admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, sendo nesse caso igualmente competentes as autoridades dos Estados membros em cujo território se situe ou funcione mercado regulamentado em que estejam admitidos à negociação os valores mobiliários, até que o emitente proceda à escolha e divulgação do Estado membro competente.
 
-###### Artigo 245.º — [...]
+Artigo 245.º
+
+[...]
 
 1 - As entidades referidas no n.º 1 do artigo 244.º divulgam, no prazo de quatro meses a contar da data de encerramento do exercício, e mantêm à disposição do público durante, pelo menos, 10 anos:
 
@@ -532,7 +577,9 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - Os emitentes de ações e de valores mobiliários representativos de dívida referidos no n.º 1 do artigo 244.º divulgam, tão cedo quanto possível e decorridos, no máximo, três meses após o termo do primeiro semestre do exercício, relativamente à atividade desse período, e mantêm à disposição do público durante, pelo menos, 10 anos:
 
@@ -552,7 +599,9 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 246.º-A — Informação trimestral
+Artigo 246.º-A
+
+Informação trimestral
 
 1 - Os emitentes de ações admitidas à negociação em mercado regulamentado referidos no n.º 1 do artigo 244.º que sejam instituições de crédito ou sociedades financeiras, nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, estão obrigados a divulgar informação financeira trimestral nos termos previstos em regulamento da CMVM.
 
@@ -560,7 +609,9 @@ c) [...].
 
 3 - A decisão de divulgação de informação financeira trimestral deve ser divulgada nos termos do n.º 4 do artigo 244.º e comunicada à CMVM.
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - [...].
 
@@ -584,7 +635,9 @@ g) [...].
 
 4 - [...].
 
-###### Artigo 250.º-A — [...]
+Artigo 250.º-A
+
+[...]
 
 1 - [...]:
 
@@ -598,7 +651,9 @@ c) Emitentes que emitam apenas valores mobiliários representativos de dívida c
 
 3 - [...].
 
-###### Artigo 367.º — [...]
+Artigo 367.º
+
+[...]
 
 1 - [...].
 
@@ -638,7 +693,9 @@ b) À escolha do emitente, num idioma aceite pela CMVM ou num idioma de uso corr
 
 8 - O disposto no número anterior aplica-se igualmente aos valores mobiliários representativos de dívida cujo valor nominal unitário seja de, pelo menos, (euro) 50 000 ou, se emitidos em moeda diferente do euro cujo valor nominal unitário seja, na data de emissão, equivalente àquele, que tenham já sido admitidos à negociação num mercado regulamentado num ou mais Estados membros antes de 31 de dezembro de 2010, pelo período correspondente ao prazo restante dos instrumentos.
 
-###### Artigo 245.º-B — Relatório sobre os pagamentos efetuados a Administrações Públicas
+Artigo 245.º-B
+
+Relatório sobre os pagamentos efetuados a Administrações Públicas
 
 1 - Os emitentes que sejam empresas ativas na indústria extrativa ou na exploração de floresta primária, tal como definidas nas alíneas a) e b) do artigo 6.º do [Decreto-Lei n.º 98/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), de 2 de junho, divulgam anualmente, decorridos seis meses a contar do termo de cada exercício, e mantêm à disposição do público durante, pelo menos, 10 anos, o relatório sobre os pagamentos efetuados a Administrações Públicas elaborado nos termos previstos no capítulo III do referido decreto-lei.
 
@@ -658,12 +715,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de maio de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 31 de maio de 2016.**
+Promulgado em 31 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de junho de 2016.**
+Referendado em 2 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

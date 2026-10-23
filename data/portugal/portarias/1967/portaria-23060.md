@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23060-1967-400643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7839eca8801bc178cedcdfe29c589110f633c0aca57b4fe0e62ae4ccf0fa28be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03000c3384f1a8ab8416f4e93d18671dda39f1f0d66042a6167f6375365119d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:54Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +105,11 @@ REGULAMENTO SOBRE A ORGANIZAÇÃO E FUNCIONAMENTO DO CENTRO DE DOCUMENTAÇÃO T�
 
 ### CAPÍTULO I — Natureza, fins e atribuições
 
-###### Artigo 1.º O Centro de Documentação Técnico-Económica do Ministério do Ultramar - designado abreviadamente por Centro - é um organismo com atribuições de promover e de coordenar as actividades da documentação e da informação nos domínios da economia e da engenharia, que funciona junto da Direcção-Geral de Economia e da Direcção-Geral de Obras Públicas e Comunicações.
+Artigo 1.º O Centro de Documentação Técnico-Económica do Ministério do Ultramar - designado abreviadamente por Centro - é um organismo com atribuições de promover e de coordenar as actividades da documentação e da informação nos domínios da economia e da engenharia, que funciona junto da Direcção-Geral de Economia e da Direcção-Geral de Obras Públicas e Comunicações.
 
-###### Art. 2.º Incumbe ao Centro fornecer a informação e documentação referidas no artigo anterior aos serviços do Ministério e das províncias ultramarinas, incluindo brigadas e missões que deles dependam, e a quaisquer outros serviços ou entidades que sejam designadas por despacho do Ministro.
+Art. 2.º Incumbe ao Centro fornecer a informação e documentação referidas no artigo anterior aos serviços do Ministério e das províncias ultramarinas, incluindo brigadas e missões que deles dependam, e a quaisquer outros serviços ou entidades que sejam designadas por despacho do Ministro.
 
-###### Art. 3.º Compete em especial ao Centro o seguinte:
+Art. 3.º Compete em especial ao Centro o seguinte:
 
 a) A organização de uma documentação de apoio com base nas obras fundamentais de engenharia e economia, nos relatórios, estudos e pareceres elaborados pelos organismos da especialidade, nas publicações editadas pelas organizações nacionais e internacionais similares, nas revistas da especialidade, particularmente nas que tratam temas dos países africanos ou que se dedicam a problemas de regiões tropicais, na legislação, estatísticas, cartas geográficas, jornais, mapas e outros documentos eventualmente julgados de interesse;
 
@@ -107,7 +119,7 @@ c) O aperfeiçoamento do seu pessoal e de pessoal de organismos similares ultram
 
 d) A organização de simpósios na metrópole e no ultramar sobre temas de acentuado interesse ultramarino.
 
-###### Art. 4.º O Centro poderá utilizar, de preferência, os seguintes meios de divulgação:
+Art. 4.º O Centro poderá utilizar, de preferência, os seguintes meios de divulgação:
 
 a) Uma revista, na qual se dêem a conhecer estudos, projectos e obras de acentuado interesse técnico-económico respeitantes às províncias ultramarinas e os pareceres do Conselho Superior de Fomento Ultramarino cuja divulgação se justifique, compreendendo ainda um sector contendo listas bibliográficas sinaléticas ou analíticas relativas a compilações bibliográficas sobre temas específicos da documentação de interesse ultramarino publicada nos últimos anos, outro contendo a bibliografia analítica internacional das publicações e artigos de revistas de maior interesse e outro traduções de algumas das referidas publicações e artigos com o fim de os tornar mais acessíveis;
 
@@ -121,19 +133,19 @@ c) Outras publicações que venham a revelar-se de reconhecido interesse.
 
 #### SECÇÃO I — Dos órgãos directivos
 
-###### Art. 5.º O Centro compõe-se da direcção, conselho orientador e conselho administrativo.
+Art. 5.º O Centro compõe-se da direcção, conselho orientador e conselho administrativo.
 
-###### Art. 6.º A direcção será constituída por um presidente e dois vogais designados pelo Ministro por períodos de dois anos renováveis.
+Art. 6.º A direcção será constituída por um presidente e dois vogais designados pelo Ministro por períodos de dois anos renováveis.
 
 § 1.º O presidente será o director-geral de Economia ou o director-geral de Obras Públicas e Comunicações e nas suas faltas ou impedimentos é substituído pelo vogal mais categorizado ou mais antigo.
 
 § 2.º Os vogais serão designados, respectivamente, entre funcionários da Direcção-Geral de Economia e da Direcção-Geral de Obras Públicas e Comunicações, não devendo, em regra, ter categoria inferior à de chefe de repartição.
 
-###### Art. 7.º O Centro disporá de um director, a quem compete executar o expediente normal e em quem o presidente da direcção poderá delegar parte das suas atribuições. Assistirá, sem direito a voto, às reuniões da direcção.
+Art. 7.º O Centro disporá de um director, a quem compete executar o expediente normal e em quem o presidente da direcção poderá delegar parte das suas atribuições. Assistirá, sem direito a voto, às reuniões da direcção.
 
 § único. O director do Centro será designado pelo Ministro, sob proposta da direcção, de entre funcionários da Direcção-Geral de Economia ou da Direcção-Geral de Obras Públicas e Comunicações, não devendo, em regra, ter categoria inferior a chefe de repartição.
 
-###### Art. 8.º O conselho orientador será presidido pelo presidente da direcção e constituído pelos seguintes vogais designados pelo Ministro:
+Art. 8.º O conselho orientador será presidido pelo presidente da direcção e constituído pelos seguintes vogais designados pelo Ministro:
 
 a) Um representante do Conselho Superior de Fomento Ultramarino;
 
@@ -153,17 +165,17 @@ e) Um representante do Gabinete de Planeamento e Integração Económica.
 
 § 4.º Das reuniões se lavrará a respectiva acta, que deverá ser por todos assinada.
 
-###### Art. 9.º O conselho administrativo será constituído pelos dois vogais da direcção, pelo director do Centro e pelo tesoureiro. Presidirá o mais categorizado dos vogais e servirá de secretário o encarregado da secção de expediente do Centro.
+Art. 9.º O conselho administrativo será constituído pelos dois vogais da direcção, pelo director do Centro e pelo tesoureiro. Presidirá o mais categorizado dos vogais e servirá de secretário o encarregado da secção de expediente do Centro.
 
 § 1.º O tesoureiro será, em regra, designado pelo Ministro de entre funcionários da Direcção-Geral de Fazenda que tenham, pelo menos, a categoria de primeiro-oficial.
 
 § 2.º Ao conselho aplica-se o disposto no § 3.º do artigo anterior.
 
-###### Art. 10.º Todas as deliberações do conselho administrativo serão tomadas em sessão, da qual se lavrará acta, assinada pelos membros presentes e pelo secretário. Tais deliberações só serão executadas quando tomadas por maioria; em caso de empate, o presidente tem voto de qualidade.
+Art. 10.º Todas as deliberações do conselho administrativo serão tomadas em sessão, da qual se lavrará acta, assinada pelos membros presentes e pelo secretário. Tais deliberações só serão executadas quando tomadas por maioria; em caso de empate, o presidente tem voto de qualidade.
 
 § único. Pelas deliberações tomadas são responsáveis solidàriamente todos os membros que assistiram à respectiva sessão, salvo se algum deles assinar vencido com justificação do respectivo voto.
 
-###### Art. 11.º Compete à direcção:
+Art. 11.º Compete à direcção:
 
 a) Dirigir e orientar todas as actividades e sectores do Centro;
 
@@ -179,7 +191,7 @@ f) Organizar e promover toda a actividade editorial do Centro;
 
 g) Superintender na distribuição gratuita da revista e do boletim pelos serviços e entidades referidos no artigo 2.º
 
-###### Art. 12.º Compete ao conselho orientador pronunciar-se acerca das questões relativas à orientação geral das actividades do Centro, especialmente:
+Art. 12.º Compete ao conselho orientador pronunciar-se acerca das questões relativas à orientação geral das actividades do Centro, especialmente:
 
 a) Sobre os planos anuais de actividade propostos pela direcção;
 
@@ -189,7 +201,7 @@ c) Sobre a actividade de produção do Centro;
 
 d) Sobre a aquisição de publicações.
 
-###### Art. 13.º Compete ao conselho administrativo:
+Art. 13.º Compete ao conselho administrativo:
 
 a) A organização dos projectos de orçamento anuais do Centro;
 
@@ -199,7 +211,7 @@ c) A autorização de despesas até aos limites e nos termos fixados no [Decreto
 
 d) A elaboração do processo de conta de gerência anual a submeter a julgamento do Tribunal de Contas.
 
-###### Art. 14.º Compete à secção de expediente:
+Art. 14.º Compete à secção de expediente:
 
 a) Registar a correspondência e executar todo o expediente;
 
@@ -209,7 +221,7 @@ c) Manter actualizado o inventário dos bens móveis;
 
 d) Catalogar, distribuir e arquivar a documentação recebida.
 
-###### Art. 15.º Compete à secção de contabilidade:
+Art. 15.º Compete à secção de contabilidade:
 
 a) Escriturar os livros de contabilidade, mantendo-os em dia;
 
@@ -217,7 +229,7 @@ b) Elaborar o processo da conta de gerência anual;
 
 c) Adquirir o que estiver autorizado.
 
-###### Art. 16.º Compete, em especial, ao director:
+Art. 16.º Compete, em especial, ao director:
 
 a) Dirigir a acção de todo o pessoal que trabalhe no Centro;
 
@@ -239,7 +251,7 @@ i) Chefiar a redacção da revista e orientar o respectivo sector de publicidade
 
 j) Corresponder-se com os autores dos artigos a publicar sobre assuntos que digam respeito à revista.
 
-###### Art. 17.º Compete especialmente ao tesoureiro:
+Art. 17.º Compete especialmente ao tesoureiro:
 
 a) Organizar os serviços de contabilidade e superintender na escrituração dos respectivos livros de modo que se mantenham em dia;
 
@@ -249,25 +261,25 @@ c) Proceder ao pagamento das facturas depois de visadas pelo presidente;
 
 d) Servir de oficial público nos contratos que devam ser reduzidos a escrito.
 
-###### Art. 18.º Aos membros da direcção e ao director podem ser atribuídas gratificações mensais de 1500$00. Ao tesoureiro cabe a gratificação mensal de 1000$00.
+Art. 18.º Aos membros da direcção e ao director podem ser atribuídas gratificações mensais de 1500$00. Ao tesoureiro cabe a gratificação mensal de 1000$00.
 
 #### SECÇÃO II — Do pessoal
 
-###### Art. 19.º O pessoal técnico, administrativo e menor necessário para os trabalhos a cargo do Centro poderá ser contratado, assalariado ou subsidiado dentro das cotações inscritas para o efeito no seu orçamento.
+Art. 19.º O pessoal técnico, administrativo e menor necessário para os trabalhos a cargo do Centro poderá ser contratado, assalariado ou subsidiado dentro das cotações inscritas para o efeito no seu orçamento.
 
-###### Art. 20.º O pessoal administrativo será agrupado em dois sectores: um de expediente e outro de contabilidade, cada um deles chefiado por um encarregado.
+Art. 20.º O pessoal administrativo será agrupado em dois sectores: um de expediente e outro de contabilidade, cada um deles chefiado por um encarregado.
 
-###### Art. 21.º O pessoal menor necessário às actividades do Centro deverá apresentar-se fardado.
+Art. 21.º O pessoal menor necessário às actividades do Centro deverá apresentar-se fardado.
 
 ### CAPÍTULO III — Do regime financeiro
 
-###### Art. 22.º O Centro goza de autonomia financeira, sendo-lhe aplicável o disposto no [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, relativamente às normas a que devem obedecer a elaboração e execução do orçamento e o encerramento e prestação de contas.
+Art. 22.º O Centro goza de autonomia financeira, sendo-lhe aplicável o disposto no [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, relativamente às normas a que devem obedecer a elaboração e execução do orçamento e o encerramento e prestação de contas.
 
-###### Art. 23.º As despesas com o funcionamento do Centro constituem encargo das províncias ultramarinas, nos termos da alínea f) do n.º II da base LXI da Lei Orgânica do Ultramar Português.
+Art. 23.º As despesas com o funcionamento do Centro constituem encargo das províncias ultramarinas, nos termos da alínea f) do n.º II da base LXI da Lei Orgânica do Ultramar Português.
 
 § único. O Ministro do Ultramar fixará anualmente a necessária dotação com a contrapartida nas verbas inscritas para esse efeito nos orçamentos gerais das províncias ultramarinas.
 
-###### Art. 24.º São receitas do Centro:
+Art. 24.º São receitas do Centro:
 
 a) A quotização das províncias ultramarinas;
 
@@ -283,16 +295,16 @@ f) Os saldos apurados na conta de gerência;
 
 g) Outras importâncias que por lei lhe venham a ser atribuídas.
 
-###### Art. 25.º O saldo das receitas cobradas pelo extinto Núcleo de Documentação Técnica constitui receita do Centro.
+Art. 25.º O saldo das receitas cobradas pelo extinto Núcleo de Documentação Técnica constitui receita do Centro.
 
-###### Art. 26.º Os saldos das dotações do orçamento do extinto Núcleo de Documentação Técnica para o corrente ano serão incluídos nas dotações a inscrever no orçamento privativo do Centro.
+Art. 26.º Os saldos das dotações do orçamento do extinto Núcleo de Documentação Técnica para o corrente ano serão incluídos nas dotações a inscrever no orçamento privativo do Centro.
 
-###### Art. 27.º Os bens imóveis a cargo do extinto Núcleo de Documentação Técnica e do Núcleo de Documentação Económica da Direcção-Geral de Economia transitam para o Centro.
+Art. 27.º Os bens imóveis a cargo do extinto Núcleo de Documentação Técnica e do Núcleo de Documentação Económica da Direcção-Geral de Economia transitam para o Centro.
 
-###### Art. 28.º Os artigos que forem publicados na revista serão pagos aos autores segundo uma tabela, que será aprovada pelo Ministro.
+Art. 28.º Os artigos que forem publicados na revista serão pagos aos autores segundo uma tabela, que será aprovada pelo Ministro.
 
-###### Art. 29.º O Centro poderá promover a publicidade e propaganda da revista e a obtenção de anúncios por meio de angariadores.
+Art. 29.º O Centro poderá promover a publicidade e propaganda da revista e a obtenção de anúncios por meio de angariadores.
 
-###### Art. 30.º As dúvidas suscitadas na execução deste Regulamento serão resolvidas por despacho do Ministro.
+Art. 30.º As dúvidas suscitadas na execução deste Regulamento serão resolvidas por despacho do Ministro.
 
 Ministério do Ultramar, 14 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

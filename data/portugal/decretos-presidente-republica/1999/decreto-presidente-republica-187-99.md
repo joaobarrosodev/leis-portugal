@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/187/1999/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/187-1999-557178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e16bc515444568df781f9371ec1fd5ae0bd9f0b0a03e3c165bc670b5ba834af0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f0ca4e57a05cf97603b1bb9fa4c884c675debddb57f8c01c82e0c2e363de485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Crime de Guerra
-- ONU
 - Macau
+- ONU
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/33/1998/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/33/1998/09/07/p/dre
+- type: cites
+  target: pt:dre:568544:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:03Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +98,14 @@ validation:
 
 de 24 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau a Convenção para a Prevenção e Repressão do Crime de Genocídio, ratificada pelo [Decreto n.º 33/98](https://diariodarepublica.pt/dr/detalhe/decreto/33-1998-568544), de 14 de Julho, cujo texto foi publicado no Diário da República, 1.ª série, de 14 de Julho de 1998.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 17 de Setembro de 1999.**
+Assinado em 17 de Setembro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de ratificação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/015a00/02460249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/1995/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1995-145004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d39fc515fcadc3704ba63767cc5fe6816fed88a3ef5fae17733024e850e608bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7498d4203dd9ae12f072dccc7d87f8cde964b236c3bbb8571f4899e9a811465
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Investigação Científica e Tecnológica
 - Comissão Permanente
 - Conselho Superior de Ciência e Tecnologia
 - Definição de Competências
+- Investigação Científica e Tecnológica
 - Ministro do Planeamento e da Administração do Território
 - Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:401912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CIENCIA E TECNOLOGIA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0\
+    66]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:194242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575124:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401912:por
+  label: "Revogado pelo DEC LEI.145/96.1996.08.26.MCTE, DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1996-401912
+  date: '1996-08-26'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:37Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +246,7 @@ t) Até seis personalidades de reconhecido mérito em matéria de política cien
 
 ###### Artigo 4.º — Designação do presidente
 
-**O presidente é nomeado por despacho do Ministro do Planeamento e da Administração do Território de entre personalidades de elevado prestígio na área da ciência e tecnologia.**
+O presidente é nomeado por despacho do Ministro do Planeamento e da Administração do Território de entre personalidades de elevado prestígio na área da ciência e tecnologia.
 
 ###### Artigo 5.º — Duração do mandato
 
@@ -343,12 +362,12 @@ b) O [Decreto-Lei n.º 188/90](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - António Duarte Silva - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Joaquim Martins Ferreira do Amaral - José Bernardo Veloso Falcão e Cunha - Eduardo Eugénio Castro de Azevedo Soares - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

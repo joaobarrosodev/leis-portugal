@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1981-580147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35ba76f8c2b1c617bd753d46d754054975da6924afd712d20282b8a3712ad0d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e454088670a25962af4c31b339de90952262d21700d4d9191fdf86cd885940c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:514034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378677:por
+  label: "Alterados os arts. 26º, 27º, 28º, 30º, 35º, 48º e 55º do Regulamento de Tarifas da Administração-Geral do Porto\
+    \ de Lisboa, aprovado pelo Dec 24831 de 31-Dez 1934, alterado pelo presente diploma, peloDR.48/79.25.08.1979.MTC, DR.IS\
+    \ [196] de 25.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/48-1979-378677
+  date: '1979-08-25'
+- type: amended_by
+  target: pt:dre:514034:por
+  label: "Alterados os arts. 26º, 30º, 32º, 34º e 35º do Regulamento de Tarifas da Administação do Porto de Lisboa, aprovado\
+    \ pelo Dec 24831 de 31-Dez 1934, com as alterações introduzidas pelo presente diploma, pela PORT.925-G/87.04.12.1987.MOPTC,\
+    \ DR.IS [279-2º Supl] de 04.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/925-g-1987-514034
+  date: '1987-12-04'
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:576356:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 184/1981, Série I de 1981-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-576356
+  date: '1981-08-12'
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:59Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +125,11 @@ O Governo, nos termos da alínea c) do artigo 202.º da Constituição, decreta 
 
 As disposições a seguir indicadas no Regulamento de Tarifas da Administração-Geral do Porto de Lisboa, aprovado pelo [Decreto n.º 24831](https://diariodarepublica.pt/dr/detalhe/decreto/24831-1934-435978), de 31 de Dezembro de 1934, e subsequentes alterações, passam a ter a redacção seguinte:
 
-###### Art. 20.º Considera-se linha regular de navegação para efeito do presente Regulamento aquela que está sujeita a um itinerário e calendário estabelecidos com antecedência.
+Art. 20.º Considera-se linha regular de navegação para efeito do presente Regulamento aquela que está sujeita a um itinerário e calendário estabelecidos com antecedência.
 
 § único. Pelos armadores, afretadores ou seus agentes será apresentada à AGPL documentação comprovativa do estabelecimento da linha regular de navegação.
 
-###### Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, constante do certificado do registo do navio é a seguinte:
+Art. 26.º A taxa de estacionamento, por tonelada de arqueação bruta, constante do certificado do registo do navio é a seguinte:
 
 a) Navios de carga:
 
@@ -120,7 +145,7 @@ Por iguais períodos sucessivos ... 1$60
 
 § único. Os navios que estacionem para aguardar ordens com tripulação reduzida, amarrados em local destinado para esse fim (lay up), pagam uma taxa de $50 por tonelada de porte e por mês.
 
-###### Art. 27.º Nas taxas do artigo anterior beneficiam das reduções seguintes:
+Art. 27.º Nas taxas do artigo anterior beneficiam das reduções seguintes:
 
 a) De 30%, os navios das linhas regulares que tenham enviado ao porto o mínimo de seis navios, após esse mínimo e no mesmo ano civil;
 
@@ -130,7 +155,7 @@ c) De 70%, os navios que entrem no porto exclusivamente para receber ordens, sof
 
 d) De 80%, os navios de armadores nacionais ou por eles afretados em casco nu, que tenham nos cais lugares fixos para acostagem nos termos do artigo 32.º
 
-###### Art. 28.º São isentos da taxa de estacionamento no porto:
+Art. 28.º São isentos da taxa de estacionamento no porto:
 
 a) ...
 
@@ -158,11 +183,11 @@ l) Os navios que entrem no porto exclusivamente para meter mantimentos, combust�
 
 ### CAPÍTULO III — Acostagem e utilização de docas de abrigo
 
-###### Art. 29.º ...
+Art. 29.º ...
 
-###### Art. 30.º A taxa de acostagem de navios, por período de vinte e quatro horas indivisível, é a que resulta da aplicação das expressões constantes do quadro seguinte:
+Art. 30.º A taxa de acostagem de navios, por período de vinte e quatro horas indivisível, é a que resulta da aplicação das expressões constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf))](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf)
 
 § 1.º Nas taxas de acostagem beneficiam das reduções seguintes:
 
@@ -180,25 +205,25 @@ b) Os navios nacionais registados para navegação costeira internacional.
 
 § 2.º As taxas que resultem de aplicação dos n.os 1 e 4 do parágrafo anterior são acrescidas de 50% a partir do 31.º dia.
 
-###### Art. 31.º Os navios prolongados com outros amarrados aos cais pagam metade das taxas do artigo anterior.
+Art. 31.º Os navios prolongados com outros amarrados aos cais pagam metade das taxas do artigo anterior.
 
-###### Art. 32.º Pode ser concedido por avença nos cais um lugar fixo para acostagem mediante a taxa de 4500$00 por metro e por ano civil.
+Art. 32.º Pode ser concedido por avença nos cais um lugar fixo para acostagem mediante a taxa de 4500$00 por metro e por ano civil.
 
 § único. Por metro de cais ocupado a mais é devida a taxa de 30$00 por período de vinte e quatro horas.
 
-###### Art. 33.º Pela acostagem aos cais, pontes-cais e outras instalações construídas por quaisquer entidades para seu uso na área de jurisdição da AGPL é devida a taxa estabelecida neste Regulamento quando a acostagem do navio for feita para serviço de entidade diversa daquelas.
+Art. 33.º Pela acostagem aos cais, pontes-cais e outras instalações construídas por quaisquer entidades para seu uso na área de jurisdição da AGPL é devida a taxa estabelecida neste Regulamento quando a acostagem do navio for feita para serviço de entidade diversa daquelas.
 
-###### Art. 34.º Toda a embarcação que entre nas docas de abrigo está sujeita ao pagamento da taxa de utilização das docas, por período de vinte e quatro horas e por tonelada de arqueação bruta, de $50.
+Art. 34.º Toda a embarcação que entre nas docas de abrigo está sujeita ao pagamento da taxa de utilização das docas, por período de vinte e quatro horas e por tonelada de arqueação bruta, de $50.
 
-###### Art. 35.º Às embarcações de navegação costeira, tráfego local e de pesca, quando não excedam 1000 tAB, podem ser concedidas para acostagem e utilização das docas avenças anuais nas seguintes condições:
+Art. 35.º Às embarcações de navegação costeira, tráfego local e de pesca, quando não excedam 1000 tAB, podem ser concedidas para acostagem e utilização das docas avenças anuais nas seguintes condições:
 
 a) Até 100 tAB e por cada tonelada de arqueação bruta ... 20$00
 
 b) Por cada tonelada de arqueação bruta acima de 100 tAB ... 10$00
 
-###### Art. 36.º O período de acostagem ou de utilização das docas de abrigo começa a contar-se a partir do momento em que terminam as operações de amarração ou a entrada nas docas.
+Art. 36.º O período de acostagem ou de utilização das docas de abrigo começa a contar-se a partir do momento em que terminam as operações de amarração ou a entrada nas docas.
 
-###### Art. 37.º São isentos de taxa de acostagem e de taxa de utilização nas docas:
+Art. 37.º São isentos de taxa de acostagem e de taxa de utilização nas docas:
 
 a) Os navios do Estado;
 
@@ -212,9 +237,9 @@ e) As embarcações à vela e a remos até 2 tAB, inclusive.
 
 ...
 
-###### Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
+Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf))](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/15700/16751678.pdf)
 
 § 1.º ...
 
@@ -224,7 +249,7 @@ e) As embarcações à vela e a remos até 2 tAB, inclusive.
 
 § 4.º A taxa de porto a incidir sobre a areia para construção e escórias movimentadas em regime de tráfego fluvial é de 5$00 por tonelada, qualquer que seja o local onde se realize a carga ou descarga.
 
-###### Art. 49.º São isentos de taxa de porto:
+Art. 49.º São isentos de taxa de porto:
 
 a) ...
 
@@ -250,7 +275,7 @@ l) ...
 
 m) ...
 
-###### Art. 50.º ...
+Art. 50.º ...
 
 a) Grupo I:
 
@@ -270,7 +295,7 @@ b) Grupo II:
 
 § único. ...
 
-###### Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos paga as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
+Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos paga as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
 
 Até oito dias ... 1$00
 
@@ -290,7 +315,7 @@ Por cada mês, completo ou incompleto, para além de doze meses, a taxa aplicáv
 
 § 3.º ...
 
-###### Art. 156.º ...
+Art. 156.º ...
 
 a) Certidões:
 
@@ -344,7 +369,7 @@ j) Revogada.
 
 ## TÍTULO X — Pontes, estacadas e outras instalações ocupando o leito do rio
 
-###### Art. 164.º Pelas pontes, estacadas e outras instalações, ocupando o leito do rio, dentro da área de jurisdição da AGPL, é cobrada pela superfície ocupada, por metro quadrado e por mês, a taxa de 1$20.
+Art. 164.º Pelas pontes, estacadas e outras instalações, ocupando o leito do rio, dentro da área de jurisdição da AGPL, é cobrada pela superfície ocupada, por metro quadrado e por mês, a taxa de 1$20.
 
 § único. Quando a ocupação do leito do rio resulte da execução de aterros feitos pelo utente e exceda 1 ha cobrar-se-á:
 
@@ -352,7 +377,7 @@ a) Pelo primeiro hectare a taxa constante do corpo do artigo;
 
 b) Pela área excedente a taxa de $50 por metro quadrado e por mês.
 
-###### Art. 167.º ...
+Art. 167.º ...
 
 a) ... 100$00
 
@@ -388,7 +413,7 @@ e) ...
 
 § 6.º ...
 
-###### Art. 168.º Pela utilização do terminal car ferry para embarque ou desembarque de veículos não transportados como bagagem são devidas, pelo navio, as seguintes taxas:
+Art. 168.º Pela utilização do terminal car ferry para embarque ou desembarque de veículos não transportados como bagagem são devidas, pelo navio, as seguintes taxas:
 
 a) Por veículo ligeiro ... 100$00
 
@@ -400,8 +425,8 @@ São revogadas as seguintes disposições do Regulamento de Tarifas da Administr
 
 Francisco José Pereira Pinto Balsemão - João António de Morais Leitão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 1 de Julho de 1981.**
+Promulgado em 1 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

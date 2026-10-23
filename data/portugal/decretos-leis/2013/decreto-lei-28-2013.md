@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2013/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2013-258535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea269c135eb902a2cd27dc129ea7c1088b1f8e65572f032b84b698a10a31df6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fa8dd8245ae977f9212d05f40a45cb1e690305379c5437fc07c913837088557
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Financiamento
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Sistema Científico e Tecnológico Nacional
+- Avaliação do Pessoal
 - Comissão de Análise
-- Fundação para a Ciência e a Tecnologia
 - Concurso
 - Congresso
 - Contrato
-- Regime Laboral
 - Direito de Autor
-- Recrutamento de Pessoal
+- Financiamento
+- Formação Profissional
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
+- Investigador
 - JURI
-- Propriedade Industrial
 - Parecer
 - Pessoal Docente
 - Programa
+- Propriedade Industrial
+- Recrutamento de Pessoal
 - Regime Jurídico
+- Regime Laboral
 - Remuneração
-- Avaliação do Pessoal
+- Sistema Científico e Tecnológico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:1084805769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140210519:por
+  label: Suspendem-se, nos termos do art.1º, os prazos de caducidade dos contratos de trabalho dos trabalhadores de instituições
+    de ciência, tecnologia e ensino superior, abrangidos por contratos estabelecidos ao abrigo da Lei Geral de Trabalho em
+    Funções Públicas, bem como por contratos abrangidos pelo presente diploma, pelo(a) Lei n.º 36/2020 - Diário da República
+    n.º 157/2020, Série I de 2020-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2020-140210519
+  date: '2020-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2010/11/17/p/dre
   label: null
@@ -124,16 +132,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:220171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75216371:por
+  label: Revogado, a partir de de 01.09.2016, pelo(a) Decreto-Lei n.º 57/2016 - Diário da República n.º 165/2016, Série I
+    de 2016-08-29 nos termos do disposto no seu art. 25.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2016-75216371
+  date: '2016-08-29'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:53Z'
   warnings: []
   errors: []
 ---
@@ -352,12 +398,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 12 de fevereiro de 2013.**
+Promulgado em 12 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de fevereiro de 2013.**
+Referendado em 14 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

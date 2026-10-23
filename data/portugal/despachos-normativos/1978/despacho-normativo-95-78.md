@@ -48,40 +48,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1978-425310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38e8fe29e9bc553277f84d29595ce040984c7b7be224731c103f3c4e2aa6ab42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd2e840fe657150cff106b4de0adb7bdcb63e483c6dd068296a084c84f6abffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Fabrico Industrial
+- Fixação de Preços
+- Importação
+- Madeira.região Autónoma
+- Margens de Comercialização
+- Pesticida
+- Preço
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:383672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383672:por
+  label: Atualizados os preços estabelecidos no presente diploma pelo(a) Despacho Normativo n.º 50/79 - Diário da República
+    n.º 56/1979, Série I de 1979-03-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-1979-383672
+  date: '1979-03-08'
+- type: cites
+  target: pt:dre:141035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:49:42Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +128,7 @@ Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](htt
 
 1 - São fixados os preços máximos de venda pelo fabricante ou importador, bem como os preços máximos de venda ao consumidor, no continente e Regiões Autónomas da Madeira e dos Açores, do sulfato de cobre de uso agrícola, como se indica no quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08700/07270728.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08700/07270728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08700/07270728.pdf)
 
 2 - Os preços mencionados no n.º 1 referem-se a produto embalado em sacos de ráfia de 50 kg.
 

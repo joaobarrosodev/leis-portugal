@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2000/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2000-494837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea6652b9c45bf9fd3fa82fa4141cec2b70678c22b815207d397bc8ae2cb0fecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6023e57ab34a0fb834f36657d7681ed60323fef0e8de858c43ba74d9d9e689ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Financiamento
-- Cartão de Identificação
 - Apoio Psicológico
-- Ultramar
-- Deficiente das Forças Armadas
-- Política de Saúde
-- Serviço Nacional de Saúde
+- Assistência Médica
 - Assistência Social
+- Cartão de Identificação
+- Deficiente das Forças Armadas
+- Financiamento
+- Forças Armadas
 - Guerra
 - Junta Médico-Militar
-- Forças Armadas
-- Saúde Mental
 - Militar
+- Política de Saúde
+- Saúde Mental
+- Serviço Nacional de Saúde
+- Ultramar
 - Vítima de Guerra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/46/1999/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/46/1999/06/16/p/dre
+- type: cites
+  target: pt:dre:306922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:27Z'
   warnings: []
   errors: []
 ---
@@ -171,12 +183,12 @@ O financiamento da rede nacional de apoio é da responsabilidade do Estado, atra
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 16 de Março de 2000.**
+Promulgado em 16 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Março de 2000.**
+Referendado em 30 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

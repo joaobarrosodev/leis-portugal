@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/1992/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1992-523841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc1476f1c75148aba0a68c8a4ab394e630be2138be48c89926ec70b4a1326d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a61dac612b7c433781457389db91d76fee7a9ad077739f62da3142d8561aeee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
 - Construção Civil
-- Licenciamento de Obras
+- Contrato de Seguro
 - Licença Municipal
+- Licenciamento de Obras
 - Propriedade Privada
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
@@ -77,20 +77,52 @@ relationships:
   target: pt:dre:618126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599712:por
+  label: "Alterados os arts. 4º, 5º, 8º, 10º e 12º pelo DR.32/92.1992.11.28.MPLAT, DR.IS-B [276]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/32-1992-599712
+  date: '1992-11-28'
+- type: amended_by
+  target: pt:dre:618126:por
+  label: "Mantido em vigor o art. 15º, pelo DEC LEI.250/94.15.10.1994.MPLAT, DR.IS-A [239] de 15.10.1994, nos termos do seu\
+    \ art. 8º.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1994-618126
+  date: '1994-10-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684616:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:352878:por
+  label: "Rectificado o n.º 2 do artigo 1.º pela DECL-RECT.99/92.30.06.1992.PCM, DR.IS-B [148]2ºSupl de 30.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/99-1992-352878
+  date: '1992-06-30'
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:44Z'
   warnings: []
   errors: []
 ---
@@ -207,12 +239,12 @@ Presidência do Conselho de Ministros, 24 de Fevereiro de 1992.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 22 de Abril de 1992.**
+Promulgado em 22 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Abril de 1992.**
+Referendado em 24 de Abril de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 226/2007, 2º Suplemento, Série I de 2007-11-23
   number: '226'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8646-(40) a 8646-(41)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22602/0004000041.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/385-a/2007/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-a-2007-647548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4bfad2d1fd399ca0a43a9bedb2553622d47727012e675729ca5ad9ff7a04b36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ca6e39580531efcd6aeeae529318c085a999c1d186a6ca5af4ea3f5d7bda65e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Inspecção Geral das Actividades Culturais
 - Contra-ordenação
-- Futsal
-- Direito à Justiça
-- Instituto Nacional da Propriedade Industrial
-- Simbolo de Identificação
-- Providencia Cautelar
 - Desporto
-relationships: []
+- Direito à Justiça
+- Futsal
+- Inspecção Geral das Actividades Culturais
+- Instituto Nacional da Propriedade Industrial
+- Multa
+- Providencia Cautelar
+- Simbolo de Identificação
+relationships:
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:16Z'
   warnings: []
   errors: []
 ---
@@ -188,12 +192,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues -Bernardo Luís Amador Trindade - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 20 de Novembro de 2007.**
+Promulgado em 20 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Novembro de 2007.**
+Referendado em 23 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

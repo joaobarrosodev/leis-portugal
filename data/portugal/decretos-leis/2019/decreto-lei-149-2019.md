@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19400/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2019/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2019-125085454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0538e6baf9641477d6f641d4adaa1fd4c4b26f47cb61fa452052abfb4661425a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14865d5b08c769e3cd2cbd640eaa0062bea611ebb661f07fbcd08f80a05294e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
-- Interconexão de Dados
+- Balcão Único do Prédio
 - Código Civil
 - Instituto dos Registos e do Notariado
-- Propriedade do Estado
-- Ministério da Justiça
 - Instituto Geográfico e Cadastral
-- Segurança da Informação
-- Publicitação
+- Interconexão de Dados
 - Internet
-- Sistema de Informação
+- Ministério da Justiça
+- Ministério dos Negócios Estrangeiros
+- Plataforma Eletrónica
 - Prédio Rústico
 - Propriedade de BENS
+- Propriedade do Estado
+- Publicitação
 - Registo Predial
-- Ministério dos Negócios Estrangeiros
+- Segurança da Informação
+- Sistema de Informação
 - Sistema Nacional do Cadastro Predial
-- Autarquia Local
-- Plataforma Eletrónica
-- Balcão Único do Prédio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/15/2019/01/21/p/dre
@@ -111,16 +111,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:24Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +199,9 @@ c) [Anterior alínea b).]
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -183,13 +217,17 @@ b) Por meio de edital a afixar na sede do respetivo município e freguesia da si
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O regime procedimental instituído pelo presente decreto-lei deve ser objeto de ampla divulgação pública através dos meios de comunicação social, nomeadamente televisão, rádio e imprensa escrita, bem como nas redes sociais do IRN, I. P., e das autarquias locais.
 
 2 - O Ministério dos Negócios Estrangeiros deve assegurar a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O presente decreto-lei é revisto quando a aplicação do regime procedimental o justifique, e, necessariamente, no momento da conclusão da implementação do disposto no regime de informação cadastral simplificada, em harmonia com o aplicável nos termos do registo predial, de modo a garantir a conjugação da localização e identificação dos prédios sem dono conhecido, em cada freguesia, com a identificação geoespacial das terras do domínio público, e o registo a favor do Estado dos prédios registados como sem dono conhecido.»
 
@@ -213,15 +251,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 3 de outubro de 2019.**
+Promulgado em 3 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de outubro de 2019.**
+Referendado em 7 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -398,3 +436,5 @@ São revogados os artigos 9.º e 15.º da [Lei n.º 62/2012](https://diariodarep
 ###### Artigo 18.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+112646914

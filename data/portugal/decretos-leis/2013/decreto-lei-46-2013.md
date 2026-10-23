@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2013/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a10c389e69893673ff74fc5fda53cd4298ad7a3688b5ef59f50ab476a2ee52f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b45b79f4f1f552704935cb8671c2ba9fe810c5b60d6d8b01dc58380e274aaba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Definição de Competências
-- Fundo de Contragarantia Mútuo
 - Banco de Portugal
 - Crédito Bancário
+- Definição de Competências
+- Fundo de Contragarantia Mútuo
+- Instituição de Crédito
 - Riscos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:122747583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado, a partir de 29.06.2019 e nos termos do art. 210.º, o art. 2.º do Dec Lei 229/98 de 22-jul, na redação do
+    presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/229/1998/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/229/1998/07/22/p/dre
+- type: cites
+  target: pt:dre:2901907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425290:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:16Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +152,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.
 
-**Promulgado em 27 de março de 2013.**
+Promulgado em 27 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de abril de 2013.**
+Referendado em 1 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/2021, 2º Suplemento, Série I de 2021-03-11
   number: '49'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 27-(2) a 27-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04902/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/25-a/2021/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/25-a-2021-159304330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90a13befdf851a92a495757393e52e95131ced68d69d6175cfc3ca0add25211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 639299cbe6eeab1ff9ca4fb6f9086e0cae6f2d9ba0da32cafbd0848387bfeaf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,62 +67,62 @@ reuse:
 subjects:
 - Abastecimento de BENS Essenciais
 - Acesso à Informação
-- PSP
-- Crime
-- Pessoal de Saúde
-- Lares
-- Circulação de Pessoas
-- Estabelecimento Comercial
-- Sector Cooperativo
-- Cuidados de Enfermagem
-- Definição de Competências
-- Direitos e Liberdades
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Fiscalização
-- Fronteiras
-- IPSS
-- Catástrofe
-- Presidente da República
-- Horário de Funcionamento
-- Estabelecimento Prisional
-- Isolamento Profiláctico
-- Direitos do Indivíduo
-- Liberdades Fundamentais
-- GNR
-- Forças Armadas
-- Circulação de Mercadorias
+- Açores
 - Assembleia da República
+- Autarquia Local
+- Catástrofe
+- Centro Educativo
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Controlo Sanitário
+- Crime
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Dados Pessoais
+- Definição de Competências
+- Direitos do Indivíduo
+- Direitos e Liberdades
 - Doença Infecciosa
+- Ensino
 - Epidemia
+- Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Estabelecimento Prisional
+- Estado de Emergência
+- Fiscalização
+- Forças Armadas
+- Fronteiras
+- Funcionário Público
+- GNR
+- Governo
+- Horário de Funcionamento
+- IPSS
+- Isolamento Profiláctico
+- Lares
+- Liberdades Fundamentais
+- Madeira.região Autónoma
+- Pessoal de Saúde
+- Poluição Sonora
 - Prazo
 - Preço
-- Ensino
-- Estabelecimento de Ensino
+- Presidente da República
+- Procuradoria Geral da República
 - Programa Erasmus
-- Cuidados Médicos
-- Madeira.região Autónoma
-- Teletrabalho
-- Centro Educativo
-- Poluição Sonora
+- PSP
 - Restrição da Liberdade
 - Saldos
+- Saúde Pública
+- Sector Cooperativo
+- Serviço Nacional de Saúde
 - Setor Privado
-- Funcionário Público
-- Governo
-- Açores
-- Dados Pessoais
-- Trabalhador
-- Trabalhador por Conta de Outrem
-- Autarquia Local
-- Vacinação
-- Procuradoria Geral da República
-- Equipamento de Proteção
-- Trabalhador com Contrato de Trabalho em Funções Públicas
-- Vigilância Epidemiológica
 - Situação de Calamidade
+- Teletrabalho
+- Trabalhador
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+- Trabalhador por Conta de Outrem
+- Vacinação
+- Vigilância Epidemiológica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
@@ -136,16 +136,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/77-b/2021/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/77-b/2021/03/11/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159304331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:36Z'
   warnings: []
   errors: []
 ---
@@ -240,12 +256,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 11 de março de 2021.**
+Assinado em 11 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2021.**
+Referendado em 11 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114062283

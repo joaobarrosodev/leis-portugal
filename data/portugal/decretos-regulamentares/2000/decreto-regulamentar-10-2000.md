@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/10/2000/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2000-324279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ce7f0395474d8f579d240c9be9f5fa1f736d0ccc88989ea51950f5d690285be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04f317c3be4123e8ec63ccee97ce367a2916385948e97284df3da819bb8883e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Directiva
-- Instituto da Conservação da Natureza
 - Conselho Consultivo
+- Instituto da Conservação da Natureza
 - Lagoa da Sancha
 - Proteção do Ambiente
 - Reserva Natural
@@ -76,20 +76,39 @@ relationships:
   target: pt:dre:67198365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:210024:por
+  label: "Alterados os arts. 6.º, 8.º, 10.º, 12.º, 19.º, os limites da Reserva Natural dos Lagos de Santo André e da Sancha\
+    \ constantes do presente diploma, revogados os anexos I e II e publicados novos anexos I e II, pelo DR.4/2004.29.03.2004.MCOTA,\
+    \ DR.IS-B [75] de 29.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2004-210024
+  date: '2004-03-29'
 - type: cites
   target: celex:31979L0409
   label: null
   source: http://data.europa.eu/eli/dir/1979/409/oj
+- type: repealed_by
+  target: pt:dre:640890:por
+  label: "Revogados os arts. 10º, 11º, 12º, 13º, 14º, 17º e 19º, na redacção do DR 4/2004 de 29-Mar, pela RES.117/2007.23.08.2007.PCM,\
+    \ DR.IS [162] de 23.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/117-2007-640890
+  date: '2007-08-23'
+- type: repealed_by
+  target: pt:dre:67198365:por
+  label: Revogados a al. b) do art. 5.º e os arts. 8.º e 9.º pelo(a) Decreto-Lei n.º 78/2015 - Diário da República n.º 92/2015,
+    Série I de 2015-05-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2015-67198365
+  date: '2015-05-13'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:22Z'
   warnings: []
   errors: []
 ---
@@ -402,15 +421,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Luís Medeiros Vieira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Agosto de 2000.**
+Referendado em 1 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I — Limite terrestre
 

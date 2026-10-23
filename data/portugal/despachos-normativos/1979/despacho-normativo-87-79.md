@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1979-381996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38c5b34e49da1a82f15c8d8587813245b2170812f19b07619701b2dccab2445f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3d62507baf135832c67b13216c4886dd8fbaab15dadec9835a1b7e7057fe13f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Espectáculos
+- Secretaria de Estado da Cultura
+- Subsídio
+- Teatro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:21Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +104,7 @@ Presidência do Conselho de Ministros, 20 de Dezembro de 1978. - O Secretário d
 
 Normas para a concessão de subsídios a companhias profissionais, cooperativas ou sociedades artísticas de trabalhadores de teatro destinadas à produção regular de espectáculos teatrais para o ano de 1979.
 
-###### Artigo 1.º A Secretaria de Estado da Cultura, através da Direcção-Geral de Espectáculos, abre concurso para a concessão de subsídios a companhias profissionais, cooperativas ou sociedades artísticas de trabalhadores de teatro declamado e infantil, adiante mencionadas abreviadamente por companhias, nas seguintes modalidades:
+Artigo 1.º A Secretaria de Estado da Cultura, através da Direcção-Geral de Espectáculos, abre concurso para a concessão de subsídios a companhias profissionais, cooperativas ou sociedades artísticas de trabalhadores de teatro declamado e infantil, adiante mencionadas abreviadamente por companhias, nas seguintes modalidades:
 
 a) Destinada a companhias que exerçam a sua actividade permanente em Lisboa;
 
@@ -112,7 +116,7 @@ d) Destinada a companhias que exerçam a sua actividade em Lisboa e no Porto e q
 
 § único. As presentes normas aplicam-se às quatro modalidades, excepto quando definido expressamente em contrário.
 
-###### Art. 2.º As companhias podem, se o entenderem, concorrer simultaneamente às quatro modalidades abrangidas pelo artigo anterior, devendo, para o efeito, apresentar a sua pretensão até 30 de Novembro de 1978, através de impressos próprios, a fornecer pela Direcção-Geral de Espectáculos:
+Art. 2.º As companhias podem, se o entenderem, concorrer simultaneamente às quatro modalidades abrangidas pelo artigo anterior, devendo, para o efeito, apresentar a sua pretensão até 30 de Novembro de 1978, através de impressos próprios, a fornecer pela Direcção-Geral de Espectáculos:
 
 1) O nome da companhia, fotocópia do registo legal, estatutos internos, caso não tenha concorrido aos subsídios em 1977, pequeno historial lista de componentes, artistas e técnicos e respectiva situação profissional, incluindo um breve «curriculum vitae» de cada um.
 
@@ -124,13 +128,13 @@ d) Destinada a companhias que exerçam a sua actividade em Lisboa e no Porto e q
 
 3) Plano pormenorizado sobre a actividade artística anual, expondo de forma bem definida e estruturada a linha estético-teatral que se pretende seguir. Esse plano deverá incluir a indicação do repertório, com especificação por obra dos nomes dos respectivos autores (não se admitindo siglas), a indicação aproximada das datas de estreia, tipos de exploração a efectuar, actividades paralelas de divulgação teatral, etc., e a indicação dos encenadores e artistas plásticos ou outros intervenientes.
 
-###### Art. 3.º Haverá duas formas de subsídio:
+Art. 3.º Haverá duas formas de subsídio:
 
 a) O subsídio normal, destinado a companhias que, pela sua estrutura, provas dadas e garantia do cumprimento destas normas, deverão merecer um apoio regular da Secretaria de Estado da Cultura;
 
 b) O subsídio ocasional, atribuído a companhias não abrangidas pela alínea a) para permitir a realização de espectáculos considerados de interesse cultural.
 
-###### Art. 4.º O subsídio a conceder variará conforme o interesse das propostas apresentadas, a estrutura da companhia concorrente, a inclusão ou não de autores nacionais e clássicos universais, a qualidade do repertório, encenadores e artistas, o trabalho realizado anteriormente, levando em linha de conta o cumprimento das normas então estabelecidas.
+Art. 4.º O subsídio a conceder variará conforme o interesse das propostas apresentadas, a estrutura da companhia concorrente, a inclusão ou não de autores nacionais e clássicos universais, a qualidade do repertório, encenadores e artistas, o trabalho realizado anteriormente, levando em linha de conta o cumprimento das normas então estabelecidas.
 
 As verbas previstas para os subsídios serão, respectivamente, para as quatro modalidades do artigo 1.º:
 
@@ -142,15 +146,15 @@ c) Entre 150000$00 e 230000$00 mensais;
 
 d) Entre 80000$00 e 100000$00 mensais.
 
-###### Art. 5.º As companhias subsidiadas comprometem-se a entregar na Direcção-Geral de Espectáculos, até ao dia 10 de cada mês, um relatório da sua actividade referente ao mês anterior, o qual deverá conter:
+Art. 5.º As companhias subsidiadas comprometem-se a entregar na Direcção-Geral de Espectáculos, até ao dia 10 de cada mês, um relatório da sua actividade referente ao mês anterior, o qual deverá conter:
 
 1) Folhas de bilheteira, uma por cada espectáculo efectuado, de modelo a fornecer pela Direcção de Serviços dos Espectáculos, em que se especifique o número, data e local do espectáculo, número de espectadores, número de bilhetes vendidos, preço dos bilhetes e respectiva receita;
 
 2) A indicação de subsídios recebidos de outras entidades estranhas à Secretaria de Estado da Cultura.
 
-###### Art. 6.º Sempre que as companhias se vejam impedidas, por razões de força maior, de cumprir o plano por elas livremente proposto, nomeadamente no que se refere ao repertório, devem informar a Direcção-Geral de Espectáculos, com, pelo menos, um mês de antecedência, das razões de alteração, sugerindo novo plano, que será aprovado ou não para a continuação do subsídio. A Direcção-Geral de Espectáculos deverá igualmente ser informada de qualquer alteração nos componentes da companhia.
+Art. 6.º Sempre que as companhias se vejam impedidas, por razões de força maior, de cumprir o plano por elas livremente proposto, nomeadamente no que se refere ao repertório, devem informar a Direcção-Geral de Espectáculos, com, pelo menos, um mês de antecedência, das razões de alteração, sugerindo novo plano, que será aprovado ou não para a continuação do subsídio. A Direcção-Geral de Espectáculos deverá igualmente ser informada de qualquer alteração nos componentes da companhia.
 
-###### Art. 7.º São causas para suspensão imediata do subsídio normal, e sem prejuízo do procedimento judicial que for julgado conveniente, quaisquer fraudes cometidas no cumprimento das presentes normas e ainda as seguintes situações:
+Art. 7.º São causas para suspensão imediata do subsídio normal, e sem prejuízo do procedimento judicial que for julgado conveniente, quaisquer fraudes cometidas no cumprimento das presentes normas e ainda as seguintes situações:
 
 1) O não cumprimento do número de espectáculos anuais, que é fixado em cento e oitenta para as companhias que exerçam a sua actividade em Lisboa, cento e setenta para as que a exerçam no Porto, cento e cinquenta para as que a exerçam noutras zonas do País e cem para os grupos de teatro infantil, tanto para os que a exerçam em Lisboa como em qualquer outra zona do País.
 
@@ -172,15 +176,15 @@ No caso de a companhia não completar no final dos primeiros seis meses o númer
 
 5) A inactividade da companhia na sua actuação pública, nos intervalos de cada novo espectáculo, exceder cinquenta dias, incluindo férias. A partir deste limite, será o subsídio suspenso, voltando apenas a ser concedido após apresentação de novo espectáculo, sendo na verba do subsídio desse mês descontados os dias de inactividade superior ao número que se indica.
 
-###### Art. 8.º As companhias concorrentes ao subsídio normal previsto na modalidade c) do artigo 1.º deverão indicar a localidade onde pretendem exercer a sua acção, tendo em conta na elaboração do seu plano de actividade, nomeadamente no repertório, as características e situação sócio-cultural dos seus habitantes.
+Art. 8.º As companhias concorrentes ao subsídio normal previsto na modalidade c) do artigo 1.º deverão indicar a localidade onde pretendem exercer a sua acção, tendo em conta na elaboração do seu plano de actividade, nomeadamente no repertório, as características e situação sócio-cultural dos seus habitantes.
 
-###### Art. 9.º A fixação na província das companhias subsidiadas na modalidade c) poderá ter a duração de um ano ou de seis meses, conforme possível troca de estada com outras companhias, devendo incluir digressões num raio de acção tal que permita à companhia após cada actuação poder voltar ao local sede, eliminando as despesas de estada.
+Art. 9.º A fixação na província das companhias subsidiadas na modalidade c) poderá ter a duração de um ano ou de seis meses, conforme possível troca de estada com outras companhias, devendo incluir digressões num raio de acção tal que permita à companhia após cada actuação poder voltar ao local sede, eliminando as despesas de estada.
 
-###### Art. 10.º A apresentação a concurso não implica por si só a concessão de qualquer subsídio. A decisão do subsídio pertence ao Secretário de Estado da Cultura, por proposta da Direcção-Geral de Espectáculos, que apreciará a viabilidade e oportunidade dos planos propostos, depois de ouvido o Sindicato dos Trabalhadores de Espectáculos.
+Art. 10.º A apresentação a concurso não implica por si só a concessão de qualquer subsídio. A decisão do subsídio pertence ao Secretário de Estado da Cultura, por proposta da Direcção-Geral de Espectáculos, que apreciará a viabilidade e oportunidade dos planos propostos, depois de ouvido o Sindicato dos Trabalhadores de Espectáculos.
 
-###### Art. 11.º A Secretaria de Estado da Cultura, através da Direcção-Geral de Espectáculos, poderá fornecer, a título de empréstimo temporário, os materiais necessários, de forma a dotar os recintos de teatro com as condições mínimas de comodidade indispensáveis ao público.
+Art. 11.º A Secretaria de Estado da Cultura, através da Direcção-Geral de Espectáculos, poderá fornecer, a título de empréstimo temporário, os materiais necessários, de forma a dotar os recintos de teatro com as condições mínimas de comodidade indispensáveis ao público.
 
-###### Art. 12.º A Secretaria de Estado da Cultura, por intermédio da Direcção-Geral de Espectáculos, manterá ainda outras formas de apoio às companhias subsidiadas, nomeadamente:
+Art. 12.º A Secretaria de Estado da Cultura, por intermédio da Direcção-Geral de Espectáculos, manterá ainda outras formas de apoio às companhias subsidiadas, nomeadamente:
 
 1) Prémio no valor de 50000$00 para a companhia de Lisboa, do Porto ou de outras zonas do País que maior número de autores portugueses apresentar durante o ano de 1979;
 
@@ -196,10 +200,10 @@ No caso de a companhia não completar no final dos primeiros seis meses o númer
 
 7) Através de subsídios de emergência para atender a situações excepcionais decorrentes de acidentes ou de outros factos previsíveis.
 
-###### Art. 13.º Qualquer dos prémios ou outras formas de apoio referidas no artigo anterior só serão concedidos às companhias que tenham cumprido as normas estabelecidas para os subsídios de 1979.
+Art. 13.º Qualquer dos prémios ou outras formas de apoio referidas no artigo anterior só serão concedidos às companhias que tenham cumprido as normas estabelecidas para os subsídios de 1979.
 
-###### Art. 14.º Casos especiais e omissos nestas normas poderão ser atendidos por despacho do Secretário de Estado da Cultura.
+Art. 14.º Casos especiais e omissos nestas normas poderão ser atendidos por despacho do Secretário de Estado da Cultura.
 
 Lisboa, 3 de Novembro de 1978. - O Director-Geral de Espectáculos, Rogério de Freitas.
 
-**O Secretário de Estado da Cultura, David de Jesus Mourão Ferreira.**
+O Secretário de Estado da Cultura, David de Jesus Mourão Ferreira.

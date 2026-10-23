@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-1981-390656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f57a7a5bd73c4a8eeaab7b7456c00afeb8e6797deeb20fd5847a4fa2b7ec29c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eae9d1443b4a720c5eacfebd6d37a0908a7b1904c44d2c32ec4954749cc969b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banda de Música
+- Fardamento
+- Força Aérea
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:448081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:44Z'
   warnings: []
   errors: []
 ---
@@ -139,11 +147,11 @@ Oficiais, sargentos e praças músicos e clarins
 
 (pessoal masculino)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)
 
 4.º Os artigos usados especificamente com o uniforme de exibição da Banda e da Fanfarra são obtidos por conta do Estado e de distribuição permanente, pelo que o quadro «Dotações e duração dos artigos de uniforme» anexo ao capítulo 5 é completado como se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)
 
 5.º As figuras 1.56, 2.18, 2.19, 2.20 e 2.21 constituem os anexos A, B, C, D e E da presente portaria e vão identificadas pelos mesmos números.
 
@@ -151,4 +159,4 @@ Estado-Maior da Força Aérea, 19 de Janeiro de 1981. - O Chefe do Estado-Maior 
 
 Do ANEXO A ao ANEXO E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05530559.pdf)

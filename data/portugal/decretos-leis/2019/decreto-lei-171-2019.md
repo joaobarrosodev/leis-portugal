@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/23900/0000300010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/171/2019/12/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2019-127145521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a01dec6c9418557da3b42159c4dac158966bbe768760a1a6249c7df58289f208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ac8db0da925d05a15f87a89b9add0cae5d5a299e7889fd067fb5d6c60e23220
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bandeira
-- Multa
+- Comité Olímpico Português
 - Comité Paraolímpico de Portugal
 - Contra-ordenação
 - Controlo Aduaneiro
-- Marca
 - Denominação de Instituição
-- Ficheiro Central de Pessoas Colectivas
-- Lisboa
+- Desporto
 - Direito à Justiça
+- Ficheiro Central de Pessoas Colectivas
 - Hino
 - Instituto Nacional da Propriedade Industrial
-- Simbolo de Identificação
 - Jogos Olímpicos
 - Jogos Paraolímpicos
+- Lisboa
+- Marca
+- Ministério Público
+- Multa
 - Propriedade Industrial
 - Propriedade Intelectual
 - Regime Jurídico
 - Registo Nacional de Pessoas Coletivas
 - Regulamento CE
-- Ministério Público
-- Comité Olímpico Português
-- Desporto
+- Simbolo de Identificação
 - Tribunal da Propriedade Intelectual
 - Tribunal da Relação
 relationships:
@@ -112,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/155/2012/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/2012/07/18/p/dre
+- type: cites
+  target: pt:dre:117279933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553375:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:46Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +172,9 @@ Os artigos 1.º a 9.º e 13.º do [Decreto-Lei n.º 155/2012](https://diariodare
 
 O presente diploma estabelece o regime de proteção jurídica a que ficam sujeitos os símbolos olímpicos e paralímpicos, adiante designados por propriedades olímpicas e propriedades paralímpicas de acordo com a terminologia usada na Carta Olímpica e nos Estatutos e Regulamentos do Comité Paralímpico Internacional, e reforça os mecanismos de combate a qualquer forma de aproveitamento ilícito dos benefícios decorrentes do uso dos mesmos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -168,7 +182,9 @@ O presente diploma estabelece o regime de proteção jurídica a que ficam sujei
 
 3 - As propriedades olímpicas previstas nos números anteriores constituem sinais com elevado valor simbólico, nos termos e para os efeitos previstos na alínea b) do n.º 3 do artigo 231.º e na alínea b) do n.º 1 do artigo 192.º, ambos do Código da Propriedade Industrial.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -176,7 +192,9 @@ O presente diploma estabelece o regime de proteção jurídica a que ficam sujei
 
 3 - É reconhecido ao CPP o direito exclusivo ao uso das propriedades paralímpicas ou equiparadas, sendo aplicável, com as necessárias adaptações, o disposto nos números anteriores.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -184,13 +202,17 @@ O presente diploma estabelece o regime de proteção jurídica a que ficam sujei
 
 3 - As proibições constantes dos números anteriores abrangem as propriedades paralímpicas ou equiparadas, competindo quanto a estas ao CPP a autorização prevista no n.º 1.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O INPI, I. P., recusa o registo de marca, recompensa, logótipo ou desenho ou modelo que contenha, em todos ou alguns dos seus elementos, propriedades olímpicas ou equiparadas, propriedades paralímpicas ou equiparadas, ou quaisquer sinais semelhantes a estas, independentemente dos produtos ou serviços a assinalar ou da atividade das entidades a distinguir.
 
 2 - O Registo Nacional de Pessoas Coletivas recusa a firma ou denominação social de pessoa coletiva que contenha, em todos ou alguns dos seus elementos, a divisa olímpica ou as expressões 'Jogos Olímpicos', 'Olimpíadas' ou quaisquer outras semelhantes a estas, bem como a divisa paralímpica ou as expressões 'Jogos Paralímpicos', 'Paralímpiadas' ou quaisquer outras semelhantes a estas, independentemente do âmbito de atividade a que se destinarem.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -208,13 +230,17 @@ b) Pelo CPP, no que respeita às propriedades paralímpicas e equiparadas.
 
 6 - As ações e decisões finais transitadas em julgado previstas no presente artigo, quando referentes a firmas e denominações, são comunicadas pelo tribunal ao Instituto dos Registos e Notariado, sempre que possível por transmissão eletrónica de dados, para efeitos do respetivo averbamento de registo ou inscrição no Ficheiro Central de Pessoas Coletivas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
 2 - Para os efeitos previstos nos artigos 80.º a 92.º do [Regulamento (CE) n.º 6/2002](http://data.europa.eu/eli/reg/2002/6/oj?locale=pt), do Conselho, de 12 de dezembro de 2001, e nos artigos 123.º a 133.º do [Regulamento (UE) 2017/1001](http://data.europa.eu/eli/reg/2017/1001/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de junho de 2017, são territorialmente competentes o Tribunal da Propriedade Intelectual e o Tribunal da Relação de Lisboa, em primeira e segunda instâncias, respetivamente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -226,13 +252,17 @@ b) Pelo CPP, no que respeita às propriedades paralímpicas e equiparadas.
 
 5 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
 2 - Quem, sem autorização do COP ou do CPP e com intenção de preparar a execução dos atos referidos no artigo 4.º, fabricar, importar, adquirir, acondicionar, transportar ou guardar, para si ou para outrem, sinais ou desenhos ou modelos contendo, respetivamente, propriedades olímpicas ou equiparadas, propriedades paralímpicas ou equiparadas, ou que constituam imitação das mesmas incorre em contraordenação punível com coima de (euro) 3000 a (euro) 30 000, caso se trate de pessoa coletiva, e de (euro) 750 a (euro) 3500, caso se trate de pessoa singular.
 
-###### Artigo 13.º — Garantia de respeito pelos direitos de propriedade industrial e pelos segredos comerciais
+Artigo 13.º
+
+Garantia de respeito pelos direitos de propriedade industrial e pelos segredos comerciais
 
 São aplicáveis à proteção dos símbolos olímpicos e equiparados e dos símbolos paralímpicos e equiparados previstos no presente diploma, com as necessárias adaptações, as medidas e procedimentos que visam garantir o respeito pelos direitos de propriedade industrial e pelos segredos comerciais, constantes dos artigos 337.º a 358.º do Código da Propriedade Industrial.»
 
@@ -270,15 +300,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2019. - António Luís Santos da Costa - João Jorge Arêde Correia Neves - Francisca Eugénia da Silva Dias Van Dunem - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 7 de dezembro de 2019.**
+Promulgado em 7 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de dezembro de 2019.**
+Referendado em 10 de dezembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -421,3 +451,5 @@ São aplicáveis à proteção dos símbolos olímpicos e equiparados e dos sím
 ###### Artigo 15.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+112839913

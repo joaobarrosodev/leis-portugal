@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23065-1967-401722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8e892182f1463e83948a37ea68d68b3360d181925c764de0f195e55e57a04a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efd053dbf8c07c53db5b8340cdb451c24fcf0ae0b753ebc7c61e600b47ecb1c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:509209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623215:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:59Z'
   warnings: []
   errors: []
 ---
@@ -107,21 +119,21 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 7.º O n.º 2 do artigo 72.º, o n.º 1 do artigo 74.º, o n.º 2 do artigo 186.º, o n.º 1 do artigo 207.º, os n.os 1 e 2 do artigo 213.º, o artigo 214.º e o n.º 2 do artigo 215.º passam a ter a seguinte redacção:
 
-###### Art. 72.º ...
+Art. 72.º ...
 
 2. A omissão é comprovada por certidão passada pela competente conservatória, com antecedência não superior a trinta dias, se a sede da secretaria ou cartório que for chamado a lavrar o acto estiver situado dentro da área daquela conservatória, ou noventa dias no caso contrário, devendo indicar-se, no instrumento, a data em que a certidão foi passada.
 
-###### Art. 74.º - 1. A prova da inscrição ou da omissão, bem como da participação, deve fazer-se por documento emanado da repartição de Fazenda competente.
+Art. 74.º - 1. A prova da inscrição ou da omissão, bem como da participação, deve fazer-se por documento emanado da repartição de Fazenda competente.
 
-###### Art. 186.º ...
+Art. 186.º ...
 
 2. A extracção de fotocópias será feita nas repartições notariais, quando devidamente apetrechadas.
 
-###### Art. 213.º - 1. Os livros indicados nas alíneas a) a d), g e h) do n.º 1 do artigo 16.º, e só estes, estão sujeitos ao imposto do selo que a tabela de cada província determinar.
+Art. 213.º - 1. Os livros indicados nas alíneas a) a d), g e h) do n.º 1 do artigo 16.º, e só estes, estão sujeitos ao imposto do selo que a tabela de cada província determinar.
 
 2. O imposto do selo dos livros de notas é liquidado e cobrado por cada lauda, e à medida que os actos neles forem sendo lavrados, à razão de metade do selo devido por cada folha; o imposto é devido pelo acto que ocupar a primeira linha de cada lauda e deve ser discriminado na conta dos encargos que são cobrados das partes.
 
-###### Art. 214.º - 1. Por cada instrumento de aprovação de testamento cerrado é devido o imposto que estiver ou for fixado na tabela do imposto do selo de cada província.
+Art. 214.º - 1. Por cada instrumento de aprovação de testamento cerrado é devido o imposto que estiver ou for fixado na tabela do imposto do selo de cada província.
 
 2. Nos termos de autenticação será cobrado por cada assinatura do documento autenticado o imposto do selo devido pelos reconhecimentos.
 
@@ -135,7 +147,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 7. Os documentos de que se extraiam fotocópias equiparadas a públicas-formas serão selados como se fossem estas últimas a extrair-se.
 
-###### Art. 215.º ...
+Art. 215.º ...
 
 2. Os pagamentos são feitos mensalmente, até ao dia 10 do mês imediato ao da cobrança.
 

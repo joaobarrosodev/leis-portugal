@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2003/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2003-493701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5f6cb1124c547da19a42d459803df6a871d9d1e51f5a9c462c2d24bdbd840a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b94f616a9eb1950884fcf4a1a017254686f76b28198c5e4d56a087fe7deb7546
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1501/2002/12/12/p/dre
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441099:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:31Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +168,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Luís Filipe Pereira.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2003.**
+Referendado em 15 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

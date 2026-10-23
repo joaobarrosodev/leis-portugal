@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 126/1992, 2º Suplemento, Série I-B de 1992-06-01
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2648-(50) a 2648-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/1992/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1992-181986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e32ada8d8723a9ba623d149b04c16859dfb627008ac319a79042a4ea369ab98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddfcc3db493748196ab76f3393a0023875eb144eaf4ba3646372ec7489f0366b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Delegação Regional da Cultura de Lisboa
 - Delegação Regional da Cultura do Alentejo
 - Delegação Regional da Cultura do Algarve
 - Delegação Regional da Cultura do Centro
 - Delegação Regional da Cultura do Norte
-- Secretaria de Estado da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria de Estado da Cultura
 relationships:
 - type: amended_by
   target: pt:dre:520445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522238:por
+  label: "Extinta a Delegação Regional da Cultura de Lisboa, pelo DR.3/94.1994.02.09.PCM, DR.IS-B [33]\03]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1994-522238
+  date: '1994-02-09'
+- type: amended_by
+  target: pt:dre:524411:por
+  label: "Alterado os arts. 5º, 10º-A e 12º do presente diploma, na redacção dada pelos DR 27/88 de 13-Jul, 3/94 de 09-Fev\
+    \ e pelo presente diploma, pelo DR.12/98.1998.05.19.MC DR.IS-B [115] de 19/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1998-524411
+  date: '1998-05-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -89,16 +100,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:285903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474150:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520445:por
+  label: "Revogado, a partir de 01.04.2007,pelo DR.34/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2007-520445
+  date: '2007-03-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:44Z'
   warnings: []
   errors: []
 ---
@@ -117,19 +149,19 @@ Assim:
 
 Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 106-H/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-h-1992-410289), de 1 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O n.º 1 do artigo 1.º, os artigos 4.º a 6.º, a alínea b) do artigo 8.º, a alínea b) do artigo 9.º, o n.º 1 do artigo 10.º-A e os artigos 11.º e 12.º do [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 1 do artigo 1.º, os artigos 4.º a 6.º, a alínea b) do artigo 8.º, a alínea b) do artigo 9.º, o n.º 1 do artigo 10.º-A e os artigos 11.º e 12.º do [Decreto Regulamentar n.º 18/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1980-474150), de 23 de Maio, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - São criadas, na dependência directa do membro do Governo responsável pela área da cultura, as Delegações Regionais da Cultura do Norte, Centro, Lisboa, Alentejo e Algarve, adiante designadas por DR.
+Artigo 1.º - 1 - São criadas, na dependência directa do membro do Governo responsável pela área da cultura, as Delegações Regionais da Cultura do Norte, Centro, Lisboa, Alentejo e Algarve, adiante designadas por DR.
 
 2 - ...
 
-###### Art. 4.º - São atribuições das DR:
+Art. 4.º - São atribuições das DR:
 
 a) Assegurar uma actuação coordenada, a nível regional, dos serviços da área da cultura, dependente do membro do Governo responsável por esta área, designadamente nos domínios das artes, dos espectáculos e da preservação do património museológico e bibliográfico;
 
 b) Apoiar as iniciativas culturais locais que, pela sua natureza, não se integrem em programas de âmbito nacional ou que correspondam a necessidades ou aptidões específicas da região.
 
-###### Art. 5.º - 1 - Cada DR compreende os seguintes órgãos:
+Art. 5.º - 1 - Cada DR compreende os seguintes órgãos:
 
 a) O delegado regional;
 
@@ -151,9 +183,9 @@ a) A Divisão de Apoio Técnico;
 
 b) A Secção Administrativa.
 
-###### Art. 6.º - Cada DR é dirigida por um delegado regional, equiparado a subdirector-geral.
+Art. 6.º - Cada DR é dirigida por um delegado regional, equiparado a subdirector-geral.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 a) ...
 
@@ -161,7 +193,7 @@ b) Apresentar propostas e recomendações relativas a actuação da DR;
 
 c) ...
 
-###### Art. 9.º ...
+Art. 9.º ...
 
 a) ...
 
@@ -175,7 +207,7 @@ e) ...
 
 f) ...
 
-###### Art. 10.º-A - 1 - O conselho administrativo, como órgão de gestão financeira da DR, é constituído por:
+Art. 10.º-A - 1 - O conselho administrativo, como órgão de gestão financeira da DR, é constituído por:
 
 a) O delegado regional, que preside;
 
@@ -187,7 +219,7 @@ c) O chefe de repartição ou, quando tal não seja possível, por um chefe de s
 
 3 - ...
 
-###### Art. 11.º - 1 - À Divisão de Espectáculos e das Artes compete, em especial:
+Art. 11.º - 1 - À Divisão de Espectáculos e das Artes compete, em especial:
 
 a) Proceder ao levantamento dos recintos e infra-estruturas existentes na região, com vocação específica ou adequada à realização de espectáculos e outras actividades artísticas e culturais;
 
@@ -207,38 +239,38 @@ b) Assegurar o apoio técnico e administrativo necessários à plena execução 
 
 3 - Às Divisões de Apoio Técnico das DR do Alentejo e do Algarve compete ainda assegurar o cumprimento das atribuições referidas no n.º 1 deste artigo.
 
-###### Art. 12.º - 1 - À Repartição Administrativa das DR do Norte, Centro e Lisboa, bem como à Secção Administrativa das DR do Alentejo e do Algarve, compete, genericamente, assegurar os serviços de atendimento e expediente, administração de pessoal, financeira e patrimonial e de arquivo da respectiva DR.
+Art. 12.º - 1 - À Repartição Administrativa das DR do Norte, Centro e Lisboa, bem como à Secção Administrativa das DR do Alentejo e do Algarve, compete, genericamente, assegurar os serviços de atendimento e expediente, administração de pessoal, financeira e patrimonial e de arquivo da respectiva DR.
 
 2 - A Repartição Administrativa referida no número anterior integra a Secção de Expediente, Arquivo e Pessoal e a Secção de Contabilidade e Aprovisionamento.
 
-###### Art. 2.º A Delegação Regional de Lisboa dispõe do quadro de pessoal dirigente, que consta do anexo I ao presente diploma e do constante de portaria conjunta do membro do Governo responsável pela área da cultura e do Ministro das Finanças, a publicar nos 30 dias subsequentes à entrada em vigor do presente diploma.
+Art. 2.º A Delegação Regional de Lisboa dispõe do quadro de pessoal dirigente, que consta do anexo I ao presente diploma e do constante de portaria conjunta do membro do Governo responsável pela área da cultura e do Ministro das Finanças, a publicar nos 30 dias subsequentes à entrada em vigor do presente diploma.
 
-###### Art. 3.º O quadro de pessoal das Delegações Regionais do Norte e do Centro passa a ser o constante do anexo II ao presente diploma, em virtude do aditamento dos lugares necessários ao funcionamento da nova estrutura às dotações anteriormente aprovadas e que constam do anexo I à [Portaria n.º 157/88](https://diariodarepublica.pt/dr/detalhe/portaria/157-1988-285903), de 15 de Março.
+Art. 3.º O quadro de pessoal das Delegações Regionais do Norte e do Centro passa a ser o constante do anexo II ao presente diploma, em virtude do aditamento dos lugares necessários ao funcionamento da nova estrutura às dotações anteriormente aprovadas e que constam do anexo I à [Portaria n.º 157/88](https://diariodarepublica.pt/dr/detalhe/portaria/157-1988-285903), de 15 de Março.
 
-###### Art. 4.º - 1 - O provimento dos lugares constantes dos quadros referidos nos artigos anteriores far-se-á de acordo com as regras gerais de provimento em vigor, bem como por transição de quadros de serviços a extinguir na área da cultura, dependentes do membro do Governo responsável por esta área.
+Art. 4.º - 1 - O provimento dos lugares constantes dos quadros referidos nos artigos anteriores far-se-á de acordo com as regras gerais de provimento em vigor, bem como por transição de quadros de serviços a extinguir na área da cultura, dependentes do membro do Governo responsável por esta área.
 
 2 - A transição prevista no número anterior operar-se-á de acordo com o disposto no [Decreto-Lei n.º 106-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-1992-410282), de 1 de Junho.
 
-###### Art. 5.º Os encargos decorrentes da aplicação do presente diploma são, no corrente ano económico, suportados por parte das verbas atribuídas no Orçamento do Estado à Direcção-Geral de Acção Cultural, em termos a definir.
+Art. 5.º Os encargos decorrentes da aplicação do presente diploma são, no corrente ano económico, suportados por parte das verbas atribuídas no Orçamento do Estado à Direcção-Geral de Acção Cultural, em termos a definir.
 
 Presidência do Conselho de Ministros, 23 de Março de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 28 de Maio de 1992.**
+Promulgado em 28 de Maio de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Maio de 1992.**
+Referendado em 31 de Maio de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro do pessoal dirigente da Delegação Regional de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf)
 
 ## ANEXO II — Quadro de pessoal das Delegações Regionais do Norte e do Centro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf))](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/126b02/00500052.pdf)

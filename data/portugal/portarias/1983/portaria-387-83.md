@@ -46,40 +46,121 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c739b419f77a0d52805cc81c3087daaececd693d88e3de6d9174549faf85d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b9561a2d191e30629086752fa92087a8cd3148874d92d949dadfc6ee7044007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:515202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O NUMERO 16, PELA PORTARIA NUMERO 748/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 150, DE 2/7/83.\
+    \ ALTERADOS OS NUMEROS 12 E 18, PELA PORTARIA NUMERO 757/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 158, DE\
+    \ 12/7/83. ALTERADOS OS ARTIGOS NUMERO 3, NUMERO 2 ALINEA E), NUMERO 4, 5 E 6 ARTIGO 5, NUMERO 4 ARTIGO 6, NUMERO 4 ARTIGO\
+    \ 7 NUMERO 1, ALINEAS A), B) E C) ARTIGO 11, NUMERO 5, 6 E 7 ARTIGO 14, NUMERO 3, 4, 5 E 6 ARTIGO 16, NUMERO 2 ALINEA\
+    \ A), NUMERO 3, 4, 5, 6 E 7 ARTIGO 20 NUMERO 1, ALINEAS A), B), C), D) E E), NUMERO 2, 3, 4 E 5 ARTIGO 21 NUMERO 3 ARTIGO\
+    \ 22 NUMERO 2, ALINEA A), B), C), D), E), F), G), H), I) ARTIGO 26, NUMERO 1 ARTIGO 28, NUMERO 1 ALINEAS A) E B), PELA\
+    \ PORTARIA NUMERO 836/83, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE, NUMERO 188, DE 17/8/83. SAO ACRESCENTADOS OS NUMEROS\
+    \ 2-A E 2-B, PELA PORTARIA NUMERO 836/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 188, DE 17/8/83. SAO SUBSTITUIDOS\
+    \ OS ANEXOS I, II, III E IV, PELA PORTARIA NUMERO 836/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 188, DE 17/8/83.\
+    \ ADITADOS OS ANEXOS VI, VII E VIII, PELA PORTARIA NUMERO 386/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 188,\
+    \ DE 17/8/83. ALTERADO O NUMERO 2, PELA PORTARIA NUMERO 862/83, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 198,\
+    \ DE 29/8/83.,\0RO 198, DE 29/8/83.,\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-07-02'
+- type: amended_by
+  target: pt:dre:453192:por
+  label: "Alterado o n.º 16.º pela PORT.748/83.02.07.1983.ME, DR.IS [150] de 02.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/748-1983-453192
+  date: '1983-07-02'
+- type: amended_by
+  target: pt:dre:453239:por
+  label: "Alterados os n.ºs 12.º e 18.º pela PORT.757/83.12.07.1983.ME, DR.IS [158] de 12.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1983-453239
+  date: '1983-07-12'
+- type: amended_by
+  target: pt:dre:540835:por
+  label: "Alterados os n.ºs 3.º, 5.º, 6.º, 7.º, 11.º, 14.º, 16.º, 20.º, 21.º, 22.º, 26.º e 28.º, acrescentados os n.ºs 2.º-A\
+    \ e 2.º-B, aditados os anexos VII e VIII, e substituídos os anexos I, II, III e IV pela PORT.836/83.17.08.1983.ME, DR.IS\
+    \ [188]Supl de 17.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/836-1983-540835
+  date: '1983-08-17'
+- type: amended_by
+  target: pt:dre:455939:por
+  label: "Altera o n.º 2.º pela PORT.862/83.29.08.1983.ME, DR.IS [198] de 29.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/862-1983-455939
+  date: '1983-08-29'
+- type: amended_by
+  target: pt:dre:515202:por
+  label: "Alterado o nº 4 do Anexo I, Anexo III e Anexo VI (na redacção da Port 836/83, de 17-Ago) ambos do presente diploma,\
+    \ pela PORT.960-A/83.04.11.1983.ME, DR.IS [254-Supl] de 04.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-a-1983-515202
+  date: '1983-11-04'
+- type: cites
+  target: pt:dre:141653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472347:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:03Z'
   warnings: []
   errors: []
 ---
@@ -614,29 +695,29 @@ Ministério da Educação, 10 de Março de 1983. - O Ministro da Educação, Jo�
 
 ## ANEXO I — I - 1 - Universidades e institutos universitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
 I - 2 - Escolas superiores universitárias ainda não integradas em universidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
 I - 3 - Ensino superior artístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
 I - 4 - Ensino superior politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
 I - 5 - Outros estabelecimentos de ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
 
 ## ANEXO V — Requerimento a que se refere o n.º 2 do n.º 30.º
 
@@ -660,4 +741,4 @@ Pedem deferimento.
 
 (nota a) Se nos termos do n.º 7 do n.º 30.º deve escrever: ambos na fase suplementar do concurso ...
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf))](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/08000/11891216.pdf)

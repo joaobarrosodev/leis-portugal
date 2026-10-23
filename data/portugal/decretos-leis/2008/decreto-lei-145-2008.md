@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/145/2008/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2008-454779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85446e8d77019945f4cc0e59ade422a1bfa10afbc0c11eb15c36a8e6b7d9933a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3528b8f9833d681f5c815634f102262a15100bbb2ca43b1b60a694f058758a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato
 - Combustível
-- Veículo
-- Transporte de Mercadorias
+- Contrato
+- Mercadoria
 - Preço
 - Preço de Referência
 - Prestação de Serviços
 - Regime Jurídico
 - Remuneração
-- Mercadoria
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:572451:por
@@ -89,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/257/2007/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/257/2007/07/16/p/dre
+- type: cites
+  target: pt:dre:483392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636181:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572451:por
+  label: "Revogado, a partir de 16.03.2014, o art. 2.º, pelo DEC LEI.25/2014.14.02.2014.MECO, DR.IS [32] de 14.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2014-572451
+  date: '2014-02-14'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:37Z'
   warnings: []
   errors: []
 ---
@@ -171,12 +184,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 16 de Julho de 2008.**
+Promulgado em 16 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Julho de 2008.**
+Referendado em 18 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

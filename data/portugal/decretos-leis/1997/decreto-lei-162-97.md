@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/1997/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1997-162667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1edd79eaa78eaad01c7f1c2e84f6bd8b60be5cd6d48a44411fe54f562ae8f859
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c124217633f701b98f5ab9a408b16beaa53a0249d7d62f0a2d2777ce53d10f5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Financiamento
-- Instituição de Crédito
-- Empresa
+- Apoio ao Investimento
+- Comércio
+- Comissão CE
 - Comissão de Análise
 - Comissão Técnica
-- Ministro da Economia
 - Confederação do Comércio e Serviços de Portugal
 - Contrato
 - Definição de Competências
 - Direcção Geral da Indústria
 - Direcção Geral do Comércio e da Concorrência
-- Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
-- Comissão CE
-- Gestão
 - Direcção Geral do Desenvolvimento Regional
-- Procom
+- Empresa
+- Financiamento
+- Fiscalização
+- Gestão
 - IAPMEI
-- Comércio
+- ICEP
+- Instituição de Crédito
+- Ministro da Economia
+- Procom
+- Projeto de Investimento
 - Unidade de Gestão
 relationships:
 - type: amended_by
@@ -100,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:04Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +142,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 7.º, 9.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 35.º, 36.º, 37.º, 38.º e 39.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 7.º, 9.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 35.º, 36.º, 37.º, 38.º e 39.º do [Decreto-Lei n.º 184/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1994-291641), de 1 de Julho, passam a ter a seguinte redacção:
 
 «Artigo 7.º
 
@@ -166,11 +174,15 @@ f) Veículos automóveis de peso bruto superior a 3500 kg, reboques e semi-reboq
 
 7 - ...
 
-###### Artigo 9.º — Âmbito
+Artigo 9.º
+
+Âmbito
 
 A presente secção abrange os projectos de investimento pontuais de modernização do comércio, com especial incidência no equilíbrio regional, promovidos por PME, nas zonas geográficas a determinar em regulamento.
 
-###### Artigo 23.º — Aplicações relevantes
+Artigo 23.º
+
+Aplicações relevantes
 
 1 - ...
 
@@ -178,23 +190,31 @@ A presente secção abrange os projectos de investimento pontuais de modernizaç
 
 3 - A exclusão prevista na alínea a) do n.º 2 do artigo 7.º pode ser afastada se a referida aplicação for considerada de particular relevância para assegurar um adequado desempenho das funções da estrutura associativa por despacho do Ministro da Economia, a requerimento do promotor.
 
-###### Artigo 24.º — Natureza do apoio financeiro
+Artigo 24.º
+
+Natureza do apoio financeiro
 
 1 - ...
 
 2 - O montante e as condições do apoio financeiro são definidos, caso a caso, por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e da Economia, sob parecer da comissão de avaliação.
 
-###### Artigo 25.º — Âmbito
+Artigo 25.º
+
+Âmbito
 
 O presente subcapítulo abrange os projectos que visem os objectivos referidos na alínea d) do n.º 2 do artigo 2.º, da iniciativa, individual ou conjunta, de órgãos da Administração Pública, central ou local, de empresas e de associações empresariais, e a promover conjuntamente com a Direcção-Geral do Comércio e da Concorrência (DGCC).
 
-###### Artigo 26.º — Tipos de projectos
+Artigo 26.º
+
+Tipos de projectos
 
 1 - ...
 
 2 - A qualificação de projecto especial é atribuída por despacho do Ministro da Economia, sob proposta fundamentada da comissão de avaliação.
 
-###### Artigo 27.º — Atribuição e natureza dos apoios
+Artigo 27.º
+
+Atribuição e natureza dos apoios
 
 1 - Para cada projecto é constituída uma equipa de projecto, coordenada por um representante da DGCC e que integra um representante de cada uma das restantes entidades nele envolvidas, à qual incumbe dar parecer sobre o especial interesse e viabilidade do projecto, suas condições e forma de realização, bem como submetê-lo à comissão de avaliação.
 
@@ -204,7 +224,9 @@ O presente subcapítulo abrange os projectos que visem os objectivos referidos n
 
 4 - A natureza dos apoios a conceder aos projectos abrangidos no presente subcapítulo pode revestir a forma de subsídio a fundo perdido, linha de crédito bonificado ou empréstimo bonificado.
 
-###### Artigo 28.º — Quadro institucional
+Artigo 28.º
+
+Quadro institucional
 
 1 - Nos termos do [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, e do despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Comércio e Turismo publicado no Diário da República, 2.ª série, n.º 130, de 6 de Junho de 1994, a gestão do PROCOM insere-se na gestão global da Intervenção Operacional Comércio e Serviços, sendo assim abrangida pelas competências do gestor e das unidades de gestão e de acompanhamentos estabelecidas para aquela intervenção.
 
@@ -218,7 +240,9 @@ O presente subcapítulo abrange os projectos que visem os objectivos referidos n
 
 6 - É criada uma comissão técnica, com funções consultivas, presidida pelo gestor e composta por um representante da DGCC, por um representante do IAPMEI, por um representante do ICEP, por um representante de cada uma das instituições de crédito protocoladas nos termos do n.º 4 do artigo 29.º e por dois representantes indicados pela Confederação do Comércio e Serviços de Portugal (CCP), a nomear por despacho do Ministro da Economia.
 
-###### Artigo 29.º — Competências
+Artigo 29.º
+
+Competências
 
 1 - ...
 
@@ -280,7 +304,9 @@ b) Submeter os seus pareceres aos órgãos de gestão da Intervenção Operacion
 
 8 - ...
 
-###### Artigo 30.º — Apresentação das candidaturas
+Artigo 30.º
+
+Apresentação das candidaturas
 
 1 - ...
 
@@ -292,7 +318,9 @@ b) Submeter os seus pareceres aos órgãos de gestão da Intervenção Operacion
 
 5 - ...
 
-###### Artigo 31.º — Contratos de concessão dos apoios financeiros
+Artigo 31.º
+
+Contratos de concessão dos apoios financeiros
 
 1 - A atribuição de apoios financeiros é formalizada através de um contrato a celebrar entre as instituições de crédito, os promotores e o IAPMEI, no caso dos projectos abrangidos pelos subcapítulos I e II.
 
@@ -306,7 +334,9 @@ b) Submeter os seus pareceres aos órgãos de gestão da Intervenção Operacion
 
 6 - A posição contratual da empresa beneficiária só pode ser objecto de transmissão por motivos devidamente justificados e após a autorização do Ministro da Economia.
 
-###### Artigo 35.º — Cobertura orçamental
+Artigo 35.º
+
+Cobertura orçamental
 
 1 - Os encargos decorrentes da aplicação do PROCOM são inscritos anualmente no orçamento do IAPMEI, sob o título «Modernização do tecido económico: comércio e serviços».
 
@@ -318,17 +348,23 @@ b) Submeter os seus pareceres aos órgãos de gestão da Intervenção Operacion
 
 5 - ...
 
-###### Artigo 36.º — Obrigações dos promotores
+Artigo 36.º
+
+Obrigações dos promotores
 
 Todos os apoios financeiros atribuídos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer modo onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia do IAPMEI, no caso dos projectos a que se refere o subcapítulo I, ou da DGCC, no caso dos projectos a que se referem os subcapítulos II, III e IV, até que sejam atingidos os objectivos do investimento.
 
-###### Artigo 37.º — Fiscalização e acompanhamento
+Artigo 37.º
+
+Fiscalização e acompanhamento
 
 1 - Compete às instituições de crédito, à DGCC e ao IAPMEI, no âmbito das respectivas competências, efectuar as acções de verificação e controlo físico, financeiro e contabilístico dos investimentos realizados.
 
 2 - ...
 
-###### Artigo 38.º — Rescisão de contrato
+Artigo 38.º
+
+Rescisão de contrato
 
 1 - Os contratos podem ser rescindidos unilateralmente mediante autorização do Ministro da Economia, verificando-se as seguintes situações:
 
@@ -342,18 +378,20 @@ c) ...
 
 3 - Quando ocorrer a situação descrita na alínea c) do n.º 1, a empresa não poderá apresentar candidatura a incentivos durante cinco anos, excepto se obtiver para o efeito autorização expressa do Ministro da Economia.
 
-###### Artigo 39.º — Avaliação do Programa
+Artigo 39.º
+
+Avaliação do Programa
 
 Compete ao gestor e à Direcção-Geral do Desenvolvimento Regional (DGDR), em colaboração com a DGCC, o IAPMEI e os serviços respectivos da Comissão Europeia, proceder à avaliação do impacte dos investimentos, em função dos objectivos fixados no n.º 2 do artigo 1.º»
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Adriano Lopes Gomes Pimpão - Jaime Serrão Andrez.
 
-**Promulgado em 28 de Maio de 1997.**
+Promulgado em 28 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1997.**
+Referendado em 6 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/289-1980-469781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fde84fba3458fe9d2b2cffd2a889fdece57df639f3e7e6d29a1107241804589
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2202bceb5bfc9e6863d382de3b0a4af93392f2111cd561874bd84fed05ac8d90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Instituto da Família e Acção Social
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO PELO DESPACHO NORMATIVO, NUMERO 146/81, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 118, DE 23/5/81.\
+    \ ALTERADO O NUMERO 8 PELO DESPACHO NORMATIVO, NUMERO 2/82, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 8, DE 11/1/82.\0\
+    E 11/1/82.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:401358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390402:por
+  label: "Alterado, na parte respeitante aos critérios específicos relativos ao provimento na carreira de técnicos de educação,\
+    \ do presente diploma, pelo DN.21/81.16.01.1981.MAS, DR.IS [13] de 16.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-1981-390402
+  date: '1981-01-16'
+- type: amended_by
+  target: pt:dre:552994:por
+  label: Alterado o n.º 8 pelo(a) Despacho Normativo n.º 2/82 - Diário da República n.º 8/1982, Série I de 1982-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/2-1982-552994
+  date: '1982-01-11'
+- type: cites
+  target: pt:dre:140366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:11Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/41/2008/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/41-2008-456236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68bfe201a54de61ccfdb04533c30553cfd0ab02f465c3310dad76b687d566fbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda6b34286ee62211b6a79df7cb89c306d8ea38b3d50f08ee8cb746e5cb2fc38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:53Z'
   warnings: []
   errors: []
 ---
@@ -86,12 +86,12 @@ validation:
 
 de 27 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea n), da Constituição, o seguinte:
 
 É designado membro do Conselho de Estado a Dr.ª Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Assinado em 25 de Junho de 2008.**
+Assinado em 25 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

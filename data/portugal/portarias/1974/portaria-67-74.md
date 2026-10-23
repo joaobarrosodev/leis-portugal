@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/67-1974-407104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56dea37d4054327318123a9661965ddb4770e5d658a72906e5549e230e4f36f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d9c70c6987bc24b1498a3f7c7be49cafc0d901980bcdb3ebc1fe017b9bf598f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:57Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +113,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Remunerações certas ao pessoal em exercício»:
+Artigo 3.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
@@ -103,7 +123,7 @@ N.º 3 «Pessoal da secretaria do Conselho Superior Judiciário do Ultramar» ..
 
 Despesas com o material:
 
-###### Artigo 6.º «Aquisições de utilização permanente»:
+Artigo 6.º «Aquisições de utilização permanente»:
 
 N.º 1 «Aquisição de móveis»:
 
@@ -111,17 +131,17 @@ Alínea b) «Mobiliário» ... 9533$00
 
 Diversos encargos:
 
-###### Artigo 13.º «Encargos das instalações»:
+Artigo 13.º «Encargos das instalações»:
 
 N.º 1 «Rendas de casa» ... 14000$00
 
-###### Artigo 14.º «Abono de família» ... 13200$00
+Artigo 14.º «Abono de família» ... 13200$00
 
-###### Artigo 16.º «Subsídio de renda de casa aos magistrados que prestam serviço no Conselho» ... 8667$00
+Artigo 16.º «Subsídio de renda de casa aos magistrados que prestam serviço no Conselho» ... 8667$00
 
-###### Artigo 19.º «Duplicação de vencimentos» ... 15661$00
+Artigo 19.º «Duplicação de vencimentos» ... 15661$00
 
-###### Artigo 19.º-A «Crédito especial aberto pela [Portaria n.º 339/73](https://diariodarepublica.pt/dr/detalhe/portaria/339-1973-422066), de 16 de Maio» ... 7217$00
+Artigo 19.º-A «Crédito especial aberto pela [Portaria n.º 339/73](https://diariodarepublica.pt/dr/detalhe/portaria/339-1973-422066), de 16 de Maio» ... 7217$00
 
 ... 91594$00
 
@@ -131,7 +151,7 @@ N.º 1 «Rendas de casa» ... 14000$00
 
 Despesas com o pessoal:
 
-###### Artigo 2.º «Remunerações acidentais»:
+Artigo 2.º «Remunerações acidentais»:
 
 N.º 1 «Gratificações».
 
@@ -139,25 +159,25 @@ Alínea b) «Remunerações ao pessoal menor pelos serviços extraordinários pr
 
 Alínea c) «Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 25000$00
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1 «Alimentação» ... 66000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2 «Aquisição de móveis»:
 
 Alínea f) «Assinaturas de publicações oficiais» ... 600$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3 «De móveis»:
 
 Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 20000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1 «Artigos de expediente, impressos, livros para escrituração, etc.» ... 20000$00
 
@@ -165,13 +185,13 @@ N.º 6 «Diversos não especificados, incluindo desenho, fotografia e filmagem d
 
 Pagamento de serviços:
 
-###### Artigo 9.º «Despesas de comunicações»:
+Artigo 9.º «Despesas de comunicações»:
 
 N.º 2 «Telefones» ... 10000$00
 
 Diversos encargos:
 
-###### Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 89000$00
+Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 89000$00
 
 ... 292600$00
 
@@ -181,21 +201,21 @@ tomando como contrapartida disponibilidades das seguintes verbas do mesmo orçam
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício» ... 20000$00
+Artigo 1.º «Remunerações certas ao pessoal em exercício» ... 20000$00
 
-###### Artigo 2.º «Remunerações acidentais»:
+Artigo 2.º «Remunerações acidentais»:
 
 N.º 1 «Gratificações»:
 
 Alínea a) «Nos termos dos n.os 5 e 6 do artigo 80.º, n.º 8 do artigo 91.º, n.º 2 do artigo 92.º, n.º 6 do artigo 97.º e artigo 215.º do [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 24 de Março» ... 5000$00
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 2 «Fardamentos e batas» ... 5000$00
 
 Despesas com o material:
 
-###### Artigo 5.º «Aquisição de utilização permanente»:
+Artigo 5.º «Aquisição de utilização permanente»:
 
 N.º 2 «Aquisição de móveis»:
 
@@ -205,7 +225,7 @@ Alínea c) «Mobiliário» ... 8000$00
 
 Alínea e) «Outros móveis» ... 22000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 2 «De semoventes»:
 
@@ -215,13 +235,13 @@ N.º 3 «De móveis»:
 
 Alínea b) «Mobiliário» ... 5000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 5 «Despesas com a publicação do Boletim Clínico e Estatístico do Hospital do Ultramar» ... 20000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 3 «Luz, aquecimento, água, lavagem e outras despesas» ... 80000$00
 
@@ -229,15 +249,15 @@ N.º 8 «Prémios aos dadores de sangue» ... 27000$00
 
 Diversos encargos:
 
-###### Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 28000$00
+Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 28000$00
 
-###### Artigo 15.º «Manutenção do Centro de Estudos Biológicos e Endocrinológicos» ... 20000$00
+Artigo 15.º «Manutenção do Centro de Estudos Biológicos e Endocrinológicos» ... 20000$00
 
-###### Artigo 18.º «Saldo orçamental» ... 11600$00
+Artigo 18.º «Saldo orçamental» ... 11600$00
 
-###### Artigo 18.º-A «Crédito especial aberto pela [Portaria n.º 306/73](https://diariodarepublica.pt/dr/detalhe/portaria/306-1973-422000), de 1 de Maio» ... 14000$00
+Artigo 18.º-A «Crédito especial aberto pela [Portaria n.º 306/73](https://diariodarepublica.pt/dr/detalhe/portaria/306-1973-422000), de 1 de Maio» ... 14000$00
 
-###### Artigo 18.º-C «Crédito especial aberto pela [Portaria n.º 625/73](https://diariodarepublica.pt/dr/detalhe/portaria/625-1973-413614), de 17 de Setembro» ... 10000$00
+Artigo 18.º-C «Crédito especial aberto pela [Portaria n.º 625/73](https://diariodarepublica.pt/dr/detalhe/portaria/625-1973-413614), de 17 de Setembro» ... 10000$00
 
 ... 29260000
 

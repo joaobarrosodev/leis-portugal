@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/564-1974-474348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e25a6ef50378c40cd25771ad20779febc18c54dfe88f1d03035df6a01baf765
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5375b6a8fa001aba7a0f88ae2005a312edc547cb764057cf78ce95c1e33d9615
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:25Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 1.º Reforce, com as importâncias que vão indicadas, as seguintes verbas da tabela de despesa extraordinária do orçamento geral daquele Estado para o ano económico de 1974:
 
-### Capítulo 12.º, artigo 1580.º «IV Plano de Fomento - Programa de execução para 1974»:
+Capítulo 12.º, artigo 1580.º «IV Plano de Fomento - Programa de execução para 1974»:
 
 5) Infra-estruturas de apoio o desenvolvimento rural ... 52500000$00
 
@@ -103,9 +107,9 @@ a) Transportes rodoviários ... 685829000$00
 
 2.º Utilize, para contrapartida dos reforços referidos no número anterior, disponibilidades das seguintes verbas do mesmo orçamento geral:
 
-### Capítulo 10.º, artigo 1574.º «Despesa ordinária - Encargos gerais - Saldo orçamental» ... 388079000$00
+Capítulo 10.º, artigo 1574.º «Despesa ordinária - Encargos gerais - Saldo orçamental» ... 388079000$00
 
-### Capítulo 12.º, artigo 1579.º, n.º 2), alínea n) «Despesa extraordinária - Diversos - Plano extraordinário de estradas» ... 350000000$00
+Capítulo 12.º, artigo 1579.º, n.º 2), alínea n) «Despesa extraordinária - Diversos - Plano extraordinário de estradas» ... 350000000$00
 
 ... 738079000$00
 

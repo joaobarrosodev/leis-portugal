@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16
   number: '137'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 16-(2) a 16-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13701/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39-a/2020/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6f32f7b77488d8b3b888e7b5479ab3dc016c000340dfd42f2745da48bd1e066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58bdeb27b531434bcbe401b2c38bfcd5c3075284222a7f5c9a5e65bacdf9a23c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
 subjects:
 - Acesso ao Desporto
 - Administração Central de Saúde
+- Agência de Avaliação e Acreditação do Ensino Superior
 - Aquisição de Equipamento
 - ÁREA Metropolitana
 - Assistência a Familiares
+- Bolsa de Estudos
 - Carreira de Investigação Científica
 - Centro de Apoio à Terceira Idade
 - Comunidade Intermunicipal
-- Agência de Avaliação e Acreditação do Ensino Superior
-- Política de Saúde
+- Doença
+- Doença Infecciosa
+- Ensino Básico
+- Ensino Superior
+- Epidemia
 - Integração de Trabalhadores
 - Modelo Experimental de Financiamento Centrado na Família para o Acesso a Creches
 - Passe Social
-- Doença Infecciosa
-- Epidemia
-- Serviço Público
-- Ensino Básico
+- Política de Saúde
 - Prorrogação de Prazo
-- Ensino Superior
-- Bolsa de Estudos
-- Doença
+- Serviço Público
 - Subsídio de Apoio Social
 - Transporte de Passageiros
 relationships:
@@ -93,6 +93,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2020/01/03/p/dre
   label: null
@@ -129,16 +135,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/82/2020/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/82/2020/03/29/p/dre
+- type: cites
+  target: pt:dre:127764896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130835147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131228426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132437525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133723695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:33Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +249,9 @@ Os artigos 9.º, 10.º, 13.º-B e 25.º-D do [Decreto-Lei n.º 10-A/2020](https:
 
 7 - [Revogado.]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - São trabalhadores de serviços essenciais os profissionais de saúde, das forças e serviços de segurança e de socorro, incluindo os bombeiros voluntários, e das forças armadas, os trabalhadores dos serviços públicos essenciais e de instituições ou equipamentos sociais de apoio aos idosos como lares, centros de dia e outros similares, de gestão e manutenção de infraestruturas essenciais.
 
@@ -217,7 +261,9 @@ Os artigos 9.º, 10.º, 13.º-B e 25.º-D do [Decreto-Lei n.º 10-A/2020](https:
 
 4 - [Revogado.]
 
-###### Artigo 13.º-B — [...]
+Artigo 13.º-B
+
+[...]
 
 1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência nos seguintes locais:
 
@@ -245,7 +291,9 @@ d) [...].
 
 9 - [...].
 
-###### Artigo 25.º-D — [...]
+Artigo 25.º-D
+
+[...]
 
 1 - Nas atividades das respostas sociais de creche, creche familiar e ama, bem como de centro de atividades ocupacionais, devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
 
@@ -269,7 +317,9 @@ Os artigos 2.º, 3.º, 5.º e 6.º do [Decreto-Lei n.º 14-C/2020](https://diari
 
 3 - As verbas disponibilizadas ao abrigo do presente decreto-lei são as que se encontram aprovadas na [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, na sua redação atual, para os programas e indemnizações compensatórias identificadas no artigo anterior.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -279,13 +329,17 @@ Os artigos 2.º, 3.º, 5.º e 6.º do [Decreto-Lei n.º 14-C/2020](https://diari
 
 4 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As compensações relativas à venda do passe 4_18@escola.tp, do passe sub23@superior.tp e do passe Social+ referentes ao segundo, terceiro e quarto trimestre de 2020 são pagas aos operadores de transporte com base no histórico de compensações dos meses homólogos de 2019.
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -325,7 +379,9 @@ Duração máxima das bolsas de investigação
 
 3 - A assunção de encargos decorrentes do n.º 1 fica condicionada à existência de dotação orçamental.
 
-###### Artigo 6.º-B — Atividades letivas no ensino superior
+Artigo 6.º-B
+
+Atividades letivas no ensino superior
 
 1 - As instituições de ensino superior apenas podem ministrar ciclos de estudo na modalidade em que foram acreditados e/ou registados, sem prejuízo do disposto no número seguinte.
 
@@ -355,12 +411,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de julho de 2020. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 15 de julho de 2020.**
+Promulgado em 15 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de julho de 2020.**
+Referendado em 15 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113402408

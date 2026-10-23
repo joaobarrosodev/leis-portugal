@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/355-1980-473676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0d6dcb42d3756e908a5c1f5adf5eea035e4144ced540320c74d5b22cd1dd0fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 129cb4d77b5333cab670e2f25b65422a70893a2a77b7441e1d3013a2ab26be8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Força Aérea
+- Gestão Orçamental
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:24Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +102,9 @@ Tendo em vista as disposições do artigo 10.º do [Decreto-Lei n.º 211/79](htt
 
 Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar contratos para a revisão e transformação de motores Turmo IVB, até ao montante de 152400000$00, correspondentes a 12700000 francos franceses, ao câmbio de 12$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Material da Força Aérea a celebrar contratos para a revisão e transformação de motores Turmo IVB, até ao montante de 152400000$00, correspondentes a 12700000 francos franceses, ao câmbio de 12$00.
 
-###### Art. 2.º - 1 - O encargo resultante da modificação a realizar, a que se refere o artigo anterior, não poderá, em cada ano, exceder as seguintes importâncias:
+Art. 2.º - 1 - O encargo resultante da modificação a realizar, a que se refere o artigo anterior, não poderá, em cada ano, exceder as seguintes importâncias:
 
 Em 1980 - 10668000$00, correspondentes a 889000 francos franceses;
 
@@ -107,6 +116,6 @@ Em 1982 - 76200000$00, correspondentes a 6350000 francos franceses.
 
 3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos sempre que a oscilação cambial o justifique.
 
-###### Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982, inscritos e a inscrever pelos montantes correspondentes.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982, inscritos e a inscrever pelos montantes correspondentes.
 
 Conselho da Revolução e Ministério das Finanças e do Plano, 30 de Abril de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

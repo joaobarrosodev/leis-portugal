@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29b7fe022799d6fc0b8c7bf4bb4c3f0c4c2fc3503ded5b06e43e9ed92982a1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 326d610927f2482b98415b6aef22af150f713991761a086da85c67790b9526c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Ministério da Agricultura Pescas e Alimentação
+- Quadro de Pessoal
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogados, a partir da mesma data, os artigos 13.º, 15.º, 16.º,\
+    \ 18.º, 22.º a 50.º e 52.º a 64.º e mapa iv, na parte que não respeita às carreiras de inspector vitivinícola, de técnico\
+    \ de verificação dos produtos da pesca e de verificador técnico, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de\
+    \ 11.07.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571222:por
+  label: "Revogado na parte aplicável o art. 51º pelo DEC LEI.142/90.04.05.1990.MAPA, DR.IS [102] de 04.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1990-571222
+  date: '1990-05-04'
 article_structure:
   article_count: 83
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:00Z'
   warnings: []
   errors: []
 ---
@@ -674,7 +757,7 @@ As alterações dos quadros de pessoal dos serviços e organismos do MAPA necess
 
 ###### Artigo 80.º — Apoio às associações ligadas aos sectores de actividade do Ministério
 
-**O Ministro da Agricultura, Pescas e Alimentação pode autorizar que o pessoal das carreiras técnica superior, técnica e técnico-profissional preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.**
+O Ministro da Agricultura, Pescas e Alimentação pode autorizar que o pessoal das carreiras técnica superior, técnica e técnico-profissional preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.
 
 ###### Artigo 81.º — Carreiras e categorias criadas e reestruturadas
 
@@ -692,37 +775,37 @@ Presidência do Conselho de Ministros, 8 de Maio de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Julho de 1989.**
+Promulgado em 19 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1989.**
+Referendado em 21 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Carreiras e categorias dos quadros de pessoal dos serviços e organismos do Ministério da Agricultura, Pescas e Alimentação a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
 
 MAPA II
 
 Categorias e carreiras a extinguir nos termos do n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
 
 MAPA III
 
 Transição do pessoal detentor das categorias indicadas na col. 1 para as categorias correspondentes na col. 2 constantes dos quadro próprios de cada serviço ou organismo do MAPA, de acordo com o enunciado nos artigos 73.º 74.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18400/32253250.pdf)
 
 MAPA IV
 
-## Anexo a que se refere o artigo 81.º
+Anexo a que se refere o artigo 81.º
 
 Conteúdos funcionais
 

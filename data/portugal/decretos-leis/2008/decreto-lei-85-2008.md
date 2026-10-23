@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10100/0296202963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2008/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2008-449187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd3c99654e1cd2eab716fff1677f0f6623a24e655754cb4b9e20bb140c33bb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3b7125b6d265ba4b88091f9bf3d5938cd0a76e2e2a1255fdf71940160d84c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Código dos Contratos Públicos
 - Concurso Público
+- Contratação Pública
 - Contrato de Concessão
 - Lisboa
 - Madrid
 - Parceria Público-Privada
-- Código dos Contratos Públicos
 - Rede Ferroviária
 - Rede Ferroviária Portuguesa de Alta Velocidade
-- Contratação Pública
 relationships:
 - type: cites
   target: celex:32002R2195
@@ -96,13 +96,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:35Z'
   warnings: []
   errors: []
 ---
@@ -153,15 +153,15 @@ O presente decreto-lei caduca com a entrada em vigor do Código dos Contratos P�
 
 Visto e aprovado em Conselho de Ministros de 27 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 12 de Maio de 2008.**
+Promulgado em 12 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Maio de 2008.**
+Referendado em 14 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Modelo de anúncio do concurso público
 

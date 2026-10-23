@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1984-385800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec8f76f998d4c527b4d3e7800bc20120fe0b92c199b11bd59b1f0526f992062c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 613b9ccba5d23aa4010abb47249a96830b1e21c04388c32c8d9570d8a84ea5d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alcácer do SAL
+- Domínio Privado do Estado
+- Domínio Público Hídrico
+- Equipamento Social
+relationships:
+- type: cites
+  target: pt:dre:306646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:39Z'
   warnings: []
   errors: []
 ---
@@ -95,22 +103,22 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É desafectado do domínio público marítimo e integrado no domínio privado do Estado o terreno com a área aproximada de 10500 m2 situado em Monte Novo da Palma, freguesia de Santa Maria do Castelo, concelho de Alcácer do Sal, com a localização e a delimitação constantes da planta anexa ao presente decreto e do qual faz parte integrante.
+Artigo 1.º É desafectado do domínio público marítimo e integrado no domínio privado do Estado o terreno com a área aproximada de 10500 m2 situado em Monte Novo da Palma, freguesia de Santa Maria do Castelo, concelho de Alcácer do Sal, com a localização e a delimitação constantes da planta anexa ao presente decreto e do qual faz parte integrante.
 
-###### Art. 2.º O terreno apenas poderá ser utilizado para fins de desenvolvimento urbano e implantação das necessárias infra-estruturas de apoio social, a promover pela Câmara Municipal de Alcácer do Sal mediante projectos devidamente aprovados.
+Art. 2.º O terreno apenas poderá ser utilizado para fins de desenvolvimento urbano e implantação das necessárias infra-estruturas de apoio social, a promover pela Câmara Municipal de Alcácer do Sal mediante projectos devidamente aprovados.
 
-###### Art. 3.º O terreno reverterá ao domínio público, em conformidade com o disposto no artigo 5.º do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, caso lhe seja dada utilização diferente da estabelecida no presente diploma.
+Art. 3.º O terreno reverterá ao domínio público, em conformidade com o disposto no artigo 5.º do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, caso lhe seja dada utilização diferente da estabelecida no presente diploma.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - João Rosado Correia.
 
-**Promulgado em 7 de Junho de 1984.**
+Promulgado em 7 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1984.**
+Referendado em 8 de Junho de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/16300/21772178.pdf))](https://files.diariodarepublica.pt/1s/1984/07/16300/21772178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/16300/21772178.pdf)

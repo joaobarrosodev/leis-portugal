@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11200/0197501977.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2010/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2010-335457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a19c0b4c35448cea52c3d4d06eeb6a656ecb5d9a53e4e8b00aea6cb9a7e8ea8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 608d1587c76317189f1feb5a35e485b6ae6d46027f246e60cd62532c2e3ca45d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Programa Estágios Profissionais na Administração Pública
-- Associação de Municípios
-- Financiamento
-- Juventude
-- Contrato de Formação
-- Definição de Competências
-- Direção Geral das Autarquias Locais
-- Administração Pública
-- Jovem
-- Bolsa de Emprego Público
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Publicitação
-- Criação de Emprego
-- Mercado de Emprego
-- Programa Estágios Profissionais na Administração Local
-- Internet
-- Primeiro Emprego
-- Desemprego
-- Estágio de Formação
-- Política de Emprego
 - Administração Local
-- Política de Juventude
-- Sector Empresarial Local
-- Avaliação do Pessoal
+- Administração Pública
+- Associação de Municípios
 - Autarquia Local
+- Avaliação do Pessoal
+- Bolsa de Emprego Público
+- Contrato de Formação
+- Criação de Emprego
+- Definição de Competências
+- Desemprego
+- Direção Geral das Autarquias Locais
+- Estágio de Formação
+- Financiamento
+- Habilitações Literárias
+- Internet
+- Jovem
+- Juventude
+- Mercado de Emprego
+- Política de Emprego
+- Política de Juventude
+- Primeiro Emprego
+- Programa Estágios Profissionais na Administração Local
+- Programa Estágios Profissionais na Administração Pública
+- Publicitação
+- Recrutamento de Pessoal
+- Sector Empresarial Local
 relationships:
 - type: amended_by
   target: pt:dre:122059234:por
@@ -112,16 +112,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:286079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58763440:por
+  label: Revogado, a partir de 11.11.2014, pelo(a) Decreto-Lei n.º 166/2014 - Diário da República n.º 215/2014, Série I de
+    2014-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2014-58763440
+  date: '2014-11-06'
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:41Z'
   warnings: []
   errors: []
 ---
@@ -296,12 +318,12 @@ b) A Portaria n.º 286/2008, de 11 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Valter Victorino Lemos.
 
-**Promulgado em 6 de Maio de 2010.**
+Promulgado em 6 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Maio de 2010.**
+Referendado em 10 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

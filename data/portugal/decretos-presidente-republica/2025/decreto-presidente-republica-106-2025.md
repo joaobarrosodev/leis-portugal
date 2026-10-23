@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/106/2025/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/106-2025-943768540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b049f9931fc727afd69f737be765be6fdbbd627e45086a11d082e028754e3555
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e04f86d74962397aa982056518c27b43ac4f13b4f2f8a1747a6faaaec7b794c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Comandante
-- União Europeia
-- Política de Defesa
-- Nomeação
 - Cooperação Militar
+- Exoneração
+- Nomeação
+- Política de Defesa
+- União Europeia
 relationships:
+- type: amends
+  target: pt:numero:decreto-presidente-republica:29/2025
+  label: Exonera, com efeitos a 30 de outubro de 2025, o nomeado pelo Decreto do Presidente da República n.º 29/2025, de 14
+    de março, Diário da República n.º 52/2025, Série I
+  source: null
+  date: '2025-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/5/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384876:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:26Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +114,7 @@ validation:
 
 de 3 de novembro
 
-**O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2009-492378), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), de 29 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2009-492378), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2014-56384876), de 29 de agosto, o seguinte:
 
 ###### Artigo 1.º
 
@@ -110,8 +124,10 @@ de 3 de novembro
 
 É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas, o Brigadeiro-General António José Fernandes de Oliveira para o cargo de Comandante do European Union Battle Group, com efeitos entre 31 de outubro de 2025 e 30 de junho de 2026.
 
-**Assinado em 30 de outubro de 2025.**
+Assinado em 30 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+119719121

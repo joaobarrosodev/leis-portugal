@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1971-644286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9de6c368bcc4a1e049fd91794a5587d4b7293336a7caeb26c1b688b9d0946958
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c9998a74a69b9bfc23ccd3b6b3a37744e7b9f65dc988dbee40ab31bc667410b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério das Comunicações
+- Ministério das Obras Públicas
+- OSMOP
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:381075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377571:por
+  label: "Alterados os artigos 4.º, 19.º, 22.º, 25.º, 30.º, 36.º e 39.º e revogado, a partir de 31 de Dezembro de 1978 o artigo\
+    \ 32.º do presente diploma, pela PORT.437/79.17.08.1979.MTC, DR.IS [189] de 17.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/437-1979-377571
+  date: '1979-08-17'
+- type: amended_by
+  target: pt:dre:472120:por
+  label: "Alterados os artigos 5.º, 6.º, 9.º, 11.º, 15.º, 16.º e 38.º pela PORT.441/80.25.07.1980.MHOP, DR.IS [170] de 25.07.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/441-1980-472120
+  date: '1980-07-25'
+- type: amended_by
+  target: pt:dre:567425:por
+  label: "Alterado os artigos 17.º e 19.º, aditado um parágrafo único ao artigo 3.º e revogada a alínea c) do artigo 8.º e\
+    \ o artigo 20.º do Regulamento aprovado pelo presente diploma, pela PORT.1047/81.12.12.1981.MHOPT, DR.IS [285] de 12.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1047-1981-567425
+  date: '1981-12-12'
+- type: amended_by
+  target: pt:dre:381075:por
+  label: "Dada nova redacção ao art. 5.º do Regulamento aprovado pelo presente diploma, pela PORT.624/84.22.08.1984.MES, DR.IS\
+    \ [194] de 22.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1984-381075
+  date: '1984-08-22'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445691:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:56Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +137,9 @@ Regualmento da Obra Social dos Ministérios das Obras Públicas e das Comunicaç
 
 ### CAPÍTULO I — Dos fins e âmbito
 
-###### Artigo 1.º A Obra Social dos Ministérios das Obras Públicas e das Comunicações (O. S. M. O. P. C.), criada pelo [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), de 6 de Abril, destina-se a auxiliar a satisfação de necessidades de ordem económica, social e cultural dos servidores dos Ministérios das Obras Públicas e das Comunicações que não estejam ainda abrangidos por organizações assistenciais afins, existentes em departamentos autónomos.
+Artigo 1.º A Obra Social dos Ministérios das Obras Públicas e das Comunicações (O. S. M. O. P. C.), criada pelo [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), de 6 de Abril, destina-se a auxiliar a satisfação de necessidades de ordem económica, social e cultural dos servidores dos Ministérios das Obras Públicas e das Comunicações que não estejam ainda abrangidos por organizações assistenciais afins, existentes em departamentos autónomos.
 
-###### Art. 2.º - 1. A actividade a desenvolver pela Obra Social com vista à realização dos fins próprios abrangerá, em especial, os seguintes campos de acção:
+Art. 2.º - 1. A actividade a desenvolver pela Obra Social com vista à realização dos fins próprios abrangerá, em especial, os seguintes campos de acção:
 
 A) Assistência médica e cirúrgica, através de um centro destinado a dar assistência própria ou completar os benefícios das actividades da Assistência na Doença aos Servidores Civis do Estado, compreendendo os seguintes domínios:
 
@@ -174,13 +215,13 @@ Auxílios em casos acidentais e de necessidade urgente, podendo revestir a forma
 
 2. O campo de acção da Obra Social poderá alargar-se a quaisquer outras actividades de reconhecido interesse para os beneficiários e agregados familiares, desde que tal seja autorizado por despacho conjunto dos Ministros das Obras Públicas e das Comunicações.
 
-###### Art. 3.º Para assegurar a concessão de benefícios ao maior número de funcionários, poderão ser criadas delegações e filiais da Obra Social onde tal se justifique.
+Art. 3.º Para assegurar a concessão de benefícios ao maior número de funcionários, poderão ser criadas delegações e filiais da Obra Social onde tal se justifique.
 
-###### Art. 4.º Para o bom desempenho das suas finalidades, a Obra Social poderá promover a colaboração com outras instituições similares, dentro ou fora dos Ministérios das Obras Públicas e das Comunicações, em realizações de interesse comum.
+Art. 4.º Para o bom desempenho das suas finalidades, a Obra Social poderá promover a colaboração com outras instituições similares, dentro ou fora dos Ministérios das Obras Públicas e das Comunicações, em realizações de interesse comum.
 
 ### CAPÍTULO II — Da administração
 
-###### Art. 5.º - 1. A direcção da Obra Social será constituída por um presidente, um vice-presidente e cinco vogais.
+Art. 5.º - 1. A direcção da Obra Social será constituída por um presidente, um vice-presidente e cinco vogais.
 
 2. O presidente e o vice-presidente serão escolhidos entre directores-gerais, subdirectores-gerais ou funcionários de categoria equivalente, sendo um do Ministério das Obras Públicas e outro do Ministério das Comunicações.
 
@@ -190,7 +231,7 @@ Auxílios em casos acidentais e de necessidade urgente, podendo revestir a forma
 
 5. A direcção poderá agregar a si consultores especializados no campo técnico-social, jurídico e contabilístico e o director clínico do Centro de Assistência Médica e Cirúrgica.
 
-###### Art. 6.º - 1. A direcção terá uma sessão ordinária por semana e as extraordinárias que forem convocadas pelo presidente.
+Art. 6.º - 1. A direcção terá uma sessão ordinária por semana e as extraordinárias que forem convocadas pelo presidente.
 
 2. As deliberações serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
@@ -198,7 +239,7 @@ Auxílios em casos acidentais e de necessidade urgente, podendo revestir a forma
 
 4. As sessões serão secretariadas por um vogal secretário, a designar pela direcção de entre os cinco vogais membros, correspondendo o período de exercício da função ao do mandato fixado nos termos do n.º 4 do artigo anterior.
 
-###### Art. 7.º Compete à direcção:
+Art. 7.º Compete à direcção:
 
 a) Fomentar as actividades da Obra Social em ordem a corresponder aos seus fins;
 
@@ -216,7 +257,7 @@ g) Zelar pelo cumprimento das leis, regulamentos e instruções aplicáveis à O
 
 h) Autorizar a admissão dos beneficiários e, bem assim, cancelar a inscrição ou suspendê-los nos termos deste Regulamento.
 
-###### Art. 8.º Compete especialmente ao presidente da direcção:
+Art. 8.º Compete especialmente ao presidente da direcção:
 
 a) Presidir às reuniões da direcção, orientando a ordem dos trabalhos;
 
@@ -230,9 +271,9 @@ e) Convocar o conselho consultivo a reunir extraordinàriamente sempre que tal s
 
 f) Apresentar a despacho ministerial todos os assuntos que careçam de resolução superior.
 
-###### Art. 9.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
+Art. 9.º Compete especialmente ao vice-presidente coadjuvar o presidente e substituí-lo nas suas faltas e impedimentos.
 
-###### Art. 10.º Aos vogais da direcção, exceptuado o vogal secretário, compete essencialmente:
+Art. 10.º Aos vogais da direcção, exceptuado o vogal secretário, compete essencialmente:
 
 a) Centralizar, estudar e informar os assuntos a seu cargo, respeitantes às actividades dos diversos pelouros da Obra Social;
 
@@ -240,11 +281,11 @@ b) Propor, nas reuniões, as medidas que considerem convenientes com vista à ef
 
 c) Superintender nos pelouros para que forem designados por despacho do presidente, orientando-os e assegurando o seu regular funcionamento.
 
-###### Art. 11.º - 1. O conselho consultivo será constituído pelo presidente do Conselho Superior de Obras Públicas, que presidirá, pelos directores-gerais dos Ministérios das Obras Públicas e das Comunicações e pelos presidentes da Junta Autónoma de Estradas e do Fundo de Fomento da Habitação, desde que não façam parte dos restantes órgãos de administração, sendo, neste caso, representados pelos seus substitutos legais.
+Art. 11.º - 1. O conselho consultivo será constituído pelo presidente do Conselho Superior de Obras Públicas, que presidirá, pelos directores-gerais dos Ministérios das Obras Públicas e das Comunicações e pelos presidentes da Junta Autónoma de Estradas e do Fundo de Fomento da Habitação, desde que não façam parte dos restantes órgãos de administração, sendo, neste caso, representados pelos seus substitutos legais.
 
 2. Às sessões do conselho deverão assistir o presidente da direcção, os vogais dos pelouros cujos assuntos sejam objecto de estudo e o director dos serviços da Obra Social.
 
-###### Art. 12.º - 1. O conselho consultivo reunirá sempre que o presidente o julgue conveniente ou por solicitação do presidente da direcção.
+Art. 12.º - 1. O conselho consultivo reunirá sempre que o presidente o julgue conveniente ou por solicitação do presidente da direcção.
 
 2. O conselho consultivo será, obrigatòriamente, ouvido sobre os seguintes assuntos:
 
@@ -258,11 +299,11 @@ d) Apreciação dos factos sobre que recaiam queixas ou reclamações dos benefi
 
 e) Interpretação dos regulamentos nos casos em que se suscitem dúvidas.
 
-###### Art. 13.º - 1. A comissão verificadora de contas será composta por três membros, um dos quais presidirá.
+Art. 13.º - 1. A comissão verificadora de contas será composta por três membros, um dos quais presidirá.
 
 2. Um dos membros da comissão, que deverá ser licenciado em Ciências Económicas e Financeiras, será o seu representante permanente nas reuniões da direcção, exercendo funções de fiscalização das receitas e despesas e da sua perfeita contabilização e elaborando, trimestralmente, um relatório.
 
-###### Art. 14.º A comissão verificadora de contas reunirá, pelo menos, uma vez por trimestre, competindo-lhe:
+Art. 14.º A comissão verificadora de contas reunirá, pelo menos, uma vez por trimestre, competindo-lhe:
 
 a) Fiscalizar a contabilidade da obra social;
 
@@ -272,19 +313,19 @@ c) Dar parecer sobre as contas de gerência;
 
 d) Quaisquer outras atribuições que venham a ser-lhe cometidas.
 
-###### Art. 15.º - 1. Os funcionários dos Ministérios das Obras Públicas e das Comunicações que compõem os órgãos de administração serão nomeados por despacho do Ministro respectivo.
+Art. 15.º - 1. Os funcionários dos Ministérios das Obras Públicas e das Comunicações que compõem os órgãos de administração serão nomeados por despacho do Ministro respectivo.
 
 2. As remunerações, gratificações ou senhas de presença respeitantes aos membros dos órgãos da administração serão fixadas por despacho conjunto dos Ministros das Obras Públicas e das Comunicações.
 
 3. Para obrigar a Obra Social são necessárias as assinaturas do presidente da direcção e do vogal secretário, sendo este, no caso de impedimento, substituído por outro dos vogais da direcção.
 
-###### Art. 16.º - 1. Compete ao director dos serviços da Obra Social promover a execução de todas as deliberações da direcção, informar sobre os assuntos que tenham de ser submetidos à apreciação desta e propor as medidas necessárias à melhoria e eficaz funcionamento dos serviços.
+Art. 16.º - 1. Compete ao director dos serviços da Obra Social promover a execução de todas as deliberações da direcção, informar sobre os assuntos que tenham de ser submetidos à apreciação desta e propor as medidas necessárias à melhoria e eficaz funcionamento dos serviços.
 
 2. O director dos serviços da Obra Social assistirá às reuniões da direcção sem, contudo, ter direito a voto.
 
 ### CAPÍTULO III — Dos órgãos executivos
 
-###### Art. 17.º A Obra Social terá como órgãos de execução os seguintes:
+Art. 17.º A Obra Social terá como órgãos de execução os seguintes:
 
 a) Pelouros;
 
@@ -294,7 +335,7 @@ b) Serviços administrativos, compreendendo:
 
 2) Serviço de contabilidade e tesouraria.
 
-###### Art. 18.º - 1. Os pelouros agruparão as actividades económicas e sociais previstas no artigo 2.º e serão, em princípio, as seguintes:
+Art. 18.º - 1. Os pelouros agruparão as actividades económicas e sociais previstas no artigo 2.º e serão, em princípio, as seguintes:
 
 a) Saúde e assistência;
 
@@ -308,7 +349,7 @@ e) Produtividade e ensino, recreação, desporto e cultura.
 
 2. A regulamentação de cada pelouro será submetida a despacho conjunto dos Ministros das Obras Públicas e das Comunicações.
 
-###### Art. 19.º Aos serviços administrativos compete:
+Art. 19.º Aos serviços administrativos compete:
 
 1) Pelo serviço de expediente, pessoal e estatística:
 
@@ -360,7 +401,7 @@ k) Proceder dentro dos prazos legais à liquidação dos encargos certos;
 
 l) Executar quaisquer outros serviços de contabilidade e tesouraria que lhe sejam confiados.
 
-###### Art. 20.º Ao chefe dos serviços administrativos incumbe a coordenação dos serviços de expediente, pessoal e estatística e de contabilidade e tesouraria, e em especial:
+Art. 20.º Ao chefe dos serviços administrativos incumbe a coordenação dos serviços de expediente, pessoal e estatística e de contabilidade e tesouraria, e em especial:
 
 a) Submeter a despacho do director dos serviços da Obra Social a correspondência a expedir o todos os assuntos pendentes que careçam de resolução superior;
 
@@ -370,13 +411,13 @@ c) Propor as medidas que reputar convenientes ao aperfeiçoamento dos serviços;
 
 d) Zelar pelo cumprimento das ordens e das instruções recebidas.
 
-###### Art. 21.º Para além do pessoal previsto no artigo 8.º do [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), de 6 de Abril, a Obra Social, para a boa execução dos seus fins, será dotada de pessoal admitido nas condições a fixar por despacho dos Ministros das Obras Públicas e das Comunicações.
+Art. 21.º Para além do pessoal previsto no artigo 8.º do [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), de 6 de Abril, a Obra Social, para a boa execução dos seus fins, será dotada de pessoal admitido nas condições a fixar por despacho dos Ministros das Obras Públicas e das Comunicações.
 
 ### CAPÍTULO IV — Dos beneficiários
 
 a) População abrangida
 
-###### Art. 22.º - 1. Podem ser beneficiários da Obra Social todos os servidores dos Ministérios das Obras Públicas e das Comunicações que pertençam a qualquer das seguintes categorias:
+Art. 22.º - 1. Podem ser beneficiários da Obra Social todos os servidores dos Ministérios das Obras Públicas e das Comunicações que pertençam a qualquer das seguintes categorias:
 
 a) Servidores que exerçam funções de carácter permanente, seja qual for a forma de provimento;
 
@@ -394,25 +435,25 @@ e) Servidores em situações especiais, a apreciar casuìsticamente, dependendo 
 
 b) Direitos e deveres
 
-###### Art. 23.º São direitos dos beneficiários:
+Art. 23.º São direitos dos beneficiários:
 
 a) Usufruir das regalias da Obra Social;
 
 b) Formular, por escrito, à direcção, sugestões com vista a melhorar os serviços.
 
-###### Art. 24.º O direito às regalias da Obra Social exige inscrição prévia dos pretendentes a beneficiários, quer dos próprios servidores, quer dos seus familiares, significando esse acto a aceitação das vantagens e das obrigações inerentes.
+Art. 24.º O direito às regalias da Obra Social exige inscrição prévia dos pretendentes a beneficiários, quer dos próprios servidores, quer dos seus familiares, significando esse acto a aceitação das vantagens e das obrigações inerentes.
 
-###### Art. 25.º Os servidores que pretendam inscrever-se devem apresentar a sua declaração, por escrito, no serviço de que dependem, a qual será remetida à Obra Social acompanhada de informação que permita avaliar se o pretendente satisfaz as condições de admissão.
+Art. 25.º Os servidores que pretendam inscrever-se devem apresentar a sua declaração, por escrito, no serviço de que dependem, a qual será remetida à Obra Social acompanhada de informação que permita avaliar se o pretendente satisfaz as condições de admissão.
 
-###### Art. 26.º A prova de que os familiares estão a cargo do servidor faz-se por apresentação de atestado da junta de freguesia onde o agregado familiar reside, ou por declaração prestada por dois funcionários do departamento onde o interessado presta serviço, de categoria igual ou superior à sua.
+Art. 26.º A prova de que os familiares estão a cargo do servidor faz-se por apresentação de atestado da junta de freguesia onde o agregado familiar reside, ou por declaração prestada por dois funcionários do departamento onde o interessado presta serviço, de categoria igual ou superior à sua.
 
-###### Art. 27.º - 1. A inscrição na Obra Social é gratuita.
+Art. 27.º - 1. A inscrição na Obra Social é gratuita.
 
 2. A qualidade de beneficiários provar-se-á por cartão de identidade de modelo a aprovar pela direcção.
 
-###### Art. 28.º Os servidores inscritos ficam sujeitos à acção disciplinar da Obra Social pelos actos praticados como beneficiários, sem prejuízo da responsabilidade disciplinar que possam ter contraído segundo o estatuto disciplinar dos departamentos a que pertençam.
+Art. 28.º Os servidores inscritos ficam sujeitos à acção disciplinar da Obra Social pelos actos praticados como beneficiários, sem prejuízo da responsabilidade disciplinar que possam ter contraído segundo o estatuto disciplinar dos departamentos a que pertençam.
 
-###### Art. 29.º - 1. Os direitos dos beneficiários poderão ser suspensos de um mês até ao ano, conforme a gravidade da infracção, se outra penalidade não for aplicável, quando:
+Art. 29.º - 1. Os direitos dos beneficiários poderão ser suspensos de um mês até ao ano, conforme a gravidade da infracção, se outra penalidade não for aplicável, quando:
 
 a) Infringirem os seus deveres para com a Obra Social ou os seus órgãos;
 
@@ -420,7 +461,7 @@ b) Cedam a favor de terceiros quaisquer vantagens ou auxílios que lhes sejam co
 
 2. A penalidade aplicada abrangerá todo o agregado familiar.
 
-###### Art. 30.º - 1. Perdem os direitos aos benefícios da Obra Social os servidores nela inscritos que solicitem a anulação da inscrição, deixem de prestar serviço nos Ministérios das Obras Públicas e das Comunicações, por exoneração, dispensa ou demissão, ou passem à situação de inactividade fora do quadro por outra razão que não a de doença, e ainda:
+Art. 30.º - 1. Perdem os direitos aos benefícios da Obra Social os servidores nela inscritos que solicitem a anulação da inscrição, deixem de prestar serviço nos Ministérios das Obras Públicas e das Comunicações, por exoneração, dispensa ou demissão, ou passem à situação de inactividade fora do quadro por outra razão que não a de doença, e ainda:
 
 a) Não paguem com regularidade os seus débitos à Obra Social;
 
@@ -430,11 +471,11 @@ b) Façam indevido uso do cartão de identidade que lhes é fornecido.
 
 3. A perda de direitos referida nos números anteriores abrange os membros do agregado familiar.
 
-###### Art. 31.º A prestação de falsas declarações por parte dos beneficiários pode implicar, a par de responsabilidade disciplinar e criminal que lhe couber, a indemnização total das importâncias que, em consequência, tenham indevidamente gastas.
+Art. 31.º A prestação de falsas declarações por parte dos beneficiários pode implicar, a par de responsabilidade disciplinar e criminal que lhe couber, a indemnização total das importâncias que, em consequência, tenham indevidamente gastas.
 
 c) Quotizações
 
-###### Art. 32.º - 1. Os beneficiários contribuirão para os encargos da Obra Social com as seguintes quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969:
+Art. 32.º - 1. Os beneficiários contribuirão para os encargos da Obra Social com as seguintes quotizações mensais, de harmonia com os grupos de vencimentos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969:
 
 ... Quotizações mensais
 
@@ -456,31 +497,31 @@ Acima de 9400$00 ... 20$00
 
 d) Pagamento ou gratuitidade dos serviços prestados
 
-###### Art. 33.º - 1. Os serviços prestados pela Obra Social serão gratuitos ou suportados, em regime de comparticipação de despesas, entre a Obra e os próprios beneficiários.
+Art. 33.º - 1. Os serviços prestados pela Obra Social serão gratuitos ou suportados, em regime de comparticipação de despesas, entre a Obra e os próprios beneficiários.
 
 2. As percentagens de comparticipação serão variáveis em função do vencimento dos beneficiários e do grau de parentesco dos seus familiares, conforme tabelas a aprovar por despacho dos Ministros das Obras Públicas e das Comunicações para cada uma das modalidades de assistência.
 
 3. No que se refere aos familiares, pode ainda ter-se em conta o rendimento do agregado familiar, mormente o contributo com que o inscrito para ele concorre.
 
-###### Art. 34.º - 1. Se o montante de comparticipação atingir importância que exceda a possibilidade de pagamento por parte do devedor, admitir-se-á o pagamento em fracções mensais até aos limites estabelecidos em tabela a aprovar por despacho dos Ministros das Obras Públicas e das Comunicações para as diversas categorias de servidores.
+Art. 34.º - 1. Se o montante de comparticipação atingir importância que exceda a possibilidade de pagamento por parte do devedor, admitir-se-á o pagamento em fracções mensais até aos limites estabelecidos em tabela a aprovar por despacho dos Ministros das Obras Públicas e das Comunicações para as diversas categorias de servidores.
 
 2. Se o saldo em dívida exceder os limites fixados na tabela referida no número anterior, o excedente será pago a pronto, e só em situações de reconhecida urgência poderão ser prestados serviços a crédito.
 
 3. O pagamento de mensalidades de habitação, do abastecimento de produtos alimentares ou outros não deve, em regra, ser fraccionado.
 
-###### Art. 35.º - 1. O pagamento das comparticipações pelos beneficiários será feito, normalmente, por dedução dos respectivos vencimentos de uma só vez ou em fracções, conforme o seu montante, de acordo com relações a processar na Obra Social e a enviar aos serviços de que os servidores dependem, que promoverão, por sua vez, as entregas das importâncias descontadas na tesouraria da Obra Social.
+Art. 35.º - 1. O pagamento das comparticipações pelos beneficiários será feito, normalmente, por dedução dos respectivos vencimentos de uma só vez ou em fracções, conforme o seu montante, de acordo com relações a processar na Obra Social e a enviar aos serviços de que os servidores dependem, que promoverão, por sua vez, as entregas das importâncias descontadas na tesouraria da Obra Social.
 
 2. No caso de servidores aposentados ou noutras situações em que as deduções se não possam efectivar, as entregas das prestações terão de ser efectuadas directamente pelos próprios na tesouraria da Obra Social.
 
-###### Art. 36.º Os pedidos de exoneração, licença ilimitada e licença sem vencimento dos servidores inscritos como beneficiários só deverão ser deferidos perante informação da Obra Social negativa de qualquer débito do requerente, ou a apresentação de garantia considerada bastante.
+Art. 36.º Os pedidos de exoneração, licença ilimitada e licença sem vencimento dos servidores inscritos como beneficiários só deverão ser deferidos perante informação da Obra Social negativa de qualquer débito do requerente, ou a apresentação de garantia considerada bastante.
 
-###### Art. 37.º A impossibilidade de cobrança de dívidas provenientes de prestações em atraso, ou saldos em dívida não satisfeitos directamente pelos interessados nos prazos que lhes sejam marcados, dá lugar à cobrança coerciva através dos competentes juízos fiscais, servindo de base à execução fiscal uma certidão passada pela Obra Social.
+Art. 37.º A impossibilidade de cobrança de dívidas provenientes de prestações em atraso, ou saldos em dívida não satisfeitos directamente pelos interessados nos prazos que lhes sejam marcados, dá lugar à cobrança coerciva através dos competentes juízos fiscais, servindo de base à execução fiscal uma certidão passada pela Obra Social.
 
 ### CAPÍTULO V — Da gerência dos meios financeiros
 
-###### Art. 38.º As receitas e despesas serão, em regra, movimentadas por meio de cheques assinados pelo presidente da direcção e pelo vogal secretário ou, no impedimento deste, por outro dos vogais da direcção.
+Art. 38.º As receitas e despesas serão, em regra, movimentadas por meio de cheques assinados pelo presidente da direcção e pelo vogal secretário ou, no impedimento deste, por outro dos vogais da direcção.
 
-###### Art. 39.º - 1. A competência para a autorização de despesas, para a realização de concursos públicos ou particulares e para a elaboração de contratos será fixada em despacho dos Ministros das Obras Públicas e das Comunicações.
+Art. 39.º - 1. A competência para a autorização de despesas, para a realização de concursos públicos ou particulares e para a elaboração de contratos será fixada em despacho dos Ministros das Obras Públicas e das Comunicações.
 
 2. Dependem sempre de despacho ministerial:
 
@@ -494,12 +535,12 @@ d) Os contratos de arrendamento para instalação dos serviços.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 40.º As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho conjunto dos Ministros das Obras Públicas e das Comunicações, sob proposta da direcção.
+Art. 40.º As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho conjunto dos Ministros das Obras Públicas e das Comunicações, sob proposta da direcção.
 
-###### Art. 41.º Este Regulamento entra em vigor no dia 1 de Maio de 1971 e revoga os seguintes regulamentos:
+Art. 41.º Este Regulamento entra em vigor no dia 1 de Maio de 1971 e revoga os seguintes regulamentos:
 
 a) Regulamento do Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, aprovado por portaria de 2 de Março de 1967, publicada no Diário do Governo, 2.ª série, de 13 de Março de 1967;
 
 b) Regulamento Geral dos Serviços Sociais do Ministério das Comunicações, aprovado pela [Portaria n.º 24510](https://diariodarepublica.pt/dr/detalhe/portaria/24510-1969-213239), de 31 de Dezembro de 1969.
 
-**O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas e das Comunicações, Rui Alves da Silva Sanches.

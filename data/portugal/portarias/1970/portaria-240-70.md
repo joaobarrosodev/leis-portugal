@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/240-1970-142285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10265f9892c3c1df380395fb03f6df2377460bd36c28036114d958e2332c710b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d162e8533eb3d6a90045cd4af6007cc5ab8eee7ddf24e2af96f4dc104645214a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527775:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:20Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +118,13 @@ REGULAMENTO DO INTERNATO MÉDICO
 
 ### CAPÍTULO I — Da estrutura e funcionamento do internato médico em geral
 
-###### Artigo 1.º - 1. O internato médico rege-se pelo disposto no Estatuto Hospitalar e Regulamento Geral dos Hospitais, ambos de 27 de Abril de 1968, [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, e pelo presente Regulamento.
+Artigo 1.º - 1. O internato médico rege-se pelo disposto no Estatuto Hospitalar e Regulamento Geral dos Hospitais, ambos de 27 de Abril de 1968, [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, e pelo presente Regulamento.
 
 2. Este Regulamento aplicar-se-á a todos os estabelecimentos e serviços hospitalares onde for autorizado o internato médico.
 
-###### Art. 2.º O internato médico funciona como processo de aperfeiçoamento pós-escolar e terá como objectivo proporcionar a todos os candidatos a ele admitidos idênticas possibilidades de aperfeiçoamento e valorização profissional, seja qual for o estabelecimento hospitalar ou serviço onde trabalhem.
+Art. 2.º O internato médico funciona como processo de aperfeiçoamento pós-escolar e terá como objectivo proporcionar a todos os candidatos a ele admitidos idênticas possibilidades de aperfeiçoamento e valorização profissional, seja qual for o estabelecimento hospitalar ou serviço onde trabalhem.
 
-###### Art. 3.º - 1. Em cada hospital ou serviço onde funcionar o internato médico, incumbe aos órgãos de direcção técnica velar por que se atinjam os objectivos indicados no artigo anterior.
+Art. 3.º - 1. Em cada hospital ou serviço onde funcionar o internato médico, incumbe aos órgãos de direcção técnica velar por que se atinjam os objectivos indicados no artigo anterior.
 
 2. Em cada ano, o director clínico promoverá, pelo menos, uma reunião do conselho técnico e outra da comissão médica, com os representantes dos internos previstos no artigo 49.º, n.º 3, deste Regulamento para apreciação do funcionamento do internato médico e das medidas a tomar ou a propor superiormente, com vista à sua melhoria.
 
@@ -116,17 +132,17 @@ REGULAMENTO DO INTERNATO MÉDICO
 
 4. Ao chefe do internato médico de cada um dos estabelecimentos hospitalares incumbe dar execução às orientações definidas, quer pelos órgãos de direcção técnica do próprio estabelecimento hospitalar, quer pelo Conselho Nacional do Internato Médico.
 
-###### Art. 4.º O internato médico tem dois períodos:
+Art. 4.º O internato médico tem dois períodos:
 
 a) O geral, com a duração de dois anos;
 
 b) O complementar, com a duração de três anos.
 
-###### Art. 5.º - 1. O internato geral destina-se ao aperfeiçoamento clínico geral, nos seus aspectos preventivo, curativo e de reabilitação, bem como à preparação elementar em saúde pública.
+Art. 5.º - 1. O internato geral destina-se ao aperfeiçoamento clínico geral, nos seus aspectos preventivo, curativo e de reabilitação, bem como à preparação elementar em saúde pública.
 
 2. O internato complementar visa à preparação de médicos diferenciados e especialistas nos diferentes ramos de medicina.
 
-###### Art. 6.º - 1. O internato geral funciona nos hospitais centrais gerais, podendo ser autorizado nos estabelecimentos hospitalares regionais gerais, caso a caso, mediante despacho do Ministro da Saúde e Assistência.
+Art. 6.º - 1. O internato geral funciona nos hospitais centrais gerais, podendo ser autorizado nos estabelecimentos hospitalares regionais gerais, caso a caso, mediante despacho do Ministro da Saúde e Assistência.
 
 2. O Conselho Nacional do Internato Médico definirá as condições a que devem obedecer os hospitais regionais para o funcionamento do internato geral.
 
@@ -134,11 +150,11 @@ b) O complementar, com a duração de três anos.
 
 4. O internato complementar funciona nos hospitais centrais gerais, podendo igualmente ser autorizado nos estabelecimentos hospitalares centrais especializados, para a respectiva especialidade, observando-se o disposto nos n.os 1 e 2.
 
-###### Art. 7.º - 1. A admissão aos internatos geral e complementar é feita por concurso documental, nos termos dos disposto no n.º 3 do artigo 43.º do Regulamento Geral dos Hospitais, de 27 de Abril de 1968, e artigo 3.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 7.º - 1. A admissão aos internatos geral e complementar é feita por concurso documental, nos termos dos disposto no n.º 3 do artigo 43.º do Regulamento Geral dos Hospitais, de 27 de Abril de 1968, e artigo 3.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
 2. O aproveitamento obtido nos internatos será avaliado em exames finais.
 
-###### Art. 8.º - 1. Em cada estabelecimento hospitalar e serviço onde funcionar internato médico, deverá elaborar-se anualmente um plano geral das actividades com vista ao aperfeiçoamento profissional dos internos.
+Art. 8.º - 1. Em cada estabelecimento hospitalar e serviço onde funcionar internato médico, deverá elaborar-se anualmente um plano geral das actividades com vista ao aperfeiçoamento profissional dos internos.
 
 2. Esse plano incluirá, entre outras, as seguintes actividades:
 
@@ -148,7 +164,7 @@ b) Sessões e visitas de estudo;
 
 c) Elaboração e discussão de trabalhos sobre assuntos médicos e de saúde pública.
 
-###### Art. 9.º - 1. O aproveitamento profissional dos internos será avaliado e registado anualmente, e também sempre que sejam transferidos do serviço onde trabalhem.
+Art. 9.º - 1. O aproveitamento profissional dos internos será avaliado e registado anualmente, e também sempre que sejam transferidos do serviço onde trabalhem.
 
 2. A avaliação desse aproveitamento compete ao director do serviço frequentado pelos internos, ouvidos os assistentes e graduados respectivos, e será feita em reunião conjunta com o chefe do internato médico.
 
@@ -164,9 +180,9 @@ Insuficiente.
 
 4. O Conselho Nacional do Internato Médico estabelecerá as normas em que se baseia a classificação.
 
-###### Art. 10.º Dentro de cada período do internato médico, a passagem ao ano imediato e a admissão a exame final dependem da obtenção de classificação não inferior a Suficiente.
+Art. 10.º Dentro de cada período do internato médico, a passagem ao ano imediato e a admissão a exame final dependem da obtenção de classificação não inferior a Suficiente.
 
-###### Art. 11.º - 1. É permitida a repetição do ano ao interno que não tiver obtido passagem ao ano imediato ou admissão ao exame final do período que frequentava.
+Art. 11.º - 1. É permitida a repetição do ano ao interno que não tiver obtido passagem ao ano imediato ou admissão ao exame final do período que frequentava.
 
 2. Se a perda da frequência se verificar por ter sido excedido o limite de faltas permitido no artigo 18.º, n.º 2, o interno repetirá o ano de internato perdido ou retomará a sua frequência no ponto em que a interrompeu, conforme for determinado em despacho da Direcção-Geral dos Hospitais exarado sobre requerimento do interessado, procedendo parecer da chefia do internato médico do estabelecimento.
 
@@ -178,17 +194,17 @@ Insuficiente.
 
 6. Depois de o interno ter terminado com aproveitamento um internato complementar, apenas lhe será autorizada uma vez a admissão e frequência de novo internato complementar.
 
-###### Art. 12.º - 1. A repetição do ano de internato, prevista no artigo anterior, deverá fazer-se no ano imediatamente seguinte àquele em que o interno não obteve passagem de ano ou foi excluído de exame final.
+Art. 12.º - 1. A repetição do ano de internato, prevista no artigo anterior, deverá fazer-se no ano imediatamente seguinte àquele em que o interno não obteve passagem de ano ou foi excluído de exame final.
 
 2. Se por motivo de força maior ou impedimento por doença, o interno não puder repetir o ano dentro do prazo fixado no número anterior, poderá fazê-lo mais tarde, mediante despacho do director-geral dos Hospitais sobre requerimento devidamente fundamentado.
 
-###### Art. 13.º - 1. É aplicável, para efeitos de internato médico, o disposto no artigo 50.º do Regulamento Geral dos Hospitais sobre a equiparação da preparação adquirida em serviços estrangeiros por médicos portugueses.
+Art. 13.º - 1. É aplicável, para efeitos de internato médico, o disposto no artigo 50.º do Regulamento Geral dos Hospitais sobre a equiparação da preparação adquirida em serviços estrangeiros por médicos portugueses.
 
 2. Mediante parecer favorável do Conselho Nacional do Internato Médico, poderá também ser concedida equiparação à frequência do internato médico a estágios realizados em serviços médicos nacionais.
 
-###### Art. 14.º No final de cada ano, o chefe do internato médico promoverá a afixação de listas com indicação dos internos que obtiveram passagem de ano ou admissão a exame final, incluindo os médicos que tiverem requerido exame, nos termos das disposições transitórias do presente Regulamento.
+Art. 14.º No final de cada ano, o chefe do internato médico promoverá a afixação de listas com indicação dos internos que obtiveram passagem de ano ou admissão a exame final, incluindo os médicos que tiverem requerido exame, nos termos das disposições transitórias do presente Regulamento.
 
-###### Art. 15.º - 1. Para cada um dos médicos internos haverá, para além do processo individual de funcionário, um processo individual, no qual estarão arquivados todos os elementos relativos ao seu aproveitamento profissional e respeitantes à sua carreira médica como interno.
+Art. 15.º - 1. Para cada um dos médicos internos haverá, para além do processo individual de funcionário, um processo individual, no qual estarão arquivados todos os elementos relativos ao seu aproveitamento profissional e respeitantes à sua carreira médica como interno.
 
 2. Este processo acompanhará o interno sempre que este transite de estabelecimento.
 
@@ -196,13 +212,13 @@ Insuficiente.
 
 ### CAPÍTULO II — Do regime jurídico dos internos
 
-###### Art. 16.º - 1. O regime jurídico aplicável aos internos que frequentam o internato médico consta do Estatuto Hospitalar, do Regulamento Geral dos Hospitais, do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, e do presente Regulamento.
+Art. 16.º - 1. O regime jurídico aplicável aos internos que frequentam o internato médico consta do Estatuto Hospitalar, do Regulamento Geral dos Hospitais, do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, e do presente Regulamento.
 
 2. Quando chamados à prestação de serviço militar obrigatório na qualidade de oficiais médicos dos quadros de complemento das forças armadas, aplicar-se-ão aos médicos internos as disposições da lei especial em vigor.
 
 3. O provimento dos internos é feito de acordo com o disposto no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, com excepção dos abrangidos pelo [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
-###### Art. 17.º - 1. Em principio, cada um dos períodos do internato médico deverá ser concluído no estabelecimento hospitalar onde foi iniciado.
+Art. 17.º - 1. Em principio, cada um dos períodos do internato médico deverá ser concluído no estabelecimento hospitalar onde foi iniciado.
 
 2. Em circunstâncias especiais, precedendo parecer favorável da direcção clínica dos estabelecimentos interessados e ouvidos os respectivos chefes do internato médico. podem os internos ser autorizados a completar um período de internato, não inferior a seis meses, em hospital diferente daquele onde foi iniciado.
 
@@ -212,7 +228,7 @@ Insuficiente.
 
 5. Em caso de deferimento, toda a documentação referente a esse interno é transferida para o estabelecimento onde prosseguir o internato.
 
-###### Art. 18.º - 1. O regime de faltas e licenças dos internos é o aplicável aos servidores civis do Estado.
+Art. 18.º - 1. O regime de faltas e licenças dos internos é o aplicável aos servidores civis do Estado.
 
 2. No que respeita à duração de licenças e faltas autorizadas aos internos, é fixado, nos termos do artigo 66.º, n.º 2, do Estatuto Hospitalar, o limite máximo de sessenta faltas em cada ano de internato, incluindo as resultantes de licença.
 
@@ -228,11 +244,11 @@ Insuficiente.
 
 #### SECÇÃO I — Do internato geral
 
-###### Art. 19.º - 1. Podem concorrer ao internato geral os licenciados em Medicina pelas Universidades portuguesas, bem como, nos termos do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, os que tiverem obtido aprovação em todas as disciplinas do curso médico-cirúrgico das Faculdades de Medicina portuguesas, enquanto vigorar aquele regime.
+Art. 19.º - 1. Podem concorrer ao internato geral os licenciados em Medicina pelas Universidades portuguesas, bem como, nos termos do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969, os que tiverem obtido aprovação em todas as disciplinas do curso médico-cirúrgico das Faculdades de Medicina portuguesas, enquanto vigorar aquele regime.
 
 2. O número de lugares a abrir anualmente em cada um dos hospitais onde funcionar o internato geral será fixado em despacho ministerial, ouvido o Conselho Nacional do Internato Médico, nos termos legais.
 
-###### Art. 20.º - 1. O concurso de admissão ao internato geral é documental e será aberto perante a Direcção-Geral dos Hospitais, durante a primeira quinzena de Novembro, mediante publicação do respectivo aviso no Diário do Governo.
+Art. 20.º - 1. O concurso de admissão ao internato geral é documental e será aberto perante a Direcção-Geral dos Hospitais, durante a primeira quinzena de Novembro, mediante publicação do respectivo aviso no Diário do Governo.
 
 2. O requerimento de admissão ao concurso deve conter, além da identificação completa do candidato e sua residência, data do nascimento, ano escolar da licenciatura ou da conclusão da parte escolar do curso médico-cirúrgico e a ordem de preferência dos hospitais onde deseja frequentar o internato geral.
 
@@ -240,7 +256,7 @@ Insuficiente.
 
 4. O prazo a que se refere o n.º 1 do presente artigo é diferido até à véspera da data marcada para reunião do júri do concurso, em relação aos candidatos que, por impedimento resultante da prestação de serviço militar obrigatório, não puderam entregar o requerimento de admissão. Neste caso, o requerimento será entregue na Direcção-Geral dos Hospitais, em Lisboa.
 
-###### Art. 21.º - 1. No dia seguinte àquele em que terminar o prazo de abertura do concurso, cada hospital e a Direcção-Geral dos Hospitais afixarão a lista provisória dos candidatos.
+Art. 21.º - 1. No dia seguinte àquele em que terminar o prazo de abertura do concurso, cada hospital e a Direcção-Geral dos Hospitais afixarão a lista provisória dos candidatos.
 
 2. Durante os dois dias seguintes, os interessados poderão impugnar a lista. Verificando-se o fundamento da reclamação, será a mesma rectificada.
 
@@ -248,7 +264,7 @@ Insuficiente.
 
 4. Decididas as eventuais reclamações e efectuada a reunião do júri do concurso, a Direcção-Geral publicará, mediante afixação nos hospitais interessados, a lista definitiva dos candidatos admitidos e sua distribuição pelos diversos hospitais, de acordo com a preferência declarada pelos requerentes e com observância das regras constantes do artigo seguinte.
 
-###### Art. 22.º - 1. É assegurada a admissão a todos os candidatos que se encontrem nas condições referidas na segunda parte do n.º 1 do artigo 20.º, enquanto vigorar o regime actual.
+Art. 22.º - 1. É assegurada a admissão a todos os candidatos que se encontrem nas condições referidas na segunda parte do n.º 1 do artigo 20.º, enquanto vigorar o regime actual.
 
 2. Para efeitos de distribuição, os candidatos serão ordenados pela ordem de prioridade a seguir indicada, excluindo cada uma delas as seguintes:
 
@@ -260,17 +276,17 @@ Insuficiente.
 
 3. O tempo de prestação de serviço militar obrigatório não prejudicará os candidatos que dele fizerem prova no apuramento da 1.ª e 3.ª prioridades do número anterior.
 
-###### Art. 23.º - 1. O aviso que publicar a distribuição dos candidatos pelos hospitais conterá também a indicação do dia em que os novos internos iniciam funções.
+Art. 23.º - 1. O aviso que publicar a distribuição dos candidatos pelos hospitais conterá também a indicação do dia em que os novos internos iniciam funções.
 
 2. Até esse dia, os licenciados em Medicina admitidos à frequência do internato geral devem completar a documentação que lhes for exigida por lei.
 
 3. O internato geral terá início em todos os estabelecimentos hospitalares onde funcione no primeiro dia útil do mês de Janeiro de cada ano.
 
-###### Art. 24.º - 1. O exame final do internato geral é constituído por uma prova prática de clínica, seguida de uma prova teórica, escrita, de medicina e cirurgia gerais.
+Art. 24.º - 1. O exame final do internato geral é constituído por uma prova prática de clínica, seguida de uma prova teórica, escrita, de medicina e cirurgia gerais.
 
 2. Ambas as provas são eliminatórias, devendo estar concluídas em todos os hospitais até ao dia 31 de Outubro de cada ano.
 
-###### Art. 25.º - 1. A prova prática de clínica consta da observação de dois doentes, um de medicina e outro de cirurgia gerais, tirados à sorte pelos candidatos, em cada dia e imediatamente antes do início da prova, de um grupo de doentes prèviamente escolhidos pelo júri. Os candidatos dispõem de uma hora para interrogar e observar cada um dos doentes que lhes couber, podendo durante esse tempo tomar os apontamentos que entenderem convenientes.
+Art. 25.º - 1. A prova prática de clínica consta da observação de dois doentes, um de medicina e outro de cirurgia gerais, tirados à sorte pelos candidatos, em cada dia e imediatamente antes do início da prova, de um grupo de doentes prèviamente escolhidos pelo júri. Os candidatos dispõem de uma hora para interrogar e observar cada um dos doentes que lhes couber, podendo durante esse tempo tomar os apontamentos que entenderem convenientes.
 
 2. Os candidatos, durante as três horas imediatas, registarão os elementos de diagnóstico e terapêutica que julguem necessários para a elaboração do relatório definitivo, o qual deve conter a história clínica, observação, diagnóstico e sua discussão, terapêutica e prognóstico.
 
@@ -278,11 +294,11 @@ Insuficiente.
 
 4. Terminada a leitura, cada um dos membros do júri poderá comentar o relatório e sobre ele pedir esclarecimentos ao candidato num período que não deverá exceder trinta minutos, tendo este igual período de tempo para responder.
 
-###### Art. 26.º - 1. A prova teórica será realizada na mesma data e hora em todos os hospitais, tendo os candidatos duas horas para responder ao questionário. Consta de um teste elaborado segundo o sistema de escolha múltipla, tirado à sorte no próprio dia da prova, na Direcção-Geral dos Hospitais, pelo presidente do Conselho Nacional do Internato Médico, na presença de dois membros do mesmo Conselho.
+Art. 26.º - 1. A prova teórica será realizada na mesma data e hora em todos os hospitais, tendo os candidatos duas horas para responder ao questionário. Consta de um teste elaborado segundo o sistema de escolha múltipla, tirado à sorte no próprio dia da prova, na Direcção-Geral dos Hospitais, pelo presidente do Conselho Nacional do Internato Médico, na presença de dois membros do mesmo Conselho.
 
 2. Para o efeito, são preparados três testes, elaborados por uma comissão constituída por membros dos diferentes hospitais centrais designados perante o Conselho Nacional do Internato Médico pelas respectivas comissões médicas hospitalares.
 
-###### Art. 27.º - 1. A classificação de cada uma das provas será feita de acordo com uma escala de pontuação compreendida entre 0 e 60, que, no caso da prova clínica, corresponderá à soma dos valores de 0 a 20, a atribuir por cada um dos membros do júri ao candidato.
+Art. 27.º - 1. A classificação de cada uma das provas será feita de acordo com uma escala de pontuação compreendida entre 0 e 60, que, no caso da prova clínica, corresponderá à soma dos valores de 0 a 20, a atribuir por cada um dos membros do júri ao candidato.
 
 2. Em cada dia de provas clínicas, o júri registará em acta a pontuação dos candidatos que as efectuaram, sendo o resultado final afixado no último dia de provas.
 
@@ -296,23 +312,23 @@ Menos de 60 pontos: Insuficiente.
 
 100 a 120 pontos: Muito bom.
 
-###### Art. 28.º - 1. Aos aprovados em exame final será passado diploma comprovativo, a requerimento do interessado, e satisfeito o emolumento que for devido.
+Art. 28.º - 1. Aos aprovados em exame final será passado diploma comprovativo, a requerimento do interessado, e satisfeito o emolumento que for devido.
 
 2. Este diploma será de modelo único, terá validade nacional e conterá a classificação final do interno, bem como a indicação do hospital onde frequentou o internato.
 
 3. A classificação final de cada um dos internos será feita em termos de Suficiente, Bom, Bom com distinção, Muito bom com distinção e Muito bom com distinção e louvor, conjugando as classificações obtidas no estágio hospitalar e exame final, da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/05/11300/06230630.pdf))](https://files.diariodarepublica.pt/1s/1970/05/11300/06230630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/05/11300/06230630.pdf)
 
 #### SECÇÃO II — De internato complementar
 
-###### Art. 29.º - 1. Podem concorrer ao internato complementar todos os médicos titulados com o internato geral, qualquer que seja o hospital onde o frequentaram, e ainda os médicos que provem possuírem preparação equiparada ao internato geral, nos termos do artigo 13.º do presente Regulamento.
+Art. 29.º - 1. Podem concorrer ao internato complementar todos os médicos titulados com o internato geral, qualquer que seja o hospital onde o frequentaram, e ainda os médicos que provem possuírem preparação equiparada ao internato geral, nos termos do artigo 13.º do presente Regulamento.
 
 2. A admissão ao internato complementar faz-se em cada ano por concurso de provas documentais, aberto na Direcção-Geral dos Hospitais.
 
 3. Para efeito do número anterior, até à data que for fixada, cada um dos estabelecimentos hospitalares onde funcione o internato complementar enviará à Direcção-Geral dos Hospitais nota dos lugares que devem ser postos a concurso com indicação dos respectivos ramos e especialidades.
 
-###### Art. 30.º - 1. O prazo de abertura do concurso referido no artigo anterior será de dez dias, iniciando-se a sua contagem no primeiro dia útil posterior ao dia 31 de Outubro.
+Art. 30.º - 1. O prazo de abertura do concurso referido no artigo anterior será de dez dias, iniciando-se a sua contagem no primeiro dia útil posterior ao dia 31 de Outubro.
 
 2. Logo que o respectivo aviso seja enviado para publicação no Diário do Governo, será afixada cópia nos lugares habituais dos hospitais e serviços interessados e naqueles onde, no ano anterior, tiver funcionado o internato geral.
 
@@ -320,9 +336,9 @@ Menos de 60 pontos: Insuficiente.
 
 4. Cada candidato pode concorrer simultâneamente a mais de um hospital, devendo, para o efeito, apresentar em cada um deles o requerimento referido no n.º 3 deste artigo.
 
-###### Art. 31.º Os trâmites a seguir no processo de concurso, até à publicação da lista definitiva dos candidatos admitidos, constarão de instruções a aprovar por despacho ministerial.
+Art. 31.º Os trâmites a seguir no processo de concurso, até à publicação da lista definitiva dos candidatos admitidos, constarão de instruções a aprovar por despacho ministerial.
 
-###### Art. 32.º - 1. A classificação dos candidatos, em mérito relativo, para cada uma das especialidades ou ramo, obedecerá à seguinte ordem de prioridade:
+Art. 32.º - 1. A classificação dos candidatos, em mérito relativo, para cada uma das especialidades ou ramo, obedecerá à seguinte ordem de prioridade:
 
 1.º Melhor classificação no internato geral;
 
@@ -334,15 +350,15 @@ Menos de 60 pontos: Insuficiente.
 
 2. O tempo de prestação de serviço militar obrigatório, como oficial médico de qualquer dos ramos das forças armadas, é descontado na antiguidade a considerar para as prioridades referidas no número anterior, devendo os candidatos nestas condições apresentar o documento militar comprovativo.
 
-###### Art. 33.º Os trabalhos de classificação dos candidatos e respectiva publicação devem estar terminados antes de 31 de Dezembro.
+Art. 33.º Os trabalhos de classificação dos candidatos e respectiva publicação devem estar terminados antes de 31 de Dezembro.
 
-###### Art. 34.º As vagas que restarem, realizado o concurso previsto nos artigos anteriores, não poderão ser preenchidas sem novo concurso documental.
+Art. 34.º As vagas que restarem, realizado o concurso previsto nos artigos anteriores, não poderão ser preenchidas sem novo concurso documental.
 
-###### Art. 35.º O exame final do internato complementar será constituído por uma prova de curriculum, uma prova prática e uma prova teórica.
+Art. 35.º O exame final do internato complementar será constituído por uma prova de curriculum, uma prova prática e uma prova teórica.
 
-###### Art. 36.º A primeira prova consiste na apreciação a discussão do curriculum vitae do candidato e fica a cargo de, pelo menos, dois membros do júri, não devendo cada um deles exceder na sua argumentação quinze minutos, e tendo o candidato igual tempo para responder a cada um.
+Art. 36.º A primeira prova consiste na apreciação a discussão do curriculum vitae do candidato e fica a cargo de, pelo menos, dois membros do júri, não devendo cada um deles exceder na sua argumentação quinze minutos, e tendo o candidato igual tempo para responder a cada um.
 
-###### Art. 37.º - 1. A prova prática varia segundo o ramo ou especialidade em causa, nos termos do artigo seguinte.
+Art. 37.º - 1. A prova prática varia segundo o ramo ou especialidade em causa, nos termos do artigo seguinte.
 
 2. Nesta prova, todos os relatórios escritos serão elaborados pelos candidatos, em papel rubricado por um membro do júri.
 
@@ -350,7 +366,7 @@ Menos de 60 pontos: Insuficiente.
 
 4. Os sobrescritos serão abertos pelos candidatos perante o júri, seguindo-se imediatamente a leitura, e, terminada esta, cada membro do júri poderá argumentar durante dez minutos, dispondo o candidato de igual tempo para responder a cada um deles.
 
-###### Art. 38.º A prova prática será assim constituída:
+Art. 38.º A prova prática será assim constituída:
 
 I) Para medicina, cirurgia e especialidades respectivas:
 
@@ -406,41 +422,41 @@ a) Observação de um candidato a dador de sangue e de um doente a tratar por he
 
 b) Execução de um trabalho laboratorial da especialidade, tirado à sorte por cada um dos candidatos, imediatamente antes do início da prova, de uma lista idêntica para todos os estabelecimentos, a que se aplica, com as devidas adaptações, o disposto em II), alínea a), seguido de relatório escrito, a ler e a discutir perante o júri.
 
-###### Art. 39.º 1. A prova teórica consiste no interrogatório livre do candidato, sobre matéria do ramo ou especialidade respectiva.
+Art. 39.º 1. A prova teórica consiste no interrogatório livre do candidato, sobre matéria do ramo ou especialidade respectiva.
 
 2. Cada membro do júri poderá interrogar o candidato sobre um a três assuntos gerais da matéria, tendo o candidato o prazo máximo de quinze minutos para responder a cada assunto.
 
 3. O candidato deve se interrogado, pelo menos, sobre cinco assuntos diferentes.
 
-###### Art. 40.º Sempre que se julgue conveniente, a prova de curriculum precederá imediatamente a leitura e discussão do relatório de prova prática, seguindo-se-lhe imediatamente a prova teórica.
+Art. 40.º Sempre que se julgue conveniente, a prova de curriculum precederá imediatamente a leitura e discussão do relatório de prova prática, seguindo-se-lhe imediatamente a prova teórica.
 
-###### Art. 41.º - 1. No final das provas que constituem o exame do internato complementar, o júri deliberará, por maioria, publicando-se imediatamente o resultado, em termos de Insuficiente, Suficiente, Bom e Muito bom, e ficando a deliberação registada em livro próprio, assinado por todos os membros do júri.
+Art. 41.º - 1. No final das provas que constituem o exame do internato complementar, o júri deliberará, por maioria, publicando-se imediatamente o resultado, em termos de Insuficiente, Suficiente, Bom e Muito bom, e ficando a deliberação registada em livro próprio, assinado por todos os membros do júri.
 
 2. O candidato cuja classificação for de Insuficiente ou que não complete as provas considera-se excluído no exame final.
 
-###### Art. 42.º É aplicável ao internato complementar o disposto no artigo 28.º do presente Regulamento.
+Art. 42.º É aplicável ao internato complementar o disposto no artigo 28.º do presente Regulamento.
 
 #### SECÇÃO III — Dos Júris
 
-###### Art. 43.º - 1. Compete aos júris dos concursos e dos exames finais e, designadamente, aos respectivos presidentes, além da apreciação e classificação das provas dos internos, velar pelo cumprimento integral das disposições deste capítulo do presente Regulamento.
+Art. 43.º - 1. Compete aos júris dos concursos e dos exames finais e, designadamente, aos respectivos presidentes, além da apreciação e classificação das provas dos internos, velar pelo cumprimento integral das disposições deste capítulo do presente Regulamento.
 
 2. Para esse efeito, ser-lhes-á prestada pelo chefe do internato e pelos serviços administrativos toda a colaboração que solicitarem.
 
-###### Art. 44.º - 1. O júri de admissão ao internato geral será presidido pelo presidente do Conselho Nacional do Internato Médico, tendo como vogais os chefes do internato médico dos hospitais centrais gerais.
+Art. 44.º - 1. O júri de admissão ao internato geral será presidido pelo presidente do Conselho Nacional do Internato Médico, tendo como vogais os chefes do internato médico dos hospitais centrais gerais.
 
 2. Os júris dos exames finais do internato geral serão constituídos, em cada estabelecimento hospitalar, por um director de serviço ou assistente, que presidirá, e por dois vogais com a categoria, pelo menos, de médicos graduados, sendo um de medicina e outro de cirurgia, um dos quais proveniente de hospital diferente daquele em que se realizam as provas.
 
-###### Art. 45.º - 1. O júri do concurso de admissão ao internato complementar será constituído em termos idênticos ao disposto no n.º 1 do artigo anterior.
+Art. 45.º - 1. O júri do concurso de admissão ao internato complementar será constituído em termos idênticos ao disposto no n.º 1 do artigo anterior.
 
 2. Os júris dos exames finais do internato complementar serão presididos por um director de serviço do ramo ou especialidade em causa, tendo como vogais dois médicos do mesmo ramo ou especialidade, um dos quais de categoria não inferior a assistente de hospital central e o outro a graduado, sendo um dos vogais proveniente de hospital diferente daquele em que se efectuam as provas.
 
-###### Art. 46 - 1. A proposta dos júris referidos nos artigos 44.º, n.º 2, e 45.º, n.º 2, é feita pelas comissões médicas dos diversos hospitais, sendo a sua homologação da competência do director-geral dos Hospitais.
+Art. 46 - 1. A proposta dos júris referidos nos artigos 44.º, n.º 2, e 45.º, n.º 2, é feita pelas comissões médicas dos diversos hospitais, sendo a sua homologação da competência do director-geral dos Hospitais.
 
 2. A constituição destes júris será publicada nos estabelecimentos, mediante afixação nos locais habituais, logo que seja homologada.
 
 ### CAPÍTULO IV — Da direcção do internato médico
 
-###### Art. 47.º - 1. Em cada estabelecimento onde funcionar o internato médico haverá um chefe do internato, que será um médico com a categoria de director de serviço ou de assistente.
+Art. 47.º - 1. Em cada estabelecimento onde funcionar o internato médico haverá um chefe do internato, que será um médico com a categoria de director de serviço ou de assistente.
 
 2. O chefe do internato médico deve ser convocado para todas as reuniões da comissão médica do respectivo hospital, nos termos do artigo 90.º, n.º 3, do Regulamento Geral dos Hospitais.
 
@@ -452,7 +468,7 @@ b) Execução de um trabalho laboratorial da especialidade, tirado à sorte por 
 
 6. O apoio de serviços administrativos de que o chefe do internato necessitar ser-lhe-á assegurado pela secretaria-geral ou por secretariado privativo, conforme for aconselhável perante as circunstâncias de cada estabelecimento.
 
-###### Art. 48.º - 1. O chefe do internato médico é nomeado por dois anos, renováveis duas vezes, mediante proposta do director clínico, com audiência da comissão médica.
+Art. 48.º - 1. O chefe do internato médico é nomeado por dois anos, renováveis duas vezes, mediante proposta do director clínico, com audiência da comissão médica.
 
 2. O chefe do internato médico é responsável pela organização e vigilância do funcionamento do internato, tendo em vista a sua eficiência como processo de aperfeiçoamento profissional dos médicos a ele admitidos e de harmonia com as orientações dimanadas dos órgãos de direcção técnica do próprio hospital e do Conselho Nacional do Internato Médico.
 
@@ -468,7 +484,7 @@ d) Exercer as atribuições que lhe são conferidas nas diferentes disposições
 
 e) Dar à administração e à direcção clínica do hospital toda a colaboração que lhe for pedida e propor as medidas que lhe parecerem adequadas para melhorar o funcionamento do internato.
 
-###### Art. 49.º - 1. O Conselho Nacional do Internato Médico funcionará na Direcção-Geral dos Hospitais, sob a presidência do adjunto do director-geral, quando for médico, ou do inspector superior de medicina, e reunirá em plenário ou em conselho restrito.
+Art. 49.º - 1. O Conselho Nacional do Internato Médico funcionará na Direcção-Geral dos Hospitais, sob a presidência do adjunto do director-geral, quando for médico, ou do inspector superior de medicina, e reunirá em plenário ou em conselho restrito.
 
 2. Quando reunir em plenário, o Conselho terá como vogais:
 
@@ -488,7 +504,7 @@ e) Um representante dos internos de cada um dos seguintes hospitais: Hospital de
 
 5. Sempre que seja necessário, o presidente do Conselho Nacional do Internato Médico poderá convocar para as reuniões, a título de consultores, os funcionários do Ministério que julgar convenientes.
 
-###### Art. 50.º - 1. Ao Conselho Nacional do Internato Médico incumbe, de modo geral, velar pela eficiência e valorização nos seus aspectos de aperfeiçoamento técnico, ético e cultural.
+Art. 50.º - 1. Ao Conselho Nacional do Internato Médico incumbe, de modo geral, velar pela eficiência e valorização nos seus aspectos de aperfeiçoamento técnico, ético e cultural.
 
 2. Compete-lhe especialmente:
 
@@ -510,13 +526,13 @@ f) Efectuar a revisão do presente Regulamento.
 
 ### CAPÍTULO V — Da concessão de equiparações
 
-###### Art. 51.º - 1. Poderão ser concedidas equiparações à frequência hospitalar do internato médico, ou apenas a parte dela.
+Art. 51.º - 1. Poderão ser concedidas equiparações à frequência hospitalar do internato médico, ou apenas a parte dela.
 
 2. A equiparação de um estágio à frequência do internato médico não dispensa, em caso algum, a submissão ao respectivo exame final.
 
-###### Art. 52.º Poderá também ser concedida a equiparação a qualquer dos graus do internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 52.º Poderá também ser concedida a equiparação a qualquer dos graus do internato, nos termos do artigo 50.º do Regulamento Geral dos Hospitais e artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
-###### Art. 53.º - 1. O médico que deseje obter alguma equiparação deverá requerê-la ao Ministro da Saúde e Assistência.
+Art. 53.º - 1. O médico que deseje obter alguma equiparação deverá requerê-la ao Ministro da Saúde e Assistência.
 
 2. Juntamente com o requerimento, deverá ser apresentado o curriculum vitae do interessado, certificados comprovativos da representação por ele efectuada e todos os documentos que repute abonatórios da sua pretensão.
 
@@ -524,7 +540,7 @@ f) Efectuar a revisão do presente Regulamento.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 54.º - 1. Até 31 de Dezembro de 1971, poderão apresentar-se aos exames finais, além dos médicos que frequentaram o internato, aqueles que satisfizerem as seguintes condições:
+Art. 54.º - 1. Até 31 de Dezembro de 1971, poderão apresentar-se aos exames finais, além dos médicos que frequentaram o internato, aqueles que satisfizerem as seguintes condições:
 
 a) Para o exame do internato geral: terem, pelo menos, três anos de serviço em funções clínicas exercidas em qualquer hospital central geral, qualquer que seja a forma de provimento ou o regime da sua admissão;
 
@@ -536,17 +552,17 @@ b) Para o exame do internato complementar: terem, pelo menos, seis anos de servi
 
 4. Aos oficiais médicos dos quadros permanentes das forças armadas aplicar-se-á o disposto no número anterior, até ao máximo de vinte e quatro meses.
 
-###### Art. 55.º Para os efeitos do disposto no artigo anterior, deverão os interessados requerer ao Ministro da Saúde e Assistência a admissão aos exames especificando, quando for caso disso, qual o ramo ou especialidade a que pretendem habilitar-se, fazendo prova das condições referidas no mesmo artigo.
+Art. 55.º Para os efeitos do disposto no artigo anterior, deverão os interessados requerer ao Ministro da Saúde e Assistência a admissão aos exames especificando, quando for caso disso, qual o ramo ou especialidade a que pretendem habilitar-se, fazendo prova das condições referidas no mesmo artigo.
 
-###### Art. 56.º - 1. Os internos do internato geral, admitidos mediante concurso de provas públicas, não terão exame final, sendo a sua classificação a resultante da média entre a classificação que obtiverem no concurso de admissão e a classificação que lhes for atribuída no respectivo estágio.
+Art. 56.º - 1. Os internos do internato geral, admitidos mediante concurso de provas públicas, não terão exame final, sendo a sua classificação a resultante da média entre a classificação que obtiverem no concurso de admissão e a classificação que lhes for atribuída no respectivo estágio.
 
 2. Aos médicos que, nos termos do número anterior, nesta data já tiverem concluído o internato geral e desejarem concorrer ao internato complementar será considerada como classificação final do internato geral a que tiverem obtido no concurso de admissão ao mesmo internato, se não puder utilizar-se o disposto no número anterior.
 
-###### Art. 57.º - 1. Os médicos que tiverem completado o antigo internato intermediário poderão candidatar-se ao internato complementar.
+Art. 57.º - 1. Os médicos que tiverem completado o antigo internato intermediário poderão candidatar-se ao internato complementar.
 
 2. A estes médicos será aplicável o disposto no n.º 2 do artigo anterior.
 
-###### Art. 58.º - 1. Aos médicos que terminaram o internato complementar nos anos de 1968 e 1969 sem terem prestado provas de exame final e para os quais não foi oportunamente aberto concurso de provas para graduados, é-lhes permitido submeterem-se a provas conjuntas daquele exame e do de admissão à graduação na especialidade e nos hospitais em que fizeram o referido internato.
+Art. 58.º - 1. Aos médicos que terminaram o internato complementar nos anos de 1968 e 1969 sem terem prestado provas de exame final e para os quais não foi oportunamente aberto concurso de provas para graduados, é-lhes permitido submeterem-se a provas conjuntas daquele exame e do de admissão à graduação na especialidade e nos hospitais em que fizeram o referido internato.
 
 2. As provas a que se refere o número anterior serão constituídas pela apreciação e discussão do curriculum apresentado pelo candidato, devendo a ordenação do mérito relativo obedecer à seguinte ordem de prioridades:
 
@@ -556,16 +572,16 @@ b) Para o exame do internato complementar: terem, pelo menos, seis anos de servi
 
 3.ª Média geral do curso médico-cirúrgico.
 
-###### Art. 59.º - 1. Para efeitos de admissão aos concursos para graduados dos hospitais centrais e assistentes dos hospitais regionais da carreira médica hospitalar, é concedida aos médicos titulados pela Ordem dos Médicos nas diversas especialidades a equiparação ao internato complementar respectivo, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
+Art. 59.º - 1. Para efeitos de admissão aos concursos para graduados dos hospitais centrais e assistentes dos hospitais regionais da carreira médica hospitalar, é concedida aos médicos titulados pela Ordem dos Médicos nas diversas especialidades a equiparação ao internato complementar respectivo, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 48879](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48879-1969-527451), de 22 de Fevereiro de 1969.
 
 2. Aos que, além de satisfazerem aos requisitos mencionados no n.º 1, preencherem o condicionalismo mencionado no artigo 54.º, n.º 1, alínea b), será permitido candidatarem-se também aos concursos para assistentes dos hospitais centrais.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 60.º - 1. As dúvidas que se suscitarem na aplicação do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que colherá despacho ministerial, quando necessário.
+Art. 60.º - 1. As dúvidas que se suscitarem na aplicação do presente Regulamento serão submetidas à Direcção-Geral dos Hospitais, que colherá despacho ministerial, quando necessário.
 
 2. À mesma Direcção-Geral compete emitir as instruções necessárias à uniforme aplicação deste Regulamento.
 
-###### Art. 61.º É revogada a [Portaria n.º 23903](https://diariodarepublica.pt/dr/detalhe/portaria/23903-1969-527775), de 6 de Fevereiro de 1969.
+Art. 61.º É revogada a [Portaria n.º 23903](https://diariodarepublica.pt/dr/detalhe/portaria/23903-1969-527775), de 6 de Fevereiro de 1969.
 
 Ministério da Saúde e Assistência, 14 de Maio de 1970. - O Secretário de Estado da Saúde e Assistência, Francisco Gonçalves Ferreira.

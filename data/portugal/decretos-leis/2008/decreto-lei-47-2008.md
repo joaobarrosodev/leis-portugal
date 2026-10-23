@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2008/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2008-247030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5273ee836a7e9423fec9c19e346991d31c571dfe109f4aadcebab14ae9754039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34c37caade2cf4fc99a8942ca3adfdf7962a3e7ed5d95dc44f5a075723eb4407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ reuse:
 subjects:
 - Certificado de Aforro
 - Instituto de Gestão da Tesouraria e do Crédito Público
-- Transmissão da Propriedade
 - Regime Jurídico
+- Transmissão da Propriedade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2002/05/04/p/dre
@@ -81,16 +81,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518811:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:57Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +173,9 @@ Os artigos 8.º e 10.º do [Decreto-Lei n.º 122/2002](https://diariodarepublica
 
 Os certificados de aforro emitidos e a emitir gozam dos direitos, isenções e garantias consignados na legislação em vigor, incluindo a isenção de imposto do selo, mas são passíveis de IRS, nos termos do disposto no [Decreto-Lei n.º 143-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-a-1989-424312), de 3 de Maio.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...:
 
@@ -201,12 +223,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 28 de Fevereiro de 2008.**
+Promulgado em 28 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Março de 2008.**
+Referendado em 3 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

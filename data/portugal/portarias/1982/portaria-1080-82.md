@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1080-1982-377321
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T07:02:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62ec7ae919df0299c9aa7817236c672657ec087e8f24283c3dc5690b750b9ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26181bb1682920256558a0fff783b7ecf4a9f6ba7f4aa1b70b28d8d2e1259fcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:02:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Denominação de Origem
+- Região Demarcada do Douro
+- RIO Douro
+- Vinha
+- Vinho
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:361505:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173109:por
+  label: "Alterado o nº 8 pela PORT.242/98.1998.04.16.MADRP, DR.IS-B [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1998-173109
+  date: '1998-04-16'
+- type: cites
+  target: pt:dre:236162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579512:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361505:por
+  label: "Revogado pelo DECLEI.190/2001.2001.06.25.MADRP,DR.IS-A[145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2001-361505
+  date: '2001-06-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:02:29Z'
   warnings: []
   errors: []
 ---

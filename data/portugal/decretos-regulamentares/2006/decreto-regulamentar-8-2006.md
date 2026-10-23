@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/8/2006/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2006-537577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 352ae7cffefe524e3030093870d3b3587f11961f94867e2c6fffac4e0ec180c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb0007dc35904fbc816ece54ce8e70ece55eea87b72bceb319b243f15fbb228a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
+- Autarquia Local
+- Autoridade Florestal Nacional
+- Autoridade Nacional de Protecção Civil
 - Comissão Mista
 - Direcção Geral dos Recursos Florestais
-- Mação
+- Exploração Florestal
 - GNR
+- Incêndio
+- Mação
 - Oleiros
 - Ordenamento Florestal
 - Plano de Desenvolvimento Sustentável da Floresta Portuguesa
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
+- Plano Regional de Ordenamento do Território
+- Prevenção de Incêndios
 - Proença-a-nova
 - PROF do Pinhal Interior SUL
-- Autoridade Florestal Nacional
-- Plano Regional de Ordenamento do Território
 - Regulamento
 - Sector Florestal
 - Sertã
-- Autoridade Nacional de Protecção Civil
-- Autarquia Local
 - VILA de REI
 relationships:
 - type: amended_by
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 27º e 29º a 33º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 27º e 29º\
+    \ a 33º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -115,16 +127,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 42
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:51Z'
   warnings: []
   errors: []
 ---
@@ -187,15 +229,15 @@ O PROF PIS entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 29 de Junho de 2006.**
+Promulgado em 29 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 30 de Junho de 2006.**
+Referendado em 30 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO PINHAL INTERIOR SUL (PROF PIS)
 
@@ -613,7 +655,7 @@ iv) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: plátano-bastardo (Acer pseudoplatanus), amieiro (Alnus glutinosa), aveleira (Corylus avellana), azinheira (Quercus rotundifolia), choupo-branco (Populus alba), choupo-negro (Populus nigra), cipreste-comum (Cupressus sempervirens), cipreste-do-buçaco (Cupressus lusitanica), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), nogueira-preta (Juglans nigra), pinheiro-manso (Pinus pinea), plátano (Platanus hispanica) e salgueiro (Salix alba).
 
@@ -647,7 +689,7 @@ iii) Espaços florestais com função de conservação de recursos genéticos, e
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são as constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), aveleira (Corylus avellana), castanheiro (Castanea sativa), cerejeira (Prunus avium), choupo-branco (Populus alba), choupo-negro (Populus nigra), cipreste-comum (Cupressus sempervirens), cipreste-de-lawson (Chamaecyparis lowsoniana), cipreste-do-buçaco (Cupressus lusitanica), freixo (Fraxinus angustifolia), loureiro (Laurus nobilis), medronheiro (Arbutus unedo), nogueira (Juglans regia), nogueira-preta (Juglans nigra), pinheiro-manso (Pinus pinea), Plátano (Platanus hispanica), salgueiro (Salix alba).
 
@@ -677,7 +719,7 @@ i) Espaços florestais com função de conservação de recursos genéticos, em 
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), carvalho-cerquinho (Quercus faginea), choupo-branco (Populus alba), choupo-negro (Populus nigra), cipreste-comum (Cupressus sempervirens), cipreste-do-buçaco (Cupressus lusitanica), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), pinheiro-manso (Pinus pinea), plátano (Platanus hispanica), salgueiro (Salix alba) e ulmeiro (Ulmus, sp).
 
@@ -711,7 +753,7 @@ ii) Espaços florestais com função de conservação de recursos genéticos, em
 
 2 - As espécies de árvores florestais e correspondentes modelos de silvicultura a incentivar e privilegiar nesta sub-região são os constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 3 - Devem também ser privilegiadas as seguintes espécies: amieiro (Alnus glutinosa), aveleira (Corylus avellana), azinheira (Quercus rotundifolia), carvalho-cerquinho (Quercus faginea), cerejeira (Prunus avium), choupo-branco (Populus alba), choupo-negro (Populus nigra), cipreste-comum (Cupressus sempervirens), freixo (Fraxinus angustifolia), medronheiro (Arbutus unedo), nogueira (Juglans regia), nogueira-preta (Juglans nigra), pinheiro-manso (Pinus pinea), plátano (Platanus hispanica), salgueiro (Salix alba).
 
@@ -765,7 +807,7 @@ c) Áreas percorridas por incêndios de grandes dimensões.
 
 4 - No PROF PIS são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -787,27 +829,27 @@ No plano que integra o relatório do PROF PIS estão consignadas medidas de inte
 
 1 - O PROF PIS define como metas para 2025 e 2045 os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 2 - O PROF PIS define como metas para 2025 e 2045 os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 3 - O PROF PIS define como metas para 2025 e 2045 os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 4 - O PROF PIS define como metas para 2025 e 2045 os seguintes valores percentuais de composição de espaços florestais arborizados para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 5 - O PROF PIS define como metas para 2025 e 2045 as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 6 - O PROF PIS define como metas para 2025 e 2045 os seguintes valores de percentagem de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 ###### Artigo 28.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
@@ -913,14 +955,14 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 ## ANEXO I — Normas genéricas de intervenção nos espaços florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 ## ANEXO II — Modelos de silvicultura
 
 Modelos de silvicultura para as principais espécies de árvores florestais e sistemas florestais produtivos mais relevantes para a região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
 
 ## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Pinhal Interior Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50145029.pdf)

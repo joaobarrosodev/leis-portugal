@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/211a00/59885988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2003/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2003-505210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc1b3dc38dc88a0f93b6bafa0c2dbbceb6810aa9fe7ac553fe8022b3f2aa2c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4974d2a9bd3b9dc9667ad07293f46cc7f6c14b1c8f0fd8f5a3c7480a734efbf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Empregos
-- Médico
 - Carreira Médica
-- Pessoal Dirigente
-- Medicina Privada
-- Serviço Nacional de Saúde
 - Incompatibilidades
+- Medicina Privada
+- Médico
 - Ministério da Saúde
+- Pessoal Dirigente
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:209643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:209643:por
+  label: "Revogado pelo DEC LEI.223/2004.03.12.2004.MS, DR.IS-A [283] de 03.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2004-209643
+  date: '2004-12-03'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:58Z'
   warnings: []
   errors: []
 ---
@@ -117,12 +126,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.
 
-**Promulgado em 1 de Setembro de 2003.**
+Promulgado em 1 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2003.**
+Referendado em 4 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

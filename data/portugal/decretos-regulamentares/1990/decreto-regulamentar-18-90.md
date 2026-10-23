@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 160/1990, 2º Suplemento, Série I de 1990-07-13
   number: '160'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2954-(6) a 2954-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1990-298192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3688e9ddf06cd38f27d95f99035208e23dec7ff99a08ad27a097e408fc9fcdec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c4c6e90df6a498dbe5d7b832ab836d776f434e973ed00588326e1401a284bbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IRS
+- IRS
+- Pensionista
+- Pensões
+- Remuneração
+- Retenção na Fonte
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:239796:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:308148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496487:por
+  label: "Revogado pelo DEC LEI.42/91.22.01.1991.MF, DR.IS-A [18] de 22.01.1991, sem prejuízo da aplicação aos rendimentos\
+    \ pagos ou colocados à disposição dos respectivos titulares até 31 de Dezembro de 1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-1991-496487
+  date: '1991-01-22'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:33Z'
   warnings: []
   errors: []
 ---
@@ -156,20 +177,20 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 28 de Junho de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 12 de Julho de 1990.**
+Promulgado em 12 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1990.**
+Referendado em 12 de Julho de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Tabelas optativas de retenção para rendimento de pensões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf)
 
 ## ANEXO II — Tabelas de referência para retenção sobre rendimento de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf))](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/16002/00060008.pdf)

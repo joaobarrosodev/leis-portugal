@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15600/0001000048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2019/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2019-123962149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0731906e29054aa6b41a29447e056a91d7de7b42026d7b888e12076947bbbebe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25d9c6fee79ecfde6df3a8fbd86bc0ccca32b4fdf39e688db46e8e303bda82e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,43 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Integrado de Registo
 - Aluguer
+- Autoridade Nacional de Segurança Rodoviária
 - Autoridade Tributária e Aduaneira
-- Garantia
+- Base de Dados
+- Branqueamento de Capitais
 - Código da Estrada
 - Combate ao Terrorismo
 - Comissão Nacional de Protecção de Dados
+- Conselho Diretivo
 - Conservador
-- Instituto dos Registos e do Notariado
+- Contribuições e Impostos
+- Dados Pessoais
 - Definição de Competências
 - Doação
-- Registo Automóvel
+- Documento Único Automóvel
+- Documentos do Veículo
 - Emolumento
 - Fiscalização
-- Branqueamento de Capitais
-- Conselho Diretivo
-- Contribuições e Impostos
-- Base de Dados
+- Garantia
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
+- Instituto dos Registos e do Notariado
 - Locação Financeira
-- Autoridade Nacional de Segurança Rodoviária
+- Matrícula
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
 - Portagem
 - Presidente
-- Documento Único Automóvel
+- Prevenção Criminal
 - Propriedade de BENS
+- Registo Automóvel
 - Regulamento
 - Regulamento do Registo de Automóveis
 - Regulamento Emolumentar dos Registos e Notariado
 - Segredo Profissional
-- Prevenção Criminal
-- Dados Pessoais
+- Sistema Integrado de Registo
 - Usufruto
-- Matrícula
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
+- Veículo
 relationships:
 - type: cites
   target: celex:32008D0615
@@ -163,16 +163,252 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
+- type: cites
+  target: pt:dre:107078023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107458728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107631415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114358690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114848693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117471256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118950630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122349220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66414231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300348:por
+  label: null
+  source: null
 article_structure:
-  article_count: 170
+  article_count: 133
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:51Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +485,7 @@ Os artigos 3.º, 5.º, 6.º, 7.º, 27.º-A, 27.º-B, 27.º-C, 27.º-D, 27.º-E, 
 
 6 - Sem prejuízo do cumprimento do disposto na legislação relativa ao tratamento de dados pessoais, as condições de transmissão dos dados previstos no presente artigo são estabelecidas por protocolo a celebrar entre o IRN, I. P., e o IMT, I. P.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - [...]:
 
@@ -291,7 +527,7 @@ q) [Anterior alínea l)].
 
 3 - [...].
 
-###### Artigo 6.º
+Artigo 6.º
 
 [...]:
 
@@ -305,19 +541,19 @@ d) Os procedimentos que tenham por fim o decretamento do arresto e do arrolament
 
 e) As providências decretadas nas ações e nos procedimentos referidos nas alíneas anteriores.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - [...].
 
 2 - Podem ser objeto de registo provisório por natureza o arrolamento, a penhora, o arresto, a declaração de insolvência e as ações.
 
-###### Artigo 27.º-A
+Artigo 27.º-A
 
 1 - O presidente do conselho diretivo do IRN, I. P., é o responsável pelo tratamento da base de dados, nos termos e para os efeitos definidos no n.º 7 do artigo 4.º do [Regulamento (UE) n.º 2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt), do Parlamento e do Conselho, de 27 de abril de 2016 (RGPD), sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores do registo de automóveis.
 
 2 - [...].
 
-###### Artigo 27.º-B
+Artigo 27.º-B
 
 1 - São obrigatoriamente recolhidos para tratamento automatizado os seguintes dados pessoais respeitantes aos sujeitos do registo:
 
@@ -347,7 +583,7 @@ b) Número internacional de identificação bancária e código internacional de
 
 5 - Os dados referidos nas alíneas c) e d) do n.º 1 e nos n.os 3 e 4 não são publicitados com o registo.
 
-###### Artigo 27.º-C
+Artigo 27.º-C
 
 1 - Os dados pessoais constantes da base de dados têm por suporte a identificação dos sujeitos ativos e passivos dos factos sujeitos a registo, bem como dos apresentantes do registo, e são recolhidos do formulário de modelo próprio apresentado pelos interessados e dos documentos por eles apresentados.
 
@@ -361,7 +597,7 @@ b) Número internacional de identificação bancária e código internacional de
 
 6 - O IRN, I. P., envia à Comissão Nacional de Proteção de Dados a cópia dos protocolos celebrados ao abrigo do número anterior, preferencialmente por via eletrónica.
 
-###### Artigo 27.º-D
+Artigo 27.º-D
 
 1 - [...].
 
@@ -383,7 +619,7 @@ e) [...].
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 27.º-E
+Artigo 27.º-E
 
 1 - Têm acesso à informação constante do registo de automóveis, através de linha de transmissão de dados, as entidades judiciárias, os órgãos de polícia criminal, a Autoridade Tributária e Aduaneira e o IMT, I. P.
 
@@ -403,13 +639,13 @@ b) [...].
 
 7 - O IRN, I. P., envia à Comissão Nacional de Proteção de Dados os protocolos celebrados ao abrigo dos números anteriores, preferencialmente por via eletrónica.
 
-###### Artigo 27.º-F
+Artigo 27.º-F
 
 1 - [...].
 
 2 - A atualização e a correção de eventuais inexatidões realizam-se nos termos e pela forma prevista na legislação específica do registo de automóveis, sem prejuízo do disposto nos artigos 16.º a 18.º do RGPD.
 
-###### Artigo 27.º-H
+Artigo 27.º-H
 
 1 - O presidente do conselho diretivo do IRN, I. P., e as entidades referidas nas alíneas b), c) e d) do n.º 2 do artigo 27.º-D devem adotar as medidas de segurança referidas no n.º 1 do artigo 32.º do RGPD.
 
@@ -419,13 +655,13 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 27.º-I
+Artigo 27.º-I
 
 1 - [...].
 
 2 - Os funcionários dos registos e do notariado, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do registo de automóveis, ficam obrigados a sigilo profissional, nos termos do artigo 10.º da [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto, que assegura a execução, na ordem jurídica nacional, do RGPD.
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - Na apresentação do pedido deve ser entregue, a título de preparo, a quantia provável do total da conta.
 
@@ -451,7 +687,7 @@ São aditados os artigos 2.º-A, 2.º-B, 5.º-A, 7.º-A e 26.º-A ao [Decreto-Le
 
 3 - As conservatórias com competência para a prática de atos relativos a veículos funcionam como repartições autónomas ou em regime de anexação com outras conservatórias.
 
-###### Artigo 2.º-B
+Artigo 2.º-B
 
 Nas conservatórias de registos com competência para a prática de atos relativos a veículos, pode o oficial de registos, sem prejuízo do disposto nos artigos 21.º e 22.º do [Decreto-Lei n.º 115/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2018-117471256), de 21 de dezembro, qualificar e subscrever os seguintes atos:
 
@@ -479,7 +715,7 @@ k) Rejeição de apresentações de atos de registo para os quais lhes seja atri
 
 l) Confirmação de contas emolumentares.
 
-###### Artigo 5.º-A
+Artigo 5.º-A
 
 1 - É anotada ao registo a circunstância de o veículo ter sido furtado ou roubado.
 
@@ -489,13 +725,13 @@ l) Confirmação de contas emolumentares.
 
 4 - A transmissão das informações sobre o estado do veículo mencionadas nos números anteriores é realizada através da Plataforma de Interoperabilidade da Administração Pública, nas condições estabelecidas por protocolo a celebrar entre o IRN, I. P., a Polícia de Segurança Pública, a Guarda Nacional Republicana e a Agência para a Modernização Administrativa, I. P.
 
-###### Artigo 7.º-A
+Artigo 7.º-A
 
 1 - As situações de apreensão de documentos de identificação do veículo que devam determinar a inibição de emissão de segunda via de certificado de matrícula são definidas e comunicadas aos serviços de registo, para efeitos de anotação, nos termos e condições a fixar por protocolo entre o IRN, I. P., a Autoridade Nacional de Segurança Rodoviária e as entidades competentes para a apreensão.
 
 2 - O levantamento da apreensão dos documentos referida no número anterior é de imediato comunicado aos serviços de registo, para efeitos do cancelamento da respetiva anotação.
 
-###### Artigo 26.º-A
+Artigo 26.º-A
 
 1 - Os registos de hipoteca e penhora caducam decorridos 10 anos sobre a data do registo, sem prejuízo da possibilidade de renovação.
 
@@ -517,7 +753,9 @@ Os artigos 11.º, 12.º, 25.º, 27.º-B, 28.º, 29.º, 31.º, 32.º, 40.º, 41.�
 
 2 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -527,7 +765,9 @@ Os artigos 11.º, 12.º, 25.º, 27.º-B, 28.º, 29.º, 31.º, 32.º, 40.º, 41.�
 
 4 - Sem prejuízo do disposto no artigo 9.º, é dispensado o reconhecimento da assinatura do representante de pessoa coletiva feita na presença do funcionário de registo, desde que a qualidade e poderes para o ato possam ser confirmados por acesso à base de dados do registo comercial.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]:
 
@@ -553,19 +793,25 @@ e) Requerimento subscrito pelo vendedor, na sequência do exercício do direito 
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 27.º-B — Registo de ónus de intransmissibilidade e de tributação residual
+Artigo 27.º-B
+
+Registo de ónus de intransmissibilidade e de tributação residual
 
 1 - Os ónus de intransmissibilidade e de tributação residual previstos em legislação fiscal são registados em conformidade com o documento comprovativo do facto tributário que lhe dá origem.
 
 2 - Se a conservatória tiver acesso por via eletrónica à informação necessária à definição e ao conteúdo dos ónus fiscais, é dispensada a prova exigida no número anterior.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
 2 - É dispensada a apresentação de documento comprovativo da extinção se, tratando-se de hipoteca ou de reserva de propriedade, o requerente for o credor ou o reservador e o pedido for formulado presencialmente ou por via eletrónica.
 
-###### Artigo 29.º — Documento para registo de alteração de nome, firma, residência ou sede
+Artigo 29.º
+
+Documento para registo de alteração de nome, firma, residência ou sede
 
 1 - A alteração do nome ou firma, bem como a mudança de residência ou sede, são registadas em conformidade com o pedido do interessado.
 
@@ -575,7 +821,9 @@ e) Requerimento subscrito pelo vendedor, na sequência do exercício do direito 
 
 4 - A alteração de morada pode ser requerida em simultâneo com o pedido de alteração de morada no âmbito do cartão de cidadão.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Nenhum direito ou facto relativo a veículos pode figurar no registo sem que seja efetuada a respetiva apresentação no Diário.
 
@@ -583,11 +831,15 @@ e) Requerimento subscrito pelo vendedor, na sequência do exercício do direito 
 
 3 - A cada facto deve corresponder uma apresentação distinta, ainda que no mesmo requerimento possa ser pedido o registo de vários factos.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 Para além dos casos de rejeição da apresentação previstos na legislação subsidiariamente aplicável, a apresentação do pedido de registo pode ainda ser rejeitada quando for verificada a inviabilidade do registo requerido, ou, sendo o pedido efetuado presencialmente, não for paga a totalidade das quantias pedidas a título de preparo.
 
-###### Artigo 40.º — Pedido de registo
+Artigo 40.º
+
+Pedido de registo
 
 1 - O pedido de registo pode ser efetuado presencialmente, por via eletrónica ou por correio.
 
@@ -595,11 +847,15 @@ Para além dos casos de rejeição da apresentação previstos na legislação s
 
 3 - O pedido de registo pode ser remetido por correio simples, acompanhado dos documentos e dos emolumentos e demais encargos que se mostrem devidos.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 O disposto na presente secção é aplicável, com as necessárias adaptações, aos pedidos de segundas vias de certificados de matrícula.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -609,7 +865,9 @@ O disposto na presente secção é aplicável, com as necessárias adaptações,
 
 4 - (Revogado.)
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -621,29 +879,39 @@ O disposto na presente secção é aplicável, com as necessárias adaptações,
 
 5 - A forma e menções dos registos são regulamentadas por deliberação do conselho diretivo do IRN, I. P..
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O disposto no número anterior não se aplica ao registo inicial, nem ao registo de propriedade adquirida por contrato verbal de compra e venda.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 A reserva de propriedade estipulada em contrato de alienação de veículo é registada na dependência da inscrição de aquisição.
 
-###### Artigo 46.º-A — [...]
+Artigo 46.º-A
+
+[...]
 
 1 - A afetação do veículo ao regime de aluguer sem condutor é registada autónoma ou oficiosamente na dependência do registo do direito do locador.
 
 2 - A extinção da afetação do veículo ao regime previsto no número anterior determina o cancelamento do registo do facto.
 
-###### Artigo 46.º-B — Ónus de tributação residual e de intransmissibilidade
+Artigo 46.º-B
+
+Ónus de tributação residual e de intransmissibilidade
 
 1 - Os ónus de tributação residual e de intransmissibilidade previstos na legislação fiscal são registados oficiosamente na dependência do registo do direito onerado, com menção do diploma e disposição legal que preveem o ónus, bem como a referência aos termos inicial e final do respetivo prazo.
 
 2 - A caducidade dos ónus fiscais deve ser anotada logo que verificada.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...].
 
@@ -653,7 +921,9 @@ A reserva de propriedade estipulada em contrato de alienação de veículo é re
 
 4 - [...].
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...].
 
@@ -679,7 +949,9 @@ Documento para registo de utilizador não proprietário
 
 4 - O registo do utilizador caduca com a transmissão ou com a extinção do direito de quem o declarou.
 
-###### Artigo 46.º-C — Utilizador não proprietário
+Artigo 46.º-C
+
+Utilizador não proprietário
 
 O registo do utilizador é efetuado autónoma ou oficiosamente, na dependência do registo de propriedade, do registo de usufruto, do registo de locação ou de aluguer por prazo superior a um ano.»
 
@@ -709,7 +981,9 @@ Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 178-A/2005](https://diariodare
 
 9 - O número do certificado emitido é anotado no registo do qual depende.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Em caso de extravio ou destruição do certificado de matrícula, pode ser emitida uma segunda via deste, com base em requerimento do seu titular, sujeito às formalidades previstas para o pedido de registo.
 
@@ -717,7 +991,9 @@ Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 178-A/2005](https://diariodare
 
 3 - O disposto no n.º 8 do artigo anterior é aplicável à emissão de segunda via do certificado de matrícula.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -751,7 +1027,9 @@ g) A desistência de ato que beneficie de gratuitidade ou de isenção emolument
 
 2 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 [...]
 
@@ -933,13 +1211,13 @@ e) O artigo 1.º, o n.º 3 do artigo 29.º, os artigos 33.º a 36.º, o n.º 4 d
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 1 de agosto de 2019.**
+Promulgado em 1 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de agosto de 2019.**
+Referendado em 5 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -1834,3 +2112,5 @@ Compete ao diretor-geral dos Registos e do Notariado aprovar os modelos de reque
 ###### Artigo 67.º — Entrada em vigor
 
 O presente diploma entra em vigor trinta dias após a data da sua publicação.
+
+112512559

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06100/0001900025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2025/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51fc26abd5d5d938121cfe824173c509e2c9a4e378aff4ce1715ef04ec8130ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d20aedea16e9a39a7951cd6f9cbd3cc770325928395a8bcf8024ad71753f24e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Pública
-- Serviço Nacional de Saúde
 - Carreira Profissional
+- Estatuto Remuneratório
 - Farmacêutico
 - Farmácia Hospitalar
 - Remuneração
-- Estatuto Remuneratório
+- Serviço Nacional de Saúde
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:942991683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:108/2017
+  label: Altera, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, o artigo 12.º e revoga o artigo 14.º
+    do Decreto-Lei n.º 108/2017, de 30 de agosto, Diário da República n.º 167/2017, Série I
+  source: null
+  date: '2017-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:109/2017
+  label: Altera, a partir de 28 de março de 2025, com efeitos a partir de 1 de janeiro de 2025, os artigos 13.º e 15.º do
+    Decreto-Lei n.º 109/2017, de 30 de agosto, Diário da República n.º 167/2017, Série I
+  source: null
+  date: '2017-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:6/2020
+  label: Altera, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, os artigos 29.º e 31.º do Decreto-Lei
+    n.º 6/2020, de 24 de fevereiro, Diário da República n.º 38/2020, Série I
+  source: null
+  date: '2020-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2017/08/30/p/dre
   label: null
@@ -107,16 +125,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:108074437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114682827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129529697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117867:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:4/2018
+  label: Revoga, a partir de 28 de março de 2025, com efeitos a 1 de janeiro de 2025, o Decreto Regulamentar n.º 4/2018, de
+    12 de fevereiro, Diário da República n.º 30/2018, Série I
+  source: null
+  date: '2018-02-12'
 article_structure:
-  article_count: 12
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:25Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +197,7 @@ Nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei procede:
 
-a) À terceira alteração ao [Decreto-Lei n.º 108/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2017-108074437), de 30 de agosto, alterado pelos Decretos-Leis n.<sup>os</sup>[119-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), de 22 de dezembro, e [5/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), de 5 de janeiro, que estabelece o regime da carreira farmacêutica nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde;
+a) À terceira alteração ao [Decreto-Lei n.º 108/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2017-108074437), de 30 de agosto, alterado pelos Decretos-Leis n.os[119-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), de 22 de dezembro, e [5/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), de 5 de janeiro, que estabelece o regime da carreira farmacêutica nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde;
 
 b) À segunda alteração ao [Decreto-Lei n.º 109/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438), de 30 de agosto, alterado pelo [Decreto-Lei n.º 119-A/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), de 22 de dezembro, e pelo [Decreto-Lei n.º 5/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), de 5 de janeiro, que define o regime da carreira especial farmacêutica, bem como os requisitos de habilitação profissional para integração na mesma;
 
@@ -185,7 +237,9 @@ Recrutamento e promoção
 
 4 - Caso o candidato aufira remuneração igual ou superior à da primeira posição remuneratória das categorias de farmacêutico assessor e de farmacêutico assessor sénior, o posicionamento remuneratório faz-se na posição remuneratória que na estrutura remuneratória da categoria para a qual se faz o recrutamento corresponda o nível remuneratório superior mais aproximado.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A cada categoria da carreira especial farmacêutica corresponde um número variável de posições remuneratórias, as quais constam de diploma próprio.
 
@@ -213,7 +267,9 @@ Os artigos 29.º e 31.º do [Decreto-Lei n.º 6/2020](https://diariodarepublica.
 
 6 - O contrato de trabalho em funções públicas a termo resolutivo incerto ou a comissão de serviço referidos nos números anteriores podem manter-se para além da conclusão, com aproveitamento, do respetivo programa formativo, até ao recrutamento, por procedimento concursal, para posto de trabalho da carreira farmacêutica ou da carreira especial farmacêutica, com o limite máximo de 18 meses, contados a partir do dia 1 do mês seguinte ao da homologação da lista de classificação final dos farmacêuticos residentes que concluíram com aproveitamento o programa de residência farmacêutica.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O regime remuneratório dos farmacêuticos em residência farmacêutica consta de diploma próprio.
 
@@ -255,7 +311,7 @@ ii) Na sétima posição remuneratória, se posicionados na décima primeira e n
 
 4 - Os trabalhadores farmacêuticos na categoria de assistente são reposicionados, com efeitos a 1 de janeiro de 2027, na posição remuneratória imediatamente seguinte àquela que detém na sua categoria, conforme tabela prevista no n.º 1 do artigo 6.º (anexo iii).
 
-5 - Após o reposicionamento previsto nos n.<sup>os</sup>1 e 2, relevam os pontos e correspondentes menções qualitativas de avaliação do desempenho obtidos até ao biénio de 2023-2024, com vista a, sendo o caso, alteração do posicionamento remuneratório.
+5 - Após o reposicionamento previsto nos n.os1 e 2, relevam os pontos e correspondentes menções qualitativas de avaliação do desempenho obtidos até ao biénio de 2023-2024, com vista a, sendo o caso, alteração do posicionamento remuneratório.
 
 6 - Para efeitos de ulterior alteração da posição remuneratória, salvo o reposicionamento que deva ocorrer nos termos previsto no presente artigo, apenas relevam os pontos e correspondentes menções qualitativas de avaliação do desempenho obtidos a partir do ciclo avaliativo de 2025.
 
@@ -277,15 +333,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 19 de março de 2025.**
+Promulgado em 19 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de março de 2025.**
+Referendado em 20 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 5.º)
 
@@ -293,11 +349,11 @@ Tabela remuneratória a partir de 1 de janeiro de 2025
 
 | Farmacêutico assessor sénior | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Farmacêutico assessor sénior | n) | 45 | 47 | 52 | 57 | 62 |  |  |
+| n) | 45 | 47 | 52 | 57 | 62 |  |  |  |
 | Farmacêutico assessor | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª |  |
-| Farmacêutico assessor | n) | 36 | 39 | 41 | 43 | 45 | 47 |  |
+| n) | 36 | 39 | 41 | 43 | 45 | 47 |  |  |
 | Farmacêutico assistente | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª |
-| Farmacêutico assistente | n) | 26 | 28 | 30 | 32 | 34 | 36 | 38 |
+| n) | 26 | 28 | 30 | 32 | 34 | 36 | 38 |  |
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 5.º)
 
@@ -314,21 +370,21 @@ Tabela remuneratória a partir de 1 de janeiro de 2026
 
 | Farmacêutico assessor sénior | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Farmacêutico assessor sénior | n) | 47 | 49 | 54 | 59 | 64 |  |  |
+| n) | 47 | 49 | 54 | 59 | 64 |  |  |  |
 | Farmacêutico assessor | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª |  |
-| Farmacêutico assessor | n) | 38 | 41 | 43 | 45 | 47 | 49 |  |
+| n) | 38 | 41 | 43 | 45 | 47 | 49 |  |  |
 | Farmacêutico assistente | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª |
-| Farmacêutico assistente | n) | 27 | 29 | 31 | 33 | 35 | 37 | 39 |
+| n) | 27 | 29 | 31 | 33 | 35 | 37 | 39 |  |
 
 Tabela remuneratória a partir de 1 de janeiro de 2027
 
 | Farmacêutico assessor sénior | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Farmacêutico assessor sénior | n) | 50 | 52 | 57 | 62 | 67 |  |  |
+| n) | 50 | 52 | 57 | 62 | 67 |  |  |  |
 | Farmacêutico assessor | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª |  |
-| Farmacêutico assessor | n) | 40 | 43 | 45 | 47 | 49 | 51 |  |
+| n) | 40 | 43 | 45 | 47 | 49 | 51 |  |  |
 | Farmacêutico assistente | p) | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª | 6.ª | 7.ª |
-| Farmacêutico assistente | n) | 29 | 31 | 33 | 35 | 37 | 39 | 41 |
+| n) | 29 | 31 | 33 | 35 | 37 | 39 | 41 |  |
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 6.º)
 
@@ -345,3 +401,7 @@ Remuneração dos residentes farmacêuticos a partir de 1 de janeiro de 2027
 | --- | --- |
 | 3.º e 4.º anos | 21 |
 | 1.º e 2.º anos | 19 |
+
+118858513
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:18px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl8 { min-height:15px; } .Tbl9 { min-height:26px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

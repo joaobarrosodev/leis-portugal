@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2012-174821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e8fca954605adca75cdac6d4d4c555a912cef4a5989c2133903ce1dd032d09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91b41e6d6f07cb192bb56ea9274ad53592300406fc752df66d203c4df1c975bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ subjects:
 - Curso
 - Denominação de Instituição
 - Ensino Particular
-- Escola Superior de Design
-- IADE
-- Escola Superior de Marketing e Publicidade
-- Lisboa
-- Iade-u
 - Ensino Superior
+- Escola Superior de Design
+- Escola Superior de Marketing e Publicidade
+- IADE
+- Iade-u
+- Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
@@ -99,16 +99,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/876/2000/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/876/2000/09/26/p/dre
+- type: cites
+  target: pt:dre:177784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660299:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:56Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +185,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2012. - Pedro Passos Coelho - João Filipe Cortez Rodrigues Queiró.
 
-**Promulgado em 9 de agosto de 2012.**
+Promulgado em 9 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.

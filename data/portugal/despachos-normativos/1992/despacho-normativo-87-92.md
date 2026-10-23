@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/130b00/27412742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/87/1992/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-1992-300647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:59:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7220f150634c8d64d63422ef329a60bcae5e7b93df1523dd959492ac26acc980
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44ce329959e9a050dd6b03017ecbad0473d2fe3e5baa4ff03eb13a1a9c71ea5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:59:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto do Emprego e Formação Profissional
-- Primeiro Emprego
 - Política de Emprego
+- Primeiro Emprego
 - VIDA Activa
 relationships:
 - type: amended_by
   target: pt:dre:408160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182655:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408160:por
+  label: "Revogado, a partir de 01.09.1996, pelo DN.27/96.03.08.1996.MQE, DR.IS-B [179] de 03.08.1996, nos termos do seu n.º\
+    \ 1 do artigo 13.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/27-1996-408160
+  date: '1996-08-03'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:59:32Z'
   warnings: []
   errors: []
 ---

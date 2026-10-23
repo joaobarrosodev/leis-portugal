@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2010/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2010-613967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9333179a691de220c91055200c01cbed3b067135cbdb24a436283a842f98765d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cb302d3d9449dc0e6d9373cda878ebbdc8ce8c97eb4813b30b82767a80acf6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pescador
 - Compensação Remuneratória
 - Fundo de Compensação Salarial
 - Fundo de Compensação Salarial dos Profissionais da Pesca
 - Pesca
+- Pescador
 relationships:
 - type: amended_by
   target: pt:dre:25344003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25344003:por
+  label: "Alterados os arts. 4.º e 5.º do Dec Lei 311/99 de 10-ago, na redação do presente diploma, pelo DEC LEI.61/2014.23.04.2014.MAGM,\
+    \ DR.IS [79] de 23.04.2014 que procede à sua republicação em anexo \0o \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2014-25344003
+  date: '2014-04-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/2001/09/22/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2004/12/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2004/12/03/p/dre
+- type: cites
+  target: pt:dre:209634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:17Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +162,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -162,12 +182,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Pedro de Sousa Barreiro - Maria Helena dos Santos André - Ana Maria Teodoro Jorge.
 
-**Promulgado em 27 de Abril de 2010.**
+Promulgado em 27 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Abril de 2010.**
+Referendado em 29 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14100/0003000033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2023/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2023-215980342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14e705577a3f93b04b70a2c41e9ce81b25bacaf2957ce9720a5018cf3220daad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91d61d8b7f9f6602c4ecd6934d4acd72e7cc9720d37c0647bffd404df3952df6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Conformidade
-- Especificação Técnica
-- Veículo
 - Equipamento de Veículo
+- Especificação Técnica
 - Regulamentação dos Transportes
 - Regulamento que FIXA os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação
+- Veículo
 relationships:
 - type: cites
   target: celex:31996L0053
@@ -88,20 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/132/2017/10/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/132/2017/10/11/p/dre
+- type: cites
+  target: pt:dre:108284890:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32015L0719
   label: null
   source: null
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:23Z'
   warnings: []
   errors: []
 ---
@@ -142,15 +146,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de junho de 2023. - António Luís Santos da Costa - João Saldanha de Azevedo Galamba.
 
-**Promulgado em 13 de julho de 2023.**
+Promulgado em 13 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de julho de 2023.**
+Referendado em 14 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -194,7 +198,9 @@ p) 'Veículo com nível nulo de emissões', um veículo pesado, sem motor de com
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -222,7 +228,9 @@ c) [...]
 
 10 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -242,7 +250,7 @@ c) [...]
 
 9 - O peso adicional necessário para os veículos movidos a combustíveis alternativos ou com nível nulo de emissões é definido com base na documentação fornecida pelo fabricante aquando da homologação dos modelos dos veículos, constando dos respetivos certificados de matrícula.
 
-###### Artigo 11.º
+Artigo 11.º
 
 Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, ácido tereftálico, produtos siderúrgicos, minérios, produtos vitivinícolas, frutas e produtos hortícolas e pecuários, incluindo os transformados e cereais e oleaginosas destinados à alimentação animal
 
@@ -256,7 +264,9 @@ Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, áci
 
 5 - [...]
 
-###### Artigo 13.º — Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais e oleaginosas destinados à alimentação animal
+Artigo 13.º
+
+Transporte de produtos vitivinícolas, frutas e produtos hortícolas, pecuários e cereais e oleaginosas destinados à alimentação animal
 
 1 - [...]
 
@@ -268,7 +278,9 @@ Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, áci
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -285,3 +297,5 @@ c) [...]
 4 - [...]
 
 5 - O peso bruto máximo por eixo dos veículos a motor e dos seus reboques, que efetuem transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, produtos siderúrgicos, minérios, produtos vitivinícolas, frutas e produtos hortícolas transformados ou não, pecuários e cereais, nos termos do n.º 5 do artigo 11.º e do n.º 3 do artigo 13.º, é de 12 t, com exceção do eixo da frente dos veículos a motor, que não deve ultrapassar 10 t.»
+
+116684595

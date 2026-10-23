@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/04/06800/0002700041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2024/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2024-859517102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81ad637fa85dd5d7648c7a839b1a2815ca0438ecde5fad36551e38e56bf18838
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 947ccee0d62ea5a2af4d80e1b0dd7b57d0932dc50bdec5dafe15bd41087140e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,22 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Radiocomunicações
+- Circulação de Mercadorias
+- Comércio
 - Contra-ordenação
+- Equipamento de Transmissão
 - Fiscalização
 - Normas de Segurança
-- Circulação de Mercadorias
+- Radiocomunicações
 - Regulamento CE
-- Comércio
-- Equipamento de Transmissão
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:57/2017
+  label: Altera, a partir de 6 de abril de 2024, com efeitos a 2 de outubro de 2024, nos termos dos n.ºs 2 e 3 do artigo 6.º
+    do presente diploma, os artigos 4.º, 11.º, 13.º, 14.º, 17.º, 35.º, 38.º, 44.º, 45.º e 46.º e o anexo i e adita o artigo
+    4.º-A e o anexo i-A ao Decreto-Lei n.º 57/2017, de 9 de junho, Diário da República n.º 112/2017, Série I
+  source: null
+  date: '2017-06-09'
 - type: cites
   target: celex:32014L0053
   label: null
@@ -113,20 +120,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205378557:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0090
   label: null
   source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:09Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +154,7 @@ validation:
 
 de 5 de abril
 
-A [Diretiva 2014/53/UE](http://data.europa.eu/eli/dir/2014/53/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização de equipamentos de rádio no mercado, foi transposta para o ordenamento jurídico nacional através do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho. Em 2022, como resposta às preocupações da União Europeia em reduzir os resíduos eletrónicos gerados pela venda de equipamentos de rádio e em diminuir a extração de matérias-primas e as emissões de CO<sub>2</sub>geradas pela produção, transporte e eliminação de carregadores, a referida diretiva foi alterada pela [Diretiva (UE) 2022/2380](http://data.europa.eu/eli/dir/2022/2380/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de novembro de 2022 [[Diretiva (UE) 2022/2380](http://data.europa.eu/eli/dir/2022/2380/oj?locale=pt)]. Procurando promover uma economia circular, através desta alteração foram introduzidos requisitos para a harmonização de interfaces de carregamento por forma a permitir a interoperabilidade de equipamentos de determinadas categorias e classes de equipamentos, tais como telemóveis, tabletes e auscultadores, com dispositivos de carregamento comuns. Da alteração resultou ainda a obrigatoriedade de fornecer informações aos utilizadores e consumidores finais sobre as características do carregamento, nomeadamente a potência máxima e mínima para o obter. Assim, os utilizadores poderão utilizar o mesmo dispositivo em vários equipamentos e adquirir equipamentos com ou sem dispositivos de carregamento, por forma a facilitar a sua utilização e a reduzir os resíduos ambientais.
+A [Diretiva 2014/53/UE](http://data.europa.eu/eli/dir/2014/53/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização de equipamentos de rádio no mercado, foi transposta para o ordenamento jurídico nacional através do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho. Em 2022, como resposta às preocupações da União Europeia em reduzir os resíduos eletrónicos gerados pela venda de equipamentos de rádio e em diminuir a extração de matérias-primas e as emissões de CO2geradas pela produção, transporte e eliminação de carregadores, a referida diretiva foi alterada pela [Diretiva (UE) 2022/2380](http://data.europa.eu/eli/dir/2022/2380/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de novembro de 2022 [[Diretiva (UE) 2022/2380](http://data.europa.eu/eli/dir/2022/2380/oj?locale=pt)]. Procurando promover uma economia circular, através desta alteração foram introduzidos requisitos para a harmonização de interfaces de carregamento por forma a permitir a interoperabilidade de equipamentos de determinadas categorias e classes de equipamentos, tais como telemóveis, tabletes e auscultadores, com dispositivos de carregamento comuns. Da alteração resultou ainda a obrigatoriedade de fornecer informações aos utilizadores e consumidores finais sobre as características do carregamento, nomeadamente a potência máxima e mínima para o obter. Assim, os utilizadores poderão utilizar o mesmo dispositivo em vários equipamentos e adquirir equipamentos com ou sem dispositivos de carregamento, por forma a facilitar a sua utilização e a reduzir os resíduos ambientais.
 
 Neste contexto, urge, através do presente decreto-lei, fazer refletir no [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho, na sua redação atual, as alterações introduzidas pela [Diretiva (UE) 2022/2380](http://data.europa.eu/eli/dir/2022/2380/oj?locale=pt), assim assegurando o cumprimento do disposto no seu artigo 2.º, que impõe aos Estados-Membros a adoção e a publicação das disposições legislativas necessárias ao cumprimento da diretiva e a sua comunicação imediata à Comissão.
 
@@ -329,7 +348,7 @@ l) Assegurar que, quando disponibiliza a consumidores e a outros utilizadores fi
 
 3 - [...]
 
-4 - A conformidade dos equipamentos de rádio com os requisitos essenciais previstos nos n.<sup>os</sup>1 e 4 do artigo 4.º deve ser demonstrada mediante um dos seguintes procedimentos de avaliação da conformidade:
+4 - A conformidade dos equipamentos de rádio com os requisitos essenciais previstos nos n.os1 e 4 do artigo 4.º deve ser demonstrada mediante um dos seguintes procedimentos de avaliação da conformidade:
 
 a) [...]
 
@@ -537,19 +556,19 @@ Sempre que um operador económico disponibilize a consumidores e a outros utiliz
 
 2 - Com exceção do artigo 3.º e do disposto no número seguinte, o presente decreto-lei produz efeitos 180 dias após a sua publicação.
 
-3 - Os artigos 2.º, 4.º e 5.º produzem efeitos a partir de 28 de dezembro de 2024 no que respeita às categorias ou classes de equipamentos de rádio referidas nos n.<sup>os</sup>1.1 a 1.12 da parte i do anexo i-A do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho, com a redação dada pelo presente decreto-lei, e a partir de 28 de abril de 2026 para as categorias ou classes de equipamentos de rádio referidas no n.º 1.13 da parte i do anexo ii do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho, com a redação dada pelo presente decreto-lei.
+3 - Os artigos 2.º, 4.º e 5.º produzem efeitos a partir de 28 de dezembro de 2024 no que respeita às categorias ou classes de equipamentos de rádio referidas nos n.os1.1 a 1.12 da parte i do anexo i-A do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho, com a redação dada pelo presente decreto-lei, e a partir de 28 de abril de 2026 para as categorias ou classes de equipamentos de rádio referidas no n.º 1.13 da parte i do anexo ii do [Decreto-Lei n.º 57/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2017-107495704), de 9 de junho, com a redação dada pelo presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros de 14 de março de 2024. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia.
 
-**Promulgado em 28 de março de 2024.**
+Promulgado em 28 de março de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de abril de 2024.**
+Referendado em 1 de abril de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -581,9 +600,9 @@ b) Aeronaves não tripuladas, bem como motores, hélices, peças e equipamento n
 
 ## ANEXO I-A — Especificações e informações relativas ao carregamento aplicáveis a determinadas categorias ou classes de equipamentos de rádio
 
-# PARTE I — Especificações relativas às capacidades de carregamento
+## PARTE I — Especificações relativas às capacidades de carregamento
 
-1 - Os requisitos previstos nos n.<sup>os</sup>2 e 3 da presente parte são aplicáveis às seguintes categorias ou classes de equipamentos de rádio:
+1 - Os requisitos previstos nos n.os2 e 3 da presente parte são aplicáveis às seguintes categorias ou classes de equipamentos de rádio:
 
 1.1 - Telemóveis portáteis;
 
@@ -623,7 +642,7 @@ b) Aeronaves não tripuladas, bem como motores, hélices, peças e equipamento n
 
 3.2 - Assegurar que qualquer protocolo adicional de carregamento permita o funcionamento pleno da alimentação de energia por porta USB referido no n.º 3.1, independentemente do dispositivo de carregamento utilizado.
 
-# PARTE II — Informações sobre as especificações relativas às capacidades de carregamento e os dispositivos de carregamento compatíveis
+## PARTE II — Informações sobre as especificações relativas às capacidades de carregamento e os dispositivos de carregamento compatíveis
 
 No caso de equipamentos de rádio abrangidos pelo n.º 4 do artigo 4.º, e em conformidade com os requisitos estabelecidos na alínea u) do n.º 1 do artigo 11.º, devem ser indicadas as seguintes informações, que podem ser disponibilizadas em simultâneo através de códigos QR ou de soluções eletrónicas semelhantes:
 
@@ -631,26 +650,31 @@ a) Para todas as categorias ou classes de equipamentos de rádio sujeitas aos re
 
 b) No caso de equipamentos de rádio sujeitos aos requisitos previstos no n.º 3 da parte i, uma descrição das especificações relativas às capacidades de carregamento do equipamento de rádio, no caso de este poder ser carregado por cabo a tensões superiores a 5 volts, ou correntes superiores a 3 amperes, ou potências superiores a 15 watts, incluindo uma indicação de que o equipamento de rádio é compatível com o protocolo de carregamento de alimentação de energia por porta USB mediante apresentação do texto "carregamento rápido com alimentação de energia por porta USB" e uma indicação de compatibilidade com qualquer outro protocolo de carregamento através da exibição do respetivo nome em formato de texto.
 
-# PARTE III — Pictograma que indica se o equipamento de rádio inclui um dispositivo de carregamento
+## PARTE III — Pictograma que indica se o equipamento de rádio inclui um dispositivo de carregamento
 
 1 - O pictograma deve ter os seguintes formatos:
 
 1.1 - Se o equipamento de rádio incluir um dispositivo de carregamento:
 
-![](https://files.diariodarepublica.pt/images/859517102/859504230.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/859517102/859504230.png) |
+| --- |
 
 1.2 - Se nenhum dispositivo de carregamento estiver incluído no equipamento de rádio:
 
-![](https://files.diariodarepublica.pt/images/859517102/859504231.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/859517102/859504231.png) |
+| --- |
 
 2 - A aparência do pictograma pode variar (por exemplo, no que concerne à cor, desenho a cheio ou com linha de contorno, espessura do traço) desde que seja visível e legível. Se o pictograma for reduzido ou ampliado, devem ser respeitadas as proporções indicadas no grafismo constante do n.º 1 da presente parte. A dimensão "a" referida no n.º 1 da presente parte deve ser superior ou igual a 7 mm, independentemente da variação.
 
-# PARTE IV — Conteúdo e formato do rótulo
+## PARTE IV — Conteúdo e formato do rótulo
 
 1 - O rótulo tem o seguinte formato:
 
-![](https://files.diariodarepublica.pt/images/859517102/859504232.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/859517102/859504232.png) |
+| --- |
 
 2 - As letras "XX" são substituídas pelo valor correspondente à potência mínima exigida pelo equipamento de rádio para ser carregado, que determina a potência mínima que o dispositivo de carregamento precisa de fornecer para carregar o equipamento de rádio. As letras "YY" são substituídas pelo valor correspondente à potência máxima exigida pelo equipamento de rádio para que a velocidade de carregamento máxima seja atingida, que determina a potência mínima que o dispositivo de carregamento precisa de fornecer para atingir, pelo menos, essa velocidade de carregamento máxima. A abreviatura "USB PD" (do inglês, USB Power Delivery) (alimentação de energia por porta USB) deve ser exibida caso o equipamento de rádio seja compatível com este protocolo de comunicação de carregamento. "USB PD" é um protocolo que negoceia o fornecimento mais rápido de corrente do dispositivo de carregamento ao equipamento de rádio sem encurtar a vida útil da bateria.
 
 3 - A aparência do rótulo pode variar (por exemplo, no que concerne à cor, desenho a cheio ou com linha de contorno, espessura do traço) desde que seja visível e legível. Se o rótulo for reduzido ou ampliado, devem ser respeitadas as proporções previstas no grafismo constante do n.º 1 da presente parte. A dimensão "a" referida no n.º 1 deve ser superior ou igual a 7 mm, independentemente da variação.
+
+117550468

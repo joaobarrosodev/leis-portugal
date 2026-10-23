@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19700/0494804948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2018/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2018-116649878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ab8c98d135ef231b61110ac88610685484fe3bd5d358cc1099f8d2c16eb9638
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c03e4d38bd1dcb66f35ac9a3071005ed22535d7b045ac92a5a6ad2bdb18fce10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,38 @@ reuse:
 subjects:
 - Aposentação
 - Estatuto da Aposentação
+- Funcionário Público
 - Pensão de Aposentação
 - Pensão de Reforma
-- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:123930786:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado, a partir de 29.06.2019 e nos termos do art. 210.º, o art. 40.º do Estatuto da Aposentação, aprovado pelo
+    Dec Lei 498/72, de 09-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019,
+    Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:123930786:por
+  label: Alterado, a partir de 18.08.2019 e com efeitos a 01.10.2019, o art. 40.º, na redação do presente diploma, do Estatuto
+    da Aposentação, aprovado pelo Dec Lei 498/72, de 9-dez, pelo(a) Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019,
+    Série I de 2019-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2019-123930786
+  date: '2019-08-13'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:08Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +159,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2018. - António Luís Santos da Costa - Ricardo Emanuel Martins Mourinho Félix - Cláudia Sofia de Almeida Gaspar Joaquim.
 
-**Promulgado em 21 de setembro de 2018.**
+Promulgado em 21 de setembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2018.**
+Referendado em 28 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111709403

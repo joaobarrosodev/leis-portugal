@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/004a00/00570062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2004/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2004-240801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce36422483cc3ebbccd32c890ca92b31469b681e1fd8a476bd7f6cc2d8e2f7b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8461e80e884e8a2d5ecf12d8c1b22978d462cb0fcb2bedad8fea1a6099fc24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão de Serviço
 - Definição de Competências
 - Delegação Regional
 - Direcção Regional de Economia
-- Dre-lisboa e VALE do TEJO
 - Diretor Regional
 - Dre-alentejo
 - Dre-algarve
 - Dre-centro
+- Dre-lisboa e VALE do TEJO
 - Dre-norte
 - Ministério da Economia
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 - Transferência de Pessoal
@@ -86,6 +86,19 @@ relationships:
   target: pt:dre:520871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551644:por
+  label: "Tranferidas para a IGAE as competências em matéria de fiscalização e instrução processual cometidas às direcções\
+    \ regionais da economia pelo DEC LEI.46/2004.03.03.2004.MECO, DR.IS-A [53] de 03.03.2004 e sem prejuízo do disposto no\
+    \ respectivo nº 5 do art. 35º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2004-551644
+  date: '2004-03-03'
+- type: amended_by
+  target: pt:dre:545060:por
+  label: "Derrogada nos termos do art. 3º, a al e) do nº 3 do art. 3º do presente diploma, pelo DEC LEI.229/2006.24.11.2006.MEI,\
+    \ DR.IS [227] de 24.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2006-545060
+  date: '2006-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -114,16 +127,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/78/1999/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/78/1999/03/16/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520871:por
+  label: "Revogado, a partir de 01.05.2007 e nos termos do artigo 5.º do Decreto-Lei 201/2006, de 27 de Outubro, pelo DR.58/2007.27.04.2007.MEI,\
+    \ DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/58-2007-520871
+  date: '2007-04-27'
 article_structure:
   article_count: 27
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:36Z'
   warnings: []
   errors: []
 ---
@@ -272,9 +323,13 @@ g) Colaborar com a Direcção-Geral do Turismo no registo dos empreendimentos do
 
 7 - No âmbito dos sectores referidos nos números anteriores, compete ainda às DRE colaborar com os serviços e organismos competentes no acompanhamento da elaboração dos planos regionais, especiais e municipais de ordenamento do território.
 
-### CAPÍTULO II — Divisão geográfica e áreas de actuação
+### CAPÍTULO II
 
-###### Artigo 4.º — Divisão geográfica
+##### Divisão geográfica e áreas de actuação
+
+###### Artigo 4.º
+
+##### Divisão geográfica
 
 1 - Nos termos do presente diploma, existem as seguintes DRE:
 
@@ -448,15 +503,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 15 de Dezembro de 2003.**
+Promulgado em 15 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Dezembro de 2003.**
+Referendado em 17 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o n.º 1 do artigo 20.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/273a00/73967400.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266/2002/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2002-447915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be902b33771022464599e468e42ba98a592b5e9e3c2d694c8a0f14c2dcd10a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3088b220234158f48261857275d9295bd43a0a38f71f72b3169d8f9f360cc55e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Direcção Geral das Condições de Trabalho
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Direcção Geral do Emprego e Formação Profissional
 - Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Integração de Serviços
 - Integração de Trabalhadores
-- Direcção Geral do Emprego e das Relações de Trabalho
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -80,6 +80,29 @@ relationships:
   target: pt:dre:638527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Extinto o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho criado pelo dec lei 219/93 de 16-Jun,\
+    \ na redacção do presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004; e determinada a\
+    \ sucessão, nos direitos e obrigações, da Inspecção-Geral do Trabalho e do Instituto para a Segurança, Higiene e Saúde\
+    \ no Trabalho ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, em termos a fixar por despacho do\
+    \ MSST\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição (até à entrada em vigor do dec lei 171/2004 de 17-Jul) para o Ministério das Actividades\
+    \ Económicas e do Trabalho da Direcção-Geral do Emprego e das Relações de Trabalho (integrada no agora extinto Ministério\
+    \ da Segurança Social e do Trabalho), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério do Trabalho e da Solidariedade Social da Direcção-Geral (integrada no\
+    \ extinto Ministério das Actividades Económicas e do Trabalho), pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/214/1993/06/16/p/dre
   label: null
@@ -96,16 +119,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:265690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638527:por
+  label: "Revogado, a partir de 01.06.2007, pelo DEC LEI.210/2007.29.05.2007.MTSSO, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2007-638527
+  date: '2007-05-29'
 article_structure:
   article_count: 19
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:19Z'
   warnings: []
   errors: []
 ---
@@ -332,7 +376,9 @@ e) Preparar relatórios nacionais sobre a aplicação de instrumentos internacio
 
 f) Prestar apoio técnico a outros serviços e entidades em matéria de instrumentos internacionais do trabalho.
 
-###### Artigo 11.º — Divisão de Administração Geral
+###### Artigo 11.º
+
+##### Divisão de Administração Geral
 
 1 - Compete à Divisão de Administração Geral, na área da gestão de pessoal:
 
@@ -412,15 +458,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Mapa
 

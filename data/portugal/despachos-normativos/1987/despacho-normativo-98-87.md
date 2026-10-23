@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1987, 4º Suplemento, Série I de 1987-12-31
   number: '300'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4440-(233) a 4440-(234)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/30004/02330234.pdf
 entry_into_force_dates: []
@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/98-1987-406129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02ad432187fd76750a251e27eaf100cde13e15e043d1284dc43be1261e4db9a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d2fd92aebcb7538ad3e551b9a4d0b003045be542fc23d2d0cd7ef5d897f1b80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Licença de Transporte
+- Transporte de Mercadorias
+- Transporte Internacional
+relationships:
+- type: cites
+  target: pt:dre:194384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398094:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:39:13Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ c) A utilização dada à autorização CEE, contabilizada em toneladas/quilóme
 
 2.4 - Será atribuído um suplemento de autorizações às empresas, em função da utilização média da quota-parte de que foram titulares, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/30004/02330234.pdf))](https://files.diariodarepublica.pt/1s/1987/12/30004/02330234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/12/30004/02330234.pdf)
 
 2.5 - Do remanescente serão distribuídas duas autorizações por cada empresa com utilização média inferior a 1500000 t/km, ordenadas por forma decrescente.
 

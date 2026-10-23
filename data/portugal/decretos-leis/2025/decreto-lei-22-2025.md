@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05500/0000900038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2025/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c64ce1b8f04fb858be34516f9f1d6638cb2fdaae31cefac2e009f4fd9ea8e302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d7652f8cbe1652046409d8e9e1dd6ca4a167b83a2fcc8877c1e5cf6e0c1ef01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Conselho Nacional de Planeamento Civil de Emergência
-- Segurança Interna
-- Segurança Pública
+- Entidades críticas
 - Fiscalização
+- Plataforma Eletrónica
+- Secretário Geral do Sistema de Segurança Interna
 - Segurança da Informação
 - Segurança das Instalações
-- Secretário Geral do Sistema de Segurança Interna
-- Plataforma Eletrónica
-- Entidades críticas
+- Segurança Interna
+- Segurança Pública
 relationships:
 - type: cites
   target: celex:32007L0060
@@ -137,6 +137,36 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:178264070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:20/2022
+  label: Revoga, a partir de 24 de março de 2025, os capítulos i e ii do Decreto-Lei n.º 20/2022, de 28 de janeiro, Diário
+    da República n.º 20/2022, Série I
+  source: null
+  date: '2022-01-28'
 - type: transposes
   target: celex:32008L0011
   label: null
@@ -156,13 +186,13 @@ relationships:
 article_structure:
   article_count: 57
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:55Z'
   warnings: []
   errors: []
 ---
@@ -545,7 +575,7 @@ b) Da entidade crítica, nos termos do n.º 2 do artigo 20.º
 
 3 - No caso previsto no número anterior, o Conselho Nacional de Planeamento Civil de Emergência solicita à entidade sectorial a análise do pedido de revogação.
 
-4 - Nos casos previstos nos n.<sup>os</sup>1 e 2, a revogação é notificada à entidade crítica, sendo dado conhecimento ao Secretário-Geral do Sistema de Segurança Interna, à respetiva entidade sectorial, às entidades competentes no âmbito da cibersegurança, às entidades previstas no n.º 2 do artigo 7.º, e aos presidentes das câmaras municipais quanto às infraestruturas críticas daquela entidade designadas e localizadas nas respetivas áreas geográficas de responsabilidade.
+4 - Nos casos previstos nos n.os1 e 2, a revogação é notificada à entidade crítica, sendo dado conhecimento ao Secretário-Geral do Sistema de Segurança Interna, à respetiva entidade sectorial, às entidades competentes no âmbito da cibersegurança, às entidades previstas no n.º 2 do artigo 7.º, e aos presidentes das câmaras municipais quanto às infraestruturas críticas daquela entidade designadas e localizadas nas respetivas áreas geográficas de responsabilidade.
 
 5 - A notificação referida do número anterior é realizada num prazo máximo de 10 dias após a revogação da designação da entidade crítica, devendo prever a informação de que a partir da data de receção aquela entidade deixa de estar sujeita às obrigações constantes no presente decreto-lei.
 
@@ -681,7 +711,7 @@ f) Qualquer outro elemento relevante.
 
 4 - As entidades sectoriais promovem a realização de exercícios ao seu nível, envolvendo as entidades críticas, o Secretário-Geral do Sistema de Segurança Interna e o Conselho Nacional de Planeamento Civil de Emergência, bem como outras entidades relevantes em razão da matéria.
 
-5 - Após a realização dos exercícios previstos nos n.<sup>os</sup>1 e 3, é elaborado relatório que é remetido ao Secretário-Geral do Sistema de Segurança Interna no prazo máximo de 30 dias.
+5 - Após a realização dos exercícios previstos nos n.os1 e 3, é elaborado relatório que é remetido ao Secretário-Geral do Sistema de Segurança Interna no prazo máximo de 30 dias.
 
 6 - O Secretário-Geral do Sistema de Segurança Interna, em articulação com o Conselho Nacional de Planeamento Civil de Emergência e com as entidades sectoriais, promove a realização de exercícios transversais, podendo envolver entidades críticas e outras entidades relevantes em razão da matéria, assim como, quando pertinente, entidades de outros Estados-Membros da União Europeia.
 
@@ -891,7 +921,7 @@ b) Inspeções, para verificação nas instalações das entidades críticas da 
 
 ###### Artigo 44.º — Prestação de informação
 
-**O Secretário-Geral do Sistema de Segurança Interna, se necessário, solicita às entidades críticas designadas ao abrigo do presente decreto-lei:**
+O Secretário-Geral do Sistema de Segurança Interna, se necessário, solicita às entidades críticas designadas ao abrigo do presente decreto-lei:
 
 a) As informações necessárias para avaliar se as medidas tomadas por estas entidades para garantir a sua resiliência cumprem os requisitos estabelecidos no artigo 24.º;
 
@@ -935,7 +965,7 @@ b) O incumprimento da obrigação de comunicar a venda ou cedência, tal como pr
 
 c) O incumprimento da obrigação de rever e submeter o plano de resiliência, tal como previsto no n.º 1 do artigo 26.º;
 
-d) O incumprimento da obrigação de comunicar a ocorrência de incidentes, como previsto nos n.<sup>os</sup>1, 2 e 3 do artigo 28.º;
+d) O incumprimento da obrigação de comunicar a ocorrência de incidentes, como previsto nos n.os1, 2 e 3 do artigo 28.º;
 
 e) O incumprimento da obrigação de realização dos exercícios, como previsto no n.º 1 do artigo 29.º
 
@@ -1025,15 +1055,15 @@ Sem prejuízo do disposto no n.º 2 do artigo anterior, são revogados os capít
 
 Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2025. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Joaquim Miranda Sarmento - Manuel Castro Almeida - Nuno Melo - Rita Alarcão Júdice - Margarida Blasco - Fernando Alexandre - Ana Paula Martins - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.
 
-**Promulgado em 10 de março de 2025.**
+Promulgado em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de março de 2025.**
+Referendado em 12 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO
 
@@ -1044,7 +1074,7 @@ Sectores e subsectores de entidades críticas, serviços essenciais e respetivas
 | Sector | Subsector | Serviço essencial (categoria de entidade) | Entidades sectoriais |
 | --- | --- | --- | --- |
 | Energia | Eletricidade | Fornecimento de eletricidade (empresas de eletricidade) | Comissão de Planeamento de Emergência da Energia |
-|  |  | Exploração, manutenção e desenvolvimento de uma rede de distribuição de eletricidade (operadores da rede de distribuição) | Comissão de Planeamento de Emergência da Energia |
+|  |  | Exploração, manutenção e desenvolvimento de uma rede de distribuição de eletricidade (operadores da rede de distribuição) |  |
 |  |  | Exploração, manutenção e desenvolvimento de uma rede de transporte de eletricidade (operadores da rede de transporte) |  |
 |  |  | Produção de eletricidade (produtores) |  |
 |  |  | Serviço do operador nomeado do mercado da eletricidade (operadores nomeados do mercado da eletricidade) |  |
@@ -1085,9 +1115,9 @@ Sectores e subsectores de entidades críticas, serviços essenciais e respetivas
 |  |  | Concessão de empréstimos (instituições de crédito) |  |
 |  |  | Serviços de pagamento (instituições de crédito) |  |
 | Infraestruturas do mercado financeiro |  | Exploração de uma plataforma de negociação (operadores de plataformas de negociação) | Comissão do Mercado de Valores Mobiliários |
-| Infraestruturas do mercado financeiro |  | Funcionamento dos sistemas de compensação (contrapartes centrais) | Comissão do Mercado de Valores Mobiliários |
+| Funcionamento dos sistemas de compensação (contrapartes centrais) |  |  |  |
 | Saúde |  | Prestação de serviços de saúde (prestadores de cuidados de saúde) | Comissão de Planeamento de Emergência da Saúde |
-|  |  | Análises efetuadas por um laboratório de referência da União Europeia (laboratórios de referência da UE) | Comissão de Planeamento de Emergência da Saúde |
+|  |  | Análises efetuadas por um laboratório de referência da União Europeia (laboratórios de referência da UE) |  |
 |  |  | Investigação e desenvolvimento de medicamentos (entidades que realizam atividades de investigação e desenvolvimento de medicamentos) |  |
 |  |  | Fabrico de produtos farmacêuticos de base e de preparações farmacêuticas de base (entidades que fabricam produtos farmacêuticos de base e preparações farmacêuticas) |  |
 |  |  | Fabrico de dispositivos médicos considerados críticos durante uma emergência de saúde pública (entidades que fabricam dispositivos médicos) |  |
@@ -1102,12 +1132,16 @@ Sectores e subsectores de entidades críticas, serviços essenciais e respetivas
 |  |  | Fornecimento de redes de distribuição de conteúdos (fornecedores de redes de distribuição de conteúdos) |  |
 |  |  | Prestação de serviços de confiança (prestadores de serviços de confiança) |  |
 |  |  | Fornecimento de serviços de comunicações eletrónicas acessíveis ao público (fornecedores de serviços de comunicações eletrónicas) | Comissão de Planeamento de Emergência das Comunicações |
-|  |  | Fornecimento de redes públicas de comunicações eletrónicas (fornecedores de redes de serviços de comunicações eletrónicas) | Comissão de Planeamento de Emergência das Comunicações |
+|  |  | Fornecimento de redes públicas de comunicações eletrónicas (fornecedores de redes de serviços de comunicações eletrónicas) |  |
 | Administração pública: serviços prestados por entidades da administração pública, excluindo os tribunais, a Assembleia da República, as assembleias legislativas das regiões autónomas e o Banco de Portugal |  | Serviços de natureza administrativa ou regulamentar que afetem os direitos de pessoas singulares ou coletivas no contexto da circulação transfronteiriça de pessoas, mercadorias, serviços ou capitais | Secretário-Geral do Sistema de Segurança Interna |
 | Espaço |  | Operação de infraestruturas terrestres, detidas, geridas e operadas pelos Estados-Membros ou por entidades privadas que apoiam a oferta de serviços espaciais, excluindo os fornecedores de redes públicas de comunicações eletrónicas (operadores de infraestruturas terrestres) | Agência Espacial Portuguesa |
 | Sector da produção, transformação e distribuição de produtos alimentares (empresas do sector alimentar que estejam envolvidas exclusivamente na logística e na distribuição por grosso e produção e transformação industriais em grande escala) |  | Produção e transformação industriais de produtos alimentares em grande escala | Comissão de Planeamento de Emergência da Agricultura |
-| Sector da produção, transformação e distribuição de produtos alimentares (empresas do sector alimentar que estejam envolvidas exclusivamente na logística e na distribuição por grosso e produção e transformação industriais em grande escala) |  | Serviços da cadeia de abastecimento alimentar, incluindo armazenamento e logística | Comissão de Planeamento de Emergência da Agricultura |
-| Sector da produção, transformação e distribuição de produtos alimentares (empresas do sector alimentar que estejam envolvidas exclusivamente na logística e na distribuição por grosso e produção e transformação industriais em grande escala) |  | Distribuição por grosso de produtos alimentares | Comissão de Planeamento de Emergência da Agricultura |
+| Serviços da cadeia de abastecimento alimentar, incluindo armazenamento e logística |  |  |  |
+| Distribuição por grosso de produtos alimentares |  |  |  |
 | Segurador e dos fundos de pensões |  | Subscrição de contratos de seguros (empresas de seguros e de resseguros) | Autoridade de Supervisão de Seguros e Fundos de Pensões |
-| Segurador e dos fundos de pensões |  | Gestão e regularização de sinistros (empresas de seguros e de resseguros) | Autoridade de Supervisão de Seguros e Fundos de Pensões |
-| Segurador e dos fundos de pensões |  | Constituição e gestão de fundos de pensões | Autoridade de Supervisão de Seguros e Fundos de Pensões |
+| Gestão e regularização de sinistros (empresas de seguros e de resseguros) |  |  |  |
+| Constituição e gestão de fundos de pensões |  |  |  |
+
+118809273
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:20px; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { min-height:29px; } .Tbl13 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl15 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl17 { min-height:47px; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl20 { min-height:38px; } .Tbl21 { min-height:39px; } .Tbl22 { min-height:67px; } .Tbl23 { min-height:21px; } .Tbl24 { min-height:58px; } .Tbl25 { min-height:30px; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl28 { min-height:56px; } .Tbl29 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; } .Tbl30 { min-height:65px; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl33 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl34 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl35 { min-height:31px; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl37 { min-height:107px; } .Tbl38 { min-height:50px; } .Tbl39 { min-height:75px; }

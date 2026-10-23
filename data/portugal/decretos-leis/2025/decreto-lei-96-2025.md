@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2025/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2025-932837040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75ec826b2356d0addaca2cd4abe6909c653c37f6a0efe5e455a91046fae935e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 569e0c5864443d4e1e52d41a5d508790abe74ba94055406221137f97a999c8f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Instituto Público
-- Orgânica
 - Agência para a Modernização Administrativa
 - Agência para a Reforma Tecnológica do Estado
+- Instituto Público
+- Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:1045423484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:43/2012
+  label: Altera, a partir de 22 de agosto de 2025, nos termos do artigo 6.º do presente diploma, o artigo 3.º (as alíneas
+    b), c), e), h), i) e k) deste com entrada em vigor a 20 de outubro de 2025) e os artigos 4.º e 10.º-A, adita o artigo
+    4.º-A (este com entrada em vigor a partir da nomeação dos membros do conselho diretivo da ARTE, IP), e revoga o n.º 2
+    do artigo 1.º e o artigo 6.º (este com efeitos a partir da nomeação dos membros do conselho diretivo da ARTE, IP) do Decreto-Lei
+    n.º 43/2012, de 23 de fevereiro, Diário da República n.º 39/2012, Série I, que cria a Agência para a Modernização Administrativa,
+    I. P. (AMA, I.P) que passa a designar-se Agência para a Reforma Tecnológica do Estado, IP (ARTE, IP)
+  source: null
+  date: '2012-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
   label: null
@@ -88,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:542864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:35Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +210,9 @@ q) Assegurar a representação externa e estabelecer relações de cooperação 
 
 3 - A ARTE, IP, é equiparada a entidade pública empresarial, para efeitos de desenvolvimento e gestão do sistema de atendimento omnicanal, bem como para efeitos de conceção e desenvolvimento de soluções, aplicações, plataformas, projetos e execução de atividades conducentes ou necessárias à prestação de serviços partilhados, compras públicas e às respetivas atividades de suporte.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 São órgãos da ARTE, IP:
 
@@ -200,7 +224,9 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 Aos membros do conselho diretivo é aplicável o estatuto do gestor público.»
 
@@ -254,12 +280,14 @@ Os membros do conselho diretivo da AMA, IP, mantêm-se em funções até à desi
 
 Visto e aprovado em Conselho de Ministros de 31 de julho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Gonçalo Nuno da Cruz Saraiva Matias.
 
-**Promulgado em 12 de agosto de 2025.**
+Promulgado em 12 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2025.**
+Referendado em 18 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119450047

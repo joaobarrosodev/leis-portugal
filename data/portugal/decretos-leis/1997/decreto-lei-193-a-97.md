@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 173/1997, 1º Suplemento, Série I-A de 1997-07-29
   number: '173'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3928-(2) a 3928-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173a01/00020005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/193-a/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-a-1997-650114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 589a981ffe0de1fc7ae8796addd0c71b7fd77076fe8f92a39f6939faaf1bb0b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ec064a406d4ed5198f8b96f07c87ea4a9b4a627cac3ff82ebefd437bc6b0a92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Capital Social
 - OPV
 - Privatização
 - Setenave
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:198117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222977:por
+  label: "Alterado os artºs 2.º, 6.º e 8.º pelo DEC LEI.5/98.1998.01.12.MF DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1998-222977
+  date: '1998-01-12'
+- type: amended_by
+  target: pt:dre:198117:por
+  label: "Alterados os arts. 2º, 6º e 8º pelo DEC LEI.77/98.1998.03.27.MF, DR.IS-A [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1998-198117
+  date: '1998-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/56/1991/01/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1991/01/26/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546853:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:45Z'
   warnings: []
   errors: []
 ---
@@ -248,12 +274,12 @@ Para a realização das operações de reprivatização previstas no presente de
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 26 de Junho de 1997.**
+Promulgado em 26 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 1997.**
+Referendado em 27 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

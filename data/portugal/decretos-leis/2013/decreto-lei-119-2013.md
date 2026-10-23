@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2013/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b01a76770ce4791f755a97afdbbf2048b2b60342c29ec65399790250911dd34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5961bb67a7166456aa99670293d2b8d4afca625911a12b230f5c0d97c4d765c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,119 +66,154 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração de Portos
 - Agência de Inovação
 - Agência Europeia de Segurança Marítima
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- QREN
+- Agência Portuguesa do Ambiente
 - Aicep
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
+- Autoridade para as Condições do Trabalho
 - Centro de Relações Laborais
-- Ministério da Administração Interna
-- Ministro da Saúde
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
-- Conselho Nacional da Formação Profissional
+- Comissão para a Promoção de Políticas de Família
+- Conselho Consultivo das Famílias
 - Conselho de Ministros
+- Conselho Nacional da ÁGUA
+- Conselho Nacional da Formação Profissional
 - Conselho Nacional de Higiene e Segurança no Trabalho
-- Instituto Portuário e dos Transportes Marítimos
+- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
 - Definição de Competências
 - Delegação de Competências
-- Impulso Jovem
+- Direção Geral de Energia e Geologia
+- Direção Geral do Território
+- Direcção Geral do Emprego e das Relações de Trabalho
 - EEE
 - Empresa Pública
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Entidade Reguladora dos Serviços Energéticos
 - Equipa de Missão
 - Escola Náutica Infante Dom Henrique
-- Administração de Portos
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Ministério da Economia
 - Fundos CE
-- Direção Geral de Energia e Geologia
 - Gabinete Governamental
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gabinete para os Meios de Comunicação Social
+- Governo XIX
+- Impulso Jovem
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Instituto Financeiro para o Desenvolvimento Regional
+- Instituto Hidrográfico
+- Instituto Portuário e dos Transportes Marítimos
+- Laboratório Nacional de Energia e Geologia
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Ministério da Agricultura e do MAR
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação e Ciência
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Solidariedade Emprego e Segurança Social
+- Ministério das Finanças
 - Ministério do Ambiente Ordenamento do Território e Energia
+- Ministério dos Negócios Estrangeiros
 - Ministro Adjunto e do Desenvolvimento Regional
+- Ministro da Administração Interna
+- Ministro da Agricultura e do MAR
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação e Ciência
 - Ministro da Justiça
 - Ministro da Presidência e dos Assuntos Parlamentares
+- Ministro da Saúde
+- Ministro da Solidariedade Emprego e Segurança Social
+- Ministro de Estado e das Finanças
 - Ministro de Estado e dos Negócios Estrangeiros
 - Ministro do Ambiente Ordenamento do Território e Energia
+- Observatório do QREN
+- Orgânica
+- Parpública
+- PCM-Entidades
+- Presidência do Conselho de Ministros
+- Primeiro-ministro
+- QREN
+- Secretário de Estado Adjunto do Vice-primeiro-ministro
+- Secretário de Estado Adjunto e da Economia
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura
 - Secretário de Estado da Alimentação e da Investigação Agroalimentar
 - Secretário de Estado da Energia
 - Secretário de Estado da Inovação Investimento e Competitividade
 - Secretário de Estado da Solidariedade e da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Finanças
+- Secretário de Estado das Florestas e Desenvolvimento Rural
 - Secretário de Estado das Infraestruturas Transportes e Comunicações
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Emprego
 - Secretário de Estado do Mar
 - Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
+- Secretário de Estado do Tesouro
 - Secretário de Estado do Turismo
-- Subsecretário de Estado Adjunto do Vice-primeiro Ministro
-- Ministério das Finanças
 - Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Primeiro-ministro
-- Secretário de Estado Adjunto e do Orçamento
-- Instituto de Gestão do Fundo Social Europeu
-- Ministério da Educação e Ciência
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Gabinete para os Meios de Comunicação Social
-- Instituto de Informática
-- Instituto Financeiro para o Desenvolvimento Regional
-- Instituto Hidrográfico
-- Laboratório Nacional de Energia e Geologia
-- Direção Geral do Território
-- Instituto da Conservação da Natureza e das Florestas
-- Ministério da Agricultura e do MAR
-- Ministério da Solidariedade Emprego e Segurança Social
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Governo XIX
-- Secretário de Estado do Tesouro
-- Conselho Nacional do Ambiente e do Desenvolvimento Sustentavel
-- Entidade Reguladora dos Serviços das Águas e dos Resíduos
-- Instituto da Habitação e da Reabilitação Urbana
-- Conselho Nacional da ÁGUA
-- Secretário de Estado do Ambiente
-- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
-- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado para os Assuntos Europeus
-- Ministro da Agricultura e do MAR
-- Ministro da Educação e Ciência
-- Ministro da Solidariedade Emprego e Segurança Social
-- Observatório do QREN
-- Orgânica
-- Parpública
-- PCM-Entidades
-- Entidade Reguladora dos Serviços Energéticos
-- Comissão para a Promoção de Políticas de Família
-- Conselho Consultivo das Famílias
-- Ministro de Estado e das Finanças
-- Madeira.região Autónoma
-- Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Ministro da Defesa Nacional
-- Secretário de Estado Adjunto do Vice-primeiro-ministro
-- Secretário de Estado Adjunto e da Economia
-- Ministério dos Negócios Estrangeiros
-- Secretário de Estado da Administração Pública
-- Secretário de Estado das Finanças
-- Secretário de Estado das Florestas e Desenvolvimento Rural
-- Ministro da Administração Interna
-- Açores
+- Setor Empresarial do Estado
+- Subsecretário de Estado Adjunto do Vice-primeiro Ministro
 - Substituição de Funções
 - Transferência de Competências
 - Transferência de Serviços
 - Tutela
 - Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu
 - Vice-primeiro Ministro
-- Autoridade para as Condições do Trabalho
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:70961383:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570690:por
+  label: "Determinada a sucessão das funções de autoridade portuária nos portos de pesca e nas marinas de recreio do Instituto\
+    \ Portuário e dos Transportes Marítimos, I. P., com orgânica constante do Dec Lei 146/2007, de 27-abr, na redação do presente\
+    \ diploma, na Docapesca - Portos e Lotas, S. A., prevista no Dec Lei 107/90. de 27-mar, pelo DEC LEI.16/2014.03.02.2014.MAGM,\
+    \ DR.IS [23] de 03.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2014-570690
+  date: '2014-02-03'
+- type: amended_by
+  target: pt:dre:570735:por
+  label: "Dada nova redação ao art. 3.º do Dec Lei 86-A/2011 de 12-jul, alterado e republicado pelo presente diploma, pelo\
+    \ DEC LEI.20/2014.10.02.2014.PCM, DR.IS [28] de 10.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2014-570735
+  date: '2014-02-10'
+- type: amended_by
+  target: pt:dre:65908883:por
+  label: Dada nova redação aos arts. 2.º e 3.º do Dec Lei 86-A/2011 de 12-jul, alterado e republicado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2014-65908883
+  date: '2014-12-17'
+- type: amended_by
+  target: pt:dre:67323529:por
+  label: Alterado o art. 3.º do Dec. Lei 86-A/2011 de 12-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 87/2015
+    - Diário da República n.º 102/2015, Série I de 2015-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2015-67323529
+  date: '2015-05-27'
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Mantidas integradas na Presidência do Conselho de Ministros as Comissões de Coordenação e Desenvolvimento Regional
+    cuja orgânica consta do Dec Lei 228/2012, de 25-out, na redação do presente diploma e determinado que o Ministro da Presidência
+    e do Desenvolvimento Regional exerça conjuntamente com o Ministro do Ambiente, Ordenamento do Território e Energia a direção
+    das mesmas Comissões pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015, 1º Suplemento, Série I de
+    2015-11-09, nos termos do n.º 9 do art. 10.º e do n.º 3 do art. 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -219,16 +254,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:145184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 36
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:39Z'
   warnings: []
   errors: []
 ---
@@ -257,7 +368,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 O Governo é composto pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro, pelos ministros, pelos secretários de Estado e por uma subsecretária de Estado.
 
-###### Artigo 2.º — Vice-Primeiro-Ministro e ministros
+Artigo 2.º
+
+Vice-Primeiro-Ministro e ministros
 
 Integram o Governo os:
 
@@ -289,7 +402,9 @@ m) [Anterior alínea k)];
 
 n) Ministro da Solidariedade, Emprego e Segurança Social.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -321,7 +436,9 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 15 - O Ministro da Solidariedade, Emprego e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Solidariedade e da Segurança Social e pelo Secretário de Estado do Emprego.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro, pelas ministras e pelos ministros.
 
@@ -331,7 +448,9 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -343,11 +462,15 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, pelos Ministros de Estado.**
+[...]
 
-###### Artigo 8.º — [...]
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, pelos Ministros de Estado.
+
+Artigo 8.º
+
+[...]
 
 1 - O Vice-Primeiro-Ministro, as ministras e os ministros têm a competência própria que a lei lhes confere e a competência que lhes seja delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
@@ -357,11 +480,15 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 4 - Os secretários de Estado e subsecretários de Estado não têm competência própria, exceto no que se refere aos respetivos gabinetes, e exercem em cada caso a competência que lhes seja delegada pelo Primeiro-Ministro, pelo Vice-Primeiro-Ministro ou pelo ministro respetivo.
 
-###### Artigo 9.º — Ausência e impedimento do Vice-Primeiro-Ministro e dos ministros
+Artigo 9.º
 
-**O Vice-Primeiro-Ministro e cada ministro são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.**
+Ausência e impedimento do Vice-Primeiro-Ministro e dos ministros
 
-###### Artigo 10.º — [...]
+O Vice-Primeiro-Ministro e cada ministro são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.
+
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -415,7 +542,9 @@ l) [Anterior alínea k)].
 
 14 - [...].
 
-###### Artigo 11.º — Finanças
+Artigo 11.º
+
+Finanças
 
 1 - [...].
 
@@ -429,7 +558,9 @@ l) [Anterior alínea k)].
 
 6 - [...].
 
-###### Artigo 12.º — Negócios Estrangeiros
+Artigo 12.º
+
+Negócios Estrangeiros
 
 1 - [...].
 
@@ -439,7 +570,9 @@ l) [Anterior alínea k)].
 
 4 - [Revogado].
 
-###### Artigo 13.º — Defesa Nacional
+Artigo 13.º
+
+Defesa Nacional
 
 1 - [...].
 
@@ -451,19 +584,25 @@ l) [Anterior alínea k)].
 
 5 - O acompanhamento da Agência Europeia de Segurança Marítima compete ao Ministro da Defesa Nacional, em articulação com a Ministra da Agricultura e do Mar.
 
-###### Artigo 14.º — Administração Interna
+Artigo 14.º
+
+Administração Interna
 
 1 - [...].
 
 2 - O Ministério da Administração Interna compreende os serviços identificados no [Decreto-Lei n.º 126-B/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2011-642011), de 29 de dezembro.
 
-###### Artigo 15.º — Justiça
+Artigo 15.º
+
+Justiça
 
 1 - [...].
 
 2 - O Ministério da Justiça compreende os serviços, organismos e estruturas identificados no [Decreto-Lei n.º 123/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2011-145185), de 29 de dezembro.
 
-###### Artigo 16.º — Economia
+Artigo 16.º
+
+Economia
 
 1 - O Ministério da Economia é o departamento governamental que tem por missão a conceção, execução e avaliação das políticas de desenvolvimento dirigidas ao crescimento da economia, da competitividade, de inovação, de internacionalização das empresas e de promoção do comércio externo, de promoção e atração de investimento nacional e estrangeiro, bem como as políticas de turismo, de defesa dos consumidores, da construção e do imobiliário, da regulação dos contratos públicos, de infraestruturas, de transportes e de comunicações.
 
@@ -501,7 +640,9 @@ l) [Anterior alínea k)].
 
 18 - São transferidas para o Ministério do Ambiente, Ordenamento do Território e Energia as competências relativas à definição de orientações do sector empresarial do Estado nos sectores energético e geológico.
 
-###### Artigo 17.º — Agricultura e do Mar
+Artigo 17.º
+
+Agricultura e do Mar
 
 1 - O Ministério da Agricultura e do Mar é o departamento governamental que tem por missão a definição, coordenação e execução de políticas agrícolas, agroalimentar, florestal, de desenvolvimento rural, de exploração e potenciação dos recursos do mar, bem como assegurar o planeamento e a coordenação da aplicação de fundos nacionais e comunitários a favor da agricultura, das florestas, do desenvolvimento rural e da política do mar.
 
@@ -521,13 +662,17 @@ l) [Anterior alínea k)].
 
 9 - A Ministra da Agricultura e do Mar exerce conjuntamente com o Ministro do Ambiente, Ordenamento do Território e Energia a superintendência e tutela, nas áreas da agricultura, do mar e das florestas, sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, que é transferida para o Ministério do Ambiente, Ordenamento do Território e Energia.
 
-###### Artigo 18.º — Saúde
+Artigo 18.º
+
+Saúde
 
 1 - [...].
 
 2 - O Ministério da Saúde compreende os serviços, organismos e entidades identificados no [Decreto-Lei n.º 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de dezembro.
 
-###### Artigo 19.º — Educação e Ciência
+Artigo 19.º
+
+Educação e Ciência
 
 1 - [...].
 
@@ -543,7 +688,9 @@ l) [Anterior alínea k)].
 
 7 - O Ministro da Educação e Ciência participa na superintendência e tutela do Instituto de Gestão do Fundo Social Europeu, I.P., em conjunto com o Ministro Adjunto e do Desenvolvimento Regional e o Ministro da Solidariedade, Emprego e Segurança Social.
 
-###### Artigo 20.º — Solidariedade, Emprego e Segurança Social
+Artigo 20.º
+
+Solidariedade, Emprego e Segurança Social
 
 1 - O Ministério da Solidariedade, Emprego e Segurança Social é o departamento governamental que tem por missão a definição, promoção e execução de políticas de solidariedade e segurança social, combate à pobreza e à exclusão social, apoio à família e à natalidade, a crianças e jovens em risco, a idosos, à inclusão de pessoas com deficiência, de promoção do voluntariado e de cooperação ativa e partilha de responsabilidades com as instituições do sector social, bem como as políticas de desenvolvimento dirigidas ao crescimento do emprego sustentável e de formação profissional e a aposta na mobilidade e modernização nas relações de trabalho.
 
@@ -631,7 +778,7 @@ k) Conselho Nacional da Água.
 
 ###### Artigo 5.º — Disposição orçamental
 
-**A Ministra de Estado e das Finanças providencia a efetiva transferência das verbas necessárias ao funcionamento dos gabinetes dos membros do Governo criados e reestruturados nos termos do presente diploma.**
+A Ministra de Estado e das Finanças providencia a efetiva transferência das verbas necessárias ao funcionamento dos gabinetes dos membros do Governo criados e reestruturados nos termos do presente diploma.
 
 ###### Artigo 6.º — Norma revogatória
 
@@ -647,15 +794,15 @@ O presente diploma produz efeitos a partir de 2 de julho de 2013, 24 de julho de
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Fernando Ferreira Santo - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - José Diogo Santiago de Albuquerque - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 16 de agosto de 2013.**
+Promulgado em 16 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de agosto de 2013.**
+Referendado em 19 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -763,7 +910,7 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 ###### Artigo 7.º — Ausência e impedimento do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, pelos Ministros de Estado.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, pelos Ministros de Estado.
 
 ###### Artigo 8.º — Competência dos restantes membros do Governo
 
@@ -777,7 +924,7 @@ n) Ministro da Solidariedade, Emprego e Segurança Social.
 
 ###### Artigo 9.º — Ausência e impedimento do Vice-Primeiro-Ministro e dos ministros
 
-**O Vice-Primeiro-Ministro e cada ministro são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.**
+O Vice-Primeiro-Ministro e cada ministro são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.
 
 ### CAPÍTULO III — Orgânica do Governo
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/1999/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1999-144871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4f18772cd16f0d24e72984177b2c93ec15e26588c1d316b31d059298ffb700e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0582b0f034b87be4aa4fcae104fdf44a83ed2168111364eac78a3ff9a6b471d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Família
-- Financiamento
-- Ministério do Trabalho e da Solidariedade
 - Centro Regional de Segurança Social
-- Medicina Privada
 - Contrato
+- Cuidados Médicos
 - Direcção Geral da Acção Social
+- Droga
 - Entidade sem FINS Lucrativos
 - Equipamento Social
+- Família
+- Financiamento
 - Fiscalização
-- IPSS
-- Projeto de Investimento
+- Inserção Social
 - Inspecção Geral de Saúde
 - Instalação de Serviços
 - Instituto para o Desenvolvimento Social
-- Droga
+- IPSS
+- Medicina Privada
+- Ministério do Trabalho e da Solidariedade
 - Pessoal Técnico de Serviço Social
-- Toxicodependente
 - Prestação de Serviços
-- Inserção Social
-- Cuidados Médicos
+- Projeto de Investimento
 - Proteção Social
 - Sanção
 - Serviço de Prevenção e Tratamento da Toxicodependência
 - Subsistemas de Saúde
+- Toxicodependente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/97/1998/04/18/p/dre
@@ -100,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/1998/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/1998/04/21/p/dre
+- type: cites
+  target: pt:dre:174849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175782:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:54Z'
   warnings: []
   errors: []
 ---
@@ -334,12 +342,12 @@ d) No âmbito dos protocolos de instalação para apoio a projectos de investime
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 11 de Fevereiro de 1999.**
+Promulgado em 11 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Março de 1999.**
+Referendado em 4 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

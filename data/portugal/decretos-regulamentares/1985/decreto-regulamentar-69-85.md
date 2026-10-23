@@ -48,40 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1985-177853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 967c604a605995f25afa885f36cc0b003dd4201807d84385613147dc501cdd4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebafa62afbb221be8a9c30899596fa6879ab611a39e5bdc524b414741a84375c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
 relationships:
 - type: amended_by
   target: pt:dre:222423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:06Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +111,7 @@ De acordo com o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672]
 
 O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 3 do artigo 31.º os n.os 10, 13 e 15 do artigo 38.º e o n.º 2 do artigo 54.º todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 3 do artigo 31.º os n.os 10, 13 e 15 do artigo 38.º e o n.º 2 do artigo 54.º todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 31.º — Instrumentos acústicos e capacetes de protecção
 
@@ -182,18 +187,18 @@ O sistema referido neste número será supervisionado pela Direcção-Geral de V
 
 ...
 
-###### Art. 2.º As especificações relativas ao material retrorreflector deverão obedecer às condições fixadas por despacho do director-geral de Viação.
+Art. 2.º As especificações relativas ao material retrorreflector deverão obedecer às condições fixadas por despacho do director-geral de Viação.
 
-###### Art. 3.º O disposto neste diploma entra em vigor 6 meses após a publicação das alterações ao Regulamento do Código da Estrada dele decorrentes.
+Art. 3.º O disposto neste diploma entra em vigor 6 meses após a publicação das alterações ao Regulamento do Código da Estrada dele decorrentes.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia.
 
-**Promulgado em 27 de Setembro de 1985.**
+Promulgado em 27 de Setembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Setembro de 1985.**
+Referendado em 30 de Setembro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

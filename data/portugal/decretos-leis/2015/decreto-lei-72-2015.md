@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09000/0233602337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2015/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2015-67185040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa31b5b4892ce6cda1fac2c93b5f3c0f3d2c421c58f5ef0ce637a9e70e57e964
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b96ccd0e4b479de60048936e57c22f254d8671163c2fa0b2ab52b50fb3263b93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Local
 - Agrupamento de Escolas
-- REDE Escolar
-- Conselho Municipal de Educação
+- Autarquia Local
 - Carta Educativa
-- Educação
+- Conselho Municipal de Educação
 - Definição de Competências
 - Director Escolar
-- Política de Educação
+- Educação
 - Estabelecimento de Ensino
-- Administração Local
-- Autarquia Local
+- Política de Educação
+- REDE Escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/30/2015/02/12/p/dre
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/2013/09/12/p/dre
+- type: cites
+  target: pt:dre:176533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66487456:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:10Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +192,9 @@ i) Participação no processo de elaboração e de atualização do Plano Estrat
 
 3 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -194,7 +216,9 @@ f) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área
 
 4 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -208,7 +232,9 @@ f) Os diretores dos agrupamentos de escolas e de escolas não agrupadas da área
 
 6 - (Anterior n.º 3.)
 
-###### Artigo 9.º — Pareceres
+Artigo 9.º
+
+Pareceres
 
 1 - [Anterior corpo do artigo.]
 
@@ -224,12 +250,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Agostinho Correia Branquinho.
 
-**Promulgado em 27 de abril de 2015.**
+Promulgado em 27 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de abril de 2015.**
+Referendado em 30 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

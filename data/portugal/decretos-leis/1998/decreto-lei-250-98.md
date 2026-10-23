@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/250/1998/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1998-438073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33b7029c45a9b4125d5173fd8cda0be7b63db0111c0642b25707aaf35085fbd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8e73392dc21ea5ed999cc427e77a958ff5edeff9821a0ffeba69689d6bcf919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito de Residência
 - Aproximação das Legislações
-- Residência de Estrangeiros
 - CE Países
 - CEE
 - Cidadão Estrangeiro
 - Direito de Estabelecimento
-- Livre Prestação de Serviços
+- Direito de Residência
 - Livre Circulação de Pessoas
 - Livre Circulação de Trabalhadores
-- Residência
+- Livre Prestação de Serviços
 - Nacional das Comunidades
 - Política Social
 - Regulamento CE
+- Residência
+- Residência de Estrangeiros
 - Trabalhador Comunitário
 relationships:
 - type: amended_by
@@ -106,16 +106,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/60/1993/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/1993/03/03/p/dre
+- type: repealed_by
+  target: pt:dre:538604:por
+  label: "Revogado o Dec Lei 60/93, de 03-Mar, na redacção do do presente diploma, pela Lei.37/2006.09.08.2006.AR, DR.IS [153]\
+    \ de 09.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2006-538604
+  date: '2006-08-09'
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:34Z'
   warnings: []
   errors: []
 ---
@@ -146,11 +152,15 @@ Os artigos 1.º, 2.º, 9.º e 17.º do Decreto-Lei n.º 60/93, de 3 de Março, p
 
 O presente diploma regula as condições especiais de entrada e permanência em território português de cidadãos estrangeiros nacionais de Estados membros da União Europeia, incluindo familiares destes e de cidadãos portugueses.
 
-###### Artigo 2.º — Trabalhador sazonal
+Artigo 2.º
+
+Trabalhador sazonal
 
 Por trabalhador sazonal entende-se o trabalhador admitido a ocupar um emprego em território nacional, num sector de actividade dependente do ritmo das estações do ano, cuja duração não exceda oito meses.
 
-###### Artigo 9.º — Titularidade
+Artigo 9.º
+
+Titularidade
 
 Gozam do direito de residência em território nacional:
 
@@ -160,7 +170,9 @@ b) O nacional de um Estado membro que não seja titular do direito de residênci
 
 c) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -174,12 +186,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 4 de Junho de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 21 de Julho de 1998.**
+Promulgado em 21 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

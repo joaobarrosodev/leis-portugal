@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04200/02700270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/87-1977-141821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 409baaddeca90f01a3057d48724014b71dcd2c54224456122966e9a385dacfd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 031c8f06346a4de890ca961f320a27e6e17d44ba61fbc79b0f0caaefeda6e1ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Pessoal do MAR
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:377882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:56Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +114,13 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 1. Os artigos 9.º e 15.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 9.º - 1. Não poderão ser inscritos marítimos os indivíduos condenados uma ou mais vezes em penas de prisão por crimes, cujo total exceda dois anos, enquanto não tiverem cumprido a respectiva pena ou hajam sido legal ou juridicamente ilibados.
+Art. 9.º - 1. Não poderão ser inscritos marítimos os indivíduos condenados uma ou mais vezes em penas de prisão por crimes, cujo total exceda dois anos, enquanto não tiverem cumprido a respectiva pena ou hajam sido legal ou juridicamente ilibados.
 
 2. As situações de liberdade condicional e de suspensão de execução de pena não prejudicam a inscrição marítima.
 
 ...
 
-###### Art. 15.º A inscrição marítima será cancelada nos seguintes casos:
+Art. 15.º A inscrição marítima será cancelada nos seguintes casos:
 
 a) A requerimento do interessado;
 
@@ -113,6 +130,6 @@ c) Impossibilidade superveniente e definitiva de o marítimo prestar trabalho.
 
 2. É acrescentado ao RIM um artigo 15.º-A, com a seguinte redacção:
 
-###### Art. 15.º-A. Aos marítimos a quem por este diploma é exigida carta de exame ou sejam oriundos das escolas das marinhas de comércio e de pesca, desde que deixem de prestar serviço na marinha mercante ou em actividades afins durante mais de cinco anos, será suspensa a inscrição marítima até à apresentação de documento comprovativo da aprovação em exame de reciclagem efectuado sob responsabilidade da Direcção-Geral dos Estudos Náuticos ou da Direcção-Geral da Administração-Geral das Pescas.
+Art. 15.º-A. Aos marítimos a quem por este diploma é exigida carta de exame ou sejam oriundos das escolas das marinhas de comércio e de pesca, desde que deixem de prestar serviço na marinha mercante ou em actividades afins durante mais de cinco anos, será suspensa a inscrição marítima até à apresentação de documento comprovativo da aprovação em exame de reciclagem efectuado sob responsabilidade da Direcção-Geral dos Estudos Náuticos ou da Direcção-Geral da Administração-Geral das Pescas.
 
 Ministérios da Agricultura e Pescas e dos Transportes e Comunicações, 20 de Janeiro de 1977. - O Secretário de Estado das Pescas, Pedro Amadeu de Albuquerque Santos Coelho. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0001700027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2025-911303061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd81b2f73738979e42d36fa2a97fee56c58682eb5bedf5dffa48aa33aeabdcda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbb954ae377311e0930ad2e74ad1a82d6d05848f8ff92242c2db224a7e1df85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
 - Comunicação Social
 - Comunidades Portuguesas
 - Cultura Portuguesa
 - Definição de Competências
 - Desenvolvimento Cultural
 - Desenvolvimento Social
-- Emigrante
-- Apoio ao Investimento
-- Projeto de Investimento
 - Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Emigrante
+- Financiamento
+- Projeto de Investimento
 - Subsídio não Reembolsável
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:124/2017
+  label: Altera, a partir de 23 de março de 2025, os artigos 1.º, 2.º, 4.º, 5.º, 5.º-A, 6.º, 6.º-A, 7.º, 8.º, 9.º, 10.º, 11.º
+    e 12.º e revoga os n.ºs 1 e 3 do artigo 5.º-A, a alínea f) do n.º 1 e o n.º 2 do artigo 7.º, as alíneas d) e e) do n.º
+    2 do artigo 8.º e o n.º 2 do artigo 11.º do Decreto-Lei n.º 124/2017, de 27 de setembro, Diário da República n.º 187/2017,
+    Série I
+  source: null
+  date: '2017-09-27'
+- type: amends
+  target: pt:numero:decreto-lei:122/2023
+  label: Altera, a partir de 23 de março de 2025, os artigos 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 14.º, 15.º, 16.º, 17.º,
+    18.º, 19.º e 20.º e revoga as alíneas a), b) e c) do n.º 3 do artigo 9.º, os n.ºs 1 e 3 do artigo 10.º, as alíneas d)
+    e e) do n.º 2 do artigo 14.º e o n.º 2 do artigo 18.º do Decreto-Lei n.º 122/2023, de 26 de dezembro, Diário da República
+    n.º 247/2023, Série I
+  source: null
+  date: '2023-12-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2023/12/26/p/dre
   label: null
@@ -91,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:108219722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674287:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:50Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +189,15 @@ g) Promover a igualdade de género, a não discriminação, o combate à xenofob
 
 3 - [...]
 
-###### Artigo 2.º — Natureza dos apoios
+Artigo 2.º
+
+Natureza dos apoios
 
 Os apoios têm a natureza de apoio financeiro não reembolsável e são concedidos através do financiamento de ações e projetos até ao limite máximo de 80 % do valor considerado elegível do orçamento apresentado, por verbas inscritas no orçamento do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -185,7 +217,9 @@ Os apoios têm a natureza de apoio financeiro não reembolsável e são concedid
 
 9 - Não podem candidatar-se as entidades que incluam organismos oficiais portugueses ou de outro Estado entre os respetivos associados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As candidaturas, não obstante a área da execução da ação ou projeto, são apresentadas, por via eletrónica, preferencialmente, através do Portal Único dos Serviços Digitais - o gov.pt, ou em suporte papel, pela entidade previamente credenciada junto:
 
@@ -225,7 +259,9 @@ b) A utilização do princípio «Once Only», dispensando os requerentes da apr
 
 c) A realização de notificações por meios eletrónicos, preferencialmente através do Serviço Público de Notificações Eletrónicas (SPNE).
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - (Revogado.)
 
@@ -233,19 +269,25 @@ c) A realização de notificações por meios eletrónicos, preferencialmente at
 
 3 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As candidaturas admitidas pelo posto consular ou secção consular da embaixada territorialmente competente são enviadas, por via eletrónica, à DGACCP, no prazo de 10 dias úteis após o fim do prazo para a respetiva apresentação, acompanhadas do parecer do posto consular ou secção consular, sem prejuízo do disposto no número seguinte.
 
 2 - O parecer consular não se aplica às candidaturas apresentadas por entidades com sede no território nacional.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - A apreciação das candidaturas é da competência de um júri constituído pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, que preside, e por dois vogais efetivos e dois vogais suplentes, designados pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas de entre trabalhadores pertencentes ao mapa de pessoal da DGACCP.
 
 2 - O presidente é substituído por um dos vogais efetivos nas suas faltas e impedimentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -265,7 +307,9 @@ g) [...]
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -281,7 +325,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O júri procede à análise das candidaturas e elabora uma proposta de distribuição da dotação orçamental disponível até 15 de dezembro ou 15 de junho de cada ano, consoante as ações ou projetos decorram no 1.º ou no 2.º semestre.
 
@@ -293,7 +339,9 @@ e) (Revogada.)
 
 5 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -317,13 +365,17 @@ f) As consequências do incumprimento contratual, tendo em conta, nomeadamente, 
 
 5 - No caso das entidades com sede em Portugal, a entrega do financiamento é feita pela DGACCP mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos termos da candidatura, e de aceitação das condições previstas no presente decreto-lei, bem como do correspondente recibo de pagamento.
 
-###### Artigo 11.º — Ações ou projetos não executados
+Artigo 11.º
+
+Ações ou projetos não executados
 
 1 - Quando, por motivos não imputáveis à entidade, devidamente fundamentados, uma ação ou projeto financeiramente apoiado não for cumprido no prazo estabelecido na candidatura, o mesmo pode ainda ser excecionalmente executado até ao final do semestre seguinte ao termo daquele prazo, desde que previamente autorizado pelo diretor-geral dos Assuntos Consulares e das Comunidades Portuguesas, e exista a respetiva dotação orçamental.
 
 2 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -357,7 +409,9 @@ e) [...]
 
 2 - Não são elegíveis para beneficiar do programa de apoios previsto no presente capítulo os órgãos de comunicação social detidos, total ou parcialmente, por entidades públicas nacionais ou estrangeiras.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 São elegíveis os projetos, as ações ou os programas que demonstrem que o espaço ou tempo de emissão é predominantemente dedicado a publicar ou difundir conteúdos que visem, cumulativamente, no mínimo, três das seguintes finalidades:
 
@@ -375,11 +429,15 @@ f) Divulgar informações dos serviços oficiais portugueses no estrangeiro, nom
 
 g) Valorizar o movimento associativo das comunidades portuguesas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os apoios têm a natureza de apoio financeiro não reembolsável e são concedidos através do financiamento de ações, projetos ou programas até ao limite máximo de 80 % do valor considerado elegível do orçamento apresentado, por verbas inscritas no orçamento do MNE.
 
-###### Artigo 8.º — Credenciação e candidaturas
+Artigo 8.º
+
+Credenciação e candidaturas
 
 1 - É condição prévia à apresentação de qualquer candidatura a credenciação, junto da DGACCP, dos órgãos de comunicação social que reúnam os critérios identificados no artigo 4.º
 
@@ -401,7 +459,9 @@ b) Evidência do registo da entidade junto das autoridades competentes do país 
 
 8 - Não podem candidatar-se as entidades que se encontrem nas condições previstas no artigo 18.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O prazo para apresentação de candidaturas decorre, anualmente, entre 1 e 28 de fevereiro para as ações ou projetos a realizar no ano da respetiva candidatura, ou que tenham conclusão até 28 de fevereiro do ano civil seguinte.
 
@@ -433,7 +493,9 @@ b) A utilização do princípio «Once Only», dispensando os requerentes da apr
 
 c) A realização de notificações por meios eletrónicos, preferencialmente através do Serviço Público de Notificações Eletrónicas (SPNE).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -441,13 +503,17 @@ c) A realização de notificações por meios eletrónicos, preferencialmente at
 
 3 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As candidaturas admitidas pelo posto consular ou secção consular da embaixada territorialmente competente são enviadas, por via eletrónica, à DGACCP, no prazo de 10 dias úteis após o fim do prazo para a respetiva apresentação, acompanhadas do parecer do posto consular ou secção consular, sem prejuízo do disposto no número seguinte.
 
 2 - O parecer consular não se aplica às candidaturas apresentadas por entidades com sede em território nacional.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -463,7 +529,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O júri procede à análise das candidaturas e elabora uma proposta de distribuição da dotação orçamental disponível até 30 de abril de cada ano.
 
@@ -475,7 +543,9 @@ e) (Revogada.)
 
 5 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As entidades beneficiárias ficam obrigadas a publicitar o apoio recebido, com menção explícita ao MNE e utilização do logótipo das comunidades portuguesas, em todas as ações, atividades ou suportes de comunicação com divulgação pública.
 
@@ -485,7 +555,9 @@ e) (Revogada.)
 
 4 - A DGACCP remete anualmente à área governativa com a tutela da comunicação social a lista de entidades credenciadas, cujas candidaturas foram aprovadas, com indicação de eventos a realizar no âmbito dos projetos, ações ou programas aprovados.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -497,13 +569,17 @@ e) (Revogada.)
 
 5 - No caso das entidades com sede em Portugal, a entrega do financiamento é feita mediante a assinatura, pela entidade apoiada, de declaração de compromisso de execução da ação ou projeto, nos termos da candidatura, e de aceitação das condições previstas no presente decreto-lei, bem como do correspondente recibo de pagamento.
 
-###### Artigo 18.º — Ações, projetos ou programas não executados
+Artigo 18.º
+
+Ações, projetos ou programas não executados
 
 1 - Quando, por motivos não imputáveis à entidade, devidamente fundamentados, uma ação, projeto ou programa financeiramente apoiado não for cumprido no prazo estabelecido na candidatura, o mesmo pode ainda ser excecionalmente executado até ao final do trimestre seguinte ao termo daquele prazo, desde que previamente autorizado pelo Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas, e exista a respetiva dotação orçamental.
 
 2 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O incumprimento das obrigações do beneficiário, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, determinam a impossibilidade de apresentação pelo mesmo de novas candidaturas nos três anos seguintes à verificação do incumprimento ou até à reposição total ou parcial da verba atribuída.
 
@@ -515,7 +591,9 @@ e) (Revogada.)
 
 5 - [...]
 
-###### Artigo 20.º — Controlo, acompanhamento e avaliação
+Artigo 20.º
+
+Controlo, acompanhamento e avaliação
 
 1 - As entidades beneficiárias dos apoios devem reportar anualmente à DGACCP, através de relatório, os termos e os níveis de execução dos apoios concedidos.
 
@@ -535,18 +613,20 @@ e) (Revogada.)
 
 São revogados:
 
-a) Os n.<sup>os</sup>1 e 3 do artigo 5.º-A, a alínea f) do n.º 1 e o n.º 2 do artigo 7.º, as alíneas d) e e) do n.º 2 do artigo 8.º e o n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2017-108219722), de 27 de setembro, na sua redação atual;
+a) Os n.os1 e 3 do artigo 5.º-A, a alínea f) do n.º 1 e o n.º 2 do artigo 7.º, as alíneas d) e e) do n.º 2 do artigo 8.º e o n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2017-108219722), de 27 de setembro, na sua redação atual;
 
-b) As alíneas a), b) e c) do n.º 3 do artigo 9.º, os n.<sup>os</sup>1 e 3 do artigo 10.º, as alíneas d) e e) do n.º 2 do artigo 14.º e o n.º 2 do artigo 18.º do [Decreto-Lei n.º 122/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), de 26 de dezembro.
+b) As alíneas a), b) e c) do n.º 3 do artigo 9.º, os n.os1 e 3 do artigo 10.º, as alíneas d) e e) do n.º 2 do artigo 14.º e o n.º 2 do artigo 18.º do [Decreto-Lei n.º 122/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2023-835674287), de 26 de dezembro.
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel.
 
-**Promulgado em 10 de março de 2025.**
+Promulgado em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de março de 2025.**
+Referendado em 13 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118813355

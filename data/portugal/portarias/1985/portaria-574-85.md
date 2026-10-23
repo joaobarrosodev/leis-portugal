@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/574-1985-180624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9165c3b7302182b3942b5e0a5ce851fa21a391c6880c6bad3ef7f9c566fdf747
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91bc138600ca2b80cb49b2f98fe6fcc7786bd19ca15fd918579e28f92ac21f8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Quadro de Pessoal
+- Quadro Geral de Adidos
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:580984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178098:por
+  label: "Alarga o quadro de pessoal do na parte referente ao pessoal dos serviços gerais - pessoal operário e auxiliar, aprovado\
+    \ pela Portaria n.º 796/80, de 7 de Outubro DR.IS [232], alterado pela Port 1107/81, de 29-Dez, Port 1239/82, de 31-Dez,\
+    \ Port 375/84, de 15-Jun, Port 543/84, de 01-Ago, Port 929/84, de 18-Dez e pelo presente diploma, pela Port.799/85.23.10.1985.PCM,\
+    \ DR.IS [244] de 23.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-1985-178098
+  date: '1985-10-23'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
+- type: cites
+  target: pt:dre:462188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:06Z'
   warnings: []
   errors: []
 ---
@@ -100,10 +128,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 19 de Julho de 1985.**
+Assinada em 19 de Julho de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18300/25112511.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18300/25112511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18300/25112511.pdf)

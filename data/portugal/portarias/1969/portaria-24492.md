@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24492-1969-213020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64006a3ec83359a07ce0c1568454d42027dc2684cac64012d507814a019b4b23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df2aad17c9cfff084ff7bd11886400d3c1b95ee0b757388d1526722fdcce4b96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:33Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1.ª O artigo 92.º passa a ter a seguinte redacção:
 
-###### Art. 92.º Facultativamente pode ainda ser usado o seguinte artigo pertencente a este grupo:
+Art. 92.º Facultativamente pode ainda ser usado o seguinte artigo pertencente a este grupo:
 
 Gabardina para sargentos e praças (figs. 130 e 131). - De tecido misto - poliéster e viscose ou algodão -, na cor azul-escura e forrada de nylon cinzento, de modelo igual ao determinado para os oficiais, tendo nos ombros platinas amovíveis do mesmo tecido para enfiar as passadeiras. É simples (não assertoada), com uma única ordem de três botões cinzentos, de 0,025 m de diâmetro, para usar abotoados. Os botões das platinas são cinzentos, de 0,014 m de diâmetro.
 
@@ -101,7 +109,7 @@ Na gabardina não se usam distintivos de especialização.
 
 2.ª O artigo 136.º passa a ter a seguinte redacção:
 
-###### Art. 136.º O impermeável para sentinelas, ordenanças, etc. (figs. 132 e 133). - É de tecido impermeável preto, de corte direito e rodado, sem cinto, com gola de colarinho. Abotoa à frente com cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela; o botão superior usa-se, normalmente, desabotoado.
+Art. 136.º O impermeável para sentinelas, ordenanças, etc. (figs. 132 e 133). - É de tecido impermeável preto, de corte direito e rodado, sem cinto, com gola de colarinho. Abotoa à frente com cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela; o botão superior usa-se, normalmente, desabotoado.
 
 A manga nasce junto à gola e tem perto do pulso uma presilha abotoando em botões pretos do padrão n.º 7. De cada lado tem uma algibeira interior com abertura exterior vertical.
 
@@ -115,6 +123,6 @@ No impermeável não se usam distintivos de especialização.
 
 Ministério da Marinha, 29 de Dezembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/12/30200/18561857.pdf))](https://files.diariodarepublica.pt/1s/1969/12/30200/18561857.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/12/30200/18561857.pdf)
 
 Ministério da Marinha, 29 de Dezembro de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

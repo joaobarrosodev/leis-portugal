@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07100/0192201927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2019/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2019-122059234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01690db38f15c0d0f00f47e5cc41ec6ab45367c779c9b330968c59a70d2dfd52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72ad9681604af25037a786ad8554d942c93fbcf4b71b131bafa6eb6469104925
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Financiamento
+- Administração Local
+- Administração Pública
+- Bolsa de Emprego Público
 - Bolsa de Estágio
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
+- Criação de Emprego
 - Definição de Competências
 - Direção Geral das Autarquias Locais
-- Administração Pública
-- SIADAP
-- Jovem
-- Bolsa de Emprego Público
-- Criação de Emprego
-- Programa Estágios Profissionais na Administração Local
-- Primeiro Emprego
-- Qualificação Profissional
 - Estágio de Formação
+- Financiamento
+- Formação Profissional
+- Função Pública
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Política de Emprego
-- Administração Local
+- Primeiro Emprego
+- Programa Estágios Profissionais na Administração Local
+- Qualificação Profissional
+- SIADAP
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2014/11/06/p/dre
@@ -113,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/2009/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/2009/07/23/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58763440:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:18Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +197,9 @@ Os artigos 1.º, 3.º a 6.º, 8.º a 10.º, 15.º, 17.º, 18.º, 20.º e 21.º d
 
 4 - O PEPAL pode ser aplicável à realização de estágios para acesso a profissões reguladas, mediante decisão própria da respetiva associação pública profissional.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -181,7 +211,9 @@ c) ...
 
 d) Fomentar o contacto dos jovens com outros trabalhadores e atividades, evitando o risco do seu isolamento, desmotivação e marginalização, contribuindo para a melhoria do seu perfil de empregabilidade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -199,7 +231,9 @@ c) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +247,9 @@ c) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O lançamento dos estágios é publicitado no sítio na Internet da entidade promotora, se existir, e em, pelo menos, dois órgãos de comunicação social de expansão regional ou local, sendo ainda comunicado à DGAL, para efeitos de divulgação nos termos definidos por esta.
 
@@ -223,7 +259,9 @@ c) ...
 
 4 - A DGAL divulga o lançamento dos estágios na bolsa de emprego público (BEP) e junto dos serviços do IEFP, I. P.
 
-###### Artigo 8.º — Seleção de estagiários
+Artigo 8.º
+
+Seleção de estagiários
 
 1 - O procedimento de seleção dos candidatos é da responsabilidade da entidade promotora do estágio.
 
@@ -237,13 +275,17 @@ c) ...
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Em data anterior ao início do estágio, é celebrado entre a entidade promotora e o estagiário um contrato de estágio, sujeito à forma escrita, em conformidade com o modelo previsto na alínea c) do n.º 2 do artigo 19.º, dele fazendo parte integrante o plano individual de estágio.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O contrato de estágio suspende-se automaticamente:
 
@@ -259,7 +301,9 @@ b) Por facto relativo ao estagiário, nomeadamente doença, licença parental, l
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +319,9 @@ c) ...
 
 d) Pelas faltas justificadas por motivo de doença, licença parental ou licença por adoção durante a execução do contrato de estágio, que excedem o período previsto na alínea b) do n.º 1 do artigo 10.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +339,9 @@ e) Dar conhecimento ao estagiário, por escrito, do plano individual de estágio
 
 3 - Para efeitos do disposto na alínea d) do número anterior, é aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +349,9 @@ e) Dar conhecimento ao estagiário, por escrito, do plano individual de estágio
 
 3 - O resultado da avaliação prevista no n.º 1 é dado a conhecer ao estagiário, por escrito, no prazo de 15 dias úteis a contar do último dia de realização do estágio.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - No termo do estágio é entregue pela entidade promotora ao estagiário um certificado comprovativo de frequência e avaliação final.
 
@@ -313,7 +363,9 @@ e) Dar conhecimento ao estagiário, por escrito, do plano individual de estágio
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -333,15 +385,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de fevereiro de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Eduardo Arménio do Nascimento Cabrita - José António Fonseca Vieira da Silva - Ângelo Nelson Rosário de Souza.
 
-**Promulgado em 27 de março de 2019.**
+Promulgado em 27 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de abril de 2019.**
+Referendado em 8 de abril de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -626,3 +678,5 @@ São revogados:
 a) O [Decreto-Lei n.º 65/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2010-335457), de 11 de junho;
 
 b) A [Portaria n.º 1236/2010](https://diariodarepublica.pt/dr/detalhe/portaria/1236-2010-306895), de 13 de dezembro.
+
+112213539

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/160a00/31493151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2000/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2000-319939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7ca05edb7bc741e6cd0020d10ee3931c4d58570f42ddf73d60ead9befd11d0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 552c38dd756245ea1f448a514cb84136ef95a2df480b153a6502ef0e73b86115
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Barcelos
-- Saneamento Básico
 - Esposende
-- Proteção do Ambiente
-- VILA do Conde
 - Póvoa de Varzim
+- Proteção do Ambiente
+- Saneamento Básico
 - Sistema Multimunicipal de Saneamento do Baixo Cávado e AVE
+- VILA do Conde
 - VILA NOVA de Famalicão
 relationships:
 - type: amended_by
   target: pt:dre:614173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614363:por
+  label: "Extinto o sistema multimunicipal de saneamento do Baixo Cávado e Ave, pelo DEC EI.264/2001.2001.09.28.MAOT, DR.IS-A\
+    \ [226], de acordo com o articulado do art. 7º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2001-614363
+  date: '2001-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
@@ -91,16 +97,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:614173:por
+  label: "Revogado, a partir de 04.05.2010, pelo DEC LEI.41/2010.29.04.2010.MAOT, DR.IS [83] de 29.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2010-614173
+  date: '2010-04-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:19Z'
   warnings: []
   errors: []
 ---
@@ -177,12 +204,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 21 de Junho de 2000.**
+Promulgado em 21 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

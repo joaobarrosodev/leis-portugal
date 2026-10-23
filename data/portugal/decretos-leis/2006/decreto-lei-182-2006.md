@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2006/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2006-539986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d25ac49af4fec25358d063ca8d8cffe3fa9fc0d766fcbb59a376998a539bcb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b46f1adf8d7e3bf3c3f8110c30dc2847cc25e99c0da69c2a4fbb1aea9f74d1d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aproximação das Legislações
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Sector Cooperativo
 - Definição de Competências
-- Administração Pública
-- Política de Saúde
-- Segurança no Trabalho
 - Inspecção Geral do Trabalho
-- Prevenção de Riscos Profissionais
+- Política de Saúde
 - Poluição Sonora
+- Prevenção de Riscos Profissionais
+- Sector Cooperativo
+- Segurança no Trabalho
 - Setor Privado
 - Trabalhador Independente
 relationships:
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:10Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +162,15 @@ a) «Entidade acreditada» a entidade reconhecida pelo Instituto Português de A
 
 b) «Exposição pessoal diária ao ruído», L(índice EX,8h), o nível sonoro contínuo equivalente, ponderado A, calculado para um período normal de trabalho diário de oito horas (T(índice 0)), que abrange todos os ruídos presentes no local de trabalho, incluindo o ruído impulsivo, expresso em dB (A), dado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 c) «Exposição pessoal diária efectiva», L(índice EX,8h,efect), a exposição pessoal diária ao ruído tendo em conta a atenuação proporcionada pelos protectores auditivos, expressa em dB(A), calculada pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
-d) «Média semanal dos valores diários da exposição pessoal ao ruído», [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf), a média dos valores de exposição diários, com uma duração de referência de quarenta horas, obtida pela expressão:
+d) «Média semanal dos valores diários da exposição pessoal ao ruído», [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf), a média dos valores de exposição diários, com uma duração de referência de quarenta horas, obtida pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 e) «Nível de pressão sonora de pico», L(índice Cpico), o valor máximo da pressão sonora instantânea, ponderado C, expresso em dB (C), dado pela expressão:
 
@@ -180,11 +180,11 @@ em que p(índice Cpico) é o valor máximo da pressão sonora instantânea a que
 
 f) «Nível sonoro contínuo equivalente», L(índice Aeq,T), ponderado A de um ruído num intervalo de tempo T, é o nível sonoro, expresso em dB (A), obtido pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 g) «Nível sonoro ponderado A», L(índice pA), o nível da pressão sonora, em dB (A), ponderado de acordo com a curva de resposta normalizada A, dado pela expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 h) «Ruído impulsivo» o ruído constituído por um ou mais impulsos de energia sonora, tendo cada um uma duração inferior a um segundo, e separados por mais de 0,2 segundos;
 
@@ -196,11 +196,11 @@ j) «Valores limite de exposição» o nível de exposição diária ou semanal 
 
 1 - Para os efeitos da aplicação do presente decreto-lei, os valores limite de exposição e os valores de acção superior e inferior, no que se refere à exposição pessoal diária ou semanal de um trabalhador e ao nível de pressão sonora de pico, são fixados em:
 
-a) Valores limites de exposição: L(índice EX,8h) = [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 87 dB (A) e L(índice Cpico) = 140 dB (C) equivalente a 200 Pa;
+a) Valores limites de exposição: L(índice EX,8h) = [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 87 dB (A) e L(índice Cpico) = 140 dB (C) equivalente a 200 Pa;
 
-b) Valores de acção superiores: L(índice EX,8h) = [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 85 dB (A) e L(índice Cpico) = 137 dB (C) equivalente a 140 Pa;
+b) Valores de acção superiores: L(índice EX,8h) = [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 85 dB (A) e L(índice Cpico) = 137 dB (C) equivalente a 140 Pa;
 
-c) Valores de acção inferiores: L(índice EX,8h) = [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 80 dB(A) e L(índice Cpico) = 135 dB (C) equivalente a 112 Pa.
+c) Valores de acção inferiores: L(índice EX,8h) = [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) = 80 dB(A) e L(índice Cpico) = 135 dB (C) equivalente a 112 Pa.
 
 2 - Para a aplicação dos valores limite de exposição, na determinação da exposição efectiva do trabalhador ao ruído é tida em conta a atenuação do ruído proporcionada pelos protectores auditivos.
 
@@ -440,13 +440,13 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques - Francisco Ventura Ramos - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 18 de Agosto de 2006.**
+Promulgado em 18 de Agosto de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Agosto de 2006.**
+Referendado em 24 de Agosto de 2006.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 
@@ -488,11 +488,11 @@ b) O empregador assumir que tais níveis ou limites foram ultrapassados e aplica
 
 6 - Estimativa da exposição pessoal diária ao ruído, L(índice EX,8h) - se durante um dia de trabalho um trabalhador está exposto a n diferentes tipos de ruído e se, para efeito de avaliação, cada um desses ruídos for analisado separadamente, a exposição pessoal diária desse trabalhador, L(índice EX,8h), pode calcular-se pelas equações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
-7 - Média semanal dos valores diários da exposição pessoal, [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) - a determinação da média semanal dos valores diários é obtida pela expressão
+7 - Média semanal dos valores diários da exposição pessoal, [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf) - a determinação da média semanal dos valores diários é obtida pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 8 - Na determinação da exposição pessoal diária ao ruído podem ser utilizados outros métodos, desde que conformes com a normalização aplicável.
 
@@ -518,11 +518,11 @@ b) Permitam determinar o nível sonoro contínuo equivalente, L(índice Aeq,T), 
 
 (a que se refere o n.º 9 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 ## ANEXO IV — Lista indicativa de medidas que devem ser tomadas para a redução dos riscos ligados à exposição dos trabalhadores ao ruído durante o trabalho
 
@@ -600,14 +600,14 @@ em que, s(índice f) é o valor do desvio padrão da atenuação e M(índice f) 
 
 c) Com os níveis globais, obtidos como indicado na alínea b), calcular o nível sonoro contínuo equivalente, L(índice Aeq,Tk,efect), de cada ruído que ocorra durante o tempo T(índice k), estando o trabalhador equipado com protectores auditivos, pela equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 d) Aplicando ao conjunto destes valores, calculados como refere a alínea anterior, a equação dada no n.º 6 do anexo I para calcular a exposição diária, obtém-se a exposição diária efectiva, L(índice EX,8h,efect) , em dB (A), de cada trabalhador que use protectores auditivos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
 
 3 - Nas situações em que o espectro do ruído não contenha componentes significativas de baixa frequência, podem ser utilizados os métodos de selecção dos protectores auditivos definidos na normalização aplicável, nomeadamente os métodos HML e SNR.
 
 4 - Quando na selecção dos protectores auditivos seja utilizado o método por banda de oitava, os cálculos efectuados podem ser registados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65846593.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2005/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b34a6eab9fd50961ed3bb638417428ddb5465e2b09f5c06a64fab12607ab088
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2d06c50b9f06d62db23c5c7ebe2b9692db91ca07a6d0b87722e7e8d11221c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alvará
 - Armas e Munições
 - Armazenagem
-- Prevenção de Incêndios
 - Contra-ordenação
 - Estabelecimento Industrial
-- Segurança no Trabalho
-- Segurança Pública
 - Fabrico Industrial
 - Fiscalização
 - Indústria
 - Licenciamento
 - Medidas Preventivas
 - Pirotecnia
+- Prevenção de Incêndios
+- PSP
 - Regulamento
 - Regulamento de Segurança dos Estabelecimentos de Fabrico e de Armazenagem de Produtos Explosivos
 - Segurança das Instalações
+- Segurança no Trabalho
+- Segurança Pública
 - Substância Perigosa
 - Taxa
 relationships:
@@ -91,6 +91,15 @@ relationships:
   target: pt:dre:897247292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:139/2002
+  label: "Determina a caducidade, no prazo previsto no art. 1º do Dec Lei 139/2003 de 02-Jul, DR.IS-A [150], dos alvarás e\
+    \ licenças de fabrico ou de armazenagem de produtos explosivos em vigor e que não tenham sido renovados ou concedidos\
+    \ de acordo com os requisitos constantes do Regulamento de Segurança dos Estabelecimentos de Fabrico e de Armazenagem\
+    \ de Produtos Explosivos, aprovado pelo Decreto-Lei n.º 139/2002, de 17 de Maio, bem como os que se mostrem suspensos\
+    \ à data de entrada em vigor do presente diploma \0a \0"
+  source: null
+  date: '2003-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2002/05/17/p/dre
   label: null
@@ -103,16 +112,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/35/1994/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/1994/02/08/p/dre
+- type: cites
+  target: pt:dre:158636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667123:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:30Z'
   warnings: []
   errors: []
 ---
@@ -331,12 +360,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e, salv
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Luís Filipe Marques Amado - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 13 de Maio de 2005.**
+Promulgado em 13 de Maio de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 2005.**
+Referendado em 13 de Maio de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

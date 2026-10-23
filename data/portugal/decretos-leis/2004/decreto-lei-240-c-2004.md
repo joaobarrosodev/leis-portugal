@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 303/2004, 1º Suplemento, Série I-A de 2004-12-29
   number: '303'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7380-(3) a 7380-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/303a01/00030004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/240-c/2004/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-c-2004-242048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 830ac88594fa3b2a0d9397ae0941cfe9181fc96f31ddb68143433d31152b5383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed0d5d689fad1f08e0ab26017bddbcb12e5864e7ea0dcc916ca891713066369f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contribuições da Segurança Social
 - Caixa Geral de Aposentações
-- Fundo de Pensões
+- Contribuições da Segurança Social
 - Contribuições e Impostos
+- Fundo de Pensões
 - NAV
 - Pensão de Aposentação
 - Quotização
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:03Z'
   warnings: []
   errors: []
 ---
@@ -146,12 +150,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
 
-**Promulgado em 22 de Dezembro de 2004.**
+Promulgado em 22 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

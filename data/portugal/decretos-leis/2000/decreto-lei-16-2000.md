@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/050a00/06820683.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2000/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c68459d3168141f5bff7c11d37ba40ef1d560939aa54d832f7ed97116c9e344
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cecc99a4d01752c5a6e0de1e9e73da8321f38098f882f3f501281604ada06585
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - BENS de Consumo
-- Multa
+- Comércio
 - Comissão de Segurança
 - Contra-ordenação
 - Coordenador
 - Criação de Lugares
 - Definição de Competências
-- Saúde Pública
-- Segurança Pública
+- Exportação
 - Fabrico Industrial
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
 - Importação
+- Inspecção Geral das Actividades Económicas
 - Instituto do Consumidor
-- Exportação
+- Multa
 - Proteção do Consumidor
 - Quadro de Pessoal
-- Comércio
+- Saúde Pública
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:574566:por
@@ -94,16 +94,22 @@ relationships:
   target: celex:31992L0059
   label: null
   source: http://data.europa.eu/eli/dir/1992/59/oj
+- type: repealed_by
+  target: pt:dre:574566:por
+  label: "Revogado o Dec Lei 311/95, de 20-Nov, com as alterações introduzidas pelo presente diploma, pelo DEC LEI.69/2005.17.03.2005.PCM,\
+    \ DR.IS-A [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2005-574566
+  date: '2005-03-17'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:45Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +150,9 @@ c) ...
 
 d) Desencadear as acções que se revelem adequadas para a eliminação de tais riscos, nomeadamente a retirada do produto do mercado.
 
-###### Artigo 8.º — Prorrogativas da Comissão
+Artigo 8.º
+
+Prorrogativas da Comissão
 
 1 - Sem prejuízo das suas competências, a Comissão pode propor ao Governo, em deliberação fundamentada, a proibição, com carácter obrigatório geral, do fabrico, importação, exportação, troca intracomunitária, comercialização ou colocação no mercado de bens ou serviços, ou categorias de bens ou serviços susceptíveis de pôr em risco a saúde e a segurança dos consumidores, em virtude da sua composição.
 
@@ -154,7 +162,9 @@ d) Desencadear as acções que se revelem adequadas para a eliminação de tais 
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 12.º — Contra-ordenações
+Artigo 12.º
+
+Contra-ordenações
 
 1 - A violação do disposto nos artigos 3.º e 4.º e nas portarias a que se refere o n.º 2 do artigo 8.º do presente diploma constitui contra-ordenação punível com coima entre 10000$00 e 750000$00 ou 50000$00 e 9000000$00, consoante se trate, respectivamente, de pessoas singulares ou colectivas.
 
@@ -178,7 +188,9 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 4 - São passíveis de apreensão e retirada do mercado, nos termos dos artigos 74.º e seguintes do Decreto-Lei n.º 28/84, de 20 de Janeiro, os produtos que, nos termos do presente diploma, possam ser considerados perigosos.
 
-###### Artigo 16.º — Apoios, secretariado executivo e encargos
+Artigo 16.º
+
+Apoios, secretariado executivo e encargos
 
 1 - O apoio técnico, administrativo e logístico ao funcionamento da Comissão a que se refere o artigo 6.º é assegurado pelo Instituto do Consumidor, sendo coordenado por um secretário, equiparado, para todos os efeitos legais, a director de serviço.
 
@@ -192,12 +204,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1999. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - António do Pranto Nogueira Leite - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins - Armando António Martins Vara.
 
-**Promulgado em 17 de Fevereiro de 2000.**
+Promulgado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 2000.**
+Referendado em 18 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

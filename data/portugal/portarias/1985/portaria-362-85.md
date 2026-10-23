@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1985-181575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f2c4d3f042605e6ddb9ba7dc44864e9d998772f65b35b42468b3c9f51b523c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3476abd86eabd301d3a894105a891296b0bd975232b382cec274878144e040a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Impresso
+- Registo Comercial
+- Registo Nacional de Pessoas Coletivas
+relationships:
+- type: cites
+  target: pt:dre:312427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328376:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:03Z'
   warnings: []
   errors: []
 ---
@@ -98,8 +110,8 @@ Modelo n.º 14 RNPC - Requerimento de inscrição e ou cartão de identificaçã
 
 Ministério da Justiça.
 
-**Assinada em 23 de Maio de 1985.**
+Assinada em 23 de Maio de 1985.
 
-**O Ministro da Justiça, Mário Ferreira Bastos Raposo.**
+O Ministro da Justiça, Mário Ferreira Bastos Raposo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/13400/15501554.pdf))](https://files.diariodarepublica.pt/1s/1985/06/13400/15501554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13400/15501554.pdf)

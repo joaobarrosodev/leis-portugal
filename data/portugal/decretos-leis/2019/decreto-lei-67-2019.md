@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2019/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2019-122349221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c92e0164a124f258da3a6f4f8e39e5a56cbda8d747316c8590b58360e5ac3f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f63137f4614c21309ea6e72f04c17e077f5e4df9b4e353c6740ee616645f84ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
-- Definição de Competências
-- Renovação Urbana
-- Regulamentação de Atos Legislativos
+- Câmara Municipal
 - Código do Imposto Municipal sobre Imóveis
 - Contribuições e Impostos
-- Urbanismo
+- Definição de Competências
 - Prédio Devoluto
-- Câmara Municipal
 - Prédio Urbano
+- Regulamentação de Atos Legislativos
+- Renovação Urbana
 - Taxa
-- Autarquia Local
 - Tributação
+- Urbanismo
 - ZONA Urbana
 relationships:
 - type: cites
@@ -104,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50-a/2018/05/02/p/dre
+- type: cites
+  target: pt:dre:115211109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:38Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +196,9 @@ Os artigos 1.º a 5.º do [Decreto-Lei n.º 159/2006](https://diariodarepublica.
 
 O presente decreto-lei regula a classificação de prédios urbanos ou frações autónomas como devolutos, para efeitos da aplicação da taxa do imposto municipal sobre imóveis (IMI), bem como para as demais finalidades previstas por lei, relacionadas com políticas de habitação, urbanismo e reabilitação urbana.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O prédio urbano ou a fração autónoma que durante um ano se encontre desocupado é classificado como devoluto, nos termos previstos no presente decreto-lei.
 
@@ -188,7 +214,9 @@ d) A situação de desocupação do imóvel, atestada por vistoria realizada ao 
 
 3 - A existência de consumos superiores aos previstos na alínea c) do número anterior não afasta a possibilidade de o imóvel ser classificado como devoluto, designadamente através da vistoria referida na alínea d) do número anterior.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -208,7 +236,9 @@ g) Integrado em empreendimento turístico ou inscrito como estabelecimento de al
 
 h) Cujos consumos previstos na alínea c) do n.º 2 do artigo 2.º não sejam atingidos devido a impedimento objetivo de utilização do imóvel, designadamente em virtude de disputa judicial quanto à respetiva posse, devido à verificação de qualquer dos fundamentos previstos no n.º 2 do artigo 1072.º do Código Civil ou por motivos de formação, saúde, prestação de cuidados permanentes enquanto cuidador informal ou permanência em equipamento social, desde que devidamente comprovados.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A identificação dos prédios urbanos ou frações autónomas que se encontrem devolutos compete aos municípios, os quais devem averiguar a ocorrência dos indícios previstos no artigo 2.º e considerar as exceções previstas no artigo anterior.
 
@@ -220,7 +250,9 @@ h) Cujos consumos previstos na alínea c) do n.º 2 do artigo 2.º não sejam at
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -274,15 +306,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 3 de maio de 2019.**
+Promulgado em 3 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de maio de 2019.**
+Referendado em 13 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -292,7 +324,7 @@ Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António
 
 2 - Caso sejam criados, por organismos oficiais, novos indicadores que possam ser inseridos nos temas referidos, podem os mesmos contribuir para a fundamentação de uma zona de pressão urbanística, em complemento aos indicadores elencados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf))](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf)
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
@@ -380,4 +412,6 @@ h) Cujos consumos previstos na alínea c) do n.º 2 do artigo 2.º não sejam at
 
 2 - Caso sejam criados, por organismos oficiais, novos indicadores que possam ser inseridos nos temas referidos, podem os mesmos contribuir para a fundamentação de uma zona de pressão urbanística, em complemento aos indicadores elencados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf))](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/05/09700/0253002537.pdf)
+
+112304859

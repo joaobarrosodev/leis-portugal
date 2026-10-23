@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20100/0895208953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/2015/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2015-70686131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0f86a7c3bca95f92dfa3a32d8100fa28b28063a3735e942e10f6dfd665a31a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad11cef8de7ceffb5f251238af3008786f934559d9fb0d8d7819dfe22eb5c541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Financiamento
-- Leite
-- Crédito ao Investimento
 - Apoio ao Investimento
+- Crédito ao Investimento
+- Financiamento
 - IFAP
 - JURO Bonificado
+- Leite
 - Linha de Crédito
+- Produção Animal
 - Produção Leiteira
+- Produto Animal
 - Suinicultura
 - TAXA de JURO
-- Produto Animal
 relationships:
 - type: cites
   target: celex:32013R1408
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76-a/2015/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76-a/2015/09/16/p/dre
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70322731:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:00Z'
   warnings: []
   errors: []
 ---
@@ -223,12 +231,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 8 de outubro de 2015.**
+Promulgado em 8 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de outubro de 2015.**
+Referendado em 9 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

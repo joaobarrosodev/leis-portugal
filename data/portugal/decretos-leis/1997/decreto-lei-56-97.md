@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/062a00/11621207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1997-517247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 443482086a200ed1924841de78c7829ef024b947890a4354e63f730909d772e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c85d6db930b58bffe021a670e04c1b1642605816154e0bcb139799631e1694e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
-- Multa
 - Consumo de Energia
 - Contra-ordenação
 - Contrato de Concessão
 - Definição de Competências
 - Direcção Geral de Energia
+- Distribuição de Energia Elétrica
 - EDP
+- Energia Elétrica
 - Energia Térmica
-- Política Energética
 - Fiscalização
 - Licenciamento
+- Multa
 - Normas de Segurança
+- Política Energética
 - Preço
-- Serviço Público
 - Produção de Energia Elétrica
 - Rede Nacional de Transporte de Energia Elétrica
 - Regime Jurídico
@@ -89,16 +88,29 @@ subjects:
 - Regulamento de Relações Comerciais
 - Regulamento do Acesso as Redes e as Interligações
 - Regulamento do Despacho
+- Serviço Público
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico Independente
-- Sistema Elétrico Nacional
 - Sistema Eléctrico não Vinculado
+- Sistema Elétrico Nacional
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:330216:por
+  label: "Alterados os arts. 19º, 25º, 28º e revogado o art. 56º do Dec Lei 182/95, na redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.198/2000.2000.08.24.MECO, DR.IS-A [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2000-330216
+  date: '2000-08-24'
+- type: amended_by
+  target: pt:dre:303141:por
+  label: "Alterados os arts. 1º, 3º, 49º e 51º bem como o anexo do Dec Lei 182/95 de 27-Jul, com a redacção do presente diploma,\
+    \ pelo DEC LEI.85/2002.2002.04.06.MECO DR.IS-A [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2002-303141
+  date: '2002-04-06'
 - type: cites
   target: eli:http://data.dre.pt/
   label: null
@@ -139,16 +151,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
+- type: cites
+  target: pt:dre:303777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o Dec Lei 182/95 de 27-Jul, na redacção do presente diploma, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A\
+    \ [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
+- type: repealed_by
+  target: pt:dre:340237:por
+  label: "Revogado o art. 6º do Dec Lei 183/95 de 27-Jul, com a redacção conferida no presente diploma, pelo DEC LEI.226-A/2007.31.05.2007.MAOTDR,\
+    \ DR.IS [105-2ºSupl] de 31.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-a-2007-340237
+  date: '2007-05-31'
 article_structure:
-  article_count: 243
+  article_count: 212
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:32Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +285,9 @@ b) A entidade concessionária da RNT;
 
 c) Os titulares de licenças vinculadas de distribuição.
 
-###### Artigo 11.º — Competência do planeamento do sistema electroprodutor
+Artigo 11.º
+
+Competência do planeamento do sistema electroprodutor
 
 1 - O planeamento do sistema electroprodutor do SEP, tal como definido no artigo anterior, é da responsabilidade da Direcção-Geral da Energia (DGE), nos termos constantes do respectivo diploma orgânico.
 
@@ -213,7 +307,9 @@ f) Assegurar, em colaboração com a entidade concessionária da RNT e com as en
 
 g) Recolher e analisar a informação sobre eventuais interferências dos centros electroprodutores que entidades do SEI se propõem construir com os aproveitamentos hidroeléctricos pertencentes ao SEP, quer se encontrem em serviço quer tenham a sua construção prevista no plano de expansão em vigor, ou ainda relativamente aos quais existam os estudos referidos na alínea c).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As necessidades de expansão do sistema electroprodutor do SEP são identificadas pela DGE em planos de expansão, que esta deve elaborar de dois em dois anos.
 
@@ -233,7 +329,9 @@ d) As capacidades potenciais de transporte da RNT.
 
 5 - Os planos de expansão do sistema electroprodutor do SEP, depois de aprovados, assim como a estimativa referida no n.º 3, são objecto de publicação pela DGE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - De cada vez que, de acordo com os planos de expansão referidos no artigo 12.º, se mostre necessário integrar novos centros electroprodutores no SEP, a DGE deve proceder à organização, lançamento e condução de uma consulta pública, com vista à selecção da entidade que irá estabelecer e explorar esse novo centro electroprodutor.
 
@@ -257,13 +355,17 @@ c) Lançamento do processo de consulta previsto no presente artigo.
 
 8 - A integração de cada novo centro electroprodutor no SEP concretiza-se mediante a celebração de um novo contrato de vinculação entre a entidade concessionária da RNT e a entidade seleccionada para o estabelecer e explorar, nos termos dos números anteriores.
 
-###### Artigo 21.º — Gestão técnica global do SEP
+Artigo 21.º
+
+Gestão técnica global do SEP
 
 1 - ...
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -281,17 +383,23 @@ d) ...
 
 e) [Redacção da anterior alínea f).]
 
-###### Artigo 37.º — Mecanismo de correcção de hidraulicidade
+Artigo 37.º
+
+Mecanismo de correcção de hidraulicidade
 
 Os riscos financeiros associados à variabilidade dos custos com a aquisição de electricidade, decorrentes da variabilidade da produção hidroeléctrica do sistema electroprodutor vinculado, causada pela irregularidade interanual das afluências hidrológicas, são geridos mediante os mecanismos estabelecidos pelos Decretos-Leis n.os 23/89, de 19 de Janeiro, e n.º 338/91, de 10 de Setembro.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Consideram-se integrados no SENV, nos termos do presente diploma, os centros electroprodutores que à data da publicação do mesmo pertençam a empresas cujo objecto seja a produção de energia eléctrica e que sejam propriedade das entidades integradas no SEP como titulares da distribuição vinculada de energia eléctrica em MT e AT.
 
 2 - Os centros electroprodutores a que se refere o número anterior são os constantes da lista anexa ao presente diploma e não são susceptíveis de obter uma licença de produção, sob qualquer outro estatuto, no âmbito do SEI.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -309,11 +417,15 @@ c) ...
 
 3 - Exceptuam-se do disposto no n.º 1 as situações em que a titular das licenças seja detida pelo Estado, directamente ou através de sociedade de que detenha o controlo.
 
-###### Artigo 57.º — Relações com participadas
+Artigo 57.º
+
+Relações com participadas
 
 Os relatórios anuais da entidade concessionária da RNT e das entidades detentoras de licença de produção ou de distribuição de energia eléctrica devem indicar, em anexo, as transacções realizadas com sociedades por elas controladas ou que pertençam aos mesmos accionistas e que tenham um montante superior ao valor que, para o efeito, se encontrar fixado pela Entidade Reguladora.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -329,11 +441,15 @@ Os relatórios anuais da entidade concessionária da RNT e das entidades detento
 
 7 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 Exceptuam-se ao disposto no n.º 1 do artigo 14.º, para além dos casos previstos no n.º 3 do mesmo artigo, os aproveitamentos hidroeléctricos do Alqueva, de Fridão e da Quinta das Laranjeiras, cujos projectos técnicos se encontram em aprovação, os quais serão objecto de um contrato de vinculação estabelecido por ajuste directo entre a entidade concessionária da RNT e a CPPE - Companhia Portuguesa de Produção de Electricidade, S. A., sujeito a homologação da DGE.
 
-## ANEXO — Entidades produtoras de energia eléctrica integradas no SEP e centros electroprodutores afectos
+ANEXO
+
+Entidades produtoras de energia eléctrica integradas no SEP e centros electroprodutores afectos
 
 ...
 
@@ -363,7 +479,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 14.º, 15.º, 17.º, 18.º, 27.
 
 2 - A entidade concessionária da RNT deve constituir uma carteira de sítios, em termos a acordar com a Direcção-Geral da Energia (DGE), tendo em vista simplificar o processo de disponibilização do sítio, no momento em que for decidida a necessidade de expansão do sistema electroprodutor.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +499,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 14.º, 15.º, 17.º, 18.º, 27.
 
 8 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -389,7 +509,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 14.º, 15.º, 17.º, 18.º, 27.
 
 3 - A entidade concessionária da RNT fica autorizada a subconceder o contrato de concessão de utilização do domínio hídrico à entidade seleccionada para estabelecer e explorar o novo centro electroprodutor, nos termos do presente diploma.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Concedida a autorização preliminar prevista no artigo 5.º ou a concessão de utilização do domínio hídrico prevista no artigo 6.º e até à data estabelecida no plano de expansão aprovado, a DGE dá início ao processo de consulta pública e selecção da entidade que irá estabelecer e explorar o novo centro electroprodutor.
 
@@ -405,7 +527,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 4 - No caso de a escolha ter recaído sobre variantes ao caderno de encargos que não estejam em conformidade com os termos das autorizações previstas nos artigos 5.º e 6.º, a solicitação de parecer à Entidade Reguladora prevista no número anterior deve ser instruída com um parecer prévio das entidades mencionadas no n.º 3 do artigo 5.º
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +545,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 7 - Para o parecer previsto no número anterior, são vinculativas as condições estabelecidas pela DGE, nos termos previstos no n.º 4.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A prorrogação do contrato de vinculação pode ocorrer por iniciativa do titular da respectiva licença de produção vinculada, por iniciativa da entidade concessionária da RNT ou por iniciativa da DGE.
 
@@ -441,7 +567,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 9 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +579,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A caducidade do contrato de vinculação nos termos do plano de expansão aprovado é accionada por determinação da DGE.
 
@@ -461,7 +591,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 4 - No âmbito da negociação prevista no número anterior, pode a entidade concessionária da RNT tomar posse do sítio do centro electroprodutor em causa para nele instalar um novo centro electroprodutor vinculado, nos termos da determinação da DGE ou, caso daquela determinação não resulte a transferência de posse do centro electroprodutor, pode o titular da respectiva licença vinculada solicitar a passagem de uma licença não vinculada de produção, nos termos dos n.os 1 e 2 do artigo 13.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O procedimento para atribuição da licença vinculada de produção de energia eléctrica é iniciado pela DGE, após a selecção da entidade que irá estabelecer e explorar o centro electroprodutor.
 
@@ -471,7 +603,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 4 - Para além dos elementos previstos nos números anteriores, o procedimento deve ainda ser instruído com os elementos exigidos no âmbito de legislação específica aplicável, nomeadamente a respeitante à protecção do ambiente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +615,9 @@ c) Assegurar a sua conformidade com as autorizações previstas nos artigos 5.º
 
 4 - Na fixação dos prazos previstos neste artigo ter-se-á em conta a complexidade do projecto, devendo, para o efeito, ser ouvidas a entidade seleccionada e a entidade concessionária da RNT.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 São deveres dos titulares de licença vinculada de produção, em especial:
 
@@ -511,7 +647,9 @@ m) ...
 
 n) ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -541,7 +679,9 @@ h) Declaração assumindo o compromisso de que, no exercício da actividade, cum
 
 6 - Exceptuam-se do disposto nos números anteriores as solicitações de licença não vinculada que decorram das situações previstas nos artigos 13.º, 15.º e 16.º, caso em que, não havendo alteração das características do centro electroprodutor, o requerimento a apresentar pela entidade interessada não necessita de ser instruído com quaisquer outros elementos.
 
-###### Artigo 31.º — Processo de atribuição do título de utilização do domínio hídrico
+Artigo 31.º
+
+Processo de atribuição do título de utilização do domínio hídrico
 
 1 - No âmbito do processo de atribuição do título de utilização do domínio hídrico, a DGE emite parecer sobre o eventual impacte do aproveitamento hidroeléctrico em causa sobre a expansão prevista para o sistema hidroeléctrico do SEP ou sobre a exploração do sistema existente.
 
@@ -553,7 +693,9 @@ h) Declaração assumindo o compromisso de que, no exercício da actividade, cum
 
 5 - ...
 
-###### Artigo 32.º — Critérios para atribuição da licença
+Artigo 32.º
+
+Critérios para atribuição da licença
 
 Os critérios para atribuição de licença não vinculada de produção, ou as suas alterações, são publicados mediante aviso do director-geral da Energia e permitem fundamentar a recusa de atribuição de licença, nomeadamente na incompatibilidade do centro electroprodutor proposto com:
 
@@ -563,7 +705,9 @@ b) ...
 
 c) ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -573,7 +717,9 @@ b) ...
 
 2 - Os titulares de licença vinculada de produção de energia eléctrica ficam igualmente obrigados a enviar os dados referidos no número anterior à Entidade Reguladora e à entidade concessionária da RNT, quando solicitados por estas.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -643,13 +789,17 @@ a) ...
 
 b) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - No caso de um contrato de vinculação caducar por decurso do prazo, a entidade concessionária da RNT deve negociar um novo contrato de vinculação com a respectiva entidade titular de licença vinculada de distribuição de energia eléctrica em MT e AT e submetê-lo à aprovação da DGE.
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -667,7 +817,9 @@ c) Mediante importações realizadas através das redes da RNT, nos termos do ar
 
 5 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O procedimento para atribuição da licença vinculada de distribuição de energia eléctrica em AT e MT inicia-se após a conclusão do processo de consulta previsto no artigo 13.º, sendo instruído com os elementos apresentados pela entidade seleccionada no âmbito daquele processo.
 
@@ -691,7 +843,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -769,13 +923,17 @@ c) ...
 
 3 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
 2 - A concessionária fica igualmente obrigada a enviar os dados referidos no número anterior à Entidade Reguladora, quando por ela solicitados.
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 1 - ...
 
@@ -865,15 +1023,15 @@ Os Decretos-Leis n.os [182/95](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 16 de Janeiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1997.**
+Referendado em 18 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 [Decreto-Lei n.º 182/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1995-484672) - de 27 de Julho
 
@@ -3115,13 +3273,17 @@ Fazem parte da RNT, enquanto subsistirem, os equipamentos de média tensão inte
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 1 - A concessão tem por objecto a gestão técnica global do Sistema Eléctrico de Serviço Público (SEP) e a exploração, em regime de serviço público, da Rede Nacional de Transporte de Energia eléctrica (RNT), bem como a construção das infra-estruturas que a integram.
 
 2 - Mediante autorização do Ministro da Indústria e Energia, solicitada caso a caso, a concessionária pode exercer outras actividades com fundamento no proveito daí resultante para o interesse da concessão ou dos clientes.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - A actividade da concessão compreende:
 
@@ -3135,7 +3297,9 @@ d) A gestão técnica global do SEP através da coordenação, nos pontos de lig
 
 2 - A área da concessão abrange todo o território do continente.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 50 anos, contados a partir da data da celebração do respectivo contrato.
 
@@ -3143,7 +3307,9 @@ d) A gestão técnica global do SEP através da coordenação, nos pontos de lig
 
 3 - O disposto no número anterior não impede que o concedente e a concessionária acordem, até ao termo do respectivo prazo, na renovação da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas actividades consideradas para todos os efeitos de utilidade pública.
 
@@ -3157,7 +3323,9 @@ b) Da recepção e entrega de energia eléctrica, se efectuadas através das lig
 
 4 - O exclusivo previsto nesta base não prejudica o exercício por terceiros do direito de acesso à rede.
 
-###### Base V — Princípios aplicáveis às relações com os produtores, distribuidores e outros utilizadores da RNT
+Base V
+
+Princípios aplicáveis às relações com os produtores, distribuidores e outros utilizadores da RNT
 
 1 - A concessionária não pode estabelecer diferenças de tratamento nas suas relações com os produtores, distribuidores e outros utilizadores da RNT que não resultem de condicionalismos legais ou regulamentares ou da aplicação de critérios decorrentes de uma conveniente e adequada gestão técnica global do SEP, bem como de condicionalismos de natureza contratual, desde que sancionados pela Entidade Reguladora.
 
@@ -3165,7 +3333,9 @@ b) Da recepção e entrega de energia eléctrica, se efectuadas através das lig
 
 ### CAPÍTULO II — Bens e meios afectos à concessão
 
-###### Base VI — Bens da concessão
+Base VI
+
+Bens da concessão
 
 1 - Consideram-se afectos à concessão os bens que constituem a RNT, designadamente:
 
@@ -3185,7 +3355,9 @@ c) Outros bens móveis ou imóveis necessários ao desempenho das actividades ob
 
 d) As relações jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de recepção e de entrega de energia eléctrica, bem como os direitos de transporte através de redes situadas no exterior da área da concessão.
 
-###### Base VII — Inventário do património
+Base VII
+
+Inventário do património
 
 1 - A concessionária deve elaborar um inventário do património afecto à concessão que mantém actualizado e à disposição do concedente.
 
@@ -3193,11 +3365,15 @@ d) As relações jurídicas directamente relacionadas com a concessão, nomeadam
 
 3 - Os bens e direitos patrimoniais tornados desnessários às actividades concedidas são abatidos ao inventário da concessão, mediante prévio pedido de autorização da concessionária à DGE, que se considera deferido se esta não se opuser no prazo de 30 dias.
 
-###### Base VIII — Manutenção dos bens e meios afectos à concessão
+Base VIII
+
+Manutenção dos bens e meios afectos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e meios a ela afectos, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base IX — Propriedade ou posse dos bens
+Base IX
+
+Propriedade ou posse dos bens
 
 1 - A concessionária detém a propriedade ou posse dos bens que integram a concessão até à extinção desta.
 
@@ -3207,17 +3383,23 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidade e fiscalização da concessionária
 
-###### Base X — Garantia do abastecimento
+Base X
+
+Garantia do abastecimento
 
 A concessionária deve assegurar o fornecimento de energia eléctrica aos distribuidores vinculados e a entrega aos consumidores ligados à RNT, nos termos previstos no presente diploma.
 
-###### Base XI — Planos de investimento
+Base XI
+
+Planos de investimento
 
 1 - A concessionária deve elaborar periodicamente o plano de investimentos na RNT, o qual deve ser submetido a parecer da Entidade Reguladora.
 
 2 - A concessionária deve observar na remodelação e expansão da RNT os prazos de execução adequados à satisfação das necessidades do abastecimento de energia eléctrica.
 
-###### Base XII — Projectos
+Base XII
+
+Projectos
 
 1 - Constitui obrigação da concessionária a concepção e a elaboração dos projectos relativos a remodelação e expansão da RNT.
 
@@ -3225,25 +3407,35 @@ A concessionária deve assegurar o fornecimento de energia eléctrica aos distri
 
 3 - A aprovação dos projectos é feita através do processo de licenciamento previsto no Regulamento de Licenças para Instalações Eléctricas.
 
-###### Base XIII — Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
+Base XIII
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
 
 No atravessamento de terrenos do domínio público ou dos particulares a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XIV — Cumprimento dos regulamentos
+Base XIV
+
+Cumprimento dos regulamentos
 
 No estabelecimento e exploração da RNT, a concessionária deve cumprir as normas e regulamentos aplicáveis.
 
-###### Base XV — Informações
+Base XV
+
+Informações
 
 A concessionária tem a obrigação de fornecer ao concedente, através da DGE, todos os elementos relativos à concessão que esta entenda dever solicitar-lhe.
 
-###### Base XVI — Fiscalização
+Base XVI
+
+Fiscalização
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, nomeadamente os atribuídos por lei à Inspecção-Geral de Finanças, cabe à DGE a fiscalização da concessão, nomeadamente do cumprimento das disposições legais e do contrato de concessão.
 
 2 - Para efeitos do disposto no número anterior, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados, bem como permitir o livre acesso das entidades fiscalizadoras a quaisquer instalações.
 
-###### Base XVII — Responsabilidade civil
+Base XVII
+
+Responsabilidade civil
 
 1 - Para efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -3253,17 +3445,23 @@ A concessionária tem a obrigação de fornecer ao concedente, através da DGE, 
 
 ### CAPÍTULO IV — Direitos e prerrogativas da concessionária
 
-###### Base XVIII — Utilização do domínio público
+Base XVIII
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações da RNT ou de outras infra-estruturas integrantes da concessão, bem como na constituição dos sítios para centros electroprodutores vinculados, a concessionária tem o direito de utilizar os bens do Estado e das autarquias locais, incluindo os do domínio público, nos termos da lei.
 
 2 - A faculdade de utilização dos bens dominiais do Estado e das autarquias locais resulta da aprovação dos respectivos projectos ou de despacho ministerial, sem prejuízo da formalização da respectiva cedência nos termos da lei.
 
-###### Base XIX — Expropriações e servidões
+Base XIX
+
+Expropriações e servidões
 
 A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação, pelo director-geral da Energia, dos projectos ou anteprojectos das infra-estruturas ou instalações da RNT, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
-###### Base XX — Medidas de protecção
+Base XX
+
+Medidas de protecção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança da zona afectada.
 
@@ -3271,7 +3469,9 @@ A concessionária só pode solicitar a expropriação ou a constituição de ser
 
 ### CAPÍTULO V — Transporte de energia eléctrica e gestão global do SEP
 
-###### Base XXI — Transporte de energia eléctrica
+Base XXI
+
+Transporte de energia eléctrica
 
 1 - A concessionária deve assegurar o transporte de energia eléctrica, através da RNT, em condições técnicas e económicas adequadas.
 
@@ -3293,7 +3493,9 @@ g) Assegurar o cumprimento dos padrões de qualidade de serviço que lhe sejam a
 
 h) Planear e promover o desenvolvimento e a desclassificação de instalações da RNT.
 
-###### Base XXII — Gestão técnica global do SEP
+Base XXII
+
+Gestão técnica global do SEP
 
 1 - A concessionária, no âmbito do exercício da sua actividade, tem a seu cargo a gestão técnica global do SEP, competindo-lhe, nomeadamente:
 
@@ -3313,15 +3515,21 @@ g) Instalar e operar um sistema de recolha e processamento de dados para acerto 
 
 h) Celebrar contratos de vinculação com os produtores e distribuidores vinculados, bem como os demais contratos inerentes ao exercício da actividade.
 
-###### Base XXIII — Ordem de mérito
+Base XXIII
+
+Ordem de mérito
 
 Para efeito do disposto na alínea a) da base anterior, a utilização por ordem de mérito dos diversos meios disponíveis para o abastecimento dos consumos, consiste no cumprimento das disposições relevantes do Código do Despacho, por forma a assegurar a minimização dos custos globais de produção e de transporte, tendo em conta, nomeadamente, eventuais restrições de natureza contratual ou técnica.
 
-###### Base XXIV — Equipamento de comando, controlo, protecção e medida
+Base XXIV
+
+Equipamento de comando, controlo, protecção e medida
 
 A concessionária tem o direito de montar, nas instalações dos produtores, distribuidores e consumidores a ela ligados, bem como nas de outras entidades que façam parte do sistema de acerto de contas, equipamentos para a aquisição de dados e para a realização de operações de telecomando e de telecomunicação, bem como sistemas de protecção nos pontos de ligação da sua rede com as instalações daquelas entidades.
 
-###### Base XXV — Informações a prestar à concessionária
+Base XXV
+
+Informações a prestar à concessionária
 
 1 - A concessionária pode exigir dos produtores vinculados e não vinculados com mais de 10 MVA ligados às redes do SEP, quer na fase de projecto, quer durante a exploração do centro electroprodutor, informação relativa às características e parâmetros dos equipamentos por eles operados, de modo a permitir a simulação de exploração do sistema electroprodutor e a coordenação das instruções do despacho centralizado para a exploração e funcionamento dos grupos geradores.
 
@@ -3331,7 +3539,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 ### CAPÍTULO VI — Garantias do cumprimento do contrato de concessão
 
-###### Base XXVI — Caução
+Base XXVI
+
+Caução
 
 1 - Para garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se o Ministro da Indústria e Energia assim o determinar, prestar uma caução no valor de 300000000$00.
 
@@ -3343,7 +3553,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 5 - A caução pode ser prestada por depósito, por dinheiro, por garantia bancária autónoma ou qualquer outra forma prevista na lei, cujo texto deve ser previamente aprovado pela DGE.
 
-###### Base XXVII — Responsabilidade da concessionária por incumprimento
+Base XXVII
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão a concessionária incorre em responsabilidade perante o concedente.
 
@@ -3353,7 +3565,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 4 - Na situação prevista no número anterior a concessionária deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-###### Base XXVIII — Multas contratuais
+Base XXVIII
+
+Multas contratuais
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão, pode a concessionária ser punida com multa de 5000000$00 a 100000000$00, variando o respectivo montante em função do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efectivamente causados e da diligência que tenha posto na superação das consequências.
 
@@ -3363,7 +3577,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 4 - O pagamento das multas não isenta a concessionária de responsabilidade civil, criminal ou contra-ordenacional em que incorrer.
 
-###### Base XXIX — Sequestro
+Base XXIX
+
+Sequestro
 
 1 - O concedente, mediante despacho do Ministro da Indústria e Energia, pode tomar conta da concessão quando se verificarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e dos equipamentos que sejam susceptíveis de comprometer a regularidade do serviço.
 
@@ -3377,7 +3593,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 ### CAPÍTULO VII — Alteração e extinção do contrato de concessão
 
-###### Base XXX — Alteração do contrato de concessão
+Base XXX
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo, desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -3385,7 +3603,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão financeira.
 
-###### Base XXXI — Extinção da concessão
+Base XXXI
+
+Extinção da concessão
 
 1 - A extinção da concessão opera a transmissão para o Estado dos bens e meios a ela afectos, nos termos do presente diploma.
 
@@ -3393,7 +3613,9 @@ A concessionária tem o direito de montar, nas instalações dos produtores, dis
 
 3 - A tomada de posse da concessão pelo Estado é precedida de vistoria ad perpetuam rei memorian, realizada pela DGE, a que assistem representantes da concessionária.
 
-###### Base XXXII — Rescisão do contrato por incumprimento
+Base XXXII
+
+Rescisão do contrato por incumprimento
 
 1 - O concedente, pelo Ministro da Indústria e Energia, pode rescindir o contrato quando ocorra qualquer dos seguintes factos:
 
@@ -3425,7 +3647,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 6 - A rescisão do contrato de concessão produz os seus efeitos desde a data da sua comunicação à outra parte por carta registada com aviso de recepção.
 
-###### Base XXXIII — Resgate da concessão
+Base XXXIII
+
+Resgate da concessão
 
 1 - O resgate da concessão processa-se nos termos do presente diploma, mediante carta registada com aviso de recepção, com, pelo menos, um ano de antecedência em relação à data de efectivação do resgate.
 
@@ -3433,7 +3657,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 3 - A assunção de obrigações por parte do Estado é feita sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
 
-###### Base XXXIV — Transmissão e oneração de concessão
+Base XXXIV
+
+Transmissão e oneração de concessão
 
 1 - Sob pena de nulidade dos respectivos actos ou contratos, a concessionária não pode, sem prévia autorização do Ministro da Indústria e Energia, transmitir, subconceder ou onerar, por qualquer forma, a concessão.
 
@@ -3445,11 +3671,15 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 ### CAPÍTULO VIII — Composição de litígios
 
-###### Base XXXV — Litígios entre o concedente e a concessionária
+Base XXXV
+
+Litígios entre o concedente e a concessionária
 
 O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à solução legal ou segundo a equidade, conforme nelas se determinar, de quaisquer questões emergentes do contrato de concessão.
 
-###### Base XXXVI — Litígios entre a concessionária, produtores, distribuidores e terceiros
+Base XXXVI
+
+Litígios entre a concessionária, produtores, distribuidores e terceiros
 
 1 - A concessionária e as entidades titulares de licenças vinculadas de produção ou de distribuição, bem como terceiros que se encontrem ligados à RNT, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respectivos contratos ou aderir a processos de arbitragem realizados junto da Entidade Reguladora.
 

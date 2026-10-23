@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/656-1973-413034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:11:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca3b4a01b97698768f1cbe41ff2915739ed0584418734f5a9d22757ab64ab89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b66eddfdd39012303a2005fbe913f5e1549a4a4528226187fd625280772335bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:11:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:11:56Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +90,14 @@ Secretaria de Estado da Instrução e Cultura, 8 de Setembro de 1973. - O Secret
 
 Regulamento do Prémio Doutor Alberto Brochado
 
-###### Artigo 1.º É instituído na Faculdade de Medicina da Universidade do Porto o Prémio Doutor Alberto Brochado, constituído pelo rendimento anual da importância de 85021$30 que para o efeito foi legado àquela Faculdade.
+Artigo 1.º É instituído na Faculdade de Medicina da Universidade do Porto o Prémio Doutor Alberto Brochado, constituído pelo rendimento anual da importância de 85021$30 que para o efeito foi legado àquela Faculdade.
 
-###### Art. 2.º - 1. O Prémio será atribuído anualmente ao aluno mais distinto na cadeira de Psiquiatria, de preferência se apresentar trabalho de sua autoria dentro dos assuntos da especialidade.
+Art. 2.º - 1. O Prémio será atribuído anualmente ao aluno mais distinto na cadeira de Psiquiatria, de preferência se apresentar trabalho de sua autoria dentro dos assuntos da especialidade.
 
 2. Havendo dois ou mais alunos em igualdade de condições, o Prémio será atribuído ao aluno com melhor média geral e, se ainda persistir a igualdade, será o Prémio dividido em partes iguais pelos candidatos.
 
-###### Art. 3.º A indicação do aluno a quem deve ser atribuído o Prémio será feita pelo Conselho Escolar da Faculdade de Medicina da Universidade do Porto e transmitida ao reitor da Universidade.
+Art. 3.º A indicação do aluno a quem deve ser atribuído o Prémio será feita pelo Conselho Escolar da Faculdade de Medicina da Universidade do Porto e transmitida ao reitor da Universidade.
 
-###### Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
+Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
 
 Direcção-Geral do Ensino Superior, 8 de Setembro de 1973. - O Director-Geral, Vítor P. Crespo.

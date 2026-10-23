@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22163-1966-474747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0bf04ed798fe9838b5d42ddea57d3b88d27c3edea7a45e0e30f569b5ffe1a21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41be2fd0f58e65021642fd0a7b3557b0d38363ab20adb3399aca460ebec0e5d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:46Z'
   warnings: []
   errors: []
 ---
@@ -86,12 +94,12 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos do Distrito de Ponta Delgada, aprovadas pela [Portaria n.º 15371](https://diariodarepublica.pt/dr/detalhe/portaria/15371-1955-235511), de 9 de Maio de 1955, com as alterações introduzidas pelas Portarias n.os 16364, de 25 de Julho de 1957, 16783, de 28 de Julho de 1958, 17435, de 20 de Novembro de 1959, 20677, de 10 de Julho de 1964, e mais as seguintes das redacções dos artigos 63.º e 70.º-B:
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 a) Guindastes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/18500/13621362.pdf))](https://files.diariodarepublica.pt/1s/1966/08/18500/13621362.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/18500/13621362.pdf)
 
-###### Art. 70-B - No caso da prestação de serviços de assistência ou salvamento, abrangidos pelo disposto no artigo 69.º do Estatuto das Juntas Autónomas dos Portos, reverterá para o pessoal que neles intervier a percentagem de 5 por cento da importância cobrada. A distribuição desta percentagem será feita, por via de regra e salvo motivo justificado em contrário, proporcionalmente às remunerações certas do referido pessoal.
+Art. 70-B - No caso da prestação de serviços de assistência ou salvamento, abrangidos pelo disposto no artigo 69.º do Estatuto das Juntas Autónomas dos Portos, reverterá para o pessoal que neles intervier a percentagem de 5 por cento da importância cobrada. A distribuição desta percentagem será feita, por via de regra e salvo motivo justificado em contrário, proporcionalmente às remunerações certas do referido pessoal.
 
 Ministério das Comunicações, 10 de Agosto de 1966. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

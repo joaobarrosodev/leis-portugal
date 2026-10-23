@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12600/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2024/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6def43ac2e22dd56c5c6cbc8301f587c50618f571dfe6d42cd1a2da4bcc060f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a300c5891d092d818c9f569f2aea75f0487e864136b732caa194209d09910bd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Política de Família
+- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
+- Arrendamento Forçado
+- Arrendamento Urbano para Habitação
 - Contrato de Concessão
 - Contrato de Financiamento
 - Direito à Informação
 - Instituto da Habitação e da Reabilitação Urbana
 - Património do Estado
-- Arrendamento Urbano para Habitação
-- Arrendamento Forçado
-- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
+- Política de Família
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:20-B/2023
+  label: Altera, a partir de 03 de julho de 2024, os artigos 3.º e 11.º do Decreto-Lei n.º 20-B/2023, de 22 de março, Diário
+    da República n.º 58/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-03-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103-b/2023/11/09/p/dre
   label: null
@@ -97,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
+- type: cites
+  target: pt:dre:210543863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222477692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224081985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:24Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +159,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede à:
 
-a) Quarta alteração ao [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março, alterado pela [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, pelos Decretos-Leis n.<sup>os</sup>[91/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), de 11 de outubro, e [103-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), de 9 de novembro, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito;
+a) Quarta alteração ao [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março, alterado pela [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, pelos Decretos-Leis n.os[91/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), de 11 de outubro, e [103-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), de 9 de novembro, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito;
 
 b) Revogação do artigo 108.º-C do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
 
@@ -163,12 +189,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de junho de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - Manuel Castro Almeida - Patrícia Gonçalves Costa de Machado Santos.
 
-**Promulgado em 17 de junho de 2024.**
+Promulgado em 17 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de junho de 2024.**
+Referendado em 19 de junho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117843186

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2016/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2016-75194225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3466bd03ce7211b369e24115de7168352c329891152f213774e8f07577809a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d5fbfd523cfa0f61d280846681e06916458fa5ae9ef70733a13ebd4a43ca95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,13 +76,13 @@ relationships:
 article_structure:
   article_count: 33
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:17Z'
   warnings: []
   errors: []
 ---
@@ -129,15 +129,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - José Alberto de Azeredo Ferreira Lopes.
 
-**Promulgado em 9 de agosto de 2016.**
+Promulgado em 9 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de agosto de 2016.**
+Referendado em 11 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 REGULAMENTO DAS MEDALHAS DA POLÍCIA MARÍTIMA
 
@@ -409,7 +409,7 @@ c) Condenação em qualquer pena por crimes contra a paz e contra a humanidade, 
 
 Diploma de concessão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Dimensão do diploma: 34,5 x 23,5 cm; o tipo de papel e de letra ficam ao critério da entidade que concede.
 
@@ -481,27 +481,27 @@ b) Grau prata:
 
 Placa de prata, de características idênticas às referidas na alínea anterior, sendo que todos os elementos a ouro são substituídos por prata.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 6
 
@@ -559,27 +559,27 @@ Têm a cor da fita da insígnia correspondente e as características e dimensõe
 
 Têm a configuração e as cores da fita de suspensão da insígnia, com o Emblema Nacional ao centro, em ouro, prata ou cobre, sendo as dimensões as indicadas na alínea a) do n.º 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 12
 
@@ -643,27 +643,27 @@ Têm a configuração e as cores da fita de suspensão da insígnia, com o crach
 
 Placa de ouro, com 22 raios tendo ao centro um disco azul carregado com o anverso da miniatura desta medalha, de ouro, de altura de 0,014 m; rodeando este disco, uma coroa de folhas de carvalho, de ouro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 13
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 14
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 15
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 16
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 17
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 18
 
@@ -713,23 +713,23 @@ As rosetas são constituídas por um cilindro, com a altura de 0,003 m, forrado 
 
 Têm a configuração e as cores da fita de suspensão da insígnia; tendo aposta a âncora correspondente a cada uma das classes, em ouro, prata ou cobre, conforme a classe, sendo as dimensões, as indicadas na alínea a) do n.º 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 20
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 21
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 22
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 23
 
@@ -779,19 +779,19 @@ Têm a cor da fita da insígnia e as dimensões indicadas no n.º 4.
 
 Configuração e cores da fita de suspensão, com o Emblema Nacional em ouro, prata ou sem Escudo, consoante o grau, e nas dimensões indicadas na alínea a) do n.º 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 24
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 26
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 27
 
@@ -827,18 +827,18 @@ Têm a cor da fita da insígnia e as dimensões indicadas no n.º 4.
 
 Têm a configuração e as cores da fita de suspensão da insígnia, sendo as dimensões as indicadas na alínea a) do n.º 5.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 28
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 29
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 30
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16200/0287902893.pdf)
 
 Fig. 31

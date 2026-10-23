@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22414-1966-488090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b083756b8f739e6d91acbd171d994ca86462c00c60d7121f9dd5413386107ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98f5c6c1db1f50e0afd33e48c635c79eae88ea88363a4d0d7d878722f7569555
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508027:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:03Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 a) Elimine as rubricas e previsão do capítulo 9.º, artigo 184.º, n.º 1) «Receita extraordinária - Produto de empréstimos a aplicar - Plano Intercalar de Fomento», do orçamento da receita extraordinária do orçamento geral de 1966 e as substitua pelas que se indicam:
 
-###### Artigo 184.º «Produto de empréstimos a aplicar a»:
+Artigo 184.º «Produto de empréstimos a aplicar a»:
 
 1) «Plano Intercalar de Fomento»:
 
@@ -118,7 +134,7 @@ e) «Empréstimo amortizável - Obrigações do Tesouro, 5 por cento, autorizado
 
 b) Inscreva no mesmo orçamento da receita as seguintes rubrica e dotação:
 
-###### Artigo 184.º-A «Imposto de sobrevalorizações a aplicar a»:
+Artigo 184.º-A «Imposto de sobrevalorizações a aplicar a»:
 
 1) «Plano Intercalar de Fomento» ... 13500000$00
 

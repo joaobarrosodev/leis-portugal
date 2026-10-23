@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-1971-643160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98a4012360d84af9d2bbb8031646bf7e9be25a213d4a611f8894b7e319cde2d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 529cc25c083341ebcd5dd10d3781d9e25aff37906496fc31b5cdc361d8532114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:409307:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409307:por
+  label: Alterado o art. 18.º do Regulamento de Uniformes para Uso do Pessoal do Corpo de Polícia dos Estabelecimentos de
+    Marinha, aprovado pelo presente diploma pelo(a) Portaria n.º 647/76 - Diário da República n.º 257/1976, Série I de 1976-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1976-409307
+  date: '1976-11-03'
+- type: cites
+  target: pt:dre:146259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:28Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e p�
 
 Regulamento de Uniformes para Uso do Pessoal do Corpo de Polícia dos Estabelecimentos de Marinha
 
-###### Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal do Corpo de Polícia dos Estabelecimentos de Marinha (C. P. E. M.) compreendem:
+Artigo 1.º - 1. Os artigos de uniforme para uso do pessoal do Corpo de Polícia dos Estabelecimentos de Marinha (C. P. E. M.) compreendem:
 
 a) Artigos pertencentes ao pessoal;
 
@@ -103,13 +117,13 @@ b) Artigos pertencentes às unidades e serviços.
 
 2. Os artigos referidos na alínea b) do número anterior apenas são usados quando as necessidades do serviço o justifiquem.
 
-###### Art. 2.º - 1. Os artigos da alínea a) do n.º 1 do artigo anterior são fornecidos pelas unidades ou serviços e requisitados pelos respectivos conselhos administrativos ao Depósito de Fardamento.
+Art. 2.º - 1. Os artigos da alínea a) do n.º 1 do artigo anterior são fornecidos pelas unidades ou serviços e requisitados pelos respectivos conselhos administrativos ao Depósito de Fardamento.
 
 2. Estes artigos são pagos pelo pessoal através do auxílio para fardamento a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), de 14 de Dezembro, e, em caso de dívida elevada, através de descontos nos seus vencimentos.
 
-###### Art. 3.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga.
+Art. 3.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga.
 
-###### Art. 4.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
+Art. 4.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Boné;
 
@@ -159,7 +173,7 @@ y) Sapatos pretos;
 
 z) Tranqueta para a gravata.
 
-###### Art. 5.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
+Art. 5.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Capote de abafo;
 
@@ -167,19 +181,19 @@ b) Crachá;
 
 c) Impermeável.
 
-###### Art. 6.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
+Art. 6.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
 
 2. O emblema (fig. 1) é constituído por um tridente, com as dimensões de 0,020 m de altura por 0,015 m de largura, bordado a fio de ouro sobre pano azul-ferrete, dentro de uma elipse de 0,035 m de altura por 0,025 m de largura, formada por duas serrilhas de ouro, encimada por um escudo nacional assente sobre uma esfera armilar com 0,020 m de diâmetro, tudo bordado a ouro e com o fundo do escudo de prata.
 
 3. No boné do chefe e subchefes, a elipse é circundada por um silvado com um ramo de loureiro e outro de carvalho, bordado a ouro, tendo o emblema exteriormente 0,070 m x 0,070 m e sendo todo bordado sobre pano azul-ferrete.
 
-###### Art. 7.º Os botões de metal são idênticos e dos mesmos padrões que os usados:
+Art. 7.º Os botões de metal são idênticos e dos mesmos padrões que os usados:
 
 a) Pelos oficiais da Armada, para o chefe e subchefes;
 
 b) Pelos sargentos da Armada, para os guardas.
 
-###### Art. 8.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzenta-azulada, e são de três padrões:
+Art. 8.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzenta-azulada, e são de três padrões:
 
 a) N.º 3, com 0,020 m de diâmetro;
 
@@ -187,21 +201,21 @@ b) N.º 4, com 0,015 m de diâmetro;
 
 c) N.º 5, com 0,010 m de diâmetro.
 
-###### Art. 9.º As calças azuis (padrões n.os 1 e 2) são idênticas, nos tecidos e nos modelos, às calças azuis dos mesmos padrões dos sargentos da Armada, mas os botões são pretos, do padrão n.º 4.
+Art. 9.º As calças azuis (padrões n.os 1 e 2) são idênticas, nos tecidos e nos modelos, às calças azuis dos mesmos padrões dos sargentos da Armada, mas os botões são pretos, do padrão n.º 4.
 
-###### Art. 10.º As calças brancas são idênticas no tecido e talhe às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 4.
+Art. 10.º As calças brancas são idênticas no tecido e talhe às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 4.
 
-###### Art. 11.º - 1. A camisa azul e as camisas brancas (padrões n.os 1 e 2) são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisas brancas (padrões n.os 1 e 3) dos sargentos da Armada.
+Art. 11.º - 1. A camisa azul e as camisas brancas (padrões n.os 1 e 2) são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisas brancas (padrões n.os 1 e 3) dos sargentos da Armada.
 
 2. Os botões da camisa azul são cinzento-azulados, do padrão n.º 4 e os das camisas brancas são brancos, do padrão n.º 5.
 
-###### Art. 12.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
+Art. 12.º A capa branca para boné é de tecido e talhe idênticos à usada pelos sargentos da Armada.
 
-###### Art. 13.º O capote de abafo é do modelo em uso na Armada.
+Art. 13.º O capote de abafo é do modelo em uso na Armada.
 
-###### Art. 14.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
+Art. 14.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
 
-###### Art. 15.º - 1. O crachá (fig. 2) é todo de metal branco, com as seis pontas de uma estrela a sobressaírem, tendo no centro o escudo nacional sobre uma esfera armilar, assente sobre um tridente.
+Art. 15.º - 1. O crachá (fig. 2) é todo de metal branco, com as seis pontas de uma estrela a sobressaírem, tendo no centro o escudo nacional sobre uma esfera armilar, assente sobre um tridente.
 
 2. O crachá, que dispõe na face posterior de um dispositivo apropriado para prender no uniforme, tem as seguintes dimensões:
 
@@ -215,13 +229,13 @@ d) Esfera armilar - 0,014 m de diâmetro.
 
 3. O crachá é usado do lado esquerdo do uniforme, na altura do peito, e apenas em serviço de guarda.
 
-###### Art. 16.º Os distintivos a usar pelo pessoal compreendem:
+Art. 16.º Os distintivos a usar pelo pessoal compreendem:
 
 a) Distintivo do C. P. E. M.;
 
 b) Distintivos da categoria do pessoal.
 
-###### Art. 17.º - 1. O distintivo do C. P. E. M., bordado a fio de ouro, é constituído por um tridente encimado por uma estrela de seis pontas.
+Art. 17.º - 1. O distintivo do C. P. E. M., bordado a fio de ouro, é constituído por um tridente encimado por uma estrela de seis pontas.
 
 2. Para o chefe, o tridente, com as dimensões de 0,020 m x 0,015 m, é encimado pela estrela, com 0,015 m de diâmetro, sendo a distância entre a estrela e o tridente de 0,005 m, e é bordado sobre fundo de pano azul-ferrete:
 
@@ -241,7 +255,7 @@ a) De 0,035 m x 0,025 m, é encimado pela estrela, com 0,020 m de diâmetro, sen
 
 b) De 0,020 m x 0,015 m, é encimado pela estrela, com 0,015 m de diâmetro, sendo a distância entre a estrela e o tridente de 0,005 m, e é bordado sobre fundo de pano azul-ferrete nas passadeiras e platinas (figs. 10 e 11).
 
-###### Art. 18.º - 1. Os distintivos da categoria do pessoal são:
+Art. 18.º - 1. Os distintivos da categoria do pessoal são:
 
 a) Galão, para o chefe;
 
@@ -271,13 +285,13 @@ a) Nas mangas do jaquetão azul (padrão n.º 1);
 
 b) Nas passadeiras e platinas.
 
-###### Art. 19.º - As estrelas metálicas, de seis pontas, são de metal dourado, com 0,015 m de diâmetro, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,050 m dos vértices exteriores e na linha de bissectriz dos bicos.
+Art. 19.º - As estrelas metálicas, de seis pontas, são de metal dourado, com 0,015 m de diâmetro, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,050 m dos vértices exteriores e na linha de bissectriz dos bicos.
 
-###### Art. 20.º - A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
+Art. 20.º - A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
 
-###### Art. 21.º - O impermeável é do modelo em uso na Armada.
+Art. 21.º - O impermeável é do modelo em uso na Armada.
 
-###### Art. 22.º - 1. O jaquetão azul (padrão n.º 1) é do mesmo tecido e modelo do usado pelos sargentos da Armada.
+Art. 22.º - 1. O jaquetão azul (padrão n.º 1) é do mesmo tecido e modelo do usado pelos sargentos da Armada.
 
 2. Na parte posterior de cada manga, junto à costura, leva dois botões de metal do padrão n.º 2, ficando o inferior a 0,040 m da extremidade da manga e o superior a 0,050 m do outro.
 
@@ -299,19 +313,19 @@ b) Acima do cotovelo, a 0,120 m do pregado da manga, para os guardas.
 
 7. O distintivo da categoria é colocado a 0,020 m da extremidade inferior do distintivo do C. P. E. M., para os guardas (fig. 9).
 
-###### Art. 23.º - 1. O jaquetão azul (padrão n.º 2) é do mesmo tecido que o blusão azul dos sargentos da Armada e do mesmo modelo do jaquetão azul (padrão n.º 1).
+Art. 23.º - 1. O jaquetão azul (padrão n.º 2) é do mesmo tecido que o blusão azul dos sargentos da Armada e do mesmo modelo do jaquetão azul (padrão n.º 1).
 
 2. Na parte posterior da extremidade de cada manga, junto à costura, leva dois botões de metal do padrão n.º 2, distanciados entre si de 0,050 m e ficando o inferior a 0,040 m da extremidade da manga.
 
 3. Em cada ombro tem duas pequenas passadeiras fixas do mesmo tecido para colocação das platinas rígidas.
 
-###### Art. 24.º - 1. O jaquetão branco é do mesmo tecido do dólman dos sargentos da Armada e de modelo igual ao jaquetão azul (padrão n.º 2), mas sem forro.
+Art. 24.º - 1. O jaquetão branco é do mesmo tecido do dólman dos sargentos da Armada e de modelo igual ao jaquetão azul (padrão n.º 2), mas sem forro.
 
 2. A este jaquetão aplica-se o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 25.º - As luvas castanhas são iguais às luvas da mesma cor em uso para os sargentos da Armada.
+Art. 25.º - As luvas castanhas são iguais às luvas da mesma cor em uso para os sargentos da Armada.
 
-###### Art. 26.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca (padrão n.º 2).
+Art. 26.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca (padrão n.º 2).
 
 2. São guarnecidas na face superior com os distintivos do C. P. E. M. e da categoria do pessoal.
 
@@ -327,9 +341,9 @@ a) 0,010 m da orla superior do galão, para o chefe (fig. 4);
 
 b) 0,015 m da linha dos centros dos emblemas nacionais, para os guardas (fig. 10).
 
-###### Art. 27.º - As peúgas pretas são de algodão, lisas e sem enfeites.
+Art. 27.º - As peúgas pretas são de algodão, lisas e sem enfeites.
 
-###### Art. 28.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e destinam-se a ser colocadas nas pequenas passadeiras fixas existentes nos ombros do jaquetão azul (padrão n.º 2) e do jaquetão branco.
+Art. 28.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e destinam-se a ser colocadas nas pequenas passadeiras fixas existentes nos ombros do jaquetão azul (padrão n.º 2) e do jaquetão branco.
 
 2. São guarnecidas na face superior com os distintivos do C. P. E. M. e da categoria do pessoal.
 
@@ -345,32 +359,32 @@ a) 0,010 m da orla superior do galão, para o chefe (fig. 5);
 
 b) 0,015m da linha dos centros dos emblemas nacionais, para os guardas (fig. 11).
 
-###### Art. 29.º - Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
+Art. 29.º - Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
 
-###### Art. 30.º - A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
+Art. 30.º - A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
 
-###### Art. 31.º - 1. Os uniformes do pessoal do C. P. E. M., bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
+Art. 31.º - 1. Os uniformes do pessoal do C. P. E. M., bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
 
 2. O uso do uniforme é obrigatório em serviço e em solenidades oficiais.
 
 3. O uso do uniforme no exterior dos estabelecimentos de marinha só é permitido em serviço e por determinação superior.
 
-###### Art. 32.º - As disposições do Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, desde que não colidam com o presente diploma e sejam aplicáveis, são extensivas ao pessoal do C. P. E. M. em tudo o que este Regulamento for omisso, nomeadamente no que se refere a auxílio e descontos para fardamento e fornecimento, extravio e deterioração de artigos.
+Art. 32.º - As disposições do Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada, desde que não colidam com o presente diploma e sejam aplicáveis, são extensivas ao pessoal do C. P. E. M. em tudo o que este Regulamento for omisso, nomeadamente no que se refere a auxílio e descontos para fardamento e fornecimento, extravio e deterioração de artigos.
 
-###### Art. 33.º - A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelo comandante do C. P. E. M., de forma que a referida substituição se processe, na medida do possível, com brevidade.
+Art. 33.º - A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelo comandante do C. P. E. M., de forma que a referida substituição se processe, na medida do possível, com brevidade.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 TABELA
 
 Uniformes do pessoal do C. P. E. M.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf))](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da FIG. 1 à FIG. 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf))](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/06/14700/09510959.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

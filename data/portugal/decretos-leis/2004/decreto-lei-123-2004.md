@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2004/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2004-252837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b7bf88efee5f653b7c75543ebf511dc7f04f52f6da1d3639637a6b07c603c1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a185c3c7a384fd3c9b6b4591ae97584dfeba10711ccfb8777e23f64a1ad714ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Substancia Cancerigena
-- Saúde Pública
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
-- Comércio
+- Saúde Pública
+- Substancia Cancerigena
 relationships:
 - type: amended_by
   target: pt:dre:147997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573911:por
+  label: "Suspensa a vigência até 31 de Março de 2006, das disposições relativas ao éter pentabromodifenílico constantes dos\
+    \ n.ºs 12.1 e 12.2 do presente diploma, no que respeita a sistemas de evacuação de emergência de aeronaves, pelo DEC LEI.73/2005.18.03.2005.MAET,\
+    \ DR.IS-A [55] de 18.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2005-573911
+  date: '2005-03-18'
+- type: amended_by
+  target: pt:dre:147997:por
+  label: "Alterados os nºs 10.1 e 10.5 do anexo I do Dec Lei 264/98, de 19-Ago, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.162/2005.22.09.2005.MEI, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2005-147997
+  date: '2005-09-22'
 - type: cites
   target: celex:31976L0769
   label: null
@@ -107,13 +120,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:22Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +189,15 @@ O anexo II do Decreto-Lei n.º 264/98, de 19 de Agosto, é alterado da seguinte 
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Lista de substâncias a que se refere o n.º 1 do artigo 3.º
 
@@ -192,27 +205,27 @@ Visto e aprovado em Conselho de Ministros de 1 de Abril de 2004. - José Manuel 
 
 Categoria 1
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 2 - Substâncias mutagénicas
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 3 - Substâncias tóxicas para a reprodução
 
 Categoria 1
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 ## ANEXO II — Lista de substâncias a que se refere o n.º 2 do artigo 3.º
 
@@ -220,14 +233,14 @@ Categoria 2
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 ## ANEXO III — Lista de substâncias a que se refere o n.º 3 do artigo 3.º
 
 14 - Éter difenílico, derivado pentabromado C(índice 12)H(índice 5)Br(índice 5)O
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
 
 15 - Éter difenílico, derivado octabromado C(índice 12)H(índice 2)Br(índice 8)O
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)](https://files.diariodarepublica.pt/1s/2004/05/121a00/32653269.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22760-1967-314032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edfcb54c9f12078a4c9a44b12341688e848d356a188fa67ae9822dbcee28d82e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5507a686a237a2e0034290f21d9011ba471c2c22a9a43ae844e4986aca6e6956
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:479220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:31Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +106,15 @@ ESTATUTO DO CENTRO UNIVERSITÁRIO DE LISBOA
 
 #### SECÇÃO I — Natureza, fins e atribuições
 
-###### Artigo 1.º - 1. O Centro Universitário de Lisboa é um organismo dependente da Mocidade Portuguesa que, de acordo com o fim geral desta organização de promover a formação integral da juventude, colabora na acção educativa da Universidade, em ordem à valorização humana dos estudantes, nos aspectos cultural, científico, moral, estético e físico, e ao desenvolvimento neles do espírito institucional, tendente a uma perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
+Artigo 1.º - 1. O Centro Universitário de Lisboa é um organismo dependente da Mocidade Portuguesa que, de acordo com o fim geral desta organização de promover a formação integral da juventude, colabora na acção educativa da Universidade, em ordem à valorização humana dos estudantes, nos aspectos cultural, científico, moral, estético e físico, e ao desenvolvimento neles do espírito institucional, tendente a uma perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.
 
 2. Entre as actividades culturais e científicas do Centro deve merecer especial destaque o estudo de problemas sociológicos actuais, em vista à adequada preparação para uma consciente tomada de posição nesses problemas e para uma consequente esclarecida acção, quer como estudantes, quer no exercício da carreira pós-escolar.
 
-###### Art. 2.º - 1. O Centro rege-se pelo estatuto da Mocidade Portuguesa, na parte aplicável, pelo presente estatuto e pelo regulamento ou regulamentos que vierem a ser expedidos.
+Art. 2.º - 1. O Centro rege-se pelo estatuto da Mocidade Portuguesa, na parte aplicável, pelo presente estatuto e pelo regulamento ou regulamentos que vierem a ser expedidos.
 
 2. O Centro deve exercer as suas actividades em estreita ligação com as Universidades e escolas superiores não universitárias de Lisboa.
 
-###### Art. 3.º - 1. Podem participar nas actividades do Centro os alunos, do sexo masculino ou feminino, das escolas superiores de Lisboa e os membros do corpo docente dessas mesmas escolas.
+Art. 3.º - 1. Podem participar nas actividades do Centro os alunos, do sexo masculino ou feminino, das escolas superiores de Lisboa e os membros do corpo docente dessas mesmas escolas.
 
 2. Podem inscrever-se como amigos do Centro, pagando as quotizações e gozando dos direitos que forem fixados em regulamento:
 
@@ -120,11 +124,11 @@ b) Os colaboradores do Centro que, pela utilidade dos serviços prestados, a dir
 
 c) Outras entidades colectivas ou singulares que, pelas suas benemerências ao Centro, a direcção convide a assumirem a referida qualidade.
 
-###### Art. 4.º Os membros do corpo docente e os do corpo discente devem cooperar nas actividades do Centro em espírito de mútuo respeito e franca compreensão, de modo a realizar-se o ideal assinalado no artigo 1.º e a proporcionar-se aos segundos uma experiência directiva e de organização.
+Art. 4.º Os membros do corpo docente e os do corpo discente devem cooperar nas actividades do Centro em espírito de mútuo respeito e franca compreensão, de modo a realizar-se o ideal assinalado no artigo 1.º e a proporcionar-se aos segundos uma experiência directiva e de organização.
 
 #### SECÇÃO II — Órgãos
 
-###### Art. 5.º O Centro tem os seguintes órgãos:
+Art. 5.º O Centro tem os seguintes órgãos:
 
 a) Direcção;
 
@@ -132,7 +136,7 @@ b) Conselho geral;
 
 c) Conselho administrativo.
 
-###### Art. 6.º A direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:
+Art. 6.º A direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:
 
 a) Director do Centro, que presidirá;
 
@@ -142,7 +146,7 @@ c) Assistente religioso;
 
 d) Directores das secções.
 
-###### Art. 7.º Compete em especial à direcção deliberar:
+Art. 7.º Compete em especial à direcção deliberar:
 
 a) Sobre o regulamento ou regulamentos;
 
@@ -156,7 +160,7 @@ e) Sobre a concessão de distinções;
 
 f) Sobre qualquer outro assunto que o director do Centro lhe apresente.
 
-###### Art. 8.º Compete ao director do Centro:
+Art. 8.º Compete ao director do Centro:
 
 a) Covocar as reuniões da direcção e orientar os seus trabalhos;
 
@@ -168,21 +172,21 @@ d) Superintender na administração de todas as secções do Centro;
 
 e) Submeter ao comissário nacional todos os assuntos que excedam a competência da direcção do Centro.
 
-###### Art. 9.º Compete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos.
+Art. 9.º Compete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos.
 
-###### Art. 10.º Compete ao assistente religioso ocupar-se dos aspectos respeitantes à formação moral e, designadamente, estimular, acompanhar e coordenar as actividades de carácter religioso promovidas pelo Centro.
+Art. 10.º Compete ao assistente religioso ocupar-se dos aspectos respeitantes à formação moral e, designadamente, estimular, acompanhar e coordenar as actividades de carácter religioso promovidas pelo Centro.
 
-###### Art. 11.º - 1. Compete aos directores das secções administrar as mesmas.
+Art. 11.º - 1. Compete aos directores das secções administrar as mesmas.
 
 2. Os directores das secções podem ter adjuntos, que os coadjuvam e substituem nas suas faltas ou impedimentos, cabendo a substituição, quando na secção haja mais de um, àquele que o director do Centro designar para o efeito.
 
-###### Art. 12.º - 1. Os regulamentos, planos de acção, orçamento geral e relatório do Centro estão sujeitos a aprovação do comissário nacional, que pode concedê-la com ou sem alterações.
+Art. 12.º - 1. Os regulamentos, planos de acção, orçamento geral e relatório do Centro estão sujeitos a aprovação do comissário nacional, que pode concedê-la com ou sem alterações.
 
 2. No que respeita aos planos de acção, orçamento geral e relatório, a aprovação considera-se concedida se o comissário nacional se não pronunciar sobre eles dentro de quinze dias a contar da data em que derem entrada no comissariado.
 
 3. Serão comunicados aos reitores das Universidades de Lisboa os planos de acção e o relatório, assim como quaisquer outras deliberações que seja de interesse conhecerem.
 
-###### Art. 13.º - 1. O conselho geral é constituído pelas seguintes pessoas:
+Art. 13.º - 1. O conselho geral é constituído pelas seguintes pessoas:
 
 a) Membros da direcção;
 
@@ -196,7 +200,7 @@ c) Um estudante por cada uma das secções, no caso de o respectivo director nã
 
 4. Podem ser convocados para participar nas reuniões do conselho geral, sem direito de voto, quaisquer outros alunos de escolas superiores de Lisboa ou amigos do Centro cuja presença seja considerada útil.
 
-###### Art. 14.º - 1. Compete ao conselho geral:
+Art. 14.º - 1. Compete ao conselho geral:
 
 a) Ser informado, pelo director do Centro, das actividades deste, apreciá-las e formular sugestões sobre elas;
 
@@ -210,13 +214,13 @@ e) Designar os membros das comissões referidas no artigo 25.º
 
 2. O disposto nas alíneas c) e d) do número anterior deve entender-se sem prejuízo do declarado no artigo 12.º
 
-###### Art. 15.º O conselho administrativo auxilia o director do Centro na superintendência da administração e compõe-se dos seguintes membros:
+Art. 15.º O conselho administrativo auxilia o director do Centro na superintendência da administração e compõe-se dos seguintes membros:
 
 a) Director do Centro, que presidirá;
 
 b) Duas pessoas com competência em assuntos administrativos e financeiros.
 
-###### Art. 16.º - 1. Compete em especial ao conselho administrativo:
+Art. 16.º - 1. Compete em especial ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento geral a submeter à direcção;
 
@@ -228,11 +232,11 @@ d) Elaborar as contas anuais do Centro.
 
 2. A aprovação das contas anuais do Centro é da competência do conselho administrativo da Mocidade Portuguesa.
 
-###### Art. 17.º - 1. A direcção e o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados por iniciativa do seu presidente.
+Art. 17.º - 1. A direcção e o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados por iniciativa do seu presidente.
 
 2. O conselho geral reunirá, ordinàriamente, duas vezes por ano e, extraordinàriamente, sempre que seja convocado por iniciativa do seu presidente ou a pedido de, pelo menos, cinco dos seus membros.
 
-###### Art. 18.º - 1. O director do Centro é nomeado pelo comissário nacional.
+Art. 18.º - 1. O director do Centro é nomeado pelo comissário nacional.
 
 2. O subdirector do Centro, os directores das secções e os vogais do conselho administrativo são nomeados também pelo comissário nacional, sob proposta do director do Centro.
 
@@ -248,13 +252,13 @@ d) Elaborar as contas anuais do Centro.
 
 8. As nomeações feitas no decurso do período de três anos ou de um, conforme os casos, entendem-se feitas até ao termo desse período.
 
-###### Art. 19.º - 1. O exercício de funções directivas no Centro é cumulável com quaisquer cargos académicos, respeitada a correspondente hierarquia.
+Art. 19.º - 1. O exercício de funções directivas no Centro é cumulável com quaisquer cargos académicos, respeitada a correspondente hierarquia.
 
 2. Pode a mesma pessoa, inclusive o director e o subdirector do Centro, dirigir mais de uma secção.
 
 3. O director do Centro pode delegar competências no subdirector e nos directores das secções.
 
-###### Art. 20.º - 1. Haverá, em princípio, uma delegação do Centro em cada uma das escolas superiores de Lisboa.
+Art. 20.º - 1. Haverá, em princípio, uma delegação do Centro em cada uma das escolas superiores de Lisboa.
 
 2. Cada delegação será constituída por alunos dos vários cursos, nos termos a definir em regulamento, e terá um presidente e um vice-presidente.
 
@@ -270,7 +274,7 @@ d) Elaborar as contas anuais do Centro.
 
 #### SECÇÃO III — Serviços
 
-###### Art. 21.º Os serviços do Centro distribuem-se, em princípio, pelas seguintes secções:
+Art. 21.º Os serviços do Centro distribuem-se, em princípio, pelas seguintes secções:
 
 a) Secção cultural;
 
@@ -296,7 +300,7 @@ l) Secretariado.
 
 #### SECÇÃO IV — Receitas
 
-###### Art. 22.º - 1. Constituem receitas do Centro:
+Art. 22.º - 1. Constituem receitas do Centro:
 
 a) A verba global que em cada ano lhe for atribuída pela Mocidade Portuguesa;
 
@@ -314,7 +318,7 @@ f) Outras receitas não proibidas por lei.
 
 #### SECÇÃO V — Distinções
 
-###### Art. 23.º Podem ser concedidas as seguintes medalhas a indivíduos que tenham prestado ao Centro relevantes serviços:
+Art. 23.º Podem ser concedidas as seguintes medalhas a indivíduos que tenham prestado ao Centro relevantes serviços:
 
 a) Medalha de ouro com palmas;
 
@@ -324,9 +328,9 @@ c) Medalha de prata com palmas;
 
 d) Medalha de prata.
 
-###### Art. 24.º Pode ser atribuída a qualidade de beneméritos do Centro a entidades colectivas ou singulares que o tenham contemplado com benemerências de especial significado.
+Art. 24.º Pode ser atribuída a qualidade de beneméritos do Centro a entidades colectivas ou singulares que o tenham contemplado com benemerências de especial significado.
 
-###### Art. 25.º - 1. A concessão de qualquer das referidas distinções depende de proposta de um dos membros da direcção.
+Art. 25.º - 1. A concessão de qualquer das referidas distinções depende de proposta de um dos membros da direcção.
 
 2. A proposta será submetida a parecer de uma comissão de distinções.
 
@@ -338,12 +342,12 @@ d) Medalha de prata.
 
 #### SECÇÃO VI — Disposições diversas
 
-###### Art. 26.º É extensivo ao Centro o disposto no artigo 21.º, n.º 1, no artigo 47.º, n.os 1 a 3, e no artigo 50.º, n.º 1, do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966.
+Art. 26.º É extensivo ao Centro o disposto no artigo 21.º, n.º 1, no artigo 47.º, n.os 1 a 3, e no artigo 50.º, n.º 1, do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966.
 
-###### Art. 27.º O director do Centro pode autorizar a realização, por quaisquer pessoas de reconhecida competência, de trabalhos eventuais, em regime de prestação de serviço, mediante a remuneração que estabelecer caso a caso, dentro da verba para esse fim inscrita no respectivo orçamento.
+Art. 27.º O director do Centro pode autorizar a realização, por quaisquer pessoas de reconhecida competência, de trabalhos eventuais, em regime de prestação de serviço, mediante a remuneração que estabelecer caso a caso, dentro da verba para esse fim inscrita no respectivo orçamento.
 
-###### Art. 28.º Não se observará o disposto no n.º 2 do artigo 25.º enquanto não for possível constituir as comissões nesse artigo previstas.
+Art. 28.º Não se observará o disposto no n.º 2 do artigo 25.º enquanto não for possível constituir as comissões nesse artigo previstas.
 
-###### Art. 29.º Dentro do prazo de seis meses será expedido o regulamento ou regulamentos necessários, observando-se até lá as normas actualmente aplicáveis ao Centro, no que não for contrário às disposições do presente diploma.
+Art. 29.º Dentro do prazo de seis meses será expedido o regulamento ou regulamentos necessários, observando-se até lá as normas actualmente aplicáveis ao Centro, no que não for contrário às disposições do presente diploma.
 
 Ministério da Educação Nacional, 30 de Junho de 1967. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

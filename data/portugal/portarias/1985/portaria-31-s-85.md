@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 10/1985, 3º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 72-(43) a 72-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,118 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-s-1985-162796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bff4ca4f6e09b7ae07456003dfbb96951f843bea55392bd51b19e93a80eca95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b22e12eb219f2b4783650874d1945d68c26ac4f7f042dd1af02d7c11500e0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carris
+- CP
+- Metropolitano de Lisboa
+- Passe Social
+- Preço
+- Serviço de Transportes Colectivos do Porto
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Urbano
+- Transtejo
+relationships:
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:42Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +184,7 @@ Manda o Governo da República Portuguesa, pelos Ministros do Comércio e Turismo
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 Linha Verde:
 
@@ -112,7 +194,7 @@ Linha Verde:
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 Elevadores:
 
@@ -130,7 +212,7 @@ Pré-comprado (ver nota a) ... 24$00
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 1.2 - Passes:
 
@@ -238,7 +320,7 @@ j) A Direcção-Geral de Transportes Terrestres fixará as carreiras e percursos
 
 Válidos na Carris e no Metropolitano e ainda num percurso de um operador rodoviário, nos termos definidos na [Portaria n.º 765-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/765-a-1980-250430), de 1 de Outubro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 1.2.7 - Passes combinados (L/CP e L/Transtejo):
 
@@ -326,7 +408,7 @@ Passe Terreiro do Paço-Montijo para a terceira idade (mensal) (válido para ind
 
 Autocarros, troleicarros e eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras do STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas. A requerimento dos respectivos concessionários, o director-geral de Transportes Terrestres poderá autorizar, por despacho, que, nas carreiras interurbanas se pratique naqueles percursos o regime tarifário previsto no n.º 4 do presente diploma.
 
@@ -414,7 +496,7 @@ Válido no STCP e na CP, nos termos definidos pela [Portaria n.º 306/80](https:
 
 Válidos nos termos definidos pela [Portaria n.º 756/80](https://diariodarepublica.pt/dr/detalhe/portaria/756-1980-461620) de 30 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 3 - Outros transportes urbanos:
 
@@ -462,13 +544,13 @@ A Direcção-Geral de Transportes Terrestres poderá aprovar mínimos de cobran�
 
 4.4.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 4.4.2 - Para número limitado de viagens:
 
 Em substituição da modalidade referida no número anterior e a requerimento dos concessionários, pode a Direcção-Geral de Transportes Terrestres autorizar a emissão de assinaturas de linha para 44, 52 e 88 viagens, não podendo esta última modalidade ser praticada como modalidade única.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
 
 4.4.3 - Quando as assinaturas de linha previstas nos números anteriores permitirem a utilização de duas ou mais carreiras, o seu preço será correspondente à distância zonal do percurso para que são válidas.
 
@@ -490,8 +572,8 @@ Em substituição da modalidade referida no número anterior e a requerimento do
 
 Ministérios do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 11 de Janeiro de 1985.**
+Assinada em 11 de Janeiro de 1985.
 
-**O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral. - O Ministro do Equipamento Social, João Rosado Correia.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01003/00430050.pdf)

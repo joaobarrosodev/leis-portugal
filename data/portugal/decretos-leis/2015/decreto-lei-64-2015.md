@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08300/0212202124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2015/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2015-67098357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebea83875d252f42a70bdbef13aa4244aec6fc4a110f02b5c35ddd409ed5b7d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d6ee7d82de4e3146ae50594c5a221167d4ca3da42f42c67f52a59f6671a938
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Jogos de Fortuna e Azar
 - Capital Social
-- Estabelecimento de Jogos
+- Código dos Contratos Públicos
+- Concurso Limitado por Prévia Qualificação
 - Concurso Público
 - Contra-ordenação
+- Contratação Pública
 - Contrato de Concessão
-- União Europeia
+- Contribuições e Impostos
+- Estabelecimento de Jogos
 - Fiscalização
 - Imposto Especial sobre o Jogo
-- Contribuições e Impostos
 - Inspecção Geral de Jogos
-- Concurso Limitado por Prévia Qualificação
-- Sanção Penal
+- Jogos de Fortuna e Azar
 - Pessoal dos Casinos
-- Código dos Contratos Públicos
+- Sanção Penal
+- União Europeia
 - ZONA de JOGO
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
@@ -108,16 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605322:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:04Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +186,15 @@ Os artigos 9.º a 12.º e 17.º do [Decreto-Lei n.º 422/89](https://diariodarep
 
 3 - O disposto no número anterior não é aplicável nos casos previstos no artigo 6.º.
 
-###### Artigo 10.º — Procedimento concursal
+Artigo 10.º
+
+Procedimento concursal
 
 A concessão da exploração de jogos de fortuna ou azar nos casinos das zonas de jogo é atribuída mediante concurso público ou concurso limitado por prévia qualificação, nos termos dos artigos seguintes e, supletivamente, do disposto na parte II do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro.
 
-###### Artigo 11.º — Tramitação do procedimento
+Artigo 11.º
+
+Tramitação do procedimento
 
 1 - As decisões de contratar, de aprovação das peças procedimentais, de qualificação dos candidatos, quando aplicável, de adjudicação e de aprovação da minuta dos contratos de concessão e a outorga dos mesmos cabe ao membro do Governo responsável pela área do turismo.
 
@@ -184,7 +216,9 @@ e) As contrapartidas financeiras mínimas e ou de natureza não pecuniária devi
 
 f) O montante das cauções a prestar pelos concorrentes e o modo de prestação das mesmas.
 
-###### Artigo 12.º — Publicação do contrato de concessão
+Artigo 12.º
+
+Publicação do contrato de concessão
 
 1 - O contrato de concessão e a sua prorrogação são publicados em Diário da República.
 
@@ -194,7 +228,9 @@ f) O montante das cauções a prestar pelos concorrentes e o modo de prestação
 
 4 - [Revogado].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os capitais próprios das sociedades concessionárias não podem ser inferiores a 30% do ativo total líquido, devendo elevar-se a 40% deste a partir do sexto ano posterior à celebração do contrato de concessão, sem prejuízo do respetivo capital social mínimo poder ser fixado, para cada uma delas, nas peças procedimentais a que se refere o artigo 11.º.
 
@@ -220,12 +256,12 @@ São revogados os n.os 2 a 4 do artigo 12.º e o artigo 13.º do [Decreto-Lei n.
 
 Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 23 de abril de 2015.**
+Promulgado em 23 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de abril de 2015.**
+Referendado em 24 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

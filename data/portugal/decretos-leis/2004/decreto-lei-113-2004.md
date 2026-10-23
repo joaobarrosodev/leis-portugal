@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/114a00/31063107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2004/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2004-269261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 228196b8c8c6c6b2ba5f55344c35a68b3bdc265ca42bf2c8a16681b75eff67af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 178fdc511948ca1c9a7c6fda73b92d01683c823f10711e6992c7e175cbc52e13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Qualidade
+- Comércio
+- Fruticultura
 - Materiais de Viveiro
-- Produção Agrícola
 - Plantula
+- Produção Agrícola
 - Produção Vegetal
 - Regulamento
-- Fruticultura
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:641704:por
@@ -90,16 +90,21 @@ relationships:
   target: celex:32003L0111
   label: null
   source: http://data.europa.eu/eli/dir/2003/111/oj
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogado pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:10Z'
   warnings: []
   errors: []
 ---
@@ -142,15 +147,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 3 de Maio de 2004.**
+Promulgado em 3 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Maio de 2004.**
+Referendado em 5 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

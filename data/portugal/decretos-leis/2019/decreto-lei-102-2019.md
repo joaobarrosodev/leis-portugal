@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14900/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2019/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2019-123725410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbd27e35167c3b180ff9b8708204b81c36d05118e6f544a3ad6de2215f4f297c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b06ebd4962f83ecfb5310e6d84d11edf1af6bdb5ac9dd9d37f96f2ac884b07e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,61 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrutura BASE do Exército
-- Fusão de Carreiras
-- Reestruturação de Serviços
-- Hospital das Forças Armadas
+- Administração Pública
 - Centro de Informações e Segurança Militares
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
 - Comando da Logística
-- Inspecção Geral do Exército
-- Exército
-- Comando Operacional Conjunto
-- Ensino Superior Militar
+- Comando do Exército
 - Comando do Pessoal
+- Comando Operacional Conjunto
 - Conselho Superior do Exército
 - Criação de Serviços
 - Definição de Competências
-- Marinha
+- Ensino Superior Militar
 - Escola de Sargentos do Exército
 - Estabelecimentos Fabris do Exército
 - Estado Maior Conjunto
-- Administração Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
+- Estrutura BASE do Exército
+- Exército
 - Extinção de Serviços
 - Farmácia Central do Exército
-- ZONA Militar da Madeira
-- Serviço Militar
-- Medicamento
+- Forças Armadas
+- Fusão de Carreiras
+- Gestão de Recursos Humanos
+- Hospital das Forças Armadas
+- Inspecção Geral do Exército
 - Instituto de Estudos Superiores Militares
 - Integração de Serviços
 - Junta Médica de Recurso do Exército
-- Chefe do Estado Maior do Exército
 - Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Marinha
+- Medicamento
+- Militar
 - Missão Militar
-- Forças Armadas
+- Museu Militar
 - Orgânica
 - Pessoal Civil
-- Museu Militar
+- Política de Saúde
 - Prestação de Serviços
 - Produto Farmacêutico
 - Quadro de Pessoal
 - Quartel General de Operações Especiais
+- Reestruturação de Serviços
 - Remuneração
-- Militar
-- Gestão de Recursos Humanos
+- Serviço Militar
+- Serviço Nacional de Saúde
 - Substância Estupefaciente ou Psicotrópica
 - Terapêutica
 - Unidade de Apoio Posupnato
 - Unidades de Apoio
-- Comando do Exército
+- ZONA Militar da Madeira
 - ZONA Militar dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:156974201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Criado o Laboratório Nacional do Medicamento (LNM) que sucede, em todos os seus direitos e obrigações, ao Laboratório
+    Militar de Produtos Químicos e Farmacêuticos (LMPQF), mantendo-se em funções o respetivo pessoal dirigente e em vigor
+    (até à instalação dos órgãos do LNM) as disposições que regem a organização e o funcionamento do LMPQF, aprovadas pelo
+    presente diploma, pelo(a) Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
   label: null
@@ -152,16 +160,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/33/2018/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/2018/07/18/p/dre
+- type: cites
+  target: pt:dre:115712242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:156974201:por
+  label: Revogado o presente diploma a partir de 11.02.2021 pelo(a) Decreto-Lei n.º 13/2021 - Diário da República n.º 28/2021,
+    Série I de 2021-02-10, que manteve, contudo, transitoriamente em vigor, nos termos do disposto no n.º 1 do seu art. 3.º
+    e seu art. 9.º, as disposições que regem a organização e funcionamento do Laboratório Militar de Produtos Químicos e Farmacêuticos
+    (LMPQF), ao qual sucede, na totalidade dos direitos e obrigações que subsistem na sua titularidade, incluindo licenças
+    e autorizações e posições jurídicas, o Laboratório Nacional do Medicamento (LM), conforme estabelecido no art. 4.º daquele
+    diploma, e determinou a remissão para o LM das referências contratuais e legais feitas ao LMPQF.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2021-156974201
+  date: '2021-02-10'
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:39Z'
   warnings: []
   errors: []
 ---
@@ -286,7 +356,9 @@ f) [Anterior alínea e).]
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -306,7 +378,9 @@ g) ...
 
 h) Órgãos de apoio a mais de um ramo.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -360,13 +434,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2019. - António Luís Santos da Costa - João Titterington Gomes Cravinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 29 de julho de 2019.**
+Promulgado em 29 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2019.**
+Referendado em 30 de julho de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -543,3 +617,5 @@ c) Apoiar o diretor na definição dos meios necessários e adequados à execuç
 4 - Para efeitos do disposto no número anterior, o LMPQF presta ao INFARMED, I. P., toda a informação necessária.
 
 5 - O LMPQF está isento do pagamento de taxas devidas pela atividade produtiva na área do medicamento.
+
+112499219

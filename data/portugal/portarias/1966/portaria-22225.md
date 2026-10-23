@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22225-1966-480164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fad11758c6ae794ca269174a1d23ba8b884141b02a1be529676e3e7cff8a2444
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8f4155898da300211abf734704c371e877137359d0a3aed2b0322534eefddac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:01Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o pessoal:
 
-###### Artigo 2.º «Remunerações certas ao pessoal em exercício»:
+Artigo 2.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 224477$00
 
@@ -107,7 +115,7 @@ Saldo do ano económico findo ... 304228$00
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
 
@@ -125,15 +133,15 @@ N.º 2), alínea a) «Pessoal contratado - Vencimentos» ... 150000$00
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Fardamentos e resguardos» ... 2500$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Fardamentos e resguardos» ... 2500$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 3080$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 3080$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Abono de família» ... 4000$00
+Artigo 11.º «Abono de família» ... 4000$00
 
 ... 9580$00
 

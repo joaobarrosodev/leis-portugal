@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/240a00/36193619.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/1996/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1996-228405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d8ddb459fd06d2b8dbb5dc92e05345d50fecf73f7c8a2f6073f41402b4ff5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78f761dfbf76902b00e9bd4caa47e50dc968ea87732c2711fee24f1c4c17d5d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Investigação Científica e Tecnológica
-- Proteção dos Animais
 - Definição de Competências
 - Experimentação nos Animais
+- Investigação Científica e Tecnológica
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:498488:por
@@ -84,16 +84,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/1992/07/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1992/07/06/p/dre
+- type: repealed_by
+  target: pt:dre:498488:por
+  label: "Revogado o Dec Lei 129/92 de 06-jul DR.IS-A [153], na redação do presente diploma, pelo DEC LEI.113/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2013-498488
+  date: '2013-08-07'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:22Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +124,12 @@ As normas técnicas de execução do presente diploma serão aprovadas por porta
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1996. - António Manuel de Oliveira Guterres - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 26 de Setembro de 1996.**
+Promulgado em 26 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 1996.**
+Referendado em 4 de Outubro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21100/0798507986.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/365/2007/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-2007-629413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e897d5df43dcfcabba5913d43322a8dbfb0165f9997d62e2b85929b44f6831f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ead576ed3f3ba0be16b44ca1172b6908e1fc2942ec67cc748d2bacf73adcdef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Publicidade
-- Controlo de Qualidade
-- Etiquetagem
-- Embalagem
-- Política Alimentar
-- Informação do Consumidor
-- Proteção do Consumidor
-- Indústria Alimentar
 - Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Indústria Alimentar
+- Informação do Consumidor
+- Política Alimentar
+- Produto Alimentar
+- Proteção do Consumidor
+- Publicidade
 relationships:
 - type: amended_by
   target: pt:dre:74661197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455106:por
+  label: "Substituído o anexo III ao Decreto-Lei n.º 560/99, de 18 de Dezembro, na redacção do presente diploma, pelo DEC\
+    \ LEI.156/2008.07.08.2008.MADRP, DR.IS [152] de 07.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2008-455106
+  date: '2008-08-07'
 - type: cites
   target: celex:32000L0013
   label: null
@@ -98,16 +104,29 @@ relationships:
   target: celex:32006L0142
   label: null
   source: http://data.europa.eu/eli/dir/2006/142/oj
+- type: repealed_by
+  target: pt:dre:455106:por
+  label: "Revogado, a partir de 12.08.2008, o Decreto-Lei n.º 195/2005, de 7 de Novembro, na redacção do presente diploma,\
+    \ pelo DEC LEI.156/2008.07.08.2008.MADRP, DR.IS [152] de 07.08.2008, sem prejuízo do disposto no seu artigo 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2008-455106
+  date: '2008-08-07'
+- type: repealed_by
+  target: pt:dre:74661197:por
+  label: Revogado, a partir de 10.06.2016, o Dec Lei 560/99 de 18-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 26/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09, sem prejuízo do disposto transitoriamente no seu
+    art. 15.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2016-74661197
+  date: '2016-06-09'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:01Z'
   warnings: []
   errors: []
 ---
@@ -154,12 +173,12 @@ O presente decreto-lei entra em vigor a 24 de Dezembro de 2007.
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 22 de Outubro de 2007.**
+Promulgado em 22 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

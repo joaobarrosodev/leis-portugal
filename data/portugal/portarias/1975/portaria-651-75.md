@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/25800/17671768.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/651-1975-312473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2b4c9eae6f0ae13e2632783714027bfef73c53ab31da6819f576c988c609b95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f884cc596c10a6a66bcae5b64f766396967f80ba781cdda6bbd80e287e2b1d89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Boletim de Registo de Importação
+- Direcção Geral dos Serviços Agrícolas
+- Direito de Importação
+- Fixação de Preços
+- Junta Nacional das Frutas
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:406716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:406716:por
+  label: Revogada, a partir de 24.11.2022, pelo(a) Portaria n.º 700/76 - Diário da República n.º 275/1976, Série I de 1976-11-24
+    nos termos do n.º 11.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1976-406716
+  date: '1976-11-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:51:57Z'
   warnings: []
   errors: []
 ---

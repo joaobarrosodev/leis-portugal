@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/797-1980-462189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ec4d3146c68ddb80a8fa0437d714af70d148a1a6ea1e61a2fc55557666d540b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6102ea6f25d6b81d31e3f470f3e3d89b9fc00b4e1ba243a986e3b02355d8f938
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Barcelos
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:642185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318276:por
+  label: "Alterado o quadro de pessoal pela PORT.1243/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1243-1982-318276
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:308288:por
+  label: "Alterado o quadro de pessoal pela PORT.130/83.1983.02.03.MFP DR.IS [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-1983-308288
+  date: '1983-02-03'
+- type: amended_by
+  target: pt:dre:452525:por
+  label: "Alterado o quadro do pessoal pela PORT.702/83.22.06.1983.MFP, DR.IS [141] de 22.06.1983 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/702-1983-452525
+  date: '1983-06-22'
+- type: amended_by
+  target: pt:dre:180427:por
+  label: "Alterado o quadro de pessoal pela PORT.599/85.14.08.1985.PCM, DR.IS [186] de 14.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1985-180427
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:210630:por
+  label: "Alterado o quadro de pessoal, na parte referente a pessoal técnico superior, na redacção dada pela Port. 130/83,\
+    \ de 03-Fev, e pela Port. 702/83, de 22-Jun, pela PORT.756/86.20.12.1986.MF, DR.IS [292] de 20.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1986-210630
+  date: '1986-12-20'
+- type: amended_by
+  target: pt:dre:495710:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Barcelos aprovado pelo presente diploma, alterado pelas Port\
+    \ 1243/82 de 31-Dez, 702/83 de 22-Jun, 599/85 de 14-Ago e 756/86 de 20-Dez, pela PORT.787/87.12.09.1987.MF, DR.IS [210]\
+    \ de 12.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/787-1987-495710
+  date: '1987-09-12'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Barcelos pelo(a) Portaria n.º 413/91 - Diário da
+    República n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:20Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +154,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Barcelos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23200/31493151.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23200/31493151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23200/31493151.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

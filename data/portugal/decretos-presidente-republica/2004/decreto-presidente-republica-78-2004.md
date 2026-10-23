@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/78/2004/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/78-2004-546655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:48:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef488ef9c20d3f33717083e94e14b05683968f228a995107b984eb797963e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2cda251f385fbf2465ec21acfb0ec2e84b20baa2a9ab56b9fec835aff029ba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:48:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Brasília
 - Embaixador
 - Nomeação
-- Brasil
 relationships:
 - type: amended_by
   target: pt:dre:439114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439114:por
+  label: "Exonerado pelo DEC.143/2008.30.10.2008.PR, DR.IS [211] de 30.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/143-2008-439114
+  date: '2008-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:48:52Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +98,16 @@ validation:
 
 de 15 de Novembro
 
-**O Presidente da República decreta, nos termos do arigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do arigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador Francisco Manuel Seixas da Costa para o cargo de Embaixador de Portugal em Brasília.
 
-**Assinado em 14 de Outubro de 2004.**
+Assinado em 14 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Outubro de 2004.**
+Referendado em 19 de Outubro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Victor Martins Monteiro.

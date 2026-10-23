@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16500/0003100058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2021/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2021-170175411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d602157e269a6f7a806365416979896eaaf041169f67f811eb6e369f7712286e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 685e19b78df2548df4d56a312f58f843ae8ebc2e59302f765bceaa588786992f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Apoio ao Investimento
 - Autoridade Nacional
 - Autoridade Tributária e Aduaneira
-- Financiamento
-- Publicidade
-- Instituto do Cinema e do Audiovisual
+- Cinema
+- Cobrança de Dívidas
+- Confidencialidade
 - Conservação de Documentos
+- Cooperação Internacional
+- Dados Pessoais
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direito de Autor
+- Distribuição de Obra Cinematográfica
 - Divulgação Cultural
 - Especificação Técnica
-- Produção Cinematográfica
-- Apoio ao Investimento
-- Pagamento
+- Financiamento
+- Instituto do Cinema e do Audiovisual
 - Investimento
+- Investimento Privado
 - Investimento Público
 - Operador de Audiovisual
 - Operador de Televisão
-- Política Cultural
-- Cooperação Internacional
-- Serviço Público
-- Prestação de Contas
-- Propriedade Intelectual
-- Confidencialidade
-- Cobrança de Dívidas
-- Regime Jurídico
-- Regulamento CE
-- Cinema
-- Investimento Privado
-- Dados Pessoais
-- Taxa
-- Televisão
-- Programa Audiovisual
-- Videograma
+- Pagamento
 - Plataforma Eletrónica
+- Política Cultural
+- Prestação de Contas
+- Produção Cinematográfica
+- Programa Audiovisual
+- Propriedade Intelectual
+- Publicidade
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Regulamento CE
+- Serviço Público
+- Taxa
 - Taxa de Exibição
-- Distribuição de Obra Cinematográfica
+- Televisão
+- Videograma
 relationships:
 - type: cites
   target: celex:32010L0013
@@ -165,16 +165,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:115172414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119622094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148963298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:27Z'
   warnings: []
   errors: []
 ---
@@ -1121,18 +1205,20 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2022.
 
 Visto e aprovado em Conselho de Ministros de 22 de julho de 2021. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Nuno Artur Neves Melo da Silva.
 
-**Promulgado em 13 de agosto de 2021.**
+Promulgado em 13 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de agosto de 2021.**
+Referendado em 16 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 26.º)
 
 Requisitos mínimos de diversidade aplicáveis aos investimentos obrigatórios de montante igual ou superior a (euro) 750 000 por ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/16500/0003100058.pdf))](https://files.diariodarepublica.pt/1s/2021/08/16500/0003100058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/16500/0003100058.pdf)
+
+114510886

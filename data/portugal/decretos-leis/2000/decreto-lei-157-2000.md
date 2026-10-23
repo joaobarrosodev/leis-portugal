@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2000/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2000-321335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef6eed18c8a5bc56fdf45c6f617fc71c77341605cba0ad441ae19549b1824e74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f4f8ee6c45feee3fb1e3f9e2dcdafbf622cc72a93152e040555b29a5b2984d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- Análise Laboratorial
-- Aproximação das Legislações
 - Aditivo Alimentar
 - Alimento para Animais
+- Análise Laboratorial
+- Aproximação das Legislações
 - Normalização
+- Produto Químico
 relationships:
 - type: cites
   target: celex:31999L0027
@@ -80,14 +80,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1999/27/oj
 article_structure:
   article_count: 3
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:40Z'
   warnings: []
   errors: []
 ---
@@ -140,17 +140,19 @@ h) NP 4134, relativa à determinação do teor de menadiona (vitamina K3).
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 6 de Julho de 2000.**
+Promulgado em 6 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2000.**
+Referendado em 12 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — PARTE A
+## ANEXO
+
+## PARTE A
 
 Determinação do amprolium
 
@@ -282,7 +284,7 @@ Para teores de amprolium superiores a 1000 mg/kg: 7,5% do maior dos valores;
 
 8 - Resultados de um teste interlaboratorial - apresentam-se no quadro seguinte os resultados das análises efectuadas a três alimentos para aves de capoeira (amostras 1 a 3), um suplemento mineral (amostra 4) e uma pré-mistura (amostra 5) no âmbito de um teste interlaboratorial:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
 
 9 - Observações:
 
@@ -292,7 +294,7 @@ Para teores de amprolium superiores a 1000 mg/kg: 7,5% do maior dos valores;
 
 9.3 - O extracto deve ser sempre diluído com fase móvel. Caso contrário, devido a variações da força iónica, o tempo de retenção do pico do amprolium pode apresentar desvios significativos.
 
-# PARTE B — Determinação do diclazuril
+## PARTE B — Determinação do diclazuril
 
 2,6 cloro-alfa-(4-clorofenil)-4-,4,5-di-hidro-3,5-dioxo-1,2,4-triacina-2(3H)-il)be nzeno acetonitrilo
 
@@ -490,11 +492,11 @@ Para teores de diclazuril superiores a 5 mg/kg: 15% do maior dos valores.
 
 8 - Resultados de um teste interlaboratorial - foi organizado um teste interlaboratorial, que envolveu a análise de 5 amostras em 11 laboratórios. Foram analisadas 2 amostras de pré-misturas (uma, O 100, misturada com uma matriz orgânica; a outra, A 100, com uma matriz inorgânica), com um teor teórico de diclazuril de 100 mg/kg, e 3 amostras (L1, Z1 e K1) de misturas alimentares para aves de capoeira de três produtores distintos dos Países Baixos, com um teor teórico de diclazuril de 1 mg/kg. Os laboratórios receberam instruções para analisarem cada amostra uma vez ou em duplicado. (No Journal of AOAC International, vol. 77, n.º 6, 1994, pp. 1359-1361, podem ser encontrados elementos mais pormenorizados sobre o teste interlaboratorial efectuado.) Os resultados obtidos figuram no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
 
 9 - Observações - é necessário comprovar previamente a linearidade da resposta ao diclazuril em toda a gama de concentrações objecto das determinações.
 
-# PARTE C — Determinação do carbadox
+## PARTE C — Determinação do carbadox
 
 N(elevado a 1), N(elevado a 4)-dióxido de metil-3-(2-quinoxalinilmetileno)carbazato
 
@@ -660,10 +662,10 @@ QUADRO N.º 1
 
 Resultados do teste interlaboratorial com alimentos para animais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
 
 QUADRO N.º 2
 
 Resultados do teste interlaboratorial com pré-misturas e preparações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)](https://files.diariodarepublica.pt/1s/2000/07/168a00/35253535.pdf)

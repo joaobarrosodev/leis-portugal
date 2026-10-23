@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21076-1965-239177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35bb3c42d14090a5d2834c1fc1247e4fb57d015d09e57cdc4f0849e103ca9307
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41c04d79349e472fd0b9f3701d3241634bde41daece2a9ccbdb6bacf938866cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:256623:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:37Z'
   warnings: []
   errors: []
 ---
@@ -200,37 +204,37 @@ Os caminhos de ferro indicam na sua tarifa se e em que condições os pedidos de
 
 Os volumes podem ser também marcados por meio de um outro sinal que tenha as características acima citadas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Quando, por falta, insuficiência ou irregularidade dos documentos a entregar, a remessa tenha que ser retida ou não possa ser entregue, o caminho de ferro pode cobrar as despesas de estacionamento e armazenagem previstas pelas tarifas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. Quando o posto da alfândega se encontre a uma certa distância da estação intermédia designada pelo expedidor para o desembaraço aduaneiro, o caminho de ferro resolve se a mercadoria deve ser transferida para o posto da alfândega ou se o desembaraço aduaneiro deve ser feito na estação. As despesas sobrecarregam a mercadoria.
 
 2. O expedidor que deseje usar de um dos direitos mencionados sob o parágrafo 1, alíneas a) e b), deve mencioná-lo na declaração de expedição, no espaço 9 «Declarações», indicando a estacão onde o desembaraço aduaneiro deve ser realizado; o consignatário que deseje usar de um destes direitos deve mencioná-lo na sua ordem, indicando a estacão onde o desembaraço aduaneiro deve ser realizado.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 Se uma parte dos objectos mencionados na declaração de expedição faltar no acto de entrega, o valor total das somas resultante da declaração de expedição deve, mesmo assim, ser pago. Fica reservado ao destinatário o direito de reclamar o reembolso das despesas respeitantes aos objectos não entregues.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 As despesas de renovação de gelo pedida em conformidade com a disposição complementar uniforme 3 ao artigo 10.º são lançadas na declaração de expedição e pagas pelo expedidor em conformidade com a indicação de pagamento à partida ou levadas a cargo do destinatário, salvo se o interessado, ao mesmo tempo que der a ordem de renovação de gelo, indicar que pagará directamente as despesas à empresa de renovação de gelo.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 Para o cálculo das importâncias devidas, o câmbio de conversão a aplicar é aquele que foi primitivamente utilizado para o cálculo das despesas, ou o que teria sido se não tivesse havido nenhum erro. A importância do pagamento a efectuar é igual à quantia assim calculada.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 A declaração de expedição ou o seu duplicado, contendo a indicação de um reembolso e tendo aposto um carimbo datador, servem de prova ao interessado de que a mercadoria foi sobrecarregada com este reembolso. O estabelecimento de boletins de reembolso é regulado pelas disposições em vigor no caminho de ferro expedidor.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 A declaração escrita conforme o modelo previsto no Anexo IV «a» deve ser redigida segundo as disposições do artigo 6.º, segundo período.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 1. Não será dado seguimento às ordens ulteriores que, em face das prescrições do artigo 5.º, parágrafos 4 e 5, não possam ser executadas.
 
@@ -244,7 +248,7 @@ Esta taxa deve ser paga na ocasião da entrega da ordem ulterior.
 
 3. No caso de atraso no transporte ou na entrega, provocado pela execução das ordens ulteriores, o caminho de ferro pode cobrar despesas de estacionamento e de armazenagem em conformidade com as tarifas, a não ser que tenha havido falta da sua parte.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 1. Os avisos enviados ao expedidor devem ser redigidos na língua oficial da estação expedidora, ou numa das três línguas francesa, alemã ou italiana.
 
@@ -258,7 +262,7 @@ Pelo caminho de ferro destinatário, quando elas sejam dadas pelo consignatário
 
 Esta taxa deve ser paga na ocasião da entrega das instruções. Todavia, quando o expedidor envie as suas instruções directamente à estação onde se encontra a mercadoria e esteja prevista uma taxa na tarifa pela qual a remessa foi taxada até à dita estação, esta taxa sobrecarrega a mercadoria. O mesmo sucede quando o caminho de ferro execute instruções que o expedidor tenha dado na declaração de expedição em conformidade com o parágrafo 3, primeiro período.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 1. Os avisos enviados ao expedidor devem ser redigidos na língua oficial da estação expedidora, ou numa das três línguas francesa, alemã ou italiana. Quando a língua utilizada não seja a do país a que pertence a estação expedidora, a obrigação de traduzir o aviso pertence ao expedidor.
 
@@ -272,19 +276,19 @@ Pelo caminho de ferro destinatário, quando elas sejam dadas pelo consignatário
 
 Esta taxa deve ser paga na ocasião da entrega das instruções. Todavia, quando o expedidor, em conformidade com a disposição complementar uniforme 2, envie as suas instruções directamente à estacão destinatária e esteja prevista uma taxa na tarifa pela qual a remessa foi taxada até à dita estação, esta taxa sobrecarrega a mercadoria. O mesmo sucede quando o expedidor, em conformidade com o parágrafo l, antepenúltimo período, pedir, na declaração de expedição, que a mercadoria lhe seja devolvida de ofício.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 Quando, a pedido do expedidor, o caminho de ferro forneça encerados alugados, não assume qualquer outra responsabilidade além da que lhe compete pelo transporte em vagões abertos, sem encerados, mesmo que se trate de mercadorias que, segundo as prescrições da tarifa, não são transportadas em vagões abertos.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 Só o caso de ser excedido o prazo total de entrega pode dar direito a indemnização.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 Se o interessado omitiu, contràriamente às prescrições em vigor, a apresentação de uma tradução numa das línguas previstas pela C. I. M., os agentes do caminho de ferro que fizerem essa tradução, sem que ela seja pedida pelo interessado, são contudo considerados como agindo por conta do mesmo.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 1. As reclamações devem ser fundamentadas.
 
@@ -298,7 +302,7 @@ Do duplicado da declaração de expedição, quando esses pedidos forem relativo
 
 4. Os pedidos apresentados por outras pessoas que não sejam os interessados, nos termos do artigo 42.º, só serão tomados em consideração quando sejam acompanhados de uma declaração, numa folha à parte, pela qual o interessado autoriza que a importância a pagar seja entregue ao reclamante. Esta declaração, cuja assinatura deve ser reconhecida se o caminho de ferro o exigir, deve ser estabelecida em conformidade com as prescrições legais do Estado do qual depende a administração encarregada da liquidação. Essa declaração é conservada pelo caminho de ferro.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 1. Far-se-á a conversão do franco-ouro na moeda do país de harmonia com as prescrições do caminho de ferro,
 
@@ -308,7 +312,7 @@ O câmbio de conversão a utilizar é - sem prejuízo das prescrições particul
 
 Disposição complementar uniforme do Regulamento Internacional Relativo ao Transporte de Contentores (RICo) - Anexo VIII da C. I. M.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 1. Quando os contentores fechados circulem carregados, o expedidor, ao entregá-los para transporte, deverá ter o cuidado de os fechar à chave, com selo de chumbo ou a cadeado. O contentor deve ficar fechado de modo a não poder ser violado sem vestígio aparente de arrombamento.
 

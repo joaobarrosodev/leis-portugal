@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/19/1994/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1994-224788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca81cbf91bcdb3c1b0595655b668bbd42e3b0ba04ba5f1148ad45e6ad13b8240
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69d158612d711bc89517ec7227a3e45cf3e0ec60e96334ef5d298ec4583926bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contra-ordenação
+- Gabinete do Nó Ferroviário de Lisboa
+- Medidas Preventivas
 - Multa
 - Ordenamento do Território
-- Ponte 25 de Abril
-- Contra-ordenação
-- Medidas Preventivas
-- Gabinete do Nó Ferroviário de Lisboa
 - Política de Solos
-relationships: []
+- Ponte 25 de Abril
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:34Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +104,7 @@ Assim:
 
 Ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292) e nos termos da alínea c) do n.º 1 do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Na área delimitada nas plantas anexas, que fazem parte integrante do presente diploma, fica proibida, pelo prazo de dois anos, a prática dos actos ou actividades seguintes:
+Artigo 1.º Na área delimitada nas plantas anexas, que fazem parte integrante do presente diploma, fica proibida, pelo prazo de dois anos, a prática dos actos ou actividades seguintes:
 
 a) Criação de núcleos populacionais;
 
@@ -114,11 +118,11 @@ e) Derrube de árvores em maciço com qualquer área;
 
 f) Destruição do solo vivo e do coberto vegetal.
 
-###### Art. 2.º - 1 - O Gabinete do Nó Ferroviário de Lisboa, a Administração do Porto de Lisboa, as câmaras municipais nas áreas dos respectivos municípios e as autoridades policiais são competentes para fiscalizar a observância das presentes medidas preventivas, devendo remeter os autos de notícia àquele Gabinete.
+Art. 2.º - 1 - O Gabinete do Nó Ferroviário de Lisboa, a Administração do Porto de Lisboa, as câmaras municipais nas áreas dos respectivos municípios e as autoridades policiais são competentes para fiscalizar a observância das presentes medidas preventivas, devendo remeter os autos de notícia àquele Gabinete.
 
 2 - Em caso de violação do disposto no artigo 1.º, o Gabinete do Nó Ferroviário de Lisboa é competente para ordenar de imediato o embargo e, se for caso disso, a demolição de qualquer construção e a reposição do terreno no estado anterior, nos termos do artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, sem prejuízo da aplicação das sanções previstas no presente diploma e demais legislação aplicável.
 
-###### Art. 3.º - 1 - A violação do disposto no artigo 1.º constitui contra-ordenação punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo o limite máximo elevado para 6000000$00, no caso de se tratar de pessoa colectiva.
+Art. 3.º - 1 - A violação do disposto no artigo 1.º constitui contra-ordenação punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo o limite máximo elevado para 6000000$00, no caso de se tratar de pessoa colectiva.
 
 2 - As contra-ordenações podem determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -132,26 +136,26 @@ b) A interdição do exercício, até ao máximo de dois anos, da profissão ou 
 
 5 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade que instruir o processo.
 
-###### Art. 4.º As medidas preventivas previstas no presente diploma podem cessar parcialmente em momento anterior ao termo do prazo fixado no artigo 1.º, sempre que, para uma área determinada, o projecto se torne executório mediante a declaração de utilidade pública da expropriação ou oneração dos prédios ou parcelas necessários à execução das obras.
+Art. 4.º As medidas preventivas previstas no presente diploma podem cessar parcialmente em momento anterior ao termo do prazo fixado no artigo 1.º, sempre que, para uma área determinada, o projecto se torne executório mediante a declaração de utilidade pública da expropriação ou oneração dos prédios ou parcelas necessários à execução das obras.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 18 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Manuel Dias Loureiro - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Junho de 1994.**
+Promulgado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Ligação ferroviária norte-sul entre Chelas e Penalva
 
 Medidas preventivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/08/189b00/47334779.pdf))](https://files.diariodarepublica.pt/1s/1994/08/189b00/47334779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/08/189b00/47334779.pdf)

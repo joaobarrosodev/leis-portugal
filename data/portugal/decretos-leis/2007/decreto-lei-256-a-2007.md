@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 134/2007, 1º Suplemento, Série I de 2007-07-13
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4480-(2) a 4480-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13401/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256-a/2007/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-a-2007-676058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9dc53169afaa22d764864abd2fd84ff32b938cbcb5e351e38067282e89a45a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444464af8389961038c5f69bbcbd1274f3a34b19bbdef4824b0ce22ef5020a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Financiamento
-- Instituto da Construção e do Imobiliário
 - Definição de Competências
 - Despesas Públicas
 - Equipamento Social
+- Financiamento
+- Instituto da Construção e do Imobiliário
 - Jardim de Infância
 - Locação Financeira
 - Obras Públicas
@@ -84,16 +84,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/426/2006/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/426/2006/05/02/p/dre
+- type: cites
+  target: pt:dre:659940:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:49Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +142,12 @@ O regime excepcional previsto nos artigos anteriores é aplicável a todos os pr
 
 Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Paulo Jorge Oliveira Ribeiro de Campos - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 9 de Julho de 2007.**
+Promulgado em 9 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 10 de Julho de 2007.**
+Referendado em 10 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

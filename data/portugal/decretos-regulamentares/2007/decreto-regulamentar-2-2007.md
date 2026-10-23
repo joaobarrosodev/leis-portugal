@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2007/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2007-522809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed70df4cef31db7f3fd81a17fa4592483da2c72cd34803bb8184385e5bc38e19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67c88085953f9994449e38553d591ceb62c64ff2908bfcccd8b38db61ad22b6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega da FÉ
+- Autarquia Local
+- Bragança
+- Exploração Florestal
 - Incêndio
-- Proteção da Floresta
 - Macedo de Cavaleiros
 - Miranda do Douro
 - Mirandela
 - Mogadouro
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
-- PROF do Nordeste
 - Plano Regional de Ordenamento Florestal
+- PROF do Nordeste
+- Proteção da Floresta
 - Regulamento
-- Bragança
-- Autarquia Local
 - Vimioso
 - Vinhais
 relationships:
@@ -87,6 +87,18 @@ relationships:
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 37º e 39º a 43º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 37º e 39º\
+    \ a 43º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -111,16 +123,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:277583:por
+  label: "Rectificada a al. f) do art. 2º da Port 62/2011, de 02-Fev, ficando suspensa, pelo prazo de dois anos, a aplicação\
+    \ do art. 37º e art. 39.º a 43º do regulamento anexo ao presente diploma - e não do regulamento anexo ao DR 16/2007, de\
+    \ 28-Mar -, pela DECL-RECT.10/2011.01.04.2011.PCM, DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-2011-277583
+  date: '2011-04-01'
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
   article_count: 52
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:08Z'
   warnings: []
   errors: []
 ---
@@ -185,15 +238,15 @@ O PROF NE entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Rui Nuno Garcia de Pina Neves Baleiras - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 22 de Dezembro de 2006.**
+Promulgado em 22 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Dezembro de 2006.**
+Referendado em 27 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO NORDESTE (PROF NE)
 
@@ -1445,7 +1498,7 @@ xv) Prunus avium.
 
 1 - Estão sujeitas a Plano de Gestão Florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Política Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de Plano de Gestão Florestal, as explorações florestais privadas com área mínima de 100 ha.
 
@@ -1481,7 +1534,7 @@ c) Zonas de floresta madura que interessa estruturar com vista à defesa contra 
 
 4 - No PROF NE são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF (ou outras formas associativas que se venham a constituir), as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 ### CAPÍTULO V — Medidas de intervenção
 
@@ -1503,27 +1556,27 @@ No plano que integra o relatório do PROF NE, estão consignadas medidas de inte
 
 1 - O PROF NE define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 2 - O PROF NE define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 3 - O PROF NE define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 4 - O PROF NE define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados, para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 5 - O PROF NE define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 6 - O PROF NE define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 * valor calculado com base nas áreas queimadas (floresta e matos) nos últimos cinco anos (1999 a 2003), baseada na cartografia anual de áreas queimadas por imagem de satélite, em que área mínima cartografada foi de 5 ha.
 
@@ -1633,12 +1686,12 @@ Quando se verificarem alterações às normas legais e regulamentares citadas no
 
 Modelos de silvicultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 ## ANEXO II — Priorização dos programas nas sub-regiões homogéneas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
 
 ## ANEXO B — Mapa Síntese do Plano Regional de Ordenamento Florestal do Nordeste (PROF NE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/03980417.pdf)

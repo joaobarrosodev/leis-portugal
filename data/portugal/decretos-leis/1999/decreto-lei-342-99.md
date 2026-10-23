@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/198a00/57355741.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/342/1999/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1999-428999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c44770c68697468e3847a91b3f869fbb7dbdc86bf24dced46c17dc18bf78121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4103368c81948cf0ddf98cdd857a8a5586f22f5c397a640033b6855fa313e20c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Comissão de Serviço
+- Conservação e Restauro
 - Definição de Competências
-- Património Cultural
 - Extinção de Serviços
-- Ministro da Cultura
+- Formação Profissional
 - Instituto de JOSÉ de Figueiredo
 - Instituto Português de Conservação e Restauro
 - Integração de Trabalhadores
+- Investigação Científica e Tecnológica
+- Ministro da Cultura
+- Património Cultural
 - Pessoa Colectiva de Direito Público
 - Prestação de Serviços
-- Conservação e Restauro
 - Quadro de Pessoal
 - Receita Própria
 relationships:
@@ -85,20 +85,56 @@ relationships:
   target: pt:dre:520450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568318:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do art. 22º pelo AC.61/2004.27.01.2004.TCS,\
+    \ DR.IS-A [49] de 27.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/61-2004-568318
+  date: '2004-01-27'
+- type: amended_by
+  target: pt:dre:545647:por
+  label: "Extinto, sendo objecto de fusão o Instituto Português de Conservação e Restauro, criado pelo presente diploma, cujas\
+    \ atribuições nos termos da alínea d) do nº. 3 do artigo 26.º são integrados no Instituto dos Museus e da Conservação,\
+    \ I.P.pelo DEC LEI.215/2006.27.10.2006.MC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520450:por
+  label: "Determinada a sucessão do Instituto dos Museus e da Conservação (IMC) nas atribuições do Instituto Português de\
+    \ Conservação e Restauro, cuja orgânica e atribuições constam do presente diploma, que é revogado a partir de 01.04.2007,\
+    \ pelo DEC LEI.97/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2007-520450
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460775:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:47Z'
   warnings: []
   errors: []
 ---
@@ -403,7 +439,9 @@ h) Zelar pela segurança e higiene dos edifícios em que os serviços se encontr
 
 i) Gerir o parque de viaturas do IPCR.
 
-###### Artigo 14.º — Divisão de Documentação e Divulgação
+###### Artigo 14.º
+
+##### Divisão de Documentação e Divulgação
 
 A Divisão de Documentação e Divulgação é um serviço directamente dependente da direcção do IPCR e de apoio ao Departamento de Estudos de Materiais, ao Departamento de Conservação e à Divisão de Fotografia e Radiografia, a quem compete:
 
@@ -421,7 +459,9 @@ f) Estabelecer contactos com outras instituições, nacionais e estrangeiras, co
 
 g) Colaborar na política de difusão e divulgação do IPCR.
 
-###### Artigo 15.º — Divisão de Fotografia e Radiografia
+###### Artigo 15.º
+
+##### Divisão de Fotografia e Radiografia
 
 A Divisão de Fotografia e Radiografia é um serviço directamente dependente da direcção do IPCR desenvolvendo, em colaboração com o Departamento de Estudos de Materiais, o Departamento de Conservação e a Divisão de Documentação e Divulgação, as seguintes actividades:
 
@@ -553,15 +593,15 @@ O presente diploma entra em vigor no dia 1 de Janeiro do ano de 2000.
 
 Visto e aprovado em Conselho de Ministros em 24 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 30 de Julho de 1999.**
+Promulgado em 30 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1999.**
+Referendado em 12 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I — Mapa de pessoal dirigente a que se refere o artigo 22.º
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0000600012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2025-911303058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c78dbc2fe75b8b2ec2939a1d57954bb94db2c25afb0a054dfee84ad7507266d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62db784b3ef5492d5055858d69f10b68e3706e234ae763b1285fb6e98d2a4565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Balcão Único do Prédio
+- Base de Dados
 - Cadastro Geométrico
+- Carta cadastral
+- Documento Eletrónico
 - Informação Cadastral e Geográfica
 - Instituto dos Registos e do Notariado
-- Regulamentação de Atos Legislativos
-- Base de Dados
-- Documento Eletrónico
-- Prédio Rústico
-- Registo Predial
-- Prédio Urbano
-- Sistema Nacional do Cadastro Predial
 - Plataforma Eletrónica
-- Balcão Único do Prédio
+- Prédio Rústico
+- Prédio Urbano
+- Registo Predial
+- Regulamentação de Atos Legislativos
 - Sistema de Informação Cadastral Simplificada
-- Carta cadastral
+- Sistema Nacional do Cadastro Predial
 relationships:
+- type: amends
+  target: pt:numero:lei:3/2015
+  label: Altera, a partir de 23 de março de 2025, com efeitos a 1 de janeiro de 2025, o artigo 3.º e revoga a alínea d) do
+    n.º 1 do artigo 3.º da Lei n.º 3/2015, de 9 de janeiro, Diário da República n.º 6/2015, Série I
+  source: null
+  date: '2015-01-09'
+- type: amends
+  target: pt:numero:decreto-lei:72/2023
+  label: Altera, a partir de 23 de março de 2025, com efeitos a 1 de janeiro de 2025, os artigos 12.º, 27.º, 30.º, 31.º, 32.º,
+    37.º, 52.º, 64.º, 65.º, 67.º e 74.º e revoga os n.ºs 3 e 4 do artigo 30.º e o n.º 2 do artigo 90.º do Decreto-Lei n.º
+    72/2023, de 23 de agosto, Diário da República n.º 163/2023, Série I
+  source: null
+  date: '2023-08-23'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -127,16 +140,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220219335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222645050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66071363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:865433934:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:36/2024
+  label: Revoga, a partir de 23 de março de 2025, com efeitos a 1 de janeiro de 2025, nos termos da alínea c) do artigo 4.º
+    do presente diploma, o Decreto-Lei n.º 36/2024, de 21 de maio, Diário da República n.º 98/2024, Série I
+  source: null
+  date: '2024-05-21'
 article_structure:
-  article_count: 15
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:47Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +248,9 @@ Os artigos 12.º, 27.º, 30.º, 31.º, 32.º, 37.º, 52.º, 64.º, 65.º, 67.º 
 
 5 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -217,7 +274,9 @@ e) Qualquer área contígua do território nacional que evidencie desatualizaç�
 
 6 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -235,7 +294,9 @@ e) Qualquer área contígua do território nacional que evidencie desatualizaç�
 
 8 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -249,7 +310,9 @@ e) Qualquer área contígua do território nacional que evidencie desatualizaç�
 
 6 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Nos concelhos em regime de CGPR, todos os prédios não cadastrados e não inscritos na carta cadastral ficam sujeitos, alternativamente, a:
 
@@ -263,7 +326,9 @@ c) Operação de integração na carta cadastral, nas situações previstas nas 
 
 3 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -275,7 +340,9 @@ c) Operação de integração na carta cadastral, nas situações previstas nas 
 
 5 - Sempre que na área da operação de execução sistemática de cadastro predial se localizem prédios cadastrados, é respeitada a sua configuração geométrica, com exceção das situações em que, comprovadamente, se verifique que a respetiva caracterização se encontra desatualizada ou incorreta.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +356,9 @@ c) Operação de integração na carta cadastral, nas situações previstas nas 
 
 6 - Nas operações de conservação de cadastro predial é obrigatória a harmonização cadastral nos termos do n.º 1 do artigo 15.º, devendo, quando o prédio não se encontre descrito no registo predial, ser promovido o respetivo procedimento especial de registo e, consequentemente, atribuído o NIP.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...]
 
@@ -307,13 +376,17 @@ c) Operação de integração na carta cadastral, nas situações previstas nas 
 
 8 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Qualquer ato notarial, negócio jurídico ou procedimento administrativo ou registal destinado a promover, ou que tenha por efeito, a alteração da configuração geométrica ou do posicionamento das estremas de prédios cadastrados, mesmo que não implique alteração da área, deve fazer menção expressa à identificação do prédio originário inscrito na carta cadastral e ser instruído com planta da nova configuração geométrica que resulte da alteração, elaborada por executante de cadastro predial em suporte cartográfico oficial a disponibilizar no âmbito do SNIC, estando sujeito a operação de conservação de cadastro predial nos termos dos artigos 52.º e seguintes.
 
 2 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -327,7 +400,7 @@ d) [...]
 
 e) [...]
 
-f) A realização de atos, negócios jurídicos ou operações urbanísticas em violação do previsto nos n.<sup>os</sup>2, 5 e 6 do artigo 30.º;
+f) A realização de atos, negócios jurídicos ou operações urbanísticas em violação do previsto nos n.os2, 5 e 6 do artigo 30.º;
 
 g) [...]
 
@@ -345,7 +418,9 @@ m) [...]
 
 2 - [...]
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - [...]
 
@@ -385,7 +460,7 @@ São revogados:
 
 a) A alínea d) do n.º 1 do artigo 3.º da [Lei n.º 3/2015](https://diariodarepublica.pt/dr/detalhe/lei/3-2015-66071363), de 9 de janeiro, na sua redação atual;
 
-b) Os n.<sup>os</sup>3 e 4 do artigo 30.º e o n.º 2 do artigo 90.º do [Decreto-Lei n.º 72/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2023-220219335), de 23 de agosto, na sua redação atual;
+b) Os n.os3 e 4 do artigo 30.º e o n.º 2 do artigo 90.º do [Decreto-Lei n.º 72/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2023-220219335), de 23 de agosto, na sua redação atual;
 
 c) O [Decreto-Lei n.º 36/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2024-865433934), de 21 de maio.
 
@@ -395,12 +470,14 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 6 de fevereiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Rita Alarcão Júdice.
 
-**Promulgado em 6 de março de 2025.**
+Promulgado em 6 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2025.**
+Referendado em 11 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118809021

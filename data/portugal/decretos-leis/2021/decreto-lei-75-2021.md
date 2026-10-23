@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16500/0005900063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2021/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2021-170175412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a15f598cae2e963dbf58e1c49588ce87d85ad4fdeec2fdf58d3206141c60e3dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7e287cf52b9799db27ebf1c9b99db700210e154ed08c5c1c8169265b751f908
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Admissão de Pessoal
-- Serviço Voluntário
-- Direito de Acesso
 - Cálculo de Pensões
-- Pensão por Incapacidade Permanente para o Trabalho
-- Serviço Militar
-- Voluntariado
-- Recrutamento de Pessoal
+- Contrato de Trabalho
+- Direito de Acesso
+- Forças Armadas
+- Incapacidade Permanente
+- Militar
 - Missão de PAZ
 - Missão Humanitária
 - Missão Militar
-- Forças Armadas
+- Pensão por Incapacidade Permanente para o Trabalho
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro Permanente das Forças Armadas
-- Contrato de Trabalho
-- Militar
+- Recrutamento de Pessoal
 - Serviço Efectivo
-- Incapacidade Permanente
+- Serviço Militar
+- Serviço Voluntário
+- Voluntariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
@@ -103,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10/2018/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/2018/03/02/p/dre
+- type: cites
+  target: pt:dre:114796181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:29Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +281,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de agosto de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Catarina Teresa Rola Sarmento e Castro - José Correia Fontes Couto.
 
-**Promulgado em 16 de agosto de 2021.**
+Promulgado em 16 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de agosto de 2021.**
+Referendado em 19 de agosto de 2021.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra de Estado e da Presidência.
+
+114509144

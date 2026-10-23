@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 62/2021, 1º Suplemento, Série I de 2021-03-30
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 32-(2) a 32-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06201/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/25-a/2021/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-a-2021-160534623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac27298e8b8397355d9693d669d93ed62c4b7c8381b8bf95fe58a4abdd1025fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4e699143ba12647d290ddb9ef44e4eb0e1fda8cd26f52b7c8a00a73aef2671b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adaptação do Trabalhador
-- Empresa
-- Contra-ordenação Laboral
+- Autoridade para as Condições do Trabalho
 - Código do Trabalho
-- Fiscalização
+- Contra-ordenação Laboral
 - Doença Infecciosa
+- Empresa
 - Epidemia
 - Estabelecimento de Ensino
-- Prorrogação de Prazo
+- Fiscalização
 - Horário de Trabalho
+- Prorrogação de Prazo
 - Teletrabalho
 - Trabalhador por Conta de Outrem
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/79-a/2020/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79-a/2020/10/01/p/dre
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:08Z'
   warnings: []
   errors: []
 ---
@@ -134,12 +144,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 29 de março de 2021.**
+Promulgado em 29 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de março de 2021.**
+Referendado em 29 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114112608

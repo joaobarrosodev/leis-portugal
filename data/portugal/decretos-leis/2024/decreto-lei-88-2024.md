@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22100/0000500014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2024/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886ea84959c18ece6e82af5b1843693907f01c53aa73329fd6675d1d4b75f826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab3e899717831f4561a6a0515e40356db7c7d82e7a596d50443f4e05ca5032b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
-- Competitividade Empresarial
 - Auxílio de Minimis
+- Competitividade Empresarial
+- Empresa
+- Financiamento
 - Informatização
-- Subsídio não Reembolsável
 - Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade
+- Subsídio não Reembolsável
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:4/2023
+  label: Altera, a partir de 19 de novembro de 2024, os artigos 1.º, 4.º, 6.º, 7.º, 10.º, 12.º e 14.º, adita o artigo 15.º-A
+    e republica o Decreto-Lei n.º 4/2023, de 11 de janeiro, Diário da República n.º 8/2023, Série I
+  source: null
+  date: '2023-01-11'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -99,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
+- type: cites
+  target: pt:dre:205994956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:25Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +165,15 @@ Os artigos 1.º, 4.º, 6.º, 7.º, 10.º, 12.º e 14.º do [Decreto-Lei n.º 4/2
 
 O presente decreto-lei aprova o Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade, que tem como objetivo a recuperação dos ativos empresariais danificados, total ou parcialmente, em resultado de situações adversas reconhecidas por resolução do Conselho de Ministros.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 São elegíveis os projetos inseridos em todas as atividades económicas, com exceção dos projetos referidos no n.º 3 do artigo 1.º do [Regulamento (UE) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -173,13 +199,17 @@ j) [...]
 
 2 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
 2 - Quando o período previsto na alínea a) do número anterior se revele insuficiente para a conclusão da execução do projeto, a comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente ou a entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa pode autorizar a execução do mesmo num prazo adicional de 12 meses.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
 
@@ -201,7 +231,9 @@ j) [...]
 
 10 - Verificados os factos previstos no número anterior, a CCDR, territorialmente competente, desenvolve os procedimentos adequados à devolução das quantias recebidas indevidamente, e bem assim a comunicação de eventuais responsabilidades civis e ou criminais, junto das entidades competentes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +251,9 @@ j) [...]
 
 8 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]
 
@@ -243,15 +277,15 @@ As condições dos apoios previstos no presente decreto-lei são objeto de regul
 
 Visto e aprovado em Conselho de Ministros de 17 de outubro de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Manuel Castro Almeida - João Rui da Silva Gomes Ferreira.
 
-**Promulgado em 7 de novembro de 2024.**
+Promulgado em 7 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de novembro de 2024.**
+Referendado em 11 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -467,15 +501,17 @@ Estimativa dos custos resultantes dos danos incorridos em consequência direta d
 
 | Rubricas |  | Valor em euros |
 | --- | --- | --- |
-| 1 - Danos materiais<sup>1</sup> em ativos afetados<sup>2</sup> |  |  |
+| 1 - Danos materiais1 em ativos afetados2 |  |  |
 | 1.1 - Edifícios | (1) = (1.1) + (1.2) + (1.3) |  |
 | 1.2 - Máquinas e equipamentos |  |  |
 | 1.3 - Existências |  |  |
-| 2 - Perda de rendimento por suspensão de atividade<sup>3</sup> |  |  |
+| 2 - Perda de rendimento por suspensão de atividade3 |  |  |
 | 3 - Danos totais/limite do apoio a conceder | (3) = (1) + (2) |  |
 
-<sup>1</sup> Custos avaliados por um perito independente constante de lista publicada pela respetiva comissão de coordenação e desenvolvimento regional ou reconhecido por uma empresa de seguros.
+1 Custos avaliados por um perito independente constante de lista publicada pela respetiva comissão de coordenação e desenvolvimento regional ou reconhecido por uma empresa de seguros.
 
-<sup>2</sup> O cálculo dos danos materiais deve basear-se no custo de reparação ou no valor económico do ativo afetado antes da calamidade natural ou ocorrência excecional, não devendo exceder o custo da reparação ou a diferença entre o valor do bem antes e depois da ocorrência.
+2 O cálculo dos danos materiais deve basear-se no custo de reparação ou no valor económico do ativo afetado antes da calamidade natural ou ocorrência excecional, não devendo exceder o custo da reparação ou a diferença entre o valor do bem antes e depois da ocorrência.
 
-<sup>3</sup> A perda de rendimento tem como referência a suspensão total ou parcial da atividade por um período não superior a seis meses a contar da ocorrência. Deve ser calculada comparando os dados financeiros [resultados antes de juros e impostos (EBIT), amortizações, e mão de obra] relativos aos seis meses, após a ocorrência com a média dos três anos escolhidos entre os cinco anos que precederam a calamidade natural ou ocorrência excecional, excluindo os dois anos com os melhores e os piores resultados financeiros, e calculada para o mesmo período de seis meses do ano.
+3 A perda de rendimento tem como referência a suspensão total ou parcial da atividade por um período não superior a seis meses a contar da ocorrência. Deve ser calculada comparando os dados financeiros [resultados antes de juros e impostos (EBIT), amortizações, e mão de obra] relativos aos seis meses, após a ocorrência com a média dos três anos escolhidos entre os cinco anos que precederam a calamidade natural ou ocorrência excecional, excluindo os dois anos com os melhores e os piores resultados financeiros, e calculada para o mesmo período de seis meses do ano.
+
+118345289

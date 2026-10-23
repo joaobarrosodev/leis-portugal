@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-1980-679266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c18d3157cdb6be2a8adebf675b4100afa700fdb9a51bc0c2579d8f29c6121f0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb65e7779a9d1094d9da332657ccdf411aba157e7462e1d751b17b7fead260d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Curso Superior de Contabilidade e Administração
+- Curso Superior de Engenharia de Electrónica e Telecomunicações
+- Curso Superior de Engenharia de Máquinas
+- Ensino Superior
+- Instituto Militar dos Pupilos do Exército
+- Plano de Estudos
+- Regime de Precedências
 relationships:
 - type: amended_by
   target: pt:dre:533793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ANEXO I PELA PORT 50/88 DE 26-JAN DR.IS [21]\0R.IS [21]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:533793:por
+  label: "Alterados os planos de estudos previstos no anexo I pela PORT.750/99.1999.08.27.MDN,DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/750-1999-533793
+  date: '1999-08-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:37Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +117,7 @@ Normas de organização e funcionamento da secção pedagógica do ensino superi
 
 I - Organização
 
-###### Artigo 1.º O Instituto Militar dos Pupilos do Exército (IMPE) ministrará na sua Secção Pedagógica do Ensino Superior os seguintes cursos:
+Artigo 1.º O Instituto Militar dos Pupilos do Exército (IMPE) ministrará na sua Secção Pedagógica do Ensino Superior os seguintes cursos:
 
 Curso superior de Engenharia de Máquinas;
 
@@ -111,31 +129,31 @@ Curso superior de Contabilidade e Administração.
 
 § único. Poderão ser ministrados outros cursos que pelo CEME venham a ser aprovados.
 
-###### Art. 2.º Os cursos superiores do IMPE reger-se-ão pelas normas e directivas de índole pedagógica do Ministério da Educação com as adaptações ditadas pelas características próprias do Instituto, aprovadas por despacho do Chefe do Estado-Maior do Exército (CEME).
+Art. 2.º Os cursos superiores do IMPE reger-se-ão pelas normas e directivas de índole pedagógica do Ministério da Educação com as adaptações ditadas pelas características próprias do Instituto, aprovadas por despacho do Chefe do Estado-Maior do Exército (CEME).
 
 II - Planos de estudos
 
-###### Art. 3.º Os planos de estudos dos cursos superiores do IMPE têm a composição curricular constante do anexo I a esta portaria.
+Art. 3.º Os planos de estudos dos cursos superiores do IMPE têm a composição curricular constante do anexo I a esta portaria.
 
-###### Art. 4.º Os tempos semanais atribuídos a cada disciplina são os que constam do anexo I a esta portaria.
+Art. 4.º Os tempos semanais atribuídos a cada disciplina são os que constam do anexo I a esta portaria.
 
-###### Art. 5.º O semanário escolar engloba ainda os tempos destinados à Educação Física. Esta disciplina, de frequência e classificação obrigatória, não conta para efeitos de aproveitamento dos cursos ou de transição de ano.
+Art. 5.º O semanário escolar engloba ainda os tempos destinados à Educação Física. Esta disciplina, de frequência e classificação obrigatória, não conta para efeitos de aproveitamento dos cursos ou de transição de ano.
 
-###### Art. 6.º Os programas das disciplinas que integram os planos de estudos dos cursos superiores serão estabelecidos por despacho do CEME, mediante proposta do IMPE.
+Art. 6.º Os programas das disciplinas que integram os planos de estudos dos cursos superiores serão estabelecidos por despacho do CEME, mediante proposta do IMPE.
 
 III - Regime de frequência
 
-###### Art. 7.º - 1 - Os cursos superiores são frequentados em regime de semi-internato e de coeducação, de acordo com a regulamentação própria em vigor e com as normas especiais que se enunciam nos artigos seguintes.
+Art. 7.º - 1 - Os cursos superiores são frequentados em regime de semi-internato e de coeducação, de acordo com a regulamentação própria em vigor e com as normas especiais que se enunciam nos artigos seguintes.
 
 2 - A matrícula nos cursos superiores é feita em regime de disciplina.
 
-###### Art. 8.º O regime de semi-internato vigora nos dias úteis, durante os períodos lectivos de funcionamento do Instituto, quer para as actividades escolares, quer para as actividades circum-escolares.
+Art. 8.º O regime de semi-internato vigora nos dias úteis, durante os períodos lectivos de funcionamento do Instituto, quer para as actividades escolares, quer para as actividades circum-escolares.
 
-###### Art. 9.º O horário normal de semi-internato implica a entrada, no Instituto, até quinze minutos antes da hora de início da primeira aula e permanência no mesmo até ao termo da última aula do horário respectivo.
+Art. 9.º O horário normal de semi-internato implica a entrada, no Instituto, até quinze minutos antes da hora de início da primeira aula e permanência no mesmo até ao termo da última aula do horário respectivo.
 
-###### Art. 10.º Os alunos terão direito às refeições fornecidas pelo Instituto, durante o período diário acima fixado.
+Art. 10.º Os alunos terão direito às refeições fornecidas pelo Instituto, durante o período diário acima fixado.
 
-###### Art. 11.º O semanário escolar tem início às 8 horas de segunda-feira e termina às 12 horas de sábado, observando-se ainda o seguinte:
+Art. 11.º O semanário escolar tem início às 8 horas de segunda-feira e termina às 12 horas de sábado, observando-se ainda o seguinte:
 
 a) A duração normal de cada aula é de cinquenta minutos, podendo as aulas práticas ir até quatro tempos consecutivos;
 
@@ -143,23 +161,23 @@ b) Diariamente, o horário escolar não deverá exceder oito horas, salvo em cir
 
 c) O número de aulas semanais de cada disciplina será, em regra, igual ao número de aulas semanais ministradas em disciplinas idênticas nos estabelecimentos de ensino equivalentes do Ministério da Educação.
 
-###### Art. 12.º - 1 - O ano lectivo dos cursos superiores será dividido em dois semestres, tendo cada semestre a duração aproximada de quinze semanas úteis.
+Art. 12.º - 1 - O ano lectivo dos cursos superiores será dividido em dois semestres, tendo cada semestre a duração aproximada de quinze semanas úteis.
 
 2 - As datas de início e fim de cada semestre e ano lectivo, bem como dos correspondentes períodos de férias escolares, serão estabelecidas em cada ano por despacho do CEME, mediante proposta do IMPE.
 
-###### Art. 13.º - Os alunos matriculados nos cursos superiores em regime de semi-internato pagarão uma mensalidade correspondente a metade da tabela fixada para o regime de internato nos estabelecimentos militares de ensino, de acordo com as normas que regulam este assunto.
+Art. 13.º - Os alunos matriculados nos cursos superiores em regime de semi-internato pagarão uma mensalidade correspondente a metade da tabela fixada para o regime de internato nos estabelecimentos militares de ensino, de acordo com as normas que regulam este assunto.
 
-###### Art. 14.º Estão isentos do pagamento de propinas os alunos matriculados nos cursos superiores do IMPE.
+Art. 14.º Estão isentos do pagamento de propinas os alunos matriculados nos cursos superiores do IMPE.
 
 IV - Avaliação de conhecimentos e aproveitamento
 
-###### Art. 15.º A escala de classificações a utilizar é numérica, de zero a vinte valores inteiros.
+Art. 15.º A escala de classificações a utilizar é numérica, de zero a vinte valores inteiros.
 
-###### Art. 16.º A avaliação de conhecimentos, que em parte dependerá da natureza e características da matéria a leccionar, terá lugar pela conjugação dos resultados alcançados pelos alunos em exercícios escritos ou exposições orais, testes, diálogos, trabalhos de investigação, relatórios e outras formas de avaliação, individuais ou colectivas, que o docente responsável pela regência da disciplina definirá.
+Art. 16.º A avaliação de conhecimentos, que em parte dependerá da natureza e características da matéria a leccionar, terá lugar pela conjugação dos resultados alcançados pelos alunos em exercícios escritos ou exposições orais, testes, diálogos, trabalhos de investigação, relatórios e outras formas de avaliação, individuais ou colectivas, que o docente responsável pela regência da disciplina definirá.
 
-###### Art. 17.º O aproveitamento será apreciado, por disciplina curricular, pelos resultados obtidos nas avaliações dos dois semestres, nas disciplinas anuais, e no fim do semestre, nas semestrais.
+Art. 17.º O aproveitamento será apreciado, por disciplina curricular, pelos resultados obtidos nas avaliações dos dois semestres, nas disciplinas anuais, e no fim do semestre, nas semestrais.
 
-###### Art. 18.º - 1 - O aproveitamento na frequência de cada disciplina obter-se-á do seguinte modo:
+Art. 18.º - 1 - O aproveitamento na frequência de cada disciplina obter-se-á do seguinte modo:
 
 a) Nas disciplinas semestrais:
 
@@ -171,15 +189,15 @@ Serão considerados com aproveitamento, em cada disciplina, os alunos que obtive
 
 2 - Os alunos que satisfaçam as condições expressas no n.º 1 deste artigo serão dispensados de exame final, salvo se, para efeito de melhoria de nota, o requererem no prazo de cinco dias a contar da data da publicação dos resultados das respectivas frequências.
 
-###### Art. 19.º Haverá duas épocas de exames finais, quer para as disciplinas semestrais, quer para as anuais, sendo as suas datas publicadas anualmente, por despacho do CEME, mediante proposta do IMPE.
+Art. 19.º Haverá duas épocas de exames finais, quer para as disciplinas semestrais, quer para as anuais, sendo as suas datas publicadas anualmente, por despacho do CEME, mediante proposta do IMPE.
 
-###### Art. 20.º Ficarão automaticamente reprovados os alunos que obtiverem na frequência a classificação inferior a cinco valores, no semestre, se a disciplina for semestral, ou qualquer dos dois semestres, se a disciplina for anual.
+Art. 20.º Ficarão automaticamente reprovados os alunos que obtiverem na frequência a classificação inferior a cinco valores, no semestre, se a disciplina for semestral, ou qualquer dos dois semestres, se a disciplina for anual.
 
-###### Art. 21.º Não satisfazendo as condições expressas no corpo do artigo 18.º, serão os alunos submetidos a exame final nas disciplinas em que se encontrem matriculados, tendo em atenção o conteúdo do artigo 20.º
+Art. 21.º Não satisfazendo as condições expressas no corpo do artigo 18.º, serão os alunos submetidos a exame final nas disciplinas em que se encontrem matriculados, tendo em atenção o conteúdo do artigo 20.º
 
-###### Art. 22.º Os alunos a admitir a exame final constarão de uma pauta de exame, que será afixada, com uma antecedência nunca inferior a cinco dias, no Instituto.
+Art. 22.º Os alunos a admitir a exame final constarão de uma pauta de exame, que será afixada, com uma antecedência nunca inferior a cinco dias, no Instituto.
 
-###### Art. 23.º - 1 - Terá aproveitamento em cada disciplina o aluno que obtiver classificação de dez valores ou superior no exame final respectivo.
+Art. 23.º - 1 - Terá aproveitamento em cada disciplina o aluno que obtiver classificação de dez valores ou superior no exame final respectivo.
 
 2 - Aos alunos que tenham sido submetidos a exame para melhoria de nota contará a mais elevada das duas notas seguintes:
 
@@ -187,7 +205,7 @@ Frequência semestral.
 
 Exame final.
 
-###### Art. 24.º - 1 - Os exames finais constarão de prova escrita e oral, observando-se ainda mais o seguinte:
+Art. 24.º - 1 - Os exames finais constarão de prova escrita e oral, observando-se ainda mais o seguinte:
 
 a) Nas disciplinas de línguas a prova oral é sempre obrigatória;
 
@@ -201,39 +219,39 @@ d) Considera-se reprovado o aluno que na prova escrita obtenha classificação i
 
 3 - Nos exames de línguas a classificação final será a média aritmética das classificações obtidas nas provas escrita e oral.
 
-###### Art. 25.º - 1 - Os alunos que tenham reprovado em uma ou duas disciplinas de um determinado ano poderão matricular-se em todas as disciplinas do ano seguinte, excepto nas sujeitas a regime de precedência. Nestas circunstâncias, a frequência das disciplinas em atraso será em regime livre, devendo os alunos apresentar-se obrigatoriamente a exame final.
+Art. 25.º - 1 - Os alunos que tenham reprovado em uma ou duas disciplinas de um determinado ano poderão matricular-se em todas as disciplinas do ano seguinte, excepto nas sujeitas a regime de precedência. Nestas circunstâncias, a frequência das disciplinas em atraso será em regime livre, devendo os alunos apresentar-se obrigatoriamente a exame final.
 
 2 - Exceptuam-se do regime previsto no n.º 1 deste artigo as disciplinas de índole oficinal ou laboratorial, as quais terão de ser repetidas em regime de plena frequência.
 
-###### Art. 26.º Os alunos que reprovarem no todo ou em parte do currículo do ano anterior e não possam beneficiar do regime previsto no artigo 25.º matricular-se-ão obrigatoriamente em todas as disciplinas em que tenham reprovado, frequentando-as normalmente, preenchendo o resto do semanário escolar com disciplinas do ano seguinte.
+Art. 26.º Os alunos que reprovarem no todo ou em parte do currículo do ano anterior e não possam beneficiar do regime previsto no artigo 25.º matricular-se-ão obrigatoriamente em todas as disciplinas em que tenham reprovado, frequentando-as normalmente, preenchendo o resto do semanário escolar com disciplinas do ano seguinte.
 
-###### Art. 27.º Para os alunos aprovados em todas as disciplinas será automática a matrícula na totalidade das disciplinas do ano seguinte.
+Art. 27.º Para os alunos aprovados em todas as disciplinas será automática a matrícula na totalidade das disciplinas do ano seguinte.
 
-###### Art. 28.º A média do curso será a média aritmética das classificações obtidas ao longo da sua frequência, ponderadas pela aplicação dos coeficientes ou pesos constantes no anexo I a esta portaria.
+Art. 28.º A média do curso será a média aritmética das classificações obtidas ao longo da sua frequência, ponderadas pela aplicação dos coeficientes ou pesos constantes no anexo I a esta portaria.
 
-###### Art. 29.º O regime de precedência é o que consta da tabela que constitui o anexo II a esta portaria.
+Art. 29.º O regime de precedência é o que consta da tabela que constitui o anexo II a esta portaria.
 
-###### Art. 30.º - 1 - Os alunos poderão matricular-se no IMPE para a frequência do curso superior respectivo durante quatro anos consecutivos.
+Art. 30.º - 1 - Os alunos poderão matricular-se no IMPE para a frequência do curso superior respectivo durante quatro anos consecutivos.
 
 2 - O aluno será excluído do Instituto ao reprovar pela segunda vez na mesma disciplina.
 
 V - Admissão
 
-###### Art. 31.º Para os alunos a admitir directamente para a Secção Pedagógica do Ensino Superior do IMPE são condições gerais de admissão as seguintes:
+Art. 31.º Para os alunos a admitir directamente para a Secção Pedagógica do Ensino Superior do IMPE são condições gerais de admissão as seguintes:
 
 a) Ser português e filho de pais portugueses;
 
 b) Possuir as condições físicas indispensáveis ao regime próprio do Instituto, comprovadas em inspecção médica.
 
-###### Art. 32.º São condições especiais de admissão:
+Art. 32.º São condições especiais de admissão:
 
 a) Ter sido aprovado no Ano Propedêutico - ou no 12.º ano de escolaridade que o substituir - que contenha no seu currículo as disciplinas nucleares da especialidade a que se destina;
 
 b) Ter menos de 21 anos de idade até ao final do ano civil em que tem lugar o concurso.
 
-###### Art. 33.º Com base em informação do IMPE e mediante proposta do director do Departamento de Instrução (DDI), o Chefe do Estado-Maior do Exército (CEME) fixará anualmente, por despacho, o número de vagas a preencher.
+Art. 33.º Com base em informação do IMPE e mediante proposta do director do Departamento de Instrução (DDI), o Chefe do Estado-Maior do Exército (CEME) fixará anualmente, por despacho, o número de vagas a preencher.
 
-###### Art. 34.º - 1 - Para o preenchimento das vagas, os candidatos serão agrupados e admitidos de acordo com os grupos que a seguir se indicam e por essa ordem de prioridade.
+Art. 34.º - 1 - Para o preenchimento das vagas, os candidatos serão agrupados e admitidos de acordo com os grupos que a seguir se indicam e por essa ordem de prioridade.
 
 1.º Grupo A: oriundos do Ano Propedêutico - ou do 12.º ano de escolaridade que o substituir - do IMPE;
 
@@ -247,11 +265,11 @@ b) Ter menos de 21 anos de idade até ao final do ano civil em que tem lugar o c
 
 2 - Dentro de cada grupo, os candidatos serão ordenados em função da sua classificação final no Ano Propedêutico ou no 12.º ano de escolaridade que o substituir.
 
-###### Art. 35.º - 1 - Os candidatos julgados aptos para o ingresso são ordenados, conforme se dispõe no artigo 34.º, e posteriormente elaborada uma relação da qual constarão os candidatos a admitir e a excluir.
+Art. 35.º - 1 - Os candidatos julgados aptos para o ingresso são ordenados, conforme se dispõe no artigo 34.º, e posteriormente elaborada uma relação da qual constarão os candidatos a admitir e a excluir.
 
 2 - As relações, devidamente informadas e aprovadas pelo director do Instituto, serão enviadas ao Estado-Maior do Exército, para homologação do CEME.
 
-###### Art. 36.º Os candidatos à admissão à Secção Pedagógica do Ensino Superior do IMPE devem fazer entrega na Secretaria do IMPE, no prazo a designar, da seguinte documentação:
+Art. 36.º Os candidatos à admissão à Secção Pedagógica do Ensino Superior do IMPE devem fazer entrega na Secretaria do IMPE, no prazo a designar, da seguinte documentação:
 
 a) Requerimento, em papel selado, do pai ou encarregado de educação do candidato, dirigido ao director do IMPE solicitando a matrícula;
 
@@ -263,18 +281,18 @@ d) Declaração de rendimentos do agregado familiar, conforme modelo próprio.
 
 VI - Disposições finais
 
-###### Art. 37.º Os alunos admitidos à frequência da Secção Pedagógica de Ensino Superior do IMPE ficam sujeitos às leis e regulamentos, designadamente o disciplinar, por que se rege este estabelecimento.
+Art. 37.º Os alunos admitidos à frequência da Secção Pedagógica de Ensino Superior do IMPE ficam sujeitos às leis e regulamentos, designadamente o disciplinar, por que se rege este estabelecimento.
 
-###### Art. 38.º Os alunos, durante a permanência no IMPE ou no exterior, nas excursões, visitas de estudo, cerimónias ou outros actos em que representem ou actuem no quadro do Instituto, são obrigados ao uso dos uniformes próprios.
+Art. 38.º Os alunos, durante a permanência no IMPE ou no exterior, nas excursões, visitas de estudo, cerimónias ou outros actos em que representem ou actuem no quadro do Instituto, são obrigados ao uso dos uniformes próprios.
 
-###### Art. 39.º As dúvidas e casos omissos surgidos na execução do presente diploma serão resolvidos por despacho do CEME.
+Art. 39.º As dúvidas e casos omissos surgidos na execução do presente diploma serão resolvidos por despacho do CEME.
 
 Estado-Maior do Exército, 21 de Janeiro de 1980. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.
 
 ## ANEXO I — Composição curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf)
 
 ## ANEXO II — Regime de precedência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf))](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/04400/01850192.pdf)

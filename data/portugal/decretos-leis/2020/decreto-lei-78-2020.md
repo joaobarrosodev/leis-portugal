@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2020/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2020-144010960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07ffeeb511da3d47e5e73cd0b06e621c0ce47d0f7514ee0f5b0ac9aa3c36a297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fee5e99dcc8c559dea0bf3ffe8ac88989083d2f045de202d15ceaf11ac93f098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,57 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultor
+- Agricultura
 - Aproximação das Legislações
-- Crime
 - Atribuição de Verba
-- Direção Geral de Agricultura e Desenvolvimento Rural
 - Batata
 - Catálogo Nacional de Variedades
+- Certificado de Qualidade
 - Certificado Fitossanitário
-- Multa
+- CERTIGES
 - Cnevv
+- Comércio
 - Controlo de Qualidade
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
+- Crime
+- Definição de Competências
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Embalagem
+- Equipamento Agrícola
 - Etiquetagem
 - Floricultura
+- Fruticultura
 - Fruto
-- Infracção Antieconómica
 - Importação
 - Infracção Aduaneira
-- Certificado de Qualidade
-- Embalagem
+- Infracção Antieconómica
+- Madeira.região Autónoma
+- Multa
+- Pesticida
 - Planta Decorativa
+- Plantula
+- Plataforma Eletrónica
+- Produção Vegetal
+- Produto Agrícola
+- Produto Fitofarmacêutico
 - Produto Hortícola
+- Produto Vitivinícola
 - Produtor
 - Proteção Fitossanitária
-- Agricultor
-- Madeira.região Autónoma
 - Receita Pública
-- Plantula
-- Produção Vegetal
 - Regulamento CE
-- Equipamento Agrícola
-- Pesticida
-- Produto Fitofarmacêutico
-- Fruticultura
-- Agricultura
 - Semente
-- Açores
-- Comércio
-- Produto Agrícola
-- Produto Vitivinícola
-- Vinha
-- Plataforma Eletrónica
 - SIGECIPP
-- CERTIGES
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:185971762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 37.º, 38.º e 41.º e revogados os n.ºs 2 e 3 do art. 37.º e o n.º 3 do
+    art. 38.º do Dec Lei 14/2016 de 09-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 9/2021 -
+    Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:31993L0061
   label: null
@@ -237,6 +244,158 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/20
   label: null
   source: http://data.europa.eu/eli/dir/20
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107703391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108125021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108284970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114528124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125468544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807561:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31998L0056
   label: null
@@ -250,15 +409,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 251
-  section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 178
+  section_count: 44
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:18Z'
   warnings: []
   errors: []
 ---
@@ -371,11 +530,15 @@ b) Produção e comercialização de materiais que se encontrem abrangidos por l
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O material de propagação deve cumprir com os requisitos fitossanitários definidos no Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, adiante designado por Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), e legislação de execução complementar.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -407,7 +570,9 @@ c) ...
 
 7 - O material de propagação deve também respeitar os requisitos relativos aos organismos de quarentena, organismos de quarentena de zonas protegidas e RNQP, estabelecidos no Regulamento de Execução (UE) n.º [2019/2072](http://data.europa.eu/eli/reg/2019/2072/oj?locale=pt), da Comissão, de 28 de novembro de 2019, que estabelece condições uniformes para a execução do Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), nomeadamente em eventuais medidas de emergência tomadas ao abrigo do n.º 1 do artigo 30.º do Regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Só podem intervir no processo de produção, importação ou comercialização de materiais de propagação de plantas ornamentais os fornecedores que, de acordo com a atividade a desenvolver, se encontrem registados pela Direção-Geral de Alimentação e Veterinária (DGAV).
 
@@ -425,7 +590,9 @@ c) ...
 
 8 - Os fornecedores que apenas comercializem em mercado local materiais de propagação destinados a consumidores finais não profissionais podem, por despacho do diretor-geral de Alimentação e Veterinária, ser dispensados do cumprimento do estabelecido nos n.os 1 e 3 do artigo 8.º, no n.º 2 do artigo 9.º e no n.º 1 do artigo 13.º, sem prejuízo de os materiais de propagação a comercializar deverem obedecer aos requisitos de qualidade exigidos pelo presente diploma.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -433,7 +600,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -465,7 +634,9 @@ j) ...
 
 5 - No caso de o material de propagação ser acompanhado de passaporte fitossanitário, ao abrigo do Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), este constituirá, se o fornecedor assim o desejar, o documento redigido pelo fornecedor referido no número anterior, sendo neste caso obrigatória a menção das informações constantes das alíneas a), d) e e) do número anterior e, se for o caso, também das alíneas f) e g) ou h), i) e j) do mesmo número, podendo estas informações constar do mesmo documento que inclui o passaporte fitossanitário, mas neste caso claramente separadas.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As infrações ao disposto no n.º 1 do artigo 7.º, no n.º 5 artigo 7.º-A, nos n.os 2 e 3 do artigo 8.º, no n.º 2 do artigo 9.º, no artigo 11.º e no n.º 3 do artigo 12.º constituem contraordenações puníveis com coima cujo montante mínimo é de (euro) 1 000,00 e máximo de (euro) 3 700,00 ou (euro) 44 000,00, consoante o agente seja pessoa singular ou coletiva.
 
@@ -605,7 +776,9 @@ ii) Sob a responsabilidade da Direção-Geral de Alimentação e Veterinária (D
 
 iii) Para atividades auxiliares, igualmente sob controlo da DGAV, por pessoas singulares devidamente autorizadas pela DGAV, com a condição de as pessoas referidas nas alíneas b) e c) não obterem qualquer proveito específico do resultado dessas disposições.
 
-###### Artigo 5.º — Catálogo Nacional de Variedades de Videira e lista de clones admitidos à certificação
+Artigo 5.º
+
+Catálogo Nacional de Variedades de Videira e lista de clones admitidos à certificação
 
 1 - Apenas podem ser admitidas à produção e comercialização:
 
@@ -621,7 +794,9 @@ b) As variedades que estejam inscritas no Catálogo Comum de Variedades de Videi
 
 5 - Os clones admitidos à certificação noutro Estado-Membro são admitidos à certificação em Portugal.
 
-###### Artigo 6.º — Condições para a inscrição de variedades e clones
+Artigo 6.º
+
+Condições para a inscrição de variedades e clones
 
 1 - São inscritas no CNVV as variedades de videira que satisfaçam as seguintes condições:
 
@@ -649,7 +824,9 @@ iii) ...
 
 4 - As condições para a inscrição de clones na lista de clones admitidos oficialmente à certificação em Portugal são definidas por despacho do diretor-geral de Alimentação e Veterinária.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O interessado em apresentar um pedido de inscrição no CNVV de uma nova variedade deve formular um pedido escrito à DGAV conforme formulário disponibilizado no sítio na Internet desta.
 
@@ -671,7 +848,9 @@ c) Quaisquer outros elementos disponíveis e relevantes para a apreciação do p
 
 7 - O requerente do pedido de inscrição deve, no ato da sua apresentação, indicar se foi efetuado idêntico pedido noutro Estado-Membro e, se for o caso, se já foi realizada a respetiva inscrição, disponibilizando a respetiva descrição oficial.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A Comissão Nacional para o Exame de Variedades de Videira (CNEVV) representa os vários setores da fileira vitivinícola nacional, nomeadamente as organizações representativas de viticultores, de vinicultores e de produtores de materiais vitícolas, os serviços do Ministério da Agricultura envolvidos e os organismos competentes das Regiões Autónomas dos Açores e da Madeira.
 
@@ -687,7 +866,9 @@ c) Emitir parecer sobre os pedidos de inscrição a que se refere a alínea ante
 
 4 - (Revogado.)
 
-###### Artigo 11.º — Registo de produtores
+Artigo 11.º
+
+Registo de produtores
 
 1 - Só podem intervir na produção de materiais vitícolas as pessoas singulares ou coletivas, públicas ou privadas, que estejam registadas pela DGAV para o efeito.
 
@@ -717,7 +898,9 @@ e) Manter um registo escrito ou gravado de forma indelével dos dados referentes
 
 9 - As entidades registadas como produtores de materiais vitícolas são, simultaneamente, registadas como fornecedores daqueles materiais.
 
-###### Artigo 12.º — Validade, renovação e cancelamento de registos de produtores
+Artigo 12.º
+
+Validade, renovação e cancelamento de registos de produtores
 
 1 - Os registos de produtores de materiais vitícolas são válidos até 31 de dezembro do ano da sua atribuição sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições previstas no número seguinte.
 
@@ -735,7 +918,9 @@ b) Pagamento das taxas a que se refere o artigo 35.º
 
 6 - Os pedidos de alteração de locais de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, sendo essa decisão notificada ao produtor pela DRAP referida.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Só podem ser produzidos e certificados em Portugal os materiais vitícolas de variedades que obedeçam a uma das seguintes condições:
 
@@ -761,7 +946,9 @@ c) (Revogada.)
 
 9 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - São inscritas pelo produtor de material vitícola através da plataforma CERTIGES todas as parcelas de vinhas-mãe, de viveiros e de culturas em contentores, hidropónicas e outras destinadas à produção de materiais vitícolas para a comercialização, incluindo os materiais objeto de contratos de prestação de serviços a terceiros ou para utilização própria.
 
@@ -795,7 +982,9 @@ a) Para vinhas-mãe, os dois primeiros dígitos são os dois últimos algarismos
 
 b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a inscrição é feita, seguido do número do viveiro, com dois dígitos, e terminando com o número da parcela, com três dígitos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Nas vinhas-mãe, nos viveiros, nas culturas de materiais vitícolas em contentores, como sejam vasos, cartonagem ou outros, e durante a propagação em verde ou por qualquer outra técnica, os respetivos materiais vitícolas devem ser cultivados separadamente de acordo com o lote, a variedade, o clone e a categoria e devem estar identificados de acordo com o disposto no n.º 9 do artigo anterior.
 
@@ -803,7 +992,9 @@ b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a insc
 
 3 - As plantas mãe mantidas em cultura hidropónica ou em contentores devem estar etiquetadas, devendo constar das etiquetas o código de lote e a indicação da variedade e, se for o caso, do respetivo clone.
 
-###### Artigo 19.º — Inspeções oficiais
+Artigo 19.º
+
+Inspeções oficiais
 
 1 - O material de propagação produzido nas vinhas-mãe e viveiros deve estar conforme com os requisitos previstos nos n.os 2 a 4 do anexo ii, com base em inspeções oficiais anuais da cultura.
 
@@ -815,7 +1006,9 @@ b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a insc
 
 5 - Para a realização das inspeções deve ser facultado o livre acesso às instalações tecnológicas e aos registos da atividade, às culturas, seja qual for o processo de produção seguido, bem como aos materiais produzidos, durante a sua colheita, armazenagem, manipulação e confeção, circulação e comercialização, sob pena de cancelamento do licenciamento previsto no n.º 1 do artigo 11.º e no n.º 1 do artigo 28.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Todas as culturas devem obedecer à periodicidade de inspeções estabelecida no anexo ii.
 
@@ -823,7 +1016,9 @@ b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a insc
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - As inspeções às culturas e aos materiais vitícolas devem ser acompanhadas pelo respetivo produtor ou por um seu representante.
 
@@ -837,13 +1032,17 @@ b) Para viveiros, o primeiro dígito é o último algarismo do ano em que a insc
 
 6 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
 2 - O produtor é notificado pelos serviços oficiais para proceder à destruição dos materiais vitícolas, preferencialmente num prazo acordado com o produtor, emitindo-se o respetivo auto de destruição, assinado pelos presentes, de entre os quais devem constar, pelo menos, dois técnicos da DRAP.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os terrenos, as culturas e os materiais vitícolas a certificar são submetidos a análises e testes a realizar por laboratórios oficiais ou laboratórios reconhecidos.
 
@@ -869,7 +1068,9 @@ e) A declaração de garantia de imparcialidade, confidencialidade e de inexist�
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -893,7 +1094,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Para além do definido no presente decreto-lei, os materiais vitícolas e respetivas culturas devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União e estão sujeitos a requisitos especiais fitossanitários definidos no Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e legislação de execução complementar.
 
@@ -901,7 +1104,9 @@ b) ...
 
 3 - O passaporte fitossanitário previsto na legislação referida no n.º 1 integra a etiqueta a que se refere o anexo iv.
 
-###### Artigo 28.º — Registo de fornecedores
+Artigo 28.º
+
+Registo de fornecedores
 
 1 - Só podem comercializar materiais vitícolas produzidos em Portugal, na União Europeia ou importados segundo as normas definidas no presente decreto-lei as pessoas singulares ou coletivas, públicas ou privadas, que estejam registadas pela DGAV para o efeito.
 
@@ -923,7 +1128,9 @@ c) ...
 
 7 - A notificação ao fornecedor da decisão final sobre o seu pedido de registo é realizada através da plataforma CERTIGES.
 
-###### Artigo 29.º — Validade, renovação e cancelamento de registos de fornecedores
+Artigo 29.º
+
+Validade, renovação e cancelamento de registos de fornecedores
 
 1 - Os registos de fornecedor de materiais vitícolas são válidos até 31 de dezembro do ano da sua atribuição, sendo renovados automaticamente, por cada ano civil subsequente, mediante o cumprimento das condições previstas no número seguinte.
 
@@ -941,7 +1148,9 @@ b) Pagamento das taxas a que se refere o artigo 35.º
 
 6 - Os pedidos de alteração de locais de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, que notifica o fornecedor da decisão.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -949,19 +1158,25 @@ b) Pagamento das taxas a que se refere o artigo 35.º
 
 3 - Os materiais vitícolas de uma determinada categoria para os quais tenha sido autorizada a comercialização com exigências reduzidas devem ser portadores de etiqueta que, para além de cumprir o definido na parte A do anexo iv, seja da mesma cor e tenha impressa a menção 'Exigências reduzidas'.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Pelos serviços prestados inerentes à avaliação dos processos e à inscrição de variedades no CNVV e de clones na lista de clones admitidos à certificação em Portugal e pelos serviços prestados no âmbito do licenciamento de produtores e fornecedores, controlo e certificação de materiais vitícolas destinados a comercialização são devidas taxas, nos termos previstos na [Portaria n.º 298/2017](https://diariodarepublica.pt/dr/detalhe/portaria/298-2017-108284970), de 12 de outubro.
 
 2 - (Revogado.)
 
-###### Artigo 36.º — Fiscalização
+Artigo 36.º
+
+Fiscalização
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização do cumprimento do presente decreto-lei compete às DRAP e à ASAE.
 
 2 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -973,7 +1188,9 @@ b) Pagamento das taxas a que se refere o artigo 35.º
 
 5 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos [Decretos-Leis n.os 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -1007,7 +1224,9 @@ c) Qualquer pessoa coletiva, em conformidade com o disposto no n.º 4 do artigo 
 
 5 - A seleção de manutenção é assegurada pela entidade proponente ou por entidade delegada, de acordo com o método proposto para o efeito pelo respetivo requerente do pedido de inscrição, podendo ser controlada pelos serviços oficiais.
 
-###### Artigo 9.º-A — Inscrição no Catálogo Nacional de Variedades de Videira e na lista de clones
+Artigo 9.º-A
+
+Inscrição no Catálogo Nacional de Variedades de Videira e na lista de clones
 
 1 - A inscrição de uma variedade no CNVV é feita por despacho do diretor-geral de Alimentação e Veterinária e publicitada pela DGAV no seu sítio na Internet, com as seguintes informações:
 
@@ -1029,7 +1248,9 @@ f) Sinónimos utilizados.
 
 4 - As inscrições e respetivas alterações ao CNVV são comunicadas pela DGAV aos Estados-Membros e à Comissão Europeia.
 
-###### Artigo 10.º-A — Exclusão de variedades e clones
+Artigo 10.º-A
+
+Exclusão de variedades e clones
 
 1 - Uma variedade é excluída do CNVV quando:
 
@@ -1055,7 +1276,9 @@ e) O titular da inscrição não proceda ao pagamento das taxas a que se refere 
 
 7 - A exclusão de uma variedade ou de um clone do CNVV ou da lista de clones admitidos oficialmente à certificação é feita por despacho do diretor-geral de Alimentação e Veterinária e publicitada pela DGAV no seu sítio na Internet.
 
-###### Artigo 16.º-A — Validade das inscrições de viveiros e de vinhas-mãe e incumprimentos
+Artigo 16.º-A
+
+Validade das inscrições de viveiros e de vinhas-mãe e incumprimentos
 
 1 - A validade da inscrição das parcelas de viveiros para a produção de materiais vitícolas é anual.
 
@@ -1065,13 +1288,17 @@ e) O titular da inscrição não proceda ao pagamento das taxas a que se refere 
 
 4 - As parcelas de vinhas-mãe que deixem de cumprir os requisitos constantes do anexo ii para a sua categoria, mas cumpram os requisitos de categoria inferior, são desclassificadas.
 
-###### Artigo 17.º-A — Condições relativas às culturas
+Artigo 17.º-A
+
+Condições relativas às culturas
 
 1 - As culturas para a produção de materiais vitícolas devem cumprir o disposto na legislação fitossanitária referida no artigo 27.º e as condições estabelecidas no anexo ii.
 
 2 - No que diz respeito à amostragem e testagem, previstas no anexo ii, devem aplicar-se os protocolos da Organização Europeia e Mediterrânica de Proteção das Plantas ou outros protocolos reconhecidos a nível internacional, sendo que, caso esses protocolos não existam, são aplicáveis os protocolos pertinentes estabelecidos pela DGAV, devendo os mesmos ser disponibilizados aos outros Estados-Membros e à Comissão Europeia se solicitados.
 
-###### Artigo 18.º-A — Condições relativas aos materiais
+Artigo 18.º-A
+
+Condições relativas aos materiais
 
 1 - Durante a colheita, acondicionamento, armazenagem, transporte e circulação os materiais vitícolas devem ser mantidos separadamente de acordo com o lote, a variedade, o clone e a categoria e devem estar convenientemente identificados de acordo com o disposto no n.º 9 do artigo 14.º
 
@@ -1079,7 +1306,9 @@ e) O titular da inscrição não proceda ao pagamento das taxas a que se refere 
 
 3 - Os requisitos mais rigorosos definidos para os materiais vitícolas produzidos no território nacional não se aplicam, no caso da enxertia, aos materiais importados nos termos do n.º 1 do artigo 32.º, ou produzidos noutro Estado-Membro.
 
-###### Artigo 42.º-A — Regulamentação
+Artigo 42.º-A
+
+Regulamentação
 
 Por portaria do membro do Governo responsável pela área da agricultura, podem ser fixados procedimentos e requisitos para o tratamento por água quente dos materiais vitícolas, para o reconhecimento oficial de instalações à prova de inseto, para a produção, controlo e certificação de material policlonal e outras matérias que no âmbito do presente decreto-lei careçam de vir a ser regulamentadas.»
 
@@ -1113,7 +1342,9 @@ b) Outras finalidades, a coberto das situações excecionais previstas no regime
 
 4 - O disposto no presente decreto-lei não se aplica, no caso da batata para consumo, à venda direta pelo produtor ao consumidor final, ao comércio a retalho local que abastece diretamente o consumidor final ou à restauração, quando efetuada no próprio concelho ou nos concelhos limítrofes ao local de produção primária.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -1125,7 +1356,9 @@ b) Outras finalidades, a coberto das situações excecionais previstas no regime
 
 5 - As tolerâncias de qualidade referidas no n.º 3 aplicam-se sem prejuízo do cumprimento das medidas previstas no Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e legislação de execução complementar.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -1137,7 +1370,9 @@ c) ...
 
 d) A batata referida na alínea b), após 30 dias de colheita, está apta a ser comercializada com a denominação de batata de conservação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -1165,13 +1400,17 @@ i) [Anterior alínea h).]
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - Só podem intervir no processo de produção de batata-semente as pessoas singulares ou coletivas, públicas ou privadas, que se encontrem registadas pela DGAV.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -1179,7 +1418,9 @@ i) [Anterior alínea h).]
 
 3 - A certificação de uma variedade geneticamente modificada, para além do previsto nos números anteriores, depende do cumprimento do estabelecido no n.º 5 do artigo 26.º e no n.º 3 do anexo v do presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 14.º — Categorias e classes da União admitidas à certificação
+Artigo 14.º
+
+Categorias e classes da União admitidas à certificação
 
 1 - ...
 
@@ -1205,7 +1446,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 15.º — Requisitos para as classes da União de batata-semente da categoria pré-base
+Artigo 15.º
+
+Requisitos para as classes da União de batata-semente da categoria pré-base
 
 1 - As classes da União de batata-semente da categoria pré-base devem satisfazer os seguintes requisitos:
 
@@ -1215,7 +1458,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 16.º — Requisitos para as classes da União de batata-semente da categoria base
+Artigo 16.º
+
+Requisitos para as classes da União de batata-semente da categoria base
 
 1 - As classes da União de batata-semente da categoria base devem satisfazer os seguintes requisitos:
 
@@ -1231,7 +1476,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 17.º — Requisitos para as classes da União de batata-semente da categoria certificada
+Artigo 17.º
+
+Requisitos para as classes da União de batata-semente da categoria certificada
 
 As classes da União de batata-semente da categoria certificada devem satisfazer os seguintes requisitos:
 
@@ -1243,7 +1490,9 @@ i) ...
 
 ii) Cumprir as exigências definidas nos n.os 2 e 3 do anexo iv do presente decreto-lei para esta classe e destinar-se exclusivamente à produção de batata de consumo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Na produção de batata-semente de qualquer das categorias referidas no artigo 14.º pode ser utilizada batata-semente que cumpra as seguintes condições:
 
@@ -1261,7 +1510,9 @@ c) ...
 
 5 - A batata-semente que não contenha na respetiva etiqueta oficial o número da geração de multiplicação considera-se que pertence à última geração permitida na respetiva categoria.
 
-###### Artigo 20.º — Registo de produtores
+Artigo 20.º
+
+Registo de produtores
 
 1 - O pedido de registo como produtor de batata-semente, bem como dos atos subsequentes, incluindo alterações, renovações, encerramento da atividade e outros, é dirigido à DRAP territorialmente competente, a qual, com base na avaliação sobre o cumprimento das exigências estabelecidas no presente decreto-lei, emite uma proposta de decisão final.
 
@@ -1287,7 +1538,9 @@ e) Equipamentos a utilizar para a produção de batata-semente e infraestruturas
 
 7 - No caso de uma entidade a registar pretender produzir batata-semente de acordo com o modo de produção biológico, é necessário que esta tenha realizado a respetiva notificação à Direção-Geral de Agricultura e Desenvolvimento Rural.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -1301,13 +1554,17 @@ e) Equipamentos a utilizar para a produção de batata-semente e infraestruturas
 
 6 - Na colheita, constituição e armazenamento dos lotes referentes aos campos cuja cultura é aprovada, devem ser cumpridas as normas estabelecidas na parte D do anexo iii do presente decreto-lei.
 
-###### Artigo 23.º — Pós-controlo
+Artigo 23.º
+
+Pós-controlo
 
 1 - A classificação definitiva dos materiais provenientes dos campos cuja cultura foi aprovada só é atribuída depois de comprovado o seu estado sanitário, através do controlo efetuado, sob responsabilidade da DGAV, em tubérculos provenientes dos respetivos campos de produção, colhidos oficialmente, para verificação das condições estabelecidas no n.º 2, C), do anexo iv do presente decreto-lei ou outras que se encontrem previstas na legislação fitossanitária a que se refere o artigo 35.º
 
 2 - A DGAV comunica, anualmente e em tempo oportuno, às DRAP territorialmente competentes a relação dos campos e dos lotes em que devem ser colhidas amostras de tubérculos destinados a ser objeto de provas de pós-controlo, assim como as normas a observar na colheita das mesmas.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -1319,7 +1576,9 @@ e) Equipamentos a utilizar para a produção de batata-semente e infraestruturas
 
 5 - Os tubérculos rejeitados durante as operações referidas no n.º 3 não podem ser comercializados como batata-semente.
 
-###### Artigo 27.º — Etiquetas oficiais, fecho e selagem das embalagens
+Artigo 27.º
+
+Etiquetas oficiais, fecho e selagem das embalagens
 
 1 - Todas as embalagens de batata-semente certificada, além de não revelarem sinais de violação, devem ser providas no exterior de uma etiqueta oficial emitida pelo serviço responsável pela certificação e conforme com as disposições do anexo v do presente decreto-lei e de um sistema de fecho que assegure as condições enunciadas no n.º 4 do artigo anterior e que preencha as disposições do número seguinte.
 
@@ -1335,7 +1594,9 @@ b) A incorporação de uma etiqueta oficial e aposição de um selo oficial não
 
 5 - Em casos especiais devidamente justificados, a DGAV pode autorizar várias operações de fecho e selagem das embalagens utilizadas, desde que realizadas oficialmente ou sob controlo oficial, devendo a data da última operação de fecho e o nome do serviço responsável ser indicado nas correspondentes etiquetas oficiais, em conformidade com o disposto no n.º 1.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -1365,7 +1626,9 @@ b) ...
 
 12 - A comercialização de batata-semente de variedades para as quais foi concedida uma autorização de colocação no mercado com base num pedido de inscrição num catálogo nacional de um Estado-Membro, de acordo com os procedimentos previstos na [Decisão n.º 2004/842/CE](http://data.europa.eu/eli/dec/2004/842/oj?locale=pt), da Comissão, de 1 de dezembro de 2004, alterada pela Decisão de Execução da Comissão (UE) [2016/320](http://data.europa.eu/eli/dec/2016/320/oj?locale=pt), da Comissão, de 3 de março, deve cumprir os requisitos estabelecidos nos n.os 2 e 3 do anexo Iv, assim como as menções adicionais na etiqueta oficial previstas no anexo v, do presente decreto-lei.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -1373,7 +1636,9 @@ b) ...
 
 3 - Sempre que os tubérculos tenham sido sujeitos a qualquer tratamento, é obrigatória a indicação, nas embalagens de batata-semente destinada a comercialização, do tratamento efetuado aos tubérculos, através de inscrição na etiqueta oficial referida no n.º 1 do artigo 27.º ou numa etiqueta do produtor e na embalagem ou na etiqueta referida no n.º 3 do mesmo artigo.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -1381,7 +1646,9 @@ b) ...
 
 3 - Nos termos do número anterior, no caso de se tratar de variedade não incluída no catálogo comum de variedades de espécies agrícolas nem no CNV, a etiqueta oficial é a prescrita no anexo v do presente decreto-lei.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Para além do definido no presente decreto-lei, a batata-semente e as respetivas culturas devem apresentar-se isentas de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitas a requisitos especiais, em cumprimento do disposto no Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016.
 
@@ -1389,13 +1656,17 @@ b) ...
 
 3 - Para todas as categorias de batata-semente, o passaporte fitossanitário a emitir, nos termos da legislação referida nos números anteriores, deve estar incluído na etiqueta oficial elaborada nos termos do anexo v do presente decreto-lei.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Pelos serviços prestados relativos à produção, controlo, certificação e comercialização de batata-semente, são devidas as taxas fixadas na [Portaria n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/portaria/17-2018-114528124), de 16 de janeiro, na sua redação atual.
 
 2 - (Revogado.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -1423,7 +1694,9 @@ i) [Anterior alínea h).]
 
 4 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -1521,7 +1794,9 @@ Os artigos 12.º, 13.º, 30.º, 35.º e 44.º do [Decreto-Lei n.º 82/2017](http
 
 11 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -1537,7 +1812,9 @@ Os artigos 12.º, 13.º, 30.º, 35.º e 44.º do [Decreto-Lei n.º 82/2017](http
 
 7 - Os pedidos de alteração de atividade são sujeitos a decisão do diretor-geral de Alimentação e Veterinária, mediante parecer prévio da DRAP territorialmente competente, que notifica o fornecedor dessa decisão.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Para além do definido no presente decreto-lei, os materiais frutícolas, as plantas hortícolas e as respetivas culturas devem apresentar-se isentos de pragas de quarentena da União e de pragas provisoriamente classificadas como pragas de quarentena da União, e estão sujeitos a requisitos especiais fitossanitários definidos no Regulamento (UE) n.º [2016/2031](http://data.europa.eu/eli/reg/2016/2031/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e legislação de execução complementar.
 
@@ -1545,13 +1822,17 @@ Os artigos 12.º, 13.º, 30.º, 35.º e 44.º do [Decreto-Lei n.º 82/2017](http
 
 3 - Para o material de propagação das categorias pré-base, base e certificada, o passaporte fitossanitário a emitir, nos termos da legislação referida nos números anteriores, deve estar incluído, sob uma forma distinta, na etiqueta oficial elaborada nos termos das disposições aplicáveis previstas no presente decreto-lei.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Pelos serviços prestados inerentes à avaliação dos processos e à inscrição de variedades no RNVF, e pelos serviços prestados no âmbito do registo oficial de fornecedores, controlo e certificação de materiais frutícolas e de plantas hortícolas destinados a comercialização, são devidas taxas, nos termos previstos na [Portaria n.º 298/2017](https://diariodarepublica.pt/dr/detalhe/portaria/298-2017-108284970), de 12 de outubro.
 
 2 - (Revogado.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -1585,7 +1866,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 13.º, 14.º, 16.º, 17.º e 18.
 
 4 - Sem prejuízo do disposto nos números anteriores, os operadores que colocam no mercado equipamentos de aplicação de produtos fitofarmacêuticos asseguram que os mesmos se encontram conformes com a legislação em vigor.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Estão isentos de inspeção obrigatória os pulverizadores de dorso de aplicação manual de produtos fitofarmacêuticos.
 
@@ -1593,7 +1876,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 13.º, 14.º, 16.º, 17.º e 18.
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -1603,7 +1888,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 13.º, 14.º, 16.º, 17.º e 18.
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -1619,7 +1906,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 13.º, 14.º, 16.º, 17.º e 18.
 
 7 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os centros IPP emitem certificado eletrónico de cada inspeção efetuada aos equipamentos de aplicação de produtos fitofarmacêuticos, conforme o modelo aprovado pela [Portaria n.º 305/2013](https://diariodarepublica.pt/dr/detalhe/portaria/305-2013-503030), de 18 de outubro, na sua redação atual.
 
@@ -1633,11 +1922,15 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 9.º, 12.º, 13.º, 14.º, 16.º, 17.º e 18.
 
 6 - Sem prejuízo do disposto no n.º 4, em caso de perda ou destruição do selo, a apresentação do certificado de inspeção válido faz prova de inspeção com aprovação do equipamento.
 
-###### Artigo 12.º — Inventariação de equipamentos e reavaliação de procedimentos
+Artigo 12.º
+
+Inventariação de equipamentos e reavaliação de procedimentos
 
 A DGAV, com a colaboração das direções regionais de agricultura e pescas (DRAP), e de outras entidades indicadas pela DGAV para o efeito, promove as ações necessárias à inventariação dos equipamentos de aplicação de produtos fitofarmacêuticos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a inspeção e fiscalização do cumprimento do disposto no presente decreto-lei compete às DRAP.
 
@@ -1655,7 +1948,9 @@ c) 15 % para a DGAV;
 
 d) 60 % para o Estado.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -1675,15 +1970,21 @@ g) A ausência de registo no SIGECIPP ou a sua realização fora de prazo, confo
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Pelos serviços prestados inerentes ao reconhecimento e manutenção dos centros IPP, emissão de certificados e selos de inspeção, são devidas taxas previstas na [Portaria n.º 305/2013](https://diariodarepublica.pt/dr/detalhe/portaria/305-2013-503030), de 18 de outubro, na sua redação atual.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Os custos das inspeções e reinspeções de equipamentos de aplicação de produtos fitofarmacêuticos praticados pelos centros IPP podem ser tabelados e sujeitos aos montantes fixados por portaria dos membros do Governo responsáveis pelas áreas da agricultura e das finanças.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -1721,7 +2022,9 @@ b) Apresentem mais de duas anomalias menores; e/ou
 
 c) Mantenham qualquer anomalia menor detetada na inspeção precedente.
 
-###### Artigo 11.º-A — Gestão da atividade de inspeção de equipamentos
+Artigo 11.º-A
+
+Gestão da atividade de inspeção de equipamentos
 
 1 - É criado o Sistema de Gestão da Inspeção de Equipamentos de Aplicação de Produtos Fitofarmacêuticos (SIGECIPP), que constitui o sistema de registo da atividade de inspeção de equipamentos de aplicação de produtos fitofarmacêuticos.
 
@@ -1731,7 +2034,9 @@ c) Mantenham qualquer anomalia menor detetada na inspeção precedente.
 
 4 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do SIGECIPP é aplicável o disposto na legislação e regulamentação relativa à proteção de dados pessoais, nomeadamente a [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto.
 
-###### Artigo 18.º-A — Regiões Autónomas
+Artigo 18.º-A
+
+Regiões Autónomas
 
 1 - Sem prejuízo das competências atribuídas por lei à DGAV, os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às respetivas administrações regionais com atribuições e competências nas matérias em causa.
 
@@ -1807,15 +2112,15 @@ Os capítulos ii e vii do [Decreto-Lei n.º 194/2006](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Ana Paula Baptista Grade Zacarias - João Rodrigo Reis Carvalho Leão - Inês dos Santos Costa - Nuno Tiago dos Santos Russo.
 
-**Promulgado em 17 de setembro de 2020.**
+Promulgado em 17 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de setembro de 2020.**
+Referendado em 21 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -1823,13 +2128,13 @@ Visto e aprovado em Conselho de Ministros de 13 de agosto de 2020. - António Lu
 
 Pragas regulamentadas não sujeitas a quarentena (RNQP) para as quais se aplicam os limiares indicados para o material de propagação de plantas ornamentais de cada género ou espécie listado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 ## ANEXO II — (a que se refere o artigo 9.º)
 
 ## ANEXO I — Avaliação e manutenção de variedades de videira a inscrever no Catálogo Nacional de Variedades de Videira
 
-# Parte A
+Parte A
 
 Exame de distinção, homogeneidade e estabilidade de variedades de videira
 
@@ -1847,7 +2152,7 @@ b) Variedades de uva tinta: Castelão, Merlot;
 
 c) Variedades de uva de mesa: Cardinal, Perle Don Csaba.
 
-# Parte B
+Parte B
 
 Exames de valor agronómico e de utilização de variedades de videira
 
@@ -1947,7 +2252,7 @@ c) Enraizamento das variedades de porta-enxertos;
 
 d) Outras observações relevantes, se as houver.
 
-# Parte C
+Parte C
 
 Seleção de manutenção de variedades de videira
 
@@ -2005,11 +2310,11 @@ d) Se as plantas estão em pé-franco ou enxertadas, indicando neste caso a vari
 
 5 - Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 6 - Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 7 - Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos do n.º 2.2 do n.º 2:
 
@@ -2125,7 +2430,7 @@ Não se observaram sintomas de qualquer dos vírus (Arabis mosaic virus, Grapevi
 
 ## ANEXO III — Requisitos relativos aos materiais vitícolas
 
-# Parte A
+Parte A
 
 Condições gerais
 
@@ -2141,7 +2446,7 @@ c) Os materiais que não satisfaçam as condições da parte C, relativo aos cal
 
 d) O material vitícola deve estar praticamente isento de quaisquer organismos nocivos que reduzam a utilidade e a qualidade do material de propagação.
 
-# Parte B
+Parte B
 
 Condições particulares
 
@@ -2151,7 +2456,7 @@ Condições particulares
 
 3 - Os bacelos enxertados obtidos pela combinação de porta-enxertos e garfos da mesma categoria são classificados nessa categoria e os produzidos a partir da enxertia de porta-enxertos e garfos de categorias diferentes são classificados na mais baixa das categorias em causa.
 
-# Parte C
+Parte C
 
 Calibres
 
@@ -2191,7 +2496,7 @@ d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do di
 
 ## ANEXO IV — Etiquetagem e documento de acompanhamento
 
-# Parte A
+Parte A
 
 Etiqueta
 
@@ -2273,7 +2578,7 @@ a) Os materiais vitícolas são mantidos em lotes separados, adequadamente ident
 
 b) Os materiais vitícolas em que não seja possível colocar a etiqueta oficial devem ser portadores do documento de acompanhamento, conforme estabelecido na parte B.
 
-# Parte B
+Parte B
 
 Documento de acompanhamento
 
@@ -2317,7 +2622,9 @@ m) Data de fornecimento.
 
 ## ANEXO III — (a que se refere o artigo 13.º)
 
-## ANEXO III — Parte A
+## ANEXO III
+
+## Parte A
 
 [...]
 
@@ -2333,11 +2640,11 @@ m) Data de fornecimento.
 
 6 - O tubérculo-mãe ou a planta inicial e os tubérculos diretamente provenientes da mesma, conforme um esquema de seleção genealógica, que sejam reconhecidos como sãos e típicos da variedade, e que constituíam o material de partida referido nos números anteriores, devem obrigatoriamente ser sujeitos a testes oficiais ou sob supervisão oficial, para poderem ser reconhecidos como sãos e incluídos no esquema de seleção, cumprindo o definido no n.º 1 do anexo iv.
 
-# Parte B
+Parte B
 
 [...]
 
-# Parte C
+Parte C
 
 [...]
 
@@ -2375,7 +2682,7 @@ m) Data de fornecimento.
 
 17 - [...].
 
-# Parte D
+Parte D
 
 [...]
 
@@ -2437,15 +2744,15 @@ A) (Revogada.)
 
 B) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 C) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 D) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 3 - [...]:
 
@@ -2593,45 +2900,45 @@ b) Etiqueta interior. - Na etiqueta a introduzir nas embalagens de batata-sement
 
 ## ANEXO I — [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte C
+Parte C
 
 [...]
 
 ## ANEXO II — [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 ## ANEXO III — [...]
 
-# Parte A
+Parte A
 
 [...]
 
 [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -2653,7 +2960,7 @@ A presença de RNQP nas culturas deve cumprir os seguintes requisitos, indicados
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 5.2 - (Revogado.)
 
@@ -2665,7 +2972,7 @@ QUADRO II
 
 9 - [...]:
 
-# Parte C
+Parte C
 
 [...]
 
@@ -2681,13 +2988,13 @@ A presença de RNQP nas sementes e nas respetivas categorias deve cumprir os seg
 
 QUADRO II-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 2.2 - A presença de corpos de fungos nas sementes e nas respetivas categorias deve cumprir os seguintes requisitos, indicados no quadro:
 
 QUADRO II-B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 3 - [...]:
 
@@ -2697,11 +3004,11 @@ QUADRO II-B
 
 ## ANEXO IV — [...]
 
-# Parte A
+Parte A
 
 [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -2729,7 +3036,7 @@ A presença de RNQP na cultura e respetivas categorias deve cumprir os seguintes
 
 QUADRO II-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 8 - [...]:
 
@@ -2737,19 +3044,19 @@ QUADRO II-A
 
 10 - [...]:
 
-# Parte C
+Parte C
 
 [...]
 
 [...].
 
-# Parte D
+Parte D
 
 [...]
 
 [...].
 
-# Parte E
+Parte E
 
 [...]
 
@@ -2757,7 +3064,7 @@ QUADRO II-A
 
 ## ANEXO VI — [...]
 
-# Parte A
+Parte A
 
 [...]
 
@@ -2765,13 +3072,13 @@ QUADRO II-A
 
 1.1 - [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 1.2 - [...]:
 
 2 - [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -2797,7 +3104,7 @@ QUADRO I
 
 7 - [...]:
 
-# Parte C
+Parte C
 
 1 - [...].
 
@@ -2809,7 +3116,7 @@ As sementes devem também cumprir os requisitos relativos às pragas de quarente
 
 QUADRO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 4 - [...].
 
@@ -2821,7 +3128,7 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 7 - [...]:
 
@@ -2829,11 +3136,11 @@ QUADRO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 7.1 - [...].
 
-# Parte D
+Parte D
 
 [...]
 
@@ -2843,13 +3150,13 @@ QUADRO II
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
 [...]
 
-# Parte B
+Parte B
 
 [...]
 
@@ -2869,13 +3176,13 @@ A presença de RNQP nas culturas deve cumprir os seguintes requisitos, indicados
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 7 - [...]:
 
 8 - [...].
 
-# Parte C
+Parte C
 
 [...]
 
@@ -2895,7 +3202,7 @@ A presença de RNQP nas sementes e nas respetivas categorias deve cumprir os seg
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 6 - [...]:
 
@@ -2905,13 +3212,13 @@ QUADRO III
 
 ## ANEXO I — [...]
 
-# Parte A
+Parte A
 
 [...]
 
 [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -2961,7 +3268,7 @@ As amostras devem ser analisadas em laboratório oficial ou reconhecido, nos ter
 
 12 - [...].
 
-# Parte C
+Parte C
 
 [...]
 
@@ -2997,7 +3304,7 @@ As amostras devem ser analisadas em laboratório oficial ou reconhecido, nos ter
 
 5 - [...].
 
-# Parte D
+Parte D
 
 [...]
 
@@ -3033,7 +3340,7 @@ A amostragem e a análise são dispensáveis no caso de plantas de fruteiras cer
 
 3.3 - [...].
 
-# Parte E
+Parte E
 
 [...]
 
@@ -3065,29 +3372,29 @@ O fornecedor deve implementar as medidas necessárias para assegurar a conformid
 
 Para além dos requisitos fitossanitários e dos requisitos relativos ao solo previstos nos n.os 7, 8 e 9 da parte B, nos n.os 2 e 3 da parte C, nos n.os 2 e 3 da parte D e no n.º 4 da parte E, o material de propagação e as fruteiras devem ser produzidos em conformidade com os requisitos aplicáveis à parcela, local ou área de produção estabelecidos na parte I, por forma a limitar a presença das RNQP enumeradas nesse anexo para o género ou espécie em causa.
 
-# Parte F
+Parte F
 
 Lista de RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias para determinar a respetiva presença, em conformidade com o disposto nos n.os 7.1 e 8.1 da parte B, no n.º 2.1 da parte C, no n.º 2.1 da parte D e no n.º 4.1 da parte E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 QUADRO II
 
 (Revogado.)
 
-# Parte G
+Parte G
 
 Lista das RNQP para as quais a inspeção visual e, se for o caso, a amostragem e a análise são necessárias para determinar a respetiva presença, nos termos do disposto nos n.os 7.2, 7.4 e 8.1 da parte B, no n.º 2.1 da parte C, no n.º 2.1 da parte D e no n.º 4.1 da parte I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte H
+Parte H
 
 Lista das RNQP cuja presença no solo se rege pelo disposto nos n.os 9.1 e 9.2 da parte B, nos n.os 3.1 e 3.2 da parte C e nos n.os 3.1 e 3.2 da parte D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte I
+Parte I
 
 Requisitos relativos às inspeções visuais, às amostragens e análises, por género ou espécie e por categoria, em conformidade com o disposto no n.º 8.4 da parte B, no n.º 2.4 da parte C, no n.º 2.4 da parte D e no n.º 4.2 da parte E
 
@@ -3937,13 +4244,13 @@ A percentagem de material de propagação e fruteiras da categoria certificada n
 
 16 - Outros requisitos específicos podem ser estabelecidos de acordo com procedimentos definidos e divulgados pela DGAV.
 
-# Parte J
+Parte J
 
 [...]
 
 ## ANEXO II — [...]
 
-# Parte A
+Parte A
 
 [...]
 
@@ -3955,21 +4262,21 @@ QUADRO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
-# Parte B
-
-[...]
-
-[...].
-
-# Parte C
+Parte B
 
 [...]
 
 [...].
 
-# Parte D
+Parte C
+
+[...]
+
+[...].
+
+Parte D
 
 [...]
 
@@ -3979,7 +4286,7 @@ QUADRO I
 
 [...].
 
-# Parte A
+Parte A
 
 [...]
 
@@ -4041,7 +4348,7 @@ p) [...];
 
 q) [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -4497,7 +4804,7 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 Pragas regulamentadas não sujeitas a quarentena (RNQP) para as quais se aplicam os limiares indicados para o material de propagação de plantas ornamentais de cada género ou espécie listado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 ## ANEXO VIII — (a que se refere o n.º 2 do artigo 29.º)
 
@@ -5385,7 +5692,7 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Avaliação e manutenção de variedades de videira a inscrever no Catálogo Nacional de Variedades de Videira
 
-# Parte A
+Parte A
 
 Exame de distinção, homogeneidade e estabilidade de variedades de videira
 
@@ -5403,7 +5710,7 @@ b) Variedades de uva tinta: Castelão, Merlot;
 
 c) Variedades de uva de mesa: Cardinal, Perle Don Csaba.
 
-# Parte B
+Parte B
 
 Exames de valor agronómico e de utilização de variedades de videira
 
@@ -5503,7 +5810,7 @@ c) Enraizamento das variedades de porta-enxertos;
 
 d) Outras observações relevantes, se as houver.
 
-# Parte C
+Parte C
 
 Seleção de manutenção de variedades de videira
 
@@ -5561,11 +5868,11 @@ d) Se as plantas estão em pé-franco ou enxertadas, indicando neste caso a vari
 
 5 - Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 6 - Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a testagem são necessárias para determinar a respetiva presença, nos termos do n.º 2.2 do n.º 2 e do n.º 7:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 7 - Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos do n.º 2.2 do n.º 2:
 
@@ -5681,7 +5988,7 @@ Não se observaram sintomas de qualquer dos vírus (Arabis mosaic virus, Grapevi
 
 ## ANEXO III — Requisitos relativos aos materiais vitícolas
 
-# Parte A
+Parte A
 
 Condições gerais
 
@@ -5697,7 +6004,7 @@ c) Os materiais que não satisfaçam as condições da parte C, relativo aos cal
 
 d) O material vitícola deve estar praticamente isento de quaisquer organismos nocivos que reduzam a utilidade e a qualidade do material de propagação.
 
-# Parte B
+Parte B
 
 Condições particulares
 
@@ -5707,7 +6014,7 @@ Condições particulares
 
 3 - Os bacelos enxertados obtidos pela combinação de porta-enxertos e garfos da mesma categoria são classificados nessa categoria e os produzidos a partir da enxertia de porta-enxertos e garfos de categorias diferentes são classificados na mais baixa das categorias em causa.
 
-# Parte C
+Parte C
 
 Calibres
 
@@ -5747,7 +6054,7 @@ d) Talão - o corte deve ter sido feito a uma distância suficiente abaixo do di
 
 ## ANEXO IV — Etiquetagem e documento de acompanhamento
 
-# Parte A
+Parte A
 
 Etiqueta
 
@@ -5829,7 +6136,7 @@ a) Os materiais vitícolas são mantidos em lotes separados, adequadamente ident
 
 b) Os materiais vitícolas em que não seja possível colocar a etiqueta oficial devem ser portadores do documento de acompanhamento, conforme estabelecido na parte B.
 
-# Parte B
+Parte B
 
 Documento de acompanhamento
 
@@ -5877,7 +6184,7 @@ m) Data de fornecimento.
 
 QUADRO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 2 - Condições especiais:
 
@@ -6797,7 +7104,9 @@ c) O [Despacho Normativo n.º 2/2002](https://diariodarepublica.pt/dr/detalhe/de
 
 ## ANEXO II — (Revogado.)
 
-## ANEXO III — Parte A
+## ANEXO III
+
+## Parte A
 
 Condições relativas à seleção de batata-semente
 
@@ -6813,7 +7122,7 @@ Condições relativas à seleção de batata-semente
 
 6 - O tubérculo-mãe ou a planta inicial e os tubérculos diretamente provenientes da mesma, conforme um esquema de seleção genealógica, que sejam reconhecidos como sãos e típicos da variedade, e que constituíam o material de partida referido nos números anteriores, devem obrigatoriamente ser sujeitos a testes oficiais ou sob supervisão oficial, para poderem ser reconhecidos como sãos e incluídos no esquema de seleção, cumprindo o definido no n.º 1 do anexo iv.
 
-# Parte B
+Parte B
 
 Inscrição e plantação de campos
 
@@ -6843,7 +7152,7 @@ b) Em campos propostos às categorias base e certificada a distância mínima é
 
 11 - Os campos inscritos só podem ser plantados com tubérculos inteiros.
 
-# Parte C
+Parte C
 
 Inspeções de campos
 
@@ -6881,7 +7190,7 @@ Inspeções de campos
 
 17 - As culturas que foram sujeitas a destruição da rama mas em que a mesma não tenha sido totalmente destruída são reprovadas se nos 10 dias seguintes não tiverem sido tomadas medidas para a sua destruição total.
 
-# Parte D
+Parte D
 
 Colheita, constituição e armazenamento dos lotes
 
@@ -6943,15 +7252,15 @@ A) (Revogada.)
 
 B) Tolerâncias relativas a pureza varietal e ocorrência de pés doentes, admitidas quando das inspeções de campo (percentagem de plantas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 C) Tolerâncias relativas ao estado sanitário dos tubérculos admitidas quando do pós-controlo ou descendência direta (percentagem de tubérculos infetados por vírus ou de plantas com sintomas de viroses graves ou ligeiras):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 D) Tolerâncias relativas à pureza varietal e ocorrência de pés doentes, admitidas no controlo a posteriori ou descendência direta (percentagem de plantas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19000/0000300191.pdf)
 
 3 - Condições relativas à qualidade dos lotes de batata-semente:
 
@@ -7118,3 +7427,5 @@ Categoria e classe da União;
 Número de referência do lote ou número do produtor;
 
 Ano de produção.
+
+113581873

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/27100/39043904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/254-1982-380126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dc22661111b39fc7d7e76fc5e71a99d5929bc77cd06bdb0f7b786167ed9d7e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bf9e8fc6a4a644c503e6fc65f5a86840627bfee34233dc266366f1e3e624c36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Espetáculos e Divertimentos Públicos
+- GNR
+- Prestação de Serviços
+- PSP
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:105276963:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:105276963:por
+  label: Revogado, a partir de 01.01.2017, o DN 218/82 de 12-out, na redação do presente diploma, pelo(a) Portaria n.º 298/2016
+    - Diário da República n.º 229/2016, Série I de 2016-11-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2016-105276963
+  date: '2016-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:15Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/1997/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1997-661563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa284fca926239f30575a75a87e88565c90d55d9abc09e1e922b75f734859aa7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07796ae3e90f37223d4e0d143dc6c8dd518ef688dc8f705dc5fd36cfd942151b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Departamento de Relações Internacionais de Segurança Social
-- Conselho Consultivo para a Coordenação Internacional de Segurança Social
 - Ação Social
-- Orgânica
+- Conselho Consultivo para a Coordenação Internacional de Segurança Social
+- Departamento de Relações Internacionais de Segurança Social
 - Inserção Social
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regimes de Segurança Social
 relationships:
@@ -95,16 +95,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
+- type: cites
+  target: pt:dre:241642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626591:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:437845:por
+  label: "Rectifcado pela DECL-RECT.17-C/97.1997.10.30.PCM DR.IS-A [253]3ºSupl de 1997.10.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-c-1997-437845
+  date: '1997-10-30'
+- type: repealed_by
+  target: pt:dre:638546:por
+  label: "Revogado, a partir de 01.06.2007 e nos termos do art. 5º do Dec Lei 201/2006, de 27 de Outubro, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
 article_structure:
-  article_count: 20
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:30Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +184,9 @@ c) O conselho consultivo para a coordenação internacional de segurança social
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +208,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +228,9 @@ d)...
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -211,7 +248,9 @@ f) ...
 
 g) Gabinete de Assuntos Sociais Comunitários e Internacionais.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +304,9 @@ a) ...
 
 b) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -317,7 +358,9 @@ b) ...
 
 c) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -329,9 +372,13 @@ c) ...
 
 5 - A competência a que se refere a alínea n) do n.º 1 do artigo anterior é exercida pelo Gabinete de Informação Técnica, que é coordenado por um técnico superior.
 
-#### SECÇÃO IV — Direcção de Serviços Financeiros e de Administração Geral
+SECÇÃO IV
 
-###### Artigo 12.º — [...]
+Direcção de Serviços Financeiros e de Administração Geral
+
+Artigo 12.º
+
+[...]
 
 1 - A Direcção de Serviços Financeiros e de Administração Geral compreende os seguintes serviços:
 
@@ -357,7 +404,9 @@ b) Secção de Aprovisionamento e Serviços Gerais;
 
 c) Secção de Administração de Pessoal.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Compete à Direcção de Serviços Financeiros e de Administração Geral:
 
@@ -433,7 +482,9 @@ e) ...
 
 f) Acompanhar os processos de traduções efectuadas pelo DRISS e por outras instituições portuguesas, em substituição ou por conta das instituições estrangeiras ou internacionais competentes.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - À Divisão de Contabilidade Geral compete assegurar o exercício das competências previstas nas alíneas a) a h) do n.º 1 do artigo anterior.
 
@@ -445,7 +496,9 @@ f) Acompanhar os processos de traduções efectuadas pelo DRISS e por outras ins
 
 5 - Ao Gabinete de Apoio Técnico compete assegurar o exercício das actividades previstas no n.º 3 do artigo anterior, cabendo a respectiva coordenação a um técnico superior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 ...
 
@@ -467,7 +520,9 @@ h) Manter actualizados os ficheiros de legislação e jurisprudência internas c
 
 i) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Compete ao Gabinete de Documentação, Informação e Relações Públicas:
 
@@ -495,7 +550,9 @@ l) Assegurar a recepção ao público e prestar-lhe a informação geral sobre a
 
 2 - O Gabinete de Documentação, Informação e Relações Públicas é coordenado por um técnico superior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 ...
 
@@ -511,13 +568,17 @@ e) ...
 
 f) Os encargos com despesas de deslocação e estada dos membros do conselho consultivo para a coordenação internacional de segurança social, a que se refere a alínea c) do n.º 1 do artigo 6.º-A, em termos a fixar por portaria dos Ministros das Finanças e da Solidariedade e Segurança Social.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A movimentação dos valores depositados à ordem do DRISS é feita mediante cheques assinados pelo director ou director-adjunto, por um lado, e, por outro, pelo director de Serviços Financeiros e de Administração Geral ou chefes das Divisões de Contabilidade Geral e de Contabilidade Auxiliar.
 
 2 - O director e o director-adjunto podem delegar o poder da assinatura de cheques no director de Serviços Financeiros e de Administração Geral, sem prejuízo da exigência de duas assinaturas, em conformidade com o critério definido no número anterior.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Até à nomeação do director de Serviços Financeiros e de Administração Geral e dos chefes das Divisões de Contabilidade Geral e de Contabilidade Auxiliar, a movimentação de valores a que se refere o artigo 23.º é feita pela assinatura conjunta, por um lado, do director ou do director-adjunto do DRISS e, por outro, de uma das unidades de pessoal da carreira de tesoureiro.
 
@@ -533,7 +594,9 @@ Atribuições complementares
 
 Sem prejuízo das competências cometidas a outros serviços e instituições, cabe ainda ao DRISS proceder ao estudo, negociação técnica e coordenação da aplicação dos instrumentos e normas internacionais no domínio da acção e inserção social.
 
-###### Artigo 6.º-A. — Composição e funcionamento do conselho consultivo para a coordenação internacional de segurança social
+Artigo 6.º-A.
+
+Composição e funcionamento do conselho consultivo para a coordenação internacional de segurança social
 
 1 - O conselho consultivo para a coordenação internacional de segurança social, neste artigo designado por conselho, tem a seguinte composição:
 
@@ -553,7 +616,9 @@ d) Um representante da Direcção-Geral dos Assuntos Consulares e Comunidades Po
 
 5 - De cada reunião será lavrada acta, assinada pelos vogais nela presentes.
 
-###### Artigo 6.º-B — Competências do conselho consultivo para a coordenação internacional de segurança social
+Artigo 6.º-B
+
+Competências do conselho consultivo para a coordenação internacional de segurança social
 
 Compete ao conselho consultivo para a coordenação internacional de segurança social:
 
@@ -567,9 +632,13 @@ d) Propor medidas com vista à divulgação de informação no domínio da segur
 
 e) Analisar qualquer outro assunto relativo à coordenação internacional em matéria de segurança social que lhe seja submetida pelo director.
 
-#### SECÇÃO VIII — Gabinete de Assuntos Sociais Comunitários e Internacionais
+SECÇÃO VIII
 
-###### Artigo 17.º-A — Competências
+Gabinete de Assuntos Sociais Comunitários e Internacionais
+
+Artigo 17.º-A
+
+Competências
 
 1 - Compete ao Gabinete de Assuntos Sociais Comunitários e Internacionais, na área da acção e inserção social:
 
@@ -605,14 +674,14 @@ O mapa anexo ao [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalh
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Eduardo Luís Barreto Ferro Rodrigues - António José Martins Seguro.
 
-**Promulgado em 15 de Setembro de 1997.**
+Promulgado em 15 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 1997.**
+Referendado em 18 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf)

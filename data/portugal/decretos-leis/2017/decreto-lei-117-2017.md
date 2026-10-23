@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17600/0536705372.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2017/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2017-108132048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442e15bf5ce6a2cb455dfdd198d8e931a7659d22ade9abbab48ec1a39f391bf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42449c555cbb42f5a0c896b6b7fc434ca74f4a46753085cafde6999d954f816c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Transporte Terrestre
 - Contra-ordenação
 - Contrato de Concessão
 - Contravenção
-- Transporte Ferroviário
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes
+- Multa
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Fluvial
 - Transporte Público
+- Transporte Terrestre
 - Transporte Urbano
 relationships:
 - type: cites
@@ -103,15 +103,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:23Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +168,9 @@ b) Entra no cais de embarque para os barcos ou no cais de acesso das estações 
 
 6 - Nos casos previstos na alínea a) do n.º 2, a fiscalização dos títulos de transporte pode ser efetuada após o desembarque dos passageiros dos veículos de transporte coletivo de passageiros.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +180,9 @@ b) Entra no cais de embarque para os barcos ou no cais de acesso das estações 
 
 4 - A entidade ou empresa prestadora de serviço de transporte deve manter um registo atualizado dos seus agentes de fiscalização, devendo comunicar ao IMT, I. P., ou às autoridades de transporte competentes, nas respetivas áreas de jurisdição, a sua identificação, sempre que tal seja solicitado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os agentes de fiscalização podem, no exercício das suas funções, exigir ao agente de uma contraordenação a respetiva identificação civil e fiscal.
 
@@ -186,7 +190,9 @@ b) Entra no cais de embarque para os barcos ou no cais de acesso das estações 
 
 3 - Quando não se mostre possível a identificação civil e fiscal do agente de uma contraordenação, os agentes de fiscalização podem requerer a intervenção de um agente de autoridade policial, para proceder à identificação prevista no número anterior, nomeadamente através de uma testemunha identificada nos mesmos termos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - É considerada contraordenação grave:
 
@@ -232,7 +238,9 @@ b) 40 %, em caso de reincidência.
 
 8 - O pagamento do valor da coima isenta a necessidade de pagamento do valor do bilhete em dívida.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Quando o agente de fiscalização, no exercício das suas funções, detetar a prática ou a ocorrência de contraordenações previstas na presente lei, lavra auto de notícia, com o conteúdo constante de modelo a aprovar por portaria do membro do Governo responsável pela área dos transportes.
 
@@ -248,11 +256,15 @@ b) 40 %, em caso de reincidência.
 
 7 - A recusa de receção da notificação prevista no número anterior não prejudica a tramitação posterior do processo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O serviço de finanças da área do domicílio fiscal do arguido é competente para a instauração e instrução dos processos de contraordenação a que se refere a presente lei, bem como para aplicação das respetivas coimas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Caso a coima seja paga diretamente à empresa exploradora do serviço de transporte em questão, ao abrigo do pagamento voluntário previsto no artigo 9.º-A, o produto da coima é distribuído da seguinte forma:
 
@@ -302,7 +314,9 @@ c) Apresentar, no prazo de 15 dias úteis, defesa escrita junto da entidade ou e
 
 5 - O não pagamento voluntário no prazo previsto, ou o indeferimento da defesa apresentada, determinam o envio eletrónico, através do IMT, I. P., do auto de notícia e da defesa, caso exista, à entidade competente para instaurar o processo de contraordenação.
 
-###### Artigo 10.º-A — Prescrição do procedimento e limitações à cobrança
+Artigo 10.º-A
+
+Prescrição do procedimento e limitações à cobrança
 
 1 - O procedimento por contraordenação extingue-se, por efeito de prescrição, logo que sobre a prática da contraordenação tenham decorrido três anos.
 
@@ -332,15 +346,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de julho de 2017. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 2 de agosto de 2017.**
+Promulgado em 2 de agosto de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de agosto de 2017.**
+Referendado em 7 de agosto de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1974, 2º Suplemento, Série I de 1974-12-30
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1646-(22) a 1646-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30202/00220022.pdf
 entry_into_force_dates: []
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/845-1974-256802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bae1ec2849c0e65b7f013ca1180517d572790c1f9b6ecb27dd60fe20a30773df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8566bec04a82c621f1ef7c766e61884d61ab14d42d88ce2a267ad9ed4803806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amortização
+- Certificado de Aforro
+- Reembolso
+- Regulamentação de Atos Legislativos
+- Renda Vitalícia
 relationships:
 - type: amended_by
   target: pt:dre:139448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139448:por
+  label: Substituida a tabela anexa pelo(a) Portaria n.º 169/77 - Diário da República n.º 72/1977, Série I de 1977-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1977-139448
+  date: '1977-03-26'
+- type: cites
+  target: pt:dre:233142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:20Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +122,6 @@ Ministério das Finanças, 27 de Dezembro de 1974. - O Ministro das Finanças, J
 
 Tabela de amortização dos certificados de aforro, em vigor a partir de 1 de Janeiro de 1975, aplicável em caso de reembolso ou de conversão em renda vitalícia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30202/00220022.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30202/00220022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30202/00220022.pdf)
 
-**O Ministro das Finanças, José da Silva Lopes.**
+O Ministro das Finanças, José da Silva Lopes.

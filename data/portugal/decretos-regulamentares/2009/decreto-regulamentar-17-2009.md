@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/2009/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-2009-489524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2ba11e25aa19e0645d8574acf2cead3def7b3ba3a494fc1f1bb7ccd8b84a346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 472f6dcb4ae715d42810976d47c48dde86a17da79c8da08c649142a46792f80e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Educação
 - Gabinete de Avaliação Educacional
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:498755:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498755:por
+  label: "Determinada a sucessão pelo Instituto de Avaliação Educativa, I.P. (IAVE, I.P.) nas atribuições do Gabinete de Avaliação\
+    \ Educacional (GAVE), cuja orgânica consta do DR 30/2007 de 29-mar, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.102/2013.25.07.2013.MECI, DR.IS [142] de 25.07.201, que o revogou, a partir de 30.07.2013, nos termos do\
+    \ disposto no nº 1 do art. 33º daquele diploma.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2013-498755
+  date: '2013-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/2009/09/02/p/dre
   label: null
@@ -88,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/30/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/30/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:489527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:22Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +148,9 @@ Os artigos 3.º e 4.º do [Decreto Regulamentar n.º 30/2007](https://diariodare
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -140,16 +162,16 @@ O mapa a que se refere o artigo 9.º do [Decreto Regulamentar n.º 30/2007](http
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 21 de Agosto de 2009.**
+Promulgado em 21 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Agosto de 2009.**
+Referendado em 24 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 9.º do [Decreto Regulamentar n.º 30/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-2007-520441), de 29 de Março)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17000/0585305853.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17000/0585305853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/09/17000/0585305853.pdf)

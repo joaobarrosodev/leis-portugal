@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/045a00/19481955.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2005/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2005-589697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 877a374081d96959f03accde91f181a372dbea19553f7db2c29cd2459ec971aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 228404457272e2ad1f85e298881240560a9ae1ef8d94a64d7405aea22b557dbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Auditoria Ambiental
-- Pessoal Dirigente
+- Auditoria Jurídica
 - Comissão de Planeamento de Emergência das Comunicações
 - Comissão de Planeamento de Emergência do Transporte Aéreo
 - Comissão de Planeamento de Emergência dos Transportes Terrestres
-- Gestão Financeira
 - Conselho Nacional dos Portos e dos Transportes Marítimos
-- Instituto Portuário e dos Transportes Marítimos
 - Conselho Superior de Obras Públicas e Transportes
 - Criação de Serviços
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Direcção Geral dos Transportes Terrestres
-- Extinção de Serviços
-- Secretaria Geral
-- Ministério das Obras Públicas Transportes e Comunicações
-- Gabinete para os Assuntos Europeus e Relações Externas
-- Gestão do Património
-- Instituto das Comunicações de Portugal
-- Inspecção Geral das Obras Públicas
 - Direcção Geral dos Transportes Terrestres e Fluviais
-- Imoppi
-- Instituto Nacional do Transporte Ferroviário
-- Laboratório Nacional de Engenharia Civil
+- Extinção de Serviços
 - Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
 - Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- Gabinete para os Assuntos Europeus e Relações Externas
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Imoppi
+- Inspecção Geral das Obras Públicas
+- Instituto das Comunicações de Portugal
+- Instituto Nacional de Aviação Civil
+- Instituto Nacional do Transporte Ferroviário
+- Instituto Portuário e dos Transportes Marítimos
+- Laboratório Nacional de Engenharia Civil
+- Ministério das Obras Públicas Transportes e Comunicações
 - OBRA Social
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -118,16 +118,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/318/1999/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/318/1999/08/11/p/dre
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545646:por
+  label: "Revogado pelo DEC LEI.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
 article_structure:
   article_count: 44
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:56Z'
   warnings: []
   errors: []
 ---
@@ -512,15 +533,15 @@ O regime previsto no artigo 30.º do presente diploma entra em vigor simultaneam
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Maria da Graça Martins da Silva Carvalho - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 4 de Fevereiro de 2005.**
+Promulgado em 4 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Fevereiro de 2005.**
+Referendado em 14 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — (mapa a que se refere o artigo 31.º)
 

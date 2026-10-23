@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20500/0000300024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/2019/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2019-125633665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71d65f7c4227293fc909801ce92b82ed719578cbfd95f430ed8fe9653c8c4d71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21542001398d38a2f7fff0b8b824ab9bf4fdc8342f774380385a9f55e5992ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,42 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- PSP
 - Alvará
 - Armas e Munições
-- Embarcação
-- Bandeira
-- Ficheiro Informático
-- Cartão de Identificação
-- Transporte Marítimo
-- Multa
-- Contra-ordenação
-- Portugal
-- Definição de Competências
-- Regulamentação de Atos Legislativos
 - Autoridade Marítima Nacional
+- Bandeira
+- Base de Dados
+- Cartão de Identificação
+- Contra-ordenação
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Direção Nacional
 - Director de Segurança
-- Serviços de Segurança
-- Mar Territorial
+- Embarcação
 - Empresa de Segurança
+- Empresa Estrangeira
+- Fardamento
+- Ficheiro Informático
 - Fiscalização
-- Seguro
-- Base de Dados
-- Simbolo de Identificação
-- Licenciamento
 - GNR
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Licenciamento
+- Mar Territorial
+- Multa
 - Normas de Segurança
-- Pirataria
 - Pessoal de Vigilância
+- Pirataria
+- Portugal
+- PSP
+- Regulamentação de Atos Legislativos
 - Responsabilidade Criminal
 - Segurança Marítima
 - Segurança Privada
-- Empresa Estrangeira
-- Fardamento
-- Uso e porte de arma
+- Seguro
+- Serviços de Segurança
+- Simbolo de Identificação
 - Sistema Nacional de Embarcações e Marítimos
+- Transporte Marítimo
+- Uso e porte de arma
 relationships:
 - type: cites
   target: celex:32004R0725
@@ -136,16 +136,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/60-b/1997/10/14/p/dre
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:34Z'
   warnings: []
   errors: []
 ---
@@ -1010,12 +1038,14 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de agosto de 2019. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - Mário José Gomes de Freitas Centeno - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Ana Paula Mendes Vitorino.
 
-**Promulgado em 17 de outubro de 2019.**
+Promulgado em 17 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de outubro de 2019.**
+Referendado em 22 de outubro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112692485

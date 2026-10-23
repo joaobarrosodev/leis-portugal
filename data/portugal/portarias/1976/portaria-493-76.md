@@ -46,40 +46,167 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/493-1976-429984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ea036bfd84384ebee78f1f3a603604540ede703ae6ad57ac0af5ffe00f0835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bc4f31d68d10cd04b205b3759db89044c90b098639751aa8dab9e8d7cbe93b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:899376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251260:por
+  label: Derrogado o presente diploma, na parte referente à expropriação do prédio rústico denominado "Varelas", localizado
+    no concelho de Montemor-o-Novo pelo(a) Portaria n.º 486/77 - Diário da República n.º 176/1977, Série I de 1977-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1977-251260
+  date: '1977-08-01'
+- type: amended_by
+  target: pt:dre:278243:por
+  label: Derrogada, no referente à expropriação do prédio rústico denominado «Herdade do Meio», situado no concelho de Montemor-o-Novo,
+    pelo(a) Portaria n.º 620/77 - Diário da República n.º 223/1977, Série I de 1977-09-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-1977-278243
+  date: '1977-09-26'
+- type: amended_by
+  target: pt:dre:278256:por
+  label: Derrogada, no referente aos prédios rústicos denominados «Barroseiro» e «Amendoeira e Cabidinha, situados no concelho
+    de Évora, pelo(a) Portaria n.º 622/77 - Diário da República n.º 224/1977, Série I de 1977-09-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/622-1977-278256
+  date: '1977-09-27'
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:446556:por
+  label: Derrogada, no que concerne à expropriação dos prédios rústicos Geraldo, Geraldina e Cegonha, pelo(a) Portaria n.º
+    111/78 - Diário da República n.º 45/1978, Série I de 1978-02-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/111-1978-446556
+  date: '1978-02-23'
+- type: amended_by
+  target: pt:dre:382223:por
+  label: "Derrogada o presente diploma, relativamente ao prédio rústico denominado «Herdade do Paço».pela PORT.360/79.24.07.1979.MAP,\
+    \ DR.IS [169] de 24.07.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-1979-382223
+  date: '1979-07-24'
+- type: amended_by
+  target: pt:dre:678069:por
+  label: "Derrogada, em parte, pela PORT.115/80.15.03.1980.MAP, DR.IS [63] de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1980-678069
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:678072:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \"Perdigões\", pela PORT.118/80.15.03.1980.MAP, DR.IS [63]\
+    \ de 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-1980-678072
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:473083:por
+  label: "Derrogada parcialmente pela PORT.333/80.17.06.1980.MAP, DR.IS [137] de 17.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-1980-473083
+  date: '1980-06-17'
+- type: amended_by
+  target: pt:dre:460612:por
+  label: "Derrogada, na parte respeitante ao prédio rústico denominado «Catarina Vaz» pela PORT.692/80.20.09.1980.MAP, DR.IS\
+    \ [218] de 20.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-1980-460612
+  date: '1980-09-20'
+- type: amended_by
+  target: pt:dre:460584:por
+  label: "Desanexadas duas áreas do prédio rústico «Amoreira», expropriado pelo presente diploma, pela PORT.701/80.22.09.1980.MAP,\
+    \ DR.IS [219] de 22.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1980-460584
+  date: '1980-09-22'
+- type: amended_by
+  target: pt:dre:457406:por
+  label: "Derrogada, na parte que respeita aos prédios rústicos denominados «Herdade de Farizoa» e «Herdade dos Lázaros» pela\
+    \ PORT.966/80.11.11.1980.MAP, DR.IS [261] de 11.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/966-1980-457406
+  date: '1980-11-11'
+- type: amended_by
+  target: pt:dre:459609:por
+  label: "Derrogada, na parte que respeita aos prédios rústicos denominados «Quinta das Casas Altas» e «Vanga», pela PORT.1084/80.19.12.1980.MAP,\
+    \ DR.IS [292] de 19.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1084-1980-459609
+  date: '1980-12-19'
+- type: amended_by
+  target: pt:dre:553007:por
+  label: "Derrogada, no que se refere aos prédios rústicos \"Concelhos\" e \"Silval\", pela PORT.27/82.1982.01.12.MACP DR.IS\
+    \ [9] DE 12/JAN/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1982-553007
+  date: '1981-12-18'
+- type: amended_by
+  target: pt:dre:376787:por
+  label: "Derrogado o presente diploma, relativamente aos prédios rústicos \"Cavaleira Nova\" e \"Outeiro\", pela PORT.968/82.14.10.1982.MACP,\
+    \ DR.IS [238] de 14.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/968-1982-376787
+  date: '1982-10-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 327/92IIS PUBLICADA NO DR.IIS, 248, DE 921027. DERROGADA EM PARTE PELA PORTARIA 328/92IIS,
+    PUBLICADA NO DR.IIS, 248, DE 921027. DERROGADA EM PARTE PELA PORTARIA 331/92IIS, PUBLICADA NO DR.IIS, 248, DE 921028.
+    DERROGADA EM PARTE PELA PORTARIA 123/93IIS, DA PCM, MA, DE 930511, PUBLICADA NO DR.IIS, 117, DE 930520. DERROGADA EM PARTE
+    PELA PORTARIA 128/93IIS, DA PCM, MA, DE 930525, PUBLICADA NO DR.IIS, 130, DE 930604.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-27'
+- type: amended_by
+  target: pt:dre:899376:por
+  label: Derrogada, em parte, pelo(a) Portaria n.º 128/93 (2.ª Série) - Diário da República n.º 130/1993, Série II de 1993-06-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1993-899376
+  date: '1993-06-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 371/95IIS DE 24-OUT DA PCM E MA DR.IIS [258] DE 08/NOV/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-08'
+- type: cites
+  target: pt:dre:307377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:3456765:por
+  label: "Revogada na parte relativa aos prédios rústicos denominados \"Cabeço\", \"Fonte da Ordem e Oliveiras\" e \"Ligeiros\"\
+    \ pela PORT.629/99(2ªSÉRIE).1999.06.01.PCM DR.IIS [141] de 19/Jun/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1999-3456765
+  date: '1999-06-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:58Z'
   warnings: []
   errors: []
 ---

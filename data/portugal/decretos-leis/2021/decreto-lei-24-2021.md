@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06000/0001300017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2021/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2021-160316757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e14cd6ecbedb2bff320231c977d79cdeb82575a198c2615b4e89a4f5134b66e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37fe1696248d8df9541125f50605c370ac7769b23a4d2e1324a5698c96f3b267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
-- Empresa
 - Código de Procedimento e de Processo Tributário
 - Código do IRC
 - Código do IRS
 - Código do IVA
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Contribuições da Segurança Social
+- Contribuições e Impostos
 - Dívida
 - Dívidas à Segurança Social
 - Dívidas ao Estado
+- Doença Infecciosa
+- Empresa
+- Epidemia
 - Estado de Emergência
 - Execução Fiscal
-- Contribuições e Impostos
+- IRC
 - IRS
 - IVA
 - Pagamento a Prestações
 - Pagamento de Contribuições
-- Doença Infecciosa
-- Epidemia
-- IRC
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Pequenas e Médias Empresas
 - PME
 - Segurança Social
@@ -95,6 +95,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -135,16 +141,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:130779505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133321093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139804819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151194544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154361179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:06Z'
   warnings: []
   errors: []
 ---
@@ -285,12 +335,14 @@ O regime previsto no artigo 9.º-B do [Decreto-Lei n.º 10-F/2020](https://diari
 
 Visto e aprovado em Conselho de Ministros de 11 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 18 de março de 2021.**
+Promulgado em 18 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de março de 2021.**
+Referendado em 19 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114097892

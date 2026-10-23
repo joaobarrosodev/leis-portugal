@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0529505297.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/2015/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2015-69920326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d434f4297722858fc02f4b41737cc3661998dc490e25fb26899911c7eed0259a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cbc1e9b26dea1af4bcc8a31e10aebb793409b60efd111baa1efd880f35400bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Direção Geral de Política de Defesa Nacional
+- Ministério da Defesa Nacional
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direcção sobre a Direção-Geral de Política de Defesa Nacional, com orgânica
+    aprovada pelo presente diploma, seja exercida pelo Ministro da Defesa Nacional, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário
+    da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a direcção sobre a Direção-Geral de Política de Defesa Nacional, com orgânica
+    aprovada pelo presente diploma seja exercida pela Ministra da Defesa Nacional pelo(a) Decreto-Lei n.º 32/2022 - Diário
+    da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Defesa Nacional a direção sobre
+    a Direção-Geral de Política de Defesa Nacional pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série
+    I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Defesa Nacional a direção sobre
+    a Direção-Geral de Política de Defesa Nacional pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento,
+    Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/183/2014/12/29/p/dre
   label: null
@@ -96,16 +124,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:45Z'
   warnings: []
   errors: []
 ---
@@ -210,18 +258,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral.
 
-**Promulgado em 26 de julho de 2015.**
+Promulgado em 26 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de julho de 2015.**
+Referendado em 30 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529505297.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529505297.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529505297.pdf)

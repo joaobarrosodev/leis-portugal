@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/1997/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1997-527662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11bce5a233b29b8a9680aa84d66b1ee39cedda8bf60811f45b5a9d38a460e775
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8a1e991c5bf85250ede3999f5951b2007913c6c8ae27cc6d876d6ed6b814da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
 - Contra-ordenação
-- Local de Divertimento
 - Equipamento Eléctrico
 - Especificação Técnica
-- Segurança Pública
 - Fiscalização
+- Incêndio
 - Licenciamento
+- Local de Divertimento
+- Material de Construção
 - Normas de Construção
 - Normas de Segurança
 - Proteção do Consumidor
 - Recinto de Diversões Aquáticas
 - Regulamento
 - Regulamento das Condições Técnicas e de Segurança dos Recintos de Diversões Aquáticas
-- Material de Construção
 - Segurança dos Edifícios
+- Segurança Pública
 - Vistoria
 relationships:
 - type: amended_by
@@ -103,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1115-b/1994/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1115-b/1994/12/15/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 10
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:47Z'
   warnings: []
   errors: []
 ---
@@ -149,15 +169,15 @@ Presidência do Conselho de Ministros, 27 de Dezembro de 1996.
 
 António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Março de 1997.**
+Promulgado em 6 de Março de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1997.**
+Referendado em 10 de Março de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO — Regulamento das Condições Técnicas e de Segurança dos Recintos com Diversões Aquáticas
 
@@ -265,7 +285,9 @@ i) O acesso às saídas deve ser claramente assinalado no interior do recinto e 
 
 4 - Nos casos que impliquem o aumento da lotação devem ser ajustados todos os parâmetros que determinaram a fixação da lotação inicial.
 
-###### Artigo 8.º — Regime de funcionamento
+Artigo 8.º
+
+Regime de funcionamento
 
 1 - O horário e a época de funcionamento propostos pela entidade que procede à exploração do recinto devem ser autorizados pela entidade competente, nos termos da legislação específica.
 
@@ -281,13 +303,21 @@ d) Disponibilidade de um gerador de recurso que garanta, em situações de falta
 
 3 - Sem prejuízo dos licenciamentos concedidos para funcionamento dos recintos com diversões aquáticas, pode ser autorizada, caso a caso, fora do horário de funcionamento normal, a realização de actividades distintas das actividades próprias do recinto, desde que não se revelem incompatíveis com as instalações.
 
-### CAPÍTULO II — Da concepção e organização funcional
+CAPÍTULO II
 
-#### SECÇÃO I — Actividades aquáticas
+Da concepção e organização funcional
 
-##### SUBSECÇÃO I — Disposições de segurança nos tanques
+SECÇÃO I
 
-###### Artigo 9.º — Disposições gerais
+Actividades aquáticas
+
+SUBSECÇÃO I
+
+Disposições de segurança nos tanques
+
+Artigo 9.º
+
+Disposições gerais
 
 1 - No interior dos tanques não são admitidos desníveis, mudanças bruscas da inclinação do fundo ou quaisquer obstáculos submersos que não sejam os elementos de desenvolvimento das escadas e rampas de acesso, nas condições definidas no presente Regulamento.
 
@@ -317,7 +347,9 @@ g) Superfícies de tons claros, brancos ou tons azulados-claros que sublinhem as
 
 7 - Os dispositivos de ancoragem dos flutuadores, escadas e demais material móvel devem ser fixados às paredes e bordadura dos tanques e disporão de tampas de obturação não salientes e fixadas por meio adequado.
 
-###### Artigo 10.º — Caixas de evacuação das águas
+Artigo 10.º
+
+Caixas de evacuação das águas
 
 1 - As caixas de evacuação das águas de despejo dos tanques devem ser colocadas nas zonas mais profundas da soleira, protegidas por meio de grelhas de material inoxidável e solidamente fixadas, por forma a evitar a sua remoção pelos utentes.
 
@@ -331,7 +363,9 @@ c) O diâmetro de cada ramal de ligação terá o máximo de 0,08 m e deve limit
 
 d) A boca de aspiração de cada ramal de ligação será protegida com grelha em material inoxidável, solidamente fixada ao respectivo paramento, obedecendo o espaçamento dos respectivos elementos ao estipulado no n.º 5 do artigo 9.º, e deverá ser, preferencialmente, de tipo antivórtice, com aspiração tangencial.
 
-###### Artigo 11.º — Piscina de ondas
+Artigo 11.º
+
+Piscina de ondas
 
 1 - Os tanques equipados com dispositivos de formação de ondas, submersos, devem ser concebidos para resistir às vibrações, sendo necessária a colocação de elementos específicos de protecção que impeçam o acesso dos utentes às proximidades dos planos por onde é feita a insuflação e agitação da água.
 
@@ -339,7 +373,9 @@ d) A boca de aspiração de cada ramal de ligação será protegida com grelha e
 
 3 - As paredes por onde se faça a insuflação ou agitação da água são protegidas com grelhas solidamente fixas, devendo o espaçamento dos elementos que as constituem obedecer ao fixado no n.º 5 do artigo 9.º
 
-###### Artigo 12.º — Tanques de recepção
+Artigo 12.º
+
+Tanques de recepção
 
 1 - Os tanques que integram a recepção das actividades aquáticas devem respeitar as seguintes regras:
 
@@ -353,7 +389,9 @@ c) Deverá ser garantida a impossibilidade de colisão com os utentes de pistas 
 
 3 - As dimensões de segurança para os tanques referidos neste artigo são as indicadas no anexo I.
 
-###### Artigo 13.º — Cais dos tanques
+Artigo 13.º
+
+Cais dos tanques
 
 1 - Os cais devem ser pavimentados numa faixa não inferior a 2 m de largura, contados a partir dos bordos dos tanques, com material impermeável, antiderrapante, de fácil limpeza e com ligeira pendente para o lado contrário ao do tanque.
 
@@ -363,7 +401,9 @@ c) Deverá ser garantida a impossibilidade de colisão com os utentes de pistas 
 
 4 - Os chuveiros instalados nos termos do número anterior poderão ser contabilizados até ao limite de um quarto do total calculado para ambos os sexos.
 
-###### Artigo 14.º — Sinalização
+Artigo 14.º
+
+Sinalização
 
 1 - Nos tanques de recreio e de diversão, na transição para as zonas de profundidade superior a 1,3 m, deverão instalar-se um cabo que suporte bandeirolas de cor vermelha e um painel central, nos quais serão colocadas as inscrições «Limite de zona com pé - Profundidade: 1,3 m».
 
@@ -375,9 +415,13 @@ c) Deverá ser garantida a impossibilidade de colisão com os utentes de pistas 
 
 5 - Caso a configuração do tanque não permita inscrever as indicações no paramento vertical, deve utilizar-se outro sistema de marcação que seja claramente visível do interior do tanque.
 
-##### SUBSECÇÃO II — Escadas, rampas e circulações
+SUBSECÇÃO II
 
-###### Artigo 15.º — Acesso aos tanques
+Escadas, rampas e circulações
+
+Artigo 15.º
+
+Acesso aos tanques
 
 1 - Para o acesso aos tanques com profundidades superiores a 0,5 m devem ser previstas escadas em número igual ao quociente entre a superfície do plano da água, em metros quadrados, e o perímetro do tanque, em metros, arredondando para a unidade mais próxima, com o mínimo de uma escada por cada tanque.
 
@@ -411,7 +455,9 @@ Os montantes devem prolongar-se sobre o pavimento do cais e terão alturas difer
 
 8 - O acesso aos tanques infantis ou chapinheiros deve ser executado com rampas de 4% de declive máximo ou por escadaria com degraus de 0,08 m de altura máxima.
 
-###### Artigo 16.º — Acessos às actividades aquáticas
+Artigo 16.º
+
+Acessos às actividades aquáticas
 
 1 - As escadas de acesso às plataformas de partida dos escorregas devem formar um ângulo máximo de 60º com a horizontal e dispor de corrimãos de ambos os lados, com protecções laterais, prolongados até aos guarda-corpos dessas plataformas.
 
@@ -421,7 +467,9 @@ Os montantes devem prolongar-se sobre o pavimento do cais e terão alturas difer
 
 4 - A largura do cobertor dos degraus não deve ser inferior a 0,08 m em escadas de lanços rectos, salvo nas escadas de caracol, onde, na linha de circulação medida a 0,2 m do bordo interno, a largura do cobertor do degrau, nesse ponto, deve ser igual ou superior a 0,12 m.
 
-###### Artigo 17.º — Circulações no recinto
+Artigo 17.º
+
+Circulações no recinto
 
 1 - As rampas que se implantem para vencer os desníveis existentes no recinto não podem apresentar pendentes superiores a 12%.
 
@@ -439,9 +487,13 @@ Espelho do degrau variável entre 0,15 m e 0,18 m.
 
 5 - As circulações em que exista risco de queda devem ser guarnecidas por protecções laterais suficientemente rígidas, com uma altura mínima de 0,9 m e em que o espaçamento entre os elementos verticais que as constituem não ultrapasse os 0,14 m.
 
-##### SUBSECÇÃO III — Escorregas e pistas
+SUBSECÇÃO III
 
-###### Artigo 18.º — Plataformas de partida
+Escorregas e pistas
+
+Artigo 18.º
+
+Plataformas de partida
 
 1 - É proibida a instalação de elementos com saliências de arestas vivas e a utilização de materiais porosos ou susceptíveis de se constituírem como campo para o desenvolvimento de microrganismos patogénicos.
 
@@ -459,7 +511,9 @@ b) Nas pistas de forma fechada com extensão superior a 50 m e em todas as pista
 
 c) Os semáforos devem estabelecer a cadência de utilização das actividades por meio de comandos temporizados ou células eléctricas, por forma que, ao acenderem, dêem a pista como livre e permitam gerir a sua utilização em perfeitas condições de segurança, e deverão dispor ainda de um sistema de bloqueio em caso de obstrução da pista por um utente.
 
-###### Artigo 19.º — Disposições gerais de segurança nas pistas
+Artigo 19.º
+
+Disposições gerais de segurança nas pistas
 
 1 - As estruturas de suporte das pistas devem ser construídas de modo a suportarem com segurança todas as tensões estáticas e dinâmicas e o desgaste resultante da sua utilização.
 
@@ -475,9 +529,13 @@ c) Os semáforos devem estabelecer a cadência de utilização das actividades p
 
 7 - A pendente máxima na parte final das pistas não pode exceder os 10%.
 
-#### SECÇÃO II — Dos projectos especiais
+SECÇÃO II
 
-###### Artigo 20.º — Equipamentos fixos de diversão aquática
+Dos projectos especiais
+
+Artigo 20.º
+
+Equipamentos fixos de diversão aquática
 
 1 - Os projectos dos equipamentos fixos de diversão aquática devem conter os elementos gráficos necessários à sua correcta interpretação, incluindo as especificações referentes ao seu modo de montagem, utilização e manutenção, estando instruídos com um termo de responsabilidade subscrito pelo autor do projecto que garanta terem sido tomadas em consideração as instruções do fabricante.
 
@@ -485,7 +543,9 @@ c) Os semáforos devem estabelecer a cadência de utilização das actividades p
 
 3 - Quando existam estruturas para suporte e desenvolvimento dos equipamentos, deve ser apresentado o correspondente projecto de estabilidade.
 
-###### Artigo 21.º — Projecto da instalação de recirculação e tratamento de águas
+Artigo 21.º
+
+Projecto da instalação de recirculação e tratamento de águas
 
 1 - A concepção dos edifícios das centrais de bombagem ou de tratamento das águas deve respeitar as seguintes condições:
 
@@ -517,25 +577,37 @@ c) Os sistemas de abastecimento de água deverão ser formados por ramais própr
 
 7 - Os dispositivos de doseamento das soluções são constituídos por recipientes para a sua preparação e por bombas doseadoras reguláveis, de funcionamento automático, em número correspondente aos diferentes produtos utilizados e com capacidades adequadas às necessidades da instalação.
 
-#### SECÇÃO III — Distribuição dos espaços livres
+SECÇÃO III
 
-###### Artigo 22.º — Composição dos espaços
+Distribuição dos espaços livres
+
+Artigo 22.º
+
+Composição dos espaços
 
 1 - Os espaços livres de lazer que constituem o recinto são compostos por zonas verdes arborizadas ou relvadas, áreas de sombra, solários para os utentes e por uma rede de itinerários pedonais.
 
 2 - Como zonas de lazer poder-se-ão considerar ainda os terraços ou esplanadas dos similares de hotelaria.
 
-###### Artigo 23.º — Repartição dos espaços
+Artigo 23.º
+
+Repartição dos espaços
 
 1 - A repartição destes espaços deve ser harmoniosa, de forma a ter em conta a relação que deve existir com a lotação máxima fixada para o recinto.
 
 2 - A área de sombra é obtida por recurso a arborização ou dispositivos de concepção adequada, ocupando, no mínimo, 5% da área dos espaços livres de lazer, não incluindo a área das esplanadas.
 
-#### SECÇÃO IV — Instalações
+SECÇÃO IV
 
-##### SUBSECÇÃO I — Apoio ao público
+Instalações
 
-###### Artigo 24.º — Vestiários, balneários e sanitários
+SUBSECÇÃO I
+
+Apoio ao público
+
+Artigo 24.º
+
+Vestiários, balneários e sanitários
 
 1 - Os vestiários, balneários e sanitários devem ser distintos por sexos e concebidos por forma a permitir a sua utilização por cidadãos com deficiência, idosos e crianças.
 
@@ -585,7 +657,9 @@ Homens: uma por cada 200 utentes, com o mínimo de duas;
 
 d) Um urinol de descarga automática por cada 100 utentes, com o mínimo de quatro.
 
-###### Artigo 25.º — Serviços de socorro
+Artigo 25.º
+
+Serviços de socorro
 
 1 - Os recintos devem dispor de um posto de socorros situado em local imediatamente identificável, de fácil acesso pelo interior do recinto e que permita uma imediata e rápida evacuação para o exterior.
 
@@ -601,15 +675,21 @@ d) Um urinol de descarga automática por cada 100 utentes, com o mínimo de quat
 
 5 - A instalação deve ter acesso directo à rede telefónica e à rede de intercomunicação interna do recinto, englobando-se nesta, obrigatoriamente, a segurança, o director de exploração, o supervisor e os chefes de zona.
 
-###### Artigo 26.º — Postos de água para consumo público
+Artigo 26.º
+
+Postos de água para consumo público
 
 1 - Devem ser instalados postos de água para consumo público, de jacto ascendente, na proporção de um por cada 750 utentes.
 
 2 - Estes postos distribuem-se por diferentes zonas, preferencialmente nas de maior concentração de pessoas, devendo o seu pavimento ser concebido com uma protecção perimetral, antiderrapante, contra o encharcamento da área circundante.
 
-##### SUBSECÇÃO II — De apoio à exploração
+SUBSECÇÃO II
 
-###### Artigo 27.º — Controlo e recepção
+De apoio à exploração
+
+Artigo 27.º
+
+Controlo e recepção
 
 1 - Os recintos devem ter uma dependência adequadamente localizada para o controlo de acesso e saída dos utentes.
 
@@ -619,7 +699,9 @@ d) Um urinol de descarga automática por cada 100 utentes, com o mínimo de quat
 
 4 - Integrado neste conjunto deve existir uma dependência que funcionará como recepção e que constituirá o centro de relações entre a exploração e os utentes, para efeito de prestação de informações ou de atendimento de reclamações.
 
-###### Artigo 28.º — Zonas técnicas c de armazenamento
+Artigo 28.º
+
+Zonas técnicas c de armazenamento
 
 1 - As dependências destinadas às zonas técnicas ou de armazenamento devem localizar-se em áreas adjacentes aos equipamentos que servem, mas distanciadas e isoladas das áreas e percursos acessíveis ao público.
 
@@ -641,7 +723,9 @@ f) O dimensionamento do compartimento destinado às botijas atenderá ao número
 
 4 - Os diversos elementos necessários à activação, bombagem, filtração e tratamento da água, bem como os geradores, os transformadores de energia eléctrica e outros equipamentos de apoio às instalações existentes, serão instalados em dependências de acesso interdito ao público.
 
-###### Artigo 29.º — Apoio ao pessoal
+Artigo 29.º
+
+Apoio ao pessoal
 
 1 - Devem ser previstos vestiários, balneários e instalações sanitárias para apoio ao pessoal localizados em zonas que não interfiram ou coincidam com as destinadas ao público.
 
@@ -669,11 +753,17 @@ Um chuveiro por cada grupo de 10 pessoas ou fracção que cessem simultaneamente
 
 5 - As instalações referidas neste artigo devem ainda observar o disposto no n.º 2 do artigo 24.º
 
-### CAPÍTULO III — Das condições de exploração
+CAPÍTULO III
 
-#### SECÇÃO I — Requisitos da qualidade e tratamento da água
+Das condições de exploração
 
-###### Artigo 30.º — Água para consumo humano
+SECÇÃO I
+
+Requisitos da qualidade e tratamento da água
+
+Artigo 30.º
+
+Água para consumo humano
 
 1 - A água para consumo humano deve ser potável, de acordo com a legislação em vigor.
 
@@ -681,7 +771,9 @@ Um chuveiro por cada grupo de 10 pessoas ou fracção que cessem simultaneamente
 
 3 - Quando a água para consumo humano tiver origem diferente da da rede pública, o seu controlo será da responsabilidade da entidade administrativa com competência na matéria.
 
-###### Artigo 31.º — Água para consumo nas actividades aquáticas
+Artigo 31.º
+
+Água para consumo nas actividades aquáticas
 
 1 - A água de alimentação dos tanques tem de ser potável, devendo ser proveniente de uma rede pública de abastecimento, ou, caso tal não seja possível, deve ser obtida autorização emitida pelos organismos de tutela da saúde e da gestão dos recursos hídricos.
 
@@ -693,7 +785,9 @@ Um chuveiro por cada grupo de 10 pessoas ou fracção que cessem simultaneamente
 
 5 - Caso a nova análise confirme a má qualidade da água, a entidade fiscalizadora procederá de imediato ao encerramento da actividade ou actividades aquáticas servidas pela água imprópria, até que a mesma se encontre em condições potáveis.
 
-###### Artigo 32.º — Instalação de recirculação e tratamento da água
+Artigo 32.º
+
+Instalação de recirculação e tratamento da água
 
 1 - As instalações de recirculação e tratamento da água devem ser dimensionadas para fornecerem o desejável caudal de água, filtrada, desinfectada e da qualidade exigida no artigo anterior, e deverá ainda observar-se o seguinte:
 
@@ -709,7 +803,9 @@ d) Para controlo dos volumes de água de reposição as instalações serão equ
 
 3 - As tubagens, válvulas de manobra e de seccionamento de toda a instalação devem ser estabelecidas por forma a permitir as operações de lavagem ou de reparação individuais sem necessidade da paragem do funcionamento desta.
 
-###### Artigo 33.º — Filtração e renovação
+Artigo 33.º
+
+Filtração e renovação
 
 1 - A água nos tanques das actividades aquáticas deve ser filtrada, desinfectada e possuir um poder desinfectante residual de modo que as suas características físico-químicas e bacteriológicas correspondam ao constante no anexo II.
 
@@ -717,7 +813,9 @@ d) Para controlo dos volumes de água de reposição as instalações serão equ
 
 3 - As instalações de filtração de água devem obedecer ao disposto no anexo III.
 
-###### Artigo 34.º — Tratamento
+Artigo 34.º
+
+Tratamento
 
 1 - Os produtos químicos a utilizar na desinfecção da água dos tanques das actividades aquáticas devem ser autorizados expressamente pelas autoridades de saúde.
 
@@ -745,7 +843,9 @@ A ozonização da água deve ser efectuada fora dos tanques e de modo que nos ci
 
 6 - A adição do desinfectante ou de outro aditivo autorizado processa-se obrigatoriamente mediante sistema automático de dosagem.
 
-###### Artigo 35.º — Controlo da qualidade da água
+Artigo 35.º
+
+Controlo da qualidade da água
 
 1 - As determinações do cloro livre, do pH e da turvação serão realizadas de quatro em quatro horas, sendo a primeira obrigatoriamente feita antes da abertura diária das instalações ao público, devendo as entidades exploradoras dos empreendimentos dispor dos dispositivos e reagentes necessários à operação.
 
@@ -753,7 +853,9 @@ A ozonização da água deve ser efectuada fora dos tanques e de modo que nos ci
 
 3 - As análises físico-químicas e bacteriológicas serão feitas duas vezes por mês, com um mínimo de 10 dias de intervalo, por recurso a laboratórios oficiais ou acreditados, devendo a entidade exploradora indicar os produtos utilizados no tratamento da água.
 
-###### Artigo 36.º — Registo do resultado das análises
+Artigo 36.º
+
+Registo do resultado das análises
 
 1 - Para registo dos resultados relativos às análises deve existir em cada empreendimento um ou mais livros de registo do controlo da água, previamente paginados e visados pela autoridade competente.
 
@@ -763,9 +865,13 @@ A ozonização da água deve ser efectuada fora dos tanques e de modo que nos ci
 
 4 - À entrada do empreendimento devem ser afixados os resultados das análises laboratoriais e das inspecções sanitárias.
 
-#### SECÇÃO II — Condições hígio-sanitárias
+SECÇÃO II
 
-###### Artigo 37.º — Condições gerais
+Condições hígio-sanitárias
+
+Artigo 37.º
+
+Condições gerais
 
 1 - Todas as actividades aquáticas, instalações e equipamentos dos empreendimentos devem manter-se em perfeito estado hígio-sanitário e de conservação.
 
@@ -787,13 +893,17 @@ d) Limpeza eficaz de todo o recinto.
 
 6 - No caso do número anterior, a água com desinfectante deverá ser retida na rede durante vinte e quatro horas, após o que se procede ao seu esvaziamento completo, efectuando-se posteriormente o seu enchimento com água da rede e o seu esvaziamento tantas vezes quantas as necessárias até que o teor detectável de cloro residual livre na água esteja em conformidade com o disposto na legislação em vigor.
 
-###### Artigo 38.º — Desinfecções e desinfestações
+Artigo 38.º
+
+Desinfecções e desinfestações
 
 1 - Os balneários e sanitários devem ser lavados e desinfectados diariamente, prestando particular atenção aos pavimentos e estrados onde os utentes se desloquem descalços, de modo a impedir a proliferação de fungos.
 
 2 - A desinfestação das instalações do empreendimento deve realizar-se uma vez por ano, um mês antes da reabertura, ou sempre que tal acção se apresente como conveniente.
 
-###### Artigo 39.º — Águas residuais
+Artigo 39.º
+
+Águas residuais
 
 1 - Os empreendimentos devem dispor de uma rede de águas residuais que impeça o seu escoamento a céu aberto.
 
@@ -803,15 +913,21 @@ d) Limpeza eficaz de todo o recinto.
 
 4 - O efluente tratado respeitará a legislação em vigor, nomeadamente a [Portaria n.º 624/90](https://diariodarepublica.pt/dr/detalhe/portaria/624-1990-573133), de 4 de Agosto.
 
-###### Artigo 40.º — Resíduos sólidos
+Artigo 40.º
+
+Resíduos sólidos
 
 1 - No empreendimento, além dos recipientes para papéis colocados nas zonas públicas, serão instalados dispositivos, constituídos por material lavável, com tampa, para recolha do lixo produzido pelos utentes, em número compatível com a lotação do mesmo.
 
 2 - Os resíduos sólidos diários são armazenados em contentores de fecho hermético e de material adequado à sua limpeza, localizados em ponto afastado das zonas destinadas ao público e de fácil acesso à viatura de recolha, sendo a sua remoção feita diariamente.
 
-#### SECÇÃO III — Requisitos do pessoal e suas funções
+SECÇÃO III
 
-###### Artigo 41.º — Distribuição de funções
+Requisitos do pessoal e suas funções
+
+Artigo 41.º
+
+Distribuição de funções
 
 1 - O funcionamento dos recintos deve ser assegurado por um conjunto de pessoas com adequada formação para as tarefas que lhes são distribuídas, sem prejuízo dos acordos laborais que possam estar estabelecidos para as actividades em causa.
 
@@ -833,7 +949,9 @@ g) Segurança;
 
 h) Auxiliar.
 
-###### Artigo 42.º — Pessoal de direcção
+Artigo 42.º
+
+Pessoal de direcção
 
 1 - A direcção do empreendimento compete a um director, sem prejuízo das competências e responsabilidades que cabem à entidade exploradora.
 
@@ -845,19 +963,25 @@ h) Auxiliar.
 
 5 - O director permanece no recinto durante todo o período de funcionamento, podendo ser substituído por pessoa por ele designada, que assumirá as suas responsabilidades durante o período de impedimento ou de ausência temporária.
 
-###### Artigo 43.º — Pessoal de vigilância
+Artigo 43.º
+
+Pessoal de vigilância
 
 1 - O pessoal de vigilância garante a ordem e o correcto funcionamento das actividades do empreendimento, exercendo todas as tarefas relacionadas com o seu cargo que lhe sejam fixadas pelo director.
 
 2 - Nas plataformas de partida de cada actividade deve existir pelo menos um vigia, sem prejuízo do disposto no anexo I.
 
-###### Artigo 44.º — Pessoal de recepção e controlo
+Artigo 44.º
+
+Pessoal de recepção e controlo
 
 1 - O pessoal de controlo e recepção encarrega-se de controlar a entrada dos utentes e visitantes, prestando as informações ou esclarecimentos que lhe sejam solicitados.
 
 2 - A este pessoal compete assegurar que as pessoas que se encontram dentro do recinto em nenhum momento excedam a lotação máxima autorizada.
 
-###### Artigo 45.º — Pessoal de salvamento - nadadores-salvadores
+Artigo 45.º
+
+Pessoal de salvamento - nadadores-salvadores
 
 1 - O pessoal de salvamento deve estar habilitado com um certificado de nadador-salvador e ainda com o curso de primeiros socorros emitido por entidade autorizada para o efeito.
 
@@ -871,11 +995,15 @@ b) Chefe da zona - cargo a desempenhar por um nadador-salvador com experiência 
 
 c) Nadador-salvador - é o responsável directo pela segurança de cada actividade que lhe tenha sido confiada, devendo vigiar atentamente os utentes, para garantir a sua integridade física, não permitindo qualquer infracção às normas estabelecidas de conduta e utilização dos equipamentos e prestando os primeiros socorros em caso de acidente ou doença súbita, que comunicará imediatamente o facto ao chefe da zona.
 
-###### Artigo 46.º — Pessoal de prestação de socorros
+Artigo 46.º
+
+Pessoal de prestação de socorros
 
 O pessoal de prestação de socorros é constituído por pessoal médico ou de enfermagem e socorristas que possuam a formação necessária, a quem compete a decisão do recurso aos meios externos de socorro e tratamento, cuja comunicação é obrigatoriamente efectuada ao responsável pela segurança do empreendimento.
 
-###### Artigo 47.º — Pessoal de manutenção e conservação
+Artigo 47.º
+
+Pessoal de manutenção e conservação
 
 1 - Ao pessoal de manutenção e conservação compete assegurar o regular funcionamento dos equipamentos e instalações.
 
@@ -883,21 +1011,31 @@ O pessoal de prestação de socorros é constituído por pessoal médico ou de e
 
 3 - A coordenação do pessoal a que se refere o presente artigo compete a um encarregado geral de experiência comprovada.
 
-###### Artigo 48.º — Pessoal de segurança
+Artigo 48.º
+
+Pessoal de segurança
 
 O pessoal de segurança é constituído por elementos com formação profissional adequada para o cargo e integra o serviço de segurança descrito na secção III do capítulo IV do presente Regulamento.
 
-###### Artigo 49.º — Pessoal auxiliar
+Artigo 49.º
+
+Pessoal auxiliar
 
 Considera-se pessoal auxiliar o que realiza tarefas de natureza executiva simples e diversificada, que lhe venham a ser fixadas pela empresa exploradora do recinto.
 
-###### Artigo 50.º — Uniformes do pessoal
+Artigo 50.º
+
+Uniformes do pessoal
 
 O pessoal deve exercer as suas funções envergando um uniforme próprio, definido pela entidade exploradora, que permita a sua fácil distinção e identificação.
 
-#### SECÇÃO IV — Funcionamento
+SECÇÃO IV
 
-###### Artigo 51.º — Exploração
+Funcionamento
+
+Artigo 51.º
+
+Exploração
 
 1 - Os titulares dos empreendimentos podem promover a exploração dos mesmos directamente ou por recurso a terceiros, cabendo-lhes, em qualquer dos casos, assumir solidariamente as responsabilidades e obrigações inerentes à organização e funcionamento dos respectivos empreendimentos.
 
@@ -927,7 +1065,9 @@ j) Promover a manutenção, à entrada do empreendimento, dos cartazes com as in
 
 4 - A reabertura ou manutenção do funcionamento dos recintos fica condicionada ao resultado favorável das vistorias.
 
-###### Artigo 52.º — Verificação das instalações
+Artigo 52.º
+
+Verificação das instalações
 
 1 - Antes da abertura diária das instalações ao público deve verificar-se, sob a supervisão do director do empreendimento, se as condições hígio-sanitárias das instalações respondem aos condicionamentos legais exigidos, nomeadamente verificando o correcto funcionamento e efectuando o controlo sanitário da água de cada uma das actividades aquáticas.
 
@@ -937,13 +1077,17 @@ j) Promover a manutenção, à entrada do empreendimento, dos cartazes com as in
 
 4 - Quando a entidade exploradora, por razões extraordinárias, não possa dispor de nadadores-salvadores para cobrir alguma actividade aquática, o director ordenará o encerramento da mesma nos termos fixados no n.º 2.
 
-###### Artigo 53.º — Trabalhos realizados nos recintos
+Artigo 53.º
+
+Trabalhos realizados nos recintos
 
 1 - Todos os trabalhos de reparações ou alterações a realizar nos recintos só podem ser efectuados fora do horário de abertura ao público.
 
 2 - Exceptuam-se do caso anterior os trabalhos de manutenção normal ou reparações pontuais, realizados nas instalações às quais o público não tenha acesso, e desde que deles não resulte a paragem dos equipamentos ou variações no seu regime de funcionamento que alterem os regulamentares padrões de segurança ou qualidade que deles dependam.
 
-###### Artigo 54.º — Livros de registo
+Artigo 54.º
+
+Livros de registo
 
 1 - Qualquer empreendimento disporá dos seguintes livros de registo, os quais devem ter as respectivas páginas numeradas, com a autenticação da entidade licenciadora:
 
@@ -955,7 +1099,9 @@ b) Livros de registo do controlo da água, previstos no n.º 1 do artigo 36.º
 
 3 - Havendo mais de um livro de registo do controlo da água, devem também ser indicados quais os tanques ou actividades aquáticas a que o mesmo diz respeito.
 
-###### Artigo 55.º — Livro de reclamações
+Artigo 55.º
+
+Livro de reclamações
 
 1 - Em todos os empreendimentos deverá existir um livro de reclamações, aprovado pelo IND, que será sempre facultado a quem o solicite, desde que exiba documento comprovativo da sua identificação e indique a sua morada.
 
@@ -963,7 +1109,9 @@ b) Livros de registo do controlo da água, previstos no n.º 1 do artigo 36.º
 
 3 - À entrada do empreendimento, em lugar bem visível, deve ser afixada a indicação da existência de livro de reclamações.
 
-###### Artigo 56.º — Regulamento interno
+Artigo 56.º
+
+Regulamento interno
 
 1 - Os recintos abrangidos pelo presente diploma devem dispor de um regulamento interno, a elaborar pela entidade exploradora, que estabeleça o regime de uso e de funcionamento do mesmo.
 
@@ -997,9 +1145,13 @@ c) A utilização das pistas a partir de qualquer ponto intermédio que não sej
 
 d) A permanência nos tanques de recepção após a queda nos mesmos.
 
-#### SECÇÃO V — Registo
+SECÇÃO V
 
-###### Artigo 57.º — Registo
+Registo
+
+Artigo 57.º
+
+Registo
 
 1 - A entidade exploradora dos recintos com diversões aquáticas deve promover o registo e a actualização dos seguintes elementos:
 
@@ -1025,11 +1177,17 @@ f) Identificação do director do recinto.
 
 6 - Do requerimento deverão constar os fins a que se destinam as certidões, que não poderão ser usadas para efeitos diferentes dos requeridos.
 
-### CAPÍTULO IV — Dos meios de segurança
+CAPÍTULO IV
 
-#### SECÇÃO I — Meios pessoais
+Dos meios de segurança
 
-###### Artigo 58.º — Pessoal de controlo, salvamento e vigilância
+SECÇÃO I
+
+Meios pessoais
+
+Artigo 58.º
+
+Pessoal de controlo, salvamento e vigilância
 
 1 - Para o controlo e vigilância da utilização das actividades aquáticas, a entidade exploradora do recinto terá obrigatoriamente de dispor do pessoal a que se faz referência na secção III do capítulo III do presente Regulamento em número adequado às dimensões do recinto e devidamente preparado e especializado.
 
@@ -1039,9 +1197,13 @@ f) Identificação do director do recinto.
 
 4 - O pessoal de prestação de socorros permanece no posto de socorros durante a totalidade do período de abertura ao público.
 
-#### SECÇÃO II — Meios materiais
+SECÇÃO II
 
-###### Artigo 59.º — Meios de apoio ao salvamento
+Meios materiais
+
+Artigo 59.º
+
+Meios de apoio ao salvamento
 
 Devem existir meios de apoio ao pessoal de salvamento em número suficiente para que em qualquer momento possam ser utilizados pelo pessoal em serviço:
 
@@ -1065,7 +1227,9 @@ i) Máscaras de ressuscitação para adultos e crianças;
 
 j) Outro material de apoio ou de primeiros socorros e imobilização.
 
-###### Artigo 60.º — Meios passivos
+Artigo 60.º
+
+Meios passivos
 
 São considerados meios passivos de salvamento todos aqueles que, uma vez instalados, informam o público, facilitam o trabalho do pessoal de salvamento, indicam as disposições regulamentares e as características que particularizam o uso de cada actividade, nomeadamente:
 
@@ -1083,7 +1247,9 @@ f) Cadeiras de vigilância para os nadadores-salvadores, com toldo e plataforma 
 
 g) Escadas e rampas para acesso/saída dos tanques, nas condições fixadas no artigo 15.º
 
-###### Artigo 61.º — Sistema de comunicações
+Artigo 61.º
+
+Sistema de comunicações
 
 1 - Cada actividade deverá ser dotada de meios de comunicação que permitam o estabelecimento directo de contacto com os responsáveis do sector da segurança das instalações e do posto de socorros.
 
@@ -1091,9 +1257,13 @@ g) Escadas e rampas para acesso/saída dos tanques, nas condições fixadas no a
 
 3 - Sempre que a distância entre postos de uma mesma actividade aquática o justifique, deve ser criado um sistema de comunicação entre o pessoal de salvamento e os vigilantes por recurso a rádios emissores-receptores portáteis.
 
-#### SECÇÃO III — Serviço de segurança
+SECÇÃO III
 
-###### Artigo 62.º — Funções do serviço de segurança
+Serviço de segurança
+
+Artigo 62.º
+
+Funções do serviço de segurança
 
 1 - Nos períodos de abertura ao público deve permanecer no recinto um representante da entidade exploradora, a quem compete a responsabilidade pelo serviço de segurança.
 
@@ -1111,7 +1281,9 @@ d) Elaborar relatórios escritos referentes a todas as ocorrências relacionadas
 
 e) Orientar e auxiliar as acções que envolvam a participação do público sempre que alguma situação de emergência as torne necessárias.
 
-###### Artigo 63.º — Composição do serviço de segurança
+Artigo 63.º
+
+Composição do serviço de segurança
 
 1 - Nos recintos de 1.ª categoria, o serviço de segurança será assegurado, no mínimo, por três elementos, para além do responsável, devendo o responsável pelo serviço ser afecto exclusivamente à sua tarefa no caso de lotações superiores a 3000 pessoas.
 
@@ -1119,13 +1291,17 @@ e) Orientar e auxiliar as acções que envolvam a participação do público sem
 
 3 - Nos recintos das restantes categorias, este serviço pode ser desempenhado apenas por um elemento, que será igualmente o responsável.
 
-###### Artigo 64.º — Posto de segurança
+Artigo 64.º
+
+Posto de segurança
 
 1 - Os recintos de 1.ª e 2.ª categorias devem ser dotados de uma dependência destinada a posto de segurança, com acesso fácil, devidamente identificado e localizado, sempre que possível, ao nível de chegada dos meios de socorro exteriores.
 
 2 - As centrais de alarme, bem como os meios de comunicação interna ou externa necessários ao eficaz funcionamento do serviço, devem ser instalados no posto de segurança.
 
-###### Artigo 65.º — Acções de formação
+Artigo 65.º
+
+Acções de formação
 
 1 - A entidade exploradora deve promover acções de formação dirigidas ao seu pessoal tendentes ao conhecimento e execução prática do regulamento da exploração.
 
@@ -1133,9 +1309,13 @@ e) Orientar e auxiliar as acções que envolvam a participação do público sem
 
 3 - Os cursos ou acções de formação referidos nos números anteriores obedecem a um programa previamente estabelecido pela entidade exploradora, no qual serão também registados os participantes, as apetências mostradas, a duração da acção de formação, a data em que a mesma se realizou e o monitor ou monitores que a acompanharam.
 
-### CAPÍTULO V — Das contra-ordenações
+CAPÍTULO V
 
-###### Artigo 66.º — Contra-ordenações
+Das contra-ordenações
+
+Artigo 66.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações:
 
@@ -1205,13 +1385,17 @@ ff) A inexistência ou falta de operacionalidade do posto de segurança previsto
 
 4 - As contra-ordenações previstas nas alíneas d), i), m), n), p), s), u), v), cc), dd) e ee) do n.º 1 são puníveis com coima de 50000$00 até 500000$00 ou de 100000$00 até 5000000$00, conforme o infractor for, respectivamente, pessoa singular ou colectiva.
 
-###### Artigo 67.º — Tentativa e negligência
+Artigo 67.º
+
+Tentativa e negligência
 
 1 - A negligência é sempre punível.
 
 2 - A tentativa é punível nas contra-ordenações previstas na alíneas c), e), f), g), h), j), k), l), m), n), o), t), u), v) e ff) do n.º 1 do artigo 66.º
 
-###### Artigo 68.º — Sanções acessórias
+Artigo 68.º
+
+Sanções acessórias
 
 Às infracções previstas no artigo 66.º poderão ser aplicadas as seguintes sanções acessórias:
 
@@ -1219,13 +1403,17 @@ a) A interdição de todas as actividades aquáticas do recinto até que a situa
 
 b) A interdição da utilização de uma ou mais actividades aquáticas até que a situação se encontre regularizada, nos casos previstos nas alíneas b), e), f), k), l) e t) do n.º 1 do artigo 66.º
 
-###### Artigo 69.º — Fiscalização
+Artigo 69.º
+
+Fiscalização
 
 1 - A fiscalização do disposto no presente Regulamento compete às câmaras municipais, ao IND e às autoridades administrativas e policiais competentes, nos termos fixados no artigo 20.º do [Decreto-Lei n.º 65/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1997-527808), de 31 de Março.
 
 2 - As autoridades administrativas e policiais que verifiquem infracções ao disposto no presente devem elaborar os respectivos autos de notícia, que remeterão às câmaras municipais e ao IND no prazo máximo de quarenta e oito horas.
 
-## ANEXO I — Classificação e caracterização dos espaços de actividades aquáticas
+ANEXO I
+
+Classificação e caracterização dos espaços de actividades aquáticas
 
 (Artigo 4.º)
 
@@ -1273,9 +1461,11 @@ Além das condições técnicas gerais contidas na secção I do capítulo II do
 
 2 - Condições técnicas e de uso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf))](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)
 
-## ANEXO II — Parâmetros do controlo sanitário da água
+ANEXO II
+
+Parâmetros do controlo sanitário da água
 
 (Artigos 31.º a 33.º)
 
@@ -1283,9 +1473,11 @@ O controlo da qualidade da água que se prevê no presente Regulamento deverá e
 
 As análises a efectuar compreendem o estudo dos parâmetros a seguir indicados, onde se estabelecem os níveis máximos e mínimos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf))](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)
 
-## ANEXO III — Requisitos das instalações de filtração de água
+ANEXO III
+
+Requisitos das instalações de filtração de água
 
 (N.º 3 do artigo 33.º)
 
@@ -1343,7 +1535,9 @@ O teor de sílica (SiO(índice 2)) na areia utilizada deverá ser superior a 98%
 
 7 - Os filtros de carvão activo só poderão ser instalados como órgãos do segundo estágio de filtração previsto nos sistemas de tratamento com utilização do ozono como bactericida - sistemas do tipo II.
 
-## ANEXO IV — Sinalização indicadora do uso das actividades das proibições e das limitações
+ANEXO IV
+
+Sinalização indicadora do uso das actividades das proibições e das limitações
 
 [Alínea a) do artigo 60.º]
 
@@ -1449,4 +1643,4 @@ c) Idades não admitidas no uso da actividade (figura 25).
 
 4.2 - Qualquer símbolo não previsto neste anexo deverá ajustar-se aos requisitos de forma, cor e dimensões estabelecidos anteriormente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf))](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/075b00/13971422.pdf)

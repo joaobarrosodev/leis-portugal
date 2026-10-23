@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/38/2005/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/38-2005-248775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c67d56e71cf537910c397fe3e40dd294b65557b5e337957b8856167dbf09cc31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e34606ad34a6a34c91d416b025e75ff0196432a7163619edadb76da86820a1f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embaixador
-- Nomeação
 - Honduras
+- Nomeação
 - Tegucigalpa
 relationships:
 - type: amended_by
   target: pt:dre:552487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552487:por
+  label: "Exonerado o ministro plenipotenciário de 1.ª classe Francisco Manuel Guimarães Henriques da Silva como Embaixador\
+    \ de Portugal nas Honduras, nomeado pelo presente diploma, pelo DEC.131/2006.19.12.2006.PR, DR.IS [242] de 19.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/131-2006-552487
+  date: '2006-12-19'
+- type: corrected_by
+  target: pt:dre:143319:por
+  label: "Rectificado pela DECL-RECT.67/2005.02.09.2005.PR, DR.IS-A [178] de 15.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/67-2005-143319
+  date: '2005-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:23Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +105,16 @@ validation:
 
 de 2 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe Francisco Manuel Guimarães Henriques da Silva Embaixador de Portugal nas Honduras.
 
-**Assinado em 2 de Agosto de 2005.**
+Assinado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Agosto de 2005.**
+Referendado em 25 de Agosto de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa. - O Ministro de Estado e dos Negócios Estrangeiros, Diogo Pinto de Freitas do Amaral.

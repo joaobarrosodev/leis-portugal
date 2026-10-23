@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/084a00/20842088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/1995/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1995-230332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab4c11400a2916c44befc281c29b94d577dd3805f1631c328bb5c4f51eec9955
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a38ff439e397baaf274d84c2700cbdd8d3fe5e2b9b4039aff9b817893cf88c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Algarve
 - Aveiro
 - Braga
+- Castelo Branco
 - Centro das Taipas
 - Centro de Apoio à Toxicodependência
+- Coimbra
 - Criação de Serviços
 - Definição de Competências
-- Algarve
+- Droga
+- Estabelecimento Hospitalar
+- Évora
 - Integração de Trabalhadores
 - Leiria
-- Droga
 - Orgânica
-- Toxicodependente
-- Setúbal
-- Castelo Branco
-- Coimbra
-- Estabelecimento Hospitalar
-- Santarém
-- Évora
-- Serviço de Prevenção e Tratamento da Toxicodependência
-- Transferência Patrimonial
 - Porto
+- Reestruturação de Serviços
+- Santarém
+- Serviço de Prevenção e Tratamento da Toxicodependência
+- Setúbal
+- Toxicodependente
+- Transferência Patrimonial
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:401909:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164213:por
+  label: "Alterado o art. 23º do Dec Lei 43/94 de 17-Fev, na redacção dada pelo presente diploma, pelo DEC LEI.125/2001.2001.04.17.MS,DR.IS-A\
+    \ [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2001-164213
+  date: '2001-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -102,16 +108,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/43/1994/02/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/43/1994/02/17/p/dre
+- type: cites
+  target: pt:dre:516491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401909:por
+  label: "Revogado o Dec Lei 43/94 de 17-Fev, com a redacção do presente diploma, pelo DEC LEI.269-A/2002.2002.11.29.MS DR.IS-A\
+    \ [276]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-a-2002-401909
+  date: '2002-11-29'
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:21Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +150,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 6.º, 9.º, 10.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 30.º, 31.º, 33.º, 36.º, 37.º e 38.º do [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 6.º, 9.º, 10.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 30.º, 31.º, 33.º, 36.º, 37.º e 38.º do [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Atribuições
 
@@ -486,20 +506,20 @@ o) Centro de Atendimento de Toxicodependentes de Alvalade;
 
 p) Centro de Atendimento de Toxicodependentes do Algarve.
 
-###### Art. 2.º Todas as referências feitas no [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro, ao delegado regional consideram-se feitas à direcção regional.
+Art. 2.º Todas as referências feitas no [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro, ao delegado regional consideram-se feitas à direcção regional.
 
-###### Art. 3.º Transita para o SPTT o património das actuais unidades hospitalares especializadas.
+Art. 3.º Transita para o SPTT o património das actuais unidades hospitalares especializadas.
 
-###### Art. 4.º São revogados os artigos 24.º a 28.º e 39.º do [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro.
+Art. 4.º São revogados os artigos 24.º a 28.º e 39.º do [Decreto-Lei n.º 43/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1994-516491), de 17 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1995.**
+Referendado em 18 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

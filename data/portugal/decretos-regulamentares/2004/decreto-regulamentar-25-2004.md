@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/165b00/42694278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/25/2004/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2004-527205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afbc8903d0b05220852c6ab1a794c2f918d2db98e09fe04d8fbb2ca8568a9a4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ff907163d2feeec3e2eed98338402f74527d944ad724894228fa9a65c186d8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Assinatura Digital
 - Certificado de Conformidade
-- Entidade Certificadora
 - Documentação Classificada
-- Fiscalização
-- Segurança da Informação
 - Documento Eletrónico
+- Entidade Certificadora
+- Fiscalização
+- Normalização
 - Nova Tecnologia
 - Pessoa Coletiva
 - Prova
-- Assinatura Digital
 - Reprodução de Documentos
-- Normalização
+- Segurança da Informação
 relationships:
 - type: amended_by
   target: pt:dre:156848060:por
@@ -92,16 +92,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
+- type: repealed_by
+  target: pt:dre:156848060:por
+  label: Revogado, a partir de 11.03.2021, pelo(a) Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09,
+    nos termos do disposto no seu art. 36.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2021-156848060
+  date: '2021-02-09'
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:00Z'
   warnings: []
   errors: []
 ---
@@ -784,12 +790,12 @@ A autoridade credenciadora assegura que se encontra disponível para acesso gera
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 22 de Junho de 2004.**
+Promulgado em 22 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Junho de 2004.**
+Referendado em 24 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

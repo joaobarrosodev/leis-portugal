@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0527505295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/2015/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2015-69920325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77a2464822618fe96a125c163977516211f1c392f3e097d72e86fcc0226b4171
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c0342ed3a987d08a52c2fdf3ca0eab92851e290937fd7c9f905a458ad0534bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Hospital das Forças Armadas
+- Açores
 - Centro de Informações e Segurança Militares
 - Chefe do Estado Maior General das Forças Armadas
+- Comando Militar
 - Comando Operacional
 - Comando Operacional Conjunto
 - Comando Operacional das Forças Armadas
-- Ensino Superior Militar
 - Definição de Competências
+- Ensino Superior Militar
 - Estado Maior Conjunto
-- Comando Militar
-- Forças Armadas
-- Orgânica
-- Madeira.região Autónoma
-- Quartel General de Operações Especiais
 - Estado Maior General das Forças Armadas
-- Açores
+- Forças Armadas
+- Hospital das Forças Armadas
+- Madeira.região Autónoma
+- Orgânica
+- Quartel General de Operações Especiais
 relationships:
 - type: amended_by
   target: pt:dre:214042394:por
@@ -126,16 +126,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66655592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:214042394:por
+  label: Revogado, a partir de 07.06.2023, pelo(a) Decreto Regulamentar n.º 2/2023 - Diário da República n.º 109/2023, Série
+    I de 2023-06-06 nos termos do art. 109.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2023-214042394
+  date: '2023-06-06'
 article_structure:
   article_count: 80
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:45Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +252,7 @@ e) A Unidade Nacional de Verificações (UNAVE).
 
 ###### Artigo 5.º — Competências do Chefe do Estado-Maior do Comando Conjunto para as Operações Militares
 
-**O Chefe do Estado-Maior do Comando Conjunto para as Operações Militares (CEMCCOM) depende diretamente do CEMGFA, competindo-lhe chefiar o CCOM.**
+O Chefe do Estado-Maior do Comando Conjunto para as Operações Militares (CEMCCOM) depende diretamente do CEMGFA, competindo-lhe chefiar o CCOM.
 
 ###### Artigo 6.º — Gabinete do Chefe do Estado-Maior do Comando Conjunto para as Operações Militares
 
@@ -440,7 +486,9 @@ c) A Secção Open Skies;
 
 d) A Secção de Apoio.
 
-###### Artigo 17.º — Secção de Operações e Instrução
+###### Artigo 17.º
+
+#### Secção de Operações e Instrução
 
 À Secção de Operações e Instrução compete:
 
@@ -456,7 +504,9 @@ e) Garantir a formação e qualificação de inspetores e acompanhantes da UNAVE
 
 f) Planear, preparar e supervisionar a conduta de exercícios, no âmbito dos acordos bilaterais e multilaterais e de controlo internacional de armamentos.
 
-###### Artigo 18.º — Secção de Bases de Dados
+###### Artigo 18.º
+
+#### Secção de Bases de Dados
 
 À Secção de Bases de Dados compete:
 
@@ -470,7 +520,9 @@ d) Manter atualizada e disponível, para consulta, a informação militar report
 
 e) Integrar a atividade operacional, quando superiormente determinado.
 
-###### Artigo 19.º — Secção Open Skies
+###### Artigo 19.º
+
+#### Secção Open Skies
 
 À Secção Open Skies compete:
 
@@ -710,7 +762,9 @@ h) Assegurar a receção, o registo, a distribuição, o controlo, o arquivo e a
 
 ### CAPÍTULO VI — Órgãos de Estado-Maior
 
-#### SECÇÃO I — Divisão de Planeamento Estratégico Militar
+#### SECÇÃO I
+
+##### Divisão de Planeamento Estratégico Militar
 
 ###### Artigo 30.º — Missão e estrutura
 
@@ -844,7 +898,9 @@ l) Avaliar e propor, no âmbito das respetivas competências, o desenvolvimento 
 
 m) Prever o reforço de forma incremental do CCOM, com elementos nomeados em ordem de batalha, os quais podem ser projetados integrados num quartel-general de força conjunta, quer em operações, quer para a realização de exercícios e treinos, nos planos externo e interno.
 
-#### SECÇÃO II — Divisão de Recursos
+#### SECÇÃO II
+
+##### Divisão de Recursos
 
 ###### Artigo 35.º — Missão e estrutura
 
@@ -1954,12 +2010,12 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Berta Maria Correia de Almeida de Melo Cabral - Anabela Maria Pinto de Miranda Rodrigues.
 
-**Promulgado em 27 de julho de 2015.**
+Promulgado em 27 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de julho de 2015.**
+Referendado em 30 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

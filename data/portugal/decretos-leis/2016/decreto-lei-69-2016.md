@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21100/0389003891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2016/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2016-75644170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e15cc1293a6fdcf64c253547ab923dda9e0ad5029b5f9c9a419a4e6f4f7a19fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 481c432d9786de4d25e994a9c0739fa7ff2556c4e0be0fe862e323d74f7970fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Terrestre
-- Definição de Competências
 - Combustível
+- Comércio
+- Definição de Competências
 - Fiscalização
 - Gasóleo
 - Gasolina
 - Importação
-- Produtor
 - Indústria Transformadora
+- Produtor
 - Sistema Petrolífero Nacional
-- Comércio
 - Transporte
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Derrogada durante o ano de 2017 a al. d) e mantida como meta de incorporação a prevista na al. c) ambas do n.º 1
+    do art. 11.º do Dec Lei 117/2010, de 25-out, na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República
+    n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Alterados, a partir de 01.01.2018, os arts. 10.º, 11.º, 14.º, 18.º e 24.º do Dec Lei 117/2010 de 25-out, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de
+    2017-12-11 nos termos da al. a) do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Derrogada, durante o ano de 2018, a al. d) e mantida como meta de incorporação a prevista na al. c) ambas do art.
+    11.º do Dec Lei 117/2010 de 25-out, com a redação dada pelo presente, pelo(a) Lei n.º 114/2017 - Diário da República n.º
+    249/2017, Série I de 2017-12-29, sem prejuízo do cumprimento das metas e objetivos para 2020 a que Portugal se encontra
+    vinculado, nos termos do disposto no art. 211.º desta útlima lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: celex:32009L0028
   label: null
@@ -131,6 +153,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/2012/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/2012/01/04/p/dre
+- type: cites
+  target: pt:dre:145264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70737913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0028
   label: null
@@ -140,15 +198,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:41Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +251,9 @@ Os artigos 10.º,11.º, 14.º, 18.º e 24.º do [Decreto-Lei n.º 117/2010](http
 
 4 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -203,7 +263,9 @@ Os artigos 10.º,11.º, 14.º, 18.º e 24.º do [Decreto-Lei n.º 117/2010](http
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -219,7 +281,9 @@ Os artigos 10.º,11.º, 14.º, 18.º e 24.º do [Decreto-Lei n.º 117/2010](http
 
 7 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A verificação do cumprimento da obrigação de incorporação prevista no n.º 1 do artigo 11.º é efetuada trimestralmente pela ENMC, E. P. E.
 
@@ -227,7 +291,9 @@ Os artigos 10.º,11.º, 14.º, 18.º e 24.º do [Decreto-Lei n.º 117/2010](http
 
 3 - A ENMC, E. P. E., procede ao cancelamento dos TdB apresentados ao abrigo do n.º 2 do artigo 11.º e do número anterior.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O incumprimento das obrigações de apresentação dos TdB como comprovativo da incorporação de biocombustíveis nos termos do n.º 2 do artigo 11.º e dos artigos 13.º e 18.º determina o pagamento de compensações no valor de (euro) 2 000, por cada TdB em falta.
 
@@ -269,12 +335,12 @@ b) A [Portaria n.º 301/2011](https://diariodarepublica.pt/dr/detalhe/portaria/3
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Pedro Manuel Dias de Jesus Marques - Jorge Filipe Teixeira Seguro Sanches - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2016.**
+Referendado em 27 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

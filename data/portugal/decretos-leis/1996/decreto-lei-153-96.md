@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/201a00/28332837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1996/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1996-241375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10bea90dc0a9715d43cfcc34905458a699418916d6c3700072419e83188a057e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5eeb5274f1cd7f2ee12c8d055a081193e4c07545e1b5e9c8af2de386867c860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Multa
-- Radiactividade
-- Radioprotecção
-- Direção Geral da Saúde
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral da Saúde
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Fiscalização
 - Licenciamento
+- Multa
 - Proteção do Ambiente
+- Radiactividade
+- Radioprotecção
+- Saúde Pública
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:517982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:205669:por
+  label: "Derrogado pelo DEC LEI.165/2002.2002.07.17.MS DR.IS-A [163], relativamente à matéria que contrarie as disposições\
+    \ daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2002-205669
+  date: '2002-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/65/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517982:por
+  label: "Revogado pelo DEC LEI.38/2007.19.02.2007.MCTES, DR.IS [35] de 19.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2007-517982
+  date: '2007-02-19'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:22Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +283,15 @@ A DGA, em caso de emergência ou sempre que entenda haver perigo iminente, poder
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1996. - António Manuel de Oliveira Guterres - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira José Mariano Rebelo Pires Gago.
 
-**Promulgado em 10 de Agosto de 1996.**
+Promulgado em 10 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Agosto de 1996.**
+Referendado em 13 de Agosto de 1996.
 
-**O Primeiro-Ministro, em exercício António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO I — Requerimento para licenciamento de actividades que envolvam fontes radioactivas seladas
 

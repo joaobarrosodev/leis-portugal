@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23274-1968-234878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8e6ba919d6d1a78c961978c3e8867cf5e2b06dcbd8bc8e60a1d04a99a7984b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 020a0351454aa4f2d81a6fa03411be843bbd3e63dad77e84bb2a22dffc7323a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:26Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, que pela verba do n.º 1) do artigo 26.º, capítulo 5.º, do orçamento em vigor sejam abonadas às embaixadas e consulados de Portugal abaixo indicados durante o ano económico de 1968 as importâncias mensais a seguir mencionadas, a fim de ocorrerem ao pagamento de salários ao pessoal assalariado em serviço nos referidos postos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/06600/03680374.pdf))](https://files.diariodarepublica.pt/1s/1968/03/06600/03680374.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/06600/03680374.pdf)
 
 Ministério dos Negócios Estrangeiros, 18 de Março de 1968. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
 

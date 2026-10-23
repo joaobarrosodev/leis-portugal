@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/05/12400/08060808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22016-1966-473492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c06648c9436dfa58e04d2c8fdc9e606bd676b17338710783010ab79bccda76a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d1408ec29d52ade03c2d28d71278e87df4c299c865bd308b0ff3e86d7597fc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Definição de Competências
+- Habilitações Literárias
+- Instrução Militar
+- Marinha
+- Militar
+- Recrutamento Militar
+- Reserva
 relationships:
 - type: amended_by
   target: pt:dre:383003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234547:por
+  label: "Alterado o n.º 2 do presente diploma, pela PORT.23320.19.04.1968.MMAR, DG.IS [94] de 19.04.1968\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23320-1968-234547
+  date: '1968-04-19'
+- type: amended_by
+  target: pt:dre:526074:por
+  label: "Dada nova redacção à al. b) do n.º 5º, al. b) do n.º 9º e aos n.ºs 12º, 13º, 16.º e 17.º do presente diploma, pela\
+    \ PORT.24009.01.04.1969.MMAR, DG.IS [77] de 01.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24009-1969-526074
+  date: '1969-04-01'
+- type: amended_by
+  target: pt:dre:139274:por
+  label: "Dada nova redacção ao n.º 7 do presente diploma, pela PORT.403/70.18.08.1970.MMAR, DG.IS [190] de 18.08.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-1970-139274
+  date: '1970-08-18'
+- type: amended_by
+  target: pt:dre:683249:por
+  label: "Substituídos os n.ºs 8º, 9º (na redacção da Port 24009 de 1-Abr de 1969), 10º, 11º e 12º (na redacção da Port 24009\
+    \ de 1-Abr de 1969) do presente diploma, pela Portaria PORT.64/73.01.02.1973.MMAR, DG.IS [27] de 01.02.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-1973-683249
+  date: '1973-02-01'
+- type: amended_by
+  target: pt:dre:410939:por
+  label: "Dada nova redação ao n.ºs 3 e 4 do presente diploma, pela PORT.880/73.12.12.1973.MMAR, DG.IS [288] de 12.12.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-1973-410939
+  date: '1973-12-12'
+- type: cites
+  target: pt:dre:370403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559993:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:383003:por
+  label: "Revogado o presente diploma, alterado pelas Ports n.º 23320, de 19-Abr de 1968, n.º 24099 de 1-Abr de 1969, n.º\
+    \ 403/70 de 18-Ago, n.º 64/73 de 1-Fev e n.º 880/73 de 12-Dez, pela PORT.138/79.30.03.1979.CR, DR.IS [75] de 30.03.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1979-383003
+  date: '1979-03-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:34Z'
   warnings: []
   errors: []
 ---

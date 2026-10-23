@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30400/19911994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24510-1969-213239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7adf937f97f417457bcd9ed7d855476455f815fe3fd857b97c39193d21a27982
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0437956856d85b3e35988ea70cb0487ea5dd95c9ca2ef965dc9481259274c979
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:644286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:526205:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:644286:por
+  label: "Revogado, o Regulamento aprovado no presente diploma, pela PORT.225/71.01.05.1971.MOP, DG.IS [102] de 01.05.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-1971-644286
+  date: '1971-05-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:53Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +104,9 @@ REGULAMENTO GERAL DOS SERVIÇOS SOCIAIS DO MINISTÉRIO DAS COMUNICAÇÕES
 
 ### CAPÍTULO I — Dos fins e âmbito
 
-###### Artigo 1.º Os Serviços Sociais do Ministério das Comunicações (S. S. M. C.), criados pelo [Decreto-Lei n.º 48952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48952-1969-526205), de 3 de Abril de 1969, constituem um serviço público administrativa e financeiramente autónomo, dotado de personalidade jurídica, destinado a exercer uma acção de carácter social, cultural e de previdência em benefício dos servidores do Ministério das Comunicações que não estejam ainda abrangidos por organizações assistenciais existentes em departamentos autónomos do mesmo Ministério.
+Artigo 1.º Os Serviços Sociais do Ministério das Comunicações (S. S. M. C.), criados pelo [Decreto-Lei n.º 48952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48952-1969-526205), de 3 de Abril de 1969, constituem um serviço público administrativa e financeiramente autónomo, dotado de personalidade jurídica, destinado a exercer uma acção de carácter social, cultural e de previdência em benefício dos servidores do Ministério das Comunicações que não estejam ainda abrangidos por organizações assistenciais existentes em departamentos autónomos do mesmo Ministério.
 
-###### Art. 2.º - 1. A actividade a desenvolver pelos S. S. M. C. para a realização dos fins próprios abrangerá, em especial, os seguintes campos de acção:
+Art. 2.º - 1. A actividade a desenvolver pelos S. S. M. C. para a realização dos fins próprios abrangerá, em especial, os seguintes campos de acção:
 
 A) Centro de Assistência Médico-Cirúrgica, compreendendo os seguintes domínios:
 
@@ -162,13 +172,13 @@ F) Cofre de auxílio.
 
 2. O campo de acção dos S. S. M. C. poderá alargar-se a quaisquer outras actividades de reconhecido interesse para os beneficiários, desde que para tal sejam autorizados por despacho do Ministro das Comunicações.
 
-###### Art. 3.º A concessão dos benefícios dos S. S. M. C. far-se-á gradualmente, na medida em que as possibilidades de organização e os recursos financeiros o permitam.
+Art. 3.º A concessão dos benefícios dos S. S. M. C. far-se-á gradualmente, na medida em que as possibilidades de organização e os recursos financeiros o permitam.
 
 ### CAPÍTULO II — Dos beneficiários
 
 a) População abrangida
 
-###### Art. 4.º - 1. Podem ser beneficiários dos S. S. M. C. todos os servidores dos diversos serviços que compõem o Ministério das Comunicações ou estão dependentes do respectivo Ministro, com excepção dos que estão colocados em serviços autónomos do mesmo Ministério que possuam assistência social própria e que pertençam a qualquer das seguintes categorias:
+Art. 4.º - 1. Podem ser beneficiários dos S. S. M. C. todos os servidores dos diversos serviços que compõem o Ministério das Comunicações ou estão dependentes do respectivo Ministro, com excepção dos que estão colocados em serviços autónomos do mesmo Ministério que possuam assistência social própria e que pertençam a qualquer das seguintes categorias:
 
 1.º Servidores que exerçam funções de carácter permanente, seja qual for a forma de provimento e desde que tenham direito à aposentação;
 
@@ -184,29 +194,29 @@ a) População abrangida
 
 2. A extensão dos benefícios dos S. S. M. C. aos agregados familiares a cargo dos servidores pode ser parcial para alguns desses benefícios ou para todos e em condições iguais às dos próprios servidores, ou diferentes, consoante constar dos regulamentos privativos de cada um dos diversos sectores assistenciais.
 
-###### Art. 5.º Podem também ser abrangidos pelos benefícios dos S. S. M. C. os servidores pertencentes a outros Ministérios, designadamente do Ministério das Finanças, que prestem serviço junto do Ministério das Comunicações, desde que não usufruam de quaisquer regalias do mesmo género nos serviços de que dependem.
+Art. 5.º Podem também ser abrangidos pelos benefícios dos S. S. M. C. os servidores pertencentes a outros Ministérios, designadamente do Ministério das Finanças, que prestem serviço junto do Ministério das Comunicações, desde que não usufruam de quaisquer regalias do mesmo género nos serviços de que dependem.
 
 b) Direitos e deveres
 
-###### Art. 6.º O direito às regalias dos S. S. M. C. exige uma inscrição prévia dos pretendentes a beneficiários, quer dos próprios servidores, quer dos seus familiares, nas condições estabelecidas no presente Regulamento, significando esse acto a aceitação das vantagens e das obrigações inerentes.
+Art. 6.º O direito às regalias dos S. S. M. C. exige uma inscrição prévia dos pretendentes a beneficiários, quer dos próprios servidores, quer dos seus familiares, nas condições estabelecidas no presente Regulamento, significando esse acto a aceitação das vantagens e das obrigações inerentes.
 
-###### Art. 7.º - 1. Os servidores que pretendam inscrever-se devem apresentar a sua declaração, por escrito, no serviço de que dependem, a qual será remetida aos S. S. M. C. acompanhada de um extracto do cadastro do impetrante e de informação que permita avaliar se o pretendente satisfaz as condições de admissão.
+Art. 7.º - 1. Os servidores que pretendam inscrever-se devem apresentar a sua declaração, por escrito, no serviço de que dependem, a qual será remetida aos S. S. M. C. acompanhada de um extracto do cadastro do impetrante e de informação que permita avaliar se o pretendente satisfaz as condições de admissão.
 
 2. Exceptuam-se os servidores aludidos no artigo 5.º, que apresentarão o seu pedido de inscrição directamente aos S. S. M. C.
 
-###### Art. 8.º A prova de que os familiares estão a cargo do servidor faz-se por apresentação de atestado da junta de freguesia onde o aglomerado familiar reside, ou por declaração prestada por dois funcionários do departamento onde o interessado presta serviço, de categoria igual ou superior à sua.
+Art. 8.º A prova de que os familiares estão a cargo do servidor faz-se por apresentação de atestado da junta de freguesia onde o aglomerado familiar reside, ou por declaração prestada por dois funcionários do departamento onde o interessado presta serviço, de categoria igual ou superior à sua.
 
-###### Art. 9.º Os servidores inscritos ficam sujeitos à jurisdição disciplinar dos S. S. M. C. pelos actos praticados como beneficiários, podendo ainda ser punidos disciplinarmente de acordo com os estatutos disciplinares que lhes sejam aplicáveis nos departamentos em que estão colocados.
+Art. 9.º Os servidores inscritos ficam sujeitos à jurisdição disciplinar dos S. S. M. C. pelos actos praticados como beneficiários, podendo ainda ser punidos disciplinarmente de acordo com os estatutos disciplinares que lhes sejam aplicáveis nos departamentos em que estão colocados.
 
-###### Art. 10.º - 1. Perdem os direitos aos benefícios dos S. S. M. C. os servidores neles inscritos que solicitem a anulação da inscrição, sejam exonerados, dispensados ou demitidos, ou passem à situação de inactividade fora do quadro por outra razão que não a de doença.
+Art. 10.º - 1. Perdem os direitos aos benefícios dos S. S. M. C. os servidores neles inscritos que solicitem a anulação da inscrição, sejam exonerados, dispensados ou demitidos, ou passem à situação de inactividade fora do quadro por outra razão que não a de doença.
 
 2. Perdem também a qualidade de beneficiários os servidores a quem seja aplicada tal sanção em virtude de processo disciplinar organizado pelos próprios S. S. M. C. ou, por sua participação, pelos serviços de que os servidores dependem.
 
-###### Art. 11.º A prestação de falsas declarações por parte dos beneficiários pode implicar, a par da responsabilidade disciplinar e criminal que lhes couber, a indemnização total das importâncias indevidamente liquidadas.
+Art. 11.º A prestação de falsas declarações por parte dos beneficiários pode implicar, a par da responsabilidade disciplinar e criminal que lhes couber, a indemnização total das importâncias indevidamente liquidadas.
 
 c) Pagamento ou gratuitidade dos serviços prestados
 
-###### Art. 12.º - 1. De uma forma genérica, os serviços prestados pelos S. S. M. C. são suportados, em regime de comparticipação de despesas, entre esse serviço e os próprios beneficiários.
+Art. 12.º - 1. De uma forma genérica, os serviços prestados pelos S. S. M. C. são suportados, em regime de comparticipação de despesas, entre esse serviço e os próprios beneficiários.
 
 2. As percentagens da comparticipação são variáveis em função da categoria dos beneficiários (vencimentos auferidos) e do maior ou menor grau de parentesco dos seus familiares, conforme tabelas a aprovar pelo Ministro das Comunicações para cada um dos departamentos em que a assistência se decompõe.
 
@@ -214,37 +224,37 @@ c) Pagamento ou gratuitidade dos serviços prestados
 
 4. Admite-se, contudo, a prestação de serviços gratuitos, ou uma percentagem de valor uniforme para todos os servidores, sempre que a natureza do serviço ou outra razão especial o aconselhem.
 
-###### Art. 13.º - 1. O pagamento das comparticipações pelos beneficiários faz-se, normalmente, por dedução nos respectivos vencimentos, de uma só vez ou em fracções, conforme o seu montante, de acordo com relações a processar nos S. S. M. C. e a enviar aos serviços de que os servidores dependem, que promovem, por sua vez, as entregas das importâncias descontadas na tesouraria dos S. S. M. C.
+Art. 13.º - 1. O pagamento das comparticipações pelos beneficiários faz-se, normalmente, por dedução nos respectivos vencimentos, de uma só vez ou em fracções, conforme o seu montante, de acordo com relações a processar nos S. S. M. C. e a enviar aos serviços de que os servidores dependem, que promovem, por sua vez, as entregas das importâncias descontadas na tesouraria dos S. S. M. C.
 
 2. No caso de servidores aposentados ou noutras situações em que as deduções se não possam efectivar nos vencimentos ou pensões, as entregas das prestações terão de ser efectuadas directamente pelos próprios na tesouraria dos S. S. M. C.
 
-###### Art. 14.º - 1. Se o montante da comparticipação ou a acumulação de dívidas anteriores atingir importância que exceda a possibilidade do pagamento por parte do devedor, admite-se o pagamento em fracções mensais, em regra de 10 por cento do seu vencimento.
+Art. 14.º - 1. Se o montante da comparticipação ou a acumulação de dívidas anteriores atingir importância que exceda a possibilidade do pagamento por parte do devedor, admite-se o pagamento em fracções mensais, em regra de 10 por cento do seu vencimento.
 
 2. O pagamento de rendas de casas, abastecimento mensal de produtos alimentares ou outros da mesma índole não deve, em regra, ser considerado pelo disposto no número anterior, por se tratar de despesas normais, a satisfazer de uma só vez.
 
 3. Se o saldo em dívida atingir importância elevada, considerando-se como tal a que exceder três meses de vencimento do servidor interessado, deve procurar-se que a prestação a satisfazer seja mais elevada, e só devem ser prestados serviços a crédito nos casos de urgência na sua utilização e verificada a impossibilidade de o excedente ser pago a pronto.
 
-###### Art. 15.º Os pedidos de exoneração, licença ilimitada e licença sem vencimento dos servidores inscritos como beneficiários só deverão ser deferidos perante informação dos S. S. M. C. negativa de qualquer débito do requerente, ou a apresentação de garantia considerada bastante.
+Art. 15.º Os pedidos de exoneração, licença ilimitada e licença sem vencimento dos servidores inscritos como beneficiários só deverão ser deferidos perante informação dos S. S. M. C. negativa de qualquer débito do requerente, ou a apresentação de garantia considerada bastante.
 
-###### Art. 16.º A impossibilidade de cobrança de dívidas provenientes de prestações em atraso, ou saldos em dívida não satisfeitos directamente pelos interessados nos prazos que lhes sejam marcados, conduz ao seu encaminhamento para o tribunal das execuções fiscais, servindo de base à execução fiscal uma certidão passada pelos S. S. M. C.
+Art. 16.º A impossibilidade de cobrança de dívidas provenientes de prestações em atraso, ou saldos em dívida não satisfeitos directamente pelos interessados nos prazos que lhes sejam marcados, conduz ao seu encaminhamento para o tribunal das execuções fiscais, servindo de base à execução fiscal uma certidão passada pelos S. S. M. C.
 
 ### CAPÍTULO III — Da forma de execução dos serviços
 
-###### Art. 17.º - 1. Os pormenores de execução dos serviços dos diversos pelouros em que se desdobra a actividade dos S. S. M. C. constarão de regulamentos próprios a elaborar pela direcção e a aprovar pelo Ministro das Comunicações.
+Art. 17.º - 1. Os pormenores de execução dos serviços dos diversos pelouros em que se desdobra a actividade dos S. S. M. C. constarão de regulamentos próprios a elaborar pela direcção e a aprovar pelo Ministro das Comunicações.
 
 2. Tais regulamentos poderão ser alterados pela direcção em questões de pormenor, desde que a doutrina básica inicial não seja afectada.
 
-###### Art. 18.º - 1. Os S. S. M. C. terão instalações próprias, onde funcionarão os serviços centrais burocráticos, o Centro de Assistência Médico-Cirúrgica e, possìvelmente, uma cantina de alimentação fornecida em sistema de self-service.
+Art. 18.º - 1. Os S. S. M. C. terão instalações próprias, onde funcionarão os serviços centrais burocráticos, o Centro de Assistência Médico-Cirúrgica e, possìvelmente, uma cantina de alimentação fornecida em sistema de self-service.
 
 2. Além das instalações centrais, poderão ser criadas delegações e filiais onde tal se justifique.
 
-###### Art. 19.º Os S. S. M. C. serão dotados do pessoal necessário à boa execução dos seus fins, podendo os diversos lugares ser desempenhados por funcionários destacados de outros serviços do Estado, em regime de comissão, ou por pessoal contratado nas condições de remuneração e outras que forem fixadas por despacho do Ministro das Comunicações.
+Art. 19.º Os S. S. M. C. serão dotados do pessoal necessário à boa execução dos seus fins, podendo os diversos lugares ser desempenhados por funcionários destacados de outros serviços do Estado, em regime de comissão, ou por pessoal contratado nas condições de remuneração e outras que forem fixadas por despacho do Ministro das Comunicações.
 
-###### Art. 20.º Para a realização dos seus fins, os S. S. M. C. poderão colaborar com outras instituições similares nos termos do artigo 6.º do [Decreto-Lei n.º 48952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48952-1969-526205), ou fazer acordos ou contratos com cooperativas, estabelecimentos comerciais ou industriais.
+Art. 20.º Para a realização dos seus fins, os S. S. M. C. poderão colaborar com outras instituições similares nos termos do artigo 6.º do [Decreto-Lei n.º 48952](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48952-1969-526205), ou fazer acordos ou contratos com cooperativas, estabelecimentos comerciais ou industriais.
 
 ### CAPÍTULO IV — Da administração
 
-###### Art. 21.º São órgãos de administração dos S. S. M. C.:
+Art. 21.º São órgãos de administração dos S. S. M. C.:
 
 a) Direcção;
 
@@ -252,21 +262,21 @@ b) Conselho consultivo;
 
 c) Comissão verificadora de contas.
 
-###### Art. 22.º - 1. A direcção será constituída por três a cinco membros, sendo um presidente e dois a quatro vogais.
+Art. 22.º - 1. A direcção será constituída por três a cinco membros, sendo um presidente e dois a quatro vogais.
 
 2. Um dos vogais será a enfermeira-superintendente e um dos restante vogais terá a função de adjunto do presidente.
 
 3. Anexos à direcção existirão ainda um consultor técnico social e um consultor jurídico (este no caso de nenhum dos vogais ser formado em Direito) e o director clínico do Centro de Assistência.
 
-###### Art. 23.º O conselho consultivo será presidido pelo Secretário-Geral do Ministério e dele farão parte os directores-gerais da Aeronáutica Civil, do Serviço Meteorológico Nacional e de Transportes Terrestres e os presidentes da Junta Central de Portos e do Gabinete de Estudos e Planeamento de Transportes Terrestres.
+Art. 23.º O conselho consultivo será presidido pelo Secretário-Geral do Ministério e dele farão parte os directores-gerais da Aeronáutica Civil, do Serviço Meteorológico Nacional e de Transportes Terrestres e os presidentes da Junta Central de Portos e do Gabinete de Estudos e Planeamento de Transportes Terrestres.
 
-###### Art. 24.º A comissão verificadora de contas será composta de três representantes dos órgãos que constituem o conselho consultivo referido no artigo anterior, e a eleger de entre eles, um dos quais presidirá.
+Art. 24.º A comissão verificadora de contas será composta de três representantes dos órgãos que constituem o conselho consultivo referido no artigo anterior, e a eleger de entre eles, um dos quais presidirá.
 
-###### Art. 25.º - 1. Os componentes dos órgãos de administração serão nomeados ou confirmados por despacho do Ministro das Comunicações, que aprovará as respectivas remunerações, gratificações ou senhas de presença.
+Art. 25.º - 1. Os componentes dos órgãos de administração serão nomeados ou confirmados por despacho do Ministro das Comunicações, que aprovará as respectivas remunerações, gratificações ou senhas de presença.
 
 2. Pode, ainda, o Ministro das Comunicações mandar agregar ao conselho consultivo e à comissão verificadora de contas um seu representante pessoal.
 
-###### Art. 26.º Ao presidente da direcção, além de outras atribuições que lhe sejam conferidas por lei, regulamentos ou despachos do Ministro das Comunicações, compete:
+Art. 26.º Ao presidente da direcção, além de outras atribuições que lhe sejam conferidas por lei, regulamentos ou despachos do Ministro das Comunicações, compete:
 
 1.º Dirigir e coordenar todos os serviços dos S. S. M. C., reunindo a direcção quinzenalmente e sempre que o entenda necessário;
 
@@ -286,7 +296,7 @@ c) Comissão verificadora de contas.
 
 9.º Zelar pelo cumprimento das leis, regulamentos, normas e instruções aplicáveis aos S. S. M. C.
 
-###### Art. 27.º Aos vogais da direcção compete:
+Art. 27.º Aos vogais da direcção compete:
 
 a) Ao adjunto do presidente, coadjuvá-lo no exercício das funções do seu cargo e substituí-lo nos seus impedimentos e ausências;
 
@@ -300,7 +310,7 @@ Contabilidade;
 
 Tesouraria.
 
-###### Art. 28.º - 1. O conselho consultivo reunirá de ordinário uma vez por mês e extraordinàriamente sempre que o seu presidente o julgue conveniente ou por solicitação do presidente da direcção.
+Art. 28.º - 1. O conselho consultivo reunirá de ordinário uma vez por mês e extraordinàriamente sempre que o seu presidente o julgue conveniente ou por solicitação do presidente da direcção.
 
 2. O conselho consultivo será obrigatòriamente ouvido sobre os seguintes assuntos:
 
@@ -320,7 +330,7 @@ Tesouraria.
 
 8.º Apreciação da actividade anual da organização.
 
-###### Art. 29.º A comissão verificadora de contas reunirá uma vez por trimestre, competindo-lhe:
+Art. 29.º A comissão verificadora de contas reunirá uma vez por trimestre, competindo-lhe:
 
 a) Fiscalizar a contabilidade dos S. S. M. C;
 
@@ -330,7 +340,7 @@ c) Quaisquer outras atribuições que venham a ser-lhe conferidas.
 
 ### CAPÍTULO V — Dos meios financeiros e sua gerência
 
-###### Art. 30.º Constituem receitas dos S. S. M. C.:
+Art. 30.º Constituem receitas dos S. S. M. C.:
 
 a) As verbas inscritas no Orçamento Geral do Estado, nas dotações atribuídas ao Ministério das Comunicações, para obras de carácter social e cultural a favor dos servidores que gozem dos benefícios desse organismo;
 
@@ -346,15 +356,15 @@ f) Os juros de fundos capitalizados e outros rendimentos;
 
 g) Quaisquer outras que lhe venham a ser destinadas por lei, regulamento ou por despacho do Ministro das Comunicações.
 
-###### Art. 31.º As receitas provenientes de rendimentos próprios ou de subsídios devem ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência, numa ou mais contas, consoante as conveniências e necessidades, todas à ordem dos S. S. M. C., e movimentadas por meio de cheques assinados pelo presidente da direcção ou adjunto e pelo chefe do serviço de contabilidade ou tesoureiro.
+Art. 31.º As receitas provenientes de rendimentos próprios ou de subsídios devem ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência, numa ou mais contas, consoante as conveniências e necessidades, todas à ordem dos S. S. M. C., e movimentadas por meio de cheques assinados pelo presidente da direcção ou adjunto e pelo chefe do serviço de contabilidade ou tesoureiro.
 
-###### Art. 32.º - 1. As despesas dos S. S. M. C. serão as que resultem da execução dos suas finalidades, em conformidade com os orçamentos superiormente aprovados.
+Art. 32.º - 1. As despesas dos S. S. M. C. serão as que resultem da execução dos suas finalidades, em conformidade com os orçamentos superiormente aprovados.
 
 2. Na efectivação das despesas deve ter-se em conta os princípios de sã economia, de austeridade e de segurança adoptados nos serviços públicos, sendo, porém, dispensadas as formalidades de visto pelo Tribunal de Contas.
 
-###### Art. 33.º Uma contabilidade elaborada segundo as boas normas técnicas garantirá a boa execução dos serviços, o acautelamento dos dinheiros públicos e a perfeita prestação de contas.
+Art. 33.º Uma contabilidade elaborada segundo as boas normas técnicas garantirá a boa execução dos serviços, o acautelamento dos dinheiros públicos e a perfeita prestação de contas.
 
-###### Art. 34.º - 1. A competência para a fixação de despesas para a realização de concursos públicos ou particulares e para a elaboração de contratos será fixada em despacho do Ministro das Comunicações.
+Art. 34.º - 1. A competência para a fixação de despesas para a realização de concursos públicos ou particulares e para a elaboração de contratos será fixada em despacho do Ministro das Comunicações.
 
 2 Dependem, porém, sempre de despacho de autorização do Ministro das Comunicações:
 
@@ -370,12 +380,12 @@ e) Os contratos de arrendamento para instalação dos serviços.
 
 ### CAPÍTULO VI — Disposições transitórias e finais
 
-###### Art. 35.º - 1. Para efeito da montagem e instalação dos serviços e enquanto não forem nomeados os corpos directivos dos S. S. M. C., pode o Ministro das Comunicações designar uma comissão instaladora, composta de um presidente e dois vogais, nas condições que constarem do despacho de nomeação, comissão que terá a mesma competência que o Regulamento atribui ao presidente da direcção dos S. S. M. C.
+Art. 35.º - 1. Para efeito da montagem e instalação dos serviços e enquanto não forem nomeados os corpos directivos dos S. S. M. C., pode o Ministro das Comunicações designar uma comissão instaladora, composta de um presidente e dois vogais, nas condições que constarem do despacho de nomeação, comissão que terá a mesma competência que o Regulamento atribui ao presidente da direcção dos S. S. M. C.
 
 2. A comissão instaladora pode movimentar as contas a que se refere o artigo 34.º, devendo os cheques ser assinados em conjunto por tordos os seus membros.
 
-###### Art. 36.º As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho do Ministro das Comunicações, sob proposta da direcção.
+Art. 36.º As dúvidas suscitadas na execução deste Regulamento e os casos omissos serão resolvidos por despacho do Ministro das Comunicações, sob proposta da direcção.
 
-###### Art. 37.º Este Regulamento entra imediatamente em vigor.
+Art. 37.º Este Regulamento entra imediatamente em vigor.
 
 Ministério das Comunicações, 31 de Dezembro de 1969. - O Ministro das Comunicações, Fernando Alberto de Oliveira.

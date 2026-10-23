@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/185/2007/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aacc711327ea24663a1568305c5225538b21a16c92225e7e88fc25b6dd400d47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d2d0f09562003c56c4af6d9b130716d1ccb73edfb5d6f5c78e098537ca9fd25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
+- Companhia de Seguros
 - Contrato de Seguro
 - Fundo de Acidentes de Trabalho
 - Pensão de Invalidez
 - Proteção Social
 - Reembolso
-- Companhia de Seguros
 - Segurança Social
 - Seguro de Acidentes de Trabalho
 relationships:
@@ -80,6 +80,19 @@ relationships:
   target: pt:dre:74126124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615035:por
+  label: "Suspenso, transitoriamente, o regime de actualização anual do valor das pensões de acidentes de trabalho, previsto\
+    \ no artigo 6.º do Dec Lei 142/99, de 30 de Abril, com a redacção conferida neste diploma, pelo DEC LEI.47/2010.10.05.2010.MFAP,\
+    \ DR.IS [90] de 10.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2010-615035
+  date: '2010-05-10'
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Alterado o art. 6.º do Dec Lei 142/99 de 30-abr, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    18/2016 - Diário da República n.º 72/2016, Série I de 2016-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/1999/04/30/p/dre
   label: null
@@ -96,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:23Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +213,9 @@ d) ...
 
 7 - Não se encontram abrangidas na alínea c) do n.º 1 os juros de mora quando relacionados com o atraso no pagamento de pensões, nem as actualizações das pensões transferidas para as empresas de seguros no âmbito da obrigação de caucionamento das pensões pelo empregador.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +241,9 @@ h) ...
 
 4 - Para efeitos do cálculo das provisões matemáticas das prestações suplementares por assistência de terceira pessoa, consideram-se as bases técnicas e respectivas tabelas práticas de cálculo do capital de remição das pensões de acidentes de trabalho, em vigor a 31 de Dezembro de cada ano.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O valor das pensões de acidentes de trabalho é actualizado anualmente com efeitos a 1 de Janeiro de cada ano, tendo em conta os seguintes indicadores de referência:
 
@@ -244,7 +277,9 @@ Acidentes em serviço
 
 2 - Para efeitos do número anterior, a Caixa Geral de Aposentações comunica, por via electrónica, ao FAT e à empresa de seguros para a qual o risco de acidentes em serviço se encontre transferido, os casos por ela conhecidos de acidentes de que tenha resultado a morte do sinistrado sem que este tenha deixado beneficiários com direito a pensão.
 
-###### Artigo 5.º-B — Sub-rogação e privilégios creditórios
+Artigo 5.º-B
+
+Sub-rogação e privilégios creditórios
 
 1 - O FAT fica sub-rogado nos direitos e privilégios creditórios dos sinistrados e ou beneficiários, na medida dos pagamentos efectuados, bem como das respectivas provisões matemáticas, acrescidos dos juros de mora que se venham a vencer, para ele revertendo os valores obtidos por via da sub-rogação.
 
@@ -264,12 +299,12 @@ As remissões efectuadas para os artigos do Código do Trabalho, aprovado pela [
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 23 de Abril de 2007.**
+Promulgado em 23 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

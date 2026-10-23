@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2002/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2002-276450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50ae2db5e1dbd6c6b23e57797db0489cdb42dc54b0f448dcce03a54b2c17a5f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3a33bf7d1e4b75fb123be9c5bab4890521d72b2b89ea84e7eacd1002c4905fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
+- Administração Pública
 - Admissão de Pessoal
 - Ajuda Comunitária
 - Alienação de Imóveis
@@ -73,76 +74,75 @@ subjects:
 - Aquisição de Bens e Serviços
 - Autonomia Administrativa
 - Autorização de Despesas
-- Ministério da Defesa Nacional
-- Formação Profissional
-- Ministério da Administração Interna
-- Gestão Financeira
+- Comissão Nacional de Família
 - Comparticipação do Estado
-- Ministério da Educação
-- Ministro do Trabalho e da Solidariedade
-- IPDT
-- Serviços de Registo e Notariado
 - Conta Especial de Emergência
-- Política de Cooperação
-- Timor Leste
+- Contabilidade Pública
 - Dação em Cumprimento
+- Departamento de Estudos Prospectiva e Planeamento
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
-- Instituto de Gestão do Crédito Público
+- Direcção Geral da Solidariedade e Segurança Social
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Doença Profissional
 - Dotação Orçamental
 - Duodécimo
 - Empreitada de Obras Públicas
+- Ensino Básico
+- Ensino Superior
 - Ensino Superior Politécnico
+- Equipamento Informático
 - Equipamento Social
-- Administração Pública
-- Sistema Retributivo
-- Presidência Portuguesa
+- Estabelecimento de Ensino
 - Execução do Orçamento
 - Fiscalização
+- Formação Profissional
+- Funcionário Público
 - Fundo de Maneio
 - Fundo Permanente
+- Gabinete de Estudos e Planeamento de Instalações
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério da Justiça
-- Ministro das Finanças
 - Indemnização
 - Indep
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
+- IPDT
 - Jardim de Infância
-- Tribunal de Contas
-- Veículo
 - Locação Financeira
-- Gabinete de Estudos e Planeamento de Instalações
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Departamento de Estudos Prospectiva e Planeamento
-- Direcção Geral da Solidariedade e Segurança Social
+- Ministério da Administração Interna
+- Ministério da Defesa Nacional
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério dos Negócios Estrangeiros
+- Ministro das Finanças
+- Ministro do Trabalho e da Solidariedade
 - Missão de PAZ
 - Missão Humanitária
 - Obras Públicas
-- Comissão Nacional de Família
-- Orçamento Geral do Estado
-- Equipamento Informático
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
 - Organismo Autónomo
-- Doença Profissional
+- OSCE
 - Piddac
-- Estabelecimento de Ensino
-- Ensino Básico
+- Política de Cooperação
+- Presidência Portuguesa
 - Promoção Profissional
 - Quadro de Excedentes
 - Quadro de Pessoal
 - Receita Própria
-- Ensino Superior
 - Remuneração
 - Reposição de Verbas
-- OSCE
-- Ministério dos Negócios Estrangeiros
 - Segurança Social
-- Funcionário Público
-- Gestão de Recursos Humanos
-- Contabilidade Pública
+- Serviços de Registo e Notariado
+- Sistema Retributivo
 - Tabela Salarial
+- Timor Leste
 - Transferência de Competências
 - Transferência de Verbas
+- Tribunal de Contas
+- Veículo
 - Visto do Tribunal de Contas
 relationships:
 - type: cites
@@ -152,13 +152,13 @@ relationships:
 article_structure:
   article_count: 63
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:32Z'
   warnings: []
   errors: []
 ---
@@ -775,12 +775,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Henrique Nuno Pires Severiano Teixeira - Rui António Ferreira da Cunha - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Júlio Domingos Pedrosa da Luz de Jesus - António Fernando Correia de Campos - Paulo José Fernandes Pedroso - Manuel Pedro Cunha da Silva Pereira - Augusto Ernesto Santos Silva - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida - Acácio Manuel de Frias Barreiros.
 
-**Promulgado em 21 de Janeiro de 2001.**
+Promulgado em 21 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Janeiro de 2002.**
+Referendado em 22 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

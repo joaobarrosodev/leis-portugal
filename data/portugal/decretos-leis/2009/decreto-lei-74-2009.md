@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2009/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2009-603207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92440cca6152bdd253cc285f12e6b422de2e7e504db2061e5a89271f71be27cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69ee56a93d5505af8c29306366c294f196b9965f7df3a7ad7491762f600fdf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Ajuda Comunitária
+- Atividade Agrícola
+- Auxílio de Minimis
 - Beneficiário
 - Crédito à Pecuária
 - Empréstimo
-- Auxílio de Minimis
+- Exploração Florestal
+- Exportação
 - Fiscalização
 - IFAP
 - JURO Bonificado
 - Linha de Crédito
-- Piddac
-- Exportação
-- Exploração Florestal
 - Pequenas e Médias Empresas
+- Piddac
 - PME
 - Sector Florestal
 relationships:
@@ -87,6 +87,17 @@ relationships:
   target: pt:dre:622293:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489214:por
+  label: "Alterado o art. 9.º, pelo DEC LEI.218/2009.07.09.2009.MADRP, DR.IS [173] de 07.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2009-489214
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:622293:por
+  label: "Alterado, a partir de 05.01.2010, o art. 5.º pelo DEC LEI.1-A/2010.04.01.2010.MADRP, DR.IS [1-Supl] de 04.01.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-a-2010-622293
+  date: '2010-01-04'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -102,13 +113,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:15Z'
   warnings: []
   errors: []
 ---
@@ -283,12 +294,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 23 de Março de 2009.**
+Promulgado em 23 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Março de 2009.**
+Referendado em 26 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

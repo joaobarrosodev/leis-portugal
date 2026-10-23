@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2007/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2007-520469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce7768a7eb4716598c3685a7b0630adfe91123c9d4a7101db8e475d70f29f70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f55e040d5e3478a7c0b5171f65754aaf0a553bf10a26abfb26f60d7eae72393f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Controlo de Qualidade
-- Homologação
-- Veículo
 - Certificado de Qualidade
-- Proteção do Ambiente
+- Controlo de Qualidade
 - Equipamento de Veículo
+- Homologação
 - Poluição
+- Proteção do Ambiente
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:1786425:por
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:12Z'
   warnings: []
   errors: []
 ---
@@ -146,15 +146,15 @@ O presente decreto-lei não prejudica as homologações previamente concedidas, 
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 7 de Março de 2007.**
+Promulgado em 7 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — REGULAMENTO RELATIVO ÀS MEDIDAS A TOMAR CONTRA A EMISSÃO DE POLUENTES PROVENIENTES DOS MOTORES DIESEL DESTINADOS À PROPULSÃO DOS VEÍCULOS
 
@@ -510,7 +510,7 @@ Informação sobre as condições de ensaio
 
 2.1.2 - Potência medida nas rodas do veículo: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
 
 ## ANEXO II — (a que se referem o n.º 2 do artigo 3.º, o n.º 1 do artigo 4.º e o n.º 2 do artigo 9.º do Regulamento)
 
@@ -596,7 +596,7 @@ ADENDA À FICHA DE HOMOLOGAÇÃO CE N.º ...
 
 1.2.1 - A regimes estabilizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
 
 1.2.2 - Em aceleração livre:
 
@@ -612,7 +612,7 @@ ADENDA À FICHA DE HOMOLOGAÇÃO CE N.º ...
 
 Exemplo de esquema do símbolo do valor corrigido do coeficiente de absorção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
 
 O símbolo acima indica que o valor corrigido do coeficiente de absorção é de 1,30 m(elevado a -1).
 
@@ -734,7 +734,7 @@ X(índice L) = (S/S(elevado a L)(índice M)). X"(índice L) = X(índice M) + 0,5
 
 ## ANEXO VI — (a que se referem os artigos 6.º e 7.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06000/17231732.pdf)
 
 Nota. - Embora os valores acima estejam arredondados ao centésimo ou aos 5 milésimos mais próximos, não significa que as medidas devem ser efectuadas com esta precisão.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/230a00/65506551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/2003/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2003-483393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b46bb558a9f31c0d4fd9a748456ec78937975e4345038a7d858bbbc2538b6e18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e519004e8993776fa0e02555041655821844b221c8deec9c3c1d5f08f10e0508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Aproximação das Legislações
 - Arquitecto
 - Arquitectura
-- União Europeia
-- Livre Prestação de Serviços
 - Equivalência de Diplomas
+- Livre Prestação de Serviços
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:604779:por
@@ -126,16 +126,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/di
   label: null
   source: http://data.europa.eu/eli/di
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:40Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +183,9 @@ Aos artigos 3.º e 11.º do Decreto-Lei n.º 14/90, de 8 de Janeiro, são aditad
 
 2 - As autoridades competentes nacionais devem examinar, no âmbito do presente decreto-lei, os diplomas, certificados e outros títulos adquiridos fora da União Europeia, se esses diplomas, certificados ou títulos tiverem sido reconhecidos num Estado membro, bem como a formação e ou a experiência profissional adquiridas num Estado membro.
 
-###### Artigo 11.º — Prazos e recursos
+Artigo 11.º
+
+Prazos e recursos
 
 1 - ...
 
@@ -190,12 +197,12 @@ Aos artigos 3.º e 11.º do Decreto-Lei n.º 14/90, de 8 de Janeiro, são aditad
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Pedro Lynce de Faria - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

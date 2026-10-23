@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-1974-476343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:26:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c61ad3003b40d238e00398edb384fde69395ea52b919703c845d7f35eb9f5632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35ac04f6b92fd43abf7cb99f03fe90c82485754065d1d1b8365b28bdcf6fbfda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:26:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623213:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:26:49Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordena�
 
 2.º O artigo 1.º do [Decreto-Lei n.º 184/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1974-623213) passa a ter a seguinte redacção:
 
-###### Artigo 1.º A obrigatoriedade de aceitação de cheques estabelecida no artigo 1.º do [Decreto-Lei n.º 182/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1974-398137) é limitada aos cheques de valor superior a 1000$00.
+Artigo 1.º A obrigatoriedade de aceitação de cheques estabelecida no artigo 1.º do [Decreto-Lei n.º 182/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1974-398137) é limitada aos cheques de valor superior a 1000$00.
 
 3.º Esta portaria entra imediatamente em vigor.
 

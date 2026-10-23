@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/2002/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f03da7ae0e5c57bbfb654ad9a9aa6262830d9df2a925d040b31d0d46673cea26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd7ab27a4a1017f3f234d4182f270eb039949bf8b1347286c18ff68ed4da2100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Portuário e dos Transportes Marítimos
 - Criação de Serviços
 - Estatuto
-- Instituto Marítimo-portuário
-- Instituto Portuário do Norte
 - Instituto de Navegabilidade do Douro
+- Instituto Marítimo-portuário
 - Instituto Portuário do Centro
+- Instituto Portuário do Norte
 - Instituto Portuário do SUL
+- Instituto Portuário e dos Transportes Marítimos
 - Integração de Serviços
 - Integração de Trabalhadores
 - Quadro de Pessoal
@@ -84,6 +84,36 @@ relationships:
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta cabendo a tutela funcional e patrimonial ao Ministro de Estado e da Defesa\
+    \ Nacional e dos Assuntos do Mar e sendo a definição das linhas de orientação e dos domínios prioritários da sua actuação\
+    \ exercida em articulação com o Ministro das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Reafirmada a superintendência conjunta do Ministro das Obras Públicas, Transportes e Comunicações e do Ministro\
+    \ de Estado, da Defesa Nacional e dos Assuntos do Mar pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005,\
+    \ nos termos do n.º 2 do seu art. 6.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério das Obras Públicas, Transportes e Comunicações do Instituto, (integrado\
+    \ na Presidência do Conselho de Ministros), sendo a competência relativa à definição das orientações estratégicas, bem\
+    \ como o acompanhamento da sua execução, seja exercida pelo Ministro das Obras Públicas, Transportes e Comunicações em\
+    \ articulação com o Ministro da Defesa Nacional e com o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento\
+    \ Regional, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005, nos termos do seu artigo n.º 25.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto o Instituto Portuário e dos Transportes Marítimos, I.P, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12]\
+    \ de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -124,16 +154,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1162/2001/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1162/2001/10/04/p/dre
+- type: cites
+  target: pt:dre:223012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520990:por
+  label: "Revogado a partir de 01.05.2007, com excepção do disposto no art. 8º e nos arts. 7º a 10º dos Estatutos que lhe\
+    \ estão anexos, pelo DEC LEI.146/2007.27.04.2007.MOPTC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2007-520990
+  date: '2007-04-27'
 article_structure:
   article_count: 47
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:08Z'
   warnings: []
   errors: []
 ---
@@ -328,15 +408,15 @@ c) O [Decreto-Lei n.º 138-A/97](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 19 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 13 de Novembro de 2002.**
+Promulgado em 13 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Novembro de 2002.**
+Referendado em 14 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

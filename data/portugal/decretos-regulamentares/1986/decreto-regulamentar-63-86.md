@@ -46,40 +46,129 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1986-220759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42e8a9242254fef68ed7e38eca2864f16b8286e49af3a2a105bb6de05632e8d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26a3d5e14774e9083ffe0b5d7b75202dd7eb920ce62de165da5781f5508f0a0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura de Trás-os-montes
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556993:por
+  label: "Criado um lugar de assessor principal na carreira de engenheiro no quadro de pessoal da Direcção Regional de Agricultura\
+    \ de Trás-os-Montes, constante do mapa I, pelo DN.88/90.30.08.1990.MF, DR.IS [200] de 30.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/88-1990-556993
+  date: '1990-08-30'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado o art. 17º e o quadro de pessoal da Direcção Regional de Agricultura de Trás-os-Montes anexo pelo DR.43/90.1990.12.19.MAPA,\
+    \ DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 296/92, PUBLICADA NO DR.IS-B, 79, DE 920403\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 831/92, PUBLICADA NO DR.IS-B, 196, DE 920826.S\0S\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-08-26'
+- type: amended_by
+  target: pt:dre:688404:por
+  label: "Alterado o quadro de pessoal da Direcção Regional de Trás-os-Montes, aprovado neste diploma, com a redacção conferida\
+    \ pelo DR 43/90 de 19-Dez e pela Port 296/92 de 03-Abr, pela PORT.387/93.08.04.1993.MF, DR.IS-B [83] de 08.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1993-688404
+  date: '1993-04-08'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Norte suceda nas atribuições da Direcção Regional\
+    \ de Agricultura de Trás-os-Montes, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:46Z'
   warnings: []
   errors: []
 ---
@@ -218,11 +307,15 @@ c) Património e Aprovisionamento.
 
 7 - As competências das Secções de Orçamento e Conta, de Contabilidade e de Património e Aprovisionamento são as constantes, respectivamente, das alíneas a) a c), d) a f) e g) a i) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.
 
-###### Artigo 7.º — Divisão de Informação de Contabilidades Agrícolas
+###### Artigo 7.º
+
+##### Divisão de Informação de Contabilidades Agrícolas
 
 A Divisão de Informação de Contabilidades Agrícolas tem as competências referidas no n.º 2 do artigo 8.º do [Decreto-Lei n.º 90/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1985-325108), de 1 de Abril.
 
-###### Artigo 8.º — Divisão de Informação de Mercados Agrícolas
+###### Artigo 8.º
+
+##### Divisão de Informação de Mercados Agrícolas
 
 A Divisão de Informação de Mercados Agrícolas tem as competências referidas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 91/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1985-325109), de 1 de Abril.
 
@@ -336,7 +429,9 @@ c) Assegurar a gestão dos laboratórios vitícolas da DRATM e das adegas das ex
 
 d) Colaborar no estudo e implementação de esquemas de controle de qualidade dos vinhos da região.
 
-###### Artigo 13.º — Divisão de Protecção à Produção Vegetal
+###### Artigo 13.º
+
+##### Divisão de Protecção à Produção Vegetal
 
 A Divisão de Protecção à Produção Vegetal tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no artigo 12.º à Direcção de Serviços Vitivinícolas.
 
@@ -516,19 +611,19 @@ Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o n.º 1 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf))](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf)
 
 Mapa II a que se refere o n.º 1 do artigo 23.º
 

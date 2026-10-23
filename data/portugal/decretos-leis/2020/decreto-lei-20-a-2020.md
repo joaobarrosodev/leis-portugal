@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 88/2020, 1º Suplemento, Série I de 2020-05-06
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5-(2) a 5-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/08801/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20-a/2020/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2020-133161452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a79913737a248396817735fc04f2b14ff72ba8fd7aa47fd8613646bb58d73728
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6d15106bdb4e2ed6a53f109dbb2ab8c974e719f85cdd4af0a3d46d6bf703f04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,22 +72,28 @@ subjects:
 - Aquisição de Equipamento
 - Autorização de Despesas
 - Comunicação Social
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Definição de Competências
 - Despesas Públicas
-- Saúde Pública
 - Doença Infecciosa
 - Epidemia
-- Sistema de Informação
 - Presidência do Conselho de Ministros
 - Publicidade do Estado
-- Contratação Pública
+- Saúde Pública
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -128,16 +134,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2015/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2015/08/17/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025050:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:59Z'
   warnings: []
   errors: []
 ---
@@ -248,12 +318,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 5 de maio de 2020.**
+Promulgado em 5 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de maio de 2020.**
+Referendado em 5 de maio de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113226411

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1972-680830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 069b590baac87c8f45455e6b1a022198234ee0e54021fdaf50bb28e6f4ef3537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8176f65d264905240fefa2b389a73a88d3af7663b43b7168645fca9f3b985e79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577306:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:19Z'
   warnings: []
   errors: []
 ---
@@ -91,4 +99,4 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 O disposto no n.º 6 da [Portaria n.º 18523](https://diariodarepublica.pt/dr/detalhe/portaria/18523-1961-171919), de 12 de Junho de 1961, é tornado extensivo aos empregados das caixas de previdência e caixas de previdência e abono de família.
 
-**O Ministro das Corporações e Previdência Social e da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social e da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

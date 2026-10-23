@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1990-571468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ea06f2abb1058939f501f1ae8e7b44ad3ea1b50a61b889a224a0c284834a089
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b1f637a05c328c384812b07e2cd99d09f29a24ee9224da0829c5442b7f992f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direcção Geral de Geologia e Minas
+- Extinção de Lugares
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528472:por
+  label: Rectificado [relativamente ao mapa I] pela DECL.DD3434.1990.06.29.PCM, DR.IS [149] Supl, de 30.06.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-528472
+  date: '1990-06-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:28Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +109,24 @@ Assim:
 
 Ao abrigo do disposto nos artigos 37.º e 45.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os funcionários que transitaram para os lugares das carreiras técnico-profissionais de nível 3 do quadro de pessoal da Direcção-Geral de Geologia e Minas, constante do mapa VI anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, e que exercem funções de desenhador de cartografia, desenhador de topografia ou de técnico auxiliar de laboratório, transitam para lugares das carreiras técnico-profissionais de nível 4, de acordo com o anexo I a este diploma, que dele faz parte integrante, passando a integrar o escalão a que corresponde índice remuneratório igual ao detido ou, se não houver coincidência no escalão, a que corresponde o índice superior mais aproximado na estrutura salarial da nova categoria.
+Artigo 1.º Os funcionários que transitaram para os lugares das carreiras técnico-profissionais de nível 3 do quadro de pessoal da Direcção-Geral de Geologia e Minas, constante do mapa VI anexo à [Portaria n.º 704/87](https://diariodarepublica.pt/dr/detalhe/portaria/704-1987-417631), de 18 de Agosto, e que exercem funções de desenhador de cartografia, desenhador de topografia ou de técnico auxiliar de laboratório, transitam para lugares das carreiras técnico-profissionais de nível 4, de acordo com o anexo I a este diploma, que dele faz parte integrante, passando a integrar o escalão a que corresponde índice remuneratório igual ao detido ou, se não houver coincidência no escalão, a que corresponde o índice superior mais aproximado na estrutura salarial da nova categoria.
 
-###### Art. 2.º O quadro de pessoal referido no artigo anterior é acrescido dos lugares das carreiras técnico-profissionais, nível 4, necessários para cumprimento do aí disposto e deduzido de igual número de lugares das carreiras técnico-profissionais, nível 3, de acordo com o anexo II a este diploma, que dele faz parte integrante.
+Art. 2.º O quadro de pessoal referido no artigo anterior é acrescido dos lugares das carreiras técnico-profissionais, nível 4, necessários para cumprimento do aí disposto e deduzido de igual número de lugares das carreiras técnico-profissionais, nível 3, de acordo com o anexo II a este diploma, que dele faz parte integrante.
 
 Presidência do Conselho de Ministros, 16 de Abril de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 10 de Maio de 1990.**
+Promulgado em 10 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Maio de 1990.**
+Referendado em 14 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11800/23342335.pdf)

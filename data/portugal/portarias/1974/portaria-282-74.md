@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/282-1974-411318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 418ef72e0b1bfe492e5b5f18941c3aae657ebe6059d1731899f423eb499cafeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5c5f61bb44abb98055628b17bb85e9fb70abd6901933c536bb027ea4a116286
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Militar
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381744:por
+  label: "Dada nova redacção ao nº 6 do presente diploma, pela PORT.538/84.31.07.1984.MDN, DR.IS [176] de 31.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/538-1984-381744
+  date: '1984-07-31'
+- type: amended_by
+  target: pt:dre:286736:por
+  label: "Transferidos para o quadro &#250;nico da classe do servi&#231;o especial, os oficiais que actualmente pertencem\
+    \ a subclasse de fuzileiros, pela PORT.128/88.26.02.1988.MDN, DR.IS [47] de 26.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1988-286736
+  date: '1988-02-26'
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411821:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:42Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +131,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º A classe do serviço especial passa a dividir-se nos seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf)
 
 2.º São integrados nos ramos indicados no número anterior os oficiais dos ramos correspondentes da subclasse de oficiais técnicos, que é desde já extinta.
 
@@ -108,7 +139,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 4.º Dos efectivos totais e por postos do quadro da classe do serviço especial fixados na lei mantêm-se atribuídos à subclasse de fuzileiros (a extinguir) os que actualmente lhe correspondem e constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/09000/05460546.pdf)
 
 5.º Os efectivos do quadro indicado no número anterior serão automaticamente aumentados ao quadro da classe, à medida que cesse a possibilidade de serem preenchidos por oficiais da subclasse a extinguir.
 

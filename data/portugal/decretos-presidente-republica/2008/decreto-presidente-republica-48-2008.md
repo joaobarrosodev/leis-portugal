@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/48/2008/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/48-2008-454787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dc3eca37179a9f660775b46531dc508837e53aac3f7d8572cec279436b60296
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99be76c4194b446dee5af4593ffb19b8786a0503b1178b6de9f1255c5bc211ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
-- Eleição Regional
-- Assembleia Legislativa
 - Açores
+- Assembleia Legislativa
+- Eleição Regional
+- Parlamentar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2000/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2000/07/14/p/dre
+- type: cites
+  target: pt:dre:319955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:04Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +102,12 @@ validation:
 
 de 28 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea b), da Constituição, o seguinte:
 
 É fixado, de harmonia com o artigo 19.º do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), de 8 de Agosto, na redacção dada pela [Lei Orgânica n.º 2/2000](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2000-319955), de 14 de Julho, o dia 19 de Outubro de 2008 para a eleição dos deputados à Assembleia Legislativa da Região Autónoma dos Açores.
 
-**Assinado em 23 de Julho de 2008.**
+Assinado em 23 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

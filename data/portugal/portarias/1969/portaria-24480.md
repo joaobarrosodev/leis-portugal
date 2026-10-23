@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24480-1969-216345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9ef124b1882634a75095f874996c757ebc690fb8b0c704a5e511a5a1f8d9e51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b75bd9850dd326fff184544587cd1c1ee59ad1f3a3c141e4a8ffff34587dfb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:17Z'
   warnings: []
   errors: []
 ---
@@ -89,43 +93,43 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo» ... 25000$00
+Artigo 3.º, n.º 3) «Outras despesas com o pessoal - Ajudas de custo» ... 25000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 80000$00
+Artigo 4.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Mobiliário, material de aquartelamento e outros artigos não especificados nas alíneas seguintes» ... 80000$00
 
-###### Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, de duplicador, ficheiros e correspondentes sobresselentes» ... 30000$00
+Artigo 4.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, de duplicador, ficheiros e correspondentes sobresselentes» ... 30000$00
 
-###### Artigo 4.º, n.º 1), alínea c) «Aquisições de utilização permanente - Móveis - Livros, publicações, revistas e respectivas encadernações» ... 4000$00
+Artigo 4.º, n.º 1), alínea c) «Aquisições de utilização permanente - Móveis - Livros, publicações, revistas e respectivas encadernações» ... 4000$00
 
-###### Artigo 4.º, n.º 1), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 12000$00
+Artigo 4.º, n.º 1), alínea d) «Aquisições de utilização permanente - Móveis - Material sanitário e cirúrgico» ... 12000$00
 
-###### Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Infra-estruturas» ... 25000$00
+Artigo 5.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Infra-estruturas» ... 25000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 8000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 8000$00
 
-###### Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 27000$00
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 27000$00
 
-###### Artigo 5.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 30000$00
+Artigo 5.º, n.º 4), alínea a) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública - Armamento, equipamento e outro material de guerra» ... 30000$00
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 30000$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 30000$00
 
-###### Artigo 6.º, n.º 2) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 60000$00
+Artigo 6.º, n.º 2) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 60000$00
 
-###### Artigo 6.º, n.º 4) «Material de consumo corrente - Artigos de embalagem» ... 20000$00
+Artigo 6.º, n.º 4) «Material de consumo corrente - Artigos de embalagem» ... 20000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 25000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 25000$00
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 18000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Despesas gerais de desinfecção e profilaxia» ... 18000$00
 
-###### Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 40000$00
+Artigo 7.º, n.º 3) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 40000$00
 
-###### Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal, a incorporar na província - Recrutas do ultramar» ... 80000$00
+Artigo 9.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal, a incorporar na província - Recrutas do ultramar» ... 80000$00
 
-###### Artigo 9.º, n.º 6) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 13000$00
+Artigo 9.º, n.º 6) «Encargos administrativos - Pagamento de serviços e encargos não especificados» ... 13000$00
 
 ... 527000$00
 
@@ -133,37 +137,37 @@ tomando como contrapartida as seguintes disponibilidades existentes na mesma tab
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 200000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 200000$00
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 20000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 20000$00
 
-###### Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 5000$00
+Artigo 3.º, n.º 2), alínea a) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças - Das tabelas gerais» ... 5000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios para renda de casa» ... 70000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios para renda de casa» ... 70000$00
 
-###### Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subvenção de família a praças» ... 20000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Subvenção de família a praças» ... 20000$00
 
-###### Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 80000$00
+Artigo 3.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 80000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1), alínea e) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 500$00
+Artigo 4.º, n.º 1), alínea e) «Aquisições de utilização permanente - Móveis - Aparelhos, instrumentos e outro material de equipamento técnico» ... 500$00
 
-###### Artigo 4.º, n.º 1), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 500$00
+Artigo 4.º, n.º 1), alínea f) «Aquisições de utilização permanente - Móveis - Máquinas, ferramentas e utensílios congéneres» ... 500$00
 
-###### Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 2000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados» ... 2000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 3), alínea a) «Despesas de comunicações - Transportes - De material» ... 1000$00
+Artigo 8.º, n.º 3), alínea a) «Despesas de comunicações - Transportes - De material» ... 1000$00
 
-###### Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 30000$00
+Artigo 8.º, n.º 3), alínea b) «Despesas de comunicações - Transportes - De pessoal» ... 30000$00
 
-###### Artigo 9.º, n.º 1), alínea b) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Curso de sargentos milicianos do ultramar» ... 50000$00
+Artigo 9.º, n.º 1), alínea b) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Curso de sargentos milicianos do ultramar» ... 50000$00
 
-###### Artigo 9.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e tropas em manobras anuais» ... 3000$00
+Artigo 9.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e tropas em manobras anuais» ... 3000$00
 
-###### Artigo 10.º «Abono de família» ... 45000$00
+Artigo 10.º «Abono de família» ... 45000$00
 
 ... 527000$00
 

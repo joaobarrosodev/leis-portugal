@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1977-253008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfb92af7ffd762e724af2cae0655b0e42caf7fb1e2e89407bd7b1e0fc403b9bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a01156f0e91bf102464fc64aefb0d988126b572d5a746e944cc664218c17916
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral da Administração das Pescas
+- Função Pública
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+- Remuneração
+- Secretaria de Estado das Pescas
+relationships:
+- type: cites
+  target: pt:dre:427816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622873:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:53Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +111,9 @@ Considerando o disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 240/74](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto n.º 331/76](https://diariodarepublica.pt/dr/detalhe/decreto/331-1976-427816), de 8 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto n.º 331/76](https://diariodarepublica.pt/dr/detalhe/decreto/331-1976-427816), de 8 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1. O técnico especialista mencionado no artigo 1.º vencerá, quando em serviço, com residência permanente em territóro canadiano, uma ajuda de custo e um subsídio mensal para transportes idênticos aos de um oficial superior adido naval nos Estados Unidos, tendo também direito aos subsídios de instalação correspondentes.
+Art. 3.º - 1. O técnico especialista mencionado no artigo 1.º vencerá, quando em serviço, com residência permanente em territóro canadiano, uma ajuda de custo e um subsídio mensal para transportes idênticos aos de um oficial superior adido naval nos Estados Unidos, tendo também direito aos subsídios de instalação correspondentes.
 
 2. A forma normal de provimento do cargo mencionado no número anterior é a comissão de serviço por tempo indeterminado.
 
@@ -101,12 +121,12 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4. A tomada de posse pode ser feita por promoção quando, por despacho fundamentado, se reconheça a inconveniência da deslocação do provido.
 
-###### Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - António Carlos Ribeiro Campos.
 
-**Promulgado em 15 de Maio de 1977.**
+Promulgado em 15 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/273a00/42464258.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1996-199846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d9d38aede07b378a193affd99d2334aaabb0a910dac9c4b937c1df4acf4d98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514304fd2a26fa79acc9fde280d215e2b075b32a972e3994db7440c480983c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
 - Auditor Jurídico
+- Auditoria Jurídica
+- Comissão de Aplicação de Coimas em Matéria de Publicidade
 - Comissão de Aplicação de Coimas em Matéria Económica
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
-- Ministro da Economia
 - Conselho da Concorrência
+- Conselho de Garantias Financeiras
+- Conselho Nacional da Qualidade
 - Conselho para o Desenvolvimento Económico
 - Conselho Sectorial da Construção
 - Conselho Sectorial da Energia
@@ -85,48 +88,103 @@ subjects:
 - Direcção Geral do Comércio
 - Direcção Geral do Comércio e da Concorrência
 - Direcção Geral do Turismo
-- Região de Turismo
 - Extinção de Serviços
-- Ministério da Economia
+- Fundo de Turismo
+- Gabinete de Estudos e Planeamento
 - Gabinete de Estudos e Prospectiva Económica
 - Gabinete para a Pesquisa e Exploração de Petróleo
 - Gabinete para os Assuntos Comunitários
-- Inspecção Geral das Actividades Económicas
+- IAPMEI
+- ICEP
 - Ineti
-- Instituto Nacional da Propriedade Industrial
+- Inspecção Geral das Actividades Económicas
 - Inspecção Geral de Jogos
-- Fundo de Turismo
 - Instituto Geológico e Mineiro
+- Instituto Nacional da Propriedade Industrial
 - Instituto Nacional de Formação Turística
-- Integração de Trabalhadores
 - Instituto Português da Qualidade
-- Gabinete de Estudos e Planeamento
+- Integração de Trabalhadores
+- Ministério da Economia
 - Ministério da Indústria e Energia
-- Auditoria Jurídica
-- Comissão de Planeamento Energético de Emergência
-- Conselho de Garantias Financeiras
 - Ministério do Comércio e Turismo
+- Ministro da Economia
 - Orgânica
 - Organização para a Emergência Energética
-- Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Região de Turismo
 - Serviço Regional
-- IAPMEI
-- Conselho Nacional da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:654681:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138781:por
+  label: "Alterados os arts. 16º e 17º pelo DEC LEI.107/99.1999.03.31.MECO, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1999-138781
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:426693:por
+  label: "Alterada a denominação do Fundo de Turismo a que se refere a al. f) do art. 8º do presente diploma, para Instituto\
+    \ de Financiamento e Apoio ao Turismo, pelo DEC LEI.308/99.1999.08.10.MECO, DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/308-1999-426693
+  date: '1999-08-10'
+- type: amended_by
+  target: pt:dre:434008:por
+  label: "Transferidas para o Instituto Geológico e Mineiro (IGM), cuja criação e atribuições constam do Dec Lei 122/93 de\
+    \ 16-Abr, as competências e atribuições cometidas ao ora extinto Gabinete para a Pesquisa e Exploração do Petróleo pelo\
+    \ art. 31.º (que é revogado) do presente diploma, e dada nova redacção aos seus arts. 8º e 30º pelo DEC LEI.334/99.20.08.1999.MECO,\
+    \ DR.IS-A [194] de 20.08.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-1999-434008
+  date: '1999-08-20'
+- type: amended_by
+  target: pt:dre:576276:por
+  label: "Alterado o art. 16º com a redacção conferida pelo Dec Lei 107/99 de 31-Mar, pelo DEC LEI.315/2001.2001.12.10.MECO\
+    \ DR.IS-A [284]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-2001-576276
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:425885:por
+  label: "Transferida a competência da Organização para a Emergência Energética para a Direcção-Geral de Energia, alterado\
+    \ o art. art. 36.º e revogada a al. h) do art. 9.º e o art. 40.º, pelo DEC LEI.224/2002.2002.10.20.MECO DR.IS-A [251]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2002-425885
+  date: '2002-10-20'
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144995:por
+  label: "Revogado o nº 6 do art. 22º pelo DEC LEI.78/99.1999.03.16.MECO, DR.IS-A [63] de 16/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1999-144995
+  date: '1999-03-16'
+- type: repealed_by
+  target: pt:dre:176336:por
+  label: "Revogadas a al. a) do art. 9.º e o art. 33.º, nos termos do n.º 1 do art. 4.º do DEC LEI.10/2003.2003.01.18.MECO\
+    \ DR.IS-A [15] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2003-176336
+  date: '2003-01-18'
+- type: repealed_by
+  target: pt:dre:654681:por
+  label: "Revogado pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A [191], nos termos do seu art. 45.º e 46.º, e extintas pelo\
+    \ referido diploma, a Direcção Geral do Comércio e Concorrência, a Direcção Geral das Relações Económicas Internacionais\
+    \ e o Gabinete de Estudos e Prospectiva Económica, criados no presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
 article_structure:
   article_count: 53
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:58Z'
   warnings: []
   errors: []
 ---
@@ -813,7 +871,7 @@ Até à efectivação das devidas alterações orçamentais, são utilizadas pel
 
 ###### Artigo 50.º — Concessão de apoios
 
-**O Ministro da Economia pode, no âmbito das atribuições do Ministério, autorizar a prestação de apoio material e financeiro a entidades públicas, privadas e cooperativas.**
+O Ministro da Economia pode, no âmbito das atribuições do Ministério, autorizar a prestação de apoio material e financeiro a entidades públicas, privadas e cooperativas.
 
 ###### Artigo 51.º — Extinção de serviços
 
@@ -829,16 +887,16 @@ As referências legais feitas aos ex-Ministérios da Indústria e Energia e do C
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - José Alberto Rebelo dos Reis Lamego - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 6 de Novembro de 1996.**
+Promulgado em 6 de Novembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 ## ANEXO I — Mapa a que se refere o n.º 2 do artigo 48.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/273a00/42464258.pdf))](https://files.diariodarepublica.pt/1s/1996/11/273a00/42464258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/273a00/42464258.pdf)

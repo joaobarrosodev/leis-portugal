@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2004-270807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 633029c1add2fb1cc5e9032fbfb84cb5ce0e2382e5fb925d7656128dedf07b58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 959213bdcb544f5ea34df017df84ef65932a1f75322b1d3fcedf1a07c626fb64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
+- Carreira Profissional
+- Estágio de Formação
 - Estatuto
 - Estatuto dos Militares da Guarda Nacional Republicana
-- Carreira Profissional
 - GNR
 - Pessoal Militarizado
-- Estágio de Formação
 - Promoção Profissional
 - Sargento
-- Avaliação do Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:482611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545633:por
+  label: "Alterados os arts 272º, 275º e 276º do estatuto da GNR, aprovado pelo Dec Lei 265/93 de 31-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.216/2006.30.10.2006.MAI, DR.IS [209] de 30.10.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2006-545633
+  date: '2006-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2004/05/21/p/dre
   label: null
@@ -115,16 +121,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:244949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
-  article_count: 17
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:17Z'
   warnings: []
   errors: []
 ---
@@ -179,13 +227,17 @@ Os artigos 5.º, 141.º, 234.º, 235.º, 249.º, 250.º, 251.º, 252.º, 272.º,
 
 3 - A competência prevista no n.º 2 do artigo 49.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, é conferida ao comandante-geral da Guarda Nacional Republicana sempre que o agraciado no desempenho da respectiva missão se encontre sob comando operacional da GNR.
 
-###### Artigo 141.º — [...]
+Artigo 141.º
+
+[...]
 
 1 - O estágio visa a preparação do militar para o exercício de funções específicas para que seja nomeado e tem carácter probatório.
 
 2 - ...
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 As condições especiais de promoção ao posto de sargento-ajudante são as seguintes:
 
@@ -195,7 +247,9 @@ b) ...
 
 c) ...
 
-###### Artigo 235.º — [...]
+Artigo 235.º
+
+[...]
 
 As condições especiais de promoção ao posto de sargento-chefe são as seguintes:
 
@@ -203,19 +257,25 @@ a) [Anterior alínea b).]
 
 b) [Anterior alínea c).]
 
-###### Artigo 249.º — Nomeação para o curso de promoção a sargento-ajudante
+Artigo 249.º
+
+Nomeação para o curso de promoção a sargento-ajudante
 
 1 - São nomeados para o curso de promoção a sargento-ajudante os primeiros-sargentos da Guarda, por antiguidade, de acordo com o previsto no artigo 145.º e com as vagas fixadas para cada quadro, excluindo aqueles a quem, competindo-lhes a nomeação por antiguidade, tenha sido adiada a sua frequência, e os que declararem desistir.
 
 2 - É ainda condição de nomeação para o curso de promoção a sargento-ajudante possuir aptidão física e psíquica adequada, determinada nos termos do artigo 169.º
 
-###### Artigo 250.º — Falta de aproveitamento no curso de promoção a sargento-ajudante
+Artigo 250.º
+
+Falta de aproveitamento no curso de promoção a sargento-ajudante
 
 1 - O primeiro-sargento que não tiver aproveitamento no curso de promoção a sargento-ajudante apenas poderá repeti-lo uma vez.
 
 2 - O disposto no número anterior não se aplica quando a falta de aproveitamento for motivada por razões de doença ou acidente que, no parecer da Junta Superior de Saúde, o impossibilite de continuar a tomar parte em trabalhos do curso, ou por razões de força maior atendíveis.
 
-###### Artigo 251.º — Exclusão do curso de promoção a sargento-ajudante
+Artigo 251.º
+
+Exclusão do curso de promoção a sargento-ajudante
 
 São excluídos definitivamente do curso de promoção a sargento-ajudante:
 
@@ -225,13 +285,17 @@ b) ...
 
 c) Os primeiros-sargentos que não obtenham aproveitamento, nos termos do n.º 1 do artigo anterior.
 
-###### Artigo 252.º — Realização do curso de promoção a sargento-ajudante
+Artigo 252.º
+
+Realização do curso de promoção a sargento-ajudante
 
 1 - O curso de promoção a sargento-ajudante é ministrado pela Escola Prática da Guarda.
 
 2 - ...
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 ...
 
@@ -261,11 +325,15 @@ j) Sendo militares em regime de contrato e sem prejuízo do tempo mínimo referi
 
 l) [Anterior alínea m).]
 
-###### Artigo 273.º — [...]
+Artigo 273.º
+
+[...]
 
 Sem prejuízo das condições gerais, as condições especiais de admissão são estipuladas por despacho do comandante-geral na data de abertura do concurso.
 
-###### Artigo 275.º — [...]
+Artigo 275.º
+
+[...]
 
 A verificação das condições de admissão é feita através de:
 
@@ -279,7 +347,9 @@ d) ...
 
 e) ...
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 1 - São admitidos provisoriamente na Guarda, para a frequência do curso de formação de praças, os candidatos que, satisfazendo as condições gerais e especiais de admissão e obtendo aproveitamento nas provas de admissão previstas no artigo anterior, fiquem dentro das vagas anualmente fixadas.
 
@@ -307,12 +377,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2004. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 10 de Maio de 2004.**
+Promulgado em 10 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2004.**
+Referendado em 12 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

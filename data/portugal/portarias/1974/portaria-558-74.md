@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-1974-474358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19a48c10996866e492828ccced12679871cea6f40e8a467be4733e17d42c2ca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaf5d454e582b9185edec4a595a9c302051abfabab6ff98c4707d091e9b48225
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:15Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +104,13 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 ### CAPÍTULO ÚNICO
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1) «Alimentação» ... 400000$00
 
 Pagamento de serviços
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 5) «Consultas, exames e tratamentos especiais a fazer fora do Hospital por beneficiários da assistência quando ali internados e serviços clínicos e de hospitalização, nos termos do § 3.º do artigo 144.º, e alínea a) do artigo 146.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, e artigo 18.º do [Decreto n.º 48277](https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774), de 16 de Março de 1968» ... 500000$00
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2008/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2008-452936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b11b9ca142d69041c7a6a35f78044d5015f0f89f25aedfce1debe29933d0f70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d56e34aad09fd0a3d209147579a3bbb5490ae507ffaeb321a0605fbd1983562
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Estatuto
 - Estatuto dos Militares da Guarda Nacional Republicana
 - GNR
+- Militar
 - Pessoal Militarizado
 - Promoção Profissional
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:482611:por
@@ -113,16 +113,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/504/1999/11/20/p/dre
+- type: cites
+  target: pt:dre:150713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643283:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:28Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +211,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira.
 
-**Promulgado em 29 de Setembro de 2008.**
+Promulgado em 29 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Outubro de 2008.**
+Referendado em 1 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/02/04300/02720273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-1975-160306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 029a091c4fd8ba3f16d69f39f4f72ca44c17f6d07ac67a048adf56c00c054638
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51472a23fc29d62a79fd7d1e61949d2c0d2a01979e9538837517aae05835dd67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,25 @@ relationships:
   target: pt:dre:656387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:618081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656387:por
+  label: Revogada pela PORT.192-J/78.07.04.1978.MAP, DR.IS [81]2ºSupl de 07.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-j-1978-656387
+  date: '1978-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:37Z'
   warnings: []
   errors: []
 ---

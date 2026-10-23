@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2014/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2014-606156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dabd5be25185b182a210f3198d8bad5b6c42116d08fcd5d10958c50e30cc95b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6648fb196c3407dba36ad98cbc7a34891a447812ca8ec7e25b1d05a1c6ea1d3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,24 @@ reuse:
 subjects:
 - Agência Funerária
 - Catálogo Nacional de Qualificações
-- Formação Profissional
 - Fiscalização
-- Sistema Nacional de Qualificações
+- Formação Profissional
 - Prazo
 - Prestação de Serviços
 - Qualificação Profissional
+- Sistema Nacional de Qualificações
 relationships:
 - type: amended_by
   target: pt:dre:66384003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66384003:por
+  label: Prorrogado o prazo previsto no n.º 1 do art. 25.º do Dec Lei 109/2010 de 14-out, alterado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 17/2015 - Diário da República n.º 22/2015, Série I de 2015-02-02, nos termos do disposto no seu
+    art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2015-66384003
+  date: '2015-02-02'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -91,13 +98,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:15Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +143,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, report
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Pedro Passos Coelho - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 7 de janeiro de 2014.**
+Promulgado em 7 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de janeiro de 2014.**
+Referendado em 9 de janeiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

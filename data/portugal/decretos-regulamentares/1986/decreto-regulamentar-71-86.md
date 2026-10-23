@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1986-221310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37f2bd21d136a76bc8c722719c5e9304c34245be2d6b4dcfe36a67d2e2d3d68c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb7671422592135869fbcc657ed787ba6d01d64f7d1794d42269f04c3817b7f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:59Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +99,7 @@ Tendo em vista dotar os quadros da Direcção-Geral das Contribuições e Impost
 
 Tornando-se necessário adaptar as provas de selecção ao conteúdo funcional das carreiras que corresponda à formação académica especializada dos funcionários acima mencionados, o Governo decreta, nos termos do artigo 37.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, e da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 76.º — Promoção de funcionários licenciados
 
@@ -105,20 +115,20 @@ Tornando-se necessário adaptar as provas de selecção ao conteúdo funcional d
 
 6 - Os funcionários abrangidos pelo disposto no número anterior não podem beneficiar novamente da faculdade prevista no presente artigo.
 
-###### Art. 2.º - 1 - No prazo de 90 dias após a entrada em vigor do presente diploma poderá ser autorizada pelo Ministro das Finanças a abertura do concurso previsto no n.º 2 do artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, segundo a redacção dada pelo artigo 1.º deste diploma, ao qual poderão ser opositores os funcionários que tenham faltado ou sido excluídos em provas realizadas nos termos da anterior redacção do citado artigo 76.º
+Art. 2.º - 1 - No prazo de 90 dias após a entrada em vigor do presente diploma poderá ser autorizada pelo Ministro das Finanças a abertura do concurso previsto no n.º 2 do artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, segundo a redacção dada pelo artigo 1.º deste diploma, ao qual poderão ser opositores os funcionários que tenham faltado ou sido excluídos em provas realizadas nos termos da anterior redacção do citado artigo 76.º
 
 2 - Os funcionários referidos no número anterior que obtenham aprovação no concurso passam à situação prevista no n.º 1 do artigo 76.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, com a redacção dada pelo artigo 1.º deste decreto, até ao provimento em lugares dos quadros.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Novembro de 1986.**
+Promulgado em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Dezembro de 1986.**
+Referendado em 2 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

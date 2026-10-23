@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-1980-462071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 515d974d80fe27e79c71260a6caa41500e82598aa7e1d6c89001e18d7fcfa48a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a033fa78e6a61b735a0c6079d5a9651fe83ed6d0743bf97cba391664413a1999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guimarães
+- Hospital Distrital
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 38/82, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 10,\
+    \ DE 13/1/82. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 807-L3/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 174, 6 SUPLEMENTO, DE 30/7/83. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 1003/83, PUBLICADA NO DIÁRIO\
+    \ DA REPÚBLICA, I SÉRIE NUMERO 276, DE 30/11/83. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 196/85, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 84, DE 11/4/85. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 592/85, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 186, DE 14/8/85. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 95/86, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 67, DE 21/4/86. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 491/87, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 151, DE 11/6/87. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 150/88, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 102, DE 10/3/88. ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA NUMERO 771/89, PUBLICADA\
+    \ NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 205, DE 6/9/89.\0NO DIÁRIO DA REPÚBLICA, I SÉRIE NUMERO 205, DE 6/9/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:642185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601148:por
+  label: "Alterado quadro de pessoal pela PORT.38/82.1982.01.13.MFP DR.IS [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-1982-601148
+  date: '1982-01-13'
+- type: amended_by
+  target: pt:dre:435463:por
+  label: "Alterado o quadro de pessoal pela PORT.807-L3/83.1983.07.30.PCM R.IS [174]6ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-l3-1983-435463
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:443098:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.1003/83.30.11.1983.PCM, DR.IS [276] de 30.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1003-1983-443098
+  date: '1983-11-30'
+- type: amended_by
+  target: pt:dre:325505:por
+  label: "Alterado o quadro de pessoal pela PORT.196/85.1985.04.11.PCM DR.IS [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/196-1985-325505
+  date: '1985-04-11'
+- type: amended_by
+  target: pt:dre:196879:por
+  label: "Alterado o quadro de pessoal pela PORT.95/86.1986.03.21.MF DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1986-196879
+  date: '1986-03-21'
+- type: amended_by
+  target: pt:dre:619945:por
+  label: "Alterado o quadro de pessoal relativamente ao grupo de pessoal técnico superior pela PORT.551/89.1989.07.17.MF DR.IS\
+    \ [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/551-1989-619945
+  date: '1989-07-17'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital Guimarães pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:59Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +173,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Guimarães
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23000/31163117.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23000/31163117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23000/31163117.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00, para falhas.

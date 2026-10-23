@@ -46,40 +46,247 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe04319b9783aeb29d81ff4140d60d5d9211f56a919a9e0bb18af96e1742aa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b91efb43a537fb77e8da6e53a3e1dba374751dde86405d8ec972f60e97da73a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Comissão de Coordenação Regional
+- Gabinete de Informação e Relações Públicas
+- GAT
+- Inspeção Geral da Administração Interna
+- Ministério da Administração Interna
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+- Secretariado Técnico dos Assuntos para o Processo Eleitoral
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "AUMENTADO O QUADRO VI, NA PARTE REFERENTE AO PESSOAL TÉCNICO SUPERIOR, ANEXO AO PRESENTE DIPLOMA, PELA PORTARIA\
+    \ 990/80, PUBLICADA NO DR.IS, 266, DE 801117. ALTERADOS OS ARTIGOS 14, 15, 43, 55, 74 E 78 PELO DECRETO LEI 356/82, PUBLICADO\
+    \ NO DR.IS, 206, DE 820906. ADITADOS OS ARTIGOS 15-A E 51-A, PELO MESMO DECRETO LEI. REVOGADAS TODAS AS DISPOSIÇÕES DO\
+    \ PRESENTE DIPLOMA RELACIONADAS COM O IGAI-INSPECCAO GERAL DA ADMINISTRAÇÃO INTERNA, BEM COMO AS DO DECRETO LEI 356/82,\
+    \ DE 820906, QUE O ALTEROU, PELO DECRETO LEI 197/85, PUBLICADO NO DR.IS, 143, DE 850625.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:378281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469784:por
+  label: "Alterada a Secção IV, referente ao Secretariado Técnico dos Assuntos para o Processo Eleitoral, e o quadro IV referente\
+    \ ao pessoal do STAPE, pelo DR.43/80.1980.08.27.MAI, DR.IS [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1980-469784
+  date: '1980-08-27'
+- type: amended_by
+  target: pt:dre:568109:por
+  label: "Alterado o quadro IV anexo ao presente diploma, pela PORT.1094-B/80.26.12.1980.PCM, DR.IS [297-3.º Supl] de 26.12.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1094-b-1980-568109
+  date: '1980-12-26'
+- type: amended_by
+  target: pt:dre:601485:por
+  label: "Alterado o quadro de pessoal do mapa II anexo, pela PORT.84/82.1982.01.20.MFP, DR.IS [16] de 20/Jan/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-1982-601485
+  date: '1982-01-05'
+- type: amended_by
+  target: pt:dre:375809:por
+  label: "Alterado o quadro de pessoal das Comissões de Coordenação Regional previsto nos anexos IX, X, XI, XII e XIII do\
+    \ presente diploma, pelo DEC LEI.384/82.16.09.1982.MAI, DR.IS [215] de 16.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1982-375809
+  date: '1982-09-16'
+- type: amended_by
+  target: pt:dre:378153:por
+  label: "Criado um lugar de assessor no quadro de pessoal da comissão de Coordenação Regional do Centro, constante do anexo\
+    \ X do presente diploma, pela PORT.1013/82.30.10.1982.MFP, DR.IS [252] de 30.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1013-1982-378153
+  date: '1982-10-30'
+- type: amended_by
+  target: pt:dre:380877:por
+  label: "Acrescentado lugares ao quadro de pessoal da Comissão de Coordenação Regional do Algerve, aprovado pelo presente\
+    \ diploma , na redacção do Decreto-Lei 384/82, de 16 de Setembro, pela PORT.1181/82.23.12.1982.MFP, DR.IS [295] de 23.12.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1181-1982-380877
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:310809:por
+  label: "Alterado o quadro de pessoal pela PORT.146/83.1983.02.14.MFP DR.IS [37]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-1983-310809
+  date: '1983-02-14'
+- type: amended_by
+  target: pt:dre:311867:por
+  label: "Criado um lugar de assessor e de técnico superior principal no quadro de pessoal da Direcção Geral de Acção Regional\
+    \ e Local, constante do quadro VI anexo ao presente diploma, pela PORT.484/83.26.04.1983.MFP, DR.IS [95] de 26.04.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-1983-311867
+  date: '1983-04-26'
+- type: amended_by
+  target: pt:dre:661952:por
+  label: "Alterado o quadro de pessoal da Comissão de Coordenação da Região Norte pela PORT.152/84.1984.03.17.PCM DR.IS [65]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-1984-661952
+  date: '1984-03-17'
+- type: amended_by
+  target: pt:dre:382415:por
+  label: "Alargado o quadro de pessoal da Comissão de Coordenação da região Norte, pela PORT.590/84.11.08.1984.PCM, DR.IS\
+    \ [186] de 11.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/590-1984-382415
+  date: '1984-08-11'
+- type: amended_by
+  target: pt:dre:380947:por
+  label: "Alargado o quadro de pessoal da Comissão de Coordenação da Região Centro,pela PORT.641/84.27.08.1984.PCM, DR.IS\
+    \ [198] de 27.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/641-1984-380947
+  date: '1984-08-27'
+- type: amended_by
+  target: pt:dre:396313:por
+  label: "Alterado o quadro de pessoal da Comissão de Coordenação da Região do Norte aprovado pelo presente diploma, com a\
+    \ redacção conferida pela Port 152/84, de 17-Mar, pela PORT.934/84.19.12.1984.PCM, DR.IS [292] de 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/934-1984-396313
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:324340:por
+  label: "Criado um lugar no quadro de pessoal constante do quadro VII anexo, pela PORT.235/85.26.04.1985.PCM, DR.IS [96]\
+    \ de 26.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/235-1985-324340
+  date: '1985-04-26'
+- type: amended_by
+  target: pt:dre:152323:por
+  label: "Aumentado um lugar ao quadro de pessoal da Comissão de Coordenação Regional do Algarve, pela PORT.243/85.02.05.1985.PCM,\
+    \ DR.IS [100] de 02.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-1985-152323
+  date: '1985-05-02'
+- type: amended_by
+  target: pt:dre:171346:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Secretaria-Geral do MAI, pela PORT.827/85.02.11.1985.PCM, DR.IS\
+    \ [252] de 02.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/827-1985-171346
+  date: '1985-11-02'
+- type: amended_by
+  target: pt:dre:171533:por
+  label: "Acrescentados lugares ao quadro de pessoal da CCR do Algarve, constante do anexo XIII, pelo presente diploma, pela\
+    \ PORT.837/85.07.11.1985.PCM, DR.IS [256] de 07.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1985-171533
+  date: '1985-11-07'
+- type: amended_by
+  target: pt:dre:228857:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Administração Local constante do anexo VI pela PORT.278/86.11.06.1986.MF,\
+    \ DR.IS [132] de 11.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/278-1986-228857
+  date: '1986-06-11'
+- type: amended_by
+  target: pt:dre:666153:por
+  label: Alterado o quadro de pessoal pelo(a) Portaria n.º 290/87 - Diário da República n.º 82/1987, Série I de 1987-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-1987-666153
+  date: '1987-04-08'
+- type: amended_by
+  target: pt:dre:378281:por
+  label: "Extintos os seguintes serviços: o Gabinete de Informação e Relações Públicas, a Direcção de Serviços de Documentação,\
+    \ a Divisão de Organização e Gestão de Pessoal, a Repartição de Administração de Pessoal e Expediente e a Repartição de\
+    \ Gestão Financeira e Patrimonial, pelo DEC LEI.264/88.1988.07.26.MAI, DR.IS [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-1988-378281
+  date: '1988-07-26'
+- type: amended_by
+  target: pt:dre:3689870:por
+  label: "Alterado o quadro de pessoal pela PORT.1883/2000(2ªSÉRIE).2000.08.25.MAI, DR.IIS, DR.IIS [280] de 05/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1883-2000-3689870
+  date: '2000-08-25'
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:679400:por
+  label: Rectificado pela DECL.DD6727.05.02.1980.PCM, DR.IS [42] de 20.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679400
+  date: '1980-02-05'
+- type: corrected_by
+  target: pt:dre:678796:por
+  label: Rectificado pela DECL.DD6758.29.02.1980.PCM, DR.IS [55] de 06.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678796
+  date: '1980-02-29'
+- type: corrected_by
+  target: pt:dre:678177:por
+  label: Rectificado pela DECL.DD6788.15.03.1980.PCM, DR.IS [63] de 15.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678177
+  date: '1980-03-15'
+- type: corrected_by
+  target: pt:dre:682051:por
+  label: Rectificado pela DECL.DD6875.09.04.1980.PCM, DR.IS [83] de 09.04.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-682051
+  date: '1980-04-09'
+- type: repealed_by
+  target: pt:dre:182242:por
+  label: Revogadas todas as disposições relacionadas com a IGAI pelo(a) Decreto-Lei n.º 197/85 - Diário da República n.º 143/1985,
+    Série I de 1985-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1985-182242
+  date: '1985-06-25'
 article_structure:
   article_count: 104
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:05Z'
   warnings: []
   errors: []
 ---
@@ -1606,7 +1813,7 @@ O pessoal integrado no quadro único mantém-se em exercício de funções nos s
 
 ###### Artigo 99.º — (Horário de funcionamento do GIRP)
 
-**O Ministro poderá determinar por despacho, sob proposta do director do GIRP, e obtida a concordância dos funcionários abrangidos, a prática de horários diferidos.**
+O Ministro poderá determinar por despacho, sob proposta do director do GIRP, e obtida a concordância dos funcionários abrangidos, a prática de horários diferidos.
 
 ###### Artigo 100.º — (Horário do pessoal auxiliar)
 
@@ -1632,12 +1839,12 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Do QUADRO I ao QUADRO XIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29900/34193446.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29900/34193446.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29900/34193446.pdf)

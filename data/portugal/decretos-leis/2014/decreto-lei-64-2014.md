@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2014/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2014-25343742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 886f63887d1257dbfe55b0f11a86125f576d740180c47668b3d0ddfc4c233145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5517c59d687aaa5f93fcf4d79a65b63483201896f93009b4e333461b7e381561
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspeção Geral de Finanças
 - Extinção de Serviços
 - Fundo de Garantia para Titularização de Créditos
-- Fundos de Garantia
-- Publicitação
-- Instituto do Turismo de Portugal
-- Prestação de Contas
-- Pequenas e Médias Empresas
 - Fundo de Titularização de Créditos
+- Fundos de Garantia
+- Inspeção Geral de Finanças
+- Instituto do Turismo de Portugal
+- Pequenas e Médias Empresas
+- Prestação de Contas
+- Publicitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2002/08/21/p/dre
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:172277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633169:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:42Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +176,12 @@ Sem prejuízo do disposto no artigo anterior, é revogado o [Decreto-Lei n.º 18
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima.
 
-**Promulgado em 24 de abril de 2014.**
+Promulgado em 24 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de abril de 2014.**
+Referendado em 29 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

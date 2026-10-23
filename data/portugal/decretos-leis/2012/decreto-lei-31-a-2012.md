@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 30/2012, 1º Suplemento, Série I de 2012-02-10
   number: '30'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 678-(2) a 678-(101)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03001/0000200101.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31-a/2012/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2012-314946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ef2a447f6f2981a0f58b852a09989c3e4d1ff23388e5e4bca74d0ee07ae589a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ca8f401c7026bcdfd1b6bf80285f109a19bf449b99582c5fac78d78b8db22f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo de Resolução
-- Instituição de Crédito
-- Fiscal Único
+- Atividade Bancária
+- Banco de Portugal
 - Comissão de Fiscalização
 - Comissão Directiva
 - Criação de Serviços
 - Definição de Competências
 - Depósito Bancário
+- Fiscal Único
 - Fiscalização
 - Fundo de Garantia de Depósitos
 - Fundo de Garantia do Crédito Agrícola Mútuo
-- Banco de Portugal
-- Atividade Bancária
+- Fundo de Resolução
+- Instituição de Crédito
+- Instituição Financeira
 - Liquidação de Sociedades
 - Orgânica
 - Órgãos Sociais
@@ -89,7 +90,6 @@ subjects:
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Saneamento Económico e Financeiro
-- Instituição Financeira
 - Sucursal
 - Sucursal Financeira
 - Sucursal Financeira Exterior
@@ -98,6 +98,74 @@ relationships:
   target: pt:dre:175744218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterados os art.s 116º-D, 167º, 198º e 199º-I do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS\
+    \ [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:190201:por
+  label: "Alterado o art. 152º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-dez, na redação e republicado pelo presente diploma, pela LEI.64/2012.20.12.2012.AR, DR.IS [246] de 20.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2012-190201
+  date: '2012-12-20'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterado o art. 93º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ n.º 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de 06.02.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:503027:por
+  label: "Alterado o art. 17º da Lei Orgânica do Banco de Portugal aprovada pela Lei 5/98 de 31-jan, na redação do presente\
+    \ diploma, pelo DEC LEI.142/2013.18.10.2013.MF, DR.IS [202] de 18.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2013-503027
+  date: '2013-10-18'
+- type: amended_by
+  target: pt:dre:55068738:por
+  label: Dada nova redação aos arts. 145.º-B, 145.º-F, 145.º-H, 145.º-I, 153.º-M, 155.º e 211.º do Regime Geral das Instituições
+    de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-dez, alterado e republicado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 114-A/2014 - Diário da República n.º 147/2014, 1º Suplemento, Série I de 2014-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-a-2014-55068738
+  date: '2014-08-01'
+- type: amended_by
+  target: pt:dre:55069677:por
+  label: Alterados os arts 145.º-G e 145.º-I do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado
+    pelo Dec Lei 298/92 de 31-dez, aditados pelo presente diploma, pelo(a) Decreto-Lei n.º 114-B/2014 - Diário da República
+    n.º 148/2014, 1º Suplemento, Série I de 2014-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-b-2014-55069677
+  date: '2014-08-04'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 80.º, 93.º, 116.º,
+    116.º-G, 152.º, 153.º-E, 167º, 199.º-I, 210.º, 211.º, do Regime Geral das Instituições de Crédito e Sociedades Financeiras
+    aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 2.º do Dec. Lei 199/2006 de 25-out, na redação do presente diploma, pelo(a) Lei n.º 23-A/2015 - Diário
+    da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:120837264:por
+  label: Aditado o art. 8.º, na redação republicada do presente Diploma, ao Dec Lei 199/2006, de 25-out, DR.IS [206] pelo(a)
+    Lei n.º 23/2019 - Diário da República n.º 51/2019, Série I de 2019-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2019-120837264
+  date: '2019-03-13'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Alterados, a partir de 01.02.2022, os arts. 1.º, 2.º, 3.º, 4.º e 8.º-A do Dec Lei 199/2006 de 25-out, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de
+    2021-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -151,15 +219,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/58/2011/11/28/p/dre
 article_structure:
-  article_count: 509
+  article_count: 412
   section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:15Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +304,9 @@ Os artigos 12.º, 80.º, 92.º, 93.º, 96.º, 116.º, 117.º-B, 139.º, 140.º, 
 
 3 - Nos casos em que das decisões a que se referem os números anteriores resultem danos para terceiros, a responsabilidade civil pessoal dos seus autores apenas pode ser efectivada mediante acção de regresso do Banco e se a gravidade da conduta do agente o justificar, salvo se a mesma constituir crime.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -246,13 +316,17 @@ Os artigos 12.º, 80.º, 92.º, 93.º, 96.º, 116.º, 117.º-B, 139.º, 140.º, 
 
 4 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As restantes atribuições do Banco de Portugal conferidas pelo presente Regime Geral não podem prejudicar a sua independência no exercício das funções de banco central e de membro do Sistema Europeu de Bancos Centrais.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +340,9 @@ Os artigos 12.º, 80.º, 92.º, 93.º, 96.º, 116.º, 117.º-B, 139.º, 140.º, 
 
 6 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +354,9 @@ Os artigos 12.º, 80.º, 92.º, 93.º, 96.º, 116.º, 117.º-B, 139.º, 140.º, 
 
 5 - Não é aplicável às instituições de crédito o disposto no artigo 35.º do Código das Sociedades Comerciais.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +372,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 117.º-B — [...]
+Artigo 117.º-B
+
+[...]
 
 1 - ...
 
@@ -304,17 +384,23 @@ e) ...
 
 4 - Às sociedades consideradas relevantes para o funcionamento dos sistemas de pagamentos sujeitas à supervisão do Banco de Portugal é aplicável o disposto no título viii.
 
-###### Artigo 139.º — Princípios gerais
+Artigo 139.º
+
+Princípios gerais
 
 1 - Tendo em vista a salvaguarda da solidez financeira da instituição de crédito, dos interesses dos depositantes ou da estabilidade do sistema financeiro, o Banco de Portugal pode adoptar as medidas previstas no presente título.
 
 2 - A aplicação das medidas previstas no presente título está sujeita aos princípios da adequação e da proporcionalidade, tendo em conta o risco ou o grau de incumprimento, por parte da instituição de crédito, das regras legais e regulamentares que disciplinam a sua actividade, bem como a gravidade das respectivas consequências na solidez financeira da instituição em causa, nos interesses dos depositantes ou na estabilidade do sistema financeiro.
 
-###### Artigo 140.º — Aplicação das medidas
+Artigo 140.º
+
+Aplicação das medidas
 
 Na adopção das medidas previstas no presente título, o Banco de Portugal não se encontra vinculado a observar qualquer relação de precedência, estando habilitado, de acordo com as exigências de cada situação e os princípios indicados no artigo anterior, a combinar medidas de natureza diferente, sem prejuízo, em qualquer caso, da verificação dos respectivos pressupostos de aplicação.
 
-###### Artigo 141.º — Medidas de intervenção correctiva
+Artigo 141.º
+
+Medidas de intervenção correctiva
 
 1 - Quando uma instituição de crédito não cumpra, ou esteja em risco de não cumprir, normas legais ou regulamentares que disciplinem a sua actividade, o Banco de Portugal pode determinar, no prazo que fixar, a aplicação de uma ou mais das seguintes medidas, tendo em conta os princípios gerais enunciados no artigo 139.º:
 
@@ -354,7 +440,9 @@ c) O órgão de administração da instituição de crédito ter deixado de ofer
 
 d) A organização contabilística ou o sistema de controlo interno da instituição de crédito apresentarem insuficiências graves que não permitam avaliar devidamente a situação patrimonial da instituição.
 
-###### Artigo 142.º — Plano de reestruturação
+Artigo 142.º
+
+Plano de reestruturação
 
 1 - O plano de reestruturação previsto na alínea b) do n.º 1 do artigo anterior deve ser submetido à aprovação do Banco de Portugal, no prazo por este fixado.
 
@@ -370,7 +458,9 @@ d) A organização contabilística ou o sistema de controlo interno da institui�
 
 7 - (Revogado.)
 
-###### Artigo 143.º — Comissão de fiscalização ou fiscal único
+Artigo 143.º
+
+Comissão de fiscalização ou fiscal único
 
 1 - A comissão de fiscalização designada pelo Banco de Portugal nos termos da alínea d) do n.º 1 do artigo 141.º é composta por um mínimo de três elementos, um dos quais deve ser revisor oficial de contas ou sociedade de revisores oficiais de contas, que preside, devendo os restantes ter curso superior adequado ao exercício das funções e conhecimentos em auditoria ou contabilidade.
 
@@ -392,7 +482,9 @@ d) A organização contabilística ou o sistema de controlo interno da institui�
 
 10 - As entidades colectivas ou individuais suspensas ou substituídas nos termos do disposto nos números anteriores devem fornecer de imediato todas as informações e prestar a colaboração que lhes seja solicitada pelo Banco de Portugal ou pelos novos titulares designados para o órgão de fiscalização.
 
-###### Artigo 144.º — Regime de resolução ou liquidação
+Artigo 144.º
+
+Regime de resolução ou liquidação
 
 Verificando-se que as medidas de intervenção correctiva aplicadas não permitiram recuperar a instituição de crédito, ou considerando-se que as mesmas seriam insuficientes, pode, alternativamente, o Banco de Portugal:
 
@@ -402,7 +494,9 @@ b) Aplicar uma medida de resolução, se tal for necessário para garantir o cum
 
 c) Revogar a autorização para o exercício da respectiva actividade, seguindo-se o regime de liquidação previsto na lei aplicável.
 
-###### Artigo 145.º — Suspensão do órgão de administração e nomeação de administração provisória
+Artigo 145.º
+
+Suspensão do órgão de administração e nomeação de administração provisória
 
 1 - O Banco de Portugal pode determinar a suspensão do órgão de administração de uma instituição de crédito e nomear uma administração provisória quando se verifique alguma das situações a seguir enunciadas, que seja susceptível de colocar em sério risco o equilíbrio financeiro ou a solvabilidade da instituição ou de constituir uma ameaça para a estabilidade do sistema financeiro:
 
@@ -466,41 +560,59 @@ b) Dispensar, temporariamente, o cumprimento pontual de obrigações anteriormen
 
 14 - No âmbito de procedimentos cautelares que tenham por objecto a suspensão de deliberações tomadas pelos membros da administração provisória, presume-se, para todos os efeitos legais, que o prejuízo resultante da suspensão é superior ao que pode derivar da execução da deliberação.
 
-###### Artigo 146.º — Carácter urgente das medidas
+Artigo 146.º
+
+Carácter urgente das medidas
 
 1 - As decisões do Banco de Portugal adoptadas ao abrigo do presente título são consideradas urgentes nos termos e para os efeitos do disposto na alínea a) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo, não havendo lugar a audiência prévia dos interessados, sem prejuízo da faculdade prevista no número seguinte.
 
 2 - Se considerar que não existe o risco de que a execução ou a utilidade da decisão possa ficar comprometida, o Banco de Portugal deve ouvir o órgão de administração da instituição e os accionistas que forem detentores de participações qualificadas, com dispensa de qualquer formalidade de notificação, sobre aspectos relevantes das decisões a adoptar, no prazo, pela forma e através dos meios de comunicação que se mostrarem adequados à urgência da situação.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 Quando for adoptada uma medida de resolução, e enquanto ela durar, ficam suspensas, pelo prazo máximo de um ano, todas as execuções, incluindo as fiscais, contra a instituição, ou que abranjam os seus bens, sem excepção das que tenham por fim a cobrança de créditos com preferência ou privilégio, e são interrompidos os prazos de prescrição ou de caducidade oponíveis pela instituição.
 
-###### Artigo 148.º — Cooperação
+Artigo 148.º
+
+Cooperação
 
 Tratando-se de instituições de crédito que exerçam actividades de intermediação financeira, o Banco de Portugal mantém a Comissão do Mercado de Valores Mobiliários informada das providências que tomar nos termos do presente título, ouvindo-a, sempre que possível, antes de decidir a aplicação das mesmas.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 A adopção de medidas ao abrigo do presente título não obsta a que, em caso de infracção, sejam aplicadas as sanções previstas na lei.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 O disposto nos n.os 1 e 2 do artigo 218.º do Código de Procedimento e Processo Tributário aplica-se, com as necessárias adaptações, quando tenham lugar e enquanto decorram medidas de resolução, competindo ao Banco de Portugal exercer a faculdade atribuída naquele artigo ao administrador judicial.
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 Antes da decisão de aplicação de qualquer medida prevista no presente título às filiais previstas no artigo 18.º ou, não sendo possível, imediatamente depois, o Banco de Portugal deve informar as autoridades competentes do país estrangeiro acerca das medidas adoptadas.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 (Revogado.)
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 O disposto no presente título é aplicável, com as devidas adaptações, às sucursais de instituições de crédito não compreendidas no artigo 48.º e às sucursais das instituições financeiras abrangidas pelo artigo 189.º que exerçam as actividades previstas nas alíneas b) e c) do n.º 1 do artigo 199.º-A.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +626,9 @@ O disposto no presente título é aplicável, com as devidas adaptações, às s
 
 6 - Não são abrangidas pelo disposto no n.º 4 os saldos credores ou créditos que resultem de quaisquer operações de investimento, incluindo aquelas em que o reembolso do capital, acrescido de eventuais remunerações, apenas é garantido ao abrigo de um compromisso contratual específico, acordado com a instituição de crédito ou com uma terceira entidade.
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - ...
 
@@ -530,7 +644,9 @@ O disposto no presente título é aplicável, com as devidas adaptações, às s
 
 7 - ...
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - ...
 
@@ -542,7 +658,9 @@ O disposto no presente título é aplicável, com as devidas adaptações, às s
 
 5 - Podem participar nas reuniões da comissão directiva, sem direito de voto, por convocação do presidente, outras entidades cuja presença seja considerada necessária.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 O Fundo dispõe dos seguintes recursos:
 
@@ -558,7 +676,9 @@ e) ...
 
 f) ...
 
-###### Artigo 162.º — Recursos financeiros complementares
+Artigo 162.º
+
+Recursos financeiros complementares
 
 1 - Quando os recursos do Fundo previstos no artigo 159.º se mostrem insuficientes para o cumprimento das suas obrigações, podem ser utilizados os seguintes meios de financiamento:
 
@@ -592,7 +712,9 @@ c) Visarem exclusivamente a satisfação de necessidades imediatas e urgentes de
 
 d) Serem objecto de reembolso num curto período de tempo.
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 O Fundo garante, até aos limites previstos no artigo 166.º, o reembolso:
 
@@ -602,7 +724,9 @@ b) Dos depósitos constituídos em Portugal junto de sucursais referidas nas al�
 
 c) (Revogada.)
 
-###### Artigo 165.º — [...]
+Artigo 165.º
+
+[...]
 
 1 - ...
 
@@ -636,7 +760,9 @@ m) ...
 
 4 - ...
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 1 - ...
 
@@ -660,7 +786,9 @@ g) ...
 
 4 - No caso dos depósitos constituídos junto de uma instituição de crédito que seja objecto das medidas de resolução previstas no n.º 1 do artigo 145.º-C, os depósitos que forem alienados a outra instituição ou transferidos para um banco de transição serão tomados em consideração no cálculo do limite previsto no n.º 1, caso se venha a verificar uma situação de indisponibilidade de depósitos na instituição de crédito que tiver sido sujeita às referidas medidas.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - ...
 
@@ -690,7 +818,9 @@ c) ...
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 167.º-A — Intervenção no âmbito da execução de medidas de resolução
+Artigo 167.º-A
+
+Intervenção no âmbito da execução de medidas de resolução
 
 1 - A intervenção do Fundo nos termos do disposto no n.º 2 do artigo 155.º deve ter como limite máximo o montante necessário para cobrir a diferença entre os depósitos garantidos, nos termos dos artigos 164.º e 166.º, que sejam alienados a outra instituição ou transferidos para um banco de transição e o valor dos activos alienados ou transferidos, não podendo exceder o valor dos depósitos que seriam susceptíveis de reembolso pelo Fundo no caso de se verificar uma situação de indisponibilidade de depósitos.
 
@@ -704,19 +834,25 @@ c) ...
 
 6 - (Revogado.)
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - Salvo o disposto em lei especial, é aplicável às sociedades financeiras, com as necessárias adaptações, o disposto nos artigos 93.º, 116.º, 116.º-A, 116.º-B, 116.º-C, 116.º-F, 116.º-G, 118.º a 121.º e 125.º a 128.º
 
 2 - ...
 
-###### Artigo 198.º — Intervenção correctiva e administração provisória
+Artigo 198.º
+
+Intervenção correctiva e administração provisória
 
 1 - Salvo o disposto em lei especial, é aplicável, com as necessárias adaptações, às sociedades financeiras e às sucursais estabelecidas em Portugal o disposto nos capítulos i, ii e iv do título viii.
 
 2 - Tratando-se de sociedades financeiras que exerçam actividades de intermediação financeira, o Banco de Portugal mantém a Comissão do Mercado de Valores Mobiliários informada das providências que tomar nos termos dos capítulos referidos no número anterior, ouvindo-a, sempre que possível, antes de decidir a aplicação das providências ou decisões previstas nos artigos 141.º a 145.º
 
-###### Artigo 199.º-I — [...]
+Artigo 199.º-I
+
+[...]
 
 1 - ...
 
@@ -730,7 +866,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 ...
 
@@ -758,7 +896,9 @@ l) ...
 
 m) [Anterior alínea j).]
 
-###### Artigo 211.º — [...]
+Artigo 211.º
+
+[...]
 
 ...
 
@@ -886,7 +1026,9 @@ c) A reduzida dimensão e importância da instituição de crédito, em termos d
 
 15 - Se a instituição obrigada à apresentação de planos de recuperação e de resolução exercer uma actividade de intermediação financeira, o Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários os respectivos planos de recuperação e de resolução.
 
-###### Artigo 116.º-E — Poderes adicionais
+Artigo 116.º-E
+
+Poderes adicionais
 
 1 - Se, a partir da análise dos planos de recuperação ou de resolução, o Banco de Portugal detectar a existência de quaisquer constrangimentos de natureza legal ou operacional, ou resultantes do modelo de negócio adoptado pela instituição de crédito, à potencial aplicação de medidas de intervenção correctiva ou de resolução pode exigir a remoção desses constrangimentos, no prazo que fixar, com o objectivo de assegurar que as funções económicas essenciais com potencial impacto sistémico sejam preservadas, em caso de necessidade, através da respectiva cisão, no quadro da aplicação de medidas de resolução.
 
@@ -908,7 +1050,9 @@ g) Imposição de reportes adicionais.
 
 3 - Se a instituição de crédito exercer uma actividade de intermediação financeira, o Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as providências adoptadas, que possam ter impacto no desenvolvimento da actividade de intermediação financeira.
 
-###### Artigo 116.º-F — Dever de comunicação
+Artigo 116.º-F
+
+Dever de comunicação
 
 1 - Quando uma instituição de crédito se encontre, por qualquer razão, em situação de desequilíbrio financeiro, ou em risco de o ficar, o órgão de administração ou de fiscalização deve comunicar imediatamente o facto ao Banco de Portugal.
 
@@ -956,7 +1100,9 @@ j) Existência de contingências materialmente relevantes de natureza fiscal ou 
 
 8 - O Banco de Portugal pode definir, por instrução, critérios para a aplicação do disposto no n.º 2 do presente artigo.
 
-###### Artigo 116.º-G — Participação de irregularidades
+Artigo 116.º-G
+
+Participação de irregularidades
 
 1 - As instituições de crédito devem implementar os meios adequados de recepção, tratamento e arquivo das participações de irregularidades graves relacionadas com a administração, organização contabilística e fiscalização interna da instituição de crédito, susceptíveis de as colocarem em situação de desequilíbrio financeiro, de modo a assegurar que sejam comunicadas ao órgão de fiscalização pelos empregados da instituição de crédito, seus mandatários, comissários ou outras pessoas que lhes prestem serviços a título permanente ou ocasional.
 
@@ -970,7 +1116,9 @@ j) Existência de contingências materialmente relevantes de natureza fiscal ou 
 
 6 - As instituições de crédito devem apresentar ao Banco de Portugal um relatório anual com a descrição dos meios referidos no n.º 1 e com indicação sumária das participações recebidas e do respectivo processamento.
 
-###### Artigo 145.º-A — Finalidades das medidas de resolução
+Artigo 145.º-A
+
+Finalidades das medidas de resolução
 
 O Banco de Portugal pode aplicar, relativamente às instituições de crédito com sede em Portugal, as medidas previstas no presente capítulo, com o objectivo de prosseguir qualquer das seguintes finalidades:
 
@@ -982,13 +1130,17 @@ c) Salvaguardar os interesses dos contribuintes e do erário público;
 
 d) Salvaguardar a confiança dos depositantes.
 
-###### Artigo 145.º-B — Princípio orientador da aplicação de medidas de resolução
+Artigo 145.º-B
+
+Princípio orientador da aplicação de medidas de resolução
 
 1 - Na aplicação de medidas de resolução, procura assegurar-se que os accionistas e os credores da instituição de crédito assumem prioritariamente os prejuízos da instituição em causa, de acordo com a respectiva hierarquia e em condições de igualdade dentro de cada classe de credores.
 
 2 - O disposto no número anterior não abrange os depósitos garantidos nos termos do disposto nos artigos 164.º e 166.º
 
-###### Artigo 145.º-C — Aplicação de medidas de resolução
+Artigo 145.º-C
+
+Aplicação de medidas de resolução
 
 1 - Quando uma instituição de crédito não cumpra, ou esteja em risco sério de não cumprir, os requisitos para a manutenção da autorização para o exercício da sua actividade, o Banco de Portugal pode aplicar as seguintes medidas de resolução, se tal for indispensável para a prossecução de qualquer das finalidades previstas no artigo 145.º-A:
 
@@ -1010,7 +1162,9 @@ c) A instituição de crédito estiver impossibilitada de cumprir as suas obriga
 
 5 - A aplicação de uma medida de resolução não prejudica a possibilidade de aplicação, a qualquer momento, de uma ou mais medidas de intervenção correctiva.
 
-###### Artigo 145.º-D — Suspensão dos órgãos de administração e fiscalização
+Artigo 145.º-D
+
+Suspensão dos órgãos de administração e fiscalização
 
 1 - Quando o Banco de Portugal decidir aplicar uma medida de resolução, ficam suspensos os membros dos órgãos de administração e de fiscalização da instituição de crédito em causa e, caso o Banco de Portugal o decida, o revisor oficial de contas ou a sociedade de revisores oficiais de contas a quem compete emitir a certificação legal de contas e que não integre o respectivo órgão de fiscalização.
 
@@ -1020,7 +1174,9 @@ c) A instituição de crédito estiver impossibilitada de cumprir as suas obriga
 
 4 - Os membros dos órgãos de administração e de fiscalização, bem assim o revisor oficial de contas ou a sociedade de revisores oficiais de contas a quem compete emitir a certificação legal de contas e que não integre o respectivo órgão de fiscalização, suspensos nos termos do disposto no n.º 1 devem fornecer todas as informações que lhes sejam solicitadas pelo Banco de Portugal, bem como prestar a colaboração que lhes seja requerida pelo Banco de Portugal para efeitos da aplicação das medidas de resolução.
 
-###### Artigo 145.º-E — Administração
+Artigo 145.º-E
+
+Administração
 
 1 - Os administradores designados pelo Banco de Portugal nos termos do disposto no n.º 2 do artigo anterior são remunerados pela instituição e, para além dos poderes e deveres conferidos pela lei e pelos estatutos aos membros do órgão de administração, têm, ainda, os seguintes:
 
@@ -1032,7 +1188,9 @@ b) O poder de executar as decisões adoptadas pelo Banco de Portugal ao abrigo d
 
 3 - É aplicável, com as devidas adaptações, o disposto nos n.os 3, 4 e 6 a 10 do artigo 145.º
 
-###### Artigo 145.º-F — Alienação total ou parcial da actividade
+Artigo 145.º-F
+
+Alienação total ou parcial da actividade
 
 1 - O Banco de Portugal pode determinar a alienação, parcial ou total, de activos, passivos, elementos extrapatrimoniais e activos sob gestão de uma instituição de crédito a uma ou mais instituições autorizadas a desenvolver a actividade em causa.
 
@@ -1072,7 +1230,9 @@ b) A instituição de crédito alienante, bem como qualquer sociedade inserida n
 
 17 - Se da alienação prevista no n.º 1 decorrer uma operação de concentração nos termos da legislação aplicável em matéria de concorrência, esta operação pode realizar-se antes de ter sido objecto de uma decisão de não oposição por parte da Autoridade da Concorrência, sem prejuízo das medidas que sejam posteriormente determinadas por esta Autoridade.
 
-###### Artigo 145.º-G — Transferência parcial ou total da actividade para bancos de transição
+Artigo 145.º-G
+
+Transferência parcial ou total da actividade para bancos de transição
 
 1 - O Banco de Portugal pode determinar a transferência, parcial ou total, de activos, passivos, elementos extrapatrimoniais e activos sob gestão de uma instituição de crédito para um ou mais bancos de transição para o efeito constituídos, com o objectivo de permitir a sua posterior alienação a outra instituição autorizada a desenvolver a actividade em causa.
 
@@ -1102,7 +1262,9 @@ b) A instituição de crédito alienante, bem como qualquer sociedade inserida n
 
 14 - A transferência, parcial ou total, de activos, passivos, elementos extrapatrimoniais e activos sob gestão de uma instituição de crédito para um ou mais bancos de transição para o efeito constituídos é comunicada à Autoridade da Concorrência, bem como a eventual prorrogação do prazo previsto no n.º 12, mas atendendo à sua transitoriedade não consubstancia uma operação de concentração de empresas para efeitos da legislação aplicável em matéria de concorrência.
 
-###### Artigo 145.º-H — Património e financiamento do banco de transição
+Artigo 145.º-H
+
+Património e financiamento do banco de transição
 
 1 - O Banco de Portugal selecciona os activos, passivos, elementos extrapatrimoniais e activos sob gestão a transferir para o banco de transição no momento da sua constituição.
 
@@ -1142,7 +1304,9 @@ b) Transferir activos, passivos, elementos extrapatrimoniais e activos sob gest�
 
 13 - A eventual transferência parcial dos activos, passivos, elementos extrapatrimoniais e activos sob gestão para o banco de transição não deve prejudicar a cessão integral das posições contratuais da instituição de crédito originária, com transmissão das responsabilidades associadas aos elementos do activo transferidos, nomeadamente no caso de contratos de garantia financeira, de operações de titularização ou de outros contratos que contenham cláusulas de compensação ou de novação.
 
-###### Artigo 145.º-I — Alienação do património do banco de transição
+Artigo 145.º-I
+
+Alienação do património do banco de transição
 
 1 - Sem prejuízo dos actos de disposição que caibam nos poderes de gestão da administração do banco de transição, o Banco de Portugal, quando considerar que se encontram reunidas as condições necessárias para alienar, parcial ou totalmente, os activos, passivos, elementos extrapatrimoniais e activos sob gestão que tenham sido transferidos para o banco de transição, convida, assegurando a transparência do processo, outras instituições autorizadas a desenvolver a actividade em causa a apresentarem propostas de aquisição.
 
@@ -1160,7 +1324,9 @@ b) Ao Fundo de Garantia de Depósitos ou ao Fundo de Garantia do Crédito Agríc
 
 6 - Caso não seja possível alienar a totalidade dos activos, passivos, elementos extrapatrimoniais e activos sob gestão transferidos para o banco de transição, o Banco de Portugal pode decidir que este entre em liquidação, seguindo-se os termos aplicáveis à liquidação extrajudicial de instituições de crédito.
 
-###### Artigo 145.º-J — Outras providências
+Artigo 145.º-J
+
+Outras providências
 
 1 - Em simultâneo com a aplicação de uma medida de resolução, o Banco de Portugal pode determinar a aplicação das seguintes providências em relação às instituições de crédito abrangidas por essa medida, desde que necessárias à prossecução das finalidades previstas no artigo 145.º-A:
 
@@ -1174,7 +1340,9 @@ c) Encerramento temporário de balcões e outras instalações em que tenham lug
 
 3 - As medidas previstas no presente artigo têm a duração máxima de um ano, prorrogável até ao máximo de dois anos.
 
-###### Artigo 145.º-L — Convenções de compensação e de novação
+Artigo 145.º-L
+
+Convenções de compensação e de novação
 
 1 - A aplicação pelo Banco de Portugal de qualquer medida de resolução determina a suspensão, por um período de 48 horas, a contar do momento da respectiva notificação ou, se anterior, a partir do anúncio que torne pública a decisão do Banco de Portugal, do direito de vencimento antecipado, estipulado no âmbito de convenções de compensação e de novação (netting agreements), dos contratos em que a instituição de crédito visada seja parte, quando o exercício desse direito tenha como fundamento a aplicação da medida de resolução em causa.
 
@@ -1184,11 +1352,15 @@ c) Encerramento temporário de balcões e outras instalações em que tenham lug
 
 4 - O disposto no n.º 1 não se aplica nos casos em que o direito de vencimento antecipado resulte de cláusulas convencionadas em contratos de garantia financeira, nem prejudica o disposto na Directiva n.º [98/26/CE](https://data.europa.eu/eli/dir/1998/26/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Maio de 1998, relativa ao funcionamento dos sistemas de pagamentos e de liquidação.
 
-###### Artigo 145.º-M — Regime de liquidação
+Artigo 145.º-M
+
+Regime de liquidação
 
 Se, após a aplicação de qualquer medida de resolução, o Banco de Portugal entender que se encontram asseguradas as finalidades previstas no artigo 145.º-A, e verificar que a instituição não cumpre os requisitos para a manutenção da autorização para o exercício da sua actividade, pode revogar a autorização da instituição de crédito que tenha sido objecto da medida em causa, seguindo-se o regime de liquidação previsto na lei aplicável.
 
-###### Artigo 145.º-N — Meios contenciosos e interesse público
+Artigo 145.º-N
+
+Meios contenciosos e interesse público
 
 1 - Sem prejuízo do disposto no artigo 12.º, as decisões do Banco de Portugal que adoptem medidas de resolução estão sujeitas aos meios processuais previstos na legislação do contencioso administrativo, com ressalva das especialidades previstas nos números seguintes, considerando os interesses públicos relevantes que determinam a sua adopção.
 
@@ -1200,7 +1372,9 @@ Se, após a aplicação de qualquer medida de resolução, o Banco de Portugal e
 
 5 - Notificado nos termos e para os efeitos do n.º 1 do artigo 178.º do Código do Processo dos Tribunais Administrativos, o Banco de Portugal comunica ao interessado e ao tribunal os relatórios das avaliações de activos efectuadas por entidades independentes em seu poder que tenham sido requeridos com vista à adopção das medidas previstas no presente capítulo.
 
-###### Artigo 145.º-O — Avaliações e cálculo de indemnizações
+Artigo 145.º-O
+
+Avaliações e cálculo de indemnizações
 
 1 - Para efeitos do disposto no n.º 4 do artigo anterior, bem como de qualquer meio contencioso onde seja discutido o pagamento de indemnização relacionada com a adopção das medidas previstas no n.º 1 do artigo 145.º-C, não deve ser tomada em consideração a mais-valia resultante de qualquer apoio financeiro público, nomeadamente do que seja prestado pelo Fundo de Resolução, ou da intervenção eventualmente realizada pelo Fundo de Garantia de Depósitos ou pelo Fundo de Garantia do Crédito Agrícola Mútuo.
 
@@ -1208,11 +1382,15 @@ Se, após a aplicação de qualquer medida de resolução, o Banco de Portugal e
 
 3 - O pagamento das indemnizações a que se refere o presente artigo é suportado pelo Fundo de Resolução, salvo nos casos em que o Banco de Portugal responda civilmente por facto ilícito.
 
-###### Artigo 153.º-A — Regime geral de recuperação de empresas e protecção de credores
+Artigo 153.º-A
+
+Regime geral de recuperação de empresas e protecção de credores
 
 Não se aplica às instituições de crédito o regime geral relativo aos meios de recuperação de empresas e protecção de credores.
 
-###### Artigo 153.º-B — Criação e natureza do Fundo de Resolução
+Artigo 153.º-B
+
+Criação e natureza do Fundo de Resolução
 
 1 - É criado o Fundo de Resolução, adiante designado por Fundo, pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
@@ -1220,11 +1398,15 @@ Não se aplica às instituições de crédito o regime geral relativo aos meios 
 
 3 - O Fundo rege-se pelo presente diploma, pelos seus regulamentos e, subsidiariamente, pela lei-quadro dos institutos públicos.
 
-###### Artigo 153.º-C — Objecto do Fundo de Resolução
+Artigo 153.º-C
+
+Objecto do Fundo de Resolução
 
 O Fundo tem por objecto prestar apoio financeiro à aplicação de medidas de resolução adoptadas pelo Banco de Portugal e desempenhar todas as demais funções que lhe sejam conferidas pela lei no âmbito da execução de tais medidas.
 
-###### Artigo 153.º-D — Instituições participantes do Fundo de Resolução
+Artigo 153.º-D
+
+Instituições participantes do Fundo de Resolução
 
 1 - Participam obrigatoriamente no Fundo:
 
@@ -1240,7 +1422,9 @@ e) As sociedades relevantes para sistemas de pagamentos sujeitas à supervisão 
 
 2 - Ficam dispensadas de participar no Fundo as caixas de crédito agrícola mútuo associadas da Caixa Central de Crédito Agrícola Mútuo.
 
-###### Artigo 153.º-E — Comissão directiva do Fundo de Resolução
+Artigo 153.º-E
+
+Comissão directiva do Fundo de Resolução
 
 1 - O Fundo é gerido por uma comissão directiva composta por três membros:
 
@@ -1260,7 +1444,9 @@ c) Um membro designado por acordo entre o Banco de Portugal e o membro do Govern
 
 6 - Podem participar nas reuniões da comissão directiva, sem direito de voto, por convocação do presidente, outras entidades cuja presença seja considerada necessária.
 
-###### Artigo 153.º-F — Recursos financeiros do Fundo de Resolução
+Artigo 153.º-F
+
+Recursos financeiros do Fundo de Resolução
 
 1 - O Fundo dispõe dos seguintes recursos:
 
@@ -1280,33 +1466,45 @@ g) Quaisquer outras receitas, rendimentos ou valores que provenham da sua activi
 
 2 - Os empréstimos previstos na alínea d) do número anterior não podem ser concedidos pelo Banco de Portugal.
 
-###### Artigo 153.º-G — Contribuições iniciais das instituições participantes
+Artigo 153.º-G
+
+Contribuições iniciais das instituições participantes
 
 1 - No prazo de 30 dias a contar do registo do início da sua actividade, as instituições participantes entregam ao Fundo uma contribuição inicial cujo valor é fixado em diploma próprio, sob proposta da comissão directiva do Fundo.
 
 2 - São dispensadas de contribuição inicial as instituições que resultem de operações de fusão, cisão ou transformação de participantes no Fundo.
 
-###### Artigo 153.º-H — Contribuições periódicas das instituições participantes
+Artigo 153.º-H
+
+Contribuições periódicas das instituições participantes
 
 1 - As instituições participantes entregam ao Fundo, até ao último dia útil do mês de Abril, uma contribuição anual cujo valor é fixado em diploma próprio.
 
 2 - O valor da contribuição anual da Caixa Central de Crédito Agrícola Mútuo deve ter por referência a situação financeira consolidada do Sistema Integrado do Crédito Agrícola Mútuo.
 
-###### Artigo 153.º-I — Recursos financeiros complementares do Fundo de Resolução
+Artigo 153.º-I
+
+Recursos financeiros complementares do Fundo de Resolução
 
 1 - Se os recursos do Fundo se mostrarem insuficientes para o cumprimento das suas obrigações, pode ser determinado por diploma próprio que as instituições participantes efectuem contribuições especiais, e definir os montantes, prestações, prazos e demais termos dessas contribuições.
 
 2 - Nos termos do mesmo diploma, uma instituição participante pode não ser obrigada a efectuar contribuições especiais, com fundamento na sua situação de solvabilidade.
 
-###### Artigo 153.º-J — Contribuições adicionais do Estado
+Artigo 153.º-J
+
+Contribuições adicionais do Estado
 
 Aos recursos previstos no artigo anterior poderão ainda acrescer, excepcionalmente, contribuições adicionais do Estado para o Fundo, nomeadamente sob a forma de empréstimos ou prestação de garantias.
 
-###### Artigo 153.º-L — Outros mecanismos de financiamento
+Artigo 153.º-L
+
+Outros mecanismos de financiamento
 
 Por portaria do membro do Governo responsável pela área das finanças pode ser determinado que as instituições participantes disponibilizem garantias, pessoais ou reais, necessárias à viabilização de empréstimos a contrair pelo Fundo.
 
-###### Artigo 153.º-M — Disponibilização de recursos
+Artigo 153.º-M
+
+Disponibilização de recursos
 
 1 - O Fundo disponibiliza os recursos determinados pelo Banco de Portugal para efeitos da aplicação de medidas de resolução.
 
@@ -1314,11 +1512,15 @@ Por portaria do membro do Governo responsável pela área das finanças pode ser
 
 3 - A disponibilização de recursos financeiros nos termos do presente artigo processar-se-á com observância das regras e orientações da União Europeia em matéria de auxílios de Estado.
 
-###### Artigo 153.º-N — Aplicação de recursos do Fundo de Resolução
+Artigo 153.º-N
+
+Aplicação de recursos do Fundo de Resolução
 
 O Fundo aplica os recursos disponíveis em operações financeiras, mediante plano de aplicações acordado com o Banco de Portugal.
 
-###### Artigo 153.º-O — Despesas
+Artigo 153.º-O
+
+Despesas
 
 Constituem despesas do Fundo:
 
@@ -1326,31 +1528,45 @@ a) Os valores a pagar no âmbito do apoio financeiro à aplicação de medidas d
 
 b) As despesas administrativas e operacionais decorrentes da aplicação de medidas de resolução.
 
-###### Artigo 153.º-P — Serviços do Fundo de Resolução
+Artigo 153.º-P
+
+Serviços do Fundo de Resolução
 
 O Banco de Portugal assegura os serviços técnicos e administrativos indispensáveis ao bom funcionamento do Fundo.
 
-###### Artigo 153.º-Q — Períodos de exercício do Fundo de Resolução
+Artigo 153.º-Q
+
+Períodos de exercício do Fundo de Resolução
 
 Os períodos de exercício do Fundo correspondem ao ano civil.
 
-###### Artigo 153.º-R — Plano de contas do Fundo de Resolução
+Artigo 153.º-R
+
+Plano de contas do Fundo de Resolução
 
 O plano de contas do Fundo será organizado de modo a permitir identificar claramente a sua estrutura patrimonial e o seu funcionamento e a registar todas as operações realizadas.
 
-###### Artigo 153.º-S — Fiscalização do Fundo de Resolução
+Artigo 153.º-S
+
+Fiscalização do Fundo de Resolução
 
 O Conselho de Auditoria do Banco de Portugal acompanha a actividade do Fundo, zela pelo cumprimento das leis e regulamentos e emite parecer acerca das contas anuais.
 
-###### Artigo 153.º-T — Relatório e contas do Fundo de Resolução
+Artigo 153.º-T
+
+Relatório e contas do Fundo de Resolução
 
 Até 31 de Março de cada ano, o Fundo apresenta ao membro do Governo responsável pela área das finanças, para aprovação, relatório e contas referidos a 31 de Dezembro do ano anterior e acompanhados do parecer do Conselho de Auditoria do Banco de Portugal.
 
-###### Artigo 153.º-U — Regulamentação do Fundo de Resolução
+Artigo 153.º-U
+
+Regulamentação do Fundo de Resolução
 
 O membro do Governo responsável pela área das finanças aprova, por portaria e sob proposta da comissão directiva, ouvido o Banco de Portugal, os regulamentos necessários à actividade do Fundo.
 
-###### Artigo 166.º-A — Privilégios creditórios
+Artigo 166.º-A
+
+Privilégios creditórios
 
 1 - Os créditos por depósitos abrangidos pela garantia do Fundo, dentro do limite previsto no artigo 166.º, gozam de privilégio geral sobre os bens móveis da instituição depositária e de privilégio especial sobre os imóveis próprios da mesma instituição de crédito.
 
@@ -1396,7 +1612,9 @@ Os artigos 2.º, 4.º, 7.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n
 
 5 - O disposto no n.º 2 não prejudica o estatuído nos artigos 78.º e 79.º do Regime Jurídico do Crédito Agrícola Mútuo, aprovado pelo Decreto-Lei n.º 24/91, de 11 de Janeiro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -1404,7 +1622,9 @@ Os artigos 2.º, 4.º, 7.º, 10.º, 11.º, 12.º, 13.º e 14.º do Decreto-Lei n
 
 3 - Não são abrangidos pelo disposto no n.º 1 os saldos credores ou créditos que resultem de quaisquer operações de investimento, incluindo aquelas em que o reembolso do capital, acrescido de eventuais remunerações, apenas é garantido ao abrigo de um compromisso contratual específico, acordado com a instituição de crédito ou com uma terceira entidade.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O Fundo dispõe dos seguintes recursos:
 
@@ -1420,7 +1640,9 @@ e) ...
 
 f) ...
 
-###### Artigo 10.º — Recursos financeiros complementares
+Artigo 10.º
+
+Recursos financeiros complementares
 
 1 - Quando os recursos do Fundo previstos no artigo 7.º se mostrem insuficientes para o cumprimento das suas obrigações, podem ser utilizados os seguintes meios de financiamento:
 
@@ -1452,13 +1674,17 @@ c) Visarem exclusivamente a satisfação de necessidades imediatas e urgentes de
 
 d) Serem objecto de reembolso num curto período de tempo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Os activos referidos na alínea a) do número anterior não podem ser utilizados para os efeitos previstos nos n.os 2 a 4 do artigo 2.º
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -1482,7 +1708,9 @@ g) ...
 
 4 - No caso dos depósitos constituídos junto de uma instituição participante que seja objecto de medidas de resolução, os depósitos que forem alienados a outra instituição ou transferidos para um banco de transição serão tomados em consideração no cálculo do limite previsto no n.º 1, caso se venha a verificar uma situação de indisponibilidade de depósitos na instituição de crédito que tiver sido sujeita às referidas medidas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -1516,7 +1744,9 @@ m) ...
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -1554,7 +1784,9 @@ Privilégios creditórios
 
 3 - O regime dos privilégios creditórios, previsto nos números anteriores é igualmente aplicável aos créditos titulados pelo Fundo decorrentes da assistência financeira prestada nos termos do n.º 3 do artigo 2.º
 
-###### Artigo 15.º-A — Intervenção no âmbito da execução de medidas de resolução
+Artigo 15.º-A
+
+Intervenção no âmbito da execução de medidas de resolução
 
 1 - A intervenção do Fundo nos termos do disposto no n.º 3 do artigo 2.º deve ter como limite máximo o montante necessário para cobrir a diferença entre os depósitos garantidos, nos termos dos artigos 4.º e 12.º, que sejam alienados a outra instituição ou transferidos para um banco de transição e o valor dos activos alienados ou transferidos, não podendo exceder o valor dos depósitos que seriam susceptíveis de reembolso pelo Fundo no caso de se verificar uma situação de indisponibilidade de depósitos.
 
@@ -1574,11 +1806,15 @@ Os artigos 2.º, 3.º, 4.º, 7.º, 8.º, 10.º, 11.º, 15.º, 26.º, 36.º e 37.
 
 3 - São consideradas medidas de saneamento nos termos da alínea a) do n.º 1 a nomeação de administração provisória e as medidas de resolução previstas, respectivamente, nos capítulos ii e iii do título viii do RGICSF.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as propostas ou medidas adoptadas no âmbito do saneamento ou da liquidação de instituições de crédito ou de sociedades financeiras que sejam intermediários financeiros registados naquela Comissão, sem prejuízo do disposto nos artigos 145.º, 145.º-A, 198.º e 199.º do RGICSF.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -1588,7 +1824,9 @@ O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as 
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -1598,7 +1836,9 @@ O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as 
 
 4 - Na pendência da liquidação, é aplicável, com as necessárias adaptações, o disposto nos títulos vi e vii do RGICSF.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A liquidação judicial das instituições de crédito fundada na revogação de autorização pelo Banco de Portugal faz-se nos termos do presente diploma e, em tudo o que nele não estiver previsto, nos termos do Código da Insolvência e da Recuperação de Empresas.
 
@@ -1610,7 +1850,9 @@ O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as 
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -1620,13 +1862,17 @@ O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as 
 
 4 - O liquidatário judicial ou os membros da comissão liquidatária são propostos pelo Banco de Portugal, tendo em conta critérios de idoneidade e experiência de exercício de funções no sector financeiro.
 
-###### Artigo 11.º — Comunicação ao Fundo de Garantia de Depósitos ou ao Fundo de Garantia do Crédito Agrícola Mútuo e ao Sistema de Indemnização aos Investidores
+Artigo 11.º
+
+Comunicação ao Fundo de Garantia de Depósitos ou ao Fundo de Garantia do Crédito Agrícola Mútuo e ao Sistema de Indemnização aos Investidores
 
 1 - No prazo estabelecido para entrega na secretaria judicial da lista dos credores reconhecidos e não reconhecidos, o liquidatário remete cópia da mesma ao Fundo de Garantia de Depósitos ou, respeitando o processo à liquidação de uma caixa de crédito agrícola mútuo pertencente ao Sistema Integrado do Crédito Agrícola Mútuo, ao Fundo de Garantia do Crédito Agrícola Mútuo e, tratando-se de participante, ao Sistema de Indemnização aos Investidores.
 
 2 - No caso de se aplicar o procedimento previsto no artigo 7.º-A, os administradores pré-judiciais remetem às entidades referidas no número anterior a lista provisória de créditos sobre a liquidação, logo que a mesma esteja concluída.
 
-###### Artigo 15.º — Efeitos sobre a liquidação da suspensão de eficácia do acto de revogação
+Artigo 15.º
+
+Efeitos sobre a liquidação da suspensão de eficácia do acto de revogação
 
 1 - Os efeitos previstos na parte final do n.º 3 do artigo 40.º do CIRE apenas se produzem no caso de ter sido requerida a suspensão de eficácia do acto de revogação da autorização para o exercício da actividade, sem prejuízo da faculdade de o Banco de Portugal emitir resolução fundamentada, nos termos e com os efeitos previstos no artigo 128.º do Código de Processo nos Tribunais Administrativos.
 
@@ -1634,19 +1880,25 @@ O Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários as 
 
 3 - Das decisões, ainda que não definitivas, que alterem, revoguem ou declarem a caducidade da providência de suspensão da eficácia, bem como das que julguem definitivamente procedente a impugnação contenciosa do acto de revogação, é igualmente enviada cópia ao tribunal da liquidação, sem prejuízo da faculdade que assiste a qualquer interessado regularmente notificado de requerer a junção da referida decisão ao processo de liquidação, para os efeitos do disposto no n.º 1.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
 2 - O Banco de Portugal e o tribunal competente para a liquidação da sucursal em Portugal coordenam as suas acções com as autoridades administrativas ou judiciais dos Estados membros a que se refere o número anterior, devendo o liquidatário nomeado no âmbito do processo de liquidação, incluindo, se for o caso, os administradores pré-judiciais, proceder da mesma maneira em relação aos seus congéneres.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A prova da nomeação dos administradores ou do liquidatário, incluindo, se for o caso, dos administradores pré-judiciais, é efectuada mediante apresentação de cópia autenticada da decisão da sua nomeação ou de certificado emitido pelas autoridades competentes.
 
 2 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Sem prejuízo da respectiva obrigatoriedade, quando prevista, os administradores, o liquidatário, incluindo, se for o caso, os administradores pré-judiciais, e as autoridades administrativas ou judiciais têm legitimidade para requerer a inscrição das medidas de saneamento ou de instauração do processo de liquidação no registo predial ou comercial.»
 
@@ -1660,7 +1912,9 @@ Procedimento pré-judicial
 
 Caso exista urgência no início das operações de liquidação, nomeadamente para garantir a continuidade de funções essenciais da instituição de crédito e a conservação do seu património, ou para salvaguarda da estabilidade do sistema financeiro, o Banco de Portugal, na decisão que revogar a autorização, pode nomear um ou mais administradores pré-judiciais, que exercerão funções sob o seu controlo por um prazo de até 6 meses, renovável por igual período.
 
-###### Artigo 7.º-B — Efeitos do procedimento pré-judicial
+Artigo 7.º-B
+
+Efeitos do procedimento pré-judicial
 
 1 - Com a notificação do acto de revogação à instituição de crédito, deve a mesma entregar imediatamente aos administradores pré-judiciais os documentos a que se refere o n.º 1 do artigo 24.º do Código da Insolvência e da Recuperação de Empresas, bem como os elementos da contabilidade e todos os seus bens, ainda que arrestados e penhorados, ou por qualquer forma detidos por terceiros.
 
@@ -1670,7 +1924,9 @@ a) A apensação de processos pendentes prevista pelos artigos 85.º e 86.º do 
 
 b) Enquanto os administradores pré-judiciais estiverem em funções, as acções destinadas a impugnar a eventual resolução de actos prejudicais para a massa em liquidação, ao abrigo dos artigos 120.º e seguintes do Código da Insolvência e da Recuperação de Empresas, devem ser propostas contra a massa, representada em juízo pelos administradores pré-judiciais, no tribunal competente para a liquidação, procedendo-se à sua apensação aos autos da liquidação judicial logo que proferido o despacho de prosseguimento.
 
-###### Artigo 7.º-C — Administradores pré-judiciais
+Artigo 7.º-C
+
+Administradores pré-judiciais
 
 1 - Na nomeação dos administradores pré-judiciais, o Banco de Portugal tem em conta critérios de idoneidade e experiência de funções no sector financeiro.
 
@@ -1678,7 +1934,9 @@ b) Enquanto os administradores pré-judiciais estiverem em funções, as acçõe
 
 3 - Tratando-se de instituições de crédito ou sociedades financeiras que exerçam actividades de intermediação financeira, o Banco de Portugal comunica à Comissão do Mercado de Valores Mobiliários a identidade dos administradores pré-judiciais nomeados.
 
-###### Artigo 7.º-D — Funções dos administradores pré-judiciais e reclamação dos seus actos
+Artigo 7.º-D
+
+Funções dos administradores pré-judiciais e reclamação dos seus actos
 
 1 - Sem prejuízo do dever de diligência na gestão e liquidação da massa, cabe aos administradores pré-judiciais, em especial, exercer os poderes de administração e disposição do administrador da insolvência, carecendo de autorização do Banco de Portugal para a prática dos actos de especial relevo referidos nas alíneas a) a d) e e) do n.º 3 do artigo 161.º do Código da Insolvência e da Recuperação de Empresas.
 
@@ -1690,11 +1948,15 @@ b) Enquanto os administradores pré-judiciais estiverem em funções, as acçõe
 
 5 - Dos actos dos administradores pré-judiciais susceptíveis de causar prejuízo aos credores ou aos accionistas da instituição, cabe reclamação para o Banco de Portugal, no prazo de 10 dias após o conhecimento do acto, pelos credores interessados ou por detentores de participações qualificadas que atinjam, individualmente ou em conjunto, pelo menos 10 % do capital ou dos direitos de voto, sendo proferida decisão no prazo de 20 dias.
 
-###### Artigo 15.º-A — Execução de sentença e interesse público
+Artigo 15.º-A
+
+Execução de sentença e interesse público
 
 O Banco de Portugal pode, em execução de sentença anulatória do acto de revogação da autorização para o exercício da actividade, invocar causa legítima de inexecução, nos termos conjugados do n.º 2 do artigo 175.º e do artigo 163.º do Código de Processo nos Tribunais Administrativos, iniciando-se, nesse caso, de imediato, o procedimento tendente à fixação da indemnização devida, de acordo com os trâmites previstos nos artigos 178.º e 166.º daquele mesmo Código.
 
-###### Artigo 15.º-B — Insolvência da sociedade-mãe
+Artigo 15.º-B
+
+Insolvência da sociedade-mãe
 
 1 - Se a instituição de crédito for totalmente dominada por outra sociedade ou mantiver a gestão da sua própria actividade subordinada, por contrato, à direcção de outra sociedade, nos termos do Código das Sociedades Comerciais, o Banco de Portugal pode requerer a insolvência da sociedade dominante ou directora, se tiver fundadas razões para concluir, a partir da situação patrimonial líquida da instituição de crédito dominada em liquidação, que o activo da sociedade dominante ou directora será provavelmente insuficiente para satisfazer o passivo próprio, acrescido do passivo não pago da instituição dominada.
 
@@ -1752,15 +2014,15 @@ O disposto no presente diploma não afecta as providências de saneamento adopta
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 31 de Janeiro de 2012.**
+Promulgado em 31 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Fevereiro de 2012.**
+Referendado em 2 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 13.º)
 

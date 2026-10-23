@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/05100/04640465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1982-599924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d34abfd8ebb99720164d50a34326de0f41ffc84234a45ba2f7bec97b8f93809
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d19930376fb403fde792690d2062e85bece52c23951d9819681be2523b5af79f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Função Pública
 relationships:
 - type: amended_by
   target: pt:dre:245329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:245329:por
+  label: "Revogado pelo DR.44-B/83.1983.06.01.MRA, DR.IS [126]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-a-1983-245329
+  date: '1983-06-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:37Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +113,26 @@ Considerando ainda ser indispensável salvaguardar as situações às quais a re
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É suspensa a aplicação do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237), de 10 de Outubro, ao pessoal dos vários organismos e serviços abrangidos pelo artigo 1.º do referido diploma, sem prejuízo:
+Artigo 1.º É suspensa a aplicação do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237), de 10 de Outubro, ao pessoal dos vários organismos e serviços abrangidos pelo artigo 1.º do referido diploma, sem prejuízo:
 
 a) Dos efeitos produzidos pela classificação atribuída, por aplicação do mesmo, no ano de 1981, relativamente ao serviço prestado em 1980;
 
 b) Da produção de efeitos dessa classificação, quando os serviços e organismos não tiverem adoptado quaisquer sistemas de classificação do serviço prestado nos anos relevantes para promoção e progressão nas carreiras, relativamente a este mesmo período.
 
-###### Art. 2.º - 1 - O disposto no artigo anterior não prejudica a conclusão dos processos pendentes relativos à classificação a atribuir ao serviço prestado no ano de 1980, ao qual continuará a aplicar-se o [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237).
+Art. 2.º - 1 - O disposto no artigo anterior não prejudica a conclusão dos processos pendentes relativos à classificação a atribuir ao serviço prestado no ano de 1980, ao qual continuará a aplicar-se o [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237).
 
 2 - O disposto no número anterior é ainda aplicável à atribuição da classificação extraordinária, a solicitação do interessado, por processo iniciado antes de 31 de Dezembro de 1981.
 
-###### Art. 3.º Até à entrada em vigor de novo diploma, a classificação de serviço para efeitos de conversão da nomeação provisória em definitiva será atribuída por aplicação da ficha de notação modelo 5, prevista no [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237).
+Art. 3.º Até à entrada em vigor de novo diploma, a classificação de serviço para efeitos de conversão da nomeação provisória em definitiva será atribuída por aplicação da ficha de notação modelo 5, prevista no [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237).
 
-###### Art. 4.º Os sistemas de classificação de serviço a que se refere o artigo 21.º do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237) poderão continuar a ser aplicados relativamente à classificação do serviço prestado em 1981, com excepção dos sistemas que foram adoptados ao abrigo do disposto na alínea a) do n.º 33 do [Despacho Normativo n.º 128/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/128-1981-394892), aos quais será aplicável o regime do artigo 1.º do presente diploma.
+Art. 4.º Os sistemas de classificação de serviço a que se refere o artigo 21.º do [Decreto Regulamentar n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1980-462237) poderão continuar a ser aplicados relativamente à classificação do serviço prestado em 1981, com excepção dos sistemas que foram adoptados ao abrigo do disposto na alínea a) do n.º 33 do [Despacho Normativo n.º 128/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/128-1981-394892), aos quais será aplicável o regime do artigo 1.º do presente diploma.
 
-###### Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa.
+Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa.
 
 Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 18 de Fevereiro de 1982.**
+Promulgado em 18 de Fevereiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

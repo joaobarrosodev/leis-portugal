@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/1996/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1996-414583
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 373536976730a8a1ac949edcde995ed8572c3bfb2747ada7e9bf4af03d1918dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cef7de8d941e3dd3dfdab11235f1680a2e7e9e9bb17e6b74148b61b5dac80078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,127 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Benefícios Fiscais
 - Código do IVA
 - Importação
-- IVA
 - Isenção Fiscal
-- Prestação de Serviços
+- IVA
 - Madeira.região Autónoma
-- Benefícios Fiscais
-- Açores
+- Prestação de Serviços
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:67641518:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233946:por
+  label: "Alterado a al. c) do nº 1 do art. 18º e o art. 49º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com\
+    \ a redacção do presente diploma, pela LEI.39/2005.24.06.2005.AR, DR.IS-A [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2005-233946
+  date: '2005-06-24'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterados os arts. 53º e 60º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida\
+    \ no presente diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 60º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 60.º, do código do IVA, bem como a verba 1.8 constante da lista II aditada pelo presente diploma\
+    \ e anexa ao citado Código, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção da presente lei, republicado pelos Dec\
+    \ Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 18º, 49º, 53º, 60º e 82º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo\
+    \ DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:456872:por
+  label: "Alterados os arts. 18º e 49º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84 de\
+    \ 26-Dez, na redacção do presente diploma, republicado pelo Dec Lei 195/89 de 12-Jun e Dec Lei 166/94 de 09-Jun, pela\
+    \ LEI.26-A/2008.27.06.2008.AR, DR.IS [123-Supl] de 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-a-2008-456872
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 18.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado, a partir de 01.07.2010, o art. 1º do Dec Lei 347/85 de 23-Ago na redacção do presente diploma, pela LEI.12-A/2010.30.06.2010.AR,\
+    \ DR.IS [125-Supl] de 30.06.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 18º e 49º do Código do IVA , aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente\
+    \ diploma, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010, nos termos do art. 107º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:427611:por
+  label: "Dada nova redação ao art. 1º do Dec Lei 347/85 de 23-ago, alterado pelo presente diploma, pela LEI.14-A/2012.30.03.2012.AR,\
+    \ DR.IS [65-2ºSupl] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-a-2012-427611
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 1º do Dec Lei 347/85 de 23-ago, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR,\
+    \ DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art.18.º do Código do Imposto sobre o Valor Acrescentado(Código do IVA), aprovado pelo Dec Lei 394-B/84
+    de 26-dez, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:67641518:por
+  label: Alterado o art. 1º do Dec Lei 347/85 de 23-ago, com a redação dada pelo presente diploma, pelo(a) Lei n.º 63-A/2015
+    - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-a-2015-67641518
+  date: '2015-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:181004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:29Z'
   warnings: []
   errors: []
 ---
@@ -140,11 +233,11 @@ c) Para as restantes importações, transmissões de bens e prestações de serv
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 49.º
+Artigo 49.º
 
 Nos casos em que a facturação ou o seu registo sejam processados por valores, com imposto incluído, nos termos dos artigos anteriores, o apuramento da base tributável correspondente será obtido através da divisão daqueles valores por 105 quando a taxa do imposto for de 5%, por 112 quando a taxa do imposto for 12% e 117 quando a taxa do imposto for 17%, multiplicando o quociente por 100 e arredondando o resultado, por defeito ou por excesso, para a unidade mais próxima, sem prejuízo da adopção de outro qualquer método conducente a idêntico resultado.
 
-###### Artigo 53.º
+Artigo 53.º
 
 1 - Beneficiam da isenção do imposto os sujeitos passivos que, não possuindo nem sendo obrigados a possuir contabilidade organizada para efeitos de IRS ou IRC nem praticando operações de importação, exportação ou actividades conexas, não tenham atingido, no ano civil anterior, um volume de negócios superior a 2000000$00.
 
@@ -156,7 +249,7 @@ Nos casos em que a facturação ou o seu registo sejam processados por valores, 
 
 5 - ...
 
-###### Artigo 60.º
+Artigo 60.º
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos de IRS e não tenham tido no ano civil anterior um volume de compras superior a 10000000$00, para apurar o imposto devido ao Estado, aplicarão um coeficiente de 25% ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
 
@@ -176,7 +269,7 @@ Nos casos em que a facturação ou o seu registo sejam processados por valores, 
 
 9 - ...
 
-###### Artigo 82.º
+Artigo 82.º
 
 1 - ...
 
@@ -284,12 +377,12 @@ O artigo 1.º do [Decreto-Lei n.º 347/85](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 4 de Julho de 1996.**
+Promulgado em 4 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Julho de 1996.**
+Referendado em 5 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

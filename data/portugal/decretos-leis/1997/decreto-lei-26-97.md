@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/1997/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1997-581223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5125062617c3e7a3a4c34fa61537a67ba2acfb12115f2c7b4dc18bc01e7a0924
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d5c84c7e283f05d6fd5921c614b1c25c8cb8042cdf9e20430175cb29f1a293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,24 +72,32 @@ subjects:
 - BENS Abandonados a Favor do Estado
 - Direcção Geral do Património do Estado
 - Hasta Pública
-- Veículo
 - Processo Judicial
+- Veículo
 - Veículo Apreendido
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:328388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:18Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +130,9 @@ b) Os veículos automóveis que se encontrem nas situações previstas nos n.os 
 
 2 - Cumpridas as formalidades legais prévias do abandono ou da perda, a entidade que superintender no processo comunicará o facto à DGPE no prazo máximo de 10 dias, indicando as características do veículo, nos termos do n.º 1 do artigo 2.º
 
-###### Artigo 10.º — Veículos sem interesse para o parque do Estado
+Artigo 10.º
+
+Veículos sem interesse para o parque do Estado
 
 1 - ...
 
@@ -136,7 +146,9 @@ b) Os veículos automóveis que se encontrem nas situações previstas nos n.os 
 
 6 - No caso previsto no número anterior, o veículo apreendido pode ser entregue ao seu proprietário, como fiel depositário, até à decisão final do processo, desde que se encontrem cumpridas as disposições legais relativas ao mesmo e seja prestada caução equivalente ao seu valor.
 
-###### Artigo 11.º — Indemnizações
+Artigo 11.º
+
+Indemnizações
 
 1 - ...
 
@@ -146,7 +158,9 @@ b) Os veículos automóveis que se encontrem nas situações previstas nos n.os 
 
 4 - ...
 
-###### Artigo 15.º — Venda de veículos matriculados
+Artigo 15.º
+
+Venda de veículos matriculados
 
 1 - Os veículos portadores de matrícula nacional ou estrangeira, quando destinados a sucata, não podem ser vendidos sem que as chapas das matrículas sejam retiradas e os livretes devolvidos à entidade emissora ou cancelados e juntos ao respectivo processo de venda.
 
@@ -176,12 +190,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da respectiva publicaç
 
 Visto e aprovado em Conselho de Ministros, 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

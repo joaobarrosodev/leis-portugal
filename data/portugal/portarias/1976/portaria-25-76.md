@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/25-1976-506002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59f13cfdf6e55fbd1438a4a58bab01b32b2006b35e410e7285c9dbd1bc259c43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600fc97d2453586c163a897e2e1b58f77117eae5d8c6f9e3924e9b47b59890d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:59:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Valores
+- Definição de Competências
+- Lisboa
+- Orgânica
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572169:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:59:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo
 
 ...
 
-###### Art. 10.º - 1. A Bolsa terá os seguintes serviços:
+Art. 10.º - 1. A Bolsa terá os seguintes serviços:
 
 a) Gabinete de Estudos e Relações Públicas;
 
@@ -104,7 +117,7 @@ c) Contabilidade e Tesouraria.
 
 2. Por despacho do Ministro das Finanças ou por iniciativa da comissão directiva, poderão ser constituídos e funcionar junto da Bolsa grupos de trabalho com fins específicos sobre matérias relacionadas com o mercado financeiro.
 
-###### Art. 11.º - 1. ...
+Art. 11.º - 1. ...
 
 2. ...
 
@@ -112,7 +125,7 @@ c) Contabilidade e Tesouraria.
 
 c) Assegurar o apoio técnico ao Conselho Consultivo do Mercado Financeiro;
 
-###### Art. 12.º - 1. ...
+Art. 12.º - 1. ...
 
 2. ...
 
@@ -122,15 +135,15 @@ l) Assegurar o expediente do Conselho Consultivo do Mercado Financeiro.
 
 ...
 
-###### Art. 32.º Se a formação da cotação, nos termos dos artigos anteriores, conduzir à variação máxima admitida, a cotação só se fixará se as operações assim efectuadas representarem uma percentagem das ordens existentes não inferior à que, para o efeito, se encontrar determinada por despacho do Ministro das Finanças.
+Art. 32.º Se a formação da cotação, nos termos dos artigos anteriores, conduzir à variação máxima admitida, a cotação só se fixará se as operações assim efectuadas representarem uma percentagem das ordens existentes não inferior à que, para o efeito, se encontrar determinada por despacho do Ministro das Finanças.
 
 ...
 
-###### Art. 45.º - 1. ...
+Art. 45.º - 1. ...
 
 2. Para a execução das responsabilidades mencionadas no número anterior, a comissão directiva solicitará ao Banco de Portugal que, através da caução do corretor em falta, proceda à entrega das quantias em dívida.
 
-###### Art. 46.º - 1. ...
+Art. 46.º - 1. ...
 
 2. As transgressões cometidas quer pelos corretores, quer pelas instituições de crédito e casas de câmbio, quer por outras entidades, serão participadas ao Banco de Portugal, com vista à instauração dos competentes processos.
 

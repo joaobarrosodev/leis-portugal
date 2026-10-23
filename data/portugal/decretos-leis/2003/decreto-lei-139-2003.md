@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2003/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2003-667123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9ea27e62e1a9e64d54be2b9c38bb435d87e31f80b88f8d29655ff2b17cd307d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e560b553d26e7ff9f003386da3e35ee380387d31f6ee46fc720b39834896eb6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,33 @@ relationships:
   target: pt:dre:692396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692396:por
+  label: "Determinada a caducidade no prazo previsto no art. 1º do presente diploma, dos alvarás e licenças de fabrico ou\
+    \ de armazenagem de produtos explosivos em vigor e que não tenham sido renovados ou concedidos de acordo com os requisitos\
+    \ constantes do Regulamento de Segurança dos Estabelecimentos de Fabrico e de Armazenagem de Produtos Explosivos, aprovado\
+    \ pelo Decreto-Lei n.º 139/2002, de 17 de Maio, bem como os que se mostrem suspensos à data de entrada em vigor pelo DEC\
+    \ LEI.87/2005.23.05.2005.MAI, DR.IS-A [99] de 23.05.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2005-692396
+  date: '2005-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/139/2002/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/139/2002/05/17/p/dre
+- type: cites
+  target: pt:dre:158636:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:37Z'
   warnings: []
   errors: []
 ---
@@ -119,12 +132,12 @@ O presente diploma produz efeitos desde 17 de Maio de 2003.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.**
+Promulgado em 13 de Junho de 2003, na ilha das Flores, Açores.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

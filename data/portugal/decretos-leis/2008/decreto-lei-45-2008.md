@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/05000/0153901543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2008/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2008-247025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d8fff8330d57b513ff3e7fde586071eecebcb0b1257dd335e81ce8a05ac0602
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7728092874ee2e377f4764d8f613fe98ba13fa8e56e0cefb564d9f1eff87429b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Garantia
-- Transporte Marítimo
-- Instituto Portuário e dos Transportes Marítimos
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Fiscalização
-- Transporte de Resíduos
+- Garantia
+- Gestão de Resíduos
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Proteção do Ambiente
+- Instituto Portuário e dos Transportes Marítimos
 - Madeira.região Autónoma
+- Proteção do Ambiente
 - Regulamento CE
 - Resíduo Hospitalar
-- Açores
 - Substância Perigosa
 - Taxa
-- Agência Portuguesa do Ambiente
+- Transporte de Resíduos
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:152639825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258678:por
+  label: "Dada nova redação aos arts. 3º (cujo nº 1, com a redação ora introduzida produz efeitos nos termos do disposto no\
+    \ art. 3º do Dec Lei 23/2013) e 12º pelo DEC LEI.23/2013.15.02.2013.MAMAOT, DR.IS [33] de 15.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2013-258678
+  date: '2013-02-15'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 12.º (na redação do Dec Lei 23/2013 de 15-fev) do presente diploma, pelo(a)
+    Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Atualizadas as taxas previstas no art. 12.º do presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º
+    64/2020, Série I de 2020-03-31 nos termos do seu art. 299.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Atualizadas, as taxas previstas no art. 12.º do presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República
+    n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, nos termos do seu art. 319.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
 - type: cites
   target: celex:31993R0259
   label: null
@@ -99,16 +123,24 @@ relationships:
   target: celex:32006R1013
   label: null
   source: http://data.europa.eu/eli/reg/2006/1013/oj
+- type: repealed_by
+  target: pt:dre:150908012:por
+  label: Revogado, a partir de 15.12.2020 e com efeitos a 01.07.2021, pelo(a) Decreto-Lei n.º 102-D/2020 - Diário da República
+    n.º 239/2020, 1º Suplemento, Série I de 2020-12-10, nos termos dos seus arts. 17.º e 19.º, e determinado, nos termos do
+    disposto no seu art. 16.º, que as remissões legais e regulamentares que lhe sejam feitas se considerem feitas para aquele
+    diploma e para a legislação e regulamentação complementar nele prevista.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-d-2020-150908012
+  date: '2020-12-10'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:53Z'
   warnings: []
   errors: []
 ---
@@ -333,15 +365,15 @@ As disposições do presente decreto-lei aplicam-se às Regiões Autónomas dos 
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Paulo Jorge Oliveira Ribeiro de Campos - Francisco Ventura Ramos.
 
-**Promulgado em 14 de Fevereiro de 2008.**
+Promulgado em 14 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Março de 2008.**
+Referendado em 3 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Fórmula de cálculo do montante da garantia financeira prevista no artigo 7.º
 

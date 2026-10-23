@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/198/2007/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2007-520818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86f0198242fe20a268b808bd8d68767683e9dcb44e92de7f3b610bd08030b2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fd96a0a6d0a0c8f93975c286acc69189006999ca2089b56640660b214d05348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,18 +73,25 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento Nacional do Transporte de Mercadorias Perigosas por Estrada
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:611962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456786:por
+  label: "Alterados os anexos I e III do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, aprovado pelo Dec Lei 72/2000 de 06-Mai, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.135/2008.21.07.2008.MOPTC, DR.IS [139] de 21.07.2008 \08 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2008-456786
+  date: '2008-07-21'
 - type: cites
   target: celex:31970L0221
   label: null
@@ -133,16 +140,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/198
   label: null
   source: http://data.europa.eu/eli/dir/198
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado, a partir de 17.03.2010, o Dec Lei 72/2000 de 06-Mai, que aprovou o Regulamento da Homologação CE de Modelo\
+    \ de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelo presente diploma, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
   article_count: 56
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:39Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +197,9 @@ c) ...
 
 d) Aspectos essenciais de concepção e construção relacionadas com as disposições técnicas do apêndice B.2 do anexo B do Regulamento de Transporte de Mercadorias Perigosas por Estrada.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -297,15 +313,15 @@ Nome e endereço do eventual representante autorizado: ...
 
 12.7 - Quadro da instalação e utilização de transmissores de radiofrequência nos veículos, se aplicável (n.os 9 a 11 do artigo 4.º do Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 O requerente da homologação deve também fornecer, quando adequado:
 
-## Apêndice 1 - uma lista com marcas e tipos de todos os componentes eléctricos e ou electrónicos abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis [alíneas j) e l) do artigo 2.º do referido Regulamento] e não indicados anteriormente;
+Apêndice 1 - uma lista com marcas e tipos de todos os componentes eléctricos e ou electrónicos abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis [alíneas j) e l) do artigo 2.º do referido Regulamento] e não indicados anteriormente;
 
-## Apêndice 2 - esquema ou desenho da disposição geral dos componentes eléctricos e ou electrónicos (abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis) e da disposição geral dos feixes de cabos;
+Apêndice 2 - esquema ou desenho da disposição geral dos componentes eléctricos e ou electrónicos (abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis) e da disposição geral dos feixes de cabos;
 
-## Apêndice 3 - descrição do veículo escolhido para representar o modelo:
+Apêndice 3 - descrição do veículo escolhido para representar o modelo:
 
 Estilo da carroçaria: ...
 
@@ -313,7 +329,7 @@ Condução à esquerda ou à direita: ...
 
 Distância entre eixos: ...
 
-## Apêndice 4 - relatórios de ensaios relevantes fornecidos pelo fabricante ou laboratórios aprovados/reconhecidos para efeitos do preenchimento do certificado de homologação.
+Apêndice 4 - relatórios de ensaios relevantes fornecidos pelo fabricante ou laboratórios aprovados/reconhecidos para efeitos do preenchimento do certificado de homologação.
 
 12.7.1 - Veículo equipado com equipamentos de radar de curto alcance na banda dos 24 GHz: sim/não/opcional (riscar o que não interessa).
 
@@ -353,7 +369,9 @@ Distância entre eixos: ...
 
 (nota # #) Estes termos estão definidos na norma ISO 22628: 2002.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 [...]
 
@@ -451,9 +469,13 @@ Nome e endereço do eventual representante autorizado: ...
 
 [...]
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+ANEXO IV
 
-## ANEXO IX — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+
+ANEXO IX
+
+[...]
 
 [...]
 
@@ -1197,27 +1219,29 @@ Nome e endereço do eventual representante autorizado: ...
 
 (nota 5) Se o veículo estiver equipado com equipamentos de radar de curto alcance na banda dos 24 GHz em conformidade com a Decisão n.º [2005/50/CE](https://data.europa.eu/eli/dec/2005/50/oj?locale=pt), o fabricante tem de indicar aqui: 'Veículo equipado com equipamentos de radar de curto alcance na banda dos 24 GHz'.
 
-## ANEXO XI — [...]
-
-## Apêndice 1
+ANEXO XI
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
-
-## Apêndice 2
+Apêndice 1
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-## Apêndice 3
+Apêndice 2
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-## Apêndice 4
+Apêndice 3
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+
+Apêndice 4
 
 [...]
 
@@ -1327,15 +1351,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Manuel Lobo Antunes.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Decreto-Lei n.º 72/2000, de 6 de Maio
 
@@ -2175,7 +2199,7 @@ Conforme indicado pelo fabricante (motores de ignição comandada apenas)
 
 3.2.4.1.4 - Regulações (ver nota 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 3.2.4.1.5 - Sistema de arranque a frio: manual/automático (ver nota 1).
 
@@ -2259,7 +2283,7 @@ Conforme indicado pelo fabricante (motores de ignição comandada apenas)
 
 3.2.4.3.4 - Descrição do sistema: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 3.2.4.3.5 - Injectores: pressão de abertura (ver nota 2): ... kPa ou diagrama característico (ver nota 2): ...
 
@@ -2753,7 +2777,7 @@ Máxima:: ... kPa.
 
 3.9.8.1.1 - Composição do combustível:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 3.9.8.1.2 - Injector(es)
 
@@ -2807,7 +2831,7 @@ no estádio final do regulador de pressão, apenas para os motores alimentados a
 
 4.6 - Relações de transmissão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 4.7 - Velocidade máxima do veículo (em Km/h) (ver nota w)...
 
@@ -3071,11 +3095,11 @@ O veículo está equipado com os seguintes comandos, avisadores e indicadores de
 
 Comandos, avisadores e indicadores cuja identificação, quando instalados, é obrigatória, e símbolos a utilizar para esse fim:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 Comandos, avisadores e indicadores cuja identificação, quando instalados, é facultativa, e símbolos a utilizar para sua eventual identificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 9.10.3 - Bancos:
 
@@ -3285,11 +3309,11 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.12.1 - Número e localização dos cintos de segurança e dos sistemas de retenção e bancos nos quais podem ser utilizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 9.12.2 - Espécies e posição de sistemas de retenção adicionais (indicar: sim/não/opcional):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 9.12.3 - Número e posição das fixações dos cintos de segurança e prova do cumprimento da Directiva [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt) do Conselho (JO L 24 de 30.1.1976, p. 6), (isto é, número de homologação CE ou relatório do ensaio): ...
 
@@ -3303,7 +3327,7 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.13.3 - Designação dos tipos (ver nota **) de cintos de segurança autorizados para as fixações com que o veículo está equipado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 9.13.4 - Descrição de um tipo especial de cinto de segurança se uma fixação estiver localizada no encosto do banco ou incorporar um dispositivo de dissipação de energia: ...
 
@@ -3423,7 +3447,7 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 10.4.2 - Localização da indicação: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 10.5 - Breve descrição de eventuais componentes eléctricos/electrónicos que não sejam luzes: ...
 
@@ -3515,19 +3539,19 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 12.7 - Quadro da instalação e utilização de transmissores de radiofrequência nos veículos, se aplicável (n.os 9 a 11 do artigo 4.º do Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 O requerente da homologação deve também fornecer, quando adequado:
 
-## Apêndice 1
+Apêndice 1
 
 Uma lista com marcas e tipos de todos os componentes eléctricos e/ou electrónicos abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis [alíneas j) e l) do artigo 2.º do referido Regulamento] e não indicados anteriormente.
 
-## Apêndice 2
+Apêndice 2
 
 Esquema ou desenho da disposição geral dos componentes eléctricos e/ou electrónicos (abrangidos pelo Regulamento Relativo à Compatibilidade Electromagnética dos Automóveis) e da disposição geral dos feixes de cabos.
 
-## Apêndice 3
+Apêndice 3
 
 Descrição do veículo escolhido para representar o modelo Estilo da carroçaria: ...
 
@@ -3535,7 +3559,7 @@ Condução à esquerda ou à direita: ...
 
 Distância entre eixos: ...
 
-## Apêndice 4
+Apêndice 4
 
 Relatórios de ensaios relevantes fornecidos pelo fabricante ou laboratórios aprovados/reconhecidos para efeitos do preenchimento do certificado de homologação.
 
@@ -3877,7 +3901,7 @@ Terem uma distância ao solo mínima sob o eixo da retaguarda de 250 mm.
 
 4.5.1 - «Distância ao solo entre os eixos» designa a distância mais curta entre o plano de apoio e o ponto fixo mais baixo do veículo. Os trens rolantes múltiplos são considerados como sendo um único eixo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 4.5.2 - «Distância ao solo sob um eixo» designa a distância determinada pelo ponto mais alto de um arco de círculo que passa pelo meio da superfície de apoio das rodas de um eixo (das rodas interiores, no caso de pneumáticos duplos) e que toca o ponto fixo mais baixo do veículo entre as rodas.
 
@@ -3885,7 +3909,7 @@ Nenhuma parte rígida do veículo deve penetrar no segmento tracejado do esquema
 
 4.6 - Designação combinada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 O símbolo «G» deve ser combinado com qualquer um dos símbolos «M» ou «N». Por exemplo, um veículo da categoria N(índice 1) que é adequado para a utilização fora de estrada deve ser designado como N(índice 1)G.
 
@@ -4239,7 +4263,7 @@ SG: Outros veículos para fins especiais (ver ponto 5.7 da parte A do anexo II).
 
 (Para notas explicativas, é favor consultar a última página do anexo I)
 
-# PARTE I
+## PARTE I
 
 As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
@@ -4449,7 +4473,7 @@ Máxima: ... K
 
 4.6 - Relações de transmissão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 4.7 - Velocidade máxima do veículo (em km/h) (ver nota w): ...
 
@@ -4773,7 +4797,7 @@ B - Para a categoria O:
 
 11.5 - Número(s) de homologação CE: ...
 
-# PARTE II
+## PARTE II
 
 Tabela que indica as combinações que são admissíveis em versões de veículos dos elementos da parte I, em relação aos quais há entradas múltiplas.
 
@@ -4783,7 +4807,7 @@ Deve ser preenchida uma tabela separada para cada variante dentro do modelo.
 
 As entradas múltiplas em relação às quais não há restrições quanto à respectiva combinação dentro de uma variante devem ser enumeradas na coluna encimada por «todas»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 Estas informações podem ser apresentadas num formato ou disposição alternativos, desde que satisfaça o fim em vista.
 
@@ -4791,11 +4815,11 @@ Cada variante e cada versão devem ser identificadas por um código numérico ou
 
 No caso de uma variante ou variantes, nos termos do anexo XI ou do n.º 2, alínea c) do artigo 8.º, o fabricante deve atribuir um código especial.
 
-# PARTE III — Números de homologação CE decorrentes de directivas específicas
+## PARTE III — Números de homologação CE decorrentes de directivas específicas
 
 Fornecer as informações requeridas no quadro seguinte relativo aos elementos aplicáveis (ver nota ***) ao veículo, mencionados nos anexos IV ou XI. (Devem ser incluídas todas as homologações pertinentes para cada elemento.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 Assinatura: ...
 
@@ -4805,11 +4829,11 @@ Data: ...
 
 ## ANEXO IV — Lista de requisitos de homologação CE de um modelo de veículo
 
-# PARTE I — Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
+## PARTE I — Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última alteração de cada directiva específica enumerada a seguir)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-# PARTE II
+## PARTE II
 
 Quando for feita referência a uma directiva específica, uma homologação nos termos dos regulamentos da Comissão Económica para a Europa das Nações Unidas (UNECE) seguintes [tendo em conta o seu âmbito (ver nota 1) e a alteração de cada um dos regulamentos da UNECE a seguir enumerados] será reconhecida como alternativa a uma homologação CE concedida nos termos da directiva específica indicada no quadro da parte I.
 
@@ -4817,7 +4841,7 @@ Estes regulamentos correspondem aos regulamentos a que a Comissão aderiu enquan
 
 Qualquer outra alteração dos regulamentos UNECE em seguida listados deve também ser considerada equivalente, ao abrigo da decisão da Comissão, prevista nos termos do n.º 2 do artigo 4.º da Decisão [97/836/CE](https://data.europa.eu/eli/dec/1997/836/oj?locale=pt) (ver nota ++).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 ## ANEXO V — Procedimentos a seguir durante o processo de homologação CE de um modelo de veículo
 
@@ -4835,7 +4859,7 @@ e) Efectuar, ou mandar efectuar, as verificações necessárias em relação à 
 
 2 - O número de veículos a inspeccionar para efeitos no disposto na alínea c) do n.º 1 deve ser suficiente para permitir o controlo correcto das várias combinações a homologar de acordo com os seguintes critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 3 - No caso de não estarem disponíveis certificados de homologação para qualquer das directivas específicas aplicáveis, a entidade que concede a homologação CE tem de:
 
@@ -4971,13 +4995,13 @@ Variante(s) completa(s)/completada(s): ...
 
 Lista de requisitos aplicáveis ao modelo ou variante de veículo incompleto homologado (conforme adequado, tendo em conta o âmbito e a última alteração de cada uma das directivas específicas enumeradas a seguir).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 (Enumerar apenas os assuntos em relação aos quais existe um homologação CE nos termos de uma directiva específica).
 
 No caso de veículos para fins especiais, derrogações concedidas ou disposições especiais aplicadas nos ter-mos do anexo XI e derrogações concedidas nos termos do n.º 2, alínea c), do artigo 8.º:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 (nota 1) Riscar o que não interessa.
 
@@ -4991,7 +5015,7 @@ No caso de veículos para fins especiais, derrogações concedidas ou disposiç�
 
 1 - O número de homologação CE deve consistir de quatro secções para as homologações de veículos no seu todo e cinco secções para as homologações de sistemas, componentes e unidades técnicas, conforme especificado a seguir. Em todos os casos, as secções devem ser separadas pelo caracter «*».
 
-#### Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado-Membro que emite a homologação CE:
+Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado-Membro que emite a homologação CE:
 
 1 para a Alemanha;
 
@@ -5023,9 +5047,9 @@ No caso de veículos para fins especiais, derrogações concedidas ou disposiç�
 
 24 para a Irlanda.
 
-#### Secção 2: O número da directiva de base.
+Secção 2: O número da directiva de base.
 
-#### Secção 3: O número da última directiva de alteração aplicável à homologação CE.
+Secção 3: O número da última directiva de alteração aplicável à homologação CE.
 
 No caso de homologações de modelos de veículos completos, tal significa a última directiva que altera um artigo (ou artigos) da Directiva [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
 
@@ -5033,9 +5057,9 @@ No caso de homologações nos termos de directivas específicas, refere-se à ú
 
 No caso de uma directiva comportar datas de entrada em vigor diferentes que remetem para normas técnicas diferentes, deve acrescentar-se um carácter alfabético para especificar qual a norma nos termos da qual a homologação foi concedida.
 
-#### Secção 4: Um número sequencial de quatro algarismos (eventualmente com zeros iniciais), para a homologação CE de modelos de veículos completos, ou de quatro ou cinco algarismos, para a homologação CE de modelos de veículos nos termos de uma directiva específica, a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
+Secção 4: Um número sequencial de quatro algarismos (eventualmente com zeros iniciais), para a homologação CE de modelos de veículos completos, ou de quatro ou cinco algarismos, para a homologação CE de modelos de veículos nos termos de uma directiva específica, a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base.
 
-#### Secção 5: Um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificara extensão. A sequência deve começar em 00 para cada número de homologação de base.
+Secção 5: Um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificara extensão. A sequência deve começar em 00 para cada número de homologação de base.
 
 2 - No caso da homologação CE de um veículo no seu todo, a secção 2 deve ser omitida.
 
@@ -5239,7 +5263,7 @@ Consumo de combustível (combinado) (l/100 Km) (ver nota 1): ...
 
 Para veículos completos/completados (ver nota 1)
 
-# PARTE I — [formato máximo: A4 (210 x 297 mm), ou um dossier de formato A4]
+## PARTE I — [formato máximo: A4 (210 x 297 mm), ou um dossier de formato A4]
 
 Lado 1
 
@@ -5425,7 +5449,7 @@ CO: ... NO(índice x): ... NMHC: ... THC: ... CH(índice 4): ... Partículas: ..
 
 Número da directiva de base e última directiva de alteração aplicável à homologação CE: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
 
@@ -5703,7 +5727,7 @@ CO: ... NO(índice x): ... NMHC: ... THC: ... CH(índice 4): ... Partículas: ..
 
 Número da Directiva de base e da última Directiva de aplicação à homologação CE: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 47 - Potência fiscal ou número(s) de código nacional(is), se aplicável:
 
@@ -5787,7 +5811,7 @@ Itália: ...; França: ...; Espanha: ...; Bélgica: ...; Alemanha: ...; Luxembur
 
 51 - Isenções: ...
 
-# PARTE II — Certificado CE de conformidade relativo a veículos incompletos
+## PARTE II — Certificado CE de conformidade relativo a veículos incompletos
 
 [formato máximo: A4 (210 x 297 mm), ou um dossier de formato A4]
 
@@ -6427,31 +6451,31 @@ As entidades responsáveis pela homologação CE dos Estados-Membros devem infor
 
 ## ANEXO XI — Natureza dos veículos para fins especiais e disposições aplicáveis
 
-## Apêndice 1
+Apêndice 1
 
 Autocaravanas, ambulâncias e carros funerários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-## Apêndice 2
+Apêndice 2
 
 Veículos blindados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-## Apêndice 3
+Apêndice 3
 
 Outros veículos para fins específicos (incluindo caravanas)
 
 A aplicação das isenções só é autorizada se o fabricante conseguir demonstrar, a contento da entidade de homologação, que o veículo não pode cumprir os requisitos devido ao fim específico a que se destina.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
-## Apêndice 4
+Apêndice 4
 
 Gruas móveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 Significado das letras
 
@@ -6521,7 +6545,7 @@ A - Limites das pequenas séries
 
 O número de unidades de uma família de modelos, conforme definida a seguir, a matricular, vender ou colocar em serviço anualmente num Estado-Membro não deve exceder o valor indicado a seguir, relativo à categoria de veículos em questão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 Uma «família de modelos» é constituída por veículos homologados que não diferem entre si em relação aos seguintes aspectos essenciais:
 
@@ -6681,7 +6705,7 @@ No caso de um semi-reboque ou reboque de eixo central, massa máxima admissível
 
 Excepto se acima foram previstas disposições em contrário, o prato deve cumprir os requisitos da directiva [76/114/CEE](https://data.europa.eu/eli/dir/1976/114/oj?locale=pt).
 
-## APÊNDICE
+APÊNDICE
 
 Modelo da chapa adicional do fabricante
 
@@ -6727,7 +6751,7 @@ Eu, abaixo assinado, declaro que o veículo especificado a seguir foi produzido 
 
 Além disso, o abaixo assinado declara que o veículo quando entregue estava conforme com os requisitos das seguintes directivas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/32543325.pdf)
 
 A presente declaração é emitida de acordo com as disposições do anexo XI do presente Regulamento
 
@@ -6739,7 +6763,7 @@ A presente declaração é emitida de acordo com as disposições do anexo XI do
 
 ## ANEXO XVI — (referente ao transporte rodoviário de mercadorias perigosas)
 
-# PARTE A
+## PARTE A
 
 Ficha de informações n.º ...
 
@@ -6867,7 +6891,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem comandos el
 
 (nota 2) Riscar o que não interessa.
 
-# PARTE B — Modelo
+## PARTE B — Modelo
 
 [formato máximo: A4 (210 x 297 mm)]
 

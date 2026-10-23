@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2012/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2012-179572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dff1bf199114b68612e5aee658dcf7fbf556dad3407c201a6b340727399a9868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9959fc25d6c79c47f55a92e5268aa53dd2457bc3b97627dff473b2de89656541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Infarmed
 - Medicamento
 - Medicamento Genérico
 - Preço
@@ -78,12 +79,23 @@ subjects:
 - Preço Máximo
 - Receita Médica
 - Sanção
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:108113700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259241:por
+  label: "Alterados os art.s 3º e 14º do Dec Lei 112/2011, de 29-nov, na redação do presente diploma, pelo DEC LEI.34/2013.27.02.2013.MS,\
+    \ DR.IS [41] de 27.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2013-259241
+  date: '2013-02-27'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 3.º, na redação do presente diploma, aditado os arts 3.º-A e 3.º-B e revogado o n.º 2 do art 3.º do
+    Dec Lei 34/2013, de 27-fev, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
   label: null
@@ -124,16 +136,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670005:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67356991:por
+  label: Revogado, a partir de 01.07.2015, o Dec Lei 112/2011 de 29-nov, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2015-67356991
+  date: '2015-06-01'
 article_structure:
-  article_count: 30
+  article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:08Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +270,9 @@ Os artigos 3.º, 4.º, 8.º e 12.º a 14.º do [Decreto-Lei n.º 112/2011](https
 
 5 - Por razões de interesse público ou de regularização do mercado, o membro do Governo responsável pela área da saúde pode determinar a prática de deduções sobre os PVP autorizados, em condições a regulamentar por portaria.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Compete ao INFARMED autorizar o PVP dos medicamentos abrangidos pelo presente decreto-lei, bem como regular os preços dos medicamentos comparticipados ou a comparticipar nos termos definidos no regime geral das comparticipações dos medicamentos, sem prejuízo da audição da Direção-Geral das Atividades Económicas (DGAE), pelo prazo máximo de 10 dias.
 
@@ -184,7 +280,9 @@ Os artigos 3.º, 4.º, 8.º e 12.º a 14.º do [Decreto-Lei n.º 112/2011](https
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -200,17 +298,23 @@ Os artigos 3.º, 4.º, 8.º e 12.º a 14.º do [Decreto-Lei n.º 112/2011](https
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O preço do medicamento pode ser revisto, a título excecional, por motivos de interesse público ou por iniciativa do titular da autorização de introdução no mercado, mediante despacho fundamentado do membro do Governo responsável pela área da saúde.
 
 2 - Os critérios, prazos e demais procedimentos que presidem à revisão excecional de preço mencionada no número anterior são definidos por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os preços dos medicamentos podem ser objeto de redução, a título excecional, fundamentada na regularização do respetivo mercado, mediante portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 As matérias previstas no n.º 5 do artigo 3.º e nos artigos 6.º a 10.º e 13.º bem como os procedimentos necessários à implementação do presente decreto-lei são regulamentados por portaria do membro do Governo responsável pela área da saúde.»
 
@@ -232,15 +336,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 24 de maio de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 3 de julho de 2012.**
+Promulgado em 3 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de julho de 2012.**
+Referendado em 5 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

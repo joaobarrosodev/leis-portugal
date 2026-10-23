@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25100/0000600007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2024/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2024-901400366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 635e0498ee00ff16baa2aa607a12e8af597fdb17fe5cb62490a583741307c778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e8b62f7951ca5afc50cbdfebdb4784f1da33d5f77c3cdc19e5c4c822f9d4b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,18 @@ subjects:
 - Controlador de Tráfego Aéreo
 - Idade de Reforma
 - Limite de Idade
-- Reforma Antecipada
 - Pensão de Reforma
 - Pessoal Aeronáutico
+- Reforma Antecipada
 - Segurança Social
 - Tráfego Aéreo
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:155/2009
+  label: Altera, a partir de 1 de janeiro de 2025, o artigo 3.º do Decreto-Lei n.º 155/2009 - Diário da República n.º 131/2009,
+    Série I de 2009-07-09
+  source: null
+  date: '2009-07-09'
 - type: cites
   target: celex:32015R0340
   label: null
@@ -99,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2009/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2009/01/29/p/dre
+- type: cites
+  target: pt:dre:107061864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601774:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:36Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +203,14 @@ O presente decreto-lei aplica-se às prestações requeridas pelos beneficiário
 
 Visto e aprovado em Conselho de Ministros de 28 de novembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz - Rosário Palma Ramalho.
 
-**Promulgado em 12 de dezembro de 2024.**
+Promulgado em 12 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de dezembro de 2024.**
+Referendado em 16 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118502299

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2025/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2025-941845856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8903425d35f1b966993b447f6a692d41cca8b6d58d4be4296a2114e60e2078d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e523cb53ed708084d41e0cc6907c8a33e0f0ba14a8f7a160b3f4634704627e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
-- Definição de Competências
-- Conservação de Estradas
-- Rede de Estradas
-- Estrada Regional
-- Classificação de Estradas
-- Presidente da Câmara
-- Câmara Municipal
-- Transferência de Competências
 - Autarquia Local
+- Câmara Municipal
+- Classificação de Estradas
+- Conservação de Estradas
+- Definição de Competências
+- Estrada
+- Estrada Regional
+- Presidente da Câmara
+- Rede de Estradas
+- Transferência de Competências
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:100/2018
+  label: Altera, a partir de 1 de novembro de 2025, os artigos 5.º, 7.º e 9.º e adita os artigos 7.º-A e 13.º-A ao Decreto-Lei
+    n.º 100/2018, de 28 de novembro, Diário da República n.º 229/2018, Série I
+  source: null
+  date: '2018-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/2018/11/28/p/dre
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117142824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085601:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:55Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +157,9 @@ Os artigos 5.º, 7.º e 9.º do [Decreto-Lei n.º 100/2018](https://diariodarepu
 
 3 - A título excecional, devidamente fundamentado em razões operacionais e de gestão da rede rodoviária nacional ou regional ou do troço de estrada cuja titularidade é transferida para o município, um ou ambos os pontos extremos do mesmo troço podem localizar-se fora dos limites determinados como perímetro urbano, nos termos do número anterior, numa extensão total nunca superior a um terço da extensão do troço localizado dentro do perímetro urbano e desde que a mesma seja contínua.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - No prazo de 60 dias após o prazo referido no n.º 2 do artigo 14.º, a IP, S. A., comunica aos membros do Governo responsáveis pelas áreas das finanças, da administração local e das infraestruturas rodoviárias um projeto de transferência dos troços de estrada e dos equipamentos e infraestruturas neles integrados, indicando, em especial, o estado dos mesmos, os títulos de utilização existentes, bem como os recursos financeiros que acompanham a mutação dominial para fazer face às despesas de manutenção, conservação e reparação da zona da estrada.
 
@@ -163,7 +183,9 @@ Os artigos 5.º, 7.º e 9.º do [Decreto-Lei n.º 100/2018](https://diariodarepu
 
 11 - A homologação de um acordo de mutação dominial para transferência da titularidade de um troço de uma estrada nacional ou regional para o domínio público municipal, nos termos do n.º 2 do artigo 40.º do Estatuto das Estradas da Rede Rodoviária Nacional, aprovado em anexo à [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), de 27 de abril, na sua redação atual, opera a sua desclassificação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -187,7 +209,7 @@ Mutação dominial simplificada
 
 5 - A transferência a que diz respeito o presente artigo realiza-se por meio de acordo de mutação dominial, entre a IP, S. A., e o município, com autorização prévia da respetiva assembleia municipal, após aprovação pelo IMT, I. P., sujeito a homologação do membro do Governo responsável pela área das infraestruturas rodoviárias, nos termos conjugados do presente decreto-lei e do Estatuto das Estradas da Rede Rodoviária Nacional, aprovado em anexo à [Lei n.º 34/2015](https://diariodarepublica.pt/dr/detalhe/lei/34-2015-67085601), de 27 de abril, na sua redação atual.
 
-6 - O acordo de mutação dominial deve incluir em anexo os elementos previstos nos n.<sup>os</sup>2, 3 e 4.
+6 - O acordo de mutação dominial deve incluir em anexo os elementos previstos nos n.os2, 3 e 4.
 
 7 - O acordo de mutação dominial é comunicado ao IMT, I. P., e à Direção-Geral das Autarquias Locais, que por sua vez comunica à Direção-Geral do Território, para efeitos de atualização de cadastro, e à Autoridade Nacional de Segurança Rodoviária, à PSP e à GNR, para efeitos de atualização de dados em matéria de competências de fiscalização.
 
@@ -195,7 +217,9 @@ Mutação dominial simplificada
 
 9 - O despacho a que se refere o número anterior é notificado ao IMT, I. P., e à Direção-Geral das Autarquias Locais para efeitos do disposto no n.º 10 do artigo anterior, aplicável com as necessárias adaptações.
 
-###### Artigo 13.º-A — Prevalência
+Artigo 13.º-A
+
+Prevalência
 
 Sempre que para efeitos de identificação dos pontos extremos e intermédios de um troço de estrada, constante de instrumento legislativo, acordo, auto ou outro meio semelhante, se verifique divergência entre a identificação por ponto quilométrico e por coordenadas espaciais, deve ser dada prevalência à identificação por coordenadas espaciais.»
 
@@ -205,12 +229,14 @@ O presente decreto-lei entra em vigor no dia 1 de novembro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 28 de agosto de 2025. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Maria Lúcia da Conceição Abrantes Amaral.
 
-**Promulgado em 8 de outubro de 2025.**
+Promulgado em 8 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de outubro de 2025.**
+Referendado em 16 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119682526

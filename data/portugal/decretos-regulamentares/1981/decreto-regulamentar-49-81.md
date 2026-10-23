@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1981-561804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9eb9e7cf7d9b9367f228333e0ae3aaad1b22e4da5d34eb2163552697e95a5282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c01596b0d8a8e71b58ab40d63ffc87da7765ad5c43453f3deae8bcc634888b00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- OVO
+- Regulamento de Apresentação e Comercialização dos OVOS
 relationships:
 - type: amended_by
   target: pt:dre:605874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392464:por
+  label: "Alterado o artigo 6.º e revogado o artigo 47.º do Regulamento, pelo DR.27/82.18.05.1982.MACP, DR.IS [112] de 18.05.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1982-392464
+  date: '1982-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO O PRAZO ESTABELECIDO NA ALINEA B) DO NUMERO 1 DO ARTIGO 3 PELO DESPACHO NORMATIVO 247/82, DE 15 DE NOVEMBRO,\
+    \ PUBLICADO NO DR.IS, 264.\0, 264."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-11-15'
+- type: amended_by
+  target: pt:dre:377512:por
+  label: "Prorrogado, por mais 180 dias, o prazo estabelecido na alínea b) do n.º 1 do artigo 3.º, pelo DN.247/82.15.11.1982.MACP,\
+    \ DR.IS [264] de 15.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/247-1982-377512
+  date: '1982-11-15'
+- type: cites
+  target: pt:dre:149219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408294:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:568497:por
+  label: Rectificado pela DECL.DD7404.11.11.1981.PCM, DR.IS [268] de 20.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568497
+  date: '1981-11-11'
+- type: repealed_by
+  target: pt:dre:221151:por
+  label: "Revogado o artigo 43.º pelo DEC LEI.234/92.22.10.1992.MA, DR.IS-A [244] de 22.10.1992, com efeitos a partir da data\
+    \ da entrada em vigor das normas regulamentares a que se refere o seu artigo 2.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-1992-221151
+  date: '1992-10-22'
+- type: repealed_by
+  target: pt:dre:605874:por
+  label: "Revogado pelo DR.59/94.1994.09.24.MA, DR.IS-B [222]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-1994-605874
+  date: '1994-09-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:21Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +145,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Apresentação e Comercialização dos Ovos, anexo a este diploma e dele fazendo parte.
+Artigo 1.º É aprovado o Regulamento da Apresentação e Comercialização dos Ovos, anexo a este diploma e dele fazendo parte.
 
-###### Art. 2.º Este diploma não é aplicável às Regiões Autónomas da Madeira e dos Açores.
+Art. 2.º Este diploma não é aplicável às Regiões Autónomas da Madeira e dos Açores.
 
-###### Art. 3.º - 1 - O presente decreto-lei entra em vigor:
+Art. 3.º - 1 - O presente decreto-lei entra em vigor:
 
 a) Nos concelhos constantes do anexo I do Regulamento, após cento e oitenta dias a contar da data da sua publicação;
 
@@ -108,23 +157,23 @@ b) Nos restantes concelhos, após doze meses a contar da data da sua publicaçã
 
 2 - Nos casos de impossibilidade justificada, mediante proposta da Junta Nacional dos Produtos Pecuários, o prazo estabelecido na alínea b) do número anterior poderá ser prorrogado por despacho do Secretário de Estado da Transformação e Mercados.
 
-###### Art. 4.º - As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
+Art. 4.º - As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
 
-###### Art. 5.º São revogados a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 de Junho de 1965, e o despacho das Secretarias de Estado da Agricultura e do Comércio de 10 de Março de 1961, publicado no Diário do Governo, 1.ª série, de 13 de Março de 1961, em tudo o que contrarie o disposto no presente diploma, e bem assim as Portarias n.os [450/70](https://diariodarepublica.pt/dr/detalhe/portaria/450-1970-149219), de 11 de Setembro, e [34/74](https://diariodarepublica.pt/dr/detalhe/portaria/34-1974-408294), de 18 de Janeiro.
+Art. 5.º São revogados a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 de Junho de 1965, e o despacho das Secretarias de Estado da Agricultura e do Comércio de 10 de Março de 1961, publicado no Diário do Governo, 1.ª série, de 13 de Março de 1961, em tudo o que contrarie o disposto no presente diploma, e bem assim as Portarias n.os [450/70](https://diariodarepublica.pt/dr/detalhe/portaria/450-1970-149219), de 11 de Setembro, e [34/74](https://diariodarepublica.pt/dr/detalhe/portaria/34-1974-408294), de 18 de Janeiro.
 
 Francisco José Pereira Pinto Balsemão - António José Baptista Cardoso e Cunha - Alexandre de Azeredo Vaz Pinto.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DA APRESENTAÇÃO E COMERCIALIZAÇÃO DOS OVOS
 
-###### Artigo 1.º A apresentação e comercialização dos ovos regem-se pelas disposições do presente Regulamento.
+Artigo 1.º A apresentação e comercialização dos ovos regem-se pelas disposições do presente Regulamento.
 
-###### Art. 2.º Para efeitos do presente Regulamento entende-se por:
+Art. 2.º Para efeitos do presente Regulamento entende-se por:
 
 a) Ovos com casca: os ovos com casca de aves de capoeira, frescos ou conservados, com excepção dos ovos para incubação definidos na alínea d);
 
@@ -156,7 +205,7 @@ Frescos ou conservados, mesmo açucarados;
 
 Secos, mesmo açucarados.
 
-###### Art. 3.º - 1 - Sempre que provenham de um produtor ou de um comerciante, os ovos não podem ser comercializados sem que satisfaçam as disposições do presente Regulamento.
+Art. 3.º - 1 - Sempre que provenham de um produtor ou de um comerciante, os ovos não podem ser comercializados sem que satisfaçam as disposições do presente Regulamento.
 
 2 - Os ovos podem não ser classificados por categoria de qualidade e classe de peso nem mercados quando:
 
@@ -166,9 +215,9 @@ b) Entregues às empresas de indústria de alimentação humana, com excepção 
 
 3 - Não estão sujeitos às disposições do presente Regulamento os ovos vendidos directamente ao consumidor pelo produtor na sua própria exploração ou no mercado público local, desde que se trate da sua própria produção e que os ovos não tenham sido sujeitos à inspecção, classificação, marcação e acondicionamento, conforme previsto neste Regulamento.
 
-###### Art. 4.º Os ovos referidos na alínea b) do artigo 2.º não podem ser misturados com ovos de outras espécies.
+Art. 4.º Os ovos referidos na alínea b) do artigo 2.º não podem ser misturados com ovos de outras espécies.
 
-###### Art. 5.º - 1 - Independentemente do disposto nos artigos 3.º e 10.º, o produtor só pode entregar:
+Art. 5.º - 1 - Independentemente do disposto nos artigos 3.º e 10.º, o produtor só pode entregar:
 
 a) Ovos: aos ajuntadores, aos centros de inspecção e classificação, nos mercados referidos na alínea a) do n.º 1 do artigo 3.º, ou à indústria;
 
@@ -178,7 +227,7 @@ b) Ovos industriais: aos ajuntadores, aos centros de inspecção e classificaç�
 
 3 - Os ajuntadores devem apresentar os ovos nos centros de inspecção e classificação o mais tardar até ao terceiro dia útil depois da recolha.
 
-###### Art. 6.º - 1 - Só os centros de inspecção e classificação, com excepção dos casos previstos nos artigos 10.º e 14.º, podem classificar os ovos pela categoria de qualidade e classe de peso.
+Art. 6.º - 1 - Só os centros de inspecção e classificação, com excepção dos casos previstos nos artigos 10.º e 14.º, podem classificar os ovos pela categoria de qualidade e classe de peso.
 
 2 - Os centros de inspecção e classificação manterão em dia a lista dos seus fornecedores.
 
@@ -186,7 +235,7 @@ b) Ovos industriais: aos ajuntadores, aos centros de inspecção e classificaç�
 
 4 - Esta autorização pode ser retirada sempre que as condições requeridas para o funcionamento dos centros não sejam cumpridas.
 
-###### Art. 7.º - 1 - Os ovos são classificados, consoante a sua qualidade, nas categorias seguintes:
+Art. 7.º - 1 - Os ovos são classificados, consoante a sua qualidade, nas categorias seguintes:
 
 Categoria A ou ovos frescos;
 
@@ -210,7 +259,7 @@ e) Não terem sido objecto de qualquer tratamento por meio de antibióticos;
 
 f) Destinarem-se a ser desprovidos de casca, tendo em vista a fabricação de produtos de ovos pasteurizados.
 
-###### Art. 8.º - 1 - Os ovos da categoria A devem apresentar no mínimo as seguintes características:
+Art. 8.º - 1 - Os ovos da categoria A devem apresentar no mínimo as seguintes características:
 
 Casca e cutícula: normais, limpas, intactas;
 
@@ -232,7 +281,7 @@ Odor: isentos de cheiros estranhos.
 
 5 - A autorização prevista no número anterior nunca poderá abranger os ovos da categoria A comercializados sob a designação de «EXTRA» que tenham sido sujeitos a técnicas de envolvimento protector.
 
-###### Art. 9.º - 1 - Os ovos da categoria B devem apresentar as seguintes características:
+Art. 9.º - 1 - Os ovos da categoria B devem apresentar as seguintes características:
 
 Casca: normal, intacta;
 
@@ -262,13 +311,13 @@ c) Ovos conservados:
 
 Os que, refrigerados ou não, foram conservados numa mistura gasosa de composição diferente da do ar atmosférico e os que foram submetidos a outros processos de conservação.
 
-###### Art. 10.º - 1 - Os ovos da categoria C são os que não satisfazem as exigências requeridas para as categorias A e B.
+Art. 10.º - 1 - Os ovos da categoria C são os que não satisfazem as exigências requeridas para as categorias A e B.
 
 2 - Os ovos da categoria C só podem ser destinados à indústria, desprovidos ou não da casca.
 
 3 - Os ovos incubados desta categoria só podem ser vendidos para a indústria desde que obrigatoriamente desprovidos da casca e utilizados na fabricação de produtos pasteurizados.
 
-###### Art. 11.º Os ovos das categorias A e B são classificados, consoante o seu peso, nas classes seguintes:
+Art. 11.º Os ovos das categorias A e B são classificados, consoante o seu peso, nas classes seguintes:
 
 Classe 1: de peso unitário igual ou superior a 70 g;
 
@@ -284,7 +333,7 @@ Classe 6: de peso unitário igual ou superior a 45 g e inferior a 50 g;
 
 Classe 7: de peso unitário inferior a 45 g.
 
-###### Art. 12.º - 1 - Os ovos da categoria A podem ser providos de uma ou de várias marcas distintivas, indicando:
+Art. 12.º - 1 - Os ovos da categoria A podem ser providos de uma ou de várias marcas distintivas, indicando:
 
 a) A categoria;
 
@@ -306,7 +355,7 @@ f) A marca da empresa ou a marca comercial.
 
 5 - O número do centro de inspecção e classificação consiste num número de, pelo menos, 3 algarismos, com altura mínima de 5 mm.
 
-###### Art. 13.º - 1 - Os ovos das categorias B e C, com excepção dos rachados, são providos de uma marca distintiva da categoria, podendo ainda ser providos de 1 algarismo, com altura mínima de 2 mm e máxima de 3 mm, indicando a classe e de outras indicações previstas no n.º 1 do artigo 12.º
+Art. 13.º - 1 - Os ovos das categorias B e C, com excepção dos rachados, são providos de uma marca distintiva da categoria, podendo ainda ser providos de 1 algarismo, com altura mínima de 2 mm e máxima de 3 mm, indicando a classe e de outras indicações previstas no n.º 1 do artigo 12.º
 
 2 - A marca distintiva da categoria para os ovos da categoria B consiste:
 
@@ -322,7 +371,7 @@ c) Quando forem ovos conservados, num losango com as diagonais, respectivamente,
 
 5 - A marca distintiva da categoria para os ovos da categoria C consiste num circulo com o diâmetro de, pelo menos, 12 mm, contendo a letra C, em caracteres latinos, com a altura mínima de 5 mm.
 
-###### Art. 14.º - 1 - Os ovos das categorias A ou B que deixem de apresentar as características fixadas para essas categorias são desclassificados e podem ser reclassificados na categoria B ou C, conforme as características que apresentem.
+Art. 14.º - 1 - Os ovos das categorias A ou B que deixem de apresentar as características fixadas para essas categorias são desclassificados e podem ser reclassificados na categoria B ou C, conforme as características que apresentem.
 
 2 - Aos ovos reclassificados nos termos do número anterior será aposta uma marca distintiva de harmonia com o disposto no artigo 13.º
 
@@ -330,21 +379,21 @@ c) Quando forem ovos conservados, num losango com as diagonais, respectivamente,
 
 4 - Os ovos das categorias A ou B que deixem de apresentar as características fixadas para essas categorias podem ser enviados directamente para a indústria de alimentação humana sem necessidade do cumprimento do disposto no n.º 1, desde que as embalagens que os contêm possuam apostas etiquetas nas quais se indique claramente o seu destino.
 
-###### Art. 15.º - 1 - As marcas distintivas apostas conforme o disposto nos artigos 12.º, 13.º e 14.º têm de ser bem legíveis.
+Art. 15.º - 1 - As marcas distintivas apostas conforme o disposto nos artigos 12.º, 13.º e 14.º têm de ser bem legíveis.
 
 2 - Os ovos devem ser marcados com tinta de cor vermelha, indelével e resistente à cozedura.
 
 3 - A tinta a utilizar deve obedecer às disposições legais em vigor sobre o emprego de corantes nos produtos destinados à alimentação humana.
 
-###### Art. 16.º Os ovos não podem conter outras marcas além das previstas no presente Regulamento.
+Art. 16.º Os ovos não podem conter outras marcas além das previstas no presente Regulamento.
 
-###### Art. 17.º Para efeitos do presente Regulamento, entende-se por:
+Art. 17.º Para efeitos do presente Regulamento, entende-se por:
 
 a) Grandes embalagens, as que contêm mais de 30 ovos;
 
 b) Pequenas embalagens, as que contêm até 30 ovos.
 
-###### Art. 18.º - 1 - As grandes embalagens, mesmo que contenham ovos acondicionados em pequenas embalagens, devem ter um rótulo ou uma etiqueta, do modelo estabelecido pela Junta Nacional dos Produtos Pecuários, que serão inutilizados no acto da abertura da embalagem.
+Art. 18.º - 1 - As grandes embalagens, mesmo que contenham ovos acondicionados em pequenas embalagens, devem ter um rótulo ou uma etiqueta, do modelo estabelecido pela Junta Nacional dos Produtos Pecuários, que serão inutilizados no acto da abertura da embalagem.
 
 O rótulo ou a etiqueta são de cor branca, devendo constar, em letras impressas a preto perfeitamente visíveis e legíveis, o seguinte:
 
@@ -366,7 +415,7 @@ Em cada ano a numeração é contínua de 1 a 52 ou 53; à semana compreendendo 
 
 3 - A indicação da data de inspecção e classificação ou do número da semana é aposta sobre as grandes embalagens contendo ovos da categoria A o mais tardar no dia de trabalho seguinte ao da recepção dos ovos no centro de inspecção e classificação.
 
-###### Art. 19.º - 1 - As pequenas embalagens, mesmo que estejam acondicionadas em grandes embalagens, terão apostos, em letras perfeitamente legíveis e visíveis:
+Art. 19.º - 1 - As pequenas embalagens, mesmo que estejam acondicionadas em grandes embalagens, terão apostos, em letras perfeitamente legíveis e visíveis:
 
 a) Nome, firma e direcção da empresa que classificou e embalou ou mandou classificar e embalar os ovos.
 
@@ -384,7 +433,7 @@ f) Indicação da refrigeração ou do modo de conservação, bem legível e em 
 
 2 - A indicação da data ou do número da semana da inspecção e classificação é aposta sobre as embalagens contendo ovos da categoria A o mais tardar no dia de trabalho seguinte ao da recepção no centro de inspecção e classificação.
 
-###### Art. 20.º - 1 - O termo «EXTRA» pode ser aposto sobre as pequenas embalagens contendo ovos da categoria A com a data da inspecção, classificação e embalagem e munidas de um rótulo.
+Art. 20.º - 1 - O termo «EXTRA» pode ser aposto sobre as pequenas embalagens contendo ovos da categoria A com a data da inspecção, classificação e embalagem e munidas de um rótulo.
 
 2 - A câmara-de-ar dos ovos «EXTRA» deve apresentar uma altura inferior a 4 mm no momento da inspecção e classificação.
 
@@ -392,21 +441,21 @@ f) Indicação da refrigeração ou do modo de conservação, bem legível e em 
 
 4 - O rótulo deve ser destruído pelo detentor do lote o mais tardar no sétimo dia a seguir à inspecção e classificação e ao acondicionamento.
 
-###### Art. 21.º - 1 - Os ovos expostos para venda ao público devem ser apresentados em embalagens pequenas, separadas em função das categorias e das classes. A categoria e a classe, assim como a refrigeração ou o modo de conservação, quando se trate de ovos refrigerados ou de ovos conservados, serão indicados de forma perfeitamente legível e visível para o consumidor.
+Art. 21.º - 1 - Os ovos expostos para venda ao público devem ser apresentados em embalagens pequenas, separadas em função das categorias e das classes. A categoria e a classe, assim como a refrigeração ou o modo de conservação, quando se trate de ovos refrigerados ou de ovos conservados, serão indicados de forma perfeitamente legível e visível para o consumidor.
 
 2 - Os ovos de uma categoria de qualidade, com excepção dos ovos da categoria A quando comercializados sob a designação de «EXTRA», podem ser expostos para venda ao público em pequenas embalagens de 6 a 30 ovos, mesmo contendo ovos de classes diferentes, mas com a condição de que cada ovo apresente a marca da classe a que pertence e que na embalagem, em vez das classes, seja indicado o peso líquido total e a referência «Ovos de calibres diferentes».
 
-###### Art. 22.º As embalagens não podem apresentar menções diferentes das previstas no presente Regulamento.
+Art. 22.º As embalagens não podem apresentar menções diferentes das previstas no presente Regulamento.
 
-###### Art. 23.º - 1 - As embalagens, bem como os elementos interiores, devem ser resistentes aos choques, estarem secas, em bom estado de conservação e limpeza e serem fabricadas com materiais que protejam os ovos de odores estranhos e de riscos de alteração de qualidade.
+Art. 23.º - 1 - As embalagens, bem como os elementos interiores, devem ser resistentes aos choques, estarem secas, em bom estado de conservação e limpeza e serem fabricadas com materiais que protejam os ovos de odores estranhos e de riscos de alteração de qualidade.
 
 2 - As grandes embalagens, bem como os elementos interiores, utilizadas no transporte e expedição dos ovos só podem ser realizadas se obedecerem às condições referidas no n.º 1 e não devem apresentar marcas anteriores susceptíveis de se prestar a confusão.
 
 3 - As pequenas embalagens não podem ser reutilizadas.
 
-###### Art. 24.º O rótulo e a etiqueta, que podem ser numerados, terão uma marca oficial estabelecida pela Junta Nacional dos Produtos Pecuários.
+Art. 24.º O rótulo e a etiqueta, que podem ser numerados, terão uma marca oficial estabelecida pela Junta Nacional dos Produtos Pecuários.
 
-###### Art. 25.º - 1 - São comercializados em embalagens com rótulo ou etiqueta de cor amarela inutilizável com a abertura das embalagens:
+Art. 25.º - 1 - São comercializados em embalagens com rótulo ou etiqueta de cor amarela inutilizável com a abertura das embalagens:
 
 a) Os ovos que não forem classificados nas categorias A, B ou C;
 
@@ -430,7 +479,7 @@ d) No caso de se tratar dos ovos referidos no n.º 1:
 
 «OVOS DESTINADOS À INDÚSTRIA DA ALIMENTAÇÃO HUMANA», em letras maiúsculas, pretas, de 2 cm de altura.
 
-###### Art. 26.º - 1 - Os ovos industriais são comercializados em embalagens com rótulo ou etiqueta de cor vermelha.
+Art. 26.º - 1 - Os ovos industriais são comercializados em embalagens com rótulo ou etiqueta de cor vermelha.
 
 2 - O rótulo e a etiqueta referidos no n.º 1 devem ser do modelo estabelecido pela Junta Nacional dos Produtos Pecuários e terão impressas, perfeitamente visíveis e legíveis, as seguintes indicações
 
@@ -440,15 +489,15 @@ b) Nome, firma ou denominação social e domicílio da entidade que expediu os o
 
 c) «OVOS INDUSTRIAIS», em letras maiúsculas, pretas, de 2 cm de altura, e a referência «IMPRÓPRIOS PARA CONSUMO HUMANO», em letras pretas de, pelo menos, 0,8 cm de altura.
 
-###### Art. 27.º - 1 - O rótulo deve ser colocado de forma que não torne invisível qualquer das indicações inscritas sobre a embalagem e seja inutilizado quando da abertura da mesma.
+Art. 27.º - 1 - O rótulo deve ser colocado de forma que não torne invisível qualquer das indicações inscritas sobre a embalagem e seja inutilizado quando da abertura da mesma.
 
 2 - O termo «EXTRA» será impresso em letras itálicas, de 1 cm de altura, a branco, sobre fundo vermelho.
 
 3 - Sobre as grandes embalagens contendo peque nas embalagens com a menção «EXTRA» será impresso, em letras maiúsculas de 2 cm de altura, a indicação «EMBALAGEM CONTENDO PEQUENAS EMBALAGENS EXTRA».
 
-###### Art. 28.º A marca para os ovos incubados consiste numa estrela de 5 ramos inscrita num círculo, cujo diâmetro é no mínimo de 12 mm. A estrela e o círculo são de cor vermelha.
+Art. 28.º A marca para os ovos incubados consiste numa estrela de 5 ramos inscrita num círculo, cujo diâmetro é no mínimo de 12 mm. A estrela e o círculo são de cor vermelha.
 
-###### Art. 29.º - 1 - Os ovos desclassificados podem ser comercializados nas embalagens que os continham antes da desclassificação. Se forem reembalados, cada embalagem só pode conter ovos de um único lote.
+Art. 29.º - 1 - Os ovos desclassificados podem ser comercializados nas embalagens que os continham antes da desclassificação. Se forem reembalados, cada embalagem só pode conter ovos de um único lote.
 
 2 - O rótulo ou a etiqueta das grandes embalagens terão impressas, em letras pretas, perfeitamente visíveis e legíveis, as seguintes indicações:
 
@@ -466,7 +515,7 @@ f) A indicação da refrigeração ou do modo de conservação, em caracteres la
 
 3 - As pequenas embalagens contendo ovos desclassificados terão, em letras perfeitamente visíveis e legíveis, apenas as referências previstas no n.º 2, devendo as indicações tornadas inexactas ser inutilizadas quando da reutilização das embalagens de origem.
 
-###### Art. 30.º - 1 - Os ovos embalados só podem ser reembalados pelos centros de inspecção e classificação.
+Art. 30.º - 1 - Os ovos embalados só podem ser reembalados pelos centros de inspecção e classificação.
 
 2 - Cada embalagem só pode conter ovos de um único lote.
 
@@ -492,21 +541,21 @@ As pequenas embalagens podem ainda ter impressa a marca comercial da entidade qu
 
 5 - O termo «EXTRA» não pode ser utilizado nestas embalagens.
 
-###### Art. 31.º - 1 - O disposto no artigo 24.º do presente Regulamento aplica-se aos rótulos e às etiquetas a que se referem os artigos 29.º e 30.º
+Art. 31.º - 1 - O disposto no artigo 24.º do presente Regulamento aplica-se aos rótulos e às etiquetas a que se referem os artigos 29.º e 30.º
 
 2 - Quando as embalagens de origem forem utilizadas na desclassificação e reembalagem, serão consideradas como reutilizadas em conformidade com o n.º 2 do artigo 23.
 
-###### Art. 32.º - 1 - As indicações anteriores dos rótulos ou das etiquetas das grandes embalagens reutilizadas em conformidade com o n.º 2 do artigo 23.º serão completamente recobertas por novos rótulos ou por novas etiquetas, ou tornadas ilegíveis por qualquer outra forma.
+Art. 32.º - 1 - As indicações anteriores dos rótulos ou das etiquetas das grandes embalagens reutilizadas em conformidade com o n.º 2 do artigo 23.º serão completamente recobertas por novos rótulos ou por novas etiquetas, ou tornadas ilegíveis por qualquer outra forma.
 
 2 - As grandes embalagens podem ter apostas uma ou várias indicações que figuram nos rótulos ou nas etiquetas, assegurando a sua inviolabilidade, e ainda a marca comercial da entidade que embalou ou mandou embalar os ovos.
 
-###### Art. 33.º - 1 - Os ovos devem ser armazenados em locais limpos, secos e isentos de odores estranhos.
+Art. 33.º - 1 - Os ovos devem ser armazenados em locais limpos, secos e isentos de odores estranhos.
 
 2 - Os ovos devem ser transportados em condições que os mantenham limpos, secos, isentos de odores estranhos e preservados eficazmente dos choques, das intempéries e da acção da luz.
 
 3 - Os ovos devem ser armazenados e transportados em condições tais que os preservem das diferenças excessivas de temperatura.
 
-###### Art. 34.º Para os ovos das categorias A e B, classificados por classes, as grandes embalagens terão, no mínimo, os pesos líquidos seguintes:
+Art. 34.º Para os ovos das categorias A e B, classificados por classes, as grandes embalagens terão, no mínimo, os pesos líquidos seguintes:
 
 Classe 1: 7 kg/100 ovos;
 
@@ -522,15 +571,15 @@ Classe 6: 4,6 kg/100 ovos;
 
 Classe 7: peso líquido mínimo não previsto.
 
-###### Art. 35.º A fiscalização do cumprimento do presente Regulamento deverá obedecer às normas a seguir indicadas:
+Art. 35.º A fiscalização do cumprimento do presente Regulamento deverá obedecer às normas a seguir indicadas:
 
 1) Quando os ovos se encontrem em grandes embalagens não contendo pequenas embalagens, a amostragem far-se-á, no mínimo, sobre as seguintes quantidades de ovos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf))](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf)
 
 2) Quando os ovos estiverem embalados em pequenas embalagens, mesmo que contidas em grandes embalagens, a amostragem far-se-á, no mínimo, sobre os seguintes números de embalagens e de ovos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf))](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/23700/27472755.pdf)
 
 3) Nos lotes inferiores ou iguais a 18000 ovos, para a amostragem serão retirados ovos de, pelo menos, 20% das grandes embalagens.
 
@@ -538,7 +587,7 @@ Nos lotes com mais de 18000 ovos, para a amostragem serão retirados ovos de, pe
 
 4) Quando os ovos não embalados estiverem expostos para venda ao público, a amostragem medirá sobre 100% dos ovos, até 180, e, para quantidades superiores, sobre 15%, num mínimo de 180 ovos.
 
-###### Art. 36.º - 1 - No fim do controle, se for o caso, depois de verificado que todo o lote está de harmonia com as disposições do presente Regulamento, o controlador aporá sobre a embalagem um rótulo contendo uma marca oficial e as menções seguintes:
+Art. 36.º - 1 - No fim do controle, se for o caso, depois de verificado que todo o lote está de harmonia com as disposições do presente Regulamento, o controlador aporá sobre a embalagem um rótulo contendo uma marca oficial e as menções seguintes:
 
 a) «Controlado em ... (data), no ... (lugar)»;
 
@@ -548,7 +597,7 @@ b) O número atribuído ao controlador pelo organismo de controle.
 
 3 - No caso de um controle de pequenas embalagens contendo a menção «EXTRA», o rótulo de controle deve conter as menções referidas no n.º 1 e a palavra «EXTRA», em itálico, com 1 cm de altura.
 
-###### Art. 37.º - 1 - As tolerâncias admitidas no controle dos ovos classificados na categoria A são as seguintes:
+Art. 37.º - 1 - As tolerâncias admitidas no controle dos ovos classificados na categoria A são as seguintes:
 
 a) À saída do centro de inspecção e classificação:
 
@@ -572,11 +621,11 @@ b) Nos outros estádios da comercialização:
 
 4 - No controle de lotes com menos de 180 ovos, as tolerâncias admitidas serão o dobro das indicadas nos números anteriores.
 
-###### Art. 38.º - 1 - No controle de ovos das categorias A ou B identificados com determinado peso unitário é admitida a existência de 10% de ovos de classes imediatamente vizinhas, desde que não seja ultrapassada naquela percentagem 6% de ovos da classe imediatamente inferior.
+Art. 38.º - 1 - No controle de ovos das categorias A ou B identificados com determinado peso unitário é admitida a existência de 10% de ovos de classes imediatamente vizinhas, desde que não seja ultrapassada naquela percentagem 6% de ovos da classe imediatamente inferior.
 
 2 - No controle de lotes com menos de 180 ovos, a tolerância admitida será o dobro da referida no n.º 1.
 
-###### Art. 39.º - 1 - Só podem ser aprovados como centros de inspecção e classificação de ovos os pertencentes a entidades colectivas, públicas ou privadas e singulares que satisfaçam as seguintes condições:
+Art. 39.º - 1 - Só podem ser aprovados como centros de inspecção e classificação de ovos os pertencentes a entidades colectivas, públicas ou privadas e singulares que satisfaçam as seguintes condições:
 
 a) Ter superfície suficiente em relação à importância da actividade exercida;
 
@@ -602,15 +651,15 @@ d) Uma ou várias balanças aferidas para a pesagem dos ovos.
 
 3 - Os locais e o equipamento técnico devem ser mantidos em bom estado de conservação, limpos e isentos de cheiros estranhos.
 
-###### Art. 40.º A classificação e acondicionamento dos ovos da categoria A sob a designação de «EXTRA» só pode ser efectuada pelos centros de inspecção e classificação para esse efeito autorizados.
+Art. 40.º A classificação e acondicionamento dos ovos da categoria A sob a designação de «EXTRA» só pode ser efectuada pelos centros de inspecção e classificação para esse efeito autorizados.
 
-###### Art. 41.º Os centros de inspecção e classificação de ovos funcionarão sob a responsabilidade sanitária de médicos veterinários.
+Art. 41.º Os centros de inspecção e classificação de ovos funcionarão sob a responsabilidade sanitária de médicos veterinários.
 
-###### Art. 42.º - 1 - Os ovos importados têm de satisfazer ao disposto no presente Regulamento.
+Art. 42.º - 1 - Os ovos importados têm de satisfazer ao disposto no presente Regulamento.
 
 2 - As embalagens dos ovos a exportar devem ter aposto, além de todas as indicações referidas no presente Regulamento, a palavra «PORTUGAL».
 
-###### Art. 43.º As embalagens contendo ovos desidratados ou que foram objecto de qualquer outra forma de industrialização devem ser herméticas e próprias para produtos alimentares e ter apostas as seguintes indicações, bem visíveis e legíveis:
+Art. 43.º As embalagens contendo ovos desidratados ou que foram objecto de qualquer outra forma de industrialização devem ser herméticas e próprias para produtos alimentares e ter apostas as seguintes indicações, bem visíveis e legíveis:
 
 a) Nome do género alimentício;
 
@@ -626,19 +675,19 @@ f) Instruções necessárias para o armazenamento e utilização do produto;
 
 g) Marca comercial.
 
-###### Art. 44.º O proprietário dos ovos armazenados em câmaras frigoríficas é obrigado a comunicar essa armazenagem à Junta Nacional dos Produtos Pecuários.
+Art. 44.º O proprietário dos ovos armazenados em câmaras frigoríficas é obrigado a comunicar essa armazenagem à Junta Nacional dos Produtos Pecuários.
 
-###### Art. 45.º - 1 - As entidades proprietárias dos frigoríficos onde estejam armazenados ovos ficam obrigadas a enviar mensalmente à Junta Nacional dos Produtos Pecuários, devidamente preenchido, um mapa, que lhes será fornecido por aquele organismo, no qual constem, além do nome do proprietário dos ovos, as entradas e saídas da mercadoria.
+Art. 45.º - 1 - As entidades proprietárias dos frigoríficos onde estejam armazenados ovos ficam obrigadas a enviar mensalmente à Junta Nacional dos Produtos Pecuários, devidamente preenchido, um mapa, que lhes será fornecido por aquele organismo, no qual constem, além do nome do proprietário dos ovos, as entradas e saídas da mercadoria.
 
 2 - Pela falta de cumprimento do disposto no número anterior serão responsabilizados os proprietários dos frigoríficos.
 
-###### Art. 46.º É obrigatória a inscrição na Junta Nacional dos Produtos Pecuários:
+Art. 46.º É obrigatória a inscrição na Junta Nacional dos Produtos Pecuários:
 
 a) Das pessoas, singulares ou colectivas, com mais de 500 galinhas poedeiras;
 
 b) Das pessoas, singulares ou colectivas, que se dediquem ao comércio por grosso de produtos avícolas referidos neste Regulamento.
 
-###### Art. 47.º Os produtores inscritos na Junta Nacional dos Produtos Pecuários ficam obrigados a remeter, de dois em dois meses, àquela entidade, devidamente preenchido, um impresso por ela fornecido com as seguintes indicações:
+Art. 47.º Os produtores inscritos na Junta Nacional dos Produtos Pecuários ficam obrigados a remeter, de dois em dois meses, àquela entidade, devidamente preenchido, um impresso por ela fornecido com as seguintes indicações:
 
 a) Número e idade de aves do bando quando em postura;
 
@@ -646,23 +695,23 @@ b) Sua produção;
 
 c) Destino dado à produção.
 
-###### Art. 48.º Os centros de inspecção e classificação de ovos ficam obrigados a remeter mensalmente à Junta Nacional dos Produtos Pecuários um mapa, devidamente preenchido, que lhes será fornecido por aquela entidade e no qual conste o movimento de inspecção e classificação do referido centro.
+Art. 48.º Os centros de inspecção e classificação de ovos ficam obrigados a remeter mensalmente à Junta Nacional dos Produtos Pecuários um mapa, devidamente preenchido, que lhes será fornecido por aquela entidade e no qual conste o movimento de inspecção e classificação do referido centro.
 
-###### Art. 49.º A venda ao público de ovos em estabelecimentos deve obedecer às seguintes condições:
+Art. 49.º A venda ao público de ovos em estabelecimentos deve obedecer às seguintes condições:
 
 a) Espaço para exposição e armazenamento ao abrigo do calor e da humidade;
 
 b) Isolamento de produtos susceptíveis de transmitir aos ovos cheiros e sabores desagradáveis.
 
-###### Art. 50.º Compete à Junta Nacional dos Produtos Pecuários propor a instalação de mercados abastecedores.
+Art. 50.º Compete à Junta Nacional dos Produtos Pecuários propor a instalação de mercados abastecedores.
 
-###### Art. 51.º As infracções ao disposto nos artigos 18.º, 19.º, 20.º, 22.º, 24.º, 25.º, 26.º, 27.º, 29.º, 30.º, 31.º, n.º 2, 32.º e 43.º constituem contravenção punível com multa de 5000$00 a 50000$00.
+Art. 51.º As infracções ao disposto nos artigos 18.º, 19.º, 20.º, 22.º, 24.º, 25.º, 26.º, 27.º, 29.º, 30.º, 31.º, n.º 2, 32.º e 43.º constituem contravenção punível com multa de 5000$00 a 50000$00.
 
-###### Art. 52.º As infracções ao disposto nos artigos 44.º, 45.º, n.º 1, 46.º, 47.º e 48.º constituem contravenção punível com multa de 3000$00 a 30000$00.
+Art. 52.º As infracções ao disposto nos artigos 44.º, 45.º, n.º 1, 46.º, 47.º e 48.º constituem contravenção punível com multa de 3000$00 a 30000$00.
 
-###### Art. 53.º As infracções às restantes disposições do presente Regulamento constituem contravenção punível com multa de 2000$00 a 20000$00.
+Art. 53.º As infracções às restantes disposições do presente Regulamento constituem contravenção punível com multa de 2000$00 a 20000$00.
 
-###### Art. 54.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente Regulamento que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
+Art. 54.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente Regulamento que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
 
 ## ANEXO I — Concelhos
 

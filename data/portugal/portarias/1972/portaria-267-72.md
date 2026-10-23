@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/267-1972-681211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffd07204f32e5fae6426470de341ee00bf7d04e44fb33e5227533f748628bbfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a4258afa46bd2b719e32c9637f9473cece00f3ba83b9e8b9641796eac6ebb5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Comércio
+- Produção
 relationships:
 - type: amended_by
   target: pt:dre:412019:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412019:por
+  label: "Alterado o n.º 14.º pela PORT.820/73.19.11.1973.MECO, DG.IS [270] de 19.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-1973-412019
+  date: '1973-11-19'
+- type: cites
+  target: pt:dre:477363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644567:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:24Z'
   warnings: []
   errors: []
 ---
@@ -235,4 +259,4 @@ Em embalagens individuais (cubos ou saquetas) - venda livre.
 
 15.º A presente portaria entra imediatamente em vigor e revoga a [Portaria n.º 264/71](https://diariodarepublica.pt/dr/detalhe/portaria/264-1971-644567), de 20 de Maio, com excepção do n.º 2.º-3, que se mantém em vigor até 31 de Agosto, e do n.º 3.º-2, que vigorará até 31 de Maio do corrente ano.
 
-**O Ministro das Finanças e da Economia, João Augusto Dias Rosas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.**
+O Ministro das Finanças e da Economia, João Augusto Dias Rosas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.

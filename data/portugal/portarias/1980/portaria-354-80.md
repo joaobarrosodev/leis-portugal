@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/354-1980-473680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce03aec63f830f682bdf4554579ff9ef0335383b05c77ddabff57add215c881a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06daf6c68fe4f01d8e607ccfc07e65751f8fb672f45c24bfbe44588b935f106d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Força Aérea
+- Gestão Orçamental
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:24Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar contrato escrito com a firma Thompson - CSF para a aquisição e instalação de um sistema de radar GCA na Base Aérea n.º 5, Monte Real, até ao montante de 27386283 francos franceses, correspondentes a 312039308$50, ao câmbio de 11$394.
+Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar contrato escrito com a firma Thompson - CSF para a aquisição e instalação de um sistema de radar GCA na Base Aérea n.º 5, Monte Real, até ao montante de 27386283 francos franceses, correspondentes a 312039308$50, ao câmbio de 11$394.
 
-###### Art. 2.º - 1 - Os encargos a que se refere o artigo anterior serão liquidados nos anos económicos de 1980, 1981 e 1982, da forma seguinte:
+Art. 2.º - 1 - Os encargos a que se refere o artigo anterior serão liquidados nos anos económicos de 1980, 1981 e 1982, da forma seguinte:
 
 Em 1980 - um pagamento de 2738628 francos franceses, correspondentes a 31203933$80, equivalentes a 10% do contrato, e, eventualmente, um segundo pagamento opcional e variável, que, somado à primeira prestação, não poderá ultrapassar 20% do valor total do contrato;
 
@@ -108,6 +121,6 @@ Em 1982 - um pagamento de 2738628 francos franceses, correspondentes a 31203933$
 
 3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos sempre que a oscilação cambial o justifique.
 
-###### Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos do Departamento da Força Aérea para 1981 e 1982, a inscrever pelos montantes correspondentes.
+Art. 3.º Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotações das despesas gerais dos orçamentos do Departamento da Força Aérea para 1981 e 1982, a inscrever pelos montantes correspondentes.
 
 Conselho da Revolução e Ministério das Finanças e do Plano, 30 de Maio de 1980. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

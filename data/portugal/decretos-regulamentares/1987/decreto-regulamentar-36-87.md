@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13700/23462346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1987-419009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 897237ebb79e0e864adcda2dcd4735a84d6f016ea29b162bd28f7de409425bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d0fc62747dcffcb4848df59a42965eb40ae605fe065a66739169532b591ed0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Subsídio de Doença
+- Trabalhador do Serviço Doméstico
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:653124:por
+  label: "Revogado pelo DEC LEI.328/93.25.09.1993.MESS, DR.IS-A [226] de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1993-653124
+  date: '1993-09-25'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o DR 43/82, de 22-Jul, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei\
+    \ n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009,\
+    \ sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente em vigor\
+    \ as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada Lei\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:54Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +136,9 @@ No que diz respeito ao regime de segurança social dos trabalhadores independent
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 33.º e 48.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, que regulamentam a atribuição e o cálculo do subsídio de doença do regime geral de segurança social, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 33.º e 48.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, que regulamentam a atribuição e o cálculo do subsídio de doença do regime geral de segurança social, passam a ter a seguinte redacção:
 
-###### Art. 33.º - 1 - A atribuição do subsídio de doença aos beneficiários do regime geral de segurança social dos trabalhadores por conta de outrem depende de os mesmos, à data do início da incapacidade, terem cumprido as seguintes condições:
+Art. 33.º - 1 - A atribuição do subsídio de doença aos beneficiários do regime geral de segurança social dos trabalhadores por conta de outrem depende de os mesmos, à data do início da incapacidade, terem cumprido as seguintes condições:
 
 a) Um prazo de garantia de seis meses seguidos ou interpolados com registo de remunerações;
 
@@ -115,32 +148,32 @@ b) Um índice de profissionalidade de quinze dias com registo de remunerações 
 
 3 - Nas situações de falta de registo de remunerações durante doze meses consecutivos a atribuição do subsídio de doença só pode ter lugar após renovação das condições referidas nos números anteriores a partir da data a que se reporta o primeiro novo registo de remunerações.
 
-###### Art. 48.º - 1 - O montante diário do subsídio de doença é igual a 65% da remuneração média definida por R/180, em que R representa o total das remunerações registadas nos primeiros seis meses que precedem o segundo mês anterior ao do início da incapacidade.
+Art. 48.º - 1 - O montante diário do subsídio de doença é igual a 65% da remuneração média definida por R/180, em que R representa o total das remunerações registadas nos primeiros seis meses que precedem o segundo mês anterior ao do início da incapacidade.
 
 2 - Na determinação do total de remunerações registadas não são consideradas as importâncias relativas aos subsídios de férias, de Natal ou outras de natureza análoga.
 
-###### Art. 2.º O artigo 6.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho, que regula a atribuição do subsídio de doença ao pessoal de serviço doméstico, passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º do [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho, que regula a atribuição do subsídio de doença ao pessoal de serviço doméstico, passa a ter a seguinte redacção:
 
-###### Art. 6.º A atribuição do subsídio de doença depende de, em nome do beneficiário, haver registo de remunerações por trabalho efectivamente prestado correspondente a 120 horas, no decurso dos 3.º e 4.º meses anteriores ao do início da incapacidade.
+Art. 6.º A atribuição do subsídio de doença depende de, em nome do beneficiário, haver registo de remunerações por trabalho efectivamente prestado correspondente a 120 horas, no decurso dos 3.º e 4.º meses anteriores ao do início da incapacidade.
 
-###### Art. 3.º O n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 18/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1983-311247), de 28 de Fevereiro, que regulamenta a atribuição do subsídio de doença aos trabalhadores independentes, passa a ter a seguinte redacção:
+Art. 3.º O n.º 1 do artigo 4.º do [Decreto Regulamentar n.º 18/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1983-311247), de 28 de Fevereiro, que regulamenta a atribuição do subsídio de doença aos trabalhadores independentes, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - O subsídio de doença não será pago nos primeiros 60 dias em cada impedimento.
+Art. 4.º - 1 - O subsídio de doença não será pago nos primeiros 60 dias em cada impedimento.
 
 2 - ...
 
-###### Art. 4.º É revogado o [Despacho Normativo n.º 249/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/249-1982-377332), de 17 de Novembro.
+Art. 4.º É revogado o [Despacho Normativo n.º 249/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/249-1982-377332), de 17 de Novembro.
 
-###### Art. 5.º O presente diploma entra em vigor no dia 1 de Julho de 1987, sendo aplicável às situações de doença iniciadas a partir da data da sua vigência.
+Art. 5.º O presente diploma entra em vigor no dia 1 de Julho de 1987, sendo aplicável às situações de doença iniciadas a partir da data da sua vigência.
 
 Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 26 de Maio de 1987.**
+Promulgado em 26 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Maio de 1987.**
+Referendado em 27 de Maio de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

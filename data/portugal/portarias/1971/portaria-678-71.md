@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 286/1971, 1º Suplemento, Série I de 1971-12-07
   number: '286'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1890-(20) a 1890-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28601/00200022.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-1971-220939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c21f9f015c081de0464263557d4da1d94092f40161b959b4a64cc7ef11a859e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 003a8eb8a842ad3222057cfa2c49323497feac5c0aa16470f723eda583ac3289
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:41Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +117,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º As disposições do [Decreto-Lei n.º 582/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1970-146734) a seguir mencionadas passam a ter a redacção que se indica:
 
-###### Artigo 1.º A comissão a que se refere o artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, tornado extensivo às províncias ultramarinas de Angola e Moçambique pela [Portaria n.º 24377](https://diariodarepublica.pt/dr/detalhe/portaria/24377-1969-216284), de 17 de Outubro de 1969, passa a designar-se Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil e terá a seguinte constituição:
+Artigo 1.º A comissão a que se refere o artigo 1.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), de 30 de Maio de 1956, tornado extensivo às províncias ultramarinas de Angola e Moçambique pela [Portaria n.º 24377](https://diariodarepublica.pt/dr/detalhe/portaria/24377-1969-216284), de 17 de Outubro de 1969, passa a designar-se Comissão de Inscrição e Classificação dos Empreiteiros de Obras Públicas e dos Industriais da Construção Civil e terá a seguinte constituição:
 
 a) O presidente do Conselho Técnico de Obras Públicas, que presidirá;
 
@@ -143,7 +155,7 @@ q) Dois representantes dos municípios, designados pelo governador-geral;
 
 r) Um secretário, sem voto, que será o chefe da secretaria central da Direcção Provincial dos Serviços de Obras Públicas e Transportes.
 
-###### Art. 2.º Além dos poderes que lhe foram conferidos pelo artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), compete à Comissão:
+Art. 2.º Além dos poderes que lhe foram conferidos pelo artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279), compete à Comissão:
 
 1.º Conceder alvarás de industriais da construção civil às empresas que o requeiram e que satisfaçam as condições exigidas no presente diploma;
 
@@ -151,7 +163,7 @@ r) Um secretário, sem voto, que será o chefe da secretaria central da Direcç�
 
 3.º Modificar, suspender, cancelar ou cassar os alvarás concedidos.
 
-###### Art. 3.º - 1. A Comissão poderá funcionar por meio de duas secções distintas, tendo uma a competência prevista no artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e outra a competência estabelecida nos n.os 1.º a 3.º do artigo anterior, devendo a constituição destas secções ser fixada no regulamento a que se refere o artigo 37.º
+Art. 3.º - 1. A Comissão poderá funcionar por meio de duas secções distintas, tendo uma a competência prevista no artigo 3.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279) e outra a competência estabelecida nos n.os 1.º a 3.º do artigo anterior, devendo a constituição destas secções ser fixada no regulamento a que se refere o artigo 37.º
 
 2. Ambas as secções serão presididas pelo presidente ou pelo vice-presidente da Comissão.
 
@@ -159,7 +171,7 @@ r) Um secretário, sem voto, que será o chefe da secretaria central da Direcç�
 
 4. As sessões de qualquer das secções serão secretariadas pelo secretário da Comissão.
 
-###### Art. 9.º - 1. As empresas que pretenderem obter alvará requerê-lo-ão à Comissão de Inscrição, instruindo o pedido com os seguintes documentos:
+Art. 9.º - 1. As empresas que pretenderem obter alvará requerê-lo-ão à Comissão de Inscrição, instruindo o pedido com os seguintes documentos:
 
 1.º Certidão de matrícula no registo comercial e, no caso das sociedades, certidão da escritura de constituição e de todas as alterações operadas no pacto social;
 
@@ -175,11 +187,11 @@ r) Um secretário, sem voto, que será o chefe da secretaria central da Direcç�
 
 ...
 
-###### Art. 13.º As obras executadas com infracção do disposto neste diploma serão consideradas ilegais, sendo-lhes aplicadas as sanções previstas na respectiva legislação provincial.
+Art. 13.º As obras executadas com infracção do disposto neste diploma serão consideradas ilegais, sendo-lhes aplicadas as sanções previstas na respectiva legislação provincial.
 
 ...
 
-###### Art. 28.º - 1. ...
+Art. 28.º - 1. ...
 
 2. ...
 
@@ -187,30 +199,30 @@ r) Um secretário, sem voto, que será o chefe da secretaria central da Direcç�
 
 ...
 
-###### Art. 32.º - 1. ...
+Art. 32.º - 1. ...
 
 2. Das deliberações tomadas sobre as reclamações haverá recurso para o governador-geral, que resolverá, ouvido o Conselho Técnico de Obras Públicas ou a Procuradoria da República, conforme o fundamento do recurso.
 
 ...
 
-###### Art. 34.º As taxas a cobrar pela passagem dos alvarás de industriais da construção civil e suas alterações serão fixadas no n.º 11.º da [Portaria n.º 24377](https://diariodarepublica.pt/dr/detalhe/portaria/24377-1969-216284), de 17 de Outubro de 1969.
+Art. 34.º As taxas a cobrar pela passagem dos alvarás de industriais da construção civil e suas alterações serão fixadas no n.º 11.º da [Portaria n.º 24377](https://diariodarepublica.pt/dr/detalhe/portaria/24377-1969-216284), de 17 de Outubro de 1969.
 
-###### Art. 35.º - 1. A cobrança coerciva das taxas a que se refere o artigo anterior pertence ao juízo das execuções fiscais da capital da província.
+Art. 35.º - 1. A cobrança coerciva das taxas a que se refere o artigo anterior pertence ao juízo das execuções fiscais da capital da província.
 
 2. No caso de o devedor residir no estrangeiro, será competente para a execução o juízo das execuções fiscais da respectiva capital da província.
 
-###### Art. 36.º - 1. Os membros da Comissão e os seus substitutos têm direito ao abono de senhas de presença de valor a fixar pelo governador-geral, por cada sessão a que assistirem, a transportes e a ajudas de custo para deslocações correspondentes à respectiva categoria ou, não se tratando de funcionários, às que estiverem atribuídas aos funcionários das letras C a F.
+Art. 36.º - 1. Os membros da Comissão e os seus substitutos têm direito ao abono de senhas de presença de valor a fixar pelo governador-geral, por cada sessão a que assistirem, a transportes e a ajudas de custo para deslocações correspondentes à respectiva categoria ou, não se tratando de funcionários, às que estiverem atribuídas aos funcionários das letras C a F.
 
 2. Ao secretário será atribuída cumulativamente uma gratificação mensal a fixar pelo governador-geral.
 
 ...
 
-###### Art. 38.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1972.
+Art. 38.º O presente diploma entra em vigor no dia 1 de Fevereiro de 1972.
 
 3.º - 1. São válidos em Angola e Moçambique os alvarás de industriais de construção civil obtidos em qualquer destas províncias ou na metrópole, desde que feita a sua inscrição na Comissão da província em que o empreiteiro pretende exercer a sua actividade.
 
 2. A inscrição a que se refere o número anterior será averbada no alvará e por ela é devida a taxa correspondente à passagem de alvará a que se refere o artigo 34.º
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

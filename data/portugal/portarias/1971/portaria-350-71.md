@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/06/15200/09780980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1971-643686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183e8d2b33854f91f45ea32e23c55344cdb9bc2222870c6d85dea6c458d07e89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 758184b774a1e4846ed723a059ca977110a3d2920e6effd18a471366bd829f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arcos de Valdevez
+- Melgaço
+- Monção
+- Pesca Desportiva
+- Pesca Fluvial
+- Ponte da Barca
+- Ponte de LIMA
+- Proteção dos Animais
+- RIO LIMA
+- VILA Verde
+- ZONA de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:392254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335748:por
+  label: "Suspensa e substituídas temporariamente as suas normas pela PORT.354/75.1975.06.09.SEP-MAP,DG.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1975-335748
+  date: '1975-06-09'
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:392254:por
+  label: "Revogada pela PORT.36/79.1979.01.22.MAP,DG.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1979-392254
+  date: '1979-01-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:48Z'
   warnings: []
   errors: []
 ---
@@ -227,4 +256,4 @@ Penalidades
 
 26. Todo o omisso neste Regulamento reger-se-á pelo estabelecido nos Decretos n.os 44623, de 10 de Outubro de 1962, e 312/70, de 6 de Julho.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas.

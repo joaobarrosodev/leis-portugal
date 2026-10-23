@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2008-456790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f5761bc90a02299ae3678a0c7f99f598fc4d6a14a1cbb469979c1201de55877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b72e48ae1109e997c18b5ac07ddfe8418272cb522982c14d623cf6d9d3da53e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Código da Estrada
-- Especificação Técnica
 - Combustível
+- Equipamento de Veículo
+- Especificação Técnica
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Equipamento de Veículo
-- Regulamento
 - Matrícula
+- Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2006/20/oj
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:22Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +179,9 @@ d) O veículo pode, se necessário para atingir as forças de ensaio exigidas, s
 
 e) No caso de o veículo estar equipado com suspensão hidropneumática, hidráulica ou pneumática ou com um dispositivo de nivelamento automático em função da carga, deve ser ensaiado com a suspensão ou o dispositivo em condições normais de funcionamento, especificadas pelo fabricante.
 
-###### Artigo 26.º-A — Veículos equipados com plataforma elevatória
+Artigo 26.º-A
+
+Veículos equipados com plataforma elevatória
 
 1 - No caso de veículos equipados com uma plataforma elevatória, a instalação do dispositivo de protecção contra o encaixe pode ser interrompida para efeitos de montagem do mecanismo, aplicando-se neste caso, as seguintes disposições:
 
@@ -207,12 +209,12 @@ b) Proíbe a entrada em circulação de um dispositivo de protecção à retagua
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Alberto Bernardes Costa - Ana Paula Mendes Vitorino.
 
-**Promulgado em 11 de Junho de 2008.**
+Promulgado em 11 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Junho de 2008.**
+Referendado em 16 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

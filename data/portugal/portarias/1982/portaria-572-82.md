@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/572-1982-395704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 629152fd83de11850b4a4c6bff405736986c7d8e9936979c7db1f684da3ebb42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c194e8d9ebed6ddf063f8b6a4192ff57ed421a4f876b5490aeec4d0039386e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Estabelecimento de Ensino
+- Instituto Superior de Agronomia
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:19:50Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +119,9 @@ REGULAMENTO DO DEPARTAMENTO DE BOTÂNICA DO INSTITUTO SUPERIOR DE AGRONOMIA, DA 
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Botânica do Instituto Superior de Agronomia, da Universidade Técnica de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino e investigação em botânica, considerada em sentido lato, e, dentro desta área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade,
+Artigo 1.º O Departamento de Botânica do Instituto Superior de Agronomia, da Universidade Técnica de Lisboa, adiante designado por «Departamento», constitui uma unidade orgânica de ensino e investigação em botânica, considerada em sentido lato, e, dentro desta área científica, de apoio ao desenvolvimento tecnológico e de prestação de serviços à comunidade,
 
-###### Art. 2.º Quanto a actividade docente, ao Departamento compete:
+Art. 2.º Quanto a actividade docente, ao Departamento compete:
 
 a) Promover a aquisição e difusão do conhecimento de botânica e a formação de docentes, investigadores e técnicos de nível superior neste âmbito;
 
@@ -127,7 +135,7 @@ e) Elaborar propostas de remodelação dos cursos em que figuram as disciplinas 
 
 f) Garantir a supervisão científica dos estágios de licenciaturas realizados no âmbito geral da botânica.
 
-###### Art. 3.º No que respeita à investigação científica, essencialmente aplicada, compete ao Departamento:
+Art. 3.º No que respeita à investigação científica, essencialmente aplicada, compete ao Departamento:
 
 a) Promover o desenvolvimento do conhecimento nos domínios da botânica, de acordo com os planos e programas de actividade para tal definidos;
 
@@ -137,35 +145,35 @@ c) Elaborar os programas de investigação destinados ao ensino graduado para a 
 
 d) Desenvolver trabalhos de aplicação no âmbito do Departamento, com impacte noutros domínios científicos e tecnológicos, e participar em programas interdisciplinares.
 
-###### Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultadoria no domínio da botânica.
+Art. 4.º - 1 - Quanto às actividades de apoio ao desenvolvimento e de prestação de serviços, o Departamento oferecerá serviços técnicos especializados e de consultadoria no domínio da botânica.
 
 2 - Ao Departamento competirá ainda promover a divulgação do saber na área das suas secções e contribuir para a generalização do seu conhecimento, compreensão e integração na cultura.
 
-###### Art. 5.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou do Instituto.
+Art. 5.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação, apoio ao desenvolvimento e prestação de serviços, podendo estabelecer convénios e contratos de prestação de serviços com entidades públicas ou privadas, cuja celebração proporá à Universidade, sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes desta ou do Instituto.
 
 ### CAPÍTULO II — Secções
 
-###### Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas no Departamento, serão nele criadas secções correspondentes a áreas científicas bem definidas no âmbito da botânica.
+Art. 6.º - 1 - Atendendo à pluralidade das matérias científicas professadas e investigadas no Departamento, serão nele criadas secções correspondentes a áreas científicas bem definidas no âmbito da botânica.
 
 2 - As secções são unidades respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que permitam a prossecução e o desenvolvimento de actividades de ensino, investigação e prestação de serviços.
 
-###### Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 7.º A criação de novas secções ou a dissolução das existentes compete ao conselho do Departamento, sob proposta de, pelo menos, um professor catedrático ou associado e de acordo com as noções consignadas no artigo anterior, devendo essas alterações ser introduzidas no presente Regulamento, nos termos do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
+Art. 8.º A gestão do Departamento é exercida pelos seguintes órgãos:
 
 a) Conselho do Departamento;
 
 b) Comissão executiva.
 
-###### Art. 9.º O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 9.º O conselho do Departamento é constituído por membros permanentes e por membros não permanentes.
 
 1 - São membros permanentes os professores em regime de tempo integral, incluindo os convidados e os investigadores doutorados em áreas científicas representadas no Departamento.
 
 2 - São membros não permanentes os representantes dos docentes e investigadores não doutorados, por cada secção, eleitos para mandatos bienais por e entre todo o pessoal daquelas categorias, sem prejuízo do limite fixado na parte final do n.º 3 do artigo 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
 
-###### Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro do primeiro ano de cada biénio.
+Art. 10.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros 10 dias do mês de Outubro do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho do Departamento ou, na sua falta ou impedimento, o membro permanente mais antigo da categoria mais elevada do Departamento convocará os docentes e investigadores não doutorados e em regime de tempo integral da área departamental para uma sessão especial, a que presidirá.
 
@@ -177,7 +185,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 11.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 11.º - 1 - O conselho do Departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é eleito pelos membros do conselho para mandato bienal.
 
@@ -197,7 +205,7 @@ b) Comissão executiva.
 
 10 - O exercício do cargo de presidente do conselho do Departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 12.º Compete ao conselho do Departamento:
+Art. 12.º Compete ao conselho do Departamento:
 
 a) Elaborar propostas de alteração ao regulamento do Departamento;
 
@@ -223,7 +231,7 @@ l) Aprovar as propostas de estabelecimento de convénios, de acordos e de contra
 
 m) Deliberar sobre matérias cuja competência lhe haja sido delegada pelos órgãos do Instituto ou da Universidade.
 
-###### Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
+Art. 13.º - 1 - A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho do Departamento;
 
@@ -231,7 +239,7 @@ b) 2 docentes ou investigadores do Departamento designados pelo presidente.
 
 2 - A comissão executiva, nas suas actividades de gestão, será coadjuvada por um funcionário do quadro do pessoal do Instituto, que desempenhará as funções de secretário do Departamento.
 
-###### Art. 14.º Compete à comissão executiva:
+Art. 14.º Compete à comissão executiva:
 
 a) Preparar as reuniões do conselho do Departamento e executar as suas deliberações:
 
@@ -241,21 +249,21 @@ c) Preparar convénios, acordos e contratos de prestação de serviços;
 
 d) Zelar pela conservação e manutenção das instalações e outros bens afectos ao Departamento.
 
-###### Art. 15.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
+Art. 15.º O presidente do conselho do Departamento poderá ser dispensado parcialmente do serviço docente durante o seu mandato.
 
 ### CAPÍTULO IV — Gestão financeira
 
-###### Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 16.º - 1 - As disponibilidades orçamentais do Departamento serão as que resultarem do rateamento interno do orçamento próprio, nos termos do n.º 2 do artigo 17.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - Constituirão também receitas do Departamento as provenientes da prestação de serviços, bem como as doações, legados, subsídios e comparticipações concedidas por quaisquer entidades públicas ou privadas, as quais ficarão sujeitas ao regime de gestão previsto nos artigos 18.º e 19.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 ### CAPÍTULO V — Instalações e equipamento
 
-###### Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 1.º grupo (Botânica) do Instituto Superior de Agronomia que estão actualmente afectas ao seu funcionamento.
+Art. 17.º Ao Departamento serão atribuídas todas as instalações e equipamentos pertencentes ao 1.º grupo (Botânica) do Instituto Superior de Agronomia que estão actualmente afectas ao seu funcionamento.
 
 ### CAPÍTULO VI — Disposições transitórias
 
-###### Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
+Art. 18.º - 1 - No prazo de 30 dias após a publicação deste Regulamento, o professor mais antigo da categoria mais elevada promoverá as diligências necessárias à realização dos processos eleitorais nele previstos e regulados.
 
 2 - O primeiro mandato dos membros eleitos em consequência dos processos referidos no número anterior termina no fim do ano lectivo seguinte àquele em que tiver sido realizada a eleição.
 

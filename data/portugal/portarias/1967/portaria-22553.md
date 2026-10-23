@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22553-1967-503785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99abf1f4fd270df05245b97d85d479c554ba07e3780f3b0e411fdbcab3744f1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 903b0da5925daea3e202f01b83223eb24561dc758cfd6269ce493655b310b0b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282553:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:04Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +106,13 @@ I
 
 Dos fins
 
-###### Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos serviços de melhoramento animal, a organização e orientação do livro genealógico português da raça bovina Hergford.
+Artigo 1.º Nos termos da legislação em vigor, compete à Direcção-Geral dos Serviços Pecuários, por intermédio dos serviços de melhoramento animal, a organização e orientação do livro genealógico português da raça bovina Hergford.
 
 § único. Este livro genealógico destina-se exclusivamente à inscrição de animais registados no volume A de qualquer herd-book desta raça acreditado junto do World Hereford Council e seus descendentes nascidos em Portugal, no caso de satisfazerem as condições previstas no presente regulamento.
 
-###### Art. 2.º O livro genealógico tem por fim assegurar a pureza desta raça, concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
+Art. 2.º O livro genealógico tem por fim assegurar a pureza desta raça, concorrer para o seu progresso zootécnico, assim como favorecer a difusão de bons reprodutores.
 
-###### Art. 3.º Para atingir a sua finalidade, o livro promove:
+Art. 3.º Para atingir a sua finalidade, o livro promove:
 
 a) A inscrição dos animais, mencionando para cada um deles:
 
@@ -120,13 +132,13 @@ II
 
 Da organização e funcionamento
 
-###### Art. 4.º A direcção do livro genealógico, nomeada pelo director-geral dos Serviços Pecuários, será constituída por um técnico dos serviços de melhoramento animal, que servirá de presidente, por um secretário técnico - perito na raça - e ainda por um delegado da Corporação da Lavoura de entre os criadores aderentes ao livro.
+Art. 4.º A direcção do livro genealógico, nomeada pelo director-geral dos Serviços Pecuários, será constituída por um técnico dos serviços de melhoramento animal, que servirá de presidente, por um secretário técnico - perito na raça - e ainda por um delegado da Corporação da Lavoura de entre os criadores aderentes ao livro.
 
 § 1.º O tempo de exercício da direcção é de dois anos.
 
 § 2.º Sempre que os trabalhos de direcção exijam deslocações do delegado da Corporação da Lavoura, as despesas a que essas deslocações obrigam poderão ser liquidadas pela Direcção-Geral dos Serviços Pecuários, por conta da verba inscrita na rubrica «Registos genealógicos» do Orçamento Geral do Estado.
 
-###### Art. 5.º A Direcção-Geral dos Serviços Pecuários poderá confiar a uma associação de criadores de bovinos de raça Hereford, integrada na Corporação da Lavoura, a administração do livro genealógico, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral.
+Art. 5.º A Direcção-Geral dos Serviços Pecuários poderá confiar a uma associação de criadores de bovinos de raça Hereford, integrada na Corporação da Lavoura, a administração do livro genealógico, desde que a sua organização e funcionamento venham a reger-se por regulamento aprovado pela mesma Direcção-Geral.
 
 Nestas condições:
 
@@ -136,23 +148,23 @@ Nestas condições:
 
 § único. A actividade do livro ficará sujeita a uma inspecção periódica do inspector-chefe dos serviços de melhoramento animal.
 
-###### Art. 6.º A marca do livro genealógico terá a configuração do escudo nacional, ladeada pelas letras B. H.
+Art. 6.º A marca do livro genealógico terá a configuração do escudo nacional, ladeada pelas letras B. H.
 
 III
 
 Da adesão dos criadores e dos registos da sua marca e do prefixo que entrará na composição do nome dos animais
 
-###### Art. 7.º Os criadores de bovinos de raça Hereford que desejem aderir ao livro genealógico deverão apresentar o respectivo pedido à direcção do mesmo.
+Art. 7.º Os criadores de bovinos de raça Hereford que desejem aderir ao livro genealógico deverão apresentar o respectivo pedido à direcção do mesmo.
 
 § único. A adesão solicitada ficará dependente da aprovação da direcção do livro.
 
-###### Art. 8.º O pedido a que se alude no artigo anterior deverá ser feito em impresso próprio fornecido pela secretaria do livro, no qual o criador referenciará todos os animais da raça Hereford que possua.
+Art. 8.º O pedido a que se alude no artigo anterior deverá ser feito em impresso próprio fornecido pela secretaria do livro, no qual o criador referenciará todos os animais da raça Hereford que possua.
 
 § 1.º Nos casos de animais importados ou seus descendentes nascidos no País e de animais inscritos ou não adquiridos a criadores que hajam aderido ao livro, deverá o pedido ser acompanhado dos certificados a que respectivamente se referem a alínea a) do artigo 17.º, o artigo 31.º e a alínea b) do artigo 24.º
 
 § 2.º O criador deverá comunicar todos os nascimentos ocorridos e provenientes das fêmeas que possuía à data do pedido de adesão no decorrer dos primeiros oito dias de vida, indicando a data de nascimento e os ascendentes directos.
 
-###### Art. 9.º Confirmada a adesão, deverá o criador solicitar o registo:
+Art. 9.º Confirmada a adesão, deverá o criador solicitar o registo:
 
 a) Da marca que pretende utilizar na tatuagem dos seus animais, a qual será obrigatòriamente constituída por letras maiúsculas, nunca por mais de duas; para o efeito deverá fazer acompanhar o pedido de uma reprodução da mesma obtida com o próprio alicate;
 
@@ -164,11 +176,11 @@ IV
 
 Da identificação dos animais
 
-###### Art. 10.º Durante as primeiras 48 horas de vida os animais serão identificados provisòriamente pelo criador por meio de coleira a fornecer pelo livro genealógico.
+Art. 10.º Durante as primeiras 48 horas de vida os animais serão identificados provisòriamente pelo criador por meio de coleira a fornecer pelo livro genealógico.
 
 § único. O número inscrito nessa coleira será o indicado na declaração de nascimento a que se refere o artigo 16.º
 
-###### Art. 11.º O nome dos animais deve ser mencionado também na declaração de nascimento e não poderá ser formado por mais de três palavras, incluindo as da denominação a que se refere a alínea b) do artigo 9.º; quando esta for constituída apenas por uma palavra, o nome do animal não deverá exceder duas.
+Art. 11.º O nome dos animais deve ser mencionado também na declaração de nascimento e não poderá ser formado por mais de três palavras, incluindo as da denominação a que se refere a alínea b) do artigo 9.º; quando esta for constituída apenas por uma palavra, o nome do animal não deverá exceder duas.
 
 Exemplo:
 
@@ -180,7 +192,7 @@ Alter Bonito, para um animal proveniente da Estação de Fomento Pecuário do Al
 
 Exemplo: Fonte Boa Galhardo 4.º
 
-###### Art. 12.º O livro genealógico promoverá a identificação definitiva, por tatuagem, na orelha direita, com a marca do criador, seguida da letra indicativa do ano do nascimento e o número de série.
+Art. 12.º O livro genealógico promoverá a identificação definitiva, por tatuagem, na orelha direita, com a marca do criador, seguida da letra indicativa do ano do nascimento e o número de série.
 
 § 1.º A letra correspondente ao ano de nascimento será determinada pela secretaria e mudará no dia 1 de Janeiro de cada ano.
 
@@ -188,7 +200,7 @@ Exemplo: Fonte Boa Galhardo 4.º
 
 § 3.º Nos animais importados manter-se-á a identificação do herd-book do país de origem.
 
-###### Art. 13.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado da secretaria do livro.
+Art. 13.º Qualquer remarcação que se torne necessária só poderá efectuar-se na presença de um delegado da secretaria do livro.
 
 § único. No caso de animais adquiridos deficientemente tatuados, as marcas e números a utilizar corresponderão às explorações onde os animais nasceram.
 
@@ -196,15 +208,15 @@ V
 
 Da inscrição de animais
 
-###### Art. 14.º O livro genealógico consta essencialmente de: livro de nascimentos, livro de adultos e livro de mérito.
+Art. 14.º O livro genealógico consta essencialmente de: livro de nascimentos, livro de adultos e livro de mérito.
 
-###### Art. 15.º O livro de nascimentos é reservado exclusivamente aos descendentes dos reprodutores inscritos no livro de adultos.
+Art. 15.º O livro de nascimentos é reservado exclusivamente aos descendentes dos reprodutores inscritos no livro de adultos.
 
-###### Art. 16.º A inscrição neste livro será solicitada pelos criadores e efectuada pela secretaria em face das declarações de nascimento, que serão consideradas para o efeito da alínea a), n.º 1, do artigo 50.º do regulamento aprovado pelo [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, como pedidos de inscrição.
+Art. 16.º A inscrição neste livro será solicitada pelos criadores e efectuada pela secretaria em face das declarações de nascimento, que serão consideradas para o efeito da alínea a), n.º 1, do artigo 50.º do regulamento aprovado pelo [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957, como pedidos de inscrição.
 
 § único. Os animais que apresentem taras ou defeitos somáticos que constituam desde logo impedimento decisivo de inscrição no livro de adultos não deverão ser inscritos no livro de nascimentos.
 
-###### Art. 17.º A inscrição no livro de adultos é efectuada pela secretaria do livro genealógico, sendo admitidos:
+Art. 17.º A inscrição no livro de adultos é efectuada pela secretaria do livro genealógico, sendo admitidos:
 
 a) Os animais importados em relação aos quais se faça prova de que estão inscritos em qualquer dos herd-books referidos no § único do artigo 1.º;
 
@@ -216,7 +228,7 @@ b) Os animais inscritos no livro de nascimentos que preencham as condições seg
 
 3) Identificarem-se com as características do padrão da raça e não apresentarem taras ou defeitos somáticos cuja transmissibidade seja conhecida ou de recear.
 
-###### Art. 18.º No livro de mérito serão admitidos:
+Art. 18.º No livro de mérito serão admitidos:
 
 a) As fêmeas inscritas no livro de adultos quando de progenitores diferentes tiverem três descendentes directos inscritos neste último livro com a classificação mínima de 80 pontos;
 
@@ -224,9 +236,9 @@ b) Os machos igualmente inscritos no livro de adultos quando de, pelo menos, sei
 
 § único. Para esta admissão a direcção do livro poderá estabelecer ainda a necessidade de realização de contrastes funcionais da descendência em condições a fixar pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 19.º Qualquer animal mocho ou com chifres rudimentares, embora nascido de pais armados e como tal inscritos no livro de adultos deste livro genealógico, não pode nele ser admitido.
+Art. 19.º Qualquer animal mocho ou com chifres rudimentares, embora nascido de pais armados e como tal inscritos no livro de adultos deste livro genealógico, não pode nele ser admitido.
 
-###### Art. 20.º Pela inscrição de cada animal serão cobradas as seguintes taxas:
+Art. 20.º Pela inscrição de cada animal serão cobradas as seguintes taxas:
 
 a) No livro de adultos ... 50$00
 
@@ -236,7 +248,7 @@ VI
 
 Do exame dos animais
 
-###### Art. 21.º O exame será efectuado por uma comissão de admissão constituída por três membros:
+Art. 21.º O exame será efectuado por uma comissão de admissão constituída por três membros:
 
 a) O secretário técnico, que servirá de presidente;
 
@@ -246,13 +258,13 @@ c) Um representante dos criadores, designado pela direcção do livro.
 
 § único. As despesas relativas às ajudas de custo e transportes dos representantes dos criadores poderão ser liquidadas pela Direcção-Geral dos Serviços Pecuários por conta da verba inscrita no Orçamento Geral do Estado na rubrica «Registos genealógicos».
 
-###### Art. 22.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este regulamento.
+Art. 22.º A classificação dos animais far-se-á pelo método dos pontos, segundo a tabela anexa a este regulamento.
 
 § 1.º Embora sem efeitos para admissão, os animais importados deverão ser pontuados no acto do exame.
 
 § 2.º Quando os animais não se encontrem em perfeito estado de saúde e apresentação, o seu exame poderá ser adiado.
 
-###### Art. 23.º Imediatamente após o exame, o secretário técnico fará apor na orelha esquerda dos animais aprovados a marca do livro genealógico; oportunamente, serão entregues ao proprietário nota do resultado desse exame e o boletim de inscrição, este último no caso de os animais serem admitidos.
+Art. 23.º Imediatamente após o exame, o secretário técnico fará apor na orelha esquerda dos animais aprovados a marca do livro genealógico; oportunamente, serão entregues ao proprietário nota do resultado desse exame e o boletim de inscrição, este último no caso de os animais serem admitidos.
 
 § único. Nos animais importados não se aplicará a marca deste livro.
 
@@ -260,7 +272,7 @@ VII
 
 Da passagem de certificados e exportação de animais
 
-###### Art. 24.º O livro passará certificados relativos à inscrição de animais e transferência de posse mediante o pagamento das seguintes taxas:
+Art. 24.º O livro passará certificados relativos à inscrição de animais e transferência de posse mediante o pagamento das seguintes taxas:
 
 a) De inscrição:
 
@@ -272,7 +284,7 @@ b) De transferência ... 50$00
 
 § único. Igualmente poderão ser passados certificados relativos a elementos de ordem funcional e prémios obtidos mediante o pagamento da taxa de 50$00.
 
-###### Art. 25.º Não é permitida a exportação de animais com a designação de pertencerem à raça bovina Hereford sem que estejam inscritos no respectivo livro genealógico.
+Art. 25.º Não é permitida a exportação de animais com a designação de pertencerem à raça bovina Hereford sem que estejam inscritos no respectivo livro genealógico.
 
 Assim, a Direcção-Geral dos Serviços Pecuários exigirá, ao emitir o certificado de origem e sanidade, a apresentação, por cada animal, do certificado de inscrição.
 
@@ -290,7 +302,7 @@ VIII
 
 Das obrigações e regalias dos criadores
 
-###### Art. 26.º Ao aderir a este livro os criadores obrigam-se a:
+Art. 26.º Ao aderir a este livro os criadores obrigam-se a:
 
 a) Apresentar os seus animais nos locais, dias e horas indicados pela secretaria do livro genealógico;
 
@@ -314,11 +326,11 @@ h) Remeter à secretaria do livro genealógico:
 
 3) No prazo de 30 dias, a partir da ocorrência, nota das modificações do efectivo de animais inscritos; baixas por morte, castração ou alienação; aumentos por aquisição, dádiva, empréstimo ou qualquer outro motivo. Em caso de venda para reprodução, deve mencionar-se o nome e morada do comprador.
 
-###### Art. 27.º No beneficiamento de fêmeas inscritas só podem ser utilizados touros igualmente inscritos no livro genealógico português da raça bovina Hereford ou nos herd-books referidos no § único do artigo 1.º
+Art. 27.º No beneficiamento de fêmeas inscritas só podem ser utilizados touros igualmente inscritos no livro genealógico português da raça bovina Hereford ou nos herd-books referidos no § único do artigo 1.º
 
 § único. Qualquer procedimento diverso deverá ser encarado a título puramente excepcional e carece de prévia autorização da direcção do livro.
 
-###### Art. 28.º Os criadores que aderirem ao livro genealógico poderão beneficiar:
+Art. 28.º Os criadores que aderirem ao livro genealógico poderão beneficiar:
 
 a) De acordos estabelecidos pelo livro no sentido de valorizar e facilitar a comercialização dos animais nele inscritos;
 
@@ -328,19 +340,19 @@ IX
 
 Das penalidades
 
-###### Art. 29.º As infracções ao preceituado neste regulamento serão punidas de acordo com o disposto no n.º 1.º do artigo 60.º e no artigo 62.º do regulamento aprovado pelo [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957.
+Art. 29.º As infracções ao preceituado neste regulamento serão punidas de acordo com o disposto no n.º 1.º do artigo 60.º e no artigo 62.º do regulamento aprovado pelo [Decreto n.º 41109](https://diariodarepublica.pt/dr/detalhe/decreto/41109-1957-282553), de 14 de Maio de 1957.
 
 X
 
 Disposições gerais e transitórias
 
-###### Art. 30.º Todas as taxas mencionadas neste regulamento são cobradas por força do artigo 14.º do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954, e têm a aplicação consignada no artigo 18.º do mesmo decreto-lei.
+Art. 30.º Todas as taxas mencionadas neste regulamento são cobradas por força do artigo 14.º do [Decreto-Lei n.º 39561](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39561-1954-217154), de 13 de Março de 1954, e têm a aplicação consignada no artigo 18.º do mesmo decreto-lei.
 
-###### Art. 31.º No decorrer de um ano, a partir da data da publicação deste regulamento, os animais nascidos em Portugal e descendentes em linha pura de animais importados e inscritos no volume A de qualquer herd-book acreditado junto do World Hereford Council podem ser inscritos neste livro.
+Art. 31.º No decorrer de um ano, a partir da data da publicação deste regulamento, os animais nascidos em Portugal e descendentes em linha pura de animais importados e inscritos no volume A de qualquer herd-book acreditado junto do World Hereford Council podem ser inscritos neste livro.
 
 Para tal, tornar-se-á necessário que o criador interessado o requeira ao presidente deste livro e faça prova, através dos serviços da Direcção-Geral dos Serviços Pecuários, da ascendência dos animais que deseja inscrever, os quais deverão naturalmente preencher os requisitos exigidos no artigo 17.º
 
-###### Art. 32.º O presente regulamento entra em funcionamento, a título provisório, pelo prazo de dois anos, a partir da data da sua publicação no Diário do Governo.
+Art. 32.º O presente regulamento entra em funcionamento, a título provisório, pelo prazo de dois anos, a partir da data da sua publicação no Diário do Governo.
 
 Secretaria do Estado da Agricultura, 4 de Março de 1967. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.
 

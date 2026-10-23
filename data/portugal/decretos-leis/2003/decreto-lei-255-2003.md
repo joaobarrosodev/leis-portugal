@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/255/2003/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2003-476759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2281c5f058da760cb0923114379e217a1da7f31fd078f744dacb1d6d0be5f1aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3149ecaef12f930248ccf012ee71a188fdb1533e21d307a06d2ed7e65dcb995
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuste Direto
-- Financiamento
-- Modernização Administrativa
-- Despesas Públicas
 - Administração Pública
+- Ajuste Direto
+- Concurso por Negociação
+- Despesas Públicas
+- Financiamento
+- Governo Electrónico
 - Informática
+- Locação Financeira
+- Modernização Administrativa
+- Programa de Acção
 - Programa Nacional de Compras Electrónicas
 - Sociedade da Informação
-- Locação Financeira
-- Concurso por Negociação
-- Programa de Acção
-- Governo Electrónico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2003/08/12/p/dre
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660951:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:55Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +141,12 @@ As despesas com a aquisição ou locação, sob qualquer regime, instalação e 
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte.
 
-**Promulgado em 6 de Outubro de 2003.**
+Promulgado em 6 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 2003.**
+Referendado em 10 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

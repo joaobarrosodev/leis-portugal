@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1998, 1º Suplemento, Série I-B de 1998-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7384-(5) a 7384-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/301b01/00050006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/30-c/1998/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-c-1998-265708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3922cfee27243c1c8040b514cde727db6df847d319548aaeb02536d93daaa56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5d285a0389abfee863a851bfbc8981b525f947a6cca5537e986db641a92715b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Tempo de Serviço
-- Aposentação
-- Ministério do Trabalho e da Solidariedade
-- Concurso
 - Administração Pública
-- Sistema Retributivo
+- Aposentação
 - Carreira Profissional
+- Concurso
+- Função Pública
+- Funcionário Público
 - Integração de Trabalhadores
+- Ministério do Trabalho e da Solidariedade
+- Mobilidade de Pessoal
 - Pessoal Auxiliar
 - Promoção Profissional
 - Reestruturação de Carreiras
 - Remuneração
-- Mobilidade de Pessoal
-- Funcionário Público
+- Sistema Retributivo
 - Tabela Salarial
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as categorias de encarregado operacional e assistente operacional, nos termos dos arts.\
+    \ 6º e 7º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente diploma, extintas\
+    \ a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado, a partir da mesma\
+    \ data, com excepção das disposições relativas às categorias subsistentes, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS\
+    \ [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:33Z'
   warnings: []
   errors: []
 ---
@@ -150,15 +171,15 @@ Presidência do Conselho de Ministros, 10 de Dezembro de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Dezembro de 1998.**
+Promulgado em 29 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Carreiras de pessoal auxiliar dos serviços e estabelecimentos da segurança social
 

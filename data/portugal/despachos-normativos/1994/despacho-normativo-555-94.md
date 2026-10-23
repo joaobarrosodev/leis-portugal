@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/555/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a9211e03ac72caa5ee0c6eb2b7e250cfeb03806f596e9c657dbdbe5899de56b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38371c8c49cbef49b5b4234d62cde5c003e4ad689dcf676ae9342824f93a5869
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio ao Investimento
-- Projeto de Investimento
 - Indústria
 - Ministério da Indústria e Energia
+- Projeto de Investimento
 - Sinfrapedip
 relationships:
 - type: amended_by
   target: pt:dre:471158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PEL DECL-RECT 149/94 DE 14-SET DR.IS-B [227]3 SUPL DE 30/SET/1994.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DO ART 3 PELO DN 16/95 DE 24-FEV DR.IS-B [73] DE 27/MAR/1995.\0 27/MAR/1995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-27'
+- type: amended_by
+  target: pt:dre:472168:por
+  label: "Alterado a redacção do art. 3º pelo DN.40/98.1998.05.12.MECO, DR.IS-B [133] de 09/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/40-1998-472168
+  date: '1998-05-12'
 - type: cites
   target: celex:31994D0170
   label: null
@@ -82,13 +97,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:38Z'
   warnings: []
   errors: []
 ---

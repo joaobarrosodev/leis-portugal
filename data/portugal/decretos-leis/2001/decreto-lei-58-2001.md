@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2001/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2001-319736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12eee455270e38c8655a7dbb580aabf4604d32e20b8989de221fa7c8a05e2393
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe5c812257752aa8423d6c4a428799047fadce557c132cbc53a854b3ba13adc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
 - Combustível
 - Imposto Especial sobre o Consumo
+- Imposto sobre Produtos Petrolíferos
 - Isenção Fiscal
 - Proteção do Ambiente
 relationships:
@@ -76,6 +76,66 @@ relationships:
   target: pt:dre:335474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 73º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez, na redacção\
+    \ do presente diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:425886:por
+  label: "Alterado o art. 73º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez, na redacção\
+    \ do presente diploma pelo DEC LEI.223/2002.30.10.2002.MF, DR.IS-A [251] de 30.10.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-2002-425886
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 71.º Código dos Impostos Especiais de Consumo aprovado pelo Dec Lei 566/99, de 22-Dez, na redacção\
+    \ da Lei 3-B/2000, de 04-Abr e do presente diploma, pela LEI.32-B/2002.2002.12.30.AR DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterados os arts. 71.º e 73.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 71.º e 73.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 73º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez, com a redacção\
+    \ constante do presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 71º e 73º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os arts. 71º e 73º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99, de 22-Dez,\
+    \ na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 73.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez, na redacção\
+    \ do presente diploma, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 73.º do Código dos Impostos Especiais de Consumo, aprovado pelo Dec Lei 566/99 de 22-Dez, na redacção\
+    \ do presente diploma, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
   label: null
@@ -84,16 +144,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3-b/2000/04/04/p/dre
+- type: cites
+  target: pt:dre:662084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335474:por
+  label: "Revogado, a partir de 21.07.2010, e com excepção dos arts 32.º a 36.º do Código dos Impostos Especiais de Consumo,\
+    \ os quais se mantêm em vigor até 31.12.2010, o Dec Lei 566/99, de 22-Dez, na redacção do presente diploma, pelo DEC LEI.73/2010.21.06.2010.MFAP,\
+    \ DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2010-335474
+  date: '2010-06-21'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:46Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +223,9 @@ j) Sejam produzidos e consumidos no âmbito de projectos piloto de desenvolvimen
 
 5 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -170,12 +247,12 @@ j) Sejam produzidos e consumidos no âmbito de projectos piloto de desenvolvimen
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 31 de Janeiro de 2001.**
+Promulgado em 31 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2001.**
+Referendado em 7 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

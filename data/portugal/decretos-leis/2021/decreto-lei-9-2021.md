@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/02000/0000400206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 513f53e430f837d014dcdfcb0066b8cd8dd63ca12b2b79db81541b2722469d02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aedd555379feb07ef27031232f6c90d21670de06dd1c36f6a6994695750eeaa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,508 +65,508 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria de Carnes
-- Matadouro
+- Abastecimento de Água
+- Abate de Animais
 - Abate de Árvores
-- Deficiente
+- AÇO
+- Açores
 - Acreditação
-- Atividade Industrial
-- Atividade Seguradora
+- Actividade Marítimo-Turística
 - ACTO Extrajudicial
-- Produto Alimentar
+- Açúcar
+- Aditivo Alimentar
 - Aerosol
 - Agência de Turismo
-- Produto Químico
-- PSP
-- Efeito de Estufa
+- Agrupamento de Produtores
 - Água
 - Água Mineral
 - Aguardente
+- Aldeamento Turístico
+- Alimentação
+- Alimentação Humana
+- Alimento Industrial
+- Alimento para Animais
 - Alimento para Crianças
 - Alvará
 - Análise Laboratorial
+- Animação turística
 - Animal de Exploração
 - Animal Doméstico
 - Animal Perigoso
-- Produção Animal
-- GADO
-- Equipamento de Elevação
+- Aparelho de Medição
 - Apartamento Turístico
-- Contrato de Seguro
+- Apicultura
+- Aquicultura
 - Aquisição de Bens e Serviços
 - Arbitragem
+- ÁREA de Serviço
+- Arguido
 - Armazenagem
-- Embarcação
+- Arroz
+- Artesanato
 - Artesão
-- Equipamento Desportivo
-- Indústria Electrotécnica
 - Árvore
-- Agrupamento de Produtores
-- Telefone
-- Livro de Reclamações
+- ASAE
+- Atendimento Público
+- Atividade Bancária
+- Atividade Industrial
+- Atividade Seguradora
 - Autoridade de Segurança Alimentar e Económica
-- Incêndio
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Autoridade Regional das Atividades Económicas
 - Autoridade Sanitária
 - Autoridade Tributária e Aduaneira
 - Autorização Legislativa
-- Certificado de Aptidão Profissional
-- Garantia
+- Ave de Capoeira
 - Avicultura
+- Azeite
 - Azeitona
 - Bacalhau
-- Instituição de Crédito
+- Banco de Portugal
 - Bandeira
 - Batata
 - Bebida Alcoólica
 - Bebida não Alcoólica
 - BENS Abandonados a Favor do Estado
 - BENS de Consumo
-- Espetáculos e Divertimentos Públicos
-- Jogos de Fortuna e Azar
-- Indústria Farmacêutica
+- Branqueamento de Capitais
 - Branqueamento de Vantagens
-- Publicidade
-- Solario
-- Doença Animal
-- Modernização Administrativa
+- Brinde Publicitário
+- Bronzeamento Artificial
 - Cacau
+- CALL Center
 - Campo de Férias
-- Produto Mineiro
-- SELO de Garantia
+- CÃO
 - Carcaça
 - Carne
-- Produto Cárneo
 - Carne de AVES de Capoeira
 - Carne de Caprino
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
-- Moeda Eletrónica
-- Estabelecimento de Jogos
 - Catálogo Nacional de Variedades
 - CE Países
-- Tráfico de Estupefacientes
-- Turismo
-- Azeite
-- Qualidade do AR
+- Certificação Ambiental
 - Certificação Profissional
+- Certificado de Aptidão Profissional
 - Certificado de Conformidade
 - Certificado de Origem
+- Certificado de Qualidade
 - Certificado Fitossanitário
+- Circulação de Mercadorias
 - Classificação de Arroz
-- Engenharia Genética
-- Matéria Plástica
-- Energia Elétrica
+- Climatização
+- Clonagem
+- CMVM
 - Código da Estrada
 - Código da Propriedade Industrial
 - Código do Direito de Autor e dos Direitos Conexos
-- Silvicultura
-- Multa
-- Estabelecimento Comercial
+- Combate à Droga
+- Combate ao Crime
 - Combate ao Terrorismo
+- Combustível
+- Comércio
 - Comércio a Retalho
+- Comércio Eletrónico
 - Comércio Internacional
-- Metrologia
-- Vinho
-- Organismo Geneticamente Modificado
-- Produto Biocida
-- Inspecção Geral das Actividades Culturais
-- Construção Civil
-- Infarmed
-- Leite
-- Proteção dos Animais
-- ÓLEO Vegetal
-- Indicação Geográfica
-- Denominação de Origem
-- Transporte Aéreo
-- Terceira Idade
-- Radiocomunicações
+- Companhia de Seguros
+- Comunicações
 - Comunicações Eletrónicas
-- Urbanização
+- Concorrência
+- Condições de Higiene e Segurança no Trabalho
 - Conflito de Consumo
-- Doença Vegetal
+- Conjunto Turístico
+- Construção Civil
 - Consumidor
 - Consumo
 - Consumo de Energia
+- Contrafacção
 - Contra-ordenação
+- Contraordenação Económica
 - Contrastaria
+- Contratação Eletrónica
+- Contratação Pública
 - Contrato de Compra e Venda
 - Contrato de Mútuo
+- Contrato de Seguro
 - Controlo de Qualidade
-- Fundo Sanitário e de Segurança Alimentar mais
+- Controlo Metrológico
+- Controlo Sanitário
 - Convenção
-- Transporte Ferroviário
-- Língua Portuguesa
-- Arguido
-- Combate ao Crime
+- Deficiente
 - Definição de Competências
-- Marca
-- Região Demarcada
+- Denominação de Origem
 - Desporto Amador
-- Turismo de Natureza
 - Detergente
-- Regulamentação de Atos Legislativos
 - Direção Geral de Alimentação e Veterinária
-- Direcção Geral do Consumidor
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Direção Geral do Tesouro e Finanças
+- Direcção Geral do Consumidor
+- Direito de Estabelecimento
 - Direito de Habitação Periódica
 - Direito de Regresso
-- Concorrência
+- Direitos do Utente
 - Diretor Técnico
-- Local de Divertimento
-- Artesanato
-- Controlo Sanitário
-- Nemátodo
-- Combate à Droga
-- Prevenção contra o Consumo de Droga
+- Documento Eletrónico
+- Doença
+- Doença Animal
+- Doença do Legionário
+- Doença Infecciosa
+- Doença Vegetal
+- Droga
 - EEE
-- Climatização
+- Efeito de Estufa
+- Eficiência Energética
+- Elevador
+- Eliminação de Resíduos
+- Embalagem
+- Embarcação
 - Embarcação de Recreio
 - Embargo
 - Empresa de Segurança
 - Empréstimo
 - Empréstimo sobre Penhor
+- Energia
+- Energia Elétrica
 - Energia Térmica
-- Clonagem
+- Engenharia Genética
+- Ensino Básico
+- Ensino Secundário
+- Equipamento Agrícola
+- Equipamento de Elevação
+- Equipamento de Proteção
 - Equipamento de Trabalho
+- Equipamento de Transmissão
+- Equipamento de Veículo
+- Equipamento Desportivo
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Material de Ensino
+- Equipamento Industrial
 - Equipamento Marítimo
-- Regulamento de Instalação Funcionamento Reparação e Alteração de Equipamentos sob Pressão
+- Equipamento sob Pressão
 - Equipamento Térmico
-- Saúde Pública
-- CÃO
 - Especificação Técnica
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
+- Estabelecimento de Jogos
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
 - Estabelecimento Industrial
-- Arroz
-- Instalações Radioelétricas
 - Estanho
 - Estratégia Nacional para a Energia
-- Segurança no Trabalho
-- Recursos Minerais
-- Combustível
 - Etiquetagem
 - Exploração Pecuária
 - Fabrico Industrial
 - Falsificação
-- Moeda Falsa
 - Federação Desportiva
 - Feira
+- Fertilizante
 - Fiscalização
 - Fiscalização Económica
 - Fixação de Preços
-- Medicamento
 - Forragem
-- Alimento Industrial
 - Fraude
+- Fruticultura
 - Fruto
-- Banco de Portugal
-- Indústria Têxtil
+- Fundo Sanitário e de Segurança Alimentar mais
 - Funeral Social
-- Instituto Português da Juventude
-- Carne de Ovino
+- GADO
 - Gado Suíno
-- Branqueamento de Capitais
-- Ave de Capoeira
+- Garantia
 - Gás
 - Gasolina
-- Incineração de Resíduos
-- Pagamento
-- Contrafacção
-- Infracção Antieconómica
+- GNR
+- Habitação
 - Higiene Alimentar
 - Homologação
 - Horário de Funcionamento
+- Horário de Trabalho
+- Hotel Rural
 - Ilícito de MERA Ordenação Social
 - Importação
+- Incêndio
+- Incineração de Resíduos
+- Indicação Geográfica
 - Indústria
+- Indústria Alimentar
 - Indústria da Construção
+- Indústria da Madeira
 - Indústria da Panificação
 - Indústria de Bordados
 - Indústria de Brinquedos
-- Abate de Animais
+- Indústria de Carnes
 - Indústria de Conservas
+- Indústria de Ourivesaria e Relojoaria
 - Indústria de Plásticos
 - Indústria do Calçado
+- Indústria Electrotécnica
+- Indústria Farmacêutica
 - Indústria Mineira
+- Indústria Têxtil
+- Indústria Transformadora
 - Indústria Vidreira
+- Infarmed
+- Informação do Consumidor
+- Informação Nutricional
 - Informação Turística
-- Instituto Nacional da Propriedade Industrial
-- Transporte de Resíduos
-- Simbolo de Identificação
-- Inspecção Geral da Educação
+- Infracção Antieconómica
+- Infraestrutura Turística
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Atividade Bancária
+- Inspecção Geral da Educação
+- Inspecção Geral das Actividades Culturais
+- Instalações Radioelétricas
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto da Vinha e do Vinho
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Instituto Nacional da Propriedade Industrial
+- Instituto Português da Juventude
+- Instituto Português da Qualidade
 - Instituto Português do Desporto e Juventude
 - Instruções de Utilização
-- Aparelho de Medição
-- Ensino Secundário
+- Irradiação dos Alimentos
+- Joalharia e Ourivesaria
+- Jogos de Fortuna e Azar
 - JURO de MORA
 - Juros
-- ASAE
-- Patente
-- Propriedade Industrial
-- Venda em Hasta Pública
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
-- Licenciamento
-- Veículo
+- Leite
 - Licença Municipal
+- Licenciamento
+- Língua Portuguesa
+- Livre Prestação de Serviços
+- Livro de Reclamações
 - Locação Financeira
+- Local de Divertimento
 - Lota
 - Lotação
+- Madeira.região Autónoma
 - Manual Escolar
 - Máquina-Ferramenta
-- Certificado de Qualidade
+- Marca
 - Marca Registada
-- Região do Vidro da Marinha Grande
-- Matéria-Prima
-- Documento Eletrónico
-- Embalagem
+- Marinha Grande
+- Matadouro
+- Matéria Plástica
+- Material de Construção
+- Material de Ensino
 - Material Eléctrico e Electrónico
-- Serviço de Mediação
+- Material Médico-Cirúrgico
+- Matéria-Prima
+- Matrícula
+- Mediador
+- Medicamento
+- Medicamento Veterinário
 - Medicina Veterinária
 - Medronho
 - Meios Complementares de Diagnóstico
 - MEL
 - Menoridade
 - Mercado Abastecedor
-- Resíduo
 - Mercado Financeiro
 - Mercado Interno
 - Mercado Municipal
+- Mercadoria
 - Mercúrio
 - Metal Precioso
-- GNR
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Instituto Português da Qualidade
-- Segurança Rodoviária
-- Programa Simplex
+- Metrologia
+- Modernização Administrativa
 - Moeda
+- Moeda Eletrónica
+- Moeda Falsa
 - Monitor
 - Moradia Turística
-- Aldeamento Turístico
+- Motor
 - Movimento Transfronteiriço de Resíduos
-- Droga
-- Sistema Metrico
+- Multa
+- Navegação de Recreio
+- Nemátodo
+- Normalização
 - Normas de Segurança
-- Aquicultura
 - ÓLEO Usado
-- Circulação de Mercadorias
+- ÓLEO Vegetal
 - Operador de Trabalho Aéreo
 - Operador Económico
 - Operador Turístico
-- Alimentação Humana
-- Tabaco
-- Açúcar
+- Organismo Geneticamente Modificado
 - Organização Terrorista
-- Terrorismo
 - Ozono
+- Pagamento
 - Parque de Campismo
 - Parque de Diversões
-- Proteção do Ambiente
+- Patente
 - Património Genético Vegetal
+- Pecuária
 - Pedra Preciosa
 - Pedreiras
 - Peixe
-- Pescado
 - Peixe Congelado
-- Actividade Marítimo-Turística
+- Pescado
+- Pessoal de Vigilância
+- Pesticida
+- Pinheiro
 - Pirotecnia
-- Transporte de Mercadorias
-- Doença Infecciosa
-- Proteção ao Deficiente
-- Fertilizante
-- Tratamento de Resíduos
-- Equipamento de Veículo
+- Plataforma Eletrónica
+- Poluição
 - Poluição da água
 - Poluição Industrial
 - Poluição Marinha
 - Poluição pelos Navios
+- Poluição Sonora
 - Pornografia
-- Informação do Consumidor
-- ÁREA de Serviço
-- Energia
 - Prazo
 - Prazo de Garantia
 - Preço
 - Preço de Campanha
 - Preço de Venda
 - Preço Máximo
-- Serviço Público
 - Prestação de Serviços
 - Prestamista
+- Prevenção contra o Consumo de Droga
+- Produção Agrícola
+- Produção Animal
 - Produção Leiteira
+- Produção Vegetal
+- Produto Agrícola
 - Produto Agro-alimentar
-- Aditivo Alimentar
-- Alimentação
-- Informação Nutricional
-- Irradiação dos Alimentos
-- Suplemento Alimentar
+- Produto Alimentar
+- Produto Animal
+- Produto Biocida
+- Produto Cárneo
 - Produto Congelado
 - Produto de Limpeza
 - Produto Defeituoso
 - Produto Dietetico
+- Produto em Madeira
 - Produto Farmacêutico
+- Produto Fitofarmacêutico
 - Produto Hortícola
+- Produto Mineiro
 - Produto Proteico
+- Produto Químico
 - Produto Têxtil
 - Produto Veterinário
+- Produto Vitivinícola
 - Produtor
 - Produtos de Pesca
-- Apicultura
-- Pinheiro
-- Proteção Fitossanitária
-- Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
+- Programa Simplex
 - Promoção de Produtos
+- Propriedade Industrial
+- Proteção ao Deficiente
+- Proteção do Ambiente
 - Proteção do Consumidor
+- Proteção dos Animais
+- Proteção Fitossanitária
+- PSP
 - Publicação
-- Brinde Publicitário
+- Publicidade
 - Qualidade do Ambiente
+- Qualidade do AR
 - Qualidade do Produto
-- Alimento para Animais
+- Qualificação Profissional
+- Queijo
+- Radiocomunicações
 - Receita
-- Receita Própria
 - Receita Médica
+- Receita Própria
 - Reclamação
 - Recomendação CE
-- Produção Agrícola
 - Recursos Genéticos
-- Comunicações
+- Recursos Minerais
 - Reembolso
-- Queijo
-- Marinha Grande
+- Região Demarcada
+- Região do Vidro da Marinha Grande
 - Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
-- Horário de Trabalho
+- Regime Jurídico das Contraordenações Económicas
 - Registo de Animais
-- Poluição
-- Produção Vegetal
 - Registo Obrigatório
-- Equipamento Agrícola
-- Habitação
-- Pesticida
-- Produto Fitofarmacêutico
-- Fruticultura
-- Pecuária
-- Equipamento Industrial
-- Controlo Metrológico
-- AÇO
-- Indústria Transformadora
-- Equipamento sob Pressão
-- Pessoal de Vigilância
-- Indústria de Ourivesaria e Relojoaria
-- Joalharia e Ourivesaria
-- Indústria Alimentar
-- Indústria da Madeira
-- Produto em Madeira
-- Material de Construção
-- Navegação de Recreio
-- Poluição Sonora
-- Motor
+- Regulamentação de Atos Legislativos
+- Regulamento de Instalação Funcionamento Reparação e Alteração de Equipamentos sob Pressão
+- Regulamento do Numero e Chapa de Matricula dos Automóveis seus Reboques Motociclos Triciclos e Quadriciclos de Cilindrada
+  Superior a 50 Centimetros Cubicos
+- Resíduo
 - Resíduo Industrial
-- Conjunto Turístico
 - Responsabilidade Civil
 - Responsabilidade Criminal
 - Responsabilidade Financeira
 - Responsabilidade por Factos Ilícitos
 - Responsavel Técnico
-- Material Médico-Cirúrgico
-- Saldos
 - SAL
+- Saldos
 - Sanção
 - Sanção Económica
-- Doença
-- Companhia de Seguros
+- Saúde Animal
+- Saúde Pública
 - Segurança das Instalações
 - Segurança dos Edifícios
-- Sistema de Videovigilância
+- Segurança no Trabalho
+- Segurança Privada
+- Segurança Rodoviária
 - Seguro Desportivo
 - Seguro Obrigatório de Responsabilidade Civil
+- SELO de Garantia
 - Semente
-- Mediador
-- Direitos do Utente
-- Açores
-- Comércio Eletrónico
-- CMVM
-- Eliminação de Resíduos
-- Instituição Financeira
-- Mercadoria
-- Segurança Privada
-- Abastecimento de Água
-- Eficiência Energética
-- Medicamento Veterinário
-- Contratação Eletrónica
-- Bronzeamento Artificial
+- Serviço de Mediação
+- Serviço Público
+- Silvicultura
+- Simbolo de Identificação
+- Sistema da Indústria Responsável
+- Sistema de Videovigilância
+- Sistema Metrico
+- Solario
 - Substância Estupefaciente ou Psicotrópica
 - Substância Perigosa
 - Substância Perigosa e Explosiva
 - Suinicultura
+- Suplemento Alimentar
+- Tabaco
 - Tabagismo
-- Elevador
 - Tarifa Aérea
 - Taxa
 - Taxa Aeroportuária
 - TAXA de Prestação de Serviços
 - Taxa de Segurança Alimentar mais
-- Comércio
-- Produto Agrícola
-- Produto Animal
 - Taximetro
-- Atendimento Público
-- CALL Center
-- Equipamento de Transmissão
+- Telefone
 - Televisão por CABO
 - TEOR Álcoolico
+- Terceira Idade
 - Termalismo
 - Termo de Responsabilidade
+- Terrorismo
+- Tráfico de Estupefacientes
 - Transacção Comercial
+- Transporte Aéreo
 - Transporte de Animais
+- Transporte de Mercadorias
 - Transporte de Mercadorias Perigosas
+- Transporte de Resíduos
+- Transporte Ferroviário
 - Tratamento de ÁGUA
+- Tratamento de Resíduos
 - Treinador Desportivo
-- Hotel Rural
+- Turismo
 - Turismo de Habitação
-- Infraestrutura Turística
+- Turismo de Natureza
 - UE
-- Normalização
+- Urbanização
 - Utente
 - Vegetais
-- Matrícula
-- Regulamento do Numero e Chapa de Matricula dos Automóveis seus Reboques Motociclos Triciclos e Quadriciclos de Cilindrada
-  Superior a 50 Centimetros Cubicos
+- Veículo
 - Veículo em FIM de VIDA
 - Venda
 - Venda Ambulante
 - Venda em Cadeia
+- Venda em Hasta Pública
 - Vendedor
-- Saúde Animal
+- Vidro
 - Vinagre
-- Produto Vitivinícola
-- Vitivinicultor
-- Vistoria
 - Vinha
+- Vinho
+- Vistoria
+- Vitivinicultor
 - ZONA de JOGO
 - Zona Empresarial Responsável
-- Sistema da Indústria Responsável
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
-- Plataforma Eletrónica
-- Animação turística
-- Certificação Ambiental
-- Autoridade Regional das Atividades Económicas
-- Doença do Legionário
-- Equipamento de Proteção
-- Vidro
-- Regime Jurídico das Contraordenações Económicas
-- Contraordenação Económica
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
@@ -776,6 +776,1572 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:105711790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106499601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106542301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106642830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106647823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106654351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106663844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106886614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106938487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107458719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107541411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107596685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107648947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107703391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107805893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108038374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108041479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108041482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108125021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108155297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114177787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114288884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114315242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114420282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114661387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114832293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114913768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116108098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116152179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116673878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116673879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117128624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117279933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118950627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119397716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122110905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122393529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122592082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122627505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122627506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123279819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123968666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124097548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124283153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124324703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124392060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124917020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125468543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125468544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126731019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128071719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129113818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130070740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133250481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135391590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136675186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137444365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139472787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141382321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143741481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144010960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145359680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56479736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58752835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58815346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66195398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66953288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67059141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67072250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67498687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67664950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69879424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69977685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69982739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70042475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70114078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70114079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70361622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70497202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70748598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70765717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74661197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74672467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75644171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:181886178:por
+  label: Revogado o Dec Lei 103/2015, de 15-jun, aterado pelo presente diploma, pelo(a) Decreto-Lei n.º 30/2022 - Diário da
+    República n.º 71/2022, Série I de 2022-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2022-181886178
+  date: '2022-04-11'
 - type: transposes
   target: celex:31968L0193
   label: null
@@ -969,15 +2535,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 684
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 171
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:47Z'
   warnings: []
   errors: []
 ---
@@ -1404,7 +2970,7 @@ Os artigos 9.º e 10.º da [Lei n.º 55/90](https://diariodarepublica.pt/dr/deta
 
 2 - Nas regiões autónomas, a competência para a instrução, decisão e aplicação das sanções nos processos por contraordenação cabe à Autoridade Regional das Atividades Económicas.
 
-###### Art. 10.º O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do Regime Jurídico das Contraordenações Económicas.»
+Art. 10.º O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do Regime Jurídico das Contraordenações Económicas.»
 
 ###### Artigo 3.º — Alteração à [Lei n.º 47/2006](https://diariodarepublica.pt/dr/detalhe/lei/47-2006-540784), de 28 de agosto
 
@@ -1434,7 +3000,9 @@ f) [Anterior alínea d) do n.º 3.]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A instrução dos procedimentos de contraordenação relativos às infrações previstas no n.º 1 e nas alíneas b) e e) do n.º 2 do artigo anterior cabe à Inspeção-Geral da Educação.
 
@@ -1474,13 +3042,17 @@ b) A violação dos n.os 1 a 7 e 10 do artigo 9.º-A, dos n.os 2 e 4 do artigo 1
 
 6 - Às contraordenações económicas previstas na presente lei, e em tudo quanto nela se não encontre especialmente regulado, é aplicável o RJCE.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - No caso das contraordenações previstas nas alíneas a) e b) do n.º 2 e no n.º 3 do artigo anterior, podem ainda ser aplicadas as sanções acessórias previstas no RJCE.
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -1544,7 +3116,9 @@ d) [Anterior alínea n) do corpo do artigo.]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Às contraordenações económicas previstas na presente lei é subsidiariamente aplicável o RJCE.»
 
@@ -1572,11 +3146,15 @@ b) [Anterior alínea d) do n.º 1.]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O processamento das contraordenações económicas e a aplicação das sanções previstas na presente lei estão sujeitas ao regime previsto no RJCE.»
 
@@ -1688,7 +3266,9 @@ cc) [...]
 
 7 - Às contraordenações económicas previstas na presente lei é subsidiariamente aplicável o RJCE.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 55.º é repartido nos termos do RJCE.»
 
@@ -1706,7 +3286,9 @@ Os artigos 24.º, 26.º, 28.º e 30.º da [Lei n.º 5/2015](https://diariodarepu
 
 3 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
 
@@ -1744,7 +3326,9 @@ e) O exercício da atividade de perito-classificador-avaliador em violação do 
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.
 
@@ -1752,7 +3336,9 @@ e) O exercício da atividade de perito-classificador-avaliador em violação do 
 
 3 - O produto das coimas pela prática da contraordenação previstas no n.º 3 do artigo 26.º reverte a favor da AT.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -1776,7 +3362,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 4 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a colocação no território nacional de artigos com metal precioso em violação do disposto nos números anteriores.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -1790,13 +3378,17 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 6 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto no n.º 1.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
 2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto no número anterior.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -1810,7 +3402,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 6 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos n.os 1, 3 e 5.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -1822,7 +3416,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 5 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto no n.º 1.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -1834,7 +3430,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 5 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a exposição e ou a venda ao público de artigos com metal precioso em violação do disposto em qualquer uma das alíneas do n.º 1, bem como nos n.os 2, 3 ou 4.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -1844,7 +3442,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 4 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -1864,7 +3464,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 9 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, quando tal não constitua crime, a venda ao público de artigos com metal precioso com marca de contrastaria falsa.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -1878,7 +3480,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 6 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, quando tal não constitua crime, a disponibilização e venda ao público de artigos ou artefactos sem marcação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -1886,7 +3490,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 3 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos números anteriores.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -1898,7 +3504,9 @@ Os artigos 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 20.º, 22.º, 2
 
 5 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos números anteriores.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -1910,7 +3518,9 @@ b) [...]
 
 3 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto nas alíneas a), b) ou c) do n.º 1.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -1940,7 +3550,9 @@ b) [...]
 
 14 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no n.º 9.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -1948,7 +3560,9 @@ b) [...]
 
 3 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto no n.º 1, sem prejuízo da aplicação do artigo 35.º
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -1964,7 +3578,9 @@ b) [...]
 
 7 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 2.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -1980,7 +3596,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -1992,7 +3610,9 @@ b) [...]
 
 5 - Constitui contraordenação económica grave, punível nos termos do RJCE, a utilização da marca de responsabilidade cujo direito de utilização tenha sido cancelado, em violação do disposto no n.º 2.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -2002,7 +3622,9 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a utilização de marcas comerciais em artigos com metal precioso em violação do disposto nos números anteriores.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -2012,7 +3634,9 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto nos números anteriores.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -2022,7 +3646,9 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 2.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -2042,7 +3668,9 @@ b) [...]
 
 9 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos n.os 1, 2, 3, 5, 6, 7 ou 8.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -2056,7 +3684,9 @@ b) [...]
 
 6 - [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -2072,7 +3702,9 @@ b) [...]
 
 7 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação de cada um dos deveres fixados nas alíneas a), b), c) ou e) do n.º 1, bem como a violação do disposto nos n.os 3, 4, 5 ou 6.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -2088,7 +3720,9 @@ b) [...]
 
 7 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, o exercício das atividades previstas no n.º 1 sem o respetivo título profissional.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -2104,7 +3738,9 @@ b) [...]
 
 7 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto na alínea c) do n.º 2.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -2114,7 +3750,9 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no n.º 2.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -2126,7 +3764,9 @@ b) [...]
 
 5 - Constitui contraordenação económica grave, punível nos termos do RJCE, o exercício da atividade cujo respetivo título profissional tenha sido suspenso nos termos do n.º 1.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...]
 
@@ -2142,7 +3782,9 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]
 
@@ -2164,7 +3806,9 @@ b) [...]
 
 10 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto no n.º 2.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -2176,7 +3820,9 @@ b) [...]
 
 5 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 3.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...]
 
@@ -2186,7 +3832,9 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 2.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -2210,7 +3858,9 @@ b) [...]
 
 11 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto no n.º 3.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -2232,7 +3882,9 @@ b) [...]
 
 10 - [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -2242,13 +3894,17 @@ b) [...]
 
 4 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 3.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - [...]
 
 2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação do disposto no número anterior.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
@@ -2260,7 +3916,9 @@ b) [...]
 
 5 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no n.º 3.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -2272,7 +3930,9 @@ b) [...]
 
 5 - Constitui contraordenação económica muito grave, punível nos termos do RJCE, a violação do disposto nos n.os 1 ou 4.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -2286,7 +3946,9 @@ b) [...]
 
 6 - Da medida cautelar adotada cabe sempre recurso para o tribunal judicial territorialmente competente, nos termos previstos no RJCE.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...]
 
@@ -2306,7 +3968,9 @@ b) [...]
 
 9 - [...]
 
-###### Artigo 96.º — Contraordenações
+Artigo 96.º
+
+Contraordenações
 
 1 - Às contraordenações económicas previstas no RJOC é aplicável o regime punitivo previsto no RJCE.
 
@@ -2314,13 +3978,17 @@ b) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no RJOC é repartido nos termos do RJCE.
 
 2 - [...]
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 Aos processos de contraordenações previstos no RJOC aplica-se, subsidiariamente, o RJCE.»
 
@@ -2340,7 +4008,9 @@ Os artigos 22.º e 23.º da [Lei n.º 144/2015](https://diariodarepublica.pt/dr/
 
 4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Sem prejuízo do disposto na legislação especial aplicável setorialmente pelas autoridades a que se refere o n.º 2 do artigo anterior, a violação ao disposto no n.º 4 do artigo 17.º e no artigo 18.º constitui contraordenação económica leve, punível nos termos do RJCE.
 
@@ -2408,7 +4078,9 @@ b) [...]
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Cumulativamente com as coimas previstas no artigo anterior podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no RJCE, as seguintes sanções acessórias:
 
@@ -2416,11 +4088,15 @@ a) [...]
 
 b) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 8.º da presente lei é repartido nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Às contraordenações previstas no artigo 8.º da presente lei e aos processos respeitantes às mesmas aplica-se subsidiariamente o RJCE.»
 
@@ -2478,7 +4154,9 @@ Os artigos 11.º e 13.º da [Lei n.º 88/2019](https://diariodarepublica.pt/dr/d
 
 3 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.»
 
@@ -2494,7 +4172,9 @@ Os artigos 1.º, 57.º, 58.º, 59.º, 60.º, 61.º, 63.º, 64.º, 65.º, 66.º, 
 
 2 - Às contraordenações económicas previstas neste diploma é aplicável, subsidiariamente, o Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Quem abater para consumo público animais das espécies bovina, ovina, caprina, suína ou equina sem que o abate tenha sido precedido, durante as 24 horas anteriores, do descanso das reses, em alojamento apropriado, contíguo ao recinto da matança ou próximo dele, nem aqueles tenham sido convenientemente abeberados ou quando tiverem recebido alimento nas últimas 12 horas, é punido por contraordenação económica leve, nos termos do RJCE.
 
@@ -2502,7 +4182,9 @@ Os artigos 1.º, 57.º, 58.º, 59.º, 60.º, 61.º, 63.º, 64.º, 65.º, 66.º, 
 
 3 - Os produtos que forem objeto desta contraordenação são apreendidos.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - É punido por contraordenação económica grave, nos termos do RJCE, quem produzir, preparar, confecionar, fabricar, transportar, armazenar, detiver em depósito, vender, tiver em existência ou exposição para venda, importar, exportar ou transacionar por qualquer forma, quando destinados ao consumo público, géneros alimentícios e aditivos alimentares:
 
@@ -2516,11 +4198,15 @@ d) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 Quem, sem justificação, tiver em seu poder substâncias, produtos, artigos, objetos, utensílios ou qualquer maquinaria que possam ser empregados na falsificação de géneros alimentícios e aditivos alimentares, bem como possuir ou tiver em laboração produtos que não obedeçam às prescrições legais e que possam servir para aquele fim, é punido por contraordenação económica muito grave, nos termos do RJCE.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - É punido por contraordenação económica grave, nos termos do RJCE, quem produzir, preparar, confecionar, fabricar, transportar, armazenar, detiver em depósito, vender, tiver em existência ou em exposição para venda, importar, exportar ou transacionar por qualquer forma alimentos, aditivos e pré-misturas destinados a animais:
 
@@ -2532,13 +4218,17 @@ c) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Quem transportar bens sujeitos a condicionamento de trânsito sem apresentação imediata da guia ou documento autorizando o transporte é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - A falta de adequados instrumentos de peso ou medida em todos os locais de venda, ainda que domiciliária ou ambulatória, onde sejam considerados necessários por imposição legal ou regulamentar, pelos usos do comércio ou pela natureza dos bens objeto de venda, constitui contraordenação económica grave, punível nos termos do RJCE.
 
@@ -2546,7 +4236,9 @@ c) [...]
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:
 
@@ -2564,7 +4256,9 @@ f) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Nas transações de bens ou na prestação de serviços, quando existam normas legais que imponham ou regulamentem a emissão de documentação respetiva, é punido por contraordenação económica grave, nos termos do RJCE:
 
@@ -2580,29 +4274,39 @@ d) O vendedor ou comprador que altere veracidade dos documentos referidos neste 
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Quem praticar atos que, sem observância das respetivas disposições legais, integrem o exercício de atividades económicas relativas a bens ou serviços sujeitos à inscrição ou registo em entidades públicas, à autorização destas ou à verificação de requisitos, é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Quem produzir, preparar, confecionar, fabricar, transportar, armazenar, detiver em depósito ou para venda, vender, importar, exportar ou transacionar por qualquer outra forma bens, com exclusão de géneros alimentícios e aditivos alimentares e alimentos e aditivos destinados a animais, ou prestar serviços que não satisfaçam os requisitos ou características legalmente estabelecidos é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Quem produzir, preparar, confecionar, fabricar, transportar, armazenar, detiver em depósito ou para venda, vender, importar, exportar ou transacionar por qualquer outra forma bens ou prestar serviços com inobservância das regras legalmente estabelecidas para o exercício das respetivas atividades, é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 Quem violar preceitos legais reguladores da organização de mercados, designadamente os relativos a regras de normalização, à constituição de reservas mínimas, à capacidade de armazenagem, a máximos e mínimos de laboração, à imposição de formas especiais de escrituração, registo, arquivo ou comunicação de elementos relativos à respetiva atividade, é punido por contraordenação económica grave, nos termos do RJCE.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Quem infringir disposições legais que estabeleçam condicionamentos à atividade económica, mediante a imposição de capitações, contingentes ou outras restrições ao consumo, é punido por contraordenação económica muito grave, nos termos do RJCE.
 
@@ -2610,11 +4314,15 @@ Quem violar preceitos legais reguladores da organização de mercados, designada
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 O produtor, fabricante, importador, distribuidor, embalador ou armazenista que recomendar ou indicar preços não permitidos pelo respetivo regime legal ou superiores ao que dele resultem, bem como qualquer outra prática tendente ao mesmo fim, relativamente a bens ou serviços objeto da sua atividade, é punido por contraordenação económica grave, nos termos do RJCE.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -2624,7 +4332,9 @@ O produtor, fabricante, importador, distribuidor, embalador ou armazenista que r
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 78.º — Distribuição do produto das coimas
+Artigo 78.º
+
+Distribuição do produto das coimas
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.
 
@@ -2640,7 +4350,9 @@ Os artigos 204.º, 205.º, 206.º-A e 208.º do [Decreto-Lei n.º 63/85](https:/
 
 Às contraordenações económicas previstas no presente Código é subsidiariamente aplicável, em tudo quanto não se encontre especialmente regulado, o disposto no Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 205.º — Contraordenações
+Artigo 205.º
+
+Contraordenações
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE:
 
@@ -2674,7 +4386,9 @@ b) [...]
 
 12 - [...]
 
-###### Artigo 206.º-A — [...]
+Artigo 206.º-A
+
+[...]
 
 1 - [...]
 
@@ -2692,7 +4406,9 @@ b) [...]
 
 8 - [...]
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -2702,7 +4418,7 @@ Os artigos 12.º e 13.º do [Decreto-Lei n.º 169/86](https://diariodarepublica.
 
 «Art. 12.º Sem prejuízo das competências legais atribuídas a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas previstas no presente decreto-lei.
 
-###### Art. 13.º - 1 - Sem prejuízo do disposto no número seguinte, as infrações ao disposto no presente diploma constituem contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+Art. 13.º - 1 - Sem prejuízo do disposto no número seguinte, as infrações ao disposto no presente diploma constituem contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
 2 - O exercício da atividade sem a prévia inscrição referida no artigo 1.º ou cuja inscrição se encontre revogada, bem como o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º rege-se pelo disposto no artigo 66.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de janeiro, na sua redação atual.
 
@@ -2720,7 +4436,7 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 62/88](https://diariodarepublica.pt/
 
 3 - A aplicação das coimas compete ao inspetor-geral da Autoridade de Segurança Alimentar e Económica.
 
-###### Art. 5.º O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
+Art. 5.º O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
 ###### Artigo 20.º — Alteração ao [Decreto-Lei n.º 357/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1989-549003), de 17 de outubro
 
@@ -2738,7 +4454,9 @@ Os artigos 3.º e 4.º do [Decreto-Lei n.º 357/89](https://diariodarepublica.pt
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação ao disposto no n.º 1 do artigo 2.º
 
@@ -2778,13 +4496,17 @@ Contraordenações
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A fiscalização do disposto no presente diploma e a instrução dos respetivos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 13.º — Distribuição do produto das coimas
+Artigo 13.º
+
+Distribuição do produto das coimas
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -2802,17 +4524,23 @@ Contraordenações
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os produtos nas condições previstas no presente diploma devem ser imediatamente apreendidos e retirados do mercado, nos termos do RJCE.
 
 2 - Cumulativamente com a coima prevista no artigo 3.º a violação do disposto no artigo 2.º pode ainda determinar, a título de sanção acessória e nos termos do RJCE, a interdição do exercício da profissão ou atividade em causa.
 
-###### Artigo 6.º — Distribuição do produto da coima
+Artigo 6.º
+
+Distribuição do produto da coima
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 7.º — Entidades competentes
+Artigo 7.º
+
+Entidades competentes
 
 1 - Compete à Direção-Geral do Consumidor (DGC):
 
@@ -2842,7 +4570,9 @@ Fiscalização
 
 4 - [...]
 
-###### Artigo 13.º — Contraordenações
+Artigo 13.º
+
+Contraordenações
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE, toda a conduta que infrinja as normas relativas às operações de controlo metrológico previstas no n.º 3 do artigo 1.º do presente diploma.
 
@@ -2868,7 +4598,9 @@ Os artigos 65.º e 66.º do [Decreto-Lei n.º 15/93](https://diariodarepublica.p
 
 2 - Em tudo quanto se não encontre especialmente previsto neste decreto-lei e respetivos diplomas complementares aplicam-se as disposições constantes do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 66.º — Contraordenações
+Artigo 66.º
+
+Contraordenações
 
 1 - Os factos praticados com violação dos condicionalismos e obrigações impostos nos termos dos n.os 4 e 5 do artigo 2.º constituem contraordenação económica grave, punível nos termos do RJCE.
 
@@ -2950,7 +4682,9 @@ l) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Conjuntamente com as coimas, podem ser aplicadas, de acordo com a natureza, a gravidade ou a frequência das contraordenações, as seguintes sanções acessórias, nos termos do RJCE:
 
@@ -2960,7 +4694,9 @@ b) [...]
 
 2 - [...]
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -2974,7 +4710,9 @@ Os artigos 10.º, 11.º e 12.º do [Decreto-Lei n.º 136/94](https://diariodarep
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE).
 
-###### Artigo 11.º — Contraordenações
+Artigo 11.º
+
+Contraordenações
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação das normas técnicas relativas aos níveis de rendimento útil.
 
@@ -2992,7 +4730,9 @@ Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscal
 
 8 - Compete ao membro do Governo responsável pela área da economia a adoção, por despacho, das medidas referidas no número anterior, devendo informar imediatamente a Comissão e os outros Estados-Membros.
 
-###### Artigo 12.º — Instrução e decisão
+Artigo 12.º
+
+Instrução e decisão
 
 1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
@@ -3014,7 +4754,9 @@ Os artigos 6.º e 7.º do [Decreto-Lei n.º 214/95](https://diariodarepublica.pt
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE, o incumprimento do disposto no artigo 3.º
 
@@ -3084,11 +4826,15 @@ Os artigos 11.º, 12.º e 13.º do [Decreto-Lei n.º 154/99](https://diariodarep
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Sem prejuízo do disposto no RJCE, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação da sanção acessória de suspensão da autorização de uso do certificado de marca, por um período até dois anos contado a partir da decisão condenatória definitiva.
 
-###### Artigo 13.º — Instrução e decisão dos processos
+Artigo 13.º
+
+Instrução e decisão dos processos
 
 1 - A instrução dos processos de contraordenação e a aplicação das coimas e sanções acessórias compete à Autoridade de Segurança Alimentar e Económica.
 
@@ -3114,7 +4860,9 @@ c) [...]
 
 3 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 11.º — Fiscalização, instrução e decisão
+Artigo 11.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das regras previstas no presente diploma.
 
@@ -3134,7 +4882,9 @@ Os artigos 13.º, 15.º e 18.º do [Decreto-Lei n.º 323-F/2000](https://diariod
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas do presente diploma e as suas disposições regulamentares.
 
-###### Artigo 15.º — Contraordenações
+Artigo 15.º
+
+Contraordenações
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -3156,7 +4906,9 @@ h) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 18.º — Instrução e decisão
+Artigo 18.º
+
+Instrução e decisão
 
 1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
@@ -3220,7 +4972,9 @@ g) [...]
 
 9 - [...]
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -3228,7 +4982,9 @@ g) [...]
 
 3 - A aplicação das coimas previstas no presente diploma é da competência do respetivo presidente da câmara municipal, do inspetor-geral da ASAE, do presidente da entidade competente para a aprovação do PARP ou do inspetor-geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.
 
-###### Artigo 61.º-A — [...]
+Artigo 61.º-A
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas nos n.os 1 a 3 do artigo 59.º do presente diploma é repartido nos termos do RJCE.
 
@@ -3296,7 +5052,9 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -3312,7 +5070,9 @@ Os artigos 7.º e 8.º do [Decreto-Lei n.º 291/2001](https://diariodarepublica.
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente diploma, e a instrução dos respetivos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE).
 
@@ -3330,13 +5090,17 @@ Os artigos 8.º a 11.º do [Decreto-Lei n.º 304/2001](https://diariodarepublica
 
 A fiscalização do cumprimento do disposto nos artigos 3.º, 5.º e 6.º do presente diploma é da competência da Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 9.º — Contraordenações
+Artigo 9.º
+
+Contraordenações
 
 1 - O incumprimento do disposto nos artigos 3.º, 5.º e 7.º do presente diploma constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), sem prejuízo da responsabilidade civil ou penal do mesmo decorrente.
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -3344,7 +5108,9 @@ A fiscalização do cumprimento do disposto nos artigos 3.º, 5.º e 6.º do pre
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao inspetor-geral da ASAE.
 
@@ -3380,7 +5146,9 @@ g) [...]
 
 4 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 14.º — Fiscalização, instrução e decisão
+Artigo 14.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização das regras previstas no presente diploma.
 
@@ -3400,7 +5168,9 @@ Os artigos 7.º, 8.º e 10.º do [Decreto-Lei n.º 134/2002](https://diariodarep
 
 Compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) e à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização do cumprimento das regras de informação ao consumidor definidas na regulamentação referida no artigo anterior e das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 8.º — Contraordenações económicas
+Artigo 8.º
+
+Contraordenações económicas
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -3418,7 +5188,9 @@ e) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
@@ -3438,7 +5210,9 @@ Os artigos 12.º-A e 12.º-C do [Decreto-Lei n.º 67/2003](https://diariodarepub
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 12.º-C — Fiscalização, instrução e decisão
+Artigo 12.º-C
+
+Fiscalização, instrução e decisão
 
 1 - [...]
 
@@ -3458,19 +5232,25 @@ Os artigos 7.º, 8.º, 9.º, 10.º e 11.º do [Decreto-Lei n.º 72-G/2003](https
 
 Sem prejuízo das competências conferidas por lei a outras entidades, a fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE).
 
-###### Artigo 8.º — Contraordenações
+Artigo 8.º
+
+Contraordenações
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a utilização e ou presença nos materiais e objetos referidos no n.º 2 do artigo 2.º das substâncias indicadas no n.º 1 do mesmo artigo que não respeitem as condições e a data estabelecidas nos artigos 3.º, 4.º, 5.º e 6.º, todos deste diploma.
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
 2 - Às sanções acessórias previstas no número anterior é subsidiariamente aplicável o disposto no RJCE.
 
-###### Artigo 10.º — Instrução e decisão
+Artigo 10.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -3480,7 +5260,9 @@ Sem prejuízo das competências conferidas por lei a outras entidades, a fiscali
 
 4 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3494,7 +5276,9 @@ Os artigos 12.º, 13.º e 14.º do anexo ao [Decreto-Lei n.º 100/2003](https://
 
 Sem prejuízo do disposto no artigo 13.º, as entidades competentes para a fiscalização do disposto no presente diploma assim como o respetivo regime sancionatório são os definidos nos artigos 22.º e 23.º do [Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de junho, na sua redação atual.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A colocação no mercado de equipamentos desportivos em violação ao disposto nos n.os 1, 2, 3 e 5 do artigo 6.º e no artigo 7.º constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
@@ -3504,7 +5288,9 @@ Sem prejuízo do disposto no artigo 13.º, as entidades competentes para a fisca
 
 4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no n.º 1 é repartido nos termos do RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é aplicável o disposto no artigo 26.º do [Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de junho, na sua redação atual e no RJCE.»
 
@@ -3534,7 +5320,9 @@ g) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -3556,7 +5344,9 @@ b) [...]
 
 3 - Às contraordenações económicas previstas no presente diploma aplica-se subsidiariamente o disposto no RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
@@ -3580,7 +5370,9 @@ c) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3606,7 +5398,9 @@ e) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.»
 
@@ -3620,7 +5414,9 @@ Fiscalização
 
 Sem prejuízo das competências atribuídas por lei a outras entidades policiais e fiscalizadoras, compete à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização das normas constantes do presente diploma.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o fabrico ou a comercialização de produtos de cacau e de chocolate cujas características e ingredientes não respeitem o disposto no artigo 3.º, bem como nos anexos i e ii.
 
@@ -3628,7 +5424,9 @@ Sem prejuízo das competências atribuídas por lei a outras entidades policiais
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 8.º — Instrução e decisão
+Artigo 8.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -3636,7 +5434,9 @@ Sem prejuízo das competências atribuídas por lei a outras entidades policiais
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3662,11 +5462,15 @@ e) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 8.º — Fiscalização
+Artigo 8.º
+
+Fiscalização
 
 Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das regras previstas neste diploma.
 
-###### Artigo 9.º — Instrução e decisão
+Artigo 9.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -3674,7 +5478,9 @@ Sem prejuízo das competências atribuídas por lei a outras autoridades policia
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3698,11 +5504,15 @@ c) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 8.º — Fiscalização
+Artigo 8.º
+
+Fiscalização
 
 Sem prejuízo da competência atribuída por lei a outras autoridades policiais e fiscalizadoras, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das regras previstas no presente diploma.
 
-###### Artigo 9.º — Instrução e decisão
+Artigo 9.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -3710,11 +5520,15 @@ Sem prejuízo da competência atribuída por lei a outras autoridades policiais 
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 10.º — Distribuição do produto das coimas
+Artigo 10.º
+
+Distribuição do produto das coimas
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Às contraordenações económicas e sanções acessórias previstas no presente diploma é subsidiariamente aplicável o RJCE.»
 
@@ -3728,7 +5542,9 @@ Os artigos 10.º, 11.º, 13.º e 14.º do [Decreto-Lei n.º 37/2004](https://dia
 
 A fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Se sanção mais grave não for aplicável por força de outra disposição legal, constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -3738,13 +5554,17 @@ b) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 13.º — Instrução e decisão
+Artigo 13.º
+
+Instrução e decisão
 
 1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.»
 
@@ -3772,11 +5592,15 @@ f) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 10.º — Instrução e decisão
+Artigo 10.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -3784,7 +5608,9 @@ A fiscalização do cumprimento das normas do presente diploma compete à Autori
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 11.º — Distribuição do produto das coimas
+Artigo 11.º
+
+Distribuição do produto das coimas
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3802,7 +5628,9 @@ Os artigos 4.º, 11.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º e 20.º do [Dec
 
 3 - Em matéria de contraordenações, a tentativa e a negligência são sempre puníveis nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As infrações adiante referidas constituem contraordenação económica muito grave, punível nos termos do RJCE:
 
@@ -3814,7 +5642,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As infrações adiante referidas constituem contraordenação económica grave, punível nos termos do RJCE:
 
@@ -3828,7 +5658,9 @@ d) [...]
 
 2 - A produção, elaboração, beneficiação ou comercialização de vinhos ou produtos vitivinícolas para além dos limites fixados por lei, regulamento ou pelas entidades certificadoras competentes, incluindo os decorrentes das regras de capacidade de vendas ou do regime de liquidação de existências, constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A comercialização de vinhos ou produtos vitivinícolas embalados sem símbolo ou selo de garantia, quando exigível, ou com selagem diversa da prevista para o recipiente utilizado constitui contraordenação económica grave, punível nos termos do RJCE.
 
@@ -3836,23 +5668,31 @@ d) [...]
 
 3 - A falta ou inexatidão de indicações legalmente obrigatórias nos rótulos constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE, o transporte de vinhos ou produtos vitivinícolas sem a documentação de acompanhamento obrigatória, ou com documentação contendo indicações falsas ou rasuras, sem prejuízo das sanções aplicáveis à falsificação.
 
 2 - Se a documentação referida no número anterior contiver indicações erradas, incompletas ou omissões, o agente é punido por contraordenação económica leve, nos termos do RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Constitui contraordenação económica grave, punível nos termos do RJCE, a produção, elaboração e comercialização de vinhos ou produtos vitivinícolas por pessoas não inscritas no IVV ou nas entidades certificadoras competentes, ou sem dar cumprimento a formalidades prévias de verificação ou registo obrigatórios.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação de preceitos legais reguladores da organização do mercado vitivinícola, bem como daqueles que imponham formas especiais de escrituração, registo, arquivo ou comunicação de elementos relativos à respetiva atividade, designadamente declarações de colheita e produção ou de existências de vinhos ou produtos vitivinícolas.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -3860,7 +5700,9 @@ Constitui contraordenação económica grave, punível nos termos do RJCE, a pro
 
 3 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -3886,7 +5728,9 @@ Os artigos 16.º, 17.º, 19.º e 20.º do [Decreto-Lei n.º 25/2005](https://dia
 
 A fiscalização do cumprimento das normas do presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -3896,13 +5740,17 @@ b) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 19.º — Instrução e decisão
+Artigo 19.º
+
+Instrução e decisão
 
 1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -3928,7 +5776,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -3978,7 +5828,9 @@ d) A não realização por parte do produtor, e nos casos em que tal seja adequa
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Para além das coimas referidas no artigo anterior, podem ainda ser aplicáveis, nos estritos limites fixados no RJCE, as seguintes sanções acessórias:
 
@@ -4000,7 +5852,9 @@ h) [...]
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do disposto no presente diploma e instruir os respetivos processos de contraordenação.
 
@@ -4036,7 +5890,9 @@ h) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Cumulativamente com a coima, podem ser aplicadas, nos termos do RJCE, as seguintes sanções acessórias:
 
@@ -4054,7 +5910,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4072,7 +5930,9 @@ a) À Autoridade de Segurança Alimentar e Económica (ASAE), no que respeita ao
 
 b) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -4090,7 +5950,9 @@ f) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A instrução dos processos compete às entidades identificadas no artigo 3.º, no respetivo âmbito de competência.
 
@@ -4100,7 +5962,9 @@ a) Ao inspetor-geral da ASAE, nas contraordenações relativas aos géneros alim
 
 b) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4114,7 +5978,9 @@ Os artigos 15.º, 16.º, 18.º e 19.º do [Decreto-Lei n.º 106/2005](https://di
 
 Sem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização do cumprimento das normas do presente diploma.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -4124,7 +5990,9 @@ b) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 18.º — Instrução e decisão
+Artigo 18.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -4132,7 +6000,9 @@ b) [...]
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -4186,7 +6056,9 @@ t) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -4206,7 +6078,9 @@ Os artigos 9.º, 9.º-A e 11.º do [Decreto-Lei n.º 156/2005](https://diariodar
 
 4 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 9.º-A — Advertência
+Artigo 9.º-A
+
+Advertência
 
 1 - Para além dos casos previstos no RJCE, a instauração de procedimento contraordenacional por violação do disposto nos n.os 1 a 3 do artigo 5.º-B é precedida de notificação de advertência ao infrator para a adoção das medidas necessárias ao cumprimento das obrigações previstas naquelas disposições, no prazo de 90 dias consecutivos.
 
@@ -4214,7 +6088,9 @@ Os artigos 9.º, 9.º-A e 11.º do [Decreto-Lei n.º 156/2005](https://diariodar
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -4270,7 +6146,9 @@ o) [...]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 6.º — Distribuição do produto das coimas
+Artigo 6.º
+
+Distribuição do produto das coimas
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -4278,7 +6156,9 @@ o) [...]
 
 3 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A autoridade competente para aplicação da coima pode ainda determinar, nos termos do RJCE e sempre que a gravidade da infração o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -4308,19 +6188,25 @@ Os artigos 16.º, 17.º, 18.º, 20.º e 21.º do [Decreto-Lei n.º 43/2006](http
 
 Aos processos de contraordenação previstos no presente decreto-lei aplica-se o Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A inobservância do disposto no artigo 1.º e no n.º 3 do artigo 2.º constitui contraordenação económica grave, punível nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A inobservância do disposto no n.º 2 do artigo 14.º constitui contraordenação económica leve, punível nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -4332,7 +6218,9 @@ Aos processos de contraordenação previstos no presente decreto-lei aplica-se o
 
 5 - Nos casos previstos no número anterior, compete ao inspetor-geral da ASAE a aplicação das respetivas coimas e sanções acessórias.
 
-###### Artigo 21.º — Distribuição do produto das coimas
+Artigo 21.º
+
+Distribuição do produto das coimas
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4382,7 +6270,9 @@ i) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A autoridade competente para aplicação da coima pode ainda determinar, nos termos do RJCE e sempre que a gravidade da infração o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -4402,7 +6292,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4514,7 +6406,9 @@ bbb) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -4542,11 +6436,15 @@ d) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Independentemente da responsabilidade civil em que possam incorrer os infratores, simultaneamente com a coima pode ainda ser determinada, como sanção acessória, a perda do produto em causa, sempre que a sua utilização em condições normais represente perigo que o justifique, de acordo com o previsto no RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A aplicação das coimas e das sanções acessórias compete ao inspetor-geral da ASAE.
 
@@ -4572,13 +6470,17 @@ d) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE e ao diretor-geral de Alimentação e Veterinária, relativamente às matérias do âmbito das respetivas competências.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4620,7 +6522,9 @@ c) A comercialização de materiais vitícolas de variedades ou clones, em viola
 
 5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4636,7 +6540,9 @@ Os artigos 16.º e 17.º do [Decreto-Lei n.º 221/2006](https://diariodarepublic
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A aplicação das coimas previstas no presente decreto-lei compete ao inspetor-geral da ASAE.
 
@@ -4664,11 +6570,15 @@ e) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A instrução dos processos de contraordenação compete à ASAE, sendo a aplicação das coimas e sanções acessórias da competência do respetivo inspetor-geral.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4690,13 +6600,17 @@ c) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao diretor-geral da DGAV ou ao inspetor-geral da ASAE, consoante os processos tenham sido instruídos por outras entidades ou pela ASAE, respetivamente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -4736,7 +6650,9 @@ b) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A aplicação das coimas e das sanções acessórias compete ao inspetor-geral da ASAE.
 
@@ -4754,7 +6670,9 @@ Os artigos 16.º e 17.º do [Decreto-Lei n.º 70/2007](https://diariodarepublica
 
 2 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4830,7 +6748,9 @@ t) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4848,13 +6768,17 @@ Fiscalização, instrução e decisão
 
 3 - Compete ao inspetor-geral da ASAE e, no que respeita a ilícitos em matéria de publicidade, ao diretor-geral da DGC, a aplicação das coimas e sanções acessórias.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A violação do disposto nos artigos 3.º e 4.º constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4876,13 +6800,17 @@ c) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4908,13 +6836,17 @@ e) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -4936,7 +6868,9 @@ Contraordenações
 
 5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE, que delas dá conhecimento ao Banco de Portugal e à Direção-Geral do Tesouro e Finanças.
 
@@ -4978,13 +6912,17 @@ m) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação de coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5138,7 +7076,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Às contraordenações económicas previstas no artigo anterior podem, em simultâneo com a coima e nos termos do RJCE, ser aplicadas as seguintes sanções acessórias, caso a gravidade da infração e a culpa do infrator o justifiquem:
 
@@ -5170,7 +7110,9 @@ Os artigos 5.º e 6.º do [Decreto-Lei n.º 331/2007](https://diariodarepublica.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete ao inspetor-geral da ASAE e, no que respeita a ilícitos em matéria de publicidade, ao diretor-geral da Direção-Geral do Consumidor a aplicação das coimas e sanções acessórias.
 
@@ -5194,13 +7136,17 @@ c) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5296,11 +7242,15 @@ i) A falta de remessa a cada um dos proprietários de uma cópia do título cons
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 69.º-A — [...]
+Artigo 69.º-A
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei aplica-se o RJCE.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...]
 
@@ -5324,7 +7274,9 @@ c) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A fiscalização e instrução dos processos por infração ao disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), assim como a aplicação das medidas cautelares previstas no RJCE.
 
@@ -5370,11 +7322,15 @@ Os artigos 16.º, 17.º e 18.º do [Decreto-Lei n.º 103/2008](https://diariodar
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5400,7 +7356,9 @@ e) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5448,7 +7406,9 @@ q) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5488,7 +7448,9 @@ d) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -5640,7 +7602,9 @@ c) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -5660,7 +7624,9 @@ Os artigos 8.º e 10.º do [Decreto-Lei n.º 39/2009](https://diariodarepublica.
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -5722,11 +7688,15 @@ n) (Revogada.)
 
 7 - Às contraordenações previstas no presente decreto-lei é aplicável o RJCE, com exceção da contraordenação ambiental prevista no n.º 4 à qual se aplica a [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Sempre que necessário, pode ser determinada a apreensão provisória de bens e documentos, nos termos previstos no RJCE e no artigo 42.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A afetação do produto das coimas aplicadas pela prática das contraordenações económicas previstas nos n.os 1 e 2 do artigo 31.º é repartida nos termos do RJCE.
 
@@ -5748,7 +7718,9 @@ Contraordenações
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -5774,25 +7746,33 @@ Os artigos 23.º, 25.º, 28.º, 29.º e 30.º do [Decreto-Lei n.º 141/2009](htt
 
 3 - Constitui contraordenação económica leve, punível nos termos do RJCE, a falta ou indisponibilização do regulamento referido na alínea c) do n.º 1 do artigo 18.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
 2 - O produto das coimas aplicadas pela ASAE, no âmbito dos processos de contraordenação referidos no presente decreto-lei, é repartido nos termos do RJCE.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 O processamento das contraordenações económicas e a aplicação das sanções previstas no presente decreto-lei estão sujeitos ao regime previsto no RJCE.»
 
@@ -5888,7 +7868,9 @@ rr) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Aos processos de contraordenação previstos no presente decreto-lei aplica-se subsidiariamente o disposto no RJCE.
 
@@ -5910,7 +7892,9 @@ Fiscalização, instrução e decisão
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação do disposto nos artigos 3.º e 4.º
 
@@ -5918,7 +7902,9 @@ Fiscalização, instrução e decisão
 
 3 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -5970,7 +7956,9 @@ c) A não conservação do CAMV e suas imediações em condições de limpeza e 
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6000,7 +7988,9 @@ g) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -6044,13 +8034,17 @@ k) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6086,7 +8080,9 @@ c) (Revogada.)
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -6142,7 +8138,9 @@ r) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Os animais que serviram, ou estavam destinados a servir, para a prática de alguma das contraordenações previstas no artigo anterior, incluindo as ninhadas resultantes da reprodução dos animais a que se refere o n.º 3 do artigo 19.º, podem ser provisoriamente apreendidos pela autoridade competente, nos termos do RJCE.
 
@@ -6160,7 +8158,9 @@ r) [...]
 
 8 - [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -6190,7 +8190,9 @@ d) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -6208,7 +8210,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A distribuição do produto das coimas resultante da aplicação das contraordenações económicas previstas no artigo 43.º é efetuada nos termos previstos no RJCE.
 
@@ -6244,7 +8248,9 @@ Os artigos 14.º e 18.º do [Decreto-Lei n.º 41-A/2010](https://diariodarepubli
 
 11 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -6268,7 +8274,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6294,13 +8302,17 @@ e) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infração ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas Regiões Autónomas.
 
 2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6314,7 +8326,9 @@ Os artigos 12.º, 13.º e 15.º do [Decreto-Lei n.º 76/2010](https://diariodare
 
 A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
 
@@ -6332,7 +8346,9 @@ f) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -6364,7 +8380,9 @@ g) [...]
 
 3 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 25.º — Instrução e decisão
+Artigo 25.º
+
+Instrução e decisão
 
 1 - (Revogado.)
 
@@ -6394,7 +8412,9 @@ Contraordenações
 
 Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento da obrigação de pagamento do preço no prazo de vencimento referido nos n.os 1, 2 e 3 do artigo 3.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6444,11 +8464,15 @@ f) Aposição da marcação 'CE' em produtos para os quais esta marcação não 
 
 4 - Sempre que qualquer das condutas descritas no n.º 1 configure uma contraordenação de acordo com a legislação específica aplicável ao produto em causa, o respetivo agente é punido pela prática da contraordenação a que corresponda a coima mais elevada.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A aplicação das coimas e sanções acessórias compete:
 
@@ -6456,7 +8480,9 @@ a) No caso de processos de contraordenação instruídos pela ASAE, ao seu inspe
 
 b) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6528,7 +8554,9 @@ c) O incumprimento das obrigações de informação aos participantes, em infra�
 
 6 - A aplicação das coimas e sanções acessórias previstas no presente artigo é da competência do inspetor-geral da ASAE.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O produto da aplicação das coimas previstas no presente decreto-lei reverte em:
 
@@ -6580,11 +8608,15 @@ i) [...]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -6606,7 +8638,9 @@ b) A violação do disposto nos artigos 12.º, 13.º, 14.º, 15.º e 16.º, nos 
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6630,11 +8664,15 @@ b) A infração ao disposto no n.º 2 do artigo 7.º e nos n.os 1 e 3 do artigo 
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao inspetor-geral da ASAE e, no caso de ilícitos em matéria publicitária, ao diretor-geral da Direção-Geral do Consumidor.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -6658,11 +8696,15 @@ Os artigos 24.º, 27.º e 33.º do [Decreto-Lei n.º 95/2011](https://diariodare
 
 6 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Em tudo o que não estiver expressamente previsto no presente decreto-lei é subsidiariamente aplicável o disposto no [Decreto-Lei n.º 67/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2020-142870334), de 15 de setembro, e na [Decisão de Execução 2012/535/UE](https://data.europa.eu/eli/dec/2012/535/oj?locale=pt), da Comissão, de 26 de setembro de 2012, alterada pelas Decisões de Execução [2015/226/UE](https://data.europa.eu/eli/dec/2015/226/oj?locale=pt), da Comissão, de 11 de fevereiro de 2015, [2017/427](https://data.europa.eu/eli/dec/2017/427/oj?locale=pt), da Comissão, de 8 de março de 2017, e [2018/618](https://data.europa.eu/eli/dec/2018/618/oj?locale=pt), da Comissão, de 19 de abril de 2018.
 
@@ -6692,11 +8734,15 @@ e) [...]
 
 3 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Em tudo o que não se encontrar especialmente regulado no presente decreto-lei, é aplicável, subsidiariamente, o [Decreto-Lei n.º 42/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2017-106825053), de 6 de abril, na sua redação atual.»
 
@@ -6720,7 +8766,9 @@ c) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -6774,7 +8822,9 @@ q) [...]
 
 4 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no SIR é repartido nos termos do RJCE.
 
@@ -6802,7 +8852,9 @@ e) [...]
 
 2 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -6814,7 +8866,9 @@ e) [...]
 
 5 - A distribuição do produto das coimas rege-se pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual, ou pelo RJCE, consoante se trate, respetivamente, de contraordenações ambientais ou económicas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As entidades competentes para a fiscalização do presente decreto-lei podem determinar a aplicação de medidas cautelares, incluindo a apreensão provisória de bens e documentos, de acordo com o disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual, e no RJCE, consoante se trate, respetivamente, de contraordenações ambientais ou económicas.»
 
@@ -6832,11 +8886,15 @@ Contraordenações
 
 3 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -6870,7 +8928,9 @@ f) [...]
 
 5 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.
 
@@ -6910,7 +8970,9 @@ Os artigos 9.º, 10.º, 11.º e 15.º do [Decreto-Lei n.º 54/2013](https://diar
 
 3 - A atenuação especial da coima, nos casos em que seja aplicável, é determinada nos termos do RJCE.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A infração ao disposto no artigo 4.º constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
@@ -6918,7 +8980,9 @@ Os artigos 9.º, 10.º, 11.º e 15.º do [Decreto-Lei n.º 54/2013](https://diar
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Cumulativamente com as coimas previstas no artigo anterior e nos termos do RJCE, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -6934,7 +8998,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 15.º — Distribuição do produto da coima
+Artigo 15.º
+
+Distribuição do produto da coima
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.
 
@@ -6964,7 +9030,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -7028,7 +9096,9 @@ e) A inobservância do disposto no artigo 57.º, relativamente ao período trans
 
 4 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -7088,11 +9158,15 @@ m) A não disponibilização à autoridade de fiscalização do mercado pelo fab
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -7124,7 +9198,9 @@ b) A não prestação ou a prestação de informações falsas, inexatas ou inco
 
 3 - A tentativa e a negligência são puníveis nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As contraordenações económicas muito graves previstas no n.º 1 do artigo anterior são puníveis com as seguintes coimas:
 
@@ -7154,11 +9230,15 @@ e) [...]
 
 4 - Para efeitos da classificação da empresa como microempresa, pequena empresa, média empresa ou grande empresa, são utilizados os critérios definidos no RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE, com exceção da norma relativa ao montante das coimas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O produto das coimas e sanções pecuniárias compulsórias cobradas por infração ao disposto no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -7200,7 +9280,9 @@ Os artigos 30.º, 31.º e 32.º do [Decreto-Lei n.º 24/2014](https://diariodare
 
 3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação ao disposto nos n.os 2 e 3 do artigo 19.º e no n.º 1 do artigo 28.º
 
@@ -7210,7 +9292,9 @@ Os artigos 30.º, 31.º e 32.º do [Decreto-Lei n.º 24/2014](https://diariodare
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 No caso das contraordenações económicas previstas no artigo anterior, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.»
 
@@ -7236,11 +9320,15 @@ d) [...]
 
 3 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -7290,11 +9378,15 @@ d) A violação do disposto no n.º 4 do artigo 33.º
 
 4 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei aplica-se o RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -7362,7 +9454,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 8 - A falta de comunicação de encerramento ou cessação da atividade constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -7374,7 +9468,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A falta de averbamento prevista nos termos dos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -7382,7 +9478,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A instalação ou a alteração significativa de grandes superfícies comerciais ou de conjuntos comerciais referidos no n.º 1 sem a necessária autorização constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -7396,13 +9494,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -7420,7 +9522,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 8 - A violação do disposto nos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -7442,7 +9546,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 10 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -7452,13 +9558,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
 2 - A violação dos requisitos referidos no número anterior constitui contraordenação económica grave, punível nos termos do RJCE, se punição mais grave lhe não couber nos termos do presente decreto-lei.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -7480,7 +9590,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 10 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -7488,7 +9600,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -7500,13 +9614,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto nos números anteriores constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -7514,7 +9632,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto nas alíneas a) e b) do n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -7528,7 +9648,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação do disposto no número anterior.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -7540,7 +9662,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -7550,7 +9674,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]
 
@@ -7564,7 +9690,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto no n.º 2 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -7574,7 +9702,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -7582,7 +9712,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - [...]
 
@@ -7596,7 +9728,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto nos n.os 2 e 3 constitui contraordenação económica grave, punível nos termos do RJCE, sem prejuízo de outros tipos de responsabilidade, nos termos da legislação especial aplicável.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...]
 
@@ -7604,7 +9738,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no n.º 1 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...]
 
@@ -7614,7 +9750,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A venda ambulante em violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
@@ -7622,7 +9760,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...]
 
@@ -7632,7 +9772,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - [...]
 
@@ -7652,19 +9794,25 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 9 - A violação do disposto nos n.os 2, 3 e 7 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - [...]
 
@@ -7676,7 +9824,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - [...]
 
@@ -7686,7 +9836,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - [...]
 
@@ -7694,7 +9846,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - [...]
 
@@ -7708,7 +9862,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A contratação de responsável técnico e de profissionais sem as qualificações exigidas pelos n.os 1, 3 e 4 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]
 
@@ -7722,7 +9878,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto nos n.os 3 a 5 constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...]
 
@@ -7734,7 +9892,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - [...]
 
@@ -7742,7 +9902,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...]
 
@@ -7754,13 +9916,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto na primeira parte do n.º 3 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - [...]
 
@@ -7772,13 +9938,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - [...]
 
@@ -7788,13 +9958,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no n.º 2 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - [...]
 
@@ -7806,7 +9980,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto no n.º 2 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - [...]
 
@@ -7814,7 +9990,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - [...]
 
@@ -7822,7 +10000,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no presente artigo constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - [...]
 
@@ -7832,7 +10012,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no presente artigo constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - [...]
 
@@ -7844,7 +10026,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 5 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - [...]
 
@@ -7858,7 +10042,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto nos n.os 4 e 5 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [...]
 
@@ -7868,7 +10054,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto na alínea b) do n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - [...]
 
@@ -7882,13 +10070,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto no n.º 1, a gestão e supervisão da atividade funerária por profissional não qualificado nos termos dos n.os 2 a 4, e a violação do disposto no n.º 5 constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...]
 
@@ -7898,19 +10090,25 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no presente artigo constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - [...]
 
@@ -7920,7 +10118,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - [...]
 
@@ -7934,13 +10134,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 6 - A violação do disposto nos n.os 1 a 3 constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica grave, punível nos termos do RJCE, quando sanção mais grave lhe não couber por força de outra disposição legal.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - [...]
 
@@ -7948,7 +10152,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação do disposto no presente artigo constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - [...]
 
@@ -7956,13 +10162,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 3 - A violação dos requisitos referidos nas alíneas g), k) e l) do n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - [...]
 
 2 - A violação dos deveres referidos no número anterior constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 1 - [...]
 
@@ -7972,13 +10182,17 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - A violação do disposto nos n.os 1 e 2 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - [...]
 
 2 - A violação do disposto no número anterior constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - [...]
 
@@ -7988,7 +10202,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 4 - Da medida cautelar adotada ao abrigo do presente artigo cabe sempre recurso para o tribunal judicial territorialmente competente, nos termos previstos no RJCE.
 
-###### Artigo 143.º — Contraordenações
+Artigo 143.º
+
+Contraordenações
 
 1 - Sem prejuízo da responsabilidade civil ou criminal por violação de obrigações legais, designadamente pela prestação de falsas declarações ou por falsificação dos comprovativos de apresentação das comunicações, ou outros documentos obrigatórios, as contraordenações económicas previstas no RJACSR são puníveis nos termos do RJCE.
 
@@ -8004,11 +10220,15 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 19.º, 33.º, 41.º, 42.º, 43.º, 44.º, 45.
 
 7 - (Revogado.)
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 Aos processos de contraordenações previstos no RJACSR aplica-se subsidiariamente o RJCE.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -8122,11 +10342,15 @@ h) (Revogada.)
 
 6 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -8168,11 +10392,15 @@ k) [...]
 
 3 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8348,7 +10576,9 @@ d) [...]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do RJCE:
 
@@ -8376,7 +10606,9 @@ i) [...]
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do Regime Jurídico das Contraordenações Económicas.»
 
@@ -8442,7 +10674,9 @@ v) O incumprimento dos artigos 9.º e 10.º do presente decreto-lei relativos à
 
 5 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -8494,11 +10728,15 @@ m) [...]
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -8512,11 +10750,15 @@ Contraordenações económicas
 
 A entidade que não prestar atendimento prioritário, quando exista essa obrigatoriedade de acordo com o disposto no artigo 3.º, incorre na prática de uma contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8554,15 +10796,21 @@ j) [...]
 
 3 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade decisora, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8662,15 +10910,21 @@ iii) A falta de conservação do registo das informações nos termos e prazos p
 
 6 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8704,15 +10958,21 @@ f) [...]
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8834,7 +11094,9 @@ zz) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -8874,11 +11136,15 @@ e) [...]
 
 6 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -8948,7 +11214,9 @@ z) [...]
 
 3 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -8982,11 +11250,15 @@ f) [...]
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -9020,11 +11292,15 @@ f) [...]
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -9038,13 +11314,17 @@ Os artigos 43.º, 47.º e 48.º do [Decreto-Lei n.º 57/2017](https://diariodare
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
 2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a violação das regras e condições de aposição da marcação CE estabelecidas no artigo 19.º do presente decreto-lei.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -9090,15 +11370,21 @@ k) A violação das regras e condições de aposição da marcação CE, previst
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -9154,7 +11440,9 @@ q) [...]
 
 5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
@@ -9198,11 +11486,15 @@ d) [...]
 
 6 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é aplicável, subsidiariamente, o RJCE.»
 
@@ -9238,7 +11530,9 @@ g) [...]
 
 5 - Às contraordenações económicas previstas no presente artigo é subsidiariamente aplicável o RJCE.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
@@ -9278,15 +11572,21 @@ i) A violação das regras e condições de aposição da marcação CE e de out
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 Em função da gravidade da infração e da culpa do agente, e sem prejuízo da responsabilidade civil e criminal a que houver lugar, podem ser aplicadas as sanções acessórias previstas no RJCE.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -9324,11 +11624,15 @@ h) A violação das regras e condições de aposição da marcação CE prevista
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
@@ -9396,7 +11700,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
@@ -9428,13 +11734,17 @@ b) [...]
 
 2 - As entidades referidas no artigo 22.º podem ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos do artigo 42.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, que aprovou a Lei-Quadro das Contraordenações Ambientais e no RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A distribuição do produto das coimas resultante da aplicação das contraordenações económicas previstas no artigo 24.º é repartido nos termos do RJCE.»
 
-###### Artigo 168.º — Alteração ao [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro
+Artigo 168.º
+
+Alteração ao [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro
 
 Os artigos 91.º e 93.º do [Decreto-Lei n.º 152-D/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), de 11 de dezembro, na sua redação atual, passam a ter a seguinte redação:
 
@@ -9460,11 +11770,15 @@ f) [...]
 
 3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 As entidades competentes podem determinar a apreensão provisória de bens e documentos, ao abrigo do artigo 42.º da Lei-Quadro das Contraordenações Ambientais, ou a apreensão de objetos, nos termos previstos no RJCE.»
 
-###### Artigo 169.º — Alteração ao [Decreto-Lei n.º 157/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2017-114420282), de 28 de dezembro
+Artigo 169.º
+
+Alteração ao [Decreto-Lei n.º 157/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2017-114420282), de 28 de dezembro
 
 Os artigos 10.º e 13.º do [Decreto-Lei n.º 157/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2017-114420282), de 28 de dezembro, na sua redação atual, passam a ter a seguinte redação:
 
@@ -9480,11 +11794,15 @@ Os artigos 10.º e 13.º do [Decreto-Lei n.º 157/2017](https://diariodarepublic
 
 4 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.»
 
-###### Artigo 170.º — Alteração ao [Decreto-Lei n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2018-114832293), de 8 de março
+Artigo 170.º
+
+Alteração ao [Decreto-Lei n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2018-114832293), de 8 de março
 
 Os artigos 46.º, 47.º, 48.º e 50.º do [Decreto-Lei n.º 17/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2018-114832293), de 8 de março, na sua redação atual, passam a ter a seguinte redação:
 
@@ -9544,11 +11862,15 @@ h) [...]
 
 6 - [...]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Quando a gravidade da infração o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do RJCE:
 
@@ -9558,13 +11880,17 @@ b) [...]
 
 2 - [...]
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
 2 - (Revogado.)»
 
-###### Artigo 171.º — Alteração ao [Decreto-Lei n.º 110/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), de 10 de dezembro
+Artigo 171.º
+
+Alteração ao [Decreto-Lei n.º 110/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), de 10 de dezembro
 
 Os artigos 45.º, 316.º, 317.º, 330.º, 331.º, 332.º, 333.º, 334.º, 335.º, 336.º e 364.º do [Decreto-Lei n.º 110/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), de 10 de dezembro, passam a ter a seguinte redação:
 
@@ -9578,13 +11904,17 @@ Os artigos 45.º, 316.º, 317.º, 330.º, 331.º, 332.º, 333.º, 334.º, 335.º
 
 3 - [...]
 
-###### Artigo 316.º — [...]
+Artigo 316.º
+
+[...]
 
 1 - Aplicam-se subsidiariamente as normas do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de janeiro, na sua redação atual, designadamente no que respeita à responsabilidade criminal e contraordenacional das pessoas coletivas e à responsabilidade por atuação em nome de outrem, bem como as normas do RJCE, sempre que o contrário não resulte das disposições no presente Código.
 
 2 - Sem prejuízo do disposto no número anterior, em matéria de admoestação, aplica-se, independentemente do escalão classificativo de gravidade das contraordenações económicas, o regime previsto no Regime Geral do Ilícito de Mera Ordenação Social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
 
-###### Artigo 317.º — [...]
+Artigo 317.º
+
+[...]
 
 1 - [...]
 
@@ -9594,11 +11924,15 @@ Os artigos 45.º, 316.º, 317.º, 330.º, 331.º, 332.º, 333.º, 334.º, 335.º
 
 4 - Os pressupostos da aplicação das sanções acessórias previstas no presente artigo são os estabelecidos no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de janeiro, na sua redação atual, e no RJCE.
 
-###### Artigo 330.º — [...]
+Artigo 330.º
+
+[...]
 
 Constitui contraordenação económica muito grave, punível nos termos do RJCE, a prática de qualquer dos atos de concorrência desleal definidos no artigo 311.º
 
-###### Artigo 331.º — [...]
+Artigo 331.º
+
+[...]
 
 É punido por contraordenação económica muito grave, nos termos do RJCE, quem, sem o consentimento do titular do direito:
 
@@ -9612,7 +11946,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 332.º — [...]
+Artigo 332.º
+
+[...]
 
 É punido por contraordenação económica grave, nos termos do RJCE, quem, sem o consentimento do titular do direito:
 
@@ -9622,21 +11958,29 @@ b) [...]
 
 c) [...]
 
-###### Artigo 333.º — [...]
+Artigo 333.º
+
+[...]
 
 É punido por contraordenação económica grave, nos termos do RJCE, quem, sem consentimento do titular do direito e com intenção de preparar a execução dos atos referidos nos artigos 322.º a 324.º, fabricar, importar, exportar, adquirir ou guardar para si, ou para outrem, sinais constitutivos de nomes, insígnias, logótipos, denominações de origem ou indicações geográficas registados.
 
-###### Artigo 334.º — [...]
+Artigo 334.º
+
+[...]
 
 1 - É punido por contraordenação económica grave, nos termos do RJCE, quem usar, como sinais distintivos não registados, qualquer dos sinais indicados nas alíneas a), b) e f) a h) do n.º 3 e no n.º 5 do artigo 231.º e na alínea g) do n.º 1 do artigo 232.º
 
 2 - [...]
 
-###### Artigo 335.º — [...]
+Artigo 335.º
+
+[...]
 
 É punido por contraordenação económica grave, nos termos do RJCE, quem, ilegitimamente, usar no nome ou na insígnia do seu estabelecimento ou no logótipo, registado ou não, de firma ou denominação social que não pertença ao requerente, ou apenas parte característica das mesmas, se for suscetível de induzir o consumidor em erro ou confusão, salvo se se provar o consentimento ou a legitimidade do seu uso.
 
-###### Artigo 336.º — [...]
+Artigo 336.º
+
+[...]
 
 É punido por contraordenação económica grave, nos termos do RJCE, quem:
 
@@ -9644,11 +11988,15 @@ a) [...]
 
 b) [...]
 
-###### Artigo 364.º — [...]
+Artigo 364.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
-###### Artigo 172.º — Alteração ao [Decreto-Lei n.º 50/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2019-122110905), de 16 de abril
+Artigo 172.º
+
+Alteração ao [Decreto-Lei n.º 50/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2019-122110905), de 16 de abril
 
 Os artigos 10.º, 12.º e 13.º do [Decreto-Lei n.º 50/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2019-122110905), de 16 de abril, passam a ter a seguinte redação:
 
@@ -9736,15 +12084,21 @@ jj) [...]
 
 4 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Consoante a gravidade da infração e a culpa do agente, podem ser aplicadas as sanções acessórias previstas no RJCE.»
 
-###### Artigo 173.º — Alteração ao [Decreto-Lei n.º 101/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2019-123666148), de 5 de agosto
+Artigo 173.º
+
+Alteração ao [Decreto-Lei n.º 101/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2019-123666148), de 5 de agosto
 
 Os artigos 14.º, 15.º, 16.º e 17.º do [Decreto-Lei n.º 101/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2019-123666148), de 5 de agosto, passam a ter a seguinte redação:
 
@@ -9784,23 +12138,31 @@ n) [...]
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
 2 - A entidade competente para a aplicação da coima aplica as sanções acessórias que se mostrem adequadas, nos termos previstos na Lei-Quadro das Contraordenações Ambientais, no caso das contraordenações ambientais, e nos termos previstos no RJCE, no caso das contraordenações económicas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no artigo 14.º é repartido nos termos do RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As entidades competentes para a inspeção e fiscalização, nos termos do artigo 12.º, determinam a aplicação de medidas cautelares, incluindo a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei-Quadro das Contraordenações Ambientais, ou a apreensão de objetos, nos termos previstos no RJCE.»
 
-###### Artigo 174.º — Alteração ao [Decreto-Lei n.º 118/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2019-124097548), de 21 de agosto
+Artigo 174.º
+
+Alteração ao [Decreto-Lei n.º 118/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2019-124097548), de 21 de agosto
 
 Os artigos 13.º, 14.º e 17.º do [Decreto-Lei n.º 118/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2019-124097548), de 21 de agosto, passam a ter a seguinte redação:
 
@@ -9832,15 +12194,21 @@ i) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
-###### Artigo 175.º — Alteração ao [Decreto-Lei n.º 129/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2019-124283153), de 29 de agosto
+Artigo 175.º
+
+Alteração ao [Decreto-Lei n.º 129/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2019-124283153), de 29 de agosto
 
 Os artigos 13.º, 14.º e 17.º do [Decreto-Lei n.º 129/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2019-124283153), de 29 de agosto, passam a ter a seguinte redação:
 
@@ -9872,15 +12240,21 @@ i) [...]
 
 3 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
-###### Artigo 176.º — Alteração ao [Decreto-Lei n.º 131/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2019-124324703), de 30 de agosto
+Artigo 176.º
+
+Alteração ao [Decreto-Lei n.º 131/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2019-124324703), de 30 de agosto
 
 Os artigos 29.º e 33.º do anexo ao [Decreto-Lei n.º 131/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2019-124324703), de 30 de agosto, passam a ter a seguinte redação:
 
@@ -9924,11 +12298,15 @@ b) Violação do disposto nos n.os 2, 3 e 4 do artigo 15.º
 
 5 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 Às contraordenações económicas previstas no presente Regulamento é subsidiariamente aplicável o RJCE.»
 
-###### Artigo 177.º — Alteração ao [Decreto-Lei n.º 34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho
+Artigo 177.º
+
+Alteração ao [Decreto-Lei n.º 34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho
 
 Os artigos 23.º, 24.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 34/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2020-137444365), de 9 de julho, passam a ter a seguinte redação:
 
@@ -9970,23 +12348,33 @@ m) A violação das regras e condições de aposição da marca CE, previstas no
 
 4 - A tentativa e a negligência são puníveis nos termos do RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Sem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 As entidades responsáveis pela fiscalização do disposto no presente decreto-lei e no Regulamento podem determinar a aplicação de medidas cautelares previstas no RJCE.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.»
 
-###### Artigo 178.º — Alteração ao [Decreto-Lei n.º 67/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2020-142870334), de 15 de setembro
+Artigo 178.º
+
+Alteração ao [Decreto-Lei n.º 67/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2020-142870334), de 15 de setembro
 
 Os artigos 21.º e 24.º do [Decreto-Lei n.º 67/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2020-142870334), de 15 de setembro, passam a ter a seguinte redação:
 
@@ -10114,11 +12502,15 @@ ddd) [...]
 
 4 - Às contraordenações económicas previstas nos números anteriores é subsidiariamente aplicável o RJCE.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.»
 
-###### Artigo 179.º — Alteração ao [Decreto-Lei n.º 76/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), de 25 de setembro
+Artigo 179.º
+
+Alteração ao [Decreto-Lei n.º 76/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), de 25 de setembro
 
 O artigo 8.º do [Decreto-Lei n.º 76/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), de 25 de setembro, passa a ter a seguinte redação:
 
@@ -10134,7 +12526,9 @@ Contraordenações
 
 4 - [...]»
 
-###### Artigo 180.º — Alteração ao [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de outubro
+Artigo 180.º
+
+Alteração ao [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de outubro
 
 Os artigos 68.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º, 75.º, 76.º, 77.º, 78.º, 79.º, 80.º, 83.º, 84.º e 85.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de outubro, na sua redação atual, passam a ter a seguinte redação:
 
@@ -10148,31 +12542,43 @@ Os artigos 68.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º, 75.º, 76.º, 77.º,
 
 3 - [...]
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 O prosseguimento de atividade com violação do disposto no artigo 8.º do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de janeiro, na sua redação atual, constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O fornecimento de substâncias ou preparações compreendidas nas tabelas i a iv sem receita médica, especial ou normal, constitui contraordenação económica grave, punível nos termos do RJCE.
 
 2 - [...]
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 O farmacêutico, ou quem o substituir na sua ausência ou impedimento, que aviar receita com violação do disposto nos n.os 1, 2 e 3 do artigo 28.º, é punido por contraordenação económica leve, nos termos do RJCE.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - Quem, ao requerer autorização para a prática de atividades previstas no n.º 1 do artigo 2.º ou a manutenção da autorização a que se refere o n.º 1 do artigo 8.º do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de janeiro, na sua redação atual, mencionar elementos errados, com vista à obtenção ou manutenção daquela autorização, é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 A falta de declaração de excedentes nos termos do artigo 14.º, ou a sua declaração errada, constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - A entrega de substâncias e preparações compreendidas nas tabelas i a iv sem a requisição a que se refere o artigo 18.º ou a pessoas diferentes das mencionadas no artigo 20.º constitui contraordenação económica leve, punível nos termos do RJCE.
 
@@ -10180,11 +12586,15 @@ A falta de declaração de excedentes nos termos do artigo 14.º, ou a sua decla
 
 3 - Com coima igual à prevista no número anterior é punível a remessa de amostras de substâncias e preparações compreendidas nas tabelas i e ii.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 A exportação de substâncias ou preparações compreendidas nas tabelas i, ii e iv com violação do disposto nos n.os 1, 2 e 4 do artigo 25.º constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - A falta de preenchimento dos livros, documentos e registos exigidos no capítulo ii, ou o seu preenchimento errado, constitui contraordenação económica grave, punível nos termos do RJCE.
 
@@ -10192,11 +12602,15 @@ A exportação de substâncias ou preparações compreendidas nas tabelas i, ii 
 
 3 - O preenchimento irregular dos livros e documentos referidos no n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 A falta de remessa das receitas para controlo ou o não cumprimento do disposto no n.º 3 do artigo 34.º, a não prestação de informações exigidas pelas autoridades com base no artigo 4.º e a falta de remessa dos relatórios e documentos a que se refere o artigo 41.º constituem contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Quem tiver a seu cargo a guarda, ou for responsável pela segurança, das substâncias ou preparações compreendidas nas tabelas i a iv e, por incúria ou falta de adoção das medidas impostas nos termos do n.º 2 do artigo 36.º, der causa à sua subtração ou extravio é punido por contraordenação económica leve, nos termos do RJCE.
 
@@ -10204,11 +12618,15 @@ A falta de remessa das receitas para controlo ou o não cumprimento do disposto 
 
 3 - A falta de comunicação ou a comunicação fora de prazo à autoridade policial, nos termos dos n.os 2, 3 e 4 do artigo 20.º, constitui contraordenação económica leve, punível nos termos do RJCE.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 A publicidade respeitante a substâncias e preparações compreendidas nas tabelas i a iv fora do que se dispõe no presente decreto regulamentar constitui contraordenação económica grave, punível nos termos do RJCE.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - O exercício de qualquer das atividades previstas no n.º 2 do artigo 2.º sem a devida licença ou registo de operador constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
@@ -10232,23 +12650,31 @@ A publicidade respeitante a substâncias e preparações compreendidas nas tabel
 
 11 - [...]
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Quem, ao requerer a autorização ou licença para a prática de atividades ou operações previstas no n.º 2 do artigo 2.º, mencionar elementos errados, com vista a obter aquela autorização ou licença, é punido por contraordenação económica grave, nos termos do RJCE.
 
 2 - A negligência é punível nos termos do RJCE.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 O incumprimento do disposto no artigo 64.º constitui contraordenação económica muito grave, punível nos termos do RJCE.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto regulamentar é repartido nos termos do RJCE.
 
 2 - [...]»
 
-###### Artigo 181.º — Norma revogatória
+Artigo 181.º
+
+Norma revogatória
 
 São revogados:
 
@@ -10442,37 +12868,49 @@ pppp) O n.º 3 do artigo 21.º do [Decreto-Lei n.º 67/2020](https://diariodarep
 
 qqqq) O artigo 66.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de outubro, na sua redação atual.
 
-###### Artigo 182.º — Aplicação da lei no tempo
+Artigo 182.º
+
+Aplicação da lei no tempo
 
 1 - Aos processos de contraordenação pendentes à data da entrada em vigor do presente decreto-lei aplica-se o regime que, em concreto, se afigure mais favorável ao arguido.
 
 2 - Aos processos referidos no número anterior é igualmente aplicável a possibilidade de pagamento voluntário da coima nos termos previstos no artigo 47.º do RJCE, independentemente do montante máximo da coima aplicável.
 
-###### Artigo 183.º — Entrada em vigor
+Artigo 183.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor 180 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Eurico Jorge Nogueira Leite Brilhante Dias - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Patrícia Alexandra Costa Gaspar - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ângelo Nelson Rosário de Souza - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Gabriel Gameiro Rodrigues Bastos - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos - Ana Maria Pereira Abrunhosa - Maria do Céu de Oliveira Antunes - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 18 de janeiro de 2021.**
+Promulgado em 18 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de janeiro de 2021.**
+Referendado em 19 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
-## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
+ANEXO
+
+(a que se refere o n.º 1 do artigo 1.º)
 
 REGIME JURÍDICO DAS CONTRAORDENAÇÕES ECONÓMICAS
 
-### CAPÍTULO I — Da contraordenação económica e da coima
+CAPÍTULO I
 
-#### SECÇÃO I — Disposições gerais
+Da contraordenação económica e da coima
 
-###### Artigo 1.º — Âmbito
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 1.º
+
+Âmbito
 
 1 - O presente regime é aplicável às contraordenações económicas que sejam qualificadas por lei como tal.
 
@@ -10480,11 +12918,15 @@ REGIME JURÍDICO DAS CONTRAORDENAÇÕES ECONÓMICAS
 
 3 - Para efeitos do disposto no número anterior não constituem contraordenações económicas, nomeadamente, as contraordenações nos setores ambiental, financeiro, fiscal e aduaneiro, das comunicações, da concorrência e da segurança social.
 
-###### Artigo 2.º — Princípio da legalidade
+Artigo 2.º
+
+Princípio da legalidade
 
 Só é punido como contraordenação económica o facto descrito e declarado passível de aplicação de coima por lei anterior ao momento da sua prática.
 
-###### Artigo 3.º — Aplicação no tempo
+Artigo 3.º
+
+Aplicação no tempo
 
 1 - A punição da contraordenação é determinada pela lei vigente no momento da prática do facto ou do preenchimento dos pressupostos de que depende.
 
@@ -10494,7 +12936,9 @@ Só é punido como contraordenação económica o facto descrito e declarado pas
 
 4 - Quando a lei valer para um determinado período continua a ser punível como contraordenação o facto praticado durante esse período.
 
-###### Artigo 4.º — Aplicação no espaço
+Artigo 4.º
+
+Aplicação no espaço
 
 Salvo tratado ou convenção internacional que disponha em contrário, o presente regime é aplicável aos factos praticados:
 
@@ -10502,41 +12946,57 @@ a) Em território português, independentemente da nacionalidade ou da sede do a
 
 b) A bordo de aeronaves, comboios ou navios portugueses.
 
-###### Artigo 5.º — Momento da prática do facto
+Artigo 5.º
+
+Momento da prática do facto
 
 O facto considera-se praticado no momento em que o agente atuou ou, no caso de omissão, deveria ter atuado, independentemente do momento em que o resultado típico se tenha produzido.
 
-###### Artigo 6.º — Lugar da prática do facto
+Artigo 6.º
+
+Lugar da prática do facto
 
 O facto considera-se praticado no lugar em que, total ou parcialmente e sob qualquer forma de comparticipação, o agente atuou ou, no caso de omissão, devia ter atuado, bem como naquele em que o resultado típico se tenha produzido.
 
-###### Artigo 7.º — Responsabilidade pela contraordenação
+Artigo 7.º
+
+Responsabilidade pela contraordenação
 
 1 - São responsáveis pela prática de contraordenação as pessoas singulares ou coletivas, ainda que irregularmente constituídas, as associações sem personalidade jurídica e quaisquer outras entidades equiparadas que pratiquem o facto constitutivo da mesma ou, no caso de omissão, que não tenham praticado a ação adequada a evitá-lo, independentemente do momento em que o resultado típico se tenha produzido.
 
 2 - As pessoas coletivas, as associações sem personalidade jurídica e quaisquer outras entidades equiparadas, referidas no número anterior, são responsáveis pelas infrações cometidas em atos praticados, em seu nome ou por sua conta, pelos titulares dos seus órgãos sociais, pelos titulares dos cargos de direção e chefia e pelos seus trabalhadores, desde que atuem no exercício das suas funções ou por causa delas, bem como pelas infrações cometidas por mandatários e representantes, em atos praticados em seu nome ou por sua conta.
 
-###### Artigo 8.º — Dolo e negligência
+Artigo 8.º
+
+Dolo e negligência
 
 1 - As contraordenações económicas são puníveis a título de dolo e, nos casos expressamente previstos, a título de negligência.
 
 2 - Em caso de negligência, os limites mínimos e máximos das coimas aplicáveis são reduzidos para metade.
 
-###### Artigo 9.º — Erro sobre as circunstâncias do facto
+Artigo 9.º
+
+Erro sobre as circunstâncias do facto
 
 O erro sobre os elementos de facto ou de direito de um tipo de ilícito contraordenacional, sobre proibições cujo conhecimento for razoavelmente indispensável para que o agente possa tomar consciência da ilicitude ou sobre um estado de coisas que, a existir, excluiria a ilicitude do facto ou a culpa do agente, exclui o dolo.
 
-###### Artigo 10.º — Erro sobre a ilicitude
+Artigo 10.º
+
+Erro sobre a ilicitude
 
 1 - Age sem culpa quem atua sem consciência da ilicitude do facto, se o erro não lhe for censurável.
 
 2 - Se o erro lhe for censurável, a coima pode ser especialmente atenuada.
 
-###### Artigo 11.º — Inimputabilidade em razão da idade
+Artigo 11.º
+
+Inimputabilidade em razão da idade
 
 Para efeitos do presente regime consideram-se inimputáveis os menores de 16 anos.
 
-###### Artigo 12.º — Inimputabilidade em razão de anomalia psíquica
+Artigo 12.º
+
+Inimputabilidade em razão de anomalia psíquica
 
 1 - É inimputável quem, por força de uma anomalia psíquica, é incapaz, no momento da prática do facto, de avaliar a ilicitude deste ou de se determinar de acordo com essa avaliação.
 
@@ -10544,7 +13004,9 @@ Para efeitos do presente regime consideram-se inimputáveis os menores de 16 ano
 
 3 - A imputabilidade não é excluída quando a anomalia psíquica tiver sido provocada pelo agente com intenção de praticar o facto.
 
-###### Artigo 13.º — Tentativa
+Artigo 13.º
+
+Tentativa
 
 1 - Há tentativa quando o agente pratica atos de execução de uma contraordenação que decidiu cometer sem que esta chegue a consumar-se.
 
@@ -10552,29 +13014,41 @@ Para efeitos do presente regime consideram-se inimputáveis os menores de 16 ano
 
 3 - A tentativa é punível nas contraordenações económicas graves e muito graves, sendo os limites mínimos e máximos da respetiva coima reduzidos para metade, salvo disposição legal em contrário.
 
-###### Artigo 14.º — Autoria
+Artigo 14.º
+
+Autoria
 
 É punível como autor quem executar o facto, por si mesmo ou por intermédio de outrem, ou tomar parte direta na sua execução, por acordo ou juntamente com outro ou outros, e ainda quem, dolosamente, determinar outra pessoa à prática do facto, desde que haja execução ou começo de execução.
 
-###### Artigo 15.º — Cumplicidade
+Artigo 15.º
+
+Cumplicidade
 
 1 - É punível como cúmplice quem, dolosamente e por qualquer forma, prestar auxílio material ou moral à prática por outrem de um facto doloso.
 
 2 - É aplicável ao cúmplice a sanção fixada para o autor, especialmente atenuada.
 
-###### Artigo 16.º — Comparticipação
+Artigo 16.º
+
+Comparticipação
 
 1 - Se vários agentes comparticiparam no facto, qualquer deles incorre em responsabilidade por contraordenação, mesmo que a ilicitude ou o grau de ilicitude do facto dependam de certas qualidades ou relações especiais do agente e estas só existam num dos comparticipantes.
 
 2 - Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.
 
-#### SECÇÃO II — Da coima e das sanções acessórias
+SECÇÃO II
 
-###### Artigo 17.º — Classificação das contraordenações
+Da coima e das sanções acessórias
+
+Artigo 17.º
+
+Classificação das contraordenações
 
 As contraordenações económicas são classificadas como leves, graves e muito graves, considerada a relevância dos bens jurídicos tutelados.
 
-###### Artigo 18.º — Montante das coimas
+Artigo 18.º
+
+Montante das coimas
 
 A cada escalão classificativo de gravidade das contraordenações económicas corresponde uma coima aplicável de acordo com os seguintes critérios gerais:
 
@@ -10614,7 +13088,9 @@ iv) Tratando-se de média empresa, de (euro) 16 000,00 a (euro) 60 000,00;
 
 v) Tratando-se de grande empresa, de (euro) 24 000,00 a (euro) 90 000,00.
 
-###### Artigo 19.º — Classificação de pessoas coletivas
+Artigo 19.º
+
+Classificação de pessoas coletivas
 
 1 - Para efeitos do disposto no presente regime, as pessoas coletivas são classificadas como:
 
@@ -10644,17 +13120,23 @@ a) Às microempresas, as fundações e pessoas coletivas de utilidade pública, 
 
 b) Às pequenas empresas, os municípios e as restantes pessoas coletivas de direito público que não constituam empresas nem sejam abrangidas pela alínea anterior.
 
-###### Artigo 20.º — Determinação da medida da coima
+Artigo 20.º
+
+Determinação da medida da coima
 
 A determinação da medida da coima deve atender à gravidade da contraordenação, à culpa do agente, à sua situação económica e ao benefício económico obtido com a prática do facto ilícito.
 
-###### Artigo 21.º — Fixação da coima concretamente aplicável
+Artigo 21.º
+
+Fixação da coima concretamente aplicável
 
 1 - Na fixação da coima concretamente aplicável, são atendíveis o incumprimento de quaisquer recomendações constantes de auto ou notificação e a prática pelo agente de atos de coação, falsificação, ocultação ou dissimulação tendentes a dificultar a descoberta da verdade.
 
 2 - Na fixação da coima concretamente aplicável são ainda tomadas em consideração a conduta anterior e posterior à prática dos factos e as exigências de prevenção.
 
-###### Artigo 22.º — Agravação especial da coima
+Artigo 22.º
+
+Agravação especial da coima
 
 Os limites mínimo e máximo da coima a aplicar às contraordenações graves e muito graves são elevados para o dobro quando:
 
@@ -10662,7 +13144,9 @@ a) Pela sua ação ou omissão, o agente tenha causado dano na saúde ou seguran
 
 b) Quando o agente retire da infração um benefício económico calculável superior ao limite máximo da coima e não existirem outros meios de o eliminar.
 
-###### Artigo 23.º — Atenuação especial da coima
+Artigo 23.º
+
+Atenuação especial da coima
 
 1 - Para além dos casos expressamente previstos na lei, a autoridade administrativa atenua especialmente a coima quando existam circunstâncias anteriores ou posteriores à prática da contraordenação ou contemporâneas desta que diminuam de forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade de aplicação de coima.
 
@@ -10682,7 +13166,9 @@ b) A autoridade administrativa pode, quando estejam em causa direitos e legítim
 
 5 - A atenuação especial da coima prevista no presente artigo não é cumulativa com a redução da coima aplicável em caso de pagamento voluntário.
 
-###### Artigo 24.º — Reincidência
+Artigo 24.º
+
+Reincidência
 
 1 - É punido como reincidente quem cometer uma contraordenação económica depois de ter sido condenado, por decisão definitiva ou sentença transitada em julgado, por outra contraordenação do mesmo tipo.
 
@@ -10690,7 +13176,9 @@ b) A autoridade administrativa pode, quando estejam em causa direitos e legítim
 
 3 - Em caso de reincidência, a mesma é valorada ao nível da culpa do agente, para efeitos de determinação da medida da coima.
 
-###### Artigo 25.º — Admoestação
+Artigo 25.º
+
+Admoestação
 
 1 - Se a infração consistir em contraordenação classificada como leve e a reduzida culpa do arguido o justifique, pode a autoridade administrativa, em substituição da coima, limitar-se a proferir uma decisão de admoestação.
 
@@ -10698,17 +13186,23 @@ b) A autoridade administrativa pode, quando estejam em causa direitos e legítim
 
 3 - As custas pela aplicação da decisão de admoestação são suportadas pelo arguido.
 
-###### Artigo 26.º — Concurso de contraordenações
+Artigo 26.º
+
+Concurso de contraordenações
 
 1 - Quem tiver praticado várias contraordenações económicas é punido com uma coima cujo limite máximo resulta da soma das coimas concretamente aplicadas às infrações em concurso.
 
 2 - A coima a aplicar não pode exceder o dobro do limite máximo mais elevado das contraordenações em concurso, nem pode ser inferior à mais elevada das coimas concretamente aplicadas às várias contraordenações.
 
-###### Artigo 27.º — Concurso entre crime e contraordenação
+Artigo 27.º
+
+Concurso entre crime e contraordenação
 
 Se o mesmo facto constituir simultaneamente crime e contraordenação económica o agente é punido a título de crime, sem prejuízo das sanções acessórias previstas para a contraordenação.
 
-###### Artigo 28.º — Sanções acessórias
+Artigo 28.º
+
+Sanções acessórias
 
 1 - Pela prática de contraordenações económicas e em função da sua gravidade e da culpa do agente podem ser aplicadas as seguintes sanções acessórias:
 
@@ -10738,7 +13232,9 @@ j) Publicidade da condenação, nos termos do artigo 30.º
 
 4 - Quando sejam aplicadas as sanções previstas nas alíneas g) e h) do n.º 1, a autoridade administrativa deve comunicar, de imediato, à entidade que atribuiu o benefício ou subsídio com vista à suspensão das restantes parcelas do mesmo.
 
-###### Artigo 29.º — Pressupostos do decretamento das sanções acessórias
+Artigo 29.º
+
+Pressupostos do decretamento das sanções acessórias
 
 1 - A sanção acessória referida na alínea a) do n.º 1 do artigo anterior só pode ser decretada quando se verifiquem os pressupostos indicados na mesma.
 
@@ -10756,7 +13252,9 @@ j) Publicidade da condenação, nos termos do artigo 30.º
 
 8 - A sanção prevista na alínea j) do n.º 1 do artigo anterior só pode ser decretada quando a contraordenação for classificada como muito grave, sendo fixada por um período entre 30 a 60 dias.
 
-###### Artigo 30.º — Publicidade da condenação
+Artigo 30.º
+
+Publicidade da condenação
 
 1 - Quando ao agente seja aplicada a sanção acessória de publicidade da condenação, nos termos da alínea j) do n.º 1 do artigo 28.º, pode a mesma ser realizada, após decisão definitiva ou trânsito em julgado, através de um dos seguintes meios:
 
@@ -10772,11 +13270,15 @@ d) Num jornal diário de âmbito nacional e numa publicação periódica local o
 
 3 - Quando a publicidade tenha lugar através de sítios na Internet, nos termos das alíneas a) e c) do n.º 1, a mesma é, sempre que possível, feita de forma desindexada dos motores de busca.
 
-###### Artigo 31.º — Destino dos bens apreendidos
+Artigo 31.º
+
+Destino dos bens apreendidos
 
 Os bens apreendidos que sejam considerados proibidos pela legislação aplicável devem ser sempre declarados perdidos a favor do Estado.
 
-###### Artigo 32.º — Objetos e seres vivos pertencentes a terceiros
+Artigo 32.º
+
+Objetos e seres vivos pertencentes a terceiros
 
 A perda de objetos e seres vivos pertencentes a terceiros só pode ter lugar numa das seguintes situações:
 
@@ -10784,17 +13286,23 @@ a) Os seus titulares tiverem concorrido, com culpa, para a sua utilização ou p
 
 b) Os objetos ou os seres vivos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a respetiva proveniência.
 
-###### Artigo 33.º — Perda de bens
+Artigo 33.º
+
+Perda de bens
 
 1 - O caráter definitivo ou o trânsito em julgado da decisão de perda de bens determina a transferência da respetiva propriedade para o Estado.
 
 2 - Quando, devido a atuação dolosa do agente se tiver tornado, total ou parcialmente, inexequível a perda de bens que, no momento da prática do facto, lhe pertenciam, pode ser declarada perdida uma quantia em dinheiro correspondente ao valor daqueles.
 
-###### Artigo 34.º — Perda independente de coima
+Artigo 34.º
+
+Perda independente de coima
 
 A perda de bens ou do respetivo valor pode ter lugar ainda que possa não haver procedimento contra o agente ou a este não seja aplicada uma coima.
 
-###### Artigo 35.º — Suspensão da sanção acessória
+Artigo 35.º
+
+Suspensão da sanção acessória
 
 1 - A autoridade administrativa que procedeu à aplicação da sanção acessória pode suspender, total ou parcialmente, a sua execução.
 
@@ -10804,9 +13312,13 @@ A perda de bens ou do respetivo valor pode ter lugar ainda que possa não haver 
 
 4 - Decorrido o período de suspensão da sanção acessória sem que o arguido tenha praticado qualquer contraordenação económica e sem que tenha violado as obrigações que lhe hajam sido impostas, fica a condenação sem efeito.
 
-#### SECÇÃO III — Da prescrição
+SECÇÃO III
 
-###### Artigo 36.º — Prescrição do procedimento
+Da prescrição
+
+Artigo 36.º
+
+Prescrição do procedimento
 
 Sem prejuízo das causas de interrupção e de suspensão previstas no artigo seguinte e em legislação especial, o procedimento de contraordenação extingue-se por efeito da prescrição quando sobre a data da prática dos factos tenham decorrido:
 
@@ -10814,7 +13326,9 @@ a) Cinco anos, no caso de contraordenações económicas graves e muito graves;
 
 b) Três anos, no caso de contraordenações económicas leves.
 
-###### Artigo 37.º — Interrupção e suspensão da prescrição do procedimento
+Artigo 37.º
+
+Interrupção e suspensão da prescrição do procedimento
 
 1 - O prazo de prescrição do procedimento de contraordenação é interrompido:
 
@@ -10846,11 +13360,15 @@ b) Um ano, no caso previsto na alínea c).
 
 5 - A prescrição do procedimento tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal da prescrição acrescido de metade.
 
-###### Artigo 38.º — Prescrição da coima
+Artigo 38.º
+
+Prescrição da coima
 
 O prazo de prescrição da coima é de três anos, no caso das contraordenações graves e muito graves, e de dois anos, no caso das contraordenações leves, contados a partir da data de notificação da decisão condenatória da autoridade administrativa competente ou, tendo sido apresentada impugnação judicial, da data do trânsito em julgado da decisão judicial.
 
-###### Artigo 39.º — Interrupção e suspensão da prescrição da coima
+Artigo 39.º
+
+Interrupção e suspensão da prescrição da coima
 
 1 - A prescrição da coima interrompe-se com a sua execução.
 
@@ -10864,15 +13382,23 @@ c) Esteja em curso o plano de pagamento da coima.
 
 3 - A prescrição da coima tem sempre lugar quando, desde o seu início e ressalvado o tempo de suspensão, tiver decorrido o prazo normal da prescrição acrescido de metade.
 
-###### Artigo 40.º — Prescrição das sanções acessórias
+Artigo 40.º
+
+Prescrição das sanções acessórias
 
 À prescrição das sanções acessórias é aplicável o regime previsto para a prescrição da coima.
 
-### CAPÍTULO II — Do processo de contraordenação
+CAPÍTULO II
 
-#### SECÇÃO I — Disposições gerais
+Do processo de contraordenação
 
-###### Artigo 41.º — Autoridades competentes
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 41.º
+
+Autoridades competentes
 
 1 - As competências de fiscalização, instrução e decisão dos processos de contraordenação são cometidas às entidades administrativas e policiais previstas na lei ou às que lhes sucedam nos termos gerais.
 
@@ -10880,7 +13406,9 @@ c) Esteja em curso o plano de pagamento da coima.
 
 3 - Quando cometida a órgão singular, a competência decisória é delegável nos termos do disposto no Código do Procedimento Administrativo, sem possibilidade de subdelegação, devendo a autoridade administrativa publicitar o correspondente despacho.
 
-###### Artigo 42.º — Direito de acesso
+Artigo 42.º
+
+Direito de acesso
 
 1 - Sem prejuízo dos direitos estabelecidos na demais legislação aplicável, a autoridade administrativa competente, no exercício das suas funções, tem livre acesso aos estabelecimentos e locais onde se exerçam, ou se suspeite que se exerçam, as atividades objeto de ação de fiscalização.
 
@@ -10896,7 +13424,9 @@ c) Esteja em curso o plano de pagamento da coima.
 
 7 - Em caso de recusa de acesso ou de obstrução à ação da autoridade administrativa, pode ser solicitada a colaboração das forças de segurança para remover a obstrução e garantir a realização e a segurança da ação, sem prejuízo da responsabilidade contraordenacional e criminal a que houver lugar.
 
-###### Artigo 43.º — Tramitação eletrónica
+Artigo 43.º
+
+Tramitação eletrónica
 
 1 - A tramitação das contraordenações económicas pode ser efetuada eletronicamente em termos a definir por portaria dos membros do Governo responsáveis pelas áreas da economia e da modernização administrativa.
 
@@ -10904,11 +13434,15 @@ c) Esteja em curso o plano de pagamento da coima.
 
 3 - A tramitação eletrónica dos processos deve garantir a respetiva integralidade, autenticidade e inviolabilidade.
 
-###### Artigo 44.º — Prazos
+Artigo 44.º
+
+Prazos
 
 Os prazos para a prática de quaisquer atos previstos no presente regime são contínuos, sendo aplicáveis as regras do Código de Processo Penal, com as necessárias adaptações.
 
-###### Artigo 45.º — Princípio da impugnabilidade
+Artigo 45.º
+
+Princípio da impugnabilidade
 
 1 - As decisões, os despachos e as demais medidas tomadas pelas autoridades administrativas no decurso do procedimento são suscetíveis de impugnação judicial por parte do arguido ou da pessoa contra as quais se dirigem.
 
@@ -10916,7 +13450,9 @@ Os prazos para a prática de quaisquer atos previstos no presente regime são co
 
 3 - A competência para decidir do recurso cabe ao tribunal a que se refere o artigo 72.º
 
-###### Artigo 46.º — Notificações
+Artigo 46.º
+
+Notificações
 
 1 - As notificações referidas no presente regime efetuam-se mediante:
 
@@ -10952,7 +13488,9 @@ d) Correio eletrónico ou através do Serviço Público de Notificações Eletr�
 
 13 - Após a constituição de mandatário, o arguido é notificado apenas na pessoa deste, exceto para o exercício do direito de audição e defesa e da decisão final administrativa, caso em que deve igualmente ser notificado o arguido.
 
-###### Artigo 47.º — Pagamento voluntário da coima
+Artigo 47.º
+
+Pagamento voluntário da coima
 
 1 - O pagamento voluntário da coima é admissível em qualquer altura do processo, mas sempre em momento anterior à decisão administrativa.
 
@@ -10964,11 +13502,17 @@ d) Correio eletrónico ou através do Serviço Público de Notificações Eletr�
 
 5 - O pagamento voluntário da coima equivale a condenação para efeitos de reincidência e determina o arquivamento do processo, exceto se houver lugar à aplicação de sanções acessórias, subsistam medidas cautelares ou exista necessidade de dar destino a bens apreendidos, caso em que é proferida decisão cingida a tais questões.
 
-#### SECÇÃO II — Fase administrativa
+SECÇÃO II
 
-##### SUBSECÇÃO I — Das medidas cautelares
+Fase administrativa
 
-###### Artigo 48.º — Determinação das medidas cautelares
+SUBSECÇÃO I
+
+Das medidas cautelares
+
+Artigo 48.º
+
+Determinação das medidas cautelares
 
 1 - Quando esteja em causa o exercício ilegal de atividades, a existência de risco grave ou iminente para a saúde e a segurança das pessoas, animais ou bens ou para o ambiente, a violação grave de direitos dos consumidores ou quando se revele necessário para a instrução do processo de contraordenação, a autoridade administrativa competente pode determinar, sem audição prévia dos interessados, as seguintes medidas cautelares:
 
@@ -11000,7 +13544,9 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 6 - Após a adoção das medidas previstas nos n.os 1 e 2, os visados são notificados das medidas adotadas, podendo, no prazo de 10 dias, pronunciar-se sobre as questões de facto e de direito que entenderem por oportunas, caso em que compete à autoridade administrativa reexaminar as medidas decretadas.
 
-###### Artigo 49.º — Apreensão de bens ou seres vivos e de documentos
+Artigo 49.º
+
+Apreensão de bens ou seres vivos e de documentos
 
 1 - A autoridade administrativa competente pode, sem audição prévia do interessado, determinar a apreensão de bens ou seres vivos e de documentos, que serviram ou estavam destinados a servir para a prática de uma contraordenação económica ou que em consequência desta foram produzidos, ou quando tais bens ou seres vivos representem, pela sua natureza ou pelas circunstâncias do caso, perigo para a saúde e a segurança de pessoas e bens ou exista sério risco da sua utilização para a prática de um crime ou de outra contraordenação, ou quaisquer outros que forem suscetíveis de servir de prova.
 
@@ -11008,7 +13554,9 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 3 - Salvo se houver manifesto inconveniente, o detentor dos bens ou seres vivos e documentos apreendidos ou, na sua falta, quem o represente no ato de apreensão, é constituído seu fiel depositário pela autoridade administrativa competente, com a obrigação de não utilizar os bens apreendidos sob pena da prática do crime de desobediência.
 
-###### Artigo 50.º — Destino antecipado dos bens ou seres vivos e dos documentos
+Artigo 50.º
+
+Destino antecipado dos bens ou seres vivos e dos documentos
 
 1 - Os bens ou seres vivos e os documentos apreendidos nos termos dos artigos anteriores são restituídos assim que cessem as razões que constituíram motivo para a sua apreensão.
 
@@ -11016,7 +13564,9 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 3 - O destino dos bens referido nos números anteriores, quando decidido por entidade fiscalizadora diversa da autoridade administrativa competente nos termos do presente regime, só pode ser determinado após consulta prévia e desde que não seja formulada oposição por esta última.
 
-###### Artigo 51.º — Arguido não domiciliado em Portugal
+Artigo 51.º
+
+Arguido não domiciliado em Portugal
 
 1 - Se o responsável pela infração não for domiciliado em Portugal, e caso não pretenda efetuar o pagamento voluntário da coima, deve prestar caução de valor igual a um terço do montante máximo da coima prevista para a contraordenação que lhe é imputada.
 
@@ -11024,7 +13574,9 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 3 - A falta de prestação da caução prevista no n.º 1 determina a apreensão dos bens utilizados na e para a prática da infração ou do veículo utilizado no transporte destes, mantendo-se apreendidos até à efetivação da caução, ao pagamento da coima ou à decisão final.
 
-###### Artigo 52.º — Impugnação judicial
+Artigo 52.º
+
+Impugnação judicial
 
 1 - As medidas cautelares determinadas pela autoridade administrativa são notificadas aos titulares dos direitos por elas afetados, os quais podem proceder à sua impugnação judicial mediante recurso para o tribunal judicial territorialmente competente, no prazo de 20 dias, contados a partir da notificação da medida cautelar ou da decisão após o respetivo reexame, nos termos do n.º 6 do artigo 48.º, se a ela houver lugar.
 
@@ -11032,9 +13584,13 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 3 - O recurso não tem efeito suspensivo da medida cautelar impugnada nem do procedimento contraordenacional.
 
-##### SUBSECÇÃO II — Tramitação do procedimento contraordenacional
+SUBSECÇÃO II
 
-###### Artigo 53.º — Auto de notícia e participação
+Tramitação do procedimento contraordenacional
+
+Artigo 53.º
+
+Auto de notícia e participação
 
 1 - A autoridade competente levanta o respetivo auto de notícia quando, no exercício das suas funções, verificar ou comprovar presencialmente, ainda que por forma não imediata, qualquer contraordenação económica na aceção do n.º 2 do artigo 1.º, o qual serve de meio de prova das ocorrências verificadas.
 
@@ -11042,7 +13598,9 @@ d) O bloqueio, por parte dos prestadores de serviços de acesso à Internet, do 
 
 3 - Os factos por outra forma levados ao conhecimento da autoridade competente, nomeadamente através de denúncia particular, são apreciados com vista a eventual averiguação ou encaminhamento para a respetiva entidade competente.
 
-###### Artigo 54.º — Elementos do auto de notícia e da participação
+Artigo 54.º
+
+Elementos do auto de notícia e da participação
 
 O auto de notícia ou a participação devem mencionar:
 
@@ -11058,11 +13616,15 @@ e) A identificação e domicílio das testemunhas;
 
 f) O nome, a categoria e assinatura do autuante.
 
-###### Artigo 55.º — Envio do processo ao Ministério Público
+Artigo 55.º
+
+Envio do processo ao Ministério Público
 
 A autoridade administrativa competente remete o processo ao Ministério Público sempre que considere que a infração constitui um crime.
 
-###### Artigo 56.º — Advertência
+Artigo 56.º
+
+Advertência
 
 1 - Quando a contraordenação económica for classificada como leve e não existam, nos últimos três anos, condenação ou advertência por contraordenação económica, pode ser levantado auto de advertência, com a indicação da infração verificada, das medidas corretivas e do prazo para o seu cumprimento.
 
@@ -11072,7 +13634,9 @@ A autoridade administrativa competente remete o processo ao Ministério Público
 
 4 - A decisão de aplicação da advertência não equivale a decisão condenatória.
 
-###### Artigo 57.º — Instauração do processo
+Artigo 57.º
+
+Instauração do processo
 
 1 - Sem prejuízo do disposto no artigo anterior, o auto de notícia ou participação dão lugar à instauração de um processo de contraordenação, sendo-lhe atribuído um número de identificação.
 
@@ -11080,7 +13644,9 @@ A autoridade administrativa competente remete o processo ao Ministério Público
 
 3 - As entidades que não disponham de competência instrutória remetem o auto de notícia ou a participação à autoridade administrativa competente.
 
-###### Artigo 58.º — Exercício do direito de audição e defesa
+Artigo 58.º
+
+Exercício do direito de audição e defesa
 
 1 - Após o levantamento do auto de notícia, o arguido deve ser notificado para, no prazo de 20 dias, se pronunciar por escrito sobre a contraordenação que lhe é imputada ou, querendo, efetuar o pagamento voluntário da coima, nos termos do artigo 47.º
 
@@ -11088,7 +13654,9 @@ A autoridade administrativa competente remete o processo ao Ministério Público
 
 3 - Consideram-se não escritos os nomes das testemunhas que ultrapassem o limite previsto no número anterior, bem como daquelas relativamente às quais não sejam indicados os elementos necessários à sua notificação.
 
-###### Artigo 59.º — Instrução
+Artigo 59.º
+
+Instrução
 
 1 - O agente autuante ou participante não pode exercer, no mesmo processo, as funções instrutórias.
 
@@ -11102,7 +13670,9 @@ b) Quando estejam em causa direitos e legítimos interesses de grupos de consumi
 
 4 - Quando depreque a inquirição de testemunhas, o instrutor especifica de imediato as questões que lhe devem ser colocadas.
 
-###### Artigo 60.º — Diligências de inquirição
+Artigo 60.º
+
+Diligências de inquirição
 
 1 - As testemunhas são obrigatoriamente apresentadas, por quem as arrola, na data e hora agendadas para a diligência.
 
@@ -11122,7 +13692,9 @@ b) Quando estejam em causa direitos e legítimos interesses de grupos de consumi
 
 9 - O instrutor pode convocar oficiosamente testemunhas cuja inquirição se revele necessária, ainda que as mesmas não sejam arroladas pelo arguido, comunicando a este o teor do despacho que determine a inquirição.
 
-###### Artigo 61.º — Inquirição por meios não presenciais
+Artigo 61.º
+
+Inquirição por meios não presenciais
 
 1 - Excecionalmente, a tomada de declarações das testemunhas, peritos ou consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, caso se verifiquem cumulativamente os seguintes requisitos:
 
@@ -11136,7 +13708,9 @@ c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pesso
 
 3 - Os depoimentos, informações ou esclarecimentos recolhidos por gravação magnetofónica ou audiovisual são reduzidos a escrito e juntos ao processo, devendo também ser junta uma cópia das gravações.
 
-###### Artigo 62.º — Aproveitamento dos atos
+Artigo 62.º
+
+Aproveitamento dos atos
 
 1 - Quando aos factos imputados deva corresponder enquadramento jurídico ou limites sancionatórios distintos dos constantes da notificação prevista no artigo 58.º, os atos e diligências praticados podem ser aproveitados, desde que sejam respeitadas as garantias processuais do arguido, nomeadamente através da renovação do exercício do direito de audição e defesa.
 
@@ -11144,9 +13718,13 @@ c) Forem previsíveis graves dificuldades ou inconvenientes, funcionais ou pesso
 
 3 - A falta ou vício da notificação considera-se sanada se o arguido renunciar expressamente a argui-la, aceitar expressamente os efeitos do ato ou se tiver exercido o direito de defesa.
 
-##### SUBSECÇÃO III — Decisão
+SUBSECÇÃO III
 
-###### Artigo 63.º — Decisão condenatória
+Decisão
+
+Artigo 63.º
+
+Decisão condenatória
 
 1 - A decisão que aplica a coima ou as sanções acessórias contém, sob pena de nulidade:
 
@@ -11174,7 +13752,9 @@ c) Vigora a proibição da reformatio in pejus, nos termos do artigo 74.º
 
 3 - A decisão contém ainda a ordem de pagamento da coima a efetuar no prazo de 15 dias após o caráter definitivo da mesma, sob pena de a autoridade administrativa proceder à sua cobrança coerciva.
 
-###### Artigo 64.º — Execução
+Artigo 64.º
+
+Execução
 
 1 - Da decisão condenatória da autoridade administrativa não impugnada judicialmente é extraída certidão de dívida, de acordo com os requisitos do artigo 163.º do Código de Procedimento e de Processo Tributário, procedendo-se à cobrança coerciva, em processo de execução fiscal, da competência da Autoridade Tributária e Aduaneira (AT).
 
@@ -11200,7 +13780,9 @@ f) Número fiscal da sociedade em que o executado conste como sócio ou membro d
 
 g) Número fiscal da herança indivisa em que o executado conste como herdeiro ou legatário.
 
-###### Artigo 65.º — Pagamento da coima em prestações
+Artigo 65.º
+
+Pagamento da coima em prestações
 
 1 - Quando o arguido o requeira e desde que a sua situação económica o justifique pode a autoridade administrativa, após decisão condenatória, autorizar o pagamento da coima em até 24 prestações mensais iguais e sucessivas, fixando o respetivo plano de pagamento.
 
@@ -11214,9 +13796,13 @@ g) Número fiscal da herança indivisa em que o executado conste como herdeiro o
 
 6 - Dentro dos limites referidos nos números anteriores e quando motivos supervenientes o justifiquem, os prazos e os planos de pagamento inicialmente estabelecidos podem ser alterados, mediante requerimento apresentado junto da autoridade administrativa que proferiu a decisão condenatória.
 
-#### SECÇÃO III — Das custas
+SECÇÃO III
 
-###### Artigo 66.º — Princípios gerais
+Das custas
+
+Artigo 66.º
+
+Princípios gerais
 
 1 - As custas do processo revertem para a autoridade administrativa que aplicou a sanção.
 
@@ -11224,7 +13810,9 @@ g) Número fiscal da herança indivisa em que o executado conste como herdeiro o
 
 3 - As decisões das autoridades administrativas que decidam sobre as matérias do processo devem fixar o montante das custas, de acordo com os valores estabelecidos em despacho do dirigente máximo da respetiva autoridade, publicado na 2.ª série do Diário da República, e determinar quem as deve suportar, incluindo no caso de advertência ou de termo do processo com o pagamento voluntário da coima.
 
-###### Artigo 67.º — Encargos
+Artigo 67.º
+
+Encargos
 
 As custas compreendem, nomeadamente, os seguintes encargos:
 
@@ -11244,33 +13832,47 @@ g) O reembolso com a aquisição de suportes fotográficos, magnéticos e áudio
 
 h) Os exames, análises, peritagens ou outras ações que a autoridade administrativa tenha realizado ou mandado efetuar no âmbito das ações de fiscalização que conduziram ao processo de contraordenação.
 
-#### SECÇÃO IV — Fase judicial
+SECÇÃO IV
 
-###### Artigo 68.º — Direito de recurso
+Fase judicial
+
+Artigo 68.º
+
+Direito de recurso
 
 A decisão condenatória que aplique uma coima é sempre impugnável judicialmente, mediante recurso interposto para o tribunal competente.
 
-###### Artigo 69.º — Prazo e forma da impugnação
+Artigo 69.º
+
+Prazo e forma da impugnação
 
 1 - O prazo de interposição do recurso de impugnação judicial é de 30 dias, contados da data da notificação da decisão condenatória ao arguido.
 
 2 - O recurso é apresentado por escrito, junto da autoridade administrativa que aplicou a coima ou a sanção acessória e dirigido ao tribunal competente, nele devendo constar alegações e conclusões.
 
-###### Artigo 70.º — Obrigatoriedade de constituição de mandatário
+Artigo 70.º
+
+Obrigatoriedade de constituição de mandatário
 
 É obrigatória a constituição de mandatário para a impugnação judicial de decisões administrativas cuja coima aplicável exceda o dobro da alçada dos tribunais de 1.ª instância, bem como nos recursos interpostos para o Tribunal da Relação.
 
-###### Artigo 71.º — Efeito do recurso
+Artigo 71.º
+
+Efeito do recurso
 
 A impugnação judicial da decisão administrativa que aplique uma coima ou uma sanção acessória tem efeito suspensivo.
 
-###### Artigo 72.º — Tribunal competente
+Artigo 72.º
+
+Tribunal competente
 
 1 - É competente para conhecer do recurso o tribunal judicial em cuja área territorial se tiver consumado a infração.
 
 2 - Se a infração não tiver chegado a consumar-se, é competente o tribunal em cuja área se tiver praticado o último ato de execução ou, em caso de punibilidade dos atos preparatórios, o último ato de preparação.
 
-###### Artigo 73.º — Envio dos autos ao Ministério Público
+Artigo 73.º
+
+Envio dos autos ao Ministério Público
 
 1 - Recebida a impugnação judicial, deve a autoridade administrativa enviar os autos ao Ministério Público, no prazo de 15 dias, que os torna presentes ao juiz, valendo este ato como acusação.
 
@@ -11280,11 +13882,15 @@ A impugnação judicial da decisão administrativa que aplique uma coima ou uma 
 
 4 - A retirada da acusação pelo Ministério Público depende da concordância da autoridade administrativa e do recorrente.
 
-###### Artigo 74.º — Proibição da reformatio in pejus
+Artigo 74.º
+
+Proibição da reformatio in pejus
 
 Impugnada a decisão da autoridade administrativa ou interposto recurso da decisão judicial somente pelo arguido, ou no seu exclusivo interesse, não pode a sanção aplicada ser modificada em prejuízo de qualquer dos arguidos, ainda que não recorrentes.
 
-###### Artigo 75.º — Decisões judiciais que admitem recurso
+Artigo 75.º
+
+Decisões judiciais que admitem recurso
 
 1 - Pode recorrer-se para o Tribunal da Relação da sentença ou do despacho judicial quando:
 
@@ -11302,9 +13908,13 @@ e) O tribunal decidir através de despacho, não obstante o recorrente se ter op
 
 3 - Se a sentença ou o despacho recorrido forem relativos a várias infrações ou a vários arguidos e se apenas quanto a alguma das infrações ou a algum dos arguidos se verificarem os pressupostos necessários, o recurso é interposto com esses limites.
 
-#### SECÇÃO V — Produto das coimas e registo de decisões condenatórias
+SECÇÃO V
 
-###### Artigo 76.º — Destino do produto das coimas
+Produto das coimas e registo de decisões condenatórias
+
+Artigo 76.º
+
+Destino do produto das coimas
 
 O produto das coimas aplicadas na sequência de processos de contraordenação tramitados ao abrigo do presente regime é repartido da seguinte forma:
 
@@ -11316,7 +13926,9 @@ c) 10 % para a entidade instrutora;
 
 d) 20 % para a entidade decisora.
 
-###### Artigo 77.º — Registo
+Artigo 77.º
+
+Registo
 
 1 - A autoridade competente para a decisão dos processos de contraordenação organiza e mantém o registo de decisões condenatórias definitivas ou transitadas em julgado, com menção das respetivas sanções principais e acessórias aplicadas.
 
@@ -11324,22 +13936,34 @@ d) 20 % para a entidade decisora.
 
 3 - Aos processos em que deva ser apreciada a responsabilidade de qualquer infrator é junta informação sobre o respetivo registo.
 
-### CAPÍTULO III — Disposições finais
+CAPÍTULO III
 
-###### Artigo 78.º — Regimes específicos
+Disposições finais
+
+Artigo 78.º
+
+Regimes específicos
 
 1 - Os regimes jurídicos setoriais que prevejam um regime contraordenacional específico prevalecem sobre o RJCE.
 
 2 - Sem prejuízo do disposto no número anterior, o RJCE aplica-se subsidiariamente quando esteja expressamente determinado naqueles regimes.
 
-###### Artigo 79.º — Direito subsidiário
+Artigo 79.º
+
+Direito subsidiário
 
 Em tudo quanto não se encontre previsto no presente regime aplica-se subsidiariamente o Regime Geral do Ilícito de Mera Ordenação Social, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual.
 
-###### Artigo 80.º — Tipificação de contraordenações económicas em regimes futuros
+Artigo 80.º
+
+Tipificação de contraordenações económicas em regimes futuros
 
 Após a entrada em vigor do presente regime, sempre que um ato normativo tipifique determinado facto como contraordenação económica deve proceder à respetiva classificação como leve, grave ou muito grave, considerada a relevância dos bens jurídicos tutelados, e determinar a aplicação subsidiária do presente regime.
 
-###### Artigo 81.º — Divulgação de informação
+Artigo 81.º
+
+Divulgação de informação
 
 A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente regime, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, devem realizar-se em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.
+
+113902868

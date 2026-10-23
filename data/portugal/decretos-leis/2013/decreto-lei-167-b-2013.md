@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31
   number: '253'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7056-(352) a 7056-(352)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25303/0035200352.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167-b/2013/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-b-2013-164421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ad1aa3368048b60cbbd39b4648c57fe12b33a9b639a3b9def3fca131a1414b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 510b18f5eade0a6c81313470e9c4248879d0c1c1cb465ca4aa7ecc9580a01e1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Financiamento
-- Empresa
-- Turismo
 - Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Energia
-- Produção
 - Comércio
+- Empresa
+- Energia
+- Financiamento
+- Indústria
+- Produção
+- Projeto de Investimento
+- QREN
 - Transporte
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:58228088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58228088:por
+  label: Alterado o art. 1.º do Dec Lei 287/2007, de 17-ago, na redação do presente diploma, pelo(a) Decreto-Lei n.º 148/2014
+    - Diário da República n.º 195/2014, Série I de 2014-10-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2014-58228088
+  date: '2014-10-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2007/08/17/p/dre
   label: null
@@ -90,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/65/2009/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/65/2009/03/20/p/dre
+- type: cites
+  target: pt:dre:605542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:38Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +150,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 30 de dezembro de 2013.**
+Promulgado em 30 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de dezembro de 2013.**
+Referendado em 31 de dezembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

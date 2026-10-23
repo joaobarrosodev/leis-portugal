@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1977-252060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f54906eda54b0cdc33d8f17b45cb190ca0360c32c16c0b704af6ed5644a8c499
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2e909a4c0b52d5c5f99eb06d65a87995766afbe14d3fd45885000829e838a41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Regulamento de Transportes em Automóveis
+- Transporte de Passageiros
+- Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:375412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445560:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:43Z'
   warnings: []
   errors: []
 ---
@@ -104,24 +116,24 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O § 3.º do artigo 147.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção dada pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O § 3.º do artigo 147.º do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, com a redacção dada pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), de 2 de Março, passa a ter a seguinte redacção:
 
 Quando carreiras tenham percursos total ou parcialmente coincidentes, poderá ser determinado, a título excepcional, que numa das carreiras não possa cobrar-se, entre quaisquer pontos do percurso comum, um preço inferior ao que estiver estabelecido para a totalidade desse percurso.
 
-###### Art. 2.º O mesmo artigo 147.º do Regulamento de Transportes em Automóveis passa a compreender os seguintes parágrafos:
+Art. 2.º O mesmo artigo 147.º do Regulamento de Transportes em Automóveis passa a compreender os seguintes parágrafos:
 
 § 4.º Em carreiras que tenham em vista não o escoamento do tráfego normal no percurso, mas a satisfação de especiais necessidades de transporte, poderão ser fixadas, a título muito excepcional, tarifas com desvio às regras estabelecidas nos parágrafos anteriores, visando não só encaminhar o tráfego específico de passageiros que a carreira se destina a assegurar, mas também evitar ou atenuar eventuais problemas de concorrência entre empresas.
 
 § 5.º A fixação de tarifas nos termos dos §§ 3.º e 4.º cabe ao Ministro dos Transportes e Comunicações, salvo estando fixada competência especial em matéria de preços.
 
-###### Art. 3.º É alterada a redacção do § 4.º do artigo 112.º do Regulamento de Transportes em Automóveis, nos seguintes termos:
+Art. 3.º É alterada a redacção do § 4.º do artigo 112.º do Regulamento de Transportes em Automóveis, nos seguintes termos:
 
 Não serão tomadas em consideração, para efeitos do n.º 3 do corpo deste artigo, as carreiras concedidas nos termos do § 4.º do artigo 147.º e ainda as que à data do pedido da nova concessão não tenham em exploração ou requeridas, pelo menos, seis circulações semanais durante todo o ano, salvo se no percurso da carreira emergente da concessão pedida nenhuma outra as tiver.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

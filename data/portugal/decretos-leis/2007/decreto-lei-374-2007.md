@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21400/0815408162.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/374/2007/11/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-2007-629168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aee7bf8091a74cfeb61bcf7a7f6bd1e344849ace91d2869a52e05a28e47392a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0ad173c22d4275e072a97f24cc534c16654f75b3e7c940c0adc729d85b3d881
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Sociedade Anónima
 - Conselho de Administração
 - Conselho Fiscal
 - Definição de Competências
@@ -75,11 +74,18 @@ subjects:
 - Estatuto
 - Quadro de Pessoal
 - Revisor Oficial de Contas
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:67348943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608685:por
+  label: "Alterado o art. 7.º e revogados os n.ºs 3 e 4 do art. 8.º pelo DEC LEI.110/2009.18.05.2009.MOPTC, DR.IS [95] de\
+    \ 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2009-608685
+  date: '2009-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -104,16 +110,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/89/2007/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/89/2007/07/11/p/dre
+- type: cites
+  target: pt:dre:219564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348943:por
+  label: Revogado, a partir de 01.06.2015, o presente diploma, na redação do Dec Lei 110/2009, de 18-maio, e determinada nos
+    termos dos n.ºs 1 e 2 do art 1.º a extinção da EP - Estradas de Portugal, S. A. (EP, S. A.), criada pelo presente diploma,
+    e a sua incorporação e fusão na Rede Ferroviária Nacional - Refer, E. P. E. (REFER, E. P. E.), a qual sucede em todos
+    os direitos e obrigações, legais e contratuais da (EP, S. A.) ora extinta, e é transformada em sociedade anónima, redenominando-a
+    para Infraestruturas de Portugal, S. A.( IP, S. A.), bem como são aprovados os respetivos Estatutos, constantes do anexo
+    I do Dec Lei 91/2015, de 29-maio, e que dele faz parte integrante, pelo(a) Decreto-Lei n.º 91/2015 - Diário da República
+    n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2015-67348943
+  date: '2015-05-29'
 article_structure:
   article_count: 43
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:06Z'
   warnings: []
   errors: []
 ---
@@ -354,15 +395,15 @@ A EP - Estradas de Portugal, S. A., é registada na Conservatória do Registo Co
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 29 de Outubro de 2007.**
+Promulgado em 29 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Outubro de 2007.**
+Referendado em 30 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — ESTATUTOS DA EP - ESTRADAS DE PORTUGAL, S. A.
 

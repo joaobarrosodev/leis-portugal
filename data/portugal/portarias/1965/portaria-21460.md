@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21460-1965-292560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b09044a5396e6b70cad7a50fceb51ef1a465ffd1ad6e7e26a0b074f404eb1a46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65bb4e4a7686c3e622df70715646857323afb3bcb95df001b21fb13705d37b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687434:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:28Z'
   warnings: []
   errors: []
 ---
@@ -107,13 +135,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 7.º O artigo 89.º passa a ter a seguinte redacção:
 
-###### Art. 89.º Não é permitido fazer escavações para abertura de valas ou para outros fins de carácter permanente em terrenos confinantes com a zona da estrada a uma distância do limite desta inferior a vez e meia a profundidade dessas escavações, salvo se delas não resulte prejuízo para a estrada. A Junta Autónoma de Estradas de Angola pode opor-se à escavação, mesmo para além da faixa de respeito, sempre que entenda haver prejuízo.
+Art. 89.º Não é permitido fazer escavações para abertura de valas ou para outros fins de carácter permanente em terrenos confinantes com a zona da estrada a uma distância do limite desta inferior a vez e meia a profundidade dessas escavações, salvo se delas não resulte prejuízo para a estrada. A Junta Autónoma de Estradas de Angola pode opor-se à escavação, mesmo para além da faixa de respeito, sempre que entenda haver prejuízo.
 
 Pode também determinar quais as obras e cautelas a que a escavação deve obedecer para ser consentida.
 
 8.º O artigo 94.º passa a ter a seguinte redacção, em conformidade com o [Decreto-Lei n.º 45291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45291-1963-687434), de 3 de Outubro de 1963:
 
-###### Art. 94.º É proibido instalar a menos de 50 m da zona da estrada definida no artigo 10.º qualquer estabelecimento comercial ou industrial que possa, pela sua vizinhança e natureza, causar danos à estrada, oferecer perigo ou de qualquer modo estorvar o trânsito, bem como fazer depósitos de quaisquer materiais ou objectos que tenham mau aspecto ou sejam incómodos ou perigosos para os usuários da estrada.
+Art. 94.º É proibido instalar a menos de 50 m da zona da estrada definida no artigo 10.º qualquer estabelecimento comercial ou industrial que possa, pela sua vizinhança e natureza, causar danos à estrada, oferecer perigo ou de qualquer modo estorvar o trânsito, bem como fazer depósitos de quaisquer materiais ou objectos que tenham mau aspecto ou sejam incómodos ou perigosos para os usuários da estrada.
 
 § único. Como regra, os grupos de instalações comerciais ou industriais dispostos ao longo de estradas nacionais deverão ser servidos por vias independentes destas estradas, às quais se ligarão apenas em pontos devidamente localizados, tendo em atenção as exigências da segurança da circulação rodoviária.
 
@@ -121,7 +149,7 @@ Na falta de planos de urbanização aprovados pelo Governo-Geral da província c
 
 9.º O artigo 96.º passa a ter a seguinte redacção:
 
-###### Art. 96.º Não é permitido o estabelecimento de qualquer parque de diversões ou desporto, feira ou mercado, mesmo de simples aprovisionamento, em local compreendido, no todo ou em parte, numa faixa com a largura de 100 m contada para um e outro lado da zona da estrada fixada no artigo 10.º, a não ser que a sua situação tenha sido estabelecida em plano de urbanização legalmente aprovado.
+Art. 96.º Não é permitido o estabelecimento de qualquer parque de diversões ou desporto, feira ou mercado, mesmo de simples aprovisionamento, em local compreendido, no todo ou em parte, numa faixa com a largura de 100 m contada para um e outro lado da zona da estrada fixada no artigo 10.º, a não ser que a sua situação tenha sido estabelecida em plano de urbanização legalmente aprovado.
 
 10.º No corpo do artigo 100.º e no seu § 3.º deverão fazer-se as seguintes alterações:
 
@@ -135,7 +163,7 @@ c) Tratando-se de estrada desarborizada, na margem de mais difícil arborizaçã
 
 12.º Os n.os 1.º e 2.º do artigo 104.º e a alínea d) do § 1.º do mesmo artigo passam a ter as seguintes redacções:
 
-###### Art. 104.º ...
+Art. 104.º ...
 
 1.º Dentro das zonas de servidão non aedificandi que são limitadas de cada lado da estrada por uma linha que dista 20 m do seu eixo ou 25 m nos primeiros 5 km das saídas das cidades.
 
@@ -181,9 +209,9 @@ d) As construções nas proximidades de estradas com características superiores
 
 15.º Os artigos 114.º, 115.º, 116.º, 117.º e seus parágrafos passam a ter as seguintes redacções:
 
-###### Art. 114.º Salvo o disposto no artigo seguinte, não será permitida a colocação de quaisquer inscrições, tabuletas, anúncios ou outros objectos de publicidade, com ou sem carácter comercial, em lugares visíveis das estradas nacionais e das vias rápidas urbanas, nas faixas de 150 m de largura para cada lado no respectivo eixo ou no enfiamento dos alinhamentos rectos das referidas vias de comunicação, qualquer que seja a distância.
+Art. 114.º Salvo o disposto no artigo seguinte, não será permitida a colocação de quaisquer inscrições, tabuletas, anúncios ou outros objectos de publicidade, com ou sem carácter comercial, em lugares visíveis das estradas nacionais e das vias rápidas urbanas, nas faixas de 150 m de largura para cada lado no respectivo eixo ou no enfiamento dos alinhamentos rectos das referidas vias de comunicação, qualquer que seja a distância.
 
-###### Art. 115.º Poderão exceptuar-se do estabelecido no artigo anterior quando se reconheça não haver prejuízo para a segurança da circulação nem para o aspecto natural da paisagem e sejam considerados esteticamente aceitáveis:
+Art. 115.º Poderão exceptuar-se do estabelecido no artigo anterior quando se reconheça não haver prejuízo para a segurança da circulação nem para o aspecto natural da paisagem e sejam considerados esteticamente aceitáveis:
 
 a) Os objectos de publicidade colocados em construções e existentes no interior dos aglomerados urbanos;
 
@@ -195,7 +223,7 @@ b) Os objectos de publicidade relativos a serviços de interesse público ou que
 
 § 3.º Os objectos de publicidade instalados nas imediações das vias de comunicação referidas no artigo 114.º não poderão ter disposições, formatos ou cores que possam confundir-se com os da sinalização do trânsito.
 
-###### Art. 116.º Não é permitida a instalação de dispositivos de iluminação, associados ou não a objectos de publicidade, que possam prejudicar a segurança da circulação automóvel nas vias a que se refere o artigo 114.º desta portaria.
+Art. 116.º Não é permitida a instalação de dispositivos de iluminação, associados ou não a objectos de publicidade, que possam prejudicar a segurança da circulação automóvel nas vias a que se refere o artigo 114.º desta portaria.
 
 Na iluminação dos objectos de publicidade será vedado em todos os casos o emprego das cores encarnada e verde, reservadas para a sinalização do trânsito.
 
@@ -209,7 +237,7 @@ As importâncias em dívida, quando não pagas, voluntàriamente, serão cobrada
 
 Esgotado o prazo fixado neste preceito, proceder-se-á em conformidade com o estabelecido no parágrafo anterior.
 
-###### Art. 117.º São consideradas vias rápidas urbanas para os efeitos da presente portaria as vias de circulação, como tal classificadas, que prolonguem as estradas nacionais no interior dos centros urbanos ou que desempenhem as funções de auto-estradas urbanas dentro ou na periferia desses centros e para as quais haja reconhecida conveniência em estabelecer medidas especiais visando a segurança do tráfego automóvel e a facilidade de circulação.
+Art. 117.º São consideradas vias rápidas urbanas para os efeitos da presente portaria as vias de circulação, como tal classificadas, que prolonguem as estradas nacionais no interior dos centros urbanos ou que desempenhem as funções de auto-estradas urbanas dentro ou na periferia desses centros e para as quais haja reconhecida conveniência em estabelecer medidas especiais visando a segurança do tráfego automóvel e a facilidade de circulação.
 
 § único. A classificação das vias rápidas será feita em portaria do governador-geral, ouvida a Junta Autónoma de Estradas de Angola e as autarquias locais interessadas, entidades que poderão tomar a iniciativa de propor esta classificação.
 
@@ -219,7 +247,7 @@ Esgotado o prazo fixado neste preceito, proceder-se-á em conformidade com o est
 
 17.º O artigo 125.º e o seu § 1.º passam a ter a seguinte redacção:
 
-###### Art. 125.º Os trabalhos de reposição de pavimentos das estradas nacionais ou de quaisquer dos seus pertences que tenham sido destruídos ou danificados por motivo de obras que interessem a terceiros serão sempre custeados por estes e a sua execução efectuada pelas respectivas direcções regionais de estradas.
+Art. 125.º Os trabalhos de reposição de pavimentos das estradas nacionais ou de quaisquer dos seus pertences que tenham sido destruídos ou danificados por motivo de obras que interessem a terceiros serão sempre custeados por estes e a sua execução efectuada pelas respectivas direcções regionais de estradas.
 
 § 1.º Para a execução dos trabalhos a que se refere este artigo deverá a entidade interessada depositar prèviamente na tesouraria da Junta Autónoma de Estradas de Angola, mediante guia passada pela respectiva direcção regional, a importância orçamentada dos mesmos trabalhos, a não ser que, por despacho do governador-geral, tenha sido dispensada desse depósito.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2002-303191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cac6317a88767c4dc7cc499dfa540bfb1cb3bd5d92ea60ea19899d6ec14f5b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2edbebb093f075c856443b4828a10d68452943f0a0de1466d011804c2957529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira Técnica Superior
-- Inspeção Geral de Finanças
-- Criação de Lugares
 - Carreira Profissional
+- Carreira Técnica Superior
+- Criação de Lugares
 - Extinção de Lugares
+- Inspeção Geral de Finanças
 - Pessoal de Chefia
 - Pessoal Técnico Superior
 - Quadro de Pessoal
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438072:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:44Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +157,7 @@ O artigo 5.º do [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detal
 
 ###### Artigo 2.º — Reclassificação
 
-**O chefe de repartição do quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), de 11 de Agosto, é reclassificado de acordo com o disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.**
+O chefe de repartição do quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexo ao [Decreto-Lei n.º 249/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), de 11 de Agosto, é reclassificado de acordo com o disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
 ###### Artigo 3.º — Criação do lugar
 
@@ -157,12 +173,12 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Alberto de Sousa Martins.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

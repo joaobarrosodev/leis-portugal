@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/06/14300/11041106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-1978-298435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de9c379f4b697611b125ac7fc0588da825dece84cfd871c65d650cb0d1d4cb9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daf6efbf826fb020d46ebadfcd03aeeda593a7ea9395ebcca12cca8266a9ae05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Proteção do Ambiente
+- Regulamento
+- Reserva Natural do Sapal de Castro Marim
 relationships:
 - type: amended_by
   target: pt:dre:439871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:327329:por
+  label: Rectificado, alterando a constituição do conselho geral, o art. 19.º do Regulamento aprovado pelo presente diploma,
+    pela PORT.647/78.07.11.1978.PCM, DR.IS [256] de 07.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1978-327329
+  date: '1978-11-07'
+- type: amended_by
+  target: pt:dre:361091:por
+  label: "Alterado o art. 19.º do presente diploma, na redacção dada pela Port 647/78, de 07-Nov, pela PORT.813/88.19.12.1988.MF,\
+    \ DR.IS [291] de 19.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/813-1988-361091
+  date: '1988-12-19'
+- type: amended_by
+  target: pt:dre:575352:por
+  label: "Alterado o art. 19.º (na redacção da Port 813/88, de 19-Dez) e o n.º 2 do art. 20.º pela PORT.490/90.30.06.1990.MF,\
+    \ DR.IS [149] de 30.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-1990-575352
+  date: '1990-06-30'
+- type: cites
+  target: pt:dre:161503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439871:por
+  label: "Revogado o presente diploma, nos termos do n.º 6 do art. 23.º do Dec Lei 142/2008, de 24-Jul, com a publicação do\
+    \ PORNSCMVRSA, pela RES.181/2008.24.11.2008.PCM, DR.IS [228] de 24.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/181-2008-439871
+  date: '2008-11-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:38:41Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +146,7 @@ REGULAMENTO DA RESERVA DO SAPAL DE CASTRO MARIM-VILA REAL DE SANTO ANTÓNIO
 
 #### SECÇÃO I — Normas gerais de utilização da reserva
 
-###### Artigo 1.º - 1 - Dentro da área da reserva os acessos serão definidos por sinalização.
+Artigo 1.º - 1 - Dentro da área da reserva os acessos serão definidos por sinalização.
 
 2 - Os acessos terrestres existentes ou a construir serão classificados em três tipos:
 
@@ -136,17 +172,17 @@ d) Em todos os outros esteiros a circulação fica proibida, podendo fazer-se, e
 
 6 - Os acessos aéreos ficam formalmente proibidos, assim como o sobrevoo da área da reserva por aeronaves circulando a um tecto de voo inferior a 200 m.
 
-###### Art. 2.º É proibido o acesso do público fora dos caminhos e veredas devidamente assinalados, não podendo ser pisado nem danificado por qualquer processo o manto vegetal existente.
+Art. 2.º É proibido o acesso do público fora dos caminhos e veredas devidamente assinalados, não podendo ser pisado nem danificado por qualquer processo o manto vegetal existente.
 
-###### Art. 3.º Fora das áreas agrícolas é proibido colher plantas ou partes de plantas não cultivadas, realizar movimentos de terras ou amanhos agrícolas, salvo quando tal seja expressamente autorizado pela direcção.
+Art. 3.º Fora das áreas agrícolas é proibido colher plantas ou partes de plantas não cultivadas, realizar movimentos de terras ou amanhos agrícolas, salvo quando tal seja expressamente autorizado pela direcção.
 
-###### Art. 4.º - 1 - É proibida a caça ou apanha de animais vivos dentro da área da reserva.
+Art. 4.º - 1 - É proibida a caça ou apanha de animais vivos dentro da área da reserva.
 
 2 - Poderá, em casos excepcionais, ouvida a Comissão Venatória Concelhia de Castro Marim, ser permitida a caça ao coelho e à lebre, mas sempre fora das zonas húmidas consideradas no ordenamento da reserva.
 
 3 - As autorizações concedidas ao abrigo do número anterior serão obrigatoriamente visadas pelo representante da Comissão Venatória Concelhia e pelo director da reserva.
 
-###### Art. 5.º - 1 - É proibida a pesca com redes ou com quaisquer artefactos que visem a comercialização do produto da mesma.
+Art. 5.º - 1 - É proibida a pesca com redes ou com quaisquer artefactos que visem a comercialização do produto da mesma.
 
 2 - É permitida a pesca desportiva nos locais demarcados ou a demarcar posteriormente por solicitação de associações de amadores de pesca.
 
@@ -154,17 +190,17 @@ d) Em todos os outros esteiros a circulação fica proibida, podendo fazer-se, e
 
 4 - Estas actividades necessitarão de autorização escrita da direcção da reserva, ouvido o conselho geral.
 
-###### Art. 6.º É proibido deitar papéis ou qualquer espécie de detritos ou lixo para o chão, existindo depósitos apropriados para o efeito.
+Art. 6.º É proibido deitar papéis ou qualquer espécie de detritos ou lixo para o chão, existindo depósitos apropriados para o efeito.
 
-###### Art. 7.º É proibido fazer lume dentro da área da reserva, exceptuando-se para o efeito as zonas urbanas e as zonas agrícolas.
+Art. 7.º É proibido fazer lume dentro da área da reserva, exceptuando-se para o efeito as zonas urbanas e as zonas agrícolas.
 
-###### Art. 8.º A reserva proporcionará passeios guiados através dos sapais e da zona urbana, para o que será elaborado um roteiro dos principais percursos e dos objectivos de cada um.
+Art. 8.º A reserva proporcionará passeios guiados através dos sapais e da zona urbana, para o que será elaborado um roteiro dos principais percursos e dos objectivos de cada um.
 
-###### Art. 9.º No caso de excursões das escolas ou associações culturais, juvenis ou outras, que reúnam em simultâneo grande número de visitantes deve a visita ser comunicada à direcção da reserva com, pelo menos, oito dias de antecedência, indicando-se o número de visitantes e a finalidade da visita, para que se preparem os diferentes grupos, bem como as actividades que podem ser proporcionadas, no âmbito das funções culturais da reserva.
+Art. 9.º No caso de excursões das escolas ou associações culturais, juvenis ou outras, que reúnam em simultâneo grande número de visitantes deve a visita ser comunicada à direcção da reserva com, pelo menos, oito dias de antecedência, indicando-se o número de visitantes e a finalidade da visita, para que se preparem os diferentes grupos, bem como as actividades que podem ser proporcionadas, no âmbito das funções culturais da reserva.
 
 #### SECÇÃO II — Normas especiais de utilização
 
-###### Art. 10.º Serão definidas as seguintes zonas:
+Art. 10.º Serão definidas as seguintes zonas:
 
 a) Zonas de reserva integral;
 
@@ -176,7 +212,7 @@ d) Zonas húmidas;
 
 e) Zona urbana.
 
-###### Art. 11.º - 1 - São zonas de reserva integral as áreas destinadas exclusivamente à observação científica e ao estudo, nas quais apenas é admitida a entrada de pessoas acompanhadas por um guia do parque.
+Art. 11.º - 1 - São zonas de reserva integral as áreas destinadas exclusivamente à observação científica e ao estudo, nas quais apenas é admitida a entrada de pessoas acompanhadas por um guia do parque.
 
 2 - Pelo elevado valor científico que representam, é interdito nestas zonas o acesso livre do público, para que se não perturbe a evolução natural dos eco-sistemas presentes.
 
@@ -184,27 +220,27 @@ e) Zona urbana.
 
 4 - As áreas de reserva integral serão assinaladas, em toda a sua periferia, por marcos e tabuletas indicativos, podendo, se as circunstâncias o justificarem, vir a ser cercadas por vedação ou sebe que impossibilite o acesso não autorizado de pessoas.
 
-###### Art. 12.º - 1 - São consideradas zonas de produção agrícola aquelas em que se pretende desenvolver um tipo de agricultura que não afecte o equilíbrio natural da reserva.
+Art. 12.º - 1 - São consideradas zonas de produção agrícola aquelas em que se pretende desenvolver um tipo de agricultura que não afecte o equilíbrio natural da reserva.
 
 2 - Estas actividades serão apoiadas pelos técnicos agrários da reserva, visando auxiliar e promover a actividade dos agricultores.
 
 3 - A área agrícola prevista no ordenamento da reserva não pode ser alargada nem desviada para outro uso.
 
-###### Art. 13.º - 1 - São consideradas zonas de salinas aquelas em que se desenvolve a actividade económica da extracção do sal.
+Art. 13.º - 1 - São consideradas zonas de salinas aquelas em que se desenvolve a actividade económica da extracção do sal.
 
 2 - A área actual de salinas não pode ser aumentada.
 
 3 - Pode prever-se a reconversão de salinas em outras actividades económicas que não alterem a sua condição de zona húmida, nomeadamente a maricultura, podendo a reserva apoiar os interessados nesta reconversão por intermédio do seu centro experimental de biologia marítima.
 
-###### Art. 14.º Nas zonas húmidas definidas no ordenamento da reserva serão observadas as normas gerais anteriormente definidas que se mostrem mais adequadas.
+Art. 14.º Nas zonas húmidas definidas no ordenamento da reserva serão observadas as normas gerais anteriormente definidas que se mostrem mais adequadas.
 
-###### Art. 15.º A zona urbana compreende o aglomerado populacional de Castro Marim, incluindo a parte histórica da vila, classificada como monumento nacional, e ainda uma zona prevista para a expansão do aglomerado.
+Art. 15.º A zona urbana compreende o aglomerado populacional de Castro Marim, incluindo a parte histórica da vila, classificada como monumento nacional, e ainda uma zona prevista para a expansão do aglomerado.
 
 ### CAPÍTULO II — Da orgânica da reserva
 
-###### Art. 16.º A reserva do sapal de Castro Marim-Vila Real de Santo António tem a sua sede administrativa na vila de Castro Marim.
+Art. 16.º A reserva do sapal de Castro Marim-Vila Real de Santo António tem a sua sede administrativa na vila de Castro Marim.
 
-###### Art. 17.º São órgãos da reserva do sapal:
+Art. 17.º São órgãos da reserva do sapal:
 
 a) O director;
 
@@ -212,9 +248,9 @@ b) O conselho geral;
 
 c) A comissão científica.
 
-###### Art. 18.º O director da reserva será um técnico do Serviço Nacional de Parques, Reservas e Património Paisagístico, a nomear nos termos do [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
+Art. 18.º O director da reserva será um técnico do Serviço Nacional de Parques, Reservas e Património Paisagístico, a nomear nos termos do [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
 
-###### Art. 19.º O conselho geral da reserva é presidido pelo director e constituído por este, por um representante da comissão científica e pelos representantes de cada uma das seguintes entidades por elas designados:
+Art. 19.º O conselho geral da reserva é presidido pelo director e constituído por este, por um representante da comissão científica e pelos representantes de cada uma das seguintes entidades por elas designados:
 
 Direcção-Geral de Portos;
 
@@ -242,7 +278,7 @@ Núcleo de Faro da Liga para a Protecção da Natureza;
 
 Delegação do Sul da Direcção-Geral dos Monumentos Nacionais.
 
-###### Art. 20.º - 1 - A comissão científica tem função consultiva sobre aspectos culturais e científicos relativos à região da reserva do sapal de Castro Marim-Vila Real de Santo António e funcionará nos termos definidos no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
+Art. 20.º - 1 - A comissão científica tem função consultiva sobre aspectos culturais e científicos relativos à região da reserva do sapal de Castro Marim-Vila Real de Santo António e funcionará nos termos definidos no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
 
 2 - A comissão científica é constituída pelos delegados das seguintes entidades:
 
@@ -264,8 +300,8 @@ Liga de Protecção à Natureza.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 21.º As necessidades da reserva em pessoal serão satisfeitas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico.
+Art. 21.º As necessidades da reserva em pessoal serão satisfeitas pelo Serviço Nacional de Parques, Reservas e Património Paisagístico.
 
-###### Art. 22.º Em tudo quanto não se encontre previsto no presente Regulamento será aplicável o disposto no [Decreto n.º 162/75](https://diariodarepublica.pt/dr/detalhe/decreto/162-1975-161503), de 27 de Março, e no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
+Art. 22.º Em tudo quanto não se encontre previsto no presente Regulamento será aplicável o disposto no [Decreto n.º 162/75](https://diariodarepublica.pt/dr/detalhe/decreto/162-1975-161503), de 27 de Março, e no [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro.
 
-**O Secretário de Estado do Ordenamento Físico e Ambiente, José Gomes Fernandes.**
+O Secretário de Estado do Ordenamento Físico e Ambiente, José Gomes Fernandes.

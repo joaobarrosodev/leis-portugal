@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/2003/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2003-423403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09ee939d047164cfa51e97e7a36d386095d0da831ded215668f3dd7ee8484b83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dada8280befd240947fe160f2b6bd8615aedd841f962ada5b521033c2bcc4847
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,21 @@ relationships:
   target: celex:32002L0003
   label: null
   source: http://data.europa.eu/eli/dir/2002/3/oj
+- type: repealed_by
+  target: pt:dre:342123:por
+  label: "Revogado, a partir de 28.09.2010, pelo DEC LEI.102/2010.23.09.2010.MAOT, DR.IS [186] de 23.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2010-342123
+  date: '2010-09-23'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:16Z'
   warnings: []
   errors: []
 ---
@@ -318,15 +323,15 @@ Os planos e programas previstos nos artigos 4.º e 7.º podem incluir sanções 
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 5 de Dezembro de 2003.**
+Promulgado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Especificações, valores alvo e objectivos a longo prazo aplicáveis ao ozono
 
@@ -340,17 +345,17 @@ Para serem válidos, os dados anuais sobre as excedências utilizados para verif
 
 II - Valores alvo aplicáveis ao ozono:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 III - Objectivos a longo prazo para o ozono:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 ## ANEXO II — Limiares de informação e de alerta
 
 I - Limiares de informação e de alerta aplicáveis ao ozono:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 II - Informação mínima a fornecer ao público caso seja excedido ou se preveja que venha a ser excedido o limiar de informação ou o limiar de alerta:
 
@@ -392,7 +397,7 @@ Acções recomendadas para reduzir as emissões.
 
 I - Informações a apresentar à Comissão:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 No âmbito do relatório anual, devem também fornecer-se as seguintes informações, caso ainda não tenham sido transmitidos, nos termos da Decisão n.º [97/101/CE](https://data.europa.eu/eli/dec/1997/101/oj?locale=pt), do Conselho, todos os dados horários disponíveis para o ozono, o dióxido de azoto e os óxidos de azoto relativos ao ano em causa:
 
@@ -408,7 +413,7 @@ Os percentis devem ser calculados por recurso ao método especificado na Decisã
 
 Na agregação de dados, bem como no cálculo dos parâmetros estatísticos, devem utilizar-se os seguintes critérios de validação:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 ## ANEXO IV — Critérios para a classificação e localização dos pontos de amostragem para a determinação das concentrações de ozono
 
@@ -416,7 +421,7 @@ No que respeita às medições fixas, deve ter-se em conta o seguinte:
 
 I - Critérios de localização em macroscala:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 No que respeita às estações rurais e rurais de fundo, deve ter-se em conta, sempre que necessário, a coordenação com as exigências estabelecidas pelo Regulamento (CE) n.º [1091/94](https://data.europa.eu/eli/reg/1994/1091/oj?locale=pt), da Comissão, relativo à protecção das florestas, na Comunidade, no que se refere à poluição atmosférica.
 
@@ -460,7 +465,7 @@ Tal facto implica uma selecção e interpretação adequadas dos dados no contex
 
 I - Número mínimo de pontos de amostragem para medições fixas em contínuo com o objectivo de avaliar a qualidade do ar, tendo em vista o cumprimento dos valores alvo, dos objectivos a longo prazo e dos limiares de informação e alerta, caso a medição em contínuo seja a única fonte de informações:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 II - Número mínimo de pontos de amostragem para medições fixas em zonas e aglomerações que cumpram os objectivos a longo prazo:
 
@@ -558,7 +563,7 @@ I - Objectivos de qualidade dos dados:
 
 Os seguintes objectivos de qualidade dos dados, relativos à precisão e exactidão dos métodos de avaliação, ao período mínimo de amostragem e à recolha de dados de medição, são apresentados como linhas de orientação para os programas de garantia de qualidade:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)](https://files.diariodarepublica.pt/1s/2003/12/293a00/85128521.pdf)
 
 A incerteza de um método de medição (com um intervalo de confiança de 95%) é definida de acordo com os princípios estabelecidos no guia da ISO Guide to the Expression of Uncertainty in Measurement (ISO 1993), ou na norma ISO 5725-1 Accuracy (trueness and precision) of measurement methods and results (1994) ou numa norma equivalente. As percentagens de incertezas constantes do quadro referem-se a medições individuais, determinadas para o período de cálculo dos valores alvo e objectivos a longo prazo, para um intervalo de confiança de 95%. A incerteza das medições fixas em contínuo deve interpretar-se em termos de aplicabilidade na gama de concentrações utilizadas para o limiar em causa.
 

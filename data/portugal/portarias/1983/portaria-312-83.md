@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-1983-312589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d955cd3083b6214c7ea3fdb6cc33a34db3c76a5b8dc3dc6e9bf9d8513e9b24ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5ee43ea5cac81987e1d5aaae4dfee9250bc8851706003099ea810b6c4726cda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Administrativo
+- Pessoal Dirigente
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19940328 - SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL PSIQUIÁTRICO DO LORVÃO, PELA PORT 174/94 DE 28-MAR DR.IS-B\
+    \ [73]\0 [73]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:281804:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:460816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:13Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +113,6 @@ Urgindo proceder à conveniente alteração, e em conformidade com o disposto no
 
 Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Assuntos Sociais e da Reforma Administrativa, alterar o quadro de pessoal do Hospital Psiquiátrico do Lorvão, aprovado pela [Portaria n.º 628/80](https://diariodarepublica.pt/dr/detalhe/portaria/628-1980-460816), de 16 de Setembro, conforme se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/07100/10301030.pdf))](https://files.diariodarepublica.pt/1s/1983/03/07100/10301030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/07100/10301030.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 11 de Fevereiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

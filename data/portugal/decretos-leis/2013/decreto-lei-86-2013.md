@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/06/12100/0374203743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2013/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2013-497403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4d2042a936257187644e5e20dddefea4410c5d7abdd57a9310dbc6c75fcf614
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8895d5dac5dadbbe419c4c27e8b4d174472de22ad0476d1d6fcabf366ddef451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Superior de Línguas e Administração
 - Denominação de Instituição
 - Ensino Particular
 - Ensino Superior Politécnico
+- Instituto Superior de Línguas e Administração
 - Interesse Público
 - Santarém
 relationships:
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:191166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:899909679:por
+  label: Revogado, a partir de 17 de dezembro de 2024, com efeitos a partir da data de início do ano letivo de 2024-2025,
+    pelo(a) Decreto-Lei n.º 105/2024 - Diário da República n.º 241/2024, Série I de 2024-12-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2024-899909679
+  date: '2024-12-12'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:01Z'
   warnings: []
   errors: []
 ---
@@ -149,12 +167,12 @@ O presente decreto-lei produz efeitos a partir da data de início do ano letivo 
 
 Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 20 de junho de 2013.**
+Promulgado em 20 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de junho de 2013.**
+Referendado em 21 de junho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

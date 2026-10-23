@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/1989, 2º Suplemento, Série I de 1989-10-13
   number: '236'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4484-(4) a 4484-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-1989-401278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06ae69eae99bd74ebc6f9f9cb92bdbef4d710dbb0baf60847b497fe14469409f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c055bd55d9a7445c8a60d56c128e7cb736ba714b772ae50978509101389809
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Educação Pré-escolar
+- Ensino Primário
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:624793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:203458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548980:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:505239:por
+  label: Rectificado pela DECL.DD3525.1989.10.31.PCM, DR.IS [251]2ºSupl de 31/Out/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505239
+  date: '1989-10-31'
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:10Z'
   warnings: []
   errors: []
 ---
@@ -195,4 +225,4 @@ Disposições finais
 
 Ministérios das Finanças e da Educação, 12 de Outubro de 1989. - O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado Adjunto do Ministro da Educação, José Augusto Perestrello de Alarcão Troni.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23602/00040005.pdf)

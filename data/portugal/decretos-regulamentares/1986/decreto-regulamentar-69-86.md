@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/28000/36613664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1986-221300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ccd04867d5ce3bccda4c04d80eb9682dc3953060604c7ef24771992e116efb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 938739cccc5afef32d37a0bfbd6651380d1573fcba0bee6a6f702709fa0b1905
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Economia
+- Ministério das Finanças
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:632932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666339:por
+  label: Alterado o quadro dos Serviços Sociais do Ministério das Finanças, pelo(a) Portaria n.º 320/87 - Diário da República
+    n.º 90/1987, Série I de 1987-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-1987-666339
+  date: '1987-04-18'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632932:por
+  label: "Revogado pelo DEC LEI.537/99.1999.12.13.MF,DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/537-1999-632932
+  date: '1999-12-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:56Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +154,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 O n.º 1 do artigo 27.º do Regulamento dos Serviços Sociais do Ministério das Finanças, aprovado pelo [Decreto n.º 356/72](https://diariodarepublica.pt/dr/detalhe/decreto/356-1972-689049), de 19 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 27.º - 1 - Os Serviços Sociais do Ministério das Finanças disporão de um quadro de pessoal a aprovar por decreto regulamentar, o qual incluirá a forma de provimento em categorias não prevista na lei geral, bem como a forma de integração do pessoal que à data da sua publicação presta serviço neste organismo.
+Art. 27.º - 1 - Os Serviços Sociais do Ministério das Finanças disporão de um quadro de pessoal a aprovar por decreto regulamentar, o qual incluirá a forma de provimento em categorias não prevista na lei geral, bem como a forma de integração do pessoal que à data da sua publicação presta serviço neste organismo.
 
 ###### Artigo 2.º — Direcção
 
@@ -169,16 +216,16 @@ b) Em categoria correspondente às funções que o funcionário ou agente efecti
 
 Aníbal António Cavaco Silva - José de Oliveira Costa.
 
-**Promulgado em 14 de Novembro de 1986.**
+Promulgado em 14 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Novembro de 1986.**
+Referendado em 20 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/28000/36613664.pdf))](https://files.diariodarepublica.pt/1s/1986/12/28000/36613664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/28000/36613664.pdf)

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-1977-139200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:17:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3317f9d2a0c0e7b2d922df7a10bfc4c6fd86ae84bc60b27479c6a2571fd42ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c91f39b56f31d2a9a1eae4597eec1166e6c6519d4a53555830f248fe7116de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração de Portos
+- Embarcação
+- Fiscalização
+- Licença de Pilotagem
+- Madeira.ilha Adjacente
+- Navegação Marítima
+- Normas de Segurança
+- Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes
+- Serviço de Pilotagem dos Portos e Barras
+- TAXA de Pilotagem
+relationships:
+- type: cites
+  target: pt:dre:312232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:17:13Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +114,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 É acrescentado ao Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, promulgado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, o artigo 49.º- A, com a seguinte redacção:
 
-###### Art. 49.º-A. Os pilotos efectivos podem ser colocados, em regime de comissão de serviço, em corporação ou secção diferente daquela a cuja lotação pertencem, por despacho do director-geral do Pessoal do Mar.
+Art. 49.º-A. Os pilotos efectivos podem ser colocados, em regime de comissão de serviço, em corporação ou secção diferente daquela a cuja lotação pertencem, por despacho do director-geral do Pessoal do Mar.
 
 § 1.º Antes de passarem a fazer serviço sob sua responsabilidade individual, os pilotos em comissão de serviço fazem um tirocínio, sob a vigilância a responsabilidade dos pilotos efectivos, pelo período de tempo julgado conveniente pelo chefe da corporação ou da secção, ouvidos os restantes pilotos, e homologado pelo director-geral do Pessoal do Mar.
 

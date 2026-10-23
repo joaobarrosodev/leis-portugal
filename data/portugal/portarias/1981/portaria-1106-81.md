@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1106-1981-567016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd462942966e74396bfb58a7936b78a323e7718656b68efa60d51261ccc4e252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c41d877d6e34834ecc007b504782d8ffee122613a40b9aeaff55aa95cadfd66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Hospital Distrital
+- Mirandela
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:290619:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386029:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Mirandela aprovado pela Port 806/80, de 10-Out, na redacção\
+    \ do presente diploma, pela PORT.480/84.20.07.1984.PCM, DR.IS [167] de 20.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/480-1984-386029
+  date: '1984-07-20'
+- type: amended_by
+  target: pt:dre:401304:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 806/80 de 10-Out, com as alterações constantes do presente diploma,\
+    \ pela PORT.909/84.14.12.1984.PCM, DR.IS [288] de 14.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/909-1984-401304
+  date: '1984-12-14'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:53Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +128,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas no quadro de pessoal do Hospital Distrital de Mirandela as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29800/33863386.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 7 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

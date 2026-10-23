@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2016/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2016-75060359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa20efe59ba76028765b69dcb13f5430a45ab06d893c87e71a71776702d719a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b45814d0ce6040157c619aa3f01b867c5caa11c18b7caf3249daddbd38f5686
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Carta de Condução
-- Exame de Condução
 - Atestado Médico
+- Carta de Condução
 - Código da Estrada
-- Multa
 - Contra-ordenação
+- Exame de Condução
+- Exame Médico
 - Exame Psicológico
 - Informática
-- Exame Médico
+- Multa
 - Prazo de Validade
 - Regulamento da Habilitação Legal para Conduzir
 relationships:
@@ -85,6 +85,27 @@ relationships:
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114315241:por
+  label: Alterado o art 10.º bem como os anexos I e V do Regulamento da Habilitação Legal para Conduzir aprovado em anexo
+    ao Dec Lei 138/2012, de 05-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º 151/2017 - Diário da República
+    n.º 235/2017, Série I de 2017-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2017-114315241
+  date: '2017-12-07'
+- type: amended_by
+  target: pt:dre:128071719:por
+  label: Alterado o art. 128.º do Código da Estrada aprovado pelo Dec Lei 114/94 de 03-mai, na versão republicada do Código
+    pela Lei 72/2013 de 03-set e na redação do presente diploma, pelo(a) Decreto-Lei n.º 2/2020 - Diário da República n.º
+    9/2020, Série I de 2020-01-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2020-128071719
+  date: '2020-01-14'
+- type: amended_by
+  target: pt:dre:176492357:por
+  label: Alterado o art. 21.º do Regulamento da Habilitação Legal para Conduzir aprovado em anexo ao Dec Lei 138/2012, de
+    05-jul, na versão republicada pelo presente diploma pelo(a) Decreto-Lei n.º 121/2021 - Diário da República n.º 248/2021,
+    Série I de 2021-12-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2021-176492357
+  date: '2021-12-24'
 - type: cites
   target: celex:31985R3821
   label: null
@@ -165,20 +186,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2009/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2009/08/13/p/dre
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0126
   label: null
   source: null
 article_structure:
-  article_count: 87
-  section_count: 64
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 73
+  section_count: 58
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:07Z'
   warnings: []
   errors: []
 ---
@@ -267,7 +336,9 @@ Os artigos 125.º, 128.º e 130.º do Código da Estrada, aprovado pelo [Decreto
 
 8 - Quem infringir o disposto nos n.os 3 e 5, sendo titular de licença válida, é sancionado com coima de (euro) 300 a (euro) 1 500.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - [...].
 
@@ -295,7 +366,9 @@ e) Exista registo de prova prática realizada em território nacional, em data p
 
 8 - A troca de título de condução estrangeiro é condicionada à aprovação do requerente a uma prova teórica componente do exame de condução quando exista registo de prova teórica realizada em território nacional, em data posterior à da obtenção do título estrangeiro, com resultado de reprovado.
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - [...].
 
@@ -335,7 +408,9 @@ Os artigos 9.º e 10.º do [Decreto-Lei n.º 138/2012](https://diariodarepublica
 
 5 - As cartas de condução de qualquer dos modelos aprovados por legislação anterior mantêm-se válidas ainda que a residência constante no título esteja desatualizada.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -383,7 +458,9 @@ Os artigos 7.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º, 26.º, 37.º, 
 
 6 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -397,7 +474,9 @@ Os artigos 7.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º, 26.º, 37.º, 
 
 6 - As condições impostas no n.º 1 são também aplicáveis aos restantes títulos estrangeiros que, nos termos do artigo 125.º do Código da Estrada, habilitam a conduzir em Portugal.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os condutores portadores de títulos de condução estrangeiros válidos que habilitem a conduzir em Portugal podem requerer a sua troca por carta de condução portuguesa para as categorias de veículos para que se encontrem habilitados, com dispensa de exame de condução:
 
@@ -419,7 +498,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 7 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -427,7 +508,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 3 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -445,7 +528,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -469,7 +554,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 11 - A revalidação das cartas de condução de qualquer uma das categorias AM, A1, A2, A, B1, B e BE, determina a revalidação de qualquer das outras categorias, desde que o atestado médico emitido para efeitos de revalidação a elas faça menção.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -485,7 +572,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 7 - O acesso por parte do IMT, I. P., às bases de dados do IRN, I. P., bem como e a utilização da plataforma dos serviços comuns do cartão do cidadão são isentos do pagamento de emolumentos e demais encargos devidos nos termos da legislação aplicável.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -497,7 +586,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 5 - Só podem conduzir veículos da categoria CE cuja massa máxima autorizada exceda 20.000 kg os condutores que não tenham completado 67 anos de idade.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -507,7 +598,9 @@ c) No prazo de 90 dias, contado da data de fixação de residência do seu titul
 
 4 - Cabe à SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., definir e publicitar as normas, os requisitos e as especificações dos sistemas informáticos de emissão de atestados médicos por via eletrónica, bem como promover a sua implementação pelos vários operadores.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -533,7 +626,9 @@ d) Carta de condução caducada nos termos da alínea b) do n.º 1 do artigo 130
 
 8 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -541,7 +636,9 @@ d) Carta de condução caducada nos termos da alínea b) do n.º 1 do artigo 130
 
 3 - Os procedimentos para a tradução referida no número anterior são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...].
 
@@ -599,13 +696,13 @@ b) Pelos estabelecimentos prestadores de cuidados de saúde do setor privado e s
 
 Visto e aprovado em Conselho de Ministros de 2 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - João Rodrigo Reis Carvalho Leão - Maria Constança Dias Urbano de Sousa - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Pedro Manuel Dias de Jesus Marques - Luís Medeiros Vieira.
 
-**Promulgado em 25 de julho de 2016.**
+Promulgado em 25 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de julho de 2016.**
+Referendado em 26 de julho de 2016.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva.
 
@@ -619,17 +716,27 @@ Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva.
 
 [...]
 
-#### SECÇÃO A — [...]
+SECÇÃO A
 
-#### SECÇÃO B — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+SECÇÃO B
 
-#### SECÇÃO C — [...]
+[...]
 
-#### SECÇÃO D — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
-## ANEXO V — [...]
+SECÇÃO C
+
+[...]
+
+SECÇÃO D
+
+[...]
+
+ANEXO V
+
+[...]
 
 [...]
 
@@ -887,23 +994,31 @@ A carta de condução não pode ser emitida ou revalidada a candidato ou conduto
 
 12.5 - Grupo 2 - Na emissão ou revalidação de cartas de condução do grupo 2, o médico da especialidade competente para além do disposto no grupo 1, deve ter em consideração os riscos e perigos adicionais ligados à condução dos veículos que entram na definição deste grupo.
 
-## ANEXO VI — [...]
+ANEXO VI
 
 [...]
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 QUADRO II
 
 [...]
 
-#### SECÇÃO II — [...]
+SECÇÃO II
 
-#### SECÇÃO III — [...]
+[...]
+
+SECÇÃO III
+
+[...]
 
 1 - [...]:
 
@@ -929,15 +1044,25 @@ f) [...]
 
 g) [...].
 
-## ANEXO VII — [...]
+ANEXO VII
 
-# PARTE I — [...]
+[...]
 
-# PARTE II — [...]
+PARTE I
 
-#### SECÇÃO I — [...]
+[...]
 
-#### SECÇÃO II — [...]
+PARTE II
+
+[...]
+
+SECÇÃO I
+
+[...]
+
+SECÇÃO II
+
+[...]
 
 1 - [...]:
 
@@ -1129,7 +1254,9 @@ g) [...].
 
 3.14 - [...].
 
-#### SECÇÃO III — [...]
+SECÇÃO III
+
+[...]
 
 1 - [...]:
 
@@ -1327,7 +1454,9 @@ g) [...].
 
 3.13 - [...].
 
-#### SECÇÃO IV — [...]
+SECÇÃO IV
+
+[...]
 
 1 - [...]:
 
@@ -1515,9 +1644,13 @@ g) [...].
 
 3.12 - [...].
 
-#### SECÇÃO V — [...]
+SECÇÃO V
 
-#### SECÇÃO VI — [...]
+[...]
+
+SECÇÃO VI
+
+[...]
 
 1 - [...]:
 
@@ -1655,9 +1788,13 @@ g) [...].
 
 3.9 - [...].
 
-# PARTE III — [...]
+PARTE III
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - [...].
 
@@ -1685,7 +1822,7 @@ d) [...].
 
 4 - Os veículos a utilizar na prova prática do exame de condução para obtenção das categorias AM, A1, A2 e A devem obedecer às características respetivamente previstas para a categoria de veículo a que o candidato se pretende habilitar, estar equipados com recetor de som do emissor instalado no veículo que transportado examinador, devendo este veículo pertencer à categoria B e possuir lotação de quatro ou de cinco lugares.
 
-#### SECÇÃO II
+SECÇÃO II
 
 [...]»
 
@@ -3105,7 +3242,7 @@ d) Número de controlo;
 
 e) A menção «modelo da União Europeia» em português e a menção «carta de condução» nas restantes línguas da Comunidade, impressas em cor-de-rosa a fim de constituir a trama de fundo da carta e ainda de forma ténue o escudo português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 f) As cores de referência são o azul pantone reflex blue e o amarelo pantone yellow.
 
@@ -3131,7 +3268,7 @@ c) É reservado um espaço no modelo da carta de condução da União Europeia q
 
 #### SECÇÃO B — Códigos harmonizados da União Europeia e códigos nacionais de restrições e adaptações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 #### SECÇÃO C — Dígitos identificadores dos serviços emissores de cartas de condução que precedem o número
 
@@ -3183,11 +3320,11 @@ Funchal - M.
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 1 - Apelidos 2. Nome próprio 3. Data e local de nascimento 4a. Data de emissão 4b. Data de validade 4c. Entidade emissora 5. Número da carta de condução 10. Data de emissão 11. Data de validade 12. Códigos
 
@@ -3247,11 +3384,11 @@ Versão A
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Versão B
 
@@ -3259,11 +3396,11 @@ Versão B
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 8.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -3297,7 +3434,7 @@ Disposições relativas à licença internacional de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -3311,7 +3448,7 @@ Página 2
 
 Verso da página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Esta página contém a seguinte menção específica:
 
@@ -3319,11 +3456,11 @@ Esta página contém a seguinte menção específica:
 
 Página 2 - Página da esquerda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página da direita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Estas páginas contêm as menções específicas numeradas da seguinte forma:
 
@@ -3343,7 +3480,7 @@ Estas páginas contêm as menções específicas numeradas da seguinte forma:
 
 Selo ou carimbo da entidade que retirou o direito de conduzir no seu território.
 
-#### SECÇÃO C — [([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+#### SECÇÃO C — [(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 ## ANEXO IV — (a que se referem os artigos 10.º a 12.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -3351,7 +3488,7 @@ Disposições relativas às licenças e autorizações especiais de condução
 
 #### SECÇÃO A — Licença especial de condução de ciclomotores
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de licença especial de condução n.º 150, exclusivo da Imprensa Nacional-Casa da Moeda, S. A.
 
@@ -3387,19 +3524,19 @@ b) Validade;
 
 c) Assinatura.
 
-# PARTE B — Modelo da licença especial de condução de ciclomotores
+## PARTE B — Modelo da licença especial de condução de ciclomotores
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 #### SECÇÃO B — Licença especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de licença especial de condução n.º 151, exclusivo da Imprensa Nacional-Casa da Moeda, S. A.
 
@@ -3439,19 +3576,19 @@ Restrições;
 
 A menção «Esta licença só é válida em Portugal e deve ser exibida com o título de condução estrangeiro» impressa em carateres maiúsculos.
 
-# PARTE B — Modelo da licença especial de condução
+## PARTE B — Modelo da licença especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 #### SECÇÃO C — Autorização especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de autorização especial de condução n.º 153, exclusivo do Instituto da Mobilidade e dos Transportes, I. P.
 
@@ -3501,15 +3638,15 @@ Validade;
 
 Restrições.
 
-# PARTE B — Modelo da autorização especial de condução
+## PARTE B — Modelo da autorização especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 ## ANEXO V — (a que se refere o artigo 23.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -3793,11 +3930,11 @@ Normas mínimas relativas à aptidão psicológica para a condução de um veíc
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14500/0249102555.pdf)
 
 #### SECÇÃO II — Metodologia de aplicação
 
@@ -3847,7 +3984,7 @@ g) Comportamentos que revelem a tendência para abusar de substâncias psicotró
 
 ## ANEXO VII — (a que se refere o n.º 2 do artigo 35.º do Regulamento da Habilitação Legal para Conduzir)
 
-# PARTE I — Prova teórica
+## PARTE I — Prova teórica
 
 #### SECÇÃO I — Categoria AM
 
@@ -4845,7 +4982,7 @@ IV - Específicas para as categorias D1 e D
 
 3.2 - Utilização e manutenção diária dos sistemas em conjuntos de automóveis pesados de passageiros.
 
-# PARTE II — Prova prática
+## PARTE II — Prova prática
 
 #### SECÇÃO I — Categorias AM
 
@@ -5863,7 +6000,7 @@ Conjunto compostos por um veículo da categoria B e reboque de massa máxima aut
 
 3.9 - Técnicas de condução defensiva.
 
-# PARTE III — Veículos de exame
+## PARTE III — Veículos de exame
 
 #### SECÇÃO I — Equipamento
 

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1979-382041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca60af8fca1916c9ca6dff15457a09b54bf5ba7fbd8a5297c1a0c78d98f94e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dba6c4cb5118fffdb736650c8391bb7d1bcd1aed5c051a1bc4b07a904a5f0abb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Nacional de Investigação Agrária
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:34Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +107,7 @@ Nestas circunstâncias, e de acordo com o disposto no artigo 12.º, conjugado co
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Transitam para o Instituto Nacional de Investigação Agrária, com efeito a partir da data de entrada em vigor deste diploma, os seguintes organismos:
+Artigo 1.º Transitam para o Instituto Nacional de Investigação Agrária, com efeito a partir da data de entrada em vigor deste diploma, os seguintes organismos:
 
 1) Da Direcção Regional da Beira Litoral:
 
@@ -117,7 +127,7 @@ Posto Experimental do Queijo da Serra.
 
 Posto de Culturas Regadas do Vale do Sorraia.
 
-###### Art. 2.º - 1 - Os móveis, utensílios, máquinas e viaturas com e sem motor e demais equipamentos, bem como toda a documentação, existentes nos organismos referidos no artigo anterior transitam para o INIA, mediante relações de cadastro devidamente discriminadas e assinadas pelos funcionários para o efeito designados pelo INIA e respectivas direcções regionais.
+Art. 2.º - 1 - Os móveis, utensílios, máquinas e viaturas com e sem motor e demais equipamentos, bem como toda a documentação, existentes nos organismos referidos no artigo anterior transitam para o INIA, mediante relações de cadastro devidamente discriminadas e assinadas pelos funcionários para o efeito designados pelo INIA e respectivas direcções regionais.
 
 2 - As quantias realizadas a partir de 1 de Janeiro de 1979 por qualquer daqueles organismos passam a constituir receita do INIA.
 
@@ -131,14 +141,14 @@ Posto de Culturas Regadas do Vale do Sorraia.
 
 7 - As instalações onde se encontram a funcionar os organismos referidos neste diploma passam para a total responsabilidade do INIA, cabendo também a este a satisfação de todos os encargos que a elas respeitem a partir da data de entrada em vigor do presente diploma.
 
-###### Art. 3.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 3.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, com o acordo do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 4.º Este diploma produz efeitos a partir de 1 de Janeiro de 1979.
+Art. 4.º Este diploma produz efeitos a partir de 1 de Janeiro de 1979.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 8 de Abril de 1979.**
+Promulgado em 8 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13900/0000700010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2020/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2020-138382326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5f242acb6763ca39f283d079a9df5a91b0b74aec1e586afa97eb9e0494c55c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1927764a33f4ae9d97b732cbdd15055bcc0e2bc5509a4f713fe6dc8c63ea99dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
 - Águas de Portugal
 - Águas Públicas
+- Albufeiras
 - Autoridade Nacional da ÁGUA
+- Barragem
 - Barragem da Apartadura
 - Barragem de Monte NOVO
-- Empreendimento de Fins Múltiplos do Alqueva
 - Contrato de Concessão
-- Recursos Hídricos
-- Empreendimento de Fins Múltiplos
-- Albufeiras
-- Barragem
-- Prazo
 - Domínio Público Hídrico
-- Abastecimento de Água
+- Empreendimento de Fins Múltiplos
+- Empreendimento de Fins Múltiplos do Alqueva
+- Prazo
+- Recursos Hídricos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/160/2019/10/24/p/dre
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:125633666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640353:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:35Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +153,9 @@ Os artigos 1.º, 2.º e 6.º do [Decreto-Lei n.º 160/2019](https://diariodarepu
 
 O presente decreto-lei procede à escolha das entidades gestoras e aprova as condições e os termos especiais dos contratos de concessão de atribuição da gestão das infraestruturas hidráulicas dos aproveitamentos classificados como equiparados a empreendimentos de fins múltiplos do Azibo, da Apartadura, do Monte Novo e de Odeleite-Beliche, bem como de todos os bens e meios afetos e necessários à operação, exploração, manutenção e gestão das respetivas infraestruturas comuns a todas as utilizações de usos principais existentes ou futuras.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -153,7 +167,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -179,15 +195,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Pedro Soeiro de Matos Fernandes - Maria do Céu de Oliveira Antunes Albuquerque.
 
-**Promulgado em 9 de julho de 2020.**
+Promulgado em 9 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de julho de 2020.**
+Referendado em 13 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -199,6 +215,8 @@ Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luí
 
 Tabela 1 - Permilagem associada aos diferentes utilizadores dos aproveitamentos classificados como equiparados a empreendimentos de fins múltiplos do Azibo, da Apartadura, do Monte Novo e de Odeleite-Beliche
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/07/13900/0000700010.pdf))](https://files.diariodarepublica.pt/1s/2020/07/13900/0000700010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/07/13900/0000700010.pdf)
 
 Sempre que se verifiquem alterações nos volumes máximos atribuídos ou sejam integrados novos utilizadores, a Agência Portuguesa do Ambiente, I. P., calcula as novas permilagens que são associadas por adenda aos respetivos contratos de gestão e de utilização dos recursos hídricos.»
+
+113394836

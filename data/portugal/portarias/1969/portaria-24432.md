@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 275/1969, 1º Suplemento, Série I de 1969-11-24
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1689 - 1690
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27501/16891690.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24432-1969-176292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72076392a5f318cbfab15013372962fc1c713ebd5b0069303024b45d672d102a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7206db2f1b8f52dd0a6376bdc64fbde701fc90ea5425dd828faf0d13ba641e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:441966:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:17Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Ministério da Saúde e Assistência, 24 de Novembro de 1969. - O Ministro da Sa
 
 Instruções sobre o boletim de sanidade
 
-###### Artigo 1.º São obrigatòriamente portadores do boletim de sanidade os preparadores, manipuladores e vendedores de substâncias alimentares, bem assim como os patrões, administradores e directores de fábricas ou estabelecimentos que fabricam, preparam, manipulam ou vendem substâncias alimentares, desde que intervenham em qualquer destas actividades ou operações.
+Artigo 1.º São obrigatòriamente portadores do boletim de sanidade os preparadores, manipuladores e vendedores de substâncias alimentares, bem assim como os patrões, administradores e directores de fábricas ou estabelecimentos que fabricam, preparam, manipulam ou vendem substâncias alimentares, desde que intervenham em qualquer destas actividades ou operações.
 
-###### Art. 2.º - 1. As profissões ligadas ao comércio e indústria de substâncias alimentares em que se exige desde já o boletim de sanidade são as seguintes:
+Art. 2.º - 1. As profissões ligadas ao comércio e indústria de substâncias alimentares em que se exige desde já o boletim de sanidade são as seguintes:
 
 a) O pessoal dos hotéis, pensões, hospedarias, restaurantes, cantinas, casas de pasto, botequins, bares, tabernas, adegas, casas de comidas e bebidas, quiosques com comidas e bebidas, cafés, casas de chá, pastelarias, confeitarias, mercearias e, bem assim, os vendedores ambulantes de bolos, gelados e sorvetes;
 
@@ -117,19 +121,19 @@ i) O pessoal das fábricas de refrigerantes, de cerveja, de preparação de bebi
 
 3. Poderão vir a ser obrigadas ao boletim de sanidade outras profissões, mediante propostas dos serviços técnicos da Direcção-Geral de Saúde, devidamente fundamentadas e depois de terem merecido aprovação ministerial.
 
-###### Art. 3.º - 1. Para efeito de obtenção do boletim de sanidade, as pessoas em relação às quais seja obrigatório possuí-lo estão sujeitas a um exame médico periódico.
+Art. 3.º - 1. Para efeito de obtenção do boletim de sanidade, as pessoas em relação às quais seja obrigatório possuí-lo estão sujeitas a um exame médico periódico.
 
 2. Para evitar aglomeração de interessados poderá o delegado ou o subdelegado de saúde distribuí-los por grupos e dias, quer segundo a ordem alfabética, quer por inscrição prévia, mediante afixação de aviso fixando as condições dessa distribuição.
 
-###### Art. 4.º Os exames médicos indispensáveis à obtenção do boletim de sanidade serão efectuados nas delegações ou subdelegações de saúde do concelho da residência dos interessados e de preferência nos dispensários de higiene social e centros de saúde que delas dependam.
+Art. 4.º Os exames médicos indispensáveis à obtenção do boletim de sanidade serão efectuados nas delegações ou subdelegações de saúde do concelho da residência dos interessados e de preferência nos dispensários de higiene social e centros de saúde que delas dependam.
 
-###### Art. 5.º - 1. Os exames médicos para efeito de passagem do boletim de sanidade ou sua revalidação são anuais e o seu prazo de validade conta-se desde a data da sua emissão ou revalidação.
+Art. 5.º - 1. Os exames médicos para efeito de passagem do boletim de sanidade ou sua revalidação são anuais e o seu prazo de validade conta-se desde a data da sua emissão ou revalidação.
 
 2. Quem no decurso do período de validade do boletim de sanidade tiver conhecimento de que o seu portador adquiriu doença incompatível com o exercício da sua profissão deverá comunicar o facto ao delegado ou subdelegado de saúde, que determinará o seu reexame em prazo não superior a cinco dias.
 
-###### Art. 6.º O boletim de sanidade terá força de atestado médico ou de documento autêntico equivalente todas as vezes que for exigível para a passagem da carteira profissional ou para satisfazer exigências das entidades fiscalizadoras do estado sanitário dos trabalhadores.
+Art. 6.º O boletim de sanidade terá força de atestado médico ou de documento autêntico equivalente todas as vezes que for exigível para a passagem da carteira profissional ou para satisfazer exigências das entidades fiscalizadoras do estado sanitário dos trabalhadores.
 
-###### Art. 7.º - 1. No acto do primeiro exame médico os interessados devem apresentar-se munidos dos seguintes documentos:
+Art. 7.º - 1. No acto do primeiro exame médico os interessados devem apresentar-se munidos dos seguintes documentos:
 
 a) Bilhete de identidade;
 
@@ -145,7 +149,7 @@ e) Estampilhas fiscais no valor disposto na lei.
 
 3. Para a revalidação do boletim de sanidade, pelo exame médico anual, o interessado deverá apresentar-se nas delegações ou subdelegações de saúde com o boletim de sanidade do ano anterior e estampilhas fiscais no valor disposto na lei.
 
-###### Art. 8.º - 1. Nos exames médicos para a obtenção do boletim de sanidade deverá averiguar-se pelo menos que:
+Art. 8.º - 1. Nos exames médicos para a obtenção do boletim de sanidade deverá averiguar-se pelo menos que:
 
 a) O examinado não sofre de doença contagiosa (designadamente de tuberculose pulmonar evolutiva), de doença cutânea transmissível ou repugnante e de doença mental;
 
@@ -157,7 +161,7 @@ c) O examinado possui a robustez e a capacidade física suficientes para o exerc
 
 3. Se o examinado não apresentar os atestados de vacina exigidos por lei ou regulamento, deverá proceder-se à sua vacinação ou revacinação no acto do exame, de harmonia com as normas de vacinação em vigor.
 
-###### Art. 9.º - 1. O médico poderá solicitar os exames médicos especializados que reputar absolutamente indispensáveis, bem como as análises laboratoriais e outros meios auxiliares de diagnóstico necessários, tanto quanto possível em estabelecimentos oficiais, com identificação do interessado e do estabelecimento, se não for possível obtê-los nos serviços do Ministério da Saúde e Assistência.
+Art. 9.º - 1. O médico poderá solicitar os exames médicos especializados que reputar absolutamente indispensáveis, bem como as análises laboratoriais e outros meios auxiliares de diagnóstico necessários, tanto quanto possível em estabelecimentos oficiais, com identificação do interessado e do estabelecimento, se não for possível obtê-los nos serviços do Ministério da Saúde e Assistência.
 
 2. Sempre que possível deverá proceder-se ao radiorrastreio nos dispensários e centros fixos do Instituto de Assistência Nacional aos Tuberculosos, a pedido das delegações e subdelegações de saúde.
 
@@ -167,9 +171,9 @@ Quando necessário, proceder-se-á também ao exame radioscópico ou radiográfi
 
 4. O Instituto de Assistência Nacional aos Tuberculosos enviará às delegações ou subdelegações de saúde as microrradiografias com os resultados das leituras dos trabalhadores obrigados a possuir o boletim de sanidade.
 
-###### Art. 10.º Para maior eficácia e extensão do radiorrastreio dos trabalhadores deverá estabelecer-se anualmente e com a devida antecedência um calendário de trabalho das brigadas de radiorrastreio, de comum acordo entre o Instituto de Assistência Nacional aos Tuberculosos e as delegações de saúde distritais.
+Art. 10.º Para maior eficácia e extensão do radiorrastreio dos trabalhadores deverá estabelecer-se anualmente e com a devida antecedência um calendário de trabalho das brigadas de radiorrastreio, de comum acordo entre o Instituto de Assistência Nacional aos Tuberculosos e as delegações de saúde distritais.
 
-###### Art. 11.º - 1. O resultado do exame médico, quando favorável, será indicado resumidamente no boletim de sanidade.
+Art. 11.º - 1. O resultado do exame médico, quando favorável, será indicado resumidamente no boletim de sanidade.
 
 A estampilha fiscal correspondente ao valor do imposto do selo devido pela emissão do boletim de sanidade será inutilizada com a assinatura do médico que efectuar o exame e esta será autenticada com o selo branco da delegação ou subdelegação de saúde.
 
@@ -177,7 +181,7 @@ A estampilha fiscal correspondente ao valor do imposto do selo devido pela emiss
 
 3. Quando o resultado do exame for desfavorável, o boletim de sanidade não será restituído e ficará arquivado nas delegações ou subdelegações de saúde em anexo à ficha do interessado.
 
-###### Art. 12.º - 1. Os profissionais a quem não seja passado o boletim de sanidade, por serem doentes de tuberculose pulmonar evolutiva, serão enviados ao Instituto de Assistência Nacional aos Tuberculosos para tratamento sanatorial ou ambulatório.
+Art. 12.º - 1. Os profissionais a quem não seja passado o boletim de sanidade, por serem doentes de tuberculose pulmonar evolutiva, serão enviados ao Instituto de Assistência Nacional aos Tuberculosos para tratamento sanatorial ou ambulatório.
 
 2. Para este efeito as subdelegações enviarão às delegações de saúde uma nota confidencial acerca do doente assim identificado.
 
@@ -185,14 +189,14 @@ A estampilha fiscal correspondente ao valor do imposto do selo devido pela emiss
 
 E, sempre que se tratar de famílias econòmicamente débeis, as delegações de saúde remeterão os respectivos processos ao Instituto de Assistência à Família, a fim de este procurar prestar a essas famílias os socorros adequados.
 
-###### Art. 13.º Todo o profissional apresentado para exame médico deverá, tanto quanto isso seja possível, fazer prova da actividade a que se vai dedicar.
+Art. 13.º Todo o profissional apresentado para exame médico deverá, tanto quanto isso seja possível, fazer prova da actividade a que se vai dedicar.
 
 Este documento poderá ao mesmo tempo servir para comprovar a qualidade do novo profissional.
 
 Neste caso, o exame médico será feito no momento da sua apresentação ou num dos três dias seguintes.
 
-###### Art. 14.º Quaisquer casos omissos, dúvidas e reclamações serão resolvidos pela Direcção-Geral de Saúde.
+Art. 14.º Quaisquer casos omissos, dúvidas e reclamações serão resolvidos pela Direcção-Geral de Saúde.
 
-###### Art. 15.º As presentes instruções entram em vigor no dia 1 de Janeiro de 1970 e substituem as aprovadas anteriormente pela [Portaria n.º 17512](https://diariodarepublica.pt/dr/detalhe/portaria/17512-1959-441966), de 29 de Dezembro de 1959.
+Art. 15.º As presentes instruções entram em vigor no dia 1 de Janeiro de 1970 e substituem as aprovadas anteriormente pela [Portaria n.º 17512](https://diariodarepublica.pt/dr/detalhe/portaria/17512-1959-441966), de 29 de Dezembro de 1959.
 
 Ministério da Saúde e Assistência, 24 de Novembro de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

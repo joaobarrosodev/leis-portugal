@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/24300/18581864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/713-1973-412254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5c5e3e41096e42904f586f8d4a838b70efac654c534ce189479bf4e37b13515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bb1ff7bae4be6c63b8c13ac28b2ac838c134465e24533eee16363d78477b410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Técnico da Cerâmica
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Secretaria de Estado da Indústria
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O CENTRO TÉCNICO DA CERAMICA PELO DECRETO LEI 358/76, PUBLICADO NO DR.IS, 113, DE 760514.\060514.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:428021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428021:por
+  label: Extintos os Centros Técnicos da Cerâmica, do Metal e da Madeira, criados ao abrigo do Dec Lei 180/73, de 19-abr,
+    e, respetivamente, pela presente e pelas Ports 733/73, de 24-out, e 740/73, de 25-out, pelo(a) Decreto-Lei n.º 358/76
+    - Diário da República n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1976-428021
+  date: '1976-05-14'
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:17Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +128,13 @@ ESTATUTOS DO CENTRO TÉCNICO DA CERÂMICA
 
 ### CAPÍTULO I — Denominação, natureza e fins
 
-###### Artigo 1.º - 1. Os presentes Estatutos regem o Centro Técnico da Cerâmica, pessoa colectiva de direito privado sem fim lucrativo, criado pela Portaria n.º 713/73, do Secretário de Estado da Indústria, ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
+Artigo 1.º - 1. Os presentes Estatutos regem o Centro Técnico da Cerâmica, pessoa colectiva de direito privado sem fim lucrativo, criado pela Portaria n.º 713/73, do Secretário de Estado da Indústria, ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
 
 2. O Centro Técnico da Cerâmica terá a sua sede em Coimbra.
 
-###### Art. 2.º O Centro Técnico da Cerâmica tem por finalidade apoiar directamente os seus membros, promovendo o desenvolvimento dos respectivos sectores, de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
+Art. 2.º O Centro Técnico da Cerâmica tem por finalidade apoiar directamente os seus membros, promovendo o desenvolvimento dos respectivos sectores, de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
 
-###### Art. 3.º O Centro Técnico tem, fundamentalmente, as seguintes atribuições:
+Art. 3.º O Centro Técnico tem, fundamentalmente, as seguintes atribuições:
 
 a) Promover a aplicação pelas empresas industriais dos conhecimentos e inovações adquiridos no País e no estrangeiro, com vista a facilitar a modernização das mesmas nos seus diferentes aspectos, sem prejuízo da propriedade e confidencialidade de tecnologias específicas das empresas;
 
@@ -118,7 +146,7 @@ d) Promover a formação e o aperfeiçoamento do pessoal de todas as categorias,
 
 e) Elaborar estudos sectoriais e outros com interesse para a expansão dos sectores e promover acções de índole colectiva.
 
-###### Art. 4.º Para a consecução dos fins previstos no artigo anterior, deve o Centro Técnico da Cerâmica, nomeadamente:
+Art. 4.º Para a consecução dos fins previstos no artigo anterior, deve o Centro Técnico da Cerâmica, nomeadamente:
 
 a) Prestar assistência técnica às empresas;
 
@@ -146,9 +174,9 @@ m) Manter ligações de carácter técnico com organismos afins, nacionais, estr
 
 ### CAPÍTULO II — Dos membros
 
-###### Art. 5.º Há três categorias de membros, efectivos aderentes e honorários. Os membros efectivos poderão ser ainda contribuintes e comuns.
+Art. 5.º Há três categorias de membros, efectivos aderentes e honorários. Os membros efectivos poderão ser ainda contribuintes e comuns.
 
-###### Art. 6.º - 1. São obrigatoriamente membros efectivos do Centro Técnico os industriais portugueses fabricantes de produtos cerâmicos, e devidamente inscritos no Grémio dos Industriais de Cerâmica.
+Art. 6.º - 1. São obrigatoriamente membros efectivos do Centro Técnico os industriais portugueses fabricantes de produtos cerâmicos, e devidamente inscritos no Grémio dos Industriais de Cerâmica.
 
 2. Serão membros efectivos contribuintes:
 
@@ -156,19 +184,19 @@ a) Obrigatoriamente os referidos em 1 inscritos no grupo A do Grémio e com uma 
 
 b) Facultativamente, todos os membros comuns.
 
-###### Art. 7.º Podem ser membros aderentes do Centro todas as entidades, nacionais ou estrangeiras, que de algum modo estejam ligadas à indústria cerâmica (tais como fornecedores de equipamento ou matérias-primas, consumidores, exportadores, empresas cerâmicas insulares e ultramarinas, etc.), ou que sejam de índole semelhante à do Centro (tais como outros centros técnicos, institutos e laboratórios de investigação aplicada, etc.).
+Art. 7.º Podem ser membros aderentes do Centro todas as entidades, nacionais ou estrangeiras, que de algum modo estejam ligadas à indústria cerâmica (tais como fornecedores de equipamento ou matérias-primas, consumidores, exportadores, empresas cerâmicas insulares e ultramarinas, etc.), ou que sejam de índole semelhante à do Centro (tais como outros centros técnicos, institutos e laboratórios de investigação aplicada, etc.).
 
-###### Art. 8.º A admissão e as condições para a admissão dos membros aderentes só podem ser determinadas pelo conselho de administração, que fixará também as quotas a pagar em cada caso particular.
+Art. 8.º A admissão e as condições para a admissão dos membros aderentes só podem ser determinadas pelo conselho de administração, que fixará também as quotas a pagar em cada caso particular.
 
-###### Art. 9.º Os membros efectivos comuns e os aderentes não podem ser eleitos para qualquer cargo dos órgãos de gestão, tendo, porém, todos os direitos e deveres dos membros efectivos contribuintes, com excepção do direito de voto.
+Art. 9.º Os membros efectivos comuns e os aderentes não podem ser eleitos para qualquer cargo dos órgãos de gestão, tendo, porém, todos os direitos e deveres dos membros efectivos contribuintes, com excepção do direito de voto.
 
-###### Art. 10.º - 1. Os membros honorários serão quaisquer individualidades que, por serviços ou outras causas especiais, sejam designados pelo conselho de administração para o efeito.
+Art. 10.º - 1. Os membros honorários serão quaisquer individualidades que, por serviços ou outras causas especiais, sejam designados pelo conselho de administração para o efeito.
 
 2. Os membros honorários que não sejam ao mesmo tempo efectivos ou aderentes não estão sujeitos a quaisquer deveres destes, nem os seus nomes constarão das listas destes membros, havendo para eles uma lista em separado.
 
-###### Art. 11.º A ratificação da designação dos membros honorários é feita em reunião da assembleia geral.
+Art. 11.º A ratificação da designação dos membros honorários é feita em reunião da assembleia geral.
 
-###### Art. 12.º Os membros efectivos têm os seguintes direitos:
+Art. 12.º Os membros efectivos têm os seguintes direitos:
 
 a) Propor e discutir em assembleia geral as iniciativas, os actos e os factos que interessam à vida do Centro;
 
@@ -178,7 +206,7 @@ c) Requerer a convocação extraordinária da assembleia geral, justificando os 
 
 d) Beneficiar de todas as regalias obtidas pelo Centro e das facilidades nele criadas.
 
-###### Art. 13.º Os membros efectivos têm os seguintes deveres:
+Art. 13.º Os membros efectivos têm os seguintes deveres:
 
 a) Pagar regularmente a quota, conforme o prazo e a importância determinados, bem como todas as quantias devidas por serviços ou bens adquiridos;
 
@@ -192,7 +220,7 @@ e) Proceder dentro dos moldes que garantam a eficácia, disciplina e prestígio 
 
 f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior qualquer cargo do Centro, ou se apresentar motivo justificado que mereça a concordância do conselho de administração.
 
-###### Art. 14.º Perde-se a qualidade de membro do Centro:
+Art. 14.º Perde-se a qualidade de membro do Centro:
 
 1 - Por interdição, dissolução, falência ou insolvência judicial;
 
@@ -202,13 +230,13 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 ### CAPÍTULO III — Dos órgãos de gestão
 
-###### Art. 15.º São órgãos do Centro Técnico Cooperativo da Cerâmica a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 15.º São órgãos do Centro Técnico Cooperativo da Cerâmica a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 16.º A assembleia geral é constituída por todos os membros do Centro.
+Art. 16.º A assembleia geral é constituída por todos os membros do Centro.
 
-###### Art. 17.º A assembleia geral elegerá de entre os seus membros um presidente, um vice-presidente e um secretário, por um período de três anos, renovável uma e mais vezes.
+Art. 17.º A assembleia geral elegerá de entre os seus membros um presidente, um vice-presidente e um secretário, por um período de três anos, renovável uma e mais vezes.
 
-###### Art. 18.º Compete à assembleia geral:
+Art. 18.º Compete à assembleia geral:
 
 1 - Apreciar e votar as alterações dos estatutos do Centro que lhe forem submetidas;
 
@@ -222,9 +250,9 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 6 - Designar os membros electivos da comissão de remunerações mencionada nos artigos 29.º, 38.º e 48.º
 
-###### Art. 19.º A assembleia geral reunir-se-á pelo menos uma vez por ano para dar cumprimento ao disposto no n.º 4 do artigo 18.º sendo obrigatória a comparência do conselho de administração e do conselho fiscal. Poderá ainda reunir-se extraordinariamente por iniciativa do presidente e a pedido do conselho de administração ou de, pelo menos, cinquenta dos seus membros.
+Art. 19.º A assembleia geral reunir-se-á pelo menos uma vez por ano para dar cumprimento ao disposto no n.º 4 do artigo 18.º sendo obrigatória a comparência do conselho de administração e do conselho fiscal. Poderá ainda reunir-se extraordinariamente por iniciativa do presidente e a pedido do conselho de administração ou de, pelo menos, cinquenta dos seus membros.
 
-###### Art. 20.º - 1. Na assembleia geral, e para todas as votações normais, cada membro tem direito a um voto, podendo esse direito ser delegado noutro membro através de documento devidamente autenticado.
+Art. 20.º - 1. Na assembleia geral, e para todas as votações normais, cada membro tem direito a um voto, podendo esse direito ser delegado noutro membro através de documento devidamente autenticado.
 
 2. Na assembleia geral, e para votações em assuntos específicos de um sector (barro vermelho, barro branco e refractários) ou de um dos seis subsectores mencionados no n.º 3 do artigo 22.º, tem direito a um voto cada membro que nesse sector ou subsector tenha produção de valor superior a 2000 contos.
 
@@ -232,9 +260,9 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 4. A assembleia geral extraordinária, quando requerida por um grupo de membros, só poderá funcionar se estiverem pessoalmente presentes pelo menos quarenta dos membros que a requereram.
 
-###### Art. 21.º O Centro Técnico é administrado por um conselho de administração, que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
+Art. 21.º O Centro Técnico é administrado por um conselho de administração, que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
 
-###### Art. 22.º - 1. O conselho de administração é constituído por onze membros, compreendendo três representantes da assembleia geral e quatro dos empresários, o director do Centro e três personalidades nomeadas pelo Secretário de Estado da Indústria.
+Art. 22.º - 1. O conselho de administração é constituído por onze membros, compreendendo três representantes da assembleia geral e quatro dos empresários, o director do Centro e três personalidades nomeadas pelo Secretário de Estado da Indústria.
 
 2. Os representantes da assembleia geral serão eleitos de entre os seus membros, sendo cada um deles proposto e eleito pelos membros do sector (barro vermelho, barro branco e refractários) a que pertence, ficando o primeiro a representar um dos subsectores do barro vermelho, o segundo um dos subsectores do barro branco e o terceiro todo o sector dos refractários.
 
@@ -242,7 +270,7 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 4. Compete ao Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, designar três personalidades para o conselho de administração do Centro.
 
-###### Art. 23.º - 1. O conselho de administração elegerá um presidente de entre os industriais membros do conselho.
+Art. 23.º - 1. O conselho de administração elegerá um presidente de entre os industriais membros do conselho.
 
 2. Os membros do conselho de administração representantes das entidades privadas exercerão as suas funções por um período de três anos, podendo, no entanto, ser reconduzidos por igual período, até metade do seu número.
 
@@ -250,7 +278,7 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 4. As personalidades referidas no n.º 4 do artigo 22.º serão nomeadas por um período de três anos, podendo o Secretário de Estado da Indústria, por decisão expressa, renovar os respectivos mandatos.
 
-###### Art. 24.º Para eleição dos membros para o conselho de administração as propostas devem obedecer ao seguinte:
+Art. 24.º Para eleição dos membros para o conselho de administração as propostas devem obedecer ao seguinte:
 
 1. No caso do barro vermelho e do barro branco, deverão as propostas ser subscritas por um grupo de não menos de sete membros no pleno gozo dos seus direitos, não podendo cada membro subscrever mais que uma proposta referente a cada sector, e deverá indicar-se, além do nome do membro proposto, o subsector que irá representar.
 
@@ -258,13 +286,13 @@ f) Aceitar o cargo para que for eleito, salvo se tiver exercido em ano anterior 
 
 3. No conselho de administração cada um dos seus membros tem direito a um voto.
 
-###### Art. 25.º - 1. As eleições dos membros para o conselho de administração far-se-ão por escrutínio secreto e por maioria simples de votos.
+Art. 25.º - 1. As eleições dos membros para o conselho de administração far-se-ão por escrutínio secreto e por maioria simples de votos.
 
 2. Os membros podem delegar noutro os seus votos, desde que, para isso, tenham enviado procuração escrita, dirigida ao presidente da mesa.
 
 3. Só podem subcrever as propostas membros que sobre elas têm direito a voto.
 
-###### Art. 26.º Ao conselho de administração compete, nomeadamente:
+Art. 26.º Ao conselho de administração compete, nomeadamente:
 
 a) Definir a política geral do Centro e superintender na sua actividade, por forma que este atinja os objectivos que lhe são cometidos;
 
@@ -280,19 +308,19 @@ f) Submeter à assembleia geral o relatório e contas anuais;
 
 g) Deliberar sobre as admissões e condições de admissão dos membros aderentes e suas quotizações.
 
-###### Art. 27.º - 1. O conselho de administração reunir-se-á obrigatoriamente pelo menos uma vez por trimestre, para dar cumprimento ao disposto nas alíneas a), e) e f) do artigo anterior e tomar as medidas que a actividade do Centro justifique. Poderá, ainda, reunir-se extraordinariamente sempre que o presidente, a maioria dos seus membros, o director do Centro ou o presidente do conselho fiscal o solicitem.
+Art. 27.º - 1. O conselho de administração reunir-se-á obrigatoriamente pelo menos uma vez por trimestre, para dar cumprimento ao disposto nas alíneas a), e) e f) do artigo anterior e tomar as medidas que a actividade do Centro justifique. Poderá, ainda, reunir-se extraordinariamente sempre que o presidente, a maioria dos seus membros, o director do Centro ou o presidente do conselho fiscal o solicitem.
 
 2. É facultada ao conselho de administração a possibilidade de delegar numa comissão executiva, constituída por três industriais membros do conselho e pelo director do Centro, os poderes que tiver por conveniente, devendo essa comissão reunir-se ordinariamente uma vez por mês.
 
-###### Art. 28.º - 1. O conselho de administração delibera validamente quando estiverem presentes pelo menos seis dos seus membros, gozando o presidente de voto de qualidade em todas as deliberações.
+Art. 28.º - 1. O conselho de administração delibera validamente quando estiverem presentes pelo menos seis dos seus membros, gozando o presidente de voto de qualidade em todas as deliberações.
 
 2. A comissão executiva pode deliberar validamente quando estiverem presentes pelo menos três dos seus membros, tendo o director do Centro apenas voto de qualidade.
 
-###### Art. 29.º - 1. Os membros do conselho de administração terão direito a uma remuneração mensal e, bem assim, ao abono das despesas de transportes e de ajudas de custo, nos termos e quantitativos a fixar pela comissão de remunerações, excepção feita ao director, que é funcionário do Centro.
+Art. 29.º - 1. Os membros do conselho de administração terão direito a uma remuneração mensal e, bem assim, ao abono das despesas de transportes e de ajudas de custo, nos termos e quantitativos a fixar pela comissão de remunerações, excepção feita ao director, que é funcionário do Centro.
 
 2. Aos industriais membros da comissão executiva é fixada também pela comissão de remunerações uma remuneração mensal suplementar.
 
-###### Art. 30.º - 1. A direcção do Centro é confiada a um director, nomeado nos termos do artigo 21.º
+Art. 30.º - 1. A direcção do Centro é confiada a um director, nomeado nos termos do artigo 21.º
 
 2. Compete ao director do Centro:
 
@@ -304,11 +332,11 @@ c) Estabelecer a organização interna do Centro e elaborar os respectivos regul
 
 d) Representar o Centro em juízo ou fora dele, designadamente em organismos, congressos e reuniões que se ocupem dos problemas relacionados com os objectivos do Centro, podendo, no entanto, delegar essa representação.
 
-###### Art. 31.º O director do Centro formará um gabinete de coordenação e planeamento com todos os responsáveis de departamentos do Centro.
+Art. 31.º O director do Centro formará um gabinete de coordenação e planeamento com todos os responsáveis de departamentos do Centro.
 
-###### Art. 32.º O gabinete de coordenação e planeamento reunir-se-á ordinariamente e sob a presidência do director do Centro pelo menos uma vez por mês.
+Art. 32.º O gabinete de coordenação e planeamento reunir-se-á ordinariamente e sob a presidência do director do Centro pelo menos uma vez por mês.
 
-###### Art. 33.º Compete ao gabinete de coordenação e planeamento:
+Art. 33.º Compete ao gabinete de coordenação e planeamento:
 
 1 - Assegurar a unidade de orientação técnica na realização de estudos e trabalho do Centro e coordenar todas as acções em que participe mais que um departamento do Centro ou outras instituições;
 
@@ -318,11 +346,11 @@ d) Representar o Centro em juízo ou fora dele, designadamente em organismos, co
 
 4 - Tomar conhecimento de toda a actividade corrente do Centro e, através dos seus componentes, difundir esse conhecimento pelos respectivos departamentos.
 
-###### Art. 34.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois membros eleitos em assembleia geral.
+Art. 34.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois membros eleitos em assembleia geral.
 
 2. É aplicável ao presidente e aos membros eleitos do conselho fiscal, conforme os casos, o disposto no artigo 23.º destes Estatutos.
 
-###### Art. 35.º Compete, nomeadamente, ao conselho fiscal:
+Art. 35.º Compete, nomeadamente, ao conselho fiscal:
 
 a) Zelar por que a actividade do Centro não se desvie dos objectivos que lhe foram fixados;
 
@@ -334,13 +362,13 @@ d) Fiscalizar a escrituração e exigir que ela esteja sempre em dia e devidamen
 
 e) Proceder à verificação dos fundos em cofre e em depósito.
 
-###### Art. 36.º Para efeitos da execução das alíneas b), c) e d) do artigo anterior, o Centro Técnico da Cerâmica poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, nos termos do [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
+Art. 36.º Para efeitos da execução das alíneas b), c) e d) do artigo anterior, o Centro Técnico da Cerâmica poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, nos termos do [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
 
-###### Art. 37.º O conselho fiscal reunir-se-á ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
+Art. 37.º O conselho fiscal reunir-se-á ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
 
-###### Art. 38.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pela comissão de remunerações.
+Art. 38.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pela comissão de remunerações.
 
-###### Art. 39.º - 1. Ao presidente do conselho fiscal compete, nomeadamente:
+Art. 39.º - 1. Ao presidente do conselho fiscal compete, nomeadamente:
 
 a) Presidir às reuniões do conselho fiscal, gozando de voto de qualidade em todas as deliberações;
 
@@ -356,7 +384,7 @@ d) Defender os interesses públicos de ordem patrimonial, administrativa e econ�
 
 ### CAPÍTULO IV — Do regime financeiro
 
-###### Art. 40.º - 1. As receitas do Centro Técnico compreendem, nomeadamente:
+Art. 40.º - 1. As receitas do Centro Técnico compreendem, nomeadamente:
 
 a) As quotizações obrigatoriamente pagas pelas empresas;
 
@@ -374,9 +402,9 @@ g) O produto da venda de publicações.
 
 2. As receitas do Centro serão depositadas na Caixa Geral de Depósitos.
 
-###### Art. 41.º - 1. As quotizações dos membros efectivos contribuintes são fixadas anualmente pelo conselho de administração, tendo por base os valores mensais indicados na seguinte tabela:
+Art. 41.º - 1. As quotizações dos membros efectivos contribuintes são fixadas anualmente pelo conselho de administração, tendo por base os valores mensais indicados na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24300/18581864.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24300/18581864.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24300/18581864.pdf)
 
 2. Considerando a despesa orçamentada, deduzida da participação do Estado e da quotização total dos membros aderentes, o conselho de administração determina anualmente o factor X constante da última coluna da tabela mencionada no n.º 1, fixando assim as quotas mensais dos membros efectivos contribuintes, tendo por base os valores de produção do penúltimo ano.
 
@@ -384,19 +412,19 @@ g) O produto da venda de publicações.
 
 4. Os elementos necessários à elaboração das listas de membros efectivos e à determinação das quotas de base serão fornecidos pelo Grémio dos Industriais de Cerâmica.
 
-###### Art. 42.º O Secretário de Estado da Indústria definirá, por despacho, o montante da comparticipação do Estado nas despesas de instalação e funcionamento do Centro Técnico da Cerâmica, através da utilização das dotações que forem atribuídas, para o efeito, ao Instituto Nacional de Investigação Industrial no Orçamento Geral do Estado e nos programas de execução dos planos de fomento.
+Art. 42.º O Secretário de Estado da Indústria definirá, por despacho, o montante da comparticipação do Estado nas despesas de instalação e funcionamento do Centro Técnico da Cerâmica, através da utilização das dotações que forem atribuídas, para o efeito, ao Instituto Nacional de Investigação Industrial no Orçamento Geral do Estado e nos programas de execução dos planos de fomento.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 43.º - 1. O pessoal do Centro ficará sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como as convenções colectivas aplicáveis às indústrias abrangidas pelo Centro.
+Art. 43.º - 1. O pessoal do Centro ficará sujeito a um regulamento próprio, elaborado tendo em conta as normas legais e regulamentares, bem como as convenções colectivas aplicáveis às indústrias abrangidas pelo Centro.
 
 2. O regulamento referido no número anterior será homologado por despacho conjunto dos Secretários de Estado da Indústria e do Trabalho e Previdência.
 
-###### Art. 44.º O pessoal do Centro Técnico é obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
+Art. 44.º O pessoal do Centro Técnico é obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
 
-###### Art. 45.º As remunerações do pessoal devem acompanhar os níveis praticados nas indústrias abrangidas pelo Centro.
+Art. 45.º As remunerações do pessoal devem acompanhar os níveis praticados nas indústrias abrangidas pelo Centro.
 
-###### Art. 46.º - 1. Mediante prévia autorização do Ministro competente, sob proposta do conselho de administração, poderão prestar serviço no Centro Técnico funcionários públicos pertencentes aos quadros aprovados por lei.
+Art. 46.º - 1. Mediante prévia autorização do Ministro competente, sob proposta do conselho de administração, poderão prestar serviço no Centro Técnico funcionários públicos pertencentes aos quadros aprovados por lei.
 
 2. Os funcionários a que se refere o número anterior exercerão as suas funções em regime de comissão de serviço pelo período de três anos, renovável, a qual poderá ser dada por finda, em qualquer momento, por decisão ministerial.
 
@@ -408,22 +436,22 @@ g) O produto da venda de publicações.
 
 6. É aplicável aos funcionários referidos no presente artigo o regime previsto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, para os subscritores da Caixa Geral de Aposentações que, em regime de comissão ou de requisição, prestem serviço nos organismos de coordenação económica.
 
-###### Art. 47.º Os funcionários públicos que não pertençam aos quadros aprovados por lei e que passem a exercer funções no Centro Técnico manterão nestes a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
+Art. 47.º Os funcionários públicos que não pertençam aos quadros aprovados por lei e que passem a exercer funções no Centro Técnico manterão nestes a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
 
-###### Art. 48.º - 1. A comissão de remunerações é constituída pelo presidente da assembleia geral e por dois membros designados trienalmente para o efeito por esta assembleia.
+Art. 48.º - 1. A comissão de remunerações é constituída pelo presidente da assembleia geral e por dois membros designados trienalmente para o efeito por esta assembleia.
 
 2. À comissão de remunerações compete fixar as remunerações dos membros do conselho de administração, da comissão executiva e do conselho fiscal.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 49.º - 1. O Centro Técnico da Cerâmica gozará de autonomia administrativa e financeira, nos termos da legislação em vigor.
+Art. 49.º - 1. O Centro Técnico da Cerâmica gozará de autonomia administrativa e financeira, nos termos da legislação em vigor.
 
 2. A constituição e actividade do Centro Técnico está isenta de todos os impostos, incluindo o do selo, taxas e emolumentos e de custos.
 
-###### Art. 50.º Os montantes correspondentes às quotizações pagas pelas empresas ao Centro Técnico são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
+Art. 50.º Os montantes correspondentes às quotizações pagas pelas empresas ao Centro Técnico são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
 
-###### Art. 51.º Nos impedimentos do director, o Centro Técnico da Cerâmica obriga-se pela assinatura de um membro do conselho de administração escolhido para o efeito por esse conselho, ou de um seu procurador.
+Art. 51.º Nos impedimentos do director, o Centro Técnico da Cerâmica obriga-se pela assinatura de um membro do conselho de administração escolhido para o efeito por esse conselho, ou de um seu procurador.
 
-###### Art. 52.º Por proposta do director, o conselho de administração pode autorizar a constituição de conselhos técnicos nas diferentes áreas de actuação do Centro, para, quando necessário, o assistirem com funções consultivas, constituídos por membros do Centro e individualidades externas de reconhecida competência técnica ou científica.
+Art. 52.º Por proposta do director, o conselho de administração pode autorizar a constituição de conselhos técnicos nas diferentes áreas de actuação do Centro, para, quando necessário, o assistirem com funções consultivas, constituídos por membros do Centro e individualidades externas de reconhecida competência técnica ou científica.
 
-**O Secretário de Estado da Indústria, Hermes Augusto dos Santos.**
+O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

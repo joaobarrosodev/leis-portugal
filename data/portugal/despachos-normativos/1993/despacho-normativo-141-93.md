@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/141/1993/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1993-375979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a6af878d407ed27088608255992c345f507cf21b58efd0708255f6d9f9ee320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8b627aed253480c35f4f704f3594ac8c0a0fe8e13f473b9041298f0f89ccca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/1992/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/1992/01/09/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:53Z'
   warnings: []
   errors: []
 ---
@@ -105,4 +117,4 @@ Determina-se que seja criado no quadro de pessoal da Direcção-Geral do Patrim�
 
 Ministério das Finanças, 12 de Maio de 1993.
 
-**A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado das Finanças, José Manuel Alves Elias da Costa.**
+A Secretária de Estado Adjunta e do Orçamento, Maria Manuela Dias Ferreira Leite. - O Secretário de Estado das Finanças, José Manuel Alves Elias da Costa.

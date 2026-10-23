@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13000/07860788.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1975-335875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:44:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f50cccdd545c09db62fad5349ec32334f9292986f4c9de91e73fc21b75ca8b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac06b4d05b2b05df8281bb15e37cab94bb46687b4f05d1088b6a3d03ed11841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:44:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Algarve
+- Definição de Competências
+- Escola de Hotelaria e Turismo
+- Estatuto
+- Órgãos de Gestão
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:324523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324523:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 715/78 - Diário da República n.º 280/1978, Série I de 1978-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1978-324523
+  date: '1978-12-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:44:19Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +131,7 @@ I
 
 Do conselho directivo
 
-###### Artigo 1.º Na Escola de Hotelaria e de Turismo do Algarve a direcção do estabelecimento é confiada a um conselho directivo, composto pelos seguintes membros:
+Artigo 1.º Na Escola de Hotelaria e de Turismo do Algarve a direcção do estabelecimento é confiada a um conselho directivo, composto pelos seguintes membros:
 
 a) Um representante do Estado, nomeado pelo Secretário de Estado do Turismo, que exercerá as funções de presidente;
 
@@ -124,45 +147,45 @@ f) Um representante do Grémio Nacional das Agências de Viagens e Turismo;
 
 g) Dois representantes dos trabalhadores da Escola de Hotelaria e de Turismo do Algarve, um representando os serviços administrativos e outro os serviços técnicos ou docentes, eleitos em conjunto pela assembleia de trabalhadores da Escola.
 
-###### Art. 2.º - 1. As designações destes representantes serão feitas por um período de dois anos, renovável por igual tempo.
+Art. 2.º - 1. As designações destes representantes serão feitas por um período de dois anos, renovável por igual tempo.
 
 2. Em qualquer altura poderão os grupos representados substituir livremente os respectivos representantes, devendo comunicar tal substituição por escrito ao presidente do conselho directivo.
 
 3. O despacho de substituição do presidente do conselho directivo será comunicado aos secretários deste órgão.
 
-###### Art. 3.º - 1. Durante o ano lectivo, o conselho directivo reunirá duas vezes por mês, podendo, todavia, reunir extraordinariamente quando assim o entender o seu presidente ou um terço dos membros que o compõem.
+Art. 3.º - 1. Durante o ano lectivo, o conselho directivo reunirá duas vezes por mês, podendo, todavia, reunir extraordinariamente quando assim o entender o seu presidente ou um terço dos membros que o compõem.
 
 2. Quando for convocada uma reunião extraordinária, todos os membros deverão ser convocados por escrito com a antecedência mínima de quarenta e oito horas.
 
 3. A convocatória será assinada pelo presidente ou, se este se recusar a fazê-lo, pelos membros que convocam a reunião extraordinária.
 
-###### Art. 4.º O conselho directivo só pode deliberar validamente quando estejam presentes cinco dos seus membros.
+Art. 4.º O conselho directivo só pode deliberar validamente quando estejam presentes cinco dos seus membros.
 
-###### Art. 5.º As decisões do conselho directivo serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.
+Art. 5.º As decisões do conselho directivo serão tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.
 
-###### Art. 6.º Os votos serão expressos oralmente ou nas formas usuais, a menos que qualquer dos membros do conselho requeira a votação por escrutínio secreto.
+Art. 6.º Os votos serão expressos oralmente ou nas formas usuais, a menos que qualquer dos membros do conselho requeira a votação por escrutínio secreto.
 
-###### Art. 7.º No caso de ausência do presidente, os presentes escolherão entre si, no início da reunião, quem a deve dirigir e exercer as funções daquele.
+Art. 7.º No caso de ausência do presidente, os presentes escolherão entre si, no início da reunião, quem a deve dirigir e exercer as funções daquele.
 
-###### Art. 8.º O conselho directivo poderá criar as comissões e grupos de trabalho que repute necessários para o tratamento de questões específicas da vida do estabelecimento, competindo-lhe definir as respectivas composição, mandato e normas de funcionamento.
+Art. 8.º O conselho directivo poderá criar as comissões e grupos de trabalho que repute necessários para o tratamento de questões específicas da vida do estabelecimento, competindo-lhe definir as respectivas composição, mandato e normas de funcionamento.
 
 II
 
 Da competência do conselho directivo
 
-###### Art. 9.º - 1. O conselho directivo assegurará a direcção da Escola, deliberando sobre a estruturação dos cursos ministrados, sua programação e modo de execução nos limites do orçamento anualmente aprovado.
+Art. 9.º - 1. O conselho directivo assegurará a direcção da Escola, deliberando sobre a estruturação dos cursos ministrados, sua programação e modo de execução nos limites do orçamento anualmente aprovado.
 
 2. As deliberações sobre a estruturação dos cursos ministrados, sua programação e modo de execução serão submetidas a prévia aprovação do Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 10.º Até 31 de Julho de cada ano será apresentado a aprovação superior o orçamento para o ano seguinte.
+Art. 10.º Até 31 de Julho de cada ano será apresentado a aprovação superior o orçamento para o ano seguinte.
 
-###### Art. 11.º Relativamente à autorização de despesas não orçamentadas ou de transferência de verbas, o conselho directivo terá de obter previamente a aprovação superior.
+Art. 11.º Relativamente à autorização de despesas não orçamentadas ou de transferência de verbas, o conselho directivo terá de obter previamente a aprovação superior.
 
-###### Art. 12.º Competirá ao conselho directivo o recrutamento e dispensa do pessoal administrativo, técnico e docente, dentro dos limites dos quadros do pessoal previstos e aprovados no orçamento anual.
+Art. 12.º Competirá ao conselho directivo o recrutamento e dispensa do pessoal administrativo, técnico e docente, dentro dos limites dos quadros do pessoal previstos e aprovados no orçamento anual.
 
-###### Art. 13.º O conselho directivo pode elaborar por sua iniciativa ou rever anualmente o regulamento interno da Escola, que deverá submeter a homologação superior.
+Art. 13.º O conselho directivo pode elaborar por sua iniciativa ou rever anualmente o regulamento interno da Escola, que deverá submeter a homologação superior.
 
-###### Art. 14.º Competirá em especial ao presidente do conselho directivo:
+Art. 14.º Competirá em especial ao presidente do conselho directivo:
 
 a) Presidir às reuniões do conselho;
 
@@ -176,7 +199,7 @@ III
 
 Dos secretários
 
-###### Art. 15.º - 1. No princípio de cada ano lectivo, o conselho directivo elegerá, de entre os membros do próprio conselho, com exclusão do presidente, três secretários, os quais assegurarão diariamente as tarefas de gestão administrativa e pedagógica da Escola, em regime de colegialidade, podendo dividir entre si as tarefas respectivas.
+Art. 15.º - 1. No princípio de cada ano lectivo, o conselho directivo elegerá, de entre os membros do próprio conselho, com exclusão do presidente, três secretários, os quais assegurarão diariamente as tarefas de gestão administrativa e pedagógica da Escola, em regime de colegialidade, podendo dividir entre si as tarefas respectivas.
 
 2. No caso de os membros eleitos, ou algum deles, não poderem desempenhar as funções de secretário nos termos previstos na presente portaria, o conselho directivo poderá contratar para o efeito trabalhadores com as qualificações técnicas necessárias.
 
@@ -184,7 +207,7 @@ Dos secretários
 
 4. O secretário referido no número anterior será coadjuvado no exercício das funções por dois representantes dos trabalhadores da secção da Escola, eleitos democraticamente entre eles, sendo um dos serviços administrativos e outro dos serviços técnicos ou docentes.
 
-###### Art. 16.º - 1. Estes secretários desempenharão funções em tempo completo, celebrando contrato anual com a Escola, tendo direito a uma remuneração mensal fixada pelo conselho directivo com prévia aprovação do Centro Nacional de Formação Turística e Hoteleira, de acordo com as qualificações técnicas da pessoa escolhida e as condições do mercado do trabalho respectivo.
+Art. 16.º - 1. Estes secretários desempenharão funções em tempo completo, celebrando contrato anual com a Escola, tendo direito a uma remuneração mensal fixada pelo conselho directivo com prévia aprovação do Centro Nacional de Formação Turística e Hoteleira, de acordo com as qualificações técnicas da pessoa escolhida e as condições do mercado do trabalho respectivo.
 
 2. Esta remuneração será abonada mesmo durante o período de férias.
 
@@ -192,30 +215,30 @@ Dos secretários
 
 4. Não poderá, todavia, ser eleito secretário do pelouro administrativo da Escola o representante dos trabalhadores dos serviços administrativos desta no conselho directivo.
 
-###### Art. 17.º A secção administrativa abrange os serviços que asseguram o funcionamento da secretaria e contabilidade da Escola.
+Art. 17.º A secção administrativa abrange os serviços que asseguram o funcionamento da secretaria e contabilidade da Escola.
 
-###### Art. 18.º - 1. Na secção pedagógica funcionará um conselho escolar de composição paritária, composto por um número variável de docentes e alunos, democraticamente eleitos pelos respectivos corpos.
+Art. 18.º - 1. Na secção pedagógica funcionará um conselho escolar de composição paritária, composto por um número variável de docentes e alunos, democraticamente eleitos pelos respectivos corpos.
 
 2. Do conselho escolar farão parte também representantes dos docentes e alunos da secção da Escola situada em Portimão.
 
 3. O conselho escolar terá competência consultiva em todas as matérias pedagógicas e poderá apresentar directamente propostas ao conselho directivo.
 
-###### Art. 19.º A fixação do número de membros do conselho escolar será estabelecida anualmente pelo conselho directivo, não podendo o seu número total exceder seis pessoas.
+Art. 19.º A fixação do número de membros do conselho escolar será estabelecida anualmente pelo conselho directivo, não podendo o seu número total exceder seis pessoas.
 
 IV
 
 Da secção de Portimão
 
-###### Art. 20.º A secção situada em Portimão dependerá orgânica e administrativamente da Escola de Faro.
+Art. 20.º A secção situada em Portimão dependerá orgânica e administrativamente da Escola de Faro.
 
 V
 
 Das disposições transitórias
 
-###### Art. 21.º Deixam de ser aplicáveis à Escola de Hotelaria e de Turismo do Algarve os artigos 19.º a 23.º e 25.º da [Portaria n.º 505/70](https://diariodarepublica.pt/dr/detalhe/portaria/505-1970-148383), de 10 de Outubro, bem como quaisquer outras disposições desse diploma que sejam incompatíveis com o que se dispõe neste Estatuto.
+Art. 21.º Deixam de ser aplicáveis à Escola de Hotelaria e de Turismo do Algarve os artigos 19.º a 23.º e 25.º da [Portaria n.º 505/70](https://diariodarepublica.pt/dr/detalhe/portaria/505-1970-148383), de 10 de Outubro, bem como quaisquer outras disposições desse diploma que sejam incompatíveis com o que se dispõe neste Estatuto.
 
-###### Art. 22.º Serão designados em cada ano dois funcionários da Secretaria de Estado do Turismo para apreciar o relatório e contas referentes ao ano lectivo findo, apresentados pelo presidente do conselho directivo da Escola.
+Art. 22.º Serão designados em cada ano dois funcionários da Secretaria de Estado do Turismo para apreciar o relatório e contas referentes ao ano lectivo findo, apresentados pelo presidente do conselho directivo da Escola.
 
-###### Art. 23.º Quaisquer dúvidas surgidas na execução desta regulamentação serão resolvidas por despacho do Secretário de Estado de Turismo.
+Art. 23.º Quaisquer dúvidas surgidas na execução desta regulamentação serão resolvidas por despacho do Secretário de Estado de Turismo.
 
 Secretaria de Estado do Turismo, 26 de Maio de 1975. - O Secretário de Estado do Turismo, Artur Luís Alves Conde.

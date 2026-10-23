@@ -47,40 +47,107 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:51:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e478f45f44a805efa67c2075128b3fa8ccd39e267479de84701d6855daac0157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8666a5ef4a03fdd9b26bcc2709f3c9e352dbdc32408af5f5838ff8f705f9ca48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:51:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Convenção
+- Direcção Geral da Aeronáutica Civil
+- Eurocontrol
+- Navegação Aérea
+- Regulamento
+- Segurança Aérea
+- Tarifa Transatlântica
+- Taxa de rota
 relationships:
 - type: amended_by
   target: pt:dre:283541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADAS AS TAXAS UNITÁRIAS A QUE SE REFERE O ART 11 E SUBSITUIDO O ANEXO 1 A QUE SE REFERE O ART 12, PELA PORT
+    175-A/78 DE 30-MAR DR.IS [74]2SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-03-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADAS AS TAXAS UNITÁRIAS A QUE SE REFERE O ART 11 E SUBSTITUÍDO O ANEXO 1 A QUE SE REFERE O ART 12, PELA PORT
+    143-A/79 DE 31-MAR DR.IS [76]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-03-31'
+- type: amended_by
+  target: pt:dre:659930:por
+  label: "Alterado o art. 11º, aditado um nº 5 ao art. 12º, substituído o anexo 1 a que se refere o art. 12º e aditado o anexo\
+    \ 3, pela PORT.46/84.1984.01.21.MES, DR.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-1984-659930
+  date: '1984-01-21'
+- type: amended_by
+  target: pt:dre:621942:por
+  label: "Alterado o art. 11º e substituídos os anexos 1 a que se refere o nº 1 do art. 12º e o anexo 3 a que se refere o\
+    \ nº 5 do art. 12º, pela PORT.987-B/84.1984.12.28.MES, DR.IS [299]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-b-1984-621942
+  date: '1984-12-28'
+- type: amended_by
+  target: pt:dre:195782:por
+  label: "Alterado o art. 11º e substituídos os anexos 1 a que se refere o nº 1 do art. 12º e o anexo 3 a que se refere o\
+    \ nº 5 do art. 12º, pela PORT.144/86.1986.04.14.MOPTC, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-1986-195782
+  date: '1986-04-14'
+- type: amended_by
+  target: pt:dre:419674:por
+  label: "Alterado o art. 11º e substituídos os anexos 1 a que se refere o nº 1 do art. 12º e o anexo 3 a que se refere o\
+    \ nº 5 do art. 12º, pela PORT.528/87.1987.06.27.MOPTC, DR.IS [145]a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1987-419674
+  date: '1987-06-27'
+- type: amended_by
+  target: pt:dre:283541:por
+  label: "Alterado o art. 11º e substituídos os anexos 1 a que se refere o nº 1 do art. 12º e o anexo 3 a que se refere o\
+    \ nº 5 do art. 12º, pela PORT.45/88.1988.01.22.MOPTC, DR.IS [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1988-283541
+  date: '1988-01-22'
+- type: cites
+  target: pt:dre:407972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633939:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:51:22Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +178,7 @@ Regulamento de Taxas de Navegação Aérea em Rota
 
 ### CAPÍTULO I — Definições
 
-###### Artigo 1.º Para os efeitos de aplicação do presente Regulamento, entender-se-á por:
+Artigo 1.º Para os efeitos de aplicação do presente Regulamento, entender-se-á por:
 
 Estado Membro. - Estado membro da Organização Eurocontrol e Parte no Acordo Multilateral Relativo à Percepção de Taxas de Rota, assinado em Bruxelas em 8 de Setembro de 1970.
 
@@ -121,7 +188,7 @@ Organização. - A Organização Europeia para a Segurança da Navegação Aére
 
 ### CAPÍTULO II — Tarifas e condições de aplicação das taxas
 
-###### Art. 2.º - 1. Uma taxa de navegação aérea de rota prevista no artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, daqui em diante chamada «taxa», calculada de conformidade com os artigos 6.º a 12.º das presentes disposições, será percebida por cada voo efectuado de acordo com os procedimentos resultantes da aplicação das normas e recomendações da Organização da Aviação Civil Internacional, por uma aeronave nos espaços aéreos a seguir indicados e conforme descritos no Manual de Informação Aeronáutica (AIP - Portugal):
+Art. 2.º - 1. Uma taxa de navegação aérea de rota prevista no artigo 1.º do [Decreto-Lei n.º 451/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1971-633939), de 26 de Outubro, daqui em diante chamada «taxa», calculada de conformidade com os artigos 6.º a 12.º das presentes disposições, será percebida por cada voo efectuado de acordo com os procedimentos resultantes da aplicação das normas e recomendações da Organização da Aviação Civil Internacional, por uma aeronave nos espaços aéreos a seguir indicados e conforme descritos no Manual de Informação Aeronáutica (AIP - Portugal):
 
 Região de Informação de Voo de Lisboa;
 
@@ -135,29 +202,29 @@ nos quais se dispõe de instalações de navegação aérea de rota e se fornece
 
 No caso de o nome do operador não ser conhecido dos organismos responsáveis pela cobrança da taxa, considera-se o proprietário como operador, até que se tenha atribuído essa qualidade a outrem.
 
-###### Art. 3.º A taxa constitui a remuneração dos serviços postos à disposição dos usuários.
+Art. 3.º A taxa constitui a remuneração dos serviços postos à disposição dos usuários.
 
-###### Art. 4.º - 1. O montante da taxa será pago na sede da Organização, em Bruxelas, segundo as modalidades indicadas pela Organização e as que figuram no anexo 2 das presentes tarifas e condições de aplicação.
+Art. 4.º - 1. O montante da taxa será pago na sede da Organização, em Bruxelas, segundo as modalidades indicadas pela Organização e as que figuram no anexo 2 das presentes tarifas e condições de aplicação.
 
 2. A taxa deverá ser paga o mais tardar até trinta dias após a data de envio da factura pelo Serviço Central de Taxas de Rota da Organização.
 
-###### Art. 5.º O montante da taxa será estabelecido com base no franco francês constituído por 200 mg de ouro com o título de 900 milésimas de ouro fino, conforme declarado às autoridades do Fundo Monetário Internacional em 29 de Dezembro de 1959.
+Art. 5.º O montante da taxa será estabelecido com base no franco francês constituído por 200 mg de ouro com o título de 900 milésimas de ouro fino, conforme declarado às autoridades do Fundo Monetário Internacional em 29 de Dezembro de 1959.
 
 A moeda de câmbio utilizada será o dólar dos Estados Unidos da América, à paridade fixada pelo Fundo Monetário Internacional para o franco francês acima referido.
 
-###### Art. 6.º Para os espaços aéreos a que se refere o artigo 2.º, a taxa relativa a cada voo será calculada segundo a fórmula:
+Art. 6.º Para os espaços aéreos a que se refere o artigo 2.º, a taxa relativa a cada voo será calculada segundo a fórmula:
 
 r = t(índice i) x N
 
 em que r é a taxa, t(índice i) a taxa unitária e N o número de unidades de serviço correspondente ao voo efectuado nesse espaço aéreo.
 
-###### Art. 7.º O número de unidades de serviço designadas por N, conforme o artigo anterior, será obtido pela aplicação da seguinte fórmula:
+Art. 7.º O número de unidades de serviço designadas por N, conforme o artigo anterior, será obtido pela aplicação da seguinte fórmula:
 
 N = d x p
 
 em que d é o coeficiente de distância do voo efectuado nos espaços aéreos referidos no artigo 2.º e p o coeficiente de peso da aeronave envolvida.
 
-###### Art. 8.º - 1. O coeficiente de distância é igual ao número que se obtém dividindo por 100 a distância ortodrómica expressa em quilómetros entre:
+Art. 8.º - 1. O coeficiente de distância é igual ao número que se obtém dividindo por 100 a distância ortodrómica expressa em quilómetros entre:
 
 a) Para as regiões de informação de voo de Lisboa:
 
@@ -185,23 +252,23 @@ ii - Para os sobrevoos, sem escala, em função de distâncias ponderadas com ba
 
 2. A distância a considerar será, no entanto, reduzida de 20 km por cada descolagem ou aterragem efectuada nos espaços aéreos definidos no artigo 2.º
 
-###### Art. 9.º - 1. O coeficiente de peso é igual à raiz quadrada do quociente da divisão por 50 do peso máximo à descolagem da aeronave, expresso em toneladas métricas, tal como consta do certificado de navegabilidade ou do manual de voo ou de qualquer outro documento oficial equivalente, como segue:
+Art. 9.º - 1. O coeficiente de peso é igual à raiz quadrada do quociente da divisão por 50 do peso máximo à descolagem da aeronave, expresso em toneladas métricas, tal como consta do certificado de navegabilidade ou do manual de voo ou de qualquer outro documento oficial equivalente, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf))](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf)
 
 2. No caso de o operador haver declarado aos organismos responsáveis pela cobrança de taxas que a frota de que dispõe inclui aeronaves correspondendo a versões diferentes do mesmo tipo, o coeficiente de peso para cada uma dessas aeronaves determinar-se-á na base do peso médio à descolagem de todas as aeronaves desse tipo utilizadas pelo referido operador. O cálculo deste coeficiente por tipo de aeronave e por operador efectuar-se-á pelo menos uma vez por ano.
 
 3. Se o operador não tiver feito a declaração referida no número anterior, o coeficiente de peso de cada aeronave de um mesmo tipo será calculado na base do peso máximo à descolagem da versão mais pesada desse tipo.
 
-###### Art. 10.º Para o cálculo da taxa o coeficiente de peso indicado no artigo 9.º será expresso por um número com duas decimais.
+Art. 10.º Para o cálculo da taxa o coeficiente de peso indicado no artigo 9.º será expresso por um número com duas decimais.
 
-###### Art. 11.º Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
+Art. 11.º Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
 
 US $5,0788 para as regiões de informação de voo de Lisboa;
 
 US $1,2327 para a Região de Informação de Voo Oceânica de Santa Maria.
 
-###### Art. 12.º - 1. Por derrogação do disposto nos artigos 6.º, 7.º, 8.º e 11.º, a taxa devida pelos voos cujo aeródromo de partida ou de primeiro destino se situe nas zonas mencionadas na coluna 1 do anexo 1 das tarifas e condições de aplicação e que penetrem nas regiões de informação de voo de Lisboa será fixada, pelo que respeita a este espaço aéreo, a partir de distâncias reais ponderadas com base nas estatísticas estabelecidas pela Organização de acordo com os dados de tráfego fornecidos pelos centros de contrôle responsáveis pelos serviços da navegação aérea de rota no Atlântico Norte.
+Art. 12.º - 1. Por derrogação do disposto nos artigos 6.º, 7.º, 8.º e 11.º, a taxa devida pelos voos cujo aeródromo de partida ou de primeiro destino se situe nas zonas mencionadas na coluna 1 do anexo 1 das tarifas e condições de aplicação e que penetrem nas regiões de informação de voo de Lisboa será fixada, pelo que respeita a este espaço aéreo, a partir de distâncias reais ponderadas com base nas estatísticas estabelecidas pela Organização de acordo com os dados de tráfego fornecidos pelos centros de contrôle responsáveis pelos serviços da navegação aérea de rota no Atlântico Norte.
 
 2. As tarifas indicadas no referido anexo são as que correspondem a uma aeronave cujo coeficiente de peso seja igual a 1 (50 t métricas).
 
@@ -209,11 +276,11 @@ US $1,2327 para a Região de Informação de Voo Oceânica de Santa Maria.
 
 4. As disposições dos n.os 1, 2 e 3 do presente artigo não se aplicam aos voos considerados no n.º 1 do presente artigo, desde que o aeródromo de primeiro destino ou de partida não conste da coluna 2 do anexo 1 das presentes tarifas e condições de aplicação.
 
-###### Art. 13.º Os voos abrangidos pelo artigo anterior para os quais seja devida uma taxa idêntica por aplicação da regulamentação de um Estado Membro da Organização ou de um Estado Contratante ficam isentos da aplicação da taxa prevista naquele mesmo artigo.
+Art. 13.º Os voos abrangidos pelo artigo anterior para os quais seja devida uma taxa idêntica por aplicação da regulamentação de um Estado Membro da Organização ou de um Estado Contratante ficam isentos da aplicação da taxa prevista naquele mesmo artigo.
 
 Considera-se Estado Contratante, para os fins das disposições das presentes tarifas e condições de aplicação, qualquer Estado que não seja membro da Organização mas que, por acordo especial, tenha confiado à Organização o encargo de cobrar em seu nome as taxas pela utilização das instalações e serviços de navegação aérea de rota que forneça no espaço aéreo sob a sua jurisdição.
 
-###### Art. 14.º As disposições dos artigos anteriores não se aplicam aos voos das categorias a seguir indicadas:
+Art. 14.º As disposições dos artigos anteriores não se aplicam aos voos das categorias a seguir indicadas:
 
 1.º Voos realizados por aeronaves militares portuguesas;
 
@@ -235,19 +302,19 @@ Considera-se Estado Contratante, para os fins das disposições das presentes ta
 
 ### CAPÍTULO III — Aplicação e data de entrada em vigor
 
-###### Art. 15.º À Direcção-Geral da Aeronáutica Civil competirá assegurar a boa execução deste Regulamento.
+Art. 15.º À Direcção-Geral da Aeronáutica Civil competirá assegurar a boa execução deste Regulamento.
 
-###### Art. 16.º A presente portaria entra em vigor em 1 de Novembro de 1975, data a partir da qual se consideram revogadas as Portarias n.os [811/73](https://diariodarepublica.pt/dr/detalhe/portaria/811-1973-411602), [930/73](https://diariodarepublica.pt/dr/detalhe/portaria/930-1973-407972) e [200/74](https://diariodarepublica.pt/dr/detalhe/portaria/200-1974-412427), de 16 de Novembro, 29 de Dezembro e 15 de Março, respectivamente.
+Art. 16.º A presente portaria entra em vigor em 1 de Novembro de 1975, data a partir da qual se consideram revogadas as Portarias n.os [811/73](https://diariodarepublica.pt/dr/detalhe/portaria/811-1973-411602), [930/73](https://diariodarepublica.pt/dr/detalhe/portaria/930-1973-407972) e [200/74](https://diariodarepublica.pt/dr/detalhe/portaria/200-1974-412427), de 16 de Novembro, 29 de Dezembro e 15 de Março, respectivamente.
 
 Ministério dos Transportes e Comunicações, 22 de Outubro de 1975. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.
 
-## Anexo 1 a que se refere o artigo 12.º
+Anexo 1 a que se refere o artigo 12.º
 
 Lista das tarifas transatlânticas aplicáveis a partir de 1 de Novembro de 1975 para uma aeronave cujo coeficiente de peso é igual à unidade (50 t métricas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf))](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/25300/17241728.pdf)
 
-## Anexo 2 a que se refere o artigo 4.º
+Anexo 2 a que se refere o artigo 4.º
 
 Modalidades de pagamento da taxa
 
@@ -271,4 +338,4 @@ CLÁUSULA 3
 
 3.º Se se utilizar a faculdade referida no parágrafo anterior, a conversão em moeda nacional dos montantes em dólares efectuar-se-á à taxa de câmbio utilizada para as transacções comerciais no dia e local de pagamento.
 
-**O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.**
+O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

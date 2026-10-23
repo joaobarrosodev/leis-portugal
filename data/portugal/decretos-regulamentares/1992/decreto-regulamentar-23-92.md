@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/23/1992/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1992-226198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9427065dd02de1a3107baa3f373738c22c2b5d38f492df5ae2008afdd46018c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2b050b631319ba1a5f9e3ef00c75e7b875bee84a9bcd4bfebc9d68860215d77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Estação Radionaval
 - Ponta Delgada
 - Servidão Militar
-- Açores
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:59Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 3.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ficam sujeitas a servidão militar as áreas de terreno confinantes com as instalações da central transmissora da Estação Radionaval de Ponta Delgada, definidas como segue:
+Artigo 1.º Ficam sujeitas a servidão militar as áreas de terreno confinantes com as instalações da central transmissora da Estação Radionaval de Ponta Delgada, definidas como segue:
 
 a) Área 1: área compreendida pela reunião dos círculos de 300 m de raio com centros nos pontos A e B, centros das bases das torres das antenas, cujas coordenadas geográficas são as seguintes:
 
@@ -109,7 +117,7 @@ Ponto B: P = 4180.382; M = 617.486 U.T.M.;
 
 b) Área 2: área compreendida entre a área 1 e as circunferências de 1000 m de raio com centros nos pontos A e B.
 
-###### Art. 2.º Nas áreas descritas no artigo anterior é proibida, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sem licença da entidade competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º Nas áreas descritas no artigo anterior é proibida, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sem licença da entidade competente, a execução dos trabalhos e actividades seguintes:
 
 1) Na área 1:
 
@@ -135,17 +143,17 @@ a) Construções metálicas ou de betão armado de grandes dimensões, tais como
 
 b) Instalações eléctricas ou electrónicas que possam prejudicar o funcionamento da Estação.
 
-###### Art. 3.º Poderá ser ordenada a cessação de funcionamento de qualquer equipamento eléctrico existente na área 1 que interfira com o funcionamento da Estação Radionaval.
+Art. 3.º Poderá ser ordenada a cessação de funcionamento de qualquer equipamento eléctrico existente na área 1 que interfira com o funcionamento da Estação Radionaval.
 
-###### Art. 4.º Compete à Marinha, pela Superintendência dos Serviços do Material, ouvido o Estado-Maior da Armada, a concessão de licenças a que se refere o artigo 2.º
+Art. 4.º Compete à Marinha, pela Superintendência dos Serviços do Material, ouvido o Estado-Maior da Armada, a concessão de licenças a que se refere o artigo 2.º
 
-###### Art. 5.º Os requerimentos a apresentar solicitando a concessão das licenças referidas no artigo anterior devem observar o disposto no artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 5.º Os requerimentos a apresentar solicitando a concessão das licenças referidas no artigo anterior devem observar o disposto no artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
-###### Art. 6.º A fiscalização do cumprimento das disposições e dos condicionalismos impostos nas licenças concedidas incumbe à Estação Radionaval de Ponta Delgada, à qual compete também ordenar a demolição das obras e aplicar as multas pelas infracções verificadas.
+Art. 6.º A fiscalização do cumprimento das disposições e dos condicionalismos impostos nas licenças concedidas incumbe à Estação Radionaval de Ponta Delgada, à qual compete também ordenar a demolição das obras e aplicar as multas pelas infracções verificadas.
 
-###### Art. 7.º Das decisões tomadas nos termos do artigo anterior, referentes à demolição de obras, cabe recurso para o Chefe do Estado-Maior da Armada.
+Art. 7.º Das decisões tomadas nos termos do artigo anterior, referentes à demolição de obras, cabe recurso para o Chefe do Estado-Maior da Armada.
 
-###### Art. 8.º As áreas sujeitas a servidão militar serão demarcadas na Carta Militar de Portugal - São Miguel - Açores, dos Serviços Cartográficos do Exército, escala 1:25000, fl. 32, da qual se extrairão cópias para as entidades seguintes:
+Art. 8.º As áreas sujeitas a servidão militar serão demarcadas na Carta Militar de Portugal - São Miguel - Açores, dos Serviços Cartográficos do Exército, escala 1:25000, fl. 32, da qual se extrairão cópias para as entidades seguintes:
 
 a) Ministro da República para a Região Autónoma dos Açores;
 
@@ -165,12 +173,12 @@ Presidência do Conselho de Ministros, 14 de Agosto de 1992.
 
 Aníbal António Cavaco Silva - Mário Fernando Campos Pinto - Joaquim Fernando Nogueira - Carlos Manuel Sousa Encarnação - José Manuel Nunes Liberato - José Manuel Mendes Antas.
 
-**Promulgado em 16 de Setembro de 1992.**
+Promulgado em 16 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Setembro de 1992.**
+Referendado em 20 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

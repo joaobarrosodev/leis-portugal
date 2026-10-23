@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/288a00/78227823.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/305/2002/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-2002-406555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48e0aeea76614be3a6a1ed8549106e52f5b85f2e9e497017c2bb17de0482a6d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c16324c390dddc881ffdcd771401da4dce78bc0701ae263e9b920489efe4bd57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ subjects:
 - Crime
 - Crime Tributário
 - Definição de Competências
-- Polícia Judiciária
 - Investigação Criminal
 - Polícia Criminal
+- Polícia Judiciária
 relationships:
 - type: amended_by
   target: pt:dre:453255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 4º da Lei 21/2000 de 10-Ago, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275-a/2000/11/09/p/dre
   label: null
@@ -84,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/2000/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/21/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:339841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453255:por
+  label: "Revogada, a partir de 26.09.2008, a Lei 21/2000, de 10-Ago, alterada pelo presente diploma, pela LEI.49/2008.27.08.2008.AR,\
+    \ DR.IS [165] de 27.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2008-453255
+  date: '2008-08-27'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:09Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +162,9 @@ c) Falsidade de testemunho, perícia, interpretação ou tradução, conexos com
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 4.º — Competência reservada em matéria de investigação criminal
+Artigo 4.º
+
+Competência reservada em matéria de investigação criminal
 
 É da competência reservada da Polícia Judiciária a investigação dos seguintes crimes:
 
@@ -212,12 +234,12 @@ ff) Tráfico de armas, quando praticado de forma organizada.»
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix.
 
-**Promulgado em 22 de Novembro de 2002.**
+Promulgado em 22 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Dezembro de 2002.**
+Referendado em 2 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

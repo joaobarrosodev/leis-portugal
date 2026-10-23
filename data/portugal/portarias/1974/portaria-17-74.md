@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-1974-302970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a8105dbf2ea18a33c4265ff3a23dbafefb99184c3461cf89c70c8675d630c86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f947353c38cda792de0b69d44feeded14b832c61a02fdcee33c3ac4dadcb26b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,31 @@ relationships:
   target: pt:dre:252002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado, no sentido clarificar, que a limitação introduzida no artigo 196 .º, do Regulamento da Inscrição Marítima,
+    Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na
+    redação do presente diploma, pelo(a) Portaria n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:21:01Z'
   warnings: []
   errors: []
 ---

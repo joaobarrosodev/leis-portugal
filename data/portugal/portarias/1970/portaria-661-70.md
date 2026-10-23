@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1970-146030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905c9ab9af5882942bd8f17b43e4d27be13bf3486e060f3f02ac3a6feb15a239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73cf4332ae9bf28e9bce0c03fccc434b1c28267e5ed570e444f01bc7c23e30d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:457828:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 82
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 81
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:24Z'
   warnings: []
   errors: []
 ---
@@ -93,15 +97,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 2.º Ficam revogadas as Instruções para as Vistorias aos Veios das Máquinas Propulsoras dos Navios e Embarcações, aprovadas pela [Portaria n.º 4852](https://diariodarepublica.pt/dr/detalhe/portaria/4852-1927-457828), de 7 de Abril de 1927.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 REGULAMENTO SOBRE AS CONDIÇÕES A QUE DEVEM SATISFAZER OS VEIOS DAS EMBARCAÇÕES
 
 ### CAPÍTULO I — Definições
 
-###### Artigo 1.º Chama-se «linha de veios», numa embarcação com hélice, ao conjunto de veios formado pelo veio motor, num extremo, e pelos veios intermédios e que tem no outro extremo o veio propulsor.
+Artigo 1.º Chama-se «linha de veios», numa embarcação com hélice, ao conjunto de veios formado pelo veio motor, num extremo, e pelos veios intermédios e que tem no outro extremo o veio propulsor.
 
-###### Art. 2.º - 1. Ao veio motor de uma máquina alternativa chama-se «veio de manivelas»; chama-se «veio da roda» ou «do rotador» ao veio de uma turbina. Chama-se «veio motor», num motor eléctrico, ao veio que suporta o colector do induzido, quando é de corrente contínua, ou a armadura, no caso de corrente alterna.
+Art. 2.º - 1. Ao veio motor de uma máquina alternativa chama-se «veio de manivelas»; chama-se «veio da roda» ou «do rotador» ao veio de uma turbina. Chama-se «veio motor», num motor eléctrico, ao veio que suporta o colector do induzido, quando é de corrente contínua, ou a armadura, no caso de corrente alterna.
 
 2. Num veio de manivelas chama-se:
 
@@ -109,35 +113,35 @@ Munhão - à parte do veio de manivelas que liga os braços de uma mesma manivel
 
 Moente - à parte do veio de manivelas que liga duas manivelas consecutivas e trabalha na chumaceira de apoio.
 
-###### Art. 3.º O veio onde o hélice é montado chama-se «veio propulsor» ou «veio porta-hélice».
+Art. 3.º O veio onde o hélice é montado chama-se «veio propulsor» ou «veio porta-hélice».
 
-###### Art. 4.º Quando o veio propulsor é exterior ao navio, chama-se «veio da manga» ao veio que atravessa o cadaste dentro da manga.
+Art. 4.º Quando o veio propulsor é exterior ao navio, chama-se «veio da manga» ao veio que atravessa o cadaste dentro da manga.
 
-###### Art. 5.º Quando exista um veio entre o veio propulsor e o veio da manga, esse recebe o nome de «veio intermédio exterior».
+Art. 5.º Quando exista um veio entre o veio propulsor e o veio da manga, esse recebe o nome de «veio intermédio exterior».
 
-###### Art. 6.º Os veios existentes entre o veio motor e o veio propulsor chamam-se «veios intermédios».
+Art. 6.º Os veios existentes entre o veio motor e o veio propulsor chamam-se «veios intermédios».
 
-###### Art. 7.º Ao veio com um ou mais anéis destinados a suportar os esforços longitudinais chama-se «veio de impulso».
+Art. 7.º Ao veio com um ou mais anéis destinados a suportar os esforços longitudinais chama-se «veio de impulso».
 
-###### Art. 8.º Os veios são ligados entre si por meio de pratos de união. Estes podem ser forjados com os veios ou montados neles.
+Art. 8.º Os veios são ligados entre si por meio de pratos de união. Estes podem ser forjados com os veios ou montados neles.
 
-###### Art. 9.º Chamam-se «parafusos das uniões» aos parafusos que ligam entre si os pratos de dois veios.
+Art. 9.º Chamam-se «parafusos das uniões» aos parafusos que ligam entre si os pratos de dois veios.
 
-###### Art. 10.º Chamam-se «parafusos guias» os parafusos cilíndricos montados num prato de união por meio de porcas e que têm movimento livre no sentido longitudinal, nos furos do prato de união do veio adjacente.
+Art. 10.º Chamam-se «parafusos guias» os parafusos cilíndricos montados num prato de união por meio de porcas e que têm movimento livre no sentido longitudinal, nos furos do prato de união do veio adjacente.
 
-###### Art. 11.º No caso de turbinas, devem ser atendidas as designações que constam dos artigos que seguem.
+Art. 11.º No caso de turbinas, devem ser atendidas as designações que constam dos artigos que seguem.
 
-###### Art. 12.º «Veio motor» é o veio da roda ou do rotador da turbina.
+Art. 12.º «Veio motor» é o veio da roda ou do rotador da turbina.
 
-###### Art. 13.º «Veio primário» é o que está ligado ao veio motor e transmite o seu movimento, por meio de engrenagens, ao veio secundário ou ao veio propulsor.
+Art. 13.º «Veio primário» é o que está ligado ao veio motor e transmite o seu movimento, por meio de engrenagens, ao veio secundário ou ao veio propulsor.
 
-###### Art. 14.º Quando exista engrenagem dupla, chama-se «veio secundário» àquele em que estão montados a roda e o carrete secundários.
+Art. 14.º Quando exista engrenagem dupla, chama-se «veio secundário» àquele em que estão montados a roda e o carrete secundários.
 
-###### Art. 15.º Chama-se «veio de ligação» ao veio da última roda da engrenagem ligado a um veio intermédio, já na linha de veios.
+Art. 15.º Chama-se «veio de ligação» ao veio da última roda da engrenagem ligado a um veio intermédio, já na linha de veios.
 
-###### Art. 16.º Quando mais de uma turbina engrene separadamente numa dada linha de veios, os veios primários recebem as designações de «alta pressão», «média pressão» e «baixa pressão», respectivamente, e a abreviatura EB ou BB, conforme se trate da linha de veios de estibordo ou de bombordo.
+Art. 16.º Quando mais de uma turbina engrene separadamente numa dada linha de veios, os veios primários recebem as designações de «alta pressão», «média pressão» e «baixa pressão», respectivamente, e a abreviatura EB ou BB, conforme se trate da linha de veios de estibordo ou de bombordo.
 
-###### Art. 17.º - 1. Chama-se «casquilho do suporte mais a ré» ao casquilho colocado a ré, junto do hélice no qual se apoia a extremidade do veio propulsor.
+Art. 17.º - 1. Chama-se «casquilho do suporte mais a ré» ao casquilho colocado a ré, junto do hélice no qual se apoia a extremidade do veio propulsor.
 
 2. Se existe mais de uma aranha para suporte do veio propulsor, continua a chamar-se «casquilho do suporte mais a ré» ao casquilho que corresponde à definição acima dada, e «casquilhos dos suportes intermédios» aos que ficam entre esse casquilho e a manga do veio.
 
@@ -149,9 +153,9 @@ Moente - à parte do veio de manivelas que liga duas manivelas consecutivas e tr
 
 #### SECÇÃO I — Materiais
 
-###### Art. 18.º Todos os materiais destinados à construção de veios devem ser manufacturados e provados segundo o estabelecido neste Regulamento, ou, em casos especiais, mediante especificação aprovada pela Repartição Técnica da Direcção da Marinha Mercante e sob fiscalização dos seus peritos.
+Art. 18.º Todos os materiais destinados à construção de veios devem ser manufacturados e provados segundo o estabelecido neste Regulamento, ou, em casos especiais, mediante especificação aprovada pela Repartição Técnica da Direcção da Marinha Mercante e sob fiscalização dos seus peritos.
 
-###### Art. 19.º De uma maneira geral, os lingotes de aço para veios a calcular pelas fórmulas deste Regulamento devem ter uma resistência considerada tipo, ou seja uma carga de rotura à tracção de 44 kg/mm2 a 52 kg/mm2 (28 t a 33 t por polegada quadrada) e, depois de forjados ou laminados, a sua carga de rotura à tracção e o alongamento devem satisfazer às seguintes expressões:
+Art. 19.º De uma maneira geral, os lingotes de aço para veios a calcular pelas fórmulas deste Regulamento devem ter uma resistência considerada tipo, ou seja uma carga de rotura à tracção de 44 kg/mm2 a 52 kg/mm2 (28 t a 33 t por polegada quadrada) e, depois de forjados ou laminados, a sua carga de rotura à tracção e o alongamento devem satisfazer às seguintes expressões:
 
 Cr x 0,635 + 100 x A >= 57
 
@@ -165,17 +169,17 @@ Cr = carga de rotura à tracção em quilogramas por milímetro quadrado (kg/mm2
 
 A = percentagem de alongamento (relação entre o alongamento e o comprimento entre pontos de referência medidos em qualquer das barretas tipo, definidas neste Regulamento).
 
-###### Art. 20.º Quando sejam fornecidos certificados de materiais cujas provas tenham sido realizadas com barretas de dimensões diferentes das que constam neste Regulamento, os alongamentos equivalentes poderão ser calculados pela seguinte expressão:
+Art. 20.º Quando sejam fornecidos certificados de materiais cujas provas tenham sido realizadas com barretas de dimensões diferentes das que constam neste Regulamento, os alongamentos equivalentes poderão ser calculados pela seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
-###### Art. 21.º Qualquer aço especial, não especificado neste Regulamento, terá de ser submetido à aprovação da Repartição Técnica da Direcção da Marinha Mercante, mediante requerimento da entidade interessada, acompanhados das características químicas e mecânicas do material. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com as disposições do artigo 144.º
+Art. 21.º Qualquer aço especial, não especificado neste Regulamento, terá de ser submetido à aprovação da Repartição Técnica da Direcção da Marinha Mercante, mediante requerimento da entidade interessada, acompanhados das características químicas e mecânicas do material. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com as disposições do artigo 144.º
 
-###### Art. 22.º Quando se pretenda utilizar materiais não ferrosos na construção de veios, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante todos os pormenores da especificação (características químicas e mecânicas e dimensões), bem como o processo de manufactura. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com o estabelecido no artigo 144.º
+Art. 22.º Quando se pretenda utilizar materiais não ferrosos na construção de veios, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante todos os pormenores da especificação (características químicas e mecânicas e dimensões), bem como o processo de manufactura. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com o estabelecido no artigo 144.º
 
-###### Art. 23.º Os braços dos veios de manivelas, quando não fazem parte integrante do veio, podem ser forjados ou laminados de lingotes de aço, ou feitos de ferro forjado ou aço vazado.
+Art. 23.º Os braços dos veios de manivelas, quando não fazem parte integrante do veio, podem ser forjados ou laminados de lingotes de aço, ou feitos de ferro forjado ou aço vazado.
 
-###### Art. 24.º Os pratos das uniões devem satisfazer às seguintes condições:
+Art. 24.º Os pratos das uniões devem satisfazer às seguintes condições:
 
 a) Caldeados ao veio, no caso de veios de ferro forjado;
 
@@ -185,11 +189,11 @@ c) Forjados de lingotes de aço, de ferro forjado, de sucata de aço macio ou fe
 
 #### SECÇÃO II — Vistorias
 
-###### Art. 25.º As superfícies dos veios em construção devem ser examinadas após o seu acabamento ao torno, podendo também ser inspeccionadas após as primeiras passagens, se o perito o achar conveniente.
+Art. 25.º As superfícies dos veios em construção devem ser examinadas após o seu acabamento ao torno, podendo também ser inspeccionadas após as primeiras passagens, se o perito o achar conveniente.
 
-###### Art. 26.º Quando os veios forem providos de camisas contínuas ou quando tenham sistema de lubrificação em manga fechada, ou ainda quando feitos de material resistente à corrosão aprovado pela Repartição Técnica da Direcção da Marinha Mercante, as vistorias aos veios propulsores poderão ser efectuadas de três em três anos, em navios de um só hélice, e de quatro em quatro anos, em navios de dois ou mais hélices.
+Art. 26.º Quando os veios forem providos de camisas contínuas ou quando tenham sistema de lubrificação em manga fechada, ou ainda quando feitos de material resistente à corrosão aprovado pela Repartição Técnica da Direcção da Marinha Mercante, as vistorias aos veios propulsores poderão ser efectuadas de três em três anos, em navios de um só hélice, e de quatro em quatro anos, em navios de dois ou mais hélices.
 
-###### Art. 27.º - 1. Mediante requerimento dos armadores, as vistorias aos veios dos navios de um só hélice, que tenham camisas contínuas ou sistema de lubrificação em manga fechada, ou ainda quando feitos de material resistente à corrosão aprovado pela Repartição Técnica da Direcção da Marinha Mercante, poderão ser efectuadas de quatro em quatro anos, desde que satisfaçam simultâneamente às seguintes condições:
+Art. 27.º - 1. Mediante requerimento dos armadores, as vistorias aos veios dos navios de um só hélice, que tenham camisas contínuas ou sistema de lubrificação em manga fechada, ou ainda quando feitos de material resistente à corrosão aprovado pela Repartição Técnica da Direcção da Marinha Mercante, poderão ser efectuadas de quatro em quatro anos, desde que satisfaçam simultâneamente às seguintes condições:
 
 a) O escatel de fixação do hélice seja dos tipos rampa ou de topos arredondados com curva de concordância apropriada e tenha todas as arestas arredondadas na superfície do veio;
 
@@ -197,33 +201,33 @@ b) Em cada vistoria o veio seja examinado por um método eficiente de detecção
 
 2. Mediante requerimento do armador e desde que o escatel seja dos tipos indicados acima, a primeira vistoria a um veio de um navio novo de um só hélice poderá ser efectuada apenas passados quatro anos, podendo esta autorização ser extensiva a um veio novo ou a um veio sobresselente ainda não utilizado de navios já existentes. Na primeira vistoria e subsequentes vistorias periódicas a zona de vante do cone do veio deverá ser examinada por um método eficiente de detecção de fendas.
 
-###### Art. 28.º Todos os veios não abrangidos pelos artigos anteriores devem ser vistoriados de dois em dois anos.
+Art. 28.º Todos os veios não abrangidos pelos artigos anteriores devem ser vistoriados de dois em dois anos.
 
-###### Art. 29.º Todos os anos, quando o navio é vistoriado em seco, devem ser inspeccionados os hélices, os bucins das mangas, as vedações e as ligações com o mar. Devem, igualmente, ser medidas as folgas dos casquilhos da manga ou verificado o estado de eficiência dos bucins no caso de mangas fechadas e medidas as folgas dos casquilhos das aranhas, se existirem.
+Art. 29.º Todos os anos, quando o navio é vistoriado em seco, devem ser inspeccionados os hélices, os bucins das mangas, as vedações e as ligações com o mar. Devem, igualmente, ser medidas as folgas dos casquilhos da manga ou verificado o estado de eficiência dos bucins no caso de mangas fechadas e medidas as folgas dos casquilhos das aranhas, se existirem.
 
-###### Art. 30.º Quadrienalmente, ou sempre que tal se torne necessário em virtude de reparações, deve ser verificado o estado de conservação e alinhamento do conjunto que constitui uma linha de veios.
+Art. 30.º Quadrienalmente, ou sempre que tal se torne necessário em virtude de reparações, deve ser verificado o estado de conservação e alinhamento do conjunto que constitui uma linha de veios.
 
 #### SECÇÃO III — Alinhamento dos veios motores
 
-###### Art. 31.º Todas as instalações de máquinas constituídas por motores Diesel principais ou auxiliares excedendo 300 BHP ou por máquinas de vapor alternativas, devem dispor de instrumentos para verificação do alinhamento dos veios motores. Poderão ser usados indistintamente pontes ou flexímetros.
+Art. 31.º Todas as instalações de máquinas constituídas por motores Diesel principais ou auxiliares excedendo 300 BHP ou por máquinas de vapor alternativas, devem dispor de instrumentos para verificação do alinhamento dos veios motores. Poderão ser usados indistintamente pontes ou flexímetros.
 
 No caso do emprego de flexímetros, bastará a existência de um único flexímetro que possa ser utilizado em todos os motores da instalação.
 
-###### Art. 32.º Todas as instalações de turbinas a vapor (principais ou auxiliares) devem possuir dispositivos de tipo aprovado pela Repartição Técnica da Direcção da Marinha Mercante para verificação do alinhamento dos veios motores e dos veios das engrenagens.
+Art. 32.º Todas as instalações de turbinas a vapor (principais ou auxiliares) devem possuir dispositivos de tipo aprovado pela Repartição Técnica da Direcção da Marinha Mercante para verificação do alinhamento dos veios motores e dos veios das engrenagens.
 
 Estes dispositivos serão fornecidos pelos construtores e serão ajustados na presença de um perito.
 
 #### SECÇÃO IV — Cálculo das dimensões dos veios
 
-###### Art. 33.º - 1. O cálculo das dimensões dos veios deverá ser feito de acordo com as regras do capítulo IV.
+Art. 33.º - 1. O cálculo das dimensões dos veios deverá ser feito de acordo com as regras do capítulo IV.
 
 2. Serão aceites os cálculos feitos segundo as regras das sociedades de classificação reconhecidas pelo Governo Português.
 
 #### SECÇÃO V — Reforço para a navegação nos gelos
 
-###### Art. 34.º Os diâmetros dos veios propulsores das embarcações destinadas à navegação nos gelos não deverão ser inferiores aos determinados pelas regras do capítulo IV aumentados de 20, 15, 8 e 5 por cento, respectivamente, para embarcações destinadas a navegar em zonas de extremas condições, de severas condições, de médias condições ou de regulares condições, devidas ao gelo.
+Art. 34.º Os diâmetros dos veios propulsores das embarcações destinadas à navegação nos gelos não deverão ser inferiores aos determinados pelas regras do capítulo IV aumentados de 20, 15, 8 e 5 por cento, respectivamente, para embarcações destinadas a navegar em zonas de extremas condições, de severas condições, de médias condições ou de regulares condições, devidas ao gelo.
 
-###### Art. 35.º Os diâmetros dos veios de manivelas, impulso e intermédios das embarcações destinadas à navegação nos gelos não deverão ser inferiores aos determinados pelas regras do capítulo IV aumentados de 12, 8 e 4 por cento, respectivamente, para embarcações destinadas a navegar em zonas de extremas condições, de severas condições ou de médias condições, devidas ao gelo. Os diâmetros dos veios de manivelas dos motores Diesel não necessitam de qualquer aumento.
+Art. 35.º Os diâmetros dos veios de manivelas, impulso e intermédios das embarcações destinadas à navegação nos gelos não deverão ser inferiores aos determinados pelas regras do capítulo IV aumentados de 12, 8 e 4 por cento, respectivamente, para embarcações destinadas a navegar em zonas de extremas condições, de severas condições ou de médias condições, devidas ao gelo. Os diâmetros dos veios de manivelas dos motores Diesel não necessitam de qualquer aumento.
 
 ### CAPÍTULO III — Condições gerais a que devem satisfazer os aços para veios
 
@@ -231,13 +235,13 @@ Estes dispositivos serão fornecidos pelos construtores e serão ajustados na pr
 
 ##### SUBSECÇÃO I — Processo de manufactura
 
-###### Art. 36.º Os lingotes de aço para forjamento dos veios serão obtidos pelos processos Siemens-Martin, forno eléctrico, ou qualquer outro que mereça aprovação da Repartição Técnica da Direcção da Marinha Mercante.
+Art. 36.º Os lingotes de aço para forjamento dos veios serão obtidos pelos processos Siemens-Martin, forno eléctrico, ou qualquer outro que mereça aprovação da Repartição Técnica da Direcção da Marinha Mercante.
 
-###### Art. 37.º Só devem ser empregados lingotes sem defeito, homogéneos, sobre os quais será executado um trabalho de forja gradual e uniforme.
+Art. 37.º Só devem ser empregados lingotes sem defeito, homogéneos, sobre os quais será executado um trabalho de forja gradual e uniforme.
 
 ##### SUBSECÇÃO II — Tratamento a quente
 
-###### Art. 38.º - 1. O tratamento a quente das peças de aço forjado deve ser executado em forno próprio com adequado contrôle de temperatura. Se as peças, mais tarde, voltarem a ser aquecidas, deverão ser novamente tratadas a quente.
+Art. 38.º - 1. O tratamento a quente das peças de aço forjado deve ser executado em forno próprio com adequado contrôle de temperatura. Se as peças, mais tarde, voltarem a ser aquecidas, deverão ser novamente tratadas a quente.
 
 As peças de aço forjado devem ser aquecidas uniformemente a uma temperatura acima do ponto crítico superior a fim de refinar o grão e sujeitas a um dos seguintes tratamentos térmicos:
 
@@ -249,7 +253,7 @@ c) Temperadas com arrefecimento em óleo, ou por outro método reconhecido, segu
 
 2. As dimensões das peças forjadas a revenir depois do recozimento serão as que constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 3. O emprego de maçarico de corte só será permitido desde que seja sancionado por um perito oficial, e, sempre que possível, antes de realizado o tratamento térmico.
 
@@ -259,29 +263,29 @@ c) Temperadas com arrefecimento em óleo, ou por outro método reconhecido, segu
 
 ##### SUBSECÇÃO III — Provas e inspecções
 
-###### Art. 39.º Os veios forjados não devem apresentar defeitos quando trabalhados em máquinas-ferramentas, até serem atingidas as dimensões desejadas.
+Art. 39.º Os veios forjados não devem apresentar defeitos quando trabalhados em máquinas-ferramentas, até serem atingidas as dimensões desejadas.
 
 Os defeitos que se revelem não podem ser reparados, nem mesmo por soldadura eléctrica.
 
-###### Art. 40.º Sempre que o veio se revele inaceitável, quer durante o trabalho na máquina-ferramenta de corte, quer durante a montagem, será rejeitado, ainda que tenha sido acompanhado de qualquer certificado.
+Art. 40.º Sempre que o veio se revele inaceitável, quer durante o trabalho na máquina-ferramenta de corte, quer durante a montagem, será rejeitado, ainda que tenha sido acompanhado de qualquer certificado.
 
-###### Art. 41.º - 1. A resistência à tracção e a ductilidade do material devem ser determinadas por meio de barretas tipo, tiradas no sentido do comprimento do veio forjado.
+Art. 41.º - 1. A resistência à tracção e a ductilidade do material devem ser determinadas por meio de barretas tipo, tiradas no sentido do comprimento do veio forjado.
 
 2. Em determinadas condições de escassez de material, as barretas poderão ser tiradas transversalmente.
 
-###### Art. 42.º - 1. As dimensões finais das barretas, para provas, não devem ser obtidas por forjamento, mas por trabalho na máquina-ferramenta de corte a frio.
+Art. 42.º - 1. As dimensões finais das barretas, para provas, não devem ser obtidas por forjamento, mas por trabalho na máquina-ferramenta de corte a frio.
 
 2. O perito oficial que assistir às provas das barretas deverá marcá-las, desde que os resultados sejam positivos.
 
 ##### SUBSECÇÃO IV — Número de provas
 
-###### Art. 43.º - 1. Deve ser tirada, pelo menos, uma barreta para prova de resistência à tracção e outra para prova de dobragem do material forjado a empregar.
+Art. 43.º - 1. Deve ser tirada, pelo menos, uma barreta para prova de resistência à tracção e outra para prova de dobragem do material forjado a empregar.
 
 2. No caso de o peso do veio forjado exceder 3000 kg e 2,44 m de comprimento, devem ser tiradas de cada extremo uma barreta para a prova de tracção e outra para prova de dobragem.
 
 ##### SUBSECÇÃO V — Dimensões das barretas de prova à tracção
 
-###### Art. 44.º - 1. As barretas de prova à tracção devem ser torneadas de forma que o diâmetro da sua secção recta, entre pontos de referência, não seja inferior a 12,5 mm, podendo utilizar-se indistintamente como comprimento entre pontos de referência o comprimento correspondente a 4 ou 5,65 vezes a raiz quadrada da área da referida secção recta.
+Art. 44.º - 1. As barretas de prova à tracção devem ser torneadas de forma que o diâmetro da sua secção recta, entre pontos de referência, não seja inferior a 12,5 mm, podendo utilizar-se indistintamente como comprimento entre pontos de referência o comprimento correspondente a 4 ou 5,65 vezes a raiz quadrada da área da referida secção recta.
 
 2. Só poderão ser utilizadas barretas de dimensões diferentes das anteriormente indicadas nos casos especiais em que as dimensões da peça forjada o não permitam fazer, devendo, no entanto, ser obtida a aprovação do perito oficial. Nestes casos, as dimensões da barreta deverão ser tão grandes quanto possível, utilizando-se um comprimento padrão entre pontos de referência.
 
@@ -289,7 +293,7 @@ Os defeitos que se revelem não podem ser reparados, nem mesmo por soldadura el�
 
 ##### SUBSECÇÃO VI — Prova de tracção
 
-###### Art. 45.º - 1. A carga de rotura à tracção do material forjado deve ficar compreendida entre 44 kg/mm2 e 71 kg/mm2, e os resultados das provas não devem diferir entre si mais do que 7,9 kg/mm2.
+Art. 45.º - 1. A carga de rotura à tracção do material forjado deve ficar compreendida entre 44 kg/mm2 e 71 kg/mm2, e os resultados das provas não devem diferir entre si mais do que 7,9 kg/mm2.
 
 2. No caso de serem tiradas barretas de cada extremo de uma peça forjada, os resultados das provas não deverão diferir entre si mais do que 6,3 kg/mm2.
 
@@ -297,11 +301,11 @@ Os defeitos que se revelem não podem ser reparados, nem mesmo por soldadura el�
 
 4. As percentagens de alongamento correspondentes às diversas cargas de rotura não deverão ser inferiores aos valores mínimos indicados na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ##### SUBSECÇÃO VII — Dimensões das barretas de prova de dobragem
 
-###### Art. 46.º - 1. As barretas para prova de dobragem terão a secção rectangular, obtida por máquina-ferramenta, e devem ter as seguintes dimensões:
+Art. 46.º - 1. As barretas para prova de dobragem terão a secção rectangular, obtida por máquina-ferramenta, e devem ter as seguintes dimensões:
 
 a) 25 mm de largura por 19 mm de espessura, quando a carga de rotura mínima estabelecida na especificação não exceda 57 kg/mmn2;
 
@@ -311,29 +315,29 @@ b) 19 mm de largura por 9,5 mm de espessura, quando a carga de rotura mínima es
 
 ##### SUBSECÇÃO VIII — Prova de dobragem
 
-###### Art. 47.º - 1. As barretas de prova de dobragem devem resistir, sem fractura, à dobragem a frio, num ângulo de 180º, não podendo os raios internos de dobragem ser superiores aos valores indicados na seguinte tabela:
+Art. 47.º - 1. As barretas de prova de dobragem devem resistir, sem fractura, à dobragem a frio, num ângulo de 180º, não podendo os raios internos de dobragem ser superiores aos valores indicados na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. A dobragem far-se-á por meio de pressão contínua ou de choque, no sentido da parte menos espessa.
 
 ##### SUBSECÇÃO IX — Provas adicionais antes da rejeição do material
 
-###### Art. 48.º Quando algumas das provas de tracção ou de dobragem (ou ambas) não satisfizerem e o perito oficial considerar que os resultados obtidos não correspondem perfeitamente à qualidade do material, podem ser ensaiadas duas novas barretas por cada prova que falhar. Nestes casos, as qualidades do material serão avaliadas pelos resultados das novas provas, desprezando-se os ensaios iniciais que falharam
+Art. 48.º Quando algumas das provas de tracção ou de dobragem (ou ambas) não satisfizerem e o perito oficial considerar que os resultados obtidos não correspondem perfeitamente à qualidade do material, podem ser ensaiadas duas novas barretas por cada prova que falhar. Nestes casos, as qualidades do material serão avaliadas pelos resultados das novas provas, desprezando-se os ensaios iniciais que falharam
 
 ##### SUBSECÇÃO X — Marcação das peças
 
-###### Art. 49.º Todas as peças forjadas, depois de terem correspondido satisfatòriamente às provas exigidas, devem ser marcadas, pelo perito, em lugar bem visível, ficando assim indicado que o material satisfaz ao Regulamento.
+Art. 49.º Todas as peças forjadas, depois de terem correspondido satisfatòriamente às provas exigidas, devem ser marcadas, pelo perito, em lugar bem visível, ficando assim indicado que o material satisfaz ao Regulamento.
 
 #### SECÇÃO II — Peças de aço vazado
 
 ##### SUBSECÇÃO I — Processo de manufactura
 
-###### Art. 50.º O aço para moldação de peças, tais como manivelas e munhões, deve ser obtido pelos processos Siemens-Martin, forno eléctrico, ou qualquer outro que mereça aprovação da Repartição Técnica da Direcção da Marinha Mercante, não devendo em qualquer hipótese conter mais do que 0,05 por cento de enxofre e igual percentagem de fósforo.
+Art. 50.º O aço para moldação de peças, tais como manivelas e munhões, deve ser obtido pelos processos Siemens-Martin, forno eléctrico, ou qualquer outro que mereça aprovação da Repartição Técnica da Direcção da Marinha Mercante, não devendo em qualquer hipótese conter mais do que 0,05 por cento de enxofre e igual percentagem de fósforo.
 
 ##### SUBSECÇÃO II — Tratamento a quente
 
-###### Art. 51.º - 1. O tratamento a quente das peças de aço vazado deve ser executado em forno próprio com adequado contrôle de temperatura.
+Art. 51.º - 1. O tratamento a quente das peças de aço vazado deve ser executado em forno próprio com adequado contrôle de temperatura.
 
 2. As peças de aço vazado devem ser aquecidas uniformemente a uma temperatura acima do ponto crítico superior, a fim de refinar o grão, e sujeitas a um dos seguintes tratamentos térmicos:
 
@@ -347,17 +351,17 @@ c) Uma combinação dos dois tratamentos anteriores, recozidas (annealed) a uma 
 
 ##### SUBSECÇÃO III — Provas e inspecções
 
-###### Art. 52.º As provas e inspecções consideradas devem ser feitas na presença do perito, de preferência no local do fabrico. As peças que não satisfaçam as condições estabelecidas serão rejeitadas.
+Art. 52.º As provas e inspecções consideradas devem ser feitas na presença do perito, de preferência no local do fabrico. As peças que não satisfaçam as condições estabelecidas serão rejeitadas.
 
-###### Art. 53.º A resistência à tracção e a ductilidade devem ser determinadas em barretas tipo, obtidas das peças vazadas. Estas barretas não devem ser destacadas das peças antes de estar concluído o tratamento térmico, sendo escolhidas e marcadas pelo perito.
+Art. 53.º A resistência à tracção e a ductilidade devem ser determinadas em barretas tipo, obtidas das peças vazadas. Estas barretas não devem ser destacadas das peças antes de estar concluído o tratamento térmico, sendo escolhidas e marcadas pelo perito.
 
 ##### SUBSECÇÃO IV — Número de provas
 
-###### Art. 54.º Devem ser feitas, pelo menos, uma prova de resistência à tracção e uma de dobragem a frio por cada moldação. Quando as cargas são todas misturadas antes da moldação, numa única colher, pode considerar-se como uma simples carga.
+Art. 54.º Devem ser feitas, pelo menos, uma prova de resistência à tracção e uma de dobragem a frio por cada moldação. Quando as cargas são todas misturadas antes da moldação, numa única colher, pode considerar-se como uma simples carga.
 
 ##### SUBSECÇÃO V — Dimensões das barretas de prova à tracção
 
-###### Art. 55.º As barretas para a prova de tracção devem ser torneadas de forma a ficarem com as seguintes dimensões:
+Art. 55.º As barretas para a prova de tracção devem ser torneadas de forma a ficarem com as seguintes dimensões:
 
 a) Diâmetro de 14 mm, com um comprimento entre pontos de referência de 50 mm;
 
@@ -365,11 +369,11 @@ b) Diâmetro de 20 mm, com um comprimento entre pontos de referência de 75 mm;
 
 c) Diâmetro de 25 mm, com um comprimento entre pontos de referência de 90 mm.
 
-##### SUBSECÇAO VI
+SUBSECÇAO VI
 
 Prova de tracção
 
-###### Art. 56.º - 1. A carga de rotura, determinada na prova das barretas, deve estar compreendida entre 41 kg/mm2 e 55 kg/mm2 e o alongamento, medido nas mesmas barretas, não deve ser inferior a 20 por cento.
+Art. 56.º - 1. A carga de rotura, determinada na prova das barretas, deve estar compreendida entre 41 kg/mm2 e 55 kg/mm2 e o alongamento, medido nas mesmas barretas, não deve ser inferior a 20 por cento.
 
 2. O material para braços de manivela, ou manivelas completas, deve ter uma resistência à tracção compreendida entre 44 kg/mm2 e 55 kg/mm2, e o valor do seu limite de elasticidade não deve ser inferior a metade da respectiva carga de rotura.
 
@@ -385,27 +389,27 @@ A - é a relação entre o alongamento e o comprimento medido entre os pontos de
 
 ##### SUBSECÇÃO VII — Dimensões das barretas da prova de dobragem
 
-###### Art. 57.º As barretas para a prova de dobragem devem ser feitas na máquina-ferramenta e podem ter a forma rectangular ou cilíndrica. As suas dimensões são 25 mm de largura por 19 mm de espessura, com as arestas arredondadas num raio de 1,5 mm ou 25 mm de diâmetro no caso de serem cilíndricas.
+Art. 57.º As barretas para a prova de dobragem devem ser feitas na máquina-ferramenta e podem ter a forma rectangular ou cilíndrica. As suas dimensões são 25 mm de largura por 19 mm de espessura, com as arestas arredondadas num raio de 1,5 mm ou 25 mm de diâmetro no caso de serem cilíndricas.
 
 ##### SUBSECÇÃO VIII — Prova de dobragem
 
-###### Art. 58.º - 1. As barretas para braços de manivela e munhões encastrados nos braços de manivela, quando dobradas a frio num ângulo de 180º, devem resistir sem fractura, de modo que o raio interno não exceda 19 mm.
+Art. 58.º - 1. As barretas para braços de manivela e munhões encastrados nos braços de manivela, quando dobradas a frio num ângulo de 180º, devem resistir sem fractura, de modo que o raio interno não exceda 19 mm.
 
 2. A dobragem deve ser realizada por meio de pressão continua ou de choque e no sentido da parte menos espessa.
 
 ##### SUBSECÇÃO IX — Provas adicionais antes da rejeição do material
 
-###### Art. 59.º - 1. Quando algumas das provas de tracção ou de dobragem não satisfizerem, ou ambas, e o perito considerar que os resultados obtidos não comprovam perfeitamente a qualidade do material, podem ser repetidas as provas que falharam, se o fabricante o requerer.
+Art. 59.º - 1. Quando algumas das provas de tracção ou de dobragem não satisfizerem, ou ambas, e o perito considerar que os resultados obtidos não comprovam perfeitamente a qualidade do material, podem ser repetidas as provas que falharam, se o fabricante o requerer.
 
 2. Nestes casos, as qualidades do material serão avaliadas pelos resultados das novas provas, desprezando-se os ensaios iniciais que falharam.
 
 ##### SUBSECÇÃO X — Provas de martelamento
 
-###### Art. 60.º Todas as peças vazadas devem ser bem marteladas, mas lentamente, para que o perito verifique se o material está homogéneo e sem fendas. A superfície não deve ser martelada até ficar marcada ou afectada de qualquer forma que prejudique o exame.
+Art. 60.º Todas as peças vazadas devem ser bem marteladas, mas lentamente, para que o perito verifique se o material está homogéneo e sem fendas. A superfície não deve ser martelada até ficar marcada ou afectada de qualquer forma que prejudique o exame.
 
 ##### SUBSECÇÃO XI — Provas não destrutivas
 
-###### Art. 61.º Os braços de manivela e munhões encastrados nos braços de manivela devem ser examinados pelo detector de fendas, magnético. Para isso, as superfícies devem ser tratadas prèviamente e de acordo com o perito, de qualquer destas maneiras:
+Art. 61.º Os braços de manivela e munhões encastrados nos braços de manivela devem ser examinados pelo detector de fendas, magnético. Para isso, as superfícies devem ser tratadas prèviamente e de acordo com o perito, de qualquer destas maneiras:
 
 Limpas ou decapadas e cobertas com uma pintura de cor branca apropriada;
 
@@ -415,7 +419,7 @@ Polidas por esmeril.
 
 ##### SUBSECÇÃO XII — Marcação das peças
 
-###### Art. 62.º Todas as peças, depois de terem correspondido satisfatòriamente às provas exigidas, devem ser marcadas pelo perito, em lugar bem visível, ficando assim indicado que o material satisfaz ao Regulamento.
+Art. 62.º Todas as peças, depois de terem correspondido satisfatòriamente às provas exigidas, devem ser marcadas pelo perito, em lugar bem visível, ficando assim indicado que o material satisfaz ao Regulamento.
 
 ### CAPÍTULO IV — Regras para a determinação das dimensões dos veios
 
@@ -423,19 +427,19 @@ Polidas por esmeril.
 
 ##### SUBSECÇÃO I — Dimensões dos veios
 
-###### Art. 63.º Os valores dos diâmetros dos veios da manivelas, intermédios e outros, manufacturados com aços, cuja carga de rotura à tracção esteja compreendida entre 44 kg/mm2 e 52 kg/mm2, determinam-se pelas fórmulas que a seguir se indicam.
+Art. 63.º Os valores dos diâmetros dos veios da manivelas, intermédios e outros, manufacturados com aços, cuja carga de rotura à tracção esteja compreendida entre 44 kg/mm2 e 52 kg/mm2, determinam-se pelas fórmulas que a seguir se indicam.
 
-###### Art. 64.º - 1. O valor mínimo do diâmetro dos veios intermédios, será dado pela fórmula:
+Art. 64.º - 1. O valor mínimo do diâmetro dos veios intermédios, será dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. O valor dos diâmetros dos veios pode ser reduzido de 3,5 por cento em navios destinados a navegar exclusivamente em águas calmas.
 
-###### Art. 65.º O diâmetro do veio de manivelas não deve ser inferior a 1,05 vezes o valor do veio intermédio, dado pela fórmula do artigo 64.º
+Art. 65.º O diâmetro do veio de manivelas não deve ser inferior a 1,05 vezes o valor do veio intermédio, dado pela fórmula do artigo 64.º
 
 ##### SUBSECÇÃO II — Braços de manivela de veios forjados numa só peça
 
-###### Art. 66.º - 1. As dimensões dos braços das manivelas forjadas com os veios numa peça única não devem ser inferiores aos seguintes valores:
+Art. 66.º - 1. As dimensões dos braços das manivelas forjadas com os veios numa peça única não devem ser inferiores aos seguintes valores:
 
 a) Largura dos braços, 1,33 vezes o diâmetro do veio de manivelas;
 
@@ -445,39 +449,39 @@ b) Espessura do braço, 0,56 vezes o referido diâmetro.
 
 ##### SUBSECÇÃO III — Braços de manivela de veios feitos por partes
 
-###### Art. 67.º - 1. As dimensões dos braços de manivelas, nos veios feitos por partes, não devem ser inferiores aos valores dados pelas fórmulas:
+Art. 67.º - 1. As dimensões dos braços de manivelas, nos veios feitos por partes, não devem ser inferiores aos valores dados pelas fórmulas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. Se estas proporções não forem observadas, os braços deverão ter uma resistência equivalente à que resulta das mesmas fórmulas.
 
 ##### SUBSECÇÃO IV — Contracção permitida
 
-###### Art. 68.º - 1. Os braços de manivelas devem ser fortemente apertados nos munhões e nos moentes do veio, por contracção do material dos braços.
+Art. 68.º - 1. Os braços de manivelas devem ser fortemente apertados nos munhões e nos moentes do veio, por contracção do material dos braços.
 
 2. Se não existirem cavilhas nas junções, o limite de elasticidade do material dos braços não deve ser inferior a 22 kg/mm2 e a contracção permitida deve estar compreendida entre 1/550 e 1/700 do diâmetro do veio.
 
-###### Art. 69.º Para indicar a posição dos braços de manivelas em relação aos moentes e munhões do veio deverão fazer-se marcas de referência.
+Art. 69.º Para indicar a posição dos braços de manivelas em relação aos moentes e munhões do veio deverão fazer-se marcas de referência.
 
 ##### SUBSECÇÃO V — Curvas de concordância e furos de lubrificação
 
-###### Art. 70.º - 1. As curvas de concordância das junções dos braços com os munhões ou moentes do veio, quando os veios de manivelas são forjados ou vazados numa só peça, devem ser suaves.
+Art. 70.º - 1. As curvas de concordância das junções dos braços com os munhões ou moentes do veio, quando os veios de manivelas são forjados ou vazados numa só peça, devem ser suaves.
 
 2. Os furos de lubrificação, abertos na superfície dos munhões e moentes dos veios, devem ser arredondados de modo a ficarem com um contorno uniforme e acabamento perfeito.
 
 ##### SUBSECÇÃO VI — Veios de impulso
 
-###### Art. 71.º Os veios de impulso que transmitam esforço de torção devem ter um diâmetro, entre anéis, não inferior a 1,05 di. Fora deles, podem ter o diâmetro diminuído para o valor de di (di = diâmetro do veio intermédio dado pela fórmula do artigo 64.º).
+Art. 71.º Os veios de impulso que transmitam esforço de torção devem ter um diâmetro, entre anéis, não inferior a 1,05 di. Fora deles, podem ter o diâmetro diminuído para o valor de di (di = diâmetro do veio intermédio dado pela fórmula do artigo 64.º).
 
 ##### SUBSECÇÃO VII — Veio da manga (caso de o veio propulsor ficar exterior ao navio)
 
-###### Art. 72.º - 1. O veio da manga não deve, em geral, ter um diâmetro inferior a 1,05 di (di = diâmetro do veio intermédio dado pela fórmula do artigo 64.º).
+Art. 72.º - 1. O veio da manga não deve, em geral, ter um diâmetro inferior a 1,05 di (di = diâmetro do veio intermédio dado pela fórmula do artigo 64.º).
 
 2. No caso de haver possibilidade de a água contactar como veio, dentro da manga, o diâmetro do veio não deve ser inferior a 1,075 di.
 
 ##### SUBSECÇÃO VIII — Veio propulsor
 
-###### Art. 73.º O diâmetro mínimo de um veio propulsor é dado pela fórmula:
+Art. 73.º O diâmetro mínimo de um veio propulsor é dado pela fórmula:
 
 dp = di + (dh/k)
 
@@ -493,15 +497,15 @@ k = 144, quando o veio propulsor for provido de camisa continua;
 
 k = 100, quando o veio propulsor não for provido de camisa contínua.
 
-###### Art. 74.º Os veios propulsores que passem em mangas podem ter a extremidade a vante do bucim, junto do prato de união com o veio intermédio, de forma cónica, até um diâmetro igual a 1,05 di.
+Art. 74.º Os veios propulsores que passem em mangas podem ter a extremidade a vante do bucim, junto do prato de união com o veio intermédio, de forma cónica, até um diâmetro igual a 1,05 di.
 
 ##### SUBSECÇÃO IX — Veios ocos
 
-###### Art. 75.º Os veios propulsores, da manga, intermédios e de impulso, com furo central, não necessitam de ter o diâmetro aumentado em relação aos valores obtidos pelas fórmulas, desde que o diâmetro do furo central não exceda um terço do diâmetro externo.
+Art. 75.º Os veios propulsores, da manga, intermédios e de impulso, com furo central, não necessitam de ter o diâmetro aumentado em relação aos valores obtidos pelas fórmulas, desde que o diâmetro do furo central não exceda um terço do diâmetro externo.
 
 ##### SUBSECÇÃO X — Camisas dos veios
 
-###### Art. 76.º As camisas dos veios propulsores ou dos veios das mangas, quando novas, devem ter uma espessura, na zona de atrito, igual ou maior do que o valor dado pela fórmula:
+Art. 76.º As camisas dos veios propulsores ou dos veios das mangas, quando novas, devem ter uma espessura, na zona de atrito, igual ou maior do que o valor dado pela fórmula:
 
 e = (dp + 230)/32
 
@@ -511,37 +515,37 @@ e é a espessura da camisa, em milímetros;
 
 dp é o diâmetro exigido para os veios, propulsor ou da manga, em milímetros.
 
-###### Art. 77.º As camisas contínuas devem ser fundidas numa só peça, em todo o comprimento, ou, quando feitas em duas ou mais partes, as ligações entre elas devem ser obtidas por meio de fusão através de toda a espessura da camisa.
+Art. 77.º As camisas contínuas devem ser fundidas numa só peça, em todo o comprimento, ou, quando feitas em duas ou mais partes, as ligações entre elas devem ser obtidas por meio de fusão através de toda a espessura da camisa.
 
-###### Art. 78.º A espessura da camisa contínua, na zona entre os casquilhos da manga, não deve ser inferior a 0,75 e.
+Art. 78.º A espessura da camisa contínua, na zona entre os casquilhos da manga, não deve ser inferior a 0,75 e.
 
-###### Art. 79.º As camisas dos veios devem ser metidas a quente ou por pressão hidráulica, não sendo, em caso algum, permitida a fixação no seu lugar por meio de pernos.
+Art. 79.º As camisas dos veios devem ser metidas a quente ou por pressão hidráulica, não sendo, em caso algum, permitida a fixação no seu lugar por meio de pernos.
 
-###### Art. 80.º Se uma camisa não ficar perfeitamente ajustada ao veio, o espaço entre ela e o veio deve ser cheio com material plástico, não corrosivo e insolúvel na água.
+Art. 80.º Se uma camisa não ficar perfeitamente ajustada ao veio, o espaço entre ela e o veio deve ser cheio com material plástico, não corrosivo e insolúvel na água.
 
-###### Art. 81.º Deverão ser usados dispositivos adequados, para evitar que o espaço entre a extremidade de ré da camisa do veio e o cubo do hélice esteja em contacto com a água.
+Art. 81.º Deverão ser usados dispositivos adequados, para evitar que o espaço entre a extremidade de ré da camisa do veio e o cubo do hélice esteja em contacto com a água.
 
 ##### SUBSECÇÃO XI — Manga do veio
 
-###### Art. 82.º O comprimento da superfície de contacto da camisa do veio com o casquilho de suporte mais a ré não deve ser inferior a quatro vezes o diâmetro requerido para o veio, dentro da camisa.
+Art. 82.º O comprimento da superfície de contacto da camisa do veio com o casquilho de suporte mais a ré não deve ser inferior a quatro vezes o diâmetro requerido para o veio, dentro da camisa.
 
 ##### SUBSECÇÃO XII — Parafusos dos pratos de união
 
-###### Art. 83.º Os parafusos dos pratos de união devem ter uma carga de rotura mínima de 44 kg/mm2 e o seu diâmetro, em milímetros, considerado nas faces de ligação dos pratos, não deverá ser inferior a valor dado pela fórmula:
+Art. 83.º Os parafusos dos pratos de união devem ter uma carga de rotura mínima de 44 kg/mm2 e o seu diâmetro, em milímetros, considerado nas faces de ligação dos pratos, não deverá ser inferior a valor dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ##### SUBSECÇÃO XIII — Pratos de união
 
-###### Art. 84.º - 1. A espessura dos pratos de união dos veios, no círculo que passa pelo centro dos furos, onde entram os parafusos, não deve ser inferior ao diâmetro desses parafusos, considerado nas faces de ligação dos pratos.
+Art. 84.º - 1. A espessura dos pratos de união dos veios, no círculo que passa pelo centro dos furos, onde entram os parafusos, não deve ser inferior ao diâmetro desses parafusos, considerado nas faces de ligação dos pratos.
 
 2. A espessura do prato do veio propulsor não deve ser menor do que um quarto do diâmetro requerido para o veio intermédio.
 
-###### Art. 85.º O raio da curva de concordância na base do prato de união (cubo) não deve ser inferior a 0,125 vezes o diâmetro do veio.
+Art. 85.º O raio da curva de concordância na base do prato de união (cubo) não deve ser inferior a 0,125 vezes o diâmetro do veio.
 
-###### Art. 86.º Quando os pratos forem separados dos veios, deve haver sempre um dispositivo que lhes permita resistir aos esforços de tracção produzidos pelo hélice durante o movimento para ré.
+Art. 86.º Quando os pratos forem separados dos veios, deve haver sempre um dispositivo que lhes permita resistir aos esforços de tracção produzidos pelo hélice durante o movimento para ré.
 
-###### Art. 87.º As restantes dimensões dos pratos de união, separados dos veios, são calculadas pelas seguintes fórmulas:
+Art. 87.º As restantes dimensões dos pratos de união, separados dos veios, são calculadas pelas seguintes fórmulas:
 
 dc = 1,5 d;
 
@@ -567,7 +571,7 @@ dr é o diâmetro da espiga roscada no veio, para resistir ao esforço de tracç
 
 ##### SUBSECÇÃO XIV — Cones dos veios
 
-###### Art. 88.º As dimensões dos cones dos veios propulsores devem ficar compreendidas entre os valores dados pelas seguintes fórmulas:
+Art. 88.º As dimensões dos cones dos veios propulsores devem ficar compreendidas entre os valores dados pelas seguintes fórmulas:
 
 L = 2,3 a 2,6 d;
 
@@ -581,7 +585,7 @@ d é o diâmetro do veio, em milímetros.
 
 ##### SUBSECÇÃO XV — Cavaletes e escatéis para veios
 
-###### Art. 89.º - 1. As dimensões do cavalete a montar no veio são determinadas pelas seguintes fórmulas:
+Art. 89.º - 1. As dimensões do cavalete a montar no veio são determinadas pelas seguintes fórmulas:
 
 l = (d/6) + 15
 
@@ -607,27 +611,27 @@ d é o diâmetro do veio, em milímetros.
 
 ##### SUBSECÇÃO I — Dimensões dos veios
 
-###### Art. 90.º Determina-se o diâmetro dos veios intermédios e de outros manufacturados com aços cuja carga de rotura à tracção esteja compreendida entre 44 kg/mm2 e 52 kg/mm2, pelas fórmulas indicadas nos artigos seguintes.
+Art. 90.º Determina-se o diâmetro dos veios intermédios e de outros manufacturados com aços cuja carga de rotura à tracção esteja compreendida entre 44 kg/mm2 e 52 kg/mm2, pelas fórmulas indicadas nos artigos seguintes.
 
-###### Art. 91.º - 1. O diâmetro dos veios intermédios não deve ser inferior ao dado pela fórmula:
+Art. 91.º - 1. O diâmetro dos veios intermédios não deve ser inferior ao dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. O diâmetro dos veios intermédios calculados pelas fórmulas dos artigos 91.º e 95.º pode ser reduzido de 3,5 por cento em embarcações que operem em águas calmas.
 
-###### Art. 92.º As dimensões dos veios de impulso, da manga e propulsores e respectivos acessórios são calculadas pelas fórmulas dos artigos 102.º e 112.º a 138.º
+Art. 92.º As dimensões dos veios de impulso, da manga e propulsores e respectivos acessórios são calculadas pelas fórmulas dos artigos 102.º e 112.º a 138.º
 
 ##### SUBSECÇÃO II — Veios das rodas dos redutores
 
-###### Art. 93.º O diâmetro dos veios das rodas, em que engrenem dois carretes em posições opostas, ou aproximadamente opostas, não deve ser inferior a 1,1 vezes o diâmetro do veio intermédio.
+Art. 93.º O diâmetro dos veios das rodas, em que engrenem dois carretes em posições opostas, ou aproximadamente opostas, não deve ser inferior a 1,1 vezes o diâmetro do veio intermédio.
 
-###### Art. 94.º No caso de haver um só carrete engrenado na roda, ou quando houver dois, cujos eixos façam com o eixo do veio da roda um ângulo inferior a 120º, deve o diâmetro do veio da roda, na zona onde ela está montada e nas zonas dos moentes adjacentes do veio, ser igual ou superior a 1,16 vezes o diâmetro do veio intermédio. Para ré desses moentes, o diâmetro do veio pode ser progressivamente diminuído para o do veio intermédio.
+Art. 94.º No caso de haver um só carrete engrenado na roda, ou quando houver dois, cujos eixos façam com o eixo do veio da roda um ângulo inferior a 120º, deve o diâmetro do veio da roda, na zona onde ela está montada e nas zonas dos moentes adjacentes do veio, ser igual ou superior a 1,16 vezes o diâmetro do veio intermédio. Para ré desses moentes, o diâmetro do veio pode ser progressivamente diminuído para o do veio intermédio.
 
 ##### SUBSECÇÃO III — Turbinas combinadas com máquinas alternativas das quais recebem o vapor de evacuação
 
-###### Art. 95.º - 1. Quando as turbinas receberem o vapor de evacuação das máquinas alternativas e estiverem associadas ao mesmo veio intermédio por engrenagens, o diâmetro deste veio não deve ser inferior ao dado pela fórmula:
+Art. 95.º - 1. Quando as turbinas receberem o vapor de evacuação das máquinas alternativas e estiverem associadas ao mesmo veio intermédio por engrenagens, o diâmetro deste veio não deve ser inferior ao dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. Tomar-se-ão para potência efectiva da máquina a vapor alternativa 90 por cento da sua potência indicada.
 
@@ -637,19 +641,19 @@ d é o diâmetro do veio, em milímetros.
 
 ##### SUBSECÇÃO IV — Vibrações de torção
 
-###### Art. 96.º Nas fórmulas apresentadas não são considerados os esforços de torção, provenientes de vibrações que possam verificar-se nas linhas de veios e engrenagens. Por esse facto, os cálculos dos esforços devidos a essas vibrações no caso de instalações de turbinas ou de motores eléctricos situados a ré, ligados às linhas de veios por engrenagens, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante. Com os cálculos serão apresentados os planos de toda a linha de veios e hélice, bem como os pormenores da potência desenvolvida pelas turbinas, separadamente, para as diversas velocidades. Devem, também, ser incluídos cálculos análogos, do mesmo conjunto, com o hélice sobresselente, se os planos deste diferirem dos planos do hélice que está montado.
+Art. 96.º Nas fórmulas apresentadas não são considerados os esforços de torção, provenientes de vibrações que possam verificar-se nas linhas de veios e engrenagens. Por esse facto, os cálculos dos esforços devidos a essas vibrações no caso de instalações de turbinas ou de motores eléctricos situados a ré, ligados às linhas de veios por engrenagens, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante. Com os cálculos serão apresentados os planos de toda a linha de veios e hélice, bem como os pormenores da potência desenvolvida pelas turbinas, separadamente, para as diversas velocidades. Devem, também, ser incluídos cálculos análogos, do mesmo conjunto, com o hélice sobresselente, se os planos deste diferirem dos planos do hélice que está montado.
 
-###### Art. 97.º Quando pelos cálculos se verificar que há velocidades críticas, na zona de funcionamento normal, podem ser exigidos registos de torciógrafos montados nas máquinas, com o fim de se apreciarem esses cálculos e impor, se for caso disso, restrições ao funcionamento contínuo às velocidades onde os esforços de torção provenientes de vibrações e evidenciados pelo bater dos dentes das engrenagens, sejam considerados excessivos.
+Art. 97.º Quando pelos cálculos se verificar que há velocidades críticas, na zona de funcionamento normal, podem ser exigidos registos de torciógrafos montados nas máquinas, com o fim de se apreciarem esses cálculos e impor, se for caso disso, restrições ao funcionamento contínuo às velocidades onde os esforços de torção provenientes de vibrações e evidenciados pelo bater dos dentes das engrenagens, sejam considerados excessivos.
 
 #### SECÇÃO III — Motores Diesel
 
 ##### SUBSECÇÃO I — Dimensões dos veios
 
-###### Art. 98.º Os diâmetros dos veios de manivelas, dos veios intermédios e de outros, manufacturados com aços cujas cargas de rotura à tracção estejam compreendidas entre 44 kg/mm2 e 52 kg/mm2, não devem ser inferiores aos calculados pelas fórmulas que se indicam nos artigos seguintes.
+Art. 98.º Os diâmetros dos veios de manivelas, dos veios intermédios e de outros, manufacturados com aços cujas cargas de rotura à tracção estejam compreendidas entre 44 kg/mm2 e 52 kg/mm2, não devem ser inferiores aos calculados pelas fórmulas que se indicam nos artigos seguintes.
 
 ##### SUBSECÇÃO II — Vibrações de torção
 
-###### Art. 99.º - 1. Nas fórmulas apresentadas não são considerados os esforços de torção provenientes de vibrações que possam verificar-se nas linhas de veios. Por esse facto, os cálculos das características das vibrações do conjunto dinâmico, formado pelo motor, linha de veios e hélice e, ainda, pelas engrenagens, geradores ou outros componentes que sejam intercalados, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante. Com os cálculos serão apresentados os planos da linha de veios e do hélice.
+Art. 99.º - 1. Nas fórmulas apresentadas não são considerados os esforços de torção provenientes de vibrações que possam verificar-se nas linhas de veios. Por esse facto, os cálculos das características das vibrações do conjunto dinâmico, formado pelo motor, linha de veios e hélice e, ainda, pelas engrenagens, geradores ou outros componentes que sejam intercalados, devem ser submetidos à aprovação da Repartição Técnica da Direcção da Marinha Mercante. Com os cálculos serão apresentados os planos da linha de veios e do hélice.
 
 2. Os cálculos referidos no número anterior incluirão:
 
@@ -671,29 +675,29 @@ Cálculos semelhantes devem ser incluídos para o mesmo conjunto, com o hélice 
 
 7. Em tudo o mais, respeitar-se-ão as normas sobre esforços de vibrações torcionais e velocidades críticas em motores Diesel principais e auxiliares que constam no anexo a este Regulamento.
 
-###### Art. 100.º Quando for proposto o emprego de materiais especiais na manufactura de veios, devem ser submetidas à aprovação da Repartição Técnica da Direcção da Marinha Mercante a composição química e as características mecânicas do material a utilizar. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com o artigo 144.º
+Art. 100.º Quando for proposto o emprego de materiais especiais na manufactura de veios, devem ser submetidas à aprovação da Repartição Técnica da Direcção da Marinha Mercante a composição química e as características mecânicas do material a utilizar. O cálculo do diâmetro mínimo do veio propulsor será feito de acordo com o artigo 144.º
 
 ##### SUBSECÇÃO III — Veios de manivelas
 
-###### Art. 101.º O diâmetro do veio de manivelas não deve ser inferior ao calculado pela fórmula:
+Art. 101.º O diâmetro do veio de manivelas não deve ser inferior ao calculado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 Pressão máxima: 35 kg/cm2 e superior
 
 Máquinas de simples efeito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
-###### Art. 102.º - 1. Quando se pretenda manufacturar um veio de manivelas forjado numa só peça de aço com uma carga de rotura à tracção maior do que 44 kg/mm2, mas que não exceda 80 kg/mm2, o diâmetro do veio de manivelas não deve ser inferior ao dado pela fórmula:
+Art. 102.º - 1. Quando se pretenda manufacturar um veio de manivelas forjado numa só peça de aço com uma carga de rotura à tracção maior do que 44 kg/mm2, mas que não exceda 80 kg/mm2, o diâmetro do veio de manivelas não deve ser inferior ao dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. A fórmula referida no número anterior pode também ser aplicada a veios de manivelas feitos por partes e a veios intermédios e de impulso. Porém, quando se pretenda empregar, para estes fins, materiais de alta resistência à tracção, deverão ser submetidos a aprovação da Repartição Técnica da Direcção da Marinha Mercante todos os pormenores.
 
 ##### SUBSECÇÃO IV — Braços de manivela de veios forjados numa só peça
 
-###### Art. 103.º - 1. As dimensões dos braços de manivela devem ser tais que le(elevado a 2) não seja inferior a 0,4 d(elevado a 3), em que:
+Art. 103.º - 1. As dimensões dos braços de manivela devem ser tais que le(elevado a 2) não seja inferior a 0,4 d(elevado a 3), em que:
 
 l é a largura do braço da manivela, em milímetros;
 
@@ -705,17 +709,17 @@ d é o diâmetro, em milímetros, do veio de manivelas obtido pelas fórmulas do
 
 ##### SUBSECÇÃO V — Braços de manivela de veios feitos por partes
 
-###### Art. 104.º - 1. As dimensões dos braços de manivela, nos veios feitos por partes, não devem ser inferiores aos valores dados pelas fórmulas:
+Art. 104.º - 1. As dimensões dos braços de manivela, nos veios feitos por partes, não devem ser inferiores aos valores dados pelas fórmulas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. Se estas proporções não forem observadas, os braços deverão ter uma resistência equivalente, mas em caso algum a espessura do braço da manivela (l) poderá ser inferior a 0,525 d.
 
-###### Art. 105.º Devem existir marcas de referência nas junções exteriores dos braços de manivela com os moentes e com os munhões.
+Art. 105.º Devem existir marcas de referência nas junções exteriores dos braços de manivela com os moentes e com os munhões.
 
 ##### SUBSECÇÃO VI — Contracção permitida
 
-###### Art. 106.º - 1. Os braços de manivela devem ser fortemente apertados nos moentes e munhões, por contracção do material dos braços, e o limite de elasticidade do material do braço não deve ser inferior a 22 kg/mm2. A contracção permitida para o aperto deve estar compreendida entre 1/550 e 1/700 do diâmetro dos munhões ou moentes, se estes não tiverem furo central.
+Art. 106.º - 1. Os braços de manivela devem ser fortemente apertados nos moentes e munhões, por contracção do material dos braços, e o limite de elasticidade do material do braço não deve ser inferior a 22 kg/mm2. A contracção permitida para o aperto deve estar compreendida entre 1/550 e 1/700 do diâmetro dos munhões ou moentes, se estes não tiverem furo central.
 
 2. Quando os munhões e os moentes forem ocos, o diâmetro do furo central não deve exceder metade do seu diâmetro exterior e a contracção permitida deve ficar compreendida entre os valores dados pelas fórmulas:
 
@@ -729,15 +733,15 @@ D é o diâmetro do furo do braço da manivela, em milímetros.
 
 ##### SUBSECÇÃO VII — Curvas de concordância e furos de lubrificação
 
-###### Art. 107.º - 1. As curvas de concordância nas junções dos braços de manivela com os munhões ou com os moentes dos veios, quando estes forem forjados ou vazados numa só peça, devem ser executadas com um raio não inferior a 5 por cento do diâmetro do veio de manivelas e ter um acabamento perfeito.
+Art. 107.º - 1. As curvas de concordância nas junções dos braços de manivela com os munhões ou com os moentes dos veios, quando estes forem forjados ou vazados numa só peça, devem ser executadas com um raio não inferior a 5 por cento do diâmetro do veio de manivelas e ter um acabamento perfeito.
 
 2. Os furos de lubrificação abertos nas superfícies dos munhões e moentes dos veios devem ser arredondados de modo a ficarem com um contorno uniforme e acabamento perfeito.
 
 ##### SUBSECÇÃO VIII — Veios intermédios
 
-###### Art. 108.º O diâmetro do veio intermédio deve ser determinado pela fórmula (1) ou pela fórmula (2) sempre que seja possível obter os elementos que nela figuram:
+Art. 108.º O diâmetro do veio intermédio deve ser determinado pela fórmula (1) ou pela fórmula (2) sempre que seja possível obter os elementos que nela figuram:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 Nota 1 - A fórmula (1) é aplicável sòmente a motores de cilindros em linha, de simples efeito, com intervalos de combustão aproximadamente iguais.
 
@@ -747,11 +751,11 @@ Nota 3 - Quando não for possível determinar a percentagem da massa de água de
 
 Nota 4 - O diâmetro do veio intermédio determinado pelas fórmulas (1) e (2) pode ser reduzido de 3,5 por cento em navios que se destinem a navegar em águas calmas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ##### SUBSECÇÃO IX — Veio do volante
 
-###### Art. 109.º - 1. O diâmetro do veio do volante não deve ser inferior ao do veio de manivelas.
+Art. 109.º - 1. O diâmetro do veio do volante não deve ser inferior ao do veio de manivelas.
 
 2. Exceptuam-se desta obrigatoriedade os veios em que estejam montados volantes de viradores leves.
 
@@ -759,21 +763,21 @@ Nota 4 - O diâmetro do veio intermédio determinado pelas fórmulas (1) e (2) p
 
 (motores com engrenagens redutoras)
 
-###### Art. 110.º O diâmetro dos veios das rodas em que engrenem dois carretes em posições opostas ou aproximadamente opostas não deve ser inferior a 1,1 vezes o diâmetro do veio intermédio.
+Art. 110.º O diâmetro dos veios das rodas em que engrenem dois carretes em posições opostas ou aproximadamente opostas não deve ser inferior a 1,1 vezes o diâmetro do veio intermédio.
 
-###### Art. 111.º No caso de haver um só carrete engrenado na roda ou quando houver dois cujos eixos façam com o eixo do veio da roda um ângulo inferior a 120º, deve o diâmetro do veio da roda, na zona onde ela está montada e nas zonas dos moentes adjacentes do veio, ser igual ou superior a 1,16 vezes o diâmetro do veio intermédio. Para ré desses moentes o diâmetro do veio pode ser progressivamente diminuído para o do veio intermédio.
+Art. 111.º No caso de haver um só carrete engrenado na roda ou quando houver dois cujos eixos façam com o eixo do veio da roda um ângulo inferior a 120º, deve o diâmetro do veio da roda, na zona onde ela está montada e nas zonas dos moentes adjacentes do veio, ser igual ou superior a 1,16 vezes o diâmetro do veio intermédio. Para ré desses moentes o diâmetro do veio pode ser progressivamente diminuído para o do veio intermédio.
 
 ##### SUBSECÇÃO XI — Veio de impulso
 
-###### Art. 112.º O diâmetro na zona dos anéis do veio de impulso não deve ser inferior a 1,15 vezes o valor calculado para o veio intermédio. Esse veio pode ter, fora dos anéis, o diâmetro progressivamente diminuído até ao diâmetro do veio intermédio.
+Art. 112.º O diâmetro na zona dos anéis do veio de impulso não deve ser inferior a 1,15 vezes o valor calculado para o veio intermédio. Esse veio pode ter, fora dos anéis, o diâmetro progressivamente diminuído até ao diâmetro do veio intermédio.
 
 ##### SUBSECÇÃO XII — Veio da manga (caso de o veio propulsor ficar exterior ao navio)
 
-###### Art. 113.º O diâmetro do veio da manga não deve ser inferior a 1,14 vezes o valor calculado para o diâmetro do veio intermédio. Qualquer parte do veio dentro ou fora da manga, onde haja contacto com a água, não deve ter um diâmetro inferior a 1,17 vezes o valor do diâmetro do veio intermédio.
+Art. 113.º O diâmetro do veio da manga não deve ser inferior a 1,14 vezes o valor calculado para o diâmetro do veio intermédio. Qualquer parte do veio dentro ou fora da manga, onde haja contacto com a água, não deve ter um diâmetro inferior a 1,17 vezes o valor do diâmetro do veio intermédio.
 
 ##### SUBSECÇÃO XIII — Veio propulsor
 
-###### Art. 114.º O diâmetro do veio propulsor não deve ser inferior ao dado pela fórmula:
+Art. 114.º O diâmetro do veio propulsor não deve ser inferior ao dado pela fórmula:
 
 dp = 1,14 di + (dh/k)
 
@@ -791,11 +795,11 @@ k é um coeficiente que tem o valor de:
 
 100 - para os outros veios.
 
-###### Art. 115.º - 1. Os veios propulsores que possuírem mangas podem ter a extremidade a vante do bucim diminuído progressivamente para um diâmetro igual a 1,14 vezes o diâmetro do veio intermédio.
+Art. 115.º - 1. Os veios propulsores que possuírem mangas podem ter a extremidade a vante do bucim diminuído progressivamente para um diâmetro igual a 1,14 vezes o diâmetro do veio intermédio.
 
 2. Devem ser evitadas variações bruscas de diâmetro nas uniões do veio propulsor ao veio intermédio.
 
-###### Art. 116.º - 1. O cubo do hélice deverá ter uma boa adaptação ao cone do veio propulsor.
+Art. 116.º - 1. O cubo do hélice deverá ter uma boa adaptação ao cone do veio propulsor.
 
 2. O comprimento da superfície de contacto, a vante, deve ser cerca de um diâmetro.
 
@@ -803,13 +807,13 @@ k é um coeficiente que tem o valor de:
 
 ##### SUBSECÇÃO XIV — Cavaletes e escatéis para veios e hélices
 
-###### Art. 117.º Devem ser usados cavaletes dos tipos «rampa» ou de «topos arredondados» e os escatéis no cubo do hélice e no cone do veio propulsor devem ter uma curva de concordância suave, no fundo do escatel. O raio desta curva de concordância não deve ser inferior a 0,0125 vezes o diâmetro do veio propulsor, no topo do cone. Os bordos do escatel não deverão ter arestas vivas.
+Art. 117.º Devem ser usados cavaletes dos tipos «rampa» ou de «topos arredondados» e os escatéis no cubo do hélice e no cone do veio propulsor devem ter uma curva de concordância suave, no fundo do escatel. O raio desta curva de concordância não deve ser inferior a 0,0125 vezes o diâmetro do veio propulsor, no topo do cone. Os bordos do escatel não deverão ter arestas vivas.
 
-###### Art. 118.º Existirão dois parafusos para fixação do cavalete no escatel, devendo um dos parafusos ser colocado pelo menos a um terço do comprimento do cavalete, a partir do extremo de vante.
+Art. 118.º Existirão dois parafusos para fixação do cavalete no escatel, devendo um dos parafusos ser colocado pelo menos a um terço do comprimento do cavalete, a partir do extremo de vante.
 
-###### Art. 119.º A profundidade dos furos roscados para os parafusos não deve exceder o diâmetro do parafuso e as arestas serão ligeiramente sutadas.
+Art. 119.º A profundidade dos furos roscados para os parafusos não deve exceder o diâmetro do parafuso e as arestas serão ligeiramente sutadas.
 
-###### Art. 120.º - 1. A distância entre o extremo do cone e o extremo de vante do escatel não deve ser inferior a 0,2 vezes o diâmetro do veio propulsor no extremo do cone.
+Art. 120.º - 1. A distância entre o extremo do cone e o extremo de vante do escatel não deve ser inferior a 0,2 vezes o diâmetro do veio propulsor no extremo do cone.
 
 2. A área da secção de corte do cavalete, em milímetros quadrados, não deve ser inferior a (d(elevado a 3)/2,5 d(índice 1)) onde:
 
@@ -819,11 +823,11 @@ d(índice 1) é o diâmetro do veio a meio comprimento do cavalete, em milímetr
 
 ##### SUBSECÇÃO XV — Veios ocos
 
-###### Art. 121.º Quando os veios de impulso, intermédios, da manga e propulsor tiverem um furo central, o diâmetro dos veios, calculado pelas fórmulas indicadas nos artigos anteriores, não necessita de ser aumentado, desde que o furo central não exceda um terço do diâmetro do veio. No caso de o furo central exceder um terço do diâmetro, este terá de ser aumentado de forma a compensar o excesso do diâmetro do furo.
+Art. 121.º Quando os veios de impulso, intermédios, da manga e propulsor tiverem um furo central, o diâmetro dos veios, calculado pelas fórmulas indicadas nos artigos anteriores, não necessita de ser aumentado, desde que o furo central não exceda um terço do diâmetro do veio. No caso de o furo central exceder um terço do diâmetro, este terá de ser aumentado de forma a compensar o excesso do diâmetro do furo.
 
 ##### SUBSECÇÃO XVI — Camisas dos veios
 
-###### Art. 122.º - 1. A espessura das camisas dos veios propulsores ou dos veios das mangas, enquanto essas camisas são novas, deve, na zona dos casquilhos da manga, ser igual ou maior do que o valor dado pela fórmula:
+Art. 122.º - 1. A espessura das camisas dos veios propulsores ou dos veios das mangas, enquanto essas camisas são novas, deve, na zona dos casquilhos da manga, ser igual ou maior do que o valor dado pela fórmula:
 
 e(índice c) = (dp + 230)/32
 
@@ -845,17 +849,17 @@ d(índice p) é o diâmetro exigido para o veio propulsor ou da manga, em milím
 
 7. A soldadura deverá ser feita por um processo que tenha a aprovação dos peritos.
 
-###### Art. 123.º Cada camisa contínua ou parte de camisa deverá ser provada hidràulicamente à pressão de 2 kg/cm2, depois de trabalhada à máquina-ferramenta.
+Art. 123.º Cada camisa contínua ou parte de camisa deverá ser provada hidràulicamente à pressão de 2 kg/cm2, depois de trabalhada à máquina-ferramenta.
 
-###### Art. 124.º As camisas devem ser convenientemente metidas a quente ou por meio de pressão hidráulica, não se devendo fazer uso, em caso algum, de pernos para as segurar no seu lugar.
+Art. 124.º As camisas devem ser convenientemente metidas a quente ou por meio de pressão hidráulica, não se devendo fazer uso, em caso algum, de pernos para as segurar no seu lugar.
 
-###### Art. 125.º Se uma camisa não ficar perfeitamente ajustada ao veio, o espaço entre ela e o veio deve ser cheio com material plástico, não corrosivo e insolúvel na água.
+Art. 125.º Se uma camisa não ficar perfeitamente ajustada ao veio, o espaço entre ela e o veio deve ser cheio com material plástico, não corrosivo e insolúvel na água.
 
-###### Art. 126.º Deverão ser usados dispositivos adequados para evitar que o espaço entre a extremidade de ré da camisa do veio e o cubo do hélice esteja em contacto com a água.
+Art. 126.º Deverão ser usados dispositivos adequados para evitar que o espaço entre a extremidade de ré da camisa do veio e o cubo do hélice esteja em contacto com a água.
 
 ##### SUBSECÇÃO XVII — Manga do veio
 
-###### Art. 127.º - 1. O comprimento da superfície de contacto da camisa do veio com o casquilho do suporte mais a ré deverá ser conforme abaixo se indica.
+Art. 127.º - 1. O comprimento da superfície de contacto da camisa do veio com o casquilho do suporte mais a ré deverá ser conforme abaixo se indica.
 
 2. Para camisas lubrificadas por água e revestidas com casquilhos de gaiaco, borracha ou material plástico aprovado, o comprimento não deve ser inferior a quatro vezes o diâmetro requerido para o veio dentro da camisa.
 
@@ -867,19 +871,19 @@ d(índice p) é o diâmetro exigido para o veio propulsor ou da manga, em milím
 
 6. Quando os casquilhos forem lubrificados por massa, o comprimento do casquilho não deverá ser inferior a 4 vezes o diâmetro requerido para o veio propulsor.
 
-###### Art. 128.º Os bucins de vedação de óleo em embarcações que podem operar em regiões árcticas ou tropicais deverão poder suportar os efeitos da expansão diferencial entre o casco e a linha de veios com temperaturas da água do mar, árcticas ou tropicais. Este requisito diz especialmente respeito aos bucins que preenchem o espaço e mantêm a vedação de óleo entre a manga e o cubo do hélice.
+Art. 128.º Os bucins de vedação de óleo em embarcações que podem operar em regiões árcticas ou tropicais deverão poder suportar os efeitos da expansão diferencial entre o casco e a linha de veios com temperaturas da água do mar, árcticas ou tropicais. Este requisito diz especialmente respeito aos bucins que preenchem o espaço e mantêm a vedação de óleo entre a manga e o cubo do hélice.
 
-###### Art. 129.º O tanque de óleo de lubrificação da manga, se existir, deverá estar colocado acima da linha de água carregada e ser provido de um alarme de nível, situado na casa da máquina.
+Art. 129.º O tanque de óleo de lubrificação da manga, se existir, deverá estar colocado acima da linha de água carregada e ser provido de um alarme de nível, situado na casa da máquina.
 
-###### Art. 130.º - 1. Quando os casquilhos da manga forem lubrificados por óleo, deverá existir um sistema de arrefecimento do óleo por meio de água, que pode ser proveniente do pique tanque de ré, mantida num nível superior à manga, ou por qualquer outro processo aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
+Art. 130.º - 1. Quando os casquilhos da manga forem lubrificados por óleo, deverá existir um sistema de arrefecimento do óleo por meio de água, que pode ser proveniente do pique tanque de ré, mantida num nível superior à manga, ou por qualquer outro processo aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
 
 2. Deverá igualmente existir um dispositivo que permita conhecer a temperatura do óleo na manga.
 
 ##### SUBSECÇÃO XVIII — Parafusos dos pratos de união dos veios
 
-###### Art. 131.º - 1. Para os parafusos feitos de aço, com uma carga de rotura à tracção mínima de 44 kg/mm2, o seu diâmetro, considerado nas faces de ligação dos pratos, não deve ser inferior ao dado pela fórmula:
+Art. 131.º - 1. Para os parafusos feitos de aço, com uma carga de rotura à tracção mínima de 44 kg/mm2, o seu diâmetro, considerado nas faces de ligação dos pratos, não deve ser inferior ao dado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. Para os parafusos dos pratos de união dos veios de impulso, intermédios, da manga e propulsor:
 
@@ -893,53 +897,53 @@ C = 0,5;
 
 d é o diâmetro requerido para o veio de manivelas, em milímetros.
 
-###### Art. 132.º Quando a carga de rotura mínima à tracção do veio de manivelas for superior a 44 kg/mm2 e o diâmetro do veio for determinado pela fórmula do artigo 102.º, os parafusos das uniões para estes veios devem ter uma resistência equivalente.
+Art. 132.º Quando a carga de rotura mínima à tracção do veio de manivelas for superior a 44 kg/mm2 e o diâmetro do veio for determinado pela fórmula do artigo 102.º, os parafusos das uniões para estes veios devem ter uma resistência equivalente.
 
 ##### SUBSECÇÃO XIX — Pratos de união dos veios
 
-###### Art. 133.º - 1. A espessura dos pratos de união, na circunferência que passa pelo centro dos furos, não deve ser inferior ao diâmetro dos parafusos dos pratos de união determinado pela fórmula do artigo 131.º
+Art. 133.º - 1. A espessura dos pratos de união, na circunferência que passa pelo centro dos furos, não deve ser inferior ao diâmetro dos parafusos dos pratos de união determinado pela fórmula do artigo 131.º
 
 2. Para o caso do prato de união entre o veio de impulso e o veio de manivelas, as dimensões dos parafusos de ligação e a espessura do prato devem ser condicionadas pelas necessidades do veio de manivelas. A espessura do prato de união do veio propulsor não deve ser inferior a 0,27 vezes o diâmetro requerido para o veio intermédio, calculado pela fórmula do artigo 108.º
 
-###### Art. 134.º - 1. O raio da curva de concordância de qualquer veio para o respectivo prato de união não deve ser inferior a 0,08 vezes o diâmetro do veio na união. No caso de veios de manivelas, o raio da curva de concordância nos pratos de união pode ser 0,05 vezes o diâmetro do veio na união.
+Art. 134.º - 1. O raio da curva de concordância de qualquer veio para o respectivo prato de união não deve ser inferior a 0,08 vezes o diâmetro do veio na união. No caso de veios de manivelas, o raio da curva de concordância nos pratos de união pode ser 0,05 vezes o diâmetro do veio na união.
 
 A concordância deve ser afagada e não deve ser rebaixada na região das porcas ou das cabeças dos parafusos.
 
-###### Art. 135.º Quando um prato de união for montado numa zona recta de veio ou com uma ligeira conicidade, por meio de pressão hidráulica, deve satisfazer, de uma forma geral, ao estabelecido no artigo 106.º
+Art. 135.º Quando um prato de união for montado numa zona recta de veio ou com uma ligeira conicidade, por meio de pressão hidráulica, deve satisfazer, de uma forma geral, ao estabelecido no artigo 106.º
 
-###### Art. 136.º Quando os pratos forem separados dos veios, deve haver um dispositivo de ligação que permita aos veios resistir à tracção produzida pelo hélice durante o movimento para ré.
+Art. 136.º Quando os pratos forem separados dos veios, deve haver um dispositivo de ligação que permita aos veios resistir à tracção produzida pelo hélice durante o movimento para ré.
 
-###### Art. 137.º Todos os pratos de união que forem ligados aos veios devem ser de dimensões aprovadas.
+Art. 137.º Todos os pratos de união que forem ligados aos veios devem ser de dimensões aprovadas.
 
 ##### SUBSECÇÃO XX — Veios de manivelas de ferro fundido
 
-###### Art. 138.º Sempre que seja proposta a construção de veios de manivelas, de ferro fundido, as dimensões e a especificação do material deverão ser submetidas a aprovação da Repartição Técnica da Direcção da Marinha Mercante.
+Art. 138.º Sempre que seja proposta a construção de veios de manivelas, de ferro fundido, as dimensões e a especificação do material deverão ser submetidas a aprovação da Repartição Técnica da Direcção da Marinha Mercante.
 
 ##### SUBSECÇÃO XXI — Material
 
-###### Art. 139.º A especificação do material deverá indicar o tipo de ferro fundido, o tratamento térmico e as propriedades mecânicas, incluindo a carga de rotura à tracção (mínima) adequada à secção do veio de manivelas fundido.
+Art. 139.º A especificação do material deverá indicar o tipo de ferro fundido, o tratamento térmico e as propriedades mecânicas, incluindo a carga de rotura à tracção (mínima) adequada à secção do veio de manivelas fundido.
 
-###### Art. 140.º Poderá ser utilizado qualquer tipo apropriado de ferro fundido, para serviço severo, desde que a carga de rotura à tracção esteja compreendida entre 32 kg/mm2 e 76 kg/mm2.
+Art. 140.º Poderá ser utilizado qualquer tipo apropriado de ferro fundido, para serviço severo, desde que a carga de rotura à tracção esteja compreendida entre 32 kg/mm2 e 76 kg/mm2.
 
 ##### SUBSECÇÃO XXII — Diâmetro dos veios de manivelas
 
-###### Art. 141.º O diâmetro do veio de manivelas não deve ser inferior ao determinado pela fórmula:
+Art. 141.º O diâmetro do veio de manivelas não deve ser inferior ao determinado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ##### SUBSECÇÃO XXIII — Braços de manivelas
 
-###### Art. 142.º - 1. A largura dos braços das manivelas e a espessura dos mesmos não deverão ser inferiores, respectivamente, a 1,33 vezes e 0,56 vezes o diâmetro do veio, determinado pela fórmula do artigo anterior.
+Art. 142.º - 1. A largura dos braços das manivelas e a espessura dos mesmos não deverão ser inferiores, respectivamente, a 1,33 vezes e 0,56 vezes o diâmetro do veio, determinado pela fórmula do artigo anterior.
 
 2. A resistência dos braços das manivelas deverá ser equivalente, mesmo que as proporções sejam diferentes.
 
-###### Art. 143.º - 1. As curvas de concordância das junções com os munhões ou com os moentes dos veios deverão ser executadas com um raio não inferior a 5 por cento do diâmetro do veio de manivelas e ter acabamento perfeito.
+Art. 143.º - 1. As curvas de concordância das junções com os munhões ou com os moentes dos veios deverão ser executadas com um raio não inferior a 5 por cento do diâmetro do veio de manivelas e ter acabamento perfeito.
 
 2. Os furos de lubrificação abertos na superfície dos munhões e dos moentes dos veios devem ser arredondados de modo a ficarem com um contorno uniforme e de acabamento perfeito.
 
 ##### SUBSECÇÃO XXIV — Veios propulsores de materiais especiais
 
-###### Art. 144.º - 1. O diâmetro do veio propulsor não deve ser inferior ao dado pela fórmula:
+Art. 144.º - 1. O diâmetro do veio propulsor não deve ser inferior ao dado pela fórmula:
 
 dp = (1,14 di + (dh/k) f
 
@@ -961,19 +965,19 @@ f é o factor do material, cujo valor é dado em função da carga de rotura (C(
 
 TABELA 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 2. Para calcular o diâmetro do veio intermédio utiliza-se uma das fórmulas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 TABELA 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 3. Nos outros casos, o coeficiente k será determinado pela fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ## ANEXO — Normas sobre esforços de vibrações torcionais e velocidades críticas em motores Diesel principais e auxiliares
 
@@ -1115,7 +1119,7 @@ ft = 2fc (3)
 
 10.6 - Quando as velocidades críticas ocorrerem acima do número máximo de rotações por minuto, os esforços de vibração não devem ser superiores aos valores dados pela fórmula seguinte aos regimes de rotações até 1,16 vezes o máximo de rotações por minuto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 NORMA 11
 
@@ -1137,7 +1141,7 @@ ft = 1,7 fc (3)
 
 11.5 - As velocidades críticas devem ser consideradas suficientemente afastadas do máximo de r. p. m. de forma a que, em geral, para r = 0,8, o esforço correspondente ao limite superior não exceda fc = fórmula (1).
 
-11.6 - Quando as velocidades críticas ocorrerem acima do número máximo de r. p. m., os esforços de vibração não devem ser superiores aos valores dados pela fórmula seguinte aos regimes de rotações até 1,16 vezes o máximo de r. p. m.: [([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf))](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
+11.6 - Quando as velocidades críticas ocorrerem acima do número máximo de r. p. m., os esforços de vibração não devem ser superiores aos valores dados pela fórmula seguinte aos regimes de rotações até 1,16 vezes o máximo de r. p. m.: [(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/29800/19501966.pdf)
 
 ### CAPÍTULO III — Motores Diesel auxiliares e principais accionando geradores
 
@@ -1167,4 +1171,4 @@ ft = 5,5 fc (2)
 
 12.9 - No caso de alternadores, as amplitudes de vibração no rotador não devem exceder (mais ou menos) 2,5 graus eléctricos à velocidade a toda a carga. Deve haver o cuidado de assegurar que a frequência natural do grupo completo está suficientemente afastada da frequência do impulso das combustões à velocidade a toda a carga, particularmente quando há uniões flexíveis entre o motor e o gerador. Sem este cuidado podem aparecer amplitudes excessivas.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

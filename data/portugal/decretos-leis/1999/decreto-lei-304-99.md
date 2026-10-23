@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/1999/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1999-426158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfc35fc299ac9a9192360ab1eb74b1e05e98aa27899ec7bc122a2c6c0fdf29af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b0c0ff42cf9df71661d36efd56b19aa0c005ca8e93d4d7c041a228d22b80b60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,27 @@ reuse:
 subjects:
 - Código das Custas Judiciais
 - Cofre Geral dos Tribunais
+- Custas Judiciais
 - Multa
 - Pagamento
-- Custas Judiciais
 relationships:
 - type: amended_by
   target: pt:dre:247448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 131º do Código das Custas Judiciais aprovado pelo Dec Lei 224-A/96 de 26-Nov, com a redacção conferida\
+    \ pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 124º e 131º do Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96 de 26-Nov, republicado\
+    \ pelo Dec Lei 324/2003 de 27-Dez, e na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/224-a/1996/11/26/p/dre
   label: null
@@ -88,16 +101,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:469177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247448:por
+  label: "Revogado, a partir de 20.04.2009, o Código das Custas Judiciais, aprovado pelo Dec Lei 224-A/96, de 26-Nov, alterado\
+    \ pelo presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:56Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +193,9 @@ Os artigos 121.º, 124.º, 126.º, 127.º e 132.º do Código das Custas Judicia
 
 Sem prejuízo de registo contabilístico autónomo, as custas prováveis são objecto de depósito nos termos do n.º 1 do artigo 124.º, podendo sê-lo juntamente com a quantia exequenda.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - ...
 
@@ -168,7 +205,9 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 4 - Sem prejuízo de registo contabilístico autónomo, o produto de execuções, as rendas, as cauções e outras quantias estranhas aos encargos judiciais são depositados nos termos do n.º 1.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - Logo que comece a correr o prazo para pagamento de quaisquer quantias, a secção emite as guias respectivas e lavra termo, entregando-as às partes ou aos seus representantes ou mandatários quando o solicitarem.
 
@@ -182,7 +221,9 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 6 - ...
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +233,9 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 4 - Por portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -206,12 +249,12 @@ Sem prejuízo de registo contabilístico autónomo, as custas prováveis são ob
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

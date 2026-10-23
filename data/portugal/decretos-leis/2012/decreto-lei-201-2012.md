@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/2012/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2012-174560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3e38793fa0f53637edfa6dac45ef3daccab921241d711925b20bb4fb4821c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4c32b5475ba820cd88a14db0bc8edad15f45d3b316b48927a7c116e58f0f310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Mar
+- Bacia Hidrográfica
 - Definição de Competências
-- Mar Territorial
-- Instituto Hidrográfico
-- Instituto Português do Mar e da Atmosfera
-- Estratégia Nacional para o MAR
-- Recursos do Mar
-- Meio Marinho
 - Direção Geral de Política do Mar
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Instituto da Conservação da Natureza e das Florestas
-- Estratégia Nacional para a Gestão Integrada da Zona Costeira
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Programa Acção
 - Direcção Geral da Autoridade Marítima
+- Estratégia Nacional para a Gestão Integrada da Zona Costeira
+- Estratégia Nacional para o MAR
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto Hidrográfico
+- Instituto Português do Mar e da Atmosfera
+- Mar
+- Mar Territorial
+- Meio Marinho
+- Programa Acção
+- Proteção do Ambiente
+- Recursos do Mar
 - Rede Natura 2000
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:69920327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500072:por
+  label: "Alterados os arts 3.º, 6.º e 17.º do Dec Lei 108/2010, de 13-out, na redacção do presente diploma e repúblicado,\
+    \ pelo DEC LEI.136/2013.07.10.2013.MAGM, DR.IS [193] de 07.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2013-500072
+  date: '2013-10-07'
+- type: amended_by
+  target: pt:dre:69920327:por
+  label: Alterados os arts 4.º e 16.º (na redação do presente diploma e na versão republicada pelo Dec Lei 136/2013 de 07-out)
+    e aditado o art 4.º-A ao Dec Lei 108/2010 de 13-out pelo(a) Decreto-Lei n.º 143/2015 - Diário da República n.º 148/2015,
+    Série I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2015-69920327
+  date: '2015-07-31'
 - type: cites
   target: celex:32008L0056
   label: null
@@ -99,15 +112,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/108/2010/10/13/p/dre
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:51Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +167,9 @@ b) As águas costeiras, definidas na Lei da Água, aprovada pela Lei n.º 58/200
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A coordenação da aplicação do presente decreto-lei a nível nacional compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), cabendo-lhe em especial:
 
@@ -206,7 +221,9 @@ g) Instituto da Conservação da Natureza e das Florestas, I. P., o qual deve, n
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +237,9 @@ c) Subdivisão da Madeira, que inclui as águas marinhas nacionais em torno do a
 
 d) Subdivisão da plataforma continental estendida, que inclui a plataforma continental situada para lá das 200 milhas náuticas, contadas a partir das linhas de base a partir das quais se mede a largura do mar territorial.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -234,19 +253,25 @@ d) Subdivisão da plataforma continental estendida, que inclui a plataforma cont
 
 6 - Aquando da elaboração das estratégias marinhas, as autoridades referidas nos n.os 1 e 2 do artigo 4.º devem consultar o Turismo de Portugal, I. P., o Instituto da Mobilidade e dos Transportes, I. P., e as administrações portuárias com jurisdição na respetiva subdivisão.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
 2 - A análise das características essenciais e do estado ambiental atual dessas águas, bem como dos principais impactes e pressões, deve ter em conta os elementos relativos às águas costeiras, às águas de transição e às águas territoriais abrangidas pela Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 60/2012, de 14 de março, e as avaliações efetuadas em conjunto, no contexto da Convenção OSPAR.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Os programas de monitorização devem ser compatíveis dentro de cada sub-região marinha e basear-se nas disposições relevantes em matéria de avaliação e monitorização previstas em legislação específica, designadamente na Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, e 60/2012, de 14 de março, e no regime jurídico da Rede Natura 2000, aprovado pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado e republicado pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro, ou em convenções internacionais.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -264,7 +289,9 @@ d) Subdivisão da plataforma continental estendida, que inclui a plataforma cont
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +303,9 @@ d) Subdivisão da plataforma continental estendida, que inclui a plataforma cont
 
 5 - ...
 
-###### Artigo 17.º — Dever de informação internacional
+Artigo 17.º
+
+Dever de informação internacional
 
 1 - A DGRM assegura que a Comissão Europeia é notificada da seguinte informação:
 
@@ -328,13 +357,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José de Almeida Cesário - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 9 de agosto de 2012.**
+Promulgado em 9 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/219/1992/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/219-1992-600537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0665d821a04d31bdb2da92e340f243d9748ac276a9f437383ab0b92fcd9929d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17920021ce4b78cfe134f18e54358f31574583ceb13e533bf72386ed821c3e6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Operário
-- Remuneração Acessória
-- Pessoal Auxiliar
-- Remuneração
 - Ministério dos Negócios Estrangeiros
+- Pessoal Auxiliar
+- Pessoal Operário
+- Remuneração
+- Remuneração Acessória
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ACTUALIZADA A TABELA REMUNERATÓRIA PELO DC (DIDC82/95, DE 21-DEZ, PUBLICADO NO DR.IIS, [101]2SUPL, DE 02/MAI/1995.\0\
+    I/1995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-05-02'
+- type: amended_by
+  target: pt:dre:2865386:por
+  label: Actualizado o regime remuneratório constante pelo(a) Despacho Conjunto - Diário da República n.º 101/1995, 2º Suplemento,
+    Série II de 1995-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1995-2865386
+  date: '1995-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/146/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/146/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:218906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681612:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:02Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +118,4 @@ Ministérios das Finanças e dos Negócios Estrangeiros, 9 de Outubro de 1992. -
 
 Tabela anexa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/271b00/53745374.pdf))](https://files.diariodarepublica.pt/1s/1992/11/271b00/53745374.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/271b00/53745374.pdf)

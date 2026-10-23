@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19200/0716507170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/277/2009/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-2009-491175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b19b58a7aeed83de76028740c2c231e7768e287d0d65d54ac32589c3d261199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8de16ca2deed3cec8591b1d06ad56cd28456987fb7e2fef99a181058b844c1f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Definição de Competências
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Conselho Diretivo
 - Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
 - Entidade Reguladora dos Serviços das Águas e dos Resíduos
+- Fiscal Único
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
 - Orgânica
 - Presidente
 - Regime de Pessoal
@@ -80,6 +80,19 @@ relationships:
   target: pt:dre:572143:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Determinada a reestruturação da Entidade Reguladora dos Serviços de Águas e Resíduos, I.P. pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 4 do seu art. 34º, a qual passa a entidade administrativa independente.\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinada a transição para o Ministério do Ambiente, Ordenamento do Território e Energia, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/1995/06/21/p/dre
   label: null
@@ -120,16 +133,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2004/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2004/06/16/p/dre
+- type: cites
+  target: pt:dre:158586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572143:por
+  label: "Revogado, a partir de 01.04.2014, pela LEI.10/2014.06.03.2014.AR, DR.IS [46] de 06.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2014-572143
+  date: '2014-03-06'
 article_structure:
   article_count: 24
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:35Z'
   warnings: []
   errors: []
 ---
@@ -464,12 +530,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Baptista Lobo - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 18 de Setembro de 2009.**
+Promulgado em 18 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Setembro de 2009.**
+Referendado em 21 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

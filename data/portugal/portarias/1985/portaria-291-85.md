@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/291-1985-151676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad1397d70b50fac10c044f87858c001fd25a8723eafaf9c9d868524cfbae880d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28f081f795bd6c2d0d520ccfd7dffb6c5306d06d44ee405e92ed3e44a049694a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Criação de Serviços
+- Preço
+- Prestação de Serviços
+- Regulamento
+- Serviço Público de Comunicação de Dados por Pacote
+- Telepac
 relationships:
 - type: amended_by
   target: pt:dre:232344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665898:por
+  label: "Alterado o nº 5 e os arts. 2.º, 6.º, 10.º e 20.º do Anexo I ao presente diploma, pela PORT.327/87.1987.04.21.MOPTC\
+    \ DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-1987-665898
+  date: '1987-04-21'
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:232344:por
+  label: "Revogado o anexo I pela PORT.930/92.24.09.1992.MOPTC, DR.IS-B [221] de 24.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/930-1992-232344
+  date: '1992-09-24'
 article_structure:
   article_count: 35
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:22:51Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +144,11 @@ No entanto, e enquanto os serviços DATACESS e SABD não forem assegurados via T
 
 Ministério do Equipamento Social.
 
-**Assinada em 30 de Abril de 1985.**
+Assinada em 30 de Abril de 1985.
 
-**O Ministro do Equipamento Social, Carlos Montez Melancia.**
+O Ministro do Equipamento Social, Carlos Montez Melancia.
 
-## Anexo I à Portaria n.º 291/85
+Anexo I à Portaria n.º 291/85
 
 Regulamento de Prestação do Serviço Público de Comunicação de Dados por Pacotes
 
@@ -410,6 +436,6 @@ Estas modificações serão comunicadas aos assinantes com um período de pré-a
 
 Nos casos omissos do presente Regulamento aplicar-se-ão as disposições legais e regulamentares aplicáveis em matéria de telecomunicações.
 
-## Anexo II à Portaria n.º 291/85
+Anexo II à Portaria n.º 291/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/11400/13431348.pdf))](https://files.diariodarepublica.pt/1s/1985/05/11400/13431348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/11400/13431348.pdf)

@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1985-151529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e807df47f47ce8b79a250d5e10756451f7aba5a56c8bd78534f210fc235530f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cefd0025df9a66e3750be084044c3be7e8df372d5b9b8511d70dbdbf228e9ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Medidas Preventivas
+- Montemor-o-Velho
+- Plano de Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:417834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:20Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de 2 anos, a área definida na planta anexa ao presente diploma.
+Artigo 1.º - 1 - Nos termos do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas, pelo prazo de 2 anos, a área definida na planta anexa ao presente diploma.
 
 2 - As medidas preventivas referidas no número anterior consistem na sujeição a prévia autorização da Câmara Municipal de Montemor-o-Velho, que será precedida de parecer favorável da Direcção-Geral do Planeamento Urbanístico, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
 
@@ -114,20 +121,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Montemor-o-Velho e a Direcção-Geral do Planeamento Urbanístico.
 
-###### Art. 2.º - 1 - Nos termos do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é concedido ao Município de Montemor-o-Velho o direito de preferência nas transmissões por título oneroso, entre particulares, de terrenos ou edifícios na área definida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - Nos termos do artigo 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é concedido ao Município de Montemor-o-Velho o direito de preferência nas transmissões por título oneroso, entre particulares, de terrenos ou edifícios na área definida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigida ao Presidente da Câmara Municipal de Montemor-o-Velho a comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Carlos Montez Melancia.
 
-**Promulgado em 5 de Maio de 1985.**
+Promulgado em 5 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1985.**
+Referendado em 8 de Maio de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/11500/13571358.pdf))](https://files.diariodarepublica.pt/1s/1985/05/11500/13571358.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/11500/13571358.pdf)

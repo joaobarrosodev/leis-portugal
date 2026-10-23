@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2005/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2005-547840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc8bf58341bb4ccff714a8f9a49e9dab4fc1f2728df0933b3c46de6e227cc7b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37410cb53b704b96477a756d1fc29fe03f947f9a3f839c65bfd920df21a92e12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Curso
 - Cessação de Actividade
+- Curso
 - Ensino Cooperativo
 - Ensino Particular
 - Ensino Superior Politécnico
-- Instituto Superior Politécnico do Oeste
 - Instituto Superior de Humanidades e Tecnologias
 - Instituto Superior de Matemática e Gestão
+- Instituto Superior Politécnico do Oeste
 - Interesse Público
 - Torres Vedras
 - Transferência de Competências
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:3054973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124353899:por
+  label: Tornada pública a homologação do encerramento do Instituto Superior Politécnico do Oeste pelo(a) Aviso n.º 13643/2019
+    - Diário da República n.º 167/2019, Série II de 2019-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/13643-2019-124353899
+  date: '2019-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -97,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:25Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +181,12 @@ O estabelecimento de ensino é autorizado a funcionar no município de Torres Ve
 
 Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2005. - Pedro Miguel de Santana Lopes - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 4 de Abril de 2005.**
+Promulgado em 4 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2005.**
+Referendado em 7 de Abril de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

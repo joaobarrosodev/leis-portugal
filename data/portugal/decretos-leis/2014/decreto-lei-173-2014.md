@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/22400/0589605898.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2014/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15a6956e0e00bcefece9db1e417ab64fc3baee3c644dc615df03fdc929961f66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b45aeb5db10b31f322562d4c7d5a3ac56453a64d94d9e796d1ccda7e67beee1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Coordenador
-- Definição de Competências
-- Administração Regional de Saúde
-- Rede Nacional de Cuidados Paliativos
 - Administração Central do Sistema de Saúde
-- Orgânica
-- Cuidados Médicos
+- Administração Regional de Saúde
 - Comissão Nacional de Cuidados Paliativos
+- Coordenador
+- Cuidados Médicos
+- Definição de Competências
 - Doente Terminal
 - Ministério da Saúde
+- Orgânica
+- Rede Nacional de Cuidados Paliativos
 relationships:
 - type: amended_by
   target: pt:dre:116923610:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70361623:por
+  label: Alterado (a partir de 24.09.2015) o art 3.º (na redação do presente diploma) e aditados os arts 13.º-A e 13.º-B ao
+    Dec Lei 35/2012 de 15-fev, pelo(a) Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2015-70361623
+  date: '2015-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
   label: null
@@ -115,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346572:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:38Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +227,9 @@ k) Acompanhar a coordenação e a gestão da Rede Nacional de Cuidados Paliativo
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -263,7 +303,9 @@ m) Prosseguir as atribuições conferidas por lei em matéria de prestação de 
 
 8 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [Anterior proémio do artigo]:
 
@@ -275,7 +317,9 @@ c) [Anterior alínea c) do proémio do artigo].
 
 2 - É ainda órgão da ACSS, I.P., a Comissão Nacional de Cuidados Paliativos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A ACSS, I.P., pode recorrer a peritos nas áreas de codificação e auditoria à codificação clínica, sistemas de classificação de doentes e formação de preços e nomenclaturas, especificações técnicas de tecnologias de equipamentos e auditorias de cumprimento de requisitos de funcionamento e organização de instalações de prestação de cuidados de saúde e definição das redes nacionais de especialidades hospitalares e de referenciação, de entre especialistas com qualificações e experiência nas respetivas áreas.
 
@@ -359,12 +403,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 16 de outubro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 13 de novembro de 2014.**
+Promulgado em 13 de novembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de novembro de 2014.**
+Referendado em 13 de novembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20612-1964-576946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 039add6b338ead1dc458621d4718b656896d99405a927a20ba4625cbbf308648
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 083f21a137920f5416fe57ea2aca2854a97d1bea63052fdc6185bf34e12bf80e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431981:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:42Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 2349453$91, tomando como contrapartida igual quantia a sair do subsídio reembolsável da metrópole, autorizado pelo [Decreto-Lei n.º 40379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40379-1955-248070), de 15 de Novembro de 1955, destinado a reforçar com as importâncias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 273.º «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 273.º «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 I) «Aproveitamento de recursos»:
 
@@ -116,7 +136,7 @@ III) «Instrução e saúde»:
 
 2) Um de 8087582$80, tomando como contrapartida igual importância a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 42479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42479-1959-431981), de 31 de Agosto de 1959, para reforçar estas verbas da mesma tabela de despesa com as seguintes quantias:
 
-### Capítulo 12.º, artigo 273.º «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
+Capítulo 12.º, artigo 273.º «II Plano de Fomento, [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958»:
 
 I) «Aproveitamento de recursos»:
 

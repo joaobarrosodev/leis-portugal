@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/220/1999/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1999-306920
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5228bd6fa81cb10cd8d49224b2120c4183b860a2d255a03456fb8bd14603d59a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 215b5fc730abb0cfe7d53110ed93b2333c71809eb91999f5e9bdd5b90cc9c19d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,36 @@ reuse:
 subjects:
 - Alimento para Crianças
 - Aproximação das Legislações
-- Publicidade
-- Leite
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Saúde Pública
+- Direção Geral da Saúde
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
+- Leite
 - Proteção do Consumidor
+- Publicidade
 - Regime Jurídico
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:439404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614353:por
+  label: "Aditada uma al. e) ao n&#186; 1 do art.2&#186; e um art. 4&#186;-A e alterados os arts. 10&#186;, 11&#186; e 13&#186;\
+    \ pelo DEC LEI.286/2000.2000.11.10.MS, DR.IS-A [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-2000-614353
+  date: '2000-11-10'
+- type: amended_by
+  target: pt:dre:277851:por
+  label: "Alterados os arts. 1.º, 4.º, 4.º-A, 6.º, 11.º, 12.º e 13.º, com a redacção conferida pelo Dec Lei 286/2000, de 10-Nov,\
+    \ bem como os anexos II, III e VI, e aditados o art. 4.º-B e os anexos IX e X, pelo DEC LEI.138/2004.05.06.2004.MS, DR.IS-A\
+    \ [132] de 05.06.2004, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2004-277851
+  date: '2004-06-05'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -97,16 +110,21 @@ relationships:
   target: celex:31996L0004
   label: null
   source: http://data.europa.eu/eli/dir/1996/4/oj
+- type: repealed_by
+  target: pt:dre:439404:por
+  label: "Revogado pelo DEC LEI.217/2008.11.11.2008.MADRP, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2008-439404
+  date: '2008-11-11'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:06Z'
   warnings: []
   errors: []
 ---
@@ -371,15 +389,15 @@ São revogados o Decreto-Lei n.º 115/93, de 12 de Abril, e a Portaria n.º 541/
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Maio de 1999.**
+Promulgado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Junho de 1999.**
+Referendado em 1 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Composição de base das fórmulas para lactentes quando reconstituídas de acordo com as instruções do fabricante
 
@@ -527,7 +545,7 @@ Máximo: 1 g/100 ml e 30% do teor total de hidratos de carbono.
 
 5.1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 A relação cálcio/fósforo não deve ser inferior a 1,2 nem superior a 2,0.
 
@@ -535,15 +553,15 @@ A relação cálcio/fósforo não deve ser inferior a 1,2 nem superior a 2,0.
 
 Aplicam-se todos os requisitos do n.º 5.1, excepto os relativos ao ferro e zinco, que são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 6 - Vitaminas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 7 - Podem ser adicionados os nucleotídeos que se seguem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO II — Composição de base das fórmulas de transição quando reconstituídas de acordo com as instruções do fabricante
 
@@ -633,7 +651,7 @@ Máximo: utilizados separadamente ou em conjunto - 20% do teor total de hidratos
 
 5.1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 5.2 - Zinco:
 
@@ -657,21 +675,21 @@ As concentrações devem ser, no mínimo, iguais às habitualmente presentes no 
 
 6 - Vitaminas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 7 - Podem ser adicionados os nucleotídeos que se seguem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO III — Substâncias nutritivas
 
 1 - Vitaminas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 2 - Substâncias minerais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 3 - Aminoácidos e outros componentes nitrogenados
 
@@ -729,24 +747,24 @@ Inositol.
 
 ## ANEXO IV — Critérios de composição das fórmulas para lactentes em que é permitida a respectiva menção
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO V — Aminoácidos essenciais e semiessenciais no leite humano
 
 Para efeitos do disposto no presente anexo, os aminoácidos essenciais e semiessenciais presentes no leite humano, expressos em miligramas por 100 kJ e por quilocalorias, são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO VI — Amoniácidos presentes na caseína e nas proteínas do leite humano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO VII — Elementos minerais presentes no leite de vaca
 
 Para efeitos de referência, os teores dos elementos minerais no leite de vaca, expressos por 100 g de sólidos não gordos e por 1 g de proteínas, são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
 
 ## ANEXO VIII — Valores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de tenra idade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)](https://files.diariodarepublica.pt/1s/1999/06/138a00/34533463.pdf)

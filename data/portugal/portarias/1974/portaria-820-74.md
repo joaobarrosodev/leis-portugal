@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/820-1974-468176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5551c39c359995b8321451a0fd9761f241d022b3f42ca0569b9a73efe35f7b46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d39711e2123e000f8fb412c456a44361c85d754cae07898827b3c888ef41955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANO Económico
+- Crédito Especial
+- Gestão Orçamental
+- Hospital de EGAS Moniz
+relationships:
+- type: cites
+  target: pt:dre:234774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689838:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:40Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +112,19 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assunto
 
 Despesas com o pessoal:
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1 «Alimentação» ... 600000$00
 
 Despesas com o material:
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3 «De móveis»:
 
 Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» ... 50000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 1 «Artigos de expediente, impressos, livros para escrituração, etc.» ... 80000$00
 
@@ -112,7 +132,7 @@ N.º 6 «Diversos não especificados, incluindo desenho, fotografia e filmagem d
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1 «Aquisição, conserto e lavagem de roupas» ... 200000$00
 
@@ -124,7 +144,7 @@ N.º 5 «Consultas, exames e tratamentos especiais a fazer fora do Hospital por 
 
 N.º 6 «Despesas resultantes de assistência nos casos de câncer, lepra, doença do sono e doenças mentais dos funcionários do Ministério do Ultramar e seus organismos consultivos e dependentes, nos termos do artigo 1.º do [Decreto-Lei n.º 402/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1972-689838), de 24 de Outubro» ... 100000$00
 
-###### Artigo 9.º «Despesas de comunicações»:
+Artigo 9.º «Despesas de comunicações»:
 
 N.º 2 «Telefones» ... 90000$00
 
@@ -132,13 +152,13 @@ N.º 3 «Transportes de pessoal e material» ... 5000$00
 
 Diversos encargos:
 
-###### Artigo 10.º «Encargos administrativos»:
+Artigo 10.º «Encargos administrativos»:
 
 N.º 2 «Funerais dos funcionários civis que não tenham direito a vencimentos por motivo de doença, ou que os abonos a receber à data do falecimento sejam insuficientes para ocorrer à sua despesa, e ainda os dos doentes pobres que não tenham qualquer pessoa que se prontifique a satisfazê-la» ... 5000$00
 
-###### Artigo 11.º «Abono de família» ... 5000$00
+Artigo 11.º «Abono de família» ... 5000$00
 
-###### Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 40000$00
+Artigo 16.º «Vestuário, calçado e outros auxílios a prestar aos doentes pobres necessitados vindos das províncias ultramarinas» ... 40000$00
 
 ... 3575000$00
 
@@ -148,11 +168,11 @@ tomando como contrapartida disponibilidades das seguintes verbas:
 
 Despesas com o material:
 
-###### Artigo 4.º «Construções e obras novas»:
+Artigo 4.º «Construções e obras novas»:
 
 N.º 1 «Edifícios e outras construções» ... 2045000$00
 
-###### Artigo 5.º «Aquisições de utilização permanente»:
+Artigo 5.º «Aquisições de utilização permanente»:
 
 N.º 2 «Aquisição de móveis»:
 
@@ -160,7 +180,7 @@ Alínea a) «Livros para a biblioteca» ... 40000$00
 
 Alínea h) «Paramentos, roupas e outros objectos litúrgicos» ... 8500$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1 «De imóveis»:
 
@@ -172,13 +192,13 @@ N.º 3 «De móveis»:
 
 Alínea b) «Mobiliário» ... 20000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 2 «Assinaturas de jornais e outras publicações» ... 10000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 3 «Luz, aquecimento, água, lavagem e outras despesas» ... 160000$00
 
@@ -186,15 +206,15 @@ N.º 7 «Outras despesas, incluindo aquisição de alpercatas, botas para cirurg
 
 Diversos encargos:
 
-###### Artigo 10.º «Encargos administrativos»:
+Artigo 10.º «Encargos administrativos»:
 
 N.º 5 «Para pagamento dos encargos com a assistência na doença através da ADSE» ... 777000$00
 
-###### Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 210000$00
+Artigo 12.º «Bolsas de estudo para estágios e aperfeiçoamento do corpo clínico e pessoal do quadro de enfermagem» ... 210000$00
 
-###### Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 47500$00
+Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 47500$00
 
-###### Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos» ... 212000$00
+Artigo 14.º «Montagem, funcionamento e estudos com isótopos radioactivos» ... 212000$00
 
 ... 3575000$00
 

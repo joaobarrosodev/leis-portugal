@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1987-662943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8d1c1688212a01001718fbee49798af3a8efb294dea4c50051d6078c29115c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf26231f0e6d07d90c7a2157cd921ea59d8968a4b44f5c3ab9a04dae5f803b3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Contrato de Desenvolvimento
+- Habitação
+relationships:
+- type: cites
+  target: pt:dre:170535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:21Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +105,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O artigo 1.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º - 1 - O artigo 1.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - As propostas iniciais de contrato de desenvolvimento, a que se refere o artigo 1.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), devidamente fundamentadas, serão submetidas à apreciação da câmara municipal, acompanhadas:
+Artigo 1.º - 1 - As propostas iniciais de contrato de desenvolvimento, a que se refere o artigo 1.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), devidamente fundamentadas, serão submetidas à apreciação da câmara municipal, acompanhadas:
 
 a) Da documentação que permita a apreciação da estrutura financeira da empresa, a descrição do equipamento e quadros afectos ao empreendimento;
 
@@ -114,9 +125,9 @@ g) Do estudo de mercado que permita verificar a viabilidade da comercialização
 
 2 - Não é aplicável o disposto no n.º 1 deste artigo sempre que sejam cedidos terrenos pelo ex-Fundo de Fomento da Habitação (FFH) no âmbito de contratos de desenvolvimento, dado o estabelecido no n.º 4 do artigo 2.º
 
-###### Art. 2.º O artigo 2.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 2.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Os serviços competentes da câmara municipal, para efeitos do disposto nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, procederão à análise preliminar da proposta, elaborando parecer.
+Art. 2.º - 1 - Os serviços competentes da câmara municipal, para efeitos do disposto nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, procederão à análise preliminar da proposta, elaborando parecer.
 
 2 - Caso a proposta tenha merecido acordo de princípio da câmara municipal, será feita consulta ao Instituto Nacional de Habitação (INH) para os efeitos previstos nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho.
 
@@ -126,9 +137,9 @@ g) Do estudo de mercado que permita verificar a viabilidade da comercialização
 
 5 - A decisão da entidade a que se refere o número anterior deverá ser comunicada à respectiva câmara municipal e ao INH.
 
-###### Art. 3.º O artigo 3.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 3.º do [Decreto Regulamentar n.º 79/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1985-170535), de 2 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A admissão ou rejeição da proposta inicial é feita sobre o relatório a que se refere o n.º 3 do artigo anterior.
+Art. 3.º - 1 - A admissão ou rejeição da proposta inicial é feita sobre o relatório a que se refere o n.º 3 do artigo anterior.
 
 2 - As empresas proponentes serão notificadas do teor da deliberação, devendo comunicar à câmara municipal a aceitação das condições fixadas.
 
@@ -136,12 +147,12 @@ g) Do estudo de mercado que permita verificar a viabilidade da comercialização
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 21 de Janeiro de 1987.**
+Promulgado em 21 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Janeiro de 1987.**
+Referendado em 27 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

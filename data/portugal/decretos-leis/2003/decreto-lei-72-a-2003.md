@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2452-(3) a 2452-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/088a01/00030008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72-a/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2003-315884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69e395a3ad2ccb58f26ccda77dd30b9f6348314392b430dd2ef1c39da4d0c87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1baa344d6fd694583d05e1529bc6b1fb53cb3affaab1edb1a10459fa68f38ba6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Transporte
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
+- Atividade Seguradora
+- Companhia de Seguros
+- Contrato de Seguro
 - Definição de Competências
 - Fundo de Garantia Automóvel
 - Indemnização
 - Instituto de Seguros de Portugal
-- Veículo
 - Regime Jurídico
 - Responsabilidade Civil Automóvel
-- Companhia de Seguros
 - Seguro de Responsabilidade Civil Automóvel
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:332702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396962:por
+  label: "Alterados os art.s 14º e 35º do Dec Lei 94-B/98, de 17-Abr, na redacção do presente diploma, pelo DEC LEI.2/2009.05.01.2009.MFAP,\
+    \ DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2009-396962
+  date: '2009-01-05'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterados os arts. 13.º e 14.º do Dec Lei 94-B/98, de 17-Abr, na redacção do presente diploma, pelo DEC LEI.52/2010.26.05.2010.MFAP,\
+    \ DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
 - type: cites
   target: celex:31973L0239
   label: null
@@ -102,15 +114,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000/26/oj
 article_structure:
-  article_count: 28
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:11Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +183,9 @@ e) ...
 
 f) Relativamente às empresas de seguros que pretendam cobrir riscos do ramo 'Responsabilidade civil de veículos terrestres a motor com excepção da responsabilidade do transportador', designação, em cada um dos demais Estados membros, de um representante para o tratamento e a regularização, no país de residência da vítima, dos sinistros ocorridos num Estado distinto do da residência desta ('representante para sinistros').
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +223,9 @@ i) Nome e endereço do representante para sinistros previsto na alínea f) do n.
 
 9 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +255,9 @@ j) No caso de se pretender cobrir riscos do ramo 'Responsabilidade civil de veí
 
 4 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -261,7 +279,9 @@ Os artigos 23.º e 27.º do Decreto-Lei n.º 522/85, de 31 de Dezembro, passam a
 
 2 - No âmbito da protecção objecto do título II, o Fundo de Garantia Automóvel satisfaz a indemnização nos termos e até aos limites fixados na lei concretamente aplicável ao caso, nos termos quer do artigo 45.º do Código Civil quer do n.º 3 do artigo 53.º do presente diploma.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -311,21 +331,31 @@ Competências do Fundo no âmbito do título II
 
 No âmbito da protecção objecto do título II, compete ao Fundo de Garantia Automóvel satisfazer as indemnizações previstas nos artigos 50.º e 53.º e reembolsar os organismos de indemnização dos demais Estados membros nos termos do n.º 1 do artigo 52.º e do artigo 54.º
 
-###### Artigo 26.º-A — Sub-rogação e reembolsos do Fundo no âmbito do título II
+Artigo 26.º-A
+
+Sub-rogação e reembolsos do Fundo no âmbito do título II
 
 No âmbito da protecção objecto do título II, o Fundo de Garantia Automóvel procede aos reembolsos previstos no n.º 1 do artigo 52.º e no artigo 54.º e goza dos direitos de reembolso previstos no artigo 51.º e no n.º 4 do artigo 53.º e da sub-rogação prevista no n.º 2 do artigo 52.º
 
-## TÍTULO II — Da protecção em caso de acidente no estrangeiro
+TÍTULO II
 
-### CAPÍTULO I — Disposições gerais
+Da protecção em caso de acidente no estrangeiro
 
-###### Artigo 41.º — Âmbito da protecção
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 41.º
+
+Âmbito da protecção
 
 1 - São protegidos nos termos do presente título os lesados residentes em Portugal com direito a indemnização por dano sofrido em resultado de acidente causado pela circulação de veículo terrestre a motor habitualmente estacionado e segurado num Estado membro e ocorrido ou em Estado membro que não Portugal ou, sem prejuízo do fixado no n.º 1 do artigo 53.º, em país terceiro aderente ao sistema da carta verde.
 
 2 - O disposto no capítulo II e na secção I do capítulo IV do presente título não é todavia aplicável aos danos resultantes de acidente causado pela utilização de veículo habitualmente estacionado em Portugal e segurado em estabelecimento situado em Portugal.
 
-###### Artigo 42.º — Definições
+Artigo 42.º
+
+Definições
 
 Para efeitos do presente título, considera-se:
 
@@ -337,9 +367,13 @@ c) 'Lesado', qualquer pessoa que tenha direito a uma indemnização por danos ca
 
 d) 'Estado membro onde o veículo tem o seu estacionamento habitual', o território de cujo Estado membro o veículo é portador de uma chapa de matrícula ou, no caso de não existir matrícula para um determinado tipo de veículo que, no entanto, possua uma chapa de seguro ou um sinal distintivo idêntico ao da chapa de matrícula, o território onde essa chapa ou sinal distintivo foi emitido.
 
-### CAPÍTULO II — Empresas de seguros
+CAPÍTULO II
 
-###### Artigo 43.º — Representante para sinistros
+Empresas de seguros
+
+Artigo 43.º
+
+Representante para sinistros
 
 1 - As empresas de seguros sediadas em Portugal, bem como as sucursais em Portugal de empresas com sede fora do território da Comunidade Europeia, autorizadas para a cobertura de riscos do ramo 'Responsabilidade civil de veículos terrestres a motor com excepção da responsabilidade do transportador' têm liberdade de escolha do representante, em cada um dos demais Estados membros, para o tratamento e a regularização, no país de residência da vítima, dos sinistros ocorridos num Estado distinto do da residência desta ('representante para sinistros').
 
@@ -353,7 +387,9 @@ d) 'Estado membro onde o veículo tem o seu estacionamento habitual', o territó
 
 6 - As empresas de seguros previstas no n.º 1 devem comunicar aos centros de informação de todos os Estados membros o nome e o endereço do representante para sinistros por si designados nos termos do n.º 1.
 
-###### Artigo 44.º — Procedimento de oferta razoável
+Artigo 44.º
+
+Procedimento de oferta razoável
 
 1 - Num prazo de três meses a contar da data em que o lesado apresente o seu pedido de indemnização directamente à empresa de seguros da pessoa que causou o sinistro ou ao seu representante para sinistros, devem estes, em alternativa:
 
@@ -367,9 +403,13 @@ b) No caso de a responsabilidade ter sido rejeitada ou não ter sido claramente 
 
 4 - A designação do representante para sinistros não equivale, por si, à abertura de uma sucursal, não devendo o representante para sinistros ser considerado um estabelecimento para efeitos de determinação de foro, nomeadamente para a regularização judicial de sinistros.
 
-### CAPÍTULO III — Centro de informação
+CAPÍTULO III
 
-###### Artigo 45.º — Instituição
+Centro de informação
+
+Artigo 45.º
+
+Instituição
 
 1 - Para que o lesado possa pedir indemnização, o Instituto de Seguros de Portugal é responsável pela manutenção de um registo com as seguintes informações relativas aos veículos terrestres a motor habitualmente estacionados em Portugal:
 
@@ -393,7 +433,9 @@ g) Nome do organismo que garante a cobertura do veículo no Estado membro onde e
 
 4 - O Instituto de Seguros de Portugal coopera com os centros de informação dos demais Estados membros da União Europeia para o cumprimento recíproco das respectivas funções.
 
-###### Artigo 46.º — Informação
+Artigo 46.º
+
+Informação
 
 1 - O lesado residente em Portugal, ou cujo veículo tem o seu estacionamento habitual em Portugal ou vítima de sinistro ocorrido em Portugal, tem o direito de, no prazo de sete anos após o acidente, obter sem demora do Instituto de Seguros de Portugal o nome e endereço da empresa de seguros do veículo cuja utilização causou o sinistro, bem como o número da respectiva apólice de seguro e, bem assim, o nome e endereço do representante para sinistros da empresa de seguros no seu Estado de residência.
 
@@ -407,19 +449,29 @@ g) Nome do organismo que garante a cobertura do veículo no Estado membro onde e
 
 6 - A informação prevista nos n.os 1, 4 e 5 deve igualmente ser fornecida a qualquer interessado.
 
-###### Artigo 47.º — Tratamento de dados pessoais
+Artigo 47.º
+
+Tratamento de dados pessoais
 
 Ao tratamento de dados pessoais decorrente da aplicação dos artigos anteriores é aplicável o disposto na Lei n.º 67/98, de 26 de Outubro.
 
-### CAPÍTULO IV — Organismo de indemnização
+CAPÍTULO IV
 
-###### Artigo 48.º — Instituição
+Organismo de indemnização
+
+Artigo 48.º
+
+Instituição
 
 O Fundo de Garantia Automóvel garante a indemnização dos lesados referidos no artigo 41.º nos termos do presente capítulo.
 
-#### SECÇÃO I — Regime geral
+SECÇÃO I
 
-###### Artigo 49.º — Legitimidade para o pedido de indemnização
+Regime geral
+
+Artigo 49.º
+
+Legitimidade para o pedido de indemnização
 
 1 - Os lesados residentes em Portugal podem apresentar um pedido de indemnização ao Fundo de Garantia Automóvel se, não constando tal pedido de acção judicial interposta directamente contra a empresa de seguros:
 
@@ -429,7 +481,9 @@ b) A empresa de seguros não tiver designado um representante para sinistros em 
 
 2 - Carecem da legitimidade prevista na alínea b) os lesados que tenham apresentado o pedido de indemnização directamente à empresa de seguros do veículo cuja utilização causou o sinistro e tenham recebido uma resposta fundamentada no prazo de três meses a contar da data de apresentação do pedido.
 
-###### Artigo 50.º — Resposta ao pedido de indemnização
+Artigo 50.º
+
+Resposta ao pedido de indemnização
 
 1 - O Fundo de Garantia Automóvel dará resposta ao pedido de indemnização no prazo de dois meses a contar da data da sua apresentação pelo lesado, sem prejuízo da possibilidade de pôr termo à sua intervenção se a empresa de seguros ou o seu representante para sinistros tiver entretanto apresentado uma resposta fundamentada ao pedido.
 
@@ -441,19 +495,27 @@ b) A empresa de seguros não tiver designado um representante para sinistros em 
 
 5 - Nos casos em que os lesados tenham apresentado pedido judicial de indemnização ao civilmente responsável, o pagamento pelo Fundo de Garantia Automóvel será por este comunicado ao respectivo tribunal.
 
-###### Artigo 51.º — Reembolso
+Artigo 51.º
+
+Reembolso
 
 Tendo procedido ao pagamento nos termos do artigo anterior, o Fundo de Garantia Automóvel tem o direito de pedir ao organismo de indemnização do Estado membro do estabelecimento da empresa de seguros do veículo cuja utilização causou o acidente o reembolso do montante pago.
 
-###### Artigo 52.º — Sub-rogação
+Artigo 52.º
+
+Sub-rogação
 
 1 - O Fundo de Garantia Automóvel, na qualidade de organismo de indemnização do Estado membro do estabelecimento da empresa de seguros do veículo cuja utilização causou o acidente, deve reembolsar o organismo de indemnização de outro Estado membro que assim lho solicite após indemnizar o lesado aí residente nos termos do artigo 6.º da Directiva n.º [2000/26/CE](https://data.europa.eu/eli/dir/2000/26/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Maio.
 
 2 - O Fundo de Garantia Automóvel fica sub-rogado nos direitos do lesado face à pessoa causadora do acidente e à respectiva empresa de seguros na medida em que tenha procedido ao reembolso previsto no número anterior.
 
-#### SECÇÃO II — Regime especial
+SECÇÃO II
 
-###### Artigo 53.º — Intervenção em caso de não identificação de veículo ou de empresa de seguros
+Regime especial
+
+Artigo 53.º
+
+Intervenção em caso de não identificação de veículo ou de empresa de seguros
 
 1 - Relativamente a sinistros ocorridos noutros Estados membros, os lesados residentes em Portugal podem também apresentar um pedido de indemnização ao Fundo de Garantia Automóvel quando não for possível identificar o veículo cuja utilização causou o sinistro ou se no prazo de dois meses após o sinistro não for possível identificar a empresa de seguros daquele.
 
@@ -467,17 +529,25 @@ a) Se não for possível identificar a empresa de seguros, junto do Fundo de Gar
 
 b) Se não for possível identificar o veículo, ou no caso de veículos de países terceiros, junto de idêntico fundo de garantia do Estado membro onde ocorreu o sinistro.
 
-###### Artigo 54.º — Reembolso a organismo de indemnização de outro Estado membro
+Artigo 54.º
+
+Reembolso a organismo de indemnização de outro Estado membro
 
 O Fundo de Garantia Automóvel, na qualidade de organismo de indemnização do Estado membro onde o veículo tem o seu estacionamento habitual ou onde ocorreu o sinistro, deve reembolsar o organismo de indemnização de outro Estado membro que assim lho solicite após indemnizar o lesado aí residente nos termos do artigo anterior.
 
-### CAPÍTULO V — Disposições finais
+CAPÍTULO V
 
-###### Artigo 55.º — Colaboração
+Disposições finais
+
+Artigo 55.º
+
+Colaboração
 
 Todas as entidades de cujo concurso o Instituto de Seguros de Portugal e o Fundo de Garantia Automóvel careçam para o cumprimento das funções que lhe estão atribuídas nos termos do presente título devem colaborar com estes de forma célere e eficaz.
 
-###### Artigo 56.º — Regulamentação
+Artigo 56.º
+
+Regulamentação
 
 O Instituto de Seguros de Portugal elabora, nos termos previstos no n.º 3 do artigo 4.º do respectivo Estatuto, aprovado pelo Decreto-Lei n.º 289/2001, de 13 de Novembro, as normas regulamentares necessárias à concretização do disposto no presente título.»
 
@@ -495,12 +565,12 @@ O presente diploma produz efeitos desde 20 de Janeiro de 2003.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 10 de Abril de 2003.**
+Promulgado em 10 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 2003.**
+Referendado em 14 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

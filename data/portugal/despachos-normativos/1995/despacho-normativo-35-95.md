@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/35/1995/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-1995-491376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bc72455350213c93c16cfcfdd31d30edc6fa3c2a95e90ef7489a82c8a664e9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b99a4b6a1c49609371db27280d1d71d5967d611141ea56c5d16c1901b7cedda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,38 @@ relationships:
   target: pt:dre:608926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608926:por
+  label: "Alterada a al. b) do n.º 6 do art. 11.º, eliminado o n.º 2 do art. 12.º, passando a n.º 1 a número único, alterado\
+    \ o n.º 9 do art. 14.º, a al. n) do n.º 1 do art. 17.º, o número único do art. 20.º passa a n.º 1, a al. b) do n.º 3 do\
+    \ art. 24.º, o art. 39.º, o n.º 3 do art. 43.º, rectificado o número da secção que abrange os arts. 47.º a 49.º para V,\
+    \ alterado o n.º 4 do art. 47.º, o n.º 4 do art. 63.º, aditada uma al. d) ao n.º 1 do art. 8.º, um n.º 2 ao art. 20.º,\
+    \ aditado também um texto ao anexo dos Estatutos, relativo à Imagem gráfica da Escola Superior Agrária de Elvas, homologados\
+    \ no presente diploma, pelo DN.5/2004.30.12.2003.MCES, DR.IS-B [19] de 23.01.2004\004"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-2004-608926
+  date: '2003-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 69
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:23Z'
   warnings: []
   errors: []
 ---
@@ -1058,7 +1076,7 @@ Os Estatutos do IPP podem ser revistos e alterados nos termos do artigo 46.º da
 
 ###### Artigo 66.º — Cessação de funções do presidente em exercício
 
-**O presidente do Instituto em exercício cessa funções com a tomada de posse do primeiro presidente eleito.**
+O presidente do Instituto em exercício cessa funções com a tomada de posse do primeiro presidente eleito.
 
 ###### Artigo 67.º — Fim do regime de instalação
 
@@ -1086,7 +1104,7 @@ Sobre um campo quadrado cinzento (pantone 430), desenvolve-se um conjunto de ele
 
 A designação «INSTITUTO POLITÉCNICO de PORTALEGRE» é escrita em caracteres avant gard demibold oblic (pantone 430) e pode ser usada à direita do símbolo (em três linhas) ou abaixo do símbolo (numa única linha).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf))](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)
 
 Imagem gráfica da Escola Superior de Educação
 
@@ -1100,7 +1118,7 @@ A designação «INSTITUTO POLITÉCNICO de PORTALEGRE», instituição a que per
 
 A cor utilizada é o cinzento (pantone 430) idêntico ao usado no símbolo do Instituto Politécnico de Portalegre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf))](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)
 
 Imagem gráfica da Escola Superior de Tecnologia e Gestão
 
@@ -1110,4 +1128,4 @@ Sobre um campo quadrado cinzento (pantone 430), desenvolve-se um conjunto de ele
 
 A designação «ESCOLA SUPERIOR DE TECNOLOGIA E GESTÃO» é escrita em caracteres avant gard demibold oblic e pode ser usada à direita do símbolo (em duas linhas encimadas pela designação do Instituto a que pertence, «INSTITUTO POLITÉCNICO de PORTALEGRE») ou abaixo do símbolo (numa única linha, sublinhada pela designação do Instituto a que pertence, «INSTITUTO POLITÉCNICO de PORTALEGRE»).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf))](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/166b00/46524660.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/17700/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2020/09/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2020-142487103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd7b40f2990d80282f17d9e3ddb7fa0afe839b0292079016c2a98aff1721383c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 057199715bd961aa510105895b33cb41e387d5cbf1cf0d99890b74d5b1ea12d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Agência Municipal de Energia
 - Aproximação das Legislações
 - Aumento de Produção
-- Energia Elétrica
+- Certificação Energética dos Edifícios
+- Co-geração
 - Comissão para a Elaboração e o Acompanhamento do Plano Energético Nacional
 - Consumidor
 - Consumo de Energia
 - Contrato de Prestação de Serviços
-- Entidade Reguladora do Sector Eléctrico
-- Equipamento Eléctrico
-- Indústria Eléctrica
-- Equipamento Eletrónico
-- Administração Pública
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Programa para a Mobilidade Elétrica
-- Certificação Energética dos Edifícios
-- Co-geração
-- Parque Industrial
+- ECO AP
+- Eficiência Energética
+- Energia Elétrica
+- Entidade Reguladora do Sector Eléctrico
 - Entidade Reguladora dos Serviços Energéticos
+- Equipamento Eléctrico
+- Equipamento Eletrónico
+- Fiscalização
+- Fundo Ambiental
+- Indústria Eléctrica
+- Parque Industrial
 - Preço
 - Produção de Energia Elétrica
-- ECO AP
+- Programa para a Mobilidade Elétrica
 - Rede Elétrica de Serviço Público
 - Regulamento CE
-- Eficiência Energética
 - Taxa
 - TAXA de Instalações Eléctricas
-- Fundo Ambiental
 relationships:
 - type: cites
   target: celex:32004L0008
@@ -135,6 +135,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0008
   label: null
@@ -148,15 +172,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 17
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:05Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +235,9 @@ Contribuição indicativa nacional de eficiência energética
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -223,7 +249,9 @@ Contribuição indicativa nacional de eficiência energética
 
 5 - Entre de 1 de janeiro de 2021 e 31 de dezembro de 2030, devem ser alcançadas, anualmente, novas economias de energia que ascendam a 0,8 % do consumo anual de energia final, calculadas com base na média do último período de três anos anterior a 1 de janeiro de 2019.
 
-###### Artigo 5.º — Ações específicas
+Artigo 5.º
+
+Ações específicas
 
 1 - [...]
 
@@ -233,7 +261,9 @@ Contribuição indicativa nacional de eficiência energética
 
 4 - Para o período 2021-2030 o objetivo cumulativo de economias de energia definido no PNEC é obtido através da implementação das medidas e ações específicas aí enumeradas, bem como das medidas tangíveis e intangíveis implementadas no âmbito dos PPEC, previstos nos Regulamentos Tarifários dos setores energético e do gás, aprovados pela ERSE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As economias de energia, até 31 de dezembro de 2020, são aferidas anualmente, através do sistema de acompanhamento e monitorização previsto no PNAEE.
 
@@ -241,7 +271,9 @@ Contribuição indicativa nacional de eficiência energética
 
 3 - As economias de energia para o horizonte 2021-2030 são aferidas anualmente, através do sistema de acompanhamento e monitorização inscrito no PNEC.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os organismos da administração central devem cumprir o objetivo de redução do consumo de energia definido no PNAEE, até 31 de dezembro de 2020, face ao consumo verificado nos seus edifícios e equipamentos, através de medidas previstas, nomeadamente, no Programa de Eficiência Energética na Administração Pública - ECO.AP, aprovado pela [Resolução do Conselho de Ministros n.º 2/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2011-485640), de 12 de janeiro.
 
@@ -259,7 +291,9 @@ b) Implementam um sistema de gestão da energia, que inclua a realização de au
 
 6 - As entidades abrangidas podem recorrer a empresas de serviços energéticos (ESE) e a contratos de gestão de eficiência energética, nos termos da legislação aplicável, para cumprimento do disposto no número anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Nos procedimentos de formação e celebração de contratos de aquisição de bens e serviços, as entidades da administração pública devem, na medida em que tal seja coerente com uma boa relação custo-eficácia, viabilidade económica, maior sustentabilidade, adequação técnica e condições de concorrência suficientes, assegurar que os bens e serviços a adquirir possuem um desempenho elevado em termos de eficiência energética.
 
@@ -277,7 +311,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os contadores dos consumos finais de eletricidade e gás natural, na medida em que seja tecnicamente viável, financeiramente razoável e proporcional às potenciais economias de energia, devem refletir com exatidão o consumo efetivo de energia e dar informações sobre o correspondente período real de utilização.
 
@@ -295,7 +331,9 @@ b) Quando for feita uma nova ligação num novo edifício ou em edifícios sujei
 
 6 - (Revogado.)
 
-###### Artigo 18.º — Custo do acesso às informações sobre contagem e faturação de eletricidade e gás
+Artigo 18.º
+
+Custo do acesso às informações sobre contagem e faturação de eletricidade e gás
 
 1 - [...]
 
@@ -331,13 +369,17 @@ b) Calor irradiado pela instalação do edifício para efeitos de aquecimento da
 
 c) Aquecimento ou arrefecimento das frações autónomas.
 
-###### Artigo 16.º-B — Requisito relativo à leitura remota
+Artigo 16.º-B
+
+Requisito relativo à leitura remota
 
 1 - Para efeitos dos artigos 16.º e 16.º-A, os contadores e os contadores de energia térmica, instalados após 25 de outubro de 2020, devem assegurar a leitura à distância, se tal for técnica e economicamente viável.
 
 2 - Os contadores e os contadores de energia térmica já instalados que não permitam a leitura remota devem ser equipados com essa capacidade ou substituídos por outros que assegurem leitura remota, até 1 de janeiro de 2027, exceto se se provar que essa modificação ou substituição não é técnica e economicamente viável.
 
-###### Artigo 17.º-A — Informações sobre a faturação e o consumo de aquecimento, arrefecimento e água quente para uso doméstico
+Artigo 17.º-A
+
+Informações sobre a faturação e o consumo de aquecimento, arrefecimento e água quente para uso doméstico
 
 1 - No caso de contadores ou contadores de energia térmica já instalados, as informações sobre a faturação e o consumo devem ser fiáveis, exatas e baseadas no consumo real ou nas leituras dos contadores de energia térmica, nos termos dos n.os 1 e 2 do anexo ix, do qual faz parte integrante, para todos os utilizadores finais.
 
@@ -359,7 +401,9 @@ f) O consumidor final pode solicitar propostas de modalidades flexíveis de paga
 
 4 - O fornecedor de aquecimento, arrefecimento e água quente para uso doméstico é responsável pela prestação das informações referidas nos n.os 1 e 2 aos utilizadores finais que não tenham contrato direto ou individual com um fornecedor de energia.
 
-###### Artigo 18.º-A — Custo do acesso às informações sobre contagem, faturação e consumo de aquecimento, arrefecimento e água quente para uso doméstico
+Artigo 18.º-A
+
+Custo do acesso às informações sobre contagem, faturação e consumo de aquecimento, arrefecimento e água quente para uso doméstico
 
 1 - Os consumidores finais devem receber gratuitamente todas as faturas e informações sobre faturação relativamente ao respetivo consumo de energia, e ter acesso adequado e gratuito aos dados referentes ao seu consumo.
 
@@ -389,15 +433,15 @@ São revogados o artigo 8.º, o n.º 6 do artigo 16.º, os n.os 2 e 3 do artigo 
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2020. - António Luís Santos da Costa - Ana Paula Baptista Grade Zacarias - João Rodrigo Reis Carvalho Leão - Inês dos Santos Costa.
 
-**Promulgado em 31 de agosto de 2020.**
+Promulgado em 31 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de setembro de 2020.**
+Referendado em 3 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -496,3 +540,5 @@ b) [...]
 c) [...]
 
 2 - [...]
+
+113548241

@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/230-1982-376253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7d8b7dbe7b021ad3c0596ceabf354a53bf123b1ec5b2db860327d3279bb6d9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc1d0465943517173ff7be5e2427a6f2f653ccccbc8dbb4a705e47746e17620b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CASA do Estado
+- Cofre de Previdência
+- PSP
+- Segurança Social
+- Serviços Sociais
+- Venda
+relationships:
+- type: cites
+  target: pt:dre:394705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600961:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:39Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +101,7 @@ Considerando que o [Decreto-Lei n.º 258/82](https://diariodarepublica.pt/dr/det
 
 Considerando que compete ao Ministro da Administração Interna a definição das instruções para a sua execução:
 
-**O Ministro da Administração Interna, nos termos do artigo 2.º do [Decreto-Lei n.º 258/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1982-394705), de 6 de Julho, determina que as transacções das casas dos Serviços Sociais e Cofre de Previdência da Polícia de Segurança Pública que vierem a ser postas à venda obedecerão às seguintes normas gerais:**
+O Ministro da Administração Interna, nos termos do artigo 2.º do [Decreto-Lei n.º 258/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1982-394705), de 6 de Julho, determina que as transacções das casas dos Serviços Sociais e Cofre de Previdência da Polícia de Segurança Pública que vierem a ser postas à venda obedecerão às seguintes normas gerais:
 
 1.ª Apenas os beneficiários e subscritores, respectivamente, dos Serviços Sociais e Cofre de Previdência, ou o seu cônjuge sobrevivo, poderão ser compradores das casas que habitam e que vierem a ser postas à venda;
 

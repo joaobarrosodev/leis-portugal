@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1985-181975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fcd41a5ec6e91006624195bc8cab5c765a621bb3d3fb5b7427e35aec3e23418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb88333cfd2d7fbd33795843bb5c7b355a41a4e075a7e6fd19023a9e0975dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aparelho Complementar Terapêutico
+- Deficiente
+- Importação
+- Isenção Fiscal
+- Material Científico
+- Material de Ensino
+relationships:
+- type: cites
+  target: pt:dre:401374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:30Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +109,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º O presente decreto regulamentar fixa disposições para aplicação dos artigos 1.º a 10.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), de 4 de Dezembro.
+Artigo 1.º O presente decreto regulamentar fixa disposições para aplicação dos artigos 1.º a 10.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), de 4 de Dezembro.
 
 ### CAPÍTULO II — Disposições gerais
 
 #### SECÇÃO I — Obrigações do estabelecimento ou organismo destinatário
 
-###### Art. 2.º - 1 - A importação com franquia de direitos de objectos de carácter educativo, científico ou cultural, referidos no artigo 2.º no n.º 1 do artigo 3.º, no artigo 4.º e no artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), designados a seguir por «objectos», implica a obrigação para o estabelecimento ou organismo destinatário:
+Art. 2.º - 1 - A importação com franquia de direitos de objectos de carácter educativo, científico ou cultural, referidos no artigo 2.º no n.º 1 do artigo 3.º, no artigo 4.º e no artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), designados a seguir por «objectos», implica a obrigação para o estabelecimento ou organismo destinatário:
 
 De expedir directamente os referidos objectos até ao local de destino declarado;
 
@@ -121,7 +131,7 @@ De facilitar todos os controles que as autoridades aduaneiras considerem úteis 
 
 #### SECÇÃO II — Disposições aplicáveis no caso de empréstimo, aluguer ou cessão
 
-###### Art. 3.º - 1 - Quando forem de aplicar as disposições do n.º 2 do artigo 8.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o estabelecimento ou organismo beneficiário do empréstimo, do aluguer ou da cessão de um objecto ficará sujeito, a contar da data da sua recepção, às mesmas obrigações que as referidas no artigo 2.º
+Art. 3.º - 1 - Quando forem de aplicar as disposições do n.º 2 do artigo 8.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o estabelecimento ou organismo beneficiário do empréstimo, do aluguer ou da cessão de um objecto ficará sujeito, a contar da data da sua recepção, às mesmas obrigações que as referidas no artigo 2.º
 
 2 - As disposições do n.º 1 aplicar-se-ão, mutatis mutandis, ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios específicos que se adaptem aos instrumentos ou aparelhos científicos, assim como das ferramentas a utilizar na manutenção, controle, calibragem ou reparação de instrumentos ou aparelhos científicos que tenham sido importados com franquia nos termos do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
@@ -129,7 +139,7 @@ De facilitar todos os controles que as autoridades aduaneiras considerem úteis 
 
 Disposições particulares relativas à importação em franquia de um objecto com carácter educativo, científico ou cultural ao abrigo de artigo 2.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 4.º - 1 - A fim de obter a importação com franquia de um objecto nos termos do artigo 2.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
+Art. 4.º - 1 - A fim de obter a importação com franquia de um objecto nos termos do artigo 2.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
 
 2 - O pedido referido no n.º 1 deve ser acompanhado de todos os elementos de informação considerados necessários pelas autoridades aduaneiras a fim de determinarem se se encontram satisfeitas as condições previstas para a concessão da franquia.
 
@@ -137,7 +147,7 @@ Disposições particulares relativas à importação em franquia de um objecto c
 
 Disposições particulares relativas à importação em franquia de instrumentos ou aparelhos científicos ao abrigo dos artigos 3.º, 5.º e 6.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 5.º - 1 - Para efeito da aplicação do primeiro parágrafo do artigo 5.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), consideram-se características técnicas objectivas de um instrumento ou aparelho científico as que, resultando da construção do referido instrumento ou aparelho ou das adaptações a que foi submetido comparativamente a um aparelho de tipo corrente, lhe permitam obter resultados de alto nível que não são requeridos para a execução de trabalhos de exploração industrial ou comercial.
+Art. 5.º - 1 - Para efeito da aplicação do primeiro parágrafo do artigo 5.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), consideram-se características técnicas objectivas de um instrumento ou aparelho científico as que, resultando da construção do referido instrumento ou aparelho ou das adaptações a que foi submetido comparativamente a um aparelho de tipo corrente, lhe permitam obter resultados de alto nível que não são requeridos para a execução de trabalhos de exploração industrial ou comercial.
 
 2 - Quando, tomando por base as suas características técnicas objectivas, não for possível determinar sem ambiguidade se um instrumento ou aparelho deve ser considerado um instrumento ou um aparelho científico, proceder-se-á ao exame dos fins para os quais são geralmente utilizados no País os instrumentos ou aparelhos do género daquele para o qual foi pedida a importação com franquia.
 
@@ -159,7 +169,7 @@ A frequência das despesas de conservação a que deverá estar sujeito;
 
 As possibilidades de serviço de assistência de que possa beneficiar.
 
-###### Art. 6.º - 1 - A fim de obter a importação com franquia de instrumentos ou aparelhos científicos ao abrigo das disposições do n.º 1 do artigo 3.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
+Art. 6.º - 1 - A fim de obter a importação com franquia de instrumentos ou aparelhos científicos ao abrigo das disposições do n.º 1 do artigo 3.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
 
 2 - O pedido referido no n.º 1 deve conter as seguintes informações relativas ao instrumento ou aparelho em causa:
 
@@ -185,7 +195,7 @@ j) O nome ou a razão social e a morada da ou das firmas nacionais junto das qua
 
 3 - Ao pedido referido no n.º 1 deve juntar-se documentação que forneça todos os esclarecimentos úteis sobre as características e as especificações técnicas do instrumento ou aparelho.
 
-###### Art. 7.º - 1 - O director da alfândega em cuja circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 6.º em todos os casos em que os elementos de informação de que disponha, eventualmente após consulta dos meios económicos interessados, lhe permitam apreciar se o instrumento ou aparelho deve ser considerado ou não científico e se existem ou não instrumentos ou aparelhos de valor científico equivalente presentemente fabricados no País.
+Art. 7.º - 1 - O director da alfândega em cuja circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 6.º em todos os casos em que os elementos de informação de que disponha, eventualmente após consulta dos meios económicos interessados, lhe permitam apreciar se o instrumento ou aparelho deve ser considerado ou não científico e se existem ou não instrumentos ou aparelhos de valor científico equivalente presentemente fabricados no País.
 
 2 - Quando o director da alfândega em cuja circunscrição estiver situado o estabelecimento ou organismo destinatário não estiver em condições de tomar a decisão referida no n.º 1, o pedido, assim como a documentação técnica a ele referente, será enviado à Direcção-Geral das Alfândegas a fim de permitir a esta última dar início às formalidades previstas nos n.os 5 a 9.
 
@@ -203,7 +213,7 @@ j) O nome ou a razão social e a morada da ou das firmas nacionais junto das qua
 
 9 - A notificação da decisão da Direcção-Geral das Alfândegas será feita ao interessado num prazo de duas semanas e será objecto, no mais curto prazo, de publicação, eventualmente em forma abreviado, na 3.ª série do Diário da República.
 
-###### Art. 8.º - 1 - O prazo de validade das autorizações de importação com franquia é de 6 meses.
+Art. 8.º - 1 - O prazo de validade das autorizações de importação com franquia é de 6 meses.
 
 2 - Os directores das Alfândegas podem, no entanto, fixar um prazo superior, tendo em consideração as circunstâncias particulares de cada operação.
 
@@ -211,7 +221,7 @@ j) O nome ou a razão social e a morada da ou das firmas nacionais junto das qua
 
 Disposições particulares relativas à importação com franquia de instrumentos ou aparelhos científicos ao abrigo do artigo 7.º de [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 9.º - 1 - Para obter a importação com franquia de instrumentos ou aparelhos científicos ao abrigo das disposições do artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
+Art. 9.º - 1 - Para obter a importação com franquia de instrumentos ou aparelhos científicos ao abrigo das disposições do artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
 
 2 - O pedido referido no n.º 1 deve conter as mesmas indicações que as mencionadas nas alíneas a) e e) do n.º 2 do artigo 6.º e ser acompanhado de documentação que forneça todas as informações úteis sobre as características e as especificações técnicas do instrumento ou aparelho, devendo, além disso, mencionar:
 
@@ -219,25 +229,25 @@ a) O nome ou a razão social e a morada do doador;
 
 b) A declaração do requerente de que os instrumentos ou aparelhos para os quais é pedida a franquia foram efectivamente oferecidos ao estabelecimento ou organismo em causa sem contrapartida comercial de qualquer espécie, particularmente de ordem publicitária.
 
-###### Art. 10.º - 1 - O director da alfândega em cujo circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 9.º
+Art. 10.º - 1 - O director da alfândega em cujo circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 9.º
 
 2 - O director da alfândega apenas autorizará a importação com franquia dos instrumentos ou aparelhos em causa se se provar que o doador não retira qualquer vantagem comercial, directa ou indirecta, da sua dádiva à instituição ou organização destinatária.
 
 3 - Quando o director da alfândega em cuja circunscrição se situa o estabelecimento ou organismo destinatário não estiver em condições de poder apreciar, com base nas informações de que dispõe, se o instrumento ou aparelho para o qual é requerida a franquia deverá ser considerado ou não científico, aplicar-se-á o procedimento previsto nos n.os 2 a 9 do artigo 7.º
 
-###### Art. 11.º As disposições dos artigos 9.º e 10.º aplicar-se-ão, mutatis mutandis, às ferramentas para a manutenção, o controle, a calibragem ou a reparação de instrumentos ou aparelhos científicos importados com franquia ao abrigo do artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
+Art. 11.º As disposições dos artigos 9.º e 10.º aplicar-se-ão, mutatis mutandis, às ferramentas para a manutenção, o controle, a calibragem ou a reparação de instrumentos ou aparelhos científicos importados com franquia ao abrigo do artigo 7.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
 ### CAPÍTULO VI
 
 Disposições particulares relativas à importação com franquia de peças sobresselentes, elementos ou acessórios específicos ou de ferramentas ao abrigo de artigo 4.º de Decreto-Lei n.º 383/94.
 
-###### Art. 12.º Para efeito da alínea a) do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), consideram-se acessórios específicos os artigos especialmente concebidos para serem utilizados com um determinado instrumento ou aparelho científico a fim de melhorar o seu rendimento ou as suas possibilidades de utilização.
+Art. 12.º Para efeito da alínea a) do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), consideram-se acessórios específicos os artigos especialmente concebidos para serem utilizados com um determinado instrumento ou aparelho científico a fim de melhorar o seu rendimento ou as suas possibilidades de utilização.
 
-###### Art. 13.º - 1 - Para obter a importação com franquia, quer de peças sobresselentes, elementos ou acessórios específicos, quer de ferramentas, ao abrigo do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
+Art. 13.º - 1 - Para obter a importação com franquia, quer de peças sobresselentes, elementos ou acessórios específicos, quer de ferramentas, ao abrigo do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374), o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido ao director da alfândega em cuja circunscrição estiver situado esse estabelecimento ou organismo.
 
 2 - O pedido formulado no n.º 1 deve ser acompanhado de todos os elementos de informação considerados necessários pelas autoridades aduaneiras para determinarem se se encontram satisfeitas as condições previstas no artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
-###### Art. 14.º - 1 - Sob reserva das disposições do n.º 2, o director da Alfândega em cuja circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 13.º
+Art. 14.º - 1 - Sob reserva das disposições do n.º 2, o director da Alfândega em cuja circunscrição estiver situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 13.º
 
 2 - O procedimento descrito nos n.os 2 a 9 do artigo 7.º aplicar-se-á, mutatis mutandis, quando o director da alfândega em cujo circunscrição estiver situado o estabelecimento ou organismo destinatário não puder assegurar:
 
@@ -245,16 +255,16 @@ Que o instrumento ou aparelho a que se destinam quer as peças sobresselentes, e
 
 Que ferramentas equivalentes àquelas para as quais é pedida a franquia não são presentemente fabricadas no País.
 
-###### Art. 15.º As disposições do artigo 8.º aplicar-se-ão às autorizações de importação com franquia emitidas ao abrigo do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
+Art. 15.º As disposições do artigo 8.º aplicar-se-ão às autorizações de importação com franquia emitidas ao abrigo do artigo 4.º do [Decreto-Lei n.º 383/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1984-401374).
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - José Veiga Simão.
 
-**Promulgado em 7 de Junho de 1985.**
+Promulgado em 7 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 11 de Junho de 1985.**
+Referendado em 11 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

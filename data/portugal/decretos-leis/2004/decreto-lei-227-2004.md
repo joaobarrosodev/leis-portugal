@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/2004/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-2004-213808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec28909f944de8d0db9b5b094ec242edf13603c323449a2d398468e2ab334447
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43d0aa4e294511e35c01a0d153d97a194a4796bcf35653bafc7c53d5928806c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
+- Açores
 - Aproximação das Legislações
 - Brucelose
-- Doença Animal
-- Gado Caprino
-- Multa
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Doença Animal
 - Fiscalização
-- Abate de Animais
+- Gado Caprino
 - Gado Ovino
 - Madeira.região Autónoma
-- Açores
-- Comércio
+- Multa
+- Saúde Animal
 - Transporte de Animais
 - Troca Intracomunitária
-- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670027:por
+  label: "Alterados os arts. 11.º e 12.º pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 - type: cites
   target: celex:31990D0242
   label: null
@@ -109,13 +114,13 @@ relationships:
 article_structure:
   article_count: 23
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:43Z'
   warnings: []
   errors: []
 ---
@@ -424,15 +429,15 @@ d) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - Carlos Henrique da Costa Neves - Luís Filipe da Conceição Pereira.
 
-**Promulgado em 5 de Novembro de 2004.**
+Promulgado em 5 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Novembro de 2004.**
+Referendado em 10 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO A — Zonas
 

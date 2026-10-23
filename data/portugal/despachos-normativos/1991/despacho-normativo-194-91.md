@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/194/1991/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/194-1991-304769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3333d5f86e8ebec552de69105e5d82f4117a5253f0b552c01bf30d2387c26d28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b012c58d4018b94ac45406f0e0cfb7694ecfd7720a321ae03cf7f2c74f709f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Departamento para os Assuntos do Fundo Social Europeu
+- Formação Profissional
 - FSE
+- Instituto do Emprego e Formação Profissional
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:647680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:647680:por
+  label: "Alterados os artigos 10.º e 11.º do Despacho Normativo 68/91, de 25 de Março, na redacção do presente diploma, pelo\
+    \ DN.7/93.06.02.1993.MESS, DR.IS-B [31] de 06.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/7-1993-647680
+  date: '1993-02-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/67/1991/03/25/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/68/1991/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/68/1991/03/25/p/dre
+- type: cites
+  target: pt:dre:621562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621567:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:34Z'
   warnings: []
   errors: []
 ---

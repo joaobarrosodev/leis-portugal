@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18000/0002000021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2020/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2020-142870335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a13a78a4ea49d3b352971cc6028f259626885551a656f7aa0ce6f4f8fb7a012d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a8330c3f13f2e8c62d9275886117440dbf964fbebe86c4ce57d94643456799f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Calendário Escolar
+- Cessação do Contrato de Trabalho
+- Contrato de Trabalho
 - Contrato de Trabalho a Prazo
 - Contrato de Trabalho a Termo
-- Ensino Oficial
-- Pessoal não Docente
 - Doença Infecciosa
-- Epidemia
 - Ensino
+- Ensino Oficial
+- Epidemia
 - Estabelecimento de Ensino
 - Pessoal Docente
+- Pessoal não Docente
 - Prorrogação de Prazo
-- Contrato de Trabalho
-- Cessação do Contrato de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -120,16 +126,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53-d/2020/07/20/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133723695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136990466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:08Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +220,9 @@ Os artigos 17.º e 18.º do [Decreto-Lei n.º 14-G/2020](https://diariodarepubli
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -194,12 +238,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Tiago Brandão Rodrigues.
 
-**Promulgado em 4 de setembro de 2020.**
+Promulgado em 4 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de setembro de 2020.**
+Referendado em 9 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113559566

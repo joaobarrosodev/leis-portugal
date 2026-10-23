@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 90/1998, 1º Suplemento, Série I-A de 1998-04-17
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1706-(2) a 1706-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/090a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94-a/1998/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-1998-474475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b83a49d2e1bc8cd9195fbd1dd073322146b7f05d09efa76066518a43d7e759e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 288160ece5c38cf511dee253e86ee5aad805d09e2c8fface4a0f607d8c78205d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Alienação de Acções
 - Alienação de Participações do Estado
-- Sociedade Anónima
 - Capital Social
+- Cimpor
 - Emolumento
 - Emolumento do Notariado
-- Cimpor
 - Isenção Fiscal
 - OPV
 - Privatização
+- Sociedade Anónima
 - Taxa
 relationships:
 - type: cites
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
+- type: cites
+  target: pt:dre:241382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630671:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:09Z'
   warnings: []
   errors: []
 ---
@@ -329,12 +365,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 9 de Abril de 1998.**
+Promulgado em 9 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

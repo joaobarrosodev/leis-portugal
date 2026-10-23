@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2003/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2003-497272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94266ad7c359ea7e2c4903a87ad1c282cdb22b9cf78d30145a968d1550aa9ab4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39246072833dfbdcbdea4715b85d70d98189c664f8b8375fcaf9cdd3ed3ae681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Denominação de Origem
-- Comissão Vitivinícola Regional do Ribatejo
-- Região Demarcada
-- Estatuto
 - Comissão Vitivinícola Regional
+- Comissão Vitivinícola Regional do Ribatejo
+- Denominação de Origem
+- Estatuto
+- Região Demarcada
 - Ribatejo
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:610407:por
@@ -82,16 +82,28 @@ relationships:
   target: celex:31999R1493
   label: null
   source: http://data.europa.eu/eli/reg/1999/1493/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:610407:por
+  label: "Revogado [nos termos da al. ee) e da al. II) do art. 23º e do nº2 do art. 24º do Dec Lei 212/2004, de 23-Ago] pela\
+    \ PORT.140/2010.05.03.2010.MADRP, DR.IS [45] de 05.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-2010-610407
+  date: '2010-03-05'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:10Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +162,15 @@ Do concelho de Vila Nova da Barquinha, a freguesia de Praia do Ribatejo.
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 As castas a utilizar na elaboração dos vinhos e produtos vínicos com direito à denominação de origem controlada do Ribatejo são as constantes do anexo aos presentes Estatutos, dos quais faz parte integrante.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A embalagem dos vinhos e produtos vínicos DOC Ribatejo só pode ser efectuada após a certificação do respectivo produto pela CVRR.
 
@@ -166,15 +182,15 @@ As castas a utilizar na elaboração dos vinhos e produtos vínicos com direito 
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 5 de Setembro de 2003.**
+Promulgado em 5 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 2003.**
+Referendado em 8 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -202,8 +218,8 @@ Santarém
 
 Tomar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)
 
 ## ANEXO — (a que se refere o artigo 3.º do presente diploma)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)](https://files.diariodarepublica.pt/1s/2003/09/216a00/60626064.pdf)

@@ -10,20 +10,20 @@ summary: Nomeia, sob proposta do Primeiro-Ministro, o Dr. José Manuel Gouveia A
   Adjunto e do Orçamento, o Mestre Carlos Manuel Costa Pina Secretário de Estado do Tesouro e Finanças, o Prof. Doutor Sérgio
   Trigo Tavares Vasques Secretário de Estado dos Assuntos Fiscais, o Mestre Gonçalo André Castilho dos Santos Secretário de
   Estado da Administração Pública, o Dr. Laurentino José Monteiro Castro Dias Secretário de Estado da Juventude e do Desporto,
-  a Prof.ª Doutora Maria Manuel Leitão Marques Secretária de Estado da Modernização Administrativa, o Dr. José Adelmo Gouveia
-  Bordalo Junqueiro Secretário de Estado da Administração Local, a Dr.ª Elza Maria Henriques Deus Pais Secretária de Estado
+  a Prof.ª Doutora Maria Manuel Leitão Marques Secretária de Estado da Modernização Administrativa, o Dr. José Adelmo Gouveia
+  Bordalo Junqueiro Secretário de Estado da Administração Local, a Dr.ª Elza Maria Henriques Deus Pais Secretária de Estado
   da Igualdade, o Dr. Marcos da Cunha e Lorena Perestrello de Vasconcellos Secretário de Estado da Defesa Nacional e dos Assuntos
-  do Mar, o Dr. José Manuel Vieira Conde Rodrigues Secretário de Estado Adjunto e da Administração Interna, a Dr.ª Maria Dalila
+  do Mar, o Dr. José Manuel Vieira Conde Rodrigues Secretário de Estado Adjunto e da Administração Interna, a Dr.ª Maria Dalila
   Correia Araújo Teixeira Secretária de Estado da Administração Interna, o Dr. Vasco Seixas Duarte Franco Secretário de Estado
   da Protecção Civil, o Dr. João José Garcia Correia Secretário de Estado da Justiça, o Dr. José Manuel Santos de Magalhães
   Secretário de Estado da Justiça e da Modernização Judiciária, o Mestre Fernando Medina Maciel Almeida Correia Secretário
   de Estado Adjunto, da Indústria e do Desenvolvimento, o Dr. Fernando Pereira Serrasqueiro Secretário de Estado do Comércio,
   Serviços e Defesa do Consumidor, o Dr. Bernardo Luís Amador Trindade Secretário de Estado do Turismo, o Prof. Doutor José
-  Carlos das Dores Zorrinho Secretário de Estado da Energia e da Inovação, o Eng.º Rui Pedro de Sousa Barreiro Secretário
+  Carlos das Dores Zorrinho Secretário de Estado da Energia e da Inovação, o Eng.º Rui Pedro de Sousa Barreiro Secretário
   de Estado das Florestas e Desenvolvimento Rural, o Dr. Luís Medeiros Vieira Secretário de Estado das Pescas e Agricultura,
   o Dr. Paulo Jorge Oliveira Ribeiro de Campos Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, o Dr.
   Carlos Henrique Graça Correia da Fonseca Secretário de Estado dos Transportes, o Prof. Doutor Humberto Delgado Ubach Chaves
-  Rosa Secretário de Estado do Ambiente, a Dr.ª Fernanda Maria Rosa do Carmo Julião Secretária de Estado do Ordenamento do
+  Rosa Secretário de Estado do Ambiente, a Dr.ª Fernanda Maria Rosa do Carmo Julião Secretária de Estado do Ordenamento do
   Território e das Cidades, o Mestre Pedro Manuel Dias de Jesus Marques Secretário de Estado da Segurança Social, o Mestre
   Valter Victorino Lemos Secretário de Estado do Emprego e da Formação Profissional, Idália Maria Marques Salvador Serrão
   de Menezes Moniz Secretária de Estado Adjunta e da Reabilitação, o Dr. Manuel Francisco Pizarro Sampaio e Castro Secretário
@@ -73,18 +73,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/105/2009/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/105-2009-347505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3b427c8ea178836a0c9d2c58cfc9cb0391f335bc7efb9c93111dc2a6cfdd05a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc743094f671463bb97ce452f5b085842db58b631a7dc903fd5ebc6bb6c0e7fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -92,61 +92,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Turismo
+- Governo Xviii
+- Nomeação
+- Secretário de Estado
+- Secretário de Estado Adjunto da Indústria e do Desenvolvimento
+- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Administração Interna
 - Secretário de Estado Adjunto e da Educação
+- Secretário de Estado Adjunto e da Reabilitação
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
+- Secretário de Estado da Administração Pública
+- Secretário de Estado da Ciência Tecnologia e Ensino Superior
 - Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional e dos Assuntos do MAR
 - Secretário de Estado da Educação
-- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado Adjunto das Obras Públicas e das Comunicações
-- Secretário de Estado Adjunto e da Reabilitação
-- Secretário de Estado Adjunto e do Orçamento
-- Secretário de Estado da Administração Local
+- Secretário de Estado da Energia e da Inovação
+- Secretário de Estado da Justiça
 - Secretário de Estado da Justiça e da Modernização Judiciária
 - Secretário de Estado da Juventude e do Desporto
 - Secretário de Estado da Modernização Administrativa
 - Secretário de Estado da Proteção Civil
 - Secretário de Estado da Saúde
+- Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
+- Secretário de Estado das Florestas e Desenvolvimento Rural
 - Secretário de Estado das Pescas e Agricultura
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Comércio Serviços e Defesa do Consumidor
+- Secretário de Estado do Emprego e da Formação Profissional
+- Secretário de Estado do Ordenamento do Território e das Cidades
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Transportes
 - Secretário de Estado para a Igualdade
-- Secretário de Estado Adjunto e da Administração Interna
-- Secretário de Estado da Ciência Tecnologia e Ensino Superior
-- Secretário de Estado da Justiça
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado do Ambiente
-- Secretário de Estado do Ordenamento do Território e das Cidades
-- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado para os Assuntos Europeus
-- Nomeação
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado
-- Secretário de Estado Adjunto da Indústria e do Desenvolvimento
-- Secretário de Estado da Administração Pública
-- Secretário de Estado da Energia e da Inovação
-- Secretário de Estado da Segurança Social
-- Secretário de Estado das Florestas e Desenvolvimento Rural
-- Secretário de Estado do Emprego e da Formação Profissional
-- Governo Xviii
 relationships:
 - type: amended_by
   target: pt:dre:224403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:224403:por
+  label: "Exonerado do cargo de Secretário de Estado da Justiça o Dr. João José Garcia Correia, nomeado pelo presente diploma\
+    \ pelo DEC.124-A/2010.29.11.2010.PR, DR.IS [231-Supl] de 29.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/124-a-2010-224403
+  date: '2010-11-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:29Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +161,7 @@ validation:
 
 de 31 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -233,12 +239,12 @@ O Prof. Doutor Manuel Frederico Tojal de Valsassina Heitor Secretário de Estado
 
 O Dr. Elísio Costa Santos Summavielle Secretário de Estado da Cultura.
 
-**Assinado em 31 de Outubro de 2009.**
+Assinado em 31 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Outubro de 2009.**
+Referendado em 31 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

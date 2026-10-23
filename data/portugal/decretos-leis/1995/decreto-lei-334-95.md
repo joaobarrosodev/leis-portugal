@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/334/1995/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1995-645280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2abb6abd339eea259334ea165f0fc168e47592b2ef8938a224a3fdb107e9f70c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07a64d3aaf99c0ee0e9b83e3e948dc8855bc5f38ccec22e80a9b8952e8891eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Ordenamento do Território
+- Câmara Municipal
 - Construção Civil
-- Urbanização
 - Contra-ordenação
 - Domínio Público Municipal
 - Fiscalização
-- Licenciamento de Obras
 - Licença de Loteamento
 - Licença Municipal
+- Licenciamento de Obras
 - Loteamento Urbano
-- Câmara Municipal
+- Ordenamento do Território
 - Regime Jurídico
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:407290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DOS ART 2, 7, 11, 12, 16, 24, 32, 38, 43, 55, 56, 57, 68 E 68-A DO DEC LEI 448/91 DE 29-NOV,\
+    \ NA REDACÇÃO DADA PELO PRESENTE DIPLOMA, PELA LEI 26/96 DE 01-AGO DR.IS-A [177] ALTERADA A REDACÇÃO DO ART 3 PELA REFERIDA\
+    \ LEI\0PELA REFERIDA LEI"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-01'
+- type: amended_by
+  target: pt:dre:407290:por
+  label: "Alterados os arts. 2º, 7º, 11º, 12º, 16º, 24º, 32º, 36º, 38º, 43º, 55º, 56º, 57º e 68º, na redacção dada ao Dec\
+    \ Lei 448/91 de 29-Nov, pela LEI.26/96.1996.08.01.AR, DR.IS-A [177] e alterado o art. 3º pela referida lei\0i\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-1996-407290
+  date: '1996-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/302/1994/12/19/p/dre
   label: null
@@ -107,16 +120,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/90/1995/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:183443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 119
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 118
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:36Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +266,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 90/95](https://diariodarepublica.pt/dr/detalhe/lei/90-1995-546979), de 1 de Setembro, e nos termos das alíneas a) e b) do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 6.º, 7.º, 9.º, 11.º a 13.º, 14.º, 16.º, 22.º, 24.º, 27.º, 30.º, 32.º, 33.º, 36.º, 38.º, 39.º, 42.º a 44.º, 47.º, 49.º a 52.º, 54.º a 58.º, 62.º, 63.º, 68.º e 70.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações introduzidas pela [Lei n.º 25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto, e pelo [Decreto-Lei n.º 302/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1994-571175), de 19 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 6.º, 7.º, 9.º, 11.º a 13.º, 14.º, 16.º, 22.º, 24.º, 27.º, 30.º, 32.º, 33.º, 36.º, 38.º, 39.º, 42.º a 44.º, 47.º, 49.º a 52.º, 54.º a 58.º, 62.º, 63.º, 68.º e 70.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações introduzidas pela [Lei n.º 25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto, e pelo [Decreto-Lei n.º 302/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1994-571175), de 19 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Processo de licenciamento
 
@@ -459,7 +568,9 @@ b) Aprovação por despacho conjunto dos ministros responsáveis pelas áreas do
 
 4 - ...
 
-###### Artigo 49.º — Livro de obra
+###### Artigo 49.º
+
+## Livro de obra
 
 1 - ...
 
@@ -601,7 +712,7 @@ o) A não comunicação à câmara municipal e ao Instituto Português de Cartog
 
 ###### Artigo 62.º — Demolição e reposição do terreno
 
-**O Ministro do Planeamento e da Administração do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras referidas no artigo anterior e a reposição do terreno nas condições em que se encontrava antes da infracção, fixando, para o efeito, o respectivo prazo.**
+O Ministro do Planeamento e da Administração do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras referidas no artigo anterior e a reposição do terreno nas condições em que se encontrava antes da infracção, fixando, para o efeito, o respectivo prazo.
 
 ###### Artigo 63.º — Execução de ordem de embargo, demolição e reposição do terreno
 
@@ -693,23 +804,23 @@ b) Da data da recepção dos pareceres, autorizações ou aprovações emitidos 
 
 Os regulamentos necessários à execução do presente diploma são aprovados por decreto regulamentar, salvo nos casos em que nele se estabeleçam, expressamente, outras disposições.
 
-###### Art. 3.º Na ausência de plano municipal de ordenamento do território, deverão as câmaras municipais proceder à imediata delimitação das áreas urbanas do respectivo concelho, a submeter, para efeitos do disposto nos n.os 1 e 2 do artigo 41.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, à homologação do Ministro do Planeamento e da Administração do Território, no prazo de 90 dias a contar da data da publicação do presente diploma.
+Art. 3.º Na ausência de plano municipal de ordenamento do território, deverão as câmaras municipais proceder à imediata delimitação das áreas urbanas do respectivo concelho, a submeter, para efeitos do disposto nos n.os 1 e 2 do artigo 41.º do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, à homologação do Ministro do Planeamento e da Administração do Território, no prazo de 90 dias a contar da data da publicação do presente diploma.
 
-###### Art. 4.º As alterações constantes do presente diploma só produzem efeitos relativamente aos procedimentos iniciados após a data da sua entrada em vigor.
+Art. 4.º As alterações constantes do presente diploma só produzem efeitos relativamente aos procedimentos iniciados após a data da sua entrada em vigor.
 
-###### Art. 5.º O [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações introduzidas pela [Lei n.º 25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto, pelo [Decreto-Lei n.º 302/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1994-571175), de 19 de Dezembro, e pelo presente diploma, é republicado em anexo, com as necessárias correcções materiais.
+Art. 5.º O [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações introduzidas pela [Lei n.º 25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto, pelo [Decreto-Lei n.º 302/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1994-571175), de 19 de Dezembro, e pelo presente diploma, é republicado em anexo, com as necessárias correcções materiais.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1995 - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 24 de Outubro de 1995.**
+Promulgado em 24 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Outubro de 1995.**
+Referendado em 26 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regime jurídico do licenciamento das operações de loteamento e das obras de urbanização
 
@@ -1361,7 +1472,9 @@ a) Tenha havido recepção provisória das obras; ou
 
 b) Seja integralmente reembolsada das despesas efectuadas, caso se verifique a situação prevista no n.º 5.
 
-###### Artigo 49.º — Livro de obra
+###### Artigo 49.º
+
+## Livro de obra
 
 1 - O titular do alvará é obrigado a providenciar para que as obras de urbanização disponham de um livro de obra, a conservar no respectivo local para consulta pelas competentes entidades fiscalizadoras.
 
@@ -1551,7 +1664,7 @@ Os presidentes das câmaras municipais e das comissões de coordenação regiona
 
 ###### Artigo 62.º — Demolição e reposição do terreno
 
-**O Ministro do Planeamento e da Administração do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras referidas no artigo anterior e a reposição do terreno nas condições em que se encontrava antes da infracção, fixando, para o efeito, o respectivo prazo.**
+O Ministro do Planeamento e da Administração do Território e os presidentes das câmaras municipais podem ordenar a demolição das obras referidas no artigo anterior e a reposição do terreno nas condições em que se encontrava antes da infracção, fixando, para o efeito, o respectivo prazo.
 
 ###### Artigo 63.º — Execução de ordem de embargo, de demolição e reposição do terreno
 

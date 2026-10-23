@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/664-1979-366575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505c470423d1e23fd580f351b852055b85b7765f3511726cd628c477cfe02bec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12f8c0d7a491fa65dfc897e55922c6619b3e5496e302920e895d7b84aa2a95ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Ministério da Justiça
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:170336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:366462:por
+  label: "Alterado o quadro de pessoal anexo pelo DEC.134/79.14.12.1979.PCM, DR.IS [287] de 14.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/134-1979-366462
+  date: '1979-12-14'
+- type: cites
+  target: pt:dre:416430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:07Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +114,6 @@ Ministérios da Justiça e das Finanças e Secretaria de Estado da Administraç�
 
 Quadro da Auditoria Jurídica do Ministério da Justiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/28400/31923192.pdf))](https://files.diariodarepublica.pt/1s/1979/12/28400/31923192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/28400/31923192.pdf)
 
-**O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

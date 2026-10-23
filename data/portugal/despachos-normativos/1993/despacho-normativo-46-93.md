@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/46/1993/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1993-677439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b783d95bd076e4bf465f2347eac2cd48c4f4db51cd1fa0f927f40738f754644b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 308fda4eeae390a477bac5c5b2b9c8acf33db55e372fb9d08446e5a059e0ca08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - CEE
-- Formação Profissional
 - Controlo de Qualidade
 - Direcção Geral dos Mercados Agrícolas e da Indústria Agro-alimentar
+- Financiamento
+- Formação Profissional
 - Fruto
 - Instituto de Qualidade Alimentar
+- Normalização
 - Política Agrícola Comum
 - Produto Hortícola
 - Programa de Acções para Reforço da Aplicação das Normas Comuns de Qualidade para os Frutos e Produtos Hortícolas
 - Regulamento CE
-- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:507264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507264:por
+  label: "Alterados os nºs 2, 5, 7, 8, 9 e 10 pelo DN.26/95.1995.04.12.MA, DR.IS-B [112] de 15/Mai/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-1995-507264
+  date: '1995-04-12'
 - type: cites
   target: celex:31990R3650
   label: null
@@ -100,13 +105,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:41Z'
   warnings: []
   errors: []
 ---

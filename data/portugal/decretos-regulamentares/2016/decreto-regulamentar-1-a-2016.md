@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 103/2016, 2º Suplemento, Série I de 2016-05-30
   number: '103'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1710-(4) a 1710-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1-a/2016/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2016-74574555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 221a2a44b930f7d744ff4433fe5cde3467e4cb4247ea615c6c391f27aba82aea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b41bc97dc78ce37b7cdc2f261f0c73d5665b7200e4735eee18f5933131486f4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Nacional de Segurança Rodoviária
 - Carta de Condução
+- Condutor
 - Curso de Formação
 - Formador
 - Instituto da Mobilidade e dos Transportes
-- Publicitação
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Condutor
 - Notificação
 - Página na Internet
+- Publicitação
 - Regulamento
+- Segurança Rodoviária
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2005/02/23/p/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/116/2015/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/116/2015/08/28/p/dre
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:05Z'
   warnings: []
   errors: []
 ---
@@ -268,26 +276,26 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 19 de maio de 2016. - António Luís Santos da Costa - Maria Margarida Ferreira Marques - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 27 de maio de 2016.**
+Promulgado em 27 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de maio de 2016.**
+Referendado em 30 de maio de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se refere a alínea b) do n.º 2 do artigo 3.º do presente decreto regulamentar e alínea a) do n.º 4 do artigo 148.º do Código da Estrada]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf))](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)
 
 ## ANEXO II — [a que se refere a alínea b) do n.º 2 do artigo 3.º do presente decreto regulamentar e o n.º 7 do artigo 148.º do Código da Estrada]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf))](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)
 
 ## ANEXO III — [a que se refere o artigo 8.º do presente decreto regulamentar e alínea b) do n.º 4 do artigo 148.º do Código da Estrada]
 
 Prova teórica do exame de condução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf))](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/05/10302/0000400008.pdf)

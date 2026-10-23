@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/232a00/66066624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/2003/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2003-482628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da7c677ec6eec480543b63913e68fa0d90745faaedcd13ca688f7dfbd5103383
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 004e66755f2f98ec5aab87503dba4661625be3326b2b6603dea18b9c0df604f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Adjudicação de Obras Públicas
 - Adjudicação por Concurso Público
-- Distribuição de Energia Elétrica
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
+- Comunicações
 - Concurso Internacional
 - Concurso Público
 - Contrato de Concessão
+- Distribuição de Energia Elétrica
 - Empreitada de Obras Públicas
-- Secretaria Geral
-- Ministério das Finanças
-- Publicitação
-- Ministério das Obras Públicas Transportes e Habitação
 - Governo Electrónico
+- Ministério das Finanças
+- Ministério das Obras Públicas Transportes e Habitação
+- Publicitação
+- Secretaria Geral
 - Serviço Público
-- Comunicações
-- Abastecimento de Água
 relationships:
 - type: amended_by
   target: pt:dre:1725651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:606308:por
+  label: "Alterados os arts. 2º e 5º e os anexos I a XII e revogado o art. 6º pelo DEC LEI.43/2005.22.02.2005.MOPTC, DR.IS-A\
+    \ [37] de 22.02.2005, que o republica na íntegra com todas as alterações.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2005-606308
+  date: '2005-02-22'
+- type: amended_by
+  target: pt:dre:537259:por
+  label: "Estabelecida, em determinados casos, a não aplicação ao sector agrícola e desenvolvimento rural do regime aprovado\
+    \ pelo Decreto-Lei 59/99, na redacção do presente diploma, pelo DEC LEI.130/2006.07.07.2006.MADRP, DR.IS [130] de 07.07.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2006-537259
+  date: '2006-07-07'
 - type: cites
   target: celex:31992L0050
   label: null
@@ -120,16 +133,21 @@ relationships:
   target: celex:32001L0078
   label: null
   source: http://data.europa.eu/eli/dir/2001/78/oj
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:45Z'
   warnings: []
   errors: []
 ---
@@ -244,14 +262,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, não s
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - José Luís Fazenda Arnaut Duarte - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 11 de Setembro de 2003.**
+Promulgado em 11 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2003.**
+Referendado em 15 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2003/10/232a00/66066624.pdf)

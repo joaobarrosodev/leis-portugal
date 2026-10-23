@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/191a00/51995213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/2003/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e12937e37b44b4684b977eb1daad08107c315b1160acbb65158964b37a6d46fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 966337c461d8d269b900c2b7ddf7db23bdf88899eecdfccdc23b8cd41db6a96c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Agência Portuguesa para o Investimento
 - Comissão de Planeamento das Comunicações de Emergência
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Conselho Geral
+- Conselho Geral para a Dinamização Empresarial
+- Conselho para a Dinamização do Turismo
 - Conselho Sectorial do Turismo
 - Criação de Serviços
+- Direcção Geral da Empresa
 - Direcção Geral da Indústria
 - Direcção Geral das Relações Económicas Internacionais
 - Direcção Geral de Energia
+- Direcção Geral de Geologia e Energia
 - Direcção Geral do Comércio e da Concorrência
 - Direcção Geral do Turismo
 - Direcção Regional de Economia
-- Dre-lisboa e VALE do TEJO
 - Dre-alentejo
 - Dre-algarve
 - Dre-centro
+- Dre-lisboa e VALE do TEJO
 - Dre-norte
-- Região de Turismo
+- Entidade Reguladora dos Serviços Energéticos
 - Extinção de Serviços
-- Secretaria Geral
-- Ministério da Economia
 - Gabinete de Estudos e Prospectiva Económica
+- Gagest
+- IAPMEI
+- ICEP
+- Ineti
 - Inspecção Geral das Actividades Económicas
+- Inspecção Geral de Jogos
 - Instituto das Comunicações de Portugal
 - Instituto de Financiamento e Apoio ao Turismo
-- Ineti
-- Instituto Nacional da Propriedade Industrial
-- Inspecção Geral de Jogos
 - Instituto Geológico e Mineiro
-- Integração de Trabalhadores
+- Instituto Nacional da Propriedade Industrial
 - Instituto Português da Qualidade
-- Conselho Geral para a Dinamização Empresarial
-- Conselho para a Dinamização do Turismo
-- Direcção Geral da Empresa
-- Gagest
-- Agência Portuguesa para o Investimento
-- Comissão de Planeamento Energético de Emergência
-- Direcção Geral de Geologia e Energia
+- Integração de Trabalhadores
+- Ministério da Economia
 - Orgânica
-- Entidade Reguladora dos Serviços Energéticos
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Região de Turismo
 - Regime de Pessoal
-- IAPMEI
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -117,6 +117,69 @@ relationships:
   target: pt:dre:545649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:656113:por
+  label: "Determinada a transição para a titularidade do GAGEST os bens, direitos e obrigações, incluindo as posições contratuais\
+    \ e as de membro de quaisquer associações, fundações, sociedades ou outras entidades dos serviços extintos ou reestruturados,\
+    \ nos termos e na medida das suas atribuições e competências, de acordo com o artigo 48.º, pelo DEC LEI.191/2003.2003.08.22.MECO,\
+    \ DR.IS-A \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2003-656113
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:608182:por
+  label: "Determinada nos termos da redacção dada ao art. 26.º do Dec Lei 120/2002, de 03-Maio, a superintendência conjunta\
+    \ do Instituto Nacional de Engenharia, Tecnologia e Inovação criado pelo presente diploma, cabendo a tutela funcional\
+    \ e patrimonial ao Ministro da Economia, sendo a determinação das linhas de orientação e dos domínios prioritários da\
+    \ sua actuação exercida em articulação com o Ministro da Ciência e do Ensino Superior, pelo DEC LEI.20/2004.22.01.2004.PCM,\
+    \ DR.IS-A [18] de 22.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2004-608182
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Alterada a orgânica pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, nos termos dos seus\
+    \ arts 10º, 20º, 23º e 26º, e determinada a transição para o Ministério das Actividades Económicas e do Trabalho dos serviços\
+    \ e organismos compreendidos no agora extinto Ministério da Economia, com excepção do Conselho para a Dinamização do Turismo\
+    \ que transita para o Ministério do Turismo e daqueles que transitam para o Ministério da Ciência, Inovação e Ensino Superior\
+    \ e Ministério das Obras Públicas, Transportes e Comunicações \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Efectuadas as seguintes alterações pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004 relativamente\
+    \ a organismos integrados e compreendidos no âmbito do Ministério da Economia (agora extinto), cuja orgânica consta do\
+    \ presente diploma: integrados no Ministerio do Turismo a Direcção-Geral do Turismo, a Inspecção-Geral de Jogos, o Instituto\
+    \ de Formação Turística, o Instituto de Turismo de Portugal e as Regiões de Turismo; submetido o ICEP - Portugal a superintendência\
+    \ do Ministro do Turismo, conjuntamente com os Ministros de Estado e das Actividades Económicas e do Trabalho e dos Negócios\
+    \ Estrangeiros e das Comunidades; e constituído o Conselho para a Dinamização do Turismo órgão consultivo do Ministro\
+    \ do Turismo, e feita suceder, nas atribuições no domínio do turismo, a Secretaria-Geral do Ministério do Turismo à Secretaria-Geral\
+    \ e Gabinete de Gestão - GAGEST do referido Ministério da Economia. Introduzidas também as seguintes alterações ao presente\
+    \ diploma: revogados a al. d) do nº 1 e a al. h) do nº 3 do art. 2º, a al. d) do nº 2, a subal. iii) da al. a) do nº 3.1,\
+    \ a subal. ii) da al. c) do n.º 3.3 e as als. a) l) e m) todas do nº 6 do art. 3º, os arts. 11º, 14º, 19º, 24º, 32º e\
+    \ 33º e as al.s f) e h) do nº 2 do art. 36º; assim como são revogadas parcialmente as disposições legais constantes deste\
+    \ diploma, e que não se encontrem discriminadas anteriormente, em tudo quanto respeite às matérias que sejam objecto do\
+    \ Dec Lei 228/2004 de 07-Dez.\0ez.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
+- type: amended_by
+  target: pt:dre:457013:por
+  label: "Extinto o Auditor Jurídico e o Conselho para o Desenvolvimento Económico constantes do presente diploma que é revogado,\
+    \ com excepção do art. 31.º (que produz efeitos até à entrada em vigor do diploma que regulamenta o Conselho Geral para\
+    \ a Dinamização empresarial), pelo DEC LEI.8/2005.06.01.2005.MAET, DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2005-457013
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Extinto, sem qualquer transferência de atribuições, o Conselho Geral para a Dinamização Empresarial e o Conselho\
+    \ para a Dinamização do Turismo; extinto, sendo objecto de fusão, o Instituto Nacional de Engenharia, Tecnologia(s) e\
+    \ Inovação, sendo as suas atribuições integradas: no Laboratório Nacional de Energia e Geologia, I.P., (criado pelo presente\
+    \ diploma), no Instituto Português da Qualidade, no Instituto Nacional de Recursos Biológicos, I.P., (do MADRP), no Instituto\
+    \ Nacional de Saúde Dr. Ricardo Jorge, I.P., do (MS) e no Instituto de Meteorologia, I.P, (do MCTES); extinto, sendo objecto\
+    \ de fusão, a Direcção-Geral da Empresa, sendo as suas atribuições integradas na Direcção-Geral das Actividades Económicas\
+    \ (criada pelo presente diploma) e reestrutura a Direcção-Geral de Geologia e Energia, que passa a designar-se Direcção-Geral\
+    \ de Energia e Geologia, todos criados pelo presente diploma, pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1999/03/31/p/dre
   label: null
@@ -157,16 +220,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690983:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278973:por
+  label: "Revogada a al. i) do n.º 2 do art. 36.º, pelo DEC LEI.140/2004.08.06.2004.MECO, DR.IS-A [134] de 08.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2004-278973
+  date: '2004-06-08'
 article_structure:
   article_count: 52
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:35Z'
   warnings: []
   errors: []
 ---
@@ -1107,15 +1243,15 @@ b) O previsto na alínea f) do n.º 1 do artigo 46.º, que entra em vigor simult
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 6 de Agosto de 2003.**
+Promulgado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto de 2003.**
+Referendado em 8 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (mapa a que se refere o artigo 38.º)
 

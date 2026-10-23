@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/17400/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2024/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2024-887175450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50d8493ab92149bc784499209acb0ff2402b45edca4b3b6e78d8086b0d3c8aa3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7821f834cd212c80fc75d55691f81e5aaf69657814db1a71e1a6162efd04bcfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundos CE
-- Página na Internet
 - Agência para a Modernização Administrativa
 - Dados Pessoais
-- Plataforma de Interoperabilidade da Administração Pública
-- Plano de Recuperação e Resiliência
 - Estrutura de Missão Recuperar Portugal
+- Fundos CE
+- Página na Internet
+- Plano de Recuperação e Resiliência
+- Plataforma de Interoperabilidade da Administração Pública
 - Portal mais Transparência
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:29-B/2021
+  label: Altera, a partir de 10 de setembro de 2024, os artigos 5.º, 6.º, 11.º e 12.º do Decreto-Lei n.º 29-B/2021, de 4 de
+    maio, Diário da República n.º 86/2021, 1º Suplemento, Série I
+  source: null
+  date: '2021-05-04'
 - type: cites
   target: celex:32016R0679
   label: null
@@ -99,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055961:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:44Z'
   warnings: []
   errors: []
 ---
@@ -243,12 +265,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de agosto de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida.
 
-**Promulgado em 30 de agosto de 2024.**
+Promulgado em 30 de agosto de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de setembro de 2024.**
+Referendado em 2 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118088268

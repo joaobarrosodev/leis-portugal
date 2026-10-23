@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/092a00/17741780.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/1997/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1997-469380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8979669c7e4ef47fcfebc7c2225a66709016d6b30a2cb29bddd33bd1c0b114b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5559da137760b05464e9bf1cb681508eaa78a887eff399d6b65ba81e7ed835e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Biblioteca Popular de Lisboa
-- Pessoal Dirigente
-- Ministério da Cultura
-- Instituto Português do Livro e das Bibliotecas
-- Orgânica
+- Biblioteca Pública
 - Indústria do Livro
+- Instituto Português do Livro e das Bibliotecas
+- Ministério da Cultura
+- Orgânica
+- Pessoal Dirigente
 - Política Cultural
 - Quadro de Pessoal
-- Biblioteca Pública
 relationships:
 - type: amended_by
   target: pt:dre:520430:por
@@ -83,16 +83,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-e/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-e/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662538:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520430:por
+  label: "Revogado pelo DEC LEI.92/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2007-520430
+  date: '2007-03-29'
 article_structure:
   article_count: 34
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:17Z'
   warnings: []
   errors: []
 ---
@@ -233,7 +250,9 @@ a) A Divisão de Apoio à Criação e Edição;
 
 b) A Divisão de Difusão do Livro e Promoção da Leitura.
 
-###### Artigo 9.º — Divisão de Apoio à Criação e Edição
+###### Artigo 9.º
+
+##### Divisão de Apoio à Criação e Edição
 
 À Direcção de Serviços do Livro, através da Divisão de Apoio à Criação e Edição compete:
 
@@ -247,7 +266,9 @@ d) Contribuir para o rigor e qualidade das traduções e promover ou colaborar n
 
 e) Apoiar e promover, em articulação com outras entidades, a edição de obras que contribuam para a difusão de meios especiais de leitura.
 
-###### Artigo 10.º — Divisão de Difusão do Livro e Promoção da Leitura
+###### Artigo 10.º
+
+##### Divisão de Difusão do Livro e Promoção da Leitura
 
 À Direcção de Serviços do Livro, através da Divisão de Difusão do Livro e Promoção da Leitura, compete:
 
@@ -273,7 +294,9 @@ a) A Divisão de Planeamento e Cooperação;
 
 b) A Divisão de Desenvolvimento de Projectos.
 
-###### Artigo 12.º — Divisão de Planeamento e Cooperação
+###### Artigo 12.º
+
+##### Divisão de Planeamento e Cooperação
 
 Compete à Direcção de Serviços de Bibliotecas, através da Divisão de Planeamento e Cooperação:
 
@@ -287,7 +310,9 @@ d) Estimular e apoiar a criação de novos serviços, com recurso às tecnologia
 
 e) Elaborar a programação financeira e o orçamento de investimentos, bem como acompanhar a sua realização - no quadro da orgânica de planeamento -, como vector do sistema de informação estratégica da organização.
 
-###### Artigo 13.º — Divisão de Desenvolvimento de Projectos
+###### Artigo 13.º
+
+##### Divisão de Desenvolvimento de Projectos
 
 Compete à Direcção de Serviços de Bibliotecas, através da Divisão de Desenvolvimento de Projectos:
 
@@ -341,7 +366,9 @@ b) A Secção de Contabilidade;
 
 c) A Secção de Economato, Património e Expediente.
 
-###### Artigo 17.º — Secção de Pessoal
+###### Artigo 17.º
+
+#### Secção de Pessoal
 
 À Repartição de Serviços Administrativos, através da Secção de Pessoal, compete:
 
@@ -355,7 +382,9 @@ d) Assegurar os instrumentos adequados ao processamento dos vencimentos, abonos 
 
 e) Conceber e manter em funcionamento sistemas estatísticos relativos à gestão e administração do pessoal, à caracterização dos recursos humanos e ao balanço social e assegurar a sistematização dos dados em função de adequados indicadores de gestão.
 
-###### Artigo 18.º — Secção de Contabilidade
+###### Artigo 18.º
+
+#### Secção de Contabilidade
 
 À Repartição de Serviços Administrativos, através da Secção de Contabilidade, compete:
 
@@ -371,7 +400,9 @@ e) Promover a constituição, reconstituição e liquidação de fundos permanen
 
 f) Executar os instrumentos e indicadores necessários ao controlo da gestão.
 
-###### Artigo 19.º — Secção de Economato, Património e Expediente
+###### Artigo 19.º
+
+#### Secção de Economato, Património e Expediente
 
 À Repartição de Serviços Administrativos, através da Secção de Economato, Património e Expediente, compete:
 
@@ -513,16 +544,16 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Rui Vieira Nery - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em Coimbra, sede da Associação Nacional de Munícipios Portugueses, em 7 de Abril de 1997.**
+Promulgado em Coimbra, sede da Associação Nacional de Munícipios Portugueses, em 7 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro do pessoal dirigente do IPLB, a que se refere o artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/092a00/17741780.pdf))](https://files.diariodarepublica.pt/1s/1997/04/092a00/17741780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/092a00/17741780.pdf)

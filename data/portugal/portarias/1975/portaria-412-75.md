@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-1975-336735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7138e509bf78e50a337d44835b2a267f59c612812f5b08a6efe113188bb98de3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8967373b25be90dcd4a8074d43fa5ece304ae6fed99c446da2e0d1561e6aa79e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lotação
+- Unidade Naval
+relationships:
+- type: cites
+  target: pt:dre:158396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:04Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +108,6 @@ Mapa anexo a que se refere a Portaria n.º 412/75, de 3 de Julho
 
 Lotações completa e normal do navio-tanque «São Gabriel»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/07/15100/09220923.pdf))](https://files.diariodarepublica.pt/1s/1975/07/15100/09220923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/07/15100/09220923.pdf)
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.

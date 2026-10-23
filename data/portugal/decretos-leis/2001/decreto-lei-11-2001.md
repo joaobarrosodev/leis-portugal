@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2001/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2001-344925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0ad09a540a90324b6dfb70f1594c775028dfa18155b9678967e643d46cc475
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3cd88c4624da61493624464055c60f33b5ec51f2ad9d3a80aed1d262b425e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Estatuto
+- Gestão de Resíduos
 - Valnor
 relationships:
 - type: amended_by
   target: pt:dre:25345607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1581287:por
+  label: "Determinado o alargamento a outros municípios do sistema criado pelo presente diploma, pelo Desp.26172/2004(2ªSérie).22.11.2004.MAOT,\
+    \ DR.IIS [294] de 17.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/26172-2004-1581287
+  date: '2004-11-22'
+- type: amended_by
+  target: pt:dre:3282943:por
+  label: "Determinado o alargamento a outros municípios do sistema criado pelo presente diploma pelo DESP.16510/2010.29.10.2010.MAOT,\
+    \ DR.IIS [211] de 29.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16510-2010-3282943
+  date: '2010-10-29'
+- type: amended_by
+  target: pt:dre:25345607:por
+  label: Alterados, a partir de 03.07.2014, os arts 1.º, 6.º e 7.º, aditados os arts 13.º e 14.º e revogado o art. 2.º, o
+    n.º 3 do art. 4.º, o art. 5.º, o n.º 2 do art. 6.º, os n.ºs 1 a 4 do art. 7.º e os arts 8.º, 9.º, 10.º, 11.º e 12.º, do
+    presente diploma, bem como são alterados os arts 3.º, 5.º, 7.º, 9.º, 10.º, 12.º, 14.º, 16.º, 18.º, 19.º e 25.º, aditado
+    o art 25.º-A, e revogados os art. 6.º, o n.º 3 do art. 8.º, os n.ºs 1 e 2 do art. 9.º e o n.º 3 do art. 10.º do anexo
+    ao citado diploma e procede à sua republicação, pelo(a) Decreto-Lei n.º 105/2014 - Diário da República n.º 125/2014, Série
+    I de 2014-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-2014-25345607
+  date: '2014-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/294/1994/11/16/p/dre
   label: null
@@ -91,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:53Z'
   warnings: []
   errors: []
 ---
@@ -237,15 +283,15 @@ Considera-se convocada a primeira assembleia geral da sociedade, sem necessidade
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Janeiro de 2001.**
+Promulgado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2001.**
+Referendado em 11 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DA VALNOR - VALORIZAÇÃO E TRATAMENTO DE RESÍDUOS SÓLIDOS DO NORTE ALENTEJANO, S. A.
 

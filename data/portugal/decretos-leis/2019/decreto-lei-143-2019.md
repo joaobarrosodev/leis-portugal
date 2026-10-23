@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18100/0001200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2019/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2019-124879306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d482c482a394997a6736150a76a8a17a6a9502218a816a8484a16c7638d96bfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c319c3ca634b08145107db79d92f15542dedf5998d7342233c0ca63cad11c62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- Financiamento
 - Cálculo de Pensões
 - Contribuições da Segurança Social
+- Financiamento
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Orçamento Geral do Estado
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:129208004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:129208004:por
+  label: Alterado, a partir de 15.02.2020, o art. 5.º do Dec Lei 55/2006, de 15-mar, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 5/2020 - Diário da República n.º 32/2020, Série I de 2020-02-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2020-129208004
+  date: '2020-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/2006/03/15/p/dre
   label: null
@@ -100,13 +106,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:18Z'
   warnings: []
   errors: []
 ---
@@ -179,12 +185,14 @@ O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Francisca Eugénia da Silva Dias Van Dunem - Ana Sofia Pedroso Lopes Antunes.
 
-**Promulgado em 9 de setembro de 2019.**
+Promulgado em 9 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2019.**
+Referendado em 12 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112592433

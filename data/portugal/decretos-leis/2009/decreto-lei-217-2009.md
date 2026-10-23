@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17200/0597805986.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/2009/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2009-489508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f47f36cffaa41c39cbc8cccd440a237252b9127c3404de4f395174b8037311c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b07d8a6d97ba7df3c1f8949b83a3c7a1030d70c059b762e0ccd784db19106d74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aeroporto
-- BASE Aérea
-- Gestão Financeira
-- Contra-ordenação
-- Definição de Competências
-- Instituto Nacional de Aviação Civil
-- Domínio Público Aeroportuário
-- Beja
-- Rede Aeroportuária
 - Administração de Aeroportos
+- Aeroporto
 - ANA
 - Aviação Civil
+- BASE Aérea
+- Beja
+- Comércio
+- Contra-ordenação
+- Definição de Competências
+- Domínio Público Aeroportuário
+- Gestão Financeira
+- Instituto Nacional de Aviação Civil
+- Rede Aeroportuária
 - Regime Jurídico
 - Taxa Aeroportuária
-- Comércio
 - Terminal Aeroportuário
 relationships:
 - type: amended_by
   target: pt:dre:190615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670520:por
+  label: "Alterados os art.s 2º, 25º e 31º, aditados os art.s 19º-A, 22º-A, 23º-A, 25º-A, 25º-B, 27º-A, 27º-B, 27º-C e 30º-A\
+    \ bem como uma secção v (ao capítulo II), com a epígrafe «Diferenciação dos serviços e das taxas» - onde se inserem os\
+    \ artigos 27º-A, 27º-B e 27º-C - e republicado, pelo DEC LEI.86/2011.01.07.2011.MOPTC, DR.IS [125] de 01.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2011-670520
+  date: '2011-07-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
   label: null
@@ -118,16 +125,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636707:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 86/2011, de 01-jul, pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS\
+    \ [230] de 28.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
   article_count: 33
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:40Z'
   warnings: []
   errors: []
 ---
@@ -632,12 +681,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - José Manuel Vieira Conde Rodrigues - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 22 de Agosto de 2009.**
+Promulgado em 22 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Agosto de 2009.**
+Referendado em 25 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

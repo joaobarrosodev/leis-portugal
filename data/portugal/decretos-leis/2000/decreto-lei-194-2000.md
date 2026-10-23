@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/192a00/41164131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/194/2000/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2000-324317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b6e533fd1474f6eaf9df305b0a0318e541e90d41fdba2533be1a453fffeb6a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 634b34eaf96756147204554d8a0ef7a744dad0ff97098a1a12c63487d0795bd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
+- Açores
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Atividade Industrial
 - CE Países
-- Multa
-- Mar
+- Comissão Consultiva para a Prevenção e Controlo Integrados da Poluição
 - Criação de Serviços
 - Definição de Competências
-- Saúde Pública
 - Fiscalização
+- Gestão de Resíduos
 - Licenciamento
-- Proteção do Ambiente
-- Comissão Consultiva para a Prevenção e Controlo Integrados da Poluição
-- Poluição Marinha
 - Madeira.região Autónoma
+- Mar
+- Multa
+- Poluição Marinha
 - Poluição Sonora
-- Açores
+- Proteção do Ambiente
+- Saúde Pública
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:124532100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226807:por
+  label: "Alterados os artºs 21º e 40º e revogado o art. 28º pelo DEC LEI.69/2003.2003.04.10.MECO, DR.IS-A [85]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2003-226807
+  date: '2003-04-10'
+- type: amended_by
+  target: pt:dre:219293:por
+  label: "Alterado o art. 10.º, pelo DEC LEI.233/2004.14.12.2004.MAOT, DR.IS-A [291] de 14.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2004-219293
+  date: '2004-12-14'
+- type: amended_by
+  target: pt:dre:243689:por
+  label: "Alterados os artigos 2.º, 17.º, 24.º, 25.º, 26.º, aditado o artigo 25.º-A ao presente diploma, e determinado que\
+    \ as referências nele feitas, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 152/2002, de 23 de\
+    \ Maio, 69/2003, de 10 de Abril, e 233/2004, de 14 de Dezembro, à Direcção Regional do Ambiente (DRA) entendam-se por\
+    \ efectuadas à Comissão de Coordenação e Desenvolvimento Regional (CCDR), pelo DEC LEI.130/2005.16.08.2005.MAOTDR, DR.IS-A\
+    \ [156] de 16.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2005-243689
+  date: '2005-08-16'
+- type: amended_by
+  target: pt:dre:540016:por
+  label: "Alterados os arts. 12º, 20º e 31º deste diploma, com a redacção que lhe foi dada pelo Dec Lei 152/2002 de 23-Mai,\
+    \ pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: amended_by
+  target: pt:dre:520846:por
+  label: "Alterado o art. 40º do presente diploma, com a redacção conferida no Dec Lei 69/2003 de 10-Abr, pelo DEC LEI.183/2007.09.05.2007.MEI,\
+    \ DR.IS [89] de 09.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2007-520846
+  date: '2007-05-09'
 - type: cites
   target: celex:31975L0442
   label: null
@@ -129,16 +160,34 @@ relationships:
   target: celex:31996L0061
   label: null
   source: http://data.europa.eu/eli/dir/1996/61/oj
+- type: repealed_by
+  target: pt:dre:158583:por
+  label: "Revogados a al. e) do nº 1 e o nº 2 do art. 31º pelo DEC LEI.152/2002.2002.05.23.MAOT DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2002-158583
+  date: '2002-05-23'
+- type: repealed_by
+  target: pt:dre:456784:por
+  label: "Revogadas as al.s g) e h) do nº 1 do art. 5º e nº 5 do art. 8º pelo DEC LEI.127/2008.21.07.2008.MAOTDR, DR.IS [139]\
+    \ de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2008-456784
+  date: '2008-07-21'
+- type: repealed_by
+  target: pt:dre:453550:por
+  label: "Revogado, a partir de 31.08.2008, o presente diploma, na redacção dos Decretos-Leis n.ºs 152/2002 de 23 de Maio,\
+    \ 69/2003, de 10 de Abril, 233/2004, de 14 de Dezembro, 130/2005, de 16 de Agosto, 178/2006, de 05 de Setembro e 183/2007,\
+    \ de 09 de Maio, pelo DEC LEI.173/2008.26.08.2008.MAOTDR, DR.IS [164] de 26.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2008-453550
+  date: '2008-08-26'
 article_structure:
   article_count: 44
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:30Z'
   warnings: []
   errors: []
 ---
@@ -821,15 +870,15 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Medeiros Vieira - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Agosto de 2000.**
+Referendado em 3 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I — Categorias de actividades referidas no artigo 1.º
 

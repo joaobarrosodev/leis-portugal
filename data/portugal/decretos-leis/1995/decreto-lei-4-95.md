@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/014a00/02320235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/1995/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1995-146565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 627ed25e06cfa19a863fa22a7ed2de5eb1bddd6be4f82cb69ee6bfea4888215e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 465e9cdda1f3b4f32d43cb931f43dceee590cec3df57be99c65fedc0e7ad06ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Departamento Central de Planeamento
-- Ministério do Planeamento e da Administração do Território
 - Departamento de Prospectiva e Planeamento
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência Patrimonial
 relationships:
@@ -79,16 +79,77 @@ relationships:
   target: pt:dre:521011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Transferido para o Ministério do Planeamento, o Departamento de Prospectiva e Planeamento, criado pelo presente\
+    \ diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério das Finanças do Departamento de Prospectiva e Planeamento (integrado no\
+    \ extinto Ministério do Planeamento), pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ do Departamento de Prospectiva e Planeamento (integrado no agora extinto Ministério das Finanças), DEC LEI.215-A/2004.03.09.2004.PCM,\
+    \ DR.IS-A [208]Supl de 03.09.2004, sendo que a preparação, elaboração, acompanhamento e avaliação da execução do PIDDAC\
+    \ são efectuados em conjunto com o Ministro das Finanças e da Administração Pública \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que relativamente à preparação, elaboração, acompanhamento e avaliação da execução do PIDDAC, bem como\
+    \ à elaboração da proposta das Grandes Opções do Plano, compete ao Ministro de Estado e das Finanças o exercício de poderes\
+    \ de direcção sobre o Departamento, (integrado no Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento\
+    \ Regional), criado no presente diploma, sendo para efeitos do provimento nos cargos de direcção superior (nos termos\
+    \ dos n.ºs 1 e 3 do artigo 19.º da Lei n.º 2/2004, de 15 de Janeiro), igualmente considerado membro do Governo competente,\
+    \ o Ministro de Estado e das Finanças e o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional,\
+    \ pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinto o Departamento de Prospectiva e Planeamento pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006,\
+    \ nos termos do respectivo art. 29º,sendo as suas atribuições integradas no Departamento de Prospectiva e Planeamento\
+    \ e Relações Internacionais, com excepção das relativas ao PIDDAC, que são integradas na Direcção-Geral do Orçamento (MFAP)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520433:por
+  label: "Determinado que a Direcção-Geral do Orçamento, suceda nas atribuições do Departamento, cuja orgânica foi aprovada\
+    \ no presente diploma, pelo DEC LEI.80/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007, nos termos do seu n.º 1 do art.\
+    \ 11.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2007-520433
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:521011:por
+  label: "Determinada, nos termos do artigo 11.º a sucessão do DPP nas atribuições do departamento de Prospectiva e Planeamento,\
+    \ e revogado, nos termos do artigo 13.º e na data da sua entrada em vigor, pelo DR.51/2007.27.04.2007.MAOTDR, DR.IS [82]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/51-2007-521011
+  date: '2007-04-27'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457673:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:46Z'
   warnings: []
   errors: []
 ---
@@ -367,15 +428,15 @@ O Departamento de Prospectiva e Planeamento, adiante designado abreviadamente po
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 11.º
 

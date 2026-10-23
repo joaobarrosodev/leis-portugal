@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/113/2010/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2010-308098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 799f1edc6184fb1450863360f71a1d1c0a8932d2fd3a963a039f3b3f8f1e0091
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c90cd99851d1edb048a86bfdcf34f4b29bd108a8c689b1aacc13d4101e6084b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Saúde Pública
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fabrico Industrial
 - Higiene Corporal
-- Embalagem
+- Produto Químico
 - Regime Jurídico
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:191992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553470:por
+  label: "Aditada uma nova substância à lista constante do anexo II e dada nova redacção ao anexo III do Dec Lei 189/2008\
+    \ de 24-set, alterado pelo presente diploma, pelo DEC LEI.63/2012.15.03.2012.MS, DR.IS [54] de 15.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2012-553470
+  date: '2012-03-15'
+- type: amended_by
+  target: pt:dre:191992:por
+  label: "Alterado o anexo iii, na redação do do presente diploma, e do Dec Lei 63/2012, de 15-mar, pelo DEC LEI.245/2012.09.11.2012.MS,\
+    \ DR.IS [217] de 09.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2012-191992
+  date: '2012-11-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o anexo III do Dec Lei 189/2008 de 24-set, na redação do presente diploma, e Dec Lei 63/2012, de 15-mar,\
+    \ pelo DEC LEI.245/2012.09.11.2012.MS, DR.IS [217] de 09.11.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-11-09'
 - type: cites
   target: celex:31976L0768
   label: null
@@ -136,16 +154,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/reg/2
   label: null
   source: http://data.europa.eu/eli/reg/2
+- type: corrected_by
+  target: pt:dre:323971:por
+  label: "Retificado o anexo do Dec Lei 63/2012, de 15-mar, na parte que altera o anexo III do Dec Lei 189/2008, de 24-set,\
+    \ na redação do Dec Lei 115/2009, de 18-maio e do presente diploma, pela DECL-RECT.24-A/2012.14.05.2012.PCM, DR.IS [93-Supl]\
+    \ de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/24-a-2012-323971
+  date: '2012-05-14'
 article_structure:
-  article_count: 17
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:55Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +259,9 @@ s) ...
 
 t) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +275,9 @@ t) ...
 
 6 - Uma substância classificada na categoria 2 do anexo vi do Regulamento (CE) n.º [1272/2008](https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro, pode ser utilizada em produtos cosméticos desde que tenha sido avaliada pelo Comité Científico da Segurança dos Consumidores (CCSC) e considerada apta para a utilização em produtos cosméticos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +295,9 @@ c) Os métodos alternativos aos ensaios em animais que tenham sido validados e a
 
 5 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +317,9 @@ d) Classe de perigo 5.1.
 
 5 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -436,15 +469,15 @@ b) O disposto no artigo 6.º, na parte em que acrescenta o número de ordem 58 �
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge.
 
-**Promulgado em 7 de Setembro de 2010.**
+Promulgado em 7 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Setembro de 2010.**
+Referendado em 9 de Setembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -452,13 +485,13 @@ Visto e aprovado em Conselho de Ministros de 8 de Julho de 2010. - José Sócrat
 
 Lista das substâncias que os produtos cosméticos não podem conter fora das restrições e condições previstas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
 
 Segunda parte
 
 Lista de substâncias provisoriamente admitidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
 
 ## ANEXO II — (a que se refere o artigo 6.º do presente decreto-lei)
 
@@ -478,13 +511,13 @@ Primeira parte
 
 Lista dos conservantes admitidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
 
 Segunda parte
 
 Lista dos conservantes admitidos provisoriamente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
 
 ## ANEXO III — (a que se refere o artigo 8.º do presente decreto-lei)
 
@@ -492,4 +525,4 @@ Lista dos conservantes admitidos provisoriamente
 
 O presente anexo enuncia os métodos alternativos validados pelo Centro Europeu de Validação de Métodos Alternativos (CEVMA) do Centro Comum de Investigação existentes, que cumprem os requisitos da Directiva n.º [76/768/CEE](https://data.europa.eu/eli/dir/1976/768/oj?locale=pt) e não constam do Regulamento (CE) n.º [440/2008](https://data.europa.eu/eli/reg/2008/440/oj?locale=pt), da Comissão, de 30 de Maio, que estabelece métodos de ensaio nos termos do Regulamento (CE) n.º [1907/2006](https://data.europa.eu/eli/reg/2006/1907/oj?locale=pt), do Parlamento Europeu e do Conselho, relativo ao registo, avaliação, autorização e restrição de substâncias químicas (REACH).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20500/0467904727.pdf)

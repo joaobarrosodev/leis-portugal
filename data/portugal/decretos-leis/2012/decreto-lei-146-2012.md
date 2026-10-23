@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2012/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2012-179778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5abb27cb1deb9aeea7f0d805af5c33a402988bc2fdd4ca1a6adc1fa8ae50d80e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6982ae4b561f9d0e28c7fa3872eb2a65285a44197a1d703ada951271c99361b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
+- Gestão Financeira
 - Inspeção Geral da Administração Interna
 - Inspetor Geral
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Subinspector Geral
 relationships:
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/2012/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/2012/03/14/p/dre
+- type: cites
+  target: pt:dre:553450:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:00Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +125,9 @@ Os artigos 7.º e 10.º do [Decreto-Lei n.º 58/2012](https://diariodarepublica.
 
 A organização interna da IGAI obedece ao modelo de estrutura hierarquizada.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.»
 
@@ -135,15 +141,15 @@ O anexo ao [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/de
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.
 
-**Promulgado em 3 de julho de 2012.**
+Promulgado em 3 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de julho de 2012.**
+Referendado em 5 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -151,4 +157,4 @@ Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos 
 
 Mapa de cargos de direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf)

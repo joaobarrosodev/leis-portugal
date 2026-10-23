@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/113-1982-395508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae2beb5df9f7dd67717087051486d289572ef0b3215471aa960da7c0f915540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01e36ce560bc344d1067c9f6101916600ac08bef63cf13a8dfa76334d8a63d34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pisee
+- Quimigal
+relationships:
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:15:53Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +97,11 @@ Dando cumprimento ao disposto no artigo 13.º do [Decreto-Lei n.º 260/76](https
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da Química de Portugal, E. P. - Quimigal, a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf)
 
 2 - Consideram-se bloqueados, nos termos definidos no n.º 10 da Resolução do Conselho de Ministros n.º 61-A/81, os projectos a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf))](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/14700/18701870.pdf)
 
 3 - Os projectos incluídos no n.º 2 só poderão ser lançados e financiados após publicação de despacho do Ministro de Estado e das Finanças e do Plano e do Ministro da Indústria, Energia e Exportação, conforme o disposto no n.º 10 da Resolução do Conselho de Ministros n.º 61-A/81.
 

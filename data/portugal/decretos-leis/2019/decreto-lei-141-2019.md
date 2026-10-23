@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2019/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2019-124831326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a3536d007296d8895c563f71d08b8d66e109e57e8843808165920541debcb33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72348d92857cf4c3101c0d09aa88c4f4815b0b53b148ce0dffec1da3e2f27479
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,38 +69,38 @@ subjects:
 - Admissão de Pessoal
 - Ajuda Judicial
 - Ajudas de Custo
-- Jurisdição
-- Direito de Acesso
-- Carreira de Inspecção Superior
-- Cartão de Identificação
-- Formação Profissional
-- Comissão de Serviço
-- Concurso
-- Regime Laboral
-- Deslocação em Serviço
-- Direção Geral de Alimentação e Veterinária
-- Inspecção de Navios
-- Especificação Técnica
-- Sistema Retributivo
-- Carreira Profissional
-- Formas de Provimento
-- Remuneração Acessória
-- Integração de Trabalhadores
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Nomeação
-- Descrição de Funções
-- Período Experimental
-- Pessoal de Inspecção
-- Confidencialidade
-- Regime Jurídico
-- Horário de Trabalho
-- Remuneração
-- Seguro de Acidentes Pessoais
 - Avaliação do Pessoal
-- Veterinário
-- Carreira Especial de Inspeção Veterinária
+- Carreira de Inspecção Superior
 - Carreira Especial de Inspeção das Pescas
 - Carreira Especial de Inspeção de Navios e Segurança Marítima
+- Carreira Especial de Inspeção Veterinária
+- Carreira Profissional
+- Cartão de Identificação
+- Comissão de Serviço
+- Concurso
+- Confidencialidade
+- Descrição de Funções
+- Deslocação em Serviço
+- Direção Geral de Alimentação e Veterinária
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direito de Acesso
+- Especificação Técnica
+- Formação Profissional
+- Formas de Provimento
+- Horário de Trabalho
+- Inspecção de Navios
+- Integração de Trabalhadores
+- Jurisdição
+- Nomeação
+- Período Experimental
+- Pessoal de Inspecção
+- Regime Jurídico
+- Regime Laboral
+- Remuneração
+- Remuneração Acessória
+- Seguro de Acidentes Pessoais
+- Sistema Retributivo
+- Veterinário
 relationships:
 - type: cites
   target: celex:32003R0782
@@ -146,16 +146,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:16Z'
   warnings: []
   errors: []
 ---
@@ -830,20 +858,22 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2019. - Augusto Ernesto Santos Silva - Maria de Fátima de Jesus Fonseca - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 13 de setembro de 2019.**
+Promulgado em 13 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de setembro de 2019.**
+Referendado em 16 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem o n.º 3 do artigo 2.º, o artigo 29.º, o n.º 1 do artigo 55.º, o n.º 3 do artigo 58.º e os n.os 1 e 2 do artigo 60.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf)
 
 ## ANEXO II — (a que se referem o n.º 3 do artigo 2.º e o artigo 56.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18000/0002000040.pdf)
+
+112589461

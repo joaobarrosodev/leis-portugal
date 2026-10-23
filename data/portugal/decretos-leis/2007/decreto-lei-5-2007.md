@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2007/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2007-262091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89aa82cb963ca15a7f4a49db0e643b3436c1322c0ea563c3d89060cd51dbf9aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 726170ee0298d4750a1d2b56981411f752cef8cc4f0be06c9c14b3684976109e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- INEM
 - Conselho de Administração
 - Despesas Públicas
-- Administração Regional de Saúde
 - Empreitada de Obras Públicas
-- Serviço Nacional de Saúde
 - Estabelecimento Hospitalar
+- INEM
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Unidade de Saúde Pública
 relationships:
@@ -90,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
+- type: cites
+  target: pt:dre:241792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353935:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:50Z'
   warnings: []
   errors: []
 ---
@@ -150,12 +158,12 @@ A contratação de empreitadas de obras públicas e a aquisição ou locação, 
 
 Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Ventura Ramos.
 
-**Promulgado em 7 de Dezembro de 2006.**
+Promulgado em 7 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 13 de Dezembro de 2006.**
+Referendado em 13 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

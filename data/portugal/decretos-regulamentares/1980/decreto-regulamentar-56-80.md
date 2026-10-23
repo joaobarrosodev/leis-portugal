@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1980-462218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ea152f22ea01b2da42304fe1e3b5aee4c260d450847dfa63322345f8545dee9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9713559ff60095875ca02c8edf03224b7fb7cbfb74d67ab03a18365ebe67e660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Jogos de Fortuna e Azar
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:608200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608200:por
+  label: "Alteradas as als. a), b) e aditada a al. l) ao nº 1 do art. 2º, pelo DR.15/82.1982.03.25.PCM, DR.IS [70]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1982-608200
+  date: '1982-03-25'
+- type: cites
+  target: pt:dre:463868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:46Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +111,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades que, nos termos do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, com as alterações resultantes do [Decreto-Lei n.º 340/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1980-463868), de 30 de Agosto, pretendam obter a concessão da exploração de jogos de fortuna ou azar na zona de jogo permanente de Tróia deverão dirigir os seus requerimentos ao Ministro do Comércio e Turismo, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinar ao respectivo concurso, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da sua abertura no Diário da República.
+Artigo 1.º - 1 - As entidades que, nos termos do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, com as alterações resultantes do [Decreto-Lei n.º 340/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1980-463868), de 30 de Agosto, pretendam obter a concessão da exploração de jogos de fortuna ou azar na zona de jogo permanente de Tróia deverão dirigir os seus requerimentos ao Ministro do Comércio e Turismo, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinar ao respectivo concurso, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da sua abertura no Diário da República.
 
 2 - A concessão, que principia com a assinatura do contrato, terminará em 31 de Dezembro do 25.º ano posterior ao da data do início da exploração dos jogos de fortuna ou azar.
 
@@ -104,7 +119,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - A exploração dos jogos não poderá iniciar-se antes de concluído o edifício do casino respectivo.
 
-###### Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo permanente de Tróia tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
+Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo permanente de Tróia tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
 
 a) Assegurar a execução na península de Tróia das seguintes realizações:
 
@@ -142,7 +157,7 @@ j) Investir anualmente a importância de 1000 contos para cumprimento da obriga�
 
 4 - No caso de as importâncias a estimar pelos concorrentes como investimentos mínimos se mostrarem insuficientes, não ficará a empresa concessionária desobrigada de concluir as realizações que se propusera efectuar.
 
-###### Art. 3.º - 1 - Os requerimentos a que se refere o n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 3.º - 1 - Os requerimentos a que se refere o n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 a) Documentos comprovativos da constituição da sociedade obedecendo aos requisitos fixados nos Decretos-Leis n.os 48912 e 340/80 ou declaração de que os requerentes se obrigam a constituí-la nos mesmos termos, dentro do prazo de sessenta dias a seguir à adjudicação;
 
@@ -158,7 +173,7 @@ f) Declaração respeitante à programação dos empreendimentos a que se obriga
 
 2 - O depósito referido na alínea b) do n.º 1 poderá ser substituído por garantia bancária ou seguro-caução, mobilizáveis em termos equivalentes aos dos depósitos.
 
-###### Art. 4.º Com vista ao acompanhamento da execução dos empreendimentos referidos nas alíneas a) e b) do n.º 1 do artigo 2.º, além de outros que a concessionária venha a propor, será criada uma comissão composta por representantes das seguintes entidades:
+Art. 4.º Com vista ao acompanhamento da execução dos empreendimentos referidos nas alíneas a) e b) do n.º 1 do artigo 2.º, além de outros que a concessionária venha a propor, será criada uma comissão composta por representantes das seguintes entidades:
 
 a) Secretaria de Estado do Turismo, que presidirá;
 
@@ -170,7 +185,7 @@ d) Direcção-Geral do Planeamento Urbanístico;
 
 e) Conselho de Inspecção de Jogos.
 
-###### Art. 5.º - 1 - Durante a vigência do contrato de concessão, competirá à comissão prevista no artigo anterior:
+Art. 5.º - 1 - Durante a vigência do contrato de concessão, competirá à comissão prevista no artigo anterior:
 
 a) Dar parecer sobre as alterações que a empresa concessionária propuser aos programas de realização a que se obrigou nos termos deste diploma e do contrato de concessão;
 
@@ -190,15 +205,15 @@ g) Pronunciar-se sobre todos os aspectos dos programas e da respectiva execuçã
 
 3 - A concessionária prestará igualmente à comissão os esclarecimentos que esta lhe solicitar.
 
-###### Art. 6.º - 1 - A comissão a que se refere o artigo 4.º será designada, mediante proposta das entidades representadas, por despacho do Ministro do Comércio e Turismo, a publicar no Diário da República.
+Art. 6.º - 1 - A comissão a que se refere o artigo 4.º será designada, mediante proposta das entidades representadas, por despacho do Ministro do Comércio e Turismo, a publicar no Diário da República.
 
 2 - A comissão funcionará no Conselho de Inspecção de Jogos, que assegurará o respectivo apoio administrativo.
 
-###### Art. 7.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
+Art. 7.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
 
 2 - Os prazos fixados para as realizações previstas neste diploma poderão ser antecipados pela concessionária, bem como, mediante solicitação desta devidamente fundamentada, prorrogados pelo Ministro do Comércio e Turismo, após prévio parecer da comissão referida no artigo 4.º
 
-###### Art. 8.º - 1 - O pagamento das importâncias a que se refere a alínea g) do n.º 1 do artigo 2.º será efectuado, em duas prestações iguais, na Tesouraria da Fazenda Pública de Grândola, mediante guias emitidas pelo Conselho de Inspecção de Jogos, que as enviará à repartição de finanças do mesmo concelho até ao dia 10 dos meses de Janeiro e Julho, devendo ser devolvidos àquele conselho dois exemplares das referidas guias, com o pagamento devidamente averbado.
+Art. 8.º - 1 - O pagamento das importâncias a que se refere a alínea g) do n.º 1 do artigo 2.º será efectuado, em duas prestações iguais, na Tesouraria da Fazenda Pública de Grândola, mediante guias emitidas pelo Conselho de Inspecção de Jogos, que as enviará à repartição de finanças do mesmo concelho até ao dia 10 dos meses de Janeiro e Julho, devendo ser devolvidos àquele conselho dois exemplares das referidas guias, com o pagamento devidamente averbado.
 
 2 - Não sendo efectuado o pagamento nos referidos prazos, seguir-se-á o processo de cobrança coerciva previsto no artigo 42.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840).
 
@@ -206,17 +221,17 @@ g) Pronunciar-se sobre todos os aspectos dos programas e da respectiva execuçã
 
 4 - Não se efectuando o pagamento nos prazos fixados, a Câmara Municipal promoverá a cobrança coerciva, nos termos previstos para as dívidas às autarquias locais.
 
-###### Art. 9.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos, que condicionem, por qualquer forma, as realizações ou obrigações a assumir de acordo com o [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), o presente diploma e demais legislação aplicável à generalidade das zonas de jogo ou que se apresentem em termos que possam dificultar o confronto com as demais propostas.
+Art. 9.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos, que condicionem, por qualquer forma, as realizações ou obrigações a assumir de acordo com o [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), o presente diploma e demais legislação aplicável à generalidade das zonas de jogo ou que se apresentem em termos que possam dificultar o confronto com as demais propostas.
 
-###### Art. 10.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, o qual emitirá parecer sobre elas, após o qual o Governo, em Conselho de Ministros, decidirá sobre a adjudicação.
+Art. 10.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, o qual emitirá parecer sobre elas, após o qual o Governo, em Conselho de Ministros, decidirá sobre a adjudicação.
 
 2 - O Conselho de Inspecção de Jogos poderá solicitar aos concorrentes os esclarecimentos que julgue necessários.
 
 3 - O Governo reserva-se o direito de não aceitar as propostas apresentadas, se assim o considerar conveniente para os interesses do Estado.
 
-###### Art. 11.º Se, aberto o concurso, não houver concorrentes ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com os condicionamentos que então se justificarem.
+Art. 11.º Se, aberto o concurso, não houver concorrentes ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com os condicionamentos que então se justificarem.
 
-###### Art. 12.º A restituição das importâncias dos depósitos previstos na alínea b) do n.º 1 do artigo 3.º do presente diploma ou o cancelamento das garantias bancárias ou seguros-caução que os substituem efectuar-se-á:
+Art. 12.º A restituição das importâncias dos depósitos previstos na alínea b) do n.º 1 do artigo 3.º do presente diploma ou o cancelamento das garantias bancárias ou seguros-caução que os substituem efectuar-se-á:
 
 a) No prazo de quinze dias após a celebração do contrato, relativamente ao concorrente a que for adjudicada a zona;
 
@@ -224,8 +239,8 @@ b) No prazo de quinze dias após a notificação relativa à adjudicação da zo
 
 Francisco Sá Carneiro - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 26 de Setembro de 1980.**
+Promulgado em 26 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

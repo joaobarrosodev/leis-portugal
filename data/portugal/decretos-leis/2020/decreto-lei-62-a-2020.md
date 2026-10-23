@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(2) a 10-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/17201/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62-a/2020/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0be309476f60503823e46790bc962e50448b5c554442a1c6a21f0e6129e02461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8d1d5cc11b9a0d71fbdd7a615975072453b0b7390fbf0613bfb1a6563b73a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,44 @@ reuse:
 subjects:
 - Acesso à Educação
 - Assistência a Familiares
-- Baixa por Doença
 - Atestado Médico
-- Matéria Plástica
+- Baixa por Doença
+- Bens Não Duradouros
+- Comércio
 - Comércio a Retalho
 - Concurso Especial de Acesso e Ingresso no Ensino Superior
 - Controlo Sanitário
-- Saúde Pública
-- Estabelecimento de Bebidas
-- Estabelecimento de Restauração
-- Isolamento Profiláctico
-- Faltas
-- Numerus Clausus
 - Doença Infecciosa
+- Ensino Superior
 - Epidemia
+- Estabelecimento de Bebidas
 - Estabelecimento de Ensino
+- Estabelecimento de Restauração
+- Faltas
+- Isolamento Profiláctico
+- Matéria Plástica
+- Numerus Clausus
 - Prorrogação de Prazo
 - Proteção Social
 - Regime Geral da Segurança Social
-- Ensino Superior
 - Remuneração
+- Saúde Pública
 - Segurança Social
 - Subsídio
 - Subsídio de Doença
-- Comércio
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Bens Não Duradouros
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: celex:32019L0904
   label: null
@@ -143,20 +149,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2019/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2019/09/02/p/dre
+- type: cites
+  target: pt:dre:124346827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124346828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131193442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131393157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133161452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133321093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133491339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133723695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133879987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134762423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134889277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138217278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140013516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0904
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:03Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +321,9 @@ Os artigos 19.º, 20.º e 21.º do [Decreto-Lei n.º 10-A/2020](https://diarioda
 
 6 - Para efeitos do disposto no n.º 1, a autoridade de saúde pública declara a data de início e a data fim da situação de isolamento profilático.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Nas situações de doença por COVID-19 dos trabalhadores por conta de outrem e dos trabalhadores independentes do regime geral de segurança social abrangidos pelo presente artigo, a atribuição do subsídio por doença não está sujeita a período de espera.
 
@@ -221,7 +333,9 @@ Os artigos 19.º, 20.º e 21.º do [Decreto-Lei n.º 10-A/2020](https://diarioda
 
 4 - Após o decurso do período previsto no n.º 2, no cálculo do subsídio de doença aplicam-se as percentagens a que se refere o n.º 2 do artigo 16.º do [Decreto-Lei n.º 28/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342), de 4 de fevereiro, na sua redação atual.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Considera-se falta justificada a situação decorrente do acompanhamento de isolamento profilático motivado por situações de grave risco para a saúde pública decretado pelas entidades que exercem o poder de autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do [Decreto-Lei n.º 82/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229), de 2 de abril, na sua redação atual, ou de doença por COVID-19, até ao limite de 14 dias, em cada uma das situações, de filho ou outro dependente a cargo dos trabalhadores por conta de outrem do regime geral de segurança social.
 
@@ -243,7 +357,9 @@ Prorrogação da obrigação de adaptação à [Lei n.º 76/2019](https://diario
 
 2 - Até 31 de dezembro de 2020, procede-se à primeira fase de transposição da [Diretiva (UE) 2019/904](https://data.europa.eu/eli/dir/2019/904/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, clarificando as [Leis n.os 76/2019](https://diariodarepublica.pt/dr/detalhe/lei/76-2019-124346827) e [77/2019](https://diariodarepublica.pt/dr/detalhe/lei/77-2019-124346828), ambas de 2 de setembro.
 
-###### Artigo 37.º-A — Vigência
+Artigo 37.º-A
+
+Vigência
 
 Os artigos 20.º, 26.º, 28.º-A e 28.º-B vigoram até ao dia 31 de dezembro de 2020.»
 
@@ -279,12 +395,14 @@ São derrogadas transitoriamente as disposições legais e regulamentares que co
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2020. - António Luís Santos da Costa - João Jorge Arêde Correia Neves - João Rodrigo Reis Carvalho Leão - Manuel Frederico Tojal de Valsassina Heitor - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 3 de setembro de 2020.**
+Promulgado em 3 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de setembro de 2020.**
+Referendado em 3 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113541672

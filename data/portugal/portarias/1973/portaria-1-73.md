@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1973-288452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 250fdc4f096af9656d340fc5dc51a424952a0d4108373c7c3fced96328a9b222
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fa2738f28c3b1e106ba1a18e10b854ebd770d083ec94cca3591e48ea5ba160f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,22 @@ relationships:
   target: pt:dre:140514:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:140514:por
+  label: Revogada a al. b) da condição 6.ª do anexo pelo(a) Portaria n.º 107/77 - Diário da República n.º 52/1977, Série I
+    de 1977-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/107-1977-140514
+  date: '1977-03-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:41Z'
   warnings: []
   errors: []
 ---
@@ -199,4 +205,4 @@ b) Se nos trinta dias que se seguirem à apresentação pelo transportador dos p
 
 e) A lista de participantes a que se refere a condição 2.ª, alínea b), será acompanhada de uma declaração do preço global do fretamento a pagar pelo fretador ao transportador e bem assim do preço a pagar efectivamente por cada passageiro ao fretador, nos termos do contrato mencionado na condição 1.ª, alínea a), acima.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

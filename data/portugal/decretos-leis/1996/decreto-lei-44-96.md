@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/109a00/10821095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/1996/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1996-469862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81010c32c013b9bbdaaf43f1a8be0f8c4136503ccb094e6bfea4149589541b90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d93cd22f0db8b66e1d2d99ee5488c55d1fcbb38ee399783fa49ff85c752f95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
 - Aproximação das Legislações
-- Vida Selvagem
+- CAÇA
 - Carne
 - CEE
-- Multa
-- CAÇA
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
 - Controlo Sanitário
 - Fiscalização
 - Higiene Alimentar
-- Abate de Animais
 - Inspecção dos Alimentos
 - Instituto de Protecção da Produção Agro-Alimentar
 - Legislação Veterinária
-- Certificado de Qualidade
+- Multa
 - Proteção do Consumidor
-- Comércio
+- Vida Selvagem
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
@@ -104,16 +104,27 @@ relationships:
   target: celex:31992L0118
   label: null
   source: http://data.europa.eu/eli/dir/1992/118/oj
+- type: repealed_by
+  target: pt:dre:683069:por
+  label: "Revogado o nº 2 do art. 15º do anexo-A pelo DEC LEI.481/99.1999.11.09.MADRP, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/481-1999-683069
+  date: '1999-11-09'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 481/99, de 09-Nov, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 27
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:23Z'
   warnings: []
   errors: []
 ---
@@ -202,17 +213,19 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 30 de Abril de 1996.**
+Promulgado em 30 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Maio de 1996.**
+Referendado em 2 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -482,7 +495,9 @@ Os princípios e regras previstos na Portaria n.º 774/93, de 3 de Setembro, sã
 
 As normas comunitárias e nacionais adoptadas para conservação da fauna não são prejudicadas pelo disposto neste anexo.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos de preparação
 

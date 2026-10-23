@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-1972-674444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2c9bae501d1e0b35271c1997cb5edfc25995e8797000f70b0869698cef9bb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8a5ec29067b0fe48ccce87a077131220355aa808dbaff6aab89188aaf54ad68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:643117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674029:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:40Z'
   warnings: []
   errors: []
 ---
@@ -90,10 +98,10 @@ Usando da faculdade conferida pelo n.º III da base LXXXIII da Lei Orgânica do 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, tornar extensivo às províncias ultramarinas o artigo 1.º do [Decreto-Lei n.º 200/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1972-674029), de 17 de Junho, que alterou o artigo 4.º do [Decreto-Lei n.º 331/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1971-643117), de 4 de Agosto, ficando com a redacção seguinte:
 
-###### Art. 4.º - 1. A atribuição da categoria de professor extraordinário será requerida ao Governador nos serviços provinciais de educação de 1 a 15 de Agosto de cada ano.
+Art. 4.º - 1. A atribuição da categoria de professor extraordinário será requerida ao Governador nos serviços provinciais de educação de 1 a 15 de Agosto de cada ano.
 
 2. Independentemente da data do despacho que atribua a categoria de professor extraordinário, serão processados os vencimentos em Agosto e Setembro aos professores que, em 31 de Julho de cada ano, o estabelecimento de ensino competente verifique reunirem as condições legais exigidas para essa atribuição.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

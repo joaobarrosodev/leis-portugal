@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2018/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2018-116826872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3dfe4adec1c6b104b3fecc7ebef48096fa43fd91ec42e5af7fe56cbbab5a9f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae6b5c5e25c8774d9cd6207fa90724c57a2d0ac858bb2e17f2934411ed8831b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,37 @@ subjects:
 - Acesso à Informação
 - Administração Fiscal
 - Autoridade Tributária e Aduaneira
-- Ficheiro Informático
-- Empresa
-- Sociedade Comercial
-- Instituto Nacional de Estatística
-- Contabilidade
+- Banco de Portugal
 - Código do IRC
 - Código do IVA
+- Contabilidade
 - Contra-ordenação
 - Definição de Competências
 - Direção Geral das Atividades Económicas
-- Informática
-- Banco de Portugal
-- Ministério das Finanças
-- Ministério da Justiça
-- IVA
 - Documento Eletrónico
-- IRC
+- Empresa
+- Ficheiro Informático
 - IES
-- Plataforma Eletrónica
+- Informática
+- Instituto Nacional de Estatística
+- IRC
+- IVA
+- Ministério da Justiça
+- Ministério das Finanças
 - Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:124793094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Alterado, a partir de 01.10.2019, o art. 2.º, na redação do presente diploma, ao Dec Lei n.º 8/2007, de 17-jan, pelo(a)
+    Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/119-2019-124793094
+  date: '2019-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2015/01/16/p/dre
   label: null
@@ -117,16 +123,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2017/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2017/08/21/p/dre
+- type: cites
+  target: pt:dre:108028571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:22Z'
   warnings: []
   errors: []
 ---
@@ -191,25 +221,33 @@ c) [...].
 
 6 - Para efeitos contraordenacionais, a obrigação de entrega da IES/DA constitui uma obrigação distinta da submissão e validação do ficheiro normalizado referido no número anterior.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A informação a prestar consta de modelos oficiais, aprovados por portaria do ministro responsável pela área das finanças, ou por portaria dos membros do governo responsáveis pelo INE, I. P., e pelas áreas das finanças e da economia, caso se trate do anexo R, devendo os modelos integrar toda a informação necessária ao cumprimento de cada uma das obrigações legais incluídas na IES, conjuntamente com o ficheiro SAF-T (PT) relativo à contabilidade.
 
 2 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O cumprimento das obrigações legais referidas no artigo 2.º, bem como a submissão do ficheiro SAF-T (PT), relativo à contabilidade, é efetuado através do envio da respetiva informação ao Ministério das Finanças, por transmissão eletrónica de dados, nos termos a definir pela portaria a que se refere o n.º 5 do artigo 2.º
 
 2 - A informação recebida nos termos do número anterior, que respeite ao cumprimento das obrigações previstas nas alíneas c) a f) do n.º 1 do artigo 2.º, é disponibilizada ao Ministério da Justiça, nos termos do artigo 9.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A IES é apresentada anualmente até ao 15.º dia do 7.º mês posterior à data do termo do exercício económico, independentemente de esse dia ser útil ou não útil, salvo disposição em contrário.
 
 2 - Para efeitos do disposto no número anterior, considera-se como data de apresentação da IES a da respetiva submissão por via eletrónica, sem prejuízo do que se encontrar definido na portaria a que se refere o n.º 5 do artigo 2.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A IES é submetida pelas entidades competentes para a entrega das declarações de informação contabilística e fiscal, e nas situações legalmente exigidas, após prévia validação do ficheiro SAF-T (PT) relativo à contabilidade, submetido à Autoridade Tributária e Aduaneira, nas condições e termos definidos na portaria a que se refere o n.º 5 do artigo 2.º
 
@@ -219,7 +257,9 @@ c) [...].
 
 4 - O disposto nos n.os 1 e 2 é aplicável à entrega da declaração prevista na alínea a) do n.º 2 do artigo 2.º, sendo aplicável o referido no número anterior às declarações referidas nas alíneas a) a c) do n.º 2 do artigo 2.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A informação respeitante ao cumprimento das obrigações previstas nas alíneas c) a f) do n.º 1 do artigo 2.º deve ser disponibilizada, por via eletrónica, às entidades perante as quais deve ser legalmente prestada, nos termos regulados na portaria a que se refere o n.º 5 do artigo 2.º
 
@@ -231,7 +271,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -253,12 +295,14 @@ c) [...].
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2018. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Carolina Maria Gomes Ferra - Francisca Eugénia da Silva Dias Van Dunem - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 9 de outubro de 2018.**
+Promulgado em 9 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de outubro de 2018.**
+Referendado em 10 de outubro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111775192

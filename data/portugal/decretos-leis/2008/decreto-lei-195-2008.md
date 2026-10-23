@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2008/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293842b4d5f74c92be127f07a676a1060e1d5cc939198ed218343e649c567fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d23f7ea2be193ca5e9cc6b3d8c36011dd09d52cdbc2557e67c981aa9626865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Produto Petrolífero
 - Combustível
 - Fiscalização
 - Gasóleo
 - Licenciamento
+- Produto Petrolífero
 - Regime Jurídico
 - Vistoria
 relationships:
@@ -80,6 +80,20 @@ relationships:
   target: pt:dre:175787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175787:por
+  label: "Alterados os art.s 5º, 8º, 11º, 12º, 13º, 14º e 15º do Dec Lei 267/2002, de 26-nov, na redação do presente diploma,\
+    \ pelo DEC LEI.217/2012.09.10.2012.MEE, DR.IS [195] de 09.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2012-175787
+  date: '2012-10-09'
+- type: amends
+  target: pt:numero:decreto-lei:267/2002
+  label: "Altera, os artigos 3.º, 4.º, 5.º, 6.º (todos na redacção e republicação do Dec Lei 389/2007 de 30-Nov), 8.º, 9.º,\
+    \ 10.º, 11.º, 12.º, 13.º (os dois últimos na redacção e republicação do Dec Lei 389/2007 de 30-Nov),14.º (na redacção\
+    \ e republicação do Dec Lei 31/2008 de 25-Fev), 15.º (na redacção e republicação do Dec Lei 389/2007 de 30-Nov) e 23.º,\
+    \ adita o art. 17º-A e republica com a redacção actual, o Decreto-Lei n.º 267/2002, de 26-Nov, DR.IS-A [273] \0\0"
+  source: null
+  date: '2002-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1997/05/23/p/dre
   label: null
@@ -120,16 +134,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/131/2002/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/131/2002/02/09/p/dre
+- type: cites
+  target: pt:dre:142105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:29Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +308,9 @@ s)...
 
 t)...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +320,9 @@ t)...
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +332,9 @@ t)...
 
 4 - O alvará de autorização de utilização, a que se refere o n.º 3 do artigo 74.º do regime jurídico da urbanização e da edificação, emitido no âmbito do procedimento de controlo prévio e nos termos do artigo 62.º e seguintes do mesmo regime, constitui título bastante de exploração das instalações a que se refere o n.º 1.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +344,9 @@ t)...
 
 4 - Os procedimentos administrativos previstos nos números anteriores seguem a tramitação prevista nos artigos 7.º a 14.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +358,9 @@ t)...
 
 5 - Com o pedido de licenciamento é devida a taxa correspondente à apreciação do projecto e da vistoria inicial referidas nas alíneas a) e b) do n.º 1 do artigo 22.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São consultadas as entidades cujo parecer seja legalmente exigido.
 
@@ -262,7 +370,9 @@ t)...
 
 4 - O interessado pode solicitar previamente os pareceres legalmente exigidos junto das entidades competentes, entregando-os com o requerimento de pedido de licenciamento, caso em que não há lugar a nova consulta desde que até à data da apresentação de tal pedido não haja decorrido mais de um ano desde a emissão dos pareceres ou desde que, caso tenha sido esgotado este prazo, não se tenham verificado alterações dos pressupostos de facto ou de direito em que os mesmos se basearam.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Cada uma das entidades consultadas emite o seu parecer no prazo máximo de 20 dias, não prorrogável, salvo o disposto nos números seguintes.
 
@@ -272,13 +382,17 @@ t)...
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Nas instalações de armazenamento abrangidas pelo regime de prevenção de acidentes graves que envolvam substâncias perigosas, o requerente deve apresentar, juntamente com o pedido de licenciamento, prova do cumprimento das disposições previstas no [Decreto-Lei n.º 254/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2007-636175), de 12 de Julho.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +418,9 @@ t)...
 
 12 - A guia para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitida no prazo máximo de 3 dias a contar da data em que é requerida e a vistoria é convocada no prazo máximo de 10 dias a contar do seu pagamento.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - No prazo de 15 dias após a recepção dos pareceres referidos nos artigos 9.º e 11.º, a entidade licenciadora envia ao requerente, em parecer devidamente fundamentado, decisão sobre a aprovação do projecto, imposição de alterações ou rejeição.
 
@@ -320,7 +436,9 @@ t)...
 
 7 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A licença de exploração é concedida após verificação da conformidade da instalação com o projecto aprovado e do cumprimento das condições que tenham sido fixadas, no prazo de 10 dias após a realização da vistoria final ou da realização das correcções que lhe tenham sido impostas.
 
@@ -334,7 +452,9 @@ t)...
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +466,9 @@ t)...
 
 5 - A renovação da licença, nos casos previstos no artigo 5.º, segue o procedimento administrativo aplicável à respectiva instalação.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As taxas e os quantitativos correspondentes a despesas feitas pelos serviços que constituam encargo do detentor da licença são pagas no prazo de 30 dias na forma e local a indicar pela entidade licenciadora, mediante guias a emitir por esta, devendo ser devolvido documento comprovativo do pagamento das mesmas.
 
@@ -388,15 +510,15 @@ O presente decreto-lei entra em vigor no prazo de 30 dias a contar da data da su
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 18 de Setembro de 2008.**
+Promulgado em 18 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Setembro de 2008.**
+Referendado em 19 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

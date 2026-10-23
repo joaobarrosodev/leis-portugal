@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/272b00/54065410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/31/1992/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1992-598162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cca5a509fac0141a14c8cf0363cc165f8fcc1936a1f5c84051b0934936d1ab2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3427f99e546057e63e06579780071220ff4b2fa127a87ccf88c8396debff77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Ministério do Planeamento e da Administração do Território
 - Direcção Geral do Desenvolvimento Regional
+- Ministério do Planeamento e da Administração do Território
 - Orgânica
 - Quadro de Pessoal
 relationships:
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598157:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:574942:por
+  label: "Revogado, a partir de 28.12.1994, pelo DEC LEI.312/94.1994.12.23.MPLAT, DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1994-574942
+  date: '1994-12-23'
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:12Z'
   warnings: []
   errors: []
 ---
@@ -446,12 +463,12 @@ Presidência do Conselho de Ministros, 13 de Julho de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 6 de Novembro de 1992.**
+Promulgado em 6 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Novembro de 1992.**
+Referendado em 10 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

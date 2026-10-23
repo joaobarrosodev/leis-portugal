@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-1980-460854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08468f754a71cf3f078e2abfd1f4f993bb5fa3d0a7ef5a1e2c1397942538daff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 873a1f6964cb3501092b1b12695fea2404aa8bae670f66282a91b3ecdef3349d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Medicina de Reabilitação do Alcoitão
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:609661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380151:por
+  label: "Alterado, na parte referente ao pessoal técnico e pessoal operário e auxiliar, o quadro de pessoal aprovado pelo\
+    \ presente diploma, pela PORT.1115/82.26.11.1982.MFP, DR.IS [274] de 26.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1115-1982-380151
+  date: '1982-11-26'
+- type: amended_by
+  target: pt:dre:435469:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e ao pessoal médico o quadro de pessoal aprovado pelo presente\
+    \ diploma, pela PORT.807-O3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-o3-1983-435469
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:386646:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar (na redacção da Port 1115/82,\
+    \ de 26-Nov), o quadro de pessoal aprovado pelo presente diploma, pela PORT.357/84.11.06.1984.PCM, DR.IS [135] de 11.06.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-1984-386646
+  date: '1984-06-11'
+- type: amended_by
+  target: pt:dre:180636:por
+  label: "Alterado o quadro de pessoal do Centro de Medicina de Reabilitação de Alcoitão aprovado em anexo ao presente diploma,\
+    \ pela PORT.566/85.10.08.1985.PCM, DR.IS [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-1985-180636
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:420185:por
+  label: "Alterado na parte referente ao pessoal técnico de diagnóstico e terapêutica pela PORT.563/87.1987.07.07.MF, DR.IS\
+    \ [153]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1987-420185
+  date: '1987-07-07'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:08Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +145,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Medicina e de Reabilitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/27262727.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/27262727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/27262727.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

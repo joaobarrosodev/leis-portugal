@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11500/0253102533.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2018/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2018-115524262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e651a87cd06e589371c30e0253e88e32aff183c26cb75b7784777ff2a45bf650
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f622c2d284183a21bcbc8b02e9476ddaf08640ba876ee80ff459e8ac003ce73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Embarcação
+- Actividade Marítimo-Turística
+- Balcão Eletrónico do Mar
 - Carta de Navegador
-- Pessoal do MAR
+- Confidencialidade
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Documento Eletrónico
+- Embarcação
 - Embarcação de ALTA Velocidade
+- Embarcação de Pesca
 - Embarcação de Recreio
 - Embarcação de Tráfego Local
+- Pessoal do MAR
 - Registo de Navios
-- Documento Eletrónico
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Actividade Marítimo-Turística
 - Sistema de Informação
-- Confidencialidade
-- Embarcação de Pesca
-- Vistoria
 - Sistema Nacional de Embarcações e Marítimos
-- Balcão Eletrónico do Mar
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
@@ -93,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2018/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2018/03/02/p/dre
+- type: cites
+  target: pt:dre:114796180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:35Z'
   warnings: []
   errors: []
 ---
@@ -279,12 +291,14 @@ O presente decreto-lei entra em vigor em 1 de julho de 2018.
 
 Visto e aprovado em Conselho de Ministros de 10 de maio de 2018. - António Luís Santos da Costa - José Alberto de Azeredo Ferreira Lopes - Francisca Eugénia da Silva Dias Van Dunem - Ana Paula Mendes Vitorino.
 
-**Promulgado em 7 de junho de 2018.**
+Promulgado em 7 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2018.**
+Referendado em 8 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111417593

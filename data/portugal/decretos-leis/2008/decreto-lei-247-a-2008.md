@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 249/2008, 1º Suplemento, Série I de 2008-12-26
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9046-(2) a 9046-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/24901/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/247-a/2008/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-a-2008-331862
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5086a87ab5bc76ba3c36492fee31f125eb67bf724f3ced1051e4b5ee84b9df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74d7840a552552ced864148e9aa6c41c274a84d49def794f2df1e9dfe6ddfd60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Modernização Administrativa
 - Aquisição de Bens e Serviços
 - Empreitada de Obras Públicas
-- Remuneração Acessória
 - Horário de Funcionamento
 - Horas Extraordinárias
 - Locação Financeira
-- Posto de Atendimento
-- Agência para a Modernização Administrativa
 - Loja do Cidadão
+- Posto de Atendimento
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:946246034:por
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/187/1999/06/02/p/dre
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:28Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,9 @@ Período de funcionamento
 
 3 - O período de funcionamento das lojas do cidadão pode ser reduzido por despacho do membro do Governo responsável pela área da modernização administrativa.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -173,12 +175,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 19 de Dezembro de 2008.**
+Promulgado em 19 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Dezembro de 2008.**
+Referendado em 22 de Dezembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

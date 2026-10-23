@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07100/0000200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2022/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2022-181886178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c01af562534da536fac229873b450cd43381857ffe3022824959d1e085684031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5348d89809488f834aef01e460b531b153bf40d914de7c2661afb6ddc283656b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,56 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
+- Agência Portuguesa do Ambiente
+- Agricultura
 - Análise Laboratorial
-- Gestão de Resíduos
+- ASAE
+- Assinatura Digital
 - Autoridade Tributária e Aduaneira
 - CE Países
 - Certificação Profissional
 - Certificado de Conformidade
-- Silvicultura
+- Comércio
+- Comissão CE
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
 - Difusão da Informação
 - Direção Geral das Atividades Económicas
+- Eliminação de Resíduos
+- Embalagem
 - Etiquetagem
+- Fertilizante
 - Fiscalização
-- Comissão CE
-- Comissão de Coordenação e Desenvolvimento Regional
+- Gestão de Resíduos
+- IAPMEI
 - Importação
 - Instituto Nacional de Investigação Agrária e Veterinária
-- Transporte de Resíduos
-- Jornal Oficial
-- Publicitação
-- ASAE
-- Matéria-Prima
-- Embalagem
-- Resíduo
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Internet
+- Jornal Oficial
+- Madeira.região Autónoma
+- Matéria-Prima
+- Mercado de Resíduos
 - Notificação
 - Países Terceiros
-- Proteção do Ambiente
-- Fertilizante
-- Tratamento de Resíduos
 - Política do Ambiente
-- Internet
-- Madeira.região Autónoma
-- Assinatura Digital
+- Portal ePortugal
+- Proteção do Ambiente
+- Publicitação
+- REGISTO NACIONAL DE MATÉRIAS FERTILIZANTES NÃO HARMONIZADAS
 - Registo Obrigatório
 - Regulamento CE
-- Agricultura
-- Mercado de Resíduos
-- Açores
-- IAPMEI
-- Eliminação de Resíduos
+- Resíduo
+- Silvicultura
 - Substância Perigosa
-- Comércio
 - Transporte
-- REGISTO NACIONAL DE MATÉRIAS FERTILIZANTES NÃO HARMONIZADAS
-- Portal ePortugal
-- Agência Portuguesa do Ambiente
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32003R2003
@@ -193,16 +193,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46/2019/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46/2019/02/22/p/dre
+- type: cites
+  target: pt:dre:116747964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120038537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70083896:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:01Z'
   warnings: []
   errors: []
 ---
@@ -851,15 +907,15 @@ b) O [Despacho n.º 9594/2015](https://diariodarepublica.pt/dr/detalhe/despacho/
 
 Visto e aprovado em Conselho de Ministros de 17 de março de 2022. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Miguel Jorge de Campos Cruz - João Pedro Soeiro de Matos Fernandes - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 5 de abril de 2022.**
+Promulgado em 5 de abril de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2022.**
+Referendado em 6 de abril de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (instruções para modificação da relação de tipos de matérias fertilizantes não harmonizadas a que se refere o n.º 2 do artigo 19.º)
 
@@ -959,10 +1015,12 @@ No sentido de complementar a informação, juntar o boletim de análise comprova
 
 Elaborar uma proposta de inclusão na relação de tipos previstos na portaria referida no n.º 2 do artigo 4.º, facultando a denominação do tipo, bem como completar as colunas correspondentes, de acordo com o modelo de quadro seguinte, conforme for o caso.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/04/07100/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2022/04/07100/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/04/07100/0000200022.pdf)
 
 1.6 - Outra informação:
 
 Incluir outra informação considerada útil e não referida nos pontos anteriores.
 
 Este ponto pode ser complementado com bibliografia.
+
+115206927

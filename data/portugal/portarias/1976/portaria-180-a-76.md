@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 75/1976, 2º Suplemento, Série I de 1976-03-29
   number: '75'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 622-(4) a 622-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/03/07502/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/180-a-1976-302570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc85bce5a24aa109f80806180a28a5000b694260334d7512c28c022b7467e8d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 347249909481a86216f9fdc7b6c34d9750ee0c1cfbf206290486d96ddbe89839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passe Social
+- Preço
+- Transporte de Passageiros
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:482618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430832:por
+  label: Prorrogado até 31.07.1976, o prazo para aferição dos taxímetros dos veículos automóveis-táxis, revisto no ponto 6.3.2
+    do presente diploma, pelo(a) Portaria n.º 443/76 - Diário da República n.º 170/1976, Série I de 1976-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/443-1976-430832
+  date: '1976-07-22'
+- type: cites
+  target: pt:dre:402753:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426950:por
+  label: Rectificada pela DECL.DD8881.26.05.1976.PCM, DR.IS [123] de 26.05.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426950
+  date: '1976-05-26'
+- type: repealed_by
+  target: pt:dre:482618:por
+  label: "Revogada pela PORT.595-A/76.08.10.1976.MCT, DR.IS [236]Supl de 08.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/595-a-1976-482618
+  date: '1976-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:58:20Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +169,7 @@ São abolidas todas as tarifas especiais em vigor.
 
 2.2.1 - Tarifas normais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/07502/00040006.pdf))](https://files.diariodarepublica.pt/1s/1976/03/07502/00040006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/07502/00040006.pdf)
 
 2.2.2 - Passe social mensal para estudantes e operários ... 225$00
 

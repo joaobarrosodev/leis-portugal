@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/686-1971-631984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf34d8fea6602b758e3b24f20ba4a62ca634ec24853c4e41bc09d02b502e1fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8a286868cd04a6965f604a5a8c24805b11b76f6c8cbc06f964e10a5b5f0185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,30 @@ relationships:
   target: pt:dre:141401:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141401:por
+  label: Alteradas as importâncias referidas na presente portaria pelo(a) Portaria n.º 78/77 - Diário da República n.º 39/1977,
+    Série I de 1977-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1977-141401
+  date: '1977-02-16'
+- type: cites
+  target: pt:dre:262668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328670:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:51Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +111,4 @@ b) Os valores dos orçamentos a que se refere a alínea b) do artigo 4.º do ref
 
 c) Os projectos das obras indicadas na alínea antecedente, que respeitem a construções de novos edifícios e tenham orçamento superior a 250000$00, carecem de aprovação do Ministério das Obras Públicas.
 
-**O Ministro das Obras Públicas, Rui Alves da Silva Sanches.**
+O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

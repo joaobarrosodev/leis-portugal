@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/2003/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2003-477290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3755a5e8eecc7d6fab3d141672c4e2e5cd4a72cb50b53cf8728dca3a6ae893f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe0d7c7ca8ec3c43f625e2648f13b23d9c3f92c4cdc67677a69910deae4c3018
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
-- Garantia
+- Atividade Seguradora
 - CE Países
+- Companhia de Seguros
+- Contrato de Seguro
+- Empresa Estrangeira
 - Empresa Europeia
-- Seguro
+- Garantia
 - Instituto de Seguros de Portugal
 - Margem de Solvência
 - Prémio de Seguro
 - RAMO não VIDA
 - RAMO VIDA
 - Resseguro
-- Companhia de Seguros
+- Seguro
 - Seguro de VIDA
-- Empresa Estrangeira
 relationships:
 - type: amended_by
   target: pt:dre:396962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539387:por
+  label: "Alterados os arts. 15º, 44º, 51º, 96º, 98º, 135º, 157º-B a 157º-D , 172º-A, 172º-E e 236º, e aditados os 172º-H\
+    \ e 172º-I do Dec Lei 94-B/98 de 17-Abr, alterado e republicado pelo presente diploma, pelo DEC LEI.145/2006.31.07.2006.MFAP,\
+    \ DR.IS [146] de 31.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2006-539387
+  date: '2006-07-31'
+- type: amended_by
+  target: pt:dre:396962:por
+  label: "Alterados os art.s 4º, 93º, 94º, 96º, 97º, 98º, 99º, 102º, 103º, 172º-E e 172º-F do Dec Lei 94-B/98, de 17-Abr,\
+    \ na redacção do presente diploma, pelo DEC LEI.2/2009.05.01.2009.MFAP, DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2009-396962
+  date: '2009-01-05'
+- type: amends
+  target: pt:numero:decreto-lei:8-C/2002
+  label: "Altera e substitui as denominações da Comunidade Europeia, Comunidade, Comissão das Comunidades Europeias, Comissão\
+    \ da Comunidade Europeia, altera e republica os arts. 4.º, 9.º, 19.º, 26.º, 60.º, 93.º, 94.º, 95.º, 96.º, 97.º, 98.º,\
+    \ 99.º, 100.º, 102.º, 103.º, 108.º, 108.º-A, 110.º, 116.º, 148.º, 149.º, 150.º, 151.º, 172.º-E, 172.º-F, 195.º e 201.º-A\
+    \ do Decreto-Lei n.º 94-B/98, de 17 de Abril, alterado e republicado pelo Decreto-Lei n.º 8-C/2002, de 11 de Janeiro DR.IS-A\
+    \ [90]2ºSupl\0\0"
+  source: null
+  date: '1998-04-17'
 - type: cites
   target: celex:31973L0239
   label: null
@@ -109,16 +131,22 @@ relationships:
   target: celex:32002L0083
   label: null
   source: http://data.europa.eu/eli/dir/2002/83/oj
+- type: repealed_by
+  target: pt:dre:538999:por
+  label: "Revogado o Dec Lei 475/99 de 09-Nov, com a redacção constante do presente diploma, pelo DEC LEI.12/2006.20.01.2006.MFAP,\
+    \ DR.IS-A [15] de 20.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2006-538999
+  date: '2006-01-20'
 article_structure:
-  article_count: 319
+  article_count: 292
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:53Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +227,9 @@ a) ...
 
 b) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +249,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +275,9 @@ h) ...
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -255,7 +289,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +305,9 @@ c) ...
 
 3 - O Instituto de Seguros de Portugal não procede à comunicação referida no n.º 1 sempre que tenha dúvidas fundadas sobre a situação financeira da empresa de seguros, designadamente nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que os direitos dos segurados e beneficiários dos contratos de seguro se encontram em risco.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - As empresas de seguros com sede em Portugal devem ter, em permanência, uma margem de solvência disponível suficiente em relação ao conjunto das suas actividades.
 
@@ -277,7 +315,9 @@ c) ...
 
 3 - A margem de solvência disponível pode igualmente ser constituída pelos elementos referidos no n.º 2 do artigo 96.º e no n.º 2 do artigo 98.º e, mediante autorização prévia do Instituto de Seguros de Portugal, pelos elementos referidos no n.º 3 do artigo 96.º e no n.º 3 do artigo 98.º
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - As sucursais de empresas de seguros com sede fora do território da União Europeia devem ter, em permanência, uma margem de solvência disponível suficiente em relação ao conjunto da sua actividade em Portugal.
 
@@ -285,13 +325,17 @@ c) ...
 
 3 - Os activos correspondentes à margem de solvência disponível devem estar localizados em Portugal até à concorrência do fundo de garantia e, na parte excedente, no território da União Europeia.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - Os critérios de valorimetria dos activos correspondentes à margem de solvência disponível são fixados pelo Instituto de Seguros de Portugal.
 
 2 - O Instituto de Seguros de Portugal pode, em casos devidamente justificados, reavaliar para valores inferiores todos os elementos elegíveis para efeitos da margem de solvência disponível, em especial, se se verificar uma alteração significativa do valor de mercado destes elementos desde o final do último exercício.
 
-###### Artigo 96.º — Margem de solvência disponível relativa aos ramos 'Não vida'
+Artigo 96.º
+
+Margem de solvência disponível relativa aos ramos 'Não vida'
 
 1 - Para efeitos da margem de solvência disponível, no que respeita a todos os ramos de seguros 'Não vida', o património das empresas de seguros com sede em Portugal compreende:
 
@@ -373,7 +417,9 @@ e) Mediante autorização prévia do Instituto de Seguros de Portugal, as mais-v
 
 7 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia, devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a d) do n.º 4, aplicando-se igualmente o disposto no n.º 5.
 
-###### Artigo 97.º — Determinação da margem de solvência exigida para os ramos 'Não vida'
+Artigo 97.º
+
+Determinação da margem de solvência exigida para os ramos 'Não vida'
 
 1 - A margem de solvência exigida, no que respeita a todos os ramos de seguros 'Não vida', é calculada em relação ao montante anual dos prémios ou ao valor médio anual dos custos com sinistros nos três últimos exercícios, devendo o seu valor ser igual ao mais elevado dos resultados obtidos pela aplicação de dois métodos distintos descritos nos números seguintes.
 
@@ -421,7 +467,9 @@ e) O contrato prever a possibilidade de aumentar os prémios ou reduzir as prest
 
 9 - Os limiares previstos nas alíneas b) do n.º 2 e e) do n.º 3 são revistos anualmente tendo por base a evolução verificada no índice geral de preços no consumidor para todos os Estados membros publicado pelo EUROSTAT, arredondados para um valor múltiplo de (euro) 100000 sempre que a taxa de variação verificada desde a última revisão seja igual ou superior a 5%, competindo ao Instituto de Seguros de Portugal proceder à sua divulgação.
 
-###### Artigo 98.º — Margem de solvência disponível relativa ao ramo 'Vida'
+Artigo 98.º
+
+Margem de solvência disponível relativa ao ramo 'Vida'
 
 1 - Para efeitos da margem de solvência disponível, no que respeita ao ramo 'Vida', o património das empresas de seguros com sede em Portugal compreende:
 
@@ -467,7 +515,9 @@ d) Responsabilidades previsíveis que, nos termos de norma regulamentar, o Insti
 
 7 - Para efeitos da determinação da margem de solvência disponível das sucursais com sede fora do território da União Europeia, devem ser deduzidos aos elementos referidos no número anterior os montantes mencionados nas alíneas b) a d) do n.º 4, aplicando-se igualmente o disposto no n.º 5.
 
-###### Artigo 99.º — Determinação da margem de solvência exigida para o ramo 'Vida'
+Artigo 99.º
+
+Determinação da margem de solvência exigida para o ramo 'Vida'
 
 1 - O montante da margem de solvência exigida no que respeita ao ramo 'Vida', para os seguros referidos nas alíneas a) e b) do n.º 1 e no n.º 2 do artigo 124.º, corresponde à soma dos dois resultados obtidos nos termos seguintes:
 
@@ -493,11 +543,15 @@ d) O valor correspondente a 0,3% dos capitais em risco, calculado nas condiçõe
 
 4 - Os factores de redução por efeito do resseguro, referidos nas alíneas dos números anteriores, podem ser diminuídos por determinação do Instituto de Seguros de Portugal, quando se verificar que uma empresa de seguros alterou, de modo significativo e desde o último exercício, a natureza e fiabilidade dos contratos de resseguro ou for insignificante ou mesmo inexistente, ao abrigo dos contratos de resseguro estabelecidos, a transferência de risco para os resseguradores.
 
-###### Artigo 100.º — Determinação da margem de solvência exigida relativamente aos seguros complementares do ramo 'Vida'
+Artigo 100.º
+
+Determinação da margem de solvência exigida relativamente aos seguros complementares do ramo 'Vida'
 
 O montante da margem de solvência exigida, no que respeita aos seguros complementares do ramo 'Vida', referidos na alínea c) do n.º 1) do artigo 124.º, corresponde ao valor mais elevado que resultar da aplicação aos prémios brutos emitidos ou ao valor médio anual dos custos com sinistros dos três últimos exercícios relativos a esses seguros dos métodos referidos no artigo 97.º
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - As empresas de seguros com sede em Portugal e as sucursais de empresas de seguros com sede fora do território da União Europeia devem, desde o momento em que são autorizadas, dispor e manter um fundo de garantia, que faz parte integrante da margem de solvência e que corresponde a um terço do valor da margem de solvência exigida, não podendo, no entanto, ser inferior aos limites fixados nos termos dos números seguintes.
 
@@ -515,13 +569,17 @@ b) Para as empresas de seguros que não se encontrem na situação referida na a
 
 6 - (Revogado.)
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - Para efeitos de constituição do fundo de garantia mínimo das empresas de seguros com sede em Portugal, relativamente à actividade de seguros 'Não vida' e 'Vida', consideram-se, respectivamente, os elementos previstos no artigo 96.º, com excepção do n.º 3, e no artigo 98.º, com excepção do n.º 3.
 
 2 - Para efeitos de constituição do fundo de garantia mínimo das sucursais de empresas de seguros com sede fora do território da União Europeia, relativamente à actividade de seguros 'Não vida' e 'Vida', consideram-se, respectivamente, os elementos previstos no n.º 6 do artigo 96.º, com excepção da alínea e), e no n.º 6 do artigo 98.º, com excepção da remissão para o n.º 3 do mesmo artigo, aplicando-se igualmente as deduções previstas no n.º 7 do artigo 96.º e no n.º 7 do artigo 98.º
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -547,7 +605,9 @@ c) ...
 
 9 - ...
 
-###### Artigo 108.º-A — [...]
+Artigo 108.º-A
+
+[...]
 
 1 - Quando o Instituto de Seguros de Portugal verificar que uma empresa de seguros se encontra em risco de ficar numa situação financeira insuficiente, colocando em causa os direitos dos segurados e beneficiários dos contratos de seguro, deve esta empresa, a solicitação e no prazo que lhe vier a ser fixado, submeter à apreciação desse Instituto um plano de reequilíbrio da situação financeira, fundado num adequado plano de actividades.
 
@@ -569,7 +629,9 @@ d) A política geral de resseguro.
 
 3 - Sempre que os direitos dos segurados e beneficiários dos contratos de seguro estiverem em risco em virtude da deterioração da situação financeira de uma empresa de seguros, o Instituto de Seguros de Portugal pode determinar que essa empresa de seguros tenha uma margem de solvência exigida superior à que resultaria da aplicação dos artigos 97.º e 99.º e cujo nível é estabelecido em articulação com o plano de reequilíbrio.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - ...
 
@@ -577,11 +639,15 @@ d) A política geral de resseguro.
 
 3 - ...
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 O Instituto de Seguros de Portugal pode impedir a comercialização de novos produtos a uma empresa de seguros em situação financeira insuficiente ou que já esteja em fase de execução de um plano de recuperação ou de um plano de financiamento enquanto a empresa não lhe fizer prova de que dispõe de uma margem de solvência disponível suficiente, de um fundo de garantia, pelo menos, igual ao limite mínimo exigido, e que as respectivas provisões técnicas são suficientes e estão correctamente constituídas e representadas.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -593,7 +659,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - ...
 
@@ -605,7 +673,9 @@ b) ...
 
 3 - O Instituto de Seguros de Portugal não procede à certificação referida na alínea a) do n.º 2 sempre que tenha dúvidas fundadas sobre a situação financeira da empresa de seguros cessionária, designadamente nos casos em que tenha sido solicitado um plano de reequilíbrio da situação financeira em conformidade com o disposto no artigo 108.º-A e enquanto entender que os direitos dos segurados e beneficiários dos contratos de seguro se encontram em risco.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - ...
 
@@ -615,7 +685,9 @@ a) As autoridades competentes do Estado membro de origem da cessionária, se for
 
 b) ...
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - ...
 
@@ -625,7 +697,9 @@ a) As autoridades competentes do Estado membro do estabelecimento da cessionári
 
 b) ...
 
-###### Artigo 172.º-E — [...]
+Artigo 172.º-E
+
+[...]
 
 1 - ...
 
@@ -641,7 +715,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 172.º-F — [...]
+Artigo 172.º-F
+
+[...]
 
 1 - No caso previsto na alínea a) do n.º 1 do artigo 172.º-B, será efectuado um cálculo de solvência corrigida, nos termos de norma do Instituto de Seguros de Portugal, a qual proverá, nomeadamente, à eliminação quer da dupla utilização dos elementos da margem de solvência disponível quer da criação intragrupo de capital.
 
@@ -651,7 +727,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - O montante dos empréstimos contraídos ou emitidos por uma empresa de seguros, independentemente da sua forma, mas com exclusão dos empréstimos subordinados aceites para constituição da margem de solvência disponível, não pode ultrapassar 50% do seu património livre líquido.
 
@@ -683,7 +761,9 @@ b) O património livre líquido corresponde ao património, deduzido de toda e q
 
 7 - ...
 
-###### Artigo 201.º-A — [...]
+Artigo 201.º-A
+
+[...]
 
 Sem prejuízo do regime geral, só podem adquirir acções próprias as empresas de seguros em que o património livre líquido não seja inferior nem a metade do capital social mínimo obrigatório nem ao valor necessário para a constituição da margem de solvência exigida.»
 
@@ -711,7 +791,9 @@ Os artigos 46.º e 47.º do Decreto-Lei n.º 475/99, de 9 de Novembro, passam a 
 
 3 - As entidades gestoras devem, desde o momento em que são autorizadas, dispor e manter um fundo de garantia que faz parte integrante da margem de solvência e que corresponde a um terço do seu valor, não podendo, no entanto, ser inferior a (euro) 800000.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A margem de solvência é constituída pelos elementos definidos nos termos do disposto nos n.os 1 e 2 do artigo 98.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, e, mediante autorização prévia do Instituto de Seguros de Portugal, pode igualmente incluir os elementos constantes do disposto nas alíneas b) e d) do n.º 3 do mesmo artigo.
 
@@ -733,15 +815,15 @@ O Decreto-Lei n.º 94-B/98, de 17 de Abril, alterado e republicado pelo Decreto-
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Decreto-Lei n.º 94-B/98, de 17 de Abril
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/1995/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-1995-197686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ed59988811cb2208e3d53672e117ecfafb7158ecd014deb271f4b2f588ca81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f686cbb402ff05a926ef31f28ebafeabb315760b4c2b14a78791639472e977a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agente Desportivo
-- Profissão Artística
 - Atleta Profissional
 - Código do IRC
 - Código do IRS
 - Desporto Profissional
+- Evasão Fiscal
 - Fraude Fiscal
+- IRC
 - IRS
 - País Estrangeiro
-- Evasão Fiscal
-- IRC
+- Profissão Artística
 - Receita Fiscal
 - Regime Fiscal
 - Sociedades
@@ -84,20 +84,132 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterado o art. 13.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.10-B/96.23.03.1996.AR, DR.IS-A [71-2ºSupl] de 23.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterados os art.s 4º e 75º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.25/98.10.02.1998.MF, DR.IS-A [34] de 10.02.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:217935:por
+  label: "Alterados os art.s 57º-A, 57º-B e 75º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do\
+    \ presente diploma, pelo DEC LEI.366/98.23.11.1998.MF, DR.IS-A [271] de 23.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1998-217935
+  date: '1998-11-23'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 57º-B do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 4º, 57º-A, 57º-B e 75º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 4º e 75º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 13.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 4º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 4º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 114.º do Código dos IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 4º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 75.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, na redacção do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 13º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art.13º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 13º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 75.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+- type: cites
+  target: pt:dre:311209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:41Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +228,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelos artigos 25.º, n.º 1, e 28.º da [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 13.º e 19.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 13.º e 19.º do Código do IRS, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 13.º — [...]
 
@@ -136,7 +248,7 @@ No uso da autorização legislativa concedida pelos artigos 25.º, n.º 1, e 28.
 
 4 - Para efeitos do disposto no número anterior, as respectivas importâncias integrar-se-ão, como rendimento líquido, nas categorias C ou D, nos casos em que a participação social esteja afecta ao activo de uma empresa comercial, industrial ou agrícola, respectivamente, ou na categoria E, nos demais casos.
 
-###### Art. 2.º - 1 - Os artigos 4.º e 75.º do Código do IRC, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
+Art. 2.º - 1 - Os artigos 4.º e 75.º do Código do IRC, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
@@ -236,16 +348,16 @@ iv) Locação de bens, excepto de bens imóveis situados no território de resid
 
 7 - Para efeitos do disposto no n.º 1, o sócio residente deverá juntar à declaração periódica de rendimentos, a que se refere a alínea b) do artigo 94.º, as contas devidamente aprovadas pelos órgãos sociais competentes das sociedades não residentes a que respeita o lucro a imputar.
 
-###### Art. 3.º Para efeitos do disposto no artigo 57.º-B do Código do IRC, enquanto o território de Macau se mantiver sob administração portuguesa não se considera que uma sociedade no mesmo residente esteja submetida a um regime fiscal claramente mais favorável quando os respectivos lucros forem aí tributados a uma taxa não inferior a 15%.
+Art. 3.º Para efeitos do disposto no artigo 57.º-B do Código do IRC, enquanto o território de Macau se mantiver sob administração portuguesa não se considera que uma sociedade no mesmo residente esteja submetida a um regime fiscal claramente mais favorável quando os respectivos lucros forem aí tributados a uma taxa não inferior a 15%.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1994. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

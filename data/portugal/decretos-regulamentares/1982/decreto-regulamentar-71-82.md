@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1982-376260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d27c5cfd6879eeb90eda41eadfc912f2d08f99b114b063248a45359ac22b987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d0114978f2c39b3e818175488ef959fe1ba0beaeabd00cb284723cf83e6858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Mineira
+- Pedreiras
 relationships:
 - type: amended_by
   target: pt:dre:333160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:395774:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333160:por
+  label: Revogado pelo DEC LEI.90/90.16.03.1990.MIE, DR.IS [63] de 16.03.1990, com a entrada em vigor daquele diploma e legislação
+    referida no art. 51º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1990-333160
+  date: '1990-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:10Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A portaria de cativação de áreas em que se localizem massas minerais fixará:
+Artigo 1.º - 1 - A portaria de cativação de áreas em que se localizem massas minerais fixará:
 
 a) A área cativa;
 
@@ -114,7 +126,7 @@ e) Formas especiais de intervenção da Administração Pública, no que respeit
 
 4 - No caso a que se refere o número anterior, será sempre aceite o contrato eventualmente existente entre o proprietário e explorador, sem exigência de escritura pública.
 
-###### Art. 2.º - 1 - Salvo legislação específica em contrário, as zonas de defesa, a que se refere o n.º 1 do artigo 8.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), terão as larguras seguintes:
+Art. 2.º - 1 - Salvo legislação específica em contrário, as zonas de defesa, a que se refere o n.º 1 do artigo 8.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), terão as larguras seguintes:
 
 a) 2 m - prédios rústicos vizinhos, quer sejam murados, quer não;
 
@@ -134,7 +146,7 @@ f) 100 m - monumentos nacionais, locais classificados de valor turístico e inst
 
 4 - No caso previsto no n.º 2 do artigo 8.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), a autorização a conceder pelo ministro competente será sempre precedida de audição dos exploradores das pedreiras eventualmente afectados e determina o pagamento de justa indemnização pelos prejuízos que lhes sejam causados.
 
-###### Art. 3.º - 1 - Poderão ainda ser definidas zonas de defesa em torno de outras obras ou sítios, por portaria conjunta do ministro competente e de qualquer outro ministro interessado, quando se mostrem absolutamente indispensáveis à sua protecção, nas quais será proibida ou condicionada a exploração de pedreiras.
+Art. 3.º - 1 - Poderão ainda ser definidas zonas de defesa em torno de outras obras ou sítios, por portaria conjunta do ministro competente e de qualquer outro ministro interessado, quando se mostrem absolutamente indispensáveis à sua protecção, nas quais será proibida ou condicionada a exploração de pedreiras.
 
 2 - A portaria deverá, essencialmente, fixar a largura da zona de defesa e declarar se fica proibida a exploração de pedreiras ou a que condições terá de obedecer.
 
@@ -142,13 +154,13 @@ f) 100 m - monumentos nacionais, locais classificados de valor turístico e inst
 
 4 - A delimitação prevista nos números anteriores será sempre precedida de audição dos exploradores das pedreiras eventualmente afectados e determina o pagamento de justa indemnização pelos prejuízos que lhes sejam causados.
 
-###### Art. 4.º - 1 - A requisição de substâncias extraídas em pedreiras será feita por despacho conjunto do ministro competente e do ministro que superintenda nas obras públicas e deverá incidir sobre as substâncias que, por razões de ordem técnica e económica, se mostrem as mais adequadas para a obra, limitando-se à satisfação dos fins que a justificam.
+Art. 4.º - 1 - A requisição de substâncias extraídas em pedreiras será feita por despacho conjunto do ministro competente e do ministro que superintenda nas obras públicas e deverá incidir sobre as substâncias que, por razões de ordem técnica e económica, se mostrem as mais adequadas para a obra, limitando-se à satisfação dos fins que a justificam.
 
 2 - O preço a pagar pelas substâncias requisitadas deve corresponder ao seu valor corrente no mercado e, na falta de acordo com o explorador, será fixado no despacho de requisição.
 
 3 - Quando não esteja em curso a respectiva exploração, a requisição poderá incidir sobre as próprias massas minerais, cuja exploração poderá, então, ser feita pelo Estado ou por empreiteiro com quem contrate, devendo a posse da massa mineral ser restituída ao proprietário, finda a exploração, com o terreno devidamente regularizado.
 
-###### Art. 5.º - 1 - A expropriação dos terrenos necessários ao estabelecimento de pedreiras, a que se refere o artigo 12.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), só poderá ser declarada quando, previsivelmente, as pedreiras a estabelecer puderem produzir resultado superior ao que se poderia obter do aproveitamento do solo para a exploração agrícola mais lucrativa que o mesmo pudesse ter.
+Art. 5.º - 1 - A expropriação dos terrenos necessários ao estabelecimento de pedreiras, a que se refere o artigo 12.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), só poderá ser declarada quando, previsivelmente, as pedreiras a estabelecer puderem produzir resultado superior ao que se poderia obter do aproveitamento do solo para a exploração agrícola mais lucrativa que o mesmo pudesse ter.
 
 2 - Ainda que reconhecido o condicionalismo previsto no número anterior, a expropriação só pode ser declarada quando, simultaneamente, os proprietários da massa mineral:
 
@@ -160,7 +172,7 @@ b) Neguem a autorização para a sua exploração por outrem ou exijam condiçõ
 
 4 - Quando decida pela expropriação a favor de terceiros, deverá o ministro competente mandar abrir concurso para o efeito de outorgar o respectivo direito, excepto no caso do número anterior, em que a expropriação deverá ser feita a favor do explorador já existente.
 
-###### Art. 6.º - 1 - Para efeitos do artigo anterior, serão consideradas inaceitáveis as condições que tornem inviável a exploração industrial e, em qualquer caso, quando:
+Art. 6.º - 1 - Para efeitos do artigo anterior, serão consideradas inaceitáveis as condições que tornem inviável a exploração industrial e, em qualquer caso, quando:
 
 a) A renda pedida pela área a ocupar for manifestamente superior aos resultados normais da exploração agrícola mais lucrativa que o terreno possa ter; e
 
@@ -172,33 +184,33 @@ b) A matagem pedida pela produção a obter for superior ao valor máximo a esse
 
 4 - A presunção referida no n.º 2 deste artigo poderá ser ilidida se o proprietário fizer prova de que, apesar das condições por si exigidas serem aceitáveis, ninguém se mostrou interessado na exploração em causa.
 
-###### Art. 7.º O contrato que regula as relações entre o proprietário da massa mineral e o explorador da pedreira deverá constar de documento escrito e revestir obrigatoriamente a forma de escritura pública nos casos referidos nas alíneas b) e c) do n.º 2 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), de 14 de Junho.
+Art. 7.º O contrato que regula as relações entre o proprietário da massa mineral e o explorador da pedreira deverá constar de documento escrito e revestir obrigatoriamente a forma de escritura pública nos casos referidos nas alíneas b) e c) do n.º 2 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), de 14 de Junho.
 
-###### Art. 8.º - 1 - O contrato de exploração terá o prazo inicial mínimo de 3 anos.
+Art. 8.º - 1 - O contrato de exploração terá o prazo inicial mínimo de 3 anos.
 
 2 - Findo o prazo inicial, o contrato renova-se por períodos sucessivos, de duração não inferior a 3 anos, se nenhuma das partes o denunciar, nos termos do artigo 11.º
 
-###### Art. 9.º - 1 - A remuneração do proprietário será fixada no contrato e consistirá obrigatoriamente numa renda anual fixa, acrescida de uma remuneração variável - designada por matagem -, correspondente à quantidade de pedra extraída.
+Art. 9.º - 1 - A remuneração do proprietário será fixada no contrato e consistirá obrigatoriamente numa renda anual fixa, acrescida de uma remuneração variável - designada por matagem -, correspondente à quantidade de pedra extraída.
 
 2 - O contrato poderá conter cláusulas de revisão de remuneração.
 
-###### Art. 10.º Salvo estipulação em contrário no contrato de exploração, o explorador não poderá ceder a sua posição contratual sem acordo do proprietário.
+Art. 10.º Salvo estipulação em contrário no contrato de exploração, o explorador não poderá ceder a sua posição contratual sem acordo do proprietário.
 
-###### Art. 11.º - 1 - A parte que quiser denunciar o contrato deverá fazê-lo comunicando, por escrito, essa denúncia à outra parte com a antecedência mínima de 6 meses sobre o final do período em vigor.
+Art. 11.º - 1 - A parte que quiser denunciar o contrato deverá fazê-lo comunicando, por escrito, essa denúncia à outra parte com a antecedência mínima de 6 meses sobre o final do período em vigor.
 
 2 - O proprietário não gozará, porém, do direito de denúncia, nem no final do período inicial, nem das duas primeiras renovações.
 
-###### Art. 12.º - 1 - Independentemente da faculdade de denúncia prevista no artigo anterior, o explorador poderá resolver o contrato, no decurso dos primeiros 6 anos de vigência, comunicando essa resolução ao proprietário e ficando apenas obrigado a indemnizá-lo pelos prejuízos que tenha causado na sua propriedade.
+Art. 12.º - 1 - Independentemente da faculdade de denúncia prevista no artigo anterior, o explorador poderá resolver o contrato, no decurso dos primeiros 6 anos de vigência, comunicando essa resolução ao proprietário e ficando apenas obrigado a indemnizá-lo pelos prejuízos que tenha causado na sua propriedade.
 
 2 - A resolução não terá efeitos retroactivos.
 
-###### Art. 13.º Para efeito de contagem dos prazos referidos nos artigos anteriores, o início de vigência do contrato de exploração conta-se a partir da data de concessão da respectiva licença de estabelecimento.
+Art. 13.º Para efeito de contagem dos prazos referidos nos artigos anteriores, o início de vigência do contrato de exploração conta-se a partir da data de concessão da respectiva licença de estabelecimento.
 
-###### Art. 14.º O contrato de exploração caduca se a pessoa que contratou com o proprietário não requerer a licença de estabelecimento no prazo de 3 meses a contar da data da sua celebração ou quando a perca.
+Art. 14.º O contrato de exploração caduca se a pessoa que contratou com o proprietário não requerer a licença de estabelecimento no prazo de 3 meses a contar da data da sua celebração ou quando a perca.
 
-###### Art. 15.º O explorador goza do direito de preferência na venda ou dação em cumprimento do prédio em que se situa a pedreira, nos termos dos arrendatários comerciais ou industriais.
+Art. 15.º O explorador goza do direito de preferência na venda ou dação em cumprimento do prédio em que se situa a pedreira, nos termos dos arrendatários comerciais ou industriais.
 
-###### Art. 16.º - 1 - Os processos de licenciamento que, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), sejam da competência da câmara municipal serão instruídos nos termos seguintes:
+Art. 16.º - 1 - Os processos de licenciamento que, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774), sejam da competência da câmara municipal serão instruídos nos termos seguintes:
 
 a) Requerimento, dirigido ao presidente da câmara, feito em papel selado com duas cópias, sendo uma selada;
 
@@ -226,7 +238,7 @@ c) Ao requerimento devem ser juntos os seguintes elementos:
 
 3 - Salvo motivo justificado, quando a câmara municipal fixar prazo, a falta de apresentação, em tempo, dos elementos solicitados anula todos os efeitos de entrega do requerimento.
 
-###### Art. 17.º - 1 - Os processos de licenciamento que sejam, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774) e do n.º 2 do artigo 1.º do presente regulamento, da competência da Direcção-Geral serão instruídos da seguinte forma:
+Art. 17.º - 1 - Os processos de licenciamento que sejam, nos termos do n.º 3 do artigo 14.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774) e do n.º 2 do artigo 1.º do presente regulamento, da competência da Direcção-Geral serão instruídos da seguinte forma:
 
 a) O requerimento deverá ser dirigido ao director-geral de Geologia e Minas e apresentado nos serviços regionais da Direcção-Geral, em papel selado, acompanhado de duas cópias, sendo uma selada;
 
@@ -268,7 +280,7 @@ Cortes longitudinais e transversais e plantas do plano de lavra a adoptar, na es
 
 3 - A Direcção-Geral, quando solicite elementos ao requerente nos termos do número anterior, poderá fixar um prazo para a sua apresentação, findo o qual, se os elementos pedidos não forem apresentados, se anulam todos os efeitos da entrega do requerimento.
 
-###### Art. 18.º - 1 - No acto de entrega do requerimento referido no n.º 1 do artigo 16.º e no n.º 1 do artigo 17.º, a câmara municipal ou os serviços regionais da Direcção-Geral deverão exarar recibo na cópia selada do requerimento e devolvê-la ao requerente. A data do recibo representará, para todos os efeitos, a data de entrega.
+Art. 18.º - 1 - No acto de entrega do requerimento referido no n.º 1 do artigo 16.º e no n.º 1 do artigo 17.º, a câmara municipal ou os serviços regionais da Direcção-Geral deverão exarar recibo na cópia selada do requerimento e devolvê-la ao requerente. A data do recibo representará, para todos os efeitos, a data de entrega.
 
 2 - A cópia não selada e os triplicados serão imediatamente enviados aos serviços regionais da Direcção-Geral, no caso do artigo 16.º, ou à câmara municipal, no caso do artigo 17.º
 
@@ -282,19 +294,19 @@ Cortes longitudinais e transversais e plantas do plano de lavra a adoptar, na es
 
 7 - Da recusa da licença pela câmara municipal ou pela Direcção-Geral pode o interessado recorrer para a assembleia municipal ou para o ministro competente no prazo de 30 dias a contar da notificação dessa recusa ou do termo do prazo referido no n.º 5.
 
-###### Art. 19.º Sempre que seja tomada decisão sobre o pedido de licença de estabelecimento, a entidade que a tomar deverá informar a câmara municipal do concelho ou a Direcção-Geral, conforme os casos, indicando o nome do requerente e, no caso da concessão de licença, a natureza da massa mineral a explorar, juntando também cópia da planta que defina a sua localização.
+Art. 19.º Sempre que seja tomada decisão sobre o pedido de licença de estabelecimento, a entidade que a tomar deverá informar a câmara municipal do concelho ou a Direcção-Geral, conforme os casos, indicando o nome do requerente e, no caso da concessão de licença, a natureza da massa mineral a explorar, juntando também cópia da planta que defina a sua localização.
 
-###### Art. 20.º - 1 - Os trabalhos de exploração de uma pedreira devem ser dirigidos por pessoa de idoneidade reconhecida pela entidade licenciadora.
+Art. 20.º - 1 - Os trabalhos de exploração de uma pedreira devem ser dirigidos por pessoa de idoneidade reconhecida pela entidade licenciadora.
 
 2 - O técnico responsável pela exploração de pedreiras cujos processos de licenciamento sejam da competência da Direcção-Geral deverá ser cidadão português, diplomado em especialidade adequada por uma escola superior ou pessoa não diplomada com prática de, pelo menos, 10 anos em explorações.
 
-###### Art. 21.º - 1 - Sempre que se verifique mudança da pessoa que assegure a direcção dos trabalhos, deverá a mesma ser declarada à entidade licenciadora no prazo de 30 dias.
+Art. 21.º - 1 - Sempre que se verifique mudança da pessoa que assegure a direcção dos trabalhos, deverá a mesma ser declarada à entidade licenciadora no prazo de 30 dias.
 
 2 - A declaração deverá ser feita em triplicado, sendo o original e duplicado em papel selado e acompanhado de novo termo de responsabilidade, quando exigido.
 
 3 - O duplicado, devidamente autenticado, será devolvido ao explorador, que o conservará no local da pedreira.
 
-###### Art. 22.º - 1 - Os agrupamentos complementares de empresas que se constituam tendo por objecto a realização de interesses comuns, como tal reconhecidos pela Direcção-Geral, respeitantes, nomeadamente, a:
+Art. 22.º - 1 - Os agrupamentos complementares de empresas que se constituam tendo por objecto a realização de interesses comuns, como tal reconhecidos pela Direcção-Geral, respeitantes, nomeadamente, a:
 
 a) Esgotos;
 
@@ -318,7 +330,7 @@ deverão constituir-se de acordo com a legislação aplicável a esta figura e g
 
 2 - A Direcção-Geral prestará assistência na solução de problemas técnicos ligados à actividade dos agrupamentos constituídos, ou a constituir, para a realização de interesses comuns por ela reconhecidos.
 
-###### Art. 23.º - 1 - A exploração a céu aberto pode ser feita:
+Art. 23.º - 1 - A exploração a céu aberto pode ser feita:
 
 a) Por degraus direitos;
 
@@ -332,7 +344,7 @@ b) Por arranques de pequenas ou grandes massas.
 
 3 - A execução de solinhos é, em princípio, proibida e só excepcionalmente poderá ser autorizada pela Direcção-Geral, a requerimento do explorador e quando se entenda que as razões alegadas para o pedido o justificam.
 
-###### Art. 24.º A exploração por degraus direitos, sempre que não seja de exigir plano de lavra, far-se-á tendo em vista as seguintes condições:
+Art. 24.º A exploração por degraus direitos, sempre que não seja de exigir plano de lavra, far-se-á tendo em vista as seguintes condições:
 
 1.ª As dimensões dos degraus devem ser estabelecidas de forma a permitir manobrar com segurança e a evitar acidentes;
 
@@ -340,9 +352,9 @@ b) Por arranques de pequenas ou grandes massas.
 
 3.ª Só devem retomar-se os trabalhos de arranque num dado degrau depois de retirados os escombros provenientes do arranque anterior, de forma a deixar limpos os pisos que o servem.
 
-###### Art. 25.º Enquanto durar a exploração é obrigatória a instalação de sinalização adequada anunciando a aproximação dos trabalhos, devendo a parte superior da frente de desmonte ser convenientemente protegida por vedação de características apropriadas às condições do lugar.
+Art. 25.º Enquanto durar a exploração é obrigatória a instalação de sinalização adequada anunciando a aproximação dos trabalhos, devendo a parte superior da frente de desmonte ser convenientemente protegida por vedação de características apropriadas às condições do lugar.
 
-###### Art. 26.º - 1 - Até ao final do mês de Janeiro de cada ano, deverão os exploradores de pedreiras enviar à Direcção-Geral o mapa estatístico relativo ao ano anterior, elaborado de acordo com o modelo aprovado.
+Art. 26.º - 1 - Até ao final do mês de Janeiro de cada ano, deverão os exploradores de pedreiras enviar à Direcção-Geral o mapa estatístico relativo ao ano anterior, elaborado de acordo com o modelo aprovado.
 
 2 - Para além do mapa estatístico referido no número anterior, deverão ainda enviar, até ao final de Fevereiro de cada ano, relatório técnico elaborado e assinado pela pessoa que dirige os trabalhos de lavra, do qual deverão constar os elementos bastantes para se apreciar o progresso dos trabalhos, designadamente a produção alcançada, a mão-de-obra e meios mecânicos utilizados, os explosivos e energia consumidos.
 
@@ -352,13 +364,13 @@ b) Por arranques de pequenas ou grandes massas.
 
 5 - Todos os elementos facultados pelos exploradores à Direcção-Geral são confidenciais.
 
-###### Art. 27.º - 1 - Aos exploradores de pedreiras e pessoas que dirigem os trabalhos compete tomar as providências adequadas para garantia de segurança de pessoas empregadas ou não nesses trabalhos e preservação de bens que possam ser afectados pela exploração.
+Art. 27.º - 1 - Aos exploradores de pedreiras e pessoas que dirigem os trabalhos compete tomar as providências adequadas para garantia de segurança de pessoas empregadas ou não nesses trabalhos e preservação de bens que possam ser afectados pela exploração.
 
 2 - Os exploradores de pedreiras e pessoas que dirigem os trabalhos são solidariamente responsáveis pelos prejuízos causados por falta de aplicação das regras de arte na execução dos trabalhos de exploração.
 
-###### Art. 28.º A Direcção-Geral poderá ordenar a execução de trabalhos ou medidas para garantia de segurança de explorações.
+Art. 28.º A Direcção-Geral poderá ordenar a execução de trabalhos ou medidas para garantia de segurança de explorações.
 
-###### Art. 29.º - 1 - Quando a pedreira for abandonada, caduca a licença de estabelecimento.
+Art. 29.º - 1 - Quando a pedreira for abandonada, caduca a licença de estabelecimento.
 
 2 - Considera-se haver abandono da pederira sempre que o explorador declare esse abandono à entidade licenciadora ou a respectiva exploração se encontre interrompida, salvo motivo justificado, como tal reconhecido pela Direcção-Geral, ou quando o explorador provar que o período de interrupção de trabalhos é inferior a 6 meses consecutivos.
 
@@ -368,17 +380,17 @@ b) Por arranques de pequenas ou grandes massas.
 
 5 - Se a Direcção-Geral não considerar a interrupção justificada ou não aceitar a prova de que teve duração inferior a 6 meses consecutivos, caduca a licença de estabelecimento, o que a mesma Direcção-Geral deverá comunicar ao explorador e à câmara municipal do concelho em que se situa a pedreira.
 
-###### Art. 30.º - 1 - Quando o explorador de uma pedreira pretenda abandonar a sua exploração, deverá comunicá-lo por escrito à entidade licenciadora e devolver a esta os documentos comprovativos da licença de estabelecimento na data em que se dê o abandono.
+Art. 30.º - 1 - Quando o explorador de uma pedreira pretenda abandonar a sua exploração, deverá comunicá-lo por escrito à entidade licenciadora e devolver a esta os documentos comprovativos da licença de estabelecimento na data em que se dê o abandono.
 
 2 - Quando a fiscalização reconheça a existência de pedreira abandonada de facto sem que haja sido dado cumprimento ao disposto no número anterior, deverá informar a entidade licenciadora, que notificará o explorador para executar as medidas de segurança e recuperação paisagística, fixando prazo razoável para o efeito.
 
 3 - Sempre que o explorador não cumpra o determinado, poderá a entidade licenciadora, independentemente da aplicação de sanções, promover a execução das medidas de segurança e recuperação paisagística, debitando-o pelo respectivo custo.
 
-###### Art. 31.º - 1 - A autorização para o emprego de pólvora e explosivos na lavra de pedreiras deverá ser obtida nos termos da legislação em vigor, sendo sempre indispensável o parecer favorável da entidade licenciadora, sem o qual serão feridas de nulidade quaisquer licenças eventualmente concedidas.
+Art. 31.º - 1 - A autorização para o emprego de pólvora e explosivos na lavra de pedreiras deverá ser obtida nos termos da legislação em vigor, sendo sempre indispensável o parecer favorável da entidade licenciadora, sem o qual serão feridas de nulidade quaisquer licenças eventualmente concedidas.
 
 2 - No emprego de pólvora e explosivos deverá observar-se o disposto na legislação e normas técnicas em vigor.
 
-###### Art. 32.º - 1 - A exploração das pedreiras será sujeita a fiscalização da Direcção-Geral, que requisitará, sempre que seja necessário, a cooperação das autoridades municipais e policiais, que lhe deverão prestar pronto auxílio.
+Art. 32.º - 1 - A exploração das pedreiras será sujeita a fiscalização da Direcção-Geral, que requisitará, sempre que seja necessário, a cooperação das autoridades municipais e policiais, que lhe deverão prestar pronto auxílio.
 
 2 - Independentemente da requisição expressa a que se refere o número anterior, as autoridades municipais e policiais deverão:
 
@@ -388,7 +400,7 @@ b) Dirigir-se, com toda a urgência, ao local da pedreira quando lhes conste, pe
 
 3 - Quando verificarem qualquer transgressão, deverão as autoridades referidas no número anterior levantar auto de notícia, que será enviado à entidade competente para aplicar a correspondente sanção.
 
-###### Art. 33.º - 1 - O técnico que fizer a inspecção, quando encontre deficiências ou faltas, consigná-las-á em auto de notícia, do qual fará constar também as advertências e recomendações que tenha dirigido ao explorador ou pessoa que dirige os trabalhos, com vista ao regular andamento da exploração, indicando as disposições legais ou instruções técnicas ofendidas, quando for caso disso.
+Art. 33.º - 1 - O técnico que fizer a inspecção, quando encontre deficiências ou faltas, consigná-las-á em auto de notícia, do qual fará constar também as advertências e recomendações que tenha dirigido ao explorador ou pessoa que dirige os trabalhos, com vista ao regular andamento da exploração, indicando as disposições legais ou instruções técnicas ofendidas, quando for caso disso.
 
 2 - O auto será assinado conjuntamente pelo técnico e pelo explorador ou pessoa que dirige os trabalhos, e o primeiro fará entrega de uma cópia ao segundo.
 
@@ -398,7 +410,7 @@ b) Dirigir-se, com toda a urgência, ao local da pedreira quando lhes conste, pe
 
 As autoridades municipais e policiais prestarão prontamente todos os auxílios que a fiscalização técnica reclamar para se evitar o perigo ou para se dar cumprimento às suas prescrições.
 
-###### Art. 34.º Os exploradores das pedreiras são obrigados a facultar aos agentes da fiscalização:
+Art. 34.º Os exploradores das pedreiras são obrigados a facultar aos agentes da fiscalização:
 
 a) A visita a todos os trabalhos, dependências e acesórios da lavra;
 
@@ -408,13 +420,13 @@ c) O pessoal e os meios técnicos necessários para o cabal desempenho da sua fu
 
 d) Todos os esclarecimentos relativos à exploração que lhes sejam pedidos.
 
-###### Art. 35.º - 1 - Quando a Direcção-Geral verifique que, para além das recomendações da fiscalização, são ainda necessárias medidas especiais de segurança na lavra da pedreira, ou que o explorador não está executando devidamente os trabalhos ou planos aprovados, notificá-lo-á, por carta registada com aviso de recepção, para tomar as medidas necessárias ou se conformar com os trabalhos ou planos aprovados, fixando, para tanto, um prazo razoável.
+Art. 35.º - 1 - Quando a Direcção-Geral verifique que, para além das recomendações da fiscalização, são ainda necessárias medidas especiais de segurança na lavra da pedreira, ou que o explorador não está executando devidamente os trabalhos ou planos aprovados, notificá-lo-á, por carta registada com aviso de recepção, para tomar as medidas necessárias ou se conformar com os trabalhos ou planos aprovados, fixando, para tanto, um prazo razoável.
 
 2 - O explorador poderá, no prazo de 10 dias a contar da data da notificação, apresentar reclamação, que terá efeito suspensivo e será decidida pelo ministro competente, devendo ser ouvida a Direcção-Geral, que prestará parecer.
 
 3 - A Direcção-Geral poderá, sempre que tal se justifique por razões de segurança, e sem prejuízo da aplicação de pena de multa, se a ela houver lugar, impor a suspensão da lavra até que sejam cumpridas as medidas necessárias para repor as condições de segurança exigíveis.
 
-###### Art. 36.º - 1 - Quando tenha ocorrido qualquer acidente numa pedreira de que resultem mortes ou ferimentos graves ou ainda danos materiais vultosos, o explorador ou quem o represente no local do desastre é obrigado a dar imediatamente parte da ocorrência à Direcção-Geral e à autoridade municipal ou policial mais próxima, para serem tomadas, desde logo, as providências que o caso reclamar, descrevendo pormenorizadamente o trabalho que se estava a realizar e as possíveis causas do acidente.
+Art. 36.º - 1 - Quando tenha ocorrido qualquer acidente numa pedreira de que resultem mortes ou ferimentos graves ou ainda danos materiais vultosos, o explorador ou quem o represente no local do desastre é obrigado a dar imediatamente parte da ocorrência à Direcção-Geral e à autoridade municipal ou policial mais próxima, para serem tomadas, desde logo, as providências que o caso reclamar, descrevendo pormenorizadamente o trabalho que se estava a realizar e as possíveis causas do acidente.
 
 2 - A fiscalização técnica visitará o local o mais rapidamente possível, a fim de proceder ao respectivo inquérito, procurando determinar as circunstâncias e causas do acidente, e elaborará o seu relatório.
 
@@ -422,7 +434,7 @@ d) Todos os esclarecimentos relativos à exploração que lhes sejam pedidos.
 
 4 - O explorador deverá tomar as providências necessárias para assegurar aos seus operários vítimas de acidentes de trabalho o conveniente e imediato tratamento.
 
-###### Art. 37.º - 1 - O valor das taxas referidas no n.º 1 do artigo 19.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774) é o seguinte:
+Art. 37.º - 1 - O valor das taxas referidas no n.º 1 do artigo 19.º do [Decreto-Lei n.º 227/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1982-395774) é o seguinte:
 
 a) Pedido de licença de estabelecimento:
 
@@ -442,14 +454,14 @@ e) Pedido de alteração de zona de defesa que afecte a pedreira - 6000$00.
 
 2 - O pagamento das taxas referidas no n.º 1 será efectuado por meio de guias, a depositar pelos interessados nos cofres do Tesouro e passadas pela entidade licenciadora, a quem serão imputadas as respectivas receitas.
 
-###### Art. 38.º As dúvidas que se suscitem na interpretação ou aplicação do presente decreto serão resolvidas por despacho do ministro competente.
+Art. 38.º As dúvidas que se suscitem na interpretação ou aplicação do presente decreto serão resolvidas por despacho do ministro competente.
 
-###### Art. 39.º O presente decreto entra imediatamente em vigor.
+Art. 39.º O presente decreto entra imediatamente em vigor.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - Ricardo Manuel Simões Bayão Horta.
 
-**Promulgado em 6 de Outubro de 1982.**
+Promulgado em 6 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

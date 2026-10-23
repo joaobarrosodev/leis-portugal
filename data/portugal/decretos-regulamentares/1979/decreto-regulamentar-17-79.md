@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1979-382861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89c421b7da19e3e0def6b12e230ffff9d06cb38fd46dfdae85a5b5abee3a90f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6bdab19222280dd8b204b75b3bcfd30489213db71215d77acb293c430d3c21d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Integração de Trabalhadores
+relationships:
+- type: cites
+  target: pt:dre:307219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:39Z'
   warnings: []
   errors: []
 ---
@@ -135,20 +157,20 @@ O tempo de serviço prestado no Grémio adido aos quadros da AGPL será contado 
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 16 de Abril de 1979.**
+Promulgado em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa de equivalências
 
 1 - Pessoal a integrar no quadro aprovado pelo [Decreto-Lei n.º 519/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1975-307219), de 22 de Setembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf)
 
 2 - Pessoal a integrar no quadro aprovado no [Decreto n.º 899/76](https://diariodarepublica.pt/dr/detalhe/decreto/899-1976-416452), de 30 de Dezembro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10100/08180819.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.**
+O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.

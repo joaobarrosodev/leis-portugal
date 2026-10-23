@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/651-1974-472888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35ea81eaa4fc6f6754eda751ad770218ba26988c37089cdba4f0d19f488d311d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81e8132b5da9010cfac5afa743a34d00a202ef19bee394f9c5eae69ed133b873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:160754:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:288203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:32Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +100,9 @@ Na sequência das medidas de revisão do estatuto do pessoal das instituições 
 
 Nestes termos, manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado da Segurança Social:
 
-###### Artigo 1.º São revogadas as tabelas a que se refere o artigo 120.º do Estatuto do Pessoal do Serviço Social e em sua substituição são fixadas as que constam do anexo a esta portaria, que dela faz parte integrante.
+Artigo 1.º São revogadas as tabelas a que se refere o artigo 120.º do Estatuto do Pessoal do Serviço Social e em sua substituição são fixadas as que constam do anexo a esta portaria, que dela faz parte integrante.
 
-###### Art. 2.º É alterada a redacção do n.º 2 do artigo 128.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
+Art. 2.º É alterada a redacção do n.º 2 do artigo 128.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
 
 ###### ARTIGO 128.º
 
@@ -102,21 +110,21 @@ Nestes termos, manda o Governo Provisório da República Portuguesa, pelo Secret
 
 2. As instituições de previdência abrangidas pelo presente Estatuto, em caso de acidente de trabalho ou doença profissional por que sejam responsáveis, pagarão aos seus trabalhadores a diferença entre a percentagem das remunerações estabelecidas para as respectivas categorias, correspondentes à sua desvalorização, e as indemnizações devidas nos termos da legislação em vigor.
 
-###### Art. 3.º É alterada a tabela incluída no artigo 134.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
+Art. 3.º É alterada a tabela incluída no artigo 134.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf))](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf)
 
-###### Art. 4.º É alterada a redacção do artigo 141.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
+Art. 4.º É alterada a redacção do artigo 141.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
 
 ###### ARTIGO 141.º — (Transporte em veículo próprio em geral)
 
 Em caso de comprovada conveniência para o serviço, designadamente havendo urgência na deslocação ou quando a mesma não possa ser feita nas horas devidas ou implique demoras inconvenientes e não possam ser utilizados os veículos de serviço das instituições, poderá o pessoal ser autorizado pelas direcções respectivas a utilizar veículo próprio, com direito ao abono de um subsídio de 3$00 por quilómetro.
 
-###### Art. 5.º A epígrafe da secção IV do capítulo VII do Estatuto do Pessoal do Serviço Social é substituída pela seguinte:
+Art. 5.º A epígrafe da secção IV do capítulo VII do Estatuto do Pessoal do Serviço Social é substituída pela seguinte:
 
 #### SECÇÃO IV — Subsídios de Natal e prémios
 
-###### Art. 6.º É alterada a redacção do artigo 142.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
+Art. 6.º É alterada a redacção do artigo 142.º do Estatuto do Pessoal do Serviço Social na forma seguinte:
 
 ###### ARTIGO 142.º
 
@@ -124,16 +132,16 @@ Em caso de comprovada conveniência para o serviço, designadamente havendo urg�
 
 2. O pessoal do Serviço Social ao serviço das instituições de previdência abrangidas pelo presente Estatuto que em 31 de Dezembro de cada ano ainda não tiver completado um ano de serviço receberá pelo Natal um subsídio de valor correspondente a tantos duodécimos da retribuição mensal quantos os meses de serviço prestado.
 
-###### Art. 7.º - 1. A tabela de remunerações anexa ao presente diploma vigora a partir de 1 de Julho de 1974.
+Art. 7.º - 1. A tabela de remunerações anexa ao presente diploma vigora a partir de 1 de Julho de 1974.
 
 2. A tabela constante do artigo 3.º, bem como o subsídio referido no artigo 4.º, vigoram a partir de 1 de Setembro de 1974.
 
 3. Os aumentos estabelecidos para as actuais remunerações iguais ou superiores a 7500$00 mensais consideram-se suspensos nos termos do n.º 1 do artigo 4.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio, e artigo 1.º do [Decreto-Lei n.º 347/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1974-288203), de 30 de Julho, até à entrada em vigor do diploma legal que reveja esse condicionalismo.
 
-###### Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Segurança Social.
+Art. 8.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Segurança Social.
 
 Secretaria de Estado da Segurança Social, 13 de Setembro de 1974. - O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf))](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/23500/11931194.pdf)
 
-**O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.**
+O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.

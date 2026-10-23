@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/2000/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2000-319954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79ee7cfeb31a093829543787f339426db5a12c0de9eb0acb50d3a19fbb7df17b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b1109ebd270681891a1b068f22f44f534895265c0976ac89b0babc81fc79ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Formação Profissional
 - Dação em Cumprimento
 - Delegação de Competências
 - Dotação Orçamental
 - Execução do Orçamento
+- Formação Profissional
 - Instituto de Gestão Financeira da Segurança Social
 - Orçamento da Segurança Social
 - Piddac
@@ -108,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:209270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:24Z'
   warnings: []
   errors: []
 ---
@@ -288,15 +320,15 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 30 de Junho de 2000.**
+Promulgado em 30 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Orçamento da segurança social - 2000
 
@@ -304,7 +336,7 @@ Receitas
 
 Continente e Regiões Autónomas
 
-[(ver orçamento no documento original)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)
+[[(ver orçamento no documento original)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)
 
 ## ANEXO II — Orçamento da segurança social - 2000
 
@@ -312,4 +344,4 @@ Despesas
 
 Continente e Regiões Autónomas
 
-[(ver orçamento no documento original)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)
+[[(ver orçamento no documento original)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)](https://files.diariodarepublica.pt/1s/2000/07/161a00/31843191.pdf)

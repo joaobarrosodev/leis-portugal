@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/646-1970-146680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cb7112557426b4279098818f8cf34e1cc389d99cdec7a24bdc7e4131edf15a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d094ca91f2ac434d9ff57c301b38c8a7d404653bbfc8838373e9a45cd79f97e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:444742:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:58Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +134,4 @@ c) Ter boa informação actualizada, passada pelo comandante da companhia, bater
 
 7.º Os segundos-sargentos contra os quais se esteja a proceder a auto de corpo de delito, processo de averiguações ou tenham pendente processo criminal ou disciplinar poderão ser promovidos se o Ministro do Exército assim o entender, por verificar que a matéria do auto ou processo não põe em dúvida o bom comportamento e as qualidades morais e profissionais dos interessados.
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

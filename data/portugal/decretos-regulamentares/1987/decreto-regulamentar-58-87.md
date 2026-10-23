@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1987-417628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74d39adc0673bab780d0367f3b658ec324c366b9fac8a19b29cbc5137a6430e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71a3dfb5fbb4ee72adeb5a917c421e438e0d4afdc268a552934c114bebcd27a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Garantia Agrícola
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:376841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:189341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520828:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:376841:por
+  label: Revogado pelo DEC LEI.282/88.12.08.1988.MAPA, DR.IS [186] de 12.08.1988, com excepção do quadro anexo e do seu art.
+    4º, que se manterão em vigor até à publicação da portaria referida no nº 2 do art. 3º daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/282-1988-376841
+  date: '1988-08-12'
 article_structure:
-  article_count: 7
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:22Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +125,7 @@ Ao abrigo do artigo 5.º do [Decreto-Lei n.º 96/86](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos a seguir indicados e as subsecções II, III, IV e VI do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos a seguir indicados e as subsecções II, III, IV e VI do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — Serviços
 
@@ -157,7 +181,9 @@ a) Divisão de Auditoria Interna, à qual incumbe, em geral, o controle autónom
 
 b) Divisão de Controle Externo, à qual incumbe, em geral, o controle autónomo, prévio ou a posteriori de outras entidades públicas, nomeadamente dos organismos de intervenção, ou privadas, das contabilidades e processos de recepção, transformação, fabrico e armazenagem, de todos os bens que sejam objecto, directa ou indirectamente, de intervenção financeira do INGA, articuladamente com os controles que, em termos nacionais ou comunitários, possam ser efectuados pela Inspecção-Geral de Finanças e pelo Tribunal de Contas.
 
-##### SUBSECÇÃO VI — Divisão de Apoio Técnico
+##### SUBSECÇÃO VI
+
+##### Divisão de Apoio Técnico
 
 ###### Artigo 10.º — Competências
 
@@ -175,26 +201,26 @@ b) Em categoria correspondente às funções que os funcionários desempenham, r
 
 3 - ...
 
-###### Art. 2.º É revogada a subsecção VII do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho.
+Art. 2.º É revogada a subsecção VII do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho.
 
-###### Art. 3.º Os artigos 12.º a 32.º do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam, respectivamente, a ter os n.os 11.º a 31.º
+Art. 3.º Os artigos 12.º a 32.º do [Decreto Regulamentar n.º 24-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1986-520828), de 30 de Julho, passam, respectivamente, a ter os n.os 11.º a 31.º
 
-###### Art. 4.º O quadro de pessoal do INGA passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 4.º O quadro de pessoal do INGA passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 23 de Julho de 1987.**
+Promulgado em 23 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1987.**
+Referendado em 29 de Julho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo referido no artigo 4.º
+Anexo referido no artigo 4.º
 
 Quadro de pessoal do Instituto Nacional de Garantia Agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf))](https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/08/18800/32263228.pdf)

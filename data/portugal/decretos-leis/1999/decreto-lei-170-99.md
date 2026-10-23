@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/116a00/26702677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1999-323949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a19a82c4a79cb4bcde3c6097aaef8d77017b35b55706d7fa251eafc14d850e9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df9e36449f16640bb51742097ff10146e675cbc0b285984fbd45e08d79aa9865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,71 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Sociedade Anónima
-- Fiscal Único
 - Capital Social
 - Conselho de Administração
 - Conselho Editorial
 - Conselho Numismático
 - Estatuto
+- Fiscal Único
 - Imprensa Nacional-Casa da Moeda
 - Museu Numismático Português
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:70686126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645764:por
+  label: "Determinado que a partir de 15 de Setembro de 2003, a 1.ª série do Diário da Assembleia da República passe a ser\
+    \ exclusivamente disseminada em formato electrónico através do portal da Assembleia da República em contraposição ao estatuído\
+    \ na al. b) do art. 3º do presente diploma, pela RES.68/2003.03.07.2003.AR, DR.IS-A [181] de 07.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/68-2003-645764
+  date: '2003-07-03'
+- type: amended_by
+  target: pt:dre:242049:por
+  label: "Determinado nos termos do art. 1.º que a Caixa Geral de Aposentações (CGA) cujo regime jurídico foi estabelecido\
+    \ pelo Dec Lei 377/93, de 10-Ago DR.IS-A [186] passe a ser responsável pelos encargos com aposentação pelo pessoal da\
+    \ Imprensa Nacional-Casa da Moeda cujos estatutos foram aprovados pelo presente diploma, pelo DEC LEI.240-D/2004.29.12.2004.MFAP,\
+    \ DR.IS-A [303-Supl] de 29.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-d-2004-242049
+  date: '2004-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/1998/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/1998/02/18/p/dre
+- type: cites
+  target: pt:dre:209664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674416:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70686126:por
+  label: Revogado, a partir de 15.10.2015, pelo(a) Decreto-Lei n.º 235/2015 - Diário da República n.º 201/2015, Série I de
+    2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2015-70686126
+  date: '2015-10-14'
 article_structure:
   article_count: 41
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:05Z'
   warnings: []
   errors: []
 ---
@@ -246,15 +283,15 @@ O presente diploma produz efeitos desde o dia 1 de Janeiro de 1999.
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 4 de Maio de 1999.**
+Promulgado em 4 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DA IMPRENSA NACIONAL-CASA DA MOEDA, S. A.
 

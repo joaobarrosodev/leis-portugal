@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13200/0473504740.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2015/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2015-69773247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902263df74e19f337063776969517ec10c229684bedcf688c7a4ed566b3e4fbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc119f0d3466bd9af4e34ba0f45c85f96d40ce6a0e8743952f590acebc66da74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Assistência Técnica
 - Auditoria Contabilística
 - Autoridade Tributária e Aduaneira
 - Certificação Electrónica
-- Multa
-- Comissão Interministerial
-- Entidade Certificadora
+- Comércio
 - Comércio Externo
+- Comissão Interministerial
 - Contra-ordenação
+- Crime
 - Definição de Competências
-- Imprensa Nacional-Casa da Moeda
+- Documento Eletrónico
+- Entidade Certificadora
+- Exportação
 - Fiscalização
 - Formulário Eletrónico
+- Imprensa Nacional-Casa da Moeda
 - Licenciamento
-- Documento Eletrónico
+- Multa
 - Países Terceiros
-- Sanção Penal
 - Pessoa Coletiva
-- Transporte de Mercadorias
-- Exportação
 - Prestação de Serviços
 - Regulamento CE
 - Responsabilidade Criminal
+- Sanção Penal
 - Sistema de Informações da República Portuguesa
-- Comércio
 - Transacção Intracomunitária
+- Transporte de Mercadorias
 - Troca Intracomunitária
 relationships:
 - type: cites
@@ -137,16 +137,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:50Z'
   warnings: []
   errors: []
 ---
@@ -487,12 +527,12 @@ b) 40 % para a entidade competente para a instrução dos processos de contraord
 
 Visto e aprovado em Conselho de Ministros de 7 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - António de Magalhães Pires de Lima.
 
-**Promulgado em 30 de junho de 2015.**
+Promulgado em 30 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de julho de 2015.**
+Referendado em 3 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

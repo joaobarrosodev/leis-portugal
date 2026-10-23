@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/182b00/47504752.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2003/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2003-647089
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46e229b309645374f899a0cde1f25687ba52f4182a351db384355f834fe44951
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3bdaab71dd0ba73f72f97c808993fca1930e44873818823a8b0d42e3767a81c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,65 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Transportes Terrestres
-- Licenciamento
-- Veículo
 - Licença de Transporte
+- Licenciamento
 - Prestação de Serviços
 - TAXA de Prestação de Serviços
 - Transporte de Passageiros
 - Transporte Internacional
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:444176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287638:por
+  label: "Alterado anexo ao presente diploma pelo DR.5/2006.30.05.2006.MOPTC, DR.IS-B [104] de 30.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2006-287638
+  date: '2006-05-30'
+- type: amended_by
+  target: pt:dre:521039:por
+  label: "Alterado o anexo do presente diploma, com a redacção dada pelo DR 5/2006 de 30-Mai, pelo DR.43/2007.26.04.2007.MOPTC,\
+    \ DR.IS [81] de 26.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-2007-521039
+  date: '2007-04-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1994/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1994/11/17/p/dre
+- type: cites
+  target: pt:dre:325518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534618:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444176:por
+  label: "Revogado o presente diploma a partir de 13.12.2008, com as alterações constantes dos DR 5/2006 de 30-Mai e 43/2007\
+    \ de 26-Abr, pelo DEC LEI.236/2008.12.12.2008.MOPTC, DR.IS [240] de 12.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2008-444176
+  date: '2008-12-12'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:23Z'
   warnings: []
   errors: []
 ---
@@ -142,15 +175,15 @@ h) Despacho conjunto n.º 618/2002, de 6 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Tabela de taxas da Direcção-Geral de Transportes Terrestres
 

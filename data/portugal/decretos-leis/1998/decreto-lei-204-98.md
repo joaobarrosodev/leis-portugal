@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/158a00/32683276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd7f951bb580bc9f1a3cd3b9cadf4d8b0a13dad40f8de069ad3aa2289412782f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd1da5145e374c88c28f54efa622576470f14b102a34c6d174d44034f0fed98d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Açores
 - Administração Central
-- Função Pública
-- Região Autónoma
-- Concurso
+- Administração Local
 - Administração Pública
+- Administração Regional
+- Concurso
 - Exame Psicológico
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Madeira.região Autónoma
-- Administração Local
-- Regime Jurídico
+- Função Pública
 - Funcionário Público
-- Administração Regional
-- Açores
+- Madeira.região Autónoma
+- Recrutamento de Pessoal
+- Recurso
+- Região Autónoma
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:905997620:por
@@ -93,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10/1998/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10/1998/02/18/p/dre
+- type: cites
+  target: pt:dre:209663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431792:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 54
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:36Z'
   warnings: []
   errors: []
 ---
@@ -703,12 +721,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Abril de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Maria Rebelo Pires Gago.
 
-**Promulgado em 18 de Junho de 1998.**
+Promulgado em 18 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Junho de 1998.**
+Referendado em 30 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

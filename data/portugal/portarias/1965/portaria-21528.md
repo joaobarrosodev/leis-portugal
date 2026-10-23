@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21528-1965-509846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10b56bef293f6c3a4d59ee111e8fca8d69c7ad5df06900db8ee96f4efd72040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76e1e0d20d3a3fd34ce32fc20bc555bda427c8d5e4ace94c75aaaaed2cb464ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:407893:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:59Z'
   warnings: []
   errors: []
 ---
@@ -95,6 +99,6 @@ S. M. - Modelo C. I. 2 - Relação dos contribuintes por ordem numérica (rostos
 
 Ministério das Finanças, 14 de Setembro de 1965. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/09/20800/12081210.pdf))](https://files.diariodarepublica.pt/1s/1965/09/20800/12081210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/09/20800/12081210.pdf)
 
 Ministério das Finanças, 14 de Setembro de 1965. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.

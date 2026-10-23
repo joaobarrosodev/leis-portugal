@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2012/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2012-552809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e796ec584a29b3aa09beaf6ad4462b781322e4cc0592ab3b3e8b442a773d877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d73137cfb546e1f431d3a261c0ffd34598eaa76a19527723d252d63f4bb5061
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,24 +73,30 @@ subjects:
 - Acidente de Transporte
 - Acreditação
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Multa
 - Construção Naval
 - Contra-ordenação
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
 - Embarcação de ALTA Velocidade
-- Segurança das Embarcações
 - Equipamento
 - Fiscalização
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Multa
+- Segurança das Embarcações
 - Segurança Marítima
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:108323926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108323926:por
+  label: Alterados os arts. 11.º e 19.º e o anexo I do Dec Lei 293/2001 de 20-nov, na versão republicada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 134/2017 - Diário da República n.º 202/2017, Série I de 2017-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2017-108323926
+  date: '2017-10-19'
 - type: cites
   target: celex:31994L0057
   label: null
@@ -120,15 +126,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2010/36/oj
 article_structure:
-  article_count: 45
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:12Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +199,9 @@ g) ...
 
 h) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -257,7 +265,9 @@ dd) 'Idade' a idade do navio, expressa em número de anos após a data de entreg
 
 ee) 'Passageiro com mobilidade reduzida' qualquer pessoa com dificuldades específicas na utilização dos transportes públicos, incluindo pessoas de idade, pessoas com deficiências sensoriais e utilizadores de cadeiras de rodas, mulheres grávidas e pessoas com crianças de colo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -273,7 +283,9 @@ d) ...
 
 3 - Relativamente às embarcações de passageiros de alta velocidade, aplicam-se as categorias definidas no capítulo 1 (parágrafos 1.4.10 e 1.4.11) do Código das Embarcações de Alta Velocidade de 1994 ou no capítulo 1 (parágrafos 1.4.12 e 1.4.13) do Código das Embarcações de Alta Velocidade de 2000.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -287,7 +299,9 @@ d) Os equipamentos marítimos, previstos no Decreto-Lei n.º 167/99, de 19 de ma
 
 e) Os equipamentos de navegação enumerados no Decreto-Lei n.º 167/99, de 19 de maio, alterado pelo Decreto-Lei n.º 24/2004, de 23 de janeiro, que, por sua vez, foi alterado pelos Decretos-Leis n.os 18/2009, de 15 de janeiro, e 17/2010, de 17 de março, e regulamentados pela Portaria n.º 381/2000, de 28 de junho, que cumpram os requisitos e que sejam instalados a bordo, nos termos previstos nesses instrumentos legais, são considerados conformes com as prescrições relativas à homologação constantes da regra 18.1 do capítulo V da Convenção SOLAS de 1974.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -303,7 +317,9 @@ c) As embarcações cumpram integralmente as prescrições do 'Code of Safety fo
 
 4 - ...
 
-###### Artigo 9.º — Requisitos de segurança suplementares, equivalência e isenção
+Artigo 9.º
+
+Requisitos de segurança suplementares, equivalência e isenção
 
 1 - Por portaria do membro do Governo responsável pela área do mar, podem ser adotados requisitos suplementares se se considerar que os requisitos de segurança aplicáveis devem ser melhorados em certas situações, devido a circunstâncias locais específicas, e for demonstrada tal necessidade.
 
@@ -313,7 +329,9 @@ c) As embarcações cumpram integralmente as prescrições do 'Code of Safety fo
 
 4 - A DGRM providencia a notificação da Comissão Europeia das medidas que se pretender tomar nos termos do presente artigo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A DGRM, ou os órgãos locais da Direção-Geral da Autoridade Marítima, se considerar que um navio de passageiros ou uma embarcação de passageiros de alta velocidade que efetue viagens domésticas em zonas marítimas sob soberania ou jurisdição nacional, apesar de cumprir as disposições do presente decreto-lei e da legislação complementar, cria um risco de perigo grave para a segurança da vida humana ou de bens ou para o ambiente, pode tomar medidas de salvaguarda que levem a suspender as viagens desse navio ou embarcação ou impor o cumprimento de requisitos de segurança adicionais, até que o perigo seja eliminado.
 
@@ -321,7 +339,9 @@ c) As embarcações cumpram integralmente as prescrições do 'Code of Safety fo
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -347,15 +367,21 @@ c) As embarcações cumpram integralmente as prescrições do 'Code of Safety fo
 
 12 - As taxas a cobrar pelos serviços prestados pela DGRM são estabelecidas em diploma próprio.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O não averbamento dos certificados dentro dos prazos definidos na Portaria n.º 1257/2002, de 11 de setembro, equivale, para todos os efeitos legais, à sua falta.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Os navios de passageiros e embarcações de passageiros de alta velocidade, de pavilhão estrangeiro, utilizados em viagens domésticas em zonas marítimas sob soberania ou jurisdição nacional, podem ser inspecionados e a respetiva documentação verificada pelos inspetores da DGRM.
 
-###### Artigo 19.º — Regime contraordenacional
+Artigo 19.º
+
+Regime contraordenacional
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, constituem contraordenações punidas com coima de (euro) 2 200 a (euro) 3 700, no caso de pessoas singulares, e de (euro) 10 000 a (euro) 44 000, no caso de pessoas coletivas:
 
@@ -383,11 +409,15 @@ b) 40 % para a entidade instrutora do processo.
 
 7 - Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.
 
-###### Artigo 20.º — (Revogado.)
+Artigo 20.º
 
-###### Artigo 21.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 22.º
+Artigo 21.º
+
+(Revogado.)
+
+Artigo 22.º
 
 (Revogado.)»
 
@@ -407,7 +437,9 @@ Prescrições de estabilidade e retirada de serviço de navios ro-ro de passagei
 
 2 - Os navios ou embarcações ro-ro de passageiros das classes A e B cuja quilha esteja assente ou que se encontrem em fase de construção equivalente antes de 1 de outubro de 2004 devem satisfazer as disposições constantes dos artigos 6.º, 8.º e 9.º do Decreto-Lei n.º 204/2005, de 25 de novembro, alterado pelo Decreto-Lei n.º 188/2006, de 21 de setembro, até 1 de outubro de 2010, salvo se forem retirados de serviço nessa data ou em data posterior, quando atinjam os 30 anos de idade, mas, em qualquer caso, no máximo até 1 de outubro de 2015.
 
-###### Artigo 9.º-B — Prescrições de segurança em benefício das pessoas com mobilidade reduzida
+Artigo 9.º-B
+
+Prescrições de segurança em benefício das pessoas com mobilidade reduzida
 
 1 - A DGRM assegura que são tomadas as medidas adequadas, com base, sempre que possível, nas orientações constantes do anexo II, para garantir o acesso seguro das pessoas com mobilidade reduzida a todos os navios de passageiros das classes A, B, C e D e a todas as embarcações de passageiros de alta velocidade, utilizadas para o transporte público, cuja quilha esteja assente ou que se encontrem em fase de construção equivalente a partir de 1 de outubro de 2004, inclusive.
 
@@ -435,15 +467,15 @@ São revogados os artigos 20.º a 22.º do Decreto-Lei n.º 293/2001, de 20 de n
 
 Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 2 de fevereiro de 2012.**
+Promulgado em 2 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de fevereiro de 2012.**
+Referendado em 6 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 293/2001, de 20 de novembro
 
@@ -821,7 +853,7 @@ Regras II-1/B/17-2 e II-1/B/20.
 
 ### CAPÍTULO II-1 — Construção - Subdivisão e estabilidade, máquinas e instalações elétricas
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 1 - Definições relativas à Parte B (R 2)
 
@@ -909,7 +941,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 2.16 - «Postos de controlo» são os espaços onde estão instalados os aparelhos de radiocomunicações, ou os aparelhos principais de navegação do navio, ou a fonte de energia de emergência, ou em que está centralizado o equipamento de deteção e extinção de incêndios.
 
-# PARTE A-1 — Estrutura dos navios
+## PARTE A-1 — Estrutura dos navios
 
 1 - Novas instalações de materiais que contenham amianto (R 3-5)
 
@@ -941,13 +973,13 @@ Navios das classes B, C e D, de comprimento igual ou superior a 24 m, construíd
 
 3.4 - Em cada acessório ou equipamento de que o navio seja provido em conformidade com a presente regra devem estar claramente indicadas, se as houver, as restrições à sua utilização tendo em conta a resistência das fixações à estrutura do navio.
 
-# PARTE B — Estabilidade intacta, compartimentação e estabilidade em avaria
+## PARTE B — Estabilidade intacta, compartimentação e estabilidade em avaria
 
-# PARTE B-1 — Navios construídos a partir do dia 1 de janeiro de 2009, inclusive - Aplicação facultativa da Resolução MSC.216(82)
+## PARTE B-1 — Navios construídos a partir do dia 1 de janeiro de 2009, inclusive - Aplicação facultativa da Resolução MSC.216(82)
 
 Os navios das classes B, C e D cuja quilha foi assente a partir do dia 1 de janeiro de 2009, inclusive, ou que nessa data se encontrassem em fase de construção equivalente, devem satisfazer as prescrições da parte B-2 ou, em alternativa, as prescrições aplicáveis da parte B do capítulo II-1 da Convenção SOLAS, estabelecidas no anexo 2 da Resolução MSC.216(82).
 
-# PARTE B-2 — Navios construídos antes de 1 de janeiro de 2009
+## PARTE B-2 — Navios construídos antes de 1 de janeiro de 2009
 
 1 - Estabilidade intacta
 
@@ -1153,7 +1185,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 8.3 - Para efeitos do cálculo da estabilidade em avaria, adotam-se as seguintes permeabilidades de volume e de superfície:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 Podem ser adotadas permeabilidades de superfície mais elevadas para os espaços que, na proximidade da linha de flutuação em avaria, não estejam ocupados em proporção considerável por alojamentos ou maquinaria e para os espaços que não estejam geralmente ocupados por quantidades apreciáveis de carga ou provisões.
 
@@ -1199,7 +1231,7 @@ Navios ro-ro de passageiros existentes da classe B:
 
 8-1.1 - Os navios ro-ro de passageiros existentes da classe B devem satisfazer as prescrições da regra II-1/B/8 o mais tardar à data da primeira vistoria periódica posterior à data de aplicação indicada a seguir, de acordo com o valor de A/A(índice máx) definido no anexo da circular MSC/Circ.574 da OMI, «Calculation procedure to assess the survivability characteristics of existing ro-ro passenger ships when using a simplified based upon Resolution A.265(VIII)».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 8-2 - Prescrições especiais para os navios ro-ro de passageiros que transportem 400 ou mais pessoas (R 8-2)
 
@@ -1213,11 +1245,11 @@ Não obstante o prescrito nas regras II-1/B/8 e II-1/B/8-1:
 
 8-2.2.1:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 8-2.2.2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 8-2.2.3 - Idade do navio igual ou superior a 20 anos, em que por idade do navio se entende o número de anos contados a partir da data em que foi assente a quilha ou em que o navio se encontrava numa fase de construção equivalente ou a partir da data em que o navio foi transformado em navio ro-ro de passageiros.
 
@@ -1635,7 +1667,7 @@ Navios novos das classes A, B, C e D, construídos a partir do dia 1 de janeiro 
 
 24.2 - As escadas e patamares existentes em pavimentos exteriores devem estar munidos de balaustradas de construção equivalente.
 
-# PARTE C — Máquinas
+## PARTE C — Máquinas
 
 1 - Generalidades (R 26)
 
@@ -1721,11 +1753,11 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 Encanamento de esgoto principal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 Encanamentos de esgoto secundários entre as caixas de esgoto e as aspirações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 em que:
 
@@ -1993,7 +2025,7 @@ Navios novos das classes A, B, C e D:
 
 16.4 - A DGRM pode permitir que as inspeções periódicas sejam efetuadas por um perito credenciado ou por uma organização reconhecida, nos termos da legislação aplicável.
 
-# PARTE D — Instalações elétricas
+## PARTE D — Instalações elétricas
 
 1 - Generalidades (R 40)
 
@@ -2163,7 +2195,7 @@ Navios novos das classes B, C e D, construídos a partir do dia 1 de janeiro de 
 
 5.10.4 - Está devidamente certificado para utilização nos espaços onde possam concentrar-se as poeiras, vapores ou gases gerados.
 
-# PARTE E — Prescrições suplementares para os navios construídos com espaços de máquinas sem assistência permanente
+## PARTE E — Prescrições suplementares para os navios construídos com espaços de máquinas sem assistência permanente
 
 Exame especial (R 54)
 
@@ -2287,7 +2319,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 ### CAPÍTULO II-2 — Prevenção, deteção e extinção de incêndios
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 1 - Princípios fundamentais (R 2)
 
@@ -2557,7 +2589,7 @@ Nos navios novos da classe B certificados para o transporte de 250 ou menos pass
 
 3.4.2 - Com duas bombas a descarregarem simultaneamente pelas agulhetas especificadas no ponto 3.8 através de um número de bocas-de-incêndio suficiente para fornecer a quantidade de água especificada no ponto 3.4.1, devem ser mantidas em todas as bocas-de-incêndio as seguintes pressões mínimas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 3.4.3 - A pressão máxima em qualquer boca-de-incêndio não deve exceder a pressão a que se demonstre ser possível o controlo eficaz de uma mangueira de incêndio.
 
@@ -2983,7 +3015,7 @@ O primeiro alarme de incêndio ativado não impeça que outro detetor ative outr
 
 9.2.5 - O espaçamento máximo dos detetores deve obedecer à seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 A DGRM pode determinar ou autorizar outros espaçamentos, em função dos resultados de ensaios que demonstrem as características dos detetores.
 
@@ -3369,7 +3401,7 @@ Navios novos das classes B, C e D e navios existentes da classe B:
 
 16.4 - A brochura de segurança contra incêndios pode ser combinada com os manuais de formação prescritos na regra II-2/A/15.3.
 
-# PARTE B — Medidas de segurança contra incêndios
+## PARTE B — Medidas de segurança contra incêndios
 
 1 - Estrutura (R 23)
 
@@ -3635,13 +3667,13 @@ Tabela n.º 4.1
 
 Anteparas que não delimitam zonas verticais principais nem zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 Tabela n.º 4.2
 
 Pavimentos que não formam saltos em zonas verticais principais nem delimitam zonas horizontais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 5 - Resistência ao fogo das anteparas e pavimentos dos navios novos que não transportem mais de 36 passageiros e dos navios existentes da classe B que transportem mais de 36 passageiros (R 27).
 
@@ -3727,13 +3759,13 @@ Tabela n.º 5.1
 
 Resistência ao fogo das anteparas que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 Tabela n.º 5.2
 
 Resistência ao fogo dos pavimentos que separam espaços adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 6 - Meios de evacuação (R 28)
 
@@ -4535,7 +4567,7 @@ Navios novos e existentes das classes B, C e D:
 
 2.6 - Os navios que não disponham de embarcações salva-vidas ou embarcações de socorro, devem estar equipados, para efeitos de salvamento, com pelo menos um fato de imersão. Contudo, os navios que operem unicamente em zonas de clima quente, em que a DGRM considere a proteção térmica desnecessária, tendo em conta as recomendações da circular MSC/Circ.1046 da OMI, podem ser dispensados desta obrigação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf))](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/07800/0212202206.pdf)
 
 3 - Sistema de alarme de emergência, instalação sonora para comunicações públicas, rol de chamada e instruções para situações de emergência, pessoal de radiocomunicações, instruções de utilização, manual de formação e instruções de manutenção (R 6 + 8 + 9 +19 + 20).
 

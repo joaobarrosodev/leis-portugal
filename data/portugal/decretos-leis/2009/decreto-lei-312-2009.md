@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20800/0805208058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/312/2009/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2009-483113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b13ca97c2e3c44883dafd434995b9923126488792d54d8ad998c23b50119b1b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53ed7cf1a8c6a8f2b2ebd192b6ef8f106ddb9feee2a95856c158cabeafe3d7c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,24 @@ reuse:
 subjects:
 - Arouca
 - Assembleia Geral
-- Sociedade Anónima
 - Baião
-- Fiscal Único
 - Capital Social
 - Castelo de Paiva
 - Cinfães
-- Saneamento Básico
 - Conselho de Administração
 - Constituição de Sociedade
 - Definição de Competências
 - Estatuto
+- Fiscal Único
 - MAIA
 - Paredes
 - Penafiel
+- Porto
+- Saneamento Básico
 - Simdouro
 - Sistema Multimunicipal de Saneamento do Grande Porto
+- Sociedade Anónima
 - Tratamento de ÁGUA
-- Porto
 - VILA NOVA de GAIA
 relationships:
 - type: amended_by
@@ -109,16 +109,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348946:por
+  label: Revogado, a partir de 30.06.2015, o presente diploma, pelo(a) Decreto-Lei n.º 93/2015 - Diário da República n.º 104/2015,
+    Série I de 2015-05-29; e extinta a partir de 30.06.2015, a sociedade SIMDOURO – Saneamento do Grande Porto, S.A., criada
+    pelo presente diploma, nos termos do disposto, nos nºs 2 a 10 do seu art. 4.º do Dec Lei 93/2015; que determinou a transferência
+    do património global da sociedade extinta para a sociedade Águas do Norte, S.A. (criada pelo citado diploma), a qual sucede
+    em todos os direitos e obrigações da concessionária extinta.e determinada a transferência do respetivo património global
+    para a sociedade Águas do Norte, S.A., a qual sucede em todos os direitos e obrigações da concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2015-67348946
+  date: '2015-05-29'
 article_structure:
-  article_count: 38
+  article_count: 34
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:16Z'
   warnings: []
   errors: []
 ---
@@ -239,13 +269,17 @@ Criação do Sistema Multimunicipal de Saneamento do Grande Porto
 
 É criado, nos termos e para os efeitos do n.º 2 do artigo 1.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, o Sistema Multimunicipal de Saneamento do Grande Porto, adiante designado por Sistema ou Sistema do Grande Porto, para recolha, tratamento e rejeição de efluentes dos municípios de Arouca, Baião, Castelo de Paiva, Cinfães, Maia, Paredes, Penafiel e Vila Nova de Gaia.
 
-###### Artigo 2.º — Alargamento do Sistema do Grande Porto
+Artigo 2.º
+
+Alargamento do Sistema do Grande Porto
 
 1 - O Sistema do Grande Porto pode ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
 
 2 - O interesse público referido no número anterior é reconhecido por despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade concessionária do Sistema do Grande Porto, e ouvidos os seus municípios utilizadores.
 
-###### Artigo 3.º — Atribuição da concessão do Sistema do Grande Porto
+Artigo 3.º
+
+Atribuição da concessão do Sistema do Grande Porto
 
 1 - O exclusivo da exploração e gestão do Sistema do Grande Porto é atribuído, em regime de concessão, por um prazo de 50 anos, considerando-se, para efeitos de contagem do prazo inicial ou de qualquer eventual prorrogação, que o termo da concessão coincide com o último dia do ano civil a que respeita.
 
@@ -261,7 +295,9 @@ Criação do Sistema Multimunicipal de Saneamento do Grande Porto
 
 7 -...
 
-###### Artigo 4.º — Configuração do Sistema do Grande Porto
+Artigo 4.º
+
+Configuração do Sistema do Grande Porto
 
 1 - ...
 
@@ -279,7 +315,9 @@ Criação do Sistema Multimunicipal de Saneamento do Grande Porto
 
 8 - O presente decreto-lei constitui, sem necessidade de apresentação de qualquer outro documento, título necessário e suficiente para o registo de prédios que se encontrem omissos em nome da sociedade dos direitos mencionados no número anterior, os quais deverão ser realizados a requerimento da sociedade.
 
-###### Artigo 5.º — Contrato de concessão do Sistema do Grande Porto
+Artigo 5.º
+
+Contrato de concessão do Sistema do Grande Porto
 
 1 - Fica o membro do Governo responsável pela área do ambiente autorizado a celebrar em nome e representação do Estado o contrato de concessão do Sistema.
 
@@ -289,15 +327,15 @@ Criação do Sistema Multimunicipal de Saneamento do Grande Porto
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - João Manuel Machado Ferrão.
 
-**Promulgado em 12 de Outubro de 2009.**
+Promulgado em 12 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Outubro de 2009.**
+Referendado em 12 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 

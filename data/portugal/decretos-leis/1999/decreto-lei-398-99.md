@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/239a00/68926901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/398/1999/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1999-662122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a20ba4daae1694a664c5abcaf7d4bdfec1d0745f9ddb7f2a98b9e12e645458e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 220c60f0166291437dfa840c6b2e3601e549bab218b61c89a6d124fba491cc31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,6 @@ subjects:
 - CASA Museu de Férnando de Castro
 - Casa Museu Fernando de Castro
 - CASA Museu Manuel Mendes
-- Pessoal Dirigente
-- Património Cultural
 - Conselho Consultivo
 - Instituto de JOSÉ de Figueiredo
 - Instituto Português de Conservação e Restauro
@@ -104,6 +102,8 @@ subjects:
 - Museu Nacional dos Coches
 - Museu Regional de Arqueologia D. Diogo de Sousa
 - Orgânica
+- Património Cultural
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Rede Portuguesa de Museus
 relationships:
@@ -111,6 +111,13 @@ relationships:
   target: pt:dre:520450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520450:por
+  label: "Determinada a sucessão do Instituto dos Museus e da Conservação (IMC) nas atribuições do Instituto Português de\
+    \ Museus e seus serviços dependentes, cuja orgânica e atribuições constam do presente diploma, que é revogado a partir\
+    \ de 01.04.2007 pelo DEC LEI.97/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2007-520450
+  date: '2007-03-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/161/1997/06/26/p/dre
   label: null
@@ -127,16 +134,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/908/1998/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/908/1998/10/20/p/dre
+- type: cites
+  target: pt:dre:140564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679835:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:469000:por
+  label: "Revogada a al. c) do nº 1 do art. 7º e o art. 10º pelo DEC LEI.228/2005.28.12.2005.MC, DR.IS-A [248] de 28.12.2005\
+    \ e extinto o Conselho Consultivo do Instituto Português de Museus a partir da data da entrada em vigor do supracitado\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2005-469000
+  date: '2005-12-28'
 article_structure:
   article_count: 32
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:52Z'
   warnings: []
   errors: []
 ---
@@ -565,7 +611,9 @@ g) Desenvolver a aplicação de métodos científicos de análise e estudo de ob
 
 2 - A Direcção de Serviços Administrativos compreende as Divisões de Pessoal e Administração Geral e de Contabilidade e Património.
 
-###### Artigo 15.º — Divisão de Pessoal e Administração Geral
+###### Artigo 15.º
+
+##### Divisão de Pessoal e Administração Geral
 
 A Divisão de Pessoal e Administração Geral é composta pelas seguintes secções:
 
@@ -573,7 +621,9 @@ a) Secção de Pessoal;
 
 b) Secção de Expediente Geral.
 
-###### Artigo 16.º — Secção de Pessoal
+###### Artigo 16.º
+
+#### Secção de Pessoal
 
 Compete à Divisão de Pessoal e Administração Geral, através da Secção de Pessoal:
 
@@ -587,7 +637,9 @@ d) Instruir os processos relativos aos benefícios sociais do pessoal e seus fam
 
 e) Assegurar o controlo de pontualidade e assiduidade do pessoal.
 
-###### Artigo 17.º — Secção de Expediente Geral
+###### Artigo 17.º
+
+#### Secção de Expediente Geral
 
 Compete à Divisão de Pessoal e Administração Geral, através da Secção de Expediente Geral:
 
@@ -597,7 +649,9 @@ b) Garantir a organização do arquivo activo e inactivo, mantendo-o em condiç�
 
 c) Assegurar as funções de secretariado decorrentes do funcionamento do IPM e respectivos órgãos.
 
-###### Artigo 18.º — Divisão de Contabilidade e Património
+###### Artigo 18.º
+
+##### Divisão de Contabilidade e Património
 
 A Divisão de Contabilidade e Património dispõe das seguintes secções:
 
@@ -605,7 +659,9 @@ a) Secção de Contabilidade;
 
 b) Secção de Património.
 
-###### Artigo 19.º — Secção de Contabilidade
+###### Artigo 19.º
+
+#### Secção de Contabilidade
 
 Compete a Divisão de Contabilidade e Património, através da Secção de Contabilidade:
 
@@ -631,7 +687,9 @@ j) Colaborar na elaboração dos planos de actividades e respectivos orçamentos
 
 l) Proceder ao acompanhamento, avaliação e controlo de material e financeiro do plano e elaborar o respectivo relatório de execução.
 
-###### Artigo 20.º — Secção de Património
+###### Artigo 20.º
+
+#### Secção de Património
 
 Compete à Divisão de Contabilidade e Património, através da Secção de Património:
 
@@ -751,15 +809,15 @@ O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fausto de Sousa Correia - Fernando Lopes Ribeiro Mendes - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 24 de Setembro de 1999.**
+Promulgado em 24 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I A QUE SE REFERE O ARTIGO 5.º
 

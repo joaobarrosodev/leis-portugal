@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-1975-309922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e23404e015b8f2b0fa695f04d0892ece22fbb64016a77d13e200d9f14f305af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08c2f0b07c30f5908aaf23cc8f4eef42906b3d0b2a4a953a82e8eb05ab620dfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Direito de Superficie
+- Domínio Privado do Estado
+- Gabinete da Área de Sines
+- Prédio Rústico
+- Prédio Urbano
+relationships:
+- type: cites
+  target: pt:dre:420995:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:01Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +102,7 @@ Considerando que se torna necessário alterar disposições dessa portaria, com 
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Investimentos Públicos:
 
-###### Artigo único. São alteradas, conforme segue, as disposições da [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho:
+Artigo único. São alteradas, conforme segue, as disposições da [Portaria n.º 434/73](https://diariodarepublica.pt/dr/detalhe/portaria/434-1973-420995), de 23 de Junho:
 
 6.º - 1. ...
 

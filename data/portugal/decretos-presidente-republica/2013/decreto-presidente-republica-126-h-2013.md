@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 252/2013, 2º Suplemento, Série I de 2013-12-30
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7004-(6) a 7004-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25202/0000600006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/126-h/2013/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/126-h-2013-423659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f66a0a4cbf7dcc7dff525ece1d00cf02bc409ab475a3b19c6b8d0c64f5b4e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8766e6b72299745af1868183739b3cb42430f4a5a83fb45ef7c4256e392305c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça
 - Governo XIX
 - Secretário de Estado
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça
 - Secretário de Estado da Administração Pública
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:35Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ validation:
 
 de 30 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133º, alínea h), da Constituição, o seguinte:
 
 São exonerados, a seu pedido e sob proposta do Primeiro-Ministro:
 
@@ -103,12 +103,12 @@ O Dr. Filipe Tiago de Melo Sobral Lobo d'Ávila do cargo de Secretário de Estad
 
 O Eng.º Fernando Ferreira Santo do cargo de Secretário de Estado da Administração Patrimonial e Equipamentos do Ministério da Justiça.
 
-**Assinado em 30 de dezembro de 2013.**
+Assinado em 30 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de dezembro de 2013.**
+Referendado em 30 de dezembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

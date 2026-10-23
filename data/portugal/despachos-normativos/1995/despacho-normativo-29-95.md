@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/138b00/39353936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/29/1995/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1995-517398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 573a8824048bf137e17cb0cb6bed2c145b8a5e334299faafeb43645100b91714
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cba0f95f80cfe246deeff34d5801aa514f8be124ad1f354d11d469083942be99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agrupamento de Produtores
 - Comunidade Europeia
 - Definição de Competências
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Instituto de Alimentação e Mercados Agrícolas
 - Instituto dos Mercados Agrícolas e Indústria Agro-alimentar
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Organização Comum de Mercado
-- Tabaco
 - Orientação Agrícola
 - Política Agrícola Comum
-- Quota de Produção
 - Produção Agrícola
+- Quota de Produção
 - Regulamento CE
-- Açores
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:151330:por
@@ -102,16 +102,21 @@ relationships:
   target: celex:31995R1066
   label: null
   source: http://data.europa.eu/eli/reg/1995/1066/oj
+- type: repealed_by
+  target: pt:dre:151330:por
+  label: "Revogado pelo DN.11/99.1999.01.19.MADRP, DR.IS-B [54] de 05/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1999-151330
+  date: '1999-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:14Z'
   warnings: []
   errors: []
 ---

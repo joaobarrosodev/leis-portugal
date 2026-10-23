@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10400/0274702750.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2019/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2019-122446605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec42b94ad17d4f29cc186d605d699fead125288da52332e7055f91fb78fc1769
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e81a4ad3197e3d351623106d3eb5da2f38799316e6a0836446faca4e47f2b692
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,36 @@ subjects:
 - Ajuste Direto
 - Braga
 - Capital Social
-- Gestão Financeira
+- Contratação Pública
 - Contrato Administrativo
 - Criação de Serviços
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Serviço Nacional de Saúde
-- Setor Empresarial do Estado
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Hospitalar
 - Integração de Serviços
 - Integração de Trabalhadores
 - Parceria Público-Privada
-- Estabelecimento Hospitalar
 - Sede
-- Gestão de Recursos Humanos
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
 - Transferência de Competências
 - Transferência Patrimonial
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:223906278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223906278:por
+  label: Determinada, a partir de 08.11.2023, com efeitos a 01.01.2024, a reestruturação do Hospital de Braga, E. P. E., criado
+    pelo presente diploma, com integração dos Agrupamentos de Centros de Saúde do Cávado I - Braga e do Cávado II - Gerês/Cabreira,
+    passando a denominar-se Unidade Local de Saúde de Braga, E. P. E., pelo(a) Decreto-Lei n.º 102/2023 - Diário da República
+    n.º 215/2023, Série I de 2023-11-07 nos termos do art. 7.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2023-223906278
+  date: '2023-11-07'
 - type: cites
   target: celex:32014L0024
   label: null
@@ -115,16 +123,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:106434234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115524263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:43Z'
   warnings: []
   errors: []
 ---
@@ -285,15 +313,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de maio de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 24 de maio de 2019.**
+Promulgado em 24 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2019.**
+Referendado em 28 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 11.º)
 
@@ -305,4 +333,6 @@ MAPA I
 
 (a que se referem o n.º 1 do artigo 15.º e o n.º 1 do artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/05/10400/0274702750.pdf))](https://files.diariodarepublica.pt/1s/2019/05/10400/0274702750.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/05/10400/0274702750.pdf)
+
+112337729

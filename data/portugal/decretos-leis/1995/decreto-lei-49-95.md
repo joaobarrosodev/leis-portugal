@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/1995/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1995-185721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f45a4c2a57a66fdd4af7ea54f5ef0b2bc5d3fd7ac3bb5855f99260290f60f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdb5f9ccaad65829ef35e42142ff7a1ea433be33ec6af274464b89868907d1fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agrupamento de Explorações Agrícolas
-- Ajuda Comunitária
 - Agrupamento de Produtores
-- Financiamento
+- Ajuda Comunitária
 - CEE
 - Definição de Competências
 - Direcção Regional de Agricultura
 - Direito de Associação
+- Exploração Agrícola
+- Financiamento
 - Fruto
 - Instituto dos Mercados Agrícolas e Indústria Agro-alimentar
-- Mercado Agrícola
-- Exploração Agrícola
-- Política Agrícola Comum
-- Produto Hortícola
 - Madeira.região Autónoma
-- Produção Agrícola
-- Regulamento CE
+- Mercado Agrícola
 - Pecuária
-- Açores
+- Política Agrícola Comum
+- Produção Agrícola
+- Produto Hortícola
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:438074:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECL-RECT 81-A/95 DE 30-JUN DA PCM DR.IS-A [149]3SUPL\09]3SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-06-30'
 - type: cites
   target: celex:31972R1035
   label: null
@@ -101,16 +106,22 @@ relationships:
   target: celex:31990R2602
   label: null
   source: http://data.europa.eu/eli/reg/1990/2602/oj
+- type: repealed_by
+  target: pt:dre:438074:por
+  label: "Revogado, na parte que respeita às Organizações de produtores previstas no presente diploma, pelo DEC LEI.252/98.1998.08.11.MADRP\
+    \ DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-1998-438074
+  date: '1998-08-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:56Z'
   warnings: []
   errors: []
 ---
@@ -129,13 +140,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se às organizações e aos agrupamentos de produtores e suas uniões previstos, respectivamente, no Regulamento (CEE) n.º [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt), do Conselho, de 18 de Maio, alterado pelo Regulamento (CEE) n.º [2602/90](http://data.europa.eu/eli/reg/1990/2602/oj?locale=pt), da Comissão, de 7 de Setembro de 1990, e no Regulamento (CEE) n.º [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho.
+Artigo 1.º O presente diploma aplica-se às organizações e aos agrupamentos de produtores e suas uniões previstos, respectivamente, no Regulamento (CEE) n.º [1035/72](http://data.europa.eu/eli/reg/1972/1035/oj?locale=pt), do Conselho, de 18 de Maio, alterado pelo Regulamento (CEE) n.º [2602/90](http://data.europa.eu/eli/reg/1990/2602/oj?locale=pt), da Comissão, de 7 de Setembro de 1990, e no Regulamento (CEE) n.º [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt), do Conselho, de 19 de Junho.
 
-###### Art. 2.º Podem ser reconhecidos, a seu pedido, os agrupamentos de produtores e suas uniões, bem como as organizações de produtores que preencham os requisitos enunciados no artigo 4.º
+Art. 2.º Podem ser reconhecidos, a seu pedido, os agrupamentos de produtores e suas uniões, bem como as organizações de produtores que preencham os requisitos enunciados no artigo 4.º
 
-###### Art. 3.º O reconhecimento será efectuado, caso a caso, por despacho do Ministro da Agricultura.
+Art. 3.º O reconhecimento será efectuado, caso a caso, por despacho do Ministro da Agricultura.
 
-###### Art. 4.º - 1 - O reconhecimento será atribuído às entidades referidas no artigo 1.º que preencham, cumulativamente, os seguintes requisitos:
+Art. 4.º - 1 - O reconhecimento será atribuído às entidades referidas no artigo 1.º que preencham, cumulativamente, os seguintes requisitos:
 
 a) Possuam uma capacidade organizativa suficiente e um nível de actividade económica mínimo, de acordo com as regras estabelecidas nos regulamentos aplicáveis;
 
@@ -151,7 +162,7 @@ f) Incluam nos respectivos estatutos disposições relativas ao regime de sanç�
 
 2 - Entende-se por programa de acção o documento específico de cada entidade, aprovado em assembleia geral, contendo as regras comuns de produção e comercialização e as regras relativas ao conhecimento da produção em termos de colheitas e disponibilidades.
 
-###### Art. 5.º O pedido de reconhecimento deve ser apresentado junto das direcções regionais de agricultura (DRA) competentes, acompanhado dos seguintes documentos:
+Art. 5.º O pedido de reconhecimento deve ser apresentado junto das direcções regionais de agricultura (DRA) competentes, acompanhado dos seguintes documentos:
 
 a) Memória das actividades do requerente, incluindo nomeadamente a sua localização, a descrição das instalações e dos meios técnicos e administrativos à produção, ao acondicionamento e à comercialização dos produtos, e o seu estado de conservação e capacidade técnica de utilização, bem como, para os produtos para os quais se requer o reconhecimento, os volumes produzidos na última campanha ou a média das últimas três;
 
@@ -169,7 +180,7 @@ g) Relatório e contas aprovados pela assembleia geral, relativos aos últimos t
 
 h) Para o caso de uniões de agrupamentos de produtores, o número de agrupamentos de produtores reconhecidos que a integram e a extensão territorial para o conjunto, bem como a respectiva área de cultura, volume de negócios e percentagem do volume nacional de produção relativo ao produto ou produtos em questão.
 
-###### Art. 6.º O pedido de reconhecimento, a instruir de acordo com o modelo a distribuir pelos serviços regionais competentes, segue a seguinte tramitação:
+Art. 6.º O pedido de reconhecimento, a instruir de acordo com o modelo a distribuir pelos serviços regionais competentes, segue a seguinte tramitação:
 
 a) As DRA emitem um parecer informativo sobre o pedido de reconhecimento, após análise da observância dos requisitos exigidos e dos elementos de instrução processual;
 
@@ -181,7 +192,7 @@ d) No prazo de dois meses após a decisão, será dado conhecimento da decisão 
 
 e) O IMAIAA assegurará a organização e manutenção do registo nacional das entidades reconhecidas, o qual deve ser completado com os elementos relativos à respectiva actividade anual.
 
-###### Art. 7.º Serão anualmente elaborados relatórios, de âmbito regional e nacional, sobre a aplicação dos regulamentos, de acordo com o seguinte calendário:
+Art. 7.º Serão anualmente elaborados relatórios, de âmbito regional e nacional, sobre a aplicação dos regulamentos, de acordo com o seguinte calendário:
 
 a) Até ao dia 1 de Janeiro de cada ano, as entidades reconhecidas elaboram e enviam à DRA da área da sua sede uma informação sobre a actividade realizada na campanha de comercialização precedente, mediante formulário destinado para o efeito;
 
@@ -189,26 +200,26 @@ b) Até ao dia 1 de Fevereiro de cada ano, a DRA respectiva elabora e envia ao I
 
 c) Com base nos relatórios de âmbito regional enviados pelas DRA, o IMAIAA elabora, até ao dia 1 de Março, um relatório global destinado a ser apresentado ao Ministro da Agricultura para posterior envio à União Europeia até ao dia 31 de Março seguinte.
 
-###### Art. 8.º Compete às DRA, em articulação com o IMAIAA, proceder ao controlo da manutenção das condições justificativas do reconhecimento, propondo a sua suspensão ou revogação sempre que se prove:
+Art. 8.º Compete às DRA, em articulação com o IMAIAA, proceder ao controlo da manutenção das condições justificativas do reconhecimento, propondo a sua suspensão ou revogação sempre que se prove:
 
 a) Ter sido o reconhecimento obtido por forma irregular ou de acordo com informações erradas, caso em que a revogação produzirá efeitos a partir da data do reconhecimento, devendo as ajudas concedidas ser devolvidas;
 
 b) Que as condições justificativas do reconhecimento deixaram de ser preenchidas, caso em que a revogação produzirá efeitos a partir da data da verificação, devendo ser devolvidas as ajudas concedidas após essa data.
 
-###### Art. 9.º - 1 - As entidades das Regiões Autónomas competentes para a execução do presente diploma serão designadas pelos respectivos órgãos de governo próprio.
+Art. 9.º - 1 - As entidades das Regiões Autónomas competentes para a execução do presente diploma serão designadas pelos respectivos órgãos de governo próprio.
 
 2 - Até ao dia 1 de Fevereiro de cada ano os serviços regionais competentes elaboram e enviam ao IMAIAA, para os efeitos referidos na alínea c) do artigo 7.º, um relatório sobre a aplicação dos regulamentos em causa e a actividade realizada pelas entidades reconhecidas em cada uma das Regiões Autónomas.
 
-###### Art. 10.º São revogados os Decretos-Leis n.os 362/87, de 26 de Novembro, e 145/89, de 5 de Maio.
+Art. 10.º São revogados os Decretos-Leis n.os 362/87, de 26 de Novembro, e 145/89, de 5 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Duarte Silva.
 
-**Promulgado em 8 de Fevereiro de 1995.**
+Promulgado em 8 de Fevereiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Fevereiro de 1995.**
+Referendado em 14 de Fevereiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

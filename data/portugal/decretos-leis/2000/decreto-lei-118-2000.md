@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2000/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2000-300835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9cc0635cbcab21733af2bdf182348f2ba28543acf92b21b5a5c69d7e3cf92e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b00f7b5caa59cae08c377457b656f1b7b814c12281540a591231aaee6c6f0ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Nacional de Saúde
-- Prorrogação de Prazo
 - Contrato de Trabalho
+- Prorrogação de Prazo
 - Serviço de Prevenção e Tratamento da Toxicodependência
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:215081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163640:por
+  label: "Mantidos em vigor, até à conclusão dos concursos externos, os contratos de trabalho a termo certo que foram prorrogados,\
+    \ ao abrigo do artigo 1.º, pelo DEC LEI.130/2001.18.04.2001.MS, DR.IS-A [91] de 18.04.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2001-163640
+  date: '2001-04-18'
+- type: amended_by
+  target: pt:dre:215081:por
+  label: "Mantidos em vigor, até à conclusão dos respectivos concursos externos, os contratos de trabalho a termo prorrogados\
+    \ no presente diploma, pelo DEC LEI.45/2003.13.03.2003.MS, DR.IS-A [61] de 13.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2003-215081
+  date: '2003-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -99,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:218954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:54Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +185,12 @@ Aos novos contratos de trabalho a termo certo a celebrar pelo Serviço de Preven
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Arnaldo Jorge d'Assunção Silva - Alberto de Sousa Martins.
 
-**Promulgado em 19 de Junho de 2000.**
+Promulgado em 19 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/27700/19221932.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/710-1975-309521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e13dc0d309c797b35acd344df6567514385a6379f1a0923525141504e7dd525
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb92d3b0dd91f711b90bbdcf6d20e9bf2f85850405a5c0e6ebe2cde13a979de6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chefe do Estado Maior da Força Aérea
+- Corpo de Tropas Paraquedistas
+- Criação de Serviços
+- Estado Maior da Força Aérea
+- Força Aérea
+- Orgânica
+- Tropa Paraquedista
 relationships:
 - type: amended_by
   target: pt:dre:429636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507017:por
+  label: Alterados, no que se refere ao pessoal enfermeiro especializado em pára-quedismo, os mapas 1 e 3 pelo(a) Portaria
+    n.º 41/76 - Diário do Governo n.º 24/1976, Série I de 1976-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-1976-507017
+  date: '1976-01-29'
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:429636:por
+  label: "Revogada pela PORT.508/76.12.08.1976.CR, DR.IS [188] de 12.08.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-1976-429636
+  date: '1976-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:32Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +114,7 @@ Considerando o disposto no artigo 5.º do [Decreto-Lei n.º 350/75](https://diar
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
 
-###### Artigo 1.º O pessoal do Corpo de Tropas Pára-Quedistas é constituído por:
+Artigo 1.º O pessoal do Corpo de Tropas Pára-Quedistas é constituído por:
 
 a) Pessoal militar permanente privativo:
 
@@ -118,15 +140,15 @@ e) Pessoal militar em preparação privativo;
 
 f) Pessoal equiparado a militar em preparação.
 
-###### Art. 2.º Os quadros de pessoal do Corpo de Tropas Pára-Quedistas são os fixados nos mapas 1, 2, 3 e 4 anexos ao presente diploma, sendo a activação dos efectivos faseada durante os anos de 1976 a 1979, ambos inclusive, conforme o indicado também nos referidos mapas.
+Art. 2.º Os quadros de pessoal do Corpo de Tropas Pára-Quedistas são os fixados nos mapas 1, 2, 3 e 4 anexos ao presente diploma, sendo a activação dos efectivos faseada durante os anos de 1976 a 1979, ambos inclusive, conforme o indicado também nos referidos mapas.
 
-###### Art. 3.º O pessoal do Corpo de Tropas Pára-Quedistas militar em preparação e equiparado a militar em preparação é considerado como pessoal além dos quadros referidos no artigo 2.º e o seu quantitativo é fixado anualmente pelo Chefe do Estado-Maior da Força Aérea, de acordo com as necessidades e as dotações orçamentais.
+Art. 3.º O pessoal do Corpo de Tropas Pára-Quedistas militar em preparação e equiparado a militar em preparação é considerado como pessoal além dos quadros referidos no artigo 2.º e o seu quantitativo é fixado anualmente pelo Chefe do Estado-Maior da Força Aérea, de acordo com as necessidades e as dotações orçamentais.
 
-###### Art. 4.º O pessoal do Corpo de Tropas Pára-Quedistas militar não permanente é considerado como pessoal além dos quadros referidos no artigo 2.º e o seu quantitativo é fixado anualmente pelo Chefe do Estado-Maior da Força Aérea, de acordo com as necessidades e as dotações orçamentais.
+Art. 4.º O pessoal do Corpo de Tropas Pára-Quedistas militar não permanente é considerado como pessoal além dos quadros referidos no artigo 2.º e o seu quantitativo é fixado anualmente pelo Chefe do Estado-Maior da Força Aérea, de acordo com as necessidades e as dotações orçamentais.
 
-###### Art. 5.º O pessoal do Corpo de Tropas Pára-Quedistas pode ser mandado prestar serviço em órgão ou unidades da Força Aérea e, eventualmente, noutros departamentos militares, ficando então na situação de adidos aos quadros referidos no artigo 2.º
+Art. 5.º O pessoal do Corpo de Tropas Pára-Quedistas pode ser mandado prestar serviço em órgão ou unidades da Força Aérea e, eventualmente, noutros departamentos militares, ficando então na situação de adidos aos quadros referidos no artigo 2.º
 
-###### Art. 6.º A organização do Corpo de Tropas Pára-Quedistas é a seguinte:
+Art. 6.º A organização do Corpo de Tropas Pára-Quedistas é a seguinte:
 
 1. Comando e Estado-Maior, com sede em Lisboa, compreendendo:
 
@@ -222,12 +244,12 @@ f) Batalhão de Apoio e Serviços;
 
 g) Batalhão de Pára-Quedistas n.º 31.
 
-###### Art. 7.º Os organogramas e efectivos parcelares dos vários órgãos e unidades referidos no artigo 6.º serão fixados por despacho do Chefe do Estado-Maior da Força Aérea.
+Art. 7.º Os organogramas e efectivos parcelares dos vários órgãos e unidades referidos no artigo 6.º serão fixados por despacho do Chefe do Estado-Maior da Força Aérea.
 
 Estado-Maior da Força Aérea, 29 de Outubro de 1975. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.
 
 Do MAPA 1 ao MAPA 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27700/19221932.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27700/19221932.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27700/19221932.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva.

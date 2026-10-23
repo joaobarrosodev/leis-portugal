@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2020/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2020-151865082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 246976df29370e02ae117fb68fdb0804fe3e17346b7d971e1e704088e4ced83b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 440daca7181bb18095b63569c76b246790273b750ac80b803d5a25acc5588eb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aluno Militar
-- Formação Profissional
-- Contrato
+- AUTORIDADE AERONÁUTICA NACIONAL
 - Autoridade Marítima Nacional
-- Serviço Militar
-- Voluntariado
+- Contrato
+- Estado Maior General das Forças Armadas
 - Forças Armadas
+- Formação Profissional
+- Militar
 - Quadro Permanente das Forças Armadas
 - Reserva
-- Militar
-- Estado Maior General das Forças Armadas
 - Serviço Efectivo
-- AUTORIDADE AERONÁUTICA NACIONAL
+- Serviço Militar
+- Voluntariado
 relationships:
 - type: amended_by
   target: pt:dre:177309293:por
@@ -99,16 +99,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: pt:dre:114109966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129160712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177309293:por
+  label: Revogado pelo(a) Decreto-Lei n.º 6/2022 - Diário da República n.º 5/2022, Série I de 2022-01-07, com efeitos a partir
+    de 31.12.2021
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2022-177309293
+  date: '2022-01-07'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:34Z'
   warnings: []
   errors: []
 ---
@@ -179,15 +201,15 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 10 de dezembro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Catarina Teresa Rola Sarmento e Castro.
 
-**Promulgado em 16 de dezembro de 2020.**
+Promulgado em 16 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de dezembro de 2020.**
+Referendado em 17 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem os n.os 1 e 5 do artigo 2.º, o n.º 1 do artigo 3.º e o n.º 1 do artigo 5.º)
 
@@ -197,25 +219,25 @@ TABELA 1
 
 Efetivos militares dos quadros permanentes na estrutura orgânica das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 TABELA 1.a
 
 Efetivos militares dos quadros permanentes a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 TABELA 2
 
 Militares e alunos militares em formação para ingresso nos quadros permanentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 ## ANEXO II — (a que se referem o n.º 1 do artigo 2.º e o n.º 1 do artigo 5.º)
 
 Efetivos militares dos quadros permanentes, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -225,25 +247,25 @@ TABELA 1
 
 Efetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 TABELA 1.a
 
 Efetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 2.º)
 
 Efetivos militares dos quadros permanentes, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 2.º)
 
 Efetivos estimados de militares dos quadros permanentes, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 ## ANEXO VI — (a que se referem os n.os 4 e 5 do artigo 2.º e os n.os 1, 2 e 4 do artigo 3.º)
 
@@ -253,10 +275,12 @@ TABELA 1
 
 Efetivos de militares em regime de voluntariado e em regime de contrato, incluindo em regime de contrato especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
 
 TABELA 1.a
 
 Efetivos militares em regime de voluntariado e em regime de contrato a desempenhar funções nas estruturas do Estado-Maior-General das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf))](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/24700/0000400010.pdf)
+
+113827643

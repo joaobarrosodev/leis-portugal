@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116-a/2025/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2025-942710377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd1e2ec264c66de87b66b342ea35ef44a6b07954b69c75bc8ea32590886b52d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696eb8dc690ce9bb5ef2ec8775a7a73e511c44764d23637646a63d5cadf252b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- PSP
+- Agência para a Integração Migrações e Asilo I. P.
 - Comissão Nacional de Protecção de Dados
+- Dados Pessoais
 - Definição de Competências
-- Magistrado do Ministério Público
 - GNR
+- Magistrado do Ministério Público
+- Polícia Judiciária
 - Polícia Marítima
+- Ponto Único de Contacto para a Cooperação Policial Internacional
+- PSP
 - Regulamento
 - Regulamento CE
-- Polícia Judiciária
-- Dados Pessoais
-- Ponto Único de Contacto para a Cooperação Policial Internacional
-- Agência para a Integração Migrações e Asilo I. P.
 - Regulamento Eurodac
 relationships:
 - type: cites
@@ -116,16 +116,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:41/2023
+  label: Revoga, a partir de 28 de outubro de 2025, com efeitos em 12 de junho de 2026, as alíneas ff) e gg) do n.º 2 do artigo
+    3.º do anexo ao Decreto-Lei n.º 41/2023, de 2 de junho, Diário da República n.º 107/2023, Série I
+  source: null
+  date: '2023-06-02'
 article_structure:
   article_count: 19
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:00Z'
   warnings: []
   errors: []
 ---
@@ -244,15 +262,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de setembro de 2025. - Luís Montenegro - António Leitão Amaro.
 
-**Promulgado em 24 de outubro de 2025.**
+Promulgado em 24 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2025.**
+Referendado em 27 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 4.º)
 
@@ -426,6 +444,8 @@ Posto de Guarda de Fronteiras de Porto Santo;
 
 Polícia Marítima:
 
-##### Divisão de Análise e Informações Policiais;
+Divisão de Análise e Informações Policiais;
 
 Unidade Central de Investigação Criminal.
+
+119701439

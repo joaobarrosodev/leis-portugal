@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/096a00/26602662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2003/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2003-240672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fe01c1d0561f2d5e6ff98a668a8dfc5e01448a7fb90438c80e63367bc6c7c27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a78481cacd1f9447f217c4e74cc2e686b079bacb534a2bac1f7838bdcf3684a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desemprego
 - Idade de Reforma
 - Pensão de Velhice
 - Prazo de Garantia
 - Prestações de Desemprego
-- Desemprego
-- Proteção no Desemprego
 - Programa de Emprego e Protecção Social
+- Proteção no Desemprego
 - Regime Geral da Segurança Social
 - Subsídio de Desemprego
 relationships:
@@ -88,16 +88,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240378:por
+  label: "Revogado o art. 13.º, pelo DEC LEI.125/2005.03.08.2005.MTSSO, DR.IS-A [148] de 03.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2005-240378
+  date: '2005-08-03'
+- type: repealed_by
+  target: pt:dre:546202:por
+  label: "Revogado pelo DEC LEI.220/2006.03.11.2006.MTSSO, DR.IS [212] de 03.11.2006, com a respectiva entrada em vigor nos\
+    \ termos do art. 88.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2006-546202
+  date: '2006-11-03'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:34Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +263,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
 
-**Promulgado em 10 de Abril de 2003.**
+Promulgado em 10 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 2003.**
+Referendado em 14 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

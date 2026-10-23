@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2018/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2018-117428717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52518a6d721c6f4d7cf91fd463fd0fed38d386033e70316b372ac914dc86c512
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3be389334bd903a36f399968163c2c4628bdceca8721c452dbab306ac0200c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- Definição de Competências
 - Carreira Profissional
-- Grupo de Intervenção de Protecção e Socorro
-- Serviço de Protecção da Natureza e do Ambiente
+- Definição de Competências
 - GNR
-- Pessoal Civil
+- Grupo de Intervenção de Protecção e Socorro
 - Guarda Florestal
+- Pessoal Civil
 - Quadro de Pessoal
+- Serviço de Protecção da Natureza e do Ambiente
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -120,15 +120,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/76/2017/08/17/p/dre
 article_structure:
-  article_count: 16
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:57Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +209,9 @@ Os artigos 2.º, 13.º, 15.º, 35.º, 46.º e 47.º do [Decreto-Lei n.º 247/201
 
 7 - ...
 
-###### Artigo 13.º — Documento de identificação de guarda-florestal
+Artigo 13.º
+
+Documento de identificação de guarda-florestal
 
 1 - O pessoal da carreira de guarda-florestal tem direito ao uso do cartão de identificação:
 
@@ -221,7 +223,9 @@ b) De aposentado ou de reformado, quando nessa situação.
 
 3 - Os modelos do documento de identificação referidos no n.º 1 são aprovados por despacho do comandante-geral da Guarda.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -233,13 +237,17 @@ b) De aposentado ou de reformado, quando nessa situação.
 
 5 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O pessoal da carreira de guarda-florestal colocado pelos instrumentos de mobilidade previstos no artigo 28.º em localidade que diste mais de 50 km da sua residência habitual e que mude efetivamente de residência por força da colocação tem direito a dispensa de serviço para a respetiva instalação até cinco dias seguidos.
 
 2 - ...
 
-###### Artigo 46.º — Aposentação e reforma
+Artigo 46.º
+
+Aposentação e reforma
 
 1 - Ao pessoal da carreira de guarda-florestal aplica-se o regime previsto no [Decreto-Lei n.º 4/2017](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105711789/details/normal?l=1), de 6 de janeiro, com exceção do disposto no artigo 3.º daquele diploma.
 
@@ -247,7 +255,9 @@ b) De aposentado ou de reformado, quando nessa situação.
 
 3 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Conta-se como tempo de serviço efetivo aquele que seja prestado no exercício de funções de guarda-florestal.
 
@@ -275,7 +285,9 @@ Ingresso na carreira
 
 7 - O regulamento do curso de formação e a forma de avaliação são fixados por despacho do comandante-geral.
 
-###### Artigo 25.º-B — Condições gerais de admissão
+Artigo 25.º-B
+
+Condições gerais de admissão
 
 Podem concorrer à carreira de guarda-florestal da Guarda os cidadãos que satisfaçam as condições seguintes:
 
@@ -291,7 +303,9 @@ e) Ter o 12.º ano de escolaridade ou equivalente;
 
 f) Não estarem abrangidos pelo estatuto de objetor de consciência.
 
-###### Artigo 25.º-C — Condições especiais de admissão
+Artigo 25.º-C
+
+Condições especiais de admissão
 
 São condições especiais de admissão, designadamente:
 
@@ -335,15 +349,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministro de 25 de outubro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 3 de dezembro de 2018.**
+Promulgado em 3 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2018.**
+Referendado em 6 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -351,10 +365,12 @@ Visto e aprovado em Conselho de Ministro de 25 de outubro de 2018. - António Lu
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf))](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf)
 
 ## ANEXO II — [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf))](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/12/24300/0583705841.pdf)
+
+111905642

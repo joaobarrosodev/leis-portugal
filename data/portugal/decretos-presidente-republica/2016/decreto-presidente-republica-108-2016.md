@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23500/0445804458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/108/2016/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/108-2016-105340327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f098ce9c52b73a58114d9dcc04e16c523c2e2f39ce1af9e0ae9a0d8c1278487a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 510fd3522076164b99ad99717ae46425777ab1c7927bb5195612f141a27abfc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abidjan
-- Costa do Marfim
 - Alfândega
 - Assistência Mútua
-- Financiamento
+- Bruxelas
 - CE Países
 - Comércio Internacional
 - Convenção
 - Cooperação Aduaneira
-- Direitos Aduaneiros
-- União Europeia
-- Importação
-- Desenvolvimento Económico
 - Cooperação Económica
 - Cooperação Internacional
-- Bruxelas
+- Costa do Marfim
+- Desenvolvimento Económico
+- Direitos Aduaneiros
+- Financiamento
+- Importação
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/236/2016/12/09/p/dre
@@ -91,13 +91,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:59Z'
   warnings: []
   errors: []
 ---
@@ -106,16 +106,16 @@ validation:
 
 de 9 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Parceria Económica Intercalar entre a Costa do Marfim, por um lado, e a Comunidade Europeia e os seus Estados-Membros, por outro, assinado em Abidjan, a 26 de novembro de 2008, e em Bruxelas, a 22 de janeiro de 2009, incluindo os Apêndices I e II, os Anexos 1 e 2 e o Protocolo Relativo à Assistência Mútua em Matéria Aduaneira, aprovado pela [Resolução da Assembleia da República n.º 236/2016](https://diariodarepublica.pt/web/guest/pesquisa/-/search/105340329/details/normal?l=1), em 23 de junho de 2016.
 
-**Assinado em 2 de dezembro de 2016.**
+Assinado em 2 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de dezembro de 2016.**
+Referendado em 6 de dezembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

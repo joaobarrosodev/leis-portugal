@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-1982-600758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fddbb47f558951cd2e226e9f675d2c901972112430fdda6a3535884b3bde055
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e26a025ba9b536b9eba37c7a9354d8f58b7754e605fa81aa5fb5fb21a7288f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Militar
+- Especialidade Militar
+- Estatuto
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:561628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:15Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +107,8 @@ Tendo em conta a especificidade das missões atribuídas ao Corpo de Polícia A�
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, que o n.º 1 do artigo 11.º do EOFAP passe a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - Os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos e, dentro de cada posto, por ordem decrescente de antiguidade:
+Art. 11.º - 1 - Os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos e, dentro de cada posto, por ordem decrescente de antiguidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02500/02290229.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02500/02290229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02500/02290229.pdf)
 
 Estado-Maior da Força Aérea, 30 de Dezembro de 1981. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

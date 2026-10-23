@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/04700/02860287.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-1973-684781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b28ac566e78185e2c5a0e601edfef59ed0d7a7995a62b63ac7487d4206262eb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 664fe17e4b4517d9ff80263838c7bae31a61a480a523baa59210cec6af255288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brasão de Armas
+- GNR
+- Heráldica
 relationships:
 - type: amended_by
   target: pt:dre:182037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182037:por
+  label: "Revcogada pela PORT.395/85.27.06.1985.MDN, DR.IS [145] de 27.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/395-1985-182037
+  date: '1985-06-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:59:26Z'
   warnings: []
   errors: []
 ---
@@ -120,6 +128,6 @@ A divisa define, de modo lapidar, a missão primacial da Guarda Nacional Republi
 
 Ministério do Interior, 14 de Fevereiro de 1973. - O Ministro do Interior, António Manuel Gonçalves Rapazote.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/04700/02860287.pdf))](https://files.diariodarepublica.pt/1s/1973/02/04700/02860287.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/04700/02860287.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

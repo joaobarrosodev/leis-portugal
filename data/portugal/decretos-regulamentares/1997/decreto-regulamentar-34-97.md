@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/34/1997/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1997-649482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 345a0dd9c7ddd81f00cf63f5204ac4665f46d024eb0ae007ce0b582046cc7f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c25ac8e628c26066dfaa5bdbe8d4ad7af5945af86678342aef687bd0f9eebece
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aldeamento Turístico
 - Apartamento Turístico
-- Turismo
 - Indústria Hoteleira
 - Moradia Turística
-- Aldeamento Turístico
 - Proteção do Consumidor
 - Segurança das Instalações
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423179:por
+  label: "Alterados os arts. 3º, 4º, 9º, 11º, 15º, 17º, 18º, 23º, 26º, 27º, 33º a 35º, 37º, 46º, 51º, 59º e 61º e os anexos\
+    \ I a III do presente diploma (que é republicado na íntegra com as alterações ora introduzidas) pelo DR.14/99.1999.08.14.MECO,\
+    \ DR.IS-B [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-1999-423179
+  date: '1999-08-14'
+- type: amended_by
+  target: pt:dre:522000:por
+  label: "Dada nova redacção ao anexo III a que se refere o art. 52º do presente diploma, com a redacção que lhe foi dada\
+    \ pelo DR 14/99 de 14-Ago, pelo DR.6/2000.27.04.2000.MECO, DR.IS-B [98] de 27.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2000-522000
+  date: '2000-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
   label: null
@@ -93,16 +106,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/1997/03/31/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527662:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado com as alterações introduzidas pelos DR 14/99 de 14-Ago e 6/2000 de 27-Abr, pelo DEC LEI.39/2008.07.03.2008.MEI,\
+    \ DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 67
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:26Z'
   warnings: []
   errors: []
 ---
@@ -415,7 +458,9 @@ Os aldeamentos turísticos classificam-se, atendendo à sua localização, ao í
 
 As disposições do presente capítulo são aplicáveis aos aldeamentos turísticos cujas fracções imobiliárias sejam propriedade de pessoas diversas.
 
-###### Artigo 30.º — Título constitutivo
+###### Artigo 30.º
+
+## Título constitutivo
 
 No caso dos aldeamentos referidos no artigo anterior deve ser elaborado um título constitutivo da sua composição.
 
@@ -737,24 +782,24 @@ Presidência do Conselho de Ministros, 15 de Maio de 1997.
 
 António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 25 de Agosto de 1997.**
+Promulgado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Agosto de 1997.**
+Referendado em 28 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos aldeamentos turísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)
 
 ## ANEXO II — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento dos apartamentos turísticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)
 
 ## ANEXO III — Tabela que estabelece os requisitos mínimos das instalações e de funcionamento das moradias turísticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf))](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/215b00/50075021.pdf)

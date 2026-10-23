@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2014/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6c8dd70b00fdfd00c179e0026ea7555e0708b00ba2058a4b0cf4d069e50783a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28a4723d8eb6bff835b2863c66a5b54fe86e5528bad7859697488c907045866e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Reestruturação de Serviços
+- ANI-Agência Nacional de Inovação
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Empreendedorismo
+- IAPMEI
 - Orgânica
-- Quadro de Pessoal
 - Pequenas e Médias Empresas
 - PME
-- IAPMEI
-- ANI-Agência Nacional de Inovação
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:184108564:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66325238:por
+  label: Alterado o art. 31.º do Dec Lei 11/2014, de 22-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 14/2015
+    - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2015-66325238
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Determinado que a ANI - Agência Nacional de Inovação, S. A., prevista no Dec Lei 266/2012, de 28-dez, na redação
+    do presente diploma fique na dependência do Ministro da Economia, em articulação com a Ministra da Educação e Ciência
+    pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015, 1º Suplemento, Série I de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Determinada a prorrogação, durante o ano de 2016, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 18.º do Dec Lei 266/2012 de 28-dez, alterado e republicado pelo presente, pelo(a) Decreto-Lei n.º 18/2016 - Diário
+    da República n.º 72/2016, Série I de 2016-04-13, nos termos do disposto no seu art. 101.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Determinada a prorrogação, durante o ano de 2017, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 18.º do Dec Lei 266/2012 de de 28-dez, alterado e republicado pelo presente diploma, pelo(a) Decreto-Lei n.º 25/2017
+    - Diário da República n.º 45/2017, Série I de 2017-03-03, nos termos do disposto no seu art. 134.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro Adjunto e da Economia as competências legalmente previstas sobre os serviços,
+    organismos, entidades e estruturas identificados no Dec Lei 11/2014 de 22-jan, com as alterações introduzidas pelo presente
+    diploma, com execção daqueles que transitam para o âmbito de competências do Ministro da Infraestruturas e da Habitação
+    e para a Ministra do Mar, pelo(a) Decreto-Lei n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
+- type: amended_by
+  target: pt:dre:122074191:por
+  label: Alterado o art. 3.º, na redação do presente diploma, do Dec Lei 266/2012 de 28-dez DR.IS [251] pelo(a) Decreto-Lei
+    n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2019-122074191
+  date: '2019-04-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2014/01/22/p/dre
   label: null
@@ -102,16 +147,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:190390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:57Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +213,9 @@ Os artigos 1.º, 3.º, 9.º e 19.º do [Decreto-Lei n.º 266/2012](https://diari
 
 2 - O IAPMEI, I. P., prossegue atribuições do Ministério da Economia (ME), sob superintendência e tutela do respetivo ministro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à Direção-Geral das Atividades Económicas (DGAE).
 
@@ -242,7 +309,9 @@ i) Assegurar a participação do ME no quadro dos assuntos europeus no âmbito d
 
 ii) Propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, em articulação com os órgãos e serviços do Ministério dos Negócios Estrangeiros, no âmbito das suas competências.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -266,7 +335,9 @@ h) [Anterior alínea g)].
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Todas as referências legais ou regulamentares feitas ao Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P., devem considerar-se como feitas ao IAPMEI - Agência para a Competitividade e Inovação, I. P.»
 
@@ -302,7 +373,9 @@ i) [Anterior alínea h)];
 
 3 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., abreviadamente designado por IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à DGAE.
 
@@ -332,7 +405,9 @@ k) [...].
 
 3 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -376,15 +451,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de abril de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 8 de maio de 2014.**
+Promulgado em 8 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2014.**
+Referendado em 9 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/1998/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1998-176332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8999a69f0d722de6de95305a88fd6f5cd18f407b0c466ee7fef35a1fc5fc4dd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d11b95d60b8393fa2c664324da00a987dc2247aa9be1c58abcb11aae121120
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,118 +65,118 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Financeira do Estado
 - Administração Fiscal
+- Administração Pública
 - Admissão de Pessoal
 - ADSE
-- ICEP
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Associação de Bombeiros Voluntários
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
-- Sociedade Anónima
-- Empresa
-- Jogos de Fortuna e Azar
-- Países Ibero-Americanos
-- Pessoal Dirigente
+- Carreira Docente Universitária
+- Cimeira
+- Cobrança de Dívidas
 - Código de Processo Tributário
-- Ministério da Administração Interna
-- Gestão Financeira
-- Projecto VIDA
+- Comissão de Coordenação Regional
 - Comparticipação do Estado
 - Concurso
-- Cimeira
-- Direcção Geral do Tesouro
-- Ministério da Educação
 - Conselho de Ministros
-- Serviços de Registo e Notariado
+- Contabilidade Pública
+- Contratação de Pessoal
 - Contrato de Trabalho a Termo
-- Política de Cooperação
 - Dação em Cumprimento
 - Definição de Competências
+- Departamento de Prospectiva e Planeamento
 - Despesas Públicas
+- Direção Geral do Orçamento
 - Direcção Escolar
-- Instituto de Gestão do Crédito Público
-- Comissão de Coordenação Regional
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Direcção Geral do Tesouro
 - Diretor Geral
 - Dívidas ao Estado
 - Dotação Orçamental
 - Duodécimo
-- Profissão Diplomática
+- Educação Pré-escolar
 - Empreitada de Obras Públicas
+- Empresa
 - Ensino à Distância
+- Ensino Básico
+- Ensino Superior
 - Ensino Superior Politécnico
-- Administração Pública
-- Serviço Nacional de Saúde
+- Equipamento Informático
+- Estabelecimento de Ensino
 - Execução do Orçamento
 - Extinção de Serviços
-- Lisboa
+- Financiamento
 - Fundo de Apoio ao Estudante
 - Fundo de Maneio
 - Fundo Permanente
+- Gabinete de Estudos e Planeamento de Instalações
 - Gabinete de Gestão Financeira
-- Recrutamento de Pessoal
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Orçamental
-- Ministério da Cultura
-- Ministério da Justiça
-- Ministro das Finanças
-- Palop
-- IRS
+- ICEP
 - Indep
 - Informatização
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Promoção Turística
 - Instituto Politécnico
 - Instituto Português das Artes do Espectáculo
 - Integração de Trabalhadores
-- Veículo
+- IRS
+- Jogos de Fortuna e Azar
 - Laboratório Nacional de Engenharia Civil
+- Lisboa
 - Locação Financeira
-- Santa Casa da Misericórdia
-- Contratação de Pessoal
-- Carreira Docente Universitária
-- Gabinete de Estudos e Planeamento de Instalações
-- Gabinete de Planeamento e de Coordenação do Combate à Droga
-- Departamento de Prospectiva e Planeamento
-- Direção Geral do Orçamento
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Ministério da Cultura
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério dos Negócios Estrangeiros
+- Ministro das Finanças
 - Ministro do Equipamento do Planeamento e da Administração do Território
-- Orçamento Geral do Estado
-- Equipamento Informático
 - Orçamento
+- Orçamento Geral do Estado
 - Orgânica
 - Organismo do Estado
+- Países Ibero-Americanos
+- Palop
 - Pessoal Administrativo
-- Piddac
-- Sistema de Informação
-- Estabelecimento de Ensino
+- Pessoal Dirigente
 - Pessoal Docente
-- Serviço Público
+- Piddac
+- Política de Cooperação
+- Porto
 - Prestação de Serviços
-- Ensino Básico
-- Madeira.região Autónoma
+- Profissão Diplomática
+- Projecto VIDA
 - Prorrogação de Prazo
 - Quadro de Excedentes
 - Quadro de Pessoal
 - Receita Própria
-- Cobrança de Dívidas
-- Ensino Superior
+- Recrutamento de Pessoal
+- Região Autónoma
 - Remuneração
 - Reposição de Verbas
-- Ministério dos Negócios Estrangeiros
+- Santa Casa da Misericórdia
 - Seguro de Responsabilidade Civil Automóvel
 - Serviço Nacional de Bombeiros
-- Gestão de Recursos Humanos
-- Açores
-- Contabilidade Pública
-- Educação Pré-escolar
+- Serviço Nacional de Saúde
+- Serviço Público
+- Serviços de Registo e Notariado
+- Sistema de Informação
+- Sociedade Anónima
 - Subsídio
 - Transferência de Verbas
-- Autarquia Local
-- Porto
+- Veículo
 - Veículo do Estado
 relationships:
 - type: cites
@@ -219,16 +219,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692655:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:35Z'
   warnings: []
   errors: []
 ---
@@ -595,12 +687,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1998.
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 9 de Abril de 1998.**
+Promulgado em 9 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

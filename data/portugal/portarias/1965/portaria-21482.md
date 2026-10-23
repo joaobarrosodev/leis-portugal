@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21482-1965-292364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 548d64c568c0c4033782f728365320f4944259bb53300b3a289821e45e2cd118
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd3adca87ed6edcf92f63ba0489ba831d85a97945413a21e31c95803f88c6b84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:54Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +108,9 @@ Tornando-se necessário e urgente autorizar a utilização parcial do mesmo empr
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 13.º e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, conjugados com o disposto no artigo 5.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, que o Governo-Geral de Moçambique, tomando como contrapartida o empréstimo amortizável, autorizado pelo [Decreto-Lei n.º 46379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46379-1965-296232), de 11 de Junho último, abra um crédito especial de 73000000$00, destinado a reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º «Despesa extraordinária»:
+Capítulo 12.º «Despesa extraordinária»:
 
-###### Artigo 2580.º «Plano Intercalar de Fomento»:
+Artigo 2580.º «Plano Intercalar de Fomento»:
 
 2) «Agricultura, silvicultura e pecuária»;
 

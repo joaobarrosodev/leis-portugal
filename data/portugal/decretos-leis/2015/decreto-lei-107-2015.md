@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11500/0389703897.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2015/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2015-67498688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83f2e134c87862b31bc68fbecbaf283e0b6837e824e784636de0818df7b46d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a1a18d5d0741251a2af6de7932ee3d15d998d3caeb5b72ad14ca167e560a20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Acidente de Trabalho
 - Actualização de Pensões
+- Incapacidade Física
+- Incapacidade Permanente
 - Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensão Vitalícia
 - Pensões
-- Incapacidade Física
 - Seguro de Acidentes de Trabalho
-- Incapacidade Permanente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/1999/04/30/p/dre
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:164420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615035:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:27Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +186,12 @@ O presente decreto-lei vigora de 1 de janeiro de 2015 a 31 de dezembro de 2015.
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de junho de 2015.**
+Promulgado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

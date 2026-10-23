@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-1981-573729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4a0f203c1c7c4563435de6ea89f16acd5dba781c2dde5b7a1a941ee0fca7a17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78f5e376ecb4229ae8edb728ab8ce1b619deef168e8621458f56a594788e5cb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Beja
+- Castelo Branco
+- Centro de Saúde Mental
+- Centro de Saúde Mental Infantil e Juvenil
+- Criação de Serviços
+- Extinção de Serviços
+- Guarda
+- Porto
+- Regime de Instalação
+- Santarém
+- Saúde Mental
+- Setúbal
+relationships:
+- type: cites
+  target: pt:dre:459027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632733:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:55Z'
   warnings: []
   errors: []
 ---

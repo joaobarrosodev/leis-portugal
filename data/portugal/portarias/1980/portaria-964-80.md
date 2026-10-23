@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/964-1980-457411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36b1347a0c440cc9794fa30df83e895acf2f64a74abbe8e55b3f992d6f225deb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38d1443636716afbb9abf63eee8e133cfebd81d93c4fd9e1fed119b86bfe2d7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Mansão de Santa Maria de Marvila
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:226847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179053:por
+  label: "Aumentado um lugar ao quadro de pessoal aprovado pelo presente diploma, pela PORT.669/85.09.09.1985.PCM, DR.IS [207]\
+    \ de 09.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/669-1985-179053
+  date: '1985-09-09'
+- type: amended_by
+  target: pt:dre:226847:por
+  label: "Substituido o quadro de pessoal aprovado pelo presente diploma, com a redacção dada pela Port 992/80, de 18-Nov,\
+    \ pela PORT.266/86.02.06.1986.MF, DR.IS [125] de 02.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1986-226847
+  date: '1986-06-02'
+- type: cites
+  target: pt:dre:143760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:21Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +140,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 ## ANEXO — Quadro de pessoal da Mansão de Santa Maria de Marvila
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26100/38273828.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26100/38273828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26100/38273828.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04900/05080516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,144 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1985-327138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be7c2c03da1d10076e23dc9070a5294902d7432c5c260e086cda3c576e98cf2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 974d50e1dfbf17a9f628d0baf9a3c83710708c1adb4f3a4c198543500b173416
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:533376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182633:por
+  label: "Alterados os quadros de pessoal da Direcção-Geral das Contribuições e Impostos, aprovados no presente diploma, pela\
+    \ PORT.450/85.11.07.1985.MFP, DR.IS [157] de 11.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/450-1985-182633
+  date: '1985-07-11'
+- type: amended_by
+  target: pt:dre:171528:por
+  label: "Alterado o quadro de pessoal pela PORT.840/85.1985.11.07.MFP, DR.IS [256]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/840-1985-171528
+  date: '1985-11-07'
+- type: amended_by
+  target: pt:dre:219138:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral das Contribuições e Impostos, aprovado pelo presente diploma e contingentado\
+    \ pela Port. 483/85, de 18-Jul., pela PORT.474/86.28.08.1986.MF, DR.IS [197] de 28.08.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1986-219138
+  date: '1986-08-28'
+- type: amended_by
+  target: pt:dre:599732:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.17/87.1987.01.08.MF DR.IS [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-1987-599732
+  date: '1987-01-08'
+- type: amended_by
+  target: pt:dre:599484:por
+  label: "Alterado o quadro de pessoal, pelo DR.4/87.1987.01.12.MF, DR.IS [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1987-599484
+  date: '1987-01-12'
+- type: amended_by
+  target: pt:dre:666367:por
+  label: "Criado um lugar de assessor no quadro de pessoal aprovado pelo presente diploma, pela PORT.268/87.1987.04.04.MF,\
+    \ DR.IS [79]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-1987-666367
+  date: '1987-04-04'
+- type: amended_by
+  target: pt:dre:666152:por
+  label: "Alargado o quadro de pessoal, na redacção dada pela Port 483/85, de 18-Jul, pela PORT.289/87.1987.04.08.MF, DR.IS\
+    \ [82]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/289-1987-666152
+  date: '1987-04-08'
+- type: amended_by
+  target: pt:dre:419776:por
+  label: "Substituído o quadro de pessoal da Direcção-Geral das Contribuições e Impostos, pela PORT.523/87.27.06.1987.MF,\
+    \ DR.IS [145] de 27.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-1987-419776
+  date: '1987-06-27'
+- type: amended_by
+  target: pt:dre:345296:por
+  label: "Criado um lugar de assessor no quadro de pessoal aprovado pelo presente diploma, pela PORT.566-D/87.1987.07.07.MF\
+    \ DR.IS [153]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-d-1987-345296
+  date: '1987-07-07'
+- type: amended_by
+  target: pt:dre:420436:por
+  label: "Alterado o quadro de pessoal da Direcção Geral das Contribuições e Impostos pela PORT.603/87.15.07.1987.MF, DR.IS\
+    \ [160] de 15.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1987-420436
+  date: '1987-07-15'
+- type: amended_by
+  target: pt:dre:619281:por
+  label: "Alterados os artigos 1.º, 3.º, 4.º, 5.º, 7.º, 8.º, 9.º e 10.º pelo DR.26/89.1989.08.18.MF, DR.IS [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/26-1989-619281
+  date: '1989-08-18'
+- type: amended_by
+  target: pt:dre:571224:por
+  label: "Alterados os arts. 9º e 10º (ambos com a redacção conferida pelo DR 26/89 de 18-Ago) pelo DR.10/90.1990.05.04.MF,\
+    \ DR.IS [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-1990-571224
+  date: '1990-05-04'
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:495141:por
+  label: Rectificado pela DECL.DD4919.24.05.1985.PCM, DR.IS [125-Supl] de 31.05.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1985-495141
+  date: '1985-05-24'
+- type: corrected_by
+  target: pt:dre:293325:por
+  label: Rectificado o art. único do DR 10/90 de 04-Mai, na redacção que conferiu ao nº 1 do art. 10º do presente diploma,
+    pela DECL.DD3236.31.05.1990.PCM, DR.IS [125-2ºSupl] de 31.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293325
+  date: '1990-05-31'
+- type: repealed_by
+  target: pt:dre:508238:por
+  label: "Revogado o artigo 13.º, pelo DEC LEI.388/87.31.12.1987.MF, DR.IS [300] de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/388-1987-508238
+  date: '1987-12-31'
+- type: repealed_by
+  target: pt:dre:533376:por
+  label: "Revogado pelo DEC LEI.408/93.14.12.1993.MF, DR.IS-A [290] de 14.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/408-1993-533376
+  date: '1993-12-14'
 article_structure:
   article_count: 15
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:54Z'
   warnings: []
   errors: []
 ---
@@ -427,18 +531,18 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 14 de Fevereiro de 1985.**
+Promulgado em 14 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Fevereiro de 1985.**
+Referendado em 14 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 Quadro de pessoal da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04900/05080516.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04900/05080516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04900/05080516.pdf)

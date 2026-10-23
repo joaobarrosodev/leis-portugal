@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2007/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b0a396de7807bb93f2dfa77408288b110fcbd47d4989c674fa3d9f292e4586b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e5a789f338d17126cdaf8fe4866f132a7dc57546cdc7af11b8b7ab20c60b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embarcação
-- Radiocomunicações
 - Instituto Portuário e dos Transportes Marítimos
 - Licenciamento
+- Radiocomunicações
 - Regulamento do Serviço Radioeléctrico das Embarcações
 - Transferência de Competências
 relationships:
@@ -85,16 +85,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/192/2000/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/192/2000/08/18/p/dre
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485058:por
+  label: null
+  source: null
 article_structure:
-  article_count: 81
+  article_count: 58
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:17Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +147,9 @@ Os artigos 1.º, 2.º, 5.º, 6.º, 13.º, 14.º, 15.º, 16.º, 18.º, 31.º, 38.
 
 O presente Regulamento tem por objecto fixar as regras respeitantes aos processos de instalação, de licenciamento e de utilização do equipamento radioeléctrico das embarcações.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente Regulamento, entende-se por:
 
@@ -175,7 +197,9 @@ u) «Número de identidade do serviço móvel marítimo» (maritime mobile servi
 
 v) «Correspondência pública» qualquer radiocomunicação que as estações devem aceitar para transmissão, pelo facto de estarem à disposição do público.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -185,13 +209,17 @@ v) «Correspondência pública» qualquer radiocomunicação que as estações d
 
 4 - O Instituto Portuário e dos Transportes Marítimos (IPTM) deve emitir circular informativa das condições de utilização e licenciamento a bordo das embarcações para o equipamento referido no número anterior, após parecer das entidades competentes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - A regulamentação da instalação de equipamento radioeléctrico prevista no número anterior será efectuada através da publicação de circular informativa do IPTM.
 
-###### Artigo 13.º — Processo de autorização
+Artigo 13.º
+
+Processo de autorização
 
 1 - O equipamento radioeléctrico das embarcações pode ser instalado ou utilizado a bordo, desde que cumpra os regimes de colocação no mercado, de colocação em serviço, de avaliação de conformidade e marcação, de acordo com a seguinte legislação:
 
@@ -205,7 +233,9 @@ a) 1 de Janeiro de 2001, no caso do equipamento radioeléctrico dos navios a que
 
 b) 7 de Abril de 2001, no caso do equipamento radioeléctrico a que é aplicável o regime referido na alínea b) do número anterior.
 
-###### Artigo 14.º — Aprovação dos arranjos
+Artigo 14.º
+
+Aprovação dos arranjos
 
 1 - Compete ao IPTM, na fase de construção ou de modificação das embarcações, aprovar os seguintes elementos, que devem ser submetidos pelos armadores ou pelos estaleiros:
 
@@ -223,7 +253,9 @@ c) Esquema geral da instalação eléctrica das alimentações dos equipamentos 
 
 5 - (Revogado.)
 
-###### Artigo 15.º — Registo de radiobalizas
+Artigo 15.º
+
+Registo de radiobalizas
 
 1 - A utilização a bordo de radiobalizas de localização de sinistros por satélite está sujeita ao registo prévio no IPTM.
 
@@ -233,7 +265,9 @@ c) Esquema geral da instalação eléctrica das alimentações dos equipamentos 
 
 4 - O cancelamento do registo de uma radiobaliza deve ser comunicado ao IPTM com informação do destino dado ao equipamento.
 
-###### Artigo 16.º — Equipamento radioeléctrico instalado pelo anterior armador
+Artigo 16.º
+
+Equipamento radioeléctrico instalado pelo anterior armador
 
 1 - Os armadores que adquiram embarcações com equipamento radioeléctrico já instalado ou alterado, fora dos regimes estabelecidos no artigo 13.º, devem regularizar a situação relativa a esse equipamento no prazo de 30 dias contados a partir da data do registo da embarcação em seu nome.
 
@@ -243,7 +277,9 @@ a) Nos casos de mudança de armador de embarcações nacionais, os novos armador
 
 b) Nos casos de transferência de registo de embarcações estrangeiras para registo nacional, os novos armadores podem utilizar equipamentos com instalação anterior às datas referidas no n.º 2 do artigo 13.º, desde que esse equipamento tenha certificado de aprovação nos termos do presente Regulamento, ou que tenha sido licenciado ou autorizado por alguma das anteriores administrações de bandeira.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O equipamento radioeléctrico instalado ou alterado fora dos regimes estabelecidos nos artigos 13.º e 16.º deve ser desactivado e selado pelos inspectores ou pelos delegados do IPTM.
 
@@ -251,7 +287,9 @@ b) Nos casos de transferência de registo de embarcações estrangeiras para reg
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Compete ao IPTM consignar, à estação de embarcação e à estação terrena de embarcação, o indicativo de chamada e o MMSI.
 
@@ -263,7 +301,9 @@ b) Nos casos de transferência de registo de embarcações estrangeiras para reg
 
 5 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A estação de radiocomunicações de embarcação deve ser operada de acordo com:
 
@@ -279,11 +319,15 @@ c) As instruções do serviço radioeléctrico e as recomendações destinadas a
 
 4 - As medidas tomadas ao abrigo do número anterior devem ser registadas no diário do serviço de radiocomunicações.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Na estação de radiocomunicações de embarcação, para além da licença de estação da embarcação, do diário de serviço de radiocomunicações e dos certificados de operador de radiocomunicações, devem existir os documentos de serviço que constam de lista a publicar pelo IPTM.
 
-###### Artigo 40.º — Licença de estação de embarcação e validade
+Artigo 40.º
+
+Licença de estação de embarcação e validade
 
 1 - A licença de estação de embarcação é o documento que habilita uma estação de radiocomunicações de embarcação a utilizar o espectro radioeléctrico, nas faixas de frequência nela indicadas, desde que cumpridos os requisitos estabelecidos neste Regulamento e no Regulamento das Radiocomunicações.
 
@@ -299,7 +343,9 @@ Na estação de radiocomunicações de embarcação, para além da licença de e
 
 7 - A licença de estação emitida nos termos do número anterior deve indicar o nome de todas as embarcações em que o equipamento pode ser utilizado.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 A licença de estação de embarcação perde validade desde que se verifique uma das seguintes situações:
 
@@ -311,7 +357,9 @@ c) Alteração de algum dos elementos das identificações da embarcação ou da
 
 d) Alteração da composição da estação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - As vistorias ao equipamento radioeléctrico das embarcações têm por objectivo verificar:
 
@@ -333,7 +381,9 @@ f) A documentação de bordo prevista neste Regulamento e a validade dos certifi
 
 4 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As vistorias ao equipamento radioeléctrico das embarcações são efectuadas por:
 
@@ -347,7 +397,9 @@ c) Técnicos de entidades públicas que actuem no âmbito da certificação da n
 
 3 - Os inspectores e técnicos previstos nos números anteriores devem exibir a sua identificação, quando solicitada, às autoridades competentes e aos comandantes das embarcações ou a quem exerça funções correspondentes.
 
-###### Artigo 49.º — Competência instrutória e decisória
+Artigo 49.º
+
+Competência instrutória e decisória
 
 1 - Compete ao IPTM e ao órgão local da autoridade marítima em cujo espaço de jurisdição tenha sido detectado o ilícito ou ao do porto de registo da embarcação proceder à instrução processual dos processos de contra-ordenação por ilícitos tipificados pelo presente diploma.
 
@@ -361,37 +413,51 @@ b) 15% para a entidade autuante;
 
 c) 25% para a entidade a quem for cometida a instrução e decisão processuais.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 Os orgãos locais da autoridade marítima fiscalizam a existência, a bordo, da licença de estação da embarcação e do certificado de operador de radiocomunicações.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 A violação do disposto no artigo 13.º, no n.º 1 do artigo 16.º, no artigo 21.º, nos n.os 1 e 2 do artigo 22.º, nos n.os 1, 2 e 3 do artigo 24.º, nos n.os 1 e 3 do artigo 25.º, nos n.os 1, 2 e 3 do artigo 26.º, nos n.os 1 e 2 do artigo 27.º, nos n.os 1, 2 e 5 do artigo 28.º, nos artigos 29.º e 30.º, nos n.os 2, 3 e 4 do artigo 31.º, no artigo 34.º, no n.º 2 do artigo 35.º, no n.º 1 do artigo 36.º, no n.º 4 do artigo 38.º, no artigo 39.º e no n.º 5 do artigo 40.º, por armadores, comandantes ou mestres e operadores de radiocomunicações constitui contra-ordenação, punível com coima de (euro) 25 a (euro) 250.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável ao armador, a violação do disposto nos artigos 4.º, 6.º, 17.º e 23.º, no n.º 2 do artigo 25.º, nos n.os 3 e 4 do artigo 28.º, no n.º 5 do artigo 31.º, no n.º 3 do artigo 33.º e no n.º 1 do artigo 37.º
 
 2 - Constitui infracção contra-ordenacional muito grave, punível com coima de (euro) 125 a (euro) 1250, aplicável ao armador, a violação do disposto no n.º 1 do artigo 7.º
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável aos comandantes ou mestres das embarcações, a violação do disposto no n.º 3 do artigo 18.º, no n.º 2 do artigo 37.º, no n.º 2 do artigo 38.º e no n.º 1 do artigo 46.º
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável aos operadores de radiocomunicações, a violação do disposto no n.º 2 do artigo 7.º, no n.º 4 do artigo 33.º, no n.º 1 do artigo 35.º e nas alíneas a) e b) do n.º 1 do artigo 38.º
 
 2 - Constitui infracção contra-ordenacional muito grave, punível com coima de (euro) 125 a (euro) 1250, aplicável aos operadores de radiocomunicações, a violação do disposto na alínea c) do n.º 1 do artigo 38.º
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Como sanção acessória, poderá ser apreendido e declarado perdido a favor do Estado, ao abrigo da alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, o equipamento radioeléctrico cuja instalação ou colocação a bordo não tenha sido efectuada nos termos do artigo 13.º
 
 2 - No caso de serem cometidas três ou mais infracções graves ou muito graves previstas nos artigos 52.º e 53.º em cada período de cinco anos, contados a partir do dia da prática da primeira infracção, o IPTM e o capitão do porto respectivo também podem impor como sanção acessória aos operadores de radiocomunicações, nos termos da alínea g) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, a suspensão de actividade por um período de 30 dias a um ano.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Os capitães dos portos devem remeter ao IPTM cópia das decisões finais proferidas em processo contra-ordenacional por violação deste Regulamento.
 
@@ -409,7 +475,7 @@ Licence de station de navire
 
 Licencia de estacion de barco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 A presente licença habilita a estação de radiocomunicações de embarcação a utilizar o espectro radioeléctrico, nas faixas de frequências indicadas, nos termos previstos no Regulamento do Serviço Radioeléctrico das Embarcações e no Regulamento das Radiocomunicações.
 
@@ -419,25 +485,25 @@ Identificação da embarcação
 
 Vessel identification
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Titular da licença
 
 Licensee details
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Identificação da estação
 
 Licence identification
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Composição da estação
 
 Station's equipment
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 ###### Artigo 3.º — Validade das licenças já emitidas
 
@@ -461,15 +527,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 7 de Março de 2007.**
+Promulgado em 7 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 13 de Março de 2007.**
+Referendado em 13 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Regulamento do Serviço Radioeléctrico das Embarcações (RSRE), anexo ao [Decreto-Lei n.º 190/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1998-485058), de 10 de Julho
 
@@ -943,7 +1009,7 @@ Licence de station de navire
 
 Licencia de estacion de barco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 A presente licença habilita a estação de radiocomunicações de embarcação a utilizar o espectro radioeléctrico, nas faixas de frequências indicadas, nos termos previstos no Regulamento do Serviço Radioeléctrico das Embarcações e no Regulamento das Radiocomunicações.
 
@@ -953,22 +1019,22 @@ Identificação da embarcação
 
 Vessel identification
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Titular da licença
 
 Licensee details
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Identificação da estação
 
 Licence identification
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
 
 Composição da estação
 
 Station's equipment
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06100/17521764.pdf)

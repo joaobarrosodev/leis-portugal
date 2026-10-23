@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-1980-472965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a5106b55ecd5b56530c7b3c65c20d0325a2dd843142df410a61b6f13f8cffc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fd3eda55595a73a097c678bf8ed7b03c8eaeca231352eafa21bca4f6b892861
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Identificação
+- Gabinete Governamental
+- Ministério das Finanças e do Plano
+relationships:
+- type: corrected_by
+  target: pt:dre:470464:por
+  label: Rectificada pela DECL.DD6933.08.08.1980.PCM, DR.IS [182] de 08.08.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-470464
+  date: '1980-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:52Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +117,4 @@ Dimensões: 105 mm x 74 mm.
 
 Observação. - Nas primeiras duas linhas do cartão (frente) apor-se-ão as indicações, respectivamente, do departamento governamental e do serviço.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13500/13791379.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13500/13791379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13500/13791379.pdf)

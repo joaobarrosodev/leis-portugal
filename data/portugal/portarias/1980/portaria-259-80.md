@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1980-474087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec8b42c9bf5e401c5dc784a32546b88f8bb5e8ee9b41b8ae3c76a127f4f72053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 488f9f0fb10c34ec03e249ac982afbb9e6e7a6608935435471969b5a7f78463b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Viação
+- Exame
+- Formação Profissional
+- Instrutor de Condução
+- Licenciamento
 relationships:
 - type: amended_by
   target: pt:dre:564253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564253:por
+  label: "Alterada a alínea b) do n.º 8.º, a alínea g) do n.º 9.º, os n.os 29.º a 32.º, n.º 36.º, n.º 37.º, as alíneas a),\
+    \ b) e d) do n.º 41.º, os n.os 42.º a 45.º e os n.os 47.º a 50.º e aditados os n.os 51.º, 52.º, 53.º, 54.º e 55.º pela\
+    \ PORT.876/81.30.09.1981.MTC, DR.IS [225] de 30.09.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-1981-564253
+  date: '1981-09-30'
+- type: cites
+  target: pt:dre:378968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:37Z'
   warnings: []
   errors: []
 ---

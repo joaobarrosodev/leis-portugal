@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-1985-182815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aad71e9563c84ce107630e6b2e8ad71582ba7010f20761b7689195de4ade5f06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 365083230a7f59b33969dbaedc78207f040e1893146b2a48120b89360d271ce9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Logístico e Administrativo
+- Dotação Orçamental
+- Força Aérea
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351557:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:14Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +104,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que 
 
 Ministério da Defesa Nacional.
 
-**Assinada em 25 de Junho de 1985.**
+Assinada em 25 de Junho de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete.

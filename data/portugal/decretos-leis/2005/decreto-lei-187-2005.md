@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2005/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2005-583784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 163b523666eb3f6aefa0df4a0edabc783107a5a5df0b88e2b2ab42cdf9ef7b9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fef7024ba19944ef60f116b2f44095176a62b8e8e7870c23c75fe34ecbc5456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,7 +67,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Análise Laboratorial
 - Aproximação das Legislações
 - Cádmio
@@ -75,6 +74,7 @@ subjects:
 - Especificação Técnica
 - Higiene Alimentar
 - Metal não Ferroso
+- Produto Alimentar
 - Proteção do Consumidor
 relationships:
 - type: cites
@@ -112,13 +112,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:16Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +171,9 @@ Os anexos I e II do Decreto-Lei n.º 269/2002, de 27 de Novembro, passam a ter a
 
 5 - Conformidade do lote ou sublote com as especificações. - O laboratório de controlo deve analisar a amostra para laboratório para efeitos de medidas executórias através de, pelo menos, duas análises independentes, calculando a média dos resultados. O lote é aceite se a média não for superior ao respectivo teor máximo tal como estabelecido no Regulamento (CE) n.º [466/2001](https://data.europa.eu/eli/reg/2001/466/oj?locale=pt), tomando em consideração a incerteza da medição expandida e a correcção em função da recuperação. O lote é rejeitado se a média exceder o respectivo teor máximo, com um grau de confiança elevado, tendo em conta a incerteza da medição expandida e a correcção em função da recuperação. As presentes normas de interpretação destinam-se a ser aplicadas aos resultados analíticos obtidos com a amostra para efeitos de controlo oficial. Nos casos em que se efectuam análises para efeitos de direito de recurso ou de arbitragem, aplicam-se as normas nacionais.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -223,12 +225,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

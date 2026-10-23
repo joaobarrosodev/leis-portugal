@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/47/2011/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/47-2011-276808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9ceb258ac3606849f9b043bd62944d6b9241e26534cb4af0782dc936bfc0849
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 340081c2bac84f32b817920f8ac6c8e3cfdbf327892ee38c991952331ee66c74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distinção Honorífica
-- Chanceler das Ordens Nacionais
-- Chanceler das Ordens de Mérito Civil
-- Nomeação
 - Chanceler das Antigas Ordens Militares
+- Chanceler das Ordens de Mérito Civil
+- Chanceler das Ordens Nacionais
+- Distinção Honorífica
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:669326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669326:por
+  label: "Exonerado João Bosco Mota Amaral, pelo DEC.57/2011.20.07.2011.PR, DR.IS [138] de 20.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/57-2011-669326
+  date: '2011-07-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/2011/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2011/03/02/p/dre
+- type: cites
+  target: pt:dre:278888:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:28Z'
   warnings: []
   errors: []
 ---
@@ -98,12 +107,12 @@ validation:
 
 de 18 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 41.º, n.º 1, da [Lei n.º 5/2011](https://diariodarepublica.pt/dr/detalhe/lei/5-2011-278888), de 2 de Março - Lei das Ordens Honoríficas Portuguesas, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 41.º, n.º 1, da [Lei n.º 5/2011](https://diariodarepublica.pt/dr/detalhe/lei/5-2011-278888), de 2 de Março - Lei das Ordens Honoríficas Portuguesas, o seguinte:
 
 São nomeados chanceleres das antigas ordens militares, das ordens nacionais e das ordens de mérito civil, respectivamente, o general Vasco Joaquim Rocha Vieira, o Dr. João Bosco Mota Amaral e o embaixador António de Oliveira Pinto da França.
 
-**Assinado em 13 de Abril de 2011.**
+Assinado em 13 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

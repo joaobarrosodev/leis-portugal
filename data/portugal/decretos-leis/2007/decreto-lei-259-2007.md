@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13600/0449404496.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/259/2007/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-2007-636179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd6785cbd45e677ea720e1caf5702e80ab0075ee4020e5fc31817e1f21f78175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8e1a574be2aef932ea5808486a41925b40f5e4f5cd404ebc1076171833ab5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
 - Armazenagem
-- Multa
-- Estabelecimento Comercial
-- Obras Particulares
+- ASAE
+- Câmara Municipal
+- Comércio
 - Definição de Competências
+- Direcção Geral da Empresa
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Fiscalização
 - Instalação de Serviços
-- Publicitação
-- ASAE
 - Licenciamento
-- Direcção Geral da Empresa
-- Prestação de Serviços
 - Madeira.região Autónoma
-- Câmara Municipal
+- Multa
+- Obras Particulares
+- Prestação de Serviços
+- Produto Alimentar
+- Publicitação
 - Regime Jurídico
 - Regulamento CE
 - Sanção
-- Açores
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439091:por
+  label: "Alterado o art. 2º, pelo DEC LEI.209/2008.29.10.2008.PCM, DR.IS [2210] de 29.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2008-439091
+  date: '2008-10-29'
 - type: cites
   target: celex:32004R0852
   label: null
@@ -119,16 +124,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/33/2000/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/33/2000/01/28/p/dre
+- type: repealed_by
+  target: pt:dre:277581:por
+  label: "Revogados os art.s 1º a 12º e 14º e 15º, a partir de 02.05.2011, pelo DEC LEI.48/2011.01.04.2011.PCM, DR.IS [65]\
+    \ de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogado, a partir de 01.03.2015, o presente diploma, na redação dos Decs. Leis 209/2008 de 29-out, e 48/2011, de
+    01-abr, pelo(a) Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:51Z'
   warnings: []
   errors: []
 ---
@@ -275,12 +292,12 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 26 de Fevereiro de 2007.**
+Promulgado em 26 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Fevereiro de 2007.**
+Referendado em 28 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

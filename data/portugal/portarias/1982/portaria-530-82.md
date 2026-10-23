@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/530-1982-391982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e7bf4ea9e2e9e5cd906d5c5a14dd42997bf323213e1b810dd2a21ce1c7f99d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7682fb7c52ac0bb3fc8a8acfacb9189293be9d81acf59dde642a4649b7786806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ensino Superior
+- Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:379348:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395345:por
+  label: "Aditado um nº 14-A pela PORT.640/82.1982.06.26.ME, DR.IS [145] de 26/Jun/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-1982-395345
+  date: '1982-06-26'
+- type: amended_by
+  target: pt:dre:396559:por
+  label: "Dada nova redacção aos artigos 21.º e 22.º, altera, na parte referente ao curso de Relações Internacionais, o quadro\
+    \ do anexo II e aditada uma nota 12 ao mapa do anexo II do presente diploma pela daPORT.801/82.24.08.1982.ME, DR.IS [195]\
+    \ de 24.08.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/801-1982-396559
+  date: '1982-08-24'
+- type: amended_by
+  target: pt:dre:374636:por
+  label: "Alterados os anexos I e II do presente diploma, pela PORT.825/82.30.08.1982.ME, DR.IS [200] de 30.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/825-1982-374636
+  date: '1982-08-30'
+- type: amended_by
+  target: pt:dre:444202:por
+  label: "Aditada uma referência n.º 10-A e alteradas as referências 11 e 16 no anexo VI do presente diploma, pela PORT.1023-A/82.06.11.1982.ME,\
+    \ DR.IS [257-Supl] de 06.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1023-a-1982-444202
+  date: '1982-11-06'
+- type: amended_by
+  target: pt:dre:379348:por
+  label: "Alteradas as datas das referências com os nºs. 12 a 16 constantes do anexo VI do presente diploma, pela PORT.1137/82.10.12.1982.ME,\
+    \ DR.IS [284] de 10.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1137-1982-379348
+  date: '1982-12-10'
+- type: cites
+  target: pt:dre:141653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578475:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394105:por
+  label: Rectificado o presente diploma pela DECL.DD6137.09.07.1982.PCM, DR.IS [167] de 22.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394105
+  date: '1982-07-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:48Z'
   warnings: []
   errors: []
 ---
@@ -690,17 +764,17 @@ Ministério da Educação e das Universidades, 12 de Maio de 1982. - O Ministro 
 
 ## ANEXO I — Estabelecimentos e cursos do ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
 
 ## ANEXO II — Habilitação geral de acesso ao ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
 
 ## ANEXO III — Habilitação geral de acesso ao ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
 
 ## ANEXO V — Requerimento a que se refere o ponto 2 do n.º 38.º
 
@@ -722,4 +796,4 @@ Pedem deferimento,
 
 (A elaborar em papel selado, em duplicado, e com as assinaturas dos requerentes reconhecidas notarialmente.)
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12100/14401461.pdf)

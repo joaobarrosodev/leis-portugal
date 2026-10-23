@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1984-386401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T08:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bda60757e3158e24698309ab9eea4b9c4745c254b3271330e63362e03dbc529
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4cdf54e10c75baf3569b86be3941a24e8ed595538afad296119a913c043b0fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
+- Transporte de Mercadorias Perigosas
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:457066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:457066:por
+  label: "Revogado, na parte aplicável ao transporte rodoviário, pelo DEC LEI.77/97.1997.04.05.MEPAT, DR.IS-A [80], na data\
+    \ da entrada em vigor das portarias previstas nesse diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1997-457066
+  date: '1997-04-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:02:30Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +186,7 @@ d) Metais sob forma pirofórica.
 
 11.º O n.º 3 do apêndice III passa a considerar também os produtos a seguir indicados e os respectivos números de identificação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf))](https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/06/13200/18091811.pdf)
 
 e o número de identificação da natureza do perigo do fósforo branco ou amarelo passa a ser 46 em vez de 436.
 
@@ -189,6 +202,6 @@ e o número de identificação da natureza do perigo do fósforo branco ou amare
 
 Ministérios da Administração Interna e do Equipamento Social.
 
-**Assinada em 21 de Maio de 1984.**
+Assinada em 21 de Maio de 1984.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - O Ministro do Equipamento Social, João Rosado Correia.

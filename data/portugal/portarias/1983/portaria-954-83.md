@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/25100/37213722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/954-1983-443687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 677354bf549414b80452955491c18f8279627daad9260b5409e8ba87398f0827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79e183c01385780d087ca875f924127bdd049843488a3ba8f2afbeffab4ae020
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia de Marinha
+- Marinha
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:546598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546598:por
+  label: "Revogada pelo DR.67/94.1994.11.23.MDN, DR.IS-B [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/67-1994-546598
+  date: '1994-11-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:10Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +114,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o se
 
 Ministério da Defesa Nacional.
 
-**Assinada em 13 de Outubro de 1983.**
+Assinada em 13 de Outubro de 1983.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.
 
 REGULAMENTO DA ACADEMIA DE MARINHA
 
 (Anexo à Portaria n.º 954/83)
 
-###### Artigo 1.º A Academia de Marinha é um organismo cultural destinado a promover e desenvolver os estudos e a divulgar os conhecimentos relacionados com a História, as Ciências, as Letras, as Artes e tudo o mais que diga respeito ao mar e às actividades marítimas.
+Artigo 1.º A Academia de Marinha é um organismo cultural destinado a promover e desenvolver os estudos e a divulgar os conhecimentos relacionados com a História, as Ciências, as Letras, as Artes e tudo o mais que diga respeito ao mar e às actividades marítimas.
 
-###### Art. 2.º A Academia de Marinha funciona na directa dependência do Chefe do Estado-Maior da Armada e enquanto não dispuser de instalações próprias utiliza as do Museu de Marinha.
+Art. 2.º A Academia de Marinha funciona na directa dependência do Chefe do Estado-Maior da Armada e enquanto não dispuser de instalações próprias utiliza as do Museu de Marinha.
 
-###### Art. 3.º - 1 - A Academia de Marinha compreende membros das seguintes carreiras:
+Art. 3.º - 1 - A Academia de Marinha compreende membros das seguintes carreiras:
 
 a) Eméritos;
 
@@ -134,25 +146,25 @@ b) Secção de Artes, Letras e Ciências.
 
 3 - Em cada uma das secções referidas no número anterior podem ser criadas subsecções especializadas.
 
-###### Art. 4.º - 1 - Serão membros eméritos os eleitos de entre os membros efectivos que pelo seu prestígio e dedicação à Academia mereçam essa distinção.
+Art. 4.º - 1 - Serão membros eméritos os eleitos de entre os membros efectivos que pelo seu prestígio e dedicação à Academia mereçam essa distinção.
 
 2 - Os membros eméritos mantêm todos os direitos e regalias dos membros efectivos.
 
 3 - Os membros eméritos não contam para efeitos do n.º 2 do artigo 5.º
 
-###### Art. 5.º - 1 - Só podem ser eleitos membros efectivos da Academia de Marinha cidadãos de países de língua ou expressão portuguesa ou de comunidades de língua ou cultura portuguesas.
+Art. 5.º - 1 - Só podem ser eleitos membros efectivos da Academia de Marinha cidadãos de países de língua ou expressão portuguesa ou de comunidades de língua ou cultura portuguesas.
 
 2 - O número máximo de membros efectivos de cada uma das secções referidas no n.º 2 do artigo anterior é de 30.
 
-###### Art. 6.º - 1 - A categoria de associados destina-se a contemplar a eleição de personalidades não abrangidas pelo n.º 1 do artigo 5.º
+Art. 6.º - 1 - A categoria de associados destina-se a contemplar a eleição de personalidades não abrangidas pelo n.º 1 do artigo 5.º
 
 2 - O número de associados, em cada secção, não deve exceder, como regra, o número de membros efectivos.
 
-###### Art. 7.º - 1 - A eleição de membros correspondentes também será feita, exclusivamente, entre personalidades abrangidas pelo n.º 1 do artigo 5.º
+Art. 7.º - 1 - A eleição de membros correspondentes também será feita, exclusivamente, entre personalidades abrangidas pelo n.º 1 do artigo 5.º
 
 2 - O número de membros correspondentes, em cada secção, não deve exceder, como regra, o número de efectivos.
 
-###### Art. 8.º - 1 - Os cargos de direcção e administração da Academia são os seguintes:
+Art. 8.º - 1 - Os cargos de direcção e administração da Academia são os seguintes:
 
 a) Presidente da Academia;
 
@@ -178,9 +190,9 @@ f) Vice-secretário-geral e secretário da Secção de Artes, Letras e Ciências
 
 7 - O presidente da Academia poderá acumular o exercício deste cargo com o de presidente de qualquer das duas secções,
 
-###### Art. 9.º Os membros de qualquer das categorias referidas no n.º 1 do artigo 3.º serão eleitos em plenário de membros efectivos, em exercício, das duas secções.
+Art. 9.º Os membros de qualquer das categorias referidas no n.º 1 do artigo 3.º serão eleitos em plenário de membros efectivos, em exercício, das duas secções.
 
-###### Art. 10.º Ao presidente da Academia compete especialmente:
+Art. 10.º Ao presidente da Academia compete especialmente:
 
 a) Orientar os trabalhos da Academia;
 
@@ -188,7 +200,7 @@ b) Representar o organismo a que preside, podendo corresponder-se directamente c
 
 c) Administrar as dotações que sejam atribuídas à Academia.
 
-###### Art. 11.º Compete especialmente aos presidentes das secções da Academia:
+Art. 11.º Compete especialmente aos presidentes das secções da Academia:
 
 a) Orientar os trabalhos próprios da respectiva secção;
 
@@ -196,12 +208,12 @@ b) Propor a criação das subsecções que a sua secção deve abranger;
 
 c) Distribuir os membros da sua secção pelas diversas subsecções.
 
-###### Art. 12.º - 1 - A Academia de Marinha terá emblema, divisa e selo próprios.
+Art. 12.º - 1 - A Academia de Marinha terá emblema, divisa e selo próprios.
 
 2 - Os membros da Academia de Marinha terão direito a usar insígnias próprias.
 
-###### Art. 13.º O Chefe do Estado-Maior da Armada estabelecerá, por portaria e por despacho, respectivamente, o pessoal militar e o pessoal civil que prestará serviço na secretaria e órgãos auxiliares da Academia.
+Art. 13.º O Chefe do Estado-Maior da Armada estabelecerá, por portaria e por despacho, respectivamente, o pessoal militar e o pessoal civil que prestará serviço na secretaria e órgãos auxiliares da Academia.
 
-###### Art. 14.º Os membros da Academia de Marinha podem utilizar o Museu de Marinha, a Biblioteca Central da Marinha e o Arquivo Geral da Marinha em condições idênticas às estabelecidas para os oficiais da Armada.
+Art. 14.º Os membros da Academia de Marinha podem utilizar o Museu de Marinha, a Biblioteca Central da Marinha e o Arquivo Geral da Marinha em condições idênticas às estabelecidas para os oficiais da Armada.
 
-**O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.**
+O Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto.

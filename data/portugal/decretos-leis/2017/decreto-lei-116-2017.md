@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2017/09/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2017-108125021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3272f130e24f68827340c9030eb0135b00b5ce464c6743bdd56efebfae64f271
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3256a6abdc0546be6610d6f78b3026e2dccb7e5f44fe75acb6a155547ab1b22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultor
 - Aproximação das Legislações
+- ASAE
 - Catálogo Nacional de Variedades
-- Engenharia Genética
-- Organismo Geneticamente Modificado
+- Comércio
+- Comissão CE
 - Direção Geral de Alimentação e Veterinária
+- Diversidade Biológica
+- Engenharia Genética
 - Etiquetagem
 - Fiscalização
 - Forragem
-- Comissão CE
-- ASAE
 - Licenciamento
-- Diversidade Biológica
-- Produto Hortícola
-- Agricultor
 - Madeira.região Autónoma
+- Organismo Geneticamente Modificado
+- Produto Agrícola
+- Produto Hortícola
 - Recursos Genéticos
 - Semente
-- Açores
 - Taxa
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:185971762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterados, com efeitos a 01.07.2018, os anexos I e II do Dec Lei 42/2017, de 06-abr, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i e ii, na redação do presente diploma, ao Dec Lei 42/2017 de 06-abr, pelo(a) Decreto-Lei n.º
+    154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -128,16 +140,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/2017/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/2017/04/06/p/dre
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:22Z'
   warnings: []
   errors: []
 ---
@@ -194,15 +210,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Tiago Barreto Caldeira Antunes - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Manuel de Herédia Caldeira Cabral - Luís Manuel Capoulas Santos.
 
-**Promulgado em 4 de setembro de 2017.**
+Promulgado em 4 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de setembro de 2017.**
+Referendado em 7 de setembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -210,41 +226,45 @@ Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Lu
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
-# Parte B
-
-[...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
-
-# Parte C
+Parte B
 
 [...]
 
-[...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
-## ANEXO II — [...]
-
-# Parte A
+Parte C
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[...]
 
-# Parte B
+ANEXO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+Parte A
 
-## ANEXO IV — [...]
+[...]
 
-# Parte A
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+
+Parte B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+
+ANEXO IV
+
+[...]
+
+Parte A
 
 [...]
 
@@ -252,17 +272,17 @@ Visto e aprovado em Conselho de Ministros de 10 de agosto de 2017. - António Lu
 
 1.1 - [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
 1.2 - Outras espécies:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
 2 - [...].
 
 3 - [...].
 
-# Parte B
+Parte B
 
 [...]
 
@@ -288,7 +308,7 @@ Seja, nas espécies Lolium multiflorum e Lolium x hybridum, realizada uma segund
 
 10 - [...]:
 
-# Parte C
+Parte C
 
 [...]
 
@@ -302,7 +322,7 @@ QUADRO I
 
 Normas e tolerâncias para as categorias de semente Certificada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
 QUADRO II
 
@@ -310,7 +330,7 @@ Normas e tolerâncias para as sementes Pré-base e Base
 
 (Sem prejuízo das normas e tolerâncias indicadas no presente quadro, aplicam-se as normas e tolerâncias do quadro I)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
 4 - [...]:
 
@@ -320,15 +340,15 @@ QUADRO III
 
 Peso dos lotes e das amostras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf))](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/09/17500/0535105361.pdf)
 
-# Parte D
-
-[...]
+Parte D
 
 [...]
 
-# Parte E
+[...]
+
+Parte E
 
 [...]
 

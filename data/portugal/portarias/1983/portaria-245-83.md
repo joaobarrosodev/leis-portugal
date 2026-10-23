@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/245-1983-309552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc56504e8e68ee06c588b6a7c6067f71d4db0d26c2fc0596f8fe479cac764e5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db1209aaa36406717fb35f3467636e8c3af329ab1ca8886edaa948d0cc250e69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Classificação de Espectáculos
+- Comissão de Classificação de Espectáculos
+- Espetáculos e Divertimentos Públicos
+relationships:
+- type: cites
+  target: pt:dre:375867:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:23Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +103,19 @@ Ministério da Cultura e Coordenação Científica, 26 de Janeiro de 1983. - O M
 
 ### CAPÍTULO I — Classificação etária
 
-###### Artigo 1.º Serão classificados para maiores de 18 anos os espectáculos pornográficos e os espectáculos que explorem formas patológicas de violência física e ou psíquica.
+Artigo 1.º Serão classificados para maiores de 18 anos os espectáculos pornográficos e os espectáculos que explorem formas patológicas de violência física e ou psíquica.
 
-###### Art. 2.º Serão classificados para maiores de 16 anos os espectáculos que explorem, em termos excessivos, aspectos da sexualidade e a violência física e ou psíquica.
+Art. 2.º Serão classificados para maiores de 16 anos os espectáculos que explorem, em termos excessivos, aspectos da sexualidade e a violência física e ou psíquica.
 
-###### Art. 3.º Serão classificados para maiores de 12 anos os espectáculos que, pela sua extensão ou complexidade, possam provocar nos espectadores de nível etário inferior fadiga excessiva e ou traumatismo psíquico.
+Art. 3.º Serão classificados para maiores de 12 anos os espectáculos que, pela sua extensão ou complexidade, possam provocar nos espectadores de nível etário inferior fadiga excessiva e ou traumatismo psíquico.
 
-###### Art. 4.º Serão classificados para maiores de 6 anos os espectáculos que, pela sua temática e ou extensão, não sejam abrangidos pelos critérios fixados para os níveis etários superiores.
+Art. 4.º Serão classificados para maiores de 6 anos os espectáculos que, pela sua temática e ou extensão, não sejam abrangidos pelos critérios fixados para os níveis etários superiores.
 
-###### Art. 5.º Serão classificados para maiores de 4 anos os espectáculos de curta duração e de fácil compreensão que não provoquem reacções de pavor e que não colidam com a fantasia e com o sentido lúdico deste nível etário.
+Art. 5.º Serão classificados para maiores de 4 anos os espectáculos de curta duração e de fácil compreensão que não provoquem reacções de pavor e que não colidam com a fantasia e com o sentido lúdico deste nível etário.
 
 ### CAPÍTULO II — Espectáculos pornográficos
 
-###### Art. 6.º Caracterização genérica:
+Art. 6.º Caracterização genérica:
 
 Serão considerados pornográficos os espectáculos que apresentem, cumulativamente:
 
@@ -116,7 +123,7 @@ a) Exploração de situações e de actos sexuais com o objectivo primordial de 
 
 b) Baixa qualidade estética.
 
-###### Art. 7.º Caracterização específica:
+Art. 7.º Caracterização específica:
 
 1) Serão classificados no 1.º escalão (hard-core) os espectáculos que apresentem uma descrição ostensiva e insistente de actos sexuais realmente praticados, com exibição dos órgãos genitais;
 
@@ -124,4 +131,4 @@ b) Baixa qualidade estética.
 
 ### CAPÍTULO III — Espectáculos de qualidade
 
-###### Art. 8.º Serão classificados de qualidade os espectáculos que pelos seus aspectos artístico, temático, pedagógico e técnico mereçam esse atributo.
+Art. 8.º Serão classificados de qualidade os espectáculos que pelos seus aspectos artístico, temático, pedagógico e técnico mereçam esse atributo.

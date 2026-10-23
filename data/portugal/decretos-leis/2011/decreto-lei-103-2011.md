@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2011/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2011-671233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 765dc5f383e8120de16211a1d84c88c5f2b64ba542001a96e04a47ad4a7dd432
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f010ee3023edd6cb433ef5b5fa4c41f766007eee46c725a01a6c4dd9a6c1b9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
+- Aditivo Alimentar
 - Aproximação das Legislações
-- Multa
+- ASAE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
 - Definição de Competências
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- ASAE
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
-- Aditivo Alimentar
-- Proteção do Consumidor
 - Indústria Alimentar
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Multa
+- Produto Alimentar
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 - Solvente
 - Tecnologia Alimentar
 relationships:
@@ -91,6 +91,12 @@ relationships:
   target: pt:dre:114163923:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterado o anexo ao Dec Lei 304/98 de 07-out, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
 - type: cites
   target: celex:31988L0344
   label: null
@@ -132,15 +138,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/304/1998/10/07/p/dre
 article_structure:
-  article_count: 22
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:18Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +197,9 @@ d) ...
 
 e) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Na rotulagem dos auxiliares tecnológicos colocados no mercado devem constar das embalagens ou recipientes, em caracteres bem visíveis, claramente legíveis e indeléveis, as seguintes indicações:
 
@@ -211,7 +219,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +249,9 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 6 - Às contra-ordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
 
-###### Artigo 8.º — Fiscalização, instrução e decisão
+Artigo 8.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas regiões autónomas.
 
@@ -269,7 +281,9 @@ c) Verificar o cumprimento, por parte dos operadores, das obrigações estabelec
 
 2 - A execução do plano de controlo oficial previsto na alínea b) do número anterior cabe às direcções regionais de agricultura e pescas e aos serviços competentes das regiões autónomas.
 
-###### Artigo 8.º-A — Destino do produto das coimas
+Artigo 8.º-A
+
+Destino do produto das coimas
 
 O produto da aplicação das coimas reverte a favor das seguintes entidades:
 
@@ -287,15 +301,15 @@ d) 10 % para a CACMEP.»
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 27 de Setembro de 2011.**
+Promulgado em 27 de Setembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Setembro de 2011.**
+Referendado em 28 de Setembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -303,7 +317,9 @@ Visto e aprovado em Conselho de Ministros de 1 de Setembro de 2011. - Pedro Pass
 
 [...]
 
-# PARTE I — [...] (1)
+PARTE I
+
+[...] (1)
 
 [...]
 
@@ -323,25 +339,35 @@ Dióxido de carbono.
 
 (2) [...]
 
-# PARTE II — [...]
+PARTE II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf))](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
+[...]
 
-# PARTE III — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf))](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
+PARTE III
 
-## ANEXO II — (a que se refere o artigo 5.º)
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 Republicação do Decreto-Lei n.º 304/98, de 7 de Outubro
 
-###### Artigo 1.º — Âmbito de aplicação
+Artigo 1.º
+
+Âmbito de aplicação
 
 1 - O presente diploma aplica-se aos solventes de extracção utilizados no fabrico de géneros alimentícios e dos respectivos ingredientes.
 
 2 - Ficam excluídos do âmbito de aplicação deste diploma os solventes de extracção utilizados na produção de aditivos alimentares, de vitaminas e de outros nutrientes, com excepção dos que constam das listas do anexo ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -355,7 +381,9 @@ d) «Solvente» qualquer substância própria para dissolver um género aliment�
 
 e) «Solvente de extracção» um solvente utilizado durante o processo de extracção, aquando do tratamento de matérias-primas de géneros alimentícios, de componentes ou de ingredientes destes produtos, que é eliminado e que pode provocar a presença involuntária mas tecnicamente inevitável de resíduos ou de derivados no género alimentício ou no ingrediente.
 
-###### Artigo 2.º-A — Controlo oficial
+Artigo 2.º-A
+
+Controlo oficial
 
 1 - Compete ao Gabinete de Planeamento e Políticas (GPP) do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, designadamente:
 
@@ -367,13 +395,17 @@ c) Verificar o cumprimento, por parte dos operadores, das obrigações estabelec
 
 2 - A execução do plano de controlo oficial previsto na alínea b) do número anterior cabe às direcções regionais de agricultura e pescas e aos serviços competentes das regiões autónomas.
 
-###### Artigo 3.º — Condições de utilização dos solventes de extracção
+Artigo 3.º
+
+Condições de utilização dos solventes de extracção
 
 1 - Apenas podem ser utilizadas, como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes, as substâncias e matérias enumeradas no anexo ao presente diploma, que dele faz parte integrante, nas condições de utilização e dentro dos limites máximos de resíduos que aí vêm referidos.
 
 2 - São autorizados como solventes de extracção no fabrico de géneros alimentícios ou dos seus ingredientes a água, à qual podem ter sido adicionadas substâncias para regular a acidez ou a alcalinidade, bem como outras substâncias alimentares que possuam propriedades de solventes.
 
-###### Artigo 4.º — Critérios de pureza
+Artigo 4.º
+
+Critérios de pureza
 
 Os solventes de extracção devem obedecer aos seguintes critérios de pureza:
 
@@ -383,11 +415,15 @@ b) Salvo os casos eventualmente previstos para os critérios de pureza específi
 
 c) Corresponder aos critérios específicos de pureza estabelecidos de acordo com as regras comunitárias.
 
-###### Artigo 5.º — Suspensão ou restrição temporária de utilização
+Artigo 5.º
+
+Suspensão ou restrição temporária de utilização
 
 Se o uso nos géneros alimentícios de uma das substâncias referidas no anexo ao presente diploma, que dele faz parte integrante, ou se a presença nessas substâncias de um ou mais componentes referidos no artigo 4.º for susceptível de ser nociva para a saúde humana, a sua utilização pode ser suspensa ou restringida temporariamente, nos termos da lei geral.
 
-###### Artigo 6.º — Menções de rotulagem
+Artigo 6.º
+
+Menções de rotulagem
 
 1 - Na rotulagem dos auxiliares tecnológicos colocados no mercado devem constar das embalagens ou recipientes, em caracteres bem visíveis, claramente legíveis e indeléveis, as seguintes indicações:
 
@@ -407,7 +443,9 @@ f) Se necessário, as condições especiais de conservação ou de utilização.
 
 3 - As disposições anteriores aplicam-se sem prejuízo da legislação em vigor relativa a metrologia e, ainda, à classificação, acondicionamento e rotulagem de substâncias e preparações perigosas.
 
-###### Artigo 7.º — Regime sancionatório
+Artigo 7.º
+
+Regime sancionatório
 
 1 - Constituem contra-ordenações as infracções ao disposto no n.º 1 do artigo 3.º, no artigo 4.º e no n.º 1 do artigo 6.º do presente diploma.
 
@@ -435,7 +473,9 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 6 - Às contra-ordenações previstas no presente diploma é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
 
-###### Artigo 8.º — Fiscalização, instrução e decisão
+Artigo 8.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente diploma competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas regiões autónomas.
 
@@ -443,7 +483,9 @@ g) Suspensão de autorizações, licenças e alvarás.
 
 3 - A CACMEP envia à ASAE e ao GPP cópia das decisões finais de aplicação de coima e sanções acessórias.
 
-###### Artigo 8.º-A — Destino do produto das coimas
+Artigo 8.º-A
+
+Destino do produto das coimas
 
 O produto da aplicação das coimas reverte a favor das seguintes entidades:
 
@@ -455,23 +497,31 @@ c) 20 % para a entidade que instruiu o processo;
 
 d) 10 % para a CACMEP.
 
-###### Artigo 9.º — Disposições transitórias
+Artigo 9.º
+
+Disposições transitórias
 
 Os produtos não conformes com o presente diploma, mas que tenham sido colocados no mercado ou rotulados, antes de 27 de Abril de 1999, poderão ser comercializados até ao esgotamento das existências.
 
-###### Artigo 10.º — Norma revogatória
+Artigo 10.º
+
+Norma revogatória
 
 São revogados o Decreto-Lei n.º 82/92, de 7 de Maio, e as Portarias n.os 1034/92, de 5 de Novembro, 263/94, de 30 de Abril, e 712/96, de 9 de Dezembro.
 
-###### Artigo 11.º — Entrada em vigor
+Artigo 11.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO
+ANEXO
 
 Solventes de extracção cuja utilização é autorizada para o tratamento de matérias-primas, de géneros alimentícios ou de compostos de géneros alimentícios ou dos respectivos ingredientes.
 
-# PARTE I — Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)
+PARTE I
+
+Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos (1)
 
 Propano.
 
@@ -491,10 +541,14 @@ Acetona (2).
 
 (2) É proibido o uso de acetona na refinação de óleo de bagaço de azeitona.
 
-# PARTE II — Solventes de extracção cujas condições de utilização são especificadas
+PARTE II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf))](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
+Solventes de extracção cujas condições de utilização são especificadas
 
-# PARTE III — Solventes de extracção cujas condições de utilização são especificadas
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf))](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)
+PARTE III
+
+Solventes de extracção cujas condições de utilização são especificadas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/10/19100/0457604581.pdf)

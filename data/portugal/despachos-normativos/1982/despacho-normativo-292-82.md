@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/292-1982-318149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c46b89e368b08b1d45b1cf13d90a76a8fa442767a36cb95c6e73aaadffe1c37e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce8947cbfded0d5873a4c51ca63e5767bc774b3e4d3f878e22ac99ab538d586a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carris
+- Companhia Portuguesa de Transportes Marítimos
+- CP
+- Empresa Pública
+- Empréstimo
+- Financiamento
+- Investimento Público
+- Pisee
+- Rodoviária Nacional Investimentos e Participações
+- Saneamento Económico e Financeiro
+- Setor Empresarial do Estado
+- STCP
+relationships:
+- type: cites
+  target: pt:dre:394502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397285:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:20:10Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +119,7 @@ Considerando o grau de execução dos projectos aprovados para 1982 pelo despach
 
 Nestes termos:
 
-**O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:**
+O Ministro de Estado e das Finanças e do Plano e o Ministro da Habitação, Obras Públicas e Transportes determinam:
 
 1 - O n.º 1 do [Despacho Normativo n.º 139/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/139-1982-394522), publicado em 8 de Julho de 1982 no Diário da República, 1.ª série, n.º 155, passa a ter a seguinte redacção:
 

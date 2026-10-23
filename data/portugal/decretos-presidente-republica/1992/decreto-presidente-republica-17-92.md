@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 161/1992, 1º Suplemento, Série I-A de 1992-07-15
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3322-(2) a 3322-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/17/1992/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/17-1992-209831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d38860060b74b83abb78cf41bccb4e38a66f93f0277f8a89a9e0bc2af743137
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e418749c51c69fb9ada29de6273df2d77bfa80bff0df98ed41511a45ad328f56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ARMA Convencional
-- Portugal
 - Europa
 - Forças Armadas
+- Portugal
 - Tratado sobre Forças Armadas Convencionais na Europa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/22-a/1992/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/22-a/1992/07/15/p/dre
+- type: cites
+  target: pt:dre:209832:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:17Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ validation:
 
 de 15 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Tratado sobre Forças Armadas Convencionais na Europa, assinado em Paris, em 19 de Novembro de 1990, que incorpora o Protocolo sobre Tipos Existentes de Armamentos e Equipamento Convencionais, com um anexo, o Protocolo sobre Procedimentos que Regulam a Reclassificação de Modelos e Versões Específicas de Aviões de Treino com Capacidade para o Combate em Aviões de Treino Desarmados, o Protocolo sobre Procedimentos que Regulam a Redução de Armamentos e Equipamento Convencionais Limitados pelo Tratado sobre Forças Armadas Convencionais na Europa, o Protocolo sobre Procedimentos que Regulam a Categorização de Helicópteros de Combate e a Recategorização de Helicópteros de Ataque para Fins Múltiplos, o Protocolo sobre Notificação e Troca de Informação com um anexo sobre o formato para troca de informação, o Protocolo sobre Inspecção, o Protocolo sobre o Grupo Consultivo Conjunto e o Protocolo sobre a Aplicação Provisória de Certas Cláusulas do Tratado sobre Forças Armadas Convencionais na Europa, conjuntamente com:
 
@@ -109,12 +113,12 @@ A declaração, feita no Grupo Consultivo Conjunto em 18 de Outubro de 1991 pelo
 
 aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 22-A/92](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/22-a-1992-209832), em 9 de Junho de 1992.
 
-**Assinado em 8 de Julho de 1992.**
+Assinado em 8 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Julho de 1992.**
+Referendado em 8 de Julho de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

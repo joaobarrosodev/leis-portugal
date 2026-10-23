@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/107/2025/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/107-2025-944098797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41b3ef3449f71111f268bb637bd2bf237c558a226a7d6e66fd99a5aee4562dd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75979b8a8043c359f4c3b0b1e527a1279706fd3de51c7aebc9b8bcf776df1bf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,37 @@ reuse:
 subjects:
 - Convenção
 - Cooperação Transfronteira
-- Portugal
 - Espanha
 - Faro
 - Navegação de Recreio
+- Portugal
 - Rio Guadiana
 - Segurança da Navegação
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:172/2025
+  label: Ratifica o Acordo aprovado pela Resolução da Assembleia da República n.º 172/2025, de 4 de novembro, Diário da República
+    n.º 213/2025, Série I
+  source: null
+  date: '2025-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/172/2025/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/172/2025/11/04/p/dre
+- type: cites
+  target: pt:dre:944098799:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:29Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +107,18 @@ validation:
 
 de 4 de novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e o Reino de Espanha para a Segurança da Navegação e Náutica de Recreio no Troço Internacional do Rio Guadiana, feito em Faro a 23 de outubro de 2024, aprovado pela [Resolução da Assembleia da República n.º 172/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/172-2025-944098799), em 30 de setembro de 2025.
 
-**Assinado em 22 de outubro de 2025.**
+Assinado em 22 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2025.**
+Referendado em 29 de outubro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119718977

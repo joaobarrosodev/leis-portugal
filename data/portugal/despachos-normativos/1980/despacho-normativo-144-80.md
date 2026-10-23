@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/144-1980-681394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8b2f9ca1eb78268a4df79219802ef24255a841993969f180177b4cca17b4866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efc0f9b33b2e4c811d286ff4d4ea6477cee760696d20ea467e2633a1c524e04c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Comissão Consultiva
+- Definição de Competências
+- Exploração Agrícola
+- Floricultura
+- Fruticultura
+- Fundo de Compensação do Seguro de Colheitas
+- Instituto Nacional de Seguros
+- Regulamentação de Atos Legislativos
+- Seguro Agrícola
+- Seguro contra Danos
+- Vinha
 relationships:
 - type: amended_by
   target: pt:dre:177826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389016:por
+  label: Alterados os n.ºs 3 e 9 pelo(a) Despacho Normativo n.º 121/81 - Diário da República n.º 89/1981, Série I de 1981-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/121-1981-389016
+  date: '1981-04-16'
+- type: amended_by
+  target: pt:dre:452573:por
+  label: Alterado o n.º 2 pelo(a) Despacho Normativo n.º 154/83 - Diário da República n.º 146/1983, Série I de 1983-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/154-1983-452573
+  date: '1983-06-28'
+- type: amended_by
+  target: pt:dre:307845:por
+  label: "Alterado o nº 16 pelo DN.18/83.1983.12.20.MFP DR.IS [16] de 20/Jan/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-1983-307845
+  date: '1983-12-20'
+- type: amended_by
+  target: pt:dre:661881:por
+  label: "Alterados os nºs 9 e 16 pelo DN.66/84.1984.03.12.MFP DR.IS [73] de 27/Mar/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/66-1984-661881
+  date: '1984-03-12'
+- type: amended_by
+  target: pt:dre:177826:por
+  label: Alterados os n.ºs 31, 32 e 33 pelo(a) Despacho Normativo n.º 101/85 - Diário da República n.º 249/1985, Série I de
+    1985-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/101-1985-177826
+  date: '1985-10-29'
+- type: cites
+  target: pt:dre:140346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508635:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:42Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +226,7 @@ b) No cálculo de qualquer indemnização relativa a seguros de culturas de vár
 
 23 - No ano de 1980, as taxas a aplicar para determinação dos prémios de risco são as constantes do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/09800/08250828.pdf))](https://files.diariodarepublica.pt/1s/1980/04/09800/08250828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/09800/08250828.pdf)
 
 Consideram-se incluídas na 1.ª classe de riscos as culturas de trigo, aveia, centeio, cevada, triticale, milho, arroz, cártamo, girassol e hortícolas em regime de forçagem e na 2.ª classe as de tomate, vinha e pomóideas.
 

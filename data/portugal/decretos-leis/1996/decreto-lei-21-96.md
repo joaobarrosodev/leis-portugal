@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/067a00/05400540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/1996/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1996-535009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36cd6e53e21ddf0910eabfa7c80e8be8ae53659a3d8c64eac9562db888752531
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e0ef913e35339a86c2509ae81f73f285d32accf7c5d3bc59e63da059dc02d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/20/1995/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/20/1995/01/28/p/dre
+- type: cites
+  target: pt:dre:141070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570543:por
+  label: "Revogado pelo Dec Lei.38/97.1997.02.04.MQE, DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1997-570543
+  date: '1997-02-04'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:38Z'
   warnings: []
   errors: []
 ---
@@ -117,12 +130,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Daniel Bessa Fernandes Coelho - Maria João Fernandes Rodrigues.
 
-**Promulgado em 6 de Março de 1996.**
+Promulgado em 6 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Março de 1996.**
+Referendado em 8 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11200/0291802922.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2017/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2017-107495707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbc70967a0cfe08701c49156d3156c66e632636064fc053c34d1427e876c7b55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c16e7369b8a576f46c9892ef131fe8a8b5a97cc7faa74adaf5950a233d536e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aproximação das Legislações
+- Combustível
+- Combustível de Substituição
+- Contenção de Despesas
+- Definição de Competências
+- Direção Geral de Energia e Geologia
+- Diretor Geral
 - Embarcação
 - Energia não Poluente
-- Transporte Marítimo
-- Combustível de Substituição
-- Transporte Terrestre
-- Contenção de Despesas
-- Transporte Rodoviário
-- Definição de Competências
-- Diretor Geral
 - Especificação Técnica
-- Instalação de GÁS
-- Combustível
 - Etiquetagem
-- Direção Geral de Energia e Geologia
-- Mobilidade Elétrica
+- Gás Natural
+- Informação do Consumidor
+- Instalação de GÁS
 - Instalação de Serviços
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
-- Veículo Elétrico
+- Mobilidade Elétrica
 - Navegação Fluvial
-- Proteção do Ambiente
+- Navegação Marítima
 - Política do Ambiente
-- Informação do Consumidor
 - Posto de Abastecimento de Combustíveis
+- Proteção do Ambiente
 - Segurança das Instalações
 - Seguro Obrigatório de Responsabilidade Civil
 - Sistema Eléctrico de Serviço Público
-- Navegação Marítima
+- Transporte Marítimo
+- Transporte Rodoviário
+- Transporte Terrestre
+- Veículo
+- Veículo Elétrico
 relationships:
 - type: amended_by
   target: pt:dre:905324356:por
@@ -154,6 +154,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/56/2015/07/30/p/dre
+- type: cites
+  target: pt:dre:179069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75126728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75126729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75132644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216369:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0094
   label: null
@@ -161,13 +213,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:02Z'
   warnings: []
   errors: []
 ---
@@ -380,15 +432,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de maio de 2017. - Mário José Gomes de Freitas Centeno - Maria Isabel Solnado Porto Oneto - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - José Apolinário Nunes Portada.
 
-**Promulgado em 8 de junho de 2017.**
+Promulgado em 8 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2017.**
+Referendado em 8 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 7.º)
 

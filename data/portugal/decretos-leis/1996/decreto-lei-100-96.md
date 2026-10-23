@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/1996/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1996-417038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c788de9150c83d7a007d892f875177d74293adcab36e0e06262068675a3c0dcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a515123b8bd5d55d8411fe450ea6d120f0d260f36b66aa48deaf6336129e7679
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,23 @@ reuse:
 subjects:
 - Direcção Geral dos Serviços Prisionais
 - Estatuto
-- Sistema Retributivo
 - Guarda Prisional
-- Quadro de Pessoal
 - Pessoal de Vigilância
+- Quadro de Pessoal
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:319898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319898:por
+  label: "Alterados os arts. 5º, 11º a 16º, 18º, 19º, 28º, 35º e 36º, aditados os arts. 15º-A, 15º-B e 46º e revogados os\
+    \ arts. 20º, 37º, 38º e 39º do Dec Lei 174/93 de 12-Mai, na redacção do presente diploma, pelo DEC LEI.33/2001.2001.02.08.MJ,DR.IS-A\
+    \ [33]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2001-319898
+  date: '2001-02-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/174/1993/05/12/p/dre
   label: null
@@ -90,16 +97,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/1991/01/18/p/dre
+- type: cites
+  target: pt:dre:275603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:319898:por
+  label: "Revogados os arts. 2º e 3º pelo DEC LEI.33/2001.2001.02.08.MJ,DR.IS-A [33]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2001-319898
+  date: '2001-02-08'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:07Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +176,15 @@ Carreira
 
 2 - Os candidatos a guarda prisional de 2.ª classe admitidos ao respectivo curso de formação são contratados como guardas instruendos, nos termos da lei geral, pelo período máximo de 12 meses.
 
-###### Artigo 13.º — Regime de provimento
+Artigo 13.º
+
+Regime de provimento
 
 Os guardas instruendos aprovados no curso de formação referido no n.º 2 do artigo anterior são providos na categoria de guarda prisional de 2.ª classe, de acordo com a classificação obtida nesse curso e as vagas existentes, em regime de nomeação provisória, pelo período de um ano, no fim do qual serão nomeados definitivamente ou exonerados, consoante hajam ou não demonstrado aptidão para o exercício das respectivas funções.
 
-###### Artigo 28.º — Estatuto remuneratório
+Artigo 28.º
+
+Estatuto remuneratório
 
 1 - A escala remuneratória do pessoal do corpo da guarda prisional é a constante do mapa anexo II ao presente diploma, do qual faz parte integrante.
 
@@ -180,20 +224,20 @@ São revogados os Decretos-Leis n.os [36/91](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 2 de Junho de 1996.**
+Promulgado em 2 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1996.**
+Referendado em 9 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO II — Mapa a que se refere o n.º 1 do artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf))](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf)
 
 ## ANEXO — Mapa a que se refere o n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf))](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/169a00/20612063.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/205a00/46654666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274/1998/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1998-567187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 802ffabfe5647619ae4446652065accc565583bdd83c9f2fdae1e53263b3e3b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 211522ecfa47bef3178add121d5d55c02a8a8ee58edc7485f311f3ade8a6a87e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Ponte 25 de Abril
 - Concurso Internacional
 - Concurso Público
 - Contrato de Concessão
 - CP
-- Transporte Ferroviário
 - Estatuto
 - Ministro das Finanças
 - Ministro do Equipamento do Planeamento e da Administração do Território
+- Ponte 25 de Abril
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:140549:por
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
+- type: cites
+  target: pt:dre:270222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303221:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:140549:por
+  label: "Revogado, a partir de 12.07.2009, o Dec Lei 109/77 de 25-Mar, com as alterações deste diploma - que será revogado\
+    \ na mesma data - pelo DEC LEI.137-A/2009.12.06.2009.MOPTC, DR.IS [112-Supl] de 12.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-a-2009-140549
+  date: '2009-06-12'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:59Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +147,7 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 116/92](https://diariodarepublica.pt
 
 3 - A CP e outros operadores ferroviários só poderão explorar serviços de transporte ferroviário nos troços mencionados nos números anteriores nos termos e dentro dos limites estabelecidos no regime da concessão referida no n.º 1.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Os Caminhos de Ferro Portugueses, E. P., poderão subconcessionar a exploração do transporte ferroviário nas linhas de via estreita, nas linhas de Cascais e do Algarve, no ramal da Lousã e nos troços de linha de Vila Nova de Gaia-Porto (São Bento) pela Ponte de São João.
 
@@ -157,12 +171,12 @@ Os artigos 4.º e 5.º do [Decreto-Lei n.º 116/92](https://diariodarepublica.pt
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 26 de Agosto de 1998.**
+Promulgado em 26 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Agosto de 1998.**
+Referendado em 31 de Agosto de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

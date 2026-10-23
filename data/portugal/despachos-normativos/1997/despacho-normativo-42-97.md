@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42/1997/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1997-142340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4f7ad30bec0246e1d41de981b77a5a2c4163a196637ff36a9f504451f036290
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49205b6be2a576993cac545d503fc8ef0093a2d722fd75d0cfdc24f7e05e417e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Investigação Científica e Tecnológica
-- Desenvolvimento Industrial
-- Política Industrial
-- Equipamento Eletrónico
-- Produção Cinematográfica
 - Apoio ao Investimento
-- Projeto de Investimento
+- Cinema
+- Desenvolvimento Industrial
+- Empresa
+- Equipamento Eletrónico
+- Financiamento
+- Indústria Cinematográfica
 - Indústria da Informação
 - Indústria Electrónica
+- Investigação Científica e Tecnológica
 - Material Audiovisual
+- Política Industrial
 - Pratic
-- Cinema
-- Indústria Cinematográfica
+- Produção Cinematográfica
+- Projeto de Investimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/84/1995/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/84/1995/12/27/p/dre
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:51Z'
   warnings: []
   errors: []
 ---

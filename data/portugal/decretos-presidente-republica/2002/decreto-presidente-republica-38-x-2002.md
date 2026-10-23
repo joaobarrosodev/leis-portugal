@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 208/2002, 1º Suplemento, Série I-A de 2002-09-09
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6350-(6) a 6350-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/208a01/00060007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/38-x/2002/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/38-x-2002-538782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb94b2747a1f73ed0ceff3eb29111bc76c2ead9c9fecb788c3475a9a47372649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d975563b6ee6c3a0eb1b1196bd2eabf6c74d7ea78d643e9bcd51e99c9110c00b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:209629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209629:por
+  label: "Exonerado pelo DEC.93/2004.03.12.2004.PR, DR.IS-A [283] de 03.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/93-2004-209629
+  date: '2004-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:11Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +97,16 @@ validation:
 
 de 9 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador João Manuel Guerra Salgueiro para o cargo de embaixador de Portugal na Haia.
 
-**Assinado em 2 de Setembro de 2002.**
+Assinado em 2 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2002.**
+Referendado em 4 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz.

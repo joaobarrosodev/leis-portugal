@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/1995/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1995-198149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 075f310f13b0e4f8cfa41f789da2a2329a64e3880e6600f4e91dfe97bb42bd5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9077f9cd717a2c52f04d10bffa1e9c05d1cb26216eadaf70971ccd55711e796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Multa
+- Alqueva
 - Comissão Consultiva
 - Contra-ordenação
 - Criação de Serviços
 - Definição de Competências
 - Desenvolvimento Regional
-- Alqueva
 - Expropriação
 - Medidas Preventivas
 - Ministro do Planeamento e da Administração do Território
+- Multa
+- Sociedade Anónima
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:517806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430458:por
+  label: "Alterado o art. 5.º pelo DEC LEI.82/96.1996.06.22.MEPAT DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1996-430458
+  date: '1996-06-22'
+- type: amended_by
+  target: pt:dre:621368:por
+  label: "Prorrogado por um ano o prazo previsto no artº 11º pelo DEC LEI.38-A/97.1997.02.05.MEPAT DR.IS-A [30]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-a-1997-621368
+  date: '1997-02-05'
+- type: amended_by
+  target: pt:dre:425293:por
+  label: "Alterado o art. 4º pelo DEC LEI.232/98.1998.07.22.MEPAT DR.IS-A [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1998-425293
+  date: '1998-07-22'
+- type: amended_by
+  target: pt:dre:536640:por
+  label: "Alterados os arts. 1º e 4º (este último na redacção do Dec Lei 232/98, de 22-Jul), pelo DEC LEI.335/2001.2001.12.24.MPLA,\
+    \ DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-2001-536640
+  date: '2001-12-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
@@ -91,16 +112,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517806:por
+  label: "Revogado, com as alterações introduzidas pelos Dec Lei 82/96 de 22-Jun, 38-A/97 de 05-Fev, 232/98 de 22-Jul e 335/2001\
+    \ de 24-Dez, pelo DEC LEI.42/2007.22.02.2007.MADRP, DR.IS [38] de 22.02.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2007-517806
+  date: '2007-02-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:31Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +158,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Empreendimento de Fins Múltiplos do Alqueva representa uma obra de aproveitamento dos recursos naturais associados ao rio Guadiana que visa o desenvolvimento regional nas suas vertentes económica e social e inclui, em especial, as seguintes componentes:
+Artigo 1.º O Empreendimento de Fins Múltiplos do Alqueva representa uma obra de aproveitamento dos recursos naturais associados ao rio Guadiana que visa o desenvolvimento regional nas suas vertentes económica e social e inclui, em especial, as seguintes componentes:
 
 a) Barragem e central eléctrica do Alqueva;
 
@@ -135,17 +170,17 @@ d) Rede primária de rega;
 
 e) Redes secundária e terciária de rega.
 
-###### Art. 2.º - 1 - Para todos os efeitos legais, o Empreendimento de Fins Múltiplos do Alqueva é considerado de interesse nacional, nomeadamente para fins de isenção do pagamento, pela entidade gestora, de quaisquer taxas e emolumentos atinentes à concepção, execução e construção das componentes enunciadas no artigo anterior.
+Art. 2.º - 1 - Para todos os efeitos legais, o Empreendimento de Fins Múltiplos do Alqueva é considerado de interesse nacional, nomeadamente para fins de isenção do pagamento, pela entidade gestora, de quaisquer taxas e emolumentos atinentes à concepção, execução e construção das componentes enunciadas no artigo anterior.
 
 2 - Sem prejuízo do número anterior, a utilização do domínio hídrico fica sujeita ao regime dos Decretos-Leis n.os [46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806) e [47/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807), ambos de 22 de Fevereiro.
 
-###### Art. 3.º A área de intervenção do Empreendimento de Fins Múltiplos do Alqueva corresponde à que se encontra delimitada em planta anexa ao presente diploma, que dele faz parte integrante (anexo n.º 1).
+Art. 3.º A área de intervenção do Empreendimento de Fins Múltiplos do Alqueva corresponde à que se encontra delimitada em planta anexa ao presente diploma, que dele faz parte integrante (anexo n.º 1).
 
-###### Art. 4.º - 1 - Será criada, com natureza de sociedade anónima de capitais exclusivamente públicos, uma entidade gestora do Empreendimento de Fins Múltiplos do Alqueva com responsabilidades na área de intervenção do Empreendimento.
+Art. 4.º - 1 - Será criada, com natureza de sociedade anónima de capitais exclusivamente públicos, uma entidade gestora do Empreendimento de Fins Múltiplos do Alqueva com responsabilidades na área de intervenção do Empreendimento.
 
 2 - A entidade gestora do Empreendimento de Fins Múltiplos do Alqueva deverá ser sempre informada dos planos de ordenamento e urbanísticos que se pretendam adoptar na área de intervenção definida no número anterior.
 
-###### Art. 5.º - 1 - É criada junto do Ministro do Planeamento e da Administração do Território a Comissão Consultiva para o Empreendimento do Alqueva, adiante designada por Comissão Consultiva, à qual compete pronunciar-se, mediante solicitação ministerial, sobre os assuntos de interesse específico para o desenvolvimento regional na área de intervenção do Empreendimento de Fins Múltiplos do Alqueva, sendo consultada em especial sobre o progresso e os efeitos da realização deste projecto de investimento público.
+Art. 5.º - 1 - É criada junto do Ministro do Planeamento e da Administração do Território a Comissão Consultiva para o Empreendimento do Alqueva, adiante designada por Comissão Consultiva, à qual compete pronunciar-se, mediante solicitação ministerial, sobre os assuntos de interesse específico para o desenvolvimento regional na área de intervenção do Empreendimento de Fins Múltiplos do Alqueva, sendo consultada em especial sobre o progresso e os efeitos da realização deste projecto de investimento público.
 
 2 - A Comissão Consultiva é constituída por:
 
@@ -181,9 +216,9 @@ n) Um representante da Companhia Portuguesa de Produção de Electricidade, S. A
 
 5 - A Comissão Consultiva reúne por determinação do Ministro do Planeamento e da Administração do Território, por iniciativa deste ou a solicitação dos seus membros.
 
-###### Art. 6.º A zona reservada às albufeiras do Alqueva e Pedrógão resultantes da realização do Empreendimento de Fins Múltiplos do Alqueva corresponde à que se encontra delimitada em planta anexa ao presente diploma, que dele faz parte integrante (anexo n.º 2).
+Art. 6.º A zona reservada às albufeiras do Alqueva e Pedrógão resultantes da realização do Empreendimento de Fins Múltiplos do Alqueva corresponde à que se encontra delimitada em planta anexa ao presente diploma, que dele faz parte integrante (anexo n.º 2).
 
-###### Art. 7.º - 1 - Até à declaração da utilidade pública da expropriação dos bens imóveis localizados na zona definida na planta constante do anexo n.º 2 e dos direitos a eles inerentes, é proibida a realização de quaisquer obras, independentemente dos fins que as justifiquem, que tenham por objecto:
+Art. 7.º - 1 - Até à declaração da utilidade pública da expropriação dos bens imóveis localizados na zona definida na planta constante do anexo n.º 2 e dos direitos a eles inerentes, é proibida a realização de quaisquer obras, independentemente dos fins que as justifiquem, que tenham por objecto:
 
 a) A construção, reconstrução ou ampliação de edifícios ou outras instalações;
 
@@ -193,11 +228,11 @@ c) Alterações importantes, por meio de aterros ou escavações, à configuraç
 
 2 - A realização das obras previstas no n.º 1 pode, excepcionalmente, ser autorizada pelo Ministro do Planeamento e da Administração do Território, ouvida a entidade gestora do Empreendimento do Alqueva, não sendo, no entanto, as respectivas benfeitorias consideradas para efeito de cálculo da indemnização devida pelas expropriações dos terrenos a que respeitam.
 
-###### Art. 8.º Para efeitos de fiscalização das medidas preventivas constantes do presente diploma, o Governo fornecerá às câmaras municipais, no prazo de 15 dias contados da sua entrada em vigor, os elementos, designadamente topográficos, que permitam a rigorosa identificação das áreas abrangidas.
+Art. 8.º Para efeitos de fiscalização das medidas preventivas constantes do presente diploma, o Governo fornecerá às câmaras municipais, no prazo de 15 dias contados da sua entrada em vigor, os elementos, designadamente topográficos, que permitam a rigorosa identificação das áreas abrangidas.
 
-###### Art. 9.º Em caso de violação do disposto no artigo 7.º, deve o órgão legalmente competente do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, sendo os respectivos encargos suportados pelo infractor, sem prejuízo da aplicação das sanções previstas no presente diploma e demais legislação aplicável.
+Art. 9.º Em caso de violação do disposto no artigo 7.º, deve o órgão legalmente competente do município onde se situe o imóvel proceder ao imediato embargo das obras e, se for caso disso, à demolição de qualquer construção aí implantada, sendo os respectivos encargos suportados pelo infractor, sem prejuízo da aplicação das sanções previstas no presente diploma e demais legislação aplicável.
 
-###### Art. 10.º - 1 - A violação do disposto no artigo 7.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
+Art. 10.º - 1 - A violação do disposto no artigo 7.º constitui contra-ordenação, punível com coima de 100000$00 a 500000$00, tratando-se de pessoa singular, sendo elevado para 6000000$00 o limite máximo, no caso de se tratar de pessoa colectiva.
 
 2 - As contra-ordenações podem determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -219,16 +254,16 @@ e) O encerramento do estabelecimento ou o cancelamento de serviços, licenças e
 
 6 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade que instruir o processo.
 
-###### Art. 11.º As medidas preventivas previstas neste diploma vigoram até à data da publicação da declaração de utilidade pública, a qual deve ocorrer no prazo máximo de dois anos.
+Art. 11.º As medidas preventivas previstas neste diploma vigoram até à data da publicação da declaração de utilidade pública, a qual deve ocorrer no prazo máximo de dois anos.
 
-###### Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto a aprovado em Conselho de Ministros de 24 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
 ## ANEXO N.º 1 — Área de intervenção do Empreendimento de Fins Múltiplos do Alqueva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf))](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf)
 
 ## ANEXO N.º 2 — Zona reservada das albufeiras do Alqueva e Pedrógão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf))](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/036a00/08900892.pdf)

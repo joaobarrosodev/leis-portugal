@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2020/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c58f829cc4e08ac598e1f3311d5dc1c4da8e7df74f7be55bf4a7143ae5e9011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92bbaeac97411a7a0ccddbc2cca87b90b02fdc1616a3ec1823a8ece1c4cdc3cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
 - Gestão do Ambiente
-- Zona de Proteção
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
-- Sistema Nacional de Áreas Protegidas
 - Rede Natura 2000
+- Sistema Nacional de Áreas Protegidas
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
@@ -126,16 +126,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/76/2000/07/05/p/dre
+- type: cites
+  target: pt:dre:118287706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920312:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:46Z'
   warnings: []
   errors: []
 ---
@@ -212,21 +252,21 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2020. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 6 de março de 2020.**
+Promulgado em 6 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de março de 2020.**
+Referendado em 10 de março de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
 Classificação de zonas especiais de conservação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -234,248 +274,250 @@ Cartografia - Localização e limites
 
 Mapa 01 - Zona Especial de Conservação da Peneda/Gerês
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 02 - Zona Especial de Conservação de Montesinho/Nogueira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 03 - Zona Especial de Conservação do Alvão/Marão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 04 - Zona Especial de Conservação da Malcata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 05 - Zona Especial de Conservação do Paul de Arzila
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 06 - Zona Especial de Conservação do Arquipélago da Berlenga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 07 - Zona Especial de Conservação de São Mamede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 08 - Zona Especial de Conservação de Sintra/Cascais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 09 - Zona Especial de Conservação do Estuário do Tejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 10 - Zona Especial de Conservação da Arrábida/Espichel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 11 - Zona Especial de Conservação do Estuário do Sado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 12 - Zona Especial de Conservação da Costa Sudoeste
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 13 - Zona Especial de Conservação da Ria Formosa/Castro Marim
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 14 - Zona Especial de Conservação da Serra da Estrela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 15 - Zona Especial de Conservação das Serras de Aire e Candeeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 16 - Zona Especial de Conservação de Cambarinho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 17 - Zona Especial de Conservação do Litoral Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 18 - Zona Especial de Conservação da Barrinha de Esmoriz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 19 - Zona Especial de Conservação do Rio Minho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 20 - Zona Especial de Conservação do Rio Lima
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 21 - Zona Especial de Conservação dos Rios Sabor e Maçãs
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 22 - Zona Especial de Conservação do Douro Internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 23 - Zona Especial de Conservação de Morais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 24 - Zona Especial de Conservação de Valongo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 25 - Zona Especial de Conservação da Serra de Montemuro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 26 - Zona Especial de Conservação do Rio Vouga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 27 - Zona Especial de Conservação de Carregal do Sal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 28 - Zona Especial de Conservação da Serra da Gardunha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 29 - Zona Especial de Conservação do Cabeção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 30 - Zona Especial de Conservação do Caia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 31 - Zona Especial de Conservação de Monfurado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 32 - Zona Especial de Conservação do Guadiana/Juromenha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 33 - Zona Especial de Conservação de Cabrela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 34 - Zona Especial de Conservação da Comporta/Galé
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 35 - Zona Especial de Conservação do Alvito/Cuba
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 36 - Zona Especial de Conservação do Guadiana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 37 - Zona Especial de Conservação de Monchique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 38 - Zona Especial de Conservação da Ribeira de Quarteira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 39 - Zona Especial de Conservação da Serra de Arga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 40 - Zona Especial de Conservação do Corno do Bico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 41 - Zona Especial de Conservação de Samil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 42 - Zona Especial de Conservação das Minas de St. Adrião
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 43 - Zona Especial de Conservação do Romeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 44 - Zona Especial de Conservação de Nisa/Lage da Prata
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 45 - Zona Especial de Conservação de Sicó/Alvaiázere
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 46 - Zona Especial de Conservação de Azabuxo/Leiria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 47 - Zona Especial de Conservação das Serras da Freita e Arada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 48 - Zona Especial de Conservação da Serra de Montejunto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 49 - Zona Especial de Conservação do Barrocal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 50 - Zona Especial de Conservação do Cerro da Cabeça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 51 - Zona Especial de Conservação do Complexo do Açor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 52 - Zona Especial de Conservação de Arade/Odelouca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 53 - Zona Especial de Conservação de Moura/Barrancos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 54 - Zona Especial de Conservação de Fernão Ferro/Lagoa de Albufeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 55 - Zona Especial de Conservação das Dunas de Mira, Gândara e Gafanhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 56 - Zona Especial de Conservação de Peniche/Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 57 - Zona Especial de Conservação do Caldeirão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 58 - Zona Especial de Conservação da Ria de Alvor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 59 - Zona Especial de Conservação do Rio Paiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 60 - Zona Especial de Conservação da Serra da Lousã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 61 - Zona Especial de Conservação da Ria de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
 
 Mapa 62 - Zona Especial de Conservação do Banco de Gorringe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/05300/0000200036.pdf)
+
+113108768

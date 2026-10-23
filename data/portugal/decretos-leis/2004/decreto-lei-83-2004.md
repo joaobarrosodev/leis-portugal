@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2004/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2004-220749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb4ad4b915320de73dfd9e6d926a86acdae301dd1c1b63abcb0f65a223f17372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7d0813618d55af4dd00beae772aae9b315703f37a0f46efbca649517535e6ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - CE Países
 - Controlo Sanitário
-- Proteção do Ambiente
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produção Agrícola
 - Produção Vegetal
-- Agricultura
+- Proteção do Ambiente
+- Proteção Fitossanitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 14/99, de 12-Jan, na redacção do presente diploma, pelo DEC LEI.183/2004.29.07.2004.MADRP,\
+    \ DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -89,16 +95,21 @@ relationships:
   target: celex:32003L0116
   label: null
   source: http://data.europa.eu/eli/dir/2003/116/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:10Z'
   warnings: []
   errors: []
 ---
@@ -133,15 +144,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 25 de Março de 2004.**
+Promulgado em 25 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Março de 2004.**
+Referendado em 31 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -159,7 +170,7 @@ Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Ma
 
 4 - No anexo IV, parte A, secção I, o n.º 17 passa a ter a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
 
 5 - No anexo IV, parte A, secção II, n.º 9, o texto da coluna da esquerda passa a ter a seguinte redacção:
 
@@ -167,11 +178,11 @@ Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Ma
 
 6 - No anexo IV, parte B, o n.º 21 passa a ter a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
 
 7 - No anexo IV, parte B, é aditado o n.º 21.1, com a seguinte redacção:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)](https://files.diariodarepublica.pt/1s/2004/04/088a00/22692273.pdf)
 
 8 - No anexo V, parte A, secção I, o n.º 1.1 passa a ter a seguinte redacção:
 

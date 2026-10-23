@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 104/2000, 1º Suplemento, Série I-A de 2000-05-05
   number: '104'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1854-(2) a 1854-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/104a01/00020011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70-a/2000/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-a-2000-510265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b0f69ad029c28d3f421b879ac953bf2ce596c5315eab22b67e053b08a6b656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96bdc8f05a4f2b2e2c677eb668bb688def135c4b191e015c2b767fe617c628c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,52 +70,70 @@ subjects:
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
-- Região Autónoma
-- Formação Profissional
-- Gestão Financeira
-- Projecto VIDA
 - Concurso
-- Política de Cooperação
 - Dação em Cumprimento
 - Despesas Públicas
-- Instituto de Gestão do Crédito Público
 - Duodécimo
-- Registos e Notariado
-- Presidência Portuguesa
 - Execução do Orçamento
 - Férias
 - Fiscalização
+- Formação Profissional
 - Fundo de Maneio
 - Fundo Permanente
-- IRS
+- Gestão Financeira
 - Indep
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
-- Tribunal de Contas
+- IRS
 - Locação Financeira
 - Orçamento Geral do Estado
+- Política de Cooperação
+- Presidência Portuguesa
+- Projecto VIDA
 - Quadro de Excedentes
 - Quadro de Pessoal
 - Receita Própria
+- Região Autónoma
+- Registos e Notariado
 - Subsídio de Refeição
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:25676932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314193:por
+  label: "Alterados os arts. 2º, 4º e 80º do Dec Lei 100/99 de 31-Mar, na redacção do presente diploma, pelo DEC LEI.157/2001.2001.05.11.MREAP\
+    \ DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2001-314193
+  date: '2001-05-11'
+- type: amended_by
+  target: pt:dre:332215:por
+  label: "Alterado o art. 24.º do Dec Lei 50/98, de 11-Mar DR.IS-A [59], na redacção do art. 42.º do presente diploma, pelo\
+    \ DEC LEI.174/2001.2001.05.31.MREAP DR.IS-A [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2001-332215
+  date: '2001-05-31'
 - type: cites
   target: celex:31993R3605
   label: null
   source: http://data.europa.eu/eli/reg/1993/3605/oj
+- type: repealed_by
+  target: pt:dre:25676932:por
+  label: "Revogado a partir de 01.08.2014 o Dec Lei 100/99, de 31-mar, na redação do presente diploma, pela LEI.35/2014.20.06.2014.AR,\
+    \ DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 article_structure:
   article_count: 48
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:54Z'
   warnings: []
   errors: []
 ---
@@ -628,12 +646,12 @@ O presente diploma produz efeitos desde 10 de Abril de 2000.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - José Manuel Silva Mourato - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Ana Benavente - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Catarina Marques de Almeida Vaz Pinto - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.
 
-**Promulgado em 2 de Maio de 2000.**
+Promulgado em 2 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 2000.**
+Referendado em 4 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

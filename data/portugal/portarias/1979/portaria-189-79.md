@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-1979-382671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dbe47e4b36e4f0e66eaaa8f2f452bb60b0f0f32d6a9e27b41b9b753595354e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 101fa0c2090aaa47e18e06c7a09fd12c91dbc7c675b9c8a97aff06a6842dc30b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Integração de Trabalhadores
+- Ministério da Indústria e Tecnologia
+- Pessoal Técnico
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:383257:por
+  label: Rectificada pela DECL.DD7430.11.06.1979.PCM, DR.IS [134] de 11.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-383257
+  date: '1979-06-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:32Z'
   warnings: []
   errors: []
 ---
@@ -104,12 +118,12 @@ Manda o Governo da República Portuguesa, pelos Ministros da Indústria e Tecnol
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Indústria e Tecnologia, 4 de Abril de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.
 
-## Anexo I a que se refere o n.º 1
+Anexo I a que se refere o n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf)
 
-## Anexo II a que se refere o n.º 1
+Anexo II a que se refere o n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09200/06710674.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

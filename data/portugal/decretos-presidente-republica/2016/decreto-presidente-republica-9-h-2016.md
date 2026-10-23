@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 74/2016, 2º Suplemento, Série I de 2016-04-15
   number: '74'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1306-(14) a 1306-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/07402/0001400014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/9-h/2016/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/9-h-2016-74176195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:27:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d5f38ee64810fd4e43a59c05d52ece21000fb1a0094f98d6b376b135794d4d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29bd01cf0857315fdbcf1eb2460f734acc96cc11c535459cb083f53086e0f93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Chefe do Estado Maior do Exército
-- Nomeação
+- Exército
 - Forças Armadas
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:116735081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116735081:por
+  label: Exonerado, a seu pedido, pelo(a) Decreto do Presidente da República n.º 72-AC/2018 - Diário da República n.º 201/2018,
+    1º Suplemento, Série I de 2018-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/72-ac-2018-116735081
+  date: '2018-10-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/2015/05/29/p/dre
   label: null
@@ -81,13 +87,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:27:51Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +102,16 @@ validation:
 
 de 15 de abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior do Exército, sob proposta do Governo, conforme Deliberação do Conselho de Ministros de 14 de abril de 2016, o Tenente-General Frederico José Rovisco Duarte sendo promovido ao posto de General, nos termos do n.º 2 do artigo 197.º do Estatuto dos Militares das Forças Armadas, aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67348942/details/normal?l=1), de 29 de maio.
 
-**Assinado em 15 de abril de 2016.**
+Assinado em 15 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de abril de 2016.**
+Referendado em 15 de abril de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

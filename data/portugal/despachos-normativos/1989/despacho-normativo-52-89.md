@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1989-620717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11bf4f2ce754429707fd76c4a2ed54ffa4584b3a43e7017bc424a61a12f0f292
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5fcc468a6909e7bbd1ba738f39d8a4cf8817f9bc0fb4a386353b8a6b6892bfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Universitária
+- Ensino Superior
+- Estatuto
+- Estatuto das Universidades
+- Universidade de Aveiro
 relationships:
 - type: amended_by
   target: pt:dre:456799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:196228:por
+  label: "Modificada a epigrafe e aditado ao art 5º um num 3; aditado ao art 17º uma ao p) e alterado o art 38º pelo DN.51/97.1997.07.28.ME,\
+    \ DR.IS-B [192] de 1997.08.21\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/51-1997-196228
+  date: '1997-07-28'
+- type: amended_by
+  target: pt:dre:456799:por
+  label: "Transferidas as competências, posição jurídica e equipamentos amovíveis detidos pela Unidade de Tecnologias de Produção\
+    \ do Departamento de Materiais e Tecnologias de Produção (DMTP) do INETI, I.P. para a Universidade de Aveiro, cujos Estatutos\
+    \ constam homologados e publicados pelo presente diploma, pelo DEC LEI.139/2008.21.07.2008.MCTES, DR.IS [139] de 21.07.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608220:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:43:11Z'
   warnings: []
   errors: []
 ---

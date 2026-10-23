@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/541-1979-364915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7ac0f60d3f6b256e583a772907e58abbedee222fdb279a010a59154c3dc1e0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 202d46c88b2b35f3259bbcfa7ea66251304309d4faaae6f9149318ca611380db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bebida Alcoólica
+- Capitania
+- Consumo
+- Embarcação
+- Funchal
+- Ponta Delgada
+relationships:
+- type: cites
+  target: pt:dre:329015:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:06Z'
   warnings: []
   errors: []
 ---
@@ -93,8 +103,8 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações e pelos Secretários de Estado do Orçamento e do Comércio Externo, o seguinte:
 
-###### Artigo 1.º O regime de autorização para fornecimento de bebidas alcoólicas estrangeiras para consumo de bordo em embarcações mercantes nacionais, em regime de reexportação, que, nos termos do artigo 1.º da [Portaria n.º 602/78](https://diariodarepublica.pt/dr/detalhe/portaria/602-1978-329015), de 30 de Setembro, pertence à Direcção-Geral do Pessoal do Mar, passa a ser também da competência das capitanias dos portos do Funchal e de Ponta Delgada, no âmbito das respectivas regiões autónomas.
+Artigo 1.º O regime de autorização para fornecimento de bebidas alcoólicas estrangeiras para consumo de bordo em embarcações mercantes nacionais, em regime de reexportação, que, nos termos do artigo 1.º da [Portaria n.º 602/78](https://diariodarepublica.pt/dr/detalhe/portaria/602-1978-329015), de 30 de Setembro, pertence à Direcção-Geral do Pessoal do Mar, passa a ser também da competência das capitanias dos portos do Funchal e de Ponta Delgada, no âmbito das respectivas regiões autónomas.
 
-###### Art. 2.º Aquelas capitanias remeterão à Direcção-Geral do Pessoal do Mar, para efeitos de contrôle e no prazo de oito dias, cópias dos requerimentos de fornecimento com os despachos que sobre os mesmos recaírem.
+Art. 2.º Aquelas capitanias remeterão à Direcção-Geral do Pessoal do Mar, para efeitos de contrôle e no prazo de oito dias, cópias dos requerimentos de fornecimento com os despachos que sobre os mesmos recaírem.
 
 Ministérios das Finanças, do Comércio e Turismo e dos Transportes e Comunicações, 26 de Setembro de 1979. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado do Comércio Externo, Fernando Esteves Águas.

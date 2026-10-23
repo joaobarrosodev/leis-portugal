@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/255-1982-599952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:12:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a4c6e4978a2b80f595e7b152aae6a3796bbe5407c058ad553a0eff31446da5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2372ff82cac4d851cba94e81e9d19f4052234212745e99cd16c948a250af16da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:12:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consulado
+- Embaixada
+- Pessoal Assalariado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:444410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397876:por
+  label: "Alterado o mapa de pessoal assalariado da embaixada de Portugal em Londres, constante do presente diploma pela PORT.781/82.16.08.1982.MNE,\
+    \ DR.IS [188] de 16.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-1982-397876
+  date: '1982-08-16'
+- type: amended_by
+  target: pt:dre:397489:por
+  label: "Alterado o mapa do pessoal assalariado da embaixada de Portugal em Nova Deli, pela PORT.786/82.18.08.1982.MNE, DR.IS\
+    \ [190] de 18.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1982-397489
+  date: '1982-08-18'
+- type: amended_by
+  target: pt:dre:397527:por
+  label: "Alterado o mapa de pessoal das embaixadas de Portugal em Berna, Maputo, Montevideu e Tóquio e dos consulados-gerais\
+    \ de Portugal na Baira, Caracas, Estugarda, Maputo e Singapura aprovado pelo presente diploma, pela PORT.795/82.21.08.1982.MNE,\
+    \ DR.IS [193] de 21.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/795-1982-397527
+  date: '1982-08-21'
+- type: amended_by
+  target: pt:dre:377326:por
+  label: "Alterados os mapas das embaixadas de Portugal em Estocolmo, Havana, Tunes e dos consulados-gerais de Portugal na\
+    \ Beira, Joanesburgo e Nova Iorque, constantes do presente diploma, pela PORT.1077/82.17.11.1982.MNE, DR.IS [266] de 17.11.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1077-1982-377326
+  date: '1982-11-17'
+- type: amended_by
+  target: pt:dre:444409:por
+  label: "Substituído o mapa do pessoal assalariado do consulado-geral de Portugal em Düsseldorf, constante do anexo do presente\
+    \ diploma, pela PORT.1059/83.27.12.1983.MNE, DR.IS [297] de 27.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1059-1983-444409
+  date: '1983-12-27'
+- type: amended_by
+  target: pt:dre:444410:por
+  label: "Substituído o mapa de pessoal assalariado do Consulado de Portugal em Sydney, constante do anexo do presente diploma,\
+    \ pela PORT.1060/83.27.12.1983.MNE, DR.IS [297] de 27.12.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1060-1983-444410
+  date: '1983-12-27'
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:608513:por
+  label: Rectificada pela DECL.DD2729.1982.03.19.PCM, DR.IS [76] de 01.04.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-608513
+  date: '1982-03-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:12:05Z'
   warnings: []
   errors: []
 ---

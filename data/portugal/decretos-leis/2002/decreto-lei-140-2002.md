@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/116a00/46044607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/140/2002/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2002-158607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30e8b7646e610bcf57e127ce3bf3de245be3db19c10d44757a1b1697f0604552
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a09ed5eb8551b0e76d61992f556ea3c4a2c74898b0348e82fa932c5d382ab4de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contra-ordenação
-- RIO TEJO
 - Proteção do Ambiente
+- RIO TEJO
 - Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:627263:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627263:por
+  label: "Determinada a suspensão da vigência do art. 1º do presente diploma pelo DEC LEI.190/2002.2002.09.05.MCOTA, DR.IS-A\
+    \ [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2002-627263
+  date: '2002-09-05'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -91,16 +97,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/1995/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1995/03/20/p/dre
+- type: repealed_by
+  target: pt:dre:1153698588:por
+  label: Revogado, a partir de 1 de agosto de 2026, pelo(a) Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série
+    I de 2026-07-31 nos termos da alínea b) do artigo 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2026-1153698588
+  date: '2026-07-30'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:29Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +195,9 @@ l) Sobrevoo de aeronaves com motor abaixo dos 1000 pés, nomeadamente para fins 
 
 4 - São nulas quaisquer licenças concedidas com violação do disposto no presente diploma.
 
-###### Artigo 10.º — Contra-ordenações
+Artigo 10.º
+
+Contra-ordenações
 
 1 - ...
 
@@ -197,15 +211,15 @@ b) (euro) 3990,38, a (euro) 39903,83, no caso de pessoas colectivas.
 
 Visto e aprovado em Conselho de Ministros de 14 de Março de 2002. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 2 de Maio de 2002.**
+Promulgado em 2 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Maio de 2002.**
+Referendado em 5 de Maio de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Limites da ZPE
 

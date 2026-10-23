@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/379/2007/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-2007-629392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cd54e96faee92a4c163d3fa312315a74e98cd4079268d56bfb7d0b2a427c3d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77da31777bfa8553ec2a5f36b41e0cfda0411b2ce7cf84a80395d5fd44949bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Plano Tecnológico
 - Contrato
-- Educação
 - Delegação de Competências
-- Primeiro-ministro
-- Modernização Tecnológica
+- Educação
 - Estabelecimento de Ensino
 - Ministro da Educação
+- Modernização Tecnológica
+- Plano Tecnológico
+- Primeiro-ministro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642198:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:11Z'
   warnings: []
   errors: []
 ---
@@ -129,12 +137,12 @@ O presente decreto-lei produz efeitos a 1 de Setembro de 2007.
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 26 de Outubro de 2007.**
+Promulgado em 26 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Outubro de 2007.**
+Referendado em 30 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21300/0563305640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/2014/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2014-58728911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74700b77ef9b65fe3dd10f2b2e64f6e815adfaa7045bccbefd2e2cec40204092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 738b221f309d41fce9240e05524b9e28df99212689a27528a485db1b693eda24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Arqueologia
 - Arqueólogo
-- Obras de Conservação e Restauro
 - Definição de Competências
 - Direção Geral do Património Cultural
 - Direção Geral do Tesouro e Finanças
+- Obras de Conservação e Restauro
 - Património Arqueológico
-- Património Subaquático
 - Património Nacional
+- Património Subaquático
 - Protecção do Património
 - Publicação
 - Regulamento
@@ -123,16 +123,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:162668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:26Z'
   warnings: []
   errors: []
 ---
@@ -183,15 +223,15 @@ As disposições do Regulamento, aprovado em anexo ao presente decreto-lei, apli
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Manuel Castro Almeida.
 
-**Promulgado em 28 de outubro de 2014.**
+Promulgado em 28 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de outubro de 2014.**
+Referendado em 29 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0567105674.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2014/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2014-58763442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5350349f9157c8e8caf7ce4e7943b5502454d174c912385524dae6ce4e8bbbc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca28e9919bd276b4b763646e637eb06e80c458a40589087117502e45f4ab042
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
+- Açores
 - Ajuda Comunitária
-- Região Autónoma
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Regional das Pescas
+- Direcção Regional de Agricultura e Pescas
 - Financiamento
 - Governo Regional
-- Direcção Regional das Pescas
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Pesca
 - IFAP
+- Intervenção Operacional Pescas
 - Licenciamento
-- Recursos do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Madeira.região Autónoma
+- Pesca
 - Prazo
 - Programa Operacional
-- Madeira.região Autónoma
-- Intervenção Operacional Pescas
+- QREN
+- Recursos do Mar
+- Região Autónoma
 - Relatório
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:69909971:por
+  label: Transferidas as atribuições do gestor do PROMAR, previstas no Dec Lei 80/2008, de 16-mai, alterado pelo Dec Lei 128/2009,
+    de 28-mai, e pelo presente diploma, para o gestor do Mar 2020, a partir da data da respetiva nomeação, pelo(a) Despacho
+    n.º 8466/2015 - Diário da República n.º 149/2015, Série II de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8466-2015-69909971
+  date: '2015-08-03'
 - type: cites
   target: celex:32006R1198
   label: null
@@ -103,15 +110,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:29Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +171,9 @@ Os artigos 9.º e 10.º do Decreto-Lei n.º 80/2008, de 16 de maio, alterado pel
 
 5 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -230,7 +239,9 @@ i) [...].
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -246,7 +257,9 @@ c) Dos projetos iniciados durante período em que se encontravam encerradas as c
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -254,7 +267,9 @@ c) Dos projetos iniciados durante período em que se encontravam encerradas as c
 
 3 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 [...]:
 
@@ -280,7 +295,9 @@ j) [...];
 
 l) [...].
 
-###### Artigo 12.º — Resolução e modificação do contrato
+Artigo 12.º
+
+Resolução e modificação do contrato
 
 1 - [...].
 
@@ -292,7 +309,9 @@ l) [...].
 
 5 - O gestor da autoridade de gestão pode delegar nos coordenadores regionais ou nos organismos intermédios a competência para a emissão do parecer vinculativo referido no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -302,7 +321,9 @@ l) [...].
 
 4 - Sempre que ocorra resolução do contrato nos termos do artigo anterior, os respetivos promotores ficam impedidos de apresentar candidaturas, individual ou coletivamente, quando participem em posição dominante a apoios no âmbito de qualquer regime de apoio financeiro ao sector das pescas, durante a vigência do PROMAR, mas nunca por prazo inferior a três anos, exceto nos casos em que a resolução se fundamente na ausência de execução do investimento aprovado, por motivo devidamente justificado, e desde que tenham sido integralmente restituídas, nos termos legais, todas as importâncias eventualmente recebidas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -328,12 +349,12 @@ São revogados o n.º 3 do artigo 4.º e o n.º 6 do artigo 8.º do Decreto-Lei 
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 30 de outubro de 2014.**
+Promulgado em 30 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de outubro de 2014.**
+Referendado em 30 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

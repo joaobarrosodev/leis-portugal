@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/22700/26372639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/882-1981-564180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31560eb067fbc2589df95fc0a3abaecaa66a80ff7b3a88dcb898494246e5241a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eacc58b175bd5cebfc416ac661ed9545bcd8e880b0abc1da67ab29cda586798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fertilizante
+- Preço
+- Preço Máximo
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 255, DE 811105. RECTIFICAÇÃO PUBLICADA NO DIÁRIO\
+    \ DA REPUIBLICA, I SÉRIE, NUMERO 289, DE 811217. REVOGADA PELA PORTARIA 814/82, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 199, DE 820828.\0 DE 820828.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:396684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:250065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564070:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:569132:por
+  label: Rectificada pela DECL.DD6252.15.10.1981.PCM, DR.IS [255] de 05.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-569132
+  date: '1981-10-15'
+- type: repealed_by
+  target: pt:dre:396684:por
+  label: "Revogada pela PORT.814/82.28.08.1982.MFP, DR.IS [199] de 28.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-1982-396684
+  date: '1982-08-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:58Z'
   warnings: []
   errors: []
 ---
@@ -193,4 +228,4 @@ Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas, da In
 
 Quadro anexo a que se referem as alíneas 1) e 5) do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/22700/26372639.pdf))](https://files.diariodarepublica.pt/1s/1981/10/22700/26372639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/22700/26372639.pdf)

@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/141-1981-573156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbcd7e21028548ef3dd6e34e9a0ea9b97b9e9577f2c240face490f04ccb6f143
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6eed2159a7bd41d8b9013c5fe1f4390da26b3dc8a787b5bbc429e573d0953807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Leite
+- Mercado Interno
+- Política Económica
+- Produção Leiteira
+relationships:
+- type: cites
+  target: pt:dre:388994:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:51Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +100,13 @@ De acordo com o n.º 3 do n.º 25 da [Portaria n.º 339/81](https://diariodarepu
 
 3 - As provas a efectuar ao leite no centro de secagem são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
 
 3.1 - O leite que não obedeça aos limites acima estabelecidos não será aceite para secagem.
 
 4 - Os laboratórios das direcções regionais deverão efectuar, obrigatoriamente, as provas citadas no n.º 3 e, bem assim, as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
 
 5 - A entidade fornecedora do leite e a que irá proceder à secagem deverão acordar entre si um programa de escalonamento das entregas do leite, com vista a evitar as demoras dessas entregas e a eventual despromoção da qualidade da matéria-prima.
 
@@ -108,7 +118,7 @@ De acordo com o n.º 3 do n.º 25 da [Portaria n.º 339/81](https://diariodarepu
 
 7 - Os centros de secagem deverão proceder por lotes de fabrico à apreciação da qualidade do produto final, que será devidamente controlada pela direcção regional da respectiva área, de acordo com o que se estabelece no seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10900/11161118.pdf)
 
 8 - Acondicionamento:
 

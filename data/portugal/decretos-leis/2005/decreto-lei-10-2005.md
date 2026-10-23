@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/01/004a00/01140119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2005/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2005-457005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d50a5a5d19f742741832eea7ba29c21b327260b82cd2fc72501dc7c03266f470
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aea72d5cb6b686f8a15bfd768bdd40650decf1e1c5d635cf828eeddd79807805
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Ministério da Ciência Inovação e Ensino Superior
-- Fundação para a Ciência e a Tecnologia
-- Secretaria Geral
-- Ineti
-- Instituto de Genética Médica Dr Jacinto de Magalhães
-- Instituto de Investigação Científica Tropical
-- Instituto Hidrográfico
-- Instituto Nacional de Investigação Agrária e das Pescas
-- Instituto de Meteorologia
-- Instituto Tecnológico e Nuclear
-- Laboratório Nacional de Investigação Veterinária
-- Laboratório Nacional de Engenharia Civil
-- Conselho Nacional de Acção Social do Ensino Superior
-- Conselho Superior de Ciência Tecnologia e Inovação
 - Centro Científico e Cultural de Macau
 - Conselho Consultivo do Ensino Superior
+- Conselho Nacional de Acção Social do Ensino Superior
+- Conselho Nacional de Educação
+- Conselho Superior de Ciência Tecnologia e Inovação
 - Direção Geral do Ensino Superior
 - Estádio Universitário de Lisboa
+- Fundação para a Ciência e a Tecnologia
 - Gabinete de Estudos e Prospectiva da Ciência Inovação e Ensino Superior
 - Gabinete de Relações Internacionais da Ciência Inovação e Ensino Superior
+- Ineti
 - Inspecção-geral da Ciência Inovação e Ensino Superior
-- Conselho Nacional de Educação
+- Instituto de Genética Médica Dr Jacinto de Magalhães
+- Instituto de Investigação Científica Tropical
+- Instituto de Meteorologia
+- Instituto Hidrográfico
+- Instituto Nacional de Investigação Agrária e das Pescas
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto Tecnológico e Nuclear
+- Laboratório Nacional de Engenharia Civil
+- Laboratório Nacional de Investigação Veterinária
+- Ministério da Ciência Inovação e Ensino Superior
 - Museu do Conhecimento
 - Orgânica
-- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Reestruturação de Serviços
+- Secretaria Geral
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -99,6 +99,12 @@ relationships:
   target: pt:dre:545643:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Alterada a designação para Ministério da Ciência, Tecnologia e Ensino Superior do Ministério, cuja orgânica foi\
+    \ aprovada no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
@@ -111,16 +117,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545643:por
+  label: "Revogado pelo DEC LEI.214/2006.27.10.2006.MCTES, DR.IS [208] de 27.10.2006, e determinada nos termos do seu artigo\
+    \ 32.º e de acordo com o disposto nos seus artigos 26.º e 28.º, a extinção com fusão os seguintes serviços e organismos:\
+    \ do Gabinete de Gestão Financeira da Ciência e do Ensino Superior (sendo as suas atribuições integradas no Gabinete de\
+    \ Planeamento, Estratégia, Avaliação e Relações Internacionais, na Secretaria-Geral e na Direcção-Geral do Ensino Superior)\
+    \ - do Observatório da Ciência e Ensino Superior (sendo as suas atribuições integradas no Gabinete de Planeamento, Estratégia,\
+    \ Avaliação e Relações Internacionais) - do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior\
+    \ (sendo as suas atribuições integradas na Direcção-Geral do Ensino Superior, na Fundação para a Ciência e a Tecnologia\
+    \ e na UMIC - Agência para a Sociedade do Conhecimento) - do Conselho Consultivo do Ensino Superior e do Conselho Nacional\
+    \ de Acção Social do Ensino Superior (sendo as suas atribuições integradas no Conselho Coordenador do Ensino Superior);\
+    \ extinção do Conselho Nacional de Avaliação do Ensino Superior (que se mantém em funcionamento até à criação de uma agência\
+    \ de acreditação e avaliação do ensino superior); e a reestruturação dos seguintes serviços e organismos: do Conselho\
+    \ Superior da Ciência, Tecnologia e Inovação (que passa a designar-se Conselho Coordenador da Ciência e Tecnologia), da\
+    \ UMIC - Agência para a Sociedade do Conhecimento (sendo as suas atribuições no domínio da administração electrónica transferidas\
+    \ para a Agência da Modernização Administrativa, no âmbito da Presidência do Conselho de Ministros), e de mais organismos\
+    \ referidos nos artigos 4.º e 5.º do citado diploma; a Externalização do Estádio Universitário de Lisboa e do Museu Nacional\
+    \ da Ciência e da Técnica Doutor Mário Silva \0a \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
+- type: repeals
+  target: pt:numero:decreto-lei:205/2002
+  label: "Revoga o Decreto-Lei n.º 205/2002, de 7 de Outubro, DR.IS-A [231]\0\0"
+  source: null
+  date: '2002-10-07'
 article_structure:
   article_count: 38
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:34Z'
   warnings: []
   errors: []
 ---
@@ -481,12 +524,12 @@ Até à entrada em vigor dos diplomas orgânicos pelos quais se regem os serviç
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - Luís Filipe da Conceição Pereira - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 20 de Dezembro de 2004.**
+Promulgado em 20 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2004.**
+Referendado em 22 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11700/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2023/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2023-214524781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9964b747164dabf40394b5a81c0e0b17be938aea0c0ac67d2b88ce48847a61b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 407b29b1412a27d5ed31e89f57a76deb3c1ccd1010d89d1002c4d1ac4b52fc94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Autorização Legislativa
-- RDP
 - Código do Direito de Autor e dos Direitos Conexos
-- Direito de Autor
-- União Europeia
 - Comunicação por Satélite
-- Televisão Digital Terrestre
-- Política do Audiovisual
-- Internet
-- Prestação de Serviços
+- Direito de Autor
 - Equipamento de Transmissão
-- Televisão por Satélite
+- Internet
+- Política do Audiovisual
+- Prestação de Serviços
+- RDP
+- Televisão Digital Terrestre
 - Televisão por CABO
+- Televisão por Satélite
+- União Europeia
 relationships:
 - type: cites
   target: celex:31993L0083
@@ -118,6 +118,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/344/2013/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/344/2013/11/27/p/dre
+- type: cites
+  target: pt:dre:207881788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970759:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31993L0083
   label: null
@@ -127,15 +155,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:08Z'
   warnings: []
   errors: []
 ---
@@ -294,7 +322,9 @@ b) [...]
 
 c) Entende-se por 'retransmissão por cabo' a retransmissão ao público, simultânea, inalterada e integral, por cabo ou micro-ondas, de uma emissão primária a partir de outro Estado-Membro, com ou sem fio, incluindo por satélite, de programas de televisão e de rádio destinados à receção pelo público, independentemente da forma como o operador de um serviço de retransmissão por cabo obtém os sinais portadores de programas do organismo de radiodifusão para efeitos de retransmissão.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As entidades representativas dos vários interesses em presença estabelecem as negociações e os acordos, no respeito pelo princípio da boa fé, conducentes a assegurar que a retransmissão se processe em condições equilibradas e sem interrupções.
 
@@ -326,12 +356,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2023. - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira.
 
-**Promulgado em 12 de junho de 2023.**
+Promulgado em 12 de junho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de junho de 2023.**
+Referendado em 15 de junho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116574175

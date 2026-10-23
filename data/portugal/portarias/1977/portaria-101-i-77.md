@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 342-(15) a 342-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-i-1977-315546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5fc7d1e96d99abc3d23db5ce0e131844a02bbc9423ebbc51be5b6cb052cdc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1eab29c3bddb80115c52a5dd245b2fd0ba0c54d9c3a96b44541f2e63d2c1586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Margarina
+- ÓLEO Comestivel
+- Preço de Venda
+- Preço Máximo
+- Retalhista
+- Sabao
 relationships:
 - type: amended_by
   target: pt:dre:656392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:266127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141041:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 66/1977, Série I de 1977-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-141041
+  date: '1977-03-19'
+- type: repealed_by
+  target: pt:dre:656392:por
+  label: Revogada pelo(a) Portaria n.º 192-P/78 - Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-p-1978-656392
+  date: '1978-04-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:58Z'
   warnings: []
   errors: []
 ---
@@ -106,19 +159,19 @@ Margarinas
 
 Preços máximos à porta dos armazéns das fábricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
 
 3.º Os preços máximos de venda ao consumidor e ao sector industrial são os seguintes:
 
 Preços máximos ao consumidor e ao sector industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
 
 4.º As margens mínimas dos retalhistas na venda das margarinas são as seguintes:
 
 Margens mínimas dos retalhistas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05002/00150017.pdf)
 
 5.º Os retalhistas podem abastecer-se directamente nas fábricas, aos preços estabelecidos no n.º 2.º, as quais ficam obrigadas a satisfazer encomendas para entrega, por uma só vez, num mínimo de sessenta caixas de diversos tipos sortidos, excepto para embalagens de 1 kg, cuja quantidade mínima é de quarenta caixas.
 

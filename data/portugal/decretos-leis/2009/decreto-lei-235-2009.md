@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2009/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2009-489708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 753ccbdc59b6230fc840b6eb21a21e7896a2dafaa3497eeb59d1df7a2d448847
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a069031f4309807ac998faedb16cd2f1a4872052f7b58a233eeebca5dd9ef113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,7 +71,6 @@ subjects:
 - Amarante
 - Armamar
 - Assembleia Geral
-- Gestão de Resíduos
 - Baião
 - Boticas
 - Cabeceiras de Basto
@@ -83,10 +82,10 @@ subjects:
 - Constituição de Sociedade
 - Contrato de Concessão
 - Definição de Competências
-- Fusão de Empresas
 - Estatuto
 - FAFE
-- Sistema Multimunicipal de Triagem Recolha Valorização e Tratamento de Resíduos Sólidos Urbanos do Norte Central
+- Fusão de Empresas
+- Gestão de Resíduos
 - Guimarães
 - Lamego
 - Marco de Canaveses
@@ -97,14 +96,12 @@ subjects:
 - Murça
 - Penedono
 - PESO da Régua
-- Vila Real
 - Rebat
 - Resat
-- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do ALTO Tâmega
 - Resende
 - Residouro
-- Resinorte
 - Resíduo Urbano
+- Resinorte
 - Revisor Oficial de Contas
 - Ribeira de PENA
 - Sabrosa
@@ -113,19 +110,32 @@ subjects:
 - são JOÃO da Pesqueira
 - Sernancelhe
 - Sistema Multimunicipal de Triagem Recolha Selectiva e Tratamento de Resíduos Sólidos Urbanos do VALE do Douro SUL
+- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do ALTO Tâmega
 - Sistema Multimunicipal de Triagem Recolha Valorização e Tratamento de Resíduos Sólidos Urbanos do Baixo Tâmega
+- Sistema Multimunicipal de Triagem Recolha Valorização e Tratamento de Resíduos Sólidos Urbanos do Norte Central
 - Tabuaço
 - Tarouca
 - Trofa
 - Valpaços
 - VILA NOVA de Famalicão
 - VILA Pouca de Aguiar
+- Vila Real
 - Vizela
 relationships:
 - type: amended_by
   target: pt:dre:25345608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345608:por
+  label: Alterados, a partir de 03.07.2014, os arts 4.º, 5.º, 6.º, 9.º e 10.º, aditados os arts 10.º-A e 10.º-B, revogado
+    o art. 3.º, os n.ºs 2, 4, 7, 8 e 9 do art. 4.º, o n.º 4 do art. 6.º, o art. 7.º, o art. 8.º, os n.ºs 2 e 3 do art 9.º,
+    os n.ºs 1 a 4 e 6 a 8 do art. 10.º, e os arts 11.º, 12.º, 13.º e 14.º do presente diploma, bem como são alterados os arts
+    3.º, 5.º, 7.º, 8.º, 13.º e 18.º, aditado o art. 24.º-A, revogados os n.ºs 3 a 8 do art. 5.º, o art. 6.º, o n.º 2 do art.
+    7.º, e n.ºs 1 e 2, 5, 14 e 15 do art. 8.º º, do anexo ao citado diploma e procede à sua republicação, pelo(a) Decreto-Lei
+    n.º 106/2014 - Diário da República n.º 125/2014, Série I de 2014-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2014-25345608
+  date: '2014-07-02'
 - type: cites
   target: celex:31994L0062
   label: null
@@ -141,13 +151,13 @@ relationships:
 article_structure:
   article_count: 40
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:01Z'
   warnings: []
   errors: []
 ---
@@ -374,15 +384,15 @@ São revogados os Decretos-Leis n.os 226/2000, de 9 de Setembro, 323-A/2000, de 
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - João Manuel Machado Ferrão.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 6.º)
 

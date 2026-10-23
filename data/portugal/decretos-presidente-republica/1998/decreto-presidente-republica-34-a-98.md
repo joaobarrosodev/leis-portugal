@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 175/1998, 3º Suplemento, Série I-A de 1998-07-31
   number: '175'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3674-(14) a 3674-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/175a03/00140014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/34-a/1998/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/34-a-1998-182272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a55d2c46f4c16861b1bf3f7d62ac488f990cee339a3c30b1056c6ef8a4717c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0292eb4ecb22135f1cc46c846bb6067cf1deb5666b373af9f9f78ea0e0cc6897
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mulher
-- Criança
 - Convenção
-- Portugal
+- Criança
 - Direitos da Criança
-- Luta contra a Discriminação
-- Estatuto dos Refugiados
-- Património Cultural
-- ONU
-- Macau
-- Medicamento
-- Refugiado
 - Discriminação Racial
 - Discriminação Sexual
 - Droga
-- Proteção do Ambiente
-- Património Mundial
 - Ensino
-- Prostituição
-- Sequestro de Pessoas
+- Estatuto dos Refugiados
 - Genebra
+- Luta contra a Discriminação
+- Macau
+- Medicamento
+- Mulher
+- ONU
+- Património Cultural
+- Património Mundial
+- Portugal
+- Prostituição
+- Proteção do Ambiente
+- Refugiado
+- Sequestro de Pessoas
 - Xenofobia
 relationships:
 - type: amended_by
@@ -129,16 +129,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/32/1998/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/32/1998/07/14/p/dre
+- type: cites
+  target: pt:dre:423665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423880:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437430:por
+  label: "Revogado pelo DEC.37/98.1998.08.17.PR, DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/37-1998-437430
+  date: '1998-08-17'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:56Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +188,7 @@ validation:
 
 de 31 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.º 2, e 69.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.º 2, e 69.º do Estatuto Orgânico de Macau, o seguinte:
 
 ###### Artigo único
 
@@ -157,8 +198,8 @@ de 31 de Julho
 
 Para publicação no Boletim Oficial de Macau.
 
-**Assinado em 31 de Julho de 1998.**
+Assinado em 31 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

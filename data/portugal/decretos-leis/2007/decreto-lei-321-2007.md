@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/2007/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2007-642176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42a39cc4e0aa025c8dd77b0a6608ac7d631b04533b029796bcdf2cd23279e42a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bb159c0ca81a0014ff91fa2d70d328b09bfdab62cdd50d626cfe32aab1813f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aproximação das Legislações
+- Aviação Civil Internacional
 - Avião
-- Transporte Aéreo
 - Contra-ordenação
 - Convenção
 - Definição de Competências
 - Instituto Nacional de Aviação Civil
-- Aviação Civil Internacional
-- Proteção do Ambiente
 - Poluição Sonora
+- Proteção do Ambiente
+- Transporte Aéreo
 relationships:
 - type: cites
   target: celex:31989L0629
@@ -102,13 +102,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:06Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +211,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - Luís Filipe Marques Amado - João José Amaral Tomaz - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 17 de Setembro de 2007.**
+Promulgado em 17 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Setembro de 2007.**
+Referendado em 18 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2014/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e1acaa06d6e749711c9f69a5a19eb3df8a9ac3c02e56ce4a0c2bf8e4f4f6b6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9e00cef5140dcd07dbfc5ec9d0358ebcaa9490fc5f343120c39788323b95ebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Caixa Postal Electrónica
+- Cobrança de Dívidas
 - Código de Procedimento e de Processo Tributário
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
 - Definição de Competências
 - Entidade Patronal
+- Execução por Dívidas
 - Instituto de Gestão Financeira da Segurança Social
 - Lei de Bases
 - Lei Geral Tributária
 - Pagamento a Prestações
 - Pessoa Singular
-- Cobrança de Dívidas
-- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
-- Execução por Dívidas
 - Processo de Execução
 - Segurança Social
-- Caixa Postal Electrónica
 - Trabalhador Independente
 - Tribunal Administrativo
 - Tribunal Fiscal
@@ -90,6 +90,37 @@ relationships:
   target: pt:dre:122747583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69736209:por
+  label: Alterado o art. 13.º do Dec Lei 42/2001 de 09-fev, com a redação dada e republicação efetuada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2015-69736209
+  date: '2015-07-07'
+- type: amended_by
+  target: pt:dre:74843539:por
+  label: Alterado o art. 13.º (na redação do Dec. Lei 128/2015 de 07-jul) do Dec. Lei 42/2001 de 09-fev na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de
+    2016-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-c-2016-74843539
+  date: '2016-06-30'
+- type: amended_by
+  target: pt:dre:107791615:por
+  label: Alterado, nos termos do art. 21.º, o art. 6.º-A do Dec Lei 42/2001, de 09-fev, na redação e republicado pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2017-107791615
+  date: '2017-08-01'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Aditado o art. 13.º-B com a epígrafe «Dispensa de garantia» ao Dec Lei 42/2001 de 09-fev, na versão republicada pelo
+    presente, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterado a partir de 29.06.2019 e nos termos do art. 210.º, o art. 14.º ao Dec Lei 42/2001 de 09-fev, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2001/02/09/p/dre
   label: null
@@ -106,16 +137,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-a/2013/12/30/p/dre
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 33
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:40Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +203,9 @@ Os artigos 2.º, 6.º-A, 7.º, 8.º, 12.º e 13.º do [Decreto-Lei n.º 42/2001]
 
 3 - O processo de execução de dívidas à segurança social aplica-se igualmente às situações de incumprimento relativas à obrigação de reposição de prestações de qualquer natureza pagas por fundos cujo funcionamento ou gestão, estratégica ou operacional, tenham sido legalmente entregues a instituições do sistema de segurança social.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - Os executados em processos de execução fiscal por dívidas à segurança social são obrigados a possuir uma caixa postal eletrónica, em termos idênticos aos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro.
 
@@ -170,7 +219,9 @@ c) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da ob
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de segurança social e pelos fundos geridos pelas mesmas.
 
@@ -180,15 +231,21 @@ c) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da ob
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Têm personalidade e capacidade judiciárias para o processo de execução de dívidas à segurança social, as instituições do sistema de segurança social, os fundos geridos pelas mesmas, as pessoas singulares e coletivas e outras entidades a estas legalmente equiparadas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Nos tribunais comuns e nos tributários, as instituições do sistema de segurança social são representadas por mandatário judicial nomeado pelo IGFSS, I.P.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -238,15 +295,15 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Visto e aprovado em Conselho de Ministros de 13 de março de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 16 de abril de 2014.**
+Promulgado em 16 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de abril de 2014.**
+Referendado em 22 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

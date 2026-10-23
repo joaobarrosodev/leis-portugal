@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/033a00/05240525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/1998/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1998-230075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc32faf20f0735595003b45a9ba1a577a713f455a676718055c426be1193b314
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1562f27f69a05724a9ee5b52cfb5af02d9b3e398d749041dbc3f85790437f5cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,60 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Carreira de Oficial Administrativo
-- Formação Profissional
+- Carreira Profissional
 - Concurso
 - Concurso de Habilitação
-- Administração Pública
-- Carreira Profissional
+- Descrição de Funções
 - Extinção de Lugares
+- Formação Profissional
+- Função Pública
+- Gestão de Recursos Humanos
 - Habilitações Literárias
 - Instituto Público
 - Integração de Trabalhadores
-- Descrição de Funções
-- Qualificação Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
 - Recursos Humanos
 - Reestruturação de Carreiras
-- Administração Local
 - Regime de Pessoal
-- Administração Regional
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197076:por
+  label: "Aditados os nºs 4 e 5 ao art. 2º pelo DEC LEI.404-A/98.1998.12.18.PCM DR.IS-A [291]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-a-1998-197076
+  date: '1998-12-18'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:54Z'
   warnings: []
   errors: []
 ---
@@ -170,13 +189,13 @@ O presente diploma produz efeitos desde 1 de Junho de 1997.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 26 de Janeiro de 1998.**
+Promulgado em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 1998.**
+Referendado em 29 de Janeiro de 1998.
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.
 

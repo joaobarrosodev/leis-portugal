@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/07100/0157201577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2018/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2018-115012859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fee85c8a1f3629fe02adae1b8cfb1c30a613e1291f0662e4bfcc5eda1dfa865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0603ace21226ed697f0f77ddfd3835a738c61bed91540ae3f9b92d81b1b59df5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva de CAÇA
 - Armas e Munições
-- Carta de Caçador
+- Balcão do Empreendedor
 - CAÇA
+- Carta de Caçador
 - Definição de Competências
 - Direito à não CAÇA
 - Fundo Florestal Permanente
-- Licença de Caça
+- Governo Electrónico
 - Instituto da Conservação da Natureza e das Florestas
+- Licença de Caça
 - Ordenamento Cinegético
 - Organizações do Sector da Caça
 - Página na Internet
-- Governo Electrónico
+- Plataforma Eletrónica
 - Receita
+- Reserva de CAÇA
 - Sinalização
 - Taxa
 - ZONA de CAÇA
 - ZONA de CAÇA Municipal
-- Plataforma Eletrónica
-- Balcão do Empreendedor
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2008/08/08/p/dre
@@ -126,16 +126,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/200
   label: null
   source: http://data.dre.pt/eli/lei/5/200
+- type: cites
+  target: pt:dre:396926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70064733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70716380:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:22Z'
   warnings: []
   errors: []
 ---
@@ -262,7 +310,9 @@ ii) [Anterior alínea hh).]
 
 jj) [Anterior alínea ii).]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -270,7 +320,9 @@ jj) [Anterior alínea ii).]
 
 3 - As condições gerais de acesso e do exercício da caça nas ZCN e ZCM, nomeadamente os critérios de admissão de candidaturas e de atribuição de jornadas de caça, os procedimentos de apresentação de candidaturas, a duração mínima dos períodos de inscrição e as demais regras de funcionamento, são determinadas por portaria do membro do Governo responsável pela área das florestas.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 ...
 
@@ -302,7 +354,9 @@ i) ...
 
 j) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -320,13 +374,17 @@ j) ...
 
 8 - Nas ZCN sob a tutela da defesa e da justiça, o disposto nos n.os 6 e 7 é definido por despacho dos respetivos membros do Governo.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - As associações e federações de caçadores, associações de agricultores, de produtores florestais e de defesa do ambiente, autarquias locais isoladamente ou em acordo de parceria que estabeleça o parceiro líder e as obrigações assumidas por cada um dos parceiros, podem requerer a transferência da gestão de terrenos cinegéticos não ordenados, mediante apresentação de candidaturas no Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.)
 
 2 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +396,9 @@ j) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +424,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -386,7 +448,9 @@ g) ...
 
 10 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -406,11 +470,15 @@ g) ...
 
 9 - (Revogado.)
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 O reconhecimento do direito à não caça é fixado por despacho do membro do Governo responsável pela área das florestas e publicitado no sítio na Internet do ICNF, I. P.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -434,7 +502,9 @@ i) Aquando do exercício da caça em ZCN ou ZCM, comprovativo da respetiva autor
 
 2 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +514,9 @@ i) Aquando do exercício da caça em ZCN ou ZCM, comprovativo da respetiva autor
 
 4 - (Revogado.)
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -460,7 +532,9 @@ i) Aquando do exercício da caça em ZCN ou ZCM, comprovativo da respetiva autor
 
 7 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - No exercício da caça às espécies de caça menor, cada caçador só pode utilizar até dois cães e cada grupo de caçadores até 10 cães, sem prejuízo das seguintes exceções:
 
@@ -486,7 +560,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +590,9 @@ i) ...
 
 4 - ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - A reprodução, criação e detenção de espécies cinegéticas em cativeiro pode ser autorizada para fins de repovoamento, utilização em campos de treino de caça, produção de reprodutores, consumo alimentar e produção de peles, bem como para fins científicos, didáticos e recreativos.
 
@@ -528,7 +606,9 @@ i) ...
 
 6 - ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
@@ -548,13 +628,17 @@ b) ...
 
 7 - ...
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - Os agentes de autoridade sempre que presenciarem a prática de um facto punível procedem à apreensão da carta de caçador do infrator, da licença de caça para não residentes, quando for caso disso, e procedem à emissão da respetiva guia, nos termos definidos por portaria do membro do Governo responsável pela área das florestas.
 
 2 - ...
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - ...
 
@@ -648,7 +732,9 @@ tt) ...
 
 4 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - Para fazer face aos encargos e despesas resultantes da execução da [Lei n.º 173/99](https://diariodarepublica.pt/dr/detalhe/lei/173-1999-558207), de 21 de setembro, na sua redação atual, bem como da sua regulamentação, são atribuídas ao ICNF, I. P., sem prejuízo do disposto nos números seguintes, as receitas previstas no artigo 41.º da referida lei.
 
@@ -656,7 +742,9 @@ tt) ...
 
 3 - As OSC que tenham intervenção no processo de cobrança de quaisquer taxas previstas nas disposições legais e regulamentares sobre caça ficam autorizadas a arrecadar 30 % das taxas referidas como contrapartida dos serviços prestados.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - ...
 
@@ -678,7 +766,9 @@ g) Registo de cães de matilhas.
 
 3 - ...
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 1 - O ICNF, I. P., pode celebrar protocolos ou contratos com as OSC para o desenvolvimento de competências administrativas que lhe estão cometidas, podendo financiar as mesmas, nomeadamente pelo FFP.
 
@@ -686,7 +776,9 @@ g) Registo de cães de matilhas.
 
 3 - (Revogado.)
 
-###### Artigo 168.º — [...]
+Artigo 168.º
+
+[...]
 
 1 - ...
 
@@ -720,12 +812,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de fevereiro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Carlos Manuel Martins - Luís Manuel Capoulas Santos.
 
-**Promulgado em 23 de março de 2018.**
+Promulgado em 23 de março de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2018.**
+Referendado em 6 de abril de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111260209

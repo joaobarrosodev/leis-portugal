@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1973-422073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 610a517124c2b30a5ec8ea745df796d59f175134393ecea842d81712c74369d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d529d23c1e593b32346867d850f005011591709ac034ea4d9e671d5de3b48830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:28Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +226,7 @@ No entanto, os vagões cuja descarga se completou antes de expirado o prazo esta
 
 3. Por cada vagão e períodos indivisíveis de vinte e quatro horas consecutivas é devida a taxa a seguir indicada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf)
 
 4. A taxa a que se refere o número anterior não é devida quando os vagões permaneçam em ramal particular ou se encontrem em reparação em quaisquer oficinas.
 
@@ -442,7 +446,7 @@ Sulfatos, nitratos, fosfatos, cioretos e azotatos.
 
 7. São os seguintes os bónus a conceder por tonelada/quilómetro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf))](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/11500/08320837.pdf)
 
 ###### ARTIGO 15.º — Acompanhamento dos vagões
 
@@ -468,4 +472,4 @@ Em tudo quanto não seja contrário às disposições desta tarifa vigoram as co
 
 Fica pela presente anulada e substituída a tarifa de vagões particulares aprovada por despacho ministerial de 31 de Maio de 1957.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

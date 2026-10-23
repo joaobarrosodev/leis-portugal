@@ -49,36 +49,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22835-1967-315121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7622de581c6fe78bd9e24da05e98e192f50fe828e858967165233a97d9b49900
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3ea6b13d4d97f3bfe10f4a17120ee0c1e1ef58d360e513caf334af57537455c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Ministério da Marinha
+- Mobilidade de Pessoal
+- Pessoal Civil
+- Quadro de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:148178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:07Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +140,7 @@ Regulamento de Admissões, Promoções e Transferências do Pessoal Civil de Sec
 
 ### CAPÍTULO I — Do quadro
 
-###### Artigo 1.º - 1. O grupo A - pessoal de secretaria - do quadro do pessoal civil do Ministério da Marinha compreende as seguintes categorias:
+Artigo 1.º - 1. O grupo A - pessoal de secretaria - do quadro do pessoal civil do Ministério da Marinha compreende as seguintes categorias:
 
 Chefe de secção.
 
@@ -117,7 +162,7 @@ Dactilógrafo.
 
 #### SECÇÃO I — Da admissão e promoção
 
-###### Art. 2.º - 1. O preenchimento dos lugares de admissão far-se-á exclusivamente por concurso público de provas.
+Art. 2.º - 1. O preenchimento dos lugares de admissão far-se-á exclusivamente por concurso público de provas.
 
 2. O preenchimento dos lugares de promoção far-se-á também por concurso de provas, com excepção dos casos seguintes:
 
@@ -131,9 +176,9 @@ Considerar-se-á como possuindo aptidão profissional o dactilógrafo que obtive
 
 #### SECÇÃO II — Dos concursos
 
-###### Art. 3.º Compete à Direcção-Geral da Marinha, sob proposta da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante e mediante prévio despacho do Ministro da Marinha, a abertura dos concursos de admissão e de promoção do pessoal de secretaria.
+Art. 3.º Compete à Direcção-Geral da Marinha, sob proposta da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante e mediante prévio despacho do Ministro da Marinha, a abertura dos concursos de admissão e de promoção do pessoal de secretaria.
 
-###### Art. 4.º - 1. Dos avisos de abertura dos concursos de admissão deverá constar:
+Art. 4.º - 1. Dos avisos de abertura dos concursos de admissão deverá constar:
 
 a) A designação do lugar a prover;
 
@@ -153,7 +198,7 @@ h) O prazo de validade.
 
 2. Os avisos de abertura dos concursos de promoção deverão conter as indicações das alíneas a), c), d), f), g) e h) do número anterior.
 
-###### Art. 5.º - 1. Os candidatos aos concursos abertos para preenchimento de lugares de ingresso no quadro do pessoal civil deverão satisfazer aos seguintes requisitos essenciais:
+Art. 5.º - 1. Os candidatos aos concursos abertos para preenchimento de lugares de ingresso no quadro do pessoal civil deverão satisfazer aos seguintes requisitos essenciais:
 
 a) Ter nacionalidade portuguesa, originária ou adquirida, nos termos da lei da nacionalidade;
 
@@ -185,7 +230,7 @@ b) Autorizar a admissão aos concursos para terceiros-oficiais de indivíduos do
 
 4. A candidatura dos militares da Armada do activo só poderá ser aceite desde que os interessados provem ter obtido a necessária autorização da entidade competente.
 
-###### Art. 6.º - 1. Aos concursos de promoção, que são de carácter facultativo, só podem candidatar-se os funcionários de categoria imediatamente inferior à dos lugares a preencher que satisfaçam às seguintes condições:
+Art. 6.º - 1. Aos concursos de promoção, que são de carácter facultativo, só podem candidatar-se os funcionários de categoria imediatamente inferior à dos lugares a preencher que satisfaçam às seguintes condições:
 
 a) Tenham, pelo menos, três anos de serviço efectivo nessa categoria à data do termo do prazo para entrega da documentação;
 
@@ -195,7 +240,7 @@ b) Estejam integrados na ordem social e constitucional vigente, com activo repú
 
 3. Se os concursos ficarem desertos ou resultarem nulos, o Ministro da Marinha poderá autorizar a abertura de novos concursos entre os funcionários da mesma categoria com o tempo de serviço a fixar em cada caso.
 
-###### Art. 7.º - 1. Os candidatos aos concursos de admissão deverão apresentar na 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante:
+Art. 7.º - 1. Os candidatos aos concursos de admissão deverão apresentar na 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante:
 
 a) Requerimento, dirigido ao director-geral da Marinha, solicitando a admissão ao concurso, do qual deve constar: nome, idade, naturalidade, filiação, estado civil, profissão, domicílio, número e data do bilhete de identidade e indicação do arquivo por onde foi passado;
 
@@ -217,17 +262,17 @@ g) Declaração a que se refere a [Lei n.º 1901](https://diariodarepublica.pt/d
 
 4. Os funcionários e assalariados do quadro do pessoal civil do Ministério da Marinha são também dispensados de apresentar os documentos indicados no número anterior, desde que eles existam nos seus processos individuais.
 
-###### Art. 8.º - 1. Os requerimentos dos candidatos aos concursos de promoção deverão ser dirigidos ao director-geral da Marinha e conter as seguintes indicações: nome do concorrente, categoria, serviço em que está colocado e lugar a que pretende concorrer.
+Art. 8.º - 1. Os requerimentos dos candidatos aos concursos de promoção deverão ser dirigidos ao director-geral da Marinha e conter as seguintes indicações: nome do concorrente, categoria, serviço em que está colocado e lugar a que pretende concorrer.
 
 2. Os requerimentos, acompanhados da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), de 14 de Setembro de 1936, serão entregues pelos candidatos nos organismos em que estejam colocados, que, por sua vez, os remeterão à 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante.
 
-###### Art. 9.º - 1. Os concursos serão anunciados no Diário do Governo, fixando-se para apresentação dos requerimentos e documentos o prazo de 30 dias, a contar da data da publicação do aviso.
+Art. 9.º - 1. Os concursos serão anunciados no Diário do Governo, fixando-se para apresentação dos requerimentos e documentos o prazo de 30 dias, a contar da data da publicação do aviso.
 
 2. Findo o prazo de aceitação dos requerimentos, a 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante examinará os documentos apresentados e, quando qualquer deles não estiver em ordem, avisará o interessado, por carta registada com aviso de recepção, para proceder à sua regularização ou substituição no prazo de dez dias, sob pena de ser excluído do concurso.
 
 3. Decorrido o prazo concedido no número anterior, será publicada no Diário do Governo a lista nominal dos concorrentes, ordenada alfabèticamente.
 
-###### Art. 10.º - 1. O director-geral da Marinha é a entidade competente para decidir sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a sua decisão.
+Art. 10.º - 1. O director-geral da Marinha é a entidade competente para decidir sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a sua decisão.
 
 2. Contra a exclusão de qualquer candidato há recurso para o Ministro da Marinha, no prazo de dez dias, a contar da data da publicação da lista.
 
@@ -235,25 +280,25 @@ g) Declaração a que se refere a [Lei n.º 1901](https://diariodarepublica.pt/d
 
 4. Os recursos não têm efeitos suspensivos em relação ao prosseguimento dos concursos.
 
-###### Art. 11.º - 1. As provas dos concursos serão práticas, escritas e orais.
+Art. 11.º - 1. As provas dos concursos serão práticas, escritas e orais.
 
 2. Constam de provas práticas os concursos para dactilógrafos, de provas práticas e escritas os concursos para terceiros-oficiais e de provas escritas e orais os concursos de promoção.
 
-###### Art. 12.º A data da realização das provas práticas e escritas será anunciada no Diário do Governo com, pelo menos, quinze dias de antecedência.
+Art. 12.º A data da realização das provas práticas e escritas será anunciada no Diário do Governo com, pelo menos, quinze dias de antecedência.
 
-###### Art. 13.º - 1. As provas práticas, que se destinam a avaliar o grau de conhecimento em dactilografia dos candidatos, realizar-se-ão sempre em máquinas de teclado nacional e de harmonia com os programas a que se refere o artigo 15.º do presente Regulamento.
+Art. 13.º - 1. As provas práticas, que se destinam a avaliar o grau de conhecimento em dactilografia dos candidatos, realizar-se-ão sempre em máquinas de teclado nacional e de harmonia com os programas a que se refere o artigo 15.º do presente Regulamento.
 
 2. As provas escritas consistem na resolução de um ponto sobre a matéria do programa e terão a duração máxima de três horas, podendo, no entanto, por deliberação do júri, essa duração ir até cinco horas nos concursos para chefes de secção.
 
 3. A prova oral consistirá em interrogatórios sobre a matéria do programa, feitos por um ou mais membros do júri, e terá a duração máxima de 45 minutos para chefes de secção e de 30 minutos para as outras categorias.
 
-###### Art. 14.º - 1. As provas práticas e as provas escritas terão carácter privado e, enquanto decorrerem, não será permitido aos candidatos comunicar entre si nem com o exterior ou ainda sair sem motivo imperioso considerado atendível, caso em que deverá ser assegurada a devida vigilância.
+Art. 14.º - 1. As provas práticas e as provas escritas terão carácter privado e, enquanto decorrerem, não será permitido aos candidatos comunicar entre si nem com o exterior ou ainda sair sem motivo imperioso considerado atendível, caso em que deverá ser assegurada a devida vigilância.
 
 2. Os concorrentes que transgredirem o disposto no número anterior ou tentarem resolver irregular ou fraudulentamente os pontos serão, por deliberação do júri, excluídos do concurso.
 
-###### Art. 15.º As provas dos concursos de admissão e promoção obedecerão aos programas em anexo a este Regulamento.
+Art. 15.º As provas dos concursos de admissão e promoção obedecerão aos programas em anexo a este Regulamento.
 
-###### Art. 16.º - 1. A apreciação das provas será feita pelo júri, que as classificará com um número de valores compreendido entre 0 e 20, calculado, sem qualquer arredondamento, até aos centésimos.
+Art. 16.º - 1. A apreciação das provas será feita pelo júri, que as classificará com um número de valores compreendido entre 0 e 20, calculado, sem qualquer arredondamento, até aos centésimos.
 
 2. Será atribuída a classificação de 20 valores às provas práticas que não tiverem faltas. Por cada falta dada, abater-se-á a esta valorização:
 
@@ -297,7 +342,7 @@ Falta de simetria ou centragem (por espaço) ... 1
 
 Falta de diferenciação de cor ... 1
 
-##### Divisão errada de títulos (por palavra) ... 1
+Divisão errada de títulos (por palavra) ... 1
 
 Espaço a menos ou a mais no começo de parágrafo (por cada espaço) ... 1
 
@@ -325,7 +370,7 @@ Por não mudar de linha ... 5
 
 6. Consideram-se reprovados os concorrentes que obtiverem, no conjunto das provas, classificação inferior a 10 valores.
 
-###### Art. 17.º - 1. Nos concursos de promoção, salvo o disposto no n.º 3 deste artigo, à valorização obtida nos termos do artigo anterior e sem prejuízo do preceituado nos seus n.os 3 e 6 serão:
+Art. 17.º - 1. Nos concursos de promoção, salvo o disposto no n.º 3 deste artigo, à valorização obtida nos termos do artigo anterior e sem prejuízo do preceituado nos seus n.os 3 e 6 serão:
 
 a) Adicionados 24 centésimos de valor por cada ano completo de serviço efectivo prestado pelo funcionário na última categoria, sendo a contagem feita até à data do termo do prazo da entrega da documentação para a admissão ao concurso;
 
@@ -339,7 +384,7 @@ b) Abatidos 8 centésimos de valor por cada resposta negativa aos quesitos de to
 
 5. Consideram-se reprovados os candidatos que, depois de corrigida a valorização, obtenham classificação final inferior a 10 valores.
 
-###### Art. 18.º - 1. As provas dos concursos realizar-se-ão em Lisboa, perante um júri constituído da seguinte forma:
+Art. 18.º - 1. As provas dos concursos realizar-se-ão em Lisboa, perante um júri constituído da seguinte forma:
 
 Presidente:
 
@@ -347,11 +392,11 @@ O subdirector-geral da Marinha, para os concursos de chefes de secção;
 
 O director da Marinha Mercante, para os de primeiros-oficiais;
 
-**O chefe da 1.ª Repartição da Direcção da Marinha Mercante, para os de segundos-oficiais, terceiros-oficiais e dactilógrafos.**
+O chefe da 1.ª Repartição da Direcção da Marinha Mercante, para os de segundos-oficiais, terceiros-oficiais e dactilógrafos.
 
 Vogais (para todos os concursos):
 
-**O chefe da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante;**
+O chefe da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante;
 
 Um oficial da classe de administração naval, professor da Escola Naval;
 
@@ -363,7 +408,7 @@ Um funcionário civil de secretaria de categoria superior à dos concorrentes, m
 
 4. O presidente deverá ser mais antigo que os outros membros do júri, e, quando o não for, será nomeado um oficial de entre os que se encontrem a prestar serviço na Direcção-Geral da Marinha que satisfaça a tal condição.
 
-###### Art. 19.º - 1. O júri só pode funcionar quando estiver reunida a maioria absoluta dos seus membros.
+Art. 19.º - 1. O júri só pode funcionar quando estiver reunida a maioria absoluta dos seus membros.
 
 2. O presidente do júri dirige o concurso e dispõe de voto de qualidade em caso de empate, sendo substituído nos seus impedimentos pelo vogal mais categorizado.
 
@@ -371,17 +416,17 @@ Um funcionário civil de secretaria de categoria superior à dos concorrentes, m
 
 4. As actas deverão ser assinadas por todos os membros do júri presentes às reuniões, carecendo de homologação do Ministro da Marinha as que respeitem à classificação final dos concorrentes.
 
-###### Art. 20.º - 1. Depois de homologadas as actas dos júris dos concursos, a 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante procederá à elaboração da lista dos candidatos aprovados e promoverá a sua publicação no Diário do Governo.
+Art. 20.º - 1. Depois de homologadas as actas dos júris dos concursos, a 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante procederá à elaboração da lista dos candidatos aprovados e promoverá a sua publicação no Diário do Governo.
 
 2. Os concorrentes que se julguem lesados poderão reclamar para o Ministro da Marinha, no prazo de dez dias, a contar da data da publicação da lista.
 
-###### Art. 21.º Os prazos de validade dos concursos são de dois e de três anos, respectivamente para os de admissão e para os de promoção, contados da data da publicação da lista dos candidatos aprovados no Diário do Governo.
+Art. 21.º Os prazos de validade dos concursos são de dois e de três anos, respectivamente para os de admissão e para os de promoção, contados da data da publicação da lista dos candidatos aprovados no Diário do Governo.
 
-###### Art. 22.º Os concursos poderão, em qualquer altura dos seus trâmites, ser anulados por despacho do Ministro da Marinha, fundamentado em factos ou circunstâncias que mostrem ter-se tornado inconveniente o seu prosseguimento.
+Art. 22.º Os concursos poderão, em qualquer altura dos seus trâmites, ser anulados por despacho do Ministro da Marinha, fundamentado em factos ou circunstâncias que mostrem ter-se tornado inconveniente o seu prosseguimento.
 
-###### Art. 23.º Os documentos juntos aos requerimentos dos candidatos aos concursos de admissão poderão ser restituídos aos não aprovados e aos que, tendo sido aprovados, desistam do provimento ou não o tenham obtido durante o prazo de validade do concurso.
+Art. 23.º Os documentos juntos aos requerimentos dos candidatos aos concursos de admissão poderão ser restituídos aos não aprovados e aos que, tendo sido aprovados, desistam do provimento ou não o tenham obtido durante o prazo de validade do concurso.
 
-###### Art. 24.º Para preenchimento de vagas de pessoal de secretaria que ocorram nas lotações das capitanias dos portos das ilhas adjacentes, poderão ser abertos concursos de admissão nas sedes dessas capitanias, quando tal for julgado conveniente e não haja funcionários inscritos na respectiva escala de transferências, nem aprovados em concurso, realizado no continente, interessados em preencher essas vagas. Nestes concursos, observar-se-á, porém, o seguinte:
+Art. 24.º Para preenchimento de vagas de pessoal de secretaria que ocorram nas lotações das capitanias dos portos das ilhas adjacentes, poderão ser abertos concursos de admissão nas sedes dessas capitanias, quando tal for julgado conveniente e não haja funcionários inscritos na respectiva escala de transferências, nem aprovados em concurso, realizado no continente, interessados em preencher essas vagas. Nestes concursos, observar-se-á, porém, o seguinte:
 
 a) As provas decorrerão perante um júri local de fiscalização, a designar pelo director-geral da Marinha, sob proposta do respectivo capitão do porto;
 
@@ -393,13 +438,13 @@ d) Terminadas as provas, o júri local recolherá os pontos e rubricá-los-á, r
 
 ### CAPÍTULO III — Do provimento
 
-###### Art. 25.º - 1. O provimento dos indivíduos aprovados em concurso para preenchimento de vagas que ocorram durante o prazo de validade do mesmo efectuar-se-á pela ordem da lista de classificação a que alude o artigo 20.º deste Regulamento.
+Art. 25.º - 1. O provimento dos indivíduos aprovados em concurso para preenchimento de vagas que ocorram durante o prazo de validade do mesmo efectuar-se-á pela ordem da lista de classificação a que alude o artigo 20.º deste Regulamento.
 
 2. O provimento dos indivíduos a que se refere o n.º 2 do artigo 2.º será feito de harmonia com o determinado nessa disposição.
 
-###### Art. 26.º Os indivíduos cuja idade seja superior em dois anos, no máximo, ao limite fixado no artigo 5.º, podem ser providos em lugares de dactilógrafo e de terceiro-oficial, desde que à data do encerramento do seu concurso se encontrassem nas condições legais.
+Art. 26.º Os indivíduos cuja idade seja superior em dois anos, no máximo, ao limite fixado no artigo 5.º, podem ser providos em lugares de dactilógrafo e de terceiro-oficial, desde que à data do encerramento do seu concurso se encontrassem nas condições legais.
 
-###### Art. 27.º - 1. Quando se proceder a admissões, a 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante avisará os concorrentes, por carta registada com aviso de recepção, de que deverão entregar os seguintes documentos:
+Art. 27.º - 1. Quando se proceder a admissões, a 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante avisará os concorrentes, por carta registada com aviso de recepção, de que deverão entregar os seguintes documentos:
 
 a) Declaração nos termos do [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715);
 
@@ -411,15 +456,15 @@ d) Declaração a que se referem as alíneas a) ou b), conforme o caso, do artig
 
 2. Quando se proceder a promoções, serão os candidatos avisados, por intermédio dos organismos onde estejam a prestar serviço, para remeterem à 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante nova declaração nos termos do [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715).
 
-###### Art. 28.º - 1. A entrega dos documentos referidos no artigo anterior deverá ser feita dentro do prazo de vinte dias, a contar da data da recepção da carta-aviso ou da comunicação do serviço, conforme o caso.
+Art. 28.º - 1. A entrega dos documentos referidos no artigo anterior deverá ser feita dentro do prazo de vinte dias, a contar da data da recepção da carta-aviso ou da comunicação do serviço, conforme o caso.
 
 2. Salvo razões especiais devidamente comprovadas e superiormente aceites, a falta de apresentação, dentro do prazo fixado, dos documentos a que se alude, determina a perda imediata de todos os direitos resultantes da aprovação do interessado no concurso.
 
-###### Art. 29.º A aptidão física dos candidatos a lugares de ingresso no quadro será comprovada por junta médica da Armada.
+Art. 29.º A aptidão física dos candidatos a lugares de ingresso no quadro será comprovada por junta médica da Armada.
 
 ### CAPÍTULO IV — Da posse
 
-###### Art. 30.º - 1. Os indivíduos providos em lugares de ingresso no quadro tomarão posse:
+Art. 30.º - 1. Os indivíduos providos em lugares de ingresso no quadro tomarão posse:
 
 a) Na 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante, os destinados a preencher vagas ocorridas em organismos do continente;
 
@@ -429,35 +474,35 @@ b) Nas sedes das capitanias dos portos das ilhas adjacentes, os aprovados nos co
 
 ### CAPÍTULO V — Das informações de serviço
 
-###### Art. 31.º - 1. A conduta profissional do pessoal civil de secretaria está sujeita a informações de serviço anuais, dadas em impresso de modelo anexo a este Regulamento.
+Art. 31.º - 1. A conduta profissional do pessoal civil de secretaria está sujeita a informações de serviço anuais, dadas em impresso de modelo anexo a este Regulamento.
 
 2. Só há lugar a prestação de informações quando o funcionário tiver um mínimo de seis meses de permanência no organismo em que se encontre colocado.
 
-###### Art. 32.º - 1. As informações serão prestadas pelos chefes dos serviços a que os funcionários estão subordinados e visadas pelos dirigentes dos respectivos organismos e, salvo o disposto no número seguinte, deverão ser remetidas, com a classificação de confidencial, à 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante, até 15 de Janeiro do ano seguinte àquele a que respeitarem.
+Art. 32.º - 1. As informações serão prestadas pelos chefes dos serviços a que os funcionários estão subordinados e visadas pelos dirigentes dos respectivos organismos e, salvo o disposto no número seguinte, deverão ser remetidas, com a classificação de confidencial, à 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante, até 15 de Janeiro do ano seguinte àquele a que respeitarem.
 
 2. No caso de transferência no 2.º semestre do ano, a informação será prestada, tendo em conta o preceituado no n.º 2 do artigo anterior, pelo chefe de serviço donde destacou o funcionário e remetida, com a classificação de confidencial, à 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante, durante os primeiros quinze dias após o destacamento.
 
 ### CAPÍTULO VI — Das permutas e transferências
 
-###### Art. 33.º - 1. É concedido a todos os funcionários civis de secretaria o direito de solicitarem a sua inscrição para lugares que venham a vagar, mediante requerimento nesse sentido dirigido ao director-geral da Marinha.
+Art. 33.º - 1. É concedido a todos os funcionários civis de secretaria o direito de solicitarem a sua inscrição para lugares que venham a vagar, mediante requerimento nesse sentido dirigido ao director-geral da Marinha.
 
 2. A inscrição de um funcionário para servir em determinado lugar anulará a inscrição que haja sido requerida para servir noutro.
 
-###### Art. 34.º As inscrições serão registadas em livro próprio na 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante e servem de norma de orientação, pela ordem de prioridade, para as transferências a efectuar, sempre que as conveniências de serviço se não oponham à utilização desse critério.
+Art. 34.º As inscrições serão registadas em livro próprio na 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante e servem de norma de orientação, pela ordem de prioridade, para as transferências a efectuar, sempre que as conveniências de serviço se não oponham à utilização desse critério.
 
-###### Art. 35.º - 1. As transferências por permuta só serão autorizadas quando os requerentes se encontrem em número um nas escalas respectivas.
+Art. 35.º - 1. As transferências por permuta só serão autorizadas quando os requerentes se encontrem em número um nas escalas respectivas.
 
 2. Enquanto houver indivíduos aprovados em concursos abertos nos termos do artigo 24.º não serão admitidas transferências de funcionários para vagas que ocorram nas capitanias insulares.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 36.º Os casos omissos e as dúvidas suscitadas na aplicação do presente Regulamento serão decididos por despacho do Ministro da Marinha, sob proposta fundamentada da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante.
+Art. 36.º Os casos omissos e as dúvidas suscitadas na aplicação do presente Regulamento serão decididos por despacho do Ministro da Marinha, sob proposta fundamentada da 5.ª Secção da 1.ª Repartição da Direcção da Marinha Mercante.
 
-###### Art. 37.º (transistório) - 1. Os concursos de admissão e promoção abertos antes da entrada em vigor do presente Regulamento continuam a reger-se pelas normas constantes do regulamento anterior, aprovado pela [Portaria n.º 18743](https://diariodarepublica.pt/dr/detalhe/portaria/18743-1961-179983), de 26 de Setembro de 1961.
+Art. 37.º (transistório) - 1. Os concursos de admissão e promoção abertos antes da entrada em vigor do presente Regulamento continuam a reger-se pelas normas constantes do regulamento anterior, aprovado pela [Portaria n.º 18743](https://diariodarepublica.pt/dr/detalhe/portaria/18743-1961-179983), de 26 de Setembro de 1961.
 
 2. O primeiro concurso a realizar para terceiros-oficiais será reservado aos escriturários de 1.ª classe existentes à data da entrada em vigor deste Regulamento e que possuam a respectiva habilitação literária exigida na alínea c) do n.º 1 do artigo 5.º deste Regulamento.
 
-###### Art. 38.º - 1. São revogados todos os despachos ministeriais, normas e instruções publicados ao abrigo do § 2.º do artigo 15.º do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, relativos a admissões e promoções de pessoal civil de secretaria.
+Art. 38.º - 1. São revogados todos os despachos ministeriais, normas e instruções publicados ao abrigo do § 2.º do artigo 15.º do [Decreto-Lei n.º 36081](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36081-1946-148178), de 31 de Dezembro de 1946, relativos a admissões e promoções de pessoal civil de secretaria.
 
 2. É revogada a [Portaria n.º 18743](https://diariodarepublica.pt/dr/detalhe/portaria/18743-1961-179983), de 26 de Setembro de 1961.
 
@@ -627,6 +672,6 @@ Modelo de informação de serviço para pessoal civil de secretaria
 
 (Artigo 31.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/08/19200/14931499.pdf))](https://files.diariodarepublica.pt/1s/1967/08/19200/14931499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/08/19200/14931499.pdf)
 
 Ministério da Marinha, 18 de Agosto de 1967. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

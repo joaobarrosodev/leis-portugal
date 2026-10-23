@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/181a00/50555068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/1999/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1999-426763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c3d13ae0b57fa62ff26f6a5701744d7eba9708e371a37cd105dc2982ff97b89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d069d6e6a966853447b47015a1319c0b15d7355fcbd114476b8a77666f0ee7b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Álcool
 - Aproximação das Legislações
 - Armazenagem
-- Região Autónoma
 - Bebida Alcoólica
 - CEE
 - Cerveja
-- Imposto Especial sobre o Álcool
-- Imposto Especial sobre o Consumo da Cerveja
-- Vinho
-- Política Fiscal
+- Comércio
 - Contra-ordenação
-- Álcool
+- Contribuições e Impostos
+- Exportação
 - Fiscalização
 - IABA
 - Importação
+- Imposto Especial sobre o Álcool
 - Imposto Especial sobre o Consumo
+- Imposto Especial sobre o Consumo da Cerveja
 - Imposto Especial sobre o Consumo de Bebidas Alcoólicas
-- Contribuições e Impostos
 - Imposto sobre o Álcool Etílico e as Bebidas Alcoólicas
 - Infracção Fiscal
 - Isenção Fiscal
-- Exportação
+- Política Fiscal
 - Produção
 - Reembolso
+- Região Autónoma
 - Regime Fiscal
 - Taxa
-- Comércio
 - TEOR Álcoolico
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:662084:por
@@ -143,16 +143,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/117/1992/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1992/06/22/p/dre
+- type: repealed_by
+  target: pt:dre:662084:por
+  label: "Revogado pelo DEC LEI.566/99.1999.12.22.MF, DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/566-1999-662084
+  date: '1999-12-22'
 article_structure:
   article_count: 49
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:51Z'
   warnings: []
   errors: []
 ---
@@ -895,12 +900,12 @@ São revogados o Decreto-Lei n.º 117/92, de 22 de Junho, o Decreto-Lei n.º 104
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

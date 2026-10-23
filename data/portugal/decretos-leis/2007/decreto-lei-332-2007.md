@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/2007/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2007-641717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d60c73531335f5f17bbddf40c3f21e543122cf9323a475346bcd7f1fcfd51a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 133c4a7a7e65ee0a2cb5f3f45679137c5e670f90e2e53c90eadaa7f4d93b189b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,70 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Organismo Geneticamente Modificado
-- Saúde Pública
 - Etiquetagem
 - Microrganismo
+- Organismo Geneticamente Modificado
 - Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:114177787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456792:por
+  label: "Alterados os anexos I e I-A do Dec Lei 121/2002 de 03-Mai, com a redacção constante do presente diploma, pelo DEC\
+    \ LEI.138/2008.21.07.2008.MS, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2008-456792
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:608683:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Mai, na redacção do presente diploma, pelo DEC LEI.116/2009.18.05.2009.MS,\
+    \ DR.IS [95] de 18.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2009-608683
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:609369:por
+  label: "Alterado o anexo I do Dec Lei 121/2002, de 03-Maio, na redacção do presente diploma, pelo DEC LEI.13/2010.24.02.2010.MS,\
+    \ DR.IS [38] de 24.02.2010, nos termos do nº2 do art. 4º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2010-609369
+  date: '2010-02-24'
+- type: amended_by
+  target: pt:dre:307850:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Mai, alterado pelo presente diploma, pelo DEC LEI.112/2010.20.10.2010.MS,\
+    \ DR.IS [204] de 20.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2010-307850
+  date: '2010-10-20'
+- type: amended_by
+  target: pt:dre:277589:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-Maio, na redacção do presente diploma, pelo DEC LEI.47/2011.31.03.2011.MS,\
+    \ DR.IS [64] de 31.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2011-277589
+  date: '2011-03-31'
+- type: amended_by
+  target: pt:dre:179514:por
+  label: "Alterado e republicado o anexo I do Dec Lei 121/2002, de 03-maio, na redação do presente diploma, pelo DEC LEI.154/2012.16.07.2012.MS,\
+    \ DR.IS [136] de 16.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2012-179514
+  date: '2012-07-16'
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do presente diploma, pelo DEC LEI.40/2013.18.03.2013.MS,\
+    \ DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de 26.06.2013 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
+- type: amended_by
+  target: pt:dre:571026:por
+  label: "Alterado, com produção de efeitos nos termos do art. 4.º, o anexo I do Dec Lei 121/2002, de 03-maio, na redação\
+    \ do presente diploma, pelo DEC LEI.9/2014.20.01.2014.MS, DR.IS [13] de 20.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2014-571026
+  date: '2014-01-20'
 - type: cites
   target: celex:31998L0008
   label: null
@@ -91,16 +145,30 @@ relationships:
   target: celex:32006L0140
   label: null
   source: http://data.europa.eu/eli/dir/2006/140/oj
+- type: corrected_by
+  target: pt:dre:492247:por
+  label: "Rectificados os n.ºs 4, 9, 10, 13 e 14 do Anexo I ao Decreto-Lei n.º 116/2009, de 18 de Maio, que altera o Anexo\
+    \ I do Decreto-Lei n.º 121/2002 de 3 de Maio, na redacção do presente diploma, pela DECL-RECT.51/2009.16.07.2009.PCM,\
+    \ DR.IS [136] de 16.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/51-2009-492247
+  date: '2009-07-16'
+- type: repealed_by
+  target: pt:dre:114177787:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 121/2002 de 13-mai, na redação do presente diploma, mantendo-se contudo
+    transitoriamente em vigor o seu art. 38.º pelo(a) Decreto-Lei n.º 140/2017 - Diário da República n.º 217/2017, Série I
+    de 2017-11-10 nos termos do n.º 1 do seu art. 20.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2017-114177787
+  date: '2017-11-10'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:23Z'
   warnings: []
   errors: []
 ---
@@ -149,21 +217,21 @@ São revogados os anexos iv-A e iv-B do Decreto-Lei n.º 121/2002, de 3 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Luís Medeiros Vieira - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 24 de Setembro de 2007.**
+Promulgado em 24 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Setembro de 2007.**
+Referendado em 25 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 ## ANEXO I — Lista de substâncias activas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19400/0718207187.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19400/0718207187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19400/0718207187.pdf)
 
 (a que se refere o artigo 3.º)
 

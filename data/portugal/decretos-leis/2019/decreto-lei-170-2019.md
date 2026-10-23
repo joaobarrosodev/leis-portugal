@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/12/23300/0000200030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2019/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2019-126870686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9c132fc914dc54cfead6c892f15542d0fce5432f0c04ba61398b539c4bacd28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d9ce230672a233defe871594656ba61778d741e0f6411454eec62d9d8434d03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,18 @@ subjects:
 - Ajuste Direto
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Autarquia Local
 - Autoridade da Concorrência
-- Financiamento
-- Garantia
 - BEM Móvel
 - Caderno de Encargos
 - Código do Procedimento Administrativo
+- Código dos Contratos Públicos
+- Comissão CE
 - Comissão de Acompanhamento
 - Comissão de Análise
-- Tecnologia da Informação
 - Conselho de Ministros
-- Governo Regional
 - Contra-ordenação
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Contrato de Concessão
@@ -93,34 +92,42 @@ subjects:
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Especificação Técnica
+- Financiamento
 - Fiscalização
-- Comissão CE
+- Garantia
+- Governo Regional
 - Impugnação
 - Indemnização
+- Internet
 - JURI
 - Locação Financeira
 - Notificação
 - Obras Públicas
-- Portal dos Contratos Públicos
 - Parceria Público-Privada
 - Parcerias Saúde
 - Pessoa Coletiva
-- Código dos Contratos Públicos
-- Internet
-- Serviço Público
+- Plataforma Eletrónica
+- Portal dos Contratos Públicos
 - Reclamação
+- Região Autónoma
 - Regime Jurídico
+- Serviço Público
 - Setor Privado
 - Setor Público
-- Autarquia Local
+- Tecnologia da Informação
 - Unidade Técnica de Acompanhamento de Projetos
-- Plataforma Eletrónica
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:130399855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:130399855:por
+  label: Cessada a vigência do presente diploma (que altera o Código dos Contratos Públicos, aprovado em anexo ao Dec Lei
+    18/2008 de 29-jan, e o Dec Lei 111/2012 de 23-mai), e repristinadas as normas por este revogadas, pelo(a) Resolução da
+    Assembleia da República n.º 16/2020 - Diário da República n.º 56/2020, Série I de 2020-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/16-2020-130399855
+  date: '2020-03-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
   label: null
@@ -161,16 +168,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:108086621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122592101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 80
+  article_count: 58
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:44Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +308,9 @@ Os artigos 37.º, 109.º e 340.º do Código dos Contratos Públicos, aprovado e
 
 2 - Quando o contrato a celebrar por uma das entidades adjudicantes referidas nas alíneas a) e d) do n.º 1 do artigo 2.º se enquadre na previsão do número anterior, a decisão de contratar, bem como a aprovação das regras a observar na formação dos respetivos contratos, revestem a forma de Resolução do Conselho de Ministros.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +318,9 @@ Os artigos 37.º, 109.º e 340.º do Código dos Contratos Públicos, aprovado e
 
 3 - ...
 
-###### Artigo 340.º — [...]
+Artigo 340.º
+
+[...]
 
 1 - ...
 
@@ -283,11 +374,15 @@ e) As parcerias que não prevejam obrigações de pagamento de encargos pelo par
 
 8 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Sem prejuízo do n.º 6 do artigo 4.º do [Decreto-Lei n.º 81-A/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-2019-122592101), de 17 de junho, o disposto no presente diploma prevalece sobre quaisquer outras normas, gerais ou especiais, relativas a parcerias, tal como definidas no artigo 2.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os pressupostos do lançamento e da adjudicação do contrato de parceria são definidos, relativamente a cada parceria, por Resolução do Conselho de Ministros.
 
@@ -303,13 +398,17 @@ Sem prejuízo do n.º 6 do artigo 4.º do [Decreto-Lei n.º 81-A/2019](https://d
 
 7 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - Os relatórios referidos nos artigos 14.º e 23.º devem incluir um anexo com a matriz de riscos, em formato de tabela ou outro de natureza semelhante, donde conste uma descrição sumária daqueles, que permita a clara identificação da tipologia de riscos assumidos por cada um dos parceiros.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Quando um serviço da administração direta do Estado ou uma das entidades mencionadas nas alíneas b) a e) do n.º 2 do artigo 2.º pretenda dar início ao estudo e preparação do lançamento de uma parceria, deve apresentar ao membro do Governo responsável pela respetiva área uma proposta devidamente fundamentada, indicando, nomeadamente, o objeto da parceria, os objetivos que se pretendem alcançar, a sua fundamentação económica e a respetiva viabilidade financeira do projeto.
 
@@ -319,13 +418,17 @@ Sem prejuízo do n.º 6 do artigo 4.º do [Decreto-Lei n.º 81-A/2019](https://d
 
 4 - Para efeitos do disposto no número anterior o Coordenador da Unidade Técnica indica três ou quatro membros efetivos e um ou dois suplentes ao membro do Governo responsável pela área das finanças que indica o presidente, sendo os restantes membros indicados pelos membros do Governo responsáveis pelas áreas das finanças e do projeto em causa.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo dos ajustamentos que se revelem necessários introduzir pela equipa de projeto, compete ao serviço ou organismo da área governativa do projeto em causa ou à entidade que assume a qualidade de parceiro público definir as especificações técnicas a incluir nas peças do respetivo procedimento.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -337,7 +440,9 @@ Sem prejuízo do n.º 6 do artigo 4.º do [Decreto-Lei n.º 81-A/2019](https://d
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, a equipa de projeto, ouvido o órgão de gestão da entidade pública interessada, quando se trate de umas das entidades a que se referem as alíneas b) a e) do n.º 2 do artigo 2.º, submete aos membros do Governo responsáveis pelas áreas das finanças e do projeto em causa um relatório fundamentado, com uma proposta de decisão para apreciação pelo Conselho de Ministros.
 
@@ -363,7 +468,9 @@ c) A composição do júri do procedimento.
 
 4 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -373,7 +480,9 @@ b) ...
 
 2 - No caso da alínea b) do número anterior, o órgão de gestão deve observar as condições aprovadas na Resolução do Conselho de Ministros a que se refere o n.º 3 do artigo 14.º
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O procedimento para a formação de contrato de parceria é, quando aplicável nos termos do regime previsto no Código dos Contratos Públicos, conduzido por um júri, designado por Resolução do Conselho de Ministros, nos termos da alínea c) do n.º 3 do artigo 14.º
 
@@ -393,7 +502,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo da competência prevista na lei para a autorização da despesa, a adjudicação é realizada mediante Resolução do Conselho de Ministros ou, quando se trate de parceria lançada por uma das entidades a que se referem as alíneas d) e e) do n.º 2 do artigo 2.º, por ato do respetivo órgão de gestão, precedido de Resolução do Conselho de Ministros, que aprecia o relatório elaborado pelo júri.
 
@@ -405,13 +516,17 @@ b) ...
 
 5 - O termo do procedimento relativo à constituição da parceria é obrigatório sempre que se apresente apenas um concorrente no respetivo procedimento adjudicatório, salvo indicação expressa e fundamentada constante da Resolução do Conselho de Ministros.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Quando a complexidade, o valor ou o interesse público da parceria o justifiquem, o Governo, mediante Resolução do Conselho de Ministros, pode determinar a constituição de uma equipa para acompanhar a fase inicial da execução do contrato em causa fixando aquela Resolução o âmbito da missão atribuída à respetiva equipa.
 
 2 - (Revogado.)
 
-###### Artigo 20.º — Determinação unilateral
+Artigo 20.º
+
+Determinação unilateral
 
 1 - Sempre que, nos termos fixados no contrato ou na lei, o parceiro público pretenda determinar unilateralmente uma modificação objetiva do contrato, tal determinação depende de Resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças e do membro do Governo responsável pela área do projeto em causa.
 
@@ -429,7 +544,9 @@ b) ...
 
 6 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Deve ser promovida a constituição de uma comissão de negociação quando, no decurso de contrato de parceria já celebrado, se verifique alguma ou algumas das seguintes situações:
 
@@ -451,7 +568,9 @@ d) A verificação de algum evento contratualmente previsto que determine a sua 
 
 6 - Em casos excecionais, devidamente fundamentados, o Governo, mediante resolução do Conselho de Ministros, pode dispensar a constituição da comissão de negociação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - À comissão de negociação aplica-se, com as necessárias adaptações, o regime previsto nos n.os 3 e 4 do artigo 9.º, no artigo 11.º e nos n.os 4 e 5 do artigo 12.º
 
@@ -473,7 +592,9 @@ f) ...
 
 g) Assegurar a manutenção do cumprimento do disposto nos artigos 6.º e 7.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A comissão de negociação, ouvido o órgão de gestão da entidade pública interessada, quando for o caso, submete aos membros do Governo responsáveis pelas áreas das finanças e do projeto em causa um relatório fundamentado sobre os resultados do processo negocial, com uma proposta de decisão para apreciação pelo Conselho de Ministros.
 
@@ -481,7 +602,9 @@ g) Assegurar a manutenção do cumprimento do disposto nos artigos 6.º e 7.º
 
 3 - O Governo decide, mediante Resolução do Conselho de Ministros, quanto à aprovação do relatório a que se refere o n.º 1.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Sem prejuízo das competências legalmente atribuídas a outras entidades, incumbe à Unidade Técnica, nas matérias económico-financeiras, proceder à recolha, monitorização e divulgação dos encargos financeiros estimados e assumidos pelo setor público no âmbito de aplicação do presente diploma, bem como acompanhar permanentemente a situação e evolução dos respetivos contratos.
 
@@ -489,13 +612,17 @@ g) Assegurar a manutenção do cumprimento do disposto nos artigos 6.º e 7.º
 
 3 - A Unidade Técnica disponibiliza o acesso aos dados referidos no n.º 1 às Direções-Gerais do Tesouro e Finanças e do Orçamento, bem como às entidades com poderes atribuídos na lei e ou no contrato, para fiscalizar, controlar a execução e determinar auditorias à respetiva parceria.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Compete, igualmente, à Unidade Técnica proceder ao acompanhamento dos processos arbitrais relativos às parcerias, disponibilizando ao parceiro público toda a informação de que disponha e que se revele necessária à sua atuação nesses processos.
 
 2 - Para efeitos do disposto no número anterior, devem os parceiros públicos dar conhecimento, no prazo de 10 dias, de qualquer pedido de submissão de litígio a arbitragem, bem como fornecer todos os elementos que se revelem úteis ao acompanhamento do processo.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 ...
 
@@ -517,7 +644,9 @@ h) ...
 
 i) ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Sem prejuízo das competências legalmente atribuídas a outras entidades e do disposto no n.º 3, a Unidade Técnica tem por missão participar na preparação, desenvolvimento, execução e acompanhamento global de processos de parcerias, bem como prestar apoio técnico ao membro do Governo responsável pela área das finanças e, nos termos previstos no presente diploma, a outras entidades em processos daquela natureza.
 
@@ -565,7 +694,9 @@ s) ...
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -633,13 +764,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2019. - António Luís Santos da Costa - João Jorge Arêde Correia Neves - Álvaro António da Costa Novo.
 
-**Promulgado em 2 de dezembro de 2019.**
+Promulgado em 2 de dezembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2019.**
+Referendado em 3 de dezembro de 2019.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -1270,3 +1401,5 @@ b) As comissões e júris relativos a processos de parcerias cuja constituição
 ###### Artigo 49.º — Entrada em vigor
 
 O presente diploma entra em vigor no primeiro dia do segundo mês subsequente ao da sua publicação.
+
+112818789

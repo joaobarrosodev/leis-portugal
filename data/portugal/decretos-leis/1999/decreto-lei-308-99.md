@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/1999/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4477e91ed284ed3917618ef6ff5520b9b52076bf37ddb0fa0950eeecf387f16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23720bc9051d0e1cc8a370953e78a4fc14089dd863286cc7c9045d480927dfc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,26 @@ relationships:
   target: pt:dre:520987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217518:por
+  label: "Alterada a designação do Instituto de Financiamento e Apoio ao Turismo (IFT) para Instituto de Turismo de Portugal\
+    \ (ITP), o qual sucede àquele na titularidade dos respectivos bens, direitos e obrigações e, alterados os arts. 1º, 3º,\
+    \ 4º, 5º e 8º dos Estatutos aprovados pelo presente diploma, pelo DEC LEI.77/2004.31.03.2004.MECO, DR.IS-A [77] de 31.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2004-217518
+  date: '2004-03-31'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Turismo do Instituto de Turismo de Portugal (integrado no agora extinto\
+    \ Ministério da Economia), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrado no Ministério do Turismo o Instituto de Turismo de Portugal, cuja orgânica consta do presente diploma,\
+    \ com a redacção do Dec Lei 77/2004 de 31-Mar, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
   label: null
@@ -97,16 +117,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/60/1997/04/10/p/dre
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520987:por
+  label: "Revogado, com excepção do disposto no artigo 9.º, a partir de 01.05.2007, pelo DEC LEI.141/2007.27.04.2007.MEI,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2007-520987
+  date: '2007-04-27'
 article_structure:
   article_count: 48
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:01Z'
   warnings: []
   errors: []
 ---
@@ -199,15 +281,15 @@ O presente diploma entra em vigor no dia a seguir ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DO INSTITUTO DE FINANCIAMENTO E APOIO AO TURISMO
 

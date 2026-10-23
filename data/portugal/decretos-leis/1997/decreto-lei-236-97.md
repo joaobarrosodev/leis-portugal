@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/236/1997/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1997-641132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99ed4970367c33f79a1f8f18407827714cbf54e14473f1abfc9476f4deddc316
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b37884f6b089381682e80bd49b96dfc5d7b1e6967487ad74042f295fcb52b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Gestão de Resíduos
 - Definição de Competências
 - Despesas Públicas
-- Resíduo
+- Gestão de Resíduos
 - Instituto dos Resíduos
 - Ministro do Ambiente
 - Orgânica
 - Quadro de Pessoal
 - Receita Própria
 - Regime de Pessoal
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:520873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério do Ambiente e do Ordenamento do Território do Instituto dos Resíduos (integrado\
+    \ no extinto Ministério das Cidades, Ordenamento do Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:520873:por
+  label: "Determinada a sucessão da APA nas atribuições do Instituto dos Resíduos, e revogado, o presente diploma pelo DR.53/2007.27.04.2007.MAOTDR,\
+    \ DR.IS [82], nos termos do artigo 11.º e na data da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/53-2007-520873
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/1996/08/23/p/dre
   label: null
@@ -89,16 +102,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:232768:por
+  label: "Rectificado pela Decl-Rect 15-G/97.1997.09.30.PCM, DR.IS-A [226]2ºSupl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-g-1997-232768
+  date: '1997-09-30'
 article_structure:
   article_count: 40
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:45Z'
   warnings: []
   errors: []
 ---
@@ -755,16 +789,16 @@ O presente diploma constitui título bastante para efeitos de registo e dispensa
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 11 de Agosto de 1997.**
+Promulgado em 11 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Agosto de 1997.**
+Referendado em 14 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/46444651.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/46444651.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/46444651.pdf)

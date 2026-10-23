@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 125/1980, 2º Suplemento, Série I de 1980-05-30
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1292-(26) a 1292-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12502/00260028.pdf
 entry_into_force_dates: []
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-h-1980-667956
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17119c6b45153fef51222715b3c5a6aedae04fb4ba4344e43548a6bf4be22936
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 113bbb90005131f11a04f7ddeb3a4c649bbd294d1dab520e47e358eace145d10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Junta Autónoma dos Portos do Norte
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:183449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401500:por
+  label: "Alterado o quadro de pessoal, pela PORT.894/84.06.12.1984.PCM, DR.IS [282] de 06.12.1984\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-1984-401500
+  date: '1984-12-06'
+- type: amended_by
+  target: pt:dre:183449:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.470/85.17.07.1985.PCM, DR.IS [162] de 17.07.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/470-1985-183449
+  date: '1985-07-17'
+- type: cites
+  target: pt:dre:372975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:19Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +131,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Pessoal e vencimentos da Junta Autónoma dos Portos do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12502/00260028.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12502/00260028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12502/00260028.pdf)

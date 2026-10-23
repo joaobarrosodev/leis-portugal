@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 171/2007, 1º Suplemento, Série I de 2007-09-05
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6320-(5) a 6320-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17101/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308-a/2007/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-a-2007-406171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ea5165705eb5a182a0946fdc39904e7566658551f82dd53e1e850e1d9b33f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91dd9b3fd0103ddfcc343f493b128bd74c94c59ccff4d540582ae387cf281e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
 - Abono de Família Pré-natal
-- Subsídio Familiar a Crianças e Jovens
 - Acumulação de Prestações Sociais
 - Prestações Familiares
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 relationships:
 - type: amended_by
   target: pt:dre:2055562:por
@@ -89,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443898:por
+  label: "Revogado, a partir de 01.01.2009, pelo DEC LEI.245/2008.18.12.2008.MTSSO, DR.IS [244] de 18.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2008-443898
+  date: '2008-12-18'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:46Z'
   warnings: []
   errors: []
 ---
@@ -225,12 +242,12 @@ b) O nascimento ou a integração de uma terceira criança titular no agregado f
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Pedro Manuel Dias de Jesus Marques - Francisco Ventura Ramos.
 
-**Promulgado em 3 de Setembro de 2007.**
+Promulgado em 3 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Setembro de 2007.**
+Referendado em 4 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

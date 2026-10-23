@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/410/1999/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1999-667144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6157ecd9319f418f7ac107b17eb3275c03d4b49430f9327405caaff67843811
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b44fae52031e5982d8e9220b2ed6602618670fd72b0cf89ecb50b070916f5b5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,14 +78,57 @@ subjects:
 - Notário
 - Prazo
 - Prestação de Contas
+- Registo Comercial
 - Registo Obrigatório
 - Registo Predial
-- Registo Comercial
 relationships:
 - type: amended_by
   target: pt:dre:499550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 70º, 71º, 73º a 79º, 92º, 99º e 131º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago,\
+    \ alterado pelo presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ,DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 15º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 15º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 15º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 54º do Código do Notariado, aprovado pelo Dec Lei 207/95, de 14-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art. 15.º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez,\
+    \ na redacção do presente diploma, republicado pelo Dec Lei 76-A/2006 de 29-Mar, pelo DEC LEI.292/2009.13.10.2009.MFAP,\
+    \ DR.IS [198] de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterado o art. 46º do Código do Notariado, aprovado pelo Dec Lei 207/95, de 14-ago, na redação do presente diploma,\
+    \ pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -126,16 +169,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1996/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1996/05/07/p/dre
+- type: cites
+  target: pt:dre:145862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648475:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:12Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +297,9 @@ n) ...
 
 7 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - A leitura prevista na alínea l) do n.º 1 do artigo 46.º é feita pelo notário, ou por oficial perante o notário, em voz alta e na presença simultânea de todos os intervenientes.
 
@@ -214,7 +307,9 @@ n) ...
 
 3 - (O actual n.º 2.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +325,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -284,12 +381,12 @@ O artigo 15.º do Código do Registo Comercial, aprovado pelo [Decreto-Lei n.º 
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 29 de Setembro de 1999.**
+Promulgado em 29 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

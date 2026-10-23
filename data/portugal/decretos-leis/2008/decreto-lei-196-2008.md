@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19300/0708407093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2008/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e09db402d4777c871745b2c32438d79599333f9878110091833f58f92b22815c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 306c03074cbc91a9f36e184d7d4c4b5fa26c45e9f537274e6ab5e500c9553b32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Arquitectura
-- Financiamento
 - Design
+- Direcção Geral das Artes
+- Financiamento
 - Fotografia
 - Ministério da Cultura
-- Direcção Geral das Artes
 - Música
-- Actividade Artística
 - Subsídio
 - Teatro
 relationships:
@@ -97,16 +97,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/91/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/91/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:463444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108051992:por
+  label: Revogado o Dec Lei 225/2006 de 13-nov, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 103/2017
+    - Diário da República n.º 163/2017, Série I de 2017-08-24 nos termos do seu art. 30.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2017-108051992
+  date: '2017-08-24'
 article_structure:
-  article_count: 66
+  article_count: 42
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:32Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +171,9 @@ Objecto e âmbito de aplicação
 
 2 - São excluídas as actividades que, pela sua natureza ou pelo seu carácter exclusivamente lucrativo, não se inserem nos objectivos de interesse público e de cumprimento do serviço público referidos no artigo 3.º
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +199,9 @@ j) (Revogada.)
 
 2 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -203,7 +229,9 @@ l) [Anterior alínea f).]
 
 m) [Anterior alínea g).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para a prossecução dos objectivos definidos no artigo anterior são criados os seguintes tipos de apoio:
 
@@ -239,17 +267,23 @@ d) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O montante financeiro disponível e o número de entidades a apoiar em cada um dos tipos de apoio é fixado por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, antes do início do respectivo procedimento.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Com vista à correcção das assimetrias regionais, e desde que salvaguardado o carácter nacional das actividades apoiadas, é fixado, antes do início de cada procedimento, por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, o número máximo de candidaturas a apoiar dentro da zona de competência de cada direcção regional de cultura, bem como o montante global afecto por cada zona.
 
 2 - Para a determinação do número máximo de candidaturas a apoiar e do respectivo montante afecto nos termos do número anterior, é tida em consideração a avaliação do tecido cultural local, a respectiva diversidade e a necessidade de desenvolvimento, nomeadamente em articulação com o Programa Território Artes.
 
-###### Artigo 9.º — Apoio quadrienal
+Artigo 9.º
+
+Apoio quadrienal
 
 1 - As candidaturas, a apresentar de quatro em quatro anos, para apoios quadrienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º
 
@@ -259,7 +293,9 @@ a) Ter à data de apresentação da candidatura, pelo menos, seis anos de activi
 
 b) Ter instalações próprias para os fins a que se destina, ou possibilidade de utilização regular de instalações através de cedência gratuita, arrendamento ou concessão, para apresentação das suas actividades.
 
-###### Artigo 10.º — Apoio bienal
+Artigo 10.º
+
+Apoio bienal
 
 1 - As candidaturas, a apresentar de dois em dois anos, para apoios bienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º
 
@@ -267,7 +303,9 @@ b) Ter instalações próprias para os fins a que se destina, ou possibilidade d
 
 3 - (Revogado.)
 
-###### Artigo 11.º — Apoio pontual
+Artigo 11.º
+
+Apoio pontual
 
 1 - As candidaturas a apresentar, semestralmente, para apoio a projectos de natureza pontual por parte de entidades de criação, entidades de programação, entidades mistas, grupos informais e pessoas singulares compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º
 
@@ -275,7 +313,9 @@ b) Ter instalações próprias para os fins a que se destina, ou possibilidade d
 
 3 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A apreciação das candidaturas é efectuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGArtes, compostas por três individualidades de reconhecido mérito e competência nas áreas artísticas dos projectos apresentados, e por um técnico da DGArtes, que preside.
 
@@ -285,7 +325,9 @@ b) Ter instalações próprias para os fins a que se destina, ou possibilidade d
 
 4 - As propostas de decisão da comissão de apreciação são homologadas pelo director-geral da DGArtes, sendo o processo tornado público no sítio da Internet da DGArtes.
 
-###### Artigo 14.º — Formalização do apoio financeiro
+Artigo 14.º
+
+Formalização do apoio financeiro
 
 1 - O apoio financeiro concedido a cada entidade beneficiária é formalizado mediante contrato celebrado entre cada uma das entidades e a DGArtes.
 
@@ -307,7 +349,9 @@ e) Consequências face a situações de incumprimento contratual, nomeadamente c
 
 5 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo do previsto por portaria referida no n.º 3 do artigo 4.º, o acompanhamento e a avaliação da execução dos contratos competem à DGArtes, através das comissões de acompanhamento e avaliação.
 
@@ -317,11 +361,15 @@ e) Consequências face a situações de incumprimento contratual, nomeadamente c
 
 4 - ...
 
-###### Artigo 16.º — Avaliação permanente
+Artigo 16.º
+
+Avaliação permanente
 
 As entidades beneficiárias dos apoios quadrienais, bienais e anuais são objecto de uma avaliação permanente por parte das comissões de acompanhamento e avaliação que elaboram um relatório anual.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A falta de cumprimento pela entidade beneficiária das respectivas obrigações, ou a verificação superveniente da não prossecução dos objectivos que presidiram à atribuição do financiamento, conferem à DGArtes direito à suspensão, com efeitos imediatos, do contrato relativamente ao qual se verifique o incumprimento.
 
@@ -329,7 +377,9 @@ As entidades beneficiárias dos apoios quadrienais, bienais e anuais são object
 
 3 - A DGArtes fixa, na comunicação de suspensão, um prazo máximo de 20 dias úteis para a sanação do incumprimento das obrigações, tendo-se por revogada a decisão de suspensão a partir do reconhecimento pela DGArtes da sanação do incumprimento.
 
-###### Artigo 20.º — Resolução
+Artigo 20.º
+
+Resolução
 
 1 - Findo o prazo referido no n.º 3 do artigo anterior, sem que tenha sido sanado o incumprimento das obrigações, o contrato é resolvido pela DGArtes.
 
@@ -337,7 +387,9 @@ As entidades beneficiárias dos apoios quadrienais, bienais e anuais são object
 
 3 - A cobrança coerciva das importâncias referidas no número anterior é efectuada através de processo de execução fiscal.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Visando estimular a correcção das assimetrias na oferta cultural e a dinamização dos equipamentos culturais em todo o território nacional, o Ministério da Cultura pode celebrar, através da DGArtes:
 
@@ -347,7 +399,9 @@ b) Protocolos com autarquias locais e ou outras entidades públicas ou privadas 
 
 2 - ...
 
-###### Artigo 22.º — Acordos tripartidos
+Artigo 22.º
+
+Acordos tripartidos
 
 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, a autarquia local ou as autarquias locais e as entidades de criação, entidades de programação ou entidades mistas, nomeadamente, cineteatros, centros culturais e espaços de arte contemporânea, apresentam à DGArtes uma proposta conjunta, nos termos fixados por portaria referida no n.º 3 do artigo 4.º
 
@@ -357,19 +411,25 @@ b) Protocolos com autarquias locais e ou outras entidades públicas ou privadas 
 
 4 - (Revogado.)
 
-###### Artigo 23.º — Protocolos
+Artigo 23.º
+
+Protocolos
 
 1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 21.º, as partes acordam os termos e os objectivos protocolares, nos termos fixados por portaria referida no n.º 3 do artigo 4.º, sem prejuízo do disposto no n.º 2 do artigo 24.º
 
 2 - A apreciação e avaliação técnica dos pedidos cabem à DGArtes, ouvida a direcção regional de cultura territorialmente competente.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As propostas que sejam objecto de apreciação favorável pela DGArtes são submetidas à consideração do membro do Governo responsável pela área da cultura que, em caso de concordância, as homologa, dando lugar ao início da celebração dos respectivos contratos.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Para efeitos do disposto no artigo 22.º, as comissões de acompanhamento e avaliação, sob coordenação da DGArtes, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside, e representantes das autarquias locais envolvidas.
 
@@ -377,13 +437,17 @@ b) Protocolos com autarquias locais e ou outras entidades públicas ou privadas 
 
 3 - As regras de funcionamento das comissões de acompanhamento e avaliação são fixadas por portaria referida no n.º 3 do artigo 4.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A mesma actividade e o mesmo projecto não podem beneficiar de apoios cumulativos previstos no presente decreto-lei.
 
 2 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 ...
 
@@ -395,7 +459,9 @@ c) ...
 
 d) ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Os encargos decorrentes da aplicação do presente decreto-lei que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento do orçamento da DGArtes.»
 
@@ -411,11 +477,15 @@ Apoio anual
 
 2 - Podem candidatar-se ao apoio anual, as entidades de criação, as entidades de programação ou as entidades mistas que tenham, pelo menos, dois anos de actividade profissional continuada na data de apresentação da candidatura.
 
-###### Artigo 12.º-A — Apreciação de candidaturas para apoio pontual
+Artigo 12.º-A
+
+Apreciação de candidaturas para apoio pontual
 
 As candidaturas previstas no n.º 1 do artigo 11.º são apreciadas e avaliadas do ponto de vista técnico pela DGArtes e submetidas a decisão do respectivo director-geral, sem faculdade de delegação, sendo os resultados tornados públicos no sítio da Internet da DGArtes.
 
-###### Artigo 23.º-A — Apoios específicos
+Artigo 23.º-A
+
+Apoios específicos
 
 O membro do Governo responsável pela área da cultura fixa anualmente, por despacho publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, uma verba para os programas específicos de internacionalização, edição, documentação e registo, experimentação, formação artística e equipamento.»
 
@@ -439,15 +509,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Baptista Lobo - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Promulgado em 18 de Setembro de 2008.**
+Promulgado em 18 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Setembro de 2008.**
+Referendado em 19 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 225/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2006-546070), de 13 de Novembro
 

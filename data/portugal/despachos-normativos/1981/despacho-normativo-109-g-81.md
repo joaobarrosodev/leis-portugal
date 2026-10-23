@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 80/1981, 1º Suplemento, Série I de 1981-04-06
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 872-(5) a 872-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08001/00050005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/109-g-1981-275660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78c9cfadde04b47050eeca4878bdbce84386769374de14e28eeb2d7c74c8c3c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 002b1cd65d39620c6b59d41294e3d1282a0f570ff99b48f0e31d86188fe1b519
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Fixação de Preços
+- Pão
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:606537:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:605807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:573278:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 107/1981, Série I de 1981-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-573278
+  date: '1981-05-11'
+- type: repealed_by
+  target: pt:dre:606537:por
+  label: Revogado, a partir de 23.04.1982, pelo(a) Despacho Normativo n.º 50/82 - Diário da República n.º 93/1982, Série I
+    de 1982-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-1982-606537
+  date: '1982-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:03Z'
   warnings: []
   errors: []
 ---

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 32-(4) a 32-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15201/0000400028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70-b/2021/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-b-2021-169269296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11c452cba8fb670a52f760fecc4f98bd2e5e771f6353d7c8ce5a1d6a1e026060
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b126074441b3e7045115039ac385f3336a3a82b3c4561e7cb1bbcc8a23f26a2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Extrajudicial
-- Insolvência
-- Falência
-- Mediação do Crédito
-- Instituição de Crédito
-- Moeda Eletrónica
+- Banco de Portugal
 - Central de Responsabilidades de Crédito
 - Cobrança de Juros
-- Multa
 - Contra-ordenação
 - Contrato
 - Contrato de Mútuo
+- Crédito
+- Crédito Bancário
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Dívida
-- Banco de Portugal
-- Instituição Financeira de Crédito
-- Juros
-- Crédito
-- Crédito Bancário
-- Moratória
-- Operações de Crédito
 - Doença Infecciosa
 - Epidemia
+- Falência
+- Insolvência
+- Instituição de Crédito
+- Instituição Financeira
+- Instituição Financeira de Crédito
+- Juros
+- Mediação do Crédito
+- Moeda Eletrónica
+- Moratória
+- Multa
+- Operações de Crédito
+- Plano de Ação para o Risco de Incumprimento
 - Política de Crédito
+- Procedimento Extrajudicial de Regularização de Situações de Incumprimento
 - Proteção do Consumidor
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Riscos de Crédito
 - Sistema Bancário
-- Instituição Financeira
 - Situação Económica Dificil
 - TAXA de JURO
-- Plano de Ação para o Risco de Incumprimento
-- Procedimento Extrajudicial de Regularização de Situações de Incumprimento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei
@@ -141,16 +141,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/312/2009/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/312/2009/03/30/p/dre
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116936932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603490:por
+  label: null
+  source: null
 article_structure:
-  article_count: 73
+  article_count: 54
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:21Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +249,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 8.º, 9.º, 11.º, 14.º, 15.º, 16.º, 19.º
 
 3 - O presente decreto-lei é ainda aplicável, com as necessárias adaptações, às sociedades financeiras, às instituições de pagamento e às instituições de moeda eletrónica, relativamente aos contratos de crédito referidos no n.º 1 do artigo seguinte que estas entidades estejam autorizadas a celebrar de acordo com os regimes que lhes são aplicáveis.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O disposto no presente decreto-lei aplica-se aos seguintes contratos de crédito celebrados com clientes bancários:
 
@@ -221,7 +267,9 @@ e) ...
 
 2 - O disposto no presente decreto-lei não prejudica o regime aplicável aos sistemas de apoio ao sobre-endividamento, instituído pela [Portaria n.º 312/2009](https://diariodarepublica.pt/dr/detalhe/portaria/312-2009-603490), de 30 de março, na sua redação atual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do presente decreto-lei, entende-se por:
 
@@ -241,13 +289,17 @@ g) ...
 
 h) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As instituições de crédito devem acompanhar a execução dos contratos de crédito em que intervenham como mutuantes, adotando, à luz do disposto nos artigos 9.º a 11.º-C, as medidas e os procedimentos necessários à prevenção do incumprimento de obrigações decorrentes desses contratos por parte dos clientes bancários.
 
 2 - ...
 
-###### Artigo 8.º — Proibição de cobrança de comissões e de agravamento da taxa de juro
+Artigo 8.º
+
+Proibição de cobrança de comissões e de agravamento da taxa de juro
 
 1 - ...
 
@@ -255,7 +307,9 @@ h) ...
 
 3 - As instituições de crédito não podem agravar a taxa de juro dos contratos de crédito no âmbito de acordos celebrados com os clientes bancários que visem a prevenção ou a regularização de situações de incumprimento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As instituições de crédito asseguram o acompanhamento permanente e sistemático da execução dos contratos de crédito por si celebrados, realizando, com regularidade mínima a definir pelo Banco de Portugal, as diligências necessárias para a identificação de indícios de degradação da capacidade financeira do cliente bancário para cumprir as obrigações decorrentes desses contratos de crédito.
 
@@ -269,7 +323,9 @@ b) [Anterior alínea b) do n.º 1.]
 
 4 - Para efeitos do presente decreto-lei, consideram-se, designadamente, indícios de degradação da capacidade financeira do cliente bancário para cumprir com as obrigações decorrentes de contrato de crédito, a existência de incumprimentos registados na Central de Responsabilidades de Crédito do Banco de Portugal, a devolução e inibição do uso de cheques e correspondente inserção na lista de utilizadores de cheque que oferecem risco, a existência de dívidas fiscais e à segurança social, a sua insolvência, a existência de processos judiciais e de situações litigiosas, a penhora de contas bancárias, encontrar-se em situação de desemprego, a perda de rendimentos ou a evolução desfavorável significativa do desempenho do setor de atividade económica em que o cliente bancário desenvolve a sua atividade profissional, bem como a verificação de incumprimentos noutros contratos celebrados com a instituição de crédito.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As instituições de crédito estão obrigadas a elaborar e a implementar um Plano de Ação para o Risco de Incumprimento (PARI), que descreva detalhadamente os procedimentos e as medidas adotados para o acompanhamento da execução dos contratos de crédito e a gestão de situações de risco de incumprimento.
 
@@ -297,7 +353,9 @@ i) [Anterior alínea h).]
 
 4 - O Banco de Portugal define, mediante aviso, os factos e os procedimentos relevantes nos termos e para os efeitos das alíneas a), b), c), d) e e) do n.º 2.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +371,9 @@ b) O cliente bancário que alertou para o risco de incumprimento das obrigaçõe
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +405,9 @@ c) A consolidação de vários contratos de crédito.
 
 8 - As instituições de crédito acompanham a eficácia das soluções acordadas com os clientes bancários, avaliando regularmente a adequação dessas soluções à capacidade financeira, objetivos e necessidades dos clientes bancários e propondo, sempre que tal se revele adequado, outras soluções.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +415,9 @@ c) A consolidação de vários contratos de crédito.
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -371,13 +435,17 @@ e) ...
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As instituições de crédito devem criar, em suporte duradouro, processos individuais para os clientes bancários abrangidos pelos procedimentos previstos no PERSI, os quais devem conter todos os elementos relevantes, nomeadamente as comunicações entre as partes, o relatório de avaliação da capacidade financeira desses clientes e, quando aplicável, as propostas apresentadas aos mesmos, bem como o registo das razões que conduziram à não apresentação de propostas, e ainda a avaliação relativa à eficácia das soluções acordadas.
 
 2 - As instituições de crédito devem conservar os processos individuais durante os cinco anos subsequentes ao termo da adoção dos procedimentos do PERSI.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -399,7 +467,9 @@ b) A adoção de mecanismos de conciliação, mediação ou arbitragem no âmbit
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -407,7 +477,9 @@ b) A adoção de mecanismos de conciliação, mediação ou arbitragem no âmbit
 
 3 - As instituições de crédito estão obrigadas a comunicar ao Banco de Portugal informação quantitativa relativa à implementação dos mecanismos previstos no presente decreto-lei, nos termos a regulamentar pelo Banco de Portugal.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Constitui contraordenação punível nos termos da alínea m) do artigo 210.º e do artigo 212.º do RGICSF e nos termos da alínea y) do n.º 1 do artigo 150.º e do artigo 152.º do Regime dos Serviços de Pagamento e Moeda Eletrónica, aprovado pelo [Decreto-Lei n.º 91/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2018-116936932), de 12 de novembro (RJSPME), a violação do disposto no n.º 1 do artigo 7.º, nos artigos 8.º a 11.º, nos n.os 1 e 2 do artigo 11.º-A, nos n.os 1, 3 e 5 do artigo 11.º-B, nos artigos 11.º-C e 13.º, nos n.os 1 a 4 do artigo 14.º, nos n.os 1, 2, 4, 6, 7 e 8 do artigo 15.º, nos n.os 1 e 2 do artigo 16.º, nos n.os 2 e 3 do artigo 17.º, nos artigos 18.º a 21.º e no artigo 33.º
 
@@ -415,7 +487,9 @@ b) A adoção de mecanismos de conciliação, mediação ou arbitragem no âmbit
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Compete ao Banco de Portugal a fiscalização do cumprimento das obrigações decorrentes do presente decreto-lei, bem como a aplicação, se for caso disso, das respetivas coimas e sanções acessórias.
 
@@ -435,7 +509,9 @@ Avaliação dos indícios de degradação da capacidade financeira do cliente ba
 
 3 - O cliente bancário presta a informação e disponibiliza os documentos solicitados pela instituição de crédito no prazo máximo de 10 dias.
 
-###### Artigo 11.º-B — Apresentação de propostas
+Artigo 11.º-B
+
+Apresentação de propostas
 
 1 - Quando verifique que existe risco de incumprimento e que o cliente bancário dispõe de capacidade financeira para cumprir as obrigações decorrentes do contrato de crédito, a instituição de crédito apresenta-lhe uma ou mais propostas que se revelem adequadas à sua situação financeira, objetivos e necessidades, no prazo máximo de 15 dias após a disponibilização dos elementos previstos no n.º 3 do artigo anterior.
 
@@ -461,13 +537,17 @@ c) A consolidação de vários contratos de crédito.
 
 5 - A instituição de crédito acompanha a eficácia das soluções acordadas com os clientes bancários, avaliando regularmente a adequação dessas soluções à capacidade financeira, objetivos e necessidades dos clientes bancários e propondo, sempre que tal se revele adequado, outras soluções.
 
-###### Artigo 11.º-C — Processos individuais
+Artigo 11.º-C
+
+Processos individuais
 
 1 - As instituições de crédito devem criar, em suporte duradouro, processos individuais para os clientes bancários abrangidos pelos procedimentos previstos no PARI, os quais devem conter todos os elementos relevantes, nomeadamente as comunicações entre as partes, o relatório de avaliação da capacidade financeira desses clientes e, quando aplicável, as propostas apresentadas aos mesmos, bem como o registo das razões que conduziram à não apresentação de propostas, e ainda a avaliação relativa à eficácia das soluções acordadas.
 
 2 - As instituições de crédito devem conservar os processos individuais durante os cinco anos subsequentes ao termo da adoção dos procedimentos do PARI.
 
-###### Artigo 23.º-A — Composição da rede
+Artigo 23.º-A
+
+Composição da rede
 
 1 - Salvo comunicação em contrário dirigida à Direção-Geral do Consumidor (DGC), integram a rede extrajudicial de apoio a clientes bancários os centros de informação e arbitragem de conflitos de consumo, independentemente da sua designação, autorizados para prosseguir as atividades de informação, mediação, conciliação e arbitragem.
 
@@ -475,7 +555,9 @@ c) A consolidação de vários contratos de crédito.
 
 3 - A rede extrajudicial de apoio a clientes bancários é coordenada pela DGC, podendo ser estabelecidos mecanismos de cooperação com o Banco de Portugal, nos termos de protocolo a celebrar entre ambas as entidades.
 
-###### Artigo 26.º-A — Formação
+Artigo 26.º-A
+
+Formação
 
 Compete à DGC e ao Banco de Portugal, no âmbito das suas atribuições, dinamizar ações de formação em matéria financeira, económica e bancária destinadas às entidades que integram a rede extrajudicial de apoio a clientes bancários.»
 
@@ -525,15 +607,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 4 de agosto de 2021.**
+Promulgado em 4 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de agosto de 2021.**
+Referendado em 5 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1064,3 +1146,5 @@ Sem prejuízo das competências que lhe são especificamente atribuídas, compet
 ###### Artigo 40.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia 1 de janeiro de 2013.
+
+114477393

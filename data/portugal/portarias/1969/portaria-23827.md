@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23827-1969-241632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7565dd3349a7160b7a3702670e2b14f3103167b9b38af579199551451eb7e3e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d67add3d81e87fc3a214f8b0993355b756e1c516cec0680a6f0328957bfdbc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:501991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:21Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +106,6 @@ Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.
 
 Pessoal e vencimentos de cada uma das companhias móveis de que trata o n.º 1.º da portaria que antecede
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/00200/00060006.pdf))](https://files.diariodarepublica.pt/1s/1969/01/00200/00060006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/00200/00060006.pdf)
 
 Ministérios do Interior, das Finanças e do Ultramar, 3 de Janeiro de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

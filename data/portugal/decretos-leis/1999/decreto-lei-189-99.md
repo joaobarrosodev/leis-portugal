@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/128a00/31303132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/1999/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1999-316475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08338f87a0266939affa5ddfe4d5db5d012bc48e61e2d48f571ee390e52bf4e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 920e977ca87840961e62b763c10394a1abf289ce9795e2cfd4e0358e006b5c8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Saúde Pública
-- Etiquetagem
 - Embalagem
+- Etiquetagem
+- Produto Químico
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento
 - Regulamento para a Classificação Embalagem e Rotulagem das Preparações Perigosas
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:239792:por
@@ -88,16 +88,21 @@ relationships:
   target: celex:31996L0065
   label: null
   source: http://data.europa.eu/eli/dir/1996/65/oj
+- type: repealed_by
+  target: pt:dre:239792:por
+  label: "Revogado pelo DEC LEI.82/2003.2003.04.23.MECO DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2003-239792
+  date: '2003-04-23'
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:25Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +147,9 @@ b) ...
 
 4 - O disposto nos números anteriores é igualmente aplicável às preparações oferecidas ou vendidas ao público em geral sob a forma de aerossóis ou em recipientes dotados de um dispositivo de pulverização selado, excepto quando se trata das preparações cujas características constam da alínea a) do anexo III.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +183,9 @@ As informações especificadas no artigo 24.º deste Regulamento podem ser forne
 
 10 - ...
 
-###### Artigo 30.º — Derrogações aos requisitos de rotulagem
+Artigo 30.º
+
+Derrogações aos requisitos de rotulagem
 
 1 - Determinadas preparações classificadas perigosas de acordo com o disposto no capítulo II e que, na forma em que são colocadas no mercado, não representam perigo para a saúde humana não necessitam de ser rotuladas em conformidade com o estabelecido no capítulo IV. Devem, contudo, ser-lhes aplicadas as disposições constantes nos n.os 9.2 e 9.3 do anexo VI do Regulamento aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 330-A/98, de 2 de Novembro.
 
@@ -206,18 +215,20 @@ b) Presença de, pelo menos, uma das substâncias a seguir enumeradas numa conce
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/128a00/31303132.pdf)
 
-###### Artigo 5.º — Produção de efeitos
+Artigo 5.º
+
+Produção de efeitos
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1999.**
+Referendado em 20 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

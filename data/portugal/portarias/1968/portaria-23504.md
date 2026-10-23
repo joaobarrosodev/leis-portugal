@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23504-1968-273617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb61c3c1a1fe30f0093f0ed50ac78f27174ac2c351a638bdde45a901b6920532
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f46a20649d0df0a62a91f1fd6fd59853c47cf71c67daa6078f6feba3ab099b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:23Z'
   warnings: []
   errors: []
 ---
@@ -88,26 +88,26 @@ Ministério da Educação Nacional, 25 de Julho de 1968. - Pelo Ministro da Educ
 
 Regulamento do Prémio Escolar de Maria Cecília Cardoso da Cunha Pinto
 
-###### Artigo 1.º - 1. É criado, por iniciativa do Dr. Aníbal Cardoso e Cunha, médico, em memória de sua mãe, o Prémio Escolar de Maria Cecília Cardoso da Cunha Pinto, como estímulo aos alunos das escolas do ensino primário oficial do núcleo escolar da freguesia de Vila Franca da Serra, concelho de Gouveia.
+Artigo 1.º - 1. É criado, por iniciativa do Dr. Aníbal Cardoso e Cunha, médico, em memória de sua mãe, o Prémio Escolar de Maria Cecília Cardoso da Cunha Pinto, como estímulo aos alunos das escolas do ensino primário oficial do núcleo escolar da freguesia de Vila Franca da Serra, concelho de Gouveia.
 
 2. Na hipótese de na freguesia virem a ser constituídos outros núcleos escolares, a concessão dos prémios reserva-se aos alunos daquele a que ficar pertencendo a sede da freguesia.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 25000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 25000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
 
-###### Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (500$00 a cada um) das escolas do ensino primário oficial da citada freguesia de Vila Franca da Serra, que nesse ano tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
+Art. 3.º - 1. O rendimento do referido fundo será anualmente distribuído em partes iguais por dois alunos (500$00 a cada um) das escolas do ensino primário oficial da citada freguesia de Vila Franca da Serra, que nesse ano tenham concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenham distinguido na prestação das provas desse exame.
 
 2. Para a atribuição dos prémios será escolhido um aluno de cada sexo. Mas se acontecer não poder observar-se esta condição por só terem obtido aprovação alunos de um dos sexos, atribuir-se-ão os prémios a dois destes alunos.
 
 3. Se se verificar igualdade de mérito entre vários alunos na prestação das provas, far-se-á a escolha em atenção ao currículo escolar anterior.
 
-###### Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
+Art. 4.º - 1. Os nomes dos alunos a premiar serão comunicados pelos respectivos professores, após a realização dos exames da 4.ª classe, ao delegado escolar, que, por sua vez, os transmitirá à Direcção do Distrito Escolar.
 
 2. No caso de surgirem dificuldades na escolha dos candidatos, será o assunto resolvido pelo director escolar.
 
-###### Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar no edifício escolar da freguesia, presidida pelo director do Distrito Escolar da Guarda ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do prémio.
+Art. 5.º A distribuição dos prémios far-se-á anualmente no mês de Outubro, logo após o início do ano lectivo, e de preferência num domingo, em sessão solene a realizar no edifício escolar da freguesia, presidida pelo director do Distrito Escolar da Guarda ou por um seu representante. Devem estar presentes os professores e alunos e pôr-se-á em relevo o significado do prémio.
 
-###### Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos, em benefício das caixas escolares.
+Art. 6.º Os alunos que não comparecerem no dia designado para a distribuição dos prémios, nem os reclamarem no decorrer desse ano escolar, perderão o direito aos mesmos, em benefício das caixas escolares.
 
-###### Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
+Art. 7.º Deverá ficar arquivado, pelo período de cinco anos, na Direcção Escolar, em relação à atribuição dos prémios de cada ano, um breve relatório das circunstâncias de que a mesma se tiver revestido.
 
 Direcção-Geral do Ensino Primário, 25 de Julho de 1968. - O Director-Geral, José Gomes Branco.

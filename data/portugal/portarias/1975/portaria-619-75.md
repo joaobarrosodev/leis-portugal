@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/24800/16771679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-1975-312975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f529f257eadb0c5a6d23504bd92dbdb0d6698048d4302db99361bed6c3ce84c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 235da3cb68e9e371ac39ff8483a746299d5fcdc237bdfe4e843a1ad990b59050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Divisa
+- Exportação de Capitais
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:272252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:272252:por
+  label: "Revogada pela PORT.374-A/76.18.06.1976.MF, DR.IS [141]Supl de 18.06.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/374-a-1976-272252
+  date: '1976-06-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:51:11Z'
   warnings: []
   errors: []
 ---
@@ -165,10 +205,10 @@ No caso de o passaporte ainda não ter apensa a folha suplementar, procede-se co
 
 Ministério das Finanças, 17 de Outubro de 1975. - O Ministro das Finanças, Francisco Salgado Zenha.
 
-## Anexo à Portaria n.º 619/75, de 25 de Outubro
+Anexo à Portaria n.º 619/75, de 25 de Outubro
 
 Folha suplementar a anexar ao passaporte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/10/24800/16771679.pdf))](https://files.diariodarepublica.pt/1s/1975/10/24800/16771679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/10/24800/16771679.pdf)
 
-**O Ministro das Finanças, Francisco Salgado Zenha.**
+O Ministro das Finanças, Francisco Salgado Zenha.

@@ -48,36 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-1978-468817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ec4c80dc2621d7439122b1abedd2d18ff4ef5d70942143477cf5e28260c6f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b173564570089d6edd3b3b676c20978a76483db7e59bb7bef43f7f8e933ff7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato
+- Habitação Social
+- Serviços Municipalizados
+relationships:
+- type: cites
+  target: pt:dre:201065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:18Z'
   warnings: []
   errors: []
 ---
@@ -312,4 +347,4 @@ O segundo outorgante declara aceitar o presente contrato nas condições atrás 
 
 (nota 6) 300 prestações mensais de valor crescente, sendo ... no 1.º biénio, ... no 2.º biénio, ... no 3.º biénio, ... no 4.º biénio, ... no 5.º biénio, ... no 6.º biénio, ... no 7.º biénio, ... no 8.º biénio, ... no 9.º biénio, ... no 10.º biénio, ... no 11.º biénio, ... no 12.º biénio, ... no último ano; ou 300 prestações mensais de valor crescente, sendo ... no 1.º quinquénioi ... no 2.º quinquénio, ... no 3.º quinquénio, ... no 4.º quinquénio, ... no 5.º quinquénio; ou 300 prestações mensais de valor constante de ... cada uma.
 
-**O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

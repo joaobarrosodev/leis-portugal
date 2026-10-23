@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2013/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2013-258114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550f3747aed16ab3c2c7b135fdd37bfee8e0ea426ad1eea96a807c1abcc6d248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7114a810d05414b287621c31f1a3559cdfcf1b66abc69ba79da6000d250f3441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,38 +70,144 @@ reuse:
 subjects:
 - Acção Financeira
 - Aproximação das Legislações
-- Valores Mobiliários
+- Atividade Bancária
 - Autoridade Bancária Europeia
 - Autoridade Europeia dos Seguros e Pensões Complementares de Reforma
 - Autoridade Europeia dos Valores Mobiliários e dos Mercados
-- Fundo de Resolução
-- Instituição de Crédito
+- Banca
+- Banco Central Europeu
+- Banco de Portugal
 - CE Países
-- Sistema de Indemnização aos Investidores
+- CMVM
 - Código dos Valores Mobiliários
+- Comissão CE
 - Comité Europeu do Risco Sistémico
-- Risco Sistémico
-- Supervisão Financeira
 - Contra-ordenação
 - Definição de Competências
-- Banco Central Europeu
-- União Europeia
 - Fundo de Garantia de Depósitos
-- Banco de Portugal
-- Comissão CE
-- Banca
-- Atividade Bancária
+- Fundo de Resolução
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Mercado de Valores
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- CMVM
-- Instituição Financeira
+- Risco Sistémico
+- Sistema de Indemnização aos Investidores
 - Sistema Europeu de Bancos Centrais
+- Supervisão Financeira
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:124256706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado a partir de 07.09.2013 o art. 295º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de\
+    \ 13-nov, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF, DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:475919:por
+  label: "Alterado a partir de 07.09.2013 o art. 295º do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99, de\
+    \ 13-nov, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF, DR.IS [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:572638:por
+  label: "Alterado o art. 250º-A do Código dos Valores Mobiliários, aprovado pelo Dec Lei 486/99 de 13-nov, na redação do\
+    \ presente diploma, pelo DEC LEI.29/2014.25.02.2014.MF, DR.IS [39] de 25.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2014-572638
+  date: '2014-02-25'
+- type: amended_by
+  target: pt:dre:571934:por
+  label: "Alterados, a partir de 17.04.2014, os arts 355.º, 359.º e 400.º do Código dos Valores Mobiliários, aprovado pelo\
+    \ Dec. Lei 486/99, de 13-nov, na redação do presente diploma, pelo DEC LEI.40/2014.18.03.2014.MF, DR.IS [54] de 18.03.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2014-571934
+  date: '2014-03-18'
+- type: amended_by
+  target: pt:dre:25676934:por
+  label: "Alterados os arts. 2.º, 7º, 17º e 19º do Dec Lei 145/2006 de 31-jul, na redação do presente diploma, pelo DEC LEI.91/2014.20.06.2014.MF,\
+    \ DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2014-25676934
+  date: '2014-06-20'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 16.º, 22.º, 23.º,
+    56.º-A, 81.º, 93.º, 132.º-A,132.º-C, 135-A,135-C, 137.º-C, 199.º-D, do Regime Geral das Instituições de Crédito e Sociedades
+    Financeiras aprovado pelo Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterados os arts. 295.º e 359.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação
+    do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 214.º do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:69736205:por
+  label: Alterado, com entrada em vigor a 01.01.2016 (n.º 2 do art 5.º do Dec Lei 124/2015 de 07-jul), o art 135.º-C (aditado
+    pelo Dec Lei 52/2006 de 15-mar e na redação do presente diploma), do Código dos Valores Mobiliários, aprovado pelo Dec
+    Lei 486/99 de 13-nov DR.IS-A [265] pelo(a) Decreto-Lei n.º 124/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2015-69736205
+  date: '2015-07-07'
+- type: amended_by
+  target: pt:dre:70139954:por
+  label: Alterado o ponto 5 do art. 2.º da Lei 25/2008, de 05-jun, na redação do presente diploma pelo(a) Lei n.º 118/2015
+    - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-2015-70139954
+  date: '2015-08-31'
+- type: amended_by
+  target: pt:dre:70237675:por
+  label: Alterado, com efeitos a partir de 01.01.2016, o art 93.º do Dec Lei 12/2006 de 20-jan, na redação do presente diploma,
+    pelo(a) Lei n.º 147/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09 que procede à republicação do citado
+    Dec Lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/147-2015-70237675
+  date: '2015-09-09'
+- type: amended_by
+  target: pt:dre:74605300:por
+  label: Alterados os arts. 109.º, 111.º, 134.º, 145.º, 237.º-A e 250.º-A do Código dos Valores Mobiliários, aprovado pelo
+    Dec Lei 486/99 de 13-nov, com a redação do presente diploma, pelo(a) Decreto-Lei n.º 22/2016 - Diário da República n.º
+    107/2016, Série I de 016-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2016-74605300
+  date: '2016-06-03'
+- type: amended_by
+  target: pt:dre:107094723:por
+  label: Alterados os arts. 359.º, 377.º-B e 400.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de 13-nov,
+    na versão republicada do Código pelo Dec Lei 357-A/2007 de 31-out e retificada pela Decl Ret 117-A/2007 de 28-dez, na
+    redação do presente diploma, pelo(a) Lei n.º 28/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30 nos termos
+    dos seus arts. 8.º e 10.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2017-107094723
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:108074432:por
+  label: Alterado, a partir de 29.09.2017, o art. 377.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99 de
+    13-nov, na versão republicada do Código pelo Dec Lei 357-A/2007 de 31-out e retificada pela Decl Ret 117-A/2007 de 28-dez,
+    na redação do presente diploma, pelo(a) Lei n.º 104/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/104-2017-108074432
+  date: '2017-08-30'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterados os arts. 30.º, 33.º, 111.º, 214.º, 295.º, 317-D, 359.º, 359.º, 377.º-A e 400.º do Código dos Valores Mobiliários
+    aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente diploma pelo(a) Lei n.º 35/2018 - Diário da República
+    n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:124256706:por
+  label: Alterados os arts. 30.º e 359.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação
+    do presente diploma pelo(a) Lei n.º 69/2019 - Diário da República n.º 164/2019, Série I de 2019-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-2019-124256706
+  date: '2019-08-28'
 - type: cites
   target: celex:31998L0026
   label: null
@@ -150,16 +256,29 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/
   label: null
   source: http://data.europa.eu/eli/dir/
+- type: repealed_by
+  target: pt:dre:58585556:por
+  label: Revogado, a partir de 23.11.2014, o Dec Lei 104/2007, de 03-abr, na redação do presente diploma,pelo(a) Decreto-Lei
+    n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: repealed_by
+  target: pt:dre:108021178:por
+  label: Revogada, a partir de 17.09.2017, a Lei 25/2008 de 05-jun, na redação do presente diploma, pelo(a) Lei n.º 83/2017
+    - Diário da República n.º 159/2017, Série I de 2017-08-18 nos termos do n.º 4 do seu art. 188.º e do n.º 1 do seu art.
+    189.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-2017-108021178
+  date: '2017-08-18'
 article_structure:
-  article_count: 85
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:41Z'
   warnings: []
   errors: []
 ---
@@ -290,7 +409,9 @@ l) Pessoas a quem tenha sido conferido esse tratamento, nos termos do artigo 317
 
 5 - Para efeitos da qualificação da oferta e sem prejuízo da legislação aplicável em matéria da proteção de dados pessoais, os intermediários financeiros comunicam ao emitente, a pedido deste, a respetiva categorização dos seus clientes.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -298,7 +419,9 @@ l) Pessoas a quem tenha sido conferido esse tratamento, nos termos do artigo 317
 
 3 - A CMVM notifica a Autoridade Europeia dos Valores Mobiliários e dos Mercados do serviço referido no n.º 1 e dos respetivos procedimentos.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - [...].
 
@@ -312,7 +435,9 @@ b) [...];
 
 c) A oferta dirigida a, pelo menos, 150 pessoas que sejam investidores não qualificados com residência ou estabelecimento em Portugal.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - [...]:
 
@@ -352,7 +477,9 @@ n) [...].
 
 4 - [...].
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - [...]:
 
@@ -378,7 +505,9 @@ b) No prazo de 10 dias, em ofertas públicas de distribuição, salvo se respeit
 
 10 - A notificação referida no número anterior é acompanhada de uma cópia do prospeto, adenda ou retificação, conforme o caso.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - [...].
 
@@ -386,7 +515,9 @@ b) No prazo de 10 dias, em ofertas públicas de distribuição, salvo se respeit
 
 3 - A modificação deve ser divulgada imediatamente, através de meios iguais aos utilizados para a divulgação do prospeto ou, no caso de este não ser exigível, de meio de divulgação fixado pela CMVM, através de regulamento.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - [...].
 
@@ -428,7 +559,9 @@ c) Os emitentes de valores mobiliários estão sujeitos a requisitos de prestaç
 
 d) A transparência e a integridade do mercado estão garantidas através da prevenção do abuso de mercado sob a forma de abuso de informação privilegiada e de manipulação de mercado.
 
-###### Artigo 135.º-A — [...]
+Artigo 135.º-A
+
+[...]
 
 1 - Independentemente do seu formato, o prospeto de oferta pública de distribuição deve incluir um sumário que preste informações fundamentais aos investidores de forma concisa e numa linguagem não técnica.
 
@@ -460,7 +593,9 @@ e) Os motivos da oferta e afetação das receitas.
 
 5 - O formato do sumário e o conteúdo pormenorizado das informações fundamentais obedecem ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de abril.
 
-###### Artigo 135.º-C — [...]
+Artigo 135.º-C
+
+[...]
 
 1 - [...].
 
@@ -474,7 +609,9 @@ e) Os motivos da oferta e afetação das receitas.
 
 6 - [Anterior n.º 5].
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - [...].
 
@@ -490,7 +627,9 @@ a) O modelo proporcionado para as emissões de direitos aplica-se às ofertas de
 
 b) Considera-se sociedade com capitalização reduzida aquela cujas ações admitidas à negociação em mercado regulamentado apresentem capitalização média inferior a (euro) 100 000 000 com base no preço de fecho do ano nos três anos civis precedentes.
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 1 - [...].
 
@@ -524,7 +663,9 @@ e) [...].
 
 11 - [Anterior n.º 10].
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - Se, entre a data de aprovação do prospeto e o fim do prazo da oferta ou, quando for o caso, a data da admissão à negociação dos valores mobiliários, consoante o que ocorrer em último lugar, for detetada alguma deficiência no prospeto ou ocorrer qualquer facto novo ou se tomar conhecimento de qualquer facto anterior não considerado no prospeto, que sejam relevantes para a decisão dos destinatários, deve ser imediatamente requerida à CMVM a aprovação de adenda ou retificação ao prospeto.
 
@@ -536,7 +677,9 @@ e) [...].
 
 5 - A adenda deve indicar a data final até à qual os investidores podem exercer o direito de revogação da sua aceitação.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - O prospeto de oferta pública de distribuição e o prospeto base são válidos por um prazo de 12 meses a contar da data da sua aprovação, devendo ser completados por eventuais adendas exigidas nos termos do artigo anterior.
 
@@ -544,7 +687,9 @@ e) [...].
 
 3 - O documento de registo é válido por um prazo de 12 meses a contar da data da sua aprovação.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - [...].
 
@@ -556,7 +701,9 @@ e) [...].
 
 5 - [...].
 
-###### Artigo 146.º — Prospeto de âmbito europeu
+Artigo 146.º
+
+Prospeto de âmbito europeu
 
 1 - [...].
 
@@ -576,7 +723,9 @@ b) O documento referido na alínea a) do n.º 1 ao oferente ou ao intermediário
 
 7 - [Anterior n.º 5].
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - [...].
 
@@ -586,7 +735,9 @@ b) O documento referido na alínea a) do n.º 1 ao oferente ou ao intermediário
 
 4 - A responsabilidade é ainda excluída se os danos previstos no n.º 1 resultarem apenas do sumário do prospeto, ou de qualquer das suas traduções, salvo se o mesmo, quando lido em conjunto com os outros documentos que compõem o prospeto, contiver menções enganosas, inexatas ou incoerentes ou não prestar as informações fundamentais para permitir que os investidores determinem se e quando devem investir nos valores mobiliários em causa.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 [...]:
 
@@ -596,11 +747,15 @@ b) [...];
 
 c) O chefe do consórcio de assistência, se for responsável um dos membros do consórcio, nos termos da alínea g) do n.º 1 do artigo anterior.
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 O direito de indemnização fundado nos artigos precedentes deve ser exercido no prazo de seis meses após o conhecimento da deficiência do conteúdo do prospeto e cessa, em qualquer caso, decorridos dois anos desde o termo de vigência do prospeto.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 [...]:
 
@@ -632,7 +787,9 @@ n) Ofertas públicas em cascata, designadamente quanto ao preço da oferta, ao p
 
 o) Prazos de decisão da CMVM, incluindo regras relativas à suspensão e à solicitação de informações complementares ao requerente.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - [...].
 
@@ -640,7 +797,9 @@ o) Prazos de decisão da CMVM, incluindo regras relativas à suspensão e à sol
 
 3 - Sempre que os valores mobiliários objeto de oferta pública sejam garantidos por um Estado Membro, o oferente pode omitir a informação relativa a esse garante no caso de optar por elaborar um prospeto.
 
-###### Artigo 214.º — [...]
+Artigo 214.º
+
+[...]
 
 1 - [...].
 
@@ -650,13 +809,17 @@ o) Prazos de decisão da CMVM, incluindo regras relativas à suspensão e à sol
 
 4 - [...].
 
-###### Artigo 217.º — [...]
+Artigo 217.º
+
+[...]
 
 1 - [...].
 
 2 - A CMVM comunica aos Estados Membros e à Autoridade Europeia dos Valores Mobiliários e dos Mercados a lista atualizada dos mercados regulamentados registados nos termos do disposto no artigo 202.º.
 
-###### Artigo 236.º — [...]
+Artigo 236.º
+
+[...]
 
 1 - [...].
 
@@ -676,7 +839,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 237.º-A — [...]
+Artigo 237.º-A
+
+[...]
 
 1 - [...]:
 
@@ -692,13 +857,17 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 238.º — [...]
+Artigo 238.º
+
+[...]
 
 1 - Ao prospeto de admissão de valores mobiliários em mercado regulamentado são aplicáveis, com as necessárias adaptações, o artigo 118.º, o n.º 3 do artigo 134.º, os artigos 135.º, 135.º-A, 135.º-B, 135.º-C, as alíneas a), c), e), f) e g) do artigo 136.º, os artigos 136.º-A, 137.º, 139.º, 140.º, 140.º-A, 141.º, 142.º, 143.º, 145.º, 146.º, 147.º e o n.º 3 do artigo 159.º.
 
 2 - Em prospeto de admissão à negociação em mercado regulamentado de valores mobiliários não representativos de capital social com um valor nominal de, pelo menos, (euro) 100 000 não é obrigatório apresentar um sumário.
 
-###### Artigo 250.º-A — [...]
+Artigo 250.º-A
+
+[...]
 
 1 - [...]:
 
@@ -710,7 +879,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 3 - [...].
 
-###### Artigo 250.º-B — [...]
+Artigo 250.º-B
+
+[...]
 
 1 - [...].
 
@@ -722,13 +893,17 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 5 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados a dispensa do cumprimento dos deveres de prestação de informação ao abrigo do presente artigo.
 
-###### Artigo 254.º — Classes de ações
+Artigo 254.º
+
+Classes de ações
 
 1 - Nos casos em que o mercado português seja considerado, para uma determinada ação, o mercado mais relevante em termos de liquidez, a CMVM, anualmente, deve determinar e divulgar e comunicar à Autoridade Europeia dos Valores Mobiliários e dos Mercados a classe de ações a que a mesma pertence, tal como definida no n.º 3 do artigo anterior.
 
 2 - [...].
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - [...].
 
@@ -736,7 +911,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 3 - O Banco de Portugal, por aviso, designa os sistemas de liquidação de valores mobiliários por si geridos, dando conhecimento à CMVM, a quem compete notificar a Autoridade Europeia dos Valores Mobiliários e dos Mercados.
 
-###### Artigo 286.º — [...]
+Artigo 286.º
+
+[...]
 
 1 - A decisão de abertura de processos de insolvência, de recuperação de empresa ou de saneamento de qualquer participante é imediatamente notificada à CMVM e ao Banco de Portugal pelo tribunal ou pela autoridade administrativa que a proferir.
 
@@ -746,7 +923,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 4 - [...].
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - [...].
 
@@ -756,7 +935,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 4 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados o registo de empresas de investimento e instituições de crédito que prestem serviços ou exerçam atividades de investimento.
 
-###### Artigo 303.º — [...]
+Artigo 303.º
+
+[...]
 
 1 - [...].
 
@@ -766,7 +947,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 4 - A CMVM divulga o cancelamento do registo por um período de cinco anos, através do sistema de difusão de informação referido no artigo 367.º.
 
-###### Artigo 317.º-D — [...]
+Artigo 317.º-D
+
+[...]
 
 1 - [...].
 
@@ -780,7 +963,9 @@ b) Emitentes de valores mobiliários representativos de dívida admitidos à neg
 
 6 - [...].
 
-###### Artigo 355.º — [...]
+Artigo 355.º
+
+[...]
 
 1 - [...].
 
@@ -796,7 +981,9 @@ d) As autoridades de supervisão dos Estados membros da União Europeia ou as en
 
 3 - [...].
 
-###### Artigo 359.º — [...]
+Artigo 359.º
+
+[...]
 
 1 - [...]:
 
@@ -826,7 +1013,9 @@ k) [Anterior alínea j)].
 
 3 - [...].
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - [...].
 
@@ -840,7 +1029,9 @@ k) [Anterior alínea j)].
 
 6 - [Anterior n.º 5].
 
-###### Artigo 377.º — [...]
+Artigo 377.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, a CMVM coopera ainda com as instituições congéneres dos Estados Membros da União Europeia e presta-lhes assistência para o exercício das respetivas funções de supervisão e investigação, nomeadamente no que respeita ao abuso de informação, à manipulação de mercado e à violação do dever de defesa do mercado.
 
@@ -864,7 +1055,9 @@ k) [Anterior alínea j)].
 
 11 - [Anterior n.º 10].
 
-###### Artigo 377.º-A — [...]
+Artigo 377.º-A
+
+[...]
 
 1 - Quando a CMVM verificar que foram violados deveres relativos à comunicação e à divulgação de participações qualificadas, à elaboração de um prospecto de oferta pública ou de admissão, à divulgação de informação periódica e à atuação de um mercado regulamentado ou de um sistema de negociação multilateral, dá disso conhecimento à Autoridade Europeia dos Valores Mobiliários e dos Mercados, bem como à autoridade do Estado membro de origem do emitente ou, no caso de infração cometida por mercado regulamentado ou sistema de negociação multilateral, à autoridade do Estado que lhe tenha concedido autorização.
 
@@ -874,7 +1067,9 @@ k) [Anterior alínea j)].
 
 4 - As providências tomadas pela CMVM ao abrigo do disposto no n.º 2 são comunicadas à Autoridade Europeia dos Valores Mobiliários e dos Mercados e à Comissão Europeia com a maior brevidade possível.
 
-###### Artigo 400.º — [...]
+Artigo 400.º
+
+[...]
 
 A violação de deveres não referidos nos artigos anteriores mas consagrados neste Código ou noutros diplomas, a que se refere o n.º 3 do artigo 388.º, constitui:
 
@@ -894,7 +1089,9 @@ Prazos
 
 São definidos em regulamento da CMVM os prazos relativos a atos previstos no presente capítulo.
 
-###### Artigo 110.º-B — Ofertas públicas de distribuição em cascata
+Artigo 110.º-B
+
+Ofertas públicas de distribuição em cascata
 
 1 - Quando, por aplicação do disposto no artigo 109.º, a revenda ou colocação final por intermediário financeiro seja considerada oferta pública, o intermediário financeiro oferente pode, se houver consentimento escrito do emitente ou da pessoa responsável pela sua elaboração, usar prospeto válido previamente divulgado, que se mantenha atualizado nos termos do artigo 142.º.
 
@@ -902,7 +1099,9 @@ São definidos em regulamento da CMVM os prazos relativos a atos previstos no pr
 
 3 - Às ofertas públicas referidas no n.º 1 não é aplicável o disposto no n.º 2 do artigo 112.º, nos n.os 1 e 2 do artigo 124.º, nos artigos 126.º a 130.º e no n.º 3 do artigo 133.º.
 
-###### Artigo 377.º-B — Cooperação no âmbito do Sistema Europeu de Supervisores Financeiros
+Artigo 377.º-B
+
+Cooperação no âmbito do Sistema Europeu de Supervisores Financeiros
 
 1 - A CMVM coopera com a Autoridade Europeia dos Valores Mobiliários e dos Mercados, prestando-lhe a informação necessária ao exercício das suas funções, nos termos do artigo 35.º do Regulamento (UE) n.º [1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt), de 24 de novembro de 2010.
 
@@ -934,7 +1133,7 @@ Os artigos 16.º, 22.º, 23.º, 38.º, 53.º, 56.º-A, 58.º, 81.º, 93.º, 132.
 
 6 - [...].
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - [...]:
 
@@ -958,7 +1157,9 @@ h) [...].
 
 3 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -968,7 +1169,9 @@ h) [...].
 
 4 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -978,7 +1181,9 @@ h) [...].
 
 4 - São comunicados à Comissão Europeia e à Autoridade Bancária Europeia o número e a natureza dos casos em que tenha havido recusa.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...].
 
@@ -994,7 +1199,9 @@ h) [...].
 
 7 - [...].
 
-###### Artigo 56.º-A — [...]
+Artigo 56.º-A
+
+[...]
 
 1 - [...].
 
@@ -1014,7 +1221,9 @@ h) [...].
 
 9 - [Anterior n.º 8].
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...].
 
@@ -1024,7 +1233,9 @@ h) [...].
 
 4 - O Banco de Portugal notifica a Comissão Europeia, a Autoridade Bancária Europeia e o Comité Bancário Europeu das autorizações concedidas ao abrigo do disposto no n.º 1.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...].
 
@@ -1044,7 +1255,9 @@ b) O Comité Europeu do Risco Sistémico, caso tais informações sejam relevant
 
 7 - [Anterior n.º 6].
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...].
 
@@ -1062,7 +1275,9 @@ b) Seguir as orientações e recomendações da Autoridade Bancária Europeia ou
 
 6 - O mandato conferido ao Banco de Portugal nos termos da lei portuguesa não prejudica o desempenho das suas funções no âmbito da Autoridade Bancária Europeia ou nos termos da Diretiva n.º [2006/48/CE](https://data.europa.eu/eli/dir/2006/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 14 de junho de 2006.
 
-###### Artigo 132.º-A — [...]
+Artigo 132.º-A
+
+[...]
 
 1 - [...].
 
@@ -1078,7 +1293,9 @@ b) Seguir as orientações e recomendações da Autoridade Bancária Europeia ou
 
 7 - No caso previsto no número anterior, o Banco de Portugal notifica as autoridades de supervisão referidas no n.º 3, a Comissão Europeia e a Autoridade Bancária Europeia dos métodos adotados.
 
-###### Artigo 132.º-C — [...]
+Artigo 132.º-C
+
+[...]
 
 1 - [...].
 
@@ -1086,7 +1303,9 @@ b) Seguir as orientações e recomendações da Autoridade Bancária Europeia ou
 
 3 - O Banco de Portugal deve notificar a Comissão Europeia e a Autoridade Bancária Europeia dos acordos celebrados ao abrigo do disposto no n.º 1.
 
-###### Artigo 135.º-A — [...]
+Artigo 135.º-A
+
+[...]
 
 1 - [...].
 
@@ -1094,7 +1313,9 @@ b) Seguir as orientações e recomendações da Autoridade Bancária Europeia ou
 
 3 - O planeamento e coordenação das atividades de supervisão previstas na alínea c) do n.º 1 incluem as medidas de exceção referidas na alínea d) do n.º 2 do artigo 137.º-D, a preparação de avaliações conjuntas, a aplicação de planos de contingência e a comunicação ao público.
 
-###### Artigo 135.º-B — [...]
+Artigo 135.º-B
+
+[...]
 
 1 - [...].
 
@@ -1134,7 +1355,9 @@ e) A Autoridade Bancária Europeia.
 
 8 - O Banco de Portugal deve, sem prejuízo do dever de segredo imposto pelo artigo 80.º, informar a Autoridade Bancária Europeia das atividades dos colégios de autoridades de supervisão, inclusive em situações de emergência, e comunicar àquela Autoridade todas as informações de particular relevância para a convergência da supervisão.
 
-###### Artigo 135.º-C — [...]
+Artigo 135.º-C
+
+[...]
 
 1 - [...].
 
@@ -1160,7 +1383,9 @@ e) A Autoridade Bancária Europeia.
 
 12 - [Anterior n.º 11].
 
-###### Artigo 137.º-A — [...]
+Artigo 137.º-A
+
+[...]
 
 1 - Caso surja uma situação de emergência, nomeadamente se ocorrerem acontecimentos adversos que possam pôr seriamente em causa o bom funcionamento e a integridade dos mercados financeiros ou a estabilidade de todo ou de parte do sistema financeiro da União Europeia, nos termos do artigo 18.º do Regulamento (UE) n.º [1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro, ou se ocorrer uma evolução negativa dos mercados financeiros que coloque potencialmente em risco a liquidez do mercado e a estabilidade do sistema financeiro em qualquer dos Estados membros em que as entidades de um grupo tenham sido autorizadas ou onde estejam estabelecidas sucursais significativas na acepção do artigo 40.º-A, e o Banco de Portugal for a autoridade competente responsável pelo exercício da supervisão numa base consolidada ou individual, deve comunicá-la, tão rapidamente quanto possível, às seguintes entidades:
 
@@ -1178,7 +1403,9 @@ e) [Anterior alínea c)].
 
 3 - [...].
 
-###### Artigo 137.º-C — [...]
+Artigo 137.º-C
+
+[...]
 
 1 - [...].
 
@@ -1196,7 +1423,9 @@ b) Um pedido de cooperação, designadamente para troca de informações relevan
 
 6 - [Anterior n.º 4].
 
-###### Artigo 199.º-D — Atividade na União Europeia de empresas de investimento com sede em Portugal
+Artigo 199.º-D
+
+Atividade na União Europeia de empresas de investimento com sede em Portugal
 
 1 - [...].
 
@@ -1210,7 +1439,9 @@ b) Um pedido de cooperação, designadamente para troca de informações relevan
 
 6 - As medidas adotadas ao abrigo do número anterior são comunicadas pela Comissão do Mercado de Valores Mobiliários à autoridade de supervisão do Estado membro de acolhimento e à Autoridade Europeia dos Valores Mobiliários e dos Mercados.
 
-###### Artigo 199.º-F — [...]
+Artigo 199.º-F
+
+[...]
 
 1 - [...].
 
@@ -1260,7 +1491,9 @@ Os artigos 24.º, 26.º e 29.º do Decreto-Lei n.º 357-C/2007, de 31 de outubro
 
 5 - A revogação da autorização é comunicada à Autoridade Europeia dos Valores Mobiliários e dos Mercados.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -1270,7 +1503,9 @@ Os artigos 24.º, 26.º e 29.º do Decreto-Lei n.º 357-C/2007, de 31 de outubro
 
 4 - [Anterior n.º 3].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -1342,9 +1577,11 @@ Os artigos 2.º e 64.º da Lei n.º 25/2008, de 5 de junho, alterada pelo Decret
 
 11) «Autoridades Europeias de Supervisão», a Autoridade Bancária Europeia, criada pelo Regulamento (UE) n.º [1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma, criada pelo Regulamento (UE) n.º [1094/2010](https://data.europa.eu/eli/reg/2010/1094/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, criada pelo Regulamento (UE) n.º [1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 64.º — Informações às Autoridades Europeias de Supervisão, à Comissão Europeia e aos Estados Membros
+Artigo 64.º
 
-**O ministro responsável pela área das finanças é a autoridade competente para transmitir e receber as informações, relativas a países terceiros, a que se referem o n.º 4 do artigo 11.º, o n.º 2 do artigo 16.º, o n.º 7 do artigo 28.º e o n.º 2 do artigo 31.º da Diretiva n.º [2005/60/CE](https://data.europa.eu/eli/dir/2005/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de outubro de 2005.»**
+Informações às Autoridades Europeias de Supervisão, à Comissão Europeia e aos Estados Membros
+
+O ministro responsável pela área das finanças é a autoridade competente para transmitir e receber as informações, relativas a países terceiros, a que se referem o n.º 4 do artigo 11.º, o n.º 2 do artigo 16.º, o n.º 7 do artigo 28.º e o n.º 2 do artigo 31.º da Diretiva n.º [2005/60/CE](https://data.europa.eu/eli/dir/2005/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de outubro de 2005.»
 
 ###### Artigo 10.º — Aditamento à Lei n.º 25/2008, de 5 de junho
 
@@ -1402,7 +1639,9 @@ r) [...];
 
 s) «Autoridades Europeias de Supervisão», a Autoridade Bancária Europeia, criada pelo Regulamento (UE) n.º [1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma, criada pelo Regulamento (UE) n.º [1094/2010](https://data.europa.eu/eli/reg/2010/1094/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, e a Autoridade Europeia dos Valores Mobiliários e dos Mercados, criada pelo Regulamento (UE) n.º [1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -1420,7 +1659,9 @@ c) [...];
 
 d) O Comité Conjunto das Autoridades Europeias de Supervisão.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -1434,7 +1675,9 @@ c) [...];
 
 d) Procedimentos de gestão de riscos que contribuam, quando necessário, para desencadear mecanismos e planos adequados de recuperação e resolução.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -1446,7 +1689,9 @@ d) Procedimentos de gestão de riscos que contribuam, quando necessário, para d
 
 5 - A identidade do coordenador é publicada no sítio na Internet do Comité Conjunto das Autoridades Europeias de Supervisão.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -1458,7 +1703,9 @@ d) Procedimentos de gestão de riscos que contribuam, quando necessário, para d
 
 5 - As autoridades de supervisão nacionais cooperam com o Comité Conjunto das Autoridades Europeias de Supervisão e facultam todas as informações necessárias ao cumprimento das suas obrigações.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -1466,7 +1713,9 @@ d) Procedimentos de gestão de riscos que contribuam, quando necessário, para d
 
 3 - [Anterior n.º 2].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -1490,7 +1739,9 @@ Os artigos 18.º, 85.º, 89.º, e 93.º do Decreto-Lei n.º 12/2006, de 20 de ja
 
 3 - O Instituto de Seguros de Portugal comunica à Autoridade Europeia dos Seguros e Pensões Complementares de Reforma o registo dos fundos de pensões profissionais e respectivas entidades gestoras constituídas em Portugal, incluindo, em caso de atividade transfronteiriça, os Estados Membros em que operam.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...].
 
@@ -1502,7 +1753,9 @@ Os artigos 18.º, 85.º, 89.º, e 93.º do Decreto-Lei n.º 12/2006, de 20 de ja
 
 5 - O Instituto de Seguros de Portugal comunica à Autoridade Europeia dos Seguros e Pensões Complementares de Reforma as decisões de autorização concedidas nos termos dos números anteriores.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - [...].
 
@@ -1510,7 +1763,9 @@ Os artigos 18.º, 85.º, 89.º, e 93.º do Decreto-Lei n.º 12/2006, de 20 de ja
 
 3 - O Instituto de Seguros de Portugal comunica à Autoridade Europeia dos Seguros e Pensões Complementares de Reforma as disposições nacionais de natureza prudencial aplicáveis aos regimes de planos de pensões profissionais não abrangidas pelos elementos referidos na alínea a) do n.º 1 do artigo 86.º.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...].
 
@@ -1550,12 +1805,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira.
 
-**Promulgado em 31 de janeiro de 2013.**
+Promulgado em 31 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de fevereiro de 2013.**
+Referendado em 1 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

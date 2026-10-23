@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26342636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2007-520979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c0488fba46a54a00ce454fc39f904cf30b4e1404080decafd12b095d24f1dcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5778099b3dc04a5d49ddd11e73647e847d1683b42bd068faabf77b7dca95195d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
 - Direcção Geral da Administração Extrajudicial
+- Gestão Financeira
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:179290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145185:por
+  label: "Reestruturado, nos termos dos arts. 26.º a 28.º, o Gabinete para a Resolução Alternativa de Litígios, cuja orgânica\
+    \ foi aprovada pelo presente diploma, sendo integrado na Direcção-Geral da Política de Justiça, pelo DEC LEI.123/2011.29.12.2011.MJ,\
+    \ DR.IS [249] de 29.12.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2011-145185
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
   label: null
@@ -85,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/90/2001/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2001/03/23/p/dre
+- type: cites
+  target: pt:dre:347957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179290:por
+  label: "Revogado pelo DEC LEI.163/2012.31.07.2012.MJ, DR.IS [147] de 31.07.2012, sucedendo a Direção-Geral da Política de\
+    \ Justiça (DGPJ) nas atribuições do GRAL.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2012-179290
+  date: '2012-07-31'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:16Z'
   warnings: []
   errors: []
 ---
@@ -235,16 +256,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26342636.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26342636.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26342636.pdf)

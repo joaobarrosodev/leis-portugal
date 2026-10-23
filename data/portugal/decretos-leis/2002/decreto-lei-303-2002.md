@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/288a00/78207820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/303/2002/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-2002-406554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93004c3ad93968a2d4e00bfeb91e7d6419e6e413666e8fc76e96288226c92c2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a921819af679f193828bd3a1d29acb50bd00c604d19bf069de48498337fdc8e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Aposentação
-- Cálculo de Pensões
 - Caixa Geral de Aposentações
-- Serviço Militar
+- Cálculo de Pensões
 - Forças Armadas
+- Militar
 - Pensão de Aposentação
 - Pensão de Reforma
 - Prorrogação de Prazo
 - Reforma
-- Militar
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:397297:por
@@ -86,16 +86,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2002/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2002/02/11/p/dre
+- type: cites
+  target: pt:dre:273420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397297:por
+  label: "Revogado, a partir de de 01.01.2009, pela LEI.3/2009.13.01.2009.AR, DR.IS [8] de 13.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2009-397297
+  date: '2009-01-13'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:08Z'
   warnings: []
   errors: []
 ---
@@ -124,12 +133,12 @@ O presente decreto-lei produz efeitos a 1 de Novembro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix.
 
-**Promulgado em 22 de Novembro de 2002.**
+Promulgado em 22 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Dezembro de 2002.**
+Referendado em 2 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

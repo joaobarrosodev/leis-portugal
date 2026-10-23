@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/378/1997/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1997-421027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d467bf43b40d006c4cd8839ef4002e0a703dd60c2798a9adecb30bf233e5bb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbee3036c3009788a7f39cbbac159f07f49e38234cdb470797d80f6ab5cb3e12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Licenciamento
 - Licença de Transporte
-- Transporte de Mercadorias
+- Licenciamento
+- Multa
 - Regulamentação dos Transportes
 - Regulamento
 - Regulamento de Transportes em Automóveis
+- Transporte de Mercadorias
 - Transporte de Passageiros
 - Transporte Público
 - Veículo de Aluguer
@@ -80,16 +80,40 @@ relationships:
   target: pt:dre:221347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417176:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:56Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +150,7 @@ Os artigos 19.º, 107.º, corpo, 109.º, §§ 1.º e 3.º, 110.º, § 1.º, 126.
 
 Considera-se abandono da exploração da licença de transporte de aluguer de passageiros em automóveis ligeiros, salvo caso fortuito ou de força maior, a sua não exploração por período superior a 60 dias consecutivos.
 
-###### Artigo 107.º
+Artigo 107.º
 
 Todo o pedido de concessão deverá ser precedido de um depósito de 100000$00, efectuado na tesouraria da Direcção-Geral de Transportes Terrestres.
 
@@ -138,7 +162,7 @@ Todo o pedido de concessão deverá ser precedido de um depósito de 100000$00, 
 
 §4.º ...
 
-###### Artigo 109.º
+Artigo 109.º
 
 ...
 
@@ -150,7 +174,7 @@ Todo o pedido de concessão deverá ser precedido de um depósito de 100000$00, 
 
 § 4.º ...
 
-###### Artigo 110.º
+Artigo 110.º
 
 ...
 
@@ -158,7 +182,7 @@ Todo o pedido de concessão deverá ser precedido de um depósito de 100000$00, 
 
 § 2.º ...
 
-###### Artigo 126.º
+Artigo 126.º
 
 1 - Se o concessionário abandonar ou interromper, total ou parcialmente, a exploração do serviço público antes de findar o prazo por que este foi concedido, poderá a Direcção-Geral de Transportes Terrestres dirigir provisoriamente a exploração, continuando todas as despesas que dela resultem a cargo do concessionário faltoso.
 
@@ -170,7 +194,7 @@ b) 'Interrupção', a falta de exploração do serviço por período superior a 
 
 3 - A caução efectuada nos termos do artigo 109. responderá pelas despesas efectuadas de harmonia com o disposto no n.º 1.
 
-###### Artigo 191.º
+Artigo 191.º
 
 ...
 
@@ -184,19 +208,19 @@ São convertidas em contra-ordenações as infracções ao mesmo Regulamento, ap
 
 Regime sancionatório
 
-###### Artigo 207.º
+Artigo 207.º
 
 1 - As infracções ao disposto no presente Regulamento constituem contra-ordenações.
 
 2 - A tentativa e a negligência são puníveis.
 
-###### Artigo 208.º
+Artigo 208.º
 
 1 - É da competência da Direcção-Geral de Transportes Terrestres a instrução dos processos por contra-ordenações previstas neste Regulamento.
 
 2 - É da competência do director-geral de Transportes Terrestres a aplicação das coimas e sanções acessórias previstas neste Regulamento.
 
-###### Artigo 209.º
+Artigo 209.º
 
 1 - São competentes para a fiscalização do cumprimento do disposto no presente Regulamento as seguintes entidades:
 
@@ -208,7 +232,7 @@ c) Policia de Segurança Pública.
 
 2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou colectivas que efectuem os transportes a que se refere o presente Regulamento, bem como de qualquer outra pessoa participante num contrato de transporte ou na sua execução, a todas as investigações necessárias para o exercício da sua competência fiscalizadora.
 
-###### Artigo 210.º
+Artigo 210.º
 
 São puníveis com as coimas seguintes:
 
@@ -254,7 +278,7 @@ e) A não realização, parcial ou totalmente, de carreiras nos horários aprova
 
 7) De 20000$00 a 100000$00, a infracção ao disposto nos artigos 11.º, 29.º, § 2.º, 127.º, § 3.º, 130.º, 162.º, § 4.º, 164.º, 165.º, 168.º, 169.º, corpo, 170.º, corpo, 184.º, 186.º, 188.º, 189.º, 194.º, corpo, e 198.º
 
-###### Artigo 211.º
+Artigo 211.º
 
 1 - Simultaneamente com a aplicação das coimas, podem ser decretadas as seguintes sanções acessórias, nos termos da lei geral:
 
@@ -264,13 +288,13 @@ b) Interdição de exploração da licença de transporte de aluguer e de a ela 
 
 2 - A aplicação das sanções acessórias previstas no n.º 1 implica, consoante os casos, a caducidade da concessão da carreira ou da licença do veículo relativamente à qual tenha sido praticada a infracção.
 
-###### Artigo 212.º
+Artigo 212.º
 
 1 - São da responsabilidade do transportador as infracções ao disposto no presente Regulamento.
 
 2 - Exceptuam-se do disposto no número anterior as infracções ao disposto no artigo 188.º, que são da responsabilidade dos respectivos autores.
 
-###### Artigo 213.º
+Artigo 213.º
 
 1 - Se o infractor não for domiciliado em Portugal e não pretender efectuar o pagamento voluntário da coima pelo mínimo legal, deve proceder ao depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada.
 
@@ -278,7 +302,7 @@ b) Interdição de exploração da licença de transporte de aluguer e de a ela 
 
 3 - A falta do depósito referido no n.º 1 implica a imobilização do veículo, nos termos da lei, mantendo-se tal imobilização até à efectividade do depósito, ao pagamento da coima ou à decisão absolutória.
 
-###### Artigo 214.º
+Artigo 214.º
 
 O produto das coimas será distribuído da seguinte forma:
 
@@ -300,12 +324,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1997. - António Manuel de Oliveira Guterres - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim - João Cardona Gomes Cravinho.
 
-**Promulgado em 3 de Dezembro de 1997.**
+Promulgado em 3 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2004/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2004-273176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41e7c3ef3f8dcd99943aadb4f1df9125595cade7d79dc7ded4d91c17b9540b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f991764455905e1005e09a783c7181c98397df7d263aa303c9f4c462bdad72ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caminhos de Ferro
-- Transporte Ferroviário
 - Preço
 - Refer
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
@@ -80,16 +80,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/270/2003/10/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/270/2003/10/28/p/dre
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639146:por
+  label: "Revogado o art. 85º do Dec Lei 270/2003 de 28-Out, com a redacção conferida no presente diploma, pelo DEC LEI.231/2007.14.06.2007.MOPTC,\
+    \ DR.IS [113] de 14.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2007-639146
+  date: '2007-06-14'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:50Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +154,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 3 de Junho de 2004.**
+Promulgado em 3 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Junho de 2004.**
+Referendado em 7 de Junho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

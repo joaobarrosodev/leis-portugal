@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/270a00/79487954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/298/2003/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2003-438046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c30fea63e8f9955e3c62f7cb8105b2bdf66e3c885abd1e3a84e4f53c3ef6825
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d842ef509be96aeb5f65d5851a5c06a0cf8d95dd78e27ea68e226acbc44224cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Aptidão Profissional
+- Condutor
+- Direcção Geral dos Transportes Terrestres
+- Entidade Certificadora
+- Fiscalização
 - Formação Profissional
 - Multa
-- Entidade Certificadora
-- Direcção Geral dos Transportes Terrestres
-- Fiscalização
-- Condutor
 - Veículo de Aluguer
 relationships:
 - type: amended_by
@@ -99,16 +99,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/788/1998/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/788/1998/09/21/p/dre
+- type: cites
+  target: pt:dre:241634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693777:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257176:por
+  label: "Revogado o Dec Lei 263/98, de 19-ago, na redação do presente diploma, pela LEI.6/2013.22.01.2013.AR, DR.IS [15]\
+    \ de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2013-257176
+  date: '2013-01-22'
 article_structure:
-  article_count: 41
+  article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:51Z'
   warnings: []
   errors: []
 ---
@@ -153,11 +183,15 @@ Certificado de aptidão profissional e autorizações
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A Direcção-Geral de Transportes Terrestres é a entidade com competência para emitir certificados de aptidão profissional de motorista de táxi e para homologar os respectivos cursos de formação profissional, bem como para emitir as autorizações especiais.
 
-###### Artigo 4.º — Requisitos de emissão do certificado de aptidão profissional e da autorização especial
+Artigo 4.º
+
+Requisitos de emissão do certificado de aptidão profissional e da autorização especial
 
 1 - A emissão do certificado de aptidão profissional e da autorização especial está sujeita à verificação dos seguintes requisitos gerais:
 
@@ -197,7 +231,9 @@ c) [Anterior alínea d) do n.º 3.]
 
 6 - As taxas devidas pela emissão e renovação do certificado de aptidão profissional e pela homologação, renovação da homologação e reconhecimento dos cursos de formação constituem receita própria da Direcção-Geral de Transportes Terrestres.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -237,7 +273,9 @@ r) ...
 
 s) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -249,17 +287,23 @@ c) ...
 
 d) A Inspecção-Geral de Obras Públicas, Transportes e Comunicações.
 
-###### Artigo 9.º — Exercício ilegal da profissão e da condução
+Artigo 9.º
+
+Exercício ilegal da profissão e da condução
 
 1 - A condução do veículo em serviço por quem não seja titular do certificado de aptidão profissional ou da autorização especial é punível com coima de (euro) 625 a (euro) 1875, salvo se o condutor for o titular da licença do veículo ou sócio da sociedade titular da mesma licença, caso em que a coima é de (euro) 1250 a (euro) 3740.
 
 2 - A contratação, a qualquer título, de motorista que não seja titular do certificado de aptidão profissional é punível com coima de (euro) 625 a (euro) 1875 ou de (euro) 1250 a (euro) 3750, consoante se trate de pessoa singular ou colectiva.
 
-###### Artigo 10.º — Falta de exibição do certificado e da autorização especial
+Artigo 10.º
+
+Falta de exibição do certificado e da autorização especial
 
 A não colocação do certificado de aptidão profissional ou da autorização especial no local exigido nos termos da alínea f) do artigo 5.º é punível com as coimas previstas no n.º 1 do artigo 9.º, salvo se a apresentação do título se verificar de imediato ou no prazo de oito dias à entidade fiscalizadora, casos em que a coima é de (euro) 50 a (euro) 150.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - São puníveis com a coima de (euro) 250 a (euro) 750 as seguintes infracções:
 
@@ -315,7 +359,9 @@ Autorização excepcional
 
 2 - Naquilo que não estiver especialmente previsto no presente capítulo e não o contrarie, a autorização excepcional, nomeadamente no que respeita aos deveres do motorista, competência para fiscalizar e regime sancionatório, é regulada, com as devidas adaptações, pelo disposto nos artigos 2.º a 13.º
 
-###### Artigo 17.º — Entidade competente para a emissão da autorização excepcional
+Artigo 17.º
+
+Entidade competente para a emissão da autorização excepcional
 
 1 - A Direcção-Geral de Transportes Terrestres é a entidade com competência para emitir a autorização excepcional.
 
@@ -323,7 +369,9 @@ Autorização excepcional
 
 3 - Pela emissão e renovação da autorização excepcional são devidas taxas de valor igual ao fixado para as taxas devidas pela emissão e renovação do certificado de aptidão profissional, respectivamente, as quais constituem receita própria da Direcção-Geral de Transportes Terrestres.
 
-###### Artigo 18.º — Requisitos de emissão da autorização excepcional
+Artigo 18.º
+
+Requisitos de emissão da autorização excepcional
 
 1 - A emissão da autorização excepcional está sujeita à verificação dos seguintes requisitos gerais:
 
@@ -345,7 +393,9 @@ b) Inscrição em curso de formação programado por entidade formadora, desde q
 
 3 - Para efeito do previsto na alínea b) do número anterior, considera-se que os cursos de formação disponíveis são insuficientes para satisfazer a procura quando o candidato esteja inscrito em curso de formação há mais de três meses sem que tenha sido chamado a participar.
 
-###### Artigo 19.º — Validade da autorização excepcional
+Artigo 19.º
+
+Validade da autorização excepcional
 
 1 - A autorização excepcional emitida nos casos previstos na alínea a) do n.º 2 do artigo anterior é válida pelo período de um ano, renovável até duas vezes.
 
@@ -353,7 +403,9 @@ b) Inscrição em curso de formação programado por entidade formadora, desde q
 
 3 - Não beneficiam da renovação prevista no n.º 1 os motoristas que, tendo sido notificados pela Direcção-Geral de Transportes Terrestres de que dispõem de oferta formativa, à mesma não tenham aderido.
 
-###### Artigo 20.º — Cassação da autorização excepcional
+Artigo 20.º
+
+Cassação da autorização excepcional
 
 1 - A autorização excepcional é objecto de cassação pela Direcção-Geral de Transportes Terrestres nas seguintes situações:
 
@@ -363,7 +415,9 @@ b) Faltas que, na sua totalidade, perfaçam 10% do tempo total da formação.
 
 2 - No caso de cassação da autorização excepcional, o seu titular é notificado para proceder ao depósito do documento na Direcção-Geral de Transportes Terrestres, sob pena de o mesmo ser apreendido.
 
-###### Artigo 21.º — Renovação da autorização excepcional
+Artigo 21.º
+
+Renovação da autorização excepcional
 
 Não beneficiam de nova autorização excepcional os candidatos que:
 
@@ -371,7 +425,9 @@ a) Tendo acedido à formação, não obtenham o correspondente certificado ou ap
 
 b) Tenham sido objecto da medida de cassação da autorização excepcional prevista no artigo anterior.
 
-###### Artigo 22.º — Disposição final
+Artigo 22.º
+
+Disposição final
 
 O regime previsto no presente capítulo vigora pelo período máximo de três anos.»
 
@@ -389,15 +445,15 @@ O [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 18 de Setembro de 2003. - José Manuel Durão Barroso - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 10 de Novembro de 2003.**
+Promulgado em 10 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Novembro de 2003.**
+Referendado em 12 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [Decreto-Lei n.º 263/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1998-444693), de 19 de Agosto
 

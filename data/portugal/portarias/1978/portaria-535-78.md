@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21000/18881890.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1978-329665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:43:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15541091e0f95913600fd83d6e876c164c8967c2caed37ecb642c1917309377d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89745ea08b39e86441e4911da2cc0b68a249aeb7f615422807bef431a92f1c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:43:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Academia Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:473686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381475:por
+  label: "Dada nova redacção à al. a) do n.º 1 e n.º 2 do art. 17.º, art. 28.º, als. b) e c) do art. 34.º, art. 73.º e art.\
+    \ 82.º, aditada uma al. c) ao n.º 1 do art. 17.º e novos arts. 84.º e 85.º, renumerados os (antigos) arts. 84.º, 85.º,\
+    \ 86.º e 87.º, e revogado o n.º 3 do art. 5.º da Port 597/76, de 11-Out, na redacção do presente diploma , pela PORT.389/79.03.08.1979.CR,\
+    \ DR.IS [178] de 03.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1979-381475
+  date: '1979-08-03'
+- type: cites
+  target: pt:dre:408727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408898:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473686:por
+  label: "Revogada pela PORT.347/80.24.06.1980.CR, DR.IS [143] de 24.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1980-473686
+  date: '1980-06-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:43:33Z'
   warnings: []
   errors: []
 ---
@@ -226,9 +249,9 @@ Os candidatos civis e militares com destino ao curso de pilotagem aeronáutica f
 
 15.º Ao título III «Operações de concurso» são aditados:
 
-###### Art. 75.º São admitidos à prova psicotécnica (2.ª parte) apenas os candidatos que tenham satisfeito as provas da 1.ª fase das operações do concurso de admissão - inspecção médica, prova de aptidão cultural e 1.ª parte das provas psicotécnicas - e sido seleccionados para serem submetidos às que se enquadram no âmbito da 2.ª fase.
+Art. 75.º São admitidos à prova psicotécnica (2.ª parte) apenas os candidatos que tenham satisfeito as provas da 1.ª fase das operações do concurso de admissão - inspecção médica, prova de aptidão cultural e 1.ª parte das provas psicotécnicas - e sido seleccionados para serem submetidos às que se enquadram no âmbito da 2.ª fase.
 
-###### Art. 76.º O quantitativo de candidatos aptos na 1.ª fase a admitir à prova psicotécnica (2.ª parte) é determinado em função do número de vagas estabelecido e do número de concorrentes com condições de acesso:
+Art. 76.º O quantitativo de candidatos aptos na 1.ª fase a admitir à prova psicotécnica (2.ª parte) é determinado em função do número de vagas estabelecido e do número de concorrentes com condições de acesso:
 
 a) Quando o número de candidatos aptos na 1.ª fase das operações do concurso de admissão for superior ao número de vagas, o quantitativo a admitir será correspondente a este último, acrescido de um número de candidatos nunca superior a 50% das vagas estabelecidas;
 
@@ -238,9 +261,9 @@ c) Os candidatos aptos na 1.ª fase mas não seleccionados para a prova psicoté
 
 d) Caso o número de candidatos aptos na 1.ª fase seja igual ou inferior ao número de vagas, serão todos admitidos à 2.ª fase.
 
-###### Art. 77.º Só podem ser admitidos à Academia Militar os candidatos que tiverem obtido aproveitamento na prova psicotécnica (2.ª parte).
+Art. 77.º Só podem ser admitidos à Academia Militar os candidatos que tiverem obtido aproveitamento na prova psicotécnica (2.ª parte).
 
-###### Art. 78.º Quando se verifiquem desistências de candidatos no início da 2.ª fase das operações do concurso ou no acto de incorporação na AM, o comandante da AM poderá promover o completamento do efectivo estabelecido recorrendo aos candidatos seguintes no ordenamento efectuado em cada caso, desde que não haja quebra dos requisitos mínimos considerados.
+Art. 78.º Quando se verifiquem desistências de candidatos no início da 2.ª fase das operações do concurso ou no acto de incorporação na AM, o comandante da AM poderá promover o completamento do efectivo estabelecido recorrendo aos candidatos seguintes no ordenamento efectuado em cada caso, desde que não haja quebra dos requisitos mínimos considerados.
 
 16.º O artigo 75.º da [Portaria n.º 597/76](https://diariodarepublica.pt/dr/detalhe/portaria/597-1976-408898), de 11 de Outubro, passa a ser o 79.º
 

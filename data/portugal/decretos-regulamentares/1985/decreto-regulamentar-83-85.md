@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1985, 3º Suplemento, Série I de 1985-12-30
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4252-(16) a 4252-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30003/00160018.pdf
 entry_into_force_dates: []
@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1985-250641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05cc1eb8d98c5c44f5b2d3befb0702cb484227937d089b4a409d320b5ac1874c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0a7090a44f1b681e2ce32d981d7eedc61e07f6c54cf40efec0459c61fccc989
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banana
+- Comércio
+- Embalagem
+relationships:
+- type: cites
+  target: pt:dre:250605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:26Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +99,11 @@ Assim:
 
 Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e das alíneas a) e b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 503/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1985-250605), de 30 de Dezembro, o seguinte:
 
-###### Artigo 1.º - 1 - As pessoas singulares ou colectivas que exerçam a actividade de concentração da produção de banana, selecção, limpeza, tratamento e acondicionamento ou a de armazenagem e amadurecimento são consideradas como armazenistas.
+Artigo 1.º - 1 - As pessoas singulares ou colectivas que exerçam a actividade de concentração da produção de banana, selecção, limpeza, tratamento e acondicionamento ou a de armazenagem e amadurecimento são consideradas como armazenistas.
 
 2 - Todos os armazenistas estão obrigados à inscrição prévia no departamento competente da Secretaria Regional do Comércio e Indústria ou da Secretaria Regional da Economia, consoante exerçam a sua actividade na Região Autónoma dos Açores ou na Região Autónoma da Madeira, bem como na Junta Nacional das Frutas, quando exerçam a sua actividade no continente.
 
-###### Art. 2.º As entidades referidas no artigo anterior, para efeitos da correspondente inscrição, deverão apresentar os seguintes documentos:
+Art. 2.º As entidades referidas no artigo anterior, para efeitos da correspondente inscrição, deverão apresentar os seguintes documentos:
 
 a) Requerimento em papel selado;
 
@@ -110,9 +117,9 @@ e) Esquema das instalações, com plantas e alçados, e respectivo diagrama de f
 
 f) Relação do equipamento a instalar, mencionando a sua proveniência e características técnicas.
 
-###### Art. 3.º A banana a expedir ou a exportar deverá ser embalada nos centros de acondicionamento, onde será sujeita à selecção, lavagem, desinfecção e secagem.
+Art. 3.º A banana a expedir ou a exportar deverá ser embalada nos centros de acondicionamento, onde será sujeita à selecção, lavagem, desinfecção e secagem.
 
-###### Art. 4.º Os centros de acondicionamento devem manter-se limpos, respeitar as normas legais vigentes e reunir as seguintes condições específicas:
+Art. 4.º Os centros de acondicionamento devem manter-se limpos, respeitar as normas legais vigentes e reunir as seguintes condições específicas:
 
 a) Destinar-se à utilização exclusiva para banana e outras frutas;
 
@@ -140,9 +147,9 @@ m) Dispor de espaço suficiente para a armazenagem de embalagens vazias, armadas
 
 n) Possuir equipamento, tecnicamente adequado, necessário para as operações mecânicas de lavagem, desinfecção e secagem da banana.
 
-###### Art. 5.º Quaisquer operações de amadurecimento de banana só poderão ser efectuadas em centros de armazenagem e amadurecimento.
+Art. 5.º Quaisquer operações de amadurecimento de banana só poderão ser efectuadas em centros de armazenagem e amadurecimento.
 
-###### Art. 6.º Os centros de armazenagem e amadurecimento devem manter-se limpos, respeitar as normas legais vigentes, reunir as condições indicadas nas alíneas a), d), e), f), g), h), i), j) e l) do artigo 4.º e ainda:
+Art. 6.º Os centros de armazenagem e amadurecimento devem manter-se limpos, respeitar as normas legais vigentes, reunir as condições indicadas nas alíneas a), d), e), f), g), h), i), j) e l) do artigo 4.º e ainda:
 
 a) Dispor de uma área funcional coberta compatível com o volume de fruta a manipular, mas nunca inferior a 60 m2;
 
@@ -156,7 +163,7 @@ b) Possuir câmaras de amadurecimento ou madureiros, apresentando os seguintes r
 
 4) Sistema de controle de ambiente que mantenha a existência, no seu interior, de humidade relativa entre 70% e 100% e a temperatura entre 14º e 18º Celsius.
 
-###### Art. 7.º - 1 - Os centros de acondicionamento, armazenagem e amadurecimento não poderão iniciar a sua actividade sem licença de funcionamento, válida até 31 de Dezembro do respectivo ano, concedida pelos departamentos competentes dos Governos das Regiões Autónomas dos Açores e da Madeira e pela Junta Nacional das Frutas, consoante o local onde estão instalados.
+Art. 7.º - 1 - Os centros de acondicionamento, armazenagem e amadurecimento não poderão iniciar a sua actividade sem licença de funcionamento, válida até 31 de Dezembro do respectivo ano, concedida pelos departamentos competentes dos Governos das Regiões Autónomas dos Açores e da Madeira e pela Junta Nacional das Frutas, consoante o local onde estão instalados.
 
 2 - A revalidação da licença de funcionamento será solicitada pelos interessados, anualmente, no mês de Janeiro, ao departamento referido no n.º 1 deste artigo, indicando o volume de banana manuseada no ano anterior.
 
@@ -166,7 +173,7 @@ b) Possuir câmaras de amadurecimento ou madureiros, apresentando os seguintes r
 
 5 - Os armazenistas referidos no número anterior, para efeito de revalidação de licença de funcionamento, deverão cumprir o estipulado nas alíneas e) e f) do artigo 2.º e no n.º 2 deste artigo.
 
-###### Art. 8.º - 1 - No acondicionamento de banana nacional deverão utilizar-se caixas de cartão impermeabilizado ou de outro material tecnicamente adequado.
+Art. 8.º - 1 - No acondicionamento de banana nacional deverão utilizar-se caixas de cartão impermeabilizado ou de outro material tecnicamente adequado.
 
 2 - As caixas de cartão impermeabilizado devem obedecer às seguintes características:
 
@@ -178,7 +185,7 @@ b) Terem capacidade para 12 kg de peso líquido e as dimensões interiores de 48
 
 4 - As embalagens referidas no n.º 2 ficam sujeitas à aprovação dos departamentos competentes dos Governos das Regiões Autónomas dos Açores e da Madeira.
 
-###### Art. 9.º Para além dos requisitos exigidos nas normas de qualidade, deverá observar-se o seguinte no acondicionamento da banana:
+Art. 9.º Para além dos requisitos exigidos nas normas de qualidade, deverá observar-se o seguinte no acondicionamento da banana:
 
 a) Colocação das pencas na caixa, de forma a evitar o seu deslocamento interior;
 
@@ -186,38 +193,38 @@ b) Sobrepeso mínimo de 3% por caixa, de forma a compensar as quebras naturais o
 
 c) No período de Verão, serem as pencas constituídas por bagas não completamente cheias, angulosas, todas verdes, muito rijas e bastante adstringentes, vulgarmente designadas por «banana três quartos».
 
-###### Art. 10.º Sem prejuízo do disposto na legislação em vigor, as embalagens deverão apresentar no seu exterior, em caracteres legíveis e indeléveis, as seguintes indicações:
+Art. 10.º Sem prejuízo do disposto na legislação em vigor, as embalagens deverão apresentar no seu exterior, em caracteres legíveis e indeléveis, as seguintes indicações:
 
 a) «Açores» ou «Madeira», conforme a proveniência do produto;
 
 b) A designação da substância activa do pesticida utilizado para desinfecção do conteúdo.
 
-###### Art. 11.º A banana deverá ser amadurecida em cachos, em pencas ou em partes de pencas.
+Art. 11.º A banana deverá ser amadurecida em cachos, em pencas ou em partes de pencas.
 
-###### Art. 12.º Sempre que o processo de amadurecimento recaia sobre pencas ou partes de pencas de banana embalada, a estiva dentro da câmara de amadurecimento ou madureiro deve processar-se do seguinte modo:
+Art. 12.º Sempre que o processo de amadurecimento recaia sobre pencas ou partes de pencas de banana embalada, a estiva dentro da câmara de amadurecimento ou madureiro deve processar-se do seguinte modo:
 
 a) Serem colocadas em cima de estrados;
 
 b) O número de camadas não exceder 8 unidades, repartidas por uma ou duas plataformas de carga sobrepostas.
 
-###### Art. 13.º A quantidade da banana estivada não deverá ser superior a 200 kg/m3 do volume da câmara de amadurecimento ou madureiro.
+Art. 13.º A quantidade da banana estivada não deverá ser superior a 200 kg/m3 do volume da câmara de amadurecimento ou madureiro.
 
-###### Art. 14.º - 1 - Sempre que as bananas se apresentem em diferentes estádios de maturação ou tiverem sofrido efeitos de condições ambientais adversas, nomeadamente temperaturas muito baixas ou desidratação excessiva, deve utilizar-se etileno para uniformizar o amadurecimento dos frutos.
+Art. 14.º - 1 - Sempre que as bananas se apresentem em diferentes estádios de maturação ou tiverem sofrido efeitos de condições ambientais adversas, nomeadamente temperaturas muito baixas ou desidratação excessiva, deve utilizar-se etileno para uniformizar o amadurecimento dos frutos.
 
 2 - A concentração final de etileno existente no interior da câmara de amadurecimento ou madureiro deverá ser de 1:1000.
 
-###### Art. 15.º - 1 - Findo o processo de amadurecimento e até ao lançamento da banana no comércio a retalho, os frutos deverão ser mantidos, no Verão, a uma temperatura entre 13º e 14º Celsius e, no Inverno, de 16º Celsius.
+Art. 15.º - 1 - Findo o processo de amadurecimento e até ao lançamento da banana no comércio a retalho, os frutos deverão ser mantidos, no Verão, a uma temperatura entre 13º e 14º Celsius e, no Inverno, de 16º Celsius.
 
 2 - O grau de maturação da banana, no momento da sua distribuição ao comércio a retalho, variará consoante a época do ano, sendo no Verão o da fase de viragem (verde-amareladas) e no Inverno o de uma fase mais adiantada, a que corresponde uma coloração mais acentuada (amarelas com as extremidades verdes).
 
 Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 
-**Promulgado em 30 de Dezembro de 1985.**
+Promulgado em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Dezembro de 1985.**
+Referendado em 30 de Dezembro de 1985.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

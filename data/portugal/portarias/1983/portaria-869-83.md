@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/869-1983-439425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e650b633aba82e4d9fb1b5b1db43d336e68f8d6cf0c15cc5668685119dc90627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f19420fe987aec31133d42206771aa4ab0c0cf099380e2ff8948a8a5e7b4046
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Sociedade Nacional dos Armadores da Pesca do Arrasto
 relationships:
 - type: amended_by
   target: pt:dre:399447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395497:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:56Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +121,6 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Ministério das Finanças e do Plano e do Mar.
 
-**Assinada em 11 de Agosto de 1983.**
+Assinada em 11 de Agosto de 1983.
 
 Pelo Ministro das Finanças e do Plano, Rui Jorge Martins dos Santos, Secretário de Estado das Finanças. - Pelo Ministro do Mar, Alberto Augusto Faria dos Santos, Secretário de Estado das Pescas.

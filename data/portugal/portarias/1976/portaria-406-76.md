@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/406-1976-431435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51f485542cab560288cba2cc7525f6e615f2c93442f2bfea41b2d8a38141b71f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99b46a52d078ae1006a9389a8adab6df9d8b168277435becd9607afd9f38bedc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:450842:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250442:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Herdade de Campo Maior de Baixo», pelo(a) Portaria
+    n.º 415/77 - Diário da República n.º 158/1977, Série I de 1977-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-1977-250442
+  date: '1977-07-11'
+- type: amended_by
+  target: pt:dre:299018:por
+  label: Derrogada, na parte respeitante à descrição n.º 9, a presente Portaria, pelo(a) Portaria n.º 474/78 - Diário da República
+    n.º 191/1978, Série I de 1978-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/474-1978-299018
+  date: '1978-08-21'
+- type: amended_by
+  target: pt:dre:450842:por
+  label: "Derrogado o presente diploma, no disposto ao n.º 108, pela PORT.550/83.10.05.1983.MACP, DR.IS [107] de 10.05.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/550-1983-450842
+  date: '1983-05-10'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:52Z'
   warnings: []
   errors: []
 ---

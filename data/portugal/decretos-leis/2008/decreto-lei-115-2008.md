@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/12700/0412104123.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2008/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2008-456485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e03cd03191716ebfcd01398f165d402afa4e6b3aa9b2ec862b69126c67c2a620
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 224d29b1d8c86cac25271566968f316c6de71adaa441bd1a228c7b7b53fa41ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,22 @@ relationships:
   target: celex:32006L0072
   label: null
   source: http://data.europa.eu/eli/dir/2006/72/oj
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:02Z'
   warnings: []
   errors: []
 ---
@@ -167,15 +173,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Ana Paula Mendes Vitorino.
 
-**Promulgado em 16 de Junho de 2008.**
+Promulgado em 16 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Junho de 2008.**
+Referendado em 17 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -187,6 +193,6 @@ Visto e aprovado em Conselho de Ministros de 8 de Maio de 2008. - José Sócrate
 
 1 - As massas resultantes de gases poluentes obtidas em cada ensaio devem ser inferiores aos limites indicados no quadro a seguir (linha A para 2003 e linha B para 2006).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/12700/0412104123.pdf))](https://files.diariodarepublica.pt/1s/2008/07/12700/0412104123.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/12700/0412104123.pdf)
 
 2 - ...»

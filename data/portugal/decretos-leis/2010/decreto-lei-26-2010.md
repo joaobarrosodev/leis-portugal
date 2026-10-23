@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2010/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd462c3afb0b83480d537fc0df7547fa834fb2f95b68aaf67333583374c03c25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66f4c5ea3f02314b6bb36959537b3d8a2fbba28746f11ae812928cdf7f67f688
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH
 - Água
 - Águas Públicas
-- Alvará
-- Garantia
-- Urbanização
-- Propriedade Horizontal
-- Recursos Hídricos
-- Definição de Competências
 - Albufeiras
+- Alvará
+- ARH
+- Câmara Municipal
+- Definição de Competências
 - Fiscalização
-- Licenciamento
+- Garantia
 - Licença de Construção
 - Licença de Loteamento
+- Licenciamento
 - Obras Municipais
 - Prazo
 - Prédio Rústico
-- Câmara Municipal
+- Propriedade Horizontal
+- Recursos Hídricos
 - Regime Jurídico
+- Urbanização
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344261:por
+  label: "Alterado o presente diploma [no que se refere à alteração ao art. 13.º do Dec Lei 555/99 de 16-Dez, na redacção\
+    \ do Dec Lei 177/2001 de 04-Jun e da Lei 60/2007 de 04-Set], pela LEI.28/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2010-344261
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:56501680:por
+  label: 'Dada nova redação, a partir de 07.01.2015, aos arts. 2.º, 3.º, 4.º, 6.º, 7.º, 8.º, 8.º-A, 9.º, 10.º, 11.º, 12.º-A,
+    13.º, 13.º-A, 13.º-B, 14.º, 15.º, 16.º, 17.º, 20.º, 21.º, 24.º, 27.º, 34.º, 35.º, 41.º, 42.º, 43.º, 44.º, 45.º, 48.º,
+    48.º-A, 49.º, 52.º, 53.º, 54.º, 56.º, 57.º, 58.º, 60.º, 62.º, 63.º, 64.º, 67.º, 68.º, 69.º, 70.º, 71.º, 73.º, 74.º, 76.º,
+    77.º, 79.º, 80.º, 82.º, 84.º, 85.º, 88.º, 93.º, 97.º, 98.º, 99.º, 102.º, 103.º, 110.º, 116.º, 119.º, 120.º; aditados,
+    a partir da referida data, os arts. 100.º-A, 102-º-A e 102.º-B; alterada, também a partir de 07.01.2015, a sistemática
+    referente: ao art. 39.º, que passa a ter a seguinte epígrafe: «Dispensa de autorização prévia de localização», à secção
+    IV do cap. II, que passa a designar-se «Validade e eficácia dos atos de licenciamento e autorização de utilização e efeitos
+    da comunicação prévia», e à subsecção II da secção IV do cap. II, que passa a designar-se «Caducidade e revogação da licença
+    e autorização de utilização e cessação de efeitos da comunicação prévia»; e revogados, ainda a partir de 07.01.2015, a
+    al. n) do art. 2.º, as als. g) e h) do n.º 4 do art. 4.º, o n.º 2 do art. 5.º, os n.ºs 4 e 11 do art. 11.º, o n.º 4 do
+    art. 13.º-A, o art. 36.º, o art. 36.º-A, o art. 50.º, o n.º 7 do art. 57.º, os nºs 2 a 4 do art. 88.º, os n.ºs 4 a 8 do
+    art. 102.º e o art. 108.º-A todos do Dec Lei 555/99 de 16-dez, alterado e com a última republicação efetuada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 136/2014 - Diário da República n.º 173/2014, Série I de 2014-09-09, que procedeu novamente
+    à sua republicação em anexo, com a redação atual, onde para os respetivos efeitos deve ler-se «portaria», em vez de «portaria
+    conjunta».'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2014-56501680
+  date: '2014-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2009/05/15/p/dre
   label: null
@@ -131,16 +157,196 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 188
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 149
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:42Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +405,9 @@ Regulamentos municipais
 
 4 - ...
 
-###### Artigo 4.º — Licença, comunicação prévia e autorização de utilização
+Artigo 4.º
+
+Licença, comunicação prévia e autorização de utilização
 
 1 - A realização de operações urbanísticas depende de controlo prévio, que pode revestir as modalidades de licença, comunicação prévia ou autorização de utilização, nos termos e com as excepções constantes da presente secção.
 
@@ -259,7 +467,9 @@ h) As demais operações urbanísticas que não estejam isentas de controlo pré
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -269,7 +479,9 @@ h) As demais operações urbanísticas que não estejam isentas de controlo pré
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 6.º — Isenção de controlo prévio
+Artigo 6.º
+
+Isenção de controlo prévio
 
 1 - Sem prejuízo do disposto na alínea d) do n.º 2 do artigo 4.º, estão isentas de controlo prévio:
 
@@ -299,7 +511,9 @@ d) Os destaques referidos nos n.os 4 e 5 do presente artigo.
 
 10 - Os actos que tenham por efeito o destaque de parcela com descrição predial que se situe em perímetro urbano e fora deste devem observar o disposto nos n.os 4 ou 5, consoante a localização da parcela a destacar, ou, se também ela se situar em perímetro urbano e fora deste, consoante a localização da área maior.
 
-###### Artigo 6.º-A — [...]
+Artigo 6.º-A
+
+[...]
 
 1 - ...
 
@@ -345,7 +559,9 @@ c) O nível de ruído produzido pelo equipamento;
 
 d) Termo de responsabilidade onde o apresentante da notificação declare conhecer e cumprir as normas legais e regulamentares aplicáveis à instalação de geradores eólicos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Estão igualmente isentas de controlo prévio:
 
@@ -373,7 +589,9 @@ f) ...
 
 7 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -395,7 +613,9 @@ f) ...
 
 10 - Cabe ao gestor do procedimento verificar a adequação das habilitações do titular do alvará de construção ou do título de registo emitidos pelo InCI, I. P., à natureza e à estimativa de custo da operação urbanística.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -425,11 +645,15 @@ b) ...
 
 c) No caso de a operação urbanística em causa estar isenta de controlo prévio, tomar conhecimento da extinção do procedimento.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 Nas áreas a abranger por novas regras urbanísticas constantes de plano municipal ou especial de ordenamento do território ou sua revisão aplica-se o disposto no artigo 117.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, que estabelece o regime jurídico dos instrumentos de gestão territorial.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -451,7 +675,9 @@ Nas áreas a abranger por novas regras urbanísticas constantes de plano municip
 
 10 - O disposto nos n.os 8 e 9 não prejudica a verificação aleatória dos projectos neles referidos e da sua execução.
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - A consulta de entidades da administração central, directa ou indirecta, do sector empresarial do Estado, bem como de entidades concessionárias que exerçam poderes de autoridade, que se devam pronunciar sobre a operação urbanística em razão da localização, é efectuada através de uma única entidade coordenadora, a CCDR territorialmente competente, a qual emite uma decisão global e vinculativa de toda a administração.
 
@@ -479,13 +705,17 @@ b) De operações urbanísticas a realizar em área integrada na Rede Natura 200
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - No âmbito do procedimento de informação prévia há lugar a consultas externas, nos termos dos artigos 13.º, 13.º-A e 13.º-B, às entidades cujos pareceres, autorizações ou aprovações condicionem, nos termos da lei, a informação a prestar, sempre que tal consulta deva ser promovida num eventual pedido de licenciamento ou apresentação de comunicação prévia.
 
 2 - A pronúncia das entidades referidas no número anterior não incide sobre avaliação de impacte ambiental.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A apreciação do projecto de arquitectura, no caso de pedido de licenciamento relativo a obras previstas nas alíneas c) a f) do n.º 2 do artigo 4.º, incide sobre a sua conformidade com planos municipais de ordenamento no território, planos especiais de ordenamento do território, medidas preventivas, área de desenvolvimento urbano prioritário, área de construção prioritária, servidões administrativas, restrições de utilidade pública e quaisquer outras normas legais e regulamentares relativas ao aspecto exterior e a inserção urbana e paisagística das edificações, bem como sobre o uso proposto.
 
@@ -503,7 +733,9 @@ b) De operações urbanísticas a realizar em área integrada na Rede Natura 200
 
 8 - As declarações de responsabilidade dos autores dos projectos das especialidades e outros estudos que estejam inscritos em associação pública constituem garantia bastante do cumprimento das normas legais e regulamentares aplicáveis aos projectos, excluindo a sua apreciação prévia, salvo quando as declarações sejam formuladas nos termos do n.º 5 do artigo 10.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -533,7 +765,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -551,11 +785,15 @@ b) ...
 
 6 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 Obedece ao procedimento regulado na presente subsecção a realização das operações urbanísticas referidas no n.º 4 do artigo 4.º
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A comunicação prévia é dirigida ao presidente da câmara municipal e é acompanhada:
 
@@ -569,13 +807,17 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 3 - (Revogado.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 11.º, no prazo de 20 dias a contar da entrega da comunicação e demais elementos a que se refere o artigo anterior, o presidente da câmara municipal, com faculdade de delegação nos vereadores e de subdelegação nos dirigentes dos serviços municipais, deve rejeitar a comunicação quando verifique que a obra viola as normas legais e regulamentares aplicáveis, designadamente as constantes de plano municipal de ordenamento do território, de alvará de loteamento, as normas técnicas de construção em vigor, ou os termos de informação prévia existente.
 
 2 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -587,7 +829,9 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 5 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - As condições da licença ou comunicação prévia de operação de loteamento podem ser alteradas por iniciativa da câmara municipal desde que tal alteração se mostre necessária à execução de plano municipal de ordenamento do território, plano especial de ordenamento do território, área de desenvolvimento urbano prioritário, área de construção prioritária ou área de reabilitação urbana.
 
@@ -597,7 +841,9 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 4 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - A câmara municipal fixa as condições a observar na execução da obra com o deferimento do pedido de licenciamento das obras referidas nas alíneas c) a e) do n.º 2 do artigo 4.º e através de regulamento municipal para as obras previstas no n.º 4 do artigo 4.º, devendo salvaguardar o cumprimento do disposto no regime da gestão de resíduos de construção e demolição.
 
@@ -613,7 +859,9 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 7 - O disposto no número anterior é igualmente aplicável aos procedimentos de comunicação prévia das operações urbanísticas previstas nas alíneas b) e c) do n.º 4 do artigo 4.º desde que esteja prevista a sua realização em área não abrangida por operação de loteamento.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - A câmara municipal fixa, com o deferimento do pedido de licenciamento das obras referidas nas alíneas c) a f) do n.º 2 do artigo 4.º, o prazo de execução da obra, em conformidade com a programação proposta pelo requerente.
 
@@ -633,7 +881,9 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 9 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - O requerente pode optar pela execução faseada da obra, devendo para o efeito, em caso de operação urbanística sujeita a licenciamento, identificar no projecto de arquitectura os trabalhos incluídos em cada uma das fases e indicar os prazos, a contar da data de aprovação daquele projecto, em que se propõe requerer a aprovação dos projectos das especialidades e outros estudos relativos a cada uma dessas fases, podendo a câmara municipal fixar diferentes prazos por motivo de interesse público devidamente fundamentado.
 
@@ -649,23 +899,31 @@ c) Das especificações a que se referem os n.os 1 e 4 do artigo 77.º, com os e
 
 7 - ...
 
-###### Artigo 61.º — Identificação do director de obra
+Artigo 61.º
+
+Identificação do director de obra
 
 O titular da licença de construção e apresentante da comunicação prévia ficam obrigados a afixar numa placa em material imperecível no exterior da edificação ou a gravar num dos seus elementos externos a identificação do director de obra.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - A autorização de utilização de edifícios ou suas fracções autónomas destina-se a verificar a conclusão da operação urbanística, no todo ou em parte, e a conformidade da obra com o projecto de arquitectura e arranjos exteriores aprovados e com as condições do licenciamento ou da comunicação prévia.
 
 2 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - O pedido de autorização de utilização deve ser instruído com termo de responsabilidade subscrito pelo director de obra ou director de fiscalização de obra, no qual aqueles devem declarar que a obra está concluída e que foi executada de acordo com o projecto de arquitectura e arranjos exteriores aprovados e com as condições da licença ou da comunicação prévia e, se for caso disso, que as alterações efectuadas ao projecto estão em conformidade com as normas legais e regulamentares que lhe são aplicáveis.
 
 2 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - A autorização de utilização é concedida no prazo de 10 dias a contar da recepção do requerimento, com base nos termos de responsabilidade referidos no artigo anterior, salvo na situação prevista no número seguinte.
 
@@ -673,7 +931,9 @@ O titular da licença de construção e apresentante da comunicação prévia fi
 
 3 - Não sendo determinada a realização de vistoria no prazo referido no n.º 1, o requerente pode solicitar a emissão do alvará de autorização de utilização, que deve ocorrer no prazo de cinco dias, mediante a apresentação do comprovativo do requerimento da mesma nos termos do artigo 63.º
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 São nulas as licenças, as admissões de comunicações prévias, as autorizações de utilização e os pedidos de informação prévia previstos no presente decreto-lei que:
 
@@ -683,7 +943,9 @@ b) (Revogada.)
 
 c) ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -713,11 +975,15 @@ e) ...
 
 7 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 Compete ao presidente da câmara municipal emitir o alvará para a realização das operações urbanísticas, podendo delegar esta competência nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
@@ -731,7 +997,9 @@ Compete ao presidente da câmara municipal emitir o alvará para a realização 
 
 6 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -755,7 +1023,9 @@ c) ...
 
 8 - A titularidade do alvará de autorização de utilização de edifícios ou fracções autónomas é transmitida automaticamente com a propriedade a que respeita.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -767,7 +1037,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -777,7 +1049,9 @@ c) ...
 
 4 - No prazo de 60 dias a contar do início dos trabalhos relativos às operações urbanísticas referidas nas alíneas c) a e) do n.º 2 do artigo 4.º deve o promotor da obra apresentar na câmara municipal cópia do projecto de execução de arquitectura e das especialidades e outros estudos.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -787,7 +1061,9 @@ c) ...
 
 4 - Nos casos referidos no n.º 4 do artigo 4.º, os pedidos de ligação são instruídos com cópia do recibo da apresentação de comunicação prévia e da sua admissão e se for necessária a compatibilização de projectos com as infra-estruturas existentes ou a sua realização no caso de inexistência, estas serão promovidas pela entidade prestadora ou pelo requerente, nos termos da parte final do n.º 1.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -797,7 +1073,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - ...
 
@@ -863,7 +1141,9 @@ t) ...
 
 11 - ...
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -885,7 +1165,9 @@ t) ...
 
 10 - Na situação prevista no número anterior, tratando-se de aprovação do projecto de arquitectura, o interessado pode juntar os projectos das especialidades e outros estudos ou, caso já o tenha feito no requerimento inicial, inicia-se a contagem do prazo previsto na alínea c) do n.º 1 do artigo 23.º
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - A emissão dos alvarás de licença e autorização de utilização e a admissão de comunicação prévia previstas no presente diploma estão sujeitas ao pagamento das taxas a que se refere a alínea b) do artigo 6.º da [Lei n.º 53-E/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-e-2006-197492), de 29 de Dezembro.
 
@@ -899,7 +1181,9 @@ t) ...
 
 6 - (Revogado.)
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
@@ -989,15 +1273,15 @@ São revogados a alínea g) do n.º 2 do artigo 4.º, o n.º 3 do artigo 6.º, o
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - Alberto de Sousa Martins - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Gabriela da Silveira Ferreira Canavilhas.
 
-**Promulgado em 23 de Março de 2010.**
+Promulgado em 23 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Março de 2010.**
+Referendado em 24 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro
 
@@ -2411,7 +2695,9 @@ b) Quando estejam em falta elementos decorativos, nomeadamente cantarias ou reve
 
 2 - As vistorias ordenadas nos termos do número anterior regem-se pelo disposto no artigo 90.º e as suas conclusões são obrigatoriamente seguidas na decisão a que respeita.
 
-###### Artigo 97.º — Livro de obra
+###### Artigo 97.º
+
+## Livro de obra
 
 1 - Todos os factos relevantes relativos à execução de obras licenciadas ou objecto de comunicação prévia devem ser registados pelo respectivo director técnico no livro de obra, a conservar no local da sua realização para consulta pelos funcionários municipais responsáveis pela fiscalização de obras.
 
@@ -2613,7 +2899,7 @@ c) Em violação das normas legais e regulamentares aplicáveis.
 
 ###### Artigo 108.º-A — Intervenção da CCDR
 
-**O presidente da CCDR territorialmente competente pode determinar o embargo, a introdução de alterações, a demolição do edificado ou a reposição do terreno em quaisquer operações urbanísticas desconformes com o disposto em plano municipal ou plano especial de ordenamento do território sempre que não se mostre assegurada pelo município a adopção das referidas medidas de tutela da legalidade urbanísticas, aplicando-se, com as necessárias adaptações o disposto nos artigos 94.º a 96.º e 102.º a 108.º**
+O presidente da CCDR territorialmente competente pode determinar o embargo, a introdução de alterações, a demolição do edificado ou a reposição do terreno em quaisquer operações urbanísticas desconformes com o disposto em plano municipal ou plano especial de ordenamento do território sempre que não se mostre assegurada pelo município a adopção das referidas medidas de tutela da legalidade urbanísticas, aplicando-se, com as necessárias adaptações o disposto nos artigos 94.º a 96.º e 102.º a 108.º
 
 ###### Artigo 109.º — Cessação da utilização
 

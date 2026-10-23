@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2009/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2009-602996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c51e3b759d9a9922ad61cfec8b98f1170f536b9b497a6ea33bba454d6f0fa9da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c2323caa7570ada7b145b44ec0800d1263357c80f4d952ec83503544d6f48be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
 subjects:
 - Acesso à Informação
 - Alvará
-- Multa
 - Comunicação Social
-- ERC
 - Contra-ordenação
+- Direito à Informação
 - Emolumento
 - Empresa Noticiosa
+- ERC
 - Fiscalização
 - Imprensa
 - Informatização
-- Direito à Informação
-- Radiodifusão
+- Multa
 - Operador de Televisão
+- Radiodifusão
 - Sanção
 - Televisão
 relationships:
@@ -87,6 +87,20 @@ relationships:
   target: pt:dre:175397117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175397117:por
+  label: Alterados, a partir de 01.01.2022, os arts. 1.º, 2.º, 5.º-A, 6.º, 7.º, 9.º, 10.º, 11.º, 12.º, 17.º, 18.º, 19.º, 21.º,
+    23.º, 24.º, 26.º, 27.º-A, 28.º, 33.º, 36.º-A e 37.º, aditados os arts. 11.º-A, 23.º-A, 36.º-C, 36.º-D, 36.º-E, 36.º-F,
+    36.º-G, 36.º-H, 36.º-I, 36.º-J, 36.º-L e 36.º-M, aditados os capítulos v-B (com a epígrafe «Registo dos serviço de programas
+    difundidos exclusivamente através da Internet», que integra os arts. 36.º-C, 36.º-D, 36.º-E e 36.º-F), v-C (com a epígrafe
+    «Registo dos operadores de serviços audiovisuais a pedido», que integra os arts. 36.º-G, 36.º-H e 36.º-I) e V-D (com a
+    epígrafe «Registo dos fornecedores de plataformas de partilha de vídeos», que integra os arts. 36.º-J, 36.º-L e 36.º-M)
+    e revogados o n.º 3 do art. 5.º, as als. c) e d) do n.º 2 do art. 17.º, o n.º 2 do art. 23.º, as als. d) e e) do art.
+    24.º, a al. c) do art. 25.º, as als. c) e d) do art. 28.º, as als. c) e d) do art. 33.º e as als. b) e c) do art. 36.º-A
+    do DR 8/99 de 09-jun, na versão republicada pelo presente diploma, pelo(a) Decreto Regulamentar n.º 7/2021 - Diário da
+    República n.º 235/2021, Série I de 2021-12-06 que procede à republicação do referido DR 8/99
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2021-175397117
+  date: '2021-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2008/02/27/p/dre
   label: null
@@ -107,16 +121,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2001/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2001/02/23/p/dre
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636409:por
+  label: null
+  source: null
 article_structure:
-  article_count: 77
+  article_count: 52
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:26Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +197,9 @@ Os artigos 1.º, 2.º, 5.º, 5.º-A, 6.º, 8.º, 9.º, 10.º, 12.º, 17.º, 18.�
 
 2 - O registo tem por finalidades comprovar a situação jurídica dos órgãos de comunicação social, garantir a transparência da sua propriedade e assegurar a protecção legal dos títulos de publicações periódicas e da denominação dos operadores de rádio e de televisão e dos serviços de programas radiofónicos e televisivos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -175,7 +215,9 @@ e) Os operadores de televisão e serviços de programas televisivos;
 
 f) Os operadores de distribuição, na acepção prevista na [Lei n.º 27/2007](https://diariodarepublica.pt/dr/detalhe/lei/27-2007-636409), de 30 de Julho.
 
-###### Artigo 5.º — Iniciativa do registo
+Artigo 5.º
+
+Iniciativa do registo
 
 1 - ...
 
@@ -183,7 +225,9 @@ f) Os operadores de distribuição, na acepção prevista na [Lei n.º 27/2007](
 
 3 - Os actos de registo respeitantes aos serviços de programas difundidos exclusivamente através da Internet dependem de requerimento do interessado, sendo aplicável, com as necessárias adaptações, o disposto no presente decreto regulamentar, nomeadamente nos capítulos iv e v.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - Para aferir dos motivos de recusa previstos na alínea b) do n.º 1 do artigo 19.º e na alínea d) do n.º 1 do artigo 26.º e para aplicação do disposto no artigo 30.º, a Entidade Reguladora para a Comunicação Social solicita ao Instituto Nacional da Propriedade Industrial, I. P. (INPI, I. P.), a informação comprovativa de que não se encontram aí registados direitos anteriores que possam obstar ao registo dos órgãos de comunicação social a que se refere o presente decreto regulamentar.
 
@@ -191,17 +235,23 @@ f) Os operadores de distribuição, na acepção prevista na [Lei n.º 27/2007](
 
 3 - As comunicações entre a Entidade Reguladora para a Comunicação Social e o INPI, I. P., previstas nos números anteriores são exclusivamente efectuadas através de meios electrónicos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As inscrições iniciais e os averbamentos são requeridos pela entidade que pretenda promover a edição de publicações periódicas, pela entidade que pretenda desenvolver a actividade de empresa noticiosa, pela entidade que pretenda difundir serviços de programas exclusivamente através da Internet e, quando aplicável, pelos operadores de rádio, pelos operadores de televisão e pelos operadores de distribuição.
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O averbamento das alterações que sobrevenham aos elementos constantes do registo deve ser requerido no prazo de 30 dias contados a partir da data da sua verificação, com excepção dos averbamentos das alterações respeitantes aos operadores e aos respectivos serviços de programas referidos no n.º 2 do artigo 5.º que sejam objecto de apreciação prévia da Entidade Reguladora para a Comunicação Social, caso em que são oficiosamente efectuados por esta entidade.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Na Entidade Reguladora para a Comunicação Social existem os seguintes livros:
 
@@ -223,7 +273,9 @@ h) Livro de registo dos serviços de programas difundidos exclusivamente atravé
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +283,9 @@ h) Livro de registo dos serviços de programas difundidos exclusivamente atravé
 
 3 - Os requerimentos de registo e outras comunicações dos interessados podem ser apresentados através de procedimentos electrónicos, os quais são definidos pela Entidade Reguladora para a Comunicação Social.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +301,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +327,9 @@ c) Capital social e relação discriminada dos seus titulares;
 
 d) Identificação dos titulares dos órgãos sociais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +347,9 @@ a) Instrumento de constituição e código de acesso à certidão permanente ou 
 
 b) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -297,13 +357,17 @@ b) ...
 
 3 - A suspensão e o reinício da edição das publicações periódicas são comunicados à Entidade Reguladora para a Comunicação Social e são objecto de averbamento.
 
-###### Artigo 23.º — Cancelamento oficioso do registo das publicações periódicas e das empresas jornalísticas
+Artigo 23.º
+
+Cancelamento oficioso do registo das publicações periódicas e das empresas jornalísticas
 
 1 - O registo das publicações periódicas é cancelado oficiosamente pela Entidade Reguladora para a Comunicação Social em caso de inobservância do disposto no n.º 1 do artigo 21.º
 
 2 - A inscrição das empresas jornalísticas é cancelada oficiosamente quando deixem de titular registos de publicações periódicas.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ...
 
@@ -319,7 +383,9 @@ e) Identificação dos titulares dos órgãos sociais;
 
 f) [Anterior alínea e).]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 ...
 
@@ -331,11 +397,15 @@ c) ...
 
 d) ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 As empresas noticiosas não podem iniciar o exercício da sua actividade sem previamente procederem ao respectivo registo, devendo, nos seis meses seguintes à sua inscrição, comunicar aquele facto à Entidade Reguladora para a Comunicação Social, sob pena de cancelamento do registo nos termos do artigo seguinte.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 São elementos do registo dos operadores de rádio e dos respectivos serviços de programas:
 
@@ -361,21 +431,29 @@ j) Data da emissão e prazo da licença ou da autorização, bem como a data das
 
 l) Identificação do estabelecimento a partir do qual é difundida a emissão.
 
-###### Artigo 29.º — Procedimento do registo
+Artigo 29.º
+
+Procedimento do registo
 
 1 - A Entidade Reguladora para a Comunicação Social procede ao registo dos operadores de rádio e respectivos serviços de programas após a atribuição do correspondente título habilitante com base nos documentos por estes entregues no âmbito do processo de licenciamento ou de autorização.
 
 2 - Sem prejuízo do disposto no número anterior, a Entidade Reguladora para a Comunicação Social pode solicitar ao operador de rádio, de uma só vez, outros documentos necessários para a obtenção de todos os elementos do registo, ficando, nesse caso, o operador obrigado a entregá-los no prazo máximo de 10 dias úteis.
 
-###### Artigo 30.º — Impedimentos do registo
+Artigo 30.º
+
+Impedimentos do registo
 
 O registo do operador de rádio não é efectuado pela Entidade Reguladora para a Comunicação Social quando a denominação do operador ou do serviço de programas seja idêntica ou confundível com outra que já se encontre registada a favor de terceiro nesta entidade ou, nessa qualidade, a favor de terceiro no INPI, I. P.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 O registo é cancelado oficiosamente em caso de cessação da validade da licença ou da autorização.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 São elementos do registo dos operadores de televisão e dos respectivos serviços de programas:
 
@@ -395,7 +473,9 @@ g) Classificação dos serviços de programas quanto ao âmbito de cobertura e q
 
 h) Data da emissão e prazo da licença ou da autorização, bem como data das respectivas renovações.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -407,7 +487,9 @@ c) De (euro) 2493,98 a (euro) 4987,97, a inobservância do disposto no n.º 3 do
 
 2 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -425,11 +507,15 @@ Cancelamento oficioso do registo das empresas noticiosas
 
 O registo das empresas noticiosas é cancelado oficiosamente pela Entidade Reguladora para a Comunicação social quando não for cumprida a obrigação de comunicação prevista no artigo anterior.
 
-###### Artigo 33.º-A — Normas aplicáveis
+Artigo 33.º-A
+
+Normas aplicáveis
 
 É aplicável ao registo dos operadores de televisão e aos respectivos serviços de programas, com as necessárias adaptações, o disposto nos artigos 29.º, 30.º e 32.º
 
-###### Artigo 36.º-A — Elementos do registo
+Artigo 36.º-A
+
+Elementos do registo
 
 São elementos do registo dos operadores de distribuição:
 
@@ -443,7 +529,9 @@ d) Serviços de programas que compõem a sua oferta e respectiva ordenação;
 
 e) Data da emissão e prazo da licença, bem como a data das respectivas renovações, quando aplicáveis.
 
-###### Artigo 36.º-B — Normas aplicáveis
+Artigo 36.º-B
+
+Normas aplicáveis
 
 É aplicável, com as necessárias adaptações, ao registo dos operadores de distribuição, referidos no n.º 2 do artigo 5.º, o disposto nos artigos 29.º, 30.º e 32.º e, aos demais, o disposto nos artigos 25.º a 27.º-A.»
 
@@ -483,15 +571,15 @@ d) A denominação do operador seja idêntica a outra que já se encontre regist
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Augusto Ernesto Santos Silva.
 
-**Promulgado em 14 de Janeiro de 2009.**
+Promulgado em 14 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Janeiro de 2009.**
+Referendado em 15 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto Regulamentar n.º 8/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1999-310825), de 9 de Junho
 

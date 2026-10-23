@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-1971-630054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92a95aaa118541c944354edc3001e8224bc8921f9b8bcd79ec89fa8961d5b798
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8202ebfb88c31c991fa62e83731eb3ebab3ea8e9a44ed41a06347caf89db26b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Certiveg
+- Direcção Geral dos Serviços Agrícolas
+- Estação Agronómica Nacional
+- Estação de Ensaio de Sementes
+- Estação de Orizicultura
+- Produção Agrícola
+- Produção Vegetal
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:308311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308311:por
+  label: "Alterado o nº 33 pela PORT.122/83.1983.02.02.MACP DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-1983-308311
+  date: '1983-02-02'
+- type: cites
+  target: pt:dre:444721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:00Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +108,7 @@ de 2 de Setembro
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricultura e do Comércio, ao abrigo do disposto no artigo 11.º do [Decreto-Lei n.º 158/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1971-444721), de 23 de Abril, aprovar as Normas Regulamentares para Certificação de Semente de Arroz, anexas à presente portaria.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.
 
 NORMAS REGULAMENTARES PARA CERTIFICAÇÃO DE SEMENTE DE ARROZ
 
@@ -178,7 +196,7 @@ f) Resistência à acama - de 0 a 3 pontos.
 
 20. Na classificação da pureza varietal será considerada a seguinte pontuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf))](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
 
 21. Serão reprovadas as searas que obtiverem a pontuação zero em qualquer das alíneas do n.º 19.
 
@@ -214,7 +232,7 @@ c) Terem os produtores prestado falsas declarações.
 
 33. Os lotes a aprovar no ensaio a que se refere o número anterior devem satisfazer as características seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf))](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
 
 34. Sempre que se verifique reprovação ao ensaio preliminar, assiste ao produtor o direito de solicitar novo ensaio.
 
@@ -248,7 +266,7 @@ c) Cultivar ...
 
 43. Os lotes de arroz a aprovar no ensaio definitivo devem satisfazer as características seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf))](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/09/20700/12601262.pdf)
 
 44. Os lotes de semente certificada receberão a garantia da Estação de Ensaio de Sementes, através de etiquetas fornecidas por esta entidade e colocadas externamente nos sacos.
 
@@ -274,4 +292,4 @@ c) Semente certificada de 2.ª geração: vermelha.
 
 51. A Estação Agronómica Nacional e Estação de Orizicultura informarão a Estação de Ensaio de Sementes das características culturais e botânicas das cultivares que venham a ser certificadas pelas disposições da presente portaria.
 
-**O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.

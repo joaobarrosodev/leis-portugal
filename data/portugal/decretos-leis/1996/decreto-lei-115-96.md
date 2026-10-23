@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/181a00/23422345.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/1996/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1996-411794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30fda2c5e3165596c1cf77eddb5d48aefa87fceac9ea69c1f97c8c055c20c297
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07a069bf3d3bfa0e7ab32e3d67f1d5ca6ca541b3d0400717ec0c826230f6bb98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Aproximação das Legislações
-- Embarcação
 - CEE
-- Transporte Marítimo
-- Marinha Mercante
-- Pessoal do MAR
 - Convenção
 - Direcção Geral de Portos Navegação e Transportes Marítimos
-- Administração de Portos
+- Embarcação
 - Fiscalização
+- Marinha Mercante
+- Navegação Marítima
 - Normas de Segurança
+- Pessoal do MAR
 - Proteção do Ambiente
 - Segurança Marítima
 - Sociedade de Classificação de Navios
+- Transporte Marítimo
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:423922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191105:por
+  label: "Aditado um n.º 7 á al. a) do anexo ao presente diploma, pelo DEC LEI.403/98.1998.12.18.MEPAT DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/403-1998-191105
+  date: '1998-12-18'
 - type: cites
   target: celex:31994L0057
   label: null
   source: http://data.europa.eu/eli/dir/1994/57/oj
+- type: repealed_by
+  target: pt:dre:423922:por
+  label: "Revogado pelo DEC LEI.321/2003.23.12.2003.MOPTH, DR.IS-A [259] de 23.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-2003-423922
+  date: '2003-12-23'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:26Z'
   warnings: []
   errors: []
 ---
@@ -199,15 +209,15 @@ Fica revogada a Portaria n.º 157/74, de 27 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 19 de Julho de 1996.**
+Promulgado em 19 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 1996.**
+Referendado em 23 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Critérios mínimos para as organizações referidas no artigo 2.º
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06700/06370637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-1982-609133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8885b2d868d598f61952200074f89574ac1e85186da4e15fdc5b55acf88aa355
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9161b54f717bfb90afeeffe1f2291e2e322c2f8df4bbd0950e3267e6cb65ba18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arroz
+- Classificação de Arroz
+- Controlo de Qualidade
+- Normalização
 relationships:
 - type: amended_by
   target: pt:dre:661113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661113:por
+  label: "Revogada pela PORT.138/84.1984.03.05.MAFA DR.IS [55]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-1984-661113
+  date: '1984-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:13:27Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +126,7 @@ Manda o Governo da República Portuguesa, sob proposta do Instituto de Qualidade
 
 3.º As características de padronização do arroz estufado são as fixadas para os tipos comerciais Carolino e Gigante de 1.ª pela [Portaria n.º 1139/81](https://diariodarepublica.pt/dr/detalhe/portaria/1139-1981-144395), de 31 de Dezembro, à excepção do teor de trinca grada e média, o qual não poderá exceder os valores seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06700/06370637.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06700/06370637.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06700/06370637.pdf)
 
 4.º Na marcação do arroz estufado deverão ser utilizadas, conforme os casos, as expressões «arroz estufado Carolino» ou «arroz estufado Gigante».
 

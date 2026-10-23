@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/57/1994/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1994-590549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce569f8f1d144807468aac9c7b01e2e5cc9ac3a91bc7f44bd34f352b57bba0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13827606e3a23b915e5784cbe1e48d184ec3e14f0f6731ae054d9454bb7446d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Concurso de Habilitação
 - Carreira Profissional
+- Concurso de Habilitação
+- Função Pública
 - Recrutamento de Pessoal
 - Reestruturação de Carreiras
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:26Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +126,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 7 do artigo 17.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto Regulamentar n.º 32/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1987-421461), de 18 de Maio, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto Regulamentar n.º 32/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1987-421461), de 18 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 2.º — [...]
 
@@ -136,12 +156,12 @@ Presidência do Conselho de Ministros, 11 de Julho de 1994.
 
 Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 16 de Agosto de 1994.**
+Promulgado em 16 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1994.**
+Referendado em 23 de Agosto de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

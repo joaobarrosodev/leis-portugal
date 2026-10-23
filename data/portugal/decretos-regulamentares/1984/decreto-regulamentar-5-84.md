@@ -48,40 +48,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1984-660717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bedcc12d73fe10b204cfd8a64530d7a31f083f59e4f42f47fdd4d77ed94430d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7adedcde635f99e41b6bd545616054b02b52d3d2b449ef614ea2a684129b1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Pessoal de Chefia
+- Pessoal de Informática
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:384040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384040:por
+  label: "Substituído o mapa I anexo ao presente diploma, pela PORT.296/84.18.05.1984.PCM, DR.IS [115] de 18.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1984-384040
+  date: '1984-05-18'
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:35Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +129,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O recrutamento do pessoal dirigente e de chefia dos Serviços de Informática do LNETI far-se-á nos termos do artigo 9.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Artigo 1.º - 1 - O recrutamento do pessoal dirigente e de chefia dos Serviços de Informática do LNETI far-se-á nos termos do artigo 9.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 2 - O pessoal actualmente provido em cargos de direcção e chefia de Serviços de Informática do LNETI permanecerá no exercício das respectivas funções, podendo a comissão de serviço ser renovada nos termos da lei geral.
 
-###### Art. 2.º O mapa I anexo ao presente decreto regulamentar cria, sob a designação de pessoal de informática, um quadro de pessoal a intercalar, como mapa II-A, entre os mapas II e III, anexos ao [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro.
+Art. 2.º O mapa I anexo ao presente decreto regulamentar cria, sob a designação de pessoal de informática, um quadro de pessoal a intercalar, como mapa II-A, entre os mapas II e III, anexos ao [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro.
 
-###### Art. 3.º No grupo de pessoal de informática são criadas as carreiras de analistas, programadores, operadores e operadores de registo de dados, que se desenvolvem de acordo com o estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e mapa I anexo.
+Art. 3.º No grupo de pessoal de informática são criadas as carreiras de analistas, programadores, operadores e operadores de registo de dados, que se desenvolvem de acordo com o estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e mapa I anexo.
 
-###### Art. 4.º - 1 - A integração do pessoal nas carreiras de informática far-se-á com o pessoal que à data da entrada em vigor deste decreto regulamentar se encontra a prestar serviço em actividades de informática de acordo com o artigo 1.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), observando-se as seguintes regras:
+Art. 4.º - 1 - A integração do pessoal nas carreiras de informática far-se-á com o pessoal que à data da entrada em vigor deste decreto regulamentar se encontra a prestar serviço em actividades de informática de acordo com o artigo 1.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), observando-se as seguintes regras:
 
 a) O pessoal que se encontrava a exercer funções de informática, a qualquer título, à data da entrada em vigor do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873) poderá ser provido, nos termos dos n.os 5 e 6 do artigo 30.º do citado decreto-lei, sem dependência das habilitações literárias e de acordo com as funções desempenhadas, o que deverá ser certificado pelo organismo onde se encontrava a exercer funções naquela data, em lugares de categorias a que corresponda a mesma letra de vencimento ou letra imediatamente superior, quando não haja coincidência de remuneração;
 
@@ -122,28 +149,28 @@ d) As alterações decorrentes da aplicação das alíneas anteriores produzirã
 
 2 - As normas constantes no número anterior aplicam-se ao pessoal do quadro geral de adidos em serviço no LNETI.
 
-###### Art. 5.º De acordo com o disposto no artigo 27.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, poderá ser admitido o número de estagiários correspondentes à diferença entre o número de funcionários e agentes do LNETI que nos termos dos números anteriores transita para a carreira de informática e o número global previsto para as diferentes carreiras no mapa I anexo ao presente decreto, sendo os estagiários remunerados de acordo com o mapa II anexo.
+Art. 5.º De acordo com o disposto no artigo 27.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, poderá ser admitido o número de estagiários correspondentes à diferença entre o número de funcionários e agentes do LNETI que nos termos dos números anteriores transita para a carreira de informática e o número global previsto para as diferentes carreiras no mapa I anexo ao presente decreto, sendo os estagiários remunerados de acordo com o mapa II anexo.
 
-###### Art. 6.º Sem prejuízo do disposto neste decreto regulamentar, ao pessoal da carreira de informática do LNETI aplicar-se-á o regime estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 6.º Sem prejuízo do disposto neste decreto regulamentar, ao pessoal da carreira de informática do LNETI aplicar-se-á o regime estabelecido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 7.º Este decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º Este decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Alípio Barrosa Pereira Dias - José Veiga Simão - José San-Bento de Menezes.
 
-**Promulgado em 18 de Janeiro de 1984.**
+Promulgado em 18 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Janeiro de 1984.**
+Referendado em 19 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf))](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf))](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/02800/03490351.pdf)

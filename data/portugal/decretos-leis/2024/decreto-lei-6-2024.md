@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0006600068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2024-836117868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77468644ec71a6d1f0b7d241fb33c773ad5b4ba550d520810ee44b5dc26a9db7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd1aebb3af5db158784ce300866a3604911938fdd3e88eeebb7d46be04dd187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,6 +69,13 @@ subjects:
 - Polícia Municipal
 - Remuneração
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:39/2000
+  label: Altera, a partir de 6 de janeiro de 2024, com efeitos a 1 de janeiro de 2023, nos termos do artigo 4.º do presente
+    diploma, o artigo 7.º e o anexo ii do Decreto-Lei n.º 39/2000, de 17 de março, Diário da República n.º 65/2000, Série
+    I-A
+  source: null
+  date: '2000-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/2008/07/11/p/dre
   label: null
@@ -97,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:204916688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514657:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:54Z'
   warnings: []
   errors: []
 ---
@@ -169,13 +204,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 29 de dezembro de 2023.**
+Promulgado em 29 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -187,13 +222,15 @@ MAPA I
 
 Carreira de polícia municipal
 
-|  |  |  |  |  |  |
+| Categorias | Posições e níveis remuneratórios |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Categorias | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios | Posições e níveis remuneratórios |
-| Categorias | 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |
+| 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |  |
+|  |  |  |  |  |  |
 | Graduado-coordenador... | 20 | 21 | 22 | 23 |  |
 | Agente graduado principal... | 16 | 17 | 18 | 19 | 20 |
 | Agente graduado... | 13 | 14 | 15 | 16 | 18 |
 | Agente municipal de 1.ª classe... | 9 | 10 | 11 | 12 | 13 |
 | Agente municipal de 2.ª classe... | 7 | 8 | 9 | 10 | 11 |
 | Estagiário... | 5 |  |  |  |  |
+
+117212073

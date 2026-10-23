@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/187-1982-600677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T07:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da67bd6a12f691883544882bc87691e3fca905abf64f13ff33e6bca47f614fd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67638a2dd783fc980a6c773801e8a38d8619b7ede0bf362200fba0aa300b8add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:10:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Faculdade de Ciências e Tecnologia
+- Mestrado em Biologia Célular
+- Mestrado em Ciências da Computação
+- Mestrado em Física Experimental e Aplicada
+- Mestrado em Matemática
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:333316:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378302:por
+  label: "Alterados os anexos I, III e V pela PORT.1016/82.03.11.1982.ME, DR.IS [254] de 03.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1016-1982-378302
+  date: '1982-11-03'
+- type: amended_by
+  target: pt:dre:181598:por
+  label: "Alterado o n.º 2.1 do anexo V, rectificado pela Declaração DD846, de 15 de Maio de 1982, e alterado na Portaria\
+    \ 1016/82, de 3 de Novembro, pela PORT.354/85.11.06.1985.ME, DR.IS [132] de 11.06.1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1985-181598
+  date: '1985-06-11'
+- type: amended_by
+  target: pt:dre:282970:por
+  label: "Alterada a alínea e) do n.º 1.º, o n.º 6.º e suprimida a alínea b) do n.º 1.º e o anexo II, pela PORT.92/88.10.02.1988.ME,\
+    \ DR.IS [34] de 10.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-1988-282970
+  date: '1988-02-10'
+- type: amended_by
+  target: pt:dre:333316:por
+  label: "Derrogada a presente portaria, na redacção da Port 1016/82, de 03-Nov, pela PORT.189/90.14.03.1990.ME, DR.IS [61]\
+    \ de 14.03.1990, sem prejuízo do disposto no nº 2 do art. 12º e na parte referente aos mestrados em Física Experimental\
+    \ e Aplicada e em Física Teórica.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-1990-333316
+  date: '1990-03-14'
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:392441:por
+  label: Rectificado o anexo V pela DECL.DD846.15.05.1982.PCM, DR.IS [110] de 15.05.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-392441
+  date: '1982-05-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:10:29Z'
   warnings: []
   errors: []
 ---

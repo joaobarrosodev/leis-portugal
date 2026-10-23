@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01900/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2024/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2024-839326793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0d18d3e285eb0b6eb4f554b75e45e53ed000f67917bf6cbc19e5fa3196da2d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e449004d17f5a26f57f306154160639cfcb158c1eab89af962f0210e9085ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comemoração
-- Regulamentação de Atos Legislativos
+- Estrutura de Missão para as Comemorações do Quinquagésimo Aniversário da Revolução de 25 de Abril de 1974
 - Insígnias Militares
 - Movimento das Forças Armadas
+- Regulamentação de Atos Legislativos
 - Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas
-- Estrutura de Missão para as Comemorações do Quinquagésimo Aniversário da Revolução de 25 de Abril de 1974
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2024/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/14/2024/01/10/p/dre
+- type: cites
+  target: pt:dre:836437686:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:12Z'
   warnings: []
   errors: []
 ---
@@ -157,18 +161,22 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 18 de janeiro de 2024. - António Luís Santos da Costa.
 
-**Promulgado em 20 de janeiro de 2024.**
+Promulgado em 20 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de janeiro de 2024.**
+Referendado em 23 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
-![](https://files.diariodarepublica.pt/images/839326793/839322820.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/839326793/839322820.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/839326793/839322821.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/839326793/839322821.png) |
+| --- |
+
+117282925

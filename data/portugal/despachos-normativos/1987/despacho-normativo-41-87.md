@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1987-665949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c17e6e9355b6627ff5ede770e20d67525601b9758834624860e2c3a26777da6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93dd9a26fd1c645b10a6c150b23a49cddb47e46fd68d766ab0a0c261838cecc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipações da Segurança Social
+- IPSS
+- Jardim de Infância
+- Lares
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:285935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325079:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285935:por
+  label: "Revogado pelo DN.12/88.22.02.1988.MESS, DR.IS [60] de 12.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1988-285935
+  date: '1988-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:47Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +150,7 @@ Comparticipação por acordos de cooperação típicos
 
 1 - Os valores das comparticipações a pagar em 1987 pelos centros regionais de segurança social às instituições particulares de solidariedade social com as quais tenham celebrado acordos de cooperação ao abrigo dos Despachos Normativos n.os [387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775) e [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778) são, por mês, utente e valência, os constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)
 
 2 - O valor fixado para as valências do jardim-de-infância e apoio domiciliário a idosos será reduzido em 25% nos casos em que não é fornecida alimentação.
 
@@ -200,4 +230,4 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1987, ficando, porém, a
 
 Secretaria de Estado da Segurança Social, 8 de Abril de 1987. - O Secretário de Estado da Segurança Social, Luís Filipe da Conceição Pereira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf))](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16611665.pdf)

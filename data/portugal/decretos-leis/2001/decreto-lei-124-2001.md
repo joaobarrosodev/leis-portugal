@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2001/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2001-164208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c87fd56e5e0fcfe542576208ba62204ceecc8e5efeea69124226daec72dd7ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc1bfe2ac5af01379e3d1847ef10b4b9c0f8e7cc82399216c1af95ea826924b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Armazenagem
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Café
 - Chicória
-- Multa
+- Comércio
 - Contra-ordenação
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Etiquetagem
 - Fiscalização
-- Café
-- Aditivo Alimentar
+- Multa
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:496707:por
@@ -91,16 +91,22 @@ relationships:
   target: celex:31999L0004
   label: null
   source: http://data.europa.eu/eli/dir/1999/4/oj
+- type: repealed_by
+  target: pt:dre:496707:por
+  label: "Revogado o Dec Lei 53/89 de 22-fev, na redação do presente diploma, pelo DEC LEI.78/2013.11.06.2013.MAMAOT, DR.IS\
+    \ [111] de 11.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2013-496707
+  date: '2013-06-11'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:09Z'
   warnings: []
   errors: []
 ---
@@ -259,12 +265,12 @@ c) Artigos 3.º, 7.º e 8.º, no que respeita aos extractos de café e extractos
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 30 de Março de 2001.**
+Promulgado em 30 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Abril de 2001.**
+Referendado em 5 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

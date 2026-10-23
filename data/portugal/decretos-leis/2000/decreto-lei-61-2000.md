@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2000/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2000-522797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b95ef95560f2af4a1f9f57e10a4b8be8e0fe42db2c9bc6ee25d68dab20643576
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 754b463af61737056a0b12ae61ce8bfd6f4fec729bdcaaf50ee801e08b109e36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Amortização
-- Financiamento
-- Instituição de Crédito
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Atividade Agrícola
+- Catástrofe
 - Crédito Bonificado
 - Definição de Competências
 - Direcção Regional de Agricultura
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Algarve
 - Equipamento
-- Catástrofe
+- Financiamento
+- Ifadap
+- Instituição de Crédito
 - JURO Bonificado
 - Linha de Crédito
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Piddac
 - Prazo
-- Ifadap
 - Remuneração
 - TAXA de JURO
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:42Z'
   warnings: []
   errors: []
 ---
@@ -186,12 +190,12 @@ Os encargos financeiros referentes à bonificação da taxa de juro dos emprést
 
 Visto e aprovado em Conselho de Ministros de 10 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

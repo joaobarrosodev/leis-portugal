@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/228/2009/09/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 776b4210d2830c2c9c92e97175625560dcb0a6507bdca73f066a4ab7d57da7ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43881f66c6ae43fff3ed174e0ad7e9ec3b86343bae04b4b5ecbb6c42fa2fea28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo no Espaço Rural
+- Agro-turismo
+- Aldeamento Turístico
 - Alvará
 - Apartamento Turístico
-- Garantia
-- Turismo
-- Estabelecimento Comercial
+- Câmara Municipal
+- Conjunto Turístico
 - Definição de Competências
+- Estabelecimento Comercial
 - Estabelecimento de Restauração
 - Estabelecimento Hoteleiro
 - Fiscalização
+- Garantia
+- Hotel Rural
+- Infraestrutura Turística
 - Instituto de Turismo de Portugal
 - Interesse para o Turismo
 - Licenciamento
 - Moradia Turística
-- Aldeamento Turístico
 - Prestação de Serviços
-- Câmara Municipal
 - Regime Jurídico
 - Registo Nacional de Empreendimentos Turísticos
-- Conjunto Turístico
-- Agro-turismo
-- Hotel Rural
+- Turismo
 - Turismo de Aldeia
 - Turismo de Habitação
+- Turismo no Espaço Rural
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:892301177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571048:por
+  label: "Alterados, a partir de 28.01.2014, os arts. 15.º, 18.º, 30.º, 41.º, 54.º, 55.º, 56.º, 64.º e 75.º do Dec Lei 39/2008\
+    \ de 07-mar, na redação do presente diploma, pelo DEC LEI.15/2014.23.01.2014.MECO, DR.IS [16] de 23.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2014-571048
+  date: '2014-01-23'
+- type: amended_by
+  target: pt:dre:70179162:por
+  label: Alterados os arts. 30.º e 54.º do Dec Lei 39/2008 de 07-mar, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2015-70179162
+  date: '2015-09-03'
+- type: amended_by
+  target: pt:dre:107596685:por
+  label: Repristinado o art. 24.º do Dec Lei 39/2008 de 07-mar, na redação do presente diploma, pelo(a) Decreto-Lei n.º 80/2017
+    - Diário da República n.º 125/2017, Série I de 2017-06-30 que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2017-107596685
+  date: '2017-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
   label: null
@@ -137,16 +155,147 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-e/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-e/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672657:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:572121:por
+  label: "Retificado o art. 2.º do Dec Lei 15/2014 de 23-jan, na parte em que alterou o n.º 3 do art. 75º do Dec Lei 39/2008\
+    \ de 07-mar, com a redação conferida pelo presente diploma, pela DECL-RECT.19/2014.24.03.2014.PCM, DR.IS [58] de 24.03.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/19-2014-572121
+  date: '2014-03-24'
 article_structure:
-  article_count: 95
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 83
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:53Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +344,9 @@ Os artigos 8.º, 15.º, 16.º, 18.º, 24.º, 30.º, 41.º, 54.º, 55.º, 56.º, 
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - São conjuntos turísticos (resorts) os empreendimentos turísticos constituídos por núcleos de instalações funcionalmente interdependentes, situados em espaços com continuidade territorial, ainda que atravessados por estradas e caminhos municipais, linhas ferroviárias secundárias, linhas de água e faixas de terreno afectas a funções de protecção e conservação de recursos naturais, destinados a proporcionar alojamento e serviços complementares de apoio a turistas, sujeitos a uma administração comum de serviços partilhados e de equipamentos de utilização comum, que integrem pelo menos dois empreendimentos turísticos de um dos tipos previstos no n.º 1 do artigo 4.º, sendo obrigatoriamente um deles um estabelecimento hoteleiro de cinco ou quatro estrelas, e ainda um equipamento de animação autónomo e um estabelecimento de restauração.
 
@@ -217,7 +368,9 @@ b) Sejam cumpridos os requisitos de instalação e de serviço obrigatórios exi
 
 c) As unidades de alojamento integrem o título constitutivo do conjunto turístico (resort), ficando sujeitas ao pagamento da prestação periódica fixada de acordo com o critério determinado no título constitutivo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Os conjuntos turísticos (resorts) devem possuir, no mínimo, e para além dos requisitos gerais de instalação, as seguintes infra-estruturas e equipamentos:
 
@@ -235,7 +388,9 @@ f) [Anterior alínea e).]
 
 g) [Anterior alínea f).]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +408,9 @@ g) [Anterior alínea f).]
 
 8 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As disposições do presente decreto-lei relativas à instalação dos empreendimentos turísticos são aplicáveis aos estabelecimentos comerciais e de restauração ou de bebidas que deles sejam partes integrantes.
 
@@ -261,7 +418,9 @@ g) [Anterior alínea f).]
 
 3 - Sem prejuízo do disposto no número anterior, a emissão do alvará de autorização de utilização para fins turísticos ou a comunicação de abertura de um empreendimento turístico substitui a permissão de funcionamento de todas as suas partes integrantes, incluindo os estabelecimentos de restauração ou de bebidas.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +440,9 @@ g) [Anterior alínea f).]
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +450,9 @@ g) [Anterior alínea f).]
 
 3 - Os empreendimentos turísticos que disponham das infra-estruturas e equipamentos exigidos no artigo 16.º para os conjuntos turísticos (resorts) podem, para fins comerciais, usar conjuntamente com o nome a expressão resort.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +470,9 @@ g) [Anterior alínea f).]
 
 8 - O adquirente do direito sobre lote ou de fracção autónoma em empreendimento turístico, com base no qual tenha sido conferido à entidade exploradora do empreendimento o título referido no n.º 3 do artigo 45.º, sucede nos direitos e obrigações do transmitente daquele direito perante a entidade exploradora.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -339,7 +504,9 @@ m) [Anterior alínea l).]
 
 3 - ...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -359,7 +526,9 @@ m) [Anterior alínea l).]
 
 9 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Nos empreendimentos em propriedade plural, a entidade administradora do empreendimento deve prestar caução de boa administração e conservação a favor dos proprietários das fracções autónomas ou lotes, através de depósito bancário, seguro ou garantia bancária, emitida por uma entidade seguradora ou financeira da União Europeia, devendo o respectivo título ser depositado no Turismo de Portugal, I. P.
 
@@ -369,7 +538,9 @@ m) [Anterior alínea l).]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +552,9 @@ m) [Anterior alínea l).]
 
 5 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -419,15 +592,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - Fernando Teixeira dos Santos - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Rui Nuno Garcia de Pina Neves Baleiras - Fernando Teixeira dos Santos - Luís Medeiros Vieira - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248), de 7 de Março
 
@@ -845,7 +1018,9 @@ d) No caso de a vistoria ter imposto condicionantes, termo de responsabilidade a
 
 4 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projecto aprovado, os subscritores dos termos de responsabilidade a que se referem as alíneas a), b) e d) do n.º 1 respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
 
-###### Artigo 32.º — Título de abertura
+###### Artigo 32.º
+
+## Título de abertura
 
 Constitui título válido de abertura do empreendimento qualquer dos seguintes documentos:
 
@@ -1039,7 +1214,9 @@ b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
 
 Nas informações de carácter geral relativas aos empreendimentos turísticos e aos serviços que neles são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo responsável pela área do turismo.
 
-###### Artigo 51.º — Livro de reclamações
+###### Artigo 51.º
+
+## Livro de reclamações
 
 1 - Os empreendimentos turísticos devem dispor de livro de reclamações, nos termos e condições estabelecidos no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de Novembro.
 
@@ -1059,7 +1236,9 @@ Nas informações de carácter geral relativas aos empreendimentos turísticos e
 
 Às relações entre os proprietários dos empreendimentos turísticos em propriedade plural é aplicável o disposto no presente decreto-lei e, subsidiariamente, o regime da propriedade horizontal.
 
-###### Artigo 54.º — Título constitutivo
+###### Artigo 54.º
+
+## Título constitutivo
 
 1 - Os empreendimentos turísticos em propriedade plural regem-se por um título constitutivo elaborado e aprovado nos termos do presente decreto-lei.
 

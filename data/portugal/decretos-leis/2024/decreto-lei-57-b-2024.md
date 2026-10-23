@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18501/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57-b/2024/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-b-2024-888861522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86f7adc60089a70fc1ace68de6741999a3c14caea37cf355cbb187cf4728a398
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efadb73f80aaee934dd9dc217763918aa6e2d2693d6a097d79e411837cf830c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criança
-- Veículo
 - Regime Jurídico
 - Transporte
 - Transporte Escolar
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:928506356:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:13/2006
+  label: Altera, a partir de 25 de setembro de 2024, com efeitos a 31 de agosto de 2024, o artigo 5.º-A da Lei n.º 13/2006,
+    de 17 de abril, Diário da República n.º 75/2006, Série I-A
+  source: null
+  date: '2006-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2021/11/19/p/dre
   label: null
@@ -87,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2006/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2006/04/17/p/dre
+- type: cites
+  target: pt:dre:174614572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220956294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:48Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +163,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2024. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 23 de setembro de 2024.**
+Promulgado em 23 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de setembro de 2024.**
+Referendado em 24 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118156389

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1983-453231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 529934ae5e78ed326b1b7b291786f815e5cd3877e79b25723be181ae0d54dd1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad9cbd4c626dc745f1c2ed2ea24a67702cc4c562113a26eece7a40eed5f29c6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino de Condução
+- Escola de Condução
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:167382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417258:por
+  label: "Alterados os n.os 4 e 5 do artigo 19.º, pelo DR.47/87.29.07.1987.MOPTC, DR.IS [172] de 29.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-1987-417258
+  date: '1987-07-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "CONVERTIDAS EM CONTRA-ORDENACOES AS INFRACÇÕES QUALIFICADAS COMO CONTRAVENCOES NO PRESENTE DIPLOMA, PELO DEC LEI\
+    \ 199/95 DE 31-JUL DR.IS-A [175]\0.IS-A [175]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-31'
+- type: cites
+  target: pt:dre:375664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167382:por
+  label: "Revogado pelo DR.5/98.1998.04.09.MAI, DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1998-167382
+  date: '1998-04-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:11Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +126,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Licenciamento das escolas de condução
 
-###### Artigo 1.º - 1 - A concessão de alvará para abertura e funcionamento de escolas de condução depende de apresentação de requerimento pelo interessado.
+Artigo 1.º - 1 - A concessão de alvará para abertura e funcionamento de escolas de condução depende de apresentação de requerimento pelo interessado.
 
 2 - O requerimento deve conter os seguintes elementos:
 
@@ -131,7 +158,7 @@ g) Número da carta de condução, da licença de instrutor e de director de que
 
 6 - Do indeferimento do requerimento inicial cabe recurso para o Ministro da Habitação, Obras Públicas e Transportes, a interpor no prazo de 15 dias contados da data da notificação.
 
-###### Art. 2.º - 1 - Com o requerimento a que se refere o artigo anterior deve o interessado propor a designação para a escola de condução, a qual deverá ser sempre precedida das palavras «Escola de condução» ou «Escola de condução especial», conforme o caso.
+Art. 2.º - 1 - Com o requerimento a que se refere o artigo anterior deve o interessado propor a designação para a escola de condução, a qual deverá ser sempre precedida das palavras «Escola de condução» ou «Escola de condução especial», conforme o caso.
 
 2 - A designação proposta é recusada quando:
 
@@ -139,7 +166,7 @@ a) Existir outra escola de condução no mesmo concelho, ou distrito, no caso da
 
 b) Contiver termos ou expressões que possam iludir a boa fé dos candidatos ou colidir com o interesse público prosseguido pela actividade.
 
-###### Art. 3.º - 1 - Notificado do deferimento do requerimento inicial, deve o interessado, no prazo de 3 meses contado daquela notificação, requerer a aprovação prévia das instalações da escola e do respectivo recinto de manobras, quando o pretenda instalar.
+Art. 3.º - 1 - Notificado do deferimento do requerimento inicial, deve o interessado, no prazo de 3 meses contado daquela notificação, requerer a aprovação prévia das instalações da escola e do respectivo recinto de manobras, quando o pretenda instalar.
 
 2 - O requerimento é instruído com:
 
@@ -161,7 +188,7 @@ d) Planta, em triplicado, na escala de 1:500, do recinto de manobras.
 
 7 - O requerimento a que se refere o número anterior é instruído com declaração do titular do alvará da escola a que o recinto pertence permitindo a sua utilização e fazendo menção expressa das condições em que tal permissão é concedida.
 
-###### Art. 4.º - 1 - O requerente notificado da aprovação prévia das instalações propostas e do recinto de manobras, no caso em que tal tenha lugar, deve, no prazo de 2 meses, equipar as instalações da escola com o material exigido, requerendo a respectiva vistoria.
+Art. 4.º - 1 - O requerente notificado da aprovação prévia das instalações propostas e do recinto de manobras, no caso em que tal tenha lugar, deve, no prazo de 2 meses, equipar as instalações da escola com o material exigido, requerendo a respectiva vistoria.
 
 2 - Se do resultado da vistoria se concluir existirem deficiências no equipamento, será marcado prazo para se efectivarem as correspondentes correcções, devendo o interessado, até ao termo do referido prazo, requerer nova vistoria.
 
@@ -171,7 +198,7 @@ d) Planta, em triplicado, na escala de 1:500, do recinto de manobras.
 
 5 - No caso de utilização de recinto de manobras pertencente a escola de condução já existente, apenas há lugar a vistoria às instalações da escola.
 
-###### Art. 5.º - 1 - Concluída a aprovação das instalações e apetrechamento, fixadas as lotações das salas de aula e do respectivo contingente máximo, a Direcção-Geral de Viação disso notificará o requerente, devendo este apresentar, no prazo de 1 mês, todos os documentos necessários ao funcionamento da escola de condução, identificar o director, o director substituto e os instrutores e indicar os veículos a licenciar.
+Art. 5.º - 1 - Concluída a aprovação das instalações e apetrechamento, fixadas as lotações das salas de aula e do respectivo contingente máximo, a Direcção-Geral de Viação disso notificará o requerente, devendo este apresentar, no prazo de 1 mês, todos os documentos necessários ao funcionamento da escola de condução, identificar o director, o director substituto e os instrutores e indicar os veículos a licenciar.
 
 2 - A identificação a que se refere o número anterior deve ser feita nos termos fixados no n.º 3 do artigo 1.º do presente diploma.
 
@@ -193,11 +220,11 @@ e) Combustível.
 
 6 - Se não forem satisfeitas, no prazo de 2 meses, as formalidades a cumprir após a emissão do alvará, este é anulado.
 
-###### Art. 6.º - 1 - Por despacho do director-geral de Viação, é fixado o modelo para o alvará da escola de condução.
+Art. 6.º - 1 - Por despacho do director-geral de Viação, é fixado o modelo para o alvará da escola de condução.
 
 2 - Sem prejuízo de procedimento criminal, são cancelados os alvarás concedidos com fundamento em falsas declarações ou utilização de documentos falsos.
 
-###### Art. 7.º - 1 - Quando o titular do alvará da escola de condução for uma pessoa colectiva, qualquer alteração ao seu pacto social deve ser comunicada à Direcção-Geral de Viação, no prazo de 1 mês.
+Art. 7.º - 1 - Quando o titular do alvará da escola de condução for uma pessoa colectiva, qualquer alteração ao seu pacto social deve ser comunicada à Direcção-Geral de Viação, no prazo de 1 mês.
 
 2 - A comunicação a que se refere o número anterior deve ser acompanhada de certidão da escritura pública que operou a alteração.
 
@@ -207,7 +234,7 @@ e) Combustível.
 
 #### SECÇÃO II — Transmissão de escolas de condução
 
-###### Art. 8.º - 1 - O titular do alvará de escola de condução que a pretenda transmitir deve solicitar autorização à Direcção-Geral de Viação, mediante requerimento, onde identifique o adquirente e, no caso de este ser uma pessoa colectiva, os seus gerentes ou administradores.
+Art. 8.º - 1 - O titular do alvará de escola de condução que a pretenda transmitir deve solicitar autorização à Direcção-Geral de Viação, mediante requerimento, onde identifique o adquirente e, no caso de este ser uma pessoa colectiva, os seus gerentes ou administradores.
 
 2 - A identificação dos indivíduos a que se refere o número anterior deve ser feita nos termos fixados no n.º 3 do artigo 1.º do presente diploma.
 
@@ -215,13 +242,13 @@ No caso de o adquirente ser uma pessoa colectiva, deve constar, além da identif
 
 3 - O requerimento para autorização da transmissão é instruído com certificado do registo criminal do adquirente ou, no caso de pessoa colectiva, dos seus gerentes ou administradores, bem como certidão de escritura pública da constituição da sociedade, respectivo registo do Gabinete Nacional e certidão das escrituras de alteração que hajam ocorrido ao seu pacto social.
 
-###### Art. 9.º - 1 - Concedida a autorização a que se refere o n.º 1 do artigo anterior, deve o adquirente, no prazo de 1 mês contado da realização da escritura pública de transmissão, dela enviar certidão à Direcção-Geral de Viação, acompanhada do alvará da escola e requerimento para o respectivo averbamento.
+Art. 9.º - 1 - Concedida a autorização a que se refere o n.º 1 do artigo anterior, deve o adquirente, no prazo de 1 mês contado da realização da escritura pública de transmissão, dela enviar certidão à Direcção-Geral de Viação, acompanhada do alvará da escola e requerimento para o respectivo averbamento.
 
 2 - A Direcção-Geral de Viação pode exigir a junção de outros documentos considerados necessários.
 
 3 - A contravenção ao disposto no n.º 1 é punida com multa de 5000$00 a 20000$00.
 
-###### Art. 10.º - 1 - A morte do titular do alvará da escola de condução deve ser comunicada, no prazo de 1 mês, à Direcção-Geral de Viação, pelo cabeça-de-casal.
+Art. 10.º - 1 - A morte do titular do alvará da escola de condução deve ser comunicada, no prazo de 1 mês, à Direcção-Geral de Viação, pelo cabeça-de-casal.
 
 2 - No prazo de 6 meses após a morte do titular do alvará, deve o cabeça-de-casal, caso não haja lugar a inventário obrigatório, remeter à Direcção-Geral de Viação certidão de escritura de habilitação de herdeiros, acompanhada do alvará da escola bem como do certificado de registo criminal dos herdeiros.
 
@@ -231,7 +258,7 @@ No caso de o adquirente ser uma pessoa colectiva, deve constar, além da identif
 
 #### SECÇÃO III — Instalações e apetrechamento
 
-###### Art. 11.º - 1 - As instalações das escolas de condução normais e das especiais que não ministrem apenas o ensino de pesados de passageiros devem possuir, pelo menos, os seguintes compartimentos:
+Art. 11.º - 1 - As instalações das escolas de condução normais e das especiais que não ministrem apenas o ensino de pesados de passageiros devem possuir, pelo menos, os seguintes compartimentos:
 
 a) Secretaria;
 
@@ -247,7 +274,7 @@ e) Instalações sanitárias.
 
 3 - As salas de aula devem ter cadeiras com apoio ou mesas em número correspondente à respectiva lotação, acrescida de uma unidade, destinada ao instrutor, devendo todo o equipamento pedagógico estar em perfeitas condições de funcionamento.
 
-###### Art. 12.º - 1 - Para efeitos do disposto no n.º 3 do artigo 11.º e alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, a instalação da escola de condução só pode ser autorizada desde que, cumulativamente, fique a, pelo menos, 500 m da escola de condução mais próxima e não faça baixar, para menos de 25000, o número de habitantes por cada uma das escolas que fique a existir no concelho.
+Art. 12.º - 1 - Para efeitos do disposto no n.º 3 do artigo 11.º e alínea c) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, a instalação da escola de condução só pode ser autorizada desde que, cumulativamente, fique a, pelo menos, 500 m da escola de condução mais próxima e não faça baixar, para menos de 25000, o número de habitantes por cada uma das escolas que fique a existir no concelho.
 
 2 - Por despacho do Ministro da Habitação, Obras Públicas e Transportes, sob proposta do director-geral de Viação, poderão ser concedidos alvarás para áreas urbanas dos concelhos, independentemente do condicionalismo resultante da relação escola/população previsto no número anterior, desde que tal se mostre ajustado à configuração apresentada pela procura previsível.
 
@@ -263,7 +290,7 @@ b) Fora das localidades, pela via normal mais curta, sejam estradas nacionais ou
 
 6 - O número de habitantes a considerar para o efeito do presente artigo será o que constar do último censo, podendo o requerente actualizar esse número, instruindo a sua petição com certidão, passada por entidade competente, baseada no último recenseamento eleitoral.
 
-###### Art. 13.º - 1 - O titular do alvará que pretenda mudar ou alterar as instalações da escola de condução deve requerer autorização ao director-geral de Viação.
+Art. 13.º - 1 - O titular do alvará que pretenda mudar ou alterar as instalações da escola de condução deve requerer autorização ao director-geral de Viação.
 
 2 - O requerimento para mudança de instalações deve indicar a localização das futuras instalações e ser instruído com as plantas exigidas para a montagem da escola de condução, sem o que é indeferido.
 
@@ -281,11 +308,11 @@ Na vistoria, é fixada a lotação das salas de aula e contingente máximo de ve
 
 8 - A contravenção ao disposto nos n.os 5 e 6 do presente artigo é punida com multa de 5000$00 a 20000$00.
 
-###### Art. 14.º - 1 - O requerimento para autorização do funcionamento temporário da escola de condução em instalações provisórias deve ser devidamente fundamentado, conter indicação da localização das instalações, do período previsto para a ocupação e instruído com planta em triplicado, na escala de 1:100, das referidas instalações.
+Art. 14.º - 1 - O requerimento para autorização do funcionamento temporário da escola de condução em instalações provisórias deve ser devidamente fundamentado, conter indicação da localização das instalações, do período previsto para a ocupação e instruído com planta em triplicado, na escala de 1:100, das referidas instalações.
 
 2 - Concedida a autorização a que se refere o número anterior, deve o titular do alvará requerer vistoria às instalações e respectivo apetrechamento.
 
-###### Art. 15.º - 1 - A sala de aula teórica deve estar equipada com, pelo menos, o seguinte material didáctico:
+Art. 15.º - 1 - A sala de aula teórica deve estar equipada com, pelo menos, o seguinte material didáctico:
 
 a) Colecção de diapositivos ou transparências contendo toda a sinalização do trânsito, bem como situações reais de colocação e utilização desses sinais e situações particularmente perigosas evidenciadas através de sequência de imagens;
 
@@ -349,11 +376,11 @@ p) Máquina de projectar diapositivos, retroprojector ou equipamento idêntico, 
 
 6 - Mediante autorização da Direcção-Geral de Viação, pode ser utilizado qualquer outro equipamento ou material, em substituição ou complemento do constante nos números anteriores.
 
-###### Art. 16.º - 1 - A lotação de cada sala de aula é fixada pela Direcção-Geral de Viação, podendo, no máximo, ser a correspondente a um instruendo por metro quadrado de quatro quintos da área da respectiva sala.
+Art. 16.º - 1 - A lotação de cada sala de aula é fixada pela Direcção-Geral de Viação, podendo, no máximo, ser a correspondente a um instruendo por metro quadrado de quatro quintos da área da respectiva sala.
 
 2 - Quando da aplicação do disposto no número anterior não resultar um número inteiro, este é arredondado para o imediatamente superior.
 
-###### Art. 17.º - 1 - As escolas de condução agrupam-se em categorias, consoante o contingente máximo de veículos ligeiros que lhes seja fixado pela Direcção-Geral de Viação, nos seguintes termos:
+Art. 17.º - 1 - As escolas de condução agrupam-se em categorias, consoante o contingente máximo de veículos ligeiros que lhes seja fixado pela Direcção-Geral de Viação, nos seguintes termos:
 
 Categoria I - 5 veículos;
 
@@ -407,11 +434,11 @@ Categoria XI - 2 salas cuja soma das lotações seja de 60 lugares.
 
 5 - A mudança para categoria superior, porém, só é possível mediante autorização da Direcção-Geral de Viação e desde que disponha de sala ou salas de ensino teórico que satisfaçam as lotaçõs mínimas fixadas no presente artigo.
 
-###### Art. 18.º Os veículos de instrução adquiridos com redução de imposto sobre a venda de veículos só podem ser utilizados nas condições fixadas na lei que regula esta matéria.
+Art. 18.º Os veículos de instrução adquiridos com redução de imposto sobre a venda de veículos só podem ser utilizados nas condições fixadas na lei que regula esta matéria.
 
 Os restantes veículos de instrução podem, porém, ser utilizados em serviço particular do titular ou sócio da entidade titular da respectiva licença de condução, ou por outra pessoa, por aqueles devidamente autorizada.
 
-###### Art. 19.º - 1 - Só podem ser utilizados no ensino de condução os veículos automóveis que satisfaçam as condições constantes dos números seguintes.
+Art. 19.º - 1 - Só podem ser utilizados no ensino de condução os veículos automóveis que satisfaçam as condições constantes dos números seguintes.
 
 2 - Os automóveis ligeiros e pesados de mercadorias devem ter:
 
@@ -461,11 +488,11 @@ A contravenção ao disposto no n.º 12 é punida com multa de 1000$00 a 5000$00
 
 #### SECÇÃO IV — Disposições finais e transitórias
 
-###### Art. 20.º - 1 - Os titulares de alvará de escola de condução, gerentes ou administradores da entidade titular, bem como os directores e instrutores, devem remeter à Direcção-Geral de Viação, anualmente, durante o mês de Janeiro, o respectivo certificado de registo criminal.
+Art. 20.º - 1 - Os titulares de alvará de escola de condução, gerentes ou administradores da entidade titular, bem como os directores e instrutores, devem remeter à Direcção-Geral de Viação, anualmente, durante o mês de Janeiro, o respectivo certificado de registo criminal.
 
 2 - A contravenção ao disposto no número anterior e punida com multa de 2000$00 a 10000$00.
 
-###### Art. 21.º - 1 - As empresas concessionárias de transporte público que, nos termos do n.º 3 do artigo 58.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, pretendam ministrar cursos de formação de condutores de pesados de passageiros devem requerer ao director-geral de Viação a aprovação desses cursos.
+Art. 21.º - 1 - As empresas concessionárias de transporte público que, nos termos do n.º 3 do artigo 58.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, pretendam ministrar cursos de formação de condutores de pesados de passageiros devem requerer ao director-geral de Viação a aprovação desses cursos.
 
 2 - Do requerimento a que se refere o número anterior devem constar, pelo menos, os seguintes elementos:
 
@@ -483,15 +510,15 @@ e) Programa do curso.
 
 4 - Os candidatos que concluam com aproveitamento o curso de formação podem, mediante proposta da entidade que o tenha ministrado, requerer exame de condução para pesados de passageiros na direcção de viação com jurisdição na área da sua residência.
 
-###### Art. 22.º O pagamento das multas, nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, deve ser efectuado mediante inutilização de selos fiscais apostos na notificação recebida pelo autuado.
+Art. 22.º O pagamento das multas, nos termos do disposto no artigo 41.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, deve ser efectuado mediante inutilização de selos fiscais apostos na notificação recebida pelo autuado.
 
 A notificação deve ser apresentada em qualquer posto da Polícia de Segurança Pública ou da Guarda Nacional Republicana, onde será entregue um talão comprovativo do pagamento.
 
-###### Art. 23.º - 1 - A Direcção-Geral de Viação pode, por uma ou mais vezes, e mediante requerimento fundamentado, a apresentar pelo interessado, 15 dias antes do seu termo, prorrogar os prazos a que se refere o presente diploma.
+Art. 23.º - 1 - A Direcção-Geral de Viação pode, por uma ou mais vezes, e mediante requerimento fundamentado, a apresentar pelo interessado, 15 dias antes do seu termo, prorrogar os prazos a que se refere o presente diploma.
 
 2 - Caduca o direito do requerente que não pratique os actos necessários dentro dos prazos fixados.
 
-###### Art. 24.º - 1 - As escolas de condução existentes à data da publicação do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, são integradas provisoriamente nas categorias previstas no n.º 1 do artigo 17.º do presente diploma, consoante o contingente de veículos ligeiros de que disponham, sendo atribuída a categoria mais elevada as que excedam o contingente máximo ali previsto.
+Art. 24.º - 1 - As escolas de condução existentes à data da publicação do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, são integradas provisoriamente nas categorias previstas no n.º 1 do artigo 17.º do presente diploma, consoante o contingente de veículos ligeiros de que disponham, sendo atribuída a categoria mais elevada as que excedam o contingente máximo ali previsto.
 
 2 - Para efeito do disposto no artigo 57.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, devem estas escolas, até ao termo do prazo aí fixado, adaptar as suas instalações, por forma a dispor, pelo menos, da compartimentação exigida no artigo 11.º, e da lotação da sala de aula teórica de acordo com a categoria a que pertencem e obter o equipamento pedagógico enumerado no artigo 15.º
 
@@ -503,42 +530,42 @@ A notificação deve ser apresentada em qualquer posto da Polícia de Segurança
 
 6 - As escolas de condução que apenas ministram ensino a candidatos a condutores não profissionais estão dispensadas da sala de aula técnica.
 
-###### Art. 25.º - 1 - As escolas de condução cujas instalações não permitam cumprir o preceituado no artigo anterior devem, no prazo de 3 anos, desse facto dar conhecimento à Direcção-Geral de Viação, em documento fundamentado.
+Art. 25.º - 1 - As escolas de condução cujas instalações não permitam cumprir o preceituado no artigo anterior devem, no prazo de 3 anos, desse facto dar conhecimento à Direcção-Geral de Viação, em documento fundamentado.
 
 2 - Confirmada a impossibilidade de adaptação das instalações pela Direcção-Geral de Viação, a escola é desse facto notificada, devendo, até ao termo do prazo fixado no artigo 57.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, requerer a vistoria a que se refere o n.º 3 do artigo anterior.
 
 3 - Concluída a vistoria, a escola é integrada na categoria que provisoriamente lhe havia sido atribuída, não podendo aumentar o contingente de veículos ligeiros ainda que dentro da mesma categoria.
 
-###### Art. 26.º É cancelado o alvará das escolas de condução que, até ao termo do prazo fixado no artigo 57.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, não cumpram o disposto nos artigos 24.º ou 25.º do presente diploma.
+Art. 26.º É cancelado o alvará das escolas de condução que, até ao termo do prazo fixado no artigo 57.º do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, não cumpram o disposto nos artigos 24.º ou 25.º do presente diploma.
 
-###### Art. 27.º - 1 - Por despacho do director-geral de Viação, são definidas as características dos reboques a utilizar na ministração do ensino prático de automóveis pesados de mercadorias.
+Art. 27.º - 1 - Por despacho do director-geral de Viação, são definidas as características dos reboques a utilizar na ministração do ensino prático de automóveis pesados de mercadorias.
 
 2 - Fixadas as características a que alude o número anterior, o exame prático para instrutores de automóveis pesados de mercadorias é prestado em veículo com reboque.
 
-###### Art. 28.º As infracções ao disposto no presente diploma a que não corresponda pena especial são punidas com multa de 2000$00 a 10000$00.
+Art. 28.º As infracções ao disposto no presente diploma a que não corresponda pena especial são punidas com multa de 2000$00 a 10000$00.
 
-###### Art. 29.º O requerimento a que alude o n.º 1 do artigo 1.º só pode ser entregue pelo interessado, na Direcção-Geral de Viação, 60 dias após a publicação do presente diploma.
+Art. 29.º O requerimento a que alude o n.º 1 do artigo 1.º só pode ser entregue pelo interessado, na Direcção-Geral de Viação, 60 dias após a publicação do presente diploma.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 4 de Junho de 1983.**
+Promulgado em 4 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 7 de Junho de 1983.**
+Referendado em 7 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
-
-QUADRO 1
-
-Modelo do distintivo a que se refere o n.º 8 do artigo 19.º
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf)
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 QUADRO 1
 
 Modelo do distintivo a que se refere o n.º 8 do artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf)
+
+QUADRO 1
+
+Modelo do distintivo a que se refere o n.º 8 do artigo 19.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15800/25352543.pdf)

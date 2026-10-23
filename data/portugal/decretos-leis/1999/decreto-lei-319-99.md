@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/186a00/52475248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1999-423056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e181bd6e61163a4764af8350aea86e93857fb7e17cb546f26a7cd236ab325bc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6b169db7b54a29d55be8cf6b2cd93fca54269c5ed7ea3ea6e28bb02298855d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Médico
 - Atestado Médico
 - Certificado de Robustez Física
 - Controlo Médico
+- Função Pública
+- Funcionário Público
+- Médico
 - Prova
 - Setor Privado
 - Setor Público
-- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:490255:por
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/26/1994/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/26/1994/02/01/p/dre
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490255:por
+  label: "Revogado, a partir de 21.09.2009, o presente diploma, pelo DEC LEI.242/2009.16.09.2009.MS, DR.IS [180] de 16.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2009-490255
+  date: '2009-09-16'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:19Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +144,12 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 28 de Julho de 1999.**
+Promulgado em 28 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

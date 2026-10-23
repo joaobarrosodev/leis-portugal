@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-1981-578295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88958edccbe475f6fbcfa47ab04e49199075d359ccf94eaf2aa16ac78db876e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ee0a5ca37342a1661fbdac49dbcd28e115d211b3d1535a74af2fc417b307cc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Formas de Provimento
+- Quadro de Pessoal
+- Regulamento
+- Secretariado Nacional de Reabilitação
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:33Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +107,15 @@ REGULAMENTO DE CONCURSOS PARA O SECRETARIADO NACIONAL DE REABILITAÇÃO
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º - 1 - O provimento dos lugares de ingresso e acesso do quadro de pessoal do Secretariado Nacional de Reabilitação faz-se nos termos do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, e do presente Regulamento.
+Artigo 1.º - 1 - O provimento dos lugares de ingresso e acesso do quadro de pessoal do Secretariado Nacional de Reabilitação faz-se nos termos do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, e do presente Regulamento.
 
 2 - O presente Regulamento aplica-se aos concursos de admissão e promoção nas modalidades documentais ou de prestação de provas previstas nos artigos 32.º a 37.º do citado decreto-lei e demais legislação.
 
-###### Art. 2.º - 1 - Os concursos referidos no número anterior serão abertos por despacho do Primeiro-Ministro ou da entidade em quem o mesmo delegar, sob proposta do secretário nacional.
+Art. 2.º - 1 - Os concursos referidos no número anterior serão abertos por despacho do Primeiro-Ministro ou da entidade em quem o mesmo delegar, sob proposta do secretário nacional.
 
 2 - O prazo de validade dos mesmos concursos é de três anos, destinando-se estes ao preenchimento de lugares vagos ou a vagar durante aquele período.
 
-###### Art. 3.º Os avisos de abertura do concurso serão publicados no Diário da República e deles constarão:
+Art. 3.º Os avisos de abertura do concurso serão publicados no Diário da República e deles constarão:
 
 a) O lugar a prover, o número de vagas e as condições de admissão;
 
@@ -118,7 +135,7 @@ h) As preferências a atender para efeitos de classificação dos concorrentes;
 
 i) Quaisquer outras indicações que forem julgadas necessárias para melhor esclarecimento dos interessados.
 
-###### Art. 4.º - 1 - Os requerimentos de admissão aos concursos serão dirigidos ao Primeiro-Ministro ou à entidade delegada e entregues no prazo de trinta dias a contar da data da publicação no Diário da República do respectivo aviso, no Secretariado Nacional de Reabilitação (Avenida do Conde de Valbom, 63 - 1000 Lisboa).
+Art. 4.º - 1 - Os requerimentos de admissão aos concursos serão dirigidos ao Primeiro-Ministro ou à entidade delegada e entregues no prazo de trinta dias a contar da data da publicação no Diário da República do respectivo aviso, no Secretariado Nacional de Reabilitação (Avenida do Conde de Valbom, 63 - 1000 Lisboa).
 
 2 - Tais requerimentos podem ser enviados pelo correio, sob registo postal, por forma que dêem entrada naquele serviço até ao último dia do prazo fixado para a sua entrega.
 
@@ -160,7 +177,7 @@ b) Referência breve sobre participação em missões de representação no estr
 
 ### CAPÍTULO II — Do júri
 
-###### Art. 5.º - 1 - Os júris dos concursos serão constituídos por um presidente e dois vogais.
+Art. 5.º - 1 - Os júris dos concursos serão constituídos por um presidente e dois vogais.
 
 2 - O presidente será o secretário nacional ou a entidade em quem delegar e os vogais serão nomeados pelo Primeiro-Ministro ou pessoa em quem tiver delegado, sob proposta daquele, de entre funcionários com categoria igual ou superior à do lugar a preencher.
 
@@ -176,11 +193,11 @@ b) Referência breve sobre participação em missões de representação no estr
 
 ### CAPÍTULO III — Admissão aos concursos e organização das listas
 
-###### Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, no prazo de cinco dias, para o início da fase de verificação dos processos dos candidatos.
+Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, no prazo de cinco dias, para o início da fase de verificação dos processos dos candidatos.
 
 2 - Se do exame feito aos documentos se reconhecer que existem deficiências, dúvidas ou omissões, serão os respectivos candidatos avisados para suprirem as faltas verificadas em prazo não superior a quinze dias, sob pena de exclusão.
 
-###### Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará a lista provisória dos candidatos admitidos e excluídos, a qual deverá ser enviada, para publicação no Diário da República, nos oito dias seguintes ao da deliberação.
+Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará a lista provisória dos candidatos admitidos e excluídos, a qual deverá ser enviada, para publicação no Diário da República, nos oito dias seguintes ao da deliberação.
 
 2 - Da deliberação do júri poderão os candidatos recorrer para o Primeiro-Ministro ou para a entidade em quem este tiver delegado, no prazo de dez dias a contar da data da publicação da lista, sendo de cinco dias o prazo para ser proferida decisão sobre o mesmo recurso, que terá efeito suspensivo.
 
@@ -192,15 +209,15 @@ b) Referência breve sobre participação em missões de representação no estr
 
 #### SECÇÃO I — Concursos documentais de admissão
 
-###### Art. 8.º - 1 - Nos concursos a que se refere esta secção, o júri terá particularmente em conta o grau de preparação especializada dos candidatos, avaliado através das habilitações literárias e da experiência profissional, assim como trabalhos da sua autoria, devendo fixar os critérios de classificação.
+Art. 8.º - 1 - Nos concursos a que se refere esta secção, o júri terá particularmente em conta o grau de preparação especializada dos candidatos, avaliado através das habilitações literárias e da experiência profissional, assim como trabalhos da sua autoria, devendo fixar os critérios de classificação.
 
 2 - O júri poderá solicitar aos candidatos elementos esclarecedores sobre a documentação apresentada.
 
-###### Art. 9.º - 1 - Finda a apreciação a que se refere o artigo anterior, proceder-se-á à classificação dos candidatos pelo júri, de acordo com a ordem relativa das qualidades apuradas.
+Art. 9.º - 1 - Finda a apreciação a que se refere o artigo anterior, proceder-se-á à classificação dos candidatos pelo júri, de acordo com a ordem relativa das qualidades apuradas.
 
 2 - As classificações serão expressas de 0 a 20 valores.
 
-###### Art. 10.º Em caso de igualdade de classificação, constituem condições de preferência:
+Art. 10.º Em caso de igualdade de classificação, constituem condições de preferência:
 
 a) Curriculum vitae que sugira melhor adaptação à função a desempenhar;
 
@@ -210,7 +227,7 @@ c) Maior antiguidade nos organismos e serviços do Estado.
 
 #### SECÇÃO II — Concursos documentais de promoção
 
-###### Art. 11.º - 1 - Nos concursos de promoção, para efeitos de avaliação do mérito dos candidatos, o júri fixará os critérios de classificação, os quais terão necessariamente em conta:
+Art. 11.º - 1 - Nos concursos de promoção, para efeitos de avaliação do mérito dos candidatos, o júri fixará os critérios de classificação, os quais terão necessariamente em conta:
 
 a) A classificação de serviço atribuída nos termos da legislação em vigor para a função pública;
 
@@ -236,13 +253,13 @@ f) O que tiver idade mais avançada.
 
 #### SECÇÃO III — Concursos de prestação de provas
 
-###### Art. 12.º - 1 - Os programas das provas a efectuar em concursos de admissão em carreiras e categorias para os quais a lei orgânica do Secretariado Nacional de Reabilitação ou a lei geral obrigue à sua realização serão aprovados por despacho do Primeiro-Ministro ou da entidade em quem delegar, mediante proposta do secretário nacional.
+Art. 12.º - 1 - Os programas das provas a efectuar em concursos de admissão em carreiras e categorias para os quais a lei orgânica do Secretariado Nacional de Reabilitação ou a lei geral obrigue à sua realização serão aprovados por despacho do Primeiro-Ministro ou da entidade em quem delegar, mediante proposta do secretário nacional.
 
 2 - Os programas das provas referidas no número anterior estarão à disposição dos candidatos, para consulta, na repartição administrativa, durante o prazo de abertura do concurso.
 
 3 - O tempo total da duração das provas será indicado no respectivo programa ou fixado pelo júri.
 
-###### Art. 13.º - 1 - Para cada prova serão elaborados previamente pelo júri três testes em conformidade com o respectivo programa aprovado, devendo a escolha do teste a executar pelos candidatos ser feita por sorteio.
+Art. 13.º - 1 - Para cada prova serão elaborados previamente pelo júri três testes em conformidade com o respectivo programa aprovado, devendo a escolha do teste a executar pelos candidatos ser feita por sorteio.
 
 2 - Os testes serão rubricados por todos os membros do júri e encerrados em sobrescritos lacrados e igualmente rubricados, mencionando-se em cada sobrescrito o número do respectivo teste, o concurso e a prova a que se destinam.
 
@@ -250,11 +267,11 @@ f) O que tiver idade mais avançada.
 
 4 - Quando for julgado conveniente, o presidente do júri mandará tirar fotocópias do teste sorteado, que serão distribuídas aos candidatos.
 
-###### Art. 14.º - 1 - No dia, hora e local designados para a prestação de provas, o júri procederá à chamada dos concorrentes pelas listas definitivas publicadas no Diário da República, identificando-os pelo bilhete de identidade.
+Art. 14.º - 1 - No dia, hora e local designados para a prestação de provas, o júri procederá à chamada dos concorrentes pelas listas definitivas publicadas no Diário da República, identificando-os pelo bilhete de identidade.
 
 2 - As provas serão prestadas pela ordem indicada no programa dos concursos, declarando o júri o início e o fim do período destinado a cada uma.
 
-###### Art. 15.º - 1 - Nas provas de dactilografia, quando o número de concorrentes for superior ao de máquinas disponíveis, serão aqueles divididos em tantos grupos quantos se mostrarem necessários, tomando-se em consideração, para a formação dos grupos, a ordem das listas definitivas.
+Art. 15.º - 1 - Nas provas de dactilografia, quando o número de concorrentes for superior ao de máquinas disponíveis, serão aqueles divididos em tantos grupos quantos se mostrarem necessários, tomando-se em consideração, para a formação dos grupos, a ordem das listas definitivas.
 
 2 - Antes do início das provas dactilográficas será concedido um período de cinco minutos para que os concorrentes possam estabelecer contacto com as máquinas em que irão realizar a prova.
 
@@ -264,13 +281,13 @@ f) O que tiver idade mais avançada.
 
 5 - No caso de deficiência mecânica que impeça o prosseguimento das provas dactilográficas, e desde que o candidato não possa passar a outro grupo, recomeçará a prova noutra máquina, procedendo-se a nova contagem de tempo para esse efeito.
 
-###### Art. 16.º - 1 - Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri.
+Art. 16.º - 1 - Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri.
 
 2 - Poderão, contudo, consultar livros, legislação ou apontamentos, se o júri assim o entender.
 
 3 - Nas provas de línguas poderão ser utilizados dicionários, de que os candidatos se poderão fazer acompanhar.
 
-###### Art. 17.º Serão excluídos os candidatos que durante as provas:
+Art. 17.º Serão excluídos os candidatos que durante as provas:
 
 a) Infringirem o disposto no artigo anterior;
 
@@ -280,7 +297,7 @@ c) Saírem do local onde decorrem as provas sem autorização do júri;
 
 d) Apresentarem as provas em papel diferente do que lhes for fornecido.
 
-###### Art. 18.º - 1 - Nos concursos de prestação de provas, os membros do júri, depois destas findas, darão prioridade à sua apreciação.
+Art. 18.º - 1 - Nos concursos de prestação de provas, os membros do júri, depois destas findas, darão prioridade à sua apreciação.
 
 2 - Apreciadas as provas, o júri reunirá para deliberar, organizando a lista de classificação pela ordem decrescente da valorização, atendendo às preferências a que se refere a alínea i) do artigo 3.º
 
@@ -298,7 +315,7 @@ e) Tempo ou número de palavras escritas, conforme os casos.
 
 4 - Para quaisquer outras provas poder-se-ão ter em conta, além dos factores referidos no número anterior, conhecimentos e experiência no âmbito da temática da reabilitação de deficientes conhecimentos e apurado espírito crítico em matérias relacionadas com o cargo a prover e referidas nos programas publicados.
 
-###### Art. 19.º Em caso de igualdade de classificação nos concursos de prestação de provas, são condições de preferência:
+Art. 19.º Em caso de igualdade de classificação nos concursos de prestação de provas, são condições de preferência:
 
 a) Maiores e mais adequadas habilitações literárias;
 
@@ -306,21 +323,21 @@ b) Curriculum vitae que sugira melhor adaptação as funções a desempenhar;
 
 c) Maior antiguidade na função pública.
 
-###### Art. 20.º - 1 - Os candidatos que, por motivo de doença, comprovada por atestado médico, não comparecerem às provas podem, quando assim o requeiram, ser admitidos a prestá-las dentro de oito dias após o concurso encerrado.
+Art. 20.º - 1 - Os candidatos que, por motivo de doença, comprovada por atestado médico, não comparecerem às provas podem, quando assim o requeiram, ser admitidos a prestá-las dentro de oito dias após o concurso encerrado.
 
 2 - O atestado deverá ser apresentado perante o júri até à hora do início das provas ou enviado ao respectivo presidente, em carta registada, dentro das quarenta e oito horas seguintes.
 
-###### Art. 21.º - 1 - O prazo para deliberação do júri e elaboração das listas finais de classificação no concurso não deverá exceder trinta dias, contados a partir da realização da última prova.
+Art. 21.º - 1 - O prazo para deliberação do júri e elaboração das listas finais de classificação no concurso não deverá exceder trinta dias, contados a partir da realização da última prova.
 
 2 - As listas de classificação serão enviadas, para publicação no Diário da República, no prazo máximo de oito dias a partir da data da homologação da respectiva acta final.
 
-###### Art. 22.º - 1 - A classificação final variará entre 0 e 20 valores.
+Art. 22.º - 1 - A classificação final variará entre 0 e 20 valores.
 
 2 - Cada uma das provas que constituem os concursos para as diversas categorias será também classificada entre 0 e 20 valores, fazendo-se no final a respectiva média.
 
 ### CAPÍTULO V — Recursos
 
-###### Art. 23.º - 1 Da classificação final dos candidatos, mediante requerimento fundamentado, cabe recurso, com efeito suspensivo, para o Primeiro-Ministro ou para a entidade em quem o mesmo delegar, a interpor no prazo de dez dias a partir da publicação da respectiva lista, sendo igualmente de dez dias o prazo para ser proferida decisão sobre o mesmo.
+Art. 23.º - 1 Da classificação final dos candidatos, mediante requerimento fundamentado, cabe recurso, com efeito suspensivo, para o Primeiro-Ministro ou para a entidade em quem o mesmo delegar, a interpor no prazo de dez dias a partir da publicação da respectiva lista, sendo igualmente de dez dias o prazo para ser proferida decisão sobre o mesmo.
 
 2 - A entidade recorrida despachará no sentido de o júri se pronunciar sobre as alegações produzidas pelo recorrente, após o que proferirá decisão final imediatamente.
 
@@ -330,7 +347,7 @@ c) Maior antiguidade na função pública.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 24.º - 1 - Tudo o que não estiver previsto neste diploma será regulado pela lei geral, que constituirá direito subsidiário deste Regulamento.
+Art. 24.º - 1 - Tudo o que não estiver previsto neste diploma será regulado pela lei geral, que constituirá direito subsidiário deste Regulamento.
 
 2 - As dúvidas serão resolvidas por despacho conjunto do Primeiro-Ministro ou da entidade em quem o mesmo delegar e do membro do Governo que tiver a seu cargo a função pública.
 

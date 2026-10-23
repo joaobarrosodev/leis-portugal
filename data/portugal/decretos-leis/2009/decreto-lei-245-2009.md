@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/245/2009/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2009-490409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56b7876705a22ab132ea3d869602ba8b03bf5b8f82d6e6aaddde435bce4cbbd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3415929862ff062f322ce028f46d9d4357ad44c25b095a31a1a61072f8823949
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Água
-- Recursos Hídricos
 - Domínio Público Marítimo
 - Fiscalização
 - Licenciamento
 - Proteção do Ambiente
-- Agência Portuguesa do Ambiente
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: Derrogadas as normas da Lei 58/2005 de 29-dez (com as alterações constantes do presente diploma), com a entrada em
+    vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de 10.04.2014, no que
+    sejam contrárias ao que está disposto naquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
+- type: amended_by
+  target: pt:dre:73807560:por
+  label: Alterado o art. 11.º do Dec Lei 147/2008, de 29-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º 13/2016
+    - Diário da República n.º 48/2016, Série I de 2016-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2016-73807560
+  date: '2016-03-09'
 - type: cites
   target: celex:32004L0035
   label: null
@@ -95,13 +108,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:12Z'
   warnings: []
   errors: []
 ---
@@ -204,12 +217,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Carlos Manuel Baptista Lobo - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Ascenso Luís Seixas Simões - Mário Lino Soares Correia - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 8 de Setembro de 2009.**
+Promulgado em 8 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Setembro de 2009.**
+Referendado em 9 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2009/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2009-488328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81dcd06af1f86a37ccf242aee3dee3ca78a6cc99511081da5bf5916f7087c65c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a73ab99fb415418c98830056faf4a9e1dd660587f949bc5c5f351d79b94216c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aproximação das Legislações
-- Poluição Atmosférica
 - Combustível
+- Gás Natural
 - Gasóleo
 - Homologação
-- Veículo
-- Proteção do Ambiente
 - Poluição
+- Poluição Atmosférica
+- Proteção do Ambiente
 - Regulamento
+- Veículo
 relationships:
 - type: cites
   target: celex:32005L0055
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/346/2007/10/17/p/dre
 article_structure:
-  article_count: 9
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:21Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +162,9 @@ d) Aos motores especificados na alínea qqq) do artigo seguinte, com excepção 
 
 2 - A partir da entrada em vigor do presente Regulamento e até às datas mencionadas no n.º 2 do artigo 10.º do Regulamento (CE) n.º [715/2007](https://data.europa.eu/eli/reg/2007/715/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Junho, no que se refere a novas homologações, e no n.º 3, no que se refere a extensões das homologações, podem continuar a ser concedidas homologações nos termos do presente Regulamento aos veículos das categorias N1, N2 e M2 com uma massa de referência inferior a 2610 kg.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -296,7 +298,9 @@ sss) 'Massa de referência' a massa do veículo em ordem de marcha, a que se sub
 
 ttt) 'Massa do veículo em ordem de marcha' a massa definida no n.º 2.6 do anexo i da Directiva n.º [2007/46/CE](https://data.europa.eu/eli/dir/2007/46/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de Setembro.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -348,15 +352,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 12 de Agosto de 2009.**
+Promulgado em 12 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Agosto de 2009.**
+Referendado em 14 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -790,7 +794,7 @@ Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - José Sócrat
 
 8.4.1.2 - Potência medida nas rodas do veículo: ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 9 - ...
 
@@ -928,11 +932,11 @@ O tempo de recolha de amostras por modo deve ser, pelo menos, de 4 segundos por 
 
 6.5 - Cálculo da emissão específica. - A emissão específica de partículas deve ser calculada segundo a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 6.6 - Factor de ponderação efectivo. - O factor de ponderação efectivo W(índice fei) para cada modo deve ser calculado segundo a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 O valor dos factores de ponderação efectivos deve estar compreendido num intervalo de (mais ou menos) 0,003 (0,005 para a marcha lenta) em torno dos factores de ponderação indicados no n.º 2.7.1 do presente anexo.
 
@@ -1006,19 +1010,19 @@ O valor dos factores de ponderação efectivos deve estar compreendido num inter
 
 1.6 - Resultados do ensaio de emissões de monóxido de carbono:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 1.7 - Resultados dos ensaios de opacidade dos fumos:
 
 1.7.1 - A regimes estabilizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 1.7.2 - Ensaios em aceleração livre:
 
 1.7.2.1 - Ensaio do motor em conformidade com o n.º 4.3 do anexo xvii do presente Regulamento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 1.7.2.2 - Em aceleração livre;
 
@@ -1058,11 +1062,11 @@ O valor dos factores de ponderação efectivos deve estar compreendido num inter
 
 #### Secção 1:...
 
-#### Secção 2: O número da Directiva ([2005/55/CE](https://data.europa.eu/eli/dir/2005/55/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Setembro).
+Secção 2: O número da Directiva ([2005/55/CE](https://data.europa.eu/eli/dir/2005/55/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Setembro).
 
 #### Secção 3:...
 
-#### Secção 4:...
+Secção 4:...
 
 #### Secção 5:...
 
@@ -1116,7 +1120,7 @@ O presente anexo é aplicável para efeitos de homologação de veículos equipa
 
 Figura 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf))](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/16300/0556605573.pdf)
 
 O símbolo acima mostra que o coeficiente de absorção corrigido é de 1,30 m(elevado a (mais ou menos)1).
 
@@ -1156,7 +1160,7 @@ O símbolo acima mostra que o coeficiente de absorção corrigido é de 1,30 m(e
 
 O presente anexo é aplicável para efeitos de homologação de veículos equipados com motores de ignição comandada e de motores desse tipo.
 
-# Parte 1
+Parte 1
 
 Ensaio de emissões de monóxido de carbono
 
@@ -1180,7 +1184,7 @@ Ensaio de emissões de monóxido de carbono
 
 3.2 - A menção dos combustíveis de referência no n.º 2.1 da secção 2 do anexo n.º 5 do Regulamento UNECE n.º 83 deve ser entendida como uma remissão para as especificações adequadas dos combustíveis de referência no anexo ix do Regulamento (regulamento de execução das fases Euro 5 e Euro 6).
 
-# Parte 2
+Parte 2
 
 Controlo das emissões de gases do cárter
 

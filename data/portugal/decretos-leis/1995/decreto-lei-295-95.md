@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/295/1995/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1995-691047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d6145c08a7892b057cf2409913c8baee7d290738e7a0c9cddd381dc66daa419
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b66cc94c5ea0a9d20eef5a05425cf3fed479500ae894843267bb1d2f49b26f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Associação Mutualista
 - Contabilidade
-- Gestão Financeira
 - Fundação
-- Saúde
+- Gestão Financeira
 - IPSS
 - Plano de Contas
 - Regimes Profissionais Complementares
+- Saúde
 - Segurança Social
 relationships:
 - type: amended_by
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422/1993/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1993/12/28/p/dre
+- type: cites
+  target: pt:dre:168779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649958:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:647296:por
+  label: "Revogado pelo DEC LEI.36-A/2011.09.03.2011.MFAP, DR.IS [48-Supl] de 09.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-a-2011-647296
+  date: '2011-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:40Z'
   warnings: []
   errors: []
 ---
@@ -115,13 +132,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado o Plano de Contas das Associações Mutualistas, adiante designado por PCAM, anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º - 1 - É aprovado o Plano de Contas das Associações Mutualistas, adiante designado por PCAM, anexo ao presente diploma, que dele faz parte integrante.
 
 2 - Ficam sujeitas à aplicação do PCAM as associações mutualistas, bem como as instituições particulares de solidariedade social constituídas sob a forma de fundação com o escopo exclusivo de gerir regimes profissionais complementares.
 
-###### Art. 2.º As instituições referidas no artigo anterior ficam obrigadas, no fim de cada ano, à apresentação das peças finais do PCAM, à excepção dos mapas «Demonstração das variações dos fundos circulantes» e «Origens e aplicação de fundos», os quais são de apresentação facultativa.
+Art. 2.º As instituições referidas no artigo anterior ficam obrigadas, no fim de cada ano, à apresentação das peças finais do PCAM, à excepção dos mapas «Demonstração das variações dos fundos circulantes» e «Origens e aplicação de fundos», os quais são de apresentação facultativa.
 
-###### Art. 3.º - 1 - As instituições sujeitas ao PCAM adoptarão obrigatoriamente os seguintes livros de contabilidade:
+Art. 3.º - 1 - As instituições sujeitas ao PCAM adoptarão obrigatoriamente os seguintes livros de contabilidade:
 
 a) Inventário e balanços;
 
@@ -131,21 +148,21 @@ c) Razão e balancetes.
 
 2 - Os livros referidos no número anterior são apresentados ao Ministro do Emprego e da Segurança Social a fim de ser lançado um termo de abertura e um de encerramento.
 
-###### Art. 4.º Fica revogado o [Decreto-Lei n.º 422/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1993-168779), de 28 de Dezembro.
+Art. 4.º Fica revogado o [Decreto-Lei n.º 422/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1993-168779), de 28 de Dezembro.
 
-###### Art. 5.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1995.
+Art. 5.º O presente diploma reporta os seus efeitos a 1 de Janeiro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 29 de Setembro de 1995.**
+Promulgado em 29 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1995.**
+Referendado em 3 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Plano de Contas das Associações Mutualistas
 
@@ -315,25 +332,25 @@ Se a construção for por partes isoláveis, logo que cada parte estiver complet
 
 Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Demonstração dos resultados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Demonstração dos resultados das modalidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Demonstração dos resultados das valências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Demonstração dos resultados das actividades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
-## Anexo ao balanço e à demonstração dos resultados
+Anexo ao balanço e à demonstração dos resultados
 
 1 - Indicação e justificação das disposições no PCAM que, em casos excepcionais, tenham sido derrogadas e dos respectivos efeitos nas demonstrações financeiras, tendo em vista a necessidade de estes darem uma imagem verdadeira e apropriada do activo, do passivo e dos resultados da instituição.
 
@@ -357,29 +374,29 @@ c) Outras actividades.
 
 Activo bruto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Amortizações e provisões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 8 - Composição da carteira de títulos segundo o seguinte quadro:
 
 Inventário de títulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 9 - Inventário das participações financeiras, no caso das participações de capital em empresas atingirem um montante igual ou superior a 20% do seu capital, como segue:
 
 Inventário de participações financeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 10 - Indicação dos diplomas legais em que se baseou a reavaliação de imobilizações corpóreas ou de investimentos financeiros. Quando tiver havido outro modelo de reavaliação, explicitação dos métodos de tratamento da inflação adoptados para o cálculo.
 
 11 - Elaboração de um quadro discriminativo das reavaliações, do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 12 - Indicação dos bens utilizados em regime de locação financeira, com menção dos respectivos valores contabilísticos.
 
@@ -397,23 +414,23 @@ Inventário de participações financeiras
 
 19 - Desdobramento das contas de provisões acumuladas e explicitação dos movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 20 - Evidenciação do valor dos fundos permanentes das modalidades associativas, de acordo com os quadros seguintes:
 
 Relação dos fundos permanentes das modalidades associativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Património afecto às modalidades associativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 21 - Relação dos fundos autónomos dos regimes profissionais complementares com as provisões calculadas, quando constituam património das fundações.
 
 Relação dos fundos autónomos dos regimes profissionais complementares com as provisões calculadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 22 - Indicação das variações das reservas de reavaliação ocorridas no exercício, salientando:
 
@@ -429,25 +446,25 @@ O saldo no termo do exercício.
 
 24 - Demonstração do custo das mercadorias vendidas e das matérias consumidas, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 25 - Demonstração da variação da produção, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 27 - Indicação, global para cada um dos órgãos, das remunerações atribuídas aos membros dos órgãos sociais que estejam relacionados com o exercício das respectivas funções. Responsabilidades assumidas relativamente a pensões de reforma dos antigos membros dos órgãos referidos.
 
 27 - Demonstração dos resultados financeiros, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 28 - Evidenciação dos rendimentos de imóveis, segundo o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 29 - Demonstração dos resultados extraordinários, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 30 - Relação dos fundos autónomos dos regimes profissionais geridos pelas associações, com indicação dos activos líquidos de cada um, valorizados a preços de mercado.
 
@@ -457,15 +474,15 @@ O saldo no termo do exercício.
 
 Demonstração da origem e da aplicação de fundos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Demonstração das variações dos fundos circulantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Quadro das contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
 
 Código das contas
 
@@ -3013,4 +3030,4 @@ O resultado do exercício será transferido para a conta 01018 «Reservas».
 
 Conta de exploração previsional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf))](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/266a00/70507079.pdf)

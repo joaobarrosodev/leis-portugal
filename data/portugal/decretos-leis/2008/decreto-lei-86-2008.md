@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2008/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2008-449177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721cce5c34c41882b3a59ed6ab3b3b0a6655eb96f317349ade92cccc3a58ddbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ec4003083a72051ee544402aaf9ecd8bfd1371ae75063f0edec812283e52a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Amarante
+- Auto-estrada
 - Auto-estrada IP 4 - Amarante-vila REAL
+- Bragança
 - Contrato de Concessão
 - Rede de Estradas
-- Auto-estrada
-- Vila Real
-- Bragança
 - Serra do Marão
+- Vila Real
 relationships:
 - type: cites
   target: celex:31997L0011
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:37Z'
   warnings: []
   errors: []
 ---
@@ -157,15 +157,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Abril de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Maio de 2008.**
+Promulgado em 21 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Maio de 2008.**
+Referendado em 23 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Bases da Concessão
 
@@ -1115,7 +1115,7 @@ Para efeitos da aplicação das tarifas de portagem, tem-se:
 
 a) As seguintes classes de veículos, por ordem crescente do respectivo valor tarifário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 b) Os veículos ligeiros de passageiros e mistos, tal como definidos no Código da Estrada, com dois eixos, peso bruto superior a 2300 kg e inferior ou igual a 3500 kg, com lotação igual ou superior a cinco lugares e uma altura, medida à vertical do primeiro eixo do veículo, igual ou superior a 1,1 m e inferior a 1,3 m, desde que não apresentem tracção às quatro rodas permanente ou inserível, pagam a tarifa de portagem relativa à classe 1 quando utilizem o sistema de pagamento automático;
 
@@ -1139,7 +1139,7 @@ Tarifas e taxas de portagem
 
 6 - As tarifas de portagem podem ser actualizadas anualmente, no 1.º mês de cada ano civil tendo em atenção a evolução do índice de preços no consumidor, sem habitação, para o continente, de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 7 - O incumprimento do projecto de obra ou de qualquer das condições mínimas de circulação, segurança, sinalização e informação, no troço em obras, previstas nos artigos 1.º a 8.º da Lei n.º 24/2007, de 18 de Julho, obriga à restituição ou não cobrança, ao utente, da taxa de portagem referente ao troço ou sublanço em obras.
 
@@ -1381,21 +1381,21 @@ Remuneração da concessão
 
 1 - A Concessionária recebe uma remuneração anual, calculada nos termos da fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 2 - A componente da remuneração anual relativa à disponibilidade para cada sublanço j em cada ano é calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 3 - O valor da tarifa de disponibilidade definido para cada ano t não é actualizável durante a vigência do Contrato de Concessão.
 
 4 - A componente da remuneração anual relativa ao serviço prestado pela Concessionária efectivamente verificado em cada ano é calculada de acordo com a fórmula seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 5 - O montante total das deduções a efectuar em cada ano, a que se refere o n.º 1, é calculado de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 6 - Considera-se existir uma falha de disponibilidade quando alguma das condições de indisponibilidade definidas no anexo n.º 12 se verificar.
 
@@ -1403,15 +1403,15 @@ Remuneração da concessão
 
 a) O índice de sinistralidade da concessão calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 b) O índice de sinistralidade de todas as concessões com portagem real calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 c) O índice de sinistralidade ponderado calcular-se-á nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 8 - Sempre que se verifique
 
@@ -1429,11 +1429,11 @@ a Concessionária deduz à remuneração anual da Concessionária um valor calcu
 
 a) Incremento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 b) Dedução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 11 - No caso de o último sublanço da Concessão entrar em serviço em mês diverso de Janeiro ou no caso de a Concessão terminar em mês diverso de Dezembro, são feitos os necessários ajustes ao cálculo dos prémios e multas aplicáveis, na proporção dos meses inteiros que decorrerem até Dezembro, no primeiro caso, ou dos meses inteiros que decorrerem entre Janeiro e o Termo da Concessão, no segundo.
 
@@ -1763,7 +1763,7 @@ Regime dominial
 
 4 - No fim do prazo da concessão cessam para a Concessionária todos os direitos emergentes do contrato de concessão, sendo entregues ao Concedente, livres de quaisquer ónus ou encargos, todos os bens que constituem o estabelecimento da concessão, em estado que satisfaça as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
 
 Todos os bens não contemplados no quadro anterior devem ser entregues em estado que garanta 50 % da vida útil de cada um dos seus componentes.
 
@@ -2007,4 +2007,4 @@ Taxa de gestão de contrato
 
 A Concessionária tem de pagar anualmente ao InIR uma taxa de gestão do contrato, para suporte das despesas do InIR com o acompanhamento, gestão e fiscalização da concessão, calculada de acordo com a expressão seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10200/0296802997.pdf)

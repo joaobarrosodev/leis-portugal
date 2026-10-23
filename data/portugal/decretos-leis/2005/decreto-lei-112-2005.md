@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2005-235911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e4f4e1bd031c73197e3abb88cc40470b914792a48f83c291c2af8cafe2ea682
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7215c4a7a60e3bc8e9112b9dffd411cb924b55cdfc97f2ad24c56258c92a310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
+- Artes de Pesca
 - CAÇA Submarina
 - Contra-ordenação
 - Direcção Geral das Pescas e Aquicultura
+- Embarcação
 - Fiscalização
-- Pesca
 - Licenciamento
+- Pesca
 - Pesca Desportiva
-- Artes de Pesca
 - Taxa
 - ZONA de Pesca
 relationships:
@@ -83,20 +83,36 @@ relationships:
   target: pt:dre:498751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518464:por
+  label: "Alterados os arts. 12º-A, 13º, 13º-A e 14º do Dec Lei 246/2000, de 29-Set, na redacção do presente diploma, pelo\
+    \ DEC LEI.56/2007.13.03.2007.MADRP, DR.IS [51] de 13.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2007-518464
+  date: '2007-03-13'
+- type: amended_by
+  target: pt:dre:498751:por
+  label: "Dada nova redação aos arts. 2º, 12º-A, 13º, 13º-A e 14º do Dec Lei 246/2000 de 29-set, alterado pelo presente diploma,\
+    \ pelo DEC LEI.101/2013.25.07.2013.MAMAOT, DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2013-498751
+  date: '2013-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:47Z'
   warnings: []
   errors: []
 ---
@@ -141,17 +157,23 @@ Os artigos 2.º, 5.º, 8.º, 13.º, 14 .º, 17.º e 20.º do [Decreto-Lei n.º 2
 
 4 - A pesca submarina, enquanto actividade que pode revestir as modalidades de pesca lúdica a que se refere o n.º 2, rege-se pelas disposições do presente diploma e sua regulamentação, sem prejuízo de legislação especial que a venha a regular.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A pesca turística é a pesca de lazer destinada a turistas, realizada no âmbito das actividades marítimo-turísticas, nos termos previstos no Regulamento da Actividade Marítimo-Turística e promovida por entidades licenciadas para o efeito.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - No exercício da pesca lúdica, na modalidade desportiva, podem ser utilizadas embarcações registadas na pesca, nas condições a definir na regulamentação a que se refere o artigo 10.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A coordenação da vigilância, fiscalização e controlo das actividades previstas no presente diploma e respectiva legislação complementar compete à Direcção-Geral das Pescas e Aquicultura, enquanto autoridade nacional de pesca na área da inspecção.
 
@@ -159,7 +181,9 @@ A pesca turística é a pesca de lazer destinada a turistas, realizada no âmbit
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 500 e nos montantes máximos de (euro) 3740 ou (euro) 24939, consoante o agente seja pessoa singular ou colectiva:
 
@@ -209,13 +233,17 @@ g) Exercer qualquer actividade de pesca com fins lucrativos, bem como ter a bord
 
 h) Exercer a pesca lúdica sem respeitar as distâncias mínimas entre praticantes, nos termos definidos na regulamentação do presente diploma.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
 2 - Nos restantes casos, compete ao subdirector-geral das pescas com competências na área da inspecção a aplicação das coimas e sanções acessórias previstas no presente diploma.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A regulamentação dos artigos 9.º, 10.º, 11.º, 12.º e do regime das taxas previstas no artigo 12.º-A compete, nas Regiões Autónomas, aos órgãos de governo próprio.
 
@@ -233,7 +261,9 @@ Taxas
 
 2 - A portaria a que se refere o n.º 1 estabelece a percentagem do produto das taxas que se destina a financiar os custos inerentes à implementação e administração do licenciamento e à vigilância, fiscalização e controlo da actividade da pesca lúdica, de acordo com os objectivos e os meios definidos e previstos no plano anual de fiscalização.
 
-###### Artigo 13.º-A — Plano anual de fiscalização
+Artigo 13.º-A
+
+Plano anual de fiscalização
 
 1 - A Direcção-Geral das Pescas e Aquicultura, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos Ministérios da Administração Interna, das Finanças, da Defesa Nacional, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, um plano anual de vigilância, fiscalização e controlo da actividade da pesca lúdica, que define os objectivos a atingir e os correspondentes meios humanos e materiais afectos às acções a empreender no respectivo período.
 
@@ -245,12 +275,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Manuel Lobo Antunes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 23 de Junho de 2005.**
+Promulgado em 23 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 2005.**
+Referendado em 27 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

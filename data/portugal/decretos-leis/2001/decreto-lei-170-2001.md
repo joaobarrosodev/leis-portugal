@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2001/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2001-332750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b905e8b0764a84208953f6d09cff2305121c709633fee6036f232f4b0fac5c3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd721836d6c1edb2bdcf6c849d4dd2cee544d2f69cb244827e02a551c48b45fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contra-ordenação
+- Contrato de Trabalho
 - Contrato Individual de Trabalho
 - Direito do Trabalho
-- Segurança no Trabalho
-- Menoridade
-- Trabalho de Menores
-- Contrato de Trabalho
-- Regime Jurídico
 - Horário de Trabalho
+- Menoridade
+- Regime Jurídico
 - Sanção
+- Segurança no Trabalho
+- Trabalho de Menores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/396/1991/10/16/p/dre
@@ -102,16 +102,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1999/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1999/06/30/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662899:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:15Z'
   warnings: []
   errors: []
 ---
@@ -198,12 +242,12 @@ O presente diploma entra em vigor no dia 1 do segundo mês posterior à sua publ
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2001. - Jaime José Matos da Gama - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 11 de Maio de 2001.**
+Promulgado em 11 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Maio de 2001.**
+Referendado em 17 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

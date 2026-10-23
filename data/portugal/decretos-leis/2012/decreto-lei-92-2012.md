@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/04/07500/0198801997.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2012/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2012-552779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c49ab059db3c9d5ffbc53e8be0264dcad398136bc83cc7f36c802488fa98b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe4d04dfa51eec1d4d071164678850b773f0e29530c68e77402939b69d3d74b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ subjects:
 - Definição de Competências
 - Estatuto
 - Fiscal
-- Sistema de Normalização Contabilística
 - Fundação CEFA
 - Remuneração
+- Sistema de Normalização Contabilística
 relationships:
 - type: amended_by
   target: pt:dre:70280716:por
@@ -91,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/28/2010/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/28/2010/04/08/p/dre
+- type: cites
+  target: pt:dre:477127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70280716:por
+  label: Revogado (a partir de 15.09.2015) o Dec Lei 98/2009 de 28-abr DR.IS [82], na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 193/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-2015-70280716
+  date: '2015-09-14'
 article_structure:
-  article_count: 62
+  article_count: 46
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:11Z'
   warnings: []
   errors: []
 ---
@@ -137,17 +155,23 @@ Os artigos 9.º, 10.º, 13.º, 14.º, 15.º, 21.º, 22.º, 23.º, 25.º, 26.º, 
 
 A organização contabilística é estabelecida em conformidade com o Sistema de Normalização Contabilística, com as adaptações que se revelem necessárias, devendo permitir a fiscalização permanente, bem como a verificação da relação existente entre os valores patrimoniais e financeiros e os correspondentes elementos contabilísticos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O conselho geral da Fundação pode, sob proposta do conselho de administração e ouvido o fiscal único, aprovar a constituição dos fundos de reserva que se revelem necessários.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
 2 - Os documentos referidos no número anterior são objeto de apreciação e parecer do fiscal único, até 15 de março, devendo a sua apreciação e aprovação pelo conselho geral ter lugar até 30 de março, tendo em vista o seu envio ao membro do Governo responsável pela área da administração local, para efeitos de homologação até 30 de abril.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 São órgãos da Fundação:
 
@@ -159,7 +183,9 @@ c) ...
 
 d) Fiscal único.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +193,9 @@ d) Fiscal único.
 
 3 - Os membros dos órgãos designados podem ser substituídos a todo o tempo pelas entidades que representam e, neste caso, os respetivos substitutos mantêm-se em funções até à data em que cesse o impedimento que determinou a substituição ou até ao termo do mandato dos substituídos, quando as representadas assim o entenderem.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O conselho geral é composto por 11 membros.
 
@@ -185,7 +213,9 @@ e) Um vogal em representação de instituições ligadas à ciência e tecnologi
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -213,7 +243,9 @@ l) ...
 
 m) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O conselho geral reúne, em sessão ordinária, duas vezes por ano, para discutir e aprovar os planos e orçamentos, anuais e plurianuais, bem como os relatórios e contas anuais apresentados pelo conselho de administração, e, extraordinariamente, sempre que convocado pelo seu presidente, ou por proposta de, pelo menos, três dos seus membros designados.
 
@@ -221,7 +253,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O conselho de administração é composto pelo presidente e dois vogais não executivos.
 
@@ -235,7 +269,9 @@ c) Um vogal em representação das freguesias, indicado pela ANAFRE;
 
 d) (Revogada.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 ...
 
@@ -261,7 +297,9 @@ j) Deliberar, precedendo aprovação do conselho geral e parecer do fiscal únic
 
 l) ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A remuneração do presidente do conselho de administração é fixada por equiparação ao valor que resulta da soma da remuneração com outras atribuições patrimoniais auferidas por um presidente de câmara de um município com 10 000 a 40 000 eleitores.
 
@@ -283,17 +321,23 @@ f) ...
 
 4 - Aos membros não executivos do conselho de administração é aplicável o disposto no artigo 24.º
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 O conselho de administração reúne ordinariamente com periodicidade mensal e extraordinariamente sempre que convocado pelo seu presidente ou por solicitação de dois dos seus membros.
 
-###### Artigo 32.º — Fiscal único
+Artigo 32.º
+
+Fiscal único
 
 1 - A fiscalização da Fundação compete ao fiscal único, que deve ser um revisor oficial de contas ou uma sociedade de revisores oficiais de contas.
 
 2 - O fiscal único terá sempre um suplente, que será igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.
 
-###### Artigo 33.º — Competência do fiscal único
+Artigo 33.º
+
+Competência do fiscal único
 
 1 - Compete ao fiscal único:
 
@@ -327,17 +371,23 @@ n) [Anterior alínea m).]
 
 3 - Aplica-se ao fiscal único, com as necessárias adaptações, o regime de incompatibilidades estabelecido no Código das Sociedades Comerciais para os órgãos de fiscalização das sociedades anónimas.
 
-###### Artigo 34.º — Reuniões com o conselho de administração
+Artigo 34.º
+
+Reuniões com o conselho de administração
 
 O fiscal único reúne com o presidente do conselho de administração, ordinariamente, com periodicidade trimestral e, extraordinariamente, sempre que o presidente o julgue necessário ou a requerimento de qualquer membro do conselho.
 
-###### Artigo 35.º — Regime remuneratório
+Artigo 35.º
+
+Regime remuneratório
 
 1 - O fiscal único aufere a remuneração estabelecida por contrato, de acordo com os limites estabelecidos pela tabela oficial em vigor.
 
 2 - (Revogado.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -365,15 +415,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2012. - Pedro Passos Coelho - Miguel Fernando Cassola de Miranda Relvas.
 
-**Promulgado em 15 de março de 2012.**
+Promulgado em 15 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de março de 2012.**
+Referendado em 19 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

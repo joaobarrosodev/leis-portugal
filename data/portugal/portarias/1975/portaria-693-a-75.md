@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 272/1975, 1º Suplemento, Série I de 1975-11-24
   number: '272'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1888-(1) a 1888-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/11/27201/00010004.pdf
 entry_into_force_dates: []
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-a-1975-425522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9007cf59fcb80664fb82cd2fec3c5cd0cd9cffb923eaa6ec432066e816edc609
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59f47181ffcfec6c4511468d8d91b193b35e4a6778ab92ee0ee80c4c96151de2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação de Conhecimentos
+- Concurso
+- Farmacêutico
+- Forças Armadas
+- Médico
+- Militar
+- Quadro Permanente do Exército
+- Recrutamento de Pessoal
+- Regulamento
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:619944:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181421:por
+  label: "Dada nova redacção à al. 2) do n.º 9.º, n.º 25.º e n.º 26.º do presente diploma , pela PORT.372/85.18.06.1985.MDN,\
+    \ DR.IS [137] de 18.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/372-1985-181421
+  date: '1985-06-18'
+- type: amended_by
+  target: pt:dre:619944:por
+  label: "Alteradas as als. c) e e) do nº 2º pela PORT.547/89.1989.07.17.MDN DR.IS [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/547-1989-619944
+  date: '1989-07-17'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:07Z'
   warnings: []
   errors: []
 ---

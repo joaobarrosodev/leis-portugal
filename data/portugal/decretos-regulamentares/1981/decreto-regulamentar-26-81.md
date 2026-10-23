@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1981-579159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48310109bf29c577863d35280f9709c9f1a36509a238ee863ead3a69e8cbf7f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 981123b150384158dba17261ac9b1dd941df326f2fe3d0b5835676b60035a8a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono Complementar a Crianças e Jovens Deficientes
+- Abono de Família
+- Prestações Familiares
+- Segurança Social
+- Subsídio de Aleitação
+- Subsídio de Casamento
+- Subsídio de Funeral
+- Subsídio de Nascimento
+- Subsídio Mensal Vitalicio
 relationships:
 - type: amended_by
   target: pt:dre:392817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392817:por
+  label: "Alterados os valores das prestações pecuniárias fixadas pelo presente diploma, pelo DR.25/82.1982.05.05.MFP, DR.IS\
+    \ [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1982-392817
+  date: '1982-05-05'
+- type: cites
+  target: pt:dre:474482:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:51Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +119,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 20/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1980-474482), de 27 de Maio, são alterados nos termos do presente diploma.
+Artigo 1.º Os valores das prestações pecuniárias fixadas no [Decreto Regulamentar n.º 20/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1980-474482), de 27 de Maio, são alterados nos termos do presente diploma.
 
-###### Art. 2.º - 1 - O abono de família é atribuído nos montantes mensais seguintes:
+Art. 2.º - 1 - O abono de família é atribuído nos montantes mensais seguintes:
 
 a) Um descendente, 350$00;
 
@@ -114,7 +133,7 @@ d) Por cada descendente a mais, 500$00.
 
 2 - O montante mensal do abono de família relativamente ao quarto descendente e seguintes será, porém, de 700$00, tratando-se de agregados familiares cujos rendimentos líquidos mensais sejam inferiores a uma vez e meia a remuneração mínima garantida à generalidade dos trabalhadores.
 
-###### Art. 3.º - 1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:
+Art. 3.º - 1 - O abono complementar a crianças e jovens deficientes é atribuído nos montantes mensais e dentro dos limites de idade seguintes:
 
 a) 600$00, até aos 14 anos de idade;
 
@@ -124,7 +143,7 @@ c) 1400$00, até aos 24 anos de idade.
 
 2 - O subsídio mensal vitalício é concedido no montante mensal de 1800$00.
 
-###### Art. 4.º - 1 - O montante do subsídio de nascimento é de 4500$00.
+Art. 4.º - 1 - O montante do subsídio de nascimento é de 4500$00.
 
 2 - O quantitativo mensal do subsídio de aleitação é de 900$00.
 
@@ -132,12 +151,12 @@ c) 1400$00, até aos 24 anos de idade.
 
 4 - O montante do subsídio de funeral é de 5000$00.
 
-###### Art. 5.º O presente diploma entra em vigor em 1 de Junho de 1981.
+Art. 5.º O presente diploma entra em vigor em 1 de Junho de 1981.
 
 Francisco José Pereira Pinto Balsemão - João António de Morais Leitão - Carlos Matos Chaves de Macedo - Eusébio Marques de Carvalho.
 
-**Promulgado em 31 de Maio de 1981.**
+Promulgado em 31 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

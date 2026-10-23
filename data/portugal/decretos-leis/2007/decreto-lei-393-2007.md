@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/393/2007/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-2007-628016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b43836da7d20f6ee5706d1f6ad5ffb1330549886a6fe5fd9b0d6fda183adb8d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7edca5275e47af46faf657996c09a9396d7908352821159b3b61499dd590d187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,52 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código do IVA
-- Política Fiscal
 - Imposto Especial sobre o Consumo
 - IVA
+- Política Fiscal
 - Transacção Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:58585557:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 6º e 26º do Regime do IVA nas Transacções Intracomunitárias, aprovado pelo Dec Lei 290/92, de\
+    \ 28-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 6.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterado, a partir de 01.01.2011, o art. 6º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 16º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 6.º e 16.º do Código do Imposto sobre o Valor Acrescentado, aprovado\
+    \ pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de\
+    \ 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:58585557:por
+  label: Alterado, com efeitos a partir de 01.01.2015, o art. 6.º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 158/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2014-58585557
+  date: '2014-10-24'
 - type: cites
   target: celex:32005R1777
   label: null
@@ -91,15 +128,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2006/112/oj
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:31Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +213,7 @@ b) Quando a operação a que se refere a intermediação se localize noutro Esta
 
 23 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -240,7 +277,7 @@ b) ...
 
 3 - ...
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
@@ -264,12 +301,12 @@ O presente decreto-lei entra em vigor no dia 1 de Janeiro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 29 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 19 de Dezembro de 2007.**
+Promulgado em 19 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2007.**
+Referendado em 20 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

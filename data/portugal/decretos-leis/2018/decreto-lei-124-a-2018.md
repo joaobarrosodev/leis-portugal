@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6368-(2) a 6368-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/25101/0000200054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124-a/2018/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93eb1531c10df5772b1f38348454c09e34ee07d6f81b7ae29aa013874442619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08c51ff74282a4395496d48036f0b9e3ca3a243927800d1facf54e6fa1e381dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Autoridade da Mobilidade e dos Transportes
 - Bagagem
-- Direito de Acesso
-- Empresa
 - Bilheteira
 - Contra-ordenação
-- Transporte Ferroviário
-- Portugal
+- CP Carga
+- Deficiente
 - Deficiente Visual
-- Pessoa em Situação de Dependência
-- Domínio Público Ferroviário
+- Direito de Acesso
+- Documentos do Veículo
 - Domínio Público do Estado
+- Domínio Público Ferroviário
+- Empresa
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
-- Proteção ao Deficiente
+- Pessoa em Situação de Dependência
+- Portugal
 - Preço
+- Proteção ao Deficiente
 - Rede Ferroviária
 - Refer
 - Regulamento
@@ -92,10 +92,10 @@ subjects:
 - Tarifa Geral de Transportes
 - Trabalhador
 - Transporte de Carga
-- CP Carga
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Internacional
-- Autoridade da Mobilidade e dos Transportes
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:205557185:por
@@ -201,16 +201,184 @@ relationships:
   target: eli:http://data.europa.eu/eli/r
   label: null
   source: http://data.europa.eu/eli/r
+- type: cites
+  target: pt:dre:140549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65943541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66674047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70476205:por
+  label: null
+  source: null
 article_structure:
-  article_count: 177
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 14
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:08Z'
   warnings: []
   errors: []
 ---
@@ -329,7 +497,9 @@ v) [Anterior alínea t).]
 
 x) [Anterior alínea u).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -341,7 +511,9 @@ x) [Anterior alínea u).]
 
 5 - As disposições do contrato de transporte não podem limitar ou excluir direitos previstos no presente decreto-lei, mas podem conferir direitos adicionais.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -385,7 +557,9 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 10 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -399,11 +573,15 @@ c) Informar os passageiros dos atrasos e das horas previstas de partida e chegad
 
 6 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 As condições de transporte e entrega de automóveis ou motociclos são definidas pelo operador e estão sujeitas a aprovação da autoridade de transportes competente.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -427,7 +605,9 @@ b) Até 30 minutos antes do início da viagem, quando se trate de serviços de t
 
 9 - [...].
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 1 - [...].
 
@@ -449,7 +629,9 @@ d) O passageiro seja titular de uma assinatura, passe ou título de transporte s
 
 6 - [...].
 
-###### Artigo 20.º — Fixação de preços
+Artigo 20.º
+
+Fixação de preços
 
 1 - [...]:
 
@@ -461,7 +643,9 @@ c) [Revogada].
 
 2 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -473,7 +657,9 @@ c) [Revogada].
 
 5 - [Revogado].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sem prejuízo de os operadores praticarem uma política comercial com descontos para determinado segmento de passageiros, podem ser definidos por lei ou regulamento ou contratualmente estipulados regimes tarifários sociais bonificados aplicáveis aos serviços públicos de transporte ferroviário de passageiros.
 
@@ -483,7 +669,9 @@ c) [Revogada].
 
 4 - [...].
 
-###### Artigo 32.º — Deveres de informação
+Artigo 32.º
+
+Deveres de informação
 
 1 - Os operadores devem comunicar anualmente, à autoridade de transportes competente, os serviços públicos de transporte ferroviário de passageiros em exploração nos termos do artigo 22.º do regime jurídico do serviço público de transporte de passageiros, aprovado pela [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, incluindo as alterações que se verificarem, nos termos do regime legal ou contratual que lhes for aplicável.
 
@@ -491,13 +679,17 @@ c) [Revogada].
 
 3 - As empresas ferroviárias que prestam serviços de transporte de passageiros devem elaborar planos de emergência e assegurar que esses planos de emergência são devidamente coordenados para prestar assistência aos passageiros, na aceção do artigo 18.º do [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, em caso de perturbação importante dos serviços.
 
-###### Artigo 33.º — Dever de cooperação
+Artigo 33.º
+
+Dever de cooperação
 
 1 - Os operadores devem apresentar, quando tal lhes seja solicitado pela AMT, toda a informação necessária para atestar a conformidade dos procedimentos e práticas adotadas em cumprimento do disposto no presente decreto-lei.
 
 2 - [...].
 
-###### Artigo 34.º — Supervisão e fiscalização
+Artigo 34.º
+
+Supervisão e fiscalização
 
 1 - A supervisão e fiscalização do cumprimento das obrigações que incumbem ao operador ou ao gestor de infraestrutura, por força do disposto no presente decreto-lei, cabem às autoridades de transportes previstas na [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, e à AMT.
 
@@ -505,7 +697,9 @@ c) [Revogada].
 
 3 - O incumprimento a que se refere o número anterior é lavrado em auto de notícia, segundo modelo a aprovar pela AMT.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A instrução dos processos por contraordenações previstas no presente decreto-lei compete à AMT.
 
@@ -539,7 +733,9 @@ Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 137-A/2009](https://diariodare
 
 A CP, E. P. E., rege-se pelo disposto no [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, pelo presente decreto-lei e estatutos anexos, que dele fazem parte integrante, e pela demais legislação aplicável.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A CP, E. P. E., tem por objeto principal a prestação de serviços de transporte ferroviário de passageiros em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.
 
@@ -553,7 +749,9 @@ A CP, E. P. E., rege-se pelo disposto no [Decreto-Lei n.º 133/2013](https://dia
 
 6 - As condições de gestão e exploração das estações a que respeita a atividade referida na alínea d) do n.º 3 são objeto de contrato a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Nos termos dos artigos 3.º e 5.º do regime jurídico do serviço público de transporte de passageiros, aprovado em anexo à [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual:
 
@@ -631,7 +829,9 @@ Objeto
 
 2 - [...].
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - Sem prejuízo do disposto nos números seguintes, o presente decreto-lei aplica-se à utilização da infraestrutura ferroviária à disposição das empresas ferroviárias, conforme descrita no diretório da rede, para a prestação de serviços ferroviários de transporte de passageiros e de mercadorias nacionais e internacionais.
 
@@ -661,7 +861,9 @@ b) Cujas funções essenciais sejam exercidas por um organismo não controlado p
 
 12 - Sem prejuízo do disposto nos números anteriores, podem ser impostos às empresas ferroviárias requisitos de acesso à atividade e utilizações das infraestruturas ferroviárias excluídas do âmbito de aplicação do presente decreto-lei, por deliberação do IMT, I. P., de acordo com as regras de acesso à atividade, de âmbito nacional ou europeu, aplicáveis.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -757,7 +959,9 @@ ss) «Sistemas e serviços inteligentes de transportes», os sistemas associados
 
 tt) [Anterior alínea dd)].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O gestor de infraestrutura que realize a gestão de outras infraestruturas de transporte garante a separação contabilística da infraestrutura ferroviária, devendo elaborar e registar separadamente as demonstrações e balanços relativos a cada uma das atividades de gestão de infraestruturas.
 
@@ -771,7 +975,9 @@ tt) [Anterior alínea dd)].
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 7.º — Independência do gestor de infraestrutura
+Artigo 7.º
+
+Independência do gestor de infraestrutura
 
 1 - O gestor de infraestrutura é responsável pela exploração, manutenção e renovação da rede, cabendo-lhe desenvolver a infraestrutura ferroviária da rede ferroviária nacional, nos termos do disposto no [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), de 29 de maio.
 
@@ -793,7 +999,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 7 - O disposto no n.º 1 não prejudica as competências do Estado e da AMT em matéria de desenvolvimento e financiamento da infraestrutura ferroviária da rede ferroviária nacional, bem como de financiamento e tarifação da infraestrutura e de repartição da capacidade, nos termos do disposto no n.º 3 e nos artigos 8.º, 29.º e 39.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Tendo em conta o disposto nos artigos 93.º, 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE), pode ser concedido ao gestor de infraestrutura um financiamento proporcional às funções referidas na alínea r) do artigo 3.º, à dimensão da infraestrutura e às necessidades financeiras, designadamente para cobrir novos investimentos, podendo esses financiamentos ser concedidos por meios distintos do financiamento direto pelo Estado, devendo, em qualquer caso, serem cumpridos os requisitos previstos nos n.os 4 e 5.
 
@@ -805,7 +1013,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 5 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As empresas ferroviárias beneficiam do direito de acesso às infraestruturas ferroviárias, em condições equitativas, não discriminatórias e transparentes, para exploração de serviços de transporte ferroviário de mercadorias.
 
@@ -819,7 +1029,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 11.º — Limitação do direito de acesso
+Artigo 11.º
+
+Limitação do direito de acesso
 
 1 - A AMT pode limitar o direito de acesso, previsto no n.º 3 do artigo anterior, para exploração dos serviços de transporte de passageiros entre um determinado local de partida e um determinado local de destino, sempre que os mesmos sejam objeto de um ou vários contratos de serviço público e o exercício desse direito possa comprometer o equilíbrio económico de tais contratos.
 
@@ -853,13 +1065,17 @@ d) [...].
 
 8 - Compete à AMT, por meio de regulamento ou instrução, determinar ou concretizar os procedimentos tendentes à avaliação dos pedidos de acesso à infraestrutura e indicar com que documentação devem ser instruídos os referidos pedidos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - A informação necessária à aferição do cumprimento dos requisitos de idoneidade, capacidade financeira e competência profissional para efeitos da emissão das licenças referida no número anterior é obrigatoriamente partilhada com a AMT, designadamente para avaliação das condições de acesso à infraestrutura.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -877,7 +1093,9 @@ b) Licença de serviço de transporte ferroviário de mercadorias.
 
 6 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -899,7 +1117,9 @@ g) [...];
 
 h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença transitada em julgado, por infração grave a obrigações decorrentes de convenções coletivas de trabalho vinculativas.
 
-###### Artigo 27.º — Diretórios de rede
+Artigo 27.º
+
+Diretórios de rede
 
 1 - Após consulta às partes interessadas, o gestor de infraestrutura deve elaborar e publicar os diretórios de rede, sujeitos a validação da AMT, que podem ser obtidos contra o pagamento de uma taxa não superior ao seu custo de publicação.
 
@@ -915,7 +1135,9 @@ h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença trans
 
 7 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -943,7 +1165,9 @@ h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença trans
 
 13 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -953,7 +1177,9 @@ h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença trans
 
 4 - O regime de melhoria do desempenho pode constar dos diretórios de rede previstos no artigo 27.º
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -977,7 +1203,9 @@ b) [...];
 
 c) Todas as empresas ferroviárias que executam um contrato de serviço público no itinerário desse serviço de transporte de passageiros.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...].
 
@@ -991,7 +1219,9 @@ c) Todas as empresas ferroviárias que executam um contrato de serviço público
 
 6 - [...].
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...].
 
@@ -1001,7 +1231,9 @@ c) Todas as empresas ferroviárias que executam um contrato de serviço público
 
 4 - Caso o considere necessário, a AMT pode solicitar ao gestor de infraestrutura a disponibilização da informação prevista no número anterior.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -1015,7 +1247,9 @@ c) Todas as empresas ferroviárias que executam um contrato de serviço público
 
 6 - As perturbações na circulação ferroviária devem ser comunicadas às empresas prestadoras de serviços de transporte de passageiros, com antecedência razoável, com vista à implementação de medidas que assegurem a mobilidade da população.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 8 do artigo 46.º, os candidatos podem dirigir-se à AMT caso considerem ter sido tratados de forma injusta ou discriminatória ou de outra forma lesados, nomeadamente para recorrer de decisões tomadas pelo gestor de infraestrutura ou, se for esse o caso, pelas empresas ferroviárias ou pelos operadores das instalações de serviço, no que se refere:
 
@@ -1085,7 +1319,9 @@ j) Ao cumprimento dos requisitos, incluindo os relativos a conflitos de interess
 
 24 - A AMT deve definir as regras e princípios subjacentes à tomada das decisões para as quais seja competente ao abrigo do presente decreto-lei, através de regulamento ou deliberação.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...].
 
@@ -1107,13 +1343,17 @@ j) Ao cumprimento dos requisitos, incluindo os relativos a conflitos de interess
 
 10 - Dos princípios e das práticas referidas no n.º 24 do artigo anterior devem constar as disposições para a resolução dos litígios que possam surgir no âmbito do disposto no n.º 5.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Os poderes de fiscalização do cumprimento do disposto no presente decreto-lei competem ao IMT, I. P., e à AMT, nos termos, respetivamente, do [Decreto-Lei n.º 236/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2012-191561), de 31 de outubro, e do [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, ambos na sua redação atual.
 
 2 - [...].
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...]:
 
@@ -1183,7 +1423,9 @@ Independência das funções essenciais
 
 3 - A AMT deve garantir que as empresas ferroviárias ou quaisquer outras entidades não exercem influência decisiva sobre o gestor de infraestrutura no desempenho das funções essenciais.
 
-###### Artigo 7.º-B — Imparcialidade do gestor de infraestrutura em matéria de gestão do tráfego e planeamento da manutenção
+Artigo 7.º-B
+
+Imparcialidade do gestor de infraestrutura em matéria de gestão do tráfego e planeamento da manutenção
 
 1 - O gestor de infraestrutura desempenha as funções de gestão do tráfego e de planeamento das operações de manutenção de forma transparente e não discriminatória, devendo assegurar que não há conflito de interesses por parte das pessoas responsáveis por essas funções.
 
@@ -1193,7 +1435,9 @@ Independência das funções essenciais
 
 4 - Sempre que pretenda realizar um planeamento a longo prazo da manutenção ou de renovação da infraestrutura ferroviária, o gestor de infraestrutura deve consultar os candidatos e avaliar as suas opiniões.
 
-###### Artigo 7.º-C — Externalização e partilha das funções do gestor de infraestrutura
+Artigo 7.º-C
+
+Externalização e partilha das funções do gestor de infraestrutura
 
 1 - Desde que não dê origem a conflitos de interesse e que a confidencialidade das informações comercialmente sensíveis seja garantida, o gestor de infraestrutura pode proceder:
 
@@ -1211,7 +1455,9 @@ b) À externalização da execução de obras e tarefas conexas de desenvolvimen
 
 6 - Cabe à AMT fiscalizar a execução dos acordos de cooperação referidos no número anterior, podendo propor a sua revogação ou a sua alteração.
 
-###### Artigo 7.º-D — Transparência financeira
+Artigo 7.º-D
+
+Transparência financeira
 
 1 - As receitas provenientes das atividades de gestão da rede de infraestruturas, incluindo os fundos públicos, só podem ser utilizadas pelo gestor de infraestrutura para financiar as suas próprias atividades, nomeadamente para o pagamento dos empréstimos contraídos.
 
@@ -1219,7 +1465,9 @@ b) À externalização da execução de obras e tarefas conexas de desenvolvimen
 
 3 - O gestor de infraestrutura e as empresas ferroviárias não podem conceder, direta ou indiretamente, empréstimos entre si.
 
-###### Artigo 7.º-E — Mecanismos de coordenação
+Artigo 7.º-E
+
+Mecanismos de coordenação
 
 1 - O gestor de infraestrutura é responsável pela sua coordenação com as empresas ferroviárias interessadas e com os candidatos referidos no n.º 3 do artigo 8.º
 
@@ -1245,7 +1493,9 @@ e) Outras questões relacionadas com as condições de acesso e utilização da 
 
 7 - Não obstante o disposto nos números anteriores, os requerentes podem recorrer à AMT nomeadamente nos termos do disposto no artigo 56.º
 
-###### Artigo 7.º-F — Rede Europeia de Gestores de Infraestrutura
+Artigo 7.º-F
+
+Rede Europeia de Gestores de Infraestrutura
 
 1 - O gestor de infraestrutura deve participar e cooperar numa rede constituída pelos outros gestores de infraestrutura da União Europeia, reunindo periodicamente para:
 
@@ -1265,7 +1515,9 @@ g) Debater a aplicação dos artigos 37.º e 40.º
 
 2 - A coordenação referida no número anterior não impede os requerentes de recorrer à AMT, nem prejudica os poderes desta entidade definidos no artigo 56.º
 
-###### Artigo 11.º-A — Acesso e utilização de infraestrutura
+Artigo 11.º-A
+
+Acesso e utilização de infraestrutura
 
 1 - Após avaliação dos pedidos de acesso à rede ferroviária nacional, e havendo decisão em sentido favorável, o gestor de infraestrutura celebra, com o operador de serviços de transporte ferroviário de passageiros, um contrato de acesso e utilização da infraestrutura.
 
@@ -1285,11 +1537,15 @@ d) As condições gerais de transporte e as cláusulas contratuais gerais, nos t
 
 5 - Caso este incumpra as condições referidas no n.º 2, a AMT pode ordenar ao operador autorizado a aceder ao transporte ferroviário de passageiros que corrija o seu comportamento, sob pena de abertura de procedimento contraordenacional, podendo ainda, caso as falhas não sejam supridas, determinar a cessação dos efeitos do contrato referido nos números anteriores.
 
-###### Artigo 11.º-B — Serviços de transporte de passageiros de alta velocidade
+Artigo 11.º-B
+
+Serviços de transporte de passageiros de alta velocidade
 
 O exercício do direito de acesso previsto no artigo 10.º para exploração de serviços de transporte de passageiros de alta velocidade só pode ser limitado pela AMT nos termos do artigo 11.º, podendo as alterações previstas no n.º 6 do referido artigo consistir numa modificação do serviço previsto.
 
-###### Artigo 13.º-A — Sistemas comuns de informação e de bilhética única
+Artigo 13.º-A
+
+Sistemas comuns de informação e de bilhética única
 
 1 - Sem prejuízo do disposto no [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, incumbe ao IMT, I. P., coordenar a implementação de sistemas comuns de informação e bilhética integrada para a venda de bilhetes, de bilhetes únicos e de reservas, nos termos da [Lei n.º 32/2013](https://diariodarepublica.pt/dr/detalhe/lei/32-2013-261161), de 10 de maio, e tendo em conta o disposto nos números seguintes.
 
@@ -1351,15 +1607,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 26 de dezembro de 2018.**
+Promulgado em 26 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de dezembro de 2018.**
+Referendado em 26 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 5.º)
 
@@ -1453,19 +1709,27 @@ Antes de efetuar uma escolha entre alternativas às restrições de capacidade, 
 
 17 - No que se refere às restrições de capacidade com uma duração superior a 30 dias consecutivos e que afetem mais de 50 % do volume de tráfego estimado para determinada linha férrea, o gestor de infraestrutura estabelece critérios para a alteração de itinerários por tipos de comboios e serviços, tendo em conta os condicionalismos operacionais e comerciais do candidato, exceto se estes condicionalismos operacionais resultarem de decisões de gestão ou organização do candidato e sem prejuízo do objetivo de redução de custos do gestor de infraestrutura em conformidade com o n.º 1 do artigo 30.º O gestor de infraestrutura deve publicar nas especificações da rede estes critérios, juntamente com uma repartição provisória da capacidade restante dos diferentes tipos de serviços ferroviários sempre que agir em conformidade com o ponto 8. No final da consulta, e sem prejuízo das obrigações do gestor de infraestrutura nos termos da alínea c) do anexo IV, o gestor de infraestrutura, com base no feedback recebido dos candidatos, fornece às empresas ferroviárias em causa uma repartição indicativa por tipo de serviço da capacidade restante.
 
-## ANEXO III — (a que se referem os n.os 1 e 2 do artigo 12.º)
+ANEXO III
+
+(a que se referem os n.os 1 e 2 do artigo 12.º)
 
 Republicação do [Decreto-Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2008-246493), de 26 de março
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto e âmbito de aplicação
+Disposições gerais
+
+Artigo 1.º
+
+Objeto e âmbito de aplicação
 
 1 - O presente decreto-lei estabelece, em conformidade com as disposições do [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, as condições que devem ser observadas no contrato de transporte ferroviário de passageiros e bagagens, volumes portáteis, animais de companhia, velocípedes e outros bens.
 
 2 - As normas estabelecidas no presente decreto-lei aplicam-se ao transporte internacional ferroviário, na parte efetuada em território nacional, em tudo o que não contrarie as disposições aplicáveis das regras uniformes relativas ao contrato de transporte internacional ferroviário de passageiros e bagagens (CIV), que constituem o apêndice A à Convenção relativa aos Transportes Internacionais Ferroviários (COTIF).
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para os efeitos do presente decreto-lei, entende-se por:
 
@@ -1513,9 +1777,13 @@ v) «Supressão temporária» a suspensão total ou parcial de um serviço plane
 
 w) «Supressão definitiva» a descontinuação total ou parcial de um serviço planeado e divulgado, com caráter permanente.
 
-### CAPÍTULO II — Disposições relativas ao contrato de transporte
+CAPÍTULO II
 
-###### Artigo 3.º — Contrato de transporte
+Disposições relativas ao contrato de transporte
+
+Artigo 3.º
+
+Contrato de transporte
 
 1 - O contrato de transporte confere ao passageiro o direito ao transporte, mediante título de transporte ou outro meio de prova, nas condições definidas no presente decreto-lei.
 
@@ -1527,7 +1795,9 @@ w) «Supressão definitiva» a descontinuação total ou parcial de um serviço 
 
 5 - As disposições do contrato de transporte não podem limitar ou excluir direitos previstos no presente decreto-lei, mas podem conferir direitos adicionais.
 
-###### Artigo 3.º-A — Entidades competentes
+Artigo 3.º-A
+
+Entidades competentes
 
 1 - Compete às autoridades de transportes previstas na [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, individualmente ou de forma partilhada, através de contratos interadministrativos, aprovar as condições gerais de transportes.
 
@@ -1537,7 +1807,9 @@ w) «Supressão definitiva» a descontinuação total ou parcial de um serviço 
 
 4 - Os operadores e as autoridades de transportes competentes devem promover a harmonização, tanto quanto possível, das condições gerais de transporte para que estas protejam de forma adequada os passageiros em viagens multimodais, designadamente em serviços públicos integrados de transporte de passageiros.
 
-###### Artigo 4.º — Obrigações do operador, do gestor da infraestrutura ou do gestor de estação
+Artigo 4.º
+
+Obrigações do operador, do gestor da infraestrutura ou do gestor de estação
 
 1 - O operador obriga-se a transportar os passageiros munidos de títulos de transporte ou de outro meio de prova, nos termos do presente decreto-lei.
 
@@ -1591,7 +1863,9 @@ e) Os horários e preços dos serviços de transporte de passageiros que pratica
 
 10 - O operador obriga-se a assinalar, devidamente, em todos os comboios de passageiros lugares reservados, por ordem prioritária, destinados a pessoas com mobilidade condicionada, grávidas e pessoas com crianças de colo.
 
-###### Artigo 5.º — Transporte de passageiros com mobilidade condicionada
+Artigo 5.º
+
+Transporte de passageiros com mobilidade condicionada
 
 1 - O operador e o gestor da estação obrigam-se a estabelecer regras de acesso não discriminatórias aplicáveis ao transporte de pessoas com mobilidade condicionada.
 
@@ -1603,7 +1877,9 @@ e) Os horários e preços dos serviços de transporte de passageiros que pratica
 
 5 - Sem prejuízo do direito a indemnização a que haja lugar no caso de perda ou inutilização dos equipamentos referidos no número anterior durante o transporte, o operador está obrigado a adotar, de imediato, as medidas necessárias para responder às necessidades de mobilidade do passageiro afetado.
 
-###### Artigo 6.º — Deveres e obrigações dos passageiros
+Artigo 6.º
+
+Deveres e obrigações dos passageiros
 
 1 - O acesso ao serviço de transporte ferroviário implica o cumprimento por parte dos passageiros do disposto neste decreto-lei e da demais legislação aplicável.
 
@@ -1667,7 +1943,9 @@ ac) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviço
 
 5 - Os passageiros cuja saída do comboio seja determinada nos termos do número anterior não têm direito a qualquer reembolso do preço do título de transporte.
 
-###### Artigo 7.º — Título de transporte
+Artigo 7.º
+
+Título de transporte
 
 1 - O passageiro está obrigado a munir-se de título de transporte e a conservá-lo até ao final da viagem, saída do cais ou da estação, devendo validá-lo, designadamente no sistema de bilhética sem contacto, quando existente, e apresentá-lo aos agentes do operador encarregues da fiscalização sempre que solicitado.
 
@@ -1681,7 +1959,9 @@ ac) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviço
 
 6 - O passageiro sem título de transporte válido fica sujeito às sanções previstas na [Lei n.º 28/2006](https://diariodarepublica.pt/dr/detalhe/lei/28-2006-538026), de 4 de julho, na sua redação atual, que regula as condições de utilização do título de transporte válido nos transportes coletivos.
 
-###### Artigo 8.º — Passageiros com direito a transporte sem custo para o utilizador
+Artigo 8.º
+
+Passageiros com direito a transporte sem custo para o utilizador
 
 1 - Os passageiros com direito a transporte sem custo para o utilizador, nos termos da legislação aplicável ou por acordos estabelecidos com o operador, devem munir-se de um título de transporte comprovativo desse direito.
 
@@ -1689,7 +1969,9 @@ ac) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviço
 
 3 - O disposto no presente artigo não se aplica àqueles que, no desempenho de funções públicas de fiscalização da atividade de transporte ferroviário, de investigação criminal, ou de manutenção da ordem e da segurança pública, necessitem de livre acesso ao transporte.
 
-###### Artigo 9.º — Transporte de volumes portáteis, velocípedes e animais admitidos nas carruagens
+Artigo 9.º
+
+Transporte de volumes portáteis, velocípedes e animais admitidos nas carruagens
 
 1 - Aos passageiros é permitido levar nas carruagens, gratuitamente, bagagem de mão e objetos portáteis de uso pessoal desde que as suas dimensões não excedam, individualmente, 100 cm x 60 cm x 30 cm.
 
@@ -1709,11 +1991,15 @@ ac) Praticar atos ou proferir expressões que perturbem a boa ordem dos serviço
 
 9 - Sem prejuízo do disposto no presente decreto-lei, as condições gerais do transporte definem a quantidade de bagagens de mão e objetos portáteis admitidos gratuitamente nas carruagens, bem como as condições de transporte de velocípedes.
 
-###### Artigo 10.º — Transporte e entrega de automóveis e motociclos
+Artigo 10.º
+
+Transporte e entrega de automóveis e motociclos
 
 As condições de transporte e entrega de automóveis ou motociclos são definidas pelo operador e estão sujeitas a aprovação da autoridade de transportes competente.
 
-###### Artigo 11.º — Despacho de bagagens
+Artigo 11.º
+
+Despacho de bagagens
 
 1 - Sempre que por razões de segurança o operador não admita bagagens de mão ou objetos portáteis, estas podem ser despachadas sem qualquer acréscimo de preço.
 
@@ -1729,7 +2015,9 @@ As condições de transporte e entrega de automóveis ou motociclos são definid
 
 7 - O operador define o modelo de documento de despacho, podendo também estabelecer condições suplementares para a admissão, acondicionamento e transporte de bagagens.
 
-###### Artigo 12.º — Armazenagem de bagagens
+Artigo 12.º
+
+Armazenagem de bagagens
 
 1 - A armazenagem de bagagens na estação de destino é gratuita durante quarenta e oito horas a contar da hora da sua chegada, findas as quais o operador cobra o preço fixado e divulgado para o armazenamento.
 
@@ -1739,7 +2027,9 @@ As condições de transporte e entrega de automóveis ou motociclos são definid
 
 4 - No caso de géneros sujeitos a rápida deterioração, o prazo indicado no número anterior é reduzido a vinte e quatro horas e a venda efetua-se sem aviso e anúncio prévios.
 
-###### Artigo 13.º — Objetos abandonados
+Artigo 13.º
+
+Objetos abandonados
 
 1 - O operador ou o gestor da estação providenciam o encaminhamento dos objetos, valores ou volumes abandonados pelos passageiros nos comboios ou nas estações para um local designado para o efeito, onde devem ser guardados até que os seus proprietários os reclamem, por um período não inferior a 30 dias.
 
@@ -1749,11 +2039,15 @@ As condições de transporte e entrega de automóveis ou motociclos são definid
 
 4 - No caso de abandono de animais, estes devem ser encaminhados para o centro de recolha da área de destino.
 
-###### Artigo 14.º — Interrupção de viagem por iniciativa do passageiro
+Artigo 14.º
+
+Interrupção de viagem por iniciativa do passageiro
 
 Salvo estipulação em contrário resultante das condições gerais de transporte emitidas pelo operador, não é permitida interrupção e retoma da viagem por iniciativa do passageiro para continuação posterior.
 
-###### Artigo 15.º — Supressão temporária de serviços
+Artigo 15.º
+
+Supressão temporária de serviços
 
 1 - Em caso de supressão temporária de um serviço, em todo ou em parte do percurso, o operador obriga-se a fazer seguir o passageiro e a sua bagagem, volumes portáteis ou animais de companhia ou de assistência, sem qualquer acréscimo de preço, por outro comboio que sirva a sua estação de destino, pela mesma linha ou por outro itinerário, de maneira a permitir-lhe chegar ao destino com o menor atraso possível.
 
@@ -1763,7 +2057,9 @@ Salvo estipulação em contrário resultante das condições gerais de transport
 
 4 - O disposto nos números anteriores não prejudica o previsto nos artigos 25.º e seguintes.
 
-###### Artigo 16.º — Reembolso do título de transporte
+Artigo 16.º
+
+Reembolso do título de transporte
 
 1 - Se o passageiro não utilizar o título de transporte por motivo alheio ao operador, não há lugar a qualquer reembolso, salvo o disposto no número seguinte.
 
@@ -1791,7 +2087,9 @@ b) Ser efetuado no prazo máximo de 30 dias a contar da apresentação do pedido
 
 9 - [Revogado].
 
-###### Artigo 16.º-A — Indemnização do preço do bilhete
+Artigo 16.º-A
+
+Indemnização do preço do bilhete
 
 1 - Sem perda do direito ao transporte e caso não exerça o direito de reembolso estabelecido no artigo anterior, quando se verifique atraso entre o local de partida e de chegada indicados no título de transporte, imputáveis ao operador ou ao gestor de infraestrutura, o passageiro tem direito a uma indemnização, nas condições previstas nos números seguintes.
 
@@ -1817,15 +2115,21 @@ d) O passageiro seja titular de uma assinatura, passe ou título de transporte s
 
 6 - Sempre que o atraso ou a supressão seja da responsabilidade do gestor de infraestrutura ferroviária, o operador tem direito de regresso sobre este da importância paga a título de indemnização aos passageiros nos termos do presente decreto-lei.
 
-###### Artigo 17.º — Documentação do atraso ou supressão de serviços
+Artigo 17.º
+
+Documentação do atraso ou supressão de serviços
 
 1 - Nos atrasos superiores a uma hora, em relação ao tempo de viagem previsto no horário, ou no caso de supressão temporária de serviço que impeça a conclusão da viagem, o operador deve fornecer ao passageiro, sempre que este o solicite, documento que ateste a ocorrência e a duração do atraso.
 
 2 - [Revogado].
 
-### CAPÍTULO III — Preços de transporte
+CAPÍTULO III
 
-###### Artigo 18.º — Princípios gerais para a fixação de preços
+Preços de transporte
+
+Artigo 18.º
+
+Princípios gerais para a fixação de preços
 
 1 - Os preços são calculados pelo operador por tipo de serviço e por origem e destino, para o período de um ano.
 
@@ -1833,7 +2137,9 @@ d) O passageiro seja titular de uma assinatura, passe ou título de transporte s
 
 3 - A metodologia de cálculo dos preços deve promover a eficiência na afetação de recursos e a equidade dos preços praticados, refletindo a qualidade do serviço, a distância e o tempo de percurso.
 
-###### Artigo 19.º — Regras e critérios para a fixação dos preços
+Artigo 19.º
+
+Regras e critérios para a fixação dos preços
 
 1 - A fixação de preços deve ter em conta, nomeadamente:
 
@@ -1847,7 +2153,9 @@ c) Os custos de natureza administrativa.
 
 3 - O operador pode praticar descontos sobre o preço, nomeadamente em função do número de viagens ou de negócios jurídicos que celebre com passageiros.
 
-###### Artigo 20.º — Fixação de preços
+Artigo 20.º
+
+Fixação de preços
 
 1 - Os preços dos serviços de transporte ferroviário de passageiros, que a seguir se enumeram, obedecem ao seguinte:
 
@@ -1859,13 +2167,19 @@ c) [Revogada].
 
 2 - As crianças até aos quatro anos são transportadas gratuitamente, desde que não ocupem lugar.
 
-###### Artigo 21.º — Fixação e divulgação dos preços
+Artigo 21.º
+
+Fixação e divulgação dos preços
 
 [Revogado].
 
-### CAPÍTULO IV — Títulos de transporte
+CAPÍTULO IV
 
-###### Artigo 22.º — Títulos de transporte
+Títulos de transporte
+
+Artigo 22.º
+
+Títulos de transporte
 
 1 - Os operadores emitem os seguintes títulos próprios obrigatórios:
 
@@ -1881,7 +2195,9 @@ b) Assinaturas mensais para o serviço urbano e suburbano.
 
 5 - [Revogado].
 
-###### Artigo 23.º — Indicações dos títulos de transporte
+Artigo 23.º
+
+Indicações dos títulos de transporte
 
 1 - O título de transporte deve conter a identificação do ou dos operadores, a entidade emitente, o tipo de serviço, a validade e o preço.
 
@@ -1889,7 +2205,9 @@ b) Assinaturas mensais para o serviço urbano e suburbano.
 
 3 - No caso de desmaterialização de títulos de transporte, o operador ou a entidade emitente deve mencionar os elementos essenciais, a que se refere o n.º 1, em recibo, fatura ou outro documento equivalente.
 
-###### Artigo 24.º — Bonificação de preços
+Artigo 24.º
+
+Bonificação de preços
 
 1 - Sem prejuízo de os operadores praticarem uma política comercial com descontos para determinado segmento de passageiros, podem ser definidos por lei ou regulamento ou contratualmente estipulados regimes tarifários sociais bonificados aplicáveis aos serviços públicos de transporte ferroviário de passageiros.
 
@@ -1899,23 +2217,33 @@ b) Assinaturas mensais para o serviço urbano e suburbano.
 
 4 - [Revogado].
 
-### CAPÍTULO V — Responsabilidade civil
+CAPÍTULO V
 
-###### Artigo 25.º — Responsabilidade do operador
+Responsabilidade civil
+
+Artigo 25.º
+
+Responsabilidade do operador
 
 1 - O operador é responsável pelos danos causados ao passageiro e a bens por este transportados durante a viagem, nos termos do presente decreto-lei e do [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, sem prejuízo do direito de regresso sobre o gestor da infraestrutura ferroviária caso os danos resultem de defeito dessa infraestrutura ou avaria dos respetivos elementos.
 
 2 - Fica excluída a responsabilidade do operador quando o passageiro não tenha observado os deveres e obrigações a que está obrigado, designadamente a aquisição do título de transporte e demais deveres relativos à segurança a respeitar relativa ao transporte, bem como nos casos previstos no n.º 2 do artigo 26.º do anexo I ao [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007.
 
-###### Artigo 26.º — Responsabilidade do gestor da infraestrutura ferroviária
+Artigo 26.º
+
+Responsabilidade do gestor da infraestrutura ferroviária
 
 O gestor da infraestrutura ferroviária é responsável pelos danos causados aos passageiros e a bens por estes transportados, quando tais danos resultem de defeito de infraestrutura, nomeadamente em estações ou cais, ou de avaria nos respetivos elementos, salvo nos casos em que a responsabilidade da gestão da infraestrutura em causa esteja atribuída a outra entidade.
 
-###### Artigo 27.º — Responsabilidade dos passageiros
+Artigo 27.º
+
+Responsabilidade dos passageiros
 
 O passageiro é responsável pelos danos causados ao operador e a terceiros, por si ou pelos seus volumes de mão, animais de companhia e bagagens.
 
-###### Artigo 28.º — Limitação da responsabilidade do operador devido a atrasos ou supressão de serviços
+Artigo 28.º
+
+Limitação da responsabilidade do operador devido a atrasos ou supressão de serviços
 
 1 - Sem prejuízo do disposto no artigo 16.º-A, o passageiro tem ainda direito a indemnização por outros danos que resultem direta e exclusivamente de atrasos ou supressões de serviços de transporte ferroviário, por razões imputáveis ao operador ou ao gestor de infraestrutura, nos termos dos números seguintes.
 
@@ -1931,13 +2259,17 @@ O passageiro é responsável pelos danos causados ao operador e a terceiros, por
 
 7 - Os valores limite a que se referem os n.os 2 e 4 são atualizados anualmente de acordo com o índice de inflação.
 
-###### Artigo 29.º — Exclusão da responsabilidade do operador no transporte de automóveis, motociclos e velocípedes
+Artigo 29.º
+
+Exclusão da responsabilidade do operador no transporte de automóveis, motociclos e velocípedes
 
 1 - O operador não é responsável pelos danos causados nos automóveis ou outros veículos em operações de carga e descarga nos vagões efetuadas pelos passageiros, por danos motivados por excesso de peso dos volumes contidos no seu interior ou transportados em cima dos veículos.
 
 2 - O operador não é responsável pelos danos ou perdas que se verifiquem nas bagagens ou outros objetos levados gratuitamente no interior dos automóveis ou de outros veículos.
 
-###### Artigo 30.º — Limites da indemnização por perda ou danos em bagagens, automóveis, motociclos e velocípedes
+Artigo 30.º
+
+Limites da indemnização por perda ou danos em bagagens, automóveis, motociclos e velocípedes
 
 1 - Considera-se que ocorre perda de bagagens e velocípedes despachados quando os mesmos não tenham chegado ao seu destino até ao final do 5.º dia a contar da data prevista para a chegada.
 
@@ -1949,11 +2281,15 @@ O passageiro é responsável pelos danos causados ao operador e a terceiros, por
 
 5 - O valor a que se refere o n.º 3 é atualizado anualmente de acordo com o índice de inflação.
 
-###### Artigo 31.º — Meios alternativos de resolução de conflitos
+Artigo 31.º
+
+Meios alternativos de resolução de conflitos
 
 Os conflitos entre os passageiros e os operadores podem ser resolvidos por recurso a meios alternativos de resolução de conflitos.
 
-###### Artigo 32.º — Deveres de informação
+Artigo 32.º
+
+Deveres de informação
 
 1 - Os operadores devem comunicar anualmente, à autoridade de transportes competente, os serviços públicos de transporte ferroviário de passageiros em exploração nos termos do artigo 22.º do regime jurídico do serviço público de transporte de passageiros, aprovado pela [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, incluindo as alterações que se verificarem, nos termos do regime legal ou contratual que lhes for aplicável.
 
@@ -1961,13 +2297,17 @@ Os conflitos entre os passageiros e os operadores podem ser resolvidos por recur
 
 3 - As empresas ferroviárias que prestam serviços de transporte de passageiros devem elaborar planos de emergência e assegurar que esses planos de emergência são devidamente coordenados para prestar assistência aos passageiros, na aceção do artigo 18.º do [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, em caso de perturbação importante dos serviços.
 
-###### Artigo 33.º — Dever de cooperação
+Artigo 33.º
+
+Dever de cooperação
 
 1 - Os operadores devem apresentar, quando tal lhes seja solicitado pela AMT, toda a informação necessária para atestar a conformidade dos procedimentos e práticas adotadas em cumprimento do disposto no presente decreto-lei.
 
 2 - As informações prestadas nos termos do número anterior, desde que tal seja solicitado e fundamentado pelo operador, ficam sujeitas a sigilo comercial.
 
-###### Artigo 34.º — Supervisão e fiscalização
+Artigo 34.º
+
+Supervisão e fiscalização
 
 1 - A supervisão e fiscalização do cumprimento das obrigações que incumbem ao operador ou ao gestor da infraestrutura, por força do disposto no presente decreto-lei, cabem às autoridades de transportes previstas na [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, e à AMT.
 
@@ -1975,11 +2315,17 @@ Os conflitos entre os passageiros e os operadores podem ser resolvidos por recur
 
 3 - O incumprimento a que se refere o número anterior é lavrado em auto de notícia, segundo modelo a aprovar pela AMT.
 
-### CAPÍTULO VII — Regime sancionatório
+CAPÍTULO VII
 
-### CAPÍTULO VII — Regime sancionatório
+Regime sancionatório
 
-###### Artigo 35.º — Contraordenações
+CAPÍTULO VII
+
+Regime sancionatório
+
+Artigo 35.º
+
+Contraordenações
 
 1 - Constituem contraordenações imputáveis ao operador, ao gestor da estação e ao gestor da infraestrutura, consoante o caso, puníveis com coima de (euro) 2500 a (euro) 12 500:
 
@@ -2017,13 +2363,17 @@ c) O incumprimento das disposições relativas às queixas dos passageiros em vi
 
 6 - A tentativa e a negligência são sempre puníveis, sendo os limites máximos e mínimos das coimas reduzidos a metade.
 
-###### Artigo 36.º — Instrução do processo e aplicação das coimas
+Artigo 36.º
+
+Instrução do processo e aplicação das coimas
 
 1 - A instrução dos processos por contraordenações previstas no presente decreto-lei compete à AMT.
 
 2 - A aplicação das coimas previstas neste decreto-lei é da competência do conselho de administração da AMT.
 
-###### Artigo 37.º — Produto das coimas
+Artigo 37.º
+
+Produto das coimas
 
 A afetação do produto das coimas faz-se da forma seguinte:
 
@@ -2033,37 +2383,55 @@ b) 10 % para a entidade que levantou o auto;
 
 c) 30 % para a entidade competente que aplica a coima.
 
-### CAPÍTULO VIII — Disposições finais e transitórias
+CAPÍTULO VIII
 
-###### Artigo 38.º — Transportes ocasionais e históricos
+Disposições finais e transitórias
+
+Artigo 38.º
+
+Transportes ocasionais e históricos
 
 Em tudo o que não contrarie o disposto no presente decreto-lei e demais legislação aplicável, os serviços de transporte de passageiros ocasionais e históricos regem-se pelos termos contratualmente definidos.
 
-###### Artigo 39.º — Regime transitório
+Artigo 39.º
+
+Regime transitório
 
 Nos serviços de transporte de passageiros regionais e inter-regionais, a primeira fixação e divulgação de preços e respetiva atualização, num período inicial até cinco anos, após a entrada em vigor deste decreto-lei, está sujeita a aprovação expressa do IMT, I. P., sob proposta fundamentada dos operadores que demonstre a observância dos princípios e regras constantes do capítulo III.
 
-###### Artigo 40.º — Taxas
+Artigo 40.º
+
+Taxas
 
 Pelos atos de aprovação da responsabilidade das autoridades de transportes competentes, previstos no presente decreto-lei, são cobradas taxas, as quais constam da respetiva tabela de taxas.
 
-###### Artigo 41.º — Norma revogatória
+Artigo 41.º
+
+Norma revogatória
 
 1 - São revogados os artigos 38.º a 45.º e 66.º a 69.º do Regulamento para a Exploração e Polícia dos Caminhos de Ferro, aprovado pelo Decreto-Lei n.º 39 780, de 21 de agosto de 1954.
 
 2 - É, ainda, revogada a tarifa geral de transportes dos caminhos de ferro - parte i, «Passageiros e bagagens», aprovada pela [Portaria n.º 403/75](https://diariodarepublica.pt/dr/detalhe/portaria/403-1975-233959), de 30 de junho, na redação dada pelas [Portarias n.os 170/78](https://diariodarepublica.pt/dr/detalhe/portaria/170-1978-219555), de 29 de março, [526/79](https://diariodarepublica.pt/dr/detalhe/portaria/526-1979-403330), de 29 de setembro, [1116/80](https://diariodarepublica.pt/dr/detalhe/portaria/1116-1980-226652), de 31 de dezembro, [1338/82](https://diariodarepublica.pt/dr/detalhe/portaria/1338-1982-626666), de 31 de dezembro, [851/83](https://diariodarepublica.pt/dr/detalhe/portaria/851-1983-294089), de 24 de agosto, [309-A/84](https://diariodarepublica.pt/dr/detalhe/portaria/309-a-1984-273584), de 23 de maio, [31-R/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-r-1985-162795), de 12 de janeiro, [733-L/86](https://diariodarepublica.pt/dr/detalhe/portaria/733-l-1986-305644), de 4 de dezembro, e [1080/92](https://diariodarepublica.pt/dr/detalhe/portaria/1080-1992-598163), de 24 de novembro.
 
-###### Artigo 42.º — Entrada em vigor
+Artigo 42.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
-## ANEXO IV — (a que se referem os n.os 3 e 4 do artigo 12.º)
+ANEXO IV
+
+(a que se referem os n.os 3 e 4 do artigo 12.º)
 
 Republicação do [Decreto-Lei n.º 217/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2015-70476205), de 7 de outubro
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 1 - O presente decreto-lei procede à transposição para a ordem jurídica interna da Diretiva [2012/34/UE](https://data.europa.eu/eli/dir/2012/34/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de novembro de 2012, que estabelece um espaço ferroviário europeu único, na sua redação atual.
 
@@ -2075,7 +2443,9 @@ b) As condições de acesso à atividade das empresas de transporte ferroviário
 
 c) Os princípios e procedimentos de fixação e cobrança das taxas de utilização da infraestrutura ferroviária e de repartição da capacidade da infraestrutura ferroviária, as quais constam do capítulo IV.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 1 - Sem prejuízo do disposto nos números seguintes, o presente decreto-lei aplica-se à utilização da infraestrutura ferroviária à disposição das empresas ferroviárias, conforme descrita no diretório da rede, para a prestação de serviços ferroviários de transporte de passageiros e de mercadorias nacionais e internacionais.
 
@@ -2109,7 +2479,9 @@ b) Cujas funções essenciais sejam exercidas por um organismo não controlado p
 
 12 - Sem prejuízo do disposto nos números anteriores, podem ser impostos às empresas ferroviárias requisitos de acesso à atividade e utilizações das infraestruturas ferroviárias excluídas do âmbito de aplicação do presente decreto-lei, por deliberação do IMT, I. P., de acordo com as regras de acesso à atividade, de âmbito nacional ou europeu, aplicáveis.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do disposto no presente decreto-lei, entende-se por:
 
@@ -2205,17 +2577,25 @@ ss) «Sistemas e serviços inteligentes de transportes», os sistemas associados
 
 tt) «Trânsito», a travessia do território da União Europeia, sem embarque nem desembarque de mercadorias ou passageiros.
 
-### CAPÍTULO II — Desenvolvimento dos caminhos-de-ferro da União Europeia
+CAPÍTULO II
 
-#### SECÇÃO I — Independência de gestão
+Desenvolvimento dos caminhos-de-ferro da União Europeia
 
-###### Artigo 4.º — Independência das empresas ferroviárias
+SECÇÃO I
+
+Independência de gestão
+
+Artigo 4.º
+
+Independência das empresas ferroviárias
 
 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, as empresas do setor empresarial do Estado que operam no transporte ferroviário devem estar dotadas de um estatuto autónomo em matéria de gestão, administração e controlo administrativo, económico e contabilístico, que lhes permita ter autonomia administrativa, financeira e patrimonial.
 
 2 - [Revogado].
 
-###### Artigo 5.º — Gestão das empresas ferroviárias
+Artigo 5.º
+
+Gestão das empresas ferroviárias
 
 1 - As empresas ferroviárias regem-se pelo disposto no presente decreto-lei, nos seus estatutos, nas normas reguladoras das sociedades anónimas, nas normas especiais cuja aplicação decorra do objeto da sociedade e, ainda, pelo regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, quando se tratem de empresas públicas, e estão sujeitas às regras gerais da concorrência, assegurando a prestação de serviços eficazes e adequados ao mais baixo custo em relação à sua qualidade do serviço.
 
@@ -2235,9 +2615,13 @@ d) Desenvolver a sua quota de mercado, criar novas tecnologias e novos serviços
 
 5 - Aos gestores das empresas ferroviárias do setor empresarial do Estado é aplicável o Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, com as especificidades constantes do presente decreto-lei.
 
-#### SECÇÃO II — Separação entre a gestão da infraestrutura e a atividade de transporte e entre os diferentes tipos de atividade de transporte
+SECÇÃO II
 
-###### Artigo 6.º — Separação das contas
+Separação entre a gestão da infraestrutura e a atividade de transporte e entre os diferentes tipos de atividade de transporte
+
+Artigo 6.º
+
+Separação das contas
 
 1 - O gestor de infraestrutura que realize a gestão de outras infraestruturas de transporte garante a separação contabilística da infraestrutura ferroviária, devendo elaborar e registar separadamente as demonstrações e balanços relativos a cada uma das atividades de gestão de infraestruturas.
 
@@ -2251,7 +2635,9 @@ d) Desenvolver a sua quota de mercado, criar novas tecnologias e novos serviços
 
 6 - A contabilidade das áreas de atividade referidas nos números anteriores deve permitir a verificação do cumprimento da proibição de transferir financiamentos públicos concedidos a uma área de atividade e o controlo da utilização das receitas provenientes das taxas de utilização da infraestrutura e dos excedentes de outras atividades comerciais.
 
-###### Artigo 7.º — Independência do gestor de infraestrutura
+Artigo 7.º
+
+Independência do gestor de infraestrutura
 
 1 - O gestor de infraestrutura é responsável pela exploração, manutenção e renovação da rede, cabendo-lhe desenvolver a infraestrutura ferroviária da rede ferroviária nacional, nos termos do disposto no [Decreto-Lei n.º 91/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2015-67348943), de 29 de maio.
 
@@ -2273,7 +2659,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 7 - O disposto no n.º 1 não prejudica as competências do Estado e da AMT em matéria de desenvolvimento e financiamento da infraestrutura ferroviária da rede ferroviária nacional, bem como de financiamento e tarifação da infraestrutura e de repartição da capacidade, nos termos do disposto no n.º 3 e nos artigos 8.º, 29.º e 39.º
 
-###### Artigo 7.º-A — Independência das funções essenciais
+Artigo 7.º-A
+
+Independência das funções essenciais
 
 1 - Sem prejuízo dos limites definidos no n.º 3 do artigo 7.º e nos artigos 29.º e 39.º, o gestor de infraestrutura goza de independência organizativa e decisória no desempenho das funções essenciais.
 
@@ -2281,7 +2669,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 3 - A AMT deve garantir que as empresas ferroviárias ou quaisquer outras entidades não exercem influência decisiva sobre o gestor de infraestrutura no desempenho das funções essenciais.
 
-###### Artigo 7.º-B — Imparcialidade do gestor de infraestrutura em matéria de gestão do tráfego e planeamento da manutenção
+Artigo 7.º-B
+
+Imparcialidade do gestor de infraestrutura em matéria de gestão do tráfego e planeamento da manutenção
 
 1 - O gestor de infraestrutura desempenha as funções de gestão do tráfego e de planeamento das operações de manutenção de forma transparente e não discriminatória, devendo assegurar que não há conflito de interesses por parte das pessoas responsáveis por essas funções.
 
@@ -2291,7 +2681,9 @@ c) Membro do conselho geral e de supervisão, revisor oficial de contas ou pesso
 
 4 - Sempre que pretenda realizar um planeamento a longo prazo da manutenção ou de renovação da infraestrutura ferroviária, o gestor de infraestrutura deve consultar os candidatos e avaliar as suas opiniões.
 
-###### Artigo 7.º-C — Externalização e partilha das funções do gestor de infraestrutura
+Artigo 7.º-C
+
+Externalização e partilha das funções do gestor de infraestrutura
 
 1 - Desde que não dê origem a conflitos de interesse e que a confidencialidade das informações comercialmente sensíveis seja garantida, o gestor de infraestrutura pode proceder:
 
@@ -2309,7 +2701,9 @@ b) À externalização da execução de obras e tarefas conexas de desenvolvimen
 
 6 - Cabe à AMT fiscalizar a execução dos acordos de cooperação referidos no número anterior, podendo propor a sua revogação ou a sua alteração.
 
-###### Artigo 7.º-D — Transparência financeira
+Artigo 7.º-D
+
+Transparência financeira
 
 1 - As receitas provenientes das atividades de gestão da rede de infraestruturas, incluindo os fundos públicos, só podem ser utilizadas pelo gestor de infraestrutura para financiar as suas próprias atividades, nomeadamente para o pagamento dos empréstimos contraídos.
 
@@ -2317,7 +2711,9 @@ b) À externalização da execução de obras e tarefas conexas de desenvolvimen
 
 3 - O gestor de infraestrutura e as empresas ferroviárias não podem conceder, direta ou indiretamente, empréstimos entre si.
 
-###### Artigo 7.º-E — Mecanismos de coordenação
+Artigo 7.º-E
+
+Mecanismos de coordenação
 
 1 - O gestor de infraestrutura é responsável pela sua coordenação com as empresas ferroviárias interessadas e com os candidatos referidos no n.º 3 do artigo 8.º
 
@@ -2343,7 +2739,9 @@ e) Outras questões relacionadas com as condições de acesso e utilização da 
 
 7 - Não obstante o disposto nos números anteriores, os requerentes podem recorrer à AMT nomeadamente nos termos do disposto no artigo 56.º
 
-###### Artigo 7.º-F — Rede Europeia de Gestores de Infraestrutura
+Artigo 7.º-F
+
+Rede Europeia de Gestores de Infraestrutura
 
 1 - O gestor de infraestrutura deve participar e cooperar numa rede constituída pelos outros gestores de infraestrutura da União Europeia, reunindo periodicamente para:
 
@@ -2363,9 +2761,13 @@ g) Debater a aplicação dos artigos 37.º e 40.º
 
 2 - A coordenação referida no número anterior não impede os requerentes de recorrer à AMT, nem prejudica os poderes desta entidade definidos no artigo 56.º
 
-#### SECÇÃO III — Saneamento financeiro
+SECÇÃO III
 
-###### Artigo 8.º — Financiamento do gestor de infraestrutura
+Saneamento financeiro
+
+Artigo 8.º
+
+Financiamento do gestor de infraestrutura
 
 1 - Tendo em conta o disposto nos artigos 93.º, 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE), pode ser concedido ao gestor de infraestrutura um financiamento proporcional às funções referidas na alínea r) do artigo 3.º, à dimensão da infraestrutura e às necessidades financeiras, designadamente para cobrir novos investimentos, podendo esses financiamentos ser concedidos por meios distintos do financiamento direto pelo Estado, devendo, em qualquer caso, serem cumpridos os requisitos previstos nos n.os 4 e 5.
 
@@ -2381,7 +2783,9 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 5 - Sem prejuízo do eventual objetivo a longo prazo de cobertura pelo utilizador dos custos de infraestrutura de todos os modos de transporte com base numa concorrência intermodal equitativa e não discriminatória, sempre que o transporte ferroviário esteja em condições de concorrer com outros modos de transporte, no quadro da tarifação prevista nos artigos 31.º e 32.º, a AMT pode exigir que o gestor de infraestrutura equilibre as suas contas sem beneficiar de financiamento público.
 
-###### Artigo 9.º — Redução da dívida em condições de transparência
+Artigo 9.º
+
+Redução da dívida em condições de transparência
 
 1 - Sem prejuízo das regras relativas aos auxílios estatais, e nos termos dos artigos 93.º, 107.º e 108.º do TFUE, os membros do Governo responsáveis pelas áreas das finanças e dos transportes devem elaborar um plano de saneamento financeiro que inclua a previsão de redução do endividamento das empresas do setor empresarial do Estado para um nível que não entrave e que melhore a sua gestão financeira.
 
@@ -2391,9 +2795,13 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 4 - O disposto nos n.os 1 e 2 aplica-se apenas às dívidas, e respetivos juros, contraídas pelas empresas ferroviárias públicas ou controladas pelo Estado até à data da abertura do mercado para a totalidade ou parte dos serviços de transporte ferroviário no Estado-Membro em causa e, em qualquer caso, até 15 de março de 2001.
 
-#### SECÇÃO IV — Acesso à infraestrutura e aos serviços ferroviários
+SECÇÃO IV
 
-###### Artigo 10.º — Condições de acesso à infraestrutura ferroviária
+Acesso à infraestrutura e aos serviços ferroviários
+
+Artigo 10.º
+
+Condições de acesso à infraestrutura ferroviária
 
 1 - As empresas ferroviárias beneficiam do direito de acesso às infraestruturas ferroviárias, em condições equitativas, não discriminatórias e transparentes, para exploração de serviços de transporte ferroviário de mercadorias.
 
@@ -2407,7 +2815,9 @@ b) Os custos incorridos com a construção, o financiamento, a gestão, a manute
 
 6 - Durante um serviço internacional de transporte de passageiros, as empresas ferroviárias podem embarcar e desembarcar passageiros em qualquer estação situada ao longo do trajeto internacional, nomeadamente em estações situadas no mesmo Estado-Membro, incluindo esse direito o acesso às infraestruturas de ligação das instalações de serviço previstas no n.º 2 do anexo II ao presente decreto-lei.
 
-###### Artigo 11.º — Limitação do direito de acesso e do direito de embarcar e desembarcar passageiros
+Artigo 11.º
+
+Limitação do direito de acesso e do direito de embarcar e desembarcar passageiros
 
 1 - A AMT pode limitar o direito de acesso, previsto no n.º 3 do artigo anterior, para exploração dos serviços de transporte de passageiros entre um determinado local de partida e um determinado local de destino, sempre que os mesmos sejam objeto de um ou vários contratos de serviço público e o exercício desse direito possa comprometer o equilíbrio económico de tais contratos.
 
@@ -2441,7 +2851,9 @@ d) A empresa ferroviária que solicita o acesso.
 
 8 - Compete à AMT, por meio de regulamento ou instrução, determinar ou concretizar os procedimentos tendentes à avaliação dos pedidos de acesso à infraestrutura e indicar com que documentação devem ser instruídos os referidos pedidos.
 
-###### Artigo 11.º-A — Acesso e utilização de infraestrutura
+Artigo 11.º-A
+
+Acesso e utilização de infraestrutura
 
 1 - Após avaliação dos pedidos de acesso à rede ferroviária nacional, e havendo decisão em sentido favorável, o gestor de infraestrutura celebra, com o operador de serviços de transporte ferroviário de passageiros, um contrato de acesso e utilização da infraestrutura.
 
@@ -2461,11 +2873,15 @@ d) As condições gerais de transporte e as cláusulas contratuais gerais, nos t
 
 5 - Caso este incumpra as condições referidas no n.º 2, a AMT pode ordenar ao operador autorizado a aceder ao transporte ferroviário de passageiros que corrija o seu comportamento, sob pena de abertura de procedimento contraordenacional, podendo ainda, caso as falhas não sejam supridas, determinar a cessação dos efeitos do contrato referido nos números anteriores.
 
-###### Artigo 11.º-B — Serviços de transporte de passageiros de alta velocidade
+Artigo 11.º-B
+
+Serviços de transporte de passageiros de alta velocidade
 
 O exercício do direito de acesso previsto no artigo 10.º para exploração de serviços de transporte de passageiros de alta velocidade só pode ser limitado pela AMT nos termos do artigo 11.º, podendo as alterações previstas no n.º 6 do referido artigo consistir numa modificação do serviço previsto.
 
-###### Artigo 12.º — Taxas aplicáveis às empresas ferroviárias que prestam serviços de passageiros
+Artigo 12.º
+
+Taxas aplicáveis às empresas ferroviárias que prestam serviços de passageiros
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo anterior, a AMT pode autorizar, nas condições fixadas no presente artigo, a autoridade responsável pelos serviços de transporte ferroviário de passageiros a cobrar às empresas ferroviárias que asseguram serviços de passageiros uma taxa aplicável à exploração de ligações da competência dessa autoridade, efetuadas entre duas estações desse Estado-Membro.
 
@@ -2477,7 +2893,9 @@ O exercício do direito de acesso previsto no artigo 10.º para exploração de 
 
 5 - A AMT deve conservar as informações necessárias para assegurar a possibilidade de rastrear a origem das taxas e a sua utilização e comunica essas informações à Comissão Europeia.
 
-###### Artigo 13.º — Condições de acesso aos serviços
+Artigo 13.º
+
+Condições de acesso aos serviços
 
 1 - Os gestores de infraestrutura fornecem a todas as empresas ferroviárias, de modo não discriminatório, o pacote mínimo de acesso previsto no n.º 1 do anexo II ao presente decreto-lei.
 
@@ -2505,7 +2923,9 @@ O exercício do direito de acesso previsto no artigo 10.º para exploração de 
 
 13 - As empresas ferroviárias podem requerer ao gestor de infraestrutura ou a outros operadores da instalação de serviço, enquanto serviços auxiliares, outros serviços referidos no n.º 4 do anexo II ao presente decreto-lei, não sendo o operador da instalação de serviço obrigado a prestar esses serviços, sendo que, caso os preste a terceiros, deve fazê-lo às empresas ferroviárias que o solicitem, de modo não discriminatório.
 
-###### Artigo 13.º-A — Sistemas comuns de informação e de bilhética única
+Artigo 13.º-A
+
+Sistemas comuns de informação e de bilhética única
 
 1 - Sem prejuízo do disposto no [Regulamento (CE) n.º 1371/2007](https://data.europa.eu/eli/reg/2007/1371/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, incumbe ao IMT, I. P., coordenar a implementação de sistemas comuns de informação e bilhética integrada para a venda de bilhetes, de bilhetes únicos e de reservas, nos termos da [Lei n.º 32/2013](https://diariodarepublica.pt/dr/detalhe/lei/32-2013-261161), de 10 de maio, e tendo em conta o disposto nos números seguintes.
 
@@ -2515,33 +2935,51 @@ O exercício do direito de acesso previsto no artigo 10.º para exploração de 
 
 4 - Compete à AMT verificar que os sistemas de informação e bilhética não provocam distorções da concorrência nem discriminação entre as empresas ferroviárias.
 
-#### SECÇÃO V — Acordos transfronteiriços
+SECÇÃO V
 
-###### Artigo 14.º — Princípios gerais aplicáveis aos acordos transfronteiriços
+Acordos transfronteiriços
+
+Artigo 14.º
+
+Princípios gerais aplicáveis aos acordos transfronteiriços
 
 1 - O disposto nos acordos transfronteiriços deve assegurar a não discriminação entre as empresas ferroviárias, nem a restrição do direito que assiste às empresas ferroviárias a operar serviços transfronteiriços.
 
 2 - A negociação ou a celebração de acordos transfronteiriços, novos ou revistos, devem ser notificados à Comissão Europeia.
 
-#### SECÇÃO VI — Acompanhamento pela Comissão Europeia
+SECÇÃO VI
 
-###### Artigo 15.º — Âmbito do acompanhamento
+Acompanhamento pela Comissão Europeia
+
+Artigo 15.º
+
+Âmbito do acompanhamento
 
 Para efeitos do acompanhamento do mercado do transporte ferroviário, a AMT e o IMT, I. P., informam a Comissão Europeia relativamente às obrigações de informações que incumbem aos Estados-Membros no âmbito do acompanhamento do mercado ferroviário.
 
-### CAPÍTULO III — Acesso à atividade de transporte ferroviário
+CAPÍTULO III
 
-#### SECÇÃO I — Licenciamento das empresas ferroviárias
+Acesso à atividade de transporte ferroviário
 
-###### Artigo 16.º — Autoridade responsável pela emissão de licenças
+SECÇÃO I
+
+Licenciamento das empresas ferroviárias
+
+Artigo 16.º
+
+Autoridade responsável pela emissão de licenças
 
 1 - A entidade nacional competente para a emissão de licenças para a prestação de serviços ferroviários é o IMT, I. P.
 
 2 - A informação necessária à aferição do cumprimento dos requisitos de idoneidade, capacidade financeira e competência profissional para efeitos da emissão das licenças referida no número anterior é obrigatoriamente partilhada com a AMT, designadamente para avaliação das condições de acesso à infraestrutura.
 
-#### SECÇÃO II — Condições de obtenção das licenças
+SECÇÃO II
 
-###### Artigo 17.º — Requisitos gerais
+Condições de obtenção das licenças
+
+Artigo 17.º
+
+Requisitos gerais
 
 1 - As empresas estabelecidas em território nacional podem requerer uma licença de acesso à prestação de serviços de transporte ferroviário.
 
@@ -2559,7 +2997,9 @@ b) Licença de serviço de transporte ferroviário de mercadorias.
 
 6 - [Revogado].
 
-###### Artigo 18.º — Requisitos de emissão da licença
+Artigo 18.º
+
+Requisitos de emissão da licença
 
 1 - A licença é concedida a empresas que preencham os requisitos de idoneidade, de capacidade financeira e de competência profissional, que disponham de cobertura da sua responsabilidade civil por um contrato de seguro, nos termos do presente capítulo.
 
@@ -2569,7 +3009,9 @@ b) Licença de serviço de transporte ferroviário de mercadorias.
 
 4 - A titularidade de licença válida é condição necessária, embora não suficiente, de obtenção de acesso à infraestrutura.
 
-###### Artigo 19.º — Requisito de idoneidade
+Artigo 19.º
+
+Requisito de idoneidade
 
 1 - O requisito de idoneidade deve ser preenchido pelas empresas e pelas pessoas responsáveis pela sua gestão, nomeadamente administradores, diretores e gerentes.
 
@@ -2591,7 +3033,9 @@ g) As pessoas ou empresas condenadas por infração de legislação aduaneira, p
 
 h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença transitada em julgado, por infração grave a obrigações decorrentes de convenções coletivas de trabalho vinculativas.
 
-###### Artigo 20.º — Requisito da capacidade financeira
+Artigo 20.º
+
+Requisito da capacidade financeira
 
 1 - O requisito da capacidade financeira considera-se preenchido se as empresas que solicitem uma licença puderem provar que estão em condições de cumprir as suas obrigações efetivas e potenciais, definidas segundo previsões realistas, por um período de 12 meses.
 
@@ -2601,7 +3045,9 @@ h) As pessoas ou empresas condenadas, por decisão definitiva ou sentença trans
 
 4 - O IMT, I. P., pode exigir à empresa que solicita uma licença a apresentação de um relatório de auditoria e de documentos adequados elaborados por um banco, por uma caixa de poupança pública, por um revisor oficial de contas ou por um auditor, devendo esses documentos incluir as informações previstas no anexo III ao presente decreto-lei.
 
-###### Artigo 21.º — Requisitos de competência profissional
+Artigo 21.º
+
+Requisitos de competência profissional
 
 1 - Os requisitos de competência profissional consideram-se preenchidos se as empresas que solicitem uma licença puderem provar que dispõem ou virão a dispor de uma organização de gestão dotada dos conhecimentos ou da experiência necessários para exercer um controlo de exploração e uma supervisão seguros e eficazes no que se refere ao tipo de operações especificadas na licença, nomeadamente quanto:
 
@@ -2613,7 +3059,9 @@ c) À proteção aos utilizadores, bem como às condições de saúde, seguranç
 
 2 - Quando a empresa não tenha ainda iniciado a atividade, deve demonstrar que tem condições de vir a dispor de uma organização de gestão nos termos previstos no número anterior.
 
-###### Artigo 22.º — Requisitos do seguro de responsabilidade civil
+Artigo 22.º
+
+Requisitos do seguro de responsabilidade civil
 
 1 - Sem prejuízo das regras da União Europeia sobre auxílios estatais, nos termos dos artigos 93.º, 107.º e 108.º do TFUE, os riscos decorrentes da atividade das empresas de transporte ferroviário e, nomeadamente, os relacionados com acidentes que causem danos aos passageiros, à infraestrutura, à bagagem, à carga, ao correio e a terceiros, devem ser cobertos por um seguro de responsabilidade civil.
 
@@ -2625,9 +3073,13 @@ c) À proteção aos utilizadores, bem como às condições de saúde, seguranç
 
 5 - Os requerentes devem apresentar uma minuta da apólice a subscrever, de cujo teor resulte ser inequívoco o cumprimento do disposto no n.º 2, bem como a adequação entre o âmbito geográfico da apólice e aquele em que se desenvolve a atividade.
 
-#### SECÇÃO III — Validade das licenças
+SECÇÃO III
 
-###### Artigo 23.º — Âmbito e período de validade
+Validade das licenças
+
+Artigo 23.º
+
+Âmbito e período de validade
 
 1 - As licenças emitidas pelo IMT, I. P., permitem a prestação de serviços de transporte ferroviário em todo o território da União Europeia.
 
@@ -2649,7 +3101,9 @@ c) Se a empresa for dissolvida.
 
 7 - [Revogado].
 
-###### Artigo 24.º — Licenças temporárias, aprovação, suspensão e revogação
+Artigo 24.º
+
+Licenças temporárias, aprovação, suspensão e revogação
 
 1 - Os requisitos de acesso à atividade são de verificação permanente, devendo as empresas demonstrar o seu cumprimento, sempre que lhes seja solicitado.
 
@@ -2697,7 +3151,9 @@ m) Desrespeito pela empresa dos acordos aplicáveis ao transporte internacional 
 
 10 - A emissão, a suspensão, a alteração ou a revogação de uma licença deve ser comunicada imediatamente à Agência Ferroviária Europeia.
 
-###### Artigo 25.º — Procedimento para a emissão das licenças
+Artigo 25.º
+
+Procedimento para a emissão das licenças
 
 1 - Sem prejuízo do disposto no Regulamento de Execução (UE) [2015/171](https://data.europa.eu/eli/reg/2015/171/oj?locale=pt), da Comissão, de 4 de fevereiro de 2015, e no presente capítulo, compete ao IMT, I. P., por meio de regulamento ou de instrução, estabelecer os procedimentos para a obtenção de licença e as metodologias a adotar na avaliação do cumprimento dos requisitos previstos nos artigos 17.º a 22.º
 
@@ -2713,15 +3169,23 @@ c) Não se verifique o preenchimento de qualquer dos requisitos.
 
 4 - A receção e a análise do pedido e a emissão de licenças estão sujeitas a taxas, cujo montante e forma de pagamento é definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
-### CAPÍTULO IV — Aplicação de taxas de utilização da infraestrutura ferroviária e repartição da capacidade da infraestrutura
+CAPÍTULO IV
 
-#### SECÇÃO I — Princípios gerais
+Aplicação de taxas de utilização da infraestrutura ferroviária e repartição da capacidade da infraestrutura
 
-###### Artigo 26.º — Utilização eficaz da capacidade da infraestrutura
+SECÇÃO I
+
+Princípios gerais
+
+Artigo 26.º
+
+Utilização eficaz da capacidade da infraestrutura
 
 A AMT deve assegurar que os regimes de tarifação e de repartição da capacidade da infraestrutura ferroviária respeitem os princípios previstos no presente decreto-lei, permitindo ao gestor de infraestrutura comercializar a capacidade disponível da infraestrutura, bem como a sua utilização de modo eficiente e eficaz.
 
-###### Artigo 27.º — Diretórios de rede
+Artigo 27.º
+
+Diretórios de rede
 
 1 - Após consulta às partes interessadas, o gestor de infraestrutura deve elaborar e publicar os diretórios de rede, sujeitos a validação da AMT, que podem ser obtidos contra o pagamento de uma taxa não superior ao seu custo de publicação.
 
@@ -2737,13 +3201,19 @@ A AMT deve assegurar que os regimes de tarifação e de repartição da capacida
 
 7 - O conteúdo dos diretórios de rede consta do anexo IV ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 28.º — Acordos entre empresas ferroviárias e gestores de infraestrutura
+Artigo 28.º
+
+Acordos entre empresas ferroviárias e gestores de infraestrutura
 
 As empresas ferroviárias que efetuem serviços de transporte ferroviário devem celebrar com o gestor de infraestrutura ferroviária utilizada os acordos de direito público ou privado necessários, devendo as condições que regulam esses acordos ser não discriminatórias e transparentes, nos termos do presente decreto-lei.
 
-#### SECÇÃO II — Taxas de utilização da infraestrutura e de serviço
+SECÇÃO II
 
-###### Artigo 29.º — Fixação, determinação e cobrança de taxas
+Taxas de utilização da infraestrutura e de serviço
+
+Artigo 29.º
+
+Fixação, determinação e cobrança de taxas
 
 1 - O gestor de infraestrutura deve definir um quadro para a tarifação que respeite a independência de gestão prevista no artigo 4.º
 
@@ -2759,7 +3229,9 @@ As empresas ferroviárias que efetuem serviços de transporte ferroviário devem
 
 7 - O gestor de infraestrutura está obrigado a respeitar o sigilo comercial das informações que lhe foram prestadas pelos candidatos.
 
-###### Artigo 30.º — Custos e contabilidade da infraestrutura
+Artigo 30.º
+
+Custos e contabilidade da infraestrutura
 
 1 - Tendo em conta as exigências de segurança e a preservação e a melhoria da qualidade de serviço da infraestrutura, o gestor de infraestrutura deve ser encorajado, através de incentivos, a reduzir os custos de fornecimento da infraestrutura e o nível das taxas de acesso.
 
@@ -2781,7 +3253,9 @@ b) Elaborar e manter atualizado um registo dos seus ativos e dos ativos cuja ges
 
 c) Definir um método de imputação de custos às diferentes categorias de serviços oferecidos às empresas ferroviárias, sujeito a aprovação prévia da autoridade competente, devendo ser adaptado periodicamente com base nas melhores práticas internacionais.
 
-###### Artigo 31.º — Princípios de tarifação
+Artigo 31.º
+
+Princípios de tarifação
 
 1 - As taxas de utilização da infraestrutura ferroviária e das instalações de serviço são pagas ao gestor de infraestrutura e ao operador da instalação de serviço, respetivamente, e utilizadas no financiamento da sua atividade.
 
@@ -2815,7 +3289,9 @@ b) Demonstrar às empresas ferroviárias que as taxas de utilização da infraes
 
 14 - O operador de uma instalação que preste os serviços previstos nos n.os 2 a 4 do anexo II ao presente decreto-lei, deve fornecer ao gestor de infraestrutura as informações relativas às taxas a incluir nos diretórios de rede, ou indicar um sítio na Internet em que essas informações são disponibilizadas, gratuitamente, em formato eletrónico, nos termos do artigo 27.º
 
-###### Artigo 32.º — Exceções aos princípios de tarifação
+Artigo 32.º
+
+Exceções aos princípios de tarifação
 
 1 - Caso as condições de mercado o permitam, para proceder à plena recuperação dos custos do gestor de infraestrutura, podem ser aplicadas sobretaxas adicionais respeitando os princípios da eficácia, transparência e não discriminação, garantindo ao mesmo tempo a maior competitividade possível nos segmentos do mercado ferroviário, devendo o regime de tarifação respeitar os aumentos de produção alcançados pelas empresas ferroviárias.
 
@@ -2847,7 +3323,9 @@ b) Definir os segmentos de mercado que não estejam a ser explorados num dado mo
 
 13 - Se o gestor de infraestrutura pretender alterar elementos essenciais do regime de tarifação, previstos nos n.os 1 a 5, deve torná-los públicos, pelo menos, três meses antes do termo do prazo de publicação dos diretórios de rede previsto no n.º 6 do artigo 27.º
 
-###### Artigo 33.º — Descontos
+Artigo 33.º
+
+Descontos
 
 1 - Sem prejuízo do disposto nos artigos 101.º, 102.º, 106.º e 107.º do TFUE e nas regras nacionais em matéria de concorrência, não obstante o princípio dos custos diretos previsto no n.º 3 do artigo 31.º, os descontos nas taxas aplicadas pelo gestor de infraestrutura a uma empresa ferroviária pela prestação de um serviço devem obedecer aos critérios previstos no presente artigo.
 
@@ -2859,7 +3337,9 @@ b) Definir os segmentos de mercado que não estejam a ser explorados num dado mo
 
 5 - Os regimes de descontos devem ser aplicados de modo não discriminatório para todas as empresas ferroviárias e para idênticos tipos de serviços são aplicados descontos semelhantes.
 
-###### Artigo 34.º — Sistemas de compensação dos custos ambientais, dos custos ligados a acidentes e dos custos de infraestrutura não cobertos
+Artigo 34.º
+
+Sistemas de compensação dos custos ambientais, dos custos ligados a acidentes e dos custos de infraestrutura não cobertos
 
 1 - Quando da utilização da infraestrutura ferroviária, pode ser criado um regime temporário de compensação dos custos ambientais, dos custos ligados a acidentes e dos custos de infraestrutura comprovadamente não cobertos nos modos de transporte concorrentes, na medida em que esses custos excedam os custos equivalentes próprios do caminho-de-ferro.
 
@@ -2869,7 +3349,9 @@ b) Definir os segmentos de mercado que não estejam a ser explorados num dado mo
 
 4 - A autoridade dos transportes deve assegurar a compatibilidade do regime referido no n.º 1 com o disposto nos artigos 93.º, 107.º e 108.º do TFUE.
 
-###### Artigo 35.º — Regime de melhoria do desempenho
+Artigo 35.º
+
+Regime de melhoria do desempenho
 
 1 - O gestor de infraestrutura pode prever mecanismos associados às tarifas pela utilização da infraestrutura que correspondam a um regime de melhoria de desempenho, nomeadamente por via da minimização das perturbações à circulação.
 
@@ -2885,7 +3367,9 @@ c) Prémios para os desempenhos superiores às previsões.
 
 4 - O regime de melhoria do desempenho pode constar dos diretórios de rede previstos no artigo 27.º
 
-###### Artigo 36.º — Taxas de reserva de capacidade
+Artigo 36.º
+
+Taxas de reserva de capacidade
 
 1 - O gestor de infraestrutura pode aplicar uma taxa adequada sobre a capacidade atribuída mas não utilizada, que constitui um incentivo a uma utilização eficiente da capacidade, cujo pagamento é feito pelo candidato ou pela empresa ferroviária nomeada nos termos do n.º 1 do artigo 41.º
 
@@ -2895,7 +3379,9 @@ c) Prémios para os desempenhos superiores às previsões.
 
 4 - O gestor de infraestrutura deve estar sempre em condições de informar todas as partes interessadas sobre a capacidade de infraestrutura já atribuída às empresas ferroviárias utilizadoras.
 
-###### Artigo 37.º — Cooperação em matéria de regimes de tarifação em várias redes
+Artigo 37.º
+
+Cooperação em matéria de regimes de tarifação em várias redes
 
 1 - O gestor de infraestrutura deve cooperar com os gestores de infraestrutura da União Europeia para uma aplicação eficaz dos regimes de tarifação, bem como participar em organizações conjuntas para coordenar a tarifação ou para aplicar taxas sobre a exploração de serviços ferroviários que circulem em mais do que uma rede de infraestrutura europeia.
 
@@ -2903,9 +3389,13 @@ c) Prémios para os desempenhos superiores às previsões.
 
 3 - Para efeitos do disposto no n.º 1, o gestor de infraestrutura deve cooperar com outros gestores de infraestruturas da União Europeia, de modo a permitir uma aplicação eficaz das sobretaxas previstas no artigo 32.º e dos regimes de melhoria do desempenho referidos no artigo 35.º para o tráfego que circule na rede europeia de transporte ferroviário.
 
-#### SECÇÃO III — Repartição da capacidade de infraestrutura
+SECÇÃO III
 
-###### Artigo 38.º — Direitos de capacidade
+Repartição da capacidade de infraestrutura
+
+Artigo 38.º
+
+Direitos de capacidade
 
 1 - A capacidade de infraestrutura é repartida pelo gestor de infraestrutura.
 
@@ -2929,7 +3419,9 @@ b) Todas as outras autoridades competentes interessadas que tenham o direito de 
 
 c) Todas as empresas ferroviárias que executam o contrato de serviço público no itinerário desse serviço de transporte de passageiros.
 
-###### Artigo 39.º — Repartição da capacidade
+Artigo 39.º
+
+Repartição da capacidade
 
 1 - O gestor de infraestrutura deve cumprir os procedimentos de repartição da capacidade de forma equitativa e não discriminatória, em respeito do direito da União Europeia, de modo a permitir a sua utilização eficaz e eficiente.
 
@@ -2937,7 +3429,9 @@ c) Todas as empresas ferroviárias que executam o contrato de serviço público 
 
 3 - O gestor de infraestrutura é obrigado a respeitar o sigilo comercial sobre todas as informações que lhe forem prestadas.
 
-###### Artigo 40.º — Cooperação para a repartição da capacidade de infraestrutura de infraestrutura em várias redes
+Artigo 40.º
+
+Cooperação para a repartição da capacidade de infraestrutura de infraestrutura em várias redes
 
 1 - Quando a capacidade de infraestrutura envolver mais do que uma rede do sistema ferroviário europeu, designadamente no âmbito dos acordos-quadro previstos no artigo 42.º, o gestor de infraestrutura deve cooperar com outros gestores de infraestruturas, de modo a permitir a criação e a repartição eficientes dessa infraestrutura.
 
@@ -2961,7 +3455,9 @@ c) Todas as empresas ferroviárias que executam o contrato de serviço público 
 
 11 - O gestor de infraestrutura disponibiliza aos candidatos os canais horários internacionais preestabelecidos.
 
-###### Artigo 41.º — Candidatos
+Artigo 41.º
+
+Candidatos
 
 1 - Os candidatos podem apresentar pedidos de capacidade de infraestrutura devendo, a fim de utilizarem essa mesma capacidade, nomear uma empresa ferroviária para celebrar um acordo com o gestor de infraestrutura nos termos do artigo 28.º
 
@@ -2971,7 +3467,9 @@ c) Todas as empresas ferroviárias que executam o contrato de serviço público 
 
 4 - As regras referidas no número anterior só podem incidir sobre o fornecimento de uma garantia financeira, que não deve exceder um nível adequado e proporcional ao nível de atividade previsto do candidato sobre a capacidade de apresentar propostas adequadas para a obtenção de capacidade de infraestrutura.
 
-###### Artigo 42.º — Acordos-quadro
+Artigo 42.º
+
+Acordos-quadro
 
 1 - Sem prejuízo do disposto nos artigos 101.º, 102.º e 106.º do TFUE, das regras nacionais em matéria de concorrência e das competências das autoridades nacionais de defesa da concorrência, pode ser celebrado um acordo-quadro entre o gestor de infraestrutura e um candidato, o qual é sujeito a aprovação prévia da AMT, ouvida a Autoridade da Concorrência.
 
@@ -3001,13 +3499,17 @@ b) O gestor de infraestrutura pode reduzir a capacidade reservada que, durante u
 
 12 - No respeito pelo segredo comercial, qualquer parte interessada pode tomar conhecimento das linhas gerais dos acordos-quadro.
 
-###### Artigo 43.º — Calendário do processo de repartição
+Artigo 43.º
+
+Calendário do processo de repartição
 
 1 - O gestor de infraestrutura deve respeitar o calendário do processo de repartição de capacidade previsto no anexo VII ao presente decreto-lei, do qual faz parte integrante.
 
 2 - Antes do início do processo de consulta sobre o projeto de horário de serviço, o gestor de infraestrutura acorda com os outros gestores de infraestrutura em causa os canais horários internacionais a incluir no horário de serviço, que só devem ser ajustados em caso de absoluta necessidade.
 
-###### Artigo 44.º — Pedidos
+Artigo 44.º
+
+Pedidos
 
 1 - Os candidatos podem apresentar ao gestor de infraestrutura pedidos de celebração de acordos para a concessão de direitos de utilização da infraestrutura, em contrapartida de uma taxa prevista na secção II do capítulo IV.
 
@@ -3017,7 +3519,9 @@ b) O gestor de infraestrutura pode reduzir a capacidade reservada que, durante u
 
 4 - Sem prejuízo do disposto no [Regulamento (UE) n.º 913/2010](https://data.europa.eu/eli/reg/2010/913/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de setembro de 2010, na sua redação atual, relativo à rede ferroviária europeia para um transporte de mercadorias competitivo, o gestor de infraestrutura fica autorizado a atuar em nome do candidato para obter capacidade junto de outros gestores de infraestrutura relevantes.
 
-###### Artigo 45.º — Planificação
+Artigo 45.º
+
+Planificação
 
 1 - Sempre que possível, o gestor de infraestrutura deve satisfazer todos os pedidos de capacidade de infraestrutura, nomeadamente os pedidos de canais horários que atravessem mais de uma rede, e ter em conta os condicionalismos que afetam os candidatos, nomeadamente as incidências económicas na sua atividade.
 
@@ -3029,7 +3533,9 @@ b) O gestor de infraestrutura pode reduzir a capacidade reservada que, durante u
 
 5 - O gestor de infraestrutura deve adotar as medidas adequadas para atender às observações apresentadas.
 
-###### Artigo 46.º — Processo de coordenação
+Artigo 46.º
+
+Processo de coordenação
 
 1 - No caso de surgirem conflitos entre diferentes pedidos, durante a planificação prevista no artigo anterior, o gestor de infraestrutura deve assegurar, através da coordenação dos pedidos, o melhor ajustamento possível de todos eles.
 
@@ -3057,7 +3563,9 @@ d) Os critérios pormenorizados utilizados no processo de repartição de capaci
 
 9 - No caso de o sistema de resolução rápida de litígios ser acionado, a decisão deve ser tomada no prazo de 10 dias úteis após o acionamento.
 
-###### Artigo 47.º — Infraestrutura congestionada
+Artigo 47.º
+
+Infraestrutura congestionada
 
 1 - Se, após coordenação de pedidos e audição prévia dos candidatos, se verificar a impossibilidade de satisfazer adequadamente os pedidos, o gestor de infraestrutura declara congestionada a parte de infraestrutura respetiva e informa a AMT do facto.
 
@@ -3071,7 +3579,9 @@ d) Os critérios pormenorizados utilizados no processo de repartição de capaci
 
 6 - Os procedimentos e critérios a adotar caso uma parte da infraestrutura esteja congestionada, devem constar dos diretórios de rede previstos no artigo 27.º
 
-###### Artigo 48.º — Pedidos ad hoc
+Artigo 48.º
+
+Pedidos ad hoc
 
 1 - O gestor de infraestrutura deve responder com a maior brevidade, que não pode ultrapassar os cinco dias úteis, aos pedidos ad hoc relativos a canais horários.
 
@@ -3079,7 +3589,9 @@ d) Os critérios pormenorizados utilizados no processo de repartição de capaci
 
 3 - O gestor de infraestrutura deve proceder, sempre que necessário, a uma avaliação da necessidade de manter no horário definitivo de serviço uma reserva de capacidade que lhe permita responder rapidamente aos pedidos ad hoc de capacidade previsíveis, bem como em caso de infraestruturas congestionadas.
 
-###### Artigo 49.º — Infraestruturas especializadas
+Artigo 49.º
+
+Infraestruturas especializadas
 
 1 - Sem prejuízo do disposto no número seguinte, a capacidade de infraestrutura é considerada disponível para utilização por todos os tipos de serviço compatíveis com as características necessárias para a utilização do canal horário.
 
@@ -3089,7 +3601,9 @@ d) Os critérios pormenorizados utilizados no processo de repartição de capaci
 
 4 - Caso uma infraestrutura tenha sido designada em aplicação do disposto nos n.os 2 e 3, os diretórios de rede devem mencionar esse facto.
 
-###### Artigo 50.º — Análise de capacidade
+Artigo 50.º
+
+Análise de capacidade
 
 1 - Constituindo objetivo da análise de capacidade determinar os condicionalismos de capacidade da infraestrutura que impedem a satisfação adequada dos pedidos de capacidade e sugerir métodos que viabilizem a satisfação de pedidos adicionais, a análise de capacidade deve identificar as causas dos congestionamentos e as medidas que podem ser adotadas a curto e médio prazo para os atenuar.
 
@@ -3097,7 +3611,9 @@ d) Os critérios pormenorizados utilizados no processo de repartição de capaci
 
 3 - A análise de capacidade deve estar concluída no prazo de seis meses após a infraestrutura ter sido identificada como infraestrutura congestionada.
 
-###### Artigo 51.º — Plano de reforço da capacidade
+Artigo 51.º
+
+Plano de reforço da capacidade
 
 1 - Decorridos seis meses após a conclusão de uma análise de capacidade, o gestor de infraestrutura deve apresentar um plano de reforço de capacidade, o qual é sujeito a aprovação prévia pelo IMT, I. P..
 
@@ -3125,13 +3641,17 @@ a) O plano de reforço da capacidade não puder ser realizado por circunstância
 
 b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
-###### Artigo 52.º — Utilização dos canais horários
+Artigo 52.º
+
+Utilização dos canais horários
 
 1 - Ao determinar prioridades para o processo de repartição, o gestor de infraestrutura inclui, nos diretórios de rede, as condições em que tem em conta os níveis anteriores de utilização dos canais horários.
 
 2 - No que se refere às infraestruturadas congestionadas, o gestor de infraestrutura deve exigir a retrocessão dos canais horários que, durante, pelo menos, 30 dias seguidos, tenham sido menos utilizados do que a quota limiar prevista nos diretórios de rede, exceto se tal tiver sido provocado por razões não económicas que escapem ao controlo dos candidatos.
 
-###### Artigo 53.º — Capacidade de infraestrutura para operações de manutenção
+Artigo 53.º
+
+Capacidade de infraestrutura para operações de manutenção
 
 1 - Os pedidos de capacidade de infraestrutura para a realização de operações de manutenção são apresentados durante o processo de planificação.
 
@@ -3141,7 +3661,9 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 4 - Caso o considere necessário, a AMT pode solicitar ao gestor de infraestrutura a disponibilização da informação prevista no número anterior.
 
-###### Artigo 54.º — Medidas especiais em caso de perturbações
+Artigo 54.º
+
+Medidas especiais em caso de perturbações
 
 1 - Em caso de perturbações da circulação ferroviária resultantes de falhas técnicas ou de acidentes, o gestor de infraestrutura deve adotar todas as medidas necessárias para assegurar o restabelecimento da situação normal, devendo, para esse efeito, elaborar um plano de emergência que inclua uma lista dos diversos organismos a informar em caso de incidentes graves ou de perturbações graves da circulação ferroviária.
 
@@ -3155,13 +3677,19 @@ b) As opções disponíveis não forem económica ou financeiramente viáveis.
 
 6 - As perturbações na circulação ferroviária devem ser comunicadas às empresas prestadoras de serviços de transporte de passageiros, com antecedência razoável, com vista à implementação de medidas que assegurem a mobilidade da população.
 
-#### SECÇÃO IV — Entidade reguladora
+SECÇÃO IV
 
-###### Artigo 55.º — Entidade reguladora nacional
+Entidade reguladora
+
+Artigo 55.º
+
+Entidade reguladora nacional
 
 A entidade reguladora nacional para o setor ferroviário é a AMT, que é autónoma, juridicamente distinta e independente, no plano organizativo, funcional, hierárquico e decisório, de qualquer outra entidade, pública ou privada, sendo ainda independente, na sua organização, nas decisões de financiamento, na sua estrutura jurídica e nas suas tomadas de decisão, de qualquer gestor de infraestrutura, organismo de tarifação, organismo de repartição ou candidato, bem como também independente de qualquer autoridade competente envolvida na adjudicação de contratos de serviço público.
 
-###### Artigo 56.º — Funções da entidade reguladora
+Artigo 56.º
+
+Funções da entidade reguladora
 
 1 - Sem prejuízo do disposto no n.º 8 do artigo 46.º, os candidatos podem dirigir-se à AMT caso considerem ter sido tratados de forma injusta ou discriminatória ou de outra forma lesados, nomeadamente para recorrer de decisões tomadas pelo gestor de infraestrutura ou, se for esse o caso, pelas empresas ferroviárias ou pelos operadores das instalações de serviço, no que se refere:
 
@@ -3235,7 +3763,9 @@ b) O IMT, I. P., apresente recomendações à AMT sobre questões que afetem a s
 
 24 - A AMT deve definir as regras e princípios subjacentes à tomada das decisões para as quais seja competente ao abrigo do presente decreto-lei, através de regulamento ou deliberação.
 
-###### Artigo 57.º — Cooperação entre as entidades reguladoras
+Artigo 57.º
+
+Cooperação entre as entidades reguladoras
 
 1 - A AMT deve trocar informações sobre os processos e sobre os princípios e práticas subjacentes à sua tomada de decisões com outras entidades reguladoras, nomeadamente sobre os principais aspetos dos seus procedimentos e sobre os problemas de interpretação da legislação ferroviária transposta por todos os Estados-Membros.
 
@@ -3257,9 +3787,13 @@ b) O IMT, I. P., apresente recomendações à AMT sobre questões que afetem a s
 
 10 - Dos princípios e das práticas referidas no n.º 24 do artigo anterior devem constar as disposições para a resolução dos litígios que possam surgir no âmbito do disposto no n.º 5.
 
-### CAPÍTULO V — Fiscalização e regime sancionatório
+CAPÍTULO V
 
-###### Artigo 58.º — Poderes de fiscalização
+Fiscalização e regime sancionatório
+
+Artigo 58.º
+
+Poderes de fiscalização
 
 1 - Os poderes de fiscalização do cumprimento do disposto no presente decreto-lei competem ao IMT, I. P., e à AMT, nos termos, respetivamente, do [Decreto-Lei n.º 236/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-2012-191561), de 31 de outubro, e do [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio, ambos na sua redação atual.
 
@@ -3271,7 +3805,9 @@ b) Direito de acesso a documentos;
 
 c) Direito de livre interpelação e audição de pessoal.
 
-###### Artigo 59.º — Publicidade
+Artigo 59.º
+
+Publicidade
 
 1 - A AMT publica anualmente um relatório sobre a execução do presente decreto-lei, do qual constam, nomeadamente:
 
@@ -3293,7 +3829,9 @@ g) O número de processos contraordenacionais.
 
 3 - Para efeitos do disposto no número anterior, o sigilo comercial abrange todas as informações relativas à empresa requerente que não estejam sujeitas a qualquer forma de registo ou publicidade obrigatória, que não sejam ou não tenham caído no conhecimento público ou que não tenham sido publicitadas em virtude da prática de um ato judicial.
 
-###### Artigo 60.º — Contraordenações
+Artigo 60.º
+
+Contraordenações
 
 1 - Constituem contraordenações puníveis com coima de (euro) 10 000,00 a (euro) 44 800,00:
 
@@ -3349,13 +3887,17 @@ x) O incumprimento, por parte de entidades sujeitas aos poderes de fiscalizaçã
 
 3 - A negligência é punível.
 
-###### Artigo 61.º — Instrução dos processos e aplicação das coimas
+Artigo 61.º
+
+Instrução dos processos e aplicação das coimas
 
 1 - A instrução dos processos pela prática de contraordenações previstas no presente decreto-lei compete ao IMT, I. P., ou à AMT, conforme as atribuições e competências próprias de cada uma das entidades, cometidas pelo presente diploma.
 
 2 - A aplicação das coimas previstas no presente decreto-lei compete ao conselho diretivo do IMT, I. P., e ao conselho de administração da AMT, consoante o caso.
 
-###### Artigo 62.º — Produto das coimas
+Artigo 62.º
+
+Produto das coimas
 
 O produto das coimas é distribuído da seguinte forma:
 
@@ -3363,19 +3905,27 @@ a) 40 % para a entidade competente para a aplicação da coima, constituindo rec
 
 b) 60 % para o Estado.
 
-### CAPÍTULO VI — Disposições complementares e finais
+CAPÍTULO VI
 
-###### Artigo 63.º — Norma complementar
+Disposições complementares e finais
+
+Artigo 63.º
+
+Norma complementar
 
 1 - Podem ser determinados períodos e prazos para o calendário de repartição das capacidades diferentes dos referidos no n.º 2 do artigo 43.º, na alínea b) do n.º 2 do anexo VI e nos n.os 3 a 5 do anexo VII, se o estabelecimento de canais horários internacionais em cooperação com os gestores das infraestruturas de países terceiros em redes cuja bitola seja diferente da bitola da rede ferroviária principal da União Europeia tiver um impacto significativo no calendário para o processo de repartição de capacidade em geral.
 
 2 - A AMT pode decidir publicar o quadro de tarifação e as regras de tarifação aplicáveis especificamente aos serviços internacionais de transporte de mercadorias de e para países terceiros operados em redes cuja bitola seja diferente da bitola da rede ferroviária principal da União Europeia com instrumentos e prazos diferentes dos previstos ao abrigo do n.º 1 do artigo 29.º, caso tal seja necessário para assegurar uma concorrência leal.
 
-###### Artigo 64.º — Regras de contratação pública
+Artigo 64.º
+
+Regras de contratação pública
 
 As disposições do presente decreto-lei não prejudicam o disposto no Código dos Contratos Públicos.
 
-###### Artigo 65.º — Norma revogatória
+Artigo 65.º
+
+Norma revogatória
 
 São revogados:
 
@@ -3385,11 +3935,15 @@ b) A [Portaria n.º 168/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1
 
 c) O Regulamento n.º 42/2005, de 28 de abril, publicado no Diário da República, 2.ª série, n.º 107, de 3 de junho.
 
-###### Artigo 66.º — Entrada em vigor
+Artigo 66.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da publicação.
 
-## ANEXO I — (a que se refere o artigo 3.º)
+ANEXO I
+
+(a que se refere o artigo 3.º)
 
 Lista de elementos da infraestrutura ferroviária
 
@@ -3417,7 +3971,9 @@ j) Instalações de transformação e de transporte da corrente elétrica para a
 
 k) Edifícios afetos ao serviço das infraestruturas, incluindo a parte relativa às instalações de cobrança dos bilhetes de transporte.
 
-## ANEXO II — (a que se referem os artigos 3.º, 10.º, 13.º e 31.º)
+ANEXO II
+
+(a que se referem os artigos 3.º, 10.º, 13.º e 31.º)
 
 Serviços a prestar às empresas ferroviárias
 
@@ -3475,7 +4031,9 @@ d) Serviços de bilhética nas estações de passageiros;
 
 e) Serviços pesados de manutenção prestados em instalações de manutenção destinadas a comboios de alta velocidade ou a outros tipos de material circulante que requeira instalações específicas.
 
-## ANEXO III — (a que se refere o artigo 20.º)
+ANEXO III
+
+(a que se refere o artigo 20.º)
 
 Capacidade financeira
 
@@ -3499,7 +4057,9 @@ h) Documento comprovativo de que se encontra em situação regularizada perante 
 
 i) Documento comprovativo de que se encontra regularizada quanto às contribuições para a segurança social.
 
-## ANEXO IV — (a que se referem os artigos 27.º, 40.º e 41.º)
+ANEXO IV
+
+(a que se referem os artigos 27.º, 40.º e 41.º)
 
 Conteúdo dos diretórios de rede
 
@@ -3535,7 +4095,9 @@ f) Um capítulo com informações relativas ao acesso às instalações de servi
 
 g) O modelo de acordo-quadro a celebrar pelo gestor de infraestrutura e o candidato, nos termos do artigo 42.º
 
-## ANEXO V — (a que se refere o artigo 30.º)
+ANEXO V
+
+(a que se refere o artigo 30.º)
 
 Princípios e parâmetros básicos dos contratos entre as autoridades competentes e os gestores de infraestrutura
 
@@ -3571,7 +4133,9 @@ h) As regras a seguir em caso de perturbação importante do funcionamento da re
 
 i) As medidas corretivas a adotar em caso de inobservância das obrigações contratuais por qualquer das partes, ou em circunstâncias excecionais que afetem a disponibilidade do financiamento público, incluindo as condições e os procedimentos de renegociação e a cessação antecipada do contrato.
 
-## ANEXO VI — (a que se referem os artigos 32.º, 35.º e 63.º)
+ANEXO VI
+
+(a que se referem os artigos 32.º, 35.º e 63.º)
 
 Requisitos relativos aos custos e taxas associados à infraestrutura ferroviária
 
@@ -3723,7 +4287,9 @@ g) Sem prejuízo das vias de recurso disponíveis e do disposto no artigo 56.º,
 
 h) O gestor de infraestrutura publica anualmente o nível médio de desempenho conseguido pelas empresas ferroviárias, com base nos parâmetros essenciais de melhoria do desempenho.
 
-## ANEXO VII — (a que se referem os artigo 43.º e 44.º)
+ANEXO VII
+
+(a que se referem os artigo 43.º e 44.º)
 
 Calendário do processo de repartição
 
@@ -3797,7 +4363,9 @@ Antes de efetuar uma escolha entre alternativas às restrições de capacidade, 
 
 17 - No que se refere às restrições de capacidade com uma duração superior a 30 dias consecutivos e que afetem mais de 50 % do volume de tráfego estimado para determinada linha férrea, o gestor de infraestrutura estabelece critérios para a alteração de itinerários por tipos de comboios e serviços, tendo em conta os condicionalismos operacionais e comerciais do candidato, exceto se estes condicionalismos operacionais resultarem de decisões de gestão ou organização do candidato e sem prejuízo do objetivo de redução de custos do gestor de infraestrutura em conformidade com o n.º 1 do artigo 30.º O gestor de infraestrutura deve publicar nas especificações da rede estes critérios, juntamente com uma repartição provisória da capacidade restante dos diferentes tipos de serviços ferroviários sempre que agir em conformidade com o ponto 8. No final da consulta, e sem prejuízo das obrigações do gestor de infraestrutura nos termos da alínea c) do anexo IV, o gestor de infraestrutura, com base no feedback recebido dos candidatos, fornece às empresas ferroviárias em causa uma repartição indicativa por tipo de serviço da capacidade restante.
 
-## ANEXO VIII — (a que se refere o artigo 56.º)
+ANEXO VIII
+
+(a que se refere o artigo 56.º)
 
 Informações contabilísticas a apresentar, mediante pedido, à entidade reguladora
 
@@ -3834,3 +4402,5 @@ d) Mapa das despesas de exploração;
 e) Mapa das receitas;
 
 f) Se adequado, notas descritivas e explicativas.
+
+111948735

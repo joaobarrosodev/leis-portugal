@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/2002/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2002-425931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c19479f06b805f0510ad71201a42eef73f2d8822983ef749d2a2eea95082134
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d70c58412f45dc58d5f43928f3ea6e8ab07ee93009db1fc5070257ea7daa59e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto dos Benefícios Fiscais
+- Benefícios Fiscais
 - Contribuições e Impostos
+- Estatuto dos Benefícios Fiscais
 - Infracção Fiscal
 - Lei Geral Tributária
 - Regime Geral das Infracções Tributárias
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os arts. 11.º-A e 12.º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na\
+    \ redacção do presente diploma, revisto pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl]\
+    \ de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o artigo 14.º da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de Dezembro, republicada\
+    \ pela Lei 15/2001, de 05-Jun, na redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249]Supl de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Alterado o art. 11º-A do Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pelo DEC LEI.108/2008.26.06.2008.MFAP,
+    DR.IS [122] de 26.06.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 46º da lei geral tributária, aprovada pelo Dec Lei 398/98, de 17-Dez, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 46.º da Lei Geral Tributária (LGT), aprovada em anexo ao Dec Lei 398/98, de 17-dez na versão republicada
+    pela Lei 15/2001, de 05-jun, na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016,
+    Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/398/1998/12/17/p/dre
   label: null
@@ -90,16 +123,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:30Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +181,9 @@ Medidas impeditivas, suspensivas ou extintivas de benefícios fiscais
 
 As sanções impeditivas, suspensivas ou extintivas de benefícios fiscais poderão ser aplicadas sempre que seja cometida uma infracção fiscal relacionada com os impostos sobre o rendimento, a despesa ou o património, ou às normas do sistema de segurança social, independentemente da sua relação com o benefício concedido.
 
-###### Artigo 12.º — Extinção dos benefícios fiscais
+Artigo 12.º
+
+Extinção dos benefícios fiscais
 
 1 - ...
 
@@ -168,7 +219,9 @@ Benefícios fiscais
 
 4 - Os titulares de benefícios fiscais de qualquer natureza são sempre obrigados a revelar ou a autorizar a revelação à administração tributária dos pressupostos da sua concessão, ou a cumprir outras obrigações previstas na lei ou no instrumento de reconhecimento do benefício, nomeadamente as relativas aos impostos sobre o rendimento, a despesa ou o património, ou às normas do sistema de segurança social, sob pena de os referidos benefícios ficarem sem efeito.
 
-###### Artigo 46.º — Suspensão e interrupção do prazo de caducidade
+Artigo 46.º
+
+Suspensão e interrupção do prazo de caducidade
 
 1 - ...
 
@@ -206,13 +259,17 @@ h) ...
 
 i) ...
 
-###### Artigo 17.º — Pressupostos de aplicação das penas acessórias
+Artigo 17.º
+
+Pressupostos de aplicação das penas acessórias
 
 1 - ...
 
 2 - As penas previstas nas alíneas a), b), d), e) e f) e a inibição de obtenção de benefícios fiscais, franquias aduaneiras e benefícios concedidos pela administração da segurança social, prevista na alínea c), todas do artigo anterior, não podem ter duração superior a três anos, contados do trânsito em julgado da decisão condenatória.
 
-###### Artigo 28.º — Sanções acessórias
+Artigo 28.º
+
+Sanções acessórias
 
 1 - São aplicáveis aos agentes das contra-ordenações tributárias graves as seguintes sanções acessórias:
 
@@ -250,12 +307,12 @@ b) For de montante igual ou superior a (euro) 500 e represente, no mínimo, 10% 
 
 Visto e aprovado em Conselho de Ministros de 5 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 16 de Outubro de 2002.**
+Promulgado em 16 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

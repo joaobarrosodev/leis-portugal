@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/03/06100/04220424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-1973-684228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4534c0a35731c7dd7372a0d5757caa565beb9b20dbd173c0f3758f6a6138d40b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a05641f3e941c69c0babf60c4ab4b4bfaf8edbdf5e2ec2baa2dd685923c168f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Mulher
+- Mulher Trabalhadora
+- Produto Químico
+- Protecção da Maternidade
+- Radioprotecção
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:502399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADO O NUM 1, NA PARTE RELATIVA AOS AGENTES AOS QUAIS NAO E PROIBIDA A EXPOSIÇÃO DE TRABALHADORAS GRÁVIDAS,\
+    \ PUÉRPERAS OU LACTANTES, NOS TERMOS DO ANEXO II DA PORT 229/96 DE 26-JUN DR.IS-B [146], E REVOGADO O NUM 4, PELA MESMA\
+    \ PORT 229/96 DE 26-JUN\06 DE 26-JUN"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-26'
+- type: amended_by
+  target: pt:dre:427403:por
+  label: "Derrogado o n.º 1 do presente diploma, na parte relativa aos agentes aos quais não é proibida a exposição de trabalhadoras\
+    \ grávidas, puérperas ou lactantes, nos termos do anexo II do presente diploma, e revoga o n.º 4 daquela Port PORT.229/96.26.06.1996.PCM,\
+    \ DR.IS-B [146] de 26.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/229-1996-427403
+  date: '1996-06-26'
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:502399:por
+  label: "Revogada, sem prejuízo do previsto no nº 2 do art. 21.º do Código do Trabalho, pela LEI.35/2004.29.07.2004.AR, DR.IS-A\
+    \ [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2004-502399
+  date: '2004-07-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:42Z'
   warnings: []
   errors: []
 ---

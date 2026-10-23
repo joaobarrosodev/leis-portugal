@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/1999/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1999-323948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a740c419e2a838342d411edb59e610704577920e0cc81e89054db99ee663f2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a8fef8d2d02b17f48dd0e98478c218591eb90ba8ada536a0455ddb3d7fc48e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424/1996/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424/1996/08/29/p/dre
+- type: cites
+  target: pt:dre:212057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665971:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:00Z'
   warnings: []
   errors: []
 ---
@@ -122,15 +138,15 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — REGULAMENTO DAS CONDECORAÇÕES DA CRUZ VERMELHA PORTUGUESA
 
@@ -274,7 +290,7 @@ I - Placa de honra (fig. 1)
 
 Placa prateada de 22 pontas, com o diâmetro de 70 mm, contendo, no anverso, uma cruz vermelha de modelo semelhante à da Convenção de Genebra, de 13 mm x 13 mm, tendo sobre o cruzamento dos braços um escudete circular de esmalte branco com as quinas de Portugal (fig. 1).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 II - Medalha de serviços distintos (fig. 2)
 
@@ -282,7 +298,7 @@ Medalha circular de 32 mm de diâmetro, tendo, no anverso, a cruz da Convenção
 
 Fita de suspensão de seda branca, ondeada, tendo, a 4 mm de cada bordo, uma lista vermelha de 3 mm.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 III - Cruz vermelha de benemerência (fig. 3)
 
@@ -292,7 +308,7 @@ Fita de suspensão de seda vermelha ondeada, de 30 mm de largo, quando usada ao 
 
 A esta condecoração corresponde, sobre a fita, uma roseta de 12 mm de diâmetro, com as mesmas cores, salvo se o agraciado detiver a placa de honra, caso em que a roseta terá 15 mm de diâmetro.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 IV - Cruz vermelha de mérito (fig. 4)
 
@@ -302,7 +318,7 @@ No reverso, um escudete circular de esmalte branco perfilado de ouro contém uma
 
 Fita de suspensão vermelha, ondeada, de 30 mm de largo, tendo, a 4 mm de cada bordo, uma lista branca de 2 mm e, ao centro destas duas listas, outra de igual largura. Sobre a fita uma roseta de 10 mm de diâmetro com as mesmas cores.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 V - Cruz vermelha de dedicação (fig. 5)
 
@@ -312,7 +328,7 @@ No reverso, um escudete circular de esmalte branco perfilado de ouro contém uma
 
 Fita de suspensão vermelha, ondeada, de 30 mm de largo, tendo, a 4 mm de cada bordo, uma lista branca de 3 mm. Sobre a fita, uma roseta de 8 mm de diâmetro com as mesmas cores.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 VI - Cruz de exemplar comportamento (fig. 6)
 
@@ -322,7 +338,7 @@ No reverso, um escudete circular de esmalte branco perfilado de ouro contém uma
 
 Fita de suspensão de seda, bipartida de vermelho e branco, ondeada, de 30 mm de largo.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 VII - Medalha de louvor (fig. 7)
 
@@ -332,7 +348,7 @@ Fita de suspensão de seda branca, ondeada, de 30 mm de largo, tendo, a 4 mm de 
 
 Quando o agraciado tiver mais de um louvor, será usada uma travinca de bronze em forma de fivela tendo ao centro uma cruz de 10 mm x 10 mm, onde será cunhado o número de medalhas de louvor concedidas.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
 
 VIII - Medalha de agradecimento (fig. 8)
 
@@ -340,4 +356,4 @@ Medalha circular em bronze, com 32 mm de diâmetro, contendo, no anverso, ao lad
 
 Fita de suspensão de seda, ondeada, de 32 mm de largo, tendo, a 4 mm de cada bordo, uma lista vermelha de 1 mm e, ao centro destas duas listas, outras duas de igual largura e a distâncias iguais.
 
-[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)
+[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)](https://files.diariodarepublica.pt/1s/1999/05/116a00/26662670.pdf)

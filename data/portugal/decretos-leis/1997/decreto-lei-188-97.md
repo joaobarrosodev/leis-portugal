@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/1997/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1997-144601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c526d42cbbffbdd519a17104844babf0f799bf792ad3b7035031aa83c6d6879b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ba161c3098bd27c2c64c4e92a58e2cc695ed7663d07089c5e55cb43914606b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,31 @@ subjects:
 - Alteração Orçamental
 - Autonomia Administrativa
 - Autonomia Financeira
-- Pessoal Dirigente
-- Fundação para a Ciência e a Tecnologia
-- Ministro da Ciência e da Tecnologia
 - Definição de Competências
 - Equipa de Projecto
+- Fundação para a Ciência e a Tecnologia
 - Instituto Público
-- Ministério da Ciência e da Tecnologia
-- Orgânica
-- Tecnologia
 - Jnict
+- Ministério da Ciência e da Tecnologia
+- Ministro da Ciência e da Tecnologia
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
 - Remuneração
+- Tecnologia
 relationships:
 - type: amended_by
   target: pt:dre:521021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Determinada a integração das atribuições do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior\
+    \ (ora extinto), no que respeita à cooperação científica e tecnológica internacional, na Fundação, cuja orgânica foi aprovada\
+    \ no presente diploma, pelo DEC LEI.214/2006.27.10.2006.MCTES, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
   label: null
@@ -94,16 +101,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/146/1996/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/146/1996/08/26/p/dre
+- type: cites
+  target: pt:dre:401913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521021:por
+  label: "Revogado, com excepção do disposto no nº 2 do art. 11º e no art. 30º, pelo DEC LEI.152/2007.27.04.2007.MCTES, DR.IS\
+    \ [82] de 27.04.2007, a partir de 01.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2007-521021
+  date: '2007-04-27'
 article_structure:
   article_count: 34
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:35Z'
   warnings: []
   errors: []
 ---
@@ -534,9 +555,13 @@ d) Gerir o serviço de consulta, fornecimento, empréstimo e permuta das fontes 
 
 e) Desenvolver as acções necessárias à prossecução de uma política de língua portuguesa em matéria científica e tecnológica
 
-##### SUBSECÇÃO VII — Divisão de Apoio Jurídico
+##### SUBSECÇÃO VII
 
-###### Artigo 24.º — Divisão de Apoio Jurídico
+##### Divisão de Apoio Jurídico
+
+###### Artigo 24.º
+
+##### Divisão de Apoio Jurídico
 
 Compete à Divisão de Apoio Jurídico:
 
@@ -550,9 +575,13 @@ d) Dar parecer sobre reclamações, petições, queixas ou requerimentos dirigid
 
 e) Informar e esclarecer os órgãos, serviços e pessoal da FCT sobre o conteúdo de actos legislativos, regulamentares e administrativos, bem como de decisões de tribunais com relevância para a actuação da FCT ou para a situação profissional dos seus funcionários e agentes.
 
-##### SUBSECÇÃO VIII — Divisão de Apoio Informático
+##### SUBSECÇÃO VIII
 
-###### Artigo 25.º — Divisão de Apoio Informático
+##### Divisão de Apoio Informático
+
+###### Artigo 25.º
+
+##### Divisão de Apoio Informático
 
 Compete à Divisão de Apoio Informático:
 
@@ -646,16 +675,16 @@ A transição de pessoal do quadro de pessoal da Junta Nacional de Investigaçã
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Junho de 1997.**
+Promulgado em 17 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 1997.**
+Referendado em 20 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa a que se refere o n.º 2 do artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/172a00/38553863.pdf))](https://files.diariodarepublica.pt/1s/1997/07/172a00/38553863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/172a00/38553863.pdf)

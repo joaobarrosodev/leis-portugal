@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1979-369806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa14c48afc405f4cdac9d7c7c5d049ea0b3cf7cb73aba75604bf5d32d3e3ca16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 524aebce68209c69f20520aef307884ec54ae84e19b86854c9439575e2412190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Imposto sobre a Venda de Veículos
+- Transporte de Passageiros
+- Veículo
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:421584:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506021:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:32Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +117,18 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os veículos ligeiros de passageiros adquiridos para o serviço de aluguer e que tenham beneficiado de redução do imposto sobre a venda de veículos automóveis nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, com a redacção introduzida pelo [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021), de 20 de Janeiro, só poderão ser substituídos decorridos que sejam cinco anos a contar da data da emissão da respectiva licença de aluguer, salvo quando se trate de casos fortuitos ou de força maior.
+Artigo 1.º Os veículos ligeiros de passageiros adquiridos para o serviço de aluguer e que tenham beneficiado de redução do imposto sobre a venda de veículos automóveis nos termos do n.º 3 do artigo 1.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, com a redacção introduzida pelo [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021), de 20 de Janeiro, só poderão ser substituídos decorridos que sejam cinco anos a contar da data da emissão da respectiva licença de aluguer, salvo quando se trate de casos fortuitos ou de força maior.
 
-###### Art. 2.º - 1 - Após o decurso do prazo a que se refere o artigo anterior, a Direcção-Geral de Transportes Terrestres poderá autorizar a substituição daqueles veículos, mediante requerimento fundamentado dos interessados.
+Art. 2.º - 1 - Após o decurso do prazo a que se refere o artigo anterior, a Direcção-Geral de Transportes Terrestres poderá autorizar a substituição daqueles veículos, mediante requerimento fundamentado dos interessados.
 
 2 - Em caso de dúvidas sobre o fundamento do pedido, a Direcção-Geral de Transportes Terrestres deverá ordenar a inspecção do veículo substituendo, a fim de se comprovar a necessidade da sua substituição.
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Frederico Alberto Monteiro da Silva.
 
-**Promulgado em 10 de Setembro de 1979.**
+Promulgado em 10 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

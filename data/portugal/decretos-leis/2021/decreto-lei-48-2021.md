@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2021/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2021-165036158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18e6b6b385cebf6c57d9a7b8775530145fd464c3ecf80964506e89a8cc9f38e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ac5cdb7564f0b794777689f0e3842abb2b556272db8e4fe7c2e94882c9ad46c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Comércio
 - Contra-ordenação
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Indústria de Brinquedos
-- Embalagem
 - Modernização Tecnológica
 - Normas de Segurança
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: cites
   target: celex:32009L0048
@@ -121,16 +121,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/2019/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/2019/05/08/p/dre
+- type: cites
+  target: pt:dre:107495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485180:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:43Z'
   warnings: []
   errors: []
 ---
@@ -187,15 +211,15 @@ c) Quanto à rotulagem de fragrâncias alergénicas nos brinquedos e à proibiç
 
 Visto e aprovado em Conselho de Ministros de 20 de maio de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Eurico Jorge Nogueira Leite Brilhante Dias - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -263,19 +287,19 @@ III - [...]
 
 11 - Os brinquedos não podem conter as seguintes fragrâncias alergénicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
 
 [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
 
 12 - [...]
 
 13 - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
 
 [...]
 
@@ -309,20 +333,22 @@ VI - [...]
 
 [...]
 
-## APÊNDICE A
+APÊNDICE A
 
 Lista das substâncias classificadas como CMR e das suas formas de utilização autorizadas em conformidade com os n.os 4, 5 e 6 da parte III
 
 [...]
 
-## APÊNDICE B
+APÊNDICE B
 
 Classificação de substâncias e misturas
 
 [...]
 
-## APÊNDICE C
+APÊNDICE C
 
 Valores-limite específicos para os produtos químicos utilizados em brinquedos que se destinam a serem usados por crianças com menos de 36 meses ou noutros brinquedos destinados a serem colocados na boca, definidos nos termos do n.º 2 do artigo 46.º da Diretiva [2009/48/CE](http://data.europa.eu/eli/dir/2009/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de junho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11300/0002800034.pdf)
+
+114305972

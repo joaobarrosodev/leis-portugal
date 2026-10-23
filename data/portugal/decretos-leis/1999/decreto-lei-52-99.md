@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/043a00/09940998.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/1999/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1999-158445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ee19df141674ceef51fec6bb43285e33430f908ea5ba586b52c52a276f49ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e566d156aec4f7d1857a0a0c76898e53ddceabb8805d44ed02ab289c668f756e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Recursos Hídricos
 - Descarga de ÁGUA Residual
 - Fiscalização
+- Gestão de Resíduos
 - Licenciamento
 - Mercúrio
-- Proteção do Ambiente
 - Poluição da água
 - Poluição Industrial
+- Proteção do Ambiente
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:70476206:por
@@ -89,16 +89,26 @@ relationships:
   target: celex:31996L0061
   label: null
   source: http://data.europa.eu/eli/dir/1996/61/oj
+- type: repealed_by
+  target: pt:dre:342131:por
+  label: "Revogada a al. B) do anexo pelo DEC LEI.103/2010.24.09.2010.MAOT, DR.IS [187] de 24.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2010-342131
+  date: '2010-09-24'
+- type: repealed_by
+  target: pt:dre:70476206:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2015-70476206
+  date: '2015-10-07'
 article_structure:
-  article_count: 12
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:28Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +157,9 @@ g) «Nova instalação» - qualquer instalação industrial que inicie a sua act
 
 2 - São ainda de considerar as siglas e definições constantes do artigo 3.º do Decreto-Lei n.º 236/98, de 1 de Agosto, sempre que estas se encontrem em conformidade com o presente diploma.
 
-###### Artigo 3.º — Requisitos do licenciamento
+Artigo 3.º
+
+Requisitos do licenciamento
 
 1 - O licenciamento da descarga de águas residuais proveniente das instalações industriais fica condicionado ao cumprimento dos valores limite de descarga constantes da alínea A) do anexo ao presente diploma.
 
@@ -159,7 +171,9 @@ g) «Nova instalação» - qualquer instalação industrial que inicie a sua act
 
 5 - As licenças de descarga de águas residuais serão revistas, pelo menos, de quatro em quatro anos.
 
-###### Artigo 4.º — Aplicação dos valores limite
+Artigo 4.º
+
+Aplicação dos valores limite
 
 1 - Os valores limite aplicam-se normalmente no ponto em que as águas residuais contendo mercúrio são descarregadas.
 
@@ -175,7 +189,9 @@ g) «Nova instalação» - qualquer instalação industrial que inicie a sua act
 
 7 - Os valores limite estabelecidos neste diploma referem-se exclusivamente ao mercúrio, sendo que os restantes parâmetros da descarga de águas residuais devem cumprir o disposto no anexo XVIII do Decreto-Lei n.º 236/98, de 1 de Agosto.
 
-###### Artigo 5.º — Verificação de conformidade
+Artigo 5.º
+
+Verificação de conformidade
 
 1 - O cumprimento dos valores limite constantes da alínea A) do anexo ao presente diploma é verificado através de acções de autocontrolo e de fiscalização, referindo-se os valores limite às águas residuais antes de qualquer diluição no meio receptor.
 
@@ -205,13 +221,17 @@ b) Sejam realizadas campanhas regulares para verificar se as determinações sã
 
 8 - As acções de autocontrolo podem ter uma frequência reduzida sempre que a descarga de mercúrio no âmbito deste diploma não ultrapasse, em cada caso, os valores referidos na alínea A) do anexo ao presente diploma.
 
-###### Artigo 6.º — Métodos analíticos de referência
+Artigo 6.º
+
+Métodos analíticos de referência
 
 1 - Os métodos analíticos de referência para efectuar as acções de autocontrolo e fiscalização das águas residuais e do meio receptor são os indicados na alínea C) do anexo ao presente diploma.
 
 2 - Poderão ser utilizados outros métodos de referência, desde que os seus limites de detecção, a precisão e a exactidão sejam equivalentes aos referidos no n.º 1.
 
-###### Artigo 7.º — Inventário e relatórios
+Artigo 7.º
+
+Inventário e relatórios
 
 1 - Compete às DRA elaborar um inventário das fontes múltiplas de descarga de mercúrio existentes à data da vigência do presente diploma, do qual constará a caracterização das águas residuais descarregadas e dos meios receptores.
 
@@ -221,7 +241,9 @@ b) Sejam realizadas campanhas regulares para verificar se as determinações sã
 
 4 - O INAG elaborará um relatório súmula da situação a nível nacional, no qual será analisado o grau de cumprimento do estipulado no presente diploma.
 
-###### Artigo 8.º — Programas de redução de poluição
+Artigo 8.º
+
+Programas de redução de poluição
 
 1 - Para outras fontes importantes de poluição, fontes múltiplas, o INAG, com base no inventário referido no n.º 1 do artigo 7.º, estabelece, ouvidas as DRA, programas específicos destinados a evitar ou a eliminar a poluição, nomeadamente para as instalações industriais referidas na alínea A) do anexo ao presente diploma como não estando submetidas ao regime de valores limite.
 
@@ -229,37 +251,47 @@ b) Sejam realizadas campanhas regulares para verificar se as determinações sã
 
 3 - A eliminação dos resíduos que contenham mercúrio fica sujeita ao disposto na lei.
 
-###### Artigo 9.º — Comunicação à Comissão Europeia
+Artigo 9.º
+
+Comunicação à Comissão Europeia
 
 Compete ao INAG transmitir ao Gabinete de Relações Internacionais (GRI) do Ministério do Ambiente, para efeitos de comunicação à Comissão Europeia, o relatório referido no n.º 4 do artigo 7.º
 
-###### Artigo 10.º — Regiões Autónomas
+Artigo 10.º
+
+Regiões Autónomas
 
 1 - O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir em diploma regional adequado.
 
 2 - Os serviços e organismos das respectivas administrações regionais devem remeter ao INAG o relatório mencionado no n.º 3 do artigo 7.º
 
-###### Artigo 11.º — Novos valores limite e objectivos de qualidade
+Artigo 11.º
+
+Novos valores limite e objectivos de qualidade
 
 O disposto no presente diploma deverá ser revisto, através da fixação de novos valores limite e objectivos de qualidade mais exigentes, quando se verifique a modificação dos conhecimentos científicos, relativos principalmente à toxicidade, à persistência e à acumulação de mercúrio nos organismos vivos e nos sedimentos, o aperfeiçoamento dos meios técnicos disponíveis ou a fixação de novos valores pela União Europeia.
 
-###### Artigo 12.º — Norma revogatória
+Artigo 12.º
+
+Norma revogatória
 
 No que respeita ao mercúrio, consideram-se derrogadas as disposições dos anexos XVIII, XXI e XXII do Decreto-Lei n.º 236/98, de 1 de Agosto.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 10 de Fevereiro de 1999.**
+Promulgado em 10 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Fevereiro de 1999.**
+Referendado em 11 de Fevereiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — A) Valores limite e procedimentos de verificação de conformidade
+ANEXO
+
+A) Valores limite e procedimentos de verificação de conformidade
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/02/043a00/09940998.pdf)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a859f20912320efff2edb756bb08021fcb936e5ef4a62113d3eb8fd0cc9637a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7947cc60ec07d0a4e543dde2d28b0159289e3eb17f69841e54125e0a6a502834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Formação Profissional
+- Coimbra
 - Ensino Superior Politécnico
 - Escola Superior de Saúde do Alcoitão
 - Escola Superior de Tecnologia da Saúde
 - Escola Técnica dos Serviços de Saúde
-- Lisboa
+- Formação Profissional
 - Integração de Trabalhadores
-- Coimbra
+- Lisboa
 - Pessoal Docente
-- Sistema Educativo
 - Porto
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:226817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522388:por
+  label: "Aplicado à Escola do Serviço de Saúde Militar o disposto no art. 9º do Dec Lei 415/93 de 23-Dez, na redacção dada\
+    \ pelo presente diploma, pelo DEC LEI.56/2000.2000.04.18.MDN,DR.IS-A [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2000-522388
+  date: '2000-04-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
   label: null
@@ -91,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/185/1994/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/185/1994/03/31/p/dre
+- type: cites
+  target: pt:dre:259680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:46Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +169,12 @@ O disposto no artigo anterior produz efeitos desde a entrada em vigor da [Portar
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Eduardo Arcos Gomes dos Reis.
 
-**Promulgado em 26 de Setembro de 1997.**
+Promulgado em 26 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Outubro de 1997.**
+Referendado em 2 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

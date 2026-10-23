@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22792-1967-313248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e56b57454f2785c262fe81be46e5399542d91808228266e86bc9bebc128df865
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77101827d92b52d979ced4e294c6ef12a8847f2859d1c198c0c612538977b8f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:11Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +107,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 REGULAMENTO DO CONCURSO NACIONAL DE EXPLORAÇÕES DE OVINOS PRODUTORES DE CARNE
 
-###### Artigo 1.º A inscrição para o concurso deve fazer-se até ao dia 1 de Março de cada ano. A fase final, compreendendo um concurso-exposição de borregos e de carcaças, efectuar-se-á em Évora no decorrer do mês de Fevereiro do ano seguinte, por ocasião da Feira de Reprodutores.
+Artigo 1.º A inscrição para o concurso deve fazer-se até ao dia 1 de Março de cada ano. A fase final, compreendendo um concurso-exposição de borregos e de carcaças, efectuar-se-á em Évora no decorrer do mês de Fevereiro do ano seguinte, por ocasião da Feira de Reprodutores.
 
-###### Art. 2.º Podem concorrer a este certame todas as explorações privadas que disponham de rebanhos, obedecendo cada um deles às seguintes condições:
+Art. 2.º Podem concorrer a este certame todas as explorações privadas que disponham de rebanhos, obedecendo cada um deles às seguintes condições:
 
 1.º Efectivo não inferior a 100 ovelhas, pertencentes a um mesmo agrupamento étnico;
 
@@ -117,11 +125,11 @@ REGULAMENTO DO CONCURSO NACIONAL DE EXPLORAÇÕES DE OVINOS PRODUTORES DE CARNE
 
 § 3.º Consideram-se satisfeitas as exigências referidas no n.º 2.º quando machos e fêmeas pertencentes a um mesmo núcleo de absorção revelem idêntico grau de melhoramento.
 
-###### Art. 3.º Cada exploração poderá inscrever mais do que um rebanho, desde que se verifiquem, entre os rebanhos a apresentar, diferenças de natureza étnica, quanto a machos ou a fêmeas.
+Art. 3.º Cada exploração poderá inscrever mais do que um rebanho, desde que se verifiquem, entre os rebanhos a apresentar, diferenças de natureza étnica, quanto a machos ou a fêmeas.
 
 § único. Para efeito deste regulamento, considera-se «rebanho» o conjunto de fêmeas e de machos que figurarem em emparelhamento prèviamente adoptado, de acordo com a alínea a) do n.º 1.º do artigo 4.º
 
-###### Art. 4.º Os interessados em fazer participar as suas explorações ovinas neste concurso obrigam-se, em relação a cada um dos rebanhos com que se inscrevam, a:
+Art. 4.º Os interessados em fazer participar as suas explorações ovinas neste concurso obrigam-se, em relação a cada um dos rebanhos com que se inscrevam, a:
 
 1.º Enviar à Estação Zootécnica Nacional, devidamente preenchidos, os seguintes impressos:
 
@@ -155,7 +163,7 @@ A apresentação deverá ter lugar na véspera do dia do concurso, das 8 às 10 
 
 § único. Os impressos, cadernetas e brincos serão fornecidos pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 5.º O concurso comportará as seguintes operações:
+Art. 5.º O concurso comportará as seguintes operações:
 
 1.º Determinação da velocidade de crescimento e do índice de consumo na Estação Zootécnica Nacional durante 60 dias;
 
@@ -163,7 +171,7 @@ A apresentação deverá ter lugar na véspera do dia do concurso, das 8 às 10 
 
 3.º Determinação da precocidade e apreciação da homogeneidade no Concurso-Exposição de Évora.
 
-###### Art. 6.º As explorações serão classificadas mediante a seguinte tabela:
+Art. 6.º As explorações serão classificadas mediante a seguinte tabela:
 
 ... Número máximo de pontos
 
@@ -199,7 +207,7 @@ b) Homogeneidade ... 30
 
 § único. A atribuição dos pontos relativos a cada um dos considerandos será baseada em tabelas auxiliares, aprovadas pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 7.º A classificação final das explorações resultará da síntese das pontuações obtidas, sendo os totais multiplicados pelos seguintes factores:
+Art. 7.º A classificação final das explorações resultará da síntese das pontuações obtidas, sendo os totais multiplicados pelos seguintes factores:
 
 A) Crescimento e conversão alimentar ... 0,3
 
@@ -207,7 +215,7 @@ B) Carcaça ... 0,4
 
 C) Aspectos relativos à criação ... 0,3
 
-###### Art. 8.º A determinação da velocidade de crescimento e do índice de consumo será feita nos quatro borregos a que se refere o n.º 4.º do artigo 4.º
+Art. 8.º A determinação da velocidade de crescimento e do índice de consumo será feita nos quatro borregos a que se refere o n.º 4.º do artigo 4.º
 
 § 1.º Para a determinação destes elementos, os grupos de borregos serão instalados em celas separadas, onde disporão de uma ração constituída por feno e alimento composto.
 
@@ -219,7 +227,7 @@ C) Aspectos relativos à criação ... 0,3
 
 § 5.º O índice de consumo será determinado pelo número de U. F. necessário para o aumento de 1 kg de peso vivo. Nesta apreciação, também os animais serão considerados em grupo.
 
-###### Art. 9.º O exame no matadouro experimental da Estação Zootécnica Nacional incidirá sobre um lote de três borregos, escolhidos pelo criador, de acordo com o referido no n.º 5.º do artigo 4.º
+Art. 9.º O exame no matadouro experimental da Estação Zootécnica Nacional incidirá sobre um lote de três borregos, escolhidos pelo criador, de acordo com o referido no n.º 5.º do artigo 4.º
 
 § 1.º Para a realização desta fase do concurso, os animais serão apresentados às 10 horas da manhã do dia anunciado e submetidos a jejum até à matança, a qual terá lugar 24 horas depois, a contar da entrada no matadouro.
 
@@ -255,15 +263,15 @@ sendo Pcd o peso da carne desossada e Ptp o peso total da perna.
 
 § 4.º Os considerandos referidos no § 3.º serão apreciados nas duas carcaças desmanchadas e o referente à alínea a) no conjunto das três carcaças.
 
-###### Art. 10.º Para efeito dos considerandos C), a), e C), b), do artigo 6.º ter-se-á em conta:
+Art. 10.º Para efeito dos considerandos C), a), e C), b), do artigo 6.º ter-se-á em conta:
 
 a) Na precocidade, a reposição média diária representada pelo quociente do peso vivo pelo número de dias de idade;
 
 b) Na homogeneidade, a relatividade de aproximação no que se refere a pesos e a tipo morfológico.
 
-###### Art. 11.º O júri deste concurso será nomeado pela Direcção-Geral dos Serviços Pecuários.
+Art. 11.º O júri deste concurso será nomeado pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 12.º Compete ao júri:
+Art. 12.º Compete ao júri:
 
 A) Organizar todo o processo do concurso, nomeadamente:
 
@@ -279,19 +287,19 @@ B) Classificar as explorações segundo as tabelas aprovadas e atribuir os respe
 
 C) Elaborar a acta do concurso.
 
-###### Art. 13.º Neste concurso será disputado o Prémio Engenheiro Quartin Graça, representado pela miniatura de um carneiro, de ouro, com o peso de 1 kg.
+Art. 13.º Neste concurso será disputado o Prémio Engenheiro Quartin Graça, representado pela miniatura de um carneiro, de ouro, com o peso de 1 kg.
 
 § 1.º Este troféu ficará na posse da exploração classificada em 1.º lugar até à data da realização do concurso seguinte, nele se inscrevendo a exploração vencedora em cada ano.
 
 § 2.º À exploração que obtenha o 1.º lugar será atribuída uma reprodução do Prémio Engenheiro Quartin Graça de metal menos valioso.
 
-###### Art. 14.º Serão atribuídas taças de prata às explorações que tenham sido classificadas em 2.º e 3.º lugares.
+Art. 14.º Serão atribuídas taças de prata às explorações que tenham sido classificadas em 2.º e 3.º lugares.
 
-###### Art. 15.º Quando uma exploração concorra com mais de um rebanho, será considerado, para efeitos de atribuição dos prémios referidos, sòmente aquele que obtiver a maior classificação final.
+Art. 15.º Quando uma exploração concorra com mais de um rebanho, será considerado, para efeitos de atribuição dos prémios referidos, sòmente aquele que obtiver a maior classificação final.
 
-###### Art. 16.º Serão conferidas medalhas de ouro, prata e cobre e todas as explorações que tenham obtido, respectivamente, os mínimos de 90, 80 e 70 pontos.
+Art. 16.º Serão conferidas medalhas de ouro, prata e cobre e todas as explorações que tenham obtido, respectivamente, os mínimos de 90, 80 e 70 pontos.
 
-###### Art. 17.º Será atribuído um troféu especial à exploração que obtenha o 1.º lugar em cada um dos seguintes agrupamentos:
+Art. 17.º Será atribuído um troféu especial à exploração que obtenha o 1.º lugar em cada um dos seguintes agrupamentos:
 
 Raças especializadas em produção de carne;
 
@@ -301,22 +309,22 @@ Cruzamentos,
 
 podendo o júri atribuir ainda prémios suplementares e, bem assim, os troféus de que disponha.
 
-###### Art. 18.º Os borregos destinados à determinação dos índices de consumo serão adquiridos pela Estação Zootécnica Nacional ao preço corrente da carne no mercado de Lisboa, calculado na base de 50 por cento do peso vivo à entrada naquele estabelecimento, acrescido de 20 por cento.
+Art. 18.º Os borregos destinados à determinação dos índices de consumo serão adquiridos pela Estação Zootécnica Nacional ao preço corrente da carne no mercado de Lisboa, calculado na base de 50 por cento do peso vivo à entrada naquele estabelecimento, acrescido de 20 por cento.
 
 § único. Estes borregos podem voltar à posse dos respectivos proprietários desde que sejam levantados no prazo de três dias, a contar do dia final das provas a que foram submetidos, sendo pagos na base do preço estabelecido nas condições indicadas no corpo do artigo e do peso vivo que acusarem no momento.
 
-###### Art. 19.º Os animais destinados ao abate no matadouro experimental da Estação Zootécnica Nacional serão pagos ao preço e nas condições estabelecidos no artigo anterior.
+Art. 19.º Os animais destinados ao abate no matadouro experimental da Estação Zootécnica Nacional serão pagos ao preço e nas condições estabelecidos no artigo anterior.
 
-###### Art. 20.º As despesas a realizar com o transporte dos animais, quer para a Estação Zootécnica Nacional, quer para o Concurso-Exposição de Évora, serão de conta dos concorrentes.
+Art. 20.º As despesas a realizar com o transporte dos animais, quer para a Estação Zootécnica Nacional, quer para o Concurso-Exposição de Évora, serão de conta dos concorrentes.
 
-###### Art. 21.º O número de carcaças a expor na fase final do concurso será condicionado pela capacidade da instalação frigorífica e pela ordem de classificação.
+Art. 21.º O número de carcaças a expor na fase final do concurso será condicionado pela capacidade da instalação frigorífica e pela ordem de classificação.
 
-###### Art. 22.º O júri resolverá os casos omissos neste regulamento.
+Art. 22.º O júri resolverá os casos omissos neste regulamento.
 
-###### Art. 23.º Qualquer concorrente poderá recorrer da classificação atribuída à sua exploração, desde que o faça por escrito, no prazo de uma hora, a contar do momento em que forem tornados públicos os resultados, e o recurso diga respeito aos aspectos consignados nos n.os 1.º e 2.º do artigo 2.º e seja acompanhado da importância de 500$00.
+Art. 23.º Qualquer concorrente poderá recorrer da classificação atribuída à sua exploração, desde que o faça por escrito, no prazo de uma hora, a contar do momento em que forem tornados públicos os resultados, e o recurso diga respeito aos aspectos consignados nos n.os 1.º e 2.º do artigo 2.º e seja acompanhado da importância de 500$00.
 
 § único. Para a apreciação das reclamações, nomeará o presidente um júri especial, do qual farão parte os membros do primeiro e de cuja decisão não haverá recurso. A importância depositada será devolvida ou reverterá a favor da Santa Casa da Misericórdia de Évora, consoante a reclamação for ganha ou perdida pelo reclamante.
 
-###### Art. 24.º Por simples despacho do Secretário de Estado da Agricultura, poderão as disposições do presente regulamento sofrer as alterações de ordem técnica que a Direcção-Geral dos Serviços Pecuários entenda submeter à consideração superior.
+Art. 24.º Por simples despacho do Secretário de Estado da Agricultura, poderão as disposições do presente regulamento sofrer as alterações de ordem técnica que a Direcção-Geral dos Serviços Pecuários entenda submeter à consideração superior.
 
 Secretaria de Estado da Agricultura, 24 de Julho de 1967. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

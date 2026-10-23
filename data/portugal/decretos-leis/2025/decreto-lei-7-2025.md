@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2025/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2025-906913018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23dfe39cde461d9ebfd0a23fc633531ffcaf17aef905c1f22d63a7e3f1b0bc21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87cc9ca45e3eedabf4de4b12e82c64766040555376910d31f378b025c65df577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
-- Língua Portuguesa
 - Diploma
-- Regulamentação de Atos Legislativos
+- Ensino Básico
 - Ensino Oficial
 - Ensino Particular
 - Equivalência de Habilitações Literárias
-- Língua Estrangeira
 - Estabelecimento de Ensino
-- Ensino Básico
+- Língua Estrangeira
+- Língua Portuguesa
+- Regulamentação de Atos Legislativos
 - Sistema Educativo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227/2005/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/2005/12/28/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469001:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:53Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +189,7 @@ iii) Matemática e ciências.
 
 6 - Para o efeito do disposto no n.º 3, não são considerados os anos de escolaridade concluídos com aproveitamento por alunos com menos de seis anos de idade.
 
-7 - Para o efeito do disposto nos n.<sup>os</sup>3 e 4, a informação disponibilizada pelo encarregado de educação pode ser complementada por outros elementos a disponibilizar, pelo último estabelecimento de ensino frequentado pelo aluno, ao estabelecimento de ensino onde foi requerido o posicionamento, mediante pedido deste último.
+7 - Para o efeito do disposto nos n.os3 e 4, a informação disponibilizada pelo encarregado de educação pode ser complementada por outros elementos a disponibilizar, pelo último estabelecimento de ensino frequentado pelo aluno, ao estabelecimento de ensino onde foi requerido o posicionamento, mediante pedido deste último.
 
 ###### Artigo 5.º — Efeito
 
@@ -207,12 +215,14 @@ Sem prejuízo do estabelecido no artigo seguinte, o regime previsto no presente 
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Fernando Alexandre.
 
-**Promulgado em 4 de fevereiro de 2025.**
+Promulgado em 4 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2025.**
+Referendado em 6 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118666592

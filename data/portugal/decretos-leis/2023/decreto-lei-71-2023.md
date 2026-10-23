@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2023/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2023-220172308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e9e35f0960056cad8f7d995c87e7ff94cbffb6b1b114fb1751c00322d399a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f75184faa233db7b4787df775a8e8aa3492ec73abc3a95430a1d6651c839d254
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
+- Direção Geral de Política do Mar
+- Economia Azul
 - Financiamento
+- Fundo Azul
+- Hub Azul-Rede de Infraestruturas para a Economia Azul
 - Investigação Científica e Tecnológica
 - Mar
-- Secretaria Geral
-- Ministério da Economia
-- Conselho Consultivo
 - Meio Marinho
-- Direção Geral de Política do Mar
+- Ministério da Economia
 - Orgânica
-- Segurança Marítima
-- Fundo Azul
-- Economia Azul
 - Plano de Recuperação e Resiliência
-- Hub Azul-Rede de Infraestruturas para a Economia Azul
+- Secretaria Geral
+- Segurança Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/2021/12/30/p/dre
@@ -100,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/17/2012/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/17/2012/01/31/p/dre
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:42Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +186,17 @@ c) No âmbito da investigação científica e tecnológica, da monitorização e
 
 6 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
 2 - A comissão anual atribuída à Secretaria-Geral da Economia nos termos do número anterior é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e do mar, exarado até dia 30 de janeiro de cada ano, até 0,5 % das receitas próprias do Fundo, inscritas em cada ano.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - A entidade gestora do Fundo é a Secretaria-Geral da Economia, que assegura o apoio técnico, administrativo e logístico necessário ao funcionamento do Fundo.
 
@@ -190,7 +214,9 @@ c) No âmbito da investigação científica e tecnológica, da monitorização e
 
 8 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -200,7 +226,9 @@ c) No âmbito da investigação científica e tecnológica, da monitorização e
 
 4 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -242,12 +270,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de julho de 2023. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva.
 
-**Promulgado em 17 de agosto de 2023.**
+Promulgado em 17 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de agosto de 2023.**
+Referendado em 17 de agosto de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116784224

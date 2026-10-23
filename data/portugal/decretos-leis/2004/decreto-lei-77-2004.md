@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2004/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2004-217518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e38801ee0df11e25ce0dea26ce2dca55c1750c658b5a60283e224d8468e1730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cac939befde30d5834914c9142a71754464577b1d1c4494863a198a87a8c17f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
-- Turismo
 - Definição de Competências
 - Estatuto
+- ICEP
 - Instituto de Financiamento e Apoio ao Turismo
 - Instituto de Turismo de Portugal
 - Integração de Trabalhadores
 - Transferência de Competências
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:520987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213810:por
+  label: "Integrado no Ministério do Turismo o Instituto de Turismo de Portugal, cuja orgânica foi aprovada pelo Dec Lei 308/99\
+    \ de 10-Ago, com a redacção do presente diploma, pelo DEC LEI.228/2004.07.12.2004.MTUR, DR.IS-A [286] de 07.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2004-213810
+  date: '2004-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186/2003/08/20/p/dre
   label: null
@@ -98,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/97/2003/08/01/p/dre
+- type: cites
+  target: pt:dre:361880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654681:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520987:por
+  label: "Revogados, a partir de 01.05.2007, os artigos 2.º, 3.º, 4.º, e na parte aplicável ao Instituto do Turismo de Portugal,\
+    \ os artigos 5.º e 6.º, todos do presente diploma, e determinado que o Turismo de Portugal, I. P., suceda nas atribuições\
+    \ do Instituto de Turismo de Portugal, cuja orgânica foi aprovada pelo citado diploma, pelo DEC LEI.141/2007.27.04.2007.MEI,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2007-520987
+  date: '2007-04-27'
 article_structure:
-  article_count: 18
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:04Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +182,15 @@ Os artigos 1.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 29.º dos Estatutos do ICE
 
 2 - O ICEP exerce a sua actividade sob a tutela funcional do Ministro da Economia e, em matéria relativa a diplomacia económica, sob a tutela do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O ICEP tem por objecto o desenvolvimento e a execução de políticas de apoio à internacionalização da economia portuguesa, à promoção e à divulgação das actividades económicas, nomeadamente na área do comércio de bens e serviços, da imagem de Portugal e das marcas portuguesas no exterior.
 
-###### Artigo 5.º — Atribuições
+Artigo 5.º
+
+Atribuições
 
 São atribuições do ICEP:
 
@@ -168,7 +206,9 @@ e) Assegurar o funcionamento dos sistemas de incentivos, nomeadamente em program
 
 f) Propor e conceber acordos de cooperação económica no âmbito empresarial em colaboração com outras entidades oficiais, participando na sua negociação e execução e colaborar com a Direcção-Geral da Empresa no desenvolvimento da cooperação económica externa, bilateral, regional e multilateral.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O ICEP pode constituir ou participar no capital social de empresas e promover ou participar em outras formas de associação que tenham por objecto o reforço da competitividade e da imagem de Portugal nos mercados externos e a internacionalização das actividades dessas empresas.
 
@@ -176,7 +216,9 @@ f) Propor e conceber acordos de cooperação económica no âmbito empresarial e
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -196,7 +238,9 @@ e) [Anterior alínea f).]
 
 4 - Para os efeitos do número anterior, o ICEP celebra os contratos ou protocolos com a Agência Portuguesa de Investimento, E. P. E., com o Instituto de Turismo de Portugal ou outras entidades, de acordo com as respectivas competências e matérias em causa.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 São órgãos do ICEP:
 
@@ -206,7 +250,9 @@ b) O conselho directivo;
 
 c) O fiscal único.
 
-###### Artigo 9.º — Composição e natureza
+Artigo 9.º
+
+Composição e natureza
 
 1 - ...
 
@@ -220,7 +266,9 @@ c) O fiscal único.
 
 6 - Os membros do conselho directivo do ICEP podem exercer, como actividade derivada do cargo que ocupam ou por inerência, funções em pessoas colectivas participadas pelo ICEP, bem como funções não executivas em outras pessoas colectivas, mediante autorização do Ministro da Economia.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -254,15 +302,21 @@ Os artigos 1.º, 3.º, 4.º, 5.º e 8.º dos Estatutos do Instituto de Turismo d
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O ITP tem a sua sede em Lisboa, podendo dispor de escritórios, delegações, centros de informação e outras formas de representação em qualquer local do território nacional, a criar por despacho do Ministro da Economia, precedido de proposta do conselho directivo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O ITP tem por objecto o apoio ao fortalecimento, modernização e desenvolvimento das estruturas empresariais, a promoção do desenvolvimento de infra-estruturas e investimento no sector do turismo, bem como a promoção interna e externa de Portugal como destino turístico.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para a realização do seu objecto estatutário, são atribuições do ITP:
 
@@ -334,7 +388,9 @@ q) Cooperar com quaisquer entidades portuguesas envolvidas na negociação de ac
 
 6 - Quando se mostrar imprescindível para a prossecução das respectivas atribuições, o ITP pode constituir ou participar em entidades de direito privado, a que se refere a alínea f) do número anterior, mediante autorização dos Ministros das Finanças e da Economia.
 
-###### Artigo 8.º — Conselho directivo
+Artigo 8.º
+
+Conselho directivo
 
 1 - O conselho directivo é o órgão dirigente do ITP composto por um presidente, um ou dois vice-presidentes e no máximo três vogais, nomeados por resolução do Conselho de Ministros, sob proposta do Ministro da Economia.
 
@@ -364,12 +420,12 @@ O disposto na nova redacção do n.º 4 do artigo 29.º dos Estatutos do ICEP pr
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 22 de Março de 2004.**
+Promulgado em 22 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2004.**
+Referendado em 24 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

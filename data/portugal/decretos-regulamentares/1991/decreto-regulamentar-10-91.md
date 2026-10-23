@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/062b00/13771393.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/10/1991/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c02b7256025271a7c286c3ec8dca36ff33658b8890256317fc2e254843a2c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf174fde25262e92326aa68fa094d7debe08810387c86cd488f4948901bd3169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Ordenamento do Território
 - Estabelecimento Industrial
 - Fiscalização
 - Licenciamento
-- Proteção do Ambiente
+- Ordenamento do Território
 - Poluição Industrial
+- Proteção do Ambiente
 - Regulamento
 - Vistoria
 relationships:
@@ -79,20 +79,54 @@ relationships:
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO RECTIFICACAO 131-B/91, PUBLICADA NO DR.IS-B, 133, 2SUPL, DE 910612.\02.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329816:por
+  label: "Revogado pelo DR.25/93.1993.08.17.MIE, DR.IS-B [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1993-329816
+  date: '1993-08-17'
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:17Z'
   warnings: []
   errors: []
 ---
@@ -111,21 +145,21 @@ Assim:
 
 Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Exercício da Actividade Industrial, anexo ao presente decreto regulamentar e que dele faz parte integrante.
+Artigo único. É aprovado o Regulamento do Exercício da Actividade Industrial, anexo ao presente decreto regulamentar e que dele faz parte integrante.
 
 Presidência do Conselho de Ministros, 22 de Outubro de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Marques do Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Fernando Nunes Ferreira Real.
 
-**Promulgado em 25 de Fevereiro de 1991.**
+Promulgado em 25 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1991.**
+Referendado em 26 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Exercício da Actividade Industrial
 
@@ -637,4 +671,4 @@ A suspensão ou cessação do exercício da actividade deve ser comunicada pelo 
 
 O recurso hierárquico das decisões proferidas no âmbito do presente diploma far-se-á nos termos gerais aplicáveis.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/062b00/13771393.pdf))](https://files.diariodarepublica.pt/1s/1991/03/062b00/13771393.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/062b00/13771393.pdf)

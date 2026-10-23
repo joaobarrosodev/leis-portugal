@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21265-1965-236745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed2065b3acd25b4de68ad0d0a72d46aa18c80868f3537574196eba1785917d76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5392a51365b9cc6bececd9be91a45a8e54e0b5db2ff7993059d72f3f0f5216f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:536577:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:39Z'
   warnings: []
   errors: []
 ---
@@ -85,6 +89,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação Nacional, nos termos do artigo 2.º do [Decreto-Lei n.º 46037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46037-1964-536577), de 16 de Novembro de 1964, que ao quadro das direcções dos distritos escolares sejam aumentados os seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/05/09700/06250625.pdf))](https://files.diariodarepublica.pt/1s/1965/05/09700/06250625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/05/09700/06250625.pdf)
 
 Ministérios das Finanças e da Educação Nacional, 3 de Maio de 1965. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento. - O Ministro da Educação Nacional, Inocência Galvão Teles.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/133a00/14781479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/1996/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1996-436216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b9031426b0d23da66714e6383263204c59b1c8e2ac9f4d797aa6aab811424b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 257dab0b77499a6839b2fd19d4eec148cba7802b89fbf3b7a83c35cd0512a161
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ subjects:
 - Criação de Serviços
 - Definição de Competências
 - Gabinete de Apoio Estudos e Planeamento
-- Jovem
 - Gabinete Governamental
 - Gestão
+- Jovem
 - Legalidade
 - Orgânica
+- Política de Juventude
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Política de Juventude
 - Relações Internacionais
 - Secretário de Estado da Juventude
 relationships:
@@ -85,16 +85,33 @@ relationships:
   target: pt:dre:432072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:210980:por
+  label: "Alterada a redacção dos arts. 3º, 4º e 5 pelo DEC LEI.36/98.1998.02.24.PCM, DR.IS-A [46] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-1998-210980
+  date: '1998-02-24'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Integrado o Gabinete de Apoio, Estudos e Planeamento da Juventude no Ministério da Juventude e do Desporto, pelo\
+    \ DEC LEI.267-A/2000.2000.10.20.PCM DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: repealed_by
+  target: pt:dre:432072:por
+  label: "Revogado e determinada a extinção do Gabinete de Apoio, Estudos e Planeamento do ex-Ministério da Juventude e do\
+    \ Desporto, pelo DEC LEI.214/2002.2002.10.22.PCM DR.IS-A [244]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2002-432072
+  date: '2002-10-22'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:54Z'
   warnings: []
   errors: []
 ---
@@ -159,16 +176,16 @@ Os encargos com a criação do GAEP serão suportados no corrente ano pelo orça
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 29 de Maio de 1996.**
+Promulgado em 29 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Junho de 1996.**
+Referendado em 3 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pessoal do Gabinete de Apoio, Estudos e Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/133a00/14781479.pdf))](https://files.diariodarepublica.pt/1s/1996/06/133a00/14781479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/133a00/14781479.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/731-1973-412270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67e82c4cb62da7eb2a8be09d2542c1cd135feaba87e628d5e13b455f20abb4ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b16d61ffb75bcc22f03dec5f8d69ce8cc22be218a8e4b631b126b96962e104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:42Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. As alíneas a) e b) do § 1.º e o § 2.º do artigo 34.º, as alíneas b) e c) do § único do artigo 36.º e o § único do artigo 37.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, são substituídos pelo seguinte:
 
-###### Art. 34.º ...
+Art. 34.º ...
 
 ...
 
@@ -111,7 +119,7 @@ b) 3600 horas de navegação nesta categoria, das quais, pelo menos, 1200 como c
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 ...
 
@@ -123,7 +131,7 @@ b) Dois anos de embarque com a categoria de piloto de 2.ª classe ou cinco anos 
 
 c) 2700 horas de navegação nesta categoria.
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 ...
 

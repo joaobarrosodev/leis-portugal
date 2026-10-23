@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21462-1965-292549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e062e7552713b19e973f3e1250ee46ba996f21b11e956fd6559ff927d2994be1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0feb3e2b97362e8928e0acf42fa894b92b5e7df3afa25db4d10979f0897ba2c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:29Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Nestes termos, e usando da competência prevista na base LXXXIII, circunstância
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que seja aplicado em todas as províncias ultramarinas o artigo 150.º do Estatuto Judiciário da metrópole, aprovado pelo [Decreto-Lei n.º 44278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44278-1962-398139), de 14 de Abril de 1962, com a seguinte redacção:
 
-###### Art. 150.º Quando dois ou mais magistrados judiciais ou do Ministério Público tiverem, pela data de publicação das respectivas portarias e da posse no prazo legal, a mesma antiguidade, observar-se-á o seguinte:
+Art. 150.º Quando dois ou mais magistrados judiciais ou do Ministério Público tiverem, pela data de publicação das respectivas portarias e da posse no prazo legal, a mesma antiguidade, observar-se-á o seguinte:
 
 a) Em relação aos juízes de 2.ª instância, deve atender-se à antiguidade que tiverem na categoria anterior, salvo se o lugar que nesta tinham houver sido alterado pelo Conselho Superior Judiciário do Ultramar na graduação para a promoção, caso em que se atende à ordem da graduação;
 

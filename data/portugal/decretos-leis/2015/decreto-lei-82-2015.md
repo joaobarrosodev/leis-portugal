@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09400/0252102529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2015/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2015-67212153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70957f338c8b496d2e4c26cee638ce85009993937298985c8b5b675879dd1644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86d26d50eaf6db596f73d0e1f68893dc8530bf6932ed9404bcaa3b00b684e8a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,63 @@ subjects:
 - Adjudicação
 - Contrato de Concessão
 - Lisboa
-- Serviço Público
 - Oceanário de Lisboa
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, sem prejuízo dos poderes legalmente conferidos a outras áreas governativas,
+    que o Ministro do Mar assume a qualidade de concedente no âmbito das bases da concessão das atividades de serviço público
+    de exploração e administração do equipamento «Oceanário de Lisboa», aprovadas pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022, sem prejuízo dos poderes legalmente conferidos a outras áreas governativas,
+    que o Ministro da Economia e do Mar assume a qualidade de concedente no âmbito das bases da concessão das atividades de
+    serviço público de exploração e administração do equipamento «Oceanário de Lisboa», aprovadas pelo presente diploma pelo(a)
+    Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que o Ministro da Economia, sem prejuízo dos poderes legalmente conferidos
+    a outras áreas governativas, assume a qualidade de concedente no âmbito das bases da concessão das atividades de serviço
+    público de exploração e administração do Oceanário de Lisboa pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º
+    91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determina, com efeitos a 5 de junho de 2025, que o Ministro da Agricultura e Mar, sem prejuízo dos poderes legalmente
+    conferidos a outras áreas governativas, assume a qualidade de concedente no âmbito das bases da concessão das atividades
+    de serviço público de exploração e administração do Oceanário de Lisboa pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da
+    República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2015/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/2015/03/26/p/dre
+- type: cites
+  target: pt:dre:66849065:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:19Z'
   warnings: []
   errors: []
 ---
@@ -146,15 +182,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 13 de maio de 2015.**
+Promulgado em 13 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de maio de 2015.**
+Referendado em 14 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -162,7 +198,9 @@ Bases da Concessão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nas presentes bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados têm o significado que a seguir lhes é apontado:
 
@@ -190,13 +228,17 @@ k) «Utentes», os visitantes e outras pessoas que acedem e utilizam as Infraest
 
 2 - Os termos definidos no número anterior no singular podem ser utilizados no plural e vice-versa, com a correspondente alteração do respetivo significado, salvo se do contexto resultar claramente o inverso.
 
-###### Base II — Lei aplicável
+Base II
+
+Lei aplicável
 
 1 - O Contrato de Concessão e respetivos contratos a ele anexos ficam sujeitos à lei portuguesa e aos princípios gerais de direito administrativo.
 
 2 - O Contrato de Concessão e respetivos documentos a ele anexos são redigidos em língua portuguesa.
 
-###### Base III — Interpretação e integração
+Base III
+
+Interpretação e integração
 
 1 - O Contrato de Concessão rege-se pelo seu clausulado e pelos respetivos anexos.
 
@@ -204,13 +246,17 @@ k) «Utentes», os visitantes e outras pessoas que acedem e utilizam as Infraest
 
 ### CAPÍTULO II — Objeto, natureza e prazo da Concessão
 
-###### Base IV — Objeto e natureza
+Base IV
+
+Objeto e natureza
 
 1 - A Concessão tem por objeto as atividades de serviço público de exploração e administração do equipamento Oceanário de Lisboa e é estabelecida em regime de exclusivo.
 
 2 - O objeto da Concessão compreende, ainda, as Atividades Comerciais que possam ser desenvolvidas no equipamento Oceanário de Lisboa e nas demais áreas afetas à Concessão, em complemento às atividades de exploração e administração do mesmo.
 
-###### Base V — Serviço público
+Base V
+
+Serviço público
 
 1 - A Concessão é exercida em regime de serviço público, devendo esse serviço ser prestado de modo a atender à satisfação do interesse público, direcionado à promoção do conhecimento dos Oceanos e à sensibilização dos cidadãos em geral para o dever de conservação do Património Natural.
 
@@ -232,13 +278,17 @@ k) «Utentes», os visitantes e outras pessoas que acedem e utilizam as Infraest
 
 10 - O Concedente obriga-se a prestar, em qualquer momento ao longo da concessão, por iniciativa própria ou a solicitação da Concessionária, a pronta e máxima colaboração na prossecução dos objetivos subjacentes ao serviço público concessionado.
 
-###### Base VI — Prazo da Concessão
+Base VI
+
+Prazo da Concessão
 
 O prazo da Concessão é de 30 anos a contar da data de assinatura do Contrato de Concessão.
 
 ### CAPÍTULO III — Sociedade Concessionária
 
-###### Base VII — Objeto social, sede e forma
+Base VII
+
+Objeto social, sede e forma
 
 1 - A Concessionária tem como objeto social o exercício das atividades que, nos termos do Contrato de Concessão, se consideram integradas na Concessão e as referidas nos respetivos Estatutos.
 
@@ -246,11 +296,15 @@ O prazo da Concessão é de 30 anos a contar da data de assinatura do Contrato d
 
 3 - A Concessionária tem a denominação de Oceanário de Lisboa, S. A., e deve adotar a forma de sociedade comercial anónima regulada pela lei portuguesa, durante toda a vigência da Concessão.
 
-###### Base VIII — Regime jurídico
+Base VIII
+
+Regime jurídico
 
 A Concessionária rege-se pelas normas especiais aplicáveis, pelo Código das Sociedades Comerciais, pelos seus Estatutos e pela demais legislação aplicável.
 
-###### Base IX — Capital social e alterações estatutárias
+Base IX
+
+Capital social e alterações estatutárias
 
 1 - Encontram-se sujeitas a autorização fundamentada do Concedente quaisquer alterações estatutárias, nomeadamente as relativas ao capital social da Concessionária que impliquem:
 
@@ -270,7 +324,9 @@ c) A oneração, a transmissão e a conversão de ações representativas do cap
 
 ### CAPÍTULO IV — Estabelecimento da Concessão
 
-###### Base X — Bens da Concessão
+Base X
+
+Bens da Concessão
 
 1 - O estabelecimento da concessão é composto pelos bens móveis e imóveis afetos àquela, bem como pelos respetivos bens intangíveis e, ainda, pelos direitos e obrigações destinados à realização do interesse público subjacente à celebração do contrato, nos termos devidamente identificados no Contrato de Concessão.
 
@@ -286,19 +342,25 @@ c) A oneração, a transmissão e a conversão de ações representativas do cap
 
 7 - Nos últimos cinco anos de duração da Concessão, os negócios referidos no n.º 5 devem ser previamente comunicados pela Concessionária ao Concedente com uma antecedência mínima de 30 dias, podendo este opor-se, fundamentadamente e de acordo com critérios de razoabilidade, à sua concretização no prazo de 10 dias contados da receção daquela comunicação.
 
-###### Base XI — Outros bens utilizados na Concessão
+Base XI
+
+Outros bens utilizados na Concessão
 
 1 - Os bens e direitos da Concessionária não abrangidos na base anterior que sejam utilizados no desenvolvimento das atividades integradas na Concessão podem ser alienados, onerados e substituídos pela Concessionária.
 
 2 - Os bens móveis referidos no número anterior podem ser adquiridos pelo Concedente no termo da Concessão, pelo seu justo valor, a determinar por acordo das partes.
 
-###### Base XII — Manutenção dos bens que integram a Concessão
+Base XII
+
+Manutenção dos bens que integram a Concessão
 
 1 - É obrigação da Concessionária a realização de todas as obras de reparação e de conservação decorrentes da normal utilização dos bens afetos à Concessão, devendo assegurar a permanência destes bens em boas condições de exploração.
 
 2 - É ainda obrigação da Concessionária a realização de todos os investimentos de substituição dos bens afetos à Concessão que sejam necessários ou convenientes de acordo com a vida útil desses mesmos bens, as boas práticas e o cumprimento dos padrões de desempenho, de qualidade e de segurança exigidos de acordo com o Plano Estratégico adotado, nos termos constantes do Contrato de Concessão.
 
-###### Base XIII — Autorizações do Concedente
+Base XIII
+
+Autorizações do Concedente
 
 1 - Salvo disposição em contrário nas presentes Bases e ou no Contrato de Concessão, o prazo de resposta do Concedente a pedidos de autorização ou aprovação feitos pela Concessionária é de 60 dias.
 
@@ -308,7 +370,9 @@ c) A oneração, a transmissão e a conversão de ações representativas do cap
 
 ### CAPÍTULO V — Avaliação de desempenho da Concessionária
 
-###### Base XIV — Plano Estratégico
+Base XIV
+
+Plano Estratégico
 
 1 - A Concessionária obriga-se a elaborar um Plano Estratégico para o desenvolvimento das atividades que integram o objeto da concessão, nos termos e de acordo com os parâmetros fixados no Contrato de Concessão, contendo os objetivos a cumprir na concretização de cada um dos seus três pilares de atividade, o qual deve ser submetido à aprovação do Concedente no prazo de 12 meses após a assinatura do Contrato de Concessão, com validade de cinco anos.
 
@@ -320,7 +384,9 @@ c) A oneração, a transmissão e a conversão de ações representativas do cap
 
 5 - O não cumprimento pela Concessionária das obrigações estabelecidas nos números anteriores dá origem à aplicação de penalidades, nos termos definidos no Contrato de Concessão.
 
-###### Base XV — Monitorização e avaliação do desempenho
+Base XV
+
+Monitorização e avaliação do desempenho
 
 1 - A Concessionária deve definir e implementar sistemas que permitam aferir, em cada momento, a qualidade dos serviços prestados, por si e por terceiros, no equipamento Oceanário de Lisboa, e a adequação desses mesmos serviços à sua procura efetiva e ao cumprimento do Plano Estratégico vigente, nos termos previstos no Contrato de Concessão.
 
@@ -336,11 +402,15 @@ c) A oneração, a transmissão e a conversão de ações representativas do cap
 
 7 - A Concessionária pratica todos os atos necessários à manutenção dos pressupostos que conduzam às certificações existentes nas áreas da qualidade, do ambiente, da saúde e da segurança no trabalho e responsabilidade social, assim como corrige as eventuais desconformidades detetadas no âmbito destas certificações.
 
-###### Base XVI — Fiscalização da Concessão
+Base XVI
+
+Fiscalização da Concessão
 
 A concessão é objeto de fiscalização pelo Concedente, por forma a verificar o cumprimento das obrigações legais e contratuais da Concessionária, nos termos legal e contratualmente previstos.
 
-###### Base XVII — Publicidade e informação
+Base XVII
+
+Publicidade e informação
 
 1 - A Concessionária deve adotar um sistema eficiente de tratamento e de consulta de elementos informativos relativos à exploração e administração do equipamento Oceanário de Lisboa, de modo a poder facultá-los com prontidão ao Concedente e a quaisquer outras entidades com legitimidade para os solicitar.
 
@@ -354,7 +424,9 @@ A concessão é objeto de fiscalização pelo Concedente, por forma a verificar 
 
 ### CAPÍTULO VI — Condição económico-financeira da Concessão
 
-###### Base XVIII — Receitas da Concessão
+Base XVIII
+
+Receitas da Concessão
 
 1 - As receitas da Concessão consistem, designadamente, em:
 
@@ -368,11 +440,15 @@ d) Juros ou remunerações de capitais e de aplicações financeiras efetuadas p
 
 2 - Os preços dos bilhetes de acesso e visita ao equipamento Oceanário de Lisboa, em todas as suas vertentes, são livremente fixados pela Concessionária, sem prejuízo das obrigações de serviço público e da execução da política de responsabilidade social definidos no Contrato de Concessão.
 
-###### Base XIX — Assunção do risco
+Base XIX
+
+Assunção do risco
 
 A Concessionária assume integral responsabilidade por todos os riscos inerentes à Concessão durante o prazo da sua duração, exceto nos casos em que o contrário resulte expressamente do Contrato de Concessão.
 
-###### Base XX — Financiamento
+Base XX
+
+Financiamento
 
 1 - A Concessionária é responsável pela obtenção dos financiamentos necessários ao desenvolvimento de todas as atividades que integram o objeto do contrato, de forma a garantir o exato e pontual cumprimento das suas obrigações.
 
@@ -382,7 +458,9 @@ A Concessionária assume integral responsabilidade por todos os riscos inerentes
 
 ### CAPÍTULO VII — Contrapartida financeira
 
-###### Base XXI — Contrapartida financeira
+Base XXI
+
+Contrapartida financeira
 
 Pelo estabelecimento, exploração e administração do serviço público concessionado, é devida pela Concessionária ao Concedente uma contrapartida financeira composta por:
 
@@ -392,7 +470,9 @@ b) Uma componente financeira anual, a qual pode ser integrada por uma componente
 
 ### CAPÍTULO VIII — Obrigações de segurança, qualidade, ambiente e responsabilidade social da Concessionária
 
-###### Base XXII — Obrigações da Concessionária
+Base XXII
+
+Obrigações da Concessionária
 
 1 - A Concessionária obriga-se a implementar as normas, os procedimentos e as boas práticas constantes da legislação e da regulamentação nacional, europeia e internacional, de carácter vinculativo aplicáveis à segurança em geral e, em particular, à segurança das atividades dos parques zoológicos, segurança contra atos ilícitos e à segurança no trabalho, bem como a proporcionar as estruturas e os meios necessários que permitam uma eficiente gestão da segurança do equipamento Oceanário de Lisboa.
 
@@ -408,39 +488,55 @@ b) Uma componente financeira anual, a qual pode ser integrada por uma componente
 
 ### CAPÍTULO IX — Responsabilidade da Concessionária e garantias
 
-###### Base XXIII — Responsabilidade da Concessionária perante o Concedente
+Base XXIII
+
+Responsabilidade da Concessionária perante o Concedente
 
 A Concessionária é, face ao Concedente, responsável pelo atempado e perfeito cumprimento das obrigações constantes do Contrato de Concessão e as decorrentes de normas, de regulamentos ou de disposições administrativas que lhe sejam aplicáveis, sem que, para exclusão ou limitação da sua responsabilidade, possa opor ao Concedente qualquer contrato ou relação com terceiros.
 
-###### Base XXIV — Responsabilidade da Concessionária perante terceiros
+Base XXIV
+
+Responsabilidade da Concessionária perante terceiros
 
 A Concessionária responde, nos termos da lei, por quaisquer prejuízos causados a terceiros no exercício das atividades que constituem o objeto da Concessão, pela culpa ou pelo risco.
 
-###### Base XXV — Exclusão e limitação da responsabilidade
+Base XXV
+
+Exclusão e limitação da responsabilidade
 
 Sem prejuízo do disposto no Contrato de Concessão, as Partes não podem, reciprocamente, excluir ou limitar a sua responsabilidade em caso de morte ou lesões corporais resultantes de atos e omissões, negligentes ou dolosos.
 
-###### Base XXVI — Responsabilidade por prejuízos causados por entidades contratadas
+Base XXVI
+
+Responsabilidade por prejuízos causados por entidades contratadas
 
 1 - A Concessionária responde, ainda, nos termos em que o comitente responde pelos atos do comissário, pelos prejuízos causados pelos terceiros por si contratados para o desenvolvimento das atividades compreendidas na Concessão.
 
 2 - Constitui especial dever da Concessionária promover e exigir a qualquer terceiro, com quem venha a contratar, que assegure as medidas necessárias para salvaguarda da integridade física do público e do pessoal afeto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e de segurança em vigor a cada momento.
 
-###### Base XXVII — Garantias
+Base XXVII
+
+Garantias
 
 Para garantir o exato e pontual cumprimento das suas obrigações contratuais ou extracontratuais inerentes à concessão, incluindo as relativas a penalidades contratuais, a Concessionária obriga-se a prestar caução nos termos definidos no Contrato de Concessão.
 
-###### Base XXVIII — Seguros
+Base XXVIII
+
+Seguros
 
 A Concessionária obriga-se a manter em vigor os contratos de seguros necessários para garantir uma efetiva cobertura dos riscos seguráveis inerentes à Concessão, nos termos devidamente fixados no Contrato de Concessão.
 
 ### CAPÍTULO X — Modificações subjetivas da Concessão
 
-###### Base XXIX — Subcontratação
+Base XXIX
+
+Subcontratação
 
 A Concessionária pode subcontratar a prestação de atividades e serviços no âmbito das atividades de exploração e administração do equipamento Oceanário de Lisboa, nos termos expressamente previstos no Contrato de Concessão.
 
-###### Base XXX — Subconcessão
+Base XXX
+
+Subconcessão
 
 1 - A Concessionária não pode, salvo autorização prévia do Concedente, subconcessionar, no todo ou em parte, as prestações objeto do Contrato de Concessão.
 
@@ -448,19 +544,25 @@ A Concessionária pode subcontratar a prestação de atividades e serviços no �
 
 3 - Em caso de subconcessão devidamente autorizada, a Concessionária mantém os direitos e continua sujeita às obrigações emergentes do Contrato de Concessão.
 
-###### Base XXXI — Remuneração da Concessionária
+Base XXXI
+
+Remuneração da Concessionária
 
 Sem prejuízo do disposto na Base XXI, como contrapartida da realização das prestações objeto da concessão pela Concessionária, esta tem direito às receitas auferidas na exploração do serviço concessionado, bem como às receitas resultantes do desenvolvimento das Atividades Comerciais e demais receitas obtidas no âmbito da concessão, nos termos identificados na Base XVIII.
 
 ### CAPÍTULO XI — Incumprimento
 
-###### Base XXXII — Incumprimento da Concessionária e penalidades contratuais
+Base XXXII
+
+Incumprimento da Concessionária e penalidades contratuais
 
 Sem prejuízo do previsto na lei, o incumprimento temporário ou definitivo, bem como o cumprimento defeituoso pela Concessionária de quaisquer obrigações emergentes do Contrato de Concessão ou das determinações do Concedente emitidas no âmbito legal ou contratual, originam a aplicação à Concessionária de penalidades, nos termos constantes do Contrato de Concessão.
 
 ### CAPÍTULO XII — Extinção e suspensão da Concessão
 
-###### Base XXXIII — Resolução do Contrato de Concessão
+Base XXXIII
+
+Resolução do Contrato de Concessão
 
 1 - Sem prejuízo dos fundamentos gerais de resolução do Contrato de Concessão e do direito de indemnização nos termos gerais, em caso de violação grave não sanável das obrigações da Concessionária decorrentes do Contrato de Concessão, o Concedente pode resolver o Contrato de Concessão.
 
@@ -488,23 +590,33 @@ i) O incumprimento das obrigações previstas no n.º 1 da base IX, não obstant
 
 4 - A resolução do Contrato de Concessão implica a reversão dos bens afetos à Concessão para o Concedente, nos termos fixados no Contrato de Concessão.
 
-###### Base XXXIV — Resgate da Concessão
+Base XXXIV
+
+Resgate da Concessão
 
 O Concedente pode resgatar a Concessão quando motivos de interesse público o justifiquem, após o decurso do prazo de 10 anos sobre a data do início da Concessão, nos termos constantes do Contrato de Concessão.
 
-###### Base XXXV — Extinção do serviço público
+Base XXXV
+
+Extinção do serviço público
 
 O Concedente pode extinguir o serviço público concessionado por razões de interesse público devidamente fundamentadas, fazendo cessar, automaticamente, a Concessão e conferindo à Concessionária o direito a ser indemnizada nos termos estabelecidos para o resgate, no Contrato de Concessão.
 
-###### Base XXXVI — Sequestro
+Base XXXVI
+
+Sequestro
 
 Em caso de incumprimento grave pela Concessionária das suas obrigações contratuais, ou estando o mesmo iminente, o Concedente pode, mediante sequestro, tomar a seu cargo o desenvolvimento das atividades concedidas e assumir a exploração do serviço concessionado, nos termos estabelecidos no Contrato de Concessão.
 
-###### Base XXXVII — Extinção por acordo
+Base XXXVII
+
+Extinção por acordo
 
 O Concedente e a Concessionária podem, a qualquer momento, acordar na extinção total ou parcial da Concessão, definindo os seus efeitos.
 
-###### Base XXXVIII — Reversão
+Base XXXVIII
+
+Reversão
 
 1 - Extinguindo-se a Concessão, por qualquer motivo, revertem para o Concedente todos os bens e os direitos afetos à Concessão, livres de quaisquer ónus ou encargos, sejam ou não propriedade da Concessionária, obrigando-se a Concessionária a entregá-los em perfeitas condições de funcionamento, de conservação e de segurança, sem prejuízo do normal desgaste inerente à sua utilização, não sendo legítimo invocar, com qualquer fundamento, o direito de retenção.
 
@@ -516,7 +628,9 @@ O Concedente e a Concessionária podem, a qualquer momento, acordar na extinçã
 
 5 - O disposto no número anterior não é aplicável caso o motivo que dê origem à extinção da Concessão seja imputável à Concessionária.
 
-###### Base XXXIX — Caducidade
+Base XXXIX
+
+Caducidade
 
 1 - O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes, sem prejuízo das disposições que, pela sua natureza ou pela sua letra, se destinem a perdurar para além daquela data.
 
@@ -524,36 +638,50 @@ O Concedente e a Concessionária podem, a qualquer momento, acordar na extinçã
 
 ### CAPÍTULO XIII — Resolução de diferendos
 
-###### Base XL — Resolução de diferendos
+Base XL
+
+Resolução de diferendos
 
 Para a resolução de qualquer litígio emergente do Contrato de Concessão a outorgar, podem as Partes celebrar convenções de arbitragem.
 
 ### CAPÍTULO XIV — Disposições finais
 
-###### Base XLI — Invalidade parcial do Contrato de Concessão
+Base XLI
+
+Invalidade parcial do Contrato de Concessão
 
 A eventual nulidade, anulabilidade ou ineficácia de qualquer das cláusulas do Contrato de Concessão não implica só por si a sua invalidade total, devendo o Concedente e a Concessionária, se tal se verificar, procurar por acordo modificar ou substituir as cláusulas inválidas ou ineficazes por outras, o mais rapidamente possível e por forma a salvaguardar a plena validade e eficácia do Contrato de Concessão, de acordo com o espírito, as finalidades e as exigências daquele.
 
-###### Base XLII — Substituição de acordos anteriores
+Base XLII
+
+Substituição de acordos anteriores
 
 1 - Sem prejuízo do disposto sobre a interpretação e integração do Contrato de Concessão, este substitui integralmente todos e quaisquer anteriores acordos, verbais ou escritos, celebrados entre o Concedente e a Concessionária, relativos ao seu objeto.
 
 2 - Não podem ser invocados, nem têm qualquer validade ou eficácia, quaisquer documentos ou acordos que não sejam considerados pelo clausulado do Contrato de Concessão como fazendo parte integrante do mesmo, salvo como eventual elemento de interpretação ou de integração.
 
-###### Base XLIII — Exercício de direitos
+Base XLIII
+
+Exercício de direitos
 
 Sem prejuízo do disposto na base XL quanto à resolução de diferendos, o não exercício ou o exercício tardio ou parcial de qualquer direito que assista ao Concedente ou à Concessionária ao abrigo do Contrato de Concessão não importa a renúncia a esse direito e não impede o seu exercício posterior nem constitui moratória ou novação da respetiva obrigação.
 
-###### Base XLIV — Comunicações e notificações
+Base XLIV
+
+Comunicações e notificações
 
 1 - Sem prejuízo de poderem ser acordadas outras regras quanto às notificações e comunicações entre as partes do contrato, estas devem ser dirigidas para os respetivos endereços, devidamente identificados no contrato.
 
 2 - Qualquer alteração das informações de contacto constantes do contrato deve ser comunicada à outra parte.
 
-###### Base XLV — Prazos e a sua contagem
+Base XLV
+
+Prazos e a sua contagem
 
 Os prazos fixados no Contrato de Concessão são contínuos, não se suspendendo aos sábados, domingos e dias feriados.
 
-###### Base XLVI — Entrada em vigor do Contrato de Concessão
+Base XLVI
+
+Entrada em vigor do Contrato de Concessão
 
 O Contrato de Concessão entra em vigor na data da sua assinatura.

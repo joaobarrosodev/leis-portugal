@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-1983-452527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11b647c0c57d0a192b0b78adfe7e7196aadfd41cffe4712ad61046c4dc1470ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0e4d0cc97ef92861fc19ffbe6c1e89d398049e03d6d16ca548ee84c3857f4c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Sobral Cid
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:367245:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSITITUIDO O QUADRO DE PESSOAL DO HOSPITAL DE SOBRAL CID, NA REDACÇÃO DO PRESENTE DIPLOMA, PELA PORT 11/95 DE\
+    \ 06-JAN DR.IS-B [5].\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-06'
+- type: cites
+  target: pt:dre:460859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601150:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:373787:por
+  label: Rectificada na parte referente ao pessoal operário e auxiliar, pela PORT.666/84.03.09.1984.PCM, DR.IS [204] de 03.09.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-1984-373787
+  date: '1984-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:46:38Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +131,10 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa.
 
-**Assinada em 6 de Maio de 1983.**
+Assinada em 6 de Maio de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Quadro de pessoal do Hospital de Sobral Cid
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14100/22052205.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14100/22052205.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14100/22052205.pdf)

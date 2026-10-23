@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 12º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 12º Suplemento
+  supplement: null
   pages: 3446-(225) a 3446-(231)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29912/02250231.pdf
 entry_into_force_dates: []
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-b-1979-157028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1e93a667af59c116d59f76347c424e93861927280a53e6337d22583962c747f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9ee75cbf1f20e0e0a775c6c57c1602b60dee82e6fc2a12e46eee9be057950bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho de Orientação
+- Definição de Competências
+- Direcção Geral das Indústrias Agrícolas Alimentares
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678033:por
+  label: Rectificado pela DECL.DD6776.14.03.1980.PCM, DR.IS [62] de 14.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678033
+  date: '1980-03-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:07Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +108,19 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral das Indústrias Agrícolas Alimentares, abreviadamente designada por DGIAA, criada pelo artigo 42.º e alínea j) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo que desenvolve a sua actividade no âmbito da preparação, conservação, transformação e comercialização dos produtos agrícolas e alimentares.
+Artigo 1.º - 1 - A Direcção-Geral das Indústrias Agrícolas Alimentares, abreviadamente designada por DGIAA, criada pelo artigo 42.º e alínea j) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo que desenvolve a sua actividade no âmbito da preparação, conservação, transformação e comercialização dos produtos agrícolas e alimentares.
 
 2 - As atribuições da DGIAA são as constantes do artigo 32.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 2.º A DGIAA é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 2.º A DGIAA é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos serviços
 
-###### Art. 3.º A DGIAA dispõe de um Conselho de Orientação Agro-Industrial.
+Art. 3.º A DGIAA dispõe de um Conselho de Orientação Agro-Industrial.
 
-###### Art. 4.º - 1 - O Conselho de Orientação Agro-Industrial é um órgão colegial de consulta e apoio do director-geral, por este presidido, e constituído pelos seguintes membros:
+Art. 4.º - 1 - O Conselho de Orientação Agro-Industrial é um órgão colegial de consulta e apoio do director-geral, por este presidido, e constituído pelos seguintes membros:
 
 a) Director-geral das Indústrias Agrícolas Alimentares;
 
@@ -186,7 +204,7 @@ c) Assegurar o arquivo e expediente do Conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 5.º São serviços da DGIAA:
+Art. 5.º São serviços da DGIAA:
 
 A) Serviços de apoio:
 
@@ -208,11 +226,11 @@ d) Divisão de Licenciamento e Inspecção Técnica.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 6.º - 1 - O Gabinete de Planeamento tem como atribuições a programação das actividades da DGIAA, o ordenamento agro-industrial e a coordenação das matérias relativas ao crédito, custos e preços dos produtos agrícolas e alimentares e dos factores de produção.
+Art. 6.º - 1 - O Gabinete de Planeamento tem como atribuições a programação das actividades da DGIAA, o ordenamento agro-industrial e a coordenação das matérias relativas ao crédito, custos e preços dos produtos agrícolas e alimentares e dos factores de produção.
 
 2 - O Gabinete de Planeamento assegura as ligações com unidades afins do MAP, nomeadamente com os SRA e o Gabinete de Planeamento do Ministério.
 
-###### Art. 7.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
+Art. 7.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
 
 a) Estudos e Planeamento;
 
@@ -222,7 +240,7 @@ c) Preços e Mercados;
 
 d) Estatística.
 
-###### Art. 8.º À Divisão de Estudos e Planeamento compete:
+Art. 8.º À Divisão de Estudos e Planeamento compete:
 
 a) Assegurar a participação da DGIAA na elaboração de estudos, planos e projectos de desenvolvimento agro-industrial a integrar no Plano;
 
@@ -234,7 +252,7 @@ d) Assegurar as ligações com os organismos representativos das actividades eco
 
 e) Assegurar a elaboração do relatório anual da actividade da DGIAA.
 
-###### Art. 9.º À Divisão de Programação e Contrôle de Execução compete:
+Art. 9.º À Divisão de Programação e Contrôle de Execução compete:
 
 a) Recolher e tratar os dados disponíveis, tendo em vista a programação agro-industrial;
 
@@ -246,7 +264,7 @@ d) Obter informação técnica, económica e social que permita a elaboração d
 
 e) Acompanhar, em colaboração com os SRA, a aplicação de financiamentos nos projectos agro-industriais e alimentares.
 
-###### Art. 10.º À Divisão de Preços e Mercados compete:
+Art. 10.º À Divisão de Preços e Mercados compete:
 
 a) Estudar, tanto no mercado interno como externo, a oferta e consumo dos produtos do sector das indústrias agrícolas e alimentares;
 
@@ -270,7 +288,7 @@ j) Participar na definição das condições de importação e de exportação d
 
 l) Dar parecer sobre os pedidos de licenciamento de produtos agro-industriais e alimentares.
 
-###### Art. 11.º À Divisão de Estatística compete:
+Art. 11.º À Divisão de Estatística compete:
 
 a) Estabelecer, em cooperação com os restantes serviços do MAP e de acordo com a Comissão de Estatística, os planos de produção de indicadores estatísticos de natureza técnica e económica para o sector das indústrias agrícolas e alimentares;
 
@@ -284,9 +302,9 @@ e) Produzir e tratar os indicadores estatísticos e elaborar a análise do secto
 
 f) Promover, em colaboração com os SRA, inquéritos e elaborar relatórios sobre o sector das indústrias agrícolas e alimentares, nomeadamente no que diz respeito a áreas de produção, quantidades e qualidades das matérias-primas, rendimentos, custos e preços e instalações tecnológicas.
 
-###### Art. 12.º À Repartição Administrativa compete o apoio administrativo necessário ao funcionamento dos serviços da DGIAA.
+Art. 12.º À Repartição Administrativa compete o apoio administrativo necessário ao funcionamento dos serviços da DGIAA.
 
-###### Art. 13.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 13.º A Repartição Administrativa é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Administração Patrimonial;
 
@@ -294,7 +312,7 @@ b) Administração Financeira;
 
 c) Pessoal e Expediente.
 
-###### Art. 14.º À Secção de Administração Patrimonial compete:
+Art. 14.º À Secção de Administração Patrimonial compete:
 
 a) Organizar e manter actualizado o inventário da DGIAA respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -310,7 +328,7 @@ f) Zelar pela segurança dos edifícios e outras instalações da DGIAA;
 
 g) Assegurar a gestão do serviço de transportes.
 
-###### Art. 15.º À Secção de Administração Financeira compete:
+Art. 15.º À Secção de Administração Financeira compete:
 
 a) Recolher e preparar elementos para a elaboração do orçamento da DGIAA e das respectivas alterações;
 
@@ -320,7 +338,7 @@ c) Coordenar e controlar todas as despesas efectuadas, remetendo os processos à
 
 d) Manter actualizada a conta corrente com as dotações orçamentais.
 
-###### Art. 16.º À Secção de Pessoal e Expediente compete:
+Art. 16.º À Secção de Pessoal e Expediente compete:
 
 a) Organizar e manter actualizado o registo biográfico de todos os funcionários da DGIAA;
 
@@ -336,7 +354,7 @@ f) Manter em funcionamento o arquivo geral e colaborar na organização dos arqu
 
 g) Assegurar o apoio dactilográfico e de reprografia da DGIAA.
 
-###### Art. 17.º À Divisão de Documentação e Informação Técnica compete:
+Art. 17.º À Divisão de Documentação e Informação Técnica compete:
 
 a) Conhecer e divulgar a problemática da integração de Portugal no Mercado Comum no domínio das indústrias agrícolas e alimentares;
 
@@ -360,9 +378,9 @@ j) Colaborar com a DGER na participação em feiras e exposições.
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 18.º A Direcção de Serviços Económicos e Financeiros tem como atribuições a elaboração de pareceres sobre os pedidos de financiamento efectuados pelas empresas industriais agrícolas e alimentares no âmbito do crédito agrícola, assegurar o exercício das tarefas previstas no regime geral das empresas públicas e zelar pela participação do Estado nas empresas do sector.
+Art. 18.º A Direcção de Serviços Económicos e Financeiros tem como atribuições a elaboração de pareceres sobre os pedidos de financiamento efectuados pelas empresas industriais agrícolas e alimentares no âmbito do crédito agrícola, assegurar o exercício das tarefas previstas no regime geral das empresas públicas e zelar pela participação do Estado nas empresas do sector.
 
-###### Art. 19.º A Direcção de Serviços Económicos e Financeiros é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 19.º A Direcção de Serviços Económicos e Financeiros é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Apoio na Gestão de Investimentos;
 
@@ -370,7 +388,7 @@ b) Apoio na Gestão de Cooperativas;
 
 c) Análise de Gestão de Empresas.
 
-###### Art. 20.º À Divisão de Apoio na Gestão de Investimentos compete:
+Art. 20.º À Divisão de Apoio na Gestão de Investimentos compete:
 
 a) Formular e propor objectivos e medidas da política de subsídios e rendimentos para o sector de indústrias agrícolas e alimentares;
 
@@ -388,7 +406,7 @@ g) Propor a concessão de crédito bonificado ou de condições especiais de fin
 
 h) Propor e coordenar o programa de investimentos do sector empresarial do Estado, na parte tutelada pela Secretaria de Estado do Comércio e Indústrias Agrícolas, bem como do sector cooperativo de conservação e transformação de produtos agrícolas e alimentares.
 
-###### Art. 21.º À Divisão de Apoio na Gestão de Cooperativas compete:
+Art. 21.º À Divisão de Apoio na Gestão de Cooperativas compete:
 
 a) Acompanhar e apoiar a gestão económica e financeira das cooperativas de conservação e transformação de produtos agrícolas e alimentares, prestando-lhes assistência;
 
@@ -406,7 +424,7 @@ g) Promover, em colaboração com outros serviços do MAP, acções de reciclage
 
 h) Colaborar com a DGER e os SRA na criação de cooperativas de conservação e transformação de produtos agrícolas e alimentares.
 
-###### Art. 22.º À Divisão de Análise e Gestão de Empresas compete:
+Art. 22.º À Divisão de Análise e Gestão de Empresas compete:
 
 a) Contribuir para a definição da política geral das relações interprofissionais, aproximando os produtores dos transformadores, com vista a uma melhor valorização dos produtos e ao aprovisionamento racional das indústrias agrícolas e alimentares;
 
@@ -416,7 +434,7 @@ c) Acompanhar a gestão das empresas públicas, com participação do Estado no 
 
 d) Dar parecer e elaborar propostas sobre isenções fiscais ou aduaneiras que beneficiem as indústrias agrícolas e alimentares.
 
-###### Art. 23.º À Direcção de Serviços Tecnológicos de Produtos Animais compete:
+Art. 23.º À Direcção de Serviços Tecnológicos de Produtos Animais compete:
 
 a) Estudar e coordenar as relações entre os sectores agrícolas, pecuário e industrial, colaborando activamente em planos de fomento pecuário;
 
@@ -438,7 +456,7 @@ i) Dar execução às atribuições cometidas à DGIAA pela legislação em vigo
 
 j) Informar e dar parecer sobre todos os assuntos da sua especialidade.
 
-###### Art. 24.º - 1 - A Direcção de Serviços Tecnológicos de Produtos Animais é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 24.º - 1 - A Direcção de Serviços Tecnológicos de Produtos Animais é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Carne, Produtos Cárneos e Ovos;
 
@@ -448,7 +466,7 @@ c) Alimentos para Animais.
 
 2 - À Divisões referidas no número anterior incumbem, nas suas respectivas especialidades, as atribuições da Direcção de Serviços Tecnológicos de Produtos Animais expressas no artigo antecedente.
 
-###### Art. 25.º À Direcção de Serviços Tecnológicos de Produtos Vegetais compete:
+Art. 25.º À Direcção de Serviços Tecnológicos de Produtos Vegetais compete:
 
 a) Estudar e coordenar as relações entre os sectores agrícola e industrial, colaborando activamente em planos de fomento agrícola;
 
@@ -470,7 +488,7 @@ i) Dar execução às atribuições cometidas à DGIAA pela legislação em vigo
 
 j) Informar e dar parecer sobre todos os assuntos da sua especialidade.
 
-###### Art. 26.º - 1 - A Direcção de Serviços Tecnológicos de Produtos Vegetais é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 26.º - 1 - A Direcção de Serviços Tecnológicos de Produtos Vegetais é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Vinhos, Vinagres e Outras Bebidas Alcoólicas;
 
@@ -482,15 +500,15 @@ d) Açúcar, Estimulantes e Outras.
 
 2 - Às Divisões referidas no número anterior incumbem, nas suas respectivas especialidades, as atribuições da Direcção de Serviços Tecnológicos de Produtos Vegetais expressas no artigo antecedente.
 
-###### Art. 27.º A Divisão de Licenciamento e Inspecção Técnica tem como atribuições o licenciamento e fiscalização técnica das indústrias agrícolas e alimentares.
+Art. 27.º A Divisão de Licenciamento e Inspecção Técnica tem como atribuições o licenciamento e fiscalização técnica das indústrias agrícolas e alimentares.
 
-###### Art. 28.º A Divisão de Licenciamento e Inspecção Técnica é dirigida por um chefe de divisão e compreende os seguintes núcleos:
+Art. 28.º A Divisão de Licenciamento e Inspecção Técnica é dirigida por um chefe de divisão e compreende os seguintes núcleos:
 
 a) Licenciamento Técnico;
 
 b) Inspecção Técnica.
 
-###### Art. 29.º Ao Núcleo de Licenciamento incumbe:
+Art. 29.º Ao Núcleo de Licenciamento incumbe:
 
 a) Conceder autorizações e proceder ao licenciamento técnico das indústrias agrícolas e alimentares;
 
@@ -506,7 +524,7 @@ f) Emitir parecer sobre as áreas sociais das cooperativas de conservação e tr
 
 g) Solicitar parecer às direcções de serviços tecnológicos sempre que for conveniente, em particular quando os projectos envolvam processos de fabrico ou tecnologia pouco divulgados.
 
-###### Art. 30.º Ao Núcleo de Inspecção Técnica incumbe, em colaboração com os SRA:
+Art. 30.º Ao Núcleo de Inspecção Técnica incumbe, em colaboração com os SRA:
 
 a)Proceder a inquéritos e vistorias para a autorização de novas instalações ou equipamentos, renovação das anteriormente concedidas, ou para efeito de transferência ou transformação das indústrias agrícolas e alimentares;
 
@@ -522,42 +540,42 @@ f) Orientar os interessados no sentido do aperfeiçoamento técnico das instala�
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 31.º A DGIAA disporá do contingente de pessoal dirigente e dos quadros únicos constantes do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 31.º A DGIAA disporá do contingente de pessoal dirigente e dos quadros únicos constantes do mapa anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 32.º Os lugares dos quadros únicos do MAP temporariamente libertos por motivos de provimento dos seus titulares em lugares de pessoal dirigente só poderão ser preenchidos interinamente mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 32.º Os lugares dos quadros únicos do MAP temporariamente libertos por motivos de provimento dos seus titulares em lugares de pessoal dirigente só poderão ser preenchidos interinamente mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 33.º As relações entre a DGIAA e as direcções-gerais, serviços centrais e equiparados e os SRA, além dos expressos nos artigos anteriores deste diploma, basear-se-ão nos princípios a seguir mencionados:
+Art. 33.º As relações entre a DGIAA e as direcções-gerais, serviços centrais e equiparados e os SRA, além dos expressos nos artigos anteriores deste diploma, basear-se-ão nos princípios a seguir mencionados:
 
 a) As actividades resultantes dessas relações, desde que sejam pontuais, deverão ser estabelecidas por protocolo
 
 b) A DGIAA participará no planeamento e programação das actividades resultantes dos serviços nacionais e dos programas nacionais, devendo as verbas destinadas a suportar as acções a executar pela DGIAA ser inscritas no seu orçamento próprio.
 
-###### Art. 34.º - 1 - A DGIAA poderá, sem prejuízo das funções que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 34.º - 1 - A DGIAA poderá, sem prejuízo das funções que lhe estão cometidas, realizar trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de acordo com a tabela de preços que vier a ser aprovada por despacho ministerial e o seu produto constituirá receita do Estado, a entregar por guia.
 
-###### Art. 35.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGIAA poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 35.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGIAA poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 36.º A DGIAA poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal.
+Art. 36.º A DGIAA poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal.
 
-###### Art. 37.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 37.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 38.º O presente diploma entrará em vigor no dia seguinte ao dia sua publicação.
+Art. 38.º O presente diploma entrará em vigor no dia seguinte ao dia sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 28 de Dezembro de 1979.**
+Promulgado em 28 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 33.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29912/02250231.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29912/02250231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29912/02250231.pdf)
 
-**O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/2012/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2012-191528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7290d600aeb996e62b7f0865f111fb62940c81ef989b7892518dfe96c055f8de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dbb8a2fa8f011175b3dbb57fc57bc0a9912187664ffe1b5bf7bded426007838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Sociedade Anónima
-- Obras de Conservação e Restauro
+- Autarquia Local
+- Contratação Pública
 - Contrato Administrativo
 - Empreitada de Obras Públicas
-- Lisboa
 - Gestão Autárquica
+- Gestão do Ambiente
 - Gestão do Património
-- Transmissão da Propriedade
+- Lisboa
 - Locação Financeira
+- Obras de Conservação e Restauro
 - Obras Públicas
 - Parque EXPO 98
 - Parque EXPO-Gestão Urbana do Parque das Nações
-- Gestão do Ambiente
-- Urbanismo
+- Sociedade Anónima
 - Transferência de Competências
-- Autarquia Local
-- Contratação Pública
+- Transmissão da Propriedade
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/165/2001/05/23/p/dre
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1130-c/1999/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1130-c/1999/12/31/p/dre
+- type: cites
+  target: pt:dre:340236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548254:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:30Z'
   warnings: []
   errors: []
 ---
@@ -226,22 +238,22 @@ j) Ordenamento do trânsito rodoviário e pedonal.
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 2 de novembro de 2012.**
+Promulgado em 2 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de novembro de 2012.**
+Referendado em 5 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)
 
 ## ANEXO II — Parcelas/lotes a integrar no domínio do Município de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)
 
 ## ANEXO III — Prestações de serviços no âmbito das atividades de gestão e manutenção urbana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21400/0639606399.pdf)

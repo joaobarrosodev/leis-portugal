@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/281-1980-469793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 462b582d5192b43dd17d13fd20d9e555a528daaf3d5c3b09944f672acdc7cd62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4864ff293fbfd203bb2037d92b6b2ce98be880eca7fcb27bab291ce4bf71c7e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Regulamento dos Serviços da Assembleia da República
+relationships:
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
 article_structure:
   article_count: 73
-  section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:01Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +194,9 @@ A assessoria jurídica pode, no exercício das funções que lhe estão cometida
 
 3 - Nenhum objecto de arte ou espécie documental ou bibliogáfica poderá sair do Museu sem autorização prévia do conselho administrativo, ouvido o conservador.
 
-#### SECÇÃO II — Secção de Segurança
+#### SECÇÃO II
+
+#### Secção de Segurança
 
 ###### Artigo 13.º — (Objecto e composição)
 
@@ -340,7 +348,9 @@ b) A Repartição de Orçamento e Tesouraria, com a Tesouraria;
 
 c) A Repartição de Processamento e Conferência, com a Secção de Contabilidade.
 
-##### SUBSECÇÃO II — Divisão dos Serviços Administrativos
+##### SUBSECÇÃO II
+
+##### Divisão dos Serviços Administrativos
 
 ###### Artigo 24.º — (Atribuições)
 
@@ -392,7 +402,9 @@ r) Manter actualizado o registo dos cartões de identidade dos funcionários, pe
 
 s) Passar as certidões que lhe forem requeridas pelos funcionários respeitantes à sua situação funcional.
 
-##### SUBSECÇÃO III — Divisão dos Serviços Financeiros
+##### SUBSECÇÃO III
+
+##### Divisão dos Serviços Financeiros
 
 ###### Artigo 25.º — (Atribuições)
 
@@ -464,7 +476,9 @@ a) O Serviço de Apoio ao Plenário, com a Secção de Apoio ao Plenário;
 
 b) O Serviço de Apoio às Comissões, com a Secção de Apoio às Comissões.
 
-##### SUBSECÇÃO I — Divisão de Redacção
+##### SUBSECÇÃO I
+
+##### Divisão de Redacção
 
 ###### Artigo 28.º — (Atribuições)
 
@@ -478,7 +492,9 @@ c) Verificar a exactidão do texto a publicar no Diário da Assembleia da Repúb
 
 2 - Fora do funcionamento efectivo da Assembleia, os redactores podem ser destacados para outros serviços, a fim de colaborarem em tarefas específicas compatíveis com as suas qualificações.
 
-##### SUBSECÇÃO II — Divisão de Apoio Parlamentar
+##### SUBSECÇÃO II
+
+##### Divisão de Apoio Parlamentar
 
 ###### Artigo 29.º — (Atribuições)
 
@@ -736,7 +752,9 @@ c) A Biblioteca;
 
 d) O Arquivo Histórico Parlamentar.
 
-##### SUBSECÇÃO II — Divisão de Documentação
+##### SUBSECÇÃO II
+
+##### Divisão de Documentação
 
 ###### Artigo 42.º — (Atribuições)
 
@@ -782,7 +800,9 @@ c) Organizar e divulgar uma folha semanal sumariando a documentação estrangeir
 
 d) Classificar, analisar e traduzir em síntese a referida documentação.
 
-##### SUBSECÇÃO III — Divisão de Edições
+##### SUBSECÇÃO III
+
+##### Divisão de Edições
 
 ###### Artigo 43.º — (Atribuições)
 
@@ -968,7 +988,9 @@ b) A Secção de Apoio às Missões Internacionais;
 
 c) O Serviço de Recepção.
 
-##### SUBSECÇÃO I — Divisão de Relações Públicas e Apoio às Missões Internacionais
+##### SUBSECÇÃO I
+
+##### Divisão de Relações Públicas e Apoio às Missões Internacionais
 
 ###### Artigo 61.º — (Atribuições)
 
@@ -1134,19 +1156,19 @@ O pessoal da Assembleia da República cujas atribuições não estejam especialm
 
 Os prazos de conservação em arquivo de documentos são, consoante a natureza dos mesmos, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
 
 ## ANEXO II — Cartão de identidade
 
 Modelo de cartão para uso do secretário-geral, directores-gerais e auditor jurídico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
 
 ## ANEXO III — Cartão de Identidade
 
 Modelo de cartão para uso do restante pessoal da Assembleia da República
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19600/23552372.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores verde e vermelha, no canto superior esquerdo. Será autenticado com a assinatura do secretário-geral da Assembleia da República e com a aposição do selo branco de forma que este abranja o canto inferior esquerdo da fotografia.
 

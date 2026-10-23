@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/02400/03700374.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1987-663297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a6033b43b49caac39f3d4f71162c147df2932553692a2e1b8091401f8f2132
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95470889109144bde008b4c920d07df64c64c0e61c43b8a14ef02eafaca39980
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Planeamento da Administração do Território
+- Ministério do Plano e da Administração do Território
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:664552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:664552:por
+  label: Revogado pelo(a) Decreto-Lei n.º 366/93 - Diário da República n.º 253/1993, Série I-A de 1993-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1993-664552
+  date: '1993-10-28'
 article_structure:
-  article_count: 12
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 18
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:39Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +164,9 @@ m) Promover a cooperação com entidades nacionais, internacionais e estrangeira
 
 ### CAPÍTULO II — Órgãos e serviços
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Direcção
 
@@ -178,7 +200,9 @@ b) Comissão Consultiva de Estatística (CCE), a que se refere o n.º 1 do artig
 
 4 - As atribuições, composição e regulamento interno de ambas as comissões serão definidos por despacho do MPAT.
 
-#### SECÇÃO II — Artigo 6.º
+#### SECÇÃO II
+
+###### Artigo 6.º
 
 Direcção de Serviços de Programação
 
@@ -190,7 +214,9 @@ a) Divisão de Programação Sectorial (DPS);
 
 b) Divisão de Avaliação e Acompanhamento de Projectos (DAAP).
 
-###### Artigo 7.º — Divisão de Programação Sectorial
+###### Artigo 7.º
+
+##### Divisão de Programação Sectorial
 
 À DPS compete:
 
@@ -204,7 +230,9 @@ d) Coordenar centralmente e acompanhar a preparação e execução de programas 
 
 e) Proceder a um acompanhamento permanente da execução material e financeira dos programas do MPAT incluídos no PIDDAC e elaborar os respectivos relatórios.
 
-###### Artigo 8.º — Divisão de Avaliação e Acompanhamento de Projectos
+###### Artigo 8.º
+
+##### Divisão de Avaliação e Acompanhamento de Projectos
 
 À DAAP compete:
 
@@ -214,7 +242,9 @@ b) Coordenar a preparação de projectos de investimento passíveis de financiam
 
 c) Proceder a um acompanhamento especial dos projectos de maior importância sectorial, mantendo permanentemente actualizada a base informativa respectiva.
 
-#### SECÇÃO III — Artigo 9.º
+#### SECÇÃO III
+
+###### Artigo 9.º
 
 Direcção de Serviços para o Ordenamento do Território
 
@@ -226,7 +256,9 @@ a) Divisão de Estudos e Informação Estatística do Ordenamento do Território
 
 b) Divisão de Coordenação de Programas de Ordenamento (DCPO).
 
-###### Artigo 10.º — Divisão de Estudos e Informação Estatística do Ordenamento do Território
+###### Artigo 10.º
+
+##### Divisão de Estudos e Informação Estatística do Ordenamento do Território
 
 À DEIEOT compete:
 
@@ -238,7 +270,9 @@ c) Promover a recolha e a sistematização da informação existente nos vários
 
 d) Promover o estudo, em colaboração com os serviços e entidades respectivos, de critérios de programação de investimentos públicos nesses equipamentos.
 
-###### Artigo 11.º — Divisão de Coordenação de Programas de Ordenamento
+###### Artigo 11.º
+
+##### Divisão de Coordenação de Programas de Ordenamento
 
 Compete à DCPO:
 
@@ -248,7 +282,9 @@ b) Proceder, em articulação com as comissões de cordenação regional e com a
 
 c) Apoiar tecnicamente os órgãos regionais do MPAT para as acções constantes dos programas de desenvolvimento sectorial.
 
-#### SECÇÃO IV — Artigo 12.º
+#### SECÇÃO IV
+
+###### Artigo 12.º
 
 Direcção de Serviços para o Ambiente
 
@@ -260,7 +296,9 @@ a) Divisão de Estatísticas do Ambiente (DEA);
 
 b) Divisão de Estudos Económicos do Ambiente (DEEA).
 
-###### Artigo 13.º — Divisão de Estatísticas do Ambiente
+###### Artigo 13.º
+
+##### Divisão de Estatísticas do Ambiente
 
 À DEA compete:
 
@@ -272,7 +310,9 @@ c) Elaborar periodicamente relatórios de diagnóstico da situação do ambiente
 
 d) Assegurar a colaboração internacional no domínio das estatísticas do ambiente.
 
-###### Artigo 14.º — Divisão de Estudos Económicos do Ambiente
+###### Artigo 14.º
+
+##### Divisão de Estudos Económicos do Ambiente
 
 À DEEA compete:
 
@@ -282,7 +322,9 @@ b) Apoiar os membros do Governo na definição dos instrumentos de política do 
 
 c) Proceder à avaliação das incidências económicas das medidas de política do ambiente.
 
-#### SECÇÃO V — Artigo 15.º
+#### SECÇÃO V
+
+###### Artigo 15.º
 
 Repartição Administrativa
 
@@ -300,7 +342,9 @@ a) Secção de Pessoal e Serviços Gerais, à qual compete promover as acções 
 
 b) Secção de Contabilidade e Património, à qual compete o processamento de todos os assuntos relativos às gestões financeira e patrimonial.
 
-#### SECÇÃO VI — Artigo 16.º
+#### SECÇÃO VI
+
+###### Artigo 16.º
 
 Centro de Documentação e Informação
 
@@ -328,16 +372,16 @@ O quadro do pessoal dirigente do GEPAT consta do mapa anexo a este diploma, que 
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 7 de Janeiro de 1987.**
+Promulgado em 7 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Janeiro de 1987.**
+Referendado em 12 de Janeiro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Dotação de pessoal dirigente do GEPAT, a que se refere o artigo 18.º do Decreto Regulamentar n.º 9/87
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/02400/03700374.pdf))](https://files.diariodarepublica.pt/1s/1987/01/02400/03700374.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/02400/03700374.pdf)

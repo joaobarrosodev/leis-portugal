@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/103a00/27342735.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2004/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2004-302160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 843d10b6263f5d31b0646ba90ecc25a3c185e2e0aca85bb5efc91285e63c2243
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbe23d533dc40afd915b8d8e0125354b8e64cc5cb8165966037ef84a4fea8d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infocid
-- Sociedade da Informação
 - Governo Electrónico
+- Infocid
 - Portal do Cidadão
-- UMIC
 - Serviço Público Directo
+- Sociedade da Informação
 - Transferência de Competências
+- UMIC
 relationships:
 - type: amended_by
   target: pt:dre:624976:por
@@ -90,16 +90,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/135/2002/11/20/p/dre
+- type: cites
+  target: pt:dre:432175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660951:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:624976:por
+  label: "Revogado pelo DEC LEI.16/2005.18.01.2005.PCM, DR.IS-A [12] de 18.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2005-624976
+  date: '2005-01-18'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:29Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +155,12 @@ Transitam para a Unidade de Missão Inovação e Conhecimento (UMIC) as atribui�
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José Luís Fazenda Arnaut Duarte.
 
-**Promulgado em 19 de Abril de 2004.**
+Promulgado em 19 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 2004.**
+Referendado em 22 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

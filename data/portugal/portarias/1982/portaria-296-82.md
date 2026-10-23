@@ -46,36 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-1982-609149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1d1f9989106dceff33c2b6cd9218ff0b65a4936812f8aa434b5c3b1ff6ebdfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b128eefb769bf5a17d9b297b95fef4c093cd619bdae975d7a8c3dad4be4d306
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Técnica Superior
+- Criação de Lugares
+- Extinção de Lugares
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578369:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:13:03Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +115,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, pelo
 
 4.º O quadro anexo à [Portaria n.º 509/81](https://diariodarepublica.pt/dr/detalhe/portaria/509-1981-578369), de 25 de Junho, é alterado pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06400/06000600.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06400/06000600.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06400/06000600.pdf)
 
 Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administrativa, 5 de Março de 1982. - Pelo Ministro da Defesa Nacional, Carlos José Sanches Vaz Pardal, Secretário de Estado da Defesa Nacional. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 53/1977, 1º Suplemento, Série I de 1977-03-04
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 382-(7) a 382-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05301/00070007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-c-1977-398836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:14:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f22423e39c4002e4c8e4abb9cd21473ce08405a4485ce1e41844ff9327ccb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a1ad4a0579cd2aa680f48375273f29a2b54f094ba47abfe0f561f59b0152ffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:14:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Lacticínios
+- Margens de Comercialização
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:660912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:297995:por
+  label: Alterada a al. a) do n.º 3.º pelo(a) Portaria n.º 355/78 - Diário da República n.º 151/1978, Série I de 1978-07-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-1978-297995
+  date: '1978-07-04'
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:660912:por
+  label: "Revogada pela PORT.64/84.1984.01.28.MCT, DR.IS [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-1984-660912
+  date: '1984-01-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:14:25Z'
   warnings: []
   errors: []
 ---

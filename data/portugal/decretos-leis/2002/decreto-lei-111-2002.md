@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2002/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2002-304328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0021e4ad252832b2b87e7d2cff48405196c1255a32df57f5cc0b5270474d8ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc4b4675e52b2e36fd44f1e99abd0ff2b09d1b1b4ac2c38bd91894ec8186ec7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Qualidade do AR
 - Direcção Regional do Ambiente e do Ordenamento do Território
-- Saúde Pública
 - Instituto do Ambiente
+- Poluição
 - Proteção do Ambiente
 - Qualidade de VIDA
 - Qualidade do Ambiente
-- Poluição
+- Qualidade do AR
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:106982550:por
@@ -99,16 +99,21 @@ relationships:
   target: celex:32001D0752
   label: null
   source: http://data.europa.eu/eli/dec/2001/752/oj
+- type: repealed_by
+  target: pt:dre:342123:por
+  label: "Revogado, a partir de 28.09.2010, pelo DEC LEI.102/2010.23.09.2010.MAOT, DR.IS [186] de 23.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2010-342123
+  date: '2010-09-23'
 article_structure:
   article_count: 10
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:59Z'
   warnings: []
   errors: []
 ---
@@ -307,29 +312,29 @@ b) Mantêm-se em vigor, até 1 de Janeiro de 2010, os valores limite e os métod
 
 Visto e aprovado em Conselho de Ministros de 14 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Eduardo Arménio do Nascimento Cabrita - Luís Garcia Braga da Cruz - Cármen Madalena da Costa Gomes e Cunha Pignatelli - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Março de 2002.**
+Promulgado em 14 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I — Valores limite e limiar de alerta para o dióxido de enxofre (SO(índice 2)) no ar ambiente
 
-#### Secção I - Valores limite para o dióxido de enxofre
+Secção I - Valores limite para o dióxido de enxofre
 
 Os valores limite serão expressos em microgramas por metro cúbico, normalizados à temperatura de 293 K e à pressão de 101,3 kPa.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
-#### Secção II - Limiar de alerta para o dióxido de enxofre
+Secção II - Limiar de alerta para o dióxido de enxofre
 
 O limiar de alerta para o dióxido de enxofre é de 500 (mi)g/m3, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa zona, numa aglomeração ou numa área de pelo menos 100 km2, consoante a que apresentar menor área.
 
-#### Secção III - Informação mínima a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido
+Secção III - Informação mínima a fornecer ao público quando o limiar de alerta para o dióxido de enxofre for excedido
 
 As informações a fornecer ao público deverão incluir, no mínimo:
 
@@ -349,17 +354,17 @@ d) Precauções a tomar pela população vulnerável em causa.
 
 ## ANEXO II — Valores limite para o dióxido de azoto (NO(índice 2)) e óxidos de azoto (NO(índice x)) e limiar de alerta para o dióxido de azoto no ar ambiente
 
-#### Secção I - Valores limite para o dióxido de azoto e óxidos de azoto
+Secção I - Valores limite para o dióxido de azoto e óxidos de azoto
 
 Os valores limite serão expressos em microgramas por metro cúbico, normalizados à temperatura de 293 K e à pressão de 101,3 kPa.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
-#### Secção II - Limiar de alerta para o dióxido de azoto
+Secção II - Limiar de alerta para o dióxido de azoto
 
 O limiar de alerta para o dióxido de azoto é de 400 (mi)g/m3, medido em três horas consecutivas, em locais que sejam representativos da qualidade do ar numa área de pelo menos 100 km2, ou numa zona ou aglomeração, consoante o espaço que apresentar menor área.
 
-#### Secção III - Informação mínima a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido
+Secção III - Informação mínima a fornecer ao público quando o limiar de alerta para o dióxido de azoto for excedido
 
 As informações a fornecer ao público deverão incluir, no mínimo:
 
@@ -379,23 +384,23 @@ d) Precauções a tomar pela população vulnerável em causa.
 
 ## ANEXO III — Valores limite para as partículas em suspensão (PM(índice 10)) no ar ambiente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 ## ANEXO IV — Valor limite para o chumbo (Pb) no ar ambiente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 ## ANEXO V — Valor limite para o benzeno (C(índice 6)H(índice 6))
 
 O valor limite será expresso em microgramas por metro cúbico normalizado à temperatura de 293 K e à pressão de 101,3 kPa.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 ## ANEXO VI — Valor limite para o monóxido de carbono (CO)
 
 O valor limite será expresso em miligramas por metro cúbico, normalizado à temperatura de 293 K e à pressão de 101,3 kPa.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 O valor máximo diário da concentração média por períodos de oito horas deve ser seleccionado pela análise das médias por períodos consecutivos de oito horas, calculadas a partir de dados horários e actualizados hora a hora. Cada média de oito horas assim calculada deve ser atribuída ao dia em que termina, ou seja, o primeiro período de cálculo para um dia determinado será o período decorrido entre as 17 horas do dia anterior e a 1 hora desse dia: o último período de cálculo para um dia determinado será o período entre as 16 e as 24 horas desse dia.
 
@@ -403,35 +408,35 @@ O valor máximo diário da concentração média por períodos de oito horas dev
 
 Determinação dos requisitos para a avaliação das concentrações de dióxido de enxofre (SO(índice 2)), dióxido de azoto (NO(índice 2)), óxidos de azoto (NO(índice x)), partículas em suspensão (PM(índice 10)), chumbo (Pb), benzeno (C(índice 6)H(índice 6)) e monóxido de carbono (CO) no ar ambiente numa zona ou aglomeração.
 
-#### Secção I - Limiares superiores e inferiores de avaliação
+Secção I - Limiares superiores e inferiores de avaliação
 
 Serão aplicados os seguintes limiares superiores e inferiores de avaliação:
 
 a) Dióxido de enxofre:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 b) Dióxido de azoto e óxidos de azoto:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 c) Partículas em suspensão. - Os limiares superiores e inferiores de avaliação para PM(índice 10) baseiam-se nos valores indicativos para 1 de Janeiro de 2010.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 d) Chumbo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 e) Benzeno:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 f) Monóxido de carbono:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
-#### Secção II - Determinação da ultrapassagem do limiar superior e do limiar inferior de avaliação
+Secção II - Determinação da ultrapassagem do limiar superior e do limiar inferior de avaliação
 
 A ultrapassagem dos limiares superiores e inferiores de avaliação será determinada com base nas concentrações registadas durante os últimos cinco anos, desde que existam dados suficientes. Considerar-se-á que o limiar de avaliação foi excedido quando tenha sido ultrapassado durante, pelo menos, três anos distintos no decurso dos últimos cinco anos.
 
@@ -443,7 +448,7 @@ Localização dos pontos de amostragem para a medição das concentrações de d
 
 As seguintes considerações são aplicáveis a medições fixas:
 
-#### Secção I - Localização em macroescala
+Secção I - Localização em macroescala
 
 a) Protecção da saúde humana. - Os pontos de amostragem dirigidos para a protecção da saúde humana devem ser instalados:
 
@@ -461,7 +466,7 @@ b) Protecção dos ecossistemas e da vegetação. - Os pontos de amostragem que 
 
 Deverá ser tomada em conta a necessidade de avaliar a qualidade do ar nas ilhas.
 
-#### Secção II - Localização em microescala
+Secção II - Localização em microescala
 
 No mínimo, devem ser cumpridas, tanto quanto possível, as seguintes orientações:
 
@@ -499,7 +504,7 @@ Possibilidade de instalar pontos de amostragem para diferentes poluentes;
 
 Requisitos de planeamento.
 
-#### Secção III - Documentação e reavaliação da selecção dos locais
+Secção III - Documentação e reavaliação da selecção dos locais
 
 Os procedimentos de selecção de locais devem ser devidamente documentados na fase de classificação com identificação através de coordenadas e utilizando meios como fotografias da área envolvente e um mapa pormenorizado. Os locais devem ser reavaliados periodicamente, com base na actualização dessa documentação, para garantir que os critérios de selecção continuam a ser válidos ao longo do tempo.
 
@@ -507,23 +512,23 @@ Os procedimentos de selecção de locais devem ser devidamente documentados na f
 
 Critérios para determinação do número mínimo de pontos de amostragem para a medição fixa das concentrações de dióxido de enxofre (SO(índice 2)), dióxido de azoto (NO(índice 2)), óxidos de azoto (NO(índice x)), partículas em suspensão (PM(índice 10)), chumbo (Pb), benzeno (C(índice 6)H(índice 6)) e monóxido de carbono (CO) no ar ambiente.
 
-#### Secção I - Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores limite de protecção da saúde humana e dos limiares de alerta em zonas e aglomerações em que a medição fixa constitui a única fonte de informação
+Secção I - Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores limite de protecção da saúde humana e dos limiares de alerta em zonas e aglomerações em que a medição fixa constitui a única fonte de informação
 
 a) Fontes difusas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 b) Fontes pontuais. - Para avaliar os níveis de poluição na proximidade de fontes pontuais, o número de pontos de amostragem para medição fixa deverá ser calculado tendo em conta as emissões, os padrões mais prováveis de distribuição da poluição e a potencial exposição da população.
 
-#### Secção II - Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações
+Secção II - Número mínimo de pontos de amostragem para medição fixa destinada a avaliar o cumprimento dos valores limite de protecção dos ecossistemas e da vegetação em zonas que não sejam aglomerações
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
+[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)](https://files.diariodarepublica.pt/1s/2002/04/089a00/37113722.pdf)
 
 Nas ilhas, o número de pontos de amostragem deverá ser calculado tendo em conta os padrões mais prováveis de distribuição da poluição do ar ambiente e a potencial exposição dos ecossistemas e da vegetação.
 
 ## ANEXO X — Objectivos de qualidade dos dados e registo dos resultados da avaliação da qualidade do ar ambiente
 
-#### Secção I - Objectivos de qualidade dos dados
+Secção I - Objectivos de qualidade dos dados
 
 Os seguintes objectivos de qualidade dos dados, relativos à precisão e exactidão dos métodos de avaliação, ao período mínimo de amostragem e à recolha de dados de medição, são fornecidos como linhas de orientação para os programas de controlo de qualidade:
 
@@ -539,7 +544,7 @@ Por derrogação, no caso em que se possa demonstrar à Comissão que a exactid�
 
 A amostragem aleatória deverá ser distribuída equitativamente ao longo do ano.
 
-#### Secção II - Resultados da avaliação da qualidade do ar
+Secção II - Resultados da avaliação da qualidade do ar
 
 As seguintes informações devem ser recolhidas nas zonas e aglomerações em que forem usadas outras fontes para além da medição, para completar os dados obtidos por esta, ou como o único processo de avaliação da qualidade do ar:
 
@@ -563,36 +568,36 @@ No caso do dióxido de enxofre, do dióxido de azoto e dos óxidos de azoto, ben
 
 Métodos de referência para avaliação das concentrações de dióxido de enxofre (SO(índice 2)), dióxido de azoto (NO(índice 2)), óxidos de azoto (NO(índice x)), partículas em suspensão (PM(índice 10) e PM(índice 2,5)), chumbo (Pb), benzeno (C(índice 6)H(índice 6)) e monóxido de carbono (CO) no ar ambiente.
 
-#### Secção I - Método de referência para análise do dióxido de enxofre
+Secção I - Método de referência para análise do dióxido de enxofre
 
 ISO/FDIS 10498 (norma em projecto) Ar ambiente - Determinação do dióxido de enxofre - Método por fluorescência ultravioleta. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.
 
-#### Secção II - Método de referência para análise do dióxido de azoto e óxidos de azoto
+Secção II - Método de referência para análise do dióxido de azoto e óxidos de azoto
 
 NP 4172:1992 Qualidade do ar - Determinação da concentração em massa de óxidos de azoto no ar ambiente - Método automático por quimiluminescência. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.
 
-#### Secção III-A - Método de referência para a amostragem do chumbo
+Secção III-A - Método de referência para a amostragem do chumbo
 
 O método de referência para a amostragem do chumbo será o descrito na Portaria n.º 286/93, anexo III, C), até 2005 e, a partir dessa data, o método de referência será o estipulado para as PM(índice 10) de acordo com a secção IV deste anexo. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.
 
-#### Secção III-B - Método de referência para a análise do chumbo
+Secção III-B - Método de referência para a análise do chumbo
 
 ISO 9855:1993 Ar ambiente - Determinação do teor de partículas de chumbo em aerossóis recolhidas em filtros. Método por espectrofotometria por absorção atómica. - Outro método poderá ser utilizado, desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.
 
-#### Secção IV - Método de referência para a amostragem e medição de PM(índice 10)
+Secção IV - Método de referência para a amostragem e medição de PM(índice 10)
 
 O método descrito na EN 12341, «Qualidade do ar - Procedimento de ensaio no terreno para demonstrar a equivalência da referência dos métodos de amostragem para a fracção PM(índice 10) das partículas em suspensão». O princípio de medição é baseado na recolha num filtro da fracção PM(índice 10) de partículas em suspensão no ar ambiente e na determinação da massa gravimétrica. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido, ou qualquer outro método desde que se possa demonstrar que possui uma relação sistemática com o método de referência. Nesse caso, os resultados conseguidos por este método deverão ser corrigidos pelo factor adequado de modo a apresentar resultados equivalentes aos resultados que teriam sido conseguidos mediante a utilização do método de referência.
 
 O Instituto do Ambiente enviará à Comissão a informação referente ao método utilizado para realizar a amostragem e a medição das PM(índice 10).
 
-#### Secção V - Método de referência provisório para a amostragem e medição de PM(índice 2,5)
+Secção V - Método de referência provisório para a amostragem e medição de PM(índice 2,5)
 
 Até ser definido o método de referência, poderá ser utilizado qualquer outro, desde que considerado apropriado pelo Instituto do Ambiente.
 
-#### Secção VI - Método de referência para a amostragem/análise do benzeno
+Secção VI - Método de referência para a amostragem/análise do benzeno
 
 O método de referência para a medição do benzeno é a amostragem de ar canalizado por uma bomba e passado por um módulo da absorção, seguida de determinação da concentração por cromatografia de gás, actualmente a ser desenvolvido pelo CEN. Na ausência de um método CEN normalizado, podem ser utilizados outros métodos nacionais com base no mesmo método de medição. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.
 
-#### Secção VII - Método de referência para a análise do monóxido de carbono
+Secção VII - Método de referência para a análise do monóxido de carbono
 
 O método de referência para a medição do monóxido de carbono é o método de espectrofotometria de infravermelhos sem dispersão (NDIR), que se encontra actualmente em processo de normalização por parte do CEN. Na ausência de um método CEN normalizado, será utilizada a NP 4339:1998 Qualidade do ar - Determinação da concentração em massa do monóxido de carbono no ar ambiente. Método infravermelho não dispersivo. - Outro método poderá ser utilizado desde que se possa demonstrar que os resultados são equivalentes aos do método acima referido.

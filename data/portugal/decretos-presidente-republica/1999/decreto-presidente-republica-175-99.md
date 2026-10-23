@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/175/1999/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/175-1999-426766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa609d34783ae275e2e7dfac5931f1de8686c0661a53d5ae51d4c2e1b2d64151
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfc59c4a14035055eb06e13dcf70a3d07506f5305e91eaa8e2406ba3b75de77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Direito do Trabalho
 - Entidade Patronal
-- Macau
 - Liberdade Sindical
+- Macau
 - OIT
+- Portugal
 - são Francisco
 - Trabalhador
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:250462:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:48Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +99,14 @@ validation:
 
 de 5 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção n.º 87 da OIT, sobre a liberdade sindical e protecção do direito sindical, de 9 de Julho de 1948, aprovada pela [Lei n.º 45/77](https://diariodarepublica.pt/dr/detalhe/lei/45-1977-250462), de 7 de Julho, cujo texto foi publicado no Diário da República, 1.ª série, de 7 de Julho de 1977.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 28 de Julho de 1999.**
+Assinado em 28 de Julho de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com a referida lei de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com a referida lei de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

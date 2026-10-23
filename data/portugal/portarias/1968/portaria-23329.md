@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23329-1968-234717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eb0ae24f9b263563fc265e3a36e88dd2da9e7c199562ec7c8616634fead2224
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 307bdbbcab3d9102cee2883d50f37a9aee849cfbcd23bcc07e2afb3de83a5b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:42Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +110,7 @@ Caixa-estrados (símbolo ... (ver nota *)).
 
 c) Nos espaços 23, 24 e, se for necessário, no 25:
 
-A quantidade e a categoria dos estrados rasos e caixa-estrados de particulares, matriculados no caminho de ferro, acrescentando a marca do caminho de ferro que os matriculou, bem como o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1968/04/09600/05660566.pdf))](https://files.diariodarepublica.pt/1s/1968/04/09600/05660566.pdf);
+A quantidade e a categoria dos estrados rasos e caixa-estrados de particulares, matriculados no caminho de ferro, acrescentando a marca do caminho de ferro que os matriculou, bem como o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/04/09600/05660566.pdf);
 
 d) No espaço 26:
 

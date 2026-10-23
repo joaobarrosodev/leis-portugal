@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/138/2006/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/138-2006-552484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 770b320533f0ea5958f791bae561d59134aaf68f902e8b5c7e8d456f8383ea7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ffbe4fbdbc87ee1484e64426ae3e1b34bb8edfc42370697a1643241f79c0527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Convenção
-- Portugal
-- Europol
-- Cooperação Policial
-- Privilegios e Imunidades
 - Bruxelas
+- Convenção
+- Cooperação Policial
+- Europol
+- Portugal
+- Privilegios e Imunidades
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/69/2006/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/69/2006/12/19/p/dre
+- type: cites
+  target: pt:dre:552485:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:45Z'
   warnings: []
   errors: []
 ---
@@ -96,16 +100,16 @@ validation:
 
 de 19 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Protocolo Que Altera a Convenção Que Cria um Serviço Europeu de Polícia (Convenção EUROPOL) e o Protocolo Relativo aos Privilégios e Imunidades da EUROPOL, dos Membros dos Seus Órgãos, dos Seus Directores-Adjuntos e Agentes, assinado em Bruxelas em 28 de Novembro de 2002, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 69/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/69-2006-552485), em 4 de Outubro de 2006.
 
-**Assinado em 30 de Novembro de 2006.**
+Assinado em 30 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 11 de Dezembro de 2006.**
+Referendado em 11 de Dezembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

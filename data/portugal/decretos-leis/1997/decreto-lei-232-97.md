@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1997/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1997-641123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b73be7e0cd8827dada7742e2f401bb8c11bdec35612dc6bdd7465f7bc6da064b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48fed33e2355eb405fcc3f40eb79e52291b1b6b195d298ff203b5d3107b52597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,63 @@ reuse:
 subjects:
 - Administração Central
 - Administração Financeira do Estado
-- Instituto Nacional de Estatística
-- Comissão de Normalização Contabilística da Administração Pública
-- Administração Pública
-- Execução do Orçamento
-- Ministro das Finanças
-- Plano Oficial de Contabilidade Pública
 - Administração Local
-- Segurança Social
+- Administração Pública
 - Administração Regional
+- Comissão de Normalização Contabilística da Administração Pública
 - Contabilidade Pública
+- Execução do Orçamento
+- Instituto Nacional de Estatística
+- Ministro das Finanças
 - Normalização
+- Plano Oficial de Contabilidade Pública
 - Regime da Administração Financeira do Estado
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinta a Comissão de Normalização Contabilística da Administração Pública, criada pelo presente diploma, e cuja\
+    \ orgânica foi aprovada pelo Dec Lei 68/98, de 20-Mar. pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011,\
+    \ que determina, nos termos dos art.s 30º e 31º, a fusão e integração das suas atribuições na Comissão de Normalização\
+    \ Contabilística.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogado, com efeitos a 01.01.2017, o presente diploma, pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º
+    178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:40Z'
   warnings: []
   errors: []
 ---
@@ -184,15 +210,15 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 23 de Julho de 1997.**
+Promulgado em 23 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1997.**
+Referendado em 26 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO OFICIAL DE CONTABILIDADE PÚBLICA
 
@@ -472,11 +498,11 @@ As diferenças de câmbio apuradas são contabilizadas na conta 685 - «Custos e
 
 5 - Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 6 - Demonstração dos resultados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 7 - Mapas de execução orçamental
 
@@ -520,11 +546,11 @@ Faculta informação sobre:
 
 7.1 - Controlo orçamental - Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 7.2 - Controlo orçamental - Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 7.3 - Fluxos de caixa
 
@@ -536,7 +562,7 @@ As receitas e as despesas orçamentais serão desagregadas de acordo com a discr
 
 Fluxos de caixa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8 - Anexos às demonstrações financeiras
 
@@ -602,7 +628,7 @@ c) Por provisões extraordinárias respeitantes ao activo.
 
 Amortizações e provisões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.8 - Cada uma das rubricas dos mapas atrás referidos deverá ser desagregada de modo que sejam evidenciadas as seguintes informações:
 
@@ -628,7 +654,7 @@ Valores líquidos dos elementos do activo imobilizado.
 
 8.2.11 - Elaboração de um quadro discriminativo das reavaliações, do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.12 - Relativamente às imobilizações corpóreas e em curso:
 
@@ -680,23 +706,23 @@ b) Discriminação dos custos financeiros nelas capitalizados, respeitantes ao e
 
 8.2.29 - Descrição das responsabilidades da entidade por garantias prestadas, desdobrando-as de acordo com a natureza destas e mencionando expressamente as garantias reais, bem como os avales prestados, de acordo com um mapa do tipo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.30 - Indicação da diferença, quando levada ao activo, entre as importâncias das dívidas a pagar e as correspondentes quantias arrecadadas.
 
 8.2.31 - Desdobramento das contas de provisões acumuladas e explicitação dos movimentos ocorridos no exercício, de acordo com um quadro do seguinte tipo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.32 - Explicitação e justificação dos movimentos ocorridos no exercício de cada uma das contas da classe 5 - «Fundo patrimonial», constantes do balanço.
 
 8.2.33 - Demonstração do custo das mercadorias vendidas e das matérias consumidas, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.34 - Demonstração da variação da produção, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.35 - Repartição do valor líquido das vendas e das prestações de serviços, registado na conta 71 «Vendas e prestações de serviços», por actividades e por mercados (interno e externo), na medida em que tais actividades e mercados sejam consideravelmente diferentes.
 
@@ -704,11 +730,11 @@ b) Discriminação dos custos financeiros nelas capitalizados, respeitantes ao e
 
 8.2.37 - Demonstração dos resultados financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.38 - Demonstração dos resultados extraordinários:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.2.39 - Outras informações consideradas relevantes para melhor compreensão da posição financeira e dos resultados.
 
@@ -738,7 +764,7 @@ Alterações orçamentais
 
 1 - Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 2 - Receita
 
@@ -760,7 +786,7 @@ Alterações orçamentais
 
 2 - Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.3.2 - Contratação administrativa
 
@@ -778,7 +804,7 @@ Contratação administrativa
 
 1 - Situação dos contratos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 2 - Formas de adjudicação
 
@@ -804,7 +830,7 @@ Contratação administrativa
 
 2 - Formas de adjudicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.3.3 - Execução de programas e projectos de investimento
 
@@ -822,7 +848,7 @@ Indicação das entidades gestoras do programa/projecto, mencionando-se ainda pa
 
 Execução de programas e projectos de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.3.4 - Transferências e subsídios
 
@@ -852,33 +878,33 @@ Outros elementos considerados relevantes.
 
 Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 2 -Transferências de capital
 
 Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 3 - Subsidíos concedidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 4 - Transferências correntes
 
 Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 5 - Transferências de capital
 
 Receita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 6 - Subsídios obtidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.3.5 - Aplicações em activos de rendimento fixo e variável
 
@@ -894,11 +920,11 @@ Valor dos rendimentos vencidos e não recebidos até final do exercício.
 
 1 - Activos de rendimento fixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 2 - Activos de rendimento variável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 8.3.6 - Endividamento
 
@@ -938,15 +964,15 @@ Endividamento
 
 Situação e evolução da dívida e juros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 9 - Quadro de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 10 - Código de contas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf))](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/203a00/45944638.pdf)
 
 11 - Notas explicativas
 

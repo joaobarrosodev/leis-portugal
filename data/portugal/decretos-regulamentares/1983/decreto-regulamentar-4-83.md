@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1983-308338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32afe616a6497e5234107b8ff63630ab535034b4920812da5c3ee4a52a186c6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 879488fdcfd3384b01121b85845a8bc52875040e75f88e7e2a1301fb4ce4bc76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Estrada
+- Imposto de Mais-Valias
+- Mais-Valias
+- Obras Públicas
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:177036:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:30Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +120,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O encargo de mais-valia a que ficam sujeitos os prédios rústicos não expropriados e que, por virtude da construção de estradas e de outras grandes vias de comunicação sob a jurisdição da Junta Autónoma de Estradas, aumentam consideravelmente de valor, pela possibilidade da sua utilização como terrenos de construção urbana, será cobrado nos termos do presente diploma.
+Artigo 1.º O encargo de mais-valia a que ficam sujeitos os prédios rústicos não expropriados e que, por virtude da construção de estradas e de outras grandes vias de comunicação sob a jurisdição da Junta Autónoma de Estradas, aumentam consideravelmente de valor, pela possibilidade da sua utilização como terrenos de construção urbana, será cobrado nos termos do presente diploma.
 
-###### Art. 2.º - 1 - Logo que aprovados pelo Ministro da Habitação, Obras Públicas e Transportes ou entidade delegada os projectos definitivos das obras, com a delimitação da área valorizada, serão os respectivos processos remetidos ao Conselho de Ministros a fim de ser homologada a delimitação proposta.
+Art. 2.º - 1 - Logo que aprovados pelo Ministro da Habitação, Obras Públicas e Transportes ou entidade delegada os projectos definitivos das obras, com a delimitação da área valorizada, serão os respectivos processos remetidos ao Conselho de Ministros a fim de ser homologada a delimitação proposta.
 
 2 - Os processos relativos a obras cujos projectos já foram aprovados serão remetidos ao Conselho de Ministros para os efeitos do disposto no número anterior.
 
 3 - A homologação só produzirá efeitos a partir da sua publicação no Diário da República.
 
-###### Art. 3.º A mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o seu valor, em conformidade com o respectivo destino económico, à data em que foi anunciada a construção de estrada ou de outras estruturas viárias.
+Art. 3.º A mais-valia corresponde à diferença entre o valor do prédio à data em que foi requerida a licença de construção e o seu valor, em conformidade com o respectivo destino económico, à data em que foi anunciada a construção de estrada ou de outras estruturas viárias.
 
-###### Art. 4.º O encargo de mais-valia é de 50% da importância apurada nos termos do artigo anterior e será pago pelo proprietário do terreno à Junta Autónoma de Estradas, que o contabilizará como receita própria, nos termos do disposto no artigo 66.º alínea d), do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho.
+Art. 4.º O encargo de mais-valia é de 50% da importância apurada nos termos do artigo anterior e será pago pelo proprietário do terreno à Junta Autónoma de Estradas, que o contabilizará como receita própria, nos termos do disposto no artigo 66.º alínea d), do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho.
 
-###### Art. 5.º - 1 - O encargo só se torna exigível verificadas que sejam as seguintes condições:
+Art. 5.º - 1 - O encargo só se torna exigível verificadas que sejam as seguintes condições:
 
 a) Encontrar-se o prédio a que respeita situado dentro da área já considerada como concretamente beneficiada por despacho do Ministro da Habitação, Obras Públicas e Transportes, publicado no Diário da República, nos termos do n.º 5 do artigo 17.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461);
 
@@ -122,17 +140,17 @@ b) Ter sido concedida licença para construção.
 
 2 - Para efeito do disposto no número anterior, as câmaras municipais comunicarão à Junta Autónoma de Estradas a data da concessão das licenças para construção.
 
-###### Art. 6.º - 1 - A mais-valia a que se refere o artigo 3.º será determinada por uma comissão de que farão parte 1 perito permanente de entre os da lista a que se refere o n.º 2 do artigo 78.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, a indicar, para cada comarca, pelo presidente da relação do respectivo distrito judicial, 1 representante da Junta Autónoma de Estradas e o proprietário do terreno ou seu representante.
+Art. 6.º - 1 - A mais-valia a que se refere o artigo 3.º será determinada por uma comissão de que farão parte 1 perito permanente de entre os da lista a que se refere o n.º 2 do artigo 78.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, a indicar, para cada comarca, pelo presidente da relação do respectivo distrito judicial, 1 representante da Junta Autónoma de Estradas e o proprietário do terreno ou seu representante.
 
 2 - As decisões, devidamente fundamentadas, são tomadas por maioria; não se obtendo uma decisão por unanimidade ou maioria, valerá como tal a média aritmética dos laudos que mais se aproximarem ou o laudo intermédio, se as diferenças entre ele e cada um dos restantes forem iguais.
 
 3 - Das decisões da comissão referida no n.º 1 cabe recurso para o tribunal da comarca e deste para o tribunal da relação respectivo, aplicando-se o disposto nos artigos 73.º e seguintes do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com as necessárias adaptações.
 
-###### Art. 7.º - 1 - Quando o encargo de mais-valia for superior a 100000$00, o proprietário do terreno pode requerer o seu pagamento em prestações.
+Art. 7.º - 1 - Quando o encargo de mais-valia for superior a 100000$00, o proprietário do terreno pode requerer o seu pagamento em prestações.
 
 2 - As prestações serão semestrais e em número não superior a 5, acrescendo à verba a liquidar os juros respectivos.
 
-###### Art. 8.º - 1 - O alvará da licença de construção só será emitido mediante comprovação do pagamento do encargo de mais-valia, através da exibição do duplicado da guia de pagamento ou de documento que o substitua.
+Art. 8.º - 1 - O alvará da licença de construção só será emitido mediante comprovação do pagamento do encargo de mais-valia, através da exibição do duplicado da guia de pagamento ou de documento que o substitua.
 
 2 - Se tiver sido autorizado o pagamento em prestações, a prova a que se refere o número anterior será feita através da exibição do duplicado da guia de pagamento da primeira prestação ou de documento que o substitua.
 
@@ -140,8 +158,8 @@ b) Ter sido concedida licença para construção.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 11 de Janeiro de 1983.**
+Promulgado em 11 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

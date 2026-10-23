@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/95-1972-398975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:58:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3a8d31cdcb45f16bff7c548fe1bc63f6502432bf2872a45e82eb1210347bf7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b153c2c11481b790d8015a9e021a5cee73c1e33b6cf52d7b017fa2f828644896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:58:35Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +99,6 @@ de 17 de Fevereiro
 
 Manda o Governo da República Portuguesa pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, conjugado com o artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, e artigo 3.º do aludido [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234) e sua alínea e), com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir um crédito especial da importância de 3000000$00, destinado a reforçar a verba do capítulo 10.º, artigo 2895.º, n.º 4, alínea a) - 1 «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral da província de Moçambique para o ano económico de 1971, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 4.º «Impostos directos gerais - Imposto profissional», da tabela de receita ordinária do mesmo orçamento.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1978-296238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e95576f5116c7eeb5c9304adbca19752b79adde07afe79d7075512d6308734a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d2c27874d46f7db2251376a9c1df5f42be60d6641d24bfd4499bbe229bd4e24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alienação de Fogos
+- Aquisição de Imóveis
+- Comércio
+- Contrato de Desenvolvimento
+- Contrato Programa
+- Contrato Promessa
+- Cooperativa
+- Crédito à Habitação
+- Financiamento
+- Habitação
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:255250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621561:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:23Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +110,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O processo de atribuição em primeira transmissão dos fogos construídos no âmbito de contratos de desenvolvimento para a habitação far-se-á por comercialização directa, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, obedecendo aos preceitos estabelecidos neste decreto regulamentar.
+Artigo 1.º O processo de atribuição em primeira transmissão dos fogos construídos no âmbito de contratos de desenvolvimento para a habitação far-se-á por comercialização directa, de acordo com o disposto no artigo 2.º do [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, obedecendo aos preceitos estabelecidos neste decreto regulamentar.
 
-###### Art. 2.º - 1 - As entidades a quem incumbir a comercialização das habitações são designadas agentes de comercialização.
+Art. 2.º - 1 - As entidades a quem incumbir a comercialização das habitações são designadas agentes de comercialização.
 
 2 - A comercialização das habitações será efectuada pelos agentes de comercialização, conforme o estabelecido no contrato-programa ou no contrato de desenvolvimento para a habitação, atento o disposto no [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro.
 
@@ -105,9 +124,9 @@ b) Comercialização parcial, com indicação do número das habitações que se
 
 c) Comercialização das habitações, em exclusivo, por uma das partes.
 
-###### Art. 3.º Nos dois dias seguintes à celebração do contrato-programa ou do contrato de desenvolvimento para a habitação, o Fundo de Fomento da Habitação efectuará a comunicação referida no n.º 3 do artigo 13.º do [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro.
+Art. 3.º Nos dois dias seguintes à celebração do contrato-programa ou do contrato de desenvolvimento para a habitação, o Fundo de Fomento da Habitação efectuará a comunicação referida no n.º 3 do artigo 13.º do [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro.
 
-###### Art. 4.º - 1 - Decorridos oito dias sobre a assinatura do contrato-programa ou do contrato de desenvolvimento para a habitação, os agentes de comercialização procederão à abertura das inscrições para os interessados na compra das habitações.
+Art. 4.º - 1 - Decorridos oito dias sobre a assinatura do contrato-programa ou do contrato de desenvolvimento para a habitação, os agentes de comercialização procederão à abertura das inscrições para os interessados na compra das habitações.
 
 2 - A data de abertura das inscrições será divulgada por meio de anúncio inserto nos jornais de maior circulação e divulgado por outros meios convenientes, nomeadamente por afixação de editais, painéis ou anúncios.
 
@@ -121,7 +140,7 @@ c) A identificação dos agentes de comercialização;
 
 d) O local e as horas onde podem ser prestados os esclarecimentos necessários e apresentados os boletins de inscrição.
 
-###### Art. 5.º - 1 - A inscrição efectuar-se-á em impresso próprio, do qual será entregue cópia ao interessado, e será carimbada pelo agente de comercialização, com menção da data e hora de entrada.
+Art. 5.º - 1 - A inscrição efectuar-se-á em impresso próprio, do qual será entregue cópia ao interessado, e será carimbada pelo agente de comercialização, com menção da data e hora de entrada.
 
 2 - No acto de inscrição, e como condição da mesma, o interessado pagará uma quantia de 10000$00.
 
@@ -131,7 +150,7 @@ d) O local e as horas onde podem ser prestados os esclarecimentos necessários e
 
 5 - A inscrição é tida, para todos os efeitos legais, como promessa unilateral de compra, tendo o pagamento referido no n.º 2 do presente artigo natureza de sinal e princípio de pagamento.
 
-###### Art. 6.º - 1 - Se no contrato-programa ou no contrato de desenvolvimento para a habitação for estabelecido que a comercialização se fará nos termos da alínea a) do n.º 3 do artigo 2.º do presente diploma, o agente de comercialização que receber a inscrição dará dela conhecimento, no prazo de vinte e quatro horas, ao outro agente de comercialização.
+Art. 6.º - 1 - Se no contrato-programa ou no contrato de desenvolvimento para a habitação for estabelecido que a comercialização se fará nos termos da alínea a) do n.º 3 do artigo 2.º do presente diploma, o agente de comercialização que receber a inscrição dará dela conhecimento, no prazo de vinte e quatro horas, ao outro agente de comercialização.
 
 2 - No prazo de vinte dias, a contar da data de inscrição, o candidato entregará os documentos necessários à prova de verificação dos requisitos referidos na alínea b) do n.º 3 do artigo 4.º deste diploma ao agente de comercialização, que emitirá recibo comprovativo dessa entrega.
 
@@ -145,7 +164,7 @@ b) Quando o agente de comercialização for o serviço municipal de habitação,
 
 4 - A remessa do processo, nos termos do número anterior, deverá ser feita por carta registada com aviso de recepção, no prazo de dois dias a contar da data em que tenham sido recebidos os documentos referidos no n.º 2 deste artigo.
 
-###### Art. 7.º - 1 - Elaborado o processo, ou recebida a cópia, o serviço municipal de habitação pronunciar-se-á sobre a sua regularidade, no prazo de sete dias.
+Art. 7.º - 1 - Elaborado o processo, ou recebida a cópia, o serviço municipal de habitação pronunciar-se-á sobre a sua regularidade, no prazo de sete dias.
 
 2 - Decorrido o prazo referido no número anterior sem que o serviço municipal de habitação se pronuncie, entender-se-á, para todos os efeitos, que se pronunciou afirmativamente.
 
@@ -155,34 +174,34 @@ b) Quando o agente de comercialização for o serviço municipal de habitação,
 
 5 - Sobre a matéria de reclamação será proferida decisão no prazo máximo de cinco dias, a contar da data da respectiva apresentação.
 
-###### Art. 8.º - 1 - Recebido o processo pela instituição de crédito financiadora da construção, esta poderá solicitar os documentos adicionais de que careça para a concessão do empréstimo ao adquirente.
+Art. 8.º - 1 - Recebido o processo pela instituição de crédito financiadora da construção, esta poderá solicitar os documentos adicionais de que careça para a concessão do empréstimo ao adquirente.
 
 2 - O montante do empréstimo referido no número anterior será entregue directamente à empresa ou cooperativa de construção por crédito em conta aberta na instituição de crédito.
 
-###### Art. 9.º - 1 - Logo que executadas as alvenarias e a cobertura do edifício onde se integra a habitação, poderá ser celebrado, pela empresa ou cooperativa de construção e pelo candidato, contrato-promessa de compra e venda da habitação, objecto da inscrição.
+Art. 9.º - 1 - Logo que executadas as alvenarias e a cobertura do edifício onde se integra a habitação, poderá ser celebrado, pela empresa ou cooperativa de construção e pelo candidato, contrato-promessa de compra e venda da habitação, objecto da inscrição.
 
 2 - No contrato-promessa será expressamente clausulada a possibilidade de execução específica, nos termos do artigo 830.º do Código Civil.
 
 3 - No momento da celebração do contrato-promessa o promitente comprador reforçará o sinal com quantia a acordar com a empresa, nos termos do regime de crédito bonificado para aquisição de casa própria.
 
-###### Art. 10.º - 1 - Logo que obtida a licença de habitação, será celebrada a escritura de compra e venda nas instalações da instituição de crédito que concedeu o empréstimo.
+Art. 10.º - 1 - Logo que obtida a licença de habitação, será celebrada a escritura de compra e venda nas instalações da instituição de crédito que concedeu o empréstimo.
 
 2 - Simultaneamente com a escritura de compra e venda serão celebradas as escrituras pelas quais a hipoteca que eventualmente incida sobre o fogo será distratada e será constituída outra hipoteca sobre o fogo, em garantia do financiamento ao adquirente.
 
-###### Art. 11.º - 1 - As empresas ou cooperativas que, no âmbito de contratos de desenvolvimento para habitação já negociados, mas ainda não celebrados à data da entrada em vigor do presente diploma, tenham já aceite inscrições, remeterão aos serviços municipais de habitação, no prazo de trinta dias, listas das mesmas, discriminando os casos em que os inscritos tenham já efectuado quaisquer pagamentos ou celebrado contratos-promessa.
+Art. 11.º - 1 - As empresas ou cooperativas que, no âmbito de contratos de desenvolvimento para habitação já negociados, mas ainda não celebrados à data da entrada em vigor do presente diploma, tenham já aceite inscrições, remeterão aos serviços municipais de habitação, no prazo de trinta dias, listas das mesmas, discriminando os casos em que os inscritos tenham já efectuado quaisquer pagamentos ou celebrado contratos-promessa.
 
 2 - Nos casos em que as inscrições já feitas não tenham sido acompanhadas ou seguidas por pagamento ou pela celebração de contratos-promessa, aplicar-se-á, de imediato, o regime estabelecido por este diploma.
 
 3 - Nos casos em que as inscrições já feitas tenham sido acompanhadas ou seguidas por pagamentos ou pela celebração de contratos-promessa, não se aplicará o regime deste diploma, sendo esses casos regulados por despacho do Ministro da Habitação e Obras Públicas.
 
-###### Art. 12.º Ficam expressamente revogados os artigos 22.º, 23.º, 24.º e 25.º do [Decreto Regulamentar n.º 50/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1977-255250), de 11 de Agosto.
+Art. 12.º Ficam expressamente revogados os artigos 22.º, 23.º, 24.º e 25.º do [Decreto Regulamentar n.º 50/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1977-255250), de 11 de Agosto.
 
-###### Art. 13.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação e Obras Públicas.
+Art. 13.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Ministro da Habitação e Obras Públicas.
 
 Mário Soares - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 4 de Maio de 1978.**
+Promulgado em 4 de Maio de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

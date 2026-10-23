@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2006/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2006-346360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65cd1503e5c53e9fc8795e7e9d7ed4c09e06ff72568e34dc564d37c45bf98427
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b7dac764259d86655e376cf6234f4bb660735d35e5cd69e0c16ebd253e3f35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
+- Caixa Postal Electrónica
 - Contrato de Concessão
 - CTT
-- Rescisão de Contrato
 - Fiscalização
 - Fixação de Preços
 - Fundo de Compensação
 - Instituto das Comunicações de Portugal
-- Serviço Público
 - REDE Postal Pública
+- Rescisão de Contrato
 - Responsabilidade Extracontratual
+- Serviço Postal
 - Serviço Postal Universal
-- Caixa Postal Electrónica
+- Serviço Público
 - Tribunal Arbitral
 relationships:
 - type: amended_by
   target: pt:dre:504161:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504161:por
+  label: "Dada nova redação às bases II, V, VI, VII, VIII, XXVII, XX, XXII, XXIII, XXVII, XXIX, XXXI,XXXVI da concessão do\
+    \ serviço postal universal, aprovadas pelo Dec Lei 448/99 de 04-nov,alteradas pelo presente diploma, pelo DEC LEI.160/2013.19.11.2013.MECO,\
+    \ DR.IS [224] de 19.11.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2013-504161
+  date: '2013-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/116/2003/06/12/p/dre
   label: null
@@ -97,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/102/1999/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/102/1999/07/26/p/dre
+- type: cites
+  target: pt:dre:353348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694011:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:02Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +208,9 @@ d) A prestação do serviço público de caixa postal electrónica não reservad
 
 3 - (Anterior n.º 4.)
 
-###### Base IV — [...]
+Base IV
+
+[...]
 
 1 - ...
 
@@ -199,7 +220,9 @@ d) A prestação do serviço público de caixa postal electrónica não reservad
 
 4 - ...
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - A concessionária é obrigada a estabelecer, manter e desenvolver, em moldes adequados à eficaz prestação do serviço universal, a rede postal pública, a qual abrange o conjunto de meios humanos e materiais afectos à prestação do serviço postal universal, designadamente os existentes nas seguintes unidades operativas:
 
@@ -213,7 +236,9 @@ c) ...
 
 3 - A concessionária é obrigada a informar fundamentadamente o ICP-ANACOM sobre as deliberações que tomar relativamente às matérias referidas no número anterior.
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - O contrato de concessão entra em vigor na data da sua assinatura e é válido pelo período de 30 anos, terminando em 1 de Setembro de 2030.
 
@@ -229,13 +254,17 @@ c) ...
 
 7 - ...
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - ...
 
 2 - A prestação dos serviços e o exercício das actividades a que se refere o número anterior não devem afectar o cumprimento pela concessionária das obrigações consignadas no contrato de concessão e, quando seja o caso, regem-se pelos respectivos títulos habilitantes e demais regulamentação aplicável.
 
-###### Base VIII — [...]
+Base VIII
+
+[...]
 
 1 - ...
 
@@ -269,13 +298,17 @@ n) [Anterior alínea o).]
 
 3 - ...
 
-###### Base XI — [...]
+Base XI
+
+[...]
 
 1 - Constituem obrigações específicas da concessionária no domínio da prestação dos serviços não reservados que integram o serviço universal, referidos na alínea c) do n.º 1 da base II, as constantes do n.º 1 da base anterior.
 
 2 - As obrigações específicas da concessionária no domínio do serviço de caixa postal electrónica referido na alínea d) do n.º 1 da base II que decorrem de especiais exigências legais são objecto de regulamentação própria.
 
-###### Base XVII — [...]
+Base XVII
+
+[...]
 
 1 - A fiscalização da concessão cabe ao Ministro das Finanças, para as questões financeiras, e ao Ministro das Obras Públicas, Transportes e Comunicações, para as demais.
 
@@ -289,7 +322,9 @@ n) [Anterior alínea o).]
 
 6 - ...
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - ...
 
@@ -297,7 +332,9 @@ n) [Anterior alínea o).]
 
 3 - ...
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 1 - ...
 
@@ -311,7 +348,9 @@ b) ...
 
 4 - A concessionária é obrigada a informar o ICP-ANACOM sobre as deliberações que tomar relativamente às matérias referidas no número anterior, devendo, nos casos em que se trate de deliberações que envolvam o encerramento ou a redução do horário de funcionamento de estações, fundamentar tais deliberações, nomeadamente em termos das necessidades do serviço, dos níveis da procura e da satisfação das necessidades de comunicação da população e das actividades económicas.
 
-###### Base XXI — [...]
+Base XXI
+
+[...]
 
 1 - ...
 
@@ -319,7 +358,9 @@ b) ...
 
 3 - (Anterior n.º 2.)
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 1 - Sem prejuízo do disposto na base anterior, a concessionária fica desde já autorizada a subcontratar terceiros para efectuar trabalhos e ou prestar serviços que constituam ou que se relacionem com as obrigações assumidas pela concessionária ao abrigo do contrato de concessão.
 
@@ -333,7 +374,9 @@ c) Outros serviços de terceiros complementares ou coadjuvantes da exploração 
 
 3 - No caso de intervenção de terceiros nas actividades da concessão, a concessionária mantém os direitos e continua, directa e pessoalmente, sujeita às obrigações decorrentes das presentes bases.
 
-###### Base XXIII — [...]
+Base XXIII
+
+[...]
 
 1 - O contrato de concessão constitui título bastante para a prestação de todos os serviços concessionados.
 
@@ -347,7 +390,9 @@ c) ...
 
 d) ...
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos das bases XXIX e XXXIV, o incumprimento pela concessionária das obrigações emergentes da concessão ou das determinações do concedente emitidas nos termos da lei ou do contrato de concessão determina a aplicação de multas contratuais até ao montante de (euro) 500000, actualizado anualmente pelo índice de preços no consumidor, consoante a gravidade das infracções cometidas e dos prejuízos delas resultantes, bem como o grau de culpa da concessionária.
 
@@ -359,7 +404,9 @@ d) ...
 
 5 - (Anterior n.º 4.)
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 1 - ...
 
@@ -373,13 +420,17 @@ d) ...
 
 6 - (Anterior n.º 5.)
 
-###### Base XXXI — [...]
+Base XXXI
+
+[...]
 
 1 - Sem prejuízo do disposto na alínea i) do n.º 1 da base VIII e da base anterior, em caso de guerra ou de crise, o concedente, através do membro do Governo responsável pela área das comunicações, reserva-se o direito de gerir e explorar os serviços objecto de concessão.
 
 2 - ...
 
-###### Base XXXVI — Reversão de bens e direitos no termo da concessão
+Base XXXVI
+
+Reversão de bens e direitos no termo da concessão
 
 1 - No termo da concessão, revertem gratuita e automaticamente para o concedente os bens dos domínios público e privado do Estado, obrigando-se a concessionária a entregá-los em perfeitas condições de funcionamento, conservação e segurança, sem prejuízo do normal desgaste resultante da sua utilização, e livres de quaisquer ónus ou encargos, não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
 
@@ -415,12 +466,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Maio de 2006.**
+Promulgado em 25 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Maio de 2006.**
+Referendado em 25 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 189/1969, 1º Suplemento, Série I de 1969-08-13
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1011 - 1023
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/18901/10111023.pdf
 entry_into_force_dates: []
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24233-1969-308691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 098184f68b487d09e0bdfd9574e303018eb42c9396eafa7bc6b96c0a2bca37c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 197c7da26ac64e4ef699dabfac05671902865bfcaf532103901194e2087acab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Escola Prática de Polícia
+- Orgânica
+- PSP
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:382854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382854:por
+  label: "Dada nova redacção ao artigo 115.º do Regulamento aprovado pelo presente diploma, pela PORT.209/79.03.05.1979.MAI,\
+    \ DR.IS [101] de 03.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-1979-382854
+  date: '1979-05-03'
+- type: cites
+  target: pt:dre:163048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:01Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +117,11 @@ REGULAMENTO DA ESCOLA PRÁTICA DE POLÍCIA DE SEGURANÇA PÚBLICA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A Escola Prática de Polícia, criada pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, terá a designação de Escola Prática de Polícia de Segurança Pública, dependendo do Comando-Geral da Polícia de Segurança Pública.
+Artigo 1.º A Escola Prática de Polícia, criada pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, terá a designação de Escola Prática de Polícia de Segurança Pública, dependendo do Comando-Geral da Polícia de Segurança Pública.
 
-###### Art. 2.º À Escola Prática de Polícia de Segurança Pública incumbe a formação moral, cívica, militar, cultural, física e profissional de todos os elementos da Polícia de Segurança Pública e, bem assim, a actualização e valorização dos seus conhecimentos.
+Art. 2.º À Escola Prática de Polícia de Segurança Pública incumbe a formação moral, cívica, militar, cultural, física e profissional de todos os elementos da Polícia de Segurança Pública e, bem assim, a actualização e valorização dos seus conhecimentos.
 
-###### Art. 3.º À Escola Prática de Polícia de Segurança Pública compete especialmente:
+Art. 3.º À Escola Prática de Polícia de Segurança Pública compete especialmente:
 
 1. Colaborar com o Comando-Geral no estudo e planeamento de todos os assuntos de instrução;
 
@@ -122,7 +137,7 @@ REGULAMENTO DA ESCOLA PRÁTICA DE POLÍCIA DE SEGURANÇA PÚBLICA
 
 7. Formar as várias especialidades necessárias à Polícia de Segurança Pública que pela sua importância se justifiquem. As qualificações que não puderem ser ministradas na Escola continuarão a ser obtidas por cursos ou estágios nos estabelecimentos de ensino das forças armadas ou outros.
 
-###### Art. 4.º A Escola Prática de Polícia de Segurança Pública, cuja organização consta do mapa anexo n.º 1, compreende:
+Art. 4.º A Escola Prática de Polícia de Segurança Pública, cuja organização consta do mapa anexo n.º 1, compreende:
 
 1. Comando;
 
@@ -130,11 +145,11 @@ REGULAMENTO DA ESCOLA PRÁTICA DE POLÍCIA DE SEGURANÇA PÚBLICA
 
 3. Serviços gerais e de administração.
 
-###### Art. 5.º Sempre que possível, fará parte da Escola uma companhia móvel de polícia, à qual incumbirá a segurança do aquartelamento e o fornecimento dos meios para demonstração e exercícios indispensáveis à eficiência do ensino policial a ministrar na Escola.
+Art. 5.º Sempre que possível, fará parte da Escola uma companhia móvel de polícia, à qual incumbirá a segurança do aquartelamento e o fornecimento dos meios para demonstração e exercícios indispensáveis à eficiência do ensino policial a ministrar na Escola.
 
 Comando
 
-###### Art. 6.º O comando é constituído pelos seguintes elementos:
+Art. 6.º O comando é constituído pelos seguintes elementos:
 
 Comandante;
 
@@ -144,7 +159,7 @@ Conselho escolar.
 
 Do comandante
 
-###### Art. 7.º O comandante é um oficial superior do Exército, de qualquer arma, do activo ou da reserva, competindo-lhe especialmente:
+Art. 7.º O comandante é um oficial superior do Exército, de qualquer arma, do activo ou da reserva, competindo-lhe especialmente:
 
 1. Dirigir toda a actividade da Escola segundo as directivas do Comando-Geral e integrá-la nas missões que lhe são atribuídas pelo artigo 3.º;
 
@@ -166,13 +181,13 @@ Do comandante
 
 10. Autorizar a passagem de certidões a extrair dos livros da Escola.
 
-###### Art. 8.º O comandante da Escola providenciará pela segurança das respectivas instalações e manterá permanentemente actualizado e treinado o respectivo plano de defesa.
+Art. 8.º O comandante da Escola providenciará pela segurança das respectivas instalações e manterá permanentemente actualizado e treinado o respectivo plano de defesa.
 
 Para o efeito, todo o pessoal, do quadro ou eventual, presente na Escola deve manter-se organizado em unidades de intervenção.
 
 Do 2.º comandante
 
-###### Art. 9.º O 2.º comandante é um major ou capitão do Exército de qualquer arma, do activo ou da reserva, e compete-lhe:
+Art. 9.º O 2.º comandante é um major ou capitão do Exército de qualquer arma, do activo ou da reserva, e compete-lhe:
 
 1. Substituir o comandante na sua ausência ou impedimento e coadjuvá-lo em tudo o que disser respeito ao serviço, administração, disciplina e instrução;
 
@@ -184,15 +199,15 @@ Do 2.º comandante
 
 5. Desempenhar todas as outras funções de serviço que lhe forem superiormente determinadas.
 
-###### Art. 10.º Quando as funções de 2.º comandante forem exercidas por um capitão, este será o mais antigo dos oficiais em serviço na Escola.
+Art. 10.º Quando as funções de 2.º comandante forem exercidas por um capitão, este será o mais antigo dos oficiais em serviço na Escola.
 
 Do conselho escolar
 
-###### Art. 11.º O conselho escolar é constituído pelo comandante, que preside, pelo 2.º comandante, pelo chefe do gabinete de estudos, pelo comandante do corpo de alunos, professores e instrutores das diferentes disciplinas julgados convenientes pelo comandante, por um adjunto do gabinete de estudos e por um comissário, que serve de secretário sem voto.
+Art. 11.º O conselho escolar é constituído pelo comandante, que preside, pelo 2.º comandante, pelo chefe do gabinete de estudos, pelo comandante do corpo de alunos, professores e instrutores das diferentes disciplinas julgados convenientes pelo comandante, por um adjunto do gabinete de estudos e por um comissário, que serve de secretário sem voto.
 
 Quando o comandante o julgar necessário ou conveniente, poderão ser agregados ao conselho escolar quaisquer outros elementos. O comandante poderá delegar no 2.º comandante a presidência do conselho escolar, mediante publicação em Ordem de Serviço.
 
-###### Art. 12.º Ao conselho escolar compete:
+Art. 12.º Ao conselho escolar compete:
 
 1. Apreciar os assuntos respeitantes à admissão, aproveitamento e classificação dos instruendos nas várias modalidades de ensino;
 
@@ -206,11 +221,11 @@ Quando o comandante o julgar necessário ou conveniente, poderão ser agregados 
 
 6. Apreciar todos os assuntos que o comandante achar pertinentes, designadamente sobre a orientação pedagógica, proclamação de alunos premiados e considerados distintos e distribuição de prémios.
 
-###### Art. 13.º As deliberações do conselho escolar serão tomadas por maioria de votos, tendo o presidente, em casos de empate, voto de qualidade.
+Art. 13.º As deliberações do conselho escolar serão tomadas por maioria de votos, tendo o presidente, em casos de empate, voto de qualidade.
 
-###### Art. 14.º As resoluções do conselho constarão de actas redigidas pelo respectivo secretário.
+Art. 14.º As resoluções do conselho constarão de actas redigidas pelo respectivo secretário.
 
-###### Art. 15.º O conselho escolar terá sessões ordinárias:
+Art. 15.º O conselho escolar terá sessões ordinárias:
 
 1. Para elaboração do plano anual de trabalhos antes do início do ano escolar;
 
@@ -220,13 +235,13 @@ Quando o comandante o julgar necessário ou conveniente, poderão ser agregados 
 
 4. Para apreciação dos resultados dos vários cursos e estágios no final do ano escolar.
 
-###### Art. 16.º Em todos os demais casos o conselho escolar terá sessões extraordinárias.
+Art. 16.º Em todos os demais casos o conselho escolar terá sessões extraordinárias.
 
 Serviços de instrução
 
-###### Art. 17.º Ao serviço de instrução, sob a direcção do comandante da Escola, compete orientar todas as actividades escolares e ministrar a instrução a levar a efeito.
+Art. 17.º Ao serviço de instrução, sob a direcção do comandante da Escola, compete orientar todas as actividades escolares e ministrar a instrução a levar a efeito.
 
-###### Art. 18.º Os serviços de instrução englobam, além do director, os seguintes órgãos:
+Art. 18.º Os serviços de instrução englobam, além do director, os seguintes órgãos:
 
 a) Gabinete de estudos;
 
@@ -238,7 +253,7 @@ d) Biblioteca, museu e arquivo.
 
 Gabinete de estudos
 
-###### Art. 19.º Ao gabinete de estudos, dirigido por um capitão de qualquer arma, tendo como adjuntos um comissário-chefe e um comissário, compete:
+Art. 19.º Ao gabinete de estudos, dirigido por um capitão de qualquer arma, tendo como adjuntos um comissário-chefe e um comissário, compete:
 
 1. O estudo, planeamento e coordenação do ensino, com vista a obter a melhor orientação pedagógica e o melhor rendimento da instrução;
 
@@ -254,33 +269,33 @@ Gabinete de estudos
 
 7. Manutenção e conservação de todos os órgãos auxiliares de instrução (ginásios, salas de aula, carreira de tiro, campos de jogos, gabinete fotográfico e outros que sejam necessários), de modo a obter-se o máximo de rendimento e eficiência no ensino.
 
-###### Art. 20.º Para o cumprimento das suas funções, o gabinete de estudos articula-se em:
+Art. 20.º Para o cumprimento das suas funções, o gabinete de estudos articula-se em:
 
 Chefe e adjuntos;
 
-#### Secção de estudo, planeamento e expediente;
+Secção de estudo, planeamento e expediente;
 
 #### Secção de legislação;
 
-#### Secção de publicações;
+Secção de publicações;
 
-#### Secção de desenho, fotografia e cinema;
+Secção de desenho, fotografia e cinema;
 
 Depósito de auxiliares de instrução e arquivo.
 
 Corpo docente
 
-###### Art. 21.º O corpo docente é constituído por todos os instrutores, professores e monitores do quadro da Escola e pelos professores agregados ou contratados a nomear pelo Comando-Geral, sob proposta do comandante da Escola.
+Art. 21.º O corpo docente é constituído por todos os instrutores, professores e monitores do quadro da Escola e pelos professores agregados ou contratados a nomear pelo Comando-Geral, sob proposta do comandante da Escola.
 
-###### Art. 22.º Os instrutores, professores e monitores são especialmente responsáveis pelo ensino que lhes incumbe, competindo-lhes, designadamente:
+Art. 22.º Os instrutores, professores e monitores são especialmente responsáveis pelo ensino que lhes incumbe, competindo-lhes, designadamente:
 
 1. Dirigir os alunos nos trabalhos práticos e de campo, visitas de estudo, etc.;
 
 2. Elaborar as provas de classificação das suas disciplinas, submetendo-as à apreciação do chefe do gabinete de estudos.
 
-###### Art. 23.º Os instrutores, professores e monitores são obrigados à regência do número de horas semanais que as necessidades do ensino exigirem, de harmonia com resoluções que forem adoptadas.
+Art. 23.º Os instrutores, professores e monitores são obrigados à regência do número de horas semanais que as necessidades do ensino exigirem, de harmonia com resoluções que forem adoptadas.
 
-###### Art. 24.º Os instrutores, professores e monitores são integrados nos seguintes grupos de instrução, dirigidos por oficiais ou comissários-chefes, competindo-lhes ministrar os programas das várias matérias constantes de cada grupo:
+Art. 24.º Os instrutores, professores e monitores são integrados nos seguintes grupos de instrução, dirigidos por oficiais ou comissários-chefes, competindo-lhes ministrar os programas das várias matérias constantes de cada grupo:
 
 a) Educação física;
 
@@ -292,17 +307,17 @@ d) Instrução técnica;
 
 e) Instrução literária.
 
-###### Art. 25.º A distribuição das matérias e disciplinas pelos instrutores e professores ficará a cargo do comandante da Escola, ouvido o conselho escolar.
+Art. 25.º A distribuição das matérias e disciplinas pelos instrutores e professores ficará a cargo do comandante da Escola, ouvido o conselho escolar.
 
-###### Art. 26.º A instrução ministrada será completada por conferências e palestras, tendo sempre em vista a formação do espírito profissional e militar, o fortalecimento do sentimento de obediência, a exaltação das qualidades de carácter e de boa conduta social, que são apanágio dos servidores da Polícia de Segurança Pública.
+Art. 26.º A instrução ministrada será completada por conferências e palestras, tendo sempre em vista a formação do espírito profissional e militar, o fortalecimento do sentimento de obediência, a exaltação das qualidades de carácter e de boa conduta social, que são apanágio dos servidores da Polícia de Segurança Pública.
 
-###### Art. 27.º Para a realização de conferências, palestras e lições sobre matérias especializadas ou de reconhecido interesse para o ensino podem ser convidados obsequiosamente ou contratados elementos dos vários ramos das forças armadas, das forças de segurança e de quaisquer outros organismos nacionais ou estrangeiros.
+Art. 27.º Para a realização de conferências, palestras e lições sobre matérias especializadas ou de reconhecido interesse para o ensino podem ser convidados obsequiosamente ou contratados elementos dos vários ramos das forças armadas, das forças de segurança e de quaisquer outros organismos nacionais ou estrangeiros.
 
 Corpo de alunos
 
-###### Art. 28.º O corpo de alunos enquadra e engloba, para efeitos de administração, disciplina, distribuição e execução do serviço e apoio de toda a espécie, os elementos que frequentarem os estágios, cursos e concursos realizados na Escola.
+Art. 28.º O corpo de alunos enquadra e engloba, para efeitos de administração, disciplina, distribuição e execução do serviço e apoio de toda a espécie, os elementos que frequentarem os estágios, cursos e concursos realizados na Escola.
 
-###### Art. 29.º O corpo de alunos é comandado por um capitão, que acumula, com as funções de instrutor, tendo como adjunto um comissário, e engloba:
+Art. 29.º O corpo de alunos é comandado por um capitão, que acumula, com as funções de instrutor, tendo como adjunto um comissário, e engloba:
 
 Secretaria;
 
@@ -314,13 +329,13 @@ Cursos;
 
 Estágios.
 
-###### Art. 30.º Ao comandante do corpo de alunos compete não só a responsabilidade da manutenção da disciplina do internato, como a orientação de todas as missões que lhe forem atribuídas pelo comando da Escola.
+Art. 30.º Ao comandante do corpo de alunos compete não só a responsabilidade da manutenção da disciplina do internato, como a orientação de todas as missões que lhe forem atribuídas pelo comando da Escola.
 
-###### Art. 31.º A secretaria é chefiada por um subchefe, que disporá dos meios necessários, em pessoal e material, para desempenho das funções que lhe competem, idênticas às da secretaria escolar, na parte aplicável, além de outras que pelo comandante lhe sejam confiadas.
+Art. 31.º A secretaria é chefiada por um subchefe, que disporá dos meios necessários, em pessoal e material, para desempenho das funções que lhe competem, idênticas às da secretaria escolar, na parte aplicável, além de outras que pelo comandante lhe sejam confiadas.
 
-###### Art. 32.º Os serviços de internato têm a seu cargo as instalações destinadas aos alunos que frequentam os vários cursos e estágios.
+Art. 32.º Os serviços de internato têm a seu cargo as instalações destinadas aos alunos que frequentam os vários cursos e estágios.
 
-###### Art. 33.º A escola de alistados articula-se em:
+Art. 33.º A escola de alistados articula-se em:
 
 Comandante e adjunto.
 
@@ -334,45 +349,45 @@ Os elementos que enquadram os alistados são variáveis com os efectivos a instr
 
 A instrução preparatória de quadros da escola de alistados funcionará sempre que possível na Escola Prática de Polícia.
 
-###### Art. 34.º Todos os cursos ou estágios terão um director, que poderá ser um oficial, comissário-chefe ou comissário.
+Art. 34.º Todos os cursos ou estágios terão um director, que poderá ser um oficial, comissário-chefe ou comissário.
 
 O director é o delegado da direcção de instrução para orientar o funcionamento do curso ou estágio de acordo com as directivas superiores.
 
-###### Art. 35.º Em cada curso ou estágio haverá um chefe, que será o instruendo mais graduado ou antigo. Compete-lhe estabelecer as ligações julgadas convenientes com o director do curso, professores e comandante do corpo de alunos.
+Art. 35.º Em cada curso ou estágio haverá um chefe, que será o instruendo mais graduado ou antigo. Compete-lhe estabelecer as ligações julgadas convenientes com o director do curso, professores e comandante do corpo de alunos.
 
 E, em todas as circunstâncias, o responsável pelo comportamento e apresentação dos seus camaradas de curso ou estágio.
 
 Biblioteca, museu e arquivo
 
-###### Art. 36.º A biblioteca, o museu e o arquivo ficam a cargo de um adjunto do gabinete de estudos, tendo como auxiliar os elementos necessários para regular o funcionamento dos serviços.
+Art. 36.º A biblioteca, o museu e o arquivo ficam a cargo de um adjunto do gabinete de estudos, tendo como auxiliar os elementos necessários para regular o funcionamento dos serviços.
 
-###### Art. 37.º A biblioteca é destinada a guardar e catalogar os livros, revistas e jornais, manuscritos, mapas, plantas e outras espécies destinados à consulta e estudo por parte do corpo docente, oficiais em serviço na Escola e alunos.
+Art. 37.º A biblioteca é destinada a guardar e catalogar os livros, revistas e jornais, manuscritos, mapas, plantas e outras espécies destinados à consulta e estudo por parte do corpo docente, oficiais em serviço na Escola e alunos.
 
-###### Art. 38.º Ao bibliotecário compete zelar pela conservação, boa disposição dos livros e mais material da biblioteca e dirigir a classificação, catalogação e o registo de todas as obras, com a observância das disposições regulamentares das bibliotecas das forças armadas.
+Art. 38.º Ao bibliotecário compete zelar pela conservação, boa disposição dos livros e mais material da biblioteca e dirigir a classificação, catalogação e o registo de todas as obras, com a observância das disposições regulamentares das bibliotecas das forças armadas.
 
-###### Art. 39.º O museu da Escola funcionará como museu da Polícia de Segurança Pública e é destinado à exposição e conservação de todos os objectos que, pela sua antiguidade, pela sua raridade ou pelo seu valor, convenha conservar como documentos históricos ou tenham interesse para o ensino do pessoal.
+Art. 39.º O museu da Escola funcionará como museu da Polícia de Segurança Pública e é destinado à exposição e conservação de todos os objectos que, pela sua antiguidade, pela sua raridade ou pelo seu valor, convenha conservar como documentos históricos ou tenham interesse para o ensino do pessoal.
 
-###### Art. 40.º O museu disporá dos necessários livres de registo de carga e catálogos de todos os objectos expostos e existentes, com os esclarecimentos que for possível obter a respeito de cada um deles.
+Art. 40.º O museu disporá dos necessários livres de registo de carga e catálogos de todos os objectos expostos e existentes, com os esclarecimentos que for possível obter a respeito de cada um deles.
 
-###### Art. 41.º Os artigos de armamento, munições e outros que, nos termos legais, são perdidos a favor do Estado, podem ser destinados ao museu, desde que tenham interesse para o mesmo, mediante despacho do comandante-geral.
+Art. 41.º Os artigos de armamento, munições e outros que, nos termos legais, são perdidos a favor do Estado, podem ser destinados ao museu, desde que tenham interesse para o mesmo, mediante despacho do comandante-geral.
 
-###### Art. 42.º Os objectos abandonados ou apreendidos em rusgas e outras diligências e, bem assim, os achados, entregues a qualquer departamento da Polícia de Segurança Pública, que venham a ser considerados de interesse para o museu, serão remetidos à Escola, depois de expirados os prazos de dilação legais, caso não apareça o respectivo dono ou o achador se tenha desinteressado dos mesmos.
+Art. 42.º Os objectos abandonados ou apreendidos em rusgas e outras diligências e, bem assim, os achados, entregues a qualquer departamento da Polícia de Segurança Pública, que venham a ser considerados de interesse para o museu, serão remetidos à Escola, depois de expirados os prazos de dilação legais, caso não apareça o respectivo dono ou o achador se tenha desinteressado dos mesmos.
 
 Para tanto, os vários departamentos submeterão a despacho do comandante-geral proposta devidamente fundamentada, da qual constará a descrição pormenorizada dos objectos que julguem com interesse para o museu.
 
-###### Art. 43.º A Escola Prática de Polícia de Segurança Pública não só pode aceitar, com destino ao museu, à biblioteca e às salas de convívio, a oferta de objectos, publicações e outros valores que tenham interesse para os mesmos, de qualquer pessoa ou instituição, mas também sugerir ou promover junto dos mesmos a sua cedência obsequiosa.
+Art. 43.º A Escola Prática de Polícia de Segurança Pública não só pode aceitar, com destino ao museu, à biblioteca e às salas de convívio, a oferta de objectos, publicações e outros valores que tenham interesse para os mesmos, de qualquer pessoa ou instituição, mas também sugerir ou promover junto dos mesmos a sua cedência obsequiosa.
 
-###### Art. 44.º O arquivo do serviço de instrução destina-se a guardar e coleccionar a documentação e elementos de qualquer natureza sobre a matéria do ensino ministrado na Escola, ou que com ele se relacione e, bem assim, tudo o que diga respeito à admissão, actividade escolar e aproveitamento dos alunos em todos os escalões e nas várias modalidades de instrução e ensino.
+Art. 44.º O arquivo do serviço de instrução destina-se a guardar e coleccionar a documentação e elementos de qualquer natureza sobre a matéria do ensino ministrado na Escola, ou que com ele se relacione e, bem assim, tudo o que diga respeito à admissão, actividade escolar e aproveitamento dos alunos em todos os escalões e nas várias modalidades de instrução e ensino.
 
-###### Art. 45.º Todos os documentes e trabalhos serão convenientemente numerados, catalogados e arquivados por grupos, com indicação da qualidade, quantidade e época a que respeitam.
+Art. 45.º Todos os documentes e trabalhos serão convenientemente numerados, catalogados e arquivados por grupos, com indicação da qualidade, quantidade e época a que respeitam.
 
-###### Art. 46.º Haverá no arquivo índice geral de toda a documentação e trabalhos arquivados, com vista à sua identificação e localização imediata.
+Art. 46.º Haverá no arquivo índice geral de toda a documentação e trabalhos arquivados, com vista à sua identificação e localização imediata.
 
-###### Art. 47.º A documentação e trabalhos referentes à actividade escolar dos alunos são considerados secretos e só serão enviados ao arquivo depois da classificação final dos respectivos estágios, concursos ou cursos e de os processos estarem ultimados.
+Art. 47.º A documentação e trabalhos referentes à actividade escolar dos alunos são considerados secretos e só serão enviados ao arquivo depois da classificação final dos respectivos estágios, concursos ou cursos e de os processos estarem ultimados.
 
 Ensino a ministrar
 
-###### Art. 48.º As modalidades de ensino a ministrar na Escola são as seguintes:
+Art. 48.º As modalidades de ensino a ministrar na Escola são as seguintes:
 
 1. Instrução formativa dos agentes;
 
@@ -382,15 +397,15 @@ Ensino a ministrar
 
 4. Quaisquer modalidades de ensino que o comandante-geral julgue convenientes para melhorar a eficiência da instrução do pessoal, tais como estágios e especializações.
 
-###### Art. 49.º Os programas dos cursos e estágios da Escola Prática de Polícia, bem como as condições de admissão, frequência, provas finais e outros requisitos considerados essenciais à sua finalidade são da competência do comandante-geral da Polícia de Segurança Pública, mediante proposta do comandante da Escola, e serão publicados em Ordem de Serviço após a sua aprovação.
+Art. 49.º Os programas dos cursos e estágios da Escola Prática de Polícia, bem como as condições de admissão, frequência, provas finais e outros requisitos considerados essenciais à sua finalidade são da competência do comandante-geral da Polícia de Segurança Pública, mediante proposta do comandante da Escola, e serão publicados em Ordem de Serviço após a sua aprovação.
 
-###### Art. 50.º O ensino a ministrar na Escola reger-se-á pelas disposições do Regulamento da Instrução da Polícia de Segurança Pública, convenientemente adaptado às circunstâncias, meios e natureza do mesmo.
+Art. 50.º O ensino a ministrar na Escola reger-se-á pelas disposições do Regulamento da Instrução da Polícia de Segurança Pública, convenientemente adaptado às circunstâncias, meios e natureza do mesmo.
 
-###### Art. 51.º A instrução ministrada na Escola está sujeita aos órgãos de direcção e de inspecção do Comando-Geral.
+Art. 51.º A instrução ministrada na Escola está sujeita aos órgãos de direcção e de inspecção do Comando-Geral.
 
 Serviços gerais e de administração
 
-###### Art. 52.º Os serviços gerais e de administração reúnem todos os órgãos necessários à vida administrativa da Escola, agrupados do seguinte modo:
+Art. 52.º Os serviços gerais e de administração reúnem todos os órgãos necessários à vida administrativa da Escola, agrupados do seguinte modo:
 
 Director;
 
@@ -402,21 +417,21 @@ Serviços gerais;
 
 Formação.
 
-###### Art. 53.º Os serviços gerais e de administração e os seus vários órgãos estão sujeitos, para todos os efeitos, aos serviços de inspecção do Comando-Geral.
+Art. 53.º Os serviços gerais e de administração e os seus vários órgãos estão sujeitos, para todos os efeitos, aos serviços de inspecção do Comando-Geral.
 
 Director
 
-###### Art. 54.º O director dos serviços gerais e de administração é o 2.º comandante da Escola.
+Art. 54.º O director dos serviços gerais e de administração é o 2.º comandante da Escola.
 
 Secretaria escolar
 
-###### Art. 55.º A secretaria escolar é orientada pelo 2.º comandante e tem a seu cargo o expediente, matrícula, registo e arquivo.
+Art. 55.º A secretaria escolar é orientada pelo 2.º comandante e tem a seu cargo o expediente, matrícula, registo e arquivo.
 
 Os serviços da secretaria escolar compreenderão as secções julgadas necessárias.
 
-###### Art. 56.º O chefe da secretaria é um chefe de esquadra, competindo-lhe dirigir os serviços das secções, segundo as directivas do comando.
+Art. 56.º O chefe da secretaria é um chefe de esquadra, competindo-lhe dirigir os serviços das secções, segundo as directivas do comando.
 
-###### Art. 57.º À secretaria escolar compete, designadamente:
+Art. 57.º À secretaria escolar compete, designadamente:
 
 1. Publicar as ordens de serviço;
 
@@ -464,17 +479,17 @@ Os serviços da secretaria escolar compreenderão as secções julgadas necessá
 
 Conselho administrativo
 
-###### Art. 58.º O conselho administrativo é constituído pelo oficial que desempenhar as funções de 2.º comandante, como presidente, um comissário, como tesoureiro, e um chefe de esquadra, como secretário, e terá o número de amanuenses necessários para a eficiente execução dos serviços.
+Art. 58.º O conselho administrativo é constituído pelo oficial que desempenhar as funções de 2.º comandante, como presidente, um comissário, como tesoureiro, e um chefe de esquadra, como secretário, e terá o número de amanuenses necessários para a eficiente execução dos serviços.
 
-###### Art. 59.º Na falta ou impedimento de qualquer dos membros do conselho administrativo, a substituição incumbirá a quem o comandante da Escola designar.
+Art. 59.º Na falta ou impedimento de qualquer dos membros do conselho administrativo, a substituição incumbirá a quem o comandante da Escola designar.
 
-###### Art. 60.º Subordinados ao conselho administrativo funcionam os seguintes órgãos:
+Art. 60.º Subordinados ao conselho administrativo funcionam os seguintes órgãos:
 
-#### Secção de contabilidade, chefiada pelo secretário;
+Secção de contabilidade, chefiada pelo secretário;
 
 Tesouraria, chefiada pelo tesoureiro.
 
-###### Art. 61.º Ao conselho administrativo compete:
+Art. 61.º Ao conselho administrativo compete:
 
 1. Superintender, sob orientação do comandante da Escola, em todos os actos de administração da mesma;
 
@@ -486,21 +501,21 @@ Tesouraria, chefiada pelo tesoureiro.
 
 5. Elaborar as propostas orçamentais da Escola.
 
-###### Art. 62.º Ao conselho administrativo da Escola são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de polícia e, bem assim, as normas e instruções emanadas do Comando-Geral, relativas aos mesmos conselhos, na parte aplicável.
+Art. 62.º Ao conselho administrativo da Escola são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de polícia e, bem assim, as normas e instruções emanadas do Comando-Geral, relativas aos mesmos conselhos, na parte aplicável.
 
-###### Art. 63.º O comandante da Escola pode assistir, quando o julgue conveniente, às reuniões do conselho administrativo, assumindo então a sua presidência. Em qualquer caso, poderá tomar conhecimento, por intermédio do presidente do conselho administrativo, das actas das sessões deste, bem como de todos os assuntos que, pela sua natureza e importância, devam ser submetidos à sua apreciação.
+Art. 63.º O comandante da Escola pode assistir, quando o julgue conveniente, às reuniões do conselho administrativo, assumindo então a sua presidência. Em qualquer caso, poderá tomar conhecimento, por intermédio do presidente do conselho administrativo, das actas das sessões deste, bem como de todos os assuntos que, pela sua natureza e importância, devam ser submetidos à sua apreciação.
 
-###### Art. 64.º Ao comandante da Escola assiste o direito de:
+Art. 64.º Ao comandante da Escola assiste o direito de:
 
 1. Revogar, sob sua exclusiva responsabilidade, qualquer deliberação do conselho que reconheça ilegal ou prejudicial aos interesses da Fazenda Nacional;
 
 2. Determinar, por escrito, em circunstâncias extraordinárias, mesmo sem prévia consulta ao conselho e sob a sua exclusiva responsabilidade, a realização de qualquer despesa.
 
-###### Art. 65.º Quando o comandante fizer uso das prerrogativas referidas no artigo anterior, serão as suas ordens exaradas em acta, cuja cópia será enviada ao Comando-Geral para apreciação do procedimento havido.
+Art. 65.º Quando o comandante fizer uso das prerrogativas referidas no artigo anterior, serão as suas ordens exaradas em acta, cuja cópia será enviada ao Comando-Geral para apreciação do procedimento havido.
 
-###### Art. 66.º Os membros do conselho administrativo que deixarem de exercer as funções respectivas responderão pelas faltas e contravenções que porventura tenham havido durante a sua gerência, nos termos do artigo seguinte.
+Art. 66.º Os membros do conselho administrativo que deixarem de exercer as funções respectivas responderão pelas faltas e contravenções que porventura tenham havido durante a sua gerência, nos termos do artigo seguinte.
 
-###### Art. 67.º Os membros do conselho administrativo, quando não tenham feito declaração de voto em contrário na resolução adoptada, são solidàriamente responsáveis:
+Art. 67.º Os membros do conselho administrativo, quando não tenham feito declaração de voto em contrário na resolução adoptada, são solidàriamente responsáveis:
 
 1. Pelas resoluções que contrariem as leis, regulamentos e disposições vigentes;
 
@@ -508,13 +523,13 @@ Tesouraria, chefiada pelo tesoureiro.
 
 3. Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais.
 
-###### Art. 68.º Ao tesoureiro do conselho administrativo da Escola Prática de Polícia de Segurança Pública será atribuído mensalmente um abono para falhas, em quantitativo a fixar pelo Ministro do Interior, sob proposta do Comando-Geral.
+Art. 68.º Ao tesoureiro do conselho administrativo da Escola Prática de Polícia de Segurança Pública será atribuído mensalmente um abono para falhas, em quantitativo a fixar pelo Ministro do Interior, sob proposta do Comando-Geral.
 
-###### Art. 69.º É autorizado o funcionamento de serviços agro-pecuários e de quaisquer outros que possam produzir receita privativa da Escola, destinada à satisfação de necessidades correntes, devendo a sua escrituração submeter-se às normas regulamentares.
+Art. 69.º É autorizado o funcionamento de serviços agro-pecuários e de quaisquer outros que possam produzir receita privativa da Escola, destinada à satisfação de necessidades correntes, devendo a sua escrituração submeter-se às normas regulamentares.
 
 Serviços gerais
 
-###### Art. 70.º Os serviços gerais são os seguintes:
+Art. 70.º Os serviços gerais são os seguintes:
 
 Serviço religioso.
 
@@ -524,19 +539,19 @@ Serviço de material e transportes.
 
 Serviços de manutenção.
 
-###### Art. 71.º O serviço religioso, chefiado pelo capelão da Polícia de Segurança Pública, destina-se a prestar assistência religiosa ao pessoal da Escola, cabendo-lhe acção na formação moral e cívica dos agentes.
+Art. 71.º O serviço religioso, chefiado pelo capelão da Polícia de Segurança Pública, destina-se a prestar assistência religiosa ao pessoal da Escola, cabendo-lhe acção na formação moral e cívica dos agentes.
 
-###### Art. 72.º O serviço de saúde é chefiado por um capitão médico e, na sua impossibilidade, por um médico civil contratado, que acumulará com as funções de instrutor de higiene e primeiros socorros.
+Art. 72.º O serviço de saúde é chefiado por um capitão médico e, na sua impossibilidade, por um médico civil contratado, que acumulará com as funções de instrutor de higiene e primeiros socorros.
 
-###### Art. 73.º O serviço de saúde rege-se pelas normas gerais do serviço de saúde da Polícia de Segurança Pública e tem a seu cargo a manutenção do bom estado sanitário do pessoal da Escola, devendo, para tal, promover todas as medidas preventivas de profilaxia e de higiene que forem julgadas necessárias.
+Art. 73.º O serviço de saúde rege-se pelas normas gerais do serviço de saúde da Polícia de Segurança Pública e tem a seu cargo a manutenção do bom estado sanitário do pessoal da Escola, devendo, para tal, promover todas as medidas preventivas de profilaxia e de higiene que forem julgadas necessárias.
 
-###### Art. 74.º A Escola disporá de posto clínico e de enfermaria e do pessoal e material necessários para o seu eficiente funcionamento.
+Art. 74.º A Escola disporá de posto clínico e de enfermaria e do pessoal e material necessários para o seu eficiente funcionamento.
 
-###### Art. 75.º Na Escola funcionará uma junta de saúde, composta pelo 2.º comandante, que servirá de presidente, pelo chefe do serviço de saúde da Escola e por outro médico designado pelo Comando-Geral. O chefe da secretaria desempenhará as funções de secretário.
+Art. 75.º Na Escola funcionará uma junta de saúde, composta pelo 2.º comandante, que servirá de presidente, pelo chefe do serviço de saúde da Escola e por outro médico designado pelo Comando-Geral. O chefe da secretaria desempenhará as funções de secretário.
 
-###### Art. 76.º Ao serviço de material e transportes, chefiado por um oficial do quadro do serviço de material, compete a distribuição, manutenção e movimento de cargas do material de guerra, aquartelamento, equipamento e rádio, assegurar a guarda, conservação, abastecimento e fiscalização das viaturas e a disciplina e instrução dos respectivos condutores, ficando ainda a seu cargo os transportes e as oficinas de manutenção de material.
+Art. 76.º Ao serviço de material e transportes, chefiado por um oficial do quadro do serviço de material, compete a distribuição, manutenção e movimento de cargas do material de guerra, aquartelamento, equipamento e rádio, assegurar a guarda, conservação, abastecimento e fiscalização das viaturas e a disciplina e instrução dos respectivos condutores, ficando ainda a seu cargo os transportes e as oficinas de manutenção de material.
 
-###### Art. 77.º O serviço de material e transportes compreende as seguintes secções:
+Art. 77.º O serviço de material e transportes compreende as seguintes secções:
 
 Cargas.
 
@@ -544,11 +559,11 @@ Transportes.
 
 Mecânica.
 
-###### Art. 78.º O oficial do serviço de material e transportes assegura os serviços técnicos e de manutenção e tem, dentro da Escola, a mesma competência do chefe do serviço de material do Comando-Geral.
+Art. 78.º O oficial do serviço de material e transportes assegura os serviços técnicos e de manutenção e tem, dentro da Escola, a mesma competência do chefe do serviço de material do Comando-Geral.
 
-###### Art. 79.º A Escola disporá de todo o material indispensável ao serviço da instrução, visitas de estudo e transportes.
+Art. 79.º A Escola disporá de todo o material indispensável ao serviço da instrução, visitas de estudo e transportes.
 
-###### Art. 80.º Os serviços de manutenção, chefiados por um chefe de esquadra, de preferência do serviço de material, especializado em mecânica, destinam-se a apoiar diversas actividades da Escola. Compreendem os seguintes serviços:
+Art. 80.º Os serviços de manutenção, chefiados por um chefe de esquadra, de preferência do serviço de material, especializado em mecânica, destinam-se a apoiar diversas actividades da Escola. Compreendem os seguintes serviços:
 
 Gráficos.
 
@@ -566,19 +581,19 @@ Assistência social.
 
 Cantina.
 
-###### Art. 81.º Os serviços gráficos, dotados do pessoal especializado necessário ao regular funcionamento das oficinas tipográficas, têm a seu cargo a confecção de impressos e publicações necessários, não só para as actividades da Escola, mas também para apoio de toda a Polícia de Segurança Pública.
+Art. 81.º Os serviços gráficos, dotados do pessoal especializado necessário ao regular funcionamento das oficinas tipográficas, têm a seu cargo a confecção de impressos e publicações necessários, não só para as actividades da Escola, mas também para apoio de toda a Polícia de Segurança Pública.
 
-###### Art. 82.º Para alimentação do pessoal da Escola e dos alunos dos vários cursos e estágios haverá messe e os refeitórios julgados necessários.
+Art. 82.º Para alimentação do pessoal da Escola e dos alunos dos vários cursos e estágios haverá messe e os refeitórios julgados necessários.
 
-###### Art. 83.º A direcção da messe será exercida por uma comissão composta por um comissário, um chefe e um subchefe, a nomear por escala ou por escolha. A sua fiscalização estará a cargo do conselho administrativo, ao qual a comissão presta contas.
+Art. 83.º A direcção da messe será exercida por uma comissão composta por um comissário, um chefe e um subchefe, a nomear por escala ou por escolha. A sua fiscalização estará a cargo do conselho administrativo, ao qual a comissão presta contas.
 
-###### Art. 84.º Para confecção da alimentação serão nomeados os cozinheiros e ajudantes de cozinheiro necessários, de entre os agentes, ou contratados, e os faxinas julgados convenientes. Serão dirigidos pelo vagomestre, que recebe as ordens e directivas da direcção da messe.
+Art. 84.º Para confecção da alimentação serão nomeados os cozinheiros e ajudantes de cozinheiro necessários, de entre os agentes, ou contratados, e os faxinas julgados convenientes. Serão dirigidos pelo vagomestre, que recebe as ordens e directivas da direcção da messe.
 
-###### Art. 85.º A administração da alimentação e respectiva escrituração processar-se-á nos moldes regulamentares e o seu funcionamento decorrerá dentro das normas a fixar pelo conselho administrativo da Escola.
+Art. 85.º A administração da alimentação e respectiva escrituração processar-se-á nos moldes regulamentares e o seu funcionamento decorrerá dentro das normas a fixar pelo conselho administrativo da Escola.
 
-###### Art. 86.º O serviço de transmissões disporá do pessoal necessário para garantir a manutenção e eficiência da exploração das redes de rádio e telefónica da Escola e ministrar a instrução especializada aos vários cursos e estágios.
+Art. 86.º O serviço de transmissões disporá do pessoal necessário para garantir a manutenção e eficiência da exploração das redes de rádio e telefónica da Escola e ministrar a instrução especializada aos vários cursos e estágios.
 
-###### Art. 87.º Aos serviços de instalações compete assegurar o bom estado de conservação de todas as dependências e instalações e, bem assim, a manutenção do material a cargo da Escola e que não seja privativo de outros serviços.
+Art. 87.º Aos serviços de instalações compete assegurar o bom estado de conservação de todas as dependências e instalações e, bem assim, a manutenção do material a cargo da Escola e que não seja privativo de outros serviços.
 
 Compreendem as seguintes oficinas:
 
@@ -596,19 +611,19 @@ Electricista.
 
 Outras julgadas necessárias.
 
-###### Art. 88.º Os serviços de incêndios assegurarão a protecção de todo o património da Escola contra incêndios, dispondo, para o efeito, de eficiente material de protecção, em sistema fixo e móvel, e das necessárias bocas de incêndio, extintores de emergência, etc.
+Art. 88.º Os serviços de incêndios assegurarão a protecção de todo o património da Escola contra incêndios, dispondo, para o efeito, de eficiente material de protecção, em sistema fixo e móvel, e das necessárias bocas de incêndio, extintores de emergência, etc.
 
-###### Art. 89.º Os serviços de higiene e limpeza disporão de pessoal necessário para garantir o seu funcionamento eficaz.
+Art. 89.º Os serviços de higiene e limpeza disporão de pessoal necessário para garantir o seu funcionamento eficaz.
 
-###### Art. 90.º Os serviços de assistência social funcionarão dentro das normas regulamentares em uso na Polícia de Segurança Pública, dispondo, para o efeito, de uma delegação dos Serviços Sociais, com as atribuições das congéneres nos comandos da Polícia e do pessoal necessário ao regular funcionamento dos serviços.
+Art. 90.º Os serviços de assistência social funcionarão dentro das normas regulamentares em uso na Polícia de Segurança Pública, dispondo, para o efeito, de uma delegação dos Serviços Sociais, com as atribuições das congéneres nos comandos da Polícia e do pessoal necessário ao regular funcionamento dos serviços.
 
-###### Art. 91.º O serviço de assistência social, além das funções próprias, promoverá que seja dado especial relevo às actividades culturais e recreativas.
+Art. 91.º O serviço de assistência social, além das funções próprias, promoverá que seja dado especial relevo às actividades culturais e recreativas.
 
-###### Art. 92.º A cantina da Escola destina-se não só ao apoio do pessoal em serviço na mesma e seus familiares, mas também ao restante pessoal da Polícia de Segurança Pública que tiver vantagem na sua utilização.
+Art. 92.º A cantina da Escola destina-se não só ao apoio do pessoal em serviço na mesma e seus familiares, mas também ao restante pessoal da Polícia de Segurança Pública que tiver vantagem na sua utilização.
 
 Formação
 
-###### Art. 93.º A formação enquadra os graduados e guardas do quadro orgânico da Escola, para efeitos administrativos, de disciplina, instrução e ordem pública, e destina-se a fornecer o pessoal necessário para o serviço diário interno, para o regular apoio do funcionamento dos serviços de instrução e segurança imediata dos aquartelamentos, compreendendo:
+Art. 93.º A formação enquadra os graduados e guardas do quadro orgânico da Escola, para efeitos administrativos, de disciplina, instrução e ordem pública, e destina-se a fornecer o pessoal necessário para o serviço diário interno, para o regular apoio do funcionamento dos serviços de instrução e segurança imediata dos aquartelamentos, compreendendo:
 
 Comando.
 
@@ -620,17 +635,17 @@ Pelotão de serviços.
 
 Fanfarra.
 
-###### Art. 94.º O comandante da formação será um capitão, de qualquer arma, e desempenhará cumulativamente as funções de instrutor.
+Art. 94.º O comandante da formação será um capitão, de qualquer arma, e desempenhará cumulativamente as funções de instrutor.
 
-###### Art. 95.º As funções que competem ao pelotão de intervenção e ao pelotão de serviços são a segurança imediata e próxima das instalações e o enquadramento do pessoal impedido nos vários serviços. O pelotão de intervenção será, logo que possível, substituído por uma companhia móvel de polícia.
+Art. 95.º As funções que competem ao pelotão de intervenção e ao pelotão de serviços são a segurança imediata e próxima das instalações e o enquadramento do pessoal impedido nos vários serviços. O pelotão de intervenção será, logo que possível, substituído por uma companhia móvel de polícia.
 
-###### Art. 96.º Ao comandante da formação compete elaborar o plano de defesa das instalações da Escola, segundo as directivas do comandante, devendo dispor de todo o material necessário ao fim em vista.
+Art. 96.º Ao comandante da formação compete elaborar o plano de defesa das instalações da Escola, segundo as directivas do comandante, devendo dispor de todo o material necessário ao fim em vista.
 
-###### Art. 97.º A fanfarra de corneteiros, além de fornecer os elementos para o serviço da Escola, colabora no serviço de instrução, formaturas, desfile das forças e executa outros serviços que lhe sejam determinados.
+Art. 97.º A fanfarra de corneteiros, além de fornecer os elementos para o serviço da Escola, colabora no serviço de instrução, formaturas, desfile das forças e executa outros serviços que lhe sejam determinados.
 
 ### CAPÍTULO II — Vida interna e administração
 
-###### Art. 98.º A vida interna da Escola Prática será regulada por normas de execução permanente, tendo por base:
+Art. 98.º A vida interna da Escola Prática será regulada por normas de execução permanente, tendo por base:
 
 Os regulamentos e determinações em uso na Polícia de Segurança Pública.
 
@@ -638,9 +653,9 @@ Em todos os casos possíveis, o procedimento adoptado nas unidades militares, co
 
 O exemplo vivo e permanente que para a Polícia de Segurança Pública será sempre a sua Escola Prática.
 
-###### Art. 99.º Os alunos dos vários cursos e estágios terão direito ao abono de alojamento e alimentação por conta do Estado.
+Art. 99.º Os alunos dos vários cursos e estágios terão direito ao abono de alojamento e alimentação por conta do Estado.
 
-###### Art. 100.º O pessoal do quadro orgânico da Escola ou o que nela preste eventualmente serviço, sempre que por tal facto não aufira qualquer outro abono, terá direito:
+Art. 100.º O pessoal do quadro orgânico da Escola ou o que nela preste eventualmente serviço, sempre que por tal facto não aufira qualquer outro abono, terá direito:
 
 1. A uma gratificação escolar.
 
@@ -648,33 +663,33 @@ O exemplo vivo e permanente que para a Polícia de Segurança Pública será sem
 
 ### CAPÍTULO III — Disciplina
 
-###### Art. 101.º À Escola Prática aplica-se o Regulamento Disciplinar do Pessoal da Polícia de Segurança Pública e as disposições especiais constantes deste Regulamento.
+Art. 101.º À Escola Prática aplica-se o Regulamento Disciplinar do Pessoal da Polícia de Segurança Pública e as disposições especiais constantes deste Regulamento.
 
 Do conselho de disciplina
 
-###### Art. 102.º Na Escola funcionará um conselho de disciplina, constituído pelo comandante, pelo 2.º comandante, pelos capitães com função de comando ou chefia, por um comissário-chefe e pelo comissário mais antigo, servindo, respectivamente, de presidente, relator, vogais e secretário sem voto. A sua competência e funcionamento regem-se pelos artigos 67.º e 68.º do Regulamento Disciplinar do Pessoal da Polícia de Segurança Pública, na parte aplicável. Quando não existam na Escola, pelo menos, dois oficiais e um comissário-chefe em condições de tomarem parte no conselho disciplinar, os elementos em falta serão pedidos ao Comando-Geral.
+Art. 102.º Na Escola funcionará um conselho de disciplina, constituído pelo comandante, pelo 2.º comandante, pelos capitães com função de comando ou chefia, por um comissário-chefe e pelo comissário mais antigo, servindo, respectivamente, de presidente, relator, vogais e secretário sem voto. A sua competência e funcionamento regem-se pelos artigos 67.º e 68.º do Regulamento Disciplinar do Pessoal da Polícia de Segurança Pública, na parte aplicável. Quando não existam na Escola, pelo menos, dois oficiais e um comissário-chefe em condições de tomarem parte no conselho disciplinar, os elementos em falta serão pedidos ao Comando-Geral.
 
-###### Art. 103.º Na falta ou impedimento do comandante ou 2.º comandante, serão estes substituídos pelos oficiais mais antigos do quadro da Escola.
+Art. 103.º Na falta ou impedimento do comandante ou 2.º comandante, serão estes substituídos pelos oficiais mais antigos do quadro da Escola.
 
-###### Art. 104.º O conselho de disciplina reúne para deliberar sobre todos os processos disciplinares instaurados ao pessoal do quadro da Escola e aos alunos que, nos termos do Regulamento Disciplinar, devam subir a esta instância.
+Art. 104.º O conselho de disciplina reúne para deliberar sobre todos os processos disciplinares instaurados ao pessoal do quadro da Escola e aos alunos que, nos termos do Regulamento Disciplinar, devam subir a esta instância.
 
-###### Art. 105.º A convocação do conselho de disciplina é da exclusiva competência do comandante.
+Art. 105.º A convocação do conselho de disciplina é da exclusiva competência do comandante.
 
 Competência disciplinar
 
-###### Art. 106.º O comandante da Escola Prática tem competência disciplinar igual à dos comandantes distritais de Lisboa e Porto.
+Art. 106.º O comandante da Escola Prática tem competência disciplinar igual à dos comandantes distritais de Lisboa e Porto.
 
-###### Art. 107.º O 2.º comandante tem competência disciplinar igual à do 2.º comandante de Lisboa.
+Art. 107.º O 2.º comandante tem competência disciplinar igual à do 2.º comandante de Lisboa.
 
-###### Art. 108.º O comandante do corpo de alunos e o comandante da formação têm competência igual à de comandante de divisão da Polícia de Segurança Pública.
+Art. 108.º O comandante do corpo de alunos e o comandante da formação têm competência igual à de comandante de divisão da Polícia de Segurança Pública.
 
-###### Art. 109.º O comandante da escola de alistados, quando esta funcione fora da sede da Escola Prática, tem competência igual ao comandante de divisão.
+Art. 109.º O comandante da escola de alistados, quando esta funcione fora da sede da Escola Prática, tem competência igual ao comandante de divisão.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 110.º A Escola Prática de Polícia fará uso da Bandeira Nacional, nos termos e condições estabelecidos para os comandos da Polícia.
+Art. 110.º A Escola Prática de Polícia fará uso da Bandeira Nacional, nos termos e condições estabelecidos para os comandos da Polícia.
 
-###### Art. 111.º A Escola Prática de Polícia usará guião do modelo indicado na figura constante do anexo n.º 3 e que terá a seguinte constituição:
+Art. 111.º A Escola Prática de Polícia usará guião do modelo indicado na figura constante do anexo n.º 3 e que terá a seguinte constituição:
 
 De verde, com o emblema da Polícia de Segurança Pública, que são as armas de Portugal em escudo de português antigo, assentes sobre uma esfera armilar de amarelo, avivada de negro, sobre forro verde, tudo envolvido num listel circular de azul perfilado de amarelo com as palavras «Polícia de Segurança Pública» em letras do mesmo e tudo sobreposto a uma estrela de seis raios de amarelo; um listel pregueado de branco, avivado de negro, perpendicular ao raio da estrela inferior, com a legenda «Escola Prática», em letras de negro, estando sobreposto no lado esquerdo a um gládio de amarelo, avivado a negro, com a ponta para baixo e, no lado direito, um ramo de carvalho de amarelo, avivado a negro.
 
@@ -684,42 +699,42 @@ Bordadura da bandeira de azul, carregada de quatro escaques de branco firmados u
 
 Cordões e borlas de azul e branco.
 
-###### Art. 112.º O pessoal do quadro permanente da Escola usará emblema do modelo indicado no anexo n.º 4 e que terá a seguinte constituição:
+Art. 112.º O pessoal do quadro permanente da Escola usará emblema do modelo indicado no anexo n.º 4 e que terá a seguinte constituição:
 
 Em escudo da forma do desenho, de branco com o emblema da Polícia de Segurança Pública, como descrito para o guião, mas sobre forro vermelho e verde, assentes sobre um gládio, a sua cor natural, com a ponta para baixo, envolvido por dois ramos de louro nascendo em ponta. Bordadura em chefe de cinza com a legenda «Pela Ordem e Pela Pátria», a restante bordadura em azul com a legenda «Escola Prática» em ponta.
 
 Nos galhardetes das requintas, cornetas e demais instrumentos da fanfarra será este emblema assente em fundo azul-ferrete bordado de uma franja prateada e em tudo o mais semelhante ao disposto no artigo 25.º do Plano de Uniformes para a Polícia de Segurança Pública no que se refere a galhardetes.
 
-###### Art. 113.º Ao pessoal da Escola Prática poderá ser confiado o exercício de qualquer outro serviço que lhe seja determinado pelo comandante-geral, mesmo fora da Escola.
+Art. 113.º Ao pessoal da Escola Prática poderá ser confiado o exercício de qualquer outro serviço que lhe seja determinado pelo comandante-geral, mesmo fora da Escola.
 
-###### Art. 114.º Todo o pessoal do quadro orgânico ou do quadro eventual da Escola Prática pode ser nomeado para o desempenho de funções em qualquer ramo de instrução, ou prestação de qualquer serviço compatível que o comandante da Escola julgue conveniente.
+Art. 114.º Todo o pessoal do quadro orgânico ou do quadro eventual da Escola Prática pode ser nomeado para o desempenho de funções em qualquer ramo de instrução, ou prestação de qualquer serviço compatível que o comandante da Escola julgue conveniente.
 
-###### Art. 115.º O serviço desempenhado na Escola Prática de Polícia é considerado como prestado nos termos do artigo 85.º do Regulamento da Polícia de Segurança Pública.
+Art. 115.º O serviço desempenhado na Escola Prática de Polícia é considerado como prestado nos termos do artigo 85.º do Regulamento da Polícia de Segurança Pública.
 
-###### Art. 116.º As modalidades de ensino a ministrar entrarão progressivamente em vigor à medida que a Escola for dispondo dos meios necessários.
+Art. 116.º As modalidades de ensino a ministrar entrarão progressivamente em vigor à medida que a Escola for dispondo dos meios necessários.
 
-###### Art. 117.º A transição do actual sistema para a modalidade de cursos e estágios a frequentar na Escola Prática far-se-á, progressivamente e em qualquer dos escalões, por despacho do comandante-geral.
+Art. 117.º A transição do actual sistema para a modalidade de cursos e estágios a frequentar na Escola Prática far-se-á, progressivamente e em qualquer dos escalões, por despacho do comandante-geral.
 
-###### Art. 118.º Em assuntos de serviço, o comando da Escola Prática de Polícia poderá corresponder-se oficialmente, por via postal, telegráfica ou telefónica, com todas as autoridades, repartições públicas e entidades particulares.
+Art. 118.º Em assuntos de serviço, o comando da Escola Prática de Polícia poderá corresponder-se oficialmente, por via postal, telegráfica ou telefónica, com todas as autoridades, repartições públicas e entidades particulares.
 
-###### Art. 119.º Os danos causados pelos instruendos nas instalações ou no mobiliário, intencionalmente ou por negligência, serão reparados de sua conta, independentemente de qualquer procedimento disciplinar.
+Art. 119.º Os danos causados pelos instruendos nas instalações ou no mobiliário, intencionalmente ou por negligência, serão reparados de sua conta, independentemente de qualquer procedimento disciplinar.
 
-###### Art. 120.º O quadro orgânico da Escola Prática e respectivas funções constam do mapa anexo n.º 2.
+Art. 120.º O quadro orgânico da Escola Prática e respectivas funções constam do mapa anexo n.º 2.
 
 O seu preenchimento será progressivo e de acordo com as necessidades e as disponibilidades orçamentais, conforme se prevê no artigo 2.º da portaria que aprova o presente Regulamento.
 
-###### Art. 121.º O comandante da Escola, mediante directiva do comandante-geral, guarnecerá, gradualmente e consoante os meios e efectivos que lhe forem sendo atribuídos, os órgãos mais necessários à eficiência dos serviços, por forma a tirar dos mesmos o máximo rendimento.
+Art. 121.º O comandante da Escola, mediante directiva do comandante-geral, guarnecerá, gradualmente e consoante os meios e efectivos que lhe forem sendo atribuídos, os órgãos mais necessários à eficiência dos serviços, por forma a tirar dos mesmos o máximo rendimento.
 
-###### Art. 122.º Enquanto o quadro do pessoal da Escola não se achar completo, pode o Ministro do Interior autorizar, sob proposta do Comando-Geral da Polícia de Segurança Pública e mediante contrato anual renovável, a nomeação provisória de professores estranhos à Polícia de Segurança Pública, para ensino de determinadas matérias e especialidades, aos quais será atribuída a correspondente remuneração.
+Art. 122.º Enquanto o quadro do pessoal da Escola não se achar completo, pode o Ministro do Interior autorizar, sob proposta do Comando-Geral da Polícia de Segurança Pública e mediante contrato anual renovável, a nomeação provisória de professores estranhos à Polícia de Segurança Pública, para ensino de determinadas matérias e especialidades, aos quais será atribuída a correspondente remuneração.
 
-###### Art. 123.º Enquanto o quadro do pessoal da Escola não se achar completo, poderá o comandante-geral mandar prestar serviço na mesma, com carácter eventual ou na situação de destacado, o pessoal da Polícia de Segurança Pública que se encontre em qualquer situação ou quadro e que se torne necessário ao regular funcionamento dos serviços.
+Art. 123.º Enquanto o quadro do pessoal da Escola não se achar completo, poderá o comandante-geral mandar prestar serviço na mesma, com carácter eventual ou na situação de destacado, o pessoal da Polícia de Segurança Pública que se encontre em qualquer situação ou quadro e que se torne necessário ao regular funcionamento dos serviços.
 
-###### Art. 124.º Os casos omissos e as dúvidas que surgirem na aplicação das disposições do presente Regulamento serão submetidos à apreciação do comandante-geral da Polícia de Segurança Pública.
+Art. 124.º Os casos omissos e as dúvidas que surgirem na aplicação das disposições do presente Regulamento serão submetidos à apreciação do comandante-geral da Polícia de Segurança Pública.
 
 Ministério do Interior, 13 de Agosto de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote.
 
 Do Anexo n.º 1 ao Anexo 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/18901/10111023.pdf))](https://files.diariodarepublica.pt/1s/1969/08/18901/10111023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/18901/10111023.pdf)
 
 Ministério do Interior, 13 de Agosto de 1969. - O Ministro do Interior, António Manuel Gonçalves Rapazote.

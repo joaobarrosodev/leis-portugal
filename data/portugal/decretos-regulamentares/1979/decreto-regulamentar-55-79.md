@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22000/24942495.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1979-365517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7982c202809271e71e6df5ac74ddbe520de4215e439c53c3313956b4ee299e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36a79c4d19cf5d04e0e2baf322f53666ecaffaeaff09d8b615ffebcfd6b923d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Indústria Alimentar
+- Ministério da Agricultura e Pescas
+- Ministério da Indústria e Tecnologia
+- Tutela Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475542:por
+  label: "Revogado, a partir de 01.01.1991, pelo DEC LEI.109/91.1991.03.15.MIE, DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1991-475542
+  date: '1991-03-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:35Z'
   warnings: []
   errors: []
 ---
@@ -99,24 +112,24 @@ No entanto, considerando que, apesar de pertencerem a um governo único, há con
 
 Nestes termos, o Governo da República Portuguesa decreta, ao abrigo da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A repartição de tutelas administrativas das indústrias alimentares, referida no n.º 2 do artigo 32.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, entre o Ministério da Agricultura e Pescas e o Ministério da Indústria e Tecnologia é feita nos termos dos artigos seguintes.
+Artigo 1.º A repartição de tutelas administrativas das indústrias alimentares, referida no n.º 2 do artigo 32.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, entre o Ministério da Agricultura e Pescas e o Ministério da Indústria e Tecnologia é feita nos termos dos artigos seguintes.
 
-###### Art. 2.º Será da exclusiva responsabilidade do Ministério da Agricultura e Pescas a tutela administrativa das indústrias alimentares de primeira transformação indissociáveis das actividades nacionais da agricultura e das pescas, dela dependendo exclusivamente em abastecimento de matéria-prima, ou quando esse abastecimento, ainda que supletiva e ocasionalmente, recorra à importação, seja condicionante fundamental da política agrícola e das pescas.
+Art. 2.º Será da exclusiva responsabilidade do Ministério da Agricultura e Pescas a tutela administrativa das indústrias alimentares de primeira transformação indissociáveis das actividades nacionais da agricultura e das pescas, dela dependendo exclusivamente em abastecimento de matéria-prima, ou quando esse abastecimento, ainda que supletiva e ocasionalmente, recorra à importação, seja condicionante fundamental da política agrícola e das pescas.
 
-###### Art. 3.º Será da exclusiva responsabilidade do Ministério da Indústria e Tecnologia a tutela administrativa das indústrias alimentares de primeira transformação de matérias-primas agrícolas exclusivamente importadas e das indústrias alimentares de segunda transformação.
+Art. 3.º Será da exclusiva responsabilidade do Ministério da Indústria e Tecnologia a tutela administrativa das indústrias alimentares de primeira transformação de matérias-primas agrícolas exclusivamente importadas e das indústrias alimentares de segunda transformação.
 
-###### Art. 4.º As indústrias alimentares de primeira transformação de matérias-primas não exclusivamente nacionais serão tuteladas administrativamente pelo Ministério da Indústria e Tecnologia, que, no entanto, não poderá, sem acordo do Ministério da Agricultura e Pescas expresso em despacho conjunto dos respectivos Secretários de Estado, afectar qualitativa, quantitativa ou sazonalmente a produção agrícola nacional.
+Art. 4.º As indústrias alimentares de primeira transformação de matérias-primas não exclusivamente nacionais serão tuteladas administrativamente pelo Ministério da Indústria e Tecnologia, que, no entanto, não poderá, sem acordo do Ministério da Agricultura e Pescas expresso em despacho conjunto dos respectivos Secretários de Estado, afectar qualitativa, quantitativa ou sazonalmente a produção agrícola nacional.
 
-###### Art. 5.º A afectação das indústrias alimentares aos critérios dos artigos 2.º, 3.º e 4.º deste decreto regulamentar é a que consta do quadro seguinte:
+Art. 5.º A afectação das indústrias alimentares aos critérios dos artigos 2.º, 3.º e 4.º deste decreto regulamentar é a que consta do quadro seguinte:
 
 Actividade industrial (classificação CAE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22000/24942495.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22000/24942495.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22000/24942495.pdf)
 
 Carlos Alberto da Mota Pinto - Apolinário José Barbosa da Cruz Vaz Portugal - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 31 de Agosto de 1979.**
+Promulgado em 31 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

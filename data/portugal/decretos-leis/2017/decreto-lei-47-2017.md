@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2017/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2017-106982550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81d12fe4839e0953d78641cf7cdad8bec819aafcbf3b870e0ee03b6dc15ac023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9ad5b170f6daf40d9a5aec72b34b442620e371773ffc8ad7ffe82e83f8b0a14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Qualidade do AR
+- Poluição
 - Poluição Atmosférica
-- Saúde Pública
 - Proteção do Ambiente
 - Qualidade de VIDA
-- Poluição
+- Qualidade do AR
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32003R2152
@@ -137,16 +137,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/715/2008/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/715/2008/07/31/p/dre
+- type: cites
+  target: pt:dre:304328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66863795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 56
+  article_count: 51
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:44Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +309,9 @@ hh) ...
 
 ii) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +329,9 @@ d) Apoiar o trabalho realizado pela rede europeia de laboratórios nacionais de 
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +345,9 @@ d) Apoiar o trabalho realizado pela rede europeia de laboratórios nacionais de 
 
 6 - Para efeitos do disposto no número anterior, quando estão em causa instalações abrangidas pelo regime jurídico relativo à prevenção e controlo integrados da poluição, aprovado pelo [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, é obrigatória a adoção das melhores técnicas disponíveis (MTD) definidas no n.º 1 do artigo 31.º do referido decreto-lei.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +357,9 @@ d) Apoiar o trabalho realizado pela rede europeia de laboratórios nacionais de 
 
 4 - A elaboração dos planos de qualidade do ar tem em conta as medidas constantes do Plano de Transição Nacional (PTN), previsto no [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, do Programa de Tetos de Emissões Nacionais (PTEN), previsto no [Decreto-Lei n.º 193/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2003-656123), de 22 de agosto, e dos Planos de Ação de Ruído Ambiente, previstos no [Decreto-Lei n.º 146/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2006-539393), de 31 de julho.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -303,7 +371,9 @@ d) Apoiar o trabalho realizado pela rede europeia de laboratórios nacionais de 
 
 5 - Todos os dados transmitidos ao abrigo do disposto no presente artigo devem considerar-se definitivos, exceto quando expressamente assinalados como provisórios.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Mantêm-se em vigor, até à adoção das portarias a aprovar ao abrigo do artigo 26.º do presente decreto-lei, as seguintes portarias, aprovadas ao abrigo do artigo 9.º-A do [Decreto-Lei n.º 276/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1999-352526), de 23 de julho, alterado pelo [Decreto-Lei n.º 279/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-2007-637229), de 6 de agosto:
 
@@ -337,15 +407,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Fernando Manuel Ferreira Araújo - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 31 de março de 2017.**
+Promulgado em 31 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de abril de 2017.**
+Referendado em 7 de abril de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -461,7 +531,7 @@ Os relatórios de ensaio pormenorizados e todos os resultados dos testes devem s
 
 A - [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - [...]
 
@@ -489,7 +559,7 @@ A - [...]
 
 Os seguintes objetivos de qualidade dos dados são fornecidos como orientação para a garantia da qualidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 Os requisitos para o número mínimo de dados a recolher e para o período mínimo de amostragem não incluem as perdas de informação decorrentes da calibração regular ou da manutenção normal dos instrumentos. É necessário um período de amostragem de 24 horas para a medição do benzo(a)pireno e de outros hidrocarbonetos aromáticos policíclicos. As amostras recolhidas durante o período máximo de um mês podem ser, com o cuidado devido, combinadas e analisadas como amostra composta, desde que o método garanta que as amostras se mantêm estáveis durante esse período. Caso seja difícil separar analiticamente os três congéneres benzo(b)fluoranteno, benzo(j)fluoranteno e benzo(k)fluoranteno, estes podem ser tratados como uma soma. A amostragem deve ser equitativamente distribuída ao longo da semana e do ano.
 
@@ -1175,7 +1245,7 @@ Mercúrio.
 
 A - Objetivos de qualidade dos dados para a avaliação no ar ambiente dos poluentes dióxido de enxofre, dióxido de azoto, óxidos de azoto, monóxido de carbono, benzeno, partículas (PM(índice 10) e PM(índice 2,5)), chumbo e ozono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 A incerteza dos métodos de avaliação (expressa num intervalo de confiança de 95 %) é avaliada em conformidade com os princípios do Guia do CEN - Guide to the Expression of Uncertainty in Measurement (ENV 13005-1999), a metodologia da norma ISO 5725:1994 e as diretrizes fornecidas no relatório do CEN Air Quality - Approach to Uncertainty Estimation for Ambient Air Reference Measurement Methods (CR 14377:2002E). As percentagens para a incerteza constantes do quadro anterior são fornecidas para a média das medições efetuadas no período considerado para o valor-limite (ou valor-alvo, no caso do ozono), para um intervalo de confiança de 95 %. A incerteza associada às medições fixas deve ser considerada aplicável na região do valor-limite (ou valor-alvo, no caso do ozono) pertinente.
 
@@ -1229,27 +1299,27 @@ São aplicáveis os seguintes limiares de avaliação superiores e inferiores:
 
 1 - Dióxido de enxofre:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 2 - Dióxido de azoto e óxidos de azoto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 3 - Partículas em suspensão (PM(índice 10)/PM(índice 2,5)):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 4 - Chumbo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 5 - Benzeno:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 6 - Monóxido de carbono:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - Determinação da excedência dos limiares de avaliação superior e inferior
 
@@ -1353,7 +1423,7 @@ B - Substâncias
 
 A medição de PM(índice 2,5) deve contemplar, pelo menos, a concentração em massa total e as concentrações dos compostos relevantes que caracterizam a sua composição química. Deve incluir-se, pelo menos, a lista das espécies químicas abaixo indicada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 C - Localização
 
@@ -1371,7 +1441,7 @@ A - Número mínimo de pontos de amostragem para medições fixas destinadas a a
 
 1 - Fontes difusas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 2 - Fontes pontuais. - Para a avaliação da poluição na vizinhança de fontes pontuais, o número de pontos de amostragem para medições fixas deve ser calculado tendo em conta as densidades de emissões, os perfis de distribuição provável da poluição do ar ambiente e a exposição potencial da população.
 
@@ -1381,7 +1451,7 @@ Para este efeito, deve instalar-se um ponto de amostragem por milhão de habitan
 
 C - Número mínimo de pontos de amostragem para medições fixas destinadas a avaliar a observância dos níveis críticos de proteção da vegetação em zonas distintas de aglomerações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 Nas zonas insulares, o número de pontos de amostragem para medições fixas deve ser determinado atendendo aos perfis de distribuição prováveis da poluição do ar ambiente e à exposição potencial da vegetação.
 
@@ -1455,15 +1525,15 @@ A - Definições e critérios
 
 2 - Critérios. - Na recolha de dados, bem como no cálculo dos parâmetros estatísticos, devem utilizar-se os seguintes critérios de validação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - Valores-alvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 C - Objetivos de longo prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO IX — Critérios de classificação e localização dos pontos de amostragem para a avaliação das concentrações de ozono
 
@@ -1471,7 +1541,7 @@ No que respeita às medições fixas, deve ter-se em conta o seguinte:
 
 A - Localização em macroescala
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 Se adequado, a localização das estações de medição da poluição rural e da poluição rural de fundo deve coordenar-se com os requisitos de monitorização estabelecidos pelo [Regulamento (CE) n.º 1737/2006](https://data.europa.eu/eli/reg/2006/1737/oj?locale=pt) da Comissão, de 7 de novembro, que estabelece as regras de execução do [Regulamento (CE) n.º 2152/2003](https://data.europa.eu/eli/reg/2003/2152/oj?locale=pt) do Parlamento Europeu e do Conselho, relativo ao acompanhamento das florestas e das interações ambientais na Comunidade (JO, n.º L 334, de 30 de novembro de 2006, a p. 1).
 
@@ -1487,7 +1557,7 @@ Deve seguir-se o procedimento descrito na parte D do anexo iv do presente decret
 
 A - Número mínimo de pontos de amostragem para medições fixas contínuas destinadas a avaliar a observância dos valores-alvo, dos objetivos a longo prazo e dos limiares de informação e alerta, onde essas medições constituem a única fonte de informação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - Número mínimo de pontos de amostragem para medições fixas em zonas e aglomerações que cumpram os objetivos de longo prazo
 
@@ -1507,7 +1577,7 @@ B - Substâncias
 
 A medição de substâncias precursoras de ozono deve incluir, pelo menos, os óxidos de azoto (NO e NO(índice 2)), bem como os compostos orgânicos voláteis apropriados (COV). Indica-se seguidamente uma lista dos compostos orgânicos voláteis cuja medição se recomenda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 C - Localização
 
@@ -1519,11 +1589,11 @@ A - Critérios
 
 Sem prejuízo do previsto no anexo ii do presente decreto-lei, devem utilizar-se os seguintes critérios de validação para a agregação de dados e para o cálculo dos parâmetros estatísticos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - Valores-limite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO XIII — Limiar de informação para o ozono e limiares de alerta para o dióxido de enxofre, dióxido de azoto e ozono
 
@@ -1531,15 +1601,15 @@ A - Limiares de alerta para poluentes distintos do ozono
 
 A medir em três horas consecutivas, em localizações representativas da qualidade do ar ambiente numa área mínima de 100 km2 ou na totalidade de uma zona ou aglomeração, consoante a que for menor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 B - Limiares de informação e alerta para o ozono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO XIV — Níveis críticos para a proteção da vegetação para o dióxido de enxofre e para o dióxido de azoto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO XV — Objetivo nacional de redução da exposição, valor-alvo e valo-limite para PM(índice 2,5)
 
@@ -1553,21 +1623,21 @@ O IEM para o ano de 2015 corresponde à concentração média de três anos civi
 
 B - Objetivo nacional de redução de exposição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 Se, para o ano de referência, o IEM for igual ou inferior a 8,5 (mi)g/m3, o objetivo de redução de exposição será igual a zero. O objetivo de redução será também zero nos casos em que o IEM atingir o nível de 8,5 (mi)g/m3 em qualquer momento do período entre 2010 e 2020 e permanecer a esse nível ou abaixo do mesmo.
 
 C - Limite de concentração de exposição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 D - Valor-alvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 E - Valor-limite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO XVI — Informações a incluir nos planos locais, regionais e nacionais de qualidade do ar para a melhoria da qualidade do ar ambiente
 
@@ -1691,7 +1761,7 @@ Os limiares superior e inferior de avaliação para o arsénio, o cádmio, o ní
 
 B - Limiares superiores e inferiores de avaliação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 C - Determinação da ultrapassagem aos limiares superiores e inferiores de avaliação
 
@@ -1715,7 +1785,7 @@ E - Avaliação dos níveis de fundo no ar ambiente de arsénio, do cádmio, do 
 
 ## ANEXO XIX — Valores-alvo para o arsénio, cádmio, níquel e benzo(a)pireno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 ## ANEXO XX
 
@@ -1783,7 +1853,7 @@ Número mínimo de pontos de amostragem para medições fixas para avaliar o cum
 
 a) Fontes difusas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 b) Fontes pontuais
 
@@ -1799,7 +1869,7 @@ A - Objetivos de qualidade dos dados
 
 Os seguintes objetivos de qualidade dos dados são fornecidos como orientação para a garantia da qualidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09000/0222902260.pdf)
 
 Os requisitos para o número mínimo de dados a recolher e para o período mínimo de amostragem não incluem as perdas de informação decorrentes da calibração regular ou da manutenção normal dos instrumentos. É necessário um período de amostragem de 24 horas para a medição do benzo(a)pireno e de outros hidrocarbonetos aromáticos policíclicos. As amostras recolhidas durante o período máximo de um mês podem ser, com o cuidado devido, combinadas e analisadas como amostra composta, desde que o método garanta que as amostras se mantêm estáveis durante esse período. Caso seja difícil separar analiticamente os três congéneres benzo(b)fluoranteno, benzo(j)fluoranteno e benzo(k)fluoranteno, estes podem ser tratados como uma soma. A amostragem deve ser equitativamente distribuída ao longo da semana e do ano.
 

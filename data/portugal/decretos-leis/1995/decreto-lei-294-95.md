@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266a00/70407050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/1995/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1995-691046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 655ed0cdb91db71fee11f22f49ef1c028dab60951e34710d3383d4ac33bfc567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3874bdb3966c15489004a6b7ba95af37f59ebab73cfd01bec8ddd72b653dabe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Fundo de Investimento Imobiliário
 - Mercado de Valores
 - Sociedade Gestora de Fundos de Investimento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:263679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406527:por
+  label: "Alterados os arts. 7º, 14º, 18º, 19º, 26º, 27º, 31º e 35º pelo DEC LEI.323/97.1997.11.26.MF, DR.IS-A [274]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/323-1997-406527
+  date: '1997-11-26'
 - type: cites
   target: celex:31985L0611
   label: null
   source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: repealed_by
+  target: pt:dre:263679:por
+  label: "Revogado, com a redacção do Dec Lei 323/97 de 26-Nov, pelo DEC LEI.60/2002.2002.03.20.MF DR.IS-A [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2002-263679
+  date: '2002-03-20'
 article_structure:
   article_count: 43
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:40Z'
   warnings: []
   errors: []
 ---
@@ -668,15 +678,15 @@ As instituições de investimento colectivo abrangidas por esta secção devem d
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO A — I - Informações relativas ao fundo
 

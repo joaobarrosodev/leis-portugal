@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2013/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2013-259899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b66960446fee9d43183b8cc0880b07b44ae5cb0c5774b69c896e4710ce261260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b15a3b22b007fe2c6db7b83dfb2410a2b20b53a75a671df21f963acc030e95c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Admissão de Estrangeiros
 - ALTO Comissariado para a Imigração e Diálogo Intercultural
-- Protecção à Família
-- Residência de Estrangeiros
-- Instituto do Emprego e Formação Profissional
+- Camões - Instituto da Cooperação e da Língua
 - Cidadão Estrangeiro
 - Circulação de Pessoas
 - Diretor Nacional
 - Entrada de Estrangeiros
 - Expulsão de Estrangeiros
 - Fiscalização
+- Imigração
 - Imigrante
+- Instituto do Emprego e Formação Profissional
 - Ministério da Educação e Ciência
-- Camões - Instituto da Cooperação e da Língua
+- Protecção à Família
+- Residência de Estrangeiros
 - Serviço de Estrangeiros e Fronteiras
 - Taxa
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572382:por
+  label: "Aditado o art. 92.º-A, ao DR 84/2007, de 05-nov, na redacção do presente diploma, pelo DEC LEI.31/2014.27.02.2014.PCM,\
+    \ DR.IS [41] de 27.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2014-572382
+  date: '2014-02-27'
+- type: amended_by
+  target: pt:dre:70167924:por
+  label: Alterados os arts. 61.º, 63.º do DR 84/2007, de 05-nov, na redação e republicação do presente diploma, e republicado
+    em anexo, pelo(a) Decreto Regulamentar n.º 15-A/2015 - Diário da República n.º 171/2015, 1º Suplemento, Série I de 2015-09-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-a-2015-70167924
+  date: '2015-09-02'
+- type: amends
+  target: pt:numero:lei:23/2007
+  label: "Altera os arts. 5.º, 12.º, 13.º, 14.º, 16.º, 17.º, 20.º, 23.º, 32.º,35.º, 38.º, 39.º, 41.º, 44.º, 45.º, 49.º, 50.º,\
+    \ 51.º, 53.º, 54.º, 55.º, 56.º, 58.º, 60.º, 61.º, 62.º, 63.º, 65.º, 66.º, 67.º, 68.º,69.º, 73.º, 74.º, 76.º, 78.º, 79.º,\
+    \ 81.º, 82.º e 83.º bem como a epígrafe do capítulo IV, adita o art. 32º-A, revoga os nºs 5 e 6 do art. 5.º, o n.º 2 do\
+    \ art. 16.º, o n.º 3 do art. 38.º, o art. 47.º, o art. 52.ºe a al. c) do n.º 1 do art. 79.º do DR 84/2007, de 05-Nov,\
+    \ DR.IS [212] substituí as referências feitas a «Ministério da Ciência,Tecnologia e Ensino Superior», «IEFP», «diretor-geral\
+    \ do SEF», «Lei n.º 23/2007, de 4 de julho», «sistema deinformação de vistos», «portaria conjunta», «membros do Governo\
+    \ responsáveis pelas áreas da administração interna, do trabalho e da solidariedade social», «Ministério do Trabalho e\
+    \ da Solidariedade Social», «Ministério da Educação», «Instituto Português de Apoioao Desenvolvimento, I. P.» «ACIDI,\
+    \ I.P.», respetivamente, por «Ministério da Educação e Ciência», «IEFP, I.P.», «diretor nacional do SEF»,«Lei n.º 23/2007,\
+    \ de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto», «sistema nacional de vistos», «portaria», «membros\
+    \ do Governo responsáveis pelas áreas da administração interna, do empregoe da solidariedade social», «Ministério da Economiae\
+    \ do Emprego», «Ministério da Educação e Ciência»,«Camões - Instituto da Cooperação e da Língua, I. P.»,«Alto Comissariado\
+    \ para a Imigração e Diálogo Intercultural,I.P», e procede à respetiva republicação\0\0"
+  source: null
+  date: '2007-11-05'
 - type: cites
   target: celex:32001L0040
   label: null
@@ -109,15 +138,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
 article_structure:
-  article_count: 141
+  article_count: 102
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:29Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +203,9 @@ d) Os três últimos recibos de quitação dos valores auferidos pela prestaçã
 
 6 - [Revogado].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -202,7 +233,9 @@ g) Cópia do título de transporte de regresso, salvo quando seja solicitado vis
 
 6 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -236,19 +269,25 @@ m) Registar o pedido no sistema nacional de vistos, previsto no artigo 39.º.
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O prazo de 7 ou de 20 dias para emissão dos pareceres previstos no n.º 6 do artigo 53.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é contado a partir do dia da receção do pedido de parecer apresentado por via eletrónica.
 
 2 - [...].
 
-###### Artigo 16.º — Visto de escala
+Artigo 16.º
+
+Visto de escala
 
 1 - O pedido de visto de escala deve ser acompanhado de cópia do título de transporte para o país de destino final, bem como de prova de que o passageiro se encontra habilitado com o correspondente visto de entrada nesse país, sempre que exigível.
 
 2 - [Revogado].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -256,7 +295,9 @@ m) Registar o pedido no sistema nacional de vistos, previsto no artigo 39.º.
 
 3 - Para efeitos do n.º 3 do artigo 51.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o visto de curta duração para múltiplas entradas é emitido com um prazo de validade compreendido entre seis meses e cinco anos.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -284,7 +325,9 @@ d) Declaração, a emitir pelo Instituto do Emprego e da Formação Profissional
 
 9 - A Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas regista o visto no sistema nacional de vistos, previsto no artigo 39.º, e informa o IEFP, I.P., sobre a sua concessão no prazo máximo de cinco dias.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -302,7 +345,9 @@ c) Comprovativo de alojamento.
 
 5 - [Anterior n.º 2].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -314,7 +359,9 @@ c) Comprovativo de alojamento.
 
 5 - O regime previsto nos números anteriores é aplicável, quando tal se justifique, aos cidadãos estrangeiros objeto de destacamento para exercício de atividade altamente qualificada, com duração previsível superior a um ano, comprovado mediante documento idóneo da empresa que o deslocou para território nacional.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Para efeitos de emissão do parecer obrigatório do SEF previsto no n.º 1 do artigo 53.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o responsável pela embaixada, posto consular de carreira ou secção consular remete o processo devidamente instruído, acompanhado do respetivo parecer sobre a sua admissibilidade, através do Ministério dos Negócios Estrangeiros, por via eletrónica.
 
@@ -326,7 +373,9 @@ c) Comprovativo de alojamento.
 
 5 - A aplicação do disposto no n.º 1 do artigo 53.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é assegurada através do sistema nacional de vistos.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os postos consulares enviam aos serviços competentes do Ministério dos Negócios Estrangeiros a relação mensal das vinhetas inutilizadas.
 
@@ -340,17 +389,23 @@ c) Comprovativo de alojamento.
 
 6 - Os processos de vistos concedidos sem consulta prévia nos termos da mesma norma devem ser enviados ao SEF, por via eletrónica, mencionando expressamente o domicílio indicado em território nacional.
 
-###### Artigo 39.º — Sistema nacional de vistos
+Artigo 39.º
+
+Sistema nacional de vistos
 
 Nos termos das disposições regulamentares da União Europeia e da legislação interna, o SEF organiza o sistema nacional de vistos no quadro do sistema europeu de informações de vistos.
 
-###### Artigo 41.º — Vistos de curta duração
+Artigo 41.º
+
+Vistos de curta duração
 
 1 - A concessão de vistos de curta duração nos termos do n.º 1 do artigo 67.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, fica sujeita à verificação, se possível atestada por documento comprovativo, das razões imprevistas que impediram o requerente de se apresentar habilitado com o necessário visto.
 
 2 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -360,7 +415,9 @@ Nos termos das disposições regulamentares da União Europeia e da legislação
 
 4 - [Anterior n.º 3].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -378,7 +435,9 @@ c) Motivos pessoais sérios.
 
 5 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -406,13 +465,17 @@ c) Comprovativo de alojamento.
 
 10 - Para efeitos da alínea e) do n.º 1 e do n.º 2 do artigo 72.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, a validade do visto de estada temporária, incluindo a respetiva prorrogação de permanência, não pode exceder um ano.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O pedido de prorrogação de permanência apresentado por titular de visto de residência é acompanhado de comprovativo do pedido de concessão de autorização de residência ou de cartão azul UE.
 
 2 - [...].
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - O pedido de concessão e de renovação de autorização de residência ou de cartão azul UE é formulado em impresso próprio, sempre que se justificar, de modelo aprovado por despacho do diretor nacional do SEF e assinado pelo requerente, sem prejuízo do disposto no n.º 3 do artigo 56.º, ou quando se trate de menor ou incapaz pelo seu representante legal, devendo ser apresentado presencialmente junto da direção ou delegação regional do SEF da área de residência do interessado, acompanhado, se necessário, de duas fotografias do requerente iguais, tipo passe, a cores e de fundo liso, atualizadas e com boas condições de identificação.
 
@@ -426,7 +489,9 @@ c) Comprovativo de alojamento.
 
 6 - O fluxo de informação decorrente dos pedidos de concessão e renovação de autorização de residência e de cartão azul UE é processado nos termos do n.º 2 do artigo 212.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
-###### Artigo 53.º — Pedido de concessão de autorização de residência temporária ou de cartão azul UE
+Artigo 53.º
+
+Pedido de concessão de autorização de residência temporária ou de cartão azul UE
 
 1 - Para além dos documentos específicos exigíveis em função da finalidade da residência, o pedido de concessão de autorização de residência ou de cartão azul UE apresentado por titular do adequado visto é acompanhado dos seguintes documentos:
 
@@ -452,7 +517,9 @@ f) [...].
 
 6 - A recusa da concessão de autorização de residência temporária ou de cartão azul UE com fundamento em razões de saúde pública obedece aos procedimentos e regras fixados nos n.os 3, 4 e 5 do artigo 77.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -476,7 +543,9 @@ b) [Anterior alínea b) do n.º 3].
 
 6 - [Anterior n.º 5].
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...].
 
@@ -492,7 +561,9 @@ b) [Anterior alínea b) do n.º 2].
 
 5 - O pedido de concessão de autorização de residência para trabalho independente formulado por titular de autorização de residência para exercício de atividade profissional subordinada nos termos do n.º 5 do artigo 88.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, obedece ao disposto no presente artigo.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O pedido de concessão de autorização de residência temporária ou de cartão azul UE previstos, respetivamente, nos artigos 90.º e 121.º-B da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, são acompanhados dos documentos que atestem o cumprimento dos requisitos previstos nos n.os 1 daqueles artigos.
 
@@ -502,7 +573,9 @@ b) [Anterior alínea b) do n.º 2].
 
 4 - O pedido de concessão do cartão azul UE pode ser apresentado pelo empregador, o que não dispensa a presença do requerente nos termos do disposto no artigo 51.º
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]:
 
@@ -516,7 +589,7 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 60.º
+Artigo 60.º
 
 Pedido de concessão de autorização de residência ou de cartão azul UE por titulares de estatuto de residente de longa duração ou de cartão azul UE concedidos por um Estado membro da União Europeia.
 
@@ -558,7 +631,9 @@ f) Certificado de registo criminal emitido pelo Estado membro que concedeu o tí
 
 5 - A concessão de cartão azul UE ou de autorização de residência no âmbito do reagrupamento familiar nos termos dos números anteriores, bem como as decisões de renovação, indeferimento e cancelamento são comunicadas pelo SEF, preferencialmente por via eletrónica, às autoridades do Estado membro da União Europeia que concederam o estatuto de residente de longa duração ou o cartão azul UE.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...].
 
@@ -630,13 +705,17 @@ b) Prova de que o ascendente do menor exerce efetivamente o poder paternal, nome
 
 24 - Para efeitos da alínea d) do n.º 1, só é concedida autorização de residência com dispensa de visto aos cidadãos estrangeiros que não tenham sido condenados em pena ou penas que, isolada ou cumulativamente, ultrapassem um ano de prisão, ainda que, no caso de condenação por crime doloso previsto no presente diploma ou com este conexo, ou por crime de terrorismo, por criminalidade violenta ou por criminalidade especialmente violenta ou altamente organizada, a respetiva execução tenha sido suspensa.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Para efeitos da alínea b) do n.º 1 do artigo 123.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o SEF pode solicitar, quando se justifique, a demonstração de um período superior a um ano de inserção no mercado laboral.
 
-###### Artigo 63.º — Pedido de renovação de autorização de residência temporária ou de cartão azul UE
+Artigo 63.º
+
+Pedido de renovação de autorização de residência temporária ou de cartão azul UE
 
 1 - [...].
 
@@ -688,7 +767,9 @@ e) Quando aplicável, documento comprovativo da frequência de estágio profissi
 
 13 - Sem prejuízo do disposto nos artigos 78.º ou 121.º-E da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o direito de residência não caduca antes de decorridos seis meses sobre o termo da validade do título a renovar.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...].
 
@@ -698,7 +779,9 @@ e) Quando aplicável, documento comprovativo da frequência de estágio profissi
 
 4 - À renovação do título de residência permanente por alteração dos elementos de identificação aplica-se o disposto nos n.os 10 e 11 do artigo 63.º
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...].
 
@@ -706,7 +789,9 @@ e) Quando aplicável, documento comprovativo da frequência de estágio profissi
 
 3 - O disposto nos números anteriores é aplicável ao titular de cartão azul UE que pretenda beneficiar do direito ao reagrupamento familiar, nos termos do n.º 2 do artigo 121.º-A da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...].
 
@@ -730,7 +815,9 @@ g) Prova da união de facto, conforme prevista no artigo 2.º-A da Lei n.º 7/20
 
 4 - [...].
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - O deferimento do pedido formulado nos termos do n.º 1 do artigo 98.º e do n.º 2 do artigo 121.º-A da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é comunicado ao membro do Governo responsável pela área dos negócios estrangeiros, por via eletrónica, acompanhado de cópia digitalizada das peças processuais relevantes, devendo ser facultado visto de residência aos requerentes, salvo no caso de verificação de factos que se fossem do conhecimento da autoridade competente teriam obstado ao reconhecimento do direito ao reagrupamento familiar.
 
@@ -738,11 +825,15 @@ g) Prova da união de facto, conforme prevista no artigo 2.º-A da Lei n.º 7/20
 
 3 - [...].
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 7 do artigo 108.º e no n.º 2 do artigo 121.º-A da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o cancelamento dos títulos de residência previsto naqueles artigos opera independentemente de processo de outra natureza, desde que no respetivo procedimento seja produzida prova de que o casamento, a união de facto ou a adoção teve por fim único permitir ao beneficiário do reagrupamento familiar a entrada e a residência no País.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pode ser solicitada segunda via do título de residência em caso de mau estado de conservação, perda, destruição, furto ou roubo, salvo se houver lugar à sua renovação, nos termos dos artigos 78.º ou 121.º-E da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
@@ -752,7 +843,9 @@ Sem prejuízo do disposto no n.º 7 do artigo 108.º e no n.º 2 do artigo 121.�
 
 4 - [...].
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - O pedido de concessão do estatuto de residente de longa duração previsto no n.º 1 do artigo 125.º ou no n.º 1 do artigo 121.º-J da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é formulado em impresso próprio, de modelo aprovado por despacho do diretor nacional do SEF e assinado pelo requerente ou, quando se trate de menor ou de incapaz, pelo seu representante legal, devendo ser apresentado presencialmente junto da direção ou delegação regional do SEF da área de residência do interessado e instruído com os seguintes documentos:
 
@@ -774,17 +867,23 @@ g) Quando aplicável, certificado de habilitações emitido por estabelecimento 
 
 3 - Aos cidadãos estrangeiros a quem seja concedida o estatuto de residente de longa duração é emitido um título de residência, nos termos dos artigos 121.º-J ou 130.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, válido por cinco anos.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - O disposto no número anterior aplica-se ao cancelamento do estatuto de residente de longa duração de ex-titulares de cartão azul UE, com as adaptações constantes da parte final do n.º 5 do artigo 121.º-I da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 A concessão do estatuto de residente de longa duração a cidadão titular de autorização de residência ou de cartão azul UE emitidos, respetivamente, ao abrigo dos artigos 116.º e 118.º ou 121.º-I da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, é comunicada pelo SEF, preferencialmente por via eletrónica, às autoridades do Estado membro da União Europeia que concedeu o estatuto de residente de longa duração ou o cartão azul UE.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Quando procedam à identificação de cidadão estrangeiro nos termos do artigo 250.º do Código do Processo Penal, as autoridades policiais referidas no n.º 7 do artigo 146.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, têm de consultar o SEF a fim de:
 
@@ -798,7 +897,9 @@ c) [Revogada].
 
 3 - Quando procedam à identificação do cidadão estrangeiro nos termos dos n.os 1 e 7 do artigo 146.º da Lei nº 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, ou sempre que o cidadão estrangeiro seja detido para identificação, nos termos do n.º 1 do artigo 146.º da mesma lei, tal facto é sempre comunicado ao SEF para efeitos de observância da alínea b) do n.º 1 e do n.º 2 do presente artigo.
 
-###### Artigo 81.º — Decisão de afastamento de residente de longa duração ou de titular de cartão azul UE num Estado membro da União Europeia
+Artigo 81.º
+
+Decisão de afastamento de residente de longa duração ou de titular de cartão azul UE num Estado membro da União Europeia
 
 1 - Antes de ser proferida decisão de afastamento coercivo de residente de longa duração ou de titular de cartão azul UE concedidos por um Estado membro da União Europeia, a entidade competente para determinar o afastamento assegura, junto da autoridade competente do respetivo Estado membro, a recolha da informação pertinente para análise do caso, nos termos dos n.os 1 e 2 do artigo 136.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, bem como a comunicação da instauração do processo de afastamento e da intenção de o concretizar para o território daquele Estado membro.
 
@@ -806,7 +907,9 @@ c) [Revogada].
 
 3 - A recolha de informação e as comunicações previstas nos números anteriores são efetuadas, preferencialmente por via eletrónica, junto das autoridades do Estado membro da União Europeia que concedeu o estatuto de residente de longa duração ou o cartão azul UE, através de ponto de contacto designado pelo diretor nacional do SEF.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - Notificada a decisão de afastamento e após o decurso do prazo referido no n.º 1 do artigo 160.º da Lei n.º 23/2007, de 4 de julho, republicada em anexo à Lei n.º 29/2012, de 9 de agosto, o SEF procede à sua execução, conduzindo o cidadão à fronteira.
 
@@ -818,7 +921,9 @@ c) [Revogada].
 
 5 - [...].
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - [...].
 
@@ -864,15 +969,15 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 10 de janeiro de 2013. - Pedro Passos Coelho - José de Almeida Cesário - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 7 de março de 2013.**
+Promulgado em 7 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de março de 2013.**
+Referendado em 8 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

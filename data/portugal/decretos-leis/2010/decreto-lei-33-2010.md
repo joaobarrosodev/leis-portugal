@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07200/0123401251.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2010/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2010-613468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aa5c70ffec0e1ab1b85b1d18e82f4f8e5e5b03e2d1e408a6b804499b4a11d22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b3fe6af7092ee882d3592198ae0ebae5d10513990fb33e88e55add3b927779b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração de Aeroportos
 - Aeroporto
 - Aeroporto de Santa Maria
+- ANA
+- Aviação Civil
+- Beja
 - Contrato de Concessão
 - Definição de Competências
 - Expropriação
 - Faro
-- Lisboa
 - Horta
 - ILHA das Flores
 - Indemnização
 - Informação
-- Naer-Novo Aeroporto
-- Proteção do Ambiente
-- Beja
-- Ponta Delgada
-- Serviço Público
+- Lisboa
 - Madeira.região Autónoma
-- Administração de Aeroportos
-- ANA
-- Aviação Civil
+- Naer-Novo Aeroporto
+- Ponta Delgada
+- Porto
+- Proteção do Ambiente
 - Responsabilidade Civil
 - Segurança Aérea
-- Açores
+- Serviço Público
 - Tráfego Aéreo
-- Porto
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:913048491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344255:por
+  label: "Alterado o art. 4º [suspensão da vigência] do presente diploma, pela LEI.29/2010.02.09.2010.AR, DR.IS [171] de 02.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2010-344255
+  date: '2010-09-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/2009/09/04/p/dre
   label: null
@@ -123,16 +129,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636707:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
   article_count: 4
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:51Z'
   warnings: []
   errors: []
 ---
@@ -203,21 +242,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 8 de Abril de 2010.**
+Promulgado em 8 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Abril de 2010.**
+Referendado em 12 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Bases da concessão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nas presentes bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados têm o significado que a seguir lhes é apontado:
 
@@ -285,13 +326,17 @@ hh) «Utilizadores» - os operadores aéreos e agentes de assistência em escala
 
 2 - Os termos definidos no número anterior no singular podem ser utilizados no plural e vice-versa, com a correspondente alteração do respectivo significado, salvo se do contexto resultar claramente o inverso.
 
-###### Base II — Lei aplicável
+Base II
+
+Lei aplicável
 
 1 - O Contrato de Concessão e respectivos contratos a ele anexos ficam sujeitos à lei portuguesa e aos princípios de direito administrativo.
 
 2 - O Contrato de Concessão e respectivos documentos a ele anexos ficam sujeitos à língua portuguesa.
 
-###### Base III — Interpretação e integração
+Base III
+
+Interpretação e integração
 
 1 - O Contrato de Concessão rege-se pelo seu clausulado e pelos respectivos anexos.
 
@@ -299,7 +344,9 @@ hh) «Utilizadores» - os operadores aéreos e agentes de assistência em escala
 
 ### CAPÍTULO II — Objecto, prazo e natureza da Concessão
 
-###### Base IV — Objecto
+Base IV
+
+Objecto
 
 1 - A Concessão tem por objecto a exploração do serviço público aeroportuário de apoio à aviação civil dos Aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores.
 
@@ -309,7 +356,9 @@ hh) «Utilizadores» - os operadores aéreos e agentes de assistência em escala
 
 4 - O objecto da Concessão compreende ainda as Actividades Comerciais que possam ser desenvolvidas nos Aeroportos ou noutras áreas afectas à Concessão.
 
-###### Base V — Direito de opção
+Base V
+
+Direito de opção
 
 1 - A Concessionária tem o direito de incluir na Concessão qualquer Aeroporto ou outro aeródromo existente ou futuro:
 
@@ -327,7 +376,9 @@ b) Que se situe nas ilhas de São Miguel, de Santa Maria, do Faial e das Flores.
 
 6 - A criação de um novo Aeroporto cuja inclusão na Concessão tenha sido rejeitada pela Concessionária não atribui qualquer direito à reposição do equilíbrio financeiro da Concessão.
 
-###### Base VI — Serviço público
+Base VI
+
+Serviço público
 
 1 - A Concessionária deve desempenhar as actividades concessionadas de forma regular, contínua e eficiente, adoptando, para o efeito, os RTM, os Parâmetros Sectoriais de Serviço Público, os padrões de qualidade e de segurança exigíveis por lei ou pelos regulamentos aplicáveis, a todo o momento e nos termos do Contrato de Concessão, para cada Aeroporto.
 
@@ -341,7 +392,9 @@ a) Às pessoas ou às entidades que não preencham as condições legais e regul
 
 b) Aos Utilizadores e aos Utentes adicionais em caso de incapacidade das Infra-Estruturas Aeroportuárias disponíveis para suportarem a prestação de serviços.
 
-###### Base VII — Direitos Aeroportuários
+Base VII
+
+Direitos Aeroportuários
 
 1 - A Concessionária pode atribuir Direitos Aeroportuários às Entidades Terceiras que pretendam desenvolver as suas actividades nas infra-estruturas, nas instalações e nos edifícios abrangidos pela Concessão, através da celebração de contratos ou da atribuição de autorizações ou de licenças.
 
@@ -349,7 +402,9 @@ b) Aos Utilizadores e aos Utentes adicionais em caso de incapacidade das Infra-E
 
 3 - A atribuição de Direitos Aeroportuários é da competência da Autoridade Reguladora, sempre que a lei o preveja.
 
-###### Base VIII — Prazo da Concessão
+Base VIII
+
+Prazo da Concessão
 
 1 - O prazo da Concessão é de 40 anos a contar da data de assinatura do Contrato de Concessão.
 
@@ -357,7 +412,9 @@ b) Aos Utilizadores e aos Utentes adicionais em caso de incapacidade das Infra-E
 
 ### CAPÍTULO III — Sociedade Concessionária
 
-###### Base IX — Objecto social, sede e forma
+Base IX
+
+Objecto social, sede e forma
 
 1 - A Concessionária tem como objecto social o exercício das actividades que, nos termos do Contrato de Concessão, se consideram integradas na Concessão, e as referidas nos respectivos Estatutos.
 
@@ -365,17 +422,23 @@ b) Aos Utilizadores e aos Utentes adicionais em caso de incapacidade das Infra-E
 
 3 - A Concessionária tem a denominação de ANA - Aeroportos de Portugal, S. A., e deve adoptar a forma de sociedade comercial anónima regulada pela lei portuguesa, durante toda a vigência da Concessão.
 
-###### Base X — Regime jurídico
+Base X
+
+Regime jurídico
 
 A Concessionária rege-se pelas normas especiais aplicáveis, pelo Código das Sociedades Comerciais, pelos seus Estatutos e pela demais legislação aplicável.
 
-###### Base XI — Capital social
+Base XI
+
+Capital social
 
 O capital social da Concessionária encontra-se integralmente subscrito e realizado, nos termos dos respectivos Estatutos, e é representado obrigatoriamente por acções nominativas escriturais.
 
 ### CAPÍTULO IV — Bens da Concessão
 
-###### Base XII — Estabelecimento da Concessão
+Base XII
+
+Estabelecimento da Concessão
 
 1 - Durante a vigência da Concessão, a Concessionária é titular do direito de propriedade dos bens afectos à Concessão que não integrem o domínio público ou que não sejam propriedade privada de outras entidades públicas ou privadas.
 
@@ -411,7 +474,9 @@ c) Os bens intangíveis previstos na base xv.
 
 14 - O prazo de 30 dias, referido nos n.os 6, 8, 9 e 11, é contado a partir da data da notificação ao Concedente, por parte da Concessionária.
 
-###### Base XIII — Regime dos bens imóveis da Concessão
+Base XIII
+
+Regime dos bens imóveis da Concessão
 
 1 - Os bens imóveis afectos à Concessão são os identificados no Contrato de Concessão.
 
@@ -433,7 +498,9 @@ c) Ónus ou encargos que recaem sobre o bem.
 
 7 - A lista referida no número anterior deve ser enviada anualmente ao Concedente.
 
-###### Base XIV — Regime dos bens móveis da Concessão
+Base XIV
+
+Regime dos bens móveis da Concessão
 
 1 - Os bens móveis afectos à Concessão são os identificados no Contrato de Concessão.
 
@@ -445,11 +512,15 @@ c) Ónus ou encargos que recaem sobre o bem.
 
 5 - A Concessionária fica obrigada a manter, por sua conta e risco, em permanente estado de funcionamento, de conservação e de segurança, até ao termo da Concessão, todos os bens móveis afectos à Concessão, obrigando-se a substitui-los sempre que, por desgaste, por avaria ou por obsolescência, se mostrem inadequados ou desnecessários aos fins a que se destinam.
 
-###### Base XV — Regime dos bens intangíveis da Concessão
+Base XV
+
+Regime dos bens intangíveis da Concessão
 
 Consideram-se afectos à Concessão, e da propriedade da Concessionária, os direitos de propriedade intelectual e industrial relativos a projectos, a planos e a plantas relativos a bens e a equipamentos afectos à Concessão, assim como logótipos, marcas, patentes, insígnias e nomes de estabelecimentos que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária seja pelos terceiros que para o efeito esta subcontrate, e, ainda, software relacionado com a actividade da Concessionária.
 
-###### Base XVI — Manutenção dos bens que integram a Concessão
+Base XVI
+
+Manutenção dos bens que integram a Concessão
 
 1 - É obrigação da Concessionária a realização de todas as obras de reparação e de conservação decorrentes da normal utilização dos bens afectos à Concessão, devendo assegurar a permanência destes bens em boas condições de exploração.
 
@@ -457,13 +528,17 @@ Consideram-se afectos à Concessão, e da propriedade da Concessionária, os dir
 
 ### CAPÍTULO V — Avaliação de desempenho da Concessionária
 
-###### Base XVII — Orçamento e Plano de Médio Prazo
+Base XVII
+
+Orçamento e Plano de Médio Prazo
 
 1 - A Concessionária obriga-se a elaborar um Orçamento de Exploração Anual e um Plano de Médio Prazo para períodos quinquenais, que devem ser revistos e enviados ao Concedente anualmente.
 
 2 - Em cada Orçamento de Exploração Anual e Plano de Médio Prazo deve constar, discriminada para cada exercício anual e em relação a cada um dos Aeroportos, a informação correspondente à prestada pela Concessionária à Autoridade Reguladora.
 
-###### Base XVIII — Disponibilidade permanente das infra-estruturas
+Base XVIII
+
+Disponibilidade permanente das infra-estruturas
 
 1 - A Concessionária garante as condições de capacidade, de disponibilidade, de fiabilidade, de operacionalidade e de segurança das Infra-Estruturas Aeroportuárias ao longo de todo o período de vigência da Concessão, bem como os padrões de qualidade do serviço constantes dos RTM, obrigando-se a tomar as medidas em cada momento adequadas para esse efeito.
 
@@ -475,7 +550,9 @@ Consideram-se afectos à Concessão, e da propriedade da Concessionária, os dir
 
 5 - A Concessionária tem o direito de fixar as suas contrapartidas pela prestação das actividades concessionadas, nos termos da Regulação Económica da Concessão.
 
-###### Base XIX — Critérios para a reconstrução ou reforço das infra-estruturas
+Base XIX
+
+Critérios para a reconstrução ou reforço das infra-estruturas
 
 1 - A Concessionária promove e financia a reconstrução ou o reforço das Infra-Estruturas Aeroportuárias existentes, de modo a garantir, a todo o momento, os níveis de disponibilidade e de qualidade do serviço previstos nos RTM, sempre que:
 
@@ -487,7 +564,9 @@ c) Devam ser modificadas de modo a dar cumprimento à legislação ou aos regula
 
 2 - A Concessionária deve informar o Concedente de todas as actividades destinadas a dar cumprimento ao disposto no número anterior, de acordo com as regras previstas no Contrato de Concessão e com as penalidades aí previstas para o caso de incumprimento.
 
-###### Base XX — Monitorização e avaliação do desempenho
+Base XX
+
+Monitorização e avaliação do desempenho
 
 1 - A Concessionária deve definir e implementar sistemas que permitam aferir, em cada momento:
 
@@ -517,7 +596,9 @@ b) A capacidade, a disponibilidade e a qualidade do serviço das instalações, 
 
 12 - A Concessionária pratica todos os actos necessários à manutenção dos pressupostos que conduzam às certificações existentes nas áreas da qualidade, do ambiente, da saúde e da segurança no trabalho e responsabilidade social, assim como corrige as eventuais não conformidades detectadas no âmbito destas certificações.
 
-###### Base XXI — Publicidade e informação
+Base XXI
+
+Publicidade e informação
 
 1 - A Concessionária deve adoptar um sistema eficiente de tratamento e de consulta de elementos informativos relativos à exploração dos Aeroportos, de modo a poder facultá-los com prontidão ao Concedente, à Autoridade Reguladora e a quaisquer outras entidades com legitimidade para os solicitar.
 
@@ -533,7 +614,9 @@ b) A capacidade, a disponibilidade e a qualidade do serviço das instalações, 
 
 7 - A Concessionária obriga-se, ainda, sem necessidade de qualquer solicitação, a fornecer ao Concedente a informação correspondente à que presta à Autoridade Reguladora nos termos definidos no Contrato de Concessão.
 
-###### Base XXII — Sistemas de informação
+Base XXII
+
+Sistemas de informação
 
 1 - A Concessionária obriga-se a estabelecer um sistema de informação de avaliação e de monitorização de desempenho de forma a gerar, a manter actualizada e sempre disponível toda a informação necessária à avaliação do seu desempenho, designadamente os elementos relativos aos indicadores económico-financeiros da Concessão e aos RTM, e demais informação para verificação e aplicação do previsto na Regulação Económica da Concessão.
 
@@ -541,7 +624,9 @@ b) A capacidade, a disponibilidade e a qualidade do serviço das instalações, 
 
 ### CAPÍTULO VI — Condição económico-financeira da Concessão
 
-###### Base XXIII — Receitas da Concessão
+Base XXIII
+
+Receitas da Concessão
 
 1 - As receitas da Concessão consistem, designadamente, em:
 
@@ -559,7 +644,9 @@ e) Juros ou remunerações de capitais e de aplicações financeiras efectuadas 
 
 3 - A Concessionária pode exigir directamente aos titulares de Direitos Aeroportuários e aos Utilizadores dos Aeroportos o pagamento das taxas ou das contrapartidas referidas nas bases seguintes.
 
-###### Base XXIV — Actividades Reguladas
+Base XXIV
+
+Actividades Reguladas
 
 1 - Estão sujeitas a regulação económica as seguintes actividades e respectivas taxas:
 
@@ -579,7 +666,9 @@ f) Outras actividades previstas no Contrato de Concessão.
 
 3 - No que respeita às actividades descritas na alínea b) do n.º 1 e na medida em que a sua prestação pela Concessionária corresponda à substituição das funções do Estado no que respeita a vigilância e a prevenção de actos ilícitos, as taxas da Concessionária devem cobrir os respectivos encargos de investimento e de exploração, incluindo a remuneração de capitais empregues.
 
-###### Base XXV — Novas contrapartidas
+Base XXV
+
+Novas contrapartidas
 
 1 - A Concessionária pode propor à Autoridade Reguladora:
 
@@ -589,13 +678,17 @@ b) Que uma Actividade Regulada deixe de estar sujeita a regulação, passando a 
 
 2 - O montante das novas contrapartidas a receber pela Concessionária pela prestação das actividades referidas no número anterior deve ser objecto de proposta a apresentar pela Concessionária à Autoridade Reguladora.
 
-###### Base XXVI — Actividades Não Reguladas
+Base XXVI
+
+Actividades Não Reguladas
 
 1 - A Concessionária determina livremente as taxas ou os preços a cobrar pela prestação de Actividades Não Reguladas, sem intervenção da Autoridade Reguladora, com respeito por uma política comercial não discriminatória e de salvaguarda das regras da concorrência.
 
 2 - Sem prejuízo do disposto no número anterior, as Actividades Comerciais Relevantes são incluídas no cálculo da componente ajustada da receita das Actividades Reguladas nos termos da Regulação Económica da Concessão.
 
-###### Base XXVII — Assunção do risco
+Base XXVII
+
+Assunção do risco
 
 1 - A Concessionária assume integral responsabilidade por todos os riscos inerentes à Concessão durante o prazo da sua duração, excepto nos casos em que o contrário resulte expressamente do Contrato de Concessão.
 
@@ -611,11 +704,15 @@ c) O risco resultante de alterações à lei geral;
 
 d) O risco adveniente das isenções de taxas estabelecidas na lei, designadamente no [Decreto-Lei n.º 102/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1990-333343), de 21 de Março, alterado pelo [Decreto-Lei n.º 275/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1999-352525), de 23 de Julho, pelo [Decreto-Lei n.º 280/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1999-353340), de 26 de Julho, pelo [Decreto-Lei n.º 268/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2007-636707), de 26 de Julho, e pelo [Decreto-Lei n.º 216/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2009-489496), de 4 de Setembro.
 
-###### Base XXVIII — Prestações de serviço público excepcionais
+Base XXVIII
+
+Prestações de serviço público excepcionais
 
 Quando o Concedente imponha à Concessionária a realização de determinadas obrigações de serviço público ou a dotação de qualquer dos Aeroportos concessionados com Parâmetros Sectoriais de Serviço Público, para além das previstas no Contrato de Concessão, e que façam incorrer a Concessionária em custos acrescidos que não possam ser cobertos pelas receitas normais provenientes da prestação dessas obrigações em condições normais de mercado, e que, por isso, um gestor aeroportuário em condições normais de mercado não adoptaria, o Concedente fica obrigado a acordar com a Concessionária os termos da correspondente compensação, sem prejuízo das disposições legais aplicáveis.
 
-###### Base XXIX — Equilíbrio económico-financeiro da Concessão
+Base XXIX
+
+Equilíbrio económico-financeiro da Concessão
 
 1 - A Concessionária só tem direito à reposição do equilíbrio económico-financeiro da Concessão quando ocorra qualquer dos seguintes casos:
 
@@ -645,7 +742,9 @@ d) Qualquer outra forma que seja acordada entre o Concedente e a Concessionária
 
 7 - A Concessionária deve notificar o Concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio económico-financeiro da Concessão, nos 30 dias seguintes à data da sua verificação.
 
-###### Base XXX — Partilha de benefícios
+Base XXX
+
+Partilha de benefícios
 
 1 - Os benefícios na situação económica da Concessionária previstos nos números seguintes são repercutidos nas taxas das actividades sujeitas a regulação económica, de forma a que resulte a sua redução.
 
@@ -665,7 +764,9 @@ b) Aos benefícios resultantes do refinanciamento da dívida resultante dos cont
 
 ### CAPÍTULO VII — Novo Aeroporto de Lisboa
 
-###### Base XXXI — Novo Aeroporto de Lisboa
+Base XXXI
+
+Novo Aeroporto de Lisboa
 
 1 - Compete à Concessionária a concepção, o projecto, o financiamento, a construção e a exploração do NAL, no local previamente determinado pelo Concedente e nos termos do respectivo plano director.
 
@@ -681,7 +782,9 @@ b) Aos benefícios resultantes do refinanciamento da dívida resultante dos cont
 
 7 - Salvo quando o presente capítulo disponha diferentemente, são aplicáveis ao NAL as restantes disposições das presentes bases.
 
-###### Base XXXII — Encerramento do Aeroporto de Lisboa
+Base XXXII
+
+Encerramento do Aeroporto de Lisboa
 
 1 - A Concessionária assegura a regular exploração do Aeroporto de Lisboa, na Portela, até ao início de exploração do NAL, comprometendo-se a proceder ao encerramento total das instalações deste, com excepção dos activos identificados no Contrato de Concessão, sem que tal lhe confira direito à reposição do equilíbrio financeiro da Concessão.
 
@@ -699,7 +802,9 @@ b) À transferência dos equipamentos e dos serviços afectos à actividade do A
 
 ### CAPÍTULO VIII — Obrigações de segurança, ambientais e responsabilidade social da Concessionária
 
-###### Base XXXIII — Obrigações de segurança
+Base XXXIII
+
+Obrigações de segurança
 
 1 - A Concessionária obriga-se a implementar as normas, os procedimentos e as boas práticas constantes da legislação e da regulamentação nacional, comunitária e internacional, de carácter vinculativo aplicáveis à segurança em geral e, em particular, à segurança aeroportuária, à segurança contra actos ilícitos e à segurança no trabalho, bem como a proporcionar as estruturas e os meios necessários que permitam uma eficiente gestão da segurança em todos os Aeroportos objecto da Concessão.
 
@@ -707,7 +812,9 @@ b) À transferência dos equipamentos e dos serviços afectos à actividade do A
 
 3 - A Concessionária deve adoptar o Regulamento de Gestão de Segurança constante do Contrato de Concessão, obrigando-se a proceder à sua revisão e a enviá-lo ao Concedente, no prazo de seis meses após a assinatura do Contrato de Concessão, o qual deve consagrar a política de segurança e de prevenção de actos ilícitos, de organização, de planeamento, de execução e de acompanhamento do desempenho da Concessionária neste âmbito.
 
-###### Base XXXIV — Obrigações ambientais
+Base XXXIV
+
+Obrigações ambientais
 
 1 - A Concessionária obriga-se ao cumprimento da legislação e da regulamentação ambiental de carácter vinculativo e ao respeito por todos os compromissos existentes nesta matéria.
 
@@ -735,7 +842,9 @@ d) Critérios ambientais de eficiência energética e minimização de impacte a
 
 9 - O não cumprimento de obrigações ambientais é objecto de penalidades nos termos previstos no Contrato de Concessão.
 
-###### Base XXXV — Responsabilidade social
+Base XXXV
+
+Responsabilidade social
 
 1 - A Concessionária, no cumprimento do Contrato de Concessão, compromete-se a orientar as suas actividades de forma a proporcionar condições favoráveis para que o desenvolvimento da exploração dos Aeroportos ocorra de forma socialmente equilibrada e em benefício dos cidadãos em geral.
 
@@ -743,7 +852,9 @@ d) Critérios ambientais de eficiência energética e minimização de impacte a
 
 ### CAPÍTULO IX — Poderes de autoridade, expropriações e servidões
 
-###### Base XXXVI — Poderes de autoridade da Concessionária
+Base XXXVI
+
+Poderes de autoridade da Concessionária
 
 A Concessionária, sem prejuízo de outros poderes que lhe sejam conferidos por lei, detém, por efeito da Concessão, os seguintes poderes e prerrogativas de autoridade:
 
@@ -761,7 +872,9 @@ f) Elaboração e aplicação de normas regulamentares no âmbito da actividade 
 
 g) Execução coerciva das suas decisões de autoridade, incluindo a utilização de força pública.
 
-###### Base XXXVII — Expropriações e servidões aeronáuticas
+Base XXXVII
+
+Expropriações e servidões aeronáuticas
 
 1 - Compete à Concessionária, como entidade expropriante, actuando em nome do Concedente, conduzir os processos expropriativos dos bens e dos direitos necessários à Concessão, bem como de criação de servidões, suportando os custos inerentes e o pagamento de indemnizações, bem como de outras compensações, ónus ou encargos decorrentes das expropriações.
 
@@ -771,7 +884,9 @@ g) Execução coerciva das suas decisões de autoridade, incluindo a utilizaçã
 
 4 - Previamente à fase de construção do NAL, a Concessionária deve apresentar todos os elementos e os documentos necessários à atempada prática das expropriações.
 
-###### Base XXXVIII — Utilidade Pública
+Base XXXVIII
+
+Utilidade Pública
 
 1 - São de utilidade pública, com carácter de urgência, todas as expropriações de bens e de direitos necessários ao exercício das actividades da Concessão.
 
@@ -779,11 +894,15 @@ g) Execução coerciva das suas decisões de autoridade, incluindo a utilizaçã
 
 ### CAPÍTULO X — Responsabilidade da Concessionária e garantias
 
-###### Base XXXIX — Responsabilidade da Concessionária perante o Concedente
+Base XXXIX
+
+Responsabilidade da Concessionária perante o Concedente
 
 A Concessionária é, face ao Concedente, responsável pelo atempado e perfeito cumprimento das obrigações constantes do Contrato de Concessão e as decorrentes de normas, de regulamentos ou de disposições administrativas que lhe sejam aplicáveis, sem que, para exclusão ou limitação da sua responsabilidade, possa opor ao Concedente qualquer contrato ou relação com terceiros.
 
-###### Base XL — Relacionamento da Concessionária com entidades públicas intervenientes na Concessão
+Base XL
+
+Relacionamento da Concessionária com entidades públicas intervenientes na Concessão
 
 1 - A Concessionária assegura a coordenação e o acompanhamento das actividades das Entidades Públicas e equiparadas, nomeadamente do Serviço de Estrangeiros e Fronteiras, do Serviço de Alfândegas, da Polícia de Segurança Pública, da Polícia Judiciária, da Brigada Fiscal, dos Serviços do Protocolo de Estado, da Direcção-Geral de Veterinária, ou dos serviços com competências correspondentes na Região Autónoma dos Açores, dos serviços responsáveis pelos controles sanitário e fitossanitário, e do Instituto de Meteorologia, promovendo a sua concertação com vista ao cumprimento das obrigações por ela assumidas no Contrato de Concessão, assim como a coordenação e o acompanhamento de todas as actividades das Entidades Públicas ou equiparadas directa ou indirectamente intervenientes no desenvolvimento do projecto e ou na construção do NAL.
 
@@ -795,13 +914,17 @@ A Concessionária é, face ao Concedente, responsável pelo atempado e perfeito 
 
 5 - A Concessionária deve informar de imediato o Concedente de quaisquer actividades das Entidades Públicas que possam afectar negativamente o seu desempenho e fazê-la incorrer em responsabilidade perante o Concedente.
 
-###### Base XLI — Relacionamento da Concessionária com entidades terceiras detentoras de direitos aeroportuários
+Base XLI
+
+Relacionamento da Concessionária com entidades terceiras detentoras de direitos aeroportuários
 
 1 - A Concessionária obriga-se a elaborar um Regulamento das Entidades Terceiras, que se compromete a fazer cumprir por todos os meios de que disponha, devendo sujeitar esse Regulamento à apreciação, a título consultivo, do Concedente e da Autoridade Reguladora, no prazo de seis meses após a assinatura do Contrato de Concessão.
 
 2 - A Concessionária não pode opor ao Concedente o desrespeito do regulamento referido no número anterior pelas Entidades Terceiras, de modo a diminuir ou a excluir a sua responsabilidade.
 
-###### Base XLII — Parcerias públicas regionais
+Base XLII
+
+Parcerias públicas regionais
 
 1 - Mediante solicitação de pessoas colectivas públicas de âmbito regional com competências na área de implantação de cada um dos Aeroportos da Concessão, podem ser criadas sociedades comerciais em parceria entre a Concessionária, tendo tais pessoas colectivas, nos termos estabelecidos no Contrato de Concessão, o objectivo de promover o desenvolvimento da região em causa e a inserção regional do Aeroporto.
 
@@ -809,17 +932,23 @@ A Concessionária é, face ao Concedente, responsável pelo atempado e perfeito 
 
 3 - As parcerias previstas no n.º 1 devem fomentar o conhecimento e a troca de ideias, de forma a permitir o eventual aperfeiçoamento dos projectos existentes em conformidade com critérios de proporcionalidade.
 
-###### Base XLIII — Responsabilidade da Concessionária perante terceiros
+Base XLIII
+
+Responsabilidade da Concessionária perante terceiros
 
 A Concessionária responde, nos termos da lei, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco.
 
-###### Base XLIV — Responsabilidade por prejuízos causados por entidades contratadas
+Base XLIV
+
+Responsabilidade por prejuízos causados por entidades contratadas
 
 1 - A Concessionária responde, ainda, nos termos em que o comitente responde pelos actos do comissário, pelos prejuízos causados pelos terceiros por si contratados para o desenvolvimento das actividades compreendidas na Concessão.
 
 2 - Constitui especial dever da Concessionária promover e exigir a qualquer terceiro, com quem venha a contratar, que assegure as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e de segurança em vigor a cada momento.
 
-###### Base XLV — Seguros
+Base XLV
+
+Seguros
 
 1 - A Concessionária obriga-se a manter em vigor os contratos de seguros necessários para garantir uma efectiva cobertura dos riscos seguráveis inerentes à Concessão.
 
@@ -831,7 +960,9 @@ A Concessionária responde, nos termos da lei, por quaisquer prejuízos causados
 
 ### CAPÍTULO XI — Acompanhamento, fiscalização e regulação da Concessão
 
-###### Base XLVI — Concedente
+Base XLVI
+
+Concedente
 
 1 - Sem prejuízo das competências próprias de fiscalização de autoridades legalmente competentes para o efeito, os poderes e os deveres atribuídos pelo Contrato de Concessão ao Concedente são exercidos pela NAER - Novo Aeroporto, S. A. (NAER, S. A.), salvo quando o contrário resultar do Contrato de Concessão ou do decreto-lei que regula a actividade da NAER, S. A.
 
@@ -841,13 +972,17 @@ A Concessionária responde, nos termos da lei, por quaisquer prejuízos causados
 
 4 - Após aprovação, o plano de actividades é enviado à Concessionária para efeitos da dotação suplementar, e à Autoridade Reguladora, para efeitos de consideração no âmbito da regulação económica.
 
-###### Base XLVII — Regulação económica
+Base XLVII
+
+Regulação económica
 
 1 - Compete à Autoridade Reguladora assegurar a regulação económica da Concessão com respeito pelas regras do Contrato de Concessão e pelo modelo de regulação económica e de qualidade de serviço do sector aeroportuário nacional.
 
 2 - A Autoridade Reguladora define periodicamente, nos termos referidos no Contrato de Concessão, os critérios e as regras a que devem obedecer a formação e a fixação das taxas das Actividades Reguladas, bem como os parâmetros, e os respectivos valores, dos níveis de qualidade de serviço.
 
-###### Base XLVIII — Regulação técnica
+Base XLVIII
+
+Regulação técnica
 
 1 - A Concessionária deve observar e implementar a regulamentação técnica aplicável, a todo o tempo, ao sector aeroportuário, designadamente no que respeita à certificação dos Aeroportos, bem como à gestão, à operação e à manutenção dos Aeroportos e à operação de aeronaves vertida na legislação nacional, nos regulamentos e nas normas da União Europeia, bem como os standards e as melhores práticas reconhecidas e recomendadas pela Organização da Aviação Civil Internacional.
 
@@ -881,13 +1016,17 @@ b) Alfândegas, emigração, ordem pública, policiamento, saúde pública, quar
 
 ### CAPÍTULO XII — Modificações subjectivas da Concessão
 
-###### Base XLIX — Oneração ou transmissão de direitos e exploração de serviços por terceiros
+Base XLIX
+
+Oneração ou transmissão de direitos e exploração de serviços por terceiros
 
 1 - A Concessionária não pode, sem prévio consentimento do Concedente, onerar, transmitir, ou por qualquer outra forma fazer-se substituir, no todo ou em parte, na titularidade ou no exercício dos direitos e dos bens da Concessão sem prejuízo da possibilidade de subconcessão prevista na base seguinte.
 
 2 - São nulos os actos que contrariem o disposto no número anterior.
 
-###### Base L — Subconcessão
+Base L
+
+Subconcessão
 
 1 - A Concessionária pode, excepcionalmente, subconcessionar alguma ou algumas das prestações objecto do Contrato de Concessão desde que previamente autorizadas pelo Concedente.
 
@@ -899,7 +1038,9 @@ b) Alfândegas, emigração, ordem pública, policiamento, saúde pública, quar
 
 ### CAPÍTULO XIII — Incumprimento e força maior
 
-###### Base LI — Incumprimento da Concessionária e penalizações contratuais
+Base LI
+
+Incumprimento da Concessionária e penalizações contratuais
 
 1 - Sem prejuízo do previsto na lei, do disposto nos n.os 8 e 9 da base xx e do direito de resolução pelo Concedente nos termos previstos no Contrato de Concessão, o incumprimento ou o cumprimento defeituoso pela Concessionária de quaisquer obrigações emergentes do Contrato de da Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou do Contrato de Concessão, originam a aplicação à Concessionária de multas contratuais.
 
@@ -917,7 +1058,9 @@ b) Alfândegas, emigração, ordem pública, policiamento, saúde pública, quar
 
 8 - Os montantes mínimos e máximos referidos no n.º 2 são actualizados de forma automática, no início de cada ano civil, por aplicação da taxa oficial de variação do índice de preços no consumidor, sem habitação, para Portugal continental, publicado pelo Instituto Nacional de Estatística, referente ao ano anterior.
 
-###### Base LII — Força maior
+Base LII
+
+Força maior
 
 1 - Consideram-se casos de força maior os eventos imprevisíveis e inevitáveis, exteriores à Concessionária e independentes da sua vontade ou actuação, ainda que indirectos, que comprovadamente impeçam o cumprimento das suas obrigações contratuais e que tenham um impacto directo negativo sobre a Concessão, em moldes que excedam os regimes das obrigações e do risco previstos no Contrato de Concessão.
 
@@ -939,7 +1082,9 @@ c) Há lugar à resolução do Contrato de Concessão quando o cumprimento das o
 
 ### CAPÍTULO XIV — Extinção e suspensão da Concessão
 
-###### Base LIII — Resolução do Contrato de Concessão
+Base LIII
+
+Resolução do Contrato de Concessão
 
 1 - Em caso de violação grave não sanável das obrigações da Concessionária decorrentes do Contrato de Concessão, o Concedente pode resolver o Contrato de Concessão.
 
@@ -965,7 +1110,9 @@ f) A obstrução à requisição, ao sequestro ou à intervenção do Concedente
 
 6 - A resolução do Contrato de Concessão implica a reversão dos bens afectos à Concessão para o Concedente, nos termos previstos na base lx e a perda, a favor deste, de todas as cauções prestadas pela Concessionária como garantia do bom e pontual cumprimento das obrigações emergentes do Contrato de Concessão.
 
-###### Base LIV — Resgate da Concessão
+Base LIV
+
+Resgate da Concessão
 
 1 - O Concedente pode resgatar a Concessão e outras actividades da Concessionária quando motivos de interesse público o justifiquem, desde que decorridos 15 anos sobre a data do início da Concessão, mediante comunicação escrita à Concessionária com, pelo menos, 1 ano de antecedência.
 
@@ -973,19 +1120,25 @@ f) A obstrução à requisição, ao sequestro ou à intervenção do Concedente
 
 3 - Em caso de resgate, a Concessionária tem direito a receber do Concedente uma indemnização no montante que, assumindo a vigência da Concessão até ao seu termo, resultar da média das avaliações do valor da Concessão, obtido através do valor actual líquido dos cash flows que se prevêem entre a data da decisão de resgate e a data do termo de vigência do Contrato de Concessão, efectuadas por duas instituições financeiras independentes, de reconhecido prestígio e nomeadas por acordo entre o Concedente e a Concessionária.
 
-###### Base LV — Extinção do serviço público
+Base LV
+
+Extinção do serviço público
 
 1 - O Concedente pode extinguir o serviço público concessionado por razões de interesse público devidamente fundamentadas.
 
 2 - A extinção do serviço público faz cessar automaticamente a Concessão e confere à Concessionária o direito a ser indemnizada nos termos estabelecidos para o resgate.
 
-###### Base LVI — Emergência grave
+Base LVI
+
+Emergência grave
 
 1 - Em caso de guerra, de estado de sítio ou de emergência grave, o Concedente pode assumir transitoriamente a exploração do serviço concessionado de harmonia com as normas aplicáveis a ocorrências dessa natureza após notificação por escrito à Concessionária e sem precedência de qualquer formalidade, ou pode ordenar à Concessionária a adopção urgente das medidas necessárias face à situação, ressarcindo-a dos custos respectivos.
 
 2 - Enquanto se verificar a situação prevista no número anterior, suspende-se a contagem do prazo da Concessão, ficando a Concessionária durante o período de duração da situação de emergência grave, exonerada das obrigações decorrentes do Contrato de Concessão, que sejam incompatíveis com as medidas impostas pelo Concedente.
 
-###### Base LVII — Sequestro
+Base LVII
+
+Sequestro
 
 1 - O Concedente pode assumir a exploração do serviço concessionado se, por facto imputável à Concessionária, estiver iminente a cessação da actividade ou ocorrer perturbação grave que ponha em causa o funcionamento da Concessão.
 
@@ -997,17 +1150,23 @@ f) A obstrução à requisição, ao sequestro ou à intervenção do Concedente
 
 5 - A Concessionária pode optar pela resolução do Contrato de Concessão caso o sequestro se mantenha por período superior a seis meses após ter sido restabelecido o normal funcionamento da Concessão.
 
-###### Base LVIII — Requisição e cedência de interesse público
+Base LVIII
+
+Requisição e cedência de interesse público
 
 1 - A requisição de bens pode ser efectuada pelo Concedente, nos termos da lei, mediante o pagamento de justa indemnização.
 
 2 - O Concedente pode, ainda, acordar a cedência temporária de trabalhadores, nos termos previstos na lei, mediante acordo de cedência de interesse público.
 
-###### Base LIX — Extinção por acordo
+Base LIX
+
+Extinção por acordo
 
 O Concedente e a Concessionária podem, a qualquer momento, acordar na extinção total ou parcial da Concessão, definindo os seus efeitos.
 
-###### Base LX — Reversão
+Base LX
+
+Reversão
 
 1 - Extinguindo-se a Concessão por qualquer motivo revertem para o Concedente todos os bens e os direitos afectos à Concessão, sejam ou não propriedade da Concessionária, obrigando-se a Concessionária a entregá-los em perfeitas condições de funcionamento, de conservação e de segurança, sem prejuízo do normal desgaste inerente à sua utilização, e livres de quaisquer ónus e encargos, não sendo legítimo invocar, com qualquer fundamento, o direito de retenção.
 
@@ -1023,19 +1182,25 @@ O Concedente e a Concessionária podem, a qualquer momento, acordar na extinçã
 
 7 - Não se verificando a prorrogação da Concessão nos termos do n.º 2 da base viii ou não sendo a mesma admissível nos termos do Contrato de Concessão, o Concedente pode adoptar as providências que julgar convenientes para assegurar a continuação do serviço no termo da Concessão ou as medidas necessárias para efectuar a transferência progressiva da actividade objecto da Concessão para uma nova concessionária
 
-###### Base LXI — Caducidade
+Base LXI
+
+Caducidade
 
 O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes, sem prejuízo das disposições que, pela sua natureza ou pela sua letra, se destinem a perdurar para além daquela data.
 
 ### CAPÍTULO XV — Resolução de diferendos
 
-###### Base LXII — Resolução de diferendos
+Base LXII
+
+Resolução de diferendos
 
 1 - Caso surja qualquer diferendo relacionado com a interpretação, a integração ou a execução do Contrato de Concessão, ou com a sua validade e eficácia, ou de qualquer das suas disposições, o Concedente e a Concessionária devem, em primeiro lugar, tentar chegar a um acordo conciliatório.
 
 2 - Se se frustrarem as diligências para o acordo conciliatório, o Concedente ou a Concessionária submetem o diferendo a um tribunal arbitral.
 
-###### Base LXIII — Tribunal Arbitral
+Base LXIII
+
+Tribunal Arbitral
 
 1 - O Tribunal Arbitral é composto por três membros, um nomeado por cada uma das Partes e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem nomeado.
 
@@ -1059,24 +1224,34 @@ O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão
 
 ### CAPÍTULO XVI — Disposições finais
 
-###### Base LXIV — Invalidade parcial do Contrato de Concessão
+Base LXIV
+
+Invalidade parcial do Contrato de Concessão
 
 A eventual nulidade, anulabilidade ou ineficácia de qualquer das cláusulas do Contrato de Concessão, não implica só por si a sua invalidade total, devendo o Concedente e a Concessionária, se tal se verificar, procurar por acordo modificar ou substituir as cláusulas inválidas ou ineficazes por outras, o mais rapidamente possível e por forma a salvaguardar a plena validade, eficácia e equilíbrio económico-financeiro do Contrato de Concessão, de acordo com o espírito, as finalidades e as exigências daquele.
 
-###### Base LXV — Substituição de acordos anteriores
+Base LXV
+
+Substituição de acordos anteriores
 
 1 - Sem prejuízo do disposto sobre a interpretação e integração do Contrato de Concessão, este substitui integralmente todos e quaisquer anteriores acordos, verbais ou escritos, celebrados entre o Concedente e a Concessionária, relativos ao seu objecto.
 
 2 - Não podem ser invocados, nem têm qualquer validade ou eficácia, quaisquer documentos ou acordos que não sejam considerados pelo clausulado do Contrato de Concessão como fazendo parte integrante do mesmo, salvo como eventual elemento de interpretação ou de integração.
 
-###### Base LXVI — Exercício de direitos
+Base LXVI
+
+Exercício de direitos
 
 Sem prejuízo do disposto na base lxii quanto à resolução de diferendos, o não exercício ou o exercício tardio ou parcial de qualquer direito que assista ao Concedente ou à Concessionária ao abrigo do Contrato de Concessão não importa a renúncia a esse direito e não impede o seu exercício posterior nem constitui moratória ou novação da respectiva obrigação.
 
-###### Base LXVII — Prazos e a sua contagem
+Base LXVII
+
+Prazos e a sua contagem
 
 Os prazos fixados no Contrato de Concessão contam-se em dias ou em meses seguidos de calendário.
 
-###### Base LXVIII — Entrada em vigor do Contrato de Concessão
+Base LXVIII
+
+Entrada em vigor do Contrato de Concessão
 
 O Contrato de Concessão entra em vigor na data da sua assinatura.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20699-1964-579325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca8fed1efdcb911c781bbfd94fd3d6785ef3221897e58c11a7eb74c79c0c70e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d185dbbbd5d728cf1fc623a6d4d25fd88b0f339a7b5a66e016d781a25c7ea89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:33Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +92,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Interior, nos termos 
 
 Os artigos 8.º, 9.º e 10.º do Estatuto do Cofre de Previdência das Praças da Guarda Nacional Republicana passam a ter a seguinte redacção:
 
-###### Art. 8.º O subsídio a que se refere o artigo 2.º poderá ser, conforme o desejo do contribuinte, de 5000$00 a 50000$00, por múltiplos de 1000$00.
+Art. 8.º O subsídio a que se refere o artigo 2.º poderá ser, conforme o desejo do contribuinte, de 5000$00 a 50000$00, por múltiplos de 1000$00.
 
 § único. Aos contribuintes inscritos até 31 de Dezembro de 1963 é aumentado em 25 por cento o subsídio para que se acham inscritos, continuando, contudo, a pagar as mesmas quotas.
 
-###### Art. 9.º O subsídio vence-se, por inteiro, a partir da data da entrada no Cofre da primeira quota.
+Art. 9.º O subsídio vence-se, por inteiro, a partir da data da entrada no Cofre da primeira quota.
 
-###### Art. 10.º O contribuinte que tiver subscrito um subsídio inferior ao máximo poderá em qualquer data, desde que não conte mais de 50 anos de idade, elevá-lo até esse máximo, por múltiplos de 1000$00, ficando sujeito, em relação ao aumento, ao acréscimo da quota correspondente à idade que tiver na data em que o aumento se verificar e indemnização que for fixada.
+Art. 10.º O contribuinte que tiver subscrito um subsídio inferior ao máximo poderá em qualquer data, desde que não conte mais de 50 anos de idade, elevá-lo até esse máximo, por múltiplos de 1000$00, ficando sujeito, em relação ao aumento, ao acréscimo da quota correspondente à idade que tiver na data em que o aumento se verificar e indemnização que for fixada.
 
 § único. O subsídio aumentado vence-se de harmonia com a tabela C e nas condições na mesma referidas.
 
@@ -106,7 +106,7 @@ TABELA C
 
 Aumento de subsídios: sua liquidação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/17600/09370938.pdf))](https://files.diariodarepublica.pt/1s/1964/07/17600/09370938.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/17600/09370938.pdf)
 
 Nota. - Se o falecimento do contribuinte ocorrer antes de terminados estes períodos, as importâncias pagas correspondentes ao aumento de quota e indemnização serão restituídas juntamente com o subsídio anterior ao da mudança.
 

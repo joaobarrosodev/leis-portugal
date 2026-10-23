@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/198a00/57265730.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/339/1999/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1999-428996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01f0f64d99e14f3534e1867c1bae2e9de6818935c1953bcdd554c42f379ec22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7e2d6661638c32de058007b8b4a2bb8ec48e7709fa4386b25fd32430e4b806b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
 - Alvará
-- Produção Animal
-- Multa
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
 - Exploração Pecuária
 - Fiscalização
 - Gado Suíno
-- Abate de Animais
-- Licença Sanitária
-- Pecuária
-- Sanção
 - Instituto Nacional de Investigação Agrária
+- Licença Sanitária
+- Multa
+- Pecuária
+- Produção Animal
+- Sanção
+- Saúde Pública
 - Suinicultura
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
@@ -111,16 +111,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1276/1995/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1276/1995/10/26/p/dre
+- type: cites
+  target: pt:dre:162669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668107:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogado, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:42Z'
   warnings: []
   errors: []
 ---
@@ -359,15 +400,15 @@ O presente diploma só produz efeitos a partir da data da publicação das porta
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 4 de Agosto de 1999.**
+Promulgado em 4 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1999.**
+Referendado em 12 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 Mapa anexo a que se refere o n.º 7 do artigo 2.º
 

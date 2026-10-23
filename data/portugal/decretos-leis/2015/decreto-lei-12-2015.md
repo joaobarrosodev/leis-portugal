@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2015/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48bbe84b9f5bad0ce397c12f071f68242d22a9af2d2dd1ccd4ab147582d73979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5de0b4cd000bfab633ca167e91d6df176b6913b67f8e3a4b1fb8e3f420a44d4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
 subjects:
 - Centro Hospitalar
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Setor Empresarial do Estado
 - Gestão Hospitalar
 - Integração de Serviços
-- Estabelecimento Hospitalar
+- Setor Empresarial do Estado
 - Unidade Local de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:106434234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70139963:por
+  label: Alterados os arts. 13.º e 24.º e revogados os n.ºs 2 e 3 do art. 9.º dos Estatutos dos Hospitais e Centros Hospitalares,
+    E.P.E., constantes do anexo II; assim como são alterados os arts. 13.º e 26.º e revogados os n.ºs 2 e 3 do art. 9.º dos
+    Estatutos das Unidades Locais de Saúde, E.P.E., constantes do anexo III do Dec Lei 233/2005 de 29-dez, alterado e republicado
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 183/2015 - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2015-70139963
+  date: '2015-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -119,16 +127,115 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:191571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692434:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106434234:por
+  label: Revogado, a partir de 15.02.2017 e com efeitos a 01.01.2017, com exceção dos n.ºs 1 e 2 do art. 1.º, o Dec. Lei 233/2005
+    de 29-dez, na redação do presente diploma, pelo(a) Decreto-Lei n.º 18/2017 - Diário da República n.º 30/2017, Série I
+    de 2017-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2017-106434234
+  date: '2017-02-10'
 article_structure:
-  article_count: 115
-  section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 87
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:42Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +284,9 @@ Objeto e âmbito
 
 5 - [Anterior n.º 4].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -235,15 +344,15 @@ h) O n.º 2 do artigo 1.º e os artigos 4.º a 13.º e 15.º a 17.º do [Decreto
 
 Visto e aprovado em Conselho de Ministros de 13 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 20 de janeiro de 2015.**
+Promulgado em 20 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de janeiro de 2015.**
+Referendado em 21 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -251,19 +360,19 @@ Visto e aprovado em Conselho de Ministros de 13 de novembro de 2014. - Pedro Pas
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 ## ANEXO II — (a que se refere o artigo 4.º)
 
@@ -271,15 +380,21 @@ MAPA IV
 
 Estatutos das Unidades Locais de Saúde, E. P. E.
 
-### CAPÍTULO I — Princípios gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Natureza e duração
+Princípios gerais
+
+Artigo 1.º
+
+Natureza e duração
 
 1 - A Unidade Local de Saúde, E. P. E. (ULS, E. P. E.), é uma pessoa coletiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do regime jurídico do setor público empresarial e do artigo 18.º do anexo da [Lei n.º 27/2002](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), de 8 de novembro.
 
 2 - A ULS, E. P. E., é constituída por tempo indeterminado.
 
-###### Artigo 2.º — Objeto
+Artigo 2.º
+
+Objeto
 
 1 - A ULS, E. P. E., tem por objeto principal a prestação integrada de cuidados de saúde primários, hospitalares e continuados à população, designadamente aos beneficiários do Serviço Nacional de Saúde e aos beneficiários dos subsistemas de saúde ou de entidades externas que com ela contratualizem a prestação de cuidados de saúde.
 
@@ -291,17 +406,25 @@ b) Desenvolver atividades de investigação, formação e ensino, sendo a sua pa
 
 c) Prestar serviços a cidadãos estrangeiros não residentes no âmbito da legislação nacional e internacional em vigor.
 
-###### Artigo 3.º — Atribuições
+Artigo 3.º
+
+Atribuições
 
 As atribuições da ULS, E. P. E., constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde a nível nacional e regional e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos-programa, em articulação com as atribuições das demais instituições do sistema de saúde.
 
-###### Artigo 4.º — Capital estatutário
+Artigo 4.º
+
+Capital estatutário
 
 O capital estatutário da ULS, E. P. E., é detido pelo Estado e é aumentado ou reduzido por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
 
-### CAPÍTULO II — Órgãos
+CAPÍTULO II
 
-###### Artigo 5.º — Órgãos
+Órgãos
+
+Artigo 5.º
+
+Órgãos
 
 São órgãos da ULS, E. P. E.:
 
@@ -311,9 +434,13 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
-#### SECÇÃO I — Conselho de administração
+SECÇÃO I
 
-###### Artigo 6.º — Composição e mandato
+Conselho de administração
+
+Artigo 6.º
+
+Composição e mandato
 
 1 - O conselho de administração é composto pelo presidente e um máximo de quatro vogais, que exercem funções executivas, incluindo até dois diretores-clínicos e um enfermeiro-diretor.
 
@@ -323,7 +450,9 @@ c) O conselho consultivo.
 
 4 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável, até ao máximo de três renovações consecutivas, permanecendo aqueles no exercício das suas funções até à designação dos novos titulares, sem prejuízo da renúncia a que houver lugar.
 
-###### Artigo 7.º — Competências do conselho de administração
+Artigo 7.º
+
+Competências do conselho de administração
 
 1 - Compete ao conselho de administração garantir o cumprimento dos objetivos em geral, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
 
@@ -371,7 +500,9 @@ t) Tomar as providências necessárias à conservação do património afeto ao 
 
 3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção e chefia, com exceção das previstas nas alíneas a) a m) do n.º 1, definindo em ata os limites e condições do seu exercício.
 
-###### Artigo 8.º — Presidente do conselho de administração
+Artigo 8.º
+
+Presidente do conselho de administração
 
 1 - Compete ao presidente do conselho de administração:
 
@@ -387,7 +518,9 @@ e) Exercer as competências que lhe sejam delegadas.
 
 2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
 
-###### Artigo 9.º — Diretor clínico
+Artigo 9.º
+
+Diretor clínico
 
 1 - Ao diretor clínico compete a direção de atividade assistencial da ULS, E. P. E., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:
 
@@ -419,7 +552,9 @@ l) Desenvolver e analisar estatísticas de saúde.
 
 3 - O exercício da atividade prevista no número anterior depende de autorização prévia do conselho de administração, mediante pedido detalhado expresso por escrito do próprio diretor clínico quanto aos atos a realizar e ao tempo a dedicar, com demonstração do interesse público.
 
-###### Artigo 10.º — Enfermeiro-diretor
+Artigo 10.º
+
+Enfermeiro-diretor
 
 Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem da ULS, E. P. E., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
 
@@ -441,7 +576,9 @@ h) Elaborar estudos para determinação de custos e benefícios no âmbito dos c
 
 i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem e com a formação dos enfermeiros.
 
-###### Artigo 11.º — Funcionamento do conselho de administração
+Artigo 11.º
+
+Funcionamento do conselho de administração
 
 1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
 
@@ -451,21 +588,31 @@ i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exerc
 
 4 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.
 
-###### Artigo 12.º — Vinculação
+Artigo 12.º
+
+Vinculação
 
 A ULS, E. P. E., obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 6.º dos presentes Estatutos.
 
-###### Artigo 13.º — Estatuto dos membros
+Artigo 13.º
+
+Estatuto dos membros
 
 Aos membros do conselho de administração aplica-se o estatuto do gestor público, sem prejuízo do disposto nos presentes Estatutos e no respetivo diploma de aprovação.
 
-###### Artigo 14.º — Dissolução do conselho de administração
+Artigo 14.º
+
+Dissolução do conselho de administração
 
 Para além das situações previstas no n.º 1 do artigo 24.º do Estatuto do Gestor Público, o conselho de administração pode ser dissolvido em caso de grave deterioração da qualidade dos serviços prestados, quando não for provocada por razões alheias ao exercício das funções pelos gestores.
 
-#### SECÇÃO II — Fiscal único
+SECÇÃO II
 
-###### Artigo 15.º — Fiscal único
+Fiscal único
+
+Artigo 15.º
+
+Fiscal único
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da ULS, E. P. E.
 
@@ -483,7 +630,9 @@ Para além das situações previstas no n.º 1 do artigo 24.º do Estatuto do Ge
 
 8 - A remuneração do fiscal único é fixada no despacho a que se refere o n.º 2, atendendo ao grau de complexidade e de exigência inerente ao exercício do respetivo cargo e tendo em conta os critérios de classificação da ULS, E. P. E., fixadas na Resolução do Conselho de Ministros a que se refere o n.º 4 do artigo 28.º do Estatuto do Gestor Público.
 
-###### Artigo 16.º — Competências
+Artigo 16.º
+
+Competências
 
 1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nestes Estatutos.
 
@@ -511,9 +660,13 @@ j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de admini
 
 k) Verificar se os critérios valorimétricos adotados pela ULS, E. P. E., conduzem a uma correta avaliação do património e dos resultados.
 
-#### SECÇÃO III — Serviço de auditoria interna
+SECÇÃO III
 
-###### Artigo 17.º — Serviço de auditoria interna
+Serviço de auditoria interna
+
+Artigo 17.º
+
+Serviço de auditoria interna
 
 1 - Ao serviço de auditoria interna compete a avaliação dos processos de controlo interno e de gestão de riscos, nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos, contribuindo para o seu aperfeiçoamento contínuo.
 
@@ -555,7 +708,9 @@ b) Inscrição no organismo nacional que regule a atividade de auditoria interna
 
 14 - No sentido de obter informação adequada para o desenvolvimento das suas competências, o serviço de auditoria interna tem acesso livre a registos, documentação, computadores, instalações e pessoal da ULS, E. P. E., com exceção dos registos clínicos individuais dos utentes.
 
-###### Artigo 18.º — Sistema de controlo interno e de comunicação de irregularidades
+Artigo 18.º
+
+Sistema de controlo interno e de comunicação de irregularidades
 
 1 - A ULS, E. P. E., dispõe de um sistema de controlo interno e de comunicação de irregularidades, competindo ao conselho de administração assegurar a sua implementação e manutenção e ao auditor interno a responsabilidade pela sua avaliação.
 
@@ -577,9 +732,13 @@ b) Dano, abuso ou desvio relativo ao património da ULS, E. P. E., ou dos utente
 
 c) Prejuízo à imagem ou reputação da ULS, E. P. E.
 
-#### SECÇÃO IV — Conselho consultivo
+SECÇÃO IV
 
-###### Artigo 19.º — Composição do conselho consultivo
+Conselho consultivo
+
+Artigo 19.º
+
+Composição do conselho consultivo
 
 1 - O conselho consultivo tem a seguinte composição:
 
@@ -611,7 +770,9 @@ j) Dois profissionais de saúde, sem vínculo à ULS, E. P. E., designados pelo 
 
 5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pela ULS, E. P. E.
 
-###### Artigo 20.º — Competências do conselho consultivo
+Artigo 20.º
+
+Competências do conselho consultivo
 
 Compete ao conselho consultivo:
 
@@ -625,7 +786,9 @@ d) Apreciar todas as informações que tiver por necessárias para o acompanhame
 
 e) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
 
-###### Artigo 21.º — Funcionamento do conselho consultivo
+Artigo 21.º
+
+Funcionamento do conselho consultivo
 
 1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de ata, tendo o presidente voto de qualidade.
 
@@ -635,9 +798,13 @@ e) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a 
 
 4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
 
-#### SECÇÃO V — Comissões de apoio técnico
+SECÇÃO V
 
-###### Artigo 22.º — Comissões de apoio técnico
+Comissões de apoio técnico
+
+Artigo 22.º
+
+Comissões de apoio técnico
 
 1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
 
@@ -657,9 +824,13 @@ e) A Comissão de Farmácia e Terapêutica.
 
 4 - Compete ao conselho de administração, sob proposta do diretor clínico, a designação do presidente e dos membros das comissões de apoio técnico.
 
-### CAPÍTULO III — Estrutura organizacional
+CAPÍTULO III
 
-###### Artigo 23.º — Unidades funcionais, serviços e departamentos
+Estrutura organizacional
+
+Artigo 23.º
+
+Unidades funcionais, serviços e departamentos
 
 1 - A ULS, E. P. E., é constituída por unidades funcionais, serviços e departamentos de atividade clínica no âmbito hospitalar, complementares de diagnóstico e terapêutica e de apoio.
 
@@ -677,9 +848,13 @@ b) Os serviços funcionam autonomamente ou integrados em departamentos.
 
 6 - A estrutura, organização e funcionamento da ULS, E. P. E., consta de regulamento interno.
 
-### CAPÍTULO IV — Avaliação, controlo e prestação de contas
+CAPÍTULO IV
 
-###### Artigo 24.º — Instrumentos de gestão previsional
+Avaliação, controlo e prestação de contas
+
+Artigo 24.º
+
+Instrumentos de gestão previsional
 
 A gestão financeira e patrimonial da ULS, E. P. E., rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
 
@@ -695,7 +870,9 @@ e) Balanço previsional;
 
 f) Contratos-programa externos e internos.
 
-###### Artigo 25.º — Reservas e fundos
+Artigo 25.º
+
+Reservas e fundos
 
 1 - A ULS, E. P. E., deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
 
@@ -715,11 +892,15 @@ b) As receitas provenientes de comparticipações, dotações, subsídios, subve
 
 5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho dos membros do governo responsáveis pelas áreas das finanças e da saúde.
 
-###### Artigo 26.º — Contabilidade
+Artigo 26.º
+
+Contabilidade
 
 A ULS, E. P. E. aplica o Sistema de Normalização Contabilística.
 
-###### Artigo 27.º — Documentos de prestação de contas
+Artigo 27.º
+
+Documentos de prestação de contas
 
 Os instrumentos de prestação de contas da ULS, E. P. E., a elaborar anualmente com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:
 
@@ -973,19 +1154,19 @@ O presente decreto-lei entra em vigor no dia 31 de dezembro de 2005.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf))](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/01/01700/0054200569.pdf)
 
 ## ANEXO II — ESTATUTOS DOS HOSPITAIS E CENTROS HOSPITALARES, E. P. E
 

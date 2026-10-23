@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/202b00/50725083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/23/1994/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1994-654538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27845fbed8691f8c617b1727424f169f30f2229e927691c9acd1a88e1ce90a68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc5aa5447632afae77baec69a82e93e29f089ebb9ecc378f90fb75011db1d113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:185081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355928:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 252/94, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL.\0\
+    , 4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/252-1994-355928
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:69920322:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 10/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2015-69920322
+  date: '2015-07-31'
 article_structure:
   article_count: 57
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:40Z'
   warnings: []
   errors: []
 ---
@@ -223,7 +251,9 @@ f) Assegurar, no domínio dos recursos do material, a organização, normalizaç
 
 2 - Na dependência do chefe do GS funciona a Secção de Catalogação do Material (SECAMAR).
 
-###### Artigo 7.º — Secção de Catalogação do Material
+###### Artigo 7.º
+
+#### Secção de Catalogação do Material
 
 A SECAMAR é um órgão de execução de serviços ao qual compete:
 
@@ -493,7 +523,9 @@ b) A Divisão de Sistemas de Suporte de Informação.
 
 4 - Na dependência do DIL funciona o centro de documentação.
 
-###### Artigo 18.º — Divisão de Helicópteros
+###### Artigo 18.º
+
+##### Divisão de Helicópteros
 
 À Divisão de Helicópteros (DH) compete assegurar a execução das actividades de carácter técnico relacionadas com helicópteros e material associado e, em especial:
 
@@ -531,7 +563,9 @@ q) Propor a introdução de modificações no material da sua área;
 
 r) Elaborar as provas e testes de avaliação e recepção de material.
 
-###### Artigo 19.º — Divisão de Submarinos
+###### Artigo 19.º
+
+##### Divisão de Submarinos
 
 À Divisão de Submarinos (DS) compete assegurar a execução das actividades de carácter técnico relacionadas com a manutenção e modernização dos submarinos e material associado e, em especial:
 
@@ -563,7 +597,9 @@ n) Pronunciar-se, sob o ponto de vista técnico, sobre a definição de lotaçõ
 
 o) Proceder à recepção qualitativa de sistemas e equipamentos principais e respectivos lotes de sobressalentes iniciais.
 
-###### Artigo 20.º — Divisão Administrativa e Financeira
+###### Artigo 20.º
+
+##### Divisão Administrativa e Financeira
 
 À Divisão Administrativa e Financeira (DAF) compete o planeamento, a coordenação e execução das actividades relativas à gestão administrativa, financeira e patrimonial, no âmbito da DN, e, em especial:
 
@@ -853,7 +889,9 @@ b) O subdirector e o chefe da Divisão Administrativa e Financeira;
 
 c) Um oficial da classe de administração naval da Divisão Administrativa e Financeira, que secretaria.
 
-###### Artigo 39.º — Divisão de Projecto e Direcção de Obras de Construção Civil
+###### Artigo 39.º
+
+##### Divisão de Projecto e Direcção de Obras de Construção Civil
 
 À Divisão de Projecto e Direcção de Obras de Construção Civil compete:
 
@@ -861,7 +899,9 @@ a) Efectuar a programação, estudo, projecto e direcção de obra nas áreas de
 
 b) Exercer funções de direcção técnica nas áreas de aplicação relativas a infra-estruturas, nomeadamente nas estruturas, arquitectura, apetrechamento, sistemas de energia e segurança contra incêndios em instalações em terra e outro material de uso exclusivo em infra-estruturas, excepto sistemas de telecomunicações e electrónica.
 
-###### Artigo 40.º — Divisão de Telecomunicações
+###### Artigo 40.º
+
+##### Divisão de Telecomunicações
 
 1 - À Divisão de Telecomunicações compete:
 
@@ -881,7 +921,9 @@ d) Gerir os cristais operacionais da Marinha, incluindo os utilizados pelos meio
 
 2 - Ao Serviço das Redes Telefónicas compete apoiar tecnicamente as redes telefónicas da Marinha.
 
-###### Artigo 42.º — Divisão de Fiscalização de Obras de Construção Civil
+###### Artigo 42.º
+
+##### Divisão de Fiscalização de Obras de Construção Civil
 
 À Divisão de Fiscalização de Obras de Construção Civil compete:
 
@@ -897,7 +939,9 @@ e) Elaborar, com a colaboração da Divisão Administrativa e Financeira, os cad
 
 f) Propor a aplicação de multas por violação dos prazos contratuais.
 
-###### Artigo 43.º — Divisão de Património e Servidões Militares
+###### Artigo 43.º
+
+##### Divisão de Património e Servidões Militares
 
 À Divisão de Património e Servidões Militares compete:
 
@@ -911,11 +955,15 @@ d) Organizar e manter actualizado o registo das servidões estabelecidas;
 
 e) Propor a aquisição, permuta e arrendamento ou alienação dos imóveis necessários para instalações.
 
-###### Artigo 44.º — Divisão de Obras de Pequena Conservação e Restauro
+###### Artigo 44.º
+
+##### Divisão de Obras de Pequena Conservação e Restauro
 
 À Divisão de Obras de Pequena Conservação e Restauro compete, no âmbito da pequena conservação e restauro das infra-estruturas da Marinha, inventariar, planear, programar e realizar o estudo, projecto e direcção de obra nas áreas de actividade da engenharia civil e da electricidade.
 
-###### Artigo 45.º — Divisão Administrativa e Financeira
+###### Artigo 45.º
+
+##### Divisão Administrativa e Financeira
 
 À Divisão Administrativa e Financeira compete o planeamento, coordenação e execução das actividades relativas à gestão administrativa, financeira e patrimonial no âmbito da DI e, em especial:
 
@@ -1053,12 +1101,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

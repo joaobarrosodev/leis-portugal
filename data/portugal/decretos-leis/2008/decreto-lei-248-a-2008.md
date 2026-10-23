@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 9300-(412) a 9300-(415)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25203/0041200415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248-a/2008/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-a-2008-243743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3d3b01764f838e94165cf6c4f0746ccd03fee6381a492f5c013770a649445b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43e3a628bf393c544425918a947ec21f7ee9d5105343155ff28fe454ea1a1260
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sanção Disciplinar
 - Cédula Profissional
-- Multa
 - Contra-ordenação
+- Desporto
 - Federação Desportiva
 - Fiscalização
 - Instituto do Desporto de Portugal
+- Multa
 - Qualificação Profissional
+- Sanção Disciplinar
 - Taxa
 - Treinador Desportivo
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:174781:por
@@ -101,16 +101,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:243744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667133:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174781:por
+  label: Revogado, a partir de 26.11.2012, pela LEI.40/2012.28.08.2012.AR, DR.IS [166] de 28.08.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2012-174781
+  date: '2012-08-28'
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:30Z'
   warnings: []
   errors: []
 ---
@@ -367,12 +392,12 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 30 de Dezembro de 2008.**
+Promulgado em 30 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Dezembro de 2008.**
+Referendado em 30 de Dezembro de 2008.
 
 Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.

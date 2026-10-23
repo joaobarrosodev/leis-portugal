@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18400/0534105342.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2012/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2012-176051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cd9f1a19338eb204ce146d6b50f162c38aabdc4245c5837c8e9f6f9f1c5cfeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e1df489811aff05f4ac05c4bee382e0b1a2ddb8cee5cfb3f4195de9dc24e55f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estatuto dos Militares das Forças Armadas
 - Exército
 - Força Aérea
-- Marinha
-- Estatuto dos Militares das Forças Armadas
 - Forças Armadas
+- Gestão de Recursos Humanos
+- Marinha
+- Militar
 - Orgânica
 - Pessoal Supranumerario
 - Quadro de Pessoal
@@ -78,8 +80,6 @@ subjects:
 - Quadro Permanente da Força Aérea
 - Quadro Permanente do Exército
 - Reserva
-- Militar
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:66655592:por
@@ -101,16 +101,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490690:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66655592:por
+  label: Revogado, a partir de 05.03.2015, pelo(a) Decreto-Lei n.º 31/2015 - Diário da República n.º 44/2015, Série I de 2015-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2015-66655592
+  date: '2015-03-04'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:01Z'
   warnings: []
   errors: []
 ---
@@ -153,16 +174,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 18 de setembro de 2012.**
+Promulgado em 18 de setembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de setembro de 2012.**
+Referendado em 20 de setembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18400/0534105342.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18400/0534105342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18400/0534105342.pdf)

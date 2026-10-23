@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12500/0361903625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2014-25345604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09a8acb7a6489034779789308f5dcab2c682f4213b1cb981c24b042833870a0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1708a17507f06aad67da5acb22f90ee9dafb3d6c899918565dc20abc24bbce85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Garantia
 - Código das Sociedades Comerciais
+- Coimbra
+- Conselho Consultivo
 - Contrato de Concessão
 - Ersuc-resíduos Sólidos de Coimbra
 - Estatuto
-- Sistema Multimunicipal de Recolha de Resíduos
-- Conselho Consultivo
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Coimbra
+- Garantia
+- Gestão de Resíduos
 - Prazo
+- Proteção do Ambiente
 - Resíduo Urbano
+- Sistema Multimunicipal de Recolha de Resíduos
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do Litoral Centro
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1996/09/05/p/dre
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 44
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:22Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +162,7 @@ Os artigos 1.º e 3.º do [Decreto-Lei n.º 166/96](https://diariodarepublica.pt
 
 É criado o sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Litoral Centro, integrando, como utilizadores originários, os municípios de Águeda, Albergaria-a-Velha, Alvaiázere, Anadia, Ansião, Arganil, Arouca, Aveiro, Cantanhede, Castanheira de Pêra, Coimbra, Condeixa-a-Nova, Estarreja, Figueira da Foz, Figueiró dos Vinhos, Góis, Ílhavo, Lousã, Mealhada, Mira, Miranda do Corvo, Montemor-o-Velho, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Pampilhosa da Serra, Pedrógão Grande, Penacova, Penela, São João da Madeira, Sever do Vouga, Soure, Vagos, Vale de Cambra e Vila Nova de Poiares.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A exploração e gestão do sistema multimunicipal do Litoral Centro é atribuída em regime de concessão exclusiva à ERSUC - Resíduos Sólidos do Centro, S. A., até 31 de dezembro de 2034.
 
@@ -164,7 +180,7 @@ São aditados ao [Decreto-Lei n.º 166/96](https://diariodarepublica.pt/dr/detal
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela ERSUC - Resíduos Sólidos do Centro, S. A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - A ERSUC - Resíduos Sólidos do Centro, S. A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -184,7 +200,7 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 12.º, 14.º, 18.º, 19.º
 
 3 - [...].
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - A sociedade, tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do Litoral Centro.
 
@@ -198,17 +214,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A sociedade pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 4.º
+Artigo 4.º
 
 No exercício da sua atividade a sociedade pode participar em quaisquer outras sociedades, ou entidades de natureza não societária, com objeto similar ou complementar do seu, desde que devidamente autorizada pela concedente.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - [...].
 
 2 - O capital social é representado por 1 700 000 ações com o valor nominal de (euro)5,00 cada uma.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
@@ -220,7 +236,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 5 - [...].
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - [Revogado].
 
@@ -246,7 +262,7 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 12 - Querendo vários acionistas preferir, as ações alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for acionista, na proporção das respetivas participações sociais.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - Mediante deliberação dos sócios, a sociedade pode amortizar as ações que forem penhoradas, arrestadas, arroladas, incluídas em massa insolvente ou, em geral, apreendidas no âmbito de qualquer ação judicial ou estiverem em condições de ser transmitidas judicialmente.
 
@@ -254,19 +270,19 @@ No exercício da sua atividade a sociedade pode participar em quaisquer outras s
 
 3 - [Revogado].
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal e um revisor oficial de contas ou uma sociedade de revisores oficiais de contas que não seja membro daquele órgão.
 
 2 - Os membros da mesa da assembleia geral, do conselho de administração, do conselho fiscal, o revisor oficial de contas ou a sociedade de revisores oficiais de contas são eleitos em assembleia geral, por períodos de três anos, e podem ser reconduzidos por uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deve reunir em primeira convocatória.
 
 2 - [...].
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - [...].
 
@@ -282,7 +298,7 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - [...].
 
@@ -292,7 +308,7 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou sociedade de revisores oficiais de contas que não sejam membros daquele órgão.
 
@@ -334,15 +350,15 @@ São revogados o artigo 2.º, os n.os 2 e 3 do artigo 3.º e os artigos 4.º, 5.
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -384,7 +400,9 @@ Republicação do [Decreto-Lei n.º 166/96](https://diariodarepublica.pt/dr/deta
 
 3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a ERSUC - Resíduos Sólidos do Centro, S. A., deixar de ser detida maioritariamente por entidades públicas.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

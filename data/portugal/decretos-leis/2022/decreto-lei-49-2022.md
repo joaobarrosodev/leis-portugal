@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13800/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/2022/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2022-186307878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2872a697e33b335434d65cc872ccd913644210df2f08dd17a5733dfc975e0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 269a79a9809d5b20ca3bbb9adfd7927e8fb908a853c96798df57f41824c44542
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
-- Prevenção de Incêndios
-- Cartografia
-- Contra-ordenação
-- Arborização
-- Instituto Português do Mar e da Atmosfera
-- Instituto da Conservação da Natureza e das Florestas
-- Plano Municipal de Defesa da Floresta contra Incêndios
-- Plano Nacional de Defesa da Floresta contra Incêndios
-- Exploração Florestal
 - Agência para a Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
+- Arborização
+- Atividade Agrícola
 - Autoridade Nacional de Emergência e Proteção Civil
-- Comissão Nacional de Gestão Integrada de Fogos Rurais
+- Cartografia
 - Comissão de Gestão Integrada de Fogos Rurais
+- Comissão Municipal de Gestão Integrada de Fogos Rurais
+- Comissão Nacional de Gestão Integrada de Fogos Rurais
 - Comissão Regional de Gestão Integrada de Fogos Rurais
 - Comissão Sub-Regional de Gestão Integrada de Fogos Rurais
-- Comissão Municipal de Gestão Integrada de Fogos Rurais
+- Contra-ordenação
+- Exploração Florestal
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto Português do Mar e da Atmosfera
+- Plano Municipal de Defesa da Floresta contra Incêndios
+- Plano Nacional de Defesa da Floresta contra Incêndios
+- Prevenção de Incêndios
+- Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: amended_by
   target: pt:dre:1085738182:por
@@ -101,16 +101,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:24Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +183,9 @@ Os artigos 42.º, 69.º e 72.º do [Decreto-Lei n.º 82/2021](https://diariodare
 
 6 - [...]
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
@@ -189,7 +203,9 @@ d) Utilização de motorroçadoras que utilizam cabeças de corte com recurso a 
 
 4 - Nos territórios rurais dos concelhos em que se verifique um nível de perigo de incêndio rural 'muito elevado' ou 'máximo', nos termos do artigo 43.º, do pôr do sol até às 11 horas, é permitida a utilização de máquinas agrícolas e florestais e respetivas alfaias, desde que adotadas as necessárias condições de segurança, designadamente as previstas no n.º 1.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -305,12 +321,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de junho de 2022. - Mariana Guimarães Vieira da Silva - Marco Alexandre da Silva Capitão Costa Ferreira - José Luís Pereira Carneiro - Jorge Albino Alves Costa - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 6 de julho de 2022.**
+Promulgado em 6 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de julho de 2022.**
+Referendado em 6 de julho de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115492039

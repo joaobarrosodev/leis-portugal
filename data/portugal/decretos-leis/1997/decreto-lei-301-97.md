@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/301/1997/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1997-674473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1d8b2ab85148596c35b53f462172309259414b92e117320a0367b4eece3083d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f67278c453af8291b79954f88b7bfb165141d8f5a8a4e64917146d392218c4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,37 @@ reuse:
 subjects:
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Instituto Superior DOM Afonso III
 - Interesse Público
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:456982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25699066:por
+  label: "Reconhecida a CEUPA - Cooperativa de Desenvolvimento Universitário e Politécnico do Algarve, C.R.L., entidade instituidora\
+    \ do Instituto Superior Dom Afonso III, que prossegue atividades regulares consideradas de interesse educacional, este\
+    \ reconhecido, pelo presente diploma, pelo DESP.8153/2014.23.06.2014.SEES-MECI, DR.IIS [118] de 23.06.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/8153-2014-25699066
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:73301272:por
+  label: Tornado público o encerramento voluntário, com início partir do ano letivo de 2015-2016, do Instituto Superior D.
+    Afonso III, estabelecimento de ensino superior politécnico não integrado, reconhecido de interesse público pelo presente
+    diploma, pelo(a) Aviso n.º 912/2016 - Diário da República n.º 18/2016, Série II de 2016-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/912-2016-73301272
+  date: '2016-01-27'
+- type: amended_by
+  target: pt:dre:107497626:por
+  label: Tornada pública a cessação, em 31.12.2016, do funcionamento e ministração dos ciclos de estudos do Instituto Superior
+    D. Afonso III, reconhecido de interesse público pelo presente diploma, bem como a determinação de a documentação fundamental
+    ficar à guarda da Universidade do Algarve, pelo(a) Aviso n.º 6559/2017 - Diário da República n.º 112/2017, Série II de
+    2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6559-2017-107497626
+  date: '2017-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -84,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:16Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +174,12 @@ O reconhecimento a que se refere o presente diploma produz efeitos a partir do a
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 16 de Outubro de 1997.**
+Promulgado em 16 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Outubro de 1997.**
+Referendado em 20 de Outubro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

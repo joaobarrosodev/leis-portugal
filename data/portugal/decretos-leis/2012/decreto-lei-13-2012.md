@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2012/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2012-544378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf394b160840d05d9157c09f0de5b06f1f2b2060fbc4124df366a07a6fd612be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74f13f43f02f516efb6a9cd5e77c5a46c3cd25d81198c43b4bf2f1f0b9de9264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,26 +70,32 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
 - Contra-ordenação
 - Definição de Competências
-- Inspecção de Navios
-- Registo de Navios
-- Fiscalização
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- Fiscalização
+- Inspecção de Navios
+- Navegação Marítima
 - Normas de Segurança
 - Poluição Marinha
 - Poluição pelos Navios
+- Registo de Navios
 - Responsabilidade Civil
 - Segurança Marítima
+- Transporte Marítimo
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:69982740:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69982740:por
+  label: Alterado o art 2.º do presente diploma, pelo(a) Decreto-Lei n.º 161/2015 - Diário da República n.º 155/2015, Série
+    I de 2015-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-2015-69982740
+  date: '2015-08-11'
 - type: cites
   target: celex:31994L0057
   label: null
@@ -141,13 +147,13 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:49Z'
   warnings: []
   errors: []
 ---
@@ -420,12 +426,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 13 de Janeiro de 2012.**
+Promulgado em 13 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Janeiro de 2012.**
+Referendado em 16 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/197a00/56555669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/338/1999/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1999-433825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 969802c68e4e3ca4394f1d836f1c806bf4fe65cb288e1f381d26318b707fc26c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ac4033dee73a193aeed1e862ca6b41e87a675c72052828bf7757880e5a5954
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Aproximação das Legislações
-- Gado Caprino
-- Carne
-- Produto Cárneo
-- Circulação de GADO
-- Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
-- Controlo Sanitário
-- Fiscalização
-- Gado Bovino
-- Gado Suíno
 - Abate de Animais
+- Aproximação das Legislações
+- Carne
+- Circulação de GADO
+- Comércio
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Fiscalização
+- GADO
+- Gado Bovino
+- Gado Caprino
 - Gado Ovino
-- Sanção Penal
-- Transporte de Mercadorias
+- Gado Suíno
+- Produto Cárneo
 - Registo de Animais
 - Regulamento
 - Responsabilidade Criminal
-- Comércio
+- Sanção Penal
 - Saúde Animal
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:539227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315156:por
+  label: "Aditada a al j) ao nº 1 do art. 3º, e aditada a al v) ao art. 2º e alterados os arts. 8º, 9º, 19º e 22º do Regulamento\
+    \ anexo pelo DEC LEI.24/2001.2001.01.30.MADRP,DR.IS-A [25]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2001-315156
+  date: '2001-01-30'
+- type: amended_by
+  target: pt:dre:388228:por
+  label: "Alterado o art. 16º do Regulamento anexo ao presente diploma, pelo DEC LEI.203/2001.2001.07.13.MADRP, DR.IS-A [161]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2001-388228
+  date: '2001-07-13'
+- type: amended_by
+  target: pt:dre:303197:por
+  label: "Alterados os arts. 3.º (na redacção do Dec Lei 24/2001, de 30-Jan) e art. 5.º pelo DEC LEI.99/2002.2002.04.12.MADRP\
+    \ DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2002-303197
+  date: '2002-04-12'
 - type: cites
   target: celex:31992R3508
   label: null
@@ -138,16 +156,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/262/1991/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/262/1991/04/03/p/dre
+- type: repealed_by
+  target: pt:dre:539227:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 24/2001, de 30-Jan, do Dec Lei 203/2001, de 13-Jul e do Dec\
+    \ Lei 99/2002, de 12-Abr, pelo DEC LEI.142/2006.27.07.2006.MADRP, DR.IS [144] de 27.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2006-539227
+  date: '2006-07-27'
+- type: repeals
+  target: pt:dre:147215:por
+  label: "Revoga o Dec Lei 245/96 de 20-Dez, DR.IS-A [294]\0\0"
+  source: null
+  date: '1996-12-20'
 article_structure:
   article_count: 42
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:42Z'
   warnings: []
   errors: []
 ---
@@ -286,15 +315,15 @@ d) 60% para os cofres de Estado.
 
 Visto e aprovado em Conselho de Ministros em 24 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de Julho de 1999.**
+Promulgado em 28 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1999.**
+Referendado em 12 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — Regulamento de Identificação, Registo e Circulação de Animais
 

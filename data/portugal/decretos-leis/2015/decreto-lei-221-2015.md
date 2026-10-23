@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/19700/0870308715.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/2015/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2015-70485722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d287e61323d652cb63330712bed3a17399107d9fd5f52257807144dbdc9b3cdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22f3dc64790a95622ca346aaa2c8e3c631e12ae008537e93381e2eee3978532f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Multa
-- Contra-ordenação
-- Recursos Hídricos
 - Albufeiras
-- Pesca
-- Gestão dos Recursos
-- Licença de Pesca
-- Instituto da Conservação da Natureza e das Florestas
 - Aquicultura
-- Proteção do Ambiente
+- Contra-ordenação
+- Diversidade Biológica
+- Gestão dos Recursos
+- Instituto da Conservação da Natureza e das Florestas
+- Licença de Pesca
+- Multa
+- Pesca
 - Pesca Desportiva
 - Pesca Profissional
-- Diversidade Biológica
-- Zona de Proteção
+- Proteção do Ambiente
 - Receita Própria
+- Recursos Hídricos
 - Taxa
 - ZONA de Pesca
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/371/1999/09/18/p/dre
@@ -98,16 +98,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2008/02/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2008/02/15/p/dre
+- type: cites
+  target: pt:dre:140162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676421:por
+  label: null
+  source: null
 article_structure:
-  article_count: 61
+  article_count: 46
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:45Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +248,9 @@ v) [...];
 
 x) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O património aquícola das águas interiores constitui um recurso natural cuja proteção, conservação e utilização sustentável, no respeito pelos princípios da conservação da natureza, da biodiversidade e da proteção do estado das massas de água, são de interesse nacional, europeu e internacional.
 
@@ -214,7 +260,9 @@ x) [...].
 
 4 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -230,7 +278,9 @@ e) [...];
 
 f) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -244,13 +294,17 @@ f) [...].
 
 6 - As disposições relativas à captura de espécies aquícolas são estabelecidas por portaria do membro do Governo responsável pela área da pesca nas águas interiores, sem prejuízo das competências do membro do Governo responsável pela área do ambiente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
 2 - Nas zonas de proteção podem ser tomadas medidas de gestão do habitat, de modo a favorecer a manutenção ou a recuperação das populações das espécies aquícolas e a integridade ecológica dos ecossistemas aquáticos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -262,13 +316,17 @@ f) [...].
 
 5 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A importação ou a exportação de ovos, juvenis ou adultos vivos de peixes ou outros espécimes vivos da fauna aquícola carece de autorização do membro do Governo responsável pela área da pesca nas águas interiores, sem prejuízo das disposições de carácter sanitário e ambiental aplicáveis.
 
 2 - Excetuam-se da autorização a que se refere o número anterior a importação e a exportação de ovos, juvenis ou adultos de espécies da fauna aquícola provenientes da aquicultura e da detenção de espécies aquícolas em cativeiro para fins comerciais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 [...]:
 
@@ -300,7 +358,9 @@ n) Fazer intervenções não autorizadas nas águas interiores ou nos seus leito
 
 o) [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -314,7 +374,9 @@ o) [...].
 
 6 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -338,13 +400,17 @@ d) [...].
 
 7 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Para efeitos de realização de provas de pesca desportiva em águas públicas, pode ser concessionado o exclusivo de pesca mediante o pagamento de taxa.
 
 2 - As provas de pesca organizadas por federação desportiva de pesca com estatuto de utilidade pública desportiva estão isentas do pagamento de taxa.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Só é permitido o exercício da pesca lúdica e da pesca desportiva aos titulares da adequada licença de pesca e dos restantes documentos legalmente exigidos, sem prejuízo do disposto no n.º 3.
 
@@ -352,7 +418,9 @@ d) [...].
 
 3 - Os menores de 16 anos só podem exercer a pesca lúdica e a pesca desportiva quando acompanhados por pescador titular de licença de pesca profissional ou lúdica, sendo os respetivos pais, tutores ou outros encarregados da vigilância civilmente responsáveis pelos atos praticados nesse exercício, nos termos da lei geral.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -372,7 +440,9 @@ c) [Revogada].
 
 6 - A emissão das licenças de pesca, feita preferencialmente de forma desmaterializada, está sujeita ao pagamento de uma taxa a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da pesca nas águas interiores.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]:
 
@@ -428,13 +498,17 @@ z) [...].
 
 4 - [...].
 
-###### Artigo 33.º — Instrução e decisão dos processos de contraordenação
+Artigo 33.º
+
+Instrução e decisão dos processos de contraordenação
 
 1 - Compete ao Instituto da Conservação da Natureza e das Florestas, I. P., a instrução dos processos de contraordenação por ilícitos previstos na presente lei e na sua regulamentação.
 
 2 - Compete ao conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., a decisão dos processos, nomeadamente a aplicação das penas e das sanções acessórias previstas na presente lei, em legislação complementar e na lei geral.
 
-###### Artigo 37.º — Receitas
+Artigo 37.º
+
+Receitas
 
 1 - Constituem receitas do Instituto da Conservação da Natureza e das Florestas, I. P., nos termos do decreto-lei a que se refere o artigo 40.º:
 
@@ -456,15 +530,15 @@ São revogados os artigos 24.º e 25.º, a alínea c) do n.º 3 do artigo 26.º 
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Maria de Barros Serra Marques Guedes - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 24 de setembro de 2015.**
+Promulgado em 24 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que refere o n.º 1 do artigo 4.º)
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 7/1980, 2º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 26-(10) a 26-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00702/00100010.pdf
 entry_into_force_dates: []
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-c-1980-508611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64c385d0895b6808551e538e567a30b73c011b5ced25fe578c2c07bc0665ca30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfb7673a20d27c550faad76f3418f8cdfc53d06952b98efdbdfa366c88940205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Departamento de Planeamento da Segurança Social
+- Quadro de Pessoal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:387354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387354:por
+  label: "Criados lugares no quadro de pessoal publicado em anexo ao Dec Lei 247/79, de 29-Ago, na redacção do presente diploma,\
+    \ pela PORT.425/84.29.06.1984.PCM, DR.IS [149] de 29.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1984-387354
+  date: '1984-06-29'
+- type: cites
+  target: pt:dre:378539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:47Z'
   warnings: []
   errors: []
 ---

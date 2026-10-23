@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/70/2009/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/70-2009-493197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e606c15b1083d614013e542635acfdce6a73a09948fc3a862d47a94056e2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fec02749535b52219a3cf4886a6c7c463d86d4d0d7cdca3942ab10e73d6a2f28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
-- Lisboa
-- Imposto sobre o Rendimento
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto sobre o Rendimento
+- Lisboa
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/55/2009/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/55/2009/07/30/p/dre
+- type: cites
+  target: pt:dre:493199:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:32Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +99,16 @@ validation:
 
 de 30 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção entre a República Portuguesa e a República da Guiné-Bissau para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento e Prevenir a Evasão Fiscal, assinada em Lisboa em 17 de Outubro de 2008, aprovada pela [Resolução da Assembleia da República n.º 55/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/55-2009-493199), em 29 de Maio de 2009.
 
-**Assinado em 15 de Julho de 2009.**
+Assinado em 15 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Julho de 2009.**
+Referendado em 24 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

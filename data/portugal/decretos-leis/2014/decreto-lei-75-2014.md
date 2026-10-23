@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2014/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2014-25343693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e02c5489e569b4b464d3408015125c043b14a6e7f179a6eb062b46d5e3baff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e958d973cc08fc000f148b09a0dd3effca70a1af0839bad3c5df798439242bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Rede de Estradas
-- Segurança Pública
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes
 - Instituto Público
-- LNEC
 - Laboratório Nacional de Engenharia Civil
-- Segurança Rodoviária
+- LNEC
+- Rede de Estradas
 - Rede Rodoviária Transeuropeia
+- Segurança Pública
+- Segurança Rodoviária
 - Sinalização
 relationships:
 - type: amended_by
@@ -96,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2006/03/27/p/dre
 article_structure:
-  article_count: 32
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:52Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +161,9 @@ Autoridade administrativa
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]:
 
@@ -177,7 +179,9 @@ e) [Anterior alínea d)];
 
 f) A promoção de ações de formação, tendo como objetivo a adequada formação das pessoas encarregues pela operação e manutenção dos túneis.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Para efeitos do disposto no presente decreto-lei, considera-se 'entidade fiscalizadora', qualquer entidade que efetue fiscalizações, avaliações e ensaios, funcionalmente independente do gestor do túnel.
 
@@ -185,13 +189,17 @@ f) A promoção de ações de formação, tendo como objetivo a adequada formaç
 
 3 - É designada como entidade fiscalizadora o Laboratório Nacional de Engenharia Civil, I. P., entidade com a qual podem ser celebrados protocolos tendentes à realização das fiscalizações consideradas necessárias nos termos do disposto no presente decreto-lei.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - À renovação dos túneis integrados na rede rodoviária nacional, não incluída na rede rodoviária transeuropeia, não se aplica o disposto no número anterior, devendo, nestes casos, aquela ser planeada de forma a estar concluída até 31 de dezembro de 2020.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -221,15 +229,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 6 de maio de 2014.**
+Promulgado em 6 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de maio de 2014.**
+Referendado em 8 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -715,7 +723,7 @@ Monitorização permanente da velocidade longitudinal do ar e ajuste do processo
 
 2.19 - Quadro com o sumário informativo dos requisitos mínimos - o quadro que se segue dá um resumo informativo dos requisitos mínimos dos números anteriores. Os requisitos mínimos são os que constam do dispositivo do presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 3 - Medidas respeitantes ao funcionamento:
 
@@ -873,7 +881,7 @@ Postos de emergência - sinalização com indicação da presença de um telefon
 
 Será colocado o seguinte sinal a cada entrada do túnel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Sinal para túneis rodoviários E11A da Convenção de Viena;
 
@@ -897,11 +905,11 @@ Os postos de emergência deverão ostentar sinais informativos que serão sinais
 
 Telefone de emergência:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Extintor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Nos postos de emergência que se encontrem separados do túnel por uma porta, um texto claramente legível, redigido nas línguas apropriadas, deve indicar que o posto de emergência não assegura proteção em caso de incêndio. Eis um exemplo:
 
@@ -913,22 +921,22 @@ Siga os sinais que indicam as saídas de emergência».
 
 Os sinais utilizados para indicar as áreas de paragem de emergência são sinais E nos termos da Convenção de Viena. Os telefones e os extintores deverão ser indicados por um painel adicional ou incorporado no próprio sinal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Saídas de emergência - Os sinais que indicam «saí-das de emergência» devem ser sinais G nos termos da Convenção de Viena. Apresentam-se a seguir alguns exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 É também necessário sinalizar as duas saídas mais próximas nas paredes laterais. Apresentam-se a seguir alguns exemplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Sinais nas faixas de rodagem - estes sinais podem ser circulares ou retangulares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
 
 Sinais de mensagem variável - os sinais de mensagem variá-vel devem dar indicações claras aos condutores sobre engarrafamentos, avarias, acidentes, incêndios ou qualquer outro perigo.
 
 Quadro sinóptico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09100/0276902781.pdf)

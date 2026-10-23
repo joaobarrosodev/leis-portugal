@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-1970-146265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a72a4e9a40986ac22d5f73f5cebfb26a56bdf71cff7b7c950a7659b17368d2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa8191712f14a251f8e76d11a55920642e745ca620ad66319c117059e58fb6f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Albufeira.cidade
+- Alfândega da FÉ
+- Almodôvar
+- Alvaiázere
+- Armamar
+- Avis
+- Boticas
+- Carrazeda de Ansiães
+- Castelo de Paiva
+- Condeixa-a-nova
+- Estabelecimento Prisional
+- Extinção de Serviços
+- Ferreira do Alentejo
+- Ferreira do Zêzere
+- Fornos de Algodres
+- Grândola
+- Mação
+- Mesão FRIO
+- Monchique
+- Mondim de Basto
+- Murça
+- Oleiros
+- Pampilhosa da Serra
+- Penacova
+- Penamacor
+- Penela
+- Ponte da Barca
+- Portel
+- Sabrosa
+- Satão
+- Tabua
+- VILA NOVA de Cerveira
+- VILA NOVA de FOZ COA
+- Vouzela
 relationships:
 - type: amended_by
   target: pt:dre:219966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219966:por
+  label: "Anuladas as zonas de protecção e ónus das cadeias das várias comarcas, pela PORT.495/86.05.09.1986.MOPTC, DR.IS\
+    \ [204] de 05.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-1986-219966
+  date: '1986-09-05'
+- type: cites
+  target: pt:dre:200410:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:39Z'
   warnings: []
   errors: []
 ---
@@ -90,4 +134,4 @@ de 14 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos da alínea b) do artigo 6.º do [Decreto-Lei n.º 49040](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49040-1969-200410), de 4 de Julho de 1969, sejam extintas a partir de 1 de Janeiro de 1971 as cadeias dos Julgados Municipais de Grândola, Ferreira do Alentejo, Portel, Almodôvar, Carrazeda de Ansiães, Alfândega da Fé, Penamacor, Oleiros, Pampilhosa da Serra, Penacova, Penela, Monchique, Albufeira, Alvaiázere, Condeixa, Fornos de Algodres, Tábua, Vila Nova de Foz Côa, Mondim de Basto, Armamar, Mesão Frio, Ferreira do Zêzere, Mação, Avis, Vila Nova de Cerveira, Ponte da Barca, Castelo de Paiva, Murça, Sabrosa, Boticas, Vouzela e Sátão.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

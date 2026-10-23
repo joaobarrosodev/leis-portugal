@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/007a00/01560159.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2002/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2002-585216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6a8318b93dbde67ea9505e6757cc2883f591312b3e39bafe6ec0e20e604e377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab7924e0af5ad6c34f8d7ca6946a04bf1f9daf9b471f36d3d3c02807c6762f31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Centro Nacional de Informação Geográfica
-- Pessoal Dirigente
 - Direcção Geral do Ambiente
 - Extinção de Serviços
 - Instituto de Promoção Ambiental
 - Instituto do Ambiente
-- Instituto Português de Cartografia e Cadastro
-- Orgânica
-- Quadro de Pessoal
-- Ministério do Ambiente e do Ordenamento do Território
 - Instituto Geográfico Português
+- Instituto Português de Cartografia e Cadastro
+- Ministério do Ambiente e do Ordenamento do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinto o Instituto do Ambiente pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos do\
+    \ disposto no respectivo art. 29º, sendo as suas atribuições integradas na Agência Portuguesa do Ambiente\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto o Instituto Geográfico Português, criado no presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS\
+    \ [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2000/07/04/p/dre
   label: null
@@ -111,16 +123,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/110/2001/08/10/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522203:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580669:por
+  label: "Revogado pelo DEC LEI.97/2003.2003.05.07.MCOTA, DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2003-580669
+  date: '2003-05-07'
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:24Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +230,9 @@ i) Direcção Regional do Ambiente e do Ordenamento do Território - Alentejo (D
 
 j) Direcção Regional do Ambiente e do Ordenamento do Território - Algarve (DRAOT - Algarve).
 
-###### Artigo 3.º — Entidades tuteladas
+Artigo 3.º
+
+Entidades tuteladas
 
 1 - Têm a natureza de pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, e funcionam sob tutela e superintendência do Ministro do Ambiente e do Ordenamento do Território as seguintes entidades:
 
@@ -255,7 +310,9 @@ w) Assegurar as formas de relacionamento técnico e de cooperação técnica int
 
 3 - O Instituto do Ambiente é dirigido por um presidente, coadjuvado por dois vice-presidentes, equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.
 
-###### Artigo 17.º-A — Instituto Geográfico Português
+Artigo 17.º-A
+
+Instituto Geográfico Português
 
 1 - O Instituto Geográfico Português é a autoridade nacional de cartografia e o organismo responsável pelo referencial geodésico, pela produção de cartografia topográfica de interesse nacional e regional da sua competência, pela execução do cadastro predial, pela regulação do mercado privado de produção cartográfica e cadastral, no que respeita a normas e especificações técnicas de produção e reprodução, a licenciamento e fiscalização de actividades e homologação de produtos, sendo também responsável pelo desenvolvimento e coordenação do Sistema Nacional de Informação Geográfica e pela promoção da investigação no domínio das tecnologias de informação geográfica, em particular nas áreas do ambiente, ordenamento do território e ciências sociais e humanas.
 
@@ -283,7 +340,9 @@ j) Representar o Estado Português nos organismos e comités internacionais, rel
 
 3 - O Instituto Geográfico Português é dirigido por um presidente, coadjuvado por dois vice-presidentes, equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.
 
-###### Artigo 25.º-A — Transição dos chefes de repartição
+Artigo 25.º-A
+
+Transição dos chefes de repartição
 
 1 - Os lugares de chefe de repartição dos quadros de pessoal dos serviços e institutos do Ministério do Ambiente e do Ordenamento do Território, referidos nos artigos 2.º e 3.º do presente diploma e no n.º 5 do artigo 25.º do [Decreto-Lei n.º 267-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-a-2000-276467), de 20 de Outubro, são extintos, sendo os respectivos titulares reclassificados de acordo com o estabelecido no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
@@ -327,14 +386,14 @@ Até à entrada em vigor dos diplomas orgânicos referidos no n.º 1 do artigo a
 
 Visto e aprovado em Conselho de Ministros em 15 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 19 de Dezembro de 2001.**
+Promulgado em 19 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Dezembro de 2001.**
+Referendado em 27 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/007a00/01560159.pdf)

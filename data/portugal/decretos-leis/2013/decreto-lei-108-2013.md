@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2013/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35466fc15026e669c59aae2e68dde2cae5192bd1dd13590d09fb17f07167145b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29f60291344f41275fcf6a4201259706c68f1b7b253e6664823c17c9be064063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração de Aeroportos
+- ANA
 - ANAM
-- Transporte Aéreo
+- Aviação Civil
 - Contrato de Concessão
 - Domínio Público Aeroportuário
 - Madeira.região Autónoma
-- Administração de Aeroportos
-- ANA
-- Aviação Civil
 - Regime Jurídico
-- Açores
 - Taxa Aeroportuária
 - TAXA de Prestação de Serviços
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: amended_by
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/38/2013/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/38/2013/06/14/p/dre
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496727:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:27Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +202,9 @@ aa) [Anterior alínea y)];
 
 bb) [Anterior alínea z)].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -202,7 +212,9 @@ bb) [Anterior alínea z)].
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 6, a ANA, S.A., detém, em regime de exclusivo, a concessão de serviço público aeroportuário de apoio à aviação civil nos aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores e do Terminal Civil de Beja até ao termo do prazo fixado no contrato de concessão.
 
@@ -216,7 +228,9 @@ bb) [Anterior alínea z)].
 
 6 - O objeto da concessão pode ser ampliado no sentido de incluir os aeroportos situados na Região Autónoma da Madeira, atualmente geridos pela ANAM, S.A., mediante alteração do contrato de concessão.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +238,9 @@ bb) [Anterior alínea z)].
 
 3 - [...]
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - Os quantitativos das taxas e a estrutura tarifária praticados, nos termos dos diplomas legais e regulamentares anteriores, inclusive nos termos dos Decretos Legislativos Regionais, mantêm-se em vigor até à sua alteração, que deve respeitar os termos previstos no presente decreto-lei.
 
@@ -232,12 +248,12 @@ bb) [Anterior alínea z)].
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Álvaro Santos Pereira.
 
-**Promulgado em 29 de julho de 2013.**
+Promulgado em 29 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de julho de 2013.**
+Referendado em 29 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

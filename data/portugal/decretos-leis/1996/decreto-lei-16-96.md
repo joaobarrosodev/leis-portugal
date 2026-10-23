@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1996/03/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1996-621296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c5c792e692016ff0d5ac45910f2c282ad2aac86ab285e8ac2283953c0148ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e220fc766d7cdc06781afe6f38c4c819436e44d03a09d371be886ba17c187259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
-- Educador de Infância
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Pessoal Docente
+- Quadro de Pessoal
 - ZONA Pedagógica
 relationships:
 - type: amended_by
@@ -86,16 +86,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
+- type: cites
+  target: pt:dre:259057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534604:por
+  label: "Revogada a al. d) do art. 5º do Dec Lei 384/93 de 18-Nov, na redacção dada pelo presente diploma e pelo Dec Lei\
+    \ 15-A/99 de 19-Jan, pelo DEC LEI.5-A/2001.2001.01.12.ME, DR.IS-A [10]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-2001-534604
+  date: '2001-01-12'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:32Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +150,7 @@ c) Terem completado, até 31 de Agosto do ano anterior ao da abertura do concurs
 
 d) Terem prestado no ano lectivo anterior, no mínimo, 180 dias de serviço, em horários não inferiores a doze horas semanais.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -144,7 +162,7 @@ c) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os
 
 d) Candidatos não pertencentes a quadros de zona pedagógica, em grupos para os quais possuem habilitações próprias.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Os professores dos quadros de zona pedagógica serão afectados a escolas, por um ano escolar, nas vagas da 2.ª parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 206/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1993-259057), de 14 de Junho, sendo posicionados entre a quinta e a sexta prioridades definidas no artigo 42.º daquele diploma.
 
@@ -160,12 +178,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, aplica
 
 Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 23 de Fevereiro de 1996.**
+Promulgado em 23 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1996.**
+Referendado em 26 de Fevereiro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

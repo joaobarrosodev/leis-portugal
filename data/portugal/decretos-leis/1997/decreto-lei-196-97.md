@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1997-142111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf36c2e2e2ec8f6e9154005aa401ee6b0aa0bb6a3d00e0164a0261ed3f35f83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e3eceada4ff624a3666b679061ebac71252c3921dd1fde9c6f4aa1c8fe8c75c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rendimento Mínimo Garantido
-- Pensão Social
 - Inserção Social
+- Pensão Social
 - Regime não Contributivo da Segurança Social
-- Subsídio de Renda de CASA
+- Rendimento Mínimo Garantido
 - Segurança Social
+- Subsídio de Renda de CASA
 relationships:
 - type: amended_by
   target: pt:dre:107773651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275431:por
+  label: "Alterados os arts. 2º, 4º, 5º, 8º, 9º, 10º, 11º, 14º, 25º, 26º, 27º, 32º, 35º, 36º, 37º, 40º, 41º, 43º, 44º, 45º,\
+    \ 46º, 47º e 48º e aditados os arts. 20º-A, 43º-A, 43º-B, 47º-A e 48º-A pelo DEC LEI.84/2000.2000.05.11.MTS,DR.IS-A [109]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2000-275431
+  date: '2000-05-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/260/1993/07/23/p/dre
   label: null
@@ -84,16 +91,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:541856:por
+  label: "Revogado, a partir de 20.06.2003, pela LEI.13/2003.2003.05.21.AR, DR.IS-A [117], mantendo-se contudo em vigor até\
+    \ à data de entrada em vigor da respectiva regulamentação, as disposições que não contrariem aquela Lei.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2003-541856
+  date: '2003-05-21'
 article_structure:
   article_count: 52
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:50Z'
   warnings: []
   errors: []
 ---
@@ -496,12 +533,12 @@ O presente diploma produz efeitos a partir de 1 de Julho de 1997.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 15 de Julho de 1997.**
+Promulgado em 15 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Julho de 1997.**
+Referendado em 18 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

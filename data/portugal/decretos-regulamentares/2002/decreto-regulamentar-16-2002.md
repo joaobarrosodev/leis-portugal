@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/063b00/24192422.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/2002/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2002-264678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cb34fff6a918872750916a930a982c7c43efb1a9f0b8bd6d370642c097a4d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87fd862a38d886e6a62cded5260a87bc588c834398be694d961da7799cc3f32b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
 - Contrato Individual de Trabalho
+- Emprego
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Jovem
 - Jovem Trabalhador
 - Menoridade
 - Qualificação Profissional
-- Emprego
-- Contrato de Trabalho
 - Regime Jurídico
 - VIDA Activa
 relationships:
@@ -92,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/12-a/2000/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/12-a/2000/09/15/p/dre
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264573:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogado com a entrada em vigor das normas regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR\
+    \ DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:17Z'
   warnings: []
   errors: []
 ---
@@ -244,15 +262,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Júlio Domingos Pedrosa da Luz de Jesus - António Maria Bustorff Dornelas Cysneiros.
 
-**Promulgado em 1 de Março de 2002.**
+Promulgado em 1 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Março de 2002.**
+Referendado em 7 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

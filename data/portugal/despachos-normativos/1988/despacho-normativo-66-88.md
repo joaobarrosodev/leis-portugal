@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/66-1988-377313
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94dc01e80456faa4582c58adf4de99c0db197c95f48cebdb9105de781000c37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13dc6aee049bf5da01f63b57703bfa5c46806a34ea7cede64ffc647d9e685f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central
+- Autarquia Local
+- Contrato Programa
+- Recursos Naturais
+- Saneamento Básico
+relationships:
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:45Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Considerando que se prevê que as áreas do saneamento básico, ambiente e recur
 
 #### SECÇÃO I — Fase de candidatura
 
-###### Artigo 1.º - 1 - Nas áreas do saneamento básico, ambiente e recursos naturais, a selecção de candidaturas à celebração de contratos-programa, sectoriais ou plurissectoriais, deverá ter em conta os seguintes elementos:
+Artigo 1.º - 1 - Nas áreas do saneamento básico, ambiente e recursos naturais, a selecção de candidaturas à celebração de contratos-programa, sectoriais ou plurissectoriais, deverá ter em conta os seguintes elementos:
 
 a) Enquadrar-se nos objectivos e estratégias sectoriais e regionais superiormente definidos;
 
@@ -117,9 +126,9 @@ f) Tratar-se de projecto complementar de outro já anteriormente realizado, conc
 
 g) Fase do processo em que se encontre o projecto, abrangendo a sua aprovação ou o início da sua execução.
 
-###### Art. 2.º As propostas de contratos-programa serão da responsabilidade das câmaras municipais, dos departamentos sectoriais da administração central dependentes da Secretaria de Estado do Ambiente e dos Recursos Naturais e das comissões de coordenação regional (CCRs).
+Art. 2.º As propostas de contratos-programa serão da responsabilidade das câmaras municipais, dos departamentos sectoriais da administração central dependentes da Secretaria de Estado do Ambiente e dos Recursos Naturais e das comissões de coordenação regional (CCRs).
 
-###### Art. 3.º - 1 - Na fase de candidatura utilizar-se-á o procedimento seguinte:
+Art. 3.º - 1 - Na fase de candidatura utilizar-se-á o procedimento seguinte:
 
 a) Até 21 de Maio, as CCRs, após a recolha de todas as propostas de contratos-programa da sua área, entregarão as referidas candidaturas devidamente escalonadas por prioridades aos organismos com responsabilidade sectorial sobre as mesmas, sem prejuízo do estabelecimento de contactos anteriores entre os municípios, as CCRs e os mesmos organismos;
 
@@ -143,9 +152,9 @@ Análise do carácter complementar dos empreendimentos face a outros de iniciati
 
 2 - Será condição de admissibilidade da candidatura a apresentação de, pelo menos, um estudo prévio das implicações da solução proposta.
 
-###### Art. 4.º O GEPAT analisará as candidaturas apresentadas com os organismos proponentes e apresentará superiormente proposta indicativa da sua inclusão em plano, no que respeita às componentes da responsabilidade dos órgãos da administração central.
+Art. 4.º O GEPAT analisará as candidaturas apresentadas com os organismos proponentes e apresentará superiormente proposta indicativa da sua inclusão em plano, no que respeita às componentes da responsabilidade dos órgãos da administração central.
 
-###### Art. 5.º A apreciação pelo GEPAT será feita tendo em consideração:
+Art. 5.º A apreciação pelo GEPAT será feita tendo em consideração:
 
 a) O enquadramento das propostas apresentadas nas políticas sectoriais e regionais superiormente definidas;
 
@@ -153,11 +162,11 @@ b) O equilíbrio intersectorial e inter-regional das propostas, tendo como objec
 
 c) As disponibilidades orçamentais.
 
-###### Art. 6.º As entidades proponentes das candidaturas aprovadas deverão promover a sua inscrição nos planos de investimento pertinentes.
+Art. 6.º As entidades proponentes das candidaturas aprovadas deverão promover a sua inscrição nos planos de investimento pertinentes.
 
 #### SECÇÃO II — Negociação e celebração de contratos-programa
 
-###### Art. 7.º - 1 - As entidades com candidaturas incluídas em plano serão solicitadas a completar os elementos inicialmente enviados, nos termos do artigo 5.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de acordo com os seguintes trâmites processuais:
+Art. 7.º - 1 - As entidades com candidaturas incluídas em plano serão solicitadas a completar os elementos inicialmente enviados, nos termos do artigo 5.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de acordo com os seguintes trâmites processuais:
 
 a) Os processos, devidamente instruídos, deverão ser enviados pelas respectivas entidades proponentes aos organismos sectoriais competentes e à CCR da área em que o projecto se desenvolve, para parecer;
 
@@ -171,12 +180,12 @@ Entidade gestora da política sectorial, estabelecendo prioridades e verificando
 
 2 - Sem prejuízo do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), só serão celebrados os contratos-programa relativos a investimentos que disponham, na parte predominante das suas obras, de projectos de execução concluídos e aprovados pelas entidades competentes.
 
-###### Art. 8.º O GEPAT, em colaboração com a direcção-geral competente, avaliará o modelo financeiro e suas alternativas e submeterá à aprovação superior os aspectos essenciais do contrato-programa.
+Art. 8.º O GEPAT, em colaboração com a direcção-geral competente, avaliará o modelo financeiro e suas alternativas e submeterá à aprovação superior os aspectos essenciais do contrato-programa.
 
-###### Art. 9.º A direcção-geral competente, face às orientações aprovadas e atendendo ao disposto no artigo 9.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), preparará a minuta de contrato-programa, que submeterá a parecer prévio do GEPAT, da CCR respectiva e das entidades contratantes antes de a propor à aprovação ministerial.
+Art. 9.º A direcção-geral competente, face às orientações aprovadas e atendendo ao disposto no artigo 9.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), preparará a minuta de contrato-programa, que submeterá a parecer prévio do GEPAT, da CCR respectiva e das entidades contratantes antes de a propor à aprovação ministerial.
 
 #### SECÇÃO III — Disposições finais e transitórias
 
-###### Art. 10.º As disposições contidas neste despacho normativo são aplicáveis, com as devidas adaptações, à celebração dos acordos de colaboração mencionados no artigo 17.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480).
+Art. 10.º As disposições contidas neste despacho normativo são aplicáveis, com as devidas adaptações, à celebração dos acordos de colaboração mencionados no artigo 17.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480).
 
 Ministério do Planeamento e da Administração do Território, 21 de Julho de 1988. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.

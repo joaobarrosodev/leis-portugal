@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/648-1980-460833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b3957fa9dc7aaa8d9fa6824a1bd0fc71d751325e6d6cc73306a5e8dbee1dc9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 332e8242c98b2b85d2a696713dabaec5c472afb9f7c482cd5013021d1f415958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Quadro de Pessoal
+- Tomar
 relationships:
 - type: amended_by
   target: pt:dre:167819:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 479/89, DE 28 DE JUNHO, PUBLICADA NO DR.IS, 146, DE 890628. SUBSTITUÍDO\
+    \ O QUADRO DE PESSOAL PELA PORTARIA 1304/93, DE 27 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 300, DE 931227.\0DE 931227.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:546585:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Tomar, pela PORT.1116/81.31.12.1981.MFP, DR.IS [300] de 31.12.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1981-546585
+  date: '1981-12-31'
+- type: amended_by
+  target: pt:dre:318355:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Tomar, aprovado pelo presente diploma pela PORT.1310/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1310-1982-318355
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:309677:por
+  label: "Alterado o quadro de pessoal pela PORT.197/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-1983-309677
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:435582:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico o quadro de pessoal aprovado pelo presente\
+    \ diploma, pela PORT.807-U3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-u3-1983-435582
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:334637:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Tomar, pela PORT.113/90.12.02.1990.MS, DR.IS [36] de 12.02.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-1990-334637
+  date: '1990-02-12'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Tomar pelo(a) Portaria n.º 413/91 - Diário da República
+    n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:43Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +155,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Tomar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/26942695.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/26942695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/26942695.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

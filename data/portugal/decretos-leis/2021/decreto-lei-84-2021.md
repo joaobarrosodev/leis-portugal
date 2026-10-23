@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20200/0000400029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2021/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2021-172938301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4efc80095db73c1042de85e08617ad845e72bf0e793c8090593b2c2ef0cabfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f8dc918c2c62c0ce60de4b650c58a01492875a2ec916acb5b700ed4c240db7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
 - BEM Móvel
+- BENS Imóveis
+- Comércio
 - Conflito de Consumo
+- Conteúdo Digital
 - Contra-ordenação
 - Contrato
 - Contrato de Prestação de Serviços
 - Direito de Regresso
+- Distribuição Digital
 - Fiscalização
-- TIC
-- Página na Internet
 - Informação do Consumidor
 - Internet
+- Página na Internet
+- Prédio Urbano
 - Prestação de Serviços
 - Produtor
 - Proteção do Consumidor
 - Serviço de Informática
-- Prédio Urbano
-- Comércio
+- TIC
 - Vendedor
-- Conteúdo Digital
-- Distribuição Digital
 relationships:
 - type: cites
   target: celex:31999L0044
@@ -166,16 +166,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:42Z'
   warnings: []
   errors: []
 ---
@@ -1172,12 +1216,14 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2022.
 
 Visto e aprovado em Conselho de Ministros de 2 de setembro de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Francisco Gonçalo Nunes André - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 12 de outubro de 2021.**
+Promulgado em 12 de outubro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 13 de outubro de 2021.**
+Referendado em 13 de outubro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114647899

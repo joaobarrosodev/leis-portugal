@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1979-383181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d609f4a4e6f2826924f29e9661a6b8ed8fbed96916ae92d79427dfb45a4fef47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c168b9196ac83bd916e4a903f7c1b9dbed60ccbc0991c9926bf66dfd24b8d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Educadores de Infância
+- Ensino
+- Impresso
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:22Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +95,6 @@ Manda o Governo da República, pelo Ministro da Educação e Investigação Cien
 
 Ministério da Educação e Investigação Científica, 27 de Março de 1979. - O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10400/08370838.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10400/08370838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10400/08370838.pdf)
 
-**O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.**
+O Ministro da Educação e Investigação Científica, Luís Francisco Valente de Oliveira.

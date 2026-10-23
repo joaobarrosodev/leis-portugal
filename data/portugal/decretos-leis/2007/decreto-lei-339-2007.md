@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/339/2007/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2007-641415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98285c0c62008ed7b2660e13c79f4d2afec30eca46c75ab5f5e4993be61beb48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: babb31bec1029730077efae664c4f3d43e5603e1427fc870cb03c2a81111bf82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,33 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Código da Estrada
-- Transporte Rodoviário
+- Equipamento Agrícola
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Especificação Técnica
 - Instalações Radioelétricas
-- Segurança no Trabalho
-- Veículo
-- Segurança Rodoviária
 - Normas de Segurança
 - Regulamento
-- Equipamento Agrícola
 - Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Segurança no Trabalho
+- Segurança Rodoviária
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: cites
   target: celex:32006L0026
   label: null
   source: http://data.europa.eu/eli/dir/2006/26/oj
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:31Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +166,9 @@ p) 'Utilização normal' - utilização do tractor para o fim previsto pelo fabr
 
 q) 'Contacto inadvertido' - contacto não planeado entre a pessoa e um local aleatório, resultante da actuação dessa pessoa durante a utilização normal e a circulação do tractor.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 a) ...
 
@@ -174,7 +176,9 @@ b) ...
 
 c) Vidraças de plástico rígido para todas as aplicações à excepção do pára-brisas, conforme disposições adoptadas no Regulamento Relativo aos Vidros de Segurança e aos Materiais para Vidros dos Automóveis e seus Reboques, aprovado pelo Decreto-Lei n.º 40/2003, de 11 de Março, ou no Regulamento UNECE n.º 43, no seu anexo n.º 14.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +192,9 @@ b) Gancho de reboque (v. figura 1 - dimensões do gancho na norma ISSO 6489-1: 2
 
 c) ...
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - ...
 
@@ -252,15 +258,15 @@ b) Recusa o registo, a venda ou a entrada em circulação desses veículos novos
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -454,15 +460,15 @@ Até 4000 mm para luzes indicadoras de mudança de direcção facultativas.
 
 5 - ...
 
-## Apêndice 1
+Apêndice 1
 
 [...]
 
-## Apêndice 2
+Apêndice 2
 
 [...]
 
-## Apêndice 3
+Apêndice 3
 
 [...]»
 
@@ -482,7 +488,7 @@ QUADRO N.º 1
 
 Massa máxima em carga admissível e massa máxima admissível em cada eixo por categoria do veículo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 2 - ...»
 
@@ -494,25 +500,25 @@ Figura 1a
 
 Dispositivo de engate não automático, com cavilha cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 Figura 1b
 
 Dispositivo de engate automático, com cavilha cilíndrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 Figura 1c
 
 Dispositivo de engate automático, com cavilha dentada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 Figura 2
 
 Engate não automático à norma ISO 6489/II, de Outubro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
 
 Figura 4
 
@@ -524,4 +530,4 @@ Corresponde à norma ISO 6489/III
 
 Corresponde à norma ISO 6489/I, de Outubro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19700/0732807333.pdf)

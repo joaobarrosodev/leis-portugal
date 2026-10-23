@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/1996/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1af2eaad1167e60afde1e196545743a333f9b54e396e487dfb3f6e5d901c2a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13a6b8b94f48affa047d3f180f2f3d2577d81145b182b2921bfd4a1dea8a85ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Comércio
 - Estabelecimento Comercial
 - Horário de Funcionamento
 - Regulamento
-- Comércio
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277581:por
+  label: "Alterado, a partir de 02.05.2011, o art. 4º do Dec Lei 48/96, de 15-Maio, na redacção do presente diploma, pelo\
+    \ DEC LEI.48/2011.01.04.2011.PCM, DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2011-277581
+  date: '2011-04-01'
+- type: amended_by
+  target: pt:dre:66229856:por
+  label: Alterado, a partir de 01.03.2015, o art. 4.º do Dec. Lei 48/96 de 15-mai, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16 sem prejuízo do disposto nos n.ºs 2 e
+    3 do art. 17.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/48/1996/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/48/1996/05/15/p/dre
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:47Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +135,12 @@ O presente diploma produz efeitos no dia 29 de Setembro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Outubro de 1996.**
+Promulgado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

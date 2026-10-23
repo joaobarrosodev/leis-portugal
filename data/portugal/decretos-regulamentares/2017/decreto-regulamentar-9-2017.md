@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21100/0586405865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2017/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2017-114133925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55f157b38dec702920f94680f3efb79f0043ba67ae484edad6e4d2f37726ad5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17d4f9d36fee92ff7efe45df927b105b5d23faf56a6c20f0195d472897227eb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Diplomática
-- País Estrangeiro
 - Ministério dos Negócios Estrangeiros
+- País Estrangeiro
+- Profissão Diplomática
 - Serviços Periféricos
 - Subsídio de Refeição
 relationships:
@@ -88,16 +88,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106522766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260891:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:25Z'
   warnings: []
   errors: []
 ---
@@ -136,15 +152,15 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Manuel de Lemos Leitão Marques - Ana Paula Baptista Grade Zacarias - Ricardo Emanuel Martins Mourinho Félix.
 
-**Promulgado em 3 de outubro de 2017.**
+Promulgado em 3 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de outubro de 2017.**
+Referendado em 26 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -152,4 +168,4 @@ Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Man
 
 Subsídio de refeição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21100/0586405865.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21100/0586405865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21100/0586405865.pdf)

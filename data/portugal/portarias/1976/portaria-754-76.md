@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/754-1976-407547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:12:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 429e192fb1c43655adf07da8da8258049c722a054d05f5eb82d21cf5162779e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7626f87a47b55428cde7c98b2d357bc4f171bd5433beabab32efc648e0e75c64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:12:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimentos Fabris das Forças Armadas
+- Força Aérea
+- Gestão de Recursos Humanos
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:253425:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253425:por
+  label: Alterado o quadro constante do presente diploma, pelo(a) Portaria n.º 353/77 - Diário da República n.º 135/1977,
+    Série I de 1977-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-1977-253425
+  date: '1977-06-14'
+- type: cites
+  target: pt:dre:429635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506003:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:138161:por
+  label: Rectificada pela DECL de 20-jan-1977, DR IS [16]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-138161
+  date: '1977-01-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:12:16Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +121,7 @@ Considerando que pelo [Decreto-Lei n.º 837-A/76](https://diariodarepublica.pt/d
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
 
-###### Artigo único. O quadro III da [Portaria n.º 507/76](https://diariodarepublica.pt/dr/detalhe/portaria/507-1976-429635), de 12 de Agosto, passa a ter a composição e distribuição constantes do mapa anexo.
+Artigo único. O quadro III da [Portaria n.º 507/76](https://diariodarepublica.pt/dr/detalhe/portaria/507-1976-429635), de 12 de Agosto, passa a ter a composição e distribuição constantes do mapa anexo.
 
 Estado-Maior da Força Aérea, 2 de Dezembro de 1976. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.
 
@@ -101,6 +129,6 @@ QUADRO II
 
 Grupo XV - Pessoal oficinal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/29600/27982798.pdf))](https://files.diariodarepublica.pt/1s/1976/12/29600/27982798.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/29600/27982798.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.

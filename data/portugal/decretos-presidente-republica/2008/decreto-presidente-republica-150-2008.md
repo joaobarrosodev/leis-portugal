@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/150/2008/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/150-2008-440097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d8307920fa8c7ead24e4d9a8abac83dc24e91203a10d1dc6fd6ab64e91228f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27612d88456ebdc12414dae238168f945ba13138645c5d34f880e8689df71f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
 subjects:
 - Carreira Militar
 - Exército
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:50Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +100,12 @@ validation:
 
 de 25 de Novembro
 
-**O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:
 
 É confirmada a promoção ao posto de Major-General do Coronel Médico Bento António Lencastre de Albuquerque Charrua, efectuada por deliberação de 4 de Novembro de 2008 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 12 do mesmo mês.
 
-**Assinado em 18 de Novembro de 2008.**
+Assinado em 18 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

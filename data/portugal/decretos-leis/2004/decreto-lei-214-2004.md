@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2004/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2004-479672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aec83962755e354ce1ca759386452b0fb3fa327f1dd3772b6fa262e95fe7bb3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8782e23bd5935c26c426f10d363f6e3a23458a1ce0e1a53503994eb8868a3123
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Algarve
 - Assembleia Geral
-- Sociedade Anónima
-- Fiscal Único
 - Capital Social
 - Centro Hospitalar do Barlavento Algarvio
+- Conselho Consultivo
 - Conselho de Administração
 - Contrato Programa
 - Criação de Serviços
 - Definição de Competências
 - Empresa Pública
-- Algarve
+- Estabelecimento Hospitalar
 - Estatuto
-- Serviço Nacional de Saúde
 - Extinção de Serviços
+- Fiscal Único
+- Gestão de Recursos Humanos
 - Gestão Hospitalar
 - Hospital Distrital
 - Hospital do Barlavento Algarvio
-- Conselho Consultivo
 - Integração de Trabalhadores
 - Lagos
 - Portimão
 - Regime de Pessoal
-- Estabelecimento Hospitalar
-- Gestão de Recursos Humanos
+- Serviço Nacional de Saúde
+- Sociedade Anónima
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:261078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261078:por
+  label: "Fundido, a partir de 01.07.2013, sob a denominação de Centro Hospitalar do Algarve, E.P.E., o Centro Hospitalar\
+    \ do Barlavento Algarvio, E.P.E., com o Hospital de Faro, E.P.E. (criado pelo Dec Lei 180/2008 de 26-ago), pelo DEC LEI.69/2013.17.05.2013.MS,\
+    \ DR.IS [95] de 17.05.2013, que os extinguiu, e determinou a sucessão daquele Centro nos direitos e obrigações dos organismos\
+    \ ora extintos. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2013-261078
+  date: '2013-05-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/2002/12/09/p/dre
   label: null
@@ -112,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:19Z'
   warnings: []
   errors: []
 ---
@@ -308,15 +340,15 @@ O primeiro regulamento interno do Centro deve ser submetido à assembleia geral 
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - Arlindo Marques da Cunha.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Estatutos
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/03000/0069200694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2017/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2017-106434233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef007a5349acc3e15fc55e68bd8ca0db97cd9b322558eccdde2e378d429ba442
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44a4dbdf05022845279cfec55b211893f34206824a0ed7662d73ce8c46f33960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Carreira Profissional
 - Comissão de Serviço
 - Direcção Geral dos Impostos
-- Carreira Profissional
+- Estágio de Formação
 - Formas de Provimento
-- Recrutamento de Pessoal
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
-- Estágio de Formação
+- Recrutamento de Pessoal
 - Remuneração
 relationships:
 - type: cites
@@ -106,15 +106,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:21Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +165,9 @@ c) (Revogada.)
 
 4 - Para efeitos do disposto no n.º 2, os funcionários referidos na alínea a) do n.º 1 podem candidatar-se a lugares de adjunto de chefe de finanças de nível I, terminando a respetiva comissão após um ano nessa função, com o consequente regresso aos lugares de origem.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -205,7 +207,9 @@ f) Maior antiguidade na função pública.
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os estágios com vista ao ingresso nas categorias dos graus 2 e 4 terão a duração de um ano, sendo constituídos por atividade prática nos serviços centrais, regionais e locais e, ainda, por formação específica adaptada às exigências funcionais dos postos de trabalho.
 
@@ -225,7 +229,9 @@ c) Classificação obtida na prova final a realizar após o período de estágio
 
 6 - (Revogado.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -243,7 +249,9 @@ c) [...].
 
 5 - Os métodos de seleção a utilizar para a admissão ao curso, a sua duração e conteúdo, bem como a avaliação dos formandos, são definidos por despacho do membro do Governo responsável pela área dos assuntos fiscais.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -251,7 +259,9 @@ c) [...].
 
 3 - Nos serviços locais, as dotações das carreiras de técnico de administração tributária e de técnico de administração tributária-adjunto são globais.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Os funcionários que sejam nomeados para cargos de chefia tributária integram-se na escala indiciária própria dos referidos cargos, em escalão idêntico ao que possuem na escala indiciária da categoria de origem, sem prejuízo do disposto nos números seguintes.
 
@@ -279,12 +289,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 31 de janeiro de 2017.**
+Promulgado em 31 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2017.**
+Referendado em 6 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

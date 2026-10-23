@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/1992/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1992-292498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4574970278b79881080eb85d24c7b6cf4fc1a16f0583b36ddcedb8569bc4fd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40e6567a2f425dae37ec8ab5b486b92b8b0312156440f08e9826146445d5daae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,100 @@ relationships:
   target: pt:dre:1512045:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECLARAÇÃO RECTIFICCAO 185/92, PUBLICADA NO DR.IS-B, 252 3SUPL.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO NACIONAL DE PENSÕES, PELO DESPACHO NORMATIVO 196/94, DE 3 DE MARCO, PUBLICADO
+    NO DR.IS-B, 71, DE 940325.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-25'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 212/94, DE 7 DE MARCO, PUBLICADO NO DR.IS-B, 76, DE 940331.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO NACIONAL DE PENSÕES, PELO DESPACHO NORMATIVO 258/94, DE 17 DE MARCO, PUBLICADO
+    NO DR.IS.B, 93, DE 940421.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO CENTRO NACIONAL DE PENSÕES, PELO DESPACHO NORMATIVO 314/94, DE 12 DE ABRIL, PUBLICADO
+    NO DR.IS-B, 107, DE 940509.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELO DESPACHO NORMATIVO 341/94, DE 12 DE ABRIL, PUBLICADO NO DR.IS-B, 111, DE 940513.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-13'
+- type: amended_by
+  target: pt:dre:239457:por
+  label: "Alterados os artºs 2.º, 9.º, 10.º, 11.º, 12.º, 17.º, 19.º, 21.º e 22.º, aditado o art. 17.º-A e revogado o art.\
+    \ 29.º pelo DR.1/98.1998.01.19.MTS DR.IS-B [15]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1998-239457
+  date: '1998-01-19'
+- type: amended_by
+  target: pt:dre:424337:por
+  label: "Alterado o quadro de pessoal pela PORT.414/98.1998.07.20.PCM, DR.IS-B [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-1998-424337
+  date: '1998-07-20'
+- type: amended_by
+  target: pt:dre:1958746:por
+  label: "Alterado pela , 20-JulPORT.1453/2000(2ªSÉRIE).2000.09.08.MTS, DR. IIS [224] de 27/Set/2000, com as alterações introduzidas\
+    \ pela Port 414/98 de 20-Jul\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1453-2000-1958746
+  date: '2000-09-08'
+- type: amended_by
+  target: pt:dre:1512048:por
+  label: "Alterado pela PORT.1009/2003(2ªSÉRIE).2003.07.17.MF, MSST, DR.IIS [176] de 1/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1009-2003-1512048
+  date: '2003-07-17'
+- type: amended_by
+  target: pt:dre:1512045:por
+  label: "Alterado o quadro de pessoal pela PORT.1006/2003(2ªSÉRIE).2003.07.17.MF e MTSS, DR.IIS [176] de 1/Ago/2003. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1006-2003-1512045
+  date: '2003-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/1992/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/1992/05/23/p/dre
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:51Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +225,9 @@ m) Serviços de Tradução.
 
 A Direcção de Serviços Administrativos e de Pessoal compreende a Divisão de Gestão de Pessoal, a Repartição de Administração de Pessoal, a Repartição de Expediente e Arquvio, a Repartição de Aprovisionamento e Património e o Gabinete de Apoio Técnico.
 
-###### Artigo 4.º — Divisão de Gestão de Pessoal
+###### Artigo 4.º
+
+##### Divisão de Gestão de Pessoal
 
 Compete à Divisão de Gestão de Pessoal:
 
@@ -271,7 +353,9 @@ Compete ao Gabinete de Apoio Técnico assegurar o apoio técnico aos projectos d
 
 A Direcção de Serviços Financeiros e Contabilidade compreende a Divisão de Gestão Financeira e de Contabilidade, os Serviços de Recuperação de Pretações Indevidas e os Serviços de Tesouraria.
 
-###### Artigo 10.º — Divisão de Gestão Financeira e de Contabilidade
+###### Artigo 10.º
+
+##### Divisão de Gestão Financeira e de Contabilidade
 
 Compete à Divisão de Gestão Financeira e de Contabilidade:
 
@@ -337,7 +421,9 @@ e) Assegurar as ligações com as instituições bancárias.
 
 A Direcção de Serviços de Organização, Planeamento e Gestão compreende a Divisão de Organização, a Divisão de Planeamento e Gestão e o Núcleo de Tratamento da Informação.
 
-###### Artigo 14.º — Divisão de Organização
+###### Artigo 14.º
+
+##### Divisão de Organização
 
 Compete à Divisão de Organização:
 
@@ -355,7 +441,9 @@ f) Propor acções de formação, a nível nacional, na área de pensões;
 
 g) Colaborar no estudo de novas rotinas informáticas e acompanhar a sua aplicação.
 
-###### Artigo 15.º — Divisão de Planeamento e Gestão
+###### Artigo 15.º
+
+##### Divisão de Planeamento e Gestão
 
 Compete à Divisão de Planeamento e Gestão:
 
@@ -403,7 +491,9 @@ g) Comunicar situações de processamento indevido de prestações.
 
 A Direcção dos Serviços de Informática compreende a Divisão de Análise e Desenvolvimento de Aplicações, a Divisão de Apoio e Exploração e a Secção de Apoio Documental.
 
-###### Artigo 18.º — Divisão de Análise e Desenvolvimento de Aplicações
+###### Artigo 18.º
+
+##### Divisão de Análise e Desenvolvimento de Aplicações
 
 Compete à Divisão de Análise e Desenvolvimento de Aplicações:
 
@@ -417,7 +507,9 @@ d) Preparar os manuais do utilizador;
 
 e) Participar e promover, em colaboração com os serviços de pessoal, acções de formação no domínio da informática.
 
-###### Artigo 19.º — Divisão de Apoio e Exploração
+###### Artigo 19.º
+
+##### Divisão de Apoio e Exploração
 
 Compete à Divisão de Apoio e Exploração:
 
@@ -435,7 +527,9 @@ f) Estabelecer ligação com os utentes no que respeita às aplicações inform�
 
 g) Assegurar a gestão da rede informática de telecomunicações.
 
-###### Artigo 20.º — Secção de Apoio Documental
+###### Artigo 20.º
+
+#### Secção de Apoio Documental
 
 Compete à Secção de Apoio Documental:
 
@@ -535,7 +629,9 @@ o) Comunicar ao serviço de contra-ordenações os ilícitos detectados.
 
 4 - Cabe às secções de benefícios diferidos da área internacional exercer todas as competências descritas no n.º 1, de acordo com as terminações numéricas que lhes forem atribuídas.
 
-###### Artigo 26.º — Divisão de Relações Públicas e Documentação
+###### Artigo 26.º
+
+##### Divisão de Relações Públicas e Documentação
 
 A Divisão de Relações Públicas e Documentação compreende um Gabinete de Relações Públicas e Documentação e quatro centros de atendimento de público.
 
@@ -567,7 +663,9 @@ b) Prestar informações orais e escritas a beneficiários, utentes e, de um mod
 
 2 - Cada centro de atendimento é chefiado por um chefe de secção.
 
-###### Artigo 29.º — Divisão de Auditoria
+###### Artigo 29.º
+
+##### Divisão de Auditoria
 
 A Divisão de Auditoria funciona na dependência directa do conselho directivo.
 
@@ -617,23 +715,23 @@ Presidência do Conselho de Ministros, 30 de Março de 1992.
 
 Joaquim Fernando Nogueira - Jorge Braga de Macedo - José Albino da Silva Peneda.
 
-**Promulgado em 17 de Junho de 1992.**
+Promulgado em 17 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Junho de 1992.**
+Referendado em 19 de Junho de 1992.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf))](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
 
 Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
 
 Aplicação da [Portaria n.º 820/89](https://diariodarepublica.pt/dr/detalhe/portaria/820-1989-547609), de 15 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf))](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/167b00/34253434.pdf)
 
 ## ANEXO II — Formação dos operadores de telecomunicações
 

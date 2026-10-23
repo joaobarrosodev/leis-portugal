@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/346/1997/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1997-402731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84c34474efa5b6a3380593272e82e7e6576fed949d2b0671bcc6e722c8db0af7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 844f5e5d6c0a93075f28bf2e696c5942149c6f2304500f49fbe65deb84931730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Garantia
-- Governo Regional
-- Realojamento
-- Faro
-- Catástrofe
-- Habitação Social
-- Instituto Nacional de Habitação
-- Governo Civil
-- Beja
-- Habitação
-- Évora
 - Açores
 - Autarquia Local
+- Beja
+- Catástrofe
+- Évora
+- Faro
+- Financiamento
+- Garantia
+- Governo Civil
+- Governo Regional
+- Habitação
+- Habitação Social
+- Instituto Nacional de Habitação
+- Realojamento
 relationships:
 - type: amended_by
   target: pt:dre:292914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292914:por
+  label: "Alterados os arts 2º, 3º, 6º, 7º, 8º, 9º, 10º, 11º e 12º pelo DEC LEI.136-A/98.1998.05.15.MEPAT, DR.IS-A [112]Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-a-1998-292914
+  date: '1998-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1995/07/29/p/dre
   label: null
@@ -94,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/500/1997/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/500/1997/07/21/p/dre
+- type: cites
+  target: pt:dre:147421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:11Z'
   warnings: []
   errors: []
 ---
@@ -204,16 +226,16 @@ A aplicação do regime constante do presente diploma à Região Autónoma dos A
 
 ###### Artigo 14.º — Disposição final
 
-**O Ministro do Equipamento, do Planeamento e da Administração do Território fixará as orientações e definirá as acções complementares que se revelem necessárias para a boa execução deste diploma.**
+O Ministro do Equipamento, do Planeamento e da Administração do Território fixará as orientações e definirá as acções complementares que se revelem necessárias para a boa execução deste diploma.
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - José Manuel da Costa Monteiro Consiglieri Pedroso.
 
-**Promulgado em 19 de Novembro de 1997.**
+Promulgado em 19 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 1997.**
+Referendado em 24 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

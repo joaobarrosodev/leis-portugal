@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/2001/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2001-570099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd2b18a8ae87765c774a5d8c1d9599365b0607a84ea36597a0eae672d1b1911
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9339ae73805c5e9af760b2cd17558bc50f787a3d75720234a6ac949a029972ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contribuições e Impostos
-- IVA
 - Isenção Fiscal
+- IVA
 - Missão Diplomática
-- Restituição de Impostos
 - Organismo Internacional
+- Restituição de Impostos
 relationships:
 - type: amended_by
   target: pt:dre:75069302:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterado o art. 3.º do Dec Lei 185/86, de 14-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º 41/2016
+    - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1998/04/24/p/dre
   label: null
@@ -93,16 +99,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:176331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574957:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:06Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +169,7 @@ Os artigos 2.º e 3.º-A do [Decreto-Lei n.º 143/86](https://diariodarepublica.
 
 Têm direito à restituição do imposto e à isenção regulada no n.º 1 do artigo 3.º-A as representações diplomáticas e consulares e o seu pessoal que em Portugal não exerça outra actividade profissional remunerada, com excepção dos cônsules honorários e dos funcionários de nacionalidade portuguesa.
 
-###### Artigo 3.º-A
+Artigo 3.º-A
 
 1 - No caso de veículos automóveis, independentemente de estarem em causa aquisições no mercado nacional, aquisições intracomunitárias ou importações, a isenção de imposto será concedida até aos seguintes limites:
 
@@ -171,12 +209,12 @@ O artigo 3.º do [Decreto-Lei n.º 185/86](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 8 de Novembro de 2001.**
+Promulgado em 8 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2001.**
+Referendado em 9 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

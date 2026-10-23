@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1999-331074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d387d8698521cedb723c1d1e15cf3c3449bd56ba6f02474480d23d80b14f08d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc48393840570d45a997162ffea0b450e9507b9d9b68cc88c0c1790950c91e7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,36 +73,36 @@ subjects:
 - Aproximação das Legislações
 - Assistência Mútua
 - Autoridade Central
-- Financiamento
+- Base de Dados
 - CE Países
-- Inspeção Geral de Finanças
 - Combate à Fraude
+- Comissão CE
 - Comunidade Europeia
 - Concurso Público
+- Confidencialidade
 - Controlo Aduaneiro
+- Dados Pessoais
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direito à Informação
 - Direito Comunitário
+- Estatística
+- Exportação
 - Feoga-garantia
-- Informática
+- Financiamento
 - Fiscalização
 - Fraude Fiscal
 - Fundos CE
-- Comissão CE
-- Pagamento
-- Instituto Nacional de Intervenção e Garantia Agrícola
-- Base de Dados
+- Informática
+- Inspeção Geral de Finanças
 - Instituto da Vinha e do Vinho
-- Segurança da Informação
-- Direito à Informação
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Pagamento
 - Pessoa Coletiva
 - Pessoa Singular
-- Sistema de Informação
-- Exportação
-- Estatística
-- Confidencialidade
 - Segredo Profissional
-- Dados Pessoais
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:31991R0595
@@ -119,13 +119,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:30Z'
   warnings: []
   errors: []
 ---
@@ -356,12 +356,12 @@ A informação pode ser divulgada para fins de estatística, mediante autorizaç
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Luís Manuel Capoulas Santos.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

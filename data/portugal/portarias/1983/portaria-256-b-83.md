@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 53/1983, 1º Suplemento, Série I de 1983-03-05
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 828-(2) a 828-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05301/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-b-1983-667303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c96123e7fdaa55b20f8d36f1f2cbe6ca1badb7126d973d79619a4df8bf762ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 392898414e60bf91aae6e720440eaf58ea5cc618c790e79b636cd190faca5894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Comércio
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:627021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165228:por
+  label: Rectificada pela DECL.DD3786.1983.03.28.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165228
+  date: '1983-03-28'
+- type: corrected_by
+  target: pt:dre:423418:por
+  label: Rectificada pela DECL.DD5948.30.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423418
+  date: '1983-05-30'
+- type: repealed_by
+  target: pt:dre:627021:por
+  label: "Revogada pela PORT.714-D/83.23.06.1983.MFP, DR.IS [142]Supl de 23.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-d-1983-627021
+  date: '1983-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:35:42Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +211,4 @@ Secretarias de Estado do Orçamento e do Comércio, 3 de Março de 1983. - O Sec
 
 Tabela de variação do preço da rama a que se refere o n.º 4 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05301/00020003.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05301/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05301/00020003.pdf)

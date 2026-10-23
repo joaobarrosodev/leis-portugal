@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14400/08630864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-1975-337190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed23e4d8bd272c77bae4e89a638da1c01e5dddccb11d2ac43a6e9a27bd9b042b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a5a5aa470ae61da2f52d0858d6a7fe06f65c6c83191aea4d8927d24e997d9f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:245537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:45:29Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +120,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 1.º A alínea b) do artigo 131.º do EOA e o corpo do artigo 132.º do mesmo Estatuto passam a ter a seguinte redacção:
 
-###### Art. 131.º ...
+Art. 131.º ...
 
 a) ...
 
@@ -108,13 +130,13 @@ c) ...
 
 § único. ...
 
-###### Art. 132.º A promoção por antiguidade tem lugar na promoção ao posto de capitão-de-fragata das classes de marinha, engenheiros construtores navais, médicos navais, farmacêuticos navais, engenheiros maquinistas navais, administração naval, engenheiros de material naval, serviço especial e fuzileiros.
+Art. 132.º A promoção por antiguidade tem lugar na promoção ao posto de capitão-de-fragata das classes de marinha, engenheiros construtores navais, médicos navais, farmacêuticos navais, engenheiros maquinistas navais, administração naval, engenheiros de material naval, serviço especial e fuzileiros.
 
 § único. ...
 
 2.º É acrescentado ao artigo 169.º do já referido Estatuto um § único, com a seguinte redacção:
 
-###### Art. 169.º ...
+Art. 169.º ...
 
 § único. O diploma de promoção deve conter menção expressa da data a partir da qual são devidos os vencimentos do novo posto, a qual coincidirá com a da respectiva antiguidade, salvo nos casos de antecipação desta, em que os vencimentos são devidos a partir da data a fixar no referido diploma.
 

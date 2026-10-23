@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02100/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2021/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2021-155938993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7cd7e99481d72caa593a3d414d82869b6ae93714d0ef91765c0ca1293551010
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47226c143f5cc3f1f4e44a66dbdd1ca7b551df95a4e0a428d6b531459ed656f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Contrato Individual de Trabalho
 - Administração Pública
+- Contrato Individual de Trabalho
+- Função Pública
+- Funcionário Público
 - Lei Geral do Trabalho em Funções Públicas
 - Política de Emprego
 - Remuneração
-- Funcionário Público
 - Tabela Salarial
 - Trabalhador por Conta de Outrem
 relationships:
@@ -96,16 +96,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:130473160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175595603:por
+  label: Revogado, com efeitos a 01.01.2022, o presente diploma, pelo(a) Decreto-Lei n.º 109-A/2021 - Diário da República
+    n.º 236/2021, 1º Suplemento, Série I de 2021-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-a-2021-175595603
+  date: '2021-12-07'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:45Z'
   warnings: []
   errors: []
 ---
@@ -184,12 +210,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 26 de janeiro de 2021.**
+Promulgado em 26 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de janeiro de 2021.**
+Referendado em 27 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113926585

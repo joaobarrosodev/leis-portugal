@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1997-476740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 205a1b8752dd4307ed67c577b2ba69cd91dc76807dd032195ebd4df856c3a6d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3ddc7af58242aa0298079b01b6e35fe9ac1ca9d4b0b58d54e734774a333bb7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Educador de Infância
 - Carreira Profissional
+- Educador de Infância
+- Ensino Básico
+- Formação Profissional
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterados os artigos 56.º e 57.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos\
+    \ Básico e Secundário, aprovado pelo Dec Lei 139-A/90, de 28-Abr, na redacção do presente diploma, pelo DEC LEI.15/2007.19.01.2007.ME,\
+    \ DR.IS [14] de 19.01.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:44Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +156,9 @@ j) Inspecção da Educação.
 
 4 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Ministro da Educação.
 
-###### Artigo 57.º — Exercício de outras funções educativas
+Artigo 57.º
+
+Exercício de outras funções educativas
 
 1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efectivo dessas mesmas funções quando para tal tenha sido eleito ou designado, salvo nos casos em que, por despacho do Ministro da Educação, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.
 
@@ -157,12 +174,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Abril de 1997.**
+Promulgado em 4 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 1997.**
+Referendado em 14 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

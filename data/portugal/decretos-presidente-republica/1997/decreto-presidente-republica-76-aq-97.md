@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/1997, 1º Suplemento, Série I-A de 1997-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6754-(10) a 6754-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/294a01/00100010.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/76-aq/1997/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/76-aq-1997-189882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19d676ceed8de66ebd60b1d6044e962465ffa556c9cd0103deefe28c623a851a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 389801fba2141f7f6e6b942cd764897e3a68e19f08aea71900487af23a24f382
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:147375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147375:por
+  label: "Estabelecidas condições ao indulto concedido pelo DEC.1-A/98.1998.01.07.PR DR.IS-A [5]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/1-a-1998-147375
+  date: '1998-01-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:55Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +94,16 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena acessória de expulsão do País aplicada a Francisco Cunha Monteiro, de 34 anos de idade, no processo n.º 291/94 do Juízo Auxiliar do Tribunal de Círculo de Portimão é revogada, por indulto.
 
-**Assinado em 22 de Dezembro de 1997.**
+Assinado em 22 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 1997.**
+Referendado em 22 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/296a00/84198429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/335/2001/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0683167c162ad687acca146175f82ca749704a2d87551f6f52f793f107cc1618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f7f856f40387172501946ea96e5de4009c57093565b85ae6294fa9fab3f2824
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Água
-- Sociedade Anónima
+- Aproveitamento Hidroagrícola
 - Barragem de Pedrógão
+- Barragem do Alqueva
 - Barragem dos Álamos
-- Recursos Hídricos
 - Definição de Competências
 - EDIA
 - Estatuto
-- Aproveitamento Hidroagrícola
 - Preço
-- Barragem do Alqueva
-- Abastecimento de Água
+- Recursos Hídricos
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:517806:por
@@ -125,16 +125,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1996/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1996/01/23/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517806:por
+  label: "Revogado o Dec Lei 32/95 de 11-Fev, com a redacção conferida no presente diploma, pelo DEC LEI.42/2007.22.02.2007.MADRP,\
+    \ DR.IS [38] de 22.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2007-517806
+  date: '2007-02-22'
 article_structure:
-  article_count: 53
+  article_count: 52
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:00Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +249,7 @@ e) Rede secundária, a qual integra as infra-estruturas de captação, adução 
 
 4 - A utilização das redes primária e secundária para o fornecimento de água para fins domésticos e industriais será definida, caso a caso, pelo Ministro do Ambiente e do Ordenamento do Território.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A gestão, exploração, manutenção e conservação das infra-estruturas integrantes do sistema primário do empreendimento é concedida a uma sociedade que reveste a natureza de sociedade anónima de capitais exclusivamente públicos.
 
@@ -285,15 +347,15 @@ Os Decretos-Leis n.os [32/95](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Dezembro de 2001.**
+Promulgado em 7 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Dezembro de 2001.**
+Referendado em 13 de Dezembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [Decreto-Lei n.º 32/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146)
 

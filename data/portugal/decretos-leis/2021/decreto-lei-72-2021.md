@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15800/0001700029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2021/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2021-169602021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1bf7d8cacb08384f53490a1dbfe4bd095142908aa050566faa0ed181a70faea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac389783c551675c3edc6caccac8fb1bd4c4003de60250909b386b9d9805cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
-- BENS Imóveis
-- Empreendedorismo
 - Aproximação das Legislações
 - Aquisição de Imóveis
 - Aquisição de Solos
-- Valores Mobiliários
-- Sociedade Anónima
-- Sociedade Comercial
-- Supervisão Financeira
+- Aquisição de Títulos
 - Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- BENS Imóveis
+- CMVM
+- Empreendedorismo
 - Fundo de Capital de Risco
 - Fundo de Investimento
 - Fundos CE
+- Instituição Financeira
 - Investimento
 - Organismo de Investimento Colectivo
 - Regime Jurídico
 - Regulamento CE
-- CMVM
-- Instituição Financeira
+- Sociedade Anónima
+- Sociedade Comercial
 - Sociedade de Capital de Risco
 - Sociedade de Gestão e Investimento Imobiliário
 - Sociedade de Investimento
-- Aquisição de Títulos
-- Arrendamento Urbano para Habitação
-- Sociedade de Investimento Mobiliário para Fomento da Economia
 - Sociedade de Investimento e Gestão Imobiliária
+- Sociedade de Investimento Mobiliário para Fomento da Economia
+- Supervisão Financeira
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:32011L0061
@@ -158,15 +158,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 37
+  article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:26Z'
   warnings: []
   errors: []
 ---
@@ -263,7 +263,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 8.º, 9.º, 12.º, 13.º e 14.º do Decreto-L
 
 9 - Os municípios podem ser titulares de ações representativas do capital social das SIMFE ainda que estas não invistam exclusivamente em empresas sediadas nos respetivos municípios, nos termos da legislação aplicável.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Uma parcela não inferior a 50 % do investimento das SIMFE deve ser aplicada em empresas elegíveis.
 
@@ -275,7 +277,9 @@ b) Empresas emitentes de ações admitidas à negociação em mercado regulament
 
 c) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -295,7 +299,9 @@ b) (Revogada.)
 
 3 - As SIMFE podem deter instrumentos financeiros e ativos em contitularidade com outras entidades de natureza pública ou privada.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - À exceção do primeiro ano de seleção de ativos de empresas elegíveis, a SIMFE não pode investir mais de 30 % dos seus ativos em ativos emitidos por uma única empresa elegível ou por várias empresas elegíveis em relação de grupo, ou em créditos detidos sobre uma única empresa elegível ou sobre várias empresas elegíveis em relação de grupo.
 
@@ -309,7 +315,9 @@ b) (Revogada.)
 
 6 - É vedado às SIMFE adquirir por sua conta bens imóveis, salvo os necessários à instalação das suas próprias atividades ou os adquiridos em resultado da execução de garantias associadas a créditos detidos pela SIMFE ou quando sejam objeto de dação em cumprimento pelo respetivo devedor.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os membros do órgão de administração e de fiscalização da SIMFE são pessoas com idoneidade e experiência comprovadas.
 
@@ -319,7 +327,9 @@ b) (Revogada.)
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As SIMFE prestam anualmente à CMVM informações sobre os principais instrumentos em que negoceiam, o crédito concedido, as principais posições de risco e as concentrações mais importantes da carteira própria que gerem, nos termos a fixar através de regulamento da CMVM.
 
@@ -327,11 +337,15 @@ b) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Às SIMFE não é aplicável o disposto no Código dos Valores Mobiliários em matéria de ofertas públicas de aquisição.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -343,7 +357,9 @@ b) (Revogada.)
 
 5 - Sem prejuízo do disposto no presente capítulo, não é aplicável às SIMFE o disposto no n.º 4 do artigo 5.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Compete à CMVM a supervisão e regulamentação do disposto no presente capítulo, dispondo para o efeito das competências e poderes previstos no Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado e no Código dos Valores Mobiliários.»
 
@@ -371,15 +387,15 @@ O presente decreto-lei entra em vigor no dia 1 de setembro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 8 de julho de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 9 de agosto de 2021.**
+Promulgado em 9 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2021.**
+Referendado em 12 de agosto de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -637,15 +653,21 @@ Os artigos 1.º, 6.º, 10.º e 17.º do [Decreto-Lei n.º 69/2004](https://diari
 
 2 - São papel comercial os valores mobiliários representativos de dívida emitidos por prazo igual ou inferior a 397 dias.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Salvo disposição legal em contrário, é proibida a emissão de valores mobiliários de natureza monetária de prazo igual ou inferior a 397 dias que não cumpram o disposto no presente diploma.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O papel comercial é nominativo e deve observar a forma escritural.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -708,3 +730,5 @@ O artigo 21.º do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n
 ###### Artigo 19.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor a 1 de julho de 2017.
+
+114495026

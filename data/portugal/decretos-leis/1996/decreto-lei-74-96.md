@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/139a00/15541559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1996-435397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 445a67db59e633f3e533207f1097cb02756d39e980a9a4a053824daaee1e2985
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fd4ed4be181431ed5d84a6896070cfb389ad862e89abe844bc15dde4271a194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência do Controle das Ajudas Comunitárias ao Sector do Azeite
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Auditor de Ambiente
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Auditoria Jurídica
 - Conselho Nacional de Agricultura do Desenvolvimento Rural e das Pescas
-- Direção Geral de Veterinária
 - Criação de Serviços
+- Direção Geral de Veterinária
 - Direcção Geral das Florestas
 - Direcção Geral das Pescas
 - Direcção Geral das Pescas e Aquicultura
 - Direcção Geral de Desenvolvimento Rural
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Geral de Hidráulica Engenharia Rural e Ambiente
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura da Beira Interior
@@ -91,7 +90,7 @@ subjects:
 - Extinção de Serviços
 - Gabinete de Planeamento e Política Agro-alimentar
 - Gabinete dos Assuntos Europeus
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Ifadap
 - Inspecção Geral das Pescas
 - Inspecção Geral e Auditoria de Gestão
 - Instituto da Vinha e do Vinho
@@ -101,22 +100,87 @@ subjects:
 - Instituto do Vinho do Porto
 - Instituto dos Mercados Agrícolas e Indústria Agro-alimentar
 - Instituto Florestal
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Instituto Nacional de Investigação Agrária
 - Instituto Português de Investigação Marítima
 - Integração de Trabalhadores
-- Auditoria Jurídica
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Ifadap
+- Saúde Animal
 - Serviço Regional
-- Instituto Nacional de Investigação Agrária
 - Transferência de Competências
 - Transferência Patrimonial
-- Saúde Animal
 relationships:
 - type: amended_by
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:347305:por
+  label: "Alterado o nº 2 do art. 4º, a al. b) do art 8º, o art. 21º e o quadro de pessoal anexo, e aditada a al. n) ao art\
+    \ 8º, pelo Dec Lei 128/97.1997.05.24.MADRP, DR.IS-A [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1997-347305
+  date: '1997-05-24'
+- type: amended_by
+  target: pt:dre:632398:por
+  label: "Alterado o artigo 8.º, com a redacção que lhe foi dada no artigo 2.º do Decreto-Lei n.º 128/97, de 24 de Maio, pelo\
+    \ DEC LEI.526/99.1999.12.10.MADRP, DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/526-1999-632398
+  date: '1999-12-10'
+- type: amended_by
+  target: pt:dre:339837:por
+  label: "Extinta, a partir da entrada em vigor da lei orgânica da Agência para a Qualidade Alimentar, a Direcção Geral de\
+    \ Fiscalização e Controlo da Qualidade Alimentar, bem como a Direcção de Serviços de Higiene Pública Veterinária e a Divisão\
+    \ de Alimentação Animal da Direcção Geral de Veterinária, pelo DEC LEI.180/2000.2000.08.10.PCM DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-2000-339837
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 7º, 8º, 10º, 11º, 13º, 15º, 16º, 17º, 18º, 19º, 20º, 21º e 22º e republicado\
+    \ na integra pelo DEC LEI.246/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:218544:por
+  label: "Alterado o art. 4.&#186; (na redac&#231;&#227;o do Dec Lei 128/97, de 27-Mai e do Dec Lei 246/2002, de 08-Nov),\
+    \ o art. 8.&#186; (na redac&#231;&#227;o do Dec Lei 128/97, de 27-Mai, do Dec Lei 526/99, de 10-Dez e do Dec Lei 246/2002,\
+    \ de 08-Nov) e o quadro de pessoal (na redac&#231;&#227;o do Dec Lei 128/97, de 27-Mai) do presente diploma, pelo DEC\
+    \ LEI.80/2004.10.04.2004.MADRP, DR.IS-A [85] de 10.04.2004 e determinada, nos termos do art. 19.&#186; deste diploma a\
+    \ sucess&#227;o de bens, direitos e obriga&#231;&#245;es da DGF e das direc&#231;&#245;es regionais de agricultura em\
+    \ mat&#233;ria florestal para a DGRF\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério da Agricultura, Pescas e Florestas, agora criado, dos serviços e organismos\
+    \ compreendidos no ora extinto Ministério da Agricultura do Desenvolvimento Rural e das Pescas, cuja orgânica foi aprovada\
+    \ no presente diploma, DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004, nos termos do seu art. 18º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Alterada a denominação para Ministério da Agricultura, do Desenvolvimento Rural e das Pescas do Ministério da Agricultura,\
+    \ Pescas e Florestas, cuja orgânica consta no presente diploma, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:667535:por
+  label: "Alterados a al. c) do art. 8º e o quadro de pessoal anexo e, revogadas a al. l) do nº 2 do art. 4º e a al. m) do\
+    \ art. 8º, todos do presente diploma, com as alterações que lhe foram introduzidas pelos Dec Lei 128/97 de 24-Mai, 526/99\
+    \ de 10-Dez, 246/2002 de 08-Nov e 80/2004 de 10-Abr, pelo DEC LEI.68/2006.23.03.2006.MADRP, DR.IS-A [59] de 23.03.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2006-667535
+  date: '2006-03-23'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta a Direção-Geral das Pescas e Aquicultura, criada no presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/331/1995/12/21/p/dre
   label: null
@@ -125,16 +189,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1993/04/02/p/dre
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335901:por
+  label: "Revogado o art. 3º pelo DEC LEI.166/2000.2000.08.05.MADRP, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2000-335901
+  date: '2000-08-05'
+- type: repealed_by
+  target: pt:dre:545637:por
+  label: "Revogado o presente diploma e determinada a extinção, sendo objecto de fusão: - o Gabinete de Planeamento e Política\
+    \ Agro-Alimentar e o Auditor de Ambiente, sendo as suas atribuições integradas no Gabinete de Planeamento e Políticas;\
+    \ - a Direcção-Geral de Protecção de Culturas sendo as suas atribuições integradas na Direcção-Geral de Agricultura e\
+    \ Desenvolvimento Rural e no Instituto Nacional de Recursos Biológicos, I.P., nos termos da al. c) do nº 2 do art. 21.º\
+    \ e - a Escola de Pesca e da Marinha do Comércio, sendo as suas atribuições integradas na Direcção-Geral das Pescas e\
+    \ Aquicultura e em entidade a definir em diploma próprio, em articulação com o Ministério do Trabalho e da Solidariedade\
+    \ Social, nos termos da al. g) do nº 2 do art. 21º. É reestruturada a Direcção-Geral de Veterinária, com as atribuições\
+    \ da área alimentar integradas no Gabinete de Planeamento e Políticas, pelo DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208]\
+    \ de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:01Z'
   warnings: []
   errors: []
 ---
@@ -459,16 +553,16 @@ São revogados os Decretos-Leis n.os [94/93](https://diariodarepublica.pt/dr/det
 
 Visto e aprovado em Conselho de Ministros de 9 de Maio de 1996. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Junho de 1996.**
+Promulgado em 4 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Junho de 1996.**
+Referendado em 6 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O ARTIGO 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/139a00/15541559.pdf))](https://files.diariodarepublica.pt/1s/1996/06/139a00/15541559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/139a00/15541559.pdf)

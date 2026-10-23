@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20100/0003400039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/2023/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 164560bca629316a4dc38e88973204b5bb93db1b575bf15a58488488ebaeb1ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f20dada6e7dc79fd1c7ca9dd9765fae0e1a4e56693836c702069e851c7c36be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
-- Conselho Consultivo da Juventude
-- Orgânica
 - Associativismo Juvenil
-- Política de Juventude
+- Conselho Consultivo da Juventude
+- Juventude
+- Orgânica
 - Plano Nacional para a Juventude
+- Política de Juventude
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
@@ -112,16 +112,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/77/2022/09/13/p/dre
+- type: cites
+  target: pt:dre:116330692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123770987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124044598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151036061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200907658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69773245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:13Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +304,7 @@ g) [...]
 
 3 - [...]
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - [...]
 
@@ -268,7 +324,7 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - [...]
 
@@ -292,15 +348,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de setembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Catarina Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 7 de outubro de 2023.**
+Promulgado em 7 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de outubro de 2023.**
+Referendado em 11 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -433,3 +489,5 @@ f) Estabelecer processos de diálogo estruturado.
 ###### Artigo 5.º
 
 São revogados os Decretos-Leis n.os [280/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1991-679832), de 9 de agosto, e [381/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1987-499488), de 18 de dezembro.
+
+116944629

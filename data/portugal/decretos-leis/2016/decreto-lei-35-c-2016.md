@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2032-(7) a 2032-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12401/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35-c/2016/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe3bafcab74d7bc31b7f8e085241d23383f2fec82b3de986ee218a9ad78cbddd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01dca850b3e6733a55ab0532ae9977697ac0eb3e529b9e25d1e7401370ac8213
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Instituto da Segurança Social
+- Cobrança de Dívidas
 - Definição de Competências
 - Dívidas à Segurança Social
+- Instituto da Segurança Social
 - Pagamento
 - Pagamento a Prestações
 - Pagamento de Contribuições
-- Cobrança de Dívidas
 - Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:122747583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os arts. 3.º, 5.º do Dec Lei 213/2012 de 25-set, na
+    redação do presente diploma, pelo(a)Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2015/07/07/p/dre
   label: null
@@ -100,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/1-a/2011/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/1-a/2011/01/03/p/dre
+- type: cites
+  target: pt:dre:175525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:01Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +218,9 @@ b) O contribuinte não ter, à data do requerimento, dívida de contribuições 
 
 2 - Os acordos de regularização voluntária só podem ser autorizados pelo ISS, I. P., a cada entidade contribuinte, uma vez em cada período de 12 meses, contado a partir da data em que se tenha verificado o seu termo ou resolução.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os planos prestacionais previstos nos artigos anteriores devem ser celebrados nos seguintes termos:
 
@@ -206,7 +234,9 @@ a) (euro) 3060 para pessoas singulares;
 
 b) (euro) 15 300 para pessoas coletivas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O cumprimento do acordo, bem como o pontual pagamento das contribuições e quotizações mensais, permitem a emissão de declaração de situação contributiva regularizada, com o prazo de validade previsto no artigo 84.º do [Decreto Regulamentar n.º 1-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905), de 3 de janeiro.»
 
@@ -236,12 +266,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 28 de junho de 2016.**
+Promulgado em 28 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2016.**
+Referendado em 30 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

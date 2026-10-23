@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/282-1980-469798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:03:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b61ed0e5e3eb8b22dc1b499d3dbdbfb00a5a27017d183e2bf19215be2fe474b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45b5e31740afbf460c009dd006b7e0c4ddc3fa9efd122179d6e09a515c9544c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:03:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Capital Social
+- IPE
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:03:03Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +90,6 @@ Na sequência do disposto na Resolução do Conselho de Ministros n.º 215/80, d
 
 2.º A dotação a que se refere o número anterior será aplicada em aumentos de capital de empresas participadas e em novos projectos apoiados pelo IPE, como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19600/23772377.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19600/23772377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19600/23772377.pdf)
 
 Ministério das Finanças e do Plano, 5 de Agosto de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.

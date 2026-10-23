@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/59/2016/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2016-75222134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb29ff23bb14386006313545bc209be286fd65264fd0c43cf41ea8a4b4b38c2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63653428f9f86f138eac383d30907e07bc5f8cc73ba1717f8fd4407e7abf5b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fabrico Industrial
+- Instalações Radioelétricas
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
@@ -152,6 +152,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/381/2000/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/381/2000/06/28/p/dre
+- type: cites
+  target: pt:dre:167386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58815312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348948:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado com a entrada em vigor dos atos de execução referidos no n.º 2 do art. 35.º da Diretiva n.º 2014/90/UE,
+    do Parlamento Europeu e do Conselho, de 23 de julho, pelo(a) Decreto-Lei n.º 63/2017 - Diário da República n.º 112/2017,
+    Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 - type: transposes
   target: celex:31996L0098
   label: null
@@ -169,15 +224,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:22Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +283,9 @@ Autoridade notificadora e organismos notificados
 
 4 - A autoridade notificadora deve notificar a Comissão e os Estados membros das designações efetuadas, bem como de qualquer alteração nessa matéria.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete ao IPAC, I. P., enquanto organismo nacional de acreditação, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 23/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2011-279775), de 11 de fevereiro, a avaliação, controlo e acompanhamento dos organismos notificados.
 
@@ -248,15 +305,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - Ana Paula Mendes Vitorino.
 
-**Promulgado em 9 de agosto de 2016.**
+Promulgado em 9 de agosto de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de agosto de 2016.**
+Referendado em 11 de agosto de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -346,15 +403,15 @@ g) As prescrições do presente anexo não prejudicam as prescrições das conve
 
 Coluna 4: Aplica-se a circular IMO MSC/Circular 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 4 - Equipamento de navegação
 
@@ -392,7 +449,7 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 5 - Equipamento de radiocomunicações
 
@@ -432,11 +489,11 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 6 - Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
@@ -444,7 +501,7 @@ Nenhum item.
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS, Construção - estrutura, subdivisão e estabilidade, máquinas e instalações elétricas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 ## ANEXO A.2 — Equipamentos para os quais não existem ainda normas de ensaio pormenorizadas em instrumentos internacionais
 
@@ -452,15 +509,15 @@ Nenhum item.
 
 Coluna 4: É aplicável a circular IMO MSC/Circ. 980, exceto quando substituída pelos instrumentos específicos indicados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 2 - Prevenção da poluição marinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 3 - Equipamento de proteção contra incêndios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 4 - Equipamento de navegação
 
@@ -502,7 +559,7 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 5 - Equipamento de radiocomunicações
 
@@ -540,16 +597,16 @@ c) EN 61162-3 (2008) - Parte 3: Instrumentos com rede de dados em série:
 
 d) EN 61162-450 (2011) - Parte 450: Múltiplos emissores e múltiplos recetores - Interconexão da Ethernet.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 6 - Equipamento prescrito pela COLREG 72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 7 - Equipamento de segurança para graneleiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
 
 8 - Equipamento prescrito no capítulo II-1 da SOLAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf))](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/16600/0302603066.pdf)

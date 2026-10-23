@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1988-355510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e79f5f830e974d8b4fb6134e03e4da1c34931a981217bafd8cb707ddf5989313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 958adb5e950421213a1bf72be5b830b4f2e14db1b5c45daf320c63fc0dac6de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Investigação das Pescas
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:527392:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539857:por
+  label: Alterado o quadro de pessoal do Instituto Nacional de Investigação das Pescas, pelo(a) Portaria n.º 1281/93 - Diário
+    da República n.º 295/1993, Série I-B de 1993-12-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1281-1993-539857
+  date: '1993-12-20'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
 article_structure:
   article_count: 56
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:15Z'
   warnings: []
   errors: []
 ---
@@ -344,7 +389,9 @@ a) Secção de Pessoal e Serviços Gerais;
 
 b) Secção de Expediente e Arquivo.
 
-###### Artigo 16.º — Secção de Pessoal e Serviços Gerais
+###### Artigo 16.º
+
+#### Secção de Pessoal e Serviços Gerais
 
 À Secção de Pessoal e Serviços Gerais compete:
 
@@ -360,7 +407,9 @@ e) Promover acções de formação, aperfeiçoamento e actualização de conheci
 
 f) Assegurar a gestão do serviço prestado pelo pessoal de limpeza, vigilância e segurança, jardinagem, motorista e telefonistas.
 
-###### Artigo 17.º — Secção de Expediente e Arquivo
+###### Artigo 17.º
+
+#### Secção de Expediente e Arquivo
 
 À Secção de Expediente e Arquivo compete:
 
@@ -390,7 +439,9 @@ a) Secção de Orçamento e Conta;
 
 b) Secção de Contabilidade.
 
-###### Artigo 19.º — Secção de Orçamento e Conta
+###### Artigo 19.º
+
+#### Secção de Orçamento e Conta
 
 À Secção de Orçamento e Conta compete:
 
@@ -406,7 +457,9 @@ e) Elaborar a conta anual de gerência coligir os elementos para o respectivo re
 
 f) Guardar e manter acessível o arquivo de toda a documentação das gerências findas.
 
-###### Artigo 20.º — Secção de Contabilidade
+###### Artigo 20.º
+
+#### Secção de Contabilidade
 
 À Secção de Contabilidade compete:
 
@@ -432,7 +485,9 @@ b) Secção de Aprovisionamento;
 
 c) Secção de Manutenção.
 
-###### Artigo 22.º — Secção de Património
+###### Artigo 22.º
+
+#### Secção de Património
 
 À Secção de Património compete:
 
@@ -444,7 +499,9 @@ c) Assegurar a utilização racional e a rentabilização dos bens móveis e im�
 
 d) Assegurar as ligações com os serviços correspondentes da Direcção-Geral do Património do Estado.
 
-###### Artigo 23.º — Secção de Aprovisionamento
+###### Artigo 23.º
+
+#### Secção de Aprovisionamento
 
 À Secção de Aprovisionamento compete:
 
@@ -458,7 +515,9 @@ d) Gerir o parque automóvel e de máquinas;
 
 e) Fazer o controle de todos os gastos de combustível e lubrificantes.
 
-###### Artigo 24.º — Secção de Manutenção
+###### Artigo 24.º
+
+#### Secção de Manutenção
 
 À Secção de Manutenção compete:
 
@@ -488,7 +547,9 @@ d) Manter escriturados e actualizados os livros de tesouraria.
 
 2 - A Tesouraria fica na dependência directa do director de Serviços de Administração.
 
-###### Artigo 26.º — Divisão de Planificação e Relações Exteriores
+###### Artigo 26.º
+
+##### Divisão de Planificação e Relações Exteriores
 
 À Divisão de Planificação e Relações Exteriores, dirigida por um chefe de divisão, na dependência directa do presidente, compete:
 
@@ -516,7 +577,9 @@ l) Assegurar a recepção, encaminhamento e acompanhamento de todos os utentes q
 
 m) Assegurar a participação oficial do Instituto, promovendo a divulgação das suas actividades e objectivos.
 
-###### Artigo 27.º — Divisão de Informação e Documentação Científica e Técnica
+###### Artigo 27.º
+
+##### Divisão de Informação e Documentação Científica e Técnica
 
 1 - À Divisão de Informação e Documentação Científica e Técnica, dirigida por um chefe de divisão, compete:
 
@@ -792,22 +855,22 @@ Presidência do Conselho de Ministros, 25 de Julho de 1988.
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro dos Santos Amaro.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1988.**
+Referendado em 12 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o n.º 1 do artigo 41.º do Decreto Regulamentar n.º 34/88, de 28 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf)
 
 Mapa II a que se refere o artigo 41.º do Decreto Regulamentar n.º 34/88 de 28 de Setembro
 
 Categorias a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22500/39563967.pdf)

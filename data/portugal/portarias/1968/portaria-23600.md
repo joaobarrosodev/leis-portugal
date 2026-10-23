@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 213/1968, 1º Suplemento, Série I de 1968-09-09
   number: '213'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1335 - 1342
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21301/13351342.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23600-1968-508642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1735f5e9a2f92758e4eb00f81a5a4bd9f897f026356bfae80b2ba85634b29bb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6cf578ec268ad7f4657c2fc292e01594af9fa2f4d6ea054ac4b25b1a8d28075
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,30 @@ relationships:
   target: pt:dre:425155:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425155:por
+  label: Alterado o quadro de pessoal docente da Escola Preparatória de Esgueira, concelho de Aveiro, constante do mapa I
+    anexo pelo(a) Portaria n.º 215/78 - Diário da República n.º 92/1978, Série I de 1978-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/215-1978-425155
+  date: '1978-04-20'
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:29Z'
   warnings: []
   errors: []
 ---
@@ -138,6 +152,6 @@ Ministérios das Finanças e da Educação Nacional, 9 de Setembro de 1968. - O 
 
 MAPA N.º 1 ao MAPA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21301/13351342.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21301/13351342.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21301/13351342.pdf)
 
 Ministério da Educação Nacional, 9 de Setembro de 1968. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

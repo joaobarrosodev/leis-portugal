@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/20200/24932496.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/558-1980-463992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d504f831a67327e3b04590bff71c676fd93312d4237a5186aa78cbfe82c82274
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d954102b3c71b876d1c3f3e98cd2a1531939c1862700127026f613e4b8ad7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691820:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogada pelo DEC LEI.278/87.07.07.1987.MAPA, DR.IS [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:36Z'
   warnings: []
   errors: []
 ---
@@ -110,17 +141,17 @@ Regulamento da Pesca Costeira dos Trombeteiros
 
 Definição de pesca de trombeteiros, modalidades e áreas em que pode ser exercida
 
-###### Artigo 1.º - 1 - A pesca abrangida por este diploma é apenas a pesca industrial costeira das espécies vulgarmente designadas «trombeteiros» ou «apara-lápis» - Macrorhamphosus scolopax (Linaeus, 1758), Macrorhamphosus gracilis (Lowe, 1839) ou Macrorhamphosus velitaris (Pallas, 1776) -, ou seja aquela que se destina à captura directa dessas espécies, quer através da utilização de artes rebocadas entre o leito do mar e a sua superfície (arrasto pelágico, isolado ou em parelha), quer através da utilização de artes de cerco.
+Artigo 1.º - 1 - A pesca abrangida por este diploma é apenas a pesca industrial costeira das espécies vulgarmente designadas «trombeteiros» ou «apara-lápis» - Macrorhamphosus scolopax (Linaeus, 1758), Macrorhamphosus gracilis (Lowe, 1839) ou Macrorhamphosus velitaris (Pallas, 1776) -, ou seja aquela que se destina à captura directa dessas espécies, quer através da utilização de artes rebocadas entre o leito do mar e a sua superfície (arrasto pelágico, isolado ou em parelha), quer através da utilização de artes de cerco.
 
 2 - Será de quinze o número máximo de embarcações autorizadas a exercer esta pesca e o seu comprimento não poderá exceder 35 m de fora a fora.
 
-###### Art. 2.º - 1 - As embarcações de pesca de trombeteiros exercem a sua actividade nas áreas em que podem operar as embarcações de pesca costeira definidas na [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585), de 28 de Novembro.
+Art. 2.º - 1 - As embarcações de pesca de trombeteiros exercem a sua actividade nas áreas em que podem operar as embarcações de pesca costeira definidas na [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585), de 28 de Novembro.
 
 2 - Em frente da costa continental portuguesa, as embarcações de pesca de trombeteiros não podem pescar a menos de 6 milhas de distância à costa, medidas a partir das linhas de base estabelecidas para a medição da largura do mar territorial.
 
 Requisitos técnicos e de segurança
 
-###### Art. 3.º Quando se trate de novas aquisições ou construções ou de aquisições, ou construções de substituição ou de modificação, os requisitos técnicos ou de segurança aos quais as embarcações de pesca de trombeteiros devem obedecer são os seguintes:
+Art. 3.º Quando se trate de novas aquisições ou construções ou de aquisições, ou construções de substituição ou de modificação, os requisitos técnicos ou de segurança aos quais as embarcações de pesca de trombeteiros devem obedecer são os seguintes:
 
 a) Arqueação bruta: superior a 70 tab;
 
@@ -158,65 +189,65 @@ j) Autonomia: pelo menos sete dias, quando as embarcações pesquem exclusivamen
 
 l) Equipamento auxiliar de navegação e de pesca e de comunicações: devem obrigatoriamente possuir um adómetro, uma bitola de medição da malhagem, além do equipamento de radiocomunicação de pesquisa de cardumes e auxiliar de navegação e pesca aprovado pela entidade competente e apropriada às áreas onde exerçam a pesca e ao tipo de artes que utilizem.
 
-###### Art. 4.º Sem prejuízo do disposto no artigo anterior, e sempre que se entender necessário, poderão ser fixados, mediante despacho do Secretário de Estado das Pescas, os requisitos a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento beneficie do apoio financeiro do Estado.
+Art. 4.º Sem prejuízo do disposto no artigo anterior, e sempre que se entender necessário, poderão ser fixados, mediante despacho do Secretário de Estado das Pescas, os requisitos a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento beneficie do apoio financeiro do Estado.
 
 Condições a que devem satisfazer as artes de pesca e a sua utilização
 
-###### Art. 5.º Nenhuma embarcação pode empregar ou ter a bordo artes de pesca de arrasto cuja rede tenha em qualquer das suas partes malhagens inferiores a 25 mm.
+Art. 5.º Nenhuma embarcação pode empregar ou ter a bordo artes de pesca de arrasto cuja rede tenha em qualquer das suas partes malhagens inferiores a 25 mm.
 
-###### Art. 6.º - 1 - As malhagens das redes de arrasto das embarcações de pesca de trombeteiros são verificadas com bitola plana de lados paralelos com 2 mm de espessura e a largura apropriada feita de qualquer material durável que mantenha a sua forma e construída com uma parte ou partes em cunha, com uma inclinação de 2 em 8, calibrada para medir a largura das malhas em que essa parte ou partes sejam inseridas.
+Art. 6.º - 1 - As malhagens das redes de arrasto das embarcações de pesca de trombeteiros são verificadas com bitola plana de lados paralelos com 2 mm de espessura e a largura apropriada feita de qualquer material durável que mantenha a sua forma e construída com uma parte ou partes em cunha, com uma inclinação de 2 em 8, calibrada para medir a largura das malhas em que essa parte ou partes sejam inseridas.
 
 2 - A forma de verificação da malhagem é a estabelecida na [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), de 11 de Outubro, e pormenorizada na recomendação relativa à fiscalização internacional das pescarias do Nordeste do Atlântico.
 
 3 - Não é permitido o emprego de qualquer dispositivo susceptível de obstruir ou, por qualquer forma, diminuir as malhagens legais.
 
-###### Art. 7.º As artes de cerco, independentemente da área em que a embarcação opera, devem possuir a malhagem estabelecida nas normas em vigor para a pesca da sardinha, podendo o comprimento das redes ir até 800 m e a altura das mesmas até 120 m, de harmonia com a tonelagem da embarcação.
+Art. 7.º As artes de cerco, independentemente da área em que a embarcação opera, devem possuir a malhagem estabelecida nas normas em vigor para a pesca da sardinha, podendo o comprimento das redes ir até 800 m e a altura das mesmas até 120 m, de harmonia com a tonelagem da embarcação.
 
-###### Art. 8.º Sem prejuízo do estabelecido nos artigos 5.º e 7.º, poderão ser fixados por despacho do Secretário de Estado das Pescas os requisitos especiais a que devem obedecer as artes e sistemas de captura das embarcações a construir e ou a reapetrechar com apoio financeiro do Estado.
+Art. 8.º Sem prejuízo do estabelecido nos artigos 5.º e 7.º, poderão ser fixados por despacho do Secretário de Estado das Pescas os requisitos especiais a que devem obedecer as artes e sistemas de captura das embarcações a construir e ou a reapetrechar com apoio financeiro do Estado.
 
 Exercício da pesca e sinalização
 
-###### Art. 9.º As condições para o exercício da pesca e sinalização são as que estão estabelecidas nas partes aplicáveis da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, para as modalidades de pesca de arrasto e de cerco.
+Art. 9.º As condições para o exercício da pesca e sinalização são as que estão estabelecidas nas partes aplicáveis da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, para as modalidades de pesca de arrasto e de cerco.
 
 Medidas de conservação das espécies
 
-###### Art. 10.º Em frente da costa continental portuguesa, não será considerada como infracção, para as capturas realizadas com artes de arrasto pelágico:
+Art. 10.º Em frente da costa continental portuguesa, não será considerada como infracção, para as capturas realizadas com artes de arrasto pelágico:
 
 a) A captura acidental (by-catch) de espécies demersais, e o seu desembarque, desde que o respectivo peso total não seja superior a 1% do dos trombeteiros;
 
 b) A captura de espécies pelágicas, designadamente sardinha, pichelim, carapau, cavala e outros clupeídeos, e o seu desembarque, desde que o respectivo peso total (by-catch) não seja superior a 10% do dos trombeteiros.
 
-###### Art. 11.º Em frente da costa continental portuguesa, as capturas obtidas, com artes de cerco, por fora das 12 milhas medidas a partir das linhas de base do mar territorial não terão outras limitações que as da lei geral aplicável e as referidas no artigo seguinte deste Regulamento.
+Art. 11.º Em frente da costa continental portuguesa, as capturas obtidas, com artes de cerco, por fora das 12 milhas medidas a partir das linhas de base do mar territorial não terão outras limitações que as da lei geral aplicável e as referidas no artigo seguinte deste Regulamento.
 
-###### Art. 12.º As capturas de espécies diferentes dos trombeteiros terão de respeitar as determinações relativas a tamanhos mínimos e a outras medidas de conservação dos recursos referidas na [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), de 11 de Outubro, e as normas em vigor para a pesca da sardinha.
+Art. 12.º As capturas de espécies diferentes dos trombeteiros terão de respeitar as determinações relativas a tamanhos mínimos e a outras medidas de conservação dos recursos referidas na [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), de 11 de Outubro, e as normas em vigor para a pesca da sardinha.
 
-###### Art. 13.º Às embarcações abrangidas por este Regulamento é aplicável o disposto nos artigos 20.º a 24.º da [Portaria n.º 49/73](https://diariodarepublica.pt/dr/detalhe/portaria/49-1973-683272), de 24 de Janeiro.
+Art. 13.º Às embarcações abrangidas por este Regulamento é aplicável o disposto nos artigos 20.º a 24.º da [Portaria n.º 49/73](https://diariodarepublica.pt/dr/detalhe/portaria/49-1973-683272), de 24 de Janeiro.
 
 É ainda permitida a captura de pimpim ou mini-saia (Capros apos, L.), nas mesmas condições da dos trombeteiros.
 
-###### Art. 14.º As embarcações de pesca de trombeteiros podem descarregar e vender o pescado destinado à transformação industrial (farinhas e óleos de peixe) em qualquer porto do território continental.
+Art. 14.º As embarcações de pesca de trombeteiros podem descarregar e vender o pescado destinado à transformação industrial (farinhas e óleos de peixe) em qualquer porto do território continental.
 
 O pescado destinado ao consumo humano será obrigatoriamente transaccionado na lota do porto onde os trombeteiros forem descarregados.
 
 Processo administrativo referente à autorização das aquisições, construções e modificações de embarcações de pesca de trombeteiros e substituição de motores de propulsão das mesmas.
 
-###### Art. 15.º A organização do processo referente à autorização das aquisições, construções e modificações das embarcações de pesca de trombeteiros, e substituição de motores propulsores, será feita em conformidade com o disposto no Regulamento Geral das Capitanias.
+Art. 15.º A organização do processo referente à autorização das aquisições, construções e modificações das embarcações de pesca de trombeteiros, e substituição de motores propulsores, será feita em conformidade com o disposto no Regulamento Geral das Capitanias.
 
 Vistorias e penalidades
 
-###### Art. 16.º Na altura da vistoria de registo de uma embarcação de pesca de trombeteiros, ou, no caso de modificação, na altura da vistoria que se segue à conclusão dos trabalhos, as características das redes devem ser verificadas pela comissão local de vistorias, da qual fará parte um representante da Direcção-Geral da Administração das Pescas.
+Art. 16.º Na altura da vistoria de registo de uma embarcação de pesca de trombeteiros, ou, no caso de modificação, na altura da vistoria que se segue à conclusão dos trabalhos, as características das redes devem ser verificadas pela comissão local de vistorias, da qual fará parte um representante da Direcção-Geral da Administração das Pescas.
 
-###### Art. 17.º Além das vistorias a que se refere o artigo anterior, as artes destas embarcações deverão ser regularmente vistoriadas nos portos pelo pessoal dos organismos e serviços responsáveis pela fiscalização da pesca.
+Art. 17.º Além das vistorias a que se refere o artigo anterior, as artes destas embarcações deverão ser regularmente vistoriadas nos portos pelo pessoal dos organismos e serviços responsáveis pela fiscalização da pesca.
 
-###### Art. 18.º - 1 - Os organismos e serviços responsáveis pela fiscalização da pesca providenciarão para que, amiudadas vezes, sejam vistoriadas no mar as redes destas embarcações, principalmente as de arrasto, em especial imediatamente após a faina.
+Art. 18.º - 1 - Os organismos e serviços responsáveis pela fiscalização da pesca providenciarão para que, amiudadas vezes, sejam vistoriadas no mar as redes destas embarcações, principalmente as de arrasto, em especial imediatamente após a faina.
 
 2 - Os resultados destas vistorias serão comunicados à Direcção-Geral da Administração das Pescas, juntamente com o relatório de fiscalização.
 
-###### Art. 19.º - 1 - As penalidades para as infracções cometidas pelas embarcações de pesca de trombeteiros serão as previstas nas normas em vigor para a pesca de arrasto ou de cerco, consoante as artes que aquelas utilizem.
+Art. 19.º - 1 - As penalidades para as infracções cometidas pelas embarcações de pesca de trombeteiros serão as previstas nas normas em vigor para a pesca de arrasto ou de cerco, consoante as artes que aquelas utilizem.
 
 2 - Tendo em atenção a gravidade das consequências que as infracções a este Regulamento poderão ter na degradação dos recursos ictiológicos existentes, pode ser suspensa ou cancelada a licença para o exercício de pesca de trombeteiros, no caso de se verificar reincidência na prática de infracção.
 
-###### Art. 20.º - 1 - As licenças para o exercício de pesca de trombeteiros serão emitidas de acordo com as disposições em vigor para as pescas costeiras de arrasto ou de cerco, consoante os casos.
+Art. 20.º - 1 - As licenças para o exercício de pesca de trombeteiros serão emitidas de acordo com as disposições em vigor para as pescas costeiras de arrasto ou de cerco, consoante os casos.
 
 2 - Os proprietários das embarcações de pesca de trombeteiros devem enviar mensalmente à Direcção-Geral da Administração das Pescas, até ao dia 10 do mês seguinte àquele a que dizem respeito, um mapa contendo os seguintes elementos:
 
@@ -232,7 +263,7 @@ c) Destino do pescado.
 
 Disposições transitórias
 
-###### Art. 21.º - 1 - Por se considerar haver vantagem na utilização, na pesca de trombeteiros, de embarcações actualmente registadas na pesca de arrasto costeira e na pesca do largo, é transitoriamente elevado para vinte o número das autorizações referidas no n.º 2 do artigo 1.º deste Regulamento.
+Art. 21.º - 1 - Por se considerar haver vantagem na utilização, na pesca de trombeteiros, de embarcações actualmente registadas na pesca de arrasto costeira e na pesca do largo, é transitoriamente elevado para vinte o número das autorizações referidas no n.º 2 do artigo 1.º deste Regulamento.
 
 2 - As autorizações mencionadas no número anterior serão concedidas de acordo com os critérios e pela ordem de preferência seguintes:
 
@@ -256,18 +287,18 @@ d) No caso de os pedidos a formular nos termos das alíneas a) e c) não atingir
 
 4 - As embarcações referidas na alínea a) do n.º 2 deste artigo poderão, se os seus proprietários assim o desejarem, continuar a exercer a pesca de arrasto costeiro nos cento e oitenta dias subsequentes à data em que for comunicada a decisão proferida no requerimento de registo definitivo na pesca de trombeteiros.
 
-###### Art. 22.º Às embarcações da pesca do largo que venham a exercer a pesca de trombeteiros não é aplicável a limitação de comprimento estabelecida no artigo 1.º nem o de tripulação fixado no artigo 3.º
+Art. 22.º Às embarcações da pesca do largo que venham a exercer a pesca de trombeteiros não é aplicável a limitação de comprimento estabelecida no artigo 1.º nem o de tripulação fixado no artigo 3.º
 
-###### Art. 23.º - 1 - Às embarcações provenientes de outras actividades de pesca que tenham sido autorizadas a exercer a pesca de trombeteiros será excepcionalmente consentido, em virtude da inadequação das suas características técnicas à pesca pelágica, o exercício da pesca de arrasto de fundo, devendo, porém, respeitar as limitações impostas no artigo 10.º
+Art. 23.º - 1 - Às embarcações provenientes de outras actividades de pesca que tenham sido autorizadas a exercer a pesca de trombeteiros será excepcionalmente consentido, em virtude da inadequação das suas características técnicas à pesca pelágica, o exercício da pesca de arrasto de fundo, devendo, porém, respeitar as limitações impostas no artigo 10.º
 
 2 - As autorizações para o exercício da pesca de trombeteiros por embarcações provenientes da pesca do largo serão definitivamente canceladas ao fim de três anos, o mesmo acontecendo, ao fim de seis anos, às embarcações provenientes do arrasto costeiro.
 
 Disposições finais
 
-###### Art. 24.º As embarcações provenientes de outras actividades de pesca que tenham sido autorizadas a exercer a pesca de trombeteiros e se não enquadrem completamente nestas normas, só poderão ser substituídas por outras que satisfaçam plenamente o disposto neste Regulamento.
+Art. 24.º As embarcações provenientes de outras actividades de pesca que tenham sido autorizadas a exercer a pesca de trombeteiros e se não enquadrem completamente nestas normas, só poderão ser substituídas por outras que satisfaçam plenamente o disposto neste Regulamento.
 
-###### Art. 25.º Com a entrada em vigor do presente Regulamento, caducam as disposições existentes para a pesca de arrasto costeiro e para a pesca da sardinha que com ele colidam, o mesmo acontecendo a quaisquer determinações de natureza administrativa relativas à autorização para a construção de embarcações destinadas à pesca de trombeteiros.
+Art. 25.º Com a entrada em vigor do presente Regulamento, caducam as disposições existentes para a pesca de arrasto costeiro e para a pesca da sardinha que com ele colidam, o mesmo acontecendo a quaisquer determinações de natureza administrativa relativas à autorização para a construção de embarcações destinadas à pesca de trombeteiros.
 
-###### Art. 26.º As dúvidas suscitadas na interpretação ou execução do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 26.º As dúvidas suscitadas na interpretação ou execução do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-**O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.**
+O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

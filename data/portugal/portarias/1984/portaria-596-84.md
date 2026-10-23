@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-1984-382412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 908a9474ac68ca10fdb8873c58adffc34ba988b5bcf4caf841f2c6ab02c310e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06014e62475a1a65d623059c69cbddde83b7ce3ad7dfad692f74140eee9b8d4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- TAP
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:273587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:34Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +118,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 2.º É instituída uma tarifa para estudantes a praticar nos serviços aéreos regulares das linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/08/18600/24742475.pdf))](https://files.diariodarepublica.pt/1s/1984/08/18600/24742475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/08/18600/24742475.pdf)
 
 3.º Estas tarifas são aplicáveis durante todo o ano em serviços da TAP e da SATA e são apenas combináveis com tarifas domésticas da TAP e da SATA.
 
@@ -111,6 +134,6 @@ b) Naturais ou residentes no continente ou na Madeira e frequentando um estabele
 
 Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 26 de Julho de 1984.**
+Assinada em 26 de Julho de 1984.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Ministro das Finanças e da Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Ministro das Finanças e da Plano, Ernâni Rodrigues Lopes. - O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.

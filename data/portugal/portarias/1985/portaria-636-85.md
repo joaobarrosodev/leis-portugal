@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-1985-180983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:31:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45bdabab5c33b792f00ef65f8208be4ff250a24607b88e54060d777d13dbdd58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10bf4e22a40fd1184f3612f7709ae23c5ce47c665996acdb168f1d2659bb3a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:31:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Aviação Civil
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:284902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284902:por
+  label: Alterado o quadro de Pessoal da Direcção Geral da Aviação Civil, aprovado pelo Dec Lei 242/79, de 25-jul, alterado
+    pelas Ports 148-D/80, de 31-mar, 286/80, de 26-mai, 1085/81, de 22-dez, pela presente, e pelo Dec Lei 333/80, de 29-ago,
+    pelo(a) Portaria n.º 222/88 - Diário da República n.º 86/1988, Série I de 1988-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1988-284902
+  date: '1988-04-13'
+- type: cites
+  target: pt:dre:229958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567065:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:31:35Z'
   warnings: []
   errors: []
 ---
@@ -110,10 +148,10 @@ A presente portaria produz efeitos a partir de 1 de Maio de 1984.
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 28 de Julho de 1985.**
+Assinada em 28 de Julho de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro do Equipamento Social, Carlos Montez Melancia. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Mapa anexo à Portaria n.º 636/85
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/19400/27612762.pdf))](https://files.diariodarepublica.pt/1s/1985/08/19400/27612762.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/19400/27612762.pdf)

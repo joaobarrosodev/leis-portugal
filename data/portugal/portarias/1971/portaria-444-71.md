@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6159dc97f0db4ab62b5ac0d6cc0e5b06dc181827d1fee075a56d4d0ea5f5e4a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d609c2b2f8456500b9ada14a867a9bd07a94b945767a20e6cb134d2172ed4da1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:04Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +141,7 @@ VII - 1. A partir de 1 de Janeiro de 1972 o limite mínimo de salário-base para
 
 2. A partir da data indicada no número anterior e relativamente aos beneficiários a que o mesmo preceito se refere, é facultado requerer à respectiva caixa de previdência o aumento do salário-base até ao quantitativo que resulta do produto do salário médio dos últimos seis meses de contribuições em regime obrigatório pelo factor B (a), dependente do ano a a que respeita a última contribuição obrigatória, cujos valores são dados pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/19500/11871188.pdf))](https://files.diariodarepublica.pt/1s/1971/08/19500/11871188.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/19500/11871188.pdf)
 
 VIII - 1. O n.º 5 do artigo 58.º do Estatuto da Caixa Nacional de Pensões e o n.º 5 da norma XXXVI da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, passam a ter a seguinte redacção:
 
@@ -137,4 +149,4 @@ Sempre que seja autorizada uma actualização geral de pensões, nos termos do a
 
 2. Os preceitos referidos no número anterior, com a nova redacção que lhes é dada, terão a sua primeira aplicação na portaria de actualização geral de pensões que vier a ser publicada para vigorar depois de 31 de Dezembro de 1972.
 
-**O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.**
+O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

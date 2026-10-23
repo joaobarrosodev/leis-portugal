@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12500/0359203600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2014/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2014-25345600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3900b89661d3dc2cfa91130108dbc50461594d403667e2231a19570ab5c600e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df0a53a7e89c7375ab0e7d12bc618dd3476648ff731d06be3f85eb1e0246ad9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Garantia
 - Código das Sociedades Comerciais
+- Conselho Consultivo
 - Contrato de Concessão
 - COVA da Beira
 - Estatuto
-- Sistema Multimunicipal de Recolha de Resíduos
-- Conselho Consultivo
-- Proteção do Ambiente
-- Tratamento de Resíduos
+- Garantia
+- Gestão de Resíduos
 - Prazo
+- Proteção do Ambiente
 - Resíduo Urbano
+- Sistema Multimunicipal de Recolha de Resíduos
 - Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos da COVA da Beira
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2008/07/21/p/dre
@@ -110,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 50
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:17Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +188,7 @@ Os artigos 3.º e 4.º do [Decreto-Lei n.º 319-A/2001](https://diariodarepublic
 
 3 - [Revogado].
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - [Revogado].
 
@@ -184,7 +212,9 @@ Conselho consultivo
 
 2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S.A., bem como os membros do respetivo conselho de administração e o fiscal único desta.
 
-###### Artigo 9.º — Caução
+Artigo 9.º
+
+Caução
 
 1 - A RESIESTRELA - Valorização e Tratamento de Resíduos Sólidos, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
 
@@ -214,7 +244,9 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 3 - A sociedade, pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O capital social é de (euro) 4 000 000,00, encontrando-se realizado em (euro) 3 750 875,00.
 
@@ -224,13 +256,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 4 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
 2 - [Revogado].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [Revogado].
 
@@ -260,13 +296,17 @@ c) O fornecimento, instalação, gestão, exploração, manutenção e renovaç�
 
 14 - Não existe a necessidade de consentimento da sociedade nem o direito de preferência previsto neste artigo, no caso de transmissão pela Empresa Geral do Fomento, S.A., a municípios utilizadores do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos da Cova da Beira, que não sejam ainda acionistas da sociedade, desde que a Empresa Geral do Fomento, S.A., mantenha, sempre, pelo menos, uma percentagem do capital social com direito a voto igual ou superior a 51 %.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -320,15 +360,15 @@ c) Os n.os 3 e 4 do artigo 5.º, o artigo 6.º, o n.º 2 do artigo 7.º e os n.o
 
 Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 24 de junho de 2014.**
+Promulgado em 24 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2014.**
+Referendado em 25 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 7.º)
 

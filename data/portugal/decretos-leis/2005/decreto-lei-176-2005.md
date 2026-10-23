@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/176/2005/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2005-595121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b802334084aa599ecdacb43587fff415d5b8c984af4bd90f0b17b05fd9ae76a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e3c887a314271eec736c39c7832b9256b9a7df1056d7fa24ad9bbca82faff62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,13 @@ relationships:
   target: pt:dre:115312061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Repristinado, desde 23.05.2017, o Dec Lei 389/99 de 30-set, alterado pelo presente diploma e revogado pelo Dec Lei
+    48/2017 de 22-maio, com exceção das normas relativas ao ex-Conselho Superior para a Promoção do Voluntariado, pelo(a)
+    Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/389/1999/09/30/p/dre
   label: null
@@ -80,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:223016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667920:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:02Z'
   warnings: []
   errors: []
 ---
@@ -124,12 +139,12 @@ O artigo 4.º do [Decreto-Lei n.º 389/99](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - João José Amaral Tomaz - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 10 de Outubro de 2005.**
+Promulgado em 10 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 2005.**
+Referendado em 13 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

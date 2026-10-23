@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2010/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2010-344272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0d3d985a866c6f18b0ebba7bf3fa2e75ea1251a7f521c516cf7a5a1540372e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6df36fd0316bdbf8703cfca507bc4410c6e254cb79fbc8f6b293c5de4a967cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,87 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Nacionalidade
+- Casamento
 - Certidão
-- Serviços de Registo e Notariado
-- Instituto dos Registos e do Notariado
 - Constituição de Sociedade
 - Criação de Empresas
 - Divórcio
-- Registo Automóvel
-- Registo de Navios
+- Documento Eletrónico
 - Emolumento do Notariado
 - Empresa na HORA
-- Registos e Notariado
-- Transmissão da Propriedade
-- Documento Eletrónico
+- Instituto dos Registos e do Notariado
+- Nacionalidade
 - Receita Própria
+- Registo Automóvel
 - Registo Civil
+- Registo Comercial
+- Registo de Navios
 - Registo Nacional de Pessoas Coletivas
 - Registo Predial
+- Registos e Notariado
 - Regulamento Emolumentar dos Registos e Notariado
-- Casamento
-- Registo Comercial
+- Serviços de Registo e Notariado
 - Taxa
+- Transmissão da Propriedade
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterados os art.s 14º, 16º-B, 18º, 21º, 22º, 23º, 25º, 27º, 27º-A e 28º do Regulamento Emolumentar dos Registos\
+    \ e do Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ,\
+    \ DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:190576:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez,
+    com a redação dada pelo presente diploma, pela LEI.63/2012.10.12.2012.AR, DR.IS [238] de 10.12.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2012-190576
+  date: '2012-12-10'
+- type: amended_by
+  target: pt:dre:66414231:por
+  label: Alterado a partir de 03.06.2015 o art. 23.º do Regulamento Emolumentar dos Registos e do Notariado aprovado em anexo
+    ao Dec Lei 322-A/2001, de 14-dez , na redação do presente diploma, pelo(a) Decreto-Lei n.º 19/2015 - Diário da República
+    n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2015-66414231
+  date: '2015-02-03'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterados, a partir de 01.11.2015, os arts. 10.º, 18.º, 21.º, 22.º, 24.º, 27.º e 27.º-Ado Regulamento Emolumentar
+    dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez, com a redação dada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:107458728:por
+  label: Alterado, a partir de 01.07.2017, o art. 27.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo
+    Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo Dec Lei 194/2003 de 23-ago, e com a redação dada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 54/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2017-107458728
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:114358690:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez,
+    na redação do presente diploma pelo(a) Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2017-114358690
+  date: '2017-12-15'
+- type: amended_by
+  target: pt:dre:118950630:por
+  label: Alterado a partir de 01.07.2019, o art. 22.º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo
+    Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo Dec Lei 194/2003 de 23-ago pelo(a) Decreto-Lei n.º
+    24/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2019-118950630
+  date: '2019-02-01'
+- type: amended_by
+  target: pt:dre:122349220:por
+  label: Alterado, a partir de 20.06.2019, o art. 14.º, na redação do presente diploma, do Regulamento Emolumentar dos Registos
+    e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez, na versão republicada pelo Dec Lei 194/2003 de 23-ago, pelo(a)
+    Decreto-Lei n.º 66/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2019-122349220
+  date: '2019-05-21'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -134,16 +188,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:14Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +330,9 @@ Revisão
 
 2 - O valor das taxas e emolumentos, incluindo os comuns, aplicáveis aos actos de registo civil e de nacionalidade, de identificação civil, do notariado, do registo nacional de pessoas colectivas e de registo predial, comercial, de navios e de automóveis é fixado por portaria do membro do Governo responsável pela área da Justiça, atendendo ao princípio da proporcionalidade.
 
-###### Artigo 7.º — Isenções e reduções emolumentares
+Artigo 7.º
+
+Isenções e reduções emolumentares
 
 1 - (Anterior corpo do artigo.)
 
@@ -264,7 +408,9 @@ ac) Procedimento de aquisição de nacionalidade a quem foi identificado como po
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 150.
 
@@ -444,7 +590,9 @@ c) (Revogada.)
 
 13.5 - Os emolumentos previstos no n.º 13.1.3 constituem receita do IRN, I. P.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os emolumentos previstos neste artigo incluem:
 
@@ -564,7 +712,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 17 - (Anterior n.º 14.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -686,7 +836,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 26 - As taxas previstas no n.º 13 constituem receita do IRN, I. P.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - (Revogado pelo [Decreto-Lei n.º 122/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2009-608757), de 21 de Maio.)
 
@@ -780,7 +932,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 10 - Os emolumentos previstos para as cópias e informação em papel a que se refere o n.º 8 constituem receita do IRN, I. P.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Matrículas:
 
@@ -838,7 +992,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 8 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 6, do Código do Registo Predial - (euro) 30.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Registos:
 
@@ -948,7 +1104,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 13 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -1014,7 +1172,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 10.3 - Sem prejuízo do disposto nos números anteriores, os emolumentos e taxas devidos por actos de registo e procedimento realizados ao abrigo do n.º 5 do artigo 26.º do [Decreto-Lei n.º 116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de Julho, são facturados de forma agrupada no final de cada operação especial de registo.
 
-###### Artigo 27.º-A — [...]
+Artigo 27.º-A
+
+[...]
 
 1 - Pelo procedimento especial de transmissão, oneração e registo de imóveis, com ou sem marcação prévia, incluindo todos os registos e os averbamentos de cancelamento de hipotecas aí titulados, com excepção dos actos de que dependa a verificação dos pressupostos do procedimento - (euro) 600.
 
@@ -1034,7 +1194,9 @@ c) O valor do agravamento emolumentar liquidado pelo cumprimento fora do prazo d
 
 9 - Constitui receita do IRN, I. P., nos limites do valor cobrado por cada procedimento, o montante de (euro) 100 a deduzir aos emolumentos previstos neste artigo, acrescido de (euro) 20 por cada prédio além do primeiro, quando o procedimento abranger mais do que um prédio, assim como os emolumentos cobrados por força do n.º 3.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -1146,12 +1308,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da publica
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto de Sousa Martins.
 
-**Promulgado em 16 de Agosto de 2010.**
+Promulgado em 16 de Agosto de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Agosto de 2010.**
+Referendado em 19 de Agosto de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

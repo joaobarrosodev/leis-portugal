@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 249/2011, 1º Suplemento, Série I de 2011-12-29
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5516-(20) a 5516-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2011-642012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b18c87ab5751f8398af3e05e5f2677d2621e4bd7915e598471377da9efc6e445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d28f2b44dad8f2b2d1dbcb5d3555f88f700ecfcbeae4b0da5730e7d19009058e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Reestruturação de Serviços
+- ASAE
 - Autoridade da Concorrência
-- Instituto do Emprego e Formação Profissional
+- Autoridade para as Condições do Trabalho
 - Centro de Relações Laborais
-- Pessoal Dirigente
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Comissão de Avaliação e Acompanhamento de Projectos de Interesse Nacional
-- Instituto da Construção e do Imobiliário
 - Comissão de Planeamento de Emergência das Comunicações
 - Comissão de Planeamento de Emergência do Transporte Aéreo
 - Comissão de Planeamento de Emergência dos Transportes Terrestres
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Comissão de Segurança de Serviços e BENS de Consumo
 - Comissão para a Igualdade no Trabalho e no Emprego
+- Comissão Permanente de Contrapartidas
 - Conselho Consultivo das Obras Públicas Transportes e Comunicações
 - Conselho Nacional da Formação Profissional
 - Conselho Nacional de Empreendedorismo e Inovação
@@ -87,57 +87,88 @@ subjects:
 - Controlador Financeiro
 - Criação de Serviços
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Direção Geral das Atividades Económicas
+- Direção Geral de Energia e Geologia
 - Direcção Geral do Consumidor
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Direcção Regional da Economia de Lisboa e VALE do TEJO
 - Direcção Regional da Economia do Alentejo
 - Direcção Regional da Economia do Algarve
 - Direcção Regional da Economia do Centro
 - Direcção Regional da Economia do Norte
+- Entidade Reguladora dos Serviços Energéticos
 - Escola Náutica Infante Dom Henrique
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Secretaria Geral
-- Direção Geral de Energia e Geologia
+- FSE
+- Gabinete de Estratégia e Estudos
 - Gabinete de Investigação de Segurança e de Acidentes Ferroviários
-- Ministério das Obras Públicas Transportes e Comunicações
 - Gabinete de Planeamento Estratégico e Relações Internacionais
-- Ministério da Economia e do Emprego
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- IAPMEI
+- Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Instituto da Construção e do Imobiliário
+- Instituto da Mobilidade e dos Transportes
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto das Comunicações de Portugal
 - Instituto de Gestão do Fundo Social Europeu
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Instituto Nacional da Propriedade Industrial
-- Inspecção Geral de Obras Públicas Transportes e Comunicações
-- Instituto da Mobilidade e dos Transportes
-- Instituto de Turismo de Portugal
 - Instituto de Informática
+- Instituto de Infra-Estruturas Rodoviárias
+- Instituto de Turismo de Portugal
+- Instituto do Emprego e Formação Profissional
 - Instituto Financeiro para o Desenvolvimento Regional
+- Instituto Nacional da Propriedade Industrial
+- Instituto Nacional de Aviação Civil
+- Instituto Português da Qualidade
+- Instituto Português de Acreditação
 - Integração de Serviços
-- ASAE
 - Laboratório Nacional de Energia e Geologia
 - Laboratório Nacional de Engenharia Civil
-- FSE
-- Instituto Português da Qualidade
-- Comissão Permanente de Contrapartidas
-- Comissão de Planeamento Energético de Emergência
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Gabinete de Estratégia e Estudos
-- Instituto Português de Acreditação
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- Ministério da Economia da Inovação e do Desenvolvimento
+- Ministério da Economia e do Emprego
+- Ministério das Obras Públicas Transportes e Comunicações
 - Observatório do Emprego e Formação Profissional
 - Orgânica
-- Entidade Reguladora dos Serviços Energéticos
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Ministério da Economia da Inovação e do Desenvolvimento
-- IAPMEI
-- Instituto de Infra-Estruturas Rodoviárias
-- Autoridade para as Condições do Trabalho
+- Reestruturação de Serviços
+- Secretaria Geral
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:105808927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190390:por
+  label: "Alterados, a partir de 01.01.2013, os art.s 5.º e 17.º, pelo DEC LEI.266/2012.28.12.2012.MEE, DR.IS [251] de 28.12.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-2012-190390
+  date: '2012-12-28'
+- type: amended_by
+  target: pt:dre:260881:por
+  label: "Integrado na Presidência do Conselho de Ministros o Instituto Financeiro para o Desenvolvimento Regional, I.P, (IFDR,\
+    \ I.P.), cujas atribuições e orgânica constam do Dec Lei 125/2012 de 20-jun, anteriormente no âmbito do Ministério da\
+    \ Economia e do Emprego, cuja orgânica consta do presente diploma, pelo DEC LEI.60/2013.09.05.2013.PCM, DR.IS [89] de\
+    \ 09.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2013-260881
+  date: '2013-05-09'
+- type: amended_by
+  target: pt:dre:3218528:por
+  label: "Declarada a conclusão do processo de extinção por fusão da Secretaria-Geral do Ministério da Economia, da Inovação\
+    \ e do Desenvolvimento, da Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações e da Inspeção-Geral\
+    \ das Obras Públicas, Transportes e Comunicações na Secretaria-Geral do Ministério da Economia e do Emprego conforme disposto\
+    \ nas als. a), b) e c) do n.º 3 do art. 40.º pelo DESP.9556/2013.22.07.2013.SG-MEE, DR.IIS [139] de 22.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9556-2013-3218528
+  date: '2013-07-22'
+- type: amended_by
+  target: pt:dre:571030:por
+  label: "Extintas, sendo objeto de fusão, as direções regionais da economia, cuja orgânica consta do presente diploma, e\
+    \ integradas as suas atribuições no domínio da indústria, comércio e serviços incorporadas no IAPMEI - Agência para a\
+    \ Competitividade e Inovação, I P., da qualidade e metrologia materializadas no Instituto Português da Qualidade, I.P,\
+    \ da energia e geologia incluidas na Direção-Geral de Energia e Geologia do Ministério do Ambiente, Ordenamento do Território\
+    \ e Energia, pelo DEC LEI.11/2014.22.01.2014.MECO, DR.IS [15] de 22.01.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2014-571030
+  date: '2014-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/2006/08/07/p/dre
   label: null
@@ -166,16 +197,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:538642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571030:por
+  label: "Revogado o presente diploma, na redação do Dec Lei 266/2012, de 28-dez, pelo DEC LEI.11/2014.22.01.2014.MECO, DR.IS\
+    \ [15] de 22.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2014-571030
+  date: '2014-01-22'
 article_structure:
   article_count: 47
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:47Z'
   warnings: []
   errors: []
 ---
@@ -1002,24 +1067,24 @@ c) O [Decreto-Lei n.º 153/2006](https://diariodarepublica.pt/dr/detalhe/decreto
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 27 de Dezembro de 2011.**
+Promulgado em 27 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Dezembro de 2011.**
+Referendado em 28 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 39.º)
 
 Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf)
 
 ## ANEXO II — (a que se refere o artigo 39.º)
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24901/0002000032.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/10/23600/26342638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1979-364900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8710c6ae6345cc2d2548fc25446a673a9cc6536f979286d7c243372fb11eeb4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4992917b50103f806b12acd990b095e47dce5f3a2b3e0386c0c3c38f9b54220d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação de Mercadorias
+- Direcção Geral de Portos
+- Junta Autónoma dos Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADAS E ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA 930/80, PUBLICADA\
+    \ NO DR.IS, 255, DE 801104. ADITADAS E ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA\
+    \ 170/82, PUBLICADA NO DR.IS, 31, DE 820206, COM A ALTERAÇÃO CONSTANTE DA PORTARIA 930/80, DE 11/4. ADITADAS E ALTERADAS\
+    \ VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA, PELA PORTARIA 626/84, PUBLICADA NO DR.IS, 194, DE 840822,\
+    \ COM A ALTERAÇÃO CONSTANTE DA PORTARIA 930/80, DE 11/4. ALTERADAS VARIAS MERCADORIAS A TABELA CONSTANTE DO PRESENTE DIPLOMA,\
+    \ PELA PORTARIA 300/90, PUBLICADA NO DR.IS, 89, DE 900417, COM A ALTERAÇÃO CONSTANTE DA PORTARIA 626/84, DE 22/8.\0E DA\
+    \ PORTARIA 626/84, DE 22/8.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:485049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331984:por
+  label: "Alterada a tabela de classificação pela PORT.300/90.17.04.1990.MOPTC, DR.IS [[89]] de 17.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/300-1990-331984
+  date: '1990-04-17'
+- type: cites
+  target: pt:dre:377542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485049:por
+  label: "Revogada pelo DEC LEI.200/98.1998.07.10.MEPAT DR.IS-A [157], com a entrada em vigor dos regulamentos a que se refere\
+    \ o seu nº 2 do art. 2º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1998-485049
+  date: '1998-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:00Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/02/02900/02760278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1982-601115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ed9cd44ad647ffe916ff6384e01b9da385ba2a69c2199d8d4a592780535c6ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19fc727c34321c89ef0492c9af307ba82662db46a0438d64936a281cd715debe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alfândega
+- Desalfândegamento
+- Importação
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:694041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227847:por
+  label: "Alteradas as als. e) e f) do n.º 9 do n.º III pelo DEC LEI.199/86.1986.07.21.MF DR.IS [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1986-227847
+  date: '1986-07-21'
+- type: cites
+  target: pt:dre:144399:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607531:por
+  label: Rectificada pela DECL.DD3321.1982.04.05.PCM, DR.IS [89] de 17/Abr/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-607531
+  date: '1982-04-05'
+- type: repealed_by
+  target: pt:dre:694041:por
+  label: Revogada pelo DEC LEI.16/91.1991.01.10.MF DR.IS-A [8] decorridos 180 dias sobre a entrada em vigor deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-1991-694041
+  date: '1991-01-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:41Z'
   warnings: []
   errors: []
 ---

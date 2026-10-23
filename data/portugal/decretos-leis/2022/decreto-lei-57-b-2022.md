@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 172/2022, 1º Suplemento, Série I de 2022-09-06
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 23-(2) a 23-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17201/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57-b/2022/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-b-2022-200734336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d10b7af00984e49822e1a02862e0190b020a8578415afd285258d30241262c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 165493861f0534d53852a23ca3469da60f112a568b32a76e2b1429e47519790a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Acesso à Informação
 - Agência para a Energia
-- Gás Natural
+- Comércio
 - Consumidor
 - Contra-ordenação
 - Contrato
 - Distribuição de Gás
-- Política Energética
-- Publicitação
 - Entidade Reguladora dos Serviços Energéticos
+- Gás Natural
 - Informação do Consumidor
 - Internet
+- Política Energética
 - Prazo
+- Publicitação
 - Rede Pública de Gás Natural
-- Comércio
 - Venda
 relationships:
 - type: cites
@@ -107,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2011/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2011/08/01/p/dre
+- type: cites
+  target: pt:dre:107987278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130954976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669530:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:37Z'
   warnings: []
   errors: []
 ---
@@ -183,12 +207,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 5 de setembro de 2022.**
+Promulgado em 5 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de setembro de 2022.**
+Referendado em 6 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115670725

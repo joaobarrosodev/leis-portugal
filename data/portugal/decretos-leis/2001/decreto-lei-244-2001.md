@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/2001/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2001-629789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66eee7bc380b9530bd7606231415745aa9efe99ae0ebed8dd8127a7ec0eba371
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 520fcbb7513bfeb71d9e41e91a9b6526fae3ccc7199185bda1d70138c57d4c8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Desenvolvimento Rural
 - Comissão de Acompanhamento
-- Gestão Financeira
-- Direcção Geral do Tesouro
+- Desenvolvimento Rural
 - Direcção Geral de Desenvolvimento Rural
+- Direcção Geral do Tesouro
 - Feoga
+- Gestão Financeira
 - Piddac
 - Programa Leader
 - QCA III
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:370980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370980:por
+  label: "Alterados os artigos 6.º, 7.º, 9.º, 10.º, 11.º e 12.º e revogado o n.º 3 do artigo 10º, pelo DEC LEI.119/2006.22.06.2006.MADRP,\
+    \ DR.IS-A [119] de 22.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2006-370980
+  date: '2006-06-22'
 - type: cites
   target: celex:31999R1260
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:59Z'
   warnings: []
   errors: []
 ---
@@ -281,12 +287,12 @@ A cobertura orçamental das despesas públicas decorrentes da aplicação do pre
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Agosto de 2001.**
+Promulgado em 23 de Agosto de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Agosto de 2001.**
+Referendado em 30 de Agosto de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

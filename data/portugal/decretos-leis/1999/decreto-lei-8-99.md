@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/1999/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1999-489989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3796b06463cf11c6b330599103aaf58e5f75c14a8bc6f96a3fb4b97bab7ed9c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6384230c4490c6098b04d7fc3274a009262bccce19c52e6891e6feb705105664
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Sanção Disciplinar
 - Assembleia Geral
-- Eleição
-- Cédula Profissional
 - Câmara dos Solicitadores
+- Cédula Profissional
 - Conselho Geral
 - Definição de Competências
 - Deontologia Profissional
 - Diploma
+- Eleição
+- Estágio de Formação
 - Estatuto
-- Infracção Disciplinar
-- Processo Disciplinar
 - Estatuto dos Solicitadores
 - Incompatibilidades
+- Infracção Disciplinar
+- Processo Disciplinar
 - Profissão Independente
-- Estágio de Formação
 - Receita
+- Recurso
 - Regime Jurídico
 - Remuneração
+- Sanção Disciplinar
 - Segredo Profissional
 - Segurança Social
 - Solicitador
@@ -99,16 +99,23 @@ relationships:
   target: celex:31989L0048
   label: null
   source: http://data.europa.eu/eli/dir/1989/48/oj
+- type: repealed_by
+  target: pt:dre:240647:por
+  label: "Revogado o Estatuto da Câmara dos Solicitadores pelo DEC LEI.88/2003.2003.04.26.MJ, DR.IS-A [97], mantendo-se em\
+    \ vigor, pelo período estritamente necessário, as normas do Decreto Lei necessárias ao cumprimento do regime transitório.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2003-240647
+  date: '2003-04-26'
 article_structure:
   article_count: 125
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:04Z'
   warnings: []
   errors: []
 ---
@@ -153,15 +160,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 21 de Dezembro de 1998.**
+Promulgado em 21 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1998.**
+Referendado em 30 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTO DOS SOLICITADORES
 

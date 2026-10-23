@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12500/0203602038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2016/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2016-74843513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88f2b67f781864e11a2825c14862b180db2877561c1d2bfd31e9f162e974f7ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a56d2f669d4607de8d0c4919c79a23fc2a27fb79abf9f6f22cd4fc0d14c905cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
 subjects:
 - Autoridade Tributária e Aduaneira
 - Código de Procedimento e de Processo Tributário
-- Execução Fiscal
-- Pagamento
 - Contribuições e Impostos
+- Custas Judiciais
+- Execução Fiscal
+- Execução por Dívidas
 - Inspecção Tributária
 - Isenção de Taxas e Emolumentos
+- Pagamento
 - Processo Tributário
 - Regime Complementar do Procedimento de Inspecção Tributária
-- Execução por Dívidas
 - Regulamento das Custas dos Processos Tributários
 - Taxa
-- Custas Judiciais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/29/1998/02/11/p/dre
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: pt:dre:229484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:02Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +162,9 @@ a) [...];
 
 b) Os sujeitos passivos abrangidos pela obrigação prevista no n.º 10 do artigo 19.º da LGT.
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - [...]:
 
@@ -164,7 +182,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - [...].
 
@@ -178,7 +198,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 252.º — [...]
+Artigo 252.º
+
+[...]
 
 1 - [...]:
 
@@ -228,13 +250,17 @@ b) [Revogada];
 
 c) [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - A isenção de pagamento de taxa de justiça no procedimento de verificação e graduação de créditos em execução fiscal depende da invocação dos pressupostos legais da sua existência na reclamação de créditos, bem como da junção dos comprovativos de que a mesma depende.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -246,7 +272,9 @@ c) [...].
 
 5 - [Anterior n.º 3].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -262,7 +290,9 @@ b) Pagamento em valor superior ao fixado na tabela a que se refere o n.º 4 do a
 
 5 - [Anterior n.º 4].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -280,24 +310,28 @@ b) Pagamento em valor superior ao fixado na tabela a que se refere o n.º 4 do a
 
 Execução Fiscal - Procedimento de verificação e graduação de créditos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12500/0203602038.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12500/0203602038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12500/0203602038.pdf)
 
-###### Artigo 5.º — Revogação de normas no âmbito do Regulamento das Custas dos Processos Tributários
+Artigo 5.º
+
+Revogação de normas no âmbito do Regulamento das Custas dos Processos Tributários
 
 É revogada a alínea b) do n.º 2 do artigo 14.º do Regulamento das Custas dos Processos Tributários, aprovado pelo [Decreto-Lei n.º 29/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1998-229484), de 11 de fevereiro.
 
-###### Artigo 6.º — Entrada em vigor
+Artigo 6.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de junho de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 21 de junho de 2016.**
+Promulgado em 21 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de junho de 2016.**
+Referendado em 23 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

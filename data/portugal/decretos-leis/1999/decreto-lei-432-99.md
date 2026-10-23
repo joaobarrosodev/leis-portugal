@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/432/1999/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/432-1999-667894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dfcab7cb0e78ab13ac818e32e9761c0122654d00871482e9a250887ca6e9031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579aede4984ac1f8721ae09f86665fdab567984b553bec1e31faf4b9add94a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Qualidade do AR
 - Contra-ordenação
 - Direcção Geral da Indústria
+- Equipamento Agrícola
 - Fiscalização
 - Homologação
-- Veículo
-- Proteção do Ambiente
-- Poluição
-- Equipamento Agrícola
 - Motor
+- Poluição
+- Proteção do Ambiente
+- Qualidade do AR
 - Taxa
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:473498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:646112:por
+  label: "Alterados os Anexos III e IV, pelo DEC LEI.202/2002.2002.09.26.MECO, DR.IS-A [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2002-646112
+  date: '2002-09-26'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -102,16 +107,22 @@ relationships:
   target: celex:31997L0068
   label: null
   source: http://data.europa.eu/eli/dir/1997/68/oj
+- type: repealed_by
+  target: pt:dre:473498:por
+  label: Revogado o Dec Lei 432/99 de 25-Out, DR.IS-A [249], mantendo-se contudo transitoriamente em vigor nos termos do art.
+    28º do DEC LEI.236/2005.30.12.2005.MEI, DR.IS-A [250] de 30.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2005-473498
+  date: '2005-12-30'
 article_structure:
   article_count: 16
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:42Z'
   warnings: []
   errors: []
 ---
@@ -372,15 +383,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - António Ricardo Rocha de Magalhães.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -464,7 +475,7 @@ Para efeitos do presente decreto-lei, entende-se por:
 
 2.9.1 - Símbolos dos parâmetros de ensaio:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 2.9.2 - Símbolos dos componentes químicos:
 
@@ -562,13 +573,13 @@ Para a introdução de um novo sistema no presente decreto-lei, a determinação
 
 4.2.1 - Os valores das emissões de monóxido de carbono, de hidrocarbonetos, de óxidos de azoto e de partículas obtidos não devem exceder, para a fase I, os valores indicados no quadro a seguir:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 4.2.2 - Os valores limite das emissões dados no n.º 4.2.1 referem-se à saída do motor e devem ser conseguidos antes de qualquer dispositivo de pós-tratamento do escape.
 
 4.2.3 - Os valores das emissões de monóxido de carbono, de hidrocarbonetos, de óxidos de azoto e de partículas obtidos não devem exceder, para a fase II, os valores indicados no quadro a seguir:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 4.2.4 - Se, conforme definido no n.º 6 juntamente com o apêndice 2 do anexo II, uma família de motores abranger mais do que uma banda de potências, os valores das emissões do motor precursor (homologação) e de todos os tipos de motores dentro da mesma família (conformidade da produção) devem satisfazer aos requisitos mais estritos da banda de potências mais elevada. O requerente é livre de restringir a definição das famílias de motores a bandas de potências únicas e de pedir a certificação de acordo com esse facto.
 
@@ -604,11 +615,11 @@ Para a introdução de um novo sistema no presente decreto-lei, a determinação
 
 5.3.2.2 - Se o motor retirado da série não satisfizer aos requisitos do n.º 5.3.2.1, o fabricante pode solicitar que se efectuem medições numa amostra de motores com a mesma especificação retirada da série e que inclua o motor inicialmente retirado. O fabricante estabelece a dimensão n da amostra, de acordo com o serviço técnico. Todos os motores, com excepção do inicialmente retirado, são sujeitos a um ensaio.
 
-Determina-se então a média aritmética [([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf) dos resultados obtidos na amostra no que respeita a cada poluente.
+Determina-se então a média aritmética [(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf) dos resultados obtidos na amostra no que respeita a cada poluente.
 
 Considera-se que a produção da série está conforme caso seja satisfeita a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 5.3.3 - As autoridades de homologação ou o serviço técnico responsável pela verificação da conformidade da produção devem efectuar ensaios com motores parcial ou totalmente rodados de acordo com as especificações do fabricante.
 
@@ -748,7 +759,7 @@ Anexos:
 
 (nota 2) Conforme definido no n.º 1 do anexo I [por exemplo, A)].
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Características essenciais do motor (precursor) (ver nota 1)
 
@@ -908,7 +919,7 @@ Mencionar o método utilizado: no motor/no banco de bombas (ver nota 2).
 
 (nota 3) Especificar a tolerância.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Características essenciais da família de motores
 
@@ -950,13 +961,13 @@ Prova de razão idêntica (ou mais baixa para o motor precursor): capacidade do 
 
 2.2 - Especificação dos motores dentro dessa família:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 (nota 1) A completar em conjunto com as especificações dadas nos n.os 6 e 7 do anexo I.
 
 (nota 2) Se não aplicável, escrever «não aplicável».
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Características essenciais do tipo de motor dentro da família (ver nota 1)
 
@@ -1134,11 +1145,11 @@ Mencionar o método utilizado: no motor/no banco de bombas (ver nota 2).
 
 Motores com aspiração normal e motores com sobrealimentação:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Motores turbocomprimidos com ou sem arrefecimento do ar de admissão:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 2.2.2 - Validade do ensaio. - Para que um ensaio seja reconhecido como válido, o f(índice a) deve satisfazer à seguinte relação:
 
@@ -1204,7 +1215,7 @@ A concentração de fundo contínua (sem saco) pode ser tomada no mínimo em tr�
 
 3.6.1.1 - No tocante ao funcionamento do dinamómetro com o motor a ensaiar deve ser utilizado o seguinte ciclo de oito modos (ver nota 1):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 (nota 1) Idêntico ao ciclo Cl do projecto de norma ISO 8178-4.
 
@@ -1242,7 +1253,7 @@ Quaisquer outros dados necessários para os cálculos devem ser registados (v. n
 
 3.7 - Reverificação dos analisadores. - Após o ensaio das emissões, deve-se utilizar um gás de colocação no 0 e o mesmo gás de calibração para a reverificação. O ensaio será considerado aceitável se a diferença entre as duas medições for inferior a 2%.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 1 - Métodos de medição e de recolha de amostras
 
@@ -1276,7 +1287,7 @@ V(índice EXHW) = V(índice AIRW) + 0,746 x G(índice FUEL) (para o volume dos g
 
 1.3 - Exactidão. - A calibração de todos os instrumentos de medida deve ser feita com base em normas nacionais (internacionais) e satisfazer aos seguintes requisitos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4 - Determinação dos componentes gasosos:
 
@@ -1342,7 +1353,7 @@ Podem ser aplicados dois métodos à recolha de amostras de partículas:
 
 1.5.1.5 - Carga do filtro. - A carga mínima recomendada para o filtro deve ser de 0,5 mg para uma superfície da mancha de 1075 mm, com o método do filtro único. Os valores para as dimensões de filtros mais correntes são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Para o método dos filtros múltiplos, a carga mínima recomendada para o conjunto dos filtros é igual ao produto do valor correspondente acima indicado pela raiz quadrada do número total de modos.
 
@@ -1362,7 +1373,7 @@ Se não forem satisfeitos os critérios de estabilidade da câmara de pesagem in
 
 1.5.3 - Especificações adicionais para a medição de partículas. - Todas as peças do sistema de diluição e do sistema de recolha de amostras, desde o tubo de escape até ao suporte dos filtros, que estejam em contacto com gases de escape brutos ou diluídos, devem ser concebidas para minimizar a deposição ou alteração das partículas. Todas as peças devem ser feitas de materiais condutores de electricidade que não reajam a componentes dos gases de escape e devem ser ligadas à terra para impedir efeitos electrostáticos.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 1 - Calibração dos instrumentos de análise
 
@@ -1462,7 +1473,7 @@ Se, para dois pontos dados, o valor encontrado não diferir do valor de referên
 
 1.7.1 - Instalação de ensaio. - Usando a instalação indicada na figura 1 (v. também n.º 1.4.3.5 do apêndice 1) e o processo abaixo indicado, a eficiência dos conversores pode ser ensaiada através de um ozonizador.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.7.2 - Calibração. - O CLD e o HCLD devem ser calibrados na gama de funcionamento mais comum seguindo as especificações do fabricante e utilizando um gás de colocação no 0 e um gás de calibração (cujo teor de NO(índice 2) deve ser igual a cerca de 80% da gama de funcionamento; a concentração de NO da mistura de gases deve ser inferior a 5% da concentração de NO). O analisador de NO(índice x) deve estar no modo NO para que o gás de calibração não passe através do conversor. A concentração indicada tem de ser registada.
 
@@ -1600,7 +1611,7 @@ A razão de diluição medida deve estar a (mais ou menos)10% da razão de dilui
 
 2.5 - Intervalos de calibração. - Os debitómetros devem ser calibrados pelo menos de três em três meses ou sempre que haja uma reparação ou alteração do sistema que possa influenciar a calibração.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 1 - Avaliação dos dados e cálculos
 
@@ -1622,11 +1633,11 @@ Se se utilizar um sistema de diluição total do fluxo, determina-se o caudal to
 
 1.3.2 - Correcção para a passagem de base seca a base húmida. - Quando se aplicar, G(índice EXHW),V(índice FXHW), G(índice TOTW) ou V(índice TOTW), converte-se a concentração medida para base húmida através das fórmulas a seguir indicadas, caso a medição não tenha já sido efectuada em base húmida:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.3.3 - Correcção da humidade para o NO(índice x). - Dado que as emissões de NO(índice x) dependem das condições do ar ambiente, corrige-se a concentração de NO(índice x) em função da temperatura e da humidade do ar ambiente através do factor K(índice H) dado pela fórmula a seguir:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.3.4 - Cálculo dos caudais mássicos das emissões. - Calculam-se os caudais mássicos das emissões para cada modo como se indica a seguir:
 
@@ -1634,41 +1645,41 @@ Se se utilizar um sistema de diluição total do fluxo, determina-se o caudal to
 
 1.3.5 - Cálculo das emissões específicas. - Calculam-se as emissões específicas (g/kWh) para todos os componentes individuais do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4 - Cálculo das emissões de partículas. - As emissões de partículas devem ser calculadas do seguinte modo:
 
 1.4.1 - Factor de correcção da humidade para as partículas. - Dado que a emissão de partículas pelos motores diesel depende das condições do ar ambiente, corrige-se o caudal mássico de partículas em função da humidade do ar ambiente através do factor K(índice p) dado pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4.2 - Sistema de diluição do total parcial. - Os resultados finais dos ensaios de emissão de partículas a indicar são deduzidos de modo a seguir especificado. Dado que podem ser utilizados vários tipos de controlo da taxa de diluição, são aplicáveis diferentes métodos de cálculo para caudais mássicos de gases de escape diluídos equivalentes G(índice EDF) ou caudais volúmicos de gases de escape diluídos equivalentes V(índice FDF). Todos os cálculos se devem basear nos valores médios dos modos individuais (i) durante o período de recolha de amostras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4.3 - Sistema de diluição total do fluxo. - Os resultados finais dos ensaios de emissão de partículas a indicar são obtidos como se indica a seguir [todos os cálculos devem basear-se nos valores médios dos modos individuais (i) durante o período de recolha de amostras]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4.4 - Cálculo do caudal mássico de partículas. - Calcula-se o caudal mássico de partículas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.4.5 - Cálculo das emissões específicas. - Calcula-se a emissão específica de partículas PT (g/kWh) do seguinte modo (ver nota 1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 (nota 1) O caudal máximo de partículas PT(índice mass) deve ser multiplicado por K(índice p) (factor de correcção de humidade para as partículas, referido no n.º 1.4.1.).
 
 1.4.6 - Factor de ponderação efectivo. - Para o método do filtro único, calcula-se o factor de ponderação efectivo WF(índice E,i) para cada modo como se indica a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os valores dos factores de ponderação efectivos devem estar a (mais ou menos)0,005 (valor absoluto dos factores de ponderação indicados no n.º 3.6.1 do anexo III).
 
 ## ANEXO IV — Características técnicas do combustível de referência prescrito para os ensaios de homologação e para verificar a conformidade da produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 ## ANEXO V
 
@@ -1676,7 +1687,7 @@ Os valores dos factores de ponderação efectivos devem estar a (mais ou menos)0
 
 Sistemas de recolha de amostras de gás e de partículas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.1 - Determinação das emissões gasosas. - O n.º 1.1.1 e as figuras 2 e 3 contêm descrições pormenorizadas dos sistemas recomendados de recolha de amostras e de análise. Dado que várias configurações podem produzir resultados equivalentes, não é necessário respeitar rigorosamente estas figuras. Podem ser utilizados componentes adicionais tais como instrumentos, válvulas, solenóides, bombas e comutadores para obter outras informações e coordenar as funções dos sistemas. Outros componentes que não sejam necessários para manter a precisão em alguns sistemas podem ser excluídos se a sua exclusão se basear no bom-senso técnico.
 
@@ -1812,35 +1823,35 @@ Para poder tirar partido das vantagens dos sistemas de diluição parcial do flu
 
 Os sistemas descritos têm em conta esses factores essenciais.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pela sonda de recolha de amostras isocinética ISP. Mede-se a diferença de pressão dos gases de escape entre o tubo de escape e a entrada da sonda, utilizando o transdutor de pressão DPT. O sinal resultante é transmitido ao regulador de caudal FC1, que comanda a ventoinha de aspiração SB para manter uma diferença de pressão nula na ponta da sonda. Nestas condições, as velocidades dos gases de escape em EP e ISP são idênticas e o fluxo através de ISP e TT é uma fracção constante do fluxo de gases de escape. A razão de separação é determinada pelas áreas das secções de EP e ISP. O caudal do ar de diluição é medido com o dispositivo FM1. A razão de diluição é calculada a partir do caudal do ar de diluição e da razão de separação.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pela sonda de recolha de amostras isocinética ISP. Mede-se a diferença de pressão dos gases de escape entre o tubo de escape e a entrada da sonda, utilizando o transdutor de pressão DPT. O sinal resultante é transmitido ao regulador de caudal FCI, que comanda a ventoinha de pressão PB para manter uma diferença de pressão nula na ponta da sonda. Isto consegue-se retirando uma pequena fracção do ar de diluição cujo caudal já foi medido com o debitómetro FNI, e fazendo-o chegar a TT através de um orifício pneumático. Nestas condições, as velocidades dos gases de escape em EP e ISP são idênticas e o fluxo através de ISP e TT é uma fracção constante do fluxo de gases de escape. A razão de separação é determinada pelas áreas das secções de EP e ISP. O ar de diluição é aspirado através de DT pela ventoinha de aspiração SB e o seu caudal é medido com FMI à entrada em DT. A razão de diluição é calculada a partir do caudal do ar de diluição e da razão de separação.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. Medem-se as concentrações de um gás marcador (CO(índice 2) ou NO(índice x)) nos gases de escape brutos e diluídos, bem como no ar de diluição com o(s) analisador(es) de gases de escape EGA. Estes sinais são transmitidos ao regulador de caudal FC2 que regula quer a ventoinha de pressão PB quer a ventoinha de aspiração SB, para manter a separação e a razão de diluição dos gases de escape desejadas em DT. A razão de diluição calcula-se a partir das concentrações dos gases marcadores nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. Medem-se as concentrações de CO(índice 2) nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA. Os sinais referentes à concentração de CO(índice 2) e do caudal de combustível G(índice FUEL) são transmitidos quer ao regulador de caudal FC2 quer ao regulador de caudal FC3 do sistema de recolha de amostras de partículas (v. figura 14). FC2 comanda a ventoinha de pressão PB, enquanto FC3 comanda o sistema de recolha de amostras de partículas (v. figura 14), ajustando assim os fluxos que entram e saem do sistema de modo a manter a razão de separação e a razão de diluição dos gases de escape desejadas em DT. A razão de diluição calcula-se a partir das concentrações do CO(índice 2) e de G(índice FUEL) utilizando a hipótese do balanço do carbono.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT devido à pressão negativa criada pelo Venturi VN em DT. O caudal dos gases através de TT depende da troca de quantidades de movimento na zona do Venturi, sendo portanto afectada pela temperatura absoluta dos gases à saída de TT. Consequentemente, a separação dos gases de escape para um dado caudal do túnel não é constante, e a razão de diluição a pequena carga é ligeiramente mais baixa que a carga elevada. Medem-se as concentrações do gás marcador (CO(índice 2) ou NO(índice x)) nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA, sendo a razão de diluição calculada a partir dos valores assim obtidos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pelo separador de fluxos FD3, que é constituído por uma série de tubos com as mesmas dimensões (diâmetros, comprimentos e raios de curvatura idênticos) instalados em EP. Os gases de escape através de um destes tubos são levados para DT e os gases de escape através do resto dos tubos são conduzidos através da câmara de amortecimento DC. A separação dos gases de escape é assim determinada pelo número total de tubos. Uma regulação constante da separação exige uma diferença de pressão nula entre DC e a saída de TT, que é medida com o transdutor de pressão diferencial DPT. Obtém-se uma diferença de pressão nula injectando ar fresco em DT à saída de TT. Medem-se as concentrações do gás marcador (CO(índice 2) ou NO(índice x)) nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA. Estas concentrações são necessárias para verificar a separação dos gases de escape e podem ser utilizadas para regular o caudal de ar de injecção para se obter uma regulação precisa da separação. A razão de diluição é calculada a partir das concentrações dos gases marcadores.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. O caudal total através do túnel é ajustado com o regulador de caudais FC3 e a bomba de recolha de amostras P do sistema de recolha de amostras de partículas (v. figura 16). O caudal de ar de diluição é regulado pelo regulador de caudal FC2, que pode utilizar G(índice EXH),G(índice AIR) ou G(índice FUEL) como sinais de comando, para se obter a separação dos gases de escape desejada. O caudal da amostra que chega a DT é a diferença entre o caudal total e o caudal do ar de diluição. O caudal do ar de diluição é medido com o debitómetro FM1 e o caudal total com o debitómetro FM3 do sistema de recolha de amostras de partículas (v. figura 14). A razão de diluição é calculada a partir desses dois caudais.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. A separação dos gases de escape e o caudal que chega a DT é regulado pelo regulador de caudal FC2 que ajusta os caudais (ou velocidades), da ventoinha de pressão PB e da ventoinha de aspiração SB, operação possível dado que a amostra retirada com o sistema de recolha de partículas é reenviada para DT. G(índice EXH),G(índice AIR) ou G(índice FUEL) podem ser utilizados como sinais de comando para FC2. O caudal do ar de diluição é medido com o debitómetro FM1 e o caudal total com o debitómetro FM2. A razão de diluição é calculada a partir desses dois caudais.
 
@@ -1954,7 +1965,7 @@ Para a recolha subsequente das partículas, faz-se passar uma amostra dos gases 
 
 As emissões gasosas podem também ser determinadas no túnel de diluição de um sistema de diluição total do fluxo. Assim sendo, as sondas de recolha dos componentes gasosos estão indicadas na figura 13 mas não aparecem na lista descritiva. As condições a satisfazer são descritas no n.º 1.1.1.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 A quantidade total dos gases de escape brutos é misturada com ar de diluição no túnel de diluição DT.
 
@@ -2014,7 +2025,7 @@ Na presente directiva, o sistema de diluição dupla, DDS (figura 15), de um sis
 
 Para evitar qualquer impacte nos circuitos de comando, recomenda-se que a bomba de recolha de amostras funcione durante todo o processo de ensaio. Para o método do filtro único, deve-se utilizar um sistema de derivação para fazer passar a amostra através dos filtros nos momentos desejados. A interferência da comutação nos circuitos de comando deve ser reduzida ao mínimo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Retira-se uma amostra dos gases de escape diluídos do túnel de diluição DT de um sistema de diluição parcial do fluxo ou de um sistema total do fluxo através da sonda de recolha de amostras de partículas PSP e do tubo de transferência de partículas PTT através da bomba de recolha P. Faz-se passar a amostra através dos suportes de filtros FH que contêm os filtros de recolha de partículas. O caudal da amostra é regulado pelo regulador de caudal FC3. Se for utilizada a compensação electrónica de caudais EFC (v. figura 13), o caudal de gases de escape diluídos é utilizado como sinal de comando para o FC3.
 
@@ -2164,7 +2175,7 @@ Estudo de correlação relativo aos sistemas de recolha de amostras utilizados q
 
 (nota 3) Preencher com n. a. se os ensaios forem efectuados pelas próprias autoridades de homologação.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Resultados dos ensaios
 
@@ -2204,13 +2215,13 @@ Nominal: ... rpm.
 
 1.4.2 - Potência do motor (ver nota 2):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.5 - Níveis de emissões:
 
 1.5.1 - Regulação do dinamómetro (kW):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 1.5.2 - Resultados dos ensaios de emissão em oito modos:
 
@@ -2244,7 +2255,7 @@ Partículas: ... g/kWh.
 
 1 - O número deve ser constituído por cinco secções separadas por um asterisco («*»):
 
-#### Secção 1 - a letra minúscula «e», seguida das letras ou números distintivos do Estado membro que procede à homologação:
+Secção 1 - a letra minúscula «e», seguida das letras ou números distintivos do Estado membro que procede à homologação:
 
 1 para a Alemanha;
 
@@ -2276,13 +2287,13 @@ Partículas: ... g/kWh.
 
 IRL para a Irlanda.
 
-#### Secção 2 - o número da presente directiva. Como contém diferentes datas de aplicação e diferentes normas técnicas, acrescentam-se dois caracteres alfabéticos. Esses caracteres referem-se às diferentes datas de aplicação das fases de rigor e à aplicação do motor às diferentes especificações de máquinas móveis com base nas quais a recepção foi concedida. O primeiro carácter é definido no artigo 9.º O segundo carácter é definido no n.º 1 do anexo I tendo em conta o modo de ensaio definido no n.º 3.6 do anexo III.
+Secção 2 - o número da presente directiva. Como contém diferentes datas de aplicação e diferentes normas técnicas, acrescentam-se dois caracteres alfabéticos. Esses caracteres referem-se às diferentes datas de aplicação das fases de rigor e à aplicação do motor às diferentes especificações de máquinas móveis com base nas quais a recepção foi concedida. O primeiro carácter é definido no artigo 9.º O segundo carácter é definido no n.º 1 do anexo I tendo em conta o modo de ensaio definido no n.º 3.6 do anexo III.
 
-#### Secção 3 - o número da última directiva de alteração aplicável à homologação. Se aplicável, são acrescentados dois outros caracteres alfabéticos, dependendo das condições descritas na secção 2, mesmo que apenas deva ser alterado um dos caracteres devido aos novos parâmetros. Se não houver alteração desses caracteres, estes devem ser omitidos.
+Secção 3 - o número da última directiva de alteração aplicável à homologação. Se aplicável, são acrescentados dois outros caracteres alfabéticos, dependendo das condições descritas na secção 2, mesmo que apenas deva ser alterado um dos caracteres devido aos novos parâmetros. Se não houver alteração desses caracteres, estes devem ser omitidos.
 
-#### Secção 4 - um número de ordem de quatro algarismos (eventualmente com zeros iniciais) a identificar o número da homologação de base. A sequência deve começar em 0001.
+Secção 4 - um número de ordem de quatro algarismos (eventualmente com zeros iniciais) a identificar o número da homologação de base. A sequência deve começar em 0001.
 
-#### Secção 5 - um número de ordem de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 01 para cada número de homologação de base.
+Secção 5 - um número de ordem de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 01 para cada número de homologação de base.
 
 2 - Exemplo da terceira homologação (sem nenhuma extensão ainda) correspondente à data de aplicação A (fase I, banda de potências superior) e à aplicação do motor à especificação A das máquinas móveis, emitida pelo Reino Unido:
 
@@ -2336,9 +2347,9 @@ Número de homologação: ...
 
 Nome da família de motores (ver nota 1): ...
 
-Tipo de motor: [([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+Tipo de motor: [(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
-Números de identificação dos motores: [([ver documento original](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf))](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+Números de identificação dos motores: [(ver documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
 
 Data de emissão: ...
 
@@ -2356,4 +2367,4 @@ Data da primeira emissão (no caso das adendas): ...
 
 (Carimbo da autoridade administrativa.)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)
+[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)](https://files.diariodarepublica.pt/1s/1999/10/249a00/71327167.pdf)

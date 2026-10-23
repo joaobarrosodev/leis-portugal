@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/297a00/46004601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/1996/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1996-145861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2f7d1e52a63aed5eaa4292f3a55c9a6fba859c8254d944b4567c4637527211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6aea3eac8fac36a1825d62e0a6ed10f7b2d86037ef9cba2e29d994134dd7412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
 - Denominação de Origem
-- RIO Douro
+- Porto
 - Região Demarcada do Douro
 - Regulamento
 - Regulamento CE
 - Regulamento da Denominação de Origem Vinho do Porto
-- Porto
-- Vinho do Porto
+- RIO Douro
 - Vinha
+- Vinho
+- Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:493025:por
@@ -84,16 +84,23 @@ relationships:
   target: celex:31987R0823
   label: null
   source: http://data.europa.eu/eli/reg/1987/823/oj
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: Revogado, a partir de 02.09.2009, mantendo-se transitoriamente em vigor até à publicação das portarias e dos regulamentos
+    previstos, relativamente às matérias que estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148]
+    de 03.08.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:43Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +137,12 @@ Nos casos em que seja excedido o rendimento por hectare mencionado no artigo ant
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 1996. - António Manuel de Carvalho Ferreira Vitorino - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 9 de Dezembro de 1996.**
+Promulgado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 1996.**
+Referendado em 11 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

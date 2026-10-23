@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/04/08000/0169201697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2018/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2018-115172415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d85319ef1f5970d0f7952aaf46527ac4172b95447f0842ee361c16dcbc571570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93973dfa90fb7fe7cd163cd8f50ac457183468e65a3b033a6d745e40a5d37fea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Médico
-- Indústria Farmacêutica
-- Publicidade
 - CEE
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Conselho Nacional de Publicidade de Medicamentos
 - Contra-ordenação
 - Criação de Serviços
 - Definição de Competências
-- Saúde Pública
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
-- Medicamento
+- Indústria Farmacêutica
+- Infarmed
 - Licenciamento
+- Medicamento
+- Médico
 - Normas de Segurança
 - Parlamento Europeu
 - Preço
 - Produto Farmacêutico
 - Proteção do Consumidor
+- Publicidade
 - Receita Médica
 - Sanção
+- Saúde Pública
 - Sistema Nacional de Farmacovigilância de Medicamentos para USO Humano
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:123962150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123962150:por
+  label: Alterado, a partir de 17.08.2019, o art. 3.º do Dec Lei 176/2006 de 30-ago, na versão republicada pelo Dec Lei 128/2013
+    de 05-set pelo(a) Decreto-Lei n.º 112/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2019-123962150
+  date: '2019-08-16'
 - type: cites
   target: celex:32001L0083
   label: null
@@ -120,6 +126,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0083
   label: null
@@ -129,15 +139,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 16
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:22Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +224,9 @@ m) A [Diretiva (UE) 2017/1572](https://data.europa.eu/eli/dir/2017/1572/oj?local
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -380,7 +392,9 @@ www) [Anterior alínea rrr)].
 
 4 - [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...];
 
@@ -426,7 +440,9 @@ l) [...];
 
 10 - [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
@@ -470,7 +486,9 @@ n) [...].
 
 7 - [...].
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Devem ser conservadas amostras de todos os lotes de medicamentos acabados durante um período mínimo de um ano subsequente ao termo do prazo de validade do respetivo lote.
 
@@ -486,7 +504,9 @@ n) [...].
 
 7 - [...].
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - O fabricante fica obrigado a dispor, em cada local de fabrico, ou de importação, de pessoal competente, adequadamente qualificado e em número suficiente para cumprir os objetivos do sistema da qualidade farmacêutica.
 
@@ -496,7 +516,9 @@ n) [...].
 
 4 - Devem ser integralmente respeitadas as disposições legais em vigor em matéria de higiene e segurança no trabalho e ao vestuário do pessoal.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...].
 
@@ -506,7 +528,9 @@ n) [...].
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - A pessoa qualificada certifica, em livro de registo ou documento equivalente, definido pelo INFARMED, I. P., que cada lote de fabrico de um medicamento obedece ao disposto no presente decreto-lei.
 
@@ -518,7 +542,9 @@ n) [...].
 
 5 - [...].
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -528,13 +554,17 @@ n) [...].
 
 4 - [...].
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Sem prejuízo do disposto no presente decreto-lei, o fabricante fica obrigado a realizar repetidas autoinspeções, integradas no sistema de qualidade farmacêutica, com vista a monitorizar a aplicação e observância das boas práticas de fabrico e à introdução das medidas de prevenção e/ou correção necessárias.
 
 2 - [...]
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - O fabricante fica obrigado a dispor de um sistema de registo e de análise de reclamações, bem como um sistema eficaz para retirar prontamente e a qualquer momento os medicamentos já colocados na rede de distribuição.
 
@@ -544,7 +574,9 @@ n) [...].
 
 4 - [...].
 
-###### Artigo 105.º-A — [...]
+Artigo 105.º-A
+
+[...]
 
 1 - Os medicamentos sujeitos a receita médica devem ser dotados dos dispositivos de segurança a que se refere a alínea u) do n.º 1 do artigo anterior, exceto se constarem de lista aprovada pela Comissão Europeia.
 
@@ -590,7 +622,9 @@ b) Estabelecimentos e serviços detentores de autorização de aquisição diret
 
 15 - Para acompanhamento da implementação do disposto no presente artigo, o INFARMED, I. P., pode recorrer a um grupo técnico cuja composição deve incluir as entidades que intervêm no circuito do medicamento, nomeadamente as que integram a NMVO e as que representam os profissionais envolvidos na dispensa, devendo as regras de funcionamento ser definidas em regulamento a aprovar por aquela autoridade e homologado pelo membro do Governo responsável pela área da saúde.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - [...].
 
@@ -604,7 +638,9 @@ b) Rotulagem de embalagens contendo dispositivos de segurança, por meio de etiq
 
 c) Verificação e desativação de medicamentos para fazer face a situações de emergência ou catástrofe ou inseridos em programas de vacinação.
 
-###### Artigo 149.º-A — [...]
+Artigo 149.º-A
+
+[...]
 
 1 - [...]:
 
@@ -622,12 +658,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 22 de março de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Francisca Eugénia da Silva Dias Van Dunem -Manuel Frederico Tojal de Valsassina Heitor - João Miguel Marques da Costa - José António Fonseca Vieira da Silva - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 9 de abril de 2018.**
+Promulgado em 9 de abril de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de abril de 2018.**
+Referendado em 19 de abril de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111290317

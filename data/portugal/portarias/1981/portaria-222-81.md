@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-1981-390655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 873ecbae7d41936348a745c44925e5f23518c9a01ed5ee3cf9724ddd536ea47f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b67220eb8f0a2c01c6e14aac734645d4bba3c3874e7cf2202c37f7adb428f88c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
+- Promoção Profissional
+- Quadro de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:388060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388060:por
+  label: "Dada nova redacção à alínea b), do artigo 66.º do Decreto 377/71, de 10 de Setembro, na redacção do presente diploma,\
+    \ pela PORT.274/81.17.03.1981.CR, DR.IS [63] de 17.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1981-388060
+  date: '1981-03-17'
+- type: cites
+  target: pt:dre:462440:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:561610:por
+  label: Rectificada pela DECL.DD6298.17.09.1981.CR, DR.IS [230] de 07.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-561610
+  date: '1981-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:42Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +120,11 @@ Alteração ao EOFAP
 
 1.º Os artigos 11.º, 41.º e 66.º do EOFAP passam a ter a seguinte redacção:
 
-###### Art. 11.º Os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
+Art. 11.º Os oficiais distribuem-se pelos seguintes quadros, onde são inscritos por ordem decrescente dos postos indicados e, dentro de cada posto, por ordem decrescente de antiguidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)
 
-###### Art. 41.º - 1 - ...
+Art. 41.º - 1 - ...
 
 2 - ...
 
@@ -122,7 +144,7 @@ a) Os alferes abrangidos pelos n.os 1 e 2 terão a antiguidade referida ao dia 1
 
 b) Os oficiais a que se referem os n.os 3 e 4 mantêm a antiguidade que tinham nos quadros de que transitaram.
 
-###### Art. 66.º - 1 - Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 13.º, os oficiais na situação de activo que:
+Art. 66.º - 1 - Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o n.º 1 do artigo 13.º, os oficiais na situação de activo que:
 
 a) Estejam em comissão especial, na inactividade temporária ou de licença ilimitada;
 
@@ -176,7 +198,7 @@ b) Estejam em comissão normal e:
 
 3.º O artigo 160.º do EOFAP passa a ter a seguinte redacção:
 
-###### Art. 160.º - 1 - As condições especiais de promoção nos quadros de técnicos são:
+Art. 160.º - 1 - As condições especiais de promoção nos quadros de técnicos são:
 
 a) Para a promoção a tenente:
 
@@ -238,8 +260,8 @@ Mapa n.º 1 a que se refere o artigo 71.º
 
 Limites de idade para a passagem à situação de reserva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)
 
 Mapa n.º 3 a que se refere o artigo 66.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04900/05500553.pdf)

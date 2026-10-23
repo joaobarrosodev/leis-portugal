@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2017/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2017-107773652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb50bb315f09051527a5c4083233136458c1b849295bae7fdedbd2c81e41b91f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba2fb0565178fae507e40bfc7b7910ad2d8478c1bda30ca518e7ef82ef98e546
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Combustível
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Definição de Competências
-- Combustível
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Comissão CE
+- Fiscalização
 - Relatório
-- Comércio
 relationships:
 - type: cites
   target: celex:31987R2658
@@ -180,6 +180,50 @@ relationships:
   target: eli:http://data.europa.eu/eli/r
   label: null
   source: http://data.europa.eu/eli/r
+- type: cites
+  target: pt:dre:179069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70409927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75644170:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31998L0070
   label: null
@@ -194,14 +238,14 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:33Z'
   warnings: []
   errors: []
 ---
@@ -324,21 +368,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de junho de 2017. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Manuel Frederico Tojal de Valsassina Heitor - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 19 de julho de 2017.**
+Promulgado em 19 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de julho de 2017.**
+Referendado em 24 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se referem a alínea b) do artigo 3.º, os n.os 1, 2 e 4 do artigo 4.º, a alínea b) do n.º 1 do artigo 7.º e a alínea a) do artigo 10.º]
 
 Método para o cálculo da intensidade de emissão de gases com efeito de estufa dos combustíveis e da energia fornecidos e para a apresentação dos relatórios pelos fornecedores.
 
-# PARTE 1 — Cálculo da intensidade de emissão de gases com efeito de estufa dos combustíveis e da energia de um fornecedor
+## PARTE 1 — Cálculo da intensidade de emissão de gases com efeito de estufa dos combustíveis e da energia de um fornecedor
 
 A intensidade de emissão de gases com efeito de estufa dos combustíveis e da energia fornecidos é expressa em gramas de equivalente de dióxido de carbono por megajoule de combustível (gC0(índice 2)eq/MJ).
 
@@ -350,7 +394,7 @@ CO(índice 2): 1; CH(índice 4): 25; N(índice 2)O: 298
 
 3 - Os fornecedores devem calcular a intensidade de emissão de gases com efeito de estufa ao longo do ciclo de vida de todos os combustíveis que fornecem, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 em que:
 
@@ -420,9 +464,9 @@ A intensidade de emissão de gases com efeito de estufa dos biocombustíveis cot
 
 f) «AF» representa os fatores de ajustamento da eficiência dos grupos motopropulsores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
-# PARTE 2 — Apresentação de relatórios pelos fornecedores de combustíveis e de biocombustíveis
+## PARTE 2 — Apresentação de relatórios pelos fornecedores de combustíveis e de biocombustíveis
 
 1 - REM dos combustíveis
 
@@ -470,7 +514,7 @@ A título de derrogação para os fornecedores que são pequenas ou médias empr
 
 5 - Valores médios predefinidos para os gases com efeito de estufa ao longo do ciclo de vida dos combustíveis, com exclusão dos biocombustíveis e da eletricidade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 6. Eletricidade
 
@@ -488,7 +532,7 @@ iii) [Regulamento Delegado (UE) n.º 666/2014](https://data.europa.eu/eli/reg/20
 
 Para matérias-primas que não constem da listagem infra, os fornecedores podem reportar a marca comercial da matéria-prima, incluindo quando disponível a sua densidade API e o seu teor de enxofre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 8 - Prazos para prestação de informações
 
@@ -502,13 +546,13 @@ Método de cálculo
 
 a) A norma mínima dos combustíveis é calculada a partir do consumo médio de combustíveis fósseis da União (gasolina, combustível para motores diesel, gasóleo, gás natural comprimido e do gás de petróleo liquefeito) como segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 b) Dados de consumo
 
 Os dados de consumo utilizados para o cálculo do valor são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Intensidade de emissão de gases com efeito de estufa.
 
@@ -544,35 +588,35 @@ Modelo para a comunicação de informações
 
 Combustível - Fornecedores Individuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Combustível - Agrupamento de Fornecedores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Eletricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Informação sobre agrupamento de fornecedores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Origem - Fornecedores Individuais 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Origem - Agrupamentos de Fornecedores (8)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Local de Aquisição (9)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Energia total comunicada e redução conseguida por Estado-Membro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf))](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/07/14500/0429004307.pdf)
 
 Notas
 

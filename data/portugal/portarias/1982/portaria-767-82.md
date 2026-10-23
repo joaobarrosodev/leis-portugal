@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-1982-396895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:24:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 851e2deddda832e656fe1a18c481922b03a603f216d242c49b095876a9a314d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea3351854a2b2478c226de25492f5a02e01dea836bdb21d279164c83c6f76a69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:24:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inspecção Geral da Segurança Social
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574502:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:24:32Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +118,7 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 1.º O quadro de pessoal a que se refere o artigo 17.º do [Decreto-Lei n.º 136/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1980-474131), de 20 de Maio, passa a ter a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18100/23302331.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18100/23302331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18100/23302331.pdf)
 
 2.º A presente portaria produz efeitos a partir de 1 de Junho de 1980.
 

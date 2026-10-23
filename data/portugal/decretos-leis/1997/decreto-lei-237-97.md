@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/237/1997/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1997-643129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c844f0cbc534a7610e7f1c2c632927547973744a072797e48f42377b9823e60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e45dd9b2038e579871000ad4c10dd4998975e555e2c5ef4cf04cc688ffe7d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
 - Remuneração Acessória
 - Subsídio de Risco
-- Estabelecimento Prisional
 relationships:
 - type: amended_by
   target: pt:dre:563009:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563009:por
+  label: "Alterado o art. 1.º do DR 38/82, de 07-Jul, na redacção do presente diploma, pelo DEC LEI.75/2005.04.04.2005.MJ,\
+    \ DR.IS-A [65] de 04.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-2005-563009
+  date: '2005-04-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantêm-se em vigor, nos termos do n.º 2 do art. 36.º, o disposto no art. 1.º do DR 38/82, de 07-jul, na redacção\
+    \ do presente diploma e do Dec Lei 75/2005, de 04-abr., pelo DEC LEI.215/2012.28.09.2012.MJ, DR.IS [189] de 28.09.2012\0\
+    12\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2012-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/300/1991/08/16/p/dre
   label: null
@@ -83,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/62/1996/04/29/p/dre
+- type: cites
+  target: pt:dre:394533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674060:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:46Z'
   warnings: []
   errors: []
 ---
@@ -139,12 +164,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Manuel de Matos Fernandes - Jorge Paulo Sacadura de Almeida Coelho.
 
-**Promulgado em 25 de Agosto de 1997.**
+Promulgado em 25 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Agosto de 1997.**
+Referendado em 28 de Agosto de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

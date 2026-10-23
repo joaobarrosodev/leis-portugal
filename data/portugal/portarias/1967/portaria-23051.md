@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23051-1967-400622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5c078b8ec587bcf399bac630f52402e7037db8e1795199507124be45ad3eac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51c9de14091bfdcf2db28b5b0a0f3c03af8178db932b6ba588cb459d9d03d320
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480167:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:44Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +98,19 @@ REGIMENTO DA CORPORAÇÃO DAS CIÊNCIAS, LETRAS E ARTES
 
 ## TÍTULO I — Da constituição, fins e atribuições
 
-###### Artigo 1.º (Definição). - A Corporação das Ciências, Letras e Artes, instituída pelo [Decreto n.º 47213](https://diariodarepublica.pt/dr/detalhe/decreto/47213-1966-480167), de 23 de Setembro de 1966, nos termos da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, constitui a organização integral das actividades culturais de natureza privada.
+Artigo 1.º (Definição). - A Corporação das Ciências, Letras e Artes, instituída pelo [Decreto n.º 47213](https://diariodarepublica.pt/dr/detalhe/decreto/47213-1966-480167), de 23 de Setembro de 1966, nos termos da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, constitui a organização integral das actividades culturais de natureza privada.
 
-###### Art. 2.º (Composição). - 1. Fazem parte da Corporação as academias, fundações ou associações de natureza privada e quaisquer outras instituições da mesma natureza e fins idênticos legalmente constituídas:
+Art. 2.º (Composição). - 1. Fazem parte da Corporação as academias, fundações ou associações de natureza privada e quaisquer outras instituições da mesma natureza e fins idênticos legalmente constituídas:
 
 2. A inscrição de qualquer das instituições a incorporar será feita mediante requerimento da direcção, dirigido ao presidente da Corporação e acompanhado de um exemplar dos respectivos estatutos e de documento comprovativo da sua aprovação.
 
-###### Art. 3.º (Personalidade jurídica). - A Corporação das Ciências, Letras e Artes é pessoa colectiva de direito público, tem sede em Lisboa e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
+Art. 3.º (Personalidade jurídica). - A Corporação das Ciências, Letras e Artes é pessoa colectiva de direito público, tem sede em Lisboa e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
 
-###### Art. 4.º (Fins). - 1. A Corporação das Ciências, Letras e Artes tem por fim coordenar, representar e defender os interesses das actividades que nela se integram, devendo a sua acção desenvolver-se no plano nacional em colaboração com as demais corporações e o Estado através dos Ministérios da Educação Nacional e das Corporações e Previdência Social, no respeito pelas exigências do bem comum.
+Art. 4.º (Fins). - 1. A Corporação das Ciências, Letras e Artes tem por fim coordenar, representar e defender os interesses das actividades que nela se integram, devendo a sua acção desenvolver-se no plano nacional em colaboração com as demais corporações e o Estado através dos Ministérios da Educação Nacional e das Corporações e Previdência Social, no respeito pelas exigências do bem comum.
 
 2. A Corporação não poderá utilizar ou ceder a sua sede e contribuir com os seus meios de acção para qualquer espécie de actividade política ou social que seja contrária aos interesses da Nação ou à constituição do Estado.
 
-###### Art. 5.º (Atribuições). - São atribuições da Corporação das Ciências, Letras e Artes:
+Art. 5.º (Atribuições). - São atribuições da Corporação das Ciências, Letras e Artes:
 
 a) Representar e defender, nomeadamente na Câmara Corporativa, na Junta Nacional da Educação, no Instituto de Alta Cultura e ainda junto do Governo, dos órgãos da Administração e demais entidades públicas ou privadas, os interesses das instituições incorporadas;
 
@@ -132,7 +140,7 @@ m) Exercer as demais funções conferidas por lei.
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 6.º (Corpos gerentes). - A Corporação das Ciências, Letras e Artes tem um presidente, um vice-presidente e os seguintes órgãos:
+Art. 6.º (Corpos gerentes). - A Corporação das Ciências, Letras e Artes tem um presidente, um vice-presidente e os seguintes órgãos:
 
 a) Os conselhos das secções;
 
@@ -142,7 +150,7 @@ c) A direcção;
 
 d) A junta arbitral.
 
-###### Art. 7.º (Secções). - 1. Na Corporação haverá as seguintes secções:
+Art. 7.º (Secções). - 1. Na Corporação haverá as seguintes secções:
 
 a) Ciências;
 
@@ -154,21 +162,21 @@ d) Divulgação cultural.
 
 2. Dentro de cada secção, sempre que por estas for julgado conveniente, poderão ser criadas subsecções agrupadas por especialidades, zonas geográficas ou natureza das instituições.
 
-###### Art. 8.º (Representantes de serviços públicos). - Sempre que a Corporação das Ciências, Letras e Artes funcione como órgão consultivo nos termos da base VI da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), serão convocados para as reuniões os representantes dos serviços públicos e das entidades especializadas interessadas que, para o efeito, hajam sido agregados.
+Art. 8.º (Representantes de serviços públicos). - Sempre que a Corporação das Ciências, Letras e Artes funcione como órgão consultivo nos termos da base VI da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), serão convocados para as reuniões os representantes dos serviços públicos e das entidades especializadas interessadas que, para o efeito, hajam sido agregados.
 
 ### CAPÍTULO II — Da presidência da Corporação
 
-###### Art. 9.º (Presidente). - 1. O conselho elegerá de entre os seus membros o presidente da Corporação.
+Art. 9.º (Presidente). - 1. O conselho elegerá de entre os seus membros o presidente da Corporação.
 
 2. O presidente da Corporação não pode ser eleito para mais de dois mandatos consecutivos.
 
-###### Art. 10.º (Vice-presidente). - 1. O presidente escolherá, de entre os presidentes das secções, o vice-presidente da Corporação.
+Art. 10.º (Vice-presidente). - 1. O presidente escolherá, de entre os presidentes das secções, o vice-presidente da Corporação.
 
 2. O vice-presidente coadjuva o presidente e desempenha as funções deste nas suas faltas ou impedimentos.
 
 3. Na falta de ambos, exercerá as suas funções o presidente de secção mais idoso.
 
-###### Art. 11.º (Competência do presidente). - Compete ao presidente da Corporação:
+Art. 11.º (Competência do presidente). - Compete ao presidente da Corporação:
 
 a) Representar a Corporação perante os órgãos da administração pública, os tribunais e quaisquer outras entidades;
 
@@ -204,19 +212,19 @@ p) Tomar conhecimento das decisões proferidas pela junta arbitral e enviar as r
 
 #### SECÇÃO I — Da constituição
 
-###### Art. 12.º (Conselho das secções). - Cada uma das secções referidas no artigo 7.º terá um conselho constituído pelos representantes das instituições incorporadas.
+Art. 12.º (Conselho das secções). - Cada uma das secções referidas no artigo 7.º terá um conselho constituído pelos representantes das instituições incorporadas.
 
-###### Art. 13.º (Eleições dos representantes). - 1. Cada organismo incorporado elegerá de entre os membros dos respectivos corpos gerentes o número de representantes indicado pelo conselho da Corporação.
+Art. 13.º (Eleições dos representantes). - 1. Cada organismo incorporado elegerá de entre os membros dos respectivos corpos gerentes o número de representantes indicado pelo conselho da Corporação.
 
 2. Os representantes devem actuar em estreita harmonia com os órgãos dirigentes das respectivas instituições.
 
-###### Art. 14.º (Duração do mandato). - Os representantes das institutições incorporadas que deixem de fazer parte dos seus corpos gerentes durante o mandato na Corporação, continuarão a representá-las no conselho da secção até final do quadriénio, salvo se forem afastados compulsivamente.
+Art. 14.º (Duração do mandato). - Os representantes das institutições incorporadas que deixem de fazer parte dos seus corpos gerentes durante o mandato na Corporação, continuarão a representá-las no conselho da secção até final do quadriénio, salvo se forem afastados compulsivamente.
 
-###### Art. 15.º (Formalidades na designação dos representantes). - 1. Os nomes dos representantes designados serão transmitidos ao presidente da Corporação até 15 de Setembro do ano em que se inicia o seu mandato, acompanhados dos documentos necessários à prova dos requisitos enumerados no artigo 47.º e de cópia da acta das reuniões em que foram eleitos.
+Art. 15.º (Formalidades na designação dos representantes). - 1. Os nomes dos representantes designados serão transmitidos ao presidente da Corporação até 15 de Setembro do ano em que se inicia o seu mandato, acompanhados dos documentos necessários à prova dos requisitos enumerados no artigo 47.º e de cópia da acta das reuniões em que foram eleitos.
 
 2. O presidente da Corporação, através dos serviços centrais, procederá à instrução dos processos individuais dos vários representantes designados, por forma que aqueles sejam apresentados à comissão de verificação de poderes na reunião a que se refere o artigo 18.º
 
-###### Art. 16.º (Data e convocação da primeira reunião). - 1. Os representantes eleitos para as diversas secções reunir-se-ão na 2.ª quinzena de Outubro para efeito do disposto nos artigos seguintes, iniciando-se então o seu mandato e cessando o dos anteriores representantes nesse mesmo dia.
+Art. 16.º (Data e convocação da primeira reunião). - 1. Os representantes eleitos para as diversas secções reunir-se-ão na 2.ª quinzena de Outubro para efeito do disposto nos artigos seguintes, iniciando-se então o seu mandato e cessando o dos anteriores representantes nesse mesmo dia.
 
 2. A convocação será feita pelo presidente da Corporação em exercício.
 
@@ -224,25 +232,25 @@ Art.º 17.º (Reunião). - 1. No dia, hora e local designados na conservatória,
 
 2. O presidente mandará desde logo fazer a chamada pela relação organizada pela direcção, de acordo com as comunicações efectuadas pelos organismos incorporados nos termos do artigo 15.º
 
-###### Art. 18.º (Comissão de verificação de poderes). - 1. Feita a chamada e verificada a presença da maioria absoluta dos membros designados para os conselhos das secções, será eleita entre estes uma comissão de verificação de poderes, composta por sete vogais, à qual compete conhecer da legitimidade dos poderes dos representantes das instituições incorporadas.
+Art. 18.º (Comissão de verificação de poderes). - 1. Feita a chamada e verificada a presença da maioria absoluta dos membros designados para os conselhos das secções, será eleita entre estes uma comissão de verificação de poderes, composta por sete vogais, à qual compete conhecer da legitimidade dos poderes dos representantes das instituições incorporadas.
 
 2. A comissão exerce ainda as restantes atribuições fixadas neste Regimento.
 
-###### Art. 19.º (Verificação de poderes). - 1. A comissão referida no artigo anterior elegerá um presidente e um relator e entrará imediatamente em exercício de funções, suspendendo-se para esse efeito a sessão.
+Art. 19.º (Verificação de poderes). - 1. A comissão referida no artigo anterior elegerá um presidente e um relator e entrará imediatamente em exercício de funções, suspendendo-se para esse efeito a sessão.
 
 2. Os representantes cujos poderes não possam ser confirmados através da documentação apresentada serão notificados do facto dentro de 24 horas e poderão enviar ao presidente, no prazo máximo de 48 horas, representações ou documentos justificativos, dos quais será dado imediato conhecimento à comissão.
 
 3. A comissão deliberará nas 24 horas imediatas.
 
-###### Art. 20.º (Eleições). - 1. Verificados os poderes da maioria pelo menos dos representantes, cada secção elegerá de entre os seus membros um presidente e dois vogais, que constituirão a mesa da secção, à qual compete assegurar o seu funcionamento, nomeadamente quanto à preparação dos trabalhos do conselho.
+Art. 20.º (Eleições). - 1. Verificados os poderes da maioria pelo menos dos representantes, cada secção elegerá de entre os seus membros um presidente e dois vogais, que constituirão a mesa da secção, à qual compete assegurar o seu funcionamento, nomeadamente quanto à preparação dos trabalhos do conselho.
 
 2. Seguidamente, cada uma das secções elegerá, de entre os seus membros, aqueles que a representarão no conselho da Corporação, nos termos do artigo 27.º
 
-###### Art. 21.º (Subsecções). - A estrutura e funcionamento das subsecções obedecerão às regras em cada caso estabelecidas pela respectiva secção.
+Art. 21.º (Subsecções). - A estrutura e funcionamento das subsecções obedecerão às regras em cada caso estabelecidas pela respectiva secção.
 
 #### SECÇÃO II — Da competência dos conselhos das secções
 
-###### Art. 22.º (Competência dos conselhos das secções). - compete aos conselhos das secções:
+Art. 22.º (Competência dos conselhos das secções). - compete aos conselhos das secções:
 
 a) Eleger, de entre os seus membros, o presidente da secção e dois vogais e respectivos substitutos;
 
@@ -260,19 +268,19 @@ g) Constituir as subsecções a que se refere o n.º 2 do artigo 7.º, delegando
 
 #### SECÇÃO III — Das reuniões dos conselhos
 
-###### Art. 23.º (Reuniões). - 1. Os conselhos das secções reúnem sempre que convocados pelo respectivo presidente ou pelo presidente da Corporação, por sua iniciativa u a pedido de um terço, pelo menos, dos seus membros, quer ainda por proposta da direcção.
+Art. 23.º (Reuniões). - 1. Os conselhos das secções reúnem sempre que convocados pelo respectivo presidente ou pelo presidente da Corporação, por sua iniciativa u a pedido de um terço, pelo menos, dos seus membros, quer ainda por proposta da direcção.
 
 2. Os pedidos de convocação formulados pelos membros dos conselhos serão sempre apresentados por escrito.
 
-###### Art. 24.º (Deliberações). - 1. As deliberações dos conselhos das secções serão tomadas por maioria absoluta dos votos dos membros que constituem a secção, cabendo a quem presidir voto de desempate.
+Art. 24.º (Deliberações). - 1. As deliberações dos conselhos das secções serão tomadas por maioria absoluta dos votos dos membros que constituem a secção, cabendo a quem presidir voto de desempate.
 
 2. De cada sessão será lavrada acta com indicação dos membros presentes, relato dos trabalhos e registo das deliberações tomadas.
 
 3. As actas serão assinadas pelos membros da mesa.
 
-###### Art. 25.º (Votações). - Nas reuniões dos conselhos das secções as votações serão nominais, não podendo os presentes abster-se de votar.
+Art. 25.º (Votações). - Nas reuniões dos conselhos das secções as votações serão nominais, não podendo os presentes abster-se de votar.
 
-###### Art. 26.º (Elaboração de pareceres e relatórios). - 1. Sempre que hajam de emitir parecer ou apresentar relatório, os conselhos das secções escolherão um dos seus membros para relator.
+Art. 26.º (Elaboração de pareceres e relatórios). - 1. Sempre que hajam de emitir parecer ou apresentar relatório, os conselhos das secções escolherão um dos seus membros para relator.
 
 2. Se o relator for vencido quanto à orientação geral, escolher-se-á novo relator de entre a maioria vencedora.
 
@@ -288,29 +296,29 @@ g) Constituir as subsecções a que se refere o n.º 2 do artigo 7.º, delegando
 
 #### SECÇÃO I — Da constituição
 
-###### Art. 27.º (Composição). - 1. O conselho da Corporação é composto pelo presidente e por cinco representantes de cada uma das secções, nele tendo assento, como vice-presidentes, os presidentes das secções.
+Art. 27.º (Composição). - 1. O conselho da Corporação é composto pelo presidente e por cinco representantes de cada uma das secções, nele tendo assento, como vice-presidentes, os presidentes das secções.
 
 2. Fazem parte do conselho, com voto consultivo, os antigos presidentes da Corporação.
 
 3. Por cada representante efectivo serão designados dois substitutos com indicação da ordem por que deve ter lugar a substituição, que se verificará na simples ausência ou impedimento do efectivo.
 
-###### Art. 28.º (Mesa do conselho). - 1. A mesa do conselho é constituída pelo presidente da Corporação, pelo vice-presidente e pelos presidentes das secções.
+Art. 28.º (Mesa do conselho). - 1. A mesa do conselho é constituída pelo presidente da Corporação, pelo vice-presidente e pelos presidentes das secções.
 
 2. Os presidentes das secções servem de secretários.
 
-###### Art. 29.º (Primeira reunião). - 1. O conselho da Corporação terá a primeira reunião dentro de oito dias, a contar da data da eleição a que se refere o artigo 20.º
+Art. 29.º (Primeira reunião). - 1. O conselho da Corporação terá a primeira reunião dentro de oito dias, a contar da data da eleição a que se refere o artigo 20.º
 
 2. A convocação será feita pelo presidente cessante.
 
-###### Art. 30.º (Eleição do presidente). - 1. Nesta primeira reunião proceder-se-á à eleição do presidente da Corporação de entre os membros do conselho.
+Art. 30.º (Eleição do presidente). - 1. Nesta primeira reunião proceder-se-á à eleição do presidente da Corporação de entre os membros do conselho.
 
 2. O presidente fica impedido da representação que lhe cabia como membro do conselho, devendo entrar em exercício de funções o primeiro substituto.
 
-###### Art. 31.º (Eleição dos vogais e representantes). - Seguidamente realizar-se-á a eleição dos vogais da junta arbitral e respectivos substitutos e dos procuradores à Câmara Corporativa, bem como dos representantes da Corporação na Junta Nacional da Educação e Instituto de Alta Cultura.
+Art. 31.º (Eleição dos vogais e representantes). - Seguidamente realizar-se-á a eleição dos vogais da junta arbitral e respectivos substitutos e dos procuradores à Câmara Corporativa, bem como dos representantes da Corporação na Junta Nacional da Educação e Instituto de Alta Cultura.
 
 #### SECÇÃO II — Da competência do conselho
 
-###### Art. 32.º (Competência). - Compete ao conselho:
+Art. 32.º (Competência). - Compete ao conselho:
 
 a) Eleger o presidente da Corporação e os vogais da junta arbitral e seus substitutos;
 
@@ -356,15 +364,15 @@ u) Propor ao Ministro das Corporações e Previdência Social a resolução das 
 
 ##### SUBSECÇÃO I — Das reuniões
 
-###### Art. 33.º (Reuniões ordinárias). - 1. O conselho reúne ordinàriamente em Dezembro e Março, respectivamente para discussão e votação do orçamento do ano civil seguinte e para apreciação do relatório e contas do ano civil anterior.
+Art. 33.º (Reuniões ordinárias). - 1. O conselho reúne ordinàriamente em Dezembro e Março, respectivamente para discussão e votação do orçamento do ano civil seguinte e para apreciação do relatório e contas do ano civil anterior.
 
 2. Reúne ainda de quatro em quatro anos para eleger os corpos directivos e os procuradores à Câmara Corporativa, bem como os representantes à Junta Nacional da Educação e Instituto de Alta Cultura.
 
 3. O conselho poderá pronunciar-se, em reunião ordinária, sobre todos os assuntos que interessem ao desenvolvimento e fins da Corporação e das instituições que a compõem, desde que não sejam específicos de uma delas e constem da ordem dos trabalhos.
 
-###### Art. 34.º (Reuniões extraordinárias). - O conselho reunirá extraordinàriamente por convocação da direcção ou quando metade, pelo menos, dos seus membros o requeira.
+Art. 34.º (Reuniões extraordinárias). - O conselho reunirá extraordinàriamente por convocação da direcção ou quando metade, pelo menos, dos seus membros o requeira.
 
-###### Art. 35.º (Convocações). - 1. As reuniões do conselho, ordinárias ou extraordinárias, serão convocadas pelo presidente, com especificação dos assuntos a tratar e com antecedência de, pelo menos, vinte dias.
+Art. 35.º (Convocações). - 1. As reuniões do conselho, ordinárias ou extraordinárias, serão convocadas pelo presidente, com especificação dos assuntos a tratar e com antecedência de, pelo menos, vinte dias.
 
 2. Este prazo pode ser reduzido para dez dias quando o presidente entender que as circunstâncias aconselham urgência, sendo neste caso de cinco dias o prazo a que se refere o n.º 2 do artigo seguinte.
 
@@ -372,7 +380,7 @@ u) Propor ao Ministro das Corporações e Previdência Social a resolução das 
 
 4. O pedido de convocação das reuniões extraordinárias, quando for formulado pelos membros do conselho, será sempre apresentado por escrito ao presidente.
 
-###### Art. 36.º (Ordem dos trabalhos). - 1. A ordem dos trabalhos será elaborada pelo presidente.
+Art. 36.º (Ordem dos trabalhos). - 1. A ordem dos trabalhos será elaborada pelo presidente.
 
 2. Os membros do conselho devem comunicar ao presidente, por escrito, com oito dias de antecedência, pelo menos, relativamente à data da reunião, os assuntos que queiram submeter à deliberação do conselho e que figurarão em ordem de trabalhos suplementar.
 
@@ -380,9 +388,9 @@ u) Propor ao Ministro das Corporações e Previdência Social a resolução das 
 
 ##### SUBSECÇÃO II — Da ordem dos trabalhos
 
-###### Art. 37.º (Abertura dos trabalhos). - A abertura dos trabalhos de cada sessão será feita pelo presidente, à hora marcada na convocação.
+Art. 37.º (Abertura dos trabalhos). - A abertura dos trabalhos de cada sessão será feita pelo presidente, à hora marcada na convocação.
 
-###### Art. 38.º (Ordem dos trabalhos antes da ordem do dia). - 1. Constituída a mesa, proceder-se-á à chamada, e, se estiver presente um terço, pelo menos, do número total de membros do conselho, entrar-se-á no período de antes da ordem do dia.
+Art. 38.º (Ordem dos trabalhos antes da ordem do dia). - 1. Constituída a mesa, proceder-se-á à chamada, e, se estiver presente um terço, pelo menos, do número total de membros do conselho, entrar-se-á no período de antes da ordem do dia.
 
 2. Na falta de quórum, adiar-se-á a sessão por meia hora, finda a qual, se a situação se mantiver, o presidente dará por terminados os trabalhos, marcando desde logo a data da nova reunião.
 
@@ -400,19 +408,19 @@ d) À apreciação de quaisquer outros assuntos de interesse geral, nomeadamente
 
 5. Meia hora antes da abertura da sessão, se os assuntos de antes da ordem do dia não estiverem esgotados, poderá o presidente prolongar esta parte da sessão por outra meia hora.
 
-###### Art. 39.º (Ordem do dia). - 1. Terminados os trabalhos do primeira período da sessão, entrar-se-á na ordem do dia.
+Art. 39.º (Ordem do dia). - 1. Terminados os trabalhos do primeira período da sessão, entrar-se-á na ordem do dia.
 
 2. O conselho só poderá debater os assuntos previstos na ordem do dia desde que se encontre presente a maioria dos seus membros com direito a voto.
 
 ##### SUBSECÇÃO III — Das deliberações e votações
 
-###### Art. 40.º (Deliberações). - 1. As deliberações são tomadas por maioria absoluta de votos dos membros presentes.
+Art. 40.º (Deliberações). - 1. As deliberações são tomadas por maioria absoluta de votos dos membros presentes.
 
 2. De cada sessão será lavrada acta com indicação dos membros presentes, relato circunstanciado dos trabalhos e registo das deliberações tomadas.
 
 3. As actas serão assinadas pelo presidente e secretários.
 
-###### Art. 41.º (Votações). - 1. As votações poderão realizar-se:
+Art. 41.º (Votações). - 1. As votações poderão realizar-se:
 
 a) Por levantados e sentados;
 
@@ -432,13 +440,13 @@ c) Por votação nominal.
 
 ##### SUBSECÇÃO IV — Do uso da palavra
 
-###### Art. 42.º (Uso da palavra). - 1. Nas reuniões do conselho da Corporação podem usar da palavra, além do presidente, os membros que a pedirem e aos quais for concedida.
+Art. 42.º (Uso da palavra). - 1. Nas reuniões do conselho da Corporação podem usar da palavra, além do presidente, os membros que a pedirem e aos quais for concedida.
 
 2. O orador enunciará livremente as suas opiniões, não podendo ser interrompido sem o seu consentimento.
 
 3. Não serão consideradas interrupções as vozes de apoiado ou semelhantes proferidas durante a intervenção.
 
-###### Art. 43.º (Finalidades do uso da palavra). - 1. A palavra só poderá ser pedida para:
+Art. 43.º (Finalidades do uso da palavra). - 1. A palavra só poderá ser pedida para:
 
 a) Tratar dos assuntos de antes da ordem do dia;
 
@@ -462,7 +470,7 @@ f) Enviar para a mesa quaisquer alterações ao texto das moções ou deliberaç
 
 6. Não haverá discussão nem justificação de perguntas ou de requerimentos.
 
-###### Art. 44.º (Tempo durante o qual se pode usar da palavra. - 1. Nas reuniões do conselho nenhum membro poderá usar da palavra antes da ordem do dia por mais de quinze minutos.
+Art. 44.º (Tempo durante o qual se pode usar da palavra. - 1. Nas reuniões do conselho nenhum membro poderá usar da palavra antes da ordem do dia por mais de quinze minutos.
 
 2. Os membros do conselho poderão usar da palavra duas vezes sobre qualquer ponto inscrito na ordem do dia pelo tempo de vinte minutos da primeira e dez da segunda.
 
@@ -470,11 +478,11 @@ f) Enviar para a mesa quaisquer alterações ao texto das moções ou deliberaç
 
 4. No caso do n.º 4 do artigo anterior, não se poderá usar da palavra por mais de cinco minutos.
 
-###### Art. 45.º (Fim do debate). - O debate findará quando não haja oradores inscritos e ainda pela declaração do presidente de que o assunto está suficientemente esclarecido ou pela aprovação de requerimento para que a matéria seja dada por discutida.
+Art. 45.º (Fim do debate). - O debate findará quando não haja oradores inscritos e ainda pela declaração do presidente de que o assunto está suficientemente esclarecido ou pela aprovação de requerimento para que a matéria seja dada por discutida.
 
 ##### SUBSECÇÃO V — Das eleições
 
-###### Art. 46.º (Eleições). - 1. Nas eleições cometidas ao conselho da Corporação haverá listas separadas para cada uma das seguintes votações:
+Art. 46.º (Eleições). - 1. Nas eleições cometidas ao conselho da Corporação haverá listas separadas para cada uma das seguintes votações:
 
 a) Do presidente da Corporação;
 
@@ -492,7 +500,7 @@ e) Dos representantes no Instituto de Alta Cultura.
 
 4. Quando não haja candidatos propostos para qualquer cargo, o presidente da Corporação apresentará uma lista sua.
 
-###### Art. 47.º (Condições de elegibilidade). - Só podem exercer cargos directivos os dirigentes dos organismos que tenham sido designados por eleição para os cargos gerentes das instituições incorporadas e que, além disso, reúnam os seguintes requisitos:
+Art. 47.º (Condições de elegibilidade). - Só podem exercer cargos directivos os dirigentes dos organismos que tenham sido designados por eleição para os cargos gerentes das instituições incorporadas e que, além disso, reúnam os seguintes requisitos:
 
 a) Serem de nacionalidade portuguesa;
 
@@ -504,11 +512,11 @@ d) Não terem sido declarados falidos ou insolventes, a menos que se encontrem r
 
 e) Não terem sido condenados por crime que implique a demissão, para os funcionários públicos.
 
-###### Art. 48.º (Resultados das eleições). - Feito o apuramento, serão proclamados pelo presidente da Corporação os mais votados.
+Art. 48.º (Resultados das eleições). - Feito o apuramento, serão proclamados pelo presidente da Corporação os mais votados.
 
 #### SECÇÃO IV — Da obrigatoriedade e da gratuitidade dos cargos electivos
 
-###### Art. 49.º (Obrigatoriedade e gratuitidade dos cargos electivos). - 1. Só podem escusar-se ao exercício dos cargos electivos da Corporação:
+Art. 49.º (Obrigatoriedade e gratuitidade dos cargos electivos). - 1. Só podem escusar-se ao exercício dos cargos electivos da Corporação:
 
 a) Os representantes que tenham completado 70 anos de idade;
 
@@ -522,15 +530,15 @@ c) Os que tiverem exercido qualquer cargo no quadriénio anterior àquele a que 
 
 4. O desempenho dos cargos electivos é gratuito, sem prejuízo do disposto no artigo 63.º
 
-###### Art. 50.º (Sanção). - A recusa ou o não exercício injustificado dos cargos electivos implicam a cessação imediata das funções directivas que os representantes porventura exerçam nas instituições incorporadas e ainda a impossibilidade de serem eleitos nos quatro anos imediatos para quaisquer outras funções nas mesmas instituições.
+Art. 50.º (Sanção). - A recusa ou o não exercício injustificado dos cargos electivos implicam a cessação imediata das funções directivas que os representantes porventura exerçam nas instituições incorporadas e ainda a impossibilidade de serem eleitos nos quatro anos imediatos para quaisquer outras funções nas mesmas instituições.
 
 ### CAPÍTULO V — Da direcção
 
 #### SECÇÃO I — Da composição e competência
 
-###### Art. 51.º (Composição). - A direcção é constituída pelo presidente da Corporação e pelos presidentes das mesas das secções.
+Art. 51.º (Composição). - A direcção é constituída pelo presidente da Corporação e pelos presidentes das mesas das secções.
 
-###### Art. 52.º (Competência). - Compete à direcção:
+Art. 52.º (Competência). - Compete à direcção:
 
 a) Apoiar os interesses das instituições que constituem a Corporação;
 
@@ -578,7 +586,7 @@ x) Tomar as demais deliberações e providências que não sejam da competência
 
 #### SECÇÃO II — Do funcionamento
 
-###### Art. 53.º (Funcionamento da direcção). - 1. A direcção reunirá ordinàriamente duas vezes por mês e extraordinàriamente sempre que qualquer dos membros o julgue necessário.
+Art. 53.º (Funcionamento da direcção). - 1. A direcção reunirá ordinàriamente duas vezes por mês e extraordinàriamente sempre que qualquer dos membros o julgue necessário.
 
 2. As reuniões só poderão efectuar-se quando estiver presente a maioria dos membros.
 
@@ -592,23 +600,23 @@ x) Tomar as demais deliberações e providências que não sejam da competência
 
 ### CAPÍTULO VI — Da junta arbitral
 
-###### Art. 54.º (Constituição). - A junta arbitral é constituída por um juiz, que presidirá, designado pelo Conselho Corporativo, sob proposta do Ministro das Corporações e Previdência Social, e por quatro vogais eleitos pelo conselho da Corporação de entre os dirigentes das instituições incorporadas.
+Art. 54.º (Constituição). - A junta arbitral é constituída por um juiz, que presidirá, designado pelo Conselho Corporativo, sob proposta do Ministro das Corporações e Previdência Social, e por quatro vogais eleitos pelo conselho da Corporação de entre os dirigentes das instituições incorporadas.
 
-###### Art. 55.º (Competência). - Compete à junta arbitral conhecer, quando solicitada, os diferendos que surjam entre as instituições incorporadas ou entre estas e a Corporação.
+Art. 55.º (Competência). - Compete à junta arbitral conhecer, quando solicitada, os diferendos que surjam entre as instituições incorporadas ou entre estas e a Corporação.
 
-###### Art. 56.º (Início do processo). - 1. O processo da junta arbitral inicia-se com o compromisso escrito e assinado pelos interessados, onde se individualize com toda a precisão o litígio a decidir.
+Art. 56.º (Início do processo). - 1. O processo da junta arbitral inicia-se com o compromisso escrito e assinado pelos interessados, onde se individualize com toda a precisão o litígio a decidir.
 
 2. É válida a cláusula pela qual devem ser decididas pela junta, além do caso vertente, todas as questões que, com base nela, venham a surgir entre as partes.
 
-###### Art. 57.º (Julgamento «ex aequo et bono»). - Os membros da junta arbitral são autorizados a julgar ex aequo et bono, o que envolve a concessão da faculdade de determinarem os trâmites a seguir na instrução do processo, devendo, porém, ser sempre ouvidas as partes depois da preparação e antes da decisão da causa.
+Art. 57.º (Julgamento «ex aequo et bono»). - Os membros da junta arbitral são autorizados a julgar ex aequo et bono, o que envolve a concessão da faculdade de determinarem os trâmites a seguir na instrução do processo, devendo, porém, ser sempre ouvidas as partes depois da preparação e antes da decisão da causa.
 
-###### Art. 58.º (Prazos). - 1. As questões submetidas à apreciação da junta devem estar decididas dentro de dois meses.
+Art. 58.º (Prazos). - 1. As questões submetidas à apreciação da junta devem estar decididas dentro de dois meses.
 
 2. Este prazo poderá ser prorrogado por igual período de tempo, se as partes estiverem de acordo.
 
 3. Respondem por perdas e danos os membros da junta que derem causa a que a decisão deixe de ser proferida dentro do prazo, salvo se o juiz presidente considerar justificado o facto.
 
-###### Art. 59.º (Decisões). - 1. O julgamento será feito em conferência, cabendo a elaboração da sentença ao presidente.
+Art. 59.º (Decisões). - 1. O julgamento será feito em conferência, cabendo a elaboração da sentença ao presidente.
 
 2. As decisões da junta são tomadas por maioria, não sendo admitidas abstenções.
 
@@ -616,7 +624,7 @@ x) Tomar as demais deliberações e providências que não sejam da competência
 
 ## TÍTULO III — Dos meios financeiros
 
-###### Art. 60.º (Receitas). - 1. Constituem receitas da Corporação:
+Art. 60.º (Receitas). - 1. Constituem receitas da Corporação:
 
 a) As contribuições das instituições incorporadas;
 
@@ -638,15 +646,15 @@ g) Quaisquer importâncias que possam resultar do exercício da sua actividade.
 
 4. Os empréstimos só poderão ser autorizados quando se indique desde logo a forma do seu reembolso e se prove a viabilidade efectiva das amortizações.
 
-###### Art. 61.º (Levantamento de fundos). - Os levantamentos de fundos da Corporação efectuar-se-ão por meio de cheque assinado pelo presidente, ou por quem suas vezes fizer, e por um dos vogais da direcção e autenticado com selo branco.
+Art. 61.º (Levantamento de fundos). - Os levantamentos de fundos da Corporação efectuar-se-ão por meio de cheque assinado pelo presidente, ou por quem suas vezes fizer, e por um dos vogais da direcção e autenticado com selo branco.
 
-###### Art. 62.º (Fiscalização dos meios financeiros). - 1. O orçamento anual das receitas e despesas bem como as contas de gerência e o relatório anual, depois de aprovados pelo conselho da Corporação, serão submetidos pelo presidente à apreciação da Direcção-Geral do Trabalho e Corporações até 31 de Dezembro e 15 de Abril, respectivamente.
+Art. 62.º (Fiscalização dos meios financeiros). - 1. O orçamento anual das receitas e despesas bem como as contas de gerência e o relatório anual, depois de aprovados pelo conselho da Corporação, serão submetidos pelo presidente à apreciação da Direcção-Geral do Trabalho e Corporações até 31 de Dezembro e 15 de Abril, respectivamente.
 
 2. Os orçamentos suplementares serão igualmente submetidos à apreciação daquela entidade nos quinze dias imediatos à sua aprovação.
 
 ## TÍTULO IV — Disposição geral
 
-###### Art. 63.º (Direitos dos membros dos órgãos da Corporação). - Os membros dos órgãos da Corporação têm direito:
+Art. 63.º (Direitos dos membros dos órgãos da Corporação). - Os membros dos órgãos da Corporação têm direito:
 
 a) À consulta da escrita e arquivos;
 

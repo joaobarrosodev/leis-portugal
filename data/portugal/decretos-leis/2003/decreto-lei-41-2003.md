@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2003/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2003-221347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44a7786b50cdef183dc1ece2c03bfc0d2dbc59a839489e017191d3187ce768c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bff4665e6c064fc081d38361e8d69a50757be68b774eb4e6d49dfea14671e02a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Licenciamento
 - Licença de Transporte
+- Licenciamento
+- Multa
 - Regime Jurídico
 - Transporte de Passageiros
 - Veículo de Aluguer
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:75774118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257175:por
+  label: "Alterados, a partir de 27.01.2013, os arts. 4º, 8º e 36º e revogados os arts. 5º, 6º, 38º e 40º do Dec Lei 251/98,\
+    \ de 11-ago, republicado pelo presente diploma, pela LEI.5/2013.22.01.2013.AR, DR.IS [15] de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2013-257175
+  date: '2013-01-22'
+- type: amended_by
+  target: pt:dre:75774118:por
+  label: Alterados os art.ºs 28.º e 30.º do Dec Lei 251/98, de 11-ago, na redação do presente diploma, que o republica pelo(a)
+    Lei n.º 35/2016 - Diário da República n.º 223/2016, Série I de 2016-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2016-75774118
+  date: '2016-11-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/251/1998/08/11/p/dre
   label: null
@@ -92,16 +104,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/156/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/156/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:329010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632067:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
+  article_count: 52
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:34Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +198,15 @@ d) Condenação, com trânsito em julgado, por infracções cometidas no exercí
 
 3 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 São competentes para a fiscalização das normas constantes do presente diploma a Direcção-Geral de Transportes Terrestres (DGTT), a Inspecção-Geral das Obras Públicas, Transportes e Comunicações, as câmaras municipais, a Guarda Nacional Republicana e a Polícia de Segurança Pública.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -174,7 +226,9 @@ d) ...
 
 e) ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - As licenças para a exploração da indústria de transportes de aluguer em veículos ligeiros de passageiros, emitidas ao abrigo do Regulamento de Transportes em Automóveis (RTA), aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, e suas posteriores alterações, caducam em 30 de Junho de 2003.
 
@@ -184,7 +238,9 @@ e) ...
 
 4 - Em derrogação do disposto no n.º 1, as licenças dos veículos cujos titulares já possuam o alvará a que se refere o n.º 3 do artigo 3.º permanecem válidas até que entrem em vigor, no concelho a cujo contingente pertençam, os regulamentos a que se referem o n.º 2 do artigo 14.º e o n.º 1 do artigo 16.º do presente diploma, não lhes sendo aplicável aquela data de caducidade.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +264,9 @@ c) ...
 
 d) A quilómetro, quando em função da quilometragem a percorrer.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -244,11 +302,15 @@ Em resultado da conversão de escudos em euros do montante das coimas previstas,
 
 O exercício da actividade sem o alvará a que se refere o artigo 3.º é punível com coima de (euro) 1247 a (euro) 3740 ou de (euro) 4988 a (euro) 14964, consoante se trate de pessoa singular ou colectiva.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 O incumprimento do disposto no artigo 9.º é punível com coima de (euro) 100 a (euro) 300.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - São puníveis com coima de (euro) 1247 a (euro) 3740 as seguintes infracções:
 
@@ -270,7 +332,9 @@ e) O incumprimento do disposto no artigo 15.º;
 
 f) O abandono injustificado do veículo em violação do disposto no n.º 1 do artigo 17.º
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 A não apresentação da licença de táxi, do alvará ou da sua cópia certificada, no acto de fiscalização, constitui contra-ordenação e é punível com a coima prevista na alínea c) do n.º 2 do artigo 30.º, salvo se o documento em falta for apresentado no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a coima é de (euro) 50 a (euro) 250.»
 
@@ -284,15 +348,15 @@ O [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 26 de Fevereiro de 2003.**
+Promulgado em 26 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Fevereiro de 2003.**
+Referendado em 28 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — [Decreto-Lei n.º 251/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1998-438069), de 11 de Agosto
 

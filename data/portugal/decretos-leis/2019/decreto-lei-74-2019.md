@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10200/0267002671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2019/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2019-122419058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caacdbf4badc6f8ce93accbf8465c9ec602725020a94eed90456fba8a9b30e94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c561da645ce66f0a224856c4d7db45850bdbabf13ad1947c2a23ee88c2063c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Geral de Assistente Operacional
-- Sistema Retributivo
 - Carreira Profissional
-- Pessoal Operário
-- Integração de Trabalhadores
 - Condutor
 - Descrição de Funções
-- Pessoal Auxiliar
-- Reestruturação de Carreiras
-- Regime Jurídico
 - Duração do Trabalho
 - Horário de Trabalho
-- Remuneração
+- Integração de Trabalhadores
 - Ministério dos Negócios Estrangeiros
+- Pessoal Auxiliar
+- Pessoal Operário
+- Reestruturação de Carreiras
+- Regime Jurídico
+- Remuneração
 - Serviços Periféricos
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:224081984:por
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694069:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:41Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +168,9 @@ Os artigos 1.º, 9.º e 45.º do [Decreto-Lei n.º 47/2013](https://diariodarepu
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Antigo corpo do artigo.)
 
@@ -164,7 +182,9 @@ b) O transporte e entrega de notas verbais, de correspondência, também de cari
 
 c) O apoio externo ao secretariado de chancelaria ou ao pessoal de residência, designadamente correio e compras de economato, e execução de outras funções diversificadas de apoio indispensáveis ao funcionamento da missão diplomática ou do posto consular.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -206,12 +226,14 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 9 de maio de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes.
 
-**Promulgado em 21 de maio de 2019.**
+Promulgado em 21 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de maio de 2019.**
+Referendado em 22 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112324241

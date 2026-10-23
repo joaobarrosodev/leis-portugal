@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 90/1998, 2º Suplemento, Série I-A de 1998-04-17
   number: '90'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1706-(62) a 1706-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/090a02/00620064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94-d/1998/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-d-1998-474480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c843aa01d5ac15986f1fd3b1a79d24db55cfe9984802c30afefa93b9f19b6ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd197ea2766caf7a3ed87cff5028b1630d5289cda7d80132d8c19ffda6cae2bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Ação Social Escolar
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
-- Ministério da Educação
 - Departamento do Ensino Superior
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Estudante
-- Ação Social
+- Financiamento
 - Fundo de Apoio ao Estudante
+- Ministério da Educação
 - Personalidade Jurídica
 - Política de Educação
-- Estabelecimento de Ensino
 - Receita Própria
 - Regime de Instalação
-- Ensino Superior
 - Reposição de Verbas
 relationships:
 - type: amended_by
   target: pt:dre:685034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577711:por
+  label: "Prorrogado até 30 de Junho de 2001 o prazo do regime de instalação previsto no nº 4º do presente diploma, pelo DEC\
+    \ LEI.225/2000.2000.09.09.ME DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2000-577711
+  date: '2000-09-09'
+- type: amended_by
+  target: pt:dre:515582:por
+  label: "Prorrogado o prazo do regime de instalação pelo DEC LEI.231/2001.2001.08.24.ME DR.IS [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2001-515582
+  date: '2001-08-24'
+- type: amended_by
+  target: pt:dre:171694:por
+  label: "Prorrogado o prazo do regime de instalação pelo DEC LEI.184/2002.2002.08.20.MCES DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-2002-171694
+  date: '2002-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/1997/08/18/p/dre
   label: null
@@ -97,16 +113,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1997/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1997/09/16/p/dre
+- type: cites
+  target: pt:dre:208255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685034:por
+  label: "Revogado pelo DEC LEI.122/2003.2003.06.18.MCES, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2003-685034
+  date: '2003-06-18'
 article_structure:
   article_count: 15
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:09Z'
   warnings: []
   errors: []
 ---
@@ -235,12 +264,12 @@ O presente diploma entra em vigor no dia seguinte ao da publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 9 de Abril de 1998.**
+Promulgado em 9 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

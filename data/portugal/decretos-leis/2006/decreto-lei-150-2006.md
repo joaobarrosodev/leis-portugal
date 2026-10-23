@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2006/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e04d9791bc6c3823dffae9ff822156114996d47c7b09ce459236ba94517ece
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57e6cdc522f41ccf6d7d9de7e7fee05be90ef57dc5bd86013e8c0c8bc126fd6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
 - Cobrança de Impostos
 - Contribuições e Impostos
+- Garantia
+- IRC
 - IRS
 - Isenção Fiscal
 - Pagamento a Prestações
-- IRC
 - Restituição de Impostos
 relationships:
 - type: amended_by
   target: pt:dre:124793094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 34.º-A do Dec. Lei 492/88 de 30-dez, na redação do presente diploma, pelo(a) Lei n.º 7-A/2016 - Diário
+    da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Alterado, a partir de 01.10.2019, os arts 31.º, 34.º-A, na redacção da presente Lei, do Dec Lei 492/88 de 30-dez,
+    pelo(a) Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/119-2019-124793094
+  date: '2019-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2005/08/03/p/dre
   label: null
@@ -87,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/160/2003/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/160/2003/07/19/p/dre
+- type: cites
+  target: pt:dre:240382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670764:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:37Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +157,7 @@ Isenção de garantia
 
 4 - Deferido o pedido de pagamento em prestações no âmbito do presente artigo, o total do imposto é dividido pelo número de prestações mensais e iguais, constantes da seguinte tabela, acrescendo à primeira as fracções resultantes do arredondamento de todas elas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/08/14800/54955496.pdf))](https://files.diariodarepublica.pt/1s/2006/08/14800/54955496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/08/14800/54955496.pdf)
 
 5 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.
 
@@ -145,12 +173,12 @@ O regime previsto no presente decreto-lei apenas é aplicável a dívidas cujo p
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 19 de Julho de 2006.**
+Promulgado em 19 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

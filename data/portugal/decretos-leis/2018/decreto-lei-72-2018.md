@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/09/17600/0476004763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2018/09/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2018-116388437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1966b83283a7e14038057cbad98dec9798c87174b8feb4c544f61504684ed5fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44f91c1b886caaff8a3ca97b6dc24bff8f07f4438872995920cef479c864e13b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto da Segurança Social
+- Açores
 - Aquisição de Bens e Serviços
-- Modernização Administrativa
 - Certificado do Registo Criminal
-- Instituto dos Registos e do Notariado
+- Contratação Eletrónica
+- Contratação Pública
 - Contrato Administrativo
 - Definição de Competências
-- Fiscalização
-- Segurança da Informação
-- Programa Simplex
-- Governo Electrónico
-- Sistema de Informação
-- Madeira.região Autónoma
 - Direcção Geral da Administração da Justiça
-- Regime Jurídico
-- Açores
-- Contratação Eletrónica
-- Taxa
+- Fiscalização
+- Governo Electrónico
+- Instituto da Segurança Social
 - Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Instituto dos Registos e do Notariado
+- Madeira.região Autónoma
+- Modernização Administrativa
 - Plataforma Eletrónica
 - Portal Nacional de Fornecedores do Estado
-- Contratação Pública
+- Programa Simplex
+- Regime Jurídico
+- Segurança da Informação
+- Sistema de Informação
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:835864043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124044666:por
+  label: Alterado, a partir de 17.09.2019. o art. 16.º do Dec Lei 171/2015 de 25-ago, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 115/2019 - Diário da República n.º 158/2019, Série I de 2019-08-20 que republica o Dec Lei 171/2015
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2019-124044666
+  date: '2019-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2007/04/19/p/dre
   label: null
@@ -109,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/68/2017/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2017/06/16/p/dre
+- type: cites
+  target: pt:dre:107522250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70095697:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:00Z'
   warnings: []
   errors: []
 ---
@@ -377,12 +399,14 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 23 de agosto de 2018. - António Luís Santos da Costa - Maria Manuel de Lemos Leitão Marques - Ricardo Emanuel Martins Mourinho Félix - Francisca Eugénia da Silva Dias Van Dunem - Cláudia Sofia de Almeida Gaspar Joaquim - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 29 de agosto de 2018.**
+Promulgado em 29 de agosto de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de agosto de 2018.**
+Referendado em 30 de agosto de 2018.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+111642262

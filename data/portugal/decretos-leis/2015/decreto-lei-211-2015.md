@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19000/0850408513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2015/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2015-70402846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b74697cdb237d58103e60c565b4bfccb2a74616204c245c29d35f651e14b827
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e78cee6291a049412dcca98ef4b3e9fdeda056518b7a1960a3f22ec62959d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
+- Conselho Diretivo
 - Conselho Pedagógico
-- Língua Portuguesa
-- Moçambique
 - Definição de Competências
 - Diretor
 - Ensino Português no Estrangeiro
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Recrutamento de Pessoal
-- Gestão do Património
-- Palop
-- Conselho Diretivo
-- Pessoal não Docente
 - Estabelecimento de Ensino
+- Gestão do Património
+- Gestão Financeira
+- Língua Portuguesa
+- Moçambique
+- Palop
 - Pessoal Docente
+- Pessoal não Docente
 - Presidente
 - Propinas
-- Quadro de Pessoal
 - Proteção Social
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - Subdiretor
 - Vogal
 relationships:
@@ -128,16 +128,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/le
   label: null
   source: http://data.dre.pt/eli/le
+- type: cites
+  target: pt:dre:174807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 59
+  article_count: 42
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:26Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +266,9 @@ Os artigos 1.º, 2.º, 5.º, 6.º, 7.º, 8.º, 9.º-A a 9.º-E, 13.º, 14.º, 15
 
 2 - É igualmente criado pelo presente decreto-lei, um polo da Escola, que dela faz parte integrante, sediado na Matola, adiante designado por polo da Matola.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -204,13 +286,17 @@ b) Celebrar contrato de autonomia.
 
 6 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
 
-###### Artigo 5.º — Gestão
+Artigo 5.º
+
+Gestão
 
 1 - A gestão da Escola e a prestação do serviço público de educação é efetuada diretamente pelo Estado Português.
 
 2 - Sem prejuízo das especificidades previstas no presente diploma, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, alterado pelos [Decretos-Leis n.os 224/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2009-489733), de 11 de setembro, e [137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -218,7 +304,9 @@ b) Celebrar contrato de autonomia.
 
 3 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 O conselho de patronos é o órgão responsável pela definição das linhas orientadoras da atividade da Escola, competindo-lhe, em especial:
 
@@ -240,7 +328,9 @@ h) Aprovar as propostas de contratos de autonomia, nos termos do artigo 21.º-A;
 
 i) [Anterior alínea b)].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -252,7 +342,9 @@ i) [Anterior alínea b)].
 
 5 - Sempre que o presidente considere que as deliberações do conselho de patronos podem pôr em causa o interesse público e a prossecução dos objetivos da Escola, deve submetê-las a homologação do membro do Governo responsável pela área da educação, suspendendo-se a sua execução.
 
-###### Artigo 9.º-A — [...]
+Artigo 9.º-A
+
+[...]
 
 1 - A direção da Escola é composta por um diretor e dois subdiretores.
 
@@ -268,7 +360,9 @@ b) Por despacho dos membros do Governo responsáveis pelas áreas dos negócios 
 
 5 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, a dirigentes superiores de 1.º e 2.º grau, respetivamente.
 
-###### Artigo 9.º-B — [...]
+Artigo 9.º-B
+
+[...]
 
 1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
 
@@ -334,7 +428,9 @@ d) [Anterior alínea c) do n.º 1].
 
 6 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que designar.
 
-###### Artigo 9.º-C — [...]
+Artigo 9.º-C
+
+[...]
 
 1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
 
@@ -350,17 +446,23 @@ b) Participação das demais estruturas de coordenação e supervisão pedagógi
 
 5 - No caso da oferta educativa ser constituída até ao 1.º ciclo, um dos subdiretores do polo integra o conselho pedagógico da Escola sede.
 
-###### Artigo 9.º-D — [...]
+Artigo 9.º-D
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, compete ao conselho pedagógico exercer as competências legais definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.
 
 2 - [Revogado].
 
-###### Artigo 9.º -E — [...]
+Artigo 9.º -E
+
+[...]
 
 O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Aos docentes da Escola é aplicável o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril (ECD).
 
@@ -378,7 +480,9 @@ O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do
 
 8 - A remuneração do pessoal docente referido no número anterior é fixada nos termos do artigo 43.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, alterado pelo [Decreto-Lei n.º 146/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2013-502866), de 22 de outubro, pela [Lei n.º 80/2013](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), de 28 de novembro, e pelo [Decreto-Lei n.º 83-A/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), de 23 de maio.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O recrutamento do pessoal para o exercício de funções não docentes na Escola é efetuado através de contratação local de trabalhadores, nos termos de legislação própria.
 
@@ -388,7 +492,9 @@ O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do
 
 4 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.
 
@@ -424,7 +530,9 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 13 - [Revogado].
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social de Moçambique, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre Portugal e Moçambique.
 
@@ -434,11 +542,15 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 4 - [Revogado].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da [Lei n.º 31/2002](https://diariodarepublica.pt/dr/detalhe/lei/31-2002-405486), de 20 de dezembro, alterado pela [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro.
 
@@ -446,7 +558,9 @@ O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar
 
 3 - [Revogado].
 
-###### Artigo 24.º-A — Propinas
+Artigo 24.º-A
+
+Propinas
 
 O valor das propinas é fixado pela direção é aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.»
 
@@ -490,15 +604,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil subsequente ao da su
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 18 de setembro de 2015.**
+Promulgado em 18 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de setembro de 2015.**
+Referendado em 22 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

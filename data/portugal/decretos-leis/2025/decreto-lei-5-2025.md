@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/02800/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/5/2025/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2025-906727858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18262f11ea38ae7776a9a81d52f32b682ff14debd64892f026abe128145c35aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9baaabf52181eea076338ed4b35eac71428ff8c53223d81f54995d23bbd47a40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
-- Financiamento
-- Serviço Nacional de Saúde
-- Catástrofe
-- Comissão de Coordenação e Desenvolvimento Regional
 - Agricultor
-- Emprego
-- Regime de Apoio
-- Habitação
 - Agricultura
 - Autarquia Local
+- Catástrofe
+- Comissão de Coordenação e Desenvolvimento Regional
+- Emprego
+- Financiamento
+- Habitação
+- Incêndio
 - Prejuízo Financeiro
+- Proteção Civil
+- Regime de Apoio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:908074081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:59-A/2024
+  label: Altera, a partir de 11 de fevereiro de 2025, com efeitos a 1 de janeiro de 2025, os artigos 22.º, 24.º, 26.º e 29.º
+    e adita o artigo 9.º-A ao Decreto-Lei n.º 59-A/2024, de 27 de setembro, Diário da República n.º 188/2024, Suplemento,
+    Série I
+  source: null
+  date: '2024-09-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59-a/2024/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59-a/2024/09/27/p/dre
+- type: cites
+  target: pt:dre:889277040:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:31Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +147,9 @@ Apoios à reposição e reparação de infraestruturas e equipamentos públicos 
 
 2 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -144,11 +157,15 @@ Apoios à reposição e reparação de infraestruturas e equipamentos públicos 
 
 3 - Para a atribuição e gestão dos apoios a conceder são celebrados protocolos de colaboração entre as CCDR, I. P., e as autarquias locais, no âmbito das suas atribuições.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Podem candidatar-se à concessão dos apoios previstos no presente decreto-lei os beneficiários elegíveis, nos termos específicos de cada apoio, até 31 de março de 2025.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -174,12 +191,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida.
 
-**Promulgado em 29 de janeiro de 2025.**
+Promulgado em 29 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de fevereiro de 2025.**
+Referendado em 6 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118666073

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/245a00/65476550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/273/1995/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1995-668483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64794c3356c91d418e80475e88eca53b902989ac628a6ac49d965a272076d6b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ac49745a4716c6df669c37ed8e05912a42f33ec4fc150d84ca0f86fb158d61a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,59 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Multa
-- Infarmed
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Fabrico Industrial
 - Fiscalização
-- Certificado de Qualidade
+- Infarmed
 - Material Médico-Cirúrgico
-- Comércio
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:494558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197909:por
+  label: "Alterados os arts. 1.º a 10.º, 12.º, 13.º, 14.º e os anexos I a XII, aditados os arts. 8.º-A a 8.º-E e 14.º-A, pelo\
+    \ DEC LEI.30/2003.2003.02.14.MS DR.IS-A [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2003-197909
+  date: '2003-02-14'
+- type: amended_by
+  target: pt:dre:671050:por
+  label: "Alterados os arts. 6º, 7º, 8º-C, 11º e 12º do presente diploma, com a redacção conferida pelo Dec Lei 30/2003 de\
+    \ 14-Fev, e aditados os arts. 14º-B e 14º-C a este mesmo diploma, pelo DEC LEI.76/2006.27.03.2006.MS, DR.IS-A [61] de\
+    \ 27.03.2006, que o republicou com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2006-671050
+  date: '2006-03-27'
+- type: amended_by
+  target: pt:dre:517866:por
+  label: "Alterado o art. 8º-C, com a redacção conferida nos Dec Lei 30/2003 de 14-Fev e 76/2006 de 27-Mar, pelo DEC LEI.36/2007.16.02.2007.MS,\
+    \ DR.IS [34] de 16.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2007-517866
+  date: '2007-02-16'
 - type: cites
   target: celex:31993L0042
   label: null
   source: http://data.europa.eu/eli/dir/1993/42/oj
+- type: repealed_by
+  target: pt:dre:494558:por
+  label: "Revogado, a partir de 21.03.2010, o presente diploma, com as alterações constantes dos Dec Lei 30/2003 de 14-Fev,\
+    \ 76/2006 de 27-Mar e 36/2007 de 16-Fev, pelo DEC LEI.145/2009.17.06.2009.MS, DR.IS [115] de 17.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2009-494558
+  date: '2009-06-17'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:11Z'
   warnings: []
   errors: []
 ---
@@ -298,12 +323,12 @@ As informações transmitidas a todos os intervenientes na execução do present
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

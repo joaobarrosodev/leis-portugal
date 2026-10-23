@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/1997/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1997-162668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba5e7fbf9a0c6144648ecb645bd16ffab94c11316cf9e268221be1474f14bbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 277b706f955b6baf4453bbe24c2aed6f673fb089c6dcc6355d2fdeb5fd0339e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ subjects:
 - Achado no MAR
 - Actividade Subaquática
 - Arqueologia
-- Investigação Científica e Tecnológica
 - Comissão Arbitral
-- Inspecção Geral das Actividades Culturais
 - Contra-ordenação
-- Mar Territorial
-- Propriedade do Estado
-- Património Cultural
 - Gestão do Património
 - Informação Científica e Técnica
+- Inspecção Geral das Actividades Culturais
 - Instituto Português de Arqueologia
+- Inventário
+- Investigação Científica e Tecnológica
+- Mar Territorial
+- Património Cultural
 - Património Subaquático
 - Pesca Profissional
-- Zona de Proteção
+- Propriedade do Estado
 - Protecção do Património
-- Inventário
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/1997/05/14/p/dre
@@ -100,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/568/1995/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/568/1995/06/16/p/dre
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517430:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:05Z'
   warnings: []
   errors: []
 ---
@@ -386,12 +418,12 @@ São revogados os Decretos-Leis n.os [289/93](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - Adriano Lopes Gomes Pimpão - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Junho de 1997.**
+Referendado em 11 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

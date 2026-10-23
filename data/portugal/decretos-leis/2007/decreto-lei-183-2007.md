@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/183/2007/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2007-520846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bdd51c1110f12e1eb6cb08cb34458700ab2255649f706f56b6240b59f26115d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862b88e7ebc51b5898fbf20a369802c2174813148a35540625d56f176cb72f90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Localização de Empresas
-- Modernização Administrativa
 - Contra-ordenação
 - Estabelecimento Industrial
 - Licenciamento
+- Localização de Empresas
+- Modernização Administrativa
 - TAXA de Prestação de Serviços
 - Transferência de Competências
 - Vistoria
@@ -121,16 +121,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681647:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453550:por
+  label: "Revogado a partir de 31.08.2008, o Decreto-Lei 194/2000, de 21 de Agosto, na redacção do presente diploma, pelo\
+    \ DEC LEI.173/2008.26.08.2008.MAOTDR, DR.IS [164] de 26.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2008-453550
+  date: '2008-08-26'
 article_structure:
-  article_count: 55
+  article_count: 46
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:19Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +249,9 @@ Os artigos 9.º, 12.º, 13.º, 14.º, 21.º, 25.º, 26.º e 31.º do [Decreto-Le
 
 2 - Exclui-se do disposto no número anterior os estabelecimentos industriais do tipo 4, os quais estão sujeitos ao regime de declaração prévia ao exercício da actividade industrial, sem prejuízo do cumprimento da legislação aplicável em matéria de segurança, higiene e saúde no trabalho e em matéria de ambiente.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +285,9 @@ f) ...
 
 10 - A exclusão de sujeição a licença ambiental a que se refere o n.º 8 não dispensa o licenciamento da utilização de recursos hídricos nem a sujeição à demais legislação ambiental aplicável.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A licença ou autorização de obras para construção, ampliação ou alteração de um estabelecimento industrial do tipo 1, 2 ou 3 pode ser emitida pela câmara municipal respectiva, desde que o industrial demonstre ter apresentado o pedido de licenciamento da instalação ou alteração de estabelecimento industrial devidamente instruído à entidade coordenadora, com excepção dos estabelecimentos industriais abrangidos pelos Decretos-Leis n.os [69/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2000-281589), de 3 de Maio, e [194/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-2000-324317), de 21 de Agosto, que têm de cumprir exigências processuais a definir em diploma regulamentar.
 
@@ -215,7 +297,9 @@ f) ...
 
 4 - A sujeição ao regime de declaração prévia não dispensa, quando aplicáveis, os procedimentos previstos no regime jurídico da urbanização e da edificação, aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 177/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2001-331257), de 4 de Julho.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +315,9 @@ b) [Anterior alínea c).]
 
 5 - A transmissão do estabelecimento industrial, bem como a suspensão ou cessação do exercício da actividade industrial, deve ser comunicada à entidade coordenadora, nos termos a definir em diploma regulamentar.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +337,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - É devido o pagamento de uma taxa única, da responsabilidade do industrial, para cada um dos seguintes actos, sem prejuízo do disposto no n.º 3 e das taxas previstas em legislação específica:
 
@@ -285,7 +373,9 @@ j) Vistorias de verificação e controlo das condições impostas aos estabeleci
 
 6 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +399,9 @@ j) Vistorias de verificação e controlo das condições impostas aos estabeleci
 
 11 - Sempre que a entidade coordenadora não cumpra com as obrigações previstas nos n.os 8 e 10, o procedimento de emissão, alteração, renovação ou actualização da licença ambiental fica suspenso, até à efectiva entrega da participação nas receitas cobradas.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 As operações de gestão de resíduos sujeitas a licenciamento industrial e não abrangidas pelo regime de licença ambiental são efectuadas nos termos do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de Setembro, e legislação conexa, com as adaptações resultantes do presente diploma e suas normas técnicas a aprovar por decreto regulamentar, sendo dispensada a apresentação dos elementos de instrução do pedido já constantes do processo de licenciamento de instalação ou alteração da actividade industrial.»
 
@@ -373,15 +465,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Pedro Manuel Dias de Jesus Marques - António Fernando Correia de Campos.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -799,7 +891,9 @@ Os artigos 13.º e 19.º do [Decreto-Lei n.º 69/2000](https://diariodarepublica
 
 10 - (Anterior n.º 8.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -839,7 +933,9 @@ c) Os prazos referidos nas alíneas anteriores podem ser excepcionalmente reduzi
 
 5 - Os prazos previstos no n.º 1 podem ser prorrogados por despacho do ministro responsável pela área do ambiente, findos os quais a entidade competente tem obrigatoriamente de produzir decisão expressa sobre a licença ambiental.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2011/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2011-145193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ec8e6b510bffac8ca872626a57e55726f5e310288a3d71bdcdfe96b9c39c495
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8acfc24791f43e7439da7c6ccbfdc6bbcf79095e36b4e06b756973589846987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- CASA PIA de Lisboa
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
-- Direcção Geral da Segurança Social
 - Conselho Nacional para as Políticas de Solidariedade Voluntariado Família Reabilitação e Segurança Social
 - Controlador Financeiro
 - Cooperativa António Sérgio
 - Criação de Serviços
 - Definição de Competências
+- Direcção Geral da Segurança Social
 - Extinção de Serviços
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Inatel
 - Inspecção Geral
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Informática
-- CASA PIA de Lisboa
+- Instituto Nacional para a Reabilitação
 - Integração de Serviços
-- Santa Casa da Misericórdia
 - Ministério da Solidariedade e da Segurança Social
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Instituto Nacional para a Reabilitação
-- Inatel
+- Reestruturação de Serviços
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Tutela
 relationships:
 - type: amended_by
@@ -119,16 +119,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:308762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:164425:por
+  label: "Revogado, a partir de 01.01.2014, pelo DEC LEI.167-C/2013.31.12.2013.MSESS, DR.IS [253-3ºSupl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-c-2013-164425
+  date: '2013-12-31'
 article_structure:
   article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:46Z'
   warnings: []
   errors: []
 ---
@@ -557,24 +586,24 @@ O PIEC mantém-se em vigor até ao término do ano lectivo de 2011-2012, por for
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 9 de Dezembro de 2011.**
+Promulgado em 9 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Dezembro de 2011.**
+Referendado em 12 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 24.º)
 
 Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf)
 
 ## ANEXO II — (a que se refere o artigo 24.º)
 
 Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf))](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/12/24900/0550905515.pdf)

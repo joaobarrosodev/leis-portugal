@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23789-1968-262320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49bb34e9865934977e04647254e56dfea8987a64c7fe20d8796483fa16d1321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95f71444e8065fc280bf8a5abf9712113c74a77f8f099ace5b396df4d03170ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:31Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Repartição Provincial dos Serviços de Marinha
 
 Despesas com o pessoal:
 
-###### Artigo 282.º «Remunerações certas ao pessoal em exercício»:
+Artigo 282.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 3000$00
 
@@ -107,9 +119,9 @@ N.º 3) «Pessoal assalariado» ... 4000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 329.º, n.º 5), alínea a) «Deslocações de pessoal - Subsídios de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 10000$00
+Artigo 329.º, n.º 5), alínea a) «Deslocações de pessoal - Subsídios de viagem e de demora em portos de escala, inerentes às deslocações fora da província - A pagar na metrópole» ... 10000$00
 
-###### Artigo 330.º «Diversas despesas»:
+Artigo 330.º «Diversas despesas»:
 
 N.º 1), alínea a) «Despesas com valores selados - A pagar na metrópole» ... 30000$00
 
@@ -129,13 +141,13 @@ Instituto do Trabalho, Previdência e Acção Social
 
 Despesas com o pessoal:
 
-###### Artigo 235.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 220000$00
+Artigo 235.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 220000$00
 
 Direcção dos Serviços de Estatística
 
 Despesas com o pessoal:
 
-###### Artigo 787.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 280000$00
+Artigo 787.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 280000$00
 
 ... 500000$00
 

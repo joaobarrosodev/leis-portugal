@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/76-1983-312441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2764fb492b714b4fa66408c8946cb83d5b956b2128a203788b92e76088dcb81c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97538866c00bb329d08a1c98bcbbcbaf71f312102da2cb7ace60b812eb0a26f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Filipinas
+- Manila
 relationships:
 - type: amended_by
   target: pt:dre:225465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:225465:por
+  label: "Alterado pela PORT.728/94.1994.08.12.MNE, DR.IS-B [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-1994-225465
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:1139512:por
+  label: "Extinguido o Consulado Honorário pelo DESP.5180/2004(2ªSérie).18.02.2004.MNE, DR.IIS [64] de 16.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5180-2004-1139512
+  date: '2004-02-18'
+- type: cites
+  target: pt:dre:472162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:32Z'
   warnings: []
   errors: []
 ---

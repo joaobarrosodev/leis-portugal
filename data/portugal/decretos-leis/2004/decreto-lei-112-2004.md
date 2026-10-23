@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2004/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffc80440ff2e982f96966779249c4ea8f009b9873ba9f144a40b86b3fd4b75d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 352f20d61359ae8ed3e3bf086aea6d215ca16362f26be9fa235608bb96e131a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Pensões
-- Gestão Financeira
-- Instituto de Solidariedade e Segurança Social
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
 - Depósito Bancário
 - Estatuto
 - Extinção de Serviços
 - Fiscalização
-- Conselho Diretivo
-- Conselho Consultivo
+- Gestão Financeira
 - Instituto de Gestão Financeira da Segurança Social
+- Instituto de Solidariedade e Segurança Social
 - Integração de Trabalhadores
 - Orçamento da Segurança Social
 - Prestações da Segurança Social
@@ -88,6 +88,32 @@ relationships:
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480292:por
+  label: "Transferidas as competências atribuídas ao Instituto de Gestão Financeira da Segurança Social pelo Dec Lei 42/2001\
+    \ de 09-Fev, DR.IS-A [34], na redacção do presente diploma, para o Centro de Segurança Social da Madeira (CSSM), nos termos\
+    \ do art. 48º do DLR.26/2004/M.14.07.2004.ALR-RAM, DR.IS-A [196] de 20.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2004-480292
+  date: '2004-07-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Determinada a sucessão do Instituto da Segurança Social, nos direitos e obrigações, ao Instituto da Solidariedade\
+    \ e da Segurança Social, cujos estatutos foram aprovados pelo Dec Lei 316-A/2000, de 07-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2004-07-17'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 13.º do Dec Lei 42/2001 de 09-Fev, na redacção do presente diploma, pela LEI.3-B/2010.28.04.2010.AR,\
+    \ DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 13º do Dec Lei 42/2001, de 09-Fev, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:h
   label: null
@@ -132,16 +158,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/417/2000/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/417/2000/07/17/p/dre
+- type: cites
+  target: pt:dre:314416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:08Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +296,9 @@ São alterados os artigos 2.º, 3.º, 10.º e 27.º do Estatuto do Instituto de 
 
 2 - O Instituto tem a sua sede em Lisboa.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O Instituto tem por objectivo a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social, sendo as suas atribuições nas áreas do planeamento, orçamento e conta, do património, da gestão financeira do sistema de segurança social e da gestão da dívida à segurança social.
 
@@ -242,7 +362,9 @@ vi) [Anterior subalínea vii).]
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 ...
 
@@ -282,7 +404,9 @@ r) [Anterior alínea s).]
 
 s) [Anterior alínea t).]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - No âmbito do sistema de segurança social, compete ao Instituto estabelecer as relações com o sistema bancário e financeiro, podendo negociar e acordar aplicações de capital, bem como constituir depósitos e contrair empréstimos.
 
@@ -334,7 +458,9 @@ n) Reclamar os créditos da segurança social em sede de processos de insolvênc
 
 3 - No exercício das atribuições previstas nas alíneas l) e n) do número anterior, o ISSS actua de acordo com as orientações definidas em articulação com o IGFSS.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -344,7 +470,9 @@ n) Reclamar os créditos da segurança social em sede de processos de insolvênc
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +506,9 @@ o) [Anterior alínea q).]
 
 2 - O CD pode delegar, com poderes de subdelegação, num ou mais dos seus membros, nos directores dos centros distritais e do CNP e nos dirigentes de serviços a prática de actos que sejam da respectiva competência exclusiva, devendo o acto de delegação constar da acta da reunião em que essa deliberação for tomada.
 
-###### Artigo 12.º — Administrador do Centro Nacional de Pensões
+Artigo 12.º
+
+Administrador do Centro Nacional de Pensões
 
 Compete ao administrador do CNP:
 
@@ -386,7 +516,9 @@ a) Coordenar e orientar a actividade do CNP;
 
 b) Exercer as demais competências que lhe sejam delegadas pelo CD.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os conselhos consultivos distritais de segurança social, adiante abreviadamente designados por conselhos, têm âmbito distrital e são compostos pelo director do centro distrital de segurança social, que preside, um representante dos municípios do distrito, designado pela Associação Nacional de Municípios Portugueses, e um representante de cada uma das entidades que não integram o sistema de segurança social previstas no n.º 1 do artigo 13.º e, ainda, no distrito de Lisboa, pelo provedor da Santa Casa da Misericórdia de Lisboa.
 
@@ -394,7 +526,9 @@ b) Exercer as demais competências que lhe sejam delegadas pelo CD.
 
 3 - O presidente do conselho é substituído, nas suas faltas e impedimentos, pelo respectivo adjunto do centro distrital ou, havendo mais de um, pelo que tiver sido designado para o efeito pelo director do centro distrital.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 São serviços do ISSS:
 
@@ -408,7 +542,9 @@ d) ...
 
 e) ...
 
-###### Artigo 26.º — Serviços de fiscalização
+Artigo 26.º
+
+Serviços de fiscalização
 
 1 - Os serviços de fiscalização dependem directamente do conselho directivo e abrangem áreas geográficas que agrupam mais de um distrito, sendo cada um dirigido por um director de departamento.
 
@@ -456,12 +592,12 @@ b) Desenvolver, nos termos da lei, as acções necessárias à aplicação dos r
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - António José de Castro Bagão Félix.
 
-**Promulgado em 10 de Março de 2004.**
+Promulgado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

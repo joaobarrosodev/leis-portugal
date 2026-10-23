@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 52/1975, 2º Suplemento, Série I de 1975-03-03
   number: '52'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 334-(10) a 334-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-d-1975-583988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7211e5bc91699084b35819d4beaf6a5a3edff52f4b01ff3cf73ac721c35b8776
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c874709a0be246d15cf3e00f4fcfb59b04c182ec3c977e5148c30a7e3e3f73d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,47 @@ relationships:
   target: pt:dre:579689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408891:por
+  label: Revogada, a partir de 12.10.1976, mantendo-se em vigor as disposições constantes dos arts. 7.º, 8.º, 9.º, 10.º e
+    11.º, pelo(a) Portaria n.º 599/76 - Diário da República n.º 239/1976, Série I de 1976-10-12 nos termos do seu n.º 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1976-408891
+  date: '1976-10-12'
+- type: repealed_by
+  target: pt:dre:579689:por
+  label: "Revogada pela PORT.642/81.24.07.1981.MAP, DR.IS [168] de 24.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1981-579689
+  date: '1981-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:39:26Z'
   warnings: []
   errors: []
 ---
@@ -136,17 +167,17 @@ c) Sortido - peixes até 0,5 kg e peixes partidos ou amputados ou com ligeiros d
 
 3.º Fica a Comissão Reguladora do Comércio de Bacalhau autorizada a adquirir ao armador nacional bacalhau salgado seco e espécies afins aos seguintes preços de garantia, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
 
 4.º A venda ao público de todos os tipos de bacalhau salgado seco e de espécies afins, nacionais ou importados, fica sujeita ao regime de preços máximos previstos na alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
 
 5.º Os preços máximos de venda ao público do bacalhau salgado seco e das espécies afins, nacionais ou importados, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
 
 6.º Ao retalhista são asseguradas as seguintes margens mínimas de comercialização para o bacalhau salgado seco e espécies afins, nacionais ou importados, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf))](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/05202/00100011.pdf)
 
 7.º Os retalhistas podem abastecer-se directamente no armador ou importador, ficando estes obrigados a satisfazer encomendas para entregas iguais ou superiores a 600 kg líquidos (10 fardos).
 

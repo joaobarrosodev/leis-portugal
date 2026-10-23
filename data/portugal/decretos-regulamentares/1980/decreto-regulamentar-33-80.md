@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17600/19481952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1980-470251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63467f7160a031950fab1592d10471b7268331c1ae9a60605bf283470d11e8ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cce5ccb869faedc7ef2cf1ac67dd69bc6cb6b72d4159fc6143e6101d9f36b2ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cinemateca Nacional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:161479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:461468:por
+  label: "Alterado o quadro de pessoal pela PORT.778/80.03.10.1980.PCM, DR.IS [229] de 03.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-1980-461468
+  date: '1980-10-03'
+- type: amended_by
+  target: pt:dre:161479:por
+  label: "Totalmente revogado pelo DEC LEI.165/97.1997.06.28.MC, DR.IS-A [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-1997-161479
+  date: '1997-06-28'
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:410282:por
+  label: "Revogado pelo DEC LEI.106-A/92.01.06.1992.PCM, DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-a-1992-410282
+  date: '1992-06-01'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:16Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +135,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Cinemateca Portuguesa é um serviço da Secretaria de Estado da Cultura dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
+Artigo 1.º - 1 - A Cinemateca Portuguesa é um serviço da Secretaria de Estado da Cultura dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
 
 2 - A Cinemateca Portuguesa funciona sob a tutela directa e imediata do membro do Governo responsável pela área da cultura.
 
-###### Art. 2.º São atribuições da Cinemateca Portuguesa:
+Art. 2.º São atribuições da Cinemateca Portuguesa:
 
 a) Coleccionar e preservar, no interesse da salvaguarda do património fílmico nacional, o maior número possível de filmes, positivos ou negativos, da produção cinematográfica nacional, desde as suas origens;
 
@@ -134,7 +167,7 @@ m) Editar e publicar órgãos e elementos de divulgação e vulgarização dos s
 
 n) Editar e publicar textos e elementos de apoio às projecções e sessões da sua competência.
 
-###### Art. 3.º Para o exercício das suas atribuições, compete à Cinemateca Portuguesa:
+Art. 3.º Para o exercício das suas atribuições, compete à Cinemateca Portuguesa:
 
 a) Adquirir por compra, doação, cedência, troca, herança ou legado, ou por qualquer outro modo legítimo, filmes, positivos e negativos, documentação cinematográfica e material de museu;
 
@@ -170,7 +203,7 @@ q) Publicar e promover a publicação de obras de divulgação cinematográfica 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Artigo 4.º São órgãos e serviços da Cinemateca Portuguesa:
+Artigo 4.º São órgãos e serviços da Cinemateca Portuguesa:
 
 a) Director;
 
@@ -184,11 +217,11 @@ e) Arquivo Fílmico;
 
 f) Secção Administrativa.
 
-###### Art. 5.º - 1 - O director é coadjuvado no exercício das suas funções por um subdirector.
+Art. 5.º - 1 - O director é coadjuvado no exercício das suas funções por um subdirector.
 
 2 - O director e o subdirector são equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.
 
-###### Art. 6.º - 1 - Compete ao director:
+Art. 6.º - 1 - Compete ao director:
 
 a) Representar a Cinemateca Portuguesa, activa e passivamente, em juízo e fora dele, e em quaisquer actos e contratos em que ela seja parte;
 
@@ -212,7 +245,7 @@ j) O exercício das demais atribuições que por este diploma lhe sejam cometida
 
 2 - O director poderá delegar no subdirector, total ou parcialmente, a competência que lhe é atribuída no n.º 1 deste artigo.
 
-###### Art. 7.º - 1 - O conselho administrativo é composto por:
+Art. 7.º - 1 - O conselho administrativo é composto por:
 
 a) O director da Cinemateca, que presidirá;
 
@@ -224,7 +257,7 @@ d) Um representante da Direcção-Geral da Contabilidade Pública.
 
 2 - Ao representante da Direcção-Geral da Contabilidade Pública será atribuída uma gratificação, a fixar por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
 
-###### Art. 8.º Compete ao conselho administrativo:
+Art. 8.º Compete ao conselho administrativo:
 
 a) Orientar e propor os orçamentos anuais, ordinários e suplementares, das receitas e despesas da Cinemateca Portuguesa e suas alterações;
 
@@ -236,11 +269,11 @@ d) Superintender na cobrança e arrecadação de receitas;
 
 e) Autorizar, verificado o respectivo cabimento, a realização de despesas.
 
-###### Art. 9.º - 1 - O conselho administrativo reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente o convoque.
+Art. 9.º - 1 - O conselho administrativo reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente o convoque.
 
 2 - As deliberações são tomadas por maioria dos membros presentes, cabendo voto de qualidade ao presidente.
 
-###### Art. 10.º Ao Centro de Documentação e Informação, chefiado por um chefe de divisão, compete especialmente:
+Art. 10.º Ao Centro de Documentação e Informação, chefiado por um chefe de divisão, compete especialmente:
 
 a) A recolha selectiva da informação cinematográfica nacional e estrangeira de carácter crítico, histórico, estético e de divulgação, em forma de monografias, publicações periódicas, recortes de imprensa, folhetos, cartazes e outro material bibliográfico não impresso;
 
@@ -250,7 +283,7 @@ c) A organização de leituras de presença, bem como de formas adequadas de dif
 
 d) A cooperação com organismos nacionais e estrangeiros congéneres.
 
-###### Art. 11.º Ao Serviço de Programação e Divulgação, chefiado por um chefe de divisão, compete:
+Art. 11.º Ao Serviço de Programação e Divulgação, chefiado por um chefe de divisão, compete:
 
 a) A divulgação de todo o cinema com importância artística e cultural, desde os pioneiros até às experiências mais recentes;
 
@@ -266,7 +299,7 @@ f) A actividade editorial;
 
 g) O contacto e a cooperação com personalidades ou instituições nacionais ou estrangeiras que se revelem úteis para a prossecução dos objectivos enunciados.
 
-###### Art. 12.º Ao Arquivo Fílmico, chefiado por um chefe de divisão, compete:
+Art. 12.º Ao Arquivo Fílmico, chefiado por um chefe de divisão, compete:
 
 1 - A recolha e conservação de material fílmico nacional e estrangeiro, positivo e negativo, de qualquer suporte, formato ou metragem.
 
@@ -288,9 +321,9 @@ g) A execução de todos os trabalhos de fotografia necessários às actividades
 
 h) A participação nas iniciativas que contem com o apoio de carácter fotográfico, como exposições ou actividade editorial.
 
-###### Art. 13.º A Secção Administrativa, chefiada por um chefe de secção, compete assegurar os serviços de expediente, arquivo, de administração financeira, patrimonial e de pessoal.
+Art. 13.º A Secção Administrativa, chefiada por um chefe de secção, compete assegurar os serviços de expediente, arquivo, de administração financeira, patrimonial e de pessoal.
 
-###### Art. 14.º - 1 - Constituem receitas da Cinemateca Portuguesa:
+Art. 14.º - 1 - Constituem receitas da Cinemateca Portuguesa:
 
 a) 20% das receitas orçamentais do Instituto Português de Cinema;
 
@@ -316,23 +349,23 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei ou provenientes d
 
 ### CAPÍTULO III — Regime financeiro
 
-###### Art. 15.º - 1 - A Cinemateca Portuguesa arrecada e cobra as suas receitas.
+Art. 15.º - 1 - A Cinemateca Portuguesa arrecada e cobra as suas receitas.
 
 2 - As receitas referidas na alínea a) do artigo 14.º são depositadas pelo Instituto Português de Cinema no início de cada trimestre, em prestações iguais, na conta da Cinemateca Portuguesa.
 
-###### Art. 16.º - 1 - As importâncias de que a Cinemateca Portuguesa carece, por conta das verbas que lhe estiverem consignadas no orçamento, acrescidas das quantias efectivamente cobradas nos termos do artigo 14.º, poderão ser requisitadas sem dependência de duodécimos.
+Art. 16.º - 1 - As importâncias de que a Cinemateca Portuguesa carece, por conta das verbas que lhe estiverem consignadas no orçamento, acrescidas das quantias efectivamente cobradas nos termos do artigo 14.º, poderão ser requisitadas sem dependência de duodécimos.
 
 2 - As importâncias requisitadas nos termos do artigo anterior serão depositadas pela Cinemateca Portuguesa em conta própria na Caixa Geral de Depósitos, Crédito e Previdência.
 
 3 - Na mesma conta manter-se-ão em depósito os saldos dos exercícios anteriores, os quais transitam automaticamente para o ano seguinte.
 
-###### Art. 17.º A Cinemateca Portuguesa administra as suas receitas, cuja movimentação se efectuará de acordo com as normas legais aplicáveis.
+Art. 17.º A Cinemateca Portuguesa administra as suas receitas, cuja movimentação se efectuará de acordo com as normas legais aplicáveis.
 
-###### Art. 18.º - 1 - As despesas previstas no orçamento da Cinemateca Portuguesa realizar-se-ão sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
+Art. 18.º - 1 - As despesas previstas no orçamento da Cinemateca Portuguesa realizar-se-ão sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas.
 
 2 - O pagamento das despesas far-se-á por cheques nominativos, assinados por dois membros do conselho administrativo.
 
-###### Art. 19.º - 1 - Constituem património da Cinemateca Portuguesa as obrigações por si assumidas e os bens e direitos por si definitivamente adquiridos.
+Art. 19.º - 1 - Constituem património da Cinemateca Portuguesa as obrigações por si assumidas e os bens e direitos por si definitivamente adquiridos.
 
 2 - Não integram o património da Cinemateca Portuguesa os negativos depositados nos termos da legislação relativa ao regime de depósito obrigatório para os filmes nacionais, os quais se mantêm propriedade dos titulares dos respectivos direitos, nos termos da legislação autoral em vigor.
 
@@ -340,15 +373,15 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei ou provenientes d
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 20.º Os serviços da Cinemateca Portuguesa terão o pessoal permanente constante do mapa anexo ao presente diploma.
+Art. 20.º Os serviços da Cinemateca Portuguesa terão o pessoal permanente constante do mapa anexo ao presente diploma.
 
-###### Art. 21.º - 1 - O pessoal dirigente é provido nos termos da lei geral.
+Art. 21.º - 1 - O pessoal dirigente é provido nos termos da lei geral.
 
 2 - Os chefes de repartição serão providos de entre chefes de secção com pelo menos três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado.
 
 3 - Os chefes de secção serão providos de entre primeiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria.
 
-###### Art. 22.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 22.º - 1 - O provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -366,29 +399,29 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No Lugar do quadro da Cinemateca Portuguesa em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 23.º - 1 - Na carreira de pessoal técnico superior, os lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 26 de Junho, de entre indivíduos habilitados com licenciatura adequada.
+Art. 23.º - 1 - Na carreira de pessoal técnico superior, os lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 26 de Junho, de entre indivíduos habilitados com licenciatura adequada.
 
 2 - A carreira técnica superior de B. A. D. regula-se pelas disposições do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 24.º - 1 - No grupo de pessoal técnico, os lugares de técnico principal e técnico de 1.ª classe serão providos de entre, respectivamente, os técnicos de 1.ª classe e de 2.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 24.º - 1 - No grupo de pessoal técnico, os lugares de técnico principal e técnico de 1.ª classe serão providos de entre, respectivamente, os técnicos de 1.ª classe e de 2.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico de 2.ª classe serão providos de entre indivíduos habilitados com curso superior adequado.
 
-###### Art. 25.º - 1 - Na carreira de pessoal técnico-profissional, os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria.
+Art. 25.º - 1 - Na carreira de pessoal técnico-profissional, os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de três anos de bom e efectivo serviço na categoria.
 
 2 - Os técnicos auxiliares de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### Art. 26.º - A carreira de pessoal técnico auxiliar de B. A. D. regula-se pelas disposições do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 26.º - A carreira de pessoal técnico auxiliar de B. A. D. regula-se pelas disposições do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 27.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário, ou equiparado, e domínio escrito ou falado de, pelo menos, duas línguas estrangeiras.
+Art. 27.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário, ou equiparado, e domínio escrito ou falado de, pelo menos, duas línguas estrangeiras.
 
-###### Art. 28.º - 1 - Na carreira administrativa, os lugares de primeiro-oficial e segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
+Art. 28.º - 1 - Na carreira administrativa, os lugares de primeiro-oficial e segundo-oficial serão providos de entre, respectivamente, segundos-oficiais habilitados com o curso geral dos liceus e terceiros-oficiais com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de terceiro-oficial serão providos nos termos previstos no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 29.º O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe bem como a progressão na carreira far-se-ão nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 29.º O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe bem como a progressão na carreira far-se-ão nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 30.º No grupo de pessoal operário e auxiliar:
+Art. 30.º No grupo de pessoal operário e auxiliar:
 
 a) A carreira de projeccionista desenvolve-se pelas categorias de principal, de 1.ª classe, de 2.ª classe e de 3.ª classe. O ingresso é condicionado à posse de escolaridade obrigatória e experiência profissional adequada e à prestação de provas práticas. A mudança de categoria verificar-se-á após a permanência de três anos de bom e efectivo serviço na categoria anterior;
 
@@ -400,15 +433,15 @@ d) A carreira de motorista de ligeiros integra as classes de 1.ª e de 2.ª O in
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 31.º São revogadas a alínea m) do artigo 2.º, a alínea b) do artigo 14.º e o artigo 42.º do [Decreto n.º 286/73](https://diariodarepublica.pt/dr/detalhe/decreto/286-1973-422816), de 5 de Junho.
+Art. 31.º São revogadas a alínea m) do artigo 2.º, a alínea b) do artigo 14.º e o artigo 42.º do [Decreto n.º 286/73](https://diariodarepublica.pt/dr/detalhe/decreto/286-1973-422816), de 5 de Junho.
 
-###### Art. 32.º Em caso de extinção da Cinemateca Portuguesa, as colecções fílmicas, documentais e de museu que integram o seu património à data da extinção serão havidas como património nacional.
+Art. 32.º Em caso de extinção da Cinemateca Portuguesa, as colecções fílmicas, documentais e de museu que integram o seu património à data da extinção serão havidas como património nacional.
 
-###### Art. 33.º Fica extinta a Cinemateca Nacional na data em que seja nomeada a primeira direcção da Cinemateca Portuguesa.
+Art. 33.º Fica extinta a Cinemateca Nacional na data em que seja nomeada a primeira direcção da Cinemateca Portuguesa.
 
-###### Art. 34.º Consideram-se transferidas, sem mais formalidades, para o património da Cinemateca Portuguesa as colecções fílmicas, documentais, de biblioteca e de museu, e os direitos a elas inerentes, da Cinemateca Nacional do Instituto Português de Cinema, bem como os equipamentos de projecção destinados à Cinemateca Nacional pelo Instituto Português de Cinema, e de um modo geral os bens móveis utilizados pela Cinemateca Nacional, nomeadamente todos os equipamentos que constituem os «cofres» da Cinemateca Nacional, instalados no Palácio Foz.
+Art. 34.º Consideram-se transferidas, sem mais formalidades, para o património da Cinemateca Portuguesa as colecções fílmicas, documentais, de biblioteca e de museu, e os direitos a elas inerentes, da Cinemateca Nacional do Instituto Português de Cinema, bem como os equipamentos de projecção destinados à Cinemateca Nacional pelo Instituto Português de Cinema, e de um modo geral os bens móveis utilizados pela Cinemateca Nacional, nomeadamente todos os equipamentos que constituem os «cofres» da Cinemateca Nacional, instalados no Palácio Foz.
 
-###### Art. 35.º O primeiro provimento dos lugares do quadro será feito com a ordem seguinte de prioridades:
+Art. 35.º O primeiro provimento dos lugares do quadro será feito com a ordem seguinte de prioridades:
 
 a) Pessoal já pertencente a quadros e que preste serviço na Cinemateca Nacional à data da publicação deste diploma;
 
@@ -418,7 +451,7 @@ c) Outro pessoal que preste serviço na Cinemateca Nacional a qualquer título;
 
 d) Pessoal que preste serviço no Instituto Português de Cinema.
 
-###### Art. 36.º - 1 - A integração do pessoal no quadro será feita com observância dos requisitos habilitacionais legalmente estabelecidos, nos seguintes termos:
+Art. 36.º - 1 - A integração do pessoal no quadro será feita com observância dos requisitos habilitacionais legalmente estabelecidos, nos seguintes termos:
 
 a) Categoria idêntica à que o funcionário já possui;
 
@@ -432,14 +465,14 @@ d) Categoria correspondente às funções que o funcionário ou agente desempenh
 
 3 - Não poderão ser abrangidos pelo disposto no n.º 1 os funcionários e agentes, independentemente da entidade a que prestam serviço, desde que tenham já beneficiado da aplicação de regras do primeiro provimento, quer fixadas em diploma de carácter geral quer de carácter específico.
 
-###### Art. 37.º As dúvidas que se suscitem na interpretação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do membro do Governo responsável pela área da cultura e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das matérias envolvidas.
+Art. 37.º As dúvidas que se suscitem na interpretação deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano, do membro do Governo responsável pela área da cultura e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das matérias envolvidas.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17600/19481952.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17600/19481952.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17600/19481952.pdf)

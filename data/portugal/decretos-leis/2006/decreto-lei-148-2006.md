@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/14700/54795481.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/2006/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2006-539430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94efcd07f27d032c55f89d073fce9c9cb22c66bbeb4b1b8bba29f85277e916e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eebf54ed2193db384dccd2ac2fc1c8cc7e365223aa6ff85d96853a8ea757746
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Turismo
+- Carreira Profissional
 - Direcção Geral do Turismo
 - Diretor
 - Estatuto dos Profissionais da Direcção Hoteleira
-- Carreira Profissional
+- Infraestrutura Turística
 - Licenciamento
+- Modernização Administrativa
 - Qualificação Profissional
 - Subdiretor
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:276835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:394769:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276835:por
+  label: "Revogado, a partir de 13.04.2011, o Dec Lei 271/82, de 13-Jul, na redacção (com republicação) do presente diploma,\
+    \ pelo DEC LEI.49/2011.08.04.2011.MEID, DR.IS [70] de 08.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2011-276835
+  date: '2011-04-08'
 article_structure:
-  article_count: 19
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:33Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +137,9 @@ Os artigos 1.º e 2.º do [Decreto-Lei n.º 271/82](https://diariodarepublica.pt
 
 Nos termos do presente diploma, são considerados director, subdirector de hotel e assistente de direcção de hotel os profissionais que satisfaçam as condições previstas no artigo 4.º
 
-###### Artigo 2.º — Licença ou autorização de utilização turística
+Artigo 2.º
+
+Licença ou autorização de utilização turística
 
 1 - ...
 
@@ -149,15 +161,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 19 de Julho de 2006.**
+Promulgado em 19 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

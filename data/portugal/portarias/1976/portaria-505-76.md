@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-1976-429646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2046692a3864c551994e49a429f90b0b08bc0546bc4d4aaae7678f17899e7a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25ceb728ca2ef1f058248d8a44d98063aca47c60530546b1d895236402dc5ff8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1297086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORTARIA 121/93IIS, DA PCM/MA, DE 930511, PUBLICADA NO DR.IIS, 117, DE 930520.\030520.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:251589:por
+  label: Derrogada, relativamente à expropriação do prédio rústico denominado «Pombal e Câmara», concelho de Elvas, a presente
+    portaria, pelo(a) Portaria n.º 239/77 - Diário da República n.º 105/1977, Série I de 1977-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1977-251589
+  date: '1977-05-06'
+- type: amended_by
+  target: pt:dre:251261:por
+  label: Derrogado o presente diploma, na parte referente à expropriação do prédio rústico denominado "Lameiras", situado
+    no concelho de Gavião, pelo(a) Portaria n.º 487/77 - Diário da República n.º 176/1977, Série I de 1977-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-1977-251261
+  date: '1977-08-01'
+- type: amended_by
+  target: pt:dre:383005:por
+  label: "Derrogada relativativamente à expropriação de vários prédios rústicos propriedade de Augusto José Godinho, pela\
+    \ PORT.140/79.30.03.1979.MAP, DR.IS [75] de 30.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1979-383005
+  date: '1979-03-30'
+- type: amended_by
+  target: pt:dre:377740:por
+  label: "Derrogada pela PORT.427/79.13.08.1979.MAP, DR.IS [186] de 13.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1979-377740
+  date: '1979-08-13'
+- type: amended_by
+  target: pt:dre:464267:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado \"Herdade das Antas\", pela PORT.573/80.05.09.1980.MAP,\
+    \ DR.IS [205] de 05.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/573-1980-464267
+  date: '1980-09-05'
+- type: amended_by
+  target: pt:dre:573344:por
+  label: "Derrogada, na parte relativa ao prédio rústico denominado \"Herdade dos Endrinhos\" pela PORT.371/81.06.05.1981.MAP,\
+    \ DR.IS [103] de 06.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1981-573344
+  date: '1981-05-06'
+- type: amended_by
+  target: pt:dre:579514:por
+  label: "Derrogada relativamente à expropriação dos prédios rústicos identificados nos respectivos n.ºs 5 a 8 inclusive,\
+    \ pela PORT.629/81.22.07.1981.MAP, DR.IS [166] de 22.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1981-579514
+  date: '1981-07-22'
+- type: amended_by
+  target: pt:dre:1953080:por
+  label: "Derrogado parte do presente diploma, pela PORT.13/MAFA/84.1984.07.06.MFP e MAFA DR.IIS [157] de 09/Jul/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-1984-1953080
+  date: '1984-07-06'
+- type: amended_by
+  target: pt:dre:1297086:por
+  label: "Derrogado parte do presente diploma, pela PORT.DD379.1984.11.27.MFP e MA DR.IIS [287]Supl de 13/Dez/1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1984-1297086
+  date: '1984-11-27'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501575:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:06:14Z'
   warnings: []
   errors: []
 ---

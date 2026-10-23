@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/2010/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2010-614975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 662174cecbd088d6197e62d5d4318a60d3c8072c6a94ecdd9ca296a4522fcd77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7be7dfa7222cbd4db05c2ba1e4e531f9d5f4003bccca3bb98d6576b03b7d8bc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,42 @@ subjects:
 - Accionista
 - Aproximação das Legislações
 - Assembleia Geral
-- Valores Mobiliários
+- CMVM
 - Código das Sociedades Comerciais
 - Código dos Valores Mobiliários
-- CMVM
 - Sociedade Aberta
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:106960758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66443115:por
+  label: Alterados a partir de 2015-03-02 os arts. 341.º, 342.º, 345.º, 349.º e 357.º do Código das Sociedades Comerciais
+    aprovado pelo Dec Lei 262/86, de 02-set, na redação do presente diploma, pelo(a) Decreto-Lei n.º 26/2015 - Diário da República
+    n.º 26/2015, Série I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2015-66443115
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:66868336:por
+  label: Alterado o art. 21.º-B do Código dos Valores Mobiliários aprovado pelo Dec. Lei 486/99 de 13-nov, aditado pelo presente
+    diploma, pelo(a) Lei n.º 23-A/2015 - Diário da República n.º 60/2015, 1º Suplemento, Série I de 2015-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-a-2015-66868336
+  date: '2015-03-26'
+- type: amended_by
+  target: pt:dre:67356342:por
+  label: Alterado, a partir de 07.06.2015, o art 295.º do Código das Sociedades Comerciais, aprovado pelo Dec. Lei 262/86
+    de 02-set na versão republicada pelo Dec Lei 76-A/2006 de 29-mar, pelo(a) Decreto-Lei n.º 98/2015 - Diário da República
+    n.º 106/2015, Série I de 2015-06-02, nos termos do art. 15.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2015-67356342
+  date: '2015-06-02'
+- type: amended_by
+  target: pt:dre:106960758:por
+  label: Alterado o art. 272.º do Código das Sociedades Comerciais aprovado pelo Dec Lei 262/86, de 02-set, na redação do
+    presente diploma pelo(a) Lei n.º 15/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2017-106960758
+  date: '2017-05-03'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -89,15 +115,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2007/36/oj
 article_structure:
-  article_count: 34
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:21Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +182,9 @@ Os artigos 4.º, 22.º, 25.º, 28.º, 92.º, 272.º, 276.º, 277.º, 279.º, 295
 
 4 - O disposto nos números anteriores não se aplica às sociedades que exerçam actividade em Portugal ao abrigo da liberdade de prestação de serviços conforme previsto na Directiva n.º [2006/123/CE](https://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de Dezembro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Na falta de preceito especial ou convenção em contrário, os sócios participam nos lucros e nas perdas da sociedade segundo a proporção dos valores das respectivas participações no capital.
 
@@ -166,7 +194,9 @@ Os artigos 4.º, 22.º, 25.º, 28.º, 92.º, 272.º, 276.º, 277.º, 279.º, 295
 
 4 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +206,9 @@ Os artigos 4.º, 22.º, 25.º, 28.º, 92.º, 272.º, 276.º, 277.º, 279.º, 295
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +232,9 @@ e) No caso de acções sem valor nominal, declarar se os valores encontrados ati
 
 6 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - Ao aumento do capital social por incorporação de reservas corresponde o aumento da participação de cada sócio, proporcionalmente ao seu valor nominal ou ao respectivo valor contabilístico, salvo se, estando convencionado um critério diverso de atribuição de lucros, o contrato o mandar aplicar à incorporação de reservas ou para esta estipular algum critério especial.
 
@@ -212,7 +246,9 @@ e) No caso de acções sem valor nominal, declarar se os valores encontrados ati
 
 5 - Havendo participações sociais sujeitas a usufruto, este deve incidir nos mesmos termos sobre as novas participações ou sobre as existentes.
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 Do contrato de sociedade devem especialmente constar:
 
@@ -230,7 +266,9 @@ f) ...
 
 g) ...
 
-###### Artigo 276.º — [...]
+Artigo 276.º
+
+[...]
 
 1 - As acções das sociedades anónimas podem ser acções com valor nominal ou acções sem valor nominal.
 
@@ -244,7 +282,9 @@ g) ...
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 277.º — [...]
+Artigo 277.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +296,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 279.º — [...]
+Artigo 279.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +316,9 @@ g) ...
 
 8 - ...
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +336,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 4 - ...
 
-###### Artigo 298.º — [...]
+Artigo 298.º
+
+[...]
 
 1 - É proibida a emissão de acções abaixo do par ou, no caso de acções sem valor nominal, abaixo do seu valor de emissão.
 
@@ -300,7 +346,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 3 - Se a emissão de acções sem valor nominal for realizada a um valor de emissão inferior ao valor de emissão de acções anteriormente emitidas, deve o conselho de administração elaborar um relatório sobre o valor fixado e sobre as consequências financeiras da emissão para os accionistas.
 
-###### Artigo 316.º — [...]
+Artigo 316.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +364,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 7 - Consideram-se suspensos os direitos inerentes às acções subscritas por terceiro por conta da sociedade em violação deste preceito, enquanto não forem por ele cumpridas as obrigações de reembolso da sociedade e de restituição das quantias pagas pelos administradores para a sua liberação.
 
-###### Artigo 325.º-A — [...]
+Artigo 325.º-A
+
+[...]
 
 1 - As acções de uma sociedade anónima subscritas, adquiridas ou detidas por uma sociedade daquela dependente, directa ou indirectamente nos termos do artigo 486.º ou que com aquela esteja em relação de grupo nos termos do artigo 488.º e seguintes, consideram-se, para todos os efeitos, acções próprias da sociedade dominante.
 
@@ -324,7 +374,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 3 - ...
 
-###### Artigo 341.º — [...]
+Artigo 341.º
+
+[...]
 
 1 - ...
 
@@ -334,7 +386,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 4 - ...
 
-###### Artigo 342.º — [...]
+Artigo 342.º
+
+[...]
 
 1 - Se os lucros distribuíveis ou o activo de liquidação não forem suficientes para satisfazer o pagamento do dividendo, do valor nominal ou do valor de emissão das acções, nos termos previstos no n.º 2 do artigo 341.º, são repartidos proporcionalmente pelas acções preferenciais sem voto.
 
@@ -342,7 +396,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 3 - ...
 
-###### Artigo 345.º — [...]
+Artigo 345.º
+
+[...]
 
 1 - ...
 
@@ -364,7 +420,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 10 - ...
 
-###### Artigo 349.º — [...]
+Artigo 349.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +436,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 6 - ...
 
-###### Artigo 357.º — [...]
+Artigo 357.º
+
+[...]
 
 1 - ...
 
@@ -390,13 +450,17 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 5 - ...
 
-###### Artigo 380.º — [...]
+Artigo 380.º
+
+[...]
 
 1 - O contrato de sociedade não pode proibir ou limitar a participação de accionista em assembleia geral através de representante.
 
 2 - ...
 
-###### Artigo 384.º — [...]
+Artigo 384.º
+
+[...]
 
 1 - ...
 
@@ -418,7 +482,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 10 - Na falta de previsão dos estatutos aplica-se a alínea a) do número anterior.
 
-###### Artigo 397.º — [...]
+Artigo 397.º
+
+[...]
 
 1 - ...
 
@@ -428,7 +494,9 @@ d) Quanto às entradas em espécie, na diferença para mais entre o valor atribu
 
 4 - ...
 
-###### Artigo 423.º — [...]
+Artigo 423.º
+
+[...]
 
 1 - O conselho fiscal deve reunir, pelo menos, todos os trimestres, sendo aplicável o disposto no n.º 8 do artigo 410.º
 
@@ -456,7 +524,9 @@ Os artigos 22.º, 23.º, 232.º e 249.º do Código dos Valores Mobiliários pas
 
 4 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 385.º do Código das Sociedades Comerciais, um accionista de uma sociedade aberta pode, para cada assembleia geral, nomear diferentes representantes relativamente às acções detidas em diferentes contas de valores mobiliários.
 
@@ -472,7 +542,9 @@ b) O fundamento do sentido de voto a exercer pelo solicitante.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 232.º — [...]
+Artigo 232.º
+
+[...]
 
 1 - ...
 
@@ -482,7 +554,9 @@ b) O fundamento do sentido de voto a exercer pelo solicitante.
 
 4 - Exceptuam-se do disposto no número anterior as acções da mesma categoria das acções cuja admissão à negociação é solicitada que façam parte de lotes destinados a manter o controlo da sociedade, se isso não prejudicar os restantes titulares das acções cuja admissão à negociação é solicitada e o requerente prestar informação ao mercado sobre a razão para a não admissão e o número de acções abrangidas.
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - ...
 
@@ -530,7 +604,9 @@ d) O local e a forma como pode ser obtido o texto integral dos documentos e prop
 
 3 - A informação prevista nas alíneas b) e c) do número anterior pode ser substituída por informação sobre os prazos de exercício dos direitos em causa, acompanhada de remissão para o sítio na Internet da sociedade no qual seja disponibilizada informação sobre o respectivo conteúdo e modo de exercício.
 
-###### Artigo 21.º -C — Informação prévia à assembleia geral
+Artigo 21.º -C
+
+Informação prévia à assembleia geral
 
 1 - Além dos elementos previstos no n.º 1 do artigo 289.º do Código das Sociedades Comerciais, as sociedades emitentes de acções admitidas à negociação em mercado regulamentado devem facultar aos seus accionistas, na sede da sociedade e no respectivo sítio na Internet, os seguintes elementos:
 
@@ -546,7 +622,9 @@ d) Outros documentos a apresentar à assembleia geral.
 
 3 - No caso de o sítio na Internet da sociedade não disponibilizar os formulários previstos na alínea c) do n.º 1 por motivos técnicos, a sociedade envia-os, gratuitamente, em tempo útil, aos accionistas que o requeiram.
 
-###### Artigo 23.º-A — Direito a requerer a convocatória
+Artigo 23.º-A
+
+Direito a requerer a convocatória
 
 1 - O accionista ou accionistas de sociedade emitente de acções admitidas à negociação em mercado regulamentado que possuam acções correspondentes a, pelo menos, 2 % do capital social podem exercer o direito de requerer a convocatória de assembleia geral, de acordo com os demais termos previstos no artigo 375.º do Código das Sociedades Comerciais.
 
@@ -558,7 +636,9 @@ b) O requerimento é acompanhado de uma proposta de deliberação para cada assu
 
 c) Os assuntos incluídos na ordem do dia, assim como as propostas de deliberação que os acompanham, são divulgados aos accionistas pela mesma forma usada para a divulgação da convocatória logo que possível e, em todo o caso, até à data de registo referida no n.º 1 do artigo 23.º-C.
 
-###### Artigo 23.º B — Inclusão de assuntos na ordem do dia e apresentação de propostas de deliberação
+Artigo 23.º B
+
+Inclusão de assuntos na ordem do dia e apresentação de propostas de deliberação
 
 1 - Nas sociedades emitentes de acções admitidas à negociação em mercado regulamentado, o accionista ou accionistas que satisfaçam as condições exigidas no n.º 1 do artigo anterior podem requerer a inclusão de propostas de deliberação relativas a assuntos referidos na convocatória ou a esta aditados.
 
@@ -566,7 +646,9 @@ c) Os assuntos incluídos na ordem do dia, assim como as propostas de deliberaç
 
 3 - As propostas de deliberação admitidas nos termos do número anterior, bem como a informação que a deva acompanhar, são divulgadas logo que possível, no prazo máximo previsto no n.º 3 do artigo 378.º do Código das Sociedades Comerciais, aos accionistas pela mesma forma usada para a divulgação da convocatória.
 
-###### Artigo 23.º-C — Participação e votação na assembleia geral
+Artigo 23.º-C
+
+Participação e votação na assembleia geral
 
 1 - Nas sociedades emitentes de acções admitidas à negociação em mercado regulamentado, tem direito a participar na assembleia geral e aí discutir e votar quem, na data de registo, correspondente às 0 horas (GMT) do 5.º dia de negociação anterior ao da realização da assembleia, for titular de acções que lhe confiram, segundo a lei e o contrato de sociedade, pelo menos um voto.
 
@@ -586,7 +668,9 @@ b) As instruções de voto, específicas para cada ponto da ordem de trabalhos, 
 
 7 - Quem, nos termos do n.º 3, tenha declarado a intenção de participar em assembleia geral e transmita a titularidade de acções entre a data de registo referida no n.º 1 e o fim da assembleia geral, deve comunicá-lo imediatamente ao presidente da mesa da assembleia geral e à CMVM.
 
-###### Artigo 23.º-D — Acta da assembleia geral
+Artigo 23.º-D
+
+Acta da assembleia geral
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 63.º do Código das Sociedades Comerciais, a acta da assembleia geral das sociedades abertas deve ainda conter, em relação a cada deliberação:
 
@@ -604,12 +688,12 @@ A expressão «valor nominal» utilizada em qualquer outra lei ou regulamento co
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins.
 
-**Promulgado em 10 de Maio de 2010.**
+Promulgado em 10 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Maio de 2010.**
+Referendado em 13 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

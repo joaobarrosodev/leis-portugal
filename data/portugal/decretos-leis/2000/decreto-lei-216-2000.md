@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/216/2000/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2000-580794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e6eb029aed94b35bc2d1df598820e998593b7b891fb75e0940e748294ce3d18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7dbc0f8a735b928bf8de0694584539720fd9062c2679d1e525ff61d5111908e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Biblioteca Pública
+- Comércio
 - Contra-ordenação
-- Inspecção Geral das Actividades Económicas
 - Indústria do Livro
+- Inspecção Geral das Actividades Económicas
 - Política Cultural
 - Preço
 - Preço de Venda
 - Preço FIXO
-- Biblioteca Pública
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:70309897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70309897:por
+  label: Alterados a partir de 16.10.2015 os arts. 1.º, 3.º, 5.º, 9.º, 10.º, 12.º, 13.º, 17.º e 19.º do Dec Lei 176/96, de
+    21-set, na redação do presente diploma pelo(a) Decreto-Lei n.º 196/2015 - Diário da República n.º 181/2015, Série I de
+    2015-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/196-2015-70309897
+  date: '2015-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/1996/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/1996/09/21/p/dre
+- type: cites
+  target: pt:dre:215895:por
+  label: null
+  source: null
 article_structure:
-  article_count: 33
+  article_count: 23
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:05Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +154,17 @@ i) Rede de venda: conjunto de retalhistas com quem o editor ou distribuidor tem 
 
 j) Distribuidor: todo aquele que presta a um ou mais editores serviços de venda aos retalhistas.
 
-###### Artigo 3.º — Indicação do preço
+Artigo 3.º
+
+Indicação do preço
 
 1 - O preço de venda ao público do livro deve ser indicado pelo retalhista de forma legível e visível, de modo a permitir uma fácil informação do consumidor.
 
 2 - Na venda por correspondência ou por assinatura, o editor ou importador deverá indicar o preço ou na publicidade ou nos impressos promocionais, nas cintas. nos invólucros ou na contracapa dos livros.
 
-###### Artigo 5.º — Verificação dos prazos
+Artigo 5.º
+
+Verificação dos prazos
 
 ...
 
@@ -157,17 +172,23 @@ a) ...
 
 b) Nos casos de importação ou reimportação, através da data mencionada na factura do exportador do livro ou noutro documento idóneo usado no comércio.
 
-###### Artigo 6.º — Venda por correspondência ou assinatura
+Artigo 6.º
+
+Venda por correspondência ou assinatura
 
 Quem publicar um livro com vista a ser difundido por correspondência ou assinatura, ou qualquer outro circuito que não o da venda a retalho, menos de nove meses após a primeira edição desse livro, deverá fixar um preço de venda ao público não inferior ao definido nos termos do n.º 1 do artigo 4.º
 
-###### Artigo 9.º — Modificações do preço
+Artigo 9.º
+
+Modificações do preço
 
 1 - As modificações do preço de venda dos livros devem ser comunicadas pelo editor, distribuidor ou importador à sua rede de vendas antes da entrada em vigor do novo preço, no prazo não inferior a 15 dias.
 
 2 - O retalhista é obrigado a indicar nos livros os novos preços resultantes de alterações que lhe forem comunicadas pelo editor, importador ou distribuidor, no prazo não superior a 15 dias, após a referida comunicação, sem prejuízo da legislação aplicável em matéria de direito da concorrência e da actividade de comércio.
 
-###### Artigo 10.º — Informação de preços
+Artigo 10.º
+
+Informação de preços
 
 1 - Anualmente, até ao dia 30 de Abril, todo o editor ou importador com exclusividade deve distribuir pela sua rede de vendas um catálogo ou lista de preços donde constem os livros do seu fundo editorial.
 
@@ -175,25 +196,35 @@ Quem publicar um livro com vista a ser difundido por correspondência ou assinat
 
 3 - O catálogo ou lista de preços ou ainda as facturas, guias de remessa ou documento usado no comércio, qualquer que seja o suporte, devem, sempre que for solicitado, ser postos à disposição para consulta do consumidor.
 
-###### Artigo 12.º — Aquisições especiais
+Artigo 12.º
+
+Aquisições especiais
 
 As aquisições feitas por bibliotecas públicas e escolares, instituições de utilidade pública, e em todas as acções de promoção do livro e do autor portugueses no âmbito da cooperação externa do Estado, poderão beneficiar de um preço compreendido entre 80% e 100% do preço fixado pelo editor ou importador.
 
-###### Artigo 13.º — Edições especiais
+Artigo 13.º
+
+Edições especiais
 
 1 - ...
 
 2 - No caso de as edições previstas no número anterior virem a ser comercializadas, deverá ser observado o disposto nos artigos 4.º e 5.º
 
-###### Artigo 16.º — Fiscalização
+Artigo 16.º
+
+Fiscalização
 
 A fiscalização do cumprimento das disposições do presente diploma compete à Inspecção-Geral das Actividades Culturais.
 
-###### Artigo 17.º — Avaliação
+Artigo 17.º
+
+Avaliação
 
 O Instituto Português do Livro e das Bibliotecas deverá proceder ao acompanhamento regular da aplicação do presente diploma, em ordem a permitir avaliar os seus efeitos, culturais e económicos, no sector editorial e livreiro e a suscitar a produção de propostas de medidas, quando necessário, tendentes a corrigir e a melhorar o comércio do livro.
 
-###### Artigo 19.º — Aplicação de coimas
+Artigo 19.º
+
+Aplicação de coimas
 
 O processamento das contra-ordenações e a aplicação das coimas são da competência da Inspecção-Geral das Actividades Culturais.»
 
@@ -207,15 +238,15 @@ Em anexo ao presente diploma, é republicado na íntegra o [Decreto-Lei n.º 176
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - Jaime José Matos da Gama - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Guilherme d'Oliveira Martins - José Estêvão Cangarato Sasportes - Alberto de Sousa Martins - Armando António Martins Vara.
 
-**Promulgado em 16 de Agosto de 2000.**
+Promulgado em 16 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Agosto de 2000.**
+Referendado em 23 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — [Decreto-Lei n.º 176/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1996-215895), de 21 de Setembro
 

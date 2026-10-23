@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2015/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2015-66655592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd64a84dab2f20a5cb9da505a59c4d810370a11180e4c6e66e5f321103e99f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecfd292ea1e7a1092ba68731170e1369b548c41f7bb48c33b77b33738f2aab83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Voluntário
-- Formação Profissional
 - Contingentação
 - Contrato
-- Serviço Militar
+- Estado Maior General das Forças Armadas
 - Forças Armadas
+- Formação Profissional
+- Militar
 - Quadro de Pessoal
 - Quadro Permanente da Armada
 - Quadro Permanente da Força Aérea
 - Quadro Permanente das Forças Armadas
 - Quadro Permanente do Exército
 - Reserva
-- Militar
-- Estado Maior General das Forças Armadas
 - Serviço Efectivo
+- Serviço Militar
+- Serviço Voluntário
 relationships:
 - type: amended_by
   target: pt:dre:70693923:por
@@ -105,16 +105,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+- type: repealed_by
+  target: pt:dre:70693923:por
+  label: Revogado, com efeitos a partir de 31.12.2015, pelo(a) Decreto-Lei n.º 241/2015 - Diário da República n.º 202/2015,
+    Série I de 2015-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-2015-70693923
+  date: '2015-10-15'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:30Z'
   warnings: []
   errors: []
 ---
@@ -189,15 +195,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e r
 
 Visto e aprovado em Conselho de Ministros de 22 de janeiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 24 de fevereiro de 2015.**
+Promulgado em 24 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de fevereiro de 2015.**
+Referendado em 26 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
 
@@ -205,21 +211,21 @@ Efetivos militares dos QP, na situação de ativo, por ramos e postos, na estrut
 
 Tabela 1 - Efetivos militares dos QP na estrutura orgânica das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 Tabela 1.ª- Efetivos militares dos QP a desempenhar funções nas estruturas do EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 Tabela 2 - Militares e alunos militares em formação para ingresso nos QP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 2.º)
 
 Efetivos militares dos QP, na situação de ativo, por ramos e postos, fora da estrutura orgânica das Forças Armadas, para o ano de 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -227,23 +233,23 @@ Efetivos militares dos QP, na situação de reserva na efetividade de serviço, 
 
 Tabela 1 - Efetivos militares dos QP, na situação de reserva na efetividade de serviço, na estrutura orgânica das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 Tabela 1.ª- Efetivos militares dos QP, na situação de reserva na efetividade de serviço, a desempenhar funções nas estruturas do EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 2.º)
 
 Efetivos militares dos QP, na situação de reserva na efetividade de serviço, por ramos e categorias, fora da estrutura orgânica das Forças Armadas, para o ano de 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 2.º)
 
 Efetivos estimados de militares dos QP, na situação de reserva fora da efetividade de serviço, por ramos e categorias, para o ano de 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 ## ANEXO VI — (a que se refere o n.º 4 do artigo 2.º)
 
@@ -251,8 +257,8 @@ Efetivos militares em RV e RC, por ramos e categoria, incluindo os que desempenh
 
 Tabela 1 - Efetivos de militares em RV e RC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
 
 Tabela 1.ª- Efetivos militares em RV e RC a desempenhar funções nas estruturas do EMGFA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf))](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/04400/0130401308.pdf)

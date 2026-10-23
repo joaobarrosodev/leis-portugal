@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29400/37873789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/73-1986-210582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e89ae7bfb125e68cab37a201e695817bf483f4ded9c6bed9902ab8d05c4cd793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8735c449b8db0f710ea6cc1a2acaea9c74f7fefe9eb69e4638e12d3b33bed184
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Jogos de Fortuna e Azar
+- Vidago Pedras Salgadas
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:333124:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333124:por
+  label: "Revogado pelo DR.58/91.1991.10.18.MCT, DR.IS-B [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/58-1991-333124
+  date: '1991-10-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:02Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +114,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades que pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo de Vidago-Pedras Salgadas deverão acompanhar as suas propostas de requerimento dirigido ao Secretário de Estado do Turismo, em carta fechada, registada e lacrada, endereçada à Inspecção-Geral de Jogos, com a indicação exterior de se destinar ao respectivo concurso dentro, do prazo de 60 dias a contar da data da publicação do anúncio da sua abertura no Diário da República, 3.ª série.
+Artigo 1.º - 1 - As entidades que pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo de Vidago-Pedras Salgadas deverão acompanhar as suas propostas de requerimento dirigido ao Secretário de Estado do Turismo, em carta fechada, registada e lacrada, endereçada à Inspecção-Geral de Jogos, com a indicação exterior de se destinar ao respectivo concurso dentro, do prazo de 60 dias a contar da data da publicação do anúncio da sua abertura no Diário da República, 3.ª série.
 
 2 - A concessão, que principia com a assinatura do contrato, terminará em 31 de Dezembro do 25.º ano posterior ao da data do início da exploração dos jogos de fortuna ou azar.
 
@@ -105,7 +122,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - A exploração dos jogos não poderá iniciar-se antes de concluído o edifício do casino respectivo.
 
-###### Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo de Vidago-Pedras Salgadas tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
+Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo de Vidago-Pedras Salgadas tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
 
 a) Construção, em local a aprovar pelo membro do Governo com tutela sobre o turismo, de um casino dotado das características e requisitos de conforto e funcionalidade que forem definidos por portaria do Secretário de Estado do Turismo, o qual, com todo o seu recheio, pertences e anexos, será reversível para o Estado no termo da concessão;
 
@@ -127,19 +144,19 @@ h) Investir anualmente a importância de 2000 contos para cumprimento da obriga�
 
 3 - No caso de as importâncias estimadas pelos concorrentes como investimentos mínimos se mostrarem insuficientes, não ficará a empresa concessionária desobrigada de concluir as realizações que se propusera efectuar.
 
-###### Art. 3.º - 1 - Dos lucros a que alude a alínea c) do n.º 1 do artigo anterior, 50% destinam-se a subsidiar a formação profissional no sector do turismo, através do Instituto Nacional de Formação Turística, e os restantes 50% a subsidiar a manutenção ou recuperação dos estabelecimentos hoteleiros do Estado.
+Art. 3.º - 1 - Dos lucros a que alude a alínea c) do n.º 1 do artigo anterior, 50% destinam-se a subsidiar a formação profissional no sector do turismo, através do Instituto Nacional de Formação Turística, e os restantes 50% a subsidiar a manutenção ou recuperação dos estabelecimentos hoteleiros do Estado.
 
 2 - As importâncias a que aludem as alíneas g) e h) do n.º 1 do artigo anterior serão anualmente actualizadas de acordo com a evolução do índice de preços no consumidor.
 
 3 - As importâncias a que alude a alínea c) do n.º 1 do artigo anterior serão pagas, até ao dia 10 do mês seguinte àquele a que respeitarem, na tesouraria da Fazenda Pública concelhia, mediante guia, quadriplicado, emitida pela Inspecção-Geral de Jogos, a remeter à repartição de finanças.
 
-###### Art. 4.º Constitui único factor de preferência para adjudicação da concessão a oferta, para além das condições mínimas estabelecidas no artigo 2.º, de realizações que tenham interesse turístico e termal.
+Art. 4.º Constitui único factor de preferência para adjudicação da concessão a oferta, para além das condições mínimas estabelecidas no artigo 2.º, de realizações que tenham interesse turístico e termal.
 
-###### Art. 5.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
+Art. 5.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
 
 2 - Os prazos fixados para as realizações que constituem obrigações contratuais poderão ser antecipados pela concessionária, bem como, mediante solicitação desta devidamente fundamentada, prorrogados pelo tempo estritamente necessário pelo Secretário de Estado do Turismo.
 
-###### Art. 6.º- 1 - Os requerimentos a que se refere no n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 6.º- 1 - Os requerimentos a que se refere no n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 a) Documentos comprovativos da constituição de Sociedade anónima, obedecendo aos requisitos fixados nos Decretos-Leis n.os 48912, de 18 de Março de 1969, e 372/85, de 19 de Setembro, incluindo certidão de registo comercial, estatutos e indicação dos membros dos corpos sociais, ou identificação completa das entidades que se proponham constituí-la nos mesmos termos, dentro do prazo de 60 dias a contar da data da notificação da adjudicação;
 
@@ -163,11 +180,11 @@ a) No prazo de quinze dias após a assinatura do contrato, relativamente ao conc
 
 b) No prazo de quinze dias após a notificação da adjudicação da concessão, quanto aos demais concorrentes.
 
-###### Art. 7.º - 1 - A Inspecção-Geral de Jogos poderá solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
+Art. 7.º - 1 - A Inspecção-Geral de Jogos poderá solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
 
 2 - O Conselho de Ministros poderá excluir do concurso as propostas que, em si ou nos documentos que as acompanhem, contenham expressões vagas ou que condicionem por qualquer forma as obrigações a assumir, que se apresentem em termos que possam dificultar o confronto com as demais propostas ou que não preencham os requisitos do concurso.
 
-###### Art. 8.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á, na Inspecção-Geral de jogos, à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de 30 dias, durante os quais o Conselho de Ministros poderá rejeitar a admissão ao concurso de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
+Art. 8.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á, na Inspecção-Geral de jogos, à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de 30 dias, durante os quais o Conselho de Ministros poderá rejeitar a admissão ao concurso de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
 
 2 - Passado o prazo referido no número anterior, proceder-se-á, na Inspecção-Geral de Jogos, à abertura dos envelopes dos concorrentes que não hajam sido excluídos, contendo as propostas propriamente ditas, para efeito da respectiva graduação, que será feita no prazo de 30 dias, após o que o Conselho de Ministros deliberará sobre a adjudicação.
 
@@ -175,12 +192,12 @@ b) No prazo de quinze dias após a notificação da adjudicação da concessão,
 
 Aníbal António Cavaco Silva.
 
-**Promulgado em 4 de Dezembro de 1986.**
+Promulgado em 4 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Dezembro de 1986.**
+Referendado em 10 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

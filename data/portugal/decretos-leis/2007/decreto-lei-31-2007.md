@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2007/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2007-517996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bc55a8649959aa8fa1047d5d6e1dbab39d45e13ba9909976c5e27f67df17be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95bbe953ed8029f8388534c4f65c9152a67cd9d0aebdc20823bfe4b8b3d87b35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Garantia
-- Direcção Geral do Tesouro
+- Companhia de Seguros
 - Conselho de Garantias Financeiras a Exportação e ao Investimento
+- Contrato de Seguro
 - Cosec
 - Crédito à Exportação
+- Direcção Geral do Tesouro
+- Garantia
 - Preço
 - Prémio de Seguro
 - Privilégio Creditório
-- Companhia de Seguros
 - Seguro de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:116967078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116967078:por
+  label: Alterados, a partir de 01.01.2019, os arts. 15.º e 16.º do Dec Lei 183/88 de 24-mai, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 94/2018 - Diário da República n.º 219/2018, Série I de 2018-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2018-116967078
+  date: '2018-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/1991/03/22/p/dre
   label: null
@@ -115,16 +121,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/181/1991/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/181/1991/03/04/p/dre
+- type: cites
+  target: pt:dre:220087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 39
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:49Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +227,9 @@ Os artigos 11.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º e 20.º do [Decreto-L
 
 5 - (Anterior n.º 2.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - É lícita a promessa dos seguros previstos neste decreto-lei, desde que celebrada pelo prazo máximo de seis meses, em documento assinado pelos outorgantes e de que constem todos os elementos da apólice do seguro prometido.
 
@@ -181,7 +237,9 @@ Os artigos 11.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º e 20.º do [Decreto-L
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As seguradoras autorizadas a exercer a actividade em Portugal nos ramos 'Crédito' e 'Caução' podem beneficiar da garantia do Estado para o seguro dos riscos previstos nos n.os 1 e 2 do artigo 3.º e no n.º 1 do artigo 6.º, quando estejam em causa factos geradores de sinistro de natureza política, monetária ou catastrófica dependendo o acesso de um procedimento prévio de selecção e de contratualização com o Estado.
 
@@ -197,7 +255,9 @@ Os artigos 11.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º e 20.º do [Decreto-L
 
 7 - Dentro dos limites impostos por lei ou por convenção internacional vigente na ordem interna portuguesa, o Estado pode igualmente garantir, total ou parcialmente, o seguro dos riscos de caução e de crédito decorrentes de factos geradores de sinistro não mencionados no n.º 1 do presente artigo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As condições gerais e especiais das apólices, bem como as tarifas de prémios dos contratos de seguro, a celebrar com a garantia do Estado, são aprovadas por despacho conjunto dos ministros responsáveis pela área das finanças e da economia, mediante proposta da seguradora e parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento.
 
@@ -215,7 +275,9 @@ c) Os termos e condições do acompanhamento das matérias internacionais, inclu
 
 5 - Os eventuais encargos que resultem do contrato celebrado ao abrigo do número anterior são suportados pela Direcção-Geral do Tesouro.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Após admissão e regulação de sinistro efectuada pela seguradora, os montantes das indemnizações decorrentes dos contratos de seguro, com a garantia do Estado, são entregues, mediante solicitação da seguradora, pela Direcção-Geral do Tesouro ao beneficiário do seguro.
 
@@ -229,15 +291,21 @@ c) Os termos e condições do acompanhamento das matérias internacionais, inclu
 
 6 - O privilégio creditório referido no número anterior é graduado conjuntamente com os créditos do Estado previstos na alínea a) do n.º 1 do artigo 747.º do Código Civil.
 
-###### Artigo 18.º — Conselho de Garantias Financeiras à Exportação e ao Investimento
+Artigo 18.º
+
+Conselho de Garantias Financeiras à Exportação e ao Investimento
 
 O Conselho de Garantias Financeiras à Exportação e ao Investimento, que funciona nas instalações da Direcção-Geral do Tesouro, tem a composição, as competências e o sistema de funcionamento estabelecidos em diploma legal específico.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 É vedada a mediação nos seguros que, nos termos do presente capítulo, sejam celebrados com a garantia do Estado.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Os seguros previstos no presente decreto-lei podem ser explorados por qualquer seguradora que, nos termos legais e regulamentares em vigor, se encontre autorizada a exercer em Portugal a actividade nos ramos 'Crédito' e 'Caução'.»
 
@@ -267,7 +335,9 @@ Garantia do Estado
 
 7 - Compete a cada seguradora remeter à Direcção-Geral do Tesouro, a pedido desta última, a previsão, para o ano seguinte, das garantias do Estado a conceder e dos montantes das indemnizações decorrentes das operações garantidas.
 
-###### Artigo 7.º — Apólices e prémios
+Artigo 7.º
+
+Apólices e prémios
 
 1 - As condições gerais e especiais das apólices dos contratos de seguro de investimento a celebrar com a garantia do Estado, bem como o respectivo tarifário, são aprovadas por despacho conjunto dos ministros responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia, mediante proposta da seguradora e parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento.
 
@@ -281,7 +351,9 @@ b) Os termos e condições da recuperação de créditos garantidos.
 
 4 - Os eventuais encargos que resultem do contrato celebrado ao abrigo do número anterior são suportados pela Direcção-Geral do Tesouro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Após admissão e regulação de sinistro efectuada pela seguradora, os montantes das indemnizações decorrentes dos contratos de seguro, com a garantia do Estado, são entregues mediante solicitação da seguradora, pela Direcção-Geral do Tesouro ao beneficiário do seguro.
 
@@ -291,7 +363,9 @@ b) Os termos e condições da recuperação de créditos garantidos.
 
 4 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -321,15 +395,15 @@ São revogados o n.º 5 do artigo 17.º do [Decreto-Lei n.º 183/88](https://dia
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 30 de Janeiro de 2007.**
+Promulgado em 30 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 31 de Janeiro de 2007.**
+Referendado em 31 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 

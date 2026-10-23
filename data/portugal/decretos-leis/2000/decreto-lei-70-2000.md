@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2000/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11a44d488a31995b178aa151fa68846fb3ac4dbd958a8de5a941f43379ac1603
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3213fb92ebb303c6827179ba8504c5766e9c19ecf1bdeaaf2d8ea8c8d5de8868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,72 +66,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aborto
+- Ação Social
 - Acção de Formação
 - Adopção
-- Tempo de Serviço
-- Protecção da Maternidade
 - Assistência a Familiares
 - Assistência Médica
-- Pessoal de Saúde
-- Boletim de Saúde
-- Ministério do Trabalho e da Solidariedade
-- Formação Profissional
+- Associação
 - Atestado Médico
-- Criança
-- Direção Geral da Saúde
-- Igualdade de Tratamento
-- Serviço de Saúde
+- Boletim de Saúde
 - Consulta Médica
-- Internamento Hospitalar
-- Saúde
+- Contracepção
+- Criança
+- Criança Deficiente
+- Cuidados Médicos
 - Definição de Competências
 - Despedimento
-- Saúde Pública
-- Política de Saúde
-- Ação Social
-- Jovem
-- Pagamento
+- Direção Geral da Saúde
+- Doença
+- Duração do Trabalho
+- Exame Médico
+- Faltas
+- Formação Profissional
 - Gravidez de Risco
 - Igualdade de Oportunidades
+- Igualdade de Tratamento
 - Indemnização
 - Informação
-- Aborto
+- Internamento Hospitalar
 - Jardim de Infância
+- Jovem
 - Licença Parental
-- Faltas
 - Licença por Maternidade
 - Licença por Paternidade
 - Maternidade
-- Exame Médico
 - Menoridade
-- Contracepção
+- Ministério da Saúde
+- Ministério do Trabalho e da Solidariedade
 - Mulher Trabalhadora
-- Tutela de Menores
+- Pagamento
 - Parecer
 - Parque de Diversões
 - Partos
 - Paternidade
 - Pensão de Invalidez
 - Pensão de Velhice
-- Planeamento Familiar
-- Proteção ao Deficiente
-- Poder Paternal
 - Pensões
+- Pessoal de Saúde
+- Planeamento Familiar
+- Poder Paternal
+- Política de Saúde
 - Prestações da Segurança Social
-- Reprodução Humana
-- Cuidados Médicos
+- Proteção ao Deficiente
+- Protecção da Maternidade
 - Reconversão Profissional
-- Ministério da Saúde
-- Duração do Trabalho
 - Regimes de Segurança Social
-- Associação
 - Reinserção Profissional
 - Remuneração
-- Doença
-- Saúde Reprodutiva
-- Criança Deficiente
+- Reprodução Humana
+- Saúde
 - Saúde Infantil e Juvenil
+- Saúde Pública
+- Saúde Reprodutiva
+- Serviço de Saúde
+- Tempo de Serviço
 - Trabalhador
+- Tutela de Menores
 - União de Facto
 - Vacinação
 relationships:
@@ -139,6 +139,12 @@ relationships:
   target: pt:dre:502399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502399:por
+  label: "Mantidas em vigor com a numera&#231;&#227;o e a redac&#231;&#227;o contantes do presente diploma, os arts. 3.&#186;\
+    \ a 8.&#186; e 31.&#186; da Lei 4/84, de 05-Abr, pela LEI.35/2004.29.07.2004.AR, DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2004-502399
+  date: '2004-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/379/1997/12/27/p/dre
   label: null
@@ -171,16 +177,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1998/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1998/04/28/p/dre
+- type: cites
+  target: pt:dre:176485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632906:por
+  label: "Revogada a Lei 4/84 de 05-Abr, com a numeração e redacção dadas pela presente, com a entrada em vigor das normas\
+    \ regulamentares do Código do Trabalho aprovado pela LEI.99/2003.2003.08.27.AR DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-2003-632906
+  date: '2003-08-27'
 article_structure:
   article_count: 42
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:53Z'
   warnings: []
   errors: []
 ---
@@ -235,17 +291,19 @@ A [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de
 
 Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 14 de Abril de 2000.**
+Promulgado em 14 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Abril de 2000.**
+Referendado em 20 de Abril de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Princípios gerais
 

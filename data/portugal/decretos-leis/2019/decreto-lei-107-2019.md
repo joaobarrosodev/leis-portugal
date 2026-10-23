@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2019/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2019-123891091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb8f3928579a1b8acfa8bcbac09da38177b59d3253066849742234bf1eaf046f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac0a8cdc2d9a319bc9c9e13747e4baba5805794d56d0765b91273e7ce3531ccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Administração do Porto de Sines
 - Contentor
 - Contrato
+- Portos
 - Prazo
 - Serviço Público
-- Portos
 - Sines
 - Terminal de Carga
 relationships:
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/175/2017/11/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/175/2017/11/24/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662081:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:44Z'
   warnings: []
   errors: []
 ---
@@ -187,13 +203,17 @@ h) [...];
 
 i) 3.ª fase: conjunto de investimentos em equipamentos e infraestruturas que a concessionária realizará após o fim da 2.ª fase, nos termos descritos na base XI.
 
-###### Base III — [...]
+Base III
+
+[...]
 
 1 - A concessão é estabelecida em regime de exclusivo no que respeita à exploração de um terminal específico para a movimentação de contentores na área afeta à concessão.
 
 2 - A concedente pode, querendo, criar e/ou autorizar a criação de novos terminais portuários e atribuir novas concessões, incluindo de contentores e/ou multiúsos, na área sob a sua jurisdição, sem que a concessionária possa opor-se e/ou tenha direito a qualquer indemnização ou à reposição do equilíbrio financeiro da concessão por esse motivo.
 
-###### Base XI — [...]
+Base XI
+
+[...]
 
 [...]:
 
@@ -207,7 +227,9 @@ d) Nos termos das condições a fixar no contrato de concessão, após a conclus
 
 e) Nos termos das condições a fixar no contrato de concessão, a concessionária construirá em seguida o troço do cais acostável indicado no anexo I como 'fase 3', de acordo com o necessário para, no alinhamento do cais existente, completar o comprimento total de 1750 m, e instalará o equipamento referido na base XIII.
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 1 - [...].
 
@@ -215,7 +237,9 @@ e) Nos termos das condições a fixar no contrato de concessão, a concessionár
 
 3 - O contrato de concessão fixará as consequências do incumprimento das condições nas quais as diversas fases serão construídas, as quais incluirão, designadamente, a aplicação de multas e a redução da área da concessão.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 A concessionária instalará, nos termos definidos no contrato de concessão e no Modelo Financeiro anexo ao 5.º aditamento, todo o equipamento necessário à prestação do serviço público concessionado, o qual incluirá necessariamente um mínimo de:
 
@@ -223,19 +247,25 @@ a) Duas gruas de cais por cada uma das subfases;
 
 b) Nove pórticos de gruas de cais da classe super post panamax, 30 pórticos de parque, movidos eletricamente, sobre rodas de borracha, e 61 veículos e plataformas transportadoras de parque, no âmbito da fase 3.
 
-###### Base XVII — Prazo e prorrogação
+Base XVII
+
+Prazo e prorrogação
 
 1 - O contrato de concessão produz efeitos até 28 de setembro de 2049, sem prejuízo do disposto no número seguinte.
 
 2 - O contrato de concessão poderá ser prorrogado por um período adicional de até 10 anos, em condições a acordar entre concedente e concessionária.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - Durante a totalidade do período da concessão, qualquer alteração da estrutura acionista da sociedade concessionária que se reflita na perda de controlo por parte do ou dos acionistas de referência só poderá ser feita mediante consentimento escrito da concedente, nos termos previstos no contrato de concessão, sob pena de nulidade.
 
 2 - [Revogado].
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - Nos últimos 10 anos de duração da concessão, poderá a concedente, sempre que o interesse público o justifique, proceder ao respetivo resgate a todo o tempo, mas nunca antes de decorrido um ano a contar da notificação à concessionária da intenção de resgate.
 
@@ -263,13 +293,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Ana Paula Mendes Vitorino.
 
-**Promulgado em 31 de julho de 2019.**
+Promulgado em 31 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2019.**
+Referendado em 1 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -277,9 +307,9 @@ Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Est
 
 «ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf))](https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/08/15300/0001000016.pdf)
 
-## ANEXO II
+ANEXO II
 
 A área da concessão é constituída pelos terrenos e leito do mar do porto de Sines, delimitada pelos alinhamentos retos dos pontos/coordenada de P1, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15, P16, P17, P18, P19, P20 e P21 do anexo, assim definidos:
 
@@ -326,3 +356,5 @@ t) Alinhamento reto da ordem de 750 m, entre o ponto (P20) de coordenadas x = -6
 u) Alinhamento reto da ordem de 750 m, entre o ponto (P21) de coordenadas x = -61 457,06 e y = -193 023,95 e o ponto (P1) de coordenadas x = -061 646,87 e y = -193 267,92, fechando o limite da área.
 
 Nota. - As coordenadas dos pontos encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).»
+
+112507164

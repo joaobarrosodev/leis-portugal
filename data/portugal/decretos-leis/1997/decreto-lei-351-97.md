@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/351/1997/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1997-402723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2257c932c32e6376f2b0834d05d1fde5c8306cf87025c01ba6c3f8c20b8d39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 762e238512ceb763b35a8bed56aff47bf2f24b826e0d9f9e525bad92cf0606aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
 - CEE
 - Direcção Geral das Florestas
 - Direcção Geral de Desenvolvimento Rural
 - Exploração Agrícola
-- Proteção do Ambiente
-- Política Agrícola Comum
 - Exploração Florestal
-- Produção Agrícola
-- Regulamento CE
-- Agricultura
 - Ifadap
+- Política Agrícola Comum
+- Produção Agrícola
+- Proteção do Ambiente
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:571914:por
@@ -96,16 +96,23 @@ relationships:
   target: celex:31992R2080
   label: null
   source: http://data.europa.eu/eli/reg/1992/2080/oj
+- type: repealed_by
+  target: pt:dre:571914:por
+  label: "Revogado, na parte em que se refere ao Regulamento (CEE) n.º 2079/92, do Conselho, de 30 de junho de 1992, o art.\
+    \ 2.º do Dec Lei 31/94 de 05-fev, com as alterações constantes do presente diploma, pelo DEC LEI.38/2014.14.03.2014.MAGM,\
+    \ DR.IS [52] de 14.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2014-571914
+  date: '2014-03-14'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:21Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +141,7 @@ Os artigos 2.º, 6.º, 10.º e 11.º do Decreto-Lei n.º 31/94, de 5 de Fevereir
 
 A coordenação global das medidas previstas nos regulamentos referidos no artigo anterior é da competência da Direcção-Geral de Desenvolvimento Rural, no que se refere aos Regulamentos n.os [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt) e [2079/92](https://data.europa.eu/eli/reg/1992/2079/oj?locale=pt), e da Direcção-Geral das Florestas, no que se refere ao Regulamento n.º [2080/92](https://data.europa.eu/eli/reg/1992/2080/oj?locale=pt), em articulação com os organismos sectoriais competentes nas respectivas áreas e com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -148,7 +155,7 @@ A coordenação global das medidas previstas nos regulamentos referidos no artig
 
 6 - No âmbito do Programa de Medidas Agro-Ambientais aprovado ao abrigo do Regulamento n.º [2078/92](https://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Junho, e sem prejuízo do disposto no número anterior, o beneficiário fica ainda obrigado ao pagamento de uma quantia igual ao dobro das recebidas indevidamente durante o período de vigência do contrato quando se verifique um desvio significativo nas áreas ou animais objecto de ajuda, nos termos a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ou deste e do Ministro do Ambiente, consoante o caso.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - ...
 
@@ -156,7 +163,7 @@ A coordenação global das medidas previstas nos regulamentos referidos no artig
 
 3 - Nas Regiões Autónomas dos Açores e da Madeira a regulamentação prevista nos números anteriores e no n.º 6 do artigo 6.º é estabelecida pelos respectivos órgãos de governo próprio.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - ...
 
@@ -180,12 +187,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1997. - António Manuel de Oliveira Guterres - Alberto Manuel de Sequeira Leal Sampaio da Nóvoa - Antero Alves Monteiro Diniz - António Luciano Pacheco de Sousa Franco - José Manuel da Costa Monteiro Consiglieri Pedroso - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 17 de Novembro de 1997.**
+Promulgado em 17 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Novembro de 1997.**
+Referendado em 24 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13000/0467604678.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2015/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2015-69736207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47d8b6c014f89edaa8ca00da5ce305a3d0bb431195707489c0baee1fb5a22ccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05fdaf5e868e565cd2e49450036c1a9a08791b36a9d9754aae4bfc80cf55ec1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Multa
-- Contra-ordenação
-- Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
-- Fiscalização
-- ASAE
-- MEL
 - Alimentação
+- Aproximação das Legislações
+- ASAE
+- Contra-ordenação
+- Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
+- Fiscalização
 - Indústria Alimentar
+- MEL
+- Multa
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:992627248:por
@@ -115,6 +115,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/31/2012/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/31/2012/03/13/p/dre
+- type: cites
+  target: pt:dre:497270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553438:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0110
   label: null
@@ -124,15 +140,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:45Z'
   warnings: []
   errors: []
 ---
@@ -207,19 +223,25 @@ c) 'Mistura de méis UE e não UE'.
 
 10 - O pólen, sendo um componente natural específico do mel, não deve ser considerado um ingrediente, na aceção da alínea f) do n.º 2 do artigo 2.º do [Regulamento (UE) n.º 1169/2011](https://data.europa.eu/eli/reg/2011/1169/oj?locale=pt), do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, dos produtos referidos no anexo I.
 
-###### Artigo 6.º — Autoridades competentes
+Artigo 6.º
+
+Autoridades competentes
 
 1 - O acompanhamento e controlo da aplicação das normas previstas no presente diploma compete à Direção-Geral de Alimentação e Veterinária (DGAV), de acordo com a sua missão e legais atribuições estabelecidas no [Decreto Regulamentar n.º 31/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-2012-553438), de 13 de março, alterado pelo [Decreto-Lei n.º 109/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2013-498565), de 1 de agosto.
 
 2 - Sem prejuízo da competência atribuída por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento do presente decreto-lei, bem como a instrução e decisão dos processos de contraordenação, nos termos do artigo 9.º
 
-###### Artigo 9.º — Instrução e decisão dos processos de contraordenação
+Artigo 9.º
+
+Instrução e decisão dos processos de contraordenação
 
 1 - A entidade que levantar o auto de notícia remete o mesmo à ASAE para instrução do competente processo.
 
 2 - A aplicação das coimas e sanções acessórias compete ao Inspetor-Geral da ASAE.
 
-###### Artigo 10.º — Destino das coimas
+Artigo 10.º
+
+Destino das coimas
 
 O produto das coimas é repartido da seguinte forma:
 
@@ -241,15 +263,15 @@ Os produtos colocados no mercado ou rotulados em data anterior a 24 de junho de 
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 26 de junho de 2015.**
+Promulgado em 26 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de julho de 2015.**
+Referendado em 1 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

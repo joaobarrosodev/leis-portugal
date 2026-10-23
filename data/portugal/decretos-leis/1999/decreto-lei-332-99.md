@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/194a00/55485550.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/332/1999/08/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1999-433998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf16eea26a6449ad67e8671e717f95395627fa681651412948110fd833553f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fa1b99153550281e2624cc137d6f5d239f0f3ce30a59794306291b735f3a305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
+- Câmara Municipal
+- Comissão de Coordenação Regional
 - Conselho Económico e Social Regional
 - Criação de Serviços
 - Definição de Competências
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
-- Comissão de Coordenação Regional
 - Governador Civil
 - Incentivos ao Desenvolvimento
 - Investimento Público
@@ -78,30 +81,36 @@ subjects:
 - Orgânica
 - Parceiros Sociais
 - Plano de Desenvolvimento Regional
-- Desenvolvimento Económico
+- Plano Regional de Ordenamento do Território
 - Política Económica
 - Política Social
 - Prazo
 - Presidente
 - Programa
-- Plano Regional de Ordenamento do Território
-- Câmara Municipal
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:614361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:614361:por
+  label: "Revogado pelo DEC LEI.265/2001.2001.09.28.MREAP DR.IS-A [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-2001-614361
+  date: '2001-09-28'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:32Z'
   warnings: []
   errors: []
 ---
@@ -264,12 +273,12 @@ Cabe à comissão de coordenação regional assegurar o apoio financeiro, logís
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 28 de Julho de 1999.**
+Promulgado em 28 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1999.**
+Referendado em 12 de Agosto de 1999.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

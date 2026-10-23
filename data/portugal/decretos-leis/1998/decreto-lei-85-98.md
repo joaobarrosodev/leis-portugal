@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1998-209016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5688540764b3c12acf84d0c99d326d3eb35a043972d56dc76ed183317cebc05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c487d0dfebe976e38d45f27f9d676422891786244e29e750f04c8456d586f37e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:48Z'
   warnings: []
   errors: []
 ---
@@ -104,24 +104,24 @@ São aprovados os desenhos da face nacional das moedas de 1 e 2 euros, de 50, 20
 
 Visto e aprovado em Conselho de Ministros de 19 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 20 de Março de 1998.**
+Promulgado em 20 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 1998.**
+Referendado em 24 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO N.º 1 — Face nacional do euro (desenho) - 1 EURO/2 EURO
 
-[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)
+[[[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)
 
 ## ANEXO N.º 2 — Face nacional do euro (desenho) - 10 CENT/20 CENT/50 CENT
 
-[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)
+[[[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)
 
 ## ANEXO N.º 3 — Face nacional do euro (desenho) - 1 CENT/2 CENT/5 CENT
 
-[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)
+[[[(ver desenhos no documento original)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)](https://files.diariodarepublica.pt/1s/1998/04/079a00/14451446.pdf)

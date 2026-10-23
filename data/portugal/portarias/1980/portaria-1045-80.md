@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8df7d74ae5b4b4405e96b754ad35b2556caf7d5ab19c2d2f0e02ba8fc901d1bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c2dbd0209498b740f71a8a84ec75d0726d5816d181e0a5b8a17a898fcb94ce8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Licenciamento
+- Multa
+- Transporte de Mercadorias Perigosas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:625412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:563627:por
+  label: "Alterado o apêndice I pelo DN.269/81.19.08.1981.MTC, DR.IS [224] de 29.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/269-1981-563627
+  date: '1981-08-19'
+- type: amended_by
+  target: pt:dre:565041:por
+  label: "Alterado o n.º 5.º pela PORT.783/81.10.09.1981.MIE, DR.IS [208] de 10.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/783-1981-565041
+  date: '1981-09-10'
+- type: amended_by
+  target: pt:dre:600958:por
+  label: "Acrescentados números de identificação de matéria e de identificação de perigo, ao apêndice I, pelo DN.8/82.01.02.1982.MHOPT,\
+    \ DR.IS [26] de 01.02.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1982-600958
+  date: '1982-01-08'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto no nº 19º, pelo DEC LEI.186/82.1982.05.15.MHOPT DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: amended_by
+  target: pt:dre:308524:por
+  label: "Aditados os nºs 5º-A, 15º-A, 19º-A, 21º-A e 23º-A e alterados os nºs 1º, 9º, 11º, 19º, bem como a especificação\
+    \ das mercadorias constantes do apêndice I e a al. 4 do apêndice III todos do presente diploma, pela PORT.88/83.1983.01.28.MIEE\
+    \ DR.IS [23]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-1983-308524
+  date: '1983-01-28'
+- type: cites
+  target: pt:dre:382787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:390377:por
+  label: Rectificada pela DECL.DD6240.05.01.1981.PCM, DR.IS [12] de 15.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-390377
+  date: '1981-01-05'
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogada pelo(a) Decreto-Lei n.º 210-C/84 - Diário da República n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:49Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +225,7 @@ Manda o Governo da República Portuguesa, pelos Ministros dos Transportes e Comu
 
 Ministérios da Indústria e Energia e dos Transportes e Comunicações, 10 de Outubro de 1980. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
 
-## APÊNDICE I
+APÊNDICE I
 
 Enumeração das mercadorias perigosas susceptíveis de serem transportadas em cisternas
 
@@ -189,25 +249,25 @@ Consideram-se mercadoras perigosas as matérias enumeradas no quadro abaixo, e q
 
 8 - Matérias corrosivas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 1 - Modelo de certificado de aprovação a utilizar para veículos destinados a transporte interno e internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
 
 2 - Modelo de certificado de aprovação a utilizar para veículos destinados exclusivamente a transporte interno
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
 
-## APÊNDICE III
+APÊNDICE III
 
 Identificação das mercadorias transportadas e dos perigos que apresentam
 
 1) Os veículos que transportem, em cisternas, mercadorias perigosas enumeradas no apêndice I devem ostentar dois painéis rectangulares cor-de-laranja retrorreflectores, conforme modelo junto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
 
 2) Os painéis devem ser colocados de forma bem visível, um à frente e outro à retaguarda do veículo, perpendicularmente ao seu eixo longitudinal e do lado esquerdo do pára-choques.
 
@@ -269,7 +329,7 @@ A letra X a anteceder o número de identificação do perigo indica a proibiçã
 
 8) A cor-de-laranja do fundo dos painéis, nas condições normais de utilização, deverá ter coordenadas tricromáticas localizadas na região do diagrama colorimétrico que se delimita juntando entre si os pontos de coordenadas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
 
 Factor de luminosidade da cor retrorreflectora - 0,12;
 
@@ -277,10 +337,10 @@ Centro de referência E, luz-padrão C, incidência normal 45º/0º;
 
 Coeficiente de intensidade luminosa sob um ângulo de iluminação de 5º e de divergência de 0,2º : 20 candelas, mínimo, por lux e por metro quadrado.
 
-## APÊNDICE IV
+APÊNDICE IV
 
 Etiquetas de perigo
 
 Nas paredes laterais e à retaguarda das cisternas que transportem mercadorias perigosas serão apostas as etiquetas de perigo referidas na coluna (5) do quadro do apêndice I, de acordo com os modelos que seguem, sendo facultativas as inscrições que constam da metade inferior das etiquetas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/41034118.pdf)

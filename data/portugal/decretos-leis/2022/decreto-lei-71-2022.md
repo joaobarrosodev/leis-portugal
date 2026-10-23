@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19900/0001200016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2022/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2022-202233712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17ec9f4b0d4d77d98a797418e6bb9e993328988b520e76c12ce70cf8526c2542
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5aa3bbe659d06ec7630f16be942d704774bdd3a7c0a831b1ac79bf362f13f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Energia Elétrica
-- Consumo de Energia
 - Certificação Energética dos Edifícios
 - Co-geração
+- Consumo de Energia
+- Eficiência Energética
+- Energia Elétrica
 - Habitação
 - Prédio Urbano
-- Eficiência Energética
 relationships:
 - type: cites
   target: celex:32009L0125
@@ -103,6 +103,18 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/68-a/2015/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68-a/2015/04/30/p/dre
+- type: cites
+  target: pt:dre:142487103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0027
   label: null
@@ -112,15 +124,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:52Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +181,9 @@ Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 68-A/2015](https://diariodarep
 
 8 - É proibida a dupla contabilização de economias de energia em caso de sobreposição do impacto das respetivas medidas políticas e ações específicas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -183,7 +197,9 @@ Os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 68-A/2015](https://diariodarep
 
 6 - A autoridade responsável pelo acompanhamento de uma medida política deve elaborar e divulgar ao público um relatório anual sobre as economias de energia obtidas através da sua adoção, bem como dados sobre as tendências anuais das economias de energia.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -207,15 +223,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2022. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro.
 
-**Promulgado em 3 de outubro de 2022.**
+Promulgado em 3 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de outubro de 2022.**
+Referendado em 10 de outubro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -282,3 +298,5 @@ a) São apenas consideradas as economias de energia decorrentes de medidas fisca
 b) A elasticidade dos preços para o cálculo do impacto das medidas fiscais em matéria de energia reflete a capacidade de resposta da procura de energia às variações de preços, sendo estimada com base em fontes de dados oficiais recentes e representativas;
 
 c) As economias de energia resultantes de medidas de acompanhamento da política de tributação, incluindo incentivos fiscais ou contribuições para fundos, são contabilizadas à parte.
+
+115769368

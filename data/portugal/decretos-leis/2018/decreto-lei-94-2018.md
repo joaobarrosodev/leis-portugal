@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21900/0529705300.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2018/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2018-116967078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 043387200eab26b0ccece2f0c8f1cb2c8367b9db26b6aeab1fa893d2c6359b51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2dd7aac4933ecfbe6d173069ba34b66b6e9c037016f711358f111de79ff8aa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção do Investimento
-- Contrato de Seguro
+- Apoio ao Investimento
 - AVAL do Estado
-- Garantia
+- Conselho de Garantias Financeiras
 - Conselho de Garantias Financeiras a Exportação e ao Investimento
+- Contrato de Seguro
 - Definição de Competências
 - Direção Geral do Tesouro e Finanças
-- Política Externa
-- Apoio ao Investimento
-- Seguro
+- Exportação
+- Garantia
 - Importação
 - Investimento no Estrangeiro
-- Conselho de Garantias Financeiras
 - Parecer
-- Exportação
+- Política Externa
 - Prémio de Seguro
+- Protecção do Investimento
+- Seguro
 - Seguro de Créditos
 - Seguro de Investimento
 relationships:
@@ -120,16 +120,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/44/2011/10/25/p/dre
+- type: cites
+  target: pt:dre:114311300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667484:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:28Z'
   warnings: []
   errors: []
 ---
@@ -262,7 +302,9 @@ Os artigos 15.º e 16.º do [Decreto-Lei n.º 183/88](https://diariodarepublica.
 
 7 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As condições gerais e especiais das apólices, bem como as tarifas de prémios dos contratos de seguro, a celebrar com a garantia do Estado, são aprovadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, mediante requerimento da seguradora, sujeito a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta da Direção-Geral do Tesouro e Finanças.
 
@@ -296,7 +338,9 @@ Os artigos 6.º e 7.º do [Decreto-Lei n.º 295/2001](https://diariodarepublica.
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As condições gerais e especiais das apólices dos contratos de seguro de investimento a celebrar com a garantia do Estado, bem como o respetivo tarifário, são aprovadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, dos negócios estrangeiros e da economia, mediante requerimento da seguradora, sujeito a parecer do Conselho de Garantias Financeiras à Exportação e ao Investimento, e proposta da Direção-Geral do Tesouro e Finanças.
 
@@ -338,12 +382,14 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2019.
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 16 de outubro de 2018.**
+Promulgado em 16 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de outubro de 2018.**
+Referendado em 18 de outubro de 2018.
 
 Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+111809228

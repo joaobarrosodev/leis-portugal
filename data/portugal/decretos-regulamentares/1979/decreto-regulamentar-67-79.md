@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1979-365895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2b818f6da84b94aa7b70acdb0ef069ea344cfa9bd20c8d0c0ef54ea41793a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f09f4c0a2c519093b1291cd777fccd5cb0b077e60528bee0ee5b2d2000d2cbb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral do Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:570328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570328:por
+  label: "Dada nova redacção ao nº 3 do art. 26º, pelo DR.1/81.1981.01.07.MFP, DR.IS [5]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1981-570328
+  date: '1981-01-07'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:52Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +109,7 @@ de 24 de Dezembro
 
 Nos termos do artigo 46.º do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março, o Governo decreta, de harmonia com a alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento dos Concursos de Provimento dos Lugares de Ingresso no Quadro do Pessoal da Direcção-Geral do Tribunal de Contas, que vai anexo a este decreto e dele faz parte integrante.
+Artigo único. É aprovado o Regulamento dos Concursos de Provimento dos Lugares de Ingresso no Quadro do Pessoal da Direcção-Geral do Tribunal de Contas, que vai anexo a este decreto e dele faz parte integrante.
 
 REGULAMENTO
 
@@ -99,15 +117,15 @@ REGULAMENTO
 
 #### SECÇÃO I — Dos concursos em geral
 
-###### Artigo 1.º O ingresso nos lugares do quadro da Direcção-Geral do Tribunal de Contas faz-se nos termos do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março, e do presente Regulamento.
+Artigo 1.º O ingresso nos lugares do quadro da Direcção-Geral do Tribunal de Contas faz-se nos termos do [Decreto-Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1979-382849), de 29 de Março, e do presente Regulamento.
 
-###### Art. 2.º - 1 - Os concursos para o provimento dos lugares referidos no artigo anterior serão abertos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, com a concordância do presidente do Tribunal.
+Art. 2.º - 1 - Os concursos para o provimento dos lugares referidos no artigo anterior serão abertos por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, com a concordância do presidente do Tribunal.
 
 2 - Os concursos terão a validade de três anos e destinam-se ao preenchimento das vagas que ocorrerem, quer nos serviços centrais, quer regionais.
 
-###### Art. 3.º Para o provimento das vagas de escriturário-dactilógrafo que se derem nas secções regionais do Tribunal de Contas e não possam ser preenchidas por não haver concursados que aceitem os lugares poderá ser aberto na respectiva secção regional concurso extraordinário destinado, exclusivamente, ao seu preenchimento e cuja validade caduca com este.
+Art. 3.º Para o provimento das vagas de escriturário-dactilógrafo que se derem nas secções regionais do Tribunal de Contas e não possam ser preenchidas por não haver concursados que aceitem os lugares poderá ser aberto na respectiva secção regional concurso extraordinário destinado, exclusivamente, ao seu preenchimento e cuja validade caduca com este.
 
-###### Art. 4.º - 1 - Dos anúncios de abertura dos concursos, a publicar no Diário da República e no jornal oficial da respectiva região autónoma, quando se trate dos concursos previstos no artigo anterior, deverão constar:
+Art. 4.º - 1 - Dos anúncios de abertura dos concursos, a publicar no Diário da República e no jornal oficial da respectiva região autónoma, quando se trate dos concursos previstos no artigo anterior, deverão constar:
 
 a) O lugar a prover, o número de vagas e as condições de admissão;
 
@@ -127,13 +145,13 @@ g) A indicação do Diário da República onde se encontra publicado o presente 
 
 3 - O prazo referido no número anterior é contado a partir da data da publicação do anúncio no Diário da República e no respectivo jornal oficial regional, se se tratar de concursos privativos de cada região e a publicação for de data posterior.
 
-###### Art. 5.º Os requerimentos serão entregues na sede da Direcção-Geral, mas os candidatos das regiões autónomas poderão apresentá-los na respectiva secção regional do Tribunal de Contas, que os enviará para a sede nos cinco dias seguintes ao termo do prazo de apresentação dos requerimentos.
+Art. 5.º Os requerimentos serão entregues na sede da Direcção-Geral, mas os candidatos das regiões autónomas poderão apresentá-los na respectiva secção regional do Tribunal de Contas, que os enviará para a sede nos cinco dias seguintes ao termo do prazo de apresentação dos requerimentos.
 
-###### Art. 6.º - 1 - O director-geral decidirá sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a decisão tomada.
+Art. 6.º - 1 - O director-geral decidirá sobre a admissão ou exclusão dos candidatos, fundamentando, no segundo caso, a decisão tomada.
 
 2 - Se do exame feito aos documentos se reconhecer que existem deficiências, dúvidas ou omissões, serão os respectivos candidatos avisados por anúncio publicado no Diário da República e nos jornais oficiais das regiões autónomas, sendo caso disso, para no prazo de dez dias, sob cominação de exclusão, suprirem as faltas verificadas.
 
-###### Art. 7.º - 1 - Expirado o prazo referido no n.º 2 do artigo antecedente, será publicada no Diário da República e nos jornais oficiais das regiões autónomas, sendo caso disso, lista, por ordem alfabética, dos nomes dos candidatos admitidos e dos excluídos, devendo, neste último caso, ser indicados os motivos de exclusão.
+Art. 7.º - 1 - Expirado o prazo referido no n.º 2 do artigo antecedente, será publicada no Diário da República e nos jornais oficiais das regiões autónomas, sendo caso disso, lista, por ordem alfabética, dos nomes dos candidatos admitidos e dos excluídos, devendo, neste último caso, ser indicados os motivos de exclusão.
 
 2 - No caso de prestação de provas, estas serão anunciadas no Diário da República com, pelo menos, trinta dias de antecedência, indicando-se o local, dia e hora em que devam ter lugar.
 
@@ -149,7 +167,7 @@ g) A indicação do Diário da República onde se encontra publicado o presente 
 
 #### SECÇÃO II — Dos candidatos
 
-###### Art. 8.º - 1 - Os candidatos deverão instruir os seus requerimentos com os seguintes documentos:
+Art. 8.º - 1 - Os candidatos deverão instruir os seus requerimentos com os seguintes documentos:
 
 a) Certidão de registo de nascimento ou bilhete de identidade;
 
@@ -175,7 +193,7 @@ g) Documento comprovativo de ter cumprido os preceitos legais do recrutamento mi
 
 #### SECÇÃO III — Do Júri
 
-###### Art. 9.º - 1 - Os júris dos concursos serão constituídos por um presidente e dois vogais.
+Art. 9.º - 1 - Os júris dos concursos serão constituídos por um presidente e dois vogais.
 
 2 - O presidente será o director-geral ou o contador-geral da respectiva secção regional, quando se trate dos concursos abertos nos termos do artigo 3.º
 
@@ -187,23 +205,23 @@ g) Documento comprovativo de ter cumprido os preceitos legais do recrutamento mi
 
 6 - Por despacho do Secretário de Estado das Finanças, sob proposta do director-geral, serão fixadas as remunerações aos especialistas referidos no número anterior, que serão abonados com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal do Contas.
 
-###### Art. 10.º - 1 - O júri só poderá funcionar quando estiverem presentes todos os seus membros.
+Art. 10.º - 1 - O júri só poderá funcionar quando estiverem presentes todos os seus membros.
 
 2 - Das reuniões do júri lavrar-se-ão actas em livro especial, das quais deverão constar as deliberações tomadas.
 
 3 - Servirá de secretário o vogal menos categorizado e, em igualdade de categoria, o mais moderno.
 
-###### Art. 11.º - 1 - As deliberações do júri serão tomadas por maioria de votos.
+Art. 11.º - 1 - As deliberações do júri serão tomadas por maioria de votos.
 
 2 - Qualquer membro do júri poderá resolver as dúvidas que se suscitarem durante a prestação das provas.
 
 #### SECÇÃO IV — Da prestação de provas e dos concursos documentais
 
-###### Art. 12.º - 1 - Os programas dos concursos de prestação de provas vão anexos ao presente Regulamento e poderão ser alterados por portaria do Secretário de Estado das Finanças, sob proposta do director-geral.
+Art. 12.º - 1 - Os programas dos concursos de prestação de provas vão anexos ao presente Regulamento e poderão ser alterados por portaria do Secretário de Estado das Finanças, sob proposta do director-geral.
 
 2 - O tempo total da duração das provas será indicado no respectivo programa ou fixado pelo júri.
 
-###### Art. 13.º - 1 - Os concursos de prestação de provas constam do seguinte:
+Art. 13.º - 1 - Os concursos de prestação de provas constam do seguinte:
 
 a) Para contador-verificador estagiário:
 
@@ -213,11 +231,11 @@ b) Para escriturário-dactilógrafo e catalogador de 2.ª classe:
 
 Prova de dactilografia, constando de cópia de um texto, da elaboração de um mapa e de um ditado.
 
-###### Art. 14.º No dia, hora e local designados para a prestação de provas o júri procederá à chamada dos concorrentes, identificando-os pelo bilhete de identidade.
+Art. 14.º No dia, hora e local designados para a prestação de provas o júri procederá à chamada dos concorrentes, identificando-os pelo bilhete de identidade.
 
-###### Art. 15.º Para cada prova, e por cada grupo de candidatos, o júri elaborará, previamente, dois pontos, que serão rubricados por todos os membros e encerrados em sobrescritos lacrados e igualmente rubricados, mencionando-se em cada sobrescrito o número do respectivo ponto, o concurso e a prova a que se destinam.
+Art. 15.º Para cada prova, e por cada grupo de candidatos, o júri elaborará, previamente, dois pontos, que serão rubricados por todos os membros e encerrados em sobrescritos lacrados e igualmente rubricados, mencionando-se em cada sobrescrito o número do respectivo ponto, o concurso e a prova a que se destinam.
 
-###### Art. 16.º - 1 - Em cada grupo de concorrentes o ponto será tirado à sorte pelo primeiro candidato segundo a ordem alfabética e, depois de encerradas as portas da sala de concurso, o presidente do júri fixará o início e o fim do período destinado a cada prova.
+Art. 16.º - 1 - Em cada grupo de concorrentes o ponto será tirado à sorte pelo primeiro candidato segundo a ordem alfabética e, depois de encerradas as portas da sala de concurso, o presidente do júri fixará o início e o fim do período destinado a cada prova.
 
 2 - Quando for considerado conveniente, o presidente do júri mandará tirar fotocópias do ponto sorteado, que serão distribuídas aos candidatos.
 
@@ -229,13 +247,13 @@ Prova de dactilografia, constando de cópia de um texto, da elaboração de um m
 
 6 - No caso de deficiência mecânica que impeça o prosseguimento das provas dactilográficas, e desde que o candidato não possa passar a outro grupo, recomeçará a prova noutra máquina, procedendo-se a uma nova contagem de tempo.
 
-###### Art. 17.º - 1 - Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri nem consultar livros ou apontamentos.
+Art. 17.º - 1 - Os candidatos não poderão comunicar entre si nem com pessoa estranha ao júri nem consultar livros ou apontamentos.
 
 2 - Poderá ser facultada a legislação que os candidatos solicitarem.
 
 3 - Nas provas de línguas poderão ser utilizados dicionários, de que os candidatos se poderão fazer acompanhar.
 
-###### Art. 18.º Serão excluídos os candidatos que durante as provas:
+Art. 18.º Serão excluídos os candidatos que durante as provas:
 
 a) Infringirem o disposto no artigo anterior;
 
@@ -245,11 +263,11 @@ c) Saírem do local onde decorrem as provas sem autorização;
 
 d) Apresentarem as provas em papel diferente do que lhes for fornecido.
 
-###### Art. 19.º - 1 - Nos concursos de prestação de provas, os membros do júri, depois destas findas, darão prioridade à sua apreciação.
+Art. 19.º - 1 - Nos concursos de prestação de provas, os membros do júri, depois destas findas, darão prioridade à sua apreciação.
 
 2 - Apreciadas as provas, o júri reunirá nos termos do artigo 11.º para deliberar, organizando lista de classificação, pela ordem decrescente da valorização, e atendendo às preferências a que se refere o artigo 21.º
 
-###### Art. 20.º - 1 - A cada prova será atribuída uma classificação de 0 a 20 valores, considerando-se como classificação final a média das classificações obtidas, sendo excluídos os candidatos que obtiverem classificação inferior a 10 valores no conjunto das provas.
+Art. 20.º - 1 - A cada prova será atribuída uma classificação de 0 a 20 valores, considerando-se como classificação final a média das classificações obtidas, sendo excluídos os candidatos que obtiverem classificação inferior a 10 valores no conjunto das provas.
 
 2 - No caso do número anterior, para a determinação da média final será atribuído o coeficiente 2 à classificação da prova escrita e o coeficiente 1 à classificação da prova de dactilografia.
 
@@ -267,7 +285,7 @@ Palavras omitidas;
 
 Apresentação geral das provas.
 
-###### Art. 21.º Nos concursos das provas, em caso de igualdade de classificação, são condições de preferência:
+Art. 21.º Nos concursos das provas, em caso de igualdade de classificação, são condições de preferência:
 
 a) Maiores e mais adequadas habilitações literárias;
 
@@ -279,19 +297,19 @@ d) Entre funcionários da Direcção-Geral e no caso de igualdade, o que estiver
 
 e) Ter prestado serviço efectivo nas forças armadas.
 
-###### Art. 22.º Na classificação final dos concursos documentais, o júri deverá ter em atenção a ordem de preferência estabelecida no artigo anterior, antepondo, porém, a alínea b) à alínea a).
+Art. 22.º Na classificação final dos concursos documentais, o júri deverá ter em atenção a ordem de preferência estabelecida no artigo anterior, antepondo, porém, a alínea b) à alínea a).
 
-###### Art. 23.º - 1 - Os concursos relativos ao provimento do lugar de tradutor-correspondente serão documentais, mas o perfeito conhecimento de línguas será verificado através de provas escritas, que agruparão os candidatos em Aptos e Não aptos.
+Art. 23.º - 1 - Os concursos relativos ao provimento do lugar de tradutor-correspondente serão documentais, mas o perfeito conhecimento de línguas será verificado através de provas escritas, que agruparão os candidatos em Aptos e Não aptos.
 
 2 - Não serão considerados Aptos os candidatos que obtiverem classificação final inferior a 14 valores.
 
 3 - As provas referidas nos números anteriores constarão de uma tradução e de uma retroversão, em francês e inglês, de textos de carácter técnico-financeiro.
 
-###### Art. 24.º As listas de classificação serão enviadas para publicação no Diário da República e no jornal oficial da respectiva região autónoma, sendo caso disso, no prazo máximo de três dias a partir da data da deliberação do júri.
+Art. 24.º As listas de classificação serão enviadas para publicação no Diário da República e no jornal oficial da respectiva região autónoma, sendo caso disso, no prazo máximo de três dias a partir da data da deliberação do júri.
 
-###### Art. 25.º Será assinado pelo presidente do júri o boletim de classificação de cada candidato, de harmonia com os modelos anexos a este Regulamento, que será junto ao respectivo processo de concurso.
+Art. 25.º Será assinado pelo presidente do júri o boletim de classificação de cada candidato, de harmonia com os modelos anexos a este Regulamento, que será junto ao respectivo processo de concurso.
 
-###### Art. 26.º - 1 - Da classificação final dos candidatos, mediante requerimento fundamentado, cabe recurso para o presidente do Tribunal de Contas, a interpor no prazo de dez dias a partir da publicação da respectiva lista, contado nos termos do n.º 3 do artigo 4.º
+Art. 26.º - 1 - Da classificação final dos candidatos, mediante requerimento fundamentado, cabe recurso para o presidente do Tribunal de Contas, a interpor no prazo de dez dias a partir da publicação da respectiva lista, contado nos termos do n.º 3 do artigo 4.º
 
 2 - O recurso só poderá ter por objecto a violação dos artigos 15.º, 17.º, n.os 2 e 3, 20.º, n.º 3, 21.º e 22.º
 
@@ -299,23 +317,23 @@ e) Ter prestado serviço efectivo nas forças armadas.
 
 4 - As decisões que neguem provimento aos recursos serão notificadas aos concorrentes e as que concedam provimento darão origem à publicação das rectificações havidas por indispensáveis.
 
-###### Art. 27.º Os candidatos serão chamados segundo a ordem por que forem classificados, para o preenchimento das vagas existentes e das que vierem a abrir-se no prazo de validade do concurso.
+Art. 27.º Os candidatos serão chamados segundo a ordem por que forem classificados, para o preenchimento das vagas existentes e das que vierem a abrir-se no prazo de validade do concurso.
 
 ### CAPÍTULO II — Disposições gerais e transitórias
 
-###### Art. 28.º Tudo o que não estiver previsto neste diploma será regulado pela lei geral, que constituirá direito subsidiário deste Regulamento.
+Art. 28.º Tudo o que não estiver previsto neste diploma será regulado pela lei geral, que constituirá direito subsidiário deste Regulamento.
 
-###### Art. 29.º As disposições aplicáveis às secções regionais do Tribunal de Contas entrarão em vigor após o período do regime de instalação.
+Art. 29.º As disposições aplicáveis às secções regionais do Tribunal de Contas entrarão em vigor após o período do regime de instalação.
 
-###### Art. 30.º As dúvidas e casos omissos serão resolvidos por despacho conjunto dos Secretários de Estado das Finanças e da Administração Pública.
+Art. 30.º As dúvidas e casos omissos serão resolvidos por despacho conjunto dos Secretários de Estado das Finanças e da Administração Pública.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 30 de Novembro de 1979.**
+Promulgado em 30 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Direcção-Geral
 
@@ -363,7 +381,7 @@ Classificação final ... ...
 
 Lisboa, .../.../...
 
-**O Presidente do Júri,**
+O Presidente do Júri,
 
 ...
 
@@ -417,7 +435,7 @@ Classificação final ... ...
 
 Lisboa, ... de ... de 1979.
 
-**O Presidente do Júri,**
+O Presidente do Júri,
 
 ...
 
@@ -495,4 +513,4 @@ Escriturários-dactilógrafos e catalogadores de 2.ª classe
 
 1.3 - Ditado de um trecho em português com cerca de duzentas palavras.
 
-**O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

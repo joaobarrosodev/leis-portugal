@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/06400/0110601107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2010/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2010-612653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 416865ca84bcab10705013f5fb58f6ddc9c3292dd7c5c5ac6c0079b49125ac5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6afd5ba8392d8c986cc1c35e475a53306a45a9fa61ae6493c3b7c11b437d02c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,23 +70,30 @@ reuse:
 subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
+- Concurso Limitado por Prévia Qualificação
 - Concurso Público
-- Renovação Urbana
 - Empreitada de Obras Públicas
 - Energia Renovável
 - Impresso
-- Publicitação
 - Locação Financeira
-- Concurso Limitado por Prévia Qualificação
 - Modernização Tecnológica
 - Obras Públicas
 - Parque Escolar
+- Publicitação
+- Renovação Urbana
 - Sistema Nacional de Compras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:1018151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332747:por
+  label: "Determinada a cessação, a partir de 12.06.2010, da vigência do presente diploma, que alterou o Dec Lei 34/2009 de\
+    \ 06-Fev, e repristinados, a partir da mesma data, o nº 3 do art. 5º e o nº 2 do art. 11º daquele diploma pela RES.52/2010.07.06.2010.AR,\
+    \ DR.IS [109] de 07.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/52-2010-332747
+  date: '2010-06-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/34/2009/02/06/p/dre
   label: null
@@ -99,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/1/2007/01/03/p/dre
+- type: cites
+  target: pt:dre:262302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601534:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:46Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +174,9 @@ Os artigos 1.º e 11.º do [Decreto-Lei n.º 34/2009](https://diariodarepublica.
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O regime excepcional previsto no presente decreto-lei é aplicável aos procedimentos de formação de contratos públicos cuja decisão de contratar seja tomada até 31 de Dezembro de 2010.
 
@@ -175,12 +196,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Medina Maciel Almeida Correia - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 19 de Março de 2010.**
+Promulgado em 19 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Março de 2010.**
+Referendado em 24 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

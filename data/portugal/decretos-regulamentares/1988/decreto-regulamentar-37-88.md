@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1988-354481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca27eca207e763a17beebb52fb5e2e05e50eddc55a56d56de26bcf75bc0b16c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a6121eb23187660eea97f285acaf37cd332666a8c0a1444bfc157150c4aeca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Chiado
+- Incêndio
 relationships:
 - type: amended_by
   target: pt:dre:548183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548183:por
+  label: "Alterado o art. 4º pelo DR.27/89.1989.09.28.PCM, DR.IS [224] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1989-548183
+  date: '1989-09-28'
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:18Z'
   warnings: []
   errors: []
 ---
@@ -100,38 +124,38 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 27.º e no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, de que faz parte integrante, situada no Chiado, na cidade de Lisboa.
+Artigo 1.º Nos termos do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona delimitada na planta anexa ao presente diploma, de que faz parte integrante, situada no Chiado, na cidade de Lisboa.
 
-###### Art. 2.º A Câmara Municipal de Lisboa poderá, como efeito directo e imediato do presente diploma, promover a expropriação por utilidade pública dos imóveis situados na zona identificada no artigo anterior e tomar posse administrativa dos mesmos quando os respectivos proprietários infrinjam os deveres impostos nos artigos 15.º e 16.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
+Art. 2.º A Câmara Municipal de Lisboa poderá, como efeito directo e imediato do presente diploma, promover a expropriação por utilidade pública dos imóveis situados na zona identificada no artigo anterior e tomar posse administrativa dos mesmos quando os respectivos proprietários infrinjam os deveres impostos nos artigos 15.º e 16.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
 
-###### Art. 3.º - 1 - As intervenções a efectuar pela Câmara Municipal de Lisboa ao abrigo do disposto no artigo 42.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, serão precedidas de parecer obrigatório do Instituto Português do Património Cultural.
+Art. 3.º - 1 - As intervenções a efectuar pela Câmara Municipal de Lisboa ao abrigo do disposto no artigo 42.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, serão precedidas de parecer obrigatório do Instituto Português do Património Cultural.
 
 2 - Se no prazo de quinze dias não for emitido o parecer previsto no número anterior, este presume-se favorável.
 
-###### Art. 4.º - 1 - O Estado, representado pelo membro do Governo que exerça a tutela do Instituto Português do património Cultural, e a Câmara Municipal de Lisboa, nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e pela ordem indicada, gozam do direito de preferência nas transmissões a título oneroso, entre particulares, de imóveis situados na zona prevista no artigo 1.º e delimitada na planta anexa.
+Art. 4.º - 1 - O Estado, representado pelo membro do Governo que exerça a tutela do Instituto Português do património Cultural, e a Câmara Municipal de Lisboa, nos termos dos artigos 27.º e 28.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e pela ordem indicada, gozam do direito de preferência nas transmissões a título oneroso, entre particulares, de imóveis situados na zona prevista no artigo 1.º e delimitada na planta anexa.
 
 2 - Este direito é concedido pelo prazo de um ano a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 5.º A comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, deverá ser dirigida ao presidente do Instituto Português do Património Cultural e ao presidente da Câmara Municipal de Lisboa.
+Art. 5.º A comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, deverá ser dirigida ao presidente do Instituto Português do Património Cultural e ao presidente da Câmara Municipal de Lisboa.
 
-###### Art. 6.º - 1 - Para efeito do disposto no n.º 2 do artigo 4.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, o Instituto Português do Património Cultural deverá comunicar à Câmara Municipal de Lisboa, no prazo de quinze dias a contar da data da apresentação da participação feita nos termos dos n.os 4 e 7 do artigo 3.º do mesmo diploma, se pretende exercer o direito de preferência.
+Art. 6.º - 1 - Para efeito do disposto no n.º 2 do artigo 4.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro, o Instituto Português do Património Cultural deverá comunicar à Câmara Municipal de Lisboa, no prazo de quinze dias a contar da data da apresentação da participação feita nos termos dos n.os 4 e 7 do artigo 3.º do mesmo diploma, se pretende exercer o direito de preferência.
 
 2 - Na falta de comunicação dentro do prazo fixado no número anterior, considera-se ter havido renúncia do Estado ao exercício do direito de preferência.
 
-###### Art. 7.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 22 de Setembro de 1988.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 12 de Outubro de 1988.**
+Promulgado em 12 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Outubro de 1988.**
+Referendado em 15 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24800/43524353.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24800/43524353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24800/43524353.pdf)

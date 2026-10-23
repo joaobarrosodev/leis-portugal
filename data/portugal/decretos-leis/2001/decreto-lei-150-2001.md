@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/105a00/26442649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/150/2001/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2001-316079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1befe05da76166cf663409381b128678176ef0735c2adc47854d2b3ba0f3e21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4de6d3c00db3c47f16a97660ebf927f6ba96f0f0f80fdb7fea487a3fc4f9c47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
+- Concorrência
+- Confidencialidade
 - Contabilidade
-- Multa
 - Contra-ordenação
 - CTT
-- Concorrência
+- Direitos do Utente
 - Fiscalização
 - Fixação de Preços
 - Instituto das Comunicações de Portugal
 - Licenciamento
+- Multa
 - Preço
-- Serviço Público
 - Prestação de Serviços
-- Confidencialidade
 - REDE Postal
 - REDE Postal Pública
 - Regime Jurídico
 - Regulamento do Serviço Público de Correios
+- Serviço Postal
 - Serviço Postal Universal
-- Direitos do Utente
+- Serviço Público
 - Serviço Público de Correios
 relationships:
 - type: amended_by
   target: pt:dre:553038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684060:por
+  label: "Alterados os arts. 4.º. 7.º, 9.º 13.º, 14.º, 15.º, 18.º e 22.º e revogado o art. 16., pelo DEC LEI.116/2003.2003.06.12.MECO\
+    \ DR.IS-A [135]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2003-684060
+  date: '2003-06-12'
+- type: amended_by
+  target: pt:dre:346360:por
+  label: "Alterada a base XX da concessão do serviço postal universal, aprovada pelo Dec Lei 448/99, de 04-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.112/2006.09.06.2006.MOPTC, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2006-346360
+  date: '2006-06-09'
 - type: cites
   target: celex:31997L0067
   label: null
   source: http://data.europa.eu/eli/dir/1997/67/oj
+- type: repealed_by
+  target: pt:dre:553038:por
+  label: "Revogado pela LEI.17/2012.26.04.2012.AR, DR.IS [82] de 26.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2012-553038
+  date: '2012-04-26'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:24:49Z'
   warnings: []
   errors: []
 ---
@@ -479,12 +496,12 @@ O presente diploma entra em vigor 90 dias a contar da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Março de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 18 de Abril de 2001.**
+Promulgado em 18 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2001.**
+Referendado em 26 de Abril de 2001.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

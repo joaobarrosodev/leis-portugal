@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/739-1975-311211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1b535317fdcdb1aadf1c23c9f751a846282f884aaa79269d326af65965e72ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 055be105e063afb65096b8602e9fe335d13a9ece5e81a4ec41d10b7a4cc25f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gestão Orçamental
+- Ministério da Comunicação Social
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério das Finanças
+- Ministério do Equipamento Social e Ambiente
+- Ministério dos Negócios Estrangeiros
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:09Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +98,6 @@ de 13 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças, com fundamento no n.º 1 e suas alíneas a) e b) do artigo 3.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro, efectuar as seguintes transferências de verbas nos Ministérios abaixo designados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/28700/20142015.pdf))](https://files.diariodarepublica.pt/1s/1975/12/28700/20142015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/12/28700/20142015.pdf)
 
 Ministério das Finanças, 19 de Novembro de 1975. - Pelo Ministro das Finanças, Vítor Manuel Ribeiro Constâncio, Secretário de Estado do Orçamento.

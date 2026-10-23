@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/15800/0011700122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/2022/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2022-187538043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5346e25f23056c0af5baf78d6bd87e5b819cc14ce6d8764a46d7fad325cdb168
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ce5339f9bba7ee5f3fb74b588d2480be70a5f149e24c39d021c19baac6d5875
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Administração dos Portos do Douro e Leixões
 - Comboio
-- Transporte Ferroviário
 - Estação de Caminho de Ferro
 - Estatuto
 - Infraestrutura dos Transportes
+- Infraestruturas de Portugal
 - Porto de Leixões
 - Transferência de Competências
-- Infraestruturas de Portugal
+- Transporte Ferroviário
 relationships:
 - type: cites
   target: celex:32017R2177
@@ -116,16 +116,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/2015/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2015/05/21/p/dre
+- type: cites
+  target: pt:dre:122124254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179993083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67250267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70476205:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:29Z'
   warnings: []
   errors: []
 ---
@@ -254,16 +290,18 @@ O artigo 7.º do [Decreto-Lei n.º 335/98](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 28 de julho de 2022. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Hugo Santos Mendes.
 
-**Promulgado em 8 de agosto de 2022.**
+Promulgado em 8 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de agosto de 2022.**
+Referendado em 9 de agosto de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/15800/0011700122.pdf))](https://files.diariodarepublica.pt/1s/2022/08/15800/0011700122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/15800/0011700122.pdf)
+
+115603195

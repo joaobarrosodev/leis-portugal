@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/04/06900/0000200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3030d82752a82e566519928ae1917c510ceda6ff551be1d03cfd392281c633e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efff22762802cda163c147d73c5dad8b2935ae469169b8177f2fa05f041f8455
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
 - Aproximação das Legislações
+- ASAE
 - Autoridade de Segurança Alimentar e Económica
-- Metrologia
+- Certificado de Qualidade
 - Consumidor
 - Contra-ordenação
+- Contraordenação Económica
 - Decisão CE
 - Definição de Competências
-- União Europeia
 - Fiscalização
 - Inspector Geral do Trabalho
-- Aparelho de Medição
-- Publicitação
-- ASAE
-- Certificado de Qualidade
 - Instituto Português da Qualidade
+- Metrologia
+- Normalização
 - Organização Internacional de Metrologia Legal
 - Página na Internet
+- Publicitação
+- Regime Jurídico das Contraordenações Económicas
 - Regulamento CE
 - TAXA Contributiva
-- Normalização
-- Regime Jurídico das Contraordenações Económicas
-- Contraordenação Económica
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:919368521:por
@@ -144,6 +144,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:106886614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106938487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143741481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557469:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0032
   label: null
@@ -151,13 +179,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:59Z'
   warnings: []
   errors: []
 ---
@@ -560,12 +588,14 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2022.
 
 Visto e aprovado em Conselho de Ministros de 17 de março de 2022. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Miguel Jorge de Campos Cruz.
 
-**Promulgado em 28 de março de 2022.**
+Promulgado em 28 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de março de 2022.**
+Referendado em 31 de março de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115195766

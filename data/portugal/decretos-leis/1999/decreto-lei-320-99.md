@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320/1999/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1999-423057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88862477c4b36614961b2b3e7b65a024ead9a466eac12be57d67fb134eda136b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80884e2cb0fd9ae6b05255ae6a293ea3289fa54f32b7420dfd16128a152f2a0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Carteira Profissional
-- Formação Profissional
-- Conselho Nacional das Profissões de Diagnóstico e Terapêutica
-- Saúde
-- Definição de Competências
 - Administração Pública
 - Carreira Profissional
+- Carteira Profissional
+- Conselho Nacional das Profissões de Diagnóstico e Terapêutica
+- Definição de Competências
+- Formação Profissional
+- Pessoal de Saúde
 - Pessoal Técnico
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Qualificação Profissional
+- Saúde
 - Setor Privado
 - Setor Público
 relationships:
@@ -108,16 +108,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/1992/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/1992/12/30/p/dre
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:19Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +258,9 @@ f) Reconhecimento legal da respectiva profissão, de acordo com a legislação c
 
 4 - No que respeita à profissão de protésico dentário, os profissionais que reúnam as condições legais para obtenção da carteira de ajudante têm um prazo de três meses a contar da data da publicação do presente diploma para regularizar a sua situação como ajudante de técnico de prótese dentária.
 
-###### Artigo 5.º — Título profissional
+###### Artigo 5.º
+
+## Título profissional
 
 1 - O exercício das profissões fica dependente de título profissional, correspondente a uma das designações referidas no artigo 2.º, a reconhecer pelo Departamento de Recursos Humanos da Saúde, adiante designado por DRHS, nos termos dos números seguintes.
 
@@ -364,12 +402,12 @@ O presente diploma entra em vigor no prazo de 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Julho de 1999.**
+Referendado em 28 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

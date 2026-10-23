@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/09/17300/0531605332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2017/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2017-108113700
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ea29ec776b987151d0456684543fd3f13d7696e0d9aa82b579775a81f30975c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aaef62f38e1b914484be384f71518522d1d7b19480c11bcc2eaeb0378af125bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assistência Medicamentosa
 - Avaliação Económica de Medicamentos
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
+- Comissão de Avaliação de Tecnologias de Saúde
 - Comparticipação do Estado
 - Contrato
-- Serviço Nacional de Saúde
 - Fixação de Preços
+- Indústria Farmacêutica
+- Infarmed
+- Madeira.região Autónoma
+- Material Médico-Cirúrgico
 - Medicamento
+- Medicamento Biológico
 - Preço de Referência
 - Preço de Venda
 - Preço Máximo
-- Madeira.região Autónoma
-- Material Médico-Cirúrgico
+- Serviço Nacional de Saúde
 - Serviço Regional de Saúde
-- Açores
-- Comércio
-- Unidade de Saúde Pública
 - SISTEMA NACIONAL DE AVALIAÇÃO DE TECNOLOGIAS DE SAÚDE
-- Comissão de Avaliação de Tecnologias de Saúde
-- Medicamento Biológico
+- Unidade de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:897543551:por
@@ -131,16 +131,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2012/02/07/p/dre
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67644325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75307907:por
+  label: null
+  source: null
 article_structure:
-  article_count: 71
+  article_count: 51
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:20Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +247,9 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 8.º, 12.º, 14.º, 15.º, 17.º, 19.º, 21.�
 
 8 - A CATS exerce as suas competências através de uma comissão executiva constituída por um número mínimo de três elementos designados de entre os seus membros, pelo conselho diretivo do INFARMED, I. P., nos termos previsto no seu regulamento de funcionamento.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +277,9 @@ j) 'Preço de referência' o valor sobre o qual incide a comparticipação do Es
 
 k) [Anterior alínea i).]
 
-###### Artigo 5.º — Avaliação e reavaliação de tecnologias de saúde
+Artigo 5.º
+
+Avaliação e reavaliação de tecnologias de saúde
 
 1 - ...
 
@@ -245,7 +305,9 @@ b) Comparticipação, avaliação prévia e reavaliação.
 
 10 - (Anterior n.º 7.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +351,9 @@ o) ...
 
 6 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +375,9 @@ o) ...
 
 10 - Por razões de interesse público ou de regularização do mercado, o membro do Governo responsável pela área da saúde pode determinar a prática de deduções sobre os preços máximos autorizados, em condições a regulamentar por portaria.
 
-###### Artigo 12.º — Regimes de preços máximos de dispositivos médicos e outras tecnologias de saúde
+Artigo 12.º
+
+Regimes de preços máximos de dispositivos médicos e outras tecnologias de saúde
 
 1 - Nos termos previstos no presente decreto-lei, para efeitos de comparticipação ou de avaliação prévia de dispositivos médicos, podem determinados dispositivos médicos ou grupos genéricos de dispositivos médicos ser sujeitos a regimes especiais de preços máximos para os utentes do SNS e ou para as entidades tuteladas pelo membro do Governo responsável pela área da saúde.
 
@@ -323,7 +389,9 @@ o) ...
 
 5 - Os regimes especiais de preços máximos previstos no n.º 1 podem aplicar-se, com as necessárias adaptações, a outras tecnologias de saúde.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +419,9 @@ f) No caso dos medicamentos biológicos similares, nos termos do artigo 21.º
 
 7 - Cabe ao titular da AIM do medicamento o ónus da prova quanto ao valor terapêutico acrescentado ou à sua equivalência terapêutica e à sua vantagem económica.
 
-###### Artigo 15.º — Exclusão ou modificação da comparticipação
+Artigo 15.º
+
+Exclusão ou modificação da comparticipação
 
 1 - Os medicamentos de uso humano comparticipados são excluídos da comparticipação ou podem ver modificadas as condições de comparticipação, mediante decisão fundamentada, quando se verifique uma das seguintes situações:
 
@@ -379,7 +449,9 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 6 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O titular da AIM está obrigado a comunicar o início da comercialização, da sua iniciativa, do medicamento comparticipado.
 
@@ -393,7 +465,9 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -409,7 +483,9 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 7 - Quando já exista grupo homogéneo com medicamentos biológicos similares, os critérios referidos nos n.os 5 e 6 são fixados por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -417,7 +493,9 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 3 - Caso já existam medicamentos biológicos similares em determinada Denominação Comum Internacional com pelo menos 5 % de quota do mercado da respetiva substância ativa, o PVP do medicamento biológico similar não pode ser superior a 70 % do PVP do medicamento biológico de referência.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -429,7 +507,9 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -445,11 +525,15 @@ g) Ter sido reclassificado como medicamento sujeito a receita médica restrita, 
 
 7 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O regime de comparticipação dos dispositivos médicos é aplicável, com as necessárias adaptações, a outras tecnologias de saúde, através de portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -481,13 +565,17 @@ O regime de comparticipação dos dispositivos médicos é aplicável, com as ne
 
 15 - A cedência de medicamentos efetuada nos termos previstos nos números anteriores não é considerada para efeitos do disposto no n.º 5 do artigo 113.º do Código dos Contratos Públicos.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Para efeitos da celebração de contratos de avaliação prévia relativa a medicamento biológico similar, a vantagem económica corresponde, no mínimo, a 20 % do PVA do medicamento biológico de referência, salvo o disposto no número seguinte.
 
 2 - Caso já existam medicamentos biológicos similares em determinada Denominação Comum Internacional com pelo menos 5 % de quota do mercado, da respetiva substância ativa a vantagem económica corresponde, no mínimo, a 30 % do PVA do medicamento biológico de referência.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Sem prejuízo da faculdade de emissão de recomendações quanto à sua utilização, os dispositivos médicos podem ser sujeitos a avaliação prévia com vista a estabelecer as condições de aquisição e utilização pelas entidades tuteladas pelo membro do Governo responsável pela área da saúde.
 
@@ -501,7 +589,9 @@ O regime de comparticipação dos dispositivos médicos é aplicável, com as ne
 
 6 - A avaliação prévia de um dispositivo médico determina a atribuição de um código pelo INFARMED, I. P., do qual depende a sua aquisição.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os dispositivos médicos sujeitos a um procedimento de avaliação prévia e com parecer favorável podem ser objeto de contrato de avaliação prévia, a celebrar com o fabricante ou o seu representante com poderes para o efeito.
 
@@ -511,7 +601,9 @@ O regime de comparticipação dos dispositivos médicos é aplicável, com as ne
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -569,15 +661,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de junho de 2017. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 2 de agosto de 2017.**
+Promulgado em 2 de agosto de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de agosto de 2017.**
+Referendado em 7 de agosto de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -1307,7 +1399,9 @@ n) Gerir o Sistema Nacional de Avaliação de Tecnologias de Saúde (SiNATS).
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -1333,7 +1427,9 @@ d) O regulamento de funcionamento da CATS.
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 

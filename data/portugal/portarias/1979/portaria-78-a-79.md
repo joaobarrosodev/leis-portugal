@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 36/1979, 1º Suplemento, Série I de 1979-02-12
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 224-(1) a 224-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03601/00010002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/78-a-1979-402699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fad64dfc937d1bffa3a0408b7c8b16abfa46d031d3ab000aedbd2ad94d8aa3ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d6d8a3b5916b8d2324d9c529c92a188e5b1fc0ff505bfa43d016eb58f4beccf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Greve
+- Requisição Civil
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:593075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165031:por
+  label: "Alterado o n.º 7, pela PORT.81-A/79.1979.02.13.MT DR.IS [37]2.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-a-1979-165031
+  date: '1979-02-13'
+- type: amended_by
+  target: pt:dre:593075:por
+  label: "Cessada a requisição civil, pela PORT.98-A/79.1979.02.26.MT DR.IS [48]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-a-1979-593075
+  date: '1979-02-26'
+- type: cites
+  target: pt:dre:256015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165032:por
+  label: Rectificada pela DECL.DD7170.13.02.1979.PCM, DR.IS [37]Supl de 13.02.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-165032
+  date: '1979-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:04Z'
   warnings: []
   errors: []
 ---

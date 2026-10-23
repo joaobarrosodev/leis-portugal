@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 250/2010, 1º Suplemento, Série I de 2010-12-28
   number: '250'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5970-(13) a 5970-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/12/25001/0001300014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138-c/2010/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-c-2010-666882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e813d25b46df0533afcd5c4b8765677798019837ac04c7fd1a5392d01a404f83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1dc54232259d5aec4dca48ed1af9a8c68bab5939710d48e8a38d9b2b346acbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Ensino não Superior
 - Contrato
 - Ensino Cooperativo
+- Ensino não Superior
 - Ensino Particular
-- Estatuto do Ensino Particular e Cooperativo
 - Estabelecimento de Ensino
+- Estatuto do Ensino Particular e Cooperativo
+- Financiamento
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:504756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:504756:por
+  label: "Revogado a partir de 05.11.2013 o Dec Lei 553/80, de 21-nov, na redação do presente diploma, pelo DEC LEI.152/2013.04.11.2013.MECI,\
+    \ DR.IS [213] de 04.11.2013, sem prejuízo do disposto no n.º 4 do art. 6º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2013-504756
+  date: '2013-11-04'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:22Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +183,7 @@ b) Seguir a minuta aprovada por portaria do membro do Governo responsável pela 
 
 5 - ...
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - ...
 
@@ -151,7 +193,7 @@ b) Seguir a minuta aprovada por portaria do membro do Governo responsável pela 
 
 4 - (Revogado.)
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O Estado concede às escolas que celebrem contratos de associação um apoio financeiro, que consiste na atribuição de um subsídio, nos termos a fixar por portaria do membro do Governo responsável pela área da educação.
 
@@ -169,7 +211,7 @@ c) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo par
 
 d) Estabelecer os termos em que o subsídio é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - ...
 
@@ -187,7 +229,7 @@ c) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo par
 
 d) Estabelecer os termos em que o subsídio é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - ...
 
@@ -245,12 +287,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 27 de Dezembro de 2010.**
+Promulgado em 27 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Dezembro de 2010.**
+Referendado em 27 de Dezembro de 2010.
 
 Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

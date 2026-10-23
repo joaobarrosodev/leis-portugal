@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-1984-382210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a05592b0ac86ec50ab9fbd1cd998f099785be9c8112e3d5b1d405077a951311d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5990913f00cb7c4369712d04891a80e2f3805188d6eb65a99652a3b5e6c3bbdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira de Técnico Superior de Saúde
+- Estágio de Formação
+- Formação Profissional
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:604441:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376816:por
+  label: "Alterado o nº 8 e o nº 14.1, aditados os nºs 7.7, 7.8, 7.9, 8.2 e 8.3 e revogados os nºs 12.1, 12.2, 13 e 14 do\
+    \ Regulamento pela PORT.552/88.1988.08.16.MF,DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-1988-376816
+  date: '1988-08-16'
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:08:48Z'
   warnings: []
   errors: []
 ---
@@ -244,6 +258,6 @@ b) A forma concreta de divulgação da data, hora e local da avaliação de cada
 
 Presidência do Conselho de Ministros e Ministério da Saúde.
 
-**Assinada em 17 de Julho de 1984.**
+Assinada em 17 de Julho de 1984.
 
-**O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

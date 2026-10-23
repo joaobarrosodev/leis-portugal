@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/218/1998/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1998-424686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 636b5ed8a2a51a2add3ef297f773733034afa212d8dd7e24be2ff01b36e8fac1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6dd9345d101e4a97f37111e9a0774c0f54c199006f64bb8c93dfbab106c3d49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,52 +68,74 @@ reuse:
 subjects:
 - Acumulação de Funções
 - Administração Central
-- Função Pública
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
-- Tempo de Serviço
-- Exoneração
+- Carreira Profissional
 - Comissão de Serviço
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
 - Contrato de Trabalho a Termo
 - Definição de Competências
 - Demissão
 - Destacamento de Pessoal
-- Rescisão de Contrato
-- Administração Pública
-- Carreira Profissional
+- Emprego
+- Exoneração
 - Formas de Provimento
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
 - Instituto Público
-- Contratação de Pessoal
+- Mobilidade de Pessoal
 - Nomeação
 - Prazo
-- Emprego
 - Regime Jurídico
 - Requisição de Pessoal
-- Mobilidade de Pessoal
+- Rescisão de Contrato
 - Responsabilidade Financeira
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
 - Substituição de Funções
+- Tempo de Serviço
 - Tomada de Posse
 - Transferência de Pessoal
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:545575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado o art. 25º do Dec Lei 427/89 de 07-Dez, com a redacção conferida no presente diploma, pela LEI.53/2006.07.12.2006.AR,\
+    \ DR.IS [235] de 07.12.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
 article_structure:
-  article_count: 6
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:53Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +182,9 @@ b) Quando se trate de pessoal médico em regime de internato geral ou complement
 
 c) Para frequência de estágio de ingresso na carreira, salvo se o interessado já possuir nomeação definitiva.
 
-###### Artigo 18.º — Admissibilidade
+Artigo 18.º
+
+Admissibilidade
 
 1 - O contrato de trabalho a termo certo é o acordo bilateral pelo qual uma pessoa não integrada nos quadros assegura, com carácter de subordinação, a satisfação de necessidades transitórias dos serviços de duração determinada.
 
@@ -184,7 +208,9 @@ e) Desenvolvimento de projectos não inseridos nas actividades normais dos servi
 
 6 - A responsabilidade financeira dos dirigentes referidos no número anterior consiste na entrega, nos cofres do Estado, do quantitativo igual ao que tiver sido abonado ao pessoal ilegalmente contratado.
 
-###### Artigo 20.º — Estipulação do prazo e renovação do contrato
+Artigo 20.º
+
+Estipulação do prazo e renovação do contrato
 
 1 - O contrato de trabalho a termo certo pode ser objecto de renovação, mas a sua duração total nunca poderá exceder dois anos, com excepção dos contratos celebrados ao abrigo da alínea e) do n.º 2 do artigo 18.º que se relacionem com projectos desenvolvidos com apoio internacional, os quais podem ter a duração de três anos, sem prejuízo do disposto nos números seguintes.
 
@@ -200,7 +226,9 @@ e) Desenvolvimento de projectos não inseridos nas actividades normais dos servi
 
 7 - Para efeito do disposto no número anterior, consideram-se objecto do contrato as funções efectivamente exercidas.
 
-###### Artigo 21.º — Limites à celebração
+Artigo 21.º
+
+Limites à celebração
 
 1 - A celebração de contratos de trabalho a termo certo nas situações previstas nas alíneas c), d) e e) do n.º 2 do artigo 18.º depende da autorização do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública.
 
@@ -212,7 +240,9 @@ e) Desenvolvimento de projectos não inseridos nas actividades normais dos servi
 
 5 - Os contratos de trabalho a termo certo consideram-se sempre celebrados por urgente conveniência de serviço.
 
-###### Artigo 24.º — Comissão de serviço extraordinária
+Artigo 24.º
+
+Comissão de serviço extraordinária
 
 1 - A comissão de serviço extraordinária consiste na nomeação do funcionário para a prestação, por tempo determinado, do serviço legalmente considerado estágio de ingresso na carreira.
 
@@ -224,7 +254,9 @@ e) Desenvolvimento de projectos não inseridos nas actividades normais dos servi
 
 5 - Durante a comissão de serviço extraordinária os nomeados têm direito, mediante a opção prevista no artigo 7.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, à remuneração correspondente ao cargo de origem.
 
-###### Artigo 25.º — Transferência
+Artigo 25.º
+
+Transferência
 
 1 - ...
 
@@ -240,12 +272,12 @@ e) Desenvolvimento de projectos não inseridos nas actividades normais dos servi
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 6 de Julho de 1998.**
+Promulgado em 6 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Julho de 1998.**
+Referendado em 9 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2008/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2008-440549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6861f665a1b251b9c582cb36a166e3412d41adbb3c6c6f78f025f0b98a1d5d72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3800bb4cb8665637b3d180b1a12f5f74ad1b80bf0f8fbb1d6c239efa7acef616
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Sociedade Anónima
+- Câmara Municipal
 - Caminha
 - Capital Social
-- Programa Polis
 - Direção Geral do Tesouro e Finanças
 - Esposende
 - Estatuto
 - Orla Costeira
-- Setor Empresarial do Estado
 - Parque EXPO 98
 - Polis Litoral Norte
-- Câmara Municipal
+- Programa Polis
 - Ria Formosa
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Viana do Castelo
 relationships:
 - type: amended_by
@@ -105,16 +105,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2008/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2008/06/03/p/dre
+- type: cites
+  target: pt:dre:448951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642545:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259962:por
+  label: "Revogado o art. 10.º pelo DEC LEI.48/2013.05.04.2013.MAMAOT, DR.IS [67] de 05.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2013-259962
+  date: '2013-04-05'
 article_structure:
   article_count: 33
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:08Z'
   warnings: []
   errors: []
 ---
@@ -241,15 +262,15 @@ O disposto no artigo 12.º do presente decreto-lei produz efeitos desde a entrad
 
 Visto e aprovado em Conselho de Ministros de 28 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Nuno Garcia de Pina Neves Baleiras - Bernardo Luís Amador Trindade - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 7 de Novembro de 2008.**
+Promulgado em 7 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Novembro de 2008.**
+Referendado em 11 de Novembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 8.º)
 

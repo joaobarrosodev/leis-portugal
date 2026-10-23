@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 3º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3478-(63) a 3478-(63)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30003/00630063.pdf
 entry_into_force_dates: []
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/736-1979-231155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7266a070e3ce9bccef6bc1c4fe63d944961f2e68be8a87991da10a8bf9fc40b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615f0782719be9a0ad087444124807344876499c316a19dd5aeca81c582ddf9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equiparação de Cargos
+- Escola Náutica Infante Dom Henrique
+- Ministério dos Transportes e Comunicações
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:322509:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:235970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574962:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322509:por
+  label: "Revogada, na parte respeitante à letra a atribuir ao director da Escola Náutica Infante D. Henrique, e ao respectivo\
+    \ conteúdo funcional, pelo DEC LEI.458-A/85.31.10.1985.MM, DR.IS [251]Supl de 31.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/458-a-1985-322509
+  date: '1985-10-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:14Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +134,7 @@ Director (letra C) da Escola Náutica Infante D. Henrique;
 
 Inspector superior (letra C) da Direcção-Geral da Marinha de Comércio;
 
-**A chefe de divisão:**
+A chefe de divisão:
 
 Directores dos Serviços Regionais dos Açores e Madeira (letra E) do Instituto Nacional de Meteorologia e Geofísica;
 
@@ -124,4 +158,4 @@ representa o director-geral e o organismo noutros departamentos ou organizaçõe
 
 5 - O coordenador de departamento assegura o funcionamento do respectivo departamento, subordinando-o à orientação geral definida superiormente; estabelece as relações do departamento que coordena com o director do respectivo serviço e com todos os outros departamentos do INMG; representa o departamento no conselho geral e no respectivo conselho técnico - artigo 27.º do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro dos Transportes e Comunicações, Frederico Alberto Monteiro da Silva. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

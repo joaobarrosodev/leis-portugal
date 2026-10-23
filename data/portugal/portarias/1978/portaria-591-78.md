@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22200/20202021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/591-1978-329241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:44:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b4c0ed70382770ac5d0c8ed5988bd4da96846bce6c91848cbfb10026ea8ecab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19aa251a7f4e63e79c8895e496bce86e81fb7bdfdc230a0baf44e3609d475e2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:44:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Manual Escolar
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:382044:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324924:por
+  label: Alterado e renumerados os n.ºs 8, 9 e 10, bem como aditado um novo n.º 8 à presente Portaria, pelo(a) Portaria n.º
+    751/78 - Diário da República n.º 289/1978, Série I de 1978-12-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/751-1978-324924
+  date: '1978-12-18'
+- type: cites
+  target: pt:dre:139909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:382044:por
+  label: "Revogada, a partir de 21.07.1979 pela PORT.357/79.20.07.1979.MCT, DR.IS [166] de 20.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-1979-382044
+  date: '1979-07-20'
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:44:58Z'
   warnings: []
   errors: []
 ---
@@ -164,6 +197,6 @@ Preço da resma ... x
 
 Tipo de impressão e número de cores ... x
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/22200/20202021.pdf))](https://files.diariodarepublica.pt/1s/1978/09/22200/20202021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/22200/20202021.pdf)
 
-**O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.**
+O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.

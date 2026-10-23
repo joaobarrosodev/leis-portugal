@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/21/1999/09/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1999-560775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a0819e48b6ae3529305aad08585b1165cd72f642c873c74ecb57406479a3e3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83a0d8571c230c7e51074573bb97ad78abdccfcc9043a1fed3af8cf67574bac3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Comissão de Coordenação da Região Norte
 - Comissão Directiva
+- Conselho Consultivo
 - Contrato Programa
 - Direcção Regional de Agricultura de entre Douro e Minho
 - Direcção Regional do Ambiente do Norte
 - Fiscalização
 - Instituto da Conservação da Natureza
-- Conselho Consultivo
+- Ordenamento do Território
 - Organização não Governamental
 - Paredes de Coura
-- Proteção do Ambiente
-- Zona de Proteção
-- Política de Solos
 - Património Natural
+- Política de Solos
+- Proteção do Ambiente
 - Região de Turismo do ALTO Minho
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:57Z'
   warnings: []
   errors: []
 ---
@@ -374,15 +390,15 @@ d) O produto das coimas.
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Guilherme d'Oliveira Martins - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 30 de Agosto de 1999.**
+Promulgado em 30 de Agosto de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Setembro de 1999.**
+Referendado em 2 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Limites da Paisagem Protegida do Corno do Bico
 

@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-1976-430461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:04:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebff7d00fea5732718e1636ce08c59c80305fe6c954878fe2a97c8ce95b4ea81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb96685442705777cd37eff9030d78826eed531f15cf1c73742c596091b739c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:04:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos de Nutrição
+- Produto Alimentar
+- Regulamento do Centro de Estudos de Nutrição
 relationships:
 - type: amended_by
   target: pt:dre:376233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376233:por
+  label: "Dada nova redacção ao art. 11.º do Regulamento do Centro de Estudos de Nutrição, pela PORT.981/82.18.10.1982.MAS,\
+    \ DR.IS [241] de 18.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/981-1982-376233
+  date: '1982-10-18'
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:04:28Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +117,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, 
 
 REGULAMENTO DO CENTRO DE ESTUDOS DE NUTRIÇÃO
 
-###### Artigo 1.º O Centro de Estudos de Nutrição, criado no Instituto Nacional de Saúde Dr. Ricardo Jorge pelo artigo 21.º, alínea e), do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro, passa a reger-se pelas disposições do presente Regulamento.
+Artigo 1.º O Centro de Estudos de Nutrição, criado no Instituto Nacional de Saúde Dr. Ricardo Jorge pelo artigo 21.º, alínea e), do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro, passa a reger-se pelas disposições do presente Regulamento.
 
-###### Art. 2.º - 1. Ao Centro de Estudos de Nutrição cabe exercer as funções de estudo, investigação, ensino e apoio técnico-científico, no domínio da alimentação e nutrição, atribuídas por lei ao Instituto Nacional de Saúde Dr. Ricardo Jorge.
+Art. 2.º - 1. Ao Centro de Estudos de Nutrição cabe exercer as funções de estudo, investigação, ensino e apoio técnico-científico, no domínio da alimentação e nutrição, atribuídas por lei ao Instituto Nacional de Saúde Dr. Ricardo Jorge.
 
 2. O Centro de Estudos de Nutrição tem a sede em Lisboa e, para prossecução dos seus objectivos, pode constituir núcleos permanentes ou eventuais, a funcionar na Delegação do Instituto Nacional de Saúde Dr. Ricardo Jorge no Porto e nos centros de saúde distritais.
 
-###### Art. 3.º - 1. Na prossecução das suas atribuições, incumbe especialmente ao Centro de Estudos de Nutrição, como centro de investigação e apoio técnico-científico:
+Art. 3.º - 1. Na prossecução das suas atribuições, incumbe especialmente ao Centro de Estudos de Nutrição, como centro de investigação e apoio técnico-científico:
 
 a) Estudar o valor alimentar dos alimentos da população portuguesa e promover a actualização da Tabela da Composição dos Alimentos Portugueses;
 
@@ -140,7 +157,7 @@ b) Publicar trabalhos científicos e de divulgação e promover conferências, c
 
 c) Criar e desenvolver, em colaboração com o Instituto Nacional de Estatística e outros organismos interessados, um sistema de colheita, tratamento e divulgação de dados estatísticos relativos ao sector de alimentação e nutrição.
 
-###### Art. 4.º São órgãos do Centro de Estudos de Nutrição:
+Art. 4.º São órgãos do Centro de Estudos de Nutrição:
 
 a) O conselho directivo, constituído por um director, um subdirector e um secretário;
 
@@ -148,7 +165,7 @@ b) O conselho técnico-científico, constituído pelos elementos que formam o co
 
 c) O conselho consultivo, constituído pelos elementos que formam o conselho directivo e por representantes do Gabinete de Estudos e Planeamento, Direcção-Geral de Saúde, Escola Nacional de Saúde Pública e de outros Ministérios ou departamentos interessados.
 
-###### Art. 5.º Compete ao conselho directivo:
+Art. 5.º Compete ao conselho directivo:
 
 a) Representar o Centro;
 
@@ -162,7 +179,7 @@ e) Autorizar despesas, dentro da competência que lhe for atribuída;
 
 f) Exercer as funções necessárias à prossecução dos objectivos do Centro que não caibam especificamente a nenhum outro órgão.
 
-###### Art. 6.º Compete ao conselho técnico-científico:
+Art. 6.º Compete ao conselho técnico-científico:
 
 a) Elaborar os planos e programas de trabalho e distribuí-los para execução;
 
@@ -172,7 +189,7 @@ c) Dar parecer sobre os problemas de investigação e ensino e de pessoal técni
 
 d) Propor a distribuição das verbas atribuídas ao Centro pelos diferentes serviços.
 
-###### Art. 7.º Compete ao conselho consultivo:
+Art. 7.º Compete ao conselho consultivo:
 
 a) Elaborar os planos de acção do Centro, de harmonia com a política definida pelo Secretário de Estado da Saúde;
 
@@ -180,7 +197,7 @@ b) Estabelecer as prioridades dos programas de investigação e de colheita dos 
 
 c) Elaborar o programa geral de informação da população, ao nível nacional e regional.
 
-###### Art. 8.º - 1. O Centro de Estudos de Nutrição compreende serviços técnico-científicos e serviços administrativos.
+Art. 8.º - 1. O Centro de Estudos de Nutrição compreende serviços técnico-científicos e serviços administrativos.
 
 2. Os serviços técnico-científicos são os seguintes:
 
@@ -202,22 +219,22 @@ c) Expediente;
 
 d) Arquivo.
 
-###### Art. 9.º Podem ser constituídas em hospitais ou em ligação com os centros de saúde unidades clínicas de apoio à investigação do Centro de Estudos de Nutrição, que funcionarão nos termos que forem acordados entre as entidades interessadas, sujeitos a homologação ministerial.
+Art. 9.º Podem ser constituídas em hospitais ou em ligação com os centros de saúde unidades clínicas de apoio à investigação do Centro de Estudos de Nutrição, que funcionarão nos termos que forem acordados entre as entidades interessadas, sujeitos a homologação ministerial.
 
-###### Art. 10.º - 1. O Centro de Estudos de Nutrição ocupará nas instalações do Instituto Nacional de Saúde Dr. Ricardo Jorge em Lisboa e na sua delegação no Porto as áreas que forem fixadas em despacho do Secretário de Estado da Saúde.
+Art. 10.º - 1. O Centro de Estudos de Nutrição ocupará nas instalações do Instituto Nacional de Saúde Dr. Ricardo Jorge em Lisboa e na sua delegação no Porto as áreas que forem fixadas em despacho do Secretário de Estado da Saúde.
 
 2. Serão fixados em despacho do Secretário de Estado da Saúde os termos em que se estabelecerá a ligação funcional dos actuais Departamentos de Bioquímica e Biofísica e de Nutrição e Higiene dos Alimentos do Instituto Nacional de Saúde Dr. Ricardo Jorge com o Centro de Estudos de Nutrição.
 
 3. Também em despacho do Secretário de Estado da Saúde serão definidos os termos em que se processará a colaboração da Escola Nacional de Saúde Pública com o Centro de Estudos de Nutrição.
 
-###### Art. 11.º O lugar de director do Centro de Estudos de Nutrição é exercido, por inerência de funções, pelo professor da cadeira de Nutrição e Higiene de Alimentação da Escola Nacional de Saúde Pública.
+Art. 11.º O lugar de director do Centro de Estudos de Nutrição é exercido, por inerência de funções, pelo professor da cadeira de Nutrição e Higiene de Alimentação da Escola Nacional de Saúde Pública.
 
-###### Art. 12.º - 1. O Centro de Estudos de Nutrição entra no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, contando-se o início do período de instalação a partir da data de posse da primeira comissão instaladora.
+Art. 12.º - 1. O Centro de Estudos de Nutrição entra no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, contando-se o início do período de instalação a partir da data de posse da primeira comissão instaladora.
 
 2. A comissão instaladora a nomear terá a composição fixada neste diploma para o conselho directivo.
 
 3. Enquanto vigorar o regime de instalação, o Centro funcionará na dependência directa do Secretário de Estado da Saúde.
 
-###### Art. 13.º A comissão instaladora deverá fazer presentes ao Secretário de Estado da Saúde, dentro dos trinta dias imediatos à tomada de posse, os projectos de despachos que se mostrem necessários à entrada em funcionamento efectivo durante o regime de instalação.
+Art. 13.º A comissão instaladora deverá fazer presentes ao Secretário de Estado da Saúde, dentro dos trinta dias imediatos à tomada de posse, os projectos de despachos que se mostrem necessários à entrada em funcionamento efectivo durante o regime de instalação.
 
 Ministério dos Assuntos Sociais, 2 de Julho de 1976. - O Secretário de Estado da Saúde, Albino Aroso Ramos.

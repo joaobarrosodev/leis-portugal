@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1982-378316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3225995c6ca415a158befc8f640590f690bb45fefb3da462a384e8493d28bd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c130b5a0de16f3c315148f7648bc3f3041f990b46b621bdce336209192c31ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicação Social
+- Orgânica
+- Relações Públicas
+- Serviço de Informação Administrativa e Relações Exteriores
 relationships:
 - type: amended_by
   target: pt:dre:218908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:385999:por
+  label: "Revogado pelo DEC LEI.239/84.13.07.1984.MFP, DR.IS [161] de 13.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1984-385999
+  date: '1984-07-13'
+- type: repealed_by
+  target: pt:dre:218908:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 229/86 - Diário da República n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1986-218908
+  date: '1986-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:18Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +123,7 @@ Assim, conforme o previsto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 170/82
 
 ### CAPÍTULO I — Natureza, atribuições e competências
 
-###### Artigo 1.º O Serviço de Informação Administrativa e Relações Exteriores (SIARE) é um serviço de apoio técnico para as relações do Ministério da Reforma Administrativa com a Administração, os órgãos de comunicação social e os cidadãos e entidades colectivas, ao qual incumbe:
+Artigo 1.º O Serviço de Informação Administrativa e Relações Exteriores (SIARE) é um serviço de apoio técnico para as relações do Ministério da Reforma Administrativa com a Administração, os órgãos de comunicação social e os cidadãos e entidades colectivas, ao qual incumbe:
 
 a) Organizar e acompanhar os mecanismos necessários à promoção de uma correcta imagem do Ministério da Reforma Administrativa e das acções de reforma administrativa a desenvolver;
 
@@ -117,9 +139,9 @@ f) Dinamizar um sistema de informação interna, no sentido de promover a partic
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 2.º O SIARE é dirigido por um director de serviços.
+Art. 2.º O SIARE é dirigido por um director de serviços.
 
-###### Art. 3.º Para o cumprimento das suas atribuições, o SIARE organizar-se-á por áreas de actividade, de acordo com os números seguintes:
+Art. 3.º Para o cumprimento das suas atribuições, o SIARE organizar-se-á por áreas de actividade, de acordo com os números seguintes:
 
 1 - Área da organização da informação:
 
@@ -157,40 +179,40 @@ e) Promover a comunicação e informação entre o Ministério da Reforma Admini
 
 f) Promover a comunicação entre o Ministério e os partidos políticos e os parceiros sociais.
 
-###### Art. 4.º O SIARE disporá de uma unidade científica e técnica hierarquicamente dependente do seu director.
+Art. 4.º O SIARE disporá de uma unidade científica e técnica hierarquicamente dependente do seu director.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 5.º - 1 - O SIARE dispõe do pessoal constante do quadro I anexo ao presente diploma.
+Art. 5.º - 1 - O SIARE dispõe do pessoal constante do quadro I anexo ao presente diploma.
 
 2 - O SIARE disporá ainda do pessoal administrativo pertencente ao quadro único do Ministério colocado no SIARE, nos termos do n.º 3 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, e contingentado no quadro II anexo ao presente diploma.
 
-###### Art. 6.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
+Art. 6.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 7.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano económico pelas dotações inscritas no actual orçamento do Ministério da Reforma Administrativa.
+Art. 7.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano económico pelas dotações inscritas no actual orçamento do Ministério da Reforma Administrativa.
 
-###### Art. 8.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano, quando estiver em causa matéria da sua competência.
+Art. 8.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano, quando estiver em causa matéria da sua competência.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 5.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf)
 
 QUADRO II
 
 Quadro de pessoal a que se refere o n.º 2 do artigo 5.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36523654.pdf)

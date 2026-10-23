@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 82/2020, 1º Suplemento, Série I de 2020-04-27
   number: '82'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10-(7) a 10-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/08201/0000700007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/20-f/2020/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-f-2020-132636095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 890607a7d8699ed1f254743a5655d35e2cc6e94bc4e8ec4a188e2b5c070e1b3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afab6955785f48a43081259b0938bc6ed67019c792d67213555b3552a53f526c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2020/04/10/p/dre
+- type: cites
+  target: pt:dre:131338919:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:29Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +94,18 @@ validation:
 
 de 27 de abril
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição e do artigo 3.º da [Lei n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/lei/9-2020-131338919), de 10 de abril, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição e do artigo 3.º da [Lei n.º 9/2020](https://diariodarepublica.pt/dr/detalhe/lei/9-2020-131338919), de 10 de abril, o seguinte:
 
 É indultado do remanescente da pena única de quatro anos e seis meses de prisão, aplicada a José António da Costa Arruda no âmbito do processo n.º 9165/06.7TDLSB, por razões humanitárias.
 
-**Assinado em 27 de abril de 2020.**
+Assinado em 27 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de abril de 2020.**
+Referendado em 27 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113210227

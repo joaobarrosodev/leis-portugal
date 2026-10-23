@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/18200/16291630.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1978-299633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cfbcfc8744156b6ec7647da0d422ba4525addfebfdf56cbbd54d2b6d10b5248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb1bfce9a20ed03df87448e1cde2775c1b9ea03157f065db4c4542428134115b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral do Tesouro
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:486488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:486488:por
+  label: "Revogado pelo DEC LEI.186/98.1998.07.07.MF, DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1998-486488
+  date: '1998-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:41Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +123,11 @@ Tendo em conta o disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas na Direcção-Geral do Tesouro cinco direcções de serviços e é alargado o quadro de pessoal dirigente da Direcção-Geral do Tesouro, nos termos do quadro anexo a este diploma, através da criação de três lugares de inspector superior e de cinco lugares de director de serviços.
+Artigo 1.º São criadas na Direcção-Geral do Tesouro cinco direcções de serviços e é alargado o quadro de pessoal dirigente da Direcção-Geral do Tesouro, nos termos do quadro anexo a este diploma, através da criação de três lugares de inspector superior e de cinco lugares de director de serviços.
 
-###### Art. 2.º As direcções de serviços criadas pelo presente diploma terão a seguinte designação: Direcção de Serviços Administrativos, Direcção de Serviços de Operações Cambiais, Direcção de Serviços Financeiros, Direcção de Serviços de Tesouraria e Direcção de Serviços de Estudos Monetário e Financeiros.
+Art. 2.º As direcções de serviços criadas pelo presente diploma terão a seguinte designação: Direcção de Serviços Administrativos, Direcção de Serviços de Operações Cambiais, Direcção de Serviços Financeiros, Direcção de Serviços de Tesouraria e Direcção de Serviços de Estudos Monetário e Financeiros.
 
-###### Art. 3.º - 1 - Compete à Direcção de Serviços Administrativos tratar de todos os assuntos respeitantes a expediente e arquivo, gestão de pessoal, contabilidade, orçamento e inventário.
+Art. 3.º - 1 - Compete à Direcção de Serviços Administrativos tratar de todos os assuntos respeitantes a expediente e arquivo, gestão de pessoal, contabilidade, orçamento e inventário.
 
 2 - Compete à Direcção de Serviços de Operações Cambiais a elaboração do orçamento cambial do sector público e da respectiva estatística cambial e, em geral, dar cumprimento a todas as disposições reguladoras do regime cambial do sector público.
 
@@ -114,28 +137,28 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5 - Compete à Direcção de Serviços de Estudos Monetário e Financeiros proceder à elaboração de estudos e relatórios tendentes a concorrer para a definição da política monetária e financeira.
 
-###### Art. 4.º - 1 - O provimento dos lugares será feito por despacho do Secretário de Estado do Tesouro, sob proposta do director-geral, de entre técnicos principais dos quadros da Direcção-Geral ou licenciados estranhos ao quadro, com as habilitações necessárias para o desempenho das suas funções.
+Art. 4.º - 1 - O provimento dos lugares será feito por despacho do Secretário de Estado do Tesouro, sob proposta do director-geral, de entre técnicos principais dos quadros da Direcção-Geral ou licenciados estranhos ao quadro, com as habilitações necessárias para o desempenho das suas funções.
 
 2 - O provimento dos lugares de director de serviços poderá ainda ser feito de entre directores de Fazenda, com bom e efectivo serviço no cargo, que tenham revelado aptidões para o exercício das funções.
 
-###### Art. 5.º - 1 - Os inspectores superiores serão providos em comissão de serviço por tempo indeterminado.
+Art. 5.º - 1 - Os inspectores superiores serão providos em comissão de serviço por tempo indeterminado.
 
 2 - Os directores de serviços serão providos em comissão de serviço, por períodos de três anos, renováveis.
 
-###### Art. 6.º O Ministro das Finanças e do Plano tomará as providências necessárias para satisfação das despesas resultantes da execução deste diploma, que, no decurso do presente ano económico, serão suportadas por conta de verbas inscritas a favor da Direcção-Geral do Tesouro.
+Art. 6.º O Ministro das Finanças e do Plano tomará as providências necessárias para satisfação das despesas resultantes da execução deste diploma, que, no decurso do presente ano económico, serão suportadas por conta de verbas inscritas a favor da Direcção-Geral do Tesouro.
 
-###### Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
 
-**Promulgado em 2 de Agosto de 1978.**
+Promulgado em 2 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro anexo ao Decreto Regulamentar n.º 28/78
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/08/18200/16291630.pdf))](https://files.diariodarepublica.pt/1s/1978/08/18200/16291630.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/08/18200/16291630.pdf)
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena.

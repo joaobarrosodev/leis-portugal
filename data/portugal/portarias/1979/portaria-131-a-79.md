@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 69/1979, 1º Suplemento, Série I de 1979-03-23
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 478-(1) a 478-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/06901/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/131-a-1979-569350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:51:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f33c64213112a8de041334112425f6cd0c96b9454757d3311f4a6a77974b836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d659834da15e1f4d08a1f48fffc394fd5220f623b1fcd3082cec378388992f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:51:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Financiamento
+- Ifadap
+- Pecuária
+- Pesca
+- Regulamento
+- Silvicultura
+- Sistema de Financiamento a Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:254631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518816:por
+  label: Mantido em vigor, até 31.12.1986, o presente diploma, pelo(a) Decreto-Lei n.º 172-G/86 - Diário da República n.º
+    147/1986, 1º Suplemento, Série I de 1986-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-g-1986-518816
+  date: '1986-06-30'
+- type: cites
+  target: pt:dre:223471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:254631:por
+  label: Revogado o Dec Lei 172-G/86, de 30-jun, com exceção do n.º 2 do seu art 57.º (que manteve em vigor até 31.12.1986
+    a presente portaria) pelo(a) Decreto-Lei n.º 79-A/87 - Diário da República n.º 41/1987, 1º Suplemento, Série I de 1987-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-a-1987-254631
+  date: '1987-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:51:06Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +166,7 @@ REGULAMENTO GERAL DAS CONDIÇÕES DE FUNCIONAMENTO DO SISTEMA DE FINANCIAMENTO �
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º Sempre que são utilizados, no presente Regulamento, os termos ou expressões seguintes, têm o significado que se indica:
+Artigo 1.º Sempre que são utilizados, no presente Regulamento, os termos ou expressões seguintes, têm o significado que se indica:
 
 IFADAP - Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas;
 
@@ -172,13 +204,13 @@ Período de utilização do empréstimo - período durante o qual o beneficiári
 
 Subsídios correntes - subsídios que deverão ser liquidados pelo IFADAP, através da ICP, às unidades produtivas da agricultura e das pescas, nos termos do Estatuto do IFADAP.
 
-###### Art. 2.º O Sifap assenta na confiança da ICP na validade dos projectos a financiar, associada à capacidade de trabalho e realização dos beneficiários, não constituindo obstáculo à concessão de crédito a impossibilidade de se oferecerem garantias reais suficientes.
+Art. 2.º O Sifap assenta na confiança da ICP na validade dos projectos a financiar, associada à capacidade de trabalho e realização dos beneficiários, não constituindo obstáculo à concessão de crédito a impossibilidade de se oferecerem garantias reais suficientes.
 
-###### Art. 3.º A ICP actuará de modo a assegurar a eficácia do Sifap, introduzindo, na medida do necessário, modificações às suas regras de funcionamento, designadamente através da descentralização do processamento das operações.
+Art. 3.º A ICP actuará de modo a assegurar a eficácia do Sifap, introduzindo, na medida do necessário, modificações às suas regras de funcionamento, designadamente através da descentralização do processamento das operações.
 
 ### CAPÍTULO II — Refinanciamento
 
-###### Art. 4.º - 1 - O IFADAP refinanciará à ICP os empréstimos concedidos pela mesma e aprovados pelo IFADAP, nos termos deste Regulamento e das condições especiais que vierem a ser regulamentadas ou acordadas e com os limites definidos segundo instruções técnicas do Banco de Portugal.
+Art. 4.º - 1 - O IFADAP refinanciará à ICP os empréstimos concedidos pela mesma e aprovados pelo IFADAP, nos termos deste Regulamento e das condições especiais que vierem a ser regulamentadas ou acordadas e com os limites definidos segundo instruções técnicas do Banco de Portugal.
 
 2 - A ICP submeterá à apreciação do IFADAP os empréstimos para investimento relativamente aos quais pretenda obter refinanciamento, facultando-lhe a documentação que venha a ser indicada pelo IFADAP e propondo as condições da sua realização.
 
@@ -186,37 +218,37 @@ Subsídios correntes - subsídios que deverão ser liquidados pelo IFADAP, atrav
 
 4 - A ICP poderá, se assim o entender, submeter à apreciação prévia do IFADAP as propostas de empréstimos relativamente aos quais pretenda obter refinanciamento, facultando-lhe a documentação que venha a ser indicada pelo IFADAP e propondo as condições da sua realização.
 
-###### Art. 5.º - 1 - A aprovação pelo IFADAP da proposta de refinanciamento é condicionada à organização do respectivo processo de acordo com princípios e normas a estabelecer pelo IFADAP.
+Art. 5.º - 1 - A aprovação pelo IFADAP da proposta de refinanciamento é condicionada à organização do respectivo processo de acordo com princípios e normas a estabelecer pelo IFADAP.
 
 2 - O IFADAP comunicará sem demora à ICP a decisão relativa à proposta de refinanciamento e, no caso de não aprovação, informa-la-á das razões da decisão.
 
-###### Art. 6.º Poderão ser acordados com a ICP níveis de descentralização, nomeadamente em âmbito regional, quanto à apreciação e decisão de empréstimos e à aprovação de propostas de refinanciamento.
+Art. 6.º Poderão ser acordados com a ICP níveis de descentralização, nomeadamente em âmbito regional, quanto à apreciação e decisão de empréstimos e à aprovação de propostas de refinanciamento.
 
-###### Art. 7.º - 1 - As propostas de levantamento de fundos relativas ao refinanciamento de crédito de investimento serão apresentadas pela ICP ao IFADAP, acompanhadas de documentação comprovativa de que os fundos utilizados pelo beneficiário foram aplicados por este no âmbito dos projectos aprovados pelo IFADAP.
+Art. 7.º - 1 - As propostas de levantamento de fundos relativas ao refinanciamento de crédito de investimento serão apresentadas pela ICP ao IFADAP, acompanhadas de documentação comprovativa de que os fundos utilizados pelo beneficiário foram aplicados por este no âmbito dos projectos aprovados pelo IFADAP.
 
 2 - As propostas de levantamento de fundos relativas ao refinanciamento de crédito de campanha serão apresentadas pela ICP ao IFADAP com a garantia da existência de documentação comprovativa de que os fundos utilizados pelo beneficiário foram aplicados por este de acordo com as finalidades do empréstimo.
 
 3 - O montante de cada proposta de levantamento de fundos não poderá exceder, em relação a cada desembolso da ICP, a proporção em que o correspondente empréstimo é refinanciado.
 
-###### Art. 8.º - 1 - As operações de refinanciamento serão realizadas mediante abertura de crédito ou por empréstimo, podendo o IFADAP exigir garantias para essas operações.
+Art. 8.º - 1 - As operações de refinanciamento serão realizadas mediante abertura de crédito ou por empréstimo, podendo o IFADAP exigir garantias para essas operações.
 
 2 - O capital dos refinanciamentos à ICP bem como os respectivos juros e demais encargos serão reembolsados ao IFADAP nas datas em que os beneficiários são obrigados a reembolsar a ICP e nos termos do artigo 21.º deste Regulamento.
 
 3 - Quando se verifiquem liquidações antecipadas por parte dos beneficiários, o capital dos refinanciamentos à ICP bem como os respectivos juros e demais encargos serão reembolsados ao IFADAP nos primeiros cinco dias úteis seguintes à data daquelas liquidações.
 
-###### Art. 9.º De harmonia com regulamentação a publicar:
+Art. 9.º De harmonia com regulamentação a publicar:
 
 a) A ICP pagará ao IFADAP juros, calculados em função dos períodos e montantes em dívida, às taxas que forem fixadas;
 
 b) Serão estabelecidas comissões de imobilização, a suportar pela ICP, relativamente à parte não utilizada das linhas de crédito negociadas ou do montante refinanciado dos projectos aprovados pelo IFADAP, nas condições e prazos dos mesmos.
 
-###### Art. 10.º - 1 - Quando os empréstimos respeitantes a crédito de investimento forem reembolsáveis à ICP em mais do que uma prestação, os reembolsos da ICP ao IFADAP terão entre si a mesma relação proporcional que as prestações de reembolso dos empréstimos.
+Art. 10.º - 1 - Quando os empréstimos respeitantes a crédito de investimento forem reembolsáveis à ICP em mais do que uma prestação, os reembolsos da ICP ao IFADAP terão entre si a mesma relação proporcional que as prestações de reembolso dos empréstimos.
 
 2 - A ICP poderá reembolsar antecipadamente o IFADAP, mediante prévio acordo deste, no todo ou em parte, do capital refinanciado, com a dedução do juro correspondente ao prazo da antecipação e à parte antecipada.
 
 3 - A ICP poderá deixar de utilizar, total ou parcialmente, os refinanciamentos aprovados, podendo o IFADAP aceitar uma eventual redução da comissão de imobilização.
 
-###### Art. 11.º - 1 - O IFADAP poderá, mediante aviso, suspender, no todo ou em parte, o direito de obter refinanciamento, no caso de:
+Art. 11.º - 1 - O IFADAP poderá, mediante aviso, suspender, no todo ou em parte, o direito de obter refinanciamento, no caso de:
 
 a) Se verificar a falta de cumprimento de qualquer obrigação por parte da ICP;
 
@@ -224,59 +256,59 @@ b) Surgir, declarada pelo Ministério das Finanças ou pelo Banco de Portugal, u
 
 2 - A suspensão a que se refere o número anterior manter-se-á até que o facto ou factos que a originaram tenham deixado de existir ou até que o IFADAP notifique a ICP da respectiva cessação, consoante o que ocorrer primeiro.
 
-###### Art. 12.º A ICP deverá assegurar, em condições a definir, que os beneficiários do Sifap contribuam para o projecto com recursos próprios, nestes podendo incluir-se mão-de-obra e materiais por eles fornecidos.
+Art. 12.º A ICP deverá assegurar, em condições a definir, que os beneficiários do Sifap contribuam para o projecto com recursos próprios, nestes podendo incluir-se mão-de-obra e materiais por eles fornecidos.
 
-###### Art. 13.º - 1 - O período de utilização e o prazo e condições de amortização dos empréstimos para crédito de investimento serão estabelecidos tendo em conta as características técnicas e financeiras do projecto.
+Art. 13.º - 1 - O período de utilização e o prazo e condições de amortização dos empréstimos para crédito de investimento serão estabelecidos tendo em conta as características técnicas e financeiras do projecto.
 
 2 - Os empréstimos para crédito de campanha terão prazo de reembolso até trezentos e sessenta e cinco dias, ou o que for fixado nas respectivas linhas de crédito ou nas condições específicas estabelecidas.
 
 ### CAPÍTULO III — Bonificação de juros
 
-###### Art. 14.º - 1 - Às operações de pagamento de bonificação de juros pelo IFADAP é aplicável, com as necessárias adaptações, o disposto no artigo 4.º deste Regulamento.
+Art. 14.º - 1 - Às operações de pagamento de bonificação de juros pelo IFADAP é aplicável, com as necessárias adaptações, o disposto no artigo 4.º deste Regulamento.
 
 2 - A ICP poderá submeter à apreciação do IFADAP propostas de bonificação de juros, ainda que não pretenda propor o refinanciamento dos empréstimos correspondentes.
 
-###### Art. 15.º A taxa de juro a clausular nos contratos de empréstimo celebrados entre a ICP e os beneficiários será líquida da bonificação.
+Art. 15.º A taxa de juro a clausular nos contratos de empréstimo celebrados entre a ICP e os beneficiários será líquida da bonificação.
 
 ### CAPÍTULO IV — Garantias
 
-###### Art. 16.º - 1 - O IFADAP poderá conceder supletivamente à ICP garantias para empréstimos no âmbito do Sifap, nos termos a fixar em regulamento.
+Art. 16.º - 1 - O IFADAP poderá conceder supletivamente à ICP garantias para empréstimos no âmbito do Sifap, nos termos a fixar em regulamento.
 
 2 - As garantias não poderão exceder 80% do montante de cada empréstimo concedido pela ICP.
 
 3 - A prestação de garantias pelo IFADAP, nos termos dos números anteriores, sujeitará a ICP ao pagamento das respectivas comissões, a fixar em regulamento.
 
-###### Art. 17.º - 1 - No caso de a ICP ter exigido garantias reais e os beneficiários demonstrarem poder prestá-las, não podendo no entanto formalizar a prestação dessas garantias em prazo curto, devido à necessidade de procederem à regularização fiscal ou registral dos bens respectivos, o IFADAP poderá entretanto substituir-se aos beneficiários na prestação de garantias à ICP, em ordem a viabilizar a imediata realização dos empréstimos.
+Art. 17.º - 1 - No caso de a ICP ter exigido garantias reais e os beneficiários demonstrarem poder prestá-las, não podendo no entanto formalizar a prestação dessas garantias em prazo curto, devido à necessidade de procederem à regularização fiscal ou registral dos bens respectivos, o IFADAP poderá entretanto substituir-se aos beneficiários na prestação de garantias à ICP, em ordem a viabilizar a imediata realização dos empréstimos.
 
 2 - O prazo de duração das garantias intercalares prestadas pelo IFADAP nos termos do número anterior deverá ficar expresso no contrato, não podendo exceder o período de carência do empréstimo acrescido de um ano, salvo acordo expresso do IFADAP.
 
 3 - No caso de a garantia não vir a ser constituída por parte do beneficiário, o empréstimo será resolvido, tornando-se a garantia do IFADAP efectiva quanto ao saldo devedor, sem prejuízo de revisão daquele empréstimo.
 
-###### Art. 18.º A ICP, a favor da qual tenham sido prestadas garantias pelo IFADAP, fica obrigada a comunicar-lhe quaisquer factos supervenientes quanto à situação dos beneficiários que fundamentem dúvidas sobre a liquidação dos respectivos débitos nas datas de vencimento.
+Art. 18.º A ICP, a favor da qual tenham sido prestadas garantias pelo IFADAP, fica obrigada a comunicar-lhe quaisquer factos supervenientes quanto à situação dos beneficiários que fundamentem dúvidas sobre a liquidação dos respectivos débitos nas datas de vencimento.
 
 ### CAPÍTULO V — Subsídios correntes
 
-###### Art. 19.º - 1 - O IFADAP pagará através da ICP e de acordo com as determinações do Ministério da Agricultura e Pescas subsídios correntes a unidades produtivas dos sectores da agricultura e das pescas.
+Art. 19.º - 1 - O IFADAP pagará através da ICP e de acordo com as determinações do Ministério da Agricultura e Pescas subsídios correntes a unidades produtivas dos sectores da agricultura e das pescas.
 
 2 - A liquidação dos subsídios pela ICP far-se-á directamente às unidades produtivas designadas pelo IFADAP, nas condições por este indicadas.
 
-###### Art. 20.º O IFADAP creditará na conta da ICP, junto do Banco de Portugal, no dia seguinte à recepção dos recibos dos pagamentos aos beneficiários, os montantes dos subsídios liquidados nas condições do artigo 19.º
+Art. 20.º O IFADAP creditará na conta da ICP, junto do Banco de Portugal, no dia seguinte à recepção dos recibos dos pagamentos aos beneficiários, os montantes dos subsídios liquidados nas condições do artigo 19.º
 
 ### CAPÍTULO VI — Disposições comuns
 
-###### Art. 21.º A movimentação de fundos entre o IFADAP e a ICP resultante do processamento das operações do Sifap, será efectuada em conta da ICP no Banco de Portugal, mediante instruções do IFADAP.
+Art. 21.º A movimentação de fundos entre o IFADAP e a ICP resultante do processamento das operações do Sifap, será efectuada em conta da ICP no Banco de Portugal, mediante instruções do IFADAP.
 
-###### Art. 22.º A ICP permitirá aos representantes do IFADAP a análise da documentação relativa aos empréstimos, que venha a ser indicada pelo IFADAP.
+Art. 22.º A ICP permitirá aos representantes do IFADAP a análise da documentação relativa aos empréstimos, que venha a ser indicada pelo IFADAP.
 
-###### Art. 23.º - 1 - O IFADAP e a ICP, com vista à prossecução dos objectivos do Sifap, deverão analisar conjuntamente e sempre que o julguem conveniente, a forma e o grau de cumprimento das respectivas obrigações e fornecer reciprocamente toda a informação que qualquer deles possa pedir sobre o andamento dos empréstimos e sobre a situação geral do refinanciamento.
+Art. 23.º - 1 - O IFADAP e a ICP, com vista à prossecução dos objectivos do Sifap, deverão analisar conjuntamente e sempre que o julguem conveniente, a forma e o grau de cumprimento das respectivas obrigações e fornecer reciprocamente toda a informação que qualquer deles possa pedir sobre o andamento dos empréstimos e sobre a situação geral do refinanciamento.
 
 2 - A ICP deverá fornecer ao IFADAP qualquer informação periódica que este solicite relativa às operações do Sifap designadamente no respeitante aos respectivos créditos em mora.
 
 3 - O IFADAP e a ICP comunicarão imediatamente qualquer evento ou circunstância que prejudique ou seja susceptível de prejudicar a realização dos objectivos do Sifap.
 
-###### Art. 24.º O IFADAP manterá actualizado um registo de todas as empresas que tenham solicitado qualquer empréstimo, no âmbito do Sifap.
+Art. 24.º O IFADAP manterá actualizado um registo de todas as empresas que tenham solicitado qualquer empréstimo, no âmbito do Sifap.
 
-###### Art. 25.º Os empréstimos a efectuar pela ICP no âmbito do Sifap, serão formalizados por contratos tipo, escritos, a definir pelo IFADAP, incluindo cláusulas e termos financeiros de acordo com o disposto neste regulamento e em condições especiais ou normas técnicas a estabelecer, de modo que a ICP obtenha dos beneficiários adequada protecção dos interesses do IFADAP e da ICP, designadamente o direito de:
+Art. 25.º Os empréstimos a efectuar pela ICP no âmbito do Sifap, serão formalizados por contratos tipo, escritos, a definir pelo IFADAP, incluindo cláusulas e termos financeiros de acordo com o disposto neste regulamento e em condições especiais ou normas técnicas a estabelecer, de modo que a ICP obtenha dos beneficiários adequada protecção dos interesses do IFADAP e da ICP, designadamente o direito de:
 
 a) Exigir dos beneficiários que executem o seu projecto, ou o seu plano de exploração, com a devida diligência e eficiência e em conformidade com adequadas práticas e orientações técnicas, administrativas e financeiras que forem sendo estabelecidas e que mantenham adequados registos contabilísticos;
 
@@ -292,30 +324,30 @@ f) Obter a informação que o IFADAP ou a ICP solicitem relativamente ao que pre
 
 g) Suspender ou cancelar o direito dos beneficiários a utilizar o produto do empréstimo, no caso da falta de cumprimento das obrigações decorrentes do respectivo contrato, devendo aqueles informar a ICP da não realização, ainda que parcial, das operações financiadas.
 
-###### Art. 26.º - 1 - A ICP adequará os seus habituais processos de obtenção de garantias em termos de não ser dificultada a realização das operações do Sifap.
+Art. 26.º - 1 - A ICP adequará os seus habituais processos de obtenção de garantias em termos de não ser dificultada a realização das operações do Sifap.
 
 2 - A ICP assegurará o cumprimento pelos beneficiários das suas obrigações emergentes dos contratos de empréstimo estabelecidos nos termos do artigo anterior, estipulando garantias adequadas, nomeadamente a consignação dos rendimentos que resultem da aplicação dos empréstimos concedidos, para o caso do crédito de campanha.
 
 3 - Os bens dados em garantia pelos beneficiários, cujo valor exceder o dos empréstimos totais garantidos pelos mesmos, deverão, na medida em que se verifique excesso, servir para garantir novos empréstimos.
 
-###### Art. 27.º - 1 - A aquisição de equipamentos e a realização de benfeitorias a financiar com o produto do empréstimo deverá ser feita através dos canais comerciais normais, segundo as regras de «aquisição prudente» quanto às encomendas ou contratos cujo valor ultrapasse 5000 contos, podendo este valor ser revisto pelo IFADAP.
+Art. 27.º - 1 - A aquisição de equipamentos e a realização de benfeitorias a financiar com o produto do empréstimo deverá ser feita através dos canais comerciais normais, segundo as regras de «aquisição prudente» quanto às encomendas ou contratos cujo valor ultrapasse 5000 contos, podendo este valor ser revisto pelo IFADAP.
 
 2 - Considera-se «aquisição prudente» aquela que é precedida de solicitação de propostas a, pelo menos, três fornecedores a escolher pelo beneficiário, fazendo-se a adjudicação ao fornecedor que apresentar a proposta mais baixa.
 
 3 - A encomenda só poderá ser adjudicada a fornecedor diferente daquele que apresentou a proposta mais baixa, mediante a aprovação do serviço do Ministério da Agricultura e Pescas superiormente designado, desde que todos os fornecedores consultados tenham sido informados pelo beneficiário, antes de submeterem as respectivas propostas, dos factores que, além do preço, seriam tomados em consideração na análise das propostas.
 
-###### Art. 28.º - 1 - Os juros dos empréstimos, no âmbito do Sifap, são sempre postecipados e liquidados pelos beneficiários semestral ou anualmente.
+Art. 28.º - 1 - Os juros dos empréstimos, no âmbito do Sifap, são sempre postecipados e liquidados pelos beneficiários semestral ou anualmente.
 
 2 - Os juros referidos no n.º 1 constituem os encargos máximos a suportar pelos beneficiários.
 
-###### Art. 29.º A ICP abrirá e manterá contas separadas para cada beneficiário e nelas registará todas as importâncias desembolsadas ou recebidas com indicação, se for caso disso, dos empréstimos a que respeitam.
+Art. 29.º A ICP abrirá e manterá contas separadas para cada beneficiário e nelas registará todas as importâncias desembolsadas ou recebidas com indicação, se for caso disso, dos empréstimos a que respeitam.
 
-###### Art. 30.º - 1 - A ICP não poderá, sem autorização prévia do IFADAP, alterar quaisquer características ou condições dos empréstimos no âmbito do Sifap.
+Art. 30.º - 1 - A ICP não poderá, sem autorização prévia do IFADAP, alterar quaisquer características ou condições dos empréstimos no âmbito do Sifap.
 
 2 - O IFADAP comunicará imediatamente à ICP quaisquer alterações que vierem a ser impostas a este Regulamento Geral ou a condições especiais, sem prejuízo, em qualquer caso, dos actos anteriormente praticados.
 
-###### Art. 31.º - 1 - O presente regulamento será complementado por normas técnicas e financeiras elaboradas nos termos do Estatuto do IFADAP, compatíveis com as instruções genéricas do Banco de Portugal.
+Art. 31.º - 1 - O presente regulamento será complementado por normas técnicas e financeiras elaboradas nos termos do Estatuto do IFADAP, compatíveis com as instruções genéricas do Banco de Portugal.
 
 2 - Poderão ser estabelecidas condições especiais para operações e projectos ou programas de desenvolvimento específicos.
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/19/2002/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2002-263676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3671e02356a5cc16c2633c4d917ecd7a953a47dedb6f337c274276372a2e565e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d1c34609e8d4b519a47662a801b6966da5361c7bc86681180a124062164f6c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ordenamento do Território
-- Recursos Hídricos
 - Plano de Bacia Hidrográfica
 - Política de Solos
 - Política do Ambiente
+- Recursos Hídricos
 - RIO AVE
 relationships:
 - type: cites
@@ -126,14 +126,14 @@ relationships:
   source: http://data.europa.eu/eli/dec/
 article_structure:
   article_count: 2
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:22Z'
   warnings: []
   errors: []
 ---
@@ -190,19 +190,19 @@ O Plano de Bacia Hidrográfica do Ave tem a duração máxima de oito anos e dev
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2001. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Janeiro de 2002.**
+Promulgado em 4 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2002.**
+Referendado em 10 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO DE BACIA HIDROGRÁFICA DO AVE
 
-# PARTE I — Introdução e enquadramento
+## PARTE I — Introdução e enquadramento
 
 ### CAPÍTULO 1 — Introdução
 
@@ -304,7 +304,7 @@ Ainda em 2009, deverá ser adoptado um novo plano de gestão de bacia hidrográf
 
 Tomando os anos de 2006 e 2009 para revisão e termo do presente Plano, as projecções referentes aos anos 2012 e 2020, pelas razões invocadas, são instrumentos referenciais de trabalho, tendo em conta a necessidade de se projectarem medidas e acções estratégicas a médio e longo prazos.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 ### CAPÍTULO 4 — Metodologia
 
@@ -324,15 +324,15 @@ O procedimento de aprovação do documento político envolveu uma discussão pú
 
 Assim, podemos estabelecer desde já a estrutura deste PBH, enquanto instrumento de planeamento estratégico:
 
-# Parte II - Diagnóstico, na qual são apresentadas as principais problemáticas da área do Plano, incluindo a identificação, caracterização e análise dos problemas existentes, das suas causas e condicionantes e das soluções já previstas para a superação dos mesmos;
+Parte II - Diagnóstico, na qual são apresentadas as principais problemáticas da área do Plano, incluindo a identificação, caracterização e análise dos problemas existentes, das suas causas e condicionantes e das soluções já previstas para a superação dos mesmos;
 
-# Parte III - Definição de objectivos, na qual são apresentados e caracterizados os objectivos estratégicos e os respectivos objectivos operacionais, preconizados para fazer face aos problemas diagnosticados;
+Parte III - Definição de objectivos, na qual são apresentados e caracterizados os objectivos estratégicos e os respectivos objectivos operacionais, preconizados para fazer face aos problemas diagnosticados;
 
-# Parte IV - Estratégias, medidas e programação, na qual são apresentadas as principais linhas estratégicas que enquadram os objectivos definidos, caracterizados e avaliados os programas de medidas e os respectivos projectos que permitirão alcançar aqueles objectivos;
+Parte IV - Estratégias, medidas e programação, na qual são apresentadas as principais linhas estratégicas que enquadram os objectivos definidos, caracterizados e avaliados os programas de medidas e os respectivos projectos que permitirão alcançar aqueles objectivos;
 
-# Parte V - Avaliação e acompanhamento do Plano, na qual é apresentado o modelo institucional e operacional considerado necessário para uma implementação eficaz do Plano;
+Parte V - Avaliação e acompanhamento do Plano, na qual é apresentado o modelo institucional e operacional considerado necessário para uma implementação eficaz do Plano;
 
-# Parte VI - Normas orientadoras, na qual é apresentado um conjunto de orientações que constitui um instrumento de gestão dos recursos hídricos na área da bacia.
+Parte VI - Normas orientadoras, na qual é apresentado um conjunto de orientações que constitui um instrumento de gestão dos recursos hídricos na área da bacia.
 
 Para além destes elementos integrantes do documento estratégico, o PBH envolve também todo o acervo documental de natureza técnica, que estará à disposição do público.
 
@@ -714,7 +714,7 @@ Câmaras municipais.
 
 No segundo caso, de entre outras entidades ligadas aos principais sectores utilizadores, destacam-se as associações de regantes e o sector eléctrico.
 
-# PARTE II — Diagnóstico
+## PARTE II — Diagnóstico
 
 Considerações preliminares
 
@@ -1090,7 +1090,7 @@ As realidades, no entanto, são outras e nada disto se passa na região deste Pl
 
 Nestes termos, a primeira grande conclusão a retirar recai sobre a necessidade de se melhorarem substancialmente os aspectos da informação, designadamente no que à contabilidade de custos diz respeito, criando sistemas mais ambiciosos que passam pela assunção da necessidade de criação de cadastros para controlo dos investimentos e fazendo prevalecer na gestão a óptica das várias fases operacionais da exploração dos sistemas, visando uma repartição equitativa dos custos entre os vários utilizadores.
 
-# PARTE III — Definição de objectivos
+## PARTE III — Definição de objectivos
 
 Considerações preliminares
 
@@ -1216,7 +1216,7 @@ TABELA III-1
 
 Objectivos operacionais da protecção das águas e controlo da poluição
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1290,7 +1290,7 @@ TABELA III-2
 
 Objectivos operacionais da gestão da procura. Abastecimento de água às populações e actividades económicas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1344,7 +1344,7 @@ TABELA III-3
 
 Objectivos operacionais da protecção da natureza
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1398,7 +1398,7 @@ TABELA III-4
 
 Protecção contra situações hidrológicas extremas e acidentes de poluição
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1432,7 +1432,7 @@ TABELA III-5
 
 Valorização económica e social dos recursos hídricos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 b) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1474,7 +1474,7 @@ TABELA III-6
 
 Objectivos operacionais da articulação do ordenamento do território com o ordenamento do domínio hídrico
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1516,7 +1516,7 @@ TABELA III-7
 
 Objectivos operacionais do quadro normativo e institucional
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1544,7 +1544,7 @@ TABELA III. 8
 
 Objectivos operacionais para o sistema económico-financeiro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 b) Objectivos fundamentais de políticas de gestão dos recursos hídricos
 
@@ -1562,7 +1562,7 @@ TABELA III. 9
 
 Objectivos operacionais para a informação e participação das populações
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 b) Objectivos fundamentais para a informação e participação das populações
 
@@ -1586,7 +1586,7 @@ TABELA III.10
 
 Objectivos operacionais do aprofundamento do conhecimento dos recursos hídricos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 b) Objectivos fundamentais do aprofundamento do conhecimento dos recursos hídricos
 
@@ -1598,7 +1598,7 @@ Promover a obtenção contínua de informação sistemática actualizada relativ
 
 Promover o estudo e a investigação aplicada, criando e mantendo as base de dados adequadas ao planeamento e à gestão sustentável dos recursos hídricos.
 
-# PARTE IV — Estratégias, medidas e programação
+## PARTE IV — Estratégias, medidas e programação
 
 ### CAPÍTULO 1 — Estratégias
 
@@ -1650,13 +1650,13 @@ TABELA IV.1
 
 Contribuição dos objectivos de política para a consecução das linhas estratégicas sectoriais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 TABELA IV.2
 
 Contribuição dos programas de medidas e acções para a consecução das linhas estratégicas sectoriais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 a) Estratégias fundamentais
 
@@ -1834,7 +1834,7 @@ O interesse na definição destas sub-regiões relaciona-se com a importância d
 
 Na formulação dos objectivos operacionais e dos programas de medidas, nomeadamente a nível de subprogramas e projectos, a discretização por UHP constitui a unidade de base socioeconómica e biofísica diferenciadora em termos de aplicação espacial.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 ### CAPÍTULO 2 — Programas de medidas
 
@@ -1850,7 +1850,7 @@ Tendo em consideração os objectivos estratégicos definidos, cada programa int
 
 O Plano compreende os seguintes programas de medidas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Para cada um dos programas considerados evidenciam-se o conjunto dos respectivos subprogramas e projectos que os integram e a avaliação sucinta de cada projecto em termos da sua importância, exequibilidade e risco, assim como dos impactes esperados com a sua realização, o que corresponde, na prática, a avaliar de uma forma indirecta os objectivos que os motivaram.
 
@@ -1876,7 +1876,7 @@ TABELA IV.3
 
 Subprogramas do programa P01
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Este programa integra, no subprograma Redução e Controlo da Poluição Tópica, o projecto «Águas residuais urbanas - Sistemas de drenagem e tratamento», que respeita à construção de sistemas de sistemas de drenagem e ETAR para a recolha e o tratamento de águas residuais das aglomerações com mais de 2000 e. p. e a remodelação e ampliação de sistemas existentes [estão previstos, executados, ou em fase de estudo os sistemas multimunicipais do vale do Ave (SIDVA) e do Cávado/Ave]. Com a implementação deste projecto os aglomerados com população equivalente superior a 2000 habitantes ficarão servidos a 100%, dando cumprimento ao Decreto-Lei n.º 152/97, no que respeita a este escalão.
 
@@ -1932,7 +1932,7 @@ TABELA IV.4
 
 Subprogramas do programa P02
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 O subprograma Cumprimento da Legislação Nacional irá actuar sobre a qualidade da água distribuída às populações nos sistemas públicos de abastecimento através de dois projectos: um sobre o controlo da qualidade da água, que irá implicar a monitorização das redes de distribuição, e outro sobre a qualidade propriamente dita, através da construção e reabilitação de infra-estruturas de tratamento, tanto na origem como ao longo dos sistemas.
 
@@ -1970,7 +1970,7 @@ TABELA IV.5
 
 Subprogramas do programa P03
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 No âmbito deste programa foi definido um único subprograma que integra os projectos «Preservação dos ecossistemas» e «Recuperação de ecossistemas». Com o primeiro, pretende-se definir cursos de água ou segmentos com elevada biodiversidade que apresentem um reduzido grau de perturbação antropogénica e indicar as medidas mais adequadas para preservar esses ecossistemas. Com o segundo, pretende-se restaurar e recuperar habitats e as condições de suporte das espécies que conferem importância às áreas em questão. Estes projectos devem ser desenvolvidos em ligação estreita com os projectos «Águas residuais urbanas», «Águas residuais industriais» e «Licenciamento de descargas e resíduos urbanos».
 
@@ -1994,7 +1994,7 @@ TABELA IV.6
 
 Subprogramas do programa P04
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Dada a importância que estes fenómenos assumem, foram considerados projectos com vista à execução de um plano de contingência para períodos de seca, delimitação das zonas adjacentes, controlo das cheias naturais e planos de emergência para situações de acidentes de poluição e ruptura de barragens.
 
@@ -2020,7 +2020,7 @@ TABELA IV.7
 
 Subprogramas do programa P05
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 f) Ordenamento e Gestão do Domínio Hídrico (P06)
 
@@ -2048,7 +2048,7 @@ TABELA IV.8
 
 Subprogramas do programa P06
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Os projectos mais importantes que integram este programa para a bacia do Ave são os que respeitam à elaboração de plano de ordenamento da extracção de inertes, elaboração de directrizes para a relocalização de unidades industriais incompatíveis com os objectivos de gestão do domínio hídrico e o projecto «Conservação da rede hidrográfica», todos eles integrados no subprograma Gestão do Domínio Hídrico.
 
@@ -2070,7 +2070,7 @@ TABELA IV.9
 
 Subprogramas do programa P07
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 h) Regime Económico-Financeiro (P08)
 
@@ -2090,7 +2090,7 @@ TABELA IV.10
 
 Subprogramas do programa P08
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 i) Informação e Participação das Populações (P09)
 
@@ -2110,7 +2110,7 @@ TABELA IV.11
 
 Subprogramas do programa P09
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 j) Aprofundamento do Conhecimento dos Recursos Hídricos (P10)
 
@@ -2130,7 +2130,7 @@ TABELA IV.12
 
 Subprogramas do programa P10
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 k) Avaliação Sistemática do Plano (P11)
 
@@ -2150,7 +2150,7 @@ TABELA IV.13
 
 Subprogramas do programa P11
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 l) Avaliação dos programas de medidas
 
@@ -2164,7 +2164,7 @@ Por último, não deve menosprezar-se a importância, nos planos ambiental, soci
 
 Deste modo, nos quadros da tabela IV.14 apresentam-se para os projectos integrantes dos diferentes programas de medidas os principais impactes decorrentes da sua concretização. Nos mesmos quadros, procura-se avaliar esses projectos, necessariamente com algum grau de subjectividade, sob três vertentes e três categorias por vertente:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Quanto à importância do projecto, ela é considerada básica se a sua implementação contribuir para assegurar o cumprimento da legislação nacional ou comunitária, a resolução de carências de atendimento no âmbito do abastecimento, da drenagem de águas residuais e dos respectivos tratamentos, melhorar os níveis de protecção da saúde pública, prevenir e mitigar os riscos de seca, de inundações e de poluição.
 
@@ -2184,7 +2184,7 @@ TABELA IV.14
 
 Avaliação dos projectos de impactes esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 ### CAPÍTULO 3 — Programação física
 
@@ -2204,7 +2204,7 @@ TABELA N.º IV.15
 
 Cronograma de realização dos projectos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 ### CAPÍTULO 4 — Investimentos e financiamento
 
@@ -2222,7 +2222,7 @@ Plano de investimentos
 
 a) Faseamento dos investimentos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Na tabela IV.16 apresenta-se o plano de investimentos, discriminado pelos períodos 2001-2006, 2007-2009, 2010-2012 e 2013-2020. Estes períodos foram fixados tendo em conta que o ano 2006 corresponde ao fim do QCA III, o ano 2012 corresponde ao período de vigência dos planos de bacia em Espanha e o ano 2020 é horizonte deste Plano, não obstante este findar, legalmente, em 2009, nos termos do Decreto-Lei n.º 45/94, de 22 de Fevereiro.
 
@@ -2234,7 +2234,7 @@ TABELA IV.17
 
 Orçamento por programas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 Prevê-se que venham a ser investidos cerca de 57 milhões de contos até 2020 na área relativa ao PBH do Ave, no essencial concentrados nos programas Recuperação e Prevenção da Qualidade da Água, Abastecimento de Água às Populações e Actividades Económicas e Ordenamento do Domínio Hídrico, que só por si representam 97% do investimento total na bacia.
 
@@ -2256,13 +2256,13 @@ TABELA IV.18
 
 Orçamento por tipos de projectos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 No que respeita aos investimentos associados à resolução de carências e cumprimento da legislação nacional e comunitária aplicável, corporizada nos projectos que integram os subprogramas base, constata-se que correspondem a 86,7% do investimento total na área do Plano, o que é consequente com a importância relativa do abastecimento de água às populações, às actividades económicas e à drenagem e tratamento de águas residuais.
 
 Os investimentos foram classificados segundo diferentes tipologias de investimento, obedecendo para o efeito à seguinte concepção metodológica:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 As conclusões mais relevantes referentes ao plano de investimento, em função de cada uma destas tipologias de investimento, são as seguintes:
 
@@ -2316,7 +2316,7 @@ d) Em termos globais, tendo em conta o peso específico do investimento dos Prog
 
 e) Embora se encontre definido um regime económico-financeiro da utilização do domínio público hídrico, Decreto-Lei n.º 47/94, de 22 de Fevereiro, verifica-se que o regime não tem sido integralmente aplicado, sendo a sua implementação fundamental para assegurar a componente «Autofinanciamento» dos investimentos programados no PBH.
 
-# PARTE V — Avaliação e acompanhamento do Plano
+## PARTE V — Avaliação e acompanhamento do Plano
 
 Considerações preliminares
 
@@ -2352,7 +2352,7 @@ TABELA V.1
 
 Indicadores de acompanhamento para o programa
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 c) Impactes da aplicação do Plano e conclusões
 
@@ -2416,7 +2416,7 @@ No que se refere às condições necessárias para o sucesso da consecução des
 
 Mas mais importante que estas condições, será a forma como as instâncias decisórias, aos diversos níveis, valorizarem o processo contínuo de planeamento, no qual se insere a elaboração do presente PBH, e, sobretudo, a realização das medidas associadas ao mesmo, visando a sustentabilidade e a racionalização da gestão dos recursos hídricos.
 
-# PARTE VI — Normas orientadoras
+## PARTE VI — Normas orientadoras
 
 A aplicação do Plano integra um conjunto de orientações que constitui um instrumento da gestão dos recursos hídricos na área da bacia hidrográfica do rio Ave.
 
@@ -2660,7 +2660,7 @@ TABELA A
 
 Valores de eficiências globais de rega
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 TABELA B
 
@@ -2694,7 +2694,7 @@ Dotações úteis de rega (metros cúbicos/hectares/ano)
 
 Ano crítico
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 TABELA C.2
 
@@ -2702,7 +2702,7 @@ Dotações úteis de rega (metros cúbicos/hectares/ano)
 
 Ano médio
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 TABELA D
 
@@ -2710,7 +2710,7 @@ Dimensionamento de infra-estruturas hidráulicas
 
 Períodos de retorno das cheias de projecto
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)](https://files.diariodarepublica.pt/1s/2002/03/067b00/26292695.pdf)
 
 ## ANEXO N.º 1
 
@@ -2732,239 +2732,239 @@ Volume III - Análise.
 
 Volume III.1 - Caracterização geral da bacia hidrográfica.
 
-# Parte 1 - Subsistema hidrológico.
+Parte 1 - Subsistema hidrológico.
 
-# Parte 2 - Subsistema de infra-estruturas.
+Parte 2 - Subsistema de infra-estruturas.
 
-# Parte 3 - Subsistema ambiental.
+Parte 3 - Subsistema ambiental.
 
-# Parte 4 - Subsistema socioeconómico.
+Parte 4 - Subsistema socioeconómico.
 
-# Parte 5 - Subsistema normativo.
+Parte 5 - Subsistema normativo.
 
-# Parte 6 - Subsistema institucional.
+Parte 6 - Subsistema institucional.
 
-# Parte 7 - Subsistema económico, financeiro e fiscal.
+Parte 7 - Subsistema económico, financeiro e fiscal.
 
 Volume IV - Diagnóstico.
 
 Anexos temáticos
 
-## Anexo n.º 1 - Análise biofísica.
+Anexo n.º 1 - Análise biofísica.
 
-# Parte I - Geomorfologia e geologia.
+Parte I - Geomorfologia e geologia.
 
-# Parte II - Solos.
+## Parte II - Solos.
 
-## Apêndice n.º 1 - Caracterização das unidades taxonómicas de Entre Douro e Minho.
+Apêndice n.º 1 - Caracterização das unidades taxonómicas de Entre Douro e Minho.
 
-# Parte III - Clima.
+## Parte III - Clima.
 
-# Parte IV - Hidrologia e hidrogeologia.
+Parte IV - Hidrologia e hidrogeologia.
 
-# Parte V - Recursos biológicos e paisagísticos.
+Parte V - Recursos biológicos e paisagísticos.
 
-## Anexo n.º 2 - Análise socioeconómica.
+Anexo n.º 2 - Análise socioeconómica.
 
-## Anexo n.º 3 - Recursos hídricos superficiais.
+Anexo n.º 3 - Recursos hídricos superficiais.
 
 Tomo 3.A - Balanço hídrico e avaliação de reservas.
 
 Tomo 3.B - Análise das precipitações anuais e mensais médias.
 
-## Apêndice n.º 1 - Figuras.
+Apêndice n.º 1 - Figuras.
 
-## Apêndice n.º 2 - Séries de precipitações reais mensais (41/42 a 90/91).
+Apêndice n.º 2 - Séries de precipitações reais mensais (41/42 a 90/91).
 
 Tomo 3.C - Análise do escoamento.
 
 Tomo 3.D - Análise do funcionamento da rede hidrométrica.
 
-## Anexo n.º 4 - Recursos hídricos subterrâneos.
+Anexo n.º 4 - Recursos hídricos subterrâneos.
 
-## Anexo n.º 5 - Análise da ocupação do solo e ordenamento do território.
+Anexo n.º 5 - Análise da ocupação do solo e ordenamento do território.
 
 Tomo 5.A - Distribuição da ocupação e aptidão do solo.
 
-## Apêndice n.º 1 - Legenda Corine Land Cover.
+Apêndice n.º 1 - Legenda Corine Land Cover.
 
-## Apêndice n.º 2 - Relação dos grupos propostos com a legenda da carta Corine.
+Apêndice n.º 2 - Relação dos grupos propostos com a legenda da carta Corine.
 
 Tomo 5.B - Estrutura de usos e ocupações do solo.
 
 Tomo 5.C - Ordenamento do território da envolvente à rede fluvial.
 
-## Anexo n.º 6 - Utilizações e necessidades de água.
+Anexo n.º 6 - Utilizações e necessidades de água.
 
 Tomo 6.A - Síntese da caracterização global.
 
 Tomo 6.B - Avaliação das necessidades actuais de água para os diversos usos.
 
-# Parte 6.B.I - Abastecimento doméstico e industrial.
+Parte 6.B.I - Abastecimento doméstico e industrial.
 
-## Apêndice A - Caracterização por concelho.
+Apêndice A - Caracterização por concelho.
 
-## Apêndice B - Localização dos sistemas de abastecimento existentes por concelho.
+Apêndice B - Localização dos sistemas de abastecimento existentes por concelho.
 
-# Parte 6.B.II - Agricultura e agro-pecuária.
+Parte 6.B.II - Agricultura e agro-pecuária.
 
-## Apêndice n.º 1 - Necessidades hídricas na pecuária.
+Apêndice n.º 1 - Necessidades hídricas na pecuária.
 
-## Apêndice n.º 2 - Evapotranspiração de referência.
+Apêndice n.º 2 - Evapotranspiração de referência.
 
 Tomo 6.C - Avaliação da qualidade da água para os diversos usos.
 
-## Apêndice n.º 1 - Captações de águas subterrâneas - avaliação da aptidão para consumo humano.
+Apêndice n.º 1 - Captações de águas subterrâneas - avaliação da aptidão para consumo humano.
 
-## Apêndice n.º 2 - Captações de águas superficiais - avaliação da aptidão para a produção de água para consumo humano.
+Apêndice n.º 2 - Captações de águas superficiais - avaliação da aptidão para a produção de água para consumo humano.
 
-## Apêndice n.º 3 - Albufeiras de águas públicas - avaliação da aptidão para finalidades e utilizações permitidas.
+Apêndice n.º 3 - Albufeiras de águas públicas - avaliação da aptidão para finalidades e utilizações permitidas.
 
-## Apêndice n.º 4 - Cursos de água - avaliação da aptidão para diversas utilizações.
+Apêndice n.º 4 - Cursos de água - avaliação da aptidão para diversas utilizações.
 
 Tomo 6.D - Identificação e caracterização das fontes de poluição.
 
-# Parte 6.D.I - Fontes de poluição tópica.
+Parte 6.D.I - Fontes de poluição tópica.
 
-## Apêndice n.º 1.1.1 - Metodologia para a definição do universo dos aglomerados a considerar como fontes de poluição pontual.
+Apêndice n.º 1.1.1 - Metodologia para a definição do universo dos aglomerados a considerar como fontes de poluição pontual.
 
-## Apêndice n.º 1.1.2 - Controle analítico das ETAR.
+Apêndice n.º 1.1.2 - Controle analítico das ETAR.
 
-## Apêndice n.º 1.1.3 - Eficiência das ETAR.
+Apêndice n.º 1.1.3 - Eficiência das ETAR.
 
-## Apêndice n.º 1.1.4 - Carga poluente por ponto de descarga.
+Apêndice n.º 1.1.4 - Carga poluente por ponto de descarga.
 
-## Apêndice n.º 1.1.5 - Análise gráfica das eficiências/carga poluente por concelho.
+Apêndice n.º 1.1.5 - Análise gráfica das eficiências/carga poluente por concelho.
 
-## Apêndice n.º 1.2.1 - Modelos do inquérito efectuado à indústria.
+Apêndice n.º 1.2.1 - Modelos do inquérito efectuado à indústria.
 
-## Apêndice n.º 1.2.2 - Listagens das empresas fornecidas pelas entidades licenciadoras, por distrito, por concelho e por CAE.
+Apêndice n.º 1.2.2 - Listagens das empresas fornecidas pelas entidades licenciadoras, por distrito, por concelho e por CAE.
 
-## Apêndice n.º 1.2.3 - Inquérito às indústrias - respostas invalidadas.
+Apêndice n.º 1.2.3 - Inquérito às indústrias - respostas invalidadas.
 
-## Apêndice n.º 1.2.4 - Número de respostas/elementos obtidos por concelho.
+Apêndice n.º 1.2.4 - Número de respostas/elementos obtidos por concelho.
 
-## Apêndice n.º 1.2.5 - Coeficientes utilizados na estimativa das cargas com origem nas unidades industriais.
+Apêndice n.º 1.2.5 - Coeficientes utilizados na estimativa das cargas com origem nas unidades industriais.
 
-## Apêndice n.º 1.2.6 - Número de estabelecimentos com mais de 10 trabalhadores e número de trabalhadores - Instituto Nacional de Estatística.
+Apêndice n.º 1.2.6 - Número de estabelecimentos com mais de 10 trabalhadores e número de trabalhadores - Instituto Nacional de Estatística.
 
-## Apêndice n.º 1.2.7 - Explorações mineiras.
+Apêndice n.º 1.2.7 - Explorações mineiras.
 
-## Apêndice n.º 1.2.8 - Registo de resposta do inquérito à indústria.
+Apêndice n.º 1.2.8 - Registo de resposta do inquérito à indústria.
 
-## Apêndice n.º 1.2.9 - Cargas por concelho e por CAE. Cargas totais por concelho. Cargas totais por CAE.
+Apêndice n.º 1.2.9 - Cargas por concelho e por CAE. Cargas totais por concelho. Cargas totais por CAE.
 
-## Apêndice n.º 1.2.10 - Registos das unidades industriais com licença de descarga.
+Apêndice n.º 1.2.10 - Registos das unidades industriais com licença de descarga.
 
-## Apêndice n.º 1.2.11 - Listagem dos aderentes aos contratos de adaptação ambiental.
+Apêndice n.º 1.2.11 - Listagem dos aderentes aos contratos de adaptação ambiental.
 
-## Apêndice n.º 1.2.12 - Listagem de unidades industriais potencialmente abrangidas pela directiva IPPC.
+Apêndice n.º 1.2.12 - Listagem de unidades industriais potencialmente abrangidas pela directiva IPPC.
 
-## Apêndice n.º 1.2.13 - Quadros base do SIG.
+Apêndice n.º 1.2.13 - Quadros base do SIG.
 
-## Apêndice n.º 1.3 - Resíduos sólidos.
+Apêndice n.º 1.3 - Resíduos sólidos.
 
-# Parte 6.D. II - Fontes de poluição difusa.
+Parte 6.D. II - Fontes de poluição difusa.
 
-## Apêndice n.º 1 - Quantidades de azoto e fósforo aplicados por cultura nos concelhos da bacia (quilograma/hectare/ano).
+Apêndice n.º 1 - Quantidades de azoto e fósforo aplicados por cultura nos concelhos da bacia (quilograma/hectare/ano).
 
-## Apêndice n.º 2 - Quantidades de azoto e fósforo aplicados por cultura nos concelhos da bacia (quilograma/ano).
+Apêndice n.º 2 - Quantidades de azoto e fósforo aplicados por cultura nos concelhos da bacia (quilograma/ano).
 
-## Apêndice n.º 3 - Áreas dos principais sistemas culturais praticados nos concelhos da bacia.
+Apêndice n.º 3 - Áreas dos principais sistemas culturais praticados nos concelhos da bacia.
 
-## Apêndice n.º 4 - Quantidades de azoto e fósforo a aplicar nas culturas.
+Apêndice n.º 4 - Quantidades de azoto e fósforo a aplicar nas culturas.
 
-## Apêndice n.º 5 - Quantidades de nutrientes removidos do solo por algumas culturas.
+Apêndice n.º 5 - Quantidades de nutrientes removidos do solo por algumas culturas.
 
-## Apêndice n.º 6 - Produtividades médias das culturas nos concelhos da bacia.
+Apêndice n.º 6 - Produtividades médias das culturas nos concelhos da bacia.
 
-## Apêndice n.º 7 - Quantidades de azoto e fósforo removidas do solo pelas culturas nos concelhos da bacia (quilograma/hectare/ano).
+Apêndice n.º 7 - Quantidades de azoto e fósforo removidas do solo pelas culturas nos concelhos da bacia (quilograma/hectare/ano).
 
-## Apêndice n.º 8 - Quantidades de azoto e fósforo removidas do solo pelas culturas nos concelhos da bacia (quilograma/ano).
+Apêndice n.º 8 - Quantidades de azoto e fósforo removidas do solo pelas culturas nos concelhos da bacia (quilograma/ano).
 
-## Apêndice n.º 9 - Quantidades de nutrientes contidos nos resíduos de algumas culturas (valores teóricos).
+Apêndice n.º 9 - Quantidades de nutrientes contidos nos resíduos de algumas culturas (valores teóricos).
 
-## Apêndice n.º 10 - Quantidades de azoto e fósforo deixadas no solo da bacia pelos resíduos das culturas.
+Apêndice n.º 10 - Quantidades de azoto e fósforo deixadas no solo da bacia pelos resíduos das culturas.
 
-## Apêndice n.º 11 - Balanço de azoto e fósforo para os sistemas culturais nos concelhos da bacia.
+Apêndice n.º 11 - Balanço de azoto e fósforo para os sistemas culturais nos concelhos da bacia.
 
-## Apêndice n.º 12 - Número de «cabeças normais» de gado ovino, caprino e bovino nos concelhos da bacia.
+Apêndice n.º 12 - Número de «cabeças normais» de gado ovino, caprino e bovino nos concelhos da bacia.
 
-## Apêndice n.º 13 - Carga poluente de azoto e fósforo associada à agro-pecuária nos concelhos da bacia.
+Apêndice n.º 13 - Carga poluente de azoto e fósforo associada à agro-pecuária nos concelhos da bacia.
 
-## Apêndice n.º 14 - Balanço final para o azoto e fósforo nos concelhos da bacia.
+Apêndice n.º 14 - Balanço final para o azoto e fósforo nos concelhos da bacia.
 
-## Apêndice n.º 15 - Relação das substâncias activas homologadas para Portugal, substâncias da lista I com potencial utilização agrícola e legislação nacional.
+Apêndice n.º 15 - Relação das substâncias activas homologadas para Portugal, substâncias da lista I com potencial utilização agrícola e legislação nacional.
 
-## Anexo n.º 7 - Infra-estruturas hidráulicas e de saneamento básico.
+Anexo n.º 7 - Infra-estruturas hidráulicas e de saneamento básico.
 
-## Apêndice n.º 1 - Drenagem e tratamento de águas residuais.
+Apêndice n.º 1 - Drenagem e tratamento de águas residuais.
 
-## Apêndice n.º 2 - Regadios tradicionais.
+Apêndice n.º 2 - Regadios tradicionais.
 
-## Anexo n.º 8 - Usos e ocupações do domínio hídrico.
+Anexo n.º 8 - Usos e ocupações do domínio hídrico.
 
 Tomo 8.A - Caracterização dos usos não consumptivos.
 
-## Apêndice n.º 1 - Cartas.
+Apêndice n.º 1 - Cartas.
 
-## Apêndice n.º 2 - Fichas individuais das praias fluviais.
+Apêndice n.º 2 - Fichas individuais das praias fluviais.
 
 Tomo 8.B - Caracterização de valores patrimoniais, arquitectónicos e arqueológicos.
 
-## Apêndice - Cartografia.
+Apêndice - Cartografia.
 
 Tomo 8.C - Caracterização de condicionantes, servidões e restrições de utilidade pública.
 
-## Anexo n.º 9 - Ecossistemas aquáticos e terrestres associados.
+Anexo n.º 9 - Ecossistemas aquáticos e terrestres associados.
 
-# Parte I - Ecossistemas aquáticos.
+Parte I - Ecossistemas aquáticos.
 
-# Parte II - Sistemas ribeirinho e terrestre associados.
+Parte II - Sistemas ribeirinho e terrestre associados.
 
-# Parte III - Avifauna.
+## Parte III - Avifauna.
 
-# Parte IV - Análise dos ecossistemas aquáticos e ripícolas.
+Parte IV - Análise dos ecossistemas aquáticos e ripícolas.
 
-# Parte V - Características gerais do estuário do rio Ave e sua importância ecológica.
+Parte V - Características gerais do estuário do rio Ave e sua importância ecológica.
 
-## Anexo n.º 10 - Qualidade dos meios hídricos.
+Anexo n.º 10 - Qualidade dos meios hídricos.
 
 Tomo 10.A - Águas superficiais.
 
-## Apêndice n.º 1 - Validação dos dados da DRA - Norte através de relações entre parâmetros específicos.
+Apêndice n.º 1 - Validação dos dados da DRA - Norte através de relações entre parâmetros específicos.
 
-## Apêndice n.º 2 - Evolução temporal e espacial da qualidade da água nos cursos de água.
+Apêndice n.º 2 - Evolução temporal e espacial da qualidade da água nos cursos de água.
 
-## Apêndice n.º 3 - Níveis de substâncias perigosas nas águas doces superficiais.
+Apêndice n.º 3 - Níveis de substâncias perigosas nas águas doces superficiais.
 
-## Apêndice n.º 4 - Cálculo de cargas mássicas na rede hidrográfica.
+Apêndice n.º 4 - Cálculo de cargas mássicas na rede hidrográfica.
 
 Tomo 10.B - Águas subterrâneas.
 
-## Apêndice n.º 1 - Georreferenciação das captações com dados analíticos utilizados.
+Apêndice n.º 1 - Georreferenciação das captações com dados analíticos utilizados.
 
-## Apêndice n.º 2 - Dados analíticos dos parâmetros relevantes.
+Apêndice n.º 2 - Dados analíticos dos parâmetros relevantes.
 
-## Apêndice n.º 3 - Teores de nitratos na água.
+Apêndice n.º 3 - Teores de nitratos na água.
 
-## Apêndice n.º 4 - Teores de substâncias perigosas.
+Apêndice n.º 4 - Teores de substâncias perigosas.
 
-## Anexo n.º 11 - Situações hidrológicas extremas.
+Anexo n.º 11 - Situações hidrológicas extremas.
 
 Tomo 11.A - Análise de secas.
 
-## Apêndice n.º 1.1 - Série histórica. Resultados da aplicação do modelo de caracterização de secas regionais.
+Apêndice n.º 1.1 - Série histórica. Resultados da aplicação do modelo de caracterização de secas regionais.
 
-## Apêndice n.º 1.2 - Réplica regional 1 - resultados da aplicação do modelo de caracterização de secas regionais.
+Apêndice n.º 1.2 - Réplica regional 1 - resultados da aplicação do modelo de caracterização de secas regionais.
 
-## Apêndice n.º 1.3 - Réplica regional 2 - resultados da aplicação do modelo de caracterização de secas regionais.
+Apêndice n.º 1.3 - Réplica regional 2 - resultados da aplicação do modelo de caracterização de secas regionais.
 
-## Apêndice n.º 2 - Séries de precipitação trimestral. Séries de precipitação trimestral com correcção regional de assimetria e séries de precipitação trimestral com distribuição normal padrão.
+Apêndice n.º 2 - Séries de precipitação trimestral. Séries de precipitação trimestral com correcção regional de assimetria e séries de precipitação trimestral com distribuição normal padrão.
 
 Tomo 11.B - Análise de cheias.
 
-## Anexo n.º 12 - Situações de risco.
+Anexo n.º 12 - Situações de risco.
 
 Tomo 12.A - Análise de riscos de erosão hídrica.
 
@@ -2972,63 +2972,63 @@ Tomo 12.B - Análise do transporte sólido e de riscos de erosão fluvial e asso
 
 Tomo 12.C - Identificação de outras situações de risco.
 
-# Parte I - Riscos de inundação.
+Parte I - Riscos de inundação.
 
-# Parte II - Riscos de poluição.
+Parte II - Riscos de poluição.
 
-# Parte III - Riscos geológicos e geotécnicos.
+Parte III - Riscos geológicos e geotécnicos.
 
-## Anexo n.º 13 - Análise económica das utilizações da água.
+Anexo n.º 13 - Análise económica das utilizações da água.
 
-## Apêndice n.º 1.1 - Modelo de inquérito lançado às câmaras municipais.
+Apêndice n.º 1.1 - Modelo de inquérito lançado às câmaras municipais.
 
-## Apêndice n.º 2.1 - Enquadramento institucional do território das bacias hidrográficas dos rios do noroeste.
+Apêndice n.º 2.1 - Enquadramento institucional do território das bacias hidrográficas dos rios do noroeste.
 
-## Apêndice n.º 2.2 - Análise espacial da bacia hidrográfica por concelhos e freguesias.
+Apêndice n.º 2.2 - Análise espacial da bacia hidrográfica por concelhos e freguesias.
 
-## Apêndice n.º 5.1 - Contribuição para a caracterização socioeconómica e agrícola do conjunto dos concelhos que integram a bacia hidrográfica do rio Ave.
+Apêndice n.º 5.1 - Contribuição para a caracterização socioeconómica e agrícola do conjunto dos concelhos que integram a bacia hidrográfica do rio Ave.
 
-## Apêndice n.º 5.2 - Consumo médio de água para rega por concelho.
+Apêndice n.º 5.2 - Consumo médio de água para rega por concelho.
 
-## Apêndice n.º 5.3 - Custos de utilização da água para rega.
+Apêndice n.º 5.3 - Custos de utilização da água para rega.
 
-## Apêndice n.º 7.1 - Hierarquização dos concelhos pela demografia.
+Apêndice n.º 7.1 - Hierarquização dos concelhos pela demografia.
 
-## Apêndice n.º 7.2 - Hierarquização dos concelhos segundo o desempenho económico.
+Apêndice n.º 7.2 - Hierarquização dos concelhos segundo o desempenho económico.
 
-## Apêndice n.º 7.3 - Hierarquização dos concelhos segundo as condições sociais.
+Apêndice n.º 7.3 - Hierarquização dos concelhos segundo as condições sociais.
 
-## Apêndice n.º 7.4 - Hierarquização integrada dos concelhos.
+Apêndice n.º 7.4 - Hierarquização integrada dos concelhos.
 
-## Anexo n.º 14 - Análise do quadro normativo.
+Anexo n.º 14 - Análise do quadro normativo.
 
-# Parte I - Introdução.
+## Parte I - Introdução.
 
-# Parte II - Quadro normativo pertinente a normas e objectivos de qualidade ambiental com incidência nos recursos hídricos.
+Parte II - Quadro normativo pertinente a normas e objectivos de qualidade ambiental com incidência nos recursos hídricos.
 
-# Parte III - Legislação pertinente ao PNA, às utilizações do domínio hídrico e à aplicação do princípio do utilizador-pagador.
+Parte III - Legislação pertinente ao PNA, às utilizações do domínio hídrico e à aplicação do princípio do utilizador-pagador.
 
-# Parte IV - Acordos voluntários.
+Parte IV - Acordos voluntários.
 
-# Parte V - Instrumentos de planeamento com incidência no território da bacia hidrográfica.
+Parte V - Instrumentos de planeamento com incidência no território da bacia hidrográfica.
 
-# Parte VI - Apreciação geral.
+Parte VI - Apreciação geral.
 
-## Anexo n.º 15 - Análise do quadro institucional.
+Anexo n.º 15 - Análise do quadro institucional.
 
-# Parte I - Introdução.
+## Parte I - Introdução.
 
-# Parte II - Elementos de referência dos projectos «Eurowater» e «Water 21».
+Parte II - Elementos de referência dos projectos «Eurowater» e «Water 21».
 
-# Parte III - Quadro institucional que enforma a gestão dos recursos hídricos.
+Parte III - Quadro institucional que enforma a gestão dos recursos hídricos.
 
-# Parte IV - Entidades intervenientes.
+Parte IV - Entidades intervenientes.
 
-# Parte V - Avaliação das capacidades dos meios humanos de serviços e organismos do Ministério do Ambiente e do Ordenamento do Território relativamente às suas atribuições e competências.
+Parte V - Avaliação das capacidades dos meios humanos de serviços e organismos do Ministério do Ambiente e do Ordenamento do Território relativamente às suas atribuições e competências.
 
-# Parte VI - Apreciação crítica do quadro institucional.
+Parte VI - Apreciação crítica do quadro institucional.
 
-## Anexo n.º 16 - Projectos de dimensão nacional.
+Anexo n.º 16 - Projectos de dimensão nacional.
 
 b) Fase II - Definição de objectivos
 
@@ -3038,7 +3038,7 @@ Volume II - Análise prospectiva do desenvolvimento socioeconómico e principais
 
 Volume III - Definição e avaliação de objectivos.
 
-## Anexo - Fichas de objectivos.
+Anexo - Fichas de objectivos.
 
 c) Fase III - Estratégias, medidas e acções
 
@@ -3048,15 +3048,15 @@ d) Fase IV - Prognóstico para os cenários de desenvolvimento
 
 Volume - Prognóstico para os cenários de desenvolvimento.
 
-## Anexo n.º 1 - Cálculo das utilizações e necessidades de água.
+Anexo n.º 1 - Cálculo das utilizações e necessidades de água.
 
-## Anexo n.º 2 - Modelo da qualidade da água.
+Anexo n.º 2 - Modelo da qualidade da água.
 
 e) Fase V - Programação física e financeira
 
 Volume - Programação física e financeira.
 
-## Anexo - Fichas de projectos.
+Anexo - Fichas de projectos.
 
 f) Fase VI - Normas regulamentares
 

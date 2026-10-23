@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2018/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2018-115487880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2abebe6dc102b3ecbec169d85737d7cd8fd288b18bc7f31041086109448a3a20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f9c4f751aee25718c935b6f0be0f44431a6ff79cd407dd90f07726813424175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,58 +67,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- PSP
-- Produção Animal
+- Açores
+- Agricultura
 - Aproximação das Legislações
 - Cádmio
 - Catálogo Nacional de Variedades
 - CE Países
-- Multa
-- Higiene do Trabalho
-- Doença Vegetal
+- Comércio
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
-- Direcção Regional de Agricultura e Pescas
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
+- Diversidade Biológica
+- Doença Vegetal
+- Eliminação de Resíduos
+- Embalagem
 - Equipamento Eletrónico
-- Saúde Pública
-- Segurança no Trabalho
 - Fiscalização
 - Floricultura
-- Licença de Utilização
-- Veículo
+- Higiene do Trabalho
 - Licença de Transporte
-- Embalagem
-- Normas de Segurança
-- Proteção do Ambiente
-- Pirotecnia
-- Diversidade Biológica
-- Produto Hortícola
-- Proteção Fitossanitária
+- Licença de Utilização
 - Madeira.região Autónoma
-- Recursos Genéticos
-- Condições de Higiene e Segurança no Trabalho
-- Produção Vegetal
-- Regulamento CE
-- Agricultura
-- Resíduo Industrial
-- Açores
-- Eliminação de Resíduos
 - Mercadoria
+- Multa
+- Normas de Segurança
+- Pirotecnia
+- Produção Animal
+- Produção Vegetal
+- Produto Agrícola
+- Produto Hortícola
+- Produto Químico
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- PSP
+- Recursos Genéticos
+- Regulamento CE
+- Resíduo Industrial
+- Saúde Animal
+- Saúde Pública
+- Segurança no Trabalho
 - Substância Perigosa
 - Substância Perigosa e Explosiva
-- Comércio
-- Produto Agrícola
 - Transporte de Mercadorias Perigosas
 - Transporte Internacional
 - Vegetais
-- Saúde Animal
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:185971762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122242530:por
+  label: Alterado, a partir de 01.07.2019, o anexo i do Dec Lei 79/2013 de 11-jun, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 59/2019 - Diário da República n.º 88/2019, Série I de 2019-05-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2019-122242530
+  date: '2019-05-08'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i e ii, na redação do presente diploma, ao Dec Lei 42/2017 de 06-abr pelo(a) Decreto-Lei n.º
+    154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
+- type: amends
+  target: pt:numero:decreto-lei:79/2011
+  label: Altera, com efeitos a 01.07.2018, bem como revoga os anexos D e E do anexo XII do Decreto-Lei n.º 79/2011, de 20
+    de junho,
+  source: null
+  date: '2011-06-20'
+- type: amends
+  target: pt:numero:decreto-lei:79/2013
+  label: Altera, com efeitos a 01.07.2018, o anexo I, bem como revoga o n.º 39.º do anexo I (na redação dos Decs Leis 119/2014
+    de 06-ago, 30/2016 de 24-jun e 137/2017, de 08-nov ) do Decreto-Lei n.º 79/2013, de 11-jun DR.IS [111]
+  source: null
+  date: '2013-06-11'
 - type: cites
   target: celex:31991L0322
   label: null
@@ -207,16 +231,184 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2
   label: null
   source: http://data.europa.eu/eli/dir/2
+- type: cites
+  target: pt:dre:105711868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107495708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108086598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108125021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108284970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55076558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58801094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66414232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70765717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74788785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216370:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 24
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:33Z'
   warnings: []
   errors: []
 ---
@@ -311,7 +503,9 @@ a) Devem ter sido cultivados durante todo o seu ciclo de vida numa área que ten
 
 b) Devem ter sido cultivados, nos dois anos que precederam a sua comercialização, num local com proteção física completa contra a introdução de Rhynchophorus ferrugineus (Olivier), ou num local onde foram aplicados tratamentos preventivos adequados em relação a esse organismo prejudicial, sendo que a confirmação da isenção deste organismo é feita por inspeções visuais ao material, efetuadas pelo menos uma vez de quatro em quatro meses, e o referido local pode situar-se em território nacional ou, em alternativa, no território de outros Estados-Membros, cabendo neste caso às autoridades competentes respetivas zelar pelo cumprimento destes requisitos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -343,7 +537,9 @@ j) No caso de importação de países terceiros, o nome do país de produção.
 
 5 - No caso de o material de propagação ser acompanhado de passaporte fitossanitário, ao abrigo do [Decreto-Lei n.º 154/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2005-141854), de 6 de setembro, este constituirá, se o fornecedor assim o desejar, o documento redigido pelo fornecedor referido no número anterior, sendo neste caso obrigatória a menção das informações constantes das alíneas a), d) e e) e, se for o caso, também das alíneas f) e g) ou h), i) e j), podendo estas informações constar do mesmo documento que inclui o passaporte fitossanitário, mas neste caso claramente separadas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -363,13 +559,17 @@ d) A indicação, se possível, das diferenças entre a variedade em questão e 
 
 5 - Os fornecedores cuja atividade se limite à comercialização de materiais de propagação de plantas ornamentais e que não sejam responsáveis pela manutenção da variedade estão dispensados da apresentação dos elementos referidos nas alíneas b) e d) do número anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Pelo licenciamento dos fornecedores e pelo controlo oficial dos materiais de propagação de plantas ornamentais são devidas taxas por serviços prestados, nos termos previstos na [Portaria n.º 298/2017](https://diariodarepublica.pt/dr/detalhe/portaria/298-2017-108284970), de 12 de outubro.
 
 2 - A portaria referida no número anterior, estabelece o regime de atualização, liquidação e cobrança de taxas, bem como o modo de repartição das mesmas pelos serviços oficiais competentes, quando aplicável.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As infrações ao disposto no n.º 1 do artigo 7.º, nos n.os 2 e 3 do artigo 8.º, no n.º 2 do artigo 9.º, no artigo 11.º e no n.º 3 do artigo 12.º constituem contraordenações puníveis com coima cujo montante mínimo é de 1000 (euro) e máximo de 3700 (euro) ou 44000 (euro), consoante o agente seja pessoa singular ou coletiva.
 
@@ -379,7 +579,9 @@ d) A indicação, se possível, das diferenças entre a variedade em questão e 
 
 4 - Às contraordenações previstas no presente artigo é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos [Decretos-Leis n.os 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de dezembro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de dezembro.
 
-###### Artigo 23.º — Fiscalização, instrução, aplicação e destino da receita das coimas
+Artigo 23.º
+
+Fiscalização, instrução, aplicação e destino da receita das coimas
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, a fiscalização ao disposto no presente decreto-lei compete à DGAV, às DRAP e à Autoridade de Segurança Alimentar e Económica (ASAE).
 
@@ -393,7 +595,9 @@ d) A indicação, se possível, das diferenças entre a variedade em questão e 
 
 6 - O produto das coimas cobradas pela DGAV reverte em 15 % para a DGAV, 25 % para a DRAP da área da prática da contraordenação e o restante para os cofres do Estado.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências legislativas próprias, cabendo a sua execução administrativa e suas disposições regulamentares aos serviços competentes das respetivas administrações regionais.
 
@@ -503,7 +707,9 @@ j) [...];
 
 k) 'Particular' a pessoa singular que aja com fins não relacionados com a sua atividade comercial, empresarial ou profissional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -513,7 +719,9 @@ k) 'Particular' a pessoa singular que aja com fins não relacionados com a sua a
 
 4 - Qualquer disponibilização de precursores de explosivos objeto de restrições, sem que o comprador apresente a respetiva licença, deve ser precedida de verificação, por parte do operador económico que a efetue, da qualidade profissional do comprador.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -527,7 +735,9 @@ k) 'Particular' a pessoa singular que aja com fins não relacionados com a sua a
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]:
 
@@ -537,7 +747,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -545,7 +757,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sem prejuízo da cassação de licenças por autoridade judiciária, o Diretor Nacional da PSP pode determinar, em função da culpa e da gravidade, a cassação da licença como sanção acessória à aplicação das sanções estabelecidas no artigo 15.º e nas alíneas a) e b) do artigo 16.º
 
@@ -629,7 +843,9 @@ dd) [...];
 
 ee) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -653,7 +869,9 @@ e) Iniciadores de percussão.
 
 6 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Nos iniciadores que não estejam abrangidos pela exceção prevista na alínea e) do n.º 2 do artigo 18.º, bem como nos reforçadores, a identificação única é constituída por uma etiqueta adesiva ou marca diretamente impressa no iniciador ou no reforçador, sendo obrigatoriamente colocada uma etiqueta associada em cada embalagem daqueles iniciadores ou reforçadores.
 
@@ -699,15 +917,15 @@ g) O [Despacho Normativo n.º 17/96](https://diariodarepublica.pt/dr/detalhe/des
 
 Visto e aprovado em Conselho de Ministros de 7 de junho de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - José António Fonseca Vieira da Silva - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 8 de junho de 2018.**
+Promulgado em 8 de junho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2018.**
+Referendado em 8 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -715,27 +933,39 @@ Visto e aprovado em Conselho de Ministros de 7 de junho de 2018. - António Luí
 
 Lista de organismos prejudiciais e doenças específicas com incidência significativa na qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 «ANEXO IV
 
-# PARTE A — [...]
-
-#### SECÇÃO I — [...]
+PARTE A
 
 [...]
 
-#### SECÇÃO II — [...]
+SECÇÃO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[...]
 
-# PARTE B — [...]
+[...]
+
+SECÇÃO II
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+
+PARTE B
+
+[...]
 
 [...]»
 
-## ANEXO III — (a que se refere o artigo 9.º)
+ANEXO III
+
+(a que se refere o artigo 9.º)
 
 «ANEXO
 
@@ -743,7 +973,7 @@ Lista de organismos prejudiciais e doenças específicas com incidência signifi
 
 3.2.1 - Quadro A: Lista das mercadorias perigosas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
 5.2.1.9.2 A marca deve indicar o número ONU precedido das letras 'UN', isto é, 'UN 3090' para pilhas ou baterias de lítio metálico ou 'UN 3480' para pilhas ou baterias de iões de lítio. Se as pilhas ou baterias de lítio estiverem contidas ou embaladas com um equipamento, o número ONU precedido das letras 'UN', isto é, 'UN 3091' ou 'UN 3481', deve ser indicado. Quando uma embalagem contém pilhas ou baterias de lítio afetas a números ONU diferentes, todos os números ONU aplicáveis devem ser indicados numa ou mais marcas.
 
@@ -771,7 +1001,7 @@ Para as embalagens metálicas leves com a menção 'RID/ADR' de acordo com o 6.1
 
 Exceto para a classe 2, a pressão do ensaio de pressão hidráulica depende da pressão de cálculo e é pelo menos igual à pressão indicada abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
 (restante parágrafo inalterado)
 
@@ -787,7 +1017,7 @@ O ensaio de estanquidade deve ser efetuado separadamente sobre cada compartiment
 
 9.2.1.1 - Quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
 9.2.2.6.2 As prescrições do 9.2.2.6.1 são consideradas como cumpridas:
 
@@ -795,7 +1025,9 @@ O ensaio de estanquidade deve ser efetuado separadamente sobre cada compartiment
 
 - onde as ligações elétricas fazem parte de um sistema de engate automático (ver Regulamento ECE n.º 55 6).»
 
-## ANEXO IV — (a que se refere o artigo 11.º)
+ANEXO IV
+
+(a que se refere o artigo 11.º)
 
 «ANEXO XII
 
@@ -803,43 +1035,81 @@ O ensaio de estanquidade deve ser efetuado separadamente sobre cada compartiment
 
 Medidas de luta contra a doença de Newcastle
 
-### CAPÍTULO I — [...]
+CAPÍTULO I
 
-###### Artigo 1.º — [...]
+[...]
 
-###### Artigo 2.º — [...]
+Artigo 1.º
 
-### CAPÍTULO II — [...]
+[...]
 
-###### Artigo 3.º — [...]
+Artigo 2.º
 
-###### Artigo 4.º — [...]
+[...]
 
-###### Artigo 5.º — [...]
+CAPÍTULO II
 
-###### Artigo 6.º — [...]
+[...]
 
-###### Artigo 7.º — [...]
+Artigo 3.º
 
-###### Artigo 8.º — [...]
+[...]
 
-###### Artigo 9.º — [...]
+Artigo 4.º
 
-###### Artigo 10.º — [...]
+[...]
 
-###### Artigo 11.º — [...]
+Artigo 5.º
 
-###### Artigo 12.º — [...]
+[...]
 
-###### Artigo 13.º — [...]
+Artigo 6.º
 
-###### Artigo 14.º — [...]
+[...]
 
-###### Artigo 15.º — [...]
+Artigo 7.º
 
-###### Artigo 16.º — [...]
+[...]
 
-###### Artigo 17.º — [...]
+Artigo 8.º
+
+[...]
+
+Artigo 9.º
+
+[...]
+
+Artigo 10.º
+
+[...]
+
+Artigo 11.º
+
+[...]
+
+Artigo 12.º
+
+[...]
+
+Artigo 13.º
+
+[...]
+
+Artigo 14.º
+
+[...]
+
+Artigo 15.º
+
+[...]
+
+Artigo 16.º
+
+[...]
+
+Artigo 17.º
+
+[...]
 
 1 - O laboratório de referência da União Europeia para a Doença de Newcastle é o Istituto Zooprofilattico Sperimentale delle Venezie (IZSVe), Legnaro, Itália.
 
@@ -869,76 +1139,114 @@ b) Prestar uma ajuda ativa na identificação de focos da doença de Newcastle n
 
 c) Facilitar a formação ou a reciclagem de especialistas em diagnóstico laboratorial, tendo em vista a harmonização das técnicas em toda a União.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
 
-###### Artigo 19.º — [...]
+[...]
 
-###### Artigo 20.º — [...]
+Artigo 19.º
 
-###### Artigo 21.º — [...]
+[...]
+
+Artigo 20.º
+
+[...]
+
+Artigo 21.º
+
+[...]
 
 1 - A DGAV deve elaborar e manter atualizado, em função da evolução da doença, um plano de contingência, especificando as medidas nacionais a executar em caso de aparecimento da doença de Newcastle.
 
 2 - [...].
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
 
-###### Artigo 22.º — [...]
+[...]
 
-###### Artigo 23.º — [...]
+Artigo 22.º
 
-###### Artigo 24.º — [...]
+[...]
 
-###### Artigo 25.º — [...]
+Artigo 23.º
 
-### CAPÍTULO IV — [...]
+[...]
 
-###### Artigo 26.º
+Artigo 24.º
+
+[...]
+
+Artigo 25.º
+
+[...]
+
+CAPÍTULO IV
+
+[...]
+
+Artigo 26.º
 
 [...]»
 
-## ANEXO V — (a que se refere o artigo 13.º)
+ANEXO V
+
+(a que se refere o artigo 13.º)
 
 «ANEXO III
 
 (a que se refere o n.º 3 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
-## ANEXO VI — (a que se refere o artigo 16.º)
+ANEXO VI
 
-«ANEXO I
-
-[...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
-
-## ANEXO VII — (a que se refere o artigo 22.º)
+(a que se refere o artigo 16.º)
 
 «ANEXO I
 
 [...]
 
-# Parte A
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+
+ANEXO VII
+
+(a que se refere o artigo 22.º)
+
+«ANEXO I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
-
-# PARTE B — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
-
-# PARTE C — [...]
+Parte A
 
 [...]
 
-## ANEXO II — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
-# PARTE A — [...]
+PARTE B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+[...]
 
-# PARTE B — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf))](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+PARTE C
+
+[...]
+
+[...]
+
+ANEXO II
+
+[...]
+
+PARTE A
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+
+PARTE B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/06/11100/0246302486.pdf)
+
+111412498

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2001/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2001-321287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a909a55c90144d29b20fdaa348cd1b3c825ae90c6ecd3817dd9fb4d23a1ecf5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c45f553cb60a338a5b4c197050a66b6b1a83a01a1cdfe48160526e7aba6f5f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- União Europeia
-- Propriedade Industrial
-- Licenciamento
-- Regime Jurídico
 - Agente Oficial da Propriedade Industrial
+- Licenciamento
+- Propriedade Industrial
+- Regime Jurídico
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:333519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655748:por
+  label: "Alterado o art. 2º do Dec Lei 15/95, de 24-Jan, na redacção do presente diploma, pelo DEC LEI.206/2002.16.10.2002.MECO,\
+    \ DR.IS-A [239] de 16.10.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2002-655748
+  date: '2002-10-16'
+- type: amended_by
+  target: pt:dre:333519:por
+  label: "Alterado, a partir de 09.08.2010, o art. 2º do Dec Lei 15/95, de 24-Jan, na redacção do presente diploma, pela LEI.17/2010.04.08.2010.AR,\
+    \ DR.IS [150] de 04.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2010-333519
+  date: '2010-08-04'
 - type: cites
   target: eli:/application/external/tratado
   label: null
@@ -87,13 +99,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:42Z'
   warnings: []
   errors: []
 ---
@@ -132,12 +144,12 @@ d) Ter escritório em Portugal ou no território de um Estado membro da União E
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Vítor Manuel da Silva Santos.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

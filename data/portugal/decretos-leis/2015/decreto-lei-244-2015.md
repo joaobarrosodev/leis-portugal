@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20400/0908609108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/244/2015/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-2015-70737913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b6b44f599fd5a6a9c44b5a08afb73cee09aa22c30de9b8642d003a6f266470e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c284a228dbbc9c9ab8c1f619b72ba7a011d8425312633a39e6ca030bbf14421
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
+- Açores
 - Armazenagem
 - Autoridade da Concorrência
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Petróleo
-- Produto Petrolífero
-- Reservas de Combustível
-- Fiscalização
-- Ministério do Ambiente Ordenamento do Território e Energia
-- Importação
-- Licenciamento
 - Direcção Geral de Geologia e Energia
 - Entidade Nacional para o Mercado de Combustíveis
-- Proteção do Ambiente
+- Fiscalização
+- Governo
+- Importação
+- Licenciamento
 - Madeira.região Autónoma
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Petróleo
+- Produto Petrolífero
+- Proteção do Ambiente
 - Proteção do Consumidor
 - Reserva
-- Governo
-- Açores
+- Reservas de Combustível
 - Sistema Petrolífero Nacional
-- Comércio
 - Transporte
 - Utilidade Pública
 relationships:
@@ -97,6 +97,23 @@ relationships:
   target: pt:dre:173166329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116165764:por
+  label: Determinado, a partir de 01.09.2018 e nos termos do art. 7.º, que as referências feitas à Autoridade para a Concorrência,
+    consideram-se feitas à ERSE, as referências feitas ao Conselho Nacional para os Combustíveis, consideram-se feitas ao
+    Conselho dos Combustíveis da ERSE, as referências feitas à ENMC, E. P. E., consideram-se feitas à DGEG, as referências
+    feitas à ENMC, E. P. E., consideram-se feitas à ERSE, as referências feitas à ENMC, E. P. E., consideram-se feitas à ENSE,
+    E. P. E. e as referências feitas à ENMC, E. P. E., consideram-se feitas à ENSE, E. P. E. e revogados, na mesma data, o
+    n.º 2 do art. 21.º-B, o n.º 5 do art. 23.º-A e o art. 38.º do Dec Lei 31/2006, de 15-fev, na versão republicada pelo presente
+    diploma pelo(a) Decreto-Lei n.º 69/2018 - Diário da República n.º 164/2018, Série I de 2018-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2018-116165764
+  date: '2018-08-27'
+- type: amended_by
+  target: pt:dre:173166329:por
+  label: Altera, a partir de 22.10.2021, os arts. 8.º e 40.º-B do Dec Lei 31/2006, de 15-fev, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 69-A/2021 - Diário da República n.º 205/2021, 1º Suplemento, Série I de 2021-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/69-a-2021-173166329
+  date: '2021-10-21'
 - type: cites
   target: celex:32009L0119
   label: null
@@ -141,16 +158,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
+- type: cites
+  target: pt:dre:175787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66379753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 113
+  article_count: 72
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:08Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +342,9 @@ Os artigos 2.º, 3.º, 5.º, 10.º, 12.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -255,7 +398,9 @@ x) [Anterior alínea u)];
 
 y) [Anterior alinea z)].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -271,11 +416,15 @@ c) A satisfação de necessidades de consumidores prioritários, nomeadamente no
 
 d) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os preços a praticar integram-se no regime de preços livres.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -283,7 +432,9 @@ Os preços a praticar integram-se no regime de preços livres.
 
 3 - Para efeitos do disposto no número anterior, as atividades do SPN são exercidas em regime de separação contabilística ou jurídica e em observância dos requisitos definidos no presente decreto-lei.
 
-###### Artigo 14.º — Refinação e tratamento de produtos de petróleo
+Artigo 14.º
+
+Refinação e tratamento de produtos de petróleo
 
 O exercício da atividade de refinação de petróleo bruto e de tratamento de produtos de petróleo não carece de licenciamento autónomo, mas depende das seguintes condições:
 
@@ -291,7 +442,9 @@ a) O licenciamento das instalações compete ao membro do Governo responsável p
 
 b) A certificação do interveniente pela ENMC, E.P.E., nos termos previstos no artigo 12.º-C.
 
-###### Artigo 15.º — Idoneidade
+Artigo 15.º
+
+Idoneidade
 
 1 - Considera-se que não têm idoneidade, as pessoas singulares ou coletivas que:
 
@@ -305,7 +458,9 @@ c) Não tenham a sua situação regularizada relativamente a dívidas fiscais e 
 
 3 - O modelo de declaração prevista no número anterior é aprovado por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O exercício da atividade de armazenamento não carece de licenciamento autónomo, mas depende da verificação das seguintes condições:
 
@@ -321,7 +476,9 @@ b) A certificação do interveniente pela ENMC, E.P.E., nos termos do artigo 12.
 
 5 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -333,7 +490,9 @@ a) O licenciamento das instalações, no âmbito da legislação aplicável, a c
 
 b) A certificação do interveniente pela ENMC, E.P.E., nos termos do artigo 12.º-C.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -345,7 +504,9 @@ a) O licenciamento das instalações no âmbito da legislação aplicável e ten
 
 b) A certificação do interveniente pela ENMC, E.P.E., nos termos do artigo 12.º-C.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O exercício da atividade de comercialização de petróleo bruto e de produtos de petróleo não carece de licenciamento autónomo, mas depende da verificação das seguintes condições:
 
@@ -355,7 +516,9 @@ b) A certificação do interveniente pela ENMC, E.P.E., nos termos do artigo 12.
 
 2 - A atividade de comercialização pode ser grossista ou retalhista.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -379,7 +542,9 @@ c) Constituição das reservas petrolíferas obrigatórias, nos termos da legisl
 
 8 - Os comercializadores retalhistas estão sujeitos à monitorização da qualidade de serviço aos consumidores nos termos do artigo 23.º-A.
 
-###### Artigo 24.º — Acesso às grandes instalações de armazenamento e transporte de petróleo bruto e produtos de petróleo
+Artigo 24.º
+
+Acesso às grandes instalações de armazenamento e transporte de petróleo bruto e produtos de petróleo
 
 1 - Os titulares de instalações de transporte por conduta, ou armazenamento de petróleo bruto e de produtos de petróleo declaradas de interesse público, nos termos do artigo 34.º-A, devem permitir o acesso às mesmas, através de uma solução negociada, em condições técnicas e económicas não discriminatórias, transparentes e objetivas, aplicando preços que devem tornar públicos.
 
@@ -407,7 +572,9 @@ b) Assegurar a disponibilização das instalações sempre que as propostas de u
 
 8 - [Anterior n.º 6].
 
-###### Artigo 25.º — Supervisão
+Artigo 25.º
+
+Supervisão
 
 1 - Compete à ENMC, E.P.E., a supervisão das atividades do SPN e do acesso às infraestruturas referidas nos artigos 24.º e 24.º-B nos termos definidos no presente decreto-lei.
 
@@ -419,7 +586,9 @@ a) O acesso às grandes instalações de armazenamento, transporte e distribuiç
 
 b) O acesso às instalações de armazenamento e distribuição de GPL para consumo final para efeitos de comercialização de GPL canalizado.
 
-###### Artigo 27.º — Monitorização do mercado e da segurança do abastecimento
+Artigo 27.º
+
+Monitorização do mercado e da segurança do abastecimento
 
 1 - Compete à ENMC, E.P.E., a monitorização do mercado no âmbito do SPN.
 
@@ -437,7 +606,9 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 4 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -445,7 +616,9 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 3 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -457,13 +630,17 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 5 - A participação societária referida no n.º 2 é temporária, ficando limitada ao prazo de um ano a contar da data do respetivo registo comercial, apenas podendo ser prorrogada em casos excecionais, devidamente fundamentados, por despacho do membro do Governo responsável pela área da energia.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O estabelecimento, a alteração e a exploração das instalações de petróleo bruto e de produtos de petróleo, bem como a sua transmissão, encerramento e desmantelamento, estão sujeitos a licenciamento pelas entidades administrativas competentes, nos termos da legislação especial aplicável.
 
 2 - A regulamentação técnica e de segurança das instalações de armazenamento é definida por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - O membro do Governo responsável pela área da energia pode, mediante despacho, declarar a utilidade pública de instalações petrolíferas.
 
@@ -471,7 +648,9 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 3 - As grandes instalações de armazenamento e os centros de operação logística objeto de expropriação são concessionados em regime de serviço público.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -479,7 +658,9 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 3 - A utilização de produtos de petróleo pode ser restringida ou condicionada por razões relacionadas com a proteção da saúde, do ambiente e do património, cabendo ao membro do Governo responsável pela área da energia definir essa restrição e à ENMC, E.P.E., monitorizar o seu cumprimento pelos intervenientes do SPN.
 
-###### Artigo 38.º — Mediação
+Artigo 38.º
+
+Mediação
 
 1 - Os conflitos entre os operadores, os comercializadores e os clientes, no âmbito da prestação de serviços integrados na definição de serviços públicos essenciais, podem ser resolvidos por recurso a mediação.
 
@@ -487,7 +668,9 @@ d) Constituir e gerir a manutenção das reservas estratégicas, nos termos do [
 
 3 - O disposto no número anterior não se aplica, nos casos em que o conflito envolva sociedades nas condições referidas no n.º 2 do artigo 32.º
 
-###### Artigo 40.º — Fiscalização
+Artigo 40.º
+
+Fiscalização
 
 1 - Sem prejuízo das competências próprias de outras entidades, nos termos da respetiva legislação especial, a fiscalização do cumprimento das disposições do presente decreto-lei e regulamentação complementar incumbe às seguintes entidades:
 
@@ -531,7 +714,9 @@ b) O total da participação societária das pessoas, singulares ou coletivas, q
 
 6 - Para efeitos do disposto no número anterior, nenhuma pessoa singular ou coletiva que exerça atividades de transporte de gás natural ou de eletricidade, no âmbito do [Decreto-Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2006-683861), de 15 de fevereiro, alterado pelos [Decretos-Leis n.os 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, [78/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2011-670026), de 20 de junho, [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [112/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864), de 23 de maio, e [215-A/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-a-2012-588860), de 8 de outubro, e do [Decreto-Lei n.º 30/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2006-683858), de 15 de fevereiro, alterado pelos [Decretos-Leis n.os 66/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465), de 11 de junho, [77/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022), de 20 de junho, [74/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2012-553917), de 26 de março, [112/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2012-177864), de 25 de março, e [230/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2012-192436), de 26 de outubro, pode deter direta ou indiretamente participações no capital social de instalações petrolíferas que sejam declaradas de interesse público e objeto de expropriação e subsequente concessão de serviço público.
 
-###### Artigo 12.º-B — Separação contabilística
+Artigo 12.º-B
+
+Separação contabilística
 
 1 - As sociedades comerciais que exerçam, dentro do mesmo grupo acionista, atividades de refinação, armazenamento, transporte, distribuição e comercialização de produtos de petróleo, e independentemente da sua forma jurídica e regime patrimonial, ficam obrigadas a elaborar, a submeter a aprovação dos órgãos sociais competentes e a publicar as suas contas anuais, nos termos da legislação e regulamentação aplicável.
 
@@ -545,7 +730,9 @@ b) O total da participação societária das pessoas, singulares ou coletivas, q
 
 6 - A revisão legal das contas nos termos previstos nos n.os 1 e 3 deve verificar, em particular, a observância da obrigação de prevenir a discriminação e as subvenções cruzadas.
 
-###### Artigo 12.º-C — Certificação
+Artigo 12.º-C
+
+Certificação
 
 1 - Os intervenientes do SPN, definidos nas alíneas a) a e) do artigo 13.º, estão sujeitos a certificação pela ENMC, E.P.E., nos termos do presente decreto-lei, para o exercício das seguintes atividades:
 
@@ -569,7 +756,9 @@ d) Comercialização de petróleo bruto e de produtos de petróleo.
 
 7 - Os procedimentos a observar para emissão do certificado são estabelecidos por regulamentação emitida pela ENMC, E.P.E., e publicados no respetivo sítio na Internet.
 
-###### Artigo 12.º-D — Acompanhamento e reapreciação das condições do certificado
+Artigo 12.º-D
+
+Acompanhamento e reapreciação das condições do certificado
 
 1 - Compete à ENMC, E.P.E., o permanente acompanhamento e fiscalização do cumprimento das condições do certificado concedido.
 
@@ -593,7 +782,9 @@ c) Quando verifique o incumprimento reiterado das obrigações de prestação de
 
 6 - A medida prevista no número anterior é precedida de audição prévia dos interessados nos termos gerais do Código do Procedimento Administrativo.
 
-###### Artigo 13.º-A — Registo e cadastro centralizado
+Artigo 13.º-A
+
+Registo e cadastro centralizado
 
 1 - Todos os intervenientes do SPN, à exceção dos mencionados na alínea f) do artigo anterior, ficam sujeitos à obrigação de registo na ENMC, E.P.E., o qual é gratuito.
 
@@ -605,7 +796,9 @@ c) Quando verifique o incumprimento reiterado das obrigações de prestação de
 
 5 - Os procedimentos de registo e de elaboração do cadastro centralizado são definidos em regulamentação da ENMC, E.P.E..
 
-###### Artigo 21.º-A — Comercialização de gás de petróleo liquefeito
+Artigo 21.º-A
+
+Comercialização de gás de petróleo liquefeito
 
 1 - O GPL pode ser comercializado nas categorias de engarrafado, canalizado e a granel.
 
@@ -615,13 +808,17 @@ c) Quando verifique o incumprimento reiterado das obrigações de prestação de
 
 4 - Compete ao Governo promover a aproximação das especificações do GPL em face das aprovadas nos restantes países da União Europeia.
 
-###### Artigo 21.º-B — Comercialização de GPL a granel
+Artigo 21.º-B
+
+Comercialização de GPL a granel
 
 1 - Nos contratos de fornecimento de GPL a granel, no caso da propriedade da instalação de GPL ser do comercializador e não do cliente final, é obrigatório, no final do contrato, conceder a opção de transmissão da propriedade da instalação, incluindo o respetivo depósito, ao cliente final ou à entidade que o cliente final escolha como novo fornecedor.
 
 2 - Caso a opção de transmissão prevista no número anterior não seja exercida no prazo de 30 dias, pode qualquer um dos interessados recorrer ao mecanismo de mediação da ENMC, E.P.E., previsto no artigo 38.º
 
-###### Artigo 21.º-C — Comercialização de GPL engarrafado
+Artigo 21.º-C
+
+Comercialização de GPL engarrafado
 
 1 - A comercialização a retalho de GPL engarrafado é exercida em regime livre, sem prejuízo da obrigação de registo prevista no artigo 13.º-A, e na observância da legislação aplicável quanto às respetivas especificações técnicas.
 
@@ -631,7 +828,9 @@ c) Quando verifique o incumprimento reiterado das obrigações de prestação de
 
 4 - A comercialização de gás engarrafado pode ser feita em unidades de aferição de peso, nos termos a regulamentar por portaria do membro do Governo responsável pela área da energia, sob proposta da ENMC, E.P.E..
 
-###### Artigo 23.º-A — Monitorização da qualidade de serviço aos consumidores
+Artigo 23.º-A
+
+Monitorização da qualidade de serviço aos consumidores
 
 1 - A monitorização da qualidade de serviço cabe à ENMC, E.P.E., nomeadamente através de auditorias aos comercializadores retalhistas, com vista à avaliação dos seguintes aspetos:
 
@@ -655,7 +854,9 @@ f) As condições das infraestruturas destinadas ao público.
 
 5 - A ENMC, E.P.E., no âmbito do sistema metrológico nacional, procede à realização de verificações extraordinárias ao equipamento métrico de distribuição de combustíveis.
 
-###### Artigo 23.º-B — Transparência e divulgação
+Artigo 23.º-B
+
+Transparência e divulgação
 
 1 - A ENMC, E.P.E., no âmbito do exercício das competências de supervisão, está vinculada ao princípio da transparência, sem prejuízo do respeito pelo dever de confidencialidade no tratamento de informação de natureza comercialmente sensível ou protegida por direitos de propriedade industrial, nos termos a regulamentar pela ENMC, E.P.E., após consulta ao Conselho Nacional para os Combustíveis.
 
@@ -669,7 +870,9 @@ c) Disponibilizar no seu sítio oficial na Internet a informação aos consumido
 
 3 - As entidades legalmente competentes, quando solicitado pela ENMC, E.P.E., para efeitos de monitorização da qualidade de serviço, prestam informação sobre os resultados das denúncias efetuadas nos termos da alínea a) do número anterior.
 
-###### Artigo 24.º-A — Congestionamentos físicos
+Artigo 24.º-A
+
+Congestionamentos físicos
 
 1 - Quando ocorra ou seja previsível que venham a ocorrer, de acordo com a informação publicada nos termos da alínea c) do n.º 2 do artigo anterior, congestionamentos físicos no acesso a instalações de armazenamento e transporte por conduta declaradas de interesse público, a ENMC, E.P.E., pode, oficiosamente ou a pedido de qualquer interessado, implementar medidas de resolução de congestionamentos.
 
@@ -677,7 +880,9 @@ c) Disponibilizar no seu sítio oficial na Internet a informação aos consumido
 
 3 - A ENMC, E.P.E., define, em regulamento, após consulta ao Conselho Nacional para os Combustíveis, as medidas de resolução de congestionamentos e os respetivos procedimentos, considerando a segurança do abastecimento, através do normal funcionamento das instalações de refinação, e as melhores práticas internacionais.
 
-###### Artigo 24.º-B — Instalações de armazenamento distribuição de GPL canalizado
+Artigo 24.º-B
+
+Instalações de armazenamento distribuição de GPL canalizado
 
 1 - As grandes instalações de armazenamento e distribuição de GPL canalizado para efeitos da comercialização ao cliente final devem permitir o acesso às mesmas, através de uma solução negociada e em condições técnicas e económicas não discriminatórias, transparentes, objetivas e publicitadas.
 
@@ -691,7 +896,9 @@ c) As condições e tarifas de acesso.
 
 3 - O disposto no artigo 21.º-B é aplicável, com as devidas adaptações, a instalações de armazenamento e distribuição de GPL canalizado.
 
-###### Artigo 24.º-C — Obrigações de informação e simplificação administrativa
+Artigo 24.º-C
+
+Obrigações de informação e simplificação administrativa
 
 1 - Os intervenientes previstos nas alíneas a) a e) do artigo 13.º prestam a informação necessária para a supervisão e monitorização do SPN.
 
@@ -715,7 +922,9 @@ e) Quantidades introduzidas no mercado nacional, diretamente por si ou por inter
 
 6 - Para efeitos do disposto no presente artigo, a ENMC, E.P.E., pode, nos termos previstos na [Lei n.º 6/89](https://diariodarepublica.pt/dr/detalhe/lei/6-1989-615214), de 15 de abril, solicitar as informações estatísticas que se revelem necessárias ao exato conhecimento do mercado do petróleo bruto e dos produtos de petróleo, salvo quando se trate de informação confidencial ou comercialmente sensível ou protegida por direitos de propriedade industrial, nos termos a regulamentar pela ENMC, E.P.E..
 
-###### Artigo 34.º-A — Interesse público
+Artigo 34.º-A
+
+Interesse público
 
 1 - Podem ser consideradas de interesse público as instalações petrolíferas de armazenamento e de transporte por conduta, que pelas suas características físicas, nomeadamente a sua capacidade e localização, e pela inexistência de alternativas viáveis à sua utilização, devam estar acessíveis em condições de concorrência, transparência e não discriminação, nos termos definidos no presente decreto-lei e respetiva regulamentação.
 
@@ -727,11 +936,15 @@ e) Quantidades introduzidas no mercado nacional, diretamente por si ou por inter
 
 5 - São declaradas de interesse público as grandes instalações petrolíferas existentes, conforme definidas na alínea p) do artigo 3.º
 
-###### Artigo 34.º-B — Código do Procedimento Administrativo
+Artigo 34.º-B
+
+Código do Procedimento Administrativo
 
 Os procedimentos previstos no presente decreto-lei regem-se subsidiariamente pelo Código do Procedimento Administrativo.
 
-###### Artigo 40.º-A — Suspensão provisória
+Artigo 40.º-A
+
+Suspensão provisória
 
 1 - No decurso da fiscalização do cumprimento das disposições do presente decreto-lei podem as entidades referidas no n.º 1 do artigo anterior determinar a suspensão imediata, e de forma transitória, da atividade dos intervenientes do SPN, por um período não superior a 12 horas, quando e enquanto tal se revele indispensável para:
 
@@ -743,7 +956,9 @@ b) Para a identificação dos agentes da infração.
 
 3 - O interveniente do SPN que esteja a ser fiscalizado deve facultar às entidades fiscalizadoras referidas no n.º 1, a entrada nas suas instalações, bem como fornecer as informações que sejam, fundamentadamente, solicitadas.
 
-###### Artigo 40.º-B — Contraordenações e coimas
+Artigo 40.º-B
+
+Contraordenações e coimas
 
 1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 3 740, no caso de pessoas singulares, e de (euro) 3 500 a (euro) 44 890, no caso de pessoas coletivas:
 
@@ -765,15 +980,21 @@ g) O incumprimento, pelos intervenientes do SPN que exercem as atividades referi
 
 3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
-###### Artigo 40.º-C — Sanções acessórias
+Artigo 40.º-C
+
+Sanções acessórias
 
 Em função da gravidade das infrações e da culpa do agente, podem ser aplicadas sanções acessórias previstas no n.º 1 do artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos [Decretos-Leis n.os 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de fevereiro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de setembro.
 
-###### Artigo 40.º-D — Instrução dos processos e aplicação das coimas e sanções acessórias
+Artigo 40.º-D
+
+Instrução dos processos e aplicação das coimas e sanções acessórias
 
 Cabe à ENMC, E.P.E., instaurar e instruir os processos relativos às contraordenações previstas no presente decreto-lei, competindo ao presidente do seu conselho de administração a aplicação das respetivas coimas e sanções acessórias.
 
-###### Artigo 40.º-E — Destino do produto das coimas
+Artigo 40.º-E
+
+Destino do produto das coimas
 
 O produto das coimas reverte em:
 
@@ -783,7 +1004,9 @@ b) 30 % para a ENMC, E.P.E.;
 
 c) 10 % para a DGEG.
 
-###### Artigo 40.º-F — Regime subsidiário
+Artigo 40.º-F
+
+Regime subsidiário
 
 Às contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, alterado pelos [Decretos-Leis n.os 356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de outubro, [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de setembro, e [323/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), de 17 de fevereiro, e pela [Lei n.º 109/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-2001-536642), de 24 de setembro.»
 
@@ -821,15 +1044,15 @@ São revogados os n.os 3 e 4 do artigo 16.º, a alínea a) do n.º 2 do artigo 2
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Rui Manuel Parente Chancerelle de Machete - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 13 de outubro de 2015.**
+Promulgado em 13 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de outubro de 2015.**
+Referendado em 14 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

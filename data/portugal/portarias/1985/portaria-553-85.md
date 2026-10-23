@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/553-1985-180644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed61d2b04d634de31ef7f1153d69c396d69aeb6962aff48cc26786d46a141899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36dd9804b7d18511861199a56a6c1c47fd9318a8cb6c5cae00dc8b50fa0b9520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estado Maior General das Forças Armadas
+- Pessoal Auxiliar
+- Pessoal Civil
+- Pessoal Operário
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:571406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:38Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +113,10 @@ Tendo em atenção o disposto no n.º 1 do artigo 18.º do [Decreto-Lei n.º 271
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, que o quadro anexo n.º 1 à [Portaria n.º 743/82](https://diariodarepublica.pt/dr/detalhe/portaria/743-1982-397315), de 30 de Julho, seja alterado, na parte referente ao pessoal operário e ou auxiliar, como se indica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/08/18200/24742474.pdf))](https://files.diariodarepublica.pt/1s/1985/08/18200/24742474.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/08/18200/24742474.pdf)
 
 Ministérios da Defesa Nacional e das Finanças e do Plano e Secretaria de Estado da Administração Pública.
 
-**Assinada em 28 de Junho de 1985.**
+Assinada em 28 de Junho de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

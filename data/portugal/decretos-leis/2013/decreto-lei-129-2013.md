@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2013/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2013-499253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52f58dee4ae5d36bedb36365b03cabfe37d1a5e98b821ea48e69e6f1dbd74b85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 197e8fa32dafb0e9b42e0b27f7e8abbb4af55884d98c8477af683e73a15fe6d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Conselho de Ministros
 - CTT
 - Definição de Competências
 - Delegação de Competências
-- Setor Empresarial do Estado
-- Isenção de Taxas e Emolumentos
 - Governo XIX
+- Isenção de Taxas e Emolumentos
+- Ministro de Estado e das Finanças
 - OPV
 - Parpública
 - Privatização
-- Ministro de Estado e das Finanças
+- Setor Empresarial do Estado
 - SGPS
+- Sociedade Anónima
 - Venda Directa
 relationships:
 - type: cites
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2011/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2011/09/13/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:50Z'
   warnings: []
   errors: []
 ---
@@ -320,12 +344,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 2 de setembro de 2013.**
+Promulgado em 2 de setembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de setembro de 2013.**
+Referendado em 4 de setembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

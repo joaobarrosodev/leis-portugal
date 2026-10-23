@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/008a00/00990127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2001/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2001-239249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9e4246565c02a3734f81a731c82f2e602daff759d51894a4a1ef5031131564e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba29d6e7155946083963d8d34076acfa240e3dd59f8cb38525b72b0dc0277fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Direito de Residência
-- Imigração
+- Admissão de Estrangeiros
 - Boletim de Alojamento
-- Instituto do Emprego e Formação Profissional
 - Cidadão Estrangeiro
-- Multa
 - Contra-ordenação
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Direito de Residência
+- Emprego
 - Estudante
 - Expulsão de Estrangeiros
 - Fronteiras
-- Refugiado
+- Imigração
+- Instituto do Emprego e Formação Profissional
 - Livre Circulação de Pessoas
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Serviço de Estrangeiros e Fronteiras
+- Multa
 - Países Terceiros
-- Emprego
-- Política de Emprego
-- Taxa
 - Passaporte
-- Admissão de Estrangeiros
+- Política de Emprego
+- Refugiado
+- Serviço de Estrangeiros e Fronteiras
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188557:por
+  label: "Alterados os arts 3º, 13º, 15º, 16º, 21º, 23º, 24º, 25º, 35º, 36º, 37º, 38º, 40º, 41º, 43º, 49º, 53º, 54º, 56º,\
+    \ 57º, 58º, 60º, 73º, 76º, 77º, 83º, 85º, 86º, 87º, 88º, 90 º, 91º, 93º, 134º, 135º, 136º, 136º-A,137º, 140º, 141º, 143º,\
+    \ 144º, 145º, 146º, 147º, 148º, 149º, 153º, 154º, e 163º, aditdosa os arts 15º-A, 134º-A, 136º-A, 137º-A, 137º-B, 137º-C,\
+    \ e 137º-D, aditada a secção VI ao Cap. III, alterada a epigrafe do Cap. IX, a epígrafe da secção I do Cap.IX, aditada\
+    \ a subsecção I à secção I do Cap. IX, alterada a secção II do Cap. IX que passa a ser a subsecção II da secção I,a secção\
+    \ III do Cap. IX passa a ser a subsecção III da secção I, a secção IV do Cap. IX passa a ser a subsecção IV da secção\
+    \ I,aditada a secção II, III e IV ao Cap.IX, alteradas as epígrafes dos Caps. X, XI, XII, XIII, revogados os arts. 55º,155º\
+    \ e 159º e republicado em anexo o Dec Lei 244/98 de 08-Ago, alterado pelo presente diploma, pelo DEC LEI.34/2003.2003.02.25.MAI,\
+    \ DR.IS-A [47]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2003-188557
+  date: '2003-02-25'
 - type: cites
   target: eli:http
   label: null
@@ -136,16 +149,107 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/464/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/464/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:197754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:597142:por
+  label: "Rectificado pela DECL-RECT.3-A/2001.2001.01.31.PCM DR.IS-A [26]2º Supl de 31/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-a-2001-597142
+  date: '2001-01-31'
+- type: repealed_by
+  target: pt:dre:635814:por
+  label: "Revogado, a partir de 03.08.2007, o Dec Lei 244/98 de 08-Ago, alterado pelo presente diploma, pela LEI.23/2007.04.07.2007.AR,\
+    \ DR.IS [127] de 04.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
 article_structure:
-  article_count: 218
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 174
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:22Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +282,9 @@ Objecto
 
 3 - Sem prejuízo de referência expressa em contrário no presente diploma, a entrada, permanência, saída e afastamento de cidadão estrangeiro nacional de um Estado membro da União Europeia ou nacional de um Estado Parte do espaço económico europeu rege-se por legislação própria.
 
-###### Artigo 13.º — Visto de entrada
+Artigo 13.º
+
+Visto de entrada
 
 1 - ...
 
@@ -196,15 +302,21 @@ b) ...
 
 6 - Da decisão de anulação é dado conhecimento ao Alto-Comissário para a Imigração e Minorias Étnicas, adiante designado ACIME, com indicação dos respectivos fundamentos.
 
-###### Artigo 15.º — Finalidade e condições da estada
+Artigo 15.º
+
+Finalidade e condições da estada
 
 A fim de comprovar o objectivo e condições da estada, poderá ser solicitado ao cidadão estrangeiro a apresentação dos documentos necessários para o efeito.
 
-###### Artigo 18.º — Competência para recusar a entrada
+Artigo 18.º
+
+Competência para recusar a entrada
 
 A recusa da entrada em território nacional é da competência do director do Serviço de Estrangeiros e Fronteiras, com possibilidade de delegação no director central de fronteiras e nos directores regionais, os quais, por sua vez, a podem subdelegar.
 
-###### Artigo 21.º — Responsabilidade dos transportadores
+Artigo 21.º
+
+Responsabilidade dos transportadores
 
 1 - ...
 
@@ -214,11 +326,15 @@ A recusa da entrada em território nacional é da competência do director do Se
 
 4 - ...
 
-###### Artigo 23.º — Recurso
+Artigo 23.º
+
+Recurso
 
 Da decisão de recusa de entrada cabe recurso contencioso a interpor nos termos da lei.
 
-###### Artigo 30.º — Competência para a concessão de vistos
+Artigo 30.º
+
+Competência para a concessão de vistos
 
 1 - ...
 
@@ -228,7 +344,9 @@ b) ...
 
 2 - Compete às entidades referidas no n.º 1 solicitar os pareceres, informações e demais elementos necessários para a instrução dos pedidos.
 
-###### Artigo 36.º — Visto de trabalho
+Artigo 36.º
+
+Visto de trabalho
 
 1 - O visto de trabalho destina-se a permitir ao seu titular a entrada em território português a fim de exercer temporariamente uma actividade profissional, subordinada ou não, nos termos do disposto nos números seguintes.
 
@@ -238,7 +356,9 @@ b) ...
 
 4 - O visto de trabalho é válido para múltiplas entradas em território português e pode ser concedido para permanência até um ano.
 
-###### Artigo 37.º — Tipos de vistos de trabalho
+Artigo 37.º
+
+Tipos de vistos de trabalho
 
 ...
 
@@ -250,7 +370,9 @@ c) ...
 
 d) Visto de trabalho IV, para exercício de uma actividade profissional subordinada.
 
-###### Artigo 38.º — Visto de estada temporária
+Artigo 38.º
+
+Visto de estada temporária
 
 1 - ...
 
@@ -268,7 +390,9 @@ c) ...
 
 5 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se familiares os membros da família referidos no n.º 1 do artigo 57.º
 
-###### Artigo 40.º — Vistos sujeitos a consulta prévia
+Artigo 40.º
+
+Vistos sujeitos a consulta prévia
 
 1 - ...
 
@@ -284,7 +408,9 @@ b) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 41.º — Oferta de emprego
+Artigo 41.º
+
+Oferta de emprego
 
 1 - O acesso de cidadãos não comunitários ao exercício de actividades de trabalho subordinado em território português pode ser autorizado, devendo, porém, ter-se em consideração que a oferta de emprego é prioritariamente satisfeita por trabalhadores comunitários, bem como por trabalhadores não comunitários com residência legal no País.
 
@@ -294,7 +420,9 @@ b) ...
 
 4 - O Instituto do Emprego e Formação Profissional, em articulação com a Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas do Ministério dos Negócios Estrangeiros, desenvolverá, no âmbito de protocolos e acordos bilaterais, os mecanismos necessários à satisfação das ofertas de emprego não satisfeitas a nível nacional e comunitário, desde que o empregador manifeste interesse no recrutamento de trabalhadores oriundos de países terceiros.
 
-###### Artigo 43.º — Parecer favorável
+Artigo 43.º
+
+Parecer favorável
 
 1 - O visto de residência para exercício de trabalho subordinado e o visto de trabalho IV só podem ser concedidos com parecer favorável da Inspecção-Geral do Trabalho (IGT), ou da respectiva secretaria regional, no caso de a actividade ser exercida nas Regiões Autónomas, mediante requerimento fundamentado apresentado pela entidade empregadora.
 
@@ -308,13 +436,19 @@ b) Inexistência de garantia escrita da entidade empregadora de que prescinde do
 
 c) A actividade para a qual o visto é requisitado não constar do relatório elaborado pelo Governo, nos termos do artigo 36.º, ou exceder o número de postos de trabalho nele considerados necessários.
 
-###### Artigo 50.º — Competência para a concessão de vistos
+Artigo 50.º
+
+Competência para a concessão de vistos
 
 É competente para a concessão dos vistos referidos na presente secção o director do Serviço de Estrangeiros e Fronteiras, com a possibilidade de delegação no director central de fronteiras e nos directores regionais, os quais podem, por sua vez, subdelegar.
 
-### CAPÍTULO IV — Permanência
+CAPÍTULO IV
 
-###### Artigo 52.º — Prorrogação de permanência
+Permanência
+
+Artigo 52.º
+
+Prorrogação de permanência
 
 1 - Aos estrangeiros admitidos em território nacional, com ou sem exigência de visto, possuidores de documento de viagem válido reconhecido, que desejarem permanecer no País por período de tempo superior ao facultado à entrada pode ser prorrogada a permanência.
 
@@ -322,7 +456,9 @@ c) A actividade para a qual o visto é requisitado não constar do relatório el
 
 3 - Salvo em casos devidamente fundamentados, a prorrogação da permanência a que se refere o n.º 1 só será concedida desde que se mantenham os motivos que permitiram a admissão do cidadão estrangeiro em território nacional.
 
-###### Artigo 53.º — Limites de permanência
+Artigo 53.º
+
+Limites de permanência
 
 1 - A prorrogação de permanência pode ser concedida:
 
@@ -348,11 +484,15 @@ e) Até dois anos, se o interessado for titular de um visto de trabalho.
 
 7 - A prorrogação de permanência será concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do Ministro da Administração Interna.
 
-###### Artigo 54.º — Competência
+Artigo 54.º
+
+Competência
 
 A concessão de prorrogação de permanência é da competência exclusiva do director do Serviço de Estrangeiros e Fronteiras com faculdade de delegação nos directores regionais, os quais a podem subdelegar.
 
-###### Artigo 55.º — Autorização de permanência
+Artigo 55.º
+
+Autorização de permanência
 
 1 - Até à aprovação do relatório previsto no artigo 36.º e em casos devidamente fundamentados, pode ser autorizada a permanência a cidadãos estrangeiros que não sejam titulares de visto adequado e que reúnam as seguintes condições:
 
@@ -388,7 +528,9 @@ c) Certificado do registo criminal.
 
 9 - A autorização de permanência será concedida sob a forma de vinheta autocolante de modelo a aprovar por portaria do Ministro da Administração Interna.
 
-###### Artigo 56.º — Direito ao reagrupamento familiar
+Artigo 56.º
+
+Direito ao reagrupamento familiar
 
 1 - Ao cidadão residente é reconhecido o direito ao reagrupamento familiar com os membros da família que se encontrem fora do território nacional, que com ele tenham vivido noutro país ou que dele dependam.
 
@@ -400,7 +542,9 @@ c) Certificado do registo criminal.
 
 5 - No caso de indeferimento do pedido, deve ser enviada cópia da decisão, com os respectivos fundamentos, ao ACIME e ao Conselho Consultivo para os Assuntos da Imigração.
 
-###### Artigo 57.º — Destinatários
+Artigo 57.º
+
+Destinatários
 
 1 - Para efeitos do disposto nos n.os 1 e 2 do artigo anterior, consideram-se membros da família do residente:
 
@@ -418,11 +562,15 @@ e) ...
 
 3 - Ao membro da família será emitido um título de residência de validade idêntica ao do requerente.
 
-###### Artigo 58.º — Familiares de cidadãos portugueses
+Artigo 58.º
+
+Familiares de cidadãos portugueses
 
 Ao estrangeiro membro da família de cidadão português ou de cidadão nacional de um país membro do espaço económico europeu é emitido um cartão de residência de harmonia com o disposto no [Decreto-Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1993-626465), de 3 de Março.
 
-###### Artigo 87.º — Dispensa de visto de residência
+Artigo 87.º
+
+Dispensa de visto de residência
 
 1 - Não carecem de visto para obtenção de autorização de residência os estrangeiros:
 
@@ -456,13 +604,17 @@ o) Que tenham sido titulares de autorização de permanência durante um períod
 
 2 - Para efeitos do disposto na alínea b) do n.º 1, consideram-se familiares os membros da família previstos no n.º 1 do artigo 57.º
 
-###### Artigo 88.º — Regime excepcional
+Artigo 88.º
+
+Regime excepcional
 
 1 - Quando se verifiquem situações extraordinárias, a que não sejam aplicáveis as disposições previstas nos artigos 56.º e 87.º, bem como no artigo 10.º da [Lei n.º 15/98](https://diariodarepublica.pt/dr/detalhe/lei/15-1998-197754), de 26 de Março, pode o Ministro da Administração Interna, a título excepcional, determinar a concessão de autorização de residência por interesse nacional a cidadãos estrangeiros que não preencham os requisitos exigidos no presente diploma.
 
 2 - ...
 
-###### Artigo 91.º — Renovação da autorização de residência
+Artigo 91.º
+
+Renovação da autorização de residência
 
 1 - ...
 
@@ -472,13 +624,17 @@ o) Que tenham sido titulares de autorização de permanência durante um períod
 
 4 - É correspondentemente aplicável o disposto no n.º 5 do artigo 56.º
 
-###### Artigo 100.º — Abandono voluntário do território nacional
+Artigo 100.º
+
+Abandono voluntário do território nacional
 
 1 - O cidadão estrangeiro que se encontre na situação prevista na alínea a) do artigo anterior poderá, em casos fundamentados, não ser detido nos termos do artigo 119.º, mas notificado pelo Serviço de Estrangeiros e Fronteiras para abandonar voluntariamente o território nacional no prazo que lhe for fixado, entre 10 e 20 dias.
 
 2 - ...
 
-###### Artigo 101.º — Pena acessória de expulsão
+Artigo 101.º
+
+Pena acessória de expulsão
 
 1 - A pena acessória de expulsão pode ser aplicada ao cidadão estrangeiro não residente no País, condenado por crime doloso em pena superior a 6 meses de prisão efectiva ou em pena de multa em alternativa à pena de prisão superior a 6 meses.
 
@@ -496,7 +652,9 @@ c) Que se encontrem em Portugal desde idade inferior a 10 anos e aqui residam ha
 
 5 - Sendo decretada a pena acessória de expulsão, a mesma será executada cumpridos que sejam dois terços da pena de prisão ou, cumprida metade da pena, por decisão do juiz de execução de penas, logo que julgue preenchidos os pressupostos que determinariam a concessão de saída precária prolongada ou liberdade condicional, em substituição destas medidas.
 
-###### Artigo 107.º — Medidas de coacção
+Artigo 107.º
+
+Medidas de coacção
 
 1 - ...
 
@@ -506,7 +664,9 @@ b) ...
 
 2 - São competentes para eventual aplicação de medidas de coacção os tribunais de pequena instância criminal ou de comarca do local onde for encontrado o cidadão estrangeiro.
 
-###### Artigo 119.º — Detenção de cidadão ilegal
+Artigo 119.º
+
+Detenção de cidadão ilegal
 
 1 - O estrangeiro que entre ou permaneça ilegalmente em território nacional será detido por autoridade policial e entregue ao Serviço de Estrangeiros e Fronteiras, acompanhado do respectivo auto, devendo o mesmo ser presente, no prazo máximo de quarenta e oito horas após a detenção, ao juiz competente para a sua validação e aplicação de medidas de coacção.
 
@@ -524,13 +684,17 @@ b) ...
 
 8 - Para efeitos da presente secção, é correspondentemente aplicável o disposto no artigo 136.º
 
-###### Artigo 136.º — Entrada e permanência ilegal
+Artigo 136.º
+
+Entrada e permanência ilegal
 
 1 - ...
 
 2 - Considera-se ilegal a permanência de estrangeiros em território português quando esta não tenha sido autorizada de harmonia com o disposto no presente diploma ou na lei reguladora do direito de asilo, bem como quando se tenha verificado a entrada ilegal nos termos do número anterior.
 
-###### Artigo 138.º — Taxas
+Artigo 138.º
+
+Taxas
 
 1 - ...
 
@@ -542,7 +706,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 139.º — Isenção ou redução de taxas
+Artigo 139.º
+
+Isenção ou redução de taxas
 
 1 - Sem prejuízo do disposto no artigo anterior, o director do Serviço de Estrangeiros e Fronteiras poderá, excepcionalmente, conceder a isenção ou redução de 50% do montante das taxas devidas pelos procedimentos previstos no presente diploma.
 
@@ -556,7 +722,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 140.º — Permanência ilegal
+Artigo 140.º
+
+Permanência ilegal
 
 1 - ...
 
@@ -570,19 +738,27 @@ d) De 93000$00 a 131000$00, se o período de permanência for superior a 180 dia
 
 2 - ...
 
-###### Artigo 141.º — Transporte de pessoa com entrada não autorizada no País
+Artigo 141.º
+
+Transporte de pessoa com entrada não autorizada no País
 
 As empresas transportadoras bem como todos quantos transportem para território português estrangeiros cuja entrada no País não seja autorizada ficam sujeitos, por cada um deles, à aplicação de uma coima de 272000$00 a 435000$00.
 
-###### Artigo 142.º — Falta de visto de escala
+Artigo 142.º
+
+Falta de visto de escala
 
 As empresas transportadoras bem como todos quantos transportem para um porto ou aeroporto nacional cidadãos estrangeiros não habilitados com visto de escala quando dele careçam ficam sujeitos, por cada estrangeiro, à aplicação de uma coima de 88000$00 a 196000$00.
 
-###### Artigo 143.º — Falta de declaração de entrada
+Artigo 143.º
+
+Falta de declaração de entrada
 
 À infracção do disposto no artigo 26.º corresponde a aplicação de uma coima de 8000$00 a 29000$00.
 
-###### Artigo 144.º — Exercício de actividade profissional não autorizado
+Artigo 144.º
+
+Exercício de actividade profissional não autorizado
 
 1 - O exercício de uma actividade profissional independente por estrangeiro não habilitado com o adequado visto de trabalho ou autorização de residência, quando exigível, fica sujeito à aplicação de uma coima de 44000$00 a 218000$00.
 
@@ -608,31 +784,43 @@ d) Tratando-se de grande empresa, de 1400000$00 a 4900000$00.
 
 8 - Em caso de não pagamento das quantias em dívida respeitantes a créditos salariais decorrentes de trabalho efectivamente prestado, o respectivo apuramento, realizado em auto de notícia ou inquérito prévio, constitui título executivo, aplicando-se as normas do processo comum de execução para pagamento de quantia certa.
 
-###### Artigo 145.º — Falta de apresentação de documento de viagem
+Artigo 145.º
+
+Falta de apresentação de documento de viagem
 
 À infracção ao disposto no artigo 79.º corresponde a aplicação de uma coima de 10000$00 a 22000$00.
 
-###### Artigo 146.º — Falta de pedido de título de residência
+Artigo 146.º
+
+Falta de pedido de título de residência
 
 À infracção ao disposto no n.º 2 do artigo 89.º corresponde a aplicação de uma coima de 10000$00 a 22000$00.
 
-###### Artigo 147.º — Não renovação atempada de autorização de residência
+Artigo 147.º
+
+Não renovação atempada de autorização de residência
 
 Ao cidadão estrangeiro que solicite a renovação da autorização de residência temporária 30 dias após ter expirado a sua validade será aplicada uma coima de 12000$00 a 56000$00.
 
-###### Artigo 148.º — Inobservância de determinados deveres
+Artigo 148.º
+
+Inobservância de determinados deveres
 
 1 - À infracção dos deveres de comunicação previstos no artigo 95.º corresponde a aplicação de uma coima de 8000$00 a 17000$00.
 
 2 - À inobservância do dever previsto no artigo 9.º corresponde a aplicação de uma coima de 8000$00 a 17000$00.
 
-###### Artigo 149.º — Falta de comunicação do alojamento
+Artigo 149.º
+
+Falta de comunicação do alojamento
 
 1 - Por cada boletim de alojamento que deixe de ser apresentado nos termos dos n.os 1 ou 2 do artigo 98.º ou por cada cidadão estrangeiro não registado na lista ou no suporte magnético em conformidade com o disposto nos n.os 3 e 4 do mesmo artigo será aplicada uma coima de 8000$00 a 29000$00.
 
 2 - ...
 
-###### Artigo 155.º — Remessa de sentenças
+Artigo 155.º
+
+Remessa de sentenças
 
 ...
 
@@ -644,7 +832,9 @@ c) ...
 
 d) ...
 
-###### Artigo 159.º — Apoio ao regresso voluntário
+Artigo 159.º
+
+Apoio ao regresso voluntário
 
 1 - O Estado poderá apoiar o regresso voluntário aos países de origem, no âmbito de programas de cooperação estabelecidos com a Organização Internacional para as Migrações, de estrangeiros que preencham as condições exigíveis.
 
@@ -654,13 +844,17 @@ d) ...
 
 4 - Não serão sujeitos à medida prevista no n.º 2 os cidadãos que tenham beneficiado de um regime de protecção temporária.
 
-###### Artigo 160.º — Dever de colaboração
+Artigo 160.º
+
+Dever de colaboração
 
 1 - Todos os serviços e organismos da Administração Pública têm o dever de se certificarem de que as entidades com as quais celebrem contratos administrativos não recebem trabalho prestado por cidadãos estrangeiros em situação ilegal.
 
 2 - Os serviços e organismos acima referidos podem rescindir, com justa causa, os contratos celebrados se, em data posterior à sua outorga, as entidades privadas receberem trabalho prestado por cidadãos estrangeiros em situação ilegal.
 
-###### Artigo 163.º — Disposições transitórias
+Artigo 163.º
+
+Disposições transitórias
 
 Até ao início da vigência da regulamentação prevista no presente diploma mantêm-se em vigor, em tudo o que o não contrarie, o Decreto Regulamentar n.º 65/2000, de 26 de Abril, e os restantes diplomas aprovados ao abrigo do [Decreto-Lei n.º 59/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1993-626471), de 3 de Março.»
 
@@ -722,15 +916,15 @@ O [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.
 
-**Promulgado em 26 de Dezembro de 2000.**
+Promulgado em 26 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Dezembro de 2000.**
+Referendado em 28 de Dezembro de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 Condições de entrada, permanência, saída e afastamento de estrangeiros do território português
 

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2014/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2014-25676934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9719ea5162c8cbec7c8fbbd86972afca54b7edc5786a6540a99cd538ecc43a4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a26c7d242404d9fa16a859c0186764398cd46973eae6f9cb93c3cc60639ef5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
 - Aproximação das Legislações
-- Instituição de Crédito
+- Atividade Seguradora
+- Banco de Portugal
 - Capital Social
 - CE Países
-- Co-seguro
+- Companhia de Seguros
 - Companhia Portuguesa de Resseguros
-- Supervisão Financeira
 - Contrato de Investimento
+- Contrato de Seguro
+- Co-seguro
 - Definição de Competências
+- Empresa Estrangeira
 - Empresa Europeia
-- União Europeia
 - Fiscalização
 - Fundo de Pensões
-- Banco de Portugal
 - Fundos Próprios
-- Seguro
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Mediação de Seguros
 - Mercado Financeiro
@@ -95,10 +95,10 @@ subjects:
 - Prestação de Serviços
 - Produto Financeiro
 - Resseguro
-- Companhia de Seguros
-- Instituição Financeira
+- Seguro
 - Sociedade de Investimento
-- Empresa Estrangeira
+- Supervisão Financeira
+- União Europeia
 relationships:
 - type: cites
   target: celex:31998L0078
@@ -141,15 +141,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
 article_structure:
-  article_count: 22
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:12Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +204,9 @@ Os artigos 156.º, 172.º-A, 172.º-B, 172.º-G e 172.º-I do Regime Jurídico d
 
 4 - Caso a empresa de seguros ou de resseguros sujeita à supervisão prevista no número anterior tenha como empresa mãe uma sociedade gestora de participações no setor dos seguros, uma empresa de seguros ou de resseguros de um país terceiro, uma companhia financeira mista ou uma sociedade gestora de participações mista de seguros, que seja também empresa mãe de outra empresa de seguros ou de resseguros autorizada noutro Estado-Membro da União Europeia, o Instituto de Seguros de Portugal deve chegar a acordo com a autoridade de supervisão congénere do Estado-Membro em questão para a designação daquela a quem cabe a responsabilidade pelo exercício da supervisão complementar.
 
-###### Artigo 172.º-A — [...]
+Artigo 172.º-A
+
+[...]
 
 [...]:
 
@@ -232,7 +234,9 @@ k) «Sociedade gestora de participações mista de seguros», uma empresa mãe q
 
 l) «Companhia financeira mista», uma companhia financeira na aceção da alínea l) do artigo 2.º do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelo Decreto-Lei n.º 18/2013, de 6 de fevereiro.
 
-###### Artigo 172.º-B — [...]
+Artigo 172.º-B
+
+[...]
 
 1 - [...]:
 
@@ -246,7 +250,7 @@ c) [...].
 
 3 - O exercício da supervisão complementar não implica que o Instituto de Seguros de Portugal supervisione as empresas de seguros ou de resseguros de um país terceiro, as sociedades gestoras de participações no setor dos seguros, as companhias financeiras mistas ou as sociedades gestoras de participações mistas de seguros, individualmente consideradas.
 
-###### Artigo 172.º-G
+Artigo 172.º-G
 
 Supervisão complementar de empresas de seguros ou de resseguros que sejam filiais de uma sociedade gestora de participações no setor dos seguros, de uma companhia financeira mista ou de uma empresa de seguros ou de resseguros de um país terceiro.
 
@@ -256,7 +260,9 @@ Supervisão complementar de empresas de seguros ou de resseguros que sejam filia
 
 3 - Se o cálculo previsto no n.º 1 revelar que a solvência da empresa de seguros ou de resseguros filial da sociedade gestora de participações no setor dos seguros, da companhia financeira mista ou da empresa de seguros ou de resseguros de país terceiro está ou pode vir a estar em risco, o Instituto de Seguros de Portugal determina o que for adequado à correção dessa situação ao nível da empresa de seguros ou de resseguros.
 
-###### Artigo 172.º-I — Nível de aplicação no que respeita às companhias financeiras mistas
+Artigo 172.º-I
+
+Nível de aplicação no que respeita às companhias financeiras mistas
 
 1 - Caso uma companhia financeira mista esteja sujeita a disposições equivalentes do presente diploma e do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelo Decreto-Lei n.º 18/2013, de 6 de fevereiro, nomeadamente em termos de supervisão baseada no risco, o Instituto de Seguros de Portugal, enquanto autoridade responsável pela supervisão complementar, pode, após consulta das demais autoridades competentes responsáveis pela supervisão de filiais, aplicar a essa companhia financeira mista apenas a disposição relevante do referido decreto-lei.
 
@@ -354,7 +360,9 @@ x) «Controlo», a relação entre uma empresa mãe e uma empresa filial ou uma 
 
 y) «Sociedade gestora de participações no setor dos seguros», uma empresa mãe que não seja uma companhia financeira mista e cuja atividade principal consista na aquisição e detenção de participações em empresas filiais, quando essas empresas sejam exclusiva ou principalmente empresas de seguros, empresas de resseguros ou empresas de seguros ou de resseguros de um país terceiro, sendo pelo menos uma destas filiais uma empresa de seguros ou uma empresa de resseguros.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -366,7 +374,9 @@ y) «Sociedade gestora de participações no setor dos seguros», uma empresa m�
 
 5 - As sociedades autorizadas a gerir organismos de investimento coletivo em valores mobiliários e as sociedades autorizadas a gerir organismos de investimento alternativo são incluídas no subsetor a que pertencem no seio do grupo e, se não pertencerem exclusivamente a um subsetor no seio do grupo, são incluídas no subsetor financeiro de menor dimensão.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -386,7 +396,9 @@ d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Se o total do balanço do subsetor financeiro de menor dimensão do grupo exceder os seis mil milhões de euros previstos na subalínea ii) da alínea b) do n.º 2 do artigo 3.º, mas não atingir a média do rácio dos 10 % referido na subalínea i) da alínea b) do n.º 2 do mesmo artigo, as autoridades de supervisão relevantes podem decidir, de comum acordo, não considerar o grupo um conglomerado financeiro ou não aplicar as regras da supervisão complementar relativas à concentração de riscos, às operações intragrupo, aos processos de gestão de riscos e aos mecanismos de controlo interno, se entenderem que a inclusão do grupo no âmbito do presente decreto-lei ou a aplicação das referidas regras não é necessária, não é adequada ou induz em erro relativamente aos objetivos de supervisão complementar.
 
@@ -394,7 +406,9 @@ d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais
 
 3 - As decisões tomadas de acordo com o presente artigo são notificadas às demais autoridades de supervisão interessadas pelo coordenador, ou pela autoridade que seria o coordenador caso o grupo fosse considerado um conglomerado financeiro e, salvo em circunstâncias excecionais, são divulgadas publicamente pelas autoridades de supervisão.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -404,7 +418,9 @@ d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -424,7 +440,9 @@ d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais
 
 9 - O exercício da supervisão complementar a nível do conglomerado financeiro não implica, para as autoridades de supervisão, a obrigação de sujeitarem a supervisão, numa base individual, as companhias financeiras mistas, as entidades regulamentadas de países terceiros de um conglomerado financeiro ou as entidades não regulamentadas de um conglomerado financeiro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -436,7 +454,9 @@ d) Excluir uma ou mais participações do subsetor de menor dimensão, caso tais
 
 5 - As companhias financeiras mistas e todas as entidades do conglomerado financeiro que integram o setor financeiro são incluídas no cálculo da adequação de fundos próprios, na forma e na medida definidas no anexo ao presente decreto-lei.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -452,7 +472,9 @@ c) Mecanismos que assegurem a produção de quaisquer dados e informações rele
 
 4 - As entidades regulamentadas publicam anualmente, ao nível do conglomerado financeiro, expressamente ou por remissão para informações equivalentes, uma descrição da sua estrutura jurídica, organizativa e de governo.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -480,7 +502,9 @@ vi) [...].
 
 5 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -506,7 +530,9 @@ i) Prestar ao Comité Conjunto das Autoridades Europeias de Supervisão as infor
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -520,7 +546,9 @@ i) Prestar ao Comité Conjunto das Autoridades Europeias de Supervisão as infor
 
 6 - A cooperação e coordenação entre as autoridades de supervisão, incluindo as autoridades de supervisão relevantes de países terceiros, se for caso disso, são asseguradas através dos colégios de autoridades de supervisão criados nos subsetores relevantes.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [Anterior corpo do artigo]:
 
@@ -542,7 +570,9 @@ h) [...].
 
 2 - As autoridades de supervisão relevantes cooperam plenamente com o coordenador na realização de testes de esforço.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -564,15 +594,15 @@ Os critérios previstos na subalínea iii) da alínea n) do artigo 2.º do Decre
 
 Visto e aprovado em Conselho de Ministros de 22 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 17 de junho de 2014.**
+Promulgado em 17 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de junho de 2014.**
+Referendado em 19 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -584,7 +614,9 @@ Adequação de fundos próprios
 
 O cálculo da adequação complementar dos fundos próprios das entidades sujeitas a supervisão complementar realiza-se em conformidade com os princípios técnicos e com um dos métodos descritos no presente anexo.
 
-### CAPÍTULO I — Princípios técnicos
+CAPÍTULO I
+
+Princípios técnicos
 
 1 - Independentemente do método utilizado para o cálculo de adequação dos fundos próprios das entidades do conglomerado financeiro, o coordenador e, se necessário, as restantes autoridades de supervisão envolvidas zelam para que se apliquem os princípios técnicos relevantes.
 
@@ -634,7 +666,9 @@ a) Aplicam-se aos fundos próprios e aos requisitos de solvência das entidades 
 
 b) As companhias financeiras mistas estão sujeitas ao requisito de solvência nocional calculado em conformidade com as regras setoriais do subsetor mais importante do conglomerado financeiro.
 
-### CAPÍTULO II — Métodos de cálculo
+CAPÍTULO II
+
+Métodos de cálculo
 
 8 - Método 1 - método da «consolidação contabilística»:
 

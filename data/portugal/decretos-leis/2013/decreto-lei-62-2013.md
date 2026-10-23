@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2013/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2013-261160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96b9af6063f95cfde47793fe2b613304557759c521803a6d481ae4a4220d040d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca547e4339b6b2718f4a317f4890a4fb219a6c0d49f2db3180ba49b09a8986a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Empresa
+- Cobrança de Dívidas
 - Código Comercial
+- Comércio
+- Crédito
+- Direito Comercial
+- Empresa
 - Empresa Pública
-- Pagamento
 - Indemnização
 - Injunção
-- Publicitação
 - JURO de MORA
-- Direito Comercial
-- Crédito
 - Organismo do Estado
-- Cobrança de Dívidas
+- Pagamento
+- Publicitação
 - Regime Jurídico
 - TAXA de JURO
-- Comércio
 - Transacção Comercial
 relationships:
 - type: amended_by
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:32Z'
   warnings: []
   errors: []
 ---
@@ -318,12 +318,12 @@ O presente diploma entra em vigor no primeiro dia do segundo mês seguinte ao da
 
 Visto e aprovado em Conselho de Ministros de 26 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de maio de 2013.**
+Promulgado em 8 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2013.**
+Referendado em 9 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21100/0929409298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/2015/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2015-70832991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 240d865a750c4560cb2daa470e4281b0c71f5fc72c82c012b06c4d17bb4bb0fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a20eb89f038f15c71c0b4cc833b412acde0e014e907ba1e3d927a998101f6b1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ERC
+- Autoridade Nacional de Comunicações
 - Definição de Competências
 - Equipamento Eletrónico
+- ERC
 - Especificação Técnica
-- Instalações Radioelétricas
 - Fiscalização
-- Instituto das Comunicações de Portugal
 - Gabinete para os Meios de Comunicação Social
+- Instalações Radioelétricas
+- Instituto das Comunicações de Portugal
 - Licenciamento
 - Operador de Radiodifusão
-- Radiodifusão
-- Sistema de Informação
 - Programa
+- Radiodifusão
 - RDS
-- Autoridade Nacional de Comunicações
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://d
@@ -126,16 +126,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:185337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69889523:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:11Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +236,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 8.º, 9.º, 10.º, 11.º e 12.º do [De
 
 2 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do disposto no presente diploma, entende-se por:
 
@@ -190,7 +252,9 @@ d) Radiotexto (RT) - a transmissão de texto codificado, não endereçado, de co
 
 e) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A operação do sistema RDS está sujeita a autorização da Autoridade Nacional de Comunicações (ANACOM), a qual só pode ser conferida a operadores de rádio.
 
@@ -212,7 +276,9 @@ d) A intenção de utilizar radiotexto na operação do sistema.
 
 6 - A prestação de serviços de comunicações eletrónicas está sujeita ao disposto na [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de fevereiro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O nome do canal de programa é atribuído pela ANACOM, a requerimento do operador de rádio.
 
@@ -228,7 +294,9 @@ d) A intenção de utilizar radiotexto na operação do sistema.
 
 7 - Quaisquer alterações ao nome do canal de programa atribuído devem ser promovidas pelos operadores de rádio junto da ANACOM, seguindo-se o procedimento previsto no presente artigo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -238,19 +306,25 @@ d) A intenção de utilizar radiotexto na operação do sistema.
 
 4 - Excetuam-se do disposto no número anterior os operadores de rádio autorizados a utilizar estações retransmissoras nos termos do artigo 14.º da [Lei n.º 54/2010](https://diariodarepublica.pt/dr/detalhe/lei/54-2010-306576), de 24 de dezembro, alterada pelas [Leis n.os 38/2014](https://diariodarepublica.pt/dr/detalhe/lei/38-2014-25345891), de 9 de julho, e [78/2015](https://diariodarepublica.pt/dr/detalhe/lei/78-2015-69889523), de 29 de julho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A atribuição do nome do canal de programa e a autorização para operação do sistema RDS, bem como as respetivas alterações, estão sujeitas ao pagamento de taxas, as quais são fixadas nos termos do n.º 2 do artigo 37.º dos Estatutos da ANACOM, aprovados pelo [Decreto-Lei n.º 39/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2015-66761449), de 16 de março.
 
 2 - As taxas referidas no número anterior constituem receita da ANACOM.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente diploma compete à ANACOM, cabendo à ERC a fiscalização do conteúdo das mensagens difundidas em radiotexto.
 
 2 - Para o exercício das competências de fiscalização que lhe são conferidas pelo presente diploma, a ANACOM pode solicitar a colaboração de outras entidades.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -308,7 +382,9 @@ d) Se praticadas por grande empresa, de (euro) 5 000 a (euro) 25 000.
 
 9 - [Anterior n.º 5].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a aplicação das coimas previstas no presente diploma é da competência da ANACOM, cabendo a esta entidade a instrução dos respetivos processos.
 
@@ -316,7 +392,9 @@ d) Se praticadas por grande empresa, de (euro) 5 000 a (euro) 25 000.
 
 3 - O montante das coimas reverte em 60 % para o Estado e em 40 % para a ANACOM ou para a ERC, consoante o caso.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Compete à ANACOM, ouvida a ERC, a definição, por regulamento:
 
@@ -348,15 +426,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 21 de outubro de 2015.**
+Promulgado em 21 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2015.**
+Referendado em 22 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/214-1980-475150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fd028bc2bfa3d7b4de7c279f7b4b4f1aec285f7aea020fe4f68fd49bbdeca23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f33fe15ba98d0fead8158800fd5c990a7428533b8cf6424a34aef1ab81091f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Companhia das Lezírias
+- Empréstimo Interno
+- Saneamento Económico e Financeiro
+relationships:
+- type: cites
+  target: pt:dre:240848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508778:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:31Z'
   warnings: []
   errors: []
 ---
@@ -125,11 +144,11 @@ Caixa Económica de Lisboa;
 
 e a Companhia das Lezírias, E. P., é estabelecido o seguinte protocolo, que constitui complemento do Acordo de Reequilíbrio Económico e Financeiro entre o Estado e a Companhia das Lezírias, E. P.
 
-###### Artigo 1.º - 1 - Os créditos a curto prazo discriminados no anexo I, que, para todos os efeitos, constitui parte integrante deste protocolo, serão transformados em empréstimo obrigacionista logo que a empresa seja autorizada, por portaria a publicar nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, a proceder à emissão do referido empréstimo e nas condições definidas no anexo II, que, para todos os efeitos, constitui também parte integrante deste protocolo.
+Artigo 1.º - 1 - Os créditos a curto prazo discriminados no anexo I, que, para todos os efeitos, constitui parte integrante deste protocolo, serão transformados em empréstimo obrigacionista logo que a empresa seja autorizada, por portaria a publicar nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, a proceder à emissão do referido empréstimo e nas condições definidas no anexo II, que, para todos os efeitos, constitui também parte integrante deste protocolo.
 
 2 - Os créditos referentes à Caixa Geral de Depósitos e à Caixa Económica de Lisboa serão integrados nos empréstimos obrigacionistas logo que sejam assinados os respectivos contratos de dação em pagamento, até perfazerem os montantes indicados no referido anexo I, mantendo-se portanto no regime de crédito em que se encontram até àquela data; esta operação será, contudo, objecto de negociações específicas suplementares com as duas instituições de crédito interessadas, de que resultará um protocolo adicional a este.
 
-###### Art. 2.º Os bancos dão o seu acordo, nos termos legais, à efectivação deste esquema, desde que:
+Art. 2.º Os bancos dão o seu acordo, nos termos legais, à efectivação deste esquema, desde que:
 
 a) Seja assinado o Acordo de Reequilíbrio Económico e Financeiro entre o Estado e a Companhia das Lezírias, E. P., previsto no [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, e nos termos da proposta apresentada pela comissão de apreciação nomeada por despacho conjunto de 30 de Junho de 1978 para essa finalidade;
 
@@ -165,7 +184,7 @@ António Pedro de Sá Alves Sameiro.
 
 ## ANEXO I — Dívidas às instituições de crédito em 31 de Dezembro de 1978
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10100/08530855.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10100/08530855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10100/08530855.pdf)
 
 ## ANEXO II — Condições de emissão das obrigações
 

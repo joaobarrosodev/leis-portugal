@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/21200/12751275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1971-630421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feab9a93a3ffa1000c1aab7b0a1549ef8607a9820db46eca473c5db1c4461de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d8dc0e75dc2aa7cd6f68a5d98be470bfda418d796784a86d200179bc7e53d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,34 @@ relationships:
   target: pt:dre:409554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625592:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409553:por
+  label: "Revogada pela PORT.613/76.15.10.1976.MCT, DR.IS [242] de 15.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-1976-409553
+  date: '1976-10-15'
+- type: repealed_by
+  target: pt:dre:409554:por
+  label: "Revogada pela PORT.614/76.15.10.1976.MCT, DR.IS [242] de 15.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/614-1976-409554
+  date: '1976-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:20Z'
   warnings: []
   errors: []
 ---
@@ -91,4 +109,4 @@ de 8 de Setembro
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, com fundamento no estatuído nos artigos 3.º e 5.º do [Decreto-Lei n.º 38292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38292-1951-625592), de 8 de Junho de 1951, fixar, pela ocupação de terrenos e instalações do Aeroporto da Horta, as mesmas taxas e prazos de pagamento estabelecidos pela [Portaria n.º 24334](https://diariodarepublica.pt/dr/detalhe/portaria/24334-1969-216110), de 4 de Outubro de 1969, para o Aeroporto de Ponta Delgada.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16100/26042607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1983-453776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c850eadeee230d5a671aa983c5cf126590380cacd2cbe5cc1a97a9cb71cef10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 659a0bd186eb6cb58a0da5c9a999f7c0d44e4840c821d260d19103312b1c9dd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Exame Médico
+- Instituto Superior de Educação Física
 relationships:
 - type: amended_by
   target: pt:dre:226843:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:387317:por
+  label: "Dada nova redacção ao nº 4 do nº 2, nºs. 1 e 7 do nº 4, nº 3 do nº 6, do nº 2 do nº 9 e revogado o nº 12 do presente\
+    \ diploma, pela PORT.415/84.27.06.1984.ME, DR.IS [147] de 27.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-1984-387317
+  date: '1984-06-27'
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226843:por
+  label: "Revogado o presente diploma, alterado pela Port 415/84, de 27-Jun, pela PORT.254/86.26.05.1986.MEC, DR.IS [120]\
+    \ de 26.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-1986-226843
+  date: '1986-05-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:18Z'
   warnings: []
   errors: []
 ---
@@ -279,11 +310,11 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 8 de Junho de 1983.**
+Assinada em 8 de Junho de 1983.
 
 Pelo Ministro da Educação, Alberto Romão Dias, Secretário de Estado do Ensino Superior.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16100/26042607.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16100/26042607.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16100/26042607.pdf)
 
 ## ANEXO II — Exame médico
 

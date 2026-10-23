@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18751878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2007-520467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d0d9ed9af651996a0fa655f401e5eeacd73a17310c91a2fe7926ccaa10e84b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34218cc84dcc7ea593722ad2056763d597b3ffafa39c65790d9e60ed070204d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
 - Definição de Competências
 - INA
+- Ministério das Finanças e da Administração Pública
 - Orgânica
 - Regime de Pessoal
 relationships:
@@ -75,6 +75,31 @@ relationships:
   target: pt:dre:542455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinto o Instituto Nacional de Administração, I. P., cuja orgânica foi aprovada pelo presente diploma, e estatutos\
+    \ aprovados pela Port 216/2011, de 31-Maio, pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011, que determina,\
+    \ nos termos dos art.s 30º e 31º, a fusão e integração das suas atribuições na Direcção-Geral da Qualificação dos Trabalhadores\
+    \ em Funções Públicas, à excepção das atribuições relativas ao desenvolvimento de estudos aplicados e projectos de inovação\
+    \ e de apoio à mudança organizacional que são integradas na Direcção-Geral da Administração e do Emprego Público.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: amended_by
+  target: pt:dre:542455:por
+  label: "Determinada a sucessão pela DGAEP nas atribuições do ex-Instituto Nacional de Administração, I. P. (INA, I. P.),\
+    \ nos domínios do desenvolvimento de estudos aplicados e projetos de inovação e de apoio à mudança organizacional, pelo\
+    \ DR.27/2012.29.02.2012.MF, DR.IS [43] de 29.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-2012-542455
+  date: '2012-02-29'
+- type: amended_by
+  target: pt:dre:542459:por
+  label: "Determinada a sucessão pelo INA (Direcção-Geral da Qualificação dos Trabalhadores em Funções Públicas) das atribuições\
+    \ do Instituto Nacional de Administração, I. P. (que é extinto), com exceção das relativas ao desenvolvimento de estudos\
+    \ aplicados e projetos de inovação e de apoio à mudança organizacional que são integradas na Direção-Geral da Administração\
+    \ e do Emprego Público; e revogado, a partir de 01.03.2012 o presente diploma, pelo DEC LEI.48/2012.29.02.2012.MF, DR.IS\
+    \ [43] de 29.02.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2012-542459
+  date: '2012-02-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/1992/07/21/p/dre
   label: null
@@ -95,16 +120,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/607/1995/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/607/1995/06/20/p/dre
+- type: cites
+  target: pt:dre:292305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:31Z'
   warnings: []
   errors: []
 ---
@@ -287,12 +332,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

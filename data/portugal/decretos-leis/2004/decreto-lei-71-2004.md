@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/072a00/19141916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2004/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2004-211032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b60db4456e668246e88758d7fe013e90930a3a71d6c714dca42091eadd246688
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6953152f95877c766e9e7544bf9987305c98fa5170633ba1c01305a7cb5ebf8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Armazenagem
+- Combustível
 - Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
 - Petróleo
 - Política Energética
 - Produto Petrolífero
 - Reservas de Combustível
-- Combustível
 relationships:
 - type: amended_by
   target: pt:dre:483938:por
@@ -95,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/339-d/2001/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/339-d/2001/12/28/p/dre
+- type: cites
+  target: pt:dre:344926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483938:por
+  label: "Revogado pelo o DEC LEI.165/2013.16.12.2013.MAOTE, DR.IS [243] de 16.12.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2013-483938
+  date: '2013-12-16'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:58Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +174,9 @@ c) ...
 
 d) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para o cálculo das quantidades em reserva só são considerados produtos petrolíferos, petróleo bruto, produtos semiacabados e produtos de mistura desde que detidos em:
 
@@ -197,7 +216,9 @@ f) ...
 
 9 - ...
 
-###### Artigo 7.º — Manutenção de reservas por terceiros e no estrangeiro
+Artigo 7.º
+
+Manutenção de reservas por terceiros e no estrangeiro
 
 1 - ...
 
@@ -281,12 +302,12 @@ f) ...»
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 12 de Março de 2004.**
+Promulgado em 12 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

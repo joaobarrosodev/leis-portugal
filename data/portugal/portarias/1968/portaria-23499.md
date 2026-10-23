@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/17300/10601061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23499-1968-273607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f27cf8c6c5034253c32b181392508fb32eaf0d4ab720054e8e6137dc83b660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ae6e8821054eebe7eaae66bd568391754be70adb312aa76f2bdb8eb1dff0f99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso
+- Estatuto do Oficial da Armada
+- JURI
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:140319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217096:por
+  label: "Alterado o n.º 1 pela PORT.24435.26.11.1969.MMAR, DG.IS [277] de 26.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24435-1969-217096
+  date: '1969-11-26'
+- type: amended_by
+  target: pt:dre:159904:por
+  label: "Alterado o n.º 1 (na redacção da Portaria 24435 de 26 de Novembro de 19699 pela PORT.77/75.09.01.1975.CCEMFA, DG.IS\
+    \ [32] de 07.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/77-1975-159904
+  date: '1975-01-09'
+- type: repealed_by
+  target: pt:dre:140319:por
+  label: "Revogada pela PORT.120/77.11.03.1977.CR, DR.IS [59] de 11.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1977-140319
+  date: '1977-02-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:18Z'
   warnings: []
   errors: []
 ---

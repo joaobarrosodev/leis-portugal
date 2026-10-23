@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2012/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2012-544388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dad88847762bdbd2fe84f0c17c2bffb744dd44da82dbd6df067c5cba031f5b7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c48a2f352c7d8f6b4afdfacbc23813314f4cbbadc02c1411721f8ef421d57772
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Combustível de Substituição
-- Transporte Terrestre
 - Combustível
+- Combustível de Substituição
+- Comércio
+- Energia não Poluente
 - Gasóleo
 - Gasolina
 - Importação
-- Produtor
 - Indústria Transformadora
-- Comércio
+- Produtor
 - Transporte
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:192395:por
+  label: "Prorrogado até 11.07.2014 o período de suspensão da vigência do n.º 1 do art. 15.º do Dec Lei n.º 117/2010, de 25-out,\
+    \ na redação do presente diploma, pelo DEC LEI.224/2012.16.10.2012.MEE, DR.IS [200] de 16.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2012-192395
+  date: '2012-10-16'
+- type: amended_by
+  target: pt:dre:75644170:por
+  label: Alterado o art. 11.º do Dec. Lei 117/2010 de 25-out, na redação do presente diploma, pelo(a) Decreto-Lei n.º 69/2016
+    - Diário da República n.º 211/2016, Série I de 2016-11-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2016-75644170
+  date: '2016-11-03'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Derrogada durante o ano de 2017 a al. d) e mantida como meta de incorporação a prevista na al. c) ambas do n.º 1
+    do art. 11.º do Dec Lei 117/2010, de 25-out, na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República
+    n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Alterado, a partir de 01.01.2018, o art. 11.º do Dec Lei 117/2010 de 25-out, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11 nos termos da al.
+    a) do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Derrogada, durante o ano de 2018, a al. d) e mantida como meta de incorporação a prevista na al. c) ambas do art.
+    11.º do Dec Lei 117/2010 de 25-out, com a redação dada pelo presente, pelo(a) Lei n.º 114/2017 - Diário da República n.º
+    249/2017, Série I de 2017-12-29, sem prejuízo do cumprimento das metas e objetivos para 2020 a que Portugal se encontra
+    vinculado, nos termos do disposto no art. 211.º desta útlima lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: celex:32009L0028
   label: null
@@ -101,13 +135,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:42Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +204,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 9 de Janeiro de 2012.**
+Promulgado em 9 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Janeiro de 2012.**
+Referendado em 10 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24377-1969-216284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da49d0a0c0fb3cee496963ba5c3e59fd78c16865af30b6cedb604940839ddcdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cbd7b62123500129e03a700332a5b9ff49c2d01b1d68b2e255891eaced95d08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:231279:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:07Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º O artigo 1.º e seu § 1.º passam a ter as seguintes redacções:
 
-###### Artigo 1.º Em cada uma das províncias de Angola e Moçambique é criada uma comissão de inscrição e classificação dos empreiteiros de obras públicas, presidida pelo presidente do Conselho Técnico de Obras Públicas, tendo como vice-presidente o director dos Serviços de Obras Públicas e Transportes e como vogais o presidente da Junta Autónoma de Estradas, o director dos Serviços de Portos, Caminhos de Ferro e Transportes, o director dos Serviços Hidráulicos, o presidente da Junta Provincial de Electrificação (Angola), o presidente do conselho de administração dos Serviços Autónomos de Electricidade (Moçambique), o director do Laboratório de Engenharia (Angola), o director do Laboratório de Ensaios de Materiais e Mecânica do Solo (Moçambique), um ajudante do procurador da República, um delegado de cada uma das seguintes origens:
+Artigo 1.º Em cada uma das províncias de Angola e Moçambique é criada uma comissão de inscrição e classificação dos empreiteiros de obras públicas, presidida pelo presidente do Conselho Técnico de Obras Públicas, tendo como vice-presidente o director dos Serviços de Obras Públicas e Transportes e como vogais o presidente da Junta Autónoma de Estradas, o director dos Serviços de Portos, Caminhos de Ferro e Transportes, o director dos Serviços Hidráulicos, o presidente da Junta Provincial de Electrificação (Angola), o presidente do conselho de administração dos Serviços Autónomos de Electricidade (Moçambique), o director do Laboratório de Engenharia (Angola), o director do Laboratório de Ensaios de Materiais e Mecânica do Solo (Moçambique), um ajudante do procurador da República, um delegado de cada uma das seguintes origens:
 
 a) Associação industrial;
 
@@ -112,7 +116,7 @@ e o chefe da secretaria central da Direcção dos Serviços de Obras Públicas e
 
 3.º O artigo 2.º e seus §§ 1.º e 2.º passam a ter as seguintes redacções:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
@@ -134,7 +138,7 @@ Subclasse B, obras de valor até 10000000$00.
 
 4.º O artigo 5.º e seu § único passam a ter as seguintes redacções:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 a) Certidão de matrícula no registo comercial e, no caso das sociedades, certidão da escritura da constituição e de todas as alterações operadas no pacto social;
 
@@ -150,29 +154,29 @@ c) Relação das obras executadas e que têm em curso, quer públicas, quer part
 
 5.º O artigo 6.º passa a ter a seguinte redacção:
 
-###### Art. 6.º Organizado o processo respectivo, a comissão colherá todos os elementos de informação sobre o pedido que julgar úteis, consultando quaisquer organismos públicos ou entidades particulares.
+Art. 6.º Organizado o processo respectivo, a comissão colherá todos os elementos de informação sobre o pedido que julgar úteis, consultando quaisquer organismos públicos ou entidades particulares.
 
 6.º O artigo 10.º passa a ter a seguinte redacção:
 
-###### Art. 10.º Serão suspensos os alvarás dos empreiteiros de obras públicas para os quais se não verifique o disposto no § 2.º do artigo 5.º e os dos que não cumpram o disposto no artigo 8.º, e enquanto o não cumprirem, os dos que forem declarados em estado de falência, enquanto não forem reabilitados, e os daqueles em cujas empresas tenha deixado de haver a maioria portuguesa, nos termos dos §§ 1.º e 2.º do artigo 4.º, ou tenha havido infracção ao disposto nos §§ 3.º e 4.º do mesmo preceito, enquanto aquela maioria não for restabelecida ou a infracção não se achar sanada.
+Art. 10.º Serão suspensos os alvarás dos empreiteiros de obras públicas para os quais se não verifique o disposto no § 2.º do artigo 5.º e os dos que não cumpram o disposto no artigo 8.º, e enquanto o não cumprirem, os dos que forem declarados em estado de falência, enquanto não forem reabilitados, e os daqueles em cujas empresas tenha deixado de haver a maioria portuguesa, nos termos dos §§ 1.º e 2.º do artigo 4.º, ou tenha havido infracção ao disposto nos §§ 3.º e 4.º do mesmo preceito, enquanto aquela maioria não for restabelecida ou a infracção não se achar sanada.
 
 7.º O artigo 12.º passa a ter a seguinte redacção:
 
-###### Art. 12.º A concessão dos alvarás, suas modificações, cassações e suspensões e a cessação destas serão publicadas no Boletim Oficial.
+Art. 12.º A concessão dos alvarás, suas modificações, cassações e suspensões e a cessação destas serão publicadas no Boletim Oficial.
 
 8.º O artigo 13.º passa a ter a seguinte redacção:
 
-###### Art. 13.º As comissões criadas por este decreto-lei elaborarão, no prazo de sessenta dias, o seu regulamento, a aprovar por portaria do governador-geral respectivo.
+Art. 13.º As comissões criadas por este decreto-lei elaborarão, no prazo de sessenta dias, o seu regulamento, a aprovar por portaria do governador-geral respectivo.
 
 9.º O § único do artigo 14.º passa a ter a seguinte redacção:
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 § único. Das deliberações tomadas sobre as reclamações haverá recurso para o governador-geral, que resolverá, ouvido o Conselho Técnico de Obras Públicas ou a Procuradoria da República, conforme o funcionamento do recurso.
 
 10.º O § 2.º do artigo 15.º passa a ter a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º ...
 
@@ -180,21 +184,21 @@ c) Relação das obras executadas e que têm em curso, quer públicas, quer part
 
 11.º O artigo 17.º passa a ter a seguinte redacção:
 
-###### Art. 17.º Os alvarás concedidos ou inscritos ao abrigo da legislação anterior manter-se-ão válidos desde que satisfaçam às disposições do presente diploma.
+Art. 17.º Os alvarás concedidos ou inscritos ao abrigo da legislação anterior manter-se-ão válidos desde que satisfaçam às disposições do presente diploma.
 
 12.º O artigo 18.º e seu § único passam a ter as seguintes redacções:
 
-###### Art. 18.º Pela passagem de alvará de empreiteiro será cobrada, em estampilha fiscal, a taxa de 0,25 por mil sobre o limite inferior da classe concedida, não podendo, todavia, aquela taxa ser inferior a 500$00.
+Art. 18.º Pela passagem de alvará de empreiteiro será cobrada, em estampilha fiscal, a taxa de 0,25 por mil sobre o limite inferior da classe concedida, não podendo, todavia, aquela taxa ser inferior a 500$00.
 
 § único. Sempre que um empreiteiro passe de uma classe de obras para outra de valor superior, pagará a taxa correspondente à diferença que se verificar, não podendo, porém, esta taxa ser inferior a 250$00.
 
 13.º O artigo 19.º passa a ter a seguinte redacção:
 
-###### Art. 19.º O expediente das comissões criadas por este diploma será assegurado pela secretaria central da Direcção dos Serviços de Obras Públicas e Transportes da respectiva província.
+Art. 19.º O expediente das comissões criadas por este diploma será assegurado pela secretaria central da Direcção dos Serviços de Obras Públicas e Transportes da respectiva província.
 
 14.º O artigo 20.º passa a ter a seguinte redacção, sendo-lhe aditado um § único.
 
-###### Art. 20.º São válidos em Angola e Moçambique os alvarás obtidos em qualquer destas províncias ou na metrópole, desde que feita a sua inscrição na comissão da província em que o empreiteiro pretende exercer a sua actividade.
+Art. 20.º São válidos em Angola e Moçambique os alvarás obtidos em qualquer destas províncias ou na metrópole, desde que feita a sua inscrição na comissão da província em que o empreiteiro pretende exercer a sua actividade.
 
 Esta inscrição será averbada no alvará e por ela é devida a taxa a que se refere o corpo do artigo 18.º
 
@@ -202,11 +206,11 @@ Esta inscrição será averbada no alvará e por ela é devida a taxa a que se r
 
 15.º O artigo 21.º passa a ter a seguinte redacção:
 
-###### Art. 21.º É dispensado o alvará e a inscrição dos artífices que por conta própria ou alheia executem obras ou trabalhos com elas relacionados de valor não superior a 150000$00.
+Art. 21.º É dispensado o alvará e a inscrição dos artífices que por conta própria ou alheia executem obras ou trabalhos com elas relacionados de valor não superior a 150000$00.
 
 16.º O artigo 22.º passa a ter a seguinte redacção, sendo-lhe aditado um § único:
 
-###### Art. 22.º A presente portaria entra em vigor nas províncias ultramarinas de Angola e Moçambique imediatamente após a publicação nos respectivos Boletins Oficiais do regulamento a que se refere o artigo 13.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
+Art. 22.º A presente portaria entra em vigor nas províncias ultramarinas de Angola e Moçambique imediatamente após a publicação nos respectivos Boletins Oficiais do regulamento a que se refere o artigo 13.º do [Decreto-Lei n.º 40623](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40623-1956-231279).
 
 § único. Na data de entrada em vigor da presente portaria são revogados o Diploma Legislativo n.º 3217, de 7 de Fevereiro de 1962, da província de Angola, e as Portarias n.os 17375 e 18831, respectivamente de 11 de Janeiro de 1964 e 18 de Agosto de 1965, da província de Moçambique.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266a00/70797081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/1995/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1995-691048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6d16af3132cf15e2050df348a509d5cf40b243a3353dd7e553c793a8838ff80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 230414b01426646214e7fedc39c7913ee91c3d15d37c1a068fbf0899ceca3e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Gestão de Resíduos
-- Garantia
 - CE Países
 - CEE
-- Transporte Marítimo
-- Multa
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
 - Direcção Geral do Ambiente
 - Fiscalização
+- Garantia
+- Gestão de Resíduos
 - Imersão de Resíduos
-- Resíduo
-- Proteção do Ambiente
+- Multa
 - Poluição Marinha
 - Poluição Transfronteiriça
+- Proteção do Ambiente
 - Regulamento CE
+- Resíduo
 - Seguro contra Danos
 - Seguro Obrigatório de Responsabilidade Civil
+- Transporte Marítimo
 - Transporte Transfronteiriço
 relationships:
 - type: amended_by
@@ -99,16 +99,21 @@ relationships:
   target: celex:31993R0259
   label: null
   source: http://data.europa.eu/eli/reg/1993/259/oj
+- type: repealed_by
+  target: pt:dre:247025:por
+  label: "Revogado, a partir de 16.03.2008, pelo DEC LEI.45/2008.11.03.2008.MAOTDR, DR.IS [50] de 11.03.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2008-247025
+  date: '2008-03-11'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:40Z'
   warnings: []
   errors: []
 ---
@@ -287,17 +292,17 @@ b) Em 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Manuel Dias Loureiro - Walter Valdemar Pêgo Marques - Luís Francisco Valente de Oliveira - Vítor Ângelo da Costa Martins - Luís Filipe Alves Monteiro -Joaquim Martins Ferreira do Amaral - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo a que se refere o n.º 3 do artigo 5.º
+Anexo a que se refere o n.º 3 do artigo 5.º
 
 A garantia bancária ou garantia equivalente deverá ser calculada com base na seguinte fórmula:
 

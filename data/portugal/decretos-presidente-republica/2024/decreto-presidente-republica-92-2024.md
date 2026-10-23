@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19700/0000400004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/92/2024/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/92-2024-890505005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aee88293938bfa51f00a827a0b56a13d3e66d48ba8f41f4b9c6f5def7506fc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f47c037005c7d897908ebac999c1c66ea6b9e6a3362389fdb806532a14d2a39d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Presidente do Tribunal de Contas
-- Tribunal de Contas
 - Nomeação
 - Presidente
+- Presidente do Tribunal de Contas
+- Tribunal de Contas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:01Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,18 @@ validation:
 
 de 10 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea m), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea m), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, para o cargo de Presidente do Tribunal de Contas, Maria Filipa Pires Urbano da Costa Calvão, com efeitos a partir de 12 de outubro de 2024.
 
-**Assinado em 27 de setembro de 2024.**
+Assinado em 27 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de setembro de 2024.**
+Referendado em 27 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118210333

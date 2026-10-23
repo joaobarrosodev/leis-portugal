@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1981-564035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc8859bc4753029ef06d863bec87cbf1e51307ae8bdda6b67b2a98112ebb3155
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28144986475a9f7e02376ecabba7c0b4682d9e9a9e53b51cf2c06b11e149c0b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estação Nacional de Fruticultura de Vieira Natividade
+- Fruticultura
+- Instituto Nacional de Investigação Agrária
+- Investigação Científica e Tecnológica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:153129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681635:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153129:por
+  label: "Revogado pelo DEC LEI.5-A/88.14.01.1988.MAPA, DR.IS [11]2ºSupl de 14.01.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-a-1988-153129
+  date: '1988-01-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:16Z'
   warnings: []
   errors: []
 ---
@@ -108,11 +138,11 @@ Nestas circunstâncias, e de acordo com o disposto no artigo 12.º do [Decreto-L
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São transferidas para o serviço operativo do Instituto Nacional de Investigação Agrária, denominado Departamento de Fruticultura, todas as actividades de investigação e desenvolvimento experimental nos domínios da fruticultura até agora cometidas ao Centro Nacional de Estudos e Fomento da Fruticultura, da Direcção-Geral de Extensão Rural.
+Artigo 1.º - 1 - São transferidas para o serviço operativo do Instituto Nacional de Investigação Agrária, denominado Departamento de Fruticultura, todas as actividades de investigação e desenvolvimento experimental nos domínios da fruticultura até agora cometidas ao Centro Nacional de Estudos e Fomento da Fruticultura, da Direcção-Geral de Extensão Rural.
 
 2 - O Departamento de Fruticultura passa a denominar-se Estação Nacional de Fruticultura de Vieira Natividade, abreviadamente designada por ENF e equiparada, para todos os efeitos legais, a estação nacional de investigação e desenvolvimento.
 
-###### Art. 2.º - 1 - A Estação compreende os seguintes departamentos:
+Art. 2.º - 1 - A Estação compreende os seguintes departamentos:
 
 a) Biologia e nutrição das fruteiras;
 
@@ -126,7 +156,7 @@ e) Olivicultura.
 
 2 - Os departamentos têm, nos domínios das suas especialidades, a competência definida no artigo 43.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
-###### Art. 3.º A Estação dispõe, nos termos do artigo 40.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, dos seguintes órgãos e serviços:
+Art. 3.º A Estação dispõe, nos termos do artigo 40.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, dos seguintes órgãos e serviços:
 
 a) Conselho de investigação;
 
@@ -134,25 +164,25 @@ b) Centro de documentação e informação;
 
 c) Secção administrativa.
 
-###### Art. 4.º - 1 - A Estação é dirigida por um director, coadjuvado por um subdirector, equiparados, para todos os efeitos legais, a director de serviços e a chefe de divisão, respectivamente.
+Art. 4.º - 1 - A Estação é dirigida por um director, coadjuvado por um subdirector, equiparados, para todos os efeitos legais, a director de serviços e a chefe de divisão, respectivamente.
 
 2 - O cargo de director da Estação será desempenhado por um elemento da carreira de investigador e o de subdirector por um elemento desta carreira ou das de engenheiro ou de técnico superior.
 
 3 - O provimento dos lugares referidos no n.º 1 deste artigo será feito, em comissão de serviço, nos termos legais, com observância do disposto no artigo 86.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
-###### Art. 5.º Os chefes de departamento serão designados, de entre os elementos da carreira de investigador, por despacho do director do Instituto Nacional de Investigação Agrária, sob proposta do director da Estação, ouvido o respectivo conselho de investigação, nos termos do n.º 4 do artigo 86.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
+Art. 5.º Os chefes de departamento serão designados, de entre os elementos da carreira de investigador, por despacho do director do Instituto Nacional de Investigação Agrária, sob proposta do director da Estação, ouvido o respectivo conselho de investigação, nos termos do n.º 4 do artigo 86.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
-###### Art. 6.º - 1 - É extinto, a partir da vigência deste diploma, o departamento de olivicultura da Estação Nacional de Melhoramento de Plantas, criado pela alínea e) do artigo 51.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
+Art. 6.º - 1 - É extinto, a partir da vigência deste diploma, o departamento de olivicultura da Estação Nacional de Melhoramento de Plantas, criado pela alínea e) do artigo 51.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
 2 - O património a cargo do departamento, designadamente o equipamento, maquinaria e material de transporte, bem como toda a sua documentação, transita para a ENF.
 
 3 - O pessoal que presta serviço naquele departamento fica afecto à ENF.
 
-###### Art. 7.º - 1 - O Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade, integrado na Direcção-Geral de Extensão Rural, transita, a partir da vigência deste diploma, para o Instituto Nacional de Investigação Agrária, com todo o património que lhe está afecto.
+Art. 7.º - 1 - O Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade, integrado na Direcção-Geral de Extensão Rural, transita, a partir da vigência deste diploma, para o Instituto Nacional de Investigação Agrária, com todo o património que lhe está afecto.
 
 2 - A transferência do património, designadamente do equipamento, maquinaria e material de transporte, efectivar-se-á mediante relações de cadastro devidamente discriminadas e autenticadas.
 
-###### Art. 8.º - 1 - O pessoal que à data da entrada em vigor deste diploma se encontra colocado e a prestar serviço no Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade transita, a partir da mesma data, para o INIA.
+Art. 8.º - 1 - O pessoal que à data da entrada em vigor deste diploma se encontra colocado e a prestar serviço no Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade transita, a partir da mesma data, para o INIA.
 
 2 - A transição a que se refere o número anterior será efectuada mediante relação nominativa, devidamente autenticada, a remeter à Secretaria-Geral do Ministério da Agricultura e Pescas.
 
@@ -164,32 +194,32 @@ c) Secção administrativa.
 
 2 - Os encargos contraídos e não liquidados até àquela data serão suportados pela Direcção-Geral de Extensão Rural, de conta do seu orçamento.
 
-###### Art. 10.º Por força do disposto no artigo 7.º deste diploma, é extinto o Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade, criado pela alínea c) do artigo 10.º do [Decreto Regulamentar n.º 68/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1979-393870), de 24 de Dezembro.
+Art. 10.º Por força do disposto no artigo 7.º deste diploma, é extinto o Centro Nacional de Estudos e Fomento da Fruticultura de Vieira Natividade, criado pela alínea c) do artigo 10.º do [Decreto Regulamentar n.º 68/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1979-393870), de 24 de Dezembro.
 
-###### Art. 11.º - 1 - O contingente de pessoal do INIA, fixado pelo mapa anexo ao [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, é aumentado dos lugares constantes do mapa I anexo a este diploma.
+Art. 11.º - 1 - O contingente de pessoal do INIA, fixado pelo mapa anexo ao [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho, é aumentado dos lugares constantes do mapa I anexo a este diploma.
 
 2 - São abatidos ao contingente de pessoal da Direcção-Geral de Extensão Rural constante do mapa anexo ao [Decreto Regulamentar n.º 68/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1979-393870), de 24 de Dezembro, os lugares enumerados no mapa II anexo a este diploma.
 
-###### Art. 12.º A afectação dos serviços referidos neste diploma à Estação Nacional de Fruticultura de Vieira Natividade será efectuada de acordo com o disposto no artigo 100.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
+Art. 12.º A afectação dos serviços referidos neste diploma à Estação Nacional de Fruticultura de Vieira Natividade será efectuada de acordo com o disposto no artigo 100.º do [Decreto Regulamentar n.º 39-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-a-1979-402716), de 31 de Julho.
 
-###### Art. 13.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelo orçamento do INIA, o qual, quando necessário, será reforçado nos termos legais.
+Art. 13.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelo orçamento do INIA, o qual, quando necessário, será reforçado nos termos legais.
 
-###### Art. 14.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do Secretário de Estado da Reforma Administrativa, quando estiver em causa matéria das respectivas competências.
+Art. 14.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do Secretário de Estado da Reforma Administrativa, quando estiver em causa matéria das respectivas competências.
 
-###### Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - António José Nunes Loureiro Borges - António José Baptista Cardoso e Cunha - José Cândido Sousa Carrusca Robin de Andrade.
 
-**Promulgado em 8 de Setembro de 1981.**
+Promulgado em 8 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa I a que se refere o n.º 1 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf))](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf)
 
 Mapa II a que se refere o n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf))](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/22900/26602662.pdf)

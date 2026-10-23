@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/082a00/20462050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2001/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2001-362316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3823b71b88d6f55fecfede961bf6ff726593e173da7f0eaf227981788587334b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f9949afb7699c80fb4b941762f1f1340161e781c582f217c23f3a49bc08b05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Gestão de Resíduos
-- Multa
 - Comissão de Acompanhamento
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Regional de Economia
 - Direcção Regional do Ambiente e do Ordenamento do Território
+- Equipamento de Veículo
 - Fiscalização
+- Gestão de Resíduos
 - Incineração de Resíduos
 - Inspecção Geral das Actividades Económicas
 - Inspecção Geral do Ambiente
-- Licenciamento
 - Instituto dos Resíduos
-- Equipamento de Veículo
+- Licenciamento
+- Multa
 - Política do Ambiente
 - Regime Jurídico
 relationships:
@@ -88,20 +88,48 @@ relationships:
   target: pt:dre:169360995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551860:por
+  label: "Alterados os artigos 4.º, 9.º e 17.º, pelo DEC LEI.43/2004.02.03.2004.MCOTA, DR.IS-A [52] de 02.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2004-551860
+  date: '2004-03-02'
+- type: amended_by
+  target: pt:dre:2982597:por
+  label: "DESP.31203/2008.04.12.2008.MAOTDR, DR.IIS [235] de 04.12.2008(Nº 1 do art. 8.º) \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/31203-2008-2982597
+  date: '2008-12-04'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterados os arts. 16.º, 17.º ( este na redacção do Dec Lei 43/2004, de 02-Mar ), 18.º e 19.º do presente diploma,\
+    \ pelo DEC LEI.73/2011.17.06.2011.MAOT, DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
 - type: cites
   target: celex:31999L0031
   label: null
   source: http://data.europa.eu/eli/dir/1999/31/oj
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogado o art. 13º pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o presente diploma, na redação dos Decs Leis 43/2004 de 02-mar, 178/2006 de 05-set
+    e 73/2011 de 17-jun, pelo(a) Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de
+    2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:53Z'
   warnings: []
   errors: []
 ---
@@ -358,12 +386,12 @@ O presente diploma entra em vigor 30 dias depois da data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 20 de Março de 2001.**
+Promulgado em 20 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Março de 2001.**
+Referendado em 30 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

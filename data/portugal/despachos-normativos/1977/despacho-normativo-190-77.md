@@ -48,36 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/190-1977-278680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:37:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5290b7712b0c24f983b42a64265e794c676d66cc6aabec67712f008f2c7c8e70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 372825fb736c2d70cddef849b814378425d3f2628b577303c744e9cf7de36ea5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:37:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centeio
+- Cereal
+- Cevada
+- Fixação de Preços
+- Instituto dos Cereais
+- Preço
+- Preço de Campanha
+- Preço de Intervenção
+- Trigo
+relationships:
+- type: cites
+  target: pt:dre:183240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688206:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:37:39Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +139,7 @@ Preço único do trigo
 
 1.º A tabela do preço da aquisição à produção do trigo produzido no continente e Regiões Autónomas é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf)
 
 2.º O preço da tonelada de trigo de peso específico inferior a 73 kg por hectolitro é reduzido de 27$30 por cada quilograma a menos.
 
@@ -130,7 +163,7 @@ Centeio
 
 8.º A tabela do preço de intervenção para o centeio de grão seco e são, com um máximo de 3% de impurezas e 14% de humidade, entregue pela produção ao Instituto dos Cereais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22700/24022404.pdf)
 
 9.º O preço de tonelada do centeio de peso específico inferior a 70 kg por hectolitro é reduzido de 24$00 por cada quilograma a menos.
 

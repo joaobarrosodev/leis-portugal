@@ -4,7 +4,7 @@ id: pt:dre:145440390:por
 title: Decreto-Lei n.º 87/2020
 short_title: null
 summary: Assegura a execução, na ordem jurídica nacional, do Regulamento (UE) n.º 2015/757, relativo à monitorização, comunicação
-  e verificação das emissões de CO<sub>2</sub> provenientes do transporte marítimo
+  e verificação das emissões de CO2 provenientes do transporte marítimo
 jurisdiction: portugal
 territory: null
 document_type: decreto-lei
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20100/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2020/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2020-145440390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0290f0dccc04aa99b947cc9170672219f268220ad8a3113a60c4455b09de0aea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcc844f45617d09179d7677eea1f34d301f9134bb7e6461433602fa40b42b32b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Agência Europeia de Segurança Marítima
+- Agência Portuguesa do Ambiente
 - Agente da Autoridade
 - Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
+- Autoridade Competente
+- Autoridade Marítima Nacional
 - Contra-ordenação
 - Definição de Competências
-- Autoridade Marítima Nacional
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Geral da Autoridade Marítima
 - Documentação
 - Documento de Transporte
-- Poluição Atmosférica
-- Saúde Pública
-- Administração de Portos
+- Documento Eletrónico
+- Embarcação
 - Fiscalização
 - Informação
-- Inspecção Geral
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Documento Eletrónico
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Inspecção Geral
 - Instituto Português de Acreditação
 - Operador Portuário
-- Poluição Marinha
 - Poluição
+- Poluição Atmosférica
+- Poluição Marinha
+- Portos
 - Regulamento CE
 - Sanção
-- Portos
-- Direcção Geral da Autoridade Marítima
-- Transporte Internacional
-- Autoridade Competente
+- Saúde Pública
 - Sistema Nacional de Embarcações e Marítimos
-- Agência Portuguesa do Ambiente
+- Transporte Internacional
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32015R0757
@@ -150,16 +150,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/53/2020/07/10/p/dre
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125560577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137618093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968711:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:26Z'
   warnings: []
   errors: []
 ---
@@ -438,12 +474,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de outubro de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Miguel Jorge de Campos Cruz - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 7 de outubro 2020.**
+Promulgado em 7 de outubro 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de outubro de 2020.**
+Referendado em 9 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113629874

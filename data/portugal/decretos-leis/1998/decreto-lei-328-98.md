@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/328/1998/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1998-222612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc8eae7e5d0920104aaaaf64c4343384689c2254aab6a5833edaedd69bff8863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5701d57e47ef233c1d14de9d1ef42c7bc4bc6254044ad589d4dba37987e4ad7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,36 @@ reuse:
 subjects:
 - Admissão de Pessoal
 - Aquisição de Bens e Serviços
-- Direcção Geral dos Serviços Prisionais
+- Contratação de Pessoal
 - Contrato de Trabalho a Prazo
+- Direcção Geral dos Serviços Prisionais
 - Edifício Público
 - Empreitada de Obras Públicas
-- Recrutamento de Pessoal
-- Guarda Prisional
 - Estabelecimento Prisional
+- Guarda Prisional
 - Instituto de Reinserção Social
-- Contratação de Pessoal
 - Obras Públicas
 - Recluso
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/46/1996/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1996/05/14/p/dre
+- type: cites
+  target: pt:dre:468873:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:51Z'
   warnings: []
   errors: []
 ---
@@ -123,12 +127,12 @@ O disposto no presente diploma vigora até 31 de Dezembro de 2000.»
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Luís Lopes da Mota.
 
-**Promulgado em 21 de Outubro de 1998.**
+Promulgado em 21 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 1998.**
+Referendado em 23 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

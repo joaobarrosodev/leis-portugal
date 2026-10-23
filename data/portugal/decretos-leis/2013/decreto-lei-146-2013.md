@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20400/0620806209.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2013/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2013-502866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c4b29d423d8af15b1dbeada4a4bb38ab1b499c5991cd7fc36cbbfcddc19a627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b0a94d8deb55f2ba5c7e7b8b35814a08231ba8c2c0de52ca284dad0fc896fa5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
 - Contrato
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Oficial
-- Exame
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Habilitações Literárias
 - Estabelecimento de Ensino
+- Exame
+- Habilitações Literárias
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Avaliação de Conhecimentos
-- Educação Pré-escolar
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:74717230:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572584:por
+  label: "Aditado o art. 3.º-A pela LEI.7/2014.12.02.2014.AR, DR.IS [30] de 12.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2014-572584
+  date: '2014-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
   label: null
@@ -115,16 +120,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74717230:por
+  label: Revogado, a partir de 18.06.2016, pelo(a) Lei n.º 16/2016 - Diário da República n.º 115/2016, Série I de 2016-06-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2016-74717230
+  date: '2016-06-17'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:06Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +209,9 @@ Os artigos 2.º e 22.º do Estatuto da Carreira Docente passam a ter a seguinte 
 
 Para efeitos de aplicação do presente Estatuto, considera-se pessoal docente aquele é portador de qualificação profissional para o desempenho de funções de educação ou de ensino, com carácter permanente, sequencial e sistemático, ou a título temporário, após aprovação em prova de avaliação de conhecimentos e capacidades.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -233,12 +281,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 16 de outubro de 2013.**
+Promulgado em 16 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de outubro de 2013.**
+Referendado em 17 de outubro de 2013.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.

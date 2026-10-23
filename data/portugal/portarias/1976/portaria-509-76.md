@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/509-1976-429637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38cdef7ffc613225877fc219dc721ba87cbdfddf6e2cecdcbfe33f36793ee381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d99cd4721845b5a35b13fae3da1c638e4b5e75d0af5ceafd65d2d951dd40c99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alter do CHÃO
+- Arronches
+- Avis
+- Campo Maior
+- Castelo de VIDE
+- Crato
+- Elvas
+- Expropriação
+- Fronteira.povoação
+- Gavião
+- Ponte de Sor
+- Portalegre
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:378758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251603:por
+  label: Derrogada, parcialmente, pelo(a) Portaria n.º 246/77 - Diário da República n.º 107/1977, Série I de 1977-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1977-251603
+  date: '1977-05-09'
+- type: amended_by
+  target: pt:dre:278510:por
+  label: Derrogado o presente diploma, no referente ao prédio denominado «Martinho», situado na freguesia de Crato e Mártires,
+    concelho do Crato pelo(a) Portaria n.º 606/77 - Diário da República n.º 220/1977, Série I de 1977-09-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1977-278510
+  date: '1977-09-22'
+- type: amended_by
+  target: pt:dre:447965:por
+  label: Alterada, no que respeita ao nome nela indicado como sendo o proprietário do prédio Herdade da Várzea, a presente
+    portaria, pelo(a) Portaria n.º 27/78 - Diário da República n.º 11/1978, Série I de 1978-01-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-1978-447965
+  date: '1978-01-13'
+- type: amended_by
+  target: pt:dre:393626:por
+  label: "Derrogada, no referente aos prédios rústicos da Fundação Abreu Callado, pela PORT.89/79.20.02.1979.MAP, DR.IS [43]\
+    \ de 20.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-1979-393626
+  date: '1979-02-20'
+- type: amended_by
+  target: pt:dre:393644:por
+  label: "Derrogada, no atinente aos prédios rústicos da propriedade da Fundação D. Maria Clementina Godinho de Campos, pela\
+    \ PORT.94/79.22.02.1979.MAP, DR.IS [45] de 22.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/94-1979-393644
+  date: '1979-02-22'
+- type: amended_by
+  target: pt:dre:380475:por
+  label: "Derrogada, na parte relativa aos prédios rústicos denominados \"Herdade do Xévora de Cima\", \"Herdade do Xévora\
+    \ de Baixo\" e \"Courela Bravia\", o presente diploma, pela PORT.314/79.03.07.1979.MAP, DR.IS [151] de 03.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/314-1979-380475
+  date: '1979-07-03'
+- type: amended_by
+  target: pt:dre:378884:por
+  label: "Derrogada, referente à expropriação dos prédios rústicos «Herdade da Lapagueira» e «Courela da Carapinheira» pela,\
+    \ PORT.443/79.21.08.1979.MAP, DR.IS [192] de 21.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/443-1979-378884
+  date: '1979-08-21'
+- type: amended_by
+  target: pt:dre:378758:por
+  label: "Derrogada referente aos prédios rústicos Buque, Arrancadoiro, Lagoa e Arquinho, pela PORT.453/79.22.08.1979.MAP,\
+    \ DR.IS [193] de 22.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/453-1979-378758
+  date: '1979-08-22'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:06:19Z'
   warnings: []
   errors: []
 ---

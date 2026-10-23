@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/106a00/10491055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1996-469652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70ee648bcad2378424572b3c8162c4e8aac9764a4907a472795405f93ac06e65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 093755b7130c103ae8d9304d38d33f45476824897b4eb37b7ca682753cddd192
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
 - Arquivos Nacionais-torre do Tombo
-- Inspecção Geral das Actividades Culturais
+- Auditoria Jurídica
+- Biblioteca Nacional
+- Centro Português de Fotografia
+- Cinemateca Portuguesa-Museu do Cinema
 - Comissão de Classificação de Espectáculos
+- Companhia Nacional de Bailado
+- Conselho Nacional de Cultura
 - Conselho Nacional do Direito de Autor
 - Conselho Superior de Arquivos
 - Conselho Superior de Bibliotecas
@@ -76,15 +84,14 @@ subjects:
 - Delegação Regional da Cultura do Algarve
 - Delegação Regional da Cultura do Centro
 - Delegação Regional da Cultura do Norte
-- Centro Português de Fotografia
 - Direcção Geral de Espectáculos
 - Extinção de Serviços
-- Cinemateca Portuguesa-Museu do Cinema
-- Secretaria Geral
-- Ministério da Cultura
-- Conselho Nacional de Cultura
+- Fundo de Fomento Cultural
+- Gabinete de Relações Culturais Internacionais
+- Gabinete de Relações Internacionais
+- Gabinete do Direito de Autor
+- Inspecção Geral das Actividades Culturais
 - Instituto da Biblioteca Nacional e do Livro
-- Biblioteca Nacional
 - Instituto de ARTE Contemporânea
 - Instituto dos Arquivos Nacionais-torre do Tombo
 - Instituto Português da ARTE Cinematográfica e Audiovisual
@@ -92,25 +99,52 @@ subjects:
 - Instituto Português de Arqueologia
 - Instituto Português de Museus
 - Instituto Português do Livro e das Bibliotecas
-- Academia Nacional de Belas-artes
-- Fundo de Fomento Cultural
-- Gabinete de Relações Internacionais
-- Gabinete do Direito de Autor
-- Auditoria Jurídica
-- Companhia Nacional de Bailado
+- Ministério da Cultura
 - Orgânica
 - Orquestra Nacional do Porto
 - Pessoa Colectiva de Direito Público
-- Gabinete de Relações Culturais Internacionais
+- Secretaria Geral
 - Teatro Nacional de DONA Maria II
 - Teatro Nacional de são JOÃO
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
 relationships:
 - type: amended_by
   target: pt:dre:520445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Alterada a orgânica pelo Dec Lei 120/2002 de 03-Mai, DR.IS-A [102], nos termos do seu art 21º, determinando-se a\
+    \ transição para a Presidência do Conselho de Ministros dos serviços e organismos com atribuições e competências no domínio\
+    \ da comunicação social compreendidos no Ministério da Cultura\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:520430:por
+  label: "Determinado que a Direcção-Geral do Livro e das Bibliotecas suceda nas atribuições do Instituto Português do Livro\
+    \ e das Bibliotecas e nas atribuições do Instituto dos Arquivos Nacionais/Torre do Tombo relativos à Biblioteca Pública\
+    \ de Évora, ambos criados pelo presente diploma, pelo DEC LEI.92/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2007-520430
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520445:por
+  label: "Determinado que as DRC sucedem nas atribuições relativas à salvaguarda e valorização do património arquitectónico\
+    \ das direcções regionais do Instituto Português do Património Arquitectónico, criadas pelo presente diploma, pelo DR.34/2007.29.03.2007.MC,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/34-2007-520445
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:520446:por
+  label: "Determinado que a DGARQ suceda nas atribuições do Instituto dos Arquivos Nacionais/Torre do Tombo e do Centro Português\
+    \ de Fotografia, com excepção das atribuições relativas ao apoio e à difusão da criação fotográfica, ambos criados pelo\
+    \ presente diploma, pelo DEC LEI.93/2007.29.03.2007.MC, DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2007-520446
+  date: '2007-03-29'
+- type: amends
+  target: pt:dre:410287:por
+  label: "Extingue o Instituto Português do Património Arquitectónico e Arqueológico criado pelo Dec Lei 106-F/92 de 01-Jun\
+    \ DR.IS-A [126]Supl\0\0"
+  source: null
+  date: '1992-06-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/1992/06/01/p/dre
   label: null
@@ -119,16 +153,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
+- type: cites
+  target: pt:dre:410282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545647:por
+  label: "Revogado pelo presente diploma e extinto, sendo objecto de fusão: do Instituto dos Arquivos Nacionais/Torre do Tombo\
+    \ e do Centro Português de Fotografia, cujas atribuições, nos termos da alínea a) do nº. 3 do artigo 26.º são integrados\
+    \ na Direcção-Geral de Arquivos, excepto as atribuições relativas ao apoio e à difusão da fotografia, que são integrados\
+    \ na Direcção-Geral das Artes; - do Gabinete do Direito de Autor, cujas atribuições nos termos da alínea b) do nº 3 do\
+    \ artigo 26.º, são integrados no Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais; - do Instituto\
+    \ Português de Arqueologia e do Instituto Português do Património Arquitectónico, cujas atribuições nos termos da alínea\
+    \ c) do nº. 3 do artigo 26.º, são integrados no Instituto de Gestão do Património Arquitectónico e Arqueológico, I.P.,\
+    \ - do Conselho Superior de Arquivos, cujas competências nos termos da alínea e) do nº 3 do artigo 26.º são integrados\
+    \ no Conselho Nacional de Cultura, determina a reestruturação do Instituto Português do Livro e das Bibliotecas, que nos\
+    \ termos da alínea c) do nº. 4 do artigo 26.º, passa a integrar a administração directa do Estado, com a a designação\
+    \ de Direcção-Geral do Livro e das Bibliotecas; - da Inspecção-Geral das Actividades Culturais, e da Secretaria-Geral,\
+    \ nos termos do nº. 5 do artigo 26.º, assim como os restantes serviços e organismos referidos nos artigos 4.º e 5.º e\
+    \ determina a transformação do Teatro Nacional D. Maria II, S.A., em entidade pública empresarial e passando a denominar-se\
+    \ Teatro Nacional D. Maria II, E.P., nos termos da alínea a) do nº 6 do artigo 26.º; - do Teatro Nacional de S. João em\
+    \ entidade pública empresarial e passando a denominar-se Teatro Nacional S. João, E.P.E., nos termos da alínea b) do nº.\
+    \ 6 do artigo 26.º e do Teatro Nacional de São Carlos que passa a integrar a entidade pública empresarial denominada OPART\
+    \ - Organismo de Produção Artística, E.P.E., nos termos da alínea c) do nº. 6 do artigo 26.º e extingue a Orquestra Nacional\
+    \ do Porto, pelo DEC LEI.215/2006.27.10.2006.MC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2006-545647
+  date: '2006-10-27'
 article_structure:
   article_count: 37
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:19Z'
   warnings: []
   errors: []
 ---
@@ -523,12 +587,12 @@ São revogados os Decretos-Leis n.os [106-A/92](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 12 de Março de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Abril de 1996.**
+Promulgado em 17 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1996.**
+Referendado em 22 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

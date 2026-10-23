@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20200/0592905930.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2012/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2012-192421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a78fc82521e675e0269a522518ffd2680c3d08031b925411dccae0aeca7289
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc530d619fe1d544a65c377603dd85313d3cd2e5145cade90fe2abacd5474961
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
-- Garantia
-- Instituição de Crédito
+- Comércio
 - Contrato de Mútuo
 - Crédito à Habitação
 - Crédito Bancário
-- Pessoa Singular
-- Informação do Consumidor
+- Garantia
 - Habitação
-- Comércio
+- Informação do Consumidor
+- Instituição de Crédito
+- Pessoa Singular
 relationships:
 - type: amended_by
   target: pt:dre:107561581:por
@@ -101,16 +101,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2008/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2008/05/29/p/dre
+- type: cites
+  target: pt:dre:448970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107561581:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 226/2012, de 18-out, pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República
+    n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos do seu art. 47.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:18Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +185,12 @@ O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Álvaro Santos Pereira.
 
-**Promulgado em 8 de outubro de 2012.**
+Promulgado em 8 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de outubro de 2012.**
+Referendado em 10 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

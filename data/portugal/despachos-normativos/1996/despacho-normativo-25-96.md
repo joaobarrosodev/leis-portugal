@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/25/1996/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/25-1996-417037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2057327cc71038ffc9ce80ff4682b6ebfd7673ffdc0c37368fc97fbbce809169
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52ee327fe92601fadce45c589c5cabee5be8aee2aca2e8c07df2c9031f427ad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Médico
 - Condutor
+- Médico
+- Ministério da Saúde
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
@@ -76,20 +77,27 @@ subjects:
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Quota de Descongelamento
-- Ministério da Saúde
 - Serviço de Prevenção e Tratamento da Toxicodependência
 - Telefonista
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:15Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +126,4 @@ MAPA ANEXO
 
 Descongelamento excepcional para o Serviço de Prevenção e Tratamento da Toxicodependência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/169b00/20662066.pdf))](https://files.diariodarepublica.pt/1s/1996/07/169b00/20662066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/169b00/20662066.pdf)

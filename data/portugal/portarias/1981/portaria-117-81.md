@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-1981-389836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dff3253ccb3a308441ca42238778c53e2b238a83f4b9f2071ed5ee176ea200d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ce81a378251019d5dcea0c123e8e8d409a7b0e7a2e4815cdc32259ab84038c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Integração de Trabalhadores
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Viseu
 relationships:
 - type: amended_by
   target: pt:dre:666150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308299:por
+  label: "Alterado o quadro de pessoal, pela PORT.116/83.1983.02.02.MFP, DR.IS [27]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1983-308299
+  date: '1983-02-02'
+- type: amended_by
+  target: pt:dre:452526:por
+  label: "Alterado o quadro de pessoal, na redacção dada pela Port 116/83 de 02-Fev, pela PORT.698/83.1983.06.22.MFP, DR.IS\
+    \ [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-1983-452526
+  date: '1983-06-22'
+- type: amended_by
+  target: pt:dre:435577:por
+  label: "Alterado o quadro de pessoal aprovado, na redacção das Port. 116/83, de 02-Fev e 698/83, de 22-Jun, pela PORT.807-S2/83.1983.07.30.MFP,\
+    \ DR.IS [174]6ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-s2-1983-435577
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:654555:por
+  label: "Alterado o quadro de pessoal pela PORT.213/84.1984.04.07.PCM, DR.IS [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/213-1984-654555
+  date: '1984-04-07'
+- type: amended_by
+  target: pt:dre:396501:por
+  label: "Alterado o quadro de pessoal pela PORT.980/84.1984.12.26.MS, DR.IS [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/980-1984-396501
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:666150:por
+  label: "Alterado o quadro de pessoal pela PORT.285/87.1987.04.07.MF, DR.IS [81]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/285-1987-666150
+  date: '1987-04-07'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:04Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +155,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Viseu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02100/02080209.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02100/02080209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02100/02080209.pdf)
 
 Notas
 

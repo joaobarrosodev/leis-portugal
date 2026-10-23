@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2007/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27cc674ab9de6a176c6bcd31c852e66563e7837b59f0ea82188ad7ea2b5271e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec90bf5f063e2b2f4e408bdb8a48db1d177391dc87b1787522fe8807cef99414
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Multa
+- Açores
+- Benefícios Fiscais
+- Certificado de Destruição ou Desmantelamento Qualificado
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
 - Definição de Competências
-- Direcção Geral de Viação
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral de Viação
 - Fiscalização
-- Comissão de Coordenação e Desenvolvimento Regional
-- Instituto da Mobilidade e dos Transportes Terrestres
 - GNR
-- Inspecção Geral do Ambiente e do Ordenamento do Território
-- Segurança Rodoviária
-- Proteção do Ambiente
-- Madeira.região Autónoma
 - Imposto Automóvel
-- Benefícios Fiscais
-- Açores
-- Certificado de Destruição ou Desmantelamento Qualificado
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Madeira.região Autónoma
+- Multa
+- Proteção do Ambiente
+- PSP
+- Segurança Rodoviária
 - Veículo em FIM de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:609990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Mantido em vigor até 31 de Dezembro de 2008,o incentivo fiscal à destruição de automóveis ligeiros em fim de vida\
+    \ previsto no Dec Lei 292-A/2000, de 15-Nov, alterado e republicado pelo presente diploma, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 2.º do Dec Lei 292-A/2000 de 15-Nov, na redacção e republicação do presente diploma, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 2.º e 10.º do Dec Lei 292-A/2000 de 15-Nov, alterado e republicado pelo presente diploma, pela\
+    \ LEI 3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
 - type: cites
   target: celex:32000L0053
   label: null
@@ -104,15 +123,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/60-a/2005/12/30/p/dre
 article_structure:
-  article_count: 23
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:21Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +182,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 8.º e 10.º do Decreto-Lei n.º 
 
 2 - As regras relativas à emissão dos certificados de destruição e cancelamento de matrícula constam do Decreto-Lei n.º 196/2003, de 23 de Agosto.
 
-###### Artigo 2.º — Conteúdo e condições do incentivo
+Artigo 2.º
+
+Conteúdo e condições do incentivo
 
 1 - O incentivo fiscal à destruição de automóveis ligeiros em fim de vida reveste a forma de redução do imposto automóvel devido pelo respectivo proprietário na compra de automóvel ligeiro novo, nos termos seguintes:
 
@@ -183,7 +204,9 @@ d) Sejam entregues para destruição nos termos fixados pelo presente decreto-le
 
 3 - O incentivo fiscal deve ser requerido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) mediante exibição do certificado de destruição a que se refere o n.º 1 do artigo 4.º
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O proprietário de automóvel ligeiro que pretenda beneficiar da redução do imposto automóvel deve entregar o veículo a destruir num dos centros de recepção ou operadores de desmantelamento licenciados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, ou, alternativamente, num dos centros de inspecção de veículos (CIV) constantes da lista divulgada pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).
 
@@ -205,7 +228,9 @@ c) Entregar a quantia correspondente ao valor fixado para uma inspecção obriga
 
 5 - Aos CIV encontra-se vedada a comercialização dos veículos entregues ou dos seus componentes.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O operador de desmantelamento que recebe o veículo, directamente ou através de um centro de recepção ou CIV, deve proceder à sua identificação, conferir a respectiva documentação, desmantelá-lo e proceder à emissão do certificado de destruição nos termos dos n.os 7 a 10 do artigo 17.º do Decreto-Lei n.º 196/2003, de 23 de Agosto.
 
@@ -215,7 +240,9 @@ c) Entregar a quantia correspondente ao valor fixado para uma inspecção obriga
 
 4 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1250 o incumprimento dos deveres previstos nos n.os 4 e 5 do artigo 3.º
 
@@ -223,17 +250,23 @@ c) Entregar a quantia correspondente ao valor fixado para uma inspecção obriga
 
 3 - A tentativa e a negligência são sempre puníveis, sendo os limites mínimos e máximos das coimas previstas nos números anteriores reduzidos para metade.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A fiscalização do cumprimento do presente decreto-lei compete ao IMTT, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à DGAIEC, à Inspecção-Geral do Ambiente e do Ordenamento do Território e às comissões de coordenação e desenvolvimento regional.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A instrução dos processos de contra-ordenação compete ao IMTT, aplicando-se ao seu processamento as disposições previstas no Código da Estrada para as infracções rodoviárias.
 
 2 - A aplicação das coimas é da competência do IMTT.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O presente decreto-lei entra em vigor no dia 1 de Dezembro de 2000, vigorando até 31 de Dezembro de 2007.
 
@@ -259,15 +292,15 @@ O Decreto-Lei n.º 292-A/2000, de 15 de Novembro, na redacção dada pelo presen
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Carlos Manuel Costa Pina - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Decreto-Lei n.º 292-A/2000, de 15 de Novembro
 

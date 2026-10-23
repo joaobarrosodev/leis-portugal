@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1979-367832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a330bc758051c3462f32790c4ab4507c467ac3d008558bda93b7a18d29f7eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ba06801868a46816436118d61cc72585a01a453461194aa39cc9f936457c61f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instalação Militar
+- Matosinhos
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:45Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +109,9 @@ Considerando o disposto nos artigos 1.º, 6.º, 8.º, 9.º e 10.º da [Lei n.º 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A servidão militar constituída pelo [Decreto n.º 62/71](https://diariodarepublica.pt/dr/detalhe/decreto/62-1971-445557), de 3 de Março, é constituída pela área de terreno confinante com o limite exterior do quartel e situado em dois sectores circulares, com centro num ponto cujas coordenadas geodésicas são M = 170668,8 e P = 47052,4: um de raio de 200 m limitado pelos azimutes cartográficos 40º e 335º e outro de raio de 260 m entre os azimutes cartográficos 335º e 40º.
+Artigo 1.º A servidão militar constituída pelo [Decreto n.º 62/71](https://diariodarepublica.pt/dr/detalhe/decreto/62-1971-445557), de 3 de Março, é constituída pela área de terreno confinante com o limite exterior do quartel e situado em dois sectores circulares, com centro num ponto cujas coordenadas geodésicas são M = 170668,8 e P = 47052,4: um de raio de 200 m limitado pelos azimutes cartográficos 40º e 335º e outro de raio de 260 m entre os azimutes cartográficos 335º e 40º.
 
-###### Art. 2.º Na área descrita no artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º Na área descrita no artigo anterior é proibida, sem licença devidamente condicionada da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -110,15 +125,15 @@ e) Instalações da linha de energia eléctrica ou de ligações telefónicas, q
 
 f) Outros trabalhos ou actividades que possam, inequivocamente, prejudicar a segurança das missões que competem às forças armadas.
 
-###### Art. 3.º Ao comandante da Região Militar do Norte compete, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo 2.º
+Art. 3.º Ao comandante da Região Militar do Norte compete, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, conceder as licenças a que se faz referência no artigo 2.º
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando da unidade, à Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando da unidade, à Região Militar do Norte e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação da Direcção do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
+Art. 5.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação da Direcção do Serviço de Fortificações e Obras do Exército na Região Militar do Norte.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar do Norte, e da decisão deste para o titular do Departamento do Exército.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o titular do Departamento do Exército; das decisões respeitantes a demolições previstas no artigo anterior cabe recurso para o comandante da Região Militar do Norte, e da decisão deste para o titular do Departamento do Exército.
 
-###### Art. 7.º A área descrita no artigo 1.º vai demarcada em planta, na escala 1:2000, organizando-se colecções com a classificação de «Reservado» que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º vai demarcada em planta, na escala 1:2000, organizando-se colecções com a classificação de «Reservado» que terão os seguintes destinos:
 
 Uma ao Estado-Maior-General das Forças Armadas (4.ª Divisão);
 
@@ -132,12 +147,12 @@ Duas ao Ministério da Administração Interna;
 
 Uma ao Ministério da Habitação e Obras Públicas.
 
-###### Art. 8.º Este diploma revoga o [Decreto n.º 62/71](https://diariodarepublica.pt/dr/detalhe/decreto/62-1971-445557), de 3 de Março.
+Art. 8.º Este diploma revoga o [Decreto n.º 62/71](https://diariodarepublica.pt/dr/detalhe/decreto/62-1971-445557), de 3 de Março.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - José Alberto Loureiro dos Santos - Manuel da Costa Brás - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
 
-**Promulgado em 3 de Novembro de 1979.**
+Promulgado em 3 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

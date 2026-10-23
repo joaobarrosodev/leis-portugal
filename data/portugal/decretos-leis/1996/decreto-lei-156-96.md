@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/1996/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1996-241401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79739d4b31df27152834bfd7ac6894d01bd0b41373e4f1119a66bac99f9b5a56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df6ca65f29c453a8676bc7ad8ec3f55695b33d9dde99b97b8c4f75a29b59a60a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- Formação Profissional
-- Pessoal do MAR
+- Avaliação de Conhecimentos
 - Definição de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
+- Embarcação
 - Escola das Marinhas do Comércio e Pescas
 - Escola Náutica Infante Dom Henrique
-- Avaliação de Conhecimentos
+- Formação Profissional
+- Pessoal do MAR
 - Segurança Marítima
 relationships:
 - type: cites
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:27Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +157,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros, 12 de Julho de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - João Cardoso Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

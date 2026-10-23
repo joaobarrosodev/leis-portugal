@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2000/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2000-291653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0bc27383fb300d823fb470ad89c18baa77c60b8f53d361eedf5f786f0d89590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68406c84a28ab2a02a0800387fa5c204bc5eb45aa44bbbcd0aa9c3a44cdb26a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,22 @@ relationships:
   target: celex:31998L0048
   label: null
   source: http://data.europa.eu/eli/dir/1998/48/oj
+- type: repealed_by
+  target: pt:dre:494264:por
+  label: "Revogado, a partir de 01.07.2009, sem prejuízo do disposto no artigo 34º, pelo DEC LEI.133/2009.02.06.2009.MEI,\
+    \ DR.IS [106] de 02.06.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2009-494264
+  date: '2009-06-02'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:34Z'
   warnings: []
   errors: []
 ---
@@ -133,21 +139,21 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura. - Armando António Martins Vara.
 
-**Promulgado em 19 de Maio de 2000.**
+Promulgado em 19 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Jorge Sampaio.**
+O Presidente da República, Jorge Sampaio.
 
-**Referendado em 25 de Maio de 2000.**
+Referendado em 25 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
 Equação de base que traduz a equivalência entre os empréstimos, por um lado, e os reembolsos e encargos, por outro:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 Observações:
 
@@ -175,7 +181,7 @@ Esta soma é reembolsada num único pagamento de 1200 euros efectuado em 1 de Ju
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 A taxa será arredondada para 13% (ou 12,96%, se se preferir uma precisão de duas casas decimais).
 
@@ -185,7 +191,7 @@ A soma emprestada é S = 1000 euros, mas o mutuante retem 50 euros para despesas
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 A taxa será arredondada para 16,9%.
 
@@ -195,7 +201,7 @@ A soma emprestada é de 1000 euros em 1 de Janeiro de 1994, reembolsáveis em do
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 Resolvendo algebricamente, obtém-se i = 0,1306623, arredondado para 13,1% (ou 13,07%, se se preferir uma precisão de duas casas decimais).
 
@@ -215,7 +221,7 @@ Total ... 1088
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 Esta equação permite calcular i por aproximações sucessivas, que podem ser programadas numa calculadora de bolso.
 
@@ -231,7 +237,7 @@ Esta soma é reembolsada num único pagamento de 1200 euros efectuado um ano e m
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 A taxa será arredondada para 12,9% (ou 12,92%, se se preferir uma precisão de duas casas decimais).
 
@@ -241,7 +247,7 @@ A soma emprestada é S = 1000 euros, mas o mutuante retém 50 euros para despesa
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 A taxa será arredondada para 16,9% (ou 16,85%, se se preferir uma precisão de duas casas decimais).
 
@@ -251,7 +257,7 @@ A soma emprestada é de 1000 euros, reembolsáveis em dois pagamentos de 600 eur
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 Resolvendo algebricamente, obtém-se i = 0,13066, arredondado para 13,1% (ou 13,07%, se se preferir uma precisão de duas casas decimais).
 
@@ -271,7 +277,7 @@ Total ... 1088
 
 A equação é a seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
+[[[[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)](https://files.diariodarepublica.pt/1s/2000/06/128a00/25522554.pdf)
 
 Esta equação permite calcular i por aproximações sucessivas, que podem ser programadas numa calculadora de bolso.
 

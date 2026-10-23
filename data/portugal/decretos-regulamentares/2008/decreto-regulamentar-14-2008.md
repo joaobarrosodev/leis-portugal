@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/2008/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2008-454506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 554b225346259f200c4fb91819012cec0cce84cda6e0959a74f224ce0d883d33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b575c84a3ba25dd1b30855b467693c1468adfcc0df34ac81be803507a3a9080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Carreira Geral de Assistente Operacional
 - Carreira Geral de Assistente Técnico
 - Carreira Técnica Superior
-- Administração Pública
-- Remuneração Acessória
 - Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:946150995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25676932:por
+  label: "Determinada a manutenção em vigor, pela LEI.35/2014.20.06.2014.AR, DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
@@ -85,16 +90,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:204916688:por
+  label: Revogado, com efeitos a 01.01.2023, o presente diploma, pelo(a) Decreto-Lei n.º 84-F/2022 - Diário da República n.º
+    241/2022, 1º Suplemento, Série I de 2022-12-16, nos termos da al.b) do seu art. 23º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-f-2022-204916688
+  date: '2022-12-16'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:54Z'
   warnings: []
   errors: []
 ---
@@ -147,45 +166,45 @@ O presente decreto regulamentar entra em vigor na data de início de vigência d
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 14 de Julho de 2008.**
+Promulgado em 14 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Julho de 2008.**
+Referendado em 15 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Carreira de técnico superior
 
 Categoria de técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 ## ANEXO II — Carreira de assistente técnico
 
 Categoria de coordenador técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de assistente técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 ## ANEXO III — Carreira de assistente operacional
 
 Categoria de encarregado geral operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de encarregado operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de assistente operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 ## ANEXO IV — Posições remuneratórias complementares
 
@@ -193,22 +212,22 @@ Carreira de assistente técnico
 
 Categoria de coordenador técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de assistente técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Carreira de assistente operacional
 
 Categoria de encarregado geral operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de encarregado operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
 
 Categoria de assistente operacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14700/0515505157.pdf)

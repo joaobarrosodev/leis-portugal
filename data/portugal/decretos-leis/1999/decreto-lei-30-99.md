@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/024a00/05760579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/1999/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1999-182837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d6c9f5d1a114580b92ef51fba1023fcf4bb9fd887acbcf7d433a4c4f84fe5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da7f24802389019bcd0762ff59b036ae10228ced4ab5ef7d613aacf930093054
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Apoio Administrativo
-- EUA
-- REDE Escolar
 - Comunidades Portuguesas
 - Coordenador
-- Língua Portuguesa
 - Definição de Competências
 - Delegado
 - Destacamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino no Estrangeiro
 - Ensino Português no Estrangeiro
 - Espanha
-- Sistema Retributivo
 - Estrutura de Coordenação do Ensino Português no Estrangeiro
-- RFA
+- EUA
 - Formas de Provimento
-- Recrutamento de Pessoal
+- França
+- Gestão de Recursos Humanos
+- Língua Portuguesa
+- Luxemburgo
 - Missão Diplomática
+- Pessoal Docente
 - Pessoal Especializado
 - Política de Educação
-- Pessoal Docente
-- Ensino Básico
+- Recrutamento de Pessoal
+- REDE Escolar
 - Requisição de Pessoal
+- RFA
 - Serviço de Coordenação Geral do Ensino Português
-- Gestão de Recursos Humanos
 - Sistema Educativo
-- Educação Pré-escolar
-- França
-- Luxemburgo
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:538465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315503:por
+  label: "Aditado o art. 8º-B ao Dec Lei 133/85 de 02-Mai, na redacção dada pelo presente diploma, pelo DEC LEI.146/2001.2001.05.02.MNE,DR.IS-A\
+    \ [101]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/146-2001-315503
+  date: '2001-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1998/01/24/p/dre
   label: null
@@ -112,16 +118,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/6/1997/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/6/1997/01/09/p/dre
+- type: cites
+  target: pt:dre:152327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538465:por
+  label: Revogado o presente diploma, sem prejuízo do disposto no art. 40.º , pelo Dec Lei.165/2006.11.08.2006.ME, DR.IS [155]
+    de 11.08.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2006-538465
+  date: '2006-08-11'
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:51Z'
   warnings: []
   errors: []
 ---
@@ -288,15 +332,15 @@ São revogadas as disposições constantes do [Decreto-Lei n.º 264/77](https://
 
 Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 19 de Janeiro de 1999.**
+Promulgado em 19 de Janeiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Janeiro de 1999.**
+Referendado em 21 de Janeiro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estruturas de coordenação do ensino português
 

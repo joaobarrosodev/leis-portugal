@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1985-151530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5359f517244a4a307302a06e3b153782ee535cc202632bf011c2b642a193b493
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c0661d062e883be6df76f31cbc1001091fb0e2cac9cb3e211ddc5ac9658656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquivo
+- Conservação de Documentos
+- Direcção Geral de Inspecção Económica
+- Microfilmagem
+- Prazo de Conservação
+relationships:
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:22:52Z'
   warnings: []
   errors: []
 ---
@@ -130,9 +139,9 @@ b) Para os processos de contravenção e sumários crimes, 5 anos, contados, con
 
 Ministério do Comércio e Turismo.
 
-**Assinada em 2 de Maio de 1985.**
+Assinada em 2 de Maio de 1985.
 
-**O Ministro do Comércio e Turismo, Joaquim Ferreira do Amaral.**
+O Ministro do Comércio e Turismo, Joaquim Ferreira do Amaral.
 
 ## ANEXO
 

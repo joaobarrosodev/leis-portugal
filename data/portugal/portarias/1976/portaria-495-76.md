@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/495-1976-429988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e51ac2ee6a7c3567468379f05d349c40d7438160c8c82459f3bc46bc7c50ed42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e1dea567f96a9fb76104a183ec8c444a7fac42a228116313d83affe14058e52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alandroal
+- Évora
+- Expropriação
+- Montemor-o-Novo
+- Portel
+- Prédio Rústico
+- Redondo
+- Reforma Agrária
+- Reguengos de Monsaraz
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA PARCIALMENTE PELA, PORTARIA 191/93IIS, DE 27 DE AGOSTO, PUBLICADA NO DR.IIS, 212, DE 930909.\030909.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:459608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299008:por
+  label: "Derrogada em parte pela PORT.478/78.22.08.1978.MAP, DR.IS [192] de 22.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-1978-299008
+  date: '1978-08-22'
+- type: amended_by
+  target: pt:dre:380490:por
+  label: "Derrogada, na parte referente ao prédio rústico denominado \"Herdade dos Terrins\", pela PORT.319/79.05.07.1979.MAP,\
+    \ DR.IS [153] de 05.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-1979-380490
+  date: '1979-07-05'
+- type: amended_by
+  target: pt:dre:377923:por
+  label: "Derrogada relativamente à expropriação do prédio rústico denominado \"Herdade de Monte Novo\", concelho de Montemor-o-Novo,\
+    \ pela PORT.404/79.07.08.1979.MAP, DR.IS [181] de 07.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/404-1979-377923
+  date: '1979-08-07'
+- type: amended_by
+  target: pt:dre:681451:por
+  label: "Derrogada em parte pela PORT.202/80.24.04.1980.MAP, DR.IS [96] de 24.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/202-1980-681451
+  date: '1980-04-24'
+- type: amended_by
+  target: pt:dre:463986:por
+  label: "Derrogada, na parte referente ao prédio rústicos \"Herdade dos Musgos\", pela PORT.555/80.01.09.1980.MAP, DR.IS\
+    \ [201] de 01.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/555-1980-463986
+  date: '1980-09-01'
+- type: amended_by
+  target: pt:dre:460620:por
+  label: "Derrogada, na parte respeitante ao prédio rústico denominado «Duroa» pela PORT.693/80.20.09.1980.MAP, DR.IS [218]\
+    \ de 20.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-1980-460620
+  date: '1980-09-20'
+- type: amended_by
+  target: pt:dre:459608:por
+  label: "Derrogada, na parte que respeita aos prédios rústicos denominados «Herdade da Fuzeira» e «Fuzeiras de Baixo», pela\
+    \ PORT.1083/80.19.12.1980.MAP, DR.IS [292] de 19.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1083-1980-459608
+  date: '1980-12-19'
+- type: cites
+  target: pt:dre:307380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692818:por
+  label: "Revogada parcialmente, pela PORT.42/80.14.02.1980.MAP, DR.IS [38] de 14.02.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-1980-692818
+  date: '1980-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:59Z'
   warnings: []
   errors: []
 ---

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 100/1991, 1º Suplemento, Série I-B de 1991-05-02
   number: '100'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2404-(2) a 2404-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/100b01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24-a/1991/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-a-1991-479191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26441d757c1c7870047839af55792259c36cc6035ca156eb27df34c7a509d234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ca5fe357920077a2746db09ea0b25db161e516401feac6de692c8f00dc38bbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,94 @@ relationships:
   target: pt:dre:375424:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:679849:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicaçáo Social,
+    pelo(a) Despacho Normativo n.º 152/91 - Diário da República n.º 182/1991, Série I-B de 1991-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/152-1991-679849
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:679851:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 153/91 - Diário da República n.º 182/1991, Série I-B de 1991-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/153-1991-679851
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:679854:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 155/91 - Diário da República n.º 182/1991, Série I-B de 1991-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/155-1991-679854
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:679856:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a) Despacho Normativo n.º 151/91 - Diário
+    da República n.º 182/1991, Série I-B de 1991-08-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/151-1991-679856
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:403304:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 173/91 - Diário da República n.º 192/1991, Série I-B de 1991-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/173-1991-403304
+  date: '1991-08-22'
+- type: amended_by
+  target: pt:dre:403307:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 175/91 - Diário da República n.º 192/1991, Série I-B de 1991-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/175-1991-403307
+  date: '1991-08-22'
+- type: amended_by
+  target: pt:dre:403321:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 174/91 - Diário da República n.º 192/1991, Série I-B de 1991-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/174-1991-403321
+  date: '1991-08-22'
+- type: amended_by
+  target: pt:dre:322283:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 253/91 - Diário da República n.º 250/1991, Série I-B de 1991-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/253-1991-322283
+  date: '1991-10-30'
+- type: amended_by
+  target: pt:dre:656593:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da ex-Direcção-Geral da Comunicação Social
+    pelo(a) Despacho Normativo n.º 13/93 - Diário da República n.º 44/1993, Série I-B de 1993-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-1993-656593
+  date: '1993-02-22'
+- type: amended_by
+  target: pt:dre:657247:por
+  label: Alterado, no referente ao pessoal técnico, o quadro de pessoal da ex-Direcção-Geral da Comunicação Social pelo(a)
+    Despacho Normativo n.º 17/93 - Diário da República n.º 45/1993, Série I-B de 1993-02-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/17-1993-657247
+  date: '1993-02-23'
+- type: amended_by
+  target: pt:dre:375424:por
+  label: Alterado, no referente ao pessoal técnico superior, o quadro de pessoal da ex-Direcção-Geral da Comunicação Social
+    pelo(a) Despacho Normativo n.º 143/93 - Diário da República n.º 158/1993, Série I-B de 1993-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/143-1993-375424
+  date: '1993-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/1991/04/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/157/1991/04/24/p/dre
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598333:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:38Z'
   warnings: []
   errors: []
 ---
@@ -275,16 +349,16 @@ O recrutamento e selecção de pessoal do quadro é feito nos termos da lei gera
 
 Presidência do Conselho de Ministros, 21 de Janeiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Promulgado em 9 de Abril de 1991.**
+Promulgado em 9 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Abril de 1991.**
+Referendado em 12 de Abril de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO A QUE SE REFERE O ARTº8º do DEC. REG. 24-A/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/100b01/00020004.pdf))](https://files.diariodarepublica.pt/1s/1991/05/100b01/00020004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/100b01/00020004.pdf)

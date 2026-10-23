@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2009/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2009-490420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f401d0ce580a4b2631322407b1ff6630d80c1fcfdab12bb09acf5060431107e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74ebae913cef4b8a9427abaa897fcb6bb4ddb25f5976f6b2c2986dd659e4572a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,95 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Benefícios Fiscais
 - Código do IRS
 - Código do IVA
-- Internacionalização Empresarial
-- Estatuto dos Benefícios Fiscais
-- Apoio ao Investimento
-- Projeto de Investimento
 - Código Fiscal do Investimento
 - Conselho Interministerial de Coordenação dos Incentivos Fiscais ao Investimento
-- Benefícios Fiscais
+- Estatuto dos Benefícios Fiscais
+- Internacionalização Empresarial
+- Projeto de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 72º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterado o art. 72º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção constante do presente\
+    \ diploma, pela LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 72º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 72º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl]\
+    \ de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 16º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterado, com produção de efeitos desde 01.01.2012, o art. 72º do Código do IRS, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-nov, na redação do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 16º, 22º, 72º e 81º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado\
+    \ pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação aos arts. 5º e 9º; revogada a al. d) do nº 2 do art. 5º; e aditados os arts. 26º a 40º, assim\
+    \ como uma parte IV, com a designação «Outros benefícios fiscais ao investimento», que integra um cap. I, com a designação\
+    \ «Regime Fiscal de Apoio ao Investimento», compreendendo os arts. 26º a 32º, e um cap. II, com a designação «Sistema\
+    \ de incentivos fiscais em investigação e desenvolvimento empresarial», que compreende os arts. 33º a 40º, todos do Código\
+    \ Fiscal do Investimento, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013, que procedeu à sua republicação\
+    \ na redação atual, onde para aquele efeito substituiu «portaria conjunta», «despacho conjunto», «AICEP», «IAPMEI», «DGAIEC»\
+    \ e «DGCI», respetivamente, por «portaria», «despacho», «AICEP, E.P.E.», «IAPMEI, I.P.» e «AT». \0». \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 22º e 81º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado\
+    \ pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 16.º, 22.º, 72.º e 81.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação
+    do presente diploma, pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 28.º do Código do Imposto sobre o Valor Acrescentado (CIVA) aprovado pelo Dec Lei 394-B/84, de 26-dez,
+    renumerado na versão republicada do Código pelo Dec Lei 102/2008, de 20-jun pelo(a) Lei n.º 42/2016 - Diário da República
+    n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -92,16 +167,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: repealed_by
+  target: pt:dre:552023:por
+  label: "Revogada a parte III do Código Fiscal do Investimento, aprovado pelo presente diploma, pela LEI.20/2012.14.05.2012.AR,\
+    \ DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: repealed_by
+  target: pt:dre:58683382:por
+  label: Revogado, a partir de 05.11.2014, o Código Fiscal do Investimento aprovado pelo presente diploma, na redação da Lei
+    20/2012 de 14-mai, do Dec Lei 82/2013 de 17-jun e da Lei 83-C/2013 de 31-dez, pelo(a) Decreto-Lei n.º 162/2014 - Diário
+    da República n.º 211/2014, Série I de 2014-10-31 (ver Notas aos Dados gerais ou às Modificações sofridas pelo presente
+    diploma)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2014-58683382
+  date: '2014-10-31'
 article_structure:
-  article_count: 37
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:15Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +311,9 @@ b) Até ao 15.º dia do 2.º mês seguinte aos períodos de globalização do re
 
 9 - O sujeito passivo que não tenha gozado do direito referido no número anterior num ou mais anos do período referido no n.º 7 pode retomar o gozo do mesmo em qualquer dos anos remanescentes daquele período, contando que nele volte a ser considerado residente para efeitos de IRS.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -238,7 +329,9 @@ b) Até ao 15.º dia do 2.º mês seguinte aos períodos de globalização do re
 
 7 - ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -260,7 +353,9 @@ b) Até ao 15.º dia do 2.º mês seguinte aos períodos de globalização do re
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 81.º — Eliminação da dupla tributação internacional
+Artigo 81.º
+
+Eliminação da dupla tributação internacional
 
 1 - ...
 
@@ -368,19 +463,19 @@ O presente decreto-lei produz efeitos desde 1 de Janeiro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - João Manuel Machado Ferrão - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 11 de Setembro de 2009.**
+Promulgado em 11 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Setembro de 2009.**
+Referendado em 11 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — CÓDIGO FISCAL DO INVESTIMENTO
 
-# PARTE I — Disposições gerais e comuns
+## PARTE I — Disposições gerais e comuns
 
 ### CAPÍTULO I — Objecto e âmbito
 
@@ -562,7 +657,7 @@ c) Prestação de informações falsas sobre a situação da empresa ou viciaç�
 
 2 - Na falta de pagamento dentro do prazo de 30 dias referido no número anterior, há lugar a procedimento executivo.
 
-# PARTE II — Benefícios fiscais ao investimento produtivo e benefícios fiscais à internacionalização
+## PARTE II — Benefícios fiscais ao investimento produtivo e benefícios fiscais à internacionalização
 
 ### CAPÍTULO I — Benefícios fiscais contratuais ao investimento produtivo
 
@@ -698,7 +793,7 @@ d) Não impliquem a diminuição dos postos de trabalho em Portugal.
 
 2 - Os benefícios fiscais, os critérios de determinação do crédito fiscal e as aplicações relevantes relativos a projectos de internacionalização são definidos em diploma próprio.
 
-# PARTE III — Regime fiscal do investidor residente não habitual
+## PARTE III — Regime fiscal do investidor residente não habitual
 
 ###### Artigo 23.º — Investidor com residência não habitual em território português
 

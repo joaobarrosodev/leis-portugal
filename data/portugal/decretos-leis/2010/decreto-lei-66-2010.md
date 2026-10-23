@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2010-335465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c90ca47bf4195e0df632df7b81f2d7351c79ec7c3aa3cf9571f27e601188279d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edc489d252b714a638c24633b05bfb7f6c21ff46d70153659c996e316db546e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Sociedade Anónima
+- Comércio
 - Contrato
 - Definição de Competências
+- Entidade Reguladora dos Serviços Energéticos
 - Indústria
-- Publicitação
 - Liberalização do Mercado
 - Licenciamento
 - Mibgas
-- Entidade Reguladora dos Serviços Energéticos
 - Preço
 - Preço Livre
-- Serviço Público
 - Proteção do Consumidor
+- Publicitação
 - Rede Pública de Gás Natural
-- Comércio
+- Serviço Público
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:66379753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670022:por
+  label: "Alterados, a partir de 21.06.2011, os arts. 40º e 43º do Dec Lei 30/2006, de 15-Fev, na redacção do presente diploma,\
+    \ pelo DEC LEI.77/2011.20.06.2011.MEID, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-2011-670022
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:553917:por
+  label: "Alterados os arts. 40.º e 43.º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.74/2012.26.03.2012.MEE,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2012-553917
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:192436:por
+  label: "Alterados os arts. 40º e 43º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.230/2012.26.10.2012.MEE,\
+    \ DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2012-192436
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:192437:por
+  label: "Alterado, a partir de 25.11.2012, o art. 41º do Dec Lei 140/2006, de 26-jul, na redação do presente diploma, pelo\
+    \ DEC LEI.231/2012.26.10.2012.MEE, DR.IS [208] de 26.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2012-192437
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:257005:por
+  label: "Alterado o art. 5º do presente diploma, na redação do Dec Lei 77/2011, de 20-jun, e Dec Lei 74/2012, de 26-mar,\
+    \ pelo DEC LEI.15/2013.28.01.2013.MEE, DR.IS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2013-257005
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:66379753:por
+  label: Dada nova redação ao art. 5.º (alterado pelo Dec Lei 77/2011 de 20-jun, pelo Dec Lei 74/2012 de 26-mar e pelo Dec
+    Lei 15/2013 de 28-jan); e revogados os n.ºs 3 e 5 do referido art. 5.º do presente diploma pelo(a) Decreto-Lei n.º 15/2015
+    - Diário da República n.º 21/2015, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2015-66379753
+  date: '2015-01-30'
 - type: cites
   target: celex:32003L0055
   label: null
@@ -101,15 +138,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2006/02/15/p/dre
 article_structure:
-  article_count: 10
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:42Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +207,9 @@ Os artigos 40.º, 42.º e 43.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro,
 
 4 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - O comercializador de último recurso está obrigado a fornecer gás natural aos clientes com consumos anuais inferiores ou iguais a 10 000 m3, que o requisitem, e preencham os requisitos legais definidos para o efeito.
 
@@ -178,7 +217,9 @@ Os artigos 40.º, 42.º e 43.º do Decreto-Lei n.º 30/2006, de 15 de Fevereiro,
 
 3 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +249,9 @@ c) ...
 
 d) ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -252,12 +295,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 25 de Maio de 2010.**
+Promulgado em 25 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2010.**
+Referendado em 27 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

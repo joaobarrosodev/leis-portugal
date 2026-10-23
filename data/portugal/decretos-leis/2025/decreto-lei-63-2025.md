@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06800/0006600074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2025/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2025-913947257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 714f08c220242ec36720c5b7b68555b86e610035316997ad9087086d2d2b88f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1293df2cdad4e1b647eacb3bd191b783b8c543dccae4eb33c329c223a22f668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Comissão de Serviço
 - Concurso
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
+- Instituto da Conservação da Natureza e das Florestas
 - Integração de Trabalhadores
 - Lista Nominativa
-- Instituto da Conservação da Natureza e das Florestas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Transferência de Competências
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:43/2019
+  label: Altera, a partir de 1 de maio de 2025, os artigos 1.º, 3.º, 4.º, 6.º e 11.º e revoga o artigo 2.º-A, as alíneas ii),
+    jj), kk), ll), mm) e nn) do n.º 1 do artigo 4.º, as alíneas h), i), j), k), l) e m) do n.º 4 e as alíneas bb), cc), dd),
+    ee), ff), gg), hh), ii) e jj) do n.º 7 do artigo 6.º, a alínea r) do n.º 2 do artigo 8.º e o n.º 5 do artigo 11.ºdo Decreto-Lei
+    n.º 43/2019, de 29 de março, Diário da República n.º 63/2019, Série I
+  source: null
+  date: '2019-03-29'
 - type: cites
   target: celex:31999L0022
   label: null
@@ -126,16 +134,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2017/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2017/03/03/p/dre
+- type: cites
+  target: pt:dre:106549655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121712773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164955304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70114079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:45Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +200,7 @@ validation:
 
 de 7 de abril
 
-Em Portugal, à semelhança do que sucede a nível europeu e internacional, é crescente a sensibilização para a necessidade de garantir a proteção dos animais e, em particular, dos animais de companhia. Nesse sentido, com a publicação da [Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/lei/8-2017-106549655), de 3 de março, que alterou o Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de novembro de 1966, foi estabelecido o estatuto jurídico dos animais, reconhecendo a sua natureza de seres vivos dotados de sensibilidade. Igualmente com a publicação das Leis n.<sup>os</sup>[69/2014](https://diariodarepublica.pt/dr/detalhe/lei/69-2014-56384878), de 29 de agosto, [110/2015](https://diariodarepublica.pt/dr/detalhe/lei/110-2015-70114079), de 26 de agosto, e [39/2020](https://diariodarepublica.pt/dr/detalhe/lei/39-2020-140431165), de 18 de agosto, foram criminalizados os maus-tratos a animais de companhia e, por consequência, estabelecido o quadro de penas acessórias aplicáveis aos crimes contra os mesmos.
+Em Portugal, à semelhança do que sucede a nível europeu e internacional, é crescente a sensibilização para a necessidade de garantir a proteção dos animais e, em particular, dos animais de companhia. Nesse sentido, com a publicação da [Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/lei/8-2017-106549655), de 3 de março, que alterou o Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de novembro de 1966, foi estabelecido o estatuto jurídico dos animais, reconhecendo a sua natureza de seres vivos dotados de sensibilidade. Igualmente com a publicação das Leis n.os[69/2014](https://diariodarepublica.pt/dr/detalhe/lei/69-2014-56384878), de 29 de agosto, [110/2015](https://diariodarepublica.pt/dr/detalhe/lei/110-2015-70114079), de 26 de agosto, e [39/2020](https://diariodarepublica.pt/dr/detalhe/lei/39-2020-140431165), de 18 de agosto, foram criminalizados os maus-tratos a animais de companhia e, por consequência, estabelecido o quadro de penas acessórias aplicáveis aos crimes contra os mesmos.
 
 Em virtude da alteração operada pelo [Decreto-Lei n.º 46/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2021-164955304), de 11 de junho, ao [Decreto-Lei n.º 43/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2019-121712773), de 29 de março, que aprova a orgânica do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), foram transferidas para esta entidade da administração indireta do Estado as atribuições relativas à promoção do bem-estar dos animais de companhia anteriormente cometidas à Direção-Geral de Alimentação e Veterinária (DGAV), bem como o Sistema de Informação de Animais de Companhia (SIAC), que também passou a ser da responsabilidade do ICNF, I. P.
 
@@ -268,11 +324,15 @@ Os artigos 1.º, 3.º, 4.º, 6.º e 11.º do [Decreto-Lei n.º 43/2019](https://
 
 3 - […]
 
-###### Artigo 3.º — […]
+Artigo 3.º
+
+[…]
 
 O ICNF, I. P., tem por missão propor e executar políticas integradas de ordenamento e gestão do território, em articulação com entes públicos e privados, nos domínios da conservação da natureza, da biodiversidade, das florestas e competitividade das fileiras florestais, e assegurar a gestão dos fogos rurais.
 
-###### Artigo 4.º — […]
+Artigo 4.º
+
+[…]
 
 1 - […]
 
@@ -358,7 +418,9 @@ nn) (Revogada.)
 
 2 - […]
 
-###### Artigo 6.º — […]
+Artigo 6.º
+
+[…]
 
 1 - […]
 
@@ -482,7 +544,9 @@ jj) (Revogada.)
 
 8 - […]
 
-###### Artigo 11.º — […]
+Artigo 11.º
+
+[…]
 
 1 - […]
 
@@ -506,12 +570,14 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 28 de março de 2025.**
+Promulgado em 28 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de março de 2025.**
+Referendado em 31 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118896998

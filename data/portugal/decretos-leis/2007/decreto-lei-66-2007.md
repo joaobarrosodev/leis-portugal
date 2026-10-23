@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2007/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2007-518639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9706d0c8f8704c172c6dfe14b07f188d4ff9031570f5cec94f541c2d6fbac10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3385e074ef5f6d7a8155207c4f2ceb61fe10329448bb95242a1a12120b639d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
-- Fundação para a Ciência e a Tecnologia
+- Benefícios Fiscais
 - Comissão Instaladora
 - Conselho Científico
 - Conselho de Administração
 - Conselho Fiscal
-- Portugal
 - Definição de Competências
 - Doação
 - Espanha
 - Estatuto
+- Fundação para a Ciência e a Tecnologia
 - Isenção Fiscal
 - Laboratório Ibérico Internacional de Nanotecnologia
-- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
-- UMIC
 - Mecenato Científico-Tecnológico
-- Benefícios Fiscais
+- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Portugal
+- UMIC
 - Utilidade Pública
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:11Z'
   warnings: []
   errors: []
 ---
@@ -165,15 +169,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 7 de Março de 2007.**
+Promulgado em 7 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Março de 2007.**
+Referendado em 8 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Estatutos da Comissão Instaladora do Laboratório Ibérico Internacional de Nanotecnologia - INL
 

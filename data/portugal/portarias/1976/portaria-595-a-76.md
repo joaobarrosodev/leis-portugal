@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 236/1976, 1º Suplemento, Série I de 1976-10-08
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2282-(3) a 2282-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-a-1976-482618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:08:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9a6ad6dffe3a16979eca5c2dc02cc996150d44c2465472f7e4a3213345ff5b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad33bfad5628529c32f79b80dabebc90465713667971964fdf5678cda9a8871b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carris
+- CP
+- Preço
+- Serviço de Transportes Colectivos do Porto
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Urbano
+- Transtejo
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:511242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409317:por
+  label: "Rectificada pela DECL.DD8173.30.10.1976.PCM, DR.IS [255] de 30.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-409317
+  date: '1976-10-30'
+- type: amended_by
+  target: pt:dre:406771:por
+  label: "Alterados os pontos 2, 5.1 e 6.2 pela PORT.720/76.27.11.1976.MCT, DR.IS [278] de 27.11.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1976-406771
+  date: '1976-11-27'
+- type: amended_by
+  target: pt:dre:407746:por
+  label: Mantida em vigor as disposições do presente diploma pelo(a) Portaria n.º 740/76 - Diário da República n.º 291/1976,
+    Série I de 1976-12-15 nos termos do n.º 6 deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-1976-407746
+  date: '1976-12-15'
+- type: amended_by
+  target: pt:dre:141805:por
+  label: Alterado o ponto 3.3 do n.º 3 pelo(a) Portaria n.º 93/77 - Diário da República n.º 45/1977, Série I de 1977-02-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/93-1977-141805
+  date: '1977-02-23'
+- type: cites
+  target: pt:dre:302570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466825:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO O NUM 8, PELA PORT 348/78 DE 30-JUN DR.IS [148] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:219555:por
+  label: "Revogados os nºs 6.1 \"passageiros\" e 6.2 do ponto 1º do presente diploma pela PORT.170/78.29.03.1978.MCT, DR.IS\
+    \ [73] de 29.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-1978-219555
+  date: '1978-03-29'
+- type: repealed_by
+  target: pt:dre:219556:por
+  label: "Revogados os n.os 1 a 5.1, inclusive, do ponto 1.º, pela PORT.169/78.29.03.1978.MCT, DR.IS [73]Supl de 29.03.1978\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1978-219556
+  date: '1978-03-29'
+- type: repealed_by
+  target: pt:dre:295800:por
+  label: "Revogado o n.º 6.1 \"Mercadorias\" do ponto 1.º pela PORT.257/78.05.05.1978.MCT, DR.IS [103] de 05.05.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-1978-295800
+  date: '1978-05-05'
+- type: repealed_by
+  target: pt:dre:296248:por
+  label: Revogados os n.ºs 5.2 e 5.3 do ponto 1.º pelo(a) Portaria n.º 277/78 - Diário da República n.º 112/1978, Série I
+    de 1978-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-1978-296248
+  date: '1978-05-16'
+- type: repealed_by
+  target: pt:dre:298255:por
+  label: Revogado o n.º 8 pelo(a) Portaria n.º 348/78 - Diário da República n.º 148/1978, Série I de 1978-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-1978-298255
+  date: '1978-06-30'
+- type: repealed_by
+  target: pt:dre:182191:por
+  label: Revogado, a partir de 16.10.1978, o n.º 7 do n.º 1.º pelo(a) Portaria n.º 615-A/78 - Diário da República n.º 237/1978,
+    1º Suplemento, Série I de 1978-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-a-1978-182191
+  date: '1978-10-14'
+- type: repealed_by
+  target: pt:dre:511242:por
+  label: "Revogada pela PORT.50/94.19.01.1994.MF, DR.IS-B [15] de 19.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-1994-511242
+  date: '1994-01-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:08:25Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +299,7 @@ c) Para operários apenas são válidos desde as primeiras viagens até às 8 ho
 
 4.1 - As actuais bases tarifárias passam a ser as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 4.2 - Da aplicação das novas bases não poderá resultar um aumento de preço que exceda o limite de 30%, com excepção do disposto para o mínimo de cobrança, devendo os preçários a elaborar ter em conta este critério.
 
@@ -230,31 +323,31 @@ c) Para operários apenas são válidos desde as primeiras viagens até às 8 ho
 
 5 - Transtejo - Transportes fluviais - Tarifas de transportes de passageiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 5.2 - Tarifas de transportes de veículos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 Cais do Sodré-Cacilhas
 
 Belém-Porto Brandão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 Terreiro do Paço-Montijo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 5.3 - Tabela de mercadorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 5.3.1 Anexo à tabela de mercadorias:
 
 Lista das mercadorias volumosas e de peso diminuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 6 - CP - Caminhos de Ferro Portugueses
 
@@ -294,11 +387,11 @@ Respeitantes aos números de ordem 15.º e 17.º (carreiras normais) - 20%.
 
 Tabelas de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 7 - Transportes aéreos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23601/00030007.pdf)
 
 8 - Serviços de aluguer de automóveis ligeiros
 

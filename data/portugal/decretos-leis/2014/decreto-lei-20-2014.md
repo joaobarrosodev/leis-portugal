@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2014/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2014-570735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 214ceb921d1ee63f2edd76c1680178500631a133bacf019ec83c96017107b062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60577cce1f9fe5353d88d448816e6ee015b250855ad53f340b9722b62bf2f7ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Justiça
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado Adjunto e do Orçamento
-- Membros do Governo
-- Secretário de Estado da Justiça
 - Governo XIX
-- Secretário de Estado do Tesouro
-- Orgânica
+- Membros do Governo
+- Ministro da Justiça
 - Ministro de Estado e das Finanças
+- Orgânica
 - Secretário de Estado
+- Secretário de Estado Adjunto e do Orçamento
 - Secretário de Estado da Administração Pública
+- Secretário de Estado da Justiça
 - Secretário de Estado das Finanças
+- Secretário de Estado do Tesouro
+- Secretário de Estado dos Assuntos Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:67323529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:65908883:por
+  label: Dada nova redação ao art. 3.º do Dec Lei 86-A/2011 de 12-jul, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2014-65908883
+  date: '2014-12-17'
+- type: amended_by
+  target: pt:dre:67323529:por
+  label: Alterado o art. 3.º do Dec. Lei 86-A/2011 de 12-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 87/2015
+    - Diário da República n.º 102/2015, Série I de 2015-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2015-67323529
+  date: '2015-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2013/08/21/p/dre
   label: null
@@ -103,16 +115,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:192036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:54Z'
   warnings: []
   errors: []
 ---
@@ -175,12 +207,12 @@ A nova redação dada pelo presente diploma aos n.os 3 e 7 do artigo 3.º do [De
 
 Visto e aprovado em Conselho de Ministros de 9 de janeiro de 2014. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 4 de fevereiro de 2014.**
+Promulgado em 4 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de fevereiro de 2014.**
+Referendado em 5 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09800/0288802894.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2008/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2008-249259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbf0793cb72bb4afacc72476345d4c97e42d3d6b06da3395d276c56281f4461a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 223516e7467ac3a0c098c24c4e187b74bfd1ba44e87bbb8965adf18f997f6d82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
+- ASAE
 - BEM Móvel
 - BENS de Consumo
-- Multa
-- Instituto da Construção e do Imobiliário
+- Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Conflito de Consumo
 - Contra-ordenação
 - Contrato
@@ -81,35 +82,54 @@ subjects:
 - Direito de Regresso
 - Direitos Económicos
 - Fiscalização
-- Instrução Processual
-- ASAE
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Informação do Consumidor
+- Instituto da Construção e do Imobiliário
+- Instrução Processual
+- Multa
+- Prédio Urbano
 - Prestação de Serviços
 - Produtor
 - Proteção do Consumidor
-- Prédio Urbano
-- Comércio
 - Vendedor
 relationships:
 - type: amended_by
   target: pt:dre:172938301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 12.º-A e 12.º-C do Dec Lei 67/2003 de 08-abr, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:176492316:por
+  label: Prorrogado o prazo que termine entre os dias 25.12.2021 e 09.01.2022, ou nos 10 dias posteriores àquele período,
+    para o exercício de direitos atribuídos ao consumidor nos termos do art. 5.º-A do Dec Lei 67/2003 de 08-abr, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento,
+    Série I de 2021-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-b-2021-176492316
+  date: '2021-12-23'
 - type: cites
   target: celex:31999L0044
   label: null
   source: http://data.europa.eu/eli/dir/1999/44/oj
+- type: repealed_by
+  target: pt:dre:172938301:por
+  label: Revogado, a partir do dia 01.01.2022, o Dec Lei 67/2003 de 08-abr, na versão republicada pelo presente diploma pelo(a)
+    Decreto-Lei n.º 84/2021 - Diário da República n.º 202/2021, Série I de 2021-10-18 nos termos do seu art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2021-172938301
+  date: '2021-10-18'
 article_structure:
-  article_count: 36
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:34Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +170,9 @@ Objecto
 
 2 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +186,9 @@ Objecto
 
 6 - Os direitos atribuídos pelo presente artigo transmitem-se a terceiro adquirente do bem.
 
-###### Artigo 5.º — Prazo da garantia
+Artigo 5.º
+
+Prazo da garantia
 
 1 - ...
 
@@ -180,7 +204,9 @@ Objecto
 
 7 - O prazo referido no n.º 1 suspende-se, a partir da data da denúncia, durante o período em que o consumidor estiver privado do uso dos bens.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo dos direitos que lhe assistem perante o vendedor, o consumidor que tenha adquirido coisa defeituosa pode optar por exigir do produtor a sua reparação ou substituição, salvo se tal se manifestar impossível ou desproporcionado tendo em conta o valor que o bem teria se não existisse falta de conformidade, a importância desta e a possibilidade de a solução alternativa ser concretizada sem grave inconveniente para o consumidor.
 
@@ -192,7 +218,9 @@ Objecto
 
 5 - (Revogado.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -214,7 +242,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A Direcção-Geral do Consumidor deve promover acções destinadas a informar, e deve incentivar as organizações profissionais a informarem, os consumidores dos direitos que para eles resultam do presente decreto-lei.»
 
@@ -230,7 +260,9 @@ São aditados ao Decreto-Lei n.º 67/2003, de 8 de Abril, os artigos 1.º-A, 1.�
 
 2 - O presente decreto-lei é, ainda, aplicável, com as necessárias adaptações, aos bens de consumo fornecidos no âmbito de um contrato de empreitada ou de outra prestação de serviços, bem como à locação de bens de consumo.
 
-###### Artigo 1.º-B — Definições
+Artigo 1.º-B
+
+Definições
 
 Para efeitos de aplicação do disposto no presente decreto-lei, entende-se por:
 
@@ -250,7 +282,9 @@ g) «Garantia voluntária», qualquer compromisso ou declaração, de carácter 
 
 h) «Reparação», em caso de falta de conformidade do bem, a reposição do bem de consumo em conformidade com o contrato.
 
-###### Artigo 5.º-A — Prazo para exercício de direitos
+Artigo 5.º-A
+
+Prazo para exercício de direitos
 
 1 - Os direitos atribuídos ao consumidor nos termos do artigo 4.º caducam no termo de qualquer dos prazos referidos no artigo anterior e na ausência de denúncia da desconformidade pelo consumidor, sem prejuízo do disposto nos números seguintes.
 
@@ -268,7 +302,9 @@ b) A mediação ou a conciliação seja determinada no âmbito de processo judic
 
 c) Se constitua a obrigação de recorrer à mediação ou conciliação.
 
-###### Artigo 12.º -A — Contra-ordenações
+Artigo 12.º -A
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações puníveis com a aplicação das seguintes coimas:
 
@@ -278,7 +314,9 @@ b) De (euro) 250 a (euro) 3500 e de (euro) 3500 a (euro) 30 000, consoante o inf
 
 2 - A negligência e a tentativa são puníveis, sendo os limites mínimo e máximo das coimas aplicáveis reduzidos a metade.
 
-###### Artigo 12.º-B — Sanções acessórias
+Artigo 12.º-B
+
+Sanções acessórias
 
 1 - Quando a gravidade da infracção o justifique, podem ainda ser aplicadas, nos termos do regime geral das contra-ordenações, as seguintes sanções acessórias:
 
@@ -290,7 +328,9 @@ c) Privação do direito a subsídio ou a benefício outorgado por entidade ou s
 
 2 - As sanções referidas no número anterior têm uma duração máxima de dois anos contados a partir da data da decisão condenatória definitiva.
 
-###### Artigo 12.º-C — Fiscalização e instrução dos processos de contra-ordenação
+Artigo 12.º-C
+
+Fiscalização e instrução dos processos de contra-ordenação
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar a aplicação do disposto no presente decreto-lei, bem como instruir os processos de contra-ordenação previstos no artigo 12.º-A.
 
@@ -320,15 +360,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - João Tiago Valente Almeida da Silveira - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 6 de Maio de 2008.**
+Promulgado em 6 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de Maio de 2008.**
+Referendado em 8 de Maio de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação do Decreto-Lei n.º 67/2003, de 8 de Abril)
 
@@ -562,7 +602,9 @@ Direito à qualidade dos bens e serviços
 
 Os bens e serviços destinados ao consumo devem ser aptos a satisfazer os fins a que se destinam e a produzir os efeitos que se lhes atribuem, segundo as normas legalmente estabelecidas, ou, na falta delas, de modo adequado às legítimas expectativas do consumidor.
 
-###### Artigo 12.º — Direito à reparação de danos
+Artigo 12.º
+
+Direito à reparação de danos
 
 1 - O consumidor tem direito à indemnização dos danos patrimoniais e não patrimoniais resultantes do fornecimento de bens ou prestações de serviços defeituosos.
 

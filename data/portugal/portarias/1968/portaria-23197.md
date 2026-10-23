@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23197-1968-233372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b685f7957cd86b8dd15629843e02cb3d3f77268fabe1f26fa4a5823990af6b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0900bd306b6a648bbb379a35915637f6d81c8ff14b6c06ecce00a1df2525362c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663931:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:50Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +115,23 @@ Inspecção de Administração Ultramarina, Financeira, das Alfândegas, de Fome
 
 Dspesas com o pessoal:
 
-###### Artigo 36.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 25000$00
+Artigo 36.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 25000$00
 
 Serviços de Administração Civil
 
 Despesas com o pessoal:
 
-###### Artigo 38.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 50000$00
+Artigo 38.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 50000$00
 
 Instituto do Trabalho, Previdência e Acção Social
 
 Despesas com o pessoal:
 
-###### Artigo 47.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
+Artigo 47.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
 
 Serviços de Saúde e Higiene
 
-###### Artigo 121.º «Remunerações acidentais»:
+Artigo 121.º «Remunerações acidentais»:
 
 N.º 1) «Gratificações especiais anuais»:
 
@@ -125,13 +145,13 @@ Subdelegação da Polícia Internacional e de Defesa do Estado
 
 Despesas com o pessoal:
 
-###### Artigo 129.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 75000$00
+Artigo 129.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 75000$00
 
 ### CAPÍTULO 6.º — Serviços de justiça
 
 Conservatória do Registo Civil e do Notariado
 
-###### Artigo 204.º «Vencimentos não suportados pela parte emolumentar (n.º 2.º do artigo 72.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961» ... 50000$00
+Artigo 204.º «Vencimentos não suportados pela parte emolumentar (n.º 2.º do artigo 72.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961» ... 50000$00
 
 ... 300000$00
 
@@ -143,7 +163,7 @@ Repartição de Gabinete do Governador
 
 Despesas com o pessoal:
 
-###### Artigo 12.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+Artigo 12.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
@@ -151,13 +171,13 @@ Serviços de Administração Civil
 
 Despesas com o pessoal:
 
-###### Artigo 38.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
+Artigo 38.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 
 Serviços de Saúde e Higiene
 
 Despesas com o pessoal:
 
-###### Artigo 119.º «Remunerações certas ao pessoal em exercício»:
+Artigo 119.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 200000$00
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 76/1980, 3º Suplemento, Série I de 1980-03-31
   number: '76'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 624-(7) a 624-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf
 entry_into_force_dates: []
@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-d-1980-229958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40d64469de5213b94a38f4dec867ce4afbc26c232aac383211c15001c7214e88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a66cf7a75965bb4e0486323da4d8c4d9154ab2311088a7a3bbee228e9add925b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Aviação Civil
+- Direcção Geral de Viação
+- Direcção Geral dos Transportes Terrestres
+- Inspecção Geral de Navios
+- Ministério dos Transportes e Comunicações
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:284902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458189:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral do Ministério dos Transportes e Comunicações, constante do anexo\
+    \ I, pela PORT.1000/80.21.11.1980.PCM, DR.IS [270] de 21.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1000-1980-458189
+  date: '1980-11-21'
+- type: amended_by
+  target: pt:dre:574322:por
+  label: "Aumentados lugares ao quadro de pessoal da Direcção-Geral de Viação, constante do mapa IV anexo pela PORT.460/81.04.06.1981.MFP,\
+    \ DR.IS [128] de 04.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1981-574322
+  date: '1981-06-04'
+- type: amended_by
+  target: pt:dre:578912:por
+  label: "Alterado o quadro de pessoal da Secretaria-Geral, constante do mapa anexo pela PORT.477/81.09.06.1981.MFP, DR.IS\
+    \ [132] de 09.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1981-578912
+  date: '1981-06-09'
+- type: amended_by
+  target: pt:dre:562437:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Viação, aprovado pelo presente diploma, pela PORT.928/81.23.10.1981.MFP,\
+    \ DR.IS [244] de 23.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/928-1981-562437
+  date: '1981-10-23'
+- type: amended_by
+  target: pt:dre:601490:por
+  label: "Alterado o quadro de pessoal constante no mapa I anexo, pela PORT.89/82.1982.01.20.MFP, DR.IS [16] de 20/Jan/1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-1982-601490
+  date: '1981-12-19'
+- type: amended_by
+  target: pt:dre:567065:por
+  label: "Alterado o mapa II anexo ao presente diploma, pela PORT.1085/81.22.12.1981.MFP, DR.IS [293] de 22.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-1981-567065
+  date: '1981-12-22'
+- type: amended_by
+  target: pt:dre:376664:por
+  label: "Alterado o quadro de pessoal constante do anexo I pela PORT.965/82.13.10.1982.MFP, DR.IS [237] de 13.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/965-1982-376664
+  date: '1982-10-13'
+- type: amended_by
+  target: pt:dre:180983:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pelo Dec Lei 242/79, de 25-jul, alterado
+    pela presente e pelas Ports 286/80, de 26-mai, e 1085/81, de 22-dez, e pelo Dec Lei 333/80, de 29-ago, pelo(a) Portaria
+    n.º 636/85 - Diário da República n.º 194/1985, Série I de 1985-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/636-1985-180983
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELA PORT 636/85 DE 24-AGO DR.IS [194]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:227457:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Secretaria-Geral, pela PORT.190/86.08.05.1986.MF, DR.IS [105]\
+    \ de 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-1986-227457
+  date: '1986-05-08'
+- type: amended_by
+  target: pt:dre:417779:por
+  label: "Alterado o quadro de pessoal pela PORT.691/87.12.08.1987.MF, DR.IS [184] de 12.08.1987 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1987-417779
+  date: '1987-08-12'
+- type: amended_by
+  target: pt:dre:284902:por
+  label: Alterado o quadro de Pessoal da Direcção Geral da Aviação Civil, aprovado pelo Dec Lei 242/79, de 25-jul, alterado
+    pela presente e pelas Ports 286/80, de 26-mai, 1085/81, de 22-dez, e 636/85, de 24-ago, e pelo Dec Lei 333/80, de 29-ago,
+    pelo(a) Portaria n.º 222/88 - Diário da República n.º 86/1988, Série I de 1988-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-1988-284902
+  date: '1988-04-13'
+- type: cites
+  target: pt:dre:235970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508613:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:51Z'
   warnings: []
   errors: []
 ---
@@ -104,28 +205,28 @@ I) Secretaria-Geral
 
 Quadro e vencimentos do pessoal a que se refere o artigo 16.º do Decreto Regulamentar n.º 2/77
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
 
 II) Direcção-Geral da Aviação Civil
 
 Quadro e vencimentos do pessoal a que se refere o n.º 1 do artigo 16.º do [Decreto-Lei n.º 242/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1979-381286), de 25 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
 
 III) Direcção-Geral de Transportes Terrestres
 
 Quadro e vencimentos do pessoal a que se refere o artigo 1.º do Decreto Regulamentar n.º 3/77, de 7 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
 
 IV) Direcção-Geral de Viação
 
 Quadro e vencimentos do pessoal a que se refere o artigo 1.º do [Decreto-Lei n.º 803/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/803-1976-407334), de 6 de Novembro, com as alterações constantes das Portarias n.os [31/78](https://diariodarepublica.pt/dr/detalhe/portaria/31-1978-447950), de 16 de Janeiro, e [26-E/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-e-1980-508613), de 9 de Janeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
 
 V) Inspecção-Geral de Navios
 
 Quadro e vencimentos do pessoal a que se refere o mapa IV da [Portaria n.º 873/74](https://diariodarepublica.pt/dr/detalhe/portaria/873-1974-235970), de 31 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf))](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/07603/00070010.pdf)

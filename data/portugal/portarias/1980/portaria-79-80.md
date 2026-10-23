@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05100/02730274.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-1980-678865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 747e6073712f824d506737ae558c63b1305d783d5342b6e463427ac874d492b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6839ae5f2604edb6c2756be2c2293b08838660075905948414dd02847d910962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Peixe Congelado
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:390213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 84/81, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 15, DE 19/1/81.\0/1/81.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:390213:por
+  label: "Revogada pela PORT.84/81.02.01.1981.MAP, DR.IS [15/81] de 19.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-1981-390213
+  date: '1981-01-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:09Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +153,4 @@ Secretarias de Estado das Pescas e do Comércio Interno, 11 de Fevereiro de 1980
 
 Tabela de preços de pescado congelado semitransformado não fraccionado nem embalado comercialmente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/05100/02730274.pdf))](https://files.diariodarepublica.pt/1s/1980/03/05100/02730274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05100/02730274.pdf)

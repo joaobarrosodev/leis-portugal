@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2005/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2005-243689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ead68d7dc91cf8873a2a4e4f6b7b24e9a99ed349ff5f31ac16978087b2bf2435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880a4cbde3edf87ff0222783d38549d3154d8626b14f4ccf58941f3abf6c172e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
+- Açores
 - Aproximação das Legislações
-- Gestão de Resíduos
+- Atividade Industrial
 - CE Países
-- Multa
-- Definição de Competências
-- Saúde Pública
-- Fiscalização
+- Comissão Consultiva para a Prevenção e Controlo Integrados da Poluição
 - Comissão de Coordenação e Desenvolvimento Regional
+- Definição de Competências
+- Fiscalização
+- Gestão de Resíduos
 - Instituto do Ambiente
 - Licenciamento
-- Proteção do Ambiente
-- Comissão Consultiva para a Prevenção e Controlo Integrados da Poluição
-- Poluição Marinha
 - Madeira.região Autónoma
+- Multa
+- Poluição Marinha
 - Poluição Sonora
-- Açores
+- Proteção do Ambiente
+- Saúde Pública
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:124532100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:194/2000
+  label: "Altera os artigos 2.º, 17.º, 24.º, 25.º, 26.º, adita o artigo 25.º-A ao Decreto-Lei n.º 194/2000, de 21 de Agosto,\
+    \ DR.IS-A [192], e determina que as referências nele feitas, com as alterações que lhe foram introduzidas pelos Decretos-Leis\
+    \ n.os 152/2002, de 23 de Maio, 69/2003, de 10 de Abril, e 233/2004, de 14 de Dezembro, à Direcção Regional do Ambiente\
+    \ (DRA) entendam-se por efectuadas à Comissão de Coordenação e Desenvolvimento Regional (CCDR) \0 \0"
+  source: null
+  date: '2000-08-21'
 - type: cites
   target: celex:31996L0061
   label: null
@@ -98,16 +106,28 @@ relationships:
   target: celex:32003L0035
   label: null
   source: http://data.europa.eu/eli/dir/2003/35/oj
+- type: repealed_by
+  target: pt:dre:453550:por
+  label: "Revogado, a partir de 31.08.2008, o Decreto-Lei 194/2000, de 21 de Agosto, na redacção do presente diploma, pelo\
+    \ DEC LEI.173/2008.26.08.2008.MAOTDR, DR.IS [164] de 26.08.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2008-453550
+  date: '2008-08-26'
+- type: repealed_by
+  target: pt:dre:493485:por
+  label: Revogado o Dec Lei 152/2002, de 23-Maio, na redacção do presente diploma, pelo DEC LEI.183/2009.10.08.2009.MAOTDR,
+    DR.IS [153] de 10.08.2009 (ver Decl Rect 74/2009, de 09-Out)
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2009-493485
+  date: '2009-08-10'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:07Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +202,9 @@ q) [Anterior alínea o).]
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +232,9 @@ j) Um resumo das eventuais alternativas estudadas pelo operador.
 
 3 - ...
 
-###### Artigo 24.º — Participação do público
+Artigo 24.º
+
+Participação do público
 
 1 - Os pedidos de emissão de licença ambiental para novas instalações, para alteração substancial da instalação, bem como o pedido de renovação ou actualização das condições da licença, são divulgados de forma a garantir a informação e a participação do público.
 
@@ -254,7 +278,9 @@ b) 30 dias, nos restantes casos.
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 A CCDR divulga, após a tomada de decisão, através dos meios adequados, designadamente meios electrónicos, as seguintes informações:
 
@@ -264,7 +290,9 @@ b) A fundamentação da decisão, tendo em conta as observações e sugestões a
 
 c) Os resultados das monitorizações das emissões previstas na licença ambiental que lhe tenham sido comunicadas pelo operador.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Sempre que o IA verifique que a exploração de uma instalação pode ter efeitos nocivos e significativos no ambiente de outro Estado membro deve transmitir-lhe a informação constante do pedido de licença ambiental referida nos n.os 1, 2 e 7 do artigo 24.º de modo a facultar a participação do público desse Estado membro antes da tomada de decisão relativa ao pedido.
 
@@ -294,12 +322,12 @@ As referências feitas no Decreto-Lei n.º 194/2000, de 21 de Agosto, à Direcç
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2005.**
+Referendado em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/4/2000/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/4-2000-408526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c37503281b9f4cee10866a66a05a19150b30a013c6e416572fbd631d8ebdfb26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 957ad260e97ec31d4f15cdc0408d5326fe7fe9a25a1c4f61216cbb9d14916c13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
 - Combate à Violência
-- Violência
+- Conselho da Europa
 - Convenção
-- Portugal
+- Crime
 - Estrasburgo
 - Indemnização
-- Conselho da Europa
+- Portugal
+- Violência
 - Vítima
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/16/2000/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/16/2000/03/06/p/dre
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656590:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:11Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ validation:
 
 de 6 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -116,12 +128,12 @@ de 6 de Março
 
 Para efeitos do disposto do artigo 12.º da Convenção, é designada como autoridade central a Comissão para a Instrução dos Pedidos de Indemnização às Vítimas de Crimes Violentos, prevista no artigo 6.º do [Decreto-Lei n.º 423/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1991-322286), de 31 de Outubro, e no [Decreto Regulamentar n.º 4/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1993-656590), de 22 de Fevereiro.
 
-**Assinado em 17 de Fevereiro de 2000.**
+Assinado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Fevereiro de 2000.**
+Referendado em 24 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

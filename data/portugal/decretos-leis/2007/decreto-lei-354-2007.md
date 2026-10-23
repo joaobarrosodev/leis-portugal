@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/10/20800/0790307907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/354/2007/10/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-2007-628860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 935607f93fed9017626d0329dcec30e1fb725e2163cca13bad3e49c686b55950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d41bed60b90061276d2798a3c81ecc6ca53c664978ee488273e3b8474d9f2a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Conselho Científico
 - Conselho de Orientação
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Instituto Público
 - Integração de Trabalhadores
 - Laboratório Nacional de Energia e Geologia
@@ -79,6 +79,41 @@ relationships:
   target: pt:dre:179783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628856:por
+  label: "Transferidas, de acordo com o art. 2º, as competências do INETI, I.P., transitando para o Laboratório Nacional de\
+    \ Energia e Geologia, I.P., cuja orgânica foi aprovada pelo presente diploma, as competências das unidades orgânicas elencadas\
+    \ no citado artigo, bem como o património do INETI, I. P., afecto aos Laboratórios de Alfragide, de São Mamede de Infesta\
+    \ e de Beja, onde funcionam o Centro de Dados Geológico-Mineiro, LABPORTO e LABEJA, transitados também os activos de urânio\
+    \ armazenados na Urgeiriça, assim como as participações sociais das entidades mencionadas no nº 3 do art. 2º, pelo DEC\
+    \ LEI.355/2007.29.10.2007.MEI, DR.IS [208] de 29.10.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-2007-628856
+  date: '2007-10-29'
+- type: amended_by
+  target: pt:dre:456799:por
+  label: "Transferidas as competências, posição jurídica e equipamentos amovíveis detidos pela Unidade de Tecnologias de Produção\
+    \ (UTP) do Departamento de Materiais e Tecnologias de Produção (DMTP) - com excepção das competências elencadas na al.\
+    \ e) do art. 2º do Dec Lei 139/2008 de 21-Jul - as competências em biocombustíveis e biomassa detidas pelo Departamento\
+    \ de Biotecnologia (DB), assim como as competências detidas pelo Laboratório de Análises Ambientais e de Controlo de Qualidade\
+    \ (LAACQ) e das detidas pela Unidade de Tecnologias da Cortiça (UTC) todos do INETI, I.P. para o Laboratório Nacional\
+    \ de Energia e Geologia (LNEG), cuja orgânica foi aprovada pelo presente diploma pelo DECLEI.139/2008.21.07.2008.MCTES,\
+    \ DR.IS [139] de 21.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Reestruturado o Laboratório Nacional de Energia e Geologia, I. P., e integradas as suas atribuições no domínio da\
+    \ geologia marinha, salvo no que respeita à cartografia sistemática, no Instituto Português do Mar e da Atmosfera, I.\
+    \ P., do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, pelo DEC LEI.126-C/2011.29.12.2011.MEE,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:553639:por
+  label: "Determinada a sucessão do IPMA, I. P., no domínio da geologia marinha, com exceção da cartografia sistemática, nas\
+    \ atribuições do LNEG, I. P., pelo DEC LEI.68/2012.20.03.2012.MAMAOT, DR.IS [57] de 20.03.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2012-553639
+  date: '2012-03-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
@@ -107,16 +142,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/124/2006/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/124/2006/10/03/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179783:por
+  label: "Revogado, a partir de 01.08.2012, pelo DEC LEI.145/2012.11.07.2012.MEE, DR.IS [133] de 11.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2012-179783
+  date: '2012-07-11'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:46Z'
   warnings: []
   errors: []
 ---
@@ -429,12 +497,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 22 de Agosto de 2007.**
+Promulgado em 22 de Agosto de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Agosto de 2007.**
+Referendado em 24 de Agosto de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

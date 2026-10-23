@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/06/134a00/28522853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/148/1997/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1997-359542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 400404c9e9c581f3533a9fa255a88b9b39ab0ed09b1bbe4bad5fd73d03c3d9ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e363b0a7f0675c53213a13614fa7913f95157e433957082e18842c15c3aefd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Definição de Competências
 - Direcção Geral dos Registos e do Notariado
 - Orgânica
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:388183:por
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
+- type: cites
+  target: pt:dre:524225:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388183:por
+  label: "Revogado pelo DEC LEI.87/2001.2001.03.17.MJ,DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2001-388183
+  date: '2001-03-17'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:44Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +170,9 @@ e) Pronunciar-se sobre os assuntos da sua área que lhe forem submetidos pelo Mi
 
 7 - O director-geral pode chamar a participar nas reuniões do conselho técnico, sem direito a voto, inspectores, conservadores, notários ou especialistas de reconhecido mérito.
 
-###### Artigo 6.º — Composição do conselho técnico e designação dos seus membros
+Artigo 6.º
+
+Composição do conselho técnico e designação dos seus membros
 
 1 - A secção técnico-jurídica do conselho técnico é composta pelo director-geral e por vogais em número não inferior a três por subsecção, sendo um deles o subdirector-geral responsável pela DSJ.
 
@@ -189,12 +200,12 @@ b) Três conservadores, três notários e três oficiais, pelas respectivas estr
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - José Manuel de Matos Fernandes.
 
-**Promulgado em 27 de Maio de 1997.**
+Promulgado em 27 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Maio de 1997.**
+Referendado em 30 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

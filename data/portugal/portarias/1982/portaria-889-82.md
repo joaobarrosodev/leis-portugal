@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/889-1982-375217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8807522b22ace729d4a7343b7bb531742f48852dcfa85857bce3342311a346c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cf7443cff01fdb10a188b77ccea65d87314401b61ab0065af1cc149a4ea5a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Junta Autónoma das Estradas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600720:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:29Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +130,4 @@ Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transpo
 
 Mapa anexo à Portaria n.º 889/82, de 22 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/22000/29872988.pdf))](https://files.diariodarepublica.pt/1s/1982/09/22000/29872988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/22000/29872988.pdf)

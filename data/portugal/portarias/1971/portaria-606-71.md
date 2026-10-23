@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/11/25900/16591666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-1971-633704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a37437f82cbffb4de8b7ba7264a3a446b2dbc0f84aaf4cc2849bdb7f9c9eda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1df7827a96e973fb0af95813ad44f04f37cb1a3aea614c908fa41f2d7f5488
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:674436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:302478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:674436:por
+  label: "Revogada pelo DEC LEI.306/91.17.08.1991.PCM, DR.IS-A [188] de 17.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-1991-674436
+  date: '1991-08-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:01Z'
   warnings: []
   errors: []
 ---
@@ -105,15 +122,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Informa�
 
 3.º Ficam revogados os artigos 1.º a 25.º e 43.º do Regulamento do Espectáculo Tauromáquico, aprovado por despacho ministerial de 22 de Junho de 1953, com as alterações aprovadas por despacho ministerial de 1 de Maio de 1954.
 
-**O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.**
+O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.
 
 REGULAMENTO DO ESPECTÁCULO TAUROMÁQUICO
 
 ### CAPÍTULO I — Do espectáculo tauromáquico
 
-###### Artigo 1.º Consideram-se espectáculos tauromáquicos todos os que tenham por finalidade a lide de reses bravas em recintos licenciados pela Direcção dos Serviços de Espectáculos.
+Artigo 1.º Consideram-se espectáculos tauromáquicos todos os que tenham por finalidade a lide de reses bravas em recintos licenciados pela Direcção dos Serviços de Espectáculos.
 
-###### Art. 2.º - 1. Os espectáculos tauromáquicos classificam-se em:
+Art. 2.º - 1. Os espectáculos tauromáquicos classificam-se em:
 
 a) Corridas de toiros;
 
@@ -141,19 +158,19 @@ c) Um ou mais cavaleiros e um ou mais espadas.
 
 5. A actuação de artistas amadores deverá ser coadjuvada por bandarilheiros profissionais.
 
-###### Art. 3.º - 1. A Direcção dos Serviços de Espectáculos poderá autorizar em casos excepcionais, ouvido o Sindicato Nacional dos Toureiros Portugueses, que todo o espectáculo esteja a cargo de um só cavaleiro ou espada.
+Art. 3.º - 1. A Direcção dos Serviços de Espectáculos poderá autorizar em casos excepcionais, ouvido o Sindicato Nacional dos Toureiros Portugueses, que todo o espectáculo esteja a cargo de um só cavaleiro ou espada.
 
 2. Os espectáculos a que se refere o número anterior só poderão efectuar-se desde que seja anunciado, como substituto, pelo menos, um cavaleiro praticante, um novilheiro ou um novilheiro praticante, respectivamente, para a hipótese de o artista se inutilizar durante a lide.
 
-###### Art. 4.º - 1. São corridas de toiros os espectáculos em que sejam lidados toiros e intervenham apenas, como cabeças-de-cartaz, cavaleiros de alternativa ou matadores de toiros.
+Art. 4.º - 1. São corridas de toiros os espectáculos em que sejam lidados toiros e intervenham apenas, como cabeças-de-cartaz, cavaleiros de alternativa ou matadores de toiros.
 
 2. Nestes espectáculos é obrigatória a inclusão de um ou mais grupos de moços-de-forcado sempre que intervenham cavaleiros e sejam lidadas, pelo menos, duas reses emboladas.
 
-###### Art. 5.º - 1. São novilhadas os espectáculos em que as reses a lidar sejam novilhos e intervenham como cabeças-de-cartaz cavaleiros profissionais e novilheiros ou novilheiros praticantes.
+Art. 5.º - 1. São novilhadas os espectáculos em que as reses a lidar sejam novilhos e intervenham como cabeças-de-cartaz cavaleiros profissionais e novilheiros ou novilheiros praticantes.
 
 2. Os novilheiros praticantes deverão alternar sempre com novilheiros, não podendo exceder o número destes.
 
-###### Art. 6.º - 1. São corridas mistas os espectáculos em que intervêm cabeças-de-cartaz de diferente categoria profissional nas diversas modalidades de lide, e não se enquadram em nenhum dos outros tipos de espectáculos tauromáquicos previstos neste Regulamento.
+Art. 6.º - 1. São corridas mistas os espectáculos em que intervêm cabeças-de-cartaz de diferente categoria profissional nas diversas modalidades de lide, e não se enquadram em nenhum dos outros tipos de espectáculos tauromáquicos previstos neste Regulamento.
 
 2. Estes espectáculos serão regulados:
 
@@ -161,49 +178,49 @@ a) Relativamente aos cabeças-de-cartaz, pelo estabelecido para as corridas de t
 
 b) Relativamente aos restantes intervenientes no espectáculo, pelo estabelecido para as novilhadas.
 
-###### Art. 7.º - 1. As corridas de toiros e as corridas mistas em que apenas intervêm cavaleiros e moços-de-forcado podem ser anunciadas como corridas ou touradas à portuguesa ou, quando efectuadas com a maior pompa, segundo a tradição, à antiga portuguesa.
+Art. 7.º - 1. As corridas de toiros e as corridas mistas em que apenas intervêm cavaleiros e moços-de-forcado podem ser anunciadas como corridas ou touradas à portuguesa ou, quando efectuadas com a maior pompa, segundo a tradição, à antiga portuguesa.
 
 2. Nestas corridas poderá actuar também um cavaleiro amador.
 
-###### Art. 8.º São novilhadas populares os espectáculos em que intervêm novilheiros praticantes, só ou com praticantes de cavaleiro e (ou) cavaleiros amadores.
+Art. 8.º São novilhadas populares os espectáculos em que intervêm novilheiros praticantes, só ou com praticantes de cavaleiro e (ou) cavaleiros amadores.
 
-###### Art. 9.º - 1. Consideram-se festivais taurinos os espectáculos de carácter beneficente em que são lidados toiros ou novilhos e intervêm profissionais e amadores, ou sòmente profissionais.
+Art. 9.º - 1. Consideram-se festivais taurinos os espectáculos de carácter beneficente em que são lidados toiros ou novilhos e intervêm profissionais e amadores, ou sòmente profissionais.
 
 2. Nos festivais deverá intervir um novilheiro ou novilheiro praticante.
 
 3. Na falta de intervenção dos artistas referidos no número anterior, as empresas organizadoras poderão ser punidas com a multa de 2000$00 a 5000$00, salvo caso de impossibilidade da actuação daqueles devidamente comprovado.
 
-###### Art. 10.º - 1. Consideram-se variedades taurinas os espectáculos em que são lidados, indistintamente, garraios, vacas ou novilhos por novilheiros praticantes ou toureiros amadores ou por toureiros cómicos profissionais ou amadores.
+Art. 10.º - 1. Consideram-se variedades taurinas os espectáculos em que são lidados, indistintamente, garraios, vacas ou novilhos por novilheiros praticantes ou toureiros amadores ou por toureiros cómicos profissionais ou amadores.
 
 2. Nas variedades taurinas estão incluídas as tentas públicas.
 
 3. Estes espectáculos, quando apenas forem lidados garraios por novilheiros praticantes ou toureiros amadores, poderão ser anunciados como garraiadas.
 
-###### Art. 11.º - 1. Os espectáculos tauromáquicos ou diversões de natureza análoga que apresentem aspectos não previstos nos artigos antecedentes deverão ser autorizados pela Direcção dos Serviços de Espectáculos, nas condições a estabelecer para cada caso, de acordo com as características dos mesmos.
+Art. 11.º - 1. Os espectáculos tauromáquicos ou diversões de natureza análoga que apresentem aspectos não previstos nos artigos antecedentes deverão ser autorizados pela Direcção dos Serviços de Espectáculos, nas condições a estabelecer para cada caso, de acordo com as características dos mesmos.
 
 2. O disposto no número antecedente é aplicável ainda que as respectivas entradas sejam gratuitas ou por convites.
 
-###### Art. 12.º - 1. Devem sair emboladas as reses destinadas ao toureio a cavalo e desemboladas as que se destinem ao toureio a pé por profissionais.
+Art. 12.º - 1. Devem sair emboladas as reses destinadas ao toureio a cavalo e desemboladas as que se destinem ao toureio a pé por profissionais.
 
 2. Os cavaleiros profissionais podem lidar reses desemboladas desde que haja acordo prévio entre eles e as empresas.
 
 3. Os moços-de-forcado só podem pegar as reses emboladas.
 
-###### Art. 13.º Nos espectáculos em que os toiros ou novilhos saiam à arena com as hastes despontadas não podem ser anunciados toiros ou novilhos em hastes limpas ou em hastes íntegras, mas ùnicamente toiros ou novilhos desembolados.
+Art. 13.º Nos espectáculos em que os toiros ou novilhos saiam à arena com as hastes despontadas não podem ser anunciados toiros ou novilhos em hastes limpas ou em hastes íntegras, mas ùnicamente toiros ou novilhos desembolados.
 
-###### Art. 14.º - 1. Qualquer cabeça-de-cartaz devidamente anunciado só poderá ser substituído por outro de igual categoria e classificação no Sindicato Nacional dos Toureiros Portugueses, mediante aviso, dando-se conhecimento antecipado ao público.
+Art. 14.º - 1. Qualquer cabeça-de-cartaz devidamente anunciado só poderá ser substituído por outro de igual categoria e classificação no Sindicato Nacional dos Toureiros Portugueses, mediante aviso, dando-se conhecimento antecipado ao público.
 
 2. A substituição de bandarilheiros ou de moços-de-forcado deve ser comunicada prèviamente ao director do espectáculo, mas não implica a obrigação de reembolsar a importância dos bilhetes.
 
 3. A falta de cumprimento do disposto no número anterior implica para a empresa a multa de 100$00 por cada bandarilheiro ou moço-de-forcado substituído.
 
-###### Art. 15.º Quando, por facto imputável à empresa, o espectáculo não chegar a iniciar-se ou for suspenso durante a sua realização, a empresa será punida com multa até 10000$00, se a praça for de 1.ª categoria, ou até 5000$00, se for de 2.ª ou 3.ª categoria.
+Art. 15.º Quando, por facto imputável à empresa, o espectáculo não chegar a iniciar-se ou for suspenso durante a sua realização, a empresa será punida com multa até 10000$00, se a praça for de 1.ª categoria, ou até 5000$00, se for de 2.ª ou 3.ª categoria.
 
-###### Art. 16.º A realização de qualquer espectáculo em modalidade diferente da anunciada implica para o organizador a multa de 500$00 a 5000$00.
+Art. 16.º A realização de qualquer espectáculo em modalidade diferente da anunciada implica para o organizador a multa de 500$00 a 5000$00.
 
 ### CAPÍTULO II — Das praças de toiros
 
-###### Art. 17.º - 1. Para efeitos do presente Regulamento, as praças de toiros são classificadas em 1.ª, 2.ª e 3.ª categorias pela Direcção dos Serviços de Espectáculos, ouvidas a Direcção-Geral do Turismo e a União de Grémios dos Espectáculos.
+Art. 17.º - 1. Para efeitos do presente Regulamento, as praças de toiros são classificadas em 1.ª, 2.ª e 3.ª categorias pela Direcção dos Serviços de Espectáculos, ouvidas a Direcção-Geral do Turismo e a União de Grémios dos Espectáculos.
 
 2. A classificação será feita tendo em atenção os seguintes elementos:
 
@@ -221,49 +238,49 @@ e) O tipo de construção.
 
 4. A classificação poderá ser revista por iniciativa da Direcção dos Serviços de Espectáculos ou a solicitação dos interessados.
 
-###### Art. 18.º - 1. Em todas as praças, seja qual for a sua classificação, devem estar assegurados, obrigatòriamente, os serviços de um médico veterinário próprio.
+Art. 18.º - 1. Em todas as praças, seja qual for a sua classificação, devem estar assegurados, obrigatòriamente, os serviços de um médico veterinário próprio.
 
 2. Sempre que o médico veterinário próprio da praça seja substituído, a empresa exploradora deverá comunicar imediatamente o facto à Direcção dos Serviços de Espectáculos, indicando simultâneamente o nome e a morada do novo médico.
 
-###### Art. 19.º Nas praças de toiros de 1.ª categoria deverão existir balanças destinadas à pesagem das reses.
+Art. 19.º Nas praças de toiros de 1.ª categoria deverão existir balanças destinadas à pesagem das reses.
 
 Da enfermaria e capela
 
-###### Art. 20.º - 1. Em todas as praças é obrigatória a existência de instalações destinadas a enfermaria, para assistência aos lidadores, pessoal e espectadores vítimas de acidente.
+Art. 20.º - 1. Em todas as praças é obrigatória a existência de instalações destinadas a enfermaria, para assistência aos lidadores, pessoal e espectadores vítimas de acidente.
 
 2. O equipamento e apetrechamento cirúrgico da enfermaria e sua manutenção cabem à entidade proprietária da praça.
 
 3. É da responsabilidade da entidade exploradora da praça o apetrechamento medicamentoso da enfermaria e respectiva manutenção, designadamente com material de pensos esterilizados, soros e sangue, tendo em atenção a sua validade de utilização.
 
-###### Art. 21.º - 1. Nas praças de 1.ª categoria a enfermaria deve ser composta de duas divisões contíguas, comunicando largamente entre si.
+Art. 21.º - 1. Nas praças de 1.ª categoria a enfermaria deve ser composta de duas divisões contíguas, comunicando largamente entre si.
 
 2. Na primeira das divisões indicadas, que se destina a primeiros socorros, devem existir macas, leitos e mesas ou marquesas para observação e primeiros tratamentos de urgência, designadamente intervenções de pequena cirurgia, pensos, imobilização provisória de traumatismos toráxicos e dos membros (ósteo-articulares), tratamentos de choque pela reanimação (medicação tónica, hemoterapia - transfusões de sangue, etc.) e hemostase provisória (por meio de garrotes simples e pneumáticos, tamponamentos com compressas grandes, panos de campo, etc.).
 
 3. Na segunda das divisões da enfermaria, que se destina a exames mais demorados ou mais prolongado tratamento de choque, devem existir, pelo menos, três camas.
 
-###### Art. 22.º Nas praças de 2.ª e 3.ª categorias só é exigível uma divisão devidamente apetrechada para os primeiros socorros e reanimação.
+Art. 22.º Nas praças de 2.ª e 3.ª categorias só é exigível uma divisão devidamente apetrechada para os primeiros socorros e reanimação.
 
-###### Art. 23.º A entidade organizadora do espectáculo deverá assegurar, durante a sua realização, a existência de ambulâncias destinadas à transferência dos acidentados para estabelecimentos hospitalares.
+Art. 23.º A entidade organizadora do espectáculo deverá assegurar, durante a sua realização, a existência de ambulâncias destinadas à transferência dos acidentados para estabelecimentos hospitalares.
 
-###### Art. 24.º - 1. A entidade organizadora, seja qual for a categoria da praça, deve ter ao seu serviço, durante o espectáculo, uma equipa médica privativa composta de, pelo menos, um médico-cirurgião e um enfermeiro.
+Art. 24.º - 1. A entidade organizadora, seja qual for a categoria da praça, deve ter ao seu serviço, durante o espectáculo, uma equipa médica privativa composta de, pelo menos, um médico-cirurgião e um enfermeiro.
 
 2. Aquela entidade deve assegurar lugares próprios e de fácil acesso, na praça, para a equipa médica.
 
-###### Art. 25.º - 1. Compete ao chefe da equipa médica verificar se as enfermarias estão em condições de funcionamento capaz, nos termos dos artigos 20.º a 22.º
+Art. 25.º - 1. Compete ao chefe da equipa médica verificar se as enfermarias estão em condições de funcionamento capaz, nos termos dos artigos 20.º a 22.º
 
 2. Nas terras de província, o chefe da equipa médica deverá diligenciar para que os estabelecimentos hospitalares locais estejam preparados para receber as vítimas de acidentes na praça.
 
-###### Art. 26.º Quando se realizarem espectáculos com toiros ou novilhos em hastes íntegras, as instalações indicadas nos artigos 20.º a 22.º, bem como o seu apetrechamento cirúrgico e medicamentoso, serão revistos pelo chefe da equipa médica da praça, considerando a eventual realização de intervenções de média e grande cirurgia, por equipas médico-cirúrgicas completas.
+Art. 26.º Quando se realizarem espectáculos com toiros ou novilhos em hastes íntegras, as instalações indicadas nos artigos 20.º a 22.º, bem como o seu apetrechamento cirúrgico e medicamentoso, serão revistos pelo chefe da equipa médica da praça, considerando a eventual realização de intervenções de média e grande cirurgia, por equipas médico-cirúrgicas completas.
 
-###### Art. 27.º Qualquer lidador pode utilizar os serviços de um médico assistente privativo, que fica responsável pelo seu tratamento e transferência para estabelecimento hospitalar.
+Art. 27.º Qualquer lidador pode utilizar os serviços de um médico assistente privativo, que fica responsável pelo seu tratamento e transferência para estabelecimento hospitalar.
 
-###### Art. 28.º - 1. Em todas as praças deve existir, em local condigno, uma capela ou simples oratório destinado exclusivamente aos lidadores.
+Art. 28.º - 1. Em todas as praças deve existir, em local condigno, uma capela ou simples oratório destinado exclusivamente aos lidadores.
 
 2. As empresas devem assegurar, durante a realização do espectáculo, a presença de um sacerdote para prestar assistência espiritual a qualquer lidador ou espectador afectado de doença súbita, quando solicitada.
 
 Das arrecadações
 
-###### Art. 29.º Todas as praças devem dispor de instalações destinadas a arrecadar os seguintes artigos:
+Art. 29.º Todas as praças devem dispor de instalações destinadas a arrecadar os seguintes artigos:
 
 a) Para a lide a pé: quatro pares de bandarilhas por cada rês a lidar;
 
@@ -273,7 +290,7 @@ c) Oito forcados, pelo menos, e as varas destinada aos campinos.
 
 Das ferragens
 
-###### Art. 30.º - 1. A ferragem destinada à lide dos toiros, novilhos e garraios obedecerá às características seguintes:
+Art. 30.º - 1. A ferragem destinada à lide dos toiros, novilhos e garraios obedecerá às características seguintes:
 
 a) As bandarilhas devem medir 70 cm de comprimento, ser enfeitadas com papel de seda de variadas cores e rematadas com um ferro de 8 cm, com um arpão de 4 cm de comprimento e 20 mm de largura;
 
@@ -283,39 +300,39 @@ b) As farpas ou ferros compridos e os ferros curtos devem medir, respectivamente
 
 3. Os ferros compridos devem partir de modo que 35 cm fiquem na rês e o restante na mão do cavaleiro.
 
-###### Art. 31.º A ferragem a utilizar na lide de bezerros ou vacas deve ser enfeitada da mesma forma que as bandarilhas e rematada com um ferro que não exceda 3 cm de comprimento.
+Art. 31.º A ferragem a utilizar na lide de bezerros ou vacas deve ser enfeitada da mesma forma que as bandarilhas e rematada com um ferro que não exceda 3 cm de comprimento.
 
 Do pessoal
 
-###### Art. 32.º - 1. A entidade organizadora do espectáculo deve ter ao seu serviço pessoal auxiliar (porteiros, arrumadores, carpinteiros, electricistas, encarregado dos curros, moços de arena, etc.) devidamente habilitado e em número suficiente para o bom e rápido desempenho das suas obrigações.
+Art. 32.º - 1. A entidade organizadora do espectáculo deve ter ao seu serviço pessoal auxiliar (porteiros, arrumadores, carpinteiros, electricistas, encarregado dos curros, moços de arena, etc.) devidamente habilitado e em número suficiente para o bom e rápido desempenho das suas obrigações.
 
 2. A mesma entidade deve ainda destacar um empregado para actuar dentro da trincheira, como avisador, recebendo e transmitindo aos lidadores as ordens do director do espectáculo.
 
 3. Pela incompetência ou negligência do pessoal auxiliar, bem como do avisador, observadas durante o espectáculo, a respectiva entidade organizadora será punida com multa de 100$00 a 1000$00, conforme a gravidade das faltas.
 
-###### Art. 33.º Nas praças de 1.ª e 2.ª categorias é obrigatória a existência de esconderijos entre barreiras para acomodação de todo o pessoal de serviço na arena.
+Art. 33.º Nas praças de 1.ª e 2.ª categorias é obrigatória a existência de esconderijos entre barreiras para acomodação de todo o pessoal de serviço na arena.
 
-###### Art. 34.º - 1. O pessoal auxiliar de serviço entre barreiras e na arena deve apresentar-se convenientemente uniformizado e o restante usar braçadeiras com indicação das funções que desempenha.
+Art. 34.º - 1. O pessoal auxiliar de serviço entre barreiras e na arena deve apresentar-se convenientemente uniformizado e o restante usar braçadeiras com indicação das funções que desempenha.
 
 2. Nas praças de 2.ª e 3.ª categorias pode o pessoal auxiliar usar apenas braçadeiras com indicação das respectivas funções.
 
 Da música
 
-###### Art. 35.º - 1. Em todas as praças os espectáculos serão abrilhantados por uma banda de música, que deverá tocar antes do seu início, durante as cortesias ou passeio das quadrilhas e no fim da lide de cada rês, quando se aplaudem os lidadores.
+Art. 35.º - 1. Em todas as praças os espectáculos serão abrilhantados por uma banda de música, que deverá tocar antes do seu início, durante as cortesias ou passeio das quadrilhas e no fim da lide de cada rês, quando se aplaudem os lidadores.
 
 2. A banda de música deverá ainda tocar, durante decorrer da lide das reses, sempre que o director do espectáculo o determine, a solicitação do público.
 
-###### Art. 36.º Junto do director do espectáculo deve haver um cornetim para efectuar os toques que lhe forem ordenados por aquele.
+Art. 36.º Junto do director do espectáculo deve haver um cornetim para efectuar os toques que lhe forem ordenados por aquele.
 
-###### Art. 37.º O acesso do público deve ser facultado, pelo menos, com uma hora de antecedência em relação ao início do espectáculo.
+Art. 37.º O acesso do público deve ser facultado, pelo menos, com uma hora de antecedência em relação ao início do espectáculo.
 
-###### Art. 38.º Iniciada a lide de uma rês, não será permitida a entrada de espectadores nas bancadas, balcões e galerias antes de a mesma terminada.
+Art. 38.º Iniciada a lide de uma rês, não será permitida a entrada de espectadores nas bancadas, balcões e galerias antes de a mesma terminada.
 
-###### Art. 39.º Antes, durante ou após a corrida não é permitido aos espectadores atirar para a arena almofadas ou quaisquer outros objectos que possam molestar os lidadores ou causar dano à lide, bem como proferir insultos ou palavras que ofendam a moral pública, saltar à arena ou praticar actos que prejudiquem o espectáculo.
+Art. 39.º Antes, durante ou após a corrida não é permitido aos espectadores atirar para a arena almofadas ou quaisquer outros objectos que possam molestar os lidadores ou causar dano à lide, bem como proferir insultos ou palavras que ofendam a moral pública, saltar à arena ou praticar actos que prejudiquem o espectáculo.
 
 ### CAPÍTULO III — Da direcção do espectáculo
 
-###### Art. 40.º - 1. Os espectáculos tauromáquicos são dirigidos por um delegado técnico da Direcção dos Serviços de Espectáculos.
+Art. 40.º - 1. Os espectáculos tauromáquicos são dirigidos por um delegado técnico da Direcção dos Serviços de Espectáculos.
 
 2. Os delegados técnicos tauromáquicos serão recrutados, de preferência, entre toureiros retirados da actividade que tenham menos de 60 anos de idade, idoneidade civil e moral e reconhecida competência, sob proposta do Sindicato Nacional dos Toureiros Portugueses.
 
@@ -325,15 +342,15 @@ Da música
 
 5. Os delegados técnicos tauromáquicos, quando investidos nas funções de director do espectáculo, gozam das atribuições e poderes legais conferidos aos funcionários da Direcção dos Serviços de Espectáculos com competência para fiscalizar.
 
-###### Art. 41.º Os delegados técnicos tauromáquicos devem permanecer em local privativo, a designar prèviamente pela Direcção dos Serviços de Espectáculos, junto do lugar destinado à autoridade administrativa ou policial.
+Art. 41.º Os delegados técnicos tauromáquicos devem permanecer em local privativo, a designar prèviamente pela Direcção dos Serviços de Espectáculos, junto do lugar destinado à autoridade administrativa ou policial.
 
-###### Art. 42.º - 1. Cabe ao director orientar o espectáculo, fazendo respeitar o disposto no presente Regulamento.
+Art. 42.º - 1. Cabe ao director orientar o espectáculo, fazendo respeitar o disposto no presente Regulamento.
 
 2. A desobediência às determinações do director do espectáculo será punida, conforme o caso, nos termos dos artigos 186.º e 188.º do Código Penal.
 
 3. Quando a desobediência for praticada pelos lidadores, estes poderão ser punidos cumulativamente com a suspensão do exercício da actividade, até dois anos, ouvida a Secretaria de Estado do Trabalho e Previdência.
 
-###### Art. 43.º - 1. Salvo circunstâncias excepcionais, a lide de cada rês não deve exceder a duração de quinze minutos, acrescida de mais cinco ou dez minutos, consoante haja pega de caras ou de cernelha.
+Art. 43.º - 1. Salvo circunstâncias excepcionais, a lide de cada rês não deve exceder a duração de quinze minutos, acrescida de mais cinco ou dez minutos, consoante haja pega de caras ou de cernelha.
 
 2. Quando tenha de recorrer-se à pega de volta ou de cernelha, depois de frustradas as tentativas ou esgotado o tempo para a pega de caras, o director concederá mais cinco minutos, findos os quais será mandada recolher a rês.
 
@@ -341,7 +358,7 @@ Da música
 
 4. As fainas de muleta não devem exceder dez minutos a contar do seu início, findos os quais será dado o primeiro aviso; dois minutos depois deste, será dado o segundo aviso, e um minuto depois, o terceiro, indicando que vão entrar os cabrestos, a fim de recolher a rês.
 
-###### Art. 44.º É da competência do director do espectáculo:
+Art. 44.º É da competência do director do espectáculo:
 
 a) Proceder ao pormenor do espectáculo, o qual deve ser afixado em quadro próprio, na parede da barreira, por debaixo do local que lhe é destinado;
 
@@ -373,7 +390,7 @@ o) Permitir que qualquer lidador ou campino abandone a praça depois de terminad
 
 p) Mandar deter pela autoridadde policial os lidadores, campinos e pessoal auxiliar que não acatem as suas determinações, nomeadamente os lidadores que sem motivo justificado se recusem a iniciar ou a concluir a lide das reses que lhes competem, e bem assim os espectadores que de algum modo perturbem o espectáculo.
 
-###### Art. 45.º Compete ao director do espectáculo assistir todas as operações preliminares e trabalhos finais mencionados neste Regulamento e, designadamente:
+Art. 45.º Compete ao director do espectáculo assistir todas as operações preliminares e trabalhos finais mencionados neste Regulamento e, designadamente:
 
 a) À verificação do peso das reses, juntamente com o médico veterinário privativo da praça;
 
@@ -387,7 +404,7 @@ e) Ao trabalho do embolador e do pessoal do curro, certificando-se de que a saí
 
 f) À marcação a fogo, com a letra C, na haste esquerda, das reses lidadas.
 
-###### Art. 46.º Ao director do espectáculo compete ainda:
+Art. 46.º Ao director do espectáculo compete ainda:
 
 a) Receber do médico veterinário privativo da praça os certificados relativos às reses a lidar;
 
@@ -405,11 +422,11 @@ g) Fazer observar as disposições do presente Regulamento, recorrendo à autori
 
 h) Entregar na Direcção dos Serviços de Espectáculos, até vinte e quatro horas depois de terminado o espectáculo, o relatório das ocorrências nele verificadas, acompanhado dos certificados e informações que lhe tenham sido entregues.
 
-###### Art. 47.º Os delegados técnicos tauromáquicos identificar-se-ão, em todas as praças de toiros, mediante cartão de livre trânsito emitido pela Direcção dos Serviços de Espectáculos, segundo o modelo aprovado por portaria do Secretário de Estado da Informação e Turismo.
+Art. 47.º Os delegados técnicos tauromáquicos identificar-se-ão, em todas as praças de toiros, mediante cartão de livre trânsito emitido pela Direcção dos Serviços de Espectáculos, segundo o modelo aprovado por portaria do Secretário de Estado da Informação e Turismo.
 
 ### CAPÍTULO IV — Das reses destinadas à lide
 
-###### Art. 48.º - 1. Nas corridas, novilhadas e festivais é proibida a lide de qualquer rês já corrida ou toureada e, nas praças de 1.ª categoria, que não esteja inscrita na Direcção-Geral dos Serviços Pecuários, nos termos da [Portaria n.º 23992](https://diariodarepublica.pt/dr/detalhe/portaria/23992-1969-302478), de 27 de Março de 1969.
+Art. 48.º - 1. Nas corridas, novilhadas e festivais é proibida a lide de qualquer rês já corrida ou toureada e, nas praças de 1.ª categoria, que não esteja inscrita na Direcção-Geral dos Serviços Pecuários, nos termos da [Portaria n.º 23992](https://diariodarepublica.pt/dr/detalhe/portaria/23992-1969-302478), de 27 de Março de 1969.
 
 2. As infracções ao disposto no número anterior serão punidas com a multa de 5000$00 por cada rês, a aplicar ao respectivo ganadeiro.
 
@@ -417,7 +434,7 @@ h) Entregar na Direcção dos Serviços de Espectáculos, até vinte e quatro ho
 
 4. Se, em infracção ao disposto na parte final do n.º 3 deste artigo, foram fornecidas reses em nome próprio ou sob o nome de outro ganadeiro, ambos serão punidos nos termos daquele número.
 
-###### Art. 49.º - 1. Todos os toiros e novilhos lidados serão marcados a fogo, na haste esquerda, com a letra C.
+Art. 49.º - 1. Todos os toiros e novilhos lidados serão marcados a fogo, na haste esquerda, com a letra C.
 
 2. A marca prevista no número anterior deverá ser aposta antes de a rês ser retirada da praça onde foi lidada e na presença do director do espectáculo e do médico veterinário privativo da praça.
 
@@ -425,21 +442,21 @@ h) Entregar na Direcção dos Serviços de Espectáculos, até vinte e quatro ho
 
 4. O certificado será passado pelo médico veterinário privativo da praça, que o entregará ao director do espectáculo ou enviará à Direcção dos Serviços de Espectáculos, no prazo de quarenta e oito horas.
 
-###### Art. 50.º - 1. As reses destinadas à lide nas corridas, novilhadas e festivais, que se realizem em praças de 1.ª categoria, devem dar entrada nestas até às vinte e quatro horas do dia anterior, salvo caso de força maior aceite pelo director do espectáculo.
+Art. 50.º - 1. As reses destinadas à lide nas corridas, novilhadas e festivais, que se realizem em praças de 1.ª categoria, devem dar entrada nestas até às vinte e quatro horas do dia anterior, salvo caso de força maior aceite pelo director do espectáculo.
 
 2. Até ao momento da apartação e sorteio devem ser dados às reses alimentos e água.
 
-###### Art. 51.º - 1. O ganadeiro deve entregar ao médico veterinário privativo da praça, até ao momento da inspecção a que se refere o artigo seguinte, a guia de sanidade de origem das reses a lidar em cada espectáculo.
+Art. 51.º - 1. O ganadeiro deve entregar ao médico veterinário privativo da praça, até ao momento da inspecção a que se refere o artigo seguinte, a guia de sanidade de origem das reses a lidar em cada espectáculo.
 
 2. O ganadeiro deverá ainda apresentar ao director do espectáculo documento comprovativo da inscrição referida no n.º 1 do artigo 48.º, nos casos em que esta é exigida.
 
-###### Art. 52.º - 1. A inspecção das reses deve ser efectuada pelo médico veterinário da praça, na presença do director do espectáculo, do empresário e do ganadeiro ou seus representantes.
+Art. 52.º - 1. A inspecção das reses deve ser efectuada pelo médico veterinário da praça, na presença do director do espectáculo, do empresário e do ganadeiro ou seus representantes.
 
 2. A Direcção dos Serviços de Espectáculos pode determinar que o médico veterinário municipal, ou outro, se aquele não existir, participe na inspecção das reses, sendo o pagamento dos respectivos encargos também da responsabilidade da empresa.
 
 3. A inspecção das reses deverá ser realizada com antecedência necessária para permitir a substituição de qualquer rês rejeitada.
 
-###### Art. 53.º - 1. A inspecção deve visar a sanidade e aptidão das reses para a lide e versar especialmente sobre o peso e o tipo zootécnico requerido para um toiro ou novilho bravo, considerando-se como motivos de rejeição, além da defeituosa apresentação, as deficiências seguintes:
+Art. 53.º - 1. A inspecção deve visar a sanidade e aptidão das reses para a lide e versar especialmente sobre o peso e o tipo zootécnico requerido para um toiro ou novilho bravo, considerando-se como motivos de rejeição, além da defeituosa apresentação, as deficiências seguintes:
 
 a) A cegueira, mesmo parcial;
 
@@ -461,7 +478,7 @@ Art . 54.º Do resultado definitivo da inspecção será passado certificado, em
 
 Do peso e idade
 
-###### Art. 55.º - 1. Nas corridas e novilhadas, as reses devem ter os pesos mínimos seguintes, respectivamente para os toiros e novilhos:
+Art. 55.º - 1. Nas corridas e novilhadas, as reses devem ter os pesos mínimos seguintes, respectivamente para os toiros e novilhos:
 
 a) Nas praças de 1.ª categoria - 420 kg e 370 k;
 
@@ -473,7 +490,7 @@ c) Nas praças de 3.ª categoria - 380 kg e 300 kg.
 
 3. Quando, pelas características das reses, se verifique que as de maior peso deveriam ser lidadas a pé, o director do espectáculo, de acordo com o empresário e os cabeças-de-cartaz, poderá autorizá-lo.
 
-###### Art. 56.º - 1. Nas praças de toiros de 1.ª categoria é considerado o peso das reses resultante da pesagem na balança existente na praça.
+Art. 56.º - 1. Nas praças de toiros de 1.ª categoria é considerado o peso das reses resultante da pesagem na balança existente na praça.
 
 2. Nas praças de 2.ª e 3.ª categorias, quando não disponham de balança, é considerado o peso aparente das reses, determinado pelo médico ou médicos veterinários de acordo com o director do espectáculo.
 
@@ -481,13 +498,13 @@ c) Nas praças de 3.ª categoria - 380 kg e 300 kg.
 
 4. As despesas com esta pesagem serão suportadas pela empresa e pelos ganadeiros.
 
-###### Art. 57.º As reses destinadas a variedades taurinas não poderão exceder três anos de idade, salvo quando se trate de fêmeas.
+Art. 57.º As reses destinadas a variedades taurinas não poderão exceder três anos de idade, salvo quando se trate de fêmeas.
 
-###### Art. 58.º O médico ou médicos veterinários farão constar de certificado, previsto no artigo 54.º, os pesos e idades verificados para efeitos do estabelecido nos artigos 55.º a 57.º
+Art. 58.º O médico ou médicos veterinários farão constar de certificado, previsto no artigo 54.º, os pesos e idades verificados para efeitos do estabelecido nos artigos 55.º a 57.º
 
-###### Art. 59.º Por cada rês lidada em infracção ao disposto nos artigos 55.º e 57.º, os ganadeiros, empresários e médicos veterinários responsáveis serão individualmente punidos com multa de 2500$00.
+Art. 59.º Por cada rês lidada em infracção ao disposto nos artigos 55.º e 57.º, os ganadeiros, empresários e médicos veterinários responsáveis serão individualmente punidos com multa de 2500$00.
 
-###### Art. 60.º - 1. Em todas as praças de 1.ª categoria e nas restantes que disponham de balança é obrigatória a afixação, sobre o touril, com números bem visíveis, do peso e número da rês a lidar.
+Art. 60.º - 1. Em todas as praças de 1.ª categoria e nas restantes que disponham de balança é obrigatória a afixação, sobre o touril, com números bem visíveis, do peso e número da rês a lidar.
 
 2. Quando se lidem reses de mais de uma ganadaria, será igualmente afixada a designação da respectiva ganadaria, devendo as reses trazer afixadas no dorso as divisas correspondentes, quando as houver.
 
@@ -495,11 +512,11 @@ c) Nas praças de 3.ª categoria - 380 kg e 300 kg.
 
 Das defesas
 
-###### Art. 61.º - 1. Na embolação das reses a lidar nos espectáculos tauromáquicos só podem ser empregadas bolas dos modelos prèviamente aprovados pela Direcção dos Serviços de Espectáculos.
+Art. 61.º - 1. Na embolação das reses a lidar nos espectáculos tauromáquicos só podem ser empregadas bolas dos modelos prèviamente aprovados pela Direcção dos Serviços de Espectáculos.
 
 2. É proibido o uso de bolas metálicas.
 
-###### Art. 62.º - 1. Os toiros ou novilhos podem apresentar-se com as hastes ligeiramente despontadas, não podendo o corte das pontas exceder um diâmetro de 14 mm a 16 mm.
+Art. 62.º - 1. Os toiros ou novilhos podem apresentar-se com as hastes ligeiramente despontadas, não podendo o corte das pontas exceder um diâmetro de 14 mm a 16 mm.
 
 2. O despontar das hastes deve ser efectuado na presença do director do espectáculo e dos médicos veterinários, podendo também assistir os lidadores, empresário e ganadeiro ou seus representantes.
 
@@ -507,7 +524,7 @@ Das defesas
 
 Da exposição
 
-###### Art. 63.º - 1. Depois da inspecção, as reses podem ser expostas ao público até à hora do sorteio.
+Art. 63.º - 1. Depois da inspecção, as reses podem ser expostas ao público até à hora do sorteio.
 
 2. Durante a exposição, os espectadores não podem chamar a atenção das reses ou, de qualquer modo, perturbá-las.
 
@@ -515,11 +532,11 @@ Da exposição
 
 Da apartação e sorteio
 
-###### Art. 64.º - 1. A apartação e o sorteio das reses a lidar devem ser efectuados com a assistência do director do espectáculo, do empresário e dos cabeças-de-cartaz ou seus representantes.
+Art. 64.º - 1. A apartação e o sorteio das reses a lidar devem ser efectuados com a assistência do director do espectáculo, do empresário e dos cabeças-de-cartaz ou seus representantes.
 
 2. A apartação e o sorteio efectuar-se-ão às 12 horas para os espectáculos da tarde e às 17 para os espectáculo nocturnos.
 
-###### Art. 65.º - 1. Na apartação serão separadas as reses destinadas à lide a cavalo e à lide a pé.
+Art. 65.º - 1. Na apartação serão separadas as reses destinadas à lide a cavalo e à lide a pé.
 
 2. De entre as reses destinadas a cada uma das modalidades de lide far-se-ão tantos lotes quantos os cabeças-de-cartaz.
 
@@ -531,21 +548,21 @@ Da apartação e sorteio
 
 6. Os cavaleiros de alternativa e os matadores de toiros, quando alternem com cavaleiros praticantes e novilheiros, terão direito à escolha das reses que lhes competir lidar, independentemente do disposto nos n.os 2 a 5 deste artigo.
 
-###### Art. 66.º - 1. Terminado o sorteio, as reses serão encurraladas isoladamente em compartimentos sobre os quais deve ser afixado o número de ordem de saída à arena estabelecido pelos cabeças-de-cartaz ou seus representantes.
+Art. 66.º - 1. Terminado o sorteio, as reses serão encurraladas isoladamente em compartimentos sobre os quais deve ser afixado o número de ordem de saída à arena estabelecido pelos cabeças-de-cartaz ou seus representantes.
 
 2. É proibido alterar a ordem de saída das reses à arena, salvo caso de força maior devidamente comprovado.
 
-###### Art. 67.º - 1. Depois de isoladas, as reses devem ser deixadas em completo sossego até à hora do espectáculo, sendo proibida a entrada de qualquer pessoa na zona dos curros.
+Art. 67.º - 1. Depois de isoladas, as reses devem ser deixadas em completo sossego até à hora do espectáculo, sendo proibida a entrada de qualquer pessoa na zona dos curros.
 
 2. Pela infracção ao disposto no número anterior será punido o encarregado dos curros com a multa de 2000$00.
 
 Toiro ou novilho de reserva
 
-###### Art. 68.º - 1. As empresas não têm obrigação de fazer correr mais reses que as anunciadas, nem são obrigadas a substituir alguma que se inutilize durante a lide.
+Art. 68.º - 1. As empresas não têm obrigação de fazer correr mais reses que as anunciadas, nem são obrigadas a substituir alguma que se inutilize durante a lide.
 
 2. Neste caso, o lidador a quem competir a rês inutilizada perde o turno como se a tivesse lidado até ao fim.
 
-###### Art. 69.º - 1. Para as corridas ou novilhadas que se realizam em praças de 1.ª categoria, as empresas devem ter nos currais, à disposição do director do espectáculo, uma rês de reserva para substituição de alguma que se tenha inutilizado antes de sair à arena, ou que, durante a lide, apresente defeito físico não revelado na inspecção, ou acuse excessiva mansidão.
+Art. 69.º - 1. Para as corridas ou novilhadas que se realizam em praças de 1.ª categoria, as empresas devem ter nos currais, à disposição do director do espectáculo, uma rês de reserva para substituição de alguma que se tenha inutilizado antes de sair à arena, ou que, durante a lide, apresente defeito físico não revelado na inspecção, ou acuse excessiva mansidão.
 
 2. Substituída a rês, o lidador a quem aquela competia não perde o turno.
 
@@ -553,33 +570,33 @@ Toiro ou novilho de reserva
 
 4. A rês de reserva pode não pertencer à ganadaria anunciada, mas deve igualmente ser inspeccionada antes do espectáculo.
 
-###### Art. 70.º O disposto no artigo anterior é aplicável nas praças de 2.ª e 3.ª categorias, nos espectáculos em que sejam lidadas só seis reses ou menos.
+Art. 70.º O disposto no artigo anterior é aplicável nas praças de 2.ª e 3.ª categorias, nos espectáculos em que sejam lidadas só seis reses ou menos.
 
 ### CAPÍTULO V — Dos lidadores
 
-###### Art. 71.º - 1. São considerados cabeças-de-cartaz os cavaleiros profissionais, os espadas, quer sejam matadores de toiros, novilheiros ou novilheiros praticantes, e os toureiros cómicos profissionais, de ambos os sexos.
+Art. 71.º - 1. São considerados cabeças-de-cartaz os cavaleiros profissionais, os espadas, quer sejam matadores de toiros, novilheiros ou novilheiros praticantes, e os toureiros cómicos profissionais, de ambos os sexos.
 
 2. Para efeitos do disposto nos artigos 64.º e 65.º, são também considerados cabeças-de-cartaz os cavaleiros e espadas amadores.
 
-###### Art. 72.º - 1. Sem o prejuízo do disposto no artigo 14.º, o cabeça-de-cartaz constante do programa visado pela Direcção dos Serviços de Espectáculos que não tourear será punido com a multa de 1000$00 a 10000$00, conforme a respectiva categoria, salvo se provar justo impedimento.
+Art. 72.º - 1. Sem o prejuízo do disposto no artigo 14.º, o cabeça-de-cartaz constante do programa visado pela Direcção dos Serviços de Espectáculos que não tourear será punido com a multa de 1000$00 a 10000$00, conforme a respectiva categoria, salvo se provar justo impedimento.
 
 2. Quando o justo impedimento alegado for a doença, esta deve ser comprovada por atestado médico.
 
-###### Art. 73.º - 1. Os lidadores profissionais, nacionais ou estrangeiros, salvo quando intervenham em festivais, só podem actuar nas categorias em que estejam qualificados pelo Sindicato Nacional dos Toureiros Portugueses ou pela entidade do respectivo país oficialmente competente.
+Art. 73.º - 1. Os lidadores profissionais, nacionais ou estrangeiros, salvo quando intervenham em festivais, só podem actuar nas categorias em que estejam qualificados pelo Sindicato Nacional dos Toureiros Portugueses ou pela entidade do respectivo país oficialmente competente.
 
 Dos cavaleiros
 
-###### Art. 74.º - 1. Os cavaleiros devem apresentar-se sempre com as suas quadrilhas, compostas, pelo menos, de tantos peões de brega quantas as reses a lidar.
+Art. 74.º - 1. Os cavaleiros devem apresentar-se sempre com as suas quadrilhas, compostas, pelo menos, de tantos peões de brega quantas as reses a lidar.
 
 2. Quando o cavaleiro lide apenas uma rês, o número de peões não pode ser inferior a dois.
 
-###### Art. 75.º Cada cavaleiro deve apresentar tantos cavalos de combate quantas as reses a lidar e mais um.
+Art. 75.º Cada cavaleiro deve apresentar tantos cavalos de combate quantas as reses a lidar e mais um.
 
-###### Art. 76.º - 1. Compete ao cavaleiro de alternativa dirigir a lide dos seus toiros ou novilhos.
+Art. 76.º - 1. Compete ao cavaleiro de alternativa dirigir a lide dos seus toiros ou novilhos.
 
 2. Quando actuem simultâneamente mais de um cavaleiro, a direcção e o início da lide competem ao mais antigo.
 
-###### Art. 77.º - 1. Se algum cavaleiro se inutilizar antes de terminar a lide das suas reses, será substituído pelos cavaleiros com quem alterna, por ordem de antiguidade.
+Art. 77.º - 1. Se algum cavaleiro se inutilizar antes de terminar a lide das suas reses, será substituído pelos cavaleiros com quem alterna, por ordem de antiguidade.
 
 2. Alternando cavaleiros de diferente categoria profissional, a substituição iniciar-se-á pelos cavaleiros da mesma categoria do inutilizado.
 
@@ -589,13 +606,13 @@ Dos cavaleiros
 
 Dos espadas
 
-###### Art. 78.º Os espadas devem fazer-se acompanhar das suas quadrilhas, compostas de tantos peões de brega quantas as reses a lidar e mais um.
+Art. 78.º Os espadas devem fazer-se acompanhar das suas quadrilhas, compostas de tantos peões de brega quantas as reses a lidar e mais um.
 
-###### Art. 79.º - 1. Pertence ao espada, quando seja matador de toiros, a direcção da lide das suas reses.
+Art. 79.º - 1. Pertence ao espada, quando seja matador de toiros, a direcção da lide das suas reses.
 
 2. Quando o espada for novilheiro ou novilheiro praticante, cabe ao director do espectáculo determinar as mudanças de tércio.
 
-###### Art. 80.º São obrigações dos espadas, qualquer que seja a sua categoria:
+Art. 80.º São obrigações dos espadas, qualquer que seja a sua categoria:
 
 a) Executar os lances de capote com o toiro no primeiro estado, alternando com os outros espadas por ordem decrescente de antiguidade, sempre que a rês o permita;
 
@@ -605,9 +622,9 @@ c) Simular a morte da rês, com a bandarilha ou com a mão, no fim da faina;
 
 d) Dar por finda a lide logo que oiçam o aviso de ter decorrido o tempo regulamentar.
 
-###### Art. 81.º Nas corridas em que tomam parte espadas de categorias diferentes, os novilheiros e novilheiros praticantes podem ser convidados a alternar, nos lances de capote, nas reses dos matadores de toiros.
+Art. 81.º Nas corridas em que tomam parte espadas de categorias diferentes, os novilheiros e novilheiros praticantes podem ser convidados a alternar, nos lances de capote, nas reses dos matadores de toiros.
 
-###### Art. 82.º - 1. Se um espada se inutilizar durante o espectáculo, antes de concluída a lide das suas reses, será substituído pelos outros espadas de igual categoria profissional, por ordem de antiguidade.
+Art. 82.º - 1. Se um espada se inutilizar durante o espectáculo, antes de concluída a lide das suas reses, será substituído pelos outros espadas de igual categoria profissional, por ordem de antiguidade.
 
 2. Quando não alternem espadas de igual categoria, a substituição será feita pelos restantes espadas, segundo a mesma ordem.
 
@@ -615,11 +632,11 @@ d) Dar por finda a lide logo que oiçam o aviso de ter decorrido o tempo regulam
 
 Dos forcados
 
-###### Art. 83.º - 1. Cada grupo de moços-de-forcado é constituído por oito pegadores, incluindo o cabo.
+Art. 83.º - 1. Cada grupo de moços-de-forcado é constituído por oito pegadores, incluindo o cabo.
 
 2. O grupo pode apresentar, no máximo, quatro suplentes, que são dispensados de tomar parte nas cortesias.
 
-###### Art. 84.º Ao cabo do grupo de moços-de-forcado compete:
+Art. 84.º Ao cabo do grupo de moços-de-forcado compete:
 
 a) Informar o director do espectáculo, por intermédio do avisador, da modalidade da pega que o grupo pretende executar;
 
@@ -627,11 +644,11 @@ b) Indicar aos componentes do grupo a modalidade em que devem actuar e a sua col
 
 c) Indicar aos bandarilheiros o tipo de brega conveniente e a colocação da rês no sítio e na posição que ele ou o forcado encarregado da pega preferirem.
 
-###### Art. 85.º Quando na mesma corrida tomem parte dois grupos de moços-de-forcado, os grupos devem pegar alternadamente, cabendo a primeira rês ao mais antigo.
+Art. 85.º Quando na mesma corrida tomem parte dois grupos de moços-de-forcado, os grupos devem pegar alternadamente, cabendo a primeira rês ao mais antigo.
 
 Dos bandarilheiros
 
-###### Art. 86.º - 1. Aos bandarilheiros que compõem as quadrilhas dos cavaleiros compete:
+Art. 86.º - 1. Aos bandarilheiros que compõem as quadrilhas dos cavaleiros compete:
 
 a) Parar e bregar as reses destinadas ao toureio a cavalo;
 
@@ -641,7 +658,7 @@ b) Bregar e colocar as reses no sítio e posição que lhes foi indicada pelo ca
 
 3. Durante a execução da pega, devem os peões de brega manter-se atentos, a fim de intervir, se necessário.
 
-###### Art. 87.º - 1. Aos bandarilheiros que compõem as quadrilhas dos espadas compete:
+Art. 87.º - 1. Aos bandarilheiros que compõem as quadrilhas dos espadas compete:
 
 a) Correr, parar e bregar as reses destinadas ao toureio a pé;
 
@@ -649,7 +666,7 @@ b) Bandarilhar sempre que o matador de turno ou o director da corrida lho determ
 
 2. Para efeitos do disposto no número anterior, não podem permanecer na arena, além dos espadas, mais do que três bandarilheiros.
 
-###### Art. 88.º - 1. Aos bandarilheiros é vedado:
+Art. 88.º - 1. Aos bandarilheiros é vedado:
 
 a) À entrada das reses na arena, chamar a atenção das mesmas, de dentro da trincheira, a menos de 10 m da porta do curro;
 
@@ -661,68 +678,68 @@ b) Recortar ou empapar as reses no capote de modo que choquem ou derrotem nos es
 
 4. Se em consequência das infracções previstas no n.º 1 se verificar a inutilização de uma rês, as multas fixadas nos números anteriores serão elevadas para o dobro.
 
-###### Art. 89.º - 1. Os bandarilheiros sairão a bandarilhar por parelhas, actuando pala ordem da respectiva antiguidade.
+Art. 89.º - 1. Os bandarilheiros sairão a bandarilhar por parelhas, actuando pala ordem da respectiva antiguidade.
 
 2. O bandarilheiro que fizer duas saídas em falso perderá o turno.
 
-###### Art. 90.º Quando, por acidente ou doença súbita, não possam continuar a actuar os bandarilheiros de uma quadrilha, devem ocupar o seu lugar os mais modernos das restantes.
+Art. 90.º Quando, por acidente ou doença súbita, não possam continuar a actuar os bandarilheiros de uma quadrilha, devem ocupar o seu lugar os mais modernos das restantes.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 91.º Nos espectáculos a que assistirem o Chefe do Estado ou altas personalidades nacionais ou estrangeiras, os lidadores deverão oferecer-lhes a lide ou sorte da primeira rês que lidarem.
+Art. 91.º Nos espectáculos a que assistirem o Chefe do Estado ou altas personalidades nacionais ou estrangeiras, os lidadores deverão oferecer-lhes a lide ou sorte da primeira rês que lidarem.
 
-###### Art. 92.º - 1. Todos os lidadores e campinos deverão apresentar-se com os trajos tradicionais.
+Art. 92.º - 1. Todos os lidadores e campinos deverão apresentar-se com os trajos tradicionais.
 
 2. Nos festivais e variedades taurinas apenas poderá ser usado o trajo curto.
 
-###### Art. 93.º Todos os lidadores e campinos deverão estar junto da porta principal da arena pelo menos dez minutos antes da hora marcada para o início do espectáculo, não podendo abandonar a praça antes de aquele terminado, salvo quando devidamente autorizados.
+Art. 93.º Todos os lidadores e campinos deverão estar junto da porta principal da arena pelo menos dez minutos antes da hora marcada para o início do espectáculo, não podendo abandonar a praça antes de aquele terminado, salvo quando devidamente autorizados.
 
-###### Art. 94.º - 1. Durante os espectáculos tauromáquicos é obrigatória a permanência, nos curros da praça, de um jogo de cabrestos devidamente adestrados e de preferência do mesmo ganadeiro que forneça as reses, para a recolha destas.
+Art. 94.º - 1. Durante os espectáculos tauromáquicos é obrigatória a permanência, nos curros da praça, de um jogo de cabrestos devidamente adestrados e de preferência do mesmo ganadeiro que forneça as reses, para a recolha destas.
 
 2. O jogo de cabrestos deve compor-se de um mínimo de seis reses devidamente emboladas com bolas metálicas.
 
-###### Art. 95.º Os espectáculos em que forem lidadas menos de oito reses não têm intervalo, salvo se o director do espectáculo o julgar conveniente.
+Art. 95.º Os espectáculos em que forem lidadas menos de oito reses não têm intervalo, salvo se o director do espectáculo o julgar conveniente.
 
-###### Art. 96.º Qualquer interveniente no espectáculo que cause danos às reses, na sua saída do curro, será punido com multa de 100$00 a 500$00.
+Art. 96.º Qualquer interveniente no espectáculo que cause danos às reses, na sua saída do curro, será punido com multa de 100$00 a 500$00.
 
 Das cortesias
 
-###### Art. 97.º Em todos os espectáculos tauromáquicos são obrigatórias as cortesias segundo o uso tradicional.
+Art. 97.º Em todos os espectáculos tauromáquicos são obrigatórias as cortesias segundo o uso tradicional.
 
-###### Art. 98.º - 1. O cerimonial da entrega da farpa dos cumprimentos entre os cavaleiros só é obrigatório na primeira rês que cada um deles tourear.
+Art. 98.º - 1. O cerimonial da entrega da farpa dos cumprimentos entre os cavaleiros só é obrigatório na primeira rês que cada um deles tourear.
 
 2. Compete ao peão mais antigo da respectiva quadrilha atravessar a arena em todo o seu diâmetro, levando a farpa destinada ao cavaleiro.
 
 Dos campinos
 
-###### Art. 99.º Os campinos deverão acatar as indicações que lhes forem dadas pelos pegadores, quando da execução da pega de volta ou de cernelha.
+Art. 99.º Os campinos deverão acatar as indicações que lhes forem dadas pelos pegadores, quando da execução da pega de volta ou de cernelha.
 
 Dos moços de espada
 
-###### Art. 100.º - 1. Os espadas não poderão levar mais do que um moço de estoque e o seu auxiliar.
+Art. 100.º - 1. Os espadas não poderão levar mais do que um moço de estoque e o seu auxiliar.
 
 2. Os moços de estoque e seus auxiliaras devem permanecer sempre entre barreiras, não podendo saltar à arena e acercar-se da trincheira ou percorrê-la a não ser nos momentos indispensáveis para a entrega aos lidadores dos objectos de que estes necessitem.
 
 ### CAPÍTULO VII — Das infracções
 
-###### Art. 101.º - 1. As infracções às disposições deste Regulamento para as quais não esteja especialmente prevista qualquer sanção serão punidas com a multa de 100$00 a 2000$00.
+Art. 101.º - 1. As infracções às disposições deste Regulamento para as quais não esteja especialmente prevista qualquer sanção serão punidas com a multa de 100$00 a 2000$00.
 
 2. Em casos de reincidência, as multas fixadas no presente Regulamento serão elevadas para o dobro.
 
 3. O produto das multas aplicadas nos termos deste Regulamento constituirá receita do Fundo de Assistência do Sindicato Nacional dos Toureiros Portugueses.
 
-###### Art. 102.º Compete ao director dos Serviços de Espectáculos a aplicação das sanções previstas no presente Regulamento, salvo a de suspensão do exercício de actividade, que é da competência do director-geral da Cultura Popular e Espectáculos.
+Art. 102.º Compete ao director dos Serviços de Espectáculos a aplicação das sanções previstas no presente Regulamento, salvo a de suspensão do exercício de actividade, que é da competência do director-geral da Cultura Popular e Espectáculos.
 
-###### Art. 103.º Na aplicação das sanções previstas neste Regulamento e na instrução dos respectivos processos, observar-se-á o disposto nos artigos 90.º a 92.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959.
+Art. 103.º Na aplicação das sanções previstas neste Regulamento e na instrução dos respectivos processos, observar-se-á o disposto nos artigos 90.º a 92.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959.
 
 ### CAPÍTULO VIII — Disposições transitórias e finais
 
-###### Art. 104.º No prazo de trinta dias, contado da data da publicação do presente Regulamento, as entidades exploradoras das praças de toiros deverão comunicar à Direcção dos Serviços de Espectáculos o nome e a morada do respectivo médico veterinário.
+Art. 104.º No prazo de trinta dias, contado da data da publicação do presente Regulamento, as entidades exploradoras das praças de toiros deverão comunicar à Direcção dos Serviços de Espectáculos o nome e a morada do respectivo médico veterinário.
 
-###### Art. 105.º Durante os primeiros três anos, a contar da data da entrada em vigor deste Regulamento, a Direcção dos Serviços de Espectáculos pode autorizar a lide de reses com peso inferior aos fixados no artigo 55.º
+Art. 105.º Durante os primeiros três anos, a contar da data da entrada em vigor deste Regulamento, a Direcção dos Serviços de Espectáculos pode autorizar a lide de reses com peso inferior aos fixados no artigo 55.º
 
-###### Art. 106.º Nos três primeiros anos da vigência deste Regulamento, o peso das reses a lidar nas praças de toiros de 1.ª categoria poderá ser determinado pela forma prevista no n.º 2 do artigo 56.º
+Art. 106.º Nos três primeiros anos da vigência deste Regulamento, o peso das reses a lidar nas praças de toiros de 1.ª categoria poderá ser determinado pela forma prevista no n.º 2 do artigo 56.º
 
-###### Art. 107.º Quaisquer dúvidas suscitadas na aplicação do presente Regulamento serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
+Art. 107.º Quaisquer dúvidas suscitadas na aplicação do presente Regulamento serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
 
-**O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.**
+O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.

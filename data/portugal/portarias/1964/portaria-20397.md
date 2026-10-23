@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20397-1964-469859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d73a6de2918dd7949900d1a890e46f7a66e181a271420c3361c124f8d4c8cb77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 144ad7d9b798a8d20d63790192015f830d698d54d5599f72bd42c2364f115d1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:582600:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:05Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +100,7 @@ Com vista à resolução do problema dos transportes abaixo referidos, foi celeb
 
 Ficou estipulado no mesmo contrato que todas as obras e apetrechamentos ferroviários e portuários ficariam integrados no Património do Estado, sem qualquer ónus, estabelecendo-se o meio de amortização dos respectivos custos.
 
-Para cumprimento do estatuído naquele documento, as Companhias celebraram, em 4 de Março de 1961, sob aprovação e garantia do Governo Português, um contrato geral com o consórcio constituído pelas firmas Fried. Krupp, Essen, [([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda (contrato no qual mais tarde se interessaram outras empresas especializadas), para a execução das obras e o fornecimento do material e equipamento necessário à consecução daquele objectivo, estabelecendo-se que os serviços a prestar e os fornecimentos a efectuar seriam posteriormente regulados por convenções especiais a celebrar entre as Companhias e o consórcio e sujeitas à aprovação do Governo Português.
+Para cumprimento do estatuído naquele documento, as Companhias celebraram, em 4 de Março de 1961, sob aprovação e garantia do Governo Português, um contrato geral com o consórcio constituído pelas firmas Fried. Krupp, Essen, [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda (contrato no qual mais tarde se interessaram outras empresas especializadas), para a execução das obras e o fornecimento do material e equipamento necessário à consecução daquele objectivo, estabelecendo-se que os serviços a prestar e os fornecimentos a efectuar seriam posteriormente regulados por convenções especiais a celebrar entre as Companhias e o consórcio e sujeitas à aprovação do Governo Português.
 
 Prevê-se para breve o início da execução das correspondentes obras e fornecimentos, cabendo ao Governo Português, através dos órgãos competentes, proceder a conveniente fiscalização, no sentido de assegurar o inteiro cumprimento dos contratos firmados e a oportuna realização do empreendimento e de habilitar os serviços do porto e caminho de ferro de Moçâmedes a devidamente enfrentarem as novas condições de exploração que ele forçosamente acarretará.
 
@@ -104,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 § único. Sempre que tal seja aconselhado pela natureza dos assuntos, serão constituídas brigadas especializadas, directamente subordinadas à missão.
 
-2.º À missão compete designadamente proceder à fiscalização e recepção das obras e fornecimentos destinados ao Estado que são objecto do contrato geral e das convenções especiais celebrados entre as Companhias e o consórcio formado pelas firmas Fried. Krupp, Essen, [([ver documento original](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf))](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, Morrison-Knudsen, S. Francisco, Cal., Société Gregg d'Europe, S. A., Lot e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda, contratos esses aprovados e garantidos pelo Governo Português.
+2.º À missão compete designadamente proceder à fiscalização e recepção das obras e fornecimentos destinados ao Estado que são objecto do contrato geral e das convenções especiais celebrados entre as Companhias e o consórcio formado pelas firmas Fried. Krupp, Essen, [(ver documento original)](https://files.diariodarepublica.pt/1s/1964/02/04900/03560358.pdf) & Schultz A/S, Copenhaga, Morrison-Knudsen, S. Francisco, Cal., Société Gregg d'Europe, S. A., Lot e Sociedade de Empreitadas e Trabalhos Hidráulicos, Lda., Lisboa e Luanda, contratos esses aprovados e garantidos pelo Governo Português.
 
 3.º No âmbito das actividades definidas no artigo anterior, são atribuições da missão:
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/588-1972-691807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9ed59ea8fd24d0a11f889b526477f060b86e32636f2a34c4c9b9c9f056b2f43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6001fa6457fce0935bf8914feb9621b8f54932d504965c532c8e9b096b107cdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:139047:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139047:por
+  label: Alterado o quadro de pessoal pelo(a) Portaria n.º 218/77 - Diário da República n.º 94/1977, Série I de 1977-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1977-139047
+  date: '1977-04-22'
+- type: cites
+  target: pt:dre:210055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:01Z'
   warnings: []
   errors: []
 ---
@@ -94,6 +107,6 @@ Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência
 
 Quadro de pessoal não dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/23400/14581458.pdf))](https://files.diariodarepublica.pt/1s/1972/10/23400/14581458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/23400/14581458.pdf)
 
 Ministério da Saúde e Assistência, 22 de Setembro de 1972. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

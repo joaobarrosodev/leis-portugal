@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/02/03500/01530156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21102-1965-238787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a1cc10214cd303e04d871d2a9dd9782ab829162cface046e837f3cd6cf58c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41bf7f2898b696ac650ed536e357a401117fa11058e18deeb1599a7382d3afe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Exército
+- Forças Armadas
+- Manutenção Militar
+- Pessoal Civil
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:154471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:154471:por
+  label: "Revogada pela PORT.681/70.31.12.1970.MX, DG.IS [301] de 31.12.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-1970-154471
+  date: '1970-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:07Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Exército, nos termos
 
 REGULAMENTO DO FUNDO DE PROTECÇÃO E ACÇÃO SOCIAL DOS ESTABELECIMENTOS FABRIS DO EXÉRCITO
 
-###### Artigo 1.º No sentido de assegurar ao pessoal civil dos estabelecimentos fabris do Exército uma eficiente assistência, o Fundo de Protecção e Acção Social, criado pelo artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, compreende:
+Artigo 1.º No sentido de assegurar ao pessoal civil dos estabelecimentos fabris do Exército uma eficiente assistência, o Fundo de Protecção e Acção Social, criado pelo artigo 48.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, compreende:
 
 a) Uma parte comum a todos os estabelecimentos - Fundo comum de protecção e acção social -, abreviadamente designada neste regulamento por «Fundo comum»;
 
@@ -101,15 +116,15 @@ b) Outra parte privativa de cada estabelecimento - Fundo privativo de protecçã
 
 As Oficinas Gerais de Fardamento estão dispensadas desse encargo, fornecendo, em contrapartida, com carácter permanente, a alimentação ao pessoal civil aludido neste parágrafo, nas condições expressas no artigo 24.º
 
-###### Art. 2.º Cada um dos estabelecimentos fabris destinará 15 a 25 por cento dos seus lucros líquidos para a constituição do Fundo indicado no artigo anterior. Desta importância, 40 por cento reverterão para o Fundo comum e os restantes 60 por cento para o Fundo privativo de cada estabelecimento.
+Art. 2.º Cada um dos estabelecimentos fabris destinará 15 a 25 por cento dos seus lucros líquidos para a constituição do Fundo indicado no artigo anterior. Desta importância, 40 por cento reverterão para o Fundo comum e os restantes 60 por cento para o Fundo privativo de cada estabelecimento.
 
 § 1.º Para o Fundo comum concorrerá também qualquer subsídio que venha a ser previsto no Orçamento Geral do Estado ou de qualquer outra proveniência.
 
 § 2.º Para o Fundo privativo de cada estabelecimento concorrerão ainda as multas disciplinarmente aplicadas no mesmo estabelecimento.
 
-###### Art. 3.º Para efeitos de assistência, é considerada família do pessoal o cônjuge e, quando a cargo do servidor e com ele vivam em comunhão de mesa e habitação, os ascendentes e descendentes em linha recta do servidor e do cônjuge.
+Art. 3.º Para efeitos de assistência, é considerada família do pessoal o cônjuge e, quando a cargo do servidor e com ele vivam em comunhão de mesa e habitação, os ascendentes e descendentes em linha recta do servidor e do cônjuge.
 
-###### Art. 4.º As importâncias destinadas ao Fundo comum e ao Fundo privativo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, em contas especiais.
+Art. 4.º As importâncias destinadas ao Fundo comum e ao Fundo privativo serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, em contas especiais.
 
 § único. Os depósitos das importâncias correspondentes ao Fundo comum e ao Fundo privativo constituir-se-ão à ordem, respectivamente, das entidades indicadas no § 1.º do artigo 11.º do presente regulamento e das direcções dos estabelecimentos fabris a que se reportarem.
 
@@ -117,7 +132,7 @@ I) Do Fundo de Protecção e Acção Social (F. P. A. S.)
 
 1. Fundo comum
 
-###### Art. 5.º O Fundo comum será gerido pelo quartel-mestre-general, assistido por um conselho constituído pelo presidente do Conselho Fiscal dos Estabelecimentos Fabris do Exército e pelos directores dos estabelecimentos fabris, destinando-se, especialmente, a:
+Art. 5.º O Fundo comum será gerido pelo quartel-mestre-general, assistido por um conselho constituído pelo presidente do Conselho Fiscal dos Estabelecimentos Fabris do Exército e pelos directores dos estabelecimentos fabris, destinando-se, especialmente, a:
 
 a) Apoiar a acção privativa dos estabelecimentos fabris, reforçando os respectivos fundos privativos;
 
@@ -131,17 +146,17 @@ e) Dar assistência moral e religiosa ao pessoal.
 
 § único. Podem também ser concedidos pelas disponibilidades do Fundo subsídios de habitação e serem construídas casas de venda económica.
 
-###### Art. 6.º Os estabelecimentos fabris, para beneficiarem do apoio referido na alínea a) do artigo 5.º, apresentarão propostas fundamentadas nesse sentido ao quartel-mestre-general até 31 de Outubro de cada ano, com indicação da verba necessária para o ano seguinte. As propostas assim elaboradas, depois de devidamente informadas, serão submetidas a despacho do Ministro do Exército, de modo que os reforços concedidos possam ser incluídos nos respectivos orçamentos ordinários do ano seguinte dos estabelecimentos beneficiados.
+Art. 6.º Os estabelecimentos fabris, para beneficiarem do apoio referido na alínea a) do artigo 5.º, apresentarão propostas fundamentadas nesse sentido ao quartel-mestre-general até 31 de Outubro de cada ano, com indicação da verba necessária para o ano seguinte. As propostas assim elaboradas, depois de devidamente informadas, serão submetidas a despacho do Ministro do Exército, de modo que os reforços concedidos possam ser incluídos nos respectivos orçamentos ordinários do ano seguinte dos estabelecimentos beneficiados.
 
-###### Art. 7.º O funcionamento e organização das colónias de férias serão objecto de normas especiais, a elaborar por intermédio do quartel-mestre-general e do conselho referido no artigo 5.º, e serão aprovadas por despacho do Ministro do Exército.
+Art. 7.º O funcionamento e organização das colónias de férias serão objecto de normas especiais, a elaborar por intermédio do quartel-mestre-general e do conselho referido no artigo 5.º, e serão aprovadas por despacho do Ministro do Exército.
 
-###### Art. 8.º Cabe aos directores dos estabelecimentos fabris propor, por conta do Fundo comum, a construção de habitações de renda compatível com os vencimentos ou salários auferidos ou a concessão de subsídios de habitação para aqueles que não beneficiem de uma tal regalia e vivam em maiores dificuldades.
+Art. 8.º Cabe aos directores dos estabelecimentos fabris propor, por conta do Fundo comum, a construção de habitações de renda compatível com os vencimentos ou salários auferidos ou a concessão de subsídios de habitação para aqueles que não beneficiem de uma tal regalia e vivam em maiores dificuldades.
 
-###### Art. 9.º A assistência moral e religiosa terá por finalidade principal a valorização do agregado familiar do pessoal dos estabelecimentos fabris, dentro dos princípios que salvaguardam a trilogia Deus, Pátria e Família, e será empreendida por capelães civis contratados ou por capelães militares que venham a ser nomeados para o efeito.
+Art. 9.º A assistência moral e religiosa terá por finalidade principal a valorização do agregado familiar do pessoal dos estabelecimentos fabris, dentro dos princípios que salvaguardam a trilogia Deus, Pátria e Família, e será empreendida por capelães civis contratados ou por capelães militares que venham a ser nomeados para o efeito.
 
-###### Art. 10.º A acção dos assistentes eclesiásticos, exercida sem prejuízo das actividades funcionais dos estabelecimentos fabris, estender-se-á à realização de reuniões, à organização de conferências e a actividades culturais, mediante directivas recebidas por intermédio do quartel-mestre-general e com programas a estabelecer por acordo com as direcções dos estabelecimentos.
+Art. 10.º A acção dos assistentes eclesiásticos, exercida sem prejuízo das actividades funcionais dos estabelecimentos fabris, estender-se-á à realização de reuniões, à organização de conferências e a actividades culturais, mediante directivas recebidas por intermédio do quartel-mestre-general e com programas a estabelecer por acordo com as direcções dos estabelecimentos.
 
-###### Art. 11.º Como órgãos de execução do Fundo comum existem:
+Art. 11.º Como órgãos de execução do Fundo comum existem:
 
 a) Serviços de secretaria - Repartição do Orçamento e Administração da Chefia do Serviço do Orçamento e Administração;
 
@@ -153,9 +168,9 @@ b) Serviços administrativos - Conselho Administrativo da Chefia do Serviço do 
 
 2. Fundo privativo
 
-###### Art. 12.º O Fundo privativo de cada estabelecimento fabril será gerido pelo respectivo director e é por intermédio desse Fundo que se exercerá a protecção e acção social definida no capítulo seguinte.
+Art. 12.º O Fundo privativo de cada estabelecimento fabril será gerido pelo respectivo director e é por intermédio desse Fundo que se exercerá a protecção e acção social definida no capítulo seguinte.
 
-###### Art. 13.º As despesas de protecção e acção social, obrigatòriamente realizadas dentro das disponibilidades do respectivo Fundo privativo, são autorizadas pelos directores dentro dos limites da sua competência administrativa e dos princípios estabelecidos no presente regulamento.
+Art. 13.º As despesas de protecção e acção social, obrigatòriamente realizadas dentro das disponibilidades do respectivo Fundo privativo, são autorizadas pelos directores dentro dos limites da sua competência administrativa e dos princípios estabelecidos no presente regulamento.
 
 § 1.º Sempre que os directores julguem conveniente a realização de despesas não previstas neste regulamento submetê-las-ão a despacho ministerial, por intermédio do quartel-mestre-general.
 
@@ -163,7 +178,7 @@ b) Serviços administrativos - Conselho Administrativo da Chefia do Serviço do 
 
 II) Da protecção e acção social
 
-###### Art. 14.º A protecção e acção social a exercer directamente pelos estabelecimentos fabris, por força do seu Fundo privativo, será tão vasta quanto possível e abrangerá, em princípio, as seguintes modalidades:
+Art. 14.º A protecção e acção social a exercer directamente pelos estabelecimentos fabris, por força do seu Fundo privativo, será tão vasta quanto possível e abrangerá, em princípio, as seguintes modalidades:
 
 Auxílio na doença;
 
@@ -179,7 +194,7 @@ Subsídios diversos.
 
 1. Auxílio na doença
 
-###### Art. 15.º O auxílio na doença, a prestar ao pessoal civil e suas famílias, compreenderá:
+Art. 15.º O auxílio na doença, a prestar ao pessoal civil e suas famílias, compreenderá:
 
 Assistência clínica;
 
@@ -187,13 +202,13 @@ Comparticipação em tratamento;
 
 Subsídios na doença.
 
-###### Art. 16.º A assistência clínica, gratuita ao pessoal e suas famílias, será prestada nas instalações apropriadas dos serviços de saúde dos respectivos estabelecimentos fabris. A assistência clínica domiciliária será prestada, em princípio, apenas aos próprios servidores e nas condições expressas na lei.
+Art. 16.º A assistência clínica, gratuita ao pessoal e suas famílias, será prestada nas instalações apropriadas dos serviços de saúde dos respectivos estabelecimentos fabris. A assistência clínica domiciliária será prestada, em princípio, apenas aos próprios servidores e nas condições expressas na lei.
 
 § único. Os estabelecimentos fabris do Exército poderão remunerar pelo F. P. A. S. os serviços eventuais prestados por pessoal de saúde.
 
-###### Art. 17.º A comparticipação em tratamento poderá abranger o internamento em hospitais e Casas de saúde (incluindo as intervenções cirúrgicas), as análises, radiografias, electrocardiogramas, medicamentos, agasalhos, óculos, aplicações fisioterápicas, próteses, tratamentos de estomatologia e quaisquer outros tratamentos ou meios de diagnóstico.
+Art. 17.º A comparticipação em tratamento poderá abranger o internamento em hospitais e Casas de saúde (incluindo as intervenções cirúrgicas), as análises, radiografias, electrocardiogramas, medicamentos, agasalhos, óculos, aplicações fisioterápicas, próteses, tratamentos de estomatologia e quaisquer outros tratamentos ou meios de diagnóstico.
 
-###### Art. 18.º A comparticipação nos custos dos tratamentos far-se-á em relação ao rendimento mensal per capita do agregado familiar e nas seguintes percentagens:
+Art. 18.º A comparticipação nos custos dos tratamentos far-se-á em relação ao rendimento mensal per capita do agregado familiar e nas seguintes percentagens:
 
 ... Por cento
 
@@ -207,23 +222,23 @@ Rendimentos superiores a 500$00 e até 1000$00 ... 50
 
 § 3.º A comparticipação em tratamentos, medicamentos, exames clínicos e intervenções cirúrgicas só pode ter lugar desde que estes sejam assegurados por organização do Estado, nomeadamente hospitais militares e Laboratório Militar de Produtos Químicos e Farmacêuticos, salvo quando, pela sua natureza especial, não possam por elas ser assegurados.
 
-###### Art. 19.º Os subsídios pecuniários na doença poderão ser concedidos ao pessoal necessitado, com mais de um ano de serviço e boas informações, quando na situação de doente, devidamente comprovada pelo clínico do respectivo estabelecimento.
+Art. 19.º Os subsídios pecuniários na doença poderão ser concedidos ao pessoal necessitado, com mais de um ano de serviço e boas informações, quando na situação de doente, devidamente comprovada pelo clínico do respectivo estabelecimento.
 
 § único. Estes subsídios, somados com os vencimentos ou salários auferidos na referida situação, não poderão ir além dos vencimentos ou salários normais da categoria.
 
 2. Protecção materno-infantil
 
-###### Art. 20.º A protecção materno-infantil compreende a assistência ao pessoal feminino durante a gravidez e a assistência na criação dos filhos com menos de 4 anos de idade.
+Art. 20.º A protecção materno-infantil compreende a assistência ao pessoal feminino durante a gravidez e a assistência na criação dos filhos com menos de 4 anos de idade.
 
 § 1.º Procurar-se-á adaptar as condições de trabalho ao estado físico das gestantes, acompanhando, por observação médica, o período de gravidez e prestando assistência clínica durante e após o parto.
 
 § 2.º A comparticipação nas despesas com partos normais será de 1000$00, devendo a interessada comprovar o seu internamento em maternidade ou que foi assistida por médico e parteira diplomada.
 
-###### Art. 21.º Para boa eficiência do preconizado no artigo precedente, os estabelecimentos fabris procurarão criar, junto dos respectivos locais de trabalho, creches e infantários destinados, em especial, a auxiliar a criação dos filhos dos seus empregados femininos, com menos de 4 anos de idade.
+Art. 21.º Para boa eficiência do preconizado no artigo precedente, os estabelecimentos fabris procurarão criar, junto dos respectivos locais de trabalho, creches e infantários destinados, em especial, a auxiliar a criação dos filhos dos seus empregados femininos, com menos de 4 anos de idade.
 
 § único. Em casos excepcionais e quando as vagas o permitirem, poderão as direcções dos estabelecimentos fabris autorizar a admissão dos filhos do pessoal masculino, até ao limite da referida idade.
 
-###### Art. 22.º Serão condições preferenciais a considerar na admissão nas creches e infantários:
+Art. 22.º Serão condições preferenciais a considerar na admissão nas creches e infantários:
 
 a) Rendimento do agregado familiar;
 
@@ -231,11 +246,11 @@ b) Situação do pai (económica e disciplinar);
 
 c) Condições habitacionais e moral do agregado familiar.
 
-###### Art. 23.º Integradas também na protecção à criança, poderão ser pagas despesas com a frequência de colónias de férias em que participarão os filhos do pessoal, inscritos, de ambos os sexos, com as idades que estiverem fixadas nas referidas colónias.
+Art. 23.º Integradas também na protecção à criança, poderão ser pagas despesas com a frequência de colónias de férias em que participarão os filhos do pessoal, inscritos, de ambos os sexos, com as idades que estiverem fixadas nas referidas colónias.
 
 3. Auxílio na alimentação
 
-###### Art. 24.º Os estabelecimentos fabris poderão fornecer almoços ao seu pessoal, em regime de comparticipação. Sempre que a natureza do serviço imponha trabalhos para além do horário normal, poderão igualmente ser fornecidas outras refeições sob o mesmo regime.
+Art. 24.º Os estabelecimentos fabris poderão fornecer almoços ao seu pessoal, em regime de comparticipação. Sempre que a natureza do serviço imponha trabalhos para além do horário normal, poderão igualmente ser fornecidas outras refeições sob o mesmo regime.
 
 § 1.º Os encargos pelo fornecimento de refeições a suportar pelo pessoal e pelo F. P. A. S. serão periòdicamente fixados pelo Ministro do Exército, sob proposta do quartel-mestre-general.
 
@@ -245,31 +260,31 @@ No caso de o Fundo privativo não poder suportar a comparticipação prevista ne
 
 4. Acção educacional, cultural e recreativa
 
-###### Art. 25.º Junto dos estabelecimentos fabris poderão funcionar escolas pré-primárias, escolas primárias e escolas profissionais.
+Art. 25.º Junto dos estabelecimentos fabris poderão funcionar escolas pré-primárias, escolas primárias e escolas profissionais.
 
-###### Art. 26.º Nas escolas pré-primárias serão admitidos os filhos do pessoal, a partir dos 4 anos até à idade de matrícula nas escolas primárias, e nelas se procurará, por métodos didácticos apropriados, despertar os sentidos das crianças, incutindo-lhes hábitos educacionais, morais, artísticos, profissionais e de educação física.
+Art. 26.º Nas escolas pré-primárias serão admitidos os filhos do pessoal, a partir dos 4 anos até à idade de matrícula nas escolas primárias, e nelas se procurará, por métodos didácticos apropriados, despertar os sentidos das crianças, incutindo-lhes hábitos educacionais, morais, artísticos, profissionais e de educação física.
 
 § único. A orientação técnica do ensino ministrado nestas escolas pré-primárias será confiada a professores privativos, a contratar pelos estabelecimentos fabris.
 
-###### Art. 27.º As escolas primárias deverão ser oficiais e funcionar em colaboração com a direcção do estabelecimento fabril consoante os programas do Ministério da Educação Nacional.
+Art. 27.º As escolas primárias deverão ser oficiais e funcionar em colaboração com a direcção do estabelecimento fabril consoante os programas do Ministério da Educação Nacional.
 
 § único. Quando não for possível ou não se justificar a criação nos estabelecimentos fabris de escolas primárias, serão aproveitadas as escolas oficiais mais próximas, custeando aqueles as respectivas despesas, com livros e material didáctico.
 
-###### Art. 28.º As escolas profissionais destinam-se a orientar e a promover a aprendizagem das profissões usadas nos estabelecimentos fabris, educando e instruindo os novos aprendizes de forma a ministrar conhecimentos de ordem geral e técnica que lhes permitam acompanhar o progresso industrial.
+Art. 28.º As escolas profissionais destinam-se a orientar e a promover a aprendizagem das profissões usadas nos estabelecimentos fabris, educando e instruindo os novos aprendizes de forma a ministrar conhecimentos de ordem geral e técnica que lhes permitam acompanhar o progresso industrial.
 
 § 1.º Serão, matriculados obrigatòriamente nestes cursos os aprendizes de operário, excepto se provarem frequentar cursos industriais.
 
 § 2.º As funções docentes dos cursos de educação profissional serão desempenhadas por pessoal técnico, militar ou civil, dos estabelecimentos, nomeado pelas suas direcções.
 
-###### Art. 29.º Os estabelecimentos fabris facultarão aos alunos das suas escolas os livros e material didáctico requeridos pelos respectivos cursos, assim como poderão fornecer subsídios para propinas e livros a todos os aprendizes que frequentam cursos industriais, com bom aproveitamento no ano lectivo anterior.
+Art. 29.º Os estabelecimentos fabris facultarão aos alunos das suas escolas os livros e material didáctico requeridos pelos respectivos cursos, assim como poderão fornecer subsídios para propinas e livros a todos os aprendizes que frequentam cursos industriais, com bom aproveitamento no ano lectivo anterior.
 
-###### Art. 30.º Poderão ser empreendidos pelos estabelecimentos fabris almoços ou jantares de confraternização do pessoal e subsidiadas sessões ou espectáculos de arte ou desportivos e excursões ou quaisquer outros que, pela sua natureza e sem prejuízo do serviço, possam favoràvelmente influir na cultura, saúde e recreio do seu pessoal.
+Art. 30.º Poderão ser empreendidos pelos estabelecimentos fabris almoços ou jantares de confraternização do pessoal e subsidiadas sessões ou espectáculos de arte ou desportivos e excursões ou quaisquer outros que, pela sua natureza e sem prejuízo do serviço, possam favoràvelmente influir na cultura, saúde e recreio do seu pessoal.
 
 § único. A realização dos empreendimentos indicados neste artigo dependerá de despacho do quartel-mestre-general sobre parecer do Conselho Fiscal dos Estabelecimentos Fabris do Exército, exarado sobre informação devidamente fundamentada e elaborada pelo estabelecimento.
 
 5. Subsídios diversos
 
-###### Art. 31.º Os estabelecimentos fabris poderão atribuir subsídios pecuniários nos seguintes casos:
+Art. 31.º Os estabelecimentos fabris poderão atribuir subsídios pecuniários nos seguintes casos:
 
 a) Para enxovais, a conceder aos empregados, pelo nascimento de filhos legítimos;
 
@@ -283,12 +298,12 @@ e) De comprovada necessidade.
 
 § único. Para usufruir as prerrogativas constantes das alíneas a), d) e e) do presente artigo é indispensável que o pessoal tenha bom comportamento moral e profissional.
 
-###### Art. 32.º Pela quadra do Natal ou pelos aniversários dos respectivos estabelecimentos, as direcções poderão atribuir donativos ao pessoal e, aos filhos deste, agasalhos e brinquedos.
+Art. 32.º Pela quadra do Natal ou pelos aniversários dos respectivos estabelecimentos, as direcções poderão atribuir donativos ao pessoal e, aos filhos deste, agasalhos e brinquedos.
 
 § único. Estas ofertas ou lembranças serão reguladas superiormente, de modo a obter-se equidade para todos os estabelecimentos.
 
-###### Art. 33.º Em casos de reconhecida necessidade, os estabelecimentos fabris poderão liquidar despesas de hospitalização ou de outros tratamentos, de conta do seu pessoal de nomeação vitalícia ou contratado e bem assim ao pessoal assalariado dos quadros ou de carácter permanente, devendo as amortizações fazer-se em doze prestações mensais.
+Art. 33.º Em casos de reconhecida necessidade, os estabelecimentos fabris poderão liquidar despesas de hospitalização ou de outros tratamentos, de conta do seu pessoal de nomeação vitalícia ou contratado e bem assim ao pessoal assalariado dos quadros ou de carácter permanente, devendo as amortizações fazer-se em doze prestações mensais.
 
-###### Art. 34.º (transitório). À data da entrada em vigor do presente regulamento os valores existentes no Fundo de Protecção e Acção Social de cada um dos estabelecimentos fabris transitam automàticamente para o Fundo comum, devendo os mesmos estabelecimentos comunicar imediatamente à Chefia do Serviço do Orçamento e Administração e ao Conselho Fiscal dos Estabelecimentos Fabris do Exército as importâncias correspondentes.
+Art. 34.º (transitório). À data da entrada em vigor do presente regulamento os valores existentes no Fundo de Protecção e Acção Social de cada um dos estabelecimentos fabris transitam automàticamente para o Fundo comum, devendo os mesmos estabelecimentos comunicar imediatamente à Chefia do Serviço do Orçamento e Administração e ao Conselho Fiscal dos Estabelecimentos Fabris do Exército as importâncias correspondentes.
 
 Ministério do Exército, 11 de Fevereiro de 1965. - O Ministro do Exército, Joaquim da Luz Cunha.

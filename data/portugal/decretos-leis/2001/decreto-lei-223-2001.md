@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/223/2001/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-2001-521867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1defe12e08a0eec4122e02c7658617e16aaea8db4a8f96eaec479428882d1a73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dd7b8f39141f99abd8ccd98d37bcc656d28b2d444ad2387c0755d420abce188
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Abastecimento de Água
 - Adjudicação
 - Adjudicação por Concurso Público
-- Distribuição de Energia Elétrica
 - Aproximação das Legislações
-- REDE Pública de Telecomunicações
+- Comissão CE
+- Comunicações
 - Concurso Internacional
+- Concurso Limitado por Prévia Qualificação
+- Concurso por Negociação
 - Concurso Público
+- Confidencialidade
 - Contrato
 - Contrato de Concessão
 - Contrato de Prestação de Serviços
+- Distribuição de Energia Elétrica
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Especificação Técnica
-- Comissão CE
 - IVA
-- Concurso Limitado por Prévia Qualificação
-- Concurso por Negociação
-- Serviço Público
 - Prestação de Serviços
 - Programa
-- Confidencialidade
-- Comunicações
-- Abastecimento de Água
+- Recurso
+- REDE Pública de Telecomunicações
+- Serviço Público
 - Transporte de Energia
 relationships:
 - type: amended_by
   target: pt:dre:248178:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482628:por
+  label: "Substituidos os anexos II, III, V, VI, VII e IX , pelo DEC LEI.245/2003.07.10.2003.MOPTH, DR.IS-A [232] de 07.10.2003,\
+    \ nos termos do seu art. 5.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2003-482628
+  date: '2001-08-09'
+- type: amended_by
+  target: pt:dre:218295:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 12.º, 13.º, 16.º, 20.º, 25.º, 26.º, 30.º, 32.º e 48.º, revogado\
+    \ o art. 6.º, e aditados os arts. 2.º-A, 27.º-A, 29.º-A e 31.º-A, todos do presente diploma, pelo DEC LEI.234/2004.15.12.2004.MOPTC,\
+    \ DR.IS-A [292] de 15.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2004-218295
+  date: '2004-12-15'
 - type: cites
   target: celex:31968R0802
   label: null
@@ -116,16 +129,26 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: corrected_by
+  target: pt:dre:239235:por
+  label: "Rectificado pela DECL-RECT.20-E/2001.2001.10.31.PCM DR.IS-A [253]4º Supl de 31/Out/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-e-2001-239235
+  date: '2001-10-31'
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 article_structure:
   article_count: 53
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:29Z'
   warnings: []
   errors: []
 ---
@@ -722,19 +745,19 @@ As entidades adjudicantes comunicarão aos fornecedores, empreiteiros ou prestad
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 25 de Julho de 2001.**
+Promulgado em 25 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 2001.**
+Referendado em 26 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)
+## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)
 
-## ANEXO II — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)
+## ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50025019.pdf)
 
 ## ANEXO III — A) Concursos públicos
 

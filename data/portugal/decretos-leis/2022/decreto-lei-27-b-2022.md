@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 58/2022, 1º Suplemento, Série I de 2022-03-23
   number: '58'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 17-(5) a 17-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05801/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27-b/2022/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2022-180970587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b35681e51daad00b5e48db4cdab1759b5fc2d9245a32a2714ae7579caa839af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57f0ab7da9b58a48ea43306ba64469e0e19a59829d997d3165bfdd18b141d460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Educação
-- Ensino não Superior
+- Avaliação de Conhecimentos
+- Doença Infecciosa
 - Ensino à Distância
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Doméstico
+- Ensino Individual
+- Ensino não Superior
 - Ensino Oficial
 - Ensino Particular
+- Ensino Secundário
+- Epidemia
+- Estabelecimento de Ensino
 - Exame
 - Gestão Escolar
-- Ensino Secundário
 - Instituto de Avaliação Educativa
-- Doença Infecciosa
-- Epidemia
 - Política de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
 - Prova
 - Prova de Aferição
-- Avaliação de Conhecimentos
 - Sistema de Ensino
 - Telescola
-- Ensino Individual
 relationships:
 - type: amended_by
   target: pt:dre:211340864:por
@@ -113,16 +113,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/90/2021/07/07/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115886163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125085420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166569087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168903099:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211340864:por
+  label: Revogado, a partir de 04.04.2023, pelo(a) Decreto-Lei n.º 22/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03,
+    nos termos do art. 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2023-211340864
+  date: '2023-04-03'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:56Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +237,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de março de 2022. - António Luís Santos da Costa - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues.
 
-**Promulgado em 21 de março de 2022.**
+Promulgado em 21 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de março de 2022.**
+Referendado em 22 de março de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115148591

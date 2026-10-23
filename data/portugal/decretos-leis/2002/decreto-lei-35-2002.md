@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/042a00/13551359.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2002/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2002-278032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac4b92c8ac0d2ac8a6d9221553ed73f1cabbf8a86125e929d6375c825a58ae7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f691b6d0ab86396dc0407851b5a622614d062e36fda09a2c2c7f3231cd3033b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:158316443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405483:por
+  label: "Mantido em vigor pela LEI.32/2002.2002.12.20.AR DR.IS-A [294], remetendo para aquela as referências feitas à Lei\
+    \ 17/2000 de 08-Ago\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2002-405483
+  date: '2002-12-20'
+- type: amended_by
+  target: pt:dre:469066:por
+  label: "Determinado que o cálculo da pensão de aposentação resulte da soma de duas parcelas, sendo a 2ª parcela calculada\
+    \ de acordo com os arts. 6º a 11º do presente diploma, pela LEI.60/2005.29.12.2005.AR, DR.IS-A [249] de 29.12.2005, nos\
+    \ termos das als a) e b) do nº 1 do seu art. 5º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2005-469066
+  date: '2005-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
   label: null
@@ -92,16 +105,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56/1994/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56/1994/01/21/p/dre
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:586863:por
+  label: "Rectificado pela DECL-RECT.15-B/2002.2002.03.30.PCM, DR.IS-A [75]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-b-2002-586863
+  date: '2002-03-30'
+- type: repealed_by
+  target: pt:dre:520669:por
+  label: "Revogado pelo DEC LEI.187/2007.10.05.2007.MTSSO, DR.IS [90] de 10.05.2007, a partir de 01.06.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2007-520669
+  date: '2007-05-10'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:33Z'
   warnings: []
   errors: []
 ---
@@ -322,12 +361,12 @@ O presente diploma produz efeitos desde o dia 1 de Janeiro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Paulo José Fernandes Pedroso.
 
-**Promulgado em 31 de Janeiro de 2002.**
+Promulgado em 31 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2002.**
+Referendado em 7 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

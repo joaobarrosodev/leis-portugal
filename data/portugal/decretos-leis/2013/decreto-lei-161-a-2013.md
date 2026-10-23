@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02
   number: '233'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6628-(2) a 6628-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161-a/2013/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bff98ef7d3c4930a541b3031859392addb2bd17b5580e29f3af7d329cd6bb65b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0699d96bc6188c8be51546da987e76d40dd5db205bb61460d55b5cd013fef41d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- PSP
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministério da Administração Interna
+- Autoridade Nacional de Protecção Civil
+- Autoridade Nacional de Segurança Rodoviária
 - Controlador Financeiro
 - Definição de Competências
+- Direcção Geral de Administração Interna
+- Direcção Geral de Infra-estruturas e Equipamentos
 - Equipa de Missão
 - Estrutura de Missão para a Gestão de Fundos Comunitários
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Secretaria Geral
-- Recrutamento de Pessoal
+- GNR
 - Inspeção Geral da Administração Interna
 - Integração de Serviços
-- Autoridade Nacional de Segurança Rodoviária
-- Direcção Geral de Administração Interna
-- GNR
-- Serviço de Estrangeiros e Fronteiras
+- Ministério da Administração Interna
 - Orgânica
+- Pessoal Dirigente
+- PSP
 - Quadro de Pessoal
-- Unidade de Tecnologias de Informação de Segurança
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
-- Autoridade Nacional de Protecção Civil
-- Direcção Geral de Infra-estruturas e Equipamentos
+- Secretário Geral Adjunto
+- Serviço de Estrangeiros e Fronteiras
+- Setor Empresarial do Estado
+- Unidade de Tecnologias de Informação de Segurança
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571029:por
+  label: "Alterado o art. 5.º do Dec Lei 160/2012, de 26-jul, na redação do presente diploma, pelo DEC LEI.10/2014.22.01.2014.MAI,\
+    \ DR.IIS [15] de 22.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2014-571029
+  date: '2014-01-22'
+- type: amended_by
+  target: pt:dre:25345903:por
+  label: Dada nova redação ao art. 10.º e ao anexo do Dec Lei 126-B/2011 de 29-dez, alterado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11, que determinou que todas as referências
+    legais feitas aos serviços objeto de extinção e reestruturação se considerem feitas aos serviços que passam a integrar
+    as respetivas atribuições.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2014-25345903
+  date: '2014-07-11'
+- type: amended_by
+  target: pt:dre:58683383:por
+  label: Dada nova redação ao anexo do Dec Lei 126-B/2011 de 29-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    163/2014 - Diário da República n.º 211/2014, Série I de 2014-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2014-58683383
+  date: '2014-10-31'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Alterado o art. 10.º do Dec Lei 126-B/2011 de 29-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-b/2011/12/29/p/dre
   label: null
@@ -129,16 +155,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:179349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 51
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:30Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +239,9 @@ c) [Revogada];
 
 d) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão prestar apoio técnico à formulação de políticas, ao planeamento estratégico e à política legislativa no âmbito do MAI, garantir o apoio técnico e administrativo aos gabinetes dos membros do Governo e aos órgãos e serviços sem estrutura de apoio administrativo, bem como assegurar a prestação de serviços comuns aos serviços do Ministério, a condução do processo orçamental no âmbito do MAI e a gestão dos programas com financiamento comunitário e outros programas com financiamento internacional, em articulação com as entidades nacionais e internacionais com competências neste domínio, assim como prestar apoio técnico ao desenvolvimento das relações internacionais no âmbito do MAI e assegurar e coordenar tecnicamente o recenseamento automático e a administração eleitoral.
 
@@ -247,7 +307,9 @@ c) Difundir informação pública sobre o sistema e os atos eleitorais, manter a
 
 9 - A SG é dirigida por um secretário-geral, coadjuvado por três secretários-gerais adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A Direção-Geral de Infraestruturas e Equipamentos, abreviadamente designada por DGIE, tem por missão o estudo, conceção, coordenação, apoio técnico e execução no domínio da gestão do património, das infraestruturas e dos equipamentos no âmbito dos sistemas de informação e comunicações, necessários à prossecução das atribuições cometidas ao MAI, bem como assegurar a prestação de serviços comuns na área das tecnologias de informação e comunicações das estruturas e organismos do Ministério.
 
@@ -353,7 +415,9 @@ aa) Apoiar em matéria informática os serviços congéneres da Comunidade dos P
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de duas chefias de equipa em simultâneo.»
 
@@ -489,11 +553,15 @@ c) [Anterior alínea d) do n.º 6].
 
 10 - Para assegurar a prossecução das suas atribuições, a SG pode promover formas alargadas de parceria e de cooperação com outras entidades, nacionais ou estrangeiras, designadamente com universidades, centros de investigação e empresas de consultoria e de serviços de tradução.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A SG é dirigida por um secretário-geral, coadjuvado por três secretários-gerais-adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -509,7 +577,9 @@ e) [...].
 
 2 - Os secretários-gerais-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar quem o substitui nas suas faltas e impedimentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -607,15 +677,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - António Egrejas Leitão Amaro - António de Magalhães Pires de Lima - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 29 de novembro de 2013.**
+Promulgado em 29 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de dezembro de 2013.**
+Referendado em 2 de dezembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -625,7 +695,7 @@ Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Pas
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 5.º)
 
@@ -635,7 +705,7 @@ Cargos de direção superior da administração direta
 
 Mapa de cargos de direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
 
 ## ANEXO III — (a que se refere o artigo 7.º)
 
@@ -645,7 +715,7 @@ Mapa de cargos de direção
 
 Mapa de cargos de direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)»
 
 ## ANEXO IV — (a que se refere o artigo 14.º)
 
@@ -1007,7 +1077,7 @@ As referências legais feitas aos serviços e estruturas objeto de extinção, f
 
 Cargos de direção superior da administração direta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)
 
 ## ANEXO V — (a que se refere o artigo 14.º)
 
@@ -1273,4 +1343,4 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Mapa de cargos de direção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/12/23301/0000200017.pdf)

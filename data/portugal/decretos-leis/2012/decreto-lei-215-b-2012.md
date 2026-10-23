@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08
   number: '194'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5588-(45) a 5588-(133)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19401/0004500133.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/215-b/2012/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e006da81ae20437ec12756059041c19df39a0394254abc4ec1cd19e548f1f96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cafa9c414c6c1e47f3da25fc1346ea783aabfb060f2cf1162b7939b86b12203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Empresa
+- Avaliação de Impacte Ambiental
 - Certificado de Conformidade
-- Energia Elétrica
+- Concorrência
 - Concurso Público
 - Consumidor
 - Contrato de Concessão
-- Concorrência
+- Direção Geral de Energia e Geologia
+- Empresa
+- Energia Elétrica
 - Energia Renovável
+- Entidade Reguladora dos Serviços Energéticos
 - Equipamento Eléctrico
 - Fiscalização
-- Direção Geral de Energia e Geologia
-- Seguro
-- Avaliação de Impacte Ambiental
 - Licenciamento
-- Entidade Reguladora dos Serviços Energéticos
-- Serviço Público
 - Produção de Energia Elétrica
 - Produtor
 - REDE Nacional de Distribuição de Electricidade em Média e ALTA Tensão
 - Rede Nacional de Transporte de Energia Elétrica
 - Regulamento
+- Seguro
+- Serviço Público
 - Taxa
 - Utente
 - Vistoria
@@ -96,6 +96,45 @@ relationships:
   target: pt:dre:122476954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114337013:por
+  label: Alterados a partir de 01.01.2018 os arts. 33.º-M, 33.º-S e 33.º-T do Dec Lei 172/2006, de 23-ago, aditados pelo presente
+    diploma pelo(a) Decreto-Lei n.º 152-B/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-b-2017-114337013
+  date: '2017-12-11'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 24.º e 33.º-F do Dec Lei 172/2006 de 23-ago DR.IS [162], na versão republicada pelo presente diploma,
+    pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:122476954:por
+  label: 'Alterados os arts. 1.º, 2.º, 3.º, 4.º, 6.º, 7.º-A, 8.º, 9.º, 10.º, 11.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 20.º-A,
+    20.º-B, 21.º, 22.º, 24.º (o último com a redação dada pela Lei 114/2017 de 29-dez), 25.º, 29.º, 30.º, 33.º-D, 35.º-A,
+    36.º-A, 40.º-A, 47.º, 49.º, 53.º, 55.º-A, 67.º e 68.º, o Anexo I e a Base VIII do cap. II do Anexo V, assim como é alterada
+    a sistemática, como seguidamente se indica: a epígrafe do cap. II passa a denominar-se «Produção de eletricidade»; a secção
+    IV do capítulo II passa a denominar-se «Regime da licença de produção de eletricidade»; aditada uma secção V ao cap. II,
+    com a epígrafe «Registo prévio», que integra os artigos 27.º-B a 27.º-D, sendo as secções renumeradas; o art. 33.º-D passa
+    a integrar a secção VII do cap. II; e a secção VI do cap. V passa a denominar-se «Gestão de riscos e garantias no SEN»,
+    aditados os arts. 4.º-A, 5.º-A, 5.º-B, 10.º-A, 10.º-B, 10.º-C, 16.º-A, 17.º-A, 27.º-A, 27.º-B, 27.º-C, 27.º-D, 58.º-A,
+    58.º-B, 58.º-C, 58.º-D e 58.º-E, e revogadas as als. b) e g) do art. 2.º, o n.º 3 do art. 6.º, o n.º 3 do art. 7.º-A,
+    os n.ºs 6 e 7 do art. 8.º, o n.º 3 do art. 11.º, os arts. 12.º, 13.º e 14.º, os n.ºs 4 e 5 do art. 20.º, o n.º 2 do art.
+    28.º, os arts. 33.º-E, 33.º-F, 33.º-G, 33.º-H, 33.º-I, 33.º-J, 33.º-K, 33.º-L, 33.º-M, 33.º-N, 33.º-O, 33.º-P, 33.º-Q,
+    33.º-R, 33.º-S, 33.º-T, 33.º-U, 33.º-V, 33.º-W, 33.º-X, 33.º-Y, 33.º-Z, os n.ºs 3 e 4 do art. 57.º, a al. i) do art. 59.º,
+    o n.º 4 do art. 66.º, o art. 66.º-B, o n.º 4 do art. 70.º, o art. 78.º-C, o Anexo II e a al. c) do n.º 1 da Base VIII
+    do cap. II do Anexo V todos do Dec Lei 172/2006 de 23-ago, na versão alterada e republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 76/2019 - Diário da República n.º 106/2019, Série I de 2019-06-03, que republicou o Dec Lei 172/2006 no
+    Anexo III, na redação atual, e determinou que para aqueles efeitos de republicação, onde se lê «Decreto-Lei n.º 29/2006,
+    de 15 de fevereiro», «Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, alterado pelos Decretos-Leis
+    n.ºs 200/2002, de 25 de setembro, e 212/2012, de 25 de setembro», «Instituto de Seguros de Portugal», «Instituto Nacional
+    de Estatística», «Decreto-Lei n.º 240/2004, de 27 de dezembro, alterado pelos Decretos-Leis n.ºs 199/2007, de 18 de maio,
+    e 264/2007, de 24 de julho» deve ler-se, respetivamente, «Decreto-Lei n.º 29/2006, de 15 de fevereiro, na sua redação
+    atual», «Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, na sua redação atual», «Autoridade
+    de Supervisão de Seguros e Fundos de Pensões», «Instituto Nacional de Estatística, I. P.», «Decreto-Lei n.º 240/2004,
+    de 27 de dezembro, na sua redação atual».'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2019-122476954
+  date: '2019-06-03'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -140,16 +179,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: corrected_by
+  target: pt:dre:190644:por
+  label: "Retificado o presente diploma, que alterou e republicou o Dec Lei 172/2006 de 23-ago, pela DECL-RECT.73/2012.07.12.2012.PCM,\
+    \ DR.IS [236] de 07.12.2012, no referente: à al. d) do n.º 2 do art. 7º, Secção IV, que inclui os arts. 33.º-R a 33.º-V,\
+    \ com a designação 'Procedimento de avaliação de incidências ambientais'; à al. e) do nº 2 do mesmo art., Secção V, que\
+    \ inclui os artigos 33.º-W a 33.º-Z, com a designação 'Acesso às redes'; e ao capítulo III no anexo II, na republicação,\
+    \ SECÇÃO IV ‘Procedimento de avaliação de incidências ambientais ‘, arts. 33.º-R, 33.º-S, 33.º-T, 33.º-U, SECÇÃO V Acesso\
+    \ às redes, arts. 33.º-V, 33.º-W, 33.º-X, 33.º-Y e 33.º-Z, que passa a, SECÇÃO IV ‘Procedimento de avaliação de incidências\
+    \ ambientais ‘, arts. 33.º-R, 33.º-S, 33.º-T, 33.º-U, SECÇÃO V Acesso às redes, arts. 33.º-V, 33.º-W, 33.º-X, 33.º-Y e\
+    \ 33.º-Z \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/73-2012-190644
+  date: '2012-12-07'
+- type: repealed_by
+  target: pt:dre:67123272:por
+  label: Revogado o n.º 8 do art. 15.º pelo(a) Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento,
+    Série I de 2015-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-a-2015-67123272
+  date: '2015-04-30'
 article_structure:
-  article_count: 246
+  article_count: 147
   section_count: 48
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:06Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +285,9 @@ a) À integração do regime do Decreto-Lei n.º 92/2010, de 26 de julho, que tr
 
 b) À transposição para a ordem jurídica interna dos artigos 13.º e 16.º da Diretiva n.º [2009/28/CE](https://data.europa.eu/eli/dir/2009/28/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril, relativa à promoção da utilização de energia proveniente de fontes renováveis.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -370,7 +429,9 @@ ppp) [Anterior alínea mmm).]
 
 qqq) [Anterior alínea nnn).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -382,7 +443,9 @@ qqq) [Anterior alínea nnn).]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -398,7 +461,9 @@ qqq) [Anterior alínea nnn).]
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +497,9 @@ c) ...
 
 3 - Para os efeitos da alínea f) do n.º 1, verifica-se inadequação à gestão da capacidade de receção da rede pública quando a potência a injetar exceda a capacidade total no ponto de receção ou possa afetar a segurança e fiabilidade da RESP, de acordo com a indicação do respetivo operador de rede, tendo em conta os compromissos de ligação já existentes e os instrumentos de planeamento referidos nos artigos 36.º e 40.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para os efeitos da determinação da quota de capacidade de produção de eletricidade no âmbito do mercado ibérico, a que se refere a alínea e) do n.º 1 do artigo anterior, deve ser considerada a potência garantida aparente instalada de:
 
@@ -444,7 +511,9 @@ c) ...
 
 2 - Ao requerente que detenha uma quota de produção de eletricidade no âmbito do mercado ibérico de eletricidade superior à estabelecida nos termos do presente decreto-lei só pode ser atribuída licença de produção, desde que até à data da atribuição da licença de exploração encerre ou aliene explorações ou instalações de produção de eletricidade de capacidade suficiente para não exceder a referida quota.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -484,7 +553,9 @@ m) Informação detalhada e elucidativa da quota de capacidade de produção de 
 
 7 - Para integral cumprimento do disposto nos números anteriores, o interessado deve promover atempadamente os procedimentos necessários para a obtenção dos elementos previstos nas alíneas f), g), h), i) e j) do n.º 3, cabendo à entidade licenciadora prestar a colaboração que lhe seja solicitada no âmbito da respetiva legislação aplicável.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -502,7 +573,9 @@ c) ...
 
 5 - Para os efeitos do disposto na alínea b) do n.º 3, após a receção dos éditos, cabe ao requerente promover a sua publicação num jornal de circulação nacional e apresentar à entidade licenciadora documentos que comprovem o cumprimento desta formalidade.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Se após a verificação do preenchimento dos critérios definidos no n.º 1 do artigo 6.º resultar uma situação de concorrência entre dois ou mais pedidos, em virtude do disposto na alínea c) do n.º 2 ou no n.º 3 do artigo 6.º, a entidade licenciadora procede à seleção destes, observando o estabelecido nos números seguintes.
 
@@ -514,7 +587,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -530,19 +605,25 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 2 - A DIA ou outras licenças, autorizações, pareceres ou declarações de aceitação de entidades competentes que nos termos da legislação aplicável constituam requisito para o licenciamento da instalação ou exploração do centro eletroprodutor ou condição a que aqueles devam ficar sujeitos, bem como os compromissos assumidos pelo titular nos requerimentos de emissão da licença ambiental e do título de emissão de gases com efeito de estufa, integram o acervo de obrigações a cujo cumprimento se vincula o titular da licença de produção de eletricidade.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A licença de produção de eletricidade em regime ordinário não está sujeita a prazo de duração, sem prejuízo da extinção prevista no artigo 23.º
 
 2 - (Revogado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
 2 - O exercício do direito de estabelecimento de linhas diretas referido na alínea c) do número anterior fica condicionado à impossibilidade de abastecimento de clientes através do acesso às redes do SEN, salvo se for técnica e economicamente mais vantajoso para o SEN, de acordo com a avaliação feita pela DGEG.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -582,7 +663,9 @@ n) Comunicar previamente à DGEG a realização de quaisquer alterações ao cen
 
 5 - Para os efeitos da alínea m) do n.º 1, consideram-se alterações substanciais ao centro eletroprodutor todas aquelas que envolvam a alteração das características principais do referido centro, tais como a potência instalada, a tecnologia, combustível ou fonte de energia utilizadas e o número de grupos geradores, bem como das respetivas caldeiras, turbinas e geradores.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A DGEG procede à realização da vistoria, no prazo máximo de 30 dias após a receção do pedido de atribuição de licença de exploração.
 
@@ -600,7 +683,9 @@ n) Comunicar previamente à DGEG a realização de quaisquer alterações ao cen
 
 8 - Quando em vistoria anterior tenham sido impostas condições e fixado prazo para a sua realização, a DGEG realiza nova vistoria para verificação do seu cumprimento, podendo realizar-se mais uma e última vistoria, caso persista o incumprimento de medidas anteriormente impostas, aplicando-se o disposto nos números anteriores, com as necessárias adaptações.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -616,7 +701,9 @@ n) Comunicar previamente à DGEG a realização de quaisquer alterações ao cen
 
 7 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -630,7 +717,9 @@ n) Comunicar previamente à DGEG a realização de quaisquer alterações ao cen
 
 6 - Sem prejuízo do cumprimento do dever de notificação nos termos gerais, a extinção da licença de produção é divulgada no sítio na Internet da entidade licenciadora e comunicada ao operador da rede.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -650,7 +739,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -670,11 +761,15 @@ f) Quando o titular proceda a alterações substanciais do centro eletroprodutor
 
 3 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Das decisões proferidas pelo diretor-geral de energia e geologia ao abrigo do presente decreto-lei cabe recurso hierárquico para o membro do Governo responsável pela área da energia.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -692,7 +787,9 @@ Das decisões proferidas pelo diretor-geral de energia e geologia ao abrigo do p
 
 8 - O Instituto de Seguros de Portugal define, em norma regulamentar, o regime aplicável ao seguro de responsabilidade civil referido no n.º 1.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -704,7 +801,9 @@ Das decisões proferidas pelo diretor-geral de energia e geologia ao abrigo do p
 
 5 - O disposto no presente artigo não isenta o titular de licença de produção do cumprimento do disposto no Decreto-Lei n.º 254/2007, de 12 de julho, e demais legislação aplicável.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A fiscalização técnica relativa ao exercício da atividade de produção de eletricidade prevista no presente decreto-lei e na demais regulamentação cabe à DGEG.
 
@@ -714,7 +813,9 @@ Das decisões proferidas pelo diretor-geral de energia e geologia ao abrigo do p
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A DGEG apresenta ao membro do Governo responsável pela área da energia, nos anos pares, até 31 de maio, um relatório de monitorização da segurança do abastecimento (RMSA).
 
@@ -728,7 +829,9 @@ Das decisões proferidas pelo diretor-geral de energia e geologia ao abrigo do p
 
 6 - Os relatórios referidos nos n.os 1 e 4 são igualmente enviados à ERSE.
 
-###### Artigo 32.º-A — [...]
+Artigo 32.º-A
+
+[...]
 
 1 - O relatório de monitorização de segurança referido no artigo anterior deve abranger a adequação global do sistema elétrico para resposta à procura de energia elétrica atual e projetada, contemplando:
 
@@ -746,7 +849,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 33.º — Procedimentos concursais em situações especiais
+Artigo 33.º
+
+Procedimentos concursais em situações especiais
 
 1 - Para assegurar necessidades de instalação de novas capacidades de produção de eletricidade identificadas no RMSA previsto nos artigos 32.º e 32.º-A que não se mostrem possíveis de satisfazer através do regime geral de acesso a esta atividade previsto no presente capítulo, o membro do Governo responsável pela área da energia pode promover procedimento concursal, nos termos do artigo 64.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, com vista à atribuição de reserva de capacidade de injeção de eletricidade na RESP para a instalação de novos centros eletroprodutores, em especial nas seguintes situações:
 
@@ -762,13 +867,17 @@ b) ...
 
 5 - A organização, o acompanhamento e a fiscalização do procedimento concursal são efetuados por entidade ou organismo público ou privado, independente das atividades de produção, distribuição e comercialização de eletricidade, a designar pelo membro do Governo responsável pela área da energia.
 
-###### Artigo 33.º-A — [...]
+Artigo 33.º-A
+
+[...]
 
 1 - Com vista a promover a garantia de abastecimento, um adequado grau de cobertura da procura de eletricidade e uma adequada gestão da disponibilidade dos centros eletroprodutores é definido, nos termos constantes em portaria do membro do Governo responsável pela área da energia, um mecanismo de atribuição de incentivos à garantia de potência disponibilizada pelos centros eletroprodutores ao SEN.
 
 2 - Os encargos associados ao mecanismo de atribuição de incentivos à garantia de potência devem ser suportados por todos os consumidores de energia elétrica, devendo ser repercutidos na tarifa de uso global de sistema ou noutra tarifa aplicável à globalidade dos consumidores de energia elétrica nos termos a definir no Regulamento Tarifário.
 
-###### Artigo 33.º-B — [...]
+Artigo 33.º-B
+
+[...]
 
 1 - Em caso de crise repentina no mercado da energia ou de ameaça à segurança e integridade física de pessoas, equipamentos, instalações e redes, designadamente devido a acidente grave ou por outro evento de força maior, o membro do Governo responsável pela área da energia pode tomar, a título transitório e temporariamente, as medidas de salvaguarda necessárias.
 
@@ -778,7 +887,9 @@ b) ...
 
 4 - As medidas de emergência são comunicadas à Comissão Europeia e devem garantir aos operadores da rede de transporte, sempre que tal seja possível ou adequado, a oportunidade de darem uma primeira resposta às situações de perturbação no abastecimento.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - A concessão para a exploração da RNT é atribuída mediante contrato de concessão, no qual outorga, em representação do Estado, o membro do Governo responsável pela área da energia, na sequência de realização de concurso público, salvo se, de acordo com os princípios e regras gerais da contratação pública, estiverem reunidas condições para o recurso a outro procedimento adjudicatório.
 
@@ -796,7 +907,9 @@ b) ...
 
 8 - Os custos incorridos pela entidade concessionária em atividades de apoio à supervisão, acompanhamento e fiscalização das suas obrigações apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Para os efeitos do disposto na alínea e) do n.º 2 do artigo 24.º e no artigo 30.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, o planeamento da RNT integra os seguintes instrumentos:
 
@@ -834,7 +947,9 @@ e) As intenções de investimento em capacidade de interligação transfronteiri
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -842,7 +957,9 @@ e) As intenções de investimento em capacidade de interligação transfronteiri
 
 3 - Sem prejuízo do disposto na alínea i) do n.º 2 do artigo 24.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, o operador da RNT deve preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades e assegurar que a disponibilização de quaisquer informações relativas às suas próprias atividades que possam representar uma vantagem comercial seja feita de forma não discriminatória.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -858,7 +975,9 @@ e) As intenções de investimento em capacidade de interligação transfronteiri
 
 7 - Os custos incorridos pela entidade concessionária em atividades de apoio à supervisão, acompanhamento e fiscalização das suas obrigações apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Para os efeitos do disposto na alínea e) do n.º 2 do artigo 35.º e no artigo 41.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, o planeamento da RND integra os seguintes instrumentos:
 
@@ -882,7 +1001,9 @@ d) As solicitações de reforço de capacidade de entrega formuladas pelos conce
 
 5 - O PDIRD deve ser compatível com o PDIRT e incluir a identificação dos principais desenvolvimentos futuros da expansão da rede.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Os documentos relativos aos instrumentos de planeamento referidos no artigo 40.º devem ser disponibilizados aos intervenientes no SEN e aos interessados em novos meios de produção, designadamente através da sua publicitação no sítio na Internet do operador da RND.
 
@@ -890,7 +1011,9 @@ d) As solicitações de reforço de capacidade de entrega formuladas pelos conce
 
 3 - Sem prejuízo do disposto na alínea h) do n.º 2 do artigo 35.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, o operador da RND deve preservar a confidencialidade das informações comercialmente sensíveis obtidas no exercício das suas atividades e assegurar que a disponibilização de quaisquer informações relativas às suas próprias atividades que possam representar uma vantagem comercial seja feita de forma não discriminatória.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -902,7 +1025,9 @@ d) As solicitações de reforço de capacidade de entrega formuladas pelos conce
 
 5 - As bases das concessões das redes de distribuição de eletricidade em BT constam do anexo v do presente decreto-lei, que dele faz parte integrante.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A comercialização de eletricidade efetua-se nos termos estabelecidos no Decreto-Lei n.º 29/2006, de 15 de fevereiro, no presente decreto-lei e demais legislação e regulamentação aplicáveis.
 
@@ -912,7 +1037,9 @@ d) As solicitações de reforço de capacidade de entrega formuladas pelos conce
 
 4 - A atividade do facilitador de mercado é regulada, estando sujeita a licença, nos termos previstos na secção iv do presente capítulo.
 
-###### Artigo 46.º — Conteúdo do registo de comercialização
+Artigo 46.º
+
+Conteúdo do registo de comercialização
 
 O registo para o exercício da atividade de comercialização de eletricidade deve conter, nomeadamente, os seguintes elementos:
 
@@ -922,7 +1049,9 @@ b) A data e número de ordem do registo;
 
 c) (Revogada.)
 
-###### Artigo 47.º — Procedimento para o registo de comercialização
+Artigo 47.º
+
+Procedimento para o registo de comercialização
 
 1 - O pedido de registo é apresentado no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, bem como o número do telefone, fax e endereço eletrónico.
 
@@ -952,7 +1081,9 @@ e) Documento contendo a identificação dos meios utilizados para o cumprimento 
 
 9 - Pelos custos de apreciação do pedido de registo e da efetivação do registo é devida uma taxa que reverte a favor da DGEG, cujo montante é fixado por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Constitui direito dos comercializadores de eletricidade o exercício da atividade, nos termos da legislação e da regulamentação aplicáveis.
 
@@ -984,7 +1115,9 @@ l) Manter a situação de habilitação e de não impedimento, bem como os meios
 
 m) Apresentar propostas de fornecimento de eletricidade para as quais disponha de oferta a todos os clientes que o solicitem, dentro da área geográfica da sua atuação, nos termos previstos no Regulamento das Relações Comerciais, com respeito pelos princípios estabelecidos na legislação da concorrência.
 
-###### Artigo 49.º — Extinção e transmissão do registo de comercialização
+Artigo 49.º
+
+Extinção e transmissão do registo de comercialização
 
 1 - O registo da atividade de comercialização de eletricidade não está sujeito a prazo de duração, sem prejuízo da sua extinção nos termos do presente decreto-lei.
 
@@ -1006,7 +1139,9 @@ d) Não iniciar o exercício da atividade no prazo de um ano após o seu registo
 
 6 - O registo da atividade de comercialização é pessoal e intransmissível, com exceção das situações de reestruturação societária.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, nos termos do Regulamento de Relações Comerciais, uma tabela dos preços de referência que se propõem praticar no âmbito da comercialização de eletricidade.
 
@@ -1032,7 +1167,9 @@ b) Enviar de seis em seis meses à ERSE os preços efetivamente praticados a tod
 
 10 - Para os efeitos do n.º 8, os custos médios de referência para a aquisição de energia elétrica são determinados de acordo com o mecanismo de aprovisionamento eficiente de energia elétrica por parte do comercializador de último recurso previsto no Regulamento Tarifário.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -1042,7 +1179,9 @@ b) Enviar de seis em seis meses à ERSE os preços efetivamente praticados a tod
 
 4 - Sem prejuízo do disposto nos números anteriores, o comercializador ou produtor registado nos termos do presente artigo tem os mesmos deveres do comercializador registado na sequência do pedido referido no artigo 47.º
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -1052,7 +1191,9 @@ b) Enviar de seis em seis meses à ERSE os preços efetivamente praticados a tod
 
 4 - A atribuição de novas licenças de comercializador de último recurso fica dependente da sua prévia sujeição a procedimento concorrencial, cujas peças são aprovadas por despacho do membro do Governo responsável pela área da energia.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -1086,11 +1227,15 @@ b) ...
 
 8 - (Anterior n.º 5.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 Sem prejuízo da caducidade prevista no n.º 2 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, à extinção e transmissão da licença de comercialização de último recurso aplicam-se, com as devidas adaptações, as disposições referidas no artigo 49.º, com exceção do disposto no n.º 5 do mesmo artigo.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -1114,7 +1259,9 @@ d) Pode adquirir eletricidade através de contratos bilaterais ou através de me
 
 7 - O comercializador de último recurso que adquira eletricidade em quantidade excedentária face às suas necessidades deve revendê-la em mercado, em condições a definir no âmbito do Regulamento das Relações Comerciais e no Regulamento Tarifário.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -1124,7 +1271,9 @@ d) Pode adquirir eletricidade através de contratos bilaterais ou através de me
 
 4 - Podem ser admitidos como membros do mercado organizado os intermediários financeiros, produtores em regime ordinário, comercializadores e outros agentes que reúnam os requisitos previstos no n.º 2 do artigo 206.º do Código dos Valores Mobiliários e demais requisitos fixados pela entidade gestora do mercado, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia desde que em qualquer dos casos tenham celebrado contrato com um participante do sistema de liquidação das operações realizadas nesse mercado.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Os operadores de mercado são as entidades responsáveis pela gestão do mercado organizado e pela concretização de atividades conexas, nos termos do número seguinte e da legislação financeira aplicável aos mercados em que se realizam operações a prazo.
 
@@ -1144,7 +1293,9 @@ e) Comunicar ao operador da RNT toda a informação relevante para a gestão té
 
 4 - (Revogado.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - O operador logístico de mudança de comercializador é a entidade que tem atribuições no âmbito da gestão da mudança de comercializador de eletricidade, podendo incluir, nomeadamente, a gestão dos equipamentos de medida, a recolha de informação local ou à distância e o fornecimento de informação sobre o consumo aos agentes de mercado.
 
@@ -1158,7 +1309,9 @@ e) Comunicar ao operador da RNT toda a informação relevante para a gestão té
 
 6 - O operador logístico de mudança de comercializador pode ser comum para o SEN e para o SNGN.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 ...
 
@@ -1180,7 +1333,9 @@ h) Regulamento da Segurança de Abastecimento e Planeamento;
 
 i) Regulamento do Procedimento Administrativo de Comunicação Prévia para a produção de eletricidade a partir de fontes de energia renováveis.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -1190,7 +1345,9 @@ i) Regulamento do Procedimento Administrativo de Comunicação Prévia para a pr
 
 4 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -1198,7 +1355,9 @@ i) Regulamento do Procedimento Administrativo de Comunicação Prévia para a pr
 
 3 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - O Regulamento de Acesso às Redes e às Interligações, o Regulamento de Relações Comerciais, o Regulamento Tarifário, o Regulamento de Operação das Redes e o Regulamento da Qualidade de Serviço são aprovados pela ERSE.
 
@@ -1214,7 +1373,9 @@ i) Regulamento do Procedimento Administrativo de Comunicação Prévia para a pr
 
 7 - O Regulamento da Segurança de Abastecimento e Planeamento é aprovado pelo diretor-geral de energia e geologia, ouvida a ERSE, sendo a sua aplicação da competência da DGEG.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Pelos atos previstos no presente decreto-lei relativos a licenças, registos, comunicações prévias e a concessões são devidas taxas, a estabelecer por portaria do membro do Governo responsável pela área da energia.
 
@@ -1234,7 +1395,9 @@ i) Regulamento do Procedimento Administrativo de Comunicação Prévia para a pr
 
 9 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -1262,7 +1425,9 @@ Competência
 
 3 - Cabe ainda à DGEG exercer as competências de entidade licenciadora na instrução e condução dos procedimentos de atribuição, alteração, transmissão e extinção das licenças e autorizações previstas nos números anteriores, submetendo-as a decisão do membro do Governo responsável pela área da energia, no caso previsto no n.º 1.
 
-###### Artigo 20.º-A — Autorização para exploração em regime experimental
+Artigo 20.º-A
+
+Autorização para exploração em regime experimental
 
 1 - A realização de testes, ensaios e a exploração em regime experimental prévios ao início da exploração do centro eletroprodutor e sua ligação à rede é precedida de autorização da DGEG, na sequência de pedido do titular da licença de produção.
 
@@ -1286,7 +1451,9 @@ c) De declaração, sob compromisso de honra do titular da licença de produçã
 
 8 - O pedido considera-se tacitamente deferido se o mesmo não for objeto de decisão expressa no prazo previsto no n.º 6, desde que o operador da rede se tenha pronunciado favoravelmente sobre a existência de condições de ligação à rede para início da exploração em regime experimental.
 
-###### Artigo 20.º-B — Licença de exploração
+Artigo 20.º-B
+
+Licença de exploração
 
 1 - O titular da licença de produção só pode iniciar a exploração industrial de cada um dos grupos geradores que compõem o centro eletroprodutor após obtenção da respetiva licença de exploração, a emitir pela entidade licenciadora, na sequência da realização de vistoria, nos termos do artigo 21.º
 
@@ -1312,19 +1479,25 @@ c) Falta de título de emissão de gases com efeito de estufa, quando este seja 
 
 6 - A licença de exploração define as condições a que fica sujeita a exploração industrial e, uma vez concedida, passa a integrar as condições da licença de produção do centro eletroprodutor a que se refere.
 
-###### Artigo 33.º-C — Verificação da disponibilidade
+Artigo 33.º-C
+
+Verificação da disponibilidade
 
 1 - O membro do Governo responsável pela área da energia fixa, mediante portaria, os termos e procedimentos a observar na verificação, pelo operador da RNT, da disponibilidade dos centros eletroprodutores, sempre que esta seja um fator considerado no cálculo da remuneração, subsidiação ou comparticipação de custos dos centros eletroprodutores.
 
 2 - Para os efeitos do número anterior, a disponibilidade é considerada, nomeadamente, no cálculo dos incentivos à garantia de potência, da compensação pecuniária correspondente aos custos para a manutenção do equilíbrio contratual (CMEC), prevista no Decreto-Lei n.º 240/2004, de 27 de dezembro, alterado pelos Decretos-Leis n.os 199/2007, de 18 de maio, e 264/2007, de 24 de julho, e de outros mecanismos com efeito equivalente ou que visem compensar, total ou parcialmente, os custos de produção ou assegurar uma rentabilidade mínima da atividade de produção de eletricidade e que não estejam sujeitas a qualquer regime especial de verificação da disponibilidade.
 
-###### Artigo 33.º-D — Condições de exercício
+Artigo 33.º-D
+
+Condições de exercício
 
 1 - O exercício da atividade de produção de eletricidade em regime especial é livre, ficando sujeito a controlo prévio.
 
 2 - O controlo prévio é exercido mediante a atribuição de uma licença de produção, a requerimento do interessado, ou através da realização, por este, de uma comunicação prévia para a instalação de um centro eletroprodutor, nos termos do artigo seguinte.
 
-###### Artigo 33.º-E — Controlo prévio
+Artigo 33.º-E
+
+Controlo prévio
 
 1 - A instalação de centros eletroprodutores em regime especial está sujeita a um dos seguintes procedimentos de controlo prévio:
 
@@ -1350,7 +1523,9 @@ d) O regime remuneratório aplicável seja o da remuneração garantida, nos ter
 
 6 - A cada centro eletroprodutor corresponde uma licença de produção ou um ato de admissão da comunicação prévia.
 
-###### Artigo 33.º-F — Critérios gerais de atribuição da licença de produção ou de admissão de comunicação prévia
+Artigo 33.º-F
+
+Critérios gerais de atribuição da licença de produção ou de admissão de comunicação prévia
 
 1 - A atribuição da licença de produção ou a admissão da comunicação prévia dependem da conformidade do projeto com os objetivos e prioridades da política energética e, designadamente, da observância dos seguintes requisitos, sem prejuízo do disposto no n.º 4 do artigo seguinte:
 
@@ -1390,7 +1565,9 @@ c) No caso previsto no n.º 2 do artigo 9.º
 
 7 - Na falta do acordo previsto no n.º 5, compete à DGEG, a pedido do interessado e ouvida a ERSE, arbitrar os valores da comparticipação.
 
-###### Artigo 33.º-G — Regimes remuneratórios
+Artigo 33.º-G
+
+Regimes remuneratórios
 
 1 - A atividade de produção de eletricidade em regime especial pode ser exercida ao abrigo de um dos seguintes regimes remuneratórios:
 
@@ -1414,19 +1591,25 @@ b) O regime de remuneração garantida, em que a eletricidade produzida é entre
 
 9 - A aplicação do regime remuneratório garantido depende da atribuição da licença de produção e da respetiva licença de exploração.
 
-###### Artigo 33.º-H — Competência
+Artigo 33.º-H
+
+Competência
 
 1 - O disposto no artigo 7.º-A aplica-se à competência para a concessão, alteração e revogação da licença de produção dos centros eletroprodutores em regime especial, sem prejuízo do disposto no número seguinte.
 
 2 - Cabe à DGEG a aceitação da comunicação prévia e a emissão da licença de exploração ou do certificado de exploração dos centros eletroprodutores previstos no presente capítulo.
 
-###### Artigo 33.º-I — Procedimentos e regime jurídico
+Artigo 33.º-I
+
+Procedimentos e regime jurídico
 
 1 - O procedimento de atribuição de licença de produção de eletricidade em regime especial e o respetivo regime regem-se pelo disposto na presente secção.
 
 2 - O membro do Governo responsável pela área da energia aprova, mediante portaria, o regime jurídico do procedimento de comunicação prévia previsto no presente capítulo, bem como as regras aplicáveis à emissão, transmissão, alteração e extinção do ato de admissão da comunicação prévia.
 
-###### Artigo 33.º-J — Instrução do pedido de atribuição de licença de produção
+Artigo 33.º-J
+
+Instrução do pedido de atribuição de licença de produção
 
 1 - O procedimento para atribuição de licença de produção inicia-se com a apresentação, pelo interessado, de um pedido dirigido à entidade licenciadora, devidamente instruído nos termos previstos nos números seguintes.
 
@@ -1458,13 +1641,17 @@ i) Parecer favorável sobre a localização do centro eletroprodutor emitido pel
 
 6 - Para integral cumprimento do disposto nos números anteriores, o interessado deve promover atempadamente os procedimentos necessários para a obtenção dos elementos previstos nas alíneas f), g), h) e i) do n.º 3, cabendo à entidade licenciadora prestar a colaboração que lhe seja solicitada nos termos da legislação aplicável.
 
-###### Artigo 33.º-K — Critérios de seleção de pedidos de atribuição de licenças de produção
+Artigo 33.º-K
+
+Critérios de seleção de pedidos de atribuição de licenças de produção
 
 1 - Quando a capacidade de receção existente ou previsional da RESP não for suficiente para atender a todos os pedidos de atribuição de licença de produção, a DGEG procede à seleção dos referidos pedidos, com base nos critérios estabelecidos no artigo 33.º-F, nos termos previstos no número seguinte.
 
 2 - A seleção dos pedidos processa-se através da ponderação conjunta dos critérios estabelecidos no artigo 33.º-F, os quais, pela ordem por que estão apresentados, servem de desempate em caso de coincidência na valia global dos projetos em causa.
 
-###### Artigo 33.º-L — Verificação da conformidade da instrução do pedido e decisão de atribuição de licença de produção
+Artigo 33.º-L
+
+Verificação da conformidade da instrução do pedido e decisão de atribuição de licença de produção
 
 1 - À verificação da conformidade da instrução do pedido e à decisão de atribuição da licença de produção aplica-se o disposto nos artigos 9.º a 11.º
 
@@ -1474,7 +1661,9 @@ a) O disposto na alínea b) do n.º 3 do artigo 9.º não é aplicável, procede
 
 b) O prazo para a emissão de decisão ou projeto de decisão pela entidade licenciadora previsto no artigo 11.º tem o seu início na data de notificação, à entidade licenciadora, da decisão favorável ou condicionalmente favorável emitida ao abrigo do artigo 33.º-T ou na data indicada no n.º 3 do mesmo artigo.
 
-###### Artigo 33.º-M — Conteúdo da licença de produção
+Artigo 33.º-M
+
+Conteúdo da licença de produção
 
 1 - A decisão de atribuição da licença de produção de eletricidade em regime especial deve conter, nomeadamente, os seguintes elementos:
 
@@ -1492,7 +1681,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 3 - A licença de produção é emitida pela entidade licenciadora, condicionada à verificação da conformidade do projeto de execução com a respetiva DIA, nos termos do regime jurídico da avaliação do impacte ambiental (RJAIA), aprovado pelo Decreto-Lei n.º 69/2000, de 3 de maio, republicado pelo Decreto-Lei n.º 197/2005, de 8 de novembro, e alterado pelo Decreto-Lei n.º 60/2012, de 14 de março, no caso de a DIA a que se refere a alínea g) do n.º 3 do artigo 33.º-J ter sido emitida ainda em fase de estudo prévio ou anteprojeto.
 
-###### Artigo 33.º-N — Regime aplicável
+Artigo 33.º-N
+
+Regime aplicável
 
 1 - O regime da licença de produção em regime especial é o resultante das secções iv e v do capítulo ii, com as especificidades previstas na presente secção.
 
@@ -1500,13 +1691,17 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 3 - O regime do ato de admissão da comunicação prévia é definido na portaria referida no artigo 33.º-I, aplicando-se, subsidiariamente, o disposto na presente secção.
 
-###### Artigo 33.º-O — Duração da licença de produção
+Artigo 33.º-O
+
+Duração da licença de produção
 
 1 - A licença de produção de eletricidade em regime especial não está sujeita a prazo de duração, sem prejuízo da extinção prevista no artigo 23.º e do disposto no número seguinte.
 
 2 - Quando a eletricidade produzida provenha de fonte hídrica do domínio público, ou o centro eletroprodutor se destine a ser instalado em espaço marítimo sob a soberania ou jurisdição nacional, a licença de produção fica sujeita ao prazo estabelecido no respetivo título de utilização.
 
-###### Artigo 33.º-P — Prazos de execução das instalações e caducidade
+Artigo 33.º-P
+
+Prazos de execução das instalações e caducidade
 
 1 - Os titulares de licença de produção ou de comunicação prévia admitida ao abrigo do presente capítulo devem concluir os trabalhos de instalação do centro eletroprodutor e iniciar a exploração do mesmo no prazo fixado na licença de produção, o qual não pode ultrapassar dois anos ou, no caso de aproveitamentos hidroelétricos, seis anos, sem prejuízo de a portaria referida nos n.os 4 e seguintes do artigo 33.º-G estabelecer prazo diferente para os casos nela previstos.
 
@@ -1520,7 +1715,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 6 - Se se verificar a caducidade ao abrigo do disposto no n.º 4, a DGEG aciona a caução, caso em que o seu valor é entregue ao operador da RNT para ser repercutido na tarifa de uso global do sistema.
 
-###### Artigo 33.º-Q — Licença e certificado de exploração
+Artigo 33.º-Q
+
+Licença e certificado de exploração
 
 1 - O titular da licença de produção ou do ato de admissão da comunicação prévia só pode iniciar a exploração industrial do centro eletroprodutor após obtenção da licença de exploração ou do certificado de exploração, consoante o caso, a emitir pela entidade licenciadora, na sequência da realização de vistoria, nos termos do artigo 21.º
 
@@ -1530,7 +1727,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 4 - A licença de exploração e o certificado de exploração definem as condições a que fica sujeita a exploração e, uma vez concedidos, passam a integrar as condições da licença de produção ou do ato de admissão da comunicação prévia do centro eletroprodutor a que se referem.
 
-###### Artigo 33.º-R — Avaliação de incidências ambientais
+Artigo 33.º-R
+
+Avaliação de incidências ambientais
 
 1 - A emissão de licenças de produção de centros eletroprodutores que utilizem fontes de energia renováveis, que não se encontrem abrangidos pelo RJAIA, e cuja localização esteja prevista em áreas da Reserva Ecológica Nacional, Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas, é precedida de um procedimento de avaliação de incidências ambientais, a realizar pela comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente, com base num estudo de incidências ambientais apresentado pelo interessado tendo em consideração as políticas energéticas e ambientais vigentes.
 
@@ -1542,7 +1741,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 5 - Para efeitos do presente artigo, entende-se por instalações acessórias todas as instalações e correspondente área de implantação ou localização da unidade de produção de energia elétrica, bem como as linhas elétricas de interligação e respetivos corredores e zonas de passagem, acessos e outras infraestruturas indispensáveis ao normal funcionamento da unidade, tais como subestações ou acessos e ainda, no que à energia hídrica diz respeito, a zona de albufeira, do açude e das condutas forçadas.
 
-###### Artigo 33.º-S — Procedimento de avaliação de incidências ambientais
+Artigo 33.º-S
+
+Procedimento de avaliação de incidências ambientais
 
 1 - Para efeitos do disposto no artigo anterior, o interessado entrega o estudo de incidências ambientais à entidade licenciadora, acompanhado do projeto sujeito a licenciamento e dos demais elementos exigidos nos termos do artigo 33.º-J e regulamentação aplicável.
 
@@ -1562,7 +1763,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 9 - As consultas previstas nos números anteriores são dispensadas se os respetivos pareceres, com uma antiguidade não superior a um ano, forem apresentados com o pedido formulado pelo interessado ao abrigo do artigo 33.º-J.
 
-###### Artigo 33.º-T — Decisão do procedimento de avaliação de incidências ambientais
+Artigo 33.º-T
+
+Decisão do procedimento de avaliação de incidências ambientais
 
 1 - No prazo de 12 dias a contar do termo do prazo da consulta pública prevista no n.º 5 do artigo anterior, a CCDR elabora e remete ao membro do Governo responsável pela área do ambiente uma proposta de decisão.
 
@@ -1574,7 +1777,9 @@ e) Outras obrigações ou condições especiais a que eventualmente fique sujeit
 
 5 - O disposto nos artigos 20.º e 21.º do RJAIA aplica-se, com as necessárias adaptações, aos centros eletroprodutores sujeitos ao procedimento de avaliação de incidências ambientais previsto no presente decreto-lei.
 
-###### Artigo 33.º-U — Consequência da avaliação de incidências ambientais
+Artigo 33.º-U
+
+Consequência da avaliação de incidências ambientais
 
 1 - Nos casos de projetos a localizar em Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas e desde que o ICNF, I. P., tenha emitido parecer nos termos previstos nos n.os 7 ou 8 do artigo 33.º-S, a emissão da declaração de avaliação de incidências ambientais, quando favorável ou condicionalmente favorável, determina:
 
@@ -1586,11 +1791,15 @@ b) A desnecessidade de emissão de parecer ou deliberação de aprovação por p
 
 3 - Nos casos de projetos a localizar em áreas delimitadas como REN, a emissão de DIncA ou DIA favorável ou condicionalmente favorável implica a dispensa de comunicação prévia e da autorização previstas nos artigos 22.º e 23.º do Decreto-Lei n.º 166/2008, de 22 de agosto.
 
-###### Artigo 33.º-V — Taxas
+Artigo 33.º-V
+
+Taxas
 
 Com o objetivo de custear os encargos administrativos que lhe são inerentes, é aplicável ao procedimento de avaliação de incidências ambientais, com as devidas adaptações, o disposto na Portaria n.º 1102/2007, de 7 de setembro, alterada pela Portaria n.º 1067/2009, de 18 de setembro.
 
-###### Artigo 33.º-W — Acesso e funcionamento das redes
+Artigo 33.º-W
+
+Acesso e funcionamento das redes
 
 1 - Os operadores da RESP devem proporcionar aos produtores de eletricidade em regime especial, de forma não discriminatória e transparente, o acesso às respetivas redes, nos termos do Regulamento de Acesso às Redes e Interligações e do Regulamento Tarifário.
 
@@ -1600,7 +1809,9 @@ Com o objetivo de custear os encargos administrativos que lhe são inerentes, é
 
 4 - Quando, por razões relacionadas com a segurança e fiabilidade das redes ou com a segurança do abastecimento, sejam impostas limitações significativas ao transporte e distribuição da eletricidade proveniente de energias renováveis, tais limitações devem ser reportadas de forma imediata à DGEG e à ERSE pelo operador da rede com a indicação das medidas corretivas a adotar.
 
-###### Artigo 33.º-X — Encargos de ligação às redes
+Artigo 33.º-X
+
+Encargos de ligação às redes
 
 1 - A ligação do centro eletroprodutor à RESP é feita a expensas da entidade proprietária dessa instalação quando para seu uso exclusivo.
 
@@ -1620,7 +1831,9 @@ b) Um calendário razoável e preciso para a receção e o tratamento do pedido 
 
 c) Um calendário indicativo razoável para a ligação à rede proposta.
 
-###### Artigo 33.º-Y — Exploração e inspeções
+Artigo 33.º-Y
+
+Exploração e inspeções
 
 1 - As operações de exploração, manutenção e reparação no ramal de interligação são efetuadas pelo operador da rede que recebe a energia, o qual, se necessário e em qualquer momento, tem acesso a esse ramal e ao órgão de manobra que permite desligar o sistema de produção da rede recetora.
 
@@ -1630,7 +1843,9 @@ c) Um calendário indicativo razoável para a ligação à rede proposta.
 
 4 - O operador da rede que recebe a energia tem o direito de inspecionar periodicamente as regulações e as proteções das instalações de produção ligadas à sua rede.
 
-###### Artigo 33.º-Z — Equipamentos e regras técnicas de medição
+Artigo 33.º-Z
+
+Equipamentos e regras técnicas de medição
 
 1 - A medição da energia e da potência, para efeitos da faturação da energia fornecida pelo produtor, é realizada por contadores que assegurem a leitura diferenciada para a medida da energia fornecida ao produtor e injetada por este na RESP.
 
@@ -1638,7 +1853,9 @@ c) Um calendário indicativo razoável para a ligação à rede proposta.
 
 3 - Os equipamentos e as regras técnicas usados nas medições da energia fornecida pelos produtores são análogos aos usados pela rede pública para a medição da energia fornecida a consumidores.
 
-###### Artigo 35.º-A — Gestão técnica global do SEN
+Artigo 35.º-A
+
+Gestão técnica global do SEN
 
 1 - A gestão técnica global do SEN, que compete ao operador da RNT, processa-se nos termos previstos no presente decreto-lei, na regulamentação aplicável e no contrato de concessão da RNT.
 
@@ -1684,7 +1901,9 @@ h) Manter atualizada uma base de dados de acordo com a base de dados de referên
 
 6 - A gestão técnica global do SEN é efetuada nos termos previstos no presente decreto-lei, nas bases constantes do anexo iii, na regulamentação aplicável e no contrato de concessão da RNT.
 
-###### Artigo 36.º-A — Procedimento de elaboração do PDIRT
+Artigo 36.º-A
+
+Procedimento de elaboração do PDIRT
 
 1 - A proposta de PDIRT deve ser apresentada pelo operador da RNT à DGEG até ao final do primeiro trimestre de cada ano ímpar ou, no caso previsto no n.º 4 do artigo anterior, até ao final do primeiro trimestre de cada ano.
 
@@ -1708,7 +1927,9 @@ h) Manter atualizada uma base de dados de acordo com a base de dados de referên
 
 11 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RNT previstos no PDIRT, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
 
-###### Artigo 40.º-A — Procedimento de elaboração do PDIRD
+Artigo 40.º-A
+
+Procedimento de elaboração do PDIRD
 
 1 - O operador da RND deve apresentar a proposta de PDIRD à DGEG até ao final de abril de cada ano par.
 
@@ -1734,11 +1955,15 @@ h) Manter atualizada uma base de dados de acordo com a base de dados de referên
 
 12 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RND previstos no PDIRD, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
 
-###### Artigo 47.º-A — Listagem de comercializadores de eletricidade registados
+Artigo 47.º-A
+
+Listagem de comercializadores de eletricidade registados
 
 A DGEG divulga no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio na Internet a lista atualizada dos comercializadores de eletricidade reconhecidos nos termos do presente diploma, com indicação do nome ou firma, domicílio profissional ou sede, telefone, fax, endereço eletrónico e data do respetivo registo.
 
-###### Artigo 50.º-A — Informação para fins estatísticos
+Artigo 50.º-A
+
+Informação para fins estatísticos
 
 1 - Os comercializadores ficam ainda obrigados a enviar à DGEG a informação seguidamente indicada:
 
@@ -1750,7 +1975,9 @@ c) Qualquer outra informação complementar que a DGEG entenda como necessária 
 
 2 - A DGEG está obrigada a manter a confidencialidade da informação recebida ao abrigo do número anterior.
 
-###### Artigo 50.º-B — Informação centralizada aos consumidores
+Artigo 50.º-B
+
+Informação centralizada aos consumidores
 
 1 - A ERSE publica, na plataforma centralizada a que se refere a alínea a) do n.º 3 do artigo 6.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, as seguintes informações:
 
@@ -1764,7 +1991,9 @@ d) A identificação dos meios à disposição dos consumidores para o tratament
 
 2 - A plataforma referida no número anterior é gerida e disponibilizada pela ERSE diretamente no seu sítio na Internet.
 
-###### Artigo 50.º-C — Reclamações e pedidos de clientes
+Artigo 50.º-C
+
+Reclamações e pedidos de clientes
 
 1 - Sem prejuízo dos casos em que haja lugar à aplicação do regime previsto no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro, os comercializadores devem implementar procedimentos adequados ao tratamento célere e harmonizado de reclamações e pedidos de informação que lhe sejam apresentados pelos clientes.
 
@@ -1776,11 +2005,15 @@ d) A identificação dos meios à disposição dos consumidores para o tratament
 
 5 - A ERSE publica na plataforma referida no artigo 50.º-B as conclusões dos relatórios apresentados nos termos do número anterior, com a indicação do volume de reclamações recebidas pela ERSE e a identificação do comercializador em causa.
 
-###### Artigo 50.º-D — Resolução extrajudicial de conflitos
+Artigo 50.º-D
+
+Resolução extrajudicial de conflitos
 
 Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos consumidores, os litígios de consumo podem ser sujeitos a arbitragem necessária, nos termos previstos no artigo 15.º da Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, e 44/2011, de 22 de junho.
 
-###### Artigo 51.º-A — Comercializador de último recurso
+Artigo 51.º-A
+
+Comercializador de último recurso
 
 1 - A atividade de comercializador de último recurso é exercida nos termos estabelecidos no Decreto-Lei n.º 29/2006, de 15 de fevereiro, e no presente decreto-lei.
 
@@ -1788,7 +2021,9 @@ Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa
 
 3 - O comercializador de último recurso assegura ainda a aquisição da eletricidade produzida pelos produtores em regime especial que beneficiem de remuneração garantida nos termos da lei.
 
-###### Artigo 55.º-A — Facilitador de mercado
+Artigo 55.º-A
+
+Facilitador de mercado
 
 1 - A atividade do facilitador de mercado é exercida nos termos estabelecidos no Decreto-Lei n.º 29/2006, de 15 de fevereiro, e no presente decreto-lei.
 
@@ -1796,13 +2031,17 @@ Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa
 
 3 - A atividade do facilitador de mercado deve obedecer às condições estabelecidas no presente decreto-lei e em legislação complementar, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
 
-###### Artigo 55.º-B — Atribuição de licença de facilitador de mercado
+Artigo 55.º-B
+
+Atribuição de licença de facilitador de mercado
 
 1 - A atribuição da licença de facilitador de mercado fica dependente da sua prévia sujeição a procedimento concorrencial, cujas peças são aprovadas por despacho do membro do Governo responsável pela área da energia.
 
 2 - A entidade à qual seja atribuída a licença de facilitador de mercado fica obrigada ao cumprimento das condições e dos deveres estabelecidos no presente decreto-lei e na demais legislação aplicável.
 
-###### Artigo 55.º-C — Direitos e deveres do facilitador de mercado
+Artigo 55.º-C
+
+Direitos e deveres do facilitador de mercado
 
 1 - Constitui direito do titular de licença de facilitador de mercado o exercício da atividade licenciada, nos termos da legislação e da regulamentação aplicáveis.
 
@@ -1818,21 +2057,29 @@ c) Cumprir todas as disposições legais e regulamentares aplicáveis ao exercí
 
 4 - O facilitador de mercado está sujeito à regulação da ERSE, nos termos do Regulamento de Relações Comerciais, do Regulamento da Qualidade de Serviço, do Regulamento Tarifário, do Regulamento de Acesso às Redes e às Interligações e da demais regulamentação aplicável.
 
-###### Artigo 55.º-D — Extinção e transmissão de licença de facilitador de mercado
+Artigo 55.º-D
+
+Extinção e transmissão de licença de facilitador de mercado
 
 À extinção e transmissão da licença de facilitador de mercado aplicam-se as regras definidas nas peças do procedimento concorrencial previsto no n.º 1 do artigo 55.º-B e, subsidiariamente, com as devidas adaptações, as disposições referidas no artigo 49.º
 
-###### Artigo 66.º-A — Regulamento da Segurança de Abastecimento e Planeamento
+Artigo 66.º-A
+
+Regulamento da Segurança de Abastecimento e Planeamento
 
 1 - O Regulamento da Segurança de Abastecimento e Planeamento define e concretiza a forma de cumprimento das obrigações do operador da RNT e do operador da RNTGN em matéria de segurança de abastecimento, planeamento energético e planeamento da RNT.
 
 2 - O Regulamento previsto no número anterior define ainda o modo de estabelecimento dos padrões de segurança de abastecimento ao nível da produção e dos padrões de segurança para planeamento das redes.
 
-###### Artigo 66.º-B — Regulamento do Procedimento Administrativo de Comunicação Prévia
+Artigo 66.º-B
+
+Regulamento do Procedimento Administrativo de Comunicação Prévia
 
 O Regulamento do Procedimento Administrativo de Comunicação Prévia estabelece as regras aplicáveis à apresentação, admissão e rejeição da comunicação prévia para a instalação de centros eletroprodutores a partir de fontes de energia renováveis, bem como o regime jurídico da emissão, transmissão, alteração e extinção do ato de admissão da comunicação prévia.
 
-###### Artigo 68.º-A — Gestão da procura e eficiência no consumo
+Artigo 68.º-A
+
+Gestão da procura e eficiência no consumo
 
 1 - O Regulamento Tarifário pode prever a implementação de planos de promoção da eficiência no consumo de energia, incluindo medidas de gestão da procura.
 
@@ -1842,23 +2089,31 @@ O Regulamento do Procedimento Administrativo de Comunicação Prévia estabelece
 
 4 - Os planos de promoção da eficiência no consumo de energia referidos no n.º 1 que sejam financiados pela tarifa de uso global do sistema ou outra aplicável a todos os consumidores de energia não podem considerar elegíveis medidas que, direta ou indiretamente, se destinem a financiar a aquisição de equipamento de contagem de energia elétrica.
 
-###### Artigo 78.º-A — Reconhecimento mútuo
+Artigo 78.º-A
+
+Reconhecimento mútuo
 
 1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos de permissão administrativa para as atividades de transporte, distribuição, comercialização e operação de mercados de eletricidade reguladas no presente decreto-lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
 
 2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
 
-###### Artigo 78.º-B — Validade de permissões administrativas
+Artigo 78.º-B
+
+Validade de permissões administrativas
 
 Os registos de comercializador de eletricidade, a licença de comercializador de último recurso e a autorização de gestor de mercados organizados de eletricidade têm validade em todo o território de Portugal continental.
 
-###### Artigo 78.º-C — Desmaterialização de procedimentos
+Artigo 78.º-C
+
+Desmaterialização de procedimentos
 
 1 - Todos os pedidos, comunicações e notificações, ou em geral quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei e respetiva legislação regulamentar relativos às atividades de transporte, distribuição, comercialização, operação de mercados de eletricidade e operação logística de mudança de comercializador de eletricidade, excetuados os procedimentos regulatórios e sancionatórios, devem ser efetuados através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, ou da plataforma eletrónica de contratação pública, acessível através daquele balcão, se e conforme ao caso aplicáveis.
 
 2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
 
-###### Artigo 78.º-D — Cooperação administrativa
+Artigo 78.º-D
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores de serviços estabelecidos em outro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).»
 
@@ -1892,7 +2147,9 @@ h) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - (Anterior n.º 2.)
 
-###### Base III — [...]
+Base III
+
+[...]
 
 1 - No âmbito da gestão global do SEN, a concessionária deve proceder à coordenação sistémica das infraestruturas que constituem o SEN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de eletricidade no curto, médio e longo prazo, mediante o exercício das seguintes funções:
 
@@ -1952,7 +2209,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 6 - O exercício da atividade de gestão global do SEN desenvolve-se nos termos da legislação e da regulamentação aplicáveis, designadamente do Regulamento de Relações Comerciais, do Regulamento de Operações das Redes, do Regulamento do Acesso às Redes e às Interligações e do Regulamento da Rede de Transporte, bem como destas bases e do contrato de concessão.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -1960,7 +2219,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 3 - (Anterior n.º 2.)
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -1970,7 +2231,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 4 - O não cumprimento das obrigações previstas no número anterior constitui incumprimento do contrato de concessão, incluindo para efeitos do disposto na base xxxii.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - ...
 
@@ -1978,7 +2241,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 3 - (Revogado.)
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão que este entenda dever solicitar-lhe, em particular no que respeita aos obtidos no âmbito do exercício da atividade de gestão global do SEN, nos termos da base iii.
 
@@ -1988,7 +2253,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 4 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei aplicável.
 
-###### Base XXIII — Supervisão, acompanhamento e fiscalização
+Base XXIII
+
+Supervisão, acompanhamento e fiscalização
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, designadamente à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -2006,13 +2273,17 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 4 - O concedente pode recorrer a entidades terceiras devidamente qualificadas para a prestação de assistência técnica que repute conveniente no âmbito do exercício das funções de supervisão, acompanhamento e fiscalização da concessão, as quais gozam dos poderes referidos no número anterior após comunicação à concessionária para o efeito.
 
-###### Base XXIX — [...]
+Base XXIX
+
+[...]
 
 1 - Pela exploração da concessão é assegurada à concessionária uma remuneração, nos termos do Regulamento Tarifário, que assegure o seu equilíbrio económico-financeiro nas condições de uma gestão eficiente.
 
 2 - A concessionária é responsável, nos termos das presentes bases e do contrato de concessão, por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável.
 
-###### Base XXXI — [...]
+Base XXXI
+
+[...]
 
 1 - ...
 
@@ -2032,7 +2303,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 9 - A concessionária deve mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
 
-###### Base XXXII — [...]
+Base XXXII
+
+[...]
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia até (euro) 10 000 000, em função da gravidade da infração cometida, do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que a concessionária tenha empreendido na superação das consequências.
 
@@ -2056,7 +2329,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
 
-###### Base XXXIII — [...]
+Base XXXIII
+
+[...]
 
 1 - O concedente, mediante despacho do membro do Governo responsável pela área da energia, pode tomar conta da concessão quando se verifiquem graves deficiências na respetiva organização e funcionamento, no estado geral das instalações e dos equipamentos, ou no cumprimento das suas obrigações enquanto gestor global do SEN, que sejam suscetíveis de comprometer a regularidade ou qualidade do serviço ou a segurança do abastecimento do SEN.
 
@@ -2068,7 +2343,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 5 - ...
 
-###### Base XXXVI — Resolução do contrato por incumprimento
+Base XXXVI
+
+Resolução do contrato por incumprimento
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resolver o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações contratuais da concessionária e, nomeadamente, mediante a verificação dos seguintes factos ou situações:
 
@@ -2108,7 +2385,9 @@ i) ...
 
 10 - A resolução do contrato de concessão produz os seus efeitos desde a data da sua comunicação à outra parte por carta registada com aviso de receção.
 
-###### Base XXXIX — [...]
+Base XXXIX
+
+[...]
 
 1 - ...
 
@@ -2116,7 +2395,9 @@ i) ...
 
 3 - Em caso de extinção da concessão, transferem-se para o concedente os direitos detidos pela concessionária sobre terceiros que se revelem necessários para a continuidade da prestação do serviço concedido e, em geral, à tomada de medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XL — Transmissão e oneração da concessão e dos respetivos bens
+Base XL
+
+Transmissão e oneração da concessão e dos respetivos bens
 
 1 - Sob pena de nulidade e ineficácia dos respetivos atos ou contratos, a concessionária não pode, sem prévia autorização do membro do Governo responsável pela área da energia, transmitir, subconceder ou onerar, por qualquer forma, a concessão e, bem assim, os direitos e os bens, móveis e imóveis, afetos à mesma.
 
@@ -2150,7 +2431,9 @@ Objeto social, sede e ações da sociedade
 
 6 - A oneração de ações referida no número anterior é comunicada ao concedente no prazo de 30 dias a contar da data da constituição da mesma, devendo ser enviada ao concedente cópia autenticada do documento que formaliza a oneração, bem como informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIII-B — Deliberações e acordos entre acionistas
+Base XIII-B
+
+Deliberações e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade concessionária.
 
@@ -2158,7 +2441,9 @@ Objeto social, sede e ações da sociedade
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar a partir da data da respetiva solicitação.
 
-###### Base XIII-C — Financiamento
+Base XIII-C
+
+Financiamento
 
 1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -2290,15 +2575,15 @@ c) Tenham, previamente à data de entrada em vigor do presente decreto-lei, bene
 
 Visto e aprovado em Conselho de Ministros de 16 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 4 de outubro de 2012.**
+Promulgado em 4 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de outubro de 2012.**
+Referendado em 7 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 6.º)
 
@@ -4354,7 +4639,9 @@ Bases da concessão da Rede Nacional de Transporte de Eletricidade
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto o estabelecimento e a exploração da Rede Nacional de Transporte de Eletricidade (RNT) em regime de serviço público e em exclusivo.
 
@@ -4378,13 +4665,17 @@ h) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - Mediante autorização do membro do Governo responsável pela área da energia, solicitada caso a caso, a concessionária pode exercer outras atividades com fundamento no proveito daí resultante para o interesse da concessão.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 A concessão da RNT abrange a exploração das infraestruturas da rede de transporte, compreendendo o exercício da atividade de transporte de eletricidade, que inclui a gestão técnica global do sistema.
 
 A área da concessão abrange todo o território do continente.
 
-###### Base III — Gestão técnica global do SEN
+Base III
+
+Gestão técnica global do SEN
 
 1 - No âmbito da gestão global do SEN, a concessionária deve proceder à coordenação sistémica das infraestruturas que constituem o SEN, de forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e continuidade do abastecimento de eletricidade no curto, médio e longo prazo, mediante o exercício das seguintes funções:
 
@@ -4444,7 +4735,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 6 - O exercício da atividade de gestão global do SEN desenvolve-se nos termos da legislação e da regulamentação aplicáveis, designadamente do Regulamento de Relações Comerciais, do Regulamento de Operações das Redes, do Regulamento do Acesso às Redes e às Interligações e do Regulamento da Rede de Transporte, bem como destas bases e do contrato de concessão.
 
-###### Base IV — Prazo da concessão
+Base IV
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 50 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -4454,7 +4747,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 4 - O disposto no número anterior não impede que o concedente e a concessionária acordem, até ao termo do respetivo prazo, na renovação da concessão.
 
-###### Base V — Serviço público
+Base V
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas atividades consideradas, para todos os efeitos, de utilidade pública.
 
@@ -4462,7 +4757,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 3 - A concessão é atribuída mediante contrato de concessão, no qual outorga o membro do Governo responsável pela área da energia, em representação do Estado.
 
-###### Base VI — Princípios aplicáveis às relações com os produtores, distribuidores, comercializadores e outros utilizadores das redes
+Base VI
+
+Princípios aplicáveis às relações com os produtores, distribuidores, comercializadores e outros utilizadores das redes
 
 1 - A concessionária não pode estabelecer diferenças de tratamento nas suas relações com os produtores, distribuidores, comercializadores e outros utilizadores da rede que não resultem de condicionalismos legais ou regulamentares ou da aplicação de critérios decorrentes de uma conveniente e adequada gestão técnica do SEN, bem como de condicionalismos de natureza contratual, desde que sancionados pela DGEG e pela ERSE, em função das suas competências.
 
@@ -4470,7 +4767,9 @@ s) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VII — Bens da concessão
+Base VII
+
+Bens da concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem a rede de muito alta tensão, as interligações e as instalações do despacho nacional, designadamente:
 
@@ -4490,7 +4789,9 @@ b) Outros bens móveis ou imóveis necessários ao desempenho das atividades obj
 
 c) As relações jurídicas diretamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de receção e de entrega de eletricidade, bem como os direitos de transporte através de redes situadas no exterior da área da concessão.
 
-###### Base VIII — Instalações da rede de muito alta tensão
+Base VIII
+
+Instalações da rede de muito alta tensão
 
 1 - A rede de muito alta tensão é constituída pelas instalações de:
 
@@ -4508,11 +4809,15 @@ d) Entrega de eletricidade a clientes finais abastecidos em muito alta tensão.
 
 4 - As instalações referidas no n.º 1 integram os bens a elas afetos, devendo os limites das instalações que se ligam à RNT ser especificados nos documentos que aprovam o respetivo projeto, nos termos do Regulamento de Licenças para Instalações Elétricas.
 
-###### Base IX — Interligações da RNT
+Base IX
+
+Interligações da RNT
 
 As interligações da RNT são constituídas pelas linhas de muito alta tensão que estabelecem as ligações na rede interligada.
 
-###### Base X — Instalações do despacho nacional
+Base X
+
+Instalações do despacho nacional
 
 1 - O despacho nacional é constituído pelas instalações especificamente destinadas à realização do despacho de:
 
@@ -4526,7 +4831,9 @@ d) Instalações providas de sistemas de interruptibilidade.
 
 2 - As instalações do despacho nacional incluem ainda os equipamentos e as instalações de telesserviço e de telecomunicações.
 
-###### Base XI — Inventário do património
+Base XI
+
+Inventário do património
 
 1 - A concessionária deve elaborar um inventário do património afeto à concessão, que mantém atualizado e à disposição do concedente.
 
@@ -4534,11 +4841,15 @@ d) Instalações providas de sistemas de interruptibilidade.
 
 3 - Os bens e direitos patrimoniais tornados desnecessários às atividades concedidas são abatidos ao inventário da concessão, nos termos previstos no contrato de concessão.
 
-###### Base XII — Manutenção dos bens e meios afetos à concessão
+Base XII
+
+Manutenção dos bens e meios afetos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e os meios a ela afetos, efetuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base XIII — Propriedade ou posse dos bens
+Base XIII
+
+Propriedade ou posse dos bens
 
 1 - A concessionária detém a propriedade ou posse dos bens que integram a concessão até à extinção desta.
 
@@ -4546,7 +4857,9 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 3 - Com a extinção da concessão, os bens a ela afetos revertem para o Estado nos termos previstos nas presentes bases.
 
-###### Base XIII-A — Objeto social, sede e ações da sociedade
+Base XIII-A
+
+Objeto social, sede e ações da sociedade
 
 1 - A concessionária deve ter como objeto social principal, ao longo de todo o período de duração da concessão, o exercício das atividades integradas no objeto da concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
 
@@ -4560,7 +4873,9 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 6 - A oneração de ações referida no número anterior é comunicada ao concedente no prazo de 30 dias a contar da data da constituição da mesma, devendo ser enviada ao concedente cópia autenticada do documento que formaliza a oneração, bem como informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIII-B — Deliberações e acordos entre acionistas
+Base XIII-B
+
+Deliberações e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade concessionária.
 
@@ -4568,7 +4883,9 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar a partir da data da respetiva solicitação.
 
-###### Base XIII-C — Financiamento
+Base XIII-C
+
+Financiamento
 
 1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -4576,7 +4893,9 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidades e fiscalização da concessionária
 
-###### Base XIV — Obrigações da concessionária
+Base XIV
+
+Obrigações da concessionária
 
 1 - A concessionária está obrigada ao cumprimento do estabelecido no Decreto-Lei n.º 29/2006, de 15 de fevereiro, no corpo deste decreto-lei, nas presentes bases, na demais legislação e em regulamentação aplicável, bem como no contrato de concessão.
 
@@ -4586,13 +4905,17 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 4 - O não cumprimento das obrigações previstas no número anterior constitui incumprimento do contrato de concessão, incluindo para efeitos do disposto na base xxxii.
 
-###### Base XV — Obrigação de receção e de entrega de eletricidade
+Base XV
+
+Obrigação de receção e de entrega de eletricidade
 
 1 - A concessionária é obrigada a receber a eletricidade produzida pelos produtores ligados à RNT e a entregar a eletricidade ao distribuidor em AT e MT e aos clientes ligados à RNT nas condições estabelecidas no presente decreto-lei, no contrato de concessão, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
 
 2 - A receção e a entrega de eletricidade, salvo caso fortuito ou de força maior, só podem ser interrompidas por razões de interesse público ou de serviço ou por facto imputável ao produtor, ao distribuidor em AT e MT ou ao cliente ligado à RNT.
 
-###### Base XVI — Interrupções por razões de interesse público ou de serviço
+Base XVI
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A receção ou a entrega de eletricidade pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência energética declarada ao abrigo de legislação específica.
 
@@ -4602,17 +4925,23 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 4 - A ocorrência das situações referidas nos n.os 1 e 2 dá origem a indemnização por parte da concessionária caso esta não tenha tomado as medidas adequadas para evitar tais situações, de acordo com a avaliação das entidades competentes.
 
-###### Base XVII — Interrupção por facto imputável ao distribuidor ou ao cliente
+Base XVII
+
+Interrupção por facto imputável ao distribuidor ou ao cliente
 
 1 - A concessionária pode interromper a entrega de eletricidade ao distribuidor ou a clientes ligados à RNT que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aquelas entidades, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
 2 - A concessionária pode ainda interromper a entrega de eletricidade nos termos da regulamentação aplicável, nomeadamente do Regulamento de Relações Comerciais.
 
-###### Base XVIII — Interrupção da receção de eletricidade de centros eletroprodutores
+Base XVIII
+
+Interrupção da receção de eletricidade de centros eletroprodutores
 
 A concessionária pode interromper a receção da eletricidade produzida por produtores que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aqueles produtores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XIX — Projetos
+Base XIX
+
+Projetos
 
 1 - Constituem obrigação da concessionária a conceção e a elaboração dos projetos relativos a remodelação e a expansão da rede de transporte de acordo com o estabelecido nos planos de desenvolvimento da RNT.
 
@@ -4620,15 +4949,21 @@ A concessionária pode interromper a receção da eletricidade produzida por pro
 
 3 - (Revogado.)
 
-###### Base XX — Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
+Base XX
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
 
 No atravessamento de terrenos do domínio público ou de particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XXI — Cumprimento dos regulamentos
+Base XXI
+
+Cumprimento dos regulamentos
 
 No estabelecimento e na exploração da concessão, a concessionária deve cumprir as normas e os regulamentos aplicáveis, designadamente o Regulamento da Rede de Transporte, o Regulamento de Operação das Redes, o Regulamento Tarifário, o Regulamento de Relações Comerciais, o Regulamento de Acesso às Redes e às Interligações e o Regulamento da Qualidade de Serviço.
 
-###### Base XXII — Informações
+Base XXII
+
+Informações
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão que este entenda dever solicitar-lhe, em particular no que respeita aos obtidos no âmbito do exercício da atividade de gestão global do SEN, nos termos da base iii.
 
@@ -4638,7 +4973,9 @@ No estabelecimento e na exploração da concessão, a concessionária deve cumpr
 
 4 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei aplicável.
 
-###### Base XXIII — Supervisão, acompanhamento e fiscalização
+Base XXIII
+
+Supervisão, acompanhamento e fiscalização
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, designadamente à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -4656,11 +4993,15 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 4 - O concedente pode recorrer a entidades terceiras devidamente qualificadas para a prestação de assistência técnica que repute conveniente no âmbito do exercício das funções de supervisão, acompanhamento e fiscalização da concessão, as quais gozam dos poderes referidos no número anterior após comunicação à concessionária para o efeito.
 
-###### Base XXIV — Auditoria
+Base XXIV
+
+Auditoria
 
 O operador da rede de transporte fica sujeito a auditoria da DGEG e da ERSE, em função das suas competências.
 
-###### Base XXV — Responsabilidade civil
+Base XXV
+
+Responsabilidade civil
 
 1 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -4670,7 +5011,9 @@ O operador da rede de transporte fica sujeito a auditoria da DGEG e da ERSE, em 
 
 4 - A concessionária deve apresentar na DGEG os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVI — Medidas de proteção
+Base XXVI
+
+Medidas de proteção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover todas as medidas que entender necessárias para repor as adequadas condições de segurança.
 
@@ -4678,17 +5021,23 @@ O operador da rede de transporte fica sujeito a auditoria da DGEG e da ERSE, em 
 
 ### CAPÍTULO IV — Direitos da concessionária
 
-###### Base XXVII — Utilização do domínio público
+Base XXVII
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações da rede de transporte ou de outras infraestruturas integrantes da concessão, a concessionária tem o direito de utilizar os bens do Estado e das autarquias locais, incluindo os do domínio público, nos termos da lei.
 
 2 - A faculdade de utilização dos bens referidos no número anterior resulta da aprovação dos respetivos projetos ou de despacho ministerial, sem prejuízo da formalização da respetiva cedência nos termos da lei.
 
-###### Base XXVIII — Expropriações e servidões
+Base XXVIII
+
+Expropriações e servidões
 
 A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação pelo diretor-geral de energia e geologia dos projetos ou anteprojetos das infraestruturas ou instalações da rede de transporte, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
-###### Base XXIX — Remuneração
+Base XXIX
+
+Remuneração
 
 1 - Pela exploração da concessão é assegurada à concessionária uma remuneração, nos termos do Regulamento Tarifário, que assegure o seu equilíbrio económico-financeiro nas condições de uma gestão eficiente.
 
@@ -4696,7 +5045,9 @@ A concessionária só pode solicitar a expropriação ou a constituição de ser
 
 ### CAPÍTULO V — Garantias do cumprimento do contrato de concessão
 
-###### Base XXX — Caução
+Base XXX
+
+Caução
 
 1 - Para a garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se o membro do Governo responsável pela área da energia assim o determinar, prestar uma caução até ao valor de (euro) 50 000 000.
 
@@ -4710,7 +5061,9 @@ A concessionária só pode solicitar a expropriação ou a constituição de ser
 
 6 - A obrigação de prestação da caução não é exigível à concessionária enquanto esta for detida ou se encontre no controlo efetivo do Estado.
 
-###### Base XXXI — Responsabilidade da concessionária por incumprimento
+Base XXXI
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão, a concessionária incorre em responsabilidade perante o concedente.
 
@@ -4730,7 +5083,9 @@ A concessionária só pode solicitar a expropriação ou a constituição de ser
 
 9 - A concessionária deve mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
 
-###### Base XXXII — Multas contratuais
+Base XXXII
+
+Multas contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia até (euro) 10 000 000, em função da gravidade da infração cometida, do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que a concessionária tenha empreendido na superação das consequências.
 
@@ -4754,7 +5109,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
 
-###### Base XXXIII — Sequestro
+Base XXXIII
+
+Sequestro
 
 1 - O concedente, mediante despacho do membro do Governo responsável pela área da energia, pode tomar conta da concessão quando se verifiquem graves deficiências na respetiva organização e funcionamento, no estado geral das instalações e dos equipamentos, ou no cumprimento das suas obrigações enquanto gestor global do SEN, que sejam suscetíveis de comprometer a regularidade ou qualidade do serviço ou a segurança do abastecimento do SEN.
 
@@ -4768,7 +5125,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 ### CAPÍTULO VI — Alteração e extinção do contrato de concessão
 
-###### Base XXXIV — Alteração do contrato de concessão
+Base XXXIV
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -4776,7 +5135,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, faça a prova de não poder prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão financeira e a prova seja aceite pelo concedente.
 
-###### Base XXXV — Extinção da concessão
+Base XXXV
+
+Extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o Estado e a concessionária, por resolução, por resgate e por decurso do prazo.
 
@@ -4786,7 +5147,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 4 - A tomada de posse da concessão pelo Estado é precedida de vistoria ad perpetuam rei memoriam, realizada pela DGEG, a que assistem representantes da concessionária.
 
-###### Base XXXVI — Resolução do contrato por incumprimento
+Base XXXVI
+
+Resolução do contrato por incumprimento
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resolver o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações contratuais da concessionária e, nomeadamente, mediante a verificação dos seguintes factos ou situações:
 
@@ -4826,7 +5189,9 @@ i) Recusa da reconstituição atempada da caução.
 
 10 - A resolução do contrato de concessão produz os seus efeitos desde a data da sua comunicação à outra parte por carta registada com aviso de receção.
 
-###### Base XXXVII — Resgate da concessão
+Base XXXVII
+
+Resgate da concessão
 
 1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem, decorridos que sejam 10 anos sobre a data do início do respetivo prazo.
 
@@ -4842,13 +5207,17 @@ i) Recusa da reconstituição atempada da caução.
 
 7 - Para os efeitos do cálculo da indemnização prevista na presente base, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiências da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XXXVIII — Extinção da concessão por decurso do prazo
+Base XXXVIII
+
+Extinção da concessão por decurso do prazo
 
 1 - A concessão extingue-se pelo decurso do respetivo prazo, transmitindo-se para o Estado nos termos das presentes bases.
 
 2 - Cessando a concessão pelo decurso do respetivo prazo, o Estado paga à concessionária uma indemnização correspondente ao valor contabilístico dos bens afetos à concessão por ela adquiridos com referência ao último balanço aprovado, nos termos dos n.os 6 e 7 da base anterior.
 
-###### Base XXXIX — Procedimento para termo da concessão
+Base XXXIX
+
+Procedimento para termo da concessão
 
 1 - O Estado reserva-se o direito de tomar nos últimos dois anos do prazo da concessão as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva das atividades exercidas pela concessionária que cessa o seu contrato para uma nova entidade encarregada da gestão do serviço.
 
@@ -4856,7 +5225,9 @@ i) Recusa da reconstituição atempada da caução.
 
 3 - Em caso de extinção da concessão, transferem-se para o concedente os direitos detidos pela concessionária sobre terceiros que se revelem necessários para a continuidade da prestação do serviço concedido e, em geral, à tomada de medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XL — Transmissão e oneração da concessão e dos respetivos bens
+Base XL
+
+Transmissão e oneração da concessão e dos respetivos bens
 
 1 - Sob pena de nulidade e ineficácia dos respetivos atos ou contratos, a concessionária não pode, sem prévia autorização do membro do Governo responsável pela área da energia, transmitir, subconceder ou onerar, por qualquer forma, a concessão e, bem assim, os direitos e os bens, móveis e imóveis, afetos à mesma.
 
@@ -4872,11 +5243,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO VII — Composição de litígios
 
-###### Base XLI — Litígios entre o concedente e a concessionária
+Base XLI
+
+Litígios entre o concedente e a concessionária
 
 O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à solução legal ou segundo a equidade, conforme nelas se determinar, de quaisquer questões emergentes do contrato de concessão.
 
-###### Base XLII — Litígios entre a concessionária e os utilizadores da rede de transporte
+Base XLII
+
+Litígios entre a concessionária e os utilizadores da rede de transporte
 
 1 - A concessionária, os produtores, os distribuidores e os comercializadores de eletricidade, bem como outras entidades que se encontrem ligadas à RNT, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respetivos contratos ou aderir a processos de arbitragem.
 
@@ -4884,7 +5259,9 @@ O concedente e a concessionária podem celebrar convenções de arbitragem desti
 
 3 - A responsabilidade contratual ou extracontratual da concessionária por atos de gestão privada ou de gestão pública efetiva-se nos termos e pelos meios previstos na lei.
 
-###### Base XLIII — Disposição transitória
+Base XLIII
+
+Disposição transitória
 
 A Rede Elétrica Nacional, S. A., enquanto titular da concessão da RNT, fica autorizada a transmitir para os produtores os terrenos que constituem os sítios dos centros eletroprodutores vinculados, nos termos previstos no Decreto-Lei n.º 198/2003, de 2 de setembro, e na Portaria n.º 96/2004, de 23 de janeiro, com exceção dos que integram o domínio público hídrico.
 
@@ -4894,13 +5271,17 @@ Bases da concessão da Rede Nacional de Distribuição de Eletricidade em Média
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto o estabelecimento e a exploração da Rede Nacional de Distribuição de Eletricidade em AT e MT (RND) em regime de serviço público, em exclusivo.
 
 2 - Mediante autorização do membro do Governo responsável pela área da energia, solicitada caso a caso, a concessionária pode exercer outras atividades com fundamento no proveito daí resultante para o interesse da concessão.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - A concessão da RND abrange a exploração das infraestruturas das redes de distribuição de eletricidade em AT e MT, compreendendo o exercício das seguintes atividades:
 
@@ -4912,7 +5293,9 @@ b) Comercialização das redes.
 
 3 - A área da concessão abrange todo o território do continente.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 35 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -4922,7 +5305,9 @@ b) Comercialização das redes.
 
 4 - O disposto no número anterior não impede que o concedente e a concessionária acordem, até ao termo do respetivo prazo, na renovação da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas atividades consideradas, para todos os efeitos, de utilidade pública.
 
@@ -4930,7 +5315,9 @@ b) Comercialização das redes.
 
 3 - A concessão é atribuída mediante contrato de concessão, no qual outorga o membro do Governo responsável pela área da energia, em representação do Estado.
 
-###### Base V — Princípios aplicáveis às relações com a concessionária da RNT, produtores, distribuidores em BT, comercializadores e outros utilizadores das redes
+Base V
+
+Princípios aplicáveis às relações com a concessionária da RNT, produtores, distribuidores em BT, comercializadores e outros utilizadores das redes
 
 1 - A concessionária não pode estabelecer diferenças de tratamento nas suas relações com os produtores, distribuidores em BT, comercializadores e outros utilizadores da sua rede que não resultem de condicionalismos legais ou regulamentares ou da aplicação de critérios decorrentes de uma conveniente e adequada gestão técnica do SEN, bem como de condicionalismos de natureza contratual, desde que sancionadas pela DGEG, pelas direções regionais de economia e pela ERSE em função das suas competências.
 
@@ -4938,7 +5325,9 @@ b) Comercialização das redes.
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VI — Bens da concessão
+Base VI
+
+Bens da concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem a rede de média e alta tensão e as interligações, designadamente:
 
@@ -4956,7 +5345,9 @@ b) Outros bens móveis ou imóveis necessários ao desempenho das atividades obj
 
 3 - As relações jurídicas diretamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de receção e de entrega de eletricidade, bem como os direitos de distribuição através de redes situadas no exterior da área da concessão.
 
-###### Base VII — Instalações da rede de média e alta tensão
+Base VII
+
+Instalações da rede de média e alta tensão
 
 1 - A rede de média e alta tensão é constituída pelas instalações de:
 
@@ -4972,11 +5363,15 @@ d) Entrega de eletricidade a clientes finais abastecidos em alta e média tensã
 
 3 - As instalações referidas no n.º 1 integram os bens a elas afetos, devendo os limites das instalações que se ligam à RND ser especificados nos documentos que aprovam o respetivo projeto, nos termos do Regulamento de Licenças para Instalações Elétricas.
 
-###### Base VIII — Interligações da RND
+Base VIII
+
+Interligações da RND
 
 As interligações da RND são constituídas pelas linhas de AT e MT que estabelecem as ligações na rede interligada.
 
-###### Base IX — Inventário do património
+Base IX
+
+Inventário do património
 
 1 - A concessionária deve elaborar um inventário do património afeto à concessão, que mantém atualizado e à disposição do concedente.
 
@@ -4984,11 +5379,15 @@ As interligações da RND são constituídas pelas linhas de AT e MT que estabel
 
 3 - Os bens e direitos patrimoniais tornados desnecessários às atividades concedidas são abatidos ao inventário da concessão, nos termos previstos no contrato de concessão.
 
-###### Base X — Manutenção dos bens e meios afetos à concessão
+Base X
+
+Manutenção dos bens e meios afetos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e meios a ela afetos, efetuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base XI — Propriedade ou posse dos bens
+Base XI
+
+Propriedade ou posse dos bens
 
 1 - A concessionária detém a propriedade ou posse dos bens que integram a concessão até à extinção desta.
 
@@ -4996,19 +5395,25 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidades e fiscalização da concessionária
 
-###### Base XII — Obrigações da concessionária
+Base XII
+
+Obrigações da concessionária
 
 1 - A concessionária está obrigada ao cumprimento do estabelecido no Decreto-Lei n.º 29/2006, de 15 de fevereiro, no corpo deste decreto-lei, nas presentes bases, na demais legislação e em regulamentação aplicável, bem como no contrato de concessão.
 
 2 - A concessionária deve explorar a concessão mediante o exercício das atividades estabelecidas na base ii e das funções que as integram, nos termos definidos no Regulamento de Relações Comerciais.
 
-###### Base XIII — Obrigação de receção e de entrega de eletricidade
+Base XIII
+
+Obrigação de receção e de entrega de eletricidade
 
 1 - A concessionária é obrigada a receber a eletricidade produzida pelos produtores ligados à RND e a entregar eletricidade aos distribuidores em BT e aos clientes ligados à RND nas condições estabelecidas no presente decreto-lei, no contrato de concessão, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
 
 2 - A receção e a entrega de eletricidade, salvo caso fortuito ou de força maior, só podem ser interrompidas por razões de interesse público ou de serviço ou por facto imputável ao produtor ligado à RND, à RNT, ao distribuidor em BT ou ao cliente ligado à RND.
 
-###### Base XIV — Interrupções por razões de interesse público ou de serviço
+Base XIV
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A receção ou a entrega de eletricidade pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência energética declarada ao abrigo de legislação específica.
 
@@ -5018,17 +5423,23 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 4 - A ocorrência das situações referidas nos n.os 1 e 2 dá origem a indemnização por parte da concessionária, caso esta não tenha tomado as medidas adequadas para evitar tais situações, de acordo com a avaliação das entidades competentes.
 
-###### Base XV — Interrupção por facto imputável ao distribuidor ou ao cliente
+Base XV
+
+Interrupção por facto imputável ao distribuidor ou ao cliente
 
 1 - A concessionária pode interromper a entrega de eletricidade ao distribuidor ou a clientes ligados à RND que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aquelas entidades, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
 2 - A concessionária pode ainda interromper a entrega de eletricidade nos termos da regulamentação aplicável, nomeadamente do Regulamento de Relações Comerciais.
 
-###### Base XVI — Interrupção da receção de centros eletroprodutores
+Base XVI
+
+Interrupção da receção de centros eletroprodutores
 
 A concessionária pode interromper a receção da eletricidade produzida por produtores que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aqueles produtores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XVII — Projetos
+Base XVII
+
+Projetos
 
 1 - Constituem obrigação da concessionária a conceção e a elaboração dos projetos relativos a remodelação e expansão da rede de distribuição de acordo com o estabelecido nos planos de desenvolvimento.
 
@@ -5038,31 +5449,43 @@ A concessionária pode interromper a receção da eletricidade produzida por pro
 
 4 - O planeamento das redes de distribuição em AT e MT processa-se nos termos estabelecidos na legislação aplicável e no Regulamento de Operação das Redes.
 
-###### Base XVIII — Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
+Base XVIII
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
 
 No atravessamento de terrenos do domínio público ou de particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XIX — Cumprimento dos regulamentos
+Base XIX
+
+Cumprimento dos regulamentos
 
 No estabelecimento e na exploração da concessão, a concessionária deve cumprir as normas e os regulamentos aplicáveis, designadamente o Regulamento da Rede de Distribuição, o Regulamento de Operação das Redes, o Regulamento Tarifário, o Regulamento de Relações Comerciais, o Regulamento de Acesso às Redes e às Interligações e o Regulamento da Qualidade de Serviço.
 
-###### Base XX — Informações
+Base XX
+
+Informações
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os elementos relativos à concessão que esta entenda dever solicitar-lhe.
 
 2 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista no decreto-lei que integra as presentes bases e nos regulamentos nelas previstos.
 
-###### Base XXI — Fiscalização
+Base XXI
+
+Fiscalização
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, nomeadamente à ERSE, cabe à DGEG a fiscalização da concessão, nomeadamente do cumprimento das disposições legais e do contrato de concessão.
 
 2 - Para os efeitos do disposto no número anterior, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados, bem como permitir o livre acesso das entidades fiscalizadoras a quaisquer instalações.
 
-###### Base XXII — Auditoria
+Base XXII
+
+Auditoria
 
 O operador da rede de distribuição fica sujeito a auditoria da DGEG e da ERSE, em função das suas competências.
 
-###### Base XXIII — Responsabilidade civil
+Base XXIII
+
+Responsabilidade civil
 
 1 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -5072,7 +5495,9 @@ O operador da rede de distribuição fica sujeito a auditoria da DGEG e da ERSE,
 
 4 - A concessionária deve apresentar na DGEG os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXIV — Medidas de proteção
+Base XXIV
+
+Medidas de proteção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover todas as medidas que entender necessárias para repor as adequadas condições de segurança.
 
@@ -5080,23 +5505,31 @@ O operador da rede de distribuição fica sujeito a auditoria da DGEG e da ERSE,
 
 ### CAPÍTULO IV — Direitos da concessionária
 
-###### Base XXV — Utilização do domínio público
+Base XXV
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações da rede de distribuição ou de outras infraestruturas integrantes da concessão, a concessionária tem o direito de utilizar os bens do Estado e das autarquias locais, incluindo os do domínio público, nos termos da lei.
 
 2 - A faculdade de utilização dos bens referidos no número anterior resulta da aprovação dos respetivos projetos ou de despacho ministerial, sem prejuízo da formalização da respetiva cedência nos termos da lei.
 
-###### Base XXVI — Expropriações e servidões
+Base XXVI
+
+Expropriações e servidões
 
 A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação pela entidade licenciadora competente dos projetos ou anteprojetos das infraestruturas ou instalações da rede de distribuição, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
-###### Base XXVII — Remuneração
+Base XXVII
+
+Remuneração
 
 Pela exploração da concessão é assegurada à concessionária uma remuneração, nos termos do Regulamento Tarifário, que assegure o seu equilíbrio económico-financeiro nas condições de uma gestão eficiente.
 
 ### CAPÍTULO V — Garantias do cumprimento do contrato de concessão
 
-###### Base XXVIII — Caução
+Base XXVIII
+
+Caução
 
 1 - Para a garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se o membro do Governo responsável pela área da energia assim o determinar, prestar uma caução no valor até (euro) 25 000 000.
 
@@ -5108,7 +5541,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 5 - A caução pode ser prestada por depósito em dinheiro, por garantia bancária autónoma cujo texto deve ser previamente aprovado pela DGEG ou por qualquer outra forma prevista na lei.
 
-###### Base XXIX — Responsabilidade da concessionária por incumprimento
+Base XXIX
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão, a concessionária incorre em responsabilidade perante o concedente.
 
@@ -5118,7 +5553,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - Na situação prevista no número anterior, a concessionária deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-###### Base XXX — Multas contratuais
+Base XXX
+
+Multas contratuais
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão, pode a concessionária ser punida com multa até (euro) 10 000 000, variando o respetivo montante em função do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que tenha posto na superação das consequências.
 
@@ -5128,7 +5565,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - O pagamento das multas não isenta a concessionária da responsabilidade civil, criminal ou contraordenacional em que incorrer.
 
-###### Base XXXI — Sequestro
+Base XXXI
+
+Sequestro
 
 1 - O concedente, mediante despacho do membro do Governo responsável pela área da energia, pode tomar conta da concessão quando se verificarem graves deficiências na respetiva organização e no funcionamento ou no estado geral das instalações e dos equipamentos que sejam suscetíveis de comprometer a regularidade ou qualidade do serviço.
 
@@ -5142,7 +5581,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 ### CAPÍTULO VI — Alteração e extinção do contrato de concessão
 
-###### Base XXXII — Alteração do contrato de concessão
+Base XXXII
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -5150,7 +5591,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, faça prova de não poder prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão financeira e a prova seja aceite pelo concedente.
 
-###### Base XXXIII — Extinção da concessão
+Base XXXIII
+
+Extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o Estado e a concessionária, por resolução, por resgate e por decurso do prazo.
 
@@ -5160,7 +5603,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - A tomada de posse da concessão pelo Estado é precedida de vistoria ad perpetuam rei memoriam, realizada pela DGEG, a que assistem representantes da concessionária.
 
-###### Base XXXIV — Resolução do contrato por incumprimento
+Base XXXIV
+
+Resolução do contrato por incumprimento
 
 1 - O concedente, pelo membro do Governo responsável pela área da energia, pode resolver o contrato quando ocorra qualquer dos seguintes factos:
 
@@ -5194,7 +5639,9 @@ i) Recusa da reconstituição atempada da caução.
 
 7 - As penalidades por resolução do contrato de concessão, bem como as eventuais indemnizações, são estabelecidas no contrato de concessão.
 
-###### Base XXXV — Resgate da concessão
+Base XXXV
+
+Resgate da concessão
 
 1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem, decorridos que sejam 10 anos sobre a data de início do respetivo prazo.
 
@@ -5212,19 +5659,25 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - Para os efeitos do cálculo da indemnização prevista na presente base, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiências da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XXXVI — Extinção da concessão por decurso do prazo
+Base XXXVI
+
+Extinção da concessão por decurso do prazo
 
 1 - A concessão extingue-se pelo decurso do respetivo prazo, transmitindo-se para o Estado nos termos das presentes bases.
 
 2 - Cessando a concessão pelo decurso do respetivo prazo, o Estado paga à concessionária uma indemnização correspondente ao valor contabilístico dos bens afetos à concessão por ela adquiridos com referência ao último balanço aprovado, nos termos dos n.os 6, 7 e 8 da base anterior.
 
-###### Base XXXVII — Procedimento para termo da concessão
+Base XXXVII
+
+Procedimento para termo da concessão
 
 1 - O Estado reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva das atividades exercidas pela concessionária que cessa o seu contrato para uma nova entidade encarregada da gestão do serviço.
 
 2 - Se no termo da concessão o Estado não tiver ainda renovado o respetivo contrato ou não tiver decidido quanto ao novo modo ou à entidade encarregada da gestão do serviço, pode, se assim o desejar, acordar a continuação do contrato de concessão com a concessionária, até ao limite máximo de um ano, mediante arrendamento, prestação de serviços ou qualquer outro título contratual.
 
-###### Base XXXVIII — Transmissão e oneração de concessão
+Base XXXVIII
+
+Transmissão e oneração de concessão
 
 1 - Sob pena de nulidade dos respetivos atos ou contratos, a concessionária não pode, sem prévia autorização do membro do Governo responsável pela área da energia, transmitir, subconceder ou onerar, por qualquer forma, a concessão.
 
@@ -5236,11 +5689,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO VII — Composição de litígios
 
-###### Base XXXIX — Litígios entre o concedente e a concessionária
+Base XXXIX
+
+Litígios entre o concedente e a concessionária
 
 O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à solução legal ou segundo a equidade, conforme nelas se determinar, de quaisquer questões emergentes do contrato de concessão.
 
-###### Base XL — Litígios entre a concessionária e os utilizadores da rede de distribuição
+Base XL
+
+Litígios entre a concessionária e os utilizadores da rede de distribuição
 
 1 - A concessionária, os produtores, os distribuidores em BT, os comercializadores de eletricidade e a concessionária da RNT, bem como outras entidades que se encontrem ligadas à RND, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respetivos contratos ou aderir a processos de arbitragem, nos termos previstos no Regulamento de Relações Comerciais.
 
@@ -5254,13 +5711,17 @@ Bases das concessões da rede de distribuição de eletricidade em baixa tensão
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto o estabelecimento e a exploração da rede municipal de distribuição de eletricidade em BT em regime de serviço público, em exclusivo.
 
 2 - Mediante autorização da câmara municipal, solicitada caso a caso, a concessionária pode exercer outras atividades com fundamento no proveito daí resultante para o interesse da concessão.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - A concessão da rede municipal de distribuição de eletricidade em BT integra a operação da respetiva rede e compreende:
 
@@ -5272,37 +5733,49 @@ c) O planeamento, a construção e a gestão técnica da rede.
 
 2 - A área da concessão não pode ser superior à área de um município ou de um grupo de municípios agrupados nos termos da legislação em vigor.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - A concessão tem a duração de 20 anos contados a partir da data da celebração do respetivo contrato.
 
 2 - O prazo de concessão é estabelecido no caderno de encargos do concurso para a atribuição da respetiva concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas atividades consideradas, para todos os efeitos, de utilidade pública.
 
 2 - No âmbito da concessão, a concessionária deve desempenhar as atividades de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço, devendo adotar, para o efeito, os melhores meios e tecnologias geralmente utilizados no setor elétrico.
 
-###### Base V — Princípios aplicáveis às relações com os produtores, o distribuidor em AT e MT, os comercializadores e outros utilizadores das redes
+Base V
+
+Princípios aplicáveis às relações com os produtores, o distribuidor em AT e MT, os comercializadores e outros utilizadores das redes
 
 1 - A concessionária não pode estabelecer diferenças de tratamento nas suas relações com os produtores, os distribuidores em AT e MT, os comercializadores e outros utilizadores da sua rede que não resultem de condicionalismos legais ou regulamentares ou da aplicação de critérios decorrentes de uma conveniente e adequada gestão técnica do SEN, bem como de condicionalismos de natureza contratual, desde que sancionadas pela DGEG, pelas direções regionais de economia e pela ERSE, em função das suas competências.
 
 2 - A concessionária deve manter um registo de queixas que lhe tenham sido apresentadas pelas entidades referidas no número anterior.
 
-###### Base VI — Contrato de concessão
+Base VI
+
+Contrato de concessão
 
 1 - A concessão é atribuída mediante contrato de concessão celebrado entre o município concedente, outorgado pela respetiva câmara municipal, e a entidade adjudicatária selecionada na sequência da realização de concurso público.
 
 2 - O contrato de concessão tem por base um contrato-tipo aprovado por portaria dos membros do Governo responsáveis pelas áreas da energia, das finanças e da administração interna, ouvida a Associação Nacional dos Municípios Portugueses e a ERSE.
 
-###### Base VII — Remuneração das concessões
+Base VII
+
+Remuneração das concessões
 
 Os municípios concedentes têm direito, de acordo com os termos previstos no artigo 44.º do corpo do presente decreto-lei, a receber das concessionárias o pagamento de uma remuneração anual.
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VIII — Bens da concessão
+Base VIII
+
+Bens da concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem a rede de baixa tensão e as interligações, designadamente:
 
@@ -5322,7 +5795,9 @@ b) Outros bens móveis ou imóveis necessários ao desempenho das atividades obj
 
 3 - As relações jurídicas diretamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de receção e de entrega de eletricidade, bem como os direitos de distribuição através de redes situadas no exterior da área da concessão.
 
-###### Base IX — Instalações da rede de baixa tensão
+Base IX
+
+Instalações da rede de baixa tensão
 
 1 - A rede de baixa tensão é constituída pelas instalações de:
 
@@ -5334,7 +5809,9 @@ c) Entrega de eletricidade a clientes abastecidos em baixa tensão.
 
 2 - As instalações referidas no número anterior integram os bens a elas afetos, devendo os limites das instalações que se ligam à rede municipal de distribuição de eletricidade em BT ser especificados nos documentos que aprovam o respetivo projeto, nos termos do Regulamento de Licenças para as Instalações Elétricas.
 
-###### Base X — Inventário do património
+Base X
+
+Inventário do património
 
 1 - A concessionária deve elaborar um inventário do património afeto à concessão, que mantém atualizado e à disposição do concedente.
 
@@ -5342,11 +5819,15 @@ c) Entrega de eletricidade a clientes abastecidos em baixa tensão.
 
 3 - Os bens e direitos patrimoniais tornados desnecessários às atividades concedidas são abatidos ao inventário da concessão nos termos do respetivo contrato.
 
-###### Base XI — Manutenção dos bens e meios afetos à concessão
+Base XI
+
+Manutenção dos bens e meios afetos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e meios a ela afetos, efetuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base XII — Propriedade ou posse dos bens
+Base XII
+
+Propriedade ou posse dos bens
 
 1 - Sem prejuízo dos bens do concedente afetos à concessão, a concessionária detém a propriedade ou posse dos bens que a integram até à extinção da concessão.
 
@@ -5356,17 +5837,23 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidades e fiscalização da concessionária
 
-###### Base XIII — Obrigações da concessionária
+Base XIII
+
+Obrigações da concessionária
 
 A concessionária está obrigada ao cumprimento do estabelecido no Decreto-Lei n.º 29/2006, de 15 de fevereiro, no corpo do decreto-lei, nas presentes bases, na demais legislação e em regulamentação aplicável, bem como no contrato de concessão.
 
-###### Base XIV — Obrigação de receção e de entrega de eletricidade
+Base XIV
+
+Obrigação de receção e de entrega de eletricidade
 
 1 - A concessionária é obrigada a receber a eletricidade produzida pelos produtores ligados à RMD e a entregar eletricidade aos clientes ligados à RMD, nas condições estabelecidas no presente decreto-lei, no contrato de concessão, no Regulamento da Rede de Distribuição, no Regulamento Tarifário, no Regulamento de Relações Comerciais e no Regulamento da Qualidade de Serviço.
 
 2 - A receção e a entrega de eletricidade, salvo caso fortuito ou de força maior, só podem ser interrompidas por razões de interesse público ou de serviço ou por facto imputável ao cliente.
 
-###### Base XV — Interrupções por razões de interesse público ou de serviço
+Base XV
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A receção ou a entrega de eletricidade podem ser interrompidas por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência energética declarada ao abrigo de legislação específica.
 
@@ -5376,23 +5863,31 @@ A concessionária está obrigada ao cumprimento do estabelecido no Decreto-Lei n
 
 4 - A ocorrência das situações referidas nos n.os 1 e 2 dá origem a indemnização por parte da concessionária caso esta não tenha tomado as medidas adequadas para evitar tais situações, de acordo com a avaliação das entidades competentes.
 
-###### Base XVI — Interrupção por facto imputável ao distribuidor ou ao cliente
+Base XVI
+
+Interrupção por facto imputável ao distribuidor ou ao cliente
 
 1 - A concessionária pode interromper a entrega de eletricidade a clientes ligados à rede municipal de distribuição de eletricidade em BT que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aquelas entidades, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
 2 - A concessionária pode ainda interromper a entrega de eletricidade nos termos da regulamentação aplicável, nomeadamente do Regulamento de Relações Comerciais, na observância do disposto na Lei n.º 23/96, de 26 de julho.
 
-###### Base XVII — Interrupção da receção de produtores em BT
+Base XVII
+
+Interrupção da receção de produtores em BT
 
 A concessionária pode interromper a receção da eletricidade produzida por produtores que causem perturbações que afetem a qualidade de serviço do SEN legalmente estabelecida quando, uma vez identificadas as causas perturbadoras, aqueles produtores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XVIII — Planos de desenvolvimento
+Base XVIII
+
+Planos de desenvolvimento
 
 1 - A concessionária deve elaborar o plano de desenvolvimento da rede de distribuição em BT, nos termos estabelecidos no contrato de concessão.
 
 2 - A concessionária deve observar, na remodelação e na expansão da rede, os prazos de execução adequados à satisfação das necessidades de comercialização de eletricidade.
 
-###### Base XIX — Projetos
+Base XIX
+
+Projetos
 
 1 - Constitui obrigação da concessionária a conceção e a elaboração dos projetos relativos a remodelação e expansão da rede de distribuição.
 
@@ -5400,31 +5895,43 @@ A concessionária pode interromper a receção da eletricidade produzida por pro
 
 3 - A aprovação dos projetos é feita através do processo de licenciamento previsto no Regulamento de Licenças para Instalações Elétricas.
 
-###### Base XX — Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
+Base XX
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou de particulares
 
 No atravessamento de terrenos do domínio público ou de particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XXI — Cumprimento dos regulamentos
+Base XXI
+
+Cumprimento dos regulamentos
 
 No estabelecimento e na exploração da concessão, a concessionária deve cumprir as normas e os regulamentos aplicáveis, designadamente o Regulamento da Rede de Distribuição, o Regulamento de Operação das Redes, o Regulamento Tarifário, o Regulamento de Relações Comerciais, o Regulamento de Acesso às Redes e às Interligações e o Regulamento da Qualidade de Serviço.
 
-###### Base XXII — Informações
+Base XXII
+
+Informações
 
 1 - A concessionária tem a obrigação de fornecer à câmara municipal do município concedente todos os elementos relativos à concessão que esta entenda dever solicitar-lhe.
 
 2 - A concessionária tem igualmente a obrigação de fornecer à DGEG, às direções regionais de economia e à ERSE a informação prevista no decreto-lei que integra as presentes bases e nos regulamentos nelas previstos.
 
-###### Base XXIII — Fiscalização
+Base XXIII
+
+Fiscalização
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, cabe à câmara municipal do município concedente a fiscalização da concessão, nomeadamente do cumprimento das disposições legais e do contrato de concessão.
 
 2 - Para os efeitos do disposto no número anterior, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados, bem como permitir o livre acesso das entidades fiscalizadoras a quaisquer instalações.
 
-###### Base XXIV — Auditoria
+Base XXIV
+
+Auditoria
 
 O operador da rede de distribuição fica sujeito a auditoria da DGEG, da respetiva direção regional de economia e da ERSE, bem como do concedente, em função das suas competências.
 
-###### Base XXV — Responsabilidade civil
+Base XXV
+
+Responsabilidade civil
 
 1 - Para os efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -5434,7 +5941,9 @@ O operador da rede de distribuição fica sujeito a auditoria da DGEG, da respet
 
 4 - A concessionária deve apresentar na câmara municipal os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVI — Medidas de proteção
+Base XXVI
+
+Medidas de proteção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover todas as medidas que entender necessárias para repor as adequadas condições de segurança.
 
@@ -5442,7 +5951,9 @@ O operador da rede de distribuição fica sujeito a auditoria da DGEG, da respet
 
 ### CAPÍTULO IV — Direitos da concessionária
 
-###### Base XXVII — Utilização do domínio público
+Base XXVII
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações da rede de distribuição ou de outras infraestruturas integrantes da concessão, a concessionária tem o direito de utilizar os bens do domínio municipal e do Estado, nos termos da lei.
 
@@ -5450,17 +5961,23 @@ O operador da rede de distribuição fica sujeito a auditoria da DGEG, da respet
 
 3 - As condições de utilização dos bens do município concedente constam do respetivo contrato de concessão.
 
-###### Base XXVIII — Expropriações e servidões
+Base XXVIII
+
+Expropriações e servidões
 
 A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação pela entidade licenciadora competente dos projetos ou anteprojetos das infraestruturas ou das instalações da rede de distribuição, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
-###### Base XXIX — Remuneração
+Base XXIX
+
+Remuneração
 
 Pela exploração da concessão é assegurada à concessionária uma remuneração, nos termos do Regulamento Tarifário, que assegure o seu equilíbrio económico-financeiro nas condições de uma gestão eficiente.
 
 ### CAPÍTULO V — Garantias do cumprimento do contrato de concessão
 
-###### Base XXX — Caução
+Base XXX
+
+Caução
 
 1 - Para a garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se a respetiva câmara municipal assim o determinar, prestar uma caução até ao valor máximo de (euro) 250 000, nos termos da portaria que aprovar o contrato-tipo de concessão.
 
@@ -5474,7 +5991,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 6 - O estabelecido nesta base não se aplica aos contratos de concessão em vigor à data da entrada em vigor do presente decreto-lei.
 
-###### Base XXXI — Responsabilidade da concessionária por incumprimento
+Base XXXI
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão, a concessionária incorre em responsabilidade perante o concedente.
 
@@ -5484,7 +6003,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - Na situação prevista no número anterior, a concessionária deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-###### Base XXXII — Multas contratuais
+Base XXXII
+
+Multas contratuais
 
 1 - Pelo incumprimento de obrigações assumidas no âmbito do contrato de concessão, pode a concessionária ser punida com multa até (euro) 50 000, variando o respetivo montante em função do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efetivamente causados e da diligência que tenha posto na superação das consequências.
 
@@ -5494,7 +6015,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - O pagamento das multas não isenta a concessionária da responsabilidade civil, criminal ou contraordenacional em que incorrer.
 
-###### Base XXXIII — Sequestro
+Base XXXIII
+
+Sequestro
 
 1 - O concedente, mediante deliberação dos órgãos competentes do município, pode tomar conta da concessão quando se verificarem graves deficiências na respetiva organização e no funcionamento ou no estado geral das instalações e dos equipamentos que sejam suscetíveis de comprometer a regularidade ou qualidade do serviço.
 
@@ -5508,7 +6031,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 ### CAPÍTULO VI — Alteração e extinção do contrato de concessão
 
-###### Base XXXIV — Alteração do contrato de concessão
+Base XXXIV
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -5516,7 +6041,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, faça prova de não poder prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão financeira e a prova seja aceite pelo concedente.
 
-###### Base XXXV — Extinção da concessão
+Base XXXV
+
+Extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o município e a concessionária, por resolução, por resgate e por decurso do prazo.
 
@@ -5526,7 +6053,9 @@ Pela exploração da concessão é assegurada à concessionária uma remuneraç�
 
 4 - A tomada de posse da concessão pelo município é precedida de vistoria ad perpetuam rei memoriam, realizada pela câmara municipal, a que assistem representantes da concessionária.
 
-###### Base XXXVI — Resolução do contrato por incumprimento
+Base XXXVI
+
+Resolução do contrato por incumprimento
 
 1 - O concedente, na sequência de deliberação dos seus órgãos competentes, pode resolver o contrato quando ocorra qualquer dos seguintes factos:
 
@@ -5560,7 +6089,9 @@ i) Recusa da reconstituição atempada da caução.
 
 7 - As penalidades por resolução do contrato de concessão, bem como as eventuais indemnizações, são estabelecidas no contrato de concessão.
 
-###### Base XXXVII — Resgate da concessão
+Base XXXVII
+
+Resgate da concessão
 
 1 - O concedente pode resgatar a concessão sempre que motivos de interesse público o justifiquem, decorridos que sejam cinco anos sobre a data de início do respetivo prazo.
 
@@ -5578,19 +6109,25 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - Para os efeitos do cálculo da indemnização prevista na presente base, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiências da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XXXVIII — Extinção da concessão por decurso do prazo
+Base XXXVIII
+
+Extinção da concessão por decurso do prazo
 
 1 - A concessão extingue-se pelo decurso do respetivo prazo, transmitindo-se para o concedente nos termos das presentes bases.
 
 2 - Cessando a concessão pelo decurso do respetivo prazo, o concedente paga à concessionária uma indemnização correspondente ao valor contabilístico dos bens afetos à concessão por ela adquiridos com referência ao último balanço aprovado, nos termos dos n.os 6, 7 e 8 da base anterior.
 
-###### Base XXXIX — Procedimento para termo da concessão
+Base XXXIX
+
+Procedimento para termo da concessão
 
 1 - O concedente reserva-se o direito de tomar nos últimos dois anos do prazo da concessão as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva das atividades exercidas pela concessionária que cessa o seu contrato para uma nova entidade encarregada da gestão do serviço.
 
 2 - Se no termo da concessão o concedente não tiver ainda renovado o respetivo contrato ou não tiver decidido quanto ao novo modo ou entidade encarregada da gestão do serviço, pode, se assim o desejar, acordar a continuação do contrato de concessão com a concessionária, até ao limite máximo de um ano, mediante arrendamento, prestação de serviços ou qualquer outro título contratual.
 
-###### Base XL — Transmissão e oneração de concessão
+Base XL
+
+Transmissão e oneração de concessão
 
 1 - Sob pena de nulidade dos respetivos atos ou contratos, a concessionária não pode, sem prévia autorização da câmara municipal, transmitir, subconceder ou onerar, por qualquer forma, a concessão.
 
@@ -5602,11 +6139,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO VII — Composição de litígios
 
-###### Base XLI — Litígios entre o concedente e a concessionária
+Base XLI
+
+Litígios entre o concedente e a concessionária
 
 O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à solução legal ou segundo a equidade, conforme nelas se determinar, de quaisquer questões emergentes do contrato de concessão.
 
-###### Base XLII — Litígios entre a concessionária e os utilizadores da rede de distribuição
+Base XLII
+
+Litígios entre a concessionária e os utilizadores da rede de distribuição
 
 1 - A concessionária, os produtores, o distribuidor em AT e MT, os comercializadores de eletricidade e os consumidores, bem como outras entidades que se encontrem ligadas à rede municipal de distribuição de eletricidade em BT, podem celebrar convenções de arbitragem para solução dos litígios emergentes dos respetivos contratos ou aderir a processos de arbitragem, nos termos previstos no Regulamento de Relações Comerciais.
 

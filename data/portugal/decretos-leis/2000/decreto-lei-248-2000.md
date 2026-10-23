@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/2000/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2000-552503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c4c7354e978c589dbb95dc88932c7eb9dd5963b7c9f00b6d80e65bb727ace8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dea1bd0ba59cf2a08d4891882bdfd2cf8b0b97daa0987fc74e576010889f9c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,29 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Sistema de Autoridade Marítima
-- Multa
 - Contra-ordenação
 - Definição de Competências
-- Segurança das Embarcações
+- Embarcação de Pesca
 - Fiscalização
 - Frota de Pesca
 - Instituto Marítimo-portuário
-- Ministro do Equipamento Social
-- Normas de Segurança
-- Embarcação de Pesca
 - Ministro da Defesa Nacional
+- Ministro do Equipamento Social
+- Multa
+- Normas de Segurança
+- Segurança das Embarcações
+- Sistema de Autoridade Marítima
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582034:por
+  label: "Alteradas a regra 2 do nº 18 do cap. I, as regras do cap. III, as regras do cap. IV e a regra 17 do nº 2 da parte\
+    \ C do cap. VII, todas do anexo I, pelo DEC LEI.306/2001.2001.12.06.MES DR.IS-A [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/306-2001-582034
+  date: '2001-12-06'
 - type: cites
   target: celex:31994L0057
   label: null
@@ -104,14 +110,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1999/19/oj
 article_structure:
   article_count: 23
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:46Z'
   warnings: []
   errors: []
 ---
@@ -368,15 +374,15 @@ No prazo de 180 dias após a entrada em vigor deste diploma, todas as embarcaç�
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Agosto de 2000.**
+Referendado em 1 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO I
 
@@ -800,7 +806,7 @@ Deve ser previsto um equipamento de fundear concebido de modo a poder ser operad
 
 ### CAPÍTULO III — Máquinas e instalações eléctricas e locais de máquinas periodicamente não atendidas
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -888,7 +894,7 @@ Locais de máquinas periodicamente não atendidas
 
 10 - Os navios devem dispor de documentação que a Administração considere satisfatória para demonstrar que está em condições de operar com locais de máquinas periodicamente não atendidas.
 
-# PARTE B — Instalações de máquinas (v. também regra 3)
+## PARTE B — Instalações de máquinas (v. também regra 3)
 
 Regra 4
 
@@ -1012,7 +1018,7 @@ Instalações de esgoto
 
 b) As bombas de esgoto de accionamento mecânico devem ser capazes de imprimir à água uma velocidade não inferior a 2 m/s no colector de esgoto, cujo diâmetro interno deve ser, pelo menos:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 No entanto, o actual diâmetro interno do colector de esgoto principal pode ser arredondado ao tamanho normalizado mais próximo, desde que tal seja aceite pela Administração.
 
@@ -1090,7 +1096,7 @@ b) Quando for impossível na prática realizar este sistema de contenção de fu
 
 7 - Devem ser afixadas a bordo do navio instruções adequadas sobre métodos de condução das instalações frigoríficas e procedimentos de emergência.
 
-# PARTE C — Instalações eléctricas (v. também a regra 3)
+## PARTE C — Instalações eléctricas (v. também a regra 3)
 
 Regra 16
 
@@ -1230,7 +1236,7 @@ d) Exista um certificado de aprovação para utilização segura numa atmosfera 
 
 11 - Devem ser montados pára-raios em todos os mastros e mastaréus de madeira. Nos navios construídos em materiais não condutores os pára-raios devem ser ligados, por condutores apropriados, a uma chapa de cobre fixada no casco do navio bastante abaixo da linha de água.
 
-# PARTE D — Locais de máquinas periodicamente não atendidas (v. também regra 3)
+## PARTE D — Locais de máquinas periodicamente não atendidas (v. também regra 3)
 
 Regra 19
 
@@ -1336,7 +1342,7 @@ Deve existir um sistema de segurança que, em caso de deficiência grave de func
 
 ### CAPÍTULO V — Protecção contra incêndios, detecção, extinção e combate a incêndios (v. também a regra 19 do capítulo IV)
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -1436,7 +1442,7 @@ ou os que contêm uma caldeira alimentada a combustível líquido ou uma instala
 
 15 - «Locais de máquinas» são todos os locais de máquinas de categoria A e todos os outros locais que contenham o aparelho propulsor, caldeiras, instalações de tratamento de combustível, máquinas a vapor e motores de combustão interna, geradores, aparelho de governo, máquinas eléctricas principais, estações de embarque de combustível, máquinas frigoríficas, de estabilização, de ventilação e de condicionamento de ar e outros locais semelhantes, assim como os respectivos troncos de acesso.
 
-# PARTE B — Medidas de segurança contra incêndio aplicáveis aos navios de comprimento igual ou superior a 60 m
+## PARTE B — Medidas de segurança contra incêndio aplicáveis aos navios de comprimento igual ou superior a 60 m
 
 Regra 3
 
@@ -1556,13 +1562,13 @@ TABELA n.º 1
 
 Integridade ao fogo das anteparas que separem locais adjacentes
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 TABELA n.º 2
 
 Integridade ao fogo dos pavimentos que separem locais adjacentes
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 3 - Os forros ou revestimentos contínuos da classe B, juntamente com os respectivos pavimentos e anteparas, podem ser aceites como contributo no todo ou em parte para o isolamento e resistência exigidos para uma divisória.
 
@@ -1812,7 +1818,7 @@ Bombas de incêndio
 
 3 - a) As bombas de incêndio que não sejam bombas de emergência devem ter potência suficiente para fornecer, para efeitos de combate a incêndio, água a uma pressão mínima de 0,25 N/mm3, com um caudal total (Q) não inferior a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 Contudo, não é necessário que o caudal total das bombas de incêndio seja superior a 180 m3/h.
 
@@ -1936,7 +1942,7 @@ União internacional de ligação a terra
 
 2 - As flanges da união internacional de ligação a terra devem ter as dimensões normalizadas indicadas na seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 3 - Esta união deve ser construída de material adequado para uma pressão de 1,0 N/mm2.
 
@@ -1970,7 +1976,7 @@ Aceitação de equipamento diferente do especificado
 
 Cada vez que for previsto, na presente parte, um determinado tipo de dispositivo, aparelho, agente extintor ou instalação, pode utilizar-se qualquer outro tipo de dispositivo, aparelho, etc., desde que a Administração não o considere menos eficaz.
 
-# PARTE C — Medidas de segurança contra incêndio em navios de comprimento igual ou superior a 45 m mas inferior a 60 m
+## PARTE C — Medidas de segurança contra incêndio em navios de comprimento igual ou superior a 45 m mas inferior a 60 m
 
 Regra 28
 
@@ -2136,7 +2142,7 @@ b) Uma bomba de accionamento mecânico movido pelas máquinas principais com a c
 
 7 - O caudal total (Q) das bombas de incêndio principais de accionamento mecânico deve ser pelo menos igual a:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)](https://files.diariodarepublica.pt/1s/2000/10/229a00/54125489.pdf)
 
 8 - Quando se instalem duas bombas independentes accionadas mecanicamente, o caudal de cada bomba não deve ser inferior a 40% do caudal prescrito no n.º 7.
 
@@ -2296,7 +2302,7 @@ A fim de garantir a segurança da tripulação, devem prever-se escadas inclinad
 
 ### CAPÍTULO VII — Meios de salvação
 
-# PARTE A — Disposições gerais
+## PARTE A — Disposições gerais
 
 Regra 1
 
@@ -2358,7 +2364,7 @@ Realização de provas durante a fabricação
 
 A Administração deve obrigar, se necessário, a que os meios de salvação sejam submetidos a ensaios durante a produção, a fim de assegurar que a sua fabricação está de acordo com os padrões e protótipos aprovados.
 
-# PARTE B — Requisitos relativos ao navio
+## PARTE B — Requisitos relativos ao navio
 
 Regra 5
 
@@ -2578,7 +2584,7 @@ ii) Numa estação de serviço que seja credenciada para os inspeccionar, dispon
 
 9 - Nos navios cuja faina de pesca possa originar dificuldade no cumprimento dos requisitos dos n.os 7 e 8, a Administração pode permitir a extensão dos intervalos de assistência dos equipamentos até aos 24 meses, desde que considere que os mesmos são concebidos de modo que se mantenham em condições satisfatórias até ao próximo período de revisão.
 
-# PARTE C — Requisitos dos meios de salvação
+## PARTE C — Requisitos dos meios de salvação
 
 Regra 17
 
@@ -3958,7 +3964,7 @@ iv) Utilização dos aparelhos respiratórios.
 
 ### CAPÍTULO IX — Radiocomunicações
 
-# PARTE A — Aplicação e definições
+## PARTE A — Aplicação e definições
 
 Regra 1
 
@@ -4052,7 +4058,7 @@ h) Transmitir e receber radiocomunicações gerais de e para os sistemas ou rede
 
 i) Transmitir e receber comunicações ponte a ponte.
 
-# PARTE B — Requisitos aplicáveis aos navios
+## PARTE B — Requisitos aplicáveis aos navios
 
 Regra 5
 

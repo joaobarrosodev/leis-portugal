@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/548/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/548-1994-231893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5ebda5d9c274d1eea8338b4c2c466308289a5948508cd5fe18c9d98a988ff7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11595336a8d221e68f58279f5d681a87c23a445f4439f271241e8c2ab6e0cc00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Desenvolvimento Industrial
-- Política Industrial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Industrial
+- Empresa
+- Financiamento
+- IAPMEI
 - Indústria
 - Modernização Industrial
-- Regime de Apoio
 - Pedip II
-- IAPMEI
+- Política Industrial
+- Projeto de Investimento
+- Regime de Apoio
 - Sistema de Incentivos Pedip
 - Subsídio
 relationships:
@@ -83,6 +83,35 @@ relationships:
   target: pt:dre:667565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 164/94 DE 19-SET DR.IS-B [227]3SUPL DE 30/SET/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 4 PELO DN 38/95 DE 09-JUL DR.IS-B [179] DE 04/AGO/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-04'
+- type: amended_by
+  target: pt:dre:2819093:por
+  label: "Suspenso a recepção de candidaturas a que se refere a al. a) do nº 1 do art. 2.º pelo DESP.148/96.1996.11.30.MECO\
+    \ DR.IIS [294] DE 20/DEZ/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/148-1996-2819093
+  date: '1996-11-30'
+- type: amended_by
+  target: pt:dre:3240998:por
+  label: "Alterado o al. b) do nº 1 do art. 2º pelo Desp 12697/97(2ªSÉRIE).1997.10.31.MECO, DR.IIS [287] de 13/Dez/1997 \0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12697-1997-3240998
+  date: '1997-10-31'
+- type: amended_by
+  target: pt:dre:1226051:por
+  label: "Reaberta a admissão de candidaturas ao Regime de Apoio à Realização de Estratégias Empresariais Integradas, previsto\
+    \ na al. b) do nº 1 do art. 2º do presente diploma (suspenso temporariamente pelo Desp 5/96 de 21-Fev), pelo DESP 14216/99(2ªSÉRIE).1999.07.05.MECO\
+    \ DR.IIS [172] de 26/Jul/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/14216-1999-1226051
+  date: '1999-07-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -107,16 +136,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:31Z'
   warnings: []
   errors: []
 ---
@@ -419,7 +472,7 @@ Critério C - Nível da produtividade económica da empresa pós-projecto.
 
 Os critérios referidos são quantificados num intervalo de valores compreendido entre 0 a 100, valor este a determinar nos termos dos números seguintes, sendo a valia industrial (VI) determinada pela soma ponderada das pontuações parcelares obtidas para cada um dos critérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 Nestes termos, a VI de um projecto será obtida pela aplicação da fórmula:
 
@@ -431,11 +484,11 @@ A VI será considerada nula sempre que A = 0.
 
 Empresas existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 Empresas novas (incluindo novas unidades de empresas existentes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 Os projectos com a classificação de Fraca VI não são elegíveis.
 
@@ -453,7 +506,7 @@ A(índice 2) - Grau de satisfação das necessidades da empresa de acordo com as
 
 A pontuação do critério A em função dos seus subcritérios far-se-á da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 Na pontuação do subcritério A(índice 1) - Inserção da estratégia da empresa na política industrial ter-se-ão em conta os seguintes parâmetros:
 
@@ -523,11 +576,11 @@ A pontuação do impacte do projecto será determinada através da seguinte chav
 
 Empresas já existentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 Novas empresas (incluindo novas unidades de empresas existentes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 5.º
 
@@ -649,7 +702,7 @@ Percentagem do incentivo
 
 A percentagem do incentivo é função da valia industrial do projecto, calculada em conformidade com a metodologia constante do anexo A e será atribuída de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42264234.pdf)
 
 2.º
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/8/1993/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/8-1993-692263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:16:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b5eb22869231516aa5f00e8f963568cb138be2363a2f4de9423ca2099d3ae61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c227993b14acc55a3ac869363d38e588dc524b94dfdb8ef1442ccd4c6d01ae6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:16:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
+- Cooperação Judiciária
 - Direito Penitenciário
 - Estrasburgo
-- Cooperação Judiciária
+- Portugal
 - Transferência de Pessoas Condenadas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/8/1993/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/8/1993/04/20/p/dre
+- type: cites
+  target: pt:dre:692264:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:16:06Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 20 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção Relativa à Transferência de Pessoas Condenadas, aberta à assinatura dos Estados membros do Conselho da Europa, em 21 de Março de 1983, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 8/93](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1993-692264), em 18 de Fevereiro de 1993.
 
-**Assinado em 24 de Março de 1993.**
+Assinado em 24 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Março de 1993.**
+Referendado em 26 de Março de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

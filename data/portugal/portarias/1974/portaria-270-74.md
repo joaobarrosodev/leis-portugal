@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/270-1974-411977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:23:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ace0a3dde3469d3852c011d56b2139deb95a55424c50115208f3139e484bd1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d65a8bd4ab313f3113628a696efb63609f5c8bff707ef395455541afca9f45c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:23:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:23:27Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 Receita ordinária
 
-### Capítulo 1.º «Receitas correntes»:
+Capítulo 1.º «Receitas correntes»:
 
-###### Artigo 1.º «Transferências - Sector público»:
+Artigo 1.º «Transferências - Sector público»:
 
 N.º 1 «Contribuição da província»:
 
@@ -98,19 +102,19 @@ Alínea 3 «De crédito especial a abrir no decurso do ano» ... 3000000$00
 
 Despesa ordinária
 
-### Capítulo 1.º «Despesas correntes»:
+Capítulo 1.º «Despesas correntes»:
 
-###### Artigo 2.º «Remunerações em espécie» ... 1600000$00
+Artigo 2.º «Remunerações em espécie» ... 1600000$00
 
-###### Artigo 3.º «Previdência social»:
+Artigo 3.º «Previdência social»:
 
 N.º 3 «Outras despesas» ... 200000$00
 
-###### Artigo 4.º «Compensação de encargos» ... 600000$00
+Artigo 4.º «Compensação de encargos» ... 600000$00
 
-###### Artigo 6.º «Bens não duradouros» ... 400000$00
+Artigo 6.º «Bens não duradouros» ... 400000$00
 
-###### Artigo 7.º «Aquisição de serviços» ... 200000$00
+Artigo 7.º «Aquisição de serviços» ... 200000$00
 
 ... 3000000$00
 

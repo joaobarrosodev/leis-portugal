@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1975-161914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a3234835b90a26677e5d9f7fb20e5c3ec05c1f3fe7b2b8f1b954a05bc66dd8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9934adb41bc4998b4ecceb3341ce1d953acec7ee7c461e4dfdc18afdf916aaa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,34 @@ relationships:
   target: pt:dre:315546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315546:por
+  label: Revogada pelo(a) Portaria n.º 101-I/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, na
+    parte que contraria a mesma portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-i-1977-315546
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:37Z'
   warnings: []
   errors: []
 ---
@@ -104,37 +122,37 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abasteci
 
 a) Preços máximos à porta da fábrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 3.º Os preços máximos de venda ao público são os seguintes:
 
 b) Preços máximos no consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 4.º As margens mínimas dos retalhistas na venda de margarinas são as seguintes:
 
 c) Margens mínimas dos retalhistas em margarinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 2.º Os preços máximos CIF para os arquipélagos da Madeira e Açores são os seguintes:
 
 a) Preços máximos CIF para os arquipélagos da Madeira e Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 3.º Os preços máximos de venda ao público de margarinas nos arquipélagos da Madeira e Açores são os seguintes:
 
 b) Preços máximos no consumidor para os arquipélagos da Madeira e Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 4.º As margens mínimas dos retalhistas na venda de margarinas nos arquipélagos da Madeira e dos Açores são as seguintes:
 
 c) Margens mínimas dos retalhistas em margarinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf))](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/04/08000/05200521.pdf)
 
 5.º Os retalhistas podem abastecer-se directamente nas fábricas, de acordo com os preços máximos CIF constantes do n.º 3, as quais ficam obrigadas a satisfazer encomendas para entrega, por uma só vez, num mínimo de 100 caixas de diversos tipos, excepto margarinas Flora e Becel.
 

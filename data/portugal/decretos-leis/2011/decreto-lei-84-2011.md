@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2011-670024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae79b8ec9e52d0bae2b909cd14cb641b07afe294f29d049beb4a3f85294e65af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c53d308d326274b5b7342b1731dede0528bcdcc3cb5322cb8728ae6523faa7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Modernização Administrativa
-- Cartografia
-- Ordenamento do Território
-- Recursos Hídricos
+- Águas Subterrâneas
 - Aterro Sanitário
+- Cartografia
 - Competitividade da Economia
+- Gestão de Resíduos
 - Licenciamento
 - Mercado Interno
-- Proteção do Ambiente
+- Modernização Administrativa
+- Ordenamento do Território
 - Poluição da água
+- Proteção do Ambiente
 - Proteção do Consumidor
+- Recursos Hídricos
 - Regime Jurídico
-- Águas Subterrâneas
 relationships:
 - type: amended_by
   target: pt:dre:124324702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56941586:por
+  label: Alterados, a partir de 18.11.2014, os arts. 2.º e 8.º do Dec Lei 193/95 de 28-jul, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 141/2014 - Diário da República n.º 181/2014, Série I de 2014-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2014-56941586
+  date: '2014-09-19'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -96,15 +102,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
 article_structure:
-  article_count: 49
+  article_count: 33
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:00Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +167,9 @@ Os artigos 12.º, 13.º, 24.º e 52.º do Decreto-Lei n.º 183/2009, de 10 de Ag
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Para os efeitos do disposto no n.º 1 do artigo anterior, o requerente da licença para a operação de deposição de resíduos em aterro deve observar cumulativamente, os seguintes requisitos:
 
@@ -187,7 +195,9 @@ a) (euro) 250 000, no caso de aterros de resíduos inertes; ou
 
 b) (euro) 1 000 000, no caso de aterros de resíduos não perigosos ou de aterros de resíduos perigosos.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +211,9 @@ b) (euro) 1 000 000, no caso de aterros de resíduos não perigosos ou de aterro
 
 6 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - O pedido de licença da operação de deposição de resíduos em aterro bem como os outros documentos exigidos no âmbito do presente decreto-lei são apresentados pelo requerente em suporte informático e por meios electrónicos através do balcão único electrónico dos serviços, podendo as peças desenhadas ser apresentadas em suporte de papel.
 
@@ -251,7 +263,9 @@ Os artigos 2.º e 8.º do Decreto-Lei n.º 193/95, de 28 de Julho, alterado pelo
 
 8 - ...
 
-###### Artigo 8.º — Mera comunicação prévia
+Artigo 8.º
+
+Mera comunicação prévia
 
 1 - Com excepção dos organismos produtores de cartografia oficial, encontra-se sujeito a uma mera comunicação prévia ao IGP o exercício de actividades no domínio da produção de cartografia topográfica ou temática de base topográfica.
 
@@ -297,25 +311,33 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 12.º, 14.º, 15.º, 
 
 O presente decreto-lei estabelece o regime de licenciamento do exercício das actividades de pesquisa e captação de águas subterrâneas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O exercício das actividades de pesquisa e captação de águas subterrâneas está sujeito a licença nos termos do presente decreto-lei, por motivos de protecção do ambiente, nomeadamente de salvaguarda dos recursos hídricos.
 
 2 - O disposto no número anterior não dispensa a necessidade de obtenção de título de utilização dos recursos hídricos, sempre que o mesmo seja exigível nos termos do regime de utilização dos recursos hídricos, aprovado pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A licença a que se refere o n.º 1 do artigo anterior é atribuída pela administração da região hidrográfica (ARH) territorialmente competente na área onde se encontra o domicílio ou a sede social do requerente da licença, consoante esteja em causa uma pessoa singular ou colectiva.
 
 2 - Sempre que o requerente da licença seja uma pessoa singular ou colectiva residente ou estabelecida respectivamente noutro Estado membro da União Europeia ou do Espaço Económico Europeu, a licença é atribuída pela ARH junto da qual tenha sido entregue o pedido de licença.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A licença é emitida pelo prazo de cinco anos, sendo renovável por idênticos períodos a pedido do interessado.
 
 2 - Ao pedido de renovação da licença é aplicável o disposto no presente decreto-lei para o pedido de licença.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O pedido de licença é apresentado junto da ARH através de formulário electrónico devidamente preenchido e instruído com:
 
@@ -347,7 +369,9 @@ d) ...
 
 4 - No caso de o requerente não remeter à ARH todos os elementos ou informações solicitados no prazo de 30 dias contados da notificação de pedido de elementos ou informações, ou os juntar de forma deficiente ou insuficiente, o pedido de licença é liminarmente indeferido.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, a decisão de emissão de licença é proferida no prazo de 60 dias contados da data de apresentação do respectivo pedido, sob pena de deferimento tácito.
 
@@ -357,7 +381,9 @@ d) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O técnico responsável indicado pelo requerente no pedido deve possuir habilitações académicas adequadas para o exercício das suas funções.
 
@@ -365,7 +391,9 @@ d) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 9.º — Licença e alvará
+Artigo 9.º
+
+Licença e alvará
 
 Da licença e do respectivo alvará devem constar:
 
@@ -383,7 +411,9 @@ f) Os métodos de perfuração;
 
 g) (Revogada.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As autoridades licenciadoras organizam um cadastro das entidades licenciadas, do qual constam todos os elementos referidos no artigo 9.º
 
@@ -395,7 +425,9 @@ g) (Revogada.)
 
 5 - O titular da licença deve comunicar à respectiva autoridade licenciadora, no prazo de 30 dias, a substituição do seu técnico responsável, devendo a referida comunicação ser acompanhada de um termo de responsabilidade subscrito pelo novo técnico responsável.
 
-###### Artigo 14.º — Obrigações do titular da licença
+Artigo 14.º
+
+Obrigações do titular da licença
 
 1 - O titular da licença está obrigado a:
 
@@ -413,11 +445,15 @@ e) Manter, devidamente organizado e actualizado, um registo de todas as pesquisa
 
 3 - (Revogado.)
 
-###### Artigo 15.º — Reclamações
+Artigo 15.º
+
+Reclamações
 
 As eventuais reclamações, registadas nos termos da alínea b) do n.º 1 do artigo anterior, são remetidas pelo titular da licença à respectiva autoridade licenciadora no prazo máximo de 10 dias.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, o exercício de quaisquer trabalhos de pesquisa e captação de águas subterrâneas por quem não seja possuidor de licença válida emitida nos termos do presente decreto-lei.
 
@@ -447,7 +483,9 @@ d) O incumprimento da obrigação de remeter as eventuais reclamações à autor
 
 6 - A afectação do produto das coimas previstas no presente decreto-lei efectua-se nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
 
-###### Artigo 19.º — Sanções acessórias e apreensão cautelar
+Artigo 19.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infracção o justifique, a entidade competente para a aplicação da coima pode ainda determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
 
@@ -477,15 +515,15 @@ São revogados as subalíneas i) e ii) da alínea c) do n.º 1 do artigo 5.º, a
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 2011. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Fernando Pereira Serrasqueiro - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 3 de Junho de 2011.**
+Promulgado em 3 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2011.**
+Referendado em 6 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 133/2005, de 16 de Agosto
 

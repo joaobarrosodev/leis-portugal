@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/1999/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1999-390242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf170b6696b8a06d5aebd51b811e3d14bca766dfbcfc065a6a492c64541235ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a30e859fff7257acf907baa39699d3e6c242c28c5b38a64d0227048d9266873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
-- Região Autónoma
-- Publicidade
 - CEE
-- Multa
+- Comércio
+- Contra-ordenação
 - Criança
 - Direção Geral da Saúde
-- Contra-ordenação
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Instituto Nacional de Saúde Dr Ricardo Jorge
+- Multa
+- Produto Alimentar
 - Proteção do Consumidor
+- Publicidade
+- Região Autónoma
+- Saúde Pública
 - TAXA de Prestação de Serviços
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:246850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614351:por
+  label: "Aditada uma alínea c) ao nº 1 do art. 2º, adita um art. 4º-A e altera os nrs. 1 e 2 do art. 6º e a al. a) do nº\
+    \ 1 do art. 8º todos do presente diploma pelo DEC LEI.284/2000.2000.11.10.MS, DR.IS-A[260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-2000-614351
+  date: '2000-11-10'
+- type: amended_by
+  target: pt:dre:277844:por
+  label: "Alterados os arts. 1.º, 5.º, 7.º, 12.º, 15.º e 4.º-A e 8.º (estes últimos na redacção do Dec Lei 284/2000, de 10-Nov)\
+    \ assim como os anexos III e IV, e aditados o art. 4.º-B e os anexos VII e VIII, pelo DEC LEI.137/2004.05.06.2004.MS,\
+    \ DR.IS-A [132] de 05.06.2004, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2004-277844
+  date: '2004-06-05'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -103,16 +116,22 @@ relationships:
   target: celex:31998L0036
   label: null
   source: http://data.europa.eu/eli/dir/1998/36/oj
+- type: repealed_by
+  target: pt:dre:246850:por
+  label: "Revogado o presente diploma, alterado pelos Decretos-Leis 284/2000, de 10-Nov e 137/2004, de 05-Jun, pelo DEC LEI.53/2008.25.03.2008.MADRP,\
+    \ DR.IS [59] de 25.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2008-246850
+  date: '2008-03-25'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:26Z'
   warnings: []
   errors: []
 ---
@@ -297,15 +316,15 @@ Das decisões finais proferidas pela DGS nos termos dos artigos 6.º e 7.º dest
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Maio de 1999.**
+Promulgado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Junho de 1999.**
+Referendado em 9 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Composição dos alimentos à base de cereais destinados a lactentes e crianças de pouca idade
 
@@ -373,7 +392,7 @@ O teor de sódio dos alimentos à base de cereais não deve exceder 25 mg/100 kJ
 
 6.2 - No que respeita aos produtos referidos na alínea b) do n.º 3 do artigo 2.º:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
 
 Estes limites são igualmente aplicáveis se as vitaminas A e D forem adicionadas a outros alimentos à base de cereais.
 
@@ -477,7 +496,7 @@ A vitamina D não deve ser adicionada a alimentos para bebé.
 
 ## ANEXO III — Aminoácidos presentes na caseína
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
 
 ## ANEXO IV — Nutrientes
 
@@ -751,7 +770,7 @@ Iodato de sódio.
 
 ## ANEXO V — Valores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de pouca idade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
 
 ## ANEXO VI
 
@@ -759,4 +778,4 @@ Limites máximos de vitaminas, minerais e elementos vestigiais que podem ser adi
 
 Os requisitos relativos aos nutrientes aplicam-se aos produtos prontos a ser utilizados, assim comercializados ou reconstituídos de acordo com as instruções do fabricante, excepto no que respeita ao potássio e ao cálcio, em que os requisitos se referem ao produto na forma em que é vendido.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)](https://files.diariodarepublica.pt/1s/1999/06/145a00/37693775.pdf)

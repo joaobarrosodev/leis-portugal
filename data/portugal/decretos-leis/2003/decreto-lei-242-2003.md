@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/232a00/66006601.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2003/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2003-482627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 506b42032de1768a1271c6638ce215cec501266c468891b865c3ddef9276a59f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c409c2c9b33f0fdac53a36505f16ec4fb7c56cc633a0a2c4f38cd6aeb3997506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Diploma
-- Equivalência de Habilitações Literárias
 - Direito de Estabelecimento
+- Equivalência de Habilitações Literárias
 - Livre Prestação de Serviços
 - Veterinário
 relationships:
@@ -101,16 +101,21 @@ relationships:
   target: celex:32001L0019
   label: null
   source: http://data.europa.eu/eli/dir/2001/19/oj
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:41Z'
   warnings: []
   errors: []
 ---
@@ -151,33 +156,39 @@ Títulos adquiridos na União Europeia
 
 2 - O certificado deve atestar que esses diplomas, certificados e outros títulos sancionam uma formação conforme às disposições do presente diploma e são equiparados pelo Estado membro que os emitiu àqueles cujas denominações constam do presente diploma.
 
-###### Artigo 4.º-B — Títulos adquiridos fora da União Europeia
+Artigo 4.º-B
+
+Títulos adquiridos fora da União Europeia
 
 1 - As autoridades competentes devem examinar os diplomas, certificados e outros títulos, no âmbito do presente diploma, adquiridos fora da União Europeia, se estes tiverem sido reconhecidos num Estado membro, bem como a formação e ou a experiência profissional nele adquiridas.
 
 2 - A decisão das autoridades competentes deve ser tomada no prazo de três meses a contar da apresentação do processo completo por parte do interessado.
 
-###### Artigo 9.º-A — Indeferimento
+Artigo 9.º-A
+
+Indeferimento
 
 1 - O indeferimento relativo aos pedidos de reconhecimento de diplomas, certificados e outros títulos no âmbito do presente diploma deve ser devidamente fundamentado.
 
 2 - O indeferimento e falta de decisão no prazo de três meses são passíveis de recurso à via judicial.»
 
-###### Artigo 3.º — Anexo I
+###### Artigo 3.º
+
+## Anexo I
 
 O anexo I do Decreto-Lei n.º 399/89, de 10 de Novembro, é substituído pelo anexo I do presente diploma, que dele faz parte integrante.
 
 Visto e aprovado em Conselho de Ministros de 21 de Agosto de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria.
 
-**Promulgado em 24 de Setembro de 2003.**
+Promulgado em 24 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2003.**
+Referendado em 25 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Lista das denominações dos diplomas, certificados e outros títulos de veterinários
 

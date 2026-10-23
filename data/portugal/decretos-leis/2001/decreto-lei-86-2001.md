@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/065a00/15131518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2001/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2001-388184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20551a9e2bfdb9e324426b1a372376233fd918384c13f5add75e8bbd0f202ac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71ce16592a19201fd25750cdcc9ccda3883414a2f0bce13a34e0b9f358948c11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Ministério da Justiça
-- Integração de Trabalhadores
 - Gabinete de Direito Europeu
 - Gabinete para as Relações Internacionais Europeias e de Cooperação
+- Integração de Trabalhadores
+- Ministério da Justiça
 - Orgânica
 - Quadro de Pessoal
 relationships:
@@ -77,6 +77,13 @@ relationships:
   target: pt:dre:521000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521000:por
+  label: "Determinada a sucessão da Direcção Geral da Política da Justiça (DGPJ) nas atribuições do GRIEC, cujo diploma orgânico\
+    \ consta do presente diploma, que é revogado a partir de 01.05.2007 pelo DEC LEI.123/2007.27.04.2007.MJ, DR.IS [82] de\
+    \ 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2007-521000
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -89,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632929:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:26Z'
   warnings: []
   errors: []
 ---
@@ -371,7 +394,9 @@ g) Promover a realização das traduções que se mostrem indispensáveis ao fun
 
 2 - O Serviço de Documentação e Informação é dirigido por um chefe de divisão.
 
-###### Artigo 13.º — Divisão Administrativa e Financeira
+###### Artigo 13.º
+
+##### Divisão Administrativa e Financeira
 
 1 - Compete à Divisão Administrativa e Financeira:
 
@@ -475,15 +500,15 @@ O presente diploma entra em vigor no dia subsequente ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 5 de Março de 2001.**
+Promulgado em 5 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Março de 2001.**
+Referendado em 8 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

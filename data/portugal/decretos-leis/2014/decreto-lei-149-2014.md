@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19600/0519505203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/149/2014/10/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2014-58248462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d7280df6902071ab4ab284e86f9f3c43254a1fe9b6992142854dc20ee7c060a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d822bc2305846f915e0efc0a5c65f585102466ea4919fb3c998c02e37fe05e68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embarcação
-- Turismo
 - Embarcação de Recreio
-- Regulamento
 - Navegação de Recreio
 - Navegação Marítima
+- Regulamento
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -112,16 +112,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/95/2013/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2013/07/19/p/dre
+- type: cites
+  target: pt:dre:147611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659920:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:12Z'
   warnings: []
   errors: []
 ---
@@ -180,15 +256,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de julho de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Berta Maria Correia de Almeida de Melo Cabral - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 3 de outubro de 2014.**
+Promulgado em 3 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de outubro de 2014.**
+Referendado em 6 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -506,13 +582,13 @@ e) A validade que deve coincidir com o período de aluguer.
 
 8 - O capital obrigatório do seguro de responsabilidade civil previsto no artigo 14.º do Regulamento é de (euro) 500 000 por embarcação, para o aluguer de embarcações de recreio nas condições previstas no presente anexo.
 
-## APÊNDICE I
+APÊNDICE I
 
 Modelo de título de dispensa referido no anexo I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19600/0519505203.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19600/0519505203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19600/0519505203.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Manual de operação e segurança
 

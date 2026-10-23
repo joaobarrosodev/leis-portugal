@@ -4,7 +4,7 @@ id: pt:dre:642527:por
 title: Decreto-Lei n.º 324/2007
 short_title: null
 summary: Altera o Código do Registo Civil, o Código Civil, o Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, o Código do Notariado,
-  os Decretos-Leis n.os 272/2001, de 13 de Outubro, e 236/2001, de 30 de Agosto, e o Regulamento Emolumentar dos Registos
+  os Decretos-Leis n.os 272/2001, de 13 de Outubro,  e 236/2001, de 30 de Agosto, e o Regulamento Emolumentar dos Registos
   e do Notariado
 jurisdiction: portugal
 territory: null
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/324/2007/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da5f66a4435ea090e489d5f87cea25787ca6fad71160409ecf9e908177c8274f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f2e4c2383933f9ce3b4099a5bfc9e68ea5452e876e287676dce7c7bb699ab36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,47 +67,192 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Património
-- Cidadão Estrangeiro
+- Base de Dados
+- Casamento
 - Certidão
+- Cidadão Estrangeiro
 - Código Civil
 - Código do Imposto do SELO
 - Código do Notariado
 - Código do Registo Civil
-- Liberdade Religiosa
+- Comissão da Liberdade Religiosa
 - Conservador
-- Serviços de Registo e Notariado
 - Conservatória do Registo Comercial
-- Instituto dos Registos e do Notariado
 - Conservatória dos Registos Centrais
 - Correio Electrónico
 - Definição de Competências
-- Separação Judicial
+- Direito à Informação
 - Direito Sucessório
 - Divórcio
 - Doação
 - Documento Autentico
-- Pagamento
-- Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Veículo
-- Comissão da Liberdade Religiosa
-- Instituto das Tecnologias de Informação na Justiça
 - Funcionário Diplomático
+- Instituto das Tecnologias de Informação na Justiça
+- Instituto dos Registos e do Notariado
+- Inventário
+- Liberdade Religiosa
 - Notário
+- Óbito
+- Pagamento
+- Património
+- Recurso
 - Registo Civil
 - Regulamento Emolumentar dos Registos e Notariado
-- Inventário
-- Casamento
-- Óbito
+- Segurança da Informação
+- Separação Judicial
+- Serviços de Registo e Notariado
 - Testamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 9º e 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001,\
+    \ de 14-Dez, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:439097:por
+  label: "Alterado o art. 272º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pela LEI.61/2008.31.10.2008.AR, DR.IS [212] de 31.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/61-2008-439097
+  date: '2008-10-31'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterados os art.s 163º, 210º -A, 210º -C, 210º -G, 210º -H, 215º, 272º -A e 272º -C do Código do Registo Civil,\
+    \ aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS\
+    \ [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 26.º do Código do Imposto de Selo, aprovado pela Lei 150/99 de 11-Set, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 287/2003 de 12-Nov, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado o art. 8º, com produção de efeitos desde 31.03.2009, do Dec Lei 322-A/2001, de 14-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: amended_by
+  target: pt:dre:491936:por
+  label: "Alterados, a partir de 18.07.2010 (alteração da data da entrada em vigor efectuada pela Lei n.º 1/2010, de 15 de\
+    \ Janeiro), os arts. 202º-A , 202º-B e 210º do Código do Registo Civil aprovado pelo Dec Lei 131/95 de 06-Jun, com a redacção\
+    \ constante do presente diploma, pela LEI.29/2009.29.06.2009.AR, DR.IS [123] de 29.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2009-491936
+  date: '2009-06-29'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterado, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, o art. 78.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95, de 06-Jun, na redacção do presente\
+    \ diploma, pela LEI.103/2009.11.09.2009.AR, DR.IS [177] de 11.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:344272:por
+  label: "Alterados, a partir de 01.10.2010, os arts. 10º, 18º e 28º do Regulamento Emolumentar dos Registos e Notariado,\
+    \ aprovado pelo Dec Lei 322-A/2001 de 14-Dez, com a redacção do presente diploma, pelo DEC LEI.99/2010.02.09.2010.MJ,\
+    \ DR.IS [171] de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2010-344272
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 26º do Código do Imposto do Selo, aprovado pela Lei 150/99, de 11-Set, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterado o art. 8º do diploma prembular bem como os art.s 18º e 28º do Regulamento Emolumentar dos Registos e do\
+    \ Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ,\
+    \ DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:190576:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez,
+    com a redação dada pelo presente diploma, pela LEI.63/2012.10.12.2012.AR, DR.IS [238] de 10.12.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2012-190576
+  date: '2012-12-10'
+- type: amended_by
+  target: pt:dre:259267:por
+  label: "Alterados, a partir de 02.09.2013, os art.s 202.º-A, 202.º-B, e 210.º, na redação do presente diploma, pela LEI.23/2013.05.03.2013.AR,\
+    \ DR.IS [45] de 05.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2013-259267
+  date: '2013-03-05'
+- type: amended_by
+  target: pt:dre:499517:por
+  label: "Alterado a partir de 01.09.2013, o art. 14º do Dec Lei 272/2001, de 13-out, na redação do presente diploma, pelo\
+    \ DEC LEI.122/2013.26.08.2013.MJ, DR.IS [163] de 26.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2013-499517
+  date: '2013-08-26'
+- type: amended_by
+  target: pt:dre:66414231:por
+  label: Alterado a partir de 03.06.2015 o art. 8º do Dec Lei 322-A/2001, de 14-dez, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 19/2015 - Diário da República n.º 23/2015, Série I de 2015-02-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2015-66414231
+  date: '2015-02-03'
+- type: amended_by
+  target: pt:dre:69992902:por
+  label: Alterados os arts 207.º (na redação do presente diploma) e 208.º do Código do Registo Civil aprovado pelo Dec Lei
+    131/95 de 06-jun DR.IS-A [131] pelo(a) Lei n.º 90/2015 - Diário da República n.º 156/2015, Série I de 2015-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/90-2015-69992902
+  date: '2015-08-12'
+- type: amended_by
+  target: pt:dre:70215247:por
+  label: Alterado (a partir de 07.12.2015), o art. 1987.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-nov 1966, na
+    redação do presente diploma, pelo(a) Lei n.º 143/2015 - Diário da República n.º 175/2015, Série I de 2015-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/143-2015-70215247
+  date: '2015-09-08'
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterados, a partir de 01.11.2015, os arts. 10.º, 18.º e 19.º do Regulamento Emolumentar dos Registos e do Notariado,
+    aprovado pelo Dec Lei 322-A/2001 de 14-dez, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 201/2015
+    - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:73740375:por
+  label: Alterado o art. 1.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95 de 06-jun, republicado pelo presente
+    diploma, pelo(a) Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2016-73740375
+  date: '2016-02-29'
+- type: amended_by
+  target: pt:dre:114358690:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez,
+    na redação do presente diploma pelo(a) Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2017-114358690
+  date: '2017-12-15'
+- type: amended_by
+  target: pt:dre:115578234:por
+  label: Alterados os arts. 49.º, 112.º, 118.º e 126.º do Código do Registo Civil, aprovado pelo Dec Lei 131/95 de 06-jun,
+    na versão alterada e republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 51/2018 - Diário da República n.º 120/2018,
+    Série I de 2018-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2018-115578234
+  date: '2018-06-25'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Alterados, a partir de 10.02.2019, os arts. 1633.º e 1857.º do Código Civil, aprovado pelo Dec Lei 47344 de 25-nov
+    1966, com a redação dada pelo presente diploma, pelo(a) Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de
+    2018-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: amends
+  target: pt:numero:decreto-lei:236/2001
+  label: "Altera os artigos 2.º e 3.º do Decreto-Lei n.º 236/2001, de 30 de Agosto, DR.IS-A [201]\0\0"
+  source: null
+  date: '2001-08-30'
+- type: amends
+  target: pt:numero:decreto-lei:272/2001
+  label: "Altera os artigos 6.º, 12.º e 14.º e revoga o n.º 2 do artigo 6.º do Decreto-Lei n.º 272/2001, de 13 de Outubro,\
+    \ DR.IS-A [238]\0\0"
+  source: null
+  date: '2001-10-13'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -148,16 +293,403 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/375-a/1999/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/375-a/1999/09/20/p/dre
+- type: cites
+  target: pt:dre:145862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:628488:por
+  label: "Rectificado o presente diploma legal bem como o respectivo anexo pela DECL-RECT.107/2007.27.11.2007.PCM, DR.IS [228]\
+    \ de 27.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/107-2007-628488
+  date: '2007-11-27'
+- type: repealed_by
+  target: pt:dre:487360:por
+  label: "Revogado o nº 2 do art. 24º, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
 article_structure:
-  article_count: 564
-  section_count: 89
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 369
+  section_count: 87
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:11Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +770,9 @@ Os artigos 5.º, 6.º, 10.º, 11.º, 12.º, 13.º 14.º, 15.º, 16.º, 17.º, 40
 
 5 - Os assentos e processos de registo consulares devem ser disponibilizados na base de dados do registo civil nacional, nos termos definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da justiça.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +782,9 @@ Os artigos 5.º, 6.º, 10.º, 11.º, 12.º, 13.º 14.º, 15.º, 16.º, 17.º, 40
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +802,9 @@ e) De casamento urgente, em viagem, a bordo de navio ou aeronave portugueses, qu
 
 3 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -292,11 +830,15 @@ i) (Revogado.)
 
 3 - ...
 
-###### Artigo 12.º — Competência das conservatórias
+Artigo 12.º
+
+Competência das conservatórias
 
 Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória, salvo disposição especial que fixe a conservatória competente.
 
-###### Artigo 13.º — Intermediação com a Conservatória dos Registos Centrais
+Artigo 13.º
+
+Intermediação com a Conservatória dos Registos Centrais
 
 1 - Os requerimentos, declarações e documentos para a instrução de actos e processos de registo destinados à Conservatória dos Registos Centrais podem ser apresentados por intermédio de qualquer conservatória do registo civil, a qual procede ao seu envio imediato, por via informática.
 
@@ -306,7 +848,9 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 4 - Se as declarações tiverem deficiências, a conservatória referida no número anterior solicita, de imediato, a sua rectificação aos interessados sem o pagamento de encargos adicionais, podendo a rectificação ser promovida em qualquer conservatória do registo civil.
 
-###### Artigo 14.º — Suportes dos actos das conservatórias
+Artigo 14.º
+
+Suportes dos actos das conservatórias
 
 1 - Os actos e processos de registo civil, bem como os restantes procedimentos que corram termos nas conservatórias são lavrados em suporte informático, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
 
@@ -316,7 +860,9 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 4 - (Revogado.)
 
-###### Artigo 15.º — Reconstituição de actos e processos de registo
+Artigo 15.º
+
+Reconstituição de actos e processos de registo
 
 1 - Quando se inutilizar algum suporte de acto ou processo de registo, deve proceder-se à reconstituição do acto ou processo, nos termos a regular por portaria do membro do Governo responsável pela área da justiça.
 
@@ -326,13 +872,17 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 4 - (Revogado.)
 
-###### Artigo 16.º — Arquivo de documentos
+Artigo 16.º
+
+Arquivo de documentos
 
 1 - Os processos e documentos que serviram de base à realização de registos, ou que lhes respeitem, são arquivados, devendo o arquivo ser efectuado por via electrónica, nos termos a determinar pelo presidente do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)
 
 2 - Os documentos físicos arquivados nas conservatórias só podem ser retirados das mesmas mediante autorização do presidente do IRN, I. P., salvo caso de força maior ou noutros casos expressamente previstos na lei.
 
-###### Artigo 17.º — Destruição de documentos
+Artigo 17.º
+
+Destruição de documentos
 
 1 - Todos os documentos que tenham sido digitalizados devem ser destruídos imediatamente.
 
@@ -342,7 +892,9 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 4 - Podem ser destruídas, desde que tenham mais de um ano, as certidões de sentenças proferidas ou revistas e confirmadas por tribunais portugueses, bem como as certidões de decisões proferidas pelos conservadores que tenham servido de base a averbamentos.
 
-###### Artigo 40.º — Identificação do declarante
+Artigo 40.º
+
+Identificação do declarante
 
 1 - Os declarantes são identificados, no texto dos assentos em que intervieram, mediante a menção do seu nome completo e residência habitual.
 
@@ -352,7 +904,9 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 4 - (Revogado.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A intervenção de indivíduos surdos, mudos ou surdos-mudos em actos de registo só pode fazer-se, consoante os casos, mediante a leitura dos assentos e documentos pelos próprios, ou por intérprete idóneo que, sob juramento legal, seja nomeado no acto.
 
@@ -360,11 +914,15 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 3 - Dos actos lavrados com intervenção de intérprete, identificado pelo nome completo, deve constar a menção de que o mesmo prestou juramento legal.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 Quando alguma das partes não conhecer a língua portuguesa e o funcionário não dominar o idioma em que a parte se exprime, deve ser nomeado um intérprete, nos termos e para os fins previstos no artigo anterior.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +934,9 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 5 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -386,13 +946,17 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 4 - À identificação das testemunhas é aplicável o disposto no artigo 40.º
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Em qualquer assento só podem ser testemunhas pessoas idóneas e maiores ou emancipadas.
 
 2 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -400,7 +964,9 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 3 - Ao conservador que exerça a advocacia é vedado aceitar mandato nos processos previstos nos artigos 253.º, 255.º, 266.º e 271.º
 
-###### Artigo 48.º — Instrução de actos e processos de registo
+Artigo 48.º
+
+Instrução de actos e processos de registo
 
 1 - Para a instrução de actos e processos de registo é dispensada a apresentação de certidões de actos ou documentos, sempre que estes estejam disponíveis na base de dados do registo civil ou tenham sido lavrados ou se encontrem arquivados na conservatória onde foi requerido o acto ou processo.
 
@@ -412,7 +978,9 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 5 - A conservatória é reembolsada pelo requerente do acto ou processo das despesas resultantes dos pagamentos devidos às entidades referidas no número anterior.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -430,7 +998,9 @@ Quando alguma das partes não conhecer a língua portuguesa e o funcionário nã
 
 8 - Os documentos referidos no n.º 1, quando escritos em língua estrangeira, devem ser acompanhados de tradução feita ou certificada nos termos previstos na lei.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - São lavrados por transcrição:
 
@@ -450,7 +1020,9 @@ f) Os assentos de factos cujo registo tenha sido realizado pelos funcionários o
 
 3 - Exceptuam-se do disposto na alínea c) do n.º 1 os casamentos católicos celebrados entre cônjuges já vinculados por casamento civil não dissolvido.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Os assentos referentes a portugueses realizados no estrangeiro pelos agentes diplomáticos ou consulares são lavrados em suporte informático e disponibilizados na base de dados do registo civil nacional, sem prejuízo do disposto no n.º 3 do artigo 5.º
 
@@ -458,7 +1030,9 @@ f) Os assentos de factos cujo registo tenha sido realizado pelos funcionários o
 
 3 - (Revogado.)
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Além dos requisitos privativos de cada espécie, os assentos devem conter os seguintes elementos:
 
@@ -476,7 +1050,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 3 - (Revogado.)
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -488,7 +1064,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 5 - A transcrição pode também ser completada, por averbamento, quanto a outras menções que não interessem à substância do acto, com base nas declarações dos interessados, provadas documentalmente.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Os assentos são lavrados nas conservatórias ou, mediante pedido verbal dos interessados, nas unidades de saúde ou em qualquer outro lugar a que o público tenha acesso.
 
@@ -496,7 +1074,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 3 - (Revogado.)
 
-###### Artigo 61.º — Elaboração dos assentos e aposição do nome do funcionário
+Artigo 61.º
+
+Elaboração dos assentos e aposição do nome do funcionário
 
 1 - Os assentos podem ser lavrados pelo conservador ou por oficial de registos.
 
@@ -508,13 +1088,17 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 5 - Se de um assento não constar a aposição do nome do conservador ou oficial, o conservador que notar a omissão deve apor nele o seu nome, mencionando a omissão e a data em que foi suprida, se em face de documentos ou de diligências efectuadas obtiver elementos que permitam concluir que o registo estava em condições de ser lavrado.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Nenhuma alteração pode ser introduzida no texto dos registos após a aposição do nome do conservador ou do oficial de registos.
 
 2 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Na sequência do texto dos assentos, além das cotas especiais previstas neste Código, deve constar o número atribuído ao processo que contém os documentos que serviram de base ao assento.
 
@@ -524,13 +1108,17 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 4 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - As alterações ao conteúdo dos assentos que devam ser registadas são lançadas na sequência do texto, por meio de averbamento.
 
 2 - (Revogado.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -540,7 +1128,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 4 - Os averbamentos são lançados imediatamente após a realização do acto.
 
-###### Artigo 74.º — Aposição do nome do funcionário
+Artigo 74.º
+
+Aposição do nome do funcionário
 
 1 - Os averbamentos devem conter a aposição do nome do conservador ou de oficial de registos.
 
@@ -548,7 +1138,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 3 - Se após a feitura do averbamento se concluir que não é possível a aposição do nome do funcionário, deve ser mencionada, de forma sucinta, a razão por que o averbamento fica incompleto.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Compete à conservatória que lavrar o assento de que decorra averbamento efectuar as diligências necessárias à localização do assento a que o facto deva ser averbado.
 
@@ -562,7 +1154,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 6 - (Revogado.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - O tribunal deve comunicar a qualquer conservatória do registo civil, sempre que possível por via electrónica, as decisões proferidas em acções respeitantes a factos sujeitos a registo que devam ser averbados, salvo o disposto no artigo 274.º
 
@@ -570,7 +1164,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 3 - O disposto no n.º 1 não prejudica a possibilidade de o presidente do IRN, I. P., determinar a distribuição por outras conservatórias do serviço de registo das decisões judiciais comunicadas.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - A omissão de averbamento deve ser suprida oficiosamente, qualquer que seja a data da verificação do facto a averbar, solicitando-se a remessa dos documentos necessários, se for caso disso.
 
@@ -580,7 +1176,9 @@ e) Aposição do nome do conservador ou oficial de registos, precedida da design
 
 4 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - O registo é juridicamente inexistente quando:
 
@@ -596,7 +1194,9 @@ d) ...
 
 3 - A falta de aposição do nome do funcionário não é causa de inexistência do registo se a omissão for sanada nos termos do n.º 5 do artigo 61.º
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 O registo é nulo quando:
 
@@ -608,7 +1208,9 @@ c) Contiver a aposição do nome de quem não tenha competência funcional para 
 
 d) ...
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 A falsidade do registo só pode consistir em:
 
@@ -620,7 +1222,9 @@ c) ...
 
 d) ...
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -636,7 +1240,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -648,7 +1254,9 @@ d) ...
 
 5 - Tratando-se de registo lavrado por inscrição, se a rectificação se mostrar necessária logo após a aposição do nome do funcionário, deve fazer-se imediatamente por meio de declaração lavrada pelo conservador ou oficial no seguimento do registo, com aposição do respectivo nome.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - A rectificação administrativa de um registo irregular é feita, sempre que possível, mediante simples despacho do conservador, bem como nos casos seguintes:
 
@@ -668,13 +1276,17 @@ b) Face aos documentos comprovativos da irregularidade, o conservador verifique 
 
 3 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O nascimento deve ainda ser declarado, nos mesmos termos, na unidade de saúde para onde a parturiente tenha sido transferida, desde que seja possível declarar o nascimento.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - A declaração de nascimento compete, obrigatória e sucessivamente, às seguintes pessoas e entidades:
 
@@ -692,13 +1304,17 @@ e) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
 2 - Para a declaração de nascimento ocorrido há mais de 14 anos, deve ser exigida a intervenção de duas testemunhas e, se possível, ser exibido documento que comprove a exactidão da declaração, podendo o conservador promover as diligências necessárias ao apuramento dos factos.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Se o nascimento for simultaneamente declarado com o óbito, deve fazer-se constar do assento de nascimento, lavrado com as formalidades normais, que o registando já faleceu, sendo imediatamente lavrado o assento de óbito.
 
@@ -706,7 +1322,9 @@ e) (Revogada.)
 
 3 - ...
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - É competente para lavrar o registo de nascimento qualquer conservatória do registo civil, a unidade de saúde onde ocorreu o nascimento ou aquela para onde a parturiente tenha sido transferida, desde que seja possível declará-lo na unidade de saúde.
 
@@ -714,7 +1332,9 @@ e) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
@@ -730,7 +1350,9 @@ e) (Revogada.)
 
 7 - ...
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - O nome fixado no assento de nascimento só pode ser modificado mediante autorização do conservador dos Registos Centrais.
 
@@ -760,27 +1382,37 @@ f) A alteração que consista na mera adopção do nome inicialmente pretendido 
 
 8 - As alterações de nome dos registados averbadas aos respectivos assentos de nascimento são comunicadas ao serviço de identificação nos termos estabelecidos por despacho do presidente do IRN, I. P.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - O assento de nascimento de abandonado é lavrado em qualquer conservatória do registo civil, com os elementos extraídos do auto referido no artigo anterior e nos termos do artigo 102.º, com as necessárias adaptações.
 
 2 - ...
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 Se o nascimento tiver ocorrido em viagem por terra dentro do território nacional, o registo de nascimento pode ser lavrado em qualquer conservatória do registo civil.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 Se a pretensa mãe confirmar, em juízo, a maternidade, o tribunal deve remeter certidão do termo respectivo a qualquer conservatória do registo civil para averbamento ao assento de nascimento do filho.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - ...
 
 2 - Salvo o caso previsto no artigo 119.º, não são admissíveis no registo de nascimento menções que contrariem a presunção de paternidade enquanto esta não cessar.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - ...
 
@@ -790,11 +1422,15 @@ Se a pretensa mãe confirmar, em juízo, a maternidade, o tribunal deve remeter 
 
 4 - ...
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 Qualquer conservatória do registo civil é competente para a organização do processo preliminar de casamento.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - Aqueles que pretendam contrair casamento devem declará-lo, pessoalmente ou por intermédio de procurador, numa conservatória do registo civil e requerer a instauração do processo de casamento.
 
@@ -806,7 +1442,9 @@ Qualquer conservatória do registo civil é competente para a organização do p
 
 5 - Os nubentes podem apresentar cumulativamente no processo preliminar de casamento o pedido de qualquer um dos processos previstos nos artigos 253.º e 255.º, bem como o pedido de suprimento de certidão de registo regulado nos artigos 266.º e seguintes.
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 1 - A declaração para casamento deve constar de documento com aposição do nome do funcionário do registo civil ou de documento assinado pelos nubentes e apresentado pessoalmente, pelo correio ou por via electrónica, nos termos a regulamentar em portaria do membro do Governo responsável pela área da justiça.
 
@@ -836,7 +1474,9 @@ l) (Revogada.)
 
 m) (Revogada.)
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - A declaração inicial deve ser instruída com os seguintes documentos:
 
@@ -872,7 +1512,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 8 - Após a declaração inicial, mas antes da celebração do casamento civil ou da passagem do certificado necessário para realização do casamento católico, sem prejuízo do disposto no n.º 2 do artigo 147.º e no n.º 3 do artigo 167.º, pode ser comprovada, por acesso à base de dados do registo civil, a celebração de convenção antenupcial perante conservador ou apresentada a certidão de escritura de convenção antenupcial.
 
-###### Artigo 140.º — Publicidade do processo
+Artigo 140.º
+
+Publicidade do processo
 
 1 - O processo preliminar de casamento é público na parte que respeita à declaração dos elementos previstos nas alíneas a), b), c) e f) do n.º 2 do artigo 136.º, sem prejuízo do disposto no n.º 3 do artigo 143.º
 
@@ -884,7 +1526,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 5 - (Revogado.)
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - ...
 
@@ -892,7 +1536,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 3 - No caso previsto no número anterior, a tramitação do processo é suspensa até que o impedimento cesse, seja dispensado ou julgado improcedente por decisão judicial.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - ...
 
@@ -902,7 +1548,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 4 - No caso de ter sido declarada a pretensão de celebração de casamento civil sob forma religiosa, o conservador deve efectuar diligências no sentido de assegurar que os nubentes têm conhecimento do disposto nos artigos 1577.º, 1600.º, 1671.º e 1672.º do Código Civil.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - Efectuadas as diligências necessárias, o conservador, no prazo de um dia a contar da última diligência, deve proferir despacho a autorizar os nubentes a celebrar o casamento ou a mandar arquivar o processo.
 
@@ -912,7 +1560,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 4 - ...
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Se o despacho do conservador for favorável, o casamento deve celebrar-se dentro dos seis meses seguintes.
 
@@ -922,7 +1572,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 1 - Se os nubentes, na declaração inicial ou posteriormente, houverem manifestado a intenção de celebrar casamento católico ou casamento civil sob forma religiosa, é passado pelo conservador, dentro do prazo de um dia, um certificado no qual se declara que os nubentes podem contrair casamento.
 
@@ -936,7 +1588,9 @@ b) A competência dos órgãos para a emissão dos documentos previstos no núme
 
 6 - (Revogado.)
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - O certificado deve conter as menções seguintes:
 
@@ -962,19 +1616,25 @@ h) O número, ano e conservatória detentora dos assentos de nascimento dos nube
 
 4 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - A conservatória que tiver emitido o certificado deve comunicar ao respectivo pároco ou ministro do culto os impedimentos de que posteriormente tenha conhecimento, a fim de que seja sustada a celebração do casamento.
 
 2 - Qualquer conservatória que tenha conhecimento de impedimentos que obstem à celebração do casamento deve fazer constar do processo os documentos que os comprovem.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - ...
 
 2 - O documento comprovativo da autorização ou do seu suprimento é junto ao processo preliminar de casamento.
 
-###### Artigo 150.º — [...]
+Artigo 150.º
+
+[...]
 
 1 - O consentimento, prestado pessoalmente ou por procurador, pode revestir uma das formas seguintes:
 
@@ -990,25 +1650,33 @@ d) ...
 
 3 - ...
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - ...
 
 2 - Exceptuam-se os casamentos in articulo mortis, na iminência de parto ou cuja imediata celebração seja expressamente autorizada pelo ordinário próprio por grave motivo de ordem moral, os quais podem celebrar-se independentemente de processo preliminar de casamento e da passagem do certificado.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
 2 - Para a organização do processo preliminar de casamento são competentes os agentes diplomáticos ou consulares portugueses da residência dos nubentes ou qualquer conservatória do registo civil.
 
-###### Artigo 153.º — Dia, hora e local
+Artigo 153.º
+
+Dia, hora e local
 
 1 - O dia, hora e local da celebração devem ser acordados entre os nubentes e o conservador.
 
 2 - Qualquer conservador do registo civil é competente para a celebração do casamento, independentemente da freguesia e concelho onde aquele deva ser celebrado.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - ...
 
@@ -1024,7 +1692,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - A celebração do casamento é pública e feita pela forma seguinte:
 
@@ -1040,7 +1710,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 Quando haja fundado receio de morte próxima de algum dos nubentes, ainda que derivada de circunstâncias externas, ou iminência de parto, o casamento pode celebrar-se independentemente do processo preliminar de casamento e sem a intervenção de funcionário do registo civil, desde que se observem as seguintes formalidades:
 
@@ -1050,7 +1722,9 @@ b) ...
 
 c) Redacção da acta do casamento, por documento escrito e sem formalidades especiais, assinado por todos os intervenientes que saibam e possam fazê-lo.
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - Apresentada a acta do casamento, o conservador do registo civil organiza oficiosamente, com base naquela, o processo preliminar de casamento nos termos dos artigos 134.º e seguintes, na parte aplicável, sendo dispensada a apresentação do documento de identificação.
 
@@ -1064,7 +1738,9 @@ c) Redacção da acta do casamento, por documento escrito e sem formalidades esp
 
 6 - (Revogado.)
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - O casamento não pode ser homologado nos seguintes casos:
 
@@ -1078,11 +1754,15 @@ d) ...
 
 2 - Se o casamento não for homologado, o despacho de recusa é notificado aos interessados, pessoalmente ou por carta registada.
 
-###### Artigo 162.º — Processo preliminar de casamento
+Artigo 162.º
+
+Processo preliminar de casamento
 
 O casamento de português, residente no estrangeiro ou em Portugal, previsto no artigo anterior, deve ser precedido do processo respectivo, organizado nos termos dos artigos 134.º e seguintes, pelos agentes diplomáticos ou consulares portugueses ou por qualquer conservatória do registo civil, excepto se dele estiver dispensado pela lei.
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 1 - O português residente em Portugal que pretenda casar no estrangeiro pode requerer a verificação da sua capacidade matrimonial e a passagem do respectivo certificado em qualquer conservatória do registo civil.
 
@@ -1092,7 +1772,9 @@ O casamento de português, residente no estrangeiro ou em Portugal, previsto no 
 
 4 - (Revogado.)
 
-###### Artigo 166.º — [...]
+Artigo 166.º
+
+[...]
 
 1 - O estrangeiro que pretenda celebrar casamento em Portugal, por qualquer das formas previstas neste Código, deve instruir o processo preliminar de casamento com certificado, passado há menos de seis meses, se outro não for o prazo de validade fixado pela entidade competente do país de que é nacional, destinado a provar que, de harmonia com a sua lei pessoal, nenhum impedimento obsta à celebração do casamento.
 
@@ -1100,7 +1782,9 @@ O casamento de português, residente no estrangeiro ou em Portugal, previsto no 
 
 3 - Caso o conservador ou o oficial de registos tenha dúvidas sobre a declaração prevista no número anterior, deve supri-las ouvindo duas testemunhas.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - O assento paroquial do casamento católico é lavrado em duplicado no livro de registo ou em arquivo electrónico da paróquia, logo após a celebração do matrimónio, e deve conter as seguintes indicações:
 
@@ -1132,7 +1816,9 @@ j) ...
 
 5 - Tratando-se de casamento celebrado com dispensa do processo preliminar respectivo, mediante autorização do ordinário próprio, deve mencionar-se no assento esta circunstância e a data da autorização.
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - O pároco da paróquia da celebração do casamento deve, no prazo de três dias, enviar a uma conservatória do registo civil, nos termos do artigo 171.º, o duplicado do assento paroquial, a fim de ser transcrito.
 
@@ -1148,7 +1834,9 @@ j) ...
 
 7 - As comunicações previstas no presente artigo devem ser efectuadas, sempre que possível, por via electrónica.
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 A obrigação de remessa do duplicado não é aplicável:
 
@@ -1156,7 +1844,9 @@ a) Ao casamento de consciência, cujo assento só pode ser transcrito perante ce
 
 b) ...
 
-###### Artigo 171.º — [...]
+Artigo 171.º
+
+[...]
 
 1 - Qualquer conservatória do registo civil é competente para a transcrição do assento de casamento católico.
 
@@ -1164,7 +1854,9 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - O conservador deve efectuar a transcrição do duplicado ou da certidão do assento paroquial dentro do prazo de um dia e comunicá-la ao pároco, se possível por via electrónica, até ao termo do dia imediato àquele em que foi feita.
 
@@ -1172,7 +1864,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 173.º — Transcrição na ausência de processo preliminar de casamento
+Artigo 173.º
+
+Transcrição na ausência de processo preliminar de casamento
 
 1 - Se o casamento não tiver sido precedido do processo respectivo, a transcrição só se efectua depois de organizado o processo, nos termos dos artigos 134.º e seguintes, substituindo-se a declaração dos nubentes pelo duplicado ou pela certidão do assento canónico, sendo dispensada a apresentação dos documentos de identificação.
 
@@ -1188,7 +1882,9 @@ b) ...
 
 7 - (Revogado.)
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - A transcrição do casamento católico deve ser recusada nos seguintes casos:
 
@@ -1210,7 +1906,9 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 
 5 - ...
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - ...
 
@@ -1220,19 +1918,25 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 
 4 - As comunicações referidas nos n.os 1 e 2 devem, sempre que possível, ser efectuadas por via electrónica.
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - O casamento católico celebrado entre cônjuges já vinculados entre si por casamento civil anterior não dissolvido é averbado oficiosamente ao assento deste em face de duplicado ou certidão do assento paroquial, enviada pelo pároco ou a requerimento dos interessados, independentemente do processo de casamento.
 
 2 - O envio realizado pelo pároco previsto no número anterior é efectuado, sempre que possível, por via electrónica.
 
-###### Artigo 180.º — [...]
+Artigo 180.º
+
+[...]
 
 1 - O assento de casamento civil não urgente celebrado em Portugal pela forma estabelecida neste Código é lavrado e lido em voz alta pelo funcionário, que nele apõe o seu nome, logo após a celebração do casamento.
 
 2 - (Revogado.)
 
-###### Artigo 182.º — Assento de casamento
+Artigo 182.º
+
+Assento de casamento
 
 1 - O despacho do conservador que homologar o casamento civil urgente deve fixar, de acordo com a acta do casamento, completado pelos documentos juntos ao processo preliminar de casamento e pelas diligências efectuadas, os elementos que o assento deve conter, em conformidade com o disposto no artigo anterior.
 
@@ -1240,7 +1944,9 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 
 3 - (Revogado.)
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - O casamento celebrado no estrangeiro entre dois portugueses, ou entre português e estrangeiro, é registado no consulado competente.
 
@@ -1248,7 +1954,9 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 
 3 - ...
 
-###### Artigo 185.º — Processo preliminar de casamento
+Artigo 185.º
+
+Processo preliminar de casamento
 
 1 - Se o casamento não tiver sido precedido do processo respectivo, a transcrição é subordinada à prévia organização de tal processo, aplicando-se o disposto nos artigos 134.º e seguintes, com excepção do disposto nas alíneas a) do n.º 1 e b) do n.º 4 do artigo 137.º
 
@@ -1256,7 +1964,9 @@ e) Se, tratando-se de casamento legalmente celebrado sem precedência do process
 
 3 - A transcrição é recusada se, pelo processo preliminar de casamento ou por outro modo, o cônsul verificar que o casamento foi celebrado com algum impedimento que o torne anulável, desde que tal impedimento ainda subsista.
 
-###### Artigo 187.º — [...]
+Artigo 187.º
+
+[...]
 
 1 - O casamento cujo assento não tenha sido lavrado pelo competente agente diplomático ou consular pode ser directamente transcrito em qualquer conservatória do registo civil, em face de um dos seguintes documentos:
 
@@ -1270,25 +1980,33 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - ...
 
 2 - Ficam ressalvados os direitos de terceiros que sejam compatíveis com os direitos e deveres de natureza pessoal dos cônjuges e dos filhos, a não ser que, tratando-se de registo por transcrição, esta tenha sido efectuada dentro dos sete dias subsequentes à celebração.
 
-###### Artigo 189.º — Convenção antenupcial
+Artigo 189.º
+
+Convenção antenupcial
 
 1 - A convenção antenupcial pode ser celebrada nas conservatórias do registo civil, por meio de declaração prestada perante conservador, o qual pode delegar essa competência em oficial de registo.
 
 2 - A conservatória deve imediatamente entregar certidão gratuita do acto aos interessados.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - O falecimento de qualquer indivíduo ocorrido em território português deve ser declarado, verbalmente, dentro de quarenta e oito horas, em qualquer conservatória do registo civil.
 
 2 - ...
 
-###### Artigo 200.º — [...]
+Artigo 200.º
+
+[...]
 
 1 - É competente para lavrar o registo de óbito qualquer conservatória do registo civil.
 
@@ -1302,7 +2020,9 @@ b) ...
 
 6 - (Revogado.)
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 1 - ...
 
@@ -1312,7 +2032,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - Ocorrido ou verificado o óbito em unidade de saúde, estabelecimento prisional ou outro equivalente do Estado, o respectivo director ou administrador ou outro funcionário por eles designado deve comunicar a ocorrência, sempre que possível por via electrónica, a qualquer conservatória do registo civil ou a posto de atendimento da conservatória do registo civil em unidade de saúde, no prazo de quarenta e oito horas.
 
@@ -1320,7 +2042,9 @@ b) ...
 
 3 - A comunicação, que substitui a declaração a que se refere o artigo 192.º, é acompanhada do certificado médico e deve fornecer todas as indicações exigidas neste Código para o assento de óbito e as respectivas cotas de referência.
 
-###### Artigo 204.º — [...]
+Artigo 204.º
+
+[...]
 
 1 - ...
 
@@ -1332,11 +2056,15 @@ b) ...
 
 5 - ...
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 Se o falecimento ocorrer em viagem por terra, o assento de óbito pode ser lavrado em qualquer conservatória do registo civil.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - Cabe ao magistrado do Ministério Público da comarca em cuja área tiver ocorrido o acidente promover, por intermédio de qualquer conservatória do registo civil, a justificação judicial do óbito nos seguintes casos:
 
@@ -1350,7 +2078,9 @@ c) Quando seja impossível chegar ao local onde os corpos se encontrem.
 
 3 - ...
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - Sempre que ocorrer morte fetal com tempo de gestação de 22 semanas ou superior deve ser apresentado e depositado em qualquer conservatória do registo civil o respectivo certificado médico.
 
@@ -1362,7 +2092,9 @@ c) Quando seja impossível chegar ao local onde os corpos se encontrem.
 
 5 - (Revogado.)
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 1 - O conservador do registo civil deve enviar ou disponibilizar o acesso, em base de dados ao Ministério Público junto do tribunal competente para a providência tutelar ou para a eventual instauração de inventário, das seguintes informações:
 
@@ -1380,7 +2112,9 @@ b) Os números de documentos de identificação ulteriormente conhecidos;
 
 c) Qualquer completamento ou rectificação de assento de óbito que respeite ao nome do falecido, idade, naturalidade ou filiação.
 
-###### Artigo 211.º — [...]
+Artigo 211.º
+
+[...]
 
 1 - Os factos sujeitos a registo e o estado civil das pessoas provam-se pelo acesso à base de dados do registo civil ou por meio de certidão.
 
@@ -1388,7 +2122,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 3 - A disponibilização de informação prevista no número anterior não pode ser efectuada nos casos previstos no n.º 4 do artigo 214.º e, nos casos a que se referem os n.os 2 e 3 do mesmo artigo, deve conformar-se com o preceituado em tais normas.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - ...
 
@@ -1402,7 +2138,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 6 - As certidões destinadas ao estrangeiro são sempre emitidas por meios informáticos, salvo se o respectivo assento ou documento estiver dactilografado e puder ser fotocopiado.
 
-###### Artigo 214.º — [...]
+Artigo 214.º
+
+[...]
 
 1 - Qualquer pessoa tem legitimidade para requerer certidão dos registos, salvo as excepções previstas nos números seguintes.
 
@@ -1414,7 +2152,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 5 - As autoridades judiciais ou policiais e o IRN, I. P., podem sempre requerer certidão de qualquer registo ou documento.
 
-###### Artigo 215.º — Requisição e emissão das certidões
+Artigo 215.º
+
+Requisição e emissão das certidões
 
 1 - As certidões são requisitadas verbalmente, salvo nos casos em que sejam requisitadas pelo correio, em qualquer conservatória do registo civil.
 
@@ -1430,7 +2170,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 7 - Do assento de óbito e do depósito do certificado de morte fetal são sempre emitidas certidões gratuitas, as quais servem de guia de enterramento.
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 1 - ...
 
@@ -1438,13 +2180,17 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 3 - Nas certidões ou noutros documentos expedidos pela conservatória deve ser aposto o selo branco de modelo oficial ou outra forma de autenticação prevista em portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - Os processos a que se refere o artigo anterior são instaurados, instruídos e informados na conservatória, cabendo a sua decisão, consoante os casos, ao conservador ou ao juiz de direito.
 
 2 - ...
 
-###### Artigo 224.º — [...]
+Artigo 224.º
+
+[...]
 
 1 - ...
 
@@ -1458,7 +2204,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 6 - ...
 
-###### Artigo 226.º — [...]
+Artigo 226.º
+
+[...]
 
 1 - ...
 
@@ -1472,7 +2220,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 6 - ...
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - ...
 
@@ -1480,7 +2230,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 3 - ...
 
-###### Artigo 240.º — [...]
+Artigo 240.º
+
+[...]
 
 1 - Da sentença cabe recurso, com efeito suspensivo, para a Relação.
 
@@ -1488,7 +2240,9 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 3 - ...
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 1 - ...
 
@@ -1496,29 +2250,39 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 3 - ...
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 1 - ...
 
 2 - A citação é feita no prazo de cinco dias a contar da data da declaração do impedimento, entregando-se a cada um dos nubentes, com a nota da citação, cópia daquela declaração.
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1 - Da sentença proferida podem os interessados interpor sempre recurso para a Relação.
 
 2 - ...
 
-###### Artigo 253.º — [...]
+Artigo 253.º
+
+[...]
 
 1 - A concessão de dispensa de impedimentos matrimoniais é requerida em qualquer conservatória do registo civil.
 
 2 - ...
 
-###### Artigo 255.º — [...]
+Artigo 255.º
+
+[...]
 
 O suprimento de autorização para casamento de menor é requerido em qualquer conservatória do registo civil.
 
-###### Artigo 258.º — [...]
+Artigo 258.º
+
+[...]
 
 1 - A sanação da anulabilidade do casamento celebrado sem intervenção de testemunhas, quando obrigatória, pode ser requerida pelos interessados em qualquer conservatória do registo civil.
 
@@ -1526,23 +2290,31 @@ O suprimento de autorização para casamento de menor é requerido em qualquer c
 
 3 - Na sequência da apresentação do requerimento é imediata e oficiosamente consultada a base de dados do registo civil, sendo integrado na base de dados o documento que se mostre necessário, de forma a comprovar o assento de casamento dos interessados.
 
-###### Artigo 259.º — Instrução e decisão
+Artigo 259.º
+
+Instrução e decisão
 
 1 - Examinado o processo, o conservador do registo civil pode ordenar as diligências necessárias à completa instrução do mesmo.
 
 2 - A decisão do processo é da exclusiva competência do conservador.
 
-###### Artigo 266.º — [...]
+Artigo 266.º
+
+[...]
 
 Quem não tenha possibilidade de obter, em tempo útil, certidão do registo de nascimento, para efeito de casamento, pelo facto de o registo se ter extraviado ou inutilizado e se encontrar pendente a respectiva reconstituição ou por ter sido lavrado no estrangeiro, pode requerer, na conservatória escolhida para a organização do processo de casamento, a instauração de processo para a passagem de um certificado de notoriedade.
 
-###### Artigo 268.º — Diligências subsequentes
+Artigo 268.º
+
+Diligências subsequentes
 
 1 - Apresentada a petição e realizadas as diligências que se revelem necessárias à instrução do processo, o conservador defere ou indefere a passagem do certificado.
 
 2 - O acto previsto no número anterior é da exclusiva competência do conservador.
 
-###### Artigo 269.º — Emissão e valor do certificado
+Artigo 269.º
+
+Emissão e valor do certificado
 
 1 - O certificado de notoriedade é passado pelo conservador e dele devem constar todos os elementos de identificação do interessado, a data do despacho de autorização e o prazo de validade do certificado.
 
@@ -1550,13 +2322,17 @@ Quem não tenha possibilidade de obter, em tempo útil, certidão do registo de 
 
 3 - O certificado de notoriedade substitui a certidão de nascimento do interessado, mas só para efeito do casamento em vista do qual foi passado.
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - O processo de divórcio ou de separação de pessoas e bens é instaurado mediante requerimento assinado pelos cônjuges ou seus procuradores, apresentado em qualquer conservatória do registo civil.
 
 2 - (Revogado.)
 
-###### Artigo 272.º — [...]
+Artigo 272.º
+
+[...]
 
 1 - O pedido deve ser instruído com os seguintes documentos:
 
@@ -1582,7 +2358,9 @@ f) ...
 
 6 - A decisão dos processos previstos na presente subsecção é da exclusiva competência do conservador, sem prejuízo da possibilidade de delegação de competências em oficial de registos para os actos previstos no artigo 272.º-B
 
-###### Artigo 278.º — [...]
+Artigo 278.º
+
+[...]
 
 1 - Quem pretender alterar a composição do nome fixado no assento de nascimento deve requerer a autorização necessária, em requerimento dirigido ao conservador dos Registos Centrais.
 
@@ -1594,17 +2372,23 @@ f) ...
 
 5 - O requerimento pode ser apresentado directamente na Conservatória dos Registos Centrais ou por intermédio de qualquer conservatória do registo civil, devendo, neste caso, o conservador ou o oficial de registos remeter imediatamente o requerimento à Conservatória dos Registos Centrais.
 
-###### Artigo 279.º — Instrução
+Artigo 279.º
+
+Instrução
 
 Após o exame do processo, o conservador dos Registos Centrais pode ordenar as diligências que considere necessárias.
 
-###### Artigo 282.º — Recurso
+Artigo 282.º
+
+Recurso
 
 1 - A decisão do conservador dos Registos Centrais é susceptível de impugnação judicial.
 
 2 - (Revogado.)
 
-###### Artigo 286.º — [...]
+Artigo 286.º
+
+[...]
 
 1 - A decisão de recusa da prática de qualquer acto de registo nos termos requeridos pode ser impugnada mediante a interposição de recurso hierárquico para o presidente do IRN, I. P., ou mediante impugnação judicial para o tribunal da área da circunscrição a que pertence a conservatória.
 
@@ -1618,13 +2402,17 @@ Após o exame do processo, o conservador dos Registos Centrais pode ordenar as d
 
 6 - ...
 
-###### Artigo 291.º — [...]
+Artigo 291.º
+
+[...]
 
 1 - A parte prejudicada pela decisão, o conservador recorrido e o Ministério Público podem interpor recurso, com efeito suspensivo, da sentença.
 
 2 - ...
 
-###### Artigo 292.º — Recurso da decisão de recusa de celebração ou registo de casamento e de atendibilidadede documento estrangeiro
+Artigo 292.º
+
+Recurso da decisão de recusa de celebração ou registo de casamento e de atendibilidadede documento estrangeiro
 
 1 - Os despachos proferidos pelo conservador que sejam contrários à realização, homologação ou transcrição do casamento podem ser impugnados judicialmente, nos termos dos artigos anteriores.
 
@@ -1632,7 +2420,9 @@ Após o exame do processo, o conservador dos Registos Centrais pode ordenar as d
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - As pessoas singulares que, sendo obrigadas a declarar perante oficial de registos o nascimento ou o óbito de qualquer indivíduo, o não façam dentro do prazo legal são punidas com a coima mínima de (euro) 50 e a máxima de (euro) 150.
 
@@ -1644,7 +2434,9 @@ Após o exame do processo, o conservador dos Registos Centrais pode ordenar as d
 
 5 - O produto das coimas reverte para o IRN, I. P.
 
-###### Artigo 297.º — [...]
+Artigo 297.º
+
+[...]
 
 Na sanção prevista no artigo anterior incorre o funcionário do registo civil que praticar algum dos factos seguintes:
 
@@ -1656,7 +2448,9 @@ c) ...
 
 d) ...
 
-###### Artigo 298.º — [...]
+Artigo 298.º
+
+[...]
 
 1 - Aos funcionários do registo compete assegurar o registo e o envio dos dados relativos à actividade das conservatórias e à caracterização dos actos por estas praticados, designadamente os dados relativos aos assentos de nascimento, casamento, óbito, depósito de morte fetal, bem como os relativos aos processos de divórcio e separação de pessoas e bens por mútuo consentimento decididos nas conservatórias.
 
@@ -1666,13 +2460,17 @@ d) ...
 
 4 - (Revogado.)
 
-###### Artigo 299.º — [...]
+Artigo 299.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Devem ser liminarmente indeferidos os pedidos de actos, processos ou procedimentos que não sejam acompanhados do pagamento das quantias que se mostrem devidas.
 
-###### Artigo 305.º — [...]
+Artigo 305.º
+
+[...]
 
 1 - Os assentos de registo civil ou paroquial, lavrados em Macau durante a administração portuguesa e constantes de microfilme arquivado na Conservatória dos Registos Centrais ou de suporte informático, têm a força probatória dos actos de registo civil, deles podendo ser extraídas certidões com o valor probatório dos originais, nos termos fixados por portaria do membro do Governo responsável pela área da justiça.
 
@@ -1726,13 +2524,17 @@ e) Decorridos cinco anos após o registo do despacho de revogação da exoneraç
 
 5 - Na sequência do novo registo são lançados os averbamentos dos factos não integrados constantes do primitivo assento, o qual é cancelado.
 
-###### Artigo 102.º-A — Comunicações obrigatórias
+Artigo 102.º-A
+
+Comunicações obrigatórias
 
 1 - Uma vez lavrado o assento de nascimento são comunicados imediatamente e por via electrónica os dados relevantes para efeitos de inscrição da criança nos serviços de segurança social e de saúde e, se tal for solicitado pelos pais ou por outros representantes legais, nos serviços de finanças.
 
 2 - Sempre que a declaração de nascimento não seja prestada por um dos pais, esse facto deve ser comunicado à Comissão Nacional de Protecção de Crianças e Jovens em Risco.
 
-###### Artigo 187.º-A — Assento de casamento civil sob forma religiosa
+Artigo 187.º-A
+
+Assento de casamento civil sob forma religiosa
 
 1 - O assento de casamento civil sob forma religiosa é lavrado em duplicado no livro de registo ou em arquivo electrónico da igreja ou da comunidade religiosa, logo após a celebração do matrimónio, e deve conter as seguintes indicações:
 
@@ -1748,13 +2550,17 @@ e) Nome completo e residência habitual de duas testemunhas.
 
 2 - Ao assento previsto no número anterior é aplicável o disposto nos n.os 2 a 4 do artigo 167.º e no artigo 168.º, com as necessárias adaptações.
 
-###### Artigo 187.º-B — Remessa do duplicado
+Artigo 187.º-B
+
+Remessa do duplicado
 
 1 - O ministro do culto que tiver oficiado o casamento deve, no prazo de três dias, enviar a uma conservatória do registo civil, sempre que possível por via electrónica, nos termos do n.º 1 do artigo 187.º-C, o duplicado do assento de casamento civil sob forma religiosa, a fim de ser transcrito.
 
 2 - É aplicável o disposto nos n.os 3 a 7 do artigo 169.º, com as necessárias adaptações.
 
-###### Artigo 187.º-C — Transcrição do assento de casamento civil sob forma religiosa
+Artigo 187.º-C
+
+Transcrição do assento de casamento civil sob forma religiosa
 
 1 - Qualquer conservatória do registo civil é competente para a transcrição do assento de casamento civil sob forma religiosa.
 
@@ -1762,19 +2568,25 @@ e) Nome completo e residência habitual de duas testemunhas.
 
 3 - À transcrição do assento de casamento civil sob forma religiosa é aplicável o disposto nos n.os 2 e 3 do artigo 172.º e nos artigos 173.º a 176.º, com as necessárias adaptações.
 
-###### Artigo 202.º-A — Menção da habilitação de herdeiros e do processo de inventário
+Artigo 202.º-A
+
+Menção da habilitação de herdeiros e do processo de inventário
 
 1 - Independentemente da forma da sua titulação, a habilitação de herdeiros é mencionada no assento de óbito do falecido, por meio de cota de referência que especifique a data, a forma de titulação e a identificação do título.
 
 2 - Nos casos em que tenha sido instaurado processo de inventário por óbito do registado, é feita menção do facto no assento respectivo, por meio de cota de referência que identifique o tribunal onde o processo foi instaurado e o seu número.
 
-###### Artigo 202.º-B — Comunicações a efectuar pelos tribunais e notários
+Artigo 202.º-B
+
+Comunicações a efectuar pelos tribunais e notários
 
 1 - Para efeitos do disposto no n.º 1 do artigo anterior, no prazo de cinco dias após o trânsito em julgado de decisão judicial que declare a habilitação de herdeiros ou da data em que seja lavrada escritura pública do mesmo acto, o respectivo tribunal ou notário comunicam a qualquer conservatória do registo civil a decisão judicial ou escritura que titule a habilitação de herdeiros através do envio, sempre que possível por via electrónica, de certidão do título respectivo.
 
 2 - Para os efeitos do disposto no n.º 2 do artigo anterior, o tribunal comunica a qualquer conservatória do registo civil, preferencialmente por via electrónica, a instauração do processo de inventário.
 
-###### Artigo 210.º-A — Objecto, procedimentos e competência
+Artigo 210.º-A
+
+Objecto, procedimentos e competência
 
 1 - Os procedimentos simplificados de sucessão hereditária visam a promoção dos actos de titulação, registo e garantia do cumprimento de obrigações fiscais respeitantes à sucessão hereditária.
 
@@ -1792,17 +2604,23 @@ c) Procedimento de partilha e registos.
 
 5 - A realização dos procedimentos é da competência do conservador, sem prejuízo da possibilidade de delegação em oficial de registos.
 
-###### Artigo 210.º-B — Legitimidade
+Artigo 210.º-B
+
+Legitimidade
 
 Só o cabeça-de-casal, seu representante legal ou mandatário têm legitimidade para promover os procedimentos simplificados de sucessão hereditária.
 
-###### Artigo 210.º-C — Prazo e cumprimento de obrigações tributárias
+Artigo 210.º-C
+
+Prazo e cumprimento de obrigações tributárias
 
 1 - Os procedimentos simplificados de sucessão hereditária iniciam-se até ao final do 3.º mês seguinte ao da morte do autor da sucessão.
 
 2 - Na tramitação dos procedimentos simplificados de sucessão hereditária, o conservador e os funcionários das conservatórias estão sujeitos ao dever de sigilo estabelecido nas leis tributárias.
 
-###### Artigo 210.º-D — Atendimento presencial único e meios electrónicos
+Artigo 210.º-D
+
+Atendimento presencial único e meios electrónicos
 
 1 - Os procedimentos simplificados de sucessão hereditária são tramitados no mesmo dia, em atendimento presencial único e, para efeitos do registo dos bens, têm natureza urgente.
 
@@ -1810,7 +2628,9 @@ Só o cabeça-de-casal, seu representante legal ou mandatário têm legitimidade
 
 3 - Todos os actos praticados no âmbito dos procedimentos simplificados de sucessão hereditária são realizados através de meios electrónicos.
 
-###### Artigo 210.º-E — Formalidades prévias
+Artigo 210.º-E
+
+Formalidades prévias
 
 1 - O prosseguimento dos procedimentos depende da verificação do óbito, da qualidade de herdeiro, da identidade, da capacidade e dos poderes de representação dos interessados para os actos.
 
@@ -1820,7 +2640,9 @@ Só o cabeça-de-casal, seu representante legal ou mandatário têm legitimidade
 
 4 - Os documentos que instruam os procedimentos ficam arquivados, preferencialmente em suporte electrónico, em termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 210.º-F — Procedimento de habilitação de herdeiros, partilha e registos
+Artigo 210.º-F
+
+Procedimento de habilitação de herdeiros, partilha e registos
 
 1 - No âmbito do procedimento de habilitação de herdeiros, partilha e registos, o serviço de registo procede aos seguintes actos, pela ordem indicada:
 
@@ -1840,7 +2662,9 @@ g) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 2 - A leitura dos documentos previstos na alínea a) do número anterior pode ser dispensada a pedido dos interessados.
 
-###### Artigo 210.º-G — Procedimento de habilitação de herdeiros e registos
+Artigo 210.º-G
+
+Procedimento de habilitação de herdeiros e registos
 
 1 - O procedimento de habilitação de herdeiros e registos só é realizado quando os interessados não pretendem proceder imediatamente à partilha, nos termos do artigo anterior.
 
@@ -1848,13 +2672,17 @@ g) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 3 - O registo dos bens imóveis, ou móveis ou participações sociais sujeitos a registo integrados na herança indivisa só é efectuado a pedido do cabeça-de-casal.
 
-###### Artigo 210.º-H — Procedimento de partilha e registos
+Artigo 210.º-H
+
+Procedimento de partilha e registos
 
 1 - O procedimento de partilha e registos só é realizado quando, em momento anterior, tiver ocorrido o procedimento de habilitação de herdeiros e registos em qualquer serviço de registo, nos termos do artigo anterior.
 
 2 - No âmbito do procedimento de partilha e registos, o serviço de registo procede aos actos referidos no n.º 1 do artigo 210.º-F, com as necessárias adaptações, com excepção dos previstos nas alíneas b) e c).
 
-###### Artigo 210.º-I — Pedidos complementares
+Artigo 210.º-I
+
+Pedidos complementares
 
 1 - Em qualquer dos procedimentos simplificados de sucessão hereditária, a pedido dos interessados e de acordo com as suas declarações, o funcionário pratica os seguintes actos:
 
@@ -1874,7 +2702,9 @@ c) Solicita a inscrição ou a actualização de prédios urbanos na matriz.
 
 6 - No caso de as plantas não estarem depositadas na câmara municipal ou de as plantas não serem disponibilizadas à administração fiscal no prazo de 60 dias, esta deve contactar o interessado para que este as apresente, nos termos gerais.
 
-###### Artigo 210.º-J — Diligências subsequentes
+Artigo 210.º-J
+
+Diligências subsequentes
 
 Após a realização do registo, o serviço de registo promove, preferencialmente por via electrónica, os seguintes actos:
 
@@ -1884,7 +2714,9 @@ b) Participações para fins estatísticos;
 
 c) Promoção das demais comunicações impostas por lei e das diligências que venham a ser fixadas por via regulamentar ou protocolar.
 
-###### Artigo 210.º-L — Indeferimento
+Artigo 210.º-L
+
+Indeferimento
 
 1 - Os procedimentos simplificados de sucessão hereditária são indeferidos quando ocorra alguma das seguintes circunstâncias:
 
@@ -1908,15 +2740,21 @@ f) Falta de liquidação dos impostos e de encargos tributários e de cobrança 
 
 5 - O despacho de indeferimento proferido nos procedimentos de habilitação de herdeiros, partilha e registos e de habilitação de herdeiros e registos não suspende nem interrompe o prazo previsto no n.º 3 do artigo 26.º do Código do Imposto do Selo.
 
-###### Artigo 210.º-M — Desistência
+Artigo 210.º-M
+
+Desistência
 
 A não conclusão dos procedimentos simplificados de sucessão hereditária por motivo não imputável aos serviços equivale à sua desistência.
 
-###### Artigo 210.º-N — Aplicação subsidiária
+Artigo 210.º-N
+
+Aplicação subsidiária
 
 Aos procedimentos simplificados de sucessão hereditária são aplicáveis, subsidiariamente, as legislações registrais pertinentes e a lei notarial.
 
-###### Artigo 210.º-O — Objecto e efeitos da habilitação de herdeiros
+Artigo 210.º-O
+
+Objecto e efeitos da habilitação de herdeiros
 
 1 - A habilitação de herdeiros realizada no âmbito dos procedimentos simplificados de sucessão hereditária tem por objecto a declaração, prestada pelo cabeça-de-casal ou por três pessoas que o conservador ou o oficial de registos considerem dignas de crédito, de que os habilitandos são herdeiros do falecido e de não existir quem lhes prefira ou com eles concorra na sucessão.
 
@@ -1924,45 +2762,61 @@ Aos procedimentos simplificados de sucessão hereditária são aplicáveis, subs
 
 3 - A habilitação prevista no n.º 1 tem os efeitos previstos na lei para outras formas de habilitação de herdeiros.
 
-###### Artigo 210.º-P — Habilitação de legatários e diligências subsequentes
+Artigo 210.º-P
+
+Habilitação de legatários e diligências subsequentes
 
 O disposto nos artigos anteriores é aplicável, com as necessárias adaptações, à habilitação de legatários, quando estes forem indeterminados ou instituídos genericamente ou quando a herança for toda distribuída em legados, e às diligências subsequentes de instrução do processo de liquidação do imposto do selo e de registo dos bens legados.
 
-###### Artigo 210.º-Q — Impugnação da habilitação
+Artigo 210.º-Q
+
+Impugnação da habilitação
 
 1 - Se algum herdeiro preterido impugnar judicialmente a habilitação de herdeiros, deve solicitar a imediata comunicação da pendência do processo a qualquer conservatória do registo civil, que procede ao respectivo averbamento.
 
 2 - Na sequência da impugnação da habilitação de herdeiros, a conservatória comunica ao serviço de finanças competente as alterações que se revelem necessárias às declarações tributárias apresentadas.
 
-###### Artigo 210.º-R — Efeitos da partilha
+Artigo 210.º-R
+
+Efeitos da partilha
 
 A partilha realizada no âmbito dos procedimentos simplificados de sucessão hereditária tem os mesmos efeitos previstos na lei para outras formas de partilha.
 
-###### Artigo 220.º-A — Finalidade da base de dados
+Artigo 220.º-A
+
+Finalidade da base de dados
 
 1 - A base de dados do registo civil tem por finalidade organizar e manter actualizada a informação respeitante à nacionalidade, ao estado civil e à capacidade dos cidadãos, nos termos e para os efeitos previstos na lei, não podendo ser utilizada para qualquer outra finalidade com aquela incompatível.
 
 2 - Os dados constantes da base de dados do registo civil podem ser interconectados com os constantes da base de dados da identificação civil, por forma que, da actualização, rectificação ou completamento dos dados constantes da primeira das referidas bases de dados, decorra automaticamente a actualização, rectificação ou completamento dos dados homólogos constantes da segunda.
 
-###### Artigo 220.º-B — Entidade responsável pelo tratamento da base de dados
+Artigo 220.º-B
+
+Entidade responsável pelo tratamento da base de dados
 
 1 - O presidente do IRN, I. P., é o responsável pelo tratamento da base de dados, nos termos e para os efeitos definidos na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, sem prejuízo da responsabilidade que, nos termos da lei, é atribuída aos conservadores.
 
 2 - Cabe ao presidente do IRN, I. P., assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, bem como velar pela legalidade da consulta ou comunicação da informação.
 
-###### Artigo 220.º-C — Dados recolhidos
+Artigo 220.º-C
+
+Dados recolhidos
 
 1 - São recolhidos para tratamento automatizado os dados pessoais referentes às partes e outros intervenientes nos actos e processos de registo.
 
 2 - Relativamente aos sujeitos referidos no número anterior, são recolhidos os dados pessoais que integram o conteúdo dos registos, processos, documentos e declarações que lhes servem de base.
 
-###### Artigo 220.º-D — Direito à informação
+Artigo 220.º-D
+
+Direito à informação
 
 1 - Qualquer pessoa tem o direito de ser informada sobre os dados pessoais recolhidos que lhe respeitem e a finalidade da recolha, bem como sobre a identidade e o endereço do responsável pela base de dados.
 
 2 - A actualização e a correcção de eventuais inexactidões, bem como o completamento de omissões, realizam-se nos termos e pela forma previstos neste Código.
 
-###### Artigo 220.º-E — Segurança da informação
+Artigo 220.º-E
+
+Segurança da informação
 
 1 - O presidente do IRN, I. P., deve adoptar as medidas de segurança referidas no n.º 1 do artigo 15.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
 
@@ -1970,11 +2824,15 @@ A partilha realizada no âmbito dos procedimentos simplificados de sucessão her
 
 3 - Para efeitos de controlo de admissibilidade da consulta, as pesquisas efectuadas pelas entidades que tenham acesso à base de dados são registadas informaticamente, pelo período mínimo de dois anos.
 
-###### Artigo 220.º-F — Sigilo
+Artigo 220.º-F
+
+Sigilo
 
 Os responsáveis pelo tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais registados na base de dados do registo civil, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.
 
-###### Artigo 272.º-A — Partilha do património conjugal
+Artigo 272.º-A
+
+Partilha do património conjugal
 
 1 - Os cônjuges podem proceder à partilha dos seus bens comuns no âmbito do processo de separação judicial de pessoas e bens ou de divórcio por mútuo consentimento.
 
@@ -1990,7 +2848,9 @@ b) O seu registo definitivo a favor dos cônjuges.
 
 5 - Por portaria do membro do Governo responsável pela área da justiça podem ser definidas as condições de verificação dos pressupostos referidos no n.º 2.
 
-###### Artigo 272.º-B — Sequência de actos
+Artigo 272.º-B
+
+Sequência de actos
 
 1 - No âmbito da partilha do património conjugal, o serviço de registo procede aos seguintes actos, pela ordem indicada:
 
@@ -2008,7 +2868,9 @@ e) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 3 - A pedido dos interessados, o documento referido na alínea a) do n.º 1 pode ser substituído por documento elaborado pelos mesmos, que é imediatamente integrado em suporte informático pelo funcionário.
 
-###### Artigo 272.º-C — Remissão
+Artigo 272.º-C
+
+Remissão
 
 À partilha do património conjugal são aplicáveis, com as necessárias adaptações, o n.º 4 do artigo 210.º-A e os artigos 210.º-E, 210.º-I, 210.º-J e 210.º-N.»
 
@@ -2054,49 +2916,67 @@ e) Entrega de certidão gratuita dos documentos previstos na alínea a) e dos re
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 1589.º — [...]
+Artigo 1589.º
+
+[...]
 
 1 - O casamento católico contraído por pessoas já ligadas entre si por casamento civil não dissolvido é averbado ao assento, independentemente do processo preliminar de casamento.
 
 2 - ...
 
-###### Artigo 1597.º — Processo preliminar de casamento
+Artigo 1597.º
+
+Processo preliminar de casamento
 
 1 - A capacidade dos nubentes para contrair matrimónio é comprovada por meio do processo preliminar de casamento, organizado nas conservatórias a requerimento dos nubentes ou do pároco respectivo.
 
 2 - ...
 
-###### Artigo 1598.º — [...]
+Artigo 1598.º
+
+[...]
 
 1 - Verificada no despacho final do processo preliminar de casamento a inexistência de impedimento à realização do casamento, o funcionário do registo civil extrai dele o certificado da capacidade matrimonial, que é remetido ao pároco e sem o qual o casamento não pode ser celebrado.
 
 2 - Se, depois de expedido o certificado, o funcionário tiver conhecimento de algum impedimento, comunica-o imediatamente ao pároco, a fim de se sobrestar na celebração até ao julgamento respectivo.
 
-###### Artigo 1599.º — Dispensa do processo preliminar de casamento
+Artigo 1599.º
+
+Dispensa do processo preliminar de casamento
 
 1 - O casamento in articulo mortis, na iminência de parto ou cuja celebração imediata seja expressamente autorizada pelo ordinário próprio, por grave motivo de ordem moral, pode celebrar-se independentemente do processo preliminar de casamento e de passagem do certificado previsto no artigo anterior.
 
 2 - A dispensa do processo preliminar de casamento não altera as exigências da lei civil quanto à capacidade matrimonial dos nubentes, continuando estes sujeitos às sanções estabelecidas na mesma lei.
 
-###### Artigo 1603.º — [...]
+Artigo 1603.º
+
+[...]
 
 1 - A prova da maternidade ou paternidade para efeitos do disposto nas alíneas a), b) e c) do artigo anterior é sempre admitida no processo preliminar de casamento, mas o reconhecimento do parentesco, quer neste processo, quer na acção de declaração de nulidade ou anulação do casamento, não produz qualquer outro efeito e não vale sequer como começo de prova em acção de investigação de maternidade ou paternidade.
 
 2 - ...
 
-###### Artigo 1610.º — Necessidade e fim do processo preliminar de casamento
+Artigo 1610.º
+
+Necessidade e fim do processo preliminar de casamento
 
 A celebração do casamento é precedida de um processo, regulado na lei do registo civil e destinado à verificação da inexistência de impedimentos.
 
-###### Artigo 1613.º — [...]
+Artigo 1613.º
+
+[...]
 
 Findo o processo preliminar de casamento e os processos judiciais a que este der causa, cabe ao funcionário do registo civil proferir despacho final, no qual autoriza os nubentes a celebrar casamento ou manda arquivar o processo.
 
-###### Artigo 1614.º — [...]
+Artigo 1614.º
+
+[...]
 
 Autorizada a realização do casamento, este deve celebrar-se dentro dos seis meses seguintes.
 
-###### Artigo 1616.º — [...]
+Artigo 1616.º
+
+[...]
 
 É indispensável para a celebração do casamento a presença:
 
@@ -2106,7 +2986,9 @@ b) Do funcionário do registo civil ou, nos casos de casamento civil sob forma r
 
 c) De duas testemunhas, nos casos em que é exigida por lei especial.
 
-###### Artigo 1622.º — [...]
+Artigo 1622.º
+
+[...]
 
 1 - Quando haja fundado receio de morte próxima de algum dos nubentes, ou iminência de parto, é permitida a celebração do casamento independentemente do respectivo processo preliminar e sem a intervenção do funcionário do registo civil.
 
@@ -2114,13 +2996,17 @@ c) De duas testemunhas, nos casos em que é exigida por lei especial.
 
 3 - (Revogado.)
 
-###### Artigo 1623.º — [...]
+Artigo 1623.º
+
+[...]
 
 1 - Lavrada a acta, o funcionário competente decide se o casamento deve ser homologado.
 
 2 - Se não tiver já corrido, o processo preliminar de casamento é organizado oficiosamente e a decisão sobre a homologação é proferida no despacho final deste processo.
 
-###### Artigo 1624.º — [...]
+Artigo 1624.º
+
+[...]
 
 1 - O casamento não pode ser homologado:
 
@@ -2136,7 +3022,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 1633.º — [...]
+Artigo 1633.º
+
+[...]
 
 1 - Considera-se sanada a anulabilidade e válido o casamento desde o momento da celebração, se antes de transitar em julgado a sentença de anulação ocorrer algum dos seguintes factos:
 
@@ -2150,11 +3038,15 @@ d) Ser a falta de testemunhas devida a circunstâncias atendíveis, como tais re
 
 2 - ...
 
-###### Artigo 1710.º — [...]
+Artigo 1710.º
+
+[...]
 
 As convenções antenupciais são válidas se forem celebradas por declaração prestada perante funcionário do registo civil ou por escritura pública.
 
-###### Artigo 1720.º — [...]
+Artigo 1720.º
+
+[...]
 
 1 - Consideram-se sempre contraídos sob o regime da separação de bens:
 
@@ -2164,7 +3056,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 1857.º — [...]
+Artigo 1857.º
+
+[...]
 
 1 - ...
 
@@ -2174,7 +3068,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 1987.º — [...]
+Artigo 1987.º
+
+[...]
 
 Depois de decretada a adopção plena não é possível estabelecer a filiação natural do adoptado nem fazer a prova dessa filiação fora do processo preliminar de casamento.»
 
@@ -2192,7 +3088,7 @@ Os artigos 7.º, 8.º e 11.º do [Decreto-Lei n.º 519-F2/79](https://diariodare
 
 3 - A competência para a prática dos actos referidos no número anterior pode ser atribuída a qualquer conservatória de registos, através de despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os actos relativos a veículos a motor e respectivos reboques podem ser efectuados e os respectivos meios de prova obtidos em qualquer conservatória do registo de veículos, independentemente da sua localização geográfica.
 
@@ -2200,7 +3096,7 @@ Os artigos 7.º, 8.º e 11.º do [Decreto-Lei n.º 519-F2/79](https://diariodare
 
 3 - Às conservatórias do registo de veículos é aplicável o disposto no n.º 1 do artigo 7.º
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Junto das unidades de saúde ou em qualquer outro local a que o público tenha acesso, podem funcionar postos de atendimento das conservatórias do registo civil.
 
@@ -2226,7 +3122,9 @@ b) Cópia do registo das escrituras diversas celebradas no mês anterior.
 
 2 - No caso das escrituras de doação em que os doadores tenham instituído encargos a favor da alma ou de interesse público que devam ser cumpridos depois da sua morte, a informação desse circunstancialismo deve acompanhar o envio do documento previsto na alínea b) do número anterior, com respeito às escrituras respectivas.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - Na Conservatória dos Registos Centrais deve existir:
 
@@ -2236,7 +3134,9 @@ b) Relação anual das escrituras diversas lavradas por cada notário, segundo a
 
 2 - O índice e a relação referidos no número anterior devem ser organizados em suporte informático, nos termos a fixar por despacho do presidente do Instituto dos Registos e do Notariado, I. P.
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 São obrigatoriamente comunicados, por via electrónica, aos notários onde tiverem sido lavrados os respectivos actos:
 
@@ -2246,13 +3146,17 @@ b) (Revogada.)
 
 c) ...
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - ...
 
 2 - As comunicações devem ser efectuadas por via electrónica, no prazo de quarenta e oito horas após o conhecimento do facto pela Conservatória dos Registos Centrais ou após o trânsito em julgado das decisões que as determinam, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - ...
 
@@ -2272,7 +3176,9 @@ Os artigos 6.º, 12.º e 14.º do [Decreto-Lei n.º 272/2001](https://diariodare
 
 2 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -2284,7 +3190,9 @@ Os artigos 6.º, 12.º e 14.º do [Decreto-Lei n.º 272/2001](https://diariodare
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -2314,7 +3222,9 @@ Os artigos 2.º e 3.º do [Decreto-Lei n.º 236/2001](https://diariodarepublica.
 
 2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Quando não haja disponibilidade ou possibilidade por parte do conservador referido no n.º 2 do artigo anterior para celebrar o casamento, deve aquele designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:
 
@@ -2388,7 +3298,9 @@ Os artigos 9.º, 10.º, 18.º, 19.º e 28.º do Regulamento Emolumentar dos Regi
 
 4 - Sem prejuízo do disposto no n.º 12 do artigo 18.º, no n.º 9.10 do artigo 21.º e no n.º 22 do artigo 22.º, para fazer face ao encargo referido no número anterior, constituem receita da IRN, I. P., todas as quantias cobradas a título de emolumentos pessoais e de despesas imprescindíveis à prática dos actos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - São gratuitos os seguintes actos e processos:
 
@@ -2448,7 +3360,9 @@ ab)...
 
 4 - Para efeitos do disposto no número anterior, nos actos, processos e procedimentos requeridos por mais de uma pessoa em que apenas um dos requerentes beneficie de gratuitidade, é devido pelo requerente não beneficiário o pagamento de metade do emolumento previsto para o acto ou processo.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 140.
 
@@ -2614,13 +3528,17 @@ b) O montante de (euro) 80 a deduzir ao emolumento pago no caso previsto no n.º
 
 c) O montante de (euro) 130 a deduzir ao emolumento pago no caso previsto no n.º 3.3.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A receita emolumentar da Conservatória dos Registos Centrais respeitante à prática dos actos previstos no artigo anterior, bem como no artigo 27.º, ainda que requeridos ou solicitados noutros serviços de registo, reverte para o IRN, I. P.
 
 2 - Em cada procedimento de aquisição da nacionalidade em que o Serviço de Estrangeiros e Fronteiras (SEF) preste informações, dos emolumentos cobrados pertencem ao SEF (euro) 20, revertendo o restante para o IRN, I. P.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -2810,15 +3728,15 @@ c) A revogação, operada pelo presente decreto-lei, das Portarias n.os [973/95]
 
 Visto e aprovado em Conselho de Ministros de 28 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - Francisco Ventura Ramos.
 
-**Promulgado em 17 de Setembro de 2007.**
+Promulgado em 17 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Setembro de 2007.**
+Referendado em 18 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Código do Registo Civil
 
@@ -3040,7 +3958,9 @@ Os factos sujeitos a registo civil podem ser lavrados em qualquer conservatória
 
 (Revogado.)
 
-###### Artigo 21.º — Livro Diário
+###### Artigo 21.º
+
+## Livro Diário
 
 (Revogado.)
 
@@ -4990,7 +5910,7 @@ c) Qualquer completamento ou rectificação de assento de óbito que respeite ao
 
 ##### SUBSECÇÃO VII — Procedimentos simplificados de sucessão hereditária
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -5136,7 +6056,7 @@ A não conclusão dos procedimentos simplificados de sucessão hereditária por 
 
 Aos procedimentos simplificados de sucessão hereditária são aplicáveis, subsidiariamente, as legislações registrais pertinentes e a lei notarial.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Habilitação de herdeiros
 
@@ -5158,7 +6078,7 @@ O disposto nos artigos anteriores é aplicável, com as necessárias adaptaçõe
 
 2 - Na sequência da impugnação da habilitação de herdeiros, a conservatória comunica ao serviço de finanças competente as alterações que se revelem necessárias às declarações tributárias apresentadas.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Partilha
 

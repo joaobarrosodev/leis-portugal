@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/02/02900/01570163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/74-1973-683213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bee70599c8d1099e15d647601781bdbff5e376cf231bb64c2cc0331336a783e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9e2da7ee94627da3be35c39533ab3f295ce1adf2e05c8f4b04944de9465e179
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pesca
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:420193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401309:por
+  label: "Alterados os arts 4.º, 5.º, 6.º, 7.º, als. c), g) e i) do art. 8.º e nº 3 do art. 53.º, todos do Regulamento aprovado\
+    \ pelo presente diploma, pela PORT.915/84.14.12.1984.MM, DR.IS [288] de 14.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/915-1984-401309
+  date: '1984-12-14'
+- type: cites
+  target: pt:dre:274853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420193:por
+  label: "Revogada pelo DEC LEI.278/87.07.07.1987.MAPA, DR.IS [153] de 07.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-1987-420193
+  date: '1987-07-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:52Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +155,9 @@ REGULAMENTO DA PESCA DE ARRASTO DO LARGO
 
 Definição da pesca de arrasto do largo e modalidades em que pode ser exercida
 
-###### Artigo 1.º A pesca de arrasto do largo é a pesca que é exercida, por artes rebocadas sobre o leito do mar, ou entre este e a sua superfície, por uma ou duas embarcações, denominadas «arrastões», com mais de 100 t de arqueação bruta, em áreas afastadas das costas nacionais, conforme se estabelece no presente diploma.
+Artigo 1.º A pesca de arrasto do largo é a pesca que é exercida, por artes rebocadas sobre o leito do mar, ou entre este e a sua superfície, por uma ou duas embarcações, denominadas «arrastões», com mais de 100 t de arqueação bruta, em áreas afastadas das costas nacionais, conforme se estabelece no presente diploma.
 
-###### Art. 2.º A pesca de arrasto do largo pode ser exercida nas seguintes modalidades:
+Art. 2.º A pesca de arrasto do largo pode ser exercida nas seguintes modalidades:
 
 a) Arrasto isolado - quando a arte de pesca é rebocada apenas por um arrastão;
 
@@ -126,7 +175,7 @@ g) Arrasto múltiplo - quando o arrastão reboca uma arte de pesca com mais de u
 
 h) Pesca polivalente - quando o arrastão está equipado para utilizar, alternativamente com a arte de arrasto, qualquer outra arte, como de cercar para bordo, de emalhar ou de linhas e anzóis.
 
-###### Art. 3.º - 1. Quanto ao tipo de pescado capturado em maior abundância, os arrastões classificam-se em:
+Art. 3.º - 1. Quanto ao tipo de pescado capturado em maior abundância, os arrastões classificam-se em:
 
 a) Arrastões de peixe;
 
@@ -136,7 +185,7 @@ b) Arrastões de crustáceos.
 
 Zonas em que os arrastões podem pescar
 
-###### Art. 4.º - 1. A pesca de arrasto do largo divide-se em pesca de arrasto do alto e pesca de arrasto longínqua.
+Art. 4.º - 1. A pesca de arrasto do largo divide-se em pesca de arrasto do alto e pesca de arrasto longínqua.
 
 2. A pesca de arrasto do alto é a pesca efectuada apenas dentro da área em que podem exercer a sua actividade as embarcações de pesca do alto, nos termos da [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585), de 28 de Novembro.
 
@@ -144,15 +193,15 @@ Zonas em que os arrastões podem pescar
 
 4. A actividade das embarcações da pesca de arrasto longínqua no oceano Atlântico é exercida nas áreas que constam do mapa anexo a este Regulamento.
 
-###### Art. 5.º As embarcações que registam na pesca de arrasto do alto são abreviadamente denominadas arrastões do alto e as de pesca de arrasto longínqua arrastões longínquos.
+Art. 5.º As embarcações que registam na pesca de arrasto do alto são abreviadamente denominadas arrastões do alto e as de pesca de arrasto longínqua arrastões longínquos.
 
-###### Art. 6.º A autorização especial referida no n.º 3 do artigo 4.º, para os arrastões longínquos, deve ser requerida e processada na forma estabelecida para os arrastões do alto na [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585).
+Art. 6.º A autorização especial referida no n.º 3 do artigo 4.º, para os arrastões longínquos, deve ser requerida e processada na forma estabelecida para os arrastões do alto na [Portaria n.º 694/72](https://diariodarepublica.pt/dr/detalhe/portaria/694-1972-686585).
 
-###### Art. 7.º Em frente da costa metropolitana portuguesa, as embarcações da pesca de arrasto do largo em caso algum serão autorizadas a pescar a menos de 6 milhas de distância à costa, medidas a partir das linhas de base estabelecidas para a medição da largura do mar territorial.
+Art. 7.º Em frente da costa metropolitana portuguesa, as embarcações da pesca de arrasto do largo em caso algum serão autorizadas a pescar a menos de 6 milhas de distância à costa, medidas a partir das linhas de base estabelecidas para a medição da largura do mar territorial.
 
 Requisitos técnicos e de segurança a que os arrastões devem obedecer
 
-###### Art. 8.º Salvo o disposto no artigo 53.º, quando se trate de novas aquisições ou construções ou de aquisições ou construções de substituição ou de modificações, os requisitos técnicos e de segurança aos quais os arrastões devem obedecer são os seguintes:
+Art. 8.º Salvo o disposto no artigo 53.º, quando se trate de novas aquisições ou construções ou de aquisições ou construções de substituição ou de modificações, os requisitos técnicos e de segurança aos quais os arrastões devem obedecer são os seguintes:
 
 a) Alagem da arte de pesca:
 
@@ -204,15 +253,15 @@ i) Equipamento auxiliar de navegação e pesca e de comunicações:
 
 Os arrastões devem ter obrigatòriamente um odómetro, bitolas de medição das malhagens adequadas às redes que estão autorizados a utilizar, um radiogoniómetro e um radar de navegação, além do equipamento de radiocomunicações, de pesquisa de cardumes e auxiliar de navegação e pesca, aprovado pela Direcção do Serviço de Electricidade e Comunicações, apropriado às áreas onde exerçam a pesca e ao tipo de arrasto que utilizam.
 
-###### Art. 9.º Sem prejuízo do disposto no artigo anterior, serão fixados, por despacho do Ministro da Marinha, os requisitos especiais a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento sejam apoiados pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca (F. R. A. I. P.) ou beneficiem de subsídios do Estado.
+Art. 9.º Sem prejuízo do disposto no artigo anterior, serão fixados, por despacho do Ministro da Marinha, os requisitos especiais a que devem obedecer as embarcações cuja aquisição, construção, modificação ou equipamento sejam apoiados pelo Fundo de Renovação e Apetrechamento da Indústria da Pesca (F. R. A. I. P.) ou beneficiem de subsídios do Estado.
 
 Condições a que devem satisfazer os arrastões quanto às artes de pesca e quanto à sua utilização
 
-###### Art. 10.º Na pesca de arrasto do largo, quaisquer que sejam as suas modalidades, só podem ser utilizadas artes de pesca que não afectem demasiadamente o fundo do mar e a conservação dos recursos vivos marinhos dos pesqueiros em que aquela é exercida.
+Art. 10.º Na pesca de arrasto do largo, quaisquer que sejam as suas modalidades, só podem ser utilizadas artes de pesca que não afectem demasiadamente o fundo do mar e a conservação dos recursos vivos marinhos dos pesqueiros em que aquela é exercida.
 
-###### Art. 11.º No exercício da pesca de arrasto do largo podem ser utilizados os tipos de redes, forras e portas de arrasto que hajam sido prèviamente autorizados.
+Art. 11.º No exercício da pesca de arrasto do largo podem ser utilizados os tipos de redes, forras e portas de arrasto que hajam sido prèviamente autorizados.
 
-###### Art. 12.º Salvo o disposto no artigo 13.º, os arrastões que operam:
+Art. 12.º Salvo o disposto no artigo 13.º, os arrastões que operam:
 
 a) Na área da Convenção das Pescarias do Nordeste do Atlântico (C. P. NE. A.) usarão exclusivamente artes de pesca que satisfaçam ao disposto na [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), de 11 de Outubro;
 
@@ -220,23 +269,23 @@ b) Na área da Convenção Internacional das Pescarias do Noroeste do Atlântico
 
 c) Em qualquer outra área ou pescaria para as quais não tenham sido determinadas malhagens específicas usarão as malhagens mínimas estabelecidas para a região 3 da C. P. NE. A. pela [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820).
 
-###### Art. 13.º - 1. Para que os arrastões sejam utilizados na captura das espécies referidas no n.º 1 do artigo 25.º carecem de uma licença especial concedida pelo Ministro da Marinha, ouvido o Instituto de Biologia Marítima (I. B. M.) e a Junta Nacional do Fomento das Pescas (J. N. F. P.) em processo organizado pela Direcção das Pescas e do Domínio Marítimo (D. P. D. M.)
+Art. 13.º - 1. Para que os arrastões sejam utilizados na captura das espécies referidas no n.º 1 do artigo 25.º carecem de uma licença especial concedida pelo Ministro da Marinha, ouvido o Instituto de Biologia Marítima (I. B. M.) e a Junta Nacional do Fomento das Pescas (J. N. F. P.) em processo organizado pela Direcção das Pescas e do Domínio Marítimo (D. P. D. M.)
 
 2. As malhagens autorizadas nestas pescas serão as que constarem do respectivo processo de autorização
 
-###### Art. 14.º - 1. As malhagens das redes dos arrastões são verificadas com bitola plana de lados paralelos com 2 mm de espessura e a largura apropriada, feita de qualquer material durável que mantenha a sua forma e construída com uma parte ou partes em cunha com uma inclinação de 2 em 8, calibrada para medir a largura das malhas em que essa parte ou partes sejam inseridas.
+Art. 14.º - 1. As malhagens das redes dos arrastões são verificadas com bitola plana de lados paralelos com 2 mm de espessura e a largura apropriada, feita de qualquer material durável que mantenha a sua forma e construída com uma parte ou partes em cunha com uma inclinação de 2 em 8, calibrada para medir a largura das malhas em que essa parte ou partes sejam inseridas.
 
 2. A forma da verificação da malhagem é a estabelecida na [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820) e pormenorizada nas recomendações relativas à fiscalização internacional das pescarias do nordeste e do noroeste do Atlântico.
 
-###### Art. 15.º Não é permitido o emprego de qualquer dispositivo susceptível de obstruir ou, por qualquer forma, diminuir as malhagens legais, excepto forras de lona, de rede ou de qualquer outro material que, com o fim de evitar ou reduzir o desgaste ou rotura, sejam fixadas na face inferior de uma rede de arrasto e forras superiores autorizadas nos termos das C. P. NE. A. e C. I. P. NO. A.
+Art. 15.º Não é permitido o emprego de qualquer dispositivo susceptível de obstruir ou, por qualquer forma, diminuir as malhagens legais, excepto forras de lona, de rede ou de qualquer outro material que, com o fim de evitar ou reduzir o desgaste ou rotura, sejam fixadas na face inferior de uma rede de arrasto e forras superiores autorizadas nos termos das C. P. NE. A. e C. I. P. NO. A.
 
-###### Art. 16.º Sem prejuízo do disposto nos artigos 10.º, 11.º, 12.º e 13.º, são fixados por despacho do Ministro da Marinha, sempre que necessário, os requisitos especiais a que devem obedecer as artes e sistemas de captura do pescado das embarcações cuja aquisição, modificação, construção ou equipamento seja apoiado pelo F. R. A. I. P. ou beneficie de subsídios do Estado.
+Art. 16.º Sem prejuízo do disposto nos artigos 10.º, 11.º, 12.º e 13.º, são fixados por despacho do Ministro da Marinha, sempre que necessário, os requisitos especiais a que devem obedecer as artes e sistemas de captura do pescado das embarcações cuja aquisição, modificação, construção ou equipamento seja apoiado pelo F. R. A. I. P. ou beneficie de subsídios do Estado.
 
 Exercício da pesca e sinalização
 
-###### Art. 17.º No exercício da pesca de arrasto do largo, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, os arrastões devem assinalar as diferentes fases da faina da pesca como se especifica nos artigos 18.º, 19.º e 20.º e exercer a sua actividade como estabelecem os artigos 21.º e 22.º
+Art. 17.º No exercício da pesca de arrasto do largo, em obediência à parte aplicável da Convenção Relativa ao Exercício da Pesca no Atlântico Norte, aprovada, para ratificação, pelo [Decreto-Lei n.º 48509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48509-1968-560869), de 30 de Julho de 1968, os arrastões devem assinalar as diferentes fases da faina da pesca como se especifica nos artigos 18.º, 19.º e 20.º e exercer a sua actividade como estabelecem os artigos 21.º e 22.º
 
-###### Art. 18.º - 1. Os arrastões que estejam pescando isolados devem assinalar, por meio de faróis, às embarcações próximas as fases da faina da pesca que estejam a executar.
+Art. 18.º - 1. Os arrastões que estejam pescando isolados devem assinalar, por meio de faróis, às embarcações próximas as fases da faina da pesca que estejam a executar.
 
 2. Na faina de largar a rede devem mostrar dois faróis de luz branca na mesma linha vertical.
 
@@ -244,7 +293,7 @@ Exercício da pesca e sinalização
 
 4. Enquanto a rede estiver presa em peguilho, devem mostrar dois faróis de luz vermelha na mesma linha vertical.
 
-###### Art. 19.º - 1. Os arrastões que estejam pescando em parelha devem assinalar às embarcações próximas as fases da faina da pesca que estejam a executar.
+Art. 19.º - 1. Os arrastões que estejam pescando em parelha devem assinalar às embarcações próximas as fases da faina da pesca que estejam a executar.
 
 2. De dia devem mostrar içada no mastro de vante a bandeira T do Código Internacional de Sinais, que significa «Não se aproxime. Estou ocupado a arrastar de parelha».
 
@@ -252,11 +301,11 @@ Exercício da pesca e sinalização
 
 4. Quando estiverem a largar as redes ou a recolhê-las, ou enquanto a rede estiver presa em peguilho, devem mostrar os faróis previstos no n.º 4 do artigo anterior.
 
-###### Art. 20.º - 1. O disposto nos artigos anteriores destina-se a evitar e a minorar os prejuízos em aparelhos de pesca ou acidentes no decorrer das operações de pesca, sempre sem prejuízo, porém, do cumprimento do Regulamento Internacional para Evitar Abalroamentos no Mar (R. I. E. A. M.).
+Art. 20.º - 1. O disposto nos artigos anteriores destina-se a evitar e a minorar os prejuízos em aparelhos de pesca ou acidentes no decorrer das operações de pesca, sempre sem prejuízo, porém, do cumprimento do Regulamento Internacional para Evitar Abalroamentos no Mar (R. I. E. A. M.).
 
 2. Os faróis indicados neste artigo devem ser colocados onde melhor possam ser vistos, a uma distância entre si não inferior a 92 cm, mas abaixo dos faróis de pesca prescritos pelo R. I. E. A. M., devendo, no entanto, ser visíveis, tanto quanto possível, em todo o horizonte, a uma distância não inferior a 1 milha e a sua visibilidade ser inferior à dos mesmos faróis.
 
-###### Art. 21.º Sem prejuízo do cumprimento do R. I. E. A. M., todos os arrastões devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
+Art. 21.º Sem prejuízo do cumprimento do R. I. E. A. M., todos os arrastões devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
 
 a) Devem manobrar de modo a não interferir com a faina da pesca de outras embarcações ou com aparelhos de pesca;
 
@@ -264,7 +313,7 @@ b) À chegada a um pesqueiro onde já estejam outras embarcações devem informa
 
 c) Devem tomar todas as medidas possíveis para evitar redes, linhas e mais artes que estejam fixas, dando um resguardo não inferior a uma milha às armações da sardinha e do atum e não inferior a um terço de milha a todas as outras artes fixas.
 
-###### Art. 22.º - 1. Aos arrastões é vedado:
+Art. 22.º - 1. Aos arrastões é vedado:
 
 a) Fundear ou pairar nos locais onde se esteja a pescar, se tal puder interferir com essa pesca, excepto:
 
@@ -290,11 +339,11 @@ c) Envidar todos os esforços para recobrar artes de pesca que tenham perdido, e
 
 d) Tentar recobrar as artes que tenham feito perder por colisão ou qualquer outra forma de interferência, ficando responsáveis pelo pagamento de todos os prejuízos, excepto se as artes não estavam marcadas conforme se dispõe no respectivo Regulamento.
 
-###### Art. 23.º Os arrastões devem dar a maior atenção ao cumprimento das disposições do [Decreto-Lei n.º 507/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1972-685201), de 12 de Dezembro, sobre protecção de cabos submarinos.
+Art. 23.º Os arrastões devem dar a maior atenção ao cumprimento das disposições do [Decreto-Lei n.º 507/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/507-1972-685201), de 12 de Dezembro, sobre protecção de cabos submarinos.
 
 Tamanhos mínimos e outras medidas de conservação
 
-###### Art. 24.º Salvo o disposto no artigo 25.º, os arrastões que operam:
+Art. 24.º Salvo o disposto no artigo 25.º, os arrastões que operam:
 
 a) Na área da C. P. NE. A. devem obedecer às disposições desta Convenção sobre tamanhos mínimos e medidas de conservação que constam da [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820);
 
@@ -302,31 +351,31 @@ b) Na área da C. I. P. NO. A. devem obedecer às disposições desta Convençã
 
 c) Em qualquer outra área ou pescaria para as quais não tenham sido determinados tamanhos mínimos e medidas de conservação devem obedecer aos estabelecidos para a região 3 da C. P. NE. A. pela [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820).
 
-###### Art. 25.º - 1. Às embarcações munidas da licença especial referida no artigo 13.º é permitida, nas condições da [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), e ainda, quanto à pesca de camarões, gambas, carabineiros e lagostins, nas condições previstas no presente diploma, a pesca da sarda, sardinha e outros culpeídeos, sandilho, agulhão, galiota ou frachão (Ammodytes), faneca da Noruega (Gadus esmarki ou Boreogadus esmarki), biqueirão branco, enguia, peixe-aranha (Trachinus draco), capelim (Mollotus villosus), lacrau do mar (Gadus poutassou), carapau ou chicharro (Trachurus trachurus), bacalhau esquimó (Boreogadus saida), camarão, gambas e carabineiros, lagostins, moluscos e agulhão, marabumbo ou peixe-agulha (Scomberesox saurus) e línguas (Dicologlossa cuneata).
+Art. 25.º - 1. Às embarcações munidas da licença especial referida no artigo 13.º é permitida, nas condições da [Portaria n.º 600/72](https://diariodarepublica.pt/dr/detalhe/portaria/600-1972-691820), e ainda, quanto à pesca de camarões, gambas, carabineiros e lagostins, nas condições previstas no presente diploma, a pesca da sarda, sardinha e outros culpeídeos, sandilho, agulhão, galiota ou frachão (Ammodytes), faneca da Noruega (Gadus esmarki ou Boreogadus esmarki), biqueirão branco, enguia, peixe-aranha (Trachinus draco), capelim (Mollotus villosus), lacrau do mar (Gadus poutassou), carapau ou chicharro (Trachurus trachurus), bacalhau esquimó (Boreogadus saida), camarão, gambas e carabineiros, lagostins, moluscos e agulhão, marabumbo ou peixe-agulha (Scomberesox saurus) e línguas (Dicologlossa cuneata).
 
 2. Na pesca da sardinha e espécies similares serão cumpridas todas as normas sobre tamanhos mínimos e medidas de conservação que constem dos respectivos regulamentos e convenções internacionais ratificadas pelo Governo Português.
 
-###### Art. 26.º O pescado com dimensões inferiores aos tamanhos mínimos legais deverá ser lançado ao mar imediatamente após a sua captura, a não ser que se destine a transplantação para outros pesqueiros, não devendo ser desembarcado, vendido, exposto, ou oferecido à venda, quer esteja inteiro, quer não.
+Art. 26.º O pescado com dimensões inferiores aos tamanhos mínimos legais deverá ser lançado ao mar imediatamente após a sua captura, a não ser que se destine a transplantação para outros pesqueiros, não devendo ser desembarcado, vendido, exposto, ou oferecido à venda, quer esteja inteiro, quer não.
 
-###### Art. 27.º Na pesca das espécies referidas no n.º 1 do artigo 25.º e até despacho do Ministro da Marinha em contrário, não será considerada como infracção a existência a bordo e o desembarque de até 10 por cento do peso total daquelas espécies, já pescadas ou a desembarque, constituídos por peixes de dimensões inferiores às exigidas pelas C. P. NE. A. e C. I. P. NO. A., os quais não podem destinar-se ao consumo humano sob a forma de peixe.
+Art. 27.º Na pesca das espécies referidas no n.º 1 do artigo 25.º e até despacho do Ministro da Marinha em contrário, não será considerada como infracção a existência a bordo e o desembarque de até 10 por cento do peso total daquelas espécies, já pescadas ou a desembarque, constituídos por peixes de dimensões inferiores às exigidas pelas C. P. NE. A. e C. I. P. NO. A., os quais não podem destinar-se ao consumo humano sob a forma de peixe.
 
-###### Art. 28.º - 1. Os peixes que sejam encontrados a bordo em infracção ao disposto nos artigos 26.º e 27.º serão apreendidos, revertendo o produto da sua venda para receita do Estado, depois de deduzidas as importâncias das despesas.
+Art. 28.º - 1. Os peixes que sejam encontrados a bordo em infracção ao disposto nos artigos 26.º e 27.º serão apreendidos, revertendo o produto da sua venda para receita do Estado, depois de deduzidas as importâncias das despesas.
 
 2. O disposto nos mesmos artigos e no número anterior não se aplica quando a pescaria provenha de viagem autorizada com fins de investigação, onde tenha embarcado qualquer investigador da J. N. F. P., do I. B. M. ou do Instituto de Técnicas de Pesca (I. T. P.) ou outro técnico devidamente credenciado para o efeito.
 
-###### Art. 29.º - 1. O pescado deverá ser tratado e acondicionado a bordo de forma a evitar, tanto quanto possível, o esmagamento daquele que fica na parte inferior das camadas e a assegurar a melhor conservação até à descarga ou à apresentação na lota.
+Art. 29.º - 1. O pescado deverá ser tratado e acondicionado a bordo de forma a evitar, tanto quanto possível, o esmagamento daquele que fica na parte inferior das camadas e a assegurar a melhor conservação até à descarga ou à apresentação na lota.
 
 2. Não é permitido estivar o pescado destinado ao consumo em fresco em camadas com altura superior a 80 cm, incluindo o gelo empregado para a conservação.
 
 Portos em que as embarcações da pesca de arrasto do largo podem descarregar
 
-###### Art. 30.º Compete ao Ministro da Marinha, quando as necessidades de abastecimento assim o exijam, determinar, por despacho, o porto ou portos em que as embarcações da pesca de arrasto do largo são autorizadas a descarregar.
+Art. 30.º Compete ao Ministro da Marinha, quando as necessidades de abastecimento assim o exijam, determinar, por despacho, o porto ou portos em que as embarcações da pesca de arrasto do largo são autorizadas a descarregar.
 
 Processo administrativo referente à autorização das aquisições, construções e modificações de arrastões e substituições de motores de propulsão dos mesmos.
 
-###### Art. 31.º A aquisição, construção ou modificação de arrastões a registar ou registados na metrópole ou a construir ou modificar em estaleiros metropolitanos depende de autorização do Ministro da Marinha, nos termos dos artigos 47.º e 48.º do Regulamento Geral das Capitanias (R. G. C.).
+Art. 31.º A aquisição, construção ou modificação de arrastões a registar ou registados na metrópole ou a construir ou modificar em estaleiros metropolitanos depende de autorização do Ministro da Marinha, nos termos dos artigos 47.º e 48.º do Regulamento Geral das Capitanias (R. G. C.).
 
-###### Art. 32.º - 1. O requerimento pedindo autorização para uma nova aquisição ou construção, para uma aquisição ou construção de substituição ou para uma modificação, ou ainda para substituição do motor de propulsão, deve, obrigatòriamente, referir:
+Art. 32.º - 1. O requerimento pedindo autorização para uma nova aquisição ou construção, para uma aquisição ou construção de substituição ou para uma modificação, ou ainda para substituição do motor de propulsão, deve, obrigatòriamente, referir:
 
 a) A identificação adequada do requerente;
 
@@ -342,21 +391,21 @@ f) No caso de aquisição, além dos elementos das alíneas anteriores, a data d
 
 2. O requerimento é entregue na correspondente repartição marítima juntamente com os documentos referidos nos artigos 36.º e 37.º, todos eles acompanhados de duas cópias não seladas.
 
-###### Art. 33.º As assinaturas dos requerentes devem ser reconhecidas notarialmente, salvo no caso de os requerimentos serem apresentados pelos próprios e estes serem conhecidos do chefe da repartição marítima ou se identificarem por meio de bilhete de identidade, o que se certificará no acto da apresentação.
+Art. 33.º As assinaturas dos requerentes devem ser reconhecidas notarialmente, salvo no caso de os requerimentos serem apresentados pelos próprios e estes serem conhecidos do chefe da repartição marítima ou se identificarem por meio de bilhete de identidade, o que se certificará no acto da apresentação.
 
-###### Art. 34.º A repartição marítima onde os requerimentos sejam entregues verificará se os mesmos satisfazem às normas deste Regulamento e, em caso afirmativo, apor-lhe-á o seu carimbo e, bem assim, a data e o número de entrada e tudo o mais que é determinado no artigo 118.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963. Nos termos daquele artigo, o averbamento feito deverá ser datado e rubricado por funcionário para tal competente.
+Art. 34.º A repartição marítima onde os requerimentos sejam entregues verificará se os mesmos satisfazem às normas deste Regulamento e, em caso afirmativo, apor-lhe-á o seu carimbo e, bem assim, a data e o número de entrada e tudo o mais que é determinado no artigo 118.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963. Nos termos daquele artigo, o averbamento feito deverá ser datado e rubricado por funcionário para tal competente.
 
 Em seguida, a repartição marítima remeterá os requerimentos à D. P. D. M. para subsequente instrução e despacho.
 
-###### Art. 35.º Os processos remetidos pelas repartições marítimas à D. P. D. M. em cumprimento do artigo anterior são por esta estudados e informados, com audiência prévia, porém, da Direcção da Marinha Mercante (D. M. M.), I. T. P. e J. N. F. P. Salvo circunstâncias especiais, devidamente justificadas, aqueles processos devem ser levados, pela D. P. D. M., a despacho superior (Ministro da Marinha ou director-geral dos Serviços de Fomento Marítimo, conforme for o caso) nos quarenta e cinco dias subsequentes a data de entrada do requerimento na repartição marítima respectiva.
+Art. 35.º Os processos remetidos pelas repartições marítimas à D. P. D. M. em cumprimento do artigo anterior são por esta estudados e informados, com audiência prévia, porém, da Direcção da Marinha Mercante (D. M. M.), I. T. P. e J. N. F. P. Salvo circunstâncias especiais, devidamente justificadas, aqueles processos devem ser levados, pela D. P. D. M., a despacho superior (Ministro da Marinha ou director-geral dos Serviços de Fomento Marítimo, conforme for o caso) nos quarenta e cinco dias subsequentes a data de entrada do requerimento na repartição marítima respectiva.
 
-###### Art. 36.º Os documentos que o requerente deve juntar ao seu requerimento, uns e outros com duas cópias não seladas, são os seguintes:
+Art. 36.º Os documentos que o requerente deve juntar ao seu requerimento, uns e outros com duas cópias não seladas, são os seguintes:
 
 a) Anteprojecto da construção ou modificação da embarcação, assinado pelo engenheiro construtor naval responsável, com desenho e memória descritiva de que conste o equipamento de pesca que se pretende instalar ou modificar e a compartimentação, isolamento, estiva e esgoto do porão do pescado, cuja capacidade em metros cúbicos deve ser referida, bem como o peso de peixe que se estima pode ser conservado em boas condições de sanidade;
 
 b) Ficha técnica completa do motor, quando se trate de substituição do motor ou motores de propulsão.
 
-###### Art. 37.º - 1. Quando se trate de aquisições ou construções de substituição ou quando se trate de modificações, o requerente juntará também os seguintes documentos, igualmente com duas cópias não seladas:
+Art. 37.º - 1. Quando se trate de aquisições ou construções de substituição ou quando se trate de modificações, o requerente juntará também os seguintes documentos, igualmente com duas cópias não seladas:
 
 a) Prova de adequada capacidade financeira para o fim em vista;
 
@@ -378,7 +427,7 @@ b) Indicação, em relação a cada arrastão que possua, dos seguintes elemento
 
 3. Tanto no caso das embarcações a que se refere o n.º 1 como no caso das embarcações a que se refere o n.º 2 deste artigo deverão os requerentes juntar a declaração prevista no artigo 48.º do R. G. C.
 
-###### Art. 38.º - 1. Dos processos relativos a autorização de novas aquisições ou construções resulta a inscrição na D. P. D. M. da pretensão apresentada. Quando esta pretensão puder ser efectivada, tendo em conta o disposto neste Regulamento, é presente à apreciação do Ministro da Marinha.
+Art. 38.º - 1. Dos processos relativos a autorização de novas aquisições ou construções resulta a inscrição na D. P. D. M. da pretensão apresentada. Quando esta pretensão puder ser efectivada, tendo em conta o disposto neste Regulamento, é presente à apreciação do Ministro da Marinha.
 
 2. Para efeitos do disposto no número anterior é estabelecida a seguinte ordem de preferências:
 
@@ -394,23 +443,23 @@ b) Indicação, em relação a cada arrastão que possua, dos seguintes elemento
 
 6.º Outros requerentes.
 
-###### Art. 39.º Salvo o disposto no artigo seguinte, dentro de cada uma das categorias referidas no artigo anterior a ordem de preferência corresponde à ordem de entrada do requerimento na competente capitania do porto.
+Art. 39.º Salvo o disposto no artigo seguinte, dentro de cada uma das categorias referidas no artigo anterior a ordem de preferência corresponde à ordem de entrada do requerimento na competente capitania do porto.
 
-###### Art. 40.º Quando o pedido ou pedidos de um requerente solicitem mais de uma autorização, apenas será considerada e ordenada imediatamente a correspondente à primeira, devendo a cada uma das restantes ser atribuída a data do registo da embarcação para que foi concedida a autorização imediatamente anterior, excepto se essa data for anterior à do pedido.
+Art. 40.º Quando o pedido ou pedidos de um requerente solicitem mais de uma autorização, apenas será considerada e ordenada imediatamente a correspondente à primeira, devendo a cada uma das restantes ser atribuída a data do registo da embarcação para que foi concedida a autorização imediatamente anterior, excepto se essa data for anterior à do pedido.
 
-###### Art. 41.º A lista de preferências total é constituída por listas parciais elaboradas em 31 de Dezembro de cada ano nos termos dos artigos 38.º, 39.º e 40.º, tendo a lista de um determinado ano preferência sobre as dos anos subsequentes.
+Art. 41.º A lista de preferências total é constituída por listas parciais elaboradas em 31 de Dezembro de cada ano nos termos dos artigos 38.º, 39.º e 40.º, tendo a lista de um determinado ano preferência sobre as dos anos subsequentes.
 
 Arrastões de crustáceos
 
-###### Art. 42.º Sem prejuízo do disposto no presente diploma e mais legislação aplicável, consideram-se em vigor as disposições da [Portaria n.º 22312](https://diariodarepublica.pt/dr/detalhe/portaria/22312-1966-479224), de 14 de Novembro de 1966.
+Art. 42.º Sem prejuízo do disposto no presente diploma e mais legislação aplicável, consideram-se em vigor as disposições da [Portaria n.º 22312](https://diariodarepublica.pt/dr/detalhe/portaria/22312-1966-479224), de 14 de Novembro de 1966.
 
 Vistorias
 
-###### Art. 43.º Na altura da vistoria de registo de um arrastão ou, no caso de modificação, na altura da vistoria que se segue à conclusão dos trabalhos, devem ser verificadas e aprovadas as características das redes pela comissão local de vistorias, da qual fará parte um delegado da D. P. D. M.
+Art. 43.º Na altura da vistoria de registo de um arrastão ou, no caso de modificação, na altura da vistoria que se segue à conclusão dos trabalhos, devem ser verificadas e aprovadas as características das redes pela comissão local de vistorias, da qual fará parte um delegado da D. P. D. M.
 
-###### Art. 44.º Além das vistorias a que se refere o artigo anterior, as artes de pesca dos arrastões deverão ser vistoriadas nos portos pelo pessoal das repartições marítimas e pela tripulação dos navios de fiscalização da pesca.
+Art. 44.º Além das vistorias a que se refere o artigo anterior, as artes de pesca dos arrastões deverão ser vistoriadas nos portos pelo pessoal das repartições marítimas e pela tripulação dos navios de fiscalização da pesca.
 
-###### Art. 45.º - 1. Os comandantes dos navios de fiscalização da pesca providenciarão para que, amiudadas vezes, sejam vistoriadas no mar as redes dos arrastões, em especial imediatamente após o fim dos arrastos.
+Art. 45.º - 1. Os comandantes dos navios de fiscalização da pesca providenciarão para que, amiudadas vezes, sejam vistoriadas no mar as redes dos arrastões, em especial imediatamente após o fim dos arrastos.
 
 2. Na execução destas vistorias, aqueles comandantes providenciarão para que não seja prejudicado, significativamente, o exercício da pesca.
 
@@ -418,7 +467,7 @@ Vistorias
 
 Utilização das embarcações da pesca de arrasto do largo
 
-###### Art. 46.º Mediante despacho do Ministro da Marinha, em processo organizado na D. P. D. M., ouvidas a D. M. M. e a J. N. F. P.:
+Art. 46.º Mediante despacho do Ministro da Marinha, em processo organizado na D. P. D. M., ouvidas a D. M. M. e a J. N. F. P.:
 
 a) Os arrastões do alto podem exercer a sua actividade em determinada zona ou zonas da pesca longínqua, desde que satisfaçam os requisitos técnicos para a pesca nessa zona ou zonas;
 
@@ -426,32 +475,32 @@ b) Os arrastões do alto e longínquos podem exercer a pesca polivalente previst
 
 c) Os arrastões longínquos podem exercer a pesca de espécies diferentes daquelas para que foram registados.
 
-###### Art. 47.º A autorização a que se refere o artigo anterior é sempre condicionada às necessidades de abastecimento do País nas diversas espécies de pescado.
+Art. 47.º A autorização a que se refere o artigo anterior é sempre condicionada às necessidades de abastecimento do País nas diversas espécies de pescado.
 
-###### Art. 48.º A autorização de que trata o artigo 46.º sujeita os arrastões ao cumprimento de todas as disposições legais e convenções internacionais ratificadas pelo Governo Português relativas ao tipo de pesca que passarem a praticar.
+Art. 48.º A autorização de que trata o artigo 46.º sujeita os arrastões ao cumprimento de todas as disposições legais e convenções internacionais ratificadas pelo Governo Português relativas ao tipo de pesca que passarem a praticar.
 
-###### Art. 49.º - 1. A agremiação das embarcações da pesca de arrasto do largo é feita de acordo com a classificação que figura no seu registo.
+Art. 49.º - 1. A agremiação das embarcações da pesca de arrasto do largo é feita de acordo com a classificação que figura no seu registo.
 
 2. As mesmas embarcações, desde que exerçam actividades piscatórias diferentes das que respeitam ao grémio de que trata o número anterior, deverão inscrever-se conjuntamente no grémio a que tais actividades respeitam.
 
 Disposições diversas
 
-###### Art. 50.º As penalidades para as infracções cometidas na pesca de arrasto do largo são as estipuladas nos Decretos n.os 36615, de 24 de Novembro de 1947, e 44423, de 28 de Junho de 1962, e legislação complementar.
+Art. 50.º As penalidades para as infracções cometidas na pesca de arrasto do largo são as estipuladas nos Decretos n.os 36615, de 24 de Novembro de 1947, e 44423, de 28 de Junho de 1962, e legislação complementar.
 
-###### Art. 51.º As licenças para o exercício da pesca de arrasto do largo são as estabelecidas no [Decreto n.º 20926](https://diariodarepublica.pt/dr/detalhe/decreto/20926-1932-523216), de 24 de Fevereiro de 1932, para a pesca de arrasto do alto.
+Art. 51.º As licenças para o exercício da pesca de arrasto do largo são as estabelecidas no [Decreto n.º 20926](https://diariodarepublica.pt/dr/detalhe/decreto/20926-1932-523216), de 24 de Fevereiro de 1932, para a pesca de arrasto do alto.
 
-###### Art. 52.º Com a entrada em vigor da presente portaria, nos termos do artigo 247.º do R. G. C., deixam de vigorar as disposições paralelas aplicáveis à pesca de arrasto do alto e longínqua do Regulamento da Pesca do Arrasto, promulgado pelo [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), e legislação complementar.
+Art. 52.º Com a entrada em vigor da presente portaria, nos termos do artigo 247.º do R. G. C., deixam de vigorar as disposições paralelas aplicáveis à pesca de arrasto do alto e longínqua do Regulamento da Pesca do Arrasto, promulgado pelo [Decreto n.º 36615](https://diariodarepublica.pt/dr/detalhe/decreto/36615-1947-636696), e legislação complementar.
 
-###### Art. 53.º - 1. Por despacho do Ministro da Marinha podem os actuais arrastões da pesca do alto e longínqua, na sua substituição ou modificação, ser dispensados do cumprimento do disposto no artigo 8.º deste diploma.
+Art. 53.º - 1. Por despacho do Ministro da Marinha podem os actuais arrastões da pesca do alto e longínqua, na sua substituição ou modificação, ser dispensados do cumprimento do disposto no artigo 8.º deste diploma.
 
 2. Esta possibilidade cessará no prazo máximo de quinze anos, contados da data da publicação deste diploma.
 
 3. No caso de a pesca de arrasto do largo ser exercida com navios-mães, bases flutuantes ou frotas combinadas, o Ministro da Marinha determinará, caso por caso, quais os requisitos técnicos e de segurança a que as diferentes embarcações devem obedecer.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 ÁREAS DE PESCA DO OCEANO ATLÂNTICO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/02/02900/01570163.pdf))](https://files.diariodarepublica.pt/1s/1973/02/02900/01570163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/02900/01570163.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

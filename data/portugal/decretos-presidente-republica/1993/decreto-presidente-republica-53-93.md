@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 248/1993, 1º Suplemento, Série I-A de 1993-10-22
   number: '248'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6026-(2) a 6026-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/248a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/53/1993/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-1993-293692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:15:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 388dc15a41be601f68f8e2dba1cc660df7ca02d5bf686fdaa111b2f40a376ee1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5a1e92404e4e323e95e07a10d707800200d812d31d77a2143c30d95ba575cff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:15:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo Europeu
+- Bruxelas
 - CE Países
 - CECA
 - CEE
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Cooperação Técnica
-- Portugal
-- Euratom
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Política
-- Bruxelas
+- Cooperação Técnica
+- Euratom
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/33/1993/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/33/1993/10/22/p/dre
+- type: cites
+  target: pt:dre:293691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:15:16Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +106,16 @@ validation:
 
 de 22 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo Europeu que cria uma associação entre as Comunidades Europeias e os seus Estados membros, por um lado, e a República da Polónia, por outro, e respectivos protocolos e anexos, bem como a Acta Final, com as suas declarações, assinado em Bruxelas em 16 de Dezembro de 1991, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 33/93](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/33-1993-293691), em 24 de Junho de 1993.
 
-**Assinado em 12 de Outubro de 1993.**
+Assinado em 12 de Outubro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Outubro de 1993.**
+Referendado em 15 de Outubro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

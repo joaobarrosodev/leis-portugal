@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18500/18881892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-1979-377887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06007aaea8f92efb9d190ee12c00cecfb4f074d51633862a69ab7c5a5adfc79b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4634db202222f7c861e50e73f89eed71fc508c1a4981051f972f9e9ddf1428b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Denominação de Origem
+- Etiquetagem
+- Exportação
+- Marca Registada
+- Qualidade do Produto
+- Região Demarcada
+- Vinho
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:286117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377886:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:648730:por
+  label: "Revogadas as menções relativas à região de Trás-os-Montes, constantes dos n.os I e II da lista das regiões destinadas\
+    \ à produção de vinhos de qualidade rosados, ou rosés, publicada em anexo ao presente diploma, pela PORT.157/93.11.02.1993.MA,\
+    \ DR.IS-B [35] de 11.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1993-648730
+  date: '1993-02-11'
+- type: repealed_by
+  target: pt:dre:648731:por
+  label: "Revogadas as menções relativas à região do Ribatejo, constantes dos n.os I e II da lista das regiões destinadas\
+    \ à produção de vinhos de qualidade rosados, ou rosés, publicada em anexo ao presente diploma, pela PORT.160/93.11.02.1993.MA,\
+    \ DR.IS-B [35] de 11.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/160-1993-648731
+  date: '1993-02-11'
+- type: repealed_by
+  target: pt:dre:648732:por
+  label: "Revogadas as menções relativas à região das Beiras, constantes dos n.os I e II da lista das regiões destinadas à\
+    \ produção de vinhos de qualidade rosados, ou rosés, publicada em anexo ao presente diploma, pela PORT.158/93.11.02.1993.MA,\
+    \ DR.IS-B [35] de 11.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/158-1993-648732
+  date: '1993-02-11'
+- type: repealed_by
+  target: pt:dre:648742:por
+  label: "Revogadas as menções relativas à região do Algarve, constantes dos n.os I e II da lista das regiões destinadas à\
+    \ produção de vinhos de qualidade rosados, ou rosés, publicada em anexo ao presente diploma, pela PORT.159/93.11.02.1993.MA,\
+    \ DR.IS-B [35] de 11.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/159-1993-648742
+  date: '1993-02-11'
+- type: repealed_by
+  target: pt:dre:643569:por
+  label: "Revogadas as menções relativas à região do Oeste, constantes dos n.os I e II da lista das regiões destinadas à produção\
+    \ de vinhos de qualidade rosados, ou rosés, publicada em anexo ao presente diploma, pela PORT.351/93.24.03.1993.MA, DR.IS-B\
+    \ [70] de 24.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-1993-643569
+  date: '1993-03-24'
+- type: repealed_by
+  target: pt:dre:286117:por
+  label: "Revogada pela PORT.1070/98.1998.12.30.MADRP, DR.IS-B [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1070-1998-286117
+  date: '1998-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:20Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +212,7 @@ c) Reserva, quando o designativo for associado ao ano de colheita, o produto apr
 
 d) Garrafeira, quando o designativo for associado ao ano de colheita, o produto tenha tido o envelhecimento adiante referido, apresente qualidade destacada e um grau alcoólico volumétrico superior, pelo menos, em 0,5º ao limite mínimo legalmente fixado, devendo constar de conta corrente específica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18500/18881892.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18500/18881892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18500/18881892.pdf)
 
 No caso do vinho verde, não é obrigatório o envelhecimento antes do engarrafamento.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2021/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2021-165797123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca6420091bdcfe4054e6dfffe7204b4ffe55bdeb6d30ccd595e9ce79f08464e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f23383e12491d192e95007ce5dbfd3d1f9c113a5dbd5a11a415ecb9f7b860566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Saúde
 - Conselho de Ministros
 - Definição de Competências
+- Governo XXII
 - INA
-- Ministro de Estado e dos Negócios Estrangeiros
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Saúde
-- Secretário de Estado Adjunto e da Saúde
-- Secretário de Estado das Comunidades Portuguesas
 - Ministro da Agricultura
+- Ministro da Saúde
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente e da Ação Climática
 - Ministro do MAR
 - Ministro do Planeamento
 - Orgânica
+- PlanAPP
+- Provedor do Animal
+- Secretário de Estado Adjunto e da Saúde
+- Secretário de Estado da Internacionalização
+- Secretário de Estado da Saúde
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Pescas
 - Secretário de Estado dos Assuntos Europeus
-- Secretário de Estado da Internacionalização
-- Provedor do Animal
-- Governo XXII
-- Ministro do Ambiente e da Ação Climática
-- PlanAPP
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
@@ -106,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/61-c/2020/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/61-c/2020/12/15/p/dre
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132883342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136260571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143170407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151194543:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:53Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +212,9 @@ Os artigos 3.º, 13.º, 21.º, 28.º, 31.º e 73.º do [Decreto-Lei n.º 169-B/2
 
 21 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -226,7 +248,9 @@ i) Centro de Competências de Planeamento, de Políticas e de Prospetiva da Admi
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -258,7 +282,9 @@ c) O Instituto Nacional de Administração, I. P.
 
 8 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O Ministro do Ambiente e da Ação Climática tem por missão formular, conduzir, executar e avaliar as políticas de ambiente, ordenamento do território, cidades, transportes urbanos, suburbanos e rodoviários de passageiros, mobilidade, clima, silvicultura, conservação da natureza, bem-estar dos animais de companhia, energia, geologia e florestas, numa perspetiva de desenvolvimento sustentável e de coesão social e territorial.
 
@@ -280,7 +306,9 @@ c) O Instituto Nacional de Administração, I. P.
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -302,7 +330,9 @@ c) O Instituto Nacional de Administração, I. P.
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...].
 
@@ -332,12 +362,14 @@ Sem prejuízo do disposto no artigo anterior, o presente decreto-lei entra em vi
 
 Visto e aprovado em Conselho de Ministros de 25 de março de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Francisco Gonçalo Nunes André - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ângelo Nelson Rosário de Souza - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Hugo Santos Mendes - Ana Maria Pereira Abrunhosa - Rui Manuel Costa Martinho - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 24 de maio de 2021.**
+Promulgado em 24 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2021.**
+Referendado em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114344877

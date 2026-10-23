@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/188a00/25152537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99d979be3c67c3e77c9bcdf5c019f8edbc3a589859c827f96cec1c3f80e970ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ec90d7fb89301eeea966d226f0728e9e54debd1c3523fe78b34e8650a27d1fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CAÇA
 - Calendário Venatório
 - Carta de Caçador
-- Multa
-- CAÇA
 - Conselho Cinegético
 - Conselho Nacional da CAÇA e da Conservação da Fauna
 - Contra-ordenação
 - Direcção Geral das Florestas
 - Licença de Caça
+- Multa
 - Proteção do Ambiente
-- Sistema Nacional de Áreas Protegidas
 - Regime Jurídico
+- Sistema Nacional de Áreas Protegidas
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:536243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:200983:por
+  label: "Alterado o art. 131.º pelo DEC LEI.231/96.1996.11.30.MADRP DR.IS-A [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1996-200983
+  date: '1996-11-30'
+- type: amended_by
+  target: pt:dre:419395:por
+  label: "Alterado o art. 33º, pelo DEC LEI.372/97.1997.12.23.MADRP DR.IS-A [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/372-1997-419395
+  date: '1997-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -108,16 +118,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/261/1996/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/261/1996/07/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:321502:por
+  label: "Rectificado pela DECL-RECT.15-F/96.1996.10.31.PCM, DR.IS-A [253]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-f-1996-321502
+  date: '1996-10-31'
+- type: repealed_by
+  target: pt:dre:558207:por
+  label: "Revogado pela LEI.173/99.1999.09.21.AR DR.IS-A [221], que entra em vigor um ano após a sua publicação, mas mantidos\
+    \ contudo em vigor, os diplomas regulamentares que o executam, em tudo o que não contrariar a referida lei. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/173-1999-558207
+  date: '1999-09-21'
+- type: repealed_by
+  target: pt:dre:534644:por
+  label: "Revogado pelo DEC LEI.227-B/2000.2000.09.15.MADRP, DR.IS-A [214]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-b-2000-534644
+  date: '2000-09-15'
 article_structure:
   article_count: 149
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:02Z'
   warnings: []
   errors: []
 ---
@@ -776,7 +834,7 @@ Sem prejuízo do disposto na alínea h) do n.º 1 artigo 31.º, a utilização d
 
 #### SECÇÃO II — Regime cinegético especial
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -916,7 +974,7 @@ h) Informar e colaborar com a Direcção-Geral das Florestas em tudo o que esta 
 
 3 - Tratando-se de zona de caça turística, compete à Direcção-Geral do Turismo a inspecção das infra-estruturas dos empreendimentos de animação desportiva e dos serviços nela prestados.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Procedimento para a concessão de zonas de caça
 
@@ -1026,7 +1084,7 @@ e) O número mínimo de guardas florestais auxiliares que a zona deve ter.
 
 3 - Em caso de deferimento da transmissão, mantém-se o prazo da concessão inicial.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Alteração, renovação, suspensão e extinção de zonas de caça
 
@@ -1754,15 +1812,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - José Augusto de Carvalho José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (artigo 21.º, n.º 1)
 

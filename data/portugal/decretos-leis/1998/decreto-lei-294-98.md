@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/1998/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1998-241442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff6c77a86616b30c8163ea23f877635d1d4581639b7407fd43717ee30f039b79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cb274317f4710fc05c73f788ad652eae8cd847bc5d909e725494cc41f691087
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Fiscalização
 - Multa
 - Proteção dos Animais
-- Fiscalização
 - Transporte de Animais
 relationships:
 - type: amended_by
@@ -92,16 +92,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/160/1995/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/160/1995/02/27/p/dre
+- type: repealed_by
+  target: pt:dre:636746:por
+  label: "Revogado pelo DEC LEI.265/2007.24.07.2007.MADRP, DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-2007-636746
+  date: '2007-07-24'
 article_structure:
   article_count: 20
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:25Z'
   warnings: []
   errors: []
 ---
@@ -474,17 +479,19 @@ O presente diploma entra em vigor imediatamente após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - António Manuel de Oliveira Guterres - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 3 de Setembro de 1998.**
+Promulgado em 3 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 1998.**
+Referendado em 8 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Solípedes domésticos e animais domésticos das espécies bovina, ovina, caprina e suína
 
@@ -654,13 +661,13 @@ A) Solípedes domésticos
 
 Transporte por caminho de ferro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Estes números podem variar de 10%, no máximo, para os cavalos adultos e os póneis e de 20%, no máximo, para os cavalos jovens e potros, em função não só do peso e do tamanho dos cavalos mas também do seu estado físico, das condições meteorológicas e da duração provável do trajecto.
 
 Transporte por estrada
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Estes números podem variar de 10%, no máximo, para os cavalos adultos e os póneis e de 20%, no máximo, para os cavalos jovens e potros, em função não só do peso e do tamanho mas também do seu estado físico, das condições meteorológicas e da duração provável do trajecto.
 
@@ -668,33 +675,33 @@ Transporte aéreo
 
 Densidade de carga dos cavalos em relação à superfície do solo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Transporte por mar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 B) Bovinos
 
 Transporte por caminho de ferro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Estes números podem variar em função não só do peso e do tamanho mas também do seu estado físico, das condições meteorológicas e da duração provável do trajecto.
 
 Transporte por estrada
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Estes números podem variar em função não só do peso e do tamanho dos animais mas também do seu estado físico, das condições meteorológicas e da duração provável do trajecto.
 
 Transporte aéreo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Transporte por mar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Há que conceder mais 10% de espaço para as fêmas prenhes.
 
@@ -702,13 +709,13 @@ C) Ovinos/caprinos
 
 Transporte por caminho de ferro
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 A superfície do solo indicada supra pode variar em função da raça, do tamanho, do estado físico e do comprimento do pêlo dos animais, bem como em função das condições meteorológicas e do tempo de viagem.
 
 Transporte por estrada
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 A superfície do solo indicada supra pode variar em função da raça, do tamanho, do estado físico e do comprimento do pêlo dos animais, bem como em função das condições meteorológicas e do tempo da viagem. A título de exemplo, para borregos pequenos pode-se prever uma superfície inferior a 0,20 m por animal.
 
@@ -716,11 +723,11 @@ Transporte aéreo
 
 Densidade de carga dos carneiros e cabras em relação à superfície no solo
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Transporte por via marítima
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 D) Suínos
 
@@ -736,17 +743,17 @@ Transporte aéreo
 
 A densidade da carga deverá ser bastante elevada, para evitar ferimentos na descolagem, caso haja turbulência, ou na aterragem, mas deverá, todavia, permitir a cada animal deitar-se. O clima, o tempo total de viagem e a hora de chegada deverão ser tomados em conta na escolha da densidade de cargas.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Transporte por mar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 E) Aves de capoeira
 
 Densidade aplicável ao transporte de aves de capoeira em contentor
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
+[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48384851.pdf)
 
 Estes números podem variar em função não só do peso e do tamanho das aves de capoeira mas também do seu estado físico, das condições meteorológicas e do tempo provável de trajecto.
 

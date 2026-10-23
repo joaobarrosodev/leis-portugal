@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/061a00/17821786.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/2003/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2003-215080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1384d867bc8038f089abba50b3c8851189a422134ce40f7492d4483c8b7609c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7291e530aac947ccaa9d78092e49bb66a22aad59a1bcbd67cd478b99079b7045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Centro Alentejo
+- Abastecimento de Água
 - Adjudicação
-- Sociedade Anónima
-- Saneamento Básico
+- Alentejo
 - Contrato de Concessão
 - Estatuto
-- Alentejo
-- Abastecimento de Água
+- Saneamento Básico
+- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Centro Alentejo
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:67348947:por
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/130/2002/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/130/2002/05/11/p/dre
+- type: cites
+  target: pt:dre:368266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348947:por
+  label: Revogado, a partir de 30.06.2015, o presente diploma pelo(a) Decreto-Lei n.º 94/2015 - Diário da República n.º 104/2015,
+    Série I de 2015-05-29; e extinta, a partir da referida data, nos termos do disposto nos n.ºs 2 a 10 do art. 4.º daquele
+    diploma, a sociedade Águas do Centro Alentejo, S.A., criada pelo art. 1.º do presente, e determinada a transferência do
+    respetivo património global para a sociedade ora criada, Águas de Lisboa e Vale do Tejo, S.A., a qual sucede em todos
+    os direitos e obrigações da concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2015-67348947
+  date: '2015-05-29'
 article_structure:
   article_count: 31
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:41Z'
   warnings: []
   errors: []
 ---
@@ -170,15 +187,15 @@ Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumpr
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva - Isaltino Afonso de Morais.
 
-**Promulgado em 21 de Fevereiro de 2003.**
+Promulgado em 21 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Fevereiro de 2003.**
+Referendado em 28 de Fevereiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ESTATUTOS DA ÁGUAS DO CENTRO ALENTEJO, S. A.
 

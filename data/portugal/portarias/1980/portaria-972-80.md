@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-1980-458407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 786f69d605272426143fa2164199b452eeb8f23995621af77f25e32ccfd96233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600407c9d298a2785a959e40b62dd81c126d75a00b951adeea82d6086c3032fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:495098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565007:por
+  label: "Alterado o quadro de Pessoal do Centro de Identificação Civil e Criminal, pela PORT.786/81.11.09.1981.MJ, DR.IS\
+    \ [209] de 11.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/786-1981-565007
+  date: '1981-09-11'
+- type: amended_by
+  target: pt:dre:394110:por
+  label: "Aditados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan, na redacção do presente diploma, pela PORT.715/82.22.07.1982.MFP, DR.IS [167] de 22.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1982-394110
+  date: '1982-07-22'
+- type: amended_by
+  target: pt:dre:495098:por
+  label: "Alterado o quadro de pessoal aprovado pelo Dec Lei 63/76, de 24-Jan DG.IS [20], na redacção do presente diploma\
+    \ e da Port 316/87 de 16-Abr, pela PORT.774/87.1987.09.07.MF DR.IS [205]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1987-495098
+  date: '1987-09-07'
+- type: cites
+  target: pt:dre:231157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581856:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:31Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +140,11 @@ Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças
 
 Quadro de pessoal do Centro de Identificação Civil e Criminal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf)
 
 ## ANEXO — A) Mapa comparativo a que se refere o n.º 21 do [Despacho Normativo n.º 1/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1980-581856), de 4 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26300/38533855.pdf)
 
 B) Legislação que aprova o quadro de pessoal
 

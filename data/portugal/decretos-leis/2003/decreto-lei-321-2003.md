@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/295a00/85638573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/2003/12/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 024b8fd63cd00fe40af34c78848ec2c56ee415ebae71c19e5725a39185a10d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3e131e36ad11dd5b5e22902e9a6b2c2992211f39911c78f1a990b6d12280be6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,27 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Transporte Marítimo
-- Inspecção de Navios
-- Registo de Navios
 - Fiscalização
+- Inspecção de Navios
+- Navegação Marítima
 - Normas de Segurança
 - Poluição Marinha
 - Poluição pelos Navios
+- Registo de Navios
 - Segurança Marítima
+- Transporte Marítimo
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:70641450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70641450:por
+  label: Alterados, a partir de 14.10.2015, os arts. 3.º e 4.º do Dec Lei 96/89 de 28-mar, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13 que republica o citado decreto-lei
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2015-70641450
+  date: '2015-10-13'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -109,16 +115,26 @@ relationships:
   target: celex:32002R2099
   label: null
   source: http://data.europa.eu/eli/reg/2002/2099/oj
+- type: corrected_by
+  target: pt:dre:569770:por
+  label: "Rectificado pela DECL-RECT.24/2004.16.02.2004.PCM, DR.IS-A [44] de 21.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/24-2004-569770
+  date: '2004-02-16'
+- type: repealed_by
+  target: pt:dre:544378:por
+  label: "Revogado pelo DEC LEI.13/2012.20.01.2012.MAMAOT, DR.IS [15] de 20.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2012-544378
+  date: '2012-01-20'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:17Z'
   warnings: []
   errors: []
 ---
@@ -361,7 +377,7 @@ m) ...
 
 n) ...
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -391,15 +407,15 @@ c) Os artigos 14.º, 15.º, 17.º, 18.º e 20.º do Regulamento anexo à Portari
 
 Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2003. - José Manuel Durão Barroso - Carlos Henrique da Costa Neves - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 5 de Dezembro de 2003.**
+Promulgado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Critérios mínimos para as organizações referidas no artigo 4.º
 

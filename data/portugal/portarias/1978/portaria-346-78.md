@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-1978-298254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e226aef4da69f58d5e37019a373a9dc99d597c003a78f30a0c8774da579acf6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a14f1039ea53947e51c333c40df1f55eacf2daa86e641502c756b47b0182f56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeronave com Motor
+- Avião
+- Contribuições e Impostos
+- Embarcação de Recreio
+- Imposto sobre Veículos
+- Impresso
+- Isenção Fiscal
+- Regulamento do Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:668502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378767:por
+  label: "Alterado o n.º 5.º do presente diploma, pela PORT.448/79.22.08.1979.MFP, DR.IS [193] de 22.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1979-378767
+  date: '1979-08-22'
+- type: amended_by
+  target: pt:dre:668502:por
+  label: "Substituída a guia de pagamento nº 5 e o título de isenção modelo nº 1 e extintos os impressos modelos nºs 1, 3,\
+    \ 5 e 6 pela PORT.490-A/2005.23.05.2005.MF, DR.IS-B [99-Supl] de 23.05.2005, e remetidas todas as referências feitas em\
+    \ textos legais àqueles últimos para o impresso modelo nº 12 constante da citada Portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-a-2005-668502
+  date: '2005-05-23'
+- type: cites
+  target: pt:dre:426138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501179:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:38:56Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +146,7 @@ c) Para os automóveis antigos de que trata a alínea d) - 2000 km de percurso e
 
 4.º Para efeitos de determinação da taxa do imposto, nos termos da tabela I do artigo 8.º do Regulamento, devida pelos automóveis de cujos livretes conste apenas a potência fiscal, a cilindrada do motor em centímetros cúbicos obtém-se multiplicando o valor dessa potência pelos seguintes factores, consoante o número de cilindros do motor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf)
 
 5.º - É fixado em 50$00, a título de reembolso do custo do papel e impressão, o preço dos títulos de isenção modelo n.º 1 e dos dísticos modelos n.os 2 e 7.
 
@@ -129,6 +158,6 @@ c) Para os automóveis antigos de que trata a alínea d) - 2000 km de percurso e
 
 Secretaria de Estado do Orçamento, 16 de Junho de 1978. - Pelo Secretário de Estado do Orçamento, Ludovico Lázaro Morgado Cândido, Subsecretário de Estado do Orçamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf))](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/06/14800/11681173.pdf)
 
 Pelo Secretário de Estado do Orçamento, Ludovico Lázaro Morgado Cândido, Subsecretário de Estado do Orçamento.

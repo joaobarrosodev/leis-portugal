@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-1985-151913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d82aabd31a0537e9cab179372368edd73b2a3617ba691cbcdba52574f4c1e26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd71974e944a93eeea311c74bab6d86cc7b542a2135215c9b3007a31c2fc1330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Força Aérea
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:496891:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496891:por
+  label: "Alterado o quadro de pessoal aprovado pela Port 844-A/82, de 04-Set, com a redacção dada pelo presente diploma,\
+    \ pela PORT.875/87.13.11.1987.MDN, DR.IS [262] de 13.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/875-1987-496891
+  date: '1987-11-13'
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:47Z'
   warnings: []
   errors: []
 ---
@@ -102,8 +120,8 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e d
 
 Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e das Finanças e do Plano.
 
-**Assinada em 20 de Abril de 1985.**
+Assinada em 20 de Abril de 1985.
 
-**O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Defesa Nacional, Rui Manuel Parente Chancerelle de Machete. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/12200/14541454.pdf))](https://files.diariodarepublica.pt/1s/1985/05/12200/14541454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/12200/14541454.pdf)

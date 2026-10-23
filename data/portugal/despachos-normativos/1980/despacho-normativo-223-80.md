@@ -47,36 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/223-1980-470391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:01:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 284f44204f1db20c7eaae73886f263fe1cf29652609b91abc3062953ff98491e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e9d77d178a46345220fcebf73d0ed81703708bd289d134d23f7dba3b669c749
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:01:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Fundo de Abastecimento
+- Importação
+- Pagamento
+- Pesticida
+- Preço Máximo
+- Produto Fitofarmacêutico
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:329810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460995:por
+  label: Rectificado pela DECL.DD6899.15.09.1980.PCM, DR.IS [213] de 15.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460995
+  date: '1980-09-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:01:37Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +126,12 @@ QUADRO I
 
 Preços aprovados aos fabricantes dos adubos submetidos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf)
 
 QUADRO II
 
 Subsídios a pagar aos fabricantes de adubos submetidos ao regime de preços máximos e aos importadores de cloreto de potássio a 60%, por tonelada de adubo vendido desde 1 de Julho de 1978 até 30 de Junho de 1980 para o continente e regiões autónomas, e diferencial por tonelada de nafta fornecida no período de 1 de Julho de 1978 a 20 de Setembro de 1980.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17400/19231924.pdf)
 
-**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora.**
+O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora.

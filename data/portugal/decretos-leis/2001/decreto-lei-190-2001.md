@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/145a00/37923796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2001/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2001-361505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac122f8d4ff4cd2eae1fc5386ff32f113036463ca057a67fa9c6ca2f8cfffba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 522b138bef529c2c8650771d6b2b4ff5f10593590686b8ea1662da76591567f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão Interprofissional da Região Demarcada do Douro
-- Vinho
 - Denominação de Origem
 - Estatuto
 - Região Demarcada do Douro
+- Vinho
 - Vinho do Porto
 relationships:
 - type: amended_by
@@ -96,16 +96,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/242/1998/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/242/1998/04/16/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438066:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:571974:por
+  label: "Rectificado pela DECL-RECT.13-S/2001.2001.06.30.PCM DR.IS-A [150]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-s-2001-571974
+  date: '2001-06-30'
+- type: repealed_by
+  target: pt:dre:493025:por
+  label: "Revogado, a partir de 02.09.2009, mantendo-se transitoriamente em vigor até à publicação das portarias e dos regulamentos\
+    \ previstos, relativamente às matérias que estes visam regulamentar, pelo DEC LEI.173/2009.03.08.2009.MADRP, DR.IS [148]\
+    \ de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/173-2009-493025
+  date: '2009-08-03'
 article_structure:
   article_count: 18
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:45Z'
   warnings: []
   errors: []
 ---
@@ -144,15 +188,15 @@ São revogadas as Portarias n.os [1080/82](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 4 de Junho de 2001.**
+Promulgado em 4 de Junho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2001.**
+Referendado em 8 de Junho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -204,7 +248,9 @@ a) Aumento do título alcoométrico volúmico natural, através da adição de m
 
 b) Concentração parcial pelo vácuo, frio ou osmose inversa, de mostos oriundos da RDD.
 
-###### Artigo 5.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 5.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Os mostos destinados à elaboração dos vinhos e produtos vínicos susceptíveis de obtenção da DOC Douro devem possuir o seguinte título alcoométrico volúmico natural mínimo:
 
@@ -332,6 +378,6 @@ Sem prejuízo das demais exigências legalmente estabelecidas, os vinhos e produ
 
 9 - Sem prejuízo do disposto no número anterior, em casos devidamente justificados, nomeadamente para acções de promoção específicas, a CIRDD pode previamente autorizar, a requerimento dos interessados, o acondicionamento em garrafas de maior capacidade.
 
-## Anexo a que se refere o artigo 3.º do Estatuto da Denominação de Origem Controlada Douro
+Anexo a que se refere o artigo 3.º do Estatuto da Denominação de Origem Controlada Douro
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/145a00/37923796.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0007700079.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2023/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2023-835674291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 302aa7b0222c49fd91063068eb9055e1de88eecb339c3993f8a4bb2b6ec6e295
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebd5e4c7961662d697b1547f6e6de241aa085fd7aef54991c27492f13da135ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Assento
 - Código do Registo Civil
-- Conservatória dos Registos Centrais
-- Ministério da Justiça
-- Sistema Integrado de Registo e Identificação Civil
-- Filiação
-- Serviço Público
 - Conservatória do Registo Civil
+- Conservatória dos Registos Centrais
+- Filiação
+- Ministério da Justiça
 - Plataforma Eletrónica
+- Serviço Público
+- Sistema Integrado de Registo e Identificação Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/1995/06/06/p/dre
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/2020/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/2020/04/15/p/dre
+- type: cites
+  target: pt:dre:131457481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:02Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +153,9 @@ c) Presencialmente, na unidade de saúde onde o nascimento ocorra ou para onde a
 
 4 - O cumprimento da obrigação por alguma das pessoas mencionadas no n.º 1 desonera todas as demais.
 
-###### Artigo 96.º-A — [...]
+Artigo 96.º-A
+
+[...]
 
 1 - A declaração de nascimento efetuada perante funcionário da unidade de saúde equivale, para todos os efeitos legais, à declaração diretamente prestada perante funcionário do registo civil, sendo-lhe aplicáveis, com as necessárias adaptações, todas as disposições que regulam o registo do nascimento e o estabelecimento de filiação.
 
@@ -153,7 +163,9 @@ c) Presencialmente, na unidade de saúde onde o nascimento ocorra ou para onde a
 
 3 - (Anterior n.º 1.)
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - É competente para lavrar o registo de nascimento qualquer conservatória do registo civil.
 
@@ -183,12 +195,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 18 de dezembro de 2023.**
+Promulgado em 18 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 19 de dezembro de 2023.**
+Referendado em 19 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117186398

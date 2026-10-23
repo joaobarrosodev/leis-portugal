@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/107a00/22382241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/1997/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1997-384599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51c094d562bc73d67dcd39d202b3c7e1559216b52f1e8de5ff016cbbc7793260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25033b171d0b072780a3f2742f3e344ad8cdcc38d35919f1a87397174882e7c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desporto
 - Desporto Profissional
 - Federação Desportiva
 - Organização Desportiva
 - Regime Jurídico
-- Desporto
 - Utilidade Pública Desportiva
 relationships:
 - type: amended_by
@@ -85,16 +85,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/1996/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/1996/06/25/p/dre
+- type: cites
+  target: pt:dre:427631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665346:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426156:por
+  label: "Revogado o art. 4.º pelo DEC LEI.303/99.1999.08.06.PCM DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1999-426156
+  date: '1999-08-06'
+- type: repealed_by
+  target: pt:dre:243744:por
+  label: "Revogado, a partir de 01.01.2009, o Dec Lei 144/93, de 26-Abr, com a redacção do presente diploma, pelo DEC LEI.248-B/2008.31.12.2008.PCM,\
+    \ DR.IS [252-3.ºSupl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-b-2008-243744
+  date: '2008-12-31'
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:54Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +144,9 @@ Eleição
 
 Os titulares dos órgãos das federações desportivas dotadas de utilidade pública desportiva referidos no n.º 1 do artigo anterior são eleitos, em listas únicas, através de sufrágio directo e secreto.
 
-###### Artigo 27.º — Presidente
+Artigo 27.º
+
+Presidente
 
 1 - ...
 
@@ -149,7 +170,9 @@ h) Convocar extraordinariamente a assembleia geral da federação, podendo nela 
 
 3 - Nas federações no âmbito das quais se disputem competições de natureza profissional, o presidente será coadjuvado por um vice-presidente, designado pela liga profissional de clubes, ao qual compete substituí-lo nas suas faltas, ausências ou impedimentos.
 
-###### Artigo 30.º — Conselho fiscal
+Artigo 30.º
+
+Conselho fiscal
 
 1 - ...
 
@@ -157,7 +180,9 @@ h) Convocar extraordinariamente a assembleia geral da federação, podendo nela 
 
 3 - Quando um dos membros do conselho fiscal não tenha tal qualidade, as contas das federações desportivas deverão ser, obrigatoriamente, certificadas por um revisor oficial de contas antes da sua aprovação em assembleia geral.
 
-###### Artigo 31.º — Conselho jurisdicional
+Artigo 31.º
+
+Conselho jurisdicional
 
 1 - ...
 
@@ -167,7 +192,9 @@ h) Convocar extraordinariamente a assembleia geral da federação, podendo nela 
 
 4 - Nas federações não referidas no número anterior, o presidente do conselho jurisdicional deve ser licenciado em Direito.
 
-###### Artigo 32.º — Conselho disciplinar
+Artigo 32.º
+
+Conselho disciplinar
 
 1 - ...
 
@@ -175,7 +202,9 @@ h) Convocar extraordinariamente a assembleia geral da federação, podendo nela 
 
 3 - Nas federações não referidas no número anterior, o presidente do conselho disciplinar deve ser licenciado em Direito.
 
-###### Artigo 34.º — Liga profissional de clubes
+Artigo 34.º
+
+Liga profissional de clubes
 
 1 - No seio das federações unidesportivas em que se disputem competições desportivas de natureza profissional, deverá constituir-se uma liga de clubes, integrada obrigatória e exclusivamente por todos os clubes que disputem tais competições, dotada de personalidade jurídica e autonomia administrativa, técnica e financeira.
 
@@ -187,7 +216,9 @@ h) Convocar extraordinariamente a assembleia geral da federação, podendo nela 
 
 5 - No âmbito das restantes federações desportivas em que existam praticantes desportivos profissionais poderão ser constituídos organismos destinados a assegurar, de forma específica, a sua representatividade no seio da respectiva federação.
 
-###### Artigo 39.º — Competências da liga profissional de clubes
+Artigo 39.º
+
+Competências da liga profissional de clubes
 
 1 - Sem prejuízo de outras competências previstas nos estatutos da federação, cabe à liga profissional de clubes:
 
@@ -209,7 +240,9 @@ h) Exercer as demais competências que lhe sejam atribuídas por lei ou pelos es
 
 2 - Cabe à liga profissional de clubes aprovar, no âmbito das competições de carácter profissional, os regulamentos a que se referem as alíneas b), e) e f) do artigo 21.º, nos termos definidos pelos estatutos federativos e pelo protocolo referido no artigo 40.º
 
-###### Artigo 40.º — Protocolo
+Artigo 40.º
+
+Protocolo
 
 1 - Por protocolo celebrado entre a liga profissional de clubes e a direcção da federação, é definido o regime aplicável em matéria de:
 
@@ -221,7 +254,9 @@ b) ...
 
 3 - Os protocolos referidos neste artigo serão celebrados por períodos não inferiores a quatro anos, eventualmente renováveis por idêntico período se não forem denunciados por qualquer das partes com, pelo menos, seis meses de antecedência em relação ao seu termo.
 
-###### Artigo 41.º — Regimento da liga profissional de clubes
+Artigo 41.º
+
+Regimento da liga profissional de clubes
 
 1 - O regimento da liga profissional de clubes é aprovado pelos representantes dos clubes dela integrantes.
 
@@ -231,7 +266,9 @@ b) ...
 
 4 - Um dos membros do conselho fiscal da liga profissional de clubes deve ser, obrigatoriamente, revisor oficial de contas.
 
-###### Artigo 44.º — Incompatibilidades
+Artigo 44.º
+
+Incompatibilidades
 
 ...
 
@@ -263,7 +300,9 @@ Suspensão da utilidade pública desportiva
 
 6 - No caso referido no número anterior e até à decisão final do processo de cancelamento, a federação em causa continuará sujeita às consequências decorrentes da suspensão do estatuto de utilidade pública desportiva.
 
-###### Artigo 18.º-B — Consequências jurídicas do cancelamento da utilidade pública desportiva
+Artigo 18.º-B
+
+Consequências jurídicas do cancelamento da utilidade pública desportiva
 
 1 - O cancelamento do estatuto de utilidade pública desportiva poderá ainda implicar, para além das demais consequências previstas na lei:
 
@@ -273,7 +312,9 @@ b) Em relação às pessoas colectivas, que venham a participar nos campeonatos 
 
 2 - O cancelamento referido no número anterior será determinado por despacho do membro do Governo responsável pela área do desporto, ou conjuntamente com o membro do Governo responsável pela área do turismo, no caso das concessões de exploração de salas de jogo do bingo.
 
-###### Artigo 26.º-A — Federações com competições de natureza profissional
+Artigo 26.º-A
+
+Federações com competições de natureza profissional
 
 1 - Nas federações no âmbito das quais as competições desportivas profissionais integrem clubes agrupados em mais de uma divisão, compõem a assembleia geral:
 
@@ -303,7 +344,9 @@ f) Representantes de outros agentes desportivos englobados na respectiva federa�
 
 8 - Os membros referidos nas alíneas c), d) e e) do n.º 1, quando existam associações de âmbito nacional representativas dos respectivos elementos, devem ser designados por estas.
 
-###### Artigo 26.º-B — Repartição de votos
+Artigo 26.º-B
+
+Repartição de votos
 
 Os votos referidos no n.º 2 do artigo 26.º-A serão repartidos pelos diversos agrupamentos de clubes de base geográfica de acordo com os seguintes princípios:
 
@@ -331,12 +374,12 @@ b) Até à realização de novas eleições para os órgãos federativos, para a
 
 Visto e aprovado em Conselho de Ministros de 6 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - José Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 15 de Abril de 1997.**
+Promulgado em 15 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Abril de 1997.**
+Referendado em 21 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

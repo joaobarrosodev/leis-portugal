@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 342-(11) a 342-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf
 entry_into_force_dates: []
@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-j-1977-315537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:40:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08ea281668a6019ffea50b69b775db695ced4e6f7596f5bf512060fc0a7cb438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6783861ba96c750c01bf767342f2c5cef5dbdc127e025118636d5a2cd641ed81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:40:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Cereal
+- Madeira.região Autónoma
+- Trigo
+relationships:
+- type: cites
+  target: pt:dre:183240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:40:09Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +117,7 @@ Trigo
 
 1.º A tabela base do preço de aquisição à lavoura do trigo produzido no continente e ilhas adjacentes é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf)
 
 2.º O preço da tonelada de trigo de peso específico inferior a 73 kg, por hectolitro, é reduzido de 27$30 por cada quilograma a menos.
 
@@ -109,7 +133,7 @@ Centeio
 
 6.º A tabela base do preço de garantia do centeio de grão seco e são, com um máximo de 3% de impurezas e 14% de humidade, entregue pela lavoura ao Instituto dos Cereais é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05002/00110012.pdf)
 
 7.º O preço de tonelada do centeio de peso específico inferior a 70 kg por hectolitro é reduzido de 24$00 por cada quilograma a menos.
 

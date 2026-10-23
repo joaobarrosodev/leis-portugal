@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-1995-223183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b57fa97dae4e4e563ab6ed87d464fd8c07b833aff9dc8f7ab525c88d4de164e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cf818f7c97c11417525325ec2833942d51530676f9bd70655e484e218869a6a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Centro Científico e Cultural de Macau
 - Comissão de Fiscalização
-- Gestão Financeira
 - Comissão Instaladora
+- Conselho Consultivo
 - Conselho de Administração
 - Criação de Serviços
 - Definição de Competências
+- Gestão do Património
+- Gestão Financeira
 - Macau
 - Ministério do Planeamento e da Administração do Território
-- Gestão do Património
-- Conselho Consultivo
-- Centro Científico e Cultural de Macau
 - Orgânica
+- Pessoal Dirigente
 - Regime de Instalação
 - Remuneração
 relationships:
@@ -85,16 +85,32 @@ relationships:
   target: pt:dre:684846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CIENCIA E TECNOLOGIA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0\
+    [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:210976:por
+  label: "Alterada a redacção do art. 24.º pelo DEC LEI.38/98.1998.02.24.MCTE DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1998-210976
+  date: '1998-02-24'
+- type: repealed_by
+  target: pt:dre:684846:por
+  label: "Revogados os arts. 1º a 18º e o art. 25º pelo DEC LEI.496/99.1999.11.18.MCTE DR.IS-A [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/496-1999-684846
+  date: '1999-11-18'
 article_structure:
   article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:46Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +219,7 @@ f) Praticar os demais actos necessários à prossecução dos fins do Centro.
 
 ###### Artigo 9.º — Presidente
 
-**O presidente do conselho de administração convoca as reuniões do conselho de administração e do conselho consultivo e representa o Centro, para todos os efeitos legais.**
+O presidente do conselho de administração convoca as reuniões do conselho de administração e do conselho consultivo e representa o Centro, para todos os efeitos legais.
 
 ###### Artigo 10.º — Conselho consultivo
 
@@ -337,12 +353,12 @@ Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal 
 
 Para publicação no Boletim Oficial de Macau.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Março de 1995.**
+Referendado em 18 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

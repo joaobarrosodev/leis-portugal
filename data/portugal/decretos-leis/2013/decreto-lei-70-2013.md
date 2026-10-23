@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/70/2013/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2013-261111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0ccba8883ee7ad13a3ac51a2dd1f21f9e6a59b1faff2aec655ff286844461d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be02adca24b1d472a560217453627acb4c11ebe54f583abef51f68aa01e86f4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Disciplina de Educação Moral e Religiosa Católica
-- Ensino Oficial
-- Recrutamento de Pessoal
-- Igreja Católica
-- Currículo Nacional
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
 - Avaliação de Conhecimentos
 - Contrato de Trabalho
+- Currículo Nacional
+- Disciplina de Educação Moral e Religiosa Católica
+- Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Igreja Católica
+- Pessoal Docente
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Regime Jurídico
 relationships:
 - type: cites
@@ -107,16 +107,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/74/2004/11/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/74/2004/11/16/p/dre
+- type: cites
+  target: pt:dre:161689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:45Z'
   warnings: []
   errors: []
 ---
@@ -245,12 +297,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2013. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 17 de maio de 2013.**
+Promulgado em 17 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de maio de 2013.**
+Referendado em 20 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

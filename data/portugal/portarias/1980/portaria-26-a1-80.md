@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 26-(44) a 26-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00440045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-a1-1980-508643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f176595f2c25b7c219e73e7ea3b19e207937e437876bad53a4eb91f5a4a717bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1acc9b5dacbc69ca8506aa5e41721d89bc5409ad7d4f9fa872876af4c39c72e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Finanças
+- Criação de Serviços
+- Ministério das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:145590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinto o Conselho Superior de Finanças e revogado o presente diploma, a partir de de 20.12.2011, pelo DEC LEI.117/2011.15.12.2011.MF,\
+    \ DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:46Z'
   warnings: []
   errors: []
 ---

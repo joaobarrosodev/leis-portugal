@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01100/01780179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1987-663522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 972e0bd7085a817321794b890c7ea0ca54522c807fd28cf33ea33b33a3d85a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95854837ef65fef22f9dc0466c9796a1a3a166ad0b1c37c266fe10b04689503
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agro-turismo
+- Turismo
+- Turismo de Habitação
+- Turismo Rural
 relationships:
 - type: amended_by
   target: pt:dre:156003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.01.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-01'
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156003:por
+  label: "Revogado pelo Dec Lei 169/97.1997.07.04.MECO, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1997-156003
+  date: '1997-07-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:11Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +123,7 @@ Assim, ao abrigo do disposto no artigo 26.º do [Decreto-Lei n.º 256/86](https:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O «turismo de habitação», o «turismo rural» e o «agro-turismo», definidos no [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, são formas de acolhimento de natureza familiar destinadas a prestar aos turistas um serviço personalizado e a facilitar-lhes o contacto com o mundo rural.
+Artigo 1.º - 1 - O «turismo de habitação», o «turismo rural» e o «agro-turismo», definidos no [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, são formas de acolhimento de natureza familiar destinadas a prestar aos turistas um serviço personalizado e a facilitar-lhes o contacto com o mundo rural.
 
 2 - O exercício do «turismo de habitação» pode revestir a qualificação especial de «turismo de casas antigas» quando praticado em imóveis classificados como de valor internacional, nacional, regional ou local e outros que, pela sua época, valor arquitectónico, histórico ou artístico, sejam considerados como «casas antigas» pela Direcção-Geral do Turismo (DGT), ouvido o Instituto Português do Património Cultural.
 
@@ -108,11 +133,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5 - Quando não houver, a distância praticável, qualquer apoio de restauração, a DGT poderá exigir o fornecimento de refeições além do pequeno-almoço.
 
-###### Art. 2.º - 1 - Podem ainda inserir-se no regime de «turismo de habitação» casas que, satisfazendo às demais exigências prescritas mas não cedendo alojamento em quartos, sirvam de modo complementar a hospedagem praticada em casas de «turismo de habitação» vizinhas mediante o fornecimento de refeições que aquelas não possam fornecer ou pela cedência de salas de convívio para apoio de interesse cultural ou exercício de formas de animação convenientes.
+Art. 2.º - 1 - Podem ainda inserir-se no regime de «turismo de habitação» casas que, satisfazendo às demais exigências prescritas mas não cedendo alojamento em quartos, sirvam de modo complementar a hospedagem praticada em casas de «turismo de habitação» vizinhas mediante o fornecimento de refeições que aquelas não possam fornecer ou pela cedência de salas de convívio para apoio de interesse cultural ou exercício de formas de animação convenientes.
 
 2 - Podem também inscrever-se casas que, pela sua excepcional relevância histórica ou cultural, justifiquem visita autónoma e a pratiquem conjuntamente com a prestação de um serviço de refeições ligeiras, doçaria regional ou bebidas.
 
-###### Art. 3.º - 1 - São criados símbolos ou insígnias próprias de «turismo de habitação», «turismo rural» e «agro-turismo», como forma de identificação reservada exclusivamente às casas inscritas na DGT na categoria correspondente; do símbolo de «turismo de habitação» poderá haver uma modalidade especial reservada ao «turismo de habitação em casas antigas».
+Art. 3.º - 1 - São criados símbolos ou insígnias próprias de «turismo de habitação», «turismo rural» e «agro-turismo», como forma de identificação reservada exclusivamente às casas inscritas na DGT na categoria correspondente; do símbolo de «turismo de habitação» poderá haver uma modalidade especial reservada ao «turismo de habitação em casas antigas».
 
 2 - Os modelos correspondentes, bem como o do boletim de inscrição e o modelo de certificado a que se refere o artigo 11.º do [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, serão aprovados por despacho do director-geral do Turismo.
 
@@ -120,7 +145,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - O mesmo símbolo poderá ser utilizado, em sinalização adequada, à entrada das povoações onde existam casas inscritas ou nas estradas que a elas conduzam.
 
-###### Art. 4.º - 1 - O pedido de inscrição a que se refere o artigo 7.º do [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, deve especificar os seguintes elementos:
+Art. 4.º - 1 - O pedido de inscrição a que se refere o artigo 7.º do [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, deve especificar os seguintes elementos:
 
 a) Identificação do requerente;
 
@@ -152,7 +177,7 @@ m) Descrição da actividade agro-turística que o interessado eventualmente se 
 
 4 - As inscrições devem ser condicionadas pela existência próxima de serviços médicos ou de socorros.
 
-###### Art. 5.º - 1 - Salvo casos excepcionais reconhecidos pela DGT, e sem prejuízo da manutenção inscrições anteriores à publicação do presente diploma, o número máximo de quartos é de seis quanto às casas afectas a «turismo rural» e é de seis quartos no edifício principal quanto às casas de «turismo de habitação» e «agro-turismo», não podendo, em qualquer caso, exceder o total de dez o número de quartos existentes no conjunto do edifício principal e anexos.
+Art. 5.º - 1 - Salvo casos excepcionais reconhecidos pela DGT, e sem prejuízo da manutenção inscrições anteriores à publicação do presente diploma, o número máximo de quartos é de seis quanto às casas afectas a «turismo rural» e é de seis quartos no edifício principal quanto às casas de «turismo de habitação» e «agro-turismo», não podendo, em qualquer caso, exceder o total de dez o número de quartos existentes no conjunto do edifício principal e anexos.
 
 2 - Considera-se quarto a divisão exclusivamente destinada a dormida.
 
@@ -172,19 +197,19 @@ m) Descrição da actividade agro-turística que o interessado eventualmente se 
 
 10 - A cedência de quartos presume-se feita diariamente e o período de alojamento não deverá normalmente ser superior a 30 dias.
 
-###### Art. 6.º As refeições servidas devem integrar-se na tradição da cozinha portuguesa, utilizando, sempre que seja possível, produtos da própria exploração agrícola ou da região e dando relevo à doçaria e aos vinhos regionais.
+Art. 6.º As refeições servidas devem integrar-se na tradição da cozinha portuguesa, utilizando, sempre que seja possível, produtos da própria exploração agrícola ou da região e dando relevo à doçaria e aos vinhos regionais.
 
-###### Art. 7.º - 1 - Na prática do «turismo rural» e do «agro-turismo» as casas terão de integrar-se na arquitectura típica regional e todas as formas de acolhimento que exerçam devem manter a autenticidade do seu carácter especificamente rural.
+Art. 7.º - 1 - Na prática do «turismo rural» e do «agro-turismo» as casas terão de integrar-se na arquitectura típica regional e todas as formas de acolhimento que exerçam devem manter a autenticidade do seu carácter especificamente rural.
 
 2 - A mesma característica devem revestir, quanto possível, os meios de animação correspondentes, fomentando-se a realização das festas tradicionais do ciclo da actividade agrícola e aproveitando-se a realização, em locais próximos, de feiras e arraiais de tradição local.
 
 3 - Deve promover-se o conhecimento pelos turistas da vida rural em que se inserem, dos elementos relevantes de natureza paisagística, histórica e cultural e das tradições próprias da região, desfrutando dos valores turísticos que a constituem.
 
-###### Art. 8.º A prática do «agro-turismo» deve ainda ser caracterizada por alguma forma de participação dos turistas nos trabalhos de natureza agrícola ou pecuária da exploração.
+Art. 8.º A prática do «agro-turismo» deve ainda ser caracterizada por alguma forma de participação dos turistas nos trabalhos de natureza agrícola ou pecuária da exploração.
 
-###### Art. 9.º As casas inscritas deverão dispor de informações, a fornecer pela DGT ou pelos órgãos locais ou regionais de turismo, com as indicações necessárias ao conhecimento da região, seu património histórico, cultural, etnográfico e paisagístico, dados sobre gastronomia e vinhos regionais, artesanato e feiras e indicação de meios de animação e restaurantes recomendados.
+Art. 9.º As casas inscritas deverão dispor de informações, a fornecer pela DGT ou pelos órgãos locais ou regionais de turismo, com as indicações necessárias ao conhecimento da região, seu património histórico, cultural, etnográfico e paisagístico, dados sobre gastronomia e vinhos regionais, artesanato e feiras e indicação de meios de animação e restaurantes recomendados.
 
-###### Art. 10.º - 1 - Pela natureza familiar dos meios de acolhimento contemplados neste diploma, a sua utilização está sujeita, em princípio, a reserva antecipada.
+Art. 10.º - 1 - Pela natureza familiar dos meios de acolhimento contemplados neste diploma, a sua utilização está sujeita, em princípio, a reserva antecipada.
 
 2 - A DGT promoverá, sempre que a capacidade de alojamento o justifique, a instituição pelos proprietários, associações que os integrem ou órgãos locais e regionais de turismo de um serviço de reservas.
 
@@ -192,16 +217,16 @@ m) Descrição da actividade agro-turística que o interessado eventualmente se 
 
 4 - Compete à DGT assegurar a promoção dos tipos de turismo a que se refere o presente diploma e velar por que as iniciativas promocionais de cada unidade se integrem em planificação adequada.
 
-###### Art. 11.º O membro do Governo com tutela sobre o turismo providenciará quanto à boa execução do presente diploma.
+Art. 11.º O membro do Governo com tutela sobre o turismo providenciará quanto à boa execução do presente diploma.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

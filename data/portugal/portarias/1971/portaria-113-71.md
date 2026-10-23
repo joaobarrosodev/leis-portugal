@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/02/04900/02450246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-1971-447124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f96c7499b47e0fbe870ad165e6924f494f9bbd9b7d0c49e135267b5cb75af5c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28987a8ead6ca54f96bb2d292548097d01e92e4d507856dfd150f54ef89dc02a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Estatuto dos Sargentos e Praças da Armada
+- Marinha
+- Militar
+- Promoção Profissional
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397102:por
+  label: "Revogada pela PORT.219/72.1972.04.21.MMAR DG.IS [94]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-1972-397102
+  date: '1972-04-21'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º São alterados os artigos 164.º, 165.º e 166.º do Estatuto dos Sargentos e Praças da Armada, que passam a ter as seguintes redacções:
 
-###### Art. 164.º As condições gerais de promoção, comuns a todas as classes e postos dos sargentos e praças da Armada, são as seguintes:
+Art. 164.º As condições gerais de promoção, comuns a todas as classes e postos dos sargentos e praças da Armada, são as seguintes:
 
 1.ª Bom comportamento moral e civil e perfeito espírito militar;
 
@@ -128,15 +148,15 @@ c) Por outros elementos que constem do processo individual do sargento ou praça
 
 § 8.º Quando a verificação da 4.ª condição geral de promoção esteja dependente de observação clínica, tratamento ou convalescença, os sargentos e as praças ficam na situação de demorados na promoção, aplicando-se-lhe o disposto no § 1.º do artigo 170.º deste Estatuto.
 
-###### Art. 165.º Os sargentos e as praças que não satisfaçam à 1.ª ou 2.ª condição geral de promoção deixarão de pertencer ao quadro do activo.
+Art. 165.º Os sargentos e as praças que não satisfaçam à 1.ª ou 2.ª condição geral de promoção deixarão de pertencer ao quadro do activo.
 
 § único. A situação dos sargentos ou das praças abatidos ao quadro do activo por não satisfazerem à 1.ª ou 2.ª condição geral de promoção será regulada de acordo com as circunstâncias e as disposições deste Estatuto e da legislação das reservas da Marinha.
 
-###### Art. 166.º O sargento ou a praça que não satisfaça à 3.ª condição geral de promoção será excluído temporàriamente da promoção pelo prazo máximo de dois anos, contado a partir da data da preterição, findo o qual, se continuar a não satisfazer a mesma condição, será transferido para os quadros da reserva da Armada.
+Art. 166.º O sargento ou a praça que não satisfaça à 3.ª condição geral de promoção será excluído temporàriamente da promoção pelo prazo máximo de dois anos, contado a partir da data da preterição, findo o qual, se continuar a não satisfazer a mesma condição, será transferido para os quadros da reserva da Armada.
 
 2.º São aditados os seguintes artigos, que ficam intercalados entre os artigos 166.º e 167.º:
 
-###### Art. 166.º-A. O sargento ou praça que não satisfaça à 4.ª condição geral de promoção será, conforme as circunstâncias:
+Art. 166.º-A. O sargento ou praça que não satisfaça à 4.ª condição geral de promoção será, conforme as circunstâncias:
 
 a) Transferido para os quadros da reserva da Armada; ou
 
@@ -144,11 +164,11 @@ b) Transferido para o quadro dos reformados; ou
 
 c) Abatido ao serviço da Armada.
 
-###### Art. 166.º-B. O sargento ou praça contra o qual se esteja a proceder a auto de corpo de delito ou processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Ministro da Marinha assim o entender, por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
+Art. 166.º-B. O sargento ou praça contra o qual se esteja a proceder a auto de corpo de delito ou processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Ministro da Marinha assim o entender, por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
 
 3.º São alterados o § 1.º do artigo 181.º e o § 2.º do artigo 188.º, que passam a ter as seguintes redacções:
 
-###### Art. 181.º ...
+Art. 181.º ...
 
 § 1.º A licença disciplinar só deverá ser concedida decorrido um ano sobre a data da incorporação na Armada do sargento ou praça.
 
@@ -158,7 +178,7 @@ c) Abatido ao serviço da Armada.
 
 ...
 
-###### Art. 188.º ...
+Art. 188.º ...
 
 § 1.º ...
 
@@ -166,4 +186,4 @@ c) Abatido ao serviço da Armada.
 
 4.º É eliminado o artigo 184.º
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

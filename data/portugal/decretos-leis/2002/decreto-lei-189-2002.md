@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/2002/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2002-173758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 847efc64cad2555d0c3630182096edc7373979c9ae607b7952557368682eee12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 761bf03da2fb9371074961b137228ae6328d4c211cba4ee2129624db5187e27d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada do Grande Porto
-- SCUT
-- Financiamento
 - Contrato de Concessão
 - Expropriação
-- Auto-estrada
+- Financiamento
 - Instituto das Estradas de Portugal
 - Porto
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:67522988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522623:por
+  label: "Alteradas as bases I, II, V e XXVI e revogada a alínea f) do n.º 1 da base II constantes do anexo do presente diploma\
+    \ pelo DEC LEI.19/2007.22.01.2007.MOPTC, DR.IS [15] de 22.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2007-522623
+  date: '2007-01-22'
+- type: amended_by
+  target: pt:dre:510863:por
+  label: "Introduzidas as seguintes alterações às bases da concessão da concepção, projecto, construção, financiamento, exploração\
+    \ e conservação dos lanços de auto-estrada e conjuntos viários associados, designada por Grande Porto, aprovadas em anexo\
+    \ ao presente diploma, pelo DEC LEI.44-G/2010.05.05.2010.MOPTC, DR.IS [87-Supl] de 05.05.2010, que as republicou em anexo:\
+    \ - dada nova redacção às bases I, II (ambas com a redacção constante do Dec Lei 19/2007 de 22-Jan), IV, V (esta com a\
+    \ redacção constante do Dec Lei 19/2007 de 22-Jan), VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX,\
+    \ XXI, XXII, XXIII, XXIV, XXV, XXVI (esta com a redacção constante do Dec Lei 19/2007 de 22-Jan), XXVII, XXVIII, XXIX,\
+    \ XXX, XXXI, XXXII, XXXIII, XXXIV, XXXV, XXXVI, XXXVII, XXXVIII, XXXIX, XL, XLII, XLIII, XLIV, XLV, XLVI, XLVII, XLVIII,\
+    \ XLIX, L, LII, LIII, LIV, LV, LVI, LVIII, LX, LXI, LXVI, LXVIII, LXIX, LXX, LXXI, LXXII, LXXIV, LXXV, LXXVI, LXXVII,\
+    \ LXXVIII, LXXIX, LXXX, LXXXI, LXXXII, LXXXIII, LXXXIV, LXXXVI, LXXXVII e LXXXIX; - aditadas as bases XVIII-A, XIX-A,\
+    \ LI-A, LVII-A a LVII-BB, LXV A e LXXXVII-A; - introduzidas as alterações sistemáticas: - aos caps. VII, X, XVII e XXI,\
+    \ que passam a ter as epígrafes: Capítulo VII — Funções do InIR; Capítulo X — Manutenção, exploração e conservação da\
+    \ Auto -Estrada; Capítulo XVII — Incumprimento e cumprimento defeituoso; Capítulo XXI — Aplicação no tempo; e aditado\
+    \ o cap. X-A, com a epígrafe Portagens, que se divide nas seguintes secções e subsecções: Secção I, com a epígrafe Disposições\
+    \ Gerais, que inclui as bases LVII-A e LVII-B; Secção II, com a epígrafe Sistema de cobrança de portagens, que inclui\
+    \ a base LVII-C; Secção III, com a epígrafe Tarifas e taxas de portagem, que inclui as bases LVII-D a LVII-G; Secção IV,\
+    \ com a epígrafe Prestação do serviço de cobrança de portagens, que inclui as bases LVII-H a LVII-J; Secção V, com a epígrafe\
+    \ Remuneração, que inclui as bases LVII-K a LVII-S e se subdivide nas seguintes subsecções: Subsecção I, com a epígrafe\
+    \ Disposição Geral, que inclui a base LVII-K; Subsecção II, com a epígrafe Remuneração pela disponibilidade do sistema\
+    \ de cobrança de portagens, que inclui as bases LVII-L e LVII-M; Subsecção III, com a epígrafe Remuneração pelo serviço\
+    \ de cobrança de portagens, que inclui as bases LVII-N a LVII-S; Secção VI, com a epígrafe Receitas próprias da Concessionária,\
+    \ que inclui a base LVII-T; Secção VII, com a epígrafe Receitas relativas às taxas de portagem, que inclui as bases LVII-U\
+    \ e LVII-V; Secção VIII, com a epígrafe Cessão da posição contratual, que inclui as bases LVII -W a LVII-Y; Secção IX,\
+    \ com a epígrafe Incumprimento e penalidades, que inclui as bases LVII-Z e LVII-AA; e Secção X, com a epígrafe Termo do\
+    \ Contrato de Prestação de Serviços, que inclui a base LVII-BB; - e revogadas as als. g), k), pp) e bbb) do nº 1 da base\
+    \ I, a al. b) do nº 2 da base XLVII, o nº 2 da base XLIX, o nº 6 da base L, as bases LI, LXII, LXIII, LXIV e LXV, a al.\
+    \ d) do nº 2 da base LXVIII, o nº 10 da base LXXV, os nºs 2 a 7 da base LXXXII e a al. a) do nº 7 da base LXXXIV.\0 da\
+    \ base LXXXIV.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-g-2010-510863
+  date: '2010-05-05'
+- type: amended_by
+  target: pt:dre:67522988:por
+  label: 'Introduzidas as seguintes alterações às bases da concessão, da conceção, projeto, construção, financiamento, exploração
+    e conservação dos lanços de autoestrada e conjuntos viários associados, designada por Grande Porto, aprovadas em anexo
+    ao presente diploma, pelo(a) Decreto-Lei n.º 110/2015 - Diário da República n.º 117/2015, Série I de 2015-06-18, as quais
+    republicou com a redação atual, onde para aqueles efeitos se deve ler «IMT» onde se lê «InIR»: alteradas as bases I, II,
+    V (as três com a redação dada pelo Dec Lei 19/2007 de 22-jan e pelo Dec Lei 44-G/2010 de 05-mai), VII, IX a XII, XV, XVI
+    (todas com a redação dada pelo Dec Lei 44-G/2010 de 05-mai), XVIII-A (aditada pelo Dec Lei 44-G/2010 de 05-mai), XIX (com
+    a redação dada pelo Dec Lei 44-G/2010 de 05-mai), XIX-A (aditada pelo Dec Lei 44-G/2010 de 05-mai), XXIV, XXV, XXVII,
+    XXIX a XXXI, XXXIV, XXXVII a XXXIX (todas com as redação dada pelo Dec Lei 44-G/2010 de 05-mai), XLI a XLIII (as últimas
+    duas com a redação dada pelo Dec Lei 44-G/2010 de 05-mai), XLV, XLVII, XLVIII, L (todas com a redação dada pelo Dec Lei
+    44-G/2010 de 05-mai), LI-A (aditada pelo Dec Lei 44-G/2010 de 05-mai), LII a LVI (as quatro com a redação dada pelo Dec
+    Lei 44-G/2010 de 05-mai), LVII-A a LVII-Q, LVII-S a LVII-X, LVII-Z e LVII-AA (todas aditadas pelo Dec Lei 44-G/2010 de
+    05-mai), LVIII, LX (as duas com a redação dada pelo Dec Lei 44-G/2010 de 05-mai), LXV-A (aditada pelo Dec Lei 44-G/2010
+    de 05-mai), LXVI, LXVIII, LXX, LXXI (todas com a redação dada pelo Dec Lei 44-G/2010 de 05-mai), LXXIII, LXXV a LXXVII,
+    LXXIX, LXXXI, LXXXIII, LXXXIV (as últimas sete com a redação dada pelo Dec Lei 44-G/2010 de 05-mai), LXXXVIII e LXXXIX
+    (esta última com a redação dada pelo Dec Lei 44-G/2010 de 05-mai); aditadas as bases XXXIV-A, LIV-A, LVII-UA, LXV-B a
+    LXV-E, LXXXVI-A e LXXXVII-B; alterada a sistemática das bases relativamente: - aos capítulos VII e X, que passam a ter
+    as seguintes epígrafes: Capítulo VII - Funções do IMT, e Capítulo X – Pagamentos pela disponibilidade da Autoestrada e
+    partilha de benefícios; - às secções I, II, IV, V e IX do capítulo X-A (aditado pelo Dec Lei 44-G/2010 de 05-mai), que
+    passam a ter as seguintes epígrafes: Secção I - Disposições gerais, Secção II - Sistema de cobrança de taxas de portagem,
+    Secção IV - Prestação do serviço de cobrança de taxas de portagem, Secção V - Remuneração pela cobrança de taxas de portagem,
+    e Secção IX- Incumprimento; - às subsecções II e III da secção V do capítulo X-A atrás referido, que passa a ter as seguintes
+    epígrafes: Subsecção II - Remuneração pela disponibilidade do sistema de cobrança de taxas de portagem, e Subsecção III
+    - Remuneração pela prestação do serviço de cobrança de taxas de portagem; - e ao aditamento do capítulo XXII-A, com a
+    epígrafe Comissão de Peritos; e revogados: as als. ttt) e uuu) do n.º 1 da base I, as als. c) e d) da base VI, os n.ºs
+    11 e 12 da base XXXIV, os n.ºs 6 e 7 e as als. d) e l) do n.º 8 da base XLV, os n.ºs 2 e 3 da base XLVIII, a al. f) do
+    n.º 4 e o n.º 5 da base L, os n.ºs 2 e 3 da base LI-A, o n.º 5 da base LIV, o n.º 5 da base LVII-D, as als. i) e j) da
+    base LVII-P, os n.ºs 3 e 4 da base LVII-S, os n.ºs 2, 3 e 5 da base LVII-U, os n.ºs 5 e 6 da base LVII-X, o n.º 6 da base
+    LVII-AA e os n.ºs 16, 17 e 18 da base LXV-A.'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-2015-67522988
+  date: '2015-06-18'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -87,16 +156,22 @@ relationships:
   target: celex:31993L0037
   label: null
   source: http://data.europa.eu/eli/dir/1993/37/oj
+- type: repealed_by
+  target: pt:dre:67085601:por
+  label: Revogado, a partir de 26.07.2015, o art. 4.º do presente diploma pelo(a) Lei n.º 34/2015 - Diário da República n.º
+    81/2015, Série I de 2015-04-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2015-67085601
+  date: '2015-04-27'
 article_structure:
   article_count: 5
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:33Z'
   warnings: []
   errors: []
 ---
@@ -149,21 +224,23 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 12 de Agosto de 2002.**
+Promulgado em 12 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Agosto de 2002.**
+Referendado em 19 de Agosto de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Bases da Concessão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nestas bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados terão o significado que a seguir lhes é apontado:
 
@@ -279,7 +356,9 @@ bbb) Vias Rodoviárias Concorrentes - as vias rodoviárias não construídas à 
 
 ### CAPÍTULO II — Objecto e tipo da Concessão
 
-###### Base II — Objecto
+Base II
+
+Objecto
 
 1 - A Concessão tem por objecto a concepção, projecto, construção, aumento do número de vias, financiamento, conservação e exploração, em regime de portagem SCUT, dos seguintes Lanços de Auto-Estrada:
 
@@ -321,17 +400,23 @@ c) Se uma das extremidades do Sublanço entroncar de nível com uma estrada da r
 
 d) Se uma das extremidades do Sublanço entroncar num Sublanço cuja construção não esteja concluída, a sua extensão será provisoriamente determinada, até à data de conclusão deste, a partir dessa extremidade, desde o último perfil transversal de Auto-Estrada construído e a entrar em serviço.
 
-###### Base III — Natureza da Concessão
+Base III
+
+Natureza da Concessão
 
 A Concessão é de obra pública e é estabelecida em regime de exclusivo relativamente à Auto-Estrada que integra o seu objecto.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A Concessionária deve desempenhar as actividades concessionadas de Acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adoptar, para o efeito, os melhores padrões de qualidade disponíveis em cada momento, nos termos previstos nas presentes bases.
 
 2 - A Concessionária não pode recusar o fornecimento do serviço público concessionado a qualquer pessoa ou entidade nem discriminar ou estabelecer diferenças de tratamento entre utentes.
 
-###### Base V — Delimitação física da Concessão
+Base V
+
+Delimitação física da Concessão
 
 1 - Os limites da Concessão são definidos em relação à Auto-Estrada que a integra pelos perfis transversais extremos da mesma, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.
 
@@ -343,7 +428,9 @@ A Concessão é de obra pública e é estabelecida em regime de exclusivo relati
 
 5 - As obras de arte integradas nos nós de enlace entre concessões, quer em secção corrente quer em ramos, ficarão afectas à concessão cujo tráfego utilize o tabuleiro da estrutura.
 
-###### Base VI — Estabelecimento da Concessão
+Base VI
+
+Estabelecimento da Concessão
 
 O estabelecimento da Concessão é composto:
 
@@ -351,7 +438,9 @@ a) Pela Auto-Estrada;
 
 b) Pelas Áreas de Serviço e de repouso, pelos centros de assistência e manutenção e outros serviços de apoio aos utentes da Auto-Estrada e nela situados.
 
-###### Base VII — Bens que integram a Concessão
+Base VII
+
+Bens que integram a Concessão
 
 1 - Integram a Concessão:
 
@@ -361,11 +450,15 @@ b) Todas as obras, máquinas, equipamentos, designadamente instalações e equip
 
 2 - A Concessionária elaborará, e manterá permanentemente actualizado e à disposição do Concedente, um inventário do património que integra a Concessão, nos termos do n.º 1, e que mencionará os ónus ou encargos que recaem sobre os bens nele listados.
 
-###### Base VIII — Manutenção dos bens que integram a Concessão
+Base VIII
+
+Manutenção dos bens que integram a Concessão
 
 A Concessionária obriga-se a manter, em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens que integram a Concessão, durante a vigência do Contrato de Concessão e nos termos e condições das disposições aplicáveis deste último, efectuando para tanto as reparações, renovações e adaptações que, de acordo com as mesmas disposições, para o efeito se tornem necessárias.
 
-###### Base IX — Natureza e regime de bens e direitos
+Base IX
+
+Natureza e regime de bens e direitos
 
 1 - A Auto-Estrada integra o domínio público do Concedente.
 
@@ -399,7 +492,9 @@ b) As obras de arte incorporadas na Auto-Estrada e os terrenos para implantaçã
 
 ### CAPÍTULO III — Duração da Concessão
 
-###### Base X — Prazo e termo da Concessão
+Base X
+
+Prazo e termo da Concessão
 
 1 - O prazo da Concessão é de 30 anos a contar da data de assinatura do Contrato de Concessão, expirando automaticamente às 24 horas do dia em que ocorrer o 30.º aniversário dessa assinatura.
 
@@ -407,11 +502,15 @@ b) As obras de arte incorporadas na Auto-Estrada e os terrenos para implantaçã
 
 ### CAPÍTULO IV — Sociedade Concessionária
 
-###### Base XI — Objecto social, sede e forma
+Base XI
+
+Objecto social, sede e forma
 
 A Concessionária terá como objecto social exclusivo, ao longo de todo o período de duração da Concessão, o exercício das actividades que, nos termos do Contrato de Concessão, se consideram integradas na Concessão, devendo manter ao longo do mesmo período a sua sede em Portugal e a forma de sociedade anónima, regulada pela lei portuguesa.
 
-###### Base XII — Estrutura accionista da Concessionária
+Base XII
+
+Estrutura accionista da Concessionária
 
 1 - O capital social da Concessionária encontra-se inicialmente distribuído entre os Membros do Concorrente, na exacta medida que foi pelo Concorrente indicada na Proposta. Qualquer alteração da hierarquia dos Membros do Concorrente no capital da Concessionária carece de autorização prévia da MEF e do MOPTH.
 
@@ -429,7 +528,9 @@ A Concessionária terá como objecto social exclusivo, ao longo de todo o perío
 
 8 - As autorizações do Concedente previstas na presente base consideram-se tacitamente concedidas se não forem recusadas no prazo de 45 dias após a respectiva solicitação.
 
-###### Base XIII — Capital
+Base XIII
+
+Capital
 
 1 - O capital social da Concessionária, integralmente subscrito e realizado, será de (euro) 37300000.
 
@@ -439,7 +540,9 @@ A Concessionária terá como objecto social exclusivo, ao longo de todo o perío
 
 4 - A Concessionária não poderá, até à conclusão da construção de toda a Auto-Estrada, deter acções próprias.
 
-###### Base XIV — Estatutos e Acordo Parassocial
+Base XIV
+
+Estatutos e Acordo Parassocial
 
 1 - Quaisquer alterações aos Estatutos deverão, até três anos após a data de entrada em serviço do último Lanço a construir, ser objecto de autorização prévia por parte do Concedente, sob pena de nulidade.
 
@@ -453,7 +556,9 @@ A Concessionária terá como objecto social exclusivo, ao longo de todo o perío
 
 6 - As autorizações do Concedente previstas nesta base considerar-se-ão concedidas se não forem recusadas no prazo de 30 dias úteis a contar da sua solicitação.
 
-###### Base XV — Oneração de acções da Concessionária
+Base XV
+
+Oneração de acções da Concessionária
 
 1 - A oneração de acções representativas do capital social da Concessionária dependerá, sob pena de nulidade, de autorização prévia do Concedente, a qual se considerará tacitamente recusada se não for concedida no prazo de 60 dias úteis a contar da sua solicitação.
 
@@ -465,7 +570,9 @@ A Concessionária terá como objecto social exclusivo, ao longo de todo o perío
 
 5 - As disposições da presente base manter-se-ão em vigor até três anos após a data de entrada em serviço do último Lanço a construir.
 
-###### Base XVI — Obrigações de informação da Concessionária
+Base XVI
+
+Obrigações de informação da Concessionária
 
 Ao longo de todo o período de duração da Concessão, e sem prejuízo das demais obrigações de informação estabelecidas no Contrato de Concessão, a Concessionária compromete-se para com o concedente a:
 
@@ -489,19 +596,25 @@ i) Remeter-lhe no 1.º trimestre de cada ano um relatório respeitante ao ano an
 
 j) Apresentar-lhe prontamente as informações complementares ou adicionais que lhe sejam solicitadas pelo Concedente.
 
-###### Base XVII — Obtenção de licenças
+Base XVII
+
+Obtenção de licenças
 
 1 - Compete à Concessionária requerer, custear e obter todas as licenças e autorizações necessárias ao exercício das actividades integradas na Concessão, observando todos os requisitos necessários à obtenção e à manutenção em vigor das mesmas.
 
 2 - A Concessionária deverá informar de imediato o Concedente no caso de qualquer das licenças a que se refere o número anterior lhe serem retiradas, caducarem, serem revogadas ou por qualquer motivo deixarem de operar os seus efeitos, indicando desde logo que medidas tomou e ou irá tomar para repor tais licenças em vigor.
 
-###### Base XVIII — Regime fiscal
+Base XVIII
+
+Regime fiscal
 
 A Concessionária ficará sujeita ao regime fiscal aplicável.
 
 ### CAPÍTULO V — Financiamento
 
-###### Base XIX — Responsabilidade da Concessionária
+Base XIX
+
+Responsabilidade da Concessionária
 
 1 - A Concessionária é responsável única pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto da Concessão, por forma a que possa cumprir cabal e atempadamente todas as obrigações que assume no Contrato de Concessão.
 
@@ -511,17 +624,23 @@ A Concessionária ficará sujeita ao regime fiscal aplicável.
 
 4 - A Concessionária tem o direito a receber as importâncias relativas às Portagens SCUT e as demais importâncias previstas no capítulo XII do presente contrato, os rendimentos de exploração das Áreas de Serviço e, bem assim, quaisquer outros rendimentos obtidos no âmbito da Concessão.
 
-###### Base XX — Obrigações do Concedente
+Base XX
+
+Obrigações do Concedente
 
 O Concedente não está sujeito a qualquer obrigação, nem assume qualquer responsabilidade ou risco, no que respeita ao financiamento necessário ao desenvolvimento das actividades integradas na Concessão, sem prejuízo do disposto em contrário nestas bases.
 
 ### CAPÍTULO VI — Expropriações
 
-###### Base XXI — Disposições aplicáveis
+Base XXI
+
+Disposições aplicáveis
 
 Às expropriações efectuadas no âmbito do Contrato de Concessão são aplicáveis as disposições da legislação portuguesa em vigor.
 
-###### Base XXII — Declaração de utilidade pública com carácter de urgência
+Base XXII
+
+Declaração de utilidade pública com carácter de urgência
 
 1 - São de utilidade pública com carácter de urgência todas as expropriações a realizar, por causa directa ou indirecta, para o estabelecimento da Concessão, competindo ao Concedente a prática dos actos que individualizem os bens a expropriar, nos termos do Código das Expropriações.
 
@@ -531,7 +650,9 @@ O Concedente não está sujeito a qualquer obrigação, nem assume qualquer resp
 
 4 - Sempre que se torne necessário realizar expropriações para manter direitos de terceiros no estabelecimento ou restabelecimento de redes, vias de qualquer tipo ou serviços afectados, serão estas de utilidade pública e com carácter de urgência, sendo aplicáveis todas as disposições legais que regem a Concessão, podendo os respectivos bens não integrar necessariamente o domínio público do Concedente.
 
-###### Base XXIII — Condução, controlo e custos dos processos expropriativos
+Base XXIII
+
+Condução, controlo e custos dos processos expropriativos
 
 1 - A condução e realização dos processos expropriativos dos bens ou direitos necessários ao estabelecimento da Concessão compete ao IEP, ao qual caberá também suportar todos os custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações derivadas das expropriações ou da imposição de servidões ou outros ónus ou encargos delas derivados na parte em que estas ultrapassem (euro) 30000000.
 
@@ -547,13 +668,17 @@ O Concedente não está sujeito a qualquer obrigação, nem assume qualquer resp
 
 ### CAPÍTULO VII — Funções do IEP
 
-###### Base XXIV — IEP
+Base XXIV
+
+IEP
 
 Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato de Concessão se atribuam poderes ou se preveja o exercício de faculdades pelo Concedente, tais poderes e tal exercício poderão ser executados pelo IEP, salvo quando o contrário decorrer da regra em causa ou de disposição imperativa da Lei.
 
 ### CAPÍTULO VIII — Concepção, projecto, construção e duplicação da Auto-Estrada
 
-###### Base XXV — Concepção, projecto, construção e duplicação
+Base XXV
+
+Concepção, projecto, construção e duplicação
 
 1 - A Concessionária é responsável pela concepção, projecto e construção dos Lanços referidos no n.º 1 da base II e concepção, projecto e duplicação do Lanço referido no n.º 2 da mesma base, respeitando os estudos e projectos apresentados nos termos das bases seguintes e o disposto no Contrato de Concessão.
 
@@ -561,7 +686,9 @@ Sem prejuízo dos poderes cometidos a outras entidades, sempre que no Contrato d
 
 3 - Para cumprimento das obrigações assumidas em matéria de concepção e construção da Auto-Estrada, a Concessionária celebrou com o ACE o Contrato de Projecto e Construção.
 
-###### Base XXVI — Programa de execução da Auto-Estrada
+Base XXVI
+
+Programa de execução da Auto-Estrada
 
 1 - As datas-limite de entrada em serviço de cada um dos Lanços referidos nos n.os 1, 2 e 3 da base II, com o número de vias previsto em anexo ao Contrato de Concessão, são as seguintes:
 
@@ -591,7 +718,9 @@ IC 24, nó da Maia (IP 1)-Alfena - Agosto de 2006.
 
 3 - A Concessionária não poderá ser responsabilizada por atrasos causados por modificações unilateralmente impostas pelo Concedente ao Programa de Trabalhos ou por quaisquer outros atrasos que sejam imputáveis ao Concedente.
 
-###### Base XXVII — Disposições gerais relativas a estudos e projectos
+Base XXVII
+
+Disposições gerais relativas a estudos e projectos
 
 1 - A Concessionária promoverá, por sua conta e inteira responsabilidade, e com o acompanhamento do Concedente, a realização dos estudos e projectos relativos aos Lanços a construir, Áreas de Serviço, centros de manutenção e conservação e outros equipamentos da Auto-Estrada, os quais deverão satisfazer as normas legais e regulamentares em vigor, e, bem assim, as normas comunitárias aplicáveis, e respeitar os termos da Proposta.
 
@@ -617,7 +746,9 @@ Estudo prévio e estudo de impacte ambiental do IC 25-EN 207 entre o nó da EN 1
 
 7 - Os elementos de estudo indicados no número anterior não criam para a Concessionária quaisquer direitos ou obrigações nem obrigam, de qualquer forma, o Concedente, podendo a Concessionária propor as alterações que entender, nomeadamente quanto a directriz, perfil transversal e perfil longitudinal, para que as obras a realizar melhor possam corresponder à finalidade em vista.
 
-###### Base XXVIII — Programa de estudos e projectos
+Base XXVIII
+
+Programa de estudos e projectos
 
 1 - No prazo de 30 dias úteis contados da data de assinatura do Contrato de Concessão, a Concessionária submeterá à aprovação do IEP um documento em que indicará as datas em que se compromete a apresentar os estudos prévios, estudos de impacte ambiental, anteprojectos e projectos que lhe compete elaborar, bem como as alterações que entende propor aos elementos indicados no n.º 6 da base XXVII, e onde identificará ainda as entidades técnicas independentes que propõe para a emissão do parecer de revisão a que alude o n.º 7 da base XXIX.
 
@@ -625,7 +756,9 @@ Estudo prévio e estudo de impacte ambiental do IC 25-EN 207 entre o nó da EN 1
 
 3 - O documento a que se refere o n.º 1 considerar-se-á tacitamente aprovado no prazo de 30 dias úteis a contar da sua entrega, suspendendo-se aquele prazo em virtude da apresentação, de acordo com critérios de razoabilidade, de pedidos de esclarecimento pelo IEP, e pelo período de tempo que decorrer até à prestação de tais esclarecimentos pela Concessionária.
 
-###### Base XXIX — Apresentação dos estudos e projectos
+Base XXIX
+
+Apresentação dos estudos e projectos
 
 1 - No Sublanço Via Norte-Águas Santas do Lanço do IP 4 (Sendim-Águas Santas) e nos Lanços a) IC 24, Alfena-nó da Ermida (IC 25), e b) IC 25, nó da Ermida (IC 24)-Paços de Ferreira (EN 319), será dispensada a apresentação de estudos prévios.
 
@@ -713,7 +846,9 @@ c) Peças desenhadas - formato DXF ou DWG.
 
 8 - A apresentação dos projectos ao IEP deverá ser instruída com todas as autorizações necessárias emitidas pelas autoridades competentes.
 
-###### Base XXX — Critérios de projecto
+Base XXX
+
+Critérios de projecto
 
 1 - Na elaboração dos projectos da Auto-Estrada devem respeitar-se as características técnicas definidas nas normas de projecto do IEP, tendo em conta a velocidade base de 120 km/h, sem prejuízo do disposto no número seguinte.
 
@@ -739,7 +874,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 5 - Ao longo e através da Auto-Estrada, incluindo nas suas obras de arte especiais, deverão ser estabelecidos, onde o IEP determine ser conveniente, os dispositivos necessários para que o futuro alojamento de cabos eléctricos, telefónicos e outros possa ser efectuado sem afectar as estruturas e sem necessidade de levantar o pavimento.
 
-###### Base XXXI — Aprovação dos estudos e projectos
+Base XXXI
+
+Aprovação dos estudos e projectos
 
 1 - Os estudos e projectos apresentados ao IEP nos termos das bases anteriores consideram-se tacitamente aprovados pelo MOPTH no prazo de 60 dias a contar da respectiva apresentação, sem prejuízo do disposto nos números seguintes.
 
@@ -751,7 +888,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 5 - No caso de o traçado dos Lanços referidos nas alíneas a) a f) do n.º 1 da base II e no n.º 2 da mesma base que vier a ser aprovado pelo MOPTH não se localizar, no todo ou em parte, no Corredor considerado na Proposta, a Concessionária terá direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV, desde que demonstre ter havido aumento de custos ou perda de receitas.
 
-###### Base XXXII — Execução das obras
+Base XXXII
+
+Execução das obras
 
 1 - A execução de qualquer obra em cumprimento do Contrato de Concessão só poderá iniciar-se depois de aprovado o respectivo projecto de execução.
 
@@ -761,7 +900,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 4 - A execução por Empreiteiros Independentes de qualquer obra ou trabalho que se inclua nas actividades integradas na Concessão deverá respeitar a legislação nacional ou comunitária aplicável.
 
-###### Base XXXIII — Programa de trabalhos
+Base XXXIII
+
+Programa de trabalhos
 
 1 - Quaisquer alterações, de iniciativa da Concessionária, ao programa de trabalhos, constante de anexo ao contrato de Concessão, deverão ser notificadas ao IEP, acompanhadas da devida justificação, não podendo, em qualquer circunstância, envolver adiamento da data de entrada em serviço de cada um dos Lanços.
 
@@ -773,13 +914,17 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 5 - Sempre que o atraso no cumprimento do Programa de Trabalhos seja imputável ao Concedente, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos do disposto na base LXXXIV.
 
-###### Base XXXIV — Aumento de número de vias da Auto-Estrada
+Base XXXIV
+
+Aumento de número de vias da Auto-Estrada
 
 1 - Sem prejuízo do estabelecido no n.º 1 da base XXVI, é da responsabilidade da Concessionária o aumento de número de vias dos Lanços, o qual será realizado em harmonia com a calendarização constante de anexo do Contrato de Concessão.
 
 2 - A execução das obras de alargamento referidas no número anterior não serão comparticipadas pelo Estado nem implicarão a renegociação das Bandas de tráfego e respectivas tarifas.
 
-###### Base XXXV — Vias de comunicação e serviços afectados
+Base XXXV
+
+Vias de comunicação e serviços afectados
 
 1 - Competirá à Concessionária suportar os custos e encargos relativos à reparação dos estragos que, justificadamente, se verifique terem sido causados em quaisquer vias de comunicação em consequência das obras a seu cargo bem como os relativos ao restabelecimento das vias de comunicação existentes interrompidas pela construção da Auto-Estrada.
 
@@ -793,7 +938,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 6 - A reposição de bens e serviços danificados, nos termos do número anterior, ou afectados pela construção da Auto-Estrada será efectuada de acordo com as imposições das entidades que neles superintenderem, não podendo contudo ser exigido que a mesma se faça em condições substancialmente diferentes das previamente existentes.
 
-###### Base XXXVI — Condicionamentos especiais aos estudos e à construção
+Base XXXVI
+
+Condicionamentos especiais aos estudos e à construção
 
 1 - O Concedente poderá impor à Concessionária a realização de modificações aos projectos e estudos apresentados, mesmo se já aprovados, e ao Programa de Trabalhos, quando o interesse público o exija, mediante comunicação dirigida à Concessionária e imediatamente aplicável.
 
@@ -803,13 +950,17 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 4 - A verificação de qualquer das situações previstas na presente base confere à concessionária o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV.
 
-###### Base XXXVII — Responsabilidade da Concessionária pela qualidade da Auto-Estrada
+Base XXXVII
+
+Responsabilidade da Concessionária pela qualidade da Auto-Estrada
 
 1 - A Concessionária garante ao Concedente a qualidade da concepção e do projecto bem como da execução das obras de construção e conservação dos Lanços previstos no n.º 1 da base II, bem como a qualidade da conservação dos lanços referidos nos n.os 2 e 3 da mesma base, responsabilizando-se pela sua durabilidade, em permanentes e plenas condições de funcionamento e operacionalidade, ao longo de todo o período da Concessão.
 
 2 - A Concessionária responderá perante o Concedente e perante terceiros, nos termos gerais da lei, por quaisquer danos emergentes ou lucros cessantes resultantes de deficiências ou omissões na concepção, no projecto, na execução das obras de construção e na conservação da Auto-Estrada, devendo esta responsabilidade ser coberta por seguro, nos termos da base LXIX.
 
-###### Base XXXVIII — Entrada em serviço da Auto-Estrada construída
+Base XXXVIII
+
+Entrada em serviço da Auto-Estrada construída
 
 1 - A Concessionária deve, após a conclusão dos trabalhos indispensáveis à entrada em serviço de cada Lanço, solicitar a realização da respectiva vistoria, a efectuar conjuntamente por representantes do IEP e da Concessionária.
 
@@ -833,7 +984,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 11 - A homologação do auto de vistoria favorável à entrada em serviço de um Lanço não envolve qualquer responsabilidade do Concedente relativamente às condições de segurança ou de qualidade daquele nem exonera a Concessionária do cumprimento das obrigações resultantes do Contrato de Concessão.
 
-###### Base XXXIX — Alterações nas obras realizadas e instalações suplementares
+Base XXXIX
+
+Alterações nas obras realizadas e instalações suplementares
 
 1 - A Concessionária poderá, mediante autorização do MOPTH, a conceder, por despacho, caso a caso, introduzir alterações nas obras realizadas e, bem assim, estabelecer e pôr em funcionamento instalações não previstas nos projectos aprovados, desde que delas não resulte nenhuma modificação fundamental à Concessão.
 
@@ -845,7 +998,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 5 - Os documentos do concurso público referido no número anterior e a respectiva adjudicação deverão ser previamente aprovados pelo Concedente.
 
-###### Base XL — Demarcação dos terrenos e respectiva planta cadastral
+Base XL
+
+Demarcação dos terrenos e respectiva planta cadastral
 
 1 - A Concessionária procederá, à sua custa, com os proprietários vizinhos e em presença de um representante do IEP, que levantará o respectivo auto, à demarcação dos terrenos que façam parte integrante da Concessão, procedendo em seguida ao levantamento da respectiva planta, em fundo cadastral e a escala não inferior a 1:2000, que identifique os terrenos que fazem parte integrante da Concessão, as áreas sobrantes e os restantes terrenos.
 
@@ -855,7 +1010,9 @@ g) Qualidade ambiental - deverão existir dispositivos de protecção contra age
 
 ### CAPÍTULO IX — Áreas de Serviço
 
-###### Base XLI — Requisitos
+Base XLI
+
+Requisitos
 
 1 - As Áreas de Serviço serão construídas de acordo com os projectos, apresentados pela Concessionária e aprovados pelo Concedente, que deverão prever e justificar todas as infra-estruturas e instalações que as integram.
 
@@ -871,7 +1028,9 @@ c) Respeitar a legislação vigente que lhes seja aplicável ou que seja aplicá
 
 4 - A distância entre Áreas de Serviço a estabelecer nos Lanços que constituem o objecto da Concessão não deverá ser superior a 50 km.
 
-###### Base XLII — Construção e exploração de Áreas de Serviço
+Base XLII
+
+Construção e exploração de Áreas de Serviço
 
 1 - A Concessionária não poderá subconcessionar ou por qualquer outra forma contratar com quaisquer terceiros as actividades de exploração das Áreas de Serviço, ou parte delas, sem prévia aprovação dos respectivos contratos pelo Concedente.
 
@@ -887,7 +1046,9 @@ c) Respeitar a legislação vigente que lhes seja aplicável ou que seja aplicá
 
 7 - O estabelecido nos n.os 4 a 6 deverá estar expressamente ressalvado nos contratos submetidos à apreciação do Concedente nos termos do n.º 1.
 
-###### Base XLIII — Extinção dos contratos respeitantes a Áreas de Serviço
+Base XLIII
+
+Extinção dos contratos respeitantes a Áreas de Serviço
 
 1 - No fim do prazo da Concessão caducarão automaticamente, e em razão daquele termo, quaisquer contratos celebrados pela Concessionária com quaisquer terceiros relativos à exploração das Áreas de Serviço, ficando esta inteiramente responsável pelas consequências legais e contratuais dessa caducidade, não assumindo o Concedente quaisquer responsabilidades nesta matéria, sem prejuízo do disposto nos números seguintes.
 
@@ -897,13 +1058,17 @@ c) Respeitar a legislação vigente que lhes seja aplicável ou que seja aplicá
 
 4 - Os contratos a que se refere o n.º 1 deverão conter cláusula que contenha a expressa anuência dos terceiros em causa à cessão da posição contratual prevista no n.º 2 e, bem assim, o reconhecimento dos efeitos que nesses contratos terá o resgate ou rescisão da Concessão, indicados no n.º 3.
 
-###### Base XLIV — Entrada em funcionamento
+Base XLIV
+
+Entrada em funcionamento
 
 A entrada em funcionamento das Áreas de Serviço deverá ocorrer, o mais tardar, 6 meses após a entrada em serviço do Lanço onde se integram ou 15 meses após a transferência para a Concessionária do Lanço já construído.
 
 ### CAPÍTULO X — Exploração e conservação da Auto-Estrada
 
-###### Base XLV — Manutenção da Auto-Estrada
+Base XLV
+
+Manutenção da Auto-Estrada
 
 1 - A Concessionária deverá manter a Auto-Estrada em bom estado de conservação e perfeitas condições de utilização, realizando os trabalhos necessários para que a mesma satisfaça cabal e permanentemente o fim a que se destina.
 
@@ -915,7 +1080,9 @@ A entrada em funcionamento das Áreas de Serviço deverá ocorrer, o mais tardar
 
 5 - O estado de conservação e as condições de exploração da Auto-Estrada serão verificados pelo IEP de acordo com um plano de acções de fiscalização a definir pelo Concedente, competindo à Concessionária proceder, nos prazos que razoavelmente lhe forem fixados, às reparações e beneficiações necessárias à manutenção dos padrões de qualidade previstos no número anterior.
 
-###### Base XLVI — Transferência da exploração e conservação dos Lanços existentes
+Base XLVI
+
+Transferência da exploração e conservação dos Lanços existentes
 
 1 - Os Lanços referidos nos n.os 2 e 3 da base II, bem como os equipamentos e instalações a eles afectos, transferem-se para a Concessionária às 24 horas da data de assinatura do Contrato de Concessão, tornando-se a respectiva exploração e conservação da responsabilidade exclusiva da Concessionária a partir desse momento, nos termos da base anterior.
 
@@ -925,7 +1092,9 @@ A entrada em funcionamento das Áreas de Serviço deverá ocorrer, o mais tardar
 
 4 - A Concessionária declara ter pleno conhecimento do estado de conservação dos Lanços referidos na presente base, bem como das instalações e equipamentos a eles afectos ou que neles se integram, e aceitar a respectiva transferência, sem reservas, nos termos e para os efeitos do Contrato de Concessão.
 
-###### Base XLVII — Instalações e equipamentos de contagem e classificação de tráfego
+Base XLVII
+
+Instalações e equipamentos de contagem e classificação de tráfego
 
 1 - A Concessionária tem a obrigação de instalar em cada um dos Sublanços que integram a Concessão equipamento de contagem e classificação de tráfego que permita, em tempo real, assegurar ao Concedente o controlo efectivo do número e tipo de veículos que circulam na Auto-Estrada, devendo ainda disponibilizar os dados necessários ao programa de monitorização de tráfego que o IEP tem em curso na rede rodoviária nacional.
 
@@ -949,7 +1118,9 @@ c) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 8 - Todos os equipamentos de contagem, classificação e observação de tráfego serão sujeitos a um período de testes de pelo menos dois meses, após a entrada em serviço do Sublanço respectivo, pelos quais o IEP possa aferir do seu bom funcionamento e autorizar que o Lanço em que se integram entre em serviço efectivo para os efeitos do disposto no capítulo XII.
 
-###### Base XLVIII — Localização dos equipamentos de contagem de veículos
+Base XLVIII
+
+Localização dos equipamentos de contagem de veículos
 
 1 - A localização dos sistemas de contagem de tráfego deverá permitir a contagem e classificação deste em todos os Sublanços que constituem a Concessão, para efeitos do cálculo do encargo para o Concedente com o sistema de Portagens SCUT.
 
@@ -957,15 +1128,19 @@ c) O fornecimento de dados, em tempo real, para sistemas de controlo e gestão d
 
 3 - Não obstante o disposto no número anterior, em nenhuma circunstância poderão dois contadores consecutivos distar mais de 10 km, se entre eles existir mais de um nó.
 
-###### Base XLIX — Classificação de veículos
+Base XLIX
+
+Classificação de veículos
 
 1 - As classes de veículos que os equipamentos descritos na base anterior deverão permitir classificar serão as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
 
 2 - Para efeitos de determinação do valor das Portagens SCUT serão utilizadas apenas duas classes: veículos ligeiros, correspondentes às classes C, D e E, e veículos pesados, correspondendo às classes F, G, H, I e J.
 
-###### Base L — Operação e manutenção
+Base L
+
+Operação e manutenção
 
 1 - Para cumprimento das obrigações assumidas em matéria de operação e manutenção do Empreendimento Concessionado, a Concessionária celebra nesta data com a Operadora o Contrato de Operação e Manutenção.
 
@@ -1015,7 +1190,9 @@ i) Iluminação;
 
 j) Telecomunicações.
 
-###### Base LI — Desempenho na exploração e manutenção
+Base LI
+
+Desempenho na exploração e manutenção
 
 1 - Salvo encerramento devido a casos de força maior, à ocorrência de acidentes que obstruam totalmente a via ou causem risco para a circulação, ou imposição das autoridades competentes, após o Período Inicial da Concessão apenas será permitido, sem penalidade, o encerramento de vias, para efeitos devidamente justificados, até ao limite de 17500 via x quilómetro x hora por ano durante o período diurno (das 7 até às 21 horas) e até ao limite de 25000 via x quilómetro x hora por ano durante o período nocturno. Após o Período Inicial da Concessão e caso estes limites sejam ultrapassados a Concessionária ficará sujeita ao regime de penalizações referido no n.º 1 da base LXIV.
 
@@ -1041,7 +1218,7 @@ TMDA(índice t) - TMDA registado na Concessão no ano t;
 
 b):
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
+[[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
 
 c):
 
@@ -1057,2660 +1234,4 @@ IS(índice t - 1)(SCUT) - índice de sinistralidade de todas as concessões SCUT
 
 5 - Os prémios ou multas a pagar serão estabelecidos de acordo com o seguinte:
 
-a) O Concedente pagará um prémio à Concessionária, calculado de acordo com o n.º 3 da base LXIV, sempre que se verifique IS(índice t)(GP)
-
-b) A Concessionária pagará uma multa ao Concedente, calculada de acordo com o n.º 3 da base LXIV, sempre que se verifique IS(índice t)(GP) > IS(índice t - 1)(ponderado).
-
-6 - É aplicável às multas previstas na presente base, mutatis mutandis, o disposto, infra, no n.º 9 da base LXXV.
-
-Base LII
-
-Obrigações e direitos dos utilizadores e dos proprietários confinantes da Auto-Estrada
-
-1 - As obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com a Auto-Estrada, em relação ao seu policiamento, serão as que constam do Estatuto das Estradas Nacionais e de outras disposições legais ou regulamentares aplicáveis.
-
-2 - Os utentes têm o direito de serem informados previamente pela Concessionária sobre a realização de obras programadas que afectem as normais condições de circulação na Auto-Estrada, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem. A informação a que se refere esta disposição deve ser prestada, pelo menos, através de sinalização colocada na rede viária servida pela Auto-Estrada e, se o volume das obras em causa assim o recomendar, através de anúncio publicado num jornal de circulação nacional, com a antecedência e o destaque julgados convenientes.
-
-Base LIII
-
-Manutenção e disciplina de tráfego
-
-1 - A circulação pela Auto-Estrada obedecerá ao determinado no Código da Estrada e demais disposições legais ou regulamentares aplicáveis.
-
-2 - A Concessionária deverá estudar e implementar os mecanismos necessários para garantir a monitorização do tráfego, a identificação de condições climatéricas adversas à circulação, a detecção de acidentes e a consequente e sistemática informação de alerta ao utente, no âmbito da Concessão, em articulação com as acções a levar a cabo na restante rede nacional, designadamente com o projecto CIRPOR.
-
-3 - A Concessionária fica ainda obrigada, sem direito a qualquer indemnização ou à reposição do equilíbrio financeiro, a respeitar e a transmitir aos utentes todas as medidas adoptadas pelas autoridades com poderes de disciplina de tráfego em ocasiões de tráfego excepcionalmente intenso, com o fim de obter o melhor aproveitamento do conjunto da rede viária nacional.
-
-Base LIV
-
-Assistência aos utentes
-
-1 - A Concessionária é obrigada a assegurar assistência aos utentes da Auto-Estrada, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção de acidentes.
-
-2 - A assistência a prestar aos utentes nos termos do número antecedente consiste também no auxílio sanitário e mecânico, devendo a Concessionária instalar para o efeito uma rede de telecomunicações ao longo de todo o traçado da Auto-Estrada, organizar um serviço destinado a chamar do exterior os meios de socorro sanitário em caso de acidente e a promover a prestação de assistência mecânica.
-
-3 - O serviço referido no número anterior funcionará nos centros de assistência e manutenção que a Concessionária deve criar, que compreenderão também as instalações necessárias aos serviços de conservação, exploração e policiamento da Auto-Estrada.
-
-4 - Pela prestação do serviço de assistência e auxílio sanitário e mecânico a Concessionária poderá cobrar, dos respectivos utentes, taxas cujo montante deverão constar do Manual de Operação e Manutenção a que se referem os n.os 3 a 5 da base L.
-
-5 - O funcionamento dos serviços de socorro obedecerá a regulamento a aprovar pelo MOPTH.
-
-Base LV
-
-Reclamações dos utentes
-
-1 - A Concessionária obriga-se a ter à disposição dos utentes do Empreendimento Concessionado, nas àreas de Serviço, livros destinados ao registo de reclamações, os quais poderão ser visados periodicamente pelo IEP.
-
-2 - A Concessionária deverá enviar trimestralmente ao IEP as reclamações registadas, acompanhadas das respostas dadas aos utentes, e dos resultados das investigações e demais providências que porventura tenham sido tomadas.
-
-Base LVI
-
-Estatísticas do tráfego
-
-1 - A Concessionária deverá organizar uma rigorosa estatística diária do tráfego na Auto-Estrada e para as Áreas de Serviço, adoptando, para o efeito, formulário a estabelecer de acordo com o IEP e nos termos dos n.os 3 e 4 da base L.
-
-2 - Os dados obtidos serão mantidos, sem quaisquer restrições, à disposição do IEP, que terá livre acesso aos locais onde estejam instalados os sistemas de controlo.
-
-3 - A Concessionária deverá manter um contínuo controlo dos níveis de sinistralidade registados na Concessão e promover a realização de auditorias anuais aos mesmos.
-
-Base LVII
-
-Participações às autoridades públicas
-
-A Concessionária obriga-se a participar às autoridades públicas competentes quaisquer actos ou factos ilegais ou ilícitos de que tenha conhecimento no âmbito das actividades objecto da Concessão.
-
-CAPÍTULO XI
-
-Outros direitos do Concedente
-
-Base LVIII
-
-Contratos do Projecto
-
-1 - Carecem de aprovação prévia do Concedente, sob pena de nulidade, a substituição, a modificação ou a rescisão dos Contratos do Projecto, bem como a celebração pela Concessionária de qualquer negócio jurídico que tenha por objecto as matérias reguladas pelos mesmos.
-
-2 - A aprovação do Concedente deverá ser comunicada à Concessionária no prazo de 90 dias no caso dos Contratos de Financiamento e de 45 dias nos demais casos, devendo estes prazos contar-se a partir da data da recepção do respectivo pedido que se mostre acompanhado de toda a documentação que o deva instruir, suspendendo-se todavia aquele prazo com a solicitação pelo Concedente de pedidos de esclarecimento, e até que estes sejam prestados.
-
-3 - Decorridos os prazos referidos no número anterior, a aprovação considera-se tacitamente concedida.
-
-4 - A Concessionária permanece directamente responsável perante o Concedente pelo desenvolvimento de todas as actividades concessionadas e pelo cabal cumprimento das obrigações assumidas no Contrato de Concessão, independentemente da contratação, no todo ou em parte, dessas actividades com terceiros nos termos dos Contratos do Projecto e sem prejuízo das obrigações e responsabilidades directamente assumidas perante o Concedente pelas contrapartes nesses contratos.
-
-5 - Sempre que, nos termos dos contratos a que se refere o n.º 4, for ao Concedente permitido o exercício directo de direitos perante os terceiros que neles são partes outorgantes, e a Concessionária for, por força dos mesmos contratos ou do Contrato de Concessão, igualmente responsável pelo cumprimento das obrigações correspondentes, pode o Concedente optar livremente por exercer tais direitos directamente sobre tais terceiros ou sobre a Concessionária, que apenas poderá opor ao Concedente os meios de defesa que nesses contratos estejam previstos, ou deles resultem, na medida em que o uso ou os efeitos de tais meios não impeçam ou tornem excessivamente oneroso para o Concedente e ou significativamente mais difícil para a Concessionária o cumprimento pontual das obrigações decorrentes do Contrato de Concessão.
-
-6 - O Termo da Concessão importa a extinção imediata dos Contratos do Projecto, sem prejuízo do disposto em contrário nas presentes bases e dos acordos que o Concedente tenha estabelecido ou venha a estabelecer directamente com as respectivas contrapartes.
-
-7 - O disposto no número anterior em nada prejudicará a vigência dos Contratos de Financiamento, no que se refere às relações jurídicas entre as Entidades Financiadoras e a Concessionária.
-
-Base LIX
-
-Outras autorizações do Concedente
-
-1 - Carecem igualmente de autorização expressa do Concedente, sob pena de nulidade, a suspensão, a substituição, o cancelamento ou a modificação dos seguintes documentos:
-
-a) Os dos seguros referidos na base LXIX, com excepção do respectivo cancelamento ou suspensão por não pagamento de prémios;
-
-b) Garantias prestadas a favor do Concedente;
-
-c) Garantias prestadas pelos membros do ACE a favor da Concessionária.
-
-2 - As seguradoras que emitam as apólices referidas na base LXIX deverão comunicar ao Concedente com, pelo menos, 45 dias de antecedência a sua intenção de cancelar ou suspender tais apólices por não pagamento dos respectivos prémios.
-
-3 - A Concessionária assegurar-se-á que os contratos e documentos a que se refere o n.º 1 contenham cláusula que exprima o assentimento das respectivas contrapartes ou emitentes ao efeito jurídico aí, e no n.º 2, descrito.
-
-4 - As autorizações do Concedente previstas na presente base consideram-se tacitamente concedidas se não forem recusadas no prazo de 45 dias após a respectiva solicitação.
-
-Base LX
-
-Autorizações e aprovações do Concedente
-
-As autorizações ou aprovações a emitir pelo Concedente nos termos das bases LVIII e LIX ou, desde que fundamentadas, as suas eventuais recusas não implicam a assunção, por ele, de quaisquer responsabilidades nem exoneram a Concessionária do cumprimento pontual das obrigações assumidas no Contrato de Concessão.
-
-Base LXI
-
-Instalações de terceiros
-
-1 - Quando, ao longo do período da Concessão, se venha a mostrar necessário o atravessamento da Auto-Estrada por quaisquer instalações ou redes de serviço público não previstas anteriormente, a Concessionária deverá permitir a sua instalação, as quais terão, porém, de ser levadas a efeito por forma a causar a menor perturbação possível à circulação na Auto-Estrada.
-
-2 - A forma e os meios de realização e conservação das instalações a que se refere o número anterior deverão ser estabelecidos em contratos a celebrar entre a Concessionária e as entidades responsáveis pela gestão dos serviços em causa, as quais deverão suportar os custos da sua realização e demais compensações eventualmente devidas à Concessionária pela sua conservação.
-
-3 - Os contratos referidos no número anterior, bem como quaisquer alterações aos mesmos, carecem de aprovação expressa e prévia do Concedente, que não deverá ser injustificadamente recusada e que deverá ser comunicada à Concessionária nos 30 dias úteis seguintes ao respectivo pedido de autorização.
-
-CAPÍTULO XII
-
-Pagamentos a efectuar pelo Concedente
-
-Base LXII
-
-Pagamentos durante o Período Inicial da Concessão
-
-1 - A partir das 24 horas do último dia do mês em que se realize a transferência para a Concessionária dos Lanços incluídos nos n.os 2 e 3 da base II e até às 24 horas do último dia do mês em que se verifiquem as condições referidas no n.º 2, ou até ao final do Período Inicial da Concessão, consoante o que ocorra mais cedo, a Concessionária terá direito a receber do Concedente em cada ano e por cada Lanço, um montante fixo calculado da seguinte forma:
-
-PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12)
-
-em que:
-
-PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j;
-
-Ext(j) - extensão do Lanço j, expressa em quilómetros, estabelecida de acordo com o n.º 4 da base II;
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3;
-
-m(índice t)(j) - número de meses completos em que a exploração e manutenção do Lanço j esteve a cargo da Concessionária durante o ano t;
-
-t - período correspondente a um ano civil.
-
-2 - Para os Lanços incluídos nos n.os 1 e 2 da base II que entrem em serviço efectivo, de acordo com o n.º 8 da base XLVII, com perfil de Auto-Estrada durante o Período Inicial da Concessão e também para os Lanços incluídos no n.º 3 da base II, caso a Concessionária proceda ao aumento do seu número de vias durante o Período Inicial da Concessão, e após a respectiva entrada em serviço efectivo, a Concessionária terá direito a receber a partir das 24 horas do último dia do mês em que o IEP emita a autorização prevista no n.º 8 da base XLVII, consoante o que ocorra mais tarde, um montante calculado de acordo com a fórmula seguinte:
-
-P(índice t)(j) = PF(índice t)(j) + 0,5 x PB(índice t)(j)
-
-sujeito a P(índice t)(j) =
-
-P(índice t)(j) - montante total a pagar pelo Concedente no ano t para o Lanço j;
-
-PB(índice t)(j) - montante variável a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a fórmula descrita no n.º 4;
-
-PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a seguinte fórmula:
-
-PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12)
-
-em que:
-
-Ext(j) - extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3;
-
-m(índice t)(j) - número de meses completos em que o Lanço j esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, durante o ano t;
-
-t - período correspondente a um ano civil.
-
-3 - Os montantes fixos por quilómetro [M(índice t)(j)], aplicáveis nas fórmulas referidas nos n.os 1 e 2, serão fixados anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitos ao disposto no n.º 6:
-
-M(índice t)(j) = M(índice t - 1)(j) x {F(índice t)(j) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(j)]}
-
-em que:
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t;
-
-M(índice t - 1)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t - 1 com M(índice 2001);
-
-(j) - M(índice 98)(j) e M(índice 98)(j) determinado de acordo com a seguinte tabela:
-
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-F(índice t)(j) - factor de indexação aplicado no ano t ao Lanço j, com valor não superior a 1 e definido em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t - período correspondente a um ano civil.
-
-4 - O montante variável [PB(índice t)(j)] a pagar pelo Concedente para cada Lanço j em cada ano do Período Inicial da Concessão, de acordo com as bases anteriores, será calculado de acordo com a seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-5 - O valor da tarifa de portagem SCUT para a Banda 1 no ano t referida no n.º 4 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao disposto no n.º 6:
-
-T(índice t)(1) = IP(índice t)(1) x B(índice 2007)(1)
-
-com:
-
-IP(índice t)(1) = IP(índice t - 1)(1) x I(índice t)(1)
-
-em que:
-
-T(índice t)(1) - valor da tarifa de portagem SCUT para a Banda 1 no ano t;
-
-IP(índice t)(1) - índice em cadeia de revisão da tarifa no ano t para a Banda 1;
-
-IP(índice t - 1)(1) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-B(índice 2007)(1) - tarifa base anual para a Banda 1 fixada em anexo ao Contrato de Concessão para o ano 2007, a preços de 1 de Janeiro de 1998;
-
-I(índice t)(1) - indexante de revisão da tarifa no ano t para a Banda 1, definido de acordo com o disposto no n.º 7 da base LXIII;
-
-t - período correspondente a um ano civil.
-
-6 - Os valores das tarifas de portagem SCUT para a Banda 1 e dos montantes fixos por quilómetro, a fixar em Janeiro de cada ano civil, de acordo, respectivamente, com os n.os 5 e 3, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-7 - Em adição aos montantes referidos nos n.os 1 e 2 a Concessionária terá direito a receber, desde a data de entrada em serviço efectivo da globalidade do empreendimento com perfil de auto-estrada e até ao final do Período Inicial da Concessão, um pagamento respeitante a todos os Lanços de (euro) 50000/km/ano, ou fracções em função dos meses completos de serviço efectivo conforme definido no n.º 8 da base XLVII. Este montante é fixo, não estando sujeito a qualquer revisão.
-
-Base LXIII
-
-Pagamentos após o Período Inicial da Concessão
-
-1 - A partir das 24 horas do último dia do Período Inicial da Concessão, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-2 - O valor dos pagamentos referentes a cada Banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - Para o cálculo do TMDAE(índice t)(j(elevado a *)) será usada a seguinte expressão, sujeita à restrição imposta no n.º 4:
-
-TMDAE(índice t)(j(elevado a *)) = TMDA(índice t)(elevado a VL)(j(elevado a *)) = f(índice p) x TMDA(índice t)(elevado a VP)(j(elevado a *))
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *) no ano t;
-
-f(índice p) - factor de equivalência para veículos pesados com o valor de 2,2 durante todo o período da Concessão;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *) no ano t;
-
-t - período correspondente a um ano civil.
-
-4 - Para efeitos do cálculo do TMDAE(índice t)(j(elevado a *)) aplicar-se-á a seguinte restrição:
-
-a) Nos Lanços com duas vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<38000
-
-b) Nos Lanços com três vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<60000
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *), no ano t;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *), no ano t;
-
-t - período correspondente a um ano civil;
-
-devendo ser mantida a proporcionalidade real entre veículos ligeiros e pesados no caso de o número total de veículos ser superior, respectivamente, a 38000 ou a 60000.
-
-5 - Para efeitos da aplicação das fórmulas definidas no n.º 4 da base LXII e no n.º 2 da base LXIII entende-se por «extensão afecta a um equipamento de contagem» a extensão do Sublanço onde está instalado, de acordo com o definido no n.º 4 da base II e na base XLVIII.
-
-6 - As tarifas de portagem SCUT a aplicar em cada ano, para cada uma das Bandas [T(índice t)(i)] serão fixadas anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitas ao disposto no n.º 8:
-
-T(índice t)(i) = IP(índice t)(i) x B(índice t)(i)
-
-com:
-
-IP(índice t)(i) = IP(índice t - 1)(i) x I(índice t)(i)
-
-sendo:
-
-IP(índice t)(i) - índice em cadeia de revisão da tarifa no ano t para a Banda i;
-
-IP(índice t - 1)(i) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-I(índice t)(i) - indexante de revisão da tarifa no ano t para a Banda i em relação ao ano anterior, calculado de acordo com o n.º 7;
-
-B(índice t)(i) - tarifa base anual para a Banda i fixada de acordo com anexo ao Contrato de Concessão para cada ano t, a preços de Janeiro de 1998.
-
-7 - O indexante de revisão da tarifa referido no n.º 5 da base LXII e no n.º 6 será calculado de acordo com a seguinte fórmula:
-
-I(índice t)(i) = F(índice t)(i) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(i)]
-
-sendo:
-
-I(índice t)(i) - indexante aplicado no ano t para a Banda i;
-
-F(índice t)(i) - factor de indexação aplicado no ano t para a tarifa da Banda i, com valor não superior a 0,9 e fixado em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t = período correspondente a um ano civil.
-
-8 - Os valores das tarifas de portagem SCUT, a fixar em Janeiro de cada ano civil, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-Base LXIV
-
-Ajustamentos relacionados com o desempenho na exploração e manutenção
-
-1 - Por cada fracção inteira de 1000 via x quilómetro x hora por ano, que os limites anuais estabelecidos no n.º 1 da base LI forem ultrapassados, será aplicada à Concessionária uma penalização de (euro) 2500 no período nocturno e de (euro) 5000 se ocorrer no período diurno, sujeita a revisão de acordo com o IPC.
-
-2 - O montante a pagar pela Concessionária pela soma das penalizações devidas em cada ano será incluído no pagamento de reconciliação previsto na alínea c) do n.º 7 da base LXV.
-
-3 - Os prémios e multas relativos aos níveis de sinistralidade, referidos no n.º 4 da base LI, serão calculados com base no seguinte:
-
-a) Prémio a pagar pelo Concedente à Concessionária, caso se verifiquem as condições enunciadas na alínea a) do n.º 5 da base LI:
-
-Prémio = 2% x P(índice t) x (IS(índice t - 1)(ponderado) - IS(índice t)(GP)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referentes a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t;
-
-b) Multa a pagar pela Concessionária ao Concedente, caso se verifiquem as condições enunciadas na alínea b) do n.º 5 da base LI:
-
-Multa = 2% x P(índice t) x (IS(índice t)(GP) - IS(índice t - 1)(ponderado)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referente a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t.
-
-4 - Os montantes referidos no número anterior serão pagos na data de liquidação do primeiro pagamento por conta do ano t + 1 previsto na alínea a) do n.º 7 da base LXV.
-
-5 - Relativamente ao primeiro e ao último ano da Concessão, serão feitos os necessários ajustes ao cálculo dos respectivos prémios e multas, numa lógica de proporcionalidade, de forma a considerar que este poderá não corresponder a um ano civil completo.
-
-Base LXV
-
-Método de pagamento à Concessionária
-
-1 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXII pela forma e nas datas indicadas em seguida:
-
-a) Montantes fixos: a liquidação de PF(índice t)(j), referido nos n.os 1 e 2 da base LXII será efectuada em duas parcelas de acordo com o seguinte:
-
-i) No dia 31 de Maio de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 1.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 1.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 1.ºSt)(j)/12)
-
-em que:
-
-PF(índice 1.ºSt)(j) = montante fixo a pagar pelo Concedente no 1.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 1.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 1.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-ii) No dia 30 de Setembro de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 2.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 2.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 2.ºSt)(j)/12)
-
-em que:
-
-PF(índice 2.ºSt)(j) = montante fixo a pagar pelo Concedente no 2.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 2.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 2.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-iii) Nos 15 dias úteis seguintes aos dias 30 de Junho e 31 de Dezembro de cada ano, até ao termo da aplicabilidade dos pagamentos fixos, a Concessionária deverá enviar ao Concedente uma nota justificativa dos montantes fixos recebidos relativamente ao semestre imediatamente anterior e o montante a que esta teria direito nos termos da base LXII relativamente a igual período. Caso se verifique alguma diferença entre aqueles e estes, haverá lugar a um pagamento de regularização a efectuar à parte lesada nos 8 dias úteis subsequentes à demonstração do erro;
-
-b) Montantes variáveis: a liquidação dos montantes variáveis definidos no n.º 2 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil;
-
-c) A liquidação do montante referido no n.º 7 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil.
-
-2 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXIII, através de dois pagamentos por conta e de um pagamento de reconciliação, calculados de acordo com o seguinte, sem prejuízo do disposto no n.º 5:
-
-a) Cada pagamento por conta corresponderá a um terço do pagamento total calculado com o tráfego do ano anterior àquele em que o pagamento ocorre e resultará da aplicação da seguinte fórmula:
-
-PC(índice t) = P'(índice t) x (1/3)
-
-em que:
-
-PC(índice t) = valor de cada pagamento por conta a liquidar no ano t;
-
-P'(índice t) = pagamento referente a Portagens SCUT calculado, com o tráfego do ano t - 1, de acordo com o seguinte:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-b) O pagamento de reconciliação, correspondente à diferença entre o pagamento total referente a Portagens SCUT de certo ano e os pagamentos feitos por conta nesse mesmo ano, será calculado da seguinte forma:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - A determinação da parte responsável pela liquidação do pagamento de reconciliação será feita da seguinte forma:
-
-a) Se PR(índice t) >= (euro) 0 caberá ao Concedente pagar à Concessionária o montante respeitante ao pagamento de reconciliação;
-
-b) Se PR(índice t)<(euro) 0 caberá à Concessionária pagar ao Concedente o montante respeitante ao pagamento de reconciliação.
-
-4 - No caso de o final do Período Inicial da Concessão ocorrer entre 30 de Setembro e 31 de Dezembro, o primeiro pagamento referente a Portagens SCUT a efectuar à Concessionária será equiparado a um pagamento de reconciliação, sendo calculado de acordo com o disposto na alínea b) do n.º 2 e liquidado na data definida na alínea c) do n.º 7. Para efeitos da aplicação da fórmula descrita na alínea b) do n.º 2 considerar-se-á que PC(índice t - 1) tem valor 0.
-
-5 - No caso do final de o Período Inicial da Concessão ocorrer entre 1 de Janeiro e 30 de Setembro, os pagamentos referentes a Portagens SCUT a efectuar à Concessionária no ano civil em que termina o Período Inicial da Concessão serão calculados de acordo com o n.º 6, estando a sua liquidação sujeita ao seguinte:
-
-a) Se o final do Período Inicial da Concessão ocorrer entre 1 de Janeiro e 31 de Maio, o primeiro pagamento será liquidado na data definida na alínea a) do n.º 7 e o segundo na data definida na alínea b) do n.º 7;
-
-b) Se o final do Período Inicial da Concessão ocorrer entre 31 de Maio e 30 de Setembro, o primeiro e único pagamento será liquidado na data definida na alínea b) do n.º 7.
-
-6 - Os pagamentos por conta a efectuar no ano civil em que termina o Período Inicial da Concessão, caso haja lugar a algum, serão determinados de acordo com o seguinte:
-
-a) Caso haja lugar a um único pagamento por conta:
-
-PC(índice t') = P((índice t')) x (M/12)
-
-b) Caso haja lugar a um segundo pagamento por conta, o primeiro será calculado de acordo com a expressão apresentada na alínea a) e o segundo será determinado de acordo com a seguinte expressão:
-
-PC(índice t') = P((índice t')) x (1/3)
-
-sendo:
-
-(índice t') = ano civil em que termina o período inicial da Concessão;
-
-PC(índice t') = valor de cada pagamento por conta a efectuar em t';
-
-M = número de meses completos em que a Concessão esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, após o final do Período Inicial da Concessão e até à data de efectivação do primeiro pagamento por conta;
-
-P(índice t') = valor usado como base para o cálculo dos pagamentos por conta, definida na alínea a) do n.º 2.
-
-7 - Sem prejuízo do disposto nos números seguintes, o Concedente procederá à liquidação dos pagamentos referidos nos números anteriores nas seguintes datas de liquidação:
-
-a) O primeiro pagamento por conta será liquidado no dia 31 de Maio de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-b) O segundo pagamento por conta será liquidado no dia 30 de Setembro de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-c) O pagamento de reconciliação será liquidado no dia 31 de Janeiro do ano seguinte ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte.
-
-8 - Se, em virtude da aplicação do disposto na alínea c) do n.º 7 a data de liquidação do pagamento de reconciliação referente ao último ano da Concessão ocorrer mais de dois meses após o Termo da Concessão, a liquidação do referido pagamento deverá ter lugar no último dia útil do 2.º mês seguinte ao referido Termo da Concessão.
-
-9 - Sempre que a obrigação de liquidar o pagamento de reconciliação recaia sobre a Concessionária, esta deverá enviar ao Concedente nota justificativa do montante a liquidar, acompanhada pela respectiva nota de crédito, com a antecedência mínima de 15 dias úteis face à data de liquidação definida na alínea c) do n.º 7 ou no n.º 8.
-
-10 - Caso o Concedente discorde do valor da nota de crédito referida no n.º 9, deverá enviar à Concessionária uma nota justificativa da correcção pretendida no prazo máximo de sete dias úteis a contar da data de recepção dos documentos referidos no n.º 9, devendo a Concessionária proceder de imediato ao envio de nova nota de crédito, rectificada nos termos da nota justificativa recebida do Concedente, e ao pagamento do respectivo montante na data de liquidação definida na alínea c) do n.º 7 ou no n.º 8. Após realizar o pagamento em causa, poderá a Concessionária recorrer à arbitragem, estornando o Concedente, se for essa a decisão do tribunal arbitral, o valor recebido em excesso, acrescido dos juros respectivos, se a eles houver lugar.
-
-11 - Caso a Concessionária não efectue o pagamento de reconciliação na data indicada na alínea c) do n.º 7 ou no n.º 8, o Concedente poderá utilizar a Caução prevista na base LXVII pelo valor em falta.
-
-12 - A Concessionária enviará ao Concedente, com a antecedência mínima de 45 dias relativamente à data de liquidação de cada pagamento por conta que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados. A Concessionária enviará ao Concedente, com a antecedência mínima de 15 dias úteis relativamente às datas de liquidação de cada pagamento de reconciliação que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados.
-
-13 - O Concedente deverá, logo que recebida a factura referida no número anterior, verificar a respectiva correcção, comunicando à Concessionária, com adequada nota justificativa, qualquer erro ou omissão até cinco dias antes do termo do prazo de pagamento, considerando-se a factura aprovada para todos os efeitos se tal comunicação não for feita no prazo referido. Recebida tal comunicação, deverá a Concessionária proceder à revisão da factura ou indicar que mantém os valores nela constantes, suspendendo-se o prazo de pagamento pelo tempo que decorrer até que ocorra a rectificação ou seja indicada a manutenção dos valores facturados.
-
-14 - No caso de a Concessionária se atrasar no envio dos documentos referidos no n.º 12, ou de os mesmos conterem erros ou omissões, tendo a Concessionária de enviar ao Concedente novos documentos, a data de liquidação aplicável ao pagamento em questão será prorrogada pelo número de dias úteis correspondente ao atraso da Concessionária ou pelo número de dias úteis necessários à Concessionária para entregar novos documentos em termos aceitáveis para o Concedente.
-
-15 - Sobre todos os pagamentos a efectuar pelo Concedente incidirá IVA à taxa legalmente aplicável.
-
-16 - A Concessionária poderá ceder às Entidades Financiadoras ou a outras instituições financeiras os créditos que sobre o Concedente detém em virtude do Contrato de Concessão. A esta cessão não obstará o facto de o crédito não ser líquido. Mediante solicitação escrita da Concessionária, o Concedente emitirá e entregará a esta, no prazo de cinco dias, documento adequado confirmando a existência do crédito cedendo, caso tenha ocorrido seja a aprovação tácita da factura, referida no n.º 13, seja a sua aprovação nos termos da segunda parte do mesmo número e do n.º 14.
-
-17 - Em caso de mora superior a 30 dias, relativamente às datas previstas na presente base para a realização dos pagamentos de reconciliação devidos pelo Concedente, haverá lugar à aplicação de juros, após aquele período, calculados à taxa EURIBOR para operações a três meses acrescida de 1%. Em caso de mora relativamente às datas previstas na presente base para a realização dos pagamentos por conta devidos pelo Concedente, haverá lugar à aplicação de juros calculados à taxa EURIBOR para operações a três meses acrescida de 1%.
-
-18 - Se, porém, o Concedente não confirmar, até cinco dias úteis após a data prevista nesta base para a realização dos pagamentos de reconciliação, a factura que lhe tenha sido enviada pela Concessionária, a taxa de juro moratório a aplicar será igual ao Custo Médio Ponderado do Capital.
-
-CAPÍTULO XIII
-
-Modificações subjectivas na Concessão
-
-Base LXVI
-
-Cedência, oneração, trespasse e alienação
-
-1 - Sem prejuízo do disposto em contrário nas presentes bases, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
-
-2 - A Concessionária não poderá, sem prévia e expressa autorização do Concedente, trespassar a Concessão.
-
-3 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis.
-
-4 - No caso de trespasse, a Concessionária deverá comunicar ao Concedente a sua intenção de proceder ao trespasse da Concessão, remetendo-lhe a minuta do contrato de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do trespassário. A autorização que eventualmente venha a ser dada para o trespasse só será válida se os termos do contrato de trespasse forem exactamente os mesmos dos que constavam do pedido de autorização submetido pela Concessionária ao Concedente.
-
-5 - Ocorrendo trespasse da Concessão, consideram-se transmitidos para a nova concessionária os direitos e obrigações da Concessionária, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos pelo Concedente como condição para a autorização do trespasse.
-
-6 - A Concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse.
-
-CAPÍTULO XIV
-
-Garantias do cumprimento das obrigações da Concessionária
-
-Base LXVII
-
-Garantias a prestar
-
-O exacto e pontual cumprimento das obrigações assumidas no Contrato de Concessão pela Concessionária será garantido, cumulativamente, através de:
-
-a) Caução estabelecida nos montantes estipulados na base seguinte;
-
-b) Garantias bancárias prestadas a favor da Concessionária pelos Membros do Concorrente enquanto accionistas da Concessionária, nos montantes que cada um se obrigou a subscrever, garantindo o cumprimento das obrigações assumidas na base XIII e no Acordo de Subscrição, com o montante máximo de responsabilidade correspondente ao montante de capitalização da Concessionária pelos seus accionistas nos termos do Acordo de Subscrição e com as condições de execução pelo Concedente constantes de anexo ao Contrato de Concessão.
-
-Base LXVIII
-
-Regime das garantias
-
-1 - As garantias previstas na base anterior manter-se-ão em vigor nos seguintes termos:
-
-a) A caução a que se refere a alínea a) da base anterior, no valor determinado nos termos dos números seguintes, manter-se-á em vigor até um ano após o Termo da Concessão;
-
-b) O montante máximo da responsabilidade assumida nos termos das garantias referidas na alínea b) da base anterior será progressivamente reduzido à medida em que for sendo cumprido o Acordo de Subscrição.
-
-2 - O valor da caução é fixado pela forma seguinte:
-
-a) Na data de assinatura do Contrato de Concessão, (euro) 2500000;
-
-b) Após o início da construção e enquanto se encontrarem Lanços em construção, a caução será fixada, no mês de Janeiro de cada ano, no valor correspondente a 5% do orçamento das obras a realizar nesse ano;
-
-c) Na data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço será reduzido a 1% do seu valor imobilizado corpóreo bruto reversível, apurado de acordo com o balancete trimestral da Concessionária;
-
-sendo que:
-
-d) Em caso algum, poderá o valor da caução determinado nos termos das alíneas anteriores ser inferior a (euro) 2500000, actualizado de acordo com o referido no n.º 3.
-
-3 - Nos anos seguintes ao da entrada em serviço da totalidade da Auto-Estrada, o valor da caução será actualizado de acordo com o IPC publicado para o ano anterior àquele em que a actualização ocorre.
-
-4 - A caução poderá ser constituída, consoante opção da Concessionária, por uma das seguintes modalidades:
-
-a) Depósito em numerário constituído à ordem do Concedente;
-
-b) Títulos emitidos ou garantidos pelo Estado Português;
-
-c) Garantia bancária emitida por instituição de crédito em benefício do Concedente de acordo com a minuta que consta em anexo ao Contrato de Concessão.
-
-5 - Quando a caução for constituída em títulos, estes serão avaliados pelo respectivo valor nominal, salvo se, nos três meses anteriores à constituição da caução, a cotação média na Bolsa de Lisboa for abaixo do par, situação em que a avaliação se fixará em 90% dessa média.
-
-6 - Os termos e condições da caução constituída de acordo com qualquer das alíneas do n.º 4, quaisquer modificações subsequentes dos seus termos e o seu cancelamento ou redução, e bem assim as respectivas instituições emitentes ou depositárias deverão merecer aprovação prévia do Concedente, a qual se considerará tacitamente concedida se não for recusada, no prazo de 45 dias úteis.
-
-7 - O Concedente poderá utilizar a caução sempre que a Concessionária não cumpra qualquer obrigação assumida no Contrato de Concessão, nomeadamente quando não proceda ao pagamento das multas contratuais, nos termos do disposto no n.º 6 da base LXXV, ou dos prémios de seguro, nos termos do disposto no n.º 5 da base LXIX, ou sempre que tal se revele necessário em virtude da aplicação do disposto no n.º 3 da base XXIII ou dos n.os 11 da base LXV ou 2 da base LXXXI.
-
-8 - Sempre que o Concedente utilize a caução, a Concessionária deverá proceder à reposição do seu montante integral no prazo de 30 dias a contar da data daquela utilização.
-
-9 - Haverá recurso imediato à caução, nos casos previstos nesta base, mediante despacho do MOPTH sobre proposta do IEP, sem necessidade de qualquer outra formalidade ou de prévia decisão arbitral ou judicial.
-
-10 - Todas as despesas relativas à prestação da caução serão da responsabilidade da Concessionária.
-
-Base LXIX
-
-Cobertura por seguros
-
-1 - A Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão por seguradoras aceitáveis para o Concedente.
-
-2 - O programa de seguros relativo às apólices de seguro indicadas no número anterior é o constante de anexo ao Contrato de Concessão, sem prejuízo da contratação dos seguros previstos na base LXXVI.
-
-3 - Não poderão ter início quaisquer obras ou trabalhos no Empreendimento Concessionado sem que a Concessionária apresente ao Concedente comprovativo de que as apólices de seguro aplicáveis se encontram em vigor, com os prémios do primeiro período de cobertura pagos, nas condições estipuladas em anexo ao Contrato de Concessão.
-
-4 - O Concedente deverá ser indicado como co-beneficiário nas apólices de seguro aplicáveis.
-
-5 - Constitui estrita obrigação da Concessionária a manutenção em vigor das apólices listadas em anexo ao Contrato de Concessão, nomeadamente através do pagamento atempado dos respectivos prémios, pelo valor que lhe seja debitado pelas seguradoras.
-
-6 - O Concedente poderá proceder, por conta da Concessionária, ao pagamento directo dos prémios dos seguros referidos nos números anteriores, quando a Concessionária não o faça, mediante recurso à caução.
-
-7 - As condições constantes do n.º 6 deverão constar das apólices emitidas nos termos desta cláusula e ser, assim, do conhecimento das seguradoras.
-
-CAPÍTULO XV
-
-Fiscalização do cumprimento das obrigações da Concessionária
-
-Base LXX
-
-Fiscalização pelo Concedente
-
-1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária emergentes do Contrato de Concessão serão exercidos pela MEF para os aspectos económicos e financeiros e pelo MOPTH para os demais.
-
-2 - Os poderes da MEF serão exercidos pela IGF e os do MOPTH serão exercidos pelo IEP.
-
-3 - A Concessionária facultará ao Concedente, à IGF e ao IEP ou a qualquer outra entidade por estes nomeada, desde que devidamente credenciada, livre acesso a todo o Empreendimento Concessionado, bem como a todos os livros de actas, listas de presença e documentos anexos relativos à Concessionária, livros, registos e documentos relativos às instalações e actividades objecto da Concessão, incluindo as estatísticas e registos de gestão utilizados, e prestará sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
-
-4 - O IEP, enquanto entidade fiscalizadora, poderá intervir em qualquer momento do processo evolutivo da obra, desde a fase da sua concepção e projecto até à fase de exploração e conservação, ordenando a verificação quer de anomalias de execução, quer do incumprimento do que for exigível à Concessionária.
-
-5 - Poderão ser efectuados, a pedido do Concedente, na presença de representantes da Concessionária, ensaios que permitam avaliar as condições de funcionamento e características da Concessão, e do equipamento, sistemas e instalações às mesmas respeitantes, correndo os respectivos custos por conta da Concessionária, sem prejuízo do posterior recurso à arbitragem.
-
-6 - As determinações do Concedente que vierem a ser expressamente emitidas no âmbito dos poderes de fiscalização, incluindo as relativas a eventuais suspensões dos trabalhos de construção, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo da possibilidade de posterior recurso à arbitragem.
-
-7 - Os poderes de fiscalização do cumprimento das obrigações resultantes das presentes bases, não envolvem qualquer responsabilidade do Concedente pela execução das obras de construção, sendo todas as imperfeições ou vícios de concepção, execução ou funcionamento das referidas obras da exclusiva responsabilidade da Concessionária, com excepção das imperfeições ou vícios que se prove terem resultado de determinações do Concedente e a Concessionária haja formulado, por escrito e antes da execução dessas determinações, observações ou reservas quanto às imperfeições ou vícios das soluções técnicas determinadas pelo Concedente.
-
-Base LXXI
-
-Controlo da construção da Auto-Estrada
-
-1 - A Concessionária obriga-se a apresentar semestralmente ao IEP os elementos do plano geral de trabalhos, relativos ao semestre em curso, os quais deverão ser traçados sobre o plano geral de trabalhos inicial incluído no Programa de Trabalhos.
-
-2 - A Concessionária obriga-se ainda a apresentar trimestralmente ao IEP os planos parcelares de trabalho, relativos ao trimestre em curso, os quais deverão ser traçados sobre os planos parcelares incluídos no Programa de Trabalhos.
-
-3 - Eventuais desvios entre os documentos referidos nos números anteriores deverão ser neles devidamente fundamentados e, ocorrendo atrasos na construção da Auto-Estrada, deverão ser indicadas as medidas de recuperação previstas.
-
-4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que o IEP razoavelmente lhe solicitar.
-
-Base LXXII
-
-Intervenção directa do Concedente
-
-1 - Quando a Concessionária não tenha respeitado as determinações expressamente emitidas pelo Concedente no âmbito dos seus poderes de fiscalização, dentro do prazo que razoavelmente lhe for fixado, assistirá a este a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os custos para o efeito incorridos por conta da Concessionária.
-
-2 - O Concedente poderá recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior, sem prejuízo do posterior recurso à arbitragem.
-
-CAPÍTULO XVI
-
-Responsabilidade extracontratual perante terceiros
-
-Base LXXIII
-
-Pela culpa e pelo risco
-
-A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.
-
-Base LXXIV
-
-Por prejuízos causados por entidades contratadas
-
-1 - A Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na Concessão.
-
-2 - Constituirá especial dever da Concessionária prover e exigir a qualquer entidade com que venha a contratar, que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
-
-CAPÍTULO XVII
-
-Incumprimento e cumprimento defeituoso do contrato
-
-Base LXXV
-
-Incumprimento
-
-1 - Sem prejuízo da possibilidade de sequestro ou rescisão da Concessão nos casos e nos termos previstos nas bases LXXVIII e LXXIX e do disposto nos n.os 9 e 10, o incumprimento pela Concessionária de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou destas bases, poderá ser sancionada, por decisão do Concedente, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre (euro) 95000 e (euro) 100000.
-
-2 - A aplicação de multas contratuais está dependente de notificação prévia da Concessionária pelo Concedente para reparar o incumprimento e do não cumprimento do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta, pela Concessionária, naquele prazo.
-
-3 - O prazo de reparação do incumprimento será fixado de acordo com critérios de razoabilidade e terá sempre em atenção a defesa do interesse público e a manutenção em funcionamento, nos termos destas bases, da Concessão.
-
-4 - A fixação do montante das multas contratuais a que aludem os números anteriores é da exclusiva competência do Concedente, sem prejuízo da sua revisão pelo tribunal arbitral.
-
-5 - Caso o incumprimento consista em atraso na data de entrada em serviço dos Lanços a construir as multas referidas no número anterior serão aplicadas por cada dia de atraso e por cada Lanço, terão como limite máximo para todos os Lanços o montante de (euro) 5000000 e serão aplicáveis nos termos seguintes:
-
-a) Até ao montante de (euro) 15000 por dia de atraso, entre o 1.º e o 15.º dia de atraso, inclusive;
-
-b) Até ao montante de (euro) 25000 por dia de atraso, entre o 16.º e o 30.º dia de atraso, inclusive;
-
-c) Até ao montante de (euro) 50000 por dia de atraso entre o 31.º e o 60.º dia de atraso, inclusive;
-
-d) Até (euro) 62500 a partir do 61.º dia de atraso.
-
-6 - Caso a Concessionária não proceda ao pagamento voluntário das multas contratuais que lhe forem aplicadas, no prazo de 10 dias úteis a contar da sua fixação e notificação pelo Concedente, este poderá utilizar a caução para pagamento das mesmas.
-
-7 - No caso de o montante da caução ser insuficiente para o cumprimento das multas, poderá o Concedente deduzir o respectivo montante dos pagamentos a efectuar por ele.
-
-8 - Os valores das multas estabelecidas na presente base serão actualizados em Janeiro de cada ano de acordo com o IPC publicado para o ano anterior.
-
-9 - A aplicação das presentes multas não prejudica a aplicação de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária de responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o Concedente ou terceiro.
-
-10 - A aplicação das presentes multas também não prejudica a aplicação e pagamento das multas por níveis de sinistralidade elevados, previstas na base LI.
-
-Base LXXVI
-
-Força maior
-
-1 - Consideram-se unicamente casos de força maior, os acontecimentos imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária.
-
-2 - Constituem nomeadamente casos de força maior actos de guerra ou subversão, hostilidades ou invasão, tumultos, rebelião, terrorismo ou epidemias, radiações atómicas, fogo, raio, explosão, graves inundações, ciclones, tremores de terra e outros cataclismos naturais que directamente afectem as actividades compreendidas na Concessão.
-
-3 - Consideram-se excluídos da previsão dos números anteriores os eventos naturais cujo impacto deva ser suportado pela Auto-Estrada, nos termos dos projectos aprovados, e dentro dos limites por estes previstos.
-
-4 - Sem prejuízo do disposto no n.º 6, a ocorrência de um caso de força maior terá por efeito exonerar a Concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do Contrato de Concessão que sejam directamente por ele afectadas, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido e dará lugar à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV ou, caso a impossibilidade de cumprimento do Contrato de Concessão se torne definitiva, ou a reposição do equilíbrio financeiro da Concessão se revele excessivamente onerosa para o Concedente, à resolução do Contrato de Concessão.
-
-5 - No caso de exoneração da Concessionária do cumprimento das obrigações decorrentes do Contrato de Concessão, por motivo de força maior, o Concedente deverá fixar, logo que possível, com razoabilidade, e após prévia audiência da Concessionária, o prazo pelo qual aquela exoneração se prolongará.
-
-6 - Sempre que um caso de força maior corresponda, desde pelo menos seis meses antes da sua verificação, a um risco normalmente segurável em praças da União Europeia por apólices comercialmente aceitáveis, e independentemente de a Concessionária ter efectivamente contratado as respectivas apólices, verificar-se-á o seguinte:
-
-a) A Concessionária não ficará exonerada do cumprimento pontual e atempado das obrigações emergentes do Contrato de Concessão, na medida em que aquele cumprimento se tornasse possível em virtude do recebimento da indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa, nos prazos que, com razoabilidade, lhe forem, para este efeito, fixados pelo Concedente;
-
-b) Haverá lugar à reposição do equilíbrio financeiro, nos termos do disposto no n.º 8, apenas na medida do excesso dos prejuízos sofridos relativamente à indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa ou daquela que seria aplicável, independentemente das limitações resultantes de franquia, capital seguro ou limite de cobertura;
-
-c) Haverá lugar à resolução do Contrato de Concessão quando o cumprimento das obrigações emergentes do Contrato de Concessão seja definitivamente impossível, mesmo que tivesse sido recebida a indemnização a que se referem as alíneas anteriores ou quando a reposição do equilíbrio financeiro seja excessivamente onerosa para o Concedente.
-
-7 - Ficam em qualquer caso excluídos da previsão do n.º 6, ainda que correspondam a riscos normalmente seguráveis em praças da União Europeia, os actos de guerra ou subversão, tumultos, hostilidade ou invasão, rebelião ou terrorismo e as radiações atómicas.
-
-8 - Perante a ocorrência de um caso de força maior as Partes acordarão se haverá lugar à reposição do equilíbrio financeiro da Concessão ou à resolução do Contrato de Concessão, recorrendo-se, caso não seja alcançado o acordo quanto à opção e respectivas condições no prazo de 120 dias a contar da ocorrência de um caso de força maior, à arbitragem.
-
-9 - Verificando-se a resolução do Contrato de Concessão nos termos da presente base, extinguir-se-ão as relações contratuais entre as Partes, e observar-se-á, nomeadamente, o seguinte:
-
-a) O Concedente assumirá os direitos e obrigações da Concessionária emergentes dos Contratos de Financiamento, excepto os relativos a incumprimentos verificados antes da ocorrência do caso de força maior;
-
-b) Quaisquer indemnizações pagáveis, em resultado de casos de força maior, ao abrigo de seguros em que o Concedente seja co-segurado, serão directamente pagas ao Concedente;
-
-c) Poderá o Concedente exigir da Concessionária que esta lhe ceda gratuitamente a posição contratual para si emergente dos contratos celebrados com terceiros e relativos à exploração das Áreas de Serviço, que, neste caso, subsistirão para além da resolução do Contrato de Concessão;
-
-d) Revertem para o Concedente todos os bens que integram a Concessão;
-
-e) Será a caução libertada a favor da Concessionária, excepto na medida em que esta possa e deva ser utilizada pelo Concedente em consequência de facto ocorrido antes do evento que esteve na origem da verificação de um caso de força maior;
-
-f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte.
-
-10 - A Concessionária obriga-se a comunicar de imediato ao Concedente a ocorrência de qualquer evento qualificável como caso de força maior ao abrigo do disposto na presente base, bem como, no mais curto prazo possível, a indicar quais as obrigações emergentes do Contrato de Concessão cujo cumprimento, no seu entender, se encontra impedida ou dificultada por força de tal ocorrência e, bem assim, se for o caso, as medidas que pretende pôr em prática a fim de mitigar o impacto do referido evento e os respectivos custos, sem prejuízo de a Concessionária, em situações de reconhecida emergência, dever tomar, por qualquer meio razoável e apropriado ao seu dispor, as medidas destinadas a evitar o agravamento dos efeitos do caso de força maior.
-
-CAPÍTULO XVIII
-
-Extinção e suspensão da Concessão
-
-Base LXXVII
-
-Resgate
-
-1 - Nos últimos cinco anos de vigência da Concessão, poderá o Concedente, sempre que o interesse público o justifique, proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate.
-
-2 - Com o resgate, o Concedente assumirá automaticamente todos os direitos e obrigações da Concessionária emergentes dos contratos outorgados anteriormente à notificação referida no número anterior que tenham por objecto a exploração e conservação da Auto-Estrada, incluindo os Contratos de Financiamento.
-
-3 - As obrigações assumidas pela Concessionária por força de contratos por si celebrados após a notificação da intenção de resgate só serão assumidas pelo Concedente quando tais contratos tenham obtido, previamente, a autorização do MOPTH.
-
-4 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão a que se refere o n.º 1 da base X, de uma quantia correspondente ao somatório dos reembolsos, remunerações e outros cash flow para accionistas previstos, mas ainda não pagos, para cada ano desse período, na última versão entregue ao Concedente das projecções referidas na alínea h) do n.º 1 da base XVI, a qual deverá estar consentânea com a evolução histórica da Concessionária e ser aceite pelo Concedente. Os montantes a pagar pelo Concedente serão deduzidos de eventuais obrigações da Concessionária vencidas e não cumpridas, ou cumpridas defeituosamente, à data do resgate.
-
-5 - Caso não haja acordo entre as Partes, no decurso dos 90 dias seguintes à notificação prevista no n.º 1, sobre o valor das indemnizações a que se refere o n.º 4, este será determinado por uma comissão arbitral, composta por três peritos, um nomeado pela MEF e o MOPTH, outro pela Concessionária, e outro por acordo de ambas as Partes, ou, na sua falta, por escolha do presidente da Câmara dos Revisores Oficiais de Contas, que também nomeará o representante da Parte que o não tenha feito.
-
-6 - Com o resgate, serão libertadas, um ano depois, a caução e as demais garantias a que se refere a base LXVII, mediante comunicação dirigida pelo Concedente aos respectivos depositários ou emitentes.
-
-Base LXXVIII
-
-Sequestro
-
-1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, ou a exploração dos serviços desta.
-
-2 - O sequestro poderá ter lugar, nomeadamente, caso se verifique qualquer das seguintes situações, por motivos imputáveis à Concessionária:
-
-a) Cessação ou interrupção, total ou parcial, das obras ou da exploração dos serviços com consequências significativas para o interesse público ou para a integridade da Concessão;
-
-b) Deficiências graves na organização e regular desenvolvimento das actividades objecto da Concessão, ou no estado geral das instalações e equipamentos que comprometam a continuidade das obras, a sua integridade, a segurança de pessoas e bens, ou a regularidade da exploração ou dos pagamentos;
-
-c) Atrasos na construção da Auto-Estrada que ponham em risco o cumprimento do prazo estabelecido para a sua entrada em serviço e que não tenham sido resolvidos nos termos da base XXXIII;
-
-d) Violação de deveres e obrigações da Concessionária emergentes do Contrato de Concessão, que possa ser sanada pelo recurso ao sequestro.
-
-3 - A Concessionária está obrigada à entrega do Empreendimento Concessionado no prazo que lhe for fixado pelo Concedente quando lhe for comunicada a decisão de sequestro da Concessão, passando a partir da data dessa entrega, e enquanto durar o sequestro, os pagamentos que lhe forem devidos nos termos do capítulo XII, com excepção dos já vencidos na mesma data, a ser efectuados à entidade que o Concedente haja designado para operar a Concessão.
-
-4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da Concessão, observar-se-á previamente, e com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 3 a 5 da base LXXIX.
-
-5 - Durante o período de sequestro da Concessão, o Concedente aplicará os montantes dos pagamentos referidos no capítulo XII, em primeiro lugar para acorrer aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, e, em segundo lugar, para efectuar o serviço da dívida da Concessionária, decorrente dos Contratos de financiamento.
-
-6 - Caso o montante dos pagamentos que seriam devidos à Concessionária, nos termos do capítulo XII, durante o período do sequestro não seja suficiente para fazer face aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, ficará a Concessionária obrigada a suportar a diferença, podendo o Concedente recorrer à caução em caso de não pagamento pela Concessionária no prazo que razoavelmente lhe for fixado.
-
-7 - Se o montante dos pagamentos referidos no capítulo XII durante o período do sequestro exceder o valor global dos custos, encargos e serviço da dívida, liquidados nos termos do n.º 5, o saldo será pago pelo Concedente à Concessionária na data em que terminar o sequestro.
-
-8 - Logo que restabelecido o normal funcionamento da Concessão, a Concessionária será notificada para retomar a Concessão, no prazo que lhe for fixado pelo Concedente.
-
-9 - A Concessionária poderá optar pela rescisão da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 9 da base LXXIX.
-
-Base LXXIX
-
-Rescisão
-
-1 - O Concedente, sob proposta do MOPTH e ouvidos o IEP e a IGF, poderá pôr fim à Concessão através de rescisão do Contrato de Concessão, em casos de violação grave das obrigações da Concessionária decorrentes do Contrato de Concessão.
-
-2 - Constituem, nomeadamente, causa de rescisão do Contrato de Concessão por parte do Concedente, nos termos e para os efeitos do disposto no número anterior, os seguintes factos e situações:
-
-a) Abandono da construção, conservação ou exploração da Concessão;
-
-b) A não entrada em serviço da totalidade da Auto-Estrada, até 31 de Dezembro de 2006, por facto imputável à Concessionária nos termos do Contrato de Concessão;
-
-c) Dissolução ou falência da Concessionária ou despacho de prosseguimento da acção em processo especial de recuperação de empresas ou de falência;
-
-d) Não cumprimento reiterado das obrigações que originaram a aplicação das sanções previstas na base LXXV;
-
-e) Recusa ou impossibilidade da Concessionária em retomar a Concessão nos termos do disposto no n.º 8 da base LXXVIII ou, quando o tiver feito, continuação das situações que motivaram o sequestro;
-
-f) Falta de prestação ou de reposição da caução nos termos e prazos previstos;
-
-g) Cedência, alienação, oneração ou trespasse da Concessão, no todo ou em parte, sem prévia autorização;
-
-h) Incumprimento voluntário de decisões judiciais ou arbitrais transitadas em julgado;
-
-i) Desobediência reiterada às determinações do IEP ou do Concedente, com prejuízo para a execução das obras ou para a exploração e conservação da Auto-Estrada;
-
-j) Actividade fraudulenta destinada a lesar o interesse público.
-
-3 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1, possa motivar a rescisão da Concessão, o MOPTH notificará a Concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
-
-4 - Caso a Concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento, nos termos determinados pelo MOPTH, o Concedente poderá rescindir a Concessão mediante comunicação enviada à Concessionária, sem prejuízo do disposto no número seguinte.
-
-5 - Caso o Concedente pretenda rescindir a Concessão nos termos do número anterior, deverá previamente notificar por escrito o Agente das Entidades Financiadoras nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão.
-
-6 - Sem prejuízo do disposto no número anterior, a comunicação da decisão da rescisão referida no n.º 4 produz efeitos imediatos, independentemente de qualquer outra formalidade.
-
-7 - Sem prejuízo da notificação por escrito ao Agente das Entidades Financiadoras, nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão, em casos de fundamentada urgência que não se compadeça com as delongas no processo de sanação do incumprimento regulado no n.º 3, o Concedente poderá, sem prejuízo da observância daquele processo, proceder de imediato ao sequestro da Concessão nos termos definidos na base LXXVIII.
-
-8 - A rescisão do Contrato de Concessão não preclude a obrigação de indemnização que for aplicável por lei, devendo o montante desta ser calculado nos termos gerais de direito e podendo o Concedente recorrer à caução caso o mesmo não seja pago voluntariamente pela Concessionária.
-
-9 - Ocorrendo rescisão do Contrato de Concessão pela Concessionária por motivo imputável ao Concedente, este deverá indemnizar a Concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da Concessionária emergentes dos Contratos de Financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo da rescisão.
-
-Base LXXX
-
-Caducidade
-
-1 - O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes.
-
-2 - Verificando-se a caducidade do Contrato de Concessão, a Concessionária será inteiramente responsável pela cessação dos efeitos de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte, sem prejuízo do disposto no n.º 2 da base XLIII.
-
-Base LXXXI
-
-Domínio público do Estado e reversão de bens
-
-1 - No Termo da Concessão, revertem gratuita e automaticamente para o Concedente todos os bens que integram a Concessão nos termos do n.º 1 da base VII, obrigando-se a Concessionária a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do Contrato de Concessão, e livres de quaisquer ónus ou encargos.
-
-2 - Caso a Concessionária não dê cumprimento ao disposto no número anterior, o IEP promoverá a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela Concessionária e podendo ser utilizada a caução para os liquidar, no caso de não ocorrer pagamento voluntário e atempado dos montantes despendidos pelo IEP.
-
-3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes destas bases, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
-
-4 - Se, no decurso dos cinco últimos anos da Concessão, se verificar que a Concessionária não se mostra capaz de cumprir plenamente a obrigação referida no n.º 3 e se a caução não for suficiente para cobrir as despesas a realizar, terá o Concedente o direito de se compensar pelos custos previsíveis mediante a dedução, até um valor máximo de 40%, dos pagamentos de Portagem SCUT relativos a esses cinco anos, até ao montante necessário para levar a efeito os trabalhos e as aquisições tidos por convenientes, desde que a Concessionária não preste garantia bancária emitida em termos aceites pelo Concedente, do valor adequado à cobertura do referido montante.
-
-5 - Se, a 15 meses do Termo da Concessão se verificar, mediante inspecção a realizar pelo IEP, a pedido da Concessionária, que as condições descritas no n.º 3 se encontram devidamente salvaguardadas, as retenções de Portagens SCUT efectuadas ao abrigo do número anterior serão pagas à Concessionária acrescidas de juros à taxa EURIBOR para o prazo de três meses. Caso as referidas retenções tenham sido substituídas por garantia bancária prestada pela Concessionária nos termos previstos no n.º 4, o Concedente reembolsará à Concessionária o custo comprovado dessa garantia bancária.
-
-6 - No Termo da Concessão, o Concedente procederá a uma vistoria dos bens referidos no n.º 1 da base VII, na qual participarão representantes das Partes, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto.
-
-CAPÍTULO XIX
-
-Condição financeira da Concessionária
-
-Base LXXXII
-
-Assunção de riscos
-
-1 - A Concessionária assume expressamente integral e exclusiva responsabilidade por todos os riscos inerentes à Concessão, excepto se o contrário resultar do Contrato de Concessão.
-
-2 - Sem prejuízo do disposto no número seguinte, a Concessionária assume integralmente o risco de tráfego inerente à exploração da Auto-Estrada, neste se incluindo o risco emergente de qualquer causa que possa dar origem à redução de tráfego ou à transferência de tráfego da Auto-Estrada para outros meios de transporte ou outras vias da rede nacional.
-
-3 - A assunção do risco de tráfego referenciado no número anterior tem apenas lugar no pressuposto de que as Vias Rodoviárias Concorrentes da Concessão são apenas as constantes do Plano Rodoviário Nacional, tal como aprovado pelo Decreto-Lei n.º 222/98, de 17 de Julho, e alterado pela Lei n.º 98/99, de 26 de Julho.
-
-4 - O Concedente compromete-se a não conferir às vias rodoviárias referidas no n.º 3 nível de serviço superior ao estabelecido no n.º 5.
-
-5 - Conforme estabelecido no PRN 2000, as estradas da rede fundamental (Itinerários Principais) deverão ser planeadas de forma a assegurar nível de serviço B e as da rede complementar (Itinerários Complementares e Estradas Nacionais) o nível de serviço C, cuja determinação será feita pela metodologia constante do Highway Capacity Manual (Special Report 209 - TRB).
-
-6 - Excluem-se do âmbito da presente base as variantes urbanas e as estradas municipais não constantes do PRN 2000.
-
-7 - O incumprimento pelo Concedente da obrigação assumida nos números anteriores ou a criação, por parte do Concedente, de Vias Rodoviárias Concorrentes não previstas no PRN 2000 de que comprovadamente resulte prejuízo substancial para a Concessionária, conferir-lhe-á o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV.
-
-Base LXXXIII
-
-Caso Base
-
-1 - As Partes acordam que o Caso Base constante de anexo ao Contrato de Concessão representa a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base LXXXIV.
-
-2 - O Caso Base apenas poderá ser alterado quando haja lugar, nos termos da base seguinte, à reposição do equilíbrio financeiro da Concessão, e exclusivamente para reflectir a reposição efectuada.
-
-Base LXXXIV
-
-Reposição do equilíbrio financeiro
-
-1 - Tendo em atenção a distribuição de riscos estipulada no Contrato de Concessão, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos dispostos nesta base, nos seguintes casos:
-
-a) Modificação unilateral, imposta pelo Concedente, das condições de desenvolvimento das actividades integradas na Concessão, desde que, em resultado directo da mesma, se verifique, para a Concessionária, um aumento de custos ou uma perda de receitas;
-
-b) Ocorrência de casos de força maior nos termos da base LXXVI, excepto se, em resultado dos mesmos, se verificar a resolução do Contrato de Concessão nos termos do n.º 4 e da alínea c) do n.º 6 da mesma base;
-
-c) Alterações legislativas de carácter específico que tenham um impacto directo sobre as receitas ou custos respeitantes às actividades integradas na Concessão;
-
-d) Quando o direito de aceder à reposição do equilíbrio financeiro é expressamente previsto no Contrato de Concessão.
-
-2 - As alterações à lei geral, designadamente à lei fiscal e à lei ambiental, ficam expressamente excluídas da previsão da alínea c) do número anterior.
-
-3 - As Partes acordam que, sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será, sem prejuízo do disposto no número seguinte, efectuada de acordo com o que, de boa-fé, for estabelecido entre o Concedente (através de representantes da MEF e do MOPTH) e a Concessionária, em negociações que deverão iniciar-se logo que solicitadas pela Concessionária.
-
-4 - Decorridos 60 dias sobre a solicitação de início de negociações sem que as Partes cheguem a acordo sobre os termos em que a reposição do equilíbrio financeiro deve ocorrer, aquela reposição terá lugar, com referência ao Caso Base, com as alterações que este tiver sofrido ao abrigo do n.º 2 da base LXXXIII, e será efectuada pela reposição, por opção da Concessionária, de dois dos três seguintes Critérios Chave:
-
-a) Em conjunto, o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa e o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior sem caixa;
-
-b) Valor mínimo do Rácio de Cobertura da Vida do Empréstimo;
-
-c) TIR para os accionistas, em termos anuais nominais, para todo o prazo da Concessão.
-
-5 - Os três valores referidos no número anterior são os que constam de anexo ao Contrato de Concessão e não poderão ser modificados, independentemente de qualquer alteração ao Caso Base. Na reposição do equilíbrio financeiro com recurso ao Critério Chave TIR accionista, aquela deverá ser feita tendo em atenção o calendário de reembolsos e de remuneração accionista constante do Caso Base.
-
-6 - A reposição do equilíbrio financeiro da Concessão nos termos da presente base apenas deverá ter lugar na medida em que, como consequência do impacto individual ou cumulativo dos eventos referidos no n.º 1, se verifique:
-
-a) A redução em mais de 0,01 pontos do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa ou do Rácio de Cobertura da Vida do Empréstimo; ou
-
-b) A redução da Taxa Interna de Rendibilidade anual nominal para os accionistas da Concessionária em mais de 0,01 pontos percentuais.
-
-7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição poderá ter lugar, por acordo entre as Partes, através de uma das seguintes modalidades:
-
-a) Renegociação das tarifas de portagem e Bandas de tráfego;
-
-b) Atribuição de compensação directa pelo Concedente;
-
-c) Qualquer outra forma que seja acordada pelas Partes.
-
-8 - Caso, durante o Período Inicial da Concessão, se verifique qualquer dos eventos previstos no n.º 1, a reposição do equilíbrio financeiro da Concessão terá lugar através da atribuição de compensação directa pelo Concedente, salvo acordo diverso entre Concessionária e Concedente.
-
-9 - As Partes acordam que a reposição do equilíbrio financeiro da Concessão efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa, suficiente e final para todo o período da Concessão, salvo acordo diverso das Partes.
-
-10 - Para os efeitos previstos na presente base, a Concessionária deverá notificar o Concedente da ocorrência de qualquer evento que, individual ou cumulativamente, possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua verificação.
-
-CAPÍTULO XX
-
-Direitos de propriedade industrial e intelectual
-
-Base LXXXV
-
-Direitos de propriedade industrial e intelectual
-
-1 - A Concessionária cede gratuitamente ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária, seja pelos terceiros que para o efeito subcontratar.
-
-2 - Os direitos de propriedade intelectual sobre os estudos e projectos elaborados para os fins específicos das actividades integradas na Concessão e bem assim os projectos, planos, plantas, documentos e outros materiais referidos no número anterior serão transmitidos gratuitamente e em regime de exclusividade ao Concedente no Termo da Concessão, competindo à Concessionária adoptar todas as medidas para o efeito necessárias.
-
-CAPÍTULO XXI
-
-Vigência da Concessão
-
-Base LXXXVI
-
-Entrada em vigor
-
-O Contrato de Concessão entrará em vigor às 24 horas do dia da sua assinatura pelas Partes, contando-se a partir dessa data o prazo de duração da Concessão.
-
-CAPÍTULO XXII
-
-Disposições diversas
-
-Base LXXXVII
-
-Custos e encargos da Concessionária
-
-A Concessionária reembolsará o IEP no prazo de 30 dias após a assinatura do Contrato de Concessão dos encargos suportados na preparação, lançamento e conclusão do concurso e que ascendem a (euro) 602550.
-
-CAPÍTULO XXIII
-
-Resolução de diferendos
-
-Base LXXXVIII
-
-Processo de arbitragem
-
-1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidos por arbitragem.
-
-2 - A submissão de qualquer questão a arbitragem não exonera as Partes do pontual e atempado cumprimento das disposições do Contrato de Concessão e das determinações do Concedente que no seu âmbito lhe sejam comunicadas, nem permite qualquer interrupção do desenvolvimento das actividades integradas na Concessão, que deverão continuar a processar-se nos termos em vigor à data de submissão da questão até que uma decisão final seja obtida relativamente à matéria em causa.
-
-3 - O disposto no número anterior relativamente ao cumprimento de determinações do Concedente pela Concessionária aplicar-se-á também a determinações consequentes sobre a mesma matéria, mesmo que emitidas após a data de submissão de uma questão a arbitragem, desde que a primeira dessas determinações consequentes tenha sido comunicada à Concessionária anteriormente àquela data.
-
-4 - A Concessionária obriga-se a dar imediato conhecimento ao Concedente da ocorrência de qualquer diferendo ou litígio com as contrapartes dos Contratos do Projecto e a prestar-lhe toda a informação relevante relativa à evolução dos mesmos.
-
-Base LXXXIX
-
-Tribunal Arbitral
-
-1 - O Tribunal Arbitral será composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
-
-2 - A Parte que decida submeter determinado diferendo ao Tribunal Arbitral apresentará os seus fundamentos para a referida submissão e designará de imediato o árbitro da sua nomeação, no requerimento de constituição do Tribunal Arbitral que dirija à outra Parte através de carta registada com aviso de recepção, devendo esta, no prazo de 20 dias úteis a contar da recepção daquele requerimento, designar o árbitro de sua nomeação e deduzir a sua defesa.
-
-3 - Ambos os árbitros designados nos termos do número anterior da presente base designarão o terceiro árbitro do Tribunal no prazo de 10 dias úteis a contar da designação do segundo árbitro do Tribunal, cabendo ao Presidente do Tribunal Central Administrativo, que também nomeará o representante de qualquer das Partes, caso estas o não tenham feito, esta designação, caso a mesma não ocorra dentro deste prazo.
-
-4 - O Tribunal Arbitral considera-se constituído na data em que o terceiro árbitro aceitar a sua nomeação e o comunicar a ambas as Partes.
-
-5 - O Tribunal Arbitral poderá ser assistido pelos peritos técnicos e consultores que considere conveniente designar.
-
-6 - O Tribunal Arbitral, salvo acordo em contrário das Partes, julgará segundo o Direito constituído e das suas decisões não cabe recurso.
-
-7 - As decisões do Tribunal Arbitral deverão ser proferidas no prazo máximo de seis meses a contar da data de constituição do Tribunal determinada nos termos da presente base, configurarão a decisão final de arbitragem relativamente às matérias em causa e incluirão a fixação das custas do processo e a forma da sua repartição pelas Partes.
-
-8 - O Tribunal Arbitral terá sede em Lisboa em local da sua escolha e utilizará a língua portuguesa.
-
-9 - A arbitragem decorrerá em Lisboa, funcionando o Tribunal de acordo com as regras fixadas no Contrato de Concessão, com as regras estabelecidas pelo próprio Tribunal Arbitral e ainda, subsidiariamente, pelo disposto na Lei n.º 31/86, de 29 de Agosto.
-
-b) A Concessionária pagará uma multa ao Concedente, calculada de acordo com o n.º 3 da base LXIV, sempre que se verifique IS(índice t)(GP) > IS(índice t - 1)(ponderado).
-
-6 - É aplicável às multas previstas na presente base, mutatis mutandis, o disposto, infra, no n.º 9 da base LXXV.
-
-###### Base LII — Obrigações e direitos dos utilizadores e dos proprietários confinantes da Auto-Estrada
-
-1 - As obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com a Auto-Estrada, em relação ao seu policiamento, serão as que constam do Estatuto das Estradas Nacionais e de outras disposições legais ou regulamentares aplicáveis.
-
-2 - Os utentes têm o direito de serem informados previamente pela Concessionária sobre a realização de obras programadas que afectem as normais condições de circulação na Auto-Estrada, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem. A informação a que se refere esta disposição deve ser prestada, pelo menos, através de sinalização colocada na rede viária servida pela Auto-Estrada e, se o volume das obras em causa assim o recomendar, através de anúncio publicado num jornal de circulação nacional, com a antecedência e o destaque julgados convenientes.
-
-###### Base LIII — Manutenção e disciplina de tráfego
-
-1 - A circulação pela Auto-Estrada obedecerá ao determinado no Código da Estrada e demais disposições legais ou regulamentares aplicáveis.
-
-2 - A Concessionária deverá estudar e implementar os mecanismos necessários para garantir a monitorização do tráfego, a identificação de condições climatéricas adversas à circulação, a detecção de acidentes e a consequente e sistemática informação de alerta ao utente, no âmbito da Concessão, em articulação com as acções a levar a cabo na restante rede nacional, designadamente com o projecto CIRPOR.
-
-3 - A Concessionária fica ainda obrigada, sem direito a qualquer indemnização ou à reposição do equilíbrio financeiro, a respeitar e a transmitir aos utentes todas as medidas adoptadas pelas autoridades com poderes de disciplina de tráfego em ocasiões de tráfego excepcionalmente intenso, com o fim de obter o melhor aproveitamento do conjunto da rede viária nacional.
-
-###### Base LIV — Assistência aos utentes
-
-1 - A Concessionária é obrigada a assegurar assistência aos utentes da Auto-Estrada, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção de acidentes.
-
-2 - A assistência a prestar aos utentes nos termos do número antecedente consiste também no auxílio sanitário e mecânico, devendo a Concessionária instalar para o efeito uma rede de telecomunicações ao longo de todo o traçado da Auto-Estrada, organizar um serviço destinado a chamar do exterior os meios de socorro sanitário em caso de acidente e a promover a prestação de assistência mecânica.
-
-3 - O serviço referido no número anterior funcionará nos centros de assistência e manutenção que a Concessionária deve criar, que compreenderão também as instalações necessárias aos serviços de conservação, exploração e policiamento da Auto-Estrada.
-
-4 - Pela prestação do serviço de assistência e auxílio sanitário e mecânico a Concessionária poderá cobrar, dos respectivos utentes, taxas cujo montante deverão constar do Manual de Operação e Manutenção a que se referem os n.os 3 a 5 da base L.
-
-5 - O funcionamento dos serviços de socorro obedecerá a regulamento a aprovar pelo MOPTH.
-
-###### Base LV — Reclamações dos utentes
-
-1 - A Concessionária obriga-se a ter à disposição dos utentes do Empreendimento Concessionado, nas àreas de Serviço, livros destinados ao registo de reclamações, os quais poderão ser visados periodicamente pelo IEP.
-
-2 - A Concessionária deverá enviar trimestralmente ao IEP as reclamações registadas, acompanhadas das respostas dadas aos utentes, e dos resultados das investigações e demais providências que porventura tenham sido tomadas.
-
-###### Base LVI — Estatísticas do tráfego
-
-1 - A Concessionária deverá organizar uma rigorosa estatística diária do tráfego na Auto-Estrada e para as Áreas de Serviço, adoptando, para o efeito, formulário a estabelecer de acordo com o IEP e nos termos dos n.os 3 e 4 da base L.
-
-2 - Os dados obtidos serão mantidos, sem quaisquer restrições, à disposição do IEP, que terá livre acesso aos locais onde estejam instalados os sistemas de controlo.
-
-3 - A Concessionária deverá manter um contínuo controlo dos níveis de sinistralidade registados na Concessão e promover a realização de auditorias anuais aos mesmos.
-
-###### Base LVII — Participações às autoridades públicas
-
-A Concessionária obriga-se a participar às autoridades públicas competentes quaisquer actos ou factos ilegais ou ilícitos de que tenha conhecimento no âmbito das actividades objecto da Concessão.
-
-### CAPÍTULO XI — Outros direitos do Concedente
-
-###### Base LVIII — Contratos do Projecto
-
-1 - Carecem de aprovação prévia do Concedente, sob pena de nulidade, a substituição, a modificação ou a rescisão dos Contratos do Projecto, bem como a celebração pela Concessionária de qualquer negócio jurídico que tenha por objecto as matérias reguladas pelos mesmos.
-
-2 - A aprovação do Concedente deverá ser comunicada à Concessionária no prazo de 90 dias no caso dos Contratos de Financiamento e de 45 dias nos demais casos, devendo estes prazos contar-se a partir da data da recepção do respectivo pedido que se mostre acompanhado de toda a documentação que o deva instruir, suspendendo-se todavia aquele prazo com a solicitação pelo Concedente de pedidos de esclarecimento, e até que estes sejam prestados.
-
-3 - Decorridos os prazos referidos no número anterior, a aprovação considera-se tacitamente concedida.
-
-4 - A Concessionária permanece directamente responsável perante o Concedente pelo desenvolvimento de todas as actividades concessionadas e pelo cabal cumprimento das obrigações assumidas no Contrato de Concessão, independentemente da contratação, no todo ou em parte, dessas actividades com terceiros nos termos dos Contratos do Projecto e sem prejuízo das obrigações e responsabilidades directamente assumidas perante o Concedente pelas contrapartes nesses contratos.
-
-5 - Sempre que, nos termos dos contratos a que se refere o n.º 4, for ao Concedente permitido o exercício directo de direitos perante os terceiros que neles são partes outorgantes, e a Concessionária for, por força dos mesmos contratos ou do Contrato de Concessão, igualmente responsável pelo cumprimento das obrigações correspondentes, pode o Concedente optar livremente por exercer tais direitos directamente sobre tais terceiros ou sobre a Concessionária, que apenas poderá opor ao Concedente os meios de defesa que nesses contratos estejam previstos, ou deles resultem, na medida em que o uso ou os efeitos de tais meios não impeçam ou tornem excessivamente oneroso para o Concedente e ou significativamente mais difícil para a Concessionária o cumprimento pontual das obrigações decorrentes do Contrato de Concessão.
-
-6 - O Termo da Concessão importa a extinção imediata dos Contratos do Projecto, sem prejuízo do disposto em contrário nas presentes bases e dos acordos que o Concedente tenha estabelecido ou venha a estabelecer directamente com as respectivas contrapartes.
-
-7 - O disposto no número anterior em nada prejudicará a vigência dos Contratos de Financiamento, no que se refere às relações jurídicas entre as Entidades Financiadoras e a Concessionária.
-
-###### Base LIX — Outras autorizações do Concedente
-
-1 - Carecem igualmente de autorização expressa do Concedente, sob pena de nulidade, a suspensão, a substituição, o cancelamento ou a modificação dos seguintes documentos:
-
-a) Os dos seguros referidos na base LXIX, com excepção do respectivo cancelamento ou suspensão por não pagamento de prémios;
-
-b) Garantias prestadas a favor do Concedente;
-
-c) Garantias prestadas pelos membros do ACE a favor da Concessionária.
-
-2 - As seguradoras que emitam as apólices referidas na base LXIX deverão comunicar ao Concedente com, pelo menos, 45 dias de antecedência a sua intenção de cancelar ou suspender tais apólices por não pagamento dos respectivos prémios.
-
-3 - A Concessionária assegurar-se-á que os contratos e documentos a que se refere o n.º 1 contenham cláusula que exprima o assentimento das respectivas contrapartes ou emitentes ao efeito jurídico aí, e no n.º 2, descrito.
-
-4 - As autorizações do Concedente previstas na presente base consideram-se tacitamente concedidas se não forem recusadas no prazo de 45 dias após a respectiva solicitação.
-
-###### Base LX — Autorizações e aprovações do Concedente
-
-As autorizações ou aprovações a emitir pelo Concedente nos termos das bases LVIII e LIX ou, desde que fundamentadas, as suas eventuais recusas não implicam a assunção, por ele, de quaisquer responsabilidades nem exoneram a Concessionária do cumprimento pontual das obrigações assumidas no Contrato de Concessão.
-
-###### Base LXI — Instalações de terceiros
-
-1 - Quando, ao longo do período da Concessão, se venha a mostrar necessário o atravessamento da Auto-Estrada por quaisquer instalações ou redes de serviço público não previstas anteriormente, a Concessionária deverá permitir a sua instalação, as quais terão, porém, de ser levadas a efeito por forma a causar a menor perturbação possível à circulação na Auto-Estrada.
-
-2 - A forma e os meios de realização e conservação das instalações a que se refere o número anterior deverão ser estabelecidos em contratos a celebrar entre a Concessionária e as entidades responsáveis pela gestão dos serviços em causa, as quais deverão suportar os custos da sua realização e demais compensações eventualmente devidas à Concessionária pela sua conservação.
-
-3 - Os contratos referidos no número anterior, bem como quaisquer alterações aos mesmos, carecem de aprovação expressa e prévia do Concedente, que não deverá ser injustificadamente recusada e que deverá ser comunicada à Concessionária nos 30 dias úteis seguintes ao respectivo pedido de autorização.
-
-### CAPÍTULO XII — Pagamentos a efectuar pelo Concedente
-
-###### Base LXII — Pagamentos durante o Período Inicial da Concessão
-
-1 - A partir das 24 horas do último dia do mês em que se realize a transferência para a Concessionária dos Lanços incluídos nos n.os 2 e 3 da base II e até às 24 horas do último dia do mês em que se verifiquem as condições referidas no n.º 2, ou até ao final do Período Inicial da Concessão, consoante o que ocorra mais cedo, a Concessionária terá direito a receber do Concedente em cada ano e por cada Lanço, um montante fixo calculado da seguinte forma:
-
-PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12)
-
-em que:
-
-PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j;
-
-Ext(j) - extensão do Lanço j, expressa em quilómetros, estabelecida de acordo com o n.º 4 da base II;
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3;
-
-m(índice t)(j) - número de meses completos em que a exploração e manutenção do Lanço j esteve a cargo da Concessionária durante o ano t;
-
-t - período correspondente a um ano civil.
-
-2 - Para os Lanços incluídos nos n.os 1 e 2 da base II que entrem em serviço efectivo, de acordo com o n.º 8 da base XLVII, com perfil de Auto-Estrada durante o Período Inicial da Concessão e também para os Lanços incluídos no n.º 3 da base II, caso a Concessionária proceda ao aumento do seu número de vias durante o Período Inicial da Concessão, e após a respectiva entrada em serviço efectivo, a Concessionária terá direito a receber a partir das 24 horas do último dia do mês em que o IEP emita a autorização prevista no n.º 8 da base XLVII, consoante o que ocorra mais tarde, um montante calculado de acordo com a fórmula seguinte:
-
-P(índice t)(j) = PF(índice t)(j) + 0,5 x PB(índice t)(j)
-
-sujeito a P(índice t)(j) =
-
-P(índice t)(j) - montante total a pagar pelo Concedente no ano t para o Lanço j;
-
-PB(índice t)(j) - montante variável a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a fórmula descrita no n.º 4;
-
-PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a seguinte fórmula:
-
-PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12)
-
-em que:
-
-Ext(j) - extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3;
-
-m(índice t)(j) - número de meses completos em que o Lanço j esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, durante o ano t;
-
-t - período correspondente a um ano civil.
-
-3 - Os montantes fixos por quilómetro [M(índice t)(j)], aplicáveis nas fórmulas referidas nos n.os 1 e 2, serão fixados anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitos ao disposto no n.º 6:
-
-M(índice t)(j) = M(índice t - 1)(j) x {F(índice t)(j) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(j)]}
-
-em que:
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t;
-
-M(índice t - 1)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t - 1 com M(índice 2001);
-
-(j) - M(índice 98)(j) e M(índice 98)(j) determinado de acordo com a seguinte tabela:
-
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-F(índice t)(j) - factor de indexação aplicado no ano t ao Lanço j, com valor não superior a 1 e definido em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t - período correspondente a um ano civil.
-
-4 - O montante variável [PB(índice t)(j)] a pagar pelo Concedente para cada Lanço j em cada ano do Período Inicial da Concessão, de acordo com as bases anteriores, será calculado de acordo com a seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-5 - O valor da tarifa de portagem SCUT para a Banda 1 no ano t referida no n.º 4 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao disposto no n.º 6:
-
-T(índice t)(1) = IP(índice t)(1) x B(índice 2007)(1)
-
-com:
-
-IP(índice t)(1) = IP(índice t - 1)(1) x I(índice t)(1)
-
-em que:
-
-T(índice t)(1) - valor da tarifa de portagem SCUT para a Banda 1 no ano t;
-
-IP(índice t)(1) - índice em cadeia de revisão da tarifa no ano t para a Banda 1;
-
-IP(índice t - 1)(1) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-B(índice 2007)(1) - tarifa base anual para a Banda 1 fixada em anexo ao Contrato de Concessão para o ano 2007, a preços de 1 de Janeiro de 1998;
-
-I(índice t)(1) - indexante de revisão da tarifa no ano t para a Banda 1, definido de acordo com o disposto no n.º 7 da base LXIII;
-
-t - período correspondente a um ano civil.
-
-6 - Os valores das tarifas de portagem SCUT para a Banda 1 e dos montantes fixos por quilómetro, a fixar em Janeiro de cada ano civil, de acordo, respectivamente, com os n.os 5 e 3, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-7 - Em adição aos montantes referidos nos n.os 1 e 2 a Concessionária terá direito a receber, desde a data de entrada em serviço efectivo da globalidade do empreendimento com perfil de auto-estrada e até ao final do Período Inicial da Concessão, um pagamento respeitante a todos os Lanços de (euro) 50000/km/ano, ou fracções em função dos meses completos de serviço efectivo conforme definido no n.º 8 da base XLVII. Este montante é fixo, não estando sujeito a qualquer revisão.
-
-Base LXIII
-
-Pagamentos após o Período Inicial da Concessão
-
-1 - A partir das 24 horas do último dia do Período Inicial da Concessão, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-2 - O valor dos pagamentos referentes a cada Banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - Para o cálculo do TMDAE(índice t)(j(elevado a *)) será usada a seguinte expressão, sujeita à restrição imposta no n.º 4:
-
-TMDAE(índice t)(j(elevado a *)) = TMDA(índice t)(elevado a VL)(j(elevado a *)) = f(índice p) x TMDA(índice t)(elevado a VP)(j(elevado a *))
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *) no ano t;
-
-f(índice p) - factor de equivalência para veículos pesados com o valor de 2,2 durante todo o período da Concessão;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *) no ano t;
-
-t - período correspondente a um ano civil.
-
-4 - Para efeitos do cálculo do TMDAE(índice t)(j(elevado a *)) aplicar-se-á a seguinte restrição:
-
-a) Nos Lanços com duas vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<38000
-
-b) Nos Lanços com três vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<60000
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *), no ano t;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *), no ano t;
-
-t - período correspondente a um ano civil;
-
-devendo ser mantida a proporcionalidade real entre veículos ligeiros e pesados no caso de o número total de veículos ser superior, respectivamente, a 38000 ou a 60000.
-
-5 - Para efeitos da aplicação das fórmulas definidas no n.º 4 da base LXII e no n.º 2 da base LXIII entende-se por «extensão afecta a um equipamento de contagem» a extensão do Sublanço onde está instalado, de acordo com o definido no n.º 4 da base II e na base XLVIII.
-
-6 - As tarifas de portagem SCUT a aplicar em cada ano, para cada uma das Bandas [T(índice t)(i)] serão fixadas anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitas ao disposto no n.º 8:
-
-T(índice t)(i) = IP(índice t)(i) x B(índice t)(i)
-
-com:
-
-IP(índice t)(i) = IP(índice t - 1)(i) x I(índice t)(i)
-
-sendo:
-
-IP(índice t)(i) - índice em cadeia de revisão da tarifa no ano t para a Banda i;
-
-IP(índice t - 1)(i) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-I(índice t)(i) - indexante de revisão da tarifa no ano t para a Banda i em relação ao ano anterior, calculado de acordo com o n.º 7;
-
-B(índice t)(i) - tarifa base anual para a Banda i fixada de acordo com anexo ao Contrato de Concessão para cada ano t, a preços de Janeiro de 1998.
-
-7 - O indexante de revisão da tarifa referido no n.º 5 da base LXII e no n.º 6 será calculado de acordo com a seguinte fórmula:
-
-I(índice t)(i) = F(índice t)(i) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(i)]
-
-sendo:
-
-I(índice t)(i) - indexante aplicado no ano t para a Banda i;
-
-F(índice t)(i) - factor de indexação aplicado no ano t para a tarifa da Banda i, com valor não superior a 0,9 e fixado em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t = período correspondente a um ano civil.
-
-8 - Os valores das tarifas de portagem SCUT, a fixar em Janeiro de cada ano civil, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-Base LXIV
-
-Ajustamentos relacionados com o desempenho na exploração e manutenção
-
-1 - Por cada fracção inteira de 1000 via x quilómetro x hora por ano, que os limites anuais estabelecidos no n.º 1 da base LI forem ultrapassados, será aplicada à Concessionária uma penalização de (euro) 2500 no período nocturno e de (euro) 5000 se ocorrer no período diurno, sujeita a revisão de acordo com o IPC.
-
-2 - O montante a pagar pela Concessionária pela soma das penalizações devidas em cada ano será incluído no pagamento de reconciliação previsto na alínea c) do n.º 7 da base LXV.
-
-3 - Os prémios e multas relativos aos níveis de sinistralidade, referidos no n.º 4 da base LI, serão calculados com base no seguinte:
-
-a) Prémio a pagar pelo Concedente à Concessionária, caso se verifiquem as condições enunciadas na alínea a) do n.º 5 da base LI:
-
-Prémio = 2% x P(índice t) x (IS(índice t - 1)(ponderado) - IS(índice t)(GP)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referentes a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t;
-
-b) Multa a pagar pela Concessionária ao Concedente, caso se verifiquem as condições enunciadas na alínea b) do n.º 5 da base LI:
-
-Multa = 2% x P(índice t) x (IS(índice t)(GP) - IS(índice t - 1)(ponderado)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referente a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t.
-
-4 - Os montantes referidos no número anterior serão pagos na data de liquidação do primeiro pagamento por conta do ano t + 1 previsto na alínea a) do n.º 7 da base LXV.
-
-5 - Relativamente ao primeiro e ao último ano da Concessão, serão feitos os necessários ajustes ao cálculo dos respectivos prémios e multas, numa lógica de proporcionalidade, de forma a considerar que este poderá não corresponder a um ano civil completo.
-
-Base LXV
-
-Método de pagamento à Concessionária
-
-1 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXII pela forma e nas datas indicadas em seguida:
-
-a) Montantes fixos: a liquidação de PF(índice t)(j), referido nos n.os 1 e 2 da base LXII será efectuada em duas parcelas de acordo com o seguinte:
-
-i) No dia 31 de Maio de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 1.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 1.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 1.ºSt)(j)/12)
-
-em que:
-
-PF(índice 1.ºSt)(j) = montante fixo a pagar pelo Concedente no 1.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 1.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 1.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-ii) No dia 30 de Setembro de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 2.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 2.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 2.ºSt)(j)/12)
-
-em que:
-
-PF(índice 2.ºSt)(j) = montante fixo a pagar pelo Concedente no 2.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 2.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 2.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-iii) Nos 15 dias úteis seguintes aos dias 30 de Junho e 31 de Dezembro de cada ano, até ao termo da aplicabilidade dos pagamentos fixos, a Concessionária deverá enviar ao Concedente uma nota justificativa dos montantes fixos recebidos relativamente ao semestre imediatamente anterior e o montante a que esta teria direito nos termos da base LXII relativamente a igual período. Caso se verifique alguma diferença entre aqueles e estes, haverá lugar a um pagamento de regularização a efectuar à parte lesada nos 8 dias úteis subsequentes à demonstração do erro;
-
-b) Montantes variáveis: a liquidação dos montantes variáveis definidos no n.º 2 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil;
-
-c) A liquidação do montante referido no n.º 7 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil.
-
-2 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXIII, através de dois pagamentos por conta e de um pagamento de reconciliação, calculados de acordo com o seguinte, sem prejuízo do disposto no n.º 5:
-
-a) Cada pagamento por conta corresponderá a um terço do pagamento total calculado com o tráfego do ano anterior àquele em que o pagamento ocorre e resultará da aplicação da seguinte fórmula:
-
-PC(índice t) = P'(índice t) x (1/3)
-
-em que:
-
-PC(índice t) = valor de cada pagamento por conta a liquidar no ano t;
-
-P'(índice t) = pagamento referente a Portagens SCUT calculado, com o tráfego do ano t - 1, de acordo com o seguinte:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-b) O pagamento de reconciliação, correspondente à diferença entre o pagamento total referente a Portagens SCUT de certo ano e os pagamentos feitos por conta nesse mesmo ano, será calculado da seguinte forma:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - A determinação da parte responsável pela liquidação do pagamento de reconciliação será feita da seguinte forma:
-
-a) Se PR(índice t) >= (euro) 0 caberá ao Concedente pagar à Concessionária o montante respeitante ao pagamento de reconciliação;
-
-b) Se PR(índice t)<(euro) 0 caberá à Concessionária pagar ao Concedente o montante respeitante ao pagamento de reconciliação.
-
-4 - No caso de o final do Período Inicial da Concessão ocorrer entre 30 de Setembro e 31 de Dezembro, o primeiro pagamento referente a Portagens SCUT a efectuar à Concessionária será equiparado a um pagamento de reconciliação, sendo calculado de acordo com o disposto na alínea b) do n.º 2 e liquidado na data definida na alínea c) do n.º 7. Para efeitos da aplicação da fórmula descrita na alínea b) do n.º 2 considerar-se-á que PC(índice t - 1) tem valor 0.
-
-5 - No caso do final de o Período Inicial da Concessão ocorrer entre 1 de Janeiro e 30 de Setembro, os pagamentos referentes a Portagens SCUT a efectuar à Concessionária no ano civil em que termina o Período Inicial da Concessão serão calculados de acordo com o n.º 6, estando a sua liquidação sujeita ao seguinte:
-
-a) Se o final do Período Inicial da Concessão ocorrer entre 1 de Janeiro e 31 de Maio, o primeiro pagamento será liquidado na data definida na alínea a) do n.º 7 e o segundo na data definida na alínea b) do n.º 7;
-
-b) Se o final do Período Inicial da Concessão ocorrer entre 31 de Maio e 30 de Setembro, o primeiro e único pagamento será liquidado na data definida na alínea b) do n.º 7.
-
-6 - Os pagamentos por conta a efectuar no ano civil em que termina o Período Inicial da Concessão, caso haja lugar a algum, serão determinados de acordo com o seguinte:
-
-a) Caso haja lugar a um único pagamento por conta:
-
-PC(índice t') = P((índice t')) x (M/12)
-
-b) Caso haja lugar a um segundo pagamento por conta, o primeiro será calculado de acordo com a expressão apresentada na alínea a) e o segundo será determinado de acordo com a seguinte expressão:
-
-PC(índice t') = P((índice t')) x (1/3)
-
-sendo:
-
-(índice t') = ano civil em que termina o período inicial da Concessão;
-
-PC(índice t') = valor de cada pagamento por conta a efectuar em t';
-
-M = número de meses completos em que a Concessão esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, após o final do Período Inicial da Concessão e até à data de efectivação do primeiro pagamento por conta;
-
-P(índice t') = valor usado como base para o cálculo dos pagamentos por conta, definida na alínea a) do n.º 2.
-
-7 - Sem prejuízo do disposto nos números seguintes, o Concedente procederá à liquidação dos pagamentos referidos nos números anteriores nas seguintes datas de liquidação:
-
-a) O primeiro pagamento por conta será liquidado no dia 31 de Maio de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-b) O segundo pagamento por conta será liquidado no dia 30 de Setembro de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-c) O pagamento de reconciliação será liquidado no dia 31 de Janeiro do ano seguinte ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte.
-
-8 - Se, em virtude da aplicação do disposto na alínea c) do n.º 7 a data de liquidação do pagamento de reconciliação referente ao último ano da Concessão ocorrer mais de dois meses após o Termo da Concessão, a liquidação do referido pagamento deverá ter lugar no último dia útil do 2.º mês seguinte ao referido Termo da Concessão.
-
-9 - Sempre que a obrigação de liquidar o pagamento de reconciliação recaia sobre a Concessionária, esta deverá enviar ao Concedente nota justificativa do montante a liquidar, acompanhada pela respectiva nota de crédito, com a antecedência mínima de 15 dias úteis face à data de liquidação definida na alínea c) do n.º 7 ou no n.º 8.
-
-10 - Caso o Concedente discorde do valor da nota de crédito referida no n.º 9, deverá enviar à Concessionária uma nota justificativa da correcção pretendida no prazo máximo de sete dias úteis a contar da data de recepção dos documentos referidos no n.º 9, devendo a Concessionária proceder de imediato ao envio de nova nota de crédito, rectificada nos termos da nota justificativa recebida do Concedente, e ao pagamento do respectivo montante na data de liquidação definida na alínea c) do n.º 7 ou no n.º 8. Após realizar o pagamento em causa, poderá a Concessionária recorrer à arbitragem, estornando o Concedente, se for essa a decisão do tribunal arbitral, o valor recebido em excesso, acrescido dos juros respectivos, se a eles houver lugar.
-
-11 - Caso a Concessionária não efectue o pagamento de reconciliação na data indicada na alínea c) do n.º 7 ou no n.º 8, o Concedente poderá utilizar a Caução prevista na base LXVII pelo valor em falta.
-
-12 - A Concessionária enviará ao Concedente, com a antecedência mínima de 45 dias relativamente à data de liquidação de cada pagamento por conta que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados. A Concessionária enviará ao Concedente, com a antecedência mínima de 15 dias úteis relativamente às datas de liquidação de cada pagamento de reconciliação que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados.
-
-13 - O Concedente deverá, logo que recebida a factura referida no número anterior, verificar a respectiva correcção, comunicando à Concessionária, com adequada nota justificativa, qualquer erro ou omissão até cinco dias antes do termo do prazo de pagamento, considerando-se a factura aprovada para todos os efeitos se tal comunicação não for feita no prazo referido. Recebida tal comunicação, deverá a Concessionária proceder à revisão da factura ou indicar que mantém os valores nela constantes, suspendendo-se o prazo de pagamento pelo tempo que decorrer até que ocorra a rectificação ou seja indicada a manutenção dos valores facturados.
-
-14 - No caso de a Concessionária se atrasar no envio dos documentos referidos no n.º 12, ou de os mesmos conterem erros ou omissões, tendo a Concessionária de enviar ao Concedente novos documentos, a data de liquidação aplicável ao pagamento em questão será prorrogada pelo número de dias úteis correspondente ao atraso da Concessionária ou pelo número de dias úteis necessários à Concessionária para entregar novos documentos em termos aceitáveis para o Concedente.
-
-15 - Sobre todos os pagamentos a efectuar pelo Concedente incidirá IVA à taxa legalmente aplicável.
-
-16 - A Concessionária poderá ceder às Entidades Financiadoras ou a outras instituições financeiras os créditos que sobre o Concedente detém em virtude do Contrato de Concessão. A esta cessão não obstará o facto de o crédito não ser líquido. Mediante solicitação escrita da Concessionária, o Concedente emitirá e entregará a esta, no prazo de cinco dias, documento adequado confirmando a existência do crédito cedendo, caso tenha ocorrido seja a aprovação tácita da factura, referida no n.º 13, seja a sua aprovação nos termos da segunda parte do mesmo número e do n.º 14.
-
-17 - Em caso de mora superior a 30 dias, relativamente às datas previstas na presente base para a realização dos pagamentos de reconciliação devidos pelo Concedente, haverá lugar à aplicação de juros, após aquele período, calculados à taxa EURIBOR para operações a três meses acrescida de 1%. Em caso de mora relativamente às datas previstas na presente base para a realização dos pagamentos por conta devidos pelo Concedente, haverá lugar à aplicação de juros calculados à taxa EURIBOR para operações a três meses acrescida de 1%.
-
-18 - Se, porém, o Concedente não confirmar, até cinco dias úteis após a data prevista nesta base para a realização dos pagamentos de reconciliação, a factura que lhe tenha sido enviada pela Concessionária, a taxa de juro moratório a aplicar será igual ao Custo Médio Ponderado do Capital.
-
-CAPÍTULO XIII
-
-Modificações subjectivas na Concessão
-
-Base LXVI
-
-Cedência, oneração, trespasse e alienação
-
-1 - Sem prejuízo do disposto em contrário nas presentes bases, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
-
-2 - A Concessionária não poderá, sem prévia e expressa autorização do Concedente, trespassar a Concessão.
-
-3 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis.
-
-4 - No caso de trespasse, a Concessionária deverá comunicar ao Concedente a sua intenção de proceder ao trespasse da Concessão, remetendo-lhe a minuta do contrato de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do trespassário. A autorização que eventualmente venha a ser dada para o trespasse só será válida se os termos do contrato de trespasse forem exactamente os mesmos dos que constavam do pedido de autorização submetido pela Concessionária ao Concedente.
-
-5 - Ocorrendo trespasse da Concessão, consideram-se transmitidos para a nova concessionária os direitos e obrigações da Concessionária, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos pelo Concedente como condição para a autorização do trespasse.
-
-6 - A Concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse.
-
-CAPÍTULO XIV
-
-Garantias do cumprimento das obrigações da Concessionária
-
-Base LXVII
-
-Garantias a prestar
-
-O exacto e pontual cumprimento das obrigações assumidas no Contrato de Concessão pela Concessionária será garantido, cumulativamente, através de:
-
-a) Caução estabelecida nos montantes estipulados na base seguinte;
-
-b) Garantias bancárias prestadas a favor da Concessionária pelos Membros do Concorrente enquanto accionistas da Concessionária, nos montantes que cada um se obrigou a subscrever, garantindo o cumprimento das obrigações assumidas na base XIII e no Acordo de Subscrição, com o montante máximo de responsabilidade correspondente ao montante de capitalização da Concessionária pelos seus accionistas nos termos do Acordo de Subscrição e com as condições de execução pelo Concedente constantes de anexo ao Contrato de Concessão.
-
-Base LXVIII
-
-Regime das garantias
-
-1 - As garantias previstas na base anterior manter-se-ão em vigor nos seguintes termos:
-
-a) A caução a que se refere a alínea a) da base anterior, no valor determinado nos termos dos números seguintes, manter-se-á em vigor até um ano após o Termo da Concessão;
-
-b) O montante máximo da responsabilidade assumida nos termos das garantias referidas na alínea b) da base anterior será progressivamente reduzido à medida em que for sendo cumprido o Acordo de Subscrição.
-
-2 - O valor da caução é fixado pela forma seguinte:
-
-a) Na data de assinatura do Contrato de Concessão, (euro) 2500000;
-
-b) Após o início da construção e enquanto se encontrarem Lanços em construção, a caução será fixada, no mês de Janeiro de cada ano, no valor correspondente a 5% do orçamento das obras a realizar nesse ano;
-
-c) Na data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço será reduzido a 1% do seu valor imobilizado corpóreo bruto reversível, apurado de acordo com o balancete trimestral da Concessionária;
-
-sendo que:
-
-d) Em caso algum, poderá o valor da caução determinado nos termos das alíneas anteriores ser inferior a (euro) 2500000, actualizado de acordo com o referido no n.º 3.
-
-3 - Nos anos seguintes ao da entrada em serviço da totalidade da Auto-Estrada, o valor da caução será actualizado de acordo com o IPC publicado para o ano anterior àquele em que a actualização ocorre.
-
-4 - A caução poderá ser constituída, consoante opção da Concessionária, por uma das seguintes modalidades:
-
-a) Depósito em numerário constituído à ordem do Concedente;
-
-b) Títulos emitidos ou garantidos pelo Estado Português;
-
-c) Garantia bancária emitida por instituição de crédito em benefício do Concedente de acordo com a minuta que consta em anexo ao Contrato de Concessão.
-
-5 - Quando a caução for constituída em títulos, estes serão avaliados pelo respectivo valor nominal, salvo se, nos três meses anteriores à constituição da caução, a cotação média na Bolsa de Lisboa for abaixo do par, situação em que a avaliação se fixará em 90% dessa média.
-
-6 - Os termos e condições da caução constituída de acordo com qualquer das alíneas do n.º 4, quaisquer modificações subsequentes dos seus termos e o seu cancelamento ou redução, e bem assim as respectivas instituições emitentes ou depositárias deverão merecer aprovação prévia do Concedente, a qual se considerará tacitamente concedida se não for recusada, no prazo de 45 dias úteis.
-
-7 - O Concedente poderá utilizar a caução sempre que a Concessionária não cumpra qualquer obrigação assumida no Contrato de Concessão, nomeadamente quando não proceda ao pagamento das multas contratuais, nos termos do disposto no n.º 6 da base LXXV, ou dos prémios de seguro, nos termos do disposto no n.º 5 da base LXIX, ou sempre que tal se revele necessário em virtude da aplicação do disposto no n.º 3 da base XXIII ou dos n.os 11 da base LXV ou 2 da base LXXXI.
-
-8 - Sempre que o Concedente utilize a caução, a Concessionária deverá proceder à reposição do seu montante integral no prazo de 30 dias a contar da data daquela utilização.
-
-9 - Haverá recurso imediato à caução, nos casos previstos nesta base, mediante despacho do MOPTH sobre proposta do IEP, sem necessidade de qualquer outra formalidade ou de prévia decisão arbitral ou judicial.
-
-10 - Todas as despesas relativas à prestação da caução serão da responsabilidade da Concessionária.
-
-Base LXIX
-
-Cobertura por seguros
-
-1 - A Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão por seguradoras aceitáveis para o Concedente.
-
-2 - O programa de seguros relativo às apólices de seguro indicadas no número anterior é o constante de anexo ao Contrato de Concessão, sem prejuízo da contratação dos seguros previstos na base LXXVI.
-
-3 - Não poderão ter início quaisquer obras ou trabalhos no Empreendimento Concessionado sem que a Concessionária apresente ao Concedente comprovativo de que as apólices de seguro aplicáveis se encontram em vigor, com os prémios do primeiro período de cobertura pagos, nas condições estipuladas em anexo ao Contrato de Concessão.
-
-4 - O Concedente deverá ser indicado como co-beneficiário nas apólices de seguro aplicáveis.
-
-5 - Constitui estrita obrigação da Concessionária a manutenção em vigor das apólices listadas em anexo ao Contrato de Concessão, nomeadamente através do pagamento atempado dos respectivos prémios, pelo valor que lhe seja debitado pelas seguradoras.
-
-6 - O Concedente poderá proceder, por conta da Concessionária, ao pagamento directo dos prémios dos seguros referidos nos números anteriores, quando a Concessionária não o faça, mediante recurso à caução.
-
-7 - As condições constantes do n.º 6 deverão constar das apólices emitidas nos termos desta cláusula e ser, assim, do conhecimento das seguradoras.
-
-CAPÍTULO XV
-
-Fiscalização do cumprimento das obrigações da Concessionária
-
-Base LXX
-
-Fiscalização pelo Concedente
-
-1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária emergentes do Contrato de Concessão serão exercidos pela MEF para os aspectos económicos e financeiros e pelo MOPTH para os demais.
-
-2 - Os poderes da MEF serão exercidos pela IGF e os do MOPTH serão exercidos pelo IEP.
-
-3 - A Concessionária facultará ao Concedente, à IGF e ao IEP ou a qualquer outra entidade por estes nomeada, desde que devidamente credenciada, livre acesso a todo o Empreendimento Concessionado, bem como a todos os livros de actas, listas de presença e documentos anexos relativos à Concessionária, livros, registos e documentos relativos às instalações e actividades objecto da Concessão, incluindo as estatísticas e registos de gestão utilizados, e prestará sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
-
-4 - O IEP, enquanto entidade fiscalizadora, poderá intervir em qualquer momento do processo evolutivo da obra, desde a fase da sua concepção e projecto até à fase de exploração e conservação, ordenando a verificação quer de anomalias de execução, quer do incumprimento do que for exigível à Concessionária.
-
-5 - Poderão ser efectuados, a pedido do Concedente, na presença de representantes da Concessionária, ensaios que permitam avaliar as condições de funcionamento e características da Concessão, e do equipamento, sistemas e instalações às mesmas respeitantes, correndo os respectivos custos por conta da Concessionária, sem prejuízo do posterior recurso à arbitragem.
-
-6 - As determinações do Concedente que vierem a ser expressamente emitidas no âmbito dos poderes de fiscalização, incluindo as relativas a eventuais suspensões dos trabalhos de construção, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo da possibilidade de posterior recurso à arbitragem.
-
-7 - Os poderes de fiscalização do cumprimento das obrigações resultantes das presentes bases, não envolvem qualquer responsabilidade do Concedente pela execução das obras de construção, sendo todas as imperfeições ou vícios de concepção, execução ou funcionamento das referidas obras da exclusiva responsabilidade da Concessionária, com excepção das imperfeições ou vícios que se prove terem resultado de determinações do Concedente e a Concessionária haja formulado, por escrito e antes da execução dessas determinações, observações ou reservas quanto às imperfeições ou vícios das soluções técnicas determinadas pelo Concedente.
-
-Base LXXI
-
-Controlo da construção da Auto-Estrada
-
-1 - A Concessionária obriga-se a apresentar semestralmente ao IEP os elementos do plano geral de trabalhos, relativos ao semestre em curso, os quais deverão ser traçados sobre o plano geral de trabalhos inicial incluído no Programa de Trabalhos.
-
-2 - A Concessionária obriga-se ainda a apresentar trimestralmente ao IEP os planos parcelares de trabalho, relativos ao trimestre em curso, os quais deverão ser traçados sobre os planos parcelares incluídos no Programa de Trabalhos.
-
-3 - Eventuais desvios entre os documentos referidos nos números anteriores deverão ser neles devidamente fundamentados e, ocorrendo atrasos na construção da Auto-Estrada, deverão ser indicadas as medidas de recuperação previstas.
-
-4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que o IEP razoavelmente lhe solicitar.
-
-Base LXXII
-
-Intervenção directa do Concedente
-
-1 - Quando a Concessionária não tenha respeitado as determinações expressamente emitidas pelo Concedente no âmbito dos seus poderes de fiscalização, dentro do prazo que razoavelmente lhe for fixado, assistirá a este a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os custos para o efeito incorridos por conta da Concessionária.
-
-2 - O Concedente poderá recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior, sem prejuízo do posterior recurso à arbitragem.
-
-CAPÍTULO XVI
-
-Responsabilidade extracontratual perante terceiros
-
-Base LXXIII
-
-Pela culpa e pelo risco
-
-A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.
-
-Base LXXIV
-
-Por prejuízos causados por entidades contratadas
-
-1 - A Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na Concessão.
-
-2 - Constituirá especial dever da Concessionária prover e exigir a qualquer entidade com que venha a contratar, que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
-
-CAPÍTULO XVII
-
-Incumprimento e cumprimento defeituoso do contrato
-
-Base LXXV
-
-Incumprimento
-
-1 - Sem prejuízo da possibilidade de sequestro ou rescisão da Concessão nos casos e nos termos previstos nas bases LXXVIII e LXXIX e do disposto nos n.os 9 e 10, o incumprimento pela Concessionária de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou destas bases, poderá ser sancionada, por decisão do Concedente, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre (euro) 95000 e (euro) 100000.
-
-2 - A aplicação de multas contratuais está dependente de notificação prévia da Concessionária pelo Concedente para reparar o incumprimento e do não cumprimento do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta, pela Concessionária, naquele prazo.
-
-3 - O prazo de reparação do incumprimento será fixado de acordo com critérios de razoabilidade e terá sempre em atenção a defesa do interesse público e a manutenção em funcionamento, nos termos destas bases, da Concessão.
-
-4 - A fixação do montante das multas contratuais a que aludem os números anteriores é da exclusiva competência do Concedente, sem prejuízo da sua revisão pelo tribunal arbitral.
-
-5 - Caso o incumprimento consista em atraso na data de entrada em serviço dos Lanços a construir as multas referidas no número anterior serão aplicadas por cada dia de atraso e por cada Lanço, terão como limite máximo para todos os Lanços o montante de (euro) 5000000 e serão aplicáveis nos termos seguintes:
-
-a) Até ao montante de (euro) 15000 por dia de atraso, entre o 1.º e o 15.º dia de atraso, inclusive;
-
-b) Até ao montante de (euro) 25000 por dia de atraso, entre o 16.º e o 30.º dia de atraso, inclusive;
-
-c) Até ao montante de (euro) 50000 por dia de atraso entre o 31.º e o 60.º dia de atraso, inclusive;
-
-d) Até (euro) 62500 a partir do 61.º dia de atraso.
-
-6 - Caso a Concessionária não proceda ao pagamento voluntário das multas contratuais que lhe forem aplicadas, no prazo de 10 dias úteis a contar da sua fixação e notificação pelo Concedente, este poderá utilizar a caução para pagamento das mesmas.
-
-7 - No caso de o montante da caução ser insuficiente para o cumprimento das multas, poderá o Concedente deduzir o respectivo montante dos pagamentos a efectuar por ele.
-
-8 - Os valores das multas estabelecidas na presente base serão actualizados em Janeiro de cada ano de acordo com o IPC publicado para o ano anterior.
-
-9 - A aplicação das presentes multas não prejudica a aplicação de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária de responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o Concedente ou terceiro.
-
-10 - A aplicação das presentes multas também não prejudica a aplicação e pagamento das multas por níveis de sinistralidade elevados, previstas na base LI.
-
-Base LXXVI
-
-Força maior
-
-1 - Consideram-se unicamente casos de força maior, os acontecimentos imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária.
-
-2 - Constituem nomeadamente casos de força maior actos de guerra ou subversão, hostilidades ou invasão, tumultos, rebelião, terrorismo ou epidemias, radiações atómicas, fogo, raio, explosão, graves inundações, ciclones, tremores de terra e outros cataclismos naturais que directamente afectem as actividades compreendidas na Concessão.
-
-3 - Consideram-se excluídos da previsão dos números anteriores os eventos naturais cujo impacto deva ser suportado pela Auto-Estrada, nos termos dos projectos aprovados, e dentro dos limites por estes previstos.
-
-4 - Sem prejuízo do disposto no n.º 6, a ocorrência de um caso de força maior terá por efeito exonerar a Concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do Contrato de Concessão que sejam directamente por ele afectadas, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido e dará lugar à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV ou, caso a impossibilidade de cumprimento do Contrato de Concessão se torne definitiva, ou a reposição do equilíbrio financeiro da Concessão se revele excessivamente onerosa para o Concedente, à resolução do Contrato de Concessão.
-
-5 - No caso de exoneração da Concessionária do cumprimento das obrigações decorrentes do Contrato de Concessão, por motivo de força maior, o Concedente deverá fixar, logo que possível, com razoabilidade, e após prévia audiência da Concessionária, o prazo pelo qual aquela exoneração se prolongará.
-
-6 - Sempre que um caso de força maior corresponda, desde pelo menos seis meses antes da sua verificação, a um risco normalmente segurável em praças da União Europeia por apólices comercialmente aceitáveis, e independentemente de a Concessionária ter efectivamente contratado as respectivas apólices, verificar-se-á o seguinte:
-
-a) A Concessionária não ficará exonerada do cumprimento pontual e atempado das obrigações emergentes do Contrato de Concessão, na medida em que aquele cumprimento se tornasse possível em virtude do recebimento da indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa, nos prazos que, com razoabilidade, lhe forem, para este efeito, fixados pelo Concedente;
-
-b) Haverá lugar à reposição do equilíbrio financeiro, nos termos do disposto no n.º 8, apenas na medida do excesso dos prejuízos sofridos relativamente à indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa ou daquela que seria aplicável, independentemente das limitações resultantes de franquia, capital seguro ou limite de cobertura;
-
-c) Haverá lugar à resolução do Contrato de Concessão quando o cumprimento das obrigações emergentes do Contrato de Concessão seja definitivamente impossível, mesmo que tivesse sido recebida a indemnização a que se referem as alíneas anteriores ou quando a reposição do equilíbrio financeiro seja excessivamente onerosa para o Concedente.
-
-7 - Ficam em qualquer caso excluídos da previsão do n.º 6, ainda que correspondam a riscos normalmente seguráveis em praças da União Europeia, os actos de guerra ou subversão, tumultos, hostilidade ou invasão, rebelião ou terrorismo e as radiações atómicas.
-
-8 - Perante a ocorrência de um caso de força maior as Partes acordarão se haverá lugar à reposição do equilíbrio financeiro da Concessão ou à resolução do Contrato de Concessão, recorrendo-se, caso não seja alcançado o acordo quanto à opção e respectivas condições no prazo de 120 dias a contar da ocorrência de um caso de força maior, à arbitragem.
-
-9 - Verificando-se a resolução do Contrato de Concessão nos termos da presente base, extinguir-se-ão as relações contratuais entre as Partes, e observar-se-á, nomeadamente, o seguinte:
-
-a) O Concedente assumirá os direitos e obrigações da Concessionária emergentes dos Contratos de Financiamento, excepto os relativos a incumprimentos verificados antes da ocorrência do caso de força maior;
-
-b) Quaisquer indemnizações pagáveis, em resultado de casos de força maior, ao abrigo de seguros em que o Concedente seja co-segurado, serão directamente pagas ao Concedente;
-
-c) Poderá o Concedente exigir da Concessionária que esta lhe ceda gratuitamente a posição contratual para si emergente dos contratos celebrados com terceiros e relativos à exploração das Áreas de Serviço, que, neste caso, subsistirão para além da resolução do Contrato de Concessão;
-
-d) Revertem para o Concedente todos os bens que integram a Concessão;
-
-e) Será a caução libertada a favor da Concessionária, excepto na medida em que esta possa e deva ser utilizada pelo Concedente em consequência de facto ocorrido antes do evento que esteve na origem da verificação de um caso de força maior;
-
-f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte.
-
-10 - A Concessionária obriga-se a comunicar de imediato ao Concedente a ocorrência de qualquer evento qualificável como caso de força maior ao abrigo do disposto na presente base, bem como, no mais curto prazo possível, a indicar quais as obrigações emergentes do Contrato de Concessão cujo cumprimento, no seu entender, se encontra impedida ou dificultada por força de tal ocorrência e, bem assim, se for o caso, as medidas que pretende pôr em prática a fim de mitigar o impacto do referido evento e os respectivos custos, sem prejuízo de a Concessionária, em situações de reconhecida emergência, dever tomar, por qualquer meio razoável e apropriado ao seu dispor, as medidas destinadas a evitar o agravamento dos efeitos do caso de força maior.
-
-CAPÍTULO XVIII
-
-Extinção e suspensão da Concessão
-
-Base LXXVII
-
-Resgate
-
-1 - Nos últimos cinco anos de vigência da Concessão, poderá o Concedente, sempre que o interesse público o justifique, proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate.
-
-2 - Com o resgate, o Concedente assumirá automaticamente todos os direitos e obrigações da Concessionária emergentes dos contratos outorgados anteriormente à notificação referida no número anterior que tenham por objecto a exploração e conservação da Auto-Estrada, incluindo os Contratos de Financiamento.
-
-3 - As obrigações assumidas pela Concessionária por força de contratos por si celebrados após a notificação da intenção de resgate só serão assumidas pelo Concedente quando tais contratos tenham obtido, previamente, a autorização do MOPTH.
-
-4 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão a que se refere o n.º 1 da base X, de uma quantia correspondente ao somatório dos reembolsos, remunerações e outros cash flow para accionistas previstos, mas ainda não pagos, para cada ano desse período, na última versão entregue ao Concedente das projecções referidas na alínea h) do n.º 1 da base XVI, a qual deverá estar consentânea com a evolução histórica da Concessionária e ser aceite pelo Concedente. Os montantes a pagar pelo Concedente serão deduzidos de eventuais obrigações da Concessionária vencidas e não cumpridas, ou cumpridas defeituosamente, à data do resgate.
-
-5 - Caso não haja acordo entre as Partes, no decurso dos 90 dias seguintes à notificação prevista no n.º 1, sobre o valor das indemnizações a que se refere o n.º 4, este será determinado por uma comissão arbitral, composta por três peritos, um nomeado pela MEF e o MOPTH, outro pela Concessionária, e outro por acordo de ambas as Partes, ou, na sua falta, por escolha do presidente da Câmara dos Revisores Oficiais de Contas, que também nomeará o representante da Parte que o não tenha feito.
-
-6 - Com o resgate, serão libertadas, um ano depois, a caução e as demais garantias a que se refere a base LXVII, mediante comunicação dirigida pelo Concedente aos respectivos depositários ou emitentes.
-
-Base LXXVIII
-
-Sequestro
-
-1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, ou a exploração dos serviços desta.
-
-2 - O sequestro poderá ter lugar, nomeadamente, caso se verifique qualquer das seguintes situações, por motivos imputáveis à Concessionária:
-
-a) Cessação ou interrupção, total ou parcial, das obras ou da exploração dos serviços com consequências significativas para o interesse público ou para a integridade da Concessão;
-
-b) Deficiências graves na organização e regular desenvolvimento das actividades objecto da Concessão, ou no estado geral das instalações e equipamentos que comprometam a continuidade das obras, a sua integridade, a segurança de pessoas e bens, ou a regularidade da exploração ou dos pagamentos;
-
-c) Atrasos na construção da Auto-Estrada que ponham em risco o cumprimento do prazo estabelecido para a sua entrada em serviço e que não tenham sido resolvidos nos termos da base XXXIII;
-
-d) Violação de deveres e obrigações da Concessionária emergentes do Contrato de Concessão, que possa ser sanada pelo recurso ao sequestro.
-
-3 - A Concessionária está obrigada à entrega do Empreendimento Concessionado no prazo que lhe for fixado pelo Concedente quando lhe for comunicada a decisão de sequestro da Concessão, passando a partir da data dessa entrega, e enquanto durar o sequestro, os pagamentos que lhe forem devidos nos termos do capítulo XII, com excepção dos já vencidos na mesma data, a ser efectuados à entidade que o Concedente haja designado para operar a Concessão.
-
-4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da Concessão, observar-se-á previamente, e com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 3 a 5 da base LXXIX.
-
-5 - Durante o período de sequestro da Concessão, o Concedente aplicará os montantes dos pagamentos referidos no capítulo XII, em primeiro lugar para acorrer aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, e, em segundo lugar, para efectuar o serviço da dívida da Concessionária, decorrente dos Contratos de financiamento.
-
-6 - Caso o montante dos pagamentos que seriam devidos à Concessionária, nos termos do capítulo XII, durante o período do sequestro não seja suficiente para fazer face aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, ficará a Concessionária obrigada a suportar a diferença, podendo o Concedente recorrer à caução em caso de não pagamento pela Concessionária no prazo que razoavelmente lhe for fixado.
-
-7 - Se o montante dos pagamentos referidos no capítulo XII durante o período do sequestro exceder o valor global dos custos, encargos e serviço da dívida, liquidados nos termos do n.º 5, o saldo será pago pelo Concedente à Concessionária na data em que terminar o sequestro.
-
-8 - Logo que restabelecido o normal funcionamento da Concessão, a Concessionária será notificada para retomar a Concessão, no prazo que lhe for fixado pelo Concedente.
-
-9 - A Concessionária poderá optar pela rescisão da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 9 da base LXXIX.
-
-Base LXXIX
-
-Rescisão
-
-1 - O Concedente, sob proposta do MOPTH e ouvidos o IEP e a IGF, poderá pôr fim à Concessão através de rescisão do Contrato de Concessão, em casos de violação grave das obrigações da Concessionária decorrentes do Contrato de Concessão.
-
-2 - Constituem, nomeadamente, causa de rescisão do Contrato de Concessão por parte do Concedente, nos termos e para os efeitos do disposto no número anterior, os seguintes factos e situações:
-
-a) Abandono da construção, conservação ou exploração da Concessão;
-
-b) A não entrada em serviço da totalidade da Auto-Estrada, até 31 de Dezembro de 2006, por facto imputável à Concessionária nos termos do Contrato de Concessão;
-
-c) Dissolução ou falência da Concessionária ou despacho de prosseguimento da acção em processo especial de recuperação de empresas ou de falência;
-
-d) Não cumprimento reiterado das obrigações que originaram a aplicação das sanções previstas na base LXXV;
-
-e) Recusa ou impossibilidade da Concessionária em retomar a Concessão nos termos do disposto no n.º 8 da base LXXVIII ou, quando o tiver feito, continuação das situações que motivaram o sequestro;
-
-f) Falta de prestação ou de reposição da caução nos termos e prazos previstos;
-
-g) Cedência, alienação, oneração ou trespasse da Concessão, no todo ou em parte, sem prévia autorização;
-
-h) Incumprimento voluntário de decisões judiciais ou arbitrais transitadas em julgado;
-
-i) Desobediência reiterada às determinações do IEP ou do Concedente, com prejuízo para a execução das obras ou para a exploração e conservação da Auto-Estrada;
-
-j) Actividade fraudulenta destinada a lesar o interesse público.
-
-3 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1, possa motivar a rescisão da Concessão, o MOPTH notificará a Concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
-
-4 - Caso a Concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento, nos termos determinados pelo MOPTH, o Concedente poderá rescindir a Concessão mediante comunicação enviada à Concessionária, sem prejuízo do disposto no número seguinte.
-
-5 - Caso o Concedente pretenda rescindir a Concessão nos termos do número anterior, deverá previamente notificar por escrito o Agente das Entidades Financiadoras nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão.
-
-6 - Sem prejuízo do disposto no número anterior, a comunicação da decisão da rescisão referida no n.º 4 produz efeitos imediatos, independentemente de qualquer outra formalidade.
-
-7 - Sem prejuízo da notificação por escrito ao Agente das Entidades Financiadoras, nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão, em casos de fundamentada urgência que não se compadeça com as delongas no processo de sanação do incumprimento regulado no n.º 3, o Concedente poderá, sem prejuízo da observância daquele processo, proceder de imediato ao sequestro da Concessão nos termos definidos na base LXXVIII.
-
-8 - A rescisão do Contrato de Concessão não preclude a obrigação de indemnização que for aplicável por lei, devendo o montante desta ser calculado nos termos gerais de direito e podendo o Concedente recorrer à caução caso o mesmo não seja pago voluntariamente pela Concessionária.
-
-9 - Ocorrendo rescisão do Contrato de Concessão pela Concessionária por motivo imputável ao Concedente, este deverá indemnizar a Concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da Concessionária emergentes dos Contratos de Financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo da rescisão.
-
-Base LXXX
-
-Caducidade
-
-1 - O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes.
-
-2 - Verificando-se a caducidade do Contrato de Concessão, a Concessionária será inteiramente responsável pela cessação dos efeitos de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte, sem prejuízo do disposto no n.º 2 da base XLIII.
-
-Base LXXXI
-
-Domínio público do Estado e reversão de bens
-
-1 - No Termo da Concessão, revertem gratuita e automaticamente para o Concedente todos os bens que integram a Concessão nos termos do n.º 1 da base VII, obrigando-se a Concessionária a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do Contrato de Concessão, e livres de quaisquer ónus ou encargos.
-
-2 - Caso a Concessionária não dê cumprimento ao disposto no número anterior, o IEP promoverá a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela Concessionária e podendo ser utilizada a caução para os liquidar, no caso de não ocorrer pagamento voluntário e atempado dos montantes despendidos pelo IEP.
-
-3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes destas bases, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
-
-4 - Se, no decurso dos cinco últimos anos da Concessão, se verificar que a Concessionária não se mostra capaz de cumprir plenamente a obrigação referida no n.º 3 e se a caução não for suficiente para cobrir as despesas a realizar, terá o Concedente o direito de se compensar pelos custos previsíveis mediante a dedução, até um valor máximo de 40%, dos pagamentos de Portagem SCUT relativos a esses cinco anos, até ao montante necessário para levar a efeito os trabalhos e as aquisições tidos por convenientes, desde que a Concessionária não preste garantia bancária emitida em termos aceites pelo Concedente, do valor adequado à cobertura do referido montante.
-
-5 - Se, a 15 meses do Termo da Concessão se verificar, mediante inspecção a realizar pelo IEP, a pedido da Concessionária, que as condições descritas no n.º 3 se encontram devidamente salvaguardadas, as retenções de Portagens SCUT efectuadas ao abrigo do número anterior serão pagas à Concessionária acrescidas de juros à taxa EURIBOR para o prazo de três meses. Caso as referidas retenções tenham sido substituídas por garantia bancária prestada pela Concessionária nos termos previstos no n.º 4, o Concedente reembolsará à Concessionária o custo comprovado dessa garantia bancária.
-
-6 - No Termo da Concessão, o Concedente procederá a uma vistoria dos bens referidos no n.º 1 da base VII, na qual participarão representantes das Partes, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto.
-
-CAPÍTULO XIX
-
-Condição financeira da Concessionária
-
-Base LXXXII
-
-Assunção de riscos
-
-1 - A Concessionária assume expressamente integral e exclusiva responsabilidade por todos os riscos inerentes à Concessão, excepto se o contrário resultar do Contrato de Concessão.
-
-2 - Sem prejuízo do disposto no número seguinte, a Concessionária assume integralmente o risco de tráfego inerente à exploração da Auto-Estrada, neste se incluindo o risco emergente de qualquer causa que possa dar origem à redução de tráfego ou à transferência de tráfego da Auto-Estrada para outros meios de transporte ou outras vias da rede nacional.
-
-3 - A assunção do risco de tráfego referenciado no número anterior tem apenas lugar no pressuposto de que as Vias Rodoviárias Concorrentes da Concessão são apenas as constantes do Plano Rodoviário Nacional, tal como aprovado pelo Decreto-Lei n.º 222/98, de 17 de Julho, e alterado pela Lei n.º 98/99, de 26 de Julho.
-
-4 - O Concedente compromete-se a não conferir às vias rodoviárias referidas no n.º 3 nível de serviço superior ao estabelecido no n.º 5.
-
-5 - Conforme estabelecido no PRN 2000, as estradas da rede fundamental (Itinerários Principais) deverão ser planeadas de forma a assegurar nível de serviço B e as da rede complementar (Itinerários Complementares e Estradas Nacionais) o nível de serviço C, cuja determinação será feita pela metodologia constante do Highway Capacity Manual (Special Report 209 - TRB).
-
-6 - Excluem-se do âmbito da presente base as variantes urbanas e as estradas municipais não constantes do PRN 2000.
-
-7 - O incumprimento pelo Concedente da obrigação assumida nos números anteriores ou a criação, por parte do Concedente, de Vias Rodoviárias Concorrentes não previstas no PRN 2000 de que comprovadamente resulte prejuízo substancial para a Concessionária, conferir-lhe-á o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV.
-
-Base LXXXIII
-
-Caso Base
-
-1 - As Partes acordam que o Caso Base constante de anexo ao Contrato de Concessão representa a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base LXXXIV.
-
-2 - O Caso Base apenas poderá ser alterado quando haja lugar, nos termos da base seguinte, à reposição do equilíbrio financeiro da Concessão, e exclusivamente para reflectir a reposição efectuada.
-
-Base LXXXIV
-
-Reposição do equilíbrio financeiro
-
-1 - Tendo em atenção a distribuição de riscos estipulada no Contrato de Concessão, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos dispostos nesta base, nos seguintes casos:
-
-a) Modificação unilateral, imposta pelo Concedente, das condições de desenvolvimento das actividades integradas na Concessão, desde que, em resultado directo da mesma, se verifique, para a Concessionária, um aumento de custos ou uma perda de receitas;
-
-b) Ocorrência de casos de força maior nos termos da base LXXVI, excepto se, em resultado dos mesmos, se verificar a resolução do Contrato de Concessão nos termos do n.º 4 e da alínea c) do n.º 6 da mesma base;
-
-c) Alterações legislativas de carácter específico que tenham um impacto directo sobre as receitas ou custos respeitantes às actividades integradas na Concessão;
-
-d) Quando o direito de aceder à reposição do equilíbrio financeiro é expressamente previsto no Contrato de Concessão.
-
-2 - As alterações à lei geral, designadamente à lei fiscal e à lei ambiental, ficam expressamente excluídas da previsão da alínea c) do número anterior.
-
-3 - As Partes acordam que, sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será, sem prejuízo do disposto no número seguinte, efectuada de acordo com o que, de boa-fé, for estabelecido entre o Concedente (através de representantes da MEF e do MOPTH) e a Concessionária, em negociações que deverão iniciar-se logo que solicitadas pela Concessionária.
-
-4 - Decorridos 60 dias sobre a solicitação de início de negociações sem que as Partes cheguem a acordo sobre os termos em que a reposição do equilíbrio financeiro deve ocorrer, aquela reposição terá lugar, com referência ao Caso Base, com as alterações que este tiver sofrido ao abrigo do n.º 2 da base LXXXIII, e será efectuada pela reposição, por opção da Concessionária, de dois dos três seguintes Critérios Chave:
-
-a) Em conjunto, o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa e o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior sem caixa;
-
-b) Valor mínimo do Rácio de Cobertura da Vida do Empréstimo;
-
-c) TIR para os accionistas, em termos anuais nominais, para todo o prazo da Concessão.
-
-5 - Os três valores referidos no número anterior são os que constam de anexo ao Contrato de Concessão e não poderão ser modificados, independentemente de qualquer alteração ao Caso Base. Na reposição do equilíbrio financeiro com recurso ao Critério Chave TIR accionista, aquela deverá ser feita tendo em atenção o calendário de reembolsos e de remuneração accionista constante do Caso Base.
-
-6 - A reposição do equilíbrio financeiro da Concessão nos termos da presente base apenas deverá ter lugar na medida em que, como consequência do impacto individual ou cumulativo dos eventos referidos no n.º 1, se verifique:
-
-a) A redução em mais de 0,01 pontos do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa ou do Rácio de Cobertura da Vida do Empréstimo; ou
-
-b) A redução da Taxa Interna de Rendibilidade anual nominal para os accionistas da Concessionária em mais de 0,01 pontos percentuais.
-
-7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição poderá ter lugar, por acordo entre as Partes, através de uma das seguintes modalidades:
-
-a) Renegociação das tarifas de portagem e Bandas de tráfego;
-
-b) Atribuição de compensação directa pelo Concedente;
-
-c) Qualquer outra forma que seja acordada pelas Partes.
-
-8 - Caso, durante o Período Inicial da Concessão, se verifique qualquer dos eventos previstos no n.º 1, a reposição do equilíbrio financeiro da Concessão terá lugar através da atribuição de compensação directa pelo Concedente, salvo acordo diverso entre Concessionária e Concedente.
-
-9 - As Partes acordam que a reposição do equilíbrio financeiro da Concessão efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa, suficiente e final para todo o período da Concessão, salvo acordo diverso das Partes.
-
-10 - Para os efeitos previstos na presente base, a Concessionária deverá notificar o Concedente da ocorrência de qualquer evento que, individual ou cumulativamente, possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua verificação.
-
-CAPÍTULO XX
-
-Direitos de propriedade industrial e intelectual
-
-Base LXXXV
-
-Direitos de propriedade industrial e intelectual
-
-1 - A Concessionária cede gratuitamente ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária, seja pelos terceiros que para o efeito subcontratar.
-
-2 - Os direitos de propriedade intelectual sobre os estudos e projectos elaborados para os fins específicos das actividades integradas na Concessão e bem assim os projectos, planos, plantas, documentos e outros materiais referidos no número anterior serão transmitidos gratuitamente e em regime de exclusividade ao Concedente no Termo da Concessão, competindo à Concessionária adoptar todas as medidas para o efeito necessárias.
-
-CAPÍTULO XXI
-
-Vigência da Concessão
-
-Base LXXXVI
-
-Entrada em vigor
-
-O Contrato de Concessão entrará em vigor às 24 horas do dia da sua assinatura pelas Partes, contando-se a partir dessa data o prazo de duração da Concessão.
-
-CAPÍTULO XXII
-
-Disposições diversas
-
-Base LXXXVII
-
-Custos e encargos da Concessionária
-
-A Concessionária reembolsará o IEP no prazo de 30 dias após a assinatura do Contrato de Concessão dos encargos suportados na preparação, lançamento e conclusão do concurso e que ascendem a (euro) 602550.
-
-CAPÍTULO XXIII
-
-Resolução de diferendos
-
-Base LXXXVIII
-
-Processo de arbitragem
-
-1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidos por arbitragem.
-
-2 - A submissão de qualquer questão a arbitragem não exonera as Partes do pontual e atempado cumprimento das disposições do Contrato de Concessão e das determinações do Concedente que no seu âmbito lhe sejam comunicadas, nem permite qualquer interrupção do desenvolvimento das actividades integradas na Concessão, que deverão continuar a processar-se nos termos em vigor à data de submissão da questão até que uma decisão final seja obtida relativamente à matéria em causa.
-
-3 - O disposto no número anterior relativamente ao cumprimento de determinações do Concedente pela Concessionária aplicar-se-á também a determinações consequentes sobre a mesma matéria, mesmo que emitidas após a data de submissão de uma questão a arbitragem, desde que a primeira dessas determinações consequentes tenha sido comunicada à Concessionária anteriormente àquela data.
-
-4 - A Concessionária obriga-se a dar imediato conhecimento ao Concedente da ocorrência de qualquer diferendo ou litígio com as contrapartes dos Contratos do Projecto e a prestar-lhe toda a informação relevante relativa à evolução dos mesmos.
-
-Base LXXXIX
-
-Tribunal Arbitral
-
-1 - O Tribunal Arbitral será composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
-
-2 - A Parte que decida submeter determinado diferendo ao Tribunal Arbitral apresentará os seus fundamentos para a referida submissão e designará de imediato o árbitro da sua nomeação, no requerimento de constituição do Tribunal Arbitral que dirija à outra Parte através de carta registada com aviso de recepção, devendo esta, no prazo de 20 dias úteis a contar da recepção daquele requerimento, designar o árbitro de sua nomeação e deduzir a sua defesa.
-
-3 - Ambos os árbitros designados nos termos do número anterior da presente base designarão o terceiro árbitro do Tribunal no prazo de 10 dias úteis a contar da designação do segundo árbitro do Tribunal, cabendo ao Presidente do Tribunal Central Administrativo, que também nomeará o representante de qualquer das Partes, caso estas o não tenham feito, esta designação, caso a mesma não ocorra dentro deste prazo.
-
-4 - O Tribunal Arbitral considera-se constituído na data em que o terceiro árbitro aceitar a sua nomeação e o comunicar a ambas as Partes.
-
-5 - O Tribunal Arbitral poderá ser assistido pelos peritos técnicos e consultores que considere conveniente designar.
-
-6 - O Tribunal Arbitral, salvo acordo em contrário das Partes, julgará segundo o Direito constituído e das suas decisões não cabe recurso.
-
-7 - As decisões do Tribunal Arbitral deverão ser proferidas no prazo máximo de seis meses a contar da data de constituição do Tribunal determinada nos termos da presente base, configurarão a decisão final de arbitragem relativamente às matérias em causa e incluirão a fixação das custas do processo e a forma da sua repartição pelas Partes.
-
-8 - O Tribunal Arbitral terá sede em Lisboa em local da sua escolha e utilizará a língua portuguesa.
-
-9 - A arbitragem decorrerá em Lisboa, funcionando o Tribunal de acordo com as regras fixadas no Contrato de Concessão, com as regras estabelecidas pelo próprio Tribunal Arbitral e ainda, subsidiariamente, pelo disposto na Lei n.º 31/86, de 29 de Agosto.
-
-P(índice t)(j) - montante total a pagar pelo Concedente no ano t para o Lanço j;
-
-PB(índice t)(j) - montante variável a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a fórmula descrita no n.º 4;
-
-PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a seguinte fórmula:
-
-PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12)
-
-em que:
-
-Ext(j) - extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3;
-
-m(índice t)(j) - número de meses completos em que o Lanço j esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, durante o ano t;
-
-t - período correspondente a um ano civil.
-
-3 - Os montantes fixos por quilómetro [M(índice t)(j)], aplicáveis nas fórmulas referidas nos n.os 1 e 2, serão fixados anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitos ao disposto no n.º 6:
-
-M(índice t)(j) = M(índice t - 1)(j) x {F(índice t)(j) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(j)]}
-
-em que:
-
-M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t;
-
-M(índice t - 1)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t - 1 com M(índice 2001);
-
-(j) - M(índice 98)(j) e M(índice 98)(j) determinado de acordo com a seguinte tabela:
-
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-F(índice t)(j) - factor de indexação aplicado no ano t ao Lanço j, com valor não superior a 1 e definido em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t - período correspondente a um ano civil.
-
-4 - O montante variável [PB(índice t)(j)] a pagar pelo Concedente para cada Lanço j em cada ano do Período Inicial da Concessão, de acordo com as bases anteriores, será calculado de acordo com a seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-5 - O valor da tarifa de portagem SCUT para a Banda 1 no ano t referida no n.º 4 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao disposto no n.º 6:
-
-T(índice t)(1) = IP(índice t)(1) x B(índice 2007)(1)
-
-com:
-
-IP(índice t)(1) = IP(índice t - 1)(1) x I(índice t)(1)
-
-em que:
-
-T(índice t)(1) - valor da tarifa de portagem SCUT para a Banda 1 no ano t;
-
-IP(índice t)(1) - índice em cadeia de revisão da tarifa no ano t para a Banda 1;
-
-IP(índice t - 1)(1) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-B(índice 2007)(1) - tarifa base anual para a Banda 1 fixada em anexo ao Contrato de Concessão para o ano 2007, a preços de 1 de Janeiro de 1998;
-
-I(índice t)(1) - indexante de revisão da tarifa no ano t para a Banda 1, definido de acordo com o disposto no n.º 7 da base LXIII;
-
-t - período correspondente a um ano civil.
-
-6 - Os valores das tarifas de portagem SCUT para a Banda 1 e dos montantes fixos por quilómetro, a fixar em Janeiro de cada ano civil, de acordo, respectivamente, com os n.os 5 e 3, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-7 - Em adição aos montantes referidos nos n.os 1 e 2 a Concessionária terá direito a receber, desde a data de entrada em serviço efectivo da globalidade do empreendimento com perfil de auto-estrada e até ao final do Período Inicial da Concessão, um pagamento respeitante a todos os Lanços de (euro) 50000/km/ano, ou fracções em função dos meses completos de serviço efectivo conforme definido no n.º 8 da base XLVII. Este montante é fixo, não estando sujeito a qualquer revisão.
-
-###### Base LXIII — Pagamentos após o Período Inicial da Concessão
-
-1 - A partir das 24 horas do último dia do Período Inicial da Concessão, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-2 - O valor dos pagamentos referentes a cada Banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - Para o cálculo do TMDAE(índice t)(j(elevado a *)) será usada a seguinte expressão, sujeita à restrição imposta no n.º 4:
-
-TMDAE(índice t)(j(elevado a *)) = TMDA(índice t)(elevado a VL)(j(elevado a *)) = f(índice p) x TMDA(índice t)(elevado a VP)(j(elevado a *))
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *) no ano t;
-
-f(índice p) - factor de equivalência para veículos pesados com o valor de 2,2 durante todo o período da Concessão;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *) no ano t;
-
-t - período correspondente a um ano civil.
-
-4 - Para efeitos do cálculo do TMDAE(índice t)(j(elevado a *)) aplicar-se-á a seguinte restrição:
-
-a) Nos Lanços com duas vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<38000
-
-b) Nos Lanços com três vias em cada sentido:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<60000
-
-em que:
-
-TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *), no ano t;
-
-TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *), no ano t;
-
-t - período correspondente a um ano civil;
-
-devendo ser mantida a proporcionalidade real entre veículos ligeiros e pesados no caso de o número total de veículos ser superior, respectivamente, a 38000 ou a 60000.
-
-5 - Para efeitos da aplicação das fórmulas definidas no n.º 4 da base LXII e no n.º 2 da base LXIII entende-se por «extensão afecta a um equipamento de contagem» a extensão do Sublanço onde está instalado, de acordo com o definido no n.º 4 da base II e na base XLVIII.
-
-6 - As tarifas de portagem SCUT a aplicar em cada ano, para cada uma das Bandas [T(índice t)(i)] serão fixadas anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitas ao disposto no n.º 8:
-
-T(índice t)(i) = IP(índice t)(i) x B(índice t)(i)
-
-com:
-
-IP(índice t)(i) = IP(índice t - 1)(i) x I(índice t)(i)
-
-sendo:
-
-IP(índice t)(i) - índice em cadeia de revisão da tarifa no ano t para a Banda i;
-
-IP(índice t - 1)(i) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1;
-
-I(índice t)(i) - indexante de revisão da tarifa no ano t para a Banda i em relação ao ano anterior, calculado de acordo com o n.º 7;
-
-B(índice t)(i) - tarifa base anual para a Banda i fixada de acordo com anexo ao Contrato de Concessão para cada ano t, a preços de Janeiro de 1998.
-
-7 - O indexante de revisão da tarifa referido no n.º 5 da base LXII e no n.º 6 será calculado de acordo com a seguinte fórmula:
-
-I(índice t)(i) = F(índice t)(i) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(i)]
-
-sendo:
-
-I(índice t)(i) - indexante aplicado no ano t para a Banda i;
-
-F(índice t)(i) - factor de indexação aplicado no ano t para a tarifa da Banda i, com valor não superior a 0,9 e fixado em anexo ao Contrato de Concessão;
-
-IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1;
-
-IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002;
-
-t = período correspondente a um ano civil.
-
-8 - Os valores das tarifas de portagem SCUT, a fixar em Janeiro de cada ano civil, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor.
-
-###### Base LXIV — Ajustamentos relacionados com o desempenho na exploração e manutenção
-
-1 - Por cada fracção inteira de 1000 via x quilómetro x hora por ano, que os limites anuais estabelecidos no n.º 1 da base LI forem ultrapassados, será aplicada à Concessionária uma penalização de (euro) 2500 no período nocturno e de (euro) 5000 se ocorrer no período diurno, sujeita a revisão de acordo com o IPC.
-
-2 - O montante a pagar pela Concessionária pela soma das penalizações devidas em cada ano será incluído no pagamento de reconciliação previsto na alínea c) do n.º 7 da base LXV.
-
-3 - Os prémios e multas relativos aos níveis de sinistralidade, referidos no n.º 4 da base LI, serão calculados com base no seguinte:
-
-a) Prémio a pagar pelo Concedente à Concessionária, caso se verifiquem as condições enunciadas na alínea a) do n.º 5 da base LI:
-
-Prémio = 2% x P(índice t) x (IS(índice t - 1)(ponderado) - IS(índice t)(GP)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referentes a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t;
-
-b) Multa a pagar pela Concessionária ao Concedente, caso se verifiquem as condições enunciadas na alínea b) do n.º 5 da base LI:
-
-Multa = 2% x P(índice t) x (IS(índice t)(GP) - IS(índice t - 1)(ponderado)/IS(índice t)(GP))
-
-em que:
-
-P(índice t) = valor dos pagamentos referente a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII;
-
-IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1;
-
-IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t.
-
-4 - Os montantes referidos no número anterior serão pagos na data de liquidação do primeiro pagamento por conta do ano t + 1 previsto na alínea a) do n.º 7 da base LXV.
-
-5 - Relativamente ao primeiro e ao último ano da Concessão, serão feitos os necessários ajustes ao cálculo dos respectivos prémios e multas, numa lógica de proporcionalidade, de forma a considerar que este poderá não corresponder a um ano civil completo.
-
-###### Base LXV — Método de pagamento à Concessionária
-
-1 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXII pela forma e nas datas indicadas em seguida:
-
-a) Montantes fixos: a liquidação de PF(índice t)(j), referido nos n.os 1 e 2 da base LXII será efectuada em duas parcelas de acordo com o seguinte:
-
-i) No dia 31 de Maio de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 1.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 1.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 1.ºSt)(j)/12)
-
-em que:
-
-PF(índice 1.ºSt)(j) = montante fixo a pagar pelo Concedente no 1.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 1.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 1.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-ii) No dia 30 de Setembro de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 2.º semestre desse ano t, calculados da seguinte forma:
-
-PF(índice 2.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 2.ºSt)(j)/12)
-
-em que:
-
-PF(índice 2.ºSt)(j) = montante fixo a pagar pelo Concedente no 2.º semestre do ano t para o Lanço j;
-
-M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII;
-
-Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II;
-
-m(índice 2.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 2.º semestre do ano t;
-
-t = período correspondente a um ano civil;
-
-iii) Nos 15 dias úteis seguintes aos dias 30 de Junho e 31 de Dezembro de cada ano, até ao termo da aplicabilidade dos pagamentos fixos, a Concessionária deverá enviar ao Concedente uma nota justificativa dos montantes fixos recebidos relativamente ao semestre imediatamente anterior e o montante a que esta teria direito nos termos da base LXII relativamente a igual período. Caso se verifique alguma diferença entre aqueles e estes, haverá lugar a um pagamento de regularização a efectuar à parte lesada nos 8 dias úteis subsequentes à demonstração do erro;
-
-b) Montantes variáveis: a liquidação dos montantes variáveis definidos no n.º 2 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil;
-
-c) A liquidação do montante referido no n.º 7 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil.
-
-2 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXIII, através de dois pagamentos por conta e de um pagamento de reconciliação, calculados de acordo com o seguinte, sem prejuízo do disposto no n.º 5:
-
-a) Cada pagamento por conta corresponderá a um terço do pagamento total calculado com o tráfego do ano anterior àquele em que o pagamento ocorre e resultará da aplicação da seguinte fórmula:
-
-PC(índice t) = P'(índice t) x (1/3)
-
-em que:
-
-PC(índice t) = valor de cada pagamento por conta a liquidar no ano t;
-
-P'(índice t) = pagamento referente a Portagens SCUT calculado, com o tráfego do ano t - 1, de acordo com o seguinte:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-b) O pagamento de reconciliação, correspondente à diferença entre o pagamento total referente a Portagens SCUT de certo ano e os pagamentos feitos por conta nesse mesmo ano, será calculado da seguinte forma:
-
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-3 - A determinação da parte responsável pela liquidação do pagamento de reconciliação será feita da seguinte forma:
-
-a) Se PR(índice t) >= (euro) 0 caberá ao Concedente pagar à Concessionária o montante respeitante ao pagamento de reconciliação;
-
-b) Se PR(índice t)<(euro) 0 caberá à Concessionária pagar ao Concedente o montante respeitante ao pagamento de reconciliação.
-
-4 - No caso de o final do Período Inicial da Concessão ocorrer entre 30 de Setembro e 31 de Dezembro, o primeiro pagamento referente a Portagens SCUT a efectuar à Concessionária será equiparado a um pagamento de reconciliação, sendo calculado de acordo com o disposto na alínea b) do n.º 2 e liquidado na data definida na alínea c) do n.º 7. Para efeitos da aplicação da fórmula descrita na alínea b) do n.º 2 considerar-se-á que PC(índice t - 1) tem valor 0.
-
-5 - No caso do final de o Período Inicial da Concessão ocorrer entre 1 de Janeiro e 30 de Setembro, os pagamentos referentes a Portagens SCUT a efectuar à Concessionária no ano civil em que termina o Período Inicial da Concessão serão calculados de acordo com o n.º 6, estando a sua liquidação sujeita ao seguinte:
-
-a) Se o final do Período Inicial da Concessão ocorrer entre 1 de Janeiro e 31 de Maio, o primeiro pagamento será liquidado na data definida na alínea a) do n.º 7 e o segundo na data definida na alínea b) do n.º 7;
-
-b) Se o final do Período Inicial da Concessão ocorrer entre 31 de Maio e 30 de Setembro, o primeiro e único pagamento será liquidado na data definida na alínea b) do n.º 7.
-
-6 - Os pagamentos por conta a efectuar no ano civil em que termina o Período Inicial da Concessão, caso haja lugar a algum, serão determinados de acordo com o seguinte:
-
-a) Caso haja lugar a um único pagamento por conta:
-
-PC(índice t') = P((índice t')) x (M/12)
-
-b) Caso haja lugar a um segundo pagamento por conta, o primeiro será calculado de acordo com a expressão apresentada na alínea a) e o segundo será determinado de acordo com a seguinte expressão:
-
-PC(índice t') = P((índice t')) x (1/3)
-
-sendo:
-
-(índice t') = ano civil em que termina o período inicial da Concessão;
-
-PC(índice t') = valor de cada pagamento por conta a efectuar em t';
-
-M = número de meses completos em que a Concessão esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, após o final do Período Inicial da Concessão e até à data de efectivação do primeiro pagamento por conta;
-
-P(índice t') = valor usado como base para o cálculo dos pagamentos por conta, definida na alínea a) do n.º 2.
-
-7 - Sem prejuízo do disposto nos números seguintes, o Concedente procederá à liquidação dos pagamentos referidos nos números anteriores nas seguintes datas de liquidação:
-
-a) O primeiro pagamento por conta será liquidado no dia 31 de Maio de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-b) O segundo pagamento por conta será liquidado no dia 30 de Setembro de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte;
-
-c) O pagamento de reconciliação será liquidado no dia 31 de Janeiro do ano seguinte ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte.
-
-8 - Se, em virtude da aplicação do disposto na alínea c) do n.º 7 a data de liquidação do pagamento de reconciliação referente ao último ano da Concessão ocorrer mais de dois meses após o Termo da Concessão, a liquidação do referido pagamento deverá ter lugar no último dia útil do 2.º mês seguinte ao referido Termo da Concessão.
-
-9 - Sempre que a obrigação de liquidar o pagamento de reconciliação recaia sobre a Concessionária, esta deverá enviar ao Concedente nota justificativa do montante a liquidar, acompanhada pela respectiva nota de crédito, com a antecedência mínima de 15 dias úteis face à data de liquidação definida na alínea c) do n.º 7 ou no n.º 8.
-
-10 - Caso o Concedente discorde do valor da nota de crédito referida no n.º 9, deverá enviar à Concessionária uma nota justificativa da correcção pretendida no prazo máximo de sete dias úteis a contar da data de recepção dos documentos referidos no n.º 9, devendo a Concessionária proceder de imediato ao envio de nova nota de crédito, rectificada nos termos da nota justificativa recebida do Concedente, e ao pagamento do respectivo montante na data de liquidação definida na alínea c) do n.º 7 ou no n.º 8. Após realizar o pagamento em causa, poderá a Concessionária recorrer à arbitragem, estornando o Concedente, se for essa a decisão do tribunal arbitral, o valor recebido em excesso, acrescido dos juros respectivos, se a eles houver lugar.
-
-11 - Caso a Concessionária não efectue o pagamento de reconciliação na data indicada na alínea c) do n.º 7 ou no n.º 8, o Concedente poderá utilizar a Caução prevista na base LXVII pelo valor em falta.
-
-12 - A Concessionária enviará ao Concedente, com a antecedência mínima de 45 dias relativamente à data de liquidação de cada pagamento por conta que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados. A Concessionária enviará ao Concedente, com a antecedência mínima de 15 dias úteis relativamente às datas de liquidação de cada pagamento de reconciliação que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados.
-
-13 - O Concedente deverá, logo que recebida a factura referida no número anterior, verificar a respectiva correcção, comunicando à Concessionária, com adequada nota justificativa, qualquer erro ou omissão até cinco dias antes do termo do prazo de pagamento, considerando-se a factura aprovada para todos os efeitos se tal comunicação não for feita no prazo referido. Recebida tal comunicação, deverá a Concessionária proceder à revisão da factura ou indicar que mantém os valores nela constantes, suspendendo-se o prazo de pagamento pelo tempo que decorrer até que ocorra a rectificação ou seja indicada a manutenção dos valores facturados.
-
-14 - No caso de a Concessionária se atrasar no envio dos documentos referidos no n.º 12, ou de os mesmos conterem erros ou omissões, tendo a Concessionária de enviar ao Concedente novos documentos, a data de liquidação aplicável ao pagamento em questão será prorrogada pelo número de dias úteis correspondente ao atraso da Concessionária ou pelo número de dias úteis necessários à Concessionária para entregar novos documentos em termos aceitáveis para o Concedente.
-
-15 - Sobre todos os pagamentos a efectuar pelo Concedente incidirá IVA à taxa legalmente aplicável.
-
-16 - A Concessionária poderá ceder às Entidades Financiadoras ou a outras instituições financeiras os créditos que sobre o Concedente detém em virtude do Contrato de Concessão. A esta cessão não obstará o facto de o crédito não ser líquido. Mediante solicitação escrita da Concessionária, o Concedente emitirá e entregará a esta, no prazo de cinco dias, documento adequado confirmando a existência do crédito cedendo, caso tenha ocorrido seja a aprovação tácita da factura, referida no n.º 13, seja a sua aprovação nos termos da segunda parte do mesmo número e do n.º 14.
-
-17 - Em caso de mora superior a 30 dias, relativamente às datas previstas na presente base para a realização dos pagamentos de reconciliação devidos pelo Concedente, haverá lugar à aplicação de juros, após aquele período, calculados à taxa EURIBOR para operações a três meses acrescida de 1%. Em caso de mora relativamente às datas previstas na presente base para a realização dos pagamentos por conta devidos pelo Concedente, haverá lugar à aplicação de juros calculados à taxa EURIBOR para operações a três meses acrescida de 1%.
-
-18 - Se, porém, o Concedente não confirmar, até cinco dias úteis após a data prevista nesta base para a realização dos pagamentos de reconciliação, a factura que lhe tenha sido enviada pela Concessionária, a taxa de juro moratório a aplicar será igual ao Custo Médio Ponderado do Capital.
-
-### CAPÍTULO XIII — Modificações subjectivas na Concessão
-
-###### Base LXVI — Cedência, oneração, trespasse e alienação
-
-1 - Sem prejuízo do disposto em contrário nas presentes bases, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados.
-
-2 - A Concessionária não poderá, sem prévia e expressa autorização do Concedente, trespassar a Concessão.
-
-3 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis.
-
-4 - No caso de trespasse, a Concessionária deverá comunicar ao Concedente a sua intenção de proceder ao trespasse da Concessão, remetendo-lhe a minuta do contrato de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do trespassário. A autorização que eventualmente venha a ser dada para o trespasse só será válida se os termos do contrato de trespasse forem exactamente os mesmos dos que constavam do pedido de autorização submetido pela Concessionária ao Concedente.
-
-5 - Ocorrendo trespasse da Concessão, consideram-se transmitidos para a nova concessionária os direitos e obrigações da Concessionária, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos pelo Concedente como condição para a autorização do trespasse.
-
-6 - A Concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse.
-
-### CAPÍTULO XIV — Garantias do cumprimento das obrigações da Concessionária
-
-###### Base LXVII — Garantias a prestar
-
-O exacto e pontual cumprimento das obrigações assumidas no Contrato de Concessão pela Concessionária será garantido, cumulativamente, através de:
-
-a) Caução estabelecida nos montantes estipulados na base seguinte;
-
-b) Garantias bancárias prestadas a favor da Concessionária pelos Membros do Concorrente enquanto accionistas da Concessionária, nos montantes que cada um se obrigou a subscrever, garantindo o cumprimento das obrigações assumidas na base XIII e no Acordo de Subscrição, com o montante máximo de responsabilidade correspondente ao montante de capitalização da Concessionária pelos seus accionistas nos termos do Acordo de Subscrição e com as condições de execução pelo Concedente constantes de anexo ao Contrato de Concessão.
-
-###### Base LXVIII — Regime das garantias
-
-1 - As garantias previstas na base anterior manter-se-ão em vigor nos seguintes termos:
-
-a) A caução a que se refere a alínea a) da base anterior, no valor determinado nos termos dos números seguintes, manter-se-á em vigor até um ano após o Termo da Concessão;
-
-b) O montante máximo da responsabilidade assumida nos termos das garantias referidas na alínea b) da base anterior será progressivamente reduzido à medida em que for sendo cumprido o Acordo de Subscrição.
-
-2 - O valor da caução é fixado pela forma seguinte:
-
-a) Na data de assinatura do Contrato de Concessão, (euro) 2500000;
-
-b) Após o início da construção e enquanto se encontrarem Lanços em construção, a caução será fixada, no mês de Janeiro de cada ano, no valor correspondente a 5% do orçamento das obras a realizar nesse ano;
-
-c) Na data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço será reduzido a 1% do seu valor imobilizado corpóreo bruto reversível, apurado de acordo com o balancete trimestral da Concessionária;
-
-sendo que:
-
-d) Em caso algum, poderá o valor da caução determinado nos termos das alíneas anteriores ser inferior a (euro) 2500000, actualizado de acordo com o referido no n.º 3.
-
-3 - Nos anos seguintes ao da entrada em serviço da totalidade da Auto-Estrada, o valor da caução será actualizado de acordo com o IPC publicado para o ano anterior àquele em que a actualização ocorre.
-
-4 - A caução poderá ser constituída, consoante opção da Concessionária, por uma das seguintes modalidades:
-
-a) Depósito em numerário constituído à ordem do Concedente;
-
-b) Títulos emitidos ou garantidos pelo Estado Português;
-
-c) Garantia bancária emitida por instituição de crédito em benefício do Concedente de acordo com a minuta que consta em anexo ao Contrato de Concessão.
-
-5 - Quando a caução for constituída em títulos, estes serão avaliados pelo respectivo valor nominal, salvo se, nos três meses anteriores à constituição da caução, a cotação média na Bolsa de Lisboa for abaixo do par, situação em que a avaliação se fixará em 90% dessa média.
-
-6 - Os termos e condições da caução constituída de acordo com qualquer das alíneas do n.º 4, quaisquer modificações subsequentes dos seus termos e o seu cancelamento ou redução, e bem assim as respectivas instituições emitentes ou depositárias deverão merecer aprovação prévia do Concedente, a qual se considerará tacitamente concedida se não for recusada, no prazo de 45 dias úteis.
-
-7 - O Concedente poderá utilizar a caução sempre que a Concessionária não cumpra qualquer obrigação assumida no Contrato de Concessão, nomeadamente quando não proceda ao pagamento das multas contratuais, nos termos do disposto no n.º 6 da base LXXV, ou dos prémios de seguro, nos termos do disposto no n.º 5 da base LXIX, ou sempre que tal se revele necessário em virtude da aplicação do disposto no n.º 3 da base XXIII ou dos n.os 11 da base LXV ou 2 da base LXXXI.
-
-8 - Sempre que o Concedente utilize a caução, a Concessionária deverá proceder à reposição do seu montante integral no prazo de 30 dias a contar da data daquela utilização.
-
-9 - Haverá recurso imediato à caução, nos casos previstos nesta base, mediante despacho do MOPTH sobre proposta do IEP, sem necessidade de qualquer outra formalidade ou de prévia decisão arbitral ou judicial.
-
-10 - Todas as despesas relativas à prestação da caução serão da responsabilidade da Concessionária.
-
-###### Base LXIX — Cobertura por seguros
-
-1 - A Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão por seguradoras aceitáveis para o Concedente.
-
-2 - O programa de seguros relativo às apólices de seguro indicadas no número anterior é o constante de anexo ao Contrato de Concessão, sem prejuízo da contratação dos seguros previstos na base LXXVI.
-
-3 - Não poderão ter início quaisquer obras ou trabalhos no Empreendimento Concessionado sem que a Concessionária apresente ao Concedente comprovativo de que as apólices de seguro aplicáveis se encontram em vigor, com os prémios do primeiro período de cobertura pagos, nas condições estipuladas em anexo ao Contrato de Concessão.
-
-4 - O Concedente deverá ser indicado como co-beneficiário nas apólices de seguro aplicáveis.
-
-5 - Constitui estrita obrigação da Concessionária a manutenção em vigor das apólices listadas em anexo ao Contrato de Concessão, nomeadamente através do pagamento atempado dos respectivos prémios, pelo valor que lhe seja debitado pelas seguradoras.
-
-6 - O Concedente poderá proceder, por conta da Concessionária, ao pagamento directo dos prémios dos seguros referidos nos números anteriores, quando a Concessionária não o faça, mediante recurso à caução.
-
-7 - As condições constantes do n.º 6 deverão constar das apólices emitidas nos termos desta cláusula e ser, assim, do conhecimento das seguradoras.
-
-### CAPÍTULO XV — Fiscalização do cumprimento das obrigações da Concessionária
-
-###### Base LXX — Fiscalização pelo Concedente
-
-1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária emergentes do Contrato de Concessão serão exercidos pela MEF para os aspectos económicos e financeiros e pelo MOPTH para os demais.
-
-2 - Os poderes da MEF serão exercidos pela IGF e os do MOPTH serão exercidos pelo IEP.
-
-3 - A Concessionária facultará ao Concedente, à IGF e ao IEP ou a qualquer outra entidade por estes nomeada, desde que devidamente credenciada, livre acesso a todo o Empreendimento Concessionado, bem como a todos os livros de actas, listas de presença e documentos anexos relativos à Concessionária, livros, registos e documentos relativos às instalações e actividades objecto da Concessão, incluindo as estatísticas e registos de gestão utilizados, e prestará sobre todos esses documentos os esclarecimentos que lhe forem solicitados.
-
-4 - O IEP, enquanto entidade fiscalizadora, poderá intervir em qualquer momento do processo evolutivo da obra, desde a fase da sua concepção e projecto até à fase de exploração e conservação, ordenando a verificação quer de anomalias de execução, quer do incumprimento do que for exigível à Concessionária.
-
-5 - Poderão ser efectuados, a pedido do Concedente, na presença de representantes da Concessionária, ensaios que permitam avaliar as condições de funcionamento e características da Concessão, e do equipamento, sistemas e instalações às mesmas respeitantes, correndo os respectivos custos por conta da Concessionária, sem prejuízo do posterior recurso à arbitragem.
-
-6 - As determinações do Concedente que vierem a ser expressamente emitidas no âmbito dos poderes de fiscalização, incluindo as relativas a eventuais suspensões dos trabalhos de construção, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo da possibilidade de posterior recurso à arbitragem.
-
-7 - Os poderes de fiscalização do cumprimento das obrigações resultantes das presentes bases, não envolvem qualquer responsabilidade do Concedente pela execução das obras de construção, sendo todas as imperfeições ou vícios de concepção, execução ou funcionamento das referidas obras da exclusiva responsabilidade da Concessionária, com excepção das imperfeições ou vícios que se prove terem resultado de determinações do Concedente e a Concessionária haja formulado, por escrito e antes da execução dessas determinações, observações ou reservas quanto às imperfeições ou vícios das soluções técnicas determinadas pelo Concedente.
-
-###### Base LXXI — Controlo da construção da Auto-Estrada
-
-1 - A Concessionária obriga-se a apresentar semestralmente ao IEP os elementos do plano geral de trabalhos, relativos ao semestre em curso, os quais deverão ser traçados sobre o plano geral de trabalhos inicial incluído no Programa de Trabalhos.
-
-2 - A Concessionária obriga-se ainda a apresentar trimestralmente ao IEP os planos parcelares de trabalho, relativos ao trimestre em curso, os quais deverão ser traçados sobre os planos parcelares incluídos no Programa de Trabalhos.
-
-3 - Eventuais desvios entre os documentos referidos nos números anteriores deverão ser neles devidamente fundamentados e, ocorrendo atrasos na construção da Auto-Estrada, deverão ser indicadas as medidas de recuperação previstas.
-
-4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que o IEP razoavelmente lhe solicitar.
-
-###### Base LXXII — Intervenção directa do Concedente
-
-1 - Quando a Concessionária não tenha respeitado as determinações expressamente emitidas pelo Concedente no âmbito dos seus poderes de fiscalização, dentro do prazo que razoavelmente lhe for fixado, assistirá a este a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os custos para o efeito incorridos por conta da Concessionária.
-
-2 - O Concedente poderá recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior, sem prejuízo do posterior recurso à arbitragem.
-
-### CAPÍTULO XVI — Responsabilidade extracontratual perante terceiros
-
-###### Base LXXIII — Pela culpa e pelo risco
-
-A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.
-
-###### Base LXXIV — Por prejuízos causados por entidades contratadas
-
-1 - A Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na Concessão.
-
-2 - Constituirá especial dever da Concessionária prover e exigir a qualquer entidade com que venha a contratar, que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento.
-
-### CAPÍTULO XVII — Incumprimento e cumprimento defeituoso do contrato
-
-###### Base LXXV — Incumprimento
-
-1 - Sem prejuízo da possibilidade de sequestro ou rescisão da Concessão nos casos e nos termos previstos nas bases LXXVIII e LXXIX e do disposto nos n.os 9 e 10, o incumprimento pela Concessionária de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou destas bases, poderá ser sancionada, por decisão do Concedente, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre (euro) 95000 e (euro) 100000.
-
-2 - A aplicação de multas contratuais está dependente de notificação prévia da Concessionária pelo Concedente para reparar o incumprimento e do não cumprimento do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta, pela Concessionária, naquele prazo.
-
-3 - O prazo de reparação do incumprimento será fixado de acordo com critérios de razoabilidade e terá sempre em atenção a defesa do interesse público e a manutenção em funcionamento, nos termos destas bases, da Concessão.
-
-4 - A fixação do montante das multas contratuais a que aludem os números anteriores é da exclusiva competência do Concedente, sem prejuízo da sua revisão pelo tribunal arbitral.
-
-5 - Caso o incumprimento consista em atraso na data de entrada em serviço dos Lanços a construir as multas referidas no número anterior serão aplicadas por cada dia de atraso e por cada Lanço, terão como limite máximo para todos os Lanços o montante de (euro) 5000000 e serão aplicáveis nos termos seguintes:
-
-a) Até ao montante de (euro) 15000 por dia de atraso, entre o 1.º e o 15.º dia de atraso, inclusive;
-
-b) Até ao montante de (euro) 25000 por dia de atraso, entre o 16.º e o 30.º dia de atraso, inclusive;
-
-c) Até ao montante de (euro) 50000 por dia de atraso entre o 31.º e o 60.º dia de atraso, inclusive;
-
-d) Até (euro) 62500 a partir do 61.º dia de atraso.
-
-6 - Caso a Concessionária não proceda ao pagamento voluntário das multas contratuais que lhe forem aplicadas, no prazo de 10 dias úteis a contar da sua fixação e notificação pelo Concedente, este poderá utilizar a caução para pagamento das mesmas.
-
-7 - No caso de o montante da caução ser insuficiente para o cumprimento das multas, poderá o Concedente deduzir o respectivo montante dos pagamentos a efectuar por ele.
-
-8 - Os valores das multas estabelecidas na presente base serão actualizados em Janeiro de cada ano de acordo com o IPC publicado para o ano anterior.
-
-9 - A aplicação das presentes multas não prejudica a aplicação de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária de responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o Concedente ou terceiro.
-
-10 - A aplicação das presentes multas também não prejudica a aplicação e pagamento das multas por níveis de sinistralidade elevados, previstas na base LI.
-
-###### Base LXXVI — Força maior
-
-1 - Consideram-se unicamente casos de força maior, os acontecimentos imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária.
-
-2 - Constituem nomeadamente casos de força maior actos de guerra ou subversão, hostilidades ou invasão, tumultos, rebelião, terrorismo ou epidemias, radiações atómicas, fogo, raio, explosão, graves inundações, ciclones, tremores de terra e outros cataclismos naturais que directamente afectem as actividades compreendidas na Concessão.
-
-3 - Consideram-se excluídos da previsão dos números anteriores os eventos naturais cujo impacto deva ser suportado pela Auto-Estrada, nos termos dos projectos aprovados, e dentro dos limites por estes previstos.
-
-4 - Sem prejuízo do disposto no n.º 6, a ocorrência de um caso de força maior terá por efeito exonerar a Concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do Contrato de Concessão que sejam directamente por ele afectadas, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido e dará lugar à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV ou, caso a impossibilidade de cumprimento do Contrato de Concessão se torne definitiva, ou a reposição do equilíbrio financeiro da Concessão se revele excessivamente onerosa para o Concedente, à resolução do Contrato de Concessão.
-
-5 - No caso de exoneração da Concessionária do cumprimento das obrigações decorrentes do Contrato de Concessão, por motivo de força maior, o Concedente deverá fixar, logo que possível, com razoabilidade, e após prévia audiência da Concessionária, o prazo pelo qual aquela exoneração se prolongará.
-
-6 - Sempre que um caso de força maior corresponda, desde pelo menos seis meses antes da sua verificação, a um risco normalmente segurável em praças da União Europeia por apólices comercialmente aceitáveis, e independentemente de a Concessionária ter efectivamente contratado as respectivas apólices, verificar-se-á o seguinte:
-
-a) A Concessionária não ficará exonerada do cumprimento pontual e atempado das obrigações emergentes do Contrato de Concessão, na medida em que aquele cumprimento se tornasse possível em virtude do recebimento da indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa, nos prazos que, com razoabilidade, lhe forem, para este efeito, fixados pelo Concedente;
-
-b) Haverá lugar à reposição do equilíbrio financeiro, nos termos do disposto no n.º 8, apenas na medida do excesso dos prejuízos sofridos relativamente à indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa ou daquela que seria aplicável, independentemente das limitações resultantes de franquia, capital seguro ou limite de cobertura;
-
-c) Haverá lugar à resolução do Contrato de Concessão quando o cumprimento das obrigações emergentes do Contrato de Concessão seja definitivamente impossível, mesmo que tivesse sido recebida a indemnização a que se referem as alíneas anteriores ou quando a reposição do equilíbrio financeiro seja excessivamente onerosa para o Concedente.
-
-7 - Ficam em qualquer caso excluídos da previsão do n.º 6, ainda que correspondam a riscos normalmente seguráveis em praças da União Europeia, os actos de guerra ou subversão, tumultos, hostilidade ou invasão, rebelião ou terrorismo e as radiações atómicas.
-
-8 - Perante a ocorrência de um caso de força maior as Partes acordarão se haverá lugar à reposição do equilíbrio financeiro da Concessão ou à resolução do Contrato de Concessão, recorrendo-se, caso não seja alcançado o acordo quanto à opção e respectivas condições no prazo de 120 dias a contar da ocorrência de um caso de força maior, à arbitragem.
-
-9 - Verificando-se a resolução do Contrato de Concessão nos termos da presente base, extinguir-se-ão as relações contratuais entre as Partes, e observar-se-á, nomeadamente, o seguinte:
-
-a) O Concedente assumirá os direitos e obrigações da Concessionária emergentes dos Contratos de Financiamento, excepto os relativos a incumprimentos verificados antes da ocorrência do caso de força maior;
-
-b) Quaisquer indemnizações pagáveis, em resultado de casos de força maior, ao abrigo de seguros em que o Concedente seja co-segurado, serão directamente pagas ao Concedente;
-
-c) Poderá o Concedente exigir da Concessionária que esta lhe ceda gratuitamente a posição contratual para si emergente dos contratos celebrados com terceiros e relativos à exploração das Áreas de Serviço, que, neste caso, subsistirão para além da resolução do Contrato de Concessão;
-
-d) Revertem para o Concedente todos os bens que integram a Concessão;
-
-e) Será a caução libertada a favor da Concessionária, excepto na medida em que esta possa e deva ser utilizada pelo Concedente em consequência de facto ocorrido antes do evento que esteve na origem da verificação de um caso de força maior;
-
-f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte.
-
-10 - A Concessionária obriga-se a comunicar de imediato ao Concedente a ocorrência de qualquer evento qualificável como caso de força maior ao abrigo do disposto na presente base, bem como, no mais curto prazo possível, a indicar quais as obrigações emergentes do Contrato de Concessão cujo cumprimento, no seu entender, se encontra impedida ou dificultada por força de tal ocorrência e, bem assim, se for o caso, as medidas que pretende pôr em prática a fim de mitigar o impacto do referido evento e os respectivos custos, sem prejuízo de a Concessionária, em situações de reconhecida emergência, dever tomar, por qualquer meio razoável e apropriado ao seu dispor, as medidas destinadas a evitar o agravamento dos efeitos do caso de força maior.
-
-### CAPÍTULO XVIII — Extinção e suspensão da Concessão
-
-###### Base LXXVII — Resgate
-
-1 - Nos últimos cinco anos de vigência da Concessão, poderá o Concedente, sempre que o interesse público o justifique, proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate.
-
-2 - Com o resgate, o Concedente assumirá automaticamente todos os direitos e obrigações da Concessionária emergentes dos contratos outorgados anteriormente à notificação referida no número anterior que tenham por objecto a exploração e conservação da Auto-Estrada, incluindo os Contratos de Financiamento.
-
-3 - As obrigações assumidas pela Concessionária por força de contratos por si celebrados após a notificação da intenção de resgate só serão assumidas pelo Concedente quando tais contratos tenham obtido, previamente, a autorização do MOPTH.
-
-4 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão a que se refere o n.º 1 da base X, de uma quantia correspondente ao somatório dos reembolsos, remunerações e outros cash flow para accionistas previstos, mas ainda não pagos, para cada ano desse período, na última versão entregue ao Concedente das projecções referidas na alínea h) do n.º 1 da base XVI, a qual deverá estar consentânea com a evolução histórica da Concessionária e ser aceite pelo Concedente. Os montantes a pagar pelo Concedente serão deduzidos de eventuais obrigações da Concessionária vencidas e não cumpridas, ou cumpridas defeituosamente, à data do resgate.
-
-5 - Caso não haja acordo entre as Partes, no decurso dos 90 dias seguintes à notificação prevista no n.º 1, sobre o valor das indemnizações a que se refere o n.º 4, este será determinado por uma comissão arbitral, composta por três peritos, um nomeado pela MEF e o MOPTH, outro pela Concessionária, e outro por acordo de ambas as Partes, ou, na sua falta, por escolha do presidente da Câmara dos Revisores Oficiais de Contas, que também nomeará o representante da Parte que o não tenha feito.
-
-6 - Com o resgate, serão libertadas, um ano depois, a caução e as demais garantias a que se refere a base LXVII, mediante comunicação dirigida pelo Concedente aos respectivos depositários ou emitentes.
-
-###### Base LXXVIII — Sequestro
-
-1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, ou a exploração dos serviços desta.
-
-2 - O sequestro poderá ter lugar, nomeadamente, caso se verifique qualquer das seguintes situações, por motivos imputáveis à Concessionária:
-
-a) Cessação ou interrupção, total ou parcial, das obras ou da exploração dos serviços com consequências significativas para o interesse público ou para a integridade da Concessão;
-
-b) Deficiências graves na organização e regular desenvolvimento das actividades objecto da Concessão, ou no estado geral das instalações e equipamentos que comprometam a continuidade das obras, a sua integridade, a segurança de pessoas e bens, ou a regularidade da exploração ou dos pagamentos;
-
-c) Atrasos na construção da Auto-Estrada que ponham em risco o cumprimento do prazo estabelecido para a sua entrada em serviço e que não tenham sido resolvidos nos termos da base XXXIII;
-
-d) Violação de deveres e obrigações da Concessionária emergentes do Contrato de Concessão, que possa ser sanada pelo recurso ao sequestro.
-
-3 - A Concessionária está obrigada à entrega do Empreendimento Concessionado no prazo que lhe for fixado pelo Concedente quando lhe for comunicada a decisão de sequestro da Concessão, passando a partir da data dessa entrega, e enquanto durar o sequestro, os pagamentos que lhe forem devidos nos termos do capítulo XII, com excepção dos já vencidos na mesma data, a ser efectuados à entidade que o Concedente haja designado para operar a Concessão.
-
-4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da Concessão, observar-se-á previamente, e com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 3 a 5 da base LXXIX.
-
-5 - Durante o período de sequestro da Concessão, o Concedente aplicará os montantes dos pagamentos referidos no capítulo XII, em primeiro lugar para acorrer aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, e, em segundo lugar, para efectuar o serviço da dívida da Concessionária, decorrente dos Contratos de financiamento.
-
-6 - Caso o montante dos pagamentos que seriam devidos à Concessionária, nos termos do capítulo XII, durante o período do sequestro não seja suficiente para fazer face aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, ficará a Concessionária obrigada a suportar a diferença, podendo o Concedente recorrer à caução em caso de não pagamento pela Concessionária no prazo que razoavelmente lhe for fixado.
-
-7 - Se o montante dos pagamentos referidos no capítulo XII durante o período do sequestro exceder o valor global dos custos, encargos e serviço da dívida, liquidados nos termos do n.º 5, o saldo será pago pelo Concedente à Concessionária na data em que terminar o sequestro.
-
-8 - Logo que restabelecido o normal funcionamento da Concessão, a Concessionária será notificada para retomar a Concessão, no prazo que lhe for fixado pelo Concedente.
-
-9 - A Concessionária poderá optar pela rescisão da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 9 da base LXXIX.
-
-###### Base LXXIX — Rescisão
-
-1 - O Concedente, sob proposta do MOPTH e ouvidos o IEP e a IGF, poderá pôr fim à Concessão através de rescisão do Contrato de Concessão, em casos de violação grave das obrigações da Concessionária decorrentes do Contrato de Concessão.
-
-2 - Constituem, nomeadamente, causa de rescisão do Contrato de Concessão por parte do Concedente, nos termos e para os efeitos do disposto no número anterior, os seguintes factos e situações:
-
-a) Abandono da construção, conservação ou exploração da Concessão;
-
-b) A não entrada em serviço da totalidade da Auto-Estrada, até 31 de Dezembro de 2006, por facto imputável à Concessionária nos termos do Contrato de Concessão;
-
-c) Dissolução ou falência da Concessionária ou despacho de prosseguimento da acção em processo especial de recuperação de empresas ou de falência;
-
-d) Não cumprimento reiterado das obrigações que originaram a aplicação das sanções previstas na base LXXV;
-
-e) Recusa ou impossibilidade da Concessionária em retomar a Concessão nos termos do disposto no n.º 8 da base LXXVIII ou, quando o tiver feito, continuação das situações que motivaram o sequestro;
-
-f) Falta de prestação ou de reposição da caução nos termos e prazos previstos;
-
-g) Cedência, alienação, oneração ou trespasse da Concessão, no todo ou em parte, sem prévia autorização;
-
-h) Incumprimento voluntário de decisões judiciais ou arbitrais transitadas em julgado;
-
-i) Desobediência reiterada às determinações do IEP ou do Concedente, com prejuízo para a execução das obras ou para a exploração e conservação da Auto-Estrada;
-
-j) Actividade fraudulenta destinada a lesar o interesse público.
-
-3 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1, possa motivar a rescisão da Concessão, o MOPTH notificará a Concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável.
-
-4 - Caso a Concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento, nos termos determinados pelo MOPTH, o Concedente poderá rescindir a Concessão mediante comunicação enviada à Concessionária, sem prejuízo do disposto no número seguinte.
-
-5 - Caso o Concedente pretenda rescindir a Concessão nos termos do número anterior, deverá previamente notificar por escrito o Agente das Entidades Financiadoras nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão.
-
-6 - Sem prejuízo do disposto no número anterior, a comunicação da decisão da rescisão referida no n.º 4 produz efeitos imediatos, independentemente de qualquer outra formalidade.
-
-7 - Sem prejuízo da notificação por escrito ao Agente das Entidades Financiadoras, nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão, em casos de fundamentada urgência que não se compadeça com as delongas no processo de sanação do incumprimento regulado no n.º 3, o Concedente poderá, sem prejuízo da observância daquele processo, proceder de imediato ao sequestro da Concessão nos termos definidos na base LXXVIII.
-
-8 - A rescisão do Contrato de Concessão não preclude a obrigação de indemnização que for aplicável por lei, devendo o montante desta ser calculado nos termos gerais de direito e podendo o Concedente recorrer à caução caso o mesmo não seja pago voluntariamente pela Concessionária.
-
-9 - Ocorrendo rescisão do Contrato de Concessão pela Concessionária por motivo imputável ao Concedente, este deverá indemnizar a Concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da Concessionária emergentes dos Contratos de Financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo da rescisão.
-
-###### Base LXXX — Caducidade
-
-1 - O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes.
-
-2 - Verificando-se a caducidade do Contrato de Concessão, a Concessionária será inteiramente responsável pela cessação dos efeitos de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte, sem prejuízo do disposto no n.º 2 da base XLIII.
-
-###### Base LXXXI — Domínio público do Estado e reversão de bens
-
-1 - No Termo da Concessão, revertem gratuita e automaticamente para o Concedente todos os bens que integram a Concessão nos termos do n.º 1 da base VII, obrigando-se a Concessionária a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do Contrato de Concessão, e livres de quaisquer ónus ou encargos.
-
-2 - Caso a Concessionária não dê cumprimento ao disposto no número anterior, o IEP promoverá a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela Concessionária e podendo ser utilizada a caução para os liquidar, no caso de não ocorrer pagamento voluntário e atempado dos montantes despendidos pelo IEP.
-
-3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes destas bases, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições:
-
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)
-
-Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes.
-
-4 - Se, no decurso dos cinco últimos anos da Concessão, se verificar que a Concessionária não se mostra capaz de cumprir plenamente a obrigação referida no n.º 3 e se a caução não for suficiente para cobrir as despesas a realizar, terá o Concedente o direito de se compensar pelos custos previsíveis mediante a dedução, até um valor máximo de 40%, dos pagamentos de Portagem SCUT relativos a esses cinco anos, até ao montante necessário para levar a efeito os trabalhos e as aquisições tidos por convenientes, desde que a Concessionária não preste garantia bancária emitida em termos aceites pelo Concedente, do valor adequado à cobertura do referido montante.
-
-5 - Se, a 15 meses do Termo da Concessão se verificar, mediante inspecção a realizar pelo IEP, a pedido da Concessionária, que as condições descritas no n.º 3 se encontram devidamente salvaguardadas, as retenções de Portagens SCUT efectuadas ao abrigo do número anterior serão pagas à Concessionária acrescidas de juros à taxa EURIBOR para o prazo de três meses. Caso as referidas retenções tenham sido substituídas por garantia bancária prestada pela Concessionária nos termos previstos no n.º 4, o Concedente reembolsará à Concessionária o custo comprovado dessa garantia bancária.
-
-6 - No Termo da Concessão, o Concedente procederá a uma vistoria dos bens referidos no n.º 1 da base VII, na qual participarão representantes das Partes, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto.
-
-### CAPÍTULO XIX — Condição financeira da Concessionária
-
-###### Base LXXXII — Assunção de riscos
-
-1 - A Concessionária assume expressamente integral e exclusiva responsabilidade por todos os riscos inerentes à Concessão, excepto se o contrário resultar do Contrato de Concessão.
-
-2 - Sem prejuízo do disposto no número seguinte, a Concessionária assume integralmente o risco de tráfego inerente à exploração da Auto-Estrada, neste se incluindo o risco emergente de qualquer causa que possa dar origem à redução de tráfego ou à transferência de tráfego da Auto-Estrada para outros meios de transporte ou outras vias da rede nacional.
-
-3 - A assunção do risco de tráfego referenciado no número anterior tem apenas lugar no pressuposto de que as Vias Rodoviárias Concorrentes da Concessão são apenas as constantes do Plano Rodoviário Nacional, tal como aprovado pelo Decreto-Lei n.º 222/98, de 17 de Julho, e alterado pela Lei n.º 98/99, de 26 de Julho.
-
-4 - O Concedente compromete-se a não conferir às vias rodoviárias referidas no n.º 3 nível de serviço superior ao estabelecido no n.º 5.
-
-5 - Conforme estabelecido no PRN 2000, as estradas da rede fundamental (Itinerários Principais) deverão ser planeadas de forma a assegurar nível de serviço B e as da rede complementar (Itinerários Complementares e Estradas Nacionais) o nível de serviço C, cuja determinação será feita pela metodologia constante do Highway Capacity Manual (Special Report 209 - TRB).
-
-6 - Excluem-se do âmbito da presente base as variantes urbanas e as estradas municipais não constantes do PRN 2000.
-
-7 - O incumprimento pelo Concedente da obrigação assumida nos números anteriores ou a criação, por parte do Concedente, de Vias Rodoviárias Concorrentes não previstas no PRN 2000 de que comprovadamente resulte prejuízo substancial para a Concessionária, conferir-lhe-á o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV.
-
-###### Base LXXXIII — Caso Base
-
-1 - As Partes acordam que o Caso Base constante de anexo ao Contrato de Concessão representa a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base LXXXIV.
-
-2 - O Caso Base apenas poderá ser alterado quando haja lugar, nos termos da base seguinte, à reposição do equilíbrio financeiro da Concessão, e exclusivamente para reflectir a reposição efectuada.
-
-###### Base LXXXIV — Reposição do equilíbrio financeiro
-
-1 - Tendo em atenção a distribuição de riscos estipulada no Contrato de Concessão, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos dispostos nesta base, nos seguintes casos:
-
-a) Modificação unilateral, imposta pelo Concedente, das condições de desenvolvimento das actividades integradas na Concessão, desde que, em resultado directo da mesma, se verifique, para a Concessionária, um aumento de custos ou uma perda de receitas;
-
-b) Ocorrência de casos de força maior nos termos da base LXXVI, excepto se, em resultado dos mesmos, se verificar a resolução do Contrato de Concessão nos termos do n.º 4 e da alínea c) do n.º 6 da mesma base;
-
-c) Alterações legislativas de carácter específico que tenham um impacto directo sobre as receitas ou custos respeitantes às actividades integradas na Concessão;
-
-d) Quando o direito de aceder à reposição do equilíbrio financeiro é expressamente previsto no Contrato de Concessão.
-
-2 - As alterações à lei geral, designadamente à lei fiscal e à lei ambiental, ficam expressamente excluídas da previsão da alínea c) do número anterior.
-
-3 - As Partes acordam que, sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será, sem prejuízo do disposto no número seguinte, efectuada de acordo com o que, de boa-fé, for estabelecido entre o Concedente (através de representantes da MEF e do MOPTH) e a Concessionária, em negociações que deverão iniciar-se logo que solicitadas pela Concessionária.
-
-4 - Decorridos 60 dias sobre a solicitação de início de negociações sem que as Partes cheguem a acordo sobre os termos em que a reposição do equilíbrio financeiro deve ocorrer, aquela reposição terá lugar, com referência ao Caso Base, com as alterações que este tiver sofrido ao abrigo do n.º 2 da base LXXXIII, e será efectuada pela reposição, por opção da Concessionária, de dois dos três seguintes Critérios Chave:
-
-a) Em conjunto, o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa e o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior sem caixa;
-
-b) Valor mínimo do Rácio de Cobertura da Vida do Empréstimo;
-
-c) TIR para os accionistas, em termos anuais nominais, para todo o prazo da Concessão.
-
-5 - Os três valores referidos no número anterior são os que constam de anexo ao Contrato de Concessão e não poderão ser modificados, independentemente de qualquer alteração ao Caso Base. Na reposição do equilíbrio financeiro com recurso ao Critério Chave TIR accionista, aquela deverá ser feita tendo em atenção o calendário de reembolsos e de remuneração accionista constante do Caso Base.
-
-6 - A reposição do equilíbrio financeiro da Concessão nos termos da presente base apenas deverá ter lugar na medida em que, como consequência do impacto individual ou cumulativo dos eventos referidos no n.º 1, se verifique:
-
-a) A redução em mais de 0,01 pontos do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa ou do Rácio de Cobertura da Vida do Empréstimo; ou
-
-b) A redução da Taxa Interna de Rendibilidade anual nominal para os accionistas da Concessionária em mais de 0,01 pontos percentuais.
-
-7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição poderá ter lugar, por acordo entre as Partes, através de uma das seguintes modalidades:
-
-a) Renegociação das tarifas de portagem e Bandas de tráfego;
-
-b) Atribuição de compensação directa pelo Concedente;
-
-c) Qualquer outra forma que seja acordada pelas Partes.
-
-8 - Caso, durante o Período Inicial da Concessão, se verifique qualquer dos eventos previstos no n.º 1, a reposição do equilíbrio financeiro da Concessão terá lugar através da atribuição de compensação directa pelo Concedente, salvo acordo diverso entre Concessionária e Concedente.
-
-9 - As Partes acordam que a reposição do equilíbrio financeiro da Concessão efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa, suficiente e final para todo o período da Concessão, salvo acordo diverso das Partes.
-
-10 - Para os efeitos previstos na presente base, a Concessionária deverá notificar o Concedente da ocorrência de qualquer evento que, individual ou cumulativamente, possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua verificação.
-
-### CAPÍTULO XX — Direitos de propriedade industrial e intelectual
-
-###### Base LXXXV — Direitos de propriedade industrial e intelectual
-
-1 - A Concessionária cede gratuitamente ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária, seja pelos terceiros que para o efeito subcontratar.
-
-2 - Os direitos de propriedade intelectual sobre os estudos e projectos elaborados para os fins específicos das actividades integradas na Concessão e bem assim os projectos, planos, plantas, documentos e outros materiais referidos no número anterior serão transmitidos gratuitamente e em regime de exclusividade ao Concedente no Termo da Concessão, competindo à Concessionária adoptar todas as medidas para o efeito necessárias.
-
-### CAPÍTULO XXI — Vigência da Concessão
-
-###### Base LXXXVI — Entrada em vigor
-
-O Contrato de Concessão entrará em vigor às 24 horas do dia da sua assinatura pelas Partes, contando-se a partir dessa data o prazo de duração da Concessão.
-
-### CAPÍTULO XXII — Disposições diversas
-
-###### Base LXXXVII — Custos e encargos da Concessionária
-
-A Concessionária reembolsará o IEP no prazo de 30 dias após a assinatura do Contrato de Concessão dos encargos suportados na preparação, lançamento e conclusão do concurso e que ascendem a (euro) 602550.
-
-### CAPÍTULO XXIII — Resolução de diferendos
-
-###### Base LXXXVIII — Processo de arbitragem
-
-1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidos por arbitragem.
-
-2 - A submissão de qualquer questão a arbitragem não exonera as Partes do pontual e atempado cumprimento das disposições do Contrato de Concessão e das determinações do Concedente que no seu âmbito lhe sejam comunicadas, nem permite qualquer interrupção do desenvolvimento das actividades integradas na Concessão, que deverão continuar a processar-se nos termos em vigor à data de submissão da questão até que uma decisão final seja obtida relativamente à matéria em causa.
-
-3 - O disposto no número anterior relativamente ao cumprimento de determinações do Concedente pela Concessionária aplicar-se-á também a determinações consequentes sobre a mesma matéria, mesmo que emitidas após a data de submissão de uma questão a arbitragem, desde que a primeira dessas determinações consequentes tenha sido comunicada à Concessionária anteriormente àquela data.
-
-4 - A Concessionária obriga-se a dar imediato conhecimento ao Concedente da ocorrência de qualquer diferendo ou litígio com as contrapartes dos Contratos do Projecto e a prestar-lhe toda a informação relevante relativa à evolução dos mesmos.
-
-###### Base LXXXIX — Tribunal Arbitral
-
-1 - O Tribunal Arbitral será composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado.
-
-2 - A Parte que decida submeter determinado diferendo ao Tribunal Arbitral apresentará os seus fundamentos para a referida submissão e designará de imediato o árbitro da sua nomeação, no requerimento de constituição do Tribunal Arbitral que dirija à outra Parte através de carta registada com aviso de recepção, devendo esta, no prazo de 20 dias úteis a contar da recepção daquele requerimento, designar o árbitro de sua nomeação e deduzir a sua defesa.
-
-3 - Ambos os árbitros designados nos termos do número anterior da presente base designarão o terceiro árbitro do Tribunal no prazo de 10 dias úteis a contar da designação do segundo árbitro do Tribunal, cabendo ao Presidente do Tribunal Central Administrativo, que também nomeará o representante de qualquer das Partes, caso estas o não tenham feito, esta designação, caso a mesma não ocorra dentro deste prazo.
-
-4 - O Tribunal Arbitral considera-se constituído na data em que o terceiro árbitro aceitar a sua nomeação e o comunicar a ambas as Partes.
-
-5 - O Tribunal Arbitral poderá ser assistido pelos peritos técnicos e consultores que considere conveniente designar.
-
-6 - O Tribunal Arbitral, salvo acordo em contrário das Partes, julgará segundo o Direito constituído e das suas decisões não cabe recurso.
-
-7 - As decisões do Tribunal Arbitral deverão ser proferidas no prazo máximo de seis meses a contar da data de constituição do Tribunal determinada nos termos da presente base, configurarão a decisão final de arbitragem relativamente às matérias em causa e incluirão a fixação das custas do processo e a forma da sua repartição pelas Partes.
-
-8 - O Tribunal Arbitral terá sede em Lisboa em local da sua escolha e utilizará a língua portuguesa.
-
-9 - A arbitragem decorrerá em Lisboa, funcionando o Tribunal de acordo com as regras fixadas no Contrato de Concessão, com as regras estabelecidas pelo próprio Tribunal Arbitral e ainda, subsidiariamente, pelo disposto na Lei n.º 31/86, de 29 de Agosto.
+a) O Concedente pagará um prémio à Concessionária, calculado de acordo com o n.º 3 da base LXIV, sempre que se verifique IS(índice t)(GP)b) A Concessionária pagará uma multa ao Concedente, calculada de acordo com o n.º 3 da base LXIV, sempre que se verifique IS(índice t)(GP) > IS(índice t - 1)(ponderado). 6 - É aplicável às multas previstas na presente base, mutatis mutandis, o disposto, infra, no n.º 9 da base LXXV. Base LII Obrigações e direitos dos utilizadores e dos proprietários confinantes da Auto-Estrada 1 - As obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com a Auto-Estrada, em relação ao seu policiamento, serão as que constam do Estatuto das Estradas Nacionais e de outras disposições legais ou regulamentares aplicáveis. 2 - Os utentes têm o direito de serem informados previamente pela Concessionária sobre a realização de obras programadas que afectem as normais condições de circulação na Auto-Estrada, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem. A informação a que se refere esta disposição deve ser prestada, pelo menos, através de sinalização colocada na rede viária servida pela Auto-Estrada e, se o volume das obras em causa assim o recomendar, através de anúncio publicado num jornal de circulação nacional, com a antecedência e o destaque julgados convenientes. Base LIII Manutenção e disciplina de tráfego 1 - A circulação pela Auto-Estrada obedecerá ao determinado no Código da Estrada e demais disposições legais ou regulamentares aplicáveis. 2 - A Concessionária deverá estudar e implementar os mecanismos necessários para garantir a monitorização do tráfego, a identificação de condições climatéricas adversas à circulação, a detecção de acidentes e a consequente e sistemática informação de alerta ao utente, no âmbito da Concessão, em articulação com as acções a levar a cabo na restante rede nacional, designadamente com o projecto CIRPOR. 3 - A Concessionária fica ainda obrigada, sem direito a qualquer indemnização ou à reposição do equilíbrio financeiro, a respeitar e a transmitir aos utentes todas as medidas adoptadas pelas autoridades com poderes de disciplina de tráfego em ocasiões de tráfego excepcionalmente intenso, com o fim de obter o melhor aproveitamento do conjunto da rede viária nacional. Base LIV Assistência aos utentes 1 - A Concessionária é obrigada a assegurar assistência aos utentes da Auto-Estrada, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção de acidentes. 2 - A assistência a prestar aos utentes nos termos do número antecedente consiste também no auxílio sanitário e mecânico, devendo a Concessionária instalar para o efeito uma rede de telecomunicações ao longo de todo o traçado da Auto-Estrada, organizar um serviço destinado a chamar do exterior os meios de socorro sanitário em caso de acidente e a promover a prestação de assistência mecânica. 3 - O serviço referido no número anterior funcionará nos centros de assistência e manutenção que a Concessionária deve criar, que compreenderão também as instalações necessárias aos serviços de conservação, exploração e policiamento da Auto-Estrada. 4 - Pela prestação do serviço de assistência e auxílio sanitário e mecânico a Concessionária poderá cobrar, dos respectivos utentes, taxas cujo montante deverão constar do Manual de Operação e Manutenção a que se referem os n.os 3 a 5 da base L. 5 - O funcionamento dos serviços de socorro obedecerá a regulamento a aprovar pelo MOPTH. Base LV Reclamações dos utentes 1 - A Concessionária obriga-se a ter à disposição dos utentes do Empreendimento Concessionado, nas àreas de Serviço, livros destinados ao registo de reclamações, os quais poderão ser visados periodicamente pelo IEP. 2 - A Concessionária deverá enviar trimestralmente ao IEP as reclamações registadas, acompanhadas das respostas dadas aos utentes, e dos resultados das investigações e demais providências que porventura tenham sido tomadas. Base LVI Estatísticas do tráfego 1 - A Concessionária deverá organizar uma rigorosa estatística diária do tráfego na Auto-Estrada e para as Áreas de Serviço, adoptando, para o efeito, formulário a estabelecer de acordo com o IEP e nos termos dos n.os 3 e 4 da base L. 2 - Os dados obtidos serão mantidos, sem quaisquer restrições, à disposição do IEP, que terá livre acesso aos locais onde estejam instalados os sistemas de controlo. 3 - A Concessionária deverá manter um contínuo controlo dos níveis de sinistralidade registados na Concessão e promover a realização de auditorias anuais aos mesmos. Base LVII Participações às autoridades públicas A Concessionária obriga-se a participar às autoridades públicas competentes quaisquer actos ou factos ilegais ou ilícitos de que tenha conhecimento no âmbito das actividades objecto da Concessão. CAPÍTULO XI Outros direitos do Concedente Base LVIII Contratos do Projecto 1 - Carecem de aprovação prévia do Concedente, sob pena de nulidade, a substituição, a modificação ou a rescisão dos Contratos do Projecto, bem como a celebração pela Concessionária de qualquer negócio jurídico que tenha por objecto as matérias reguladas pelos mesmos. 2 - A aprovação do Concedente deverá ser comunicada à Concessionária no prazo de 90 dias no caso dos Contratos de Financiamento e de 45 dias nos demais casos, devendo estes prazos contar-se a partir da data da recepção do respectivo pedido que se mostre acompanhado de toda a documentação que o deva instruir, suspendendo-se todavia aquele prazo com a solicitação pelo Concedente de pedidos de esclarecimento, e até que estes sejam prestados. 3 - Decorridos os prazos referidos no número anterior, a aprovação considera-se tacitamente concedida. 4 - A Concessionária permanece directamente responsável perante o Concedente pelo desenvolvimento de todas as actividades concessionadas e pelo cabal cumprimento das obrigações assumidas no Contrato de Concessão, independentemente da contratação, no todo ou em parte, dessas actividades com terceiros nos termos dos Contratos do Projecto e sem prejuízo das obrigações e responsabilidades directamente assumidas perante o Concedente pelas contrapartes nesses contratos. 5 - Sempre que, nos termos dos contratos a que se refere o n.º 4, for ao Concedente permitido o exercício directo de direitos perante os terceiros que neles são partes outorgantes, e a Concessionária for, por força dos mesmos contratos ou do Contrato de Concessão, igualmente responsável pelo cumprimento das obrigações correspondentes, pode o Concedente optar livremente por exercer tais direitos directamente sobre tais terceiros ou sobre a Concessionária, que apenas poderá opor ao Concedente os meios de defesa que nesses contratos estejam previstos, ou deles resultem, na medida em que o uso ou os efeitos de tais meios não impeçam ou tornem excessivamente oneroso para o Concedente e ou significativamente mais difícil para a Concessionária o cumprimento pontual das obrigações decorrentes do Contrato de Concessão. 6 - O Termo da Concessão importa a extinção imediata dos Contratos do Projecto, sem prejuízo do disposto em contrário nas presentes bases e dos acordos que o Concedente tenha estabelecido ou venha a estabelecer directamente com as respectivas contrapartes. 7 - O disposto no número anterior em nada prejudicará a vigência dos Contratos de Financiamento, no que se refere às relações jurídicas entre as Entidades Financiadoras e a Concessionária. Base LIX Outras autorizações do Concedente 1 - Carecem igualmente de autorização expressa do Concedente, sob pena de nulidade, a suspensão, a substituição, o cancelamento ou a modificação dos seguintes documentos: a) Os dos seguros referidos na base LXIX, com excepção do respectivo cancelamento ou suspensão por não pagamento de prémios; b) Garantias prestadas a favor do Concedente; c) Garantias prestadas pelos membros do ACE a favor da Concessionária. 2 - As seguradoras que emitam as apólices referidas na base LXIX deverão comunicar ao Concedente com, pelo menos, 45 dias de antecedência a sua intenção de cancelar ou suspender tais apólices por não pagamento dos respectivos prémios. 3 - A Concessionária assegurar-se-á que os contratos e documentos a que se refere o n.º 1 contenham cláusula que exprima o assentimento das respectivas contrapartes ou emitentes ao efeito jurídico aí, e no n.º 2, descrito. 4 - As autorizações do Concedente previstas na presente base consideram-se tacitamente concedidas se não forem recusadas no prazo de 45 dias após a respectiva solicitação. Base LX Autorizações e aprovações do Concedente As autorizações ou aprovações a emitir pelo Concedente nos termos das bases LVIII e LIX ou, desde que fundamentadas, as suas eventuais recusas não implicam a assunção, por ele, de quaisquer responsabilidades nem exoneram a Concessionária do cumprimento pontual das obrigações assumidas no Contrato de Concessão. Base LXI Instalações de terceiros 1 - Quando, ao longo do período da Concessão, se venha a mostrar necessário o atravessamento da Auto-Estrada por quaisquer instalações ou redes de serviço público não previstas anteriormente, a Concessionária deverá permitir a sua instalação, as quais terão, porém, de ser levadas a efeito por forma a causar a menor perturbação possível à circulação na Auto-Estrada. 2 - A forma e os meios de realização e conservação das instalações a que se refere o número anterior deverão ser estabelecidos em contratos a celebrar entre a Concessionária e as entidades responsáveis pela gestão dos serviços em causa, as quais deverão suportar os custos da sua realização e demais compensações eventualmente devidas à Concessionária pela sua conservação. 3 - Os contratos referidos no número anterior, bem como quaisquer alterações aos mesmos, carecem de aprovação expressa e prévia do Concedente, que não deverá ser injustificadamente recusada e que deverá ser comunicada à Concessionária nos 30 dias úteis seguintes ao respectivo pedido de autorização. CAPÍTULO XII Pagamentos a efectuar pelo Concedente Base LXII Pagamentos durante o Período Inicial da Concessão 1 - A partir das 24 horas do último dia do mês em que se realize a transferência para a Concessionária dos Lanços incluídos nos n.os 2 e 3 da base II e até às 24 horas do último dia do mês em que se verifiquem as condições referidas no n.º 2, ou até ao final do Período Inicial da Concessão, consoante o que ocorra mais cedo, a Concessionária terá direito a receber do Concedente em cada ano e por cada Lanço, um montante fixo calculado da seguinte forma: PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12) em que: PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j; Ext(j) - extensão do Lanço j, expressa em quilómetros, estabelecida de acordo com o n.º 4 da base II; M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3; m(índice t)(j) - número de meses completos em que a exploração e manutenção do Lanço j esteve a cargo da Concessionária durante o ano t; t - período correspondente a um ano civil. 2 - Para os Lanços incluídos nos n.os 1 e 2 da base II que entrem em serviço efectivo, de acordo com o n.º 8 da base XLVII, com perfil de Auto-Estrada durante o Período Inicial da Concessão e também para os Lanços incluídos no n.º 3 da base II, caso a Concessionária proceda ao aumento do seu número de vias durante o Período Inicial da Concessão, e após a respectiva entrada em serviço efectivo, a Concessionária terá direito a receber a partir das 24 horas do último dia do mês em que o IEP emita a autorização prevista no n.º 8 da base XLVII, consoante o que ocorra mais tarde, um montante calculado de acordo com a fórmula seguinte: P(índice t)(j) = PF(índice t)(j) + 0,5 x PB(índice t)(j) sujeito a P(índice t)(j) =P(índice t)(j) - montante total a pagar pelo Concedente no ano t para o Lanço j; PB(índice t)(j) - montante variável a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a fórmula descrita no n.º 4; PF(índice t)(j) - montante fixo a pagar pelo Concedente no ano t para o Lanço j, calculado de acordo com a seguinte fórmula: PF(índice t)(j) = M(índice t)(j) x Ext(j) x (m(índice t)(j)/12) em que: Ext(j) - extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II; M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3; m(índice t)(j) - número de meses completos em que o Lanço j esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, durante o ano t; t - período correspondente a um ano civil. 3 - Os montantes fixos por quilómetro [M(índice t)(j)], aplicáveis nas fórmulas referidas nos n.os 1 e 2, serão fixados anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitos ao disposto no n.º 6: M(índice t)(j) = M(índice t - 1)(j) x {F(índice t)(j) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(j)]} em que: M(índice t)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t; M(índice t - 1)(j) - montante fixo por quilómetro aplicável ao Lanço j no ano t - 1 com M(índice 2001); (j) - M(índice 98)(j) e M(índice 98)(j) determinado de acordo com a seguinte tabela: [[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) F(índice t)(j) - factor de indexação aplicado no ano t ao Lanço j, com valor não superior a 1 e definido em anexo ao Contrato de Concessão; IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1; IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002; t - período correspondente a um ano civil. 4 - O montante variável [PB(índice t)(j)] a pagar pelo Concedente para cada Lanço j em cada ano do Período Inicial da Concessão, de acordo com as bases anteriores, será calculado de acordo com a seguinte fórmula: [[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) 5 - O valor da tarifa de portagem SCUT para a Banda 1 no ano t referida no n.º 4 será fixado anualmente, em Janeiro, de acordo com a seguinte fórmula e sujeito ao disposto no n.º 6: T(índice t)(1) = IP(índice t)(1) x B(índice 2007)(1) com: IP(índice t)(1) = IP(índice t - 1)(1) x I(índice t)(1) em que: T(índice t)(1) - valor da tarifa de portagem SCUT para a Banda 1 no ano t; IP(índice t)(1) - índice em cadeia de revisão da tarifa no ano t para a Banda 1; IP(índice t - 1)(1) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1; B(índice 2007)(1) - tarifa base anual para a Banda 1 fixada em anexo ao Contrato de Concessão para o ano 2007, a preços de 1 de Janeiro de 1998; I(índice t)(1) - indexante de revisão da tarifa no ano t para a Banda 1, definido de acordo com o disposto no n.º 7 da base LXIII; t - período correspondente a um ano civil. 6 - Os valores das tarifas de portagem SCUT para a Banda 1 e dos montantes fixos por quilómetro, a fixar em Janeiro de cada ano civil, de acordo, respectivamente, com os n.os 5 e 3, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor. 7 - Em adição aos montantes referidos nos n.os 1 e 2 a Concessionária terá direito a receber, desde a data de entrada em serviço efectivo da globalidade do empreendimento com perfil de auto-estrada e até ao final do Período Inicial da Concessão, um pagamento respeitante a todos os Lanços de (euro) 50000/km/ano, ou fracções em função dos meses completos de serviço efectivo conforme definido no n.º 8 da base XLVII. Este montante é fixo, não estando sujeito a qualquer revisão. Base LXIII Pagamentos após o Período Inicial da Concessão 1 - A partir das 24 horas do último dia do Período Inicial da Concessão, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagens SCUT calculado com base na seguinte fórmula: [[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) 2 - O valor dos pagamentos referentes a cada Banda [PB(i)] será obtido em cada ano através da aplicação da seguinte fórmula: [[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) 3 - Para o cálculo do TMDAE(índice t)(j(elevado a *)) será usada a seguinte expressão, sujeita à restrição imposta no n.º 4: TMDAE(índice t)(j(elevado a *)) = TMDA(índice t)(elevado a VL)(j(elevado a *)) = f(índice p) x TMDA(índice t)(elevado a VP)(j(elevado a *)) em que: TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *) no ano t; f(índice p) - factor de equivalência para veículos pesados com o valor de 2,2 durante todo o período da Concessão; TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *) no ano t; t - período correspondente a um ano civil. 4 - Para efeitos do cálculo do TMDAE(índice t)(j(elevado a *)) aplicar-se-á a seguinte restrição: a) Nos Lanços com duas vias em cada sentido: TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<38000 b) Nos Lanços com três vias em cada sentido: TMDA(índice t)(elevado a VL)(j(elevado a *)) + TMDA(índice t)(elevado a VP)(j(elevado a *)) =<60000 em que: TMDA(índice t)(elevado a VL)(j(elevado a *)) - TMDA de veículos ligeiros registado no equipamento de contagem j(elevado a *), no ano t; TMDA(índice t)(elevado a VP)(j(elevado a *)) - TMDA de veículos pesados registado no equipamento de contagem j(elevado a *), no ano t; t - período correspondente a um ano civil; devendo ser mantida a proporcionalidade real entre veículos ligeiros e pesados no caso de o número total de veículos ser superior, respectivamente, a 38000 ou a 60000. 5 - Para efeitos da aplicação das fórmulas definidas no n.º 4 da base LXII e no n.º 2 da base LXIII entende-se por «extensão afecta a um equipamento de contagem» a extensão do Sublanço onde está instalado, de acordo com o definido no n.º 4 da base II e na base XLVIII. 6 - As tarifas de portagem SCUT a aplicar em cada ano, para cada uma das Bandas [T(índice t)(i)] serão fixadas anualmente, no mês de Janeiro, de acordo com a seguinte fórmula e sujeitas ao disposto no n.º 8: T(índice t)(i) = IP(índice t)(i) x B(índice t)(i) com: IP(índice t)(i) = IP(índice t - 1)(i) x I(índice t)(i) sendo: IP(índice t)(i) - índice em cadeia de revisão da tarifa no ano t para a Banda i; IP(índice t - 1)(i) - índice em cadeia de revisão da tarifa no ano t - 1 para a Banda 1, com IP(índice 2001)(1) = 1; I(índice t)(i) - indexante de revisão da tarifa no ano t para a Banda i em relação ao ano anterior, calculado de acordo com o n.º 7; B(índice t)(i) - tarifa base anual para a Banda i fixada de acordo com anexo ao Contrato de Concessão para cada ano t, a preços de Janeiro de 1998. 7 - O indexante de revisão da tarifa referido no n.º 5 da base LXII e no n.º 6 será calculado de acordo com a seguinte fórmula: I(índice t)(i) = F(índice t)(i) x (IPC(índice t - 1)/IPC(índice t - 2)) + [1 - F(índice t)(i)] sendo: I(índice t)(i) - indexante aplicado no ano t para a Banda i; F(índice t)(i) - factor de indexação aplicado no ano t para a tarifa da Banda i, com valor não superior a 0,9 e fixado em anexo ao Contrato de Concessão; IPC(índice t - 1) - valor do último IPC disponível e referente ao ano t - 1; IPC(índice t - 2) - valor de IPC usado no numerador da fórmula de revisão tarifária do ano anterior ou IPC referente a Janeiro de 1998 para t = 2002; t = período correspondente a um ano civil. 8 - Os valores das tarifas de portagem SCUT, a fixar em Janeiro de cada ano civil, deverão ser apresentados pela Concessionária ao Concedente, devidamente justificados, com a antecedência mínima de 45 dias em relação à data pretendida para a sua entrada em vigor. Base LXIV Ajustamentos relacionados com o desempenho na exploração e manutenção 1 - Por cada fracção inteira de 1000 via x quilómetro x hora por ano, que os limites anuais estabelecidos no n.º 1 da base LI forem ultrapassados, será aplicada à Concessionária uma penalização de (euro) 2500 no período nocturno e de (euro) 5000 se ocorrer no período diurno, sujeita a revisão de acordo com o IPC. 2 - O montante a pagar pela Concessionária pela soma das penalizações devidas em cada ano será incluído no pagamento de reconciliação previsto na alínea c) do n.º 7 da base LXV. 3 - Os prémios e multas relativos aos níveis de sinistralidade, referidos no n.º 4 da base LI, serão calculados com base no seguinte: a) Prémio a pagar pelo Concedente à Concessionária, caso se verifiquem as condições enunciadas na alínea a) do n.º 5 da base LI: Prémio = 2% x P(índice t) x (IS(índice t - 1)(ponderado) - IS(índice t)(GP)/IS(índice t)(GP)) em que: P(índice t) = valor dos pagamentos referentes a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII; IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1; IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t; b) Multa a pagar pela Concessionária ao Concedente, caso se verifiquem as condições enunciadas na alínea b) do n.º 5 da base LI: Multa = 2% x P(índice t) x (IS(índice t)(GP) - IS(índice t - 1)(ponderado)/IS(índice t)(GP)) em que: P(índice t) = valor dos pagamentos referente a Portagens SCUT do ano t, calculados de acordo com o n.º 1 da base LXIII; IS(índice t - 1)(ponderado) = índice de sinistralidade ponderado para o ano t - 1; IS(índice t)(GP) = índice de sinistralidade da Concessão para o ano t. 4 - Os montantes referidos no número anterior serão pagos na data de liquidação do primeiro pagamento por conta do ano t + 1 previsto na alínea a) do n.º 7 da base LXV. 5 - Relativamente ao primeiro e ao último ano da Concessão, serão feitos os necessários ajustes ao cálculo dos respectivos prémios e multas, numa lógica de proporcionalidade, de forma a considerar que este poderá não corresponder a um ano civil completo. Base LXV Método de pagamento à Concessionária 1 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXII pela forma e nas datas indicadas em seguida: a) Montantes fixos: a liquidação de PF(índice t)(j), referido nos n.os 1 e 2 da base LXII será efectuada em duas parcelas de acordo com o seguinte: i) No dia 31 de Maio de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 1.º semestre desse ano t, calculados da seguinte forma: PF(índice 1.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 1.ºSt)(j)/12) em que: PF(índice 1.ºSt)(j) = montante fixo a pagar pelo Concedente no 1.º semestre do ano t para o Lanço j; M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII; Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II; m(índice 1.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 1.º semestre do ano t; t = período correspondente a um ano civil; ii) No dia 30 de Setembro de cada ano t, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte, serão pagos os encargos referentes ao 2.º semestre desse ano t, calculados da seguinte forma: PF(índice 2.ºSt)(j) = M(índice t)(j) x Ext(j) x (m(índice 2.ºSt)(j)/12) em que: PF(índice 2.ºSt)(j) = montante fixo a pagar pelo Concedente no 2.º semestre do ano t para o Lanço j; M(índice t)(j) = montante fixo por quilómetro aplicável ao Lanço j no ano t, calculado de acordo com a fórmula descrita no n.º 3 da base LXII; Ext(j) = extensão do Lanço j, expressa em quilómetros, de acordo com o n.º 4 da base II; m(índice 2.ºSt)(j) = número de meses completos em que o Lanço j esteja em serviço durante o 2.º semestre do ano t; t = período correspondente a um ano civil; iii) Nos 15 dias úteis seguintes aos dias 30 de Junho e 31 de Dezembro de cada ano, até ao termo da aplicabilidade dos pagamentos fixos, a Concessionária deverá enviar ao Concedente uma nota justificativa dos montantes fixos recebidos relativamente ao semestre imediatamente anterior e o montante a que esta teria direito nos termos da base LXII relativamente a igual período. Caso se verifique alguma diferença entre aqueles e estes, haverá lugar a um pagamento de regularização a efectuar à parte lesada nos 8 dias úteis subsequentes à demonstração do erro; b) Montantes variáveis: a liquidação dos montantes variáveis definidos no n.º 2 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil; c) A liquidação do montante referido no n.º 7 da base LXII será efectuada no dia 31 de Janeiro de t + 1 ou, caso este não seja um dia útil, no dia útil imediatamente seguinte, sendo que t significa o período correspondente a um ano civil. 2 - O Concedente procederá à liquidação dos montantes devidos nos termos da base LXIII, através de dois pagamentos por conta e de um pagamento de reconciliação, calculados de acordo com o seguinte, sem prejuízo do disposto no n.º 5: a) Cada pagamento por conta corresponderá a um terço do pagamento total calculado com o tráfego do ano anterior àquele em que o pagamento ocorre e resultará da aplicação da seguinte fórmula: PC(índice t) = P'(índice t) x (1/3) em que: PC(índice t) = valor de cada pagamento por conta a liquidar no ano t; P'(índice t) = pagamento referente a Portagens SCUT calculado, com o tráfego do ano t - 1, de acordo com o seguinte: [[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) b) O pagamento de reconciliação, correspondente à diferença entre o pagamento total referente a Portagens SCUT de certo ano e os pagamentos feitos por conta nesse mesmo ano, será calculado da seguinte forma: [[[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) 3 - A determinação da parte responsável pela liquidação do pagamento de reconciliação será feita da seguinte forma: a) Se PR(índice t) >= (euro) 0 caberá ao Concedente pagar à Concessionária o montante respeitante ao pagamento de reconciliação; b) Se PR(índice t)<(euro) 0 caberá à Concessionária pagar ao Concedente o montante respeitante ao pagamento de reconciliação. 4 - No caso de o final do Período Inicial da Concessão ocorrer entre 30 de Setembro e 31 de Dezembro, o primeiro pagamento referente a Portagens SCUT a efectuar à Concessionária será equiparado a um pagamento de reconciliação, sendo calculado de acordo com o disposto na alínea b) do n.º 2 e liquidado na data definida na alínea c) do n.º 7. Para efeitos da aplicação da fórmula descrita na alínea b) do n.º 2 considerar-se-á que PC(índice t - 1) tem valor 0. 5 - No caso do final de o Período Inicial da Concessão ocorrer entre 1 de Janeiro e 30 de Setembro, os pagamentos referentes a Portagens SCUT a efectuar à Concessionária no ano civil em que termina o Período Inicial da Concessão serão calculados de acordo com o n.º 6, estando a sua liquidação sujeita ao seguinte: a) Se o final do Período Inicial da Concessão ocorrer entre 1 de Janeiro e 31 de Maio, o primeiro pagamento será liquidado na data definida na alínea a) do n.º 7 e o segundo na data definida na alínea b) do n.º 7; b) Se o final do Período Inicial da Concessão ocorrer entre 31 de Maio e 30 de Setembro, o primeiro e único pagamento será liquidado na data definida na alínea b) do n.º 7. 6 - Os pagamentos por conta a efectuar no ano civil em que termina o Período Inicial da Concessão, caso haja lugar a algum, serão determinados de acordo com o seguinte: a) Caso haja lugar a um único pagamento por conta: PC(índice t') = P((índice t')) x (M/12) b) Caso haja lugar a um segundo pagamento por conta, o primeiro será calculado de acordo com a expressão apresentada na alínea a) e o segundo será determinado de acordo com a seguinte expressão: PC(índice t') = P((índice t')) x (1/3) sendo: (índice t') = ano civil em que termina o período inicial da Concessão; PC(índice t') = valor de cada pagamento por conta a efectuar em t'; M = número de meses completos em que a Concessão esteve em serviço efectivo, de acordo com o n.º 8 da base XLVII, após o final do Período Inicial da Concessão e até à data de efectivação do primeiro pagamento por conta; P(índice t') = valor usado como base para o cálculo dos pagamentos por conta, definida na alínea a) do n.º 2. 7 - Sem prejuízo do disposto nos números seguintes, o Concedente procederá à liquidação dos pagamentos referidos nos números anteriores nas seguintes datas de liquidação: a) O primeiro pagamento por conta será liquidado no dia 31 de Maio de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte; b) O segundo pagamento por conta será liquidado no dia 30 de Setembro de cada ano, ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte; c) O pagamento de reconciliação será liquidado no dia 31 de Janeiro do ano seguinte ou, caso este não seja um dia útil, no 1.º dia útil imediatamente seguinte. 8 - Se, em virtude da aplicação do disposto na alínea c) do n.º 7 a data de liquidação do pagamento de reconciliação referente ao último ano da Concessão ocorrer mais de dois meses após o Termo da Concessão, a liquidação do referido pagamento deverá ter lugar no último dia útil do 2.º mês seguinte ao referido Termo da Concessão. 9 - Sempre que a obrigação de liquidar o pagamento de reconciliação recaia sobre a Concessionária, esta deverá enviar ao Concedente nota justificativa do montante a liquidar, acompanhada pela respectiva nota de crédito, com a antecedência mínima de 15 dias úteis face à data de liquidação definida na alínea c) do n.º 7 ou no n.º 8. 10 - Caso o Concedente discorde do valor da nota de crédito referida no n.º 9, deverá enviar à Concessionária uma nota justificativa da correcção pretendida no prazo máximo de sete dias úteis a contar da data de recepção dos documentos referidos no n.º 9, devendo a Concessionária proceder de imediato ao envio de nova nota de crédito, rectificada nos termos da nota justificativa recebida do Concedente, e ao pagamento do respectivo montante na data de liquidação definida na alínea c) do n.º 7 ou no n.º 8. Após realizar o pagamento em causa, poderá a Concessionária recorrer à arbitragem, estornando o Concedente, se for essa a decisão do tribunal arbitral, o valor recebido em excesso, acrescido dos juros respectivos, se a eles houver lugar. 11 - Caso a Concessionária não efectue o pagamento de reconciliação na data indicada na alínea c) do n.º 7 ou no n.º 8, o Concedente poderá utilizar a Caução prevista na base LXVII pelo valor em falta. 12 - A Concessionária enviará ao Concedente, com a antecedência mínima de 45 dias relativamente à data de liquidação de cada pagamento por conta que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados. A Concessionária enviará ao Concedente, com a antecedência mínima de 15 dias úteis relativamente às datas de liquidação de cada pagamento de reconciliação que lhe for devido pelo Concedente, factura acompanhada dos cálculos detalhados de cada um dos valores nela indicados. 13 - O Concedente deverá, logo que recebida a factura referida no número anterior, verificar a respectiva correcção, comunicando à Concessionária, com adequada nota justificativa, qualquer erro ou omissão até cinco dias antes do termo do prazo de pagamento, considerando-se a factura aprovada para todos os efeitos se tal comunicação não for feita no prazo referido. Recebida tal comunicação, deverá a Concessionária proceder à revisão da factura ou indicar que mantém os valores nela constantes, suspendendo-se o prazo de pagamento pelo tempo que decorrer até que ocorra a rectificação ou seja indicada a manutenção dos valores facturados. 14 - No caso de a Concessionária se atrasar no envio dos documentos referidos no n.º 12, ou de os mesmos conterem erros ou omissões, tendo a Concessionária de enviar ao Concedente novos documentos, a data de liquidação aplicável ao pagamento em questão será prorrogada pelo número de dias úteis correspondente ao atraso da Concessionária ou pelo número de dias úteis necessários à Concessionária para entregar novos documentos em termos aceitáveis para o Concedente. 15 - Sobre todos os pagamentos a efectuar pelo Concedente incidirá IVA à taxa legalmente aplicável. 16 - A Concessionária poderá ceder às Entidades Financiadoras ou a outras instituições financeiras os créditos que sobre o Concedente detém em virtude do Contrato de Concessão. A esta cessão não obstará o facto de o crédito não ser líquido. Mediante solicitação escrita da Concessionária, o Concedente emitirá e entregará a esta, no prazo de cinco dias, documento adequado confirmando a existência do crédito cedendo, caso tenha ocorrido seja a aprovação tácita da factura, referida no n.º 13, seja a sua aprovação nos termos da segunda parte do mesmo número e do n.º 14. 17 - Em caso de mora superior a 30 dias, relativamente às datas previstas na presente base para a realização dos pagamentos de reconciliação devidos pelo Concedente, haverá lugar à aplicação de juros, após aquele período, calculados à taxa EURIBOR para operações a três meses acrescida de 1%. Em caso de mora relativamente às datas previstas na presente base para a realização dos pagamentos por conta devidos pelo Concedente, haverá lugar à aplicação de juros calculados à taxa EURIBOR para operações a três meses acrescida de 1%. 18 - Se, porém, o Concedente não confirmar, até cinco dias úteis após a data prevista nesta base para a realização dos pagamentos de reconciliação, a factura que lhe tenha sido enviada pela Concessionária, a taxa de juro moratório a aplicar será igual ao Custo Médio Ponderado do Capital. CAPÍTULO XIII Modificações subjectivas na Concessão Base LXVI Cedência, oneração, trespasse e alienação 1 - Sem prejuízo do disposto em contrário nas presentes bases, é interdito à Concessionária ceder, alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indirecto, idênticos resultados. 2 - A Concessionária não poderá, sem prévia e expressa autorização do Concedente, trespassar a Concessão. 3 - Os actos praticados em violação do disposto nos números anteriores são nulos, sem prejuízo de outras sanções aplicáveis. 4 - No caso de trespasse, a Concessionária deverá comunicar ao Concedente a sua intenção de proceder ao trespasse da Concessão, remetendo-lhe a minuta do contrato de trespasse que se propõe assinar e indicando todos os elementos do negócio que pretende realizar, bem como o calendário previsto para a sua realização e a identidade do trespassário. A autorização que eventualmente venha a ser dada para o trespasse só será válida se os termos do contrato de trespasse forem exactamente os mesmos dos que constavam do pedido de autorização submetido pela Concessionária ao Concedente. 5 - Ocorrendo trespasse da Concessão, consideram-se transmitidos para a nova concessionária os direitos e obrigações da Concessionária, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos pelo Concedente como condição para a autorização do trespasse. 6 - A Concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse. CAPÍTULO XIV Garantias do cumprimento das obrigações da Concessionária Base LXVII Garantias a prestar O exacto e pontual cumprimento das obrigações assumidas no Contrato de Concessão pela Concessionária será garantido, cumulativamente, através de: a) Caução estabelecida nos montantes estipulados na base seguinte; b) Garantias bancárias prestadas a favor da Concessionária pelos Membros do Concorrente enquanto accionistas da Concessionária, nos montantes que cada um se obrigou a subscrever, garantindo o cumprimento das obrigações assumidas na base XIII e no Acordo de Subscrição, com o montante máximo de responsabilidade correspondente ao montante de capitalização da Concessionária pelos seus accionistas nos termos do Acordo de Subscrição e com as condições de execução pelo Concedente constantes de anexo ao Contrato de Concessão. Base LXVIII Regime das garantias 1 - As garantias previstas na base anterior manter-se-ão em vigor nos seguintes termos: a) A caução a que se refere a alínea a) da base anterior, no valor determinado nos termos dos números seguintes, manter-se-á em vigor até um ano após o Termo da Concessão; b) O montante máximo da responsabilidade assumida nos termos das garantias referidas na alínea b) da base anterior será progressivamente reduzido à medida em que for sendo cumprido o Acordo de Subscrição. 2 - O valor da caução é fixado pela forma seguinte: a) Na data de assinatura do Contrato de Concessão, (euro) 2500000; b) Após o início da construção e enquanto se encontrarem Lanços em construção, a caução será fixada, no mês de Janeiro de cada ano, no valor correspondente a 5% do orçamento das obras a realizar nesse ano; c) Na data da entrada em serviço de cada um dos Lanços construídos, o montante da caução correspondente a esse Lanço será reduzido a 1% do seu valor imobilizado corpóreo bruto reversível, apurado de acordo com o balancete trimestral da Concessionária; sendo que: d) Em caso algum, poderá o valor da caução determinado nos termos das alíneas anteriores ser inferior a (euro) 2500000, actualizado de acordo com o referido no n.º 3. 3 - Nos anos seguintes ao da entrada em serviço da totalidade da Auto-Estrada, o valor da caução será actualizado de acordo com o IPC publicado para o ano anterior àquele em que a actualização ocorre. 4 - A caução poderá ser constituída, consoante opção da Concessionária, por uma das seguintes modalidades: a) Depósito em numerário constituído à ordem do Concedente; b) Títulos emitidos ou garantidos pelo Estado Português; c) Garantia bancária emitida por instituição de crédito em benefício do Concedente de acordo com a minuta que consta em anexo ao Contrato de Concessão. 5 - Quando a caução for constituída em títulos, estes serão avaliados pelo respectivo valor nominal, salvo se, nos três meses anteriores à constituição da caução, a cotação média na Bolsa de Lisboa for abaixo do par, situação em que a avaliação se fixará em 90% dessa média. 6 - Os termos e condições da caução constituída de acordo com qualquer das alíneas do n.º 4, quaisquer modificações subsequentes dos seus termos e o seu cancelamento ou redução, e bem assim as respectivas instituições emitentes ou depositárias deverão merecer aprovação prévia do Concedente, a qual se considerará tacitamente concedida se não for recusada, no prazo de 45 dias úteis. 7 - O Concedente poderá utilizar a caução sempre que a Concessionária não cumpra qualquer obrigação assumida no Contrato de Concessão, nomeadamente quando não proceda ao pagamento das multas contratuais, nos termos do disposto no n.º 6 da base LXXV, ou dos prémios de seguro, nos termos do disposto no n.º 5 da base LXIX, ou sempre que tal se revele necessário em virtude da aplicação do disposto no n.º 3 da base XXIII ou dos n.os 11 da base LXV ou 2 da base LXXXI. 8 - Sempre que o Concedente utilize a caução, a Concessionária deverá proceder à reposição do seu montante integral no prazo de 30 dias a contar da data daquela utilização. 9 - Haverá recurso imediato à caução, nos casos previstos nesta base, mediante despacho do MOPTH sobre proposta do IEP, sem necessidade de qualquer outra formalidade ou de prévia decisão arbitral ou judicial. 10 - Todas as despesas relativas à prestação da caução serão da responsabilidade da Concessionária. Base LXIX Cobertura por seguros 1 - A Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e compreensiva cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão por seguradoras aceitáveis para o Concedente. 2 - O programa de seguros relativo às apólices de seguro indicadas no número anterior é o constante de anexo ao Contrato de Concessão, sem prejuízo da contratação dos seguros previstos na base LXXVI. 3 - Não poderão ter início quaisquer obras ou trabalhos no Empreendimento Concessionado sem que a Concessionária apresente ao Concedente comprovativo de que as apólices de seguro aplicáveis se encontram em vigor, com os prémios do primeiro período de cobertura pagos, nas condições estipuladas em anexo ao Contrato de Concessão. 4 - O Concedente deverá ser indicado como co-beneficiário nas apólices de seguro aplicáveis. 5 - Constitui estrita obrigação da Concessionária a manutenção em vigor das apólices listadas em anexo ao Contrato de Concessão, nomeadamente através do pagamento atempado dos respectivos prémios, pelo valor que lhe seja debitado pelas seguradoras. 6 - O Concedente poderá proceder, por conta da Concessionária, ao pagamento directo dos prémios dos seguros referidos nos números anteriores, quando a Concessionária não o faça, mediante recurso à caução. 7 - As condições constantes do n.º 6 deverão constar das apólices emitidas nos termos desta cláusula e ser, assim, do conhecimento das seguradoras. CAPÍTULO XV Fiscalização do cumprimento das obrigações da Concessionária Base LXX Fiscalização pelo Concedente 1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária emergentes do Contrato de Concessão serão exercidos pela MEF para os aspectos económicos e financeiros e pelo MOPTH para os demais. 2 - Os poderes da MEF serão exercidos pela IGF e os do MOPTH serão exercidos pelo IEP. 3 - A Concessionária facultará ao Concedente, à IGF e ao IEP ou a qualquer outra entidade por estes nomeada, desde que devidamente credenciada, livre acesso a todo o Empreendimento Concessionado, bem como a todos os livros de actas, listas de presença e documentos anexos relativos à Concessionária, livros, registos e documentos relativos às instalações e actividades objecto da Concessão, incluindo as estatísticas e registos de gestão utilizados, e prestará sobre todos esses documentos os esclarecimentos que lhe forem solicitados. 4 - O IEP, enquanto entidade fiscalizadora, poderá intervir em qualquer momento do processo evolutivo da obra, desde a fase da sua concepção e projecto até à fase de exploração e conservação, ordenando a verificação quer de anomalias de execução, quer do incumprimento do que for exigível à Concessionária. 5 - Poderão ser efectuados, a pedido do Concedente, na presença de representantes da Concessionária, ensaios que permitam avaliar as condições de funcionamento e características da Concessão, e do equipamento, sistemas e instalações às mesmas respeitantes, correndo os respectivos custos por conta da Concessionária, sem prejuízo do posterior recurso à arbitragem. 6 - As determinações do Concedente que vierem a ser expressamente emitidas no âmbito dos poderes de fiscalização, incluindo as relativas a eventuais suspensões dos trabalhos de construção, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo da possibilidade de posterior recurso à arbitragem. 7 - Os poderes de fiscalização do cumprimento das obrigações resultantes das presentes bases, não envolvem qualquer responsabilidade do Concedente pela execução das obras de construção, sendo todas as imperfeições ou vícios de concepção, execução ou funcionamento das referidas obras da exclusiva responsabilidade da Concessionária, com excepção das imperfeições ou vícios que se prove terem resultado de determinações do Concedente e a Concessionária haja formulado, por escrito e antes da execução dessas determinações, observações ou reservas quanto às imperfeições ou vícios das soluções técnicas determinadas pelo Concedente. Base LXXI Controlo da construção da Auto-Estrada 1 - A Concessionária obriga-se a apresentar semestralmente ao IEP os elementos do plano geral de trabalhos, relativos ao semestre em curso, os quais deverão ser traçados sobre o plano geral de trabalhos inicial incluído no Programa de Trabalhos. 2 - A Concessionária obriga-se ainda a apresentar trimestralmente ao IEP os planos parcelares de trabalho, relativos ao trimestre em curso, os quais deverão ser traçados sobre os planos parcelares incluídos no Programa de Trabalhos. 3 - Eventuais desvios entre os documentos referidos nos números anteriores deverão ser neles devidamente fundamentados e, ocorrendo atrasos na construção da Auto-Estrada, deverão ser indicadas as medidas de recuperação previstas. 4 - A Concessionária obriga-se ainda a fornecer, em complemento dos documentos referidos, todos os esclarecimentos e informações adicionais que o IEP razoavelmente lhe solicitar. Base LXXII Intervenção directa do Concedente 1 - Quando a Concessionária não tenha respeitado as determinações expressamente emitidas pelo Concedente no âmbito dos seus poderes de fiscalização, dentro do prazo que razoavelmente lhe for fixado, assistirá a este a faculdade de proceder à correcção da situação, directamente ou através de terceiro, correndo os custos para o efeito incorridos por conta da Concessionária. 2 - O Concedente poderá recorrer à caução para pagamento dos custos incorridos em aplicação do disposto no número anterior, sem prejuízo do posterior recurso à arbitragem. CAPÍTULO XVI Responsabilidade extracontratual perante terceiros Base LXXIII Pela culpa e pelo risco A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito. Base LXXIV Por prejuízos causados por entidades contratadas 1 - A Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados pelas entidades por si contratadas para o desenvolvimento das actividades compreendidas na Concessão. 2 - Constituirá especial dever da Concessionária prover e exigir a qualquer entidade com que venha a contratar, que promova as medidas necessárias para salvaguarda da integridade física do público e do pessoal afecto à Concessão, devendo ainda cumprir e zelar pelo cumprimento dos regulamentos de higiene e segurança em vigor a cada momento. CAPÍTULO XVII Incumprimento e cumprimento defeituoso do contrato Base LXXV Incumprimento 1 - Sem prejuízo da possibilidade de sequestro ou rescisão da Concessão nos casos e nos termos previstos nas bases LXXVIII e LXXIX e do disposto nos n.os 9 e 10, o incumprimento pela Concessionária de quaisquer deveres ou obrigações emergentes do Contrato de Concessão, ou das determinações do Concedente emitidas no âmbito da lei ou destas bases, poderá ser sancionada, por decisão do Concedente, pela aplicação de multas contratuais, cujo montante variará, em função da gravidade da falta, entre (euro) 95000 e (euro) 100000. 2 - A aplicação de multas contratuais está dependente de notificação prévia da Concessionária pelo Concedente para reparar o incumprimento e do não cumprimento do prazo de reparação fixado nessa notificação nos termos do número seguinte, ou da não reparação integral da falta, pela Concessionária, naquele prazo. 3 - O prazo de reparação do incumprimento será fixado de acordo com critérios de razoabilidade e terá sempre em atenção a defesa do interesse público e a manutenção em funcionamento, nos termos destas bases, da Concessão. 4 - A fixação do montante das multas contratuais a que aludem os números anteriores é da exclusiva competência do Concedente, sem prejuízo da sua revisão pelo tribunal arbitral. 5 - Caso o incumprimento consista em atraso na data de entrada em serviço dos Lanços a construir as multas referidas no número anterior serão aplicadas por cada dia de atraso e por cada Lanço, terão como limite máximo para todos os Lanços o montante de (euro) 5000000 e serão aplicáveis nos termos seguintes: a) Até ao montante de (euro) 15000 por dia de atraso, entre o 1.º e o 15.º dia de atraso, inclusive; b) Até ao montante de (euro) 25000 por dia de atraso, entre o 16.º e o 30.º dia de atraso, inclusive; c) Até ao montante de (euro) 50000 por dia de atraso entre o 31.º e o 60.º dia de atraso, inclusive; d) Até (euro) 62500 a partir do 61.º dia de atraso. 6 - Caso a Concessionária não proceda ao pagamento voluntário das multas contratuais que lhe forem aplicadas, no prazo de 10 dias úteis a contar da sua fixação e notificação pelo Concedente, este poderá utilizar a caução para pagamento das mesmas. 7 - No caso de o montante da caução ser insuficiente para o cumprimento das multas, poderá o Concedente deduzir o respectivo montante dos pagamentos a efectuar por ele. 8 - Os valores das multas estabelecidas na presente base serão actualizados em Janeiro de cada ano de acordo com o IPC publicado para o ano anterior. 9 - A aplicação das presentes multas não prejudica a aplicação de outras sanções previstas em lei ou regulamento, nem isenta a Concessionária de responsabilidade civil, criminal e contra-ordenacional em que incorrer perante o Concedente ou terceiro. 10 - A aplicação das presentes multas também não prejudica a aplicação e pagamento das multas por níveis de sinistralidade elevados, previstas na base LI. Base LXXVI Força maior 1 - Consideram-se unicamente casos de força maior, os acontecimentos imprevisíveis e irresistíveis, cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da Concessionária. 2 - Constituem nomeadamente casos de força maior actos de guerra ou subversão, hostilidades ou invasão, tumultos, rebelião, terrorismo ou epidemias, radiações atómicas, fogo, raio, explosão, graves inundações, ciclones, tremores de terra e outros cataclismos naturais que directamente afectem as actividades compreendidas na Concessão. 3 - Consideram-se excluídos da previsão dos números anteriores os eventos naturais cujo impacto deva ser suportado pela Auto-Estrada, nos termos dos projectos aprovados, e dentro dos limites por estes previstos. 4 - Sem prejuízo do disposto no n.º 6, a ocorrência de um caso de força maior terá por efeito exonerar a Concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do Contrato de Concessão que sejam directamente por ele afectadas, na estrita medida em que o respectivo cumprimento pontual e atempado tenha sido efectivamente impedido e dará lugar à reposição do equilíbrio financeiro da Concessão, nos termos da base LXXXIV ou, caso a impossibilidade de cumprimento do Contrato de Concessão se torne definitiva, ou a reposição do equilíbrio financeiro da Concessão se revele excessivamente onerosa para o Concedente, à resolução do Contrato de Concessão. 5 - No caso de exoneração da Concessionária do cumprimento das obrigações decorrentes do Contrato de Concessão, por motivo de força maior, o Concedente deverá fixar, logo que possível, com razoabilidade, e após prévia audiência da Concessionária, o prazo pelo qual aquela exoneração se prolongará. 6 - Sempre que um caso de força maior corresponda, desde pelo menos seis meses antes da sua verificação, a um risco normalmente segurável em praças da União Europeia por apólices comercialmente aceitáveis, e independentemente de a Concessionária ter efectivamente contratado as respectivas apólices, verificar-se-á o seguinte: a) A Concessionária não ficará exonerada do cumprimento pontual e atempado das obrigações emergentes do Contrato de Concessão, na medida em que aquele cumprimento se tornasse possível em virtude do recebimento da indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa, nos prazos que, com razoabilidade, lhe forem, para este efeito, fixados pelo Concedente; b) Haverá lugar à reposição do equilíbrio financeiro, nos termos do disposto no n.º 8, apenas na medida do excesso dos prejuízos sofridos relativamente à indemnização aplicável nos termos da apólice comercialmente aceitável relativa ao risco em causa ou daquela que seria aplicável, independentemente das limitações resultantes de franquia, capital seguro ou limite de cobertura; c) Haverá lugar à resolução do Contrato de Concessão quando o cumprimento das obrigações emergentes do Contrato de Concessão seja definitivamente impossível, mesmo que tivesse sido recebida a indemnização a que se referem as alíneas anteriores ou quando a reposição do equilíbrio financeiro seja excessivamente onerosa para o Concedente. 7 - Ficam em qualquer caso excluídos da previsão do n.º 6, ainda que correspondam a riscos normalmente seguráveis em praças da União Europeia, os actos de guerra ou subversão, tumultos, hostilidade ou invasão, rebelião ou terrorismo e as radiações atómicas. 8 - Perante a ocorrência de um caso de força maior as Partes acordarão se haverá lugar à reposição do equilíbrio financeiro da Concessão ou à resolução do Contrato de Concessão, recorrendo-se, caso não seja alcançado o acordo quanto à opção e respectivas condições no prazo de 120 dias a contar da ocorrência de um caso de força maior, à arbitragem. 9 - Verificando-se a resolução do Contrato de Concessão nos termos da presente base, extinguir-se-ão as relações contratuais entre as Partes, e observar-se-á, nomeadamente, o seguinte: a) O Concedente assumirá os direitos e obrigações da Concessionária emergentes dos Contratos de Financiamento, excepto os relativos a incumprimentos verificados antes da ocorrência do caso de força maior; b) Quaisquer indemnizações pagáveis, em resultado de casos de força maior, ao abrigo de seguros em que o Concedente seja co-segurado, serão directamente pagas ao Concedente; c) Poderá o Concedente exigir da Concessionária que esta lhe ceda gratuitamente a posição contratual para si emergente dos contratos celebrados com terceiros e relativos à exploração das Áreas de Serviço, que, neste caso, subsistirão para além da resolução do Contrato de Concessão; d) Revertem para o Concedente todos os bens que integram a Concessão; e) Será a caução libertada a favor da Concessionária, excepto na medida em que esta possa e deva ser utilizada pelo Concedente em consequência de facto ocorrido antes do evento que esteve na origem da verificação de um caso de força maior; f) Ficará a Concessionária responsável pelos efeitos da cessação de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte. 10 - A Concessionária obriga-se a comunicar de imediato ao Concedente a ocorrência de qualquer evento qualificável como caso de força maior ao abrigo do disposto na presente base, bem como, no mais curto prazo possível, a indicar quais as obrigações emergentes do Contrato de Concessão cujo cumprimento, no seu entender, se encontra impedida ou dificultada por força de tal ocorrência e, bem assim, se for o caso, as medidas que pretende pôr em prática a fim de mitigar o impacto do referido evento e os respectivos custos, sem prejuízo de a Concessionária, em situações de reconhecida emergência, dever tomar, por qualquer meio razoável e apropriado ao seu dispor, as medidas destinadas a evitar o agravamento dos efeitos do caso de força maior. CAPÍTULO XVIII Extinção e suspensão da Concessão Base LXXVII Resgate 1 - Nos últimos cinco anos de vigência da Concessão, poderá o Concedente, sempre que o interesse público o justifique, proceder ao respectivo resgate a todo o tempo, mas nunca antes de decorrido um ano após a notificação à Concessionária da intenção de resgate. 2 - Com o resgate, o Concedente assumirá automaticamente todos os direitos e obrigações da Concessionária emergentes dos contratos outorgados anteriormente à notificação referida no número anterior que tenham por objecto a exploração e conservação da Auto-Estrada, incluindo os Contratos de Financiamento. 3 - As obrigações assumidas pela Concessionária por força de contratos por si celebrados após a notificação da intenção de resgate só serão assumidas pelo Concedente quando tais contratos tenham obtido, previamente, a autorização do MOPTH. 4 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão a que se refere o n.º 1 da base X, de uma quantia correspondente ao somatório dos reembolsos, remunerações e outros cash flow para accionistas previstos, mas ainda não pagos, para cada ano desse período, na última versão entregue ao Concedente das projecções referidas na alínea h) do n.º 1 da base XVI, a qual deverá estar consentânea com a evolução histórica da Concessionária e ser aceite pelo Concedente. Os montantes a pagar pelo Concedente serão deduzidos de eventuais obrigações da Concessionária vencidas e não cumpridas, ou cumpridas defeituosamente, à data do resgate. 5 - Caso não haja acordo entre as Partes, no decurso dos 90 dias seguintes à notificação prevista no n.º 1, sobre o valor das indemnizações a que se refere o n.º 4, este será determinado por uma comissão arbitral, composta por três peritos, um nomeado pela MEF e o MOPTH, outro pela Concessionária, e outro por acordo de ambas as Partes, ou, na sua falta, por escolha do presidente da Câmara dos Revisores Oficiais de Contas, que também nomeará o representante da Parte que o não tenha feito. 6 - Com o resgate, serão libertadas, um ano depois, a caução e as demais garantias a que se refere a base LXVII, mediante comunicação dirigida pelo Concedente aos respectivos depositários ou emitentes. Base LXXVIII Sequestro 1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização de obras e o desenvolvimento das actividades integradas na Concessão, ou a exploração dos serviços desta. 2 - O sequestro poderá ter lugar, nomeadamente, caso se verifique qualquer das seguintes situações, por motivos imputáveis à Concessionária: a) Cessação ou interrupção, total ou parcial, das obras ou da exploração dos serviços com consequências significativas para o interesse público ou para a integridade da Concessão; b) Deficiências graves na organização e regular desenvolvimento das actividades objecto da Concessão, ou no estado geral das instalações e equipamentos que comprometam a continuidade das obras, a sua integridade, a segurança de pessoas e bens, ou a regularidade da exploração ou dos pagamentos; c) Atrasos na construção da Auto-Estrada que ponham em risco o cumprimento do prazo estabelecido para a sua entrada em serviço e que não tenham sido resolvidos nos termos da base XXXIII; d) Violação de deveres e obrigações da Concessionária emergentes do Contrato de Concessão, que possa ser sanada pelo recurso ao sequestro. 3 - A Concessionária está obrigada à entrega do Empreendimento Concessionado no prazo que lhe for fixado pelo Concedente quando lhe for comunicada a decisão de sequestro da Concessão, passando a partir da data dessa entrega, e enquanto durar o sequestro, os pagamentos que lhe forem devidos nos termos do capítulo XII, com excepção dos já vencidos na mesma data, a ser efectuados à entidade que o Concedente haja designado para operar a Concessão. 4 - Verificando-se qualquer facto que possa dar lugar ao sequestro da Concessão, observar-se-á previamente, e com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 3 a 5 da base LXXIX. 5 - Durante o período de sequestro da Concessão, o Concedente aplicará os montantes dos pagamentos referidos no capítulo XII, em primeiro lugar para acorrer aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, e, em segundo lugar, para efectuar o serviço da dívida da Concessionária, decorrente dos Contratos de financiamento. 6 - Caso o montante dos pagamentos que seriam devidos à Concessionária, nos termos do capítulo XII, durante o período do sequestro não seja suficiente para fazer face aos encargos resultantes da manutenção dos serviços e às despesas necessárias ao restabelecimento do normal funcionamento da Concessão, ficará a Concessionária obrigada a suportar a diferença, podendo o Concedente recorrer à caução em caso de não pagamento pela Concessionária no prazo que razoavelmente lhe for fixado. 7 - Se o montante dos pagamentos referidos no capítulo XII durante o período do sequestro exceder o valor global dos custos, encargos e serviço da dívida, liquidados nos termos do n.º 5, o saldo será pago pelo Concedente à Concessionária na data em que terminar o sequestro. 8 - Logo que restabelecido o normal funcionamento da Concessão, a Concessionária será notificada para retomar a Concessão, no prazo que lhe for fixado pelo Concedente. 9 - A Concessionária poderá optar pela rescisão da Concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da Concessão, sendo então aplicável o disposto no n.º 9 da base LXXIX. Base LXXIX Rescisão 1 - O Concedente, sob proposta do MOPTH e ouvidos o IEP e a IGF, poderá pôr fim à Concessão através de rescisão do Contrato de Concessão, em casos de violação grave das obrigações da Concessionária decorrentes do Contrato de Concessão. 2 - Constituem, nomeadamente, causa de rescisão do Contrato de Concessão por parte do Concedente, nos termos e para os efeitos do disposto no número anterior, os seguintes factos e situações: a) Abandono da construção, conservação ou exploração da Concessão; b) A não entrada em serviço da totalidade da Auto-Estrada, até 31 de Dezembro de 2006, por facto imputável à Concessionária nos termos do Contrato de Concessão; c) Dissolução ou falência da Concessionária ou despacho de prosseguimento da acção em processo especial de recuperação de empresas ou de falência; d) Não cumprimento reiterado das obrigações que originaram a aplicação das sanções previstas na base LXXV; e) Recusa ou impossibilidade da Concessionária em retomar a Concessão nos termos do disposto no n.º 8 da base LXXVIII ou, quando o tiver feito, continuação das situações que motivaram o sequestro; f) Falta de prestação ou de reposição da caução nos termos e prazos previstos; g) Cedência, alienação, oneração ou trespasse da Concessão, no todo ou em parte, sem prévia autorização; h) Incumprimento voluntário de decisões judiciais ou arbitrais transitadas em julgado; i) Desobediência reiterada às determinações do IEP ou do Concedente, com prejuízo para a execução das obras ou para a exploração e conservação da Auto-Estrada; j) Actividade fraudulenta destinada a lesar o interesse público. 3 - Verificando-se um dos casos de incumprimento referidos no número anterior ou qualquer outro que, nos termos do disposto no n.º 1, possa motivar a rescisão da Concessão, o MOPTH notificará a Concessionária para, no prazo que razoavelmente lhe for fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus actos, excepto tratando-se de uma violação não sanável. 4 - Caso a Concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento, nos termos determinados pelo MOPTH, o Concedente poderá rescindir a Concessão mediante comunicação enviada à Concessionária, sem prejuízo do disposto no número seguinte. 5 - Caso o Concedente pretenda rescindir a Concessão nos termos do número anterior, deverá previamente notificar por escrito o Agente das Entidades Financiadoras nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão. 6 - Sem prejuízo do disposto no número anterior, a comunicação da decisão da rescisão referida no n.º 4 produz efeitos imediatos, independentemente de qualquer outra formalidade. 7 - Sem prejuízo da notificação por escrito ao Agente das Entidades Financiadoras, nos termos e para os efeitos do estabelecido em anexo ao Contrato de Concessão, em casos de fundamentada urgência que não se compadeça com as delongas no processo de sanação do incumprimento regulado no n.º 3, o Concedente poderá, sem prejuízo da observância daquele processo, proceder de imediato ao sequestro da Concessão nos termos definidos na base LXXVIII. 8 - A rescisão do Contrato de Concessão não preclude a obrigação de indemnização que for aplicável por lei, devendo o montante desta ser calculado nos termos gerais de direito e podendo o Concedente recorrer à caução caso o mesmo não seja pago voluntariamente pela Concessionária. 9 - Ocorrendo rescisão do Contrato de Concessão pela Concessionária por motivo imputável ao Concedente, este deverá indemnizar a Concessionária nos termos gerais de direito e será responsável pela assunção de todas as obrigações da Concessionária emergentes dos Contratos de Financiamento, com excepção das relativas a incumprimentos verificados antes da ocorrência do motivo da rescisão. Base LXXX Caducidade 1 - O Contrato de Concessão caduca quando se verificar o fim do prazo da Concessão, extinguindo-se as relações contratuais existentes entre as Partes. 2 - Verificando-se a caducidade do Contrato de Concessão, a Concessionária será inteiramente responsável pela cessação dos efeitos de quaisquer contratos (incluindo os Contratos do Projecto) de que seja parte, sem prejuízo do disposto no n.º 2 da base XLIII. Base LXXXI Domínio público do Estado e reversão de bens 1 - No Termo da Concessão, revertem gratuita e automaticamente para o Concedente todos os bens que integram a Concessão nos termos do n.º 1 da base VII, obrigando-se a Concessionária a entregá-los em bom estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do Contrato de Concessão, e livres de quaisquer ónus ou encargos. 2 - Caso a Concessionária não dê cumprimento ao disposto no número anterior, o IEP promoverá a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respectivos custos pela Concessionária e podendo ser utilizada a caução para os liquidar, no caso de não ocorrer pagamento voluntário e atempado dos montantes despendidos pelo IEP. 3 - No fim do prazo da Concessão cessam para a Concessionária todos os direitos emergentes destas bases, sendo entregues ao Concedente todos os bens que constituem o Estabelecimento da Concessão, em estado que satisfaça as seguintes condições: [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/198a00/60946126.pdf) Todos os bens não contemplados no quadro anterior deverão ser entregues em estado que garanta 50% da vida útil de cada um dos seus componentes. 4 - Se, no decurso dos cinco últimos anos da Concessão, se verificar que a Concessionária não se mostra capaz de cumprir plenamente a obrigação referida no n.º 3 e se a caução não for suficiente para cobrir as despesas a realizar, terá o Concedente o direito de se compensar pelos custos previsíveis mediante a dedução, até um valor máximo de 40%, dos pagamentos de Portagem SCUT relativos a esses cinco anos, até ao montante necessário para levar a efeito os trabalhos e as aquisições tidos por convenientes, desde que a Concessionária não preste garantia bancária emitida em termos aceites pelo Concedente, do valor adequado à cobertura do referido montante. 5 - Se, a 15 meses do Termo da Concessão se verificar, mediante inspecção a realizar pelo IEP, a pedido da Concessionária, que as condições descritas no n.º 3 se encontram devidamente salvaguardadas, as retenções de Portagens SCUT efectuadas ao abrigo do número anterior serão pagas à Concessionária acrescidas de juros à taxa EURIBOR para o prazo de três meses. Caso as referidas retenções tenham sido substituídas por garantia bancária prestada pela Concessionária nos termos previstos no n.º 4, o Concedente reembolsará à Concessionária o custo comprovado dessa garantia bancária. 6 - No Termo da Concessão, o Concedente procederá a uma vistoria dos bens referidos no n.º 1 da base VII, na qual participarão representantes das Partes, destinada à verificação do estado de conservação e manutenção daqueles bens, devendo ser lavrado o respectivo auto. CAPÍTULO XIX Condição financeira da Concessionária Base LXXXII Assunção de riscos 1 - A Concessionária assume expressamente integral e exclusiva responsabilidade por todos os riscos inerentes à Concessão, excepto se o contrário resultar do Contrato de Concessão. 2 - Sem prejuízo do disposto no número seguinte, a Concessionária assume integralmente o risco de tráfego inerente à exploração da Auto-Estrada, neste se incluindo o risco emergente de qualquer causa que possa dar origem à redução de tráfego ou à transferência de tráfego da Auto-Estrada para outros meios de transporte ou outras vias da rede nacional. 3 - A assunção do risco de tráfego referenciado no número anterior tem apenas lugar no pressuposto de que as Vias Rodoviárias Concorrentes da Concessão são apenas as constantes do Plano Rodoviário Nacional, tal como aprovado pelo Decreto-Lei n.º 222/98, de 17 de Julho, e alterado pela Lei n.º 98/99, de 26 de Julho. 4 - O Concedente compromete-se a não conferir às vias rodoviárias referidas no n.º 3 nível de serviço superior ao estabelecido no n.º 5. 5 - Conforme estabelecido no PRN 2000, as estradas da rede fundamental (Itinerários Principais) deverão ser planeadas de forma a assegurar nível de serviço B e as da rede complementar (Itinerários Complementares e Estradas Nacionais) o nível de serviço C, cuja determinação será feita pela metodologia constante do Highway Capacity Manual (Special Report 209 - TRB). 6 - Excluem-se do âmbito da presente base as variantes urbanas e as estradas municipais não constantes do PRN 2000. 7 - O incumprimento pelo Concedente da obrigação assumida nos números anteriores ou a criação, por parte do Concedente, de Vias Rodoviárias Concorrentes não previstas no PRN 2000 de que comprovadamente resulte prejuízo substancial para a Concessionária, conferir-lhe-á o direito à reposição do equilíbrio financeiro, nos termos da base LXXXIV. Base LXXXIII Caso Base 1 - As Partes acordam que o Caso Base constante de anexo ao Contrato de Concessão representa a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos estabelecidos na base LXXXIV. 2 - O Caso Base apenas poderá ser alterado quando haja lugar, nos termos da base seguinte, à reposição do equilíbrio financeiro da Concessão, e exclusivamente para reflectir a reposição efectuada. Base LXXXIV Reposição do equilíbrio financeiro 1 - Tendo em atenção a distribuição de riscos estipulada no Contrato de Concessão, a Concessionária terá direito à reposição do equilíbrio financeiro da Concessão, nos termos dispostos nesta base, nos seguintes casos: a) Modificação unilateral, imposta pelo Concedente, das condições de desenvolvimento das actividades integradas na Concessão, desde que, em resultado directo da mesma, se verifique, para a Concessionária, um aumento de custos ou uma perda de receitas; b) Ocorrência de casos de força maior nos termos da base LXXVI, excepto se, em resultado dos mesmos, se verificar a resolução do Contrato de Concessão nos termos do n.º 4 e da alínea c) do n.º 6 da mesma base; c) Alterações legislativas de carácter específico que tenham um impacto directo sobre as receitas ou custos respeitantes às actividades integradas na Concessão; d) Quando o direito de aceder à reposição do equilíbrio financeiro é expressamente previsto no Contrato de Concessão. 2 - As alterações à lei geral, designadamente à lei fiscal e à lei ambiental, ficam expressamente excluídas da previsão da alínea c) do número anterior. 3 - As Partes acordam que, sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será, sem prejuízo do disposto no número seguinte, efectuada de acordo com o que, de boa-fé, for estabelecido entre o Concedente (através de representantes da MEF e do MOPTH) e a Concessionária, em negociações que deverão iniciar-se logo que solicitadas pela Concessionária. 4 - Decorridos 60 dias sobre a solicitação de início de negociações sem que as Partes cheguem a acordo sobre os termos em que a reposição do equilíbrio financeiro deve ocorrer, aquela reposição terá lugar, com referência ao Caso Base, com as alterações que este tiver sofrido ao abrigo do n.º 2 da base LXXXIII, e será efectuada pela reposição, por opção da Concessionária, de dois dos três seguintes Critérios Chave: a) Em conjunto, o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa e o valor mínimo do Rácio de Cobertura Anual do Serviço da Dívida Sénior sem caixa; b) Valor mínimo do Rácio de Cobertura da Vida do Empréstimo; c) TIR para os accionistas, em termos anuais nominais, para todo o prazo da Concessão. 5 - Os três valores referidos no número anterior são os que constam de anexo ao Contrato de Concessão e não poderão ser modificados, independentemente de qualquer alteração ao Caso Base. Na reposição do equilíbrio financeiro com recurso ao Critério Chave TIR accionista, aquela deverá ser feita tendo em atenção o calendário de reembolsos e de remuneração accionista constante do Caso Base. 6 - A reposição do equilíbrio financeiro da Concessão nos termos da presente base apenas deverá ter lugar na medida em que, como consequência do impacto individual ou cumulativo dos eventos referidos no n.º 1, se verifique: a) A redução em mais de 0,01 pontos do Rácio de Cobertura Anual do Serviço da Dívida Sénior com caixa ou do Rácio de Cobertura da Vida do Empréstimo; ou b) A redução da Taxa Interna de Rendibilidade anual nominal para os accionistas da Concessionária em mais de 0,01 pontos percentuais. 7 - Sempre que haja lugar à reposição do equilíbrio financeiro da Concessão, tal reposição poderá ter lugar, por acordo entre as Partes, através de uma das seguintes modalidades: a) Renegociação das tarifas de portagem e Bandas de tráfego; b) Atribuição de compensação directa pelo Concedente; c) Qualquer outra forma que seja acordada pelas Partes. 8 - Caso, durante o Período Inicial da Concessão, se verifique qualquer dos eventos previstos no n.º 1, a reposição do equilíbrio financeiro da Concessão terá lugar através da atribuição de compensação directa pelo Concedente, salvo acordo diverso entre Concessionária e Concedente. 9 - As Partes acordam que a reposição do equilíbrio financeiro da Concessão efectuada nos termos da presente base será, relativamente ao evento que lhe deu origem, única, completa, suficiente e final para todo o período da Concessão, salvo acordo diverso das Partes. 10 - Para os efeitos previstos na presente base, a Concessionária deverá notificar o Concedente da ocorrência de qualquer evento que, individual ou cumulativamente, possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua verificação. CAPÍTULO XX Direitos de propriedade industrial e intelectual Base LXXXV Direitos de propriedade industrial e intelectual 1 - A Concessionária cede gratuitamente ao Concedente todos os projectos, planos, plantas, documentos e outros materiais, de qualquer natureza, que se revelem necessários ou úteis ao desempenho das funções que a este incumbem nos termos do Contrato de Concessão, ou ao exercício dos direitos que lhe assistem nos termos do mesmo, e que tenham sido adquiridos ou criados no desenvolvimento das actividades integradas na Concessão, seja directamente pela Concessionária, seja pelos terceiros que para o efeito subcontratar. 2 - Os direitos de propriedade intelectual sobre os estudos e projectos elaborados para os fins específicos das actividades integradas na Concessão e bem assim os projectos, planos, plantas, documentos e outros materiais referidos no número anterior serão transmitidos gratuitamente e em regime de exclusividade ao Concedente no Termo da Concessão, competindo à Concessionária adoptar todas as medidas para o efeito necessárias. CAPÍTULO XXI Vigência da Concessão Base LXXXVI Entrada em vigor O Contrato de Concessão entrará em vigor às 24 horas do dia da sua assinatura pelas Partes, contando-se a partir dessa data o prazo de duração da Concessão. CAPÍTULO XXII Disposições diversas Base LXXXVII Custos e encargos da Concessionária A Concessionária reembolsará o IEP no prazo de 30 dias após a assinatura do Contrato de Concessão dos encargos suportados na preparação, lançamento e conclusão do concurso e que ascendem a (euro) 602550. CAPÍTULO XXIII Resolução de diferendos Base LXXXVIII Processo de arbitragem 1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidos por arbitragem. 2 - A submissão de qualquer questão a arbitragem não exonera as Partes do pontual e atempado cumprimento das disposições do Contrato de Concessão e das determinações do Concedente que no seu âmbito lhe sejam comunicadas, nem permite qualquer interrupção do desenvolvimento das actividades integradas na Concessão, que deverão continuar a processar-se nos termos em vigor à data de submissão da questão até que uma decisão final seja obtida relativamente à matéria em causa. 3 - O disposto no número anterior relativamente ao cumprimento de determinações do Concedente pela Concessionária aplicar-se-á também a determinações consequentes sobre a mesma matéria, mesmo que emitidas após a data de submissão de uma questão a arbitragem, desde que a primeira dessas determinações consequentes tenha sido comunicada à Concessionária anteriormente àquela data. 4 - A Concessionária obriga-se a dar imediato conhecimento ao Concedente da ocorrência de qualquer diferendo ou litígio com as contrapartes dos Contratos do Projecto e a prestar-lhe toda a informação relevante relativa à evolução dos mesmos. Base LXXXIX Tribunal Arbitral 1 - O Tribunal Arbitral será composto por três membros, um nomeado por cada Parte e o terceiro escolhido de comum acordo pelos árbitros que as Partes tiverem designado. 2 - A Parte que decida submeter determinado diferendo ao Tribunal Arbitral apresentará os seus fundamentos para a referida submissão e designará de imediato o árbitro da sua nomeação, no requerimento de constituição do Tribunal Arbitral que dirija à outra Parte através de carta registada com aviso de recepção, devendo esta, no prazo de 20 dias úteis a contar da recepção daquele requerimento, designar o árbitro de sua nomeação e deduzir a sua defesa. 3 - Ambos os árbitros designados nos termos do número anterior da presente base designarão o terceiro árbitro do Tribunal no prazo de 10 dias úteis a contar da designação do segundo árbitro do Tribunal, cabendo ao Presidente do Tribunal Central Administrativo, que também nomeará o representante de qualquer das Partes, caso estas o não tenham feito, esta designação, caso a mesma não ocorra dentro deste prazo. 4 - O Tribunal Arbitral considera-se constituído na data em que o terceiro árbitro aceitar a sua nomeação e o comunicar a ambas as Partes. 5 - O Tribunal Arbitral poderá ser assistido pelos peritos técnicos e consultores que considere conveniente designar. 6 - O Tribunal Arbitral, salvo acordo em contrário das Partes, julgará segundo o Direito constituído e das suas decisões não cabe recurso. 7 - As decisões do Tribunal Arbitral deverão ser proferidas no prazo máximo de seis meses a contar da data de constituição do Tribunal determinada nos termos da presente base, configurarão a decisão final de arbitragem relativamente às matérias em causa e incluirão a fixação das custas do processo e a forma da sua repartição pelas Partes. 8 - O Tribunal Arbitral terá sede em Lisboa em local da sua escolha e utilizará a língua portuguesa. 9 - A arbitragem decorrerá em Lisboa, funcionando o Tribunal de acordo com as regras fixadas no Contrato de Concessão, com as regras estabelecidas pelo próprio Tribunal Arbitral e ainda, subsidiariamente, pelo disposto na Lei n.º 31/86, de 29 de Agosto.

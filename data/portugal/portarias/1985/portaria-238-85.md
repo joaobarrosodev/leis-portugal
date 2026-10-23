@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/238-1985-324348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 149dc9f008326e86c822ede95bcafb50c9248cf5c1beef3be5069b7f0d28d1e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afdac79dfd31fdacd19397ee049791911734c69f8a33e6d1e68c029c90719cbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Regulamento
+- Secretaria de Estado dos Negócios Estrangeiros
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:37Z'
   warnings: []
   errors: []
 ---
@@ -109,25 +118,25 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeir
 
 Presidência do Conselho de Ministros e Ministério dos Negócios Estrangeiros.
 
-**Assinada em 12 de Abril de 1985.**
+Assinada em 12 de Abril de 1985.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Regulamento de Classificação de Serviço do Pessoal Técnico Superior não Diplomático, Técnico, Técnico-Profissional e Administrativo e Operário e Auxiliar da Secretaria de Estado dos Negócios Estrangeiros.
 
-###### Artigo 1.º O pessoal técnico superior não diplomático, técnico, técnico-profissional e administrativo e operário e auxiliar da Secretaria de Estado dos Negócios Estrangeiros será objecto de classificação de serviço, que terá por base as fichas de notação do modelo aprovado pelo Regulamento de Classificação de Serviço na Função Pública.
+Artigo 1.º O pessoal técnico superior não diplomático, técnico, técnico-profissional e administrativo e operário e auxiliar da Secretaria de Estado dos Negócios Estrangeiros será objecto de classificação de serviço, que terá por base as fichas de notação do modelo aprovado pelo Regulamento de Classificação de Serviço na Função Pública.
 
-###### Art. 2.º As fichas de notação serão preenchidas até 20 de Janeiro de cada ano, sempre que possível por 2 notadores, e devem ser enviadas ao chefe da Repartição do Pessoal, em envelope fechado, com a indicação de confidencial, até 10 de Fevereiro.
+Art. 2.º As fichas de notação serão preenchidas até 20 de Janeiro de cada ano, sempre que possível por 2 notadores, e devem ser enviadas ao chefe da Repartição do Pessoal, em envelope fechado, com a indicação de confidencial, até 10 de Fevereiro.
 
-###### Art. 3.º Quando houver transferência de notado ou de notador, o preenchimento da ficha e o seu envio ao chefe da Repartição do Pessoal deverão verificar-se até ao termo das respectivas funções, salvaguardando-se sempre os prazos de reclamação e de resposta à reclamação referidos no artigo 5.º
+Art. 3.º Quando houver transferência de notado ou de notador, o preenchimento da ficha e o seu envio ao chefe da Repartição do Pessoal deverão verificar-se até ao termo das respectivas funções, salvaguardando-se sempre os prazos de reclamação e de resposta à reclamação referidos no artigo 5.º
 
-###### Art. 4.º - 1 - As fichas de notação serão preenchidas pelos chefes das missões diplomáticas e dos postos consulares ou dos serviços da Secretaria de Estado em que cada funcionário ou agente tiver estado colocado durante o período de tempo a que a informação respeitar, após o preenchimento pelo notado das rubricas sobre actividades relevantes e funções exercidas.
+Art. 4.º - 1 - As fichas de notação serão preenchidas pelos chefes das missões diplomáticas e dos postos consulares ou dos serviços da Secretaria de Estado em que cada funcionário ou agente tiver estado colocado durante o período de tempo a que a informação respeitar, após o preenchimento pelo notado das rubricas sobre actividades relevantes e funções exercidas.
 
 2 - Os chefes das missões diplomáticas e dos postos consulares, tendo em consideração o disposto no artigo 20.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho, poderão escusar-se a preencher as fichas de notação, devendo nesse caso fundamentar os motivos por que não podem fazê-lo com o necessário rigor.
 
 3 - Quando não for possível a elaboração da ficha de notação, a falta desta será suprida por adequada ponderação do currículo profissional.
 
-###### Art. 5.º - 1 - Antes de serem entregues ou enviadas ao chefe da Repartição do Pessoal, as fichas de notação deverão ser dadas a conhecer em entrevista individual aos interessados, os quais, caso não tenham comentários a fazer-lhes, o deverão declarar ao assiná-las.
+Art. 5.º - 1 - Antes de serem entregues ou enviadas ao chefe da Repartição do Pessoal, as fichas de notação deverão ser dadas a conhecer em entrevista individual aos interessados, os quais, caso não tenham comentários a fazer-lhes, o deverão declarar ao assiná-las.
 
 2 - Os notados que julguem ter sido avaliados de modo inexacto ou injusto poderão, no prazo de 5 dias úteis a contar da data em que a ficha tiver chegado ao seu conhecimento, apresentar por escrito os comentários e esclarecimentos que a mesma lhes suscitar, com indicação dos motivos que em seu entender justificam a revisão da classificação atribuída.
 
@@ -135,7 +144,7 @@ Regulamento de Classificação de Serviço do Pessoal Técnico Superior não Dip
 
 4 - Os eventuais comentários dos notados, bem com a decisão dos avaliadores, deverão ser anexados à ficha de notação a que se refiram e com esta transmitidos ao chefe da Repartição do Pessoal.
 
-###### Art. 6.º - 1 - É criada a comissão permanente de classificação, constituída pelos seguintes elementos:
+Art. 6.º - 1 - É criada a comissão permanente de classificação, constituída pelos seguintes elementos:
 
 a) 1 funcionário diplomático, a designar pelo secretário-geral, com categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe, o qual presidirá;
 
@@ -149,20 +158,20 @@ e) 1 funcionário administrativo designado pelo secretário-geral, sem direito a
 
 2 - Os membros da comissão permanente de classificação referidos nas alíneas c) e d) do n.º 1 participam apenas nas reuniões em que sejam apreciadas as classificações de serviço dos notados do correspondente grupo de pessoal.
 
-###### Art. 7.º - 1 - A comissão permanente de classificação julgará, até ao termo do mês de Abril, com base nas fichas de notação referidas nos artigos anteriores, os méritos profissionais dos notados, classificando-os de Muito bom (9 e 10), Bom (6, 7 e 8), Regular (4 e 5) ou Não satisfatório (inferior a 4).
+Art. 7.º - 1 - A comissão permanente de classificação julgará, até ao termo do mês de Abril, com base nas fichas de notação referidas nos artigos anteriores, os méritos profissionais dos notados, classificando-os de Muito bom (9 e 10), Bom (6, 7 e 8), Regular (4 e 5) ou Não satisfatório (inferior a 4).
 
 2 - Para além dos elementos de avaliação constantes ou anexos à ficha de notação, a comissão permanente de classificação poderá ter em conta e menciona outros elementos complementares fidedignos relativos aos méritos dos notados e alterar em conformidade a classificação resultante da ficha de notação, fundamentando esta alteração.
 
 3 - Se uma ficha de notação suscitar quaisquer dúvidas ou se afastar de modo significativo de outras informações ou classificações relativas ao notado, a comissão deverá solicitar a quem a preencheu os esclarecimentos que entender convenientes e decidir de modo fundamentado sobre a classificação final.
 
-###### Art. 8.º - 1 - Cada notado terá direito ao conhecimento da sua classificação anual, e dela poderá recorrer hierarquicamente no prazo de 10 dias úteis contados da data do conhecimento desta.
+Art. 8.º - 1 - Cada notado terá direito ao conhecimento da sua classificação anual, e dela poderá recorrer hierarquicamente no prazo de 10 dias úteis contados da data do conhecimento desta.
 
 2 - Para o pessoal colocado no estrangeiro, a interposição do recurso considera-se feita na data da sua expedição para a Secretaria de Estado.
 
 3 - O Ministro proferirá a sua decisão no prazo de 15 dias contados da data da entrada do recurso na Secretaria de Estado.
 
-###### Art. 9.º - 1 - O processo de classificação tem carácter confidencial, devendo todas as informações individuais de serviço e demais documentos que sirvam de base à classificação dos notados ser arquivados nos respectivos processos pessoais, à guarda do chefe da Repartição do Pessoal, que autorizará a sua consulta pelos próprios interessados sempre que estes lha solicitarem por escrito.
+Art. 9.º - 1 - O processo de classificação tem carácter confidencial, devendo todas as informações individuais de serviço e demais documentos que sirvam de base à classificação dos notados ser arquivados nos respectivos processos pessoais, à guarda do chefe da Repartição do Pessoal, que autorizará a sua consulta pelos próprios interessados sempre que estes lha solicitarem por escrito.
 
 2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo sobre esta matéria.
 
-###### Art. 10.º Enquanto certos grupos de pessoal não estiverem representados no Conselho do Ministério, os seus representantes para efeitos da aplicação da alínea d) do n.º 1 do artigo 6.º serão eleitos directamente pelos notados de cada um desses grupos.
+Art. 10.º Enquanto certos grupos de pessoal não estiverem representados no Conselho do Ministério, os seus representantes para efeitos da aplicação da alínea d) do n.º 1 do artigo 6.º serão eleitos directamente pelos notados de cada um desses grupos.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/184/1991/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/184-1991-403705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7737a89254c0bf3eb2ae7660c483817d1d7dc37a824e4e889ebac202dfbea7cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92fc7db92b2b25ecb12e396d0a93627293a657e836c18d92f09cc5ccd5048dfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,44 @@ relationships:
   target: pt:dre:344426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356565:por
+  label: "Alterados n.ºs 8.1.1, 8.1.2, 8.1.3, 8.1.4, 8.1.5, 8.1.6 e 8.1.7 do Despacho Normativo 77/88, de 3 de Setembro, na\
+    \ redacção do presente diploma, pelo DN.185/93.06.08.1993.ME, DR.IS-B [183] de 06.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/185-1993-356565
+  date: '1993-08-06'
+- type: amended_by
+  target: pt:dre:344426:por
+  label: "Alterados os nºs 10.2 e 10.5 do DN 77/88 de 03-Set do ME na redacção dada pelo presente diploma e pelos DN 185/93\
+    \ de 27-Jul e 64-A/98 de 31-Ago), pelo DN.4/2001.2000.12.22.ME, DR.IS-B [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2001-344426
+  date: '2000-12-22'
+- type: cites
+  target: pt:dre:370214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549390:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:20Z'
   warnings: []
   errors: []
 ---

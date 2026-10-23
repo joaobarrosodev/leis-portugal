@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20000/0886608870.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/2015/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2015-70641446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a01de931a7a37c113414c27537b4c4f4359dea1ba41270578a134f6a4f99e423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f48288a4fdb1a4bd912cbd200128ed0545aaf8f588590104b32d680ef4517aad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Pessoal Dirigente
-- Definição de Competências
-- Conselho Diretivo
 - Conselho Consultivo
+- Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
 - Instituto Público
 - Orgânica
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre o Instituto dos Mercados Públicos, do Imobiliário e da Construção,
+    I.P. seja exercida pelo Ministro do Planeamento e das Infraestruturas pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República
+    n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro das Infraestruturas e da Habitação da superintendência e tutela sobre o Instituto
+    dos Mercados Públicos, do Imobiliário e da Construção, I.P., cuja orgânica consta do presente diploma, pelo(a) Decreto-Lei
+    n.º 31/2019 - Diário da República n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre o Instituto dos Mercados Públicos, do
+    Imobiliário e da Construção, I.P., com orgânica aprovada pelo presente diploma, seja exercida pelo Ministro das Infraestruturas
+    e da Habitação pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a partir de 30.03.2022, o exercício da superintendência e tutela pelo Ministro das Infraestruturas
+    e da Habitação sobre o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. (IMPIC, I.P.) pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:206618939:por
+  label: Determinado o exercício da superintendência e tutela pela Ministra da Habitação sobre o Instituto dos Mercados Públicos,
+    do Imobiliário e da Construção, I. P. pelo(a) Decreto-Lei n.º 7/2023 - Diário da República n.º 20/2023, Série I de 2023-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2023-206618939
+  date: '2023-01-27'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro das Infraestruturas e Habitação, em
+    coordenação com a Ministra da Administração Interna a superintendência e tutela sobre o Instituto dos Mercados Públicos,
+    do Imobiliário e da Construção, I. P. pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro das Infraestruturas e Habitação, a
+    superintendência e tutela sobre o Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P. pelo(a) Decreto-Lei
+    n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2014/01/22/p/dre
   label: null
@@ -90,16 +138,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:179504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:56Z'
   warnings: []
   errors: []
 ---
@@ -436,12 +496,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Manuel Castro Almeida - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 1 de outubro de 2015.**
+Promulgado em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de outubro de 2015.**
+Referendado em 5 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

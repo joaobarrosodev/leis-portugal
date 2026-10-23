@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/765/1994/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/765-1994-546779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T08:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9089b2670abd3dbcd620d5934b36d2e85e2b7cbc6357fac84cffeb45493adafd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12b90a7a67bbf519f966d75e9346531e3abbbf9151624f3cdaad6cb3c532a97d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
 subjects:
 - Ensino Superior Politécnico
 - Estatuto
-- Instituto Politécnico
 - Guarda
+- Instituto Politécnico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 63
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:26:47Z'
   warnings: []
   errors: []
 ---
@@ -1012,7 +1020,7 @@ b) Os quadros de pessoal não docente do Instituto integram um quadro único, se
 
 ###### Artigo 61.º — Cessação de funções
 
-**O presidente da comissão instaladora do Instituto cessa funções com a tomada de posse do primeiro presidente eleito.**
+O presidente da comissão instaladora do Instituto cessa funções com a tomada de posse do primeiro presidente eleito.
 
 ###### Artigo 62.º — Final do regime de instalação
 
@@ -1032,7 +1040,7 @@ As dúvidas suscitadas na aplicação dos presentes Estatutos serão, para efeit
 
 Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no Diário da República.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf)
 
 O símbolo do Instituto Politécnico da Guarda é de forma circular, dado ser o círculo entendido como uma forma harmoniosa. Simbologia que pretende consubstanciar o contributo deste estabelecimento de ensino superior politécnico no desenvolvimento regional, de forma precisa e harmoniosa.
 
@@ -1042,4 +1050,4 @@ Como figura central, o símbolo do IPG integra uma águia, simbolizando as altur
 
 No prolongamento da asa da águia surge uma serra, com neve em forma de estrela, o que reforça a ideia de ligação a esta zona geográfica, sugerindo o espaço geográfico beirão, numa identidade própria associada à Guarda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf))](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/11/273b00/69736982.pdf)

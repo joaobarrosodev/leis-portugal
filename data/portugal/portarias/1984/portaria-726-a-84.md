@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 216/1984, 1º Suplemento, Série I de 1984-09-17
   number: '216'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2876-(1) a 2876-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/21601/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1984-506216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T08:11:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1ec6fb5e04595d0728fc6016d3552097a5aff13a5046561500a5d6ea295ce83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbfa7c539f6b08c710bbcabbc7ad2bc7c1f36f59a74d33cd3e327dad1d0d8e8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:11:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade Bancária
+- Banco de Investimento
+- Porto
+- Sociedade Portuguesa de Investimentos
+relationships:
+- type: cites
+  target: pt:dre:660692:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:11:46Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +117,6 @@ c) Certidão de escritura notarial de alteração do pacto social que formalize 
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano.
 
-**Assinada em 14 de Setembro de 1984.**
+Assinada em 14 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.**
+O Primeiro-Ministro, Mário Soares. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1990-575139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8e28c3b750ea51274aa2d91c971d303e0d07e2c011ee473a8b0a2c2f1881e64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1af127480418c47dde49d0c6ef6ec9c370048d9c3287e7596e0f5424cad3839b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete de Estudos e Planeamento
+- Integração de Trabalhadores
+- Ministério da Indústria e Energia
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:3304354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484441:por
+  label: "Alterado o Quadro de Pessoal do Gabinete de Estudos e Planeamento da Indústria e Energia, constante do mapa I anexo\
+    \ ao presente diploma, pelo DN.51/91.27.02.1991.SEO-MF, DR.IS-B [[48]] de 27.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/51-1991-484441
+  date: '1991-02-27'
+- type: amended_by
+  target: pt:dre:459611:por
+  label: "Alterado, relativamente ao pessoal técnico, o quadro de pessoal constante do mapa I pela PORT.371-A/91.30.04.1991.MF,\
+    \ DR.IS-B [99-3º Supl] de 30.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-a-1991-459611
+  date: '1991-04-30'
+- type: amended_by
+  target: pt:dre:168625:por
+  label: "Substituído, no referente ao grupo de pessoal de informática, o quadro de pessoal do Gabinete de Estudos e Planeamento,\
+    \ constante do mapa I anexo pela PORT.142/92.05.03.1992.MF, DR.IS-B [54] de 05.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1992-168625
+  date: '1992-03-05'
+- type: amended_by
+  target: pt:dre:537401:por
+  label: "Alterado o quadro de pessoal pelo DN.427/93.15.12.1993.MF, DR.IS-B [291] de 15.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/427-1993-537401
+  date: '1993-12-15'
+- type: amended_by
+  target: pt:dre:532603:por
+  label: "Alterado o quadro de pessoal pelo DN.8/94.08.01.1994.MF, DR.IS-B [6] de 08.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/8-1994-532603
+  date: '1994-01-08'
+- type: amended_by
+  target: pt:dre:498508:por
+  label: "Alterado o quadro de pessoal pelo DN.49/94.28.01.1994.MF, DR.IS-B [23] de 28.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-1994-498508
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:563058:por
+  label: "Alterado o art. 3.º pelo DR.25/95.1995.09.13.MF DR.IS-B [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1995-563058
+  date: '1995-09-13'
+- type: amended_by
+  target: pt:dre:199846:por
+  label: "Extinto o Gabinete de Estudos e Planeamento do MIE pelo DEC LEI.222/96.25.11.1996.MECO, DR.IS-A [273] de 25.11.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1996-199846
+  date: '1996-11-25'
+- type: amended_by
+  target: pt:dre:3388835:por
+  label: "Alterado o quadro de pessoal pela PORT.126/97IIS.1997.03.21.PCM, DR.IIS [83] de 1997.04.09\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-1997-3388835
+  date: '1997-03-21'
+- type: amended_by
+  target: pt:dre:1877867:por
+  label: "Alterado o quadro de pessoal pela PORT.1083/97(2ªSÉRIE).1997.11.21.PCM, MF E MECO DR.IIS [301] DE 31/DEZ/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1083-1997-1877867
+  date: '1997-11-21'
+- type: amended_by
+  target: pt:dre:779585:por
+  label: "Alterado o quadro de pessoal pelo DC.512/98.1998.07.10.PCM, DR.IIS [175] de 31/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/512-1998-779585
+  date: '1998-07-10'
+- type: amended_by
+  target: pt:dre:2811060:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pela PORT.722/99(2ªSÉRIE).1999.05.14.PCM,\
+    \ DR.IIS [167] de 20/Jul/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/722-1999-2811060
+  date: '1999-05-14'
+- type: amended_by
+  target: pt:dre:323958:por
+  label: "Determinada a sucessão pelo Gabinete de Estudos e Prospectiva Económica nos direitos e obrigações constituídos na\
+    \ esfera jurídica do ex-Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia, bem como nos respectivos\
+    \ patrimónios, e remetidas para o GEPE todas as referências feitas na lei ou em negócio jurídico ao extinto organismo,\
+    \ cuja orgânica consta deste diploma, que é revogado pelo DR.6/99.1999.05.19.MECO,DR.IS-B [116], sem prejuízo do disposto\
+    \ nos seus arts. 20.º e 21.º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-1999-323958
+  date: '1999-05-19'
+- type: amended_by
+  target: pt:dre:3304354:por
+  label: "Alterado o quadro de pessoal pela PORT.1534/2001(2ªSÉRIE).2001.08.24.MECO DR.IIS [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1534-2001-3304354
+  date: '2001-08-24'
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620758:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:32Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +267,9 @@ a) A Divisão de Estudos;
 
 b) A Divisão de Estatística.
 
-###### Artigo 7.º — Divisão de Estudos
+###### Artigo 7.º
+
+##### Divisão de Estudos
 
 À Divisão de Estudos compete:
 
@@ -180,7 +283,9 @@ d) Acompanhar e estudar as perspectivas de evolução económica nacional e inte
 
 e) Identificar áreas de investimento que se harmonizem com os objectivos e estratégias sectoriais de desenvolvimento.
 
-###### Artigo 8.º — Divisão de Estatística
+###### Artigo 8.º
+
+##### Divisão de Estatística
 
 À Divisão de Estatística compete:
 
@@ -202,7 +307,9 @@ a) A Divisão de Planeamento;
 
 b) A Divisão de Acompanhamento e Avaliação.
 
-###### Artigo 10.º — Divisão de Planeamento
+###### Artigo 10.º
+
+##### Divisão de Planeamento
 
 À Divisão de Planeamento compete:
 
@@ -216,7 +323,9 @@ d) Coordenar a elaboração dos planos anuais de investimento do âmbito do Mini
 
 e) Assegurar a ligação do Ministério às entidades da Orgânica Nacional de Planeamento.
 
-###### Artigo 11.º — Divisão de Acompanhamento e Avaliação
+###### Artigo 11.º
+
+##### Divisão de Acompanhamento e Avaliação
 
 À Divisão de Acompanhamento e Avaliação compete, em articulação com os órgãos técnicos centrais de planeamento:
 
@@ -240,7 +349,9 @@ a) A Divisão de Relações Internacionais;
 
 b) A Divisão de Documentação e Informação Técnica.
 
-###### Artigo 13.º — Divisão de Relações Internacionais
+###### Artigo 13.º
+
+##### Divisão de Relações Internacionais
 
 À Divisão de Relações Internacionais compete:
 
@@ -254,7 +365,9 @@ d) Acompanhar as negociações e a execução de tratados e acordos internaciona
 
 e) Coordenar os programas de formação especializada proporcionada por organizações internacionais ou negociada a nível bilateral.
 
-###### Artigo 14.º — Divisão de Documentação e Informação Técnica
+###### Artigo 14.º
+
+##### Divisão de Documentação e Informação Técnica
 
 À Divisão de Documentação e Informação Técnica compete:
 
@@ -268,7 +381,9 @@ d) Proceder à divulgação de estudos e outros trabalhos efectuados no âmbito 
 
 e) Assegurar a edição das publicações do GEPIE.
 
-###### Artigo 15.º — Divisão de Informática
+###### Artigo 15.º
+
+##### Divisão de Informática
 
 À Divisão de Informática incumbe promover a informatização das actividades do GEPIE, competindo-lhe, designadamente:
 
@@ -354,25 +469,25 @@ Presidência do Conselho de Ministros, 16 de Abril de 1990.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral. Promulgado em 24 de Maio de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1990.**
+Referendado em 28 de Maio de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf)
 
 MAPA II
 
 (A que se refere o n.º 2 do artigo 22.º do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf))](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/13200/24942499.pdf)
 
 Técnico-profissional - nível 4/técnico-adjunto
 

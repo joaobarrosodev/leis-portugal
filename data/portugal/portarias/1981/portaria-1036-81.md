@@ -48,40 +48,136 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1036-1981-567468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 307a64c5d31ebc6e362207b28d4d5c18c0de98f498c36403ea4f33bf1ed450d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c29cc286955f417e8415d85b7776ac0d7b9cb5c567b68ad05209cace03e7331a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Medicina
+- Faculdade de Medicina
+- Licenciatura
+- Medicina
+- Plano de Estudos
+- Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
+- Universidade NOVA de Lisboa
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 42, DE 19/2/82. ALTERADA PELA PORTARIA NUMERO 794/83,\
+    \ PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 173, DE 29/7/83. ALTERADO O ANEXO II, E OS QUADROS III E IV, PELA\
+    \ PORTARIA NUMERO 1052/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 293 DE 22/12/83. ALTERADO O ANEXO IV, PELA\
+    \ PORTARIA NUMERO 1065/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 297, DE 27/12/83. ALTERADO O ANEXO V, PELA\
+    \ PORTARIA NUMERO 944/89, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 243, DE 21/10/89.\0ÉRIE, NUMERO 243, DE 21/10/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:549410:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396688:por
+  label: "Alterado o plano de estudos constante do anexo II (Curso de Medicina da Universidade de Lisboa) pela PORT.816/82.28.08.1982.ME,\
+    \ DR.IS [199] de 28.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/816-1982-396688
+  date: '1982-08-28'
+- type: amended_by
+  target: pt:dre:454276:por
+  label: "Alterados os planos de estudos constantes do anexo II (licenciatura em Medicina da Universidade de Lisboa) - quadro\
+    \ IV, com a redacção introduzida pela Port 816/82 de 28-Ago, e do anexo IV (licenciatura em Medicina da Universidade Nova\
+    \ de Lisboa) anexos ao presente diploma, pela PORT.794/83.29.07.1983.ME, DR.IS [173] de 29.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/794-1983-454276
+  date: '1983-07-29'
+- type: amended_by
+  target: pt:dre:373424:por
+  label: "Alterado o quadro IV do anexo III pela PORT.700/84.08.09.1984.ME, DR.IS [209] de 08.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-1984-373424
+  date: '1984-09-08'
+- type: amended_by
+  target: pt:dre:401493:por
+  label: "Alterados os quadros III e IV do anexo III pela PORT.890/84.05.12.1984.ME, DR.IS [281] de 05.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1984-401493
+  date: '1984-12-05'
+- type: amended_by
+  target: pt:dre:616611:por
+  label: "Alterados os quadros V e VI do anexo I pela PORT.13/86.1986.01.10.MEC DR.IS [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-1986-616611
+  date: '1986-01-10'
+- type: amended_by
+  target: pt:dre:191870:por
+  label: "Alterados os quadros V e VI do anexo III, pela PORT.18/86.1986.01.15.MEC, DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/18-1986-191870
+  date: '1986-01-15'
+- type: amended_by
+  target: pt:dre:195197:por
+  label: "Alterados os quadros I a VI do nº 1 do anexo III deste diploma, com a redacção dada pelas Port 890/84 de 05-Dez\
+    \ e 18/86 de 15-Jan, pela PORT.169/86.28.04.1986.MEC, DR.IS [97] de 28.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1986-195197
+  date: '1986-04-28'
+- type: amended_by
+  target: pt:dre:222214:por
+  label: "Alterados os quadros I a VI do anexo I (licenciatura em Medicina pela Universidade de Coimbra) ao presente diploma,\
+    \ alterado pela Port 13/86, de 10-Jan (quadros V e VI), pela PORT.623/86.24.10.1986.MEC, DR.IS [246] de 24.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1986-222214
+  date: '1986-10-24'
+- type: amended_by
+  target: pt:dre:220971:por
+  label: "Reestruturado o plano de estudos do curso de Medicina da Faculdade de Ciências Médicas constante do anexo IV do\
+    \ presente diploma, alterado pela Port 794/83, de 29-Jul, pela Port 1065/83, de 27-Dez, e pela Port 862/84, de 16-Nov,\
+    \ pela PORT.644/86.30.10.1986.MEC, DR.IS [251] de 30.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/644-1986-220971
+  date: '1986-10-30'
+- type: amended_by
+  target: pt:dre:417613:por
+  label: "Alterado o quadro VI do nº 1 do anexo III deste diploma, com a redacção dada pelas Port 890/84 de 05-Dez, 18/86\
+    \ de 15-Jan e 169/86 de 28-Abr, pela PORT.697/87.14.08.1987.MEC, DR.IS [186] de 14.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-1987-417613
+  date: '1987-08-14'
+- type: amended_by
+  target: pt:dre:499475:por
+  label: "Alterados os quadros I a VI do nº 1 do anexo II (plano de estudos da licenciatura em Medicina da Universidade de\
+    \ Lisboa) do presente diploma, com a redacção dada pelas Port 816/82 de 28-Ago e 794/83 de 29-Jul, pela PORT.952/87.21.12.1987.ME,\
+    \ DR.IS [292] de 21.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/952-1987-499475
+  date: '1987-12-21'
+- type: cites
+  target: pt:dre:561822:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:600162:por
+  label: Rectificada pela DECL.DD5928.03.02.1982.PCM, DR.IS [42] de 19.02.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-600162
+  date: '1982-02-03'
+- type: corrected_by
+  target: pt:dre:609295:por
+  label: Rectificada pela DECL.DD2475.1982.03.01.PCM, DR.IS [62] de 16/Mar/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-609295
+  date: '1982-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:07Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +206,7 @@ Licenciatura em Medicina
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
 
 2 - Coeficientes de ponderação
 
@@ -124,7 +220,7 @@ Licenciatura em Medicina
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
 
 2 - Coeficientes de ponderação
 
@@ -138,7 +234,7 @@ Licenciatura em Medicina
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
 
 2 - Coeficientes de ponderação
 
@@ -152,7 +248,7 @@ Licenciatura em Medicina
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
 
 2 - Coeficientes de ponderação
 
@@ -174,7 +270,7 @@ Licenciatura em Medicina
 
 Do QUADRO I ao QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf))](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/28000/31853190.pdf)
 
 2 - Coeficientes de ponderação
 

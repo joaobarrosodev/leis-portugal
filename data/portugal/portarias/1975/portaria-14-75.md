@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-1975-300795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:39:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd4cd0870ffd87c2a0d8efa1e3166154d4e695ceb9b64198804038fde6bee4aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ace6ab0668312a2d468dadd7da12cbceabd3dced7292197a46f7838ce2099ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:39:16Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +89,7 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 Estado-Maior da Armada, 3 de Dezembro de 1974. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.
 
-## Anexo a que se refere a Portaria n.º 14/75, de 7 de Janeiro
+Anexo a que se refere a Portaria n.º 14/75, de 7 de Janeiro
 
 Lotação completa e normal provisória das lanchas de fiscalização «Albatroz» e «Açor»
 
@@ -139,4 +139,4 @@ Segundo-sargento ... (ver nota d) 1
 
 (nota d) Pode ser subsituído por cabo, quando não haja sargento disponível.
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.

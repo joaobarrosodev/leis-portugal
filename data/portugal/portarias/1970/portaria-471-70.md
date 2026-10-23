@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/471-1970-148021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec3fa2c20bcc3ff63e29ee2dd797c5294e1b934c6722ba78c3939aa3d3e695d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc59bfc783b540101420016c0bc737a3ddca99a7ccf33838b11228814b85378f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292920:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:52Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º No plano de uniformes para oficiais, aspirantes a oficial e cadetes da Armada (P. U. O. A. C. A.), aprovado e mandado pôr em execução pelo [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, é dada nova redacção aos artigos 2.º, 7.º, 12.º, 13.º, 14.º, 17.º 18.º, 20.º, 21.º, 22º, 23.º, 30.º, 31.º, 32.º, 35.º, 37.º, 42.º, 46.º, 51.º, 57.º, 58.º, 59.º, 65.º, 66.º, 67.º, 72.º, 73.º, 75.º, 77.º, 78.º, 81.º, 90.º, 96.º e 107.º e são acrescentados os artigos 7.º-A, 9.º-A, 20.º-A, 23.º-A, 35.º-A, 41.º-A, 71.º-A, 86.º-A, 86.º-B, 88.º-A, 91.º-A, 93.º-A, 93.º-B, 93.º-C, 94.º-A e 94.º-B, que a seguir se indicam:
 
-###### Art. 2.º O blusão para oficiais, aspirantes a oficial e cadetes (figs. 1 e 2) é de algodão e terylene azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 4, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 5, que serve para abotoar numa casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
+Art. 2.º O blusão para oficiais, aspirantes a oficial e cadetes (figs. 1 e 2) é de algodão e terylene azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 4, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 5, que serve para abotoar numa casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
 
 Na altura do peito, de cada lado, tem uma algibeira exterior, de 0,140 m de altura por 0,120 m de largura, fazendo um fole sobreposto de 0,040 m de largura. Por cima de cada algibeira, a uma distância de 0,010 m, existe uma portinhola, de duplo recorte, terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão de metal do padrão n.º 2, pregado sobre o fole da algibeira.
 
@@ -105,7 +117,7 @@ Nos ombros tem platinas fixas do mesmo tecido, com 0,040 m de largura, que aboto
 
 § único. No blusão não se usam distintivos de especialização.
 
-###### Art. 7.º O boné de bivaque para aspirantes a oficial e cadetes (figs. 10 e 11) é de algodão e terylene azul, com copa formada por três peças: duas laterais unidas com costuras verticais à frente e atrás da cabeça e uma superior unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás, e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
+Art. 7.º O boné de bivaque para aspirantes a oficial e cadetes (figs. 10 e 11) é de algodão e terylene azul, com copa formada por três peças: duas laterais unidas com costuras verticais à frente e atrás da cabeça e uma superior unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás, e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
 
 Tem duas abas laterais (rebuço) cosidas atrás uma à outra e interiormente em toda a periferia do boné; estas abas são voltadas para cima e têm de altura: 0,050 m à frente, 0,080 m ao lado e 0,065 m atrás, sendo do feitio apropriado para virar para baixo, agasalhando as orelhas e cobrindo a nuca.
 
@@ -113,23 +125,23 @@ Do lado esquerdo leva uma âncora com 0,030 m de altura (fig. 6), bordada a fio 
 
 Interiormente é forrado com uma tira de carneira de 0,040 m de largura, que fica em contacto com a cabeça.
 
-###### Art. 7.º-A O boné de trabalho para oficiais, aspirantes a oficial e cadetes é de tecido de algodão e de terylene azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxidado, conforme é descrito no artigo 86.º-B, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
+Art. 7.º-A O boné de trabalho para oficiais, aspirantes a oficial e cadetes é de tecido de algodão e de terylene azul, tem pala de lona forrada do mesmo tecido, levando um tapa-ouvidos e tapa-nuca, com colocação de uma âncora de metal oxidado, conforme é descrito no artigo 86.º-B, centrada por cima da pala, e a 0,100 m de cada lado da âncora um orifício de 0,007 m de diâmetro, que serve de ventilador.
 
-###### Art. 9.º-A O cachecol para oficiais, aspirantes a oficial e cadetes é branco em mistura de lã e terylene, de forma rectangular com cerca de 1,200 m de comprimento por 0,300 m de largura. É autorizado o seu uso ao pescoço, debaixo do sobretudo ou gabardina.
+Art. 9.º-A O cachecol para oficiais, aspirantes a oficial e cadetes é branco em mistura de lã e terylene, de forma rectangular com cerca de 1,200 m de comprimento por 0,300 m de largura. É autorizado o seu uso ao pescoço, debaixo do sobretudo ou gabardina.
 
-###### Art. 12.º As calças azuis (padrão n.º 1) para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior. Largura inferior da perna entre 0,230 m e 0,280 m.
+Art. 12.º As calças azuis (padrão n.º 1) para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior. Largura inferior da perna entre 0,230 m e 0,280 m.
 
-###### Art. 13.º As calças brancas para oficiais, aspirantes a oficial e cadetes são de algodão e terylene branco, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
+Art. 13.º As calças brancas para oficiais, aspirantes a oficial e cadetes são de algodão e terylene branco, sem listas nem pestanas, direitas, tendo de cada lado, junto à costura lateral, uma algibeira interior.
 
 Largura inferior da perna entre 0,230 m e 0,280 m.
 
-###### Art. 14.º As calças azuis (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são de algodão e terylene azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
+Art. 14.º As calças azuis (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes (figs. 18 e 19) são de algodão e terylene azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente, uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m, tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 5.
 
 Têm cós de 0,040 m de altura com sete passadeiras para o cinto.
 
 Largura inferior da perna entre 0,230 m e 0,280 m
 
-###### Art. 17.º Os calções azuis para oficiais, aspirantes a oficial e cadetes (fig. 20) são de algodão e terylene, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,040 m de largura. À frente, de cada lado, têm uma algibeira interior de pano cru de 0,150 m de largura por 0,250 m de comprimento, fazendo um ângulo de 2000 com a costura lateral da perna.
+Art. 17.º Os calções azuis para oficiais, aspirantes a oficial e cadetes (fig. 20) são de algodão e terylene, abotoados à frente com seis botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela de 0,040 m de largura. À frente, de cada lado, têm uma algibeira interior de pano cru de 0,150 m de largura por 0,250 m de comprimento, fazendo um ângulo de 2000 com a costura lateral da perna.
 
 Cós com a largura entre 0,050 m e 0,075 m, forrado a pano cru. Os calções apertam na cintura com duas tiras do mesmo tecido de 0,200 m de comprimento por 0,020 m de largura, que partem do lado direito do cós, cada uma das quais (fig. 21) enfia em duas argolas de latão cromado de tirar e pôr, fixadas por um botão preto do padrão n.º 6 na extremidade interior de uma tira idêntica, mas com 0,100 m de comprimento que parte do lado esquerdo.
 
@@ -137,9 +149,9 @@ Comprimento da perna até 0,075 m acima da curva do joelho, estando o militar na
 
 Largura inferior da perna entre 0,350 m e 0,400 m.
 
-###### Art. 18.º Os calções brancos para oficiais, aspirantes a oficial e cadetes (figs. 20 e 21) são de algodão e terylene e de talhe igual ao dos calções azuis, mas com botões brancos.
+Art. 18.º Os calções brancos para oficiais, aspirantes a oficial e cadetes (figs. 20 e 21) são de algodão e terylene e de talhe igual ao dos calções azuis, mas com botões brancos.
 
-###### Art. 20.º A camisa azul para oficiais, aspirantes a oficial e cadetes (fig. 23) é de tecido de algodão (popelina) azulado, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples, de 0,060 m de altura, abotoada por um botão cinzento-azulado do padrão n.º 5.
+Art. 20.º A camisa azul para oficiais, aspirantes a oficial e cadetes (fig. 23) é de tecido de algodão (popelina) azulado, com colarinho pegado de 0,035 m de altura atrás e 0,075 m nos bicos, de manga comprida com punhos simples, de 0,060 m de altura, abotoada por um botão cinzento-azulado do padrão n.º 5.
 
 O colarinho tem, a 0,050 m dos vértices exteriores e na linha da bissectriz do ângulo formado nos bicos, orifícios caseados para colocar as âncoras metálicas descritas no artigo 86.º-B.
 
@@ -151,15 +163,15 @@ Na altura do peito, de cada lado, tem uma algibeira exterior de 0,120 m de altur
 
 § único. Na camisa não se usam distintivos de especialização.
 
-###### Art. 20.º-A A camisa branca (padrão n.º 1) para oficiais, aspirantes a oficial e cadetes é de tecido liso branco, com colarinho pegado indeformável, com manga comprida de punhos de ida e volta, aberta e abotoada à frente com botões brancos do padrão n.º 6.
+Art. 20.º-A A camisa branca (padrão n.º 1) para oficiais, aspirantes a oficial e cadetes é de tecido liso branco, com colarinho pegado indeformável, com manga comprida de punhos de ida e volta, aberta e abotoada à frente com botões brancos do padrão n.º 6.
 
-###### Art. 21.º A camisa branca (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes é de tecido liso de algodão (popelina) branco, com cós para prender o colarinho, de manga comprida, de punhos de ida e volta.
+Art. 21.º A camisa branca (padrão n.º 2) para oficiais, aspirantes a oficial e cadetes é de tecido liso de algodão (popelina) branco, com cós para prender o colarinho, de manga comprida, de punhos de ida e volta.
 
 A camisa é toda aberta à frente e abotoada com seis botões brancos do padrão n.º 6.
 
 § único. É obrigatório o uso desta camisa por debaixo do dólman branco.
 
-###### Art. 22.º A camisa branca (padrão n.º 3) para oficiais, aspirantes a oficial e cadetes (fig. 22) é de tecido de algodão e terylene branco sarjado, com colarinho pegado para usar aberto e formar bandas (com o primeiro botão desabotoado) e sem gravata, com manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 6, que servem para enfiar as passadeiras.
+Art. 22.º A camisa branca (padrão n.º 3) para oficiais, aspirantes a oficial e cadetes (fig. 22) é de tecido de algodão e terylene branco sarjado, com colarinho pegado para usar aberto e formar bandas (com o primeiro botão desabotoado) e sem gravata, com manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 6, que servem para enfiar as passadeiras.
 
 A camisa é toda aberta à frente e abotoada com seis botões brancos iguais aos das platinas.
 
@@ -167,21 +179,21 @@ Na altura do peito, de cada lado, tem uma algibeira exterior como a da camisa az
 
 § único. Na camisa não se usam distintivos de especialização.
 
-###### Art. 23.º A camisa branca (padrão n.º 4) para oficiais é de tecido liso de algodão (popelina) branco e de talhe igual à camisa do padrão n.º 2, mas com punhos simples. Os punhos e o peitilho são engomados.
+Art. 23.º A camisa branca (padrão n.º 4) para oficiais é de tecido liso de algodão (popelina) branco e de talhe igual à camisa do padrão n.º 2, mas com punhos simples. Os punhos e o peitilho são engomados.
 
-###### Art. 23.º-A A camisa branca (padrão n.º 5) para oficiais é branca, mole, com colarinho pegado e peitilho, colarinho e punhos de ida e volta, em piqué.
+Art. 23.º-A A camisa branca (padrão n.º 5) para oficiais é branca, mole, com colarinho pegado e peitilho, colarinho e punhos de ida e volta, em piqué.
 
-###### Art. 30.º O cinto branco para oficiais, aspirantes a oficial e cadetes é de percinta de algodão com 0,030 m de largura ligado num dos extremos a uma fivela de metal dourado (fig. 29).
+Art. 30.º O cinto branco para oficiais, aspirantes a oficial e cadetes é de percinta de algodão com 0,030 m de largura ligado num dos extremos a uma fivela de metal dourado (fig. 29).
 
-###### Art. 31.º O cinto azul para oficiais, aspirantes a oficial e cadetes é de percinta de algodão com 0,030 m de largura ligado num dos extremos a uma fivela de metal oxidado (fig. 29).
+Art. 31.º O cinto azul para oficiais, aspirantes a oficial e cadetes é de percinta de algodão com 0,030 m de largura ligado num dos extremos a uma fivela de metal oxidado (fig. 29).
 
-###### Art. 32.º O colarinho branco para oficiais, aspirantes a oficial e cadetes é branco liso engomado, direito e com as pontas dobradas.
+Art. 32.º O colarinho branco para oficiais, aspirantes a oficial e cadetes é branco liso engomado, direito e com as pontas dobradas.
 
-###### Art. 35.º O colete branco (padrão n.º 1) para oficiais é de piqué branco e de talhe igual ao descrito no artigo 34.º
+Art. 35.º O colete branco (padrão n.º 1) para oficiais é de piqué branco e de talhe igual ao descrito no artigo 34.º
 
-###### Art. 35.º-A O colete branco (padrão n.º 2) para oficiais é de algodão e terylene branco e de talhe igual ao descrito no artigo 34.º
+Art. 35.º-A O colete branco (padrão n.º 2) para oficiais é de algodão e terylene branco e de talhe igual ao descrito no artigo 34.º
 
-###### Art. 37.º O dólman branco para oficiais, aspirantes a oficial e cadetes (figs. 32 e 33) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,040 m e 0,060 m, unida por dois ou três colchetes e tendo pestana interior.
+Art. 37.º O dólman branco para oficiais, aspirantes a oficial e cadetes (figs. 32 e 33) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,040 m e 0,060 m, unida por dois ou três colchetes e tendo pestana interior.
 
 Abotoa à frente com uma ordem de seis botões do padrão n.º 1; o botão superior fica distanciado 0,030 m da gola.
 
@@ -193,9 +205,9 @@ Tem quatro algibeiras exteriores, sendo duas no peito, ligeiramente abaixo da li
 
 Em cada ombro tem duas pequenas passadeiras fixas, do mesmo tecido, para colocação das platinas rígidas.
 
-###### Art. 41.º-A A faixa para oficiais é preta em terylene, tendo cerca de 0,150 m de largura na parte média e estreitando para as pontas onde tem cerca de 0,070 m de largura. Esta faixa é usada na cintura sobre as calças, ficando a parte mais larga para a frente e sendo abotoada atrás com colchetes.
+Art. 41.º-A A faixa para oficiais é preta em terylene, tendo cerca de 0,150 m de largura na parte média e estreitando para as pontas onde tem cerca de 0,070 m de largura. Esta faixa é usada na cintura sobre as calças, ficando a parte mais larga para a frente e sendo abotoada atrás com colchetes.
 
-###### Art. 42.º A farda (figs. 38 e 39) é de pano de lã azul-ferrete forrada de cetim preto, com duas ordens divergentes de oito botões cada uma, do padrão n.º 1, da cintura à altura dos ombros, para ter abotoados os quatro botões inferiores. As bandas são viradas e abotoam no penúltimo botão de cima; cada uma das bandas tem três casas fingidas.
+Art. 42.º A farda (figs. 38 e 39) é de pano de lã azul-ferrete forrada de cetim preto, com duas ordens divergentes de oito botões cada uma, do padrão n.º 1, da cintura à altura dos ombros, para ter abotoados os quatro botões inferiores. As bandas são viradas e abotoam no penúltimo botão de cima; cada uma das bandas tem três casas fingidas.
 
 Gola direita de 0,035 m a 0,050 m de altura, bordada a ouro, conforme a fig. 40, com os cantos rectangulares e fechada por um colchete na parte inferior.
 
@@ -203,7 +215,7 @@ Mangas com canhão aberto, com dois botões do padrão n.º 2 junto à costura e
 
 Em cada ombro, para colocação das dragonas, a farda tem duas passadeiras fixas, do mesmo tecido, de forma quadrangular; a colocada junto da gola é pequena e a outra tem 0,085 m de comprimento por 0,028 m de largura e é bordada a fio de ouro brilhante com o desenho da fig. 41.
 
-###### Art. 46.º A gabardina para oficiais, aspirantes a oficial e cadetes (figs. 44 e 45) é de tecido misto - poliéster e viscose ou algodão - na cor azul-escura e forrada de nylon cinzento; gola voltada com bandas de largura entre 0,070 m e 0,080 m, sem casa. O comprimento vai até a 0,050 m abaixo da curva do joelho.
+Art. 46.º A gabardina para oficiais, aspirantes a oficial e cadetes (figs. 44 e 45) é de tecido misto - poliéster e viscose ou algodão - na cor azul-escura e forrada de nylon cinzento; gola voltada com bandas de largura entre 0,070 m e 0,080 m, sem casa. O comprimento vai até a 0,050 m abaixo da curva do joelho.
 
 É simples (não assertoada), com uma única ordem de três botões cinzentos de 0,025 m de diâmetro, para usar abotoados; os botões ficam espaçados 0,120 m a 0,160 m, segundo a altura do militar.
 
@@ -213,25 +225,25 @@ Na costura das costas tem uma abertura de 0,250 m a 0,300 m de altura, a partir 
 
 Nos ombros tem platinas amovíveis de 0,040 m de largura, do mesmo tecido, entreteladas, que abotoam junto à gola com um botão cinzento de 0,014 m de diâmetro e que servem para enfiar as passadeiras.
 
-###### Art. 51.º A jaqueta branca para oficiais é de algodão e terylene branco, de tamanho igual ao da jaqueta azul, tendo em cada ombro duas pequenas passadeiras fixas, do mesmo tecido, para a colocação das platinas. Mangas sem botões e com canhão fechado e de 0,075 m de altura.
+Art. 51.º A jaqueta branca para oficiais é de algodão e terylene branco, de tamanho igual ao da jaqueta azul, tendo em cada ombro duas pequenas passadeiras fixas, do mesmo tecido, para a colocação das platinas. Mangas sem botões e com canhão fechado e de 0,075 m de altura.
 
-###### Art. 57.º As meias brancas para oficiais, aspirantes a oficial e cadetes são de algodão, caneladas, tipo sport, de altura até abaixo do joelho: terminam por um canhão de 0,120 m para usar dobrado.
+Art. 57.º As meias brancas para oficiais, aspirantes a oficial e cadetes são de algodão, caneladas, tipo sport, de altura até abaixo do joelho: terminam por um canhão de 0,120 m para usar dobrado.
 
-###### Art. 58.º As meias pretas para oficiais, aspirantes a oficial e cadetes são de algodão e do modelo descrito no artigo 57.º
+Art. 58.º As meias pretas para oficiais, aspirantes a oficial e cadetes são de algodão e do modelo descrito no artigo 57.º
 
-###### Art. 59.º As passadeiras para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas platinas fixas existentes nos ombros de certos uniformes [bata, blusão, camisa azul, camisa branca (padrão n.º 3), gabardina, sobretudo e uniformes camuflados], formando um rectângulo de 0,060 m de largura e de comprimento variável: 0,105 m para almirante (fig. 50-A), vice-almirante (fig. 50) e capitão-de-mar-e-guerra; 0,090 m para contra-almirante, capitão-de-fragata (fig. 51), capitão-tenente, primeiro-tenente, segundo-tenente e cadete (fig. 53); 0,070 m para comodoro, guarda-marinha (fig. 52), subtenente e aspirante a oficial. São guarnecidas com os distintivos do respectivo posto [alíneas a) a e) do n.º 2) do artigo 75.º, e alíneas a) e b) do n.º 2) do artigo 77.º].
+Art. 59.º As passadeiras para oficiais, aspirantes a oficial e cadetes são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas platinas fixas existentes nos ombros de certos uniformes [bata, blusão, camisa azul, camisa branca (padrão n.º 3), gabardina, sobretudo e uniformes camuflados], formando um rectângulo de 0,060 m de largura e de comprimento variável: 0,105 m para almirante (fig. 50-A), vice-almirante (fig. 50) e capitão-de-mar-e-guerra; 0,090 m para contra-almirante, capitão-de-fragata (fig. 51), capitão-tenente, primeiro-tenente, segundo-tenente e cadete (fig. 53); 0,070 m para comodoro, guarda-marinha (fig. 52), subtenente e aspirante a oficial. São guarnecidas com os distintivos do respectivo posto [alíneas a) a e) do n.º 2) do artigo 75.º, e alíneas a) e b) do n.º 2) do artigo 77.º].
 
-###### Art. 65.º Os sapatos brancos para oficiais, aspirantes a oficial e cadetes são de camurça com biqueira, sem enfeites, tendo de cada lado cinco ilhós brancos onde trabalha um atacador da mesma cor.
+Art. 65.º Os sapatos brancos para oficiais, aspirantes a oficial e cadetes são de camurça com biqueira, sem enfeites, tendo de cada lado cinco ilhós brancos onde trabalha um atacador da mesma cor.
 
-###### Art. 66.º Os sapatos pretos para oficiais, aspirantes a oficial e cadetes são de cabedal e do mesmo feitio dos descritos no artigo 65.º, mas com ilhós pretos e atacadores da mesma cor.
+Art. 66.º Os sapatos pretos para oficiais, aspirantes a oficial e cadetes são de cabedal e do mesmo feitio dos descritos no artigo 65.º, mas com ilhós pretos e atacadores da mesma cor.
 
-###### Art. 67.º Os sapatos de verniz para oficiais, aspirantes a oficial e cadetes são de cor preta e do mesmo feitio dos descritos no artigo 65.º, mas com ilhós e atacadores pretos.
+Art. 67.º Os sapatos de verniz para oficiais, aspirantes a oficial e cadetes são de cor preta e do mesmo feitio dos descritos no artigo 65.º, mas com ilhós e atacadores pretos.
 
-###### Art. 71.º-A A tranqueta para fixar a gravata para oficiais, aspirantes a oficial e cadetes é de metal oxidado, de 0,060 m de comprimento por 0,005 m de largura, constituída por dois braços curvados fazendo de mola.
+Art. 71.º-A A tranqueta para fixar a gravata para oficiais, aspirantes a oficial e cadetes é de metal oxidado, de 0,060 m de comprimento por 0,005 m de largura, constituída por dois braços curvados fazendo de mola.
 
-###### Art. 72.º Os distintivos de classes, de postos, de especializações, de cursos e outros são os constantes deste capítulo, a seguir discriminados.
+Art. 72.º Os distintivos de classes, de postos, de especializações, de cursos e outros são os constantes deste capítulo, a seguir discriminados.
 
-###### Art. 73º Existem cores designativas para oficiais e aspirantes a oficial das classes de médicos navais e farmacêuticos navais e que são as seguintes:
+Art. 73º Existem cores designativas para oficiais e aspirantes a oficial das classes de médicos navais e farmacêuticos navais e que são as seguintes:
 
 Médicos navais - carmesim.
 
@@ -239,7 +251,7 @@ Farmacêuticos navais - verde.
 
 § único. O disposto neste artigo não é aplicável aos oficiais generais.
 
-###### Art. 75.º Os distintivos correspondentes a cada posto de oficial e aspirante a oficial são os que a seguir se indicam e se usam:
+Art. 75.º Os distintivos correspondentes a cada posto de oficial e aspirante a oficial são os que a seguir se indicam e se usam:
 
 1) Nas mangas da farda, sobrecasaca, jaqueta azul e jaquetão:
 
@@ -311,7 +323,7 @@ e) Oficiais superiores, subalternos e aspirantes a oficial - os galões indicado
 
 § 3.º O galão colocado na platina mais próxima da extremidade virada para o ombro deve deixar uma margem livre de 0,012 m (figs. 55 e 56).
 
-###### Art. 77.º Os distintivos dos cadetes usam-se:
+Art. 77.º Os distintivos dos cadetes usam-se:
 
 1) No dólman azul:
 
@@ -339,7 +351,7 @@ b) Barras do modelo descrito no artigo 76.º, em número correspondente ao ano q
 
 § 1.º A âncora é bordada da forma indicada no § 1.º no n.º 1) deste artigo.
 
-###### Art. 78.º Os distintivos de especialização para oficiais são os seguintes:
+Art. 78.º Os distintivos de especialização para oficiais são os seguintes:
 
 1) Artilharia (fig. 86). - Dois corpos de peça de artilharia com 0,050 m de comprimento cada um, cruzados em ângulo recto e com as boladas para cima, formando uma figura de 0,040 m x 0,040 m.
 
@@ -367,21 +379,21 @@ b) Barras do modelo descrito no artigo 76.º, em número correspondente ao ano q
 
 § 4.º Os oficiais, aspirantes a oficial e cadetes das unidades de mergulhadores-sapadores usam, no ombro esquerdo, um cordão de azul-claro (fig. 92-B) de modelo igual ao descrito no § 3.º e nos uniformes indicados nesse mesmo § 3.º
 
-###### Art. 81.º Os distintivos fixados no [Decreto n.º 18042](https://diariodarepublica.pt/dr/detalhe/decreto/18042-1930-292920), de 9 de Janeiro de 1930, e não previstos no artigo 78.º podem continuar a ser usados pelos oficiais que a eles tenham direito.
+Art. 81.º Os distintivos fixados no [Decreto n.º 18042](https://diariodarepublica.pt/dr/detalhe/decreto/18042-1930-292920), de 9 de Janeiro de 1930, e não previstos no artigo 78.º podem continuar a ser usados pelos oficiais que a eles tenham direito.
 
 § 1.º Os oficiais com os cursos de aperfeiçoamento em electricidade, torpedos e minas e em radiotelegrafia e comunicações podem usar os distintivos correspondentes aos cursos de especialização considerados no referido decreto.
 
 § 2.º Estes distintivos são bordados a fio de ouro ou confeccionados em metal dourado e usam-se nas condições mencionadas nos §§ 1.º e 2.º do artigo 78.º
 
-###### Art. 86.º-A As âncoras metálicas para as boinas de oficiais, aspirantes a oficial e cadetes fuzileiros especiais (fig. 23-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
+Art. 86.º-A As âncoras metálicas para as boinas de oficiais, aspirantes a oficial e cadetes fuzileiros especiais (fig. 23-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
 
-###### Art. 86.º-B As âncoras metálicas para o boné de trabalho e para o colarinho da camisa azul, para oficiais, aspirantes a oficial e cadetes (fig. 23-A), são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
+Art. 86.º-B As âncoras metálicas para o boné de trabalho e para o colarinho da camisa azul, para oficiais, aspirantes a oficial e cadetes (fig. 23-A), são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
 
-###### Art. 88.º-A A boina de um só pano para oficiais, aspirantes a oficial e cadetes fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro, na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
+Art. 88.º-A A boina de um só pano para oficiais, aspirantes a oficial e cadetes fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro, na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite do debrum.
 
 Na parte anterior, e diametralmente oposto ao nó das pontas, é aplicada, como distintivo uma âncora metálica do modelo descrito no artigo 86.º-A e cujo centro fica a 0,035 m acima do debrum.
 
-###### Art. 90.º Os cordões de fio de ouro e sela azul para oficiais e aspirantes a oficial são tecidos de fio de ouro e de torçal de sela azul-ferrete na proporção de 40 por cento e iguais aos descritos no artigo 89.º
+Art. 90.º Os cordões de fio de ouro e sela azul para oficiais e aspirantes a oficial são tecidos de fio de ouro e de torçal de sela azul-ferrete na proporção de 40 por cento e iguais aos descritos no artigo 89.º
 
 § 1.º Estes cordões são usados:
 
@@ -391,23 +403,23 @@ Na parte anterior, e diametralmente oposto ao nó das pontas, é aplicada, como 
 
 § 2.º Usam-se da forma indicada no § 2.º do artigo 89.º
 
-###### Art. 91.º-A O distintivo de identificação para os uniformes de serviço para oficiais, aspirantes a oficial e cadetes é constituído por uma placa de material plástico de cor branca, com o formato e as dimensões da fig. 103 e que na parte posterior tem montado um alfinete-de-ama; na parte anterior é aplicada uma fita adesiva azul, que tem gravada a branco o posto, a classe e o nome.
+Art. 91.º-A O distintivo de identificação para os uniformes de serviço para oficiais, aspirantes a oficial e cadetes é constituído por uma placa de material plástico de cor branca, com o formato e as dimensões da fig. 103 e que na parte posterior tem montado um alfinete-de-ama; na parte anterior é aplicada uma fita adesiva azul, que tem gravada a branco o posto, a classe e o nome.
 
 § único. Os comandantes, directores ou chefes dos diferentes organismos poderão determinar outras cores de fundo além do azul, quando houver que distinguir subdivisões dentro desses organismos.
 
-###### Art. 93.º-A O distintivo de ajudante de ordens para oficiais, aspirantes a oficial e cadetes é uma braçadeira idêntica à descrita no artigo 93.º, mas por cima da âncora tem bordado um A. É colocada na manga esquerda dos uniformes, acima do cotovelo. (Este distintivo só é usado nos uniformes em que não devam ser usados os cordões de que trata o artigo 90.º)
+Art. 93.º-A O distintivo de ajudante de ordens para oficiais, aspirantes a oficial e cadetes é uma braçadeira idêntica à descrita no artigo 93.º, mas por cima da âncora tem bordado um A. É colocada na manga esquerda dos uniformes, acima do cotovelo. (Este distintivo só é usado nos uniformes em que não devam ser usados os cordões de que trata o artigo 90.º)
 
-###### Art. 93.º-B O distintivo de oficial de informação pública para oficiais, aspirantes a oficial e cadetes é uma braçadeira idêntica à descrita no artigo 93.º e tendo bordado, por cima da âncora, as letras IP. É colocada na manga esquerda dos uniformes, acima do cotovelo.
+Art. 93.º-B O distintivo de oficial de informação pública para oficiais, aspirantes a oficial e cadetes é uma braçadeira idêntica à descrita no artigo 93.º e tendo bordado, por cima da âncora, as letras IP. É colocada na manga esquerda dos uniformes, acima do cotovelo.
 
-###### Art. 93.º-C Os distintivos de oficiais, aspirantes a oficial e cadetes prestando serviço numa força de polícia naval são:
+Art. 93.º-C Os distintivos de oficiais, aspirantes a oficial e cadetes prestando serviço numa força de polícia naval são:
 
 1) Uma braçadeira, idêntica à descrita no artigo 93.º, usada na manga esquerda do uniforme acima do cotovelo e tendo bordado por cima da âncora as letras PN.
 
 2) Um cordão de lã, branco (fig. 92-B), no ombro esquerdo, de modelo igual ao descrito no § 3.º do artigo 78.º
 
-###### Art. 94.º-A Os polainitos para oficiais, aspirantes a oficial e cadetes são de lona branca ou preta, com 0,150 m de altura, tendo duas presilhas e fivelas para fechar e ajustar à perna.
+Art. 94.º-A Os polainitos para oficiais, aspirantes a oficial e cadetes são de lona branca ou preta, com 0,150 m de altura, tendo duas presilhas e fivelas para fechar e ajustar à perna.
 
-###### Art. 94.º-B Os uniformes camuflados e de exercício para oficiais, aspirantes a oficial e cadetes são:
+Art. 94.º-B Os uniformes camuflados e de exercício para oficiais, aspirantes a oficial e cadetes são:
 
 1) O boné camuflado é de tecido de algodão, camuflado; copa em três peças, sendo duas laterais, com as medidas à frente, ao meio e atrás, respectivamente de 0,050 m, 0,110 m e 0,050 m, e uma superior, de 0,080 m de largura máxima, vincada ao centro com costura no sentido do comprimento e unida, com costuras longitudinais às peças laterais; duas abas à frente e atrás, sendo a anterior entretelada e servindo de pala, redonda, com 0,070 m de máximo desenvolvimento para a frente, e a posterior, servindo de tapa-nuca, com duas pontas de 0,010 m a 0,011 m de desenvolvimento vertical a partir da orla da copa; a orla é reforçada interiormente com uma tira de tecido do boné, de 0,020 m de largura, que ajusta à cabeça, formando bainha de cada lado, no interior da qual trabalha um elástico.
 
@@ -495,9 +507,9 @@ Nos topos inferiores das mangas e das pernas existem presilhas com casa, que abo
 
 14) O passa-montanha camuflado é de malha de lã, camuflada, canelado, e de modelo apropriado para proteger toda a cabeça, mas com aberturas para a face e orelhas.
 
-###### Art. 96.º O Chefe do Estado, quando almirante, usará nas passadeiras e nas platinas seis estrelas, respectivamente dos padrões n.os 1 e 2, de ouro fosco, formando dois grupos de três estrelas, dispostas em duas linhas paralelas longitudinais. Nas platinas usará uma âncora de prata fosca e um silvado bordado a fio de ouro, iguais aos descritos na alínea a) do n.º 3) do artigo 75.º e colocados de idêntico modo (figs. 50.º-A e 54.º-A).
+Art. 96.º O Chefe do Estado, quando almirante, usará nas passadeiras e nas platinas seis estrelas, respectivamente dos padrões n.os 1 e 2, de ouro fosco, formando dois grupos de três estrelas, dispostas em duas linhas paralelas longitudinais. Nas platinas usará uma âncora de prata fosca e um silvado bordado a fio de ouro, iguais aos descritos na alínea a) do n.º 3) do artigo 75.º e colocados de idêntico modo (figs. 50.º-A e 54.º-A).
 
-###### Art. 107.º Por portaria do Ministro da Marinha será publicado um anexo a este plano, onde serão fixadas as condições em que o mesmo é aplicável aos oficiais, aspirantes a oficial e cadetes das reservas e reformados e estabelecidos os distintivos especiais a usar pelo pessoal das reservas.
+Art. 107.º Por portaria do Ministro da Marinha será publicado um anexo a este plano, onde serão fixadas as condições em que o mesmo é aplicável aos oficiais, aspirantes a oficial e cadetes das reservas e reformados e estabelecidos os distintivos especiais a usar pelo pessoal das reservas.
 
 2.º São substituídas as figs. 23, 38, 39, 44, 45, 58 e 92 anexas ao P. U. O. A. C. A. pelas dos novos padrões aprovados e são aumentadas as figs. 23-A, 50-A, 54-A, 90-A, 92-A, 92-B e 103, constando todas em anexo a esta portaria.
 
@@ -547,7 +559,7 @@ Ministério da Marinha, 7 de Setembro de 1970. - O Ministro da Marinha, Manuel P
 
 Tabela de uniformes para oficiais, aspirantes a oficial e cadetes da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf))](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf)
 
 Notas à tabela de uniformes
 
@@ -563,6 +575,6 @@ V) O uso de armamento e de artigos de equipamento com os uniformes n.os 3-A, 3-B
 
 Ministério da Marinha, 7 de Setembro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf))](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/09/22000/13381353.pdf)
 
 Ministério da Marinha, 7 de Setembro de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.

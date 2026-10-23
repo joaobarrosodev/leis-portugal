@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/36/2006/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/36-2006-673018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6019e5bae9e4a594078d84eb85b1a89e15521fa5a8cf8afc913e6c1f34597347
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00252f236456d1714b834e7f0d2f4dad32826eac41c00ffc98f95dcd7114a34d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Jersey
 - Juros
+- Portugal
 - Poupança
 - Rendimento
 - Tributação
@@ -80,16 +80,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/2006/04/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/2006/04/06/p/dre
+- type: cites
+  target: pt:dre:673020:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:01Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +102,16 @@ validation:
 
 de 6 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e o Território Dependente da Coroa Britânica de Jersey, por troca de cartas, respectivamente de 22 de Junho e de 19 de Novembro de 2004, Relativo à Tributação dos Rendimentos da Poupança e à Respectiva Aplicação Provisória, aprovado pela [Resolução da Assembleia da República n.º 26/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-2006-673020), em 26 de Janeiro de 2006.
 
-**Assinado em 27 de Março de 2006.**
+Assinado em 27 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 29 de Março de 2006.**
+Referendado em 29 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

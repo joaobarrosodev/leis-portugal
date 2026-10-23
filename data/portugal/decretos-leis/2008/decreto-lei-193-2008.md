@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/193/2008/10/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2008-452934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c744c022e6cbf0ebefa7a5d7f68b30a11ad197adbe327b31df47fcea9da028c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c4dd3a5af5dcf126314f3679a30f54f8428bda896f371241cabf658265fbff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ASAE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Contrafacção
+- Desporto
+- Direito à Justiça
 - Espetáculos e Divertimentos Públicos
-- Multa
 - Inspecção Geral das Actividades Culturais
 - Instituto dos Registos e do Notariado
-- Contrafacção
-- Direito à Justiça
 - Instituto Nacional da Propriedade Industrial
-- ASAE
+- Multa
 - Propriedade Industrial
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Propriedade Intelectual
-- Desporto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/16/2008/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2008/04/01/p/dre
+- type: cites
+  target: pt:dre:246532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:27Z'
   warnings: []
   errors: []
 ---
@@ -202,12 +210,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - Bernardo Luís Amador Trindade - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 17 de Setembro de 2008.**
+Promulgado em 17 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Setembro de 2008.**
+Referendado em 19 de Setembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

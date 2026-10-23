@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16800/0524005244.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2017/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2017-108079189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22bcee1e27ae7240d3755fd753eeaea1ba7fd43555190526dc628921e924392c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b12315a1c60ae3497cf4a7d286c2fce983d7174b30eaa4022d998039f07a7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Carreira de Técnico Superior de Saúde
 - Carreira Técnica Superior
-- Formação Profissional
 - Conselho Técnico
 - Coordenador
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Recrutamento de Pessoal
+- Formação Profissional
 - Habilitações Literárias
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Pessoal Técnico Superior
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Remuneração
-- Avaliação do Pessoal
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:181847671:por
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:15Z'
   warnings: []
   errors: []
 ---
@@ -378,12 +378,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de julho de 2017. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel Martins dos Santos Delgado.
 
-**Promulgado em 28 de julho de 2017.**
+Promulgado em 28 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de julho de 2017.**
+Referendado em 31 de julho de 2017.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

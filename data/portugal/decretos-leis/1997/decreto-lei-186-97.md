@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/172a00/38413847.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/1997/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1997-144604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24c241c353da4547cca5c9376096d7b4cb6b3e1a284cf17c5f64c06892143d08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e1187173d0ca4c63aa80df3133ef5d13b51162b6fd6cc434b270444a01b76d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,54 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Instituto Nacional de Estatística
-- Pessoal Dirigente
-- Ministro da Ciência e da Tecnologia
-- Ministério da Ciência e da Tecnologia
-- Orgânica
 - Jnict
+- Ministério da Ciência e da Tecnologia
+- Ministro da Ciência e da Tecnologia
+- Observatório das Ciências e das Tecnologias
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita Própria
-- Observatório das Ciências e das Tecnologias
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:685031:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:657223:por
+  label: "Determinada a extinção nos termos da al. a) do n.º 2 do art. 2.º da Lei 16-A/2002, de 31-Mai, do Observatório das\
+    \ Ciências e das Tecnologias, cuja orgânica consta do presente diploma, pelo DEC LEI.205/2002.2002.10.07.MCES DR.IS-A\
+    \ [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/1996/08/26/p/dre
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685031:por
+  label: "Revogado pelo DEC LEI.121/2003.2003.06.18.MCES, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2003-685031
+  date: '2003-06-18'
 article_structure:
   article_count: 26
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:35Z'
   warnings: []
   errors: []
 ---
@@ -310,7 +330,7 @@ c) Tratar, organizar, manter e disponibilizar para divulgação toda a informaç
 
 a) Recolher e tratar a informação destinada a caracterizar e acompanhar tendências mundiais na área da ciência e da tecnologia (C&T), bem como as estratégias de desenvolvimento científico e tecnológico com interesse para Portugal;
 
-b) Proceder ao tratamento da informação relativa aos principais programas de investigação e desenvolvimento tecnológico (IDT) em curso no País e à sua articulação com os programas internacionais de C&T;
+b) Proceder ao tratamento da informação relativa aos principais programas de investigação e desenvolvimento tecnológico (IDT) em curso no País e à sua articulação com os programas internacionais de C&T
 
 c) Promover a realização de análises descritivas, estruturais e prospectivas do esforço nacional em C&T, identificando áreas tecnológicas com especial relevância para a modernização e diversificação do aparelho produtivo nacional, com vista à determinação de necessidades em matéria de investigação e desenvolvimento tecnológico;
 
@@ -344,9 +364,13 @@ d) Colaborar na concepção dos impressos destinados à recolha de informação 
 
 2 - O Núcleo de Apoio Informático é dirigido por um director de serviços.
 
-##### SUBSECÇÃO IV — Divisão de Gestão e Administração
+##### SUBSECÇÃO IV
 
-###### Artigo 14.º — Divisão de Gestão e Administração
+##### Divisão de Gestão e Administração
+
+###### Artigo 14.º
+
+##### Divisão de Gestão e Administração
 
 1 - À Divisão de Gestão e Administração compete promover e assegurar a gestão e administração dos recursos humanos, financeiros e patrimoniais afectos ao Observatório das Ciências e das Tecnologias.
 
@@ -408,9 +432,13 @@ i) Executar as tarefas inerentes à recepção, classificação, distribuição 
 
 j) Garantir a divulgação pelos serviços das normas internas e das directivas superiores de carácter geral.
 
-##### SUBSECÇÃO V — Divisão de Publicações e Difusão
+##### SUBSECÇÃO V
 
-###### Artigo 16.º — Divisão de Publicações e Difusão
+##### Divisão de Publicações e Difusão
+
+###### Artigo 16.º
+
+##### Divisão de Publicações e Difusão
 
 À Divisão de Publicações e Difusão compete:
 
@@ -528,16 +556,16 @@ A transição de pessoal do quadro de pessoal da Junta Nacional de Investigaçã
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Junho de 1997.**
+Promulgado em 17 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 1997.**
+Referendado em 20 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa a que se refere o n.º 2 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/172a00/38413847.pdf))](https://files.diariodarepublica.pt/1s/1997/07/172a00/38413847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/172a00/38413847.pdf)

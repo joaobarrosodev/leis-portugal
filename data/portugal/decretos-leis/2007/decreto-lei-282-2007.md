@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/282/2007/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2007-637385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2c43a3f9b94faf610b5bf6e2b5c68e1887cd00e82cc550340b0a7e2f756f134
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a25d697d3ffe4bd8aa361dd5a289c912008944d27a0e1b2f8874fe68eb3d31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,51 +66,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Acreditação
-- Insolvência
-- Falência
-- Liquidação Judicial
+- Administrador da Insolvência
 - Agrupamento Complementar de Empresas
 - Agrupamento Europeu de Interesse Económico
 - Ajuda Judicial
-- Crime
+- Assembleia de Credores
+- Benefícios Fiscais
+- Código da Insolvência e da Recuperação de Empresas
 - Código do Processo Civil
 - Código do Registo Civil
 - Código do Registo Predial
+- Código Penal
+- Comissão de Credores
+- Crime
+- Custas Judiciais
 - Decisão Judicial
 - Direito Internacional Privado
 - Estatuto
+- Execução por Dívidas
 - Extinção de Serviços
-- Assembleia de Credores
-- Processo Especial de Falência
-- Titularização de Créditos
+- Falência
 - Garantias Reais
-- Pagamento
 - Impugnação
 - Incompatibilidades
-- Código da Insolvência e da Recuperação de Empresas
-- Comissão de Credores
-- Publicitação
+- Insolvência
 - Legitimidade
 - Lei de Organização e Funcionamento dos Tribunais Judiciais
+- Liquidação Judicial
 - Medidas Preventivas
 - Notificação
+- Pagamento
+- Processo de Execução
+- Processo Especial de Falência
+- Publicitação
 - Recuperação de Empresas
-- Código Penal
-- Execução por Dívidas
+- Recurso
 - Regulamento CE
 - Regulamento Emolumentar dos Registos e Notariado
 - Remuneração
-- Benefícios Fiscais
-- Processo de Execução
-- Administrador da Insolvência
-- Custas Judiciais
+- Titularização de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:107596684:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 38º do Código da Insolvência e de Recuperação de Empresas, aprovado pelo Dec Lei 53/2004 de 18-Mar,\
+    \ na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 38º do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Dec Lei 53/2004, de 18-Mar,\
+    \ na redacção do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:552804:por
+  label: "Alterados os art.s 37º, 39º, 52º, 55º, 75º, 230º e 232º do Código da Insolvência e da Recuperação de Empresas, aprovado\
+    \ pelo Dec Lei 53/2004, de 18-mar, na redacção do presente diploma, pela LEI.16/2012.20.04.2012.AR, DR.IS [79] de 20.04.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2012-552804
+  date: '2012-04-20'
+- type: amended_by
+  target: pt:dre:259235:por
+  label: "Extinta, nos termos do nº 6 do art. 32º, a comissão de apreciação e controlo da atividade dos administradores da\
+    \ insolvência e revogada, a partir de 28.03.2013, a Lei 32/2004, de 22-jul, na redação do presente diploma, pela LEI.22/2013.26.02.2013.AR,\
+    \ DR.IS [40] de 26.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2013-259235
+  date: '2013-02-26'
+- type: amended_by
+  target: pt:dre:107596684:por
+  label: Alterados, a partir de 01.07.2017, os arts. 9.º, 27.º, 32.º, 37.º, 38.º, 52.º e 164.º, na redação do presente diploma,
+    do Código da Insolvência e da Recuperação de Empresas, aprovado pelo Dec Lei 53/2004 de 18-mar, na versão republicada
+    pelo Dec Lei 200/2004 de 18-ago, pelo Decreto-Lei n.º 79/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30,
+    sem prejuízo do art. 6.º deste último
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2017-107596684
+  date: '2017-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/2004/08/18/p/dre
   label: null
@@ -123,16 +157,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2004/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2004/07/22/p/dre
+- type: cites
+  target: pt:dre:480702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:19Z'
   warnings: []
   errors: []
 ---
@@ -191,13 +237,17 @@ Os artigos 9.º, 27.º, 32.º, 34.º, 37.º, 38.º, 39.º, 44.º, 52.º, 55.º, 
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
 2 - Nos casos de apresentação à insolvência, o despacho de indeferimento liminar que não se baseie, total ou parcialmente, na falta de junção dos documentos exigida pela alínea a) do n.º 2 do artigo 24.º é objecto de publicação no Diário da República, no prazo previsto no n.º 4 do artigo 38.º, devendo conter os elementos referidos no n.º 8 do artigo 37.º
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A escolha do administrador judicial provisório recai em entidade inscrita na lista oficial de administradores da insolvência, podendo o juiz ter em conta a proposta eventualmente feita na petição inicial no caso de processos em que seja previsível a existência de actos de gestão que requeiram especiais conhecimentos.
 
@@ -205,11 +255,15 @@ Os artigos 9.º, 27.º, 32.º, 34.º, 37.º, 38.º, 39.º, 44.º, 52.º, 55.º, 
 
 3 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º aplica-se, respectivamente e com as necessárias adaptações, à publicidade e ao registo da nomeação do administrador judicial provisório e dos poderes que lhe forem atribuídos, à fiscalização do exercício do cargo e responsabilidade em que possa incorrer e ainda à eficácia dos actos jurídicos celebrados sem a sua intervenção, quando exigível.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +281,9 @@ O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º a
 
 8 - Os editais e anúncios referidos no número anterior devem indicar o número do processo, a dilação e a possibilidade de recurso ou dedução de embargos e conter os elementos e informações previstos nas alíneas a) a e) e i) a n) do artigo anterior, advertindo-se que o prazo para o recurso, os embargos e a reclamação dos créditos só começa a correr depois de finda a dilação e que esta se conta da publicação do anúncio referido no número anterior.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -241,7 +297,9 @@ O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º a
 
 6 - O juiz pode, oficiosamente ou a requerimento de algum interessado, determinar as formas de publicidade adicional que considere indicadas.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -261,13 +319,17 @@ O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º a
 
 9 - Para os efeitos previstos no n.º 1, presume-se a insuficiência da massa quando o património do devedor seja inferior a (euro) 5000.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
 2 - No caso de ter sido nomeado um administrador judicial provisório, a sentença é objecto de publicação e registo, nos termos previstos nos artigos 37.º e 38.º, com as necessárias adaptações.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +337,9 @@ O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º a
 
 3 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -289,11 +353,15 @@ O disposto nos artigos 37.º, 38.º, 58.º e 59.º e no n.º 6 do artigo 81.º a
 
 6 - A requerimento do administrador da insolvência e sempre que este não tenha acesso directo às informações pretendidas, o juiz oficia quaisquer entidades públicas e instituições de crédito para, com base nos respectivos registos, prestarem informações consideradas necessárias ou úteis para os fins do processo, nomeadamente sobre a existência de bens integrantes da massa insolvente.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 A cessação de funções do administrador da insolvência e a nomeação de outra pessoa para o desempenho do cargo são objecto dos registos e da publicidade previstos nos artigos 37.º e 38.º, com as necessárias adaptações.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -303,7 +371,9 @@ A cessação de funções do administrador da insolvência e a nomeação de out
 
 4 - ...
 
-###### Artigo 164.º — Modalidades da alienação
+Artigo 164.º
+
+Modalidades da alienação
 
 1 - ...
 
@@ -317,7 +387,9 @@ A cessação de funções do administrador da insolvência e a nomeação de out
 
 6 - ...
 
-###### Artigo 216.º — [...]
+Artigo 216.º
+
+[...]
 
 1 - O juiz recusa ainda a homologação se tal lhe for solicitado pelo devedor, caso este não seja o proponente e tiver manifestado nos autos a sua oposição, anteriormente à aprovação do plano de insolvência, ou por algum credor ou sócio, associado ou membro do devedor cuja oposição haja sido comunicada nos mesmos termos, contanto que o requerente demonstre em termos plausíveis, em alternativa, que:
 
@@ -331,17 +403,23 @@ b) ...
 
 4 - ...
 
-###### Artigo 229.º — [...]
+Artigo 229.º
+
+[...]
 
 A atribuição ao devedor da administração da massa insolvente, a proibição da prática de certos actos sem o consentimento do administrador da insolvência e a decisão que ponha termo a essa administração são objecto de publicidade e registo, nos termos constantes dos artigos 37.º e 38.º
 
-###### Artigo 230.º — [...]
+Artigo 230.º
+
+[...]
 
 1 - ...
 
 2 - A decisão de encerramento do processo é notificada aos credores e objecto da publicidade e do registo previstos nos artigos 37.º e 38.º, com indicação da razão determinante.
 
-###### Artigo 232.º — [...]
+Artigo 232.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +435,9 @@ A atribuição ao devedor da administração da massa insolvente, a proibição 
 
 7 - Presume-se a insuficiência da massa quando o património seja inferior a (euro) 5000.
 
-###### Artigo 290.º — [...]
+Artigo 290.º
+
+[...]
 
 1 - Verificando-se os pressupostos do reconhecimento da declaração de insolvência, o tribunal português ordena, a requerimento do administrador da insolvência estrangeiro, a publicidade do conteúdo essencial da decisão de declaração de insolvência, da decisão de designação do administrador de insolvência e da decisão de encerramento do processo, nos termos do artigo 37.º, aplicável com as devidas adaptações, podendo o tribunal exigir tradução certificada por pessoa que para o efeito seja competente segundo o direito do Estado do processo.
 
@@ -379,7 +459,9 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 4 - No prazo de cinco dias a contar do deferimento do pedido de suspensão, a comissão deve informar a Direcção-Geral da Administração da Justiça desse facto, por via electrónica, para que esta proceda à actualização das listas oficiais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -389,13 +471,17 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 4 - No caso previsto no número anterior, está vedada a inscrição do candidato como pessoa especialmente habilitada a praticar actos de gestão para efeitos do disposto no n.º 3 do artigo 2.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Em caso de aprovação no exame de admissão, a comissão, no prazo de cinco dias, ordena por via electrónica à Direcção-Geral da Administração da Justiça que inscreva o candidato nas listas oficiais, no prazo de cinco dias.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -405,7 +491,9 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 4 - Os encargos decorrentes do financiamento da comissão são assegurados pelo Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -419,7 +507,9 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A comissão pode, por deliberação fundamentada e na sequência de processo de averiguações, ordenar, por via electrónica, à Direcção-Geral da Administração da Justiça que, no prazo de cinco dias, suspenda por um período não superior a cinco anos ou cancele definitivamente a inscrição de qualquer administrador da insolvência por se ter verificado qualquer facto que consubstancie incumprimento dos deveres de administrador da insolvência ou que revele falta de idoneidade para o exercício das mesmas.
 
@@ -437,7 +527,9 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 8 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -461,7 +553,9 @@ Os artigos 4.º, 6.º, 11.º, 12.º, 16.º, 18.º, 26.º e 27.º do Estatuto do 
 
 11 - A massa insolvente deve reembolsar os credores dos montantes adiantados nos termos dos números anteriores logo que tenha recursos disponíveis para esse efeito.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Nas situações previstas nos artigos 39.º e 232.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pelo Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P.
 
@@ -487,12 +581,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - João Tiago Valente Almeida da Silveira - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 23 de Julho de 2007.**
+Promulgado em 23 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Julho de 2007.**
+Referendado em 27 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

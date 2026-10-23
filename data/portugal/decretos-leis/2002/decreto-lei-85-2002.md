@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2002/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2002-303141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 025ced1f555997392d41f8e2f5ddec5116e479e72197f600b487297d5eb105eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b53494e90aba789a71077c6f8426d4ec2249cdf65b712710f4a1e008a2723425
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,16 +103,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/1997/03/14/p/dre
+- type: cites
+  target: pt:dre:180468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o Dec Lei 182/95 de 27-Jul, na redacção do presente diploma, pelo DEC LEI.29/2006.15.02.2006.MEI, DR.IS-A\
+    \ [33] de 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:36Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +189,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -171,7 +207,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Consideram-se integrados no SENV, nos termos do presente diploma, os aproveitamentos hidroeléctricos de potência instalada superior a 10 MW, referidos no anexo ao presente diploma, explorados pelas empresas identificadas no mesmo anexo.
 
@@ -179,7 +217,9 @@ d) ...
 
 3 - Para efeitos do número anterior, as empresas titulares da licença de exploração dos referidos aproveitamentos devem, no prazo de 90 dias a contar da data da publicação do presente diploma, requerer ao director-geral da Energia a sua transição para o regime de produção referido no número anterior.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +249,9 @@ l) Os aproveitamentos hidroeléctricos não vinculados com mais de 10 MW podem r
 
 3 - A periodicidade das declarações referidas no n.º 1, incluindo a revisão dos valores indicados nas mesmas, é estabelecida pela Entidade Reguladora.
 
-## ANEXO — Entidades produtoras de energia eléctrica integradas no SEP e centros electroprodutores afectos
+ANEXO
+
+Entidades produtoras de energia eléctrica integradas no SEP e centros electroprodutores afectos
 
 ...
 
@@ -243,12 +285,12 @@ Póvoa, Bruceira, Velada e Caldeirão.»
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 13 de Março de 2002.**
+Promulgado em 13 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

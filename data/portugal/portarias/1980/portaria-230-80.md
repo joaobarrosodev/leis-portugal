@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-1980-475349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff44772ccf9582f0b43d652532c16d3640f7f1de041509a45983f679764e36ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db041e490d558b51e33a63a6591c6d54dc14891e9c5caa37a78aea622718c27a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indústria Automóvel
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370046:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:52Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +106,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 2.º A percentagem de incorporação a que se refere o n.º 1 do artigo 13.º do [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, é calculada pela relação que se traduz na seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/10500/08780882.pdf))](https://files.diariodarepublica.pt/1s/1980/05/10500/08780882.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/10500/08780882.pdf)
 
 3.º - 1 - O valor nacional acrescentado, a que se reportam o [Decreto-Lei n.º 351/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1979-370046), de 30 de Agosto, e a alínea a) do n.º 2.º deste diploma, será o valor do produto à saída de fábrica depois de deduzido o valor dos componentes estrangeiros incorporados e os descontos, bónus, reembolsos e outras deduções de efeito equivalente.
 

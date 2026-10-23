@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/462-1971-630235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b13cb46e172c13c956add1d7797bafeb4e35488f1a53f35e45429453dce35ea8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bff78799bf1c1069a86660d16b4b23ce38592c97eb6375b5142322eead435a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:418072:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:35Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo d
 
 1.º São tornadas extensivas a todas as províncias ultramarinas as bases II, VI e VIII da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, as quais terão a redacção seguinte:
 
-###### Base II
+Base II
 
 Os fins das Casas dos Pescadores são os seguintes:
 
@@ -112,13 +116,13 @@ A realização destes fins não está sujeita a regras uniformes e é condiciona
 
 As Casas dos Pescadores têm por dever conservar e acarinhar todos os usos e tradições locais, especialmente os de natureza espiritual, que estejam ligados à formação dos sentimentos e virtudes da gente do mar.
 
-###### Base VI
+Base VI
 
 A direcção da Casa dos Pescadores é constituída por um presidente, que será o capitão do porto ou o delegado marítimo, um secretário e um tesoureiro.
 
-**O presidente da direcção poderá agregar a esta, para melhor execução da sua actividade, mas sem voto deliberativo, um ou mais sócios contribuintes.**
+O presidente da direcção poderá agregar a esta, para melhor execução da sua actividade, mas sem voto deliberativo, um ou mais sócios contribuintes.
 
-###### Base VIII
+Base VIII
 
 As Casas dos Pescadores e a Junta Central das Casas dos Pescadores, logo que o Boletim Oficial publique a declaração de terem sido aprovados os seus estatutos, gozam das seguintes regalias:
 
@@ -140,6 +144,6 @@ d) Contribuição predial relativamente aos prédios que possuam nas condições
 
 2.º É revogada a Portaria Ministerial n.º 12685, de 21 de Dezembro de 1948.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

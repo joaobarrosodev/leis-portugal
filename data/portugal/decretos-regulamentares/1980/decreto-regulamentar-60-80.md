@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23500/33173318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1980-462246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72f2f489b3e9199d8ec09c7b472ea24b4ff5f536b62324ebd00e53f79fd4f234
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 664ec9546f660938d2da8254e247a637e86a8a10e8d56803dbc233f4efe9b628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação Familiar
+- Proteção à Infância
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:240826:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:377750:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240826:por
+  label: "Revogado pelo DEC LEI.190/92.03.09.1992.MESS, DR.IS-A [203] de 03.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1992-240826
+  date: '1992-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:53Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Competências dos organismos e serviços)
 
@@ -116,13 +128,13 @@ e) Pedir, nos termos legais aplicáveis, a aplicação de medidas jurisdicionais
 
 2 - As competências referidas no n.º 1 devem ser, sempre que possível, exercidas por equipas interdisciplinares de funcionários devidamente preparados.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Contactos entre o menor e a família de origem)
 
 Os contactos entre o menor e a família de origem têm a natureza e a frequência que, em cada caso, de harmonia com as circunstâncias, forem julgadas adequadas pelos serviços competentes.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Audiência do menor)
 
@@ -130,7 +142,7 @@ Os contactos entre o menor e a família de origem têm a natureza e a frequênci
 
 2 - A audiência do menor será obrigatória a partir dos 14 anos, tornando-se a sua prática aconselhável logo que atinja 7 anos de idade.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Obrigações da família de origem)
 
@@ -144,7 +156,7 @@ c) Contactar e visitar o acolhido nos termos a determinar pelos serviços em cad
 
 d) Colaborar com a família de acolhimento na orientação e educação do menor.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Pestações pecuniárias)
 
@@ -154,13 +166,13 @@ d) Colaborar com a família de acolhimento na orientação e educação do menor
 
 3 - Os valores das prestações referidas no número anterior serão estabelecidos por despacho e revistos periodicamente, tendo em conta, designadamente, o agravamento do custo de vida.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Modelo de contrato e instruções regulamentares)
 
 A Direcção-Geral da Segurança Social elaborará o modelo de contrato a celebrar entre os organismos e serviços de segurança social e as famílias de acolhimento, bem como as demais instruções regulamentares indispensávies.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Resolução de dúvidas)
 
@@ -168,8 +180,8 @@ Por despacho do Ministro dos Assuntos Sociais serão resolvidas as dúvidas e in
 
 Francisco Sá Carneiro - João António Morais Leitão.
 
-**Promulgado em 30 de Setembro de 1980.**
+Promulgado em 30 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

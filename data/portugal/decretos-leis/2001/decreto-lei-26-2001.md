@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2001/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2001-314877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87172b7a8c23a171a6af1d91aad869b939c5c57521ef466d87c94c82bba9e5db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb5f13590e21085df5cf008694a12c90973db0a333ce455be6056d70a814b31d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,39 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Especificação Técnica
-- Veículo
 - Normas de Segurança
-- Proteção do Ambiente
 - Poluição
+- Proteção do Ambiente
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:281200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424736:por
+  label: "Aditado o art. 24º-A e alterado o art. 24º do Regulamento aprovado pelo Dec Lei 202/2000 de 01-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.236/2002.2002.11.05.MAI, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2002-424736
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:315875:por
+  label: "Altera os arts. 13º, 149º e 150º e o anexo XXXII do Regulamento aprovado pelo Dec Lei 202/2000, de 01-Set, com a\
+    \ redacção deste diploma, pelo DEC LEI.72-D/2003.2003.04.14.MAI DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-d-2003-315875
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:494052:por
+  label: "Alterados os arts. 175.º, 184.º, 186.º-A e oa anexos 24.º e 31.º, todos do Regulamento aprovado pelo Dec Lei 202/2000,\
+    \ de 01-Set, na redacção do presente diploma, pelo DEC LEI.224/2003.2003.09.24.MAI DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2003-494052
+  date: '2003-09-24'
+- type: amended_by
+  target: pt:dre:281200:por
+  label: "Alterados os arts. 182º, 186º-A e 194º e o nº 6.6 do anexo 24º do Regulamento aprovado pelo Dec Lei 202/2000 de\
+    \ 01-Set, com a redacção do presente diploma pelo DEC LEI.132/2004.03.06.2004.MAI, DR.IS-A [130] de 03.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2004-281200
+  date: '2004-06-03'
 - type: cites
   target: celex:31970L0220
   label: null
@@ -95,15 +119,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1999/102/oj
 article_structure:
-  article_count: 19
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:24Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +182,9 @@ d) ...
 
 6 - Os métodos que forneçam um nível adequado de protecção contra intervenções abusivas devem ser aprovados pela Direcção-Geral de Viação.
 
-###### Artigo 24.º — Sistemas de diagnóstico a bordo para automóveis
+Artigo 24.º
+
+Sistemas de diagnóstico a bordo para automóveis
 
 1 - ...
 
@@ -178,7 +204,9 @@ d) ...
 
 9 - Os veículos de outras categorias e os veículos das categorias M(índice 1) e N(índice 1) não previstos nos n.os 2 a 8 podem ser equipados com um sistema OBD, aplicando-se-lhes o disposto nos n.os 6.5.3 a 6.5.3.6 do anexo 24.º do presente Regulamento.
 
-###### Artigo 175.º — Definições
+Artigo 175.º
+
+Definições
 
 1 - Para efeitos do presente capítulo, entende-se por:
 
@@ -224,7 +252,9 @@ t) ...
 
 u) Informações para a reparação: as informações necessárias para diagnóstico, manutenção, inspecção, monitorização periódica ou reparação do veículo que os fabricantes forneçam aos seus representantes ou oficinas autorizados, incluindo, se necessário, manuais de manutenção ou manuais técnicos, informações sobre o diagnóstico, nomeadamente valores teóricos mínimos e máximos das medições, diagramas de ligação, número de identificação da calibração do suporte lógico aplicável a um modelo de veículo, instruções para casos individuais e especiais, informações relativas a ferramentas e equipamentos, informações sobre registos de dados, monitorização bidireccional e dados de ensaio.
 
-###### Artigo 176.º — Requisitos de ensaio
+Artigo 176.º
+
+Requisitos de ensaio
 
 1 - ...
 
@@ -238,19 +268,25 @@ u) Informações para a reparação: as informações necessárias para diagnós
 
 6 - ...
 
-###### Artigo 178.º — Falhas de ignição do motor nos veículos equipados com motor de ignição comandada
+Artigo 178.º
+
+Falhas de ignição do motor nos veículos equipados com motor de ignição comandada
 
 1 - ...
 
 2 - Sempre que o fabricante possa demonstrar à Direcção-Geral de Viação que a detecção de níveis mais elevados de percentagens de falhas de ignição não melhora a fiabilidade da detecção ou que as falhas de ignição não podem ser separadas de outros efeitos, nomeadamente das estradas irregulares, ou mudanças de relações da caixa de velocidades depois do arranque do motor, o sistema de monitorização de falhas de ignição pode ser desactivado quando essas condições se verifiquem.
 
-###### Artigo 179.º — Descrição dos ensaios
+Artigo 179.º
+
+Descrição dos ensaios
 
 1 - ...
 
 2 - O sistema OBD deve indicar a existência de uma anomalia no componente ou sistema relacionado com as emissões, quando dessa anomalia resultarem emissões que excedam os limites previstos no quadro IX, constante do anexo 39.º do presente Regulamento.
 
-###### Artigo 180.º — Requisitos de monitorização no caso dos veículos equipados com motor de ignição comandada
+Artigo 180.º
+
+Requisitos de monitorização no caso dos veículos equipados com motor de ignição comandada
 
 1 - Para preenchimento dos requisitos previstos no artigo anterior, o sistema OBD deve monitorizar, no mínimo:
 
@@ -258,7 +294,9 @@ a) A redução do rendimento do catalisador no que respeita unicamente às emiss
 
 b) ...
 
-###### Artigo 181.º — A deterioração do sensor de oxigénio
+Artigo 181.º
+
+A deterioração do sensor de oxigénio
 
 Na deterioração do sensor de oxigénio devem ser monitorizados:
 
@@ -268,7 +306,9 @@ b) Todos os outros componentes do conjunto propulsor relacionados com as emissõ
 
 c) O dispositivo electrónico de controlo da purga de emissões por evaporação, no mínimo, no que respeita à continuidade dos circuitos.
 
-###### Artigo 182.º — Requisitos de monitorização no caso dos veículos equipados com motor de ignição por compressão
+Artigo 182.º
+
+Requisitos de monitorização no caso dos veículos equipados com motor de ignição por compressão
 
 1 - ...
 
@@ -286,7 +326,9 @@ e) Salvo se monitorizados de outro modo, todos os outros componentes do conjunto
 
 3 - ...
 
-###### Artigo 184.º — Armazenamento de códigos de anomalia
+Artigo 184.º
+
+Armazenamento de códigos de anomalia
 
 1 - ...
 
@@ -298,7 +340,9 @@ e) Salvo se monitorizados de outro modo, todos os outros componentes do conjunto
 
 5 - ...
 
-###### Artigo 185.º — Corte do IA
+Artigo 185.º
+
+Corte do IA
 
 1 - Se de acordo com as especificações do fabricante já não ocorrer nenhuma falha de ignição com níveis susceptíveis de danificar o catalisador ou se o motor passar a funcionar em condições de velocidade e carga nas quais o nível da falha de ignição em questão já não seja susceptível de danificar o catalisador, o IA pode ser comutado para o anterior modo de activação, durante o primeiro ciclo de condução em que o nível de falha foi detectado, e pode ser comutado para o modo activado normal, nos ciclos de condução subsequentes, podendo os códigos de anomalia correspondentes e as condições armazenadas da trama retida ser apagados se o IA for comutado para o anterior modo de activação.
 
@@ -314,13 +358,17 @@ Deficiências em relação aos sistemas OBD dos veículos
 
 Os veículos equipados com sistemas OBD com, no máximo, dois componentes, ou sistemas separados monitorizados, contendo características de funcionamento temporárias ou permanentes que prejudicam a monitorização, de outro modo eficiente, pelo OBD desses componentes ou sistemas, ou que não satisfaçam todos os outros requisitos pormenorizados para o OBD, podem ser homologados, matriculados e vendidos com essas deficiências desde que sejam cumpridos os requisitos estabelecidos no artigo 186.º-A do presente Regulamento.
 
-###### Artigo 175.º-B — Informações para a reparação
+Artigo 175.º-B
+
+Informações para a reparação
 
 1 - O fabricante não está obrigado a pôr à disposição as informações, previstas na alínea u) do artigo 175.º, que estejam abrangidas por direitos de propriedade intelectual ou que constituam conhecimentos próprios dos fabricantes ou fornecedores de equipamentos de origem.
 
 2 - Nas situações previstas no número anterior, as informações técnicas necessárias não devem ser retidas de modo incorrecto.
 
-###### Artigo 186.º-A — Requisitos relativos à homologação de sistemas de diagnóstico a bordo
+Artigo 186.º-A
+
+Requisitos relativos à homologação de sistemas de diagnóstico a bordo
 
 1 - O fabricante pode solicitar à Direcção-Geral de Viação a homologação de um sistema OBD mesmo que este contenha uma ou mais deficiências que obstem ao preenchimento total dos requisitos específicos estabelecidos no presente capítulo.
 
@@ -414,15 +462,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto a aprovado em Conselho de Ministros de 23 de Novembro de 2000. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Janeiro de 2001.**
+Promulgado em 8 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2001.**
+Referendado em 11 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO 1.º
 
@@ -430,13 +478,13 @@ O quadro constante do anexo 23.º do Regulamento das Homologações CE de Veícu
 
 Curva da temperatura ambiente diurna para a calibração do recinto e o ensaio de emissões diurnas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
 
 ## ANEXO 2.º
 
 1 - O quadro referido no n.º 1.8 constante do anexo 31.º do Regulamento das Homologações CE de Veículos, Sistemas e Unidades Técnicas Relativo às Emissões Poluentes é substituído pelo quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
 
 Tipo II: ... (percentagem).
 
@@ -452,7 +500,7 @@ Factores de deterioração DF: calculados, fixos (1);
 
 Especificar os valores: ...
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
 
 2 - Os n.os 1.8.1 a 1.8.5 constantes do anexo 31.º do Regulamento referido no número anterior são renumerados 1.8.2 a 1.8.6.
 
@@ -464,4 +512,4 @@ O quadro IX constante do anexo 39.º do Regulamento das Homologações CE de Ve�
 
 QUADRO IX
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)](https://files.diariodarepublica.pt/1s/2001/02/027a00/05600565.pdf)

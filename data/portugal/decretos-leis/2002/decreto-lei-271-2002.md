@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/2002/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2002-441098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15265d3bb0ccbfae6bf408c89bd9ed23e1dc68b740c1e727772f2b5cbc15dc6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd34522994310995e70dd87e438ec208c183c3739d1e07f5bf3a3c01c7a3e24f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
+- Comércio
 - Comparticipação do Estado
-- Marca
-- Serviço Nacional de Saúde
-- Medicamento
 - Informação do Consumidor
+- Marca
+- Medicamento
 - Preço
 - Receita Médica
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:542271:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:542271:por
+  label: "Alterados os art.s 2º e 3º da Lei 14/2000, de 08-ago, na redacção do presente diploma, pela LEI.11/2012.08.03.2012.AR,\
+    \ DR.IS [49] de 08.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2012-542271
+  date: '2012-03-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/14/2000/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2000/08/08/p/dre
+- type: cites
+  target: pt:dre:336155:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:25Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +136,17 @@ O artigo 1.º, os n.os 1 e 2 do artigo 2.º e os n.os 1 e 2 do artigo 3.º da [L
 
 A presente lei tem por objectivo a racionalização da política do medicamento, o desenvolvimento e a melhoria da qualidade da prestação de cuidados de saúde no âmbito do Serviço Nacional de Saúde, prevendo, para o efeito, as medidas que constam dos artigos seguintes.
 
-###### Artigo 2.º — Prescrição de medicamentos
+Artigo 2.º
+
+Prescrição de medicamentos
 
 1 - A prescrição de medicamentos contendo substâncias activas para as quais existam medicamentos genéricos autorizados é efectuada mediante a indicação da denominação comum internacional (DCI) ou do nome genérico, sendo admitido a seguir a essa indicação o nome de marca do medicamento ou o nome do titular da autorização de introdução no mercado (AIM), seguida em todos os casos da dosagem da forma farmacêutica e da posologia.
 
 2 - Quando o médico prescritor entenda indicar o nome de marca do medicamento ou do titular da autorização de introdução no mercado (AIM) no caso dos medicamentos genéricos, deverá obrigatoriamente informar o utente da existência de medicamentos genéricos comparticipados pelo Serviço Nacional de Saúde e sobre aquele que tem o preço mais baixo.
 
-###### Artigo 3.º — Dispensa de medicamento
+Artigo 3.º
+
+Dispensa de medicamento
 
 1 - No acto de dispensa dos medicamentos prescritos ao abrigo do n.º 1 do artigo anterior, o farmacêutico ou o seu colaborador devidamente habilitado devem, obrigatoriamente, informar o utente da existência de medicamentos genéricos comparticipados pelo Serviço Nacional de Saúde e sobre aquele que tem o preço mais baixo.
 
@@ -150,12 +164,12 @@ Este diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Luís Filipe Pereira.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

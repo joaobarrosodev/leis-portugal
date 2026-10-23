@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05400/0001300014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2025/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d682cc428583f907fb93e69fe619c279fbbb9f95b041eb054b5bcbe96743fd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e5aa1b8e1094ad164d27b44189859cfbef81d2fa743122ca105464b17bf3df3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Acesso à Educação
 - Administração do Ensino
-- Plano de Estudos
-- Regulamentação de Atos Legislativos
-- Política de Educação
 - Ensino
+- Plano de Estudos
+- Política de Educação
+- Regulamentação de Atos Legislativos
 - Sistema Educativo
 relationships:
 - type: amended_by
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:49Z'
   warnings: []
   errors: []
 ---
@@ -143,12 +151,14 @@ O disposto nos artigos 20.º e 21.º do [Decreto-Lei n.º 296-A/98](https://diar
 
 Visto e aprovado em Conselho de Ministros de Ministros de 20 de fevereiro de 2025. - Joaquim Miranda Sarmento - Manuel Alexandre Mateus Homem Cristo.
 
-**Promulgado em 4 de março de 2025.**
+Promulgado em 4 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de março de 2025.**
+Referendado em 5 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118808699

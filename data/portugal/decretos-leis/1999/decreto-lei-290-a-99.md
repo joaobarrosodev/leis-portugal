@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 176/1999, 1º Suplemento, Série I-A de 1999-07-30
   number: '176'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4934-(2) a 4934-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/176a01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/290-a/1999/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-1999-241799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34d6fb5b533fe0f71577ac07de2c10be9953efb28593d65f438574d642f0299a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d726e99c5622cc2ab260021670ceeb41abbffa41814edaace09d5580ccc7ecf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,33 @@ subjects:
 - Aproximação das Legislações
 - Atribuição de Frequências
 - CEE
-- Multa
-- REDE Pública de Telecomunicações
-- Comunidade Europeia
-- Contrato de Concessão
-- Concorrência
-- Fiscalização
 - Comunicação por Satélite
+- Comunicações
+- Comunidade Europeia
+- Concorrência
+- Contrato de Concessão
+- Equipamento de Transmissão
+- Fiscalização
 - Instituto das Comunicações de Portugal
 - Licenciamento
+- Multa
 - Preço
-- Serviço Público
 - Prestação de Serviços
-- Comunicações
+- REDE Pública de Telecomunicações
 - Regulamento
 - Sanção
-- Equipamento de Transmissão
+- Serviço Público
 - Televisão por CABO
 relationships:
 - type: amended_by
   target: pt:dre:581061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611564:por
+  label: "Alterados os arts. 23º, 24º, e 34º, pelo DEC LEI 249/2001.2001.09.21.MES,DR.IS-A [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2001-611564
+  date: '2001-09-21'
 - type: cites
   target: celex:31990L0387
   label: null
@@ -103,16 +108,22 @@ relationships:
   target: celex:31997L0051
   label: null
   source: http://data.europa.eu/eli/dir/1997/51/oj
+- type: repealed_by
+  target: pt:dre:581061:por
+  label: "Revogado a partir de 11.02.2004, com as alterações introduzidas pelo Dec Lei 249/2001 de 21-Set, pela LEI.5/2004.10.02.2004.AR,\
+    \ DR.IS-A [34] de 10.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2004-581061
+  date: '2004-02-10'
 article_structure:
   article_count: 39
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:36Z'
   warnings: []
   errors: []
 ---
@@ -177,15 +188,15 @@ No desenvolvimento do regime jurídico estabelecido pela Lei n.º 91/97, de 1 de
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.**
+Promulgado em Ponta Delgada, Açores, em 20 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 1999.**
+Referendado em 22 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DE EXPLORAÇÃO DE REDES PÚBLICAS DE TELECOMUNICAÇÕES
 

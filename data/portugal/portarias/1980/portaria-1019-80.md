@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1019-1980-459033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e49bc7706fc46ee0f9e95b4c7c5e75b3903a811958b093dd18144c44c95cf0f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cf703ddc81f8de91099abbd8ca95f02bb30196364491eda51d35042ff3237ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Comércio
+- Cooperativa Agrícola
+- Importação
+- Junta Nacional das Frutas
+- Preço
+- Produção Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:568370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692382:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459594:por
+  label: Rectificada pela DECL.DD6606.05.12.1980.PCM, DR.IS [293] de 20.12.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-459594
+  date: '1980-12-05'
+- type: repealed_by
+  target: pt:dre:568370:por
+  label: "Revogada pela PORT.978/81.17.11.1981.MACP, DR.IS [265] de 17.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-1981-568370
+  date: '1981-11-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:09Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +173,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura e Pesca
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
 
 2 - O encargo correspondente ao transporte desde o armazém do importador-armazenista até ao revendedor-retalhista poderá ser acrescido à margem do interveniente que efectuar esse transporte, quando devidamente comprovado pela documentação da despesa realizada, não podendo exceder 40$00 por saco de 50 kg.
 
@@ -156,7 +185,7 @@ QUADRO I
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
 
 2 - O encargo correspondente ao transporte desde o armazém do importador até ao revendedor-retalhista poderá ser acrescido a uma das margens referidas no n.º 1, conforme o interveniente que o efectuar, quando devidamente comprovado pela documentação da despesa realizada, não podendo exceder 65$00 por saco de 50 kg.
 
@@ -180,7 +209,7 @@ QUADRO II
 
 13.º - 1 - Os preços de garantia a praticar pela Junta Nacional das Frutas na aquisição de batata de consumo nacional para a campanha 1981-1982, ponderados os custos de produção nas várias regiões, são os seguintes, por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27600/40264028.pdf)
 
 2 - Os preços referidos no n.º 1 entendem-se para batata de consumo devidamente encascada e escolhida, em condições de exportação, proveniente de batatais inspeccionados pelos serviços regionais do Ministério da Agricultura e Pescas, colocada nos armazéns ou locais previamente indicados pela Junta Nacional das Frutas para o efeito.
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/255a00/70827086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241/2002/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-2002-424730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5ca2be4eaf3f5b1d80303b8c118a189a50080f8cef03fab0022da6b6d7f1a94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 024ac9c15f6760cb8add94751d5c493931626f61a818793f620ffe2cbae46504
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Produto Alimentar
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
-- Região Autónoma
-- Multa
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
-- Saúde Pública
+- Direção Geral da Saúde
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Alimentação Humana
-- Aditivo Alimentar
-- Suplemento Alimentar
+- Multa
+- Produto Alimentar
 - Qualidade do Produto
-- Comércio
+- Recurso
+- Região Autónoma
+- Saúde Pública
+- Suplemento Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:335468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243501:por
+  label: "Alterados os arts. 2.º, 6.º e 11.º e o anexo I e aditado um anexo II, pelo DEC LEI.137/2005.17.08.2005.MS, DR.IS-A\
+    \ [157] de 17.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2005-243501
+  date: '2005-08-17'
+- type: amended_by
+  target: pt:dre:635810:por
+  label: "Alterados os arts. 6º e 8º e o anexo I deste diploma, com as alterações constantes do Dec Lei 137/2005 de 17-Ago,\
+    \ pelo DEC LEI.251/2007.04.07.2007.MS, DR.IS [127] de 04.07.2007, que o republicou com as alterações ora introduzidas\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2007-635810
+  date: '2007-07-04'
+- type: amended_by
+  target: pt:dre:642233:por
+  label: "Alterado o art. 11º do presente diploma, na redacção do Decreto-Lei n.º 137/2005, de 17 de Agosto, pelo DEC LEI.317/2007.20.09.2007.MS,\
+    \ DR.IS [182] de 20.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2007-642233
+  date: '2007-09-20'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -111,16 +130,21 @@ relationships:
   target: celex:32001L0015
   label: null
   source: http://data.europa.eu/eli/dir/2001/15/oj
+- type: repealed_by
+  target: pt:dre:335468:por
+  label: "Revogado, a partir de 26.06.2010, pelo DEC LEI.74/2010.21.06.2010.MADRP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2010-335468
+  date: '2010-06-21'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:48Z'
   warnings: []
   errors: []
 ---
@@ -245,15 +269,15 @@ Das decisões proferidas pela Direcção-Geral da Saúde ao abrigo dos artigos 3
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 15 de Outubro de 2002.**
+Promulgado em 15 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 

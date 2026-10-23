@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06300/0004500052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2025/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84e700a5218467f62d3983e2b0716fceddaab6bfa5a0b1aadb49eac91ddd8f8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 490a5e73cf1f67c0be39ac72e0e18d1e04d1fcbb9488646c791e4971862cbaef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração de Aeroportos
 - Aeronave com Motor
 - Aeroporto
+- ANA
 - Avião
-- Transporte Aéreo
 - Contra-ordenação
 - Madeira.região Autónoma
-- Administração de Aeroportos
-- ANA
-- Açores
 - Taxa
 - Terminal Aeroportuário
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:254/2012
+  label: Altera, a partir de 30 de abril de 2025, os artigos 7.º, 29.º, 48.º, 55.º e 71.º e adita, nos termos do artigo 4.º
+    do presente diploma, os artigos 7.º-A, 7.º-B, 7.º-C, 7.º-D e 7.º-E ao Decreto-Lei n.º 254/2012, de 28 de novembro, Diário
+    da República n.º 230/2012, Série I
+  source: null
+  date: '2012-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2004/01/09/p/dre
   label: null
@@ -99,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/18/2003/04/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/18/2003/04/01/a/dre
+- type: cites
+  target: pt:dre:190615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498683:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:36Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +222,9 @@ j) À declaração de abandono e perda a favor do Estado de aeronaves estacionad
 
 3 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +248,9 @@ e) [...]
 
 6 - [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -239,7 +270,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo [Decreto-Lei n.º 10/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2004-241189), de 9 de janeiro, constitui contraordenação aeronáutica civil muito grave o incumprimento, pelas transportadoras aéreas ou operadores de aeronaves, do dever de proceder à entrega de todo ou parte do produto da taxa de segurança a que se refere o n.º 1 do artigo 50.º, no prazo legalmente fixado para o efeito, desde que o montante em dívida seja igual ou superior a € 10 000,00.
 
@@ -263,7 +296,9 @@ c) O envio à ANAC, pela entidade gestora aeroportuária, do formulário de trá
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...]
 
@@ -313,7 +348,9 @@ b) A aeronave estacionada ininterruptamente, relativamente à qual seja devida u
 
 2 - No caso de aeronaves com sinais exteriores evidentes de impossibilidade de ser retirada da infraestrutura aeroportuária com segurança pelos seus próprios meios, o prazo referido na alínea a) é reduzido para 60 dias.
 
-###### Artigo 7.º-B — Notificação do proprietário
+Artigo 7.º-B
+
+Notificação do proprietário
 
 1 - Nas situações de aeronave estacionada abusivamente, a entidade gestora aeroportuária deve proceder à notificação, consoante os casos, do proprietário, da transportadora aérea e/ou do operador, para as respetivas moradas, para que retire a aeronave da infraestrutura aeroportuária no prazo máximo de 60 dias.
 
@@ -325,7 +362,9 @@ b) A aeronave estacionada ininterruptamente, relativamente à qual seja devida u
 
 5 - Quando tenha sido notificado o proprietário da aeronave e sobre a mesma incidir uma hipoteca, uma reserva de propriedade, penhora ou ato equivalente, deve aquele comunicá-lo à entidade gestora aeroportuária no prazo de 10 dias a contar da notificação, identificando os credores e/ou outros interessados, aplicando-se, o previsto no artigo seguinte.
 
-###### Artigo 7.º-C — Hipoteca e penhora
+Artigo 7.º-C
+
+Hipoteca e penhora
 
 1 - Quando a aeronave seja objeto de hipoteca, a remoção deve igualmente ser notificada ao credor, para a morada constante do registo nos termos do n.º 1 do artigo 7.º-B.
 
@@ -333,7 +372,9 @@ b) A aeronave estacionada ininterruptamente, relativamente à qual seja devida u
 
 3 - As notificações referidas no número anterior devem ser enquadradas no regime legal aplicável ao estacionamento abusivo, previsto no presente diploma, fazendo referência expressa às normas aplicáveis e respetivas cominações.
 
-###### Artigo 7.º-D — Remoção de aeronaves estacionadas nas infraestruturas aeroportuárias
+Artigo 7.º-D
+
+Remoção de aeronaves estacionadas nas infraestruturas aeroportuárias
 
 1 - A entidade gestora aeroportuária pode promover a remoção imediata de aeronave estacionada na infraestrutura aeroportuária para local adequado, nos seguintes casos:
 
@@ -357,7 +398,9 @@ d) Risco de colisão de aeronaves com aves, por aumento da atração de aves loc
 
 4 - Sempre que tenha de proceder à remoção de aeronaves abusivamente estacionadas, a entidade gestora aeroportuária não é responsável por danos causados na aeronave removida e ocorridos na operação de remoção, salvo se os mesmos resultarem de dolo ou negligência da sua parte.
 
-###### Artigo 7.º-E — Declaração de abandono
+Artigo 7.º-E
+
+Declaração de abandono
 
 1 - Uma vez cumpridas as disposições legais aplicáveis, se a aeronave abusivamente estacionada não for retirada dentro dos prazos previstos no artigo 7.º-B considera-se abandonada, para efeitos do disposto nos números seguintes.
 
@@ -383,12 +426,14 @@ O presente decreto-lei entra em vigor no trigésimo dia seguinte ao da sua publi
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 24 de março de 2025.**
+Promulgado em 24 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de março de 2025.**
+Referendado em 25 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118865439

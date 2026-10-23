@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/164b00/38493851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/21/1993/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1993-389641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d938f2dc22d59694d69fba2e8de869ee748e2ac0f02e2e3fdde7ae41f25f0029
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58ca9e9ddcbe1c15fb6bd40160419afe53694104f97e0e62118df4c059aec7db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,28 +70,46 @@ subjects:
 - Definição de Competências
 - Direcção Geral dos Serviços Judiciários
 - Expropriação
-- Recrutamento de Pessoal
 - Indemnização
 - Profissão Independente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:485444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516033:por
+  label: "Alterados os arts. 7º, 9º 10º e 11º, pelo DEC LEI.44/94.1994.02.19.MPLAT DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1994-516033
+  date: '1994-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/438/1991/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/438/1991/11/09/p/dre
+- type: cites
+  target: pt:dre:331060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:485444:por
+  label: "Revogado pelo DR.15/98.1998.07.09.MJ, DR.IS-B [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1998-485444
+  date: '1998-07-09'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:45Z'
   warnings: []
   errors: []
 ---
@@ -226,12 +244,12 @@ Presidência do Conselho de Ministros, 1 de Fevereiro de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - António Fernando Couto dos Santos.
 
-**Promulgado em 21 de Junho de 1993.**
+Promulgado em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1993.**
+Referendado em 23 de Junho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

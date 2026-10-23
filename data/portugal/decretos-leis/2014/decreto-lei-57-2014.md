@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/57/2014/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2014-25344033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69114e529a5696c09287322e49a74b7e107637a336446ea3329b25ac76b6122e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 339fd6c53e81cbeaf0a4858a3e43568ac9ef4d1c69cfdfa4a2d6db2aeb9ba154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Aeroportos
 - Aeroporto
 - Assistência em Escala
-- Transporte Aéreo
 - Contra-ordenação
-- Instituto Nacional de Aviação Civil
 - Faro
 - Fiscalização
-- Lisboa
-- Seguro
+- Instituto Nacional de Aviação Civil
 - Licenciamento
-- Serviço Público
+- Lisboa
+- Porto
 - Prestação de Serviços
 - Prorrogação de Prazo
-- Administração de Aeroportos
+- Seguro
+- Serviço Público
+- Transporte Aéreo
 - Transporte de Passageiros
-- Porto
 relationships:
 - type: cites
   target: celex:31996L0067
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:32Z'
   warnings: []
   errors: []
 ---
@@ -148,12 +148,12 @@ O artigo 4.º do Decreto-Lei n.º 19/2012, de 27 de janeiro, passa a ter a segui
 
 Visto e aprovado em Conselho de Ministros de 13 de março de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 2 de abril de 2014.**
+Promulgado em 2 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de abril de 2014.**
+Referendado em 3 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2012/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2012-552034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b53d6f0fee374800a7d7c93b8a1c02d3d8bdb7c176796321bc95abbc03e7a5ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 238825dcc0ee42aff2584e69eb01945a28dea697753c8e55514760e3c2fb0665
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- Financiamento
-- Instituição de Crédito
-- Gado Caprino
-- Crédito Bonificado
-- Definição de Competências
-- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Empréstimo
-- Exploração Pecuária
-- Gado Bovino
-- Gado Suíno
-- IFAP
-- Linha de Crédito
-- SECA
-- Crédito
-- Exploração Agrícola
-- Gado Ovino
-- Apicultura
 - Agricultor
 - Alimento para Animais
-- Gado Equino
-- Regulamento CE
-- Pecuária
 - Alteração Climática
+- Apicultura
+- Crédito
+- Crédito Bonificado
+- Definição de Competências
+- Empréstimo
+- Exploração Agrícola
+- Exploração Pecuária
+- Financiamento
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
+- Gado Suíno
+- IFAP
+- Instituição de Crédito
+- Linha de Crédito
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Pecuária
+- Produção Animal
+- Regulamento CE
+- SECA
 relationships:
 - type: cites
   target: celex:32007R1535
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:20Z'
   warnings: []
   errors: []
 ---
@@ -248,12 +248,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 19 de abril de 2012.**
+Promulgado em 19 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de abril de 2012.**
+Referendado em 23 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

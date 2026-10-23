@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1970-146757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55d776621e6c3e0c1524be8bf26f9c146303759628a9ea731662ccb230bf869b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e849b81c0bfc8515105510fb8c83ef979be3f1ffb7943ffb73b1b428a341a2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559176:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:49Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáu
 
 2.º Ao pessoal civil assalariado da Força Aérea em serviço nas províncias ultramarinas citadas serão atribuídas, a partir de 1 de Julho de 1970, as remunerações constantes da tabela II anexa à presente portaria.
 
-**O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.
 
 Para ser publicada nos Boletins Oficiais de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique. - J. da Silva Cunha.
 
@@ -113,7 +121,7 @@ Vencimentos mensais do pessoal civil contratado
 
 (N.º 1.º da Portaria n.º 599/70)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf)
 
 TABELA II
 
@@ -121,6 +129,6 @@ Salários do pessoal civil
 
 (N.º 2.º da Portaria n.º 599/70)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf))](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/27500/17841785.pdf)
 
-**O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/118a00/24422448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/1998/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1998-524047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4a2fe4d84915e14bdedf7b7d4950ddff6feeafe14f511af70faf3e47662375
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fe80bc9791ef8ef3687bbff4323d0c57e961fde0087bba496f8323621af529e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Formação Profissional
-- Pessoal Dirigente
-- Tecnologia da Informação
-- Gestão Financeira
+- Confidencialidade
 - Conselho de Direção
 - Definição de Competências
-- Mudança Tecnológica
 - Equipa de Missão
-- Gestão dos Recursos
-- Gestão Orçamental
-- Ministério das Finanças
-- Remuneração Acessória
-- Sociedade da Informação
-- Instituto de Informática
-- Segurança da Informação
-- Modernização Tecnológica
 - Equipamento Informático
+- Formação Profissional
+- Gestão de Recursos Humanos
+- Gestão dos Recursos
+- Gestão Financeira
+- Gestão Orçamental
+- Instituto de Informática
+- Ministério das Finanças
+- Modernização Tecnológica
+- Mudança Tecnológica
+- Normalização
 - Orgânica
-- Sistema de Informação
+- Pessoal Dirigente
 - Presidente
 - Prestação de Serviços
-- Confidencialidade
 - Quadro de Pessoal
 - Receita Própria
-- Gestão de Recursos Humanos
-- Normalização
+- Remuneração Acessória
+- Segurança da Informação
+- Sistema de Informação
+- Sociedade da Informação
+- Tecnologia da Informação
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:520454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567032:por
+  label: "Extintas a Direcção de Serviços de Sistemas de Informação e a Direcção de Serviços de Tecnologias de Informação\
+    \ do Instituto de Informática, pelo DEC LEI.300/2001.2001.11.22.MREAP DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Transitadas para o Instituto de Informática, do Ministério das Finanças, cuja orgânica foi aprovada pelo presente\
+    \ diploma, as atribuições relativas à promoção e normalização dos sistemas e tecnologias de informação constantes do n.º\
+    \ 4 do art. 3.º do Dec Lei 300/2001, de 22-Nov, pelo DEC LEI.215/2002.22.10.2002.MF, DR.IS-A [244] de 22.10.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
@@ -110,16 +123,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/16/1996/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/16/1996/02/26/p/dre
+- type: cites
+  target: pt:dre:156799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665941:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520454:por
+  label: "Revogado pelo DEC LEI.83/2007.29.03.2007.MFAP, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2007-520454
+  date: '2007-03-29'
 article_structure:
   article_count: 37
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:23Z'
   warnings: []
   errors: []
 ---
@@ -608,15 +654,15 @@ São revogados os artigos 2.º a 37.º do [Decreto-Lei n.º 464/77](https://diar
 
 Visto e aprovado em Conselho de Ministros, de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 7 de Maio de 1998.**
+Promulgado em 7 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Maio de 1998.**
+Referendado em 14 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pessoal dirigente do Instituto de Informática
 

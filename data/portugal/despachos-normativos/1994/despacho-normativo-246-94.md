@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/090b00/18401841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/246/1994/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/246-1994-264742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:14:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33494f5b114c6ed6f5df1dba4128d6e3e2c89cf1d4ef937c7c05781ea4d2c211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4babdf722ccf1a08678fffeda40ab59f982ad476358612e84499ef3153324f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:14:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
 - Definição de Competências
 - Fruto
 - Importação
@@ -72,7 +73,6 @@ subjects:
 - Política Agrícola Comum
 - Produto Hortícola
 - Regulamento CE
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:203283191:por
@@ -90,16 +90,22 @@ relationships:
   target: celex:31993R0638
   label: null
   source: http://data.europa.eu/eli/reg/1993/638/oj
+- type: repealed_by
+  target: pt:dre:203283191:por
+  label: Revogado, a partir de 11.11.2022, o presente despacho, pelo(a) Portaria n.º 273/2022 - Diário da República n.º 217/2022,
+    Série I de 2022-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2022-203283191
+  date: '2022-11-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:14:17Z'
   warnings: []
   errors: []
 ---

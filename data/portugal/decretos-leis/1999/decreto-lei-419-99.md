@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/246a00/70197023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/419/1999/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1999-667351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e8226804e88b0eb4a8f28438fd132eb434097b9c11c79d4f8177820ad6cfbcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3e3d2d6a1d3793a9049ae084c18b2365dc964046aa18f7e5879c2757189c778
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acumulação de Funções
-- Tempo de Serviço
 - Carreira de Informática
+- Carreira Profissional
 - Carreira Técnica de Fazenda
 - Carreira Técnica Superior do Tesouro
 - Concurso
-- Direcção Geral do Tesouro
 - Definição de Competências
+- Direcção Geral do Tesouro
 - Diretor Geral
-- Carreira Profissional
+- Estágio de Formação
 - Formas de Provimento
 - Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
-- Recrutamento de Pessoal
-- Ministro das Finanças
 - Incompatibilidades
 - Integração de Trabalhadores
-- Estágio de Formação
+- Ministro das Finanças
 - Progressão na Carreira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Regime Jurídico
 - Remuneração
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
@@ -109,16 +109,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:511436:por
+  label: "Rectificado pela DECL-RECT.1/2000.1999.12.21.PCM DR.IS-A [1] de 03/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-2000-511436
+  date: '1999-12-21'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:22Z'
   warnings: []
   errors: []
 ---
@@ -283,14 +318,14 @@ São revogados os artigos 4.º e 5.º do [Decreto-Lei n.º 167/91](https://diari
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver mapas I a V no documento original)](https://files.diariodarepublica.pt/1s/1999/10/246a00/70197023.pdf)

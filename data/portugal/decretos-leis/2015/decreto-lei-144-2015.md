@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/2015/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2015-69920328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a37992635fea44fc7255136cb5a38a402580c69ba267fd5bff786b14dd16416
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ce979b9142677fb95ab8efb275116dc501f0f120e75e6b7d87e59486cc0d14b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
+- Comércio
 - Engenharia Genética
 - Organismo Geneticamente Modificado
-- Saúde Pública
-- Proteção do Ambiente
-- Produto Hortícola
 - Produção Agrícola
-- Recursos Genéticos
-- Agricultura
-- Semente
-- Comércio
 - Produto Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Recursos Genéticos
+- Saúde Pública
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
@@ -110,16 +110,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
+- type: cites
+  target: pt:dre:517474:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:05Z'
   warnings: []
   errors: []
 ---
@@ -164,15 +174,15 @@ São republicados no anexo II ao presente diploma, do qual faz parte integrante,
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 26 de julho de 2015.**
+Promulgado em 26 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de julho de 2015.**
+Referendado em 28 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -180,19 +190,19 @@ Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-# Parte C
+Parte C
 
 [...]
 
@@ -206,41 +216,47 @@ Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos
 
 5 - [...]
 
-## ANEXO II — [...]
-
-# Parte A
+ANEXO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
-
-# Parte B
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-## ANEXO II — (a que se refere o artigo 4.º)
+Parte B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 4.º)
 
 Republicação dos anexos I e II ao [Decreto-Lei n.º 154/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2004-517474), de 30 de junho
 
-## ANEXO I — (a que se refere o artigo 7.º)
+ANEXO I
+
+(a que se refere o artigo 7.º)
 
 Espécies agrícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-# Parte C
+Parte C
 
 Carateres no que diz respeito ao exame do valor agronómico e de utilização
 
@@ -254,18 +270,20 @@ Carateres no que diz respeito ao exame do valor agronómico e de utilização
 
 5 - Parâmetros de qualidade (valor de utilização).
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14800/0529805304.pdf)

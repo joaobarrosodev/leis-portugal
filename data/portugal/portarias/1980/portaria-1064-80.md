@@ -48,40 +48,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1064-1980-459894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1be0f02b13293eebc69365b5e47204a998eea2a04364ec9f5944ef3d792bf5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1e1040ec86bb26703d6c3d8bbfeefbd8f76091d60e1bd2b8519562de109d28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Identificação Civil e Criminal
+- Centro de Informática
+- Direcção Geral dos Registos e do Notariado
+- Direcção Geral dos Serviços Tutelares de Menores
+- Gabinete de Estudos e Planeamento
+- Ministério da Justiça
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:374262:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564039:por
+  label: "Substituído o quadro de pessoal constante do anexo IV ao Decreto-Lei n.º 523/72, de 19 de Dezembro, com a redacção\
+    \ conferida no presente diploma, pela PORT.890/81.06.10.1981.MJ, DR.IS [229] de 06.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-1981-564039
+  date: '1981-10-06'
+- type: amended_by
+  target: pt:dre:394110:por
+  label: "Aditados lugares ao quadro de pessoal do Centro de Identificação Civil e Criminal, aprovado pelo Dec Lei 63/76,\
+    \ de 24-Jan, na redacção do presente diploma, pela PORT.715/82.22.07.1982.MFP, DR.IS [167] de 22.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1982-394110
+  date: '1982-07-22'
+- type: amended_by
+  target: pt:dre:394090:por
+  label: "Alterado o mapa anexo ao Dec Lei 523/72, de 19-Dez, na redacção do presente diploma, pela PORT.720/82.23.07.1982.MFP,\
+    \ DR.IS [168] de 23.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/720-1982-394090
+  date: '1982-07-23'
+- type: amended_by
+  target: pt:dre:374262:por
+  label: "Alterado o quadro de pessoal do Gabinete de Estudos e Planeamento, aprovado pelo Dec Lei 238/80 de 18-Jul, alterado\
+    \ pelo presente diploma, pela PORT.854/82.09.09.1982.MFP, DR.IS [209] de 09.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/854-1982-374262
+  date: '1982-09-09'
+- type: cites
+  target: pt:dre:231157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:15Z'
   warnings: []
   errors: []
 ---
@@ -122,26 +194,26 @@ Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
 
 Nota. - O pessoal que ocupa os lugares de técnico superior principal, de técnico principal e de terceiro-oficial exerce funções nos serviços centrais. Todo o restante exerce funções nos serviços externos.
 
 MAPA IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
 
 MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
 
 MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28800/41584159.pdf)

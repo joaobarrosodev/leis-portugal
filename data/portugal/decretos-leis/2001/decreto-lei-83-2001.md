@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/03/058a00/12761281.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2001/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2001-401290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f927ed878b8a823057ed6cd9bad37d68795e3531c1e0ca37488f09d248c883c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78cc078adca7d8b7b06abd0a8114bc336e266fc64cbda0a77405a716f0494d16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
-- Secretaria Geral
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Ministério da Justiça
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457200:por
+  label: "Determinado que o património e os direitos e as obrigações de natureza estritamente patrimonial, as instalações\
+    \ e os equipamentos do Gabinete de Auditoria e Modernização sejam afectos, independentemente de quaisquer formalidades,\
+    \ à Secretaria-Geral do Ministério da Justiça cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.4/2005.05.01.2005.MJ,\
+    \ DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2005-457200
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:521002:por
+  label: "Determinada a sucessão do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça , I.P. (IGFIJ, I.P.) nas\
+    \ atribuições da Secretaria-Geral do MJ relativas à elaboração dos projectos de orçamento e dos planos de investimento\
+    \ dos serviços e organismos do MJ constantes do presente diploma, pelo DEC LEI.128/2007.27.04.2007.MJ, DR.IS [82] de 27.04.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2007-521002
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogados, a partir da mesma data, os n.os 1 a 3 do artigo 25.º,\
+    \ pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -99,16 +123,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663908:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521014:por
+  label: "Revogado a partir de 01.05.2007 o presente diploma, com excepção do disposto nos nºs 1 a 3 do seu art. 25º, nos\
+    \ termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.50/2007.27.04.2007.MJ, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/50-2007-521014
+  date: '2007-04-27'
 article_structure:
   article_count: 28
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:21Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +277,9 @@ d) Gabinete Jurídico.
 
 2 - A Direcção de Serviços de Gestão Financeira e Patrimonial compreende a Divisão de Gestão Financeira, a Divisão de Planeamento e Programação de Investimentos e a Divisão de Economato e Património.
 
-###### Artigo 6.º — Divisão de Gestão Financeira
+###### Artigo 6.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira compete:
 
@@ -241,7 +301,9 @@ a) A Secção de Orçamento e Conta, à qual compete o desempenho das funções 
 
 b) A Secção de Contabilidade, à qual compete o desempenho das funções a que se referem as alíneas d) a f) do número anterior.
 
-###### Artigo 7.º — Divisão de Planeamento e Programação de Investimentos
+###### Artigo 7.º
+
+##### Divisão de Planeamento e Programação de Investimentos
 
 À Divisão de Planeamento e Programação de Investimentos compete:
 
@@ -255,7 +317,9 @@ d) Elaborar e coordenar a elaboração de planos e relatórios de actividades;
 
 e) Elaborar e acompanhar a execução dos planos de investimentos da Secretaria-Geral.
 
-###### Artigo 8.º — Divisão de Economato e Património
+###### Artigo 8.º
+
+##### Divisão de Economato e Património
 
 1 - À Divisão de Economato e Património compete:
 
@@ -281,7 +345,9 @@ b) A Secção de Património, à qual compete o desempenho das funções a que s
 
 2 - A Direcção de Serviços de Recursos Humanos e Tecnológicos compreende a Divisão de Recursos Humanos e a Divisão de Tecnologias da Informação.
 
-###### Artigo 10.º — Divisão de Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Recursos Humanos
 
 1 - À Divisão de Recursos Humanos compete:
 
@@ -305,7 +371,9 @@ i) Assegurar o processamento de vencimentos e outros abonos do pessoal da Secret
 
 2 - A Divisão de Recursos Humanos compreende a Secção de Administração de Pessoal, à qual incumbe o desempenho das funções a que se referem as alíneas g) a i) do número anterior.
 
-###### Artigo 11.º — Divisão de Tecnologias da Informação
+###### Artigo 11.º
+
+##### Divisão de Tecnologias da Informação
 
 À Divisão de Organização e Tecnologias da Informação compete:
 
@@ -325,7 +393,9 @@ e) Dar parecer sobre as aquisições de sistemas e configurações informáticos
 
 2 - A Direcção de Serviços de Documentação e de Relações Públicas compreende a Divisão de Informação e Documentação e a Divisão de Relações Públicas e Protocolo.
 
-###### Artigo 13.º — Divisão de Informação e Documentação
+###### Artigo 13.º
+
+##### Divisão de Informação e Documentação
 
 1 - À Divisão de Informação e Documentação compete:
 
@@ -345,7 +415,9 @@ g) Reproduzir textos, formulários e impressos utilizados no Ministério da Just
 
 2 - A Divisão de Informação e Documentação compreende a Secção de Edições, à qual compete o desempenho das funções a que se referem as alíneas f) e g).
 
-###### Artigo 14.º — Divisão de Relações Públicas e Protocolo
+###### Artigo 14.º
+
+##### Divisão de Relações Públicas e Protocolo
 
 À Divisão de Relações Públicas e Protocolo compete:
 
@@ -473,15 +545,15 @@ Até à aprovação da Lei Orgânica do Instituto de Gestão Financeira e Patrim
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2001. - António Manuel de Oliveira Guterres - José Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 23 de Fevereiro de 2001.**
+Promulgado em 23 de Fevereiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Março de 2001.**
+Referendado em 1 de Março de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

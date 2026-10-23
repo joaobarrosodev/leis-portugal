@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/12100/0306703072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2019/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2019-122728685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed900ac49a357f25e393013fd5fc23d9d5a84093f8b40f17efc8ce02155450dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14c4fb7a5921ad6a00f79f14e043cf8e52a72936627df8d1b1472dfd2fa6f195
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arrendamento Urbano não Habitacional
-- Instituto de Ação Social das Forças Armadas
-- Habitação Social
 - Forças Armadas
+- Habitação Social
+- Instituto de Ação Social das Forças Armadas
+- Prédio Urbano
 - Regime Jurídico
 - Renda Apoiada
 - Serviços Sociais
-- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:203898221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202127498:por
+  label: Alterado, a partir de 13.10.2022, o art. 4.º-A do Dec Lei 380/97 de 30-dez, na versão republicada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 69/2022 - Diário da República n.º 197/2022, Série I de 2022-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-2022-202127498
+  date: '2022-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1997/12/30/p/dre
   label: null
@@ -94,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1238/2010/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1238/2010/12/14/p/dre
+- type: cites
+  target: pt:dre:195451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
+  article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:50Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +176,9 @@ Os artigos 3.º, 4.º, 5.º, 11.º, 12.º, 13.º, 14.º e 15.º do [Decreto-Lei 
 
 2 - Os concursos são realizados tendo por base critérios de adequação da tipologia do fogo às necessidades do agregado familiar do concorrente, por forma a evitar situações de subocupação ou sobreocupação, nos termos do n.º 2 do artigo 15.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os concursos por inscrição são normais ou extraordinários.
 
@@ -154,17 +190,23 @@ Os artigos 3.º, 4.º, 5.º, 11.º, 12.º, 13.º, 14.º e 15.º do [Decreto-Lei 
 
 5 - A título excecional, pode proceder-se à atribuição de habitações de renda económica nas situações de necessidade habitacional urgente e ou temporária previstas no n.º 1 do artigo 14.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), 19 de dezembro, na sua redação atual, em termos a definir em regulamento próprio aprovado pelo conselho diretivo do IASFA, homologado pelo membro do Governo responsável pela área da defesa nacional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 As disposições reguladoras do funcionamento dos concursos a que se refere o artigo 3.º, respetivos programas, formas de classificação, distribuição das casas, critérios de hierarquização e de ponderação são fixadas em regulamento próprio, a aprovar por portaria do membro do Governo responsável pela área da defesa nacional, sob proposta do IASFA.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
 2 - Uma vez autorizada a troca de habitações pelo conselho diretivo do IASFA, são celebrados novos contratos de arrendamento, com a correspondente correção das rendas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Ocorrendo subocupação do fogo arrendado, nos termos do n.º 2 do artigo 15.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual, e não tendo o arrendatário concorrido a um fogo compatível com a dimensão do seu agregado familiar, pode ser-lhe determinada a mudança para outro de tipologia mais adequada, o qual deve situar-se na mesma localidade, exceto se o arrendatário manifestar concordância com outra localização, havendo lugar à alteração da renda contratual, que é calculada de acordo com o previsto no artigo 14.º do presente diploma.
 
@@ -178,19 +220,25 @@ b) Sobreocupação do fogo, considerando a adequação de tipologia nos termos d
 
 4 - As mudanças referidas no número anterior são efetuadas a expensas do arrendatário, cabendo-lhe igualmente suportar o pagamento de quaisquer obras que se mostrem necessárias, desde que aprovadas previamente pelo conselho diretivo do IASFA.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
 2 - A transferência definitiva só pode ser autorizada se for respeitada a relação entre a dimensão do agregado familiar e a tipologia do fogo, nos termos do n.º 2 do artigo 15.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O valor da renda é determinado nos termos do disposto nos artigos 21.º e 22.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
 2 - [Revogado.]
 
-###### Artigo 15.º — Atualização e revisão da renda
+Artigo 15.º
+
+Atualização e revisão da renda
 
 1 - A atualização e revisão do valor da renda rege-se pelo disposto no artigo 23.º da [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro, na sua redação atual.
 
@@ -256,15 +304,15 @@ O presente decreto-lei entra em vigor no primeiro dia do segundo mês seguinte a
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2019. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho.
 
-**Promulgado em 18 de junho de 2019.**
+Promulgado em 18 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de junho de 2019.**
+Referendado em 18 de junho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -445,3 +493,5 @@ a) [Decreto-Lei n.º 44 953](https://diariodarepublica.pt/dr/detalhe/decreto-lei
 b) [Portaria n.º 20 370](https://diariodarepublica.pt/dr/detalhe/portaria/20370-1964-469615), de 14 de fevereiro de 1964;
 
 c) [Portaria n.º 104/70](https://diariodarepublica.pt/dr/detalhe/portaria/104-1970-227647), de 16 de fevereiro.
+
+112389764

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/06300/0106901087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2010/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2010-612664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48a4c41e2670e9b6a8831962c281cf2781ccd850ffac91334151840cfe5f1014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d4b3d556929506f01af3da38ca47ebc834750b10ca19528009d07887e5cd912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Conselho Científico
 - Conselho Disciplinar
 - Conselho Pedagógico
 - Definição de Competências
 - Diretor
+- Estabelecimento de Ensino
 - Estatuto
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Instituto de Estudos Superiores Militares
 - Orgânica
-- Estabelecimento de Ensino
-- Gestão de Recursos Humanos
 - Subdiretor
 relationships:
 - type: amended_by
@@ -123,16 +123,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1153/2005/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1153/2005/11/11/p/dre
+- type: cites
+  target: pt:dre:148000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70832992:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 249/2015 - Diário da República n.º 211/2015, Série I de 2015-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2015-70832992
+  date: '2015-10-28'
 article_structure:
-  article_count: 100
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 80
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:45Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +250,9 @@ Os artigos 1.º a 19.º e 24.º do [Decreto-Lei n.º 161/2005](https://diariodar
 
 Criação, natureza, missão e atribuições
 
-###### Artigo 1.º — Criação, natureza e sede
+Artigo 1.º
+
+Criação, natureza e sede
 
 1 - ...
 
@@ -189,7 +260,9 @@ Criação, natureza, missão e atribuições
 
 3 - ...
 
-###### Artigo 2.º — Missão e atribuições
+Artigo 2.º
+
+Missão e atribuições
 
 1 - O IESM tem por missão ministrar aos oficiais dos quadros permanentes das Forças Armadas e da Guarda Nacional Republicana (GNR) a formação nos planos científico, doutrinário e técnico das ciências militares necessária ao desempenho das funções de comando, direcção, chefia e estado-maior, ao nível do Estado-Maior-General das Forças Armadas (EMGFA), dos ramos das Forças Armadas, da GNR e em forças conjuntas e combinadas e em organizações internacionais.
 
@@ -221,9 +294,13 @@ j) A produção e difusão do conhecimento e da cultura.
 
 5 - Ao IESM compete, ainda, nos termos da lei, a concessão de equivalências e o reconhecimento de graus e habilitações académicos.
 
-### CAPÍTULO II — Actividade científica e pedagógica
+CAPÍTULO II
 
-###### Artigo 3.º — Termos e limites da actividade científica e pedagógica
+Actividade científica e pedagógica
+
+Artigo 3.º
+
+Termos e limites da actividade científica e pedagógica
 
 1 - ...
 
@@ -231,7 +308,9 @@ j) A produção e difusão do conhecimento e da cultura.
 
 3 - Os planos de estudos relativos à componente formativa específica referida no n.º 2 do artigo 4.º e os regimes de avaliação desta, bem como dos cursos referidos no n.º 3 do artigo anterior, são definidos pelo CEMGFA, sob proposta dos chefes do estado-maior de cada ramo das Forças Armadas, precedido de pareceres do conselho científico e do conselho pedagógico.
 
-###### Artigo 4.º — Ciclos e planos de estudos
+Artigo 4.º
+
+Ciclos e planos de estudos
 
 1 - A criação, suspensão e extinção de ciclos de estudos bem como a aprovação e modificação das estruturas curriculares dos respectivos planos de estudos estão sujeitas a aprovação por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do CEMGFA, ouvidos o conselho de chefes de estado-maior (CCEM), o conselho do ensino superior militar (CESM), e o director, o conselho científico e o conselho pedagógico do IESM.
 
@@ -239,11 +318,17 @@ j) A produção e difusão do conhecimento e da cultura.
 
 3 - Os ciclos de estudos do IESM estão sujeitos a acreditação nos termos fixados no título iii do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março.
 
-### CAPÍTULO III — Organização
+CAPÍTULO III
 
-#### SECÇÃO I — Disposições gerais
+Organização
 
-###### Artigo 5.º — Órgãos
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 5.º
+
+Órgãos
 
 1 - O IESM compreende os seguintes órgãos:
 
@@ -263,9 +348,13 @@ e) Outros órgãos e serviços definidos no regulamento.
 
 4 - A organização, composição e funcionamento dos diferentes órgãos do IESM são definidos no respectivo estatuto e regulamento.
 
-#### SECÇÃO II — Órgãos de direcção
+SECÇÃO II
 
-###### Artigo 6.º — Órgãos de direcção
+Órgãos de direcção
+
+Artigo 6.º
+
+Órgãos de direcção
 
 1 - São órgãos de direcção do IESM:
 
@@ -275,7 +364,9 @@ b) Os subdirectores.
 
 2 - O director e os subdirectores são nomeados em comissão de serviço por um período de três anos.
 
-###### Artigo 7.º — Director
+Artigo 7.º
+
+Director
 
 1 - O director é um vice-almirante ou tenente-general, nomeado por despacho do membro do Governo responsável pela área da defesa nacional, rotativamente por cada um dos ramos das Forças Armadas, sob proposta do CEMGFA, ouvido o CCEM, após indigitação do respectivo chefe do estado-maior.
 
@@ -305,7 +396,9 @@ b) Outorgar protocolos com instituições de ensino superior relativos à contra
 
 4 - As competências referidas nos números anteriores podem ser delegadas em qualquer dos subdirectores.
 
-###### Artigo 8.º — Subdirectores
+Artigo 8.º
+
+Subdirectores
 
 1 - Os subdirectores são contra-almirantes ou majores-generais, nomeados por despacho do membro do Governo responsável pela área da defesa nacional, um de cada ramo das Forças Armadas, sob proposta do CEMGFA, ouvidos o CCEM e o director do IESM, após indigitação do respectivo chefe do estado-maior.
 
@@ -313,9 +406,13 @@ b) Outorgar protocolos com instituições de ensino superior relativos à contra
 
 3 - Os subdirectores coadjuvam o director, exercendo as competências que por este lhes forem delegadas.
 
-#### SECÇÃO III — Órgãos de conselho
+SECÇÃO III
 
-###### Artigo 9.º — Órgãos de conselho
+Órgãos de conselho
+
+Artigo 9.º
+
+Órgãos de conselho
 
 1 - São órgãos de conselho do IESM:
 
@@ -337,9 +434,13 @@ d) Os conselhos de cursos.
 
 6 - Os órgãos de conselho são presididos pelo director do IESM, com possibilidade de delegação, excepto quando estejam em causa assuntos relacionados com o curso de promoção a oficial general ou equivalente.
 
-#### SECÇÃO IV — Órgãos de ensino, de investigação, desenvolvimento e inovação
+SECÇÃO IV
 
-###### Artigo 10.º — Órgãos de ensino, de investigação, desenvolvimento e inovação
+Órgãos de ensino, de investigação, desenvolvimento e inovação
+
+Artigo 10.º
+
+Órgãos de ensino, de investigação, desenvolvimento e inovação
 
 O IESM compreende os seguintes órgãos de ensino, de investigação, desenvolvimento e inovação:
 
@@ -349,7 +450,9 @@ b) O Departamento de Cursos;
 
 c) O CISDI.
 
-###### Artigo 11.º — Departamento de Ensino
+Artigo 11.º
+
+Departamento de Ensino
 
 1 - Ao Departamento de Ensino incumbe o planeamento, programação, execução e controlo do ensino, conforme definido nos planos de estudos dos cursos.
 
@@ -367,7 +470,9 @@ d) Áreas de ensino específico dos ramos e da GNR.
 
 4 - O director do Departamento de Ensino dirige as actividades do Departamento sob orientação do director do IESM.
 
-###### Artigo 12.º — Departamento de Cursos
+Artigo 12.º
+
+Departamento de Cursos
 
 1 - Ao Departamento de Cursos incumbe enquadrar as turmas de auditores e de alunos durante a frequência dos cursos ou estágios, coordenar o seu funcionamento e avaliar a adequabilidade das matérias ministradas e das metodologias utilizadas.
 
@@ -389,7 +494,9 @@ e) Outros cursos específicos, quando tal for determinado.
 
 5 - O curso de promoção a oficial general é dirigido pelo director do Departamento de Cursos.
 
-###### Artigo 13.º — Centro de Investigação de Segurança e Defesa
+Artigo 13.º
+
+Centro de Investigação de Segurança e Defesa
 
 1 - Ao CISDI incumbe a promoção, ou participação em colaboração com outras instituições, na realização de projectos de investigação, no desenvolvimento e implementação de projectos inovadores, na promoção de projectos de investigação integrados e na divulgação do conhecimento científico, em áreas de especial interesse para as Forças Armadas e GNR e para a segurança e defesa nacional.
 
@@ -401,9 +508,13 @@ e) Outros cursos específicos, quando tal for determinado.
 
 5 - O director do CISDI, habilitado com o grau de doutor, dirige as actividades do Centro sob orientação do director do IESM.
 
-#### SECÇÃO V — Órgãos de apoio e outros
+SECÇÃO V
 
-###### Artigo 14.º — Serviços de apoio
+Órgãos de apoio e outros
+
+Artigo 14.º
+
+Serviços de apoio
 
 1 - Os serviços de apoio do IESM compreendem:
 
@@ -423,9 +534,13 @@ d) O Serviço de Apoio Geral.
 
 5 - O regulamento do IESM define a organização, composição e funcionamento dos serviços de apoio.
 
-### CAPÍTULO IV — Recursos humanos e financeiros
+CAPÍTULO IV
 
-###### Artigo 15.º — Recursos humanos
+Recursos humanos e financeiros
+
+Artigo 15.º
+
+Recursos humanos
 
 1 - O IESM dispõe de um quadro próprio de pessoal militar, docente e não docente, contendo a indicação dos efectivos militares necessários para o desenvolvimento das respectivas actividades, aprovado, mantido ou alterado pelo CEMGFA, sob proposta do director do IESM, ouvidos o CCEM e o comandante-geral da GNR relativamente aos seus efectivos.
 
@@ -441,13 +556,19 @@ d) O Serviço de Apoio Geral.
 
 7 - O quadro de pessoal militar docente e o mapa de pessoal civil docente carecem de pareceres do conselho científico, do conselho pedagógico e do conselho do ensino superior militar.
 
-###### Artigo 16.º — Recursos financeiros
+Artigo 16.º
+
+Recursos financeiros
 
 Os recursos financeiros necessários ao funcionamento do IESM são fixados em dotação própria do orçamento do Estado-Maior-General das Forças Armadas.
 
-### CAPÍTULO V — Guarda Nacional Republicana
+CAPÍTULO V
 
-###### Artigo 17.º — Cursos e planos de estudo
+Guarda Nacional Republicana
+
+Artigo 17.º
+
+Cursos e planos de estudo
 
 1 - O IESM pode ainda ministrar cursos aos oficiais dos quadros permanentes da GNR, a solicitação do membro do Governo responsável pela área da administração interna, sob proposta do comandante-geral da GNR.
 
@@ -455,19 +576,27 @@ Os recursos financeiros necessários ao funcionamento do IESM são fixados em do
 
 3 - O regime de acesso aos cursos e estágios do IESM ministrados a oficiais da GNR é definido por portaria conjunta dos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna, ouvido o comandante-geral da GNR.
 
-###### Artigo 18.º — Recursos humanos
+Artigo 18.º
+
+Recursos humanos
 
 1 - Os militares da GNR no activo são nomeados para funções no IESM em regime de comissão normal de serviço por períodos de três anos, nos termos do Estatuto dos Militares da Guarda Nacional Republicana.
 
 2 - O coordenador da área de ensino específico da GNR, directores de cursos e docentes da GNR são indigitados pela GNR e nomeados por despacho do CEMGFA, sob proposta do director do IESM, ouvidos o conselho científico e o conselho pedagógico.
 
-###### Artigo 19.º — Participação institucional
+Artigo 19.º
+
+Participação institucional
 
 Os conselhos científico, pedagógico e disciplinar integram representantes da GNR, a nomear pelo membro do Governo responsável pela área da administração interna, sob proposta do respectivo comandante-geral, ouvido o director do IESM, sempre que estejam em causa matérias relativas aos cursos referidos no artigo 17.º
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 24.º — Regulamentação
+Disposições finais e transitórias
+
+Artigo 24.º
+
+Regulamentação
 
 A organização interna, o regime de acesso aos cursos e estágios, bem como os elementos de heráldica, símbolos, modelos de diplomas e prémios do IESM são definidos por portaria do membro do Governo responsável pela área da defesa nacional, sob proposta do CEMGFA, ouvido o director do IESM.»
 
@@ -527,15 +656,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Augusto Ernesto Santos Silva - Rui Carlos Pereira - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 16 de Março de 2010.**
+Promulgado em 16 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Março de 2010.**
+Referendado em 17 de Março de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Republicação do [Decreto-Lei n.º 161/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2005-148000), de 22 de Setembro
 

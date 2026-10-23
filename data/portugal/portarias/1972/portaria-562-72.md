@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-1972-691222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e026a29e571198d633a89030f8e22c923645516844259e47cb58c2c9890d9e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2d459326d269ba152a4589fa0cc202e13b38c201cc685a91393c61b9960b53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Escola Preparatória
+- Estabelecimento de Ensino
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Pessoal não Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:508657:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337223:por
+  label: Acrescentados lugares no quadro do pessoal docente das Escolas Preparatórias de Eugénio dos Santos, de Pedro de Santarém,
+    de Fernando Pessoa, da Marquesa de Alorna, do Almirante Gago Coutinho, de Manuel da Maia e de D. Pedro II pelo(a) Portaria
+    n.º 397/75 - Diário do Governo n.º 147/1975, Série I de 1975-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/397-1975-337223
+  date: '1975-06-28'
+- type: amended_by
+  target: pt:dre:508657:por
+  label: "Alterado o quadro do pessoal administrativo fixado pelo presente diploma, pela PORT.26-M1/80.09.01.1980.MF, DR.IS\
+    \ [7-3SUPL] de 09.01.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-m1-1980-508657
+  date: '1980-01-09'
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:23Z'
   warnings: []
   errors: []
 ---
@@ -111,6 +140,6 @@ Ministérios das Finanças e da Educação Nacional, 25 de Setembro de 1972. - O
 
 Do MAPA N.º 1 ao MAPA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/22700/14001403.pdf))](https://files.diariodarepublica.pt/1s/1972/09/22700/14001403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/22700/14001403.pdf)
 
-**O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Ministro da Educação Nacional, José Veiga Simão.

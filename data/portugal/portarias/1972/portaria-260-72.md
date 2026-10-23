@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/11000/05960596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1972-680660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 016ca6e9026fd728870b0a65c3c7105a676927d22fc0abe9cc2ae8d0a4bc93ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0920836ec552b4e5c7cde364649d50db7c789a87f0cbe092dac39070154a1d1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Ensino Oficial
+- Ensino Preparatório
+- Instituto de Acção Social Escolar
+- Isenção de Propinas
 relationships:
 - type: amended_by
   target: pt:dre:476363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:165858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476363:por
+  label: "Revogada pela PORT.434/74.10.07.1974.MEN, DG.IS [159] de 10.07.1974\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/434-1974-476363
+  date: '1974-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:14Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +134,4 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação Nacional, 
 
 6.º O pagamento de qualquer dos encargos compreendidos no n.º 4.º ficará suspenso sempre que o aluno prove ter requerido ao Instituto de Acção Social Escolar alguma bolsa de estudo, subsídio regular ou isenção de propinas, até resolução final do seu pedido.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2012, 2º Suplemento, Série I de 2012-12-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7424-(279) a 7424-(290)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/266-e/2012/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-e-2012-632432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08821be2ab7c039b7578f9bbefdf5842f39cff62c514ea079d79d6fa86831856
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015e4fdb85d2e957058a58be571003ac0e1be9d1d4cc247703b62b225617d67a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Serviços
-- Universidade de Lisboa
-- Integração de Serviços
 - Estádio Universitário de Lisboa
+- Integração de Serviços
+- Universidade de Lisboa
 - Universidade Técnica de Lisboa
 relationships:
 - type: cites
@@ -80,16 +80,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:307779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656992:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:09Z'
   warnings: []
   errors: []
 ---
@@ -260,15 +280,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 27 de dezembro de 2012.**
+Promulgado em 27 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 4.º)
 
@@ -376,7 +396,7 @@ Campus da Alameda do Instituto Superior Técnico (planta 1):
 
 Planta 1 - Campus da Alameda do Instituto Superior Técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 4.º)
 
@@ -388,7 +408,7 @@ Tapada da Ajuda (planta 2):
 
 Planta 2 - Tapada da Ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Campus do Quelhas do Instituto Superior de Economia e Gestão:
 
@@ -406,7 +426,7 @@ Jardim Botânico da Ajuda (planta 3):
 
 Planta 3 - Jardim Botânico da Ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Legado Ventura Terra:
 
@@ -426,7 +446,7 @@ Planta 4 - A: Edifício Principal da Faculdade de Motricidade Humana
 
 B: Quinta da Graça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Pavilhão dos Esteiros (planta 5)
 
@@ -434,7 +454,7 @@ Pavilhão dos Esteiros (planta 5)
 
 Planta 5 - Pavilhão dos Esteiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Residência estudantil da Faculdade de Motricidade Humana (planta 6)
 
@@ -442,7 +462,7 @@ Residência estudantil da Faculdade de Motricidade Humana (planta 6)
 
 Planta 6 - Residência estudantil da Faculdade de Motricidade Humana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Cidade Universitária:
 
@@ -452,7 +472,7 @@ Parcela Sul da Cidade Universitária (planta 7)
 
 Planta 7 - Parcela Sul da Cidade Universitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Cantina I e Desporto Cidade Universitária (planta 8)
 
@@ -460,7 +480,7 @@ Cantina I e Desporto Cidade Universitária (planta 8)
 
 Planta 8 - Cantina I e Desporto Cidade Universitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Reitoria (planta 9)
 
@@ -468,7 +488,7 @@ Reitoria (planta 9)
 
 Planta 9 - Reitoria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Alameda Central (planta 10)
 
@@ -476,7 +496,7 @@ Alameda Central (planta 10)
 
 Planta 10 - Alameda Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Hipódromo do Campo Grande (planta 11)
 
@@ -484,7 +504,7 @@ Hipódromo do Campo Grande (planta 11)
 
 Planta 11 - Hipódromo do Campo Grande
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Horto (planta 12)
 
@@ -492,7 +512,7 @@ Horto (planta 12)
 
 Planta 12 - Horto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Parcela Norte da Alameda Central (planta 13)
 
@@ -500,7 +520,7 @@ Parcela Norte da Alameda Central (planta 13)
 
 Planta 13 - Parcela Norte da Alameda Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Parcela Norte da Cidade Universitária (planta 14)
 
@@ -508,7 +528,7 @@ Parcela Norte da Cidade Universitária (planta 14)
 
 Planta 14 - Parcela Norte da Cidade Universitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 N.º 1 da Rua Dr. João Soares
 
@@ -524,7 +544,7 @@ Museus da Universidade de Lisboa (planta 15):
 
 Planta 15 - Museus da Universidade de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Instituto Bacteriológico Câmara Pestana
 
@@ -548,7 +568,7 @@ Ala Sul Cerca do Hospital de Santa Maria (planta 16):
 
 Planta 16 - Ala Sul Cerca do Hospital de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Estádio Universitário de Lisboa (planta 17)
 
@@ -564,7 +584,7 @@ Não se considera integrada nesta parcela a zona correspondente à Cantina I da 
 
 Planta 17 - Estádio Universitário de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Polo Universitário da Ajuda:
 
@@ -574,7 +594,7 @@ Faculdade de Medicina Veterinária (planta 18)
 
 Planta 18 - Faculdade de Medicina Veterinária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Edifício da Faculdade de Arquitetura (planta 19-A)
 
@@ -598,7 +618,7 @@ B: Parcela de terreno destinado à construção da Residência do Polo Universit
 
 C: Cantina do Polo Universitário da Ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Centro de Saúde e Lazer (planta 20-A)
 
@@ -620,7 +640,7 @@ B: Instituto Superior de Ciências Sociais e Políticas
 
 C: Parcela de terreno destinado à ampliação do Polo Universitário da Ajuda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4 do artigo 4.º)
 
@@ -636,7 +656,7 @@ Palácio Burnay (Planta 21)
 
 Planta 21 - Palácio Burnay
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Faculdade de Belas Artes (planta 22):
 
@@ -644,7 +664,7 @@ Faculdade de Belas Artes (planta 22):
 
 Planta 22 - Faculdade de Belas Artes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
 
 Forte de Nossa Senhora da Guia (planta 23):
 
@@ -652,4 +672,4 @@ Forte de Nossa Senhora da Guia (planta 23):
 
 Planta 23 - Forte de Nossa Senhora da Guia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25202/0027900290.pdf)

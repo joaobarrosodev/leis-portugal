@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/103/2005/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2005-233947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab24408a1300826f3d732c8258d2061f894c02b6a7c6357fb24b9d86e081ef15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93c976a1d116f8a8c8960aa2f5462d021026dd080a179bcecfa05dc480c54624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Carta de Condução
-- Exame de Condução
-- Especificação Técnica
-- Veículo
-- Incapacidade Física
 - Avaliação de Conhecimentos
+- Carta de Condução
+- Especificação Técnica
+- Exame de Condução
+- Incapacidade Física
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:178550:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493026:por
+  label: "Alterados os art.s 4º e 5º bem como o anexo I do Dec Lei 45/2005, de 23-Fev, na redacção do presente diploma, pelo\
+    \ DEC LEI.174/2009.03.08.2009.MOPTC, DR.IS [148] de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-2009-493026
+  date: '2009-08-03'
 - type: cites
   target: celex:31991L0439
   label: null
@@ -86,16 +92,22 @@ relationships:
   target: celex:32000L0056
   label: null
   source: http://data.europa.eu/eli/dir/2000/56/oj
+- type: repealed_by
+  target: pt:dre:178550:por
+  label: "Revogado, a partir de 02.11.2012, com exceção do anexo I - , que se mantém em vigor até 02.01.2013 - o Dec Lei 45/2005,\
+    \ de 23-fev, na redação do presente diploma, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129] de 05.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:37Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +140,9 @@ b) A condição imposta na alínea anterior é, porém, dispensável sempre que 
 
 c) A frequência de universidade ou escola noutro Estado não implica a mudança de residência habitual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -138,7 +152,9 @@ c) A frequência de universidade ou escola noutro Estado não implica a mudança
 
 4 - As cartas de condução de modelos actualmente em uso mantêm a sua validade, devendo ser substituídas pelo modelo a que se refere o n.º 1 à medida que os títulos forem objecto de qualquer averbamento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -150,13 +166,17 @@ c) A frequência de universidade ou escola noutro Estado não implica a mudança
 
 5 - O titular de carta de condução emitida antes da entrada em vigor do presente diploma mantém a habilitação até que ocorra o primeiro termo de validade, nos termos das alíneas do n.º 2.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A revalidação das cartas de condução efectua-se mediante entrega pelos seus titulares, no serviço competente da Direcção-Geral de Viação, de comprovativo médico da sua aptidão física e mental, nos termos definidos em regulamento, nos seis meses que antecedem o termo da sua validade.
 
 2 - Sempre que para a obtenção dos títulos de habilitação de conduzir das categorias e subcategorias previstas no Código da Estrada seja exigido relatório de exame psicológico favorável, o mesmo é também exigido para a respectiva revalidação.
 
-###### Artigo 6.º — Restrições
+Artigo 6.º
+
+Restrições
 
 1 - As adaptações do veículo e as restrições especiais a que o condutor esteja sujeito devem ser inscritas no título de condução, através dos códigos constantes da secção B do anexo I do presente diploma.
 
@@ -164,13 +184,17 @@ c) A frequência de universidade ou escola noutro Estado não implica a mudança
 
 3 - Os códigos 70 a 77, 998 e 999 são averbados nas cartas de condução em função das menções constantes dos títulos de condução ou dos certificados que sirvam de base ao respectivo processo.
 
-###### Artigo 9.º — Norma revogatória
+Artigo 9.º
+
+Norma revogatória
 
 1 - São revogados os artigos 1.º, 7.º e 8.º do Decreto-Lei n.º 209/98, de 11 de Julho, com as alterações introduzidas pela Lei n.º 21/99, de 21 de Abril, e pelo Decreto-Lei n.º 315/99, de 11 de Agosto.
 
 2 - Transitoriamente, são aplicáveis as disposições do Regulamento da Habilitação Legal para Conduzir, anexo ao Decreto-Lei n.º 209/98, de 11 de Julho, em tudo o que não for prejudicado pelo presente diploma e respectiva regulamentação.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -184,15 +208,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - António Fernando Correia de Campos.
 
-**Promulgado em 6 de Junho de 2005.**
+Promulgado em 6 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Junho de 2005.**
+Referendado em 8 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — «ANEXO I
 
@@ -242,7 +266,7 @@ iii) As informações específicas numeradas do modo seguinte:
 
 iv) A menção «modelo das Comunidades Europeias» em português e a menção «carta de condução» nas outras línguas da Comunidade, impressas em cor-de-rosa, que constituem a trama de fundo da carta:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2005/06/120a00/39453947.pdf))](https://files.diariodarepublica.pt/1s/2005/06/120a00/39453947.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2005/06/120a00/39453947.pdf)
 
 v) Cores de referência:
 

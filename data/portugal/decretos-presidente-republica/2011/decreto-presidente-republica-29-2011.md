@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29/2011/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-2011-278753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:09:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d35063f57fd223f82b5610edaa92708995b944d21c6d83a7b9007f484f5da607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa06411c3e1a5abc227d2e740816269c3801365b9faf1618b5c629194cbbf518
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:09:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Contribuições e Impostos
 - Convenção
-- Portugal
 - Derrama
 - ILHA de MAN
 - Imposto do SELO
-- Contribuições e Impostos
+- IRC
 - IRS
 - Londres
-- IRC
+- Portugal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/51/2011/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/51/2011/03/21/p/dre
+- type: cites
+  target: pt:dre:278756:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:09:58Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +103,16 @@ validation:
 
 de 21 de Março
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre a República Portuguesa e a Ilha de Man sobre Troca de Informações em Matéria Fiscal, assinado em Londres em 9 de Julho de 2010, aprovado pela [Resolução da Assembleia da República n.º 51/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2011-278756), em 21 de Janeiro de 2011.
 
-**Assinado em 25 de Fevereiro de 2011.**
+Assinado em 25 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Março de 2011.**
+Referendado em 10 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

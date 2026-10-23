@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2000/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2000-339840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36417511ffa1ffcd553a77847c282b7c94ab76a44340c8228b349e9ffcb55b50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a01b920f92b73750a146a1eab87b04410c2535e34f73c20971410ee7c04b0959
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Emissão de Títulos
 - Banco de Portugal
+- Emissão de Títulos
+- Instituição de Crédito
 - Obrigações de Caixa
 - Regime Jurídico
 - TAXA de JURO
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:667337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 3º e 5º do Dec Lei 408/91 de 17-Out, com a redacção conferida pelo presente diploma, pelo DEC\
+    \ LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/343/1998/11/06/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+- type: cites
+  target: pt:dre:223195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:15Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +144,17 @@ Os artigos 2.º, 3.º, 5.º, 6.º, 10.º e 11.º do [Decreto-Lei n.º 408/91](ht
 
 Podem emitir obrigações de caixa as instituições de crédito com fundos próprios não inferiores a 2500000 euros.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - (Anterior corpo do artigo 3.º)
 
 2 - O Banco de Portugal pode, por aviso, estabelecer condições de emissão das obrigações de caixa e da apresentação do prospecto, nomeadamente nos casos em que, atendendo ao respectivo valor nominal, seja provável a sua subscrição por pequenos investidores, obrigando a que a taxa de juro, se variável, se relacione com a evolução de indicadores relevantes, por forma que o montante do reembolso não seja inferior ao respectivo valor de emissão.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -160,7 +182,9 @@ j) Sendo caso disso, pedido de admissão das obrigações à negociação em mer
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As obrigações de caixa têm o valor nominal de 50 euros ou de múltiplos desse valor e podem ser representadas por títulos nominativos ou ao portador.
 
@@ -168,11 +192,15 @@ j) Sendo caso disso, pedido de admissão das obrigações à negociação em mer
 
 3 - ...
 
-###### Artigo 10.º — Admissão à negociação
+Artigo 10.º
+
+Admissão à negociação
 
 A admissão das obrigações de caixa à negociação em mercado regulamentado rege-se pelo disposto no Código dos Valores Mobiliários.
 
-###### Artigo 11.º — Regime de contabilidade
+Artigo 11.º
+
+Regime de contabilidade
 
 A contabilidade das entidades emitentes deve expressar os valores das obrigações emitidas, amortizadas e em circulação.»
 
@@ -182,12 +210,12 @@ São revogados os n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 408/91](https:
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 27 de Julho de 2000.**
+Promulgado em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Agosto de 2000.**
+Referendado em 1 de Agosto de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

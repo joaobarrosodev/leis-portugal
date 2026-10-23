@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/118a00/11921193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/1996/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1996-457019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba4174f3762d4d2e725c22209c4555f167310b06ea8bd82eb39e105c8842ff55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f40a6183c7ac6c8d8b9ab375cb427f37bfaebd558b7d46cb031488c228933e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405765:por
+  label: "Revogado pelo DEC LEI.136/96.1996.08.14.MADRP, DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1996-405765
+  date: '1996-08-14'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:33Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +173,12 @@ t) Um representante designado pela Associação Nacional dos Municípios Portugu
 
 Visto e aprovado em Conselho de Ministros de 29 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Daniel Bessa Fernandes Coelho - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 17 de Abril de 1996.**
+Promulgado em 17 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1996.**
+Referendado em 22 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

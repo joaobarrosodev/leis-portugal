@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 121/1982, 1º Suplemento, Série I de 1982-05-28
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1462-(1) a 1462-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/12101/00010002.pdf
 entry_into_force_dates: []
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/530-a-1982-233747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:18:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4c801e1bbc551b76853428d0db90703424db24af166aeb5df75b5ed0784fc4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91b0a156fee3bbab5fe5a51f43a07152f5b01d0819b97180c348eecdf83cc946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:18:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Fomento da Habitação
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:611531:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381552:por
+  label: "Substituído o mapa I anexo ao presente diploma, pela PORT.553/84.02.08.1984.PCM, DR.IS [178] de 02.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-1984-381552
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:400444:por
+  label: "Substituído o mapa anexo ao presente diploma, pela PORT.853/84.08.11.1984.MDN, DR.IS [259] de 08.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/853-1984-400444
+  date: '1984-11-08'
+- type: amended_by
+  target: pt:dre:183462:por
+  label: "Substituído o mapa I anexo ao presente diploma, pela PORT.468/85.17.07.1985.PCM, DR.IS [162] de 17.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/468-1985-183462
+  date: '1985-07-17'
+- type: amended_by
+  target: pt:dre:227219:por
+  label: "Alterado o anexo IV da Port 39/81, de 15-Jan, na redacção do presente diploma, pela PORT.242/86.23.05.1986.MF, DR.IS\
+    \ [118] de 23.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1986-227219
+  date: '1986-05-23'
+- type: amended_by
+  target: pt:dre:611531:por
+  label: "Alterado o quadro de pessoal, aprovado pelo mapa anexo ao presente diploma, pela PORT.97/89.08.02.1989.MF, DR.IS\
+    \ [32] de 08.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-1989-611531
+  date: '1989-02-08'
+- type: cites
+  target: pt:dre:390382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:18:51Z'
   warnings: []
   errors: []
 ---
@@ -110,4 +149,4 @@ Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transpo
 
 Mapa a que se refere o artigo 1.º da Portaria n.º 530-A/82, de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/12101/00010002.pdf))](https://files.diariodarepublica.pt/1s/1982/05/12101/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/12101/00010002.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2007-518445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8f4305eca39b2bf2900c974e3172cb910f3ccb8a3a611d27f776c620c49f836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fa81de23eb8cb19f5945773883ef62fbb8b5500d15cb349b5beb025a8053a03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Associação de Municípios
-- Grupo Desfavorecido
-- Financiamento
-- Instituição de Crédito
+- Autarquia Local
 - Casa Degradada
-- Obras de Conservação e Restauro
 - Cooperativa de Habitação
 - Crédito à Habitação
-- Renovação Urbana
+- Financiamento
 - Fiscalização
+- Grupo Desfavorecido
 - Habitação Social
+- Instituição de Crédito
 - Instituto Nacional de Habitação
 - JURO Bonificado
+- Madeira.região Autónoma
+- Obras de Conservação e Restauro
 - Prédio Devoluto
 - Prohabita
-- Madeira.região Autónoma
 - Regime Jurídico
 - Renda Apoiada
-- Açores
+- Renovação Urbana
 - Subsídio não Reembolsável
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:1252083:por
@@ -129,16 +129,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 103
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 60
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:58Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +239,9 @@ b) Requalificação de bairros sociais degradados ou desprovidos de equipamentos
 
 4 - O PROHABITA pode ainda ser concretizado, sem necessidade de celebração de acordo de colaboração, mediante o financiamento directo a agregados familiares carenciados nos termos previstos no presente diploma.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os acordos de colaboração celebrados ao abrigo do PROHABITA têm por objecto a repartição de encargos, responsabilidades e benefícios entre as Regiões Autónomas, as associações de municípios ou os municípios e a administração central, traduzida na identificação de situações de grave carência habitacional existentes num concelho ou região, na proposta de medidas habitacionais para a respectiva resolução e no valor global e formas de financiamento necessários para o efeito.
 
@@ -199,7 +249,9 @@ b) Requalificação de bairros sociais degradados ou desprovidos de equipamentos
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para efeitos do presente diploma considera-se:
 
@@ -251,13 +303,17 @@ d) Os ascendentes cujo rendimento mensal seja inferior à retribuição mínima 
 
 4 - Para efeitos do disposto na alínea j) do n.º 1, são considerados indícios de desocupação a inexistência de contratos em vigor com empresas de telecomunicações e de fornecimento de água, gás e electricidade ou a inexistência de facturação relativa a consumos de água, gás, electricidade e telecomunicações nos últimos 12 meses.
 
-###### Artigo 4.º — Candidaturas ao acordo de colaboração
+Artigo 4.º
+
+Candidaturas ao acordo de colaboração
 
 1 - Cabe a cada um dos municípios, das associações de municípios ou das Regiões Autónomas interessados apresentar junto do INH a sua candidatura à celebração de um acordo de colaboração ao abrigo do PROHABITA, instruída com os documentos que contenham os elementos indicados no artigo seguinte, sem prejuízo de outros que o INH entenda necessários à apreciação da mesma.
 
 2 - As candidaturas são apreciadas pelo INH e, caso mereçam o seu parecer favorável, sujeitas a aprovação do membro do Governo com a tutela da habitação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +333,9 @@ f) [Anterior alínea e).]
 
 3 - As Regiões Autónomas, as associações de municípios e os municípios obrigam-se a proceder à actualização anual dos dados constantes do anexo a que se refere a alínea b) do n.º 1 do presente artigo.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O acordo de colaboração tem um valor global calculado em função do investimento total estimado para a sua execução e é concretizado através da contratação de um ou mais financiamentos, concedidos sob a forma de comparticipação a fundo perdido ou de empréstimo bonificado.
 
@@ -285,7 +343,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 7.º — Objecto do regime especial
+Artigo 7.º
+
+Objecto do regime especial
 
 1 - Podem ser celebrados acordos de colaboração ou introduzida previsão específica num acordo de colaboração com o seguinte objecto:
 
@@ -295,7 +355,9 @@ b) Criação de equipamentos em bairros sociais, no caso de inexistência ou ins
 
 2 - Nas situações referidas no número anterior, as candidaturas aos acordos de colaboração são apresentadas ao INH e avaliadas, classificadas e seleccionadas de acordo com o procedimento e os critérios a estabelecer por portaria do membro do Governo com a tutela da habitação.
 
-###### Artigo 8.º — Reabilitação de edifícios em propriedade horizontal
+Artigo 8.º
+
+Reabilitação de edifícios em propriedade horizontal
 
 1 - Para efeito da candidatura ao fim a que se refere a alínea a) do n.º 1 do artigo anterior, para além de outros elementos exigíveis, os municípios devem proceder ao levantamento do número e identificação de todas as fracções dos edifícios a reabilitar em cada bairro social e dos respectivos proprietários.
 
@@ -307,7 +369,9 @@ b) Criação de equipamentos em bairros sociais, no caso de inexistência ou ins
 
 5 - Na falta de adesão dos proprietários quanto à reabilitação das partes comuns, o município pode tomar directamente a seu cargo a tarefa de reabilitação do edifício nos termos definidos nos artigos 89.º a 92.º do regime jurídico da urbanização e edificação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +383,9 @@ b) Criação de equipamentos em bairros sociais, no caso de inexistência ou ins
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 10.º — Entidades beneficiárias
+Artigo 10.º
+
+Entidades beneficiárias
 
 1 - Podem beneficiar de financiamento ao abrigo dos acordos de colaboração:
 
@@ -341,7 +407,9 @@ b) As cooperativas de habitação e construção.
 
 5 - O acordo de colaboração ou o protocolo deve conter os elementos e condições essenciais da participação das referidas entidades, designadamente a identificação e caracterização das situações cuja resolução fica a seu cargo de entre o total das que são objecto do acordo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Ao abrigo de um acordo de colaboração podem ser concedidos financiamentos às entidades beneficiárias para os seguintes fins:
 
@@ -365,13 +433,17 @@ a) Promoção de empreitadas de reabilitação por parte dos municípios nas ár
 
 b) Aquisição, realização de obras de reabilitação de edifícios ou de parte destes ou, em alternativa, construção de edifícios para criação de equipamentos sociais.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As aquisições a que se referem as alíneas a) e b) do n.º 1 do artigo anterior estão sujeitas aos preços máximos fixados para cada ano por portaria conjunta dos membros do Governo com a tutela das finanças e da habitação.
 
 2 - ...
 
-###### Artigo 14.º — Condições do financiamento ao arrendamento
+Artigo 14.º
+
+Condições do financiamento ao arrendamento
 
 1 - O contrato a celebrar para efeito da alínea f) do n.º 1 do artigo 12.º tem a natureza de contrato de programação, estando sujeito, de entre outras, às seguintes condições:
 
@@ -389,17 +461,23 @@ d) ...
 
 4 - ...
 
-###### Artigo 15.º — Limites de financiamento ao arrendamento
+Artigo 15.º
+
+Limites de financiamento ao arrendamento
 
 1 - O arrendamento de edifícios habitacionais ou de habitações destinado a subarrendamento é financiado sob a forma de comparticipação à renda pelo prazo máximo de 12 anos e até ao limite de 40% do menor dos valores entre a renda devida pelo beneficiário e a renda técnica que seria aplicável ao caso em regime de renda apoiada.
 
 2 - Quando se trate de arrendamento de habitações devolutas o limite referido no número anterior é de 60%.
 
-###### Artigo 16.º — Limites de financiamento à aquisição
+Artigo 16.º
+
+Limites de financiamento à aquisição
 
 Nos casos de aquisição referidos nas alíneas a) e b) do n.º 1 do artigo 12.º, o financiamento tem como limite os preços de aquisição das fracções autónomas, dos prédios ou dos empreendimentos, não podendo, porém, os montantes relativos à comparticipação e ao empréstimo ultrapassar, respectivamente, 30% e 50% da despesa elegível ou dos preços máximos aplicáveis nos termos do artigo 13.º, quando inferiores.
 
-###### Artigo 17.º — Instrução dos processos de financiamento
+Artigo 17.º
+
+Instrução dos processos de financiamento
 
 1 - ...
 
@@ -413,7 +491,9 @@ Nos casos de aquisição referidos nas alíneas a) e b) do n.º 1 do artigo 12.�
 
 6 - No caso de financiamentos relativos à reabilitação de edifícios em regime de propriedade horizontal integrados em bairros sociais, o INH exige uma cópia do auto da vistoria realizada pelo município, nos termos do artigo 90.º do regime jurídico da urbanização e edificação.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo das excepções previstas no presente diploma, os empréstimos a conceder ao abrigo do PROHABITA estão sujeitos às seguintes condições:
 
@@ -437,7 +517,9 @@ h) ...
 
 3 - A regra constante da alínea f) do n.º 1 não é aplicável nos casos em que esteja previsto no presente diploma uma bonificação específica para empréstimos relativos a determinados fins, tais como a realização de obras de reabilitação, de construção sustentável ou de acessibilidades.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Podem ser concedidos adiantamentos até 40% do montante dos financiamentos, não podendo, porém, nos casos de aquisição, aquele valor exceder o das quantias pagas a título de sinal ou princípio de pagamento.
 
@@ -445,11 +527,15 @@ h) ...
 
 3 - Pode ainda ser concedido um adiantamento no caso de financiamento para o fim previsto na alínea f) do n.º 1 do artigo 12.º, em função da caução a que houver lugar.
 
-###### Artigo 23.º — Apoio financeiro
+Artigo 23.º
+
+Apoio financeiro
 
 As Regiões Autónomas, as associações de municípios ou os municípios podem, no âmbito dos protocolos referidos no n.º 3 do artigo 10.º, acordar a atribuição de subsídios a fundo perdido ou sob outra forma destinada a suportar, total ou parcialmente, o montante correspondente à diferença entre o valor da renda apoiada aplicável ao fogo e o valor da renda técnica correspondente a esse fogo, no caso de habitações atribuídas em regime de renda apoiada pelas entidades a que se refere o n.º 2 do mesmo artigo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As habitações e respectivas partes acessórias financiadas ao abrigo do presente decreto-lei destinam-se a ser atribuídas aos agregados familiares a que se referem a alínea b) do n.º 1 e o n.º 3 do artigo 5.º para sua residência permanente em regime de renda apoiada ou em regime de propriedade resolúvel.
 
@@ -457,7 +543,9 @@ As Regiões Autónomas, as associações de municípios ou os municípios podem,
 
 3 - ...
 
-###### Artigo 26.º — Acesso às habitações
+Artigo 26.º
+
+Acesso às habitações
 
 1 - ...
 
@@ -469,7 +557,9 @@ c) Nenhum dos seus membros estar a usufruir de apoios financeiros públicos para
 
 2 - Sem prejuízo da responsabilidade criminal que ao caso caiba, a prestação de falsas declarações, de forma expressa ou por omissão, para efeito do acesso a que se refere o número anterior, constitui causa de exclusão do agregado familiar ou de cessação imediata do contrato relativo à habitação nos termos constantes do regime de renda apoiada ou do regime de propriedade resolúvel, consoante for o caso.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -483,7 +573,9 @@ c) As habitações construídas com financiamento concedido ao abrigo do artigo 
 
 3 - Ficam excepcionadas do disposto na alínea c) do n.º 1 do presente artigo as habitações financiadas com comparticipação de montante igual ou inferior a 20% do valor máximo considerado para efeito do financiamento.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Nos casos da alínea a) do n.º 1 do artigo anterior, a entidade beneficiária pode vender a habitação e as partes acessórias da mesma ao arrendatário, desde que o preço de venda não exceda o preço ou o valor atribuído para efeito de concessão do respectivo financiamento, corrigido pela aplicação da taxa anual de inflação fixada pelo Instituto Nacional de Estatística a partir do ano seguinte ao da aquisição ou da conclusão das obras.
 
@@ -493,13 +585,17 @@ c) As habitações construídas com financiamento concedido ao abrigo do artigo 
 
 4 - A venda a que se refere o n.º 1 do presente artigo pode ser efectuada em regime de propriedade resolúvel, caso em que o preço de venda da habitação e das partes acessórias da mesma é o estabelecido nos termos do artigo 3.º do [Decreto-Lei n.º 167/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1993-274244), de 7 de Maio, com dedução do valor correspondente à respectiva comparticipação.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A entidade beneficiária deve solicitar ao INH autorização para as alienações referidas nos artigos anteriores, através de requerimento de que conste o regime da venda e o respectivo preço, o valor da dívida do empréstimo e o valor e forma de pagamento das quantias a devolver ao INH.
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Dentro do prazo a que se refere a alínea a) do n.º 1 do artigo 27.º, as transmissões dos prédios ou fracções autónomas adquiridos nos termos dos artigos anteriores estão sujeitas às seguintes condições:
 
@@ -515,19 +611,25 @@ b) O INH, a Região Autónoma, a associação de municípios ou o município out
 
 5 - Cabe aos órgãos próprios das Regiões Autónomas, das associações de municípios ou dos municípios, conforme o caso, emitirem os documentos necessários à verificação notarial da regularidade das transmissões a efectuar nos termos do presente artigo.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Está sujeito a registo o regime especial de alienação referido na alínea a) do n.º 1 do artigo 27.º e o respectivo prazo, a requerer pelos beneficiários dos financiamentos, cuja inscrição deve fazer referência à sujeição das transmissões, dentro do prazo, ao disposto nos artigos 28.º, 29.º e 30.º do presente decreto-lei.
 
 2 - Está ainda sujeito a registo o regime especial de alienação regulado na alínea c) do n.º 1 do artigo 27.º, a requerer pelo INH, na qualidade de interessado.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Os preços máximos de venda e os limites e direitos de preferência inerentes aos regimes especiais de alienação previstos no presente decreto-lei caducam no caso de dação ou de venda em processo executivo dos prédios ou fracções autónomas de prédios financiados ao abrigo do PROHABITA para pagamento de dívidas de empréstimos hipotecários concedidos à respectiva construção, aquisição, reabilitação ou beneficiação ou de dívidas decorrentes do disposto no artigo seguinte.
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -549,7 +651,9 @@ e) [Anterior alínea f).]
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Os encargos com as comparticipações a fundo perdido e com a concessão e execução das fianças concedidas ao abrigo do presente diploma são suportados pelo orçamento privativo do INH, mediante transferência do Orçamento do Estado das verbas inscritas no PIDDAC em seu nome num dos projectos do Programa de Realojamento do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional.
 
@@ -575,11 +679,15 @@ Criação de equipamento social
 
 Para efeito da candidatura ao fim a que se refere a alínea b) do n.º 1 do artigo 7.º, para além de outros elementos exigíveis, deve o município apresentar um parecer, a emitir pela rede social concelhia, do qual conste a identificação das carências existentes e a justificação e adequabilidade do equipamento social a criar face a essas carências, bem como a menção de não ser elegível noutro apoio financeiro público existente.
 
-###### Artigo 16.º-A — Valores máximos e limites de financiamento à construção
+Artigo 16.º-A
+
+Valores máximos e limites de financiamento à construção
 
 A aquisição de terrenos e a construção de empreendimentos referida na alínea c) do n.º 1 do artigo 12.º estão sujeitas aos valores máximos estabelecidos nos termos do regime da habitação de custos controlados, não podendo os montantes da comparticipação e do empréstimo a conceder para esses fins ultrapassar, respectivamente, 30% e 50% daqueles valores.
 
-###### Artigo 16.º-B — Limites de financiamento à aquisição e reabilitação
+Artigo 16.º-B
+
+Limites de financiamento à aquisição e reabilitação
 
 1 - Nos casos de aquisição de edifícios ou de parte de edifícios devolutos degradados e de realização de obras para a respectiva reabilitação, o financiamento tem como limite a soma do preço de aquisição e do custo das obras, não podendo, porém, ultrapassar um valor máximo de referência correspondente ao preço máximo que seria aplicável nos termos do n.º 1 do artigo 13.º, salvo quando se situem em áreas críticas de recuperação e reconversão urbanística, caso em que esse valor é alterado pela aplicação do coeficiente 1,5.
 
@@ -587,7 +695,9 @@ A aquisição de terrenos e a construção de empreendimentos referida na alíne
 
 3 - A bonificação do empréstimo é de dois terços da taxa de referência ou da taxa contratual, se esta for inferior.
 
-###### Artigo 16.º-C — Limites de financiamento à reabilitação
+Artigo 16.º-C
+
+Limites de financiamento à reabilitação
 
 1 - O custo máximo de realização de obras de reabilitação para efeito de financiamento é igual ao produto da área bruta do edifício que é objecto das obras por um valor máximo por metro quadrado de área bruta correspondente a 50% do preço máximo fixado, por metro quadrado de área bruta e para habitações de tipologia T5 ou superior, na portaria a que se refere o n.º 1 do artigo 13.º do presente decreto-lei.
 
@@ -597,7 +707,9 @@ A aquisição de terrenos e a construção de empreendimentos referida na alíne
 
 4 - No caso da alínea e) do n.º 1 do artigo 12.º, para acesso ao financiamento previsto nos números anteriores, mais de dois terços da área bruta dos edifícios têm de se destinar a habitação e a partes acessórias desta e a reabilitação deve ter por objecto estas áreas e as partes comuns e envolventes exteriores dos edifícios em que estão integradas.
 
-###### Artigo 16.º-D — Construção e reabilitação sustentáveis
+Artigo 16.º-D
+
+Construção e reabilitação sustentáveis
 
 1 - A construção de empreendimentos ou de edifícios promovida ao abrigo do PROHABITA deve incorporar de forma tão integrada quanto possível soluções de sustentabilidade, designadamente:
 
@@ -613,11 +725,15 @@ e) Soluções de gestão ecológica das águas e de gestão de resíduos domést
 
 2 - No caso de obras de reabilitação, as soluções de sustentabilidade que sejam aplicáveis de entre as referidas no número anterior devem ser promovidas em complementaridade com objectivos de preservação do património e de reutilização de materiais excedentes e resíduos derivados do próprio processo de reabilitação.
 
-###### Artigo 16.º-E — Acessibilidade
+Artigo 16.º-E
+
+Acessibilidade
 
 Os projectos e a construção ou reabilitação de edifícios e equipamentos ao abrigo do PROHABITA devem obedecer às condições de acessibilidade cuja verificação progressiva é determinada nos termos legais, sem prejuízo de poderem ser antecipadas soluções de acessibilidade nos edifícios e habitações a construir ou a reabilitar quando o INH considere que a natureza ou a extensão da intervenção o permitem.
 
-###### Artigo 16.º-F — Sustentabilidade e acessibilidade
+Artigo 16.º-F
+
+Sustentabilidade e acessibilidade
 
 1 - Cabe ao INH ou, a seu pedido, ao Laboratório Nacional de Engenharia Civil (LNEC) aconselhar os beneficiários sobre a utilização das melhores soluções técnicas, construtivas e arquitectónicas de sustentabilidade ou acessibilidade.
 
@@ -631,7 +747,9 @@ Os projectos e a construção ou reabilitação de edifícios e equipamentos ao 
 
 6 - O acréscimo de custo da construção ou da reabilitação inerente à execução de soluções de sustentabilidade é financiado sob a forma de comparticipação a fundo perdido até ao valor do custo máximo que lhe for aplicável nos termos do n.º 4 do presente artigo.
 
-###### Artigo 23.º-A — Condições do financiamento à reabilitação
+Artigo 23.º-A
+
+Condições do financiamento à reabilitação
 
 1 - O financiamento para qualquer dos fins previstos na alínea a) do n.º 2 do artigo 12.º é concedido de acordo com a avaliação, classificação e selecção das candidaturas a que se refere o artigo 7.º do presente diploma, cabendo ao INH solicitar aos beneficiários, pela correspondente ordem e em função das disponibilidades orçamentais, a apresentação dos elementos necessários à contratação dos financiamentos.
 
@@ -649,7 +767,9 @@ d) O montante a pagar por cada condómino, deduzido da comparticipação que lhe
 
 4 - O município deve acordar com os proprietários das fracções a forma de pagamento do montante a suportar por cada um deles nos termos da alínea d) do número anterior que, sempre que possível, deve ser efectuado pela totalidade e até à contratação do financiamento.
 
-###### Artigo 23.º-B — Apoio aos condóminos
+Artigo 23.º-B
+
+Apoio aos condóminos
 
 1 - A cada condómino cujo agregado familiar seja considerado carenciado nos termos do presente decreto-lei cabe uma comparticipação correspondente à aplicação à sua quota-parte do custo total da reabilitação (Qp), da percentagem de 20%.
 
@@ -657,7 +777,9 @@ d) O montante a pagar por cada condómino, deduzido da comparticipação que lhe
 
 3 - Os proprietários que preencham as condições de acesso a regimes legais de apoio financeiro à reabilitação podem recorrer a esse apoio para a parte não comparticipada da sua quota-parte do custo das obras.
 
-###### Artigo 23.º-C — Custo máximo e limites do financiamento à reabilitação
+Artigo 23.º-C
+
+Custo máximo e limites do financiamento à reabilitação
 
 1 - O custo máximo de obras de reabilitação das áreas comuns e da envolvente exterior de edifícios é calculado nos termos do artigo 16.º-C, sendo, porém, considerado um valor máximo de referência correspondente a um quarto do preço máximo ali indicado.
 
@@ -667,11 +789,15 @@ d) O montante a pagar por cada condómino, deduzido da comparticipação que lhe
 
 4 - Em qualquer caso, o empréstimo a conceder ao município não pode exceder 60% do custo total da reabilitação.
 
-###### Artigo 23.º-D — Limites do financiamento à criação de equipamentos
+Artigo 23.º-D
+
+Limites do financiamento à criação de equipamentos
 
 À aquisição e reabilitação de edifícios ou de parte destes para criação de equipamento social, ou à sua construção, é aplicável o disposto nos artigos 16.º-B e 16.º-C.
 
-###### Artigo 23.º-E — Fins do financiamento directo
+Artigo 23.º-E
+
+Fins do financiamento directo
 
 1 - São beneficiários de financiamento directo, sem necessidade de celebração de acordo de colaboração, os agregados familiares carenciados nos seguintes casos e para os seguintes fins:
 
@@ -683,13 +809,17 @@ b) Pagamento do arrendamento de habitações ou do preço de permanência em est
 
 3 - Os contratos de arrendamento devem conter as menções ao fim especial transitório e à natureza e condições da intervenção do INH prevista no n.º 4 do artigo 23.º-H.
 
-###### Artigo 23.º-F — Candidaturas aos financiamentos
+Artigo 23.º-F
+
+Candidaturas aos financiamentos
 
 1 - As Regiões Autónomas, as associações de municípios ou os municípios devem proceder ao levantamento prévio dos agregados familiares que se encontrem nas situações indicadas no artigo anterior, competindo-lhes ainda a coordenação da instrução dos processos de candidatura desses agregados e o seu envio ao INH, contendo toda a informação necessária para este proceder à verificação do cumprimento dos requisitos de acesso ao financiamento e à sua contratação.
 
 2 - No caso de pessoas e agregados familiares desalojados nas circunstâncias indicadas na alínea b) do artigo anterior, a instrução dos processos exige a apresentação de uma declaração em como nenhum deles se encontra a usufruir de outra forma de apoio financeiro público para fins habitacionais nem se encontra incluído noutro levantamento realizado para efeito do PER ou de programa similiar.
 
-###### Artigo 23.º-G — Financiamento à construção ou reabilitação
+Artigo 23.º-G
+
+Financiamento à construção ou reabilitação
 
 1 - No caso da alínea a) do n.º 1 do artigo 23.º-E, o custo das obras de construção não pode ser superior ao aplicável a uma habitação de tipologia adequada ao agregado familiar nos termos do regime de habitação de custos controlados.
 
@@ -703,7 +833,9 @@ b) Pagamento do arrendamento de habitações ou do preço de permanência em est
 
 6 - Os valores correspondentes a apoios financeiros ou em espécie concedidos por outras entidades para a realização das obras devem ser deduzidos do valor do custo das mesmas para efeito da aplicação do disposto nos n.os 3 e 4 do presente artigo.
 
-###### Artigo 23.º-H — Financiamento a desalojados
+Artigo 23.º-H
+
+Financiamento a desalojados
 
 1 - Nos casos de arrendamento temporário de habitações ou de pagamento do preço de permanência em estabelecimentos hoteleiros ou similares, cabe ao INH comparticipar, pelo período máximo de dois anos, o montante que corresponde à diferença entre o valor que o agregado familiar pode pagar em função dos seus rendimentos e o montante devido a título de renda ou de preço, respectivamente.
 
@@ -715,7 +847,9 @@ b) Pagamento do arrendamento de habitações ou do preço de permanência em est
 
 5 - O beneficiário tem de enviar mensalmente ao INH uma cópia do comprovativo do pagamento do valor da renda ou do preço do alojamento, sob pena de suspensão da comparticipação devida.
 
-###### Artigo 23.º-I — Condições do financiamento
+Artigo 23.º-I
+
+Condições do financiamento
 
 1 - A concessão da comparticipação referida no n.º 1 do artigo anterior depende do cumprimento dos seguintes requisitos:
 
@@ -731,7 +865,9 @@ c) A situação de alojamento é pelo período máximo de dois anos, que apenas 
 
 4 - O município, os serviços do centro distrital de segurança social do Instituto da Segurança Social, I. P., ou, se for o caso, outras entidades devem assegurar o acompanhamento dos agregados familiares tendo em vista a resolução da carência habitacional no termo do período referido na alínea c) do n.º 1.»
 
-###### Artigo 3.º — CAPÍTULO I
+###### Artigo 3.º
+
+### CAPÍTULO I
 
 Sistematização do [Decreto-Lei n.º 135/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), de 3 de Junho
 
@@ -767,15 +903,15 @@ O presente decreto-lei entra em vigor no prazo de 30 dias a contar da data da su
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - José António Fonseca Vieira da Silva.
 
-**Promulgado em 21 de Fevereiro de 2007.**
+Promulgado em 21 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Fevereiro de 2007.**
+Referendado em 22 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa
 
 ## ANEXO — (republicação)
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/182a00/23722377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/1996/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1996-412044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb9af2e880eae731f9b93562a37aadd4088ccf81e18742a312f4a5b8b6e76d3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27e1dc105618c6d19357f8db52be5c98e10e9f3ae66355a4ce18972f2d3f821c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,25 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
-- Multa
+- Comunicação por Satélite
+- Comunicações
 - Contra-ordenação
 - Controlo de Qualidade
 - Equipamento
 - Fiscalização
-- Comunicação por Satélite
 - Instituto das Comunicações de Portugal
-- Comunicações
+- Multa
 relationships:
 - type: amended_by
   target: pt:dre:324969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186750:por
+  label: "Alterado o nº 2 do art. 13.º e aditado um nº 3 ao art. 13.º pelo DEC LEI.406/98.1998.12.21.MEPAT DR.IS-A [293]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/406-1998-186750
+  date: '1998-12-21'
 - type: cites
   target: celex:31988L0301
   label: null
@@ -98,16 +104,27 @@ relationships:
   target: celex:31994L0046
   label: null
   source: http://data.europa.eu/eli/dir/1994/46/oj
+- type: corrected_by
+  target: pt:dre:147851:por
+  label: "Rectificado pela DECL-RECT.14-F/96.1996.09.30.PCM DR.IS-A [227]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-f-1996-147851
+  date: '1996-09-30'
+- type: repealed_by
+  target: pt:dre:324969:por
+  label: "Revogado pelo DEC LEI.192/2000.2000.08.18.MES DR.IS-A [190]; revoga ainda as demais disposições regulamentares\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2000-324969
+  date: '2000-08-18'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:31Z'
   warnings: []
   errors: []
 ---
@@ -328,15 +345,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1996. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 19 de Julho de 1996.**
+Promulgado em 19 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 1996.**
+Referendado em 23 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Marcação a apor nos equipamentos a que se refere o n.º 2 do artigo 11.º
 

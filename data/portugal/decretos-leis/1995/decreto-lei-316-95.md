@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9eb0bec106847b25b86d9164c9e69ec559016063b025e1f7d412cdadba64dca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f521aec04d332c0c02ce21ba7df99fc55c28d8195ec0b72daddf91cf320f51a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,37 @@ reuse:
 subjects:
 - Acampamento
 - Agência de Venda de Bilhetes para Espectáculos Públicos
-- PSP
-- Espetáculos e Divertimentos Públicos
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Delegação de Competências
-- Segurança Pública
-- Governador Civil
-- Inspecção Geral de Jogos
-- Venda em Hasta Pública
-- Licenciamento
-- Máquinas de Jogo
-- GNR
-- POÇO
+- Espetáculos e Divertimentos Públicos
 - Fogueira
-- Regime Jurídico
+- GNR
+- Governador Civil
 - Guarda-nocturno
+- Inspecção Geral de Jogos
+- Licenciamento
 - Lotaria Nacional
+- Máquinas de Jogo
+- Multa
 - Pessoal de Vigilância
+- POÇO
+- PSP
+- Regime Jurídico
+- Segurança Pública
 - Venda Ambulante
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:70095691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379708:por
+  label: "Alterados os art.s 2º e 4º do Dec Lei 252/92 de 19-Nov, na redacção do presente diploma, pelo DEC LEI.213/2001.02.08.2001.MAI,\
+    \ DR.IS-A [178] de 02.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/213-2001-379708
+  date: '2001-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/190/1994/07/18/p/dre
   label: null
@@ -100,16 +106,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/252/1992/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/252/1992/11/19/p/dre
+- type: cites
+  target: pt:dre:298975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661737:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405693:por
+  label: "Revogado pelo DEC LEI.310/2002.2002.12.18.MCOTA DR.IS-A [292], em tudo que o contrarie\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-2002-405693
+  date: '2002-12-18'
+- type: repealed_by
+  target: pt:dre:146221:por
+  label: "Revogado o Dec Lei 252/92, de 19-Nov, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI, DR.IS\
+    \ [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: repealed_by
+  target: pt:dre:70095691:por
+  label: Revogados a partir de 24.10.2015 a al. a) do art. 1.º e os arts. 1.º a 6.º do anexo ao presente diploma pelo(a) Lei
+    n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/105-2015-70095691
+  date: '2015-08-25'
 article_structure:
   article_count: 59
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:11Z'
   warnings: []
   errors: []
 ---
@@ -242,17 +285,19 @@ O presente diploma entra em vigor a 1 de Outubro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 6 de Julho de 1995. - Manuel Dias Loureiro - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consulado - Manuel Dias Loureiro - Walter Valdemar Pêgo Marques - Luís Francisco Valente de Oliveira - José Manuel Cardoso Borges Soeiro - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Licenciamento do exercício de actividades
 

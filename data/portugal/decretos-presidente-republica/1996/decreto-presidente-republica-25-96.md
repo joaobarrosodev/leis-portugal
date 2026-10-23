@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/25/1996/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/25-1996-414587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f458429564f4b6c2b634cbdf58425254d442593010c1fada95a7d9ef681fe43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f62455a3b61e35eb4e8e863703989b0dc5413e3f55b97b65c61287f4d0ce3b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ subjects:
 - CE Países
 - Comunidade Europeia
 - Convenção
-- Cooperação Financeira
-- Corfu
-- Portugal
 - Cooperação Cultural
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Internacional
 - Cooperação Política
+- Corfu
+- Portugal
 - Produto Siderúrgico
 - Regulamentação Aduaneira
 - Rússia
@@ -86,16 +86,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/24/1996/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/24/1996/07/12/p/dre
+- type: cites
+  target: pt:dre:414586:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:24Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +108,16 @@ validation:
 
 de 12 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Parceria e Cooperação Que Estabelece Uma Parceria entre as Comunidades Europeias e os Seus Estados Membros, por um lado, e a Federação Russa, por outro, e respectivos anexos e protocolos, bem como a Acta Final com as declarações, assinado em Corfu em 24 de Junho de 1994, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 24/96](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/24-1996-414586), em 22 de Março de 1996.
 
-**Assinado em 19 de Junho de 1996.**
+Assinado em 19 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 1996.**
+Referendado em 27 de Junho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/373-1973-422441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:05:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5da2bff060fcfa322f02fd35c3c8c0152088f88dc17616329f1a53b85f98840a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55bc2d246dc84b586b9eef803d4a05b80998fd58f467df18b0144f9a7680c2c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:05:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:05:09Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +106,7 @@ O director do Instituto Nacional de Educação Física;
 
 O director do Estádio Nacional;
 
-**O presidente do Comité Olímpico Português;**
+O presidente do Comité Olímpico Português;
 
 Outros funcionários da Direcção-Geral da Educação Física e Desportos e do Fundo de Fomento do Desporto definidos em despacho do director-geral.
 
@@ -130,6 +130,6 @@ Modelo do cartão de identidade a que se refere a Portaria n.º 373/73
 
 Modelo A e Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/12500/08950896.pdf))](https://files.diariodarepublica.pt/1s/1973/05/12500/08950896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/12500/08950896.pdf)
 
-**O Secretário de Estado da Juventude e Desportos, Augusto de Ataíde Soares de Albergaria.**
+O Secretário de Estado da Juventude e Desportos, Augusto de Ataíde Soares de Albergaria.

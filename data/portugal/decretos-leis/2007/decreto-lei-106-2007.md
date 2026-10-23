@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2007/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f4b5a08be5692b04d34cf9fcb6535ae76382a125216ec7dcfc2ecc0e335788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0af182d8c6b21e2c3be1c7be5780a344ab07d9892874998c2c5c5c00f6343306
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ subjects:
 - Assembleia Geral
 - Caixa Geral de Depósitos
 - Capital Social
-- Direcção Geral do Tesouro
 - Conselho de Administração
+- Direcção Geral do Tesouro
 - Estatuto
 - Fiscalização
 - Mandato
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
+- type: cites
+  target: pt:dre:324487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 40
+  article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:50Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +149,7 @@ Os artigos 1.º, 4.º e 6.º do [Decreto-Lei n.º 287/93](https://diariodarepubl
 
 2 - A Caixa rege-se pelo presente decreto-lei, pelos seus estatutos, pelas normas gerais e especiais aplicáveis às instituições de crédito, pela legislação aplicável às sociedades anónimas e pela demais legislação aplicável.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -147,7 +159,7 @@ Os artigos 1.º, 4.º e 6.º do [Decreto-Lei n.º 287/93](https://diariodarepubl
 
 4 - ...
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Sem prejuízo do disposto na lei comercial e no regime jurídico das empresas públicas quanto à prestação de informações aos accionistas, o conselho de administração envia ao Ministro das Finanças, pelo menos 30 dias antes da assembleia geral anual:
 
@@ -173,7 +185,9 @@ b) ...
 
 c) O conselho fiscal.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os membros da mesa da assembleia geral, do conselho de administração e dos órgãos de fiscalização são eleitos por um período de três anos, podendo ser reeleitos.
 
@@ -183,13 +197,17 @@ c) O conselho fiscal.
 
 4 - Não é obrigatória a coincidência de mandatos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Nas assembleias gerais devem estar presentes os membros do conselho de administração e do conselho fiscal.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -211,25 +229,33 @@ g) ...
 
 h) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que seja requerida a sua convocação pelo conselho de administração, pelo conselho fiscal ou pelo Estado.
 
 2 - ...
 
-###### Artigo 22.º — Benefícios sociais
+Artigo 22.º
+
+Benefícios sociais
 
 1 - Os administradores beneficiam do regime de protecção social de que gozavam à data da respectiva designação ou, na sua ausência, do regime geral da segurança social.
 
 2 - Os administradores gozam dos benefícios sociais conferidos aos trabalhadores da sociedade, nos termos que venham a ser concretizados pela comissão de vencimentos, com excepção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.
 
-###### Artigo 23.º — Composição
+Artigo 23.º
+
+Composição
 
 1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou a uma sociedade de revisores oficiais de contas.
 
 2 - O conselho fiscal é composto por um presidente, dois vogais efectivos e dois suplentes.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Além das atribuições constantes da lei compete, em especial, aos órgãos de fiscalização:
 
@@ -239,7 +265,9 @@ b) ...
 
 c) ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
@@ -267,15 +295,15 @@ São republicados, em anexo, que faz parte integrante do presente decreto-lei, o
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 22 de Março de 2007.**
+Promulgado em 22 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Março de 2007.**
+Referendado em 23 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/139a00/35743578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2003/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2003-685032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e787766865a17933bc1ace3141c9f378c3c677d844ba9a12e2018e7a30138591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac47e09ece88f4e29861d9a7367560080668c410c5a2730739e03cf6211f59fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,76 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Comissão Invotan
+- Cooperação Internacional
 - Definição de Competências
 - Direito Comunitário
-- União Europeia
-- Ministério da Ciência e do Ensino Superior
 - Gabinete de Relações Internacionais da Ciência e do Ensino Superior
+- Gestão Financeira
 - Integração de Trabalhadores
+- Ministério da Ciência e do Ensino Superior
 - Orgânica
-- Cooperação Internacional
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Receita
 - Relações Internacionais
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:521012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que o Gabinete, cuja orgânica foi aprovada no presente diploma, passe a denominar-se Gabinete de Relações\
+    \ Internacionais da Ciência, Inovação e Ensino Superior, pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior, anteriormente\
+    \ designado Gabinete de Relações Internacionais da Ciência e do Ensino Superior, cuja orgânica foi aprovada no presente\
+    \ diploma, pelo DEC LEI.214/2006.27.10.2006.MCTES, DR.IS [208] de 27.10.2006, nos termos dos artigos 31.º e 32.º, e integradas\
+    \ as atribuições definidas nos seus nºs I, II, III e IV da alínea c) do n.º 2 do artigo 26.º, do mesmo diploma, respectivamente,\
+    \ no Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais e na Direcção-Geral do Ensino Superior,\
+    \ na Fundação para a Ciência e a Tecnologia, I. P., cuja orgânica foi aprovada pelo Dec Lei 188/97, de 28-Jul, e na UMIC\
+    \ - Agência para a Sociedade do Conhecimento, I. P., criada pelo Dec Lei 16/2005, de 18-Jan\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:520872:por
+  label: "Determinado que a UMIC, IP, suceda nas atribuições relativas à cooperação internacional no domínio da sociedade\
+    \ de informação e do conhecimento, do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior (extinto\
+    \ nos termos do art. 26º do Dec Lei 214/2006 de 27-Out) e cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.153/2007.27.04.2007.MCTES,\
+    \ DR.IS [82] de 27.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2007-520872
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:520993:por
+  label: "Determinado que a Direcção Geral do Ensino Superior suceda nas atribuições relativas à cooperação internacional\
+    \ no domínio do Ensino Superior, do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior (extinto\
+    \ nos termos do art. 26º do Dec Lei 214/2006 de 27-Out), e cuja orgânica foi aprovada pelo presente diploma, pelo DEC\
+    \ LEI.151/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2007-520993
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:521012:por
+  label: "Determinado que o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, suceda nas atribuições,\
+    \ referidas nas letras i), ii) da al. c) do art. 11º, do Gabinete de Relações Internacionais da Ciência e do Ensino Superior\
+    \ (extinto nos termos do art. 26º do Dec Lei 214/2006 de 27-Out) e cuja orgânica foi aprovada pelo presente diploma, ora\
+    \ revogado, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.60/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007,\
+    \ a partir de 01.05.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-2007-521012
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:521021:por
+  label: "Determinado que a Fundação para a Ciência e Tecnologia, IP, suceda nas atribuições relativas à cooperação científica\
+    \ e tecnológica internacional, do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior (extinto\
+    \ nos termos do art. 26º do Dec Lei 214/2006 de 27-Out) e cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.152/2007.27.04.2007.MCTES,\
+    \ DR.IS [82] de 27.04.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2007-521021
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/187/1997/07/28/p/dre
   label: null
@@ -92,16 +143,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
+- type: cites
+  target: pt:dre:144603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:17Z'
   warnings: []
   errors: []
 ---
@@ -254,11 +313,11 @@ d) Dois vogais nomeados por despacho do Ministro da Ciência e do Ensino Superio
 
 a) Colaborar na definição das linhas gerais de actuação do GRICES no âmbito das acções de política de ensino superior e de C&T da União Europeia;
 
-b) Desenvolver as acções necessárias à concretização das competências do GRICES no âmbito dos assuntos relativos à União Europeia, assegurando o apoio ao Ministro da Ciência e do Ensino Superior, nomeadamente na participação nos Conselhos de Ministros da União Europeia na área do ensino superior, bem como relativos à C&T;
+b) Desenvolver as acções necessárias à concretização das competências do GRICES no âmbito dos assuntos relativos à União Europeia, assegurando o apoio ao Ministro da Ciência e do Ensino Superior, nomeadamente na participação nos Conselhos de Ministros da União Europeia na área do ensino superior, bem como relativos à C&T
 
-c) Assegurar a representação do Ministro da Ciência e do Ensino Superior nas instâncias nacionais de coordenação comunitária na área do ensino superior e da C&T;
+c) Assegurar a representação do Ministro da Ciência e do Ensino Superior nas instâncias nacionais de coordenação comunitária na área do ensino superior e da C&T
 
-d) Preparar as bases de propostas a submeter ao Ministro da Ciência e do Ensino Superior sobre as orientações, condições e modalidades de participação nacional nas actividades da União Europeia relativas ao ensino superior e à C&T;
+d) Preparar as bases de propostas a submeter ao Ministro da Ciência e do Ensino Superior sobre as orientações, condições e modalidades de participação nacional nas actividades da União Europeia relativas ao ensino superior e à C&T
 
 e) Apoiar acções de cooperação no domínio de ensino superior e científico e tecnológico com a União Europeia;
 
@@ -266,7 +325,7 @@ f) Acompanhar as acções da União Europeia no domínio do ensino superior e de
 
 g) Propor a deslocação de delegados ao estrangeiro a fim de participarem em reuniões internacionais sobre ensino superior e cooperação científica e tecnológica no âmbito da União Europeia;
 
-h) Preparar, para sujeição a homologação do Ministro da Ciência e do Ensino Superior, as propostas de nomeação dos delegados nacionais aos comités de coordenação e gestão de programas do âmbito do ensino superior e da C&T;
+h) Preparar, para sujeição a homologação do Ministro da Ciência e do Ensino Superior, as propostas de nomeação dos delegados nacionais aos comités de coordenação e gestão de programas do âmbito do ensino superior e da C&T
 
 i) Apoiar o Observatório da Ciência e do Ensino Superior nos estudos sobre a evolução da política comunitária de ensino superior e de investigação e desenvolvimento tecnológico no contexto internacional, tendo em consideração a situação e tendências do sistema e da política nacional de ensino superior e de C&T.
 
@@ -434,15 +493,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - José David Gomes Justino - Pedro Lynce de Faria.
 
-**Promulgado em 29 de Maio de 2003.**
+Promulgado em 29 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Junho de 2003.**
+Referendado em 3 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 MAPA ANEXO
 

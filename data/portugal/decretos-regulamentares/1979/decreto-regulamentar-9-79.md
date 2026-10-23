@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1979-382995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ab261367c29c2b8e66c4b4819889103f1287db399cfffa5a3bd2a8d63c370e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cf7ae72c9adfa6bfa2978261f47fd6fe3d30e596d169534e782594333176380
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Instalações Radioelétricas
+- Oeiras
+- Radio Marconi
+- Radiocomunicações
+- Servidão Radioelétrica
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:35Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +105,20 @@ Ao abrigo do disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](http
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto n.º 276/76](https://diariodarepublica.pt/dr/detalhe/decreto/276-1976-502597), de 13 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 2.º do [Decreto n.º 276/76](https://diariodarepublica.pt/dr/detalhe/decreto/276-1976-502597), de 13 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 2.º O centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 380000 m2, confinando com prédios cujos proprietários são os a seguir indicados:
+Art. 2.º O centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 380000 m2, confinando com prédios cujos proprietários são os a seguir indicados:
 
 a) ...
 
 b) ...
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - Eduardo Henriques da Silva Correia - João Orlindo Almeida Pina.
 
-**Promulgado em 15 de Março de 1979.**
+Promulgado em 15 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

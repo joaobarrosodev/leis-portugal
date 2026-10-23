@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1979-383414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5538033310d58ae27a255c2a8640c5e72fc902a96cfe28948e7546349b6b73bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21795c8d1d33e63c0d79ca9d9b01e9b9d1ea7e583911b637064a2c143eae4b33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ÁREA de Reabilitação Urbana
+- ÁREA NON Aedificandi
+- Medidas Preventivas
+- Ordenamento do Território
+- Política de Solos
+- Setúbal
+- ZONA Degradada
 relationships:
 - type: amended_by
   target: pt:dre:390228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422822:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:59Z'
   warnings: []
   errors: []
 ---
@@ -95,36 +118,36 @@ Verificando-se, contudo, nalgumas zonas do concelho de Setúbal, abrangidas ness
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Da parcela de terreno designada por letra B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), de 4 de Julho, são destacadas quatro subparcelas, designadas por B1, B2, B3 e B4, passando nas subparcelas B2, B3 e B4 as medidas preventivas, instituídas pelo mesmo decreto regulamentar, do regime de proibição para o de sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades mencionados nas alíneas a) a f) do artigo 8.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, continuando a vigorar no remanescente da parcela B e na subparcela B1 o regime de proibição já nelas incidente.
+Artigo 1.º - 1 - Da parcela de terreno designada por letra B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), de 4 de Julho, são destacadas quatro subparcelas, designadas por B1, B2, B3 e B4, passando nas subparcelas B2, B3 e B4 as medidas preventivas, instituídas pelo mesmo decreto regulamentar, do regime de proibição para o de sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades mencionados nas alíneas a) a f) do artigo 8.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, continuando a vigorar no remanescente da parcela B e na subparcela B1 o regime de proibição já nelas incidente.
 
 2 - O prazo das medidas preventivas estabelecido pelo [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), de 4 de Julho, não é modificado.
 
-###### Art. 2.º A subparcela B1 engloba os terrenos compreendidos entre o limite poente da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), o limite norte da secção B da matriz cadastral da freguesia de S. Lourenço de Azeitão e os caminhos que, de norte para sul, bordejam pelo poente diversos prédios da referida secção, desde o n.º 24 até ao n.º 42, contornando este último pelo sul e novamente pelo poente os n.os 43 e 63, inflectindo depois para sudoeste e depois para sul pela estrema do prédio n.º 70, até ao caminho que separa o prédio n.º 68 do n.º 100.
+Art. 2.º A subparcela B1 engloba os terrenos compreendidos entre o limite poente da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), o limite norte da secção B da matriz cadastral da freguesia de S. Lourenço de Azeitão e os caminhos que, de norte para sul, bordejam pelo poente diversos prédios da referida secção, desde o n.º 24 até ao n.º 42, contornando este último pelo sul e novamente pelo poente os n.os 43 e 63, inflectindo depois para sudoeste e depois para sul pela estrema do prédio n.º 70, até ao caminho que separa o prédio n.º 68 do n.º 100.
 
-###### Art. 3.º A subparcela B2 engloba todos os terrenos da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), a poente da estrada nacional n.º 10 não incluídos na subparcela B1.
+Art. 3.º A subparcela B2 engloba todos os terrenos da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), a poente da estrada nacional n.º 10 não incluídos na subparcela B1.
 
-###### Art. 4.º A subparcela B3 engloba os terrenos da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), a nascente da estrada nacional n.º 10 compreendidos entre esta, o limite norte da secção B da matriz cadastral da freguesia de S. Lourenço de Azeitão, o caminho que, de norte para sul, bordeja pelo nascente os prédios n.os 113 a 124 daquela secção e uma linha poligonal, totalmente implantada entre prédios da mesma secção, que daí segue, para nascente, pela estrema norte do prédio n.º 127, vira para sul pela estrema nascente do mesmo, vira novamente para nascente pelo caminho confinante com a estrema norte do prédio n.º 133 até à estrada municipal n.º 538, seguindo por esta e depois pelo caminho que, de norte para sul, bordeja pelo nascente diversos prédios desde o n.º 134 ao n.º 144, inflectindo depois para nascente pelo limite norte do prédio n.º 151, novamente para sul pelo caminho que bordeja, pelo nascente, o mesmo prédio, mais os n.os 150 e 152, segue para poente pelo limite sul do último, vira para norte, acompanhando o limite poente dos já referidos prédios n.os 152 e 150, inflecte para poente e depois para norte, contornando o prédio n.º 146 pelos seus limites sul e poente, continua para poente pela estrada municipal n.º 538, contornando, por fim, pelo poente e pelo sul a faixa de prédios urbanos encaixada no prédio n.º 104 e com frente para a estrada nacional n.º 10.
+Art. 4.º A subparcela B3 engloba os terrenos da parcela B, definida no [Decreto Regulamentar n.º 20/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1978-297992), a nascente da estrada nacional n.º 10 compreendidos entre esta, o limite norte da secção B da matriz cadastral da freguesia de S. Lourenço de Azeitão, o caminho que, de norte para sul, bordeja pelo nascente os prédios n.os 113 a 124 daquela secção e uma linha poligonal, totalmente implantada entre prédios da mesma secção, que daí segue, para nascente, pela estrema norte do prédio n.º 127, vira para sul pela estrema nascente do mesmo, vira novamente para nascente pelo caminho confinante com a estrema norte do prédio n.º 133 até à estrada municipal n.º 538, seguindo por esta e depois pelo caminho que, de norte para sul, bordeja pelo nascente diversos prédios desde o n.º 134 ao n.º 144, inflectindo depois para nascente pelo limite norte do prédio n.º 151, novamente para sul pelo caminho que bordeja, pelo nascente, o mesmo prédio, mais os n.os 150 e 152, segue para poente pelo limite sul do último, vira para norte, acompanhando o limite poente dos já referidos prédios n.os 152 e 150, inflecte para poente e depois para norte, contornando o prédio n.º 146 pelos seus limites sul e poente, continua para poente pela estrada municipal n.º 538, contornando, por fim, pelo poente e pelo sul a faixa de prédios urbanos encaixada no prédio n.º 104 e com frente para a estrada nacional n.º 10.
 
-###### Art. 5.º A subparcela B4 engloba o conjunto dos prédios n.os 15, 16, 23 e 24 da secção C da matriz cadastral da freguesia de S. Simão de Azeitão e a parte do aglomerado urbano de Vendas de Azeitão entre esse conjunto de prédios, a Rua do Poço e a estrada nacional n.º 379.
+Art. 5.º A subparcela B4 engloba o conjunto dos prédios n.os 15, 16, 23 e 24 da secção C da matriz cadastral da freguesia de S. Simão de Azeitão e a parte do aglomerado urbano de Vendas de Azeitão entre esse conjunto de prédios, a Rua do Poço e a estrada nacional n.º 379.
 
-###### Art. 6.º As autorizações referidas no artigo 1.º só poderão ser concedidas para os actos ou actividades interessando a loteamentos urbanos a coberto de alvará de licença de loteamento, nomeadamente as respectivas obras de urbanização e de edificação, salvo nas zonas urbanas consolidadas, onde poderão ser concedidas autorizações para obras de edificação independentemente da existência daquele alvará, mas apenas quando dessa autorização não resulte fraccionamento do prédio fundiário.
+Art. 6.º As autorizações referidas no artigo 1.º só poderão ser concedidas para os actos ou actividades interessando a loteamentos urbanos a coberto de alvará de licença de loteamento, nomeadamente as respectivas obras de urbanização e de edificação, salvo nas zonas urbanas consolidadas, onde poderão ser concedidas autorizações para obras de edificação independentemente da existência daquele alvará, mas apenas quando dessa autorização não resulte fraccionamento do prédio fundiário.
 
-###### Art. 7.º As autorizações referidas no artigo 1.º serão concedidas mediante a apreciação dos respectivos processos de licenciamento previstos no [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho, e no [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, conforme se trate de operações de loteamento ou de obras de edificação.
+Art. 7.º As autorizações referidas no artigo 1.º serão concedidas mediante a apreciação dos respectivos processos de licenciamento previstos no [Decreto-Lei n.º 289/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-1973-422822), de 6 de Junho, e no [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, conforme se trate de operações de loteamento ou de obras de edificação.
 
-###### Art. 8.º - 1 - Compete à Câmara Municipal de Setúbal a concessão das autorizações referidas no artigo 1.º, formalizadas pela simples emissão dos respectivos alvarás de licença.
+Art. 8.º - 1 - Compete à Câmara Municipal de Setúbal a concessão das autorizações referidas no artigo 1.º, formalizadas pela simples emissão dos respectivos alvarás de licença.
 
 2 - Compete igualmente à Câmara Municipal de Setúbal a fiscalização da observância das proibições referidas nas alíneas a) a f) do artigo 8.º, n.º 1, do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e a das autorizações concedidas e condicionamentos impostos, bem como a aplicação do disposto nos artigos 12.º e 13.º do mesmo decreto-lei.
 
-###### Art. 9.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
+Art. 9.º O presente decreto regulamentar entra em vigor no dia imediato ao da sua publicação.
 
 Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
 
-**Promulgado em 22 de Maio de 1979.**
+Promulgado em 22 de Maio de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/13000/12771278.pdf))](https://files.diariodarepublica.pt/1s/1979/06/13000/12771278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/13000/12771278.pdf)
 
-**O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.**
+O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

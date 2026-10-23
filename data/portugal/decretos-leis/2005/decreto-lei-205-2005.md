@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2005/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2005-482817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed484dffcb8c1ebe4dcceca53b87accd2e63e4eabe3bfd2d961bba50e396ff6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 258c868aa281fd3dce988be4e4c0970ea1ce8f393cafd73ffdccfd190c03e4a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
-- Solario
-- Radioprotecção
+- Bronzeamento Artificial
 - Contra-ordenação
 - Equipamento Eléctrico
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
-- Normas de Segurança
 - Informação do Consumidor
-- Qualificação Profissional
+- Inspecção Geral das Actividades Económicas
+- Livro de Reclamações
+- Normas de Segurança
 - Proteção do Consumidor
+- Qualificação Profissional
+- Radioprotecção
 - Responsabilidade Civil
-- Bronzeamento Artificial
+- Saúde Pública
+- Solario
 - Vistoria
 relationships:
 - type: amended_by
@@ -100,16 +100,21 @@ relationships:
   target: celex:32001L0095
   label: null
   source: http://data.europa.eu/eli/dir/2001/95/oj
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogado, a partir de 01.03.2015, pelo(a) Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
   article_count: 33
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:40Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +247,9 @@ c) «Aparelho do tipo UV 3» - aparelho que possui um emissor UV de tal forma qu
 
 2 - A prova desta avaliação obrigatória deve estar acessível ao consumidor que utiliza o aparelho e pode ser solicitada a qualquer momento pela entidade fiscalizadora competente.
 
-###### Artigo 13.º — Livro de manutenção
+###### Artigo 13.º
+
+## Livro de manutenção
 
 Cada aparelho deve ter um livro de manutenção que contenha os seguintes elementos:
 
@@ -338,7 +345,9 @@ d) Declaração a que se refere o artigo 20.º
 
 3 - A menção a que se refere o n.º 1 deve ser clara e facilmente legível pelo consumidor.
 
-###### Artigo 24.º — Livro de reclamações
+###### Artigo 24.º
+
+## Livro de reclamações
 
 1 - O centro está obrigado a possuir o livro de reclamações e a disponibilizá-lo ao utente, nos termos e condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de Setembro, que institui a obrigação de existência e disponibilização do livro de reclamações.
 
@@ -428,20 +437,20 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 4 de Novembro de 2005.**
+Promulgado em 4 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Novembro de 2005.**
+Referendado em 16 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)
 
 ## ANEXO II — (a que se refere o artigo 20.º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68046810.pdf)

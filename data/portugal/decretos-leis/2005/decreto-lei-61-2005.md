@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/61/2005/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2005-591768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b019bd2cc79d6a5d190ed5e170ef0f9d45f81c2f31566b2819899e578718eab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 605d319d812573e4e946a2ae9076ec6fb7a1a4e8bb4db12b8495a628f382e46d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Estanho
 - Fiscalização
 - Higiene Alimentar
 - Normas de Segurança
-- Aditivo Alimentar
+- Produto Alimentar
 relationships:
 - type: cites
   target: celex:31985L0591
@@ -103,13 +103,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:01Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +156,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - António Victor Martins Monteiro - Carlos Henrique da Costa Neves.
 
-**Promulgado em 18 de Fevereiro de 2005.**
+Promulgado em 18 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2005.**
+Referendado em 22 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — Métodos de amostragem para controlo oficial do teor de estanho nos géneros alimentícios
 
@@ -210,7 +210,7 @@ QUADRO N.º 1
 
 Número de latas (amostras elementares) a colher para formar a amostra global
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
 
 Note-se que os teores máximos são aplicáveis ao conteúdo de cada lata, mas, para fins da viabilidade do ensaio, é necessário recorrer a uma abordagem baseada na amostragem global. Se o resultado do ensaio relativo à amostra global for inferior mas próximo do teor máximo e se houver motivo para crer que determinadas latas possam ultrapassar o teor máximo, será necessário realizar novas análises.
 
@@ -248,13 +248,13 @@ r = repetibilidade, valor abaixo do qual se pode esperar que a diferença absolu
 
 s(índice r) = desvio padrão, calculado a partir dos resultados obtidos em condições de repetibilidade;
 
-RSDr = desvio padrão relativo, calculado a partir dos resultados obtidos em condições de repetibilidade [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf), fórmula na qual [([ver documento original](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf))](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf) representa a média dos resultados de todos os laboratórios e amostras;
+RSDr = desvio padrão relativo, calculado a partir dos resultados obtidos em condições de repetibilidade [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf), fórmula na qual [(ver documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf) representa a média dos resultados de todos os laboratórios e amostras;
 
 R = reprodutibilidade, valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de testes individuais obtidos em condições de reprodutibilidade (isto é, com um material idêntico obtido pelos executantes de vários laboratórios que utilizem o método de ensaio normalizado) se situe dentro de um certo limite de probabilidade (em princípio 95%); R = 2,8 x s(índice r);
 
 S(índice r) = desvio padrão, calculado a partir dos resultados obtidos em condições de reprodutibilidade;
 
-RSD(índice r) = desvio padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf);
+RSD(índice r) = desvio padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf);
 
 HORRAT(índice r) = o valor observado de RSD(índice r) dividido pelo valor de RSD(índice r) estimado a partir da equação de Horwitz assumindo que r = 0,66 R;
 
@@ -270,11 +270,11 @@ QUADRO N.º 2
 
 Critérios de desempenho para os métodos de análise do estanho
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
 
 4.3.1 - Critérios de desempenho, abordagem da função de incerteza - a adequabilidade do método de análise a utilizar pelo laboratório poderá, igualmente, ser avaliada através de uma abordagem assente na incerteza. O laboratório deve utilizar um método que produza resultados até uma incerteza padrão máxima. A incerteza padrão máxima pode ser calculada por meio da fórmula seguinte:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
+[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)](https://files.diariodarepublica.pt/1s/2005/03/048a00/20532057.pdf)
 
 Se um método analítico produzir resultados cuja incerteza de medição seja inferior à incerteza padrão máxima, esse método será tão adequado quanto um método que respeite as características de desempenho indicadas no quadro n.º 2.
 

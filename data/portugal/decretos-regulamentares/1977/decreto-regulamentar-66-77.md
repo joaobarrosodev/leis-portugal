@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ccdcce317fcdd56ea36de1c158349272df37215c8de3d87249f6c2c37fdc60d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 077898c9be864a4b96ac0ab5a2a76cb5e3ce57892079bd0303357ab2cfcf7e5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Gabinete de Informação e Relações Públicas
+- Ministério do Plano e Coordenação Económica
+- Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:459589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365899:por
+  label: "Substituído o quadro de pessoal constante do anexo II (Gabinete de Informação e Relações Públicas) pela PORT.698/79.24.12.1979.PCM,\
+    \ DR.IS [295] de 24.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-1979-365899
+  date: '1979-12-24'
+- type: amended_by
+  target: pt:dre:430023:por
+  label: "Substituído o quadro de pessoal constante do anexo II pelo DEC LEI.513-R/79.26.12.1979.MF, DR.IS [296-3ºSupl] de\
+    \ 26.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-r-1979-430023
+  date: '1979-12-26'
+- type: cites
+  target: pt:dre:141790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 20
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +131,9 @@ de 29 de Setembro
 
 Ao abrigo do disposto no artigo 13.º do [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), de 18 de Fevereiro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 A organização e funcionamento da Secretaria-Geral, do Gabinete de Informação e Relações Públicas e da Auditoria Jurídica do Ministério do Plano e Coordenação Económica, a que se refere o artigo 4.º do [Decreto-Lei n.º 55/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1977-141790), regem-se pelas normas contidas no presente decreto.
 
@@ -302,7 +345,7 @@ m) Escriturários-dactilógrafos, por concurso de prestação de provas de entre
 
 ###### Artigo 16.º
 
-**O Ministro poderá autorizar que seja requisitado ou contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nos termos legais.**
+O Ministro poderá autorizar que seja requisitado ou contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nos termos legais.
 
 ###### Artigo 17.º
 
@@ -330,7 +373,7 @@ m) Escriturários-dactilógrafos, por concurso de prestação de provas de entre
 
 ###### Artigo 19.º
 
-**O secretário-geral poderá receber do Ministro delegação de competência para despachar assuntos relativos à função geral de administração que pertence à Secretaria-Geral ou a outros serviços do Ministério, nomeadamente os que respeitam à gestão do pessoal, do material, dos recursos orçamentais e outros que constituam simples meios de permitir o exercício da sua competência.**
+O secretário-geral poderá receber do Ministro delegação de competência para despachar assuntos relativos à função geral de administração que pertence à Secretaria-Geral ou a outros serviços do Ministério, nomeadamente os que respeitam à gestão do pessoal, do material, dos recursos orçamentais e outros que constituam simples meios de permitir o exercício da sua competência.
 
 ###### Artigo 20.º
 
@@ -338,16 +381,16 @@ As dúvidas que se suscitarem na aplicação do presente diploma serão resolvid
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 
-**Promulgado em 14 de Setembro de 1977.**
+Promulgado em 14 de Setembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1977/09/22600/23852389.pdf)
 
-**O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.**
+O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes.

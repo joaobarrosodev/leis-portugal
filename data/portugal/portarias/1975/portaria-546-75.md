@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/546-1975-307575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfbb2feaa092a87d4b81f84c58c3c21587d61a46c90e50f375fca6a66410063d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84b1a208d1942bcf0b2a206f836ffa77967ab57013c2030e9d6719170cab5e80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Naval
+- Desarmamento
+- Marinha
+- Prazo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:280888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280888:por
+  label: Substituída a designação «Marinha» por «Oficiais técnicos» ou «Serviço geral» na lotação especial anexa à presente
+    portaria, pelo(a) Portaria n.º 682/77 - Diário da República n.º 260/1977, Série I de 1977-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/682-1977-280888
+  date: '1977-11-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +109,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguint
 
 Estado-Maior da Armada, 8 de Agosto de 1975. - O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo, vice-almirante.
 
-## Anexo a que se refere a Portaria
+Anexo a que se refere a Portaria
 
 Lotação especial do NRP «Sam Brás»
 
@@ -188,4 +199,4 @@ Marinheiro despenseiro ... 1
 
 Nota. - Os efectivos desta lotação serão progressivamente reduzidos, à medida que se forem tornando desnecessários.
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/1996/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1996-413229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07fb6c8048174eb8d96d275c4cbb228cab7f78a8b11b286495e504152f005f31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b53dfeba1294edab49abdb2e9e8001136838e1bd0d3aff056b2aa524ddccd2d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,14 @@ relationships:
   target: pt:dre:172266452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172266452:por
+  label: Alterado a partir de 05-10-2021, e com efeitos a partir da data de início do ano letivo de 2021-2022, o reconhecimento
+    de interesse público e a denominação da Escola Superior de Enfermagem Cruz Vermelha Portuguesa - Alto Tâmega, que passa
+    a denominar-se Escola Superior de Saúde Cruz Vermelha Portuguesa - Alto Tâmega pelo(a) Decreto-Lei n.º 79/2021 - Diário
+    da República n.º 193/2021, Série I de 2021-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2021-172266452
+  date: '2021-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -83,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:34Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +187,12 @@ A Escola é autorizada a funcionar no concelho de Chaves.
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques Pina.
 
-**Promulgado em 12 de Julho de 1996**
+Promulgado em 12 de Julho de 1996
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Julho de 1996.**
+Referendado em 17 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

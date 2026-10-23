@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114/2008/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf49454de844c5e1fc6bf92d04f451bd3f3d6883fe0c3d64234b62adeaa29b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ff48454b2ca19c5e67e87af94b6474f31bef26bae5da3694489389473dc23a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Armas e Munições
 - Cartão de Identificação
 - Direção Geral das Autarquias Locais
-- Segurança Pública
-- Fiscalização
-- Registo Nacional de Guarda-nocturnos
-- Guarda-nocturno
 - Fardamento
+- Fiscalização
+- Guarda-nocturno
+- Registo Nacional de Guarda-nocturnos
+- Segurança Pública
 - Uso e porte de arma
 relationships:
 - type: amended_by
@@ -92,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:01Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +160,9 @@ Licença e cessação da actividade
 
 4 - Os guardas-nocturnos que cessam a actividade comunicam esse facto ao município, até 30 dias após essa ocorrência, estando dispensados de proceder a essa comunicação se a cessação da actividade coincidir com o termo do prazo de validade da licença.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O guarda-nocturno deve:
 
@@ -182,11 +196,15 @@ j) Efectuar e manter em vigor um seguro, incluindo na modalidade de seguro de gr
 
 Actividade
 
-###### Artigo 9.º-A — Compensação financeira
+Artigo 9.º-A
+
+Compensação financeira
 
 A actividade do guarda-nocturno é compensada pelas contribuições voluntárias das pessoas, singulares ou colectivas, em benefício de quem é exercida.
 
-###### Artigo 9.º-B — Férias, folgas e substituição
+Artigo 9.º-B
+
+Férias, folgas e substituição
 
 1 - O guarda-nocturno descansa do exercício da sua actividade uma noite após cada cinco noites consecutivas de trabalho.
 
@@ -198,7 +216,9 @@ A actividade do guarda-nocturno é compensada pelas contribuições voluntárias
 
 5 - Nas noites de descanso, durante os períodos de férias, e em caso de falta do guarda-nocturno, a actividade da respectiva área é exercida, em acumulação, por um guarda-nocturno da área contígua, para o efeito convocado pelo comandante da força de segurança territorialmente competente, sob proposta do guardaa substituir.
 
-###### Artigo 9.º-C — Equipamento
+Artigo 9.º-C
+
+Equipamento
 
 1 - O equipamento é composto por cinturão de cabedal preto, bastão curto e pala de suporte, arma, rádio, apito e algemas.
 
@@ -206,19 +226,27 @@ A actividade do guarda-nocturno é compensada pelas contribuições voluntárias
 
 3 - Para efeitos de fiscalização, a identificação das armas que sejam utilizadas ao abrigo do disposto no presente artigo é sempre comunicada à força de segurança territorialmente competente, devendo ser actualizada caso sofra qualquer alteração.
 
-###### Artigo 9.º-D — Veículos
+Artigo 9.º-D
+
+Veículos
 
 Os veículos em que transitam os guardas-nocturnos devem encontrar-se devidamente identificados.
 
-###### Artigo 9.º-E — Modelos
+Artigo 9.º-E
+
+Modelos
 
 1 - O modelo de cartão identificativo de guarda-nocturno é definido por portaria conjunta dos membros do Governo responsáveis pelas áreas das autarquias locais e da administração interna.
 
 2 - Os modelos de uniforme, crachá e identificador de veículo são definidos por portaria do membro do Governo responsável pela área da administração interna.
 
-#### Secção III — Registo, lista e cartão identificativo de guarda-nocturno
+Secção III
 
-###### Artigo 9.º-F — Registo nacional de guardas-nocturnos
+Registo, lista e cartão identificativo de guarda-nocturno
+
+Artigo 9.º-F
+
+Registo nacional de guardas-nocturnos
 
 1 - Tendo em vista a organização do registo nacional de guardas-nocturnos, no momento da atribuição da licença para o exercício da actividade de guarda-nocturno, cada município comunica à Direcção-Geral das Autarquias Locais, abreviadamente designada por DGAL, sempre que possível por via electrónica e automática, os seguintes elementos:
 
@@ -232,15 +260,21 @@ c) A área de actuação dentro do município.
 
 3 - O guarda-nocturno tem o direito de, a todo o tempo, verificar os seus dados pessoais na posse da DGAL e solicitar a sua rectificação quando os mesmos estejam incompletos ou inexactos.
 
-###### Artigo 9.º-G — Lista de guardas-nocturnos
+Artigo 9.º-G
+
+Lista de guardas-nocturnos
 
 A DGAL disponibiliza no seu sítio na Internet a lista de guardas-nocturnos devidamente licenciados, cuja publicitação é autorizada nos termos do presente decreto-lei.
 
-###### Artigo 9.º-H — Segurança na informação
+Artigo 9.º-H
+
+Segurança na informação
 
 A DGAL adopta as medidas técnicas e organizativas adequadas para proteger os dados contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, nos termos da Lei de Protecção de Dados Pessoais, devendo sempre ser protegidos, através de medidas de segurança específicas, adequadas ao tratamento de dados em redes abertas.
 
-###### Artigo 9.º-I — Cartão identificativo de guarda-nocturno
+Artigo 9.º-I
+
+Cartão identificativo de guarda-nocturno
 
 1 - No momento da atribuição da licença para o exercício da actividade, o município emite o cartão identificativo de guarda-nocturno.
 
@@ -252,12 +286,12 @@ Os municípios devem adaptar os seus regulamentos às normas constantes do prese
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui José Simões Bayão de Sá Gomes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 5 de Junho de 2008.**
+Promulgado em 5 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2008.**
+Referendado em 6 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2007-520990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1ec23c0d21eb75b2cad1e4dcc65b1a29d39b5153516f337b26a3d516e1505c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4345a9f2c51e1ed79c19e6614f6e5abc1bd641dae673fa56570f214c639f855d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Fiscal Único
-- Gestão Financeira
-- Instituto Portuário e dos Transportes Marítimos
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
 - Delegação Regional
+- Fiscal Único
 - Gestão do Património
-- Conselho Diretivo
-- Conselho Consultivo
+- Gestão Financeira
+- Instituto Portuário e dos Transportes Marítimos
 - Instituto Público
+- Jurisdição
 - Orgânica
 - Regime de Pessoal
 relationships:
@@ -82,6 +82,77 @@ relationships:
   target: pt:dre:67250267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que seja exercida conjuntamente pelos Ministros da Economia e do Emprego e da Agricultura, do Mar, Ambiente\
+    \ e Ordenamento do Território a superintendência e tutela sobre o Instituto Portuário e dos Transportes Marítimos, bem\
+    \ como sobre as administrações portuárias, anteriormente no âmbito do extinto Ministério das Obras Públicas, Transportes\
+    \ e Comunicações, cuja orgânica foi aprovada pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl]\
+    \ de 12.07.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinto, sendo objecto de fusão, o Instituto Portuário e dos Transportes Marítimos, I.P. (criado pelo Dec Lei 257/2002\
+    \ de 22-Nov, já revogado), cujas atribuições e competências constam do presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34º e art. 36º; sendo as suas atribuições no domínio:\
+    \ da definição de orientações estratégicas para as vertentes dos transportes marítimos, navegabilidade, segurança marítima\
+    \ e portuária, náutica de recreio e de ensino e formação no sector marítimo-portuário e pescas, integradas na Direcção-Geral\
+    \ de Política do Mar; da regulamentação, supervisão e fiscalização do sector marítimo-portuário e da náutica de recreio,\
+    \ integradas na Direcção-Geral de Recursos Naturais, Segurança e Serviços Marítimos; dos projetos de investigação, desenvolvimento\
+    \ e inovação, integradas no Instituto Português do Mar e da Atmosfera, I. P.; de supervisão e regulação da atividade económica\
+    \ dos portos comerciais e dos transportes marítimos, bem como da navegação da via navegável do Douro, integradas no Instituto\
+    \ da Mobilidade e dos Transportes, I. P., do Ministério da Economia e do Emprego; e e as atribuições no domínio da gestão\
+    \ dos portos de pesca e marinas de recreio em entidade do sector empresarial do Estado no âmbito do MAMAOT, em termos\
+    \ a definir em diploma próprio.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:543899:por
+  label: "Determinada a sucessão da DGPM nas atribuições do Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM,\
+    \ I. P.), no domínio da definição de orientações estratégicas para as vertentes dos transportes marítimos, navegabilidade,\
+    \ segurança marítima e portuária, náutica de recreio e de ensino e formação no sector marítimo-portuário e pescas e revogado,\
+    \ a partir de 01.02.2012, nos termos do art. 39º do Dec Lei 7/2012, de 17-jan, na parte relativa a estas atribuições,\
+    \ pelo DR.17/2012.31.01.2012.MAMAOT, DR.IS [22] de 31.01.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-2012-543899
+  date: '2012-01-31'
+- type: amended_by
+  target: pt:dre:553639:por
+  label: "Determinada a sucessão do IPMA, I. P. no domínio dos projetos de investigação, desenvolvimento e inovação, nas atribuições\
+    \ do Instituto Portuário e dos Transportes Marítimos, I. P., pelo DEC LEI.68/2012.20.03.2012.MAMAOT, DR.IS [57] de 20.03.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2012-553639
+  date: '2012-03-20'
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinado que Ministro da Economia exerce conjuntamente com a Ministra da Agricultura e do Mar a superintendência\
+    \ e tutela sobre o Instituto Portuário e dos Transportes Marítimos, I.P., com orgânica constante do presente diploma,\
+    \ na redação do Dec Lei 236/2012, de 31-ago, bem como sobre as administrações portuárias, pelo DEC LEI.119/2013.21.08.2013.PCM,\
+    \ DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:570690:por
+  label: "Determinada a sucessão das funções de autoridade portuária nos portos de pesca e nas marinas de recreio do Instituto\
+    \ Portuário e dos Transportes Marítimos, I. P., com orgânica constante do presente diploma, na redação do Dec Lei 119/2013,\
+    \ de 21-ago na Docapesca - Portos e Lotas, S. A., prevista no Dec Lei 107/90. De 27-mar, pelo DEC LEI.16/2014.03.02.2014.MAGM,\
+    \ DR.IS [23] de 03.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2014-570690
+  date: '2014-02-03'
+- type: amended_by
+  target: pt:dre:571959:por
+  label: "Determinada a sucessão em todas as atribuições e competências relativas aos portos de Faro e de Portimão, da APS,\
+    \ S.A., ao IPTM, I.P., com orgânica constante do presente diploma, na redação do Dec Lei 236/2012, de 31-out, pelo DEC\
+    \ LEI.44/2014.20.03.2014.MECO, DR.IS [55] de 20.03.2014, nos termos dos arts. 3º e segs.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2014-571959
+  date: '2014-03-20'
+- type: amended_by
+  target: pt:dre:67250267:por
+  label: Determinado que a APDL, S. A., sucede ao IPTM, I. P., cuja orgânica foi aprovada pelo presente diploma, no respeitante
+    à jurisdição portuária sobre a exploração da via navegável do rio Douro, pelo(a) Decreto-Lei n.º 83/2015 - Diário da República
+    n.º 98/2015, Série I de 2015-05-21 nos termos dos arts 1.º, 2.º, 3.º, 4.º e 18.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2015-67250267
+  date: '2015-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -122,16 +193,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:230302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439131:por
+  label: "Revogadas as disposições relativas ao porto da Figueira da Foz pelo DEC LEI.210/2008.03.11.2008.MOPTC, DR.IS [213]\
+    \ de 03.11.2008, naquilo em que é contrariado pelo disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2008-439131
+  date: '2008-11-03'
+- type: repealed_by
+  target: pt:dre:439138:por
+  label: "Revogadas as disposições relativas ao porto de Viana do Castelo pelo DEC LEI.211/2008.03.11.2008.MOPTC, DR.IS [213]\
+    \ de 03.11.2008, naquilo em que contrariam o disposto naquele diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2008-439138
+  date: '2008-11-03'
+- type: repealed_by
+  target: pt:dre:551446:por
+  label: "Revogado, a partir de 01.03.2012, na parte relativa às atribuições e competências que transitam para a Direcção-Geral\
+    \ de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), pelo DEC LEI.49-A/2012.29.02.2012.MAMAOT, DR.IS [43-Supl]\
+    \ de 29.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-a-2012-551446
+  date: '2012-02-29'
+- type: repealed_by
+  target: pt:dre:191561:por
+  label: "Revogado na parte relativa às atribuições que transitaram para o IMT, I. P. o presente diploma, pelo DEC LEI.236/2012.31.10.2012.MEE,\
+    \ DR.IS [211] de 31.10.2012, com exceção dos art.s 2º e 22º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-2012-191561
+  date: '2012-10-31'
 article_structure:
   article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:43Z'
   warnings: []
   errors: []
 ---
@@ -592,12 +736,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Abril de 2007.**
+Promulgado em 2 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

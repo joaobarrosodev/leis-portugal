@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1979-381092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7b728fa7b78ce89761140bc465cf4ee96ad803b2661b0a633e1bd835e222570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbc9d730adfa24afd0cf471a2501e2d0b914b96b2d34ad1d84e56ee7d4d3f142
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Orquestra
+- Quadro de Pessoal
+- Teatro Nacional de São Carlos
 relationships:
 - type: amended_by
   target: pt:dre:364137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364137:por
+  label: "Prorrogado o prazo estabelecido no artigo 5.º do presente diploma, pela PORT.565/79.27.10.1979.PCM, DR.IS [249]\
+    \ de 27.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/565-1979-364137
+  date: '1979-10-27'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447878:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:58Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +154,8 @@ c) Escriturário-dactilógrafo: de entre indivíduos habilitados com a escolarid
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 31 de Maio de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado da Cultura, David de Jesus Mourão Ferreira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14100/13531355.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14100/13531355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14100/13531355.pdf)
 
 Estas percentagens deverão ser revistas de modo que os vencimentos resultantes da sua aplicação não ultrapassem o montante do vencimento atribuído aos maestros-directores.
 
-**O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

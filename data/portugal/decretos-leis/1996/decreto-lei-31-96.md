@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/1996/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1996-554783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d677c7c70509de89cf7f7adf03cf734935b47155b1a6f0690fcc93196f0b57e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: febe714e32f7d1f5c64cb17a09e97087b10c69d0b022dcf07717813ba89cbb2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ reuse:
 subjects:
 - Acumulação de Pensões e Remunerações
 - Alfândega
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Despachante Oficial
+- Formação Profissional
 - Indemnização
+- Instituto do Emprego e Formação Profissional
 - Mercado Interno CE
-- Reforma Antecipada
 - Pensão de Velhice
 - Pessoal Administrativo
 - Prestações da Segurança Social
 - Prorrogação de Prazo
 - Proteção no Desemprego
 - Reconversão Profissional
+- Reforma Antecipada
 - Segurança Social
 - Subsídio de Desemprego
 - Troca Intracomunitária
@@ -93,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/1995/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1995/03/03/p/dre
+- type: cites
+  target: pt:dre:196965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645721:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:03Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +143,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 29 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 25 de Março de 1996.**
+Promulgado em 25 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Março de 1996.**
+Referendado em 27 de Março de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2007/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10eb4d685d29b41b36aa21f66a89923036f73b239c43dbead81671da6945f3bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a89b9c70512d81d40d8110f3e349c7213ddcb227bd568193d0ca9ceb1dc6711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Modernização Administrativa
 - Concurso Nacional de Acesso
-- Documento Eletrónico
 - Direção Geral do Ensino Superior
-- Numerus Clausus
+- Documento Eletrónico
+- Ensino Superior
+- Estabelecimento de Ensino
 - Informação do Consumidor
 - Internet
-- Estabelecimento de Ensino
-- Ensino Superior
+- Modernização Administrativa
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:211844897:por
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:46Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +219,9 @@ Os artigos 27.º, 28.º, 37.º e 38.º do [Decreto-Lei n.º 296-A/98](https://di
 
 5 - A apresentação da candidatura ao concurso nacional pode ser realizada através da Internet.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 ...
 
@@ -201,13 +243,17 @@ h) As regras processuais necessárias, incluindo as referentes à apresentação
 
 i) ...
 
-###### Artigo 37.º — Informação sobre a oferta formativa do ensino superior
+Artigo 37.º
+
+Informação sobre a oferta formativa do ensino superior
 
 1 - A Direcção-Geral do Ensino Superior assegura a divulgação através da Internet, e de outros meios que considerar adequados, de toda a informação relevante para os candidatos ao ensino superior acerca dos estabelecimentos e cursos existentes.
 
 2 - As instituições de ensino superior fornecem à Direcção-Geral do Ensino Superior todos os elementos necessários à divulgação daquela informação.
 
-###### Artigo 38.º — Informação sobre o acesso ao ensino superior
+Artigo 38.º
+
+Informação sobre o acesso ao ensino superior
 
 A Direcção-Geral do Ensino Superior assegura a divulgação através da Internet e de outros meios que considerar adequados de toda a informação relevante acerca do acesso ao ensino superior, nomeadamente a referente às normas legais aplicáveis, às provas de ingresso, aos pré-requisitos, às preferências regionais e outras, às classificações mínimas, à fórmula da nota de candidatura e às vagas para a candidatura a cada par estabelecimento/curso.»
 
@@ -221,12 +267,12 @@ As alterações introduzidas pelo presente decreto-lei aplicam-se a partir do ac
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 12 de Fevereiro de 2007.**
+Referendado em 12 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

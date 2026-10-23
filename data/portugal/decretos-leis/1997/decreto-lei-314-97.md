@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/1997/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1997-686619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 820f83463b322a0f0db862cf78a533ad288d7f1e00e77242f5cdce1ccab8e123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f21fab774a4c29227d296f7128bf2855ef8cbad4936304bc91857c0ab5832d25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- REDE Escolar
 - Definição de Competências
 - Denominação de Instituição
-- Ensino Oficial
-- Simbolo de Identificação
-- Jardim de Infância
-- Ensino Secundário
 - Direcção Regional de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
 - Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Jardim de Infância
+- REDE Escolar
+- Simbolo de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:640666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640666:por
+  label: Alterados os arts. 1.º, 2.º , 3.º, 6.º, 7.º, 8.º e 8.º-A, assim como o quadro n.º 1 anexo, e revogados os n.ºs. 3
+    e 4 do art. 3.º, os n.ºs 2 e 3 do art. 8.º, os arts. 4.º e 5.º, bem como o quadro n.º 2 anexo do Dec lei 387/90 de 10-Dez,
+    na versão alterada e republicada pelo presente diploma, DEC LEI.299/2007.22.08.2007.ME, DR.IS [161] de 22.08.2007, que
+    o republicou em anexo, com a redacção atual
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-2007-640666
+  date: '2007-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:227593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:31Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +162,17 @@ c) Nome da localidade onde se situa o estabelecimento, seguido do nome do concel
 
 2 - A inclusão do elemento referido na alínea b) do número anterior na denominação do estabelecimento é facultativa, excepto nas localidades onde exista mais de um estabelecimento de educação ou mais de um estabelecimento do mesmo nível ou grau de ensino.
 
-###### Artigo 5.º — Símbolos representativos
+Artigo 5.º
+
+Símbolos representativos
 
 1 - Os estabelecimentos de educação ou de ensino públicos podem usar estandarte, brasão ou símbolo próprios nos seus documentos, desde que para tanto obtenham autorização do Ministro da Educação.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A instrução do processo de denominação dos estabelecimentos de educação e de ensino é da competência do departamento central do Ministério da Educação, a quem incumbe a gestão dos recursos educativos.
 
@@ -158,7 +186,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 8.º — Tipologia de estabelecimentos
+Artigo 8.º
+
+Tipologia de estabelecimentos
 
 1 - Os estabelecimentos da rede pública são designados em função do nível de educação ou de ensino que prioritariamente ministram, podendo esta designação abranger diversos níveis, ciclos e modalidades, de acordo com a tipologia constante do quadro n.º 1 anexo ao presente diploma, do qual faz parte integrante.
 
@@ -194,27 +224,29 @@ O departamento a que se refere o artigo 6.º do presente diploma assegura o regi
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1997. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Outubro de 1997.**
+Promulgado em 22 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 QUADRO N.º 1
 
 Tipologia dos estabelecimentos de educação e de ensino públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf))](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf))](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Objecto e âmbito
 
@@ -310,8 +342,8 @@ QUADRO N.º 1
 
 Tipologia dos estabelecimentos de educação e de ensino públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf))](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf))](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/265a00/62286233.pdf)

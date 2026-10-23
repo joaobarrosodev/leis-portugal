@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2011/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2011-276804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e36fb1f39ea28aff90b5484127552cdd525cc767511fd704f802a29a7b74f206
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5a9366a4807b325ca8e1596a9a743fc09beeee07aad75f2bec0a675beaba6e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Empresa
-- Sociedade Comercial
+- Cisão de Empresas
 - Código das Sociedades Comerciais
 - Correio Electrónico
-- Cisão de Empresas
+- Empresa
 - Fusão de Sociedades
-- Sociedade da Informação
+- IES
 - Página na Internet
 - Revisor Oficial de Contas
-- IES
+- Sociedade Comercial
+- Sociedade da Informação
 relationships:
 - type: cites
   target: celex:32004R0809
@@ -89,15 +89,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2009/109/oj
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:28Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +174,9 @@ c) O balanço do primeiro semestre do exercício em curso à data do projecto de
 
 5 - Quando a atribuição de valores mobiliários, por ocasião de uma fusão, seja qualificada como oferta pública, o conteúdo do projecto de fusão deve ainda obedecer ao disposto no Regulamento (CE) n.º [809/2004](https://data.europa.eu/eli/reg/2004/809/oj?locale=pt), da Comissão, de 29 de Abril, ou, em alternativa, conter informações consideradas pela CMVM equivalentes às de um prospecto, para efeitos do disposto na alínea a) do n.º 2 do artigo 134.º do Código dos Valores Mobiliários.
 
-###### Artigo 100.º — Registo e publicação do projecto e convocação da assembleia
+Artigo 100.º
+
+Registo e publicação do projecto e convocação da assembleia
 
 1 - O projecto de fusão deve ser registado, sendo de imediato publicado.
 
@@ -188,7 +190,9 @@ c) O balanço do primeiro semestre do exercício em curso à data do projecto de
 
 6 - ...
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +206,9 @@ c) O balanço do primeiro semestre do exercício em curso à data do projecto de
 
 6 - Em caso de indisponibilidade de acesso à documentação através do sítio da Internet por motivos técnicos, deve a sociedade, sem prejuízo do direito de consulta prevista no número anterior, facultar cópias dos documentos nos termos do n.º 1.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +220,9 @@ c) O balanço do primeiro semestre do exercício em curso à data do projecto de
 
 5 - Os órgãos de administração das sociedades participantes prestam informações, reciprocamente, antes da data da respectiva assembleia geral, acerca de qualquer mudança relevante nos elementos de facto em que se baseou o projecto de fusão.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -242,12 +250,12 @@ O presente decreto-lei entra em vigor no dia 30 de Junho de 2011.
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - José Manuel Santos de Magalhães.
 
-**Promulgado em 30 de Março de 2011.**
+Promulgado em 30 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Março de 2011.**
+Referendado em 31 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

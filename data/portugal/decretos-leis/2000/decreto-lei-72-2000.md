@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2000/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2000-275775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9bc00c067670284cee88d404bb10f8fc7c6e3217f03c09a6257dcc2ea98221d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08886372d530bb8c36fd506038953dd86f5fae23dfefefe779933e2ab5a7abb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,79 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:611962:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:303201:por
+  label: "Alterado o ponto 2.3.4 do anexo I, aditado ao ponto 9 do mesmo anexo novos postos, alterado o anexo IV e determinado\
+    \ que o penúltimo parag. do ponto 1.2.2 do anexo X passe a ponto 1.2.3 com nova redacção, todos do Regulamento, pelo DEC\
+    \ LEI.92/2002.2002.04.12.MAI, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2002-303201
+  date: '2002-04-12'
+- type: amended_by
+  target: pt:dre:221329:por
+  label: "Aditado o ponto 9.5.1.5 ao anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, pelo DEC LEI.40/2003.2003.03.11.MAI DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2003-221329
+  date: '2003-03-11'
+- type: amended_by
+  target: pt:dre:315885:por
+  label: "Alterados os arts. 8º, 28º, 35º, 38º e 39º e substituídos os anexos do Regulamento aprovado pelo DEC LEI.72-B/2003.2003.04.14.MAI\
+    \ DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-b-2003-315885
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:566652:por
+  label: "Alterados o ponto 9.9 do anexo I e o ponto 9.9 do anexo III, aditados os pontos 9.23 e 9.23.1 ao anexo I e os pontos\
+    \ 9.23 e 9.23.1 à secção A do anexo III, substituídos o anexo IV, o apêndice 1 e o apêndice 2 ambos do anexo XI, todos\
+    \ do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas,\
+    \ aprovado pelo presente diploma, na redacção do Dec Lei 72-B/2003, de 14-Abr, e republicados os anexos I, III, IV e XI\
+    \ no seu anexo V, pelo DEC LEI.220/2004.04.11.2004.MAI, DR.IS-A [259] de 04.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/220-2004-566652
+  date: '2004-11-04'
+- type: amended_by
+  target: pt:dre:457203:por
+  label: "Alterado o anexo XI (na redacção do Dec Lei 72-B/2003, de 04-Abr) e aditados os pontos 9.10.5.3 e 9.10.5.3.1 ao\
+    \ anexo I ambos do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades\
+    \ Técnicas aprovado pelo presente diploma, pelo DEC LEI.3/2005.05.01.2005.MAI, DR.IS-A [3] de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2005-457203
+  date: '2005-01-05'
+- type: amended_by
+  target: pt:dre:589559:por
+  label: "Alterados os anexos IV (na redacção dos Dec Lei 92/2002 de 12-Abr, 72-B/2003 de 14-Abr e 220/2004 de 04-Nov) e IX\
+    \ todos do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas,\
+    \ aprovado pelo presente diploma, passando aqueles a ter a redacção constante do anexo II do DEC LEI.178/2005.28.10.2005.MAI,\
+    \ DR.IS-A [208] de 28.10.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2005-589559
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:520818:por
+  label: "Alterado o art. 35.º ( na redacção do Dec Lei 72-B/2003 de 14-Abr) e os ANEXOS I (na redacção dos Dec Lei 92/2002\
+    \ de 12-Abr, 40/2003 de 11-Mar, 72-B/2003 de 14-Abr, 3/2005 de 05-Jan e 220/2004 de 04-Nov), ANEXO III ( na redacção do\
+    \ Dec Lei 220/2004 de 04-Nov), ANEXO IV (na redacção dos Dec Lei 92/2002 de 12-Abr, 72-B/2003 de 14-Abr, 220/2004 de 04-Nov\
+    \ e 178/2005 de 28-Out), ANEXO IX (na redacção do Dec Lei 178/2005 de 28-Out) e ANEXO XI (na redacção dos Dec Lei 3/2005\
+    \ de 05-Jan e 72-B/2003 de 14-Abr), todos do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, DR.IS-A [105], republicado em anexo pelo DEC LEI.198/2007.16.05.2007.MAI, DR.IS [94]\
+    \ de 16.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2007-520818
+  date: '2007-05-16'
+- type: amended_by
+  target: pt:dre:456786:por
+  label: "Alterados os anexos I e III do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas,\
+    \ Componentes e Unidades Técnicas, aprovado pelo presente diploma, com as alterações constantes dos Dec Lei 92/2002 de\
+    \ 12-Abr, 40/2003, de 11-Mai, 72-B/2003 de 14-Mai, 3/2005 de 05-Jan e 198/2007 de 16-Mai, pelo DEC LEI.135/2008.21.07.2008.MOPTC,\
+    \ DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-2008-456786
+  date: '2008-07-21'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -128,16 +190,24 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1
   label: null
   source: http://data.europa.eu/eli/dir/1
+- type: repealed_by
+  target: pt:dre:611962:por
+  label: "Revogado o presente diploma, a partir de 17.03.2010, que aprovou o Regulamento da Homologação CE de Modelo de Automóveis\
+    \ e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, alterado pelos Dec Lei 92/2002 de 12-Abr, 40/2003, de 11-Mai,\
+    \ 72-B/2003 de 14-Mai, 3/2005 de 05-Jan, 178/2005 de 28-Out e 198/2007 de 16-Mai, pelo DEC LEI.16/2010.12.03.2010.MOPTC,\
+    \ DR.IS [50] de 12.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2010-611962
+  date: '2010-03-12'
 article_structure:
   article_count: 51
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:58Z'
   warnings: []
   errors: []
 ---
@@ -210,15 +280,15 @@ O Regulamento ora aprovado entra em vigor, para homologação de novos modelos d
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 28 de Março de 2000.**
+Promulgado em 28 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DA HOMOLOGAÇÃO CE DE MODELO DE AUTOMÓVEIS E REBOQUES, SEUS SISTEMAS, COMPONENTES E UNIDADES TÉCNICAS.
 
@@ -1408,7 +1478,7 @@ Potência máxima admissível absorvida pelos equipamentos movidos pelo motor es
 
 4.6 - Relações de transmissão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 4.7 - Velocidade máxima do veículo (em km/h (ver nota w): ...
 
@@ -1660,11 +1730,11 @@ O veículo está equipado com os seguintes comandos, avisadores e indicadores de
 
 Comandos, avisadores e indicadores cuja indentificação, quando instalados, é obrigatória e símbolos a utilizar para esse fim:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Comandos, avisadores e indicadores cuja identificação, quando instalados, é facultativa e símbolos a utilizar para sua eventual identificação:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 9.10.3 - Bancos:
 
@@ -1868,11 +1938,11 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.12.1 - Número e localização dos cintos de segurança e dos sistemas de retenção e bancos nos quais podem ser utilizados (E = esquerdo; D = direito; C = central):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 9.12.2 - Espécies e posições de sistemas de retenção adicionais (indicar: sim/não/opcional) (E = esquerdo; D = direito; C = central):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 9.12.3 - Número e posição das fixações dos cintos de segurança e prova do cumprimento da Directiva n.º [76/115/CEE](http://data.europa.eu/eli/dir/1976/115/oj?locale=pt), e suas alterações (isto é, número de homologação ou relatório do ensaio): ...
 
@@ -1886,7 +1956,7 @@ Comandos, avisadores e indicadores cuja identificação, quando instalados, é f
 
 9.13.3 - Designação dos tipos (ver nota *) de cintos de segurança autorizados para as fixações com que o veículo está equipado:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 9.13.4 - Descrição de um tipo especial de cinto de segurança se uma fixação estiver localizada no encosto do banco ou incorporar um dispositivo de dissipação de energia: ...
 
@@ -2328,13 +2398,13 @@ Ter uma distância ao solo sob o eixo da retaguarda de 250 mm.
 
 Os trens rolantes múltiplos são considerados como sendo um único eixo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 4.5.2 - Por «distância ao solo sob um eixo» entende-se a distância determinada pelo ponto mais alto de um arco de círculo que passa pelo meio da superfície de apoio das rodas de um eixo (das rodas interiores, no caso de pneumáticos duplos) e que toca o ponto fixo mais baixo do veículo entre as rodas.
 
 Nenhuma parte rígida do veículo deve penetrar no segmento tracejado do esquema. Se for caso disso, a distância ao solo de vários eixos será indicada de acordo com a posição destes, por exemplo, 280/250/250.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 4.6 - Designação combinada:
 
@@ -2458,7 +2528,7 @@ SD carros funerários: v. ponto 5.4 da parte A do anexo II.
 
 (No que diz respeito às notas v. anexo I)
 
-# PARTE I
+## PARTE I
 
 As informações seguintes, se aplicáveis, serão fornecidas em triplicado e incluirão um índice. Se houver desenhos, serão fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, deverão ser suficientemente pormenorizadas.
 
@@ -2626,7 +2696,7 @@ Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções
 
 4.6 - Relações de transmissão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 4.7 - Velocidade máxima do veículo (em km/h) (w): ...
 
@@ -2714,7 +2784,7 @@ Caso os sistemas, componentes ou unidades técnicas autónomas possuam funções
 
 11.5 - Número(s) de homologação: ...
 
-# PARTE II
+## PARTE II
 
 Tabela que indica as combinações que são admissíveis em versões de veículos dos elementos da parte I, em relação aos quais há entradas múltiplas.
 
@@ -2724,17 +2794,17 @@ Deve ser preenchida uma tabela separada para cada variante dentro do modelo.
 
 As entradas múltiplas em relação às quais não há restrições quanto à respectiva combinação dentro de uma variante devem ser enumeradas na coluna encimada por «Todas».
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Estas informações podem ser apresentadas num formato ou disposição alternativo desde que se satisfaça o fim em vista.
 
 Cada variante e cada versão deverão ser identificadas por um código numérico ou alfabético, que deve ser indicado igualmente no certificado de conformidade (anexo IX) do veículo em causa.
 
-# PARTE III — Números de homologação decorrentes de directivas específicas
+## PARTE III — Números de homologação decorrentes de directivas específicas
 
 Fornecer as informações requeridas no quadro a seguir sobre os elementos aplicáveis (ver nota *) aos veículos mencionados nos anexos IV ou XI. (Todas as homologações pertinentes para cada elemento deverão ser incluídas.)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Assinatura: ...
 
@@ -2876,15 +2946,15 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem comandos el
 
 ## ANEXO IV — Lista de requisitos para efeitos de homologação do veículo
 
-# PARTE I — Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última redacção de cada directiva específica enumerada a seguir)
+## PARTE I — Lista de directivas específicas (eventualmente tendo em conta o âmbito e a última redacção de cada directiva específica enumerada a seguir)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
-# PARTE II
+## PARTE II
 
 Quando nas secções II a VIII for feita referência a uma directiva específica, uma homologação nos termos do(s) regulamento(s) da Comissão Económica para a Europa (ECE) [tendo em conta o seu âmbito (ver nota 1) e a alteração de cada um dos regulamentos da ECE a seguir enumerados], será considerada como equivalente a uma homologação nos termos da directiva específica indicada para o assunto relevante no quadro da parte I:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 (nota 1) Sempre que as directivas específicas contenham disposições de instalação, estas aplicam-se igualmente aos componentes e unidades técnicas homologadas em conformidade com os regulamentos da Comissão Económica para a Europa das Nações Unidas.
 
@@ -3068,13 +3138,13 @@ Variante(s) completa(s)/completada(s): ...
 
 Lista de requisitos aplicáveis ao modelo ou variante de veículo incompleto homologado (conforme adequado, tendo em conta o âmbito e a última alteração de cada uma das directivas específicas enumeradas a seguir):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 (Enumerar apenas os assuntos em relação aos quais existe uma homologação nos termos de uma directiva específica.)
 
 No caso de veículos para fins especiais, derrogações concedidas ou disposições especiais aplicadas nos termos do anexo XI e derrogações concedidas nos termos dos artigos 24.º e seguintes do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 ## ANEXO VII — Sistema de numeração da ficha de homologação (ver nota 1)
 
@@ -3082,7 +3152,7 @@ No caso de veículos para fins especiais, derrogações concedidas ou disposiç�
 
 1 - O número de homologação deve consistir de quatro secções para as homologações de veículos inteiros e cinco secções para as homologações de sistemas, componentes e unidades técnicas, conforme especificado a seguir. Em todos os casos, as secções devem ser separadas pelo carácter «*».
 
-#### Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado membro que emite a homologação:
+Secção 1: a letra minúscula «e» seguida das letras ou números distintivos do Estado membro que emite a homologação:
 
 1 para a Alemanha;
 
@@ -3114,9 +3184,9 @@ No caso de veículos para fins especiais, derrogações concedidas ou disposiç�
 
 IRL para a Irlanda.
 
-#### Secção 2: o número da directiva de base.
+Secção 2: o número da directiva de base.
 
-#### Secção 3: o número da última directiva de alteração aplicável à homologação.
+Secção 3: o número da última directiva de alteração aplicável à homologação.
 
 No caso de homologações de veículos, tal significa a última directiva que altera um artigo (ou artigos) da Directiva n.º [70/156/CEE](http://data.europa.eu/eli/dir/1970/156/oj?locale=pt).
 
@@ -3124,9 +3194,9 @@ No caso de homologações nos termos de directivas específicas, tal significa a
 
 No caso de uma directiva comportar datas de entrada em vigor diferentes que remetem para normas técnicas diferentes, deve-se acrescentar um carácter alfabético para especificar qual a norma nos termos da qual a homologação foi concedida.
 
-#### Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base. No caso de uma homologação derrogatória nos termos do anexo XI ou dos artigos 24.º e seguintes, o primeiro carácter «*» deve ser substituído pela letra «D».
+Secção 4: um número sequencial de quatro algarismos (eventualmente com zeros iniciais) a identificar o número de homologação de base. A sequência deve começar em 0001 para cada directiva de base. No caso de uma homologação derrogatória nos termos do anexo XI ou dos artigos 24.º e seguintes, o primeiro carácter «*» deve ser substituído pela letra «D».
 
-#### Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
+Secção 5: um número sequencial de dois algarismos (eventualmente com um zero inicial) a identificar a extensão. A sequência deve começar em 00 para cada número de homologação de base.
 
 2 - No caso da homologação de um veículo, a secção 2 deve ser omitida. No caso de um veículo para fins especiais, o primeiro carácter «*» da secção 4 deve ser substituído pela letra «P».
 
@@ -3210,7 +3280,9 @@ Variante/versão: ...
 
 Valor corrigido do coeficiente de absorção (m(elevado a -1)): ...
 
-## ANEXO IX — PARTE I
+## ANEXO IX
+
+## PARTE I
 
 Modelo
 
@@ -3394,7 +3466,7 @@ Itália:...; França:...; Espanha:...; Bélgica:...; Alemanha:... Luxemburgo:...
 
 (nota 3) Indicar o número da directiva.
 
-# PARTE II — Modelo
+## PARTE II — Modelo
 
 [formato máximo: A4 (210 mm x 297 mm) ou um dossier de formato A4]
 
@@ -3588,7 +3660,7 @@ Finlândia: ...
 
 (nota 2) Indicar o número da directiva.
 
-# PARTE III — Veículos destinados ao transporte de mercadorias perigosas
+## PARTE III — Veículos destinados ao transporte de mercadorias perigosas
 
 Modelo
 
@@ -3760,9 +3832,9 @@ As autoridades de homologação dos Estados membros devem informar-se mutuamente
 
 (v. artigos 5.º e seguintes)
 
-# PARTE I — Autocaravanas - ambulâncias - carros funerários
+## PARTE I — Autocaravanas - ambulâncias - carros funerários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Significado das letras
 
@@ -3804,9 +3876,9 @@ X - Nenhumas isenções a não ser as especificadas na directiva específica.
 
 N/A - A directiva não é aplicável (nenhuns requisitos).
 
-# PARTE II — Veículos blindados
+## PARTE II — Veículos blindados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Significado das letras
 
@@ -3828,7 +3900,7 @@ N/A - A directiva não é aplicável (nenhum requisito).
 
 O número de unidades de uma família de modelos, conforme definida abaixo, a matricular, a pôr à venda ou em serviço anualmente em Portugal, não deve exceder o valor indicado a seguir, relativo à categoria de veículos em questão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 Uma «família de modelos» é constituída por veículos que não diferem em relação aos seguintes aspectos essenciais:
 
@@ -3882,7 +3954,7 @@ Data da primeira emissão (no caso de extensão): ...
 
 (v. artigo 5.º)
 
-# PARTE I
+## PARTE I
 
 1 - Generalidades.
 
@@ -3952,7 +4024,7 @@ No caso de um semi-reboque, massa máxima admitida sobre o cabeçote de engate (
 
 (nota a) Apenas se o valor tiver sido alterado durante esta fase da homologação.
 
-# PARTE II — Modelo da chapa adicional do fabricante
+## PARTE II — Modelo da chapa adicional do fabricante
 
 O exemplo a seguir é dado apenas a título indicativo.
 
@@ -3994,7 +4066,7 @@ De acordo com o n.º 10 do artigo 2.º da Directiva n.º [98/14/CE](http://data.
 
 Além disso, o abaixo assinado declara que o veículo quando entregue satisfazia as seguintes directivas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
+[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)](https://files.diariodarepublica.pt/1s/2000/05/105a00/18561900.pdf)
 
 A presente declaração é emitida de acordo com as disposições do anexo XI da Directiva n.º [98/14/CE](http://data.europa.eu/eli/dir/1998/14/oj?locale=pt) (ver nota 1).
 

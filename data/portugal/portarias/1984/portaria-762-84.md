@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22400/29772979.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/762-1984-399662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:12:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 244e8d970a7a6f8dba1c85add64ff8fd1d14fa7a041b5bdf29486059917d9a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7be47953e7b0d6b67f4b20d395c6b871dcc9ea5854779f864197703079f1e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:12:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino de Condução
+- Escola de Condução
+- Preço
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:228218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228218:por
+  label: "Revogada pela PORT.359/86.10.07.1986.MIC, DR.IS [156] de 10.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-1986-228218
+  date: '1986-07-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:12:32Z'
   warnings: []
   errors: []
 ---
@@ -180,15 +201,15 @@ b) Prática - 50 minutos.
 
 Ministérios do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 11 de Setembro de 1984.**
+Assinada em 11 de Setembro de 1984.
 
-**O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Comércio e Turismo, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro do Equipamento Social, João Rosado Correia.
 
 ## ANEXO I — Tabelas anexas à Portaria n.º 762/84
 
 TABELA A à TABELA E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/22400/29772979.pdf))](https://files.diariodarepublica.pt/1s/1984/09/22400/29772979.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/22400/29772979.pdf)
 
 ## ANEXO II — Minuta do requerimento a que se refere o n.º 3.º da Portaria n.º 762/84
 

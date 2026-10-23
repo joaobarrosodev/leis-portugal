@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/1997/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1997-559038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b79059bf59ad63769416c98010e1ef2fc31667ff76709eed0f7ce9674c837a4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b64af79796684389f2bd46e3557ae29b975eab0ea11a8582e0659fb5ad020d7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Pessoal Dirigente
-- Direcção Distrital de Finanças
-- Sistema Retributivo
 - Carreira Profissional
 - Contribuições e Impostos
+- Direcção Distrital de Finanças
+- Direcção Geral das Contribuições e Impostos
 - Integração de Trabalhadores
 - Orgânica
 - Pessoal da Administração Tributária
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Remuneração
 - Repartição de Finanças
-- Direcção Geral das Contribuições e Impostos
+- Sistema Retributivo
 - Tribunal Tributário
 relationships:
 - type: amended_by
   target: pt:dre:218365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:310796:por
+  label: "Alterados os arts. 33º, 37º, 41º e 42º do Dec Lei 408/93 de 14-Dez, na redacção do presente diploma, pelo DEC LEI.202/99.1999.06.09.MF,\
+    \ DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-1999-310796
+  date: '1999-06-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
   label: null
@@ -94,16 +100,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/434/1991/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/434/1991/11/08/p/dre
+- type: cites
+  target: pt:dre:331853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:569887:por
+  label: "Revogados, a partir da entrada em vigor da portaria a que se refere o art. 24º, os arts. 5º a 16º, 19º a 24º, 26º\
+    \ a 31º e 32º a 38º do Dec Lei 408/93 de 14-Dez, na redacção dada pelo presente diploma, pelo DEC LEI.366/99.1999.09.18.MF\
+    \ DR.IA-A [219].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1999-569887
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:218365:por
+  label: "Revogado o art. 10º do Dec Lei 187/90 de 07-Jun, com a redacção do presente diploma, pelo DEC LEI.237/2004.18.12.2004.MFAP,\
+    \ DR.IS-A [295] de 18.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2004-218365
+  date: '2004-12-18'
 article_structure:
-  article_count: 24
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:12Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +191,9 @@ c) Direcção de Finanças de Ponta Delgada: ilhas de Santa Maria e São Miguel.
 
 5 - Sem prejuízo das disposições do presente diploma que lhes sejam directamente aplicáveis, os directores distritais de finanças, directores das direcções de finanças das Regiões Autónomas e directores de finanças são equiparados a directores de serviços, com excepção dos directores distritais de finanças de Lisboa e do Porto, que, para efeitos remuneratórios, são equiparados a subdirectores-gerais.
 
-###### Artigo 33.º — Estrutura das direcções distritais de finanças e direcções de finanças
+Artigo 33.º
+
+Estrutura das direcções distritais de finanças e direcções de finanças
 
 1 - As Direcções Distritais de Finanças de Beja, Bragança, Castelo Branco, Évora, Guarda, Portalegre, Viana do Castelo e Vila Real, bem como as direcções de finanças das Regiões Autónomas, dispõem das seguintes unidades orgânicas:
 
@@ -176,7 +213,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 36.º — Serviços locais
+Artigo 36.º
+
+Serviços locais
 
 1 - ...
 
@@ -200,13 +239,17 @@ d) ...
 
 7 - ...
 
-###### Artigo 37.º — Estrutura das repartições de finanças
+Artigo 37.º
+
+Estrutura das repartições de finanças
 
 1 - As repartições de finanças de nível I e II dispõem, em regra, de uma secção de tributação e de uma secção de justiça tributária e, sempre que se justifique, de uma secção de fiscalização tributária, chefiada por um perito de fiscalização tributária de 2.ª classe.
 
 2 - ...
 
-###### Artigo 38.º — Quadros de pessoal
+Artigo 38.º
+
+Quadros de pessoal
 
 1 - O quadro geral do pessoal da DGCI é fixado por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.
 
@@ -226,21 +269,29 @@ d) De cada uma das direcções distritais de finanças e direcções de finança
 
 5 - As propostas de alteração dos quadros mencionados no n.º 3 deste artigo serão feitas, anualmente, até 31 de Janeiro.
 
-###### Artigo 39.º — Subdirectores-gerais e directores de serviços
+Artigo 39.º
+
+Subdirectores-gerais e directores de serviços
 
 1 - Os cargos de subdirector-geral são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária e ainda nos termos da lei geral.
 
 2 - Os cargos de director de serviços são providos, por escolha do Ministro das Finanças, de entre funcionários habilitados com o curso de Administração Tributária ou nos termos da lei geral, bem como de entre funcionários do grupo do pessoal técnico de administração fiscal, licenciados, que possuam categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe.
 
-###### Artigo 40.º — Directores distritais de finanças e directores de finanças
+Artigo 40.º
+
+Directores distritais de finanças e directores de finanças
 
 Os cargos de director distrital de finanças e de director de finanças são providos, por escolha do Ministro das Finanças, de entre funcionários da DGCI habilitados com o curso de Administração Tributária.
 
-###### Artigo 41.º — Chefes de divisão
+Artigo 41.º
+
+Chefes de divisão
 
 Os cargos de chefe de divisão são providos de entre funcionários pertencentes ao grupo do pessoal técnico de administração fiscal com categoria igual ou superior a perito tributário de 1.ª classe ou perito de fiscalização tributária de 1.ª classe e ainda nos termos da lei geral.
 
-###### Artigo 42.º — Pessoal de chefia tributária
+Artigo 42.º
+
+Pessoal de chefia tributária
 
 1 - ...
 
@@ -290,7 +341,9 @@ b) Chefe de repartição de nível III/adjunto de chefe de repartição de níve
 
 15 - Os chefes de repartição de finanças de nível II e os adjuntos de chefe de repartição de finanças de nível I que sejam promovidos à categoria imediata da respectiva carreira podem continuar providos no mesmo lugar até à cessação da comissão de serviço por algum dos motivos enunciados no artigo 44.º
 
-###### Artigo 44.º — Cessação da comissão de serviço do pessoal de chefia tributária
+Artigo 44.º
+
+Cessação da comissão de serviço do pessoal de chefia tributária
 
 1 - ...
 
@@ -314,7 +367,9 @@ c) Na sequência de procedimento disciplinar de que resulte pena superior a repr
 
 5 - Em caso de cessação da comissão de serviço pelos motivos indicados nas alíneas a) e b) do n.º 2 do presente artigo, o funcionário não poderá candidatar-se a cargos de chefia tributária antes de decorridos três anos após a cessação.
 
-###### Artigo 46.º — Transferência
+Artigo 46.º
+
+Transferência
 
 1 - Os funcionários da DGCI, com excepção dos pertencentes ao grupo do pessoal dirigente, podem ser transferidos, a seu pedido ou por conveniência de serviço, para serviço a que corresponda quadro de contingentação diferente daquele em que se encontram colocados, desde que nele exista lugar vago na respectiva categoria.
 
@@ -322,7 +377,9 @@ c) Na sequência de procedimento disciplinar de que resulte pena superior a repr
 
 3 - ...
 
-###### Artigo 55.º — Alterações de legislação
+Artigo 55.º
+
+Alterações de legislação
 
 1 - O artigo 52.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passa a ter a seguinte redacção:
 
@@ -374,13 +431,17 @@ Mobilidade
 
 3 - Os funcionários que, estando providos em cargos de chefia tributária, tenham acesso à categoria imediatamente superior em resultado de aprovação em concurso de promoção são integrados na nova categoria, no escalão que resultar da aplicação das regras previstas no artigo 6.º ao escalão que detinham na categoria de origem.
 
-###### Artigo 9.º — Progressão
+Artigo 9.º
+
+Progressão
 
 1 - ...
 
 2 - A aplicação do disposto no número anterior aos funcionários que se encontrem nomeados em cargos de chefia tributária far-se-á relativamente à categoria de origem, com a necessária repercussão na escala salarial do cargo.
 
-###### Artigo 10.º — Funções de coordenação
+Artigo 10.º
+
+Funções de coordenação
 
 1 - Para o desempenho de acções específicas de inspecção tributária ou de justiça tributária ou para a realização de trabalhos excepcionais de natureza temporária, poderão ser constituídas na DGCI, por despacho do director-geral, equipas de trabalho.
 
@@ -520,12 +581,12 @@ b) Não obtenham aprovação no referido concurso.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

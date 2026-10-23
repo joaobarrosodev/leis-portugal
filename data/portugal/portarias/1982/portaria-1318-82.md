@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1318-1982-318309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b32698cfa99a7abb84dbd25d12bb388557d09cdb2b4d88fc4157c50dc6f315d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b48b9673d8b658fb936962af9f0fb41756f426886c9e7266e554fab11428a7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Magalhães de Lemos
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19941021 - SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE MAGALHÃES LEMOS, PELA PORT 935/94 DE 21-OUT DR.IS-B [244]\0\
+    \ [244]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:435578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435578:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e ao pessoal médico, o quadro de pessoal aprovado pela\
+    \ Port 657/80, de 16-Set, na redacção do presente diploma, pela PORT.807-S3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de\
+    \ 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-s3-1983-435578
+  date: '1983-07-30'
+- type: cites
+  target: pt:dre:460848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:13Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +130,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Centro de Saúde Mental Ocidental do Porto (Hospital de Magalhães Lemos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30100/43184318.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30100/43184318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30100/43184318.pdf)

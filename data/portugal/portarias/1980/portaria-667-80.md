@@ -46,40 +46,112 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-1980-460855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ed56977217d200010232f98a35cc770ddacb963228db25f92862850ac694496
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aec95dc46aab9f9ca936f89271e2688f91a8fd02e66471b1bc697abeeec29ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Braga
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:612981:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600962:por
+  label: "Alterada pela PORT.142/82.1982.02.01.MFP, DR.IS [26] de 1/Fev/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1982-600962
+  date: '1982-01-04'
+- type: amended_by
+  target: pt:dre:450861:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma e alterado na Port. 142/82, de 01 Fev, pela PORT.537/83.29.03.1983.MFP,\
+    \ DR.IS [105] de 07.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/537-1983-450861
+  date: '1983-03-29'
+- type: amended_by
+  target: pt:dre:452024:por
+  label: "Alterado o quadro de pessoal de enfermagem pela PORT.678/83.06.05.1983.MFP, DR.IS [137] de 17.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-1983-452024
+  date: '1983-05-06'
+- type: amended_by
+  target: pt:dre:387124:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal operário e técnico, o quadro de pessoal aprovado\
+    \ pelo presente diploma, pela PORT.384/84.18.06.1984.PCM, DR.IS [140] de 18.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-1984-387124
+  date: '1984-06-18'
+- type: amended_by
+  target: pt:dre:396361:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar dos serviços complementares de diagnóstico e terapêutica,\
+    \ o quadro de pessoal aprovado pelo presente diploma, pela PORT.950/84.22.12.1984.PCM, DR.IS [295] de 22.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-1984-396361
+  date: '1984-12-22'
+- type: amended_by
+  target: pt:dre:180631:por
+  label: "Alterado o quadro de pessoal pela PORT.572/85.10.08.1985.PCM, DR.IS [183] de 10.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1985-180631
+  date: '1985-08-10'
+- type: amended_by
+  target: pt:dre:176988:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.729/85.27.09.1985.PCM, DR.IS [223] de 27.09.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/729-1985-176988
+  date: '1985-09-27'
+- type: amended_by
+  target: pt:dre:666500:por
+  label: "Alterado o quadro de pessoal pelo presente diploma, pela PORT.223/87.1987.03.26.MF DR.IS [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1987-666500
+  date: '1987-03-26'
+- type: amended_by
+  target: pt:dre:499574:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma e alterado nas Port. 142/82, de 01-Fev, Port. 537/83,\
+    \ de 07-Maio, Port. 678/83, de 17-Jun, Port. 384/84, de 18-Jun, Port. 950/84, de 22-Dez, Port. 572/85, de 10-Ago, e na\
+    \ Port. 729/85, de 27-Set., pela PORT.962/87.29.12.1987.MF, DR.IS [298] de 29.12.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/962-1987-499574
+  date: '1987-12-29'
+- type: amended_by
+  target: pt:dre:612981:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.159/89.02.03.1989.MF, DR.IS [51] de 02.03.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/159-1989-612981
+  date: '1989-03-02'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:11Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +172,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Braga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21400/27272729.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21400/27272729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21400/27272729.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00 para falhas.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/7/2008/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2008-247441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50d8cceeb93e31e343e34294f2878eb248c4f41404f86797e1ebe7ff5207f525
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dcfe6ed4a35ab0767f9c46de67f35de72c4f5c2a18dff800369218a2883cad4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
 subjects:
 - Acesso à Informação
 - Alvará
-- Publicidade
-- Modernização Administrativa
-- Multa
 - Comunicação Social
-- ERC
 - Contra-ordenação
+- Direito à Informação
 - Emolumento
 - Empresa Noticiosa
+- ERC
 - Fiscalização
 - Imprensa
 - Informatização
 - Instituto Nacional da Propriedade Industrial
 - Lei de Imprensa
-- Direito à Informação
+- Modernização Administrativa
+- Multa
 - Operador de Radiodifusão
-- Radiodifusão
 - Operador de Televisão
 - Presunção
 - Publicação
+- Publicidade
+- Radiodifusão
 - Sanção
 - Televisão
 relationships:
@@ -94,6 +94,12 @@ relationships:
   target: pt:dre:602996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602996:por
+  label: "Alterado o art. 5º-A, na redacção do presente diploma, pelo DR.2/2009.27.01.2009.PCM, DR.IS [18] de 27.01.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2009-602996
+  date: '2009-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/10-bc/1999/06/30/p/dre
   label: null
@@ -106,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2005/11/08/p/dre
+- type: cites
+  target: pt:dre:167062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583192:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:09Z'
   warnings: []
   errors: []
 ---
@@ -166,12 +184,12 @@ O presente decreto regulamentar entra em vigor no 15.º dia após a sua publica�
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Augusto Ernesto Santos Silva.
 
-**Promulgado em 8 de Fevereiro de 2008.**
+Promulgado em 8 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Fevereiro de 2008.**
+Referendado em 12 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

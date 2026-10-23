@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/487-1983-311464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e29b40ff14889c9224509b9ee02e9d6f0a50d43d3af7fb67dbf04881d15a8e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c50bfd08e804e46a9e2636c58a63004f3f79dbc141da8f938ec7bc2d49e5b54e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Caixa de Previdência
+- Caixa de Previdência dos Advogados e Solicitadores
+- Previdência Social
+- Regulamento
+- Solicitador
 relationships:
 - type: amended_by
   target: pt:dre:67626867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:370258:por
+  label: "Alterados os artigos 41.º e 45.º e revogado o artigo 48.º do Regulamento, pela PORT.623/88.08.09.1988.MJ, DR.IS\
+    \ [208] de 08.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1988-370258
+  date: '1988-09-08'
+- type: amended_by
+  target: pt:dre:2979763:por
+  label: "Alterado o artigo 72.º do Regulamento, pelo DC.DDC116.27.06.1991.MJ, DR.IIS [145] de 27.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/1991-2979763
+  date: '1991-06-27'
+- type: amended_by
+  target: pt:dre:600136:por
+  label: "Alterados os artigos 4.º, 5.º, 7.º, 10.º, 11.º, 13.º, 14.º, 15.º, 16.º, 17.º, 35.º, 59.º, 60.º, 61.º, 72.º, 73.º,\
+    \ 91.º, 92.º, 109.º, 110.º, aditados os artigos 5.º-A, 115.º-A, 115.º-B, 115.º-C, 115.º-D e 115.º-E, revogado o n.º 3\
+    \ do artigo 17.º e os artigos 19.º, 20.º, 21.º, 22.º, 28.º, 37.º, 38.º, 39.º e 40.º, pela PORT.884/94.01.10.1994.MJ, DR.IS-B\
+    \ [228] de 01.10.1994\094\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1994-600136
+  date: '1994-10-01'
+- type: amended_by
+  target: pt:dre:1594732:por
+  label: "Alterado o nº 1 do art 86º pelo DESP.22665/2007.28.09.2007.MJ, [] de 28.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/22665-2007-1594732
+  date: '2007-09-28'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682234:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:316329:por
+  label: Rectificado o artigo 116.º (Onde se lê "Artigo 116.º - Legislação revogada..." deve passar a ler-se "Artigo 116.º
+    - Entrada em vigor...), pela DECL.DD5790.08.06.1983.PCM, DR.IS [148]2ºSupl de 30.06.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-316329
+  date: '1983-06-08'
+- type: repealed_by
+  target: pt:dre:67626867:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma, na redação da Port. 623/88 de 08-set, da Port. 884/94 de 01-out
+    e do Desp 22665/2007 de 28-set, pelo(a) Decreto-Lei n.º 119/2015 - Diário da República n.º 124/2015, Série I de 2015-06-29
+    nos termos do disposto nos n.ºs 3 e 4 do art. 3.º do diploma preambular deste e nos arts. 101.º e segs do novo Regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2015-67626867
+  date: '2015-06-29'
 article_structure:
   article_count: 117
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:29Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +181,9 @@ Manda o Governo da República Portuguesa, pelos Ministros da Justiça e dos Assu
 
 Ministérios da Justiça e dos Assuntos Sociais.
 
-**Assinada em 14 de Abril de 1983.**
+Assinada em 14 de Abril de 1983.
 
-**O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa.**
+O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa.
 
 REGULAMENTO DA CAIXA DE PREVIDÊNCIA DOS ADVOGADOS E SOLICITADORES
 
@@ -1092,7 +1175,7 @@ Pensões de reforma antecipada
 
 Pensões de reforma a atribuir aos beneficiários com 36 anos de inscrição, pelo menos, e mais de 60 anos de idade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
 
 TABELA n.º 2
 
@@ -1102,7 +1185,7 @@ Pensões complementares de reforma
 
 Quotas mensais a pagar pelo beneficiário até à idade de 70 anos para assegurar o direito a uma pensão complementar de reforma de 100$00 mensais, a partir daquela idade:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
 
 TABELA n.º 3
 
@@ -1114,7 +1197,7 @@ Subsídios complementares por morte
 
 Quotas mensais a pagar pelo beneficiário até à idade de 70 anos para assegurar o direito a um subsídio complementar por morte, relativamente a cada escalão de 10000$00:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
 
 TABELA n.º 4
 
@@ -1126,7 +1209,7 @@ Subsídios complementares por morte
 
 Quotas mensais a pagar pelo beneficiário enquanto vivo para assegurar o direito a um subsídio complementar por morte, por cada escalão de 10000$00:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
 
 TABELA n.º 5
 
@@ -1136,4 +1219,4 @@ Reformas adicionais por limite de idade
 
 Pensão anual concedida, sem encargo para o beneficiário, aos 70 anos de idade ou, depois desta idade, a seu requerimento, resultante da capitalização vitalícia da quota referida no artigo 92.º, alínea d) dos n.os 1 e 2, quando exceda 2200$00 (por escalões de 100$00), e paga no ano em que o beneficiário completa a idade de (x):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/14741489.pdf)

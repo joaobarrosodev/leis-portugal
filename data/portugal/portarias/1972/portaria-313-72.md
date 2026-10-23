@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1972-681982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 274d83a12f46ee0ecc3b7bd0ee60aaae1af3697a76a876509ea792087bcf08fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3db59e0dd5adf82184ce3e401c012e60e329680de24c99ce8ab016ce92c7e1f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: pt:dre:674845:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:200838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432635:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:30Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +108,4 @@ Nestes termos, ao abrigo do disposto no artigo 17.º do Regulamento de Assistên
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que no mapa anexo à [Portaria n.º 24086](https://diariodarepublica.pt/dr/detalhe/portaria/24086-1969-200838), de 23 de Maio de 1969, seja incluída, na área da Capitania do Porto da Nazaré, a praia velha de S. Pedro de Muel, que fica obrigada ao serviço de vigilância e dispensada do serviço de enfermagem.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

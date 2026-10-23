@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/19100/71117115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2006/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2006-541800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19b86ceaeae9d781f1bacff1974908800d6d99ffbaf61dda82112572c7e0b31a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae1e60bcb12eea3383c8e997b4af2850ef7b0a334d69ee4636120906f0e8a74b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,28 +69,45 @@ reuse:
 subjects:
 - Assistência Medicamentosa
 - Avaliação Económica de Medicamentos
+- Comércio
+- Definição de Competências
+- Estabelecimento Hospitalar
 - Indústria Farmacêutica
 - Infarmed
-- Definição de Competências
-- Serviço Nacional de Saúde
 - Regime Jurídico
-- Estabelecimento Hospitalar
-- Comércio
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:108113700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227779:por
+  label: "Alterados os arts. 1º, 4º, 5º, 6º, 8º e 11º e remetidas para \"INFARMED, I.P.\" as referências feitas neste diploma\
+    \ a \"INFARMED\" pelo DEC LEI.48-A/2010.13.05.2010.MS, DR.IS [93-Supl] de 13.05.2010, que o republicou em anexo II, na\
+    \ sua actual redacção\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-a-2010-227779
+  date: '2010-05-13'
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67356991:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma na redação do Dec Lei 48-A/2010 de 13-mai, pelo(a) Decreto-Lei
+    n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2015-67356991
+  date: '2015-06-01'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:26Z'
   warnings: []
   errors: []
 ---
@@ -291,15 +308,15 @@ O presente decreto-lei entra em vigor 30 dias após a publicação do regulament
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 18 de Setembro de 2006.**
+Promulgado em 18 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 20 de Setembro de 2006.**
+Referendado em 20 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Critérios de avaliação
 

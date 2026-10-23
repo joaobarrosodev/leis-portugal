@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11800/0312003125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2017/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2017-107541407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92d43b0bc815ef681b7a27be0c73767ab3377d7a60175ef8e2bc7d08072ac887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6447fec45ac711d534e95aeb430a6cd91dda92ef3bb4ddd244eb29ef0c0dce95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Instituto dos Registos e do Notariado
 - Conservatória dos Registos Centrais
+- Identificação Civil
+- Instituto dos Registos e do Notariado
+- Nacionalidade
 - Naturalização
 - Receita Própria
 - Regulamento
-- Identificação Civil
 relationships:
 - type: amended_by
   target: pt:dre:180657814:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:237-A/2006
+  label: Altera, a partir de 03.07.2017, e nos termos do art. 4.º, os arts. 19.º, 21.º, 23.º, 24.º, 24.º-A (este último na
+    redação do Dec Lei 30-A/2015, de 27-fev), 25.º (na redação do Dec Lei 43/2013, de 01-abr), 27.º, 28.º, 32.º, 37.º, 41.º,
+    42.º, 44.º, 56.º, 57.º, 60.º a 62.º e 70.º, adita o art. 10.º-A e revoga o art. 22.º do Regulamento da Nacionalidade Portuguesa,
+    aprovado em anexo ao Decreto-Lei n.º 237-A/2006, de 14-dez DR.IS [239]1.º Supl
+  source: null
+  date: '2006-12-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/237-a/2006/12/14/p/dre
   label: null
@@ -102,15 +110,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/leiorg/9/2015/07/29/p/dre
 article_structure:
-  article_count: 24
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:12Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +191,9 @@ e) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +207,9 @@ c) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +223,9 @@ d) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 2 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +243,9 @@ c) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 5 - ...
 
-###### Artigo 24.º-A — [...]
+Artigo 24.º-A
+
+[...]
 
 1 - ...
 
@@ -249,7 +265,9 @@ c) Não constituam perigo ou ameaça para a segurança ou a defesa nacional, pel
 
 6 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +293,9 @@ a) Mediante transmissão de informação pelo Serviço de Estrangeiros e Frontei
 
 b) Mediante a apresentação de documentos que comprovem o preenchimento das condições do direito de residência estabelecidas nos artigos 7.º e 9.º da [Lei n.º 37/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/538604/details/normal?l=1), de 9 de agosto, ou do direito de residência permanente estabelecidas nos artigos 10.º e 11.º da mesma lei.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -313,11 +333,15 @@ b) Quando não seja acompanhado dos documentos necessários para comprovar os fa
 
 16 - As notificações referidas no número anterior não deixam de produzir efeito pelo facto de o expediente ser devolvido, desde que a remessa tenha sido feita para o domicílio escolhido pelo interessado; nesse caso, ou no de a carta não ter sido entregue por ausência do destinatário, juntar-se-á ao procedimento o sobrescrito, presumindo-se a notificação feita no dia a que se refere a parte final do número anterior.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 O membro do Governo responsável pela área da justiça pode delegar no presidente do conselho diretivo do Instituto dos Registos e do Notariado, I. P., com a faculdade de subdelegação, as competências que lhe são atribuídas no âmbito da aquisição da nacionalidade portuguesa por naturalização, nos termos dos artigos 19.º a 21.º
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -337,7 +361,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -359,7 +385,9 @@ c) ...
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +405,9 @@ c) ...
 
 8 - As notificações referidas no número anterior não deixam de produzir efeito pelo facto de o expediente ser devolvido, desde que a remessa tenha sido feita para o domicílio escolhido pelo interessado; nesse caso, ou no de a carta não ter sido entregue por ausência do destinatário, juntar-se-á ao procedimento o sobrescrito, presumindo-se a notificação feita no dia a que se refere a parte final do número anterior.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Sempre que tenha sido requerida a atribuição, aquisição ou perda da nacionalidade, o conservador determina as diligências que considere necessárias para proferir a decisão.
 
@@ -395,13 +425,17 @@ c) ...
 
 8 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
 2 - Aos emolumentos previstos no número anterior acrescem as despesas previstas no n.º 10 do artigo 37.º
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O Ministério Público deduz nos tribunais administrativos a ação judicial para efeito de oposição à aquisição da nacionalidade, por efeito da vontade ou por adoção, no prazo de um ano a contar da data do facto de que depende a aquisição da nacionalidade.
 
@@ -431,7 +465,9 @@ e) Resida legalmente no território português nos cinco anos imediatamente ante
 
 5 - A residência legal no território português e o conhecimento da língua portuguesa são comprovados nos termos do artigo 25.º
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -455,21 +491,29 @@ b) ...
 
 9 - O Ministério Público deve deduzir oposição nos tribunais administrativos quando receba a participação prevista no número anterior.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 Em tudo o que não se achar regulado nos artigos anteriores, a oposição segue os termos da ação administrativa prevista no Código de Processo nos Tribunais Administrativos.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Tem legitimidade para reagir contenciosamente contra os atos e omissões praticadas no âmbito dos procedimentos de atribuição, aquisição ou perda da nacionalidade, no prazo de um ano, quem alegue ser titular de um interesse direto e pessoal e o Ministério Público, exceto no que respeita à reação contenciosa contra o indeferimento liminar.
 
 2 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 Sem prejuízo do disposto no artigo anterior, a reação contenciosa contra quaisquer atos relativos à atribuição, aquisição ou perda da nacionalidade portuguesa segue os termos da ação administrativa, regulada no Código de Processo nos Tribunais Administrativos.
 
-###### Artigo 70.º — Eliminação da menção da nacionalidade estrangeira dos progenitores ou sua omissão no registo de nascimento
+Artigo 70.º
+
+Eliminação da menção da nacionalidade estrangeira dos progenitores ou sua omissão no registo de nascimento
 
 1 - ...
 
@@ -551,12 +595,12 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 20 de abril de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Tiago Brandão Rodrigues.
 
-**Promulgado em 10 de junho de 2017, no Porto.**
+Promulgado em 10 de junho de 2017, no Porto.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de junho de 2017, no Porto.**
+Referendado em 10 de junho de 2017, no Porto.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

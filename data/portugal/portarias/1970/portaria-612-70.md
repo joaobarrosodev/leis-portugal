@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/12/27900/18171819.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/612-1970-146906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b761503bc4e1ee4ba3f7d5006532e29bcaad4711755c953087d6118c2e1d1d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a511c65ef026f920498274285eed3b057c9da1306ebf6976b1bb1b69add5c500
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:299647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643561:por
+  label: "Dada nova redacção à al. m) do mapa n.º 3 a que se refere o parágrafo único do art. 146.º do Estatuto aprovado pelo\
+    \ Decreto 46960, de 14-Abr 1966, alterado pelo presente diploma, pela Port.344/71.28.06.1971.MM, DR.IS [150] de 28.06.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1971-643561
+  date: '1971-06-28'
+- type: amended_by
+  target: pt:dre:631791:por
+  label: "Alterado o mapa n.º 3 a que se refere o parágrafo único do art. 146.º do Estatuto aprovado pelo Decreto 46960, de\
+    \ 14-Abr 1966, na redacção do presente diploma, pela Port.642/71.24.11.1971.MM, DR.IS [276] de 24.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1971-631791
+  date: '1971-11-24'
+- type: amended_by
+  target: pt:dre:299647:por
+  label: Alterada a al. d) do art. 146.º e as notas do mapa n.º3 a que se refere o § único do mesmo artigo, e revogadas as
+    notas ao mapa mencionado no n.º 2.º do Dec 46960, de 14-abr de 1966, alterado pela presente e pela Port 244/75, de 15-abr,
+    pelo(a) Portaria n.º 442/78 - Diário da República n.º 180/1978, Série I de 1978-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1978-299647
+  date: '1978-08-07'
+- type: cites
+  target: pt:dre:148460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:691388:por
+  label: "Revogada pela PORT.546/72.21.09.1972.MM, DG.IS [221] de 21.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-1972-691388
+  date: '1972-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:09Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +139,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º Os artigos 131.º, 132.º e 151.º do Estatuto do Oficial da Armada passam a ter a seguinte redacção:
 
-###### Art. 131.º A promoção por diuturnidade tem lugar:
+Art. 131.º A promoção por diuturnidade tem lugar:
 
 a) Na promoção a segundo-tenente dos guardas-marinhas e subtenentes das classes de marinha, engenheiros maquinistas navais, administração naval, serviço geral e serviço especial, quando completem um ano de permanência nestes postos;
 
@@ -113,7 +149,7 @@ c) Na promoção a primeiro-tenente dos segundos-tenentes engenheiros construtor
 
 § único. A promoção por diuturnidade é da competência do Ministro da Marinha.
 
-###### Art. 132.º A promoção por antiguidade tem lugar na promoção aos seguintes postos:
+Art. 132.º A promoção por antiguidade tem lugar na promoção aos seguintes postos:
 
 a) Capitão-de-fragata das classes de marinha, engenheiros construtores navais, médicos navais, engenheiros maquinistas navais, administração naval, engenheiros de material naval e fuzileiros;
 
@@ -123,7 +159,7 @@ b) Primeiro-tenente das classes do serviço geral e serviço especial.
 
 ...
 
-###### Art. 151.º O tempo de embarque e o tempo de navegação para a promoção aos postos de primeiro-tenente e de capitão-tenente podem ser dispensados ou reduzidos de metade nas condições seguintes:
+Art. 151.º O tempo de embarque e o tempo de navegação para a promoção aos postos de primeiro-tenente e de capitão-tenente podem ser dispensados ou reduzidos de metade nas condições seguintes:
 
 a) Aos primeiros-tenentes e segundos-tenentes que prestem ou tenham prestado serviço em unidades de fuzileiros ou de mergulhadores-sapadores ou como instrutores de cursos de fuzileiros especiais o tempo de embarque pode ser substituído, até metade, por tempo de serviço naquelas unidades ou como instrutores dos referidos cursos;
 
@@ -135,7 +171,7 @@ c) Aos segundos-tenentes que frequentem cursos para ingresso nas classes de enge
 
 2.º É substituído pelo mapa anexo a esta portaria o mapa a que se refere o § único do artigo 146.º do Estatuto do Oficial da Armada.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 MAPA N.º 3
 
@@ -143,7 +179,7 @@ MAPA N.º 3
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/12/27900/18171819.pdf))](https://files.diariodarepublica.pt/1s/1970/12/27900/18171819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/12/27900/18171819.pdf)
 
 Notas
 
@@ -151,4 +187,4 @@ Notas
 
 (2) Para os actuais primeiros-tenentes mantêm-se o tempo de embarque e horas de navegação que eram exigidos até agora, com as reduções autorizadas.
 
-**O Ministro da Marinha, Manuel Pereira Crespo**
+O Ministro da Marinha, Manuel Pereira Crespo

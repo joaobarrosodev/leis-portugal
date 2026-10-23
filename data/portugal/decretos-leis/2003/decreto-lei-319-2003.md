@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/2003/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2003-423401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74c8f9f0a5a182e7dcde40ee512db4ba8ff2b7d0c2c5e50b2311e179632c44b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19a9b28e4968898666a9cefefc841d46a2334f1e8b4aa29ceaaf82f39f4efbb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/25/2001/04/03/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/25/2001/04/03/p/dre
+- type: cites
+  target: pt:dre:234901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346299:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:14Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +170,12 @@ A fim de promover e acelerar os seus trabalhos, o ITN funcionará como ponto de 
 
 Visto e aprovado em Conselho de Ministros de 6 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria da Graça Martins da Silva Carvalho.
 
-**Promulgado em 5 de Dezembro de 2003.**
+Promulgado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

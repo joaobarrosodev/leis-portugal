@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17000/0585005852.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/2009/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2009-489527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e2d3f26bc984b7715bf6250341ebb5cdd620b2ae376c6ecfac12f7d66239959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 135f509ec59bb9b81ca7123726c64b9dbbbe10b4b9d123c4cb5b89f6b12e9e82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Director Adjunto
-- Ministério da Educação
 - Diretor
 - Inspecção Geral da Educação
 - Inspetor Geral
+- Ministério da Educação
 - Orgânica
 - Subinspector Geral
 relationships:
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Educação, e determinada a transição para o Ministério da Educação e Ciência dos serviços,\
+    \ organismos e estruturas identificados no Dec lei 213/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 19º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -118,16 +125,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79/2005/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/2005/04/15/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639315:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145195:por
+  label: "Revogado, a partir de 03.01.2012., o Dec Lei 213/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.125/2011.29.12.2011.MECI,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:33Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +259,9 @@ Os artigos 10.º e 15.º do [Decreto-Lei n.º 213/2006](https://diariodarepublic
 
 3 - A IGE é dirigida por um inspector-geral, coadjuvado por um subinspector-geral.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -196,12 +271,12 @@ Os artigos 10.º e 15.º do [Decreto-Lei n.º 213/2006](https://diariodarepublic
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 21 de Agosto de 2009.**
+Promulgado em 21 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de Agosto de 2009.**
+Referendado em 24 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

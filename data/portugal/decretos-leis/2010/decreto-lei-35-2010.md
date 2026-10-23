@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/07300/0131401315.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2010/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2010-613677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70fe4781cbbe7dfb8863eb494ec659615fb35b7c1fa16b7f866d4c5da71a076e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9055a7daf9ef4215312572aba86fd5a7112bf313669a9ed16b07af73fa9a29d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
 - Código do Processo Civil
 - Férias Judiciais
 - Prazo Processual
+- Processo Civil
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
@@ -114,16 +114,254 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/1996/02/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/1996/02/29/p/dre
+- type: cites
+  target: pt:dre:140330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344381:por
+  label: "Revogado, a partir de 20.04.2010, [com efeitos retroactivos à data da sua entrada em vigor e com ressalva dos efeitos\
+    \ já produzidos], pela LEI.43/2010.03.09.2010.AR, DR.IS [172] de 03.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/43-2010-344381
+  date: '2010-09-03'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:55Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +416,9 @@ c) Durante o período compreendido entre 15 e 31 de Julho.
 
 4 - ...
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - O prazo processual, estabelecido por lei ou fixado por despacho do juiz, é contínuo, suspendendo-se, no entanto, durante os períodos previstos nas alíneas b) e c) do n.º 1 do artigo anterior.
 
@@ -200,12 +440,12 @@ Ao período compreendido entre 15 e 31 de Julho atribui-se os mesmos efeitos pre
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 1 de Abril de 2010.**
+Promulgado em 1 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Abril de 2010.**
+Referendado em 5 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

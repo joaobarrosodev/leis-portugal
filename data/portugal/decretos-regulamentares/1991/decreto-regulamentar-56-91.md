@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/56/1991/10/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59870506954c3fd28ca7c2b3f1046e68827cf293af8d20660dd9b60681b5aaaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ea63c4ef22aca2c67cb5d7c353d4b5c9373e0ed1689004003bc544ec696bb65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,94 @@ relationships:
   target: pt:dre:540214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282093:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.801/92.18.08.1992.MF, DR.IS-B\
+    \ [189] de 18.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/801-1992-282093
+  date: '1992-08-18'
+- type: amended_by
+  target: pt:dre:215739:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.1046/92.09.11.1992.MF, DR.IS-B\
+    \ [259] de 09.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1992-215739
+  date: '1992-11-09'
+- type: amended_by
+  target: pt:dre:668334:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo presente diploma, pela PORT.1018/93.13.10.1993.MF, DR.IS-B\
+    \ [240] de 13.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1018-1993-668334
+  date: '1993-10-13'
+- type: amended_by
+  target: pt:dre:668343:por
+  label: "Alterado o quadro de pessoal pelo DN.330/93.13.10.1993.MF, DR.IS-B [240] de 13.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/330-1993-668343
+  date: '1993-10-13'
+- type: amended_by
+  target: pt:dre:668317:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.1026/93.14.10.1993.MF, DR.IS-B\
+    \ [241] de 14.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1026-1993-668317
+  date: '1993-10-14'
+- type: amended_by
+  target: pt:dre:225456:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pelo DN.600/94.12.08.1994.MF, DR.IS-B\
+    \ [186] de 12.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/600-1994-225456
+  date: '1994-08-12'
+- type: amended_by
+  target: pt:dre:609285:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.874/94.29.09.1994.MF, DR.IS-B\
+    \ [226] de 29.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/874-1994-609285
+  date: '1994-09-29'
+- type: amended_by
+  target: pt:dre:625060:por
+  label: "Alterado o quadro de pessoal, constante do mapa I anexo ao presente diploma, pela PORT.963/94.27.10.1994.MF, DR.IS-B\
+    \ [249] de 27.10.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/963-1994-625060
+  date: '1994-10-27'
+- type: amended_by
+  target: pt:dre:179546:por
+  label: "Alterado o quadro de pessoal constante do mapa I pela PORT.618/96.1996.10.31.PCM, DR.IS [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-1996-179546
+  date: '1996-10-31'
+- type: amended_by
+  target: pt:dre:1546152:por
+  label: "Alterado o quadro de pessoal aprovado em anexo I, pela PORT.440/97(2ªSÉRIE).1997.07.03.PCM, MF, MECO DR.IIS [164]\
+    \ de 1997.07.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-1997-1546152
+  date: '1997-07-03'
+- type: amended_by
+  target: pt:dre:2045979:por
+  label: "Alterado o quadro de pessoal constante do mapa Ianexo ao presente diploma, pela PORT.588/99(2ªSÉRIE).1999.05.19.PCM,\
+    \ DR.IIS [132] de 08/Jun/1999\01999\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/588-1999-2045979
+  date: '1999-05-19'
+- type: amended_by
+  target: pt:dre:1560050:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo ao presente diploma, pela PORT.1170/99(2ªSÉRIE).1999.10.09.PCM,\
+    \ DR.IIS [256] de 03/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1170-1999-1560050
+  date: '1999-10-09'
+- type: amended_by
+  target: pt:dre:2939689:por
+  label: "Alterado o quadro de pessoal constante do mapa anexo I, pela PORT.764/2000(2ªSÉRIE).2000.03.31.MF, DR.IIS [110]\
+    \ de 12/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-2000-2939689
+  date: '2000-03-31'
+- type: amended_by
+  target: pt:dre:1509260:por
+  label: "Alterado o quadro de pessoal constante do mapa I anexo pela PORT.1253/2000(2ªSÉRIE).2000.07.14.MECO, DR.IIS [195]\
+    \ de 24/Ago/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1253-2000-1509260
+  date: '2000-07-14'
+- type: amended_by
+  target: pt:dre:1308259:por
+  label: "Alterado o quadro de pessoal constantes do mapa I anexo pela PORT.1151/2000(2ªSÉRIE).2000.07.25.MECO DR.IIS [181]\
+    \ DE 07/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-2000-1308259
+  date: '2000-07-25'
 - type: cites
   target: celex:31983L0189
   label: null
@@ -81,16 +169,23 @@ relationships:
   target: celex:31984L0189
   label: null
   source: http://data.europa.eu/eli/dir/1984/189/oj
+- type: repealed_by
+  target: pt:dre:362686:por
+  label: "Revogado o presente diploma e suas alterações, sem prejuízo da aplicação do disposto em relação á manutenção do\
+    \ quadro de pessoal deste diploma,como referido no art 2º desse Estatuto pelo.DEC LEI.113/2001.2001.04.07.MECO,DR.IS-A\
+    \ (83)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2001-362686
+  date: '2001-04-07'
 article_structure:
   article_count: 28
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:26Z'
   warnings: []
   errors: []
 ---
@@ -393,7 +488,9 @@ a) A Divisão de Apoio Técnico;
 
 b) A Repartição Administrativa.
 
-###### Artigo 13.º — Divisão de Apoio Técnico
+###### Artigo 13.º
+
+##### Divisão de Apoio Técnico
 
 À Divisão de Apoio Técnico incumbe:
 
@@ -571,21 +668,21 @@ Presidência do Conselho de Ministros, 29 de Julho de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 22.º
 
 Quadro de pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/236b00/53225330.pdf))](https://files.diariodarepublica.pt/1s/1991/10/236b00/53225330.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/236b00/53225330.pdf)
 
 Mapa anexo II a que se refere o n.º 3 do artigo 25.º do presente diploma
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 128/1999, 1º Suplemento, Série I-A de 1999-06-02
   number: '128'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3132-(2) a 3132-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/128a01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189-b/1999/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-b-1999-294573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e0caef0ed7c03ba61feb1c63332ffa54c97328b264c685349d816248e652621
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c65e506542a5d134d679dd76005ae175a9af990872b0b6146c3ec9009489c196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ponte 25 de Abril
 - Contrato de Concessão
-- Transporte Ferroviário
 - Fertagus
+- Ponte 25 de Abril
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:546625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3637868:por
+  label: "Constituído aditamento pelo DC.630/2004.30.09.2004.MFAP, DR.IIS [251] de 25.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/630-2004-3637868
+  date: '2004-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/274/1998/09/05/p/dre
   label: null
@@ -84,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/565-a/1997/07/28/p/dre
+- type: cites
+  target: pt:dre:270222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546625:por
+  label: "Revogado pelo DEC LEI.78/2005.13.04.2005.MOPTC, DR.IS-A [72] de 13.04.2005, a partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-2005-546625
+  date: '2005-04-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:30Z'
   warnings: []
   errors: []
 ---
@@ -146,19 +164,21 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho.
 
-**Promulgado em 28 de Maio de 1999.**
+Promulgado em 28 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Junho de 1999.**
+Referendado em 1 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Bases da concessão do Eixo Ferroviário Norte-Sul
 
-###### Base I — Objecto
+Base I
+
+Objecto
 
 1 - A concessão tem por objecto a exploração do serviço de transporte ferroviário suburbano de passageiros no Eixo Ferroviário Norte-Sul, entre as estações de Roma-Areeiro, Entrecampos, Sete Rios, Campolide, Alvito, Pragal, Corroios, Foros de Amora e Fogueteiro.
 
@@ -168,21 +188,29 @@ Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manu
 
 4 - Ao objecto definido nos números anteriores acresce acessoriamente a concessão da exploração das estações, interfaces, silos e parques de estacionamento da margem sul (Pragal, Corroios, Foros de Amora e Fogueteiro), assim como das áreas comerciais incluídas nessas estações e interfaces, nos termos do contrato de concessão de exploração de estações, interfaces, parques e silos de estacionamento automóvel das estações da margem sul.
 
-###### Base II — Prazo
+Base II
+
+Prazo
 
 1 - O prazo da concessão é de 30 anos a contar da data de início efectivo da exploração, sendo prorrogável por um período não superior a 15 anos.
 
 2 - A data de início efectivo da exploração é fixada no contrato de concessão.
 
-###### Base III — Obrigações gerais
+Base III
+
+Obrigações gerais
 
 O concessionário é obrigado a realizar a exploração do serviço concessionado, incluindo as futuras extensões, oferecendo uma capacidade de transporte adequada aos níveis da procura e garantindo condições de qualidade, comodidade, rapidez e segurança, tudo sempre com respeito pelos limites de capacidade da infra-estrutura.
 
-###### Base IV — Serviços mínimos
+Base IV
+
+Serviços mínimos
 
 O concessionário obriga-se a cumprir as frequências mínimas de serviços fixados no contrato de concessão.
 
-###### Base V — Regime do risco
+Base V
+
+Regime do risco
 
 1 - O concessionário é responsável, de uma forma geral, pelos riscos inerentes à realização do objecto da concessão, seja de que natureza forem, incluindo o risco da exploração do sistema de transporte concessionado.
 
@@ -190,7 +218,9 @@ O concessionário obriga-se a cumprir as frequências mínimas de serviços fixa
 
 3 - O risco do concessionário inerente aos volumes de tráfego é delimitado por um sistema de bandas de tráfego.
 
-###### Base VI — Taxas
+Base VI
+
+Taxas
 
 1 - O concessionário deverá pagar à Rede Ferroviária Nacional - REFER, E. P., as seguintes taxas:
 
@@ -202,7 +232,9 @@ c) Taxa de utilização, como contrapartida pela gestão e disponibilização da
 
 2 - Os modos de cálculo e pagamento das taxas acima referidas, bem como os processos para as suas reduções, aumentos e actualizações, constam do contrato de concessão e dos seus anexos.
 
-###### Base VII — Tarifário
+Base VII
+
+Tarifário
 
 1 - O tarifário em vigor para o período entre a data do início efectivo da exploração e 31 de Dezembro de 1999 é fixado em anexo ao contrato de concessão.
 
@@ -220,7 +252,9 @@ IPC(índice t - 1) = último índice de preços no consumidor disponível;
 
 IPC(índice t - 2) = índice de preços no consumidor referente ao mês homólogo do ano anterior.
 
-###### Base VIII — Exclusividade
+Base VIII
+
+Exclusividade
 
 1 - A exploração do serviço de transporte, na extensão do percurso cujos limites de configuração física são a estação do Oriente e o Fogueteiro, cabe em exclusivo ao concessionário. Esta exclusividade aplicar-se-á, nas mesmas condições, à extensão ao troço Fogueteiro-Praias do Sado (via Setúbal).
 
@@ -242,21 +276,29 @@ IPC(índice t - 2) = índice de preços no consumidor referente ao mês homólog
 
 10 - É garantido ao concessionário que os outros operadores ferroviários a quem seja reconhecida a possibilidade de utilização e passagem na infra-estrutura compreendida no percurso exclusivo do concessionário não poderão explorar comercialmente, sob qualquer forma, as ligações ferroviárias entre qualquer ponto no troço estação do Oriente-Campolide e qualquer ponto no troço Pragal-Fogueteiro ou Pragal-Praias do Sado (via Setúbal), bem como nas ligações ferroviárias internas ao troço Pragal-Fogueteiro ou Pragal-Praias do Sado (via Setúbal).
 
-###### Base IX — Estabelecimento
+Base IX
+
+Estabelecimento
 
 O estabelecimento da concessão compreende a universalidade dos bens e direitos afectos à concessão, incluindo o material circulante e os demais bens móveis, designadamente máquinas, equipamentos, aparelhagens e acessórios directamente utilizados na produção, exploração e manutenção do serviço concessionado, assim como os imóveis necessários à produção, exploração e manutenção do serviço concessionado, com quaisquer benfeitorias que neles venham a ser executadas, e também as relações e posições jurídicas directamente relacionadas com a concessão, nomeadamente as laborais, e as decorrentes de contratos ou acordos definidos no contrato de concessão, como, por exemplo, os direitos de utilização da infra-estrutura, de ocupação do complexo ferroviário de Coina e de exploração ou de gestão de outras áreas e imóveis. Presumir-se-á que quaisquer bens e activos incorpóreos existentes no activo do concessionário integram o estabelecimento da concessão, salvo cabal demonstração em contrário.
 
-###### Base X — Fiscalização
+Base X
+
+Fiscalização
 
 Compete ao Estado, através do Instituto Nacional do Transporte Ferroviário, fiscalizar a actividade do concessionário no que respeita ao cumprimento das obrigações da concessão e da legislação aplicável, em tudo o que respeite a matérias não abrangidas no âmbito das atribuições e competências de outras entidades.
 
-###### Base XI — Resgate
+Base XI
+
+Resgate
 
 1 - A concessão só poderá ser resgatada uma vez decorridos 15 anos sobre a data da celebração do contrato de concessão, sem prejuízo da aplicação, nos casos e termos previstos nesse contrato, do regime de resgate excepcional.
 
 2 - O concedente poderá decidir a requisição, suspensão, sequestro ou rescisão da concessão apenas nos casos previstos no contrato de concessão e com respeito pelos regimes e efeitos também consagrados no contrato para cada uma dessas situações.
 
-###### Base XII — Arbitragem e lei aplicável
+Base XII
+
+Arbitragem e lei aplicável
 
 1 - Todos os diferendos entre o concedente e o concessionário respeitantes à concessão que não sejam resolvidos por conciliação, nos termos do contrato de concessão, serão dirimidos por recurso a arbitragem.
 
@@ -266,7 +308,9 @@ Compete ao Estado, através do Instituto Nacional do Transporte Ferroviário, fi
 
 4 - Serão nulas as convenções entre o concessionário e outras entidades mediante as quais o concessionário afaste a competência do tribunal arbitral acima referido para dirimir conflitos de competência entre os tribunais ou instâncias previstos nos contratos e acordos anexos ao contrato de concessão.
 
-###### Base XIII — Organização do concessionário
+Base XIII
+
+Organização do concessionário
 
 1 - O objecto social do concessionário compreende obrigatoriamente as actividades inerentes ao exercício de concessão.
 

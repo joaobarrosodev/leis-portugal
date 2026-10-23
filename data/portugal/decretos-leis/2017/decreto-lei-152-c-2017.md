@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
   number: '236'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6584-(73) a 6584-(88)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152-c/2017/12/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-c-2017-114337041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b4218f2d37493b72b6a09c5195afd5d093f2f3f4e4bd15e2ccb29f3569073fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6951537952f1f677ed987e5816b62f6f5e1058e317a2ab2fe010b7463617b2dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,50 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
+- Açores
 - Aproximação das Legislações
-- Energia não Poluente
-- Energia Elétrica
-- Entidade Emissora de Garantias de Origem
-- Garantia de Origem
-- Imposto sobre Produtos Petrolíferos
+- ASAE
+- Combustível
 - Combustível de Substituição
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Definição de Competências
-- Poluição Atmosférica
+- Direção Geral de Energia e Geologia
+- Efeito de Estufa
+- Energia
+- Energia Elétrica
+- Energia não Poluente
 - Energia Renovável
-- Petróleo
-- Produto Petrolífero
+- Entidade Emissora de Garantias de Origem
+- Entidade Nacional para o Mercado de Combustíveis
 - Especificação Técnica
 - Estratégia Nacional para a Energia
-- Combustível
 - Fiscalização
-- Direção Geral de Energia e Geologia
-- Comissão CE
+- Garantia de Origem
 - Gás
 - Gás Propano
 - Gasóleo
 - Gasolina
 - Importação
-- ASAE
-- Laboratório Nacional de Energia e Geologia
-- Veículo
-- Entidade Nacional para o Mercado de Combustíveis
-- Proteção do Ambiente
-- Energia
-- Produção de Energia Elétrica
-- Produtor
-- Madeira.região Autónoma
+- Imposto sobre Produtos Petrolíferos
 - Indústria Transformadora
-- Açores
+- Laboratório Nacional de Energia e Geologia
+- Madeira.região Autónoma
+- Petróleo
+- Poluição Atmosférica
+- Produção de Energia Elétrica
+- Produto Petrolífero
+- Produtor
+- Proteção do Ambiente
 - Sistema Petrolífero Nacional
-- Comércio
 - Transporte
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Derrogada, durante o ano de 2018, a al. d) e mantida como meta de incorporação a prevista na al. c) ambas do art.
+    11.º do Dec Lei 117/2010 de 25-out, com a redação dada pelo presente, pelo(a) Lei n.º 114/2017 - Diário da República n.º
+    249/2017, Série I de 2017-12-29, sem prejuízo do cumprimento das metas e objetivos para 2020 a que Portugal se encontra
+    vinculado, nos termos do disposto no art. 211.º desta útlima lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: celex:31998L0070
   label: null
@@ -155,15 +163,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 31
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:08Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +266,9 @@ r) «Resíduo da transformação», uma substância que não é o produto ou pro
 
 s) «Resíduos da agricultura, aquicultura, pescas e silvicultura», resíduos diretamente gerados pela atividade agrícola, aquícola, piscícola e silvícola; não incluem os resíduos provenientes das indústrias conexas e da transformação.
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - A utilização do aditivo metálico tricarbonilo metilciclopentadienilo de manganês (MMT) nos combustíveis está limitada a 2 mg de manganês por litro desde 1 de janeiro de 2014.
 
@@ -272,7 +282,9 @@ s) «Resíduos da agricultura, aquicultura, pescas e silvicultura», resíduos d
 
 6 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -292,7 +304,9 @@ s) «Resíduos da agricultura, aquicultura, pescas e silvicultura», resíduos d
 
 9 - O disposto no número anterior aplica-se igualmente aos trabalhadores, devidamente identificados, das entidades que tenham sido contratadas pela entidade fiscalizadora especializada para o setor energético, para efetuar as recolhas de amostras mencionadas no número anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -306,7 +320,9 @@ d) Coordenar o sistema de controlo da qualidade dos combustíveis líquidos, exe
 
 e) [...].
 
-###### Artigo 14.º-A — [...]
+Artigo 14.º-A
+
+[...]
 
 1 - [...]:
 
@@ -354,7 +370,9 @@ b) À captura e utilização de carbono para fins de transporte.
 
 12 - A ECS envia posteriormente esta informação à DGEG que comunica esses dados à Comissão Europeia.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]:
 
@@ -382,7 +400,9 @@ k) A violação do poder de acesso previsto dos n.os 8 e 9 do artigo 14.º-A;
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas no artigo 13.º, 14.º e 14.º-A à DGEG, bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à entidade fiscalizadora especializada para o setor energético.
 
@@ -426,7 +446,9 @@ f) Define os limites de incorporação obrigatória de biocombustíveis para os 
 
 2 - [...].
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 1 - [...]:
 
@@ -480,7 +502,9 @@ x) «Valor por defeito», para efeitos do cálculo das emissões de GEE, corresp
 
 2 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -498,7 +522,9 @@ e) 60 % relativamente aos biocombustíveis e aos biolíquidos produzidos em inst
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -508,7 +534,9 @@ e) 60 % relativamente aos biocombustíveis e aos biolíquidos produzidos em inst
 
 4 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -532,7 +560,9 @@ b) Essas culturas tenham sido feitas em terrenos abrangidos pelo n.º 8 da parte
 
 9 - (Anterior n.º 4.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -548,7 +578,9 @@ b) Essas culturas tenham sido feitas em terrenos abrangidos pelo n.º 8 da parte
 
 7 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os incorporadores devem fornecer a seguinte informação à entidade emissora dos TdB:
 
@@ -562,7 +594,9 @@ a) Caso o biocombustível esteja em estado puro e de forma segregada, deve ser r
 
 b) Caso o biocombustível tenha sido incorporado em combustível fóssil é necessária a apresentação de um certificado emitido por uma entidade/laboratório acreditada junto do ILAC (International Laboratory Accreditation Cooperation) que ateste a qualidade do biocombustível utilizado na incorporação de um determinado lote, confirmando que o mesmo cumpre com as especificações técnicas definidas na norma NP EN 14214:2012+A1 2014, como garante do controlo analítico por parte de uma entidade acreditada. Deve ainda ser acompanhado de documentação emitida pelo organismo competente do Estado membro ou do país de origem atestando a quantidade de biocombustível incorporado.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A verificação do cumprimento da obrigação de incorporação prevista no n.º 1 do artigo 11.º é efetuada trimestralmente pela entidade fiscalizadora especializada para o setor energético.
 
@@ -570,7 +604,9 @@ b) Caso o biocombustível tenha sido incorporado em combustível fóssil é nece
 
 3 - A entidade fiscalizadora especializada para o setor energético, procede ao cancelamento dos TdB apresentados ao abrigo do n.º 2 do artigo 11.º e do número anterior.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Entende-se por pequeno produtor dedicado (PPD) a empresa que, cumulativamente:
 
@@ -608,7 +644,9 @@ d) Cumpra os requisitos de sustentabilidade previstos nos artigos 5.º, 7.º, 8.
 
 10 - Para efeitos do número anterior, os PPD apresentam um requerimento à DGEG, indicando uma estimativa da quantidade anual de produto a fornecer não destinado à utilização em frotas e consumidores cativos, bem como o contrato promessa correspondente a essas quantidades efetuado com o consumidor cativo.
 
-###### Artigo 20.º — Verificação do cumprimento dos critérios de sustentabilidade
+Artigo 20.º
+
+Verificação do cumprimento dos critérios de sustentabilidade
 
 1 - Compete ao LNEG, a coordenação do processo de verificação do cumprimento dos critérios de sustentabilidade, nomeadamente:
 
@@ -626,11 +664,15 @@ a) Realizar as inspeções necessárias às instalações de produção de bioco
 
 b) Realizar as inspeções necessárias à emissão de certificados de cumprimento dos critérios de sustentabilidade, diretamente ou através de entidades contratadas para o efeito.
 
-###### Artigo 22.º — Fiscalização
+Artigo 22.º
+
+Fiscalização
 
 Compete à entidade fiscalizadora especializada para o setor energético a fiscalização do cumprimento das disposições constantes no presente decreto-lei, sem prejuízo das competências próprias que a lei atribua a outras entidades.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A DGEG comunica à Comissão Europeia, de dois em dois anos, até 31 de dezembro, com início em 2017, as quantidades de biocombustíveis incorporadas no consumo nos dois anos anteriores.
 
@@ -640,7 +682,9 @@ Compete à entidade fiscalizadora especializada para o setor energético a fisca
 
 4 - Esta comunicação deve ainda incluir um capítulo referente à análise da verificação do cumprimento dos requisitos de sustentabilidade previstos nos artigos 4.º, 6.º, 7.º e 8.º e à indicação das quantidades de biocombustíveis e de biolíquidos, em teor energético, que correspondem a cada uma das categorias de matérias-primas enumeradas no anexo III ao presente decreto-lei, bem como informação relativa às medidas tomadas para assegurar a fiabilidade e a proteção contra a fraude, de forma a prevenir que as matérias-primas sejam intencionalmente modificadas ou rejeitadas para poderem ser abrangidas pelo anexo IV ao presente decreto-lei.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -656,7 +700,9 @@ Compete à entidade fiscalizadora especializada para o setor energético a fisca
 
 7 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 A instrução dos processos de contraordenação, instaurados no âmbito do presente decreto-lei, e a aplicação das correspondentes coimas e sanções acessórias compete à entidade fiscalizadora especializada para o setor energético, sem prejuízo das competências próprias de outras entidades.»
 
@@ -704,7 +750,9 @@ Biocombustíveis e biolíquidos
 
 4 - Para efeitos do cumprimento das metas referidas no n.º 1 do artigo 2.º, a contribuição máxima conjunta dos biocombustíveis e dos biolíquidos produzidos a partir de cereais e de outras culturas ricas em amido, de culturas açucareiras e oleaginosas e de culturas feitas como culturas principais essencialmente para fins energéticos em terrenos agrícolas não pode ser superior à quantidade de energia correspondente a 7 % do consumo final de energia nos transportes.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -758,15 +806,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 11 de dezembro de 2017.**
+Promulgado em 11 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de dezembro de 2017.**
+Referendado em 11 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -774,21 +822,29 @@ Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2017. - António L
 
 Especificações dos gases de petróleo liquefeitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
 
-## ANEXO III — Especificações das gasolinas
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+Especificações das gasolinas
 
-## ANEXO V — Especificações dos gasóleos
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+ANEXO V
 
-## ANEXO VIII — Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
+Especificações dos gasóleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
 
-## ANEXO II — (a que se refere o artigo 6.º)
+ANEXO VIII
+
+Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 6.º)
 
 «ANEXO I
 
@@ -856,19 +912,21 @@ D - [...]
 
 E - [...]
 
-## ANEXO III — (a que se refere o artigo 7.º)
+ANEXO III
+
+(a que se refere o artigo 7.º)
 
 «ANEXO III
 
-# Parte A. Estimativas provisórias de emissões de matérias-primas para biocombustíveis e biolíquidos decorrentes da alteração indireta do uso do solo (gCO2eq/MJ)
+Parte A. Estimativas provisórias de emissões de matérias-primas para biocombustíveis e biolíquidos decorrentes da alteração indireta do uso do solo (gCO2eq/MJ)
 
 A tabela seguinte apresenta estimativas de valores médios de emissões associadas à alteração indireta do uso do solo para grupos de matérias-primas agrícolas utilizadas na produção de biocombustíveis e biolíquidos. Estes valores médios representam uma média ponderada dos valores das matérias-primas modelados individualmente. A magnitude dos valores no presente anexo é sensível ao conjunto de pressupostos (como o tratamento de coprodutos, evolução dos rendimentos, teor de carbono e deslocação de outras produções) que são utilizados nos modelos económicos elaborados para a sua estimação. Por conseguinte, embora não seja possível caracterizar por completo a variância de incerteza associada a tais estimativas, foi realizada uma análise de sensibilidade dos resultados com base na variação aleatória de parâmetros chave, a chamada análise de Monte Carlo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf))](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/23602/0007300088.pdf)
 
 A variância acima incluída reflete 90 % dos resultados utilizando os percentis 5 e 95 resultantes da análise. O percentil 5 sugere um valor abaixo do qual foram feitas 5 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados inferiores a 8, 4 e 33 gCO(índice 2eq)/MJ). O percentil 95 sugere um valor abaixo do qual foram feitas 95 % das observações (ou seja, 5 % do total dos dados utilizados deram resultados superiores a 16, 17 e 66 gCO(índice 2eq)/MJ).
 
-# Parte B. Biocombustíveis e biolíquidos cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas nulas
+Parte B. Biocombustíveis e biolíquidos cujas emissões estimadas decorrentes da alteração indireta do uso do solo são consideradas nulas
 
 Os biocombustíveis e os biolíquidos produzidos a partir das categorias de matérias-primas a seguir indicadas são considerados como tendo emissões estimadas decorrentes da alteração indireta do uso do solo nulas:
 
@@ -876,7 +934,9 @@ Os biocombustíveis e os biolíquidos produzidos a partir das categorias de mat�
 
 2) Matérias-primas cuja produção levou a uma alteração direta do uso do solo, ou seja, a uma alteração de uma das seguintes categorias de ocupação do solo do PIAC: terrenos florestais, terrenos de pastagem, zonas húmidas, povoações ou outros tipos de terrenos, para terrenos de cultura ou terrenos de culturas perenes. Nesse caso, deve ter sido calculado um valor de emissões decorrentes da alteração direta do uso do solo (el) conforme estabelecido no anexo I, parte C, ponto 7.
 
-## ANEXO IV — Parte A. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
+ANEXO IV
+
+Parte A. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável
 
 a) Algas, desde que o seu cultivo não implique o uso ou destruição de solos com aptidão agrícola;
 
@@ -918,7 +978,7 @@ s) Captura e utilização de carbono para fins de transporte, se a fonte de ener
 
 t) Bactérias, se a fonte de energia for renovável nos termos do artigo 2.º, segundo parágrafo, alínea a) da Diretiva [2009/28/CE](https://data.europa.eu/eli/dir/2009/28/oj?locale=pt);
 
-# Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável:
+Parte B. Matérias-primas e combustíveis elegíveis à emissão de 2 TdB por tep de biocombustível sustentável:
 
 a) Óleos alimentares usados, mediante a apresentação de documento(s) que:
 
@@ -927,3 +987,5 @@ i) Comprove a autorização sanitária da importação daquela remessa de OAU, n
 ii) Ateste a rastreabilidade dos OAU, desde a origem até ao seu destino final;
 
 b) Gorduras animais classificadas como de categorias 1 e 2 em conformidade com o [Regulamento (CE) n.º 1069/2009](https://data.europa.eu/eli/reg/2009/1069/oj?locale=pt) do Parlamento Europeu e do Conselho, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o [Regulamento (CE) n.º 1774/2002](https://data.europa.eu/eli/reg/2002/1774/oj?locale=pt) (Regulamento relativo aos subprodutos animais).»
+
+110984851

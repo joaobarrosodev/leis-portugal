@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/337-1985-151886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 431e2c54d7c67c2f9cf6244d524f57665c842229b6b0072182388a292b90ade1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52faefd168b549e4822277bf38978cb18d18c9582e4cca210a6ef5ffb8ddbe09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Normalização
+- Proteção do Consumidor
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:138782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:328874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:421633:por
+  label: "Revogados os nºs 5 a 12, 15 e 16 pelo DEC LEI.376/97.1997.12.24.MADRP, DR.IS-A [296]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1997-421633
+  date: '1997-12-24'
+- type: repealed_by
+  target: pt:dre:138782:por
+  label: "Revogados os nºs. 1 a 4, 13, 14 e 17 a 19 pelo DEC LEI.108/99.1999.03.31.MADRP, DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-1999-138782
+  date: '1999-03-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:24:21Z'
   warnings: []
   errors: []
 ---
@@ -221,6 +242,6 @@ O período previsto de laboração nos outros métodos de preparação.
 
 Ministério da Agricultura.
 
-**Assinada em 15 de Maio de 1985.**
+Assinada em 15 de Maio de 1985.
 
 Pelo Ministro da Agricultura, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio e Indústria Agrícolas.

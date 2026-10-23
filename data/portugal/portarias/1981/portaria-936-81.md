@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-1981-562589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ff1ed1551caf2524fb6d9e6ad2892b029540f9685209822354e5a189f252851
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f83f878927a0b845f4047b72152907de46bdc341df885f3f7a8207d788a4e480
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- RTP
+- Televisão
+relationships:
+- type: cites
+  target: pt:dre:411363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:18Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +100,7 @@ Nestes termos e tendo em conta o disposto no artigo 24.º do [Decreto-Lei n.º 2
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes Exteriores e Comunicações, o seguinte:
 
-###### Artigo único. São aprovadas as características técnicas, a que deverão obedecer as emissões regulares de televisão a cores, anexas à presente portaria.
+Artigo único. São aprovadas as características técnicas, a que deverão obedecer as emissões regulares de televisão a cores, anexas à presente portaria.
 
 Secretaria de Estado dos Transportes Exteriores e Comunicações, 6 de Outubro de 1981. - O Secretário de Estado dos Transportes Exteriores e Comunicações, José da Silva Domingos.
 
@@ -128,7 +134,7 @@ Nível máximo de branco: 100;
 
 Nível de sincronização: 43.
 
-1.11 - Diferença nominal entre o nível de negro e o nível de supressão (em percentagem da amplitude de luminância): [([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+1.11 - Diferença nominal entre o nível de negro e o nível de supressão (em percentagem da amplitude de luminância): [(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 2 - Sinais de sincronização de linha (ver fig. 1). - Durações medidas entre os pontos situados a meia amplitude dos flancos considerados:
 
@@ -174,7 +180,7 @@ Nível de sincronização: 43.
 
 4.1 - Coordenadas de cromaticidade (CIE, 1931) admitidas para as cores primárias do receptor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 4.2 - Coordenadas de cromaticidade correspondentes à igualdade dos sinais primários:
 
@@ -200,7 +206,7 @@ E'(índice v) = 0,877 (E'(índice R) - E'(índice y))
 
 4.6 - Atenuação dos sinais de diferença de cor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 4.7 - Equação do sinal cromático composto:
 
@@ -228,7 +234,7 @@ f(índice sc) -1300.
 
 4.11 - Amplitude da subportadora de crominância:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 4.12 - Sincronização da subportadora de crominância - salva da subportadora no patamar posterior de supressão:
 
@@ -248,7 +254,7 @@ h) Duração da salva da subportadora (ver fig. 1) ((mi)s):
 
 135.º em relação ao eixo E'(índice u) com o seguinte sinal (ver figs. 3 e 4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 4.15 - Supressão da salva da subportadora de crominância:
 
@@ -314,34 +320,34 @@ Nível máximo de branco: 10 a 12,5.
 
 Fig. 1 - Níveis do sinal composto e detalhes dos sinais de sincronização de linha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 2 - Detalhes dos sinais de sincronização de quadro
 
 Fig. 2-1a - Sinal do início de cada 1.º quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 2-1b - Sinal do início de cada 2.º quadro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 2-1c - Detalhe dos impulsos de igualização e sincronização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 3 - Eixos do sinal de crominância e de fase da salva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 4 - Sequência de supressão da salva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
 
 Fig. 6 Curva de pré-correcção das características de propagação de grupo do receptor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf))](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/24800/28532858.pdf)

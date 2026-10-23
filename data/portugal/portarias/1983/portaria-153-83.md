@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-1983-311047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13fbca269a7785a2eecaa4a2261480437baea6a2a9908415ab0a203e2b072a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27a3859f1f83ddea9a01fa9d88fe0a124c9bab2533160e64401a985fc5a980d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA de Jurisdição
+- GNR
+- Porto
+- PSP
+- Reestruturação de Serviços
+- Segurança Pública
+relationships:
+- type: cites
+  target: pt:dre:291219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643961:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:15Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +106,7 @@ Constitui directiva do Ministério da Administração Interna que a acção poli
 
 Reconhece-se, pois, a necessidade de, relativamente à organização do dispositivo das forças de segurança, encontrar uma solução que defina as zonas de acção daquelas forças, de acordo com os critérios apontados, e as prioridades de instalação, desactivação ou alteração do dispositivo.
 
-**O Ministro da Administração Interna definiu a prioridade que recaiu sobre as áreas da Grande Lisboa e do Grande Porto.**
+O Ministro da Administração Interna definiu a prioridade que recaiu sobre as áreas da Grande Lisboa e do Grande Porto.
 
 Após estudo efectuado, foi obtido consenso imediato entre a Guarda Nacional Republicana e a Polícia de Segurança Pública quanto à área do Grande Porto, pelo que se torna possível avançar desde já com essa reestruturação.
 
@@ -434,4 +448,4 @@ Guardas ... 30
 
 Ministério da Administração Interna, 25 de Janeiro de 1983. - O Ministro da Administração Interna, José Ângelo Ferreira Correia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03900/04940497.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03900/04940497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03900/04940497.pdf)

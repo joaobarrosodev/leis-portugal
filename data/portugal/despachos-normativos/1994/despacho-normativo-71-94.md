@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/71/1994/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/71-1994-500196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 622ad5313d09862f5674744df21a4f98be5f1c6fd06ae2873fe0127defd461c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab1d762601d23c655a99bbe63eb4b94c3f4c53b5b7314bea823c705ea1b0e8f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
 - Estabelecimento de Restauração
+- Financiamento
 - Fundo de Turismo
 - TAXA de JURO
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:566808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:291434:por
+  label: "Mantido em vigor pelo DN.469/94.04.07.1994.MCT, DR.IS-B [152] de 04.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/469-1994-291434
+  date: '1994-07-04'
+- type: amended_by
+  target: pt:dre:566808:por
+  label: "Mantido em vigor pelo DEC LEI.247/95.1995.09.20.MCT, DR.IS-A [218]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1995-566808
+  date: '1995-09-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/despnorm/188/1992/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/188/1992/10/12/p/dre
+- type: cites
+  target: pt:dre:225996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:25Z'
   warnings: []
   errors: []
 ---

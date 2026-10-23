@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/263a00/62046205.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/310/1997/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1997-687465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1782fc1f52d0515ba705da72d938d5ca6e71bc85445c994ab21058db0ea9548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a433a66a2b8def3ce4f683ee3d7efbc167d34066de189babb8b0abb04ae6daeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Carne
+- Ave de Capoeira
 - CAÇA
+- Carne
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
 - Execução Fiscal
-- Ave de Capoeira
+- Produto Animal
 - Receita Própria
 - Taxa
-- Produto Animal
 relationships:
 - type: amended_by
   target: pt:dre:308520:por
@@ -102,16 +102,21 @@ relationships:
   target: celex:31994L0064
   label: null
   source: http://data.europa.eu/eli/dir/1994/64/oj
+- type: repealed_by
+  target: pt:dre:308520:por
+  label: "Revogado pelo DEC LEI.208/99.1999.06.11.MADRP, DR.IS-A [134]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-1999-308520
+  date: '1999-06-11'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:26Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +155,15 @@ b) Pelos controlos e inspecções relativos a custos reais dos produtos de orige
 
 4 - Estas taxas substituem qualquer outra taxa sanitária cobrada pelas autoridades centrais, regionais ou municipais destinada a cobrir as despesas de inspecção e controlo referidas neste artigo e da respectiva certificação.
 
-###### Artigo 5.º — Responsabilidade pela taxa
+Artigo 5.º
+
+Responsabilidade pela taxa
 
 As taxas ficam a cargo do empresário ou proprietário do estabelecimento que realiza as operações a que se referem os diplomas e as directivas do anexo I do regulamento aprovado pela Portaria n.º 576/93, de 4 de Junho, e suas alterações, tendo estes a possibilidade de repercutir a taxa cobrada pela operação em questão sobre a pessoa singular ou colectiva por conta da qual foram efectuadas as referidas operações.
 
-###### Artigo 6.º — Liquidação e cobrança de taxas
+Artigo 6.º
+
+Liquidação e cobrança de taxas
 
 1 - Para efeito de liquidação e cobrança da taxa de inspecção e controlo sanitários, as entidades que realizam as operações referidas no artigo anterior devem enviar às DRA os documentos de registo comprovativos dos quantitativos de animais e produtos movimentados.
 
@@ -162,7 +171,9 @@ As taxas ficam a cargo do empresário ou proprietário do estabelecimento que re
 
 3 - A entidade responsável pelo pagamento das taxas deve proceder à autoliquidação das mesmas e depositar os montantes devidos em operações de tesouraria à ordem da respectiva DRA, enviando-lhe, simultaneamente, os documentos referidos no n.º 1 e os que atestem os depósitos em causa.
 
-###### Artigo 7.º — Produtos de origem animal provenientes de países terceiros
+Artigo 7.º
+
+Produtos de origem animal provenientes de países terceiros
 
 1 - A fim de assegurar a equivalência de tratamento previsto na Portaria n.º 41/92, de 22 de Janeiro, nos regulamentos aprovados pelas Portarias n.os 323/94 e 1001/93, respectivamente de 26 de Maio e de 11 de Outubro, e no Decreto-Lei n.º 44/96, de 10 de Maio, é devida uma taxa pelos controlos veterinários a efectuar nos produtos de origem animal provenientes de países terceiros.
 
@@ -172,7 +183,9 @@ As taxas ficam a cargo do empresário ou proprietário do estabelecimento que re
 
 4 - Pode ser afectada uma parte do produto da taxa prevista no presente artigo a um fundo de solidariedade sanitária, destinado a reforçar os serviços veterinários de modo a permitir-lhes reagir mais eficazmente no caso de surgir uma doença exótica.
 
-###### Artigo 9.º — Destino das taxas
+Artigo 9.º
+
+Destino das taxas
 
 1 - O produto das taxas e adicionais previstos no presente diploma constitui receita própria da Direcção-Geral de Veterinária (DGV) e DRA, de acordo com o previsto na portaria que fixar os respectivos montantes.
 
@@ -190,12 +203,12 @@ O presente diploma entra em vigor no 1.º dia útil do 1.º mês posterior à su
 
 Visto e aprovado em Conselho de Ministros de 14 de Agosto de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 24 de Outubro de 1997.**
+Promulgado em 24 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

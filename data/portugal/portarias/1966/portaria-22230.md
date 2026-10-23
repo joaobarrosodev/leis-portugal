@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22230-1966-480143
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dc275f99e41845473d8d2f9c586ad1eff136251f8e2722dfcbf6277c7c74ce5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82ffc365a298786cd4e8e8b6269dbc2526c8ab1cf2ac8a6362c382f14b85703f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:06Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +92,16 @@ Ministério da Educação Nacional, 29 de Setembro de 1966. - Pelo Ministro da E
 
 REGULAMENTO DO PRÉMIO CARLOS FARINHA
 
-###### Artigo 1.º Instituído por um grupo de amigos do industrial Carlos Farinha, em homenagem aos seus méritos, é criado na Escola Industrial e Comercial de Campos Melo, na Covilhã, um prémio que se denomina «Prémio Carlos Farinha».
+Artigo 1.º Instituído por um grupo de amigos do industrial Carlos Farinha, em homenagem aos seus méritos, é criado na Escola Industrial e Comercial de Campos Melo, na Covilhã, um prémio que se denomina «Prémio Carlos Farinha».
 
-###### Art. 2.º O prémio é constituído pelo rendimento de 50000$00, que serão convertidos em certificado de renda perpétua, assentado à Escola, e a sua entrega será feita anualmente, por uma só vez.
+Art. 2.º O prémio é constituído pelo rendimento de 50000$00, que serão convertidos em certificado de renda perpétua, assentado à Escola, e a sua entrega será feita anualmente, por uma só vez.
 
-###### Art. 3.º - 1. O aluno a premiar será designado pelo conselho escolar no início de cada ano lectivo, de entre os que se encontrem matriculados no 1.º ano do curso de técnico de tecelagem, ou de outro que em futuras organizações do ensino lhe corresponda, e haja obtido, no ciclo preparatório da Escola, classificação final de Bom ou superior.
+Art. 3.º - 1. O aluno a premiar será designado pelo conselho escolar no início de cada ano lectivo, de entre os que se encontrem matriculados no 1.º ano do curso de técnico de tecelagem, ou de outro que em futuras organizações do ensino lhe corresponda, e haja obtido, no ciclo preparatório da Escola, classificação final de Bom ou superior.
 
 2. No caso de igualdade de classificação deverá ser dada preferência ao aluno que tenha classificações mais aproximadas em todas as disciplinas.
 
 3. Se, nalgum ano, o prémio não puder ser concedido, o seu quantitativo será capitalizado, aumentando-se assim a importância a atribuir nos anos seguintes.
 
-###### Art. 4.º Se o ciclo preparatório deixar de funcionar na Escola de Campos de Melo, o prémio poderá ser atribuído a alunos que hajam adquirido a correspondente habilitação noutros estabelecimentos de ensino, com a classificação fixada no n.º 1 do artigo anterior.
+Art. 4.º Se o ciclo preparatório deixar de funcionar na Escola de Campos de Melo, o prémio poderá ser atribuído a alunos que hajam adquirido a correspondente habilitação noutros estabelecimentos de ensino, com a classificação fixada no n.º 1 do artigo anterior.
 
 Direcção-Geral do Ensino Técnico Profissional, 29 de Setembro de 1966. - O Director-Geral, Carlos Proença.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/27372740.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/60/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-2007-521012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583edbfa53ba354859f6f4d94e0c67755ce4e5cb5ee939d260e295edcfc595a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e0d93aca69357be861eae8ae67c6e95ce1c4e8347433e8b5f935fa5c9604600
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Diretor Geral
-- Gabinete de Relações Internacionais da Ciência e do Ensino Superior
 - Gabinete de Gestão Financeira da Ciência e do Ensino Superior
-- Observatório da Ciência e do Ensino Superior
 - Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
-- Orgânica
-- Quadro de Pessoal
+- Gabinete de Relações Internacionais da Ciência e do Ensino Superior
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Observatório da Ciência e do Ensino Superior
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:542865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do Ministério\
+    \ da Ciência, Tecnologia e Ensino Superior e transferidas as suas atribuições nos termos da al. e) do nº 3 do art. 31º,\
+    \ pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544377:por
+  label: "Determinada a sucessão pela Direção-Geral de Estatísticas da Educação e Ciência das atribuições do Gabinete de Planeamento,\
+    \ Estratégia, Avaliação e Relações Internacionais do ex-Ministério da Ciência, Tecnologia e Ensino Superior, no domínio\
+    \ da recolha, tratamento e produção de informação estatística nas áreas da ciência, tecnologia e ensino superior, constantes\
+    \ do presente diploma, que é revogado, a partir de 01.02.2012. pelo DR.13/2012.20.01.2012.MECI, DR.IS [15] de 20.01.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2012-544377
+  date: '2012-01-20'
+- type: amended_by
+  target: pt:dre:543699:por
+  label: "Determinada a sucessão pela Direção-Geral do Ensino Superior (DGES) das atribuições, relativas ao domínio da cooperação\
+    \ internacional no âmbito do ensino superior e das actividades inerentes à participação de Portugal no âmbito da União\
+    \ Europeia, do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais do ex-Ministério da Ciência, Tecnologia\
+    \ e Ensino Superior, pelo DR.20/2012.07.02.2012.MECI, DR.IS [27] de 07.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-2012-543699
+  date: '2012-02-07'
+- type: amended_by
+  target: pt:dre:542865:por
+  label: "Determinado que a FCT, I. P., suceda nas atribuições do Gabinete de Planeamento, Estratégia, Avaliação e Relações\
+    \ Internacionais do Ministério da Ciência, Tecnologia e Ensino Superior, no domínio das relações internacionais e da coordenação\
+    \ das acções de cooperação bilateral e multilateral nas áreas de ciência e tecnologia, pelo DEC LEI.45/2012.23.02.2012.MECI,\
+    \ DR.IS [39] de 23.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2012-542865
+  date: '2012-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2003/06/18/p/dre
   label: null
@@ -108,16 +140,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:545643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685033:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:04Z'
   warnings: []
   errors: []
 ---
@@ -300,16 +364,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/27372740.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/27372740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/27372740.pdf)

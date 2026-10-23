@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1975-161963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4443b919081a722b376b0c88803cc1225c7560e33ecf579b0da0e8f3a05d8394
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d94ee78b19b513ef31d25dfb12e985b4aa89067c98287b53db4c7b7d03e132b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446364:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:13Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 1.º O artigo 2.º-A do plano de uniformes para oficiais, aspirantes a oficial e cadetes da Armada, aprovado pelo [Decreto n.º 42862](https://diariodarepublica.pt/dr/detalhe/decreto/42862-1960-282138), de 25 de Fevereiro de 1960, toma a seguinte redacção:
 
-###### Art. 2.º-A. A boina de um só pano para oficiais das classes fuzileiros, serviço especial ramo de fuzileiros, oficiais e aspirantes a oficial FZ/RN ou de outras classes quando especializados em fuzileiro especial e prestando serviço em unidades de fuzileiros é de lã azul-ferrete. É forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m acima do debrum.
+Art. 2.º-A. A boina de um só pano para oficiais das classes fuzileiros, serviço especial ramo de fuzileiros, oficiais e aspirantes a oficial FZ/RN ou de outras classes quando especializados em fuzileiro especial e prestando serviço em unidades de fuzileiros é de lã azul-ferrete. É forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m acima do debrum.
 
 Na parte anterior, e diametralmente oposta ao nó das pontas, é aplicada como distintivo uma âncora metálica do modelo descrito no artigo 86.º-A e cujo centro fica a 0,035 m acima do debrum.
 

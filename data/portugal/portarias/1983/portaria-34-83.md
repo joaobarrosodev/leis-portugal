@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00900/00450049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-1983-540605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c62240c0ec6f1a84e2cf5182c73e6f3d97d30c9098e70b89fba1080317c4c878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d386444df2cc06f3670a97ed89170a38bc0ee544d855d0f9d91d0c05813160
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Região de Turismo
+- Região de Turismo do ALTO Minho
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:575361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635221:por
+  label: ALTERADOS O NUM 3 DO ART 8, O NUM 1 DO ART 14 E O ART 20 DO ANEXO DO PRESENTE DIPLOMA, PELA PORT 112/87 DE 20-FEV
+    DR.IS [43]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1993-635221
+  date: '1987-02-20'
+- type: amended_by
+  target: pt:dre:610041:por
+  label: "Alterado o art.º 8.º do anexo ao presente diploma, pela PORT.379/89.29.05.1989.MCT, DR.IS [122] de 29.05.1989\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1989-610041
+  date: '1989-05-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUM 1 DO ART1 DOS ESTATUTOS DA REGIÃO DE TURISMO DO ALTO MINHO (COSTA VERDE), PELA PORT 477/90 DE 27-JUN
+    DR.IS [146]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-06-27'
+- type: amended_by
+  target: pt:dre:575361:por
+  label: "Alterado o n.º 1 do art. 1.º dos Estatutos da Região de Turismo do Alto Minho (Costa Verde) pela PORT.477/90.27.06.1990.SETU-MCT,\
+    \ DR.IS [146] de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1990-575361
+  date: '1990-06-27'
+- type: cites
+  target: pt:dre:375640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469222:por
+  label: Rectificada pela DECL.DD2679.1983.01.25.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469222
+  date: '1983-01-25'
+- type: corrected_by
+  target: pt:dre:165208:por
+  label: Rectificada pela DECL.DD2990.1983.03.09.PCM DR.IS [75]Supl de 31/mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165208
+  date: '1983-03-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:49Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +152,7 @@ Manda o Governo da República Portuguesa, pelo Primeiro-Ministro, ao abrigo do a
 
 Presidência do Conselho de Ministros, 14 de Dezembro de 1982. - Pelo Primeiro-Ministro, Luís Fernando Cardoso Nandim de Carvalho, Secretário de Estado do Turismo.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 34/83
+Anexo a que se refere o n.º 1.º da Portaria n.º 34/83
 
 ###### ARTIGO 1.º — (Área da Região de Turismo)
 

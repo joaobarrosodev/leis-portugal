@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-1975-159758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72879bde4bf8cc34932cf7aa539e797f7dca31cabe3266648c445921430ae498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a78fb026dbe45e53d8b5a680d5df3eff7583efad9bc14bc63b84fd5adf668ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618081:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:26Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +100,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abasteci
 
 1.º Os preços máximos de venda pela indústria de arroz branqueado de origem estrangeira são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf))](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf)
 
 2.º Nas embalagens do arroz de origem estrangeira, tanto acondicionado em sacos de 75 kg ou 50 kg como empacotado, deve constar, além das indicações referidas nos números 4.º e 5.º da [Portaria n.º 609-A/74](https://diariodarepublica.pt/dr/detalhe/portaria/609-a-1974-618080), de 20 de Setembro, a designação «Estrangeiro».
 
 3.º As margens de comercialização dos retalhistas, na venda dos diferentes tipos de arroz, nacional ou estrangeiro, não poderão ser inferiores aos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf))](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/03900/02310232.pdf)
 
 4.º Esta portaria entra imediatamente em vigor.
 

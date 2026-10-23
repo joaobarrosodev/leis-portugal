@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/14600/17471747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/397-1985-182053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7da525f80b668d9f9b096a6e09bba4a88ead00135ae1e9aa1a77dbf72b70110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96949bb4acd2fa0aa3bf09f8bbffdd5bbf05183e0a523b60b7544f37a7181049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Espécie Protegida
+- Licenciamento
+- Pesca
+- Pesca Fluvial
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:227072:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:227072:por
+  label: "Revogada pelo DR.18/86.1986.05.20.MAPA, DR.IS [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1986-227072
+  date: '1986-05-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:50Z'
   warnings: []
   errors: []
 ---
@@ -97,6 +107,6 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Produç�
 
 Secretaria de Estado da Produção Agrícola.
 
-**Assinada em 5 de Junho de 1985.**
+Assinada em 5 de Junho de 1985.
 
-**O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão.**
+O Secretário de Estado da Produção Agrícola, Joaquim António Rosado Gusmão.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06900/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2020/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2020-131193418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e5f2848bc044459a6bd462517c33172dbacbe46b665371c3ba52a7fe41b1d62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e4f11f46d05ffeffb90f8d3d25852b4d0f8835763505cc60b1fb0f88a28733
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Certificação Electrónica
-- Formulário Eletrónico
-- Internet
 - Confidencialidade
-- Microempresa
+- Empresa
+- Formulário Eletrónico
 - IAPMEI
+- Internet
+- Microempresa
 relationships:
 - type: amended_by
   target: pt:dre:162021993:por
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:107596686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:47Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +185,9 @@ Os artigos 4.º, 6.º, 7.º e 13.º do [Decreto-Lei n.º 372/2007](https://diari
 
 A certificação prevista no presente decreto-lei compete ao IAPMEI, I. P., o qual disponibiliza os formulários eletrónicos no portal ePortugal, em https://eportugal.gov.pt/, garantindo a sua fiabilidade e segurança.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -183,7 +209,9 @@ A certificação prevista no presente decreto-lei compete ao IAPMEI, I. P., o qu
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 7.º — Disponibilização da certificação
+Artigo 7.º
+
+Disponibilização da certificação
 
 1 - A certificação é disponibilizada aos interessados, por via eletrónica, imediatamente após a conclusão do preenchimento integral do formulário eletrónico e da sua submissão, tendo efeitos a partir dessa data.
 
@@ -207,7 +235,9 @@ b) A empresa não reúna os requisitos de PME.
 
 9 - O disposto no n.º 7 não se aplica às empresas previstas no n.º 4 do artigo 6.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As empresas certificadas devem comunicar ao IAPMEI, I. P., através de formulário disponibilizado eletronicamente, as alterações aos dados declarados no processo de certificação a que se referem as alíneas a), b) e c) do n.º 1 do artigo 6.º
 
@@ -251,7 +281,9 @@ b) Quando, por ausência de resposta às solicitações da entidade certificador
 
 7 - Sempre que não haja lugar à declaração de nulidade da certificação ao abrigo do disposto no n.º 2, mas se verifique a existência de erros ou omissões nos dados declarados, a empresa é notificada para proceder à sua correção, ficando a certificação suspensa até à submissão da informação corrigida.
 
-###### Artigo 9.º-A — Fiscalização
+Artigo 9.º-A
+
+Fiscalização
 
 1 - A entidade certificadora pode solicitar às empresas requerentes documentos e informações complementares e proceder, por si ou por quem para o efeito designe, às averiguações e inquirições que se mostrem necessárias e adequadas para confirmar o estatuto de micro, de pequena ou de média empresa objeto da certificação.
 
@@ -277,12 +309,14 @@ Verifica-se a caducidade das sanções acessórias de inibição de certificaç�
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira.
 
-**Promulgado em 31 de março de 2020.**
+Promulgado em 31 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de abril de 2020.**
+Referendado em 1 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113167225

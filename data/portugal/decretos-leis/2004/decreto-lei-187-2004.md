@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/187/2004/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2004-515390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfba9eb17132631cc9940e96ae0f566a0987f5d59cf3103f49481eab2b6a0588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a723f79a98ce2134a2db4fced78249b9b499afb9bbcede5499aafe1f9c813f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
 - Controlo Sanitário
-- União Europeia
+- Direção Geral de Veterinária
 - Fiscalização
 - Gado Bovino
 - Importação
+- Multa
 - Reprodução Animal
-- Comércio
 - Troca Intracomunitária
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:670027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670027:por
+  label: "Alterados os arts. 6.º, 11.º e 14.º pelo DEC LEI.79/2011.20.06.2011.MADRP, DR.IS [117] de 20.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2011-670027
+  date: '2011-06-20'
 - type: cites
   target: celex:31988L0407
   label: null
@@ -98,14 +103,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2003/43/oj
 article_structure:
   article_count: 23
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:45Z'
   warnings: []
   errors: []
 ---
@@ -456,17 +461,19 @@ São revogados o Decreto-Lei n.º 353/90, de 10 de Novembro, e a Portaria n.º 2
 
 Visto e aprovado em Conselho de Ministros de 15 de Junho de 2004. - José Manuel Durão Barroso. - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 15 de Julho de 2004.**
+Promulgado em 15 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2004.**
+Referendado em 22 de Julho de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Condições de aprovação oficial dos centros
 
@@ -578,7 +585,9 @@ ii) Os embriões satisfaçam os requisitos do Decreto-Lei n.º 8/92, de 22 de Ja
 
 iii) Os embriões sejam armazenados em recipientes de armazenagem separados, em locais previstos para a armazenagem de sémen aprovados.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições aplicáveis à admissão dos animais nos centros de colheita de sémen aprovados
 
@@ -706,6 +715,6 @@ a) Ser armazenado em condições aprovadas durante um período mínimo de 30 dia
 
 b) Ser transportado para o Estado membro de destino em recipientes limpos e desinfectados ou esterilizados antes de serem usados e selados e numerados antes de serem expedidos das instalações de armazenagem aprovadas.
 
-## ANEXO D — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)
+## ANEXO D — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)
 
-## ANEXO E — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)
+## ANEXO E — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)](https://files.diariodarepublica.pt/1s/2004/08/185a00/51225132.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14700/0517105173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2015/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2015-69905668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee337dec6563dd55846420aa15f5a70fa545430d3fafb77442d8735a4152762
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02c7d5ca26512b5101ada90db849eb1c77ac3693576de99ca239d6808d1d5825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,22 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Exame de Condução
 - Certificação Profissional
-- Transporte Ferroviário
+- Exame de Condução
 - Maquinista
 - Qualificação Profissional
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:1055043915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106531324:por
+  label: Alterado o anexo V da Lei 16/2011 de 03-mai, na redação do presente diploma, pelo(a) Decreto-Lei n.º 24/2017 - Diário
+    da República n.º 43/2017, Série I de 2017-03-01 nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2017-106531324
+  date: '2017-03-01'
 - type: cites
   target: celex:32007L0059
   label: null
@@ -91,6 +97,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2011/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2011/05/03/p/dre
+- type: cites
+  target: pt:dre:287077:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32007L0059
   label: null
@@ -102,13 +112,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:58Z'
   warnings: []
   errors: []
 ---
@@ -147,15 +157,15 @@ O presente diploma entra em vigor no primeiro dia útil seguinte ao da sua publi
 
 Visto e aprovado no Conselho de Ministros de 2 de julho de 2015. - Pedro Passos Coelho - António de Magalhães Pires de Lima - Fernando Serra Leal da Costa - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 26 de julho de 2015.**
+Promulgado em 26 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de julho de 2015.**
+Referendado em 28 de julho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -211,7 +221,9 @@ A.4.4 [...].
 
 [...]
 
-## ANEXO III — (a que se referem os artigos 6.º e 22.º)
+ANEXO III
+
+(a que se referem os artigos 6.º e 22.º)
 
 Competência profissional geral relativa à carta de maquinista
 
@@ -223,7 +235,7 @@ A formação geral abrange as matérias enumeradas nos pontos 1 a 7 abaixo. A or
 
 Os verbos utilizados na enumeração indicam a natureza da competência que o formando deve adquirir. O seu significado é dado no quadro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14700/0517105173.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14700/0517105173.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/07/14700/0517105173.pdf)
 
 1 - Trabalho do maquinista, ambiente de trabalho, papel e responsabilidades do maquinista na exploração ferroviária, exigências profissionais e pessoais das funções de maquinista:
 
@@ -315,7 +327,9 @@ c) Compreender os princípios da eletricidade (circuitos, medição da tensão, 
 
 [...]
 
-## ANEXO V — (a que se referem os artigos 10.º e 22.º)
+ANEXO V
+
+(a que se referem os artigos 10.º e 22.º)
 
 Conhecimentos e competências profissionais sobre as infraestruturas
 

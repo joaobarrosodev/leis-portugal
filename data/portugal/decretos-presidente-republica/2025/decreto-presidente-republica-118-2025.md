@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/118/2025/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/118-2025-992098932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd2db0ae3e116ffe3db314cbc811e6ff46fdaadca7430d3c66512f399b9502b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 724b9a7733df6c9b70a579b1ee87daf7fc4b05ed423bdc347fc78efef4644052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Astana
-- Portugal
 - Embaixador
 - Nomeação
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:42Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +89,18 @@ validation:
 
 de 22 de dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe José de Castro Ataíde Amaral para o cargo de Embaixador de Portugal em Astana.
 
-**Assinado em 21 de novembro de 2025.**
+Assinado em 21 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de dezembro de 2025.**
+Referendado em 11 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.**
+O Primeiro-Ministro, Luís Montenegro. - O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel.
+
+119898335

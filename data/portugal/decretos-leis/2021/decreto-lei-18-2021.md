@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05000/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2021/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66cd4986d41cdad98ed4c26636b0004fb43ef97cdf0abfc2f47f1b33b5206def
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afb8599a8b62e6de47ef28f4177260a834afcf6dca1f151edad05e534b4ff02b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Contrato de Financiamento
-- Crédito Bonificado
-- Empréstimo
-- Estado de Emergência
+- Açores
 - Auxílio de Minimis
+- Contrato de Financiamento
+- Crédito
+- Crédito Bonificado
+- Doença Infecciosa
+- Empréstimo
+- Epidemia
+- Estado de Emergência
+- Financiamento
 - Fiscalização
-- Pesca
 - IFAP
 - Linha de Crédito
-- Crédito
-- Doença Infecciosa
-- Epidemia
-- Prazo
 - Madeira.região Autónoma
+- Pesca
+- Prazo
 - Regulamento CE
-- Açores
 - TAXA de JURO
 relationships:
 - type: cites
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/15/2020/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/15/2020/04/15/p/dre
+- type: cites
+  target: pt:dre:131457480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55076559:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:55Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +156,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 3.º — Montante global de crédito e limite individual de auxílio
+Artigo 3.º
+
+Montante global de crédito e limite individual de auxílio
 
 1 - O montante global de crédito e o limite total do auxílio a conceder por beneficiário são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.
 
@@ -156,7 +166,9 @@ e) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 6.º — Formalização e condições financeiras dos empréstimos
+Artigo 6.º
+
+Formalização e condições financeiras dos empréstimos
 
 As condições para a formalização dos contratos de empréstimo e as suas condições financeiras são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.»
 
@@ -174,15 +186,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de fevereiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 9 de março de 2021.**
+Promulgado em 9 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de março de 2021.**
+Referendado em 10 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -281,3 +293,5 @@ A cobertura orçamental dos encargos financeiros é assegurada por verbas nacion
 ###### Artigo 15.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+114057764

@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1983-311806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e1c78004b834f29573fe6c0360473a1b1171b2dbcd316ee616727b1cf31bd89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e319ba0f3f893982f6952996a5d19d4e75eb9c3d7a1716a384fd72ba8ba4e6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Pesca
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:683268:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:05Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Pescas,
 
 1.º A alínea c) do artigo 12.º da [Portaria n.º 51/73](https://diariodarepublica.pt/dr/detalhe/portaria/51-1973-683268), de 25 de Janeiro, passa a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 ...
 
@@ -108,7 +114,7 @@ c) Redes de cerco;
 
 2.º Ao artigo 15.º da mesma portaria é acrescentada uma alínea f), com a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 ...
 
@@ -122,12 +128,12 @@ f) Redes de cerco:
 
 3.º São aditados à referida portaria os seguintes artigos:
 
-###### Art. 18.º-A. As licenças de pesca para a utilização de artes de cerco são requeridas anualmente às repartições marítimas do registo da embarcação, ficando sujeitas ao pagamento da taxa de 12000$00.
+Art. 18.º-A. As licenças de pesca para a utilização de artes de cerco são requeridas anualmente às repartições marítimas do registo da embarcação, ficando sujeitas ao pagamento da taxa de 12000$00.
 
-###### Art. 46.º As embarcações que utilizem redes de emalhar poderão solicitar a sua substituição por redes de cerco, em requerimento dirigido ao director-geral das Pescas.
+Art. 46.º As embarcações que utilizem redes de emalhar poderão solicitar a sua substituição por redes de cerco, em requerimento dirigido ao director-geral das Pescas.
 
 Secretaria de Estado das Pescas.
 
-**Assinada em 7 de Abril de 1983.**
+Assinada em 7 de Abril de 1983.
 
-**O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.**
+O Secretário de Estado das Pescas, Alberto Augusto Faria dos Santos.

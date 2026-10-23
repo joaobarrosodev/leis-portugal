@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1988, 1º Suplemento, Série I de 1988-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5066-(8) a 5066-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/29401/00080008.pdf
 entry_into_force_dates: []
@@ -47,36 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/96-1988-672858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4c6bc720f800f3c3610ea386da8889d2aab1373e00325f7bb3a49aa2f863f1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bf1912c33e46f5ba549a77f6e6fb20005eecab76d06fa45d78536dc46d913da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:04:31Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +86,16 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Mapril Nunes da Costa, de 47 anos de idade, no processo n.º 598/84 da 2.ª Secção do 1.º Juízo do Tribunal Judicial da Comarca de Oliveira de Azeméis é reduzida, por indulto, em seis meses de prisão.
 
-**Assinado em 22 de Dezembro de 1988.**
+Assinado em 22 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Dezembro de 1988.**
+Referendado em 22 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

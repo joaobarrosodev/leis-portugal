@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 99/1992, 1º Suplemento, Série I-B de 1992-04-29
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1988-(2) a 1988-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/099b01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/56/1992/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/56-1992-403891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:58:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aff6fea85b5e233617f9cd1109520d518ccb5ef849ac783cbd78bfb541f061c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37b3d8ba7085a37f435a573c95bad5ee5d7d8a5e9af9ced1fa8603cd262e4a64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:58:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,45 @@ relationships:
   target: pt:dre:205557209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:487374:por
+  label: "Alterado o artigo 3.º do anexo pelo DN.36/95.24.07.1995.PCM, DR.IS-B [169] de 24.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/36-1995-487374
+  date: '1995-07-24'
+- type: cites
+  target: pt:dre:442304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:213421:por
+  label: "Rectificado o n.º 1 do artigo 10.º e n.ºs 1 e 4 do artigo 21.º do anexo, pela DECL-RECT.74/92.30.05.1992.PCM, DR.IS-B\
+    \ [125]2ºSupl de 30.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/74-1992-213421
+  date: '1992-05-30'
+- type: repealed_by
+  target: pt:dre:517263:por
+  label: "Revogado o n.º 3 do artigo 22.º pelo DN.13/97.1997.02.18.MC, DR.IS-B [61] de 1997.03.13\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/13-1997-517263
+  date: '1997-02-18'
+- type: repealed_by
+  target: pt:dre:402542:por
+  label: "Revogado pelo DN.11/2000.11.02.2000.MC, DR.IS-B [35] de 11.02.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-2000-402542
+  date: '1999-12-30'
 article_structure:
   article_count: 30
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:58:48Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +136,9 @@ Ao abrigo da alínea b) do artigo 2.º do [Decreto-Lei n.º 59/80](https://diari
 
 Presidência do Conselho de Ministros, 22 de Abril de 1992. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Princípios gerais
 

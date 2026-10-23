@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 88/2003, 1º Suplemento, Série I-A de 2003-04-14
   number: '88'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2452-(97) a 2452-(102)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/088a01/00970102.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72-f/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-f-2003-315877
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63539a4117611d29ed0cc808e7308737bb4574c645e3b156d020e74c2df03ce8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db3789e5c933e7292c80792770f9a7f61f6f5c023727cfb107899e03a9c98451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Aproximação das Legislações
-- Avicultura
-- Multa
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
-- Controlo Sanitário
-- Fiscalização
 - Ave de Capoeira
+- Avicultura
+- Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Fiscalização
+- Multa
 - OVO
+- Produção Animal
 relationships:
 - type: cites
   target: celex:31988L0166
@@ -104,15 +104,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2002/4/oj
 article_structure:
-  article_count: 16
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:17Z'
   warnings: []
   errors: []
 ---
@@ -303,17 +303,19 @@ São revogados os Decretos-Leis n.os 406/89, de 16 de Novembro, e 49/96, de 15 d
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto - Isaltino Afonso de Morais.
 
-**Promulgado em 10 de Abril de 2003.**
+Promulgado em 10 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 2003.**
+Referendado em 14 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 ###### Artigo 1.º — Exigências gerais
 
@@ -345,7 +347,9 @@ Visto e aprovado em Conselho de Ministros de 13 de Março de 2003. - José Manue
 
 ### CAPÍTULO II — Sistemas de produção
 
-#### SECÇÃO A — Artigo 2.º
+#### SECÇÃO A
+
+###### Artigo 2.º
 
 Dispositivos aplicáveis a sistemas alternativos
 
@@ -383,7 +387,9 @@ b) Um espaço exterior que, para evitar contaminações, deve estar adaptado à 
 
 c) Abrigos exteriores contra as intempéries e os predadores e, se necessário, bebedouros adequados.
 
-#### SECÇÃO B — Artigo 3.º
+#### SECÇÃO B
+
+###### Artigo 3.º
 
 Gaiolas não melhoradas
 
@@ -401,7 +407,9 @@ e) Pavimento construído de modo a suportar de forma adequada cada uma das garra
 
 2 - Para além das condições referidas no número anterior, as gaiolas não melhoradas devem dispor também de dispositivos adequados para desgastar as garras.
 
-#### SECÇÃO C — Artigo 4.º
+#### SECÇÃO C
+
+###### Artigo 4.º
 
 Gaiolas melhoradas
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/159/1996/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1996-241639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e0016e3de66e3a3a133e3734182bef64441098690d3a41aa7b8532e38479723
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8810cf87ef46b4a4dbc3525e20141538acd52e4edad4c43fe8551a5c06e22f60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Administração Pública
-- Pessoal Operário
-- Pessoal Auxiliar
-- Regime Jurídico
 - Duração do Trabalho
-- Horário de Trabalho
+- Função Pública
 - Funcionário Público
+- Horário de Trabalho
+- Pessoal Auxiliar
+- Pessoal Operário
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:437237:por
@@ -82,16 +82,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:374243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437237:por
+  label: "Revogado o Dec Lei 187/88 de 27-Mai, na redacção do presente diploma, pelo DEC LEI.259/98.18.08.1998.PCM, DR.IS-A\
+    \ [189] de 18.08.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-1998-437237
+  date: '1998-08-18'
 article_structure:
-  article_count: 12
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:32Z'
   warnings: []
   errors: []
 ---
@@ -124,13 +138,17 @@ Os artigos 2.º, 4.º, 12.º, 13.º e 15.º do [Decreto-Lei n.º 187/88](https:/
 
 2 - O disposto no número anterior não prejudica a existência de horários de duração semanal inferior que já venham sendo praticados.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - É de sete horas o limite máximo do período normal de trabalho diário.
 
 2 - O limite previsto no número precedente não é aplicável no caso de horários flexíveis.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Horário rígido é aquele que, exigindo o cumprimento da duração semanal de trabalho, se reparte por dois períodos diários, com horas de entrada e de saída fixas, separadas por um intervalo de descanso.
 
@@ -150,7 +168,9 @@ Período da tarde - das 14 horas às 17 horas e 30 minutos, de segunda-feira a s
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -172,7 +192,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -240,16 +262,16 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Fraco - José Augusto de Carvalho - Maria João Fernandes Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Agosto de 1996.**
+Referendado em 21 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf))](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf)
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf))](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/205a00/29512953.pdf)

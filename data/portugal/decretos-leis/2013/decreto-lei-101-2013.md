@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2013/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2013-498751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16e224213d02d780a4b28f9a34de9698982f5fcf21e68d332240a8202c808ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bcc7eb6ec70910f8d412b6fa38d4508139738fc901562027b9814351726cc24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Marítimo-Turística
 - CAÇA Submarina
+- Comércio
 - Definição de Competências
 - Fiscalização
-- Licenciamento
 - Licença de Pesca
-- Recursos do Mar
+- Licenciamento
 - Pesca Desportiva
-- Actividade Marítimo-Turística
+- Recursos do Mar
 - Regime Jurídico
 - Taxa
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
@@ -118,16 +118,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: pt:dre:196969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693214:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 35
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:20Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +234,9 @@ Os artigos 1.º, 2.º, 4.º, 7.º, 9.º, 10.º, 11.º, 12.º, 12.º-A, 13.º, 13
 
 O presente diploma estabelece o quadro legal aplicável à pesca lúdica, quando praticada em águas oceânicas, em águas interiores marítimas ou em águas interiores não marítimas sob jurisdição da autoridade marítima, definidas nos termos do artigo 2.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de julho, na redação que lhe foi dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de maio.
 
-###### Artigo 2.º — Conceito
+Artigo 2.º
+
+Conceito
 
 Para efeitos do presente decreto-lei entende-se por pesca lúdica a captura de espécies marinhas, vegetais ou animais, sem fins comerciais ou científicos, através de uma das seguintes formas de exercício:
 
@@ -176,7 +246,9 @@ b) Pesca desportiva, cuja prática visa a obtenção de marcas desportivas em co
 
 c) Pesca turística, exercida nos termos do Regulamento da Atividade Marítimo-Turística, aprovado pelo [Decreto-Lei n.º 21/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2002-276448), de 31 de janeiro, alterado pelos Decretos-Leis n.os [178/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2002-196969), de 31 de julho, [269/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2003-466833), de 28 de outubro, [289/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2007-636971), 17 de agosto, e [108/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), de 15 de maio, bem como do regime jurídico da atividade das empresas de animação turística e dos operadores marítimo-turísticos, aprovado pelo [Decreto-Lei n.º 108/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2009-608703), de 15 de maio, alterado pelo [Decreto-Lei n.º 95/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2013-498127), de 19 de julho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As competições de pesca desportiva designadas como campeonatos ou de que resulte atribuição de títulos de campeão nacional, regional ou outros, bem como a constituição ou a utilização da designação de seleções nacionais, apenas podem ser organizadas por federações desportivas com estatuto de utilidade pública desportiva.
 
@@ -188,11 +260,15 @@ c) Pesca turística, exercida nos termos do Regulamento da Atividade Marítimo-T
 
 5 - No exercício da pesca desportiva podem ser utilizadas embarcações registadas na pesca nas condições a definir na portaria a que se refere o artigo 10.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 É proibido expor para venda, colocar à venda ou vender espécimes marinhos, animais ou vegetais, ou suas partes capturados na pesca lúdica.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo da legislação específica mais restritiva aplicável, a pesca lúdica apeada e a pesca lúdica embarcada só podem ser exercidas com linhas, não podendo cada praticante operar com mais de três linhas e mais de nove anzóis, e com os utensílios e artes de pesca apeada que forem identificados na portaria a que se refere o artigo 10.º
 
@@ -204,7 +280,9 @@ c) Pesca turística, exercida nos termos do Regulamento da Atividade Marítimo-T
 
 5 - Não é considerada lúdica a pesca exercida com outras artes que não as referidas nos n.os 1 e 3.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Tendo por objetivo a conservação e gestão racional dos recursos, os membros do Governo responsáveis pelas áreas da defesa, do desporto, da economia, das pescas, do mar e do ambiente estabelecem por portaria o regime do exercício da pesca lúdica, definindo os condicionamentos a que o mesmo fica sujeito, no que se refere a:
 
@@ -228,13 +306,17 @@ i) ...
 
 j) Medidas específicas relativas ao exercício da pesca lúdica em áreas protegidas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - As interdições ou restrições previstas no número anterior são estabelecidas por despacho do membro do Governo responsável pela área das pescas e dos demais membros do Governo competentes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O exercício da pesca lúdica está sujeito a licenciamento, nos termos do presente diploma e seus regulamentos.
 
@@ -260,7 +342,9 @@ d) Pesca lúdica geral, que abrange todas a licenças previstas nas alíneas ant
 
 5 - As licenças são emitidas pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - A emissão das licenças está sujeita ao pagamento de uma taxa, cujo montante é fixado pela portaria a que se refere o artigo 10.º
 
@@ -274,7 +358,9 @@ c) 10 % para o Fundo para a Conservação da Natureza e da Biodiversidade, desti
 
 3 - A DGRM procede trimestralmente à transferência para os organismos envolvidos dos montantes referidos no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A coordenação da vigilância, fiscalização e controlo das atividades previstas no presente diploma e respetiva legislação complementar compete à DGRM, enquanto autoridade nacional de pesca na área da inspeção.
 
@@ -282,13 +368,17 @@ c) 10 % para o Fundo para a Conservação da Natureza e da Biodiversidade, desti
 
 3 - ...
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - A DGRM, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos ministérios das áreas da defesa nacional, da administração interna, do desporto, da economia, das pescas, do mar, e do ambiente, um plano anual de vigilância, fiscalização e controlo da atividade da pesca lúdica, que define os objetivos a atingir e os correspondentes meios humanos e materiais afetos às ações a empreender no respetivo período.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contraordenação punível com coima no montante mínimo de 200,00 EUR e no montante máximo de 2 000,00 EUR ou mínimo de 500,00 EUR e máximo de 20 000,00 EUR, consoante o agente seja pessoa singular ou coletiva, a prática das seguintes infrações:
 
@@ -356,7 +446,9 @@ k) Não disponibilizar a informação de registo de esforço de pesca e capturas
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -388,7 +480,9 @@ c) Princípio da participação, salvaguardando a intervenção do público, das
 
 d) Princípio da responsabilização, visando o reforço dos conhecimentos dos praticantes da pesca lúdica sobre o ambiente marinho onde se insere a atividade, os impactos ambientais da mesma e os cuidados acrescidos a observar em áreas de maior sensibilidade ecológica.
 
-###### Artigo 2.º-A — Modalidades de pesca lúdica
+Artigo 2.º-A
+
+Modalidades de pesca lúdica
 
 1 - A pesca lúdica pode revestir as seguintes modalidades:
 
@@ -402,7 +496,9 @@ d) Pesca submarina, que se exerce em flutuação ou em submersão na água em ap
 
 2 - A apanha feita com utilização de utensílios de captura, que são definidos em portaria, enquadra-se na modalidade correspondente ao meio em que é praticada.
 
-###### Artigo 12.º-B — Disponibilização de dados
+Artigo 12.º-B
+
+Disponibilização de dados
 
 1 - Com a finalidade de caracterizar e monitorizar a atividade da pesca lúdica deve ser disponibilizada à DGRM, de acordo com os procedimentos a definir por esta, a seguinte informação:
 
@@ -432,15 +528,15 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 16 de julho de 2013.**
+Promulgado em 16 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de julho de 2013.**
+Referendado em 18 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23848-1969-527178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cc21e9eba9d62619a32889fda802b6d1c1fce089bb1ae8385b4efa097405864
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e88db4637c9bd502b6cfd7ebfb2fa5f60771b1c5451ea0ac25829f82594e9bb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:46Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +111,11 @@ a) Um da importância de 392500$00 destinado a reforçar, com as quantias que se
 
 Despesas com o material:
 
-###### Artigo 7.º, n.º 6) «Material de consumo corrente - Diversos não especificados, incluindo desenho, fotografia e filmagem de assuntos científicos ... 3500$00
+Artigo 7.º, n.º 6) «Material de consumo corrente - Diversos não especificados, incluindo desenho, fotografia e filmagem de assuntos científicos ... 3500$00
 
 Pagamento de serviços
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»
+Artigo 8.º «Despesas de higiene, saúde e conforto»
 
 N.º 2) «Dietas, combustível e utensílios de cozinha» ... 110000$00
 
@@ -113,11 +129,11 @@ N.º 5) «Consultas, exames e tratamentos especiais a fazer fora do Hospital por
 
 tomando como contrapartida igual importância a sair das disponibilidades existentes nas seguintes verbas da referida tabela de despesa:
 
-### CAPÍTULO ÚNICO
+CAPÍTULO ÚNICO
 
 Despesas com o pessoal:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 194000$00
 
@@ -127,9 +143,9 @@ N.º 3) «Pessoal assalariado» ... 6000$00
 
 N.º 5) «Eventual (pessoal dos serviços de enfermagem, de laboratórios e gerais)» ... 10000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 4000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações - Remunerações ao pessoal coadjuvante pelos serviços extraordinários prestados fora das horas regulamentares» ... 4000$00
 
-###### Artigo 3.º «Outras despesas com o pessoal»:
+Artigo 3.º «Outras despesas com o pessoal»:
 
 N.º 1) «Encargos com o subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 95000$00
 
@@ -137,49 +153,51 @@ N.º 4) «Ajudas de custo» ... 2000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de semoventes - Viatura automóvel» ... 12500$00
+Artigo 5.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de semoventes - Viatura automóvel» ... 12500$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Bandeiras e distintivos» ... 500$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Bandeiras e distintivos» ... 500$00
 
 Diversos encargos
 
-###### Artigo 10.º, n.º 4) «Encargos administrativos - Para pagamento de despesas com assistência clínica, hospitalização, medicamentos, tratamentos, aparelhos de prótese e ortopedia e meios ou agentes terapêuticos, transporte e, bem assim, funerais, nos termos da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936, e mais legislação relativa a acidentes de servidores do Estado, e dos Decretos-Leis n.os 38523 e 39727» ... 1500$00
+Artigo 10.º, n.º 4) «Encargos administrativos - Para pagamento de despesas com assistência clínica, hospitalização, medicamentos, tratamentos, aparelhos de prótese e ortopedia e meios ou agentes terapêuticos, transporte e, bem assim, funerais, nos termos da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936, e mais legislação relativa a acidentes de servidores do Estado, e dos Decretos-Leis n.os 38523 e 39727» ... 1500$00
 
-###### Artigo 11.º «Abono de família» ... 2000$00
+Artigo 11.º «Abono de família» ... 2000$00
 
-###### Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 21000$00
+Artigo 13.º «Despesas com trabalhos de investigação, congressos e exposições» ... 21000$00
 
 ... 392500$00
 
 b) Um da importância de 265246$00 destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa do orçamento privativo da Agência-Geral do Ultramar para o ano económico de 1968:
 
-### CAPÍTULO ÚNICO — Serviço da Agência
+CAPÍTULO ÚNICO
+
+Serviço da Agência
 
 Despesas com o material:
 
-###### Artigo 5.º «Despesas de conservação e aproveitamento do material»:
+Artigo 5.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea a) «De imóveis - Conservação e reparações nos imóveis das províncias ultramarinas sitos na metrópole» ... 15000$00
 
 N.º 3), alínea a) «De semoventes - Viaturas com motor» ... 30000$00
 
-###### Artigo 6.º, n.º 3) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 45000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 45000$00
 
 Pagamento de serviços:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 25000$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, água, aquecimento, lavagem, limpeza e outras despesas» ... 25000$00
 
-###### Artigo 8.º «Despesas de comunicações»:
+Artigo 8.º «Despesas de comunicações»:
 
 N.º 1) «Portes de correio, encomendas postais, telégrafo e endereço telegráfico» ... 15000$00
 
 N.º 3) «Transportes, despachos, fretes e seguros» ... 30000$00
 
-###### Artigo 9.º, n.º 2), alínea e) «Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 100000$00
+Artigo 9.º, n.º 2), alínea e) «Diversos serviços - Propaganda - Outros serviços de propaganda que forem determinados pelo Ministro» ... 100000$00
 
 Diversos encargos:
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Despesas com o armazém, incluindo o pagamento a pessoal assalariado eventual» ... 5246$00
+Artigo 11.º, n.º 1) «Outros encargos - Despesas com o armazém, incluindo o pagamento a pessoal assalariado eventual» ... 5246$00
 
 ... 265246$00
 

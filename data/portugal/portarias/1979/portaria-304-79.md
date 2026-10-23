@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/304-1979-381278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9ce254311e60f4d58b9d2341e215cb28b76d64be3e5ec1b8da4b9a149257d63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d19e4ad936e9c4e0cf298cfabc32ffde4c8e79b184cea9efbb05ec6a76ecda1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pensão de Invalidez
+- Pensão de Velhice
+- Proteção Social
+- Trabalhador Rural
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:55:23Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +96,12 @@ Embora se reconheça que os aumentos determinados pelo presente diploma não sã
 
 Assim, nos termos do n.º 2 do artigo 13.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais:
 
-###### Artigo 1.º - 1 - São elevados para 1350$00 os quantitativos mensais das pensões de invalidez e velhice a que se referem os n.os 2, 3, 5 e 6 do artigo 2.º do Decreto-Lei n.º 174-B/75, de 1 de Abril.
+Artigo 1.º - 1 - São elevados para 1350$00 os quantitativos mensais das pensões de invalidez e velhice a que se referem os n.os 2, 3, 5 e 6 do artigo 2.º do Decreto-Lei n.º 174-B/75, de 1 de Abril.
 
 2 - É elevado para 810$00 o quantitativo mensal das pensões de sobrevivência atribuídas ao abrigo do disposto no n.º 5 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril.
 
 3 - As pensões de sobrevivência atribuídas antes da entrada em vigor do presente diploma, ao abrigo dos n.os 1 e 2 do artigo 4.º do Decreto-Lei n.º 174-B/75, de 1 de Abril, são revistas tendo em conta a elevação da pensão base estabelecida no n.º 1.
 
-###### Art. 2.º Este diploma entra em vigor no dia 1 de Junho de 1979.
+Art. 2.º Este diploma entra em vigor no dia 1 de Junho de 1979.
 
 Ministério dos Assuntos Sociais, 11 de Junho de 1979. - O Ministro dos Assuntos Sociais, Acácio Manuel Pereira Magro.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25000/0032500326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2023-835864044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9ad14e4a57a8528c48f5f3359420b5dc641c12c45b512720473abacf2915cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a4da79dc808c2b922c7ba3a3dbb52d149efcf841cd34922ac8ca44d8f0344b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Equipamento Social
+- Instituto da Segurança Social
+- Plano de Recuperação e Resiliência
 - Política Social
 - Programa de Alargamento da Rede de Equipamentos Sociais
-- Plano de Recuperação e Resiliência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2021/12/31/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2011/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2011/09/28/p/dre
+- type: cites
+  target: pt:dre:176907514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:12Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +153,9 @@ Os artigos 11.º, 18.º-A e 19.º-A do [Decreto-Lei n.º 64/2007](https://diario
 
 4 - Os equipamentos sociais financiados no âmbito dos PRR e PARES podem entrar em funcionamento com a emissão da autorização de utilização e consideram-se concluídos designadamente para celebração de acordos de cooperação.
 
-###### Artigo 18.º-A — [...]
+Artigo 18.º-A
+
+[...]
 
 1 - No procedimento de autorização prévia com prazo, ao abrigo da alínea b) do artigo 15.º-A, a resposta social apenas pode entrar em funcionamento uma vez decorrido o prazo de 30 dias para eventual oposição do ISS, I. P.
 
@@ -151,7 +169,9 @@ Os artigos 11.º, 18.º-A e 19.º-A do [Decreto-Lei n.º 64/2007](https://diario
 
 6 - Inexistindo oposição do ISS, I. P., no prazo concedido para o efeito, a resposta social pode entrar em funcionamento, devendo ser emitido o título previsto no artigo 18.º, no prazo referido no n.º 1.
 
-###### Artigo 19.º-A — Alterações
+Artigo 19.º-A
+
+Alterações
 
 1 - Os proprietários ou titulares dos estabelecimentos devem comunicar ao ISS, I. P., as alterações relativas aos elementos da autorização previstos nas alíneas a), c) e e) do n.º 1 do artigo 18.º no prazo máximo de 30 dias.
 
@@ -167,12 +187,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 20 de dezembro de 2023.**
+Promulgado em 20 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2023.**
+Referendado em 21 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117193606

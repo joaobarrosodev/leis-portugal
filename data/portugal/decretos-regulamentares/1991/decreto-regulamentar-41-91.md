@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/41/1991/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1991-674626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d9ae673618e3e54d89f7d4d7e2f7385052e756fe06ea8177a8ffb3f623a55ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b284e8fefa6109b4e481d4efcd6eba6412f8cedd748c023f08b53da79e34e02e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
 - Instituto de Defesa Nacional
+- Ministério da Defesa Nacional
 - Orgânica
 - Regulamento
 relationships:
@@ -74,16 +74,41 @@ relationships:
   target: pt:dre:489511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489511:por
+  label: "Revogado, a partir de 01.11.2009, pelo DR.22/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-2009-489511
+  date: '2009-09-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:04Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +129,9 @@ Ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 46/88](https://diario
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto da Defesa Nacional (IDN) faz parte integrante do Ministério da Defesa Nacional, dispõe de autonomia científica e pedagógica e é dotado de autonomia administrativa.
+Artigo 1.º O Instituto da Defesa Nacional (IDN) faz parte integrante do Ministério da Defesa Nacional, dispõe de autonomia científica e pedagógica e é dotado de autonomia administrativa.
 
-###### Art. 2.º - 1 - O IDN é responsável pelo estudo, investigação e divulgação dos problemas da defesa nacional, com vista ao exercício de actividades pedagógicas, de esclarecimento e de sensibilização.
+Art. 2.º - 1 - O IDN é responsável pelo estudo, investigação e divulgação dos problemas da defesa nacional, com vista ao exercício de actividades pedagógicas, de esclarecimento e de sensibilização.
 
 2 - Para efeitos do disposto no número anterior, constituem, entre outras, atribuições do IDN contribuir para:
 
@@ -122,11 +147,11 @@ d) O estudo e a investigação nos domínios da segurança e das relações inte
 
 ### CAPÍTULO II — Funcionamento
 
-###### Art. 3.º - 1 - O IDN organiza, a nível nacional ou regional, cursos de defesa nacional, ciclos de estudos, seminários e estágios, promove a execução de estudos e trabalhos de investigação e outras actividades no âmbito da defesa nacional, nomeadamente cursos e estágios conjuntos para oficiais superiores das Forças Armadas, contribuindo para a definição de uma doutrina militar conjunta, ouvido, neste último caso, o Conselho de Chefes de Estado-Maior, através do Ministro da Defesa Nacional.
+Art. 3.º - 1 - O IDN organiza, a nível nacional ou regional, cursos de defesa nacional, ciclos de estudos, seminários e estágios, promove a execução de estudos e trabalhos de investigação e outras actividades no âmbito da defesa nacional, nomeadamente cursos e estágios conjuntos para oficiais superiores das Forças Armadas, contribuindo para a definição de uma doutrina militar conjunta, ouvido, neste último caso, o Conselho de Chefes de Estado-Maior, através do Ministro da Defesa Nacional.
 
 2 - Os planos anuais e plurianuais de actividades e o orçamento do IDN são submetidos à aprovação do Ministro da Defesa Nacional.
 
-###### Art. 4.º - 1 - Os cursos, ciclos de estudos, seminários e estágios são frequentados por auditores de entre:
+Art. 4.º - 1 - Os cursos, ciclos de estudos, seminários e estágios são frequentados por auditores de entre:
 
 a) Magistrados, funcionários dos quadros superiores da Administração Pública, oficiais das Forças Armadas, da Guarda Nacional Republicana e da Guarda Fiscal e funcionários e agentes superiores das forças e serviços de segurança;
 
@@ -146,7 +171,7 @@ d) Cidadãos estrangeiros especialmente convidados.
 
 ### CAPÍTULO III — Assessores e colaboradores
 
-###### Art. 5.º - 1 - O IDN dispõe de assessores recrutados de entre individualidades, civis e militares, nacionais ou estrangeiras, de reconhecida competência, nomeados pelo Ministro da Defesa Nacional, sob proposta do director, ouvido o conselho pedagógico.
+Art. 5.º - 1 - O IDN dispõe de assessores recrutados de entre individualidades, civis e militares, nacionais ou estrangeiras, de reconhecida competência, nomeados pelo Ministro da Defesa Nacional, sob proposta do director, ouvido o conselho pedagógico.
 
 2 - Os assessores dependem do director do IDN, que os distribui de acordo com os planos de actividades, ouvido o conselho pedagógico.
 
@@ -176,7 +201,7 @@ e) Colaborar nas actividades de programação do IDN.
 
 ##### SUBSECÇÃO I — Órgãos em geral
 
-###### Art. 6.º São órgãos do IDN:
+Art. 6.º São órgãos do IDN:
 
 a) O conselho geral;
 
@@ -188,7 +213,7 @@ d) O conselho administrativo.
 
 ##### SUBSECÇÃO II — Conselho geral
 
-###### Art. 7.º - 1 - O conselho geral é presidido pelo Ministro da Defesa Nacional ou pelo membro de Governo em quem este delegar e tem a seguinte composição:
+Art. 7.º - 1 - O conselho geral é presidido pelo Ministro da Defesa Nacional ou pelo membro de Governo em quem este delegar e tem a seguinte composição:
 
 a) Presidente;
 
@@ -200,13 +225,13 @@ d) 10 personalidades de reconhecido prestígio na vida nacional, ao nível das F
 
 2 - A designação das personalidades mencionadas na alínea d) do número anterior é estabelecida trienalmente por despacho do Ministro da Defesa Nacional.
 
-###### Art. 8.º - 1 - Compete ao conselho geral pronunciar-se sobre as linhas gerais de actuação do IDN, formulando as sugestões e orientações que tiver por adequadas.
+Art. 8.º - 1 - Compete ao conselho geral pronunciar-se sobre as linhas gerais de actuação do IDN, formulando as sugestões e orientações que tiver por adequadas.
 
 2 - O conselho geral reúne ordinariamente duas vezes por ano, podendo reunir extraordinariamente sempre que para o efeito seja convocado pelo Ministro da Defesa Nacional.
 
 ##### SUBSECÇÃO III — Direcção
 
-###### Art. 9.º - 1 - O IDN é dirigido por um director, equiparado a director-geral.
+Art. 9.º - 1 - O IDN é dirigido por um director, equiparado a director-geral.
 
 2 - O director é coadjuvado e substituído nas suas ausências e impedimentos por um subdirector, equiparado a subdirector-geral.
 
@@ -216,7 +241,7 @@ d) 10 personalidades de reconhecido prestígio na vida nacional, ao nível das F
 
 5 - A direcção é apoiada por um gabinete que executa as tarefas de apoio necessárias ao exercício das funções de director e de subdirector.
 
-###### Art. 10.º - 1 - O director do IDN depende directamente do Ministro da Defesa Nacional.
+Art. 10.º - 1 - O director do IDN depende directamente do Ministro da Defesa Nacional.
 
 2 - Constituem competências do director dirigir e coordenar as actividades do IDN, competindo-lhe, nomeadamente:
 
@@ -230,7 +255,7 @@ d) Executar as deliberações do conselho geral e do conselho pedagógico.
 
 ##### SUBSECÇÃO IV — Conselho pedagógico
 
-###### Art. 11.º - 1 - O conselho pedagógico tem a seguinte composição:
+Art. 11.º - 1 - O conselho pedagógico tem a seguinte composição:
 
 a) O director do IDN, que preside;
 
@@ -248,9 +273,9 @@ d) Três vogais.
 
 5 - Das reuniões do conselho pedagógico são lavradas actas.
 
-###### Art. 12.º Os vogais do conselho pedagógico são nomeados pelo Ministro da Defesa Nacional, por um período de três anos, prorrogável, sob proposta do director do IDN, de entre personalidades de reconhecida experiência e mérito, os quais exercerão os cargos em regime de tempo parcial.
+Art. 12.º Os vogais do conselho pedagógico são nomeados pelo Ministro da Defesa Nacional, por um período de três anos, prorrogável, sob proposta do director do IDN, de entre personalidades de reconhecida experiência e mérito, os quais exercerão os cargos em regime de tempo parcial.
 
-###### Art. 13.º Compete ao conselho pedagógico, como órgão de consulta do director, tomando em consideração as sugestões e recomendações do conselho geral:
+Art. 13.º Compete ao conselho pedagógico, como órgão de consulta do director, tomando em consideração as sugestões e recomendações do conselho geral:
 
 a) Apoiar o director, deliberando sobre as questões de natureza pedagógica, cultural e científica que por ele lhe forem colocadas;
 
@@ -262,9 +287,9 @@ d) Dar parecer sobre as propostas de nomeação de assessores.
 
 ##### SUBSECÇÃO V — Conselho administrativo
 
-###### Art. 14.º O conselho administrativo é presidido pelo director do IDN e dele fazem parte o subdirector e o director de Serviços Administrativos e Financeiros.
+Art. 14.º O conselho administrativo é presidido pelo director do IDN e dele fazem parte o subdirector e o director de Serviços Administrativos e Financeiros.
 
-###### Art. 15.º As atribuições do conselho administrativo são de natureza administrativa, financeira e patrimonial, incumbindo-lhe, nomeadamente:
+Art. 15.º As atribuições do conselho administrativo são de natureza administrativa, financeira e patrimonial, incumbindo-lhe, nomeadamente:
 
 a) Promover e orientar a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -278,7 +303,7 @@ e) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a e
 
 f) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo director.
 
-###### Art. 16.º - 1 - O conselho administrativo reúne ordinariamente uma vez por mês e sempre que for convocado pelo director do IDN.
+Art. 16.º - 1 - O conselho administrativo reúne ordinariamente uma vez por mês e sempre que for convocado pelo director do IDN.
 
 2 - De cada reunião é elaborada acta, assinada pelo presidente e pelos demais membros presentes.
 
@@ -290,7 +315,7 @@ f) Pronunciar-se sobre qualquer assunto que lhe seja submetido pelo director.
 
 ##### SUBSECÇÃO I — Serviços em geral
 
-###### Art. 17.º - 1 - O IDN compreende os serviços centrais e regionais.
+Art. 17.º - 1 - O IDN compreende os serviços centrais e regionais.
 
 2 - São serviços centrais:
 
@@ -308,7 +333,7 @@ e) Gabinete de Informação e Relações Públicas.
 
 ##### SUBSECÇÃO II — Departamento de Estudos e Planeamento
 
-###### Art. 18.º - 1 - Ao Departamento de Estudos e Planeamento compete, nomeadamente:
+Art. 18.º - 1 - Ao Departamento de Estudos e Planeamento compete, nomeadamente:
 
 a) Elaborar os projectos anuais e plurianuais das actividades do IDN;
 
@@ -338,7 +363,7 @@ b) Divisão de Planeamento (DPL).
 
 ##### SUBSECÇÃO III — Departamento de Investigação de Defesa
 
-###### Art. 19.º - 1 - Ao Departamento de Investigação de Defesa (DID) compete, nomeadamente:
+Art. 19.º - 1 - Ao Departamento de Investigação de Defesa (DID) compete, nomeadamente:
 
 a) Desenvolver projectos de investigação aplicados aos grandes problemas da defesa nacional, contribuindo para uma definição da doutrina nacional;
 
@@ -370,7 +395,7 @@ b) Centro de Dados de Defesa (CDD).
 
 ##### SUBSECÇÃO IV — Direcção de Serviços Administrativos e Financeiros
 
-###### Art. 20.º - 1 - À Direcção de Serviços Administrativos e Financeiros (DSAF) compete garantir o apoio geral de serviços indispensáveis ao normal funcionamento das actividades do IDN, prestando o apoio burocrático e administrativo, assegurando a gestão financeira e patrimonial, a administração do pessoal, a segurança e conservação das instalações.
+Art. 20.º - 1 - À Direcção de Serviços Administrativos e Financeiros (DSAF) compete garantir o apoio geral de serviços indispensáveis ao normal funcionamento das actividades do IDN, prestando o apoio burocrático e administrativo, assegurando a gestão financeira e patrimonial, a administração do pessoal, a segurança e conservação das instalações.
 
 2 - A DSAF compreende:
 
@@ -380,7 +405,7 @@ b) Repartição Financeira.
 
 3 - A DSAF é dirigida por um director, equiparado a director de serviços.
 
-###### Art. 21.º - 1 - À Repartição de Administração Geral (RAG) compete, nomeadamente:
+Art. 21.º - 1 - À Repartição de Administração Geral (RAG) compete, nomeadamente:
 
 a) Assegurar, em colaboração com os demais serviços, a gestão dos recursos humanos do IDN;
 
@@ -416,7 +441,7 @@ d) Secção de Reprografia.
 
 6 - À Secção de Reprografia competem as atribuições referidas nas alíneas g) do n.º 1 do presente artigo.
 
-###### Art. 22.º - 1 - Compete à Repartição Financeira (RF):
+Art. 22.º - 1 - Compete à Repartição Financeira (RF):
 
 a) Assegurar, em colaboração com os demais serviços, a gestão e controlo dos recursos financeiros do IDN;
 
@@ -450,7 +475,7 @@ c) Tesouraria.
 
 ##### SUBSECÇÃO V — Centro de Documentação
 
-###### Art. 23.º - 1 - Ao Centro de Documentação, em colaboração com os demais serviços, compete, designadamente:
+Art. 23.º - 1 - Ao Centro de Documentação, em colaboração com os demais serviços, compete, designadamente:
 
 a) Coordenar e orientar a produção, recolha, difusão e arquivo das publicações e outro material de apoio às actividades formativas e de divulgação das grandes questões da problemática da defesa nacional promovidas pelo IDN;
 
@@ -468,7 +493,7 @@ e) Assegurar o funcionamento da biblioteca.
 
 ##### SUBSECÇÃO VI — Gabinete de Informação e Relações Públicas
 
-###### Art. 24.º - 1 - Ao Gabinete de Informação e Relações Públicas (GIRP) compete, em colaboração com os demais serviços, nomeadamente:
+Art. 24.º - 1 - Ao Gabinete de Informação e Relações Públicas (GIRP) compete, em colaboração com os demais serviços, nomeadamente:
 
 a) Programar e realizar acções de relações públicas e de divulgação das actividades do IDN;
 
@@ -480,11 +505,11 @@ c) Prestar apoio aos vários órgãos e serviços no âmbito das suas actividade
 
 ##### SUBSECÇÃO VI — Delegações regionais
 
-###### Art. 25.º Para a consecução das atribuições do IDN podem ser criadas delegações regionais do IDN, através de portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+Art. 25.º Para a consecução das atribuições do IDN podem ser criadas delegações regionais do IDN, através de portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 26.º - 1 - O quadro próprio do pessoal do IDN é o constante do anexo I ao presente diploma, do qual faz parte integrante.
+Art. 26.º - 1 - O quadro próprio do pessoal do IDN é o constante do anexo I ao presente diploma, do qual faz parte integrante.
 
 2 - As escalas salariais das carreiras e categorias do anexo I ao presente diploma são as constantes do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
@@ -492,9 +517,9 @@ c) Prestar apoio aos vários órgãos e serviços no âmbito das suas actividade
 
 4 - O quadro do pessoal próprio das delegações regionais a criar nos termos do artigo anterior consta da portaria aí referida.
 
-###### Art. 27.º Ao pessoal civil e militar do IDN aplica-se o disposto no presente diploma, no [Decreto-Lei n.º 46/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1988-283165), de 11 de Fevereiro, e, consoante os casos, nas leis gerais da função pública e na legislação específica aplicável aos militares, devendo, neste caso, o director do IDN prestar aos estados-maiores dos ramos das Forças Armadas todas as informações necessárias à aferição da disciplina e do mérito militar.
+Art. 27.º Ao pessoal civil e militar do IDN aplica-se o disposto no presente diploma, no [Decreto-Lei n.º 46/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1988-283165), de 11 de Fevereiro, e, consoante os casos, nas leis gerais da função pública e na legislação específica aplicável aos militares, devendo, neste caso, o director do IDN prestar aos estados-maiores dos ramos das Forças Armadas todas as informações necessárias à aferição da disciplina e do mérito militar.
 
-###### Art. 28.º - 1 - Ao director do IDN pode ser atribuído um suplemento para despesas de representação, de montante a fixar por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
+Art. 28.º - 1 - Ao director do IDN pode ser atribuído um suplemento para despesas de representação, de montante a fixar por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
 2 - Aos vogais do conselho geral e do conselho pedagógico é atribuído um suplemento pela participação em reuniões, de montante a fixar por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.
 
@@ -506,20 +531,20 @@ Presidência do Conselho de Ministros, 15 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 4 de Julho de 1991.**
+Promulgado em 4 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Julho de 1991.**
+Referendado em 8 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro próprio do IDN
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf))](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf)
 
 ## ANEXO II — Conteúdo funcional da carreira de desenhador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf))](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/187b00/41714178.pdf)

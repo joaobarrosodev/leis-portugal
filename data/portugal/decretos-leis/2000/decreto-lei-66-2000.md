@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2000/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2000-521599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4bbb224b0c7e3a02d43f2eb4afa6d0f06f459fd665ed73b425b320269bf6bb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0672a9e603bdab7b63eb6d1f14bec41aa942c5156e66fe1022016fd7a1d0777
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
-- Ministério da Educação
+- Ensino Básico
+- Estabelecimento de Ensino
+- Funcionário Público
 - Habilitações Literárias
 - Integração de Trabalhadores
-- Pessoal Técnico Profissional
-- Estabelecimento de Ensino
+- Ministério da Educação
 - Pessoal Docente
-- Ensino Básico
+- Pessoal Técnico Profissional
 - Quadro de Pessoal
 - Remuneração
-- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:349286:por
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:202779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:48Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +142,15 @@ Objecto
 
 Os docentes a que se refere o artigo anterior são integrados em quadro de escola dos 2.º e 3.º ciclos do ensino básico ou do ensino secundário ou, em alternativa, na carreira técnico-profissional, de acordo com o disposto no presente diploma.
 
-###### Artigo 3.º — Integração em quadros de escola
+Artigo 3.º
+
+Integração em quadros de escola
 
 Os docentes a que se refere o artigo 1.º ficam vinculados ao quadro da escola onde se encontram a exercer funções, em lugar a criar e a extinguir quando vagar.
 
-###### Artigo 4.º — Habilitação profissional
+Artigo 4.º
+
+Habilitação profissional
 
 1 - ...
 
@@ -162,11 +178,15 @@ b) Do curso de qualificação em Ciências da Educação ministrado através da 
 
 c) De um curso de ciências pedagógicas realizado em instituição de ensino superior.
 
-###### Artigo 5.º — Concurso
+Artigo 5.º
+
+Concurso
 
 A apresentação à primeira parte do concurso regulado pelo [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, dos docentes que ocupam lugares do quadro nos termos do artigo 3.º depende da titularidade de habilitação profissional ou de habilitação própria, para efeitos de profissionalização.
 
-###### Artigo 6.º — Integração na carreira técnico-profissional
+Artigo 6.º
+
+Integração na carreira técnico-profissional
 
 1 - Os docentes não abrangidos pelo disposto nos artigos 3.º e 4.º deste diploma são integrados na carreira técnico-profissional e na categoria de técnico profissional especialista.
 
@@ -188,12 +208,12 @@ As alterações constantes do presente diploma produzem os seus efeitos a 1 de S
 
 Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Guilherme d'Oliveira Martins - Alberto de Sousa Martins.
 
-**Promulgado em 7 de Abril de 2000.**
+Promulgado em 7 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Abril de 2000.**
+Referendado em 13 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

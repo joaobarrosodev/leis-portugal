@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/04/08300/0147701485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2010/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2010-614173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee30075fa9429a4918409bd2407fc0ef1e95d17de4cc4229c67b1df51e3d5a1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 991ea9c59c5fe3fdd13290df39a9f5aad5a5bac2974b596c0f54911c09d4baaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Noroeste
+- Abastecimento de Água
+- Águas do Noroeste
 - Amarante
 - Amares
 - Arcos de Valdevez
@@ -78,7 +79,6 @@ subjects:
 - Caminha
 - Capital Social
 - Celorico de Basto
-- Saneamento Básico
 - Conselho de Administração
 - Conselho Fiscal
 - Constituição de Sociedade
@@ -95,28 +95,28 @@ subjects:
 - Monção
 - Mondim de Basto
 - Paredes de Coura
-- VALE do AVE
-- VILA do Conde
 - Ponte da Barca
 - Ponte de LIMA
-- Sistema Multimunicipal de Captação Tratamento e Abastecimento de Águas do Norte da ÁREA do Grande Porto
 - Póvoa de Lanhoso
 - Póvoa de Varzim
 - Revisor Oficial de Contas
-- Sistema Multimunicipal de Abastecimento de ÁGUA e Saneamento do VALE do AVE
+- Saneamento Básico
 - Santo Tirso
 - Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Minho-lima
-- Abastecimento de Água
+- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Noroeste
+- Sistema Multimunicipal de Abastecimento de ÁGUA e Saneamento do VALE do AVE
+- Sistema Multimunicipal de Captação Tratamento e Abastecimento de Águas do Norte da ÁREA do Grande Porto
 - Terras de Bouro
 - Trofa
+- VALE do AVE
 - Valença
 - Viana do Castelo
 - Vieira do Minho
+- VILA do Conde
 - VILA NOVA de Cerveira
 - VILA NOVA de Famalicão
 - VILA Verde
 - Vizela
-- Águas do Noroeste
 relationships:
 - type: amended_by
   target: pt:dre:67348946:por
@@ -162,16 +162,111 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:160348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498094:por
+  label: "Revogado o Dec Lei 379/93, de 05-nov, na redação do presente diploma, pelo DEC LEI.92/2013.11.07.2013.MAMAOT, DR.IS\
+    \ [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2013-498094
+  date: '2013-07-11'
+- type: repealed_by
+  target: pt:dre:67348946:por
+  label: Revogado, a partir de 30.06.2015, o presente diploma, pelo(a) Decreto-Lei n.º 93/2015 - Diário da República n.º 104/2015,
+    Série I de 2015-05-29; e extinto a partir de 30.06.2015, por agregação com o Sistema multimunicipal de captação, tratamento
+    e abastecimento de água do sul do Grande Porto, com o Sistema multimunicipal de abastecimento de água e de saneamento
+    de Trás-os-Montes e Alto Douro, e com o Sistema multimunicipal de saneamento do Grande Porto, o Sistema multimunicipal
+    de abastecimento de água e de saneamento do Noroeste; assim como é extinta, a partir da referida data, a sociedade Águas
+    do Noroeste, S.A., criada pelo presente diploma, nos termos do disposto, respetivamente, no n.º 2 do seu art. 2.º e nos
+    nºs 2 a 10 do seu art. 4.º do Dec Lei 93/2015; que determinou a transferência do património global da sociedade extinta
+    para a sociedade Águas do Norte, S.A. (criada pelo citado diploma), a qual sucede em todos os direitos e obrigações da
+    concessionária extinta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2015-67348946
+  date: '2015-05-29'
 article_structure:
   article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:02Z'
   warnings: []
   errors: []
 ---
@@ -472,15 +567,15 @@ São revogados os Decretos-Leis n.os [139/2000](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Alberto de Sousa Martins - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 19 de Abril de 2010.**
+Promulgado em 19 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de Abril de 2010.**
+Referendado em 21 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/129a00/33563361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2003/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2003-553420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb3df2e607c1d198a795157629c1fbeb6059e9942244e2199458db08ab42d68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d02cc7586014031abf216bb57698ab0c63e1efd932f4fb4cb25ed6adee5e38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
-- Ministério da Educação
-- Secretaria Geral
-- Ministério da Ciência e do Ensino Superior
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Integração de Trabalhadores
 - Ministério da Ciência e da Tecnologia
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:520989:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que Secretaria-Geral do Ministério da Ciência e do Ensino Superior, cuja orgânica foi aprovada no presente\
+    \ diploma, passe a denominar-se Secretaria-Geral do Ministério da Ciência, Inovação e Ensino Superior, e assuma no que\
+    \ se refere à coordenação e gestão orçamental do orçamento de funcionamento dos serviços do Ministério, as atribuições\
+    \ e competências do Gabinete de Gestão Financeira da Ciência e do Ensino Superior, cuja orgânica foi aprovada no Dec Lei\
+    \ 123/2003, de 18-Jun, pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:520989:por
+  label: "Determinado que a Secretaria-Geral do MCTES suceda nas atribuições da Secretaria-Geral do ex-Ministério da Ciência,\
+    \ Inovação e Ensino Superior, cuja orgânica foi aprovada pelo presente diploma que é revogado a partir de 01.05.2007,\
+    \ pelo DEC LEI.150/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2007-520989
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/185/1997/07/28/p/dre
   label: null
@@ -89,16 +105,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
+- type: cites
+  target: pt:dre:144597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:05Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +209,9 @@ a) A Divisão de Recursos Financeiros e Patrimoniais;
 
 b) A Divisão de Recursos Humanos e Formação Profissional.
 
-###### Artigo 7.º — Divisão de Recursos Financeiros e Patrimoniais
+###### Artigo 7.º
+
+##### Divisão de Recursos Financeiros e Patrimoniais
 
 1 - Compete à Divisão de Recursos Financeiros e Patrimoniais, na área do planeamento e organização, designadamente:
 
@@ -261,7 +287,9 @@ e) Preparar e executar os contratos de fornecimento de serviços, nomeadamente d
 
 f) Assegurar o serviço de comunicações, bem como a vigilância, a segurança e a limpeza das instalações afectas à Secretaria-Geral e aos gabinetes dos membros do Governo.
 
-###### Artigo 8.º — Divisão de Recursos Humanos e Formação Profissional
+###### Artigo 8.º
+
+##### Divisão de Recursos Humanos e Formação Profissional
 
 1 - Compete à Divisão de Recursos Humanos e Formação Profissional, na área da gestão e administração dos recursos humanos, designadamente:
 
@@ -313,7 +341,9 @@ a) A Divisão de Serviços Jurídicos;
 
 b) A Divisão de Contencioso Administrativo.
 
-###### Artigo 10.º — Divisão de Serviços Jurídicos
+###### Artigo 10.º
+
+##### Divisão de Serviços Jurídicos
 
 À Divisão de Serviços Jurídicos compete, designadamente:
 
@@ -335,7 +365,9 @@ h) Acompanhar as acções judiciais em que o Ministério seja parte, que não se
 
 i) Proceder ao registo dos estatutos das associações de estudantes do ensino superior.
 
-###### Artigo 11.º — Divisão de Contencioso Administrativo
+###### Artigo 11.º
+
+##### Divisão de Contencioso Administrativo
 
 À Divisão de Contencioso Administrativo compete, designadamente:
 
@@ -421,15 +453,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria.
 
-**Promulgado em 22 de Maio de 2003.**
+Promulgado em 22 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 2003.**
+Referendado em 26 de Maio de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 MAPA ANEXO
 

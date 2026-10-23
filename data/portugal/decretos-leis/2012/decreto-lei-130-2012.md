@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2012/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2012-178512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce2122a5cf1ab2c08deb321c76530f3deb9f72b73b1f02795f20e1346bd3a102
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657040f858b3f387d177eda9b442f5596831fe7bde6ce57087bcd878779e7521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,73 +67,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ARH
-- ARH do Algarve
+- Abastecimento de Água
+- Açores
 - ÁGUA Superficial
 - Águas Balneares
 - Águas Públicas
+- Águas Subterrâneas
+- Albufeiras
 - Análise Económica
 - Análise Laboratorial
-- Autoridade Nacional da ÁGUA
-- Instituto da ÁGUA
-- Comissão Coordenadora
-- Ordenamento do Território
-- Conselho de Bacia
-- Conselho de Região Hidrográfica
-- Contra-ordenação
-- Contrato de Concessão
-- Contrato Programa
-- Recursos Hídricos
-- Definição de Competências
-- Desenvolvimento Regional
-- Autoridade Marítima Nacional
-- Mar Territorial
-- Controlo Sanitário
-- Albufeiras
-- Barragem
-- Orla Costeira
-- Segurança Pública
-- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Expropriação
-- Fiscalização
-- Catástrofe
-- Informação
-- Lei de Bases
-- Direito à Informação
-- Licenciamento
-- SECA
+- ARH
 - ARH do Alentejo
+- ARH do Algarve
 - ARH do Centro
 - ARH do Norte
 - ARH do TEJO
+- Autoridade Marítima Nacional
+- Autoridade Nacional da ÁGUA
+- Bacia Hidrográfica
+- Barragem
+- Catástrofe
+- Cheias
+- Comissão Coordenadora
+- Conselho de Bacia
+- Conselho de Região Hidrográfica
 - Conselho Nacional da ÁGUA
-- Programa Nacional da Política de Ordenamento do Território
-- Proteção do Ambiente
+- Contra-ordenação
+- Contrato de Concessão
+- Contrato Programa
+- Controlo Sanitário
+- Definição de Competências
+- Desenvolvimento Regional
+- Direito à Informação
+- Domínio Público Hídrico
+- Expropriação
+- Fiscalização
+- Informação
+- Instituto da ÁGUA
+- Lei de Bases
+- Licenciamento
+- Madeira.região Autónoma
+- Mar Territorial
+- Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Bacia Hidrográfica
 - Plano de Ordenamento da Orla Costeira
-- Bacia Hidrográfica
-- Zona de Proteção
 - Plano de Ordenamento de Albufeiras de Águas Públicas
 - Plano de Ordenamento dos Estuarios
 - Plano Nacional da ÁGUA
 - Poluição da água
 - Preço
-- Madeira.região Autónoma
-- Domínio Público Hídrico
-- Águas Subterrâneas
+- Programa Nacional da Política de Ordenamento do Território
+- Proteção do Ambiente
+- Recursos Hídricos
 - Responsabilidade Civil
+- SECA
+- Segurança Pública
 - Serviço de Inspecção
-- Açores
-- Cheias
-- Abastecimento de Água
 - Sistema Nacional de Informação dos Títulos de Utilização dos Recursos Hídricos
 - Taxa
 - Utente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:207272800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25343987:por
+  label: "Derrogadas as normas da Lei 58/2005 de 29-dez (com as alterações e republicação constantes do presente diploma),\
+    \ com a entrada em vigor da legislação complementar prevista no art. 30.º da LEI.17/2014.10.04.2014.AR, DR.IS [71] de\
+    \ 10.04.2014, no que sejam contrárias ao que está disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/17-2014-25343987
+  date: '2014-04-10'
+- type: amended_by
+  target: pt:dre:107524707:por
+  label: Alterado, a partir de 24.06.2017, o art. 3.º da Lei da Água aprovada pela Lei 58/2005 de 29-dez, na versão republicada
+    pelo presente diploma, pelo(a) Lei n.º 44/2017 - Diário da República n.º 116/2017, Série I de 2017-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/44-2017-107524707
+  date: '2017-06-19'
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Alterado, com efeitos a 01.03.2023, o art. 72.º da Lei 58/2005 de 29-dez, na versão republicada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
 - type: cites
   target: celex:32000L0060
   label: null
@@ -143,15 +162,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
 article_structure:
-  article_count: 119
+  article_count: 112
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:50Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +217,9 @@ Os artigos 2.º, 6.º, 7.º, 8.º, 28.º, 40.º, 87.º e 100.º da Lei n.º 58/2
 
 2 - O disposto na presente lei não prejudica a aplicação de regimes especiais relativos, nomeadamente, às águas para consumo humano, aos recursos hidrominerais, aos recursos geotérmicos e às águas de nascente, às águas destinadas a fins terapêuticos e às águas que alimentem piscinas e outros recintos com diversões aquáticas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +247,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A instituição da Administração Pública a quem cabe exercer as competências previstas na presente lei é a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), que, como autoridade nacional da água, representa o Estado como garante da política nacional e prossegue as suas atribuições, ao nível territorial, de gestão dos recursos hídricos, incluindo o respetivo planeamento, licenciamento, monitorização e fiscalização ao nível da região hidrográfica, através dos seus serviços desconcentrados.
 
@@ -238,7 +261,9 @@ b) Os conselhos da região hidrográfica (CRH), enquanto órgãos consultivos da
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +341,9 @@ b) Nas associações de utilizadores e em concessionários de utilização de re
 
 5 - A APA, I. P., pode celebrar contratos-programa com qualquer das entidades indicadas no número anterior com vista a garantir a execução das medidas previstas nos artigos 30.º e 32.º que tais entidades hajam acordado executar por delegação da APA, I. P.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O Plano Nacional da Água, enquanto documento estratégico e prospetivo, é o instrumento de gestão das águas que estabelece as grandes opções da política nacional da água e os princípios e as regras de orientação dessa política, a aplicar pelos planos de gestão de bacias hidrográficas e por outros instrumentos de planeamento das águas.
 
@@ -348,7 +375,9 @@ j) Conservação das espécies e habitats naturais.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -366,7 +395,9 @@ j) Conservação das espécies e habitats naturais.
 
 8 - É competência da autoridade nacional da água, em articulação com a Autoridade Nacional de Proteção Civil, a criação de sistemas de alerta para salvaguarda de pessoas e bens.
 
-###### Artigo 87.º — Sistema nacional de informação de recursos hídricos
+Artigo 87.º
+
+Sistema nacional de informação de recursos hídricos
 
 1 - ...
 
@@ -394,7 +425,9 @@ c) Informação em tempo real para avisos e alertas.
 
 6 - (Anterior n.º 3.)
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Os títulos de utilização emitidos ao abrigo da legislação anterior mantêm-se em vigor nos termos em que foram emitidos, sem prejuízo da sujeição dos seus titulares às obrigações decorrentes da presente lei e dos atos legislativos que os complementem.
 
@@ -432,15 +465,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de março de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 15 de junho de 2012.**
+Promulgado em 15 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de junho de 2012.**
+Referendado em 15 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

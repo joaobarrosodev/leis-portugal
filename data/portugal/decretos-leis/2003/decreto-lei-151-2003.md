@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/151/2003/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2003-667549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47f02119f1d40ea56756b1073a2393749133dc94643fa8f844234e5205fbbbf7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fd392ad09a991d5314c8e3d427d7dcd7a91b7ddef5e420b3b6e6428f39cd748
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Comércio
+- Embalagem
 - Etiquetagem
 - Higiene Corporal
-- Embalagem
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:246139:por
@@ -107,16 +107,26 @@ relationships:
   target: celex:32003L0016
   label: null
   source: http://data.europa.eu/eli/dir/2003/16/oj
+- type: corrected_by
+  target: pt:dre:141014:por
+  label: "Rectificado pela DECL-RECT.10-D/2003.2003.07.31.PCM, DR.IS-A [175]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-d-2003-141014
+  date: '2003-07-31'
+- type: repealed_by
+  target: pt:dre:246139:por
+  label: "Revogado pelo DEC LEI.142/2005.24.08.2005.MS, DR.IS-A [162] de 24.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2005-246139
+  date: '2005-08-24'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:50Z'
   warnings: []
   errors: []
 ---
@@ -177,15 +187,15 @@ Na primeira parte do anexo VII do Decreto-Lei n.º 100/2001, de 28 de Março, s�
 
 Visto e aprovado em Conselho de Ministros de 27 de Maio de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Luís Filipe Pereira.
 
-**Promulgado em 23 de Junho de 2003.**
+Promulgado em 23 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Junho de 2003.**
+Referendado em 30 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Alterações aos anexos II, III e VII do Decreto-Lei n.º 100/2001, de 28 de Março
 
@@ -285,11 +295,11 @@ e) 0,0002% noutros produtos não destinados a serem removidos e em produtos de h
 
 5 - Os números de ordem 15b, 15c e 16 da primeira parte do anexo III do Decreto-Lei n.º 100/2001, de 28 de Março, passam a ter a seguinte redacção:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
 
 6 - É aditado um número de ordem 66 à primeira parte do anexo III do Decreto-Lei n.º 100/2001, de 28 de Março, com a seguinte redacção:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
 
 7 - A segunda parte do anexo III do Decreto-Lei n.º 100/2001, de 28 de Março, passam a ter a seguinte redacção:
 
@@ -297,11 +307,11 @@ Segunda parte
 
 Lista das substâncias provisoriamente admitidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
 
 8 - São aditados à primeira parte do anexo VII do Decreto-Lei n.º 100/2001, de 28 de Março, os números de ordem 26 e 27, com a seguinte redacção:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)](https://files.diariodarepublica.pt/1s/2003/07/158a00/39453956.pdf)
 
 (nota 1) Publicado no Jornal Oficial da União Europeia, série L 147, de 31 de Maio de 2001, p. 1.
 

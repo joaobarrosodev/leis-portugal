@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 275/1978, 2º Suplemento, Série I de 1978-11-29
   number: '275'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2526-(7) a 2526-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/27502/00070007.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/310-u-1978-455960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:46:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21a95df3955d142ab65ea5ff6987e335a82d7db944435f52c6a5d88f5c34169c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96d3c5f94108a1c85f648dd7360e4db87bc0d090d851d8818d56b58705a7b73b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:46:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Delegação de Competências
+- Governo IV
+- Primeiro-ministro
+- Secretário de Estado da Administração Pública
+relationships:
+- type: cites
+  target: pt:dre:409568:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:46:58Z'
   warnings: []
   errors: []
 ---

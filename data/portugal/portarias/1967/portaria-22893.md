@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22893-1967-390796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 074e765bf541c099e794a56a6324da221a6a52dcad8abd29e5fd30e5d86574ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 145a50e433e95a1b2e2a521950b2dc5c9a5533a2b848455c6270b617e46e1381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:17Z'
   warnings: []
   errors: []
 ---
@@ -88,18 +88,18 @@ Ministério da Educação Nacional, 12 de Setembro de 1967. - Pelo Ministro da E
 
 Regulamento do Prémio Infante D. Henrique
 
-###### Artigo 1.º O Prémio Infante D. Henrique destina-se a galardoar o melhor trabalho escolar de entre os apresentadas, em cada ano, pelos alunos do 1.º ou 2.º ano do curso de Administração Ultramarina, do Instituto Superior de Ciências Sociais e Política Ultramarina.
+Artigo 1.º O Prémio Infante D. Henrique destina-se a galardoar o melhor trabalho escolar de entre os apresentadas, em cada ano, pelos alunos do 1.º ou 2.º ano do curso de Administração Ultramarina, do Instituto Superior de Ciências Sociais e Política Ultramarina.
 
-###### Art. 2.º Para os fins do artigo anterior, o ano escolar considera-se findo depois de concluídos todos os exames da última época.
+Art. 2.º Para os fins do artigo anterior, o ano escolar considera-se findo depois de concluídos todos os exames da última época.
 
-###### Art. 3.º O Prémio, do valor anual de 5000$00, será atribuído por maioria de votos dos professores catedráticos em efectivo serviço que tomarem parte no conselho escolar expressamente convocado para esse fim.
+Art. 3.º O Prémio, do valor anual de 5000$00, será atribuído por maioria de votos dos professores catedráticos em efectivo serviço que tomarem parte no conselho escolar expressamente convocado para esse fim.
 
 § 1.º O conselho escolar deliberará com base em relatório apresentado por uma comissão de dois professores catedráticos, que o próprio conselho escolar designará na primeira reunião que efectuar no mês de Novembro de cada ano.
 
 § 2.º O conselho escolar poderá decidir não atribuir o Prémio por falta de mérito suficiente dos trabalhos apresentados. Neste caso, o montante do Prémio transita para o ano seguinte, no qual poderão ser atribuídos tantos prémios quantas as fracções de 5000$00 existentes.
 
-###### Art. 4.º A instituidora do Prémio Infante D. Henrique, Sociedade de Administrações Privadas e Exportação, Lda. (Somida), porá o montante anual do Prémio à disposição do Instituto no mês de Novembro de cada ano.
+Art. 4.º A instituidora do Prémio Infante D. Henrique, Sociedade de Administrações Privadas e Exportação, Lda. (Somida), porá o montante anual do Prémio à disposição do Instituto no mês de Novembro de cada ano.
 
-###### Art. 5.º O Prémio será entregue pelo reitor da Universidade Técnica em sessão pública.
+Art. 5.º O Prémio será entregue pelo reitor da Universidade Técnica em sessão pública.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 12 de Setembro de 1967. - O Director-Geral, João Alexandre Ferreira de Almeida.

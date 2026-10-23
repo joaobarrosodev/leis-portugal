@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/976-1982-376209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 894919f1fb89fb6e024aa4e5eb692a3d538bce2ec2f8ac05016d8c2233de054d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a74b13e338d1653b1660cfd5fea72a9f3cdc906aa4361793ebe6bc434d08d9d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Água
+- Associação Internacional das Distribuições de ÁGUA
+- Comissão
+- Recursos Hídricos
+- Representação Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:666539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666539:por
+  label: "Alterada a Constituição da Representação Portuguesa prevista pelo presente diploma, pela PORT.247/87.1987.03.31.MPAT\
+    \ DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1987-666539
+  date: '1987-03-31'
+- type: cites
+  target: pt:dre:251191:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:33Z'
   warnings: []
   errors: []
 ---

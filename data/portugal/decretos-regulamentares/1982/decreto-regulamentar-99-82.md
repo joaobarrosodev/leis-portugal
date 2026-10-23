@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/99-1982-380563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82633c62720a555773b0d18e342fc92132b5a13208d82e7106b928f8b85f733b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f974976573abe56697c4a4d2ee3074c676d70f8a1daa3c1a4c587261405bb35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeroporto
+- Faro
+- Medidas Preventivas
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677432:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:48Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +103,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita ao regime de medidas preventivas estabelecido no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a área de terreno assinalada na planta anexa a este diploma.
+Artigo 1.º Fica sujeita ao regime de medidas preventivas estabelecido no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a área de terreno assinalada na planta anexa a este diploma.
 
-###### Art. 2.º - 1 - Dependerá de autorização da Câmara Municipal de Faro, precedida de parecer vinculativo da Direcção-Geral da Aviação Civil, a prática, na área assinalada, dos actos e actividades seguintes:
+Art. 2.º - 1 - Dependerá de autorização da Câmara Municipal de Faro, precedida de parecer vinculativo da Direcção-Geral da Aviação Civil, a prática, na área assinalada, dos actos e actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -110,18 +121,18 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 2 - O parecer referido no número anterior poderá condicionar a autorização de quaisquer dos actos ou actividades indicados à introdução das alterações exigíveis face ao Plano de Desenvolvimento do Aeroporto de Faro.
 
-###### Art. 3.º As medidas preventivas ora decretadas vigorarão pelo prazo de 2 anos, sem prejuízo da sua prorrogação nos termos do artigo 9.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 3.º As medidas preventivas ora decretadas vigorarão pelo prazo de 2 anos, sem prejuízo da sua prorrogação nos termos do artigo 9.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 4.º A fiscalização do disposto no presente diploma é da competência da Câmara Municipal de Faro e ainda da Direcção-Geral da Aviação Civil e da empresa pública Aeroportos e Navegação Aérea, ANA, E. P., entidades às quais ficam a pertencer os poderes previstos no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 4.º A fiscalização do disposto no presente diploma é da competência da Câmara Municipal de Faro e ainda da Direcção-Geral da Aviação Civil e da empresa pública Aeroportos e Navegação Aérea, ANA, E. P., entidades às quais ficam a pertencer os poderes previstos no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 5.º O regime previsto no presente diploma não prejudica a aplicação do disposto no [Decreto-Lei n.º 51/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1980-677432), de 25 de Março.
+Art. 5.º O regime previsto no presente diploma não prejudica a aplicação do disposto no [Decreto-Lei n.º 51/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1980-677432), de 25 de Março.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 2 de Dezembro de 1982.**
+Promulgado em 2 de Dezembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29900/42484249.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29900/42484249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29900/42484249.pdf)

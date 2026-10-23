@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1978-326372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc09d0186753cdbfe77544d03bc26065b308dd627f1ad742c616a97fba6f3f3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fba061a68f4d93bced82c3735d1391ae757ec23071516224ef830599e395f861
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Circulação de Pessoas
+- Emigração
+- Emigrante
+- Passaporte
+relationships:
+- type: cites
+  target: pt:dre:164590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407354:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:04Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Considerando, nesta linha, que deverá ser abolida a aposição das letras E ou 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962, é aditado um novo artigo 10.º, em substituição do que foi revogado pelo [Decreto n.º 35/74](https://diariodarepublica.pt/dr/detalhe/decreto/35-1974-407354), de 5 de Fevereiro, com a seguinte redacção:
+Artigo 1.º Ao [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590), de 29 de Junho de 1962, é aditado um novo artigo 10.º, em substituição do que foi revogado pelo [Decreto n.º 35/74](https://diariodarepublica.pt/dr/detalhe/decreto/35-1974-407354), de 5 de Fevereiro, com a seguinte redacção:
 
-###### Art. 10.º - 1 - O titular de passaporte ordinário que preencha os requisitos indicados no artigo 4.º do presente diploma poderá utilizar esse passaporte para efeitos de emigração desde que obtenha junto das entidades competentes para a concessão de passaportes de emigrante, por averbamento, a necessária autorização.
+Art. 10.º - 1 - O titular de passaporte ordinário que preencha os requisitos indicados no artigo 4.º do presente diploma poderá utilizar esse passaporte para efeitos de emigração desde que obtenha junto das entidades competentes para a concessão de passaportes de emigrante, por averbamento, a necessária autorização.
 
 2 - Para efeitos do número anterior será aposto no passaporte ordinário o averbamento «bom para emigrar com destino a ...» (país para onde estiver autorizado a emigrar).
 
@@ -106,16 +118,16 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - Este averbamento é gratuito.
 
-###### Art. 2.º O artigo 13.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590) passa a ter a seguinte redacção:
+Art. 2.º O artigo 13.º do [Decreto n.º 44428](https://diariodarepublica.pt/dr/detalhe/decreto/44428-1962-164590) passa a ter a seguinte redacção:
 
-###### Art. 13.º Para os passaportes destinados a emigrantes será utilizado o impresso de passaporte ordinário.
+Art. 13.º Para os passaportes destinados a emigrantes será utilizado o impresso de passaporte ordinário.
 
-###### Art. 3.º O presente diploma entra em vigor dez dias após a sua publicação.
+Art. 3.º O presente diploma entra em vigor dez dias após a sua publicação.
 
 Alfredo Jorge Nobre da Costa - António Gonçalves Ribeiro - Carlos Jorge Mendes Corrêa Gago.
 
-**Promulgado em 10 de Novembro de 1978.**
+Promulgado em 10 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

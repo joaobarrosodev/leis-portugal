@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/491-1975-314610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T04:48:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd23c67f0919d826a6bfb42dc76c22684e35008eab3d81ef242ffe03f1f4c202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c2708ae8499f60c2fcfaefeb53ddfa168dd91639c09f06131da1ced6584f72e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:48:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Força Aérea
+- Forças Armadas
+- Impresso
+- Militar
 relationships:
 - type: amended_by
   target: pt:dre:451671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO 3 DAS INSTRUÇÕES, PELA PORTARIA 495/79, DE 14 DE SETEMBRO, PUBLICADA NO DR.IS, 213.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-09-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUMEROS 31, 32 E 33 DAS INSTRUÇÕES E SUBSTITUINDO O MODELO NUMERO 3 ANEXO, PELA PORTARIA 629/83, DE
+    31 DE MAIO, PUBLICADA NO DR.IS, 125.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-05-31'
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640285:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 292/94, DE 17 DE MAIO, PUBLICADA NO DR.IS-B, 114.\0NO DR.IS-B, 114."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-17'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:48:00Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +273,7 @@ QUADRO 1
 
 Quem elabora a apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 c) Pareceres:
 
@@ -270,7 +299,7 @@ QUADRO 2
 
 Quem elabora os pareceres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 2. Quando os oficiais informados estiverem colocados ou prestarem regularmente serviço em organizações estranhas à Força Aérea:
 
@@ -320,7 +349,7 @@ QUADRO 3
 
 Quando se elaboram as fichas de apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 #### SECÇÃO II — Preenchimento das fichas
 
@@ -430,23 +459,23 @@ b) Expressão oral e escrita:
 
 Muito hábil na comunicação de ideias. Persuasivo;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 Exprime-se sempre com clareza e eficiência;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 Em regra, organiza bem as ideias e exprime-se de modo claro, conciso e preciso;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 Exprime os seus pensamentos apenas satisfatoriamente e em assuntos de rotina;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 Inábil para comunicar ideias claramente. Falho de organização;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
 c) Força de vontade:
 
@@ -904,8 +933,8 @@ b) Função. Registar a função que confere a qualidade de informador;
 
 c) Assinatura e data. Não assinar nem datar antes da data de encerramento do período coberto pela ficha.
 
-## Anexo à Portaria n.º 491/75, de 14 de Agosto
+Anexo à Portaria n.º 491/75, de 14 de Agosto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf))](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/08/18700/11511169.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias.**
+O Chefe do Estado-Maior da Força Aérea, Narciso Mendes Dias.

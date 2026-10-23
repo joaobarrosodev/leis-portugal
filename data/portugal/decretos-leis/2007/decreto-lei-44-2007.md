@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2007/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2007-517839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db9495751b007fb38474702fe4fc151afc7c33ad864e64d8f7c998332fa8c11b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e6ecf784d64c92225efa2d4e7815b9914958bb00ceaaa9266f998bc18509ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica
 - Carreira Médica Hospitalar
-- Serviço Nacional de Saúde
-- Horas Extraordinárias
 - Centro de Saúde
 - Cuidados Médicos
-- Regime de Exclusividade
+- Horas Extraordinárias
+- Médico
 - Mobilidade de Pessoal
+- Regime de Exclusividade
 - Serviço de Atendimento Permanente
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 relationships:
 - type: amended_by
   target: pt:dre:632430:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493010:por
+  label: "Mantidos em vigor os nºs 5 a 9 e 11 a 14 do art. 24º e dos nºs 5 a 16 do art. 31º do Dec Lei 73/90 de 06-Mar (ora\
+    \ revogado), com a redacção constante do presente diploma, pelo DEC LEI.177/2009.04.08.2009.MS, DR.IS [149] de 04.08.2009,\
+    \ na medida em que regulem situações não previstas naquele diploma, e na medida em que não sejam contrários ao regime\
+    \ por ele estabelecido, até ao início da vigência do instrumento de regulamentação colectiva de trabalho referido no nº\
+    \ 1 do seu art. 35º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/177-2009-493010
+  date: '2009-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/170/2006/08/17/p/dre
   label: null
@@ -93,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+- type: cites
+  target: pt:dre:233957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:632430:por
+  label: "Revogado o art. 3º, pelo DEC LEI.266-D/2012.31.12.2012.MS, DR.IS [252-2ºSupl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-d-2012-632430
+  date: '2012-12-31'
+- type: repealed_by
+  target: pt:dre:632448:por
+  label: "Revogado o art. 3º pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:44Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +216,9 @@ b) O médico requerente comprometer-se expressamente a manter a sua disponibilid
 
 14 - (Anterior n.º 11.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -237,12 +278,12 @@ b) A partir da 8.ª hora é pago, independentemente do regime de trabalho pratic
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 6 de Fevereiro de 2007.**
+Promulgado em 6 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

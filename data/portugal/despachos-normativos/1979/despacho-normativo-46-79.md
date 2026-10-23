@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1979-383628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:57:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0636813715d40f5ee15167090e1c95cae79194683f59478c9164b5e51f9c24ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa90560ba527ceec3cdd31625cfc0000ec16aeed818bbf24533572b7020e97e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:57:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EPAC
+- Preço de Venda
+- Rectificação de Numero de Diploma
+- Semente
+relationships:
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:57:18Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Ao abrigo do disposto na alínea d) do n.º 2 do artigo 1.º do [Decreto-Lei n.�
 
 1.º Os preços por tonelada, a praticar pela Empresa Pública do Abastecimento de Cereais (EPAC), na venda aos produtores agrícolas das sementes certificadas e reserva de celeiro, para a campanha de 1978-1979, serão os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/05100/03480348.pdf))](https://files.diariodarepublica.pt/1s/1979/03/05100/03480348.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/05100/03480348.pdf)
 
 2.º Ficam revogados os Despachos Normativos n.º 238/78 e 289/78, publicados, respectivamente, no Diário da República, 1.ª série, n.º 216, de 19 de Setembro de 1978, e n.º 246, de 21 de Outubro de 1978.
 

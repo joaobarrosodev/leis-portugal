@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/357-1982-607159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:14:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04b1247670cf20bac44cbea59503fcc6880350503375ccb119fa0c1b1e4ad02a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70939c500067d5b5b8e54194a57ac6078f17b71cd72a4bd92f6e356028a99321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:14:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Quadro de Pessoal
+- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:397365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397365:por
+  label: "Alterado o quadro de pessoal do Tribunal de Família do Porto, aprovado pelo decreto 8/72, de 07 de Janeiro, DG.IS\
+    \ [5], na redacção do presente diploma, pela PORT.742/82.29.07.1982.MJ, DR.IS [173] de 29.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/742-1982-397365
+  date: '1982-07-29'
+- type: cites
+  target: pt:dre:274223:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:14:36Z'
   warnings: []
   errors: []
 ---

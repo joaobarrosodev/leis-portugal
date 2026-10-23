@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1976-427099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74350afe62131da67cabb7de2366adce831e1728462b5ca099481a05c01d0ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6000566b79b4ab58d1cd9490d2fe3a5270ee733bbadd133524c24d4b3e024ecc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alter do CHÃO
+- Arronches
+- Avis
+- Elvas
+- Expropriação
+- Gavião
+- Ponte de Sor
+- Prédio Rústico
+- Sousel
 relationships:
 - type: amended_by
   target: pt:dre:1278344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392061:por
+  label: "Derrogada, no respeitante aos prédios rústicos \"Vale da Ferraria Fundeira\", \"Ribeira de Sor\" e \"Várzea de Água\
+    \ de Salteiros\", pela PORT.22/79.17.01.1979.MAP, DR.IS [14] de 17.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22-1979-392061
+  date: '1979-01-17'
+- type: amended_by
+  target: pt:dre:382982:por
+  label: "Derrogada, na parte respeitante aos prédios rústicos Herdade da Torre, Herdade da Lapa, Herdade do Mouco e Herdade\
+    \ Joana Dias, pela PORT.206/79.02.05.1979.MAP, DR.IS [100] de 02.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/206-1979-382982
+  date: '1979-05-02'
+- type: amended_by
+  target: pt:dre:473702:por
+  label: "Derrogada parcialmente pela PORT.340/80.21.06.1980.MAP, DR.IS [141] de 21.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/340-1980-473702
+  date: '1980-06-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 152/93IIS DE 28-JUN DA PCM E MA DR.IIS [158] DE 08/JUL/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORT 95/96IIS DE 15-JUL DA PCM E MADRP DR.IIS [172] DE 26/JUL/1996\0E 26/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-26'
+- type: amended_by
+  target: pt:dre:2258181:por
+  label: "Derrogada, em parte, pela PORT 16/97IIS.1996.12.18.PCM, DR.IIS [8] de 10/Jan/1997A\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-1997-2258181
+  date: '1996-12-18'
+- type: amended_by
+  target: pt:dre:1165987:por
+  label: "Derrogado, pela PORT.217/99(2ªSÉRIE).1999.03.05.PCM DR.IIS [64] DE 17/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1999-1165987
+  date: '1999-03-05'
+- type: amended_by
+  target: pt:dre:2874362:por
+  label: "Derrogada, em parte, pela PORT.935/2000(2ªSÉRIE).2000.06.06.PCM DR.IIS [149] DE 06/JUN/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-2000-2874362
+  date: '2000-06-06'
+- type: amended_by
+  target: pt:dre:886566:por
+  label: "Derrogada pela PORT.995/2001(2ªSÉRIE).2001.05.17.PCM DR.IIS [129] DE 04/JUN/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/995-2001-886566
+  date: '2001-05-17'
+- type: amended_by
+  target: pt:dre:1026524:por
+  label: "Derrogado na parte em que expropria o prédio rústico \"Couto das Areias\" pela PORT.1691/2001(2ªSÉRIE).2001.09.25.PCM,\
+    \ DR.IIS [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1691-2001-1026524
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:1278344:por
+  label: "Derrogada, em parte pela PORT.1029/2004(2ªSérie).03.09.2004.PCM, DR.IIS [226] de 24.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1029-2004-1278344
+  date: '2004-09-03'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:279465:por
+  label: Retificada, pelo(a) Portaria n.º 746/77 - Diário da República n.º 284/1977, Série I de 1977-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/746-1977-279465
+  date: '1977-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:47Z'
   warnings: []
   errors: []
 ---

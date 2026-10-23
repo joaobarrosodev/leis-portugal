@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1986-219124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b4840de419df70306e23a9c2babef197d57587b3d2ca39994aa15c954fa23fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 682ce320178bfe84065009a7ebf1fc6b0d94b054946045344db014d46c6dd8a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Nocturno
+- Ensino Preparatório
 relationships:
 - type: amended_by
   target: pt:dre:358301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:663328:por
+  label: "Alterado o presente diploma pelo DN.4/87.26.01.1987.MEC, DR.IS [21] de 26.01.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-1987-663328
+  date: '1987-01-26'
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477610:por
+  label: Rectificado pela DECL.DD4520.20.10.1986.PCM, DR.IS [252]3ºSupl de 31.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-477610
+  date: '1986-10-20'
+- type: repealed_by
+  target: pt:dre:372612:por
+  label: "Revogadas todas as disposições referentes aos cursos nocturnos do ensino preparatório, pelo DN.58/88.22.07.1988.ME,\
+    \ DR.IS [168] de 22.07.1988, em que contrariem o citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/58-1988-372612
+  date: '1988-07-22'
+- type: repealed_by
+  target: pt:dre:358301:por
+  label: "Revogado pelo DN.189/93.07.08.1993.ME, DR.IS-B [184] de 07.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/189-1993-358301
+  date: '1993-08-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:13Z'
   warnings: []
   errors: []
 ---
@@ -229,11 +256,11 @@ Ministério da Educação e Cultura, 5 de Agosto de 1986. - O Ministro da Educa�
 
 Plano curricular para o curso nocturno do ensino preparatório
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf)
 
 Plano curricular para o curso geral nocturno do ensino secundário
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf))](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19400/21892192.pdf)
 
 ## ANEXO III — Rede dos cursos nocturnos
 

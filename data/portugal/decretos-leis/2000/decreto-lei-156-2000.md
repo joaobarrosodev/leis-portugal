@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/168a00/35203525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2000/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2000-321336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aff72d07c9e4724694df8bf750f295a9f5ffa7220cf7088c2f5c0ed4f8c37ecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2835e72ccade1e10d46bfea530b85e8f55f5344d88a37084bebb8486f131c662
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Tráfego Marítimo
-- Transporte Marítimo
 - Embarcação Estrangeira
 - Inspecção de Navios
 - Instituto Marítimo-portuário
 - Regulamento de Inspecção de Navios Estrangeiros
 - Segurança Marítima
+- Tráfego Marítimo
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:553454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468987:por
+  label: "Alterados os arts. 2.º, 3.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 15.º, 18.º, 19.º, 24.º, 26.º e 27.º, o título III\
+    \ e os anexos I, II, III, IV, VI, VII, IX e XII do Regulamento de Inspecção de Navios Estrangeiros aprovado pelo Dec Lei\
+    \ 195/98, de 10-Jul, com as alterações introduzidas pelo presente diploma, republicado, em anexo, o texto integral do\
+    \ Regulamento, pelo DEC LEI.284/2003.08.11.2003.MOPTH, DR.IS-A [259] de 08.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-2003-468987
+  date: '2003-11-08'
 - type: cites
   target: celex:31993L0075
   label: null
@@ -105,16 +113,21 @@ relationships:
   target: celex:31999L0097
   label: null
   source: http://data.europa.eu/eli/dir/1999/97/oj
+- type: repealed_by
+  target: pt:dre:553454:por
+  label: "Revogado pelo DEC LEI.61/2012.14.03.2012.MAMAOT, DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2012-553454
+  date: '2012-03-14'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:40Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +176,9 @@ Para efeitos do presente diploma, deve entender-se por:
 
 9) ...
 
-###### Artigo 3.º — Convenções
+Artigo 3.º
+
+Convenções
 
 1 - Para efeitos do presente diploma, são aplicáveis as seguintes as convenções:
 
@@ -183,11 +198,15 @@ g) ...
 
 2 - Além dos textos originais das convenções aplicáveis, serão também considerados os protocolos, as alterações efectuadas e os respectivos códigos que tenham carácter vinculativo e estejam em vigor em 1 de Julho de 1999.
 
-###### Artigo 6.º — Objectivos de inspecção
+Artigo 6.º
+
+Objectivos de inspecção
 
 O Instituto Marítimo-Portuário/Direcção de Inspecção de Navios (IMP/DIN) deve realizar, anualmente, um número total de inspecções correspondente a, pelo menos, 25% do número de navios que tenham escalado os portos nacionais durante cada ano civil.
 
-###### Artigo 7.º — Obrigações de inspecção
+Artigo 7.º
+
+Obrigações de inspecção
 
 1 - Na selecção dos navios a inspeccionar, o IMP/DIN deve dar prioridade máxima aos navios referidos na parte I do anexo II e, ao determinar a ordem de prioridade para inspecção de outros navios referidos no anexo II, deve ter em conta o factor global de selecção referido na parte II do mesmo anexo.
 
@@ -201,7 +220,9 @@ c) Relativamente a esse navio não existam motivos inequívocos para efectuar um
 
 3 - O disposto no número anterior não se aplica aos controlos operacionais previstos especificamente nas convenções.
 
-###### Artigo 17.º — Informações sobre detenções
+Artigo 17.º
+
+Informações sobre detenções
 
 1 - O IMP/DIN tomará as medidas necessárias para garantir a publicação, no mínimo com periodicidade mensal, das informações enumeradas no ponto 1 do anexo XII relativas aos navios detidos num porto ou aos quais foi recusado o acesso a um porto nacional durante o mês precedente.
 
@@ -211,7 +232,9 @@ c) Relativamente a esse navio não existam motivos inequívocos para efectuar um
 
 4 - As capitanias dos portos devem manter registos actualizados das decisões de detenção e de interrupção de operações, bem como dos relatórios vinculativos que servem de base às primeiras.
 
-## ANEXO II — Lista dos navios a inspeccionar prioritariamente
+ANEXO II
+
+Lista dos navios a inspeccionar prioritariamente
 
 I - Factores prevalecentes
 
@@ -277,7 +300,9 @@ Ao determinar a ordem de prioridade para a inspecção dos navios atrás enumera
 
 A um factor de selecção maior corresponde uma prioridade mais elevada. O factor global de selecção é a soma dos valores dos factores de selecção definidos no quadro do MA. Os pontos 5, 6 e 7 dizem respeito apenas às inspecções efectuadas nos últimos 12 meses. O factor global de selecção não pode ser inferior à soma dos valores correspondentes aos pontos 3, 4, 8, 9, 10, 11 e 12.
 
-## ANEXO IV — Lista de certificados e documentos
+ANEXO IV
+
+Lista de certificados e documentos
 
 1 - ...
 
@@ -359,7 +384,9 @@ Certificado de isenção, incluindo, quando necessário, a lista das cargas.
 
 34 - Plano de carga e de descarga para navios graneleiros.
 
-## ANEXO V — Procedimentos para a inspecção de navios
+ANEXO V
+
+Procedimentos para a inspecção de navios
 
 1 - Princípios de lotação de segurança [Resolução A.48(xii) da IMO e anexos «Contents of Minimum Safe Manning Document» (annex 1) e «Guidelines for the application of Principles of Safe Manning» (annex 2)].
 
@@ -369,7 +396,9 @@ Certificado de isenção, incluindo, quando necessário, a lista das cargas.
 
 4 - Anexo I, Port State Control Procedures, do MA de Paris.
 
-## ANEXO VI — Exemplos de motivos inequívocos para inspecção aprofundada
+ANEXO VI
+
+Exemplos de motivos inequívocos para inspecção aprofundada
 
 1 - Navios identificados na parte I e na parte II, pontos II-3, II-4, II-5b, II-5c, II-8 e II-11, do anexo II.
 
@@ -395,7 +424,9 @@ Certificado de isenção, incluindo, quando necessário, a lista das cargas.
 
 12 - Informações ou provas de que o comandante ou a tripulação não estão familiarizados com as operações de bordo essenciais para a segurança da navegação ou para a prevenção da poluição ou de não terem sido realizadas tais operações.
 
-## ANEXO IX — Critérios da detenção de um navio
+ANEXO IX
+
+Critérios da detenção de um navio
 
 Introdução
 
@@ -515,7 +546,9 @@ Procedimentos aplicáveis
 
 6 - Se resultarem comprovadas outras anomalias justificativas de uma detenção, que não possam ser corrigidas no porto onde o navio está detido, deve ser aplicado o disposto no artigo 18.º deste Regulamento.
 
-## ANEXO XII — Publicação das informações sobre detenções e inspecções efectuadas em portos nacionais
+ANEXO XII
+
+Publicação das informações sobre detenções e inspecções efectuadas em portos nacionais
 
 I - As informações publicadas nos termos do n.º 1 do artigo 17.º devem incluir os seguintes elementos:
 
@@ -583,12 +616,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas.
 
-**Promulgado em 6 de Julho de 2000.**
+Promulgado em 6 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2000.**
+Referendado em 12 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

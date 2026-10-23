@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13000/12241236.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-1979-383408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5989f871f85bafc1af03e286f41c71fcdfaeb9a166f21a111a814e64c938902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c83bca523d8d73f54929f1a05c8daee306fe4b5d96f5d2c88f28f5bf8bae897f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Hidrográfico
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:622125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472515:por
+  label: "Aditadas as alíneas l), m), n), o), p) e q) ao n.º 2 do artigo 42.º do Regulamento pela PORT.422-A/80.24.07.1980.CR,\
+    \ DR.IS [169] de 24.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/263-1980-472515
+  date: '1980-07-24'
+- type: cites
+  target: pt:dre:227230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622125:por
+  label: "Revogada pelo DEC LEI.134/91.04.04.1991.MDN, DR.IS-A [78] de 04.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1991-622125
+  date: '1991-04-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:23Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +127,17 @@ REGULAMENTO INTERNO DO INSTITUTO HIDROGRÁFICO
 
 #### SECÇÃO I — Missão
 
-###### Artigo 1.º Incumbe ao Instituto Hidrográfico (IH) o que sobre o assunto se dispõe no artigo 1.º do [Decreto-Lei n.º 26/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1970-227230), de 15 de Janeiro, observados os efeitos já produzidos por diplomas legais posteriores, atinentes, directa ou indirectamente, à matéria daquele artigo.
+Artigo 1.º Incumbe ao Instituto Hidrográfico (IH) o que sobre o assunto se dispõe no artigo 1.º do [Decreto-Lei n.º 26/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1970-227230), de 15 de Janeiro, observados os efeitos já produzidos por diplomas legais posteriores, atinentes, directa ou indirectamente, à matéria daquele artigo.
 
 #### SECÇÃO II — Subordinação e dependência
 
-###### Art. 2.º O IH encontra-se na dependência do Chefe do Estado-Maior da Armada, sem prejuízo da competência que no âmbito do disposto no artigo 4.º do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, pode ser atribuída ao vice-almirante adjunto do Chefe do Estado-Maior da Armada.
+Art. 2.º O IH encontra-se na dependência do Chefe do Estado-Maior da Armada, sem prejuízo da competência que no âmbito do disposto no artigo 4.º do [Decreto-Lei n.º 464/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1974-474102), de 18 de Setembro, pode ser atribuída ao vice-almirante adjunto do Chefe do Estado-Maior da Armada.
 
 ### CAPÍTULO II — Estrutura orgânica
 
 #### SECÇÃO I — Organização geral
 
-###### Art. 3.º - 1 - O IH compreende:
+Art. 3.º - 1 - O IH compreende:
 
 a) A direcção;
 
@@ -120,7 +149,7 @@ d) O conselho administrativo.
 
 2 - Adstrita ao IH funciona a Escola de Hidrografia e Oceanografia (EHO).
 
-###### Art. 4.º A direcção compreende:
+Art. 4.º A direcção compreende:
 
 a) O director-geral;
 
@@ -134,7 +163,7 @@ e) O director dos Serviços de Apoio;
 
 f) O Centro de Comunicações.
 
-###### Art. 5.º Os órgãos executivos compreendem:
+Art. 5.º Os órgãos executivos compreendem:
 
 a) As divisões;
 
@@ -142,7 +171,7 @@ b) As missões, brigadas e navios;
 
 c) O Centro de Informática Científica (CIC).
 
-###### Art. 6.º - 1 - Os órgãos de apoio compreendem:
+Art. 6.º - 1 - Os órgãos de apoio compreendem:
 
 a) Órgãos de apoio de documentação;
 
@@ -178,9 +207,9 @@ h) O Serviço de Saúde.
 
 ##### SUBSECÇÃO I — Director-geral
 
-###### Art. 7.º O director-geral do IH é um vice-almirante, ou contra-almirante da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 7.º O director-geral do IH é um vice-almirante, ou contra-almirante da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 8.º - 1 - Compete ao director-geral orientar superiormente toda a actividade do Instituto, e em especial:
+Art. 8.º - 1 - Compete ao director-geral orientar superiormente toda a actividade do Instituto, e em especial:
 
 a) Assegurar, por si ou seus delegados, a representação do IH nos organismos e reuniões nacionais e internacionais que tratem de assuntos relacionados com as actividades da sua responsabilidade;
 
@@ -208,15 +237,15 @@ e) Apresentar à aprovação do Chefe do Estado-Maior da Armada os programas anu
 
 f) Apresentar anualmente, para publicação, um relatório sucinto das actividades do IH durante o ano civil anterior.
 
-###### Art. 9.º O director-geral é substituído nos seus impedimentos pelo oficial mais antigo, na situação de activo, em serviço no Instituto Hidrográfico.
+Art. 9.º O director-geral é substituído nos seus impedimentos pelo oficial mais antigo, na situação de activo, em serviço no Instituto Hidrográfico.
 
 ##### SUBSECÇÃO II — Comissão Técnica da Hidrografia, Navegação e Oceanografia
 
-###### Art. 10.º - 1 - Incumbe à Comissão Técnica de Hidrografia, Navegação e Oceanografia o estudo dos assuntos de carácter técnico e científico que o Chefe do Estado-Maior da Armada ou o director-geral do IH entendam convenientes.
+Art. 10.º - 1 - Incumbe à Comissão Técnica de Hidrografia, Navegação e Oceanografia o estudo dos assuntos de carácter técnico e científico que o Chefe do Estado-Maior da Armada ou o director-geral do IH entendam convenientes.
 
 2 - A CTHNO é presidida pelo director-geral do IH e na sua ausência pelo oficial mais antigo que estiver presente.
 
-###### Art. 11.º - 1 - A CTHNO é constituída pelos elementos designados pelo Chefe do Estado-Maior da Armada, sob proposta do director-geral do IH, escolhidos entre os técnicos e cientistas de maior relevo nos sectores relacionados com as actividades do IH.
+Art. 11.º - 1 - A CTHNO é constituída pelos elementos designados pelo Chefe do Estado-Maior da Armada, sob proposta do director-geral do IH, escolhidos entre os técnicos e cientistas de maior relevo nos sectores relacionados com as actividades do IH.
 
 2 - À CTHNO poderão ser agregados temporariamente, como assessores, os chefes das divisões técnicas que o director-geral do IH entender por necessário.
 
@@ -226,7 +255,7 @@ f) Apresentar anualmente, para publicação, um relatório sucinto das actividad
 
 ##### SUBSECÇÃO III — Director técnico-científico
 
-###### Art. 12.º - 1 - Compete ao director técnico-científico o estudo, planeamento e coordenação das actividades técnicas e científicas do IH.
+Art. 12.º - 1 - Compete ao director técnico-científico o estudo, planeamento e coordenação das actividades técnicas e científicas do IH.
 
 2 - No âmbito do mencionado no número anterior, compete especialmente ao director técnico-científico:
 
@@ -246,9 +275,9 @@ g) Desempenhar os cargos que por lei lhe couberem nos organismos afins ou relaci
 
 h) Colaborar com o Centro de Documentação e Informação através das divisões.
 
-###### Art. 13.º O director técnico-científico é um capitão-de-mar-e-guerra da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 13.º O director técnico-científico é um capitão-de-mar-e-guerra da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 14.º - 1 - Dependem do director técnico-científico:
+Art. 14.º - 1 - Dependem do director técnico-científico:
 
 a) O Centro de Informática Científica;
 
@@ -272,7 +301,7 @@ e) Fazer a dactilografia dos trabalhos do director técnico-científico e das di
 
 ##### SUBSECÇÃO IV — Director dos Serviços de Documentação
 
-###### Art. 15.º - 1 - Compete ao director dos Serviços de Documentação promover a análise, tratamento e divulgação da documentação e da informação, científica e tecnológica, relacionadas com as actividades do IH, quer em língua portuguesa, quer em língua estrangeira.
+Art. 15.º - 1 - Compete ao director dos Serviços de Documentação promover a análise, tratamento e divulgação da documentação e da informação, científica e tecnológica, relacionadas com as actividades do IH, quer em língua portuguesa, quer em língua estrangeira.
 
 2 - No âmbito do mencionado no número anterior, compete especialmente ao director dos Serviços de Documentação:
 
@@ -290,9 +319,9 @@ f) Propor e orientar as trocas de publicações ou seu envio gratuito, elaborand
 
 g) Superintender a actividade própria da Biblioteca.
 
-###### Art. 16.º O director dos Serviços de Documentação é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 16.º O director dos Serviços de Documentação é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 17.º Dependem do director dos Serviços de Documentação:
+Art. 17.º Dependem do director dos Serviços de Documentação:
 
 a) O Serviço de Publicações;
 
@@ -302,7 +331,7 @@ c) A Biblioteca.
 
 ##### SUBSECÇÃO V — Director dos Serviços de Apoio
 
-###### Art. 18.º - 1 - Compete ao director dos Serviços de Apoio dirigir e coordenar a função de apoio às actividades que decorrem da missão do IH, nelas se compreendendo a manutenção do edifício daquele Instituto e suas dependências.
+Art. 18.º - 1 - Compete ao director dos Serviços de Apoio dirigir e coordenar a função de apoio às actividades que decorrem da missão do IH, nelas se compreendendo a manutenção do edifício daquele Instituto e suas dependências.
 
 2 - No âmbito do mencionado no número anterior, compete especialmente ao director dos Serviços de Apoio:
 
@@ -318,25 +347,25 @@ e) Velar pelo bem-estar do pessoal e pela sua segurança no trabalho.
 
 3 - O director dos Serviços de Apoio é vogal do conselho administrativo, cabendo-lhe, como tal, as responsabilidades expressas no RAFN.
 
-###### Art. 19.º O director dos Serviços de Apoio é um oficial superior da classe de marinha, de preferência com experiência de serviço hidrográfico ou oceanografia.
+Art. 19.º O director dos Serviços de Apoio é um oficial superior da classe de marinha, de preferência com experiência de serviço hidrográfico ou oceanografia.
 
 ##### SUBSECÇÃO VI — Centro de Comunicações
 
-###### Art. 20.º - 1 - Ao Centro de Comunicações incumbe o encaminhamento, processamento, cifra, distribuição e arquivo das mensagens originadas ou destinadas ao IH.
+Art. 20.º - 1 - Ao Centro de Comunicações incumbe o encaminhamento, processamento, cifra, distribuição e arquivo das mensagens originadas ou destinadas ao IH.
 
 2 - Incumbe-lhe ainda uma acção fiscalizadora do tráfego, procurando que os expedidores/remetentes que serve observem os procedimentos correntes na redacção das mensagens.
 
 3 - O Centro de Comunicações utiliza os serviços da Secretaria Central para distribuição interna de mensagens.
 
-###### Art. 21.º O Centro de Comunicações depende do director-geral do IH.
+Art. 21.º O Centro de Comunicações depende do director-geral do IH.
 
-###### Art. 22.º O Centro de Comunicações é chefiado por um oficial subalterno da área de comunicações.
+Art. 22.º O Centro de Comunicações é chefiado por um oficial subalterno da área de comunicações.
 
 #### SECÇÃO III — Órgãos executivos
 
 ##### SUBSECÇÃO I — Centro de Informática Científica
 
-###### Art. 23.º - 1 - Incumbe ao Centro de Informática Científica (CIC) executar ou encaminhar o processamento de dados, por cálculo automático, das divisões técnicas e serviços do IH.
+Art. 23.º - 1 - Incumbe ao Centro de Informática Científica (CIC) executar ou encaminhar o processamento de dados, por cálculo automático, das divisões técnicas e serviços do IH.
 
 2 - No âmbito do mencionado no número anterior, incumbe especialmente ao CIC:
 
@@ -344,13 +373,13 @@ a) Executar os trabalhos de digitalização, perfuração e cálculo automático
 
 b) Assegurar a execução, nos Serviços Mecanográficos da Armada ou, quando nestes não seja viável, em outros organismos, dos trabalhos de cálculo automático que lhe forem entregues pelas divisões e serviços do IH.
 
-###### Art. 24.º - 1 - O CIC é chefiado por um oficial da Armada com conhecimento do material de digitalização, de perfuração e de cálculo automático existente no IH.
+Art. 24.º - 1 - O CIC é chefiado por um oficial da Armada com conhecimento do material de digitalização, de perfuração e de cálculo automático existente no IH.
 
 2 - O chefe do CIC depende do director técnico-científico.
 
 ##### SUBSECÇÃO II — Divisões
 
-###### Art. 25.º - 1 - São as seguintes as divisões existentes:
+Art. 25.º - 1 - São as seguintes as divisões existentes:
 
 a) Divisão de Métodos e Material de Navegação;
 
@@ -368,7 +397,7 @@ g) Divisão de Dinâmica de Costas e Estuários.
 
 2 - Os chefes das divisões dependem do director técnico-científico.
 
-###### Art. 26.º - 1 - Incumbe à Divisão de Métodos e Material de Navegação o estudo, desenvolvimento e aplicação do material, métodos e sistemas de navegação marítima.
+Art. 26.º - 1 - Incumbe à Divisão de Métodos e Material de Navegação o estudo, desenvolvimento e aplicação do material, métodos e sistemas de navegação marítima.
 
 2 - No âmbito do mencionado no número anterior, incumbe especialmente a esta Divisão:
 
@@ -406,9 +435,9 @@ q) Colaborar com a Escola de Hidrografia e Navegação;
 
 r) Elaborar ou dar parecer sobre planos ou projectos de montagem ou alterações de sistemas de radiolocalização instalados ou a instalar no território nacional, em colaboração com a Divisão de Segurança da Navegação.
 
-###### Art. 27.º O chefe da Divisão de Métodos e Material de Navegação é um oficial superior da classe de marinha, com adequada experiência de navegação e, de preferência, com um curso de especialização em navegação.
+Art. 27.º O chefe da Divisão de Métodos e Material de Navegação é um oficial superior da classe de marinha, com adequada experiência de navegação e, de preferência, com um curso de especialização em navegação.
 
-###### Art. 28.º - 1 - Incumbe à Divisão de Segurança da Navegação o estudo de assuntos relativos à segurança e circulação da navegação em águas restritas, costeiras e oceânicas, e bem assim o desenvolvimento de técnicas e sua aplicação naquele campo compreendidas.
+Art. 28.º - 1 - Incumbe à Divisão de Segurança da Navegação o estudo de assuntos relativos à segurança e circulação da navegação em águas restritas, costeiras e oceânicas, e bem assim o desenvolvimento de técnicas e sua aplicação naquele campo compreendidas.
 
 2 - No âmbito do mencionado no número anterior, incumbe especialmente a esta divisão:
 
@@ -438,11 +467,11 @@ m) Elaborar e fornecer informações de roteamento climatológico e meteorológi
 
 n) Realizar e publicar, em colaboração com a Divisão de Levantamentos, estudos e trabalhos sobre determinações magnéticas da faixa litoral e no mar com vista à segurança da navegação.
 
-###### Art. 29.º O chefe da Divisão de Segurança da Navegação é um oficial superior da classe de marinha, com adequada experiência de navegação e de hidrografia e, de preferência, com um curso de especialização em navegação.
+Art. 29.º O chefe da Divisão de Segurança da Navegação é um oficial superior da classe de marinha, com adequada experiência de navegação e de hidrografia e, de preferência, com um curso de especialização em navegação.
 
-###### Art. 30.º Junto da Divisão de Segurança da Navegação funciona um arquivo técnico destinado à guarda de todas as cartas náuticas estrangeiras, adquiridas ou recebidas dos serviços hidrográficos com os quais o IH tem um sistema de permuta.
+Art. 30.º Junto da Divisão de Segurança da Navegação funciona um arquivo técnico destinado à guarda de todas as cartas náuticas estrangeiras, adquiridas ou recebidas dos serviços hidrográficos com os quais o IH tem um sistema de permuta.
 
-###### Art. 31.º - 1 - Incumbe à Divisão de Levantamentos o estudo e trabalhos relativos a:
+Art. 31.º - 1 - Incumbe à Divisão de Levantamentos o estudo e trabalhos relativos a:
 
 a) Astronomia geodésica, geodesia, topografia, apoio fotogramétrico e magnetismo;
 
@@ -460,9 +489,9 @@ d) O processamento e avaliação de todos os elementos hidrográficos obtidos po
 
 e) A execução de trabalhos, dentro do âmbito das atribuições da Divisão e que excedam as possibilidades das missões e brigadas, nomeadamente de astronomia geodésica, geodesia, fotogrametria, interpretação fotográfica e determinação da declinação magnética, no mar e em terra.
 
-###### Art. 32.º O chefe da Divisão de Levantamentos é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 32.º O chefe da Divisão de Levantamentos é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 33.º Funcionam na dependência do chefe da Divisão de Levantamentos:
+Art. 33.º Funcionam na dependência do chefe da Divisão de Levantamentos:
 
 a) Um grupo de manutenção, que tem por missão apoiar as missões e brigadas até onde o permitir a dimensão dos meios que lhe forem atribuídos, de modo a evitar o empenhamento dos serviços de apoio em tarefas menores;
 
@@ -470,7 +499,7 @@ b) Um depósito de aparelhos, instrumentos, equipamentos e material de levantame
 
 c) Um arquivo técnico destinado à guarda de todos os documentos que interessam à Divisão, recebidos das missões, brigadas independentes, navios hidrográficos ou grupos de trabalho e produzidos na própria Divisão, bem como os oriundos de entidades estranhas ao IH.
 
-###### Art. 34.º - 1 - Incumbe à Divisão de Cartografia o estudo e trabalhos relativos a:
+Art. 34.º - 1 - Incumbe à Divisão de Cartografia o estudo e trabalhos relativos a:
 
 a) Projecções cartográficas e toponímia;
 
@@ -496,9 +525,9 @@ f) O encaminhamento das cartas desde o início do desenho até à entrega ao Ser
 
 g) A correcção permanente de todas as cartas hidrográficas nacionais existentes em depósito e das cartas hidrográficas estrangeiras para uso dos navios da Armada.
 
-###### Art. 35.º O chefe da Divisão de Cartografia é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 35.º O chefe da Divisão de Cartografia é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 36.º - 1 - A Divisão de Cartografia dispõe dos seguintes órgãos de execução:
+Art. 36.º - 1 - A Divisão de Cartografia dispõe dos seguintes órgãos de execução:
 
 a) Sala de desenho;
 
@@ -520,7 +549,7 @@ b) A realização de trabalhos fotográficos da especialidade que sejam requisit
 
 4 - Compete ao chefe da Divisão de Cartografia, de acordo com as indicações do director-adjunto técnico, fixar a ordem de execução dos trabalhos a realizar na sala de desenho e no gabinete de fotografia.
 
-###### Art. 37.º Junto da Divisão de Cartografia e na dependência do chefe respectivo funciona um arquivo técnico destinado à guarda dos seguintes documentos:
+Art. 37.º Junto da Divisão de Cartografia e na dependência do chefe respectivo funciona um arquivo técnico destinado à guarda dos seguintes documentos:
 
 a) Projectos e matrizes de cartas elaboradas pelo IH;
 
@@ -528,7 +557,7 @@ b) Cartas históricas, hidrográficas e geográficas (nacionais e estrangeiras);
 
 c) Cartas hidrográficas e geográficas (nacionais e estrangeiras) para estudo das divisões técnicas do IH.
 
-###### Art. 38.º - 1 - Incumbe à Divisão de Marés e Correntes de Marés o estudo e trabalhos relativos a:
+Art. 38.º - 1 - Incumbe à Divisão de Marés e Correntes de Marés o estudo e trabalhos relativos a:
 
 a) Instalação de equipamentos para observação e registo de marés e de correntes de marés;
 
@@ -546,13 +575,13 @@ c) Elaboração de estudos de marés e correntes de marés que lhe sejam solicit
 
 d) Manutenção da rede maregráfica do Instituto, em que se inclui uma estação piloto para estudo e aferição de métodos e equipamentos.
 
-###### Art. 39.º O chefe da Divisão de Marés e Correntes de Marés é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 39.º O chefe da Divisão de Marés e Correntes de Marés é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 40.º Junto da Divisão de Marés e Correntes de Marés, e na dependência do respectivo chefe, funciona um arquivo técnico destinado à guarda de maregramas, registos de observações de marés e de correntes de marés, e de fitas perfuradas e bandas magnéticas com elementos que são da responsabilidade da Divisão.
+Art. 40.º Junto da Divisão de Marés e Correntes de Marés, e na dependência do respectivo chefe, funciona um arquivo técnico destinado à guarda de maregramas, registos de observações de marés e de correntes de marés, e de fitas perfuradas e bandas magnéticas com elementos que são da responsabilidade da Divisão.
 
-###### Art. 41.º Na dependência do chefe da Divisão de Marés e de Correntes de Marés existe um depósito de aparelhos, instrumentos, equipamentos e material de observação necessário às actividades da Divisão, que são atribuídos temporariamente aos órgãos externos, de acordo com as necessidades dos trabalhos a efectuar. A manutenção deste material compete ao mesmo depósito, que recorrerá, sempre que necessário, aos serviços de apoio do IH para solução das suas dificuldades e carências.
+Art. 41.º Na dependência do chefe da Divisão de Marés e de Correntes de Marés existe um depósito de aparelhos, instrumentos, equipamentos e material de observação necessário às actividades da Divisão, que são atribuídos temporariamente aos órgãos externos, de acordo com as necessidades dos trabalhos a efectuar. A manutenção deste material compete ao mesmo depósito, que recorrerá, sempre que necessário, aos serviços de apoio do IH para solução das suas dificuldades e carências.
 
-###### Art. 42.º - 1 - Incumbe à Divisão de Oceanografia Física o estudo e trabalho relativos a:
+Art. 42.º - 1 - Incumbe à Divisão de Oceanografia Física o estudo e trabalho relativos a:
 
 a) Oceanografia física;
 
@@ -582,9 +611,9 @@ i) Proceder a estudos sobre os elementos químicos orgânicos e inorgânicos, qu
 
 j) Executar os trabalhos de laboratório necessários à realização das várias análises, quer no âmbito da Divisão, quer solicitados por entidades estranhas ao IH;
 
-###### Art. 43.º O chefe da Divisão de Oceanografia Física é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 43.º O chefe da Divisão de Oceanografia Física é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 44.º Funcionam na dependência do chefe da Divisão de Oceanografia Física:
+Art. 44.º Funcionam na dependência do chefe da Divisão de Oceanografia Física:
 
 a) Um depósito de aparelhos, instrumentos, equipamentos e material de observação necessários às actividades da Divisão, que são atribuídos temporariamente, de acordo com as necessidades do trabalho a efectuar, aos órgãos que os executam.
 
@@ -594,7 +623,7 @@ b) Um laboratório de química da água do mar, que deverá estar apetrechado pa
 
 c) Um arquivo técnico destinado à guarda de todos os registos e dados de processamento que são do âmbito da Divisão, quer obtidos pelos meios do Instituto, quer oriundos de outras entidades estranhas ao IH.
 
-###### Art. 45.º - 1 - Incumbe à Divisão de Dinâmica de Costas e Estuários os estudos e trabalhos relativos aos assuntos seguintes:
+Art. 45.º - 1 - Incumbe à Divisão de Dinâmica de Costas e Estuários os estudos e trabalhos relativos aos assuntos seguintes:
 
 a) Evolução hidrográfica e oceanográfica dos portos, barras, costas e zonas litorais do território nacional;
 
@@ -622,9 +651,9 @@ i) Dar apoio aos estudos e trabalhos de engenharia costeira que sejam do âmbito
 
 j) Proceder a estudos e dar parecer sobre os parques submarinos nacionais.
 
-###### Art. 46.º O chefe da Divisão de Dinâmica de Costas e Estuários é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
+Art. 46.º O chefe da Divisão de Dinâmica de Costas e Estuários é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 47.º Funcionam na dependência do chefe da Divisão de Dinâmica de Costas e Estuários:
+Art. 47.º Funcionam na dependência do chefe da Divisão de Dinâmica de Costas e Estuários:
 
 a) Um laboratório de geologia submarina, que deverá estar apetrechado para responder às necessidades correntes dos trabalhos e estudos desta Divisão e de outras divisões técnicas do IH;
 
@@ -634,7 +663,7 @@ c) Um arquivo técnico destinado à guarda dos documentos que interessam à Divi
 
 ##### SUBSECÇÃO III — Missões, brigadas e navios
 
-###### Art. 48.º - 1 - Incumbe às missões hidrográficas, missões oceanográficas e brigadas independentes a execução, no mar ou no campo, dos estudos e trabalhos necessários às actividades do IH, de acordo com os programas aprovados superiormente.
+Art. 48.º - 1 - Incumbe às missões hidrográficas, missões oceanográficas e brigadas independentes a execução, no mar ou no campo, dos estudos e trabalhos necessários às actividades do IH, de acordo com os programas aprovados superiormente.
 
 2 - O funcionamento das missões hidrográficas, missões oceanográficas e brigadas independentes é regulado por diploma próprio.
 
@@ -644,21 +673,21 @@ c) Um arquivo técnico destinado à guarda dos documentos que interessam à Divi
 
 5 - O pessoal das missões e das brigadas independentes que esteja executando trabalhos de gabinete ou outros na sede do IH fica sujeito ao regime de trabalho e às instruções de serviço interno em vigor.
 
-###### Art. 49.º As missões hidrográficas, missões oceanográficas e brigadas independentes são criadas, ou extintas, por portaria do Chefe do Estado-Maior da Armada.
+Art. 49.º As missões hidrográficas, missões oceanográficas e brigadas independentes são criadas, ou extintas, por portaria do Chefe do Estado-Maior da Armada.
 
-###### Art. 50.º - 1 - Os chefes das missões e brigadas independentes são, em regra, capitães-tenentes ou capitães-de-fragata, de preferência habilitados com o curso de engenheiro hidrógrafo.
+Art. 50.º - 1 - Os chefes das missões e brigadas independentes são, em regra, capitães-tenentes ou capitães-de-fragata, de preferência habilitados com o curso de engenheiro hidrógrafo.
 
 2 - Os chefes das missões e das brigadas independentes são responsáveis subsidiários do conselho administrativo do IH em tudo o que a este compete.
 
-###### Art. 51.º O apoio logístico e administrativo às missões e brigadas independentes é prestado pelos diferentes órgãos e serviços do IH em tudo o que respeita, especificamente, à natureza das actividades do IH.
+Art. 51.º O apoio logístico e administrativo às missões e brigadas independentes é prestado pelos diferentes órgãos e serviços do IH em tudo o que respeita, especificamente, à natureza das actividades do IH.
 
-###### Art. 52.º - 1 - As condições em que os navios da Armada desempenham missões especiais do IH são definidas por portaria do Chefe do Estado-Maior da Armada.
+Art. 52.º - 1 - As condições em que os navios da Armada desempenham missões especiais do IH são definidas por portaria do Chefe do Estado-Maior da Armada.
 
 2 - No desempenho dessas funções o director-geral do IH poderá delegar no director técnico-científico a competência que lhe é própria relativa a aspectos técnicos.
 
 3 - O director técnico-científico poderá delegar no chefe da divisão em cujo âmbito se integram os trabalhos as funções da orientação técnica e fiscalização de actividades técnicas dos navios.
 
-###### Art. 53.º - 1 - Os organismos de investigação científica e tecnológica destinados a exercer actividades que sejam subsidiárias ou complementares das que estão definidas para o IH terão funcionamento regulado por diploma próprio.
+Art. 53.º - 1 - Os organismos de investigação científica e tecnológica destinados a exercer actividades que sejam subsidiárias ou complementares das que estão definidas para o IH terão funcionamento regulado por diploma próprio.
 
 2 - A criação ou extinção desses organismos é feita por portaria do Chefe do Estado-Maior da Armada.
 
@@ -666,7 +695,7 @@ c) Um arquivo técnico destinado à guarda dos documentos que interessam à Divi
 
 ##### SUBSECÇÃO I — Órgãos de apoio de documentação
 
-###### Art. 54.º - 1 - São órgãos de apoio de documentação:
+Art. 54.º - 1 - São órgãos de apoio de documentação:
 
 a) O Centro de Documentação e Informação (CDI);
 
@@ -676,7 +705,7 @@ c) A Biblioteca.
 
 2 - Os órgãos mencionados no n.º 1 dependem do director dos Serviços de Documentação.
 
-###### Art. 55.º - 1 - Ao Centro de Documentação e Informação do IH (CDI) incumbe:
+Art. 55.º - 1 - Ao Centro de Documentação e Informação do IH (CDI) incumbe:
 
 a) Averiguar da documentação e informação científica e técnica que interessa às actividades do IH, constituindo o seu ficheiro de modo a assegurar a sua consulta ou distribuição pelas divisões técnicas e serviços de apoio;
 
@@ -690,7 +719,7 @@ e) Publicar periodicamente relações das fichas existentes.
 
 2 - O chefe do CDI é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo.
 
-###### Art. 56.º - 1 - Ao Serviço de Publicações incumbe:
+Art. 56.º - 1 - Ao Serviço de Publicações incumbe:
 
 a) Estabelecer os critérios gerais a que devem obedecer as publicações do IH, de modo a assegurar a sua uniformidade;
 
@@ -704,7 +733,7 @@ e) Arquivar e manter actualizadas todas as publicações classificadas, sejam ou
 
 2 - O chefe do Serviço de Publicações é um oficial da Armada, do activo ou da reserva.
 
-###### Art. 57.º - 1 - Incumbe à Biblioteca:
+Art. 57.º - 1 - Incumbe à Biblioteca:
 
 a) Proceder à catalogação, arquivo e conservação dos livros, publicações periódicas e outros documentos de estudo e consulta pertencentes ao IR;
 
@@ -720,7 +749,7 @@ e) Ser depositária das publicações editadas pelo IH.
 
 ##### SUBSECÇÃO II — Órgãos de apoio geral
 
-###### Art. 58.º - 1 - São órgãos de apoio geral:
+Art. 58.º - 1 - São órgãos de apoio geral:
 
 a) A Secretaria Central;
 
@@ -740,7 +769,7 @@ h) O Serviço de Saúde.
 
 2 - Os órgãos mencionados no n.º 1 dependem do director dos Serviços de Apoio.
 
-###### Art. 59.º - 1 - Incumbe à Secretaria Central a recepção, registo e expediente da correspondência do IH.
+Art. 59.º - 1 - Incumbe à Secretaria Central a recepção, registo e expediente da correspondência do IH.
 
 2 - No âmbito do mencionado no n.º 1, incumbe especialmente à Secretaria Central:
 
@@ -760,9 +789,9 @@ g) A expedição dos avisos à navegação, dos boletins meteorológicos e de ou
 
 3 - A Secretaria Central assegura os trabalhos de dactilografia do director dos Serviços de Apoio e dos serviços que não tenham dactilografia própria.
 
-###### Art. 60.º O chefe da Secretaria Central é um primeiro-oficial do quadro do pessoal civil do IH.
+Art. 60.º O chefe da Secretaria Central é um primeiro-oficial do quadro do pessoal civil do IH.
 
-###### Art. 61.º - 1 - Ao Serviço do Pessoal incumbem os assuntos relativos ao pessoal militar e civil em serviço no IH nos aspectos que não sejam específicos de outros serviços.
+Art. 61.º - 1 - Ao Serviço do Pessoal incumbem os assuntos relativos ao pessoal militar e civil em serviço no IH nos aspectos que não sejam específicos de outros serviços.
 
 2 - O Serviço do Pessoal é chefiado por um capitão-tenente OT.
 
@@ -776,9 +805,9 @@ b) Secção do Pessoal Civil.
 
 5 - À Secção do Pessoal Civil competem os assuntos relacionados com a gestão do pessoal civil, designadamente a que respeita ao recrutamento, selecção e inscrição, promoção e registo disciplinar e de informações.
 
-###### Art. 62.º O Serviço do Pessoal exerce as funções de serviço de justiça, sob a orientação do director dos Serviços de Apoio.
+Art. 62.º O Serviço do Pessoal exerce as funções de serviço de justiça, sob a orientação do director dos Serviços de Apoio.
 
-###### Art. 63.º - 1 - Ao Serviço de Abastecimento compete apoiar, no respectivo âmbito, os diferentes organismos do IH e desempenhar funções análogas às que, pela OSN e pela [Portaria n.º 22021](https://diariodarepublica.pt/dr/detalhe/portaria/22021-1966-473364), de 31 de Maio de 1966, pertencem aos serviços de abastecimentos das forças navais e dos comandos navais.
+Art. 63.º - 1 - Ao Serviço de Abastecimento compete apoiar, no respectivo âmbito, os diferentes organismos do IH e desempenhar funções análogas às que, pela OSN e pela [Portaria n.º 22021](https://diariodarepublica.pt/dr/detalhe/portaria/22021-1966-473364), de 31 de Maio de 1966, pertencem aos serviços de abastecimentos das forças navais e dos comandos navais.
 
 2 - O Serviço de Abastecimento é chefiado por um oficial superior da classe de administração naval.
 
@@ -808,9 +837,9 @@ f) Cantina.
 
 9 - À Secção da Cantina incumbe apenas um serviço de bar, que engloba a venda de café, tabaco, bebidas e refrigerantes, destinado ao pessoal militar e civil do IH.
 
-###### Art. 64.º Ao Serviço de Abastecimento cabe ainda assegurar o provimento e movimentação de cronómetros, cartas de navegação, publicações náuticas e outros artigos que sejam da responsabilidade do IH como organismo abastecedor da Armada.
+Art. 64.º Ao Serviço de Abastecimento cabe ainda assegurar o provimento e movimentação de cronómetros, cartas de navegação, publicações náuticas e outros artigos que sejam da responsabilidade do IH como organismo abastecedor da Armada.
 
-###### Art. 65.º Na dependência do chefe do Serviço de Abastecimento funciona um Depósito de Documentos Náuticos, com o objectivo de:
+Art. 65.º Na dependência do chefe do Serviço de Abastecimento funciona um Depósito de Documentos Náuticos, com o objectivo de:
 
 a) Armazenar, conservar e distribuir os cronómetros, as cartas e outras publicações náuticas editadas pelo IH e organismos similares estrangeiros;
 
@@ -824,7 +853,7 @@ e) Entregar na Secretaria Central todas as encomendas a expedir pelo correio;
 
 f) Enviar à Divisão de Cartografia as cartas e publicações sujeitas a alterações.
 
-###### Art. 66.º - 1 - Incumbe ao Serviço de Assistência Oficinal (SAO) do IH, com funções análogas às do serviço idêntico dos comandos territoriais da Armada, prestar o apoio técnico e logístico aos diversos órgãos do IH.
+Art. 66.º - 1 - Incumbe ao Serviço de Assistência Oficinal (SAO) do IH, com funções análogas às do serviço idêntico dos comandos territoriais da Armada, prestar o apoio técnico e logístico aos diversos órgãos do IH.
 
 2 - Incumbe especialmente ao SAO:
 
@@ -850,7 +879,7 @@ d) Oficina de Pintura.
 
 4 - O SAO é chefiado por um oficial superior engenheiro maquinista naval.
 
-###### Art. 67.º - 1 - Incumbe ao Serviço de Electrotecnia e Mecânica de Precisão prestar apoio técnico e logístico relativamente aos equipamentos e instrumentos utilizados pelas divisões, serviços e outros órgãos, etc., bem como à instalação eléctrica e electrónica dos edifícios da sede e dependências do Instituto.
+Art. 67.º - 1 - Incumbe ao Serviço de Electrotecnia e Mecânica de Precisão prestar apoio técnico e logístico relativamente aos equipamentos e instrumentos utilizados pelas divisões, serviços e outros órgãos, etc., bem como à instalação eléctrica e electrónica dos edifícios da sede e dependências do Instituto.
 
 2 - No âmbito do mencionado no n.º 1, incumbe especialmente a este Serviço:
 
@@ -878,7 +907,7 @@ b) Electricidade;
 
 c) Mecânica de Precisão, à qual pertencem os bancos de provas de material de navegação, cujas responsabilidades se inserem nos n.os 1 e 2 deste artigo.
 
-###### Art. 68.º - 1 - Aos Serviços Gerais e de Transportes incumbem os assuntos relativos à conservação, limpeza e operacionalidade das instalações e à segurança das infra-estruturas; aos transportes de material e pessoal e à carga e descarga de material; à distribuição e fiscalização do pessoal menor e auxiliar; à fiscalização das entradas e saídas de pessoal e material.
+Art. 68.º - 1 - Aos Serviços Gerais e de Transportes incumbem os assuntos relativos à conservação, limpeza e operacionalidade das instalações e à segurança das infra-estruturas; aos transportes de material e pessoal e à carga e descarga de material; à distribuição e fiscalização do pessoal menor e auxiliar; à fiscalização das entradas e saídas de pessoal e material.
 
 2 - Os Serviços Gerais e de Transportes são chefiados por um capitão-tenente da classe OT.
 
@@ -896,7 +925,7 @@ c) Secção de Transportes.
 
 6 - À Secção de Transportes incumbem os transportes de material, executando e cooperando na sua carga e descarga; transportes de pessoal, procedendo à distribuição dos motoristas e do pessoal pelas viaturas; a conservação das viaturas e contrôle dos consumos; a fiscalização da documentação respeitante ao cadastro de cada viatura e das ferramentas atribuídas; a distribuição das viaturas conforme as necessidades dos serviços pedidos.
 
-###### Art. 69.º - 1 - Ao Serviço de Artes Gráficas incumbe o apoio técnico e logístico relativamente aos trabalhos de impressão litográfica, impressão tipográfica e encadernação que lhe forem entregues pelos diferentes órgãos do IH.
+Art. 69.º - 1 - Ao Serviço de Artes Gráficas incumbe o apoio técnico e logístico relativamente aos trabalhos de impressão litográfica, impressão tipográfica e encadernação que lhe forem entregues pelos diferentes órgãos do IH.
 
 2 - O Serviço de Artes Gráficas presta iguais serviços aos diferentes organismos da Marinha, mediante reembolso das despesas efectuadas.
 
@@ -910,7 +939,7 @@ b) Oficina de Tipografia e Encadernação.
 
 5 - O Serviço de Artes Gráficas é chefiado por um oficial superior, do activo ou da reserva.
 
-###### Art. 70.º - 1 - Ao Serviço de Saúde incumbe cuidar das condições sanitárias, de segurança no trabalho e ainda de acção terapêutica preventiva de doenças profissionais e prestação de assistência médica.
+Art. 70.º - 1 - Ao Serviço de Saúde incumbe cuidar das condições sanitárias, de segurança no trabalho e ainda de acção terapêutica preventiva de doenças profissionais e prestação de assistência médica.
 
 2 - O Serviço de Saúde é chefiado por um oficial médico naval.
 
@@ -918,7 +947,7 @@ b) Oficina de Tipografia e Encadernação.
 
 #### SECÇÃO V — Escola de Hidrografia e Oceanografia
 
-###### Art. 71.º - 1 - Incumbe à Escola de Hidrografia e Oceanografia (EHO) a organização e realização de cursos de actualização, conversão, formação, aperfeiçoamento e especialização do pessoal militar e do pessoal civil, com vista à obtenção de técnicos e de auxiliares necessários às actividades do IH ou que, relacionadas com estas, interessem à Marinha e ao País.
+Art. 71.º - 1 - Incumbe à Escola de Hidrografia e Oceanografia (EHO) a organização e realização de cursos de actualização, conversão, formação, aperfeiçoamento e especialização do pessoal militar e do pessoal civil, com vista à obtenção de técnicos e de auxiliares necessários às actividades do IH ou que, relacionadas com estas, interessem à Marinha e ao País.
 
 2 - Incumbe ainda à EHO:
 
@@ -926,11 +955,11 @@ a) Estudar os programas e outros aspectos de escolas, centros e organismos nacio
 
 b) Elaborar e propor os planos dos cursos e estágios referidos na alínea a).
 
-###### Art. 72.º A EHO depende do director-geral, sem prejuízo da autoridade funcional exercida pelo SSPA, através da Direcção do Serviço de Instrução, em tudo o que diz respeito a cursos, estágios e instruções destinados a pessoal militar.
+Art. 72.º A EHO depende do director-geral, sem prejuízo da autoridade funcional exercida pelo SSPA, através da Direcção do Serviço de Instrução, em tudo o que diz respeito a cursos, estágios e instruções destinados a pessoal militar.
 
-###### Art. 73.º O director de instrução da EHO é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo, a quem compete, de acordo com as directivas do director-geral, orientar o ensino, zelando pela sua eficiência e pela manutenção do material escolar.
+Art. 73.º O director de instrução da EHO é um oficial superior da classe de marinha, de preferência engenheiro hidrógrafo, a quem compete, de acordo com as directivas do director-geral, orientar o ensino, zelando pela sua eficiência e pela manutenção do material escolar.
 
-###### Art. 74.º - 1 - Na EHO funciona, como órgão de estudos e consulta do director-geral para assuntos de carácter pedagógico, um conselho escolar, com a seguinte constituição:
+Art. 74.º - 1 - Na EHO funciona, como órgão de estudos e consulta do director-geral para assuntos de carácter pedagógico, um conselho escolar, com a seguinte constituição:
 
 a) Director de instrução;
 
@@ -952,15 +981,15 @@ d) Apreciar, no fim de cada curso ou quando necessário, os trabalhos e as prova
 
 e) Propor a eliminação dos alunos que, no decorrer do curso, não atinjam o aproveitamento suficiente ou que revelem falta de aptidão e de idoneidade para o desempenho das futuras funções.
 
-###### Art. 75.º - 1 - Sob proposta do director de instrução, o director-geral do IH estabelecerá a relação dos cursos a realizar em cada ano, a submeter à apreciação do director do Serviço de Instrução.
+Art. 75.º - 1 - Sob proposta do director de instrução, o director-geral do IH estabelecerá a relação dos cursos a realizar em cada ano, a submeter à apreciação do director do Serviço de Instrução.
 
 2 - O director-geral do IH encaminhará superiormente as propostas do director de instrução que, tendo merecido a sua concordância, se refiram aos cursos e estágios a frequentar em escolas nacionais e estrangeiras, no âmbito do mencionado no artigo 71.º deste Regulamento.
 
-###### Art. 76.º A EHO utiliza, como secretaria escolar, a secretaria do director técnico-científico.
+Art. 76.º A EHO utiliza, como secretaria escolar, a secretaria do director técnico-científico.
 
 #### SECÇÃO VI — Conselho administrativo
 
-###### Art. 77.º - 1 - O conselho administrativo (CA) do IH, cuja missão e deveres são os estabelecidos no Regulamento da Administração da Fazenda Naval (RAFN), tem a seguinte constituição: um presidente, que é o director-geral do IH; um vogal, que é o director dos Serviços de Apoio; um vogal, que é o chefe do Serviço de Abastecimento, e um secretário-tesoureiro.
+Art. 77.º - 1 - O conselho administrativo (CA) do IH, cuja missão e deveres são os estabelecidos no Regulamento da Administração da Fazenda Naval (RAFN), tem a seguinte constituição: um presidente, que é o director-geral do IH; um vogal, que é o director dos Serviços de Apoio; um vogal, que é o chefe do Serviço de Abastecimento, e um secretário-tesoureiro.
 
 2 - Às reuniões do CA destinadas a aprovar o orçamento privativo anual do IH, e seus suplementos, assistirão o director técnico-científico e o director dos Serviços de Documentação.
 
@@ -972,13 +1001,13 @@ a) O programa anual dos trabalhos técnicos e científicos, bem como os estudos 
 
 b) O reapetrechamento do IH em novos equipamentos, instrumentos e aparelhos, no intuito de utilizar as mais modernas técnicas nos domínios da navegação, da hidrografia e da oceanografia.
 
-###### Art. 78.º - 1 - Compete, em especial, ao vogal chefe do Serviço de Abastecimento assegurar o processamento administrativo e contabilísticos de todas as obras, estudos, trabalhos e projectos executados no IH.
+Art. 78.º - 1 - Compete, em especial, ao vogal chefe do Serviço de Abastecimento assegurar o processamento administrativo e contabilísticos de todas as obras, estudos, trabalhos e projectos executados no IH.
 
 2 - A execução dos orçamentos de obras, estudos, trabalhos e projectos que o IH realize para cumprimento dos seus programas, ou para outras entidades e organismos oficiais ou privados, deve basear-se em pareceres das divisões técnicas e serviços que intervêm na sua execução.
 
-###### Art. 79.º O CA pode, à semelhança do regime estabelecido na alínea f) do artigo 27.º do RAFN, adiantar aos órgãos externos a verba considerada necessária para a satisfação das despesas correntes.
+Art. 79.º O CA pode, à semelhança do regime estabelecido na alínea f) do artigo 27.º do RAFN, adiantar aos órgãos externos a verba considerada necessária para a satisfação das despesas correntes.
 
-###### Art. 80.º - 1 - O conselho administrativo dispõe das seguintes secções:
+Art. 80.º - 1 - O conselho administrativo dispõe das seguintes secções:
 
 a) Secretaria;
 
@@ -1036,10 +1065,10 @@ e) Manter actualizadas as contas correntes com os organismos abastecedores da Ma
 
 8 - As Secções de Secretaria, Tesouraria, Orçamentos e Contabilidade e Contas de Pessoal e Pecuniárias são dirigidas pelo secretário-tesoureiro, ficando as restantes a cargo do vogal chefe do Serviço de Abastecimento.
 
-###### Art. 81.º O funcionamento das secções referidas no artigo 80.º e as funções de apoio e de contrôle administrativo e financeiro dos diferentes órgãos e serviços do IH serão disciplinados por instruções elaboradas pelo conselho administrativo.
+Art. 81.º O funcionamento das secções referidas no artigo 80.º e as funções de apoio e de contrôle administrativo e financeiro dos diferentes órgãos e serviços do IH serão disciplinados por instruções elaboradas pelo conselho administrativo.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 82.º O director-geral do IH promoverá a elaboração e aplicação das normas e instruções de serviço interno julgadas necessárias à implementação deste Regulamento.
+Art. 82.º O director-geral do IH promoverá a elaboração e aplicação das normas e instruções de serviço interno julgadas necessárias à implementação deste Regulamento.
 
-**O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.**
+O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

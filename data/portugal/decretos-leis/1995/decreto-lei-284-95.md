@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/251a00/67466752.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/284/1995/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/284-1995-678447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f2e2be8848625f643752a60bdb726d15311c0aa5094fb3e866c82ce31fdda0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d3164e4ca49234368148cb2e495febc016f1645d85032dc20e0988eb62b5b99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
 subjects:
 - Cofre de Previdência das Forças Armadas
 - Comissão de Fiscalização
-- Gestão Financeira
 - Complexo Social das Forças Armadas
 - Conselho Administrativo
+- Conselho Consultivo
 - Conselho de Direção
 - Estatuto
 - Extinção de Lugares
+- Forças Armadas
+- Gestão Financeira
 - Instituto de Ação Social das Forças Armadas
-- Conselho Consultivo
 - Integração de Serviços
 - Integração de Trabalhadores
-- Forças Armadas
 - Regime de Pessoal
 - Serviços Sociais
 - Transferência de Competências
@@ -87,6 +87,13 @@ relationships:
   target: pt:dre:482833:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482833:por
+  label: Os estatutos aprovados pelo presente diploma são substituídos, a partir de 1 de novembro de 2009, pelos Estatutos
+    do Instituto de Acção Social das Forças Armadas, I. P., aprovados pelo(a) Portaria n.º 1271/2009 - Diário da República
+    n.º 202/2009, Série I de 2009-10-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1271-2009-482833
+  date: '2009-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
@@ -95,16 +102,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1013/1991/10/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1013/1991/10/03/p/dre
+- type: cites
+  target: pt:dre:236693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489509:por
+  label: "Revogado o presente diploma, a partir de 01.11.2009, com excepção do art. 6.º, pelo DEC LEI.215/2009.04.09.2009.MDN,\
+    \ DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2009-489509
+  date: '2009-09-04'
 article_structure:
-  article_count: 41
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 40
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:25Z'
   warnings: []
   errors: []
 ---
@@ -129,33 +202,33 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os Serviços Sociais das Forças Armadas (SSFA) passam a designar-se por Instituto de Acção Social das Forças Armadas (IASFA).
+Artigo 1.º - 1 - Os Serviços Sociais das Forças Armadas (SSFA) passam a designar-se por Instituto de Acção Social das Forças Armadas (IASFA).
 
 2 - O Cofre de Previdência das Forças Armadas (CPFA) é integrado no IASFA.
 
 3 - É aprovado o Estatuto do IASFA, publicado em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O Lar de Veteranos Militares (LVM), o Complexo Social das Forças Armadas (COSFA) e o Centro Social Médico e Educativo do Alfeite (CSMEA) integram os equipamentos sociais do IASFA e passam a designar-se, respectivamente, por Centro de Apoio Social de Runa, Centro de Apoio Social de Oeiras e Centro de Apoio Social do Alfeite.
+Art. 2.º O Lar de Veteranos Militares (LVM), o Complexo Social das Forças Armadas (COSFA) e o Centro Social Médico e Educativo do Alfeite (CSMEA) integram os equipamentos sociais do IASFA e passam a designar-se, respectivamente, por Centro de Apoio Social de Runa, Centro de Apoio Social de Oeiras e Centro de Apoio Social do Alfeite.
 
-###### Art. 3.º - 1 - São transferidas para o IASFA as atribuições e competências do CPFA, do LVM, do COSFA e do CSMEA, bem como, com dispensa de quaisquer formalidades, o património e a titularidade de direitos e obrigações que tenham em quaisquer contratos ou outras situações jurídicas.
+Art. 3.º - 1 - São transferidas para o IASFA as atribuições e competências do CPFA, do LVM, do COSFA e do CSMEA, bem como, com dispensa de quaisquer formalidades, o património e a titularidade de direitos e obrigações que tenham em quaisquer contratos ou outras situações jurídicas.
 
 2 - O presente diploma constitui título bastante para a transferência de propriedade prevista no número anterior.
 
-###### Art. 4.º - 1 - As pessoas que à data da entrada em vigor do presente diploma, não sendo beneficiárias dos SSFA, se encontravam inscritas como subscritores do CPFA podem, mediante a continuação do pagamento da quota, manter os direitos inerentes a esta qualidade.
+Art. 4.º - 1 - As pessoas que à data da entrada em vigor do presente diploma, não sendo beneficiárias dos SSFA, se encontravam inscritas como subscritores do CPFA podem, mediante a continuação do pagamento da quota, manter os direitos inerentes a esta qualidade.
 
 2 - As pessoas referidas no número anterior podem, em alternativa, requerer, no prazo de 180 dias a contar da entrada em vigor do presente diploma, a sua admissão como beneficiárias do IASFA, passando a gozar de todos os direitos e tendo todas as obrigações correspondentes à categoria de beneficiários, titulares ou familiares, em que venham a ser integradas.
 
-###### Art. 5.º - 1 - Os beneficiários do IASFA integram-se nas categorias de beneficiários titulares e de beneficiários familiares.
+Art. 5.º - 1 - Os beneficiários do IASFA integram-se nas categorias de beneficiários titulares e de beneficiários familiares.
 
 2 - As pessoas que à data de entrada em vigor do presente diploma eram beneficiárias titulares dos SSFA integram a categoria de beneficiários titulares do IASFA.
 
 3 - As pessoas que à data de entrada em vigor do presente diploma se encontravam inscritas como familiares beneficiários e como beneficiários titulares extraordinários integram a categoria de beneficiários familiares do IASFA.
 
-###### Art. 6.º - 1 - Mantém-se a obrigatoriedade do pagamento das quotas de subscritor para todas as pessoas que à data da entrada em vigor do presente diploma detenham aquela qualidade, sendo credor do respectivo montante o IASFA.
+Art. 6.º - 1 - Mantém-se a obrigatoriedade do pagamento das quotas de subscritor para todas as pessoas que à data da entrada em vigor do presente diploma detenham aquela qualidade, sendo credor do respectivo montante o IASFA.
 
 2 - O IASFA assegurará o pagamento do subsídio pecuniário único previsto no artigo 3.º do [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de Abril de 1960, nos termos dos artigos 7.º a 32.º do mesmo, considerando-se feitas para o IASFA todas as menções que naquelas disposições são feitas ao CPFA.
 
-###### Art. 7.º - 1 - O quadro de pessoal do IASFA é aprovado por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
+Art. 7.º - 1 - O quadro de pessoal do IASFA é aprovado por portaria conjunta dos Ministros da Defesa Nacional e das Finanças.
 
 2 - Ao provimento de pessoal dirigente é aplicável o regime estabelecido para o provimento do pessoal dirigente dos órgãos e serviços centrais do Ministério da Defesa Nacional.
 
@@ -163,13 +236,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - O IASFA pode recrutar pessoal, em regime de contrato individual de trabalho, para o exercício de actividades nos equipamentos sociais e para o apoio domiciliário, não adquirindo este, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 8.º - 1 - O preenchimento dos lugares do quadro de pessoal do IASFA a que se refere o n.º 1 do artigo anterior faz-se, exceptuando os cargos dirigentes, de entre funcionários providos no quadro de pessoal civil dos Serviços Sociais das Forças Armadas aprovado pela [Portaria n.º 1013/91](https://diariodarepublica.pt/dr/detalhe/portaria/1013-1991-293753), de 3 de Outubro.
+Art. 8.º - 1 - O preenchimento dos lugares do quadro de pessoal do IASFA a que se refere o n.º 1 do artigo anterior faz-se, exceptuando os cargos dirigentes, de entre funcionários providos no quadro de pessoal civil dos Serviços Sociais das Forças Armadas aprovado pela [Portaria n.º 1013/91](https://diariodarepublica.pt/dr/detalhe/portaria/1013-1991-293753), de 3 de Outubro.
 
 2 - São aplicáveis à transição de pessoal do quadro de pessoal civil dos Serviços Sociais das Forças Armadas para o quadro de pessoal do IASFA as regras estabelecidas nos n.os 1, 2 e 3 do artigo 24.º do [Decreto-Lei n.º 47/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1993-657446), de 26 de Fevereiro.
 
-###### Art. 9.º Os concursos que se encontrem abertos à data da entrada em vigor do presente diploma mantêm-se válidos para os lugares do quadro de pessoal do IASFA.
+Art. 9.º Os concursos que se encontrem abertos à data da entrada em vigor do presente diploma mantêm-se válidos para os lugares do quadro de pessoal do IASFA.
 
-###### Art. 10.º - 1 - É revogada toda a legislação que contrarie o disposto no presente diploma, designadamente:
+Art. 10.º - 1 - É revogada toda a legislação que contrarie o disposto no presente diploma, designadamente:
 
 a) O [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958;
 
@@ -203,13 +276,13 @@ n) A [Portaria n.º 345/88](https://diariodarepublica.pt/dr/detalhe/portaria/345
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
 O Primeiro Ministro, Aníbal António Cavaco Silva.
 
@@ -597,7 +670,9 @@ c) A Divisão de Comparticipações Financeiras;
 
 d) A Secção de Expediente e Arquivo, à qual incumbe prestar apoio administrativo ao departamento.
 
-###### Artigo 31.º — Divisão de Assuntos Sociais
+###### Artigo 31.º
+
+##### Divisão de Assuntos Sociais
 
 1 - À Divisão de Assuntos Sociais compete:
 
@@ -615,7 +690,9 @@ f) Promover, em colaboração com a repartição de recursos humanos, a formaç�
 
 2 - Adstrita à Divisão de Assuntos Sociais funciona um gabinete de atendimento, coordenado por um elemento do IASFA a designar pelo director do departamento, ao qual compete atender, informar e acompanhar os beneficiários, receber e analisar os pedidos e encaminhar os assuntos para os serviços competentes.
 
-###### Artigo 32.º — Divisão de Equipamentos Sociais
+###### Artigo 32.º
+
+##### Divisão de Equipamentos Sociais
 
 À Divisão de Equipamentos Sociais compete:
 
@@ -627,7 +704,9 @@ c) Estudar e propor, em coordenação com os serviços competentes, programas de
 
 d) Planear a utilização dos diversos equipamentos sociais e contribuir para a elaboração dos normativos reguladores das condições de acesso aos diversos equipamentos sociais.
 
-###### Artigo 33.º — Divisão de Comparticipações Financeiras
+###### Artigo 33.º
+
+##### Divisão de Comparticipações Financeiras
 
 À Divisão de Comparticipações Financeiras compete:
 

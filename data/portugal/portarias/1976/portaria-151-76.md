@@ -48,36 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-1976-501603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ce5f2e10793777a9a42d1bb845384f69cc50d6f8a2a35ba655b5d1eec6cc21e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9dd9e2699c488a0c4762929935ec0329a949a60776840d159b0e789b44800fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Formação
+- Escola Naval
+- Formação Profissional
+- Militar
+- Plano de Estudos
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:147987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307600:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:39Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +118,15 @@ Estado-Maior da Armada, 12 de Fevereiro de 1976. - O Chefe do Estado-Maior da Ar
 
 I - Cadeiras de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 II - Cadeiras de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 ## ANEXO E — Plano do curso de Marinha
 
@@ -172,7 +190,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -202,7 +220,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 e) Embarque do 2.º ano:
 
@@ -232,7 +250,7 @@ c) Prática de instrução complementar das restantes matérias técnico-navais 
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -266,7 +284,7 @@ d) Realização de exercícios que permitam a aplicação dos conhecimentos ante
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 i) Embarques do 4.º ano:
 
@@ -292,7 +310,7 @@ c) Prática de manobra do navio;
 
 Para efeitos de cálculo das quotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques, dos estágios e das qualidades militares são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -358,7 +376,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 c) Embarque do 1.º ano:
 
@@ -388,7 +406,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 e) Embarque do 2.º ano:
 
@@ -418,7 +436,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -448,7 +466,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 i) Embarques do 4.º ano:
 
@@ -474,7 +492,7 @@ c) Prática de manobra do navio;
 
 Para efeitos de cálculo das cotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques, dos estágios e das qualidades militares são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -536,7 +554,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -566,7 +584,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 e) Embarque do 2.º ano:
 
@@ -596,7 +614,7 @@ c) Prática e instrução complementar das restantes matérias aprendidas;
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -626,7 +644,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 i) Embarques do 4.º ano:
 
@@ -652,7 +670,7 @@ c) Prática de manobra do navio;
 
 Para efeitos de cálculo das cotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques, dos estágios e das qualidades militares são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -660,14 +678,14 @@ Nota. - Os coeficientes das classificações das cadeiras e das instruções con
 
 I - Cadeiras de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 II - Cadeiras de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf))](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/03/06600/05430554.pdf)
 
-**O Chefe do Estado-Maior da Armada, António Souto Silva Cruz, vice-almirante.**
+O Chefe do Estado-Maior da Armada, António Souto Silva Cruz, vice-almirante.

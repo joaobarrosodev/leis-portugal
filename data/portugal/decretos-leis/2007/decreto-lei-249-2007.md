@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2007/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2007-635844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0ca8b28400d5ae4664d1fa9e08daf2968b30c9dc7d0efe7cbdf0a3fb94776e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6041b5dea8ad62991493136ba5b4d5e4a69deb546448edcb209d69e7ce67aece
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Análise Laboratorial
 - Aproximação das Legislações
 - Batata
-- Investigação Científica e Tecnológica
-- Multa
-- Doença Vegetal
-- Direção Geral da Agricultura e Desenvolvimento Rural
-- Tomate
 - Contra-ordenação
-- Definição de Competências
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Doença Vegetal
+- Investigação Científica e Tecnológica
 - Legume de Fruto
+- Madeira.região Autónoma
+- Multa
 - Programa
 - Proteção Fitossanitária
-- Madeira.região Autónoma
-- Açores
+- Tomate
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
@@ -97,16 +97,21 @@ relationships:
   target: celex:32006L0063
   label: null
   source: http://data.europa.eu/eli/dir/2006/63/oj
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado a partir de 01.01.2022 pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
   article_count: 18
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:39Z'
   warnings: []
   errors: []
 ---
@@ -349,17 +354,19 @@ Todas as referências feitas para o decreto-lei que agora se revoga consideram-s
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 11 de Junho de 2007.**
+Promulgado em 11 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Junho de 2007.**
+Referendado em 14 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO I — SECÇÃO I
+## ANEXO I
+
+#### SECÇÃO I
 
 Lista de vegetais hospedeiros de Ralstonia solanacearum (Smith) Yabuuchi et al.
 
@@ -455,7 +462,7 @@ A presença confirmada, conforme referido no no n.º 1 do artigo 6.º do present
 
 O procedimento laboratorial destina-se a tubérculos de batateira e a plantas com sintomas típicos ou suspeitos de pus ou mal murcho. Implica um teste rápido de rastreio, isolamento do patogéneo a partir do tecido vascular infectado num meio de cultura (selectivo) e, em caso de resultado positivo, identificação da cultura como R. solanacearum.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 2 - Esquema para detecção e identificação de R. solanacearum em amostras de tubérculos de batateira assintomáticos:
 
@@ -465,11 +472,11 @@ O procedimento laboratorial destina-se a detectar infecções latentes em tubér
 
 Os testes de rastreio e os testes de isolamento devem permitir detectar 10(elevado a 3) a 10(elevado a 4) células por ml de sedimento ressuspenso, incluídos como controlos positivos em cada série de testes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 3 - Esquema para detecção e identificação de R. solanacearum em amostras de plantas assintomáticas de batateira, tomateiro ou outras plantas hospedeiras:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 #### SECÇÃO II
 
@@ -651,7 +658,7 @@ Bioensaio (ver n.º 9 da parte A da secção VI).
 
 1 - Esquema para detecção e identificação de R. solanacearum em água:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 2 - Métodos de detecção e identificação de R. solanacearum em água:
 
@@ -689,7 +696,7 @@ Ver fluxograma e descrição dos testes nos respectivos apêndices.
 
 1 - Esquema para detecção e identificação de R. solanacearum no solo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 2 - Métodos de detecção e identificação de R. solanacearum no solo:
 
@@ -713,7 +720,7 @@ Ver fluxograma e descrição dos testes nos respectivos apêndices.
 
 #### SECÇÃO VI — Protocolos optimizados para detecção e identificação de R. Solanacearum
 
-# PARTE A — Testes de diagnóstico e detecção
+## PARTE A — Testes de diagnóstico e detecção
 
 1 - Teste de exsudação do caule:
 
@@ -879,13 +886,13 @@ FIGURA N.º 1
 
 Preparação da lâmina de acordo com a alínea i) do n.º 5.1 e a alínea i) do n.º 5.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 FIGURA N.º 2
 
 Preparação da lâmina de acordo com a alínea ii) do n.º 5.1 e a alínea ii) do n.º 5.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 5.3.1 - Dispor as lâminas sobre papel absorvente humedecido. Cobrir por completo cada poço a testar com a(s) diluição(ões) de anticorpo. O volume de anticorpo adicionado a cada poço deve ser, pelo menos, igual ao volume de extracto aplicado.
 
@@ -1083,7 +1090,7 @@ FIGURA N.º 3
 
 Configuração para a lâmina FISH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 7.1.6 - Secar as lâminas ao ar (ou num secador de lâminas a 37ºC) e proceder à sua fixação à chama.
 
@@ -1241,7 +1248,7 @@ O bioensaio é negativo se as plantas inoculadas com os extractos das amostras n
 
 O bioensaio é positivo se as plantas inoculadas com os extractos das amostras estiverem infectadas por R.solanacearum.
 
-# PARTE B — Testes de identificação
+## PARTE B — Testes de identificação
 
 Identificar culturas puras de presumíveis isolados de R solanacearum, utilizando, pelo menos, dois dos seguintes testes baseados em princípios biológicos diferentes.
 
@@ -1339,11 +1346,11 @@ Incluir estirpes de referência conhecidas, sempre que adequado, para cada teste
 
 A espécie R. solanacearum encontra-se dividida em Biovares com base na sua capacidade em utilizar e/ou oxidar três dissacáridos e três álcoois de hexoses (Hayward, 1964 e Hayward et al., 1990). O meio decrescimento para o teste do Biovar é descrito no apêndice n.º 2. O teste pode ser realizado com sucesso mediante a inoculação por picada dos meios de crescimento com culturas puras de isolados de R. solanacearum e incubação a 28ºC. Se os meios forem distribuídos em placas estéreis de cultura de 96 poços (200 (mi)l por poço) pode observar-se uma mudança de cor, de verde azeitona para amarelo, passadas 72 horas, o que indica um resultado positivo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 Testes adicionais diferenciam o Biovar 2 em subfenótipos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 7.2 - «Genomic fingerprinting»:
 
@@ -1359,7 +1366,7 @@ A diferenciação molecular das estirpes do complexo R. solanacearum pode ser ef
 
 Podem utilizar-se iniciadores específicos para PCR (Pastrik et al., 2002; ver apêndice n.º 6) para diferenciar estirpes pertencentes à Divisão 1 (Biovares 3, 4 e 5) e Divisão 2 (Biovares 1, 2A e 2T) de R. solanacearum, como definidas inicialmente pela análise RFLP (Cook et al., 1989) e a sequenciação de 16S rADN (Taghavi et al., 1996).
 
-# PARTE C — Teste de confirmação
+## PARTE C — Teste de confirmação
 
 O teste de patogenicidade tem de ser efectuado como confirmação final do diagnóstico de R. solanacearum e para avaliar a virulência dos isolados identificados como R. solanacearum:
 
@@ -1373,13 +1380,13 @@ O teste de patogenicidade tem de ser efectuado como confirmação final do diagn
 
 5) Efectuar um isolamento a partir das plantas sintomáticas, retirando-lhes uma secção de cerca de 2 cm de caule acima do ponto de inoculação. Fragmentá-las e suspendê-las num pequeno volume de água destilada esterilizada ou de tampão fosfato 50 mM (apêndice n.º 4). Isolar a partir de diluições apropriadas da suspensão por espalhamento ou reticulado num meio adequado, de preferência selectivo (apêndice n.º 2), incubar durante 48-72 horas a 28ºC e observar a formação de colónias típicas de R. solanacearum.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Laboratórios envolvidos na validação e optimização de protocolos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Meios para isolamento e cultura de R. Solanacearum
 
@@ -1511,9 +1518,9 @@ Esterilizar em autoclave a 121ºC durante 15 minutos e arrefecer até 50ºC
 
 Adicionar soluções concentradas de antibióticos como para o meio líquido SMSA.
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
-# Parte A
+Parte A
 
 Material de controlo normalizado disponível no mercado
 
@@ -1531,7 +1538,7 @@ QUADRO I
 
 Tabela de referência SMT de isolados de R. solanacearum
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 Nota. - A autenticidade das estirpes acima indicadas só pode ser garantida se estas forem obtidas a partir de uma colecção de culturas autênticas.
 
@@ -1539,7 +1546,7 @@ QUADRO II
 
 Tabela de referência SMT de bactérias serológica ou geneticamente relacionadas para utilização na optimização de testes de detecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 b) Material de controlo normalizado disponível no mercado:
 
@@ -1551,7 +1558,7 @@ Sedimento liofilizado de extracto de batata proveniente de 200 tubérculos de ba
 
 Suspensões fixadas em formalina de R. solanacearum Biovar 2 (estirpe NCPPB 4156 = PD 2762 = CFBP 3857) com 10(elevado a 6) células por ml como controlos positivos para testes serológicos.
 
-# PARTE B — Preparação de controlos positivos e negativos para os testes essenciais de rastreio PCR/IF e FISH
+## PARTE B — Preparação de controlos positivos e negativos para os testes essenciais de rastreio PCR/IF e FISH
 
 Preparar uma suspensão a partir do crescimento de uma cultura com 48 horas em meio basal SMSA de uma estirpe virulenta de R. solanacearum Biovar 2/raça 3 (por exemplo estirpe NCPPB 4156 = PD 2762 = CFBP 3857) em tampão fosfato 10 mM, de modo a obter uma concentração de, aproximadamente, 2 x 10(elevado a 8) ufc por ml. Esta é obtida, normalmente, com uma suspensão ligeiramente turva equivalente a uma densidade óptica de 0,15 a 600 nm.
 
@@ -1577,7 +1584,7 @@ Para os testes IF e FISH efectuar ensaios nas amostras de controlo positivo e ne
 
 Para os testes IF, FISH e PCR, deve detectar-se R. solanacearum, pelo menos, nas amostras de controlo positivo com 10(elevado a 6) e 10(elevado a 4) células por ml e não deve ser detectada em nenhum controlo negativo.
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Tampões para a realização dos testes
 
@@ -1601,7 +1608,7 @@ Dissolver os ingredientes, verificar o pH e esterilizar em autoclave a 121ºC du
 
 Os seguintes componentes adicionais podem também ser úteis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 1.2 - Tampão de ressuspensão (tampão fosfato 10 mM, pH 7,2):
 
@@ -1749,7 +1756,7 @@ Dietanolamina - 100 ml
 
 Misturar e acertar a pH 9,8 com HCl concentrado.
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Determinação do nível de contaminação em testes IF e FISH
 
@@ -1785,7 +1792,7 @@ y = volume de sedimento ressuspenso em cada poço, e
 
 F = factor de diluição do sedimento ressuspenso
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Protocolos e reagentes validados para PCR
 
@@ -1807,7 +1814,7 @@ Tamanho esperado do fragmento amplificado do ADN-alvo de R. solanacearum = 288 b
 
 1.3 - Condições de reacção da PCR:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 Correr o seguinte programa:
 
@@ -1847,7 +1854,7 @@ Tamanho esperado do fragmento amplificado de ADN-alvo de R. solanacearum = 553 b
 
 2.2 - Mistura de reacção da PCR:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 2.3 - Condições de reacção da PCR:
 
@@ -1895,7 +1902,7 @@ Tamanho esperado do fragmento amplificado do controlo interno da PCR de 18S rARN
 
 3.2 - Mistura de reacção da PCR:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 3.3 - Condições de reacção da PCR:
 
@@ -1945,11 +1952,11 @@ Com Rs-1-F/Rs-3-R = 716 bp.
 
 a) PCR específica para os Biovares 1 e 2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 b) PCR específica para os Biovares 3, 4 e 5:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 4.3 - Condições de reacção da PCR:
 
@@ -2009,7 +2016,7 @@ Diluir até 1x antes de utilizar.
 
 Também disponível comercialmente (por exemplo, Invitrogen ou equivalente).
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Reagentes validados para o teste FISH
 
@@ -2061,7 +2068,7 @@ QUADRO I
 
 Quantidades sugeridas para a preparação da solução de hibridação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 5 - Tampão fosfato 0,1 M, pH 7,0:
 
@@ -2073,7 +2080,7 @@ KH(índice 2)PO(índice 4) - 5,44 g
 
 Dissolver os ingredientes, verificar o pH e esterilizar em autoclave a 121ºC durante 15 minutos.
 
-## APÊNDICE N.º 8
+APÊNDICE N.º 8
 
 Condições de cultivo de beringela e tomateiro
 
@@ -2081,7 +2088,7 @@ Semear tomateiros (Lycopersicon esculentum) ou beringelas (Solanum melongena) em
 
 As beringelas ou os tomateiros devem ser cultivados em estufa nas seguintes condições ambientais antes da inoculação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40954133.pdf)
 
 Fornecedores:
 

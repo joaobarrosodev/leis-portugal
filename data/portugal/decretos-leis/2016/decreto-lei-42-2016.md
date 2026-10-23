@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2016/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2016-75069303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed18a334690cb00d830a3207dacfdff5dcfd73d4526fd64621baf8dd0f0c138f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32c4a9640972f875c936ab8166714f9838fa47547bbb6cbdcc8fd81f48a615e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁGUA Superficial
-- Aproximação das Legislações
-- Controlo de Qualidade
-- Recursos Hídricos
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Poluição da água
 - Águas Subterrâneas
+- Aproximação das Legislações
+- Bacia Hidrográfica
+- Controlo de Qualidade
+- Poluição da água
+- Proteção do Ambiente
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:106654351:por
@@ -113,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:09Z'
   warnings: []
   errors: []
 ---
@@ -171,13 +195,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Carolina Maria Gomes Ferra - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 22 de julho de 2016.**
+Promulgado em 22 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de julho de 2016.**
+Referendado em 26 de julho de 2016.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -211,7 +235,7 @@ As frequências são escolhidas de modo que se atinja um nível de fiabilidade e
 
 São selecionadas frequências de monitorização que tenham em conta a variabilidade dos parâmetros resultante tanto das condições naturais como das condições antropogénicas. Os momentos para a realização da monitorização são selecionados de modo a minimizar o impacte das variações sazonais nos resultados, garantindo assim que estes reflitam as alterações registadas na massa de água, em resultado de pressões antropogénicas. Para atingir este objetivo deve-se, quando necessário, realizar a monitorização suplementar em estações diferentes do mesmo ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf))](https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf)
 
 4.2 - Normas para a monitorização dos elementos de qualidade.(2) - Os métodos utilizados para a monitorização dos parâmetros tipo devem respeitar as normas internacionais a seguir indicadas na medida em que estas abranjam a monitorização, ou quaisquer outras normas nacionais ou internacionais que assegurem a obtenção de dados igualmente comparáveis e de qualidade científica equivalente, devendo sempre ser consideradas as suas versões mais atualizadas.
 

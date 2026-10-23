@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/183b00/47694769.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/2003/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2003-646713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bef013c56661185f76a2a136a190ef863daf39802cd5b23fb3f9d50a5cee466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d064f00e4eaffc2f02b239654ab18c80e54016cfaf4540f4b166d43f730e084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Especificação Técnica
 - Espetáculos e Divertimentos Públicos
 - Local de Divertimento
-- Especificação Técnica
 - Normas de Segurança
 relationships:
 - type: amended_by
@@ -84,16 +84,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/2003/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/2003/12/10/p/dre
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490708:por
+  label: "Revogado, a partir de 29.10.2009, pelo DEC LEI.268/2009.29.09.2009.MEI, DR.IS [189] de 29.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2009-490708
+  date: '2009-09-29'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:24Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +139,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

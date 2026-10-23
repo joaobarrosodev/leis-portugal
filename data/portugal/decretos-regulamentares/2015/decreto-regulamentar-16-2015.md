@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18100/0814508156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/2015/09/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-2015-70309904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbe50d654f864e5a15e9e91467414e2ba716d420a3b5feae2cf040e2fa217e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8176673be514789e4d5d25ea0b1be914cbeef48c7d0c59c1a2b2b91495c4cf36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Especificação Técnica
-- Frota de Pesca
-- Pesca
-- Gestão dos Recursos
-- Licenciamento
-- Licença de Pesca
-- Recursos do Mar
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Aquicultura
 - Artes de Pesca
-- Regulamento CE
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Embarcação de Pesca
+- Especificação Técnica
+- Frota de Pesca
+- Gestão dos Recursos
+- Licença de Pesca
+- Licenciamento
+- Pesca
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:221990535:por
@@ -123,16 +123,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/14/2000/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/14/2000/09/21/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658904:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106824982:por
+  label: Revogado o DR 14/2000, de 21-set, na redação do presente diploma pelo(a) Decreto-Lei n.º 40/2017 - Diário da República
+    n.º 67/2017, Série I de 2017-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2017-106824982
+  date: '2017-04-04'
 article_structure:
-  article_count: 103
+  article_count: 97
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:50Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +213,9 @@ Marcação e identificação das artes de pesca
 
 5 - (Anterior n.º 2.)
 
-###### Artigo 64.º — Áreas de operação das embarcações de pesca costeira
+Artigo 64.º
+
+Áreas de operação das embarcações de pesca costeira
 
 1 - ...
 
@@ -211,7 +243,9 @@ c) ...
 
 10 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Os requisitos específicos a que as embarcações de pesca local devem obedecer, com ressalva do disposto nos n.os 2 e 3, são:
 
@@ -225,7 +259,9 @@ b) Potência do motor propulsor - não superior a 100 cv ou 75 kW.
 
 4 - As embarcações da pesca local que usem um único motor propulsor podem dispor de um segundo motor propulsor amovível, de potência não superior a 35 cv ou 26 kW, utilizado exclusivamente como alternativo no caso de falha do motor principal.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +277,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +309,9 @@ c) Minuta do contrato de afretamento.
 
 6 - A autorização referida no número anterior tem a duração de um ano, renovável automaticamente por igual período, caso não haja manifestação de vontade de qualquer uma das partes em sentido contrário.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +335,9 @@ b) ...
 
 9 - Assim que possível, os pedidos referidos nos artigos 70.º, 72.º, 73.º e 74.º podem ser apresentados de forma desmaterializada, através de sítio na Internet da DGRM, acessível através do balcão único eletrónico a que se refere o artigo 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, e do Portal do Cidadão.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A concessão de licenças de pesca está sujeita ao pagamento de taxas pelos respetivos beneficiários, cujos montantes e formas de cobrança são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.
 
@@ -345,15 +387,15 @@ São revogados os artigos 40.º a 44.º e o n.º 6 do artigo 64.º do [Decreto R
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Anabela Maria Pinto de Miranda Rodrigues -António Manuel Coelho da Costa Moura - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 4 de setembro de 2015.**
+Promulgado em 4 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de setembro de 2015.**
+Referendado em 10 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

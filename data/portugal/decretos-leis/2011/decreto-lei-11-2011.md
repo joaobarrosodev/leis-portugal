@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2011/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2011-280923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14fabd706aa847f1b2f8fef115f022f1199956c312324b370fb1692f016c37fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f6ea109d1f8ba235dddcd85150f6b95c2c56a221b7adda2997953e02d661996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - ADSE
 - Assistência Médica
 - Assistência Medicamentosa
 - Beneficiário
-- Serviços Sociais da Administração Pública
 - Definição de Competências
 - Extinção de Serviços
-- Ação Social
-- Secretaria Geral
-- Ministério da Justiça
 - Integração de Serviços
 - Jardim de Infância
+- Ministério da Justiça
 - Proteção Social
+- Secretaria Geral
 - Serviços Sociais
+- Serviços Sociais da Administração Pública
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -87,6 +87,13 @@ relationships:
   target: pt:dre:622306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Justiça dos serviços, organismos e estruturas identificados no Dec\
+    \ Lei 206/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 15º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2007/04/27/p/dre
   label: null
@@ -127,16 +134,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/102/2005/06/24/p/dre
+- type: cites
+  target: pt:dre:197491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693807:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:29Z'
   warnings: []
   errors: []
 ---
@@ -291,12 +354,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins.
 
-**Promulgado em 6 de Janeiro de 2011.**
+Promulgado em 6 de Janeiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Janeiro de 2011.**
+Referendado em 10 de Janeiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

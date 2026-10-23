@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/160/1999/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/160-1999-374996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e16a3fbfdf7b75e6e575377724bd93ce58ea1acd0de9fe1a78091cf931c04a4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f4e1a4165b3ebbed61b204bf2ff93f897c7567390c41ab0241d6245008bddf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ambiente de Trabalho
-- Higiene do Trabalho
 - Convenção
-- Portugal
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Macau
 - OIT
+- Portugal
 - Saúde no Trabalho
+- Segurança no Trabalho
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:28Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +93,14 @@ validation:
 
 de 8 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção n.º 155 da OIT sobre a Segurança e a Saúde dos Trabalhadores, de 1981, aprovada pelo Decreto n.º 1/85, de 16 de Janeiro, cujo texto foi publicado no Diário da República, 1.ª série, de 16 de Janeiro de 1985.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 29 de Junho de 1999.**
+Assinado em 29 de Junho de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e o texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e o texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257/1996/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1996-492203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 614654738c859d67f097286c4e684e81395467f7b51502028630408465b32eaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 886167059f761d15be9e9cbad7e750d1456ac646ec6ff877d82e4197d5ab0c90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,131 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
 - Código Comercial
 - Código das Sociedades Comerciais
 - Código do Notariado
 - Código do Registo Comercial
-- Emolumento do Notariado
-- Registos e Notariado
-- Direito Comercial
-- Pessoa Coletiva
-- Registo Nacional de Pessoas Coletivas
-- Regulamento
-- Registo Comercial
 - Comércio
+- Direito Comercial
+- Emolumento do Notariado
+- Pessoa Coletiva
+- Registo Comercial
+- Registo Nacional de Pessoas Coletivas
+- Registos e Notariado
+- Regulamento
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterados os art.s 219º, 250º e 390º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set,\
+    \ na redacção do presente diploma, pelo DEC LEI.343/98.06.11.1998.MF, DR.IS-A [257] de 06.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:138779:por
+  label: "Determina a suspensão da obrigatoriedade de legalização dos livros a que se refere o art. 112º-A do Código do Registo\
+    \ Comercial, aprovado pelo Dec Lei 403/86 de 03-Dez, na redacção do Dec Lei 216/94, de 20-Ago e do presente diploma, pelo\
+    \ DEC LEI.105/99.1999.03.31.MJ, DR.IS-A [76]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/105-1999-138779
+  date: '1999-03-31'
+- type: amended_by
+  target: pt:dre:323701:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.172/99.20.05.1999.MF, DR.IS-A [117] de 20.05.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1999-323701
+  date: '1999-05-20'
+- type: amended_by
+  target: pt:dre:411872:por
+  label: "Alterados, a partir de 01.05.2000, os arts. 270º-A e 270º-D do Código das Sociedades Comerciais, aprovado pelo Dec\
+    \ Lei 262/86 de 02-Set, na redacção do presente diploma, pelo DEC LEI.36/2000.14.03.2000.MJ, DR.IS-A [62] de 14.03.2000\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2000-411872
+  date: '2000-03-14'
+- type: amended_by
+  target: pt:dre:631838:por
+  label: "Alterado o art. 219º do Código das Sociedades Comerciais, na redacção do presente diploma, pelo DEC LEI.237/2001.30.08.2001.MJ,\
+    \ DR.IS-A [201] de 30.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2001-631838
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 70º, 71º, 73º a 79º, 92º, 99º e 131º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago\
+    \ e alterado pelo presente diploma,pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:553421:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.107/2003.2003.06.04.MF DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2003-553421
+  date: '2003-06-04'
+- type: amended_by
+  target: pt:dre:211031:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.70/2004.25.03.2004.MF, DR.IS-A [72] de 25.03.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2004-211031
+  date: '2004-03-25'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 3º do Código do Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o art. 10º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterado, a partir de 30.03.2006, o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 63.º, 70-ºA, 195.º, 219.º, 270º-A, 270º-C, 270º-D, 270.º-F, 297.º, 390.º, 413.º, 414.º, 416.º,
+    420.º, 420.º-A, 421.º, 422.º, 423.º e 423º-A, 446º-A, 446º-B, 446º-E e 452.º do Código das Sociedades Comerciais, aprovado
+    pelo Dec Lei 262/86 de 02-Set, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl]
+    de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:522813:por
+  label: "Alterado o art. 3º do Código Registo Comercial aprovado pelo Dec Lei 403/86 de 03-Dez, com a redacção conferida\
+    \ no presente diploma, pelo DEC LEI.8/2007.17.01.2007.MJ, DR.IS [12] de 17.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2007-522813
+  date: '2007-01-17'
+- type: amended_by
+  target: pt:dre:608246:por
+  label: "Alterado o art. 3º do Código de Registo Comercial, aprovado pelo Dec Lei 403/86, de 03-Dez, na redacção do presente\
+    \ diploma, pela LEI.19/2009.12.05.2009.AR, DR.IS [91] de 12.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2009-608246
+  date: '2009-05-12'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 420º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009, com produção de efeitos nos termos\
+    \ do art. 14º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterado, a partir de 24.05.2010, o art. 423º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:279421:por
+  label: "Alterado, a partir de 06.04.2011, o art. 219º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.33/2011.07.03.2011.PCM, DR.IS [46] de 07.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2011-279421
+  date: '2011-03-07'
 - type: cites
   target: celex:31968L0151
   label: null
@@ -111,16 +218,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/773/1994/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/773/1994/08/26/p/dre
+- type: corrected_by
+  target: pt:dre:574701:por
+  label: "Rectificados o sumário, o art. 1º [o último na parte que se refere ao nº 1 do art. 416º, ao nº 1 do art. 420º e\
+    \ ao nº 3 do art. 423º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set], o art. 4º [na parte\
+    \ que se refere ao nº 2 do art. 420º-A do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86, de 02-Set],\
+    \ o art. 7º [na parte que se refere ao § 3º do art. 31º do Código Comercial, aprovado pela Carta de Lei DD4, de 28-Jun\
+    \ 1888], e o art. 8º, pela Decl-Rect.5-A/97.1997.02.20.PCM, DR.IS-B [50]2ºSupl de 1997.02.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-a-1997-574701
+  date: '1997-02-20'
 article_structure:
-  article_count: 44
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:48Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +341,9 @@ b) [Actual alínea c).]
 
 c) [Actual alínea d).]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A indicação do objecto da sociedade deve ser correctamente redigida em língua portuguesa.
 
@@ -239,7 +357,9 @@ c) [Actual alínea d).]
 
 6 - (Actual n.º 5.)
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +397,9 @@ h) ...
 
 10 - Nenhum sócio tem o dever de assinar as actas que não estejam consignadas no respectivo livro ou nas folhas soltas, devidamente numeradas e rubricadas.
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +415,9 @@ h) ...
 
 7 - ...
 
-###### Artigo 250.º — [...]
+Artigo 250.º
+
+[...]
 
 1 - Conta-se um voto por cada 1$00 de valor nominal da quota.
 
@@ -301,7 +425,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 390.º — [...]
+Artigo 390.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +439,9 @@ h) ...
 
 5 - ...
 
-###### Artigo 413.º — [...]
+Artigo 413.º
+
+[...]
 
 1 - A fiscalização da sociedade compete a um fiscal único, que deve ser revisor oficial de contas ou sociedade de revisores oficiais de contas, ou a um conselho fiscal.
 
@@ -325,7 +453,9 @@ h) ...
 
 5 - O fiscal único rege-se pelas disposições legais respeitantes ao revisor oficial de contas e subsidiariamente, na parte aplicável, pelo disposto quanto ao conselho fiscal e aos seus membros.
 
-###### Artigo 414.º — [...]
+Artigo 414.º
+
+[...]
 
 1 - O fiscal único e o suplente ou, no caso de existência de conselho fiscal, um membro efectivo e um dos suplentes, têm de ser revisores oficiais de contas ou sociedades de revisores oficiais de contas e não podem ser accionistas.
 
@@ -343,7 +473,9 @@ h) ...
 
 8 - ...
 
-###### Artigo 416.º — [...]
+Artigo 416.º
+
+[...]
 
 1 - A falta de designação do revisor oficial de contas pelo órgão social competente, no prazo legal, deve ser comunicada à Câmara dos Revisores Oficiais de Contas, nos 15 dias seguintes, por qualquer sócio ou membro dos órgãos sociais.
 
@@ -351,7 +483,9 @@ h) ...
 
 3 - (Actual n.º 3.)
 
-###### Artigo 420.º — Competência do fiscal único e do conselho fiscal
+Artigo 420.º
+
+Competência do fiscal único e do conselho fiscal
 
 1 - ...
 
@@ -377,7 +511,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 421.º — Poderes do fiscal único e dos membros do conselho fiscal
+Artigo 421.º
+
+Poderes do fiscal único e dos membros do conselho fiscal
 
 1 - Para o desempenho das suas funções, pode o fiscal único ou qualquer membro do conselho fiscal, conjunta ou separadamente:
 
@@ -391,7 +527,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 422.º — Deveres do fiscal único e dos membros do conselho fiscal
+Artigo 422.º
+
+Deveres do fiscal único e dos membros do conselho fiscal
 
 1 - O fiscal único ou os membros do conselho fiscal, quando este exista, têm o dever de:
 
@@ -411,7 +549,9 @@ e) ...
 
 4 - Perdem o seu cargo o fiscal único e os membros do conselho fiscal que, sem motivo justificado, não assistam, durante o exercício social, a duas reuniões do conselho ou não compareçam a uma assembleia geral ou a duas reuniões da administração previstas na alínea a) do n.º 1 deste artigo.
 
-###### Artigo 423.º — [...]
+Artigo 423.º
+
+[...]
 
 1 - O conselho fiscal deve reunir, pelo menos, todos os trimestres.
 
@@ -423,7 +563,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 452.º — [...]
+Artigo 452.º
+
+[...]
 
 1 - ...
 
@@ -441,7 +583,9 @@ Ao título III do Código das Sociedades Comerciais é aditado o seguinte capít
 
 Sociedades unipessoais por quotas
 
-###### Artigo 270-A — Constituição
+Artigo 270-A
+
+Constituição
 
 1 - A sociedade unipessoal por quotas é constituída por um sócio único, pessoa singular ou colectiva, que é o titular da totalidade do capital social.
 
@@ -453,11 +597,15 @@ Sociedades unipessoais por quotas
 
 5 - O estabelecimento individual de responsabilidade limitada pode, a todo o tempo, transformar-se em sociedade unipessoal por quotas.
 
-###### Artigo 270.º-B — Firma
+Artigo 270.º-B
+
+Firma
 
 A firma destas sociedades deve ser formada pela expressão 'sociedade unipessoal' ou pela palavra 'unipessoal' antes da palavra 'Limitada' ou da abreviatura 'Lda.'
 
-###### Artigo 270.º-C — Efeitos da unipessoalidade
+Artigo 270.º-C
+
+Efeitos da unipessoalidade
 
 1 - Uma pessoa singular só pode ser sócia de uma única sociedade unipessoal por quotas.
 
@@ -467,7 +615,9 @@ A firma destas sociedades deve ser formada pela expressão 'sociedade unipessoal
 
 4 - O tribunal pode conceder um prazo até seis meses para a regularização da situação.
 
-###### Artigo 270.º-D — Pluralidade de sócios
+Artigo 270.º-D
+
+Pluralidade de sócios
 
 1 - O sócio único de uma sociedade unipessoal por quotas pode modificar esta sociedade em sociedade por quotas plural através de divisão e cessão da quota ou de aumento de capital social por entrada de um novo sócio, devendo, nesse caso, ser eliminada da firma a expressão 'sociedade unipessoal', ou a palavra 'unipessoal', que nela se contenha.
 
@@ -477,13 +627,17 @@ A firma destas sociedades deve ser formada pela expressão 'sociedade unipessoal
 
 4 - No caso de concentração previsto no n.º 2 do artigo 270.º-A, o sócio único pode evitar a unipessoalidade se, no prazo legal, restabelecer a pluralidade de sócios.
 
-###### Artigo 270.º-E — Decisões do sócio
+Artigo 270.º-E
+
+Decisões do sócio
 
 1 - Nas sociedades unipessoais por quotas o sócio único exerce as competências das assembleias gerais, podendo, designadamente, nomear gerentes.
 
 2 - As decisões do sócio de natureza igual às deliberações da assembleia geral devem ser registadas em acta por ele assinada.
 
-###### Artigo 270.º-F — Contrato do sócio com a sociedade unipessoal
+Artigo 270.º-F
+
+Contrato do sócio com a sociedade unipessoal
 
 1 - Os negócios jurídicos celebrados entre o sócio único e a sociedade devem servir a prossecução do objecto da sociedade e a respectiva autorização tem de constar da escritura de constituição da sociedade ou da escritura de alteração do contrato de sociedade ou da de aumento do capital social.
 
@@ -493,7 +647,9 @@ A firma destas sociedades deve ser formada pela expressão 'sociedade unipessoal
 
 4 - A violação do disposto nos números anteriores implica a nulidade dos negócios jurídicos celebrados e responsabiliza ilimitadamente o sócio.
 
-###### Artigo 270.º-G — Disposições subsidiárias
+Artigo 270.º-G
+
+Disposições subsidiárias
 
 Às sociedades unipessoais por quotas aplicam-se as normas que regulam as sociedades por quotas, salvo as que pressupõem a pluralidade de sócios.»
 
@@ -505,7 +661,9 @@ A firma destas sociedades deve ser formada pela expressão 'sociedade unipessoal
 
 Secretário da sociedade
 
-###### Artigo 446.º-A — Designação
+Artigo 446.º-A
+
+Designação
 
 1 - As sociedades cotadas em bolsa de valores devem designar um secretário da sociedade e um suplente.
 
@@ -515,7 +673,9 @@ Secretário da sociedade
 
 4 - Em caso de falta ou impedimento do secretário, as suas funções são exercidas pelo suplente.
 
-###### Artigo 446.º-B — Competência
+Artigo 446.º-B
+
+Competência
 
 1 - Para além de outras funções estabelecidas pelo contrato social, compete ao secretário da sociedade:
 
@@ -545,25 +705,33 @@ l) Requerer a inscrição no registo comercial dos actos sociais a ele sujeitos.
 
 3 - As certificações feitas pelo secretário referidas nas alíneas e), f) e h) do n.º 1 deste artigo substituem, para todos os efeitos legais, a certidão de registo comercial.
 
-###### Artigo 446.º-C — Período de duração das funções
+Artigo 446.º-C
+
+Período de duração das funções
 
 A duração das funções do secretário coincide com a do mandato dos órgãos sociais que o designarem, podendo renovar-se por uma ou mais vezes.
 
-###### Artigo 446.º-D — Regime facultativo de designação do secretário
+Artigo 446.º-D
+
+Regime facultativo de designação do secretário
 
 1 - As sociedades anónimas relativamente às quais se não verifique o requisito previsto no n.º 1 do artigo 446.º-A, bem como as sociedades por quotas, podem designar um secretário da sociedade.
 
 2 - Nas sociedades por quotas compete à assembleia geral designar o secretário da sociedade.
 
-###### Artigo 446.º-E — Registo do cargo
+Artigo 446.º-E
+
+Registo do cargo
 
 1 - A designação e cessação de funções, por qualquer causa que não seja o decurso do tempo, do secretário está sujeita a registo, nos termos do Código do Registo Comercial.
 
 2 - A inscrição inicial dos actos de registo previstos no número anterior fica isenta do pagamento de emolumentos.
 
-###### Artigo 446.º-F — Responsabilidade
+Artigo 446.º-F
 
-**O secretário é responsável civil e criminalmente pelos actos que praticar no exercício das suas funções.»**
+Responsabilidade
+
+O secretário é responsável civil e criminalmente pelos actos que praticar no exercício das suas funções.»
 
 ###### Artigo 4.º
 
@@ -581,7 +749,9 @@ Dever de prevenção
 
 4 - Ao dever de prevenção nas sociedades por quotas aplica-se o disposto sobre o dever de vigilância nas sociedades anónimas em tudo o que não estiver especificamente regulado para aquelas.
 
-###### Artigo 420.º-A — Dever de vigilância
+Artigo 420.º-A
+
+Dever de vigilância
 
 1 - Compete ao revisor oficial de contas comunicar, imediatamente, por carta registada, ao presidente do conselho de administração ou da direcção os factos de que tenha conhecimento e que considere revelarem graves dificuldades na prossecução do objecto da sociedade, designadamente reiteradas faltas de pagamento a fornecedores, protestos de título de crédito, emissão de cheques sem provisão, falta de pagamento de quotizações para a segurança social ou de impostos.
 
@@ -597,7 +767,9 @@ Dever de prevenção
 
 7 - Qualquer membro do conselho fiscal, quando este exista, deve, sempre que se aperceba de factos que revelem dificuldades na prossecução normal do objecto social, comunicá-los imediatamente ao revisor oficial de contas, por carta registada.
 
-###### Artigo 423.º-A — Norma de remissão
+Artigo 423.º-A
+
+Norma de remissão
 
 Não havendo conselho fiscal, todas as referências que lhe são feitas devem considerar-se referidas ao fiscal único, desde que não pressuponham a pluralidade de membros.»
 
@@ -633,7 +805,9 @@ Copiador.
 
 § 3.º As folhas soltas, em conjuntos de 60, devem ser numeradas sequencialmente e rubricadas pela gerência ou pela administração, que também lavram os termos de abertura e de encerramento e requerem a respectiva legalização.
 
-###### Artigo 32.º — Legalização de livros
+Artigo 32.º
+
+Legalização de livros
 
 1 - É obrigatória a legalização dos livros dos comerciantes, inventário e balanços e diário, bem como a dos livros das actas da assembleia geral das sociedades.
 
@@ -641,7 +815,9 @@ Copiador.
 
 3 - A legalização só é feita depois de pagas as importâncias determinadas na lei.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 Os livros ou as folhas das actas das sociedades servirão para neles se lançarem as actas das reuniões de sócios, de administradores e dos órgãos sociais, devendo cada uma delas expressar a data em que foi celebrada, os nomes dos participantes ou referência à lista de presenças autenticada pela mesa, os votos emitidos, as deliberações tomadas e tudo o mais que possa servir para fazer conhecer e fundamentar estas, e ser assinada pela mesa, quando a houver, e, não a havendo, pelos participantes.»
 
@@ -713,7 +889,9 @@ u) ...
 
 v) A cessação da existência do conselho fiscal e a introdução do fiscal único.
 
-###### Artigo 112.º-A — [...]
+Artigo 112.º-A
+
+[...]
 
 1 - A legalização dos livros dos comerciantes, quando determinada na lei, deve ser realizada pela conservatória do registo comercial competente.
 
@@ -803,12 +981,12 @@ No n.º 1 do artigo 508.º-E, onde se lê «a certidão legal das contas» deve 
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus.
 
-**Promulgado em 9 de Dezembro de 1996.**
+Promulgado em 9 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Dezembro de 1996.**
+Referendado em 12 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

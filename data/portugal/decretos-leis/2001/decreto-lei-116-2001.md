@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/116/2001/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2001-164210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 625ab4db621da3599aee60bbba732f04bc41732c0ec356cbb47d56ed904ea972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7371d1e34f318e979d205d474ca999ca702f80c866745c2c76b1899b7676d354
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Ciência e da Tecnologia
-- Ministro da Economia
-- Ministro do Trabalho e da Solidariedade
 - Dotação Orçamental
 - Governo XIV
-- Ministro da Justiça
-- Ministro dos Negócios Estrangeiros
+- Ministro da Administração Interna
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
 - Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Juventude e do Desporto
+- Ministro da Presidência
+- Ministro da Reforma do Estado e da Administração Pública
 - Ministro das Finanças
 - Ministro de Estado
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Ministro da Juventude e do Desporto
-- Ministro da Reforma do Estado e da Administração Pública
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Orgânica
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado para a Defesa do Consumidor
-- Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:273419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642555:por
+  label: "Alterados os arts. 2º, 6º e 19º do Dec Lei 474-A/99, de 08-Nov, na redacção constante do Dec Lei 267-A/2000, de\
+    \ 20-Out, e do presente diploma,pelo DEC LEI.247/2001.2001.09.18.PCM, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2001-642555
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:273419:por
+  label: "Aditado o art. 37º ao Dec Lei 474-A/99, de 08-Nov, alterado pelo presente diploma, pelo Dec Lei 267-A/2000, de 20-Out,\
+    \ e pelo Dec Lei 247/2001, de 18-Set, pelo DEC LEI.24/2002.2002.02.11.PCM, DR.IS-A [35]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2002-273419
+  date: '2002-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/267-a/2000/10/20/p/dre
   label: null
@@ -106,16 +118,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:276467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:59Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +196,7 @@ s) Ministro da Reforma do Estado e da Administração Pública;
 
 t) Ministro da Juventude e do Desporto.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A Presidência do Conselho de Ministros compreende os seguintes Ministros:
 
@@ -200,11 +220,11 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - ...
 
-###### Artigo 8.º
+Artigo 8.º
 
-**O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.**
+O Ministro de Estado exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - ...
 
@@ -214,7 +234,7 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - ...
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - O Ministro do Trabalho e da Solidariedade é coadjuvado, no exercício das suas funções, pelo Secretário de Estado do Trabalho e da Formação e pelo Secretário de Estado da Solidariedade e da Segurança Social.
 
@@ -226,7 +246,7 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 5 - A Comissão para a Igualdade no Trabalho e no Emprego fica na dependência conjunta do Ministro da Presidência e do Ministro do Trabalho e da Solidariedade.
 
-###### Artigo 28.º-A
+Artigo 28.º-A
 
 1 - ...
 
@@ -246,12 +266,12 @@ O presente diploma produz efeitos a partir do dia 10 de Março de 2001.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Mário Cristina de Sousa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa - José Estêvão Cangarato Sasportes - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - José Manuel Lello Ribeiro de Almeida.
 
-**Promulgado em 5 de Abril de 2001.**
+Promulgado em 5 de Abril de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2001.**
+Referendado em 6 de Abril de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

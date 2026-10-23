@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/11/22300/0523805242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2010/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2010-308762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0753a6fdf69ea1f45fbe9e5cecd3861fa93d69b92108638c2e2ef2c4f78992b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f74c9fe060a020e059b63dc3277f01cd560964423730be0c765dc5841243f12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Comissão para a Cidadania e a Igualdade de Género
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Definição de Competências
 - Ministério do Trabalho e da Solidariedade Social
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
-- Comissão para a Cidadania e a Igualdade de Género
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:25676932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego da Comissão para a Igualdade no Trabalho e no\
+    \ Emprego (CITE), integrada no ex-Ministério do Trabalho e da Solidariedade Social, cuja orgânica foi aprovada pelo presente\
+    \ diploma, e estabelecido que a sua superintendência será articulada com o Ministério da Solidariedade e da Segurança\
+    \ Social e com o membro do Governo responsável pela área da igualdade de género, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: celex:31976L0207
   label: null
@@ -94,16 +103,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: repealed_by
+  target: pt:dre:145193:por
+  label: "Revogado, a partir de 03.01.2012, o Dec Lei 211/2006 de 27-Out, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
+- type: repealed_by
+  target: pt:dre:553929:por
+  label: "Revogado, a partir de 01.04.2012, pelo DEC LEI.76/2012.26.03.2012.MEE, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2012-553929
+  date: '2012-03-26'
+- type: repealed_by
+  target: pt:dre:25676932:por
+  label: Revogada a partir de 01.08.2014 a Lei 59/2008 de 11-set, na redação do presente diploma, pela LEI.35/2014.20.06.2014.AR,
+    DR.IS [117] de 20.06.2014��
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:05Z'
   warnings: []
   errors: []
 ---
@@ -312,16 +338,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.
 
-**Promulgado em 2 de Novembro de 2010.**
+Promulgado em 2 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Novembro de 2010.**
+Referendado em 6 de Novembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22300/0523805242.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22300/0523805242.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22300/0523805242.pdf)

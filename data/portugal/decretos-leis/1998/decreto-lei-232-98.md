@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/167a00/35223523.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/1998/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1998-425293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bfeffd0f561303542bb1c0e7a7a7bfaabb87d6bd1086a75391794bf31b1dc38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e152e40d4f458be26332f7a57c55e58dc445b0f61e2856f0fe3c865a3c236da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AVAL do Estado
-- Sociedade Anónima
 - Capital Social
-- Multa
 - Comissão Consultiva
 - Comissão Instaladora
-- Direcção Geral do Tesouro
 - Contra-ordenação
 - Criação de Empresas
 - Criação de Serviços
 - Definição de Competências
 - Desenvolvimento Regional
+- Direcção Geral do Tesouro
 - EDIA
 - Empresa do Alqueva
 - Estatuto
 - Expropriação
 - Extinção de Serviços
-- Recrutamento de Pessoal
 - Medidas Preventivas
+- Multa
 - Obras Públicas
+- Recrutamento de Pessoal
 - Regime de Pessoal
+- Sociedade Anónima
 - Transferência de Competências
 - Transferência Patrimonial
 - Utilidade Pública
@@ -96,6 +96,12 @@ relationships:
   target: pt:dre:517806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536640:por
+  label: "Alterados os arts. 1º e 4º do Dec Lei 33/95, de 11-Fev, (este último na redacção dada pelo presente diploma), pelo\
+    \ DEC LEI.335/2001.2001.12.24.MPLA, DR.IS-A [296] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/335-2001-536640
+  date: '2001-12-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/32/1995/02/11/p/dre
   label: null
@@ -104,16 +110,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/33/1995/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/33/1995/02/11/p/dre
+- type: cites
+  target: pt:dre:198146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517806:por
+  label: "Revogado o Dec Lei 32/95 de 11-Fev, com a redacção conferida no presente diploma, pelo DEC LEI.42/2007.22.02.2007.MADRP,\
+    \ DR.IS [38] de 22.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2007-517806
+  date: '2007-02-22'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:08Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +192,7 @@ e) A contribuição para a promoção do desenvolvimento económico e social, na
 
 2 - A construção das redes primária, secundárias e terciárias incluídas no Empreendimento de Fins Múltiplos do Alqueva está dependente de prévia aprovação dos projectos por parte do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o qual deve acompanhar todo o respectivo processo, designadamente a elaboração, através da aprovação da definição de cada um dos perímetros a beneficiar e dos grandes critérios de projecto a adoptar.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Sem prejuízo do disposto na lei quanto à prestação de informações aos sócios, o conselho de administração deve enviar aos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, pelo menos 30 dias antes da data da assembleia geral anual:
 
@@ -186,12 +210,12 @@ Os estatutos da Empresa que figuram em anexo ao [Decreto-Lei n.º 32/95](https:/
 
 Visto e aprovado em Conselho de Ministros de 14 de Maio de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 8 de Julho de 1998.**
+Promulgado em 8 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1998.**
+Referendado em 14 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

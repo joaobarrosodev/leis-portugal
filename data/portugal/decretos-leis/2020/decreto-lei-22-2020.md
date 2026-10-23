@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/05/095a00/0000400031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2020/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fcfb087c23ad81b978cd6bf7a5b9c6a42ada644e771bd4ee8bedeacee00f87c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc392b07c0b7b1d62be35f64b3c3da9bb25a69919407a5dd1f7576b7f0a51e3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,117 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - ADSE
 - Apoio Administrativo
+- Autoridade Nacional dos Resíduos
+- Certificação Ambiental
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Ensino Básico
+- Epidemia
 - Gestão de Resíduos
 - Ministro do Ambiente e do Ordenamento do Território
-- Direção Geral da Saúde
-- Administração Regional de Saúde
-- Autoridade Nacional dos Resíduos
-- Doença Infecciosa
-- Epidemia
-- Ensino Básico
 - Relatório
-- Certificação Ambiental
 relationships:
 - type: amended_by
   target: pt:dre:205493447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145589087:por
+  label: Alterado o art. 16.º, aditado com efeitos a 01.10.2020 o art. 35.º-O e revogados os arts. 18.º e 35.º-C do Dec Lei
+    10-A/2020, de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 87-A/2020 - Diário da República
+    n.º 201/2020, 1º Suplemento, Série I de 2020-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2020-145589087
+  date: '2020-10-15'
+- type: amended_by
+  target: pt:dre:159707135:por
+  label: Alterados, a partir de 18.03.2021, os arts. 5.º, 16.º e 35.º-N, bem como alterados e repristinados os arts. 18.º,
+    30.º-A, 32.º-A e 35.º-C e revogados os arts. 11.º e 35.º-J do Dec Lei 10-A/2020, de 13-mar, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-a-2021-159707135
+  date: '2021-03-17'
+- type: amended_by
+  target: pt:dre:165228627:por
+  label: Alterados, a partir de 17.06.2021, os arts. 13.º-A (este com efeitos a 14.06.2021) e 35.º-G, bem como revogados os
+    n.ºs 2 e 6 do art. 9.º (estes com efeitos a partir de 01.07.2021) e o n.º 2 do art. 13.º-A (este com efeitos a 14.06.2021)
+    do Dec Lei 10-A/2020 de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 53-A/2021 - Diário
+    da República n.º 115/2021, 1º Suplemento, Série I de 2021-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-a-2021-165228627
+  date: '2021-06-16'
+- type: amended_by
+  target: pt:dre:166579339:por
+  label: Alterado, com efeitos a 01.07.2021, o art. 37.º-A (prorrogando até 30.09.2021 a vigência do art. 20.º) e repristinados,
+    nos termos do disposto nos n.ºs 1, 3 e 4 do art. 3.º do Dec Lei 6-E/2021 de 15-jan, os arts. 26.º e 28.º-A do Dec Lei
+    10-A/2020 de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 56-A/2021 - Diário da República
+    n.º 129/2021, 1º Suplemento, Série I de 2021-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-a-2021-166579339
+  date: '2021-07-06'
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Alterados, com efeitos a 01.12.021, os arts. 5.º, 13.º-B e 13.º-E (este com efeitos a 27.11.2021) e revogado, com
+    efeitos a 01.12.2021, o n.º 2 do citado art. 13.º-B do Dec Lei 10-A/2020 de 13-mar, na versão republicada pelo presente
+    diploma e posteriormente alterado, pelo(a) Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: amended_by
+  target: pt:dre:176412619:por
+  label: Alterados os arts. 16.º, 35.º-F e 35.º-O e aditados os arts. 18.º-B, 35.º-X e 35.º-Y ao Dec Lei 10-A/2020, de 13-mar,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º
+    Suplemento, Série I de 2021-12-22, nos termos do art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-a-2021-176412619
+  date: '2021-12-22'
+- type: amended_by
+  target: pt:dre:176492316:por
+  label: Alterados, a partir de 24.12.2021, os arts. 25.º-B e 37.º-A e revogado o n.º 3 do mesmo art. 37.º-A do Dec Lei 10-A/2020
+    de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021,
+    1º Suplemento, Série I de 2021-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-b-2021-176492316
+  date: '2021-12-23'
+- type: amended_by
+  target: pt:dre:177363491:por
+  label: Alterados, a partir de 08.01.2022, os arts. 19.º-A e 19.º-B do Dec Lei 10-A/2020 de 13-mar, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 6-A/2022 - Diário da República n.º 5/2022, 1º Suplemento, Série I de 2022-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-a-2022-177363491
+  date: '2022-01-07'
+- type: amended_by
+  target: pt:dre:179327569:por
+  label: Alterado, a partir de 19.02.2022, o art. 16.º e revogado o art. 13.º-C do Dec Lei 10-A/2020 de 13-mar, na versão
+    republicada do presente diploma, pelo(a) Decreto-Lei n.º 23-A/2022 - Diário da República n.º 35/2022, 2º Suplemento, Série
+    I de 2022-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-a-2022-179327569
+  date: '2022-02-18'
+- type: amended_by
+  target: pt:dre:182432341:por
+  label: Alterado, a partir de 22.04.2022, o art. 13.º-B e revogadas as als. a), b), c), d) e e) do n.º 1 e o n.º 11 do mesmo
+    art. 13.º-B do Dec Lei 10-A/2020 de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 30-E/2022
+    - Diário da República n.º 78/2022, 1º Suplemento, Série I de 2022-04-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-e-2022-182432341
+  date: '2022-04-21'
+- type: amended_by
+  target: pt:dre:185452470:por
+  label: Alterados, com efeitos a 01.07.2022, os arts. 5.º, 16.º e 37.º-A do Dec Lei 10-A/2020 de 13-mar, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de
+    2022-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-a-2022-185452470
+  date: '2022-06-30'
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerados revogados, a partir de 01.10.2022, os arts. 2.º, 2.º-A, 2.º-B, 3.º e 4.º, os n.ºs 1, 2, 3, 4, 5, 6 e
+    7 do art. 6.º e os arts. 6.º-A, 6.º-E, 7.º, 8.º-A, 12.º, 13.º, 13.º-E, 16.º-A, 18.º-B, 19.º, 19.º-A, 19.º-B, 20.º, 20.º-A,
+    21.º, 22.º, 23.º, 24.º, 25.º, 25.º-A, 25.º-B, 25.º-C, 26.º, 27.º, 28.º, 28.º-A, 28.º-B, 31.º, 32.º, 34.º, 34.º-A, 34.º-B,
+    35.º, 35.º-B, 35.º-D, 35.º-E, 35.º-F, 35.º-G, 35.º-H, 35.º-L, 35.º-O, 35.º-Q, 35.º-U, 35.º-V, 35.º-W e 35.º-X do Dec Lei
+    10-A/2020 de 13-mar, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República
+    n.º 190/2022, 1º Suplemento, Série I de 2022-09-30 nos termos do art. 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
+- type: amended_by
+  target: pt:dre:205493447:por
+  label: Alterado, com efeitos a 01.01.2023, o art. 16.º do Dec Lei 10-A/2020 de 13-mar, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2022-205493447
+  date: '2022-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -122,16 +216,204 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:114561723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116640900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122541299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129160712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130603009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131908509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66229856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70025050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 77
+  article_count: 72
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:05Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +478,9 @@ Os artigos 6.º, 13.º-A, 13.º-B, 16.º e 35.º-G do [Decreto-Lei n.º 10-A/202
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - ...
 
@@ -206,7 +490,9 @@ Os artigos 6.º, 13.º-A, 13.º-B, 16.º e 35.º-G do [Decreto-Lei n.º 10-A/202
 
 4 - As autoridades de transporte, previstas na [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, na sua redação atual, devem proceder à articulação com os respetivos operadores de transportes, no sentido de adequar a oferta à procura e às necessidades de transporte, salvaguardando a continuidade do serviço público essencial e o cumprimento das regras de salvaguarda da saúde pública.
 
-###### Artigo 13.º-B — [...]
+Artigo 13.º-B
+
+[...]
 
 1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência nos espaços e estabelecimentos comerciais e de prestação de serviços, nos serviços e edifícios de atendimento ao público e nos estabelecimentos de ensino e creches pelos funcionários docentes e não docentes e pelos alunos maiores de 10 anos.
 
@@ -222,7 +508,9 @@ Os artigos 6.º, 13.º-A, 13.º-B, 16.º e 35.º-G do [Decreto-Lei n.º 10-A/202
 
 7 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +522,9 @@ Os artigos 6.º, 13.º-A, 13.º-B, 16.º e 35.º-G do [Decreto-Lei n.º 10-A/202
 
 5 - O disposto no número anterior aplica-se independentemente da verificação das situações previstas no artigo 9.º do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de fevereiro, na sua redação atual, quando os beneficiários declarem que não conseguiram, em momento anterior, proceder à marcação dos atos médicos ou que estes foram desmarcados.
 
-###### Artigo 35.º-G — [...]
+Artigo 35.º-G
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -254,7 +544,9 @@ Reabertura de respostas sociais e extensão de proteção
 
 2 - No período entre 18 e 31 de maio de 2020, aplica-se o disposto nos artigos 22.º, 23.º e 24.º caso as respostas sociais referidas no número anterior tenham reiniciado atividade e o trabalhador opte por manter em recolhimento domiciliário o filho ou outro dependente a cargo.
 
-###### Artigo 35.º-J — Importação de resíduos destinados a eliminação
+Artigo 35.º-J
+
+Importação de resíduos destinados a eliminação
 
 1 - Por motivo de força maior decorrente da necessidade de salvaguarda da suficiência nacional em matéria de instalações de eliminação de resíduos previstas nas alínea a) e b) do artigo 10.º do [Decreto-Lei n.º 183/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2009-493485), de 10 de agosto, na sua redação atual, são suspensos até 31 de dezembro de 2020 os efeitos das autorizações emitidas ao abrigo do [Decreto-Lei n.º 45/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2008-247025), de 11 de março, na sua redação atual.
 
@@ -276,15 +568,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de maio de 2020. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - João Titterington Gomes Cravinho - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 15 de maio de 2020.**
+Promulgado em 15 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de maio de 2020.**
+Referendado em 15 de maio de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -1001,3 +1293,5 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 ###### Artigo 37.º — Produção de efeitos
 
 O presente decreto-lei produz efeitos no dia da sua aprovação, com exceção do disposto nos artigos 14.º a 16.º, que produz efeitos desde 9 de março de 2020, e do disposto no capítulo viii, que produz efeitos a 3 de março de 2020.
+
+113250939

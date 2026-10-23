@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1983-441678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fe355504bc83247a3842415e32b85b397c413a5096dc31b30ce31e9c777ff65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e86612d02342539bd91a1cd19cc35af2c96435fdaed4a1e96e480d2eb03c36b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Enfermagem
+relationships:
+- type: cites
+  target: pt:dre:250630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:23Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +118,9 @@ Sendo assim, tendo em conta o disposto no n.º 2 do artigo 1.º do [Decreto-Lei 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável ao pessoal de enfermagem dos órgãos e serviços centrais ou dependentes do Ministério da Educação o regime estabelecido no [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Artigo 1.º É aplicável ao pessoal de enfermagem dos órgãos e serviços centrais ou dependentes do Ministério da Educação o regime estabelecido no [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
-###### Art. 2.º A extensão prevista no artigo anterior, na parte respeitante ao Instituto Português de Oncologia de Francisco Gentil, será objecto das seguintes adaptações:
+Art. 2.º A extensão prevista no artigo anterior, na parte respeitante ao Instituto Português de Oncologia de Francisco Gentil, será objecto das seguintes adaptações:
 
 a) O pessoal de enfermagem com as actuais designações de monitor e de monitor-chefe que exerça funções de coordenação hospitalar passa a ter a designação de enfermeiro-supervisor;
 
@@ -114,20 +128,20 @@ b) O pessoal de enfermagem com a actual designação de auxiliar de monitor, com
 
 c) O pessoal de enfermagem com a actual designação de auxiliar de monitor que se encontre a exercer funções hospitalares e não esteja abrangido pelo disposto na alínea anterior passa para enfermeiro graduado ou para enfermeiro-monitor, em lugares a extinguir quando vagarem, conforme declaração dos interessados, ou ainda para enfermeiro especialista, caso possua o curso de especialização em enfermagem legalmente instituído e se encontre no exercício da mesma.
 
-###### Art. 3.º O quadro de pessoal de enfermagem do Centro de Lisboa do Instituto Português de Oncologia de Francisco Gentil - IPOFG, aprovado pelo Decreto-Lei (n.º 99/72, de 25 de Março, e alterado pela [Portaria n.º 423/77](https://diariodarepublica.pt/dr/detalhe/portaria/423-1977-250630), de 13 de Julho, passa a ser o constante do mapa anexo ao presente diploma.
+Art. 3.º O quadro de pessoal de enfermagem do Centro de Lisboa do Instituto Português de Oncologia de Francisco Gentil - IPOFG, aprovado pelo Decreto-Lei (n.º 99/72, de 25 de Março, e alterado pela [Portaria n.º 423/77](https://diariodarepublica.pt/dr/detalhe/portaria/423-1977-250630), de 13 de Julho, passa a ser o constante do mapa anexo ao presente diploma.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Augusto Seabra - José San-Bento de Menezes.
 
-**Promulgado em 12 de Outubro de 1983.**
+Promulgado em 12 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1983.**
+Referendado em 14 de Outubro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Quadro de pessoal do Centro de Lisboa do Instituto Português de Oncologia de Francisco Gentil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24400/36693670.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24400/36693670.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24400/36693670.pdf)

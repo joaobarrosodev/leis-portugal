@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/248/2007/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2007-635842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ac453e3d1c2c5bfc2d2483fcd15a82c3d2240ef50baf31e3dadd444ab41ecd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 100265da7fe747d9239cb0d70ec93ae7f6853a9c3943ea4c9a03638fb9c288f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
 - Batata
-- Direção Geral da Agricultura e Desenvolvimento Rural
 - Contra-ordenação
-- Direcção Regional de Agricultura e Pescas
 - Controlo Sanitário
-- Saúde Pública
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
 - Informação
-- Proteção Fitossanitária
 - Madeira.região Autónoma
-- Açores
+- Proteção Fitossanitária
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:32006L0056
   label: null
   source: http://data.europa.eu/eli/dir/2006/56/oj
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado a partir de 01.01.2022 pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:37Z'
   warnings: []
   errors: []
 ---
@@ -314,15 +319,15 @@ Todas as referências feitas para a portaria que agora se revoga consideram-se f
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 11 de Junho de 2007.**
+Promulgado em 11 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Junho de 2007.**
+Referendado em 14 de Junho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I
 
@@ -372,11 +377,11 @@ O procedimento laboratorial destina-se à detecção de infecções latentes em 
 
 Os testes de rastreio e de isolamento devem permitir um limiar de detecção de 10(elevado a 3) a 10(elevado a 4) células por ml de sedimento ressuspenso, incluídas como controlos positivos em cada série de testes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 1.3 Esquema para detecção e identificação de C. m. subsp. sepedonicus em amostras de plantas de batateira assintomáticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 2 - Observação visual dos sintomas de podridão anelar:
 
@@ -504,13 +509,13 @@ FIGURA N.º 1
 
 Preparação da lâmina de acordo com a alínea i) do n.º 4.1 e a alínea i) do n.º 4.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 FIGURA N.º 2
 
 Preparação da lâmina de acordo com a alínea ii) do n.º 4.1 e a alínea ii) do n.º 4.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 4.3.1 - Dispor as lâminas sobre papel de filtro humedecido. Cobrir por completo cada poço contendo a amostra a testar com a(s) diluição(ões) de anticorpo. O volume de anticorpo adicionado a cada poço deve ser, pelo menos, igual ao volume de extracto aplicado.
 
@@ -592,7 +597,7 @@ FIGURA N.º 3
 
 Configuração para a lâmina FISH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 5.1.6 - Secar as lâminas ao ar (ou num secador de lâminas a 37 C) e proceder à sua fixação à chama.
 
@@ -960,11 +965,11 @@ O teste de patogenicidade tem de ser efectuado como confirmação final do diagn
 
 10.4 - Efectuar um isolamento a partir das plantas com sintomas, retirando-lhes uma n.º de 2 cm de caule acima do ponto de inoculação. Fragmentá-las e suspendê-las num pequeno volume de água destilada esterilizada ou de tampão fosfato 50mM (apêndice n.º 3). Isolar a partir de diluições apropriadas da suspensão por espalhamento ou reticulado em MTNA e YPGA (apêndice n.º 5), incubar durante 3-5 dias a uma temperatura compreendida entre 21 e 23°C e observar a formação de colónias típicas de C. m. subsp. sepedonicus.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Preparação de controlos positivos e negativos para os testes essenciais de rastreio PCR/IF e FISH
 
@@ -992,7 +997,7 @@ Para os testes IF e FISH efectuar ensaios nas amostras de controlo positivas e n
 
 Para os testes IF, FISH e PCR, devem detectar-se C. m. subsp. sepedonicus, pelo menos, nas amostras de controlo positivo com 10(elevado a 6) e 10(elevado a 4) células por ml e esta bactéria não deve ser detectada em nenhum controlo negativo.
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Tampões para a realização dos testes
 
@@ -1016,7 +1021,7 @@ Dissolver os ingredientes, verificar o pH e esterilizar em autoclave a 121°C du
 
 Os seguintes componentes adicionais podem também ser úteis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 1.2 - Tampão de ressuspensão (tampão fosfato 10mM, pH 7,2):
 
@@ -1066,7 +1071,7 @@ Glicerol - 50 ml
 
 Estão comercialmente disponíveis soluções de montagem para evitar a rápida perda de fluorescência como sejam, por exemplo, Vectashield(R) (Vector Laboratories) ou Citifluor(R) (Leica).
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Determinação do nível de contaminação nos testes IF e FISH
 
@@ -1102,7 +1107,7 @@ y = volume de sedimento ressuspenso em cada poço, e
 
 F = factor de diluição do sedimento ressuspenso
 
-## APÊNDICE N.º 5
+APÊNDICE N.º 5
 
 Meios de isolamento e cultura de C. m. subsp. sepedonicus
 
@@ -1210,7 +1215,7 @@ Dissolver os antibióticos em soluções concentradas da seguinte forma: ácido 
 
 Nota. - A durabilidade do meio basal é de 3 meses. Após a adição dos antibióticos, a durabilidade é de 1 mês quando armazenado refrigerado.
 
-## APÊNDICE N.º 6
+APÊNDICE N.º 6
 
 Protocolo e reagentes da PCR validados
 
@@ -1236,7 +1241,7 @@ Tamanho esperado do fragmento amplificado do controlo interno da PCR de 18S rRNA
 
 1.2 -Mistura de reacção da PCR:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 1.3 - Condições de reacção da PCR:
 
@@ -1304,7 +1309,7 @@ Diluir até 1x antes de utilizar.
 
 Também disponível comercialmente (por exemplo, Invitrogen ou equivalente).
 
-## APÊNDICE N.º 7
+APÊNDICE N.º 7
 
 Reagentes validados para o teste FISH
 
@@ -1354,7 +1359,7 @@ Preparar quantidades de solução de hibridação, de acordo com os cálculos ap
 
 Quantidades sugeridas para a preparação da solução de hibridação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 Nota. - Armazenar todas as soluções contendo sondas fotossensíveis, no escuro, a uma temperatura de 20°C. Proteger da exposição directa à luz solar ou eléctrica durante a utilização.
 
@@ -1368,7 +1373,7 @@ KH(índice 2)PO(índice 4) - 5,44 g
 
 Dissolver os ingredientes, verificar o pH e esterilizar em autoclave a 121°C durante 15 minutos.
 
-## APÊNDICE N.º 8
+APÊNDICE N.º 8
 
 Condições de cultivo de beringela
 
@@ -1376,11 +1381,11 @@ Semear beringelas (Solanum melongena) em tabuleiros com substrato pasteurizado a
 
 As beringelas devem ser cultivadas em estufa, nas seguintes condições ambientais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf))](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/12200/40694095.pdf)
 
 Fornecedor: ver sítio web http://forum.europa.eu.int/Public/irc/sanco/Home/main.
 
-## APÊNDICE N.º 9
+APÊNDICE N.º 9
 
 Coloração de Gram (modificação de Hucker)
 

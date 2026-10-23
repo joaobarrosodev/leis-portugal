@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2001/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2001-320080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df0d8a73499a8eac268af6d1d605d1d13fa059a8c5c157e812d70c44fe664753
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9d8b422e1b57c9c1366cb8e61ad6c42d7ba974e9c99345119b47d9711b3958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Multa
-- Proteção dos Animais
 - Contra-ordenação
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
 - Exploração Pecuária
 - Fiscalização
 - Gado Bovino
 - Madeira.região Autónoma
+- Multa
 - Pecuária
-- Açores
+- Proteção dos Animais
 relationships:
 - type: amended_by
   target: pt:dre:73576679:por
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 12
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:31Z'
   warnings: []
   errors: []
 ---
@@ -233,15 +233,15 @@ São revogados os Decretos-Leis n.os 270/93, de 4 de Agosto, e 3/98, de 8 de Jan
 
 Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 26 de Janeiro de 2001.**
+Promulgado em 26 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Fevereiro de 2001.**
+Referendado em 1 de Fevereiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 

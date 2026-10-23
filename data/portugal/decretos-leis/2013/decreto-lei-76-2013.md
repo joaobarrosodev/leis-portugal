@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/76/2013/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2013-513622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bb0d1e28b94422b7ff82fefcc64f5da366e2c13258c1852419bb563bc686b72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ba13cf21660ccd4d5938c0e4f726809be14ea34f5fd4cddca8ce0e40a4752ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
 - Aproximação das Legislações
 - Árvore
-- Multa
+- ASAE
+- Comissão CE
 - Contra-ordenação
 - Direção Geral de Alimentação e Veterinária
+- Exploração Florestal
 - Fiscalização
-- Comissão CE
-- ASAE
+- Indústria da Madeira
 - Instituto da Conservação da Natureza e das Florestas
+- Madeira.região Autónoma
+- Multa
 - Página na Internet
 - Polícia Municipal
-- Exploração Florestal
-- Madeira.região Autónoma
-- Regulamento
-- Indústria da Madeira
 - Produto em Madeira
-- Açores
+- PSP
+- Regulamento
 - Vistoria
 relationships:
 - type: cites
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:48Z'
   warnings: []
   errors: []
 ---
@@ -319,12 +319,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de março de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Teresa Morais - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de maio de 2013.**
+Promulgado em 27 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de maio de 2013.**
+Referendado em 29 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

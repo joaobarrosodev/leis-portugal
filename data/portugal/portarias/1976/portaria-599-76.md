@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23900/23132314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/599-1976-408891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:08:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f81beb08a77c88233d02d120824d92befe5cc09f229980a6f3055e4e17e6e46a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ee800aa428111c2fca6a2713c110b05136c5f9067a150ab7f84e1043e334bc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:08:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacalhau
+- Comércio
+- Comércio a Retalho
+- Comércio por Grosso
+- Comissão Reguladora do Comércio do Bacalhau
+- Peixe
+- Pescado
+- Produto Alimentar
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:579689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216139:por
+  label: Substituida a tabela constante do art. 6.º pelo(a) Portaria n.º 178-A/77 - Diário da República n.º 75/1977, 1º Suplemento,
+    Série I de 1977-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-a-1977-216139
+  date: '1977-03-30'
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583988:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579689:por
+  label: "Revogada pela PORT.642/81.24.07.1981.MAP, DR.IS [168] de 24.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1981-579689
+  date: '1981-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:08:30Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +180,7 @@ d) Sortido - peixes até 0,5 kg e peixes partidos ou amputados ou com ligeiros d
 
 6.º Ao retalhista são asseguradas as margens de comercialização por quilograma para o bacalhau salgado seco e espécies afins, nacionais e importados, indicadas, no mapa que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/10/23900/23132314.pdf))](https://files.diariodarepublica.pt/1s/1976/10/23900/23132314.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/10/23900/23132314.pdf)
 
 7.º Enquanto não forem definidas novas normas sobre o exercício do comércio retalhista e grossista, e bem assim sobre a comercialização de bacalhau embalado, continuam em vigor as disposições constantes dos artigos 7.º, 8.º, 9.º, 10.º e 11.º da [Portaria n.º 144-D/75](https://diariodarepublica.pt/dr/detalhe/portaria/144-d-1975-583988), de 3 de Março.
 

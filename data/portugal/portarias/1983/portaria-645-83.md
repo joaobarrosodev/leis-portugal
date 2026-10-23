@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12800/20452050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/645-1983-451778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902b6981a40f8fa1adefaa471c52e93286ff68f8a47ca55c55c79b94447f4072
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39c6edb518c1091d3d2c5a228e3462b4f32bed937a61b5428bac748b8c7e11d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:326330:por
+  label: "Alterado o quadro de pessoal, na parte respeitante à carreira do pessoal de enfermagem, pela PORT.136/85.11.03.1985.MDN,\
+    \ DR.IS [58] de 11.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/136-1985-326330
+  date: '1985-03-11'
+- type: amended_by
+  target: pt:dre:170969:por
+  label: "Aumentados lugares ao quadro de pessoal civil do Exército aprovado pela Port 12/78, de 10-Jan, na redacção do presente\
+    \ diploma, pela PORT.940/85.12.12.1985.PCM, DR.IS [286] de 12.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1985-170969
+  date: '1985-12-12'
+- type: cites
+  target: pt:dre:141024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568699:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:673673:por
+  label: Rectificada pela DECL.DD5710.30.08.1983.PCM, DR.IS [200-Supl] de 31.08.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-673673
+  date: '1983-08-30'
+- type: repealed_by
+  target: pt:dre:228227:por
+  label: "Revogada pela PORT.353/86.09.07.1986.MDN, DR.IS [155] de 09.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-1986-228227
+  date: '1986-07-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:21Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +159,10 @@ Quando integradas em carreiras, à medida que vagarem os lugares da base para o 
 
 Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administrativa.
 
-**Assinada em 16 de Maio de 1983.**
+Assinada em 16 de Maio de 1983.
 
-**O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Quadro de pessoal civil do Exército, nos termos do [Decreto-Lei n.º 271/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1981-563653), de 20 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/12800/20452050.pdf))](https://files.diariodarepublica.pt/1s/1983/06/12800/20452050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12800/20452050.pdf)

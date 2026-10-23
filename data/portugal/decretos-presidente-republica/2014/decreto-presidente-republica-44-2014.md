@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/44/2014/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/44-2014-25676899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d6c65d837607dde961b23de6e10c4910b2a0a5cf5ff0ca91ace4ccb095f88d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfce20b1bc0352d63e7ad157961daf07237761e68d7f2995043ff7cbeb1eb4e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Protecção à Vítima
-- Proteção Civil
 - Convenção
-- Portugal
-- Direito Humanitário
-- Pessoa em Situação de Dependência
-- Refugiado
 - Direito à Justiça
-- HAIA
+- Direito Humanitário
 - Direitos Cívicos
 - Direitos do Indivíduo
+- HAIA
+- Pessoa em Situação de Dependência
+- Portugal
 - Proteção ao Deficiente
+- Proteção Civil
+- Protecção à Vítima
 - Protecção do Património
 - Protecção Temporária
+- Refugiado
 - Vítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/52/2014/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/52/2014/06/19/p/dre
+- type: cites
+  target: pt:dre:25676902:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:09Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +108,16 @@ validation:
 
 de 19 de junho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificada a Convenção Relativa à Proteção Internacional de Adultos, adotada na Haia, em 13 de janeiro de 2000, aprovada, para adesão, pela [Resolução da Assembleia da República n.º 52/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2014-25676902), em 2 de maio de 2014.
 
-**Assinado em 3 de junho de 2014.**
+Assinado em 3 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de junho de 2014.**
+Referendado em 12 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

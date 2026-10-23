@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22999-1967-389067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 914c56eb6acdae1804f08ceda2aa1abab46fca97504c075b94eb6eafa59e47f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 179bd0f26737d7b60f5b7915f60879052156f79010d03e3e016525e262699bc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:38Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 90000$00
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento de material - Semoventes - Veículos com motor» ... 90000$00
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 20000$00
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 20000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 60000$00
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 60000$00
 
 ... 170000$00
 
@@ -103,15 +107,15 @@ tomando como contrapartida as seguintes disponibilidades apuradas em rubricas da
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 70000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações de funções e serviços especiais - Pessoal militar» ... 70000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificação de funções e serviços especiais - Funcionários civis» ... 8000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificação de funções e serviços especiais - Funcionários civis» ... 8000$00
 
-###### Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças» ... 50000$00
+Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças» ... 50000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 42000$00
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 42000$00
 
 ... 170000$00
 

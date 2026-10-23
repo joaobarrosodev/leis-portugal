@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/073a00/13831389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/1998/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1998-198118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c16e721df4102dca0ab8c632674c87996e8155d2e5dacabd6fd76b34ba2f4f29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 561f573f89a1381838765db88e43ab1fe65ea819d386b124527b359945a14601
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comissão de Fiscalização
-- Empresa Pública
-- Ministro das Finanças
 - Conselho Diretivo
+- Empresa Pública
 - Instituto Nacional de Intervenção e Garantia Agrícola
 - Integração de Trabalhadores
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro das Finanças
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:636412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425486:por
+  label: "Determinado que funcione sob tutela conjunta dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural\
+    \ e Pescas, pelo DEC LEI.246/2002.08.11.2002.MADRP, DR.IS-A [258] de 08.11.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2002-425486
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinto, sendo objecto de fusão o Instituto Nacional de Intervenção e Garantia Agrícola, criado pelo Dec Lei 96/86\
+    \ de 13-Mai, cujo estatuto consta do presente diploma, sendo as suas atribuições integradas no Instituto de Financiamento\
+    \ da Agricultura e Pescas, I.P., na Inspecção-Geral de Agricultura e Pescas e no Gabinete de Planeamento e Política, pelo\
+    \ DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208] de 27.10.2006, nos termos do disposto na al. e) do nº 2 do seu art. 21º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições do INGA, no domínio do planeamento de todos os fundos\
+    \ aplicáveis à agricultura e pescas pelo DR.6/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
+- type: amended_by
+  target: pt:dre:520468:por
+  label: "Determinada a sucessão do IFAP nas atribuições do INGA, com excepção das atribuições no domínio dos controlos ex\
+    \ post previstos no Regulamento (CE) nº 4045/89 e do planeamento dos fundos aplicáveis à agricultura e pescas, e revogado\
+    \ o presente diploma a partir de 01.04.2007 pelo DEC LEI.87/2007.29.03.2007.MADRP, DR.IS [63] de 29.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2007-520468
+  date: '2007-03-29'
+- type: amended_by
+  target: pt:dre:636412:por
+  label: "Determinada a sucessão da IGAP nas atribuições do Instituto Nacional de Intervenção e Garantia Agrícola (INGA),\
+    \ no domínio dos controlos a posteriori previstos no Regulamento (CEE) nº 4045/89, cujo estatuto orgânico consta do presente\
+    \ diploma, pelo DR.79/2007.30.07.2007.MADRP, DR.IS [145] de 30.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/79-2007-636412
+  date: '2007-07-30'
 - type: cites
   target: celex:31970R0729
   label: null
@@ -90,16 +125,22 @@ relationships:
   target: celex:31995R1663
   label: null
   source: http://data.europa.eu/eli/reg/1995/1663/oj
+- type: repealed_by
+  target: pt:dre:450618:por
+  label: "Revogados a al. a) do art. 7º, os arts. 8º, 9º, apenas no que se refere às deliberações do Conselho Directivo, 11º,\
+    \ 14º, 15º, e 17º, pelo DEC LEI.250/2002.2002.11.21.MADRP DR.IS-A [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-2002-450618
+  date: '2002-11-21'
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:39Z'
   warnings: []
   errors: []
 ---
@@ -524,12 +565,12 @@ b) O Decreto-Lei n.º 70/92, de 27 de Abril.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1998. - Jaime José Matos da Gama António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 12 de Fevereiro de 1998.**
+Promulgado em 12 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1998.**
+Referendado em 18 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

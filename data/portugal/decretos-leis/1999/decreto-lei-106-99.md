@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/076a00/17951797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/1999/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1999-138783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de06df2b5bc293b2be148c5c4be4625eaf5fa16852495d16f0b2fb1eb224227f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eb63e8ffced8cbbac4206d08ba82b9416533a34c4b57a135096a9ceb9e8e6a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Aproximação das Legislações
 - Certificado Complementar de Protecção para Medicamentos e para Produtos Fitofarmacêuticos
 - Código da Propriedade Industrial
-- Medicamento
-- Instituto Nacional da Propriedade Industrial
-- Patente
-- Propriedade Industrial
-- Produto Farmacêutico
-- Publicação
-- Produto Fitofarmacêutico
-- Taxa
 - Comércio
+- Instituto Nacional da Propriedade Industrial
+- Medicamento
+- Patente
+- Produto Farmacêutico
+- Produto Fitofarmacêutico
+- Propriedade Industrial
+- Publicação
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:220563:por
@@ -91,16 +91,26 @@ relationships:
   target: celex:31996R1610
   label: null
   source: http://data.europa.eu/eli/reg/1996/1610/oj
+- type: corrected_by
+  target: pt:dre:219926:por
+  label: "Rectificado pela DECL-RECT.10-M/99.1999.04.27.PCM DR.IS-A [101]SUPL DE 30/ABR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-m-1999-219926
+  date: '1999-04-27'
+- type: repealed_by
+  target: pt:dre:220563:por
+  label: "Revogado a partir de 01/07/2003 pelo DEC LEI.36/2003.2003.03.05.MECO DR.IS-A [54]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2003-220563
+  date: '2003-03-05'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:24Z'
   warnings: []
   errors: []
 ---
@@ -185,12 +195,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 15 de Março de 1999.**
+Promulgado em 15 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Março de 1999.**
+Referendado em 18 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/24500/15231523.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/527-1970-147605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3509dd4593f764ed52b1c23740be0e77e2ba26d18af33cda643aa912ef4004e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfffaead169f232c202b67e81011405afe402a01caf8142d202b24fc130cac47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,25 @@ relationships:
   target: pt:dre:380931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380931:por
+  label: "Revogada pelo DEC LEI.289/84.24.08.1984.MAFA, DR.IS [196] de 24.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-1984-380931
+  date: '1984-08-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:08Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +117,4 @@ b) O despacho de 30 de Julho de 1966, a que se refere a declaração da Comissã
 
 6.º Esta portaria entra em vigor trinta dias após a data da sua publicação.
 
-**O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Secretário de Estado do Comércio, Valentim Xavier Pintado.

@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 061cbea2556b5fc2c518cd6bde3583959de654c458e938dbe4906373d2567a50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e4faf8661002adb045449eb72aa5cf555fc82ffc4926b8f956fa01ffc396dd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Defesa do Consumidor
+- Orgânica
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:283525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:417180:por
+  label: "Alterado o quadro de pessoal, constante do mapa anexo ao presente diploma, pela PORT.677/87.05.08.1987.MF, DR.IS\
+    \ [178] de 05.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1987-417180
+  date: '1987-08-05'
+- type: amended_by
+  target: pt:dre:373454:por
+  label: "Substituído o quadro de pessoal, aprovado no presente diploma, alterado na Portaria n.º 677/87, de 5 de Agosto,\
+    \ pela PORT.292/88.10.05.1988.MF, DR.IS [108] de 10.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1988-373454
+  date: '1988-05-10'
+- type: cites
+  target: pt:dre:182032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575922:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283525:por
+  label: "Revogado, com excepção das normas relativas a carreiras específicas e respectivo regime, pelo DEC LEI.195/93.24.05.1993.MARN,\
+    \ DR.IS-A [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-1993-283525
+  date: '1993-05-24'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:51Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +132,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Em virtude da transição das atribuições e competências do Gabinete de Defesa do Consumidor para o Instituto Nacional de Defesa do Consumidor, são alteradas as disposições do [Decreto Regulamentar n.º 8/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1983-310983), de 5 de Fevereiro, abaixo indicadas, que passam a ter a seguinte redacção:
+Artigo 1.º Em virtude da transição das atribuições e competências do Gabinete de Defesa do Consumidor para o Instituto Nacional de Defesa do Consumidor, são alteradas as disposições do [Decreto Regulamentar n.º 8/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1983-310983), de 5 de Fevereiro, abaixo indicadas, que passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Natureza e objectivos
 
@@ -283,15 +316,15 @@ d) Fomentar as relações necessárias com os serviços competentes nestas maté
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, por concurso, de entre diplomados com um curso técnico-profissional da área da administração, adequado às funções referidas no n.º 1, de duração não inferior a dezoito meses, para além de nove anos de escolaridade.
 
-###### Art. 2.º É revogado o artigo 18.º, passando o artigo 19.º a 18.º e acompanhando os restantes artigos esta alteração de ordem numérica.
+Art. 2.º É revogado o artigo 18.º, passando o artigo 19.º a 18.º e acompanhando os restantes artigos esta alteração de ordem numérica.
 
-###### Art. 3.º É revogada a alínea e) do n.º 2 do artigo 19.º, passando as alíneas f) e g) a designar-se, respectivamente, e) e f).
+Art. 3.º É revogada a alínea e) do n.º 2 do artigo 19.º, passando as alíneas f) e g) a designar-se, respectivamente, e) e f).
 
-###### Art. 4.º O quadro de pessoal do INDC, a que se refere o artigo 23.º, passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 4.º O quadro de pessoal do INDC, a que se refere o artigo 23.º, passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 5.º Todas as referências ao Ministro da Qualidade de Vida, constantes do diploma, consideram-se feitas ao ministro da tutela.
+Art. 5.º Todas as referências ao Ministro da Qualidade de Vida, constantes do diploma, consideram-se feitas ao ministro da tutela.
 
-###### Art. 6.º São acrescentados às disposições gerais e transitórias os seguintes artigos:
+Art. 6.º São acrescentados às disposições gerais e transitórias os seguintes artigos:
 
 ###### Artigo 36.º
 
@@ -311,20 +344,20 @@ c) Publicar e divulgar opiniões sobre matérias de protecção do consumidor qu
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 7 de Novembro de 1986.**
+Promulgado em 7 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1986.**
+Referendado em 12 de Novembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
-
-Quadro do pessoal a que se refere o artigo 4.º do Decreto Regulamentar n.º 67/86
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro do pessoal a que se refere o artigo 4.º do Decreto Regulamentar n.º 67/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)
+
+Quadro do pessoal a que se refere o artigo 4.º do Decreto Regulamentar n.º 67/86
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)

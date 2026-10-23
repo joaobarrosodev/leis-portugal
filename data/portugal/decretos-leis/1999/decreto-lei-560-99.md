@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/293a00/90499059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/560/1999/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1999-654933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1fd656024e642e8fecaaf98d5015bf5efbb866ec1395ff6f406a12130a94260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f9ac4d6a47a4d5156f2dcb5dea373c360819a570634da0f4d09b31c23051234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,80 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Água Mineral
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Publicidade
-- Multa
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Regional de Agricultura
-- União Europeia
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Inspecção dos Alimentos
-- Embalagem
-- Política Alimentar
-- Informação do Consumidor
-- Prazo de Validade
-- Proteção do Consumidor
 - Indústria Alimentar
+- Informação do Consumidor
+- Inspecção dos Alimentos
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Multa
+- Política Alimentar
+- Prazo de Validade
+- Produto Alimentar
+- Proteção do Consumidor
+- Publicidade
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Comércio
 - TEOR Álcoolico
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:74661197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171695:por
+  label: "Aditado o naexo I pelo DEC LEI.183/2002.2002.08.20.MADRP DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2002-171695
+  date: '2002-08-20'
+- type: amended_by
+  target: pt:dre:241861:por
+  label: "Alterados os arts. 14.º, 16.º e 19.º, substituído o anexo I aditado pelo Dec Lei 183/2002, de 20-Ago, e aditados\
+    \ os arts 14.º-A e 15.º-A, bem como o anexo III, ao presente diploma, pelo DEC LEI.126/2005.05.08.2005.MADRP, DR.IS-A\
+    \ [150] de 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2005-241861
+  date: '2005-08-05'
+- type: amended_by
+  target: pt:dre:245302:por
+  label: "Alterado o art. 3º e aditado o anexo IV ao presente diploma, pelo DEC LEI.148/2005.29.08.2005.MADRP, DR.IS-A [165]\
+    \ de 29.08.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2005-245302
+  date: '2005-08-29'
+- type: amended_by
+  target: pt:dre:583416:por
+  label: "Excluídos provisoriamente, até 25.11.2007, ingredientes e substâncias alimentares do anexo III do presente diploma,\
+    \ com a redacção que lhe foi conferida pelo Dec Lei 126/2005 de 08-Mai, pelo Dec Lei DEC LEI.195/2005.07.11.2005.MADRP,\
+    \ DR.IS-A [213] de 07.11.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2005-583416
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:676842:por
+  label: "Alterado o anexo ao Dec Lei 195/2005 de 07-Nov, que exclui provisóriamente até 25-Nov de 2007, ingredientes e substâncias\
+    \ alimentares do anexo III do presente diploma, pelo DEC LEI.37/2006.20.02.2006.MADRP, DR.IS-A [36] de 20.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2006-676842
+  date: '2006-02-20'
+- type: amended_by
+  target: pt:dre:629413:por
+  label: "Aditados alguns ingredientes ao Anexo III do presente diploma (na redacção do Dec Lei 126/2005, de 05-Ago), pelo\
+    \ DEC LEI.365/2007.02.11.2007.MADRP, DR.IS [211] de 02.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-2007-629413
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:455106:por
+  label: "Substituído o anexo III ao presente diploma, na redacção dada pelos Decretos-Leis n.ºs 126/2005, de 5 de Agosto,\
+    \ 195/2005, de 7 de Novembro, 37/2006, de 20 de Fevereiro, e 365/2007, de 2 de Novembro, pelo DEC LEI.156/2008.07.08.2008.MADRP,\
+    \ DR.IS [152] de 07.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2008-455106
+  date: '2008-08-07'
 - type: cites
   target: celex:31979L0112
   label: null
@@ -109,16 +153,29 @@ relationships:
   target: celex:31999L0010
   label: null
   source: http://data.europa.eu/eli/dir/1999/10/oj
+- type: repealed_by
+  target: pt:dre:493699:por
+  label: "Revogada a al. g) do nº 2 do art. 17º pelo DEC LEI.229/2003.2003.09.27.MADRP DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2003-493699
+  date: '2003-09-27'
+- type: repealed_by
+  target: pt:dre:74661197:por
+  label: Revogado, a partir de 10.06.2016, o presente diploma, com a redação dada pelos Dec Leis 183/2002 de 10-ago, 50/2003
+    de 25-mar, 126/2005, de 05-ago, 148/2005 de 29-ago, 195/2005 de 07-nov, 365/2007 de 01-nov e 156/2008 de 07-ago, pelo(a)
+    Decreto-Lei n.º 26/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09, sem prejuízo do disposto transitoriamente
+    no seu art. 15.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2016-74661197
+  date: '2016-06-09'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:24Z'
   warnings: []
   errors: []
 ---
@@ -629,15 +686,15 @@ O disposto no presente diploma entra em vigor, nos termos gerais, sem prejuízo 
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 29 de Novembro de 1999.**
+Promulgado em 29 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Dezembro de 1999.**
+Referendado em 8 de Dezembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — [a que se refere o artigo 15.º, alínea a)]
 

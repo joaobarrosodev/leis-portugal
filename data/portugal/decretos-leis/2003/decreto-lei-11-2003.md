@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2003/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2003-176339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad58e2a5c35b418e64991d4e611f5dba62edee641ab8b328a54198441cb8ca6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e62a3bd922d7e4760999b39fa8eae5d01db4940eb05b8dbdc47ee20a0bb58a05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Radiactividade
-- Radioprotecção
-- Radiocomunicações
+- Câmara Municipal
 - Contra-ordenação
 - Equipamento
-- Instalações Radioelétricas
+- Equipamento de Transmissão
 - Fiscalização
+- Instalações Radioelétricas
 - Instituto das Comunicações de Portugal
 - Licenciamento
+- Radiactividade
+- Radiocomunicações
 - Radiodifusão
-- Câmara Municipal
+- Radioprotecção
 - Serviços de Radiocomunicações
-- Equipamento de Transmissão
 relationships:
 - type: amended_by
   target: pt:dre:897667105:por
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/1999/519/oj
 article_structure:
-  article_count: 15
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:04Z'
   warnings: []
   errors: []
 ---
@@ -163,13 +163,19 @@ d) «Operador de radiocomunicações»: entidade que presta o serviço de uso p�
 
 e) «Radiocomunicações»: telecomunicações por ondas radioeléctricas.
 
-###### Artigo 3.º — Infra-estruturas de suporte das estações de radiocomunicações
+Artigo 3.º
+
+Infra-estruturas de suporte das estações de radiocomunicações
 
 As infra-estruturas de suporte das estações de radiocomunicações a instalar devem utilizar as melhores tecnologias disponíveis (MTDS) adequadas à especificidade dos locais de instalação, relativamente à sua tipologia e características dos equipamentos, no sentido de minimizar o impacte visual e ambiental.
 
-### CAPÍTULO II — Autorização municipal
+CAPÍTULO II
 
-###### Artigo 4.º — Instalação de infra-estruturas de suporte das estações de radiocomunicações
+Autorização municipal
+
+Artigo 4.º
+
+Instalação de infra-estruturas de suporte das estações de radiocomunicações
 
 A instalação de infra-estruturas de suporte das estações de radiocomunicações e respectivos acessórios está sujeita a autorização municipal, com excepção:
 
@@ -181,7 +187,9 @@ c) Daquelas que se destinam à instalação de estações terminais para acesso,
 
 d) Das infra-estruturas temporárias para suporte de estações de radiocomunicações.
 
-###### Artigo 5.º — Procedimento de autorização
+Artigo 5.º
+
+Procedimento de autorização
 
 1 - O pedido de autorização de instalação de infra-estruturas de suporte das estações de radiocomunicações e respectivos acessórios consta de requerimento, dirigido ao presidente da câmara municipal, que deve ser instruído com os seguintes elementos:
 
@@ -207,7 +215,9 @@ b) Cópia do documento de que conste a autorização expressa para a instalaçã
 
 4 - Na situação referida no número anterior será também entregue documento comprovativo do pedido de instalação do operador à respectiva sociedade.
 
-###### Artigo 6.º — Procedimento
+Artigo 6.º
+
+Procedimento
 
 1 - O presidente da câmara municipal profere despacho de rejeição liminar do pedido no prazo de oito dias a contar da respectiva apresentação, sempre que o requerimento não seja instruído com os elementos referidos no artigo anterior.
 
@@ -229,7 +239,9 @@ b) Cópia do documento de que conste a autorização expressa para a instalaçã
 
 10 - O disposto no número anterior não dispensa o pagamento de taxas administrativas de instalação exigíveis nos termos e montantes a definir em regulamento municipal, de acordo com os critérios definidos na lei.
 
-###### Artigo 7.º — Indeferimento do pedido
+Artigo 7.º
+
+Indeferimento do pedido
 
 O pedido de autorização é indeferido quando:
 
@@ -239,11 +251,15 @@ b) A instalação das infra-estruturas de suporte das estações de radiocomunic
 
 c) O justifiquem razões objectivas e fundamentadas relacionadas com a protecção do ambiente, do património cultural e da paisagem urbana ou rural.
 
-###### Artigo 8.º — Deferimento tácito
+Artigo 8.º
+
+Deferimento tácito
 
 Decorrido o prazo referido no n.º 8 do artigo 6.º do presente diploma sem que o presidente da câmara se pronuncie, o requerente pode iniciar a colocação das infra-estruturas de suporte das estações de radiocomunicações, mediante a entrega prévia de requerimento em que solicite a emissão da guia de pagamento das taxas devidas.
 
-###### Artigo 9.º — Audiência prévia
+Artigo 9.º
+
+Audiência prévia
 
 1 - Quando existir projecto de decisão no sentido do indeferimento do pedido de autorização, deve ser realizada uma audiência prévia que tenha por objectivo a criação das condições de minimização do impacte visual e ambiental que possam levar ao deferimento do pedido.
 
@@ -251,15 +267,21 @@ Decorrido o prazo referido no n.º 8 do artigo 6.º do presente diploma sem que 
 
 3 - Caso não seja possível encontrar nova localização nos termos do n.º 2, o presidente da câmara municipal defere o pedido, excepto nos casos em que a isso obste a resposta negativa aos pedidos de pareceres vinculativos, autorizações ou aprovações, emitidos pelas entidades competentes.
 
-###### Artigo 10.º — Autorização limitada
+Artigo 10.º
+
+Autorização limitada
 
 1 - Nos casos em que se preveja a realização de projectos de utilidade pública ou privada no local indicado pelo requerente para a instalação da sua infra-estrutura de suporte, pode o presidente da câmara municipal conceder uma autorização limitada, válida até à realização daqueles projectos.
 
 2 - Uma vez definida a data para a realização daqueles projectos, deverá a câmara municipal notificar o titular da autorização para, dentro de um prazo não inferior a 60 dias, remover integralmente a estação em causa.
 
-### CAPÍTULO III — Radiações electromagnéticas
+CAPÍTULO III
 
-###### Artigo 11.º — Níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos
+Radiações electromagnéticas
+
+Artigo 11.º
+
+Níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos
 
 1 - As estações de radiocomunicações devem cumprir, obrigatoriamente, os níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos, a fixar por portaria conjunta dos Ministros de Estado e da Defesa Nacional, Adjunto do Primeiro-Ministro, da Economia, da Ciência e do Ensino Superior, da Saúde e das Cidades, Ordenamento do Território e Ambiente, a publicar até 90 dias após a entrada em vigor do presente diploma.
 
@@ -269,7 +291,9 @@ Decorrido o prazo referido no n.º 8 do artigo 6.º do presente diploma sem que 
 
 4 - O ICP - ANACOM pode, de acordo com os elementos a que se refere o n.º 1 do presente artigo, adoptar medidas condicionantes da instalação e funcionamento de estações de radiocomunicações.
 
-###### Artigo 12.º — Planos de monitorização e medição
+Artigo 12.º
+
+Planos de monitorização e medição
 
 1 - As entidades habilitadas a instalar e utilizar estações de radiocomunicações afectas à prestação de serviços de telecomunicações de uso público endereçados ou de difusão devem apresentar ao ICP - ANACOM para aprovação, até 30 de Novembro de cada ano, um plano de monitorização e medição dos níveis de intensidade dos campos electromagnéticos resultantes da emissão de estações de radiocomunicações, nomeadamente nos locais acessíveis à população.
 
@@ -279,9 +303,13 @@ Decorrido o prazo referido no n.º 8 do artigo 6.º do presente diploma sem que 
 
 4 - Os resultados da monitorização efectuada nos termos do presente artigo, pelas entidades referidas no n.º 1, devem ser apresentados trimestralmente ao ICP - ANACOM, às entidades competentes do Ministério da Saúde e às câmaras municipais dos locais de instalação das estações abrangidas pela monitorização.
 
-### CAPÍTULO IV — Fiscalização e regime sancionatório
+CAPÍTULO IV
 
-###### Artigo 13.º — Fiscalização
+Fiscalização e regime sancionatório
+
+Artigo 13.º
+
+Fiscalização
 
 1 - Compete às câmaras municipais a fiscalização do cumprimento do disposto no capítulo II do presente diploma, relativamente à instalação das infra-estruturas de suporte das estações de radiocomunicações e respectivos acessórios.
 
@@ -293,7 +321,9 @@ Decorrido o prazo referido no n.º 8 do artigo 6.º do presente diploma sem que 
 
 5 - Sem prejuízo da instauração de processo de contra-ordenação, as entidades competentes para a fiscalização das estações de radiocomunicações podem determinar a suspensão preventiva e imediata da utilização e funcionamento das mesmas quando estas não cumpram os níveis de referência fixados nos termos do n.º 1 do artigo 11.º
 
-###### Artigo 14.º — Contra-ordenações
+Artigo 14.º
+
+Contra-ordenações
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, são puníveis como contra-ordenação:
 
@@ -329,9 +359,13 @@ g) A violação do disposto no n.º 1 do artigo 15.º
 
 10 - A punição por contra-ordenação bem como as sanções acessórias aplicadas nos termos do presente diploma podem ser publicitadas por forma adequada pelas entidades competentes para a sua aplicação.
 
-### CAPÍTULO V — Disposições transitórias e finais
+CAPÍTULO V
 
-###### Artigo 15.º — Norma transitória
+Disposições transitórias e finais
+
+Artigo 15.º
+
+Norma transitória
 
 1 - O presente diploma aplica-se às infra-estruturas de suporte de radiocomunicações já instaladas sem que tenha havido deliberação ou decisão municipal favorável, devendo os operadores requerer a respectiva autorização municipal no prazo de 180 dias a partir da data da sua entrada em vigor.
 
@@ -355,12 +389,12 @@ d) Violação dos níveis de referência definidos ao abrigo do n.º 1 do artigo
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Pedro Lynce de Faria - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 8 de Janeiro de 2003.**
+Promulgado em 8 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Janeiro de 2003.**
+Referendado em 9 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

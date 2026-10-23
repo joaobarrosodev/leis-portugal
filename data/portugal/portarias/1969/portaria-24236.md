@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24236-1969-198713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a357a06d5e0d08f354a94a14b0484b40f0bbc1f5d699ab6074bf51cc2ae187b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a8ca22f7fc98b59fea4970fd69ee7eaf8c928b2f014df2ba1764904e7099e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:05Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +119,19 @@ Repartição Provincial dos Serviços de Saúde e Assistência
 
 Despesas com o pessoal:
 
-###### Artigo 119.º «Remunerações certas ao pessoal em exercício»:
+Artigo 119.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado» ... 1296$75
 
 N.º 3), alínea a) «Pessoal assalariado - Pessoal discriminado no quadro» ... 10141$25
 
-###### Artigo 120.º, n.º 1) «Remunerações acidentais - Gratificações, nos termos do mapa VIII a que se refere o artigo 59.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956» ... 13114$75
+Artigo 120.º, n.º 1) «Remunerações acidentais - Gratificações, nos termos do mapa VIII a que se refere o artigo 59.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956» ... 13114$75
 
 Polícia de Segurança Pública
 
 Despesas com o pessoal:
 
-###### Artigo 139.º, n.º 1) «Outras despesas com o pessoal dentro da província - Subsídio para fardamento (artigo 3.º do Diploma Legislativo n.º 1464, de 29 de Outubro de 1960)» ... 12027$00
+Artigo 139.º, n.º 1) «Outras despesas com o pessoal dentro da província - Subsídio para fardamento (artigo 3.º do Diploma Legislativo n.º 1464, de 29 de Outubro de 1960)» ... 12027$00
 
 Repartição Provincial dos Serviços de Estatística
 
@@ -119,17 +139,17 @@ Serviços de Estatística
 
 Despesas com o pessoal:
 
-###### Artigo 149.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 1947$50
+Artigo 149.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 1947$50
 
 Pagamento de serviços:
 
-###### Artigo 155.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 1097$25
+Artigo 155.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 1097$25
 
 Serviços de Centralização e Coordenação de Informações
 
 Despesas com o pessoal:
 
-###### Artigo 161.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 10507$00
+Artigo 161.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 10507$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -137,13 +157,13 @@ Repartição Provincial dos Serviços de Obras Públicas e Transportes
 
 Despesas com o pessoal:
 
-###### Artigo 227.º «Remunerações certas ao pessoal em exercício»:
+Artigo 227.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 3) «Pessoal assalariado» ... 3871$25
 
 N.º 4) «Pessoal além dos quadros, nos termos do artigo 6.º do [Decreto n.º 44660](https://diariodarepublica.pt/dr/detalhe/decreto/44660-1962-156263), de 2 de Novembro de 1962» ... 1249$25
 
-###### Artigo 228.º «Remunerações acidentais»:
+Artigo 228.º «Remunerações acidentais»:
 
 N.º 4) «Senhas de presença aos membros do Conselho Técnico de Obras Públicas (artigo 51.º do diploma orgânico dos Serviços Provinciais de Obras Públicas e Transportes)» ... 2745$50
 
@@ -153,7 +173,7 @@ Serviço Meteorológico
 
 Despesas com o pessoal:
 
-###### Artigo 239.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 13404$50
+Artigo 239.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 13404$50
 
 ... 78052$00
 

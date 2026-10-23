@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/613-1977-278537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2559815944d69f5888a97174feab40cd1f5c4515c6ad23305d92838c82cb31a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5de22c2691cba715fecd05df5a1fcf20438eb0bf4a38f0a87f9f3639d11b2863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acesso à Educação
+- Avaliação de Conhecimentos
+- Concurso
+- Ensino Superior Militar
+- Estudante
+- Instituto Superior Militar
+- Militar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:225859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391206:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:26:44Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +118,11 @@ REGULAMENTO DE ADMISSÃO DE ALUNOS AO INSTITUTO SUPERIOR MILITAR
 
 ### CAPÍTULO I — Condições de admissão
 
-###### Artigo 1.º - 1. A admissão de alunos no ISM processa-se através de concurso para a matrícula no 1.º ano dos cursos e para o preenchimento das vagas anualmente fixadas pelo Estado-Maior do Exército.
+Artigo 1.º - 1. A admissão de alunos no ISM processa-se através de concurso para a matrícula no 1.º ano dos cursos e para o preenchimento das vagas anualmente fixadas pelo Estado-Maior do Exército.
 
 2. O número de alunos a admitir em cada ano será fixado anualmente por despacho do CEME até seis meses antes do início dos cursos.
 
-###### Art. 2.º São condições gerais de admissão à matrícula no Instituto:
+Art. 2.º São condições gerais de admissão à matrícula no Instituto:
 
 a) Ser sargento-ajudante de qualquer arma, serviço ou quadro do Exército, da Guarda Nacional Republicana e da Guarda Fiscal;
 
@@ -114,7 +138,7 @@ f) Possuir a necessária robustez física, verificada por uma junta de inspecç�
 
 g) Ter boa informação do respectivo comandante, director ou chefe
 
-###### Art. 3.º São condições especiais de admissão aos cursos:
+Art. 3.º São condições especiais de admissão aos cursos:
 
 a) Curso A - Pertencer às armas de infantaria, artilharia, cavalaria e engenharia e ao serviço de administração militar, serviço de saúde, serviço de material (artífices), serviço geral do Exército, ramo corneteiros e clarins do quadro das bandas e fanfarras do Exército e ainda à Guarda Nacional Republicana e Guarda Fiscal, nas especialidades afins com as indicadas para o Exército;
 
@@ -126,13 +150,13 @@ d) Curso D - Pertencer ao ramo músicos do quadro das bandas e fanfarras do Exé
 
 e) Curso E - Pertencer à Força Aérea e satisfazer às condições que forem estabelecidas pelo Chefe do Estado-Maior daquele ramo.
 
-###### Art. 4.º Não serão admitidos ao concurso os candidatos que em anos anteriores, por duas vezes, tenham sido reprovados nas provas de admissão ou tenham desistido das mesmas.
+Art. 4.º Não serão admitidos ao concurso os candidatos que em anos anteriores, por duas vezes, tenham sido reprovados nas provas de admissão ou tenham desistido das mesmas.
 
 ### CAPÍTULO II — Inscrições para o concurso
 
-###### Art. 5.º São admitidos ao concurso anual de admissão todos os sargentos que, satisfazendo às condições de admissão, a requeiram ao CEME.
+Art. 5.º São admitidos ao concurso anual de admissão todos os sargentos que, satisfazendo às condições de admissão, a requeiram ao CEME.
 
-###### Art. 6.º - 1. Do requerimento constará obrigatoriamente:
+Art. 6.º - 1. Do requerimento constará obrigatoriamente:
 
 Nome, posto e número mecanográfico;
 
@@ -152,7 +176,7 @@ Nota de assuntos completa;
 
 Informação a prestar pelo respectivo comandante, director ou chefe, tendo em vista o disposto no artigo 69.º do [Decreto-Lei n.º 171/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1970-225859).
 
-###### Art. 7.º - 1. O requerimento é entregue pelo candidato na unidade, departamento ou estabelecimento militar onde presta serviço até 31 de Maio do ano em que concorre.
+Art. 7.º - 1. O requerimento é entregue pelo candidato na unidade, departamento ou estabelecimento militar onde presta serviço até 31 de Maio do ano em que concorre.
 
 2. As unidades e órgãos militares accionam os processos, na parte que lhes diz respeito, e, através dos canais competentes, remetem-nos à repartição de sargentos da Direcção do Serviço de Pessoal (DSP), por forma que a sua recepção tenha lugar até 30 de Junho de cada ano.
 
@@ -166,15 +190,15 @@ Como regra geral, as provas de admissão terão lugar no ISM e na primeira quinz
 
 ### CAPÍTULO III — Operações do concurso
 
-###### Art. 8.º - 1. As provas de admissão ao ISM constam de provas escritas das disciplinas de Português, Matemática e Físico-Químicas, englobando as matérias correspondentes aos programas oficialmente estabelecidos para o curso complementar dos liceus.
+Art. 8.º - 1. As provas de admissão ao ISM constam de provas escritas das disciplinas de Português, Matemática e Físico-Químicas, englobando as matérias correspondentes aos programas oficialmente estabelecidos para o curso complementar dos liceus.
 
 2. Sempre que se verifiquem alterações nos programas que justifiquem a mudança nos pontos modelo já difundidos, o ISM difundirá novos pontos modelo ou programas, com uma antecedência mínima de seis meses em relação à data das provas de admissão.
 
-###### Art. 9.º Haverá uma prova escrita por cada disciplina, com a duração de noventa minutos, não podendo realizar-se mais do que uma prova em cada dia.
+Art. 9.º Haverá uma prova escrita por cada disciplina, com a duração de noventa minutos, não podendo realizar-se mais do que uma prova em cada dia.
 
-###### Art. 10.º Os cadernos onde se efectuam os exames são fornecidos pelo ISM e preparados de forma que a classificação de todas as provas seja feita sob reserva do anonimato dos candidatos que as realizaram.
+Art. 10.º Os cadernos onde se efectuam os exames são fornecidos pelo ISM e preparados de forma que a classificação de todas as provas seja feita sob reserva do anonimato dos candidatos que as realizaram.
 
-###### Art. 11.º - 1. Para superintender nas operações do concurso é nomeado anualmente, por despacho do comandante do ISM, um júri constituído por:
+Art. 11.º - 1. Para superintender nas operações do concurso é nomeado anualmente, por despacho do comandante do ISM, um júri constituído por:
 
 a) 2.º comandante, que preside;
 
@@ -184,33 +208,33 @@ b) Três vogais, professores de cada uma das disciplinas do exame de admissão.
 
 3. Poderão ainda ser nomeados outros professores para, como delegados do júri, assistirem à realização das provas.
 
-###### Art. 12.º - 1. Compete ao júri de cada disciplina antes do início das provas comprovar a identidade dos candidatos e classificar as suas provas, utilizando a escala de avaliação de 0 a 20 valores.
+Art. 12.º - 1. Compete ao júri de cada disciplina antes do início das provas comprovar a identidade dos candidatos e classificar as suas provas, utilizando a escala de avaliação de 0 a 20 valores.
 
 2. A classificação final do candidato, obtida pela média das classificações das disciplinas objecto de exame, é efectuada pelo júri principal, que, na mesma escala de valores, levará a aproximação até às milésimas, se necessário.
 
 3. Dos resultados das provas será lavrado pelo júri o respectivo termo, sendo tornadas públicas as classificações respectivas.
 
-###### Art. 13.º - 1. Do livro de termos o júri extrairá uma relação por cada curso, no qual os candidatos são relacionados por ordem decrescente de classificação.
+Art. 13.º - 1. Do livro de termos o júri extrairá uma relação por cada curso, no qual os candidatos são relacionados por ordem decrescente de classificação.
 
 2. Essas relações são enviadas ao Departamento de Instrução (DI), com conhecimento ao Departamento de Pessoal e RS/DSP.
 
-###### Art. 14.º As relações dos candidatos a admitir, após homologadas por despacho do CEME, serão difundidas pelo DI, com a indicação da data em que os alunos admitidos se devem apresentar no ISM.
+Art. 14.º As relações dos candidatos a admitir, após homologadas por despacho do CEME, serão difundidas pelo DI, com a indicação da data em que os alunos admitidos se devem apresentar no ISM.
 
 ### CAPÍTULO IV — Selecção dos candidatos
 
-###### Art. 15.º Serão considerados desistentes os candidatos que:
+Art. 15.º Serão considerados desistentes os candidatos que:
 
 a) Não se apresentarem às provas de admissão;
 
 b) Antes ou durante as provas de admissão apresentarem declaração de desistência.
 
-###### Art. 16.º Serão considerados reprovados os candidatos que:
+Art. 16.º Serão considerados reprovados os candidatos que:
 
 a) Na média geral das provas efectuadas não obtenham a classificação mínima de 10,000 valores;
 
 b) Em qualquer disciplina do exame de admissão obtenham uma classificação inferior a 7 valores, independentemente da média geral alcançada.
 
-###### Art. 17.º - 1. Quando o número de candidatos exceder as vagas, serão os mesmos ordenados pelas classificações obtidas na prova de admissão e admitidos aos respectivos cursos os de mais elevadas classificações até ao limite das vagas.
+Art. 17.º - 1. Quando o número de candidatos exceder as vagas, serão os mesmos ordenados pelas classificações obtidas na prova de admissão e admitidos aos respectivos cursos os de mais elevadas classificações até ao limite das vagas.
 
 2. Em caso de igualdade de classificação na prova de admissão, são condições de preferência:
 
@@ -226,8 +250,8 @@ b) Em qualquer disciplina do exame de admissão obtenham uma classificação inf
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 18.º Até ao ano lectivo de 1983-1984, inclusive, as provas escritas dos exames de admissão englobam as matérias correspondentes aos programas oficialmente estabelecidos para o curso geral dos liceus.
+Art. 18.º Até ao ano lectivo de 1983-1984, inclusive, as provas escritas dos exames de admissão englobam as matérias correspondentes aos programas oficialmente estabelecidos para o curso geral dos liceus.
 
-###### Art. 19.º Conforme o estatuído no artigo 40.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos ao concurso os sargentos-ajudantes e primeiros-sargentos com menos de 46 anos de idade, referidos a 31 de Dezembro do ano de admissão ao curso, e com dispensa da condição d) do artigo 2.º desta portaria.
+Art. 19.º Conforme o estatuído no artigo 40.º do [Decreto-Lei n.º 920/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/920-1976-391206), de 31 de Dezembro, até ao ano lectivo de 1983-1984, inclusive, podem ser admitidos ao concurso os sargentos-ajudantes e primeiros-sargentos com menos de 46 anos de idade, referidos a 31 de Dezembro do ano de admissão ao curso, e com dispensa da condição d) do artigo 2.º desta portaria.
 
 Estado-Maior do Exército, 23 de Agosto de 1977. - O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/1998, 2º Suplemento, Série I-A de 1998-03-19
   number: '66'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1234-(4) a 1234-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/066a02/00040005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13-d/1998/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-d-1998-272653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27ffa6cb447e158802cab51ede10cae47797fd3bd96109129e28c48ff61128a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e811b5c8f309df103af83b5e3f13c4806c653667058aec263af1358228f143d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exército
 - Chefe do Estado Maior do Exército
-- Nomeação
+- Exército
 - Forças Armadas
-relationships: []
+- Nomeação
+relationships:
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:16Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +93,16 @@ validation:
 
 de 19 de Março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior do Exército, sob proposta do Governo, conforme resolução do Conselho de Ministros de 19 de Março de 1998, o general António Eduardo Queiroz Martins Barrento, sendo promovido ao posto de general de quatro estrelas, por força do disposto no artigo 233.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro.
 
-**Assinado em 19 de Março de 1998.**
+Assinado em 19 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Março de 1998.**
+Referendado em 19 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

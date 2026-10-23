@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20595-1964-576760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 313fa82723d87acbfe96429304bd35bd9a6e9d27496189a6640c53a564411269
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc3853919844b904b9ec0e525c9a0448ff9e6f7d322546ced3cca57a18652f1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635201:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:22Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Um de 2174149$90, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar com estas importâncias as seguintes verbas da tabela de despesa extraordinária do orçamento geral em vigor:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 2) «Aproveitamento de recursos»:
 
@@ -113,7 +129,7 @@ a) «Construção e equipamento de instalações hospitalares e congéneres» ..
 
 2) Um de 991921$70, tomando como contrapartida os saldos das contas de exercícios findos, consignado à dotação das seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 3) «Comunicações e transportes»:
 
@@ -129,7 +145,7 @@ a) «Mecanização da conservação de estradas e melhoramentos de oficinas de o
 
 3) Um de 4515038$50, tomando como contrapartida disponibilidades do imposto das sobrevalorizações, destinado a reforçar com as quantias que se indicam estas verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 2) «Aproveitamento de recursos»:
 
@@ -151,7 +167,7 @@ a) «Urbanização, incluindo a construção de edifícios públicos ou de utili
 
 5) Um de 1296262$60, tomando como contrapartida igual importância a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961, destinado a reforçar com estas quantias as seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 1) «Conhecimento científico do território»:
 
@@ -175,7 +191,7 @@ a) «Urbanização, incluindo a construção de edifícios públicos ou de utili
 
 6) Um de 355590$10, tomando como contrapartida igual quantia a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961, destinado a dotar com as importâncias que se indicam as seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 3) «Comunicações e transportes»:
 
@@ -191,7 +207,7 @@ a) «Mecanização da conservação de estradas e melhoramento de oficinas de ob
 
 7) Um de 3464787$76, tomando como contrapartida igual importância a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954, destinado a reforçar com as seguintes quantias as verbas da mesma tabela de despesa que se indicam:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 2) «Aproveitamento de recursos»:
 
@@ -213,7 +229,7 @@ b) «Saneamento urbano» ... 1100578$85
 
 8) Um de 107056$80, tomando como contrapartida igual montante a sair do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954, destinado a dotar com estas quantias as seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
+Capítulo 12.º, artigo 306.º «Plano de Fomento - Programa de execução da 2.ª fase, 1964»:
 
 3) «Comunicações e transportes»:
 

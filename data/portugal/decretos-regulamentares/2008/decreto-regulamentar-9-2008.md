@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2008/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2008-246573
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ccfbd84519435aa15e098f7ac1734e9d86230820b3616c9c3e35c54fd3732ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 724c45258fa537c7c94853313a879f6f8f7d21169a06a8778cb00948aa6fa99a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral das Pescas e Aquicultura
 - Algarve
+- Aquicultura
+- Direcção Geral das Pescas e Aquicultura
 - Fiscalização
+- Instituto da Conservação da Natureza e da Biodiversidade
 - Instituto Nacional de Recursos Biológicos
 - Licenciamento
 - Navegação Fluvial
-- Aquicultura
 - Piscicultura
-- Zona de Proteção
 - Produto de Aquicultura
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570555:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:12Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +218,7 @@ Sem prejuízo das situações de caducidade e revogação da licença de utiliza
 
 1 - É instituída a área piloto de produção aquícola da Armona, delimitada pelas seguintes coordenadas geográficas, cuja carta com representação gráfica é publicada nos anexos i, ii e iii do presente decreto regulamentar, que dele fazem parte integrante:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
 
 2 - A área piloto referida no número anterior inclui a área experimental já atribuída ao Instituto Nacional de Recursos Biológicos I. P./L-IPIMAR para realização de estudos piloto de recifes artificiais e de aquicultura em mar aberto (lotes A5, A6, A7, B5, B6, B7, C5, C6, C7, D5, D6, D7, E5, E6, E7) e uma área actualmente ocupada por uma armação para tunídeos (lotes A11, A12, B11, B12, C11, C12, D11,D12, E11, E12).
 
@@ -228,36 +248,36 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 4 de Março de 2008.**
+Promulgado em 4 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Março de 2008.**
+Referendado em 6 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Área piloto de produção aquícola da Armona
 
 Projecção em carta mercador - WGS 84/Escala (1:70 000)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
 
 ## ANEXO II — Área piloto de produção aquícola da Armona
 
 Projecção UTM/Fuso 29ºN. - WGS 84/Escala (1:3500)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
 
 ## ANEXO III — Área piloto de produção aquícola da Armona
 
 Projecção UTM/Fuso 29ºN. - WGS 84/Escala (1:5000)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
 
 Nota. - Os originais, que se encontram à escala indicada, estão arquivados na Direcção-Geral das Pescas e Aquicultura.
 
 ## ANEXO IV — Monitorização dos parâmetros de qualidade ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05500/0160501609.pdf)

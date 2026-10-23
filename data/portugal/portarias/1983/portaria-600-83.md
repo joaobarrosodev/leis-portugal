@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/600-1983-451452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:44:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef957d594a42565e5e5f822d07c02627d965923c5c6aa69d7c4db9db73dde734
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ccf0d1d687dc2898ffd8732097bbb545418c37fad4a34235116b72d0696ec1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:44:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Corpo de Tropas Paraquedistas
+- Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:522853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:243373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599917:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:292930:por
+  label: "Revogada a al. c) do nº 6, pela PORT.985/91.1991.09.27.MDN, DR.IS-B [223]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-1991-292930
+  date: '1991-09-27'
+- type: repealed_by
+  target: pt:dre:522853:por
+  label: "Revogada pelo DEC LEI.27/94.1994.02.05.MDN DR.IS-A [30]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-1994-522853
+  date: '1994-02-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:44:11Z'
   warnings: []
   errors: []
 ---
@@ -234,9 +262,9 @@ e) Grupo Operacional de Apoio e Serviços, com sede em Aveiro, compreendendo:
 
 Ministério da Defesa Nacional.
 
-**Assinada em 22 de Abril de 1983.**
+Assinada em 22 de Abril de 1983.
 
-**O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.**
+O Ministro da Defesa Nacional, Ricardo Manuel Simões Bayão Horta.
 
 MAPA 1
 
@@ -244,11 +272,11 @@ Pessoal Militar permanente do Corpo de Tropas Pára-Quedistas especializado em p
 
 A) Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
 
 B) Sargentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
 
 MAPA 2
 
@@ -256,11 +284,11 @@ Pessoal militar permanente privativo do Corpo de Tropas Pára-Quedistas não esp
 
 A) Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
 
 B) Sargentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
 
 MAPA 3
 
@@ -268,7 +296,7 @@ Pessoal militar não permanente do Corpo de Tropas Pára-Quedistas especializado
 
 Praças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
 
 Nota. - Os efectivos das outras categorias de pessoal militar não permanente (oficiais, sargentos e praças) são fixados de acordo com as dotações orçamentais, em conformidade com o disposto no artigo 4.º do [Decreto-Lei n.º 69/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1982-599917), de 9 de Junho.
 
@@ -278,4 +306,4 @@ Pessoal equiparado a militar privativo do Corpo de Tropas Pára-Quedistas especi
 
 A) Oficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf))](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/11900/18881891.pdf)

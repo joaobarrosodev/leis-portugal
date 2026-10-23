@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/143a00/35853588.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227/1999/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1999-391577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5d063982053b831719a0f102db81744e61a12faa952f7305a0790b3026549b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dd090d855689d086bb1e34b5ff0543d5c6c3e553b3900fae95abdc0aeec2c13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Produto Alimentar
+- Alimentação Humana
 - Alimento para Crianças
 - Aproximação das Legislações
-- Região Autónoma
 - CEE
-- Multa
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Saúde Pública
-- Etiquetagem
+- Direção Geral da Saúde
 - Embalagem
-- Alimentação Humana
+- Etiquetagem
+- Multa
+- Produto Alimentar
 - Qualidade do Produto
+- Recurso
+- Região Autónoma
 - Regime Jurídico
+- Saúde Pública
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:335468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614352:por
+  label: "Alterado o art. 1º e os nºs 1 e 2 do art. 7º pelo DEC LEI.285/2000.2000.11.10.MS, DR.IS [260] de 10/Nov/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-2000-614352
+  date: '2000-11-10'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -96,16 +101,27 @@ relationships:
   target: celex:31996L0084
   label: null
   source: http://data.europa.eu/eli/dir/1996/84/oj
+- type: repealed_by
+  target: pt:dre:580782:por
+  label: "Revogada a parte que se aplica aos alimentos dietéticos destinados a fins medicinais, pelo DEC LEI.212/2000.2000.09.02.MADRP,\
+    \ DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2000-580782
+  date: '2000-09-02'
+- type: repealed_by
+  target: pt:dre:335468:por
+  label: "Revogado, a partir de 26.06.2010, pelo DEC LEI.74/2010.21.06.2010.MADRP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2010-335468
+  date: '2010-06-21'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:16Z'
   warnings: []
   errors: []
 ---
@@ -336,12 +352,12 @@ São revogados o Decreto-Lei n.º 227/91, de 19 de Junho, e o Decreto-Lei n.º 2
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Maio de 1999.**
+Promulgado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Junho de 1999.**
+Referendado em 9 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

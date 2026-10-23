@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2000/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2000-324285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02e7481a9debead7a8d03cdee531e4f91bdb295cd4a6973f14aad9cc4d1f196
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac9af5e8d7b683bd18e8d781101a9b0aed285a97cad1cd4b6fe906f5dbbc96eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,27 @@ subjects:
 - CE Países
 - Certificado de Conformidade
 - Direcção Geral de Viação
-- Homologação
-- Veículo
 - Equipamento de Veículo
+- Homologação
 - Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315876:por
+  label: "Aditados os arts. 37º-A, 37º-B e 37º-C e alterados o art. 140º e o anexo VII do Regulamento, pelo DEC LEI.72-E/2003.2003.04.14.MAI\
+    \ DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-e-2003-315876
+  date: '2003-04-14'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao art. 136º do do Regulamento da Homologação CE do Sistema de Travagem dos Automóveis e seus\
+    \ Reboques pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -107,15 +119,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1998/12/oj
 article_structure:
-  article_count: 145
-  section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 146
+  section_count: 44
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:30Z'
   warnings: []
   errors: []
 ---
@@ -192,15 +204,15 @@ c) Não contenham amianto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
 
-**Promulgado em 14 de Junho de 2000.**
+Promulgado em 14 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DA HOMOLOGAÇÃO DO SISTEMA DE TRAVAGEM DOS AUTOMÓVEIS E SEUS REBOQUES
 
@@ -896,7 +908,7 @@ Z(índice R) = (Z(índice R + M) - R) x ((P(índice M) + P(índice R))/P(índice
 
 3 - A velocidade no final da travagem é dada pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 4 - Eficiência a quente: no final do ensaio nas condições previstas no n.º 1, mede-se a eficiência a quente do sistema de travagem de serviço em condições idênticas às previstas para o ensaio do tipo O; as condições de temperatura serão, no entanto, diferentes e a velocidade inicial será de 60 km/h; nessas circunstâncias, a força de travagem a quente na periferia das rodas não poderá ser inferior a 40% da carga estática máxima por roda, nem a 60% do valor registado no ensaio do tipo O à mesma velocidade.
 
@@ -1074,7 +1086,7 @@ c) Nos veículos equipados com sistemas de travagem hidráulicos, consideram-se 
 
 7 - O tempo que decorrer entre o início do accionamento do pedal de comando e o momento em que a pressão medida no cabeçote de ligação da conduta de comando atingir X% do seu valor assimptótico não deve exceder os seguintes valores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 8 - Nos automóveis autorizados a atrelar reboques das categorias O(índice 3) e O(índice 4) equipados com sistemas de travagem a ar comprimido, para além da verificação dos requisitos acima referidos, deve proceder-se à verificação das prescrições constantes da alínea a) do n.º 2 do artigo 21.º deste diploma, através da realização do seguinte ensaio:
 
@@ -1346,7 +1358,9 @@ a) Para todos os veículos, com exclusão das categorias M(índice 3), N(índice
 
 b) No caso de veículos das categorias M(índice 3), N(índice 2) e N(índice 3), o tempo t não deve exceder 30 s.
 
-##### SUBSECÇÃO III — Artigo 86.º
+##### SUBSECÇÃO III
+
+###### Artigo 86.º
 
 Características dos dispositivos de alarme
 
@@ -2768,7 +2782,7 @@ Veículos da categoria M(índice 1) (e determinados veículos da categoria N(ín
 
 (v. o ponto 3.1.1)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 1-B
 
@@ -2776,7 +2790,7 @@ Veículos a motor (não pertencentes às categorias M(índice 1) e N(índice 1))
 
 (v. o ponto 3.1.1)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 1-C
 
@@ -2784,7 +2798,7 @@ Veículos da categoria N(índice 1) (com determinadas excepções a partir de 1 
 
 (v. o ponto 3.1.1)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 2
 
@@ -2792,7 +2806,7 @@ Veículos tractores e reboques
 
 (v. os pontos 3.1.4 e 5)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Notas
 
@@ -2830,7 +2844,7 @@ Veículos tractores de semi-reboques
 
 (v. o ponto 3.1.5)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Notas
 
@@ -2856,7 +2870,7 @@ Semi-reboques
 
 (v. o ponto 4)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Notas
 
@@ -2888,19 +2902,19 @@ Diagrama 4-B
 
 (v. o ponto 4)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Nota explicativa para a utilização do diagrama 4-B
 
 1 - Fórmula através da qual se deduziu o diagrama 4-B:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2 - Descrição do modo de utilização com a ajuda de um exemplo real:
 
 2.1 - As linhas a traço interrompido do diagrama 4-B referem-se à determinação dos factores k(índice c) e k(índice v) para o seguinte veículo, em que:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Nos pontos a seguir, os algarismos entre parêntesis só se referem ao veículo utilizado para ilustrar o modo de utilização do diagrama 4-B.
 
@@ -2962,7 +2976,7 @@ Dispositivo sensor de carga
 
 (v. o ponto 7.4)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 (nota 1) Designam-se por curvas da aderência utilizada por eixo do veículo as curvas que dão, para condições de carga determinadas, a aderência utilizada por cada um dos eixos i em função da razão de travagem do veículo.
 
@@ -2978,11 +2992,11 @@ Dispositivo sensor de carga
 
 1 - Calibragem do simulador:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2 - Ensaio do sistema de travagem do reboque com um simulador:
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO III — Variante dos ensaios do tipo I e do tipo III dos travões de reboques
 
@@ -3018,7 +3032,7 @@ S(índice p) = curso efectivo: o curso no qual o esforço exercido é de 90% do 
 
 Th(índice A) = esforço médio: o esforço médio é determinado por integração da parte da curva situada entre os valores correspondentes a um terço e a dois terços do curso total (S(índice max)).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 (nota 1) Os símbolos relativos ao travão de referência são afectados do índice «e».
 
@@ -3040,7 +3054,7 @@ Th(índice A) = esforço médio: o esforço médio é determinado por integraç�
 
 3.1.5 - Para os ensaios de eficiência, a velocidade inicial deve ser a prescrita. A velocidade final será calculada pela seguinte fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3.2 - Ensaios com um dinamómetro de inércia.
 
@@ -3130,7 +3144,7 @@ Resistência ao rolamento: 0,01.
 
 As características dos travões do veículo objecto da homologação devem satisfazer cada um dos seguintes critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 4.2 - Verificação das forças de travagem desenvolvidas.
 
@@ -3162,11 +3176,13 @@ R não deve ser inferior a 0,8 R(índice e).
 
 4.3.2 - A eficiência de travagem prevista para o reboque considerado é dada pela fórmula:
 
-[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 4.3.3 - As eficiências a quente após os ensaios dos tipos I ou III devem ser determinadas em conformidade com os pontos 4.3.1.1, 4.3.1.2, 4.3.1.3 e 4.3.1.4 do presente anexo. Os valores calculados correspondentes, determinados em conformidade com o ponto 4.3.2, devem satisfazer as prescrições do presente diploma aplicáveis ao reboque considerado. O valor utilizado para «valor registado no ensaio do tipo 0», como previsto nos pontos 1.3.3 ou 1.6.2 do capítulo II, é o registado durante o ensaio de tipo 0 do reboque considerado.
 
-## ANEXO IV — Parte 1
+## ANEXO IV
+
+## Parte 1
 
 Modelo de relatório de ensaio de um eixo de referência, como previsto no ponto 3.6 do anexo II do presente Regulamento (ou como previsto no ponto 3.6 do apêndice 1 da Directiva n.º [98/12/CE](http://data.europa.eu/eli/dir/1998/12/oj?locale=pt)).
 
@@ -3250,11 +3266,11 @@ Comprimento da alavanca (ver nota 1).
 
 No caso dos veículos das categorias O(índice 2) e O(índice 3).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 No caso dos veículos das categorias O(índice 4).
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3 - Nome do serviço técnico que realizou o ensaio.
 
@@ -3282,15 +3298,15 @@ Figura 1
 
 Corte pelo plano dos eixos
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Figura 2
 
 Geometria do travão
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
-# Parte 2 — Diagramas explicativos
+## Parte 2 — Diagramas explicativos
 
 Diagrama 1
 
@@ -3298,7 +3314,7 @@ Símbolos válidos para todos os tipos de sistemas de travagem
 
 (n.º 2 do artigo 94.º)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 2
 
@@ -3306,7 +3322,7 @@ Transmissão mecânica
 
 [alínea j) do n.º 2 do artigo 94.º e alínea b) do n.º 4 do artigo 97.º]
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 3
 
@@ -3314,7 +3330,7 @@ Transmissão hidráulica
 
 [alínea j) do n.º 2 do artigo 94.º e alínea b) do n.º 4 do artigo 97.º]
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 4
 
@@ -3322,7 +3338,7 @@ Controlos a efectuar nos travões
 
 [alíneas j) e v) do n.º 2 e alínea d) do n.º 3 do artigo 94.º]
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 5
 
@@ -3330,7 +3346,7 @@ Travões de transmissão mecânica
 
 (n.º 3 do artigo 94.º)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 6
 
@@ -3338,7 +3354,7 @@ Travão mecânico
 
 [alínea f) do n.º 3 do artigo 94.º e alínea a) do n.º 3 do artigo 99.º]
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 7
 
@@ -3346,7 +3362,7 @@ Travão hidráulico
 
 [alínea f) do n.º 4 do artigo 94.º e alínea b) do n.º 3 do artigo 99.º]
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Diagrama 8
 
@@ -3354,7 +3370,7 @@ Sistema de travagem com transmissão hidráulica
 
 (n.º 4 do artigo 94.º)
 
-[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[(ver diagrama no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO V — Relatório de ensaio do dispositivo de comando
 
@@ -3898,15 +3914,15 @@ Diâmetro interno: ...mm.
 
 2.7.2:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2.7.3:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2.7.4:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3 - Reservatórios e fontes de energia que utilizam ar comprimido:
 
@@ -3998,7 +4014,7 @@ Diâmetro interno: ...mm.
 
 ## ANEXO IX — Símbolos e definições
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO X — Utilização da aderência
 
@@ -4222,7 +4238,7 @@ Dados sobre os pneumáticos e as cargas por eixo (depois de ensaiados várias ca
 
 Compatibilidade da razão de travagem do reboque e da desaceleração média totalmente desenvolvida do conjunto tractor/reboque (reboque em carga e sem carga).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Notas
 
@@ -4418,21 +4434,21 @@ Em anexo:
 
 ## ANEXO XVI — Símbolos e definições
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO XVII
 
 Exemplos da marca e dos dados de homologação (conforme os n.os 4 a 8 do artigo 135.º e o n.º 5 do artigo 140.º do presente Regulamento).
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 A marca de homologação acima ilustrada indica que o artigo a que diz respeito foi homologado nos Países Baixos (e4) com base no presente Regulamento. Neste exemplo, os dois primeiros algarismos (01) representam o número sequencial atribuído às alterações técnicas mais recentes da Directiva n.º [71/320/CEE](http://data.europa.eu/eli/dir/1971/320/oj?locale=pt), do Conselho; os quatro algarismos seguintes (0047) constituem o número de homologação de base atribuído pelas autoridades de homologação ao tipo da guarnição de travão em questão; os três algarismos suplementares (901) que figuram na proximidade do rectângulo são os atribuídos pelas autoridades de homologação para identificar o suporte do calço ou o suporte da pastilha. O conjunto dos nove algarismos constitui a marca da homologação do tipo de conjunto de guarnição do travão de substituição em questão.
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 Exemplo da marcação de um calço
 
-[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[(ver marca no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO XVIII — Requisitos dos conjuntos de guarnição de travões de substituição para veículos das categorias M(índice 1), M(índice 2) e N(índice 1)
 
@@ -4486,7 +4502,7 @@ A comparação da eficiência a frio do conjunto de guarnição do travão de su
 
 Partindo da velocidade inicial prevista no quadro seguinte, efectuar um mínimo de seis aplicações do travão, aumentando progressivamente o esforço exercido no pedal ou a pressão no sistema, até ao bloqueio das rodas ou, em alternativa, até ser atingida uma desaceleração média totalmente desenvolvida de 6 m/s(elevado a 2) ou o valor máximo autorizado para a força exercida no pedal para a categoria de veículo em questão.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 No início de cada aplicação, a temperatura dos travões não poderá ser superior a 100ºC.
 
@@ -4514,7 +4530,7 @@ Para estes ensaios, equipa-se um dinamómetro de inércia com o travão de veíc
 
 2.2.2.1 - A massa em rotação do dinamómetro deve corresponder a metade da parte da massa máxima do veículo referente ao eixo em questão que figura no quadro seguinte e ao raio de rolamento do pneumático de maiores dimensões autorizado no ou nos modelos de veículo em causa.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2.2.2.2 - A velocidade inicial de rotação do dinamómetro deve corresponder à velocidade linear do veículo prevista nos pontos 2.2.3 e 2.2.4 do presente anexo e ter por base o raio de rolamento dinâmico do pneumático.
 
@@ -4636,19 +4652,19 @@ A(índice k) é a superfície do(s) êmbolo(s) da pinça;
 
 r(índice w) é o raio efectivo do disco.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3.2.1.2 - Calços.
 
 A pressão de contacto média na superfície útil da guarnição de travão deve ter o valor constante de 22 (mais ou menos) 6 N/cm2, calculada para um travão não assistido em condições estáticas.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3.2.2 - Ensaio a binário constante.
 
 Este método só é aplicável às pastilhas. O binário de travagem deve ser constante (com uma tolerância de (mais ou menos) 5%) e deve ser regulado de modo a obterem-se as temperaturas máximas no rotor do travão indicadas no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3.3 - Avaliação dos resultados do ensaio.
 
@@ -4936,7 +4952,7 @@ No caso de os sistemas, componentes ou unidades técnicas possuírem controlos e
 
 4.6 - Relações de transmissão:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 4.7 - Velocidade máxima do veículo (em km/h) (w):
 
@@ -5170,28 +5186,28 @@ Ficheiro: ...
 
 1 - Quadro a que se refere o n.º 1 do artigo 47.º:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2 - Quadro a que se refere o n.º 2 do artigo 48.º do presente Regulamento:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 3 - Quadro a que se refere o n.º 1 do artigo 53.º do presente Regulamento:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 4 - Quadro a que se refere o n.º 1 do artigo 56.º do presente Regulamento:
 
 Distância de travagem (m) e desaceleração média totalmente desenvolvida (m/s(elevado a 2))
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 ## ANEXO XXVI — Quadros referentes aos capítulos IX e XIII
 
 1 - Quadro a que se refere o n.º 2 do artigo 108.º do presente Regulamento:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
 
 2 - Quadro a que se refere o n.º 1 do artigo 131.º do presente Regulamento:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)](https://files.diariodarepublica.pt/1s/2000/08/193a00/41434215.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/07600/08730874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1985-325107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf470389631ffbe4b96dc7c5b8a4b421c28de90f3a24af1af23ff21e9a50fbfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4658492b68c992aad62f5c4dadbb231e2b13e61c011b3ac31f9bf6b15a4e2c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Descrição de Funções
+- Função Pública
+- Pessoal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogado a partir da entrada em vigor do RCTFP, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl] de 27.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:00Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +105,7 @@ O presente diploma contém a descrição do conteúdo funcional da carreira de o
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A carreira de oficiais administrativos tem o seguinte conteúdo funcional:
+Artigo 1.º - 1 - A carreira de oficiais administrativos tem o seguinte conteúdo funcional:
 
 O oficial administrativo desenvolve funções, que se enquadram em directivas gerais dos dirigentes e chefias, de expediente, arquivo, secretaria, contabilidade-processamento, pessoal e aprovisionamento e economato, tendo em vista assegurar o funcionamento dos órgãos incumbidos da prestação de bens e serviços.
 
@@ -114,18 +123,18 @@ Recolhe, examina e confere elementos constantes dos processos, anotando faltas o
 
 Organiza, calcula e desenvolve os processos relativos à situação de pessoal e à aquisição e ou manutenção de material, equipamento, instalações ou serviços.
 
-###### Art. 2.º Os dirigentes dos serviços deverão propiciar aos respectivos funcionários da carreira administrativa a formação adequada ao exercício das funções a que se refere o artigo anterior.
+Art. 2.º Os dirigentes dos serviços deverão propiciar aos respectivos funcionários da carreira administrativa a formação adequada ao exercício das funções a que se refere o artigo anterior.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes.
 
-**Promulgado em 15 de Março de 1985.**
+Promulgado em 15 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 18 de Março de 1985.**
+Referendado em 18 de Março de 1985.
 
-**O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.**
+O Primeiro-Ministro, em exercício, Rui Manuel Parente Chancerelle de Machete.

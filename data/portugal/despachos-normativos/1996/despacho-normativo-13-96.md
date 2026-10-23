@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/13/1996/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-1996-555416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b7c7f40c912f1d2450e2a9c8e6389c348b3e6d3cbf3aa1e4fb11ab414919782
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9aaa915a6dbff9e1228b573e5e68d4f3040e55b6e75a3c10a6afe7f29a975d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
-- Investigação Científica e Tecnológica
-- Tecnologia da Informação
-- Desenvolvimento Industrial
-- Política Industrial
-- Mudança Tecnológica
-- Equipamento Eletrónico
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comunicações
+- Desenvolvimento Industrial
+- Empresa
+- Equipamento Eletrónico
+- Financiamento
 - Indústria
 - Indústria da Informação
 - Indústria Electrónica
 - Ineti
-- QCA
+- Investigação Científica e Tecnológica
 - Modernização Industrial
 - Modernização Tecnológica
-- Pratic
-- Comunicações
-- Regime de Apoio
+- Mudança Tecnológica
 - Pedip II
+- Política Industrial
+- Pratic
+- Projeto de Investimento
+- QCA
+- Regime de Apoio
 - Sistema de Incentivos Pedip
 - Subsídio
+- Tecnologia da Informação
 relationships:
 - type: amended_by
   target: pt:dre:667565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:321949:por
+  label: "Alterado o art. 1.º e os arts. 6.º e 10.º do DN 84/95 de 27-Dez DR.IS-B [297], alterado pelo presente diploma, pelo\
+    \ DN.26/99.1999.04.07.MECO DR.IS-B [110] DE 12/MAI/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/26-1999-321949
+  date: '1999-04-07'
+- type: amended_by
+  target: pt:dre:667565:por
+  label: "Alterado o anexo III do DN 84/95 de 27-Dez, na redacção dada pelo presente diploma, pelo DN.48/99.1999.09.22.MECO,\
+    \ DR.IS-B [248]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/48-1999-667565
+  date: '1999-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -103,16 +115,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/84/1995/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/84/1995/12/27/p/dre
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643123:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:53Z'
   warnings: []
   errors: []
 ---
@@ -141,13 +161,17 @@ Apoios
 
 As entidades a que se refere o artigo 3.º, promotoras de projectos no âmbito dos sistemas de incentivos e regimes de apoio mencionados no n.º 2 do artigo 1.º, apenas podem apresentar as correspondentes candidaturas nos termos da regulamentação específica constante dos anexos ao presente diploma.
 
-###### Artigo 5.º — Inserção no PRATIC
+Artigo 5.º
+
+Inserção no PRATIC
 
 1 - A inserção dos projectos no âmbito do PRATIC será objecto de avaliação pela Direcção-Geral da Indústria (DGI).
 
 2 - A avaliação referida no número anterior será realizada no prazo de 15 dias úteis contados da data da recepção, pela DGI, do respectivo projecto.
 
-###### Artigo 8.º — Candidaturas anteriores
+Artigo 8.º
+
+Candidaturas anteriores
 
 Sem prejuízo do disposto no artigo 4.º, as restantes candidaturas apresentadas até à data de publicação do presente diploma poderão ser apreciadas e decididas de acordo com o disposto nos respectivos regimes de apoio.»
 

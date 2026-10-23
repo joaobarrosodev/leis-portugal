@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20100/0002300033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2023/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2023-222877159
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdc3399b9bf1dafbf2d3250c57952faa4a092b5c95462d17ffc5461857800317
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd5fea63f3562d2cdf8f1e7bfba59185982fce7fc049337998b7ffc8579d69ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Opart
+- Companhia Nacional de Bailado
 - Definição de Competências
 - Director Artístico
 - Estatuto
-- Setor Empresarial do Estado
-- Companhia Nacional de Bailado
-- Orgânica
-- Teatro Nacional de São Carlos
-- Teatro Nacional de DONA Maria II
-- Teatro Nacional de são JOÃO
 - Estúdios Victor Córdon
+- Opart
+- Orgânica
+- Setor Empresarial do Estado
+- Teatro Nacional de DONA Maria II
+- Teatro Nacional de São Carlos
+- Teatro Nacional de são JOÃO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
@@ -102,16 +102,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:11Z'
   warnings: []
   errors: []
 ---
@@ -192,15 +220,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de setembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Pedro Adão e Silva Cardoso Pereira.
 
-**Promulgado em 26 de setembro de 2023.**
+Promulgado em 26 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de outubro de 2023.**
+Referendado em 2 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -212,7 +240,9 @@ Visto e aprovado em Conselho de Ministros de 14 de setembro de 2023. - António 
 
 2 - A estrutura orgânica do TNDM II, E. P. E., integra obrigatoriamente o diretor artístico do Teatro Nacional D. Maria II.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -226,13 +256,17 @@ Visto e aprovado em Conselho de Ministros de 14 de setembro de 2023. - António 
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
 2 - A remuneração dos membros do conselho de administração do TNDM II, E. P. E., obedece ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -270,7 +304,9 @@ e) O regulamento do concurso.
 
 13 - Não podem ser programadas anualmente mais de duas produções pelas quais sejam devidos direitos de autor ao diretor artístico.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -298,7 +334,9 @@ f) Colaborar na definição de estratégias de comunicação, de mediação e de
 
 2 - A estrutura orgânica do TNSJ, E. P. E., integra obrigatoriamente o diretor artístico do Teatro Nacional de S. João.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -312,13 +350,17 @@ f) Colaborar na definição de estratégias de comunicação, de mediação e de
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
 2 - A remuneração dos membros do conselho de administração do TNSJ, E. P. E., obedece ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -356,7 +398,9 @@ e) O regulamento do concurso.
 
 13 - Não podem ser programadas anualmente mais de duas produções pelas quais sejam devidos direitos de autor ao diretor artístico.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -468,11 +512,15 @@ l) A promoção de uma prática que promova a sustentabilidade, a acessibilidade
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A estrutura orgânica do OPART, E. P. E., integra obrigatoriamente o diretor artístico do Teatro Nacional de São Carlos, o diretor artístico da Companhia Nacional de Bailado e o diretor dos EVC.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -486,13 +534,17 @@ A estrutura orgânica do OPART, E. P. E., integra obrigatoriamente o diretor art
 
 6 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
 2 - A remuneração dos membros do conselho de administração do OPART, E. P. E., obedece ao disposto na [Resolução do Conselho de Ministros n.º 16/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/16-2012-543034), de 14 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -532,7 +584,9 @@ e) O regulamento do concurso.
 
 14 - Não podem ser programadas anualmente mais de duas produções pelas quais sejam devidos direitos de autor ao diretor artístico.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -558,7 +612,9 @@ j) Colaborar na definição de estratégias de comunicação, de mediação e de
 
 2 - Os projetos artísticos referidos na alínea a) do número anterior devem delinear a programação anual e plurianual, abarcando quer as atividades de produção músico-teatral e de bailado respetivamente, quer as iniciativas e atividades complementares àquelas, nos termos e limites da dotação orçamental atribuída pelo conselho de administração para esse efeito.
 
-###### Artigo 17.º-A — Competências do diretor dos Estúdios Victor Córdon
+Artigo 17.º-A
+
+Competências do diretor dos Estúdios Victor Córdon
 
 1 - Compete ao diretor dos EVC:
 
@@ -574,7 +630,9 @@ e) Supervisionar as estratégias de promoção e de comunicação.
 
 2 - Os planos de atividades anuais e plurianuais referidos na alínea b) do número anterior devem abarcar todas as atividades nos termos e limites da dotação orçamental atribuída pelo conselho de administração para esse efeito.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Sem prejuízo do disposto na lei quanto à prestação de informações previstas no regime jurídico do setor público empresarial, aprovado pelo [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua redação atual, o conselho de administração do OPART, E. P. E., envia aos membros do Governo responsáveis pelas áreas das finanças e da cultura os seguintes documentos destinados a aprovação:
 
@@ -589,3 +647,5 @@ c) [...]
 3 - [...]
 
 4 - [...]»
+
+116916205

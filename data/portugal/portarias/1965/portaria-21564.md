@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21564-1965-510619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25877c2630dc1803825a2cc3791f4a17584384935605601f2cac121c6e44e191
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0ec0cd033f929b6d5b8f4599d1a61f988735986452e280171b4a9b406086338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:51Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Por transferência de iguais importâncias a sair da verba do capítulo 12.º, artigo 2580.º, n.º 4), alínea a), n.º II «Plano Intercalar de Fomento - Energia - Estudos, produção, transporte e distribuição - Produção», com as quantias que se indicam, estas verbas:
 
-### Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
 
 5) «Indústria»:
 
@@ -114,7 +118,7 @@ II) «Porto da Beira» ... 15600000$00
 
 2) Por transferência de iguais quantias a sair da verba do capítulo 12.º, artigo 2580.º, n.º 9), alínea b) «Plano Intercalar de Fomento - Promoção social - Saúde e assistência», com as seguintes importâncias, as verbas que se indicam:
 
-### Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
 
 6) «Transportes e comunicações»:
 

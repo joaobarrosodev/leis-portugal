@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14700/0002900037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2021/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2021-168697990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96b8ec2aa80d52980cb6edfb238a920a5b64d206b975cb3f869d8e8d5dbffe99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fb4321c0e3b8171d9ebd0f7a5f05d89841ce67455a415f074f2d623f868ed5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
+- Administração Pública
 - Agenda para a Inovação em Portugal
 - Aquisição de Equipamento
+- Atividade Seguradora
 - Autoridade Nacional
-- Publicidade
 - Centro Tecnológico
+- Confidencialidade
 - Definição de Competências
-- Administração Pública
 - Fiscalização
 - Gestão Pública
 - Página na Internet
-- Confidencialidade
+- Publicidade
 - Regulamento CE
 - Responsabilidade Civil
 - Zona Livre Tecnológica
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29/2020/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29/2020/04/21/p/dre
+- type: cites
+  target: pt:dre:132133787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628004:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:13Z'
   warnings: []
   errors: []
 ---
@@ -412,12 +424,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de junho de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 23 de julho de 2021.**
+Promulgado em 23 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de julho de 2021.**
+Referendado em 26 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114449789

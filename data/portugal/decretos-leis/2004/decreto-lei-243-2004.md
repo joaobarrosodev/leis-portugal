@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243/2004/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2004-350150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f026b9588cd1726eb7715f3be94f8e39223d95c13a53cd197d3e04d69ff891a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54db85adac3425e5350bdb536b908b26c6ce6e19249e672a91d8ea8143ba317d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Accionista
 - Acção Financeira
+- Accionista
+- Açores
 - Alienação de Acções
-- Garantia
-- Empresa
 - Caderno de Encargos
 - Concurso
-- Governo Regional
 - Definição de Competências
 - Electricidade dos Açores
+- Empresa
+- Garantia
+- Governo Regional
 - Isenção de Taxas e Emolumentos
 - OPV
 - Preço
 - Privatização
-- Açores
 - Trabalhador
 relationships:
 - type: cites
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:09Z'
   warnings: []
   errors: []
 ---
@@ -312,12 +312,12 @@ Nos 30 dias seguintes ao termo do processo de reprivatização, a EDA publica, n
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix.
 
-**Promulgado em 14 de Dezembro de 2004.**
+Promulgado em 14 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Dezembro de 2004.**
+Referendado em 17 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

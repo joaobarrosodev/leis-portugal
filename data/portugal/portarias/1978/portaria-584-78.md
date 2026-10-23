@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/22100/20162016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1978-329222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T05:44:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 215fd58e9120e3b7891e33c21090233d0a55859c76cf779d1b5e08b00d908ce3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c5943d7bd728efc35b2780bb0ff649071d3fdff884aef0648fffcb8bc23f0a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:44:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IPE
+- Obrigações
+- Sociedades
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:378738:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:230969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297576:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:327820:por
+  label: Rectificada pela DECL.DD7483.27.10.1978.PCM, DR.IS [248] de 27.10.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-327820
+  date: '1978-10-27'
+- type: repealed_by
+  target: pt:dre:378738:por
+  label: "Revogada pelo DEC LEI.322/79.23.08.1979.MFP, DR.IS [194] de 23.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1979-378738
+  date: '1979-08-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:44:48Z'
   warnings: []
   errors: []
 ---
@@ -99,26 +125,26 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano, ao abrigo do n.º 3 do artigo 6.º e do artigo 7.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, conjugado com o n.º 3 do artigo 33.º do estatuto anexo ao [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, o seguinte:
 
-###### Artigo 1.º A contrapartida de transferência para o património do Instituto das Participações do Estado, a seguir designado por IPE, operada por força do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, das participações no capital de sociedades pertencentes a entidades referidas no artigo 1.º do mesmo diploma, com excepção do Estado, das instituições de crédito e de companhias de seguros do sector público, será constituída por obrigações emitidas pelo IPE com as características definidas nos artigos 3.º e seguintes.
+Artigo 1.º A contrapartida de transferência para o património do Instituto das Participações do Estado, a seguir designado por IPE, operada por força do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, das participações no capital de sociedades pertencentes a entidades referidas no artigo 1.º do mesmo diploma, com excepção do Estado, das instituições de crédito e de companhias de seguros do sector público, será constituída por obrigações emitidas pelo IPE com as características definidas nos artigos 3.º e seguintes.
 
-###### Art. 2.º Às participações referidas no artigo anterior é provisoriamente atribuído o valor às mesmas imputado no balanço ou em documento contabilístico análogo das entidades que eram titulares dessas participações, referido a 31 de Dezembro de 1976.
+Art. 2.º Às participações referidas no artigo anterior é provisoriamente atribuído o valor às mesmas imputado no balanço ou em documento contabilístico análogo das entidades que eram titulares dessas participações, referido a 31 de Dezembro de 1976.
 
-###### Art. 3.º - 1 - Para o efeito do disposto nos artigos anteriores, fica o IPE autorizado a emitir obrigações com características idênticas às das obrigações previstas na [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
+Art. 3.º - 1 - Para o efeito do disposto nos artigos anteriores, fica o IPE autorizado a emitir obrigações com características idênticas às das obrigações previstas na [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
 2 - Em consequência do disposto no número anterior é elevado para 7000000000$00 o montante máximo das obrigações a emitir pelo IPE, como contrapartida da transferência de participações sociais operada pelo artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho.
 
 3 - As obrigações emitidas serão obrigatoriamente subscritas pelas entidades que detinham as participações a que a presente portaria se refere, de acordo com o valor provisoriamente estabelecido para essas participações, nos termos do artigo 2.º
 
-###### Art. 4.º - 1 - Cada obrigação emitida ao abrigo da presente portaria será remunerada segundo taxa de juro idêntica à que for fixada nos termos e condições previstos no artigo 4.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
+Art. 4.º - 1 - Cada obrigação emitida ao abrigo da presente portaria será remunerada segundo taxa de juro idêntica à que for fixada nos termos e condições previstos no artigo 4.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
 2 - A amortização das obrigações emitidas ao abrigo do presente diploma reger-se-á pelo disposto no artigo 5.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
-###### Art. 5.º Será aplicável às obrigações emitidas ao abrigo do presente diploma o disposto nos artigos 6.º e 7.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
+Art. 5.º Será aplicável às obrigações emitidas ao abrigo do presente diploma o disposto nos artigos 6.º e 7.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
-###### Art. 6.º - 1 - As entidades detentoras das participações sociais a que esta portaria se refere deverão observar, com as necessárias adaptações, o disposto nos artigos 8.º e 10.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
+Art. 6.º - 1 - As entidades detentoras das participações sociais a que esta portaria se refere deverão observar, com as necessárias adaptações, o disposto nos artigos 8.º e 10.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
 2 - Qualquer anomalia no cumprimento dos preceitos referidos no número anterior deverá ser levada, no prazo de dez dias, ao conhecimento do Ministro das Finanças e do Plano ou Ministro de que dependa ou que tutele a entidade que era titular das participações transferidas para o IPE.
 
-###### Art. 7.º Será igualmente aplicável às participações abrangidas pelo artigo 1.º da presente portaria o disposto nos artigos 11.º e 15.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
+Art. 7.º Será igualmente aplicável às participações abrangidas pelo artigo 1.º da presente portaria o disposto nos artigos 11.º e 15.º da [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho.
 
 Ministério das Finanças e do Plano, 27 de Julho de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.

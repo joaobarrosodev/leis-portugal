@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2001/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2001-377892
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2f7de7b2850179ad602d5fa46dd4ba1879555bd3056757bc04f81824386af67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84a3677ce852e1008fde2b6b40f7c9d3aca7091cdf21a1c53c2835827cf1fd13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bombeiro
 - Centro de Coordenação de Socorros
-- Pessoal Dirigente
 - Complemento por Dependência
 - Estatuto Social do Bombeiro
+- Faltas
 - Férias
+- Gestão de Recursos Humanos
 - Inspecção Distrital de Bombeiros
 - Inspecção Nacional de Bombeiros
-- Faltas
 - Licença por Maternidade
-- Bombeiro
 - Orgânica
+- Pessoal Dirigente
 - Prestações da Segurança Social
 - Proteção Social
 - Regulamento Geral dos Corpos dos Bombeiros
 - Segurança Social
 - Serviço Nacional de Bombeiros
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:231117:por
@@ -109,16 +109,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:231117:por
+  label: "Revogado o Dec Lei 293/2000 de 17-Nov, com a redacção deste diploma, pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A\
+    \ [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2003-231117
+  date: '2003-03-25'
 article_structure:
-  article_count: 26
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:10Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +215,9 @@ m) ...
 
 n) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -231,7 +263,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +291,9 @@ d) ...
 
 e) ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Compete ao inspector nacional de Bombeiros:
 
@@ -273,7 +309,9 @@ e) Submeter à aprovação do presidente o plano anual de fiscalização das med
 
 f) Determinar a realização de inquéritos e a investigação de incidentes.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +339,9 @@ a) Secção de Pessoal (SP);
 
 b) Secção de Expediente Geral e Arquivo (SEGA).
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 ...
 
@@ -337,7 +377,9 @@ d) ...
 
 e) ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -371,7 +413,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -383,7 +427,9 @@ c) ...
 
 5 - O sistema retributivo, as carreiras e o quadro do pessoal dos CCS são aprovados por portaria conjunta dos Ministros da Administração Interna, das Finanças e da Reforma do Estado e da Administração Pública.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -429,7 +475,9 @@ e) Liga dos Bombeiros Portugueses.
 
 4 - A criação de corpos de bombeiros sapadores e municipais é precedida de parecer obrigatório do SNB.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo da legislação em vigor, o SNB exerce a sua acção tutelar sobre os corpos de bombeiros nos seguintes termos:
 
@@ -453,7 +501,9 @@ d) Homologação dos quadros de pessoal.
 
 3 - As câmaras municipais comunicam ao SNB os regulamentos internos e os quadros de pessoal dos corpos de bombeiros sapadores e municipais.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -477,7 +527,9 @@ d) ...
 
 4 - O número de elementos dos corpos de bombeiros não pertencente ao quadro activo não releva para efeitos de tipificação.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -491,7 +543,9 @@ d) ...
 
 6 - (Eliminado.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -519,7 +573,9 @@ c) As nomeações previstas nas alíneas anteriores estão sujeitas a homologaç
 
 10 - Os titulares de cargos de comando dos corpos de bombeiros voluntários e privativos não pertencentes a quadros de pessoal dos corpos de bombeiros podem, após cessação de funções, requerer o ingresso no quadro de especialistas e auxiliares ou ingressar no quadro de honra, verificados os respectivos requisitos.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -533,7 +589,9 @@ c) As nomeações previstas nas alíneas anteriores estão sujeitas a homologaç
 
 6 - O SNB define o conteúdo programático e o sistema de avaliação dos cursos de promoção e concursos referidos no n.º 2.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O ingresso no quadro de especialistas e auxiliares é feito na categoria de cadete, tratando-se de indivíduos com idade compreendida entre os 14 e os 17 anos, ou na de aspirante, se tiverem entre 18 e 35 anos, capacidade física adequada e concluído a escolaridade obrigatória.
 
@@ -551,11 +609,15 @@ b) ...
 
 6 - Nos corpos de bombeiros municipais, os acessos, ingressos e equiparações de que tratam os números anteriores são da competência do presidente da câmara municipal.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 As competências, deveres e direitos do pessoal dos corpos de bombeiros são regulados pelos respectivos regulamentos internos, pelo presente diploma e demais legislação aplicável.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -569,7 +631,9 @@ b) ...
 
 4 - A transferência dos bombeiros profissionais é regulada pela legislação aplicável aos funcionários da administração local.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -577,7 +641,9 @@ b) ...
 
 3 - Nos corpos de bombeiros sapadores e municipais, a autorização a que se refere o número anterior é concedida pelo presidente da câmara municipal.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Aos bombeiros voluntários e privativos podem ser concedidas licenças, nomeadamente por motivo de férias, doença e maternidade.
 
@@ -595,7 +661,9 @@ c) A entidade detentora, nos corpos de bombeiros privativos.
 
 5 - As licenças dos bombeiros profissionais são concedidas nos termos previstos na legislação respectiva, devendo as licenças dos elementos do quadro de comando ser comunicadas ao inspector distrital de bombeiros.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Das decisões disciplinares aplicadas nos termos do n.º 2 do artigo anterior cabe recurso hierárquico necessário para conselho disciplinar da entidade detentora do corpo de bombeiros, constituído pelos presidentes da respectiva direcção, assembleia geral e conselho fiscal.
 
@@ -603,7 +671,9 @@ c) A entidade detentora, nos corpos de bombeiros privativos.
 
 3 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - As entidades detentoras dos corpos de bombeiros voluntários e privativos procedem à nomeação dos elementos do quadro de comando até ao dia 30 de Outubro de 2001.
 
@@ -641,7 +711,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -663,18 +735,20 @@ g) Complemento por dependência.
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Em tudo o que não se encontrar especificamente regulado na presente secção aplicam-se as disposições em vigor para o seguro social voluntário constantes do [Decreto-Lei n.º 40/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1989-610416), de 1 de Fevereiro.»
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 17 de Julho de 2001.**
+Promulgado em 17 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2001.**
+Referendado em 19 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

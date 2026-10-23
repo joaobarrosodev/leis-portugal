@@ -47,36 +47,117 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1977-252002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e347c36c8a2d9fe8bf8198ba4d3f96a9f6c7be9ab5f2cb4084052680a4c49a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f276600d64bc57703b7f49ef675daced8ffa431c557d040fe7654fd86d816e72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:18:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+- Tráfego Marítimo
+relationships:
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Alterados os arts. 3.º, 35.º, 36.º, 37.º, 38.º, 50.º, 74.º, 76.º e 77.º do Regulamento da Inscrição Marítima, Matrícula
+    e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, pelo(a) Portaria
+    n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690203:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:250825:por
+  label: Rectiificada pela DECL.DD7939.20.07.1977.PCM, DR.IS [166] de 20.07.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-250825
+  date: '1977-07-20'
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:18:42Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +178,17 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 1. Os artigos do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo Decreto-Lei n.º 45969, de 15 de Outubro de 1964, abaixo mencionados, conservam a redacção que lhes foi dada pelos diplomas respectivamente indicados:
 
-###### Artigo 179.º (apenas o corpo do artigo): redacção dada pela [Portaria n.º 349/71](https://diariodarepublica.pt/dr/detalhe/portaria/349-1971-643689), de 30 de Junho;
+Artigo 179.º (apenas o corpo do artigo): redacção dada pela [Portaria n.º 349/71](https://diariodarepublica.pt/dr/detalhe/portaria/349-1971-643689), de 30 de Junho;
 
 Artigos 48.º e 49.º e as alíneas a) e b) dos n.os 1.º e 2.º do artigo 262.º: redacção dada pela [Portaria n.º 497/72](https://diariodarepublica.pt/dr/detalhe/portaria/497-1972-676587), de 25 de Agosto, com a actualização, no último artigo, da designação da categoria «oficial radiotécnico», introduzida pela [Portaria n.º 732/75](https://diariodarepublica.pt/dr/detalhe/portaria/732-1975-311266), de 10 de Dezembro;
 
-###### Artigo 51.º e as alíneas c) e g) do artigo 8.º: redacção dada pela [Portaria n.º 616/72](https://diariodarepublica.pt/dr/detalhe/portaria/616-1972-690203), de 19 de Outubro;
+Artigo 51.º e as alíneas c) e g) do artigo 8.º: redacção dada pela [Portaria n.º 616/72](https://diariodarepublica.pt/dr/detalhe/portaria/616-1972-690203), de 19 de Outubro;
 
-###### Artigo 124.º: redacção dada pela [Portaria n.º 60/73](https://diariodarepublica.pt/dr/detalhe/portaria/60-1973-683263), de 31 de Janeiro;
+Artigo 124.º: redacção dada pela [Portaria n.º 60/73](https://diariodarepublica.pt/dr/detalhe/portaria/60-1973-683263), de 31 de Janeiro;
 
 Artigos 1.º, 39.º, 40.º, 41.º, 52.º, 80.º, 129.º, 130.º, 132.º e 136.º, § 3.º do artigo 187.º, § único do artigo 192.º e § 2.º do artigo 246.º: redacção dada pela [Portaria n.º 391/73](https://diariodarepublica.pt/dr/detalhe/portaria/391-1973-422834), de 4 de Junho;
 
-###### Artigo 4.º-B, aditado ao RIM pela [Portaria n.º 272/74](https://diariodarepublica.pt/dr/detalhe/portaria/272-1974-411867), de 15 de Abril, com a numeração dada pela [Portaria n.º 380/75](https://diariodarepublica.pt/dr/detalhe/portaria/380-1975-337051), de 21 de Junho.
+Artigo 4.º-B, aditado ao RIM pela [Portaria n.º 272/74](https://diariodarepublica.pt/dr/detalhe/portaria/272-1974-411867), de 15 de Abril, com a numeração dada pela [Portaria n.º 380/75](https://diariodarepublica.pt/dr/detalhe/portaria/380-1975-337051), de 21 de Junho.
 
 2. Mantêm-se também as alterações introduzidas no referido Regulamento, que a seguir se indicam:
 
@@ -127,7 +208,7 @@ A supressão dos artigos 73.º e 75.º incluída no ponto 3 da [Portaria n.º 29
 
 3. Os artigos 3.º, 35.º, 36.º, 37.º, 38.º, 50.º, 74.º, 76.º e 77.º do RIM têm a seguinte redacção:
 
-###### Art. 3.º O grupo tripulação divide-se nos seguintes escalões:
+Art. 3.º O grupo tripulação divide-se nos seguintes escalões:
 
 a) Oficiais;
 
@@ -289,11 +370,11 @@ c) Marinhagem.
 
 ...
 
-###### Art. 35.º Ao capitão-pescador compete o comando de embarcações de pesca de qualquer tonelagem.
+Art. 35.º Ao capitão-pescador compete o comando de embarcações de pesca de qualquer tonelagem.
 
 § único. As cartas de capitão-pescador obtidas ao abrigo de lei anterior manter-se-ão em vigor, estando suspensa, até à publicação de regulamentação sobre o assunto, a concessão de novas cartas.
 
-###### Art. 36.º Ao piloto de 1.ª classe compete exercer as funções de:
+Art. 36.º Ao piloto de 1.ª classe compete exercer as funções de:
 
 a) Primeiro-piloto em embarcações de qualquer tonelagem;
 
@@ -309,7 +390,7 @@ b) Dezoito meses de embarque como segundo-piloto ou em função superior, depois
 
 c) Duas mil e setecentas horas de navegação como segundo-piloto ou em função superior.
 
-###### Art. 37.º Ao piloto de 2.ª classe compete exercer as funções de:
+Art. 37.º Ao piloto de 2.ª classe compete exercer as funções de:
 
 a) Segundo-piloto em embarcações de qualquer tonelagem;
 
@@ -325,7 +406,7 @@ a) Dezoito meses de embarque como terceiro-piloto ou em função superior, depoi
 
 b) Duas mil e setecentas horas de navegação como terceiro-piloto ou em função superior.
 
-###### Art. 38.º Ao piloto de 3.ª classe compete exercer as funções de:
+Art. 38.º Ao piloto de 3.ª classe compete exercer as funções de:
 
 a) Terceiro-piloto em embarcações de qualquer tonelagem;
 
@@ -341,7 +422,7 @@ e) Comandante de embarcações com arqueação bruta máxima de 500 t.
 
 ...
 
-###### Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos possuidores de certificado de radiotelegrafista, respectivamente da classe A e da classe B, passados pela Direcção-Geral do Pessoal do Mar, desde que satisfaçam aos restantes requisitos da inscrição marítima.
+Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos possuidores de certificado de radiotelegrafista, respectivamente da classe A e da classe B, passados pela Direcção-Geral do Pessoal do Mar, desde que satisfaçam aos restantes requisitos da inscrição marítima.
 
 § 1.º O certificado de radiotelegrafista da classe A, sem prazo de validade, será considerado equivalente ao certificado limitado de radiotelegrafista de 2.ª classe, consignado no Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações, e será passado aos indivíduos que o requeiram e satisfaçam às seguintes condições:
 
@@ -359,7 +440,7 @@ b) Ser radiotelegrafista prático da classe B, com mais de quatro anos de embarq
 
 ...
 
-###### Art. 74.º Ao maquinista-chefe compete a chefia das instalações de máquinas de embarcações da marinha mercante de qualquer potência.
+Art. 74.º Ao maquinista-chefe compete a chefia das instalações de máquinas de embarcações da marinha mercante de qualquer potência.
 
 § 1.º A categoria de maquinista-chefe será atribuída ao maquinista de 1.ª classe que prove ter:
 
@@ -379,7 +460,7 @@ b) Mil horas de navegação.
 
 ...
 
-###### Art. 76.º Ao maquinista de 1.ª classe compete exercer funções de:
+Art. 76.º Ao maquinista de 1.ª classe compete exercer funções de:
 
 a) Primeiro-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 
@@ -403,7 +484,7 @@ a) Nove meses de embarque;
 
 b) Mil horas de navegação.
 
-###### Art. 77.º Ao maquinista de 2.ª classe compete exercer as funções de:
+Art. 77.º Ao maquinista de 2.ª classe compete exercer as funções de:
 
 a) Segundo-maquinista em embarcações com máquinas propulsoras de qualquer potência;
 

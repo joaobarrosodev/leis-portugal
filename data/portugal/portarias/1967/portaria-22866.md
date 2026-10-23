@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22866-1967-390584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fdd31dd3a19bfaafab87d4b5c8a64926b3fb7948a0d02ef4bd05392b63132c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8c15af400dc0d05e0a0324135fe98654a2747e23994386414a8c30f58a0d64f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:138354:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:507191:por
+  label: Prorrogado até 31.12.1976 o prazo de vigência do presente diploma pelo(a) Portaria n.º 67/76 - Diário do Governo
+    n.º 29/1976, Série I de 1976-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-1976-507191
+  date: '1976-02-04'
+- type: amended_by
+  target: pt:dre:138354:por
+  label: Prorrogado até 31.12.1977 o prazo de vigência da presente portaria pelo(a) Portaria n.º 41/77 - Diário da República
+    n.º 22/1977, Série I de 1977-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-1977-138354
+  date: '1977-01-27'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:42Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/22/2004/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-2004-277126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a9466f66721574e9149990f5f22ec27607a7aceb743dcce30ff604c56a5944d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c3318d1b60bf29ae639e48ad20cabdba9ddac7eb1764b58fe4e4cc679ab698
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Convenção
 - Diretor
 - Ensino de Condução
+- Equivalência de Diplomas
 - Escola de Condução
-- União Europeia
+- Estágio de Formação
+- Formação Profissional
 - Instrutor de Condução
 - Licenciamento
-- Veículo
 - Nacional das Comunidades
-- Estágio de Formação
 - Regime Jurídico
-- Equivalência de Diplomas
 - Subdiretor
+- União Europeia
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:571931:por
@@ -92,16 +92,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/5/1998/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/5/1998/04/09/p/dre
+- type: repealed_by
+  target: pt:dre:571931:por
+  label: "Revogado a partir de 16.06.2014 o DR 5/98 de 09-abr, na redação do presente diploma, pela LEI.14/2014.18.03.2014.AR,\
+    \ DR.IS [54] de 18.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2014-571931
+  date: '2014-03-18'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:57Z'
   warnings: []
   errors: []
 ---
@@ -172,24 +178,28 @@ g) Relatório de exame psicológico.
 
 3 - Os documentos mencionados nos números anteriores devem, em caso de justificada necessidade, ser certificados e acompanhados de tradução feita por tradutor, autenticada por notário, funcionário diplomático ou consular.
 
-###### Artigo 34.º-B — Estágio de adaptação e provas de aptidão
+Artigo 34.º-B
+
+Estágio de adaptação e provas de aptidão
 
 1 - Sempre que se conclua que as matérias compreendidas na formação que se obteve, nos termos das alíneas a) e b) do n.º 1 do artigo 34.º, são substancialmente diferentes de algum dos conteúdos programáticos exigidos em Portugal, a emissão da licença de instrutor é precedida, conforme opção do requerente, de estágio de adaptação com a duração de seis meses ou de submissão a prova de aptidão, com pagamento de taxa, de acordo com a estrutura fixada no n.º 3 do artigo 31.º, atendendo às unidades temáticas diferentes ou em falta.
 
 2 - No caso previsto na alínea c) do n.º 1 do artigo 34.º, a emissão da licença de instrutor é sempre precedida de submissão a prova de aptidão referida no número anterior.
 
-###### Artigo 39.º-A — Subdirectores e directores do espaço económico europeu
+Artigo 39.º-A
+
+Subdirectores e directores do espaço económico europeu
 
 Aos nacionais dos Estados membros da União Europeia e dos Estados signatários do Acordo sobre o Espaço Económico Europeu que pretendam exercer em território português a actividade profissional de subdirector ou director de escola de condução aplica-se o disposto nos artigos 34.º, 34.º-A e 34.º-B, com as necessárias adaptações.»
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 19 de Maio de 2004.**
+Promulgado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Maio de 2004.**
+Referendado em 21 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

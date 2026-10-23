@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15600/0004900060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2019/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2019-123962150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efe018eef985bb9b4ea132187aee0eeace7e2e3f3a67513141be41e605759c41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5376c2f325464e9b82e055aef43f68fe006ba40c7f8561e1933f82414494e11f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Médico
-- Indústria Farmacêutica
-- Publicidade
 - CEE
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Conselho Nacional de Publicidade de Medicamentos
 - Contra-ordenação
 - Criação de Serviços
 - Definição de Competências
-- Saúde Pública
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
-- Medicamento
+- Indústria Farmacêutica
+- Infarmed
 - Licenciamento
+- Medicamento
+- Médico
 - Normas de Segurança
 - Parlamento Europeu
 - Preço
 - Produto Farmacêutico
 - Proteção do Consumidor
+- Publicidade
 - Receita Médica
 - Sanção
+- Saúde Pública
 - Sistema Nacional de Farmacovigilância de Medicamentos para USO Humano
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
@@ -132,16 +132,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2011/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2011/12/12/p/dre
+- type: cites
+  target: pt:dre:105711790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115172415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670005:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:53Z'
   warnings: []
   errors: []
 ---
@@ -352,7 +404,9 @@ zzz) [Anterior alínea www).]
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A garantia de acesso aos medicamentos constitui um dever de serviço público essencial, que incide sobre todo o território nacional, não podendo ser limitado pelos titulares de autorização de introdução no mercado, ou de registo, de um medicamento, pelos distribuidores por grosso ou pelas farmácias e demais entidades e pessoas habilitadas a dispensar medicamentos ao público.
 
@@ -364,7 +418,9 @@ zzz) [Anterior alínea www).]
 
 5 - Para efeitos do disposto no número anterior, é proibida, designadamente, a prática de condições discriminatórias de aquisição ou venda de medicamentos, nomeadamente quando tal prática se traduza na recusa unilateral, direta ou indireta, de abastecimento de produto encomendado ou na aplicação de diferentes prazos de execução dos pedidos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -374,13 +430,17 @@ zzz) [Anterior alínea www).]
 
 4 - Para além da obrigação de notificação prevista no artigo anterior, os titulares de autorização de introdução no mercado devem notificar o INFARMED, I. P., das ruturas de medicamentos no mercado nacional.
 
-###### Artigo 12.º — Registo de entidades autorizadas
+Artigo 12.º
+
+Registo de entidades autorizadas
 
 1 - O INFARMED, I. P., publica e mantém atualizados, designadamente no seu sítio na Internet, registos nacionais de fabricantes, distribuidores por grosso e intermediários de medicamentos, farmácias, locais de venda de medicamentos não sujeitos a receita médica, fabricantes, importadores e distribuidores por grosso de substâncias ativas.
 
 2 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -404,7 +464,9 @@ zzz) [Anterior alínea www).]
 
 11 - Para efeitos do disposto na alínea d) do n.º 1, o titular de autorização introdução no mercado dispõe, designadamente, de todos os meios técnicos, logísticos e humanos para assegurar o fornecimento e abastecimento dos distribuidores por grosso de forma permanente e contínua com vista a permitir o cumprimento das obrigações previstas nas alíneas a) a c) do n.º 1 do artigo 100.º
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -422,7 +484,9 @@ d) Diretor ou responsável técnico de serviços farmacêuticos hospitalares, p�
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 94.º — Distribuição por grosso
+Artigo 94.º
+
+Distribuição por grosso
 
 1 - O exercício da atividade de distribuição por grosso de medicamentos tem como função principal a garantia do abastecimento adequado e contínuo do mercado nacional.
 
@@ -440,7 +504,9 @@ a) Qualquer modificação aos elementos constantes da autorização mencionada n
 
 b) O início, suspensão e cessação da atividade de distribuição.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - Os titulares de uma autorização de fabrico concedida ao abrigo do presente decreto-lei estão dispensados de obter a autorização prevista no artigo 94.º para a distribuição dos medicamentos por si fabricados.
 
@@ -450,7 +516,9 @@ b) O início, suspensão e cessação da atividade de distribuição.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - [...]:
 
@@ -482,7 +550,9 @@ h) Cópia do contrato celebrado com a entidade responsável pela implementação
 
 3 - [...].
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - O exercício da atividade de distribuição por grosso de medicamentos apenas é autorizado no caso de o interessado dispor, em território nacional, de:
 
@@ -502,7 +572,9 @@ b) Instalações e equipamentos adequados e com capacidade para assegurar o arma
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...].
 
@@ -514,7 +586,9 @@ b) Instalações e equipamentos adequados e com capacidade para assegurar o arma
 
 5 - [...].
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]:
 
@@ -582,7 +656,9 @@ c) Uma lista de medicamentos cuja exportação, ou distribuição para outros Es
 
 7 - As boas práticas de distribuição de medicamentos de uso humano e as boas práticas de distribuição de substâncias ativas são aprovadas por regulamento do INFARMED, I. P., tendo em consideração as diretrizes aprovadas pela Comissão Europeia.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - [...].
 
@@ -596,7 +672,9 @@ c) Uma lista de medicamentos cuja exportação, ou distribuição para outros Es
 
 6 - [Anterior n.º 5.]
 
-###### Artigo 101.º-B — [...]
+Artigo 101.º-B
+
+[...]
 
 1 - As pessoas que se dedicam à intermediação de medicamentos devem cumprir, com as necessárias adaptações, o disposto nas alíneas a), e), f), i), k) e l) do n.º 1 e no n.º 5 do artigo 100.º
 
@@ -606,7 +684,9 @@ c) Uma lista de medicamentos cuja exportação, ou distribuição para outros Es
 
 4 - [...].
 
-###### Artigo 120.º-A — [...]
+Artigo 120.º-A
+
+[...]
 
 1 - As farmácias e outras entidades habilitadas a dispensar medicamentos ao público devem, no limite das suas responsabilidades, respeitar o princípio da continuidade do serviço à comunidade, devendo dispensar os medicamentos que lhe sejam solicitados pelos utentes.
 
@@ -618,7 +698,9 @@ c) Uma lista de medicamentos cuja exportação, ou distribuição para outros Es
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - [...]:
 
@@ -670,7 +752,9 @@ Distribuidor no mercado nacional
 
 3 - Para efeitos do disposto no número anterior, o distribuidor por grosso no mercado nacional deve criar e conservar um stock mínimo e garantir o abastecimento do mercado tão breve quanto possível, nos termos, forma e prazo fixados em regulamento do INFARMED, I. P.
 
-###### Artigo 94.º-B — Operador logístico
+Artigo 94.º-B
+
+Operador logístico
 
 1 - O operador logístico é a pessoa singular ou coletiva que presta serviços de natureza logística e exerce a atividade de distribuição por grosso de medicamentos para uso humano por conta de fabricante ou titular de autorização de introdução no mercado, devidamente registados junto do INFARMED, I. P., mediante a celebração de contrato.
 
@@ -678,7 +762,9 @@ Distribuidor no mercado nacional
 
 3 - A celebração do contrato previsto nos números anteriores não dispensa o cumprimento das boas práticas de distribuição e outras obrigações estabelecidas no presente decreto-lei e respetiva regulamentação em relação às atividades contratadas.
 
-###### Artigo 95.º-A — Registo de distribuição por grosso por titulares de autorização de introdução no mercado
+Artigo 95.º-A
+
+Registo de distribuição por grosso por titulares de autorização de introdução no mercado
 
 1 - As entidades que preenchem os requisitos do n.º 3 do artigo 95.º devem requerer o registo da sua atividade de distribuição junto do INFARMED, I. P.
 
@@ -702,7 +788,9 @@ b) Qualquer modificação aos elementos constantes do registo da sua atividade d
 
 4 - O INFARMED publicita no seu sítio na Internet a lista das entidades registadas, bem como os respetivos certificados do registo.
 
-###### Artigo 102.º-A — Distribuição paralela
+Artigo 102.º-A
+
+Distribuição paralela
 
 1 - A distribuição de um medicamento, autorizado por procedimento europeu centralizado, de um Estado-Membro para outro, por um distribuidor independente do titular de autorização de introdução no mercado, obedece ao disposto na presente secção, sem prejuízo do disposto nos números seguintes e na legislação da União Europeia aplicável nesta matéria.
 
@@ -728,15 +816,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Anabela Damásio Caetano Pedroso - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Francisco Ventura Ramos.
 
-**Promulgado em 6 de agosto de 2019.**
+Promulgado em 6 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de agosto de 2019.**
+Referendado em 12 de agosto de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -744,7 +832,7 @@ Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Erne
 
 [...]
 
-# PARTE III
+PARTE III
 
 1 - [...].
 
@@ -767,3 +855,5 @@ d) [...].
 4 - [...].
 
 5 - [...].»
+
+112519955

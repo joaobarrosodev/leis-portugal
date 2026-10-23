@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23385-1968-271834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8aa4f88328f48bb9a479c5184659024918da94570e42e805148b14ce94c3df5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 413c8ea0d6b7461410e6995a1e3fed8a876cdb6a135523921f1d5888a3a95eb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271440:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:52Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +109,21 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 4.º O artigo 11.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800) passa a ter a seguinte redacção:
 
-###### Art. 11.º Os serviços periciais de medicina forense que exigem conhecimentos particulares de alguma especialidade médica serão, nestas comarcas, feitos no respectivo Instituto ou clínica universitária dessa especialidade pelos professores e assistentes respectivos, e, na falta destes institutos ou clínica, nos hospitais consagrados a essa especialidade, pelo pessoal médico a eles pertencente.
+Art. 11.º Os serviços periciais de medicina forense que exigem conhecimentos particulares de alguma especialidade médica serão, nestas comarcas, feitos no respectivo Instituto ou clínica universitária dessa especialidade pelos professores e assistentes respectivos, e, na falta destes institutos ou clínica, nos hospitais consagrados a essa especialidade, pelo pessoal médico a eles pertencente.
 
 5.º As referências no artigo 12.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800) a «Faculdade de Medicina» e «Secretaria de Estado da Justiça e dos Cultos» deve entender-se como feita a «Estudos Gerais» e «Procuradoria da República».
 
 6.º O artigo 19.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800) passa a ter a seguinte redacção:
 
-###### Art. 19.º O director dos Institutos de Medicina Legal será o professor de Medicina Legal dos respectivos Estudos Gerais. Em primeira nomeação exercerá essas funções o director da Polícia Científica. O director terá direito à gratificação que lhe for fixada pelo governador-geral da respectiva província.
+Art. 19.º O director dos Institutos de Medicina Legal será o professor de Medicina Legal dos respectivos Estudos Gerais. Em primeira nomeação exercerá essas funções o director da Polícia Científica. O director terá direito à gratificação que lhe for fixada pelo governador-geral da respectiva província.
 
 7.º O artigo 20.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800) passa a ter a seguinte redacção:
 
-###### Art. 20.º Os chefes de serviço e assistentes serão propostos pelo reitor dos Estudos Gerais e perceberão os respectivos vencimentos que lhes forem fixados por portaria do governador-geral da respectiva província.
+Art. 20.º Os chefes de serviço e assistentes serão propostos pelo reitor dos Estudos Gerais e perceberão os respectivos vencimentos que lhes forem fixados por portaria do governador-geral da respectiva província.
 
 8.º O artigo 23.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800) terá a seguinte redacção:
 
-###### Art. 23.º O conselho médico-legal funcionará no Instituto de Medicina Legal da respectiva província e será constituído pelo director do Instituto de Medicina Legal, pelos professores de Clínica Cirúrgica, Clínica Médica, Patologia Geral, Obstetrícia, Bacteriologia, Anatomia Patológica e Química Orgânica e Inorgânica dos Estudos Gerais e por um ajudante do procurador da República da respectiva província, que for designado pelo procurador.
+Art. 23.º O conselho médico-legal funcionará no Instituto de Medicina Legal da respectiva província e será constituído pelo director do Instituto de Medicina Legal, pelos professores de Clínica Cirúrgica, Clínica Médica, Patologia Geral, Obstetrícia, Bacteriologia, Anatomia Patológica e Química Orgânica e Inorgânica dos Estudos Gerais e por um ajudante do procurador da República da respectiva província, que for designado pelo procurador.
 
 9.º No § 5.º do artigo 23.º do [Decreto n.º 5023](https://diariodarepublica.pt/dr/detalhe/decreto/5023-1918-182800), onde se lê: «5$00, 1$00 e 120$00», deverá ler-se: «500$00, 100$00 e 3000$00».
 
@@ -127,11 +135,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 13.º O artigo 9.º e seus parágrafos do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) terão a seguinte redacção:
 
-###### Art. 9.º Os exames podem ser aproveitados para o ensino da cadeira de Medicina Legal durante a aula teórica e ainda na ocasião dos trabalhos práticos.
+Art. 9.º Os exames podem ser aproveitados para o ensino da cadeira de Medicina Legal durante a aula teórica e ainda na ocasião dos trabalhos práticos.
 
 14.º O artigo 10.º e seus parágrafos do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) terão a seguinte redacção:
 
-###### Art. 10.º Os funcionários prestarão as horas de serviço segundo os horários estabelecidos para os funcionários públicos em cada província, podendo ser antecipadas ou prorrogadas conforme o respectivo regulamento.
+Art. 10.º Os funcionários prestarão as horas de serviço segundo os horários estabelecidos para os funcionários públicos em cada província, podendo ser antecipadas ou prorrogadas conforme o respectivo regulamento.
 
 15.º Ao final do n.º 2.º do artigo 16.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) é aditado o seguinte:
 
@@ -139,7 +147,7 @@ A execução de boletins terapêuticos de tóxicos e existência de antídotos p
 
 16.º O artigo 17.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) terá a seguinte redacção:
 
-###### Art. 17.º O pessoal destinado ao laboratório químico é constituído pelo chefe de serviço, três assistentes, um preparador e um servente.
+Art. 17.º O pessoal destinado ao laboratório químico é constituído pelo chefe de serviço, três assistentes, um preparador e um servente.
 
 17.º Ao artigo 20.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) é aditado o seguinte:
 
@@ -149,11 +157,11 @@ E colheita de órgãos, nos termos da lei em vigor na província, existindo nest
 
 19.º O artigo 45.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) terá a seguinte redacção:
 
-###### Art. 45.º O pessoal destinado ao serviço de tanatologia será constituído por um chefe de serviço, três assistentes, um preparador, um servente, três serventes de necrotério e um motorista.
+Art. 45.º O pessoal destinado ao serviço de tanatologia será constituído por um chefe de serviço, três assistentes, um preparador, um servente, três serventes de necrotério e um motorista.
 
 20.º O corpo do artigo 81.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440) terá a seguinte redacção:
 
-###### Art. 81.º Ao director competirá:
+Art. 81.º Ao director competirá:
 
 21.º São excluídos de aplicação os artigos 46.º, 48.º e 49.º do [Decreto n.º 5608](https://diariodarepublica.pt/dr/detalhe/decreto/5608-1919-271440).
 

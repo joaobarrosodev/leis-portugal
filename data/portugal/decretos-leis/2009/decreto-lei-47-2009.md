@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2009/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2009-602029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5d7f2025c2d3cf1337a18965efcd3052683306617bfb26dc681b9e339840de7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c06cd30e49dbc59aca963c17e03f1dc870a4bd0038b025f324bccb85a5ae3d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Diretivo
 - Conselho Pedagógico
-- Língua Portuguesa
-- Moçambique
 - Definição de Competências
 - Diretor
 - Escola Portuguesa de Moçambique-Centro de Ensino e Língua Portuguesa
-- Conselho Diretivo
 - Estabelecimento de Ensino
+- Língua Portuguesa
+- Moçambique
 - Pessoal Docente
 - Presidente
 - Propinas
@@ -117,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/31/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/31/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:249479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 40
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:45Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +197,15 @@ Os artigos 2.º, 5.º, 5.º-A, 6.º, 8.º, 9.º-A, 13.º, 15.º, 16.º e 22.º d
 
 2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia financeira, devendo, nesta matéria, reger-se pelo regime financeiro previsto nos artigos 43.º e seguintes do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho.
 
-###### Artigo 5.º — Organização interna
+Artigo 5.º
+
+Organização interna
 
 Os princípios e as normas que estabelecem a organização interna da Escola são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 A Escola dispõe dos seguintes órgãos:
 
@@ -171,7 +215,9 @@ b) A direcção;
 
 c) O conselho pedagógico.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O conselho de patronos tem a seguinte composição:
 
@@ -183,7 +229,9 @@ c) Um representante da Associação de Pais e Encarregados de Educação dos alu
 
 2 - Podem, ainda, fazer parte do conselho de patronos individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e na divulgação da língua e cultura portuguesas em Moçambique ou dos laços linguísticos e culturais entre os povos português e moçambicano, a nomear por despacho do membro do Governo que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -197,7 +245,9 @@ b) ...
 
 4 - A duração do mandato de cada elemento do conselho de patronos, com excepção do presidente, é de três anos, podendo o mesmo ser renovado.
 
-###### Artigo 9.º-A — Direcção
+Artigo 9.º-A
+
+Direcção
 
 1 - A direcção da Escola é composta por um director e dois subdirectores, cargos de direcção superior, respectivamente, de 1.º e 2.º graus.
 
@@ -209,7 +259,9 @@ a) Por despacho conjunto do Primeiro-Ministro e dos membros do Governo responsá
 
 b) Por despacho conjunto dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação, no caso dos subdirectores.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Só pode exercer funções docentes na Escola o pessoal que detenha as habilitações académicas e profissionais exigidas para o exercício das mesmas funções em estabelecimentos públicos portugueses de educação pré-escolar e dos ensinos básico e secundário.
 
@@ -223,7 +275,9 @@ b) Por despacho conjunto dos membros do Governo responsáveis pelas áreas dos n
 
 6 - Excepcionalmente, para o exercício de funções de coordenação educativa e de supervisão pedagógica na Escola, exclusiva ou cumulativamente com a função docente, pode, ainda, mediante as formas de mobilidade previstas no Estatuto da Carreira Docente, ser colocado pessoal docente da carreira do ensino público português portador de qualificação profissional para a docência.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O serviço prestado em regime de contratação, nos termos do artigo 13.º, conta, para todos os efeitos legais, como tempo de serviço prestado em funções docentes no ensino público português.
 
@@ -259,11 +313,15 @@ b) [Alínea b) do anterior n.º 4.]
 
 13 - Na fixação das remunerações do pessoal docente e não docente em regime de contratação local deve ter-se em conta a necessidade de assegurar a estabilidade das condições de vida e a manutenção do poder de compra.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a aprovar pelo director e sujeito a ratificação do membro do Governo responsável pela área da educação.
 
-###### Artigo 22.º — Avaliação
+Artigo 22.º
+
+Avaliação
 
 1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da [Lei n.º 31/2002](https://diariodarepublica.pt/dr/detalhe/lei/31-2002-405486), de 20 de Dezembro.
 
@@ -315,7 +373,9 @@ e) Proceder à avaliação de desempenho do pessoal não docente.
 
 3 - O director pode delegar em qualquer dos membros da direcção o exercício dos seus poderes ou a prática de actos da sua competência.
 
-###### Artigo 9.º-C — Conselho pedagógico
+Artigo 9.º-C
+
+Conselho pedagógico
 
 1 - O conselho pedagógico é o órgão de coordenação e orientação educativa da Escola.
 
@@ -323,7 +383,9 @@ e) Proceder à avaliação de desempenho do pessoal não docente.
 
 3 - Nas reuniões em que sejam tratados assuntos que envolvam a avaliação dos alunos apenas participam os membros docentes.
 
-###### Artigo 9.º-D — Competências
+Artigo 9.º-D
+
+Competências
 
 1 - O conselho pedagógico é o órgão responsável nos domínios pedagógico-didáctico, da orientação e acompanhamento dos alunos, competindo-lhe, em especial:
 
@@ -339,11 +401,15 @@ e) Definir os critérios gerais a que deve obedecer a elaboração dos horários
 
 2 - O director assume, por inerência, as funções de presidente do conselho pedagógico.
 
-###### Artigo 9.º-E — Estruturas de orientação educativa
+Artigo 9.º-E
+
+Estruturas de orientação educativa
 
 A portaria referida no artigo 5.º fixa as estruturas de orientação educativa que colaboram com os conselho pedagógico e directivo no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
 
-###### Artigo 15.º-A — Protecção social
+Artigo 15.º-A
+
+Protecção social
 
 1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social determinada pelo instrumento internacional de segurança social que tenha sido celebrado entre Portugal e Moçambique ou, na sua falta, a legislação de segurança social de Moçambique.
 
@@ -353,7 +419,9 @@ A portaria referida no artigo 5.º fixa as estruturas de orientação educativa 
 
 4 - O disposto nos números anteriores não se aplica, para efeitos de aposentação, aos docentes em situação de licença sem vencimento contratados localmente que, no momento da celebração do contrato, efectuem a opção a que se refere o n.º 6 do artigo 15.º
 
-###### Artigo 24.º-A — Propinas e outros valores
+Artigo 24.º-A
+
+Propinas e outros valores
 
 O montante do valor das propinas, bem como dos serviços prestados, é aprovado pelo membro do Governo que tenha a responsabilidade pelas escolas portuguesas no estrangeiro, sob proposta da direcção.»
 
@@ -379,15 +447,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Maria Teresa Gonçalves Ribeiro - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 4 de Fevereiro de 2009.**
+Promulgado em 4 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Fevereiro de 2009.**
+Referendado em 5 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 241/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1999-393007), de 25 de Junho
 

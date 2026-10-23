@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2006-545646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ac1b362272edd02f0a37131c958e02ca6e0627151e9f6986ade79b79fe855c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fd3f71cee7b5fcd82f2d8d7604098d73a525118d2fad12153cdc0be31971aa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,62 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Reestruturação de Serviços
 - Auditoria Ambiental
 - Autoridade de Segurança da Ponte 25 de Abril
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
-- Instituto da Construção e do Imobiliário
-- Serviços Sociais da Administração Pública
 - Conselho Consultivo das Obras Públicas Transportes e Comunicações
 - Conselho Nacional dos Portos e dos Transportes Marítimos
-- Instituto Portuário e dos Transportes Marítimos
 - Conselho Superior de Obras Públicas
 - Controlador Financeiro
 - Criação de Serviços
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
+- Direcção Geral dos Transportes Terrestres e Fluviais
 - Diretor
 - Diretor Geral
 - EP-Estradas de Portugal
 - Escola Náutica Infante Dom Henrique
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Secretaria Geral
+- Gabinete de Estudos e Planeamento
 - Gabinete de Investigação de Segurança e de Acidentes Ferroviários
-- Ministério das Obras Públicas Transportes e Comunicações
 - Gabinete de Planeamento Estratégia e Relações Internacionais
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
 - Gabinete para os Assuntos Europeus e Relações Externas
-- Instituto das Comunicações de Portugal
-- Inspecção Geral das Obras Públicas Transportes e Comunicações
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Inspetor Geral
-- Direcção Geral dos Transportes Terrestres e Fluviais
 - Imoppi
+- Inspecção Geral das Obras Públicas Transportes e Comunicações
+- Inspetor Geral
+- Instituto da Construção e do Imobiliário
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Instituto das Comunicações de Portugal
+- Instituto de Infra-Estruturas Rodoviárias
+- Instituto Nacional de Aviação Civil
 - Instituto Nacional do Transporte Ferroviário
+- Instituto Portuário e dos Transportes Marítimos
 - Integração de Serviços
 - Laboratório Nacional de Engenharia Civil
-- Gabinete de Estudos e Planeamento
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
+- Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério das Finanças e da Administração Pública
+- Ministério das Obras Públicas Transportes e Comunicações
 - OBRA Social
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
+- Reestruturação de Serviços
 - Refer
 - Registo Internacional de Navios da Madeira
-- Ministério da Ciência Tecnologia e Ensino Superior
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
+- Serviços Sociais da Administração Pública
+- Setor Empresarial do Estado
 - Subdirector Geral
 - Subinspector Geral
 - Transferência de Competências
-- Instituto de Infra-Estruturas Rodoviárias
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:642012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569757:por
+  label: "Dada nova redacção ao art. 18º pelo DEC LEI.72-A/2010.18.06.2010.MFAP, DR.IS [117-Supl] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério das Obras Públicas, Transportes e Comunicações e determinada a transição para o Ministério\
+    \ da Economia e do Emprego dos serviços, organismos, entidades e estruturas identificados no presente diploma, alterado\
+    \ pelo Dec Lei 72-A/2010 de 18-Jun, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, nos termos\
+    \ do seu art. 16º.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2006/02/17/p/dre
   label: null
@@ -137,16 +150,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642012:por
+  label: "Revogado, a partir de 03.01.2012., na redacção do Dec Lei 72-A/2010, de 18-Jun, pelo DEC LEI.126-C/2011.29.12.2011.MEE,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
 article_structure:
   article_count: 31
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:47Z'
   warnings: []
   errors: []
 ---
@@ -643,20 +678,20 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75017508.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/18/1991/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1991-496503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65657f9b378c26d120a6305dc8c33281029202f48a593fe955709ae5150aafa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d1a8eb4d82a42ab204bed15a965388e3b5862c2e485e7f4879dc76efb249b58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,11 @@ relationships:
   target: pt:dre:649542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:649542:por
+  label: "Substituídas as listas A, B e C referidas no n.º 1 pelo DN.130/91.28.06.1991.MCT, DR.IS-B [146] de 28.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/130-1991-649542
+  date: '1991-06-28'
 - type: cites
   target: celex:31982R0288
   label: null
@@ -84,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:50:14Z'
   warnings: []
   errors: []
 ---
@@ -143,16 +148,16 @@ LISTA A
 
 Países terceiros, com excepção dos países preferenciais, dos da Europa Central e Oriental, dos da União das Repúblicas Socialistas Soviéticas e dos de comércio de Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf))](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)
 
 LISTA B
 
 Japão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf))](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)
 
 LISTA C
 
 Países da Europa Central e Oriental, da União das Repúblicas Socialistas Soviéticas e de comércio de Estado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf))](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/018b00/03740384.pdf)

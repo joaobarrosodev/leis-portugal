@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1986-228604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f632d10b48b93e20454d9d3ecf57ad998a26cb95514f830a69186d4118d61743
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cb21e25bf9d1659ec69f9d2be08f6bf815fdf7229fd0f8c6b9b289c087a3157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criança Deficiente
+- Escolaridade Obrigatória
+- Jardim de Infância
+relationships:
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373429:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:46Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +104,9 @@ Em cumprimento do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 301/84]
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Aos menores portadores de deficiência que frequentem jardins-de-infância poderá ser adiado por um ano o início da escolaridade obrigatória, de acordo com a tramitação prevista no presente diploma.
+Artigo 1.º Aos menores portadores de deficiência que frequentem jardins-de-infância poderá ser adiado por um ano o início da escolaridade obrigatória, de acordo com a tramitação prevista no presente diploma.
 
-###### Art. 2.º - 1 - Os pedidos de adiamento serão formulados até ao final do período legalmente previsto para a primeira matrícula do ensino primário.
+Art. 2.º - 1 - Os pedidos de adiamento serão formulados até ao final do período legalmente previsto para a primeira matrícula do ensino primário.
 
 2 - Para o efeito, o encarregado de educação do menor requererá o adiamento ao director-geral do Ensino Básico, comprovando medicamente a deficiência e juntando o relatório de avaliação do respectivo educador de infância em que se realcem as vantagens que possam advir do adiamento para o desenvolvimento do menor.
 
@@ -103,13 +114,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - Para o efeito, pode o Instituto de Acção Social Escolar, caso seja necessário, determinar a apresentação do aluno para observação nos centros de medicina pedagógica.
 
-###### Art. 3.º - 1 - O encarregado de educação deverá, independentemente da formulação do pedido de adiamento, proceder à matrícula do aluno, anotando-se no respectivo termo quando tal pedido tenha sido autorizado.
+Art. 3.º - 1 - O encarregado de educação deverá, independentemente da formulação do pedido de adiamento, proceder à matrícula do aluno, anotando-se no respectivo termo quando tal pedido tenha sido autorizado.
 
 2 - Sempre que, para além do prazo legalmente previsto para a primeira matrícula do ensino primário, subsistam casos pendentes, os serviços competentes darão conhecimento imediato da sua resolução à escola onde o menor está matriculado, nomeadamente para os efeitos decorrentes do disposto na parte final do número anterior.
 
 3 - O menor frequentará a escola onde se encontra matriculado nos casos em que, iniciado o ano lectivo, persistam ainda pedidos sobre os quais não foi tomada qualquer decisão, ou, tendo-o sido, a mesma foi objecto de recurso.
 
-###### Art. 4.º - 1 - Os menores a quem foi autorizado o adiamento deverão nesse ano continuar a frequentar o estabelecimento de educação pré-escolar.
+Art. 4.º - 1 - Os menores a quem foi autorizado o adiamento deverão nesse ano continuar a frequentar o estabelecimento de educação pré-escolar.
 
 2 - A frequência prevista no número anterior, em estabelecimento dependente do Ministério da Educação e Cultura ou do Ministério do Trabalho e Segurança Social, obedece ao disposto no capítulo VI do Estatuto dos Jardins-de-Infância, aprovado pelo [Decreto-Lei n.º 542/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1979-230889), de 31 de Dezembro, tendo em conta a especificidade da situação.
 
@@ -117,12 +128,12 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral.
 
-**Promulgado em 18 de Junho de 1986.**
+Promulgado em 18 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Junho de 1986.**
+Referendado em 18 de Junho de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

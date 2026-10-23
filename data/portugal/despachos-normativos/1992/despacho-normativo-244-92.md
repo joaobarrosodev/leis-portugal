@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/244/1992/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/244-1992-624377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c008febb501402a7512e3aaa6ed3b88969899d75a6ee594a4a79106edbb31127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac5ec3b34d8055fda2f65cd1fb02e4543cd71d09adcfce04ae8c863078548196
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,29 @@ relationships:
   target: pt:dre:409505:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409505:por
+  label: "Rectificado pela DECL-RECT.48/93.29.03.1993.SG-PCM, DR.IS-B [76]3ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/48-1993-409505
+  date: '1993-03-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:43Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +111,7 @@ Colhidas das instituições de ensino superior interessadas as condições relat
 
 Ouvido o Ministro da Educação:
 
-**O Ministro das Finanças, ao abrigo do disposto nos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e 1.º do Decreto-Lei 192/85, de 24 de Junho, determina o seguinte:**
+O Ministro das Finanças, ao abrigo do disposto nos artigos 12.º e 13.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e 1.º do Decreto-Lei 192/85, de 24 de Junho, determina o seguinte:
 
 1 - Consideram-se descongeladas, para o ano lectivo de 1992-1993, as admissões de pessoal docente para os estabelecimentos de ensino superior incluídos no mapa anexo ao presente despacho normativo, até ao número de unidades e nas categorias dele constantes.
 
@@ -114,4 +127,4 @@ Mapa anexo
 
 Institutos politécnicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/58905891.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/58905891.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/58905891.pdf)

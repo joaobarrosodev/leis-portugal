@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12800/0430304318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2009/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2009-492216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8042dafb42e58483f78f1825e161c017d8a00a419888441db831855fa95042ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c64331e0a98e0c3bfc10f71ed8013af45d7d9df95bba32199b3f9dcf26c7db50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pnale
-- Registo Português de Licenças de Emissão
-- Efeito de Estufa
-- Licença de Emissão
+- Agência Portuguesa do Ambiente
+- Alteração Climática
 - Aproximação das Legislações
 - Autoridade Nacional
-- Multa
+- Comissão para as Alterações Climáticas
 - Contra-ordenação
 - Definição de Competências
 - Direção Geral de Energia e Geologia
-- Instituto do Ambiente
-- Publicitação
-- Licenciamento
 - Direcção Geral de Geologia e Energia
-- Comissão para as Alterações Climáticas
+- Efeito de Estufa
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Proteção do Ambiente
+- Instituto do Ambiente
 - Internet
-- Regime Jurídico
+- Licença de Emissão
+- Licenciamento
+- Multa
+- Pnale
 - Poluição
-- Alteração Climática
+- Proteção do Ambiente
+- Publicitação
+- Regime Jurídico
+- Registo Português de Licenças de Emissão
 - Taxa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:259892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612397:por
+  label: "Alterados os arts. 3.º, 4.º e 26.º do Dec Lei 233/2004, de 14-Dez, na redacção do presente diploma, pelo DEC LEI.30/2010.08.04.2010.MAOT,\
+    \ DR.IS [68] de 08.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2010-612397
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:333859:por
+  label: "Alterado o art. 17º do Dec Lei 233/2004 de 14-Dez, com a redacção e republicação constantes do presente diploma,\
+    \ pelo DEC LEI.93/2010.27.07.2010.MAOT, DR.IS [144] de 27.07.2010 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2010-333859
+  date: '2010-07-27'
+- type: amended_by
+  target: pt:dre:191285:por
+  label: "Alterado o art. 1º do Dec Lei 233/2004, de 14-dez, na redação do presente diploma, pelo DEC LEI.252/2012.26.11.2012.MAMAOT,\
+    \ DR.IS [228] de 26.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2012-191285
+  date: '2012-11-26'
 - type: cites
   target: celex:31993D0389
   label: null
@@ -127,16 +145,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, ( sem prejuízo do disposto no art. 35.º do presente Dec Lei 38/2013 de 15-mar,\
+    \ que mantém em vigor até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante\
+    \ o que ocorrer primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças\
+    \ de emissão e aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, na redação\
+    \ do presente diploma, pelo DEC LEI.38/2013.15.03.2013.MAMAOT, DR.IS [53] de 15.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
-  article_count: 62
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 51
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:38Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +208,9 @@ Os artigos 3.º, 4.º, 16.º, 16.º-A, 19.º, 25.º, 26.º, 27.º, 29.º e 30.º
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +244,9 @@ n) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +266,9 @@ n) ...
 
 9 - As regras para a atribuição das licenças de emissão para novas instalações, designadamente o procedimento de inscrição, a prioridade e as condições para a respectiva atribuição e concessão, são definidas por portaria dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-###### Artigo 16.º-A — [...]
+Artigo 16.º-A
+
+[...]
 
 1 - Sem prejuízo do n.º 4, durante cada período referido no n.º 2 do artigo 16.º, o operador pode utilizar URE e RCE relativas a actividades de projecto para cumprir com as suas obrigações nos termos do n.º 4 do artigo 17.º, até uma percentagem das licenças de emissão atribuídas a uma instalação, a fixar no PNALE de cada período, nos termos do artigo 13.º
 
@@ -251,7 +284,9 @@ n) ...
 
 7 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A criação e manutenção de um registo de dados normalizado protegido, que garanta uma contabilidade precisa sobre a concessão, detenção e transferência e anulação de licenças de emissão, rege-se pelo Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), da Comissão, de 21 de Dezembro.
 
@@ -267,7 +302,9 @@ n) ...
 
 7 - O valor da taxa referida no número anterior considera-se automaticamente actualizado todos os anos por aplicação do índice de preços ao consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado para a casa decimal superior, devendo a APA proceder à divulgação, com carácter de permanência, no sítio da Internet do RPLE, dos valores em vigor em cada ano.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +318,9 @@ n) ...
 
 6 - Findo o incumprimento previsto no número anterior, a suspensão cessa, sendo concedidas à instalação as licenças de emissão a que o operador tenha direito no ano civil em que seja posto termo ao incumprimento.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a violação pelo operador da obrigação de possuir título de emissão de gases com efeito de estufa nos termos do n.º 1 do artigo 7.º
 
@@ -307,17 +346,23 @@ c) O não cumprimento do prazo para envio do relatório contendo as informaçõe
 
 4 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática das infracções muito graves e graves previstas nos n.os 1 e 2 do presente artigo, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
 
-###### Artigo 27.º — Sanções acessórias e apreensão cautelar
+Artigo 27.º
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infracção o justifique, pode a entidade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
 
 2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Compete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 O produto das coimas previstas no presente decreto-lei é afectado de acordo com o disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.»
 
@@ -337,7 +382,9 @@ b) Avaliar a conformidade dos projectos de mecanismo de desenvolvimento limpo e 
 
 c) Disponibilizar informação sistematizada de apoio a investidores para o desenvolvimento de projectos de implementação conjunta e mecanismo de desenvolvimento limpo e funcionar como repositório de informação técnica relativa aos mecanismos de flexibilidade do Protocolo de Quioto.
 
-###### Artigo 18.º-A — Suspensão da concessão das licenças de emissão
+Artigo 18.º-A
+
+Suspensão da concessão das licenças de emissão
 
 1 - A (APA) suspende a concessão de licenças de emissão quando:
 
@@ -369,7 +416,9 @@ c) Por comunicação da entidade coordenadora do licenciamento ou da Inspecção
 
 9 - O montante de licenças não concedidas, por força da suspensão da concessão das licenças de emissão nos termos do n.º 1, ou das situações de incumprimento previstas no n.º 4 do artigo 25.º, reverte para a reserva de novas instalações.
 
-###### Artigo 18.º-B — Cancelamento da concessão das licenças de emissão
+Artigo 18.º-B
+
+Cancelamento da concessão das licenças de emissão
 
 1 - A APA cancela a concessão de licenças de emissão quando tenha conhecimento da cessação do exercício da actividade da instalação.
 
@@ -411,15 +460,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Fernando Pereira Serrasqueiro.
 
-**Promulgado em 25 de Junho de 2009.**
+Promulgado em 25 de Junho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Junho de 2009.**
+Referendado em 29 de Junho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 233/2004, de 14 de Dezembro
 
@@ -523,7 +572,9 @@ b) Avaliar a conformidade dos projectos de mecanismo de desenvolvimento limpo e 
 
 c) Disponibilizar informação sistematizada de apoio a investidores para o desenvolvimento de projectos de implementação conjunta e mecanismo de desenvolvimento limpo e funcionar como repositório de informação técnica relativa aos mecanismos de flexibilidade do Protocolo de Quioto.
 
-### CAPÍTULO III — Título de emissão de gases com efeito de estufa
+### CAPÍTULO III
+
+## Título de emissão de gases com efeito de estufa
 
 ###### Artigo 7.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 
@@ -989,7 +1040,7 @@ b) Pedido de exclusão temporária do regime de comércio de licenças de emiss�
 
 Os limiares a seguir mencionados referem-se, de um modo geral, às capacidades de produção. Se o mesmo operador exercer várias actividades da mesma rubrica na mesma instalação ou no mesmo sítio, as capacidades dessas actividades devem ser adicionadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/07/12800/0430304318.pdf))](https://files.diariodarepublica.pt/1s/2009/07/12800/0430304318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/12800/0430304318.pdf)
 
 ## ANEXO II — Gases com efeito de estufa
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/194a00/54895501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/196/2003/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2003-655968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5514992f5157258b899edc90fb97b234f0060b04747e78c5a204e0a0ecc26e09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a02e71660b82f173107de9221c0166035fd8c9b96f5daa0ff24fb839b9e87415
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Financiamento
+- Certificado de Destruição ou Desmantelamento Qualificado
 - Comissão de Acompanhamento
 - Contra-ordenação
-- Licenciamento
-- Veículo
-- Resíduo
+- Financiamento
 - Instituto dos Resíduos
-- Proteção do Ambiente
-- Tratamento de Resíduos
+- Licenciamento
 - Produtor
+- Proteção do Ambiente
+- Resíduo
 - Taxa
-- Certificado de Destruição ou Desmantelamento Qualificado
+- Tratamento de Resíduos
+- Veículo
 - Veículo em FIM de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:169360995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518010:por
+  label: "Alterado o art. 3º do Dec Lei 292-A/2000 de 15-Nov, com a redacção conferida no presente diploma, pelo DEC LEI.33/2007.15.02.2007.MFAP,\
+    \ DR.IS [33] de 15.02.2007 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2007-518010
+  date: '2007-02-15'
+- type: amended_by
+  target: pt:dre:246275:por
+  label: "Alterados os art.s 1.º, 2.º, 4.º, 5.º, 7.º, 9.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º ( o último na redacção\
+    \ do Dec Lei 178/2006, de 05-Set), 19.º, 20.º, 21.º, 23.º, 24.º, 25.º, 26.º e 27.º bem como o anexo i e o nº 2.1 do anexo\
+    \ iv, aditado um anexo v e revogados os n.º 4 do artigo 1.º, n.os 3 e 4 do artigo 19.º, artigo 22.º, alínea e) do n.º\
+    \ 1 do artigo 24.º e n.º 2 do artigo 26.º pelo DEC LEI.64/2008.08.04.2008.MAOTDR, DR.IS [69] de 08.04.2008, com republicação\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2008-246275
+  date: '2008-04-08'
+- type: amended_by
+  target: pt:dre:343084:por
+  label: "Alterado, a partir de 01.12.2010, o art. 2º, na redacção do Dec Lei 64/2008, de 08-Abr, pelo DEC LEI.98/2010.11.08.2010.MAOT,\
+    \ DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterados e renumerados os arts. 17.º e 20.º, na redacção do Dec Lei 64/2008, de 08-Abr, pelo DEC LEI.73/2011.17.06.2011.MAOT,\
+    \ DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amended_by
+  target: pt:dre:477146:por
+  label: "Dada nova redacção ao anexo I (alterado pelo Dec Lei 64/2008 de 08-Abr) pelo DEC LEI.1/2012.11.01.2012.MAMAOT, DR.IS\
+    \ [8] de 11.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2012-477146
+  date: '2012-01-11'
+- type: amended_by
+  target: pt:dre:498489:por
+  label: "Alterado o anexo I, na redação dos Decs Lei 64/2008, de 08-abr e 1/2012, de 11-jan, pelo DEC LEI.114/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2013-498489
+  date: '2013-08-07'
 - type: cites
   target: celex:31993R0259
   label: null
@@ -101,16 +140,35 @@ relationships:
   target: celex:32001D0753
   label: null
   source: http://data.europa.eu/eli/dec/2001/753/oj
+- type: repealed_by
+  target: pt:dre:540016:por
+  label: "Revogados o nº 1 do art. 18º e o art. 28º pelo DEC LEI.178/2006.05.09.2006.MAOTDR, DR.IS [171] de 05.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o presente diploma, na versão republicada pelo Dec Lei 64/2008 de 08-abr e na redação
+    dos Decs Leis 98/2010 de 11-ago, 73/2001 de 17-jun, 1/2012 de 11-jan e 114/2013 de 07-ago, pelo(a) Decreto-Lei n.º 152-D/2017
+    - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
+- type: repeals
+  target: pt:numero:decreto-lei:292-A/2000
+  label: "Revoga, com a constituição da rede nacional de centros de recepção e de operadores de desmantelamento prevista nos\
+    \ n.os 1 e 2 do artigo 11.º, o disposto no artigo 3.º do Decreto-Lei n.º 292-A/2000, de 15 de Novembro, DR.IS-A [264]Supl\0\
+    \0"
+  source: null
+  date: '2000-11-15'
 article_structure:
   article_count: 32
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:45Z'
   warnings: []
   errors: []
 ---
@@ -661,15 +719,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Carlos Manuel Tavares da Silva - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 6 de Agosto de 2003.**
+Promulgado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto de 2003.**
+Referendado em 8 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 6.º
 

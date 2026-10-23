@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-1983-451033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9d07631f87ad5299872e2e392dcecb140a327fd1c84c98dd48eff4c88e04af6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 340dd321d80fc035f41c2984cf4a00241fb9db24e8463963a72995ea15585377
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Castelo Branco
+- Hospital Distrital
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:292750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:460858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:54Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +110,10 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa.
 
-**Assinada em 31 de Março de 1983.**
+Assinada em 31 de Março de 1983.
 
 Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro dos Assuntos Sociais, Adalberto Paulo da Fonseca Mendo, Secretário de Estado da Saúde. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Quadro de pessoal do Hospital Distrital de Castelo Branco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/05/10100/15521552.pdf))](https://files.diariodarepublica.pt/1s/1983/05/10100/15521552.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/05/10100/15521552.pdf)

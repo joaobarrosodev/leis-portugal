@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/2012/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2012-553056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d54b6a37a9c60400a2aec2d363fd19352d556482437ffd45a3501c543fcc289f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61afb9c1cc386edeaa17be0e8a66156927ab117d92224d4c4488fa4e07c7f0f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
-- Engenharia Genética
-- Organismo Geneticamente Modificado
-- Genética
-- Saúde Pública
-- Proteção do Ambiente
-- Produto Hortícola
-- Recursos Genéticos
-- Agricultura
-- Semente
 - Comércio
+- Engenharia Genética
+- Genética
+- Organismo Geneticamente Modificado
 - Produto Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Recursos Genéticos
+- Saúde Pública
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190461:por
+  label: "Alterado e republicado o anexo i ao Dec Lei 154/2004, de 30-jun, na redação do presente diploma , pelo DEC LEI.259/2012.11.12.2012.MAMAOT,\
+    \ DR.IS [239] de 11.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-2012-190461
+  date: '2012-12-11'
+- type: amended_by
+  target: pt:dre:498090:por
+  label: "Alterados os anexos I e II, do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.93/2013.11.07.2013.MAMAOT,\
+    \ DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2013-498090
+  date: '2013-07-11'
+- type: amended_by
+  target: pt:dre:55235781:por
+  label: Alterados os anexos I e II ao Dec Lei 154/2004 de 30-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    120/2014 - Diário da República n.º 150/2014, Série I de 2014-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2014-55235781
+  date: '2014-08-06'
+- type: amended_by
+  target: pt:dre:69920328:por
+  label: Alterados os anexos I (na versão republicada pelo Dec Lei 259/2012 de 11-dez e na redação do Dec Lei 93/2013 de 11-jul
+    e do Dec Lei 120/2014 de 06-ago) e II (na versão republicada pelo presente diploma e na redação do Dec Lei 93/2013 de
+    11-jul e do Dec Lei 120/2014 de 06-ago), pelo(a) Decreto-Lei n.º 144/2015 - Diário da República n.º 148/2015, Série I
+    de 2015-07-31, que os republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2015-69920328
+  date: '2015-07-31'
 - type: cites
   target: celex:32003L0090
   label: null
@@ -102,16 +128,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:19Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +188,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de abril de 2012. - Pedro Passos Coelho - José de Almeida Cesário - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 26 de abril de 2012.**
+Promulgado em 26 de abril de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de maio de 2012.**
+Referendado em 2 de maio de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -172,19 +204,19 @@ Visto e aprovado em Conselho de Ministros de 12 de abril de 2012. - Pedro Passos
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-# Parte C
+Parte C
 
 [...]
 
@@ -198,21 +230,25 @@ Visto e aprovado em Conselho de Ministros de 12 de abril de 2012. - Pedro Passos
 
 5 - [...]
 
-## ANEXO II — [...]
-
-# Parte A
+ANEXO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
-
-# Parte B
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-## ANEXO II — (a que se refere o artigo 3.º)
+Parte B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 3.º)
 
 Republicação dos anexos i e ii do Decreto-Lei n.º 154/2004, de 30 de junho
 
@@ -222,19 +258,19 @@ Republicação dos anexos i e ii do Decreto-Lei n.º 154/2004, de 30 de junho
 
 Espécies agrícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-# Parte C
+Parte C
 
 Caracteres no que diz respeito ao exame do valor agronómico e de utilização
 
@@ -248,18 +284,20 @@ Caracteres no que diz respeito ao exame do valor agronómico e de utilização
 
 5 - Parâmetros de qualidade (valor de utilização).
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08800/0239602401.pdf)

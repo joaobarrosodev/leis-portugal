@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/29500/42054206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1980-457191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd41a25874a2d58da87e061f41fddf7cb6297a6c75a704b082882f5b58f859d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a6dddd3ab69f41fd849469ce9638409271fdc6617169cbd98b2f332b119c701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aldeamento Turístico
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:613898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:507825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522612:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:378147:por
+  label: "Revogado pelo DEC LEI.435/82.30.10.1982.PCM, DR.IS [252] de 30.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/435-1982-378147
+  date: '1982-10-30'
+- type: repealed_by
+  target: pt:dre:613898:por
+  label: "Revogado, a partir de 20.05.1989, pelo DR.8/89.1989.03.21.MCT, DR.IS [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-1989-613898
+  date: '1989-03-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:23Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +114,15 @@ O Governo sentiu a necessidade de dar cobertura legal a certos comportamentos cu
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os conjuntos turísticos regulamentados pelo [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, serão dotados de uma rede de infra-estruturas e serviços em função do fim a que se destinam, que é complementar da exigida no alvará de loteamento nos termos do artigo 6.º do [Decreto-Lei n.º 46673](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46673-1965-507825), de 29 de Novembro de 1965.
+Artigo 1.º - 1 - Os conjuntos turísticos regulamentados pelo [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, serão dotados de uma rede de infra-estruturas e serviços em função do fim a que se destinam, que é complementar da exigida no alvará de loteamento nos termos do artigo 6.º do [Decreto-Lei n.º 46673](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46673-1965-507825), de 29 de Novembro de 1965.
 
 2 - A rede de infra-estruturas e os serviços próprios do conjunto turístico, diferenciados pelo fim a que se destinam nos termos do artigo 1.º do [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, não poderão, em caso algum, ser qualificados como serviços públicos.
 
-###### Art. 2.º - 1 - As despesas de manutenção, funcionamento e substituição da rede de infra-estruturas e serviços definida no n.º 1 do artigo anterior deverão ser suportadas pelos proprietários ou utentes, nos termos do respectivo contrato de exploração ou, se o não houver, na proporção da sua participação na área imobiliária.
+Art. 2.º - 1 - As despesas de manutenção, funcionamento e substituição da rede de infra-estruturas e serviços definida no n.º 1 do artigo anterior deverão ser suportadas pelos proprietários ou utentes, nos termos do respectivo contrato de exploração ou, se o não houver, na proporção da sua participação na área imobiliária.
 
 2 - Os proprietários das unidades desafectadas da exploração poderão recusar a comparticipação em tais despesas, não beneficiando nesse caso dos serviços ou instalações próprios do aldeamento turístico sem prejuízo do direito à fruição e utilização de infra-estruturas, serviços e zonas referidos no artigo seguinte.
 
-###### Art. 3.º - 1 - Os encargos relativos à manutenção, substituição e funcionamento das infra-estruturas e serviços básicos de urbanização serão suportados pelos proprietários ou utentes, nos termos do respectivo contrato de exploração ou, se o não houver, na proporção da sua participação na área imobiliária, enquanto estes serviços não forem assumidos pelas entidades municipais.
+Art. 3.º - 1 - Os encargos relativos à manutenção, substituição e funcionamento das infra-estruturas e serviços básicos de urbanização serão suportados pelos proprietários ou utentes, nos termos do respectivo contrato de exploração ou, se o não houver, na proporção da sua participação na área imobiliária, enquanto estes serviços não forem assumidos pelas entidades municipais.
 
 2 - Para efeitos do número anterior, consideram-se infra-estruturas e serviços básicos de urbanização, nomeadamente, os seguintes:
 
@@ -122,16 +142,16 @@ g) Instalações de serviço de incêndio;
 
 h) Serviço de recolha de lixo.
 
-###### Art. 4.º - 1 - Os custos relativos aos encargos referidos no artigo anterior serão devidamente contabilizados em conta própria pela entidade exploradora do conjunto turístico e por esta fixados de harmonia com o respectivo suporte documental e contabilístico.
+Art. 4.º - 1 - Os custos relativos aos encargos referidos no artigo anterior serão devidamente contabilizados em conta própria pela entidade exploradora do conjunto turístico e por esta fixados de harmonia com o respectivo suporte documental e contabilístico.
 
 2 - Os custos referidos no número anterior serão cobrados aos responsáveis, nos termos do n.º 1 do artigo 3.º, pela entidade exploradora, precedendo comunicação do seu montante à câmara municipal competente.
 
-###### Art. 5.º Consideram-se como não escritas todas as cláusulas que pretendam a existência de poderes próprios de entes públicos na esfera jurídica de pessoas singulares ou colectivas exploradoras de conjuntos turísticos, sem delegação expressa das entidades públicas competentes, bem como qualquer disposição que pretenda limitar a jurisdição das autoridades nacionais competentes.
+Art. 5.º Consideram-se como não escritas todas as cláusulas que pretendam a existência de poderes próprios de entes públicos na esfera jurídica de pessoas singulares ou colectivas exploradoras de conjuntos turísticos, sem delegação expressa das entidades públicas competentes, bem como qualquer disposição que pretenda limitar a jurisdição das autoridades nacionais competentes.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Eurico de Melo - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 10 de Dezembro de 1980.**
+Promulgado em 10 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

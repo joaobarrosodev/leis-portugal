@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2000/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 537a616d3648591a8d7cfcc2a0d8f603f7b5fc336e2d212bfea03500eaf568f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dda20fd236f3cf54e607703b0ba52e2d3f5796dd71a7b663d2b4194f43505c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,25 @@ reuse:
 subjects:
 - Ordenamento do Território
 - Planeamento Urbano
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
-- Urbanismo
+- Política de Solos
 - Regime Jurídico
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:191996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429407:por
+  label: "Alterados os arts. 21º, 30º, 45º, 47º, 51º, 55º, 56º, 57º, 64º, 65º, 66º, 75º, 76º, 77º, 78º, 80º, 81º, 85º, 86º,\
+    \ 87º, 88º, 89º, 91º, 92º, 93º, 94º, 95º, 96º, 97º, 99º, 100º, 104º, 105º, 107º, 113º, 114º, 125º, 139º, 144º, 146º, 148º,\
+    \ 151º, 154º e 155º e revogado o art. 157º todos do Dec Lei 380/99, de 22-Set, alterado pelo presente diploma, pelo DEC\
+    \ LEI.310/2003.10.12.2003.MCOTA, DR.IS-A [284] de 10.12.2003, que o republica com as necessárias correcções materiais\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-2003-429407
+  date: '2003-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -86,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:28Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +157,12 @@ No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/98](https:
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Guilherme d'Oliveira Martins - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Armando António Martins Vara.
 
-**Promulgado em 22 de Março de 2000.**
+Promulgado em 22 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Março de 2000.**
+Referendado em 30 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

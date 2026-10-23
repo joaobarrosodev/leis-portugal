@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/827-1982-374638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a85574c6621c0be4b4e6eeef5df15e75945d6db83c01d01ccc871373a643435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b0b3264e5707fc7a8f908760ed66ce294d0591eb05a47d14158da42b529dcf7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Numerus Clausus
+relationships:
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391982:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375860:por
+  label: Rectificada pela DECL.DD6060.08.09.1982.PCM, DR.IS [219] de 21.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375860
+  date: '1982-09-08'
+- type: corrected_by
+  target: pt:dre:380897:por
+  label: Rectificada pela DECL.DD5872.19.11.1982.PCM, DR.IS [292] de 21.12.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-380897
+  date: '1982-11-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:58Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +116,4 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 Ministério da Educação, 18 de Agosto de 1982. - Pelo Ministro da Educação, René Charles Dupont Prendi Rodrigues da Silva, Subsecretário de Estado da Administração Escolar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/20000/25532557.pdf))](https://files.diariodarepublica.pt/1s/1982/08/20000/25532557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/20000/25532557.pdf)

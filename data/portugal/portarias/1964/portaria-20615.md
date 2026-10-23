@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20615-1964-577125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d0ea1668923bf4fde45df0447a8daaab54b9765b29e8da80071d9c6528f812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a75b832acf9f813fbbf8ac9b4caf5e8a632a816861b75d973d4c68b1f7ce6bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:341014:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:47Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Que sejam aplicados às províncias ultramarinas de Angola e Moçambique, com nova redacção, os artigos 1.º e 2.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958:
 
-###### Artigo 1.º Nos liceus e escolas técnicas profissionais cujos alunos recebam ensino em mais do que um edifício, independentes, ou, embora no mesmo edifício, em regime de desdobramento, bem como nas escolas em que funcionem cursos de aperfeiçoamento, podem, para efeitos pedagógicos e disciplinares, constituir-se secções, cabendo a superintendência de cada secção a um vice-reitor, a um subdirector ou, ainda, a um director de ciclo ou de curso, segundo, para cada caso, for fixado por despacho do governador-geral.
+Artigo 1.º Nos liceus e escolas técnicas profissionais cujos alunos recebam ensino em mais do que um edifício, independentes, ou, embora no mesmo edifício, em regime de desdobramento, bem como nas escolas em que funcionem cursos de aperfeiçoamento, podem, para efeitos pedagógicos e disciplinares, constituir-se secções, cabendo a superintendência de cada secção a um vice-reitor, a um subdirector ou, ainda, a um director de ciclo ou de curso, segundo, para cada caso, for fixado por despacho do governador-geral.
 
 1.º Quando a respectiva frequência o justifique, poderá haver nas secções directores de ciclo ou de curso privativos.
 
 2.º A criação dos lugares a que se refere o corpo deste artigo é feita nos termos da legislação vigente, podendo os mesmos ser providos por professores estranhos ao liceu ou escola a que pertencer a secção.
 
-###### Art. 2.º No mesmo liceu poderá haver mais do que um director de cada ciclo, desde que o número de turmas nesse ciclo seja superior a quinze.
+Art. 2.º No mesmo liceu poderá haver mais do que um director de cada ciclo, desde que o número de turmas nesse ciclo seja superior a quinze.
 
 2.º As normas reguladoras do presente diploma serão aplicadas gradualmente aos liceus e escolas técnicas à medida que o desenvolvimento da população escolar respectiva o for exigindo.
 

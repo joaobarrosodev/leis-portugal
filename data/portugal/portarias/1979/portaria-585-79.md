@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1979-363115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5abebf84cb27ae5ed530e3a02088ae9c1348250a418d8e04d05742ec4f05aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5055804e0b638824572516ee4a2de6210771b6ef14dbe81933e625359d488051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior Militar
+- Gestão Escolar
+- Instituto Superior Militar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:256064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:12Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Regulamento Escolar do Instituto Superior Militar
 
 ### CAPÍTULO I — Articulação do ano escolar
 
-###### Artigo 1.º - 1 - Os trabalhos escolares dos cursos ministrados no Instituto Superior Militar (ISM) distribuem-se ao longo do ano lectivo, em princípio, como segue:
+Artigo 1.º - 1 - Os trabalhos escolares dos cursos ministrados no Instituto Superior Militar (ISM) distribuem-se ao longo do ano lectivo, em princípio, como segue:
 
 a) 1.ª parte:
 
@@ -128,19 +140,19 @@ Exames de 2.ª época - de 1 a 15 de Outubro.
 
 ### CAPÍTULO II — Matrículas, frequência dos trabalhos escolares, faltas e suas consequências
 
-###### Art. 2.º Haverá para cada ano e para cada curso um livro de matrícula onde se lavrarão os termos de:
+Art. 2.º Haverá para cada ano e para cada curso um livro de matrícula onde se lavrarão os termos de:
 
 Abertura do curso, sua eventual interrupção e encerramento;
 
 Matrícula, frequência e resultados obtidos nas provas de avaliação escolar dos alunos.
 
-###### Art. 3.º A presença dos alunos é obrigatória em todos os serviços escolares que lhes forem designados.
+Art. 3.º A presença dos alunos é obrigatória em todos os serviços escolares que lhes forem designados.
 
-###### Art. 4.º Os alunos repetentes de ano frequentam todas as cadeiras do curso desse ano, mas estão dispensados de prestar provas das cadeiras em que já obtiveram aproveitamento, salvo se o requererem ao comandante, para melhoria de nota, e tal for autorizado.
+Art. 4.º Os alunos repetentes de ano frequentam todas as cadeiras do curso desse ano, mas estão dispensados de prestar provas das cadeiras em que já obtiveram aproveitamento, salvo se o requererem ao comandante, para melhoria de nota, e tal for autorizado.
 
 O requerimento deverá ser apresentado na secretaria escolar, no prazo de quinze dias após o início das aulas respectivas.
 
-###### Art. 5.º Perdem o ano escolar:
+Art. 5.º Perdem o ano escolar:
 
 a) Os alunos que no decurso do ano faltem a um quinto ou mais dias úteis de trabalho escolar, ainda que por motivo de doença ou outros devidamente justificados;
 
@@ -150,7 +162,7 @@ b) Os alunos que apresentem, por escrito, declaração de desistência, relativa
 
 § 2.º O aluno autorizado a continuar a frequência do curso, nos termos do parágrafo anterior, caso venha a dar mais faltas, ultrapassando no conjunto de qualquer dos trabalhos escolares dois quintos do número total de tempos atribuídos a esses trabalhos no respectivo plano de curso, será considerado com o ano perdido. Pode o comandante do ISM, ouvido o Conselho Escolar e face ao seu bom aproveitamento escolar, traduzido nas notas publicadas e nas boas informações sobre o seu esforço escolar, propor ao director do Departamento de Instrução do EME a continuação da frequência.
 
-###### Art. 6.º - 1 - São eliminados do curso:
+Art. 6.º - 1 - São eliminados do curso:
 
 a) Os alunos que em qualquer altura do curso, por motivo disciplinar, sejam eliminados por despacho do CEME, mediante proposta do comandante do Instituto, ouvido o Conselho Escolar;
 
@@ -162,7 +174,7 @@ d) Os alunos que durante três anos lectivos não obtenham aprovação em todas 
 
 2 - Quando a perda de frequência do ano escolar tiver sido motivada por desastre em serviço, esta perda não conta, por uma só vez, para os efeitos consignados nas alíneas c) e d) do n.º 1 deste artigo.
 
-###### Art. 7.º - 1 - Regressam imediatamente à anterior situação os alunos que perderam o ano lectivo:
+Art. 7.º - 1 - Regressam imediatamente à anterior situação os alunos que perderam o ano lectivo:
 
 a) Por terem ficados reprovados;
 
@@ -176,7 +188,7 @@ e) Por terem desistido da frequência do curso.
 
 2 - Os alunos referidos nas alíneas a), b) e d) do número anterior serão mandados apresentar no ISM no ano lectivo imediato, para nova matrícula, se ainda não estiverem incursos no disposto nas alíneas c) e d) do n.º 1 do artigo 6.º, conjugado com o n.º 2 do mesmo artigo.
 
-###### Art. 8.º - 1 - A verificação do aproveitamento do aluno faz-se através de dois exames de frequência escritos, para as cadeiras semestrais, e de quatro, para as anuais.
+Art. 8.º - 1 - A verificação do aproveitamento do aluno faz-se através de dois exames de frequência escritos, para as cadeiras semestrais, e de quatro, para as anuais.
 
 § único. Quando um aluno faltar, por motivo justificado, a qualquer prova de frequência, ou não entregar dentro do prazo fixado os trabalhos ou relatórios que lhe tenham sido pedidos no âmbito da cadeira respectiva, o professor marca nova data; se não for julgado possível fazer a prova ou pelo menos conseguir-se que o aluno seja apreciado sobre a totalidade da matéria envolvida nas provas de apreciação normais, o aluno pode perder o ano; a apreciação destes casos é sempre feita em Conselho Escolar e o resultado carece de homologação do comandante do ISM.
 
@@ -192,7 +204,7 @@ Antes do fim do 2.º semestre escolar.
 
 3 - Além dos exames de frequência, que têm carácter obrigatório, haverá ainda avaliações individuais através de chamadas orais, provas práticas ou trabalhos de grupo.
 
-###### Art. 9.º - 1 - A avaliação dos exames finais, exames de frequência, chamadas orais, trabalhos individuais ou colectivos será expressa em valores, de 0 a 20.
+Art. 9.º - 1 - A avaliação dos exames finais, exames de frequência, chamadas orais, trabalhos individuais ou colectivos será expressa em valores, de 0 a 20.
 
 2 - O aproveitamento escolar feito através das provas referidas no número anterior será comunicado ao Conselho Escolar, no final de cada semestre escolar, e ainda quando concluídas a 1.ª e 2.ª épocas de exames finais.
 
@@ -204,7 +216,7 @@ Antes do fim do 2.º semestre escolar.
 
 4 - O comandante do ISM poderá promover a revisão das provas de frequência pelo Conselho Escolar quando o entender necessário ou conveniente e tal seja requerido.
 
-###### Art. 10.º - 1 - São considerados reprovados os alunos que, no final de cada ano lectivo, não obtenham aproveitamento em mais de duas cadeiras.
+Art. 10.º - 1 - São considerados reprovados os alunos que, no final de cada ano lectivo, não obtenham aproveitamento em mais de duas cadeiras.
 
 2 - Os alunos que não tenham obtido aproveitamento em uma ou duas cadeiras serão matriculados no ano seguinte, devendo frequentar a cadeira ou cadeiras em atraso, em regime de voluntariado, sendo, contudo, submetidos a exame de frequência e final se for caso disso:
 
@@ -216,7 +228,7 @@ c) Será considerado nulo o aproveitamento obtido no 2.º ano duma cadeira, se n
 
 ### CAPÍTULO III — Exames
 
-###### Art. 11.º - 1 - Os exames finais realizam-se em duas épocas:
+Art. 11.º - 1 - Os exames finais realizam-se em duas épocas:
 
 a) A 1.ª época, de 11 de Julho a 10 de Agosto;
 
@@ -244,23 +256,23 @@ c) Os alunos repetentes não podem requerer exames para melhoria de classificaç
 
 6 - A duração das provas incluídas na 2.ª parte (2.º ano) do curso D, dada a natureza específica das suas matérias, será fixada, em cada ano, pelo comandante do ISM, ouvida a Inspecção das Bandas e Fanfarras do Exército.
 
-###### Art. 12.º O júri das provas de exame final de cada cadeira será constituído por três professores, entre os quais o da própria cadeira.
+Art. 12.º O júri das provas de exame final de cada cadeira será constituído por três professores, entre os quais o da própria cadeira.
 
-###### Art. 13.º - 1 - De cada prova escrita será lavrado o respectivo termo, assinado por todos os membros do júri e tornada pública a respectiva classificação.
+Art. 13.º - 1 - De cada prova escrita será lavrado o respectivo termo, assinado por todos os membros do júri e tornada pública a respectiva classificação.
 
 2 - Quando qualquer membro do júri não concorde com a classificação proposta pelo professor da respectiva cadeira, poderá recorrer, por escrito, para o comandante do ISM, que decidirá em última instância, depois de ouvido o Conselho Escolar, lavrando-se em seguida o respectivo termo.
 
 3 - Os termos de exame constarão de livros oficiais, que serão assinados por todos os membros do júri e lavrados pelo professor da respectiva cadeira.
 
-###### Art. 14.º - 1 - Os pedidos de revisão de provas escritas de exame (admissão, frequências ou final) deverão ser feitos pelos interessados, por escrito e nos termos regulamentares, sendo dirigidos, através dos respectivos canais hierárquicos, ao comandante do ISM, que decidirá acerca dos pedidos.
+Art. 14.º - 1 - Os pedidos de revisão de provas escritas de exame (admissão, frequências ou final) deverão ser feitos pelos interessados, por escrito e nos termos regulamentares, sendo dirigidos, através dos respectivos canais hierárquicos, ao comandante do ISM, que decidirá acerca dos pedidos.
 
 2 - O prazo máximo para apresentar pedidos de revisão é de dez dias, sobre a data em que se tomaram públicas as classificações respectivas.
 
 ### CAPÍTULO IV — Classificação final anual e ordenamento de curso
 
-###### Art. 15.º A classificação final de cada cadeira será a média das classificações obtidas nas frequências e no exame final, ou apenas a média das frequências para os alunos que não façam exame final.
+Art. 15.º A classificação final de cada cadeira será a média das classificações obtidas nas frequências e no exame final, ou apenas a média das frequências para os alunos que não façam exame final.
 
-###### Art. 16.º A classificação anual de cada aluno será a média aritmética das classificações obtidas em todas as cadeiras do respectivo ano, arredondada até às décimas e, em caso de igualdade de classificação de alunos, até às centésimas ou milésimas, atendendo a que:
+Art. 16.º A classificação anual de cada aluno será a média aritmética das classificações obtidas em todas as cadeiras do respectivo ano, arredondada até às décimas e, em caso de igualdade de classificação de alunos, até às centésimas ou milésimas, atendendo a que:
 
 a) As cadeiras anuais terão o coeficiente 2;
 
@@ -270,7 +282,7 @@ c) As classificações obtidas em exame de 2.ª época não poderão exceder a c
 
 d) Não estão abrangidos pela alínea anterior os alunos que fizerem exames de 2.ª época, nos termos da alínea a) do n.º 2 do artigo 11.º, pelo que a sua classificação será considerada como em exame de 1.ª época.
 
-###### Art. 17.º A classificação final de curso, a atribuir a cada aluno, será quantitativamente expressa pela média aritmética das classificações anuais dos anos de curso, podendo ser aproximada até às milésimas, para efeitos de escalonamento:
+Art. 17.º A classificação final de curso, a atribuir a cada aluno, será quantitativamente expressa pela média aritmética das classificações anuais dos anos de curso, podendo ser aproximada até às milésimas, para efeitos de escalonamento:
 
 a) Aos alunos cuja classificação final de curso seja igual ou superior a 14 valores e inferior a 16 valores será dada a classificação qualitativa de Bom;
 
@@ -278,30 +290,30 @@ b) Aos alunos cuja classificação final de curso seja igual ou superior a 16 va
 
 ### CAPÍTULO V — Dos prémios, certidões e diplomas
 
-###### Art. 18.º - 1 - Poderão ser concedidos prémios a alunos que se distingam nas condições que forem estabelecidas por disposições regulamentares ou normas próprias. Estes prémios serão entregues em sessão solene do ISM.
+Art. 18.º - 1 - Poderão ser concedidos prémios a alunos que se distingam nas condições que forem estabelecidas por disposições regulamentares ou normas próprias. Estes prémios serão entregues em sessão solene do ISM.
 
 2 - Quando o prémio a conceder a alunos ou a outros elementos do ISM for um «louvor» publicado em Ordem de Serviço, será entregue ao elemento louvado a transcrição em diploma do respectivo louvor, assinado pelo comandante do Instituto. Essa entrega far-se-á em sessão solene, em formatura ou em cerimónia privativa.
 
-###### Art. 19.º - 1 - A passagem de certidão de habilitações literárias, a extrair dos respectivos livros do ISM, será autorizada pelo comandante, a pedido dos interessados, e será elaborada nos termos regulamentares.
+Art. 19.º - 1 - A passagem de certidão de habilitações literárias, a extrair dos respectivos livros do ISM, será autorizada pelo comandante, a pedido dos interessados, e será elaborada nos termos regulamentares.
 
 2 - Aos alunos que concluírem com aproveitamento, no ISM, os cursos A, B ou C será passado um diploma do respectivo curso.
 
 3 - Aos alunos do curso D que vão frequentar o 2.º ano noutra unidade ou estabelecimento militar e que concluíram com aproveitamento o respectivo curso, será também passado pelo ISM um diploma de curso.
 
-###### Art. 20.º - 1 - O diploma a passar aos alunos que concluírem os cursos do ISM será de acordo com o modelo anexo.
+Art. 20.º - 1 - O diploma a passar aos alunos que concluírem os cursos do ISM será de acordo com o modelo anexo.
 
 2 - Os modelos de certidões ou de diplomas de curso, respeitantes a elementos de forças armadas estrangeiras que venham a ser admitidos como alunos do ISM, serão os que vierem a ser definidos pelo CEME (n.º 2 do artigo 14.º do [Decreto-Lei n.º 347/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1977-256064), de 23 de Agosto).
 
 ### CAPÍTULO VI — Das férias escolares
 
-###### Art. 21.º Os alunos aprovados no 1.º ano entrarão no gozo de licença de férias para se apresentarem novamente no ISM no início do ano lectivo seguinte.
+Art. 21.º Os alunos aprovados no 1.º ano entrarão no gozo de licença de férias para se apresentarem novamente no ISM no início do ano lectivo seguinte.
 
-###### Art. 22.º Os alunos do 1.º ou 2.º ano que tenham de ser submetidos a exame da 2.ª época estarão igualmente de licença de férias e deverão apresentar-se no Instituto em 1 de Outubro, salvo se expressamente lhes for determinada data de apresentação diferente.
+Art. 22.º Os alunos do 1.º ou 2.º ano que tenham de ser submetidos a exame da 2.ª época estarão igualmente de licença de férias e deverão apresentar-se no Instituto em 1 de Outubro, salvo se expressamente lhes for determinada data de apresentação diferente.
 
-###### Art. 23.º - 1 - Os alunos que concluírem os respectivos cursos até 10 de Agosto de cada ano entrarão no gozo de licença de férias, apresentando-se no ISM na data que lhes for determinada, e seguidamente serão mandados apresentar nas unidades ou estabelecimentos militares onde tiverem sido colocados.
+Art. 23.º - 1 - Os alunos que concluírem os respectivos cursos até 10 de Agosto de cada ano entrarão no gozo de licença de férias, apresentando-se no ISM na data que lhes for determinada, e seguidamente serão mandados apresentar nas unidades ou estabelecimentos militares onde tiverem sido colocados.
 
 2 - Os alunos que concluírem os respectivos cursos na 2.ª época serão mandados apresentar nas unidades ou estabelecimentos militares onde tiverem sido colocados em 16 de Outubro.
 
-**O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.**
+O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25700/28152819.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25700/28152819.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25700/28152819.pdf)

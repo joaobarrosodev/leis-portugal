@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1984-400013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T08:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81be4ad67675739531ae87a8f15f3aaa32c6c21a4d9757cb8f7a207ef520f2f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77552feb571b1760499562bd02f70f292ec0523b55862155849b58a5d591a297
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:13:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola Superior da Polícia
+- Fardamento
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:376615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654542:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:13:18Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +116,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Administração Inter
 
 #### SECÇÃO I — Generalidades
 
-###### Art. 27.º Neste capítulo são descritos os artigos de uso dos elementos da Escola Superior de Polícia, dotações e distribuição, plano de uniformes e disposições gerais aplicáveis aos oficiais alunos e cadetes da Escola Superior de Polícia.
+Art. 27.º Neste capítulo são descritos os artigos de uso dos elementos da Escola Superior de Polícia, dotações e distribuição, plano de uniformes e disposições gerais aplicáveis aos oficiais alunos e cadetes da Escola Superior de Polícia.
 
 #### SECÇÃO II — Artigos de uniforme e distintivos
 
-###### Art. 28.º Os artigos de uniforme e distintivos dos alunos da Escola Superior, descritos por ordem alfabética para facilidade de consulta, são os seguintes:
+Art. 28.º Os artigos de uniforme e distintivos dos alunos da Escola Superior, descritos por ordem alfabética para facilidade de consulta, são os seguintes:
 
 1 - Barrete (fig. 1). - Tem o feitio da figura, sendo confeccionado com o mesmo tecido da camisa de instrução, de cor azul-escura. A pala é redonda entretelada e toda pespontada a 0,5 cm, paralelamente ao rebordo.
 
@@ -265,54 +276,54 @@ O comprimento da gabardina deve ser tal que a orla inferior fique a uma mão tra
 
 #### SECÇÃO II — Plano de uniformes
 
-###### Art. 29.º Os artigos que constituem o grande uniforme ou uniforme de representação são os seguintes:
+Art. 29.º Os artigos que constituem o grande uniforme ou uniforme de representação são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
 
 Nota. - Usa-se com medalhas e condecorações em actos de grande cerimónia. Usa-se com fitas das medalhas e condecorações nas outras cerimónias.
 
-###### Art. 30.º Os artigos de fardamento que compõem o uniforme normal ou de serviço interno são os seguintes:
+Art. 30.º Os artigos de fardamento que compõem o uniforme normal ou de serviço interno são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
 
-###### Art. 31.º Os artigos de fardamento que compõem o uniforme de instrução ou fato de trabalho são os seguintes:
+Art. 31.º Os artigos de fardamento que compõem o uniforme de instrução ou fato de trabalho são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
 
-###### Art. 32.º Os artigos de fardamento que compõem o fardamento gimnodesportivo são os seguintes:
+Art. 32.º Os artigos de fardamento que compõem o fardamento gimnodesportivo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
 
 #### SECÇÃO III — Dotações e distribuição
 
-###### Art. 33.º As dotações dos vários artigos de uniforme são as seguintes:
+Art. 33.º As dotações dos vários artigos de uniforme são as seguintes:
 
 a) Dotação inicial, a distribuir no princípio do curso;
 
 b) Dotação suplementar, a distribuir aos alunos que transitam para o 3.º ano.
 
-###### Art. 34.º Os artigos de fardamento e distintivos, bem como a quantidade a distribuir pelas respectivas dotações, são os seguintes:
+Art. 34.º Os artigos de fardamento e distintivos, bem como a quantidade a distribuir pelas respectivas dotações, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
 
 #### SECÇÃO IV — Disposições gerais
 
-###### Art. 35.º Os alunos da Escola Superior de Polícia recebem o fardamento por conta do Estado, através da Escola Superior de Polícia, nos termos do respectivo plano de uniformes e dentro das demais disposições legais em vigor.
+Art. 35.º Os alunos da Escola Superior de Polícia recebem o fardamento por conta do Estado, através da Escola Superior de Polícia, nos termos do respectivo plano de uniformes e dentro das demais disposições legais em vigor.
 
-###### Art. 36.º Os alunos que solicitem a desistência do curso indemnizarão a Fazenda Nacional relativamente ao fardamento, em função dos anos de curso que vão deixar de frequentar e atendendo à duração dos dois tipos de dotação (5 anos e 3 anos). Se, na altura do espólio do fardamento, se verificar a falta de qualquer artigo, será cobrado na entrega o respectivo valor.
+Art. 36.º Os alunos que solicitem a desistência do curso indemnizarão a Fazenda Nacional relativamente ao fardamento, em função dos anos de curso que vão deixar de frequentar e atendendo à duração dos dois tipos de dotação (5 anos e 3 anos). Se, na altura do espólio do fardamento, se verificar a falta de qualquer artigo, será cobrado na entrega o respectivo valor.
 
 Os preços a considerar serão os que vigoravam à data da distribuição.
 
-###### Art. 37.º A duração do fardamento corresponderá ao tempo de permanência na ESP e no tirocínio. Quaisquer substituições que os alunos pretendam efectuar ou que lhes venham a ser impostas pelo mau estado de fardamento serão da sua exclusiva responsabilidade. Serão cobertos pela Fazenda Nacional os artigos danificados por qualquer evento em relação ao qual os alunos sejam alheios.
+Art. 37.º A duração do fardamento corresponderá ao tempo de permanência na ESP e no tirocínio. Quaisquer substituições que os alunos pretendam efectuar ou que lhes venham a ser impostas pelo mau estado de fardamento serão da sua exclusiva responsabilidade. Serão cobertos pela Fazenda Nacional os artigos danificados por qualquer evento em relação ao qual os alunos sejam alheios.
 
-###### Art. 38.º A identificação dos diferentes anos do curso far-se-á pela utilização de estrelas no uniforme, correspondendo o seu número ao ano de frequência.
+Art. 38.º A identificação dos diferentes anos do curso far-se-á pela utilização de estrelas no uniforme, correspondendo o seu número ao ano de frequência.
 
-###### Art. 39.º Qualquer alteração a este plano de uniformes será determinada por portaria do Ministro da Administração Interna, mediante proposta do Comando-Geral da PSP.
+Art. 39.º Qualquer alteração a este plano de uniformes será determinada por portaria do Ministro da Administração Interna, mediante proposta do Comando-Geral da PSP.
 
 Ministério da Administração Interna.
 
-**Assinada em 17 de Setembro de 1984.**
+Assinada em 17 de Setembro de 1984.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf))](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/10/23600/31353166.pdf)

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2010/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feda1927a8cad781b6a619ae8c3e29f56da89d0f28d1da14464a97f295c3cd90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db9c8af486dcdd9e1d6d7614a075aecc197027f0ef238bd7d06cfce0aa678358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
+- ASAE
+- Combustível
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
 - Definição de Competências
-- Poluição Atmosférica
-- Petróleo
-- Produto Petrolífero
+- Direção Geral de Energia e Geologia
 - Enxofre
 - Especificação Técnica
-- Combustível
 - Fiscalização
 - Fuelóleo
-- Direção Geral de Energia e Geologia
 - Gás Propano
 - Gasóleo
 - Gasolina
-- ASAE
-- Proteção do Ambiente
 - Madeira.região Autónoma
-- Açores
+- Petróleo
+- Poluição Atmosférica
+- Produto Petrolífero
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:114337041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25698150:por
+  label: "Autorizada a utilização dos métodos de ensaio referidos na EN 228:2012 (Automotive fuels - Unleaded petrol - Requirements\
+    \ and test methods) e EN 590:2013 (Automotive fuels - Diesel - Requirements and test methods) complementarmente aos estabelecidos\
+    \ no presente diploma, pelo DESP.5617/2014.28.04.2014.DGEG-MAOTE, DR.IIS [81] de 28.04.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5617-2014-25698150
+  date: '2014-04-28'
+- type: amended_by
+  target: pt:dre:58815311:por
+  label: Dada nova redação aos arts. 2.º, 4.º-B e 6.º do Dec Lei 281/2008 de 10-nov, alterado pelo presente diploma, pelo
+    (a) Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-b-2014-58815311
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:70409927:por
+  label: Alterados os arts. 14.º, 15.º e 16.º e os anexos I (a alteração deste produz efeitos no prazo de 180 dias após a
+    entrada em vigor do Decreto-Lei 214-E/2015), III e V do Dec Lei 89/2008 de 30-mai, com a redação e republicação do presente
+    diploma, pelo(a) Decreto-Lei n.º 214-E/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-e-2015-70409927
+  date: '2015-09-30'
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Alterados, a partir de 01.01.2018, os arts. 2.º, 10.º-A, 13.º, 14.º (este na redação do Dec Lei 214-E/2015 de 30-set),
+    14.º-A, 15.º e 16.º (os dois últimos na redação do Dec Lei 214-E/2015 de 30-set) e os anexos I, III, V (os três na redação
+    do Dec Lei 214-E/2015 de 30-set) e VIII e revogadas as als. d) e e) do art. 2.º e o n.º 2 do art.10.º-A do Dec Lei 89/2008
+    de 30-mai, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 152-C/2017 - Diário da República n.º 236/2017,
+    2º Suplemento, Série I de 2017-12-11 nos termos da al. b) do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
 - type: cites
   target: celex:31970L0220
   label: null
@@ -150,15 +179,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2000
 article_structure:
-  article_count: 43
+  article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:30Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +266,9 @@ s) ...
 
 t) ...
 
-###### Artigo 4.º-B — Teor máximo de enxofre dos combustíveis navais utilizados pelos navios atracados em portos comunitários
+Artigo 4.º-B
+
+Teor máximo de enxofre dos combustíveis navais utilizados pelos navios atracados em portos comunitários
 
 1 - ...
 
@@ -257,7 +288,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +326,9 @@ a) Estabelecer as normas referentes às especificações técnicas aplicáveis a
 
 b) Definir as regras para o controlo de qualidade dos carburantes rodoviários e as condições para a comercialização de misturas de biocombustíveis com gasolina e gasóleo para a propulsão de veículos, em concentrações de biocombustíveis superiores a 10 % em volume de bioetanol ou superiores a 7 % em volume de FAME.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -323,13 +358,17 @@ m) 'Emissões de gases com efeito de estufa ao longo do ciclo de vida' todas as 
 
 n) 'Emissões de gases com efeito de estufa por unidade de energia' a massa total em equivalente de CO(índice 2) das emissões de gases com efeito de estufa associadas ao combustível ou à energia fornecida, dividida pelo conteúdo energético total do combustível ou da energia fornecida, para o combustível, expressa sob a forma do seu poder calorífico inferior.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As especificações do propano e butano, designados como gases de petróleo liquefeitos, ou GPL, destinados ao mercado interno nacional para uso como combustível, são as constantes do anexo i do presente decreto-lei, que dele faz parte integrante.
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As especificações das gasolinas destinadas ao mercado interno nacional são as constantes no anexo iii do presente decreto-lei, que dele faz parte integrante.
 
@@ -353,7 +392,9 @@ n) 'Emissões de gases com efeito de estufa por unidade de energia' a massa tota
 
 11 - (Anterior n.º 5.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As especificações do combustível para motores de ignição por compressão destinados ao mercado interno nacional, com a designação comum de gasóleo rodoviário, são as constantes do anexo v do presente decreto-lei, que dele faz parte integrante.
 
@@ -369,7 +410,9 @@ n) 'Emissões de gases com efeito de estufa por unidade de energia' a massa tota
 
 7 - A informação prevista no número anterior deve constar do sítio da Internet das entidades que introduzem o combustível no consumo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As especificações das misturas de biocombustíveis com gasolina e gasóleo para veículos, destinadas ao mercado interno nacional, com concentrações de biocombustíveis superiores a 10 % em volume de bioetanol e superiores a 7 % em volume de FAME são as constantes dos anexos iii e v do presente decreto-lei, que dele fazem parte integrante, à excepção dos valores fixados para os teores máximos desses biocombustíveis.
 
@@ -393,7 +436,9 @@ c) A informação adequada sobre a utilização apropriada das diferentes mistur
 
 8 - A referência, em legislação anterior a este decreto-lei, a misturas de biocombustíveis com derivados de petróleo com concentrações de biocombustíveis superiores a 5 % em volume deve entender-se como dizendo respeito a concentrações de biocombustíveis superiores a 10 % em volume de bioetanol ou superiores a 7 % em volume de FAME.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -413,7 +458,9 @@ c) A informação adequada sobre a utilização apropriada das diferentes mistur
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -427,7 +474,9 @@ d) ...
 
 e) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -453,7 +502,9 @@ j) O incumprimento do disposto nos n.os 3, 4, 5 e 6 do artigo 14.º-A.
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas no artigo 13.º às DRE e à DGEG, bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à ASAE.
 
@@ -471,7 +522,9 @@ d) 15 % para a DRE territorialmente competente pelo controlo de qualidade do com
 
 e) 5 % para a DGEG, entidade responsável pela coordenação da execução do sistema de controlo de qualidade.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -503,7 +556,9 @@ Aditivos metálicos
 
 6 - A dimensão da inscrição e o formato dos caracteres devem ser de molde a tornar a informação bem visível e de fácil leitura.
 
-###### Artigo 14.º-A — Redução das emissões de gases com efeito de estufa
+Artigo 14.º-A
+
+Redução das emissões de gases com efeito de estufa
 
 1 - O disposto no presente artigo aplica-se:
 
@@ -563,13 +618,13 @@ O presente decreto-lei entra em vigor no dia 1 de Janeiro de 2011.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Carlos das Dores Zorrinho - António Augusto da Ascenção Mendonça - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 28 de Dezembro de 2010.**
+Promulgado em 28 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Dezembro de 2010.**
+Referendado em 29 de Dezembro de 2010.
 
 Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.
 
@@ -577,37 +632,37 @@ Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presid�
 
 ## ANEXO I — Especificações dos gases de petróleo liquefeitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO II — Especificações do GPL carburante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO III — Especificações das gasolinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO IV — Especificações dos petróleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO V — Especificações dos gasóleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO VI — Especificações do gasóleo de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO VII — Especificações dos fuelóleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 4.º)
 
 ## ANEXO VIII — Valores autorizados por derrogação para a tensão de vapor da gasolina que contém bioetanol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO III — (a que se refere o artigo 7.º)
 
@@ -943,28 +998,28 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO I — Especificações dos gases de petróleo liquefeitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO II — Especificações do GPL carburante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO III — Especificações das gasolinas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO IV — Especificações dos petróleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO V — Especificações dos gasóleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO VI — Especificações do gasóleo de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
 
 ## ANEXO VII — Especificações dos fuelóleos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25300/0609806119.pdf)

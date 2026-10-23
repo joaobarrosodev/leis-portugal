@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11700/11341136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-1976-428217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c097b251a91f3211474349f6621d173a2bd9747c50008a43adfef1343f2074d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4b953ebb8905c7cfceb802009e757133ab818b6830b847463533b2a80bef676
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Inspecção Geral
+- Ministério do Trabalho
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:621349:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:621349:por
+  label: "Revogada pelo DEC LEI.47/78.21.03.1978.MT, DR.IS [67]Supl de 21.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1978-621349
+  date: '1978-03-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:01:26Z'
   warnings: []
   errors: []
 ---
@@ -90,23 +103,23 @@ de 19 de Maio
 
 Manda o Governo da República Portuguesa, pelo Ministro do Trabalho, nos termos do artigo 25.º do [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Inspecção-Geral do Ministério do Trabalho, que faz parte integrante desta portaria.
+Artigo 1.º É aprovado o Regulamento da Inspecção-Geral do Ministério do Trabalho, que faz parte integrante desta portaria.
 
-###### Art. 2.º O Regulamento entra imediatamente em vigor.
+Art. 2.º O Regulamento entra imediatamente em vigor.
 
 Ministério do Trabalho, 21 de Abril de 1976. - O Ministro do Trabalho, João Pedro Tomás Rosa.
 
 REGULAMENTO DA INSPECÇÃO-GERAL DO MINISTÉRIO DO TRABALHO
 
-###### Artigo 1.º A Inspecção-Geral do Ministério do Trabalho, criada pelo [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, passa a reger-se pelas disposições do presente Regulamento.
+Artigo 1.º A Inspecção-Geral do Ministério do Trabalho, criada pelo [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, passa a reger-se pelas disposições do presente Regulamento.
 
-###### Art. 2.º São atribuições da Inspecção-Geral do Ministério do Trabalho:
+Art. 2.º São atribuições da Inspecção-Geral do Ministério do Trabalho:
 
 a) O exercício da acção fiscalizadora sobre o funcionamento dos órgãos e serviços do Ministério;
 
 b) A execução de outras missões determinadas pelo Ministro do Trabalho.
 
-###### Art. 3.º No exercício da acção fiscalizadora, incumbe à Inspecção-Geral do Ministério do Trabalho:
+Art. 3.º No exercício da acção fiscalizadora, incumbe à Inspecção-Geral do Ministério do Trabalho:
 
 a) A verificação do exacto cumprimento das normas reguladoras do funcionamento dos órgãos e serviços do Ministério;
 
@@ -120,17 +133,17 @@ e) A emissão de pareceres sobre os recursos hierárquicos interpostos das decis
 
 f) A realização de visitas periódicas a todos os órgãos e serviços do Ministério.
 
-###### Art. 4.º A Inspecção-Geral do Ministério do Trabalho pode, ainda, por determinação do Ministro, ser incumbida de outras missões, nomeadamente estudos e inquéritos, visando:
+Art. 4.º A Inspecção-Geral do Ministério do Trabalho pode, ainda, por determinação do Ministro, ser incumbida de outras missões, nomeadamente estudos e inquéritos, visando:
 
 a) A avaliação dos efeitos externos que decorrem do funcionamento dos órgãos e serviços do Ministério;
 
 b) A análise da situação económico-financeira de empresas e o apuramento das responsabilidades inerentes à respectiva gestão.
 
-###### Art. 5.º - 1. A Inspecção-Geral do Ministério do Trabalho é dirigida por um inspector-geral e compreende dois departamentos, designados abreviadamente por DEP (SET/OCCA) e DEP (SEE/SEFP), e uma secretaria.
+Art. 5.º - 1. A Inspecção-Geral do Ministério do Trabalho é dirigida por um inspector-geral e compreende dois departamentos, designados abreviadamente por DEP (SET/OCCA) e DEP (SEE/SEFP), e uma secretaria.
 
 2. Os departamentos são integrados por um corpo de inspectores e um núcleo de apodo técnico.
 
-###### Art. 6.º - 1. Compete ao inspector-geral orientar e coordenar superiormente os serviços da Inspecção-Geral e, em especial:
+Art. 6.º - 1. Compete ao inspector-geral orientar e coordenar superiormente os serviços da Inspecção-Geral e, em especial:
 
 a) Efectuar visitas, inspecções, inquéritos e sindicâncias;
 
@@ -164,7 +177,7 @@ n) Representar externamente a Inspecção-Geral.
 
 4. O inspector-geral é substituído nas suas faltas e impedimentos pelo inspector superior que designar ou, na impossibilidade de designação, pelo mais antigo que se encontrar em funções.
 
-###### Art. 7.º - 1. Os departamentos da Inspecção-Geral exercerão a sua acção visando especialmente:
+Art. 7.º - 1. Os departamentos da Inspecção-Geral exercerão a sua acção visando especialmente:
 
 a) O DEP (SET/OCCA), os serviços da Secretaria de Estado do Trabalho e os órgãos de concepção, coordenação e apoio do Ministério;
 
@@ -174,7 +187,7 @@ b) O DEP (SEE/SEFP), os serviços da Secretaria de Estado do Emprego e da Secret
 
 3. Os departamentos são dirigidos por inspectores superiores.
 
-###### Art. 8.º - 1. Compete aos inspectores superiores:
+Art. 8.º - 1. Compete aos inspectores superiores:
 
 a) Coadjuvar o inspector-geral no exercício das suas funções, executando as suas ordens e observando as suas instruções;
 
@@ -196,7 +209,7 @@ i) Desempenhar as demais funções que lhes forem determinadas.
 
 2. Os inspectores superiores são substituídos nas suas faltas e impedimentos pelos inspectores-adjuntos em serviço nos respectivos departamentos por eles designados ou, na impossibilidade de designação, pelos inspectores-adjuntos mais antigos.
 
-###### Art. 9.º - 1. Ao corpo de inspectores, composto de inspectores-adjuntos e inspectores de 1.ª ou 2.ª classe, compete, em geral:
+Art. 9.º - 1. Ao corpo de inspectores, composto de inspectores-adjuntos e inspectores de 1.ª ou 2.ª classe, compete, em geral:
 
 a) Coadjuvar os inspectores superiores;
 
@@ -208,7 +221,7 @@ c) Cumprir as ordens e instruções que lhes forem dadas pelos inspectores super
 
 3. Os serviços se podem exceder o prazo de noventa dias, mediante autorização do Ministro.
 
-###### Art. 10.º - 1. Os núcleos de apoio técnico são compostos por técnicos superiores, adjuntos técnicos e técnicos auxiliares.
+Art. 10.º - 1. Os núcleos de apoio técnico são compostos por técnicos superiores, adjuntos técnicos e técnicos auxiliares.
 
 2. Aos técnicos superiores compete, em geral:
 
@@ -220,7 +233,7 @@ c) Assessorar os inspectores, quando tal lhes for determinado pelo respectivo in
 
 3. Aos adjuntos técnicos e aos técnicos auxiliares compete, em geral, coadjuvar os inspectores e os técnicos superiores, bem como executar outros serviços, de harmonia com o que lhes for determinado pelos inspectores superiores.
 
-###### Art. 11.º - 1. A Secretaria terá um responsável, directamente dependente do inspector-geral.
+Art. 11.º - 1. A Secretaria terá um responsável, directamente dependente do inspector-geral.
 
 2. São atribuições da Secretaria:
 
@@ -240,18 +253,18 @@ g) A realização de quaisquer outras tarefas de natureza administrativa que lhe
 
 3. A Secretaria disporá de pessoal administrativo indispensável à execução dos seus serviços, destacado de outros organismos do Ministério ou recrutado nos termos da legislação em vigor sobre excedentes de pessoal da administração pública.
 
-###### Art. 12.º - 1. Junto do inspector-geral e na sua directa dependência funciona um secretariado.
+Art. 12.º - 1. Junto do inspector-geral e na sua directa dependência funciona um secretariado.
 
 2. O secretariado é constituído por pessoal de escolha do inspector-geral e assegurará o expediente próprio deste e as ligações com os serviços da Inspecção-Geral, organismos do Ministério e outras entidades.
 
-###### Art. 13.º Todas es reclamações, queixas ou denúncias dirigidas à Inspecção-Geral serão consideradas estritamente confidenciais.
+Art. 13.º Todas es reclamações, queixas ou denúncias dirigidas à Inspecção-Geral serão consideradas estritamente confidenciais.
 
-###### Art. 14.º As lotações do pessoal dos departamentos e da secretaria da Inspecção-Geral serão fixadas por despacho do Ministro do Trabalho.
+Art. 14.º As lotações do pessoal dos departamentos e da secretaria da Inspecção-Geral serão fixadas por despacho do Ministro do Trabalho.
 
-###### Art. 15.º A Inspecção-Geral pode solicitar directamente aos órgãos e serviços do Ministério as informações e elementos necessários à prossecução das suas atribuições.
+Art. 15.º A Inspecção-Geral pode solicitar directamente aos órgãos e serviços do Ministério as informações e elementos necessários à prossecução das suas atribuições.
 
-###### Art. 16.º Ao inspector-geral, inspectores superiores e elementos do corpo de inspectores serão passados cartões de identidade de modelo próprio, aprovado por portaria do Ministro do trabalho que lhes facultarão a entrada nos serviços onde tiverem de exercer as suas funções.
+Art. 16.º Ao inspector-geral, inspectores superiores e elementos do corpo de inspectores serão passados cartões de identidade de modelo próprio, aprovado por portaria do Ministro do trabalho que lhes facultarão a entrada nos serviços onde tiverem de exercer as suas funções.
 
-###### Art. 17.º As dúvidas suscitadas na execução do presente Regulamento serão resolvidas por despacho do Ministro do Trabalho, sob informação do inspector-geral do Ministro do Trabalho.
+Art. 17.º As dúvidas suscitadas na execução do presente Regulamento serão resolvidas por despacho do Ministro do Trabalho, sob informação do inspector-geral do Ministro do Trabalho.
 
 Ministério do Trabalho, 21 de Abril de 1976. - O Ministro do Trabalho, João Pedro Tomás Rosa.

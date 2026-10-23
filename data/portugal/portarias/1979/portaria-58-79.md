@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-1979-392665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f22df0449e3d7f649af791ae76078a72b500adf39c89e4e79e95a461b4138121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06dbeacf4fb188660abaaf02f54b83d2ec874fbc4c372a9ae7fe210f7e54121c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Inscrição Marítima
+- Pesca
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:06Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 2 - O § 2.º do artigo 3.º, o § único do artigo 8.º, o artigo 59.º, o artigo 60.º, o artigo 61.º, o artigo 62.º, o § único do artigo 63.º, o artigo 64.º, o artigo 65.º, o § 4.º do artigo 139.º, os pontos 3.º e 4.º do artigo 141.º e as respectivas alíneas a), e o artigo 164.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § 2.º ...
 
@@ -160,13 +172,13 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § único. Para a inscrição deve o interessado demonstrar que sabe nadar e remar por provas práticas, ou apresentar certidão comprovativa de tais aptidões passada por escolas oficiais dependentes da Secretaria de Estado das Pescas ou da Marinha Mercante.
 
 ...
 
-###### Art. 59.º O inscrito marítimo que queira adquirir a categoria de mestre do alto pescador necessita:
+Art. 59.º O inscrito marítimo que queira adquirir a categoria de mestre do alto pescador necessita:
 
 a) Ser mestre costeiro pescador com, pelo menos, um ano de exercício efectivo nesta categoria e estar habilitado com o curso das escolas profissionais de pesca para mestre do alto pescador;
 
@@ -174,11 +186,11 @@ b) Ser contramestre pescador com, pelo menos, três anos de exercício efectivo 
 
 § único. O marítimo habilitado com a categoria de mestre do alto pescador poderá comandar qualquer embarcação registada na pesca do alto ou costeira até 500 tAB.
 
-###### Art. 60.º O inscrito marítimo que queira adquirir a categoria de mestre costeiro pescador necessita ser contramestre pescador com, pelo menos, um ano de exercício efectivo nesta categoria e estar habilitado com o curso das escolas profissionais de pesca para mestre costeiro pescador.
+Art. 60.º O inscrito marítimo que queira adquirir a categoria de mestre costeiro pescador necessita ser contramestre pescador com, pelo menos, um ano de exercício efectivo nesta categoria e estar habilitado com o curso das escolas profissionais de pesca para mestre costeiro pescador.
 
 § único. O mestre costeiro pescador poderá comandar qualquer embarcação registada na pesca costeira até 200 tAB.
 
-###### Art. 61.º O inscrito marítimo que queira adquirir a categoria de contramestre pescador necessita:
+Art. 61.º O inscrito marítimo que queira adquirir a categoria de contramestre pescador necessita:
 
 a) Ser arrais de pesca costeira com, pelo menos, um ano de exercício efectivo nesta categoria e estar habilitado com o curso das escolas profissionais de pesca para contramestre pescador;
 
@@ -186,23 +198,23 @@ b) Ser marinheiro pescador com, pelo menos, dois anos de exercício efectivo nes
 
 c) Ser pescador com, pelo menos, oito anos de exercício efectivo nesta categoria e estar habilitado com o curso das escolas Profissionais de pesca para contramestre pescador.
 
-###### Art. 62.º O inscrito marítimo que queira adquirir a categoria de marinheiro pescador necessita possuir o correspondente curso das escolas profissionais de pesca, seguido de um ano de tirocínio de embarque em embarcações de pesca, sendo, pelo menos, seis meses em embarcações de pesca do alto ou longínqua.
+Art. 62.º O inscrito marítimo que queira adquirir a categoria de marinheiro pescador necessita possuir o correspondente curso das escolas profissionais de pesca, seguido de um ano de tirocínio de embarque em embarcações de pesca, sendo, pelo menos, seis meses em embarcações de pesca do alto ou longínqua.
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 § único. O inscrito marítimo habilitado com a categoria de arrais de pesca costeira poderá governar embarcações de pesca até 30 tAB e na sua carta deverá ser indicada a zona para que a mesma tem validade.
 
-###### Art. 64.º O inscrito marítimo que queira adquirir a categoria de arrais de pesca local necessita ter servido em embarcações de pesca pelo tempo mínimo de três anos e provar, por exame, que está habilitado a desempenhar essas funções.
+Art. 64.º O inscrito marítimo que queira adquirir a categoria de arrais de pesca local necessita ter servido em embarcações de pesca pelo tempo mínimo de três anos e provar, por exame, que está habilitado a desempenhar essas funções.
 
 § 1.º O inscrito marítimo habilitado com a carta de arrais de pesca local pode governar qualquer embarcação registada na pesca local.
 
 § 2.º Para governar qualquer embarcação de pesca local de tonelagem inferior a 2 tAB, em zonas de reduzido tráfego marítimo, poderá ser dispensada a carta de exame a que este artigo se refere e ser matriculado como arrais de pesca local o pescador a quem a respectiva autoridade marítima reconheça competência para o exercício dessa função.
 
-###### Art. 65.º O indivíduo que queira adquirir a categoria de pescador ou moço pescador terá apenas de obedecer aos requisitos constantes do artigo 8.º deste diploma, não podendo o candidato a moço pescador ter idade superior a 16 anos.
+Art. 65.º O indivíduo que queira adquirir a categoria de pescador ou moço pescador terá apenas de obedecer aos requisitos constantes do artigo 8.º deste diploma, não podendo o candidato a moço pescador ter idade superior a 16 anos.
 
 § único. A categoria de pescador será também atribuída aos indivíduos habilitados com o curso de marinheiro pescador das escolas profissionais de pesca, para efeitos do tirocínio de embarque a que se refere o artigo 62.º
 
-###### Art. 139.º ...
+Art. 139.º ...
 
 ...
 
@@ -210,7 +222,7 @@ c) Ser pescador com, pelo menos, oito anos de exercício efectivo nesta categori
 
 ...
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 ...
 
@@ -226,7 +238,7 @@ a) Para as funções de arrais de pesca costeira, arrais de pesca local, arrais 
 
 ...
 
-###### Art. 164.º Os exames para obtenção das cartas a seguir mencionadas deverão ser sempre efectuados a bordo de qualquer navio de guerra ou mercante surto no porto e os interrogatórios conduzidos em presença do material: mestre costeiro, contramestre, maquinistas práticos de 1.ª e 2.ª classes, motoristas práticos de 1.ª, 2.ª e 3.ª classes, fogueiro e electricistas de 1.ª e 2.ª classes.
+Art. 164.º Os exames para obtenção das cartas a seguir mencionadas deverão ser sempre efectuados a bordo de qualquer navio de guerra ou mercante surto no porto e os interrogatórios conduzidos em presença do material: mestre costeiro, contramestre, maquinistas práticos de 1.ª e 2.ª classes, motoristas práticos de 1.ª, 2.ª e 3.ª classes, fogueiro e electricistas de 1.ª e 2.ª classes.
 
 3 - São revogados os artigos 147.º, 148.º e 149.º do RIM.
 

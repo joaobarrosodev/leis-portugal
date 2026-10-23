@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/083a00/19221923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/1999/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1999-542229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad973fa3bc0c0eb7a870a8777328af1fdefc46ab7e47c7aa92e7625a52c69ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ffecb0dedeaf0f97c381b0403358ed57b5ad41f5ca7c2ed3e9bd1249a2e8bcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Açores
 - Aproximação das Legislações
 - Carne
 - Carne de Caprino
 - Carne de Cavalo
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
 - CEE
-- Controlo Sanitário
-- Saúde Pública
-- Carne de Ovino
-- Instituto de Protecção da Produção Agro-Alimentar
-- Política Agrícola Comum
-- Madeira.região Autónoma
-- Regulamento
-- Açores
 - Comércio
+- Controlo Sanitário
+- Instituto de Protecção da Produção Agro-Alimentar
+- Madeira.região Autónoma
+- Política Agrícola Comum
+- Produção Animal
+- Regulamento
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
@@ -110,16 +110,22 @@ relationships:
   target: celex:31995L0005
   label: null
   source: http://data.europa.eu/eli/dir/1995/5/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada a Port 271/95, de 04-Abr, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:34Z'
   warnings: []
   errors: []
 ---
@@ -144,12 +150,12 @@ No n.º 2.º da Portaria n.º 271/95, de 4 de Abril, a expressão «Até 31 de D
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Luís Medeiros Vieira - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 24 de Março de 1999.**
+Promulgado em 24 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1999.**
+Referendado em 26 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

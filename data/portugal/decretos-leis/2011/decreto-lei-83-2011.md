@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2011-670030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77a513421e0d188a7acff350a4f9b541f48462475d630da63d938d0c45bccd01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d0b44266307b73205ea5ba99802b76c1fd2d2e8cfa18b69d33b42897944372c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Aproximação das Legislações
-- CEE
-- Controlo de Qualidade
-- Descarga de ÁGUA Residual
-- Controlo Sanitário
-- Saúde Pública
-- Fiscalização
-- Certificado de Qualidade
-- Proteção do Ambiente
 - Águas Residuais
-- Poluição da água
 - Águas Subterrâneas
+- Aproximação das Legislações
+- Atividade Industrial
+- CEE
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Controlo Sanitário
+- Descarga de ÁGUA Residual
+- Fiscalização
+- Poluição da água
+- Proteção do Ambiente
+- Saúde Pública
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:114315242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70476206:por
+  label: Alterado o art 9.º, na redação do presente diploma, do Dec Lei 103/2010, de 24-set, republicando-o no anexo II, pelo(a)
+    Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2015-70476206
+  date: '2015-10-07'
 - type: cites
   target: celex:32000L0060
   label: null
@@ -101,13 +107,13 @@ relationships:
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:58Z'
   warnings: []
   errors: []
 ---
@@ -258,12 +264,12 @@ Os actos e procedimentos necessários à execução do presente decreto-lei nas 
 
 Visto e aprovado em Conselho de Ministros de 7 de Abril de 2011. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José Carlos das Dores Zorrinho - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
 
-**Promulgado em 2 de Junho de 2011.**
+Promulgado em 2 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Junho de 2011.**
+Referendado em 9 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

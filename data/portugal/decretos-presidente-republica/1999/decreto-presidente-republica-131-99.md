@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/131/1999/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/131-1999-534638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb140a957d27910a4350926cb94dad77ac1eb2d51bb3bbd4611b7bc1047d2c82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1a60efbe1e5be2012918ca74f15bab8ba8c561aa148708a4cc8802c0a4bbf74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Arbitragem
-- Crime
+- Aviação Civil
 - Avião
 - Convenção
-- Portugal
-- Segurança Pública
-- Macau
+- Crime
 - HAIA
-- Aviação Civil
+- Macau
+- Portugal
 - Responsabilidade Criminal
 - Responsabilidade Internacional
 - Segurança Aérea
+- Segurança Pública
 - Tribunal Internacional de Justiça
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:691646:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:43Z'
   warnings: []
   errors: []
 ---
@@ -98,14 +102,14 @@ validation:
 
 de 22 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção para a Repressão da Captura Ilícita de Aeronaves, de 16 de Dezembro de 1970, aprovada pelo [Decreto n.º 386/72](https://diariodarepublica.pt/dr/detalhe/decreto/386-1972-691646), de 12 de Outubro, cujo texto foi publicado no Diário do Governo, 1.ª série, de 12 de Outubro de 1972.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 15 de Abril de 1999.**
+Assinado em 15 de Abril de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

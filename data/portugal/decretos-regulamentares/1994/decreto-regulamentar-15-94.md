@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/1994/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d733e696eb3657ea6b2ef8b08b282f3a312ea56a3bc9aca3073b1bac9cf5be6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15c6cc0affa855c87c5202bdc51ddfb10d3d5b07930877ae83b4bc2565e10bed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Departamento para os Assuntos do Fundo Social Europeu
-- Fundos CE
-- QCA
-- FSE
 - Emprego
+- Financiamento
+- Formação Profissional
+- FSE
+- Fundos CE
+- Instituto do Emprego e Formação Profissional
+- QCA
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:600129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO E PUBLICADO INTEGRALMENTE O ART 12, PELA DECL-RECT 112/94 DE 29-JUL DR.IS-B [175]2SUPL DE 30/JUL/1994\0\
+    UL/1994"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-30'
 - type: cites
   target: celex:31988R4255
   label: null
@@ -90,15 +96,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1993/2084/oj
 article_structure:
-  article_count: 39
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 40
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:29Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +235,9 @@ c) A contribuição das empresas que prossigam o objectivo da igualdade de oport
 
 7 - A entidade apoiada no âmbito do FSE não pode, para os mesmos custos, apresentar pedido de financiamento a mais de um serviço público ou entidade gestora.
 
-### CAPÍTULO II — Artigo 8.º
+### CAPÍTULO II
+
+###### Artigo 8.º
 
 Entidades gestoras
 
@@ -407,7 +415,9 @@ e) Demonstrar capacidade formativa própria ou de entidade a que recorre para a 
 
 2 - O incumprimento do disposto no número anterior determina o arquivamento do pedido.
 
-###### Artigo 19.º — Livro da Formação/FSE
+###### Artigo 19.º
+
+## Livro da Formação/FSE
 
 1 - As entidades promotoras devem dispor de um "Livro da Formação/FSE", conforme com a estrutura constante do anexo ao presente diploma, o qual deve ser actualizado logo que remetido o termo de aceitação.
 
@@ -665,14 +675,14 @@ Presidência do Conselho de Ministros, 26 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - José Bernardo Veloso Falcão e Cunha.
 
-**Promulgado em 25 de Junho de 1994.**
+Promulgado em 25 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Junho de 1994.**
+Referendado em 29 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/154b00/35993607.pdf))](https://files.diariodarepublica.pt/1s/1994/07/154b00/35993607.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/154b00/35993607.pdf)

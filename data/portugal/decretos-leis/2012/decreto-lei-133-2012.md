@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2012/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c3f789b1ee565d8854f0483aef2ec91c8f2f0c384630e4a9eb3fa82c6db421f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63711e622fc9e4be6e6523a3ce83d8d2a9a89fee3ac98c23f7a46e7880c282cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,40 +69,171 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Acumulação de Prestações Sociais
-- Regime do Contrato de Trabalho em Funções Públicas
 - Adopção
+- Doença
 - Estatuto
 - Maternidade
+- Óbito
+- Parentalidade
 - Paternidade
 - Pensão de Sobrevivência
 - Prestação Compensatoria
 - Prestações da Segurança Social
 - Prestações Familiares
-- Rendimento Social de Inserção
-- Protecção à Juventude
-- Parentalidade
-- Protecção na Doença
 - Proteção Social
+- Protecção à Juventude
+- Protecção na Doença
 - Regime de Protecção Social Convergente
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regime Geral da Segurança Social
-- Doença
+- Rendimento Social de Inserção
 - Segurança Social
-- Óbito
 - Subsídio de Doença
 - Subsídio de Funeral
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Morte
 - Trabalhador
+- Trabalhador com Contrato de Trabalho em Funções Públicas
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
-- Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:211340863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256986:por
+  label: "Alterados a partir de 01.02.2013 os arts. 32º e 54º do Dec Lei 322/90, de 18-out, na redação do presente diploma,\
+    \ pelo DEC LEI.13/2013.25.01.2013.MSSSOC, DR.IS [18] de 25.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 41.º, do Dec Lei 322/90, de 18-out, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário
+    da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66761452:por
+  label: Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante da al. a) do n.º 1 do art. 6.º
+    (na parte em que exige a cidadãos portugueses um período mínimo de um ano de residência legal em Portugal para poder aceder
+    ao rendimento social de inserção) e da norma constante do n.º 4 do mesmo art. 6.º (na parte em que estende o requisito
+    de um período mínimo de um ano de residência legal em Portugal, previsto na al. a) do n.º 1 deste preceito legal, aos
+    membros do agregado familiar do requerente de rendimento social de inserção) da Lei 13/2003 de 21-mai, na redação do presente
+    diploma, pelo(a) Acórdão do Tribunal Constitucional n.º 141/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/141-2015-66761452
+  date: '2015-03-16'
+- type: amended_by
+  target: pt:dre:67485182:por
+  label: Declarada a inconstitucionalidade da al. b) do n.º 1 e do n.º 4 do art. 6.º da Lei 13/2003 de 21-mai, na redação
+    que por último lhe foi conferida pelo art. 5.º do presente diploma, pelo(a) Acórdão do Tribunal Constitucional n.º 296/2015
+    - Diário da República n.º 114/2015, Série I de 2015-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/296-2015-67485182
+  date: '2015-06-15'
+- type: amended_by
+  target: pt:dre:73017523:por
+  label: Alterado, a partir de 01.03.2016, o art 10.º da Lei 13/2003 de 21-mai, na versão republicada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 1/2016 - Diário da República n.º 3/2016, Série I de 2016-01-06 e nos termos do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2016-73017523
+  date: '2016-01-06'
+- type: amended_by
+  target: pt:dre:73017524:por
+  label: Alterado, a partir de 01-02-2016, o art. 14.º do Dec Lei 176/2003 de 02-ago, com a redação dada e a republicação
+    efetuada pelo presente diploma, pelo(a) Decreto-Lei n.º 2/2016 - Diário da República n.º 3/2016, Série I de 2016-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2016-73017524
+  date: '2016-01-06'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 14.º (na redação do Dec Lei 2/2016, de 06-jan) e 14.º-A do Dec Lei 176/2003, de 02-ago, na versão
+    republicada pelo presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28, nos
+    termos do art. 252.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:107773651:por
+  label: Alterados os arts. 1.º, 3.º, 5.º, 6.º, 6.º-A, 15.º, 16.º, 17.º, 18.º, 21.º, 21.º-A, 21.º-B, 21.º-C, 22.º, 23.º, 25.º,
+    29.º, 30.º, 31.º e 31.º-A e a sistemática do cap. iv e revogados os n.ºs 2, 3, 4, 5, 6, 7 e 8 do art. 5.º, as als. b)
+    e e) do n.º 1 e os n.ºs 3, 4 e 5 do art. 6.º, os arts. 15.º-A, 15.º-B, 15.º-C, 15.º-D, 15.º-E, 15.º-F, 15.º-G, 15.º-H,
+    15.º-I e 15.º-J, o n.º 4 do art. 16.º e as als. c), f), h) e j) do art. 22.º da Lei 13/2003 de 21-mai, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 90/2017 - Diário da República n.º 145/2017, Série I de 2017-07-28, nos
+    termos dos seus arts. 6.º e 9.º e que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2017-107773651
+  date: '2017-07-28'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Alterado o art. 15.º (na redação do Dec Lei 90/2017, de 28-jul) da Lei 13/2003, de 21-mai, na versão republicada
+    pelo presente diploma pelo(a) Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de
+    2017-10-06, nos termos do art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 6.º do Dec Lei 70/2010 de 16-jun, com a redação dada pelo presente diploma, pelo(a) Lei n.º 114/2017
+    - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Alterado, a partir de 01.07.2018, o art. 7.º, na redação do presente diploma, do Dec Lei 91/2009 de 09-abr, pelo(a)
+    Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterado o art. 14.º (na redação do Dec Lei 2/2016, de 06-jan e da Lei 42/2016 de 28-dez) do Dec Lei 176/2003 de
+    02-ago, na versão republicada pelo presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série
+    I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:122572388:por
+  label: Alterado o art. 7.º, na redação do presente diploma, do Dec Lei 133/88 de 20-abr pelo(a) Decreto-Lei n.º 79/2019
+    - Diário da República n.º 113/2019, Série I de 2019-06-14 nos termos do n.º 1 do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2019-122572388
+  date: '2019-06-14'
+- type: amended_by
+  target: pt:dre:124417103:por
+  label: Alterado o art. 22.º do Dec Lei 89/2009 de 09-abr, com a redação dada pelo presente diploma, pelo(a) Lei n.º 90/2019
+    - Diário da República n.º 169/2019, Série I de 2019-09-04, nos termos do disposto no n.º 1 do seu art. 9.º, a partir da
+    entrada em vigor do Orçamento de Estado posterior à publicação daquela lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/90-2019-124417103
+  date: '2019-09-04'
+- type: amended_by
+  target: pt:dre:124500714:por
+  label: Alterados o art. 6.º (declarado parcialmente inconstitucional com força obrigatória geral pelo AC 141/2015 de 16-mar
+    e com a redação dada pelo Dec Lei 90/2017 de 28-jul) e os arts. 6.º-A e 18.º (ambos com a redação dada pelo Dec Lei 90/2017
+    de 28-jul) da Lei 13/2003 de 21-mai , na versão republicada pelo presente diploma, pelo(a) Lei n.º 100/2019 - Diário da
+    República n.º 171/2019, Série I de 2019-09-06, a partir de 07.09.2019 e com efeitos nos termos do disposto no n.º 1 do
+    seu art. 16.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2019-124500714
+  date: '2019-09-06'
+- type: amended_by
+  target: pt:dre:192209136:por
+  label: Alterados, com efeitos desde 01.07.2022, os arts. 7.º e 14.º do Dec Lei 176/2003 de 02-ago, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 56/2022 - Diário da República n.º 160/2022, Série I de 2022-08-19 nos termos
+    do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2022-192209136
+  date: '2022-08-19'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Alterado, com efeitos a partir de 01.01.2024, o art. 14.º e determinada, com efeitos a 01.04.2023 e retroativos a
+    01.01.2023, a majoração em 50 % no 1.º escalão de rendimentos e em 42,5 % entre os 2.º e 4.º escalões de rendimentos do
+    montante do abono de família para crianças e jovens inseridos em agregados familiares monoparentais prevista no mesmo
+    artigo do Dec Lei 176/2003, de 02-ago, na versão republicada pelo presente diploma pelo(a) Lei n.º 24-D/2022 - Diário
+    da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:206478424:por
+  label: Atualizados, com efeitos a partir de 01.01.2023, os montantes mensais do abono de família para crianças e jovens
+    e do abono de família pré-natal e o montante do subsídio de funeral previstos, respetivamente, nas als. a), b) e d) do
+    n.º 1 do art. 3.º, bem como as majorações relativas às condições previstas no n.º 1 do art. 14.º-A todos do Dec Lei 176/2003
+    de 02-ago, na versão republicada pelo presente diploma pelo(a) Portaria n.º 34/2023 - Diário da República n.º 18/2023,
+    Série I de 2023-01-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2023-206478424
+  date: '2023-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/141/1991/04/1
   label: null
@@ -143,16 +274,256 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:142111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 228
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 154
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:53Z'
   warnings: []
   errors: []
 ---
@@ -289,7 +660,9 @@ e) [Anterior alínea d).]
 
 3 - Quando com o divorciado ou separado judicialmente de pessoas e bens não concorram cônjuge sobrevivo ou membro sobrevivo da união de facto, atender-se-á, para os efeitos da alínea a) do n.º 1, ao valor da pensão que couber a cada um dos filhos, ainda que representados por netos.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -347,15 +720,21 @@ Os artigos 29.º, 32.º, 34.º, 36.º, 41.º, 48.º, 50.º e 54.º do [Decreto-L
 
 5 - No caso de ex-cônjuge, cônjuge separado judicialmente de pessoas e bens e pessoa cujo casamento tenha sido declarado nulo ou anulado, o montante da pensão de sobrevivência não pode exceder o valor da pensão de alimentos que recebia do beneficiário à data do seu falecimento.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 O subsídio por morte é igual a seis vezes o valor da remuneração de referência calculada nos termos do artigo seguinte, com o limite máximo de seis vezes o indexante dos apoios sociais.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 A remuneração de referência a considerar para cálculo do subsídio por morte não pode ser inferior ao valor do indexante dos apoios sociais.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A pensão é devida a partir do início do mês seguinte ao do falecimento, no caso de ser requerida nos seis meses imediatos ao evento, e a partir do início do mês seguinte ao do requerimento, em caso contrário.
 
@@ -363,7 +742,9 @@ A remuneração de referência a considerar para cálculo do subsídio por morte
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 ...
 
@@ -371,13 +752,17 @@ a) O casamento ou união de facto dos pensionistas cônjuges, ex-cônjuges ou pe
 
 b) ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - A pensão de sobrevivência pode ser requerida a todo o tempo, sem prejuízo do disposto no n.º 1 do artigo 36.º
 
 2 - O prazo para requerer o subsídio por morte é de 180 dias a contar da data do falecimento do beneficiário ou da data do seu desaparecimento nos casos de presunção previstos no artigo 6.º
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -387,7 +772,9 @@ b) ...
 
 4 - No requerimento do subsídio por morte, o requerente deve apresentar documento comprovativo do pagamento das despesas de funeral.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -407,13 +794,17 @@ Os artigos 2.º a 6.º, 9.º, 10.º, 15.º a 18.º-A, 20.º a 26.º, 28.º a 37.
 
 A prestação do rendimento social de inserção é uma prestação pecuniária de natureza transitória, variável em função do rendimento e da composição do agregado familiar do requerente e calculada por aplicação de uma escala de equivalência ao valor do rendimento social de inserção.
 
-###### Artigo 3.º — Contrato de inserção
+Artigo 3.º
+
+Contrato de inserção
 
 1 - O contrato de inserção do rendimento social de inserção consubstancia-se num conjunto articulado e coerente de ações, faseadas no tempo, estabelecido de acordo com as características e condições do agregado familiar do requerente da prestação, com vista à plena integração social dos seus membros.
 
 2 - O contrato de inserção referido no número anterior confere um conjunto de deveres e de direitos ao titular do rendimento social de inserção e aos membros do seu agregado familiar.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -429,7 +820,9 @@ c) Sejam casados ou vivam em união de facto há mais de dois anos.
 
 4 - Consideram-se em situação de autonomia económica as pessoas com idade inferior a 18 anos que não estejam na efetiva dependência económica de outrem a quem incumba legalmente a obrigação de alimentos nem se encontrem em situação de internamento em estabelecimentos de apoio social, públicos ou privados sem fins lucrativos, cujo funcionamento seja financiado pelo Estado ou por outras pessoas coletivas de direito público ou de direito privado e utilidade pública, bem como os internados em centros de acolhimento, centros tutelares educativos ou de detenção, ou em situação de acolhimento familiar, desde que aufiram rendimentos próprios superiores a 70 % do valor do rendimento social de inserção.
 
-###### Artigo 5.º — Conceito de agregado familiar
+Artigo 5.º
+
+Conceito de agregado familiar
 
 1 - Para além do requerente, integram o respetivo agregado familiar as seguintes pessoas que com ele vivam em economia comum, sem prejuízo do disposto nos números seguintes:
 
@@ -465,7 +858,9 @@ c) Sempre que a economia comum esteja relacionada com a prossecução de finalid
 
 d) Quando exista coação física ou psicológica ou outra conduta atentatória da autodeterminação individual relativamente a alguma das pessoas inseridas no agregado familiar.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O reconhecimento do direito ao rendimento social de inserção depende de o requerente, à data da apresentação do requerimento, cumprir cumulativamente os requisitos e as condições seguintes:
 
@@ -503,11 +898,15 @@ b) Certidão do registo do direito de residência emitida pela câmara municipal
 
 5 - Para efeitos da presente lei, considera-se património mobiliário os depósitos bancários e outros valores mobiliários como tal definidos em lei, designadamente ações, obrigações, certificados de aforro, títulos de participação e unidades de participação em instituições de investimento coletivo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O valor do rendimento social de inserção corresponde a uma percentagem do valor do indexante dos apoios sociais a fixar por portaria do membro do Governo responsável pela área da solidariedade e da segurança social.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O montante da prestação do rendimento social de inserção é igual à diferença entre o valor do rendimento social de inserção correspondente à composição do agregado familiar do requerente, calculado nos termos do número seguinte, e a soma dos rendimentos daquele agregado.
 
@@ -521,7 +920,9 @@ c) Por cada indivíduo menor, 30 % do valor do rendimento social de inserção.
 
 3 - Para efeitos do número anterior, são considerados maiores os menores que preencham as condições de titularidade previstas no n.º 2 do artigo 4.º, assim como os seus cônjuges ou os menores que com eles vivam em união de facto.
 
-###### Artigo 15.º — Rendimentos a considerar
+Artigo 15.º
+
+Rendimentos a considerar
 
 1 - Para efeitos da determinação do montante da prestação do rendimento social de inserção nos termos do n.º 1 do artigo 10.º, consideram-se os seguintes rendimentos do requerente e do seu agregado familiar:
 
@@ -553,7 +954,9 @@ h) Outros rendimentos.
 
 7 - Para efeitos de manutenção da prestação de rendimento social de inserção, o respetivo valor não é contabilizado como rendimento relevante para a verificação da condição de recursos.
 
-###### Artigo 16.º — Sub-rogação de direitos
+Artigo 16.º
+
+Sub-rogação de direitos
 
 1 - O requerente está obrigado a requerer outras prestações de segurança social a que tenha direito, bem como créditos sobre terceiros e o direito a alimentos.
 
@@ -563,9 +966,13 @@ h) Outros rendimentos.
 
 4 - Sempre que o titular da prestação não possa, por si, exercer o direito de ação para cobrança dos seus créditos ou para reconhecimento do direito a alimentos, é reconhecido à entidade gestora competente para a atribuição da prestação do rendimento social de inserção o direito de interpor as respetivas ações judiciais.
 
-### CAPÍTULO III — Atribuição da prestação e contrato de inserção
+CAPÍTULO III
 
-###### Artigo 17.º — [...]
+Atribuição da prestação e contrato de inserção
+
+Artigo 17.º
+
+[...]
 
 1 - O requerimento de atribuição do rendimento social de inserção pode ser apresentado em qualquer serviço da entidade gestora competente.
 
@@ -585,7 +992,9 @@ h) Outros rendimentos.
 
 9 - Nas situações em que a celebração do contrato de inserção ocorra depois do prazo previsto no n.º 1 do artigo 18.º, por facto não imputável ao requerente, o pagamento da prestação produz efeitos a partir do termo do referido prazo.
 
-###### Artigo 18.º — Elaboração, conteúdo e revisão do contrato de inserção
+Artigo 18.º
+
+Elaboração, conteúdo e revisão do contrato de inserção
 
 1 - O contrato de inserção deve ser celebrado pelo técnico gestor do processo, pelo requerente e pelos membros do agregado familiar que o devam cumprir, no prazo máximo de 60 dias após a apresentação do requerimento da prestação, devidamente instruído.
 
@@ -623,15 +1032,21 @@ j) ...
 
 8 - As alterações a que se refere o número anterior são formalizadas sob a forma de adenda ao contrato de inserção, passando a fazer parte integrante deste.
 
-###### Artigo 18.º-A — [...]
+Artigo 18.º-A
+
+[...]
 
 Aos beneficiários e titulares do rendimento social de inserção com idade compreendida entre os 18 e os 55 anos que não estejam inseridos no mercado de trabalho e com capacidade para o efeito deve ser assegurado o acesso a medidas de reconhecimento e validação de competências escolares ou profissionais ou de formação, seja na área das competências pessoais e familiares seja na área da formação profissional, ou a ações educativas ou a medidas de aproximação ao mercado de trabalho, no prazo máximo de seis meses após a celebração do contrato de inserção.
 
-###### Artigo 20.º — Apoios à contratação
+Artigo 20.º
+
+Apoios à contratação
 
 As entidades empregadoras que contratem titulares ou beneficiários do rendimento social de inserção poderão usufruir de incentivos por posto de trabalho criado, nos termos definidos em diploma próprio.
 
-###### Artigo 21.º — Início e duração da prestação
+Artigo 21.º
+
+Início e duração da prestação
 
 1 - O rendimento social de inserção é devido a partir da data de celebração do contrato de inserção pelo período de 12 meses, sendo suscetível de ser renovado mediante a apresentação de pedido de renovação da prestação, sem prejuízo do disposto no número seguinte.
 
@@ -643,7 +1058,9 @@ As entidades empregadoras que contratem titulares ou beneficiários do rendiment
 
 5 - O titular do direito ao rendimento social de inserção é obrigado a comunicar, no prazo de 10 dias, à entidade gestora competente as alterações suscetíveis de influir na modificação ou extinção daquele direito, bem como a alteração de residência.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O rendimento social de inserção cessa nas seguintes situações:
 
@@ -669,25 +1086,37 @@ j) Institucionalização em equipamentos financiados pelo Estado;
 
 k) [Anterior alínea h).]
 
-###### Artigo 23.º — Penhorabilidade da prestação
+Artigo 23.º
+
+Penhorabilidade da prestação
 
 A prestação do rendimento social de inserção é parcialmente penhorável nos termos da lei geral.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A prestação do rendimento social de inserção que tenha sido paga indevidamente deve ser restituída nos termos estabelecidos no regime jurídico da responsabilidade emergente do recebimento de prestações indevidas, independentemente da responsabilidade contraordenacional ou criminal a que houver lugar.
 
 2 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 A entidade gestora competente, no âmbito da sua competência gestionária, procede a ações de fiscalização relativas à manutenção das condições de atribuição do rendimento social de inserção, atendendo a indicadores de risco por si definidos.
 
-###### Artigo 26.º — (Revogado.)
+Artigo 26.º
 
-###### Artigo 28.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 29.º — Recusa de celebração do contrato de inserção
+Artigo 28.º
+
+(Revogado.)
+
+Artigo 29.º
+
+Recusa de celebração do contrato de inserção
 
 1 - (Revogado.)
 
@@ -713,7 +1142,9 @@ c) Cumprimento de obrigação legal ou decorrente do processo de negociação do
 
 d) Falecimento de cônjuge, parentes e afins, em linha reta e em linha colateral, até ao 2.º grau, ou até ao 3.º grau caso vivam em economia comum.
 
-###### Artigo 30.º — Incumprimento do contrato de inserção
+Artigo 30.º
+
+Incumprimento do contrato de inserção
 
 1 - (Revogado.)
 
@@ -721,37 +1152,59 @@ d) Falecimento de cônjuge, parentes e afins, em linha reta e em linha colateral
 
 3 - Em caso de incumprimento injustificado do contrato de inserção que ocorra na sequência de oferta de trabalho conveniente, trabalho socialmente necessário, atividade socialmente útil, ou formação profissional, no âmbito do regime jurídico de proteção social no desemprego, a prestação cessa e ao titular ou beneficiário, bem como aos elementos que compõem o seu agregado familiar, não poderá ser reconhecido o direito ao rendimento social de inserção durante o período de 24 meses após a recusa, aplicando-se ainda a sanção prevista na parte final do número anterior.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 A prestação de falsas declarações ou a prática de ameaças ou coação sobre funcionário da entidade gestora competente ou de instituição com competência para a celebração e acompanhamento dos contratos de inserção, no âmbito do rendimento social de inserção, determina a cessação da prestação e a inibição ao seu acesso, bem como a qualquer das prestações ou apoios objeto do [Decreto-Lei n.º 70/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2010-335683), de 16 de junho, durante o período de 24 meses após o conhecimento do facto, sem prejuízo da restituição das prestações indevidamente pagas e da responsabilidade penal a que haja lugar.
 
-###### Artigo 32.º — Competência para atribuição da prestação
+Artigo 32.º
+
+Competência para atribuição da prestação
 
 A competência para a atribuição da prestação cabe à entidade gestora das prestações do sistema de segurança social.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 A composição e competência dos núcleos locais de inserção constam de portaria a aprovar pelo membro do Governo responsável pela área da solidariedade e da segurança social.
 
-###### Artigo 34.º — (Revogado.)
+Artigo 34.º
 
-###### Artigo 35.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 36.º — (Revogado.)
+Artigo 35.º
 
-###### Artigo 37.º — [...]
+(Revogado.)
+
+Artigo 36.º
+
+(Revogado.)
+
+Artigo 37.º
+
+[...]
 
 1 - A entidade gestora competente pode, através de protocolo específico, contratualizar com instituição particular de solidariedade social ou outras entidades que prossigam idêntico fim e autarquias locais a celebração e o acompanhamento dos contratos de inserção, bem como a realização de trabalho socialmente necessário ou atividade socialmente útil para a comunidade.
 
 2 - A definição de atividade socialmente útil para a comunidade bem como o respetivo regime jurídico constam de diploma próprio a aprovar pelo Governo.
 
-###### Artigo 39.º — (Revogado.)
+Artigo 39.º
 
-###### Artigo 40.º — (Revogado.)
+(Revogado.)
 
-###### Artigo 42.º — (Revogado.)
+Artigo 40.º
 
-###### Artigo 43.º — [...]
+(Revogado.)
+
+Artigo 42.º
+
+(Revogado.)
+
+Artigo 43.º
+
+[...]
 
 Os procedimentos considerados necessários à execução do disposto na presente lei são aprovados por portaria do membro do Governo responsável pela área da solidariedade e da segurança social.»
 
@@ -783,7 +1236,9 @@ c) Se encontrem a prestar apoio indispensável a membros do seu agregado familia
 
 7 - O contrato de inserção deve identificar a pessoa que presta o apoio previsto na alínea c) do n.º 1, bem como os membros do agregado familiar a quem o apoio é prestado, assim como a natureza e previsão da sua duração.
 
-###### Artigo 15.º-A — Rendimentos de trabalho
+Artigo 15.º-A
+
+Rendimentos de trabalho
 
 1 - Para determinação dos rendimentos e consequente cálculo do montante da prestação são considerados 80 % dos rendimentos de trabalho, após a dedução dos montantes correspondentes às quotizações devidas pelos trabalhadores para os regimes de proteção social obrigatórios.
 
@@ -793,7 +1248,9 @@ c) Se encontrem a prestar apoio indispensável a membros do seu agregado familia
 
 4 - Na determinação dos rendimentos de trabalho a que se referem os n.os 1 e 2 são considerados os duodécimos referentes aos subsídios de férias e de Natal.
 
-###### Artigo 15.º-B — Rendimentos de trabalho dependente
+Artigo 15.º-B
+
+Rendimentos de trabalho dependente
 
 1 - Consideram-se rendimentos de trabalho dependente os rendimentos anuais ilíquidos como tal considerados nos termos do disposto no Código do Imposto do Rendimento das Pessoas Singulares (Código do IRS), sem prejuízo do disposto na presente lei.
 
@@ -803,23 +1260,31 @@ c) Se encontrem a prestar apoio indispensável a membros do seu agregado familia
 
 4 - Os montantes das remunerações auferidas no mês anterior ao da apresentação do requerimento que se reportem a atividades exercidas em período anterior não são considerados no cálculo da prestação.
 
-###### Artigo 15.º-C — Rendimentos empresariais e profissionais
+Artigo 15.º-C
+
+Rendimentos empresariais e profissionais
 
 1 - Consideram-se rendimentos empresariais e profissionais o rendimento anual no domínio das atividades dos trabalhadores independentes, a que se refere o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, através da aplicação dos coeficientes previstos no n.º 2 do artigo 31.º do Código do IRS ao valor das vendas de mercadorias e de produtos e ao valor dos serviços prestados.
 
 2 - Os rendimentos de trabalho independente a considerar para efeitos da atribuição da prestação correspondem à média dos valores efetivamente auferidos nos três meses anteriores ao da apresentação do requerimento, não podendo, no entanto, ser inferiores aos efetivamente considerados, em cada caso, como base de incidência contributiva para o regime geral de segurança social dos trabalhadores independentes ou outros regimes de proteção social obrigatórios.
 
-###### Artigo 15.º-D — Equiparação a rendimentos de trabalho
+Artigo 15.º-D
+
+Equiparação a rendimentos de trabalho
 
 Para efeitos da presente lei, consideram-se equiparados a rendimentos de trabalho 80 % do subsídio mensal recebido pelos beneficiários do rendimento social de inserção no exercício de atividades ocupacionais de interesse social no âmbito de programas na área do emprego.
 
-###### Artigo 15.º-E — Rendimentos de capitais
+Artigo 15.º-E
+
+Rendimentos de capitais
 
 1 - Consideram-se rendimentos de capitais os rendimentos como tal considerados nos termos do disposto no Código do IRS, designadamente os juros de depósitos bancários, dividendos de ações ou rendimentos de outros ativos financeiros, sem prejuízo do disposto no número seguinte.
 
 2 - Sempre que os rendimentos referidos no número anterior sejam inferiores a 5 % do valor dos créditos depositados em contas bancárias e de outros valores mobiliários, de que o requerente ou qualquer elemento do seu agregado familiar sejam titulares em 31 de dezembro do ano relevante, considera-se como rendimento o montante resultante da aplicação daquela percentagem.
 
-###### Artigo 15.º-F — Rendimentos prediais
+Artigo 15.º-F
+
+Rendimentos prediais
 
 1 - Consideram-se rendimentos prediais os rendimentos como tal considerados nos termos do disposto no Código do IRS, designadamente as rendas dos prédios rústicos, urbanos e mistos, pagas ou colocadas à disposição dos respetivos titulares, bem como as importâncias relativas à cedência do uso do prédio ou de parte dele e aos serviços relacionados com aquela cedência, a diferença auferida pelo sublocador entre a renda recebida do subarrendatário e a paga ao senhorio, à cedência do uso, total ou parcial, de bens imóveis e a cedência de uso de partes comuns de prédios.
 
@@ -827,7 +1292,9 @@ Para efeitos da presente lei, consideram-se equiparados a rendimentos de trabalh
 
 3 - O disposto no número anterior não se aplica ao imóvel destinado a habitação permanente do requerente e do respetivo agregado familiar, salvo se o seu valor patrimonial for superior a 450 vezes o valor do IAS, situação em que é considerado como rendimento o montante igual a 5 % do valor que exceda aquele limite.
 
-###### Artigo 15.º-G — Pensões
+Artigo 15.º-G
+
+Pensões
 
 1 - Consideram-se rendimentos de pensões o valor anual das pensões, do requerente ou dos elementos do seu agregado familiar, designadamente:
 
@@ -841,21 +1308,29 @@ d) Pensões de alimentos.
 
 2 - Para efeitos do disposto no número anterior, são equiparados a pensões de alimentos os apoios no âmbito do Fundo de Garantia de Alimentos Devidos a Menores e outros de natureza análoga.
 
-###### Artigo 15.º-H — Prestações sociais
+Artigo 15.º-H
+
+Prestações sociais
 
 Consideram-se prestações sociais todas as prestações, subsídios ou apoios sociais atribuídos de forma continuada, com exceção das prestações por encargos familiares, encargos no domínio da deficiência e encargos no domínio da dependência do subsistema de proteção familiar.
 
-###### Artigo 15.º-I — Apoios à habitação
+Artigo 15.º-I
+
+Apoios à habitação
 
 1 - Consideram-se apoios à habitação os subsídios de residência, os subsídios de renda de casa e todos os apoios públicos no âmbito da habitação social, com caráter de regularidade, incluindo os relativos à renda social e à renda apoiada.
 
 2 - Para efeitos da verificação da condição de recursos prevista na presente lei, considera-se que o valor do apoio público no âmbito da habitação social corresponde ao diferencial entre o valor do preço técnico e o valor da renda apoiada, nos termos do disposto no [Decreto-Lei n.º 166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240), de 7 de maio.
 
-###### Artigo 15.º-J — Outros rendimentos
+Artigo 15.º-J
+
+Outros rendimentos
 
 Nos casos em que o requerente ou os membros do seu agregado familiar detenham outras fontes de rendimento fixas ou variáveis, estas devem ser consideradas para efeitos de atribuição e cálculo da prestação, com exceção dos apoios decretados para menores pelo tribunal, no âmbito das medidas de promoção em meio natural de vida.
 
-###### Artigo 21.º-A — Revisão da prestação
+Artigo 21.º-A
+
+Revisão da prestação
 
 1 - A prestação é revista sempre que, durante o período de atribuição, se verifique:
 
@@ -867,7 +1342,9 @@ b) Alteração dos rendimentos do agregado familiar.
 
 3 - Da revisão da prestação pode resultar a alteração do seu montante, bem como a sua suspensão ou cessação.
 
-###### Artigo 21.º-B — Efeitos da revisão da prestação
+Artigo 21.º-B
+
+Efeitos da revisão da prestação
 
 1 - A alteração do montante da prestação e a respetiva suspensão ou cessação ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, salvo o disposto nos números seguintes.
 
@@ -875,7 +1352,9 @@ b) Alteração dos rendimentos do agregado familiar.
 
 3 - A revisão da prestação determinada por alteração do valor do rendimento social de inserção ou do IAS, ou dos rendimentos mensais do agregado familiar, produz efeitos no mês em que estas alterações se verifiquem.
 
-###### Artigo 21.º-C — Suspensão e retoma da prestação
+Artigo 21.º-C
+
+Suspensão e retoma da prestação
 
 1 - A prestação é suspensa nas seguintes situações:
 
@@ -893,15 +1372,21 @@ f) Cumprimento de prisão preventiva em estabelecimento prisional.
 
 2 - Quando deixe de se verificar a situação que determinou a suspensão do direito à prestação, é retomado o seu pagamento no mês seguinte àquele em que a entidade gestora competente tenha conhecimento dos factos determinantes da retoma.
 
-###### Artigo 22.º-A — Manutenção do contrato de inserção
+Artigo 22.º-A
+
+Manutenção do contrato de inserção
 
 A suspensão ou a cessação da prestação em virtude da alteração de rendimentos ou da composição do agregado familiar não prejudica a manutenção das ações de inserção em curso e das demais previstas no contrato de inserção ainda que não iniciadas.
 
-###### Artigo 31.º-A — Recusa da celebração do plano pessoal de emprego
+Artigo 31.º-A
+
+Recusa da celebração do plano pessoal de emprego
 
 A verificação de qualquer das causas de anulação da inscrição no centro de emprego, por facto imputável aos elementos do agregado familiar do beneficiário do rendimento social de inserção, tem por consequência que o mesmo deixe de ser considerado para efeitos de determinação do rendimento social de inserção do seu agregado familiar e que os rendimentos que aufira continuem a ser contemplados para efeitos de cálculo do montante da prestação.
 
-###### Artigo 32.º-A — Competências da entidade gestora
+Artigo 32.º-A
+
+Competências da entidade gestora
 
 São competências da entidade gestora:
 
@@ -937,7 +1422,9 @@ Os artigos 14.º, 44.º e 45.º do [Decreto-Lei n.º 176/2003](https://diariodar
 
 8 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - As provas previstas no artigo anterior devem ser apresentadas anualmente no mês de julho.
 
@@ -947,7 +1434,9 @@ Os artigos 14.º, 44.º e 45.º do [Decreto-Lei n.º 176/2003](https://diariodar
 
 4 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A falta de apresentação das provas de escolaridade nos prazos estabelecidos no artigo anterior determina a suspensão do pagamento do abono de família para crianças e jovens a partir do início do ano escolar.
 
@@ -981,7 +1470,9 @@ Os artigos 9.º e 15.º a 18.º do [Decreto-Lei n.º 28/2004](https://diariodare
 
 2 - Para efeitos do número anterior releva, se necessário, o mês em que ocorre o evento desde que no mesmo se verifique registo de remunerações.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 ...
 
@@ -989,7 +1480,9 @@ a) Os beneficiários não terem direito, em consequência de doença subsidiada,
 
 b) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -1005,7 +1498,9 @@ d) 75 % para o cálculo do subsídio referente a período de incapacidade tempor
 
 3 - ...
 
-###### Artigo 17.º — Majoração do subsídio de doença
+Artigo 17.º
+
+Majoração do subsídio de doença
 
 1 - Para efeitos de cálculo do subsídio de doença, as percentagens fixadas nas alíneas a) e b) do n.º 2 do artigo anterior são acrescidas de 5 % relativamente aos beneficiários em que se verifique uma das seguintes situações:
 
@@ -1021,7 +1516,9 @@ c) O agregado familiar integre descendentes que beneficiem da bonificação por 
 
 4 - O valor monetário referido na alínea a) do n.º 1 e no n.º 2 será atualizado anualmente em função da atualização do indexante dos apoios sociais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -1053,7 +1550,9 @@ Os artigos 6.º e 22.º do [Decreto-Lei n.º 89/2009](https://diariodarepublica.
 
 6 - A cessação ou suspensão da relação jurídica de emprego não prejudica o direito à proteção desde que se encontrem satisfeitas as condições de atribuição das prestações.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -1081,7 +1580,9 @@ Os artigos 7.º, 23.º, 28.º e 66.º do [Decreto-Lei n.º 91/2009](https://diar
 
 4 - A proteção conferida aos trabalhadores independentes não integra os subsídios previstos nas alíneas g) e i) do n.º 1 nem as prestações previstas no n.º 2.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O reconhecimento do direito aos subsídios previstos no presente capítulo depende do cumprimento das condições de atribuição à data do facto determinante da proteção, sem prejuízo do disposto no n.º 3.
 
@@ -1089,7 +1590,9 @@ Os artigos 7.º, 23.º, 28.º e 66.º do [Decreto-Lei n.º 91/2009](https://diar
 
 3 - A cessação ou suspensão do contrato de trabalho não prejudica o direito à proteção na eventualidade de maternidade, paternidade e adoção desde que se encontrem satisfeitas as condições de atribuição das prestações.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -1097,7 +1600,9 @@ Os artigos 7.º, 23.º, 28.º e 66.º do [Decreto-Lei n.º 91/2009](https://diar
 
 3 - Na determinação do total de remunerações registadas não são consideradas as importâncias relativas aos subsídios de férias, de Natal ou outros de natureza análoga.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -1127,7 +1632,9 @@ Prestação compensatória dos subsídios de férias e de Natal
 
 A atribuição da prestação compensatória dos subsídios de férias, de Natal ou outros de natureza análoga depende de os beneficiários não terem direito ao pagamento daqueles subsídios, no todo ou em parte, pelo respetivo empregador, desde que o impedimento para o trabalho tenha duração igual ou superior a 30 dias consecutivos.
 
-###### Artigo 37.º-A — Montante da prestação compensatória
+Artigo 37.º-A
+
+Montante da prestação compensatória
 
 O montante da prestação compensatória a conceder ao abrigo do artigo 21.º-A corresponde a 80 % da importância que o beneficiário deixa de receber do respetivo empregador, não podendo, no caso de licença para assistência a filho com deficiência ou doença crónica, ultrapassar duas vezes o valor do IAS.»
 
@@ -1165,7 +1672,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -1177,7 +1686,9 @@ f) ...
 
 5 - Para efeitos do disposto no número anterior, considera-se património mobiliário os depósitos bancários e outros valores mobiliários como tal definidos em lei, designadamente ações, obrigações, certificados de aforro, títulos de participação e unidades de participação em instituições de investimento coletivo.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -1203,7 +1714,9 @@ h) (Revogada.)
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -1221,7 +1734,9 @@ h) (Revogada.)
 
 8 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -1229,13 +1744,15 @@ h) (Revogada.)
 
 3 - O disposto no número anterior não se aplica ao imóvel destinado a habitação permanente do requerente e do respetivo agregado familiar, salvo se o seu valor patrimonial for superior a 450 vezes o valor do IAS, situação em que é considerado como rendimento o montante igual a 5 % do valor que exceda aquele limite.
 
-###### Artigo 12.º — Apoios à habitação
+Artigo 12.º
+
+Apoios à habitação
 
 1 - Consideram-se apoios à habitação os subsídios de residência, os subsídios de renda de casa e todos os apoios públicos no âmbito da habitação social, com caráter de regularidade, incluindo os relativos à renda social e à renda apoiada.
 
 2 - Para efeitos da verificação da condição de recursos prevista na presente lei, considera-se que o valor do apoio público no âmbito da habitação social corresponde ao diferencial entre o valor do preço técnico e o valor da renda apoiada, nos termos do disposto no [Decreto-Lei n.º 166/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1993-274240), de 7 de maio.
 
-###### Artigo 13.º
+Artigo 13.º
 
 (Revogado.)»
 
@@ -1259,7 +1776,9 @@ b) Mediante a apresentação de fotocópias simples do cartão de estudante ou d
 
 4 - O disposto nos números anteriores não prejudica o dever de os titulares das prestações, ou das pessoas ou entidades a quem as mesmas são pagas, fornecerem às entidades gestoras das prestações os elementos necessários à comprovação da situação escolar nas situações em que, excecionalmente, tais elementos não possam ser obtidos ou suscitem dúvidas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -1311,15 +1830,15 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da data da sua
 
 Visto e aprovado em Conselho de Ministros de 12 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 25 de junho de 2012.**
+Promulgado em 25 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de junho de 2012.**
+Referendado em 25 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 17.º)
 

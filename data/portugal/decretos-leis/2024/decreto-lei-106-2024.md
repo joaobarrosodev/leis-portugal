@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24200/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2024/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2024-900021773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: afd69f1f272aee20c77bcd6b01799ce17d486f75d17e3205db1336050bda31d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 348bfe1dafe08204436e5344df2201c0fa93754d95cb6319fa4f3d14c117bc80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Banco Português de Fomento
 - Conselho de Administração
 - Estatuto
-- Banco Português de Fomento
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:63/2020
+  label: Altera, a partir de 18 de dezembro de 2024, os artigos 13.º e 15.º dos Estatutos do Banco Português de Fomento, S.
+    A., aprovados em anexo ao Decreto-Lei n.º 63/2020 - Diário da República n.º 174/2020, Série I de 2020-09-07
+  source: null
+  date: '2020-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43/2022/07/01/p/dre
   label: null
@@ -77,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/63/2020/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/63/2020/09/07/p/dre
+- type: cites
+  target: pt:dre:142124830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185504367:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:26Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +135,9 @@ Os artigos 13.º e 15.º dos Estatutos do Banco Português de Fomento, S. A., ap
 
 4 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O conselho de administração pode delegar, dentro dos limites da lei, poderes de administração, incluindo os relativos à gestão corrente do BPF, numa comissão executiva, composta por um mínimo de três e um máximo de seis administradores, a qual deve preferencialmente ser presidida pelo vice-presidente do conselho de administração, sem prejuízo do disposto no número seguinte.
 
@@ -133,12 +149,14 @@ Os artigos 13.º e 15.º dos Estatutos do Banco Português de Fomento, S. A., ap
 
 Visto e aprovado em Conselho de Ministros de 14 de novembro de 2024. - Luís Montenegro - Cláudia Maria dos Reis Duarte Melo de Carvalho - Pedro Reis.
 
-**Promulgado em 29 de novembro de 2024.**
+Promulgado em 29 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de dezembro de 2024.**
+Referendado em 2 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118454347

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/267a00/80578085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/487/1999/11/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1999-684397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cdf1e52cf6c961321395cf06d2aabefa99a7712515aaddc9234d1b730ef2b53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1b59348c73c509ec35518ab00fb128b693e9dd044b466c0d7793835f003da59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Publicidade
 - Câmara dos Revisores Oficiais de Contas
 - Capital Social
 - Cédula Profissional
 - Cidadão Estrangeiro
-- Multa
 - Contrato de Prestação de Serviços
-- União Europeia
-- Infracção Disciplinar
-- Processo Disciplinar
+- Estágio de Formação
 - Estatuto dos Revisores Oficiais de Contas
 - Firma
-- Pagamento
+- Garantia
 - Incompatibilidades
+- Infracção Disciplinar
+- Multa
 - Ordem dos Revisores Oficiais de Contas
+- Pagamento
 - Prescrição
-- Estágio de Formação
+- Processo Disciplinar
+- Publicidade
 - Reembolso
 - Remuneração
 - Responsabilidade Civil
@@ -91,11 +90,33 @@ subjects:
 - Segredo Profissional
 - Serviço de Auditoria
 - Sociedade de Revisores Oficiais de Contas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:70196967:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439818:por
+  label: "Alterados os art.s 5º, 13º, 16º, 17º, 18º, 20º, 25.º, 29º (o último rectificado pela Decl-Rect 4-A/2000, de 18-Jan),\
+    \ 30º, 41º, 43º, 44º, 45º, 46º, 47º, 48º, 49º, 50º, 52º, 54º, 55º, 58º, 60º, 61º, 62º, 68º, 71º, 72º, 73º, 76º, 77º, 78º,\
+    \ 79º, 81º, 88º, 96º, 97º, 98º, 99º, 100º, 101º, 102º, 103º, 105º, 106º, 117º, 118º, 119º, 121º, 124º, 126º, 129º, 142º,\
+    \ 144º (o último rectificado pela Decl-Rect 4-A/2000, de 18-Jan), 148º, 149º, 152º, 153º e 158º bem como a organização\
+    \ sistemática - criado um novo título v sob a epígrafe de «Registo público», abrangendo os artigos 145.º-A a 145.º-D,\
+    \ determinado que o actual título v sob a epígrafe de «Dos revisores de contas da União Europeia» passe a título vi, mantendo\
+    \ a mesma epígrafe, e o actual título vi sob a epígrafe de «Disposições finais e transitórias» passe a título vii, mantendo\
+    \ a mesma epígrafe -, aditados os art.s 44º-A, 62º-A, 62º-B, 68º-A, 72º-A, 72º-B, 126º-A, 145º-A, 145º-B, 145º-C e 145.º-D,\
+    \ revogados os nºs 3 e 4 do art. 29º e os art.s 69º, 127º, 160º, 161º, 162º, 163º, 164º, 165º, 166º e 167º e republicado\
+    \ o Estatuto da Ordem dos Revisores Oficiais de Contas, pelo DEC LEI.224/2008.20.11.2008.MFAP, DR.IS [226] de 20.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2008-439818
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterado o art. 111º do Estatuto da Ordem dos Revisores Oficiais de Contas, pelo DEC LEI.185/2009.12.08.2009.MFAP,\
+    \ DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1998/08/18/p/dre
   label: null
@@ -112,16 +133,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1993/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1993/05/03/p/dre
+- type: cites
+  target: pt:dre:228026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437227:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:596723:por
+  label: "Rectificado pela DECL-RECT.4-A/2000.2000.01.18.PCM DR.IS-A [25]Supl de 31/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-a-2000-596723
+  date: '2000-01-18'
+- type: repealed_by
+  target: pt:dre:70196967:por
+  label: Revogado a partir de 01.01.2016 o Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pelo presente diploma
+    na redação dos Decs Leis 224/2008, de 20-nov e 185/2009, de 12-ago pelo(a) Lei n.º 140/2015 - Diário da República n.º
+    174/2015, Série I de 2015-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/140-2015-70196967
+  date: '2015-09-07'
 article_structure:
   article_count: 168
   section_count: 52
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:43Z'
   warnings: []
   errors: []
 ---
@@ -1904,15 +1957,15 @@ c) A [Portaria n.º 369/86](https://diariodarepublica.pt/dr/detalhe/portaria/369
 
 Visto e aprovado em Conselho de Ministros em 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Quadro de pontuação a que se refere o n.º 1 do artigo 76.º
 

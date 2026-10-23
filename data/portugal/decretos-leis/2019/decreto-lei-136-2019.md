@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17100/0007600083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136/2019/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0682baa9744e72ccd1e2ffe223c359b5cfc1b21a35713e865c230f9ba99e8ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89568a824e0bbf2c7726830d74d722a638dc43f13b7eac9aab3c995a5ffa3146
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Acumulação de Pensões e Remunerações
 - Acumulação de Prestações Sociais
+- Complemento Solidário para Idosos
 - Criança
-- Terceira Idade
+- Deficiente
+- Incapacidade Permanente
+- Incapacidade Temporária
 - Jovem
-- Pagamento
 - Menoridade
+- Pagamento
 - Pensão de Orfandade
 - Pensão de Velhice
 - Pensão Social
-- Proteção à Infância
-- Proteção ao Deficiente
+- Prestação Social para a Inclusão
 - Prestações da Segurança Social
 - Prestações Familiares
-- Protecção à Juventude
+- Proteção à Infância
+- Proteção ao Deficiente
 - Proteção Social
+- Protecção à Juventude
 - Regime Jurídico
-- Incapacidade Temporária
 - Segurança Social
-- Abono de Família
-- Incapacidade Permanente
-- Complemento Solidário para Idosos
-- Prestação Social para a Inclusão
+- Subsídio Familiar a Crianças e Jovens
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:147432951:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:90/2009
+  label: Adita, com efeitos a 01.10.2019, o art. 10.º-A à Lei n.º 90/2009 de 31-ago DR.IS [168]
+  source: null
+  date: '2009-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2017/10/06/p/dre
   label: null
@@ -136,16 +141,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/90/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70748601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73897624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:11Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +315,9 @@ Os artigos 10.º, 15.º, 16.º, 19.º, 23.º, 28.º, 29.º, 31.º, 32.º, 36.º 
 
 10 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O reconhecimento do direito à prestação depende de a pessoa residir em território nacional nos termos do artigo 9.º, e ter uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos no artigo 34.º, sem prejuízo do disposto nos números seguintes.
 
@@ -234,7 +337,9 @@ Os artigos 10.º, 15.º, 16.º, 19.º, 23.º, 28.º, 29.º, 31.º, 32.º, 36.º 
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 [...]:
 
@@ -244,7 +349,9 @@ b) [Anterior alínea a).]
 
 c) [Anterior alínea b).]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Na situação do titular da prestação não ter qualquer rendimento, o valor mensal da componente base da prestação é igual ao valor de referência anual da componente base em vigor, mensualizado, sem prejuízo do disposto nos números seguintes.
 
@@ -258,7 +365,9 @@ c) [Anterior alínea b).]
 
 6 - Na situação de o titular da prestação ter um grau de incapacidade igual ou superior a 80 %, o montante da componente base da prestação é igual ao montante mensualizado do valor de referência anual da componente base em vigor, independentemente do valor dos seus rendimentos.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A prestação é devida a partir do início do mês em que foi apresentado o requerimento, devidamente instruído.
 
@@ -272,7 +381,9 @@ c) [Anterior alínea b).]
 
 6 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]:
 
@@ -292,7 +403,9 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 [...]:
 
@@ -322,7 +435,9 @@ l) [...];
 
 m) Pensão de orfandade.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A prestação pode ser requerida pelo próprio, sendo maior, ou pelo seu representante legal, sem prejuízo do disposto no número seguinte.
 
@@ -332,7 +447,9 @@ m) Pensão de orfandade.
 
 4 - Nas situações em que a pessoa com deficiência é menor, a prestação pode ser requerida por uma das pessoas referidas no n.º 1 do artigo 19.º-A, que exerça as responsabilidades parentais ou a quem o menor esteja confiado administrativa ou judicialmente.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]:
 
@@ -350,7 +467,9 @@ f) Ao início ou fim da frequência de resposta social, prevista na alínea b) d
 
 2 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O pagamento da prestação é efetuado mensalmente ao respetivo titular, ou ao seu acompanhante ou representante legal, podendo ainda ser efetuado diretamente à pessoa que preste ou se disponha a prestar assistência ao titular do direito, sempre que este se encontre a aguardar a nomeação de acompanhante, desde que comprove que interpôs ação de acompanhamento de maior relativamente ao titular da prestação.
 
@@ -360,7 +479,9 @@ f) Ao início ou fim da frequência de resposta social, prevista na alínea b) d
 
 4 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -392,7 +513,9 @@ Bonificação, por deficiência, do abono de família para crianças e jovens
 
 A bonificação por deficiência do abono de família para crianças e jovens destina-se a compensar o acréscimo de encargos familiares decorrentes da situação de deficiência dos descendentes dos beneficiários, com idade igual ou inferior a 10 anos, portadores de deficiência de natureza física, orgânica, sensorial, motora ou mental, que torne necessário o apoio pedagógico ou terapêutico.
 
-###### Artigo 21.º — Caracterização da deficiência para efeitos de bonificação do abono de família
+Artigo 21.º
+
+Caracterização da deficiência para efeitos de bonificação do abono de família
 
 Consideram-se crianças e jovens com deficiência, para efeitos de atribuição da bonificação por deficiência do abono de família para crianças e jovens, os descendentes com idade igual ou inferior a 10 anos que, por motivo de perda ou anomalia congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica, se encontrem em alguma das seguintes situações:
 
@@ -400,7 +523,9 @@ a) Necessitem de apoio individualizado pedagógico e ou terapêutico específico
 
 b) [...].
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...].
 
@@ -482,12 +607,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 22 de agosto de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.
 
-**Promulgado em 30 de agosto de 2019.**
+Promulgado em 30 de agosto de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de setembro de 2019.**
+Referendado em 3 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112564545

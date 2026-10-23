@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/339/2001/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-2001-536434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffe35a1849404a7fe307f876bd2742d75a4ad7d5aaf7d2440dce9f695c41cc70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7d2b2fa02dfffbfb5d6d0b1817062e128057f46be22a8a715cc0fa7c89c48df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:05Z'
   warnings: []
   errors: []
 ---
@@ -127,12 +131,12 @@ O Tribunal da Relação de Guimarães é declarado instalado a partir de 2 de Ab
 
 Visto e aprovado em Conselho de Ministros de 18 de Outubro de 2001. - António Manuel de Oliveira Guterres - António Luís Santos Costa.
 
-**Promulgado em 6 de Novembro de 2001.**
+Promulgado em 6 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2001.**
+Referendado em 9 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

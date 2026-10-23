@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/604-1972-691827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fc111158cf9be936d663d1ddd44c401f7eb52852d84d3c19b8cbd55eb004046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bcc7144eff3d50ba0c595ac5654fd4a7c7274cf4fb27fe21ccb4a1ba6ef7519
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:412652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:28Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +111,7 @@ Prossegue-se, assim, a orientação iniciada em 1965 de inserir os territórios 
 
 2. No caso vertente da fixação de preços da carne ao público, caberá, pois, apenas referir que são utilizados, como já atrás se diz, os mesmos critérios adoptados em relação ao continente.
 
-# Parte-se, pois, de iguais preços de garantia dos bovinos, com a intervenção dos mesmos subsídios - geral e de novilhos -, de iguais bases de classificação e da consideração dos mesmos factores, devidamente ajustados: encargos municipais, valorização do 5.º quarto, margem de lucro bruto.
+Parte-se, pois, de iguais preços de garantia dos bovinos, com a intervenção dos mesmos subsídios - geral e de novilhos -, de iguais bases de classificação e da consideração dos mesmos factores, devidamente ajustados: encargos municipais, valorização do 5.º quarto, margem de lucro bruto.
 
 3. Mantendo o critério observado em anteriores revisões - 1965 e 1969 -, os preços de garantia continuam a ser integralmente assegurados nos mercados consumidores de Lisboa, Porto e Funchal, para onde são canalizados os avultados excedentes da produção açoriana, visto que a Madeira é, neste aspecto, deficitária.
 
@@ -151,6 +167,6 @@ Ministério da Economia, 26 de Setembro de 1972. - O Secretário de Estado do Co
 
 Preços máximos a observar na venda da carne de bovino adulto nas ilhas adjacentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/23700/14811482.pdf))](https://files.diariodarepublica.pt/1s/1972/10/23700/14811482.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/23700/14811482.pdf)
 
-**O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.**
+O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

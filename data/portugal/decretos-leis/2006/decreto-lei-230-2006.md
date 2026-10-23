@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/2006/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-2006-545069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a42700e16a281bcd82e31404a6ea02503d2e818ed1b6774718b1f2b88ccb9c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2ad65dd7af27a33cbb87a6e93c522df61d558eea48bb3f00b73bd4f6b9365b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendimento de Fins Múltiplos do Alqueva
-- Desenvolvimento Regional
-- EDIA
 - Albufeiras
-- Expropriação
-- Projeto de Investimento
 - Aproveitamento Hidroagrícola
 - Barragem do Alqueva
+- Desenvolvimento Regional
+- EDIA
+- Empreendimento de Fins Múltiplos do Alqueva
+- Expropriação
+- Projeto de Investimento
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:108132049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345952:por
+  label: "Substituído o mapa anexo ao Dec Lei 21-A/98 de 06-fev, com as alterações introduzidas pelo presente diploma, pelo\
+    \ DEC LEI.86/2014.28.05.2014.MAGM, DR.IS [102] de 28.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-2014-25345952
+  date: '2014-05-28'
+- type: amended_by
+  target: pt:dre:108132049:por
+  label: Substituído o mapa anexo ao Dec Lei 21-A/98 de 06-fev, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 118/2017
+    - Diário da República n.º 176/2017, Série I de 2017-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2017-108132049
+  date: '2017-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21-a/1998/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21-a/1998/02/06/p/dre
+- type: cites
+  target: pt:dre:150915:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:07Z'
   warnings: []
   errors: []
 ---
@@ -120,14 +136,14 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Medeiros Vieira.
 
-**Promulgado em 11 de Novembro de 2006.**
+Promulgado em 11 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 14 de Novembro de 2006.**
+Referendado em 14 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/22700/80668066.pdf))](https://files.diariodarepublica.pt/1s/2006/11/22700/80668066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/22700/80668066.pdf)

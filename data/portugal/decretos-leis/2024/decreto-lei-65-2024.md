@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19000/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2024/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2024-889495844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 194b4f15b5de3ec0f31ed4a257409a78865c50775c347218dfd195d385acb2c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae1be833e68d8f8c15a65e639be52676ae7cd40655d8efe7c3b7e4510ce294c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
+- Bolsa de Estudos
 - Bolsa de Formação
 - Bolseiro
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
 - Estatuto
 - Fiscalização
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
+- Investigador
 - Ministério da Ciência e da Tecnologia
-- Bolsa de Estudos
 - Remuneração
 relationships:
+- type: amends
+  target: pt:numero:lei:40/2004
+  label: Altera, a partir de 2 de outubro de 2024, os artigos 5.º, 9.º e 10.º do Estatuto do Bolseiro de Investigação, aprovado
+    em anexo à Lei n.º 40/2004, de 18 de agosto, Diário da República n.º 194/2004, Série I-A
+  source: null
+  date: '2004-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/2019/08/28/p/dre
   label: null
@@ -101,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:124256707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497867:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:59Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +175,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quinta alteração ao Estatuto do Bolseiro de Investigação, aprovado em anexo à [Lei n.º 40/2004](https://diariodarepublica.pt/dr/detalhe/lei/40-2004-480705), de 18 de agosto, alterado pelo [Decreto-Lei n.º 202/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), de 27 de agosto, pela [Lei n.º 12/2013](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), de 29 de janeiro, e pelos Decretos-Leis n.<sup>os</sup> [89/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), de 9 de julho, e [123/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), de 28 de agosto.
+O presente decreto-lei procede à quinta alteração ao Estatuto do Bolseiro de Investigação, aprovado em anexo à [Lei n.º 40/2004](https://diariodarepublica.pt/dr/detalhe/lei/40-2004-480705), de 18 de agosto, alterado pelo [Decreto-Lei n.º 202/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2012-174557), de 27 de agosto, pela [Lei n.º 12/2013](https://diariodarepublica.pt/dr/detalhe/lei/12-2013-258166), de 29 de janeiro, e pelos Decretos-Leis n.os [89/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2013-497867), de 9 de julho, e [123/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2019-124256707), de 28 de agosto.
 
 ###### Artigo 2.º — Alteração ao Estatuto do Bolseiro de Investigação
 
@@ -253,12 +283,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2024. - Luís Montenegro - Fernando Alexandre.
 
-**Promulgado em 23 de setembro de 2024.**
+Promulgado em 23 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de setembro de 2024.**
+Referendado em 24 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118171502

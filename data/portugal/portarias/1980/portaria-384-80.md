@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15600/15711574.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-1980-471885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b157d85d16865df32ad0d356ac2e743157ac563bcbdd6de095f329788742a09d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0242405c9dbf5b3884dddf327a13cb28d9bf329c6fc976913400573a404acbed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Divisa
+- Exportação de Capitais
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:171535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381543:por
+  label: "Alterados os limites fixados no n.º 1.º, pela PORT.554/84.02.08.1984.MFP, DR.IS [178] de 02.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/554-1984-381543
+  date: '1984-08-02'
+- type: amended_by
+  target: pt:dre:180199:por
+  label: "Alterados os limites fixados no n.º 1.º do presente diploma, actualizados no n.º 1.º da Portaria n.º 554/84, de\
+    \ 2 de Agosto, pelo AV.DD1159.03.08.1985.MFP, DR.IS [177] de 03.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1985-180199
+  date: '1985-08-03'
+- type: cites
+  target: pt:dre:327304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:171535:por
+  label: "Revogada pela PORT.839/85.07.11.1985.MFP, DR.IS [256] de 07.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-1985-171535
+  date: '1985-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:12Z'
   warnings: []
   errors: []
 ---
@@ -165,4 +204,4 @@ c) Pessoas de idade inferior a 12 anos ... 15000$00
 
 Ministério das Finanças e do Plano, 24 de Junho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15600/15711574.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15600/15711574.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/15600/15711574.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/171a00/37963814.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/1997/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1997-144639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 510004eba7f0dce94ade1d0084755791fc0f73efd7d1a4dbd391495f12a3d0b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6d8e9f3e0a7f23d3926551dba58cc315eb7b68e2435916e3b9b98a5fb98045b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,44 +68,44 @@ reuse:
 subjects:
 - Análise Laboratorial
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Publicidade
-- Multa
+- Comércio
 - Comércio a Retalho
 - Comércio por Grosso
-- Infarmed
-- Proteção dos Animais
-- Ministro da Saúde
 - Comissão Técnica de Medicamentos para USO Veterinário
 - Contra-ordenação
 - Controlo de Qualidade
 - Direção Geral de Veterinária
-- União Europeia
+- Droga
+- Embalagem
 - Etiquetagem
 - Experimentação nos Animais
+- Exportação
 - Farmacêutico
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
 - Importação
+- Indústria Farmacêutica
+- Infarmed
+- Inspecção Geral das Actividades Económicas
 - Licenciamento
-- Embalagem
+- Limite Máximo de Resíduos
+- Medicamento Veterinário
 - Medicina Veterinária
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Droga
+- Ministro da Saúde
+- Multa
 - Notificação
-- Exportação
 - Produto Farmacêutico
+- Proteção dos Animais
+- Publicidade
 - Receita Médica
 - Regime Jurídico
 - Regulamento de Medicamentos de USO Veterinário
-- Limite Máximo de Resíduos
 - Responsabilidade Civil
 - Responsabilidade Criminal
-- Medicamento Veterinário
-- Taxa
-- Comércio
-- Veterinário
 - Saúde Animal
+- Taxa
+- União Europeia
+- Veterinário
 relationships:
 - type: amended_by
   target: pt:dre:454810:por
@@ -139,16 +139,31 @@ relationships:
   target: celex:31993R2309
   label: null
   source: http://data.europa.eu/eli/reg/1993/2309/oj
+- type: corrected_by
+  target: pt:dre:437848:por
+  label: "Rectificado pelo DECL-RECT.17-F/97.1997.10.31.PCM DR.IS-A [253]3ºSupl de 1997.10.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-f-1997-437848
+  date: '1997-10-31'
+- type: repealed_by
+  target: pt:dre:502397:por
+  label: "Revogado o art. 18.º, pelo DEC LEI.185/2004.29.07.2004.MS, DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2004-502397
+  date: '2004-07-29'
+- type: repealed_by
+  target: pt:dre:454810:por
+  label: "Revogado, a partir de 27.09.2008, pelo DEC LEI.148/2008.29.07.2008.MADRP, DR.IS [145] de 29.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2008-454810
+  date: '2008-07-29'
 article_structure:
   article_count: 90
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:30Z'
   warnings: []
   errors: []
 ---
@@ -1299,15 +1314,15 @@ Até à publicação da regulamentação do presente diploma, mantém-se em vigo
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Jaime Serrão Andrez - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Junho de 1997.**
+Referendado em 27 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A
 

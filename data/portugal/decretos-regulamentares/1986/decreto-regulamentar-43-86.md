@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1986-221750
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b2665da7335f014e6222ccf5c00072e4d03cf1a61c91dda5b289de3f03f2281
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06ecac0eba151a3fb9d19e3122f684fd7ac4f6e9833bd8977ad819974ee0ca33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inspecção da Polícia de Segurança Pública
+- Orgânica
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:152342:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:20Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +103,9 @@ Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 151/85](https://diario
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Inspecção da Polícia de Segurança Pública, adiante designada por «Inspecção», é um serviço do Comando-Geral, funciona na directa dependência do comandante-geral e é dirigida por um inspector superior.
+Artigo 1.º A Inspecção da Polícia de Segurança Pública, adiante designada por «Inspecção», é um serviço do Comando-Geral, funciona na directa dependência do comandante-geral e é dirigida por um inspector superior.
 
-###### Art. 2.º - 1 - À Inspecção compete, em geral, a fiscalização do cumprimento das disposições legais e das determinações do comandante-geral, bem como a adequada execução de quaisquer acções e programas.
+Art. 2.º - 1 - À Inspecção compete, em geral, a fiscalização do cumprimento das disposições legais e das determinações do comandante-geral, bem como a adequada execução de quaisquer acções e programas.
 
 2 - A acção da Inspecção pode incidir sobre quaisquer serviços, estabelecimentos de ensino, comandos, unidades ou subunidades de qualquer tipo.
 
@@ -106,7 +113,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - Excepcionalmente, pode ser confiada à Inspecção competência para instaurar e instruir processos disciplinares.
 
-###### Art. 3.º - 1 - A acção da Inspecção desenvolve-se, designadamente, nas seguintes áreas:
+Art. 3.º - 1 - A acção da Inspecção desenvolve-se, designadamente, nas seguintes áreas:
 
 a) Pessoal;
 
@@ -160,21 +167,21 @@ a) A supervisão dos programas e determinações respeitantes à actualização 
 
 b) O cumprimento dos regulamentos, normas é programas, propondo superiormente as alterações convenientes, em ordem à sua melhoria.
 
-###### Art. 4.º - 1 - As inspecções realizam-se por de terminação do comandante-geral, por iniciativa própria ou por proposta do inspector superior.
+Art. 4.º - 1 - As inspecções realizam-se por de terminação do comandante-geral, por iniciativa própria ou por proposta do inspector superior.
 
 2 - As inspecções podem ainda ser determinadas pelo Ministro da Administração Interna, por intermédio do comandante-geral.
 
-###### Art. 5.º - 1 - As inspecções são ordinárias ou extraordinárias.
+Art. 5.º - 1 - As inspecções são ordinárias ou extraordinárias.
 
 2 - As inspecções ordinárias realizam-se com a periodicidade de dois anos a todos os serviços, estabelecimentos de ensino, comandos, unidades e subunidades.
 
 3 - As inspecções extraordinárias podem ocorrer em qualquer momento.
 
-###### Art. 6.º - 1 - O plano anual das inspecções ordinárias, bem como o prazo para a sua realização, são aprovados pelo comandante-geral, mediante proposta do inspector superior.
+Art. 6.º - 1 - O plano anual das inspecções ordinárias, bem como o prazo para a sua realização, são aprovados pelo comandante-geral, mediante proposta do inspector superior.
 
 2 - O Ministro da Administração Interna ou o comandante-geral, consoante os casos, fixarão a duração das inspecções extraordinárias.
 
-###### Art. 7.º - 1 - O corpo de inspectores terá a seguinte composição:
+Art. 7.º - 1 - O corpo de inspectores terá a seguinte composição:
 
 Um inspector superior;
 
@@ -196,30 +203,30 @@ Três adjuntos.
 
 8 - Enquanto não forem efectuadas as nomeações dos adjuntos, mantêm-se no exercício de funções os peritos militares.
 
-###### Art. 8.º - 1 - A Inspecção dispõe de uma secretaria de apoio.
+Art. 8.º - 1 - A Inspecção dispõe de uma secretaria de apoio.
 
 2 - Por proposta do inspector superior, o comandante-geral poderá determinar que qualquer agente ou funcionário coadjuve a Inspecção no exercício das suas funções.
 
-###### Art. 9.º - 1 - No exercício das suas funções, os inspectores têm livre acesso a todos os locais e documentos de qualquer natureza existentes nos serviços, estabelecimentos de ensino, comandos, unidades e subunidades objecto de inspecção e competência para proceder à sua selagem ou apreensão.
+Art. 9.º - 1 - No exercício das suas funções, os inspectores têm livre acesso a todos os locais e documentos de qualquer natureza existentes nos serviços, estabelecimentos de ensino, comandos, unidades e subunidades objecto de inspecção e competência para proceder à sua selagem ou apreensão.
 
 2 - Independentemente de despacho determinativo de inspecção, aos inspectores são permitidas acções isoladas de fiscalização.
 
-###### Art. 10.º - 1 - Por cada inspecção ordinária ou extraordinária será elaborado relatório a apresentar, no prazo máximo de 30 dias, à entidade que a houver determinado.
+Art. 10.º - 1 - Por cada inspecção ordinária ou extraordinária será elaborado relatório a apresentar, no prazo máximo de 30 dias, à entidade que a houver determinado.
 
 2 - Nos casos em que tal se justifique, pela complexidade das matérias objecto da inspecção ou pelo seu carácter de urgência, poderá a entidade que determinou a inspecção estabelecer prazo diferente do referido no número anterior.
 
-###### Art. 11.º - 1 - O inspector superior, em Fevereiro de cada ano, apresentará ao comandante-geral relatório circunstanciado das actividades executadas no ano civil anterior, tendo especialmente em conta a forma como o serviço decorreu, as mais relevantes conclusões das acções desenvolvidas, propostas de carácter técnico ou administrativo, em ordem a garantir melhoria da qualidade do serviço público prestado.
+Art. 11.º - 1 - O inspector superior, em Fevereiro de cada ano, apresentará ao comandante-geral relatório circunstanciado das actividades executadas no ano civil anterior, tendo especialmente em conta a forma como o serviço decorreu, as mais relevantes conclusões das acções desenvolvidas, propostas de carácter técnico ou administrativo, em ordem a garantir melhoria da qualidade do serviço público prestado.
 
 2 - O relatório será remetido ao Ministro da Administração Interna, por intermédio do comandante-geral, nos oito dias imediatos à sua entrega.
 
 Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo - Mário Ferreira Bastos Raposo.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

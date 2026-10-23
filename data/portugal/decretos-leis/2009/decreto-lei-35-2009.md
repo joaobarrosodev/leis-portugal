@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02700/0086300864.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2009/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2009-601503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a0ee67d97bd08a9257aec927c2c2e9ce7edce0bca68c63dc9105cdb8bde9dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea8fbd441519a5acb4ea9f6b1df021edea1a3f4707b2f5b93748933ee7e61f17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Multa
 - Comissão de Acompanhamento
 - Comunicação Social
 - Contra-ordenação
 - Edição de Publicações
-- Projeto de Investimento
-- Instituto da Comunicação Social
+- Financiamento
 - Gabinete para os Meios de Comunicação Social
+- Instituto da Comunicação Social
 - Modernização Tecnológica
-- Programa Simplex
+- Multa
 - Produção Multimédia
+- Programa Simplex
+- Projeto de Investimento
 relationships:
 - type: amended_by
   target: pt:dre:66443111:por
@@ -91,16 +91,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/7/2005/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/7/2005/01/06/p/dre
+- type: repealed_by
+  target: pt:dre:66443111:por
+  label: Revogado, a partir de 01.03.2015, o Dec. Lei 7/2005 de 06-jan, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 23/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2015-66443111
+  date: '2015-02-06'
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:32Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +165,9 @@ c)...
 
 6 - Compete à comissão de acompanhamento verificar a execução dos projectos de investimento beneficiados e dar parecer sobre o respectivo cumprimento.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 -...
 
@@ -177,7 +185,9 @@ b) Pela totalidade, após verificação da boa execução do projecto, salvaguar
 
 6 - O montante referido na alínea a) do n.º 4 pode ser inferior a 50 %, caso a entidade beneficiária do incentivo manifeste tal intenção no requerimento de candidatura previsto no artigo 24.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -195,7 +205,9 @@ b) Pela totalidade, após verificação da boa execução do projecto, salvaguar
 
 8 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 -...
 
@@ -219,7 +231,9 @@ f)...
 
 5 - Os documentos previstos nas alíneas a) e b) do n.º 1 podem ser dispensados quando as entidades, mediante autorização prestada nos termos da lei, permitam ao GMCS a consulta da respectiva situação tributária ou contributiva.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 -...
 
@@ -233,7 +247,9 @@ c)...
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 -...
 
@@ -241,7 +257,9 @@ c)...
 
 3 - O produto das coimas reverte em 60 % para o Estado e em 40 % para o GMCS.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A mesma entidade candidata não pode, durante um período de três anos consecutivos contados da atribuição do primeiro incentivo, beneficiar dos auxílios do Estado previstos no presente diploma em valor superior a (euro) 200 000, incluindo majorações, independentemente do número de projectos apresentados e do valor total dos investimentos, líquido de IVA, nos termos do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de Dezembro, relativo aos auxílios de minimis.
 
@@ -261,12 +279,12 @@ São revogados os n.os 3 e 4 do artigo 20.º e o n.º 3 do artigo 24.º Decreto-
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2008. - Luís Filipe Marques Amado - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - José Manuel Vieira Conde Rodrigues - António José de Castro Guerra - Francisco Carlos da Graça Nunes Correia - Pedro Manuel Dias de Jesus Marques - Maria de Lurdes Reis Rodrigues - Augusto Ernesto Santos Silva.
 
-**Promulgado em 29 de Janeiro de 2009.**
+Promulgado em 29 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Fevereiro de 2009.**
+Referendado em 2 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

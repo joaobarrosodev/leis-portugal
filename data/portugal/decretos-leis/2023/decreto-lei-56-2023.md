@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13600/0001300021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2023/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2023-215647907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5b825ee61d0c407473fd046fc5a78b713e6eda965bae92c2be3b48bd1f436e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec93e462090e850d3001ec4ba48a6ea851d9b3ab4cb54625cc623553aed3cda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Contra-ordenação
-- Proteção da Floresta
+- Agência para a Gestão Integrada de Fogos Rurais
 - Combustível
+- Comissão de Gestão Integrada de Fogos Rurais
+- Contra-ordenação
 - Fiscalização
+- Fogueira
+- Incêndio
 - Plano Municipal de Defesa da Floresta contra Incêndios
 - Plano Nacional de Defesa da Floresta contra Incêndios
-- Fogueira
-- Política Florestal
 - Plano Nacional de Gestão Integrada de Fogos Rurais
-- Agência para a Gestão Integrada de Fogos Rurais
-- Sistema de Gestão Integrada de Fogos Rurais
+- Política Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Rede Primária de Faixas de Gestão de Combustível
-- Comissão de Gestão Integrada de Fogos Rurais
+- Sistema de Gestão Integrada de Fogos Rurais
 relationships:
 - type: amended_by
   target: pt:dre:1085738182:por
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186307878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:20Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +206,9 @@ s) [Anterior alínea r).]
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -206,7 +224,9 @@ s) [Anterior alínea r).]
 
 7 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -252,7 +272,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 2 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +288,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 6 - Os programas sub-regionais de ação definem a área e a tipologia das APPS e respetivas condicionantes, a rede secundária de faixas de gestão de combustível e as áreas estratégicas de mosaicos de gestão de combustível e indicam as redes viárias, de pontos de água e de vigilância e deteção de incêndios nos termos do presente decreto-lei, integrando uma peça gráfica com a sua representação georreferenciada.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -280,7 +304,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 6 - A carta de perigosidade de incêndio rural é submetida para publicação no Diário da República através do sistema de submissão automática dos instrumentos de gestão territorial e divulgada no sistema nacional de informação territorial.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Os territórios correspondentes às classes de perigosidade 'alta' e 'muito alta', identificados na carta de perigosidade de incêndio rural a que se refere o n.º 6 do artigo anterior, constituem a base para o processo de delimitação das APPS.
 
@@ -296,7 +322,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 7 - As restrições a que alude o n.º 2 podem ter uma aplicação diferenciada, a determinar pela comissão sub-regional de gestão integrada de fogos rurais, em função da classificação das APPS em diferentes tipologias, nos termos da metodologia prevista no n.º 3.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +338,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 6 - Até à definição prevista no n.º 4 mantém-se em vigor a rede primária de faixas de gestão de combustível aprovada em sede de plano distrital de defesa da floresta contra incêndios.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -322,7 +352,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 5 - [...]
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Nos territórios incluídos nas APPS com condicionamentos à edificação, em resultado da aplicação da metodologia prevista no n.º 3 do artigo 42.º, com exceção dos aglomerados rurais, são interditos os usos e as ações de iniciativa pública ou privada que se traduzam em operações de loteamento e obras de edificação.
 
@@ -334,7 +366,9 @@ t) Divulgam as APPS e as redes de faixas de gestão de combustível localizadas 
 
 5 - [...]
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -354,7 +388,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -368,7 +404,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -384,7 +422,9 @@ b) Mera comunicação prévia à câmara municipal, nos restantes períodos do a
 
 5 - [...]
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Nos territórios incluídos nas APPS com condicionamentos à realização de atividades, em resultado da aplicação da metodologia prevista no n.º 3 do artigo 42.º, em concelhos onde se verifique um nível de perigo de incêndio rural 'muito elevado' ou 'máximo', são proibidas as seguintes atividades:
 
@@ -408,7 +448,9 @@ c) A realização dos eventos previstos na alínea a) do número anterior, bem c
 
 4 - [...]
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]
 
@@ -436,7 +478,9 @@ iii) Nas atividades com recurso a maquinaria, mediante o cumprimento das medidas
 
 4 - [...]
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -512,7 +556,9 @@ cc) [...]
 
 8 - [...]
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -526,7 +572,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Os planos municipais de defesa da floresta contra incêndios em vigor produzem efeitos até 31 de dezembro de 2024, sendo substituídos pelos programas sub-regionais de ação e programas municipais de execução previstos no presente decreto-lei.
 
@@ -564,15 +612,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guimarães Vieira da Silva - Marco Alexandre da Silva Capitão Costa Ferreira - Patrícia Alexandra Costa Gaspar - Catarina Teresa Rola Sarmento e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 6 de julho de 2023.**
+Promulgado em 6 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de julho de 2023.**
+Referendado em 10 de julho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -580,4 +628,6 @@ Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guima
 
 [a que se referem as subalíneas i) e iii) da alínea f) do n.º 3 do artigo 69.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13600/0001300021.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13600/0001300021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13600/0001300021.pdf)
+
+116662116

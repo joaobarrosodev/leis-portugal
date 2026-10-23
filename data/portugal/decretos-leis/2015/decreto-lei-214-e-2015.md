@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30
   number: '191'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8560-(229) a 8560-(233)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214-e/2015/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-e-2015-70409927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2437e4d9e00842002e407313d00da809161b2111bb58c1a1f6b4fd645000372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e3374e1055ae5b999efa7da5f8262f0c0a0bc627f458a5f8e9876e3c3fecd8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Combustível
 - Controlo de Qualidade
 - Definição de Competências
-- Especificação Técnica
-- Combustível
 - Direção Geral de Energia e Geologia
+- Entidade Nacional para o Mercado de Combustíveis
+- Especificação Técnica
 - Gás
 - Gás Propano
-- Entidade Nacional para o Mercado de Combustíveis
 relationships:
 - type: amended_by
   target: pt:dre:114337041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114337041:por
+  label: Alterados, a partir de 01.01.2018, os arts. 14.º, 15.º e 16.º e os anexos I, III e V do Dec Lei 89/2008 de 30-mai,
+    na versão republicada pelo Dec Lei 142/2010 de 31-dez e na redação do presente diploma, pelo(a) Decreto-Lei n.º 152-C/2017
+    - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11 nos termos da al. b) do seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-c-2017-114337041
+  date: '2017-12-11'
 - type: cites
   target: celex:31998L0070
   label: null
@@ -130,6 +137,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31998L0070
   label: null
@@ -139,15 +186,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:34Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +253,9 @@ Os artigos 13.º, 14.º e 16.º do [Decreto-Lei n.º 89/2008](https://diariodare
 
 9 - O disposto no número anterior aplica-se igualmente aos trabalhadores, devidamente identificados, das entidades que tenham sido contratadas pela ENMC, E. P. E., para efetuar as recolhas de amostras mencionadas no número anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -220,7 +269,9 @@ d) Coordenar o sistema de controlo da qualidade dos combustíveis líquidos, exe
 
 e) [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas no artigo 13.º à DGEG e à ENMC, E. P. E., bem como das competências próprias de outras entidades, a fiscalização do presente decreto-lei compete à ASAE.
 
@@ -248,26 +299,26 @@ Os anexos I, III e V do [Decreto-Lei n.º 89/2008](https://diariodarepublica.pt/
 
 Visto e aprovado em Conselho de Ministros de 10 de setembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Sérgio Paulo Lopes da Silva Monteiro - Jorge Manuel Lopes Moreira da Silva - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 23 de setembro de 2015.**
+Promulgado em 23 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de setembro de 2015.**
+Referendado em 28 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
 ## ANEXO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf))](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)
 
 ## ANEXO III — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf))](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)
 
 ## ANEXO V — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf))](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/19101/0022900233.pdf)

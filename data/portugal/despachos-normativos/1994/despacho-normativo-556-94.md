@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/556/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/556-1994-231887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a0bb5c6a4e5d0eb165d64eb3ab69fd0d36409068c935e351851f7f5037ffcc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dcdc3ac469590f3fb8083e48b658b3583127c50050a38299ed2e7ba6f28a15a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
 - Apoio ao Investimento
+- Desenvolvimento Industrial
 - Ministério da Indústria e Energia
 - Regime de Apoio à Consolidação das Infra-estruturas Tecnológicas
 - Sinfrapedip
@@ -75,6 +75,23 @@ relationships:
   target: pt:dre:471158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A REDACÇÃO DO ART 4 PELO DN 15/95 DE 24-FEV DR.IS-B [73] DE 27/MAR/1995.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-03-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "COMETIDA A DIRECÇÃO GERAL DA INDÚSTRIA A RESPONSABILIDADE DA GESTÃO DO REGIME DE APOIO PREVISTO PELO DN 24-C/96\
+    \ DE 26-JUN DR.IS-B [158]SUPL DE 10/JUL/1996\0158]SUPL DE 10/JUL/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-07-10'
+- type: amended_by
+  target: pt:dre:471158:por
+  label: "Alterados os arts. 1º a 13º e aditados os arts. 14º e 15º pelo DN.42/98.1998.05.12.MECO, DR.IS-B [134] de 12/Jun/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/42-1998-471158
+  date: '1998-05-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -87,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:41Z'
   warnings: []
   errors: []
 ---
@@ -363,7 +392,7 @@ c) 90% sobre o montante das aplicações relevantes relativas à formação prof
 
 d) As percentagens referidas nas alíneas anteriores não são aplicáveis às aplicações relevantes relativas ao pessoal contratado, as quais serão decrescentes, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42624267.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42624267.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42624267.pdf)
 
 3 - No que respeita à acção B, a percentagem de comparticipação será igual à atribuída à fase 2 da acção A em curso, até ao limite máximo de 20000 contos, por promotor, para o período de vigência do PEDIP II, não podendo exceder 6000 contos por ano.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/086a00/35973598.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2002-303198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cae76d0dc869169bc24b250fe2c9d0f6487f60f2abaf468178e9e06a08c58f9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6de5d3048f12d60409c8a9ba79ba1304ae60277e09295f356d012ad30bd2a61a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aquisição de Bens e Serviços
-- Moeda Eletrónica
-- Despesas Públicas
-- Direcção Geral do Património
 - Administração Pública
-- Ministério das Finanças
-- Pagamento
-- Instituto Público
-- Publicitação
-- Documento Eletrónico
-- Organismo do Estado
-- Página na Internet
-- Internet
+- Aquisição de Bens e Serviços
 - Assinatura Digital
 - Comércio Eletrónico
+- Despesas Públicas
+- Direcção Geral do Património
+- Documento Eletrónico
+- Instituto Público
+- Internet
+- Ministério das Finanças
+- Moeda Eletrónica
+- Organismo do Estado
+- Pagamento
+- Página na Internet
+- Publicitação
 relationships:
 - type: amended_by
   target: pt:dre:248178:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31999L0093
   label: null
   source: http://data.europa.eu/eli/dir/1999/93/oj
+- type: repealed_by
+  target: pt:dre:248178:por
+  label: "Revogado, a partir de 30.07.2008, pelo DEC LEI.18/2008.29.01.2008.MOPTC, DR.IS [20] de 29.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2008-248178
+  date: '2008-01-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:51Z'
   warnings: []
   errors: []
 ---
@@ -179,12 +184,12 @@ A exigência de assinatura digital prevista no presente diploma considera-se igu
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Mariano Rebelo Pires Gago - Alexandre António Cantingas Rosa.
 
-**Promulgado em 22 de Março de 2002.**
+Promulgado em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2012/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2012-542417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09b96d896ce02a53a3aa0e05ff95297506c7c37be45a901520c458958968f386
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9ce8cb7c9f587dcd76b43fcfc710cabc7d2d6e18a0bb1d875c28bd26e32abed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,30 +69,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
-- CE Países
-- Tráfego Marítimo
-- Comando Naval
-- Contra-ordenação
-- Comissão Técnica para Acolhimento de Navios em Dificuldade
-- Definição de Competências
 - Autoridade Marítima Nacional
-- Equipamento Eléctrico
-- União Europeia
-- Fiscalização
-- Autoridade Portuária
 - Autoridade Nacional de Controlo de Tráfego Marítimo
+- Autoridade Portuária
+- CE Países
+- Comando Naval
+- Comissão Técnica para Acolhimento de Navios em Dificuldade
+- Contra-ordenação
+- Definição de Competências
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- Equipamento Eléctrico
+- Fiscalização
 - Normas de Segurança
 - Proteção do Ambiente
 - Segurança da Navegação
 - Segurança Marítima
+- Tráfego Marítimo
 - Transporte de Mercadorias Perigosas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:73115708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178831:por
+  label: "Alterado o anexo II do Dec Lei 180/2004, de 27-jul, na redação e republicado pelo presente diploma, pelo DEC LEI.121/2012.19.06.2012.MAMAOT,\
+    \ DR.IS [117] de 19.06.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2012-178831
+  date: '2012-06-19'
+- type: amended_by
+  target: pt:dre:73115708:por
+  label: Alterado, a partir de 13.01.2016, o anexo III (na redação do presente diploma) ao Dec Lei 180/2004 de 27-jul pelo(a)
+    Decreto-Lei n.º 3/2016 - Diário da República n.º 7/2016, Série I de 2016-01-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2016-73115708
+  date: '2016-01-12'
+- type: amends
+  target: pt:numero:lei:180/2004
+  label: Altera os arts. 2.º, 3º (na redação do Dec Lei 51/2005, de 25-fev), 4º (na redação do Dec Lei 236/2004, de 18-dez),
+    5º, 6º, 7.º, 9.º, 11.º, 12º, 13º, 14º, 15º, 16º (na redação do Dec Lei 236/2004, de 18-dez), 17º, 18º, 19.º, 22.º, 23.º
+    e 25.º (na redação do Dec Lei 263/2009, de 28-set), bem como os anexos i, ii, iii e iv, adita os arts. 6.º-A, 6.º-B, 19.º-A,
+    19.º-B, 19.º-C e 21.º-A e revoga o art. 10.º, o n.º 5 do art. 12.º, o art. 26.º e o art. 30º do Dec Lei n.º 180/2004,
+    de 27-jul, DR IS-A [175], e procede à respetiva republicação.
+  source: null
+  date: '2012-03-07'
 - type: cites
   target: celex:31993L0075
   label: null
@@ -129,16 +150,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/180/2004/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/180/2004/07/27/p/dre
+- type: corrected_by
+  target: pt:dre:566824:por
+  label: "Retificado o proémio do art. 3º e o art. 7º, bem como o anexo II [que republica o Dec Lei 180/2004, de 27-jul, nomeadamente\
+    \ a subal. i) da al. h) do art. 3º, o proémio do nº1 do art. 4º, o nº1 do art. 6º, o proémio do nº 1 do artigo 6º-A, o\
+    \ nº 1 do art. 9º, a al. a) do nº 1 do art. 11º, o nº1 do art. 12º e o nº1 do art. 13º] pela DECL-RECT.22-A/2012.04.05.2012.PCM,\
+    \ DR.IS [87-Supl] de 04.05.2012\0.2012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/22-a-2012-566824
+  date: '2012-05-04'
 article_structure:
-  article_count: 68
+  article_count: 45
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:35Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +220,9 @@ b) ...
 
 c) Bancas em navios com arqueação bruta inferior a 1000, provisões de bordo e equipamentos para uso a bordo de todos os navios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -301,7 +332,9 @@ ee) 'Hora de chegada de um navio a um porto ou fundeadouro (ATA)' hora a que o n
 
 ff) 'Hora de saída de um navio de um porto ou fundeadouro (ATD)' hora a que um navio larga de um cais ou suspende o ferro de um fundeadouro em que esteve a operar, com o fim de se dirigir a outro porto ou fundeadouro, a qual é registada pelo comandante do navio no diário de navegação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O comandante de um navio que se dirija a um porto nacional notifica a autoridade portuária do porto a que se dirige das informações previstas no n.º 1 do anexo i ao presente diploma e que dele faz parte integrante:
 
@@ -325,23 +358,31 @@ b) A hora de chegada (ATA) e de partida (ATD) de todo e qualquer navio estrangei
 
 4 - Os navios provenientes de um porto fora da União Europeia que se dirijam a um porto nacional e que transportem mercadorias perigosas ou poluentes cumprem as obrigações de notificação previstas no artigo 12.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - Ao submeter à OMI um sistema de notificação obrigatória dos navios, a DGRM inclui nessa proposta os elementos constantes do n.º 5 do anexo i ao presente diploma.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os navios que se dirijam a um porto nacional devem estar equipados com um sistema de identificação automática (AIS) que responda às normas de desempenho definidas pela OMI, de acordo com o calendário estabelecido na secção i do anexo ii ao presente diploma e que dele faz parte integrante.
 
 2 - Os navios equipados com um AIS mantêm esse sistema permanentemente operacional e ligado, excepto quando a segurança ou a confidencialidade das informações sobre navegação estiver prevista em acordos, regras ou normas internacionais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A DGRM, responsável nacional pelo serviço de controlo de tráfego marítimo (VTS), e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que entrem num espaço marítimo sob jurisdição nacional, abrangida por um sistema de organização de tráfego aprovado pela OMI, de acordo com a regra 10 do capítulo v da Convenção SOLAS, utilizem esse sistema de acordo com as orientações e critérios pertinentes definidos pela OMI.
 
-###### Artigo 9.º — Sistemas de registo dos dados de viagem
+Artigo 9.º
+
+Sistemas de registo dos dados de viagem
 
 1 - ...
 
@@ -351,7 +392,9 @@ A DGRM, responsável nacional pelo serviço de controlo de tráfego marítimo (V
 
 4 - ...
 
-###### Artigo 11.º — Obrigação de informação respeitante ao transporte de mercadorias perigosas
+Artigo 11.º
+
+Obrigação de informação respeitante ao transporte de mercadorias perigosas
 
 1 - As mercadorias perigosas ou poluentes só podem ser entregues para transporte ou embarcadas num navio, seja qual for a sua dimensão, num porto nacional, se o comandante ou o operador tiver recebido, do carregador, antes da aceitação das mercadorias a bordo, uma declaração com as seguintes informações:
 
@@ -375,7 +418,9 @@ e) Se as mercadorias forem transportadas em contentores, os carregadores são ob
 
 6 - A declaração prevista no número anterior é conservada pelas autoridades portuárias durante um período mínimo de três meses.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O comandante de um navio, seja qual for a sua dimensão, que largue de um porto nacional transportando mercadorias perigosas ou poluentes, notifica a autoridade portuária, antes da saída do navio, das informações especificadas no n.º 4 do anexo i.
 
@@ -387,7 +432,9 @@ e) Se as mercadorias forem transportadas em contentores, os carregadores são ob
 
 5 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -399,7 +446,9 @@ b) ...
 
 c) Sempre que as autoridades nacionais e locais competentes dos outros Estados-membros solicitem informações relativas ao navio e à carga perigosa ou poluente a bordo, por razões de segurança marítima, ou de protecção, ou ainda de protecção do ambiente marinho, a DGRM transmite de imediato as informações solicitadas através do SafeSeaNet.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A DGRM pode dispensar do cumprimento das obrigações previstas nos artigos 4.º e 12.º os serviços regulares efectuados entre portos nacionais, desde que cumpridos os requisitos previstos no n.º 3.
 
@@ -421,7 +470,9 @@ d) Qualquer mudança da hora estimada de chegada ao porto de destino ou à esta�
 
 6 - A DGRM transmite à Comissão Europeia a lista das companhias e dos navios dispensados nos termos do presente artigo, bem como eventuais actualizações dessa lista, sendo esta informação disponibilizada e mantida actualizada na página electrónica da DGRM.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -447,7 +498,9 @@ e) Navios assinalados pelos pilotos ou pelas autoridades portuárias como tendo 
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Com vista a prevenir ou atenuar riscos significativos para a segurança marítima, a segurança das pessoas ou o ambiente, o comandante de um navio que navegue em área nacional de busca e salvamento ou na zona económica exclusiva deve, sem prejuízo do quadro do direito internacional, informar imediatamente o centro costeiro geograficamente competente de:
 
@@ -463,7 +516,9 @@ d) ...
 
 3 - O centro costeiro geograficamente competente garante a transmissão, sem demora, da informação mencionada neste artigo à DGRM, à DGAM e ao MRCC/MRSC, bem como, em caso de possibilidade de risco para o ambiente, à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), pela via mais adequada, preferencialmente por via electrónica, e garante a sua disponibilidade às demais entidades competentes.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Quando, em caso de condições meteorológicas ou estado do mar excepcionalmente desfavoráveis, o órgão local da DGAM considere que existe um risco grave de poluição nas zonas marítimas sob sua jurisdição ou das zonas marítimas ou costeiras de outros Estados-membros ou que a segurança de vidas humanas está em perigo:
 
@@ -475,7 +530,9 @@ c) ...
 
 2 - O comandante do navio deve informar a companhia das recomendações a que se refere o número anterior, as quais não obstam, todavia, a qualquer decisão do comandante tomada com base na sua apreciação profissional nos termos da Convenção SOLAS.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A DGRM, a Autoridade Marítima, a Autoridade Nacional de Controlo de Tráfego Marítimo e as autoridades portuárias adoptam, sempre que necessário, as medidas adequadas em caso de incidentes ou acidentes marítimos, nos termos da legislação em vigor.
 
@@ -489,7 +546,9 @@ c) ...
 
 6 - As entidades referidas no presente diploma têm em conta as disposições aplicáveis das Directrizes da OMI sobre o tratamento justo dos marítimos em caso de acidente marítimo em águas sob jurisdição nacional.
 
-###### Artigo 19.º — Autoridade com competência para o acolhimento de navios em dificuldade
+Artigo 19.º
+
+Autoridade com competência para o acolhimento de navios em dificuldade
 
 1 - O membro do Governo responsável pela área do mar é a autoridade nacional competente para autorizar a entrada de um navio em dificuldade num qualquer local de refúgio em águas sob jurisdição portuguesa e para decidir sobre o destino ou a melhor forma de assistir o navio em dificuldade, tendo em conta a necessidade de protecção dos bens públicos e privados e outras circunstâncias externas, nomeadamente meteo-oceanográficas que possam afectar o navio.
 
@@ -531,7 +590,9 @@ g) Um representante do Turismo de Portugal, I. P.
 
 6 - A CTAND reúne, ordinariamente, uma vez por ano, para proceder ao intercâmbio de conhecimentos e para melhorar as medidas tomadas previstas neste artigo, e, extraordinariamente, sempre que as circunstâncias o determinem.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -547,11 +608,15 @@ g) Um representante do Turismo de Portugal, I. P.
 
 7 - A DGRM assegura a interconexão e a interoperabilidade dos sistemas nacionais utilizados para gerir as informações especificadas no anexo i e desenvolve e actualiza o sistema SafeSeaNet.
 
-###### Artigo 23.º — Confidencialidade das informações
+Artigo 23.º
+
+Confidencialidade das informações
 
 As informações transmitidas a todas as entidades intervenientes na execução do presente diploma são confidenciais, apenas podendo ser utilizadas nos termos e para os fins nele previstos, ficando os funcionários que delas tenham conhecimento sujeitos ao dever de sigilo.
 
-###### Artigo 25.º — Regime contra-ordenacional
+Artigo 25.º
+
+Regime contra-ordenacional
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, constituem contra-ordenações, punidas com coima de (euro) 2200 a (euro) 3700, no caso de pessoa singular, e de (euro) 10 000 a (euro) 44 000, no caso de pessoa colectiva:
 
@@ -621,11 +686,15 @@ c) Desembarque as capturas num porto nacional.
 
 2 - As embarcações de pesca equipadas com um AIS mantêm esse sistema operacional e ligado quando operem em águas sob jurisdição nacional, podendo o AIS ser desligado em circunstâncias excepcionais e fora daqueles espaços, quando o comandante o considerar necessário para a segurança ou protecção da sua embarcação.
 
-###### Artigo 6.º-B — Utilização de sistemas de identificação e seguimento de longo alcance de navios (LRIT)
+Artigo 6.º-B
+
+Utilização de sistemas de identificação e seguimento de longo alcance de navios (LRIT)
 
 Os navios que escalem um porto nacional e aos quais se aplicam a regra 19-1 do capítulo v da Convenção SOLAS, as normas de desempenho, bem como os requisitos de funcionamento aprovados pela OMI, devem estar equipados com um sistema LRIT conforme com a referida regra.
 
-###### Artigo 19.º-A — Planos para o acolhimento de navios em dificuldade
+Artigo 19.º-A
+
+Planos para o acolhimento de navios em dificuldade
 
 1 - A DGRM, em articulação com a DGAM, o Comando Naval, o ITN, I. P., o IPMA, I. P., a APA, I. P., e as autoridades portuárias, elabora e mantém actualizados os planos para o acolhimento de navios em dificuldade nas águas sob jurisdição nacional, com vista a responder aos riscos criados por esses navios, incluindo, se for caso disso, os riscos para as vidas humanas e para o ambiente.
 
@@ -651,13 +720,17 @@ g) Procedimentos em matéria de garantias financeiras e de responsabilidade apli
 
 5 - A DGRM é a entidade responsável pela disponibilização das informações pertinentes relativas aos planos, a pedido dos Estados-membros vizinhos.
 
-###### Artigo 19.º-B — Decisão sobre o acolhimento de navios
+Artigo 19.º-B
+
+Decisão sobre o acolhimento de navios
 
 1 - Compete à autoridade referida no n.º 1 do artigo 19.º aceitar um navio num local de refúgio, após uma avaliação prévia da situação, efectuada com base nos planos referidos no artigo anterior.
 
 2 - Os navios são aceites num local de refúgio, para efeitos do número anterior, sempre que se considere que esse acolhimento é a medida mais adequada para a protecção de vidas humanas e do ambiente e para a estabilização da situação do navio.
 
-###### Artigo 19.º-C — Garantia financeira e indemnização
+Artigo 19.º-C
+
+Garantia financeira e indemnização
 
 1 - Ao decidir tecnicamente pelo acolhimento de um navio num local de refúgio, a CTAND pode exigir que o operador, o agente ou o comandante apresentem um certificado de seguro na acepção do artigo 6.º da Directiva n.º [2009/20/CE](https://data.europa.eu/eli/dir/2009/20/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de Abril de 2009, relativa ao seguro dos proprietários de navios em matéria de créditos marítimos.
 
@@ -665,7 +738,9 @@ g) Procedimentos em matéria de garantias financeiras e de responsabilidade apli
 
 3 - O pedido de apresentação do certificado referido no n.º 1 do presente artigo não pode provocar atrasos no acolhimento do navio.
 
-###### Artigo 21.º-A — SafeSeaNet
+Artigo 21.º-A
+
+SafeSeaNet
 
 1 - A DGRM cria sistemas de gestão das informações marítimas, a nível nacional e local, a fim de assegurar o tratamento das informações referidas no presente diploma.
 
@@ -695,15 +770,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 7 de Fevereiro de 2012.**
+Promulgado em 7 de Fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Fevereiro de 2012.**
+Referendado em 9 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -817,7 +892,9 @@ Condições de navegação.
 
 6 - (Anterior n.º 5.)
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 I - [...]
 
@@ -871,7 +948,9 @@ b) [...]
 
 3 - [...]
 
-## ANEXO III — Mensagens electrónicas e SafeSeaNet
+ANEXO III
+
+Mensagens electrónicas e SafeSeaNet
 
 1 - Concepção geral e arquitectura. - O sistema comunitário de intercâmbio de informações marítimas, SafeSeaNet, permite a recepção, o armazenamento, a recuperação e o intercâmbio de informações tendo como objectivo a segurança marítima, a protecção portuária e do transporte marítimo, a protecção do ambiente marinho e a eficácia do tráfego e do transporte marítimo.
 
@@ -933,7 +1012,9 @@ Nos casos em que as normas internacionais permitam o encaminhamento de informaç
 
 Os Estados-membros identificam todos os utilizadores aos quais sejam atribuídos um papel e um conjunto de direitos de acesso ao abrigo do DCIF.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 [...]
 

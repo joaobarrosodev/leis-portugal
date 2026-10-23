@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2005/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2005-573314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46fc23600499014753f1ddf4e1d3d25855e1755a824a964998cd00d821207fc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0538c4107facd960a8a4be9ace3f5e7649390e61262d07e84a5dab6c143e2c14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Câmara Municipal
 - Ilha do Corvo
 - Isenção de Taxas e Emolumentos
 - Lajes das Flores
-- Câmara Municipal
 - Registo Predial
 - Santa CRUZ das Flores
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:240377:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:240377:por
+  label: "Alterados os arts. 3.º e 7.º do Dec Lei 44/2004, de 03-Mar, alterados pelo presente diploma, pela LEI.41/2005.03.08.2005.AR,\
+    \ DR.IS-A [148] de 03.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/41-2005-240377
+  date: '2005-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/44/2004/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/44/2004/03/03/p/dre
+- type: cites
+  target: pt:dre:551643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:06Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +135,9 @@ São alterados os artigos 1.º, 3.º, 4.º, 7.º e 8.º do [Decreto-Lei n.º 44/
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -137,17 +149,23 @@ b) ...
 
 3 - Os interessados dispõem do prazo de dois anos para apresentar o requerimento a que se refere o n.º 1.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - Não sendo possível a citação referida no número anterior, o conservador promove a afixação de editais na conservatória, na junta de freguesia e na câmara municipal respectivas, pelo prazo de 30 dias, convidando os interessados incertos a deduzirem oposição no prazo de 10 dias a contar do termo do prazo de afixação dos editais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Gozam de isenção emolumentar o processo de suprimento da prova do registo referente aos prédios situados nos municípios referidos no n.º 1 do artigo 1.º e os documentos necessários para instruir o mesmo processo.
 
-###### Artigo 8.º — Aplicação no tempo
+Artigo 8.º
+
+Aplicação no tempo
 
 O regime constante do presente diploma vigora pelo prazo de cinco anos a contar da data a sua entrada em vigor.»
 
@@ -157,12 +175,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

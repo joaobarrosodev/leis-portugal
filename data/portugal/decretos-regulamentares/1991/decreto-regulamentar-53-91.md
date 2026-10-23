@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/53/1991/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1991-288246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75a7910e9336ff8acd9268e9123ee7963f2e1638a10d5002968f06c0c65f3cc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aca83f7b143e6d44da1a68f0d25e0da967d91dcc9f36083f0e9f0727dafbf1d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Iroma
 - Política Salarial
 - Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as categorias de assistente técnico, e assistente operacional, nos termos dos arts.\
+    \ 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente diploma, extintas\
+    \ a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), e revogado, a partir da\
+    \ mesma data, com excepção das disposições relativas às categorias subsistentes, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:23Z'
   warnings: []
   errors: []
 ---
@@ -107,17 +140,17 @@ Assim:
 
 Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias não susceptíveis de enquadramento no regime geral previsto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar, existentes no âmbito do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), integradas nos quadros da ex-Junta Nacional dos Produtos Pecuários, ex-Junta Nacional das Frutas e ex-Instituto do Azeite e Produtos Oleaginosos, mantidos em vigor por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1990-334601), de 8 de Fevereiro.
+Artigo 1.º - 1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias não susceptíveis de enquadramento no regime geral previsto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar, existentes no âmbito do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), integradas nos quadros da ex-Junta Nacional dos Produtos Pecuários, ex-Junta Nacional das Frutas e ex-Instituto do Azeite e Produtos Oleaginosos, mantidos em vigor por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1990-334601), de 8 de Fevereiro.
 
 2 - A estrutura das remunerações base das carreiras e categorias referidas no número anterior consta do mapa I anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - Na integração da nova estrutura salarial, por força da aplicação do presente diploma, devem ser consideradas as agregações de categorias e as alterações de designações nos termos previstos no mapa II anexo ao presente diploma, do qual faz parte integrante.
+Art. 2.º - 1 - Na integração da nova estrutura salarial, por força da aplicação do presente diploma, devem ser consideradas as agregações de categorias e as alterações de designações nos termos previstos no mapa II anexo ao presente diploma, do qual faz parte integrante.
 
 2 - O tradutor-correspondente-intérprete transita para a carreira do mesmo nome na categoria de técnico-adjunto principal.
 
 3 - As categorias para que os funcionários transitam nos termos do mapa a que se refere o n.º 1 integram o conteúdo funcional das categorias objecto de extinção.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto nos números seguintes, o regime de ingresso e acesso nas categorias e carreiras a que se refere o presente diploma é o constante das disposições aprovadas pelo [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto.
+Art. 3.º - 1 - Sem prejuízo do disposto nos números seguintes, o regime de ingresso e acesso nas categorias e carreiras a que se refere o presente diploma é o constante das disposições aprovadas pelo [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto.
 
 2 - O recrutamento para a categoria de tripeira principal faz-se de entre tripeiras posicionadas no 3.º escalão ou superior.
 
@@ -125,28 +158,28 @@ Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://dia
 
 4 - A remuneração dos estagiários a que se refere o n.º 5 do artigo 65.º do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144) corresponde à do 1.º escalão das respectivas categorias de ingresso.
 
-###### Art. 4.º A progressão nas carreiras e categorias previstas no mapa I anexo obedece aos módulos de tempo nele estabelecidos.
+Art. 4.º A progressão nas carreiras e categorias previstas no mapa I anexo obedece aos módulos de tempo nele estabelecidos.
 
-###### Art. 5.º - 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
+Art. 5.º - 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
 
 2 - Nos casos previstos no número anterior, para efeitos de cálculo de remunerações no período compreendido entre 1 de Outubro de 1989 e a data de entrada em vigor do presente diploma, atender-se-á ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria.
 
-###### Art. 6.º Em tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 6.º Em tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 7.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
+Art. 7.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
 
 Presidência do Conselho de Ministros, 26 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Setembro de 1991.**
+Promulgado em 24 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Setembro de 1991.**
+Referendado em 26 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf))](https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf)

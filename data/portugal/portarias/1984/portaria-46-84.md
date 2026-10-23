@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-1984-659930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0016bb7ac9b3f70335e9fea5e79c939573eb6e0879a71fcbb01182fb21b1f9fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a764a14128c1ffdd96c2fb03f1d6de37eccf5a9a65950d3283a596f8aba6bc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aviação Civil
+- Navegação Aérea
+- Tarifa Transatlântica
+- Taxa de rota
 relationships:
 - type: amended_by
   target: pt:dre:283541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621942:por
+  label: "Mantido em vigor o disposto no nº 3, pela PORT.987-B/84.1984.12.28.MES, DR.IS [299]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-b-1984-621942
+  date: '1984-12-28'
+- type: amended_by
+  target: pt:dre:195782:por
+  label: "Mantido em vigor o disposto no art. 3º, pela PORT.144/86.1986.04.14.MOPTC, DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/144-1986-195782
+  date: '1986-04-14'
+- type: amended_by
+  target: pt:dre:419674:por
+  label: "Mantido em vigor o disposto no nº 3, pela PORT.528/87.1987.06.27.MOPTC, DR.IS [145]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1987-419674
+  date: '1987-06-27'
+- type: amended_by
+  target: pt:dre:283541:por
+  label: "Mantido em vigor o disposto no nº 3, pela PORT.45/88.1988.01.22.MOPTC, DR.IS [18]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1988-283541
+  date: '1988-01-22'
+- type: cites
+  target: pt:dre:312606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633939:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:16Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +140,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, o
 
 1.º O artigo 11.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 11.º Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
+Art. 11.º Sem prejuízo da aplicação das disposições do artigo 5.º, a taxa unitária para os espaços aéreos definidos no artigo 2.º será de:
 
 US $ 26,49 para a Região de Informação de Voo de Lisboa;
 
@@ -114,7 +150,7 @@ US $ 8,84 para a Região de Informação de Voo de Santa Maria.
 
 3.º Ao artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro, é aditado um n.º 5, com a seguinte redacção:
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 2 - ...
 
@@ -126,24 +162,24 @@ US $ 8,84 para a Região de Informação de Voo de Santa Maria.
 
 4.º O anexo 1 a que se refere o n.º 1 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659) é substituído pelo seguinte:
 
-## Anexo 1 a que se refere o artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 1 a que se refere o artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das tarifas transatlânticas aplicáveis a partir de 1 de Janeiro de 1984 para uma aeronave cujo coeficiente de peso é igual à unidade (50 t métricas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf)
 
 5.º O anexo 3 a que se refere o artigo 3.º da presente portaria passa a fazer parte integrante da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), com a seguinte redacção:
 
-## Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
+Anexo 3 a que se refere o n.º 5 do artigo 12.º da [Portaria n.º 626/75](https://diariodarepublica.pt/dr/detalhe/portaria/626-1975-312659), de 31 de Outubro
 
 Lista das taxas de câmbio das diversas moedas nacionais em relação ao dólar, na base das quais foram calculadas as tarifas transatlânticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02720274.pdf)
 
 6.º Os efeitos decorrentes da aplicação da presente portaria retroagem-se ao dia 1 de Janeiro de 1984.
 
 Ministério do Equipamento Social.
 
-**Assinada em 30 de Dezembro de 1983.**
+Assinada em 30 de Dezembro de 1983.
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.

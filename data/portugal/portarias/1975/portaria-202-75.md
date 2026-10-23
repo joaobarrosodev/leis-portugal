@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/202-1975-161529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05d80bf27f697813b148c9d66125917ffe39ef25f5d8c80bc18e4e0bf0685b12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81c943a7fff2e2be2644e2945d2e290306bfe3bf4770f559feb216ea3b3967ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:40:57Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +103,9 @@ REGULAMENTO PARA A ORGANIZAÇÃO, FUNCIONAMENTO, CONTABILIDADE E ESCRITURAÇÃO 
 
 ### CAPÍTULO I — Organização
 
-###### Artigo 1.º Os conselhos administrativos do Comando-Geral, distritais, E. P. P. e das unidades equivalentes mantêm a sua actual composição.
+Artigo 1.º Os conselhos administrativos do Comando-Geral, distritais, E. P. P. e das unidades equivalentes mantêm a sua actual composição.
 
-###### Art. 2.º - 1. Os serviços administrativos das divisões isoladas ou secções da P. S. P. serão geridos por um conselho eventual, com a seguinte composição:
+Art. 2.º - 1. Os serviços administrativos das divisões isoladas ou secções da P. S. P. serão geridos por um conselho eventual, com a seguinte composição:
 
 Presidente, o comandante da divisão isolada ou de secção.
 
@@ -117,7 +117,7 @@ Tesoureiro, um guarda, de preferência de maior antiguidade.
 
 ### CAPÍTULO II — Atribuições
 
-###### Art. 3.º Compete ao conselho administrativo do Comando-Geral:
+Art. 3.º Compete ao conselho administrativo do Comando-Geral:
 
 a) Superintender, sob a orientação do comandante-geral, em todos os actos de administração do Comando-Geral;
 
@@ -133,7 +133,7 @@ f) Efectuar directamente, ou mediante concurso público ou limitado, de harmonia
 
 g) Fiscalizar os actos de administração efectuados dentro do domínio da sua esfera de acção.
 
-###### Art. 4.º Aos conselhos administrativos dos comandos distritais, E. P. P. e das unidades equivalentes compete:
+Art. 4.º Aos conselhos administrativos dos comandos distritais, E. P. P. e das unidades equivalentes compete:
 
 a) Superintender, sob a orientação do respectivo comandante (quando este não fizer parte do conselho administrativo), em todos os actos de administração do comando distrital, E. P. P. ou unidade equivalente;
 
@@ -149,7 +149,7 @@ f) Efectuar directamente, ou mediante concurso público ou limitado, de harmonia
 
 g) Fiscalizar os actos de administração efectuados dentro do domínio da sua esfera de acção.
 
-###### Art. 5.º Cumpre aos conselhos eventuais das divisões isoladas e secções:
+Art. 5.º Cumpre aos conselhos eventuais das divisões isoladas e secções:
 
 a) Superintender em todos os actos administrativos da divisão isolada e secção;
 
@@ -165,7 +165,7 @@ f) Observar em todas as aquisições as disposições legais aplicáveis, dentro
 
 g) Fiscalizar os actos de administração efectuados dentro do domínio da sua esfera de acção.
 
-###### Art. 6.º - 1. Ao comandante-geral assiste o direito de:
+Art. 6.º - 1. Ao comandante-geral assiste o direito de:
 
 a) Invalidar qualquer deliberação do conselho administrativo do Comando-Geral que reconheça ilegal ou prejudicial aos interesses da Fazenda Nacional, escrevendo e assinando, em seguida à última assinatura da acta, a ordem de anulação ou a indicação do procedimento a adoptar;
 
@@ -187,7 +187,7 @@ c) Analisarem as actas das sessões do conselho administrativo, após o seu ence
 
 3. Aos comandantes distritais assiste-lhes o direito referido no número anterior em relação ao conselho eventual das divisões isoladas e secções que lhes estão subordinadas.
 
-###### Art. 7.º Ao presidente do conselho administrativo do Comando-Geral incumbe:
+Art. 7.º Ao presidente do conselho administrativo do Comando-Geral incumbe:
 
 a) Convocar a reunião do conselho administrativo quando julgue conveniente ou mediante proposta fundamentada de qualquer dos restantes membros e ainda quando superiormente lhe for determinado;
 
@@ -211,7 +211,7 @@ j) Estudar ou mandar estudar os assuntos que necessitem de actualização, com v
 
 l) Visar as requisições que lhe sejam apresentadas pelo secretário, devidamente assinadas e informadas por este membro do conselho administrativo, quanto a cabimento de verba e fundamento legal.
 
-###### Art. 8.º Compete aos presidentes do conselho administrativo dos comandos distritais, E. P. P. ou unidades equivalentes:
+Art. 8.º Compete aos presidentes do conselho administrativo dos comandos distritais, E. P. P. ou unidades equivalentes:
 
 a) Convocar a reunião do conselho administrativo quando julgar conveniente ou mediante proposta fundamentada de qualquer dos restantes membros e ainda quando superiormente lhe for determinado;
 
@@ -235,7 +235,7 @@ j) Estudar ou mandar estudar os assuntos que necessitam de actualização, com v
 
 l) Visar as requisições que sejam apresentadas pelo secretário, devidamente assinadas e informadas por este membro do conselho administrativo, quanto a cabimento de verba e fundamento legal.
 
-###### Art. 9.º Ao presidente do conselho eventual das divisões isoladas e secções compete:
+Art. 9.º Ao presidente do conselho eventual das divisões isoladas e secções compete:
 
 a) Convocar a reunião do conselho eventual quando julgue conveniente ou mediante proposta fundamentada de qualquer dos restantes membros e ainda quando superiormente lhe for determinado;
 
@@ -259,7 +259,7 @@ j) Estudar ou mandar estudar os assuntos que necessitem de actualização, com v
 
 l) Visar as requisições que lhe sejam apresentadas pelo secretário, devidamente assinadas e informadas por este membro do conselho eventual, quanto a cabimento de verba e fundamento legal.
 
-###### Art. 10.º Compete ao secretário (em Lisboa e Porto designado por oficial-tesoureiro):
+Art. 10.º Compete ao secretário (em Lisboa e Porto designado por oficial-tesoureiro):
 
 a) Desempenhar as funções de chefe de contabilidade do conselho administrativo;
 
@@ -301,7 +301,7 @@ t) Dirigir e executar os demais serviços inerentes às suas funções e determi
 
 u) Quando não exista adjunto, mais lhe compete o exercício das atribuições enumeradas no artigo seguinte.
 
-###### Art. 11.º Incumbe ao adjunto do secretário:
+Art. 11.º Incumbe ao adjunto do secretário:
 
 a) Coadjuvar o secretário nos serviços do conselho e substituí-lo nos seus impedimentos legais;
 
@@ -315,7 +315,7 @@ e) Apresentar ao presidente do conselho administrativo as requisições para a c
 
 f) Ter à sua responsabilidade o expediente e arquivo relativos aos serviços a seu cargo.
 
-###### Art. 12.º Ao secretário do conselho eventual compete:
+Art. 12.º Ao secretário do conselho eventual compete:
 
 a) Receber e dar seguimento à correspondência dirigida ao conselho eventual;
 
@@ -355,7 +355,7 @@ s) Apresentar ao presidente do conselho eventual as requisições para a compra 
 
 t) Dirigir e executar os demais serviços inerentes às suas funções e determinados pelo presidente do conselho eventual.
 
-###### Art. 13.º Ao tesoureiro, como único claviculário do cofre, compete:
+Art. 13.º Ao tesoureiro, como único claviculário do cofre, compete:
 
 a) Receber e guardar, mediante os respectivos documentos, devidamente conferidos e informados pelo secretário e visados pelo presidente, as importâncias de qualquer proveniência que lhe sejam entregues para dar entrada no cofre;
 
@@ -371,7 +371,7 @@ f) Ter a seu cargo o expediente e arquivo respeitantes ao serviço ao seu cargo;
 
 g) Executar outros serviços que lhe sejam determinados pelo presidente do conselho administrativo ou eventual.
 
-###### Art. 14.º Aos comandantes ou 2.os comandantes distritais, quer desempenhem ou não as funções do presidente do conselho administrativo, compete:
+Art. 14.º Aos comandantes ou 2.os comandantes distritais, quer desempenhem ou não as funções do presidente do conselho administrativo, compete:
 
 a) Vigiar para que a escrituração das divisões isoladas, secções, esquadras, postos e subpostos seja feita de harmonia com os preceitos legais e regulamentares;
 
@@ -383,7 +383,7 @@ d) Conferir os respectivos registos das esquadras, postos e subpostos, fazendo-s
 
 ### CAPÍTULO III — Funcionamento do conselho administrativo ou eventual
 
-###### Art. 15.º - 1. O conselho administrativo ou eventual só pode deliberar em sessão estando presentes todos os seus membros.
+Art. 15.º - 1. O conselho administrativo ou eventual só pode deliberar em sessão estando presentes todos os seus membros.
 
 2. Em cada sessão o presidente apresenta ao conselho os assuntos a tratar e regula a sequência dos trabalhos pela forma que julgue mais conveniente.
 
@@ -393,7 +393,7 @@ d) Conferir os respectivos registos das esquadras, postos e subpostos, fazendo-s
 
 5. Quando algum membro do conselho administrativo ou eventual se não conforme com as deliberações tomadas, fará consignar essa circunstância em acta, com a declaração de «vencido», ficando assim isento da responsabilidade que daquelas deliberações lhe possa advir.
 
-###### Art. 16.º - 1. Das sessões do conselho só se lavrará acta:
+Art. 16.º - 1. Das sessões do conselho só se lavrará acta:
 
 a) Quando não houver unanimidade nas resoluções;
 
@@ -419,7 +419,7 @@ b) Para transcrição da nota apreciativa do resultado da inspecção;
 
 c) Da sessão que aprova as contas da gerência.
 
-###### Art. 17.º - 1. As actas serão sempre redigidas antes do encerramento dos trabalhos; a sua assinatura sem restrições ou declaração de voto em contrário das deliberações exaradas no texto importa a aprovação das mesmas deliberações.
+Art. 17.º - 1. As actas serão sempre redigidas antes do encerramento dos trabalhos; a sua assinatura sem restrições ou declaração de voto em contrário das deliberações exaradas no texto importa a aprovação das mesmas deliberações.
 
 2. Antes de exarado o visto do comandante (quando este não é o presidente) somente poderão ser cumpridas as deliberações que, pela sua natureza, devam considerar-se incontroversas, habituais e puramente executivas.
 
@@ -427,7 +427,7 @@ c) Da sessão que aprova as contas da gerência.
 
 ### CAPÍTULO IV — Responsabilidades
 
-###### Art. 18.º - 1. Os membros do conselho administrativo ou eventual, quando não tenham feito declaração de voto em contrário da resolução adoptada, são solidariamente responsáveis:
+Art. 18.º - 1. Os membros do conselho administrativo ou eventual, quando não tenham feito declaração de voto em contrário da resolução adoptada, são solidariamente responsáveis:
 
 a) Pelas decisões que contrariem as leis, regulamentos e disposições vigentes;
 
@@ -439,15 +439,15 @@ c) Pela falta de cumprimento de quaisquer prescrições regulamentares ou legais
 
 3. A substituição de qualquer membro do conselho no exercício das suas funções não o liberta de responder pelas faltas e contravenções que se verifiquem no período da sua gerência.
 
-###### Art. 19.º O secretário é o único responsável pelos erros ou irregularidades cometidas na escrita, bem como pelas informações de carácter técnico que preste, por escrito, sobre assuntos de administração e de que possa também advir prejuízo para a Fazenda Nacional.
+Art. 19.º O secretário é o único responsável pelos erros ou irregularidades cometidas na escrita, bem como pelas informações de carácter técnico que preste, por escrito, sobre assuntos de administração e de que possa também advir prejuízo para a Fazenda Nacional.
 
-###### Art. 20.º O tesoureiro é o exclusivo responsável:
+Art. 20.º O tesoureiro é o exclusivo responsável:
 
 a) Por todo o numerário e outros valores que lhe foram confiados;
 
 b) Pelo extravio ou ruína injustificada dos artigos e material atribuídos à sua guarda ou cargo.
 
-###### Art. 21.º - 1. Os prejuízos causados à Fazenda Nacional serão integralmente pagos pelos contraventores, além da responsabilidade criminal ou disciplinar.
+Art. 21.º - 1. Os prejuízos causados à Fazenda Nacional serão integralmente pagos pelos contraventores, além da responsabilidade criminal ou disciplinar.
 
 2. Quando houver mais de um responsável, cada um pagará, do total do prejuízo, a parte que lhe competir proporcionalmente:
 
@@ -461,7 +461,7 @@ c) Ao tempo de exercício do cargo.
 
 Fundos
 
-###### Art. 22.º As importâncias postas à disposição dos conselhos administrativos para satisfação dos seus encargos podem ser constituídas por:
+Art. 22.º As importâncias postas à disposição dos conselhos administrativos para satisfação dos seus encargos podem ser constituídas por:
 
 a) Moeda corrente - numerário;
 
@@ -469,11 +469,11 @@ b) Autorizações de pagamento (fundos do Tesouro);
 
 c) Outros documentos representativos de dinheiro à ordem do conselho administrativo.
 
-###### Art. 23.º As autorizações de pagamentos, logo que são recebidas no conselho administrativo, são escrituradas, distribuindo-se por cada fundo as quantias correspondentes. Analogamente se procederá com outros documentos representativos de dinheiro à ordem do conselho administrativo, designadamente com vales de correio, cheques e quaisquer outros títulos da mesma natureza.
+Art. 23.º As autorizações de pagamentos, logo que são recebidas no conselho administrativo, são escrituradas, distribuindo-se por cada fundo as quantias correspondentes. Analogamente se procederá com outros documentos representativos de dinheiro à ordem do conselho administrativo, designadamente com vales de correio, cheques e quaisquer outros títulos da mesma natureza.
 
-###### Art. 24.º Todos os documentos representativos de dinheiro guardam-se, juntamente com o numerário, no cofre, onde ficam à exclusiva responsabilidade do tesoureiro.
+Art. 24.º Todos os documentos representativos de dinheiro guardam-se, juntamente com o numerário, no cofre, onde ficam à exclusiva responsabilidade do tesoureiro.
 
-###### Art. 25.º - 1. Para efeito de contabilidade, as importâncias a escriturar nos registos do conselho administrativo são distribuídas por fundos, que, nos mesmos registos, podem apresentar saldos positivos (devedores) ou negativos (credores) e são agrupados do modo seguinte:
+Art. 25.º - 1. Para efeito de contabilidade, as importâncias a escriturar nos registos do conselho administrativo são distribuídas por fundos, que, nos mesmos registos, podem apresentar saldos positivos (devedores) ou negativos (credores) e são agrupados do modo seguinte:
 
 a) Fundos recebidos do Tesouro, constituídos pelas verbas do orçamento do Ministério da Administração Interna;
 
@@ -497,7 +497,7 @@ O fundo de fardamento.
 
 Registos
 
-###### Art. 26.º - 1. Os conselhos administrativos mantêm os actuais livros e registos, com excepção dos a seguir mencionados, cujos modelos serão os indicados em anexo a este regulamento:
+Art. 26.º - 1. Os conselhos administrativos mantêm os actuais livros e registos, com excepção dos a seguir mencionados, cujos modelos serão os indicados em anexo a este regulamento:
 
 Diário analítico (modelo n.º 1);
 
@@ -513,15 +513,15 @@ Registo de cheques e vales de correio (modelo n.º 7).
 
 2. O diário sintético e os fundos de depósitos de conta própria e de conta alheia deixam de ser escriturados.
 
-###### Art. 27.º Os conselhos eventuais mantêm os actuais livros e registos, devendo introduzir desde já a folha de caixa, o registo de actas e o de cheques e vales de correio.
+Art. 27.º Os conselhos eventuais mantêm os actuais livros e registos, devendo introduzir desde já a folha de caixa, o registo de actas e o de cheques e vales de correio.
 
-###### Art. 28.º As divisões dos C. D., esquadras, postos e subpostos mantêm os actuais livros e registos.
+Art. 28.º As divisões dos C. D., esquadras, postos e subpostos mantêm os actuais livros e registos.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 29.º Toda a documentação de receita e despesa deve ser arquivada e numerada dentro de cada mês e ano, segundo a ordem cronológica dos lançamentos efectuados no diário analítico (para os conselhos administrativos) e registo modelos n.os 36 e 37-CA (para as divisões isoladas e secções), em pastas distintas.
+Art. 29.º Toda a documentação de receita e despesa deve ser arquivada e numerada dentro de cada mês e ano, segundo a ordem cronológica dos lançamentos efectuados no diário analítico (para os conselhos administrativos) e registo modelos n.os 36 e 37-CA (para as divisões isoladas e secções), em pastas distintas.
 
-###### Art. 30.º - 1. Os blocos de guias de receita só podem ser distribuídos após a sua numeração, dentro de cada ano, por numerador automático, a tinta de óleo e visados com a chancela em uso da assinatura do presidente do conselho administrativo ou eventual.
+Art. 30.º - 1. Os blocos de guias de receita só podem ser distribuídos após a sua numeração, dentro de cada ano, por numerador automático, a tinta de óleo e visados com a chancela em uso da assinatura do presidente do conselho administrativo ou eventual.
 
 2. No fim de cada ano, as guias de receita do último bloco numerado, desde que não sejam escrituradas, devem ser inutilizadas com um carimbo a óleo (vermelho) com a palavra «Inutilizada», seguida da rubrica do presidente do conselho administrativo ou eventual.
 
@@ -541,26 +541,26 @@ a) Ao conselho administrativo, para seu uso e distribuição às divisões, esqu
 
 b) Às divisões isoladas e secções, para seu uso.
 
-###### Art. 31.º Todos os documentos que impliquem a cobrança de emolumentos por meio de estampilhas fiscais só devem ser assinados por quem de direito, simultaneamente com a inutilização dos selos respectivos (data e assinatura).
+Art. 31.º Todos os documentos que impliquem a cobrança de emolumentos por meio de estampilhas fiscais só devem ser assinados por quem de direito, simultaneamente com a inutilização dos selos respectivos (data e assinatura).
 
-###### Art. 32.º Os conselhos administrativos deverão continuar a escriturar os registos em uso, na medida em que possam ser adaptados às novas normas, referidas no artigo 26.º
+Art. 32.º Os conselhos administrativos deverão continuar a escriturar os registos em uso, na medida em que possam ser adaptados às novas normas, referidas no artigo 26.º
 
-###### Art. 33.º O comando-geral ou distrital poderá publicar normas de execução permanente com a finalidade de garantir uma melhor eficiência no serviço do conselho administrativo ou eventual, desde que não contrariem as disposições deste Regulamento.
+Art. 33.º O comando-geral ou distrital poderá publicar normas de execução permanente com a finalidade de garantir uma melhor eficiência no serviço do conselho administrativo ou eventual, desde que não contrariem as disposições deste Regulamento.
 
-###### Art. 34.º - 1. Todas as importâncias mencionadas nos livros e registos devem ser somadas diariamente, mensalmente ou anualmente, conforme o contrôle o exigir.
+Art. 34.º - 1. Todas as importâncias mencionadas nos livros e registos devem ser somadas diariamente, mensalmente ou anualmente, conforme o contrôle o exigir.
 
 2. A numeração mencionada nos livros e registos deve ser seguida, devendo-se evitar números intercalados.
 
-###### Art. 35.º Os cheques passados pelo conselho administrativo ou eventual serão sempre nominativos.
+Art. 35.º Os cheques passados pelo conselho administrativo ou eventual serão sempre nominativos.
 
-###### Art. 36.º Os conselhos administrativos que ainda mantêm em vigor a escrita do antigo regulamento devem, a partir de 1 de Março de 1975, promover à sua imediata actualização, para haver uniformidade em todos os órgãos administrativos da corporação.
+Art. 36.º Os conselhos administrativos que ainda mantêm em vigor a escrita do antigo regulamento devem, a partir de 1 de Março de 1975, promover à sua imediata actualização, para haver uniformidade em todos os órgãos administrativos da corporação.
 
-###### Art. 37.º As dúvidas que se suscitem na execução deste Regulamento serão resolvidas por despacho do comandante-geral.
+Art. 37.º As dúvidas que se suscitem na execução deste Regulamento serão resolvidas por despacho do comandante-geral.
 
-###### Art. 38.º As disposições do presente Regulamento entram em vigor em 1 de Março de 1975.
+Art. 38.º As disposições do presente Regulamento entram em vigor em 1 de Março de 1975.
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/03/07000/04390450.pdf))](https://files.diariodarepublica.pt/1s/1975/03/07000/04390450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/03/07000/04390450.pdf)
 
-**O Ministro da Administração Interna, Manuel da Costa Brás.**
+O Ministro da Administração Interna, Manuel da Costa Brás.

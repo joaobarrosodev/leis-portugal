@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/02/04100/0114101143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2013/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2013-259241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ffdd2eec6ac7ee92cc33ebf6b857c9d8e1ff3e17c8cceac466a448bd6e43fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 893434c2907657402af905bb47d10ef9f68618998ab1125a0eb4ca8b9228e808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Direção Geral das Atividades Económicas
+- Infarmed
 - Medicamento
 - Medicamento Genérico
 - Preço
@@ -79,12 +80,18 @@ subjects:
 - Preço Máximo
 - Receita Médica
 - Sanção
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:108113700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 3.º(na redação do Dec Lei 152/2012, de 12-jul e Dec Lei 112/2011, de 29-nov), aditados os arts 3.º-A
+    e 3.º-B e revogado o n.º 2 do art 3.º do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014,
+    1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2011/11/29/p/dre
   label: null
@@ -93,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/152/2012/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/152/2012/07/12/p/dre
+- type: cites
+  target: pt:dre:146065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179572:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67356991:por
+  label: Revogado, a partir de 01.07.2015, o Dec Lei 112/2011 de 29-nov, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2015-67356991
+  date: '2015-06-01'
+- type: repealed_by
+  target: pt:dre:108113700:por
+  label: Revogado, a partir de 08.09.2017, o presente diploma, com a redação dada pela Lei 82-B/2014 de 31-dez, pelo(a) Decreto-Lei
+    n.º 115/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2017-108113700
+  date: '2017-09-07'
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:01Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +174,9 @@ Os artigos 3.º, 6.º, 10.º e 14.º do [Decreto-Lei n.º 112/2011](https://diar
 
 5 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -163,13 +192,17 @@ Os artigos 3.º, 6.º, 10.º e 14.º do [Decreto-Lei n.º 112/2011](https://diar
 
 7 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os PVP de medicamentos objeto de importação paralela, nos termos do regime jurídico dos medicamentos de uso humano, a introduzir no mercado nacional devem ser inferiores no mínimo em 5 % ao PVP praticado para o medicamento considerado e para os medicamentos idênticos ou essencialmente similares objeto de autorização de introdução no mercado em Portugal.
 
 2 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 As matérias previstas nos n.os 1 e 5 do artigo 3.º e nos artigos 6.º a 10.º e 13.º, bem como os procedimentos necessários à implementação do presente decreto-lei, são regulamentados por portaria do membro do Governo responsável pela área da saúde.»
 
@@ -197,12 +230,12 @@ O presente diploma entra em vigor dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de janeiro de 2013. - Pedro Passos Coelho - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 19 de fevereiro de 2013.**
+Promulgado em 19 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de fevereiro de 2013.**
+Referendado em 22 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

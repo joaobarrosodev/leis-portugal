@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-1971-643290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3df65f73313f452c423ec3e6709d2e3cfc6dd832412b6ca483659fe7c222d312
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41f3e3512b43f73040565e1390a2a0fee8c3ed1a21775fc0bc3a63ae14362c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:58Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +99,17 @@ de 18 de Junho
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, de harmonia como disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma dos Portos de Sotavento do Algarve, aprovadas pela [Portaria n.º 15498](https://diariodarepublica.pt/dr/detalhe/portaria/15498-1955-236151), de 10 de Agosto de 1955, com as alterações introduzidas pelas Portarias n.os 16408, 19033, 19765, 20674, 21772 e 24293 de, respectivamente, 11 de Setembro de 1957, 16 de Fevereiro de 1962, 16 de Março de 1963, 9 de Julho de 1964, 4 de Janeiro de 1966 e 17 de Setembro de 1969, e mais as seguintes alterações aos artigos 36.º, 44.º, 49.º, 61.º, 102.º e 103.º:
 
-###### Art. 36.º Por cada amarração executada por pessoal da Junta cobra-se a taxa de 50$00.
+Art. 36.º Por cada amarração executada por pessoal da Junta cobra-se a taxa de 50$00.
 
 ...
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § único. As mercadorias referidas neste artigo, quando abrangidas pela base I da [Lei n.º 5/70](https://diariodarepublica.pt/dr/detalhe/lei/5-1970-142530), de 6 de Junho, não beneficiam de redução da taxa de utilização do porto.
 
 ...
 
-###### Art. 49.º Pela utilização das pontes de embarque no posto fronteiriço de Vila Real de Santo António cobrar-se-ão, à saída do País, por veículo e por passageiro, as taxas de:
+Art. 49.º Pela utilização das pontes de embarque no posto fronteiriço de Vila Real de Santo António cobrar-se-ão, à saída do País, por veículo e por passageiro, as taxas de:
 
 a) Por cada automóvel ligeiro ... 10$00
 
@@ -109,7 +121,7 @@ c) Por cada passageiro ... 1$00
 
 ...
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 § 1.º Pela ocupação de terraplenos, terrenos marginais e do leito do rio, com instalações para serviços públicos, câmaras municipais, organismos corporativos, instalações de beneficência e outras instalações desportivas e de turismo, cobram-se as taxas que sejam atribuídas, em cada caso, pela comissão administrativa, depois de aprovadas superiormente.
 
@@ -117,12 +129,12 @@ c) Por cada passageiro ... 1$00
 
 ...
 
-###### Art. 102.º Pela utilização das básculas da Junta cobram-se as seguintes taxas:
+Art. 102.º Pela utilização das básculas da Junta cobram-se as seguintes taxas:
 
 a) Por cada pesagem de automóvel ligeiro ou veículo de tracção animal ... 5$00
 
 b) Por cada pesagem de camião ou camioneta ... 10$00
 
-###### Art. 103.º Pela utilização das balanças dos postos de fiscalização cobra-se, por cada pesagem, a taxa de 2$00.
+Art. 103.º Pela utilização das balanças dos postos de fiscalização cobra-se, por cada pesagem, a taxa de 2$00.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

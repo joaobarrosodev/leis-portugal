@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/931-1982-376604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7a0daaa5610a3dcf6b0d158b363a2c524868f3d7b133640794767c5f363e4a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a5fa6c1fa937e34f71bb47f3f6afec7cb6391855f117787a68ab9d7a3b45cfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Duração do Trabalho
+- Forças Armadas
+- Horário de Trabalho
+- Normas de Trabalho
+- Pessoal Civil
+- Serviços Departamentais das Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684228:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:30Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +113,7 @@ Estado-Maior-General das Forças Armadas, 15 de Setembro de 1982. - O Chefe do E
 
 Normas relativas ao período normal de trabalho, isenção de horário de trabalho, regime de trabalho a tempo parcial, condições especiais de trabalho e penalização por atraso na entrada ao serviço do pessoal civil dos serviços departamentais das forças armadas.
 
-# PARTE I — Período normal de trabalho
+## PARTE I — Período normal de trabalho
 
 1 - O período normal de trabalho para o pessoal civil dos serviços departamentais das forças armadas é de 37 horas e 30 minutos por semana.
 
@@ -126,7 +141,7 @@ d) Se respeite o período diário de presença de todo o pessoal que o serviço 
 
 7 - Os horários devem ser aprovados pelo CEM respectivo ou entidade por ele designada.
 
-# PARTE II — Isenção de horário de trabalho
+## PARTE II — Isenção de horário de trabalho
 
 8 - A isenção de horário de trabalho poderá ser estabelecida para o pessoal civil dos serviços departamentais das forças armadas, desde que a natureza das funções que lhe estão cometidas conduza a:
 
@@ -148,7 +163,7 @@ b) Necessidade da manutenção, com carácter permanente, de um regime de pronti
 
 15 - Quando inequivocamente se comprove a efectiva prestação de serviço para além do período normal de trabalho semanal e for reconhecida a sua conveniência pelo respectivo comandante, director ou chefe, haverá direito ao recebimento de remuneração por trabalho extraordinário nos termos gerais.
 
-# PARTE III — Regime de trabalho a tempo parcial
+## PARTE III — Regime de trabalho a tempo parcial
 
 16 - O regime de trabalho a tempo parcial poderá ser autorizado a funcionário que o requeira, desde que a adopção de um tal regime não envolva alargamento dos quadros ou aumento dos efectivos reais e se verifique uma das condições a seguir enumeradas:
 
@@ -174,7 +189,7 @@ c) O requerente pretenda assistir ao cônjuge, ascendente seu ou do cônjuge e a
 
 24 - As funções relativamente às quais se justifique um específico recurso ao regime de trabalho a tempo parcial serão fixadas, em cada ramo das forças armadas, por despacho do respectivo chefe de estado-maior.
 
-# PARTE IV — Condições especiais de trabalho
+## PARTE IV — Condições especiais de trabalho
 
 ### CAPÍTULO I — Trabalho das mulheres durante a gravidez e após o parto
 
@@ -242,7 +257,7 @@ bem como tomar medidas de prevenção e segurança tecnicamente adequadas tendo 
 
 41 - Os períodos normais de trabalho do pessoal referido no número anterior deverão ser reduzidos sem diminuição da respectiva remuneração se, ouvidos os serviços técnicos competentes, a redução se justificar pela natureza do trabalho ou contribuir significativamente para a atenuação dos efeitos nocivos na saúde do mesmo pessoal.
 
-# PARTE V — Penalização por atraso na entrada ao serviço
+## PARTE V — Penalização por atraso na entrada ao serviço
 
 42 - As entradas ao serviço do pessoal civil dos serviços departamentais das forças armadas depois da hora fixada para o efeito são penalizadas de acordo com as seguintes normas:
 

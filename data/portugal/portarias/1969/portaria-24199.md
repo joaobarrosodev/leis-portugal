@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24199-1969-199132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8deb09f978f4a574468bd93d196e2c91010f6251eb7f36a1f1e52bc0042edce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c4faf73941afe9b3e02fbf59741ff9f7f85b2cdbc00c99ed739c3b977c3148e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acompanhamento Familiar
+- Assistência Médica
+- Assistência Social
+- Centro de Saúde Mental
+- Criação de Serviços
+- Estabelecimento Hospitalar
+- Hospital de Miguel Bombarda
+- Lares
+- Ministério da Saúde e Assistência
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:607517:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607517:por
+  label: "Extintos os serviços criados pelo presente diploma, pela PORT.383/82.1982.04.16.MAS, DR.IS [88]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-1982-607517
+  date: '1982-04-16'
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272043:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:20Z'
   warnings: []
   errors: []
 ---

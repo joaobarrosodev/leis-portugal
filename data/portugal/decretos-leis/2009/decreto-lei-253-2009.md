@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/2009/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2009-490426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 305ba4c76e9cce874133d61c70efd12d4a3a32c2ef1dd8f1aca9df83a3f49c17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 882e1f313d05f386ef338e214dd99e53368fa03879edf884a69f60be45686dea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apoio Administrativo
-- Liberdade Religiosa
-- Internamento Hospitalar
-- Serviço Nacional de Saúde
+- Assistência Religiosa
 - Capelão
+- Estabelecimento Hospitalar
+- Internamento Hospitalar
+- Liberdade Religiosa
 - Regime de Pessoal
 - Regulamento
 - Regulamento da Assistência Espiritual e Religiosa no Serviço Nacional de Saúde
-- Estabelecimento Hospitalar
-- Assistência Religiosa
 - Remuneração
+- Serviço Nacional de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/284/1999/07/26/p/dre
@@ -89,16 +89,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:147443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573305:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:20Z'
   warnings: []
   errors: []
 ---
@@ -149,15 +185,15 @@ c) O [Decreto Regulamentar n.º 22/90](https://diariodarepublica.pt/dr/detalhe/d
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Manuel Pedro Cunha da Silva Pereira - Ana Maria Teodoro Jorge.
 
-**Promulgado em 16 de Setembro de 2009.**
+Promulgado em 16 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Setembro de 2009.**
+Referendado em 16 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Regulamento da Assistência Espiritual e Religiosa no Serviço Nacional de Saúde
 

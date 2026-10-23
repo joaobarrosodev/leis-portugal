@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/395-1979-381490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d42d0caa15b8c3de591274b6fda3c0f7ef6d16488bdf835f22e727aa517b4f45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e58c00113ff950d1f3268f770d16d9c2cfc8bcef05a69cfcacab6599c1925d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Marinha
+- Pessoal Civil
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:390645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390645:por
+  label: "Alterado o quadro de pessoal civil da Marinha, aprovado pelo Decreto-Lei 618/70, de 14 de Dezembro, na redacção\
+    \ do presente diploma, pela PORT.211/81.25.02.1981.CR, DR.IS [47] de 25.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-1981-390645
+  date: '1981-02-25'
+- type: cites
+  target: pt:dre:276658:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:35Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +116,11 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, com a con
 
 2) O grupo de pessoal a que se refere o número anterior passa a ter as designações, os números de lugares e as categorias seguintes, ficando extintos, quando vagarem, os lugares que excedem os números agora fixados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf)
 
 3) No grupo III «Pessoal técnico» são acrescentadas as seguintes categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf))](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/17900/18271828.pdf)
 
 4) No grupo de pessoal a que se refere o número anterior são extintos o lugar de auxiliar técnico de máquinas e, quando vagarem, os lugares de auxiliar técnico de pescarias e de pintor restaurador. São diminuídos de uma unidade os efectivos dos auxiliares técnicos de construção civil e de duas unidades os efectivos de auxiliares técnicos de armas e equipamentos, ficando os totais no quadro, respectivamente, com um e dois lugares, os quais passam a ter a designação de técnicos auxiliares de construção civil de 1.ª classe e de técnicos auxiliares de armas e equipamentos de 1.ª classe.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/20200/09730976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1974-474312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e66af4dba3958d5ec67349fc262dad6f3a6764e0aa6eb3d1754eb4e014786e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e433f8d7e4a237932d2c58d773863215f9cf5c7b71eb0e46a80a67af0987ab32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Desenvolvimento Local
+- Desenvolvimento Regional
+- Exploração Agrícola
+- Indústria Agro-alimentar
+- Lacticínios
+- Pecuária
+- Produção Animal
+- Produção Leiteira
+- Programa Autónomo de Desenvolvimento Pecuário dos Açores
+- Secretaria de Estado da Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:382647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382647:por
+  label: Extinto o Programa Pecuário dos Açores (PPA) e determinada a transição dos respectivos direitos e obrigações, incluindo
+    os emergentes dos contratos de arrendamento, para a Secretaria Regional de Agricultura e Pescas pelo(a) Decreto-Lei n.º
+    98/79 - Diário da República n.º 94/1979, Série I de 1979-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-1979-382647
+  date: '1979-04-23'
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412065:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:00Z'
   warnings: []
   errors: []
 ---

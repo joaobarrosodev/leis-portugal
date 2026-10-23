@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/2005/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2005-584208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1012c602307e9e5f5d2535540f7d72be328ec98dd21efb591efa04a0b48eaedf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfd335ede4c0caea592729238ba22097d2816c9d92cff6f4742a9639a071786a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
 subjects:
 - Acção Financeira
 - Assembleia Geral
-- Sociedade Anónima
-- Fiscal Único
+- Câmara Municipal
+- Campeonato do Mundo de Vela de Classes Olímpicas de 2007
 - Capital Social
-- Direcção Geral do Tesouro
+- Cascais
 - Conselho de Administração
+- Direcção Geral do Tesouro
+- Direito Comercial
 - Estatuto
 - Federação Portuguesa de Vela
+- Fiscal Único
 - Fiscalização
-- Recrutamento de Pessoal
 - Instituto do Desporto
-- Direito Comercial
-- Câmara Municipal
-- Remuneração
 - Mobilidade de Pessoal
-- Cascais
+- Recrutamento de Pessoal
 - Registo Comercial
+- Remuneração
+- Sociedade Anónima
 - VELA
-- Campeonato do Mundo de Vela de Classes Olímpicas de 2007
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/24/2005/01/28/p/dre
+- type: cites
+  target: pt:dre:620930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:35Z'
   warnings: []
   errors: []
 ---
@@ -177,15 +185,15 @@ Fica desde já convocada a assembleia geral da Portugal Vela 2007, S. A., para r
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Luís Filipe Marques Amado - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Novembro de 2005.**
+Promulgado em 2 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Novembro de 2005.**
+Referendado em 6 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Estatutos
 

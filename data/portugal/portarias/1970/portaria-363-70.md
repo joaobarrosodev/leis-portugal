@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1970-141586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18a1d4ee962035ef9546fe52c5dee5b07b2bf23c584ce0f40153d71b44ae13f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 550382e156604eddebfd169afb489ba347a74402e8ecffc8d1449f7725860177
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:16Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Serviços de Educação
 
 Despesas com o pessoal:
 
-###### Artigo 66.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
+Artigo 66.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 100000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -99,7 +103,7 @@ Serviços da Aeronáutica Civil
 
 Despesas com o pessoal:
 
-###### Artigo 268.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual» ... 100000$00
+Artigo 268.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal contratado - Vencimento contratual» ... 100000$00
 
 ... 200000$00
 

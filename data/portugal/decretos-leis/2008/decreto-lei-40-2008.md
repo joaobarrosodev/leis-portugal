@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2008/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2008-247223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab36e739cd937d6fe5ca07c1f2050f9043da710c31ebc7d3d88e4497a879e97d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14594f8db4532dd53971d8de2e75556eb97525812389ad9abda3d66e78079bea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - Admissão de Pessoal
+- Bolsa de Emprego Público
 - Concurso
+- Contratação de Pessoal
 - Definição de Competências
 - Direcção Geral da Administração e do Emprego Público
-- Administração Pública
-- Bolsa de Emprego Público
-- Recrutamento de Pessoal
-- Informação
-- Gerap
 - Direitos do Indivíduo
-- Contratação de Pessoal
+- Emprego
+- Função Pública
+- Gerap
+- Informação
+- Internet
+- Mobilidade de Pessoal
 - Pessoal Disponivel
 - Pessoal Supranumerario
-- Internet
-- Emprego
+- Recrutamento de Pessoal
 - Recursos Humanos
-- Mobilidade de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411608:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411608:por
+  label: "Alterado o art. 3º do Dec Lei 78/2003, de 23-abr, na redação do presente diploma, pelo DEC LEI.117-A/2012.14.06.2012.MF,\
+    \ DR.IS [114-Supl] de 14.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-a-2012-411608
+  date: '2012-06-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/2007/02/07/p/dre
   label: null
@@ -108,16 +114,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:239798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:50Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +206,9 @@ São alterados os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 10.º do [D
 
 2 - A BEP é uma base de informação que visa simplificar e agilizar a divulgação dos processos de recrutamento e de mobilidade dos recursos humanos da Administração Pública.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -190,11 +218,15 @@ São alterados os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 10.º do [D
 
 4 - As associações públicas, as entidades públicas empresariais e as instituições particulares de solidariedade social que, ao abrigo do disposto nos artigos 35.º e 36.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, pretendam recrutar pessoal em situação de mobilidade especial, podem utilizar a BEP para efeitos de divulgação das ofertas de emprego e, ou, respectivos procedimentos de selecção, aplicando-se, com as devidas adaptações, o regime previsto para os serviços e organismos referidos no n.º 1.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A gestão da BEP compete à Empresa de Gestão Partilhada de Recursos da Administração Pública, E. P. E., adiante designada por GeRAP.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +266,9 @@ g) Aos interessados, nos casos previstos na alínea h);
 
 h) À Direcção-Geral da Administração e do Emprego Público e à GeRAP, no caso previsto na alínea i).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A informação constante da BEP é estruturada:
 
@@ -260,7 +294,9 @@ c) A nível funcional, por carreira, categoria, actividade e, quando necessário
 
 9 - A divulgação das ofertas de emprego referidas nas alíneas a), b) e c) do n.º 1 do artigo 4.º, quando respeitem a exercício de funções por tempo indeterminado, está condicionada ao cumprimento do disposto no artigo 41.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - É obrigatório o registo na BEP da informação a que se referem as alíneas b), c), d), e), f) e g) do n.º 1 do artigo 4.º, com a estrutura mencionada no artigo 6.º, sem prejuízo do disposto no n.º 2 do artigo 2.º
 
@@ -296,7 +332,9 @@ c) 90 dias seguidos, nos restantes casos, sem prejuízo de poder ser renovada at
 
 11 - Os serviços utilizadores da BEP são obrigados a comunicar à GeRAP, no prazo máximo de 10 dias úteis, todos os recrutamentos efectuados e a que se aplique o regime de registo obrigatório, identificando ainda, de entre aqueles, os que foram concretizados com apoio da BEP.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O registo da informação na BEP, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pela GeRAP.
 
@@ -304,7 +342,9 @@ c) 90 dias seguidos, nos restantes casos, sem prejuízo de poder ser renovada at
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - À GeRAP, enquanto entidade gestora da BEP, compete especialmente:
 
@@ -360,15 +400,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 26 de Fevereiro de 2008.**
+Promulgado em 26 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Fevereiro de 2008.**
+Referendado em 27 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 78/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2003-239798), de 23 de Abril
 

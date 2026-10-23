@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/24900/19631967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/733-1973-412274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 835a7b3fb765d34dd60fc2c7751c43ab479cb3791472dad4ab4f42bba06e7a8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b76b5e1169769ccd5488b1b6cb35c93a649910598ad13f71e973f6a8e98e4dc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro Técnico do Metal
+- Criação de Serviços
+- Definição de Competências
+- Estatuto
+- Secretaria de Estado da Indústria
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O CENTRO TÉCNICO DO METAL PELO DECRETO LEI 358/76, PUBLICADO NO DR.IS, 113, DE 760514.\060514.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:428021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:428021:por
+  label: Extintos os Centros Técnicos da Cerâmica, do Metal e da Madeira, criados ao abrigo do Dec Lei 180/73, de 19-abr,
+    e, respetivamente, pelas Ports 713/73, de 17-out, pela presente, e pela 740/73, de 25-out, pelo(a) Decreto-Lei n.º 358/76
+    - Diário da República n.º 113/1976, Série I de 1976-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/358-1976-428021
+  date: '1976-05-14'
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673842:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:42Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +124,15 @@ ESTATUTOS DO CENTRO TÉCNICO DO METAL
 
 ### CAPÍTULO I — Denominação, natureza e fins
 
-###### Artigo 1.º - 1. Os presentes estatutos regem o Centro Técnico do Metal, pessoa colectiva de direito privado sem fim lucrativo, criado ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
+Artigo 1.º - 1. Os presentes estatutos regem o Centro Técnico do Metal, pessoa colectiva de direito privado sem fim lucrativo, criado ao abrigo do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril, que fixa as bases legais dos centros técnicos de cooperação industrial.
 
 2. O Centro Técnico do Metal terá a sua sede em Lisboa e uma delegação central no Porto.
 
 3. Por deliberação do conselho de administração, poderão ser criadas em qualquer local do continente as delegações que forem julgadas necessárias.
 
-###### Art. 2.º O Centro Técnico do Metal tem por finalidade apoiar directamente as empresas que concorrem para a produção, transformação ou utilização de metais, promovendo o desenvolvimento dos sectores em que actuam, de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
+Art. 2.º O Centro Técnico do Metal tem por finalidade apoiar directamente as empresas que concorrem para a produção, transformação ou utilização de metais, promovendo o desenvolvimento dos sectores em que actuam, de modo a permitir adequada solução dos problemas decorrentes da evolução da sua actividade.
 
-###### Art. 3.º As atribuições do Centro Técnico do Metal são, essencialmente:
+Art. 3.º As atribuições do Centro Técnico do Metal são, essencialmente:
 
 a) Promover a aplicação pelas empresas industriais abrangidas pelo Centro dos conhecimentos e inovações adquiridos no País e no estrangeiro, com vista a facilitar a modernização das mesmas, nos seus diferentes aspectos, sem prejuízo da propriedade e confidencialidade de tecnologias específicas das empresas;
 
@@ -120,7 +144,7 @@ d) Promover a formação e o aperfeiçoamento do pessoal de todas as categorias,
 
 e) Elaborar estudos sectoriais e outros com interesse para a expansão dos sectores e promover acções de índole colectiva.
 
-###### Art. 4.º Para a consecução dos fins previstos deve o Centro Técnico do Metal, nomeadamente:
+Art. 4.º Para a consecução dos fins previstos deve o Centro Técnico do Metal, nomeadamente:
 
 a) Prestar assistência técnica às empresas;
 
@@ -146,13 +170,13 @@ l) Realizar ou promover a realização de estudos e acções que se apresentem c
 
 m) Manter ligações de carácter técnico com organismos afins, nacionais, estrangeiros ou internacionais, com instituições de ensino e investigação e com quaisquer outras entidades públicas ou privadas e, em particular, utilizar os serviços que aqueles organismos possam facultar por forma a conseguir a máxima eficácia na sua acção.
 
-###### Art. 5.º As actividades do Centro Técnico do Metal devem justificar-se economicamente pelos serviços directos ou indirectos prestados aos sectores industriais que o Centro serve.
+Art. 5.º As actividades do Centro Técnico do Metal devem justificar-se economicamente pelos serviços directos ou indirectos prestados aos sectores industriais que o Centro serve.
 
 ### CAPÍTULO II — Dos membros
 
-###### Art. 6.º São membros do Centro Técnico do Metal as sociedades e os empresários em nome individual legalmente autorizados a exercer actividades de produção, transformação ou utilização dos metais, bem como outras entidades individuais ou colectivas, públicas, privadas ou mistas, com interesse reconhecido para as actividades do Centro.
+Art. 6.º São membros do Centro Técnico do Metal as sociedades e os empresários em nome individual legalmente autorizados a exercer actividades de produção, transformação ou utilização dos metais, bem como outras entidades individuais ou colectivas, públicas, privadas ou mistas, com interesse reconhecido para as actividades do Centro.
 
-###### Art. 7.º - 1. Há duas categorias de membros: efectivos e aderentes. Os membros efectivos poderão ser ainda contribuintes e comuns.
+Art. 7.º - 1. Há duas categorias de membros: efectivos e aderentes. Os membros efectivos poderão ser ainda contribuintes e comuns.
 
 2. São membros efectivos do Centro as sociedades e os empresários em nome individual inscritos nos Grémios dos Industriais Metalúrgicos e Metalomecânicos, Grémio dos Industriais de Arame e Produtos Derivados, Grémio da Construção e Reparação Naval, Grémio dos Industriais de Cutelaria e Grémio da Montagem e Fabricação de Veículos Automóveis, bem como outras empresas ou organismos com sectores de actividade cumprindo o artigo 2.º e que o conselho de administração entenda dever considerar como tal.
 
@@ -168,7 +192,7 @@ b) Facultativamente, em qualquer altura da vida do Centro, todos os membros comu
 
 6. Os membros efectivos comuns e aderentes não têm direito a voto nem podem ser eleitos para qualquer cargo dos corpos gerentes.
 
-###### Art. 8.º Constituem direitos dos membros do Centro:
+Art. 8.º Constituem direitos dos membros do Centro:
 
 a) Participar nas assembleias gerais e, caso sejam membros efectivos contribuintes, votar e serem eleitos para corpos gerentes;
 
@@ -178,7 +202,7 @@ c) Gozar de preferência em todas as actividades realizadas pelo Centro;
 
 d) Receber as publicações do Centro e outras que se destinem a ser distribuídas gratuitamente.
 
-###### Art. 9.º Constituem deveres dos membros do Centro:
+Art. 9.º Constituem deveres dos membros do Centro:
 
 a) Pagar as quotas que lhes forem fixadas;
 
@@ -186,7 +210,7 @@ b) Cooperar nas actividades do Centro e contribuir para a realização dos seus 
 
 c) Exercer os cargos para que sejam eleitos, no caso de serem membros efectivos contribuintes.
 
-###### Art. 10.º Perde-se a qualidade de membro do Centro:
+Art. 10.º Perde-se a qualidade de membro do Centro:
 
 a) Por interdição, dissolução, falência ou insolvência judicial;
 
@@ -196,13 +220,13 @@ c) Por deliberação do conselho de administração, sancionada pela assembleia 
 
 ### CAPÍTULO III — Dos órgãos de gestão
 
-###### Art. 11.º São órgãos do Centro Técnico do Metal: a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 11.º São órgãos do Centro Técnico do Metal: a assembleia geral, o conselho de administração e o conselho fiscal.
 
-###### Art. 12.º A assembleia geral é constituída por todos os membros do Centro mencionados no artigo 6.º
+Art. 12.º A assembleia geral é constituída por todos os membros do Centro mencionados no artigo 6.º
 
-###### Art. 13.º A mesa da assembleia geral será composta por um presidente, um vice-presidente e um secretário, eleitos por um período de três anos, renovável uma ou mais vezes.
+Art. 13.º A mesa da assembleia geral será composta por um presidente, um vice-presidente e um secretário, eleitos por um período de três anos, renovável uma ou mais vezes.
 
-###### Art. 14.º Compete à assembleia geral:
+Art. 14.º Compete à assembleia geral:
 
 a) Apreciar e votar as propostas de alterações dos estatutos que lhe forem submetidas;
 
@@ -212,23 +236,23 @@ c) Discutir e dar parecer sobre os programas plurianuais de actividade;
 
 d) Discutir e aprovar o relatório e contas anuais.
 
-###### Art. 15.º - 1. A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 14.º, podendo ainda reunir extraordinariamente por iniciativa do presidente, a pedido do conselho de administração ou de um décimo dos membros efectivos contribuintes do Centro.
+Art. 15.º - 1. A assembleia geral reunirá, pelo menos, uma vez por ano para dar cumprimento ao disposto na alínea d) do artigo 14.º, podendo ainda reunir extraordinariamente por iniciativa do presidente, a pedido do conselho de administração ou de um décimo dos membros efectivos contribuintes do Centro.
 
 2. À assembleia geral assistem o conselho de administração e o conselho fiscal.
 
 3. A assembleia geral delibera validamente em primeira convocação quando estiverem presentes, pelo menos, mais de metade dos membros efectivos contribuintes e em segunda convocação com qualquer número de membros presentes.
 
-###### Art. 16.º Cada membro efectivo contribuinte tem direito a um voto, o qual poderá ser delegado em qualquer outro membro, através de documento devidamente autenticado.
+Art. 16.º Cada membro efectivo contribuinte tem direito a um voto, o qual poderá ser delegado em qualquer outro membro, através de documento devidamente autenticado.
 
-###### Art. 17.º - 1. O Centro Técnico do Metal é administrado por um conselho de administração, que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
+Art. 17.º - 1. O Centro Técnico do Metal é administrado por um conselho de administração, que nomeará o director do Centro e nele delegará todos os poderes necessários à sua direcção, devendo aquela nomeação ser homologada pelo Secretário de Estado da Indústria.
 
 2. A direcção do Centro Técnico será regionalmente descentralizada nos termos em que, atenta a natureza das funções, a localização dos órgãos técnicos de apoio e a distribuição geográfica dos subsectores interessados se mostrem aconselháveis. Para o efeito, poderá o director ser coadjuvado por subdirectores regionais, cuja competência específica será definida pelo conselho de administração.
 
-###### Art. 18.º - 1. O conselho de administração compreende quatro representantes de entidades privadas eleitos pela assembleia geral, duas personalidades nomeadas pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e o director do Centro.
+Art. 18.º - 1. O conselho de administração compreende quatro representantes de entidades privadas eleitos pela assembleia geral, duas personalidades nomeadas pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e o director do Centro.
 
 2. Na eleição dos representantes das entidades privadas referidos no número anterior ter-se-á em conta a distribuição regional dos subsectores interessados, podendo aos mesmos ser conferidas as delegações de poderes que se entendam necessárias à eficiente orientação das actividades regionais do Centro.
 
-###### Art. 19.º - 1. O conselho de administração elegerá um presidente de entre os seus representantes das entidades privadas.
+Art. 19.º - 1. O conselho de administração elegerá um presidente de entre os seus representantes das entidades privadas.
 
 2. Os membros do conselho de administração eleitos pela assembleia geral exercerão as suas funções por um período de três anos, podendo, no entanto, ser reconduzidos por igual período até metade do seu número.
 
@@ -236,7 +260,7 @@ d) Discutir e aprovar o relatório e contas anuais.
 
 4. As personalidades referidas no artigo 18.º serão nomeadas por um período de três anos, podendo o Secretário de Estado da Indústria, por decisão expressa, renovar os respectivos mandatos.
 
-###### Art. 20.º Ao conselho de administração compete:
+Art. 20.º Ao conselho de administração compete:
 
 a) Definir a política geral do Centro e superintender na sua actividade por forma que este atinja os objectivos que lhe são cometidos;
 
@@ -262,15 +286,15 @@ l) Aprovar a regulamentação das formas de aquisição de equipamento e materia
 
 m) Aceitar, com observância das disposições legais aplicáveis, as doações feitas a favor do Centro.
 
-###### Art. 21.º - 1. O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente, o director, a maioria dos seus membros ou o presidente do conselho fiscal o solicite.
+Art. 21.º - 1. O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente, o director, a maioria dos seus membros ou o presidente do conselho fiscal o solicite.
 
 2. O conselho de administração pode deliberar quando estiverem presentes a maioria absoluta dos seus membros, sendo as deliberações tomadas à pluralidade de votos, tendo o presidente voto de qualidade.
 
 3. Assiste às reuniões do conselho de administração o presidente do conselho fiscal, nos termos do artigo 25.º
 
-###### Art. 22.º Os membros do conselho de administração terão direito a uma retribuição a fixar pela comissão de remunerações, excepção feita ao director, cuja remuneração, como funcionário do Centro, será fixada pelo conselho de administração.
+Art. 22.º Os membros do conselho de administração terão direito a uma retribuição a fixar pela comissão de remunerações, excepção feita ao director, cuja remuneração, como funcionário do Centro, será fixada pelo conselho de administração.
 
-###### Art. 23.º Compete ao director do Centro:
+Art. 23.º Compete ao director do Centro:
 
 a) Orientar e dirigir a actividade do Centro e bem assim praticar todos os actos inerentes à sua gestão, de harmonia com as orientações gerais fixadas pelo conselho de administração;
 
@@ -284,11 +308,11 @@ e) Submeter ao conselho de administração as propostas de alteração à estrut
 
 f) Propor ao conselho de administração a homologação do pessoal de chefia.
 
-###### Art. 24.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois representantes eleitos em assembleia geral.
+Art. 24.º - 1. O conselho fiscal é constituído por um presidente, nomeado pelo Secretário de Estado da Indústria, sob proposta do director do Instituto Nacional de Investigação Industrial, e por dois representantes eleitos em assembleia geral.
 
 2. É aplicável ao presidente e aos membros eleitos do conselho fiscal, conforme os casos, o disposto no artigo 19.º, n.os 2, 3 e 4, destes estatutos.
 
-###### Art. 25.º Compete ao conselho fiscal:
+Art. 25.º Compete ao conselho fiscal:
 
 a) Zelar por que a actividade do Centro não se desvie dos objectivos que lhe foram fixados;
 
@@ -306,15 +330,15 @@ g) Dar parecer sobre quaisquer outros assuntos que sejam submetidos à sua aprec
 
 h) Verificar a legalidade e a conformidade estatutária das despesas efectuadas.
 
-###### Art. 26.º Para efeitos da execução das alíneas b), c), d) e h) do artigo 25.º, o Centro Técnico do Metal poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
+Art. 26.º Para efeitos da execução das alíneas b), c), d) e h) do artigo 25.º, o Centro Técnico do Metal poderá contratar um revisor oficial de contas ou uma sociedade de revisão de contas, referidos no [Decreto-Lei n.º 1/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1972-291800), de 3 de Janeiro.
 
-###### Art. 27.º - 1. O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
+Art. 27.º - 1. O conselho fiscal reunirá ordinariamente uma vez por trimestre e extraordinariamente sempre que o presidente o convocar, quer por iniciativa própria, quer a pedido dos restantes membros, quer a solicitação do conselho de administração.
 
 2. O conselho fiscal pode deliberar quando estiverem presentes pelo menos a maioria dos seus membros, sendo as deliberações tomadas à pluralidade dos votos, tendo o presidente voto de qualidade.
 
-###### Art. 28.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pela comissão de remunerações.
+Art. 28.º Os membros do conselho fiscal terão direito a uma remuneração a fixar pela comissão de remunerações.
 
-###### Art. 29.º Ao presidente do conselho fiscal compete:
+Art. 29.º Ao presidente do conselho fiscal compete:
 
 a) Presidir às reuniões do conselho fiscal, gozando de voto de qualidade em todas as deliberações;
 
@@ -328,7 +352,7 @@ e) Quando o conselho de administração discordar do uso do direito de veto refe
 
 ### CAPÍTULO IV — Do regime financeiro
 
-###### Art. 30.º - 1. As receitas do Centro Técnico do Metal compreendem, nomeadamente:
+Art. 30.º - 1. As receitas do Centro Técnico do Metal compreendem, nomeadamente:
 
 a) As quotizações obrigatoriamente pagas pelos membros efectivos contribuintes;
 
@@ -348,9 +372,9 @@ h) Os juros dos depósitos efectuados pelo Centro.
 
 2. As receitas do Centro serão depositadas na Caixa Geral de Depósitos.
 
-###### Art. 31.º - 1. As quotizações anuais dos membros efectivos contribuintes são definidas da forma seguinte, sendo a quota mínima 6000$00:
+Art. 31.º - 1. As quotizações anuais dos membros efectivos contribuintes são definidas da forma seguinte, sendo a quota mínima 6000$00:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19631967.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19631967.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19631967.pdf)
 
 2. As quotizações pagas por empresas que sejam membros contribuintes de organismos de cooperação técnica já existentes e reconhecidos pelo Secretário de Estado da Indústria serão deduzidas às quotizações que, nos termos do número anterior, as mesmas deveriam pagar ao Centro Técnico do Metal.
 
@@ -358,37 +382,37 @@ h) Os juros dos depósitos efectuados pelo Centro.
 
 4. A dedução referida no n.º 2 deste artigo não implica, para as empresas que dela beneficiam, perda de qualidade de sócio efectivo contribuinte do Centro.
 
-###### Art. 32.º A tabela de quotizações será revista no fim dos dois primeiros anos de actividade e findos os primeiros cinco anos serão revistas as condições de financiamento do Centro.
+Art. 32.º A tabela de quotizações será revista no fim dos dois primeiros anos de actividade e findos os primeiros cinco anos serão revistas as condições de financiamento do Centro.
 
-###### Art. 33.º O montante das comparticipações do Estado nas despesas de instalação e funcionamento do Centro Técnico do Metal será definido por despacho do Secretário de Estado da Indústria através da utilização das dotações anuais atribuídas para o efeito ao Instituto Nacional de Investigação Industrial.
+Art. 33.º O montante das comparticipações do Estado nas despesas de instalação e funcionamento do Centro Técnico do Metal será definido por despacho do Secretário de Estado da Indústria através da utilização das dotações anuais atribuídas para o efeito ao Instituto Nacional de Investigação Industrial.
 
-###### Art. 34.º - 1. A comissão de remunerações é constituída pelo presidente da assembleia geral e por dois membros designados trienalmente por esta assembleia.
+Art. 34.º - 1. A comissão de remunerações é constituída pelo presidente da assembleia geral e por dois membros designados trienalmente por esta assembleia.
 
 2. Compete-lhe fixar as remunerações dos membros do conselho de administração e do conselho fiscal.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 35.º - 1. O pessoal do Centro Técnico do Metal ficará sujeito a um regulamento elaborado tendo em conta as normas legais e regulamentares, bem como o contrato colectivo de trabalho dos técnicos e operários metalúrgicos e metalomecânicos e o contrato de trabalho para os empregados de escritório dos metalúrgicos e metalomecânicos.
+Art. 35.º - 1. O pessoal do Centro Técnico do Metal ficará sujeito a um regulamento elaborado tendo em conta as normas legais e regulamentares, bem como o contrato colectivo de trabalho dos técnicos e operários metalúrgicos e metalomecânicos e o contrato de trabalho para os empregados de escritório dos metalúrgicos e metalomecânicos.
 
 2. O regulamento referido no número anterior será homologado por despacho conjunto dos Secretários de Estado da Indústria e do Trabalho e Previdência.
 
-###### Art. 36.º As remunerações de todo o pessoal devem acompanhar os níveis praticados na indústria abrangida pelo Centro.
+Art. 36.º As remunerações de todo o pessoal devem acompanhar os níveis praticados na indústria abrangida pelo Centro.
 
-###### Art. 37.º O pessoal do Centro Técnico do Metal está obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
+Art. 37.º O pessoal do Centro Técnico do Metal está obrigado a segredo profissional, ficando sujeito às disposições aplicáveis do Código Penal.
 
-###### Art. 38.º O pessoal do Centro Técnico do Metal poderá compreender funcionários públicos pertencentes aos quadros aprovados por lei, sob proposta do conselho de administração do Centro e mediante prévia autorização do Ministro respectivo e de harmonia com o artigo 29.º do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
+Art. 38.º O pessoal do Centro Técnico do Metal poderá compreender funcionários públicos pertencentes aos quadros aprovados por lei, sob proposta do conselho de administração do Centro e mediante prévia autorização do Ministro respectivo e de harmonia com o artigo 29.º do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
 
-###### Art. 39.º Em relação aos funcionários públicos que não sejam do Centro Técnico do Metal, assegurará a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
+Art. 39.º Em relação aos funcionários públicos que não sejam do Centro Técnico do Metal, assegurará a antiguidade que tinham nos serviços de origem, nomeadamente no que respeita a férias, indemnizações por despedimento e remunerações complementares dependentes do tempo de serviço.
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 40.º A ligação do Centro Técnico do Metal com a Secretaria de Estado da Indústria processar-se-á por intermédio do Instituto Nacional de Investigação Industrial, nos termos do artigo 31.º do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
+Art. 40.º A ligação do Centro Técnico do Metal com a Secretaria de Estado da Indústria processar-se-á por intermédio do Instituto Nacional de Investigação Industrial, nos termos do artigo 31.º do [Decreto-Lei n.º 180/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1973-673842), de 19 de Abril.
 
-###### Art. 41.º A constituição e a actividade do Centro Técnico do Metal será isenta de todos os impostos, incluindo o do selo, taxas, emolumentos e de custas.
+Art. 41.º A constituição e a actividade do Centro Técnico do Metal será isenta de todos os impostos, incluindo o do selo, taxas, emolumentos e de custas.
 
-###### Art. 42.º Os montantes correspondentes às quotizações pagas pelas empresas são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
+Art. 42.º Os montantes correspondentes às quotizações pagas pelas empresas são dedutíveis da matéria colectável para efeito das contribuições devidas ao Estado e aos corpos administrativos.
 
-###### Art. 43.º O Centro Técnico do Metal obriga-se:
+Art. 43.º O Centro Técnico do Metal obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -396,6 +420,6 @@ b) Pela assinatura de um membro do conselho de administração e de um procurado
 
 c) Pela assinatura de um só membro do conselho de administração ou de um só procurador quando o conselho de administração o delibere, por voto unânime dos membros presentes à respectiva sessão.
 
-###### Art. 44.º Por proposta do director, o conselho de administração pode autorizar nas diferentes áreas de actuação do Centro a constituição de conselhos técnicos, com funções consultivas. Os conselhos são constituídos por membros do Centro e individualidades externas de reconhecida competência técnica ou científica.
+Art. 44.º Por proposta do director, o conselho de administração pode autorizar nas diferentes áreas de actuação do Centro a constituição de conselhos técnicos, com funções consultivas. Os conselhos são constituídos por membros do Centro e individualidades externas de reconhecida competência técnica ou científica.
 
-**O Secretário de Estado da Indústria, Hermes Augusto dos Santos.**
+O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

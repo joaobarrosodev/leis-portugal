@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/039a00/14901507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2006/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2006-676606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e97e5b361902079c6544a58873508260b4667b85679d06e56a8386a0934396a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b280cef32ba9397e301d089033c84de9944a530c9d2655a0c6f9f1e59856bb4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Protecção à Família
-- Financiamento
 - Cidadão Estrangeiro
-- Doença Mental
-- Programa de Inserção
-- Rendimento Social de Inserção
+- Deficiente
 - Doença
-- Segurança Social
+- Doença Mental
+- Financiamento
 - Incapacidade Permanente
+- Programa de Inserção
+- Protecção à Família
+- Rendimento Social de Inserção
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:178491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335683:por
+  label: "Alterados, a partir de 01.08.2010, os arts. 6º, 40º, 42º, 51º, 64º e 70º do Dec Lei 283/2003, de 08-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.70/2010.16.06.2010.MTSSO, DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2010-335683
+  date: '2010-06-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1992/08/05/p/dre
   label: null
@@ -117,16 +123,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/45/2005/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/45/2005/08/29/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178491:por
+  label: "Revogado, a partir de 01.07.2012, o Dec Lei 283/2003, de 08-nov, na redação do presente diploma, pelo DEC LEI.133/2012.27.06.2012.MSSSOC,\
+    \ DR.IS [123] de 27.06.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2012-178491
+  date: '2012-06-27'
 article_structure:
-  article_count: 124
+  article_count: 92
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:43Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +243,9 @@ c) Se encontrem a prestar apoio indispensável a membros do seu agregado familia
 
 6 - O programa de inserção das pessoas que se encontram a prestar apoio indispensável a membros do agregado familiar deve especificar os membros aos quais o apoio é prestado, bem como a natureza e duração do mesmo.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +263,9 @@ b) As pessoas acolhidas em instituições comparticipadas pela segurança social
 
 6 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +277,9 @@ b) As pessoas acolhidas em instituições comparticipadas pela segurança social
 
 5 - Nos casos de ausência superior a 30 dias, por motivo não referido nos números anteriores, há lugar a revisão do agregado familiar, nos termos do artigo 61.º
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para atribuição e cálculo do montante da prestação, devem considerar-se os valores ilíquidos ou brutos da totalidade dos rendimentos do agregado familiar.
 
@@ -229,7 +287,9 @@ b) As pessoas acolhidas em instituições comparticipadas pela segurança social
 
 3 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +297,9 @@ b) As pessoas acolhidas em instituições comparticipadas pela segurança social
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os rendimentos de trabalho dependente a declarar para efeitos da atribuição da prestação são os efectivamente auferidos no mês anterior ao da apresentação do requerimento ou, no caso de rendimentos variáveis, os efectivamente auferidos nos três meses anteriores, não podendo, no entanto, ser inferiores aos declarados como base de incidência contributiva para o regime geral de segurança social dos trabalhadores por conta de outrem.
 
@@ -247,15 +309,21 @@ b) As pessoas acolhidas em instituições comparticipadas pela segurança social
 
 4 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Os rendimentos de trabalho independente a considerar para efeitos da atribuição da prestação correspondem à média dos valores efectivamente auferidos nos três meses anteriores ao da apresentação do requerimento, não podendo, no entanto, ser inferiores aos efectivamente considerados, em cada caso, como base de incidência contributiva para o regime geral de segurança social dos trabalhadores independentes ou outros regimes de protecção social obrigatórios.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Para determinação dos rendimentos e consequente cálculo do montante da prestação, são considerados 80% do valor mensal das bolsas de formação.
 
-###### Artigo 15.º — Bens imóveis, móveis e respectivos rendimentos
+Artigo 15.º
+
+Bens imóveis, móveis e respectivos rendimentos
 
 1 - Nos casos em que os requerentes ou os membros do seu agregado familiar possuam bens imóveis, devem as respectivas rendas ser consideradas para efeitos da atribuição e cálculo da prestação, efectuando-se a devida correspondência mensal, sem prejuízo do disposto no número seguinte.
 
@@ -267,7 +335,9 @@ Para determinação dos rendimentos e consequente cálculo do montante da presta
 
 5 - Considera-se rendimento, para efeitos de atribuição da prestação de RSI, 5% do valor dos créditos depositados em contas bancárias e dos valores mobiliários admitidos à negociação em mercado regulamentado, de que o requerente ou qualquer elemento do agregado familiar sejam titulares, reportando 1/12 ao rendimento mensal, sempre que com base neste cálculo resulte rendimento superior ao apurado nos termos do número anterior.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -279,13 +349,17 @@ Para determinação dos rendimentos e consequente cálculo do montante da presta
 
 5 - Nos casos em que se verifique a concessão dos apoios acima referidos, devem os programas de inserção ser adaptados com vista a incluir acções específicas direccionadas para a protecção à maternidade.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Os apoios especiais previstos nas alíneas a) e b) do n.º 1 do artigo 12.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio, são atribuídos às pessoas com deficiência física ou mental profunda, ou com doença crónica, que se encontrem na situação de dependência do 1.º ou 2.º grau, nos termos definidos no artigo 4.º do [Decreto-Lei n.º 265/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), de 14 de Julho.
 
 2 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Pela comprovação das condições de acesso aos apoios referidos no artigo anterior, o valor da prestação do RSI é acrescido de:
 
@@ -293,7 +367,9 @@ a) 30% do montante da pensão social por cada pessoa com deficiência física ou
 
 b) 50% do montante da pensão social por cada pessoa idosa em situação de grande dependência.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +409,9 @@ c) Fotocópias de documentos comprovativos do valor dos créditos depositados em
 
 6 - Sempre que a identificação do requerente ou de membros do seu agregado familiar já conste, de forma actualizada, dos ficheiros da segurança social, pode, em relação aos mesmos, ser dispensada a apresentação dos documentos referidos nos números anteriores.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -343,7 +421,9 @@ c) Fotocópias de documentos comprovativos do valor dos créditos depositados em
 
 4 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -353,7 +433,9 @@ c) Fotocópias de documentos comprovativos do valor dos créditos depositados em
 
 4 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -365,7 +447,9 @@ a) Requerentes menores;
 
 b) Menores grávidas.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +461,9 @@ b) Menores grávidas.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -387,19 +473,25 @@ b) Menores grávidas.
 
 4 - Se o requerente não comparecer à entrevista, o requerimento é objecto de indeferimento, salvo se no prazo de cinco dias após a data de entrevista for apresentada justificação atendível, nos termos do artigo 48.º
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
 2 - Constitui fundamento para indeferimento da prestação o parecer constante da informação social que, justificadamente, mencione a existência de rendimentos do requerente ou do respectivo agregado familiar superiores ao valor de RSI correspondente.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A entidade distrital de segurança social deve informar o centro de emprego competente da decisão de atribuição da prestação relativamente a requerentes e seus agregados que se encontrem inscritos nos termos da alínea d) do n.º 1 do artigo 6.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -409,7 +501,9 @@ b) Menores grávidas.
 
 4 - O relatório social tem natureza confidencial, sem prejuízo de deverem ser extractados os elementos necessários à confirmação ou não das declarações constantes do requerimento para a atribuição da prestação e à fundamentação do projecto do programa de inserção a apresentar ao NLI.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -425,7 +519,9 @@ b) Menores grávidas.
 
 7 - Para efeitos do n.º 4 do artigo 18.º, deve, designadamente, fazer parte integrante do programa de inserção a planificação de acções no âmbito de saúde materno-infantil.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -437,7 +533,9 @@ b) Menores grávidas.
 
 5 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -453,7 +551,9 @@ d) Exercício de actividade profissional por período máximo de 180 dias ou fre
 
 3 - A suspensão prevista na alínea d) do n.º 1 tem a duração máxima de 180 dias, findos os quais a prestação cessa, salvo o disposto no artigo seguinte.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -471,7 +571,9 @@ b) «Recusa injustificada» os comportamentos de rejeição das acções de inse
 
 6 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - As acções inspectivas periódicas a realizar para averiguação das atribuições da prestação RSI e execução dos respectivos programas de inserção atendem a indicadores de risco, a definir semestralmente pelos serviços de fiscalização da segurança social.
 
@@ -479,7 +581,9 @@ b) «Recusa injustificada» os comportamentos de rejeição das acções de inse
 
 3 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -487,7 +591,9 @@ b) «Recusa injustificada» os comportamentos de rejeição das acções de inse
 
 3 - Os NLI podem ser constituídos por referência à freguesia, nos termos do n.º 2 do artigo 33.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio, sempre que o elevado número de cidadãos residentes ou a dispersão geográfica o justifiquem.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - A transição das comissões locais de acompanhamento para os NLI faz-se por requerimento da entidade distrital da segurança social competente ao conselho directivo do Instituto da Segurança Social, I. P. (ISS, I. P.), solicitando para o efeito a nomeação dos representantes obrigatórios do NLI referidos no n.º 3 do artigo 33.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio.
 
@@ -499,13 +605,17 @@ b) «Recusa injustificada» os comportamentos de rejeição das acções de inse
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - Os protocolos são celebrados entre a entidade distrital da segurança social e as instituições particulares de solidariedade social ou outras entidades, públicas ou privadas, com ou sem fins lucrativos, que prossigam fins de solidariedade social e que desenvolvam a sua intervenção na área de actuação do NLI, sob proposta do mesmo.
 
 2 - A intervenção desenvolvida por entidades privadas, no âmbito de protocolo celebrado nos termos do presente diploma, é efectuada em estreita articulação com o NLI.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 O desenvolvimento e a execução dos protocolos são objecto de regulamentação específica, no que respeita designadamente aos critérios de celebração, às obrigações das entidades, às cláusulas de rescisão e aos custos a financiar.»
 
@@ -519,19 +629,25 @@ Titularidade
 
 Para efeitos do n.º 2 do artigo 4.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio, na redacção que lhe foi dada pela [Lei n.º 45/2005](https://diariodarepublica.pt/dr/detalhe/lei/45-2005-245296), de 29 de Agosto, as pessoas com idade inferior a 18 anos podem ser titulares da prestação desde que se encontrem na situação de autonomia económica, de acordo com a alínea d) do artigo 2.º do presente diploma.
 
-###### Artigo 4.º-A — Residente
+Artigo 4.º-A
+
+Residente
 
 1 - Para efeitos da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio, na redacção que lhe foi dada pela [Lei n.º 45/2005](https://diariodarepublica.pt/dr/detalhe/lei/45-2005-245296), de 29 de Agosto, consideram-se equiparados a residentes legais os estrangeiros detentores de autorização de residência, de autorização de permanência, de visto de trabalho, de visto de estada temporária concedido nos termos do disposto na parte final da alínea b) e na alínea c), ambas do n.º 1 do artigo 38.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, na redacção que lhe foi dada pelo [Decreto-Lei n.º 34/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2003-188557), de 25 de Fevereiro, e de prorrogação de permanência nos termos previstos no n.º 2 do artigo 53.º do mesmo diploma, válidos, desde que se encontrem em território nacional e nele tenham permanecido, com qualquer um dos títulos atrás mencionados, pelo menos, nos últimos três anos.
 
 2 - Os requisitos do número anterior são exigíveis, com as devidas adaptações, aos elementos do agregado familiar, não sendo aplicáveis, no que respeita ao prazo mínimo de permanência legal, aos menores de 3 anos.
 
-###### Artigo 51.º-A — Comunicação das alterações da prestação
+Artigo 51.º-A
+
+Comunicação das alterações da prestação
 
 1 - Os centros de emprego e os serviços da segurança social devem proceder, reciprocamente, à comunicação de informação relevante para efeitos da verificação das condições de atribuição de RSI, designadamente das previstas na alínea d) do n.º 1 do artigo 6.º e na alínea a) do artigo 22.º da [Lei n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/lei/13-2003-541856), de 21 de Maio.
 
 2 - O centro de emprego deve dar conhecimento ao serviço da segurança social competente da ocorrência de qualquer causa que dê lugar à anulação da inscrição naquele centro.
 
-###### Artigo 68.º-A — Recusa da celebração do plano pessoal de emprego
+Artigo 68.º-A
+
+Recusa da celebração do plano pessoal de emprego
 
 A verificação de qualquer das causas de anulação da inscrição no centro de emprego, por facto imputável aos elementos do agregado familiar beneficiário de RSI, tem por consequência que o mesmo deixe de ser considerado para efeitos de determinação do RSI do seu agregado familiar e que os rendimentos que aufira continuem a ser contemplados para efeitos de cálculo do montante da prestação.»
 
@@ -549,15 +665,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva.
 
-**Promulgado em 6 de Fevereiro de 2006.**
+Promulgado em 6 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Fevereiro de 2006.**
+Referendado em 7 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 283/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2003-468986), de 8 de Novembro
 

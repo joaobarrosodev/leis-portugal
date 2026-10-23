@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09100/0286402865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/2013/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2013-261146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd6148662cb433a5adc2b022424150c1762c815c79776e828ef31f4ec2260ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21a8911a303b1716496f325147ec8ea911804a15f1b84802c1aa812a47724834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Criança
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
+- Criança
 - Jovem
 - Ministro da Justiça
 - Ministro da Solidariedade e Segurança Social
-- Programa Adopção 2000
 - Orgânica
 - Pacto de Cooperação para a Solidariedade Social
+- Programa Adopção 2000
 relationships:
 - type: amended_by
   target: pt:dre:114177786:por
@@ -97,16 +97,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1208-a/2000/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1208-a/2000/12/22/p/dre
+- type: cites
+  target: pt:dre:174848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481161:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69977689:por
+  label: Revogado a partir de 09.10.2015 o Dec Lei 98/98, de 18-abr, na redação do presente diploma pelo(a) Decreto-Lei n.º
+    159/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2015-69977689
+  date: '2015-08-10'
+- type: repealed_by
+  target: pt:dre:114177786:por
+  label: Revogado o Dec Lei 98/98 de 18-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º 139/2017 - Diário da
+    República n.º 217/2017, Série I de 2017-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2017-114177786
+  date: '2017-11-10'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:38Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +179,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de março de 2013. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de maio de 2013.**
+Promulgado em 8 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de maio de 2013.**
+Referendado em 9 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

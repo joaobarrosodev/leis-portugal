@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/556/1999/12/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/556-1999-655687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db6cce6022c774917b7252f11de49884951fd5aa9e0c3ff6c2f3b04f30de7da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6f3416a0d176ae27eac8b38ffa2364970b6c4e51941d17b63554417a78d0bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Armazenagem
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Carne
-- Produto Cárneo
+- Carne de Ovino
 - Carne de Suíno
 - Carne de Vaca
-- Multa
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Carne de Ovino
 - Higiene Alimentar
 - Importação
+- Indústria Alimentar
 - Instituto de Protecção da Produção Agro-Alimentar
-- Certificado de Qualidade
-- Embalagem
+- Multa
 - Países Terceiros
-- Transporte de Mercadorias
-- Aditivo Alimentar
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Indústria Alimentar
-- Comércio
+- Transporte de Mercadorias
 - Veterinário
 relationships:
 - type: amended_by
@@ -114,16 +114,22 @@ relationships:
   target: celex:31995D0001
   label: null
   source: http://data.europa.eu/eli/dec/1995/1/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o Dec Lei 62/96, de 25-Mai, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
-  article_count: 36
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 29
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:14Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +164,7 @@ Os artigos 1.º, n.º 3, 2.º, n.os 1 e 2, alíneas b), d) e g), 3.º, n.º 1, a
 
 3 - O presente Regulamento não se aplica às carnes separadas mecanicamente, as quais serão exclusivamente de utilização industrial, devendo ser submetidas a tratamento térmico em estabelecimentos aprovados nos termos do Decreto-Lei n.º 342/98, de 5 de Novembro.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Para efeitos do presente Regulamento:
 
@@ -182,7 +188,7 @@ iii) Que, quando não estiver situado nas instalações nem no anexo de um estab
 
 g) Autoridade competente - a Direcção-Geral de Veterinária (DGV) enquanto autoridade sanitária veterinária nacional, que poderá delegar as competências que lhe são atribuídas pelo presente diploma nas direcções regionais de agricultura, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - Só podem ser comercializadas carnes frescas provenientes das espécies bovina, suína, ovina e caprina, apresentadas sob a forma de carnes picadas, que satisfaçam as seguintes condições:
 
@@ -200,7 +206,7 @@ No caso de carnes picadas destinadas à Finlândia e à Suécia, incluir as segu
 
 Ser conservado pelo destinatário, a fim de ser apresentado, a seu pedido, à autoridade competente, devendo, quando existam dados informatizados, estes ser impressos a pedido da referida autoridade.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - ...
 
@@ -216,7 +222,7 @@ ii) Se tiverem sido importadas, estejam em conformidade com as disposições da 
 
 5 - A autoridade competente pode, para efeitos de aprovação, conceder derrogações às exigências do capítulo I do anexo B, bem como do capítulo I do anexo B do regulamento aprovado pelo Decreto-Lei n.º 342/98, de 5 de Novembro, e do anexo A, capítulo I, n.os 2, alínea a) (no que diz respeito às torneiras), e 11 (no que diz respeito aos armários), do regulamento aprovado pela Portaria n.º 971/94, de 29 de Outubro, a estabelecimentos de fabrico que elaborem preparados de carne e que não possuam estrutura e capacidade de produção industrial.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -232,7 +238,9 @@ iii) Do n.º 4 do capítulo VI do anexo B;
 
 iv) Dos n.os 2, alíneas e) e f), e 3 do artigo 5.º do anexo A.
 
-### CAPÍTULO IV — Artigo 7.º
+CAPÍTULO IV
+
+Artigo 7.º
 
 1 - O concessionário ou o gestor do estabelecimento de fabrico deve tomar as medidas necessárias para que sejam observadas as disposições do presente Regulamento em todas as fases de produção.
 
@@ -252,7 +260,7 @@ f) Se o resultado da análise laboratorial ou qualquer outra informação de que
 
 g) Em caso de riscos imediatos para a saúde humana, retirar do mercado a quantidade de produtos obtidos em condições tecnologicamente semelhantes e susceptíveis de apresentar o mesmo risco, devendo essa quantidade permanecer sob a vigilância e responsabilidade da autoridade competente até ser destruída, utilizada para fins que não sejam o consumo humano ou, após autorização da referida autoridade, tratada de novo adequadamente, a fim de garantir a sua inocuidade.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - A DGV deve elaborar:
 
@@ -288,11 +296,11 @@ a) Fica habilitada a intervir na utilização de equipamentos ou instalações e
 
 b) Suspenderá temporariamente a aprovação, se for caso disso, para o tipo de produção em causa, sempre que as medidas da alínea a) anterior ou da alínea g) do n.º 1 do artigo 7.º se tiverem revelado insuficientes para resolver a situação.
 
-###### Artigo 10.º
+Artigo 10.º
 
 A adição eventual de aditivos às carnes picadas ou aos preparados de carne referidos no presente Regulamento deve ser feita de acordo com o disposto na Portaria n.º 759/96, de 26 de Dezembro.
 
-###### Artigo 12.º
+Artigo 12.º
 
 ...
 
@@ -324,7 +332,9 @@ a) Salas e compartimentos referidos no capítulo I, n.º 1, do anexo B do mesmo 
 
 b) Salas e compartimentos referidos na alínea a) do n.º 1 do presente capítulo.
 
-### CAPÍTULO II — Condições para a produção de carnes picadas
+CAPÍTULO II
+
+Condições para a produção de carnes picadas
 
 1 - As carnes devem ser examinadas antes de serem picadas ou cortadas, nos termos do artigo 7.º do anexo A, e todas as partes sujas ou suspeitas retiradas e recolhidas antes de se proceder à sua trituração.
 
@@ -344,7 +354,9 @@ f) Quando as referidas operações durarem mais de uma hora ou mais do que o pra
 
 4 - As carnes picadas imediatamente após a produção devem ser acondicionadas de modo higiénico e, depois de embaladas, frigorificadas e armazenadas às temperaturas previstas no n.º 2, alínea c), do artigo 3.º do anexo A.
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
+
+[...]
 
 1 - ...
 
@@ -372,7 +384,9 @@ v) Equipamentos frigoríficos que permitam respeitar as temperaturas previstas n
 
 b) Em caso de preparação manual, o pessoal afecto à produção de preparados de carne deve, além disso, usar uma máscara buco-nasal. A autoridade competente pode impor o uso de luvas lisas, impermeáveis e descartáveis, ou de luvas similares, que possam ser limpas e desinfectadas.
 
-### CAPÍTULO VI — [...]
+CAPÍTULO VI
+
+[...]
 
 ...
 
@@ -398,7 +412,9 @@ Na parte inferior: o número de aprovação veterinária do estabelecimento.
 
 As letras e algarismos devem ter uma altura mínima de 0,2 cm.
 
-### CAPÍTULO IX — [...]
+CAPÍTULO IX
+
+[...]
 
 1 - a) As carnes picadas e os preparados de carne devem ser expedidos de forma que durante o transporte fiquem protegidos contra tudo o que seja susceptível de os contaminar ou alterar, tendo em conta a duração e as condições de transporte, bem como os meios de transporte utilizados.
 
@@ -414,7 +430,7 @@ O ponto II do anexo C do Decreto-Lei n.º 62/96, de 25 de Maio, passa a ter a se
 
 II - Critérios microbiológicos. - Os estabelecimentos de fabrico ou unidades de produção autónoma devem certificar-se de que, durante os controlos referidos no n.º 3 do artigo 7.º do anexo A e segundo os métodos de avaliação a seguir enumerados, as carnes picadas correspondem aos seguintes critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
 
 A avaliação dos resultados das análises microbiológicas deve ser feita do seguinte modo:
 
@@ -498,17 +514,17 @@ O presente diploma entra em vigor no 1.º dia útil do 2.º mês posterior à su
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 24 de Novembro de 1999.**
+Promulgado em 24 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Novembro de 1999.**
+Referendado em 30 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REFERE O ARTIGO 12.º
+ANEXO A QUE SE REFERE O ARTIGO 12.º
 
 ## ANEXO A — Regulamento da Produção de Carnes Picadas e de Preparados de Carne e da Sua Colocação no Mercado
 
@@ -874,7 +890,9 @@ c) As importações deverão efectuar-se nas condições previstas no artigo 11.
 
 2 - As importações deverão efectuar-se nos termos do disposto no n.º 2 do artigo 11.º do regulamento aprovado pela Portaria n.º 774/93.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições especiais de aprovação dos estabelecimentos de produção de carnes picadas
 
@@ -1052,11 +1070,11 @@ b) Os veículos utilizados para o transporte de carnes picadas e de preparados d
 
 I - Critérios de composição controlados com base numa média diária:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
 
 II - Critérios microbiológicos. - Os estabelecimentos de fabrico ou unidades de produção autónoma devem certificar-se de que, durante os controlos referidos no n.º 3 do artigo 7.º do anexo A e segundo os métodos de avaliação a seguir enumerados, as carnes picadas correspondem aos seguintes critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
 
 A avaliação dos resultados das análises microbiológicas deve ser feita do seguinte modo:
 
@@ -1168,7 +1186,7 @@ Feito em... (local), em... (data).
 
 Os estabelecimentos de fabrico ou unidades de produção autónomas devem assegurar que, durante os controlos previstos no n.º 3 do artigo 7.º e segundo os métodos de avaliação especificados no anexo C, os preparados de carne satisfazem os seguintes critérios:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)](https://files.diariodarepublica.pt/1s/1999/12/291a00/89428959.pdf)
 
 ## ANEXO F — Certificado de salubridade para preparados de carne (ver nota 1)
 

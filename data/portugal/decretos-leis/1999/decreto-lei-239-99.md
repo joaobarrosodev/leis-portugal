@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/239/1999/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1999-393001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b666266227ebffbb7ee916bc8f5f4c50792b3417601a89929a054b27a03070e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35b4f216bba4fdf2b4f0fb47eb8903d429526640070e2c9477b0c458c9554723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
 - Análise Laboratorial
 - Aproximação das Legislações
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Multa
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Contra-ordenação
 - Controlo de Qualidade
-- Saúde Pública
-- Fiscalização
-- Ministério da Economia
-- Indústria de Plásticos
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Embalagem
+- Fiscalização
+- Indústria de Plásticos
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Economia
+- Multa
 - Normas de Segurança
+- Produto Alimentar
+- Produto Químico
 - Proteção do Consumidor
+- Saúde Pública
 - Serviço Regional
 relationships:
 - type: amended_by
@@ -127,16 +127,26 @@ relationships:
   target: celex:31997L0048
   label: null
   source: http://data.europa.eu/eli/dir/1997/48/oj
+- type: corrected_by
+  target: pt:dre:141845:por
+  label: "Rectificado pela DECL-RECT.13-C/99.1999.08.31.PCM, DR.IS-A [203]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-c-1999-141845
+  date: '1999-08-31'
+- type: repealed_by
+  target: pt:dre:164207:por
+  label: "Revogado pelo DEC LEI.123/2001.2001.04.17.MADRP,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2001-164207
+  date: '2001-04-17'
 article_structure:
   article_count: 14
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:31Z'
   warnings: []
   errors: []
 ---
@@ -293,15 +303,15 @@ O presente diploma entra em vigor no dia imediato à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1999.**
+Referendado em 20 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -389,7 +399,7 @@ Para efeitos do presente diploma, «LME(T)» significa que a migração específ
 
 #### SECÇÃO B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 ## ANEXO II
 
@@ -445,7 +455,7 @@ Quaisquer outras restrições claramente expressas.
 
 Lista não completa de aditivos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 ## ANEXO III — Disposições adicionais aplicáveis para verificação do cumprimento dos limites de migração
 
@@ -531,7 +541,7 @@ QUADRO N.º 1
 
 Tipos de géneros alimentícios e simuladores de géneros alimentícios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 2 - Selecção dos simuladores de géneros alimentícios:
 
@@ -613,7 +623,7 @@ QUADRO N.º 2
 
 Simuladores de géneros alimentícios a seleccionar para o ensaio de materiais em contacto com géneros alimentícios em casos particulares.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 ### CAPÍTULO 2 — Condições de realização dos ensaios de migração
 
@@ -651,7 +661,7 @@ QUADRO N.º 3
 
 Condições convencionais para os ensaios de migração com simuladores de géneros alimentícios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 ### CAPÍTULO 3 — Ensaios gordos substitutivos da migração global e específica
 
@@ -669,7 +679,7 @@ QUADRO N.º 4
 
 Condições convencionais para a realização dos ensaios de substituição
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
 
 ### CAPÍTULO 4 — Ensaios gordos alternativos da migração global e específica
 
@@ -711,4 +721,4 @@ Se o pH do género alimentício for inferior ou igual a 4,5, utilizar o simulado
 
 QUADRO
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)](https://files.diariodarepublica.pt/1s/1999/06/146a00/38583878.pdf)

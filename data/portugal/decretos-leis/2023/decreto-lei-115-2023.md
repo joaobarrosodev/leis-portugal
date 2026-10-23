@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24100/0000600032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/115/2023/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2023-261867080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d024af73c6676c6347b4868ce6455828fa8cb62d5f30122e3bb7a92a2b6c8ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 144d33645582cf228042aab0cda9b7206e84ee4b85d7f096f48fc247e1863265
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Entidade Patronal
+- Financiamento
 - Fundo de Compensação do Trabalho
 - Fundo de Garantia de Compensação do Trabalho
 - Fundos de Garantia
 - Trabalhador
 relationships:
+- type: amends
+  target: pt:numero:lei:70/2013
+  label: Altera, a partir de 1 de janeiro de 2024, os artigos 1.º, 2.º, 3.º, 8.º, 11.º, 11.º-C, 12.º, 13.º, 16.º, 17.º, 18.º,
+    31.º, 32.º, 46.º, 49.º, 51.º, 53.º, 56.º, 57.º e 58.º, adita na mesma data os artigos 31.º-A, 31.º-B e 45.º-A, altera
+    a epígrafe do capítulo VI e revoga, a 1 de janeiro de 2024, o n.º 7 do artigo 3.º, o n.º 3 do artigo 7.º, os n.os 1 a
+    5 e 7 a 11 do artigo 8.º, o n.º 1 do artigo 11.º, o artigo 11.º-A, 11.º-B, o n.º 1 do artigo 12.º, o artigo 15.º, os n.os
+    2 a 7 do artigo 16.º, os n.os 2 e 5 do artigo 17.º, o artigo 30.º, os artigos 33.º a 36.º, a alínea b) do n.º 1 e o n.º
+    2 do artigo 45.º, os n.os 4, 7 e 8 do artigo 46.º e os artigos 50.º e 60.º da Lei n.º 70/2013 - Diário da República n.º
+    167/2013, Série I de 2013-08-30, que republica em anexo
+  source: null
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/2015/09/25/p/dre
   label: null
@@ -108,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/294-a/2013/09/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/294-a/2013/09/30/p/dre
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3703353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3703354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70386137:por
+  label: null
+  source: null
 article_structure:
-  article_count: 99
+  article_count: 78
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:52Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +269,9 @@ Os artigos 1.º, 2.º, 3.º, 8.º, 11.º, 11.º-C, 12.º, 13.º, 16.º, 17.º, 1
 
 A presente lei estabelece os regimes jurídicos do Fundo de Compensação do Trabalho (FCT) e do Fundo de Garantia de Compensação do Trabalho (FGCT).
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A presente lei é aplicável às relações de trabalho reguladas pelo Código do Trabalho, aprovado em anexo à [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual.
 
@@ -220,7 +285,9 @@ A presente lei estabelece os regimes jurídicos do Fundo de Compensação do Tra
 
 6 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O FCT é um fundo destinado a:
 
@@ -248,7 +315,9 @@ d) Assegurar o direito dos trabalhadores ao recebimento efetivo de metade do val
 
 9 - Constitui contraordenação muito grave a utilização do FCT para fins diversos dos previstos no n.º 1.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -272,7 +341,9 @@ d) Assegurar o direito dos trabalhadores ao recebimento efetivo de metade do val
 
 11 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -288,17 +359,23 @@ d) Assegurar o direito dos trabalhadores ao recebimento efetivo de metade do val
 
 7 - Constitui contraordenação grave a violação do disposto no n.º 4, no que respeita à comunicação de atualização, pelo empregador à segurança social, sempre que devida.
 
-###### Artigo 11.º-C — [...]
+Artigo 11.º-C
+
+[...]
 
 Sem prejuízo das regras gerais e especiais de caducidade, as obrigações no âmbito da relação com o FGCT e de regularização de dívida ao mesmo cujo prazo termine no decurso do mês de agosto podem ser cumpridas até ao último dia desse mês, independentemente de ser útil, sem quaisquer acréscimos ou penalidades.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - (Revogado.)
 
 2 - O valor das entregas da responsabilidade do empregador para o FGCT corresponde a 0,075 % da retribuição base e diuturnidades devidas a cada trabalhador abrangido.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O pagamento das entregas ao FGCT é efetuado nos termos e através dos meios eletrónicos que forem definidos na portaria prevista no n.º 1 do artigo 59.º
 
@@ -306,7 +383,9 @@ Sem prejuízo das regras gerais e especiais de caducidade, as obrigações no â
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -324,7 +403,9 @@ Sem prejuízo das regras gerais e especiais de caducidade, as obrigações no â
 
 8 - Constitui contraordenação muito grave a violação do disposto no n.º 1, quanto ao transmitente.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - No seguimento de decisão judicial que, em caso de despedimento ilícito, imponha a reintegração do trabalhador, o empregador fica obrigado, no prazo de 30 dias contados a partir da data do trânsito em julgado daquela decisão, a nova inclusão do trabalhador no FGCT e ao pagamento das entregas que deixou de efetuar, relativamente a tal trabalhador, desde esta data, a este fundo.
 
@@ -338,7 +419,9 @@ Sem prejuízo das regras gerais e especiais de caducidade, as obrigações no â
 
 6 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -354,15 +437,21 @@ Sem prejuízo das regras gerais e especiais de caducidade, as obrigações no â
 
 7 - O IGFSS, I. P., pode, mediante protocolo aprovado pelo conselho de gestão do FGCT, proceder à contratualização da gestão de parte do património do fundo com o IGFCSS, I. P.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O saldo da conta global do empregador corresponde ao somatório do valor apurado em cada uma das contas de registo individualizado de cada trabalhador inscrito até à entrada em vigor da [Lei n.º 13/2023](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), de 3 de abril, líquido dos valores em dívida ao FGCT e dos custos operacionais.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 A entidade gestora deve disponibilizar ao empregador, através de sítio na Internet, informação atualizada sobre o montante das entregas feitas e a quantificação do valor disponível da conta global do empregador, relativamente aos 12 meses anteriores.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -384,13 +473,17 @@ A entidade gestora deve disponibilizar ao empregador, através de sítio na Inte
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
 2 - A falta de regularização voluntária dos valores devidos ao FGCT determina a constituição de dívida, nos termos e para os efeitos do disposto nos artigos 51.º e seguintes, sem prejuízo da contraordenação prevista no n.º 6 do artigo 11.º, na parte que respeita ao disposto no n.º 3 daquela disposição.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -402,7 +495,9 @@ A entidade gestora deve disponibilizar ao empregador, através de sítio na Inte
 
 5 - [...]
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]
 
@@ -412,13 +507,17 @@ A entidade gestora deve disponibilizar ao empregador, através de sítio na Inte
 
 4 - [...]
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - O empregador que não entregue ao trabalhador, total ou parcialmente, o valor da compensação reembolsado pelo FCT, que seja devido ao trabalhador, é punido com as penas previstas nos n.os 1 e 5 do artigo 105.º do Regime Geral das Infrações Tributárias, aprovado pela [Lei n.º 15/2001](https://diariodarepublica.pt/dr/detalhe/lei/15-2001-322110), de 5 de junho.
 
 2 - Os factos descritos no número anterior só são puníveis se tiverem decorrido mais de 90 dias sobre o termo do prazo estipulado para a efetivação do reembolso, pelo FCT ao empregador.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -428,7 +527,9 @@ A entidade gestora deve disponibilizar ao empregador, através de sítio na Inte
 
 4 - O reembolso à entidade empregadora do saldo da conta global é considerado rendimento para efeitos fiscais, pelo montante correspondente à valorização positiva gerada pelas aplicações financeiras dos valores afetos ao FCT, deduzido das respetivas despesas administrativas.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 Sem prejuízo do dever de sigilo a que estão obrigados, os conselhos de gestão e as entidades gestoras do FCT e do FGCT, bem como as entidades competentes para a fiscalização e a supervisão, estão sujeitas ao dever de cooperação, devendo, nomeadamente, estabelecer mecanismos de troca de informação, com vista a garantir o desempenho eficiente das suas atribuições.»
 
@@ -450,7 +551,9 @@ Modelação do acesso aos saldos das contas globais do empregador
 
 5 - O valor dos saldos das contas globais de cada entidade empregadora é reembolsado após dedução das verbas em dívida pela entidade empregadora ao FGCT.
 
-###### Artigo 31.º-B — Mobilização do Fundo de Compensação do Trabalho
+Artigo 31.º-B
+
+Mobilização do Fundo de Compensação do Trabalho
 
 1 - A mobilização dos montantes do FCT para as finalidades previstas no n.º 1 do artigo 3.º destina-se a todos os trabalhadores da empresa, salvo na situação prevista na alínea d) do n.º 1 do artigo 3.º, que é apenas aplicável aos trabalhadores incluídos no FCT até à data de entrada em vigor da [Lei n.º 13/2023](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), de 3 de abril.
 
@@ -472,7 +575,9 @@ d) Cópia do acordo celebrado com as estruturas representativas dos trabalhadore
 
 6 - Caso não exista comissão de trabalhadores, comissões intersindicais, comissões sindicais e delegados sindicais, a intenção de mobilização dos montantes existentes na conta global pela entidade empregadora está apenas sujeita à comunicação aos trabalhadores, com uma antecedência de 10 dias consecutivos em relação à data de mobilização pretendida.
 
-###### Artigo 45.º-A — Pagamento ao trabalhador
+Artigo 45.º-A
+
+Pagamento ao trabalhador
 
 1 - Sempre que o empregador não efetue, total ou parcialmente, o pagamento da compensação devida por cessação do contrato de trabalho, calculada nos termos do artigo 366.º do Código do Trabalho, pode o trabalhador acionar o FGCT, pelo valor necessário à cobertura de metade do valor da referida compensação, subtraído do montante já pago pelo empregador ao trabalhador, nos termos dos artigos 46.º a 49.º da presente lei.
 
@@ -506,13 +611,13 @@ São revogados o n.º 7 do artigo 3.º, o n.º 3 do artigo 7.º, os n.os 1 a 5 e
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 30 de novembro de 2023.**
+Promulgado em 30 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2023.**
+Referendado em 4 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -1263,3 +1368,5 @@ Sem prejuízo do dever de sigilo a que estão obrigados, os conselhos de gestão
 1 - A presente lei entra em vigor no dia 1 de outubro de 2013.
 
 2 - O n.º 2 do artigo 59.º da presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+117151542

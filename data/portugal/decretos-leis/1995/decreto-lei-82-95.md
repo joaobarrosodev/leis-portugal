@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/095a00/23182320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/1995/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1995-223464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee13f4584f757a1fb29d879c208f74014405f18306ba7a79873a82661df37bc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ec416735960d121d5c23e89288f5d6f2e7a339dc785aada528aa780f1d2bf64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
 - Armazenagem
-- Publicidade
-- Multa
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral das Alfândegas
 - Direcção Geral do Ambiente
 - Direcção Regional do Ambiente e Recursos Naturais
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Embalagem
+- Multa
 - Notificação
+- Produto Químico
 - Proteção do Ambiente
 - Proteção do Consumidor
-- Comércio
+- Publicidade
+- Saúde Pública
 - Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
   target: pt:dre:343084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476754:por
+  label: "Alterado o nº 2 do art. 2.º pelo DEC LEI.260/2003.21.10.2003.MCOTA, DR.IS-A [244] de 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2003-476754
+  date: '1985-04-22'
+- type: amended_by
+  target: pt:dre:315883:por
+  label: "Alterados o art. 8º e adiatado o art. 13º-A pelo DEC LEI.72-M/2003.2003.04.14.MCOTA DR.IS-A [88]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-m-2003-315883
+  date: '2003-04-14'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -140,16 +150,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/19
   label: null
   source: http://data.europa.eu/eli/dir/19
+- type: repealed_by
+  target: pt:dre:343084:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 72-M/2003, de 14-Abr e do Dec Lei 260/2003, de 21-Out, pelo\
+    \ DEC LEI.98/2010.11.08.2010.MAOT, DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2010-343084
+  date: '2010-08-11'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:41Z'
   warnings: []
   errors: []
 ---
@@ -316,12 +332,12 @@ Na data da entrada em vigor da portaria a que se refere o artigo 4.º do present
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 295/1979, 3º Suplemento, Série I de 1979-12-24
   number: '295'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3334-(67) a 3334-(68)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29503/00670068.pdf
 entry_into_force_dates: []
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-a-1979-393788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f5305964238022151b9000e7ff332776c61a62eb419002b22de93ff17faa0ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55af6425903af7799d9f6d8c33a63bd2184b6a3ffe4ef82f899f119f939a5f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Transportes Terrestres
+- Estacionamento
+- Licenciamento
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:281818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446929:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:54Z'
   warnings: []
   errors: []
 ---
@@ -97,29 +114,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Direcção-Geral de Transportes Terrestres poderá decidir sobre os pedidos formulados por titulares de licenças concedidas ao abrigo do disposto no [Decreto-Lei n.º 225-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-a-1976-281818), de 31 de Março, para a alteração permanente de locais de estacionamento de veículos de aluguer ligeiros de passageiros, sem vinculação ao parecer da câmara municipal a que se refere o n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro.
+Artigo 1.º - 1 - A Direcção-Geral de Transportes Terrestres poderá decidir sobre os pedidos formulados por titulares de licenças concedidas ao abrigo do disposto no [Decreto-Lei n.º 225-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-a-1976-281818), de 31 de Março, para a alteração permanente de locais de estacionamento de veículos de aluguer ligeiros de passageiros, sem vinculação ao parecer da câmara municipal a que se refere o n.º 1 do artigo 8.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro.
 
 2 - A falta do parecer da câmara municipal a que se refere o número anterior, no prazo de trinta dias a contar da data em que foi solicitado pela Direcção-Geral de Transportes Terrestres, será considerada como concordância com a alteração do local de estacionamento a que se referiu o mesmo pedido de parecer.
 
-###### Art. 2.º - 1 - A Direcção-Geral de Transportes Terrestres poderá autorizar, relativamente aos pedidos referidos no artigo anterior, que a alteração de local de estacionamento, quando não seja possível no âmbito territorial previsto nas alíneas a) e b) do n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, se efectue para concelho em relação ao qual o requerente comprove não haver obstáculos da respectiva câmara municipal.
+Art. 2.º - 1 - A Direcção-Geral de Transportes Terrestres poderá autorizar, relativamente aos pedidos referidos no artigo anterior, que a alteração de local de estacionamento, quando não seja possível no âmbito territorial previsto nas alíneas a) e b) do n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, se efectue para concelho em relação ao qual o requerente comprove não haver obstáculos da respectiva câmara municipal.
 
 2 - Esgotados os critérios do número anterior, a Direcção-Geral de Transportes Terrestres poderá autorizar a alteração do local de estacionamento para freguesia situada no concelho do local de residência do requerente ou concelhos limítrofes, sempre que o interesse público não seja posto em causa.
 
 3 - As alterações previstas nos números anteriores poderão efectivar-se independentemente do previsto no n.º 2 do artigo 9.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010).
 
-###### Art. 3.º - 1 - A Direcção-Geral de Transportes Terrestres poderá autorizar a permuta entre locais de estacionamento fixados para os veículos licenciados ao abrigo do Decreto-Lei n.º 225-A/79, de 31 de Março.
+Art. 3.º - 1 - A Direcção-Geral de Transportes Terrestres poderá autorizar a permuta entre locais de estacionamento fixados para os veículos licenciados ao abrigo do Decreto-Lei n.º 225-A/79, de 31 de Março.
 
 2 - Para o efeito do número anterior e após a autorização, os interessados deverão solicitar a correcção dos respectivos títulos de licenciamento no prazo de trinta dias.
 
 3 - Ao disposto nos números anteriores é aplicável o previsto no artigo 1.º e no n.º 1 do artigo 2.º do presente diploma.
 
-###### Art. 4.º - 1 - O disposto no presente diploma só se aplica aos pedidos que tenham dado entrada na Direcção-Geral de Transportes Terrestres até à data de entrada em vigor do presente diploma.
+Art. 4.º - 1 - O disposto no presente diploma só se aplica aos pedidos que tenham dado entrada na Direcção-Geral de Transportes Terrestres até à data de entrada em vigor do presente diploma.
 
 2 - Em tudo o que não for contrariado pelo presente diploma continuará a aplicar-se o disposto no [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro.
 
-###### Art. 5.º O artigo 12.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, passa a ter a seguinte redacção:
+Art. 5.º O artigo 12.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - A fixação em cada freguesia de novo local de estacionamento será da competência da respectiva câmara municipal, beneficiando de prioridade o industrial mais antigo da freguesia ou das freguesias que constituem a sede do concelho.
+Art. 12.º - 1 - A fixação em cada freguesia de novo local de estacionamento será da competência da respectiva câmara municipal, beneficiando de prioridade o industrial mais antigo da freguesia ou das freguesias que constituem a sede do concelho.
 
 2 - As alterações do local de estacionamento a que se refere o presente diploma, salvo as previstas na alínea a) do n.º 1 do artigo 3.º, devem ser sempre objecto de publicação através de edital das câmaras municipais competentes.
 
@@ -129,14 +146,14 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 5 - Em todas as alterações, exceptuadas as previstas na alínea a) do n.º 1 do artigo 3.º, os interessados serão notificados de que deverão, no prazo de trinta dias, solicitar a correcção do respectivo título de licenciamento.
 
-###### Art. 6.º - 1 - Fica revogado o artigo 11.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, bem como o regime previsto na alínea a) do n.º 2 do artigo 8.º do referido diploma.
+Art. 6.º - 1 - Fica revogado o artigo 11.º do [Decreto Regulamentar n.º 34/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1978-329010), de 2 de Outubro, bem como o regime previsto na alínea a) do n.º 2 do artigo 8.º do referido diploma.
 
 2 - O presente diploma entra em vigor no dia da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - Frederico Alberto Monteiro da Silva.
 
-**Promulgado em 17 de Dezembro de 1979.**
+Promulgado em 17 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

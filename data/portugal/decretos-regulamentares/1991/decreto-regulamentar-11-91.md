@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1991-471173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74f0aa0ef3b32d8f33db508ec602d2bb6c3d9d828071f1b67b4cb1a79498e176
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f05238329b9cfe23b136911298d6bfa9a72c4c1f4f09a6f06f59dc40858c23c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Câmara Municipal
 - Comissão de Coordenação da Região do Algarve
 - Contra-ordenação
 - Desenvolvimento Regional
 - Fiscalização
+- Ordenamento do Território
+- Plano Regional de Ordenamento do Território
 - Política de Solos
 - Protal
-- Plano Regional de Ordenamento do Território
-- Câmara Municipal
 relationships:
 - type: amended_by
   target: pt:dre:524215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:245133:por
+  label: "Rectificado o nº1 do art. 11º pela DECL-RECT.145/91.29.06.1991.SG-PCM, DR.IS-B[147]2SUPL de 29.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/145-1991-245133
+  date: '1991-06-29'
 article_structure:
   article_count: 45
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:18Z'
   warnings: []
   errors: []
 ---
@@ -689,14 +738,14 @@ Presidência do Conselho de Ministros, 26 de Dezembro de 1990.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Fernando Nunes Ferreira Real.
 
-**Promulgado em 19 de Fevereiro de 1991.**
+Promulgado em 19 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1991.**
+Referendado em 26 de Fevereiro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/067b00/14981508.pdf))](https://files.diariodarepublica.pt/1s/1991/03/067b00/14981508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/067b00/14981508.pdf)

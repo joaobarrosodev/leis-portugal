@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 60/2022, 1º Suplemento, Série I de 2022-03-25
   number: '60'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 24-(8) a 24-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06001/0000800011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28-b/2022/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-2022-181066899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab39b79d1f9a57aef2a96d74e080f6ff36ae448fbf5a9478b5c3b09d7f7336f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36b939e3864b1c539d89cb567476f13b49b38e08a9cbccff7c32ee7d8af1d44c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Cidadão Estrangeiro
-- Certificação Profissional
-- Entidade Certificadora
-- Difusão da Informação
-- Equivalência de Habilitações Literárias
 - Administração Pública
-- Refugiado
+- Certificação Profissional
+- Cidadão Estrangeiro
+- Difusão da Informação
+- Emprego
+- Entidade Certificadora
+- Equivalência de Habilitações Literárias
 - Guerra
 - Internet
+- Portal ePortugal
 - Profissão Regulamentada
-- Qualificação Profissional
-- Emprego
 - Protecção Temporária
+- Qualificação Profissional
+- Refugiado
 - Ucrânia
 - Vítima de Guerra
-- Portal ePortugal
 relationships:
 - type: cites
   target: celex:32001L0055
@@ -108,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180398387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:57Z'
   warnings: []
   errors: []
 ---
@@ -244,12 +260,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de março de 2022. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 24 de março de 2022.**
+Promulgado em 24 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de março de 2022.**
+Referendado em 24 de março de 2022.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+115157866

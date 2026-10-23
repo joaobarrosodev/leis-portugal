@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/170a00/35783583.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/158/2000/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2000-311841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7b6ece5f670488562ef0ff5a49941e3111c8690a3f271c2ad5a95581cd7f1df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc2c36a027a0c38ba1b3ba9d268dd2855f2864516d66856b00f6d1df6946807a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,14 +70,14 @@ reuse:
 subjects:
 - ÁGUA Potável
 - Arcos de Valdevez
-- Sociedade Anónima
 - Caminha
-- Saneamento Básico
 - Melgaço
 - Monção
 - Paredes de Coura
 - Ponte de LIMA
+- Saneamento Básico
 - Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Minho-lima
+- Sociedade Anónima
 - Valença
 - Viana do Castelo
 - VILA NOVA de Cerveira
@@ -86,6 +86,18 @@ relationships:
   target: pt:dre:614173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1275245:por
+  label: "Alargado ao município de Ponte da Barca o Sistema Multinacional de Abastecimento de Água e de Saneamento do Minho-Lima,\
+    \ criado pelo presente diploma, pelo DESP.19563/2000(2ªSÉRIE).2000.09.12.MAOT DR.IIS [226] DE 29/SET/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/19563-2000-1275245
+  date: '2000-09-12'
+- type: amended_by
+  target: pt:dre:614173:por
+  label: "Substituído o sistema multimunicipal criado pelo presente diploma, pelo sistema criado pelo DEC LEI.41/2010.29.04.2010.MAOT,\
+    \ DR.IS [83] de 29.04.2010, e determinada a sua extinção nos termos do art. 12.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2010-614173
+  date: '2010-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
@@ -102,16 +114,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:45Z'
   warnings: []
   errors: []
 ---
@@ -240,15 +272,15 @@ Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumpr
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 11 de Julho de 2000.**
+Promulgado em 11 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Julho de 2000.**
+Referendado em 13 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DE ÁGUAS DO MINHO E LIMA, S. A.
 

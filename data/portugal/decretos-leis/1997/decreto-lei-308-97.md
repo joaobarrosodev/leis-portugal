@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/308/1997/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1997-687467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e256028808631d6236fc4adbb2c4907c0f5ea243e81a901a4a8dee9badb198e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58b26c6f15a028371f1b8f6103ba2623ffcabdb944e2ee7af6f955bb400e2b57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Câmara Municipal
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
-- Plano Director Municipal
 - Direcção Regional do Ambiente de Lisboa e VALE do TEJO
 - Fiscalização
 - Medidas Preventivas
 - Moita
+- Ordenamento do Território
 - Palmela
+- Plano Director Municipal
 - Política de Solos
-- Câmara Municipal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115/1997/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/1997/07/09/p/dre
+- type: cites
+  target: pt:dre:154638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:21Z'
   warnings: []
   errors: []
 ---
@@ -145,14 +161,14 @@ As Câmaras Municipais da Moita e de Palmela, a Comissão de Coordenação da Re
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 22 de Outubro de 1997.**
+Promulgado em 22 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/11/263a00/62016203.pdf))](https://files.diariodarepublica.pt/1s/1997/11/263a00/62016203.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/11/263a00/62016203.pdf)

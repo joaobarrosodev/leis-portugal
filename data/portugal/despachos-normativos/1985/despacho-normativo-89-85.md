@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/89-1985-177425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aeb3ac320623ce8d71209441a49c72aa5ecc43f13eacc830df2183f7abff7a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a8a3c1e124066c2e0bf0ea532600c5d83c3fc58be086b174da303245bd335fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:47Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ Atendendo à necessidade de promover o desenvolvimento da actividade portuária 
 
 Determino, ao abrigo do disposto no artigo único do Decreto-Lei n.º 17/76, de 15 de Janeiro, que, a título experimental e até 31 de Dezembro de 1985, seja alterado o artigo 358.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, o qual passará a ter a redacção seguinte:
 
-###### Art. 358.º As mercadorias em trânsito entradas pela fronteira terrestre serão conferidas nas estâncias aduaneiras da fronteira e seguirão com guia de trânsito internacional para as estâncias onde se há-de processar o respectivo despacho, acompanhadas por praças da Guarda Fiscal. Também para as mercadorias em trânsito saídas dos depósitos gerais francos se processarão guias de trânsito internacional.
+Art. 358.º As mercadorias em trânsito entradas pela fronteira terrestre serão conferidas nas estâncias aduaneiras da fronteira e seguirão com guia de trânsito internacional para as estâncias onde se há-de processar o respectivo despacho, acompanhadas por praças da Guarda Fiscal. Também para as mercadorias em trânsito saídas dos depósitos gerais francos se processarão guias de trânsito internacional.
 
 § único. ...
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15200/18471849.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1985-183036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3676fbe9c1f69e40d727d13f1bc7ac70d9ccfaba849241a5989df4feda17ded6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eec2355e6de8b9093eb9960d8f816c55484fb6b0b4b1a4d292bf02acd172d005
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Queijo
+- Região Demarcada
 relationships:
 - type: amended_by
   target: pt:dre:152925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:385056:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152925:por
+  label: "Revogado pelo DR.38/2002.2002.05.09.MADRP DR.IS-B [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/38-2002-152925
+  date: '2002-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:30Z'
   warnings: []
   errors: []
 ---
@@ -98,35 +109,35 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, é criada a Região Demarcada do Queijo Serra da Estrela, caracterizada por possuir condições edafo-climáticas do planalto beirão e ser o solar da ovelha da raça bordaleira serra da Estrela, que abrange a área definida no anexo I deste diploma, do qual faz parte integrante.
+Artigo 1.º Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio, é criada a Região Demarcada do Queijo Serra da Estrela, caracterizada por possuir condições edafo-climáticas do planalto beirão e ser o solar da ovelha da raça bordaleira serra da Estrela, que abrange a área definida no anexo I deste diploma, do qual faz parte integrante.
 
 2 - O leite de ovelha destinado ao fabrico do queijo serra da Estrela só pode ser o produzido na região demarcada a que se refere o número anterior.
 
-###### Art. 2.º Só poderá aplicar-se a denominação de origem ou a marca de queijo serra da Estrela ao queijo produzido na Região Demarcada, que satisfaça as condições estabelecidas na NP-1922 (1984) - Queijo serra da Estrela - Definição, características e marcação, constantes do anexo II, e que seja devidamente creditado pela entidade certificadora.
+Art. 2.º Só poderá aplicar-se a denominação de origem ou a marca de queijo serra da Estrela ao queijo produzido na Região Demarcada, que satisfaça as condições estabelecidas na NP-1922 (1984) - Queijo serra da Estrela - Definição, características e marcação, constantes do anexo II, e que seja devidamente creditado pela entidade certificadora.
 
-###### Art. 3.º As entidades que considerem reunir condições para obter o estatuto de entidade certificadora do queijo serra da Estrela deverão dirigir o seu pedido ao Ministro da Agricultura, no prazo de 180 dias a partir da data de publicação do presente diploma, para apreciação pelo Instituto de Qualidade Alimentar, nos termos do artigo 5.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio.
+Art. 3.º As entidades que considerem reunir condições para obter o estatuto de entidade certificadora do queijo serra da Estrela deverão dirigir o seu pedido ao Ministro da Agricultura, no prazo de 180 dias a partir da data de publicação do presente diploma, para apreciação pelo Instituto de Qualidade Alimentar, nos termos do artigo 5.º do [Decreto-Lei n.º 146/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1984-385056), de 9 de Maio.
 
-###### Art. 4.º Os produtores de queijo serra da Estrela carecem de autorização da entidade certificadora referida no artigo anterior para usarem a marca ou denominação de origem, ficando sujeitos às respectivas acções de controle e demais disposições do seu regulamento técnico.
+Art. 4.º Os produtores de queijo serra da Estrela carecem de autorização da entidade certificadora referida no artigo anterior para usarem a marca ou denominação de origem, ficando sujeitos às respectivas acções de controle e demais disposições do seu regulamento técnico.
 
-###### Art. 5.º Os proprietários de animais inscritos no livro genealógico de ovinos de raça bordaleira serra da Estrela poderão beneficiar de ajudas específicas, quando integradas em programas que contribuam para a defesa, melhoramento e divulgação dessa raça.
+Art. 5.º Os proprietários de animais inscritos no livro genealógico de ovinos de raça bordaleira serra da Estrela poderão beneficiar de ajudas específicas, quando integradas em programas que contribuam para a defesa, melhoramento e divulgação dessa raça.
 
-###### Art. 6.º Competirá ao Ministério da Agricultura, através das Direcções Regionais de Agricultura da Beira Litoral e da Beira Interior, implementar acções que visem a promoção e melhoramento das raças ovinas vocacionadas para a produção de leite utilizado na fabrico de queijo serra da Estrela.
+Art. 6.º Competirá ao Ministério da Agricultura, através das Direcções Regionais de Agricultura da Beira Litoral e da Beira Interior, implementar acções que visem a promoção e melhoramento das raças ovinas vocacionadas para a produção de leite utilizado na fabrico de queijo serra da Estrela.
 
-###### Art. 7.º As Direcções Regionais de Agricultura da Beira Litoral e da Beira Interior deverão promover, ao nível da Região Demarcada, acções que visem a melhoria da qualidade do queijo serra da Estrela, com o objectivo de aumentar os quantitativos de produtos certificáveis.
+Art. 7.º As Direcções Regionais de Agricultura da Beira Litoral e da Beira Interior deverão promover, ao nível da Região Demarcada, acções que visem a melhoria da qualidade do queijo serra da Estrela, com o objectivo de aumentar os quantitativos de produtos certificáveis.
 
-###### Art. 8.º As acções de controle e disciplina da actividade da entidade certificadora do queijo serra da Estrela competem ao Instituto de Qualidade Alimentar, que poderá delegar nas Direcções Regionais da Beira Litoral e da Beira Interior nas áreas delas dependentes.
+Art. 8.º As acções de controle e disciplina da actividade da entidade certificadora do queijo serra da Estrela competem ao Instituto de Qualidade Alimentar, que poderá delegar nas Direcções Regionais da Beira Litoral e da Beira Interior nas áreas delas dependentes.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 21 de Junho de 1985.**
+Promulgado em 21 de Junho de 1985.
 
-**Publique-se**
+Publique-se
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 25 de Junho de 1985.**
+Referendado em 25 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Área da Região Demarcada do Queijo Serra da Estrela
 

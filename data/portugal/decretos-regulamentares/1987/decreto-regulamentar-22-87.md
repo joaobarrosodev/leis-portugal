@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06500/11061120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1987-662172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 337525fa38cbe55eabd4067ced5a210aed8c2ec7a4504270ccb0970e2af97cfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a86d9b3bae0876c057155f2c19bc62e291cb8e4723f0f720616ab71b01f8f32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Turismo
+- Regulamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:283773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283773:por
+  label: "Revogado pelo DEC LEI.198/93.1993.05.27.MCT, DR.IS-A [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-1993-283773
+  date: '1993-05-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:29Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +134,9 @@ Regulamento da Actividade das Agências de Viagens e Turismo
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º Toda a pessoa que pretenda exercer a actividade de agência de viagens e turismo deve requerer previamente ao director-geral do Turismo a respectiva licença.
+Artigo 1.º Toda a pessoa que pretenda exercer a actividade de agência de viagens e turismo deve requerer previamente ao director-geral do Turismo a respectiva licença.
 
-###### Art. 2.º - 1 - Carecem ainda de autorização prévia da Direcção-Geral do Turismo (DGT):
+Art. 2.º - 1 - Carecem ainda de autorização prévia da Direcção-Geral do Turismo (DGT):
 
 a) A mudança dos estabelecimentos das agências de viagens e turismo;
 
@@ -130,13 +162,13 @@ h) O exercício da actividade dos delegados das agências de viagens estrangeira
 
 5 - Os interessados deverão apresentar na DGT os documentos comprovativos das modificações ou substituições realizadas no prazo de 30 dias contado da data da sua verificação.
 
-###### Art. 3.º - 1 - A ocorrência de qualquer dos factos previstos nas alíneas c) a f) do n.º 1 do artigo anterior por causas alheias à vontade da empresa deverá ser comunicada à DGT, juntamente com o respectivo pedido de regularização, no prazo de 30 dias contado da data da sua verificação.
+Art. 3.º - 1 - A ocorrência de qualquer dos factos previstos nas alíneas c) a f) do n.º 1 do artigo anterior por causas alheias à vontade da empresa deverá ser comunicada à DGT, juntamente com o respectivo pedido de regularização, no prazo de 30 dias contado da data da sua verificação.
 
 2 - A comunicação prevista no número anterior deve ser instruída com os documentos que, para cada caso, forem exigidos.
 
 3 - É aplicável nestes casos, com as necessárias adaptações, o disposto nos n.os 2 a 5 do artigo anterior.
 
-###### Art. 4.º - 1 - Para além dos casos previstos no n.º 1 do artigo anterior, qualquer alteração do contrato de sociedade, a mudança da sede social, quando tal não importe alteração do respectivo contrato, as cessões de quotas e participações sociais, bem como a substituição dos seus administradores, directores ou gerentes e a transmissão das marcas usadas pela agência, deverão ser comunicadas à DGT no prazo de 30 dias contado da data da sua verificação.
+Art. 4.º - 1 - Para além dos casos previstos no n.º 1 do artigo anterior, qualquer alteração do contrato de sociedade, a mudança da sede social, quando tal não importe alteração do respectivo contrato, as cessões de quotas e participações sociais, bem como a substituição dos seus administradores, directores ou gerentes e a transmissão das marcas usadas pela agência, deverão ser comunicadas à DGT no prazo de 30 dias contado da data da sua verificação.
 
 2 - A comunicação será acompanhada dos documentos comprovativos das alterações ou substituições verificadas e do respectivo registo, sob pena de não ser eficaz.
 
@@ -144,7 +176,7 @@ h) O exercício da actividade dos delegados das agências de viagens estrangeira
 
 #### SECÇÃO II — Das agências de viagens e suas sucursais
 
-###### Art. 5.º - 1 - Do pedido de licença para o exercício da actividade de agência de viagens e turismo deverá constar:
+Art. 5.º - 1 - Do pedido de licença para o exercício da actividade de agência de viagens e turismo deverá constar:
 
 a) Identificação do requerente;
 
@@ -196,7 +228,7 @@ d) Declaração feita por cada um deles, isolada ou conjuntamente, devidamente a
 
 6 - Além dos documentos referidos nos números anteriores, a DGT poderá solicitar aos requerentes, ou a quaisquer entidades ou serviços públicos, outros documentos ou elementos que julgar indispensáveis para a melhor instrução do processo, mormente uma memória justificativa da instalação da agência.
 
-###### Art. 6.º - 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) serão consideradas tecnicamente competentes as pessoas que satisfaçam algum dos seguintes requisitos:
+Art. 6.º - 1 - Para efeitos do disposto na alínea c) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) serão consideradas tecnicamente competentes as pessoas que satisfaçam algum dos seguintes requisitos:
 
 a) Possuírem um diploma de curso superior de turismo passado por uma escola portuguesa ou estrangeira reconhecida em Portugal e provarem que exerceram profissionalmente a actividade numa agência de viagem, durante um ano, em lugares de chefia ou de carácter técnico;
 
@@ -222,7 +254,7 @@ c) Quadro superior da agência encarregado dos assuntos comerciais e responsáve
 
 5 - O exercício da actividade e das funções desempenhadas será comprovado por uma declaração devidamente autenticada pelo notário, emitida pelas empresas onde o interessado trabalhou, ou, nos países em que é permitido o exercício da actividade a título pessoal e independente, pela entidade ou organismo competente desse país.
 
-###### Art. 7.º - 1 - Do pedido para mudar o estabelecimento de uma agência de viagens e turismo para outro município deverá constar obrigatoriamente:
+Art. 7.º - 1 - Do pedido para mudar o estabelecimento de uma agência de viagens e turismo para outro município deverá constar obrigatoriamente:
 
 a) Identificação do requerente, com indicação do número do respectivo alvará;
 
@@ -258,7 +290,7 @@ c) Documentos respeitantes ao novo director técnico, se for caso disso.
 
 9 - É aplicável nestes casos o disposto nos n.os 4 e 6 do artigo 5.º, com as necessárias adaptações.
 
-###### Art. 8.º - 1 - O pedido para a mudança de localização do estabelecimento de uma agência dentro do mesmo município deve conter a indicação exacta da nova localização e o pedido de vistoria das novas instalações e ser acompanhado do alvará da agência.
+Art. 8.º - 1 - O pedido para a mudança de localização do estabelecimento de uma agência dentro do mesmo município deve conter a indicação exacta da nova localização e o pedido de vistoria das novas instalações e ser acompanhado do alvará da agência.
 
 2 - A autorização caducará automaticamente se o novo estabelecimento não entrar em funcionamento no prazo máximo de um mês, contado da data da autorização da sua abertura.
 
@@ -268,7 +300,7 @@ c) Documentos respeitantes ao novo director técnico, se for caso disso.
 
 5 - A autorização de abertura ao público do novo estabelecimento, ainda que tácita, determinará o encerramento imediato e simultâneo do anterior.
 
-###### Art. 9.º - 1 - Do pedido para a abertura de uma sucursal deverá constar, pelo menos:
+Art. 9.º - 1 - Do pedido para a abertura de uma sucursal deverá constar, pelo menos:
 
 a) Identificação da requerente, com indicação do número do respectivo alvará;
 
@@ -298,11 +330,11 @@ b) Se a sucursal estiver encerrada por um período superior a 90 dias sem justif
 
 6 - É aplicável nestes casos o disposto no n.º 6 do artigo 5.º
 
-###### Art. 10.º - 1 - A mudança de uma sucursal para outro município é considerada, para todos os efeitos, como um pedido de abertura de uma nova sucursal, sendo-lhe aplicável, com as necessárias adaptações, o disposto no artigo anterior.
+Art. 10.º - 1 - A mudança de uma sucursal para outro município é considerada, para todos os efeitos, como um pedido de abertura de uma nova sucursal, sendo-lhe aplicável, com as necessárias adaptações, o disposto no artigo anterior.
 
 2 - À mudança das instalações de uma sucursal dentro do mesmo município é aplicável o disposto no artigo 8.º, com as necessárias adaptações.
 
-###### Art. 11.º - 1 - O pedido de qualquer alteração do pacto social sujeita a autorização prévia deve ser acompanhado da minuta da alteração pretendida.
+Art. 11.º - 1 - O pedido de qualquer alteração do pacto social sujeita a autorização prévia deve ser acompanhado da minuta da alteração pretendida.
 
 2 - No caso de a alteração respeitar à firma ou denominação social, o pedido deve ser acompanhado da certidão comprovativa de se poder adoptar a firma ou a denominação social pretendida.
 
@@ -312,7 +344,7 @@ b) Se a sucursal estiver encerrada por um período superior a 90 dias sem justif
 
 5 - Para efeitos do disposto no número anterior, os documentos referidos no n.º 3 deste artigo só poderão ser recebidos se forem acompanhados do alvará da agência.
 
-###### Art. 12.º - 1 - O pedido de alteração do nome do estabelecimento da agência deve ser acompanhado de certidão do Instituto Nacional da Propriedade Industrial comprovativa de que não existe registado o nome pretendido e de que o seu registo foi requerido.
+Art. 12.º - 1 - O pedido de alteração do nome do estabelecimento da agência deve ser acompanhado de certidão do Instituto Nacional da Propriedade Industrial comprovativa de que não existe registado o nome pretendido e de que o seu registo foi requerido.
 
 2 - A alteração não será autorizada se já existir registada na DGT, sem prejuízo dos direitos resultantes da propriedade industrial nos termos do respectivo Código.
 
@@ -322,7 +354,7 @@ b) Se a sucursal estiver encerrada por um período superior a 90 dias sem justif
 
 5 - Autorizada a alteração, a agência não poderá, em caso algum, continuar a usar o nome anterior.
 
-###### Art. 13.º - 1 - O pedido de autorização para a transmissão do estabelecimento de uma agência de viagens ou para a cessão da sua exploração deverá conter o seguinte:
+Art. 13.º - 1 - O pedido de autorização para a transmissão do estabelecimento de uma agência de viagens ou para a cessão da sua exploração deverá conter o seguinte:
 
 a) Identificação completa da sociedade adquirente ou concessionária, com indicação do respectivo capital;
 
@@ -342,7 +374,7 @@ c) Indicação expressa sobre se há ou não mudança do director técnico da ag
 
 7 - É aplicável a estes casos o disposto nos n.os 4 a 6 do artigo 5.º, com as necessárias adaptações.
 
-###### Art. 14.º - 1 - O pedido de substituição do director técnico da agência deverá conter a identificação completa do director indigitado e ser acompanhado da documentação legalmente exigida para o exercício das funções e de uma declaração do director aceitando o cargo ou do contrato de trabalho assinado.
+Art. 14.º - 1 - O pedido de substituição do director técnico da agência deverá conter a identificação completa do director indigitado e ser acompanhado da documentação legalmente exigida para o exercício das funções e de uma declaração do director aceitando o cargo ou do contrato de trabalho assinado.
 
 2 - A autorização considerar-se-á sem efeito se o novo director técnico não entrar em funções no prazo de um mês contado da data da sua concessão.
 
@@ -350,7 +382,7 @@ c) Indicação expressa sobre se há ou não mudança do director técnico da ag
 
 4 - O disposto nos números anteriores é aplicável à substituição dos directores técnicos das sucursais.
 
-###### Art. 15.º - 1 - Nenhum estabelecimento de agência de viagens e turismo ou das suas sucursais poderá entrar em funcionamento sem a sua abertura ser previamente autorizada pela DGT depois de verificada a conformidade das instalações com os requisitos legalmente exigidos, mediante vistoria.
+Art. 15.º - 1 - Nenhum estabelecimento de agência de viagens e turismo ou das suas sucursais poderá entrar em funcionamento sem a sua abertura ser previamente autorizada pela DGT depois de verificada a conformidade das instalações com os requisitos legalmente exigidos, mediante vistoria.
 
 2 - Considera-se que as instalações estão em conformidade com a lei desde que a vistoria não se realize no prazo de 30 dias a contar da data da entrada do respectivo pedido na Direcção-Geral e que foi autorizada a abertura do estabelecimento.
 
@@ -360,7 +392,7 @@ c) Indicação expressa sobre se há ou não mudança do director técnico da ag
 
 5 - A DGT comunicará sempre à associação empresarial das agências de viagens e turismo, com a antecedência mínima de oito dias, as datas em que se realizam as vistorias previstas neste artigo, a fim de aquela associação poder enviar um delegado para assistir a elas.
 
-###### Art. 16.º - 1 - Os alvarás correspondentes às licenças a que se refere o artigo 1.º constituem o documento necessário e suficiente para a abertura e entrada em funcionamento do estabelecimento a que respeitam.
+Art. 16.º - 1 - Os alvarás correspondentes às licenças a que se refere o artigo 1.º constituem o documento necessário e suficiente para a abertura e entrada em funcionamento do estabelecimento a que respeitam.
 
 2 - Os alvarás deverão ser emitidos pela DGT logo que estejam preenchidos os requisitos previstos no n.º 1 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), salvo se se verificar a caducidade da licença.
 
@@ -368,7 +400,7 @@ c) Indicação expressa sobre se há ou não mudança do director técnico da ag
 
 4 - Substituído o alvará nos casos previstos neste regulamento, a agência não poderá, em caso algum, incluindo na sua documentação legal e comercial, referir-se ao alvará anterior.
 
-###### Art. 17.º - 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a requerente deverá apresentar, com o pedido de vistoria do estabelecimento da agência:
+Art. 17.º - 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a requerente deverá apresentar, com o pedido de vistoria do estabelecimento da agência:
 
 a) Certidão da escritura de constituição da sociedade ou da sua alteração e do respectivo registo;
 
@@ -386,9 +418,9 @@ e) Certidão da repartição de finanças da área da sede social comprovativa d
 
 4 - O pedido de vistoria deverá ser apresentado no prazo de quatro meses contado da data em que tiver sido notificada a concessão da licença.
 
-###### Art. 18.º Se a licença para o exercício da actividade de agência de viagens e turismo caducar, o pedido só poderá ser renovado depois de passado um ano sobre a data em que se verificou a caducidade.
+Art. 18.º Se a licença para o exercício da actividade de agência de viagens e turismo caducar, o pedido só poderá ser renovado depois de passado um ano sobre a data em que se verificou a caducidade.
 
-###### Art. 19.º - 1 - O alvará de uma agência de viagens e turismo caduca:
+Art. 19.º - 1 - O alvará de uma agência de viagens e turismo caduca:
 
 a) Se a empresa não iniciar a sua actividade dentro de 60 dias a contar da data da sua emissão, salvo se se provar justo impedimento;
 
@@ -404,7 +436,7 @@ c) Se a empresa deixar de exercer completamente a sua actividade.
 
 5 - A caducidade do alvará determinará o encerramento dos estabelecimentos da agência e suas sucursais.
 
-###### Art. 20.º - 1 - Serão cassados, mediante despacho do director-geral do Turismo, os alvarás das agências de viagens e turismo:
+Art. 20.º - 1 - Serão cassados, mediante despacho do director-geral do Turismo, os alvarás das agências de viagens e turismo:
 
 a) Que não exerçam regularmente as actividades que lhes são próprias;
 
@@ -434,21 +466,21 @@ j) Que tiverem sido punidas com a sanção de encerramento.
 
 5 - A cassação do alvará determinará o encerramento dos estabelecimentos da agência e suas sucursais.
 
-###### Art. 21.º - 1 - Serão anuladas as autorizações concedidas para a abertura das sucursais das agências de viagens desde que os respectivos directores técnicos deixem de ser considerados idóneos, se os mesmos não forem afastados no prazo de oito dias a contar da data da notificação.
+Art. 21.º - 1 - Serão anuladas as autorizações concedidas para a abertura das sucursais das agências de viagens desde que os respectivos directores técnicos deixem de ser considerados idóneos, se os mesmos não forem afastados no prazo de oito dias a contar da data da notificação.
 
 2 - É aplicável neste caso, com as necessárias adaptações, o disposto nos n.os 3 e 4 do artigo anterior.
 
 #### SECÇÃO III — Dos serviços de reservas
 
-###### Art. 22.º Os serviços de reservas previstos no artigo 11.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) apenas poderão ser instalados em aeroportos, estações ferroviárias, gares marítimas e fronteiras terrestres.
+Art. 22.º Os serviços de reservas previstos no artigo 11.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) apenas poderão ser instalados em aeroportos, estações ferroviárias, gares marítimas e fronteiras terrestres.
 
-###### Art. 23.º - 1 - Nos aeroportos, estações ferroviárias e gares marítimas, os serviços de reservas só podem ser instalados a pedido da associação empresarial das agências de viagens e turismo ou das respectivas entidades exploradoras.
+Art. 23.º - 1 - Nos aeroportos, estações ferroviárias e gares marítimas, os serviços de reservas só podem ser instalados a pedido da associação empresarial das agências de viagens e turismo ou das respectivas entidades exploradoras.
 
 2 - Nas fronteiras terrestres, os serviços de reservas só podem ser instalados a pedido da associação empresarial das agências de viagens e turismo e mediante parecer favorável das autoridades aduaneiras.
 
 3 - Dos pedidos referidos nos números anteriores poderão participar os órgãos regionais ou locais de turismo das respectivas áreas.
 
-###### Art. 24.º - 1 - Do pedido de instalação dos serviços de reservas deverá constar:
+Art. 24.º - 1 - Do pedido de instalação dos serviços de reservas deverá constar:
 
 a) A identificação das entidades requerentes;
 
@@ -460,11 +492,11 @@ c) A identificação da pessoa responsável pelo seu funcionamento.
 
 3 - É aplicável neste caso o disposto no artigo 15.º, com as necessárias adaptações.
 
-###### Art. 25.º - 1 - Os serviços de reservas não podem entrar em funcionamento sem terem um responsável técnico pelo mesmo.
+Art. 25.º - 1 - Os serviços de reservas não podem entrar em funcionamento sem terem um responsável técnico pelo mesmo.
 
 2 - Depende de autorização prévia da DGT a substituição do respectivo técnico destes serviços, sendo-lhe aplicável o disposto no artigo 14.º, com as necessárias adaptações.
 
-###### Art. 26.º - 1 - O funcionamento dos serviços de reservas obedecerá às seguintes regras:
+Art. 26.º - 1 - O funcionamento dos serviços de reservas obedecerá às seguintes regras:
 
 a) Não poderão ser prestados quaisquer outros serviços além dos previstos na alínea c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099);
 
@@ -480,7 +512,7 @@ e) Os serviços poderão emitir e entregar aos utentes documentos comprovativos 
 
 3 - O horário de funcionamento dos serviços não pode ser alterado sem autorização prévia da DGT.
 
-###### Art. 27.º - 1 - A autorização de instalação caducará automaticamente se os serviços não entrarem em funcionamento no prazo de seis meses contado da data em que for notificada a sua concessão.
+Art. 27.º - 1 - A autorização de instalação caducará automaticamente se os serviços não entrarem em funcionamento no prazo de seis meses contado da data em que for notificada a sua concessão.
 
 2 - A autorização será anulada nos seguintes casos:
 
@@ -490,7 +522,7 @@ b) Se não forem observadas as regras de funcionamento estabelecidas no artigo a
 
 #### SECÇÃO IV — Dos delegados das agências de viagens estrangeiras
 
-###### Art. 28.º - 1 - O pedido de autorização para o exercício dos delegados deverá ser apresentado pela agência representada.
+Art. 28.º - 1 - O pedido de autorização para o exercício dos delegados deverá ser apresentado pela agência representada.
 
 2 - O pedido de autorização para o exercício da actividade de delegado de uma agência de viagens estrangeira deve conter obrigatoriamente o seguinte:
 
@@ -526,11 +558,11 @@ g) Minuta do contrato a celebrar entre a agência estrangeira e a nacional para 
 
 6 - Além dos documentos referidos nos números anteriores, a DGT poderá solicitar aos requerentes, ou a quaisquer entidades ou serviços públicos, outros documentos ou elementos que julgar indispensáveis para a melhor instrução do processo, mormente uma memória justificativa da instalação do delegado.
 
-###### Art. 29.º - 1 - Para o exercício da sua actividade, os delegados das agências de viagens estrangeiras deverão ter escritório próprio, não aberto ao público, ou instalar-se numa agência de viagens portuguesa.
+Art. 29.º - 1 - Para o exercício da sua actividade, os delegados das agências de viagens estrangeiras deverão ter escritório próprio, não aberto ao público, ou instalar-se numa agência de viagens portuguesa.
 
 2 - Os delegados não poderão exercer no seu escritório qualquer outra actividade, seja de que tipo for, para além das referidas no n.º 1 do artigo 13.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
-###### Art. 30.º Não poderá ser concedida autorização para exercer a actividade de delegado de uma agência de viagens estrangeira:
+Art. 30.º Não poderá ser concedida autorização para exercer a actividade de delegado de uma agência de viagens estrangeira:
 
 a) A quem não preencha os requisitos previstos nos artigos anteriores;
 
@@ -538,7 +570,7 @@ b) A quem tiver sido anulada autorização anterior;
 
 c) A quem não seja considerado comercialmente idóneo, de acordo com o disposto no n.º 2 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
-###### Art. 31.º - 1 - Concedida a autorização, esta ficará condicionada à apresentação dos seguintes documentos:
+Art. 31.º - 1 - Concedida a autorização, esta ficará condicionada à apresentação dos seguintes documentos:
 
 a) Documento da agência de viagens requerente conferindo ao delegado poderes bastantes para a representar;
 
@@ -558,7 +590,7 @@ b) Se o delegado não iniciar a sua actividade no prazo de 60 dias contado da da
 
 3 - É aplicável neste caso o disposto no artigo 15.º, com as necessárias adaptações.
 
-###### Art. 32.º - 1 - Serão anuladas as autorizações concedidas aos delegados das agências de viagens estrangeiras quando:
+Art. 32.º - 1 - Serão anuladas as autorizações concedidas aos delegados das agências de viagens estrangeiras quando:
 
 a) Se verifique que o delegado deixou de exercer regularmente a sua actividade;
 
@@ -584,7 +616,7 @@ h) Se verifique a falência ou cessação de pagamentos da agência representada
 
 ### CAPÍTULO II — Do director técnico e responsáveis técnicos
 
-###### Art. 33.º - 1 - Só podem ser inscritas no registo de directores técnicos das agências de viagens e turismo, existente na DGT, as pessoas com idoneidade comercial que preencham os requisitos de aptidão profissional a seguir enumerados:
+Art. 33.º - 1 - Só podem ser inscritas no registo de directores técnicos das agências de viagens e turismo, existente na DGT, as pessoas com idoneidade comercial que preencham os requisitos de aptidão profissional a seguir enumerados:
 
 a) Falar e escrever correctamente, além do português, duas línguas estrangeiras, sendo uma delas o inglês;
 
@@ -612,15 +644,15 @@ e) Ter desempenhado funções de chefia ou de carácter técnico nos serviços o
 
 6 - A actividade profissional prevista no n.º 2 pode ter sido exercida tanto em Portugal como no estrangeiro, mas, neste caso, um ano, pelo menos, deverá ter tido lugar necessariamente em estabelecimentos sitos no País, salvo se se tratar de pessoas nacionais dos países do Mercado Comum.
 
-###### Art. 34.º - 1 - Os directores técnicos das sucursais das agências de viagens deverão satisfazer os requisitos previstos no artigo anterior, sendo, em princípio, reduzidos a metade os períodos de tempo de actividade profissional exigidos.
+Art. 34.º - 1 - Os directores técnicos das sucursais das agências de viagens deverão satisfazer os requisitos previstos no artigo anterior, sendo, em princípio, reduzidos a metade os períodos de tempo de actividade profissional exigidos.
 
 2 - Os profissionais referidos no número anterior não poderão exercer o cargo de director técnico de uma agência enquanto não satisfizerem os períodos de tempo de actividade profissional exigidos no n.º 2 do artigo anterior.
 
 3 - A DGT, ouvida a comissão consultiva, poderá exigir que o período de tempo de actividade profissional previsto no n.º 1 seja aumentado até ao máximo fixado no artigo 33.º, em função da localização da sucursal ou do plano de actividade apresentado.
 
-###### Art. 35.º Os responsáveis técnicos pelos serviços de reservas deverão satisfazer os requisitos previstos no artigo 33.º, sendo reduzidos a um quarto os períodos de tempo de actividade profissional exigidos.
+Art. 35.º Os responsáveis técnicos pelos serviços de reservas deverão satisfazer os requisitos previstos no artigo 33.º, sendo reduzidos a um quarto os períodos de tempo de actividade profissional exigidos.
 
-###### Art. 36.º - 1 - A mesma pessoa não pode desempenhar o cargo de director técnico de agência de viagens em dois ou mais estabelecimentos simultaneamente, salvo nos casos previstos nos n.os 2 e 3 do artigo 25.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
+Art. 36.º - 1 - A mesma pessoa não pode desempenhar o cargo de director técnico de agência de viagens em dois ou mais estabelecimentos simultaneamente, salvo nos casos previstos nos n.os 2 e 3 do artigo 25.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
 2 - O disposto no número anterior é aplicável, com as necessárias adaptações, aos directores técnicos das sucursais das agências de viagens.
 
@@ -628,13 +660,13 @@ e) Ter desempenhado funções de chefia ou de carácter técnico nos serviços o
 
 4 - Sempre que se verificar uma situação de acumulação nos termos previstos nos n.os 1 e 2 deste artigo, as empresas deverão comunicá-la à DGT no prazo de 30 dias contado da data em que se iniciar tal situação.
 
-###### Art. 37.º - 1 - Mediante autorização especial da DGT para cada caso, a mesma pessoa poderá acumular funções de responsável de dois ou mais serviços de reservas, desde que situados na mesma localidade.
+Art. 37.º - 1 - Mediante autorização especial da DGT para cada caso, a mesma pessoa poderá acumular funções de responsável de dois ou mais serviços de reservas, desde que situados na mesma localidade.
 
 2 - Nos casos previstos no número anterior, a entidade interessada deve requerer a respectiva autorização antes de se verificar a situação de acumulação.
 
 3 - Para este efeito, o requerimento deverá identificar os estabelecimentos e ser instruído com uma declaração do responsável técnico aceitando a situação de acumulação requerida.
 
-###### Art. 38.º - 1 - Para inscrição no registo e verificação dos requisitos exigidos no artigo 33.º, os interessados deverão entregar na DGT, antes da entrada em funções do director técnico ou do responsável técnico, os documentos a eles referentes a seguir indicados:
+Art. 38.º - 1 - Para inscrição no registo e verificação dos requisitos exigidos no artigo 33.º, os interessados deverão entregar na DGT, antes da entrada em funções do director técnico ou do responsável técnico, os documentos a eles referentes a seguir indicados:
 
 a) Diploma ou certificado das habilitações literárias;
 
@@ -654,13 +686,13 @@ e) Documento passado pelas empresas ou serviços públicos comprovativo do tempo
 
 5 - Além dos documentos referidos nos números anteriores, a DGT poderá solicitar aos requerentes, ou a quaisquer entidades ou serviços públicos, outros documentos ou elementos que julgar indispensáveis para a melhor instrução do processo.
 
-###### Art. 39.º - 1 - O disposto no artigo anterior é aplicável no caso de substituição dos directores ou dos responsáveis técnicos, salvo se se tratar de indivíduo já anteriormente inscrito no registo de directores ou responsáveis técnicos.
+Art. 39.º - 1 - O disposto no artigo anterior é aplicável no caso de substituição dos directores ou dos responsáveis técnicos, salvo se se tratar de indivíduo já anteriormente inscrito no registo de directores ou responsáveis técnicos.
 
 2 - No case previsto na parte final do número anterior, só será necessário apresentar os documentos referidos nas alíneas b), c) e d) do n.º 1 do artigo 38.º se os existentes na DGT já tiverem perdido a validade.
 
 3 - É aplicável nestes casos o disposto no n.º 5 do artigo anterior.
 
-###### Art. 40.º - 1 - A verificação dos requisitos de aptidão profissional dos directores técnicos e dos responsáveis técnicos será feita sempre pela comissão consultiva, mediante testes escritos e orais de avaliação dos conhecimentos técnico-profissionais.
+Art. 40.º - 1 - A verificação dos requisitos de aptidão profissional dos directores técnicos e dos responsáveis técnicos será feita sempre pela comissão consultiva, mediante testes escritos e orais de avaliação dos conhecimentos técnico-profissionais.
 
 2 - Para esse efeito, a DGT enviar-lhe-á a documentação apresentada.
 
@@ -676,11 +708,11 @@ b) Contactar directamente com o interessado ou com os responsáveis pelas agênc
 
 6 - A decisão da comissão caduca se o interessado não entrar em funções no prazo de três anos contado da data da realização dos testes.
 
-###### Art. 41.º No exercício das suas funções os directores técnicos e os responsáveis técnicos deverão observar rigorosamente as normas constantes do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), do presente diploma e das demais disposições legais.
+Art. 41.º No exercício das suas funções os directores técnicos e os responsáveis técnicos deverão observar rigorosamente as normas constantes do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), do presente diploma e das demais disposições legais.
 
 ### CAPÍTULO III — Da actividade das agências
 
-###### Art. 42.º As agências de viagens e turismo só poderão prestar, como serviços complementares da sua actividade, os seguintes:
+Art. 42.º As agências de viagens e turismo só poderão prestar, como serviços complementares da sua actividade, os seguintes:
 
 a) O aluguer de automóveis, nos termos da respectiva legislação;
 
@@ -692,11 +724,11 @@ d) A exploração de estabelecimentos hoteleiros similares, meios complementares
 
 e) A difusão de propaganda turística, bem como a venda de guias turísticos e de transporte, horários e demais publicações similares de interesse para o turismo.
 
-###### Art. 43.º - 1 - As agências de viagens e as respectivas sucursais têm de usar obrigatoriamente o mesmo nome comercial.
+Art. 43.º - 1 - As agências de viagens e as respectivas sucursais têm de usar obrigatoriamente o mesmo nome comercial.
 
 2 - Na publicidade, correspondência e facturas respeitantes à agência deverá indicar-se, por forma clara, o nome da agência, o número do respectivo alvará e a sua localização.
 
-###### Art. 44.º - 1 - Quando a agência pretenda utilizar uma ou mais marcas comerciais para identificar os serviços que presta, deverá proceder ao seu registo na DGT.
+Art. 44.º - 1 - Quando a agência pretenda utilizar uma ou mais marcas comerciais para identificar os serviços que presta, deverá proceder ao seu registo na DGT.
 
 2 - Para este efeito, a agência deverá apresentar certidão do Instituto Nacional da Propriedade Industrial comprovativa de as marcas estarem registadas em seu nome.
 
@@ -704,11 +736,11 @@ e) A difusão de propaganda turística, bem como a venda de guias turísticos e 
 
 4 - A agência deverá comunicar à DGT a transmissão das marcas registadas.
 
-###### Art. 45.º - 1 - As sucursais fazem parte integrante da universalidade que constitui o estabelecimento da agência de viagens.
+Art. 45.º - 1 - As sucursais fazem parte integrante da universalidade que constitui o estabelecimento da agência de viagens.
 
 2 - Em caso algum as sucursais podem ser objecto de qualquer negócio translativo da sua propriedade ou do direito à sua exploração sem ser conjuntamente com a respectiva agência.
 
-###### Art. 46.º - 1 - Sempre que a agência explore algum dos meios próprios referidos no artigo 5.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), está obrigada a comunicá-lo à DGT no prazo de um mês a contar da data em que iniciar a exploração.
+Art. 46.º - 1 - Sempre que a agência explore algum dos meios próprios referidos no artigo 5.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), está obrigada a comunicá-lo à DGT no prazo de um mês a contar da data em que iniciar a exploração.
 
 2 - Do mesmo modo, a agência deverá comunicar à DGT logo que cesse a exploração.
 
@@ -716,7 +748,7 @@ e) A difusão de propaganda turística, bem como a venda de guias turísticos e 
 
 4 - O disposto no número anterior não pode justificar, em caso algum, que a agência deixe de cumprir as obrigações assumidas para com os clientes, bem como as disposições reguladoras da sua actividade própria.
 
-###### Art. 47.º - 1 - A redução do capital das sociedades proprietárias ou exploradoras de agências de viagens abaixo do mínimo fixado na alínea a) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) carece de autorização prévia da DGT.
+Art. 47.º - 1 - A redução do capital das sociedades proprietárias ou exploradoras de agências de viagens abaixo do mínimo fixado na alínea a) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) carece de autorização prévia da DGT.
 
 2 - Para este efeito, a sociedade apresentará na DGT o projecto de deliberação acompanhado dos elementos justificativos da redução.
 
@@ -726,7 +758,7 @@ e) A difusão de propaganda turística, bem como a venda de guias turísticos e 
 
 5 - A não realização do aumento de capital previsto no n.º 3 deste artigo determinará a cassação do alvará da agência.
 
-###### Art. 48.º - 1 - No cálculo das receitas brutas da agência a ter em conta para efeitos de fixação do montante da caução a prestar, apenas serão consideradas como receita as comissões percebidas pela agência no caso dos serviços referidos no n.º 3 do artigo 27.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) quando a intervenção da agência de prestação de tais serviços tenha o carácter de mero intermediário.
+Art. 48.º - 1 - No cálculo das receitas brutas da agência a ter em conta para efeitos de fixação do montante da caução a prestar, apenas serão consideradas como receita as comissões percebidas pela agência no caso dos serviços referidos no n.º 3 do artigo 27.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) quando a intervenção da agência de prestação de tais serviços tenha o carácter de mero intermediário.
 
 2 - Para efeitos do estabelecido no número anterior, as agências enviarão à DGT, para além dos documentos referidos no n.º 3 do artigo 33.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), o balanço analítico e a demonstração de resultados analíticos.
 
@@ -734,15 +766,15 @@ e) A difusão de propaganda turística, bem como a venda de guias turísticos e 
 
 4 - Se a DGT não conseguir obter os elementos referidos no n.º 1 deste artigo, o cálculo da caução será baseado no montante global das receitas que constar do balanço.
 
-###### Art. 49.º - 1 - A caução das agências existentes à data da publicação do presente diploma será revista de acordo com o estabelecido no artigo 98.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
+Art. 49.º - 1 - A caução das agências existentes à data da publicação do presente diploma será revista de acordo com o estabelecido no artigo 98.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
 2 - Para este efeito, as agências apresentarão na DGT os documentos referidos no n.º 2 do artigo anterior respeitantes ao ano anterior àquele em que se proceder à revisão do montante da caução.
 
 3 - É aplicável nestes casos o disposto nos n.os 3 e 4 do artigo anterior.
 
-###### Art. 50.º Para efeitos do disposto no n.º 3 do artigo 41.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), a eventual alteração dos serviços acordados resultante das condições atmosféricas não será considerada prestação insuficiente ou defeituosa dos mesmos, salvo menção expressa em contrário inserida nos respectivos programas ou anúncios ou nos contratos celebrados com os clientes.
+Art. 50.º Para efeitos do disposto no n.º 3 do artigo 41.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), a eventual alteração dos serviços acordados resultante das condições atmosféricas não será considerada prestação insuficiente ou defeituosa dos mesmos, salvo menção expressa em contrário inserida nos respectivos programas ou anúncios ou nos contratos celebrados com os clientes.
 
-###### Art. 51.º - 1 - O limite mínimo de cobertura do seguro fixado no n.º 1 do artigo 43.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) deverá ser revisto nos seguintes casos:
+Art. 51.º - 1 - O limite mínimo de cobertura do seguro fixado no n.º 1 do artigo 43.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) deverá ser revisto nos seguintes casos:
 
 a) Quando se verifique uma taxa de inflação anual acumulada superior a 20%;
 
@@ -754,15 +786,15 @@ b) Sempre que se verifique uma desvalorização cambial do escudo superior a 15%
 
 4 - Na falta de revisão do seguro de acordo com o estabelecido nos números anteriores, aplicar-se-á o disposto no n.º 3 do artigo 29.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
-###### Art. 52.º - 1 - As empresas devem actualizar os seus seguros no prazo que for fixado no despacho previsto no artigo anterior, o qual não poderá ser inferior a 90 dias contados da data da sua publicação, enviando cópia da respectiva apólice à DGT.
+Art. 52.º - 1 - As empresas devem actualizar os seus seguros no prazo que for fixado no despacho previsto no artigo anterior, o qual não poderá ser inferior a 90 dias contados da data da sua publicação, enviando cópia da respectiva apólice à DGT.
 
 2 - Na falta de cumprimento do estabelecido no número anterior será aplicável o disposto no n.º 3 do artigo 29.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
-###### Art. 53.º - 1 - Em caso de rescisão ou caducidade antecipada do seguro sem se verificar a sua renovação, a companhia de seguros fica obrigada a comunicar o facto à DGT no prazo máximo de oito dias antes de o evento ter lugar ou, se tal não lhe for possível, nos oito dias seguintes.
+Art. 53.º - 1 - Em caso de rescisão ou caducidade antecipada do seguro sem se verificar a sua renovação, a companhia de seguros fica obrigada a comunicar o facto à DGT no prazo máximo de oito dias antes de o evento ter lugar ou, se tal não lhe for possível, nos oito dias seguintes.
 
 2 - Nos casos previstos no número anterior aplica-se o disposto no artigo 52.º deste diploma.
 
-###### Art. 54.º - 1 - A realização de viagens turísticas colectivas pelos órgãos locais e regionais de turismo depende de autorização prévia a conceder pela DGT.
+Art. 54.º - 1 - A realização de viagens turísticas colectivas pelos órgãos locais e regionais de turismo depende de autorização prévia a conceder pela DGT.
 
 2 - Para este efeito, os órgãos interessados deverão apresentar na DGT o respectivo pedido acompanhado dos seguintes elementos:
 
@@ -774,7 +806,7 @@ b) Memória descritiva e justificativa da viagem, indicando os horários previst
 
 4 - As entidades referidas no n.º 1 deste artigo só poderão realizar as viagens classificadas como circuitos turísticos.
 
-###### Art. 55.º - 1 - Salvo tratando-se de viagens previamente anunciadas ao público, só serão classificadas como colectivas as viagens turísticas terrestres em que o veículo utilizado permita o transporte de mais de nove pessoas.
+Art. 55.º - 1 - Salvo tratando-se de viagens previamente anunciadas ao público, só serão classificadas como colectivas as viagens turísticas terrestres em que o veículo utilizado permita o transporte de mais de nove pessoas.
 
 2 - O disposto no número anterior não é aplicável se o grupo de turistas abrangido for superior a nove, ainda que os veículos utilizados não permitam o transporte de mais de nove passageiros em cada um.
 
@@ -790,7 +822,7 @@ b) Memória descritiva e justificativa da viagem, indicando os horários previst
 
 8 - Nas viagens a que se refere o artigo 3.º do [Decreto Regulamentar n.º 71-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-f-1979-156811), de 29 de Dezembro, o transferista poderá ser substituído por um motorista de turismo.
 
-###### Art. 56.º - 1 - Para efeitos do disposto no artigo 49.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), nas visitas às localidades, museus, palácios ou monumentos nacionais é obrigatório o acompanhamento dos turistas por correios de turismo ou guias-intérpretes portugueses portadores da respectiva carteira profissional, quando existam nas localidades ou nos demais locais visitados.
+Art. 56.º - 1 - Para efeitos do disposto no artigo 49.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), nas visitas às localidades, museus, palácios ou monumentos nacionais é obrigatório o acompanhamento dos turistas por correios de turismo ou guias-intérpretes portugueses portadores da respectiva carteira profissional, quando existam nas localidades ou nos demais locais visitados.
 
 2 - A obrigação estabelecida no número anterior é aplicável, sem excepção, às viagens turísticas colectivas organizadas no estrangeiro, ainda que não consignadas a uma agência portuguesa.
 
@@ -798,9 +830,9 @@ b) Memória descritiva e justificativa da viagem, indicando os horários previst
 
 4 - No caso previsto no número anterior, a agência poderá utilizar empregados ou representantes designados para o efeito.
 
-###### Art. 57.º As agências de viagens e turismo que recusem o serviço de qualquer profissional de informação turística indicado pelo respectivo sindicato devem comunicar os motivos da recusa à DGT e àquela entidade.
+Art. 57.º As agências de viagens e turismo que recusem o serviço de qualquer profissional de informação turística indicado pelo respectivo sindicato devem comunicar os motivos da recusa à DGT e àquela entidade.
 
-###### Art. 58.º - 1 - Para efeitos do estabelecido na alínea e) do n.º 2 do artigo 51.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as entidades organizadoras da viagem deverão comunicar à DGT a sua realização com, pelo menos, dez dias de antecedência relativa à data de início da viagem.
+Art. 58.º - 1 - Para efeitos do estabelecido na alínea e) do n.º 2 do artigo 51.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as entidades organizadoras da viagem deverão comunicar à DGT a sua realização com, pelo menos, dez dias de antecedência relativa à data de início da viagem.
 
 2 - A comunicação prevista no número anterior deverá ser feita em duplicado e conter os seguintes elementos:
 
@@ -816,7 +848,7 @@ e) Meio de transporte utilizado.
 
 3 - A DGT devolverá à entidade organizadora o duplicado da comunicação, com a menção expressa de ter sido recebido o original, o qual constituirá documento bastante para provar a legalidade da viagem.
 
-###### Art. 59.º Para efeitos do disposto no n.º 1 do artigo 52.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as agências de viagens deverão:
+Art. 59.º Para efeitos do disposto no n.º 1 do artigo 52.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as agências de viagens deverão:
 
 a) Dar aos clientes informações exactas no que respeita aos preços e condições dos serviços solicitados;
 
@@ -826,7 +858,7 @@ c) Manter secretas todas as condições dos serviços ou viagens adquiridas pelo
 
 d) Abster-se de usar serviços de terceiros cuja idoneidade profissional não seja segura.
 
-###### Art. 60.º O documento previsto no n.º 3 do artigo 53.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) deverá conter obrigatoriamente os seguintes elementos:
+Art. 60.º O documento previsto no n.º 3 do artigo 53.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) deverá conter obrigatoriamente os seguintes elementos:
 
 a) Objecto e características do serviço ou viagem adquiridos;
 
@@ -836,7 +868,7 @@ c) Preço global;
 
 d) Pagamentos antecipados efectuados pelo cliente.
 
-###### Art. 61.º - 1 - As agências de viagens que anunciarem a realização de viagens turísticas colectivas deverão dispor de um programa da viagem para entregar aos clientes, organizado nos termos do número seguinte.
+Art. 61.º - 1 - As agências de viagens que anunciarem a realização de viagens turísticas colectivas deverão dispor de um programa da viagem para entregar aos clientes, organizado nos termos do número seguinte.
 
 2 - Os programas das viagens deverão conter sempre as seguintes informações:
 
@@ -856,7 +888,7 @@ g) Existência de excursões facultativas nos locais visitados, com indicação 
 
 3 - As agências de viagens poderão condicionar a realização das viagens à existência de um número mínimo de participantes, devendo mencionar expressamente essa condição nos anúncios e nos programas das mesmas.
 
-###### Art. 62.º - 1 - Na venda de uma viagem turística colectiva, a agência de viagens deverá entregar a cada cliente, além do programa referido no artigo anterior, um exemplar do contrato assinado no acto da inscrição, do qual constará obrigatoriamente:
+Art. 62.º - 1 - Na venda de uma viagem turística colectiva, a agência de viagens deverá entregar a cada cliente, além do programa referido no artigo anterior, um exemplar do contrato assinado no acto da inscrição, do qual constará obrigatoriamente:
 
 a) Identificação da agência vendedora da viagem, com indicação do número do respectivo alvará;
 
@@ -900,7 +932,7 @@ o) Indicação das condições em que o cliente se poderá fazer substituir por 
 
 8 - O contrato substitui, para todos os efeitos, o documento referido no artigo 60.º
 
-###### Art. 63.º - 1 - No caso previsto no artigo 55.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), se o cliente aceitar a substituição proposta, deverá comunicá-lo à agência nos sete dias seguintes àquele em que recebeu a comunicação da alteração ou no prazo limite que for indicado pela agência, se for inferior, sob pena de se entender que a não aceita.
+Art. 63.º - 1 - No caso previsto no artigo 55.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), se o cliente aceitar a substituição proposta, deverá comunicá-lo à agência nos sete dias seguintes àquele em que recebeu a comunicação da alteração ou no prazo limite que for indicado pela agência, se for inferior, sob pena de se entender que a não aceita.
 
 2 - A proposta de substituição deverá indicar expressamente as alterações introduzidas no programa inicial, designadamente se há aumento ou diminuição do preço a pagar e as condições de pagamento no caso de aumento.
 
@@ -908,17 +940,17 @@ o) Indicação das condições em que o cliente se poderá fazer substituir por 
 
 4 - A alteração do contrato pode ser apresentada pela agência responsável pela realização da viagem, mesmo que não tenha sido a vendedora.
 
-###### Art. 64.º - 1 - Salvo acordo prévio da agência responsável pela realização da viagem, que deverá constar do contrato previsto no artigo 62.º, o cliente não pode modificar as condições previstas no programa.
+Art. 64.º - 1 - Salvo acordo prévio da agência responsável pela realização da viagem, que deverá constar do contrato previsto no artigo 62.º, o cliente não pode modificar as condições previstas no programa.
 
 2 - Em qualquer caso, as despesas resultantes dessa modificação serão sempre suportadas pelo cliente, que não poderá exigir o reembolso das prestações incluídas na viagem que não venha a utilizar em consequência das modificações introduzidas.
 
-###### Art. 65.º - 1 - Nos casos previstos no [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) e neste Regulamento em que as agências de viagens estejam obrigadas a devolver aos clientes as importâncias por estes entregues, o pagamento dessas quantias deverá realizar-se no prazo de 60 dias contado da data em que se verificou o facto determinante da obrigação de devolver, sob pena de se constituírem em mora e de a sua cobrança se poder processar inteiramente através da caução.
+Art. 65.º - 1 - Nos casos previstos no [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) e neste Regulamento em que as agências de viagens estejam obrigadas a devolver aos clientes as importâncias por estes entregues, o pagamento dessas quantias deverá realizar-se no prazo de 60 dias contado da data em que se verificou o facto determinante da obrigação de devolver, sob pena de se constituírem em mora e de a sua cobrança se poder processar inteiramente através da caução.
 
 2 - É aplicável nestes casos o disposto nos artigos 37.º e 38.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099).
 
-###### Art. 66.º Sem prejuízo de convenção escrita em contrário, o montante do depósito de garantia previsto no artigo 67.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) para efeitos do cálculo das indemnizações previstas nos artigos 66.º e 68.º do mesmo diploma será igual a 20% do preço de cada unidade de alojamento reservada, independentemente do montante do depósito efectivamente prestado.
+Art. 66.º Sem prejuízo de convenção escrita em contrário, o montante do depósito de garantia previsto no artigo 67.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) para efeitos do cálculo das indemnizações previstas nos artigos 66.º e 68.º do mesmo diploma será igual a 20% do preço de cada unidade de alojamento reservada, independentemente do montante do depósito efectivamente prestado.
 
-###### Art. 67.º - 1 - As agências de viagens e turismo, as suas sucursais, os delegados das agências estrangeiras e os serviços de reserva terão obrigatoriamente um livro de reclamações, que será sempre facultado ao cliente que o solicite, desde que se identifique e indique a sua morada.
+Art. 67.º - 1 - As agências de viagens e turismo, as suas sucursais, os delegados das agências estrangeiras e os serviços de reserva terão obrigatoriamente um livro de reclamações, que será sempre facultado ao cliente que o solicite, desde que se identifique e indique a sua morada.
 
 2 - Existirá um livro de reclamações em cada estabelecimento.
 
@@ -926,13 +958,13 @@ o) Indicação das condições em que o cliente se poderá fazer substituir por 
 
 4 - Em todos os estabelecimentos deverá afixar-se em local bem visível, em português, francês, inglês e alemão, a indicação da existência de um livro de reclamações ao dispor dos clientes.
 
-###### Art. 68.º - 1 - Das reclamações exaradas no livro previsto no artigo anterior deverá o responsável pelo estabelecimento ou o seu director técnico enviar cópia integral à DGT, por carta registada, no prazo de 48 horas.
+Art. 68.º - 1 - Das reclamações exaradas no livro previsto no artigo anterior deverá o responsável pelo estabelecimento ou o seu director técnico enviar cópia integral à DGT, por carta registada, no prazo de 48 horas.
 
 2 - Da reclamação devem constar a identificação e a morada do reclamante, estando a agência obrigada a fazê-lo se aquele, porventura, o não fizer.
 
 ### CAPÍTULO IV — Do registo
 
-###### Art. 69.º O registo das agências de viagens e turismo deverá conter os seguintes elementos:
+Art. 69.º O registo das agências de viagens e turismo deverá conter os seguintes elementos:
 
 a) Nome da agência de viagens;
 
@@ -958,7 +990,7 @@ l) Reclamações apresentadas, com indicação da decisão tomada sobre elas;
 
 m) Relatórios de inspecções e vistorias.
 
-###### Art. 70.º Do registo referido no artigo anterior deverão ainda constar, sempre que se verifiquem, os seguintes elementos:
+Art. 70.º Do registo referido no artigo anterior deverão ainda constar, sempre que se verifiquem, os seguintes elementos:
 
 a) Localização das sucursais da agência, com as indicações referidas na alínea b) do artigo anterior;
 
@@ -972,7 +1004,7 @@ e) Duração do contrato de exploração;
 
 f) Identificação dos meios previstos no artigo 5.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099) de que a agência seja proprietária ou exploradora, com indicação da respectiva localização e categoria e da qualidade em que a agência intervém ou do número de unidades utilizadas e respectivas características, consoante o caso.
 
-###### Art. 71.º - 1 - Deverão ser inscritos no registo a que se refere o artigo 69.º os seguintes factos:
+Art. 71.º - 1 - Deverão ser inscritos no registo a que se refere o artigo 69.º os seguintes factos:
 
 a) A mudança de nome da agência;
 
@@ -996,7 +1028,7 @@ j) A transmissão ou a cessação da exploração dos meios referidos na alínea
 
 2 - Os factos referidos no número anterior serão inscritos no registo por meio de averbamento aos elementos a que respeitarem.
 
-###### Art. 72.º - 1 - O registo dos delegados das agências de viagens estrangeiras deverá conter os seguintes elementos:
+Art. 72.º - 1 - O registo dos delegados das agências de viagens estrangeiras deverá conter os seguintes elementos:
 
 a) Identificação do delegado;
 
@@ -1010,7 +1042,7 @@ d) Tempo de duração do contrato do representante.
 
 3 - É aplicável neste caso o disposto no artigo anterior, com as necessárias adaptações.
 
-###### Art. 73.º - 1 - O registo dos serviços de reservas deverá conter os seguintes elementos:
+Art. 73.º - 1 - O registo dos serviços de reservas deverá conter os seguintes elementos:
 
 a) Localização do serviço;
 
@@ -1022,7 +1054,7 @@ c) Identificação do responsável técnico.
 
 3 - É aplicável neste caso o disposto no artigo 71.º, com as necessárias adaptações.
 
-###### Art. 74.º - 1 - O registo dos directores técnicos das agências de viagens e turismo e suas sucursais deverá conter os seguintes elementos:
+Art. 74.º - 1 - O registo dos directores técnicos das agências de viagens e turismo e suas sucursais deverá conter os seguintes elementos:
 
 a) Identificação completa, com indicação da morada;
 
@@ -1050,9 +1082,9 @@ b) A declaração da sua falta de idoneidade para o exercício do cargo, com ind
 
 3 - É aplicável neste caso o disposto no n.º 2 do artigo 71.º
 
-###### Art. 75.º É aplicável ao registo dos responsáveis técnicos pelos serviços de reservas o disposto no artigo anterior, com as necessárias adaptações.
+Art. 75.º É aplicável ao registo dos responsáveis técnicos pelos serviços de reservas o disposto no artigo anterior, com as necessárias adaptações.
 
-###### Art. 76.º - 1 - Além dos elementos indicados nos artigos anteriores deste capítulo, a DGT pode, a qualquer tempo, solicitar às empresas proprietárias e ou exploradoras quaisquer outros elementos que julgue necessários, bem como exigir a prova documental das informações prestadas.
+Art. 76.º - 1 - Além dos elementos indicados nos artigos anteriores deste capítulo, a DGT pode, a qualquer tempo, solicitar às empresas proprietárias e ou exploradoras quaisquer outros elementos que julgue necessários, bem como exigir a prova documental das informações prestadas.
 
 2 - Os elementos ou documentos solicitados aos interessados devem dar entrada na DGT no prazo por ela fixado ou, não o havendo, no prazo de 30 dias.
 
@@ -1060,57 +1092,57 @@ b) A declaração da sua falta de idoneidade para o exercício do cargo, com ind
 
 4 - Este prazo deverá ser prorrogado pela DGT se se mostrar haver motivos atendíveis para o fazer.
 
-###### Art. 77.º - 1 - A DGT, quando conceder autorização de abertura de um estabelecimento, procederá oficiosamente ao seu registo.
+Art. 77.º - 1 - A DGT, quando conceder autorização de abertura de um estabelecimento, procederá oficiosamente ao seu registo.
 
 2 - O disposto no número anterior é aplicável a todas as demais autorizações concedidas pela DGT, quando respeitem a elementos que devem constar do registo.
 
-###### Art. 78.º As reclamações, sanções, louvores e relatórios de inspecção e vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
+Art. 78.º As reclamações, sanções, louvores e relatórios de inspecção e vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
 
-###### Art. 79.º Poderão ser passadas certidões dos elementos constantes do registo a requerimento da empresa proprietária do estabelecimento ou da exploradora, se for distinta.
+Art. 79.º Poderão ser passadas certidões dos elementos constantes do registo a requerimento da empresa proprietária do estabelecimento ou da exploradora, se for distinta.
 
 ### CAPÍTULO V — Das infracções e sua sanção
 
-###### Art. 80.º Sem prejuízo da responsabilidade civil ou penal emergente dos factos praticados, as infracções ao disposto nos artigos 15.º, 16.º, n.º 4, 25.º, n.º 1, 26.º, 29.º, 36.º, n.os 3 e 4, 37.º, n.º 1, 43.º, 44.º, n.os 1 e 4, 46.º, 51.º, n.os 1 e 2, 52.º, n.º 1, 53.º, 54.º, n.os 1 e 4, 55.º, n.os 3 a 5 e 7, 56.º, n.os 1 e 2, 57.º, 58.º, n.º 1, 59.º, 60.º, 61.º, 62.º, n.º 1, 63.º, n.º 3, 67.º, 68.º e 76.º, n.º 2, serão punidas com coima de 20000$00 a 1000000$00.
+Art. 80.º Sem prejuízo da responsabilidade civil ou penal emergente dos factos praticados, as infracções ao disposto nos artigos 15.º, 16.º, n.º 4, 25.º, n.º 1, 26.º, 29.º, 36.º, n.os 3 e 4, 37.º, n.º 1, 43.º, 44.º, n.os 1 e 4, 46.º, 51.º, n.os 1 e 2, 52.º, n.º 1, 53.º, 54.º, n.os 1 e 4, 55.º, n.os 3 a 5 e 7, 56.º, n.os 1 e 2, 57.º, 58.º, n.º 1, 59.º, 60.º, 61.º, 62.º, n.º 1, 63.º, n.º 3, 67.º, 68.º e 76.º, n.º 2, serão punidas com coima de 20000$00 a 1000000$00.
 
-###### Art. 81.º A mudança do estabelecimento de uma agência de viagens ou das suas sucursais em infracção ao disposto no artigo 2.º será punida com coima de 200000$00 a 1000000$00, podendo ainda aplicar-se a sanção acessória de suspensão da actividade da agência e ou a de publicidade do acto sancionador por conta do infractor.
+Art. 81.º A mudança do estabelecimento de uma agência de viagens ou das suas sucursais em infracção ao disposto no artigo 2.º será punida com coima de 200000$00 a 1000000$00, podendo ainda aplicar-se a sanção acessória de suspensão da actividade da agência e ou a de publicidade do acto sancionador por conta do infractor.
 
-###### Art. 82.º A instalação de serviços de reservas em infracção ao disposto no artigo 2.º será punida com coima de 500000$00 a 2000000$00.
+Art. 82.º A instalação de serviços de reservas em infracção ao disposto no artigo 2.º será punida com coima de 500000$00 a 2000000$00.
 
-###### Art. 83.º A falta de comunicação ou a comunicação fora de prazo ou indevidamente instruída em infracção ao disposto no artigo 4.º será punida com coima de 20000$00 a 100000$00.
+Art. 83.º A falta de comunicação ou a comunicação fora de prazo ou indevidamente instruída em infracção ao disposto no artigo 4.º será punida com coima de 20000$00 a 100000$00.
 
-###### Art. 84.º Os directores técnicos e os responsáveis técnicos que agirem em infracção ao disposto no artigo 41.º serão punidos em coima de 20000$00 a 200000$00, podendo ainda aplicar-se a sanção acessória de suspensão e ou a de publicidade do acto sancionador por conta do infractor.
+Art. 84.º Os directores técnicos e os responsáveis técnicos que agirem em infracção ao disposto no artigo 41.º serão punidos em coima de 20000$00 a 200000$00, podendo ainda aplicar-se a sanção acessória de suspensão e ou a de publicidade do acto sancionador por conta do infractor.
 
-###### Art. 85.º A prestação de serviços em infracção ao disposto no artigo 42.º será punida com coima de 200000$00 a 2000000$00, podendo ainda ser aplicada a sanção acessória de suspensão da actividade da agência.
+Art. 85.º A prestação de serviços em infracção ao disposto no artigo 42.º será punida com coima de 200000$00 a 2000000$00, podendo ainda ser aplicada a sanção acessória de suspensão da actividade da agência.
 
-###### Art. 86.º - 1 - A falta de revisão da caução em infracção ao disposto no artigo 49.º será punida com coima de 100000$00 e com a sanção acessória de suspensão da actividade da agência.
+Art. 86.º - 1 - A falta de revisão da caução em infracção ao disposto no artigo 49.º será punida com coima de 100000$00 e com a sanção acessória de suspensão da actividade da agência.
 
 2 - No caso previsto no número anterior, a DGT fixará oficiosamente o montante da caução em função dos elementos disponíveis.
 
-###### Art. 87.º As falsas declarações sobre os elementos a que se referem os artigos 5.º, n.os 2, II), alínea d), e 4, 6.º, n.º 1, 7.º, n.º 1, alínea c), 14.º, n.º 1, 17.º, n.º 1, alínea b), 28.º, n.os 2, alíneas d) e e), e 3, alínea e), 33.º, n.os 2 e 4, 38.º, n.º 1, alíneas d) e e), e 48.º, n.º 1, serão punidas com coima de 200000$00, podendo ainda ser aplicada a sanção acessória de suspensão da actividade da agência e ou a de publicidade do acto sancionador por conta do infractor.
+Art. 87.º As falsas declarações sobre os elementos a que se referem os artigos 5.º, n.os 2, II), alínea d), e 4, 6.º, n.º 1, 7.º, n.º 1, alínea c), 14.º, n.º 1, 17.º, n.º 1, alínea b), 28.º, n.os 2, alíneas d) e e), e 3, alínea e), 33.º, n.os 2 e 4, 38.º, n.º 1, alíneas d) e e), e 48.º, n.º 1, serão punidas com coima de 200000$00, podendo ainda ser aplicada a sanção acessória de suspensão da actividade da agência e ou a de publicidade do acto sancionador por conta do infractor.
 
-###### Art. 88.º - 1 - As infracções às disposições citadas no artigo 80.º e as previstas nos artigos 81.º a 87.º deste diploma são puníveis ainda que praticadas com negligência.
+Art. 88.º - 1 - As infracções às disposições citadas no artigo 80.º e as previstas nos artigos 81.º a 87.º deste diploma são puníveis ainda que praticadas com negligência.
 
 2 - Nos casos previstos nas disposições citadas no número anterior, a tentativa será sempre punida.
 
-###### Art. 89.º - 1 - Nos casos previstos no artigo 83.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as instalações deverão ser encerradas e seladas até serem retirados os meios utilizados.
+Art. 89.º - 1 - Nos casos previstos no artigo 83.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as instalações deverão ser encerradas e seladas até serem retirados os meios utilizados.
 
 2 - Para este efeito, a DGT deverá inspeccionar previamente o local, antes de mandar proceder ao seu encerramento.
 
-###### Art. 90.º - 1 - No caso de ter sido aplicada a sanção acessória de suspensão da actividade, as instalações da agência deverão ser encerradas e seladas durante o período fixado.
+Art. 90.º - 1 - No caso de ter sido aplicada a sanção acessória de suspensão da actividade, as instalações da agência deverão ser encerradas e seladas durante o período fixado.
 
 2 - É aplicável neste caso o disposto no n.º 2 do artigo anterior.
 
 ### CAPÍTULO VI — Disposição finais e transitórias
 
-###### Art. 91.º - 1 - A comissão consultiva deverá pronunciar-se sobre os assuntos que forem submetidos à sua apreciação no prazo que a lei ou, na sua falta, a DGT fixarem.
+Art. 91.º - 1 - A comissão consultiva deverá pronunciar-se sobre os assuntos que forem submetidos à sua apreciação no prazo que a lei ou, na sua falta, a DGT fixarem.
 
 2 - O prazo previsto no número anterior nunca poderá ser inferior a oito dias, contado da data do recebimento dos documentos.
 
-###### Art. 92.º A DGT promoverá a edição de um guia das agências de viagens e suas sucursais e, bem assim, a sua divulgação através dos centros de turismo no estrangeiro.
+Art. 92.º A DGT promoverá a edição de um guia das agências de viagens e suas sucursais e, bem assim, a sua divulgação através dos centros de turismo no estrangeiro.
 
-###### Art. 93.º Pela concessão de licenças e autorizações exigidas pelo presente diploma e, bem assim, pela realização de vistorias são devidas as taxas constantes da tabela anexa ao presente diploma.
+Art. 93.º Pela concessão de licenças e autorizações exigidas pelo presente diploma e, bem assim, pela realização de vistorias são devidas as taxas constantes da tabela anexa ao presente diploma.
 
-###### Art. 94.º - 1 - As taxas serão pagas no Banco de Portugal ou nas tesourarias da Fazenda Pública, mediante guias emitidas pela DGT nos oito dias seguintes àquele em que forem apresentados os pedidos.
+Art. 94.º - 1 - As taxas serão pagas no Banco de Portugal ou nas tesourarias da Fazenda Pública, mediante guias emitidas pela DGT nos oito dias seguintes àquele em que forem apresentados os pedidos.
 
 2 - O requerente deverá juntar ao processo três exemplares da guia paga no prazo de quinze dias a contar da sua emissão.
 
@@ -1118,31 +1150,31 @@ b) A declaração da sua falta de idoneidade para o exercício do cargo, com ind
 
 4 - As taxas previstas na tabela anexa constituem receita da DGT.
 
-###### Art. 95.º - 1 - Para efeitos do disposto no artigo 100.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as agências deverão enviar à DGT os alvarás existentes no prazo máximo de 90 dias, contado da publicação do presente diploma.
+Art. 95.º - 1 - Para efeitos do disposto no artigo 100.º do [Decreto-Lei n.º 264/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1986-220099), as agências deverão enviar à DGT os alvarás existentes no prazo máximo de 90 dias, contado da publicação do presente diploma.
 
 2 - Os alvarás manterão o número dos alvarás substituídos.
 
 3 - A infracção ao estabelecido no n.º 1 deste artigo será punida com coima de 10000$00 a 50000$00, podendo ser aplicada a sanção acessória de suspensão da actividade da agência se a falta se mantiver.
 
-###### Art. 96.º Mantêm-se em vigor a [Portaria n.º 9/86](https://diariodarepublica.pt/dr/detalhe/portaria/9-1986-616608), de 10 de Janeiro, e o Despacho n.º 56/83, de 31 de Maio, publicado no Diário da República, 2.ª série, de 23 de Junho de 1983.
+Art. 96.º Mantêm-se em vigor a [Portaria n.º 9/86](https://diariodarepublica.pt/dr/detalhe/portaria/9-1986-616608), de 10 de Janeiro, e o Despacho n.º 56/83, de 31 de Maio, publicado no Diário da República, 2.ª série, de 23 de Junho de 1983.
 
-###### Art. 97.º - 1 - O disposto na alínea h) do n.º 1 do artigo 2.º e na secção IV do capítulo I deste diploma não é aplicável às regiões autónomas.
+Art. 97.º - 1 - O disposto na alínea h) do n.º 1 do artigo 2.º e na secção IV do capítulo I deste diploma não é aplicável às regiões autónomas.
 
 2 - A aplicação do presente diploma às regiões autónomas dependerá de decreto regional que adapte as suas disposições às condições particulares de cada território.
 
-###### Art. 98.º São revogados os Decretos Regulamentares n.os [84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, e [20/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1983-309878), de 8 de Março.
+Art. 98.º São revogados os Decretos Regulamentares n.os [84/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1979-231296), de 31 de Dezembro, e [20/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1983-309878), de 8 de Março.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 27 de Fevereiro de 1987.**
+Promulgado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Março de 1987.**
+Referendado em 4 de Março de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Tabela anexa a que se refere o artigo 93.º
 
@@ -1204,4 +1236,4 @@ d) De serviços de reservas ... 50000$00
 
 4.2 - De outras vistorias ... 25000$00
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00400/0004100042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2024/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2024-836117864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6f6c409a0a4e4c07f73d316dbd6509419fcdbf9757d0e43cd5b9ba908f12b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10dc7bd47327c7eb1e585100a121b40870841653ea89a2c1f9d66eaac063c708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,6 +70,12 @@ subjects:
 - Doença
 - Incapacidade Temporária
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:28/2004
+  label: Altera, a partir de 01.03.2024, nos termos do artigo 3.º do presente diploma, o artigo 14.º do Decreto-Lei n.º 28/2004
+    de 4 de fevereiro, Diário da República n.º 29/2004, Série I-A
+  source: null
+  date: '2004-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2005/07/14/p/dre
   label: null
@@ -106,16 +112,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:115620691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211340863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215210816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592342:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:56Z'
   warnings: []
   errors: []
 ---
@@ -172,12 +214,14 @@ O presente decreto-lei entra em vigor no primeiro dia do segundo mês seguinte a
 
 Visto e aprovado em Conselho de Ministros de 23 de dezembro de 2023. - António Luís Santos da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 22 de dezembro de 2023.**
+Promulgado em 22 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de dezembro de 2023.**
+Referendado em 28 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117208259

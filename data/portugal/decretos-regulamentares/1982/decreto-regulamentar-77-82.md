@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/77-1982-378309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ca9874d2c51fa77a0c2ffbbc0983d729ab2684ce5d7da1db49182511516dbff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98611b86881339c31b223233cbec686f3dfbe197ae4d250de800ad0c4ff656d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informação
+- Centro de Informação Científica e Técnica da Reforma Administrativa
+- Informação Científica e Técnica
+- Ministério da Reforma Administrativa
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:218908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:385003:por
+  label: "Aumentados lugares ao quadro de pessoal anexo ao presente diploma, pela PORT.274/84.04.05.1984.PCM, DR.IS [103]\
+    \ de 04.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1984-385003
+  date: '1984-05-04'
+- type: amended_by
+  target: pt:dre:399200:por
+  label: "Aumentados lugares ao quadro de pessoal aprovado pelo presente diploma, pela PORT.701/84.10.09.1984.PCM, DR.IS [210]\
+    \ de 10.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1984-399200
+  date: '1984-09-10'
+- type: amended_by
+  target: pt:dre:622151:por
+  label: "Alterado o quadro de pessoal, pela PORT.8/85.1985.01.04.PCM DR.IS [3]0\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/8-1985-622151
+  date: '1985-01-04'
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:308357:por
+  label: Rectificado pela DECL.DD2542.1982.12.15.PCM DR.IS [20] de 25/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-308357
+  date: '1982-12-15'
+- type: repealed_by
+  target: pt:dre:218908:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 229/86 - Diário da República n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1986-218908
+  date: '1986-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:20Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +139,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Centro de Informação Científica e Técnica da Reforma Administrativa (CICTRA) é o serviço nuclear da rede de informação científica e técnica do Ministério da Reforma Administrativa (MRA), constituindo o subsistema nacional da informação para a ciência da administração, ao qual incumbe:
+Artigo 1.º - 1 - O Centro de Informação Científica e Técnica da Reforma Administrativa (CICTRA) é o serviço nuclear da rede de informação científica e técnica do Ministério da Reforma Administrativa (MRA), constituindo o subsistema nacional da informação para a ciência da administração, ao qual incumbe:
 
 a) A constituição, tratamento e manutenção de um património documental e informativo no domínio da administração;
 
@@ -110,13 +151,13 @@ c) A promoção das ligações às estruturas nacionais e internacionais de info
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º São órgãos do CICTRA:
+Art. 2.º São órgãos do CICTRA:
 
 a) O director-geral;
 
 b) O conselho administrativo.
 
-###### Art. 3.º Compete ao director-geral do CICTRA:
+Art. 3.º Compete ao director-geral do CICTRA:
 
 a) Dirigir e orientar a acção dos serviços;
 
@@ -130,7 +171,7 @@ e) Submeter à aprovação das entidades competentes os orçamentos e a conta an
 
 f) Representar e fazer representar o CICTRA em quaisquer actos ou contratos em que ele haja de intervir, em juízo ou fora dele.
 
-###### Art. 4.º O conselho administrativo é composto por:
+Art. 4.º O conselho administrativo é composto por:
 
 a) O director-geral do CICTRA;
 
@@ -144,7 +185,7 @@ d) O chefe da Repartição Administrativa, que secretariará.
 
 3 - O conselho administrativo reunirá uma vez por mês e, extraordinariamente, sempre que seja necessário, sob convocatória do seu presidente.
 
-###### Art. 5.º Compete ao conselho administrativo:
+Art. 5.º Compete ao conselho administrativo:
 
 a) Promover a elaboração do planeamento financeiro;
 
@@ -168,7 +209,7 @@ j) Autorizar a constituição de fundos de maneio, dentro dos limites da sua com
 
 l) Fixar o preço de venda das publicações editadas pelo CICTRA.
 
-###### Art. 6.º - 1 - O CICTRA compreende os seguintes serviços:
+Art. 6.º - 1 - O CICTRA compreende os seguintes serviços:
 
 a) Departamento de Informação Científica e Técnica (DICT);
 
@@ -176,7 +217,7 @@ b) Repartição Administrativa.
 
 2 - Na dependência do director-geral funcionará ainda um Centro de Edições e Artes Gráficas (CEAG).
 
-###### Art. 7.º Compete ao Departamento de Informação Científica e Técnica:
+Art. 7.º Compete ao Departamento de Informação Científica e Técnica:
 
 a) Definir o subsistema de informação científica e técnica para a ciência da administração e assegurar a pesquisa de novas fontes necessárias ao seu enriquecimento;
 
@@ -188,7 +229,7 @@ d) Assegurar o tratamento das espécies adquiridas, a sua divulgação e a conse
 
 e) Promover o intercâmbio de documentos com os outros centros e bibliotecas nacionais e estrangeiras.
 
-###### Art. 8.º O Departamento de Informação Científica e Técnica é dirigido por um director de serviços e compreende:
+Art. 8.º O Departamento de Informação Científica e Técnica é dirigido por um director de serviços e compreende:
 
 a) Divisão de Investigação das Fontes;
 
@@ -198,7 +239,7 @@ c) Divisão de Tratamento da Informação;
 
 d) Unidades de informação científica e técnica.
 
-###### Art. 9.º Compete à Divisão de Investigação das Fontes:
+Art. 9.º Compete à Divisão de Investigação das Fontes:
 
 a) Elaborar os estudos necessários à definição do subsistema de informação científica e técnica para a ciência da administração;
 
@@ -206,7 +247,7 @@ b) Colaborar com os restantes serviços da Administração Pública na selecçã
 
 c) Assegurar a pesquisa de novas fontes documentais necessárias ao enriquecimento do património documental e informativo no domínio da administração.
 
-###### Art. 10.º Compete à Divisão de Recolha e Difusão da Informação:
+Art. 10.º Compete à Divisão de Recolha e Difusão da Informação:
 
 a) Recolher a informação científica e técnica necessária ao apoio a todos os serviços do MRA;
 
@@ -218,7 +259,7 @@ d) Estabelecer os perfis dos utilizadores do subsistema de informação no domí
 
 e) Divulgar a informação bibliográfica, documental e factológica recolhida.
 
-###### Art. 11.º Compete à Divisão de Tratamento da Informação:
+Art. 11.º Compete à Divisão de Tratamento da Informação:
 
 a) A selecção, aquisição, registo e catalogação das espécies bibliográficas;
 
@@ -232,9 +273,9 @@ e) A execução de traduções;
 
 f) O estudo e implementação de metodologias adequadas ao tratamento da informação.
 
-###### Art. 12.º Compete às unidades de informação científica e técnica (UICT), hierarquicamente dependentes dos serviços em que estiverem inseridas, mas funcional e financeiramente dependentes do CICTRA, assegurar o apoio referido na alínea a) do artigo 7.º
+Art. 12.º Compete às unidades de informação científica e técnica (UICT), hierarquicamente dependentes dos serviços em que estiverem inseridas, mas funcional e financeiramente dependentes do CICTRA, assegurar o apoio referido na alínea a) do artigo 7.º
 
-###### Art. 13.º - 1 - À Repartição Administrativa compete:
+Art. 13.º - 1 - À Repartição Administrativa compete:
 
 a) Assegurar os serviços de expediente geral e arquivo e os decorrentes da gestão do pessoal colocado nos serviços do CICTRA e nas unidades de informação científica e técnica junto dos demais serviços do MRA;
 
@@ -258,7 +299,7 @@ c) Secção de Orçamentos e Conta;
 
 d) Tesouraria.
 
-###### Art. 14.º À Secção de Pessoal, Expediente e Arquivo compete:
+Art. 14.º À Secção de Pessoal, Expediente e Arquivo compete:
 
 a) Executar as acções administrativas e o expediente relativo ao recrutamento, selecção, provimento, promoção, transferência, exoneração, demissão e quaisquer assuntos relativos a pessoal;
 
@@ -268,7 +309,7 @@ c) Assegurar a recepção, registo, expedição, distribuição e arquivo de tod
 
 d) Organizar e manter actualizado o arquivo central.
 
-###### Art. 15.º Compete à Secção de Contabilidade e Património:
+Art. 15.º Compete à Secção de Contabilidade e Património:
 
 a) Elaborar as folhas de vencimentos e restantes abonos ao pessoal, bem como proceder ao seu registo;
 
@@ -280,7 +321,7 @@ d) Gerir as instalações dos serviços, bem como o parque de viaturas;
 
 e) Organizar e manter actualizado o inventário do património do CICTRA.
 
-###### Art. 16.º Compete à Secção de Orçamentos e Conta:
+Art. 16.º Compete à Secção de Orçamentos e Conta:
 
 a) Elaborar os projectos dos orçamentos e organizar os processos de alterações orçamentais, designadamente os de reforço e transferência de verbas e de antecipação de duodécimos;
 
@@ -294,7 +335,7 @@ e) Contabilizar as receitas;
 
 f) Organizar a conta de gerência e conservar a documentação das gerências anteriores.
 
-###### Art. 17.º À tesouraria compete:
+Art. 17.º À tesouraria compete:
 
 a) Arrecadar todas as receitas e efectuar o pagamento das despesas;
 
@@ -302,7 +343,7 @@ b) Transferir para os cofres do Estado ou outras entidades, dentro dos prazos le
 
 c) Manter rigorosamente actualizada a sua escrita e organizar e apresentar ao conselho administrativo o balancete mensal.
 
-###### Art. 18.º Compete ao Centro de Edições e Artes Gráficas (CEAG):
+Art. 18.º Compete ao Centro de Edições e Artes Gráficas (CEAG):
 
 a) O planeamento da actividade gráfica e editorial, de acordo com os planos anuais do MRA;
 
@@ -316,13 +357,13 @@ e) A gestão do parque de máquinas gráficas que lhe está afecto;
 
 f) A execução de outros trabalhos que superiormente lhe sejam cometidos.
 
-###### Art. 19.º O CEAG é dirigido por um director de serviços e compreende:
+Art. 19.º O CEAG é dirigido por um director de serviços e compreende:
 
 a) Divisão de Edições;
 
 b) Serviço de Artes Gráficas.
 
-###### Art. 20.º Compete à Divisão de Edições:
+Art. 20.º Compete à Divisão de Edições:
 
 a) Promover as edições previstas nos planos anuais do MRA;
 
@@ -332,7 +373,7 @@ c) Editar obras da autoria de outros departamentos ou entidades;
 
 d) Organizar e manter actualizados os ficheiros de destinatários das publicações e promover a distribuição destas, em conformidade com as directrizes dos respectivos serviços emissores.
 
-###### Art. 21.º - 1 - Compete ao Serviço de Artes Gráficas:
+Art. 21.º - 1 - Compete ao Serviço de Artes Gráficas:
 
 a) Executar trabalhos gráficos de acordo com os planos anuais do MRA e, em particular, do CICTRA;
 
@@ -348,7 +389,7 @@ e) Executar outros trabalhos que superiormente lhe sejam cometidos.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 22.º - 1 - Constituem receitas do CICTRA:
+Art. 22.º - 1 - Constituem receitas do CICTRA:
 
 a) As dotações do Orçamento Geral do Estado;
 
@@ -366,13 +407,13 @@ e) Quaisquer outras receitas permitidas por lei.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 23.º - 1 - O CICTRA disporá do pessoal dirigente, técnico superior, técnico, técnico-profissional e operário constante do quadro anexo I.
+Art. 23.º - 1 - O CICTRA disporá do pessoal dirigente, técnico superior, técnico, técnico-profissional e operário constante do quadro anexo I.
 
 2 - O CICTRA disporá ainda de pessoal administrativo e auxiliar, conforme o mapa anexo II, pertencente ao quadro único do MRA, que lhe será afecto nos termos do n.º 3 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
 
-###### Art. 24.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
+Art. 24.º O regime de pessoal e as normas de provimento dos lugares do quadro de pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
-###### Art. 25.º - 1 - Será integrado nos quadros de pessoal a que se referem os n.os 1 e 2 do artigo 23.º do presente diploma, de acordo com as normas gerais de transição constantes do decreto regulamentar a que se refere o artigo anterior, o pessoal do quadro do extinto Centro de Informação e Documentação Administrativa.
+Art. 25.º - 1 - Será integrado nos quadros de pessoal a que se referem os n.os 1 e 2 do artigo 23.º do presente diploma, de acordo com as normas gerais de transição constantes do decreto regulamentar a que se refere o artigo anterior, o pessoal do quadro do extinto Centro de Informação e Documentação Administrativa.
 
 2 - A integração referida no número anterior far-se-á ainda de acordo com as seguintes regras:
 
@@ -384,24 +425,24 @@ c) Os mecanógrafos de 1.ª classe, de 2.ª classe e de 3.ª classe transitam, r
 
 d) Os ajudantes de encadernação transitam para lugares de ajudante.
 
-###### Art. 26.º Os encargos resultantes da execução deste diploma serão suportados no ano em curso pelas dotações inscritas no orçamento do Ministério.
+Art. 26.º Os encargos resultantes da execução deste diploma serão suportados no ano em curso pelas dotações inscritas no orçamento do Ministério.
 
-###### Art. 27.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria da sua competência.
+Art. 27.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria da sua competência.
 
-###### Art. 28.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 28.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Pessoal do quadro do CICTRA, a que se refere o n.º 1 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf)
 
 ## ANEXO II — Pessoal do quadro do CICTRA, a que se refere o n.º 2 do artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36483652.pdf)

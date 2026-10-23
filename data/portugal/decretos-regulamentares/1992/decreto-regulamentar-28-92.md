@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/252b00/50385040.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/28/1992/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1992-217570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ba1d189fe9e737036cc46c4117489a7fb4c4bb1b1eee5f93300cbb30294b4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d43c7dce5681864d94e1e925205bdfe206154228c200d44ff7b73eae77d076
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Lugares
 - Criação de Serviços
+- Direcção Geral da Administração Pública
 - Extinção de Lugares
 - Extinção de Serviços
-- Direcção Geral da Administração Pública
 - Orgânica
 - Pessoal Administrativo
+- Pessoal Dirigente
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Quadro de Pessoal
@@ -81,6 +81,21 @@ relationships:
   target: pt:dre:520431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624378:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo DR 40/87, de 02-jul, com as
+    alterações introduzidas pelo Dec Lei 292/88, de 24-ago, pelo DR 3/91, de 01-fev, e pelo presente, pelas Ports 603/87,
+    de 15-jul, 741/87, de 29-ago, 868/87, de 11-nov, 53/88, de 27-jan, 280/91, de 06-abr, e 572/91, de 27-jun, e pelos DNs
+    172/91, de 20-ago, 21/92, de 07-fev, 173/92, de 15-set, e 175/92, de 21-set, pelo(a) Despacho Normativo n.º 247/92 - Diário
+    da República n.º 294/1992, Série I-B de 1992-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/247-1992-624378
+  date: '1992-12-22'
+- type: amended_by
+  target: pt:dre:567032:por
+  label: "Extinto o Departamento de Gestão de Excedentes de Pessoal pelo DEC LEI.300/2001.2001.11.22.MREAP DR.IS-A [271]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
@@ -113,16 +128,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/572/1991/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/572/1991/06/27/p/dre
+- type: cites
+  target: pt:dre:152137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649345:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520431:por
+  label: "Revogado a partir de 01.04.2007, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.22/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-2007-520431
+  date: '2007-03-29'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:06Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +218,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 62/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1992-217926), de 21 de Abril, e no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 8.º, 10.º e 15.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 8.º, 10.º e 15.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Órgãos e serviços
 
@@ -237,28 +318,28 @@ b) Repartição de Administração do Pessoal Excedente, com as competências es
 
 3 - A Repartição de Administração do Pessoal Excedente integra as Secções de Pessoal e de Contabilidade, com as competências mencionadas, respectivamente, na alínea d) e na alínea e) do n.º 1.
 
-###### Art. 2.º - 1 - São extintos os Departamentos de Estruturas Orgânicas, Quadros e Carreiras de Pessoal e de Integração Administrativa, a que aludem os artigos 4.º, 8.º e 15.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, e, bem assim, as três divisões que integravam o primeiro daqueles departamentos.
+Art. 2.º - 1 - São extintos os Departamentos de Estruturas Orgânicas, Quadros e Carreiras de Pessoal e de Integração Administrativa, a que aludem os artigos 4.º, 8.º e 15.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, e, bem assim, as três divisões que integravam o primeiro daqueles departamentos.
 
 2 - É revogada a alínea d) do n.º 1 do artigo 5.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho.
 
 3 - Ao quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, e alterado pelo [Decreto-Lei n.º 292/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1988-379920), de 24 de Agosto, pelo [Decreto Regulamentar n.º 3/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1991-509781), de 1 de Fevereiro, pelas Portarias n.os [603/87](https://diariodarepublica.pt/dr/detalhe/portaria/603-1987-420436), de 15 de Julho, [741/87](https://diariodarepublica.pt/dr/detalhe/portaria/741-1987-418045), de 29 de Agosto, [868/87](https://diariodarepublica.pt/dr/detalhe/portaria/868-1987-496925), de 11 de Novembro, [53/88](https://diariodarepublica.pt/dr/detalhe/portaria/53-1988-282694), de 27 de Janeiro, [280/91](https://diariodarepublica.pt/dr/detalhe/portaria/280-1991-615788), de 6 de Abril, e [572/91](https://diariodarepublica.pt/dr/detalhe/portaria/572-1991-649345), de 27 de Junho, e pelos Despachos Normativos n.os [172/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/172-1991-402769), de 20 de Agosto, e [21/92](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-1992-152137), de 7 de Fevereiro, são acrescentados e abatidos os lugares constantes do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 3.º O regime consignado no n.º 1 do artigo 30.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, é aplicável, pelo prazo de um ano contado da entrada em vigor do presente diploma, aos técnicos auxiliares que reúnam as condições nele previstas, fazendo-se a transição para a nova carreira em categoria da mesma classe daquela em que se encontrem providos na carreira de origem e em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, o escalão a que corresponda o índice superior mais aproximado.
+Art. 3.º O regime consignado no n.º 1 do artigo 30.º do [Decreto Regulamentar n.º 40/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595), de 2 de Julho, é aplicável, pelo prazo de um ano contado da entrada em vigor do presente diploma, aos técnicos auxiliares que reúnam as condições nele previstas, fazendo-se a transição para a nova carreira em categoria da mesma classe daquela em que se encontrem providos na carreira de origem e em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, o escalão a que corresponda o índice superior mais aproximado.
 
 Presidência do Conselho de Ministros, 14 de Agosto de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em 6 de Outubro de 1992.**
+Promulgado em 6 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 7 de Outubro de 1992.**
+Referendado em 7 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 3 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/252b00/50385040.pdf))](https://files.diariodarepublica.pt/1s/1992/10/252b00/50385040.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/252b00/50385040.pdf)

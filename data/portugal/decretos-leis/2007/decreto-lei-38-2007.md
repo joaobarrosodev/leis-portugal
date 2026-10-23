@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2007/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2007-517982
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c64718284a0b410c7c65de9934dcf41e73f67c27fe8f40280c24f70db54e16a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c19234dda1bdd0dd8d3122c57fe8c161d825334a26d48bfe5a8f7bcae02d302a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,18 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Formação Profissional
-- Radiactividade
-- Direção Geral da Saúde
 - Contra-ordenação
-- Saúde Pública
-- Segurança no Trabalho
+- Cooperação Internacional
+- Direção Geral da Saúde
+- Formação Profissional
 - Indemnização
 - Instituto Tecnológico e Nuclear
-- Proteção do Ambiente
-- Cooperação Internacional
 - Produtor
+- Proteção do Ambiente
+- Radiactividade
 - Regime Jurídico
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -107,16 +107,28 @@ relationships:
   target: eli:/application/external/euratom
   label: null
   source: /application/external/euratom
+- type: repealed_by
+  target: pt:dre:504774:por
+  label: "Revogado, a partir de 05.12.2013, o n.º 4 do art. 10.º pelo DEC LEI.156/2013.05.11.2013.MECI, DR.IS [214] de 05.11.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2013-504774
+  date: '2013-11-05'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o presente diploma, alterado pelo Dec Lei 156/2013 de 05-nov, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:11Z'
   warnings: []
   errors: []
 ---
@@ -427,19 +439,19 @@ b) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 5 de Fevereiro de 2007.**
+Promulgado em 5 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 6 de Fevereiro de 2007.**
+Referendado em 6 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Níveis de actividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf)
 
 Para os radionuclídeos não incluídos no quadro anterior, mas referidos no anexo I da Directiva n.º [96/297/EURATOM](https://data.europa.eu/eli/dir/1996/297/oj?locale=pt), transposta pelo Decreto-Lei n.º 140/2005, de 17 de Agosto, o nível de actividade relevante é igual a um centésimo do valor A1 correspondente no Regulamento AIEA relativo à segurança do transporte de materiais radioactivos (Regulamento número TS-R-1).
 
@@ -625,7 +637,7 @@ E-mail: ...
 
 ## ANEXO IV — Ficha normalizada para o registo de fontes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03500/12601266.pdf)
 
 ## ANEXO V — Fontes radioactivas - Declaração anual
 

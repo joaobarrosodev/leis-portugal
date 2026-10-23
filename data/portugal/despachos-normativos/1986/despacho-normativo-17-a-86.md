@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 50/1986, 1º Suplemento, Série I de 1986-03-01
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 516-(20) a 516-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05001/00200021.pdf
 entry_into_force_dates: []
@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-a-1986-245108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:34:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5041390b0d93deb1825a44302a089e5e719d1ceed28090d394a01a68a267a86a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b456de31a9f47203d89377df68de24ce48d7ae4917576913ed93c3e2fba098b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:34:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contingentação
+- Garantia
+- Pauta Aduaneira
+- Política Agrícola Comum
+- Tratado de Adesão CE
+- Vinha
+- Vinho
+relationships:
+- type: cites
+  target: pt:dre:245106:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:34:42Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +98,7 @@ No âmbito da organização do mercado do vinho e de acordo com o disposto no n.
 
 1 - O contingente anual fixado pela Comunidade Económica Europeia para os produtos provenientes da Comunidade e constantes do anexo XXIII do Acto de Adesão é distribuído pelo primeiro período, que tem início em 1 de Março e termina em 30 de Junho de 1986, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/05001/00200021.pdf))](https://files.diariodarepublica.pt/1s/1986/03/05001/00200021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/05001/00200021.pdf)
 
 2 - O montante da caução referida no n.º 8.º da [Portaria n.º 63-J/86](https://diariodarepublica.pt/dr/detalhe/portaria/63-j-1986-245106), de 1 de Março, é fixado em:
 

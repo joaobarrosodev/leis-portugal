@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2007/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2007-520643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20c298f42b2e96f08b83f13849940dcfb54a8197f94a4859734b707cf6d7064e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c417f8f05329526a01f0117ac3d538ad277fef9e1b51de912af7c1a5eb82e4a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
+- Embalagem
 - Fabrico Industrial
 - Importação
-- Embalagem
+- Produto Alimentar
 - Proteção do Consumidor
 relationships:
 - type: amended_by
@@ -129,16 +129,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1985
   label: null
   source: http://data.europa.eu/eli/dir/1985
+- type: repealed_by
+  target: pt:dre:246535:por
+  label: "Revogado pelo DEC LEI.62/2008.31.03.2008.MADRP, DR.IS [63] de 31.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2008-246535
+  date: '2008-03-31'
 article_structure:
   article_count: 18
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:35Z'
   warnings: []
   errors: []
 ---
@@ -345,15 +350,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, à
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 20 de Abril de 2007.**
+Promulgado em 20 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Abril de 2007.**
+Referendado em 23 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 LISTA A
 
@@ -439,11 +444,11 @@ LME (T) = Limite de migração específica nos géneros alimentícios ou nos sim
 
 #### Secção A — Lista de monómeros e de outras substâncias iniciadoras autorizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na Secção A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO II
 
@@ -513,11 +518,11 @@ Qualquer tipo de especificação referente à substância ou ao polímero.
 
 #### Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### Secção B — Lista incompleta de aditivos referidos no n.º 2 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO III — Regras básicas dos ensaios de migração global e específica
 
@@ -555,13 +560,13 @@ QUADRO N.º 1
 
 Tipos de géneros alimentícios e simuladores de géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 QUADRO N.º 2
 
 Simuladores de géneros alimentícios a seleccionar para o ensaio de materiais em contacto com géneros alimentícios em casos particulares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 2 - Selecção dos simuladores de géneros alimentícios
 
@@ -587,7 +592,7 @@ Acidez (expressa em percentagem de ácido oleico) - 0,5% no máximo
 
 Repartição dos ácidos gordos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 Pureza:
 
@@ -607,7 +612,7 @@ Ponto de fusão - 28 (mais ou menos) 2.ºC.
 
 Espectro típico de absorção (espessura da camada d = 1 cm; referência: água a 35ºC).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 Pelo menos 10% de transmitância de luz a 310 nm (célula de 1 cm; referência água a 35ºC)
 
@@ -667,7 +672,7 @@ QUADRO N.º 3
 
 Condições convencionais para os ensaios de migração com simuladores de géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### SECÇÃO III — Ensaios gordos substitutivos para a migração global e específica
 
@@ -685,7 +690,7 @@ QUADRO N.º 4
 
 Condições convencionais para a realização dos ensaios de substituição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### SECÇÃO IV — Ensaios gordos alternativos da migração global e específica
 
@@ -723,21 +728,21 @@ b) Se o pH do género alimentício for inferior ou igual a 4,5, utilizar o simul
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO V — Produtos obtidos por fermentação bacteriana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO VI — Especificações
 
-# Parte A: Especificações gerais
+Parte A: Especificações gerais
 
 Os materiais e objectos fabricados a partir de isocianatos aromáticos ou corantes preparados por acoplamento diazóico não devem libertar aminas aromáticas primárias (expressas como anilina) numa quantidade detectável (LD = 0,02 mg/kg de alimento ou de simulador de alimento, incluindo a tolerância analítica). Contudo, excluem-se desta restrição os valores de migração das aminas aromáticas primárias constantes do presente decreto-lei.
 
-# Parte B: Outras especificações
+Parte B: Outras especificações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO VII
 
@@ -965,11 +970,11 @@ LME (T) = Limite de migração específica nos géneros alimentícios ou nos sim
 
 #### Secção A — Lista de monómeros e de outras substâncias iniciadoras autorizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### Secção B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na Secção A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO II
 
@@ -1047,11 +1052,11 @@ Qualquer tipo de especificação referente à substância ou ao polímero.
 
 #### Secção A — Lista incompleta dos aditivos totalmente harmonizados a nível comunitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### Secção B — Lista incompleta de aditivos referidos no n.º 2 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO III — Regras básicas dos ensaios de migração global e específica
 
@@ -1089,13 +1094,13 @@ QUADRO N.º 1
 
 Tipos de géneros alimentícios e simuladores de géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 QUADRO N.º 2
 
 Simuladores de géneros alimentícios a seleccionar para o ensaio de materiais em contacto com géneros alimentícios em casos particulares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 2 - Selecção dos simuladores de géneros alimentícios
 
@@ -1121,7 +1126,7 @@ Acidez (expressa em percentagem de ácido oleico) - 0,5% no máximo
 
 Repartição dos ácidos gordos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 Pureza: Teor de monoglicéridos (determinado por via enzimática) - (igual ou menor que) 0,2%
 
@@ -1139,7 +1144,7 @@ Ponto de fusão: 28 (mais ou menos) 2.ºC.
 
 Espectro típico de absorção (espessura da camada d = 1 cm; referência: água a 35ºC).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 Pelo menos 10% de transmitância de luz a 310 nm (célula de 1cm; referência água a 35ºC)
 
@@ -1197,7 +1202,7 @@ QUADRO N.º 3
 
 Condições convencionais para os ensaios de migração com simuladores de géneros alimentícios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### SECÇÃO III — Ensaios gordos substitutivos para a migração global e específica
 
@@ -1215,7 +1220,7 @@ QUADRO N.º 4
 
 Condições convencionais para a realização dos ensaios de substituição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 #### SECÇÃO IV — Ensaios gordos alternativos da migração global e específica
 
@@ -1253,21 +1258,21 @@ d) Se o pH do género alimentício for inferior ou igual a 4,5, utilizar o simul
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO V — Produtos obtidos por fermentação bacteriana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO VI — Especificações
 
-# Parte A: Especificações gerais
+Parte A: Especificações gerais
 
 Os materiais e objectos fabricados a partir de isocianatos aromáticos ou corantes preparados por acoplamento diazóico não devem libertar aminas aromáticas primárias (expressas como anilina) numa quantidade detectável (LD = 0,02 mg/kg de alimento ou de simulador de alimento, incluindo a tolerância analítica). Contudo, excluem-se desta restrição os valores de migração das aminas aromáticas primárias constantes do presente decreto-lei.
 
-# Parte B: Outras especificações
+Parte B: Outras especificações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09300/31663230.pdf)
 
 ## ANEXO VII
 

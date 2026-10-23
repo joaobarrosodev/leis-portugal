@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/164b00/45874589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/20/1995/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1995-461988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b1d36fa3767e20acf3cead1d204966997dd15df5c84c2744ead26701bd92d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caa9f57f990012c11d1005411e57ea76a8a03f5a6eb4c084ed36ca2eaf8058ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Sistema Retributivo
-- Carreira Profissional
-- Fiscalização
-- Recrutamento de Pessoal
-- Descrição de Funções
-- Polícia Municipal
 - Câmara Municipal
-- Remuneração
+- Carreira Profissional
+- Descrição de Funções
+- Fiscalização
 - Força Paramilitar
+- Formação Profissional
+- Polícia Municipal
+- Recrutamento de Pessoal
+- Remuneração
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:514657:por
@@ -88,16 +88,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/1994/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/1994/08/29/p/dre
+- type: cites
+  target: pt:dre:219370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:514657:por
+  label: "Revogado pelo DEC LEI.39/2000.2000.03.17.MAI DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2000-514657
+  date: '2000-03-17'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:03Z'
   warnings: []
   errors: []
 ---
@@ -190,21 +215,21 @@ A duração, o conteúdo curricular, os critérios de avaliação e o regime de 
 
 Presidência do Conselho de Ministros, 24 de Abril de 1995. - Aníbal António Cavaco Silva - Carlos Manuel Sousa Encarnação - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 21 de Junho de 1995.**
+Promulgado em 21 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Junho de 1995.**
+Referendado em 24 de Junho de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Carreira de polícia administrativa municipal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/164b00/45874589.pdf))](https://files.diariodarepublica.pt/1s/1995/07/164b00/45874589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/164b00/45874589.pdf)
 
 MAPA II
 

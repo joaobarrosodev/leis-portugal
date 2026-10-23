@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05400/05490549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1985-326282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9baada7cbd2b415a6e9507a7941ca906570fb29982d7960f3df59c05a43f816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcfc83a9c1b23e1531434f9ad47f1420e3ab77fbc00b92b1d9a9f5394737bfbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão da Condição Feminina
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:609645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, aprovado pela Port 547/80, 28-Ago, com as alterações introduzidas pelo presente\
+    \ diploma e pelas Port 795/80, de 07-Out, 880/81, de 02-Out, e 754/85, de 04-Out, pelo constante do anexo VIII da PORT.461/87.1987.06.02.PCM,\
+    \ DR.IS [126] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:280540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609645:por
+  label: "Revogada pelo DEC LEI.166/91.1991.05.09.PCM, DR.IS-A [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1991-609645
+  date: '1991-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:55Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +129,10 @@ Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finan�
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano.
 
-**Assinada em 23 de Dezembro de 1984.**
+Assinada em 23 de Dezembro de 1984.
 
-**O Ministro de Estado, António de Almeida Santos. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro de Estado, António de Almeida Santos. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05400/05490549.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05400/05490549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05400/05490549.pdf)

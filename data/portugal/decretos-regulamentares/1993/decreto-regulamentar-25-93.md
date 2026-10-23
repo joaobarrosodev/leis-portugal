@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/25/1993/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e990788e69bfdfc1a8a3fdbd348956a0086902ea581a14784da1f07a282de37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0439d04b54577a246bc1a45c60a9d3e486040451a245ae270403563a8488ccc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ subjects:
 - Atividade Industrial
 - Estabelecimento Industrial
 - Fiscalização
-- Licenciamento
 - Licença Sanitária
+- Licenciamento
 - Proteção do Ambiente
 - Regulamento
 - Vistoria
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:226227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527635:por
+  label: "Prorrogado o prazo do regime transitório até 31 de Dezembro de 1995, pelo DR.17/95.1995.05.30.MIE, DR.IS-B [125]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-1995-527635
+  date: '1995-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/1991/03/15/p/dre
   label: null
@@ -94,16 +100,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/10/1991/03/15/p/dre
+- type: cites
+  target: pt:dre:221150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226227:por
+  label: "Revogado pelo DR.8/2003.2003.03.28.MECO, DR.IS-B [86], a partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2003-226227
+  date: '2003-03-28'
 article_structure:
-  article_count: 25
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:50Z'
   warnings: []
   errors: []
 ---
@@ -118,23 +169,23 @@ Assim:
 
 Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício de Actividade Industrial, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento do Exercício de Actividade Industrial, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º É revogado o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
+Art. 2.º É revogado o [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março.
 
 Presidência do Conselho de Ministros, 21 de Junho de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 21 de Julho de 1993.**
+Promulgado em 21 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Julho de 1993.**
+Referendado em 23 de Julho de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Regulamento do Exercício da Actividade Industrial
 

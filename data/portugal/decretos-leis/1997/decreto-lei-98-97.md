@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/1997/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1997-476878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a3cdcd7549628a78b74150869d22368bdfd84c9d9adb54d14f015b685c072d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03966bc6788c0228038175529c170bd666d5c403cd76e2cd49dfd6db2054cdd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Pessoal Dirigente
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -85,16 +85,25 @@ relationships:
   target: celex:31989L0397
   label: null
   source: http://data.europa.eu/eli/dir/1989/397/oj
+- type: repealed_by
+  target: pt:dre:473500:por
+  label: "Revogado e extinta a Direcção-Geral de Fiscalização e Controlo Alimentar, cuja orgânica foi aprovada pelo presente\
+    \ diploma, e determinado que as competências da Direcção de Serviços de Certificação, Normalização, promoção e Garantia\
+    \ da Qualidade Alimentar e do Gabinete de Trocas Intracomunitárias e com Países Terceiros da supracitada Direcção-Geral\
+    \ transitem para a Direcção-Geral de Veterinária cuja orgânica foi aprovada pelo Dec Lei 106/97 de 02-Mar, pelo DEC LEI.237/2005.30.12.2005.MEI,\
+    \ DR.IS-A [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
 article_structure:
   article_count: 45
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:23Z'
   warnings: []
   errors: []
 ---
@@ -279,7 +288,9 @@ b) Divisão de Gestão Financeira e Controlo Orçamental;
 
 c) Repartição de Administração Geral.
 
-###### Artigo 9.º — Divisão de Gestão dos Recursos Humanos e Informática
+###### Artigo 9.º
+
+##### Divisão de Gestão dos Recursos Humanos e Informática
 
 1 - À Divisão de Gestão dos Recursos Humanos e Informática compete:
 
@@ -323,7 +334,9 @@ h) Apoiar a informação e reciclagem do pessoal no domínio da informática, em
 
 i) Apoiar tecnicamente a elaboração e execução de processos, devidamente autorizados, de aquisição de bens e serviços na área de informática.
 
-###### Artigo 10.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 10.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -961,24 +974,24 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf))](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf))](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf))](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/097a00/18761889.pdf)

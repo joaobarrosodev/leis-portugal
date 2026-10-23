@@ -46,40 +46,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1977-252058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9834a9149892f1f49e95bfd50964c64e14c3e32c62bf0015650970eb445c90f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3290297f05e06752c38844e95560b3f19fe2793f752c8270174fff1471236d73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:379560:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286329:por
+  label: "Dada nova redacção aos artigos 5.º, 14.º, 33.º, 57.º, 63.º, 77.º, 80.º, 83.º, 93.º, 94.º, 97.º, 98.º, 105.º, 106.º,\
+    \ 114.º, 115.º, 120.º, 122.º, 126.º, 157.º, 163.º, 177.º, 179.º, 190.º e 203.º todos do Regulamento de Tarifas da Administração\
+    \ dos Portos do Douro e Leixões, pelo DR.61/77.12.08.1977.MCT, DR.IS [208] de 08.09.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/61-1977-286329
+  date: '1977-08-12'
+- type: amended_by
+  target: pt:dre:379560:por
+  label: "Dada nova redacção aos artigos 39.º, 41.º, 47.º, 67.º, 68.º, 77.º, 82.º, 83.º, 84.º, 86.º, 89.º, 99.º, 104.º, 107.º,\
+    \ 124.º, 125.º, 126.º, 135.º, 140.º, 144.º, 152.º, 154.º, 155.º, 177.º, 179.º, 182.º, 190.º, 196.º, 204.º, 205.º, 207.º\
+    \ e 208.º , revogados os artigos 85.º, 87.º, 90.º, 91.º, 105.º, 115.º, 123.º, e alínea c) do artigo 157.º e os artigos\
+    \ 163.º e 193.º, dá nova epígrafe ao título II do capítulo II e elimina as apígrafes \"capítulo III - Acostagem\" e \"\
+    capítulo IV - Defesas\" do título II, todos do Regulamento de tarifas da Administração dos Portos do Douro e Leixões,\
+    \ do presente diploma, na redacção do Decreto Regulamentar 61/77, de 08 de Setembro, pelo DR.97/82.17.12.1982.MHOPT, DR.IS\
+    \ [290] de 17.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/97-1982-379560
+  date: '1982-12-17'
+- type: cites
+  target: pt:dre:141592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633370:por
+  label: null
+  source: null
 article_structure:
   article_count: 208
   section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:43Z'
   warnings: []
   errors: []
 ---
@@ -102,19 +151,19 @@ Tendo en conta o disposto no artigo 8.º, n.os 2.º e 13.º, do [Decreto-Lei n.�
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Tarifas da APDL, anexo a este diploma.
+Artigo 1.º É aprovado o Regulamento de Tarifas da APDL, anexo a este diploma.
 
-###### Art. 2.º O Regulamento aprovado pelo presente diploma entra em vigor no dia 1 de Junho de 1977.
+Art. 2.º O Regulamento aprovado pelo presente diploma entra em vigor no dia 1 de Junho de 1977.
 
-###### Art. 3.º São revogados os Decretos n.os 26747, 35842, 48345, [341/70](https://diariodarepublica.pt/dr/detalhe/decreto/341-1970-141592), [432/71](https://diariodarepublica.pt/dr/detalhe/decreto/432-1971-633370) e [3/76](https://diariodarepublica.pt/dr/detalhe/decreto/3-1976-480771), de, respectivamente, 6 de Julho de 1936, 30 de Agosto de 1946, 20 de Abril de 1968, 17 de Julho, 14 de Outubro e 3 de Janeiro.
+Art. 3.º São revogados os Decretos n.os 26747, 35842, 48345, [341/70](https://diariodarepublica.pt/dr/detalhe/decreto/341-1970-141592), [432/71](https://diariodarepublica.pt/dr/detalhe/decreto/432-1971-633370) e [3/76](https://diariodarepublica.pt/dr/detalhe/decreto/3-1976-480771), de, respectivamente, 6 de Julho de 1936, 30 de Agosto de 1946, 20 de Abril de 1968, 17 de Julho, 14 de Outubro e 3 de Janeiro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Miguel Morais Barreto - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DE TARIFAS
 
@@ -1632,7 +1681,9 @@ b) Taxas de guindaste à ordem. - A taxa de guindaste à ordem é a estabelecida
 
 c) Sobretaxas. - A sobretaxa referida no artigo 161.º não é aplicável na movimentação de contentores com guindastes de cais convencionais.
 
-### CAPÍTULO IV — Artigo 165.º
+### CAPÍTULO IV
+
+###### Artigo 165.º
 
 Guindastes automóveis
 
@@ -2226,4 +2277,4 @@ Carros de mão ... 200$00
 
 2 - A colocação e remoção dos anúncios são por conta dos anunciantes.
 
-**O Ministro do Comércio e Turismo, António Miguel Morais Barreto.**
+O Ministro do Comércio e Turismo, António Miguel Morais Barreto.

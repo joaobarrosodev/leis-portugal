@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/40/2014/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/40-2014-25676913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:20:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 309517b26d21cdfeb26658b97a738b44fe05a1715b190155aaf8a0226c3ad555
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56e00ca4fa6f063bf2049d0942c6d6a16a6d86d43b37dae674cf39123dd2161b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:20:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
 subjects:
 - Exército
 - Forças Armadas
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:20:07Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,12 @@ validation:
 
 de 18 de junho
 
-**O Presidente da República decreta, nos termos do nº 2 do artigo 25º da Lei Orgânica nº 1-A/2009, de 7 de julho, o seguinte:**
+O Presidente da República decreta, nos termos do nº 2 do artigo 25º da Lei Orgânica nº 1-A/2009, de 7 de julho, o seguinte:
 
 É confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Material Ilídio Morgado da Silva, efetuada por deliberação de 2 de junho de 2014 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 6 do mesmo mês.
 
-**Assinado em 12 de junho de 2014.**
+Assinado em 12 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

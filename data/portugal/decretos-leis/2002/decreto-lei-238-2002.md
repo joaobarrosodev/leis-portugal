@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/238/2002/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd45c6624bf6eb74f9602be9271c6ffb58d4fd75e036a9eaf5b269b85475ac4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6576ad64a78e5466a57ffc89e0b5c3f0f9a1a2355e32f31ef0fce980d62f4038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Contra-ordenação
 - Direcção Geral da Indústria
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Saúde Pública
+- Embalagem
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Embalagem
+- Multa
 - Proteção do Ambiente
-- Comércio
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:147997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147997:por
+  label: "Alterados os nºs 10.1 e 10.5 do anexo I do Dec Lei 264/98, de 19-Ago, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.162/2005.22.09.2005.MEI, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2005-147997
+  date: '2005-09-22'
 - type: cites
   target: celex:31976L0769
   label: null
@@ -114,15 +120,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2001/91/oj
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:43Z'
   warnings: []
   errors: []
 ---
@@ -233,7 +239,9 @@ Os artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 264/98, de 19 de Agosto, republ
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A colocação no mercado e a utilização das substâncias constantes do anexo II, bem como das preparações e produtos que as contenham em violação das condições definidas no anexo I, constituem contra-ordenação punível com coima de (euro) 500 a (euro) 2500.
 
@@ -243,7 +251,9 @@ Os artigos 3.º, 4.º e 5.º do Decreto-Lei n.º 264/98, de 19 de Agosto, republ
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A aplicação das coimas e sanções acessórias previstas no artigo anterior compete à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade (CACMEP).
 
@@ -267,15 +277,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Isaltino Afonso de Morais.
 
-**Promulgado em 16 de Outubro de 2002.**
+Promulgado em 16 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Outubro de 2002.**
+Referendado em 22 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 
@@ -283,10 +293,10 @@ Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manue
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)
 
 3 - Substâncias tóxicas para a reprodução
 
 Categoria 2
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)](https://files.diariodarepublica.pt/1s/2002/11/255a00/70727074.pdf)

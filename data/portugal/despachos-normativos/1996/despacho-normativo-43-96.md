@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/246b00/37153719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/43/1996/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1996-226813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03da72224493e89697f9551a628bda0fa15a5905a0ad192ea2bc08fc180e39e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19e90fe45aeb19ab213c7794aac1e5da04b0705ba1ca1df553c2736c56d4f2e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Profissão Artística
-- Financiamento
 - Companhia Teatral
 - Concurso Público
-- Ministério da Cultura
+- Financiamento
 - Iniciativa Privada
 - Instituto Português das Artes do Espectáculo
+- Ministério da Cultura
 - Política Cultural
+- Profissão Artística
 - Regulamento
 - Teatro
 relationships:
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:581596:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195213:por
+  label: "Alterado os artºs 11º, 12º, 13º, 16º, 19º, 22º e 25º, aditado o artº 14º-A e o artº 35º-A e revogado o artº 32º\
+    \ do regulamento, pelo DN.49/97.1997.07.31.MC DR.IS-B [190] de 1997.08.19\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-1997-195213
+  date: '1997-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
   label: null
@@ -93,16 +99,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/705/1994/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/705/1994/10/06/p/dre
+- type: cites
+  target: pt:dre:220739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620280:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566632:por
+  label: "Revogado pelo DN.63/98.1998.08.05.MC DR.IS-B [201] DE 01/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/63-1998-566632
+  date: '1998-08-05'
 article_structure:
   article_count: 39
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:41Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +156,7 @@ Paralelamente, tem decorrido o processo de instalação do futuro Instituto Port
 
 Do cruzamento entre os resultados do diálogo estabelecido com os profissionais do sector e as prioridades definidas pelo trabalho dos serviços especializados agora em instalação resultou a constatação da necessidade de proceder de imediato a uma alteração significativa das normas que têm nos últimos anos regido o apoio do Estado ao teatro independente. O presente diploma pretende corresponder a um primeiro instrumento de alteração desse quadro normativo, obedecendo, para tal, a um conjunto de princípios essenciais que procuram conciliar o carácter rigoroso e sistemático indispensável num texto de natureza jurídico-administrativa com a flexibilidade exigida por uma matéria que pertence, antes de mais, ao foro da criação artística.
 
-# Parte-se, como é evidente, da constatação realista de que as responsabilidades do Estado em matéria de teatro não podem implicar o financiamento estatal da totalidade da produção teatral profissional no País e de que, pelo contrário, as restrições orçamentais vigentes e a boa gestão dos dinheiros públicos exigem que o apoio do Estado seja objecto de uma selecção criteriosa dos projectos a apoiar. Considera-se ainda que essa selecção deve obedecer fundamentalmente a critérios de qualidade, embora estes devam ser sempre enquadrados pela rejeição de qualquer dirigismo estético e por preocupações de viabilização do acesso generalizado dos cidadãos ao teatro.
+Parte-se, como é evidente, da constatação realista de que as responsabilidades do Estado em matéria de teatro não podem implicar o financiamento estatal da totalidade da produção teatral profissional no País e de que, pelo contrário, as restrições orçamentais vigentes e a boa gestão dos dinheiros públicos exigem que o apoio do Estado seja objecto de uma selecção criteriosa dos projectos a apoiar. Considera-se ainda que essa selecção deve obedecer fundamentalmente a critérios de qualidade, embora estes devam ser sempre enquadrados pela rejeição de qualquer dirigismo estético e por preocupações de viabilização do acesso generalizado dos cidadãos ao teatro.
 
 Mantém-se a figura do concurso público como sede mais adequada para a selecção da generalidade dos projectos a apoiar, consagrando-se, para esse efeito, o recurso a um júri de selecção de constituição mista, integrado pelos técnicos especializados dos serviços do Ministério da Cultura e por individualidades exteriores de reconhecida competência técnica e artística. Reconhece-se, no entanto, a legitimidade própria das companhias profissionais que asseguram há mais tempo, com continuidade e nível artístico constantes, o serviço público teatral, pelo que se lhes possibilita a contratualização directa com o Estado dos seus projectos artísticos, extraconcurso, como companhias convencionadas.
 

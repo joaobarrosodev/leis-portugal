@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/300a00/81498160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/2002/12/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2002-391198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33cfddcf4dd3fcb61b1eaa3309ebbff22df478b14d2bff391b42411b0fe61119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94d2f07a6c7cc1f5f8c30a000a23b70861d727b75b118558ce7bfbb1c3c1b205
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CMVM
 - Fundo de Capital de Risco
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- CMVM
 - Sociedade de Capital de Risco
 - Sociedade de Fomento Empresarial
 relationships:
@@ -78,6 +78,37 @@ relationships:
   target: pt:dre:344269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476110:por
+  label: "Aditado um art. 16.º-A, pelo DEC LEI.252/2003.17.10.2003.MF, DR.IS-A [241] de 17.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2003-476110
+  date: '2002-12-28'
+- type: amended_by
+  target: pt:dre:517447:por
+  label: "Alterados os arts. 3º, 4º, 8º, 13º, 15º, 30º, 38º, 39º, 40º, 43º e 45º e aditados os arts. 13º-A e 41º-A, pelo DEC\
+    \ LEI.151/2004.29.06.2004.MF, DR.IS-A [151] de 29.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2004-517447
+  date: '2004-06-29'
+- type: amended_by
+  target: pt:dre:667337:por
+  label: "Alterados os arts. 42º e 46º do presente diploma pelo DEC LEI.52/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2006-667337
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:492383:por
+  label: "Alterado o art. 101º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.162/2009.20.07.2009.MFAP, DR.IS [138] de 20.07.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2009-492383
+  date: '2009-07-20'
+- type: amends
+  target: pt:numero:decreto-lei:201/2002
+  label: "Altera o n.º 3 do artigo 101.º (na redacção do Decreto-Lei n.º 201/2002, de 26 de Setembro), e revoga a alínea h)\
+    \ do n.º 1 do artigo 6.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei\
+    \ n.º 298/92, de 31 de Dezembro, DR.IS-A [301]6ºSupl \0 \0"
+  source: null
+  date: '1992-12-31'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -90,16 +121,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/58/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/58/1999/03/02/p/dre
+- type: repealed_by
+  target: pt:dre:629172:por
+  label: "Revogado o presente diploma, alterado pelos Decretos-Lei n.º 252/2003 de 17-Out, 151/2004 de 26-Jun e 52/2006 de\
+    \ 15-Mar pelo DEC LEI.375/2007.08.11.2007.MFAP, DR.IS [215] de 08.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-2007-629172
+  date: '2007-11-08'
 article_structure:
   article_count: 51
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:23Z'
   warnings: []
   errors: []
 ---
@@ -916,12 +953,12 @@ b) O n.º 3 do artigo 101.º passa a ter a seguinte redacção:
 
 Visto e aprovado em Conselho de Ministros de 16 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 20 de Dezembro de 2002.**
+Promulgado em 20 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Dezembro de 2002.**
+Referendado em 20 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1986-222469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 650f634155771b120fdeb989a0f28829efae76ceeea26ed4bb9d63d1cc4293a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76770ad9ec1e89d0eef88b53489e0041a0192be739fa5f0976fc6a13e418d39d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura do Algarve
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420455:por
+  label: "Altera o quadro de pessoal da Direcção Regional de Agricultura do Algarve, pela PORT.618/87.18.07.1987.MF, DR.IS\
+    \ [163] de 18.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/618-1987-420455
+  date: '1987-07-18'
+- type: amended_by
+  target: pt:dre:420590:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, pela PORT.626/87.20.07.1987.MF, DR.IS [164] de 20.07.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/626-1987-420590
+  date: '1987-07-20'
+- type: amended_by
+  target: pt:dre:555792:por
+  label: "Alterado o quadro de pessoal da Direcção Regional de Agricultura do Algarve, constante do anexo I pelo DN.118/90.04.10.1990.MF,\
+    \ DR.IS [230] de 04.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/118-1990-555792
+  date: '1990-10-04'
+- type: amended_by
+  target: pt:dre:175502:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras de biblioteca e documentação, pela PORT.166/92.13.03.1992.MF,\
+    \ DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/166-1992-175502
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO MAPA I ANEXO, PELO DESPACHO NORMATIVO 510/94, DE 20 DE JUNHO, PUBLICADO\
+    \ NO DR.IS-B, 165, DE 940719.\019."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-07-19'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determina que a Direcção Regional de Agricultura e Pescas do Algarve suceda nas atribuições da Direcção Regional\
+    \ de Agricultura do Algarve, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP, DR.IS\
+    \ [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:35Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +239,7 @@ e) Divisão de Protecção à Produção Vegetal;
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — (Órgãos)
 
@@ -486,19 +573,19 @@ Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 18.º do Decreto Regulamentar n.º 54/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29422952.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29422952.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29422952.pdf)
 
 Mapa anexo II a que se refere o n.º 1 do artigo 22.º do Decreto Regulamentar n.º 54/86
 

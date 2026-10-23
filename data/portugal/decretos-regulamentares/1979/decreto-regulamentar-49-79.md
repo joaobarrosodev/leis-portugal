@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1979-378569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27a94e4aec2e05049a3def34eaad18d797cd1dc13549d6fefee6b645e21439d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0923448eaf3a3cb2f9b5114a6ab183f05f46ac9ddb042d50c83769f4f86a3b4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Concurso
+- Ensino Agrícola
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:452038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:214477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:24Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +111,9 @@ O presente decreto visa assegurar a transição para esse regime através da rea
 
 Assim, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção-Geral de Pessoal promovera a abertura de um último concurso de provas para ingresso nos quadros dos grupos A ou B do ensino secundário agrícola, mediante aviso a publicar no Diário da República, no prazo de quinze dias, a contar da data da entrada em vigor do presente diploma.
+Artigo 1.º A Direcção-Geral de Pessoal promovera a abertura de um último concurso de provas para ingresso nos quadros dos grupos A ou B do ensino secundário agrícola, mediante aviso a publicar no Diário da República, no prazo de quinze dias, a contar da data da entrada em vigor do presente diploma.
 
-###### Art. 2.º - 1 - Ao concurso referido no artigo anterior serão admitidos os professores provisórios com habilitação própria e idade inferior a 55 anos que se encontrem numa das seguintes condições:
+Art. 2.º - 1 - Ao concurso referido no artigo anterior serão admitidos os professores provisórios com habilitação própria e idade inferior a 55 anos que se encontrem numa das seguintes condições:
 
 a) Tenham leccionado durante um mínimo de dois anos lectivos nos grupos A ou B ou nos grupos 1.º a 7.º do ensino médio agrícola;
 
@@ -109,7 +121,7 @@ b) Tenham prestado serviço docente durante um mínimo de dois anos lectivos e s
 
 2 - Ao mesmo concurso serão admitidos os regentes de trabalhos com habilitação própria que tenham prestado serviço durante um mínimo de dois anos lectivos.
 
-###### Art. 3.º Os requerimentos serão instruídos com os seguintes documentos:
+Art. 3.º Os requerimentos serão instruídos com os seguintes documentos:
 
 a) Certificado da habilitação legalmente exigida;
 
@@ -117,25 +129,25 @@ b) Certidão do tempo de serviço a que se refere o artigo anterior;
 
 c) Bilhete de identidade, que será restituído depois de conferido e feita à margem do requerimento a anotação da conferência.
 
-###### Art. 4.º - 1 - As provas dos concursos serão prestadas a partir do mês de Outubro perante júris nomeados pelo Ministro da Educação e Investigação Científica e constituídos por um presidente e, pelo menos, quatro vogais, todos escolhidos de entre professores do ensino médio ou secundário agrícola.
+Art. 4.º - 1 - As provas dos concursos serão prestadas a partir do mês de Outubro perante júris nomeados pelo Ministro da Educação e Investigação Científica e constituídos por um presidente e, pelo menos, quatro vogais, todos escolhidos de entre professores do ensino médio ou secundário agrícola.
 
 2 - Não pode fazer parte do júri o professor que for parente ou afim até ao 4.º grau de qualquer dos candidatos.
 
 3 - Compete ao presidente do júri designar o secretário, distribuir o serviço pelos vogais e fixar o horário das provas.
 
-###### Art. 5.º - 1 - A apreciação da documentação apresentada pelos candidatos compete ao júri, cabendo-lhe também propor ao presidente a exclusão dos candidatos que não satisfaçam as condições legais.
+Art. 5.º - 1 - A apreciação da documentação apresentada pelos candidatos compete ao júri, cabendo-lhe também propor ao presidente a exclusão dos candidatos que não satisfaçam as condições legais.
 
 2 - A relação dos candidatos admitidos à prestação das provas será publicada no Diário da República.
 
 3 - Durante o prazo de oito dias os candidatos poderão reclamar, para a Direcção-Geral de Pessoal, da decisão do júri.
 
-###### Art. 6.º - 1 - A requisição do júri, podem os candidatos ser submetidos à inspecção da junta médica do Ministério da Educação e Investigação Científica.
+Art. 6.º - 1 - A requisição do júri, podem os candidatos ser submetidos à inspecção da junta médica do Ministério da Educação e Investigação Científica.
 
 2 - À junta médica cumpre verificar se os candidatos sofrem de deficiência física que prejudique o exercício da docência.
 
 3 - O parecer da junta médica, comunicado ao presidente do júri, será fundamentado e pronunciar-se-á obrigatoriamente pela admissão ou rejeição de cada um dos candidatos.
 
-###### Art. 7.º - 1 - As provas de concurso e o tempo destinado à respectiva prestação são os seguintes:
+Art. 7.º - 1 - As provas de concurso e o tempo destinado à respectiva prestação são os seguintes:
 
 a) Desenvolvimento, por escrito, de um tema científico de base relacionado com as matérias do grupo, tirado à sorte no início da prova: três horas;
 
@@ -157,9 +169,9 @@ Para o grupo B - Indústrias Alimentares.
 
 6 - Os temas científicos de base relacionados com as disciplinas de cada grupo constarão de uma lista a publicar juntamente com o anúncio do concurso.
 
-###### Art. 8.º - Quando haja diversos concorrentes será tirada à sorte a ordem por que prestam as provas das alíneas b) e c) do n.º 1 do artigo 7.º
+Art. 8.º - Quando haja diversos concorrentes será tirada à sorte a ordem por que prestam as provas das alíneas b) e c) do n.º 1 do artigo 7.º
 
-###### Art. 9.º - 1 - A cada prova será atribuída, por votação do júri, sob proposta do vogal examinador, uma nota inteira na escala de 0 a 20 valores, sendo excluídos aqueles que não obtiverem pelo menos 10 valores em todas as provas.
+Art. 9.º - 1 - A cada prova será atribuída, por votação do júri, sob proposta do vogal examinador, uma nota inteira na escala de 0 a 20 valores, sendo excluídos aqueles que não obtiverem pelo menos 10 valores em todas as provas.
 
 2 - A classificação final de cada candidato aprovado será a média aritmética, arredondada às décimas, das classificações obtidas em cada prova do concurso.
 
@@ -167,18 +179,18 @@ Para o grupo B - Indústrias Alimentares.
 
 4 - A relação graduada dos candidatos aprovados será publicada no Diário da República.
 
-###### Art. 10.º Cada um dos membros dos júris do concurso tem direito à gratificação legal e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
+Art. 10.º Cada um dos membros dos júris do concurso tem direito à gratificação legal e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
 
-###### Art. 11.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 11.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
-###### Art. 12.º São revogados os artigos 55.º a 65.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, e os artigos 11.º a 17.º do [Decreto n.º 49263](https://diariodarepublica.pt/dr/detalhe/decreto/49263-1969-214477), de 25 de Setembro de 1969.
+Art. 12.º São revogados os artigos 55.º a 65.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, e os artigos 11.º a 17.º do [Decreto n.º 49263](https://diariodarepublica.pt/dr/detalhe/decreto/49263-1969-214477), de 25 de Setembro de 1969.
 
-###### Art. 13.º Este decreto entra imediatamente em vigor.
+Art. 13.º Este decreto entra imediatamente em vigor.
 
 Carlos Alberto da Mota Pinto - Luís Francisco Valente Oliveira.
 
-**Promulgado em 7 de Agosto de 1979.**
+Promulgado em 7 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

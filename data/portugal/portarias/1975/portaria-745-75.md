@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28900/20352038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,158 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/745-1975-311068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8458d83acb189a617023390db1528d9e11e958d652be892f997fdfcaca718415
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d106c82dc0ed6cbcfbe94b36d400590841d42adfc624e7477f8c4fdae05214c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Liga dos Combatentes da Grande Guerra
 relationships:
 - type: amended_by
   target: pt:dre:169970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577939:por
+  label: Alterado o art. 8.º pelo(a) Portaria n.º 725/81 - Diário da República n.º 196/1981, Série I de 1981-08-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-1981-577939
+  date: '1981-08-27'
+- type: amended_by
+  target: pt:dre:563000:por
+  label: "Alterada a alínea a) do n.º 3.º do artigo 3.º e o artigo 4.º e aditado um n.º 5 ao artigo 3.º do Estatuto pela PORT.801/81.16.09.1981.MDN,\
+    \ DR.IS [213] de 16.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-1981-563000
+  date: '1981-09-16'
+- type: amended_by
+  target: pt:dre:527216:por
+  label: Alterados o art. 4.º e o § 1.º do art. 9.º do Estatuto da Liga dos Combatentes pelo(a) Portaria n.º 392/92 - Diário
+    da República n.º 109/1992, Série I-B de 1992-05-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/392-1992-527216
+  date: '1992-05-12'
+- type: amended_by
+  target: pt:dre:462004:por
+  label: Aditado um n.º 6 ao art. 3.º do Estatuto da Liga dos Combatentes da Grande Guerra pelo(a) Portaria n.º 901/95 - Diário
+    da República n.º 164/1995, Série I-B de 1995-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-1995-462004
+  date: '1995-07-18'
+- type: cites
+  target: pt:dre:192857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653880:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507002:por
+  label: Rectificado o art. 11.º do Estatuto da Liga dos Combatentes da Grande Guerra pelo(a) Declaração - Diário do Governo
+    n.º 24/1976, Série I de 1976-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507002
+  date: '1976-01-29'
+- type: corrected_by
+  target: pt:dre:507386:por
+  label: Rectificado o art. 2.º do Estatuto da Liga dos Combatentes da Grande Guerra pelo(a) Declaração - Diário do Governo
+    n.º 53/1976, Série I de 1976-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507386
+  date: '1976-03-03'
+- type: repealed_by
+  target: pt:dre:169970:por
+  label: "Revogada pela PORT.119/99.1999.02.10.MDN, DR.IS-B [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/119-1999-169970
+  date: '1999-02-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:54:18Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +216,9 @@ Nestes termos, e considerando a conveniência de actualizar também algumas outr
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que o Estatuto da Liga dos Combatentes, aprovado pela [Portaria n.º 18053](https://diariodarepublica.pt/dr/detalhe/portaria/18053-1960-514261), de 11 de Novembro de 1960, seja alterado, passando a ter a redacção seguinte:
 
-###### Artigo 1.º A Liga dos Combatentes da Grande Guerra, fundada por portugueses que intervieram neste conflito e, por extensão, ora designada Liga dos Combatentes, é uma instituição de utilidade pública, patriótica, de assistência e de beneficência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
+Artigo 1.º A Liga dos Combatentes da Grande Guerra, fundada por portugueses que intervieram neste conflito e, por extensão, ora designada Liga dos Combatentes, é uma instituição de utilidade pública, patriótica, de assistência e de beneficência, de carácter perpétuo, com personalidade jurídica e utilidade administrativa. Tem a sua sede na cidade de Lisboa e é fundamentalmente constituída por indivíduos que foram ou ainda são militares, os quais não podem manifestar, dentro dela, qualquer credo político ou religioso.
 
-###### Art. 2.º Os seus fins são:
+Art. 2.º Os seus fins são:
 
 1.º Protecção e auxílio mútuos e defesa dos legítimos interesses espirituais, morais e materiais dos que, conforme este Estatuto e seu Regulamento, cumpriram ou vieram a cumprir os seus deveres militares, e outros em correlação com eles, estendendo-se estes fins aos seus familiares compreendidos no artigo 4.º que se encontrem de algum modo carecidos;
 
@@ -112,7 +230,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que 
 
 § único. Poderá ainda a Liga dos Combatentes, por decisão da assembleia geral e sob proposta da direcção central, agregar quaisquer obras, existentes ou que venham a fundar-se, de assistência a indivíduos que reúnam as condições expressas no n.º 1.º deste artigo ou a quaisquer dos designados na primeira parte do artigo 4.º
 
-###### Art. 3.º Consideram-se nas condições básicas do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnam os requisitos indicados nos números e alíneas deste artigo e não estejam abrangidos pelo disposto no artigo 5.º:
+Art. 3.º Consideram-se nas condições básicas do n.º 1.º do artigo 2.º, e podem ser admitidos como sócios, todos os portugueses, de origem ou naturalizados, que reúnam os requisitos indicados nos números e alíneas deste artigo e não estejam abrangidos pelo disposto no artigo 5.º:
 
 1.º Que tenham prestado serviço em campanha no Exército, na Armada ou na marinha mercante, nacionais ou das nações aliadas, durante a Grande Guerra;
 
@@ -152,11 +270,11 @@ l) De 1 de Agosto de 1962 tenham pertencido às forças de terra, mar e ar em ac
 
 m) De 1 de Agosto de 1961 tenham pertencido às forças de terra, mar e ar em actuação na província de Timor, as condições são reguladas pela [Portaria n.º 20570](https://diariodarepublica.pt/dr/detalhe/portaria/20570-1964-582594), de 7 de Maio de 1964, que lhes confere o direito ao uso da medalha comemorativa das expedições das forças armadas portuguesas.
 
-###### Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar no regulamento previsto no artigo 12.º deste Estatuto, sem direito de voto nem ao exercício de qualquer cargo directivo, com as excepções que forem prescritas naquele regulamento, os filhos, esposas, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outras pessoas singulares ou colectivas que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
+Art. 4.º Poderão igualmente ser admitidos como sócios, em categorias diferentes a fixar no regulamento previsto no artigo 12.º deste Estatuto, sem direito de voto nem ao exercício de qualquer cargo directivo, com as excepções que forem prescritas naquele regulamento, os filhos, esposas, viúvas, pais e irmãs solteiras dos indivíduos compreendidos nos n.os 1.º a 4.º e suas alíneas do artigo 3.º e ainda outras pessoas singulares ou colectivas que mereçam fazer parte da prestimosa instituição pelo auxílio que lhe prestarem ou valimento que lhe derem.
 
-###### Art. 5.º Não poderão ser admitidos como sócios na Liga dos Combatentes, ou, sendo-o, serão excluídos, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante, enquanto não tiverem cumprido a respectiva pena ou hajam sido legal ou judicialmente ilibados, e todos aqueles que não possuam boas qualidades morais e cívicas.
+Art. 5.º Não poderão ser admitidos como sócios na Liga dos Combatentes, ou, sendo-o, serão excluídos, os indivíduos que hajam sido condenados a pena maior por deserção, cobardia ou crime infamante, enquanto não tiverem cumprido a respectiva pena ou hajam sido legal ou judicialmente ilibados, e todos aqueles que não possuam boas qualidades morais e cívicas.
 
-###### Art. 6.º A Liga compreende:
+Art. 6.º A Liga compreende:
 
 a) Conselho supremo, assembleia geral, direcção central e conselho fiscal, como órgãos do seu núcleo central;
 
@@ -174,13 +292,13 @@ c) Secção auxiliar feminina, estabelecida pelo [Decreto n.º 25679](https://di
 
 § 5.º Quando se verifique impossibilidade de se constituírem comissões directivas de núcleos regionais nos termos do § 2.º deste artigo mas haja sócio ou sócios neles filiados que possam e queiram gerir esses núcleos, pode a direcção central atribuir-lhes funções provisórias de gestor ou de comissão administrativa, a sancionar pela assembleia geral, na qual o núcleo terá representação conforme o disposto no artigo 8.º, mas onde o representante não dispõe de voto sobre o referido sancionamento.
 
-###### Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras, deliberando validamente desde que estejam presentes pelo menos cinco dos seus membros efectivos.
+Art. 7.º O conselho supremo orienta as relações da Liga dos Combatentes com os poderes constituídos e com associações congéneres estrangeiras, deliberando validamente desde que estejam presentes pelo menos cinco dos seus membros efectivos.
 
 § 1.º Terá este conselho como presidente de honra o Presidente da República e como vogais honorários os titulares dos departamentos da Defesa Nacional, do Exército, da Armada e da Força Aérea.
 
 § 2.º O conselho supremo, que designará entre si o presidente e dois secretários efectivos, é constituído por um número variável de sócios combatentes e expedicionários eleitos pela assembleia geral, nunca inferior a dez nem superior a vinte.
 
-###### Art. 8.º A assembleia geral da Liga será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões directivas dos núcleos de Lisboa e Porto, pelos presidentes das comissões directivas, ou seus delegados devidamente credenciados, de todos os demais núcleos regionais previstos no artigo 6.º, sem prejuízo da representação própria dos núcleos que estiverem ligados distritalmente, conforme o previsto no início do § 2.º do mesmo artigo, um representante dos núcleos no regime previsto no § 5.º também do artigo 6.º e a presidente do conselho directivo central da secção feminina. As comissões directivas dos núcleos das sedes dos distritos que tenham um número de filiados combatentes e expedicionários superior a quinhentos podem designar mais um aos seus membros para tomar parte nas assembleias gerais, os quais também dispõem de voto, sem prejuízo do caso já considerado dos núcleos de Lisboa e do Porto.
+Art. 8.º A assembleia geral da Liga será constituída por um representante do conselho supremo, de sua livre escolha, pelos sócios de honra, portugueses de origem ou naturalizados que tenham a qualidade de combatente ou a de expedicionário, pelos membros das comissões directivas dos núcleos de Lisboa e Porto, pelos presidentes das comissões directivas, ou seus delegados devidamente credenciados, de todos os demais núcleos regionais previstos no artigo 6.º, sem prejuízo da representação própria dos núcleos que estiverem ligados distritalmente, conforme o previsto no início do § 2.º do mesmo artigo, um representante dos núcleos no regime previsto no § 5.º também do artigo 6.º e a presidente do conselho directivo central da secção feminina. As comissões directivas dos núcleos das sedes dos distritos que tenham um número de filiados combatentes e expedicionários superior a quinhentos podem designar mais um aos seus membros para tomar parte nas assembleias gerais, os quais também dispõem de voto, sem prejuízo do caso já considerado dos núcleos de Lisboa e do Porto.
 
 § 1.º A mesa da assembleia geral será constituída por um presidente e dois secretários, sendo aquele, de direito, o representante do conselho supremo indicado no corpo deste artigo ou, na sua falta, o mais antigo dos membros daquele conselho presentes na reunião. Os dois secretários são eleitos trienalmente e reelegíveis.
 
@@ -202,18 +320,18 @@ a) Em primeira convocação, quando se verificar a presença da maioria dos seus
 
 b) Em segunda convocação, com qualquer número de membros presentes.
 
-###### Art. 9.º À direcção central incumbe e compete a administração geral da Liga em todos os aspectos orgânicos, funcionais, financeiros e patrimoniais, o exercício dos poderes disciplinares que lhe caibam pelo Regulamento e a representação oficial da instituição; dispõe e dirige serviços indispensáveis à gestão e, também, os criados ou mantidos no seu âmbito com fins assistenciais ou lucrativos.
+Art. 9.º À direcção central incumbe e compete a administração geral da Liga em todos os aspectos orgânicos, funcionais, financeiros e patrimoniais, o exercício dos poderes disciplinares que lhe caibam pelo Regulamento e a representação oficial da instituição; dispõe e dirige serviços indispensáveis à gestão e, também, os criados ou mantidos no seu âmbito com fins assistenciais ou lucrativos.
 
 § 1.º A direcção central é constituída por um presidente, um vice-presidente, um secretário-geral, dois vogais administrativos, um bibliotecário e conservador do museu, um secretário e quatro vogais, todos eleitos trienalmente pela assembleia geral, como previsto no § 2.º e alínea c) do § 3.º do artigo 8.º
 
 § 2.º Da direcção central só podem ser reeleitos os membros que obtiverem para isso o mínimo de dois terços dos votos emitidos pela assembleia geral na reunião que os deva eleger.
 
-###### Art. 10.º O conselho fiscal, eleito trienalmente pela assembleia geral, é constituído por três membros efectivos, que escolhem entre si o presidente, e por dois membros suplentes, tendo em relação a toda a Liga as funções legalmente prescritas para órgãos desta natureza.
+Art. 10.º O conselho fiscal, eleito trienalmente pela assembleia geral, é constituído por três membros efectivos, que escolhem entre si o presidente, e por dois membros suplentes, tendo em relação a toda a Liga as funções legalmente prescritas para órgãos desta natureza.
 
-###### Art. 11.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647, [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883) e [Decreto-Lei n.º 47105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47105-1966-475321), de quotas dos seus associados, de subsídios de organismos do Estado e de corpos administrativos, de heranças, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres, bem como as resultantes de actividades criadas ou mantidas com fins lucrativos.
+Art. 11.º As receitas desta instituição provêm, principalmente, da venda da estampilha da Liga dos Combatentes da Grande Guerra, presentemente regulada pelos Decretos-Leis n.os 13670 e 41647, [Decreto n.º 41648](https://diariodarepublica.pt/dr/detalhe/decreto/41648-1958-353883) e [Decreto-Lei n.º 47105](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47105-1966-475321), de quotas dos seus associados, de subsídios de organismos do Estado e de corpos administrativos, de heranças, de doações, de legados, de donativos, de subscrições e da angariação que por outros meios se puder fazer em benefício dos seus cofres, bem como as resultantes de actividades criadas ou mantidas com fins lucrativos.
 
 § único. Estas receitas, incluindo as quotas cobradas pelos núcleos regionais, são utilizadas pela direcção central para a prossecução dos fins da Liga e para custeio das despesas gerais e dos serviços, ou por delegação sua, conforme se definir, pelas comissões directivas dos núcleos regionais, sem prejuízo de estas aplicarem as suas receitas directas de acordo com os orçamentos anuais próprios a submeter à aprovação daquela direcção central no mês de Novembro do ano que precede aquele a que respeitem e com as alterações que esses orçamentos vierem a ter.
 
-###### Art. 12.º A direcção central elaborará o Regulamento necessário ao desenvolvimento e execução do presente Estatuto e, ouvido o conselho supremo, submetê-lo-á, bem como as suas alterações, à apreciação e aprovação da assembleia geral.
+Art. 12.º A direcção central elaborará o Regulamento necessário ao desenvolvimento e execução do presente Estatuto e, ouvido o conselho supremo, submetê-lo-á, bem como as suas alterações, à apreciação e aprovação da assembleia geral.
 
 Ministério da Defesa Nacional, 29 de Novembro de 1975. - O Ministro da Defesa Nacional, José Baptista Pinheiro de Azevedo.

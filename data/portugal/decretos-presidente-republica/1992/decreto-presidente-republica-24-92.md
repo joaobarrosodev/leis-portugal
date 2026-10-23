@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/24/1992/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/24-1992-221079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34a8fe3a2d2d87fa3e50607befa9c42b474c803a2624cfe6330a91ad8b711f22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c70cc6b66d5d0a4b0050388017877e57791d02eff42132b2ba58733c4668d5e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:31Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +91,16 @@ Considerando que tal decisão veio a ser posteriormente confirmada por Acórdão
 
 Considerando que o pedido de indulto oportunamente formulado por aquele arguido foi indeferido no pressuposto errado de que a sua situação processual era a de prisão preventiva:
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 É indultada, na parte não cumprida, a pena de prisão aplicada a Fernando Manuel Calção Bernardes, de 36 anos de idade, no processo n.º 23/85 da 1.ª Secção do 4.º Juízo do Tribunal Criminal da Comarca de Lisboa.
 
-**Assinado em 28 de Setembro de 1992.**
+Assinado em 28 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1992.**
+Referendado em 1 de Outubro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

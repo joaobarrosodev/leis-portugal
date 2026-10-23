@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/643-1972-690839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:54:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fea8d260fddfffc2af8171a4998c34f71971bc2a27f4f25f581f4d298fdf031
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d550fbdc92142d58f80787693d2ae3dfc1711e100e85cf5dd8c435cfacd9d19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:54:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:54:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Regulamento das Gerências Administrativas e das Comissões de Apuramento de Res
 
 e estabelecimentos militares
 
-###### Artigo 1.º - 1. As gerências administrativas das unidades, subunidades e estabelecimentos militares, a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), e que administram fundos do Estado, terão a seguinte constituição:
+Artigo 1.º - 1. As gerências administrativas das unidades, subunidades e estabelecimentos militares, a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), e que administram fundos do Estado, terão a seguinte constituição:
 
 Um presidente.
 
@@ -107,7 +111,7 @@ Um tesoureiro.
 
 3. O vogal e o tesoureiro serão nomeados pelo comandante, director ou chefe de entre os oficiais da unidade, subunidade ou estabelecimento militar. Em caso de necessidade comprovada, esses cargos poderão ser desempenhados por dois sargentos.
 
-###### Art. 2.º Compete às gerências administrativas abrangidas pelo disposto na presente secção:
+Art. 2.º Compete às gerências administrativas abrangidas pelo disposto na presente secção:
 
 a) Superintender, sob a orientação do respectivo comandante, director ou chefe, em todos os actos de administração da unidade, subunidade ou estabelecimento militar, observando as leis, regulamentos e determinações em vigor;
 
@@ -131,13 +135,13 @@ f) Promover a elaboração de actas, onde deve ser mencionada a existência dos 
 
 5. Em todos os casos determinados superiormente.
 
-###### Art. 3.º - 1. Após aprovadas, as actas devem ser imediatamente apresentadas ao comandante, director ou chefe, a fim de com o visto respectivo, se atestar a sua responsabilidade e se tornarem definitivas as resoluções tomadas.
+Art. 3.º - 1. Após aprovadas, as actas devem ser imediatamente apresentadas ao comandante, director ou chefe, a fim de com o visto respectivo, se atestar a sua responsabilidade e se tornarem definitivas as resoluções tomadas.
 
 2. No caso de o comandante, director ou chefe não concordar com as resoluções tomadas, pode invalidá-las, exarando, em seguida à última assinatura da acta, a ordem de anulação ou a indicação do procedimento a adoptar, assumindo assim total responsabilidade.
 
 3. Nos casos previstos no n.º 2 e no n.º 4 da alínea f) do artigo 2.º são extraídas cópias das actas e enviadas à chefia do serviço de contabilidade e administração.
 
-###### Art. 4.º Ao presidente da gerência administrativa compete:
+Art. 4.º Ao presidente da gerência administrativa compete:
 
 a) Promover o cumprimento das disposições legais e das directivas superiormente emanadas;
 
@@ -163,7 +167,7 @@ l) Assegurar-se de que se dispõe na unidade, subunidade ou estabelecimento mili
 
 m) Assegurar-se de que todos os livros, registos e serviços se encontram em ordem, por forma a proporcionar às entidades a quem a unidade, subunidade ou estabelecimento militar estejam administrativamente subordinados uma fiscalização rápida e eficiente.
 
-###### Art. 5.º Compete ao vogal:
+Art. 5.º Compete ao vogal:
 
 a) Receber e dar seguimento a toda a correspondência destinada à gerência;
 
@@ -183,7 +187,7 @@ h) Examinar e prestar informação técnica sobre os assuntos de administração
 
 i) Colaborar com o presidente da gerência administrativa na fiscalização de todos os sectores que impliquem responsabilidade de valores à guarda da unidade, subunidade ou estabelecimento militar.
 
-###### Art. 6.º Compete ao tesoureiro:
+Art. 6.º Compete ao tesoureiro:
 
 a) Receber, contar e arrecadar, mediante os respectivos documentos informados pelo vogal e visados pelo presidente, todas as quantias que lhe forem entregues para dar entrada no cofre;
 
@@ -197,7 +201,7 @@ e) Ter a seu cargo os serviços que lhe forem determinados pelo comandante, dire
 
 f) Auxiliar o presidente e o vogal na fiscalização das cantinas, messes e salas de pessoal.
 
-###### Art. 7.º - 1. Para a escrituração e contabilidade, as gerências administrativas abrangidas pelo disposto na presente secção disporão dos seguintes livros ou registos obrigatórios:
+Art. 7.º - 1. Para a escrituração e contabilidade, as gerências administrativas abrangidas pelo disposto na presente secção disporão dos seguintes livros ou registos obrigatórios:
 
 a) Livro de actas;
 
@@ -205,7 +209,7 @@ b) Livro de caixa.
 
 2. As chefias dos serviços das regiões militares ou comandos territoriais independentes determinarão, em instruções a incluir nas normas de execução permanente, os restantes livros, registos ou documentos que se torne necessário criar para a boa regularidade do serviço, especificando a sua função e modo de escrituração.
 
-###### Art. 8.º O livro de actas é destinado a escriturar as actas das gerências administrativas a que se refere a alínea f) do artigo 2.º, devendo das mesmas constar:
+Art. 8.º O livro de actas é destinado a escriturar as actas das gerências administrativas a que se refere a alínea f) do artigo 2.º, devendo das mesmas constar:
 
 a) O motivo que deu origem à elaboração da acta;
 
@@ -223,11 +227,11 @@ Títulos, vales ou selos;
 
 Outros documentos representativos de dinheiro à ordem da gerência administrativa.
 
-###### Art. 9.º O livro de caixa destina-se a escriturar todos os recebimentos e pagamentos feitos pelo tesoureiro.
+Art. 9.º O livro de caixa destina-se a escriturar todos os recebimentos e pagamentos feitos pelo tesoureiro.
 
 #### SECÇÃO II — Gerências administrativas das cantinas, messes e salas de pessoal
 
-###### Art. 10.º - 1. A gerência administrativa das cantinas, messes e salas de pessoal, a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), quer a unidade, subunidade ou estabelecimento militar disponha ou não de conselho administrativo, compete a um oficial ou, na sua falta, a um sargento, nomeado pelo comandante, director ou chefe.
+Art. 10.º - 1. A gerência administrativa das cantinas, messes e salas de pessoal, a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), quer a unidade, subunidade ou estabelecimento militar disponha ou não de conselho administrativo, compete a um oficial ou, na sua falta, a um sargento, nomeado pelo comandante, director ou chefe.
 
 2. Sempre que se justifique, poderá o comandante, director ou chefe da unidade, subunidade ou estabelecimento militar propor ao comando da região militar ou comando territorial independente, por intermédio da chefia do serviço de contabilidade e administração, que a gerência da cantina, messe ou sala de pessoal seja constituída por mais de um membro, devendo, neste caso, ficar bem definidas as atribuições e responsabilidades de cada um deles.
 
@@ -235,11 +239,11 @@ Outros documentos representativos de dinheiro à ordem da gerência administrati
 
 4. Os gerentes das cantinas, messes e salas de pessoal exercem as suas funções tècnicamente subordinados ao conselho administrativo ou, na sua falta, à gerência administrativa da unidade, subunidade ou estabelecimento militar.
 
-###### Art. 11.º - 1. A criação e extinção de cantinas dependerá de autorização do comandante da região militar ou comando territorial independente, mediante proposta do comandante, director ou chefe da unidade, subunidade ou estabelecimento militar, ouvidas as chefias do serviço de contabilidade e administração e do serviço de intendência.
+Art. 11.º - 1. A criação e extinção de cantinas dependerá de autorização do comandante da região militar ou comando territorial independente, mediante proposta do comandante, director ou chefe da unidade, subunidade ou estabelecimento militar, ouvidas as chefias do serviço de contabilidade e administração e do serviço de intendência.
 
 2. Compete à chefia do serviço de contabilidade e administração organizar um registo de todas as cantinas, inscrevendo-as e atribuindo-lhes um número de ordem segundo a data do despacho de autorização, e nele anotando a data da sua extinção, quando tal se verifique.
 
-###### Art. 12.º Aos gerentes das cantinas compete:
+Art. 12.º Aos gerentes das cantinas compete:
 
 a) Receber, em face dos respectivos documentos, todos os artigos a escriturar nos registos da cantina, assegurando-se do seu perfeito estado de conservação;
 
@@ -263,27 +267,27 @@ j) Prestar os esclarecimentos que lhe sejam pedidos pelo conselho administrativo
 
 l) Prestar contas, mensalmente, ao conselho administrativo ou gerência administrativa de que dependa.
 
-###### Art. 13.º - 1. Quando se verificar mudança de gerente, serão encerrados todos os registos da cantina, com o apuramento das respectivas existências e lucro, sendo as faltas constatadas da responsabilidade do gerente cessante, sem prejuízo do disposto no n.º 2 e no artigo 14.º
+Art. 13.º - 1. Quando se verificar mudança de gerente, serão encerrados todos os registos da cantina, com o apuramento das respectivas existências e lucro, sendo as faltas constatadas da responsabilidade do gerente cessante, sem prejuízo do disposto no n.º 2 e no artigo 14.º
 
 2. Se as faltas disserem respeito apenas ao período que medeia entre a última conferência realizada nos termos da alínea e) do artigo 12.º e a mudança de gerente, a responsabilidade prevista no n.º 1 compete ao encarregado da cantina (cantineiro).
 
-###### Art. 14.º Compete ao encarregado da cantina (cantineiro) a responsabilidade das faltas verificadas, desde que o gerente haja cumprido as disposições contidas nas alíneas e) e f) do artigo 12.º
+Art. 14.º Compete ao encarregado da cantina (cantineiro) a responsabilidade das faltas verificadas, desde que o gerente haja cumprido as disposições contidas nas alíneas e) e f) do artigo 12.º
 
-###### Art. 15.º - 1. Para o funcionamento das cantinas, messes e salas de pessoal o comandante, director ou chefe nomeará o pessoal julgado necessário (cantineiro, escriturários, faxinas), o qual actuará sob a directa responsabilidade do gerente.
+Art. 15.º - 1. Para o funcionamento das cantinas, messes e salas de pessoal o comandante, director ou chefe nomeará o pessoal julgado necessário (cantineiro, escriturários, faxinas), o qual actuará sob a directa responsabilidade do gerente.
 
 2. O pessoal mencionado no número anterior, com a designação das suas funções, constará sempre de publicação em ordem de serviço.
 
-###### Art. 16.º Aos gerentes das messes e das salas de pessoal compete a realização dos actos administrativos inerentes ao seu funcionamento, de acordo com as instruções emanadas superiormente.
+Art. 16.º Aos gerentes das messes e das salas de pessoal compete a realização dos actos administrativos inerentes ao seu funcionamento, de acordo com as instruções emanadas superiormente.
 
 #### SECÇÃO III — Disposições comuns
 
-###### Art. 17.º Os comandantes, directores ou chefes orientarão, fiscalizarão e serão responsáveis pelos actos administrativos praticados pelas suas gerências administrativas, mesmo que delas não façam parte.
+Art. 17.º Os comandantes, directores ou chefes orientarão, fiscalizarão e serão responsáveis pelos actos administrativos praticados pelas suas gerências administrativas, mesmo que delas não façam parte.
 
-###### Art. 18.º A constituição das gerências administrativas referidas nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), bem como qualquer alteração posterior das mesmas, constarão sempre da ordem de serviço.
+Art. 18.º A constituição das gerências administrativas referidas nos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), bem como qualquer alteração posterior das mesmas, constarão sempre da ordem de serviço.
 
 ### CAPÍTULO II — Responsabilidade pecuniária
 
-###### Art. 19.º - 1. Sempre que se verifique qualquer dos factos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), sem prejuízo do disposto no artigo 8.º do mesmo diploma legal, deverá o comandante, director ou chefe dar conhecimento dos mesmos ao quartel-general (chefia do serviço de contabilidade e administração) da respectiva região militar ou comando territorial independente, independentemente das averiguações de carácter disciplinar ou criminal a que haja lugar.
+Art. 19.º - 1. Sempre que se verifique qualquer dos factos a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), sem prejuízo do disposto no artigo 8.º do mesmo diploma legal, deverá o comandante, director ou chefe dar conhecimento dos mesmos ao quartel-general (chefia do serviço de contabilidade e administração) da respectiva região militar ou comando territorial independente, independentemente das averiguações de carácter disciplinar ou criminal a que haja lugar.
 
 2. Se os mesmos factos vierem a ser apurados por qualquer fiscalização ou inspecção administrativa, deverão ser também imediatamente comunicados àquela entidade, observando-se, na parta aplicável, o disposto no final do número anterior.
 
@@ -305,17 +309,17 @@ f) Relatório e conclusões da entidade instrutora.
 
 5. Dos processos referidos no número anterior poderá constar também a decisão e outros elementos de prova do processo disciplinar, no caso de o mesmo se encontrar já concluído.
 
-###### Art. 20.º - 1. Concluídos os processos administrativos a que se refere o artigo anterior, serão os mesmos entregues na chefia do serviço de contabilidade e administração.
+Art. 20.º - 1. Concluídos os processos administrativos a que se refere o artigo anterior, serão os mesmos entregues na chefia do serviço de contabilidade e administração.
 
 2. Mostrando-se realizadas todas as diligências de prova, a chefia do serviço de contabilidade e administração informará o respectivo processo, remetendo-o de seguida à Comissão de Apuramento de Responsabilidades Pecuniárias (C. A. R. P.), para os efeitos do disposto no artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381).
 
 3. O quartel-general da região militar ou comando territorial independente dará conhecimento à Repartição do Gabinete do Ministro do Exército, bem como à Direcção do Serviço de Administração, da remessa de cada processo, juntando cópia da informação.
 
-###### Art. 21.º - 1. Recebido o processo administrativo instruído nos termos dos artigos 19.º e 20.º, o presidente da C. A. R. P. nomeará um relator para o processo que correrá os seus termos nessa comissão.
+Art. 21.º - 1. Recebido o processo administrativo instruído nos termos dos artigos 19.º e 20.º, o presidente da C. A. R. P. nomeará um relator para o processo que correrá os seus termos nessa comissão.
 
 2. O relator poderá proceder a todas as diligências de prova tidas por convenientes ou essenciais.
 
-###### Art. 22.º - 1. O processo terminará com as conclusões do relator, as quais serão sujeitas à apreciação da C. A. R. P., que, para o efeito, reúne em sessões privadas realizados em data, hora e local determinados pelo presidente.
+Art. 22.º - 1. O processo terminará com as conclusões do relator, as quais serão sujeitas à apreciação da C. A. R. P., que, para o efeito, reúne em sessões privadas realizados em data, hora e local determinados pelo presidente.
 
 2. A comissão só pode deliberar quando estiverem presentes, pelo menos, três dos seus membros com direito a voto.
 
@@ -331,17 +335,17 @@ f) Relatório e conclusões da entidade instrutora.
 
 8. Quando for imputada responsabilidade a um militar ou a um civil ao serviço do Ministério do Exército, da deliberação da comissão deverá constar expressamente qual o desconto a efectuar nos vencimentos, tendo em atenção o disposto no n.º 2 do artigo 27.º
 
-###### Art. 23.º - 1. Quando o despacho a que se refere o nº 4 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381) não homologue a deliberação da C. A. R. P., deverá ser devidamente fundamentado, sendo o processo enviado pelo quartel-general da região militar ou comando territorial independente à Direcção do Serviço de Administração, que, depois de emitir o seu parecer, o submeterá a decisão ministerial.
+Art. 23.º - 1. Quando o despacho a que se refere o nº 4 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381) não homologue a deliberação da C. A. R. P., deverá ser devidamente fundamentado, sendo o processo enviado pelo quartel-general da região militar ou comando territorial independente à Direcção do Serviço de Administração, que, depois de emitir o seu parecer, o submeterá a decisão ministerial.
 
 2. Se para a decisão a que se refere o n.º 1 deste artigo for necessária qualquer prova não contida no processo, a Direcção do Serviço de Administração promoverá as diligências convenientes.
 
-###### Art. 24.º - 1. Se o despacho do comandante da região militar ou comando territorial independente for homologatório da deliberação da C. A. R. P., nos termos de n.º 5 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), será notificado a todos os interessados, após o que o processo baixará à chefia do serviço de contabilidade e administração, seguindo-se os demais termos, até final.
+Art. 24.º - 1. Se o despacho do comandante da região militar ou comando territorial independente for homologatório da deliberação da C. A. R. P., nos termos de n.º 5 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), será notificado a todos os interessados, após o que o processo baixará à chefia do serviço de contabilidade e administração, seguindo-se os demais termos, até final.
 
 2. Este despacho será imediatamente comunicado à Direcção do Serviço de Administração.
 
 3. Os serviços de secretaria das C. A. R. P. serão assegurados pelas chefias do serviço de contabilidade e administração.
 
-###### Art. 25.º - 1. O despacho homologatório a que alude o artigo anterior, bem como quaisquer decisões ministeriais definitivas e executórias proferidas sobre o processo serão notificadas nos seguintes termos:
+Art. 25.º - 1. O despacho homologatório a que alude o artigo anterior, bem como quaisquer decisões ministeriais definitivas e executórias proferidas sobre o processo serão notificadas nos seguintes termos:
 
 a) Relativamente aos responsáveis militares e civis ao serviço do Ministério do Exército, pelas vias normais;
 
@@ -357,7 +361,7 @@ d) Por notificação edital, quando o notificando se encontre em parte incerta.
 
 4. A dilação, para os fins do disposto no n.º 2, não será superior a sessenta dias.
 
-###### Art. 26.º - 1. Recorrendo os interessados nos termos do n.º 5 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), o respectivo recurso, dirigido ao Ministro do Exército, deverá ser entregue na unidade ou estabelecimento militar onde o responsável preste serviço ou, no caso previsto na alínea b) do n.º 1 do artigo anterior, no quartel-general ou na unidade ou estabelecimento militar mais próximo do local da residência.
+Art. 26.º - 1. Recorrendo os interessados nos termos do n.º 5 do artigo 2.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), o respectivo recurso, dirigido ao Ministro do Exército, deverá ser entregue na unidade ou estabelecimento militar onde o responsável preste serviço ou, no caso previsto na alínea b) do n.º 1 do artigo anterior, no quartel-general ou na unidade ou estabelecimento militar mais próximo do local da residência.
 
 2. Os recorrentes residindo no estrangeiro farão entrega do seu recurso na Direcção do Serviço de Administração, sendo-lhes concedido um prazo de dilação de sessenta dias.
 
@@ -375,7 +379,7 @@ d) Por notificação edital, quando o notificando se encontre em parte incerta.
 
 9. A decisão final do recurso será imediatamente comunicada pela Direcção do Serviço da Administração aos responsáveis e ao quartel-general da região militar ou comando territorial independente.
 
-###### Art. 27.º Quanto à cobrança coerciva a que se refere o artigo 3.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), observar-se-á o seguinte:
+Art. 27.º Quanto à cobrança coerciva a que se refere o artigo 3.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), observar-se-á o seguinte:
 
 1. Logo que se torne executório o despacho homologatório referido no artigo 24.º ou seja proferido despacho ministerial nos termos do artigo 23.º, o quartel-general da região militar ou comando territorial independente ou a Direcção do Serviço de Administração, conforme os casos, promoverão as diligências que se mostrem indispensáveis à sua execução.
 
@@ -391,13 +395,13 @@ b) Aos quartéis-generais das regiões militares ou comandos territoriais indepe
 
 5. O pagamento voluntário determinará a imediata conclusão do processo administrativo.
 
-###### Art. 28.º - 1. Sempre que se verifique algum dos factos a que se referem os n.os 1 e 2 do artigo 6.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), haverá lugar a revisão oficiosa do processo administrativo.
+Art. 28.º - 1. Sempre que se verifique algum dos factos a que se referem os n.os 1 e 2 do artigo 6.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), haverá lugar a revisão oficiosa do processo administrativo.
 
 2. Poderá também o interessado ou responsável requerer a revisão do processo administrativo, no prazo de trinta dias a contar da data em que tiver conhecimento oficial da sentença ou acórdão proferido em processo crime ou despacho que recaiu em processo disciplinar.
 
 3. O despacho homologatório da decisão da C. A. R. P. proferido pelo comandante da região militar ou comando territorial independente tem sempre força de título executivo, mesmo que se verifique a hipótese prevista no n.º 3 do artigo 6.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381).
 
-###### Art. 29.º - 1. Todo o processo de revisão, nos termos do artigo 6.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), correrá os seus termos pela C. A. R. P., sendo julgado em definitivo pela entidade que no processo administrativo tenha proferido a decisão final sobre a responsabilidade pecuniária.
+Art. 29.º - 1. Todo o processo de revisão, nos termos do artigo 6.º do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381), correrá os seus termos pela C. A. R. P., sendo julgado em definitivo pela entidade que no processo administrativo tenha proferido a decisão final sobre a responsabilidade pecuniária.
 
 2. Para os fins do disposto no artigo anterior, as chefias do serviço de justiça das regiões militares ou comandos territoriais independentes remeterão à C. A. R. P. cópias dos acórdãos proferidos em autos de corpo de delito por faltas, desvios ou alcances de valores do Estado, assim como das decisões proferidas em processo disciplinar por actos lesivos dos interesses da Fazenda Nacional.
 
@@ -407,11 +411,11 @@ b) Aos quartéis-generais das regiões militares ou comandos territoriais indepe
 
 ### CAPÍTULO III — Disposições gerais e transitórias
 
-###### Art. 30.º - 1. A presente portaria aplica-se a todos os processos organizados a partir da data da entrada em vigor do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381).
+Art. 30.º - 1. A presente portaria aplica-se a todos os processos organizados a partir da data da entrada em vigor do [Decreto-Lei n.º 564/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1971-632381).
 
 2. Ficam ressalvados os actos processuais praticados ao abrigo da lei anterior.
 
-###### Art. 31.º As dúvidas que se suscitem sobre a execução da presente portaria serão decididas por despacho do Ministro do Exército.
+Art. 31.º As dúvidas que se suscitem sobre a execução da presente portaria serão decididas por despacho do Ministro do Exército.
 
 Ministério do Exército, 20 de Outubro de 1972. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.
 

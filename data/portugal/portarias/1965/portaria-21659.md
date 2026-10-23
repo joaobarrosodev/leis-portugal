@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21659-1965-511627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f242d662c277b0144b28cbe68aa4faacba379aa2e555a0af9484716f9698323e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d229770e7e0507d8d5cd4248b1dedfab578c8e967b92018eaeb100251881c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma dos Portos
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:383042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234931:por
+  label: "Mantidas em vigor, as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de 1955, na redacção\
+    \ do presente diploma, pela PORT.23297.05.04.1968.MCOMN, DG.IS [82] de 05.04.1968\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23297-1968-234931
+  date: '1968-04-05'
+- type: amended_by
+  target: pt:dre:217347:por
+  label: "Mantidas em vigor, com as alterações das tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de\
+    \ 1955, na redacção do presente diploma, pela PORT.24456.06.12.1969.MCOMN, DG.IS [285] de 06.12.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24456-1969-217347
+  date: '1969-12-06'
+- type: amended_by
+  target: pt:dre:680804:por
+  label: "Mantidas em vigor, com as alterações as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de\
+    \ 1955, na redacção do presente diploma, pela PORT.266/72.12.05.1972.MCOMN, DG.IS [112] de 12.05.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-1972-680804
+  date: '1972-05-12'
+- type: amended_by
+  target: pt:dre:383042:por
+  label: "Alteradas as tarifas provisórias aprovadas pela Portaria 15601, de 08 de Novembro de 1955, na redacção do presente\
+    \ diploma, pela PORT.223/79.08.05.1979.MTC, DR.IS [105] de 08.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1979-383042
+  date: '1979-05-08'
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:56Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +127,17 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de h
 
 ### CAPÍTULO III — Ocupação do leito da ria
 
-###### Art. 60.º ...
+Art. 60.º ...
 
-###### Art. 60.º-A. Pela ocupação de terreno do leito da ria com depósito de materiais de qualquer natureza, e cascos de embarcações, cobra-se a taxa indivisível de $50 por metro quadrado e período de dez dias.
+Art. 60.º-A. Pela ocupação de terreno do leito da ria com depósito de materiais de qualquer natureza, e cascos de embarcações, cobra-se a taxa indivisível de $50 por metro quadrado e período de dez dias.
 
-###### Art. 60.º-B. Pela ocupação de terreno do leito da ria com plantações, viveiros de plantas ou de animais, canalizações e obras de captação de água ou de esgotos e qualquer outra utilização, aplicar-se-ão as taxas que forem fixadas e aprovadas para cada caso pela comissão administrativa.
+Art. 60.º-B. Pela ocupação de terreno do leito da ria com plantações, viveiros de plantas ou de animais, canalizações e obras de captação de água ou de esgotos e qualquer outra utilização, aplicar-se-ão as taxas que forem fixadas e aprovadas para cada caso pela comissão administrativa.
 
 ## TÍTULO V — Prestação de serviços
 
 ### CAPÍTULO I — Material terrestre para movimentação de cargas
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 a) Guindastes:
 
@@ -135,7 +167,7 @@ Hora extraordinária, 130$00.
 
 ### CAPÍTULO II — Utilização de embarcações com motor
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 Rebocador Coronel Gaspar Ferreira:
 
@@ -153,7 +185,7 @@ Hora de rebocador à ordem, 180$00.
 
 ### CAPÍTULO IV — Básculas
 
-###### Art. 63.º-E. Pela utilização de básculas da Junta cobrar-se-ão, por pesagem e por unidade, as seguintes taxas:
+Art. 63.º-E. Pela utilização de básculas da Junta cobrar-se-ão, por pesagem e por unidade, as seguintes taxas:
 
 a) Veículos automóveis ligeiros ou pesados de qualquer tipo e atrelados, 10$00.
 
@@ -167,69 +199,69 @@ b) Veículos de tracção animal, ou quaisquer outros volumes não especificados
 
 ...
 
-###### Art. 68.º-A. Pelo fornecimento de água doce aos armazéns de preparação e embalagem de peixe cobrar-se-á a taxa de 4$00 por metro cúbico.
+Art. 68.º-A. Pelo fornecimento de água doce aos armazéns de preparação e embalagem de peixe cobrar-se-á a taxa de 4$00 por metro cúbico.
 
-###### Art. 68.º-B. Pelo fornecimento de água doce às restantes instalações terrestres do porto de pesca costeira cobrar-se-á a taxa de 3$50 por metro cúbico.
-
-...
-
-###### Art. 69.º-B. Pelo fornecimento de água potável, com camião cisterna, a embarcações ou quaisquer instalações existentes nas quatro zonas portuárias cobrar-se-á a taxa de 12$00 por metro cúbico, sendo de 5 m3 o mínimo cobrável.
+Art. 68.º-B. Pelo fornecimento de água doce às restantes instalações terrestres do porto de pesca costeira cobrar-se-á a taxa de 3$50 por metro cúbico.
 
 ...
 
-## TITULO VIII
+Art. 69.º-B. Pelo fornecimento de água potável, com camião cisterna, a embarcações ou quaisquer instalações existentes nas quatro zonas portuárias cobrar-se-á a taxa de 12$00 por metro cúbico, sendo de 5 m3 o mínimo cobrável.
+
+...
+
+TITULO VIII
 
 Licenças
 
 ...
 
-###### Art. 80.º-A. Para construção e ampliação de marinhas de sal:
+Art. 80.º-A. Para construção e ampliação de marinhas de sal:
 
 Por metro quadrado, incluindo os muros de vedação de águas, $05.
 
-###### Art. 80.º-B. Para a reconstrução total ou parcial de marinhas de sal:
+Art. 80.º-B. Para a reconstrução total ou parcial de marinhas de sal:
 
 Por metro quadrado, $03.
 
-###### Art. 81.º Para reparação de muros de marinhas com estacaria, torrão, pedra solta ou cacos:
+Art. 81.º Para reparação de muros de marinhas com estacaria, torrão, pedra solta ou cacos:
 
 Por metro corrente de muro, 1$00.
 
 ...
 
-###### Art. 86.º-A. Para a construção de obras marítimas e fluviais para uso de particulares:
+Art. 86.º-A. Para a construção de obras marítimas e fluviais para uso de particulares:
 
 Por metro quadrado em projecção horizontal, 10$00.
 
-###### Art. 86.º-B. Para a reconstrução ou reparação de obras marítimas e fluviais:
+Art. 86.º-B. Para a reconstrução ou reparação de obras marítimas e fluviais:
 
 Por metro quadrado em projecção horizontal, 5$00.
 
-###### Art. 86.º-C. Para a execução de terraplenagens, por particulares:
+Art. 86.º-C. Para a execução de terraplenagens, por particulares:
 
 Por metro quadrado, 1$00.
 
-###### Art. 86.º-D. Para a execução de arruamentos, caminhos, passeios e pavimentações, por particulares:
+Art. 86.º-D. Para a execução de arruamentos, caminhos, passeios e pavimentações, por particulares:
 
 Por metro quadrado, 1$50.
 
-###### Art. 86.º-E. Para a construção de poços de qualquer tipo para captação de água:
+Art. 86.º-E. Para a construção de poços de qualquer tipo para captação de água:
 
 Por unidade, 100$00.
 
-###### Art. 86.º-F. Para a substituição de portas e janelas:
+Art. 86.º-F. Para a substituição de portas e janelas:
 
 Por unidade, 5$00.
 
-###### Art. 86.º-G. Para o assentamento de tubos em motas e caminhos:
+Art. 86.º-G. Para o assentamento de tubos em motas e caminhos:
 
 Por metro corrente, 2$50.
 
-###### Art. 86.º-H. Para a abertura de valas ou fossas:
+Art. 86.º-H. Para a abertura de valas ou fossas:
 
 Por metro quadrado, $50.
 
-###### Art. 86.º-I. Para a limpeza de valas ou fossas:
+Art. 86.º-I. Para a limpeza de valas ou fossas:
 
 Por metro quadrado, $20.
 

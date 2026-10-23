@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1977-280532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35aa88cb6f20434ec6cf206847569d2dd34183fcd1aa1617227a9cc234a515d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d9dd8d96a604f28d00a8657e3c28c76c2647dcd2542055080290cfa42ec9017
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desalojado
+- Documentação Administrativa
+- Licença de Transporte
+- Licenciamento
+- Transporte de Mercadorias
+- Transporte Internacional
+- Veículo de Aluguer
+relationships:
+- type: cites
+  target: pt:dre:286513:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:29:09Z'
   warnings: []
   errors: []
 ---
@@ -297,4 +308,4 @@ Segunda testemunha (ver nota a) ..., bilhete de identidade n.º ...
 
 (nota a) Assinaturas reconhecidas
 
-**O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

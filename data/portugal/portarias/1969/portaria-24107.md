@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24107-1969-200408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 633b29a65d01c649acbc2bd2a78382a9457e419185a9ccf9ea6a04178061c2f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81af313eb7c109d18e5f0f32954233e82ad43af52a34aea6a2cf731f431643ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exército
+- Forças Armadas
+- Heráldica
+- Norma
+- Regulamento de Heráldica do Exército
 relationships:
 - type: amended_by
   target: pt:dre:662340:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:662340:por
+  label: "Revogada pela PORT.213/87.24.03.1987.MDN, DR.IS [69] de 24.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/213-1987-662340
+  date: '1987-03-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:19Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +108,13 @@ NORMAS DE HERÁLDICA DO EXÉRCITO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A simbologia do Exército, em todas as suas formas e representações, regula-se pelas regras de heráldica contidas nas presentes Normas.
+Artigo 1.º A simbologia do Exército, em todas as suas formas e representações, regula-se pelas regras de heráldica contidas nas presentes Normas.
 
-###### Art. 2.º Nos casos omissos, quando não haja recurso à analogia com disposições destas Normas, observar-se-ão os princípios gerais da heráldica.
+Art. 2.º Nos casos omissos, quando não haja recurso à analogia com disposições destas Normas, observar-se-ão os princípios gerais da heráldica.
 
 ### CAPÍTULO II — Classificação da simbologia do Exército
 
-###### Art. 3.º A simbologia do Exército, quanto ao seu objecto e fins, classifica-se em:
+Art. 3.º A simbologia do Exército, quanto ao seu objecto e fins, classifica-se em:
 
 a) Simbologia meramente distintiva;
 
@@ -112,13 +122,13 @@ b) Simbologia distintiva e simultâneamente honorífica;
 
 c) Simbologia galardoadora de mérito.
 
-###### Art. 4.º Cada uma das categorias simbológicas tem forma específica, em ordem heráldica crescente.
+Art. 4.º Cada uma das categorias simbológicas tem forma específica, em ordem heráldica crescente.
 
-###### Art. 5.º Para efeitos destas Normas, a hierarquia e os escalões do Exército são sempre classificados em ordem crescente.
+Art. 5.º Para efeitos destas Normas, a hierarquia e os escalões do Exército são sempre classificados em ordem crescente.
 
-###### Art. 6.º À hierarquia e aos escalões do Exército correspondem a hierarquia e os escalões simbológicos, conforme a classificação heráldica estabelecida nos artigos seguintes.
+Art. 6.º À hierarquia e aos escalões do Exército correspondem a hierarquia e os escalões simbológicos, conforme a classificação heráldica estabelecida nos artigos seguintes.
 
-###### Art. 7.º Os símbolos heráldicos do Exército meramente distintivos são:
+Art. 7.º Os símbolos heráldicos do Exército meramente distintivos são:
 
 a) Escudo pleno, de metal, cor ou pele;
 
@@ -130,7 +140,7 @@ d) Escudo carregado com figuras naturais, artificiais ou quiméricas;
 
 e) Escudo com o seu brasão ordenado de peças e figuras.
 
-###### Art. 8.º Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos usados por entidades a quem tenham sido especialmente atribuídos são:
+Art. 8.º Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos usados por entidades a quem tenham sido especialmente atribuídos são:
 
 a) Escudo com correia vermelha, perfilada de ouro, e elmo de prata forrado de vermelho, voltado de perfil para a dextra (fig. 1);
 
@@ -140,7 +150,7 @@ c) Escudo com correia vermelha, perfilada de ouro, e elmo de prata forrado de ve
 
 d) Escudo com correia vermelha, perfilada de ouro, e elmo de prata forrado de vermelho, voltado a três quartos para a dextra com virol, paquife e timbre (fig. 4).
 
-###### Art. 9.º - 1. Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com o critério de ordem estética, às chefias e direcções de serviços ou armas só podem ser usados pelos respectivos generais chefes ou directores em exercício e são:
+Art. 9.º - 1. Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com o critério de ordem estética, às chefias e direcções de serviços ou armas só podem ser usados pelos respectivos generais chefes ou directores em exercício e são:
 
 a) Escudo sobreposto às insígnias das armas ou serviços (figs. 5, 6, 7, 8, 9 e 10);
 
@@ -160,7 +170,7 @@ e) Escudo ladeado pelas insígnias dos respectivos organismo militares.
 
 5. Os coronéis, a empregar quando forem estèticamente aconselháveis, são sempre de ouro e forrados de vermelho (fig. 14).
 
-###### Art. 10.º - 1. Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com um critério de ordem estética, aos comandos de regiões militares ou equivalentes só podem ser usados pelos respectivos generais comandantes em exercício e são:
+Art. 10.º - 1. Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com um critério de ordem estética, aos comandos de regiões militares ou equivalentes só podem ser usados pelos respectivos generais comandantes em exercício e são:
 
 a) Armas incluindo suportes, com ou sem os seus atributos;
 
@@ -174,15 +184,15 @@ c) Armas sobrepostas às insígnias dos altos cargos.
 
 4. Os viróis, paquifes e timbres são dos esmaltes próprios.
 
-###### Art. 11.º Os generais quartel-mestre-general do Exército, ajudante-general do Exército, vice-chefe do Estado-Maior do Exército e inspector-geral do Exército em exercício têm direito aos símbolos heráldicos referidos no artigo anterior.
+Art. 11.º Os generais quartel-mestre-general do Exército, ajudante-general do Exército, vice-chefe do Estado-Maior do Exército e inspector-geral do Exército em exercício têm direito aos símbolos heráldicos referidos no artigo anterior.
 
-###### Art. 12.º Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com um critério de ordem estética, ao Estado-Maior do Exército só podem ser usados pelo general chefe do Estado-Maior do Exército em exercício e são:
+Art. 12.º Os símbolos heráldicos do Exército distintivos e simultâneamente honoríficos a atribuir, de acordo com um critério de ordem estética, ao Estado-Maior do Exército só podem ser usados pelo general chefe do Estado-Maior do Exército em exercício e são:
 
 Brasão próprio do Exército, escudo sobreposto a um óculo e uma espada, de ouro, passados em aspa, correia vermelha, perfilada de ouro, elmo de prata, forrado de vermelho, voltado a três quartos para a dextra, virol, paquife e timbre do Exército, nos esmaltes próprios (fig. 5).
 
-###### Art. 13.º O brasão representativo do Exército tem o seguinte ordenamento: de vermelho - que representa a força e o fogo - um leão rampante de ouro segurando na garra dianteira dextra uma espada antiga com lâmina de prata, guarnecida, empunhada e maçanetada de ouro; timbre, a figura do brasão (figs. 15 e 16).
+Art. 13.º O brasão representativo do Exército tem o seguinte ordenamento: de vermelho - que representa a força e o fogo - um leão rampante de ouro segurando na garra dianteira dextra uma espada antiga com lâmina de prata, guarnecida, empunhada e maçanetada de ouro; timbre, a figura do brasão (figs. 15 e 16).
 
-###### Art. 14.º Os símbolos heráldicos do Exército que constituem galardão de mérito são:
+Art. 14.º Os símbolos heráldicos do Exército que constituem galardão de mérito são:
 
 a) Cruzes das ordens colocadas atrás dos escudos (figs. 17, 18, 19, 20, 21 e 22).
 
@@ -192,41 +202,41 @@ c) Panóplias ou troféus a flanquear os escudos já ordenados com as cruzes ou 
 
 ### CAPÍTULO III — Padrões heráldicos do Exército
 
-###### Art. 15.º O escudo do Exército é o escudo em ponta na sua forma clássica, construído a partir do quadrado (fig. 24). O brasão é o ordenamento simbológico contido no campo do escudo e nele planificado de harmonia com as dimensões deste.
+Art. 15.º O escudo do Exército é o escudo em ponta na sua forma clássica, construído a partir do quadrado (fig. 24). O brasão é o ordenamento simbológico contido no campo do escudo e nele planificado de harmonia com as dimensões deste.
 
-###### Art. 16.º As armas são formadas pelo escudo acompanhado dos seus elementos externos, ou destes com quaisquer acessórios (fig. 5).
+Art. 16.º As armas são formadas pelo escudo acompanhado dos seus elementos externos, ou destes com quaisquer acessórios (fig. 5).
 
-###### Art. 17.º A correia é vermelha, perfilada de ouro.
+Art. 17.º A correia é vermelha, perfilada de ouro.
 
-###### Art. 18.º O elmo tem a forma clássica trecentista e a sua altura é igual à largura do escudo (figs. 1, 2, 3, 4, 5 e 25).
+Art. 18.º O elmo tem a forma clássica trecentista e a sua altura é igual à largura do escudo (figs. 1, 2, 3, 4, 5 e 25).
 
-###### Art. 19.º O virol e o paquife são iluminados de metais, cores e peles, tirados do brasão respectivo (fig. 3). O forro do elmo é sempre vermelho.
+Art. 19.º O virol e o paquife são iluminados de metais, cores e peles, tirados do brasão respectivo (fig. 3). O forro do elmo é sempre vermelho.
 
-###### Art. 20.º O timbre obedece à estilização heráldica e tem a altura igual à do elmo (figs. 4 e 25).
+Art. 20.º O timbre obedece à estilização heráldica e tem a altura igual à do elmo (figs. 4 e 25).
 
-###### Art. 21.º O coronel é constituído por um aro liso, com virolas nos bordos superior e inferior, encimado por oito torres, das quais cinco são aparentes; cada torre com quatro ameias, das quais três são aparentes. O intervalo entre cada duas torres consecutivas é preenchido por um pelouro. O coronel é de ouro e forrado de vermelho (fig. 14).
+Art. 21.º O coronel é constituído por um aro liso, com virolas nos bordos superior e inferior, encimado por oito torres, das quais cinco são aparentes; cada torre com quatro ameias, das quais três são aparentes. O intervalo entre cada duas torres consecutivas é preenchido por um pelouro. O coronel é de ouro e forrado de vermelho (fig. 14).
 
-###### Art. 22.º As partições do campo do escudo só são admitidas plenas de um esmalte e sem qualquer carga (fig. 26).
+Art. 22.º As partições do campo do escudo só são admitidas plenas de um esmalte e sem qualquer carga (fig. 26).
 
-###### Art. 23.º O ordenamento e a estilização dos elementos externos e acessórios dos escudos do Exército fazem-se conforme o previsto para os brasões.
+Art. 23.º O ordenamento e a estilização dos elementos externos e acessórios dos escudos do Exército fazem-se conforme o previsto para os brasões.
 
-###### Art. 24.º - 1. O estilo das letras dos motes e das legendas será sempre elzevir.
+Art. 24.º - 1. O estilo das letras dos motes e das legendas será sempre elzevir.
 
 2. Em casos especiais, poderá utilizar-se o estilo gótico, quando as exigências estéticas da iluminura o aconselhem.
 
-###### Art. 25.º Não é permitido o emprego de letras em monogramas ou legendas, no ordenamento dos brasões do Exército.
+Art. 25.º Não é permitido o emprego de letras em monogramas ou legendas, no ordenamento dos brasões do Exército.
 
-###### Art. 26.º Os motes e as legendas inscrevem-se dentro de um listel ondulado, tudo iluminado dos metais e das cores heráldicas que melhor se harmonizem no conjunto das armas, e as letras terão sempre a parte superior voltada para o bordo superior do listel (fig. 27).
+Art. 26.º Os motes e as legendas inscrevem-se dentro de um listel ondulado, tudo iluminado dos metais e das cores heráldicas que melhor se harmonizem no conjunto das armas, e as letras terão sempre a parte superior voltada para o bordo superior do listel (fig. 27).
 
-###### Art. 27.º O escudo de armas aplica-se em tudo o que é habitual marcar com símbolos distintivos e pelas formas e com os materiais empregados nesta espécie de representações.
+Art. 27.º O escudo de armas aplica-se em tudo o que é habitual marcar com símbolos distintivos e pelas formas e com os materiais empregados nesta espécie de representações.
 
-###### Art. 28.º O ordenamento dos padrões de todas as representações heráldicas do Exército deverá ser sempre proporcionado, estilizado e iluminado segundo as regras prescritas nestas Normas e no Regulamento da Simbologia do Exército.
+Art. 28.º O ordenamento dos padrões de todas as representações heráldicas do Exército deverá ser sempre proporcionado, estilizado e iluminado segundo as regras prescritas nestas Normas e no Regulamento da Simbologia do Exército.
 
-###### Art. 29.º Do padrão derivam todas as outras formas de representar o mesmo ordenamento simbológico; o selo branco, porém, regular-se-á pela legislação em vigor.
+Art. 29.º Do padrão derivam todas as outras formas de representar o mesmo ordenamento simbológico; o selo branco, porém, regular-se-á pela legislação em vigor.
 
 ### CAPÍTULO IV — Bandeiras
 
-###### Art. 30.º As bandeiras heráldicas privativas de entidades ou corpos do Exército são bandeiras de desfile e classificam-se da forma seguinte:
+Art. 30.º As bandeiras heráldicas privativas de entidades ou corpos do Exército são bandeiras de desfile e classificam-se da forma seguinte:
 
 a) Flâmula é a bandeira de companhia ou de escalão equivalente (figs. 28 e 29);
 
@@ -238,23 +248,23 @@ d) Estandarte é a bandeira de regimento, de escalão equivalente ou superior, e
 
 e) Galhardete é a bandeira dos generais em exercício de cargos de direcção, ou de chefia, dos generais com comando e dos membros do Governo (figs. 46 e 47).
 
-###### Art. 31.º As bandeiras heráldicas das unidades acompanham sempre os respectivos comandantes em formaturas, paradas e desfiles.
+Art. 31.º As bandeiras heráldicas das unidades acompanham sempre os respectivos comandantes em formaturas, paradas e desfiles.
 
-###### Art. 32.º A bandeira nacional, como supremo símbolo de soberania e posse, é essencialmente uma bandeira de arvorar. Arvora-se no solo do território, nos edifícios, nas fortalezas, nos entrincheiramentos e nas embarcações. Não pode ser usada como decoração.
+Art. 32.º A bandeira nacional, como supremo símbolo de soberania e posse, é essencialmente uma bandeira de arvorar. Arvora-se no solo do território, nos edifícios, nas fortalezas, nos entrincheiramentos e nas embarcações. Não pode ser usada como decoração.
 
-###### Art. 33.º A bandeira nacional deverá usar-se com a forma de estandarte nacional nas unidades do Exército que a ela tenham direito (fig. 48).
+Art. 33.º A bandeira nacional deverá usar-se com a forma de estandarte nacional nas unidades do Exército que a ela tenham direito (fig. 48).
 
 ### CAPÍTULO V — Aprovação e reforma da simbologia do Exército
 
-###### Art. 34.º A aprovação da simbologia do Exército é feita por despacho do Ministro do Exército, sob proposta do chefe do Estado-Maior do Exército.
+Art. 34.º A aprovação da simbologia do Exército é feita por despacho do Ministro do Exército, sob proposta do chefe do Estado-Maior do Exército.
 
-###### Art. 35.º - 1. A simbologia a conceder, como mercê nova de galardão, é conferida nos termos do artigo anterior, por uma só vida, e transcreve-se em carta de brasão de armas ordenada para o agraciado.
+Art. 35.º - 1. A simbologia a conceder, como mercê nova de galardão, é conferida nos termos do artigo anterior, por uma só vida, e transcreve-se em carta de brasão de armas ordenada para o agraciado.
 
 2. Considera-se carta de brasão de armas o conjunto constituído pela cópia do diploma de concessão (com descrição e posfácio) e pela iluminura respectiva.
 
-###### Art. 36.º A execução dos princípios consignados nestas Normas obedece ao disposto no Regulamento da Simbologia do Exército.
+Art. 36.º A execução dos princípios consignados nestas Normas obedece ao disposto no Regulamento da Simbologia do Exército.
 
-###### Art. 37.º Estas Normas entram progressivamente em vigor, competindo ao Estado-Maior do Exército proceder à reforma progressiva e sistemática da simbologia do Exército e zelar peio cumprimento dos preceitos contidos neste diploma e na sua regulamentação.
+Art. 37.º Estas Normas entram progressivamente em vigor, competindo ao Estado-Maior do Exército proceder à reforma progressiva e sistemática da simbologia do Exército e zelar peio cumprimento dos preceitos contidos neste diploma e na sua regulamentação.
 
 Ministério do Exército, 3 de Junho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.
 
@@ -262,9 +272,9 @@ REGULAMENTO DA SIMBOLOGIA DO EXÉRCITO
 
 ### CAPÍTULO I — Distintivos heráldicos do Exército e seus padrões
 
-###### Artigo 1.º Os escalões do Exército, as armas e os serviços, a hierarquia dos postos e dos comandos e todas as instituições do Exército que deles careçam terão símbolos meramente distintivos, símbolos distintivos e simultâneamente honoríficos, ou apenas símbolos de galardão de mérito, nos termos dos artigos 3.º e 6.º das Normas de Heráldica do Exército.
+Artigo 1.º Os escalões do Exército, as armas e os serviços, a hierarquia dos postos e dos comandos e todas as instituições do Exército que deles careçam terão símbolos meramente distintivos, símbolos distintivos e simultâneamente honoríficos, ou apenas símbolos de galardão de mérito, nos termos dos artigos 3.º e 6.º das Normas de Heráldica do Exército.
 
-###### Art. 2.º Os distintivos do Exército, ordenados segundo as regras de heráldica, revestem-se das seguintes formas:
+Art. 2.º Os distintivos do Exército, ordenados segundo as regras de heráldica, revestem-se das seguintes formas:
 
 a) Escudo com o brasão distintivo, sem ou com acessórios e outros elementos externos;
 
@@ -272,9 +282,9 @@ b) Bandeira, nas formas enumeradas no artigo 30.º das Normas de Heráldica do E
 
 c) Selo branco.
 
-###### Art. 3.º Os padrões heráldicos dos distintivos do Exército ordenam-se nos termos dos artigos 7.º a 14.º das Normas de Heráldica do Exército.
+Art. 3.º Os padrões heráldicos dos distintivos do Exército ordenam-se nos termos dos artigos 7.º a 14.º das Normas de Heráldica do Exército.
 
-###### Art. 4.º - 1. O escudo pode ser ogival ou circular.
+Art. 4.º - 1. O escudo pode ser ogival ou circular.
 
 2. O escudo ogival constrói-se a partir do quadrado nos termos do artigo 15.º das Normas de Heráldica do Exército. As duas curvas da ponta traçam-se com centros nos dois pontos que dividem em três partes iguais a mediana horizontal do quadrado, e têm um raio igual a dois terços desta (fig. 24).
 
@@ -288,7 +298,7 @@ b) No escudo de armas, quando iluminado nos seus metais e cores, o ouro e a prat
 
 4. Os escudos podem ser feitos de qualquer material adequado. Quando as necessidades estéticas o exijam, os escudos de armas podem apresentar-se no tom dos materiais utilizados na sua confecção.
 
-###### Art. 5.º - 1. No escudo há elementos externos e elementos acessórios.
+Art. 5.º - 1. No escudo há elementos externos e elementos acessórios.
 
 2. Os elementos externos englobam:
 
@@ -326,7 +336,7 @@ c) Terrados;
 
 d) Material alusivo ou alegórico não qualificado.
 
-###### Art. 6.º As proporções, a localização e a estilização dos elementos externos e dos acessórios são:
+Art. 6.º As proporções, a localização e a estilização dos elementos externos e dos acessórios são:
 
 a) Coronel: quando assente no bordo superior do escudo, ocupará a linha mediana e, nesse caso, o diâmetro do aro será igual a seis oitavas partes do referido bordo; a perpendicular baixada do ponto médio do alto da ameia mediana sobre aquele bordo medirá duas e meia partes do mesmo; não poderá ser usado juntamente com o elmo, o paquife e o virol e será encimado, na linha mediana, pelo timbre, que nele assentará directamente (fig. 14);
 
@@ -356,7 +366,7 @@ Bandeiras utilizadas no Exército.
 
 Sua classificação e medidas
 
-###### Art. 7.º - 1. As bandeiras utilizadas no Exército, nos termos do artigo 30.º das Normas de Heráldica do Exército, são as seguintes, classificadas segundo a sua forma e função:
+Art. 7.º - 1. As bandeiras utilizadas no Exército, nos termos do artigo 30.º das Normas de Heráldica do Exército, são as seguintes, classificadas segundo a sua forma e função:
 
 a) Flâmula;
 
@@ -370,7 +380,7 @@ e) Galhardete.
 
 2. As características das bandeiras referidas no n.º 1 são as indicadas nos artigos seguintes.
 
-###### Art. 8.º - 1. A flâmula tem a forma de um triângulo isósceles e contém, sem bordadura, a simbologia do guião da unidade (figs. 28 e 29).
+Art. 8.º - 1. A flâmula tem a forma de um triângulo isósceles e contém, sem bordadura, a simbologia do guião da unidade (figs. 28 e 29).
 
 2. A flâmula pode ser de pano, de filele, de chapa metálica, ou pintada sobre o material, no local mais apropriado.
 
@@ -382,7 +392,7 @@ Para marcar: lado menor 0,25 m, altura maior, 0,375 m;
 
 Para arvorar: lado menor 0,25 m, altura maior 0,5 m.
 
-###### Art. 9.º - 1. O guião é quadrado e mede 0,75 m de lado. No seu ordenamento tem uma bordadura simples, acantonada, esquartelada, ou gironada, que encerra a quadratura do brasão da unidade (figs. 30, 31, 32, 33, 34, 35 e 36).
+Art. 9.º - 1. O guião é quadrado e mede 0,75 m de lado. No seu ordenamento tem uma bordadura simples, acantonada, esquartelada, ou gironada, que encerra a quadratura do brasão da unidade (figs. 30, 31, 32, 33, 34, 35 e 36).
 
 2. O guião, de tecido de ouro, de tecido de prata e de seda, é bordado.
 
@@ -392,13 +402,13 @@ Para arvorar: lado menor 0,25 m, altura maior 0,5 m.
 
 5. O topo distal da vareta horizontal é ligado à haste por meio de um cordão do metal e da cor dominantes no ordenamento.
 
-###### Art. 10.º O guião de mérito é vermelho com um leão rampante de ouro, segurando na garra dianteira dextra uma espada antiga (com lâmina de prata, guarnecida, empunhada e maçanetada de ouro), acompanhado em chefe da designação da unidade e no contrachefe, em duas linhas, da designação do local onde foram praticados os feitos de armas de mérito excepcional que motivaram a concessão da condecoração e da designação, em abreviatura, do mês e do ano em que os ditos feitos foram praticados (estas inscrições em letras de estilo elzevir, maiúsculas, e em algarismos árabes), tudo de ouro; bordadura de ouro com uma coroa de louros de verde.
+Art. 10.º O guião de mérito é vermelho com um leão rampante de ouro, segurando na garra dianteira dextra uma espada antiga (com lâmina de prata, guarnecida, empunhada e maçanetada de ouro), acompanhado em chefe da designação da unidade e no contrachefe, em duas linhas, da designação do local onde foram praticados os feitos de armas de mérito excepcional que motivaram a concessão da condecoração e da designação, em abreviatura, do mês e do ano em que os ditos feitos foram praticados (estas inscrições em letras de estilo elzevir, maiúsculas, e em algarismos árabes), tudo de ouro; bordadura de ouro com uma coroa de louros de verde.
 
 As restantes características do guião de mérito, a saber:
 
 forma, dimensões, tecidos, bordado, cordão, haste, lança, vareta horizontal e bainhas, são idênticas às do guião (fig. 37).
 
-###### Art. 11.º - 1. O estandarte é quadrado e mede 1 m de lado. O seu ordenamento resulta da combinação geométrica de esquartelados com uma bordadura nos metais e nas cores heráldicas mais adequadas (figs. 38, 39, 40 e 41).
+Art. 11.º - 1. O estandarte é quadrado e mede 1 m de lado. O seu ordenamento resulta da combinação geométrica de esquartelados com uma bordadura nos metais e nas cores heráldicas mais adequadas (figs. 38, 39, 40 e 41).
 
 2. Ao ordenamento descrito no número anterior pode sobrepor-se uma cruz firmada de haste vertical ou em aspa, iluminada dos metais ou das cores que forem aconselháveis pela sua representação simbológica e estética (figs. 42, 43, 44 e 45).
 
@@ -414,7 +424,7 @@ forma, dimensões, tecidos, bordado, cordão, haste, lança, vareta horizontal e
 
 8. O estandarte pode ser franjado de ouro ou prata.
 
-###### Art. 12.º - 1. O galhardete é quadrado e pode ser de tecido de ouro, de tecido de prata, de seda, de filele, ou de chapa metálica, consoante o fim a que se destina. O de viaturas mede 0,3 m de lado (figs. 46 e 47) e o de arvorar mede 0,4 m de lado.
+Art. 12.º - 1. O galhardete é quadrado e pode ser de tecido de ouro, de tecido de prata, de seda, de filele, ou de chapa metálica, consoante o fim a que se destina. O de viaturas mede 0,3 m de lado (figs. 46 e 47) e o de arvorar mede 0,4 m de lado.
 
 2. A haste e a lança são idênticas às do estandarte.
 
@@ -424,7 +434,7 @@ forma, dimensões, tecidos, bordado, cordão, haste, lança, vareta horizontal e
 
 5. O galhardete dos membros do Governo contém, sem bordadura, a simbologia própria.
 
-###### Art. 13.º - 1. A bandeira nacional com a forma de estandarte nacional, a que se refere o artigo 33.º das Normas de Heráldica do Exército, é quadrada e mede 1,25 m de lado. É de tecido de ouro, de tecido de prata e de seda, bordada, e tem cordões e franjas a debruá-la (fig. 48).
+Art. 13.º - 1. A bandeira nacional com a forma de estandarte nacional, a que se refere o artigo 33.º das Normas de Heráldica do Exército, é quadrada e mede 1,25 m de lado. É de tecido de ouro, de tecido de prata e de seda, bordada, e tem cordões e franjas a debruá-la (fig. 48).
 
 2. A bandeira nacional com a forma de estandarte nacional é partida e cosida de verde e vermelho. Brocante, a esfera armilar de ouro, circundada por dois ramos de louro atados, do mesmo metal. Sobreposto a tudo, o escudo nacional. Listel de prata com a divisa «Esta é a ditosa Pátria minha amada», bordada em letras de estilo elzevir, maiúsculas, negras. Cordões e borlas de verde, ouro e vermelho e franja de ouro. A haste e a lança são douradas. A lança é em folha de loureiro, com nervura boleada. A haste, em redor da sua extremidade superior, imediatamente abaixo da base da lança, ostenta, em letras de estilo elzevir, maiúsculas, e em algarismos árabes, as iniciais e o número, ou só as iniciais, da unidade, ou o organismo, a que pertencer. As letras e os algarismos são gravados e têm a altura máxima de 0,03 m. O estandarte nacional enfia na haste e na vareta horizontal por meio de bainhas denticuladas (fig. 48).
 
@@ -432,13 +442,13 @@ forma, dimensões, tecidos, bordado, cordão, haste, lança, vareta horizontal e
 
 ### CAPÍTULO III — Estudo, descrição e execução dos padrões heráldicos do Exército
 
-###### Art. 14.º Os desenhos e iluminuras heráldicas do Exército baseiam-se no estudo e na descrição prévios dos respectivos padrões.
+Art. 14.º Os desenhos e iluminuras heráldicas do Exército baseiam-se no estudo e na descrição prévios dos respectivos padrões.
 
-###### Art. 15.º A descrição dos padrões heráldicos do Exército tem um posfácio, onde se explica o simbolismo das partições, peças, móveis e figuras do brasão, dos elementos externos e dos acessórios e se dão o significado e a representação dos metais, cores e peles que entram no ordenamento.
+Art. 15.º A descrição dos padrões heráldicos do Exército tem um posfácio, onde se explica o simbolismo das partições, peças, móveis e figuras do brasão, dos elementos externos e dos acessórios e se dão o significado e a representação dos metais, cores e peles que entram no ordenamento.
 
-###### Art. 16.º Os desenhos dos padrões abrangem o escudo de armas, as bandeiras, em todas as suas formas e categorias, e o selo branco da chancela.
+Art. 16.º Os desenhos dos padrões abrangem o escudo de armas, as bandeiras, em todas as suas formas e categorias, e o selo branco da chancela.
 
-###### Art. 17.º Os desenhos dos padrões serão executados em folhas de papel medindo 0,45 m x 0,312 m e terão as seguintes dimensões:
+Art. 17.º Os desenhos dos padrões serão executados em folhas de papel medindo 0,45 m x 0,312 m e terão as seguintes dimensões:
 
 a) O quadrado do escudo, 0,08 m de lado;
 
@@ -456,7 +466,7 @@ d) O selo branco: conforme a legislação em vigor.
 
 ### CAPÍTULO IV — Ordenamento dos padrões heráldicos do Exército e suas leis
 
-###### Art. 18.º O ordenamento heráldico obedece sempre às seguintes leis fundamentais:
+Art. 18.º O ordenamento heráldico obedece sempre às seguintes leis fundamentais:
 
 a) Lei da iluminura. - Não pode juntar-se metal com metal, e cor com cor; pode, todavia, juntar-se pele com pele, pele com metal e pele com cor;
 
@@ -464,11 +474,11 @@ b) Lei das proporções. - A base do campo do escudo é o quadrado. As peças, o
 
 c) Lei da estilização. - Dentro do campo do escudo, as figuras nunca podem apresentar-se na sua forma naturalista. Têm de beneficiar sempre de uma estilização, que ajude a encher e a decorar o campo.
 
-###### Art. 19.º Os metais e as cores, ou seja os esmaltes, da heráldica do Exército são os da heráldica geral, com as intensidades metálicas e cromáticas próprias:
+Art. 19.º Os metais e as cores, ou seja os esmaltes, da heráldica do Exército são os da heráldica geral, com as intensidades metálicas e cromáticas próprias:
 
-Ouro [([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf) amarelo;
+Ouro [(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf) amarelo;
 
-Prata [([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf) branco;
+Prata [(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf) branco;
 
 Vermelho;
 
@@ -480,7 +490,7 @@ Púrpura;
 
 Negro.
 
-###### Art. 20.º As peles da heráldica do Exército são as da heráldica geral:
+Art. 20.º As peles da heráldica do Exército são as da heráldica geral:
 
 Arminhos;
 
@@ -490,21 +500,21 @@ Veiros;
 
 Contraveiros.
 
-###### Art. 21.º A representação gráfica dos metais, cores e peles da heráldica do Exército é a da heráldica geral.
+Art. 21.º A representação gráfica dos metais, cores e peles da heráldica do Exército é a da heráldica geral.
 
-###### Art. 22.º Só se admitem as partições quando plenas de um esmalte.
+Art. 22.º Só se admitem as partições quando plenas de um esmalte.
 
-###### Art. 23.º No ordenamento de qualquer brasão, distintivo ou emblema heráldico do Exército deve dominar sempre a simplicidade.
+Art. 23.º No ordenamento de qualquer brasão, distintivo ou emblema heráldico do Exército deve dominar sempre a simplicidade.
 
-###### Art. 24.º As peças, os móveis e as figuras heráldicas podem combinar-se no ordenamento do brasão, mas sempre segundo a regra do artigo 23.º
+Art. 24.º As peças, os móveis e as figuras heráldicas podem combinar-se no ordenamento do brasão, mas sempre segundo a regra do artigo 23.º
 
-###### Art. 25.º Os elementos externos e os acessórios dos escudos de armas permitem maior fantasia artística, mas devem respeitar as proporções estabelecidas e ser ordenados e estilizados nos termos do artigo 23.º das Normas de Heráldica do Exército.
+Art. 25.º Os elementos externos e os acessórios dos escudos de armas permitem maior fantasia artística, mas devem respeitar as proporções estabelecidas e ser ordenados e estilizados nos termos do artigo 23.º das Normas de Heráldica do Exército.
 
 Ministério do Exército, 3 de Junho de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.
 
 Da FIGURA 1 à FIGURA 52
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf))](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/06/13100/06130631.pdf)
 
 Legendas das figuras
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-1975-160094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ddf4c75d406200d298c9b14023c6f94258e44af570ccc98c79986c30a969f8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba0fca18046c55b864f06f81e8d6fc8c42621e909d152ef8fdcb2bfb1549d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,26 @@ relationships:
   target: pt:dre:425328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:425328:por
+  label: Substituídas, a partir de 1 de Junho de 1977, as tabelas de ajudas de custo, pela PORT.200/78.12.04.1978.MFP, DR.IS
+    [85] de 12.04.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-1978-425328
+  date: '1978-04-12'
+- type: cites
+  target: pt:dre:421983:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:56Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +100,6 @@ de 27 de Fevereiro
 
 Manda o Governo da República Portuguesa, pelos Ministros da Administração Interna e das Finanças, que a tabela de ajudas de custo a que se refere a [Portaria n.º 320/73](https://diariodarepublica.pt/dr/detalhe/portaria/320-1973-421983), de 9 de Maio, seja substituída, a partir de 1 de Setembro de 1974, pela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04900/03130313.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04900/03130313.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04900/03130313.pdf)
 
 Ministérios da Administração Interna e das Finanças, 12 de Fevereiro de 1975. - O Ministro da Administração Interna, Manuel da Costa Brás. - O Ministro das Finanças, José da Silva Lopes.

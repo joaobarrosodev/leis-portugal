@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/61/2007/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-2007-520849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 638f71d15f3ccaeed898e32c5f7c6bd7c9cb70455c7092310ca76890c2217f04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 556a714c05035d6685282733656b2fdc7a098900e89115516ef56d902a00539b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Localização de Empresas
-- Modernização Administrativa
 - Comissão de Coordenação e Desenvolvimento Regional
 - Indústria
 - Licenciamento
 - Licenciamento de Obras
+- Localização de Empresas
+- Modernização Administrativa
 - Regulamento
 - Transferência de Competências
 relationships:
@@ -116,16 +116,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/464/2003/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/464/2003/06/06/p/dre
+- type: cites
+  target: pt:dre:226227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683047:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:06Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +232,9 @@ Os artigos 4.º a 6.º, 10.º, 11.º, 12.º, 15.º e 19.º do Regulamento do Lic
 
 15 - A autorização da localização caduca com o indeferimento do pedido de licenciamento industrial ou, no prazo de dois anos, se aquele não for deferido por causa imputável ao industrial.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo do n.º 6, e salvo se for estabelecida forma de apresentação em suporte digital, o pedido de autorização de instalação dos estabelecimentos industriais do tipo 1, 2 ou 3 deve ser apresentado à entidade coordenadora, em sextuplicado, com excepção dos estabelecimentos industriais a instalar em ALE, que será em triplicado.
 
@@ -298,7 +344,9 @@ c) Certidão de autorização de localização, quando tal autorização seja ex
 
 12 - Os estabelecimentos industriais dos tipos 2 e 3, com actividade temporária, necessitam de autorização de instalação, a emitir pela entidade coordenadora, ouvida a respectiva câmara municipal, considerando-se parecer favorável a falta de resposta no prazo de 10 dias.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As alterações relativas à instalação, ou à última alteração autorizada, a realizar em estabelecimentos industriais estão sujeitas a licenciamento sempre que:
 
@@ -324,7 +372,9 @@ e) ...
 
 7 - [Anterior n.º 5.]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -340,7 +390,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -368,7 +420,9 @@ e) ...
 
 13 - Na ausência do parecer referido no n.º 10 no prazo aí mencionado considera-se que o parecer é favorável.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -384,7 +438,9 @@ e) ...
 
 7 - Os estabelecimentos aos quais foi concedida a exclusão do regime de prevenção e controlo integrados de poluição comunicam à entidade coordenadora do licenciamento da actividade a manutenção das condições que conduziram àquela situação, nos termos previstos na respectiva decisão de autorização, emitida ao abrigo do presente artigo ou, no caso de estabelecimentos existentes, nos termos das condições incluídas na licença de exploração industrial.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -398,7 +454,9 @@ e) ...
 
 6 - [Anterior n.º 5.]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A licença de exploração industrial é concedida após a verificação do cumprimento das condições que tiverem sido fixadas nos autos de vistoria e cumprido o disposto no [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, e desde que satisfeito o estipulado no n.º 2 do artigo 21.º do [Decreto-Lei n.º 164/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2001-340234), de 22 de Maio, nos casos aplicáveis, bem como atribuído, quando for caso disso, o número de controlo veterinário exigido para os estabelecimentos industriais onde se exerça uma actividade agro-alimentar que utilize matéria prima de origem animal.»
 
@@ -420,15 +478,15 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Pedro Manuel Dias de Jesus Marques - António Fernando Correia de Campos.
 
-**Promulgado em 8 de Fevereiro de 2007.**
+Promulgado em 8 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Fevereiro de 2007.**
+Referendado em 9 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

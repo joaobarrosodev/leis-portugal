@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 63/2022, 2º Suplemento, Série I de 2022-03-30
   number: '63'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 15-(3) a 15-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/06302/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/81-a/2022/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/81-a-2022-181424624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2474917646181609e2872e34eb0c43c018df04adeb93dfd0747642fd5f8c229d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b604a479585dc0c9afd7e4e05c810d09fd6f43be968c0ea16a7300c5cd7d6b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Exoneração
-- Primeiro-ministro
-- Presidente do Conselho de Ministros
 - Governo
 - Governo XXII
+- Presidente do Conselho de Ministros
+- Primeiro-ministro
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:05Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +89,14 @@ validation:
 
 de 30 de março
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea g), segunda parte, e por força do artigo 186.º, ambos da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea g), segunda parte, e por força do artigo 186.º, ambos da Constituição, o seguinte:
 
 É exonerado do cargo de Primeiro-Ministro do XXII Governo Constitucional António Luís Santos da Costa.
 
-**Assinado em 30 de março de 2022.**
+Assinado em 30 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+115179833

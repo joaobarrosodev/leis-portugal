@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/759-1974-466193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:35:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 157738f530414f146efd6d04b7aac68bd678d73ce0cc57c6b939ccc84977032b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15c8e0b82068f120c568be6da7a9459e7b32aead0eb321ea9019d53bee277a5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:35:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Custo da Construção
+- Habitação Social
+- Renda Limitada
 relationships:
 - type: amended_by
   target: pt:dre:408154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:336688:por
+  label: "Alteradas as als c) e d) do nº 2 do nº 5 pela PORT.449/75.1975.07.22.MESA DG.IS [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1975-336688
+  date: '1975-07-22'
+- type: cites
+  target: pt:dre:415048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408154:por
+  label: "Revogada pela PORT.726/76.1976.12.02.MHUC DR.IS [281]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/726-1976-408154
+  date: '1976-12-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:35:05Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +120,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado
 
 4.º - 1. Cada tipo de casa de renda limitada terá por características mínimas as constantes do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
 
 2. Os acabamentos e isolamentos das casas de renda limitada não deverão ser de qualidade inferior aos que as câmaras municipais onde os mesmos se venham a situar correntemente aceitam para construções equivalentes.
 
@@ -119,7 +140,7 @@ d) Uma taxa de juro a aplicar ao valor final, determinado na alínea antecedente
 
 e) Para cada tipo de casa de renda limitada não serão considerados os valores obtidos através da alínea anterior que excedam os seguintes limites máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
 
 3. A fixação definitiva das rendas será feita pelo Fundo de Fomento da Habitação, tomando em conta o que nos n.os 1 e 2 do presente artigo se estabelece, bem como, concretamente, os elementos referidos no n.º 2 do artigo 6.º ou no artigo 8.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), conforme os casos, e, ainda, o preço da construção corrente na zona em que o edifício será implantado e a qualidade de urbanização em que o mesmo se integra.
 
@@ -131,6 +152,6 @@ e) Para cada tipo de casa de renda limitada não serão considerados os valores 
 
 Secretaria de Estado da Habitação e Urbanismo, 30 de Outubro de 1974. - O Secretário de Estado da Habitação e Urbanismo, Nuno Portas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf))](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/11/27300/14471448.pdf)
 
-**O Secretário de Estado da Habitação e Urbanismo, Nuno Portas.**
+O Secretário de Estado da Habitação e Urbanismo, Nuno Portas.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22300/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/82/2019/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/82-2019-126365678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24ed5801630b4dffd9ad3a2689179d3ba5d1e1e8bc8a3ed99152ccc550993ce2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85399561b4ded48702ee7534c249cfcd072a0afe86af8beb7325c88f6d99bb93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Comandante
-- União Europeia
 - Força Naval
 - Nomeação
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:133054716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:133054716:por
+  label: Prorrogado o mandato pelo(a) Decreto do Presidente da República n.º 23/2020 - Diário da República n.º 87/2020, Série
+    I de 2020-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/23-2020-133054716
+  date: '2020-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/52/2009/07/20/p/dre
   label: null
@@ -88,13 +94,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:37:54Z'
   warnings: []
   errors: []
 ---
@@ -103,12 +109,14 @@ validation:
 
 de 20 de novembro
 
-**O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/492378/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384876/details/normal?l=1), de 29 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do n.º 2 do artigo 9.º da [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/492378/details/normal?l=1), de 7 de julho, alterada e republicada pela [Lei Orgânica n.º 5/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/56384876/details/normal?l=1), de 29 de agosto, o seguinte:
 
 É nomeado, sob proposta do Governo, após proposta do Chefe do Estado-Maior-General das Forças Armadas e formulada através do Ministro da Defesa Nacional, o Capitão-de-Mar-e-Guerra da classe de marinha José António Vizinha Mirones para o cargo de Comandante da força naval atribuída à operação Atalanta, da União Europeia, no período compreendido entre 3 de dezembro de 2019 e 18 de fevereiro de 2020.
 
-**Assinado em 15 de novembro de 2019.**
+Assinado em 15 de novembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+112768763

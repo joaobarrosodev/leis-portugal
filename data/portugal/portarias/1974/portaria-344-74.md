@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-1974-622369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe15041d481f8400a731cf819bf472cf24fc038594139221bfbfbdbc4b97ec6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9effd549a97bfde19e3acd89b50355040fededa495c368dc697563935594959c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Franco
+- Serviço Português de Contentores
+- Terminal de Carga
+- Transporte de Mercadorias
+- Transporte Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:177431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177431:por
+  label: "Dada nova redacção do n.º 11.º e aditados os n.ºs 11.º-A, 11.º-B, 11.º-C e 11.º-D ao presente diploma, pela PORT.691/85.17.09.1985.MFP,\
+    \ DR.IS [214] de 17.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/691-1985-177431
+  date: '1985-09-17'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685185:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:08Z'
   warnings: []
   errors: []
 ---

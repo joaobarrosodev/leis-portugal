@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/2000, 1º Suplemento, Série I-A de 2000-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7444-(10) a 7444-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/294a01/00100015.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/329-c/2000/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-c-2000-516974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac58772cdd24b0aa8fa1f4434f72bbeddc032800a4c8d1cbfce2c2e7faeddbb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb41ebcc5ad7175733a1a9cadb76a8d05cb45277dd49a939b70d0568eea553e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Autarquia Local
 - Casa Degradada
 - Comparticipação do Estado
-- Obras de Conservação e Restauro
-- Arrendamento Urbano não Habitacional
-- Renovação Urbana
+- Financiamento
 - Instituto de Gestão e Alienação do Património Habitacional do Estado
 - Instituto Nacional de Habitação
+- Obras de Conservação e Restauro
 - Prédio Devoluto
 - Programa Recria
 - Regime Jurídico
-- Arrendamento Urbano para Habitação
+- Renovação Urbana
 - Subsídio não Reembolsável
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/1996/07/31/p/dre
@@ -93,16 +93,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2000/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2000/08/08/p/dre
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:57Z'
   warnings: []
   errors: []
 ---
@@ -431,12 +479,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Outubro de 2000. - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 13 de Dezembro de 2000.**
+Promulgado em 13 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Dezembro de 2000.**
+Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

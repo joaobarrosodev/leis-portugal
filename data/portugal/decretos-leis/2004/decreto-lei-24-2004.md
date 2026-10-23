@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/019a00/04230449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24/2004/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2004-608907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 175da3347de6d947b9a236cdf390718242486dd46250324e5634f7a083b71d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e579efcacc950f435fca5107a8217c4787b1ef941f4d871ecc3deab596d4097
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,68 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
 - Certificado de Conformidade
+- Comércio
+- Embarcação
 - Equipamento Marítimo
-- Instalações Radioelétricas
 - Fabrico Industrial
+- Instalações Radioelétricas
 - Normas de Segurança
 - Poluição Marinha
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603187:por
+  label: "Alterado o anexo pelo DEC LEI.18/2009.15.01.2009.MOPTC, DR.IS [10] de 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2009-603187
+  date: '2009-01-15'
+- type: amended_by
+  target: pt:dre:611925:por
+  label: "Alterado o anexo (na redacção do Dec Lei 18/2009, de 15-Jan) ao presente diploma, pelo DEC LEI.17/2010.17.03.2010.MOPTC,\
+    \ DR.IS [53] de 17.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2010-611925
+  date: '2010-03-17'
+- type: amended_by
+  target: pt:dre:542273:por
+  label: "Dada nova redação ao anexo (alterado pelos Dec Lei 28/2009 de 15-jan e 17/2010 de 17-mar) pelo DEC LEI.53/2012.08.03.2012.MAMAOT,\
+    \ DR.IS [49] de 08.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2012-542273
+  date: '2012-03-08'
+- type: amended_by
+  target: pt:dre:174827:por
+  label: "Alterado o anexo ao presente diploma, na redação do Dec Lei 18/2009, de 15-jan, Dec Lei 17/2010, de 17-mar, e Dec\
+    \ Lei 53/2012, de 08-mar, pelo DEC LEI.207/2012.03.09.2012.MAMAOT, DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2012-174827
+  date: '2012-09-03'
+- type: amended_by
+  target: pt:dre:498723:por
+  label: "Dada nova redação ao anexo do presente diploma (alterado pelos Dec Lei 18/2009 de 15-jan, 57/2010 de 17-mar, 53/2012\
+    \ de 08-mar e 207/2012 de 03-set) pelo DEC LEI.104/2013.29.07.2013.MAMAOT, DR.IS [144] de 29.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2013-498723
+  date: '2013-07-29'
+- type: amended_by
+  target: pt:dre:58815312:por
+  label: Dada nova redação ao anexo, alterado pelos Dec Lei 18/2009 de 15-jan, 17/2010 de 17-mar, 52/2012 de 08-mar, 207/2012
+    de 03-set e 104/2013 de 29-jul, pelo(a) Decreto-Lei n.º 170-C/2014 - Diário da República n.º 216/2014, 1º Suplemento,
+    Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-c-2014-58815312
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:67348948:por
+  label: Substituído o anexo ao presente diploma pelo(a) Decreto-Lei n.º 95/2015 - Diário da República n.º 104/2015, Série
+    I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2015-67348948
+  date: '2015-05-29'
+- type: amended_by
+  target: pt:dre:75222134:por
+  label: Substituído, a partir de 31.08.2016, o anexo ao presente diploma, pelo(a) Decreto-Lei n.º 59/2016 - Diário da República
+    n.º 166/2016, Série I de 2016-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2016-75222134
+  date: '2016-08-30'
 - type: cites
   target: celex:31996L0098
   label: null
@@ -99,16 +147,21 @@ relationships:
   target: celex:32002L0084
   label: null
   source: http://data.europa.eu/eli/dir/2002/84/oj
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogado pelo(a) Decreto-Lei n.º 63/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:58Z'
   warnings: []
   errors: []
 ---
@@ -191,17 +244,19 @@ Os equipamentos assinalados como «item novo» na coluna com o título «Designa
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Jorge Fernando Magalhães da Costa.
 
-**Promulgado em 12 de Janeiro de 2004.**
+Promulgado em 12 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Janeiro de 2004.**
+Referendado em 13 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — ANEXO A
+## ANEXO
+
+## ANEXO A
 
 Equipamentos para os quais já existem normas de ensaio pormenorizadas em instrumentos internacionais
 

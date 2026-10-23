@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 238/2020, 1º Suplemento, Série I de 2020-12-09
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 36-(2) a 36-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102-a/2020/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39fb35a459fc19aa616fafdc8524758048c8512162e2b7caeaf22fde2732c537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f556a854905fbc98eb4722b3bae39d2a8ffb62f721e84d5569811cbfca03922e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,31 @@ reuse:
 subjects:
 - Acesso à Informação
 - Acidente de Trabalho
-- Instituto da Segurança Social
+- Açores
 - Aproximação das Legislações
 - Assistência Médica
-- Substancia Cancerigena
-- Direção Geral da Saúde
-- Higiene do Trabalho
+- Autoridade para as Condições do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Contra-ordenação Laboral
 - Definição de Competências
-- Segurança no Trabalho
-- Fiscalização
+- Direção Geral da Saúde
 - Doença Profissional
-- Prevenção de Riscos Profissionais
+- Equipamento de Proteção
+- Fiscalização
+- Higiene do Trabalho
+- Instituto da Segurança Social
 - Madeira.região Autónoma
-- Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
-- Saúde no Trabalho
 - Material Biológico
-- Açores
+- Prevenção de Riscos Profissionais
+- Regime Jurídico
+- Saúde no Trabalho
+- Segurança no Trabalho
+- Substancia Cancerigena
 - Substância Perigosa
 - Trabalhador
 - Trabalhador por Conta de Outrem
 - Vacinação
-- Equipamento de Proteção
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: cites
   target: celex:32000L0054
@@ -150,16 +150,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/405/1998/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/405/1998/07/11/p/dre
+- type: cites
+  target: pt:dre:137703603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67011880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332417:por
+  label: null
+  source: null
 article_structure:
-  article_count: 48
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:29Z'
   warnings: []
   errors: []
 ---
@@ -222,11 +266,15 @@ Os artigos 1.º, 2.º, 4.º a 6.º, 10.º a 13.º, 15.º e 17.º a 22.º do [Dec
 
 2 - O presente diploma é aplicável sem prejuízo do disposto no [Decreto-Lei n.º 72/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2003-226806), de 10 de abril, na sua redação atual, e no [Decreto-Lei n.º 55/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2015-67011880), de 17 de abril, na sua redação atual.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente diploma abrange, no âmbito definido no artigo 3.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua atual redação, as atividades em que os trabalhadores estão ou podem estar expostos a agentes biológicos durante o trabalho, nomeadamente as constantes do anexo i.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -234,7 +282,9 @@ O presente diploma abrange, no âmbito definido no artigo 3.º da [Lei n.º 102/
 
 3 - A lista de agentes biológicos classificados dos grupos 2, 3 e 4 consta do anexo v.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O empregador deve notificar a Autoridade para as Condições do Trabalho (ACT) e a Direção-Geral da Saúde (DGS) com, pelo menos, 30 dias de antecedência, do início de atividades em que sejam utilizados, pela primeira vez, agentes biológicos dos grupos 2, 3 ou 4.
 
@@ -258,7 +308,9 @@ d) [...]
 
 7 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Nas atividades suscetíveis de apresentar um risco de exposição a agentes biológicos, o empregador deve proceder à avaliação dos riscos, mediante:
 
@@ -286,7 +338,9 @@ f) [...].
 
 5 - A avaliação dos riscos deve ter em conta as condições reais de exposição profissional, incluindo a interação com outros agentes ou fatores de risco profissional.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -308,7 +362,9 @@ f) O nome e as competências dos profissionais responsáveis pelo serviço de se
 
 4 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O empregador deve assegurar a vigilância adequada dos trabalhadores em relação aos quais os resultados da avaliação referida no artigo 6.º revelem a existência de riscos para a sua segurança ou saúde, designadamente através de exames de saúde e outras intervenções necessárias.
 
@@ -324,7 +380,9 @@ f) O nome e as competências dos profissionais responsáveis pelo serviço de se
 
 7 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -344,7 +402,9 @@ f) [...]
 
 3 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -352,7 +412,9 @@ f) [...]
 
 3 - A vacinação deve obedecer às recomendações da DGS, ser anotada na ficha clínica do trabalhador e registada no seu boletim individual de saúde e na respetiva plataforma eletrónica.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os laboratórios, incluindo os de investigação, desenvolvimento, ensino ou diagnóstico, e as instalações onde existam animais de laboratório que sejam ou se suspeita que sejam portadores de agentes biológicos dos grupos 2, 3 ou 4, depois da avaliação dos riscos, devem aplicar medidas de confinamento físico nos termos do anexo iii.
 
@@ -362,13 +424,17 @@ f) [...]
 
 4 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O empregador deve assegurar formação adequada aos trabalhadores e aos seus representantes para a segurança e saúde no trabalho, no início de uma atividade profissional que implique contactos com agentes biológicos.
 
 2 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -378,7 +444,9 @@ f) [...]
 
 4 - Os trabalhadores e os seus representantes para a segurança e saúde no trabalho têm o direito a conhecer dados coletivos, não individualizados, incluindo as informações previstas no n.º 1 do artigo 10.º, assim como a ter acesso às informações técnicas provenientes de serviços de inspeção e outros organismos competentes no domínio da segurança e saúde no trabalho.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -392,7 +460,9 @@ f) [...]
 
 6 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -404,11 +474,15 @@ f) [...]
 
 5 - O processamento das contraordenações previstas no presente diploma segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, na sua redação atual.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 A fiscalização do cumprimento do presente diploma compete à ACT e aos serviços inspetivos do Ministério da Saúde, no âmbito das respetivas atribuições.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 Nas Regiões Autónomas dos Açores e da Madeira, as referências à ACT e à DGS entendem-se feitas aos órgãos e serviços próprios das respetivas administrações regionais.»
 
@@ -482,15 +556,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Berta Ferreira Milheiro Nunes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 4 de dezembro de 2020.**
+Promulgado em 4 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2020.**
+Referendado em 4 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -518,7 +592,9 @@ Nos casos em que os resultados da avaliação de riscos, efetuada em conformidad
 
 7 - Trabalho em instalações de recolha, drenagem e tratamento de águas residuais.
 
-## ANEXO III — Recomendações relativas às medidas e aos níveis de confinamento
+ANEXO III
+
+Recomendações relativas às medidas e aos níveis de confinamento
 
 (a que se referem o n.º 4 do artigo 14.º e o n.º 1 do artigo 15.º)
 
@@ -528,9 +604,11 @@ As medidas referidas no presente anexo devem ser aplicadas de acordo com a natur
 
 No quadro, a menção 'Recomendado' significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 6.º indiquem o contrário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO IV — Confinamento para processos industriais
+ANEXO IV
+
+Confinamento para processos industriais
 
 (a que se refere o n.º 1 do artigo 16.º)
 
@@ -546,9 +624,11 @@ Agentes biológicos dos grupos 2, 3 e 4
 
 Poderá revelar-se necessário selecionar e combinar exigências de confinamento de várias das categorias adiante referidas, em função da avaliação do risco relacionado com um determinado processo ou uma parte de um processo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO II — (a que se refere o artigo 4.º)
+ANEXO II
+
+(a que se refere o artigo 4.º)
 
 «ANEXO V
 
@@ -616,7 +696,7 @@ Bactérias e afins
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção 'spp.' refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Vírus
 
@@ -624,27 +704,29 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 
 Ver nota introdutória n.os 7 e 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Agentes de doenças priónicas
 
 Nota. - Ver nota introdutória n.º 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Parasitas
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção 'spp.' refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Fungos
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção 'spp.' refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO III — (a que se refere o artigo 6.º)
+ANEXO III
+
+(a que se refere o artigo 6.º)
 
 «ANEXO
 
@@ -652,23 +734,31 @@ Valores limite de exposição profissional
 
 (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO IV — (a que se refere o artigo 9.º)
+ANEXO IV
+
+(a que se refere o artigo 9.º)
 
 Republicação do [Decreto-Lei n.º 84/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1997-468635), de 16 de abril
 
-###### Artigo 1.º — Objeto
+Artigo 1.º
+
+Objeto
 
 1 - O presente diploma estabelece prescrições mínimas de proteção da segurança e da saúde dos trabalhadores contra os riscos da exposição a agentes biológicos durante o trabalho.
 
 2 - O presente diploma é aplicável sem prejuízo do disposto no [Decreto-Lei n.º 72/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2003-226806), de 10 de abril, na sua redação atual, e no [Decreto-Lei n.º 55/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2015-67011880), de 17 de abril, na sua redação atual.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 O presente diploma abrange, no âmbito definido no artigo 3.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua atual redação, as atividades em que os trabalhadores estão ou podem estar expostos a agentes biológicos durante o trabalho, nomeadamente as constantes do anexo i.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do presente diploma entende-se por:
 
@@ -680,7 +770,9 @@ c) Cultura celular - a multiplicação in vitro de células, a partir de organis
 
 d) Nível de confinamento - o conjunto das medidas que, no local ou área de trabalho, garantem as condições de segurança e saúde adequadas à realização do trabalho ou manipulação de agentes patogénicos, de acordo com a classificação dos agentes biológicos prevista no n.º 3 do artigo 4.º
 
-###### Artigo 4.º — Classificação dos agentes biológicos
+Artigo 4.º
+
+Classificação dos agentes biológicos
 
 1 - Os agentes biológicos são classificados, conforme o seu nível de risco infeccioso, nos seguintes grupos:
 
@@ -696,7 +788,9 @@ d) Agente biológico do grupo 4 - o agente biológico que causa doenças graves 
 
 3 - A lista de agentes biológicos classificados dos grupos 2, 3 e 4 consta do anexo v.
 
-###### Artigo 5.º — Notificação do início de atividade
+Artigo 5.º
+
+Notificação do início de atividade
 
 1 - O empregador deve notificar a Autoridade para as Condições do Trabalho (ACT) e a Direção-Geral da Saúde (DGS) com, pelo menos, 30 dias de antecedência, do início de atividades em que sejam utilizados, pela primeira vez, agentes biológicos dos grupos 2, 3 ou 4.
 
@@ -720,7 +814,9 @@ d) As medidas preventivas e de proteção previstas.
 
 7 - Se houver modificações substanciais nos processos ou nos procedimentos com possibilidade de repercussão na segurança ou saúde dos trabalhadores, deve ser feita uma nova notificação.
 
-###### Artigo 6.º — Avaliação dos riscos
+Artigo 6.º
+
+Avaliação dos riscos
 
 1 - Nas atividades suscetíveis de apresentar um risco de exposição a agentes biológicos, o empregador deve proceder à avaliação dos riscos, mediante:
 
@@ -748,17 +844,23 @@ f) O conhecimento de doença verificada num trabalhador que esteja diretamente r
 
 5 - A avaliação dos riscos deve ter em conta as condições reais de exposição profissional, incluindo a interação com outros agentes ou fatores de risco profissional.
 
-###### Artigo 7.º — Resultados da avaliação dos riscos
+Artigo 7.º
+
+Resultados da avaliação dos riscos
 
 1 - Se a avaliação revelar a existência de um risco para a segurança ou saúde dos trabalhadores, o empregador deve tomar as medidas de prevenção adequadas para evitar a exposição dos trabalhadores a esse risco.
 
 2 - A avaliação dos riscos deve identificar os trabalhadores que podem necessitar de medidas de proteção especiais.
 
-###### Artigo 8.º — Substituição de agentes biológicos perigosos
+Artigo 8.º
+
+Substituição de agentes biológicos perigosos
 
 O empregador deve evitar a utilização de agentes biológicos perigosos sempre que a natureza do trabalho o permita, substituindo-os por outros agentes que, em função das condições de utilização e no estado atual dos conhecimentos, não sejam perigosos ou causem menos perigo para a segurança ou saúde dos trabalhadores.
 
-###### Artigo 9.º — Redução dos riscos de exposição
+Artigo 9.º
+
+Redução dos riscos de exposição
 
 Se não for tecnicamente viável o procedimento referido no artigo 8.º, o risco de exposição deve ser reduzido a um nível tão baixo quanto for tecnicamente possível para proteger adequadamente a segurança e a saúde dos trabalhadores, designadamente através das seguintes medidas:
 
@@ -780,7 +882,9 @@ h) Utilização de meios de recolha, armazenagem e evacuação dos resíduos, ap
 
 i) Utilização de processos de trabalhos que permitam manipular e transportar, sem risco, os agentes biológicos.
 
-###### Artigo 10.º — Informação das autoridades responsáveis
+Artigo 10.º
+
+Informação das autoridades responsáveis
 
 1 - Se o resultado da avaliação revelar a existência de riscos para a segurança ou saúde dos trabalhadores, o empregador deve elaborar um relatório com as seguintes informações:
 
@@ -802,7 +906,9 @@ f) O nome e as competências dos profissionais responsáveis pelo serviço de se
 
 4 - O empregador deve garantir que o médico do trabalho ou a entidade responsável pela vigilância da saúde dos trabalhadores notifique às autoridades competentes os casos de doença ou morte de trabalhadores identificados como resultantes da exposição a agentes biológicos.
 
-###### Artigo 11.º — Vigilância da saúde
+Artigo 11.º
+
+Vigilância da saúde
 
 1 - O empregador deve assegurar a vigilância adequada dos trabalhadores em relação aos quais os resultados da avaliação referida no artigo 6.º revelem a existência de riscos para a sua segurança ou saúde, designadamente através de exames de saúde e outras intervenções necessárias.
 
@@ -826,7 +932,9 @@ d) Rastreio de efeitos precoces e reversíveis.
 
 7 - O empregador deve garantir que sejam dados aos trabalhadores informações e conselhos sobre a vigilância da saúde a que podem ser submetidos depois de terminada a exposição de risco.
 
-###### Artigo 12.º — Medidas de higiene e de proteção individual
+Artigo 12.º
+
+Medidas de higiene e de proteção individual
 
 1 - Nas atividades em que são utilizados agentes biológicos com riscos para a segurança ou saúde dos trabalhadores, o empregador deve:
 
@@ -846,7 +954,9 @@ f) Assegurar a existência de colírios e antisséticos cutâneos em locais apro
 
 3 - O empregador deve assegurar a descontaminação, a limpeza e, se necessário, a destruição do vestuário e dos equipamentos de proteção individual referidos no n.º 2.
 
-###### Artigo 13.º — Vacinação dos trabalhadores
+Artigo 13.º
+
+Vacinação dos trabalhadores
 
 1 - Se existirem vacinas eficazes contra os agentes biológicos a que os trabalhadores estão ou podem estar expostos, a vigilância da saúde deve prever a vacinação gratuita dos trabalhadores não imunizados.
 
@@ -854,7 +964,9 @@ f) Assegurar a existência de colírios e antisséticos cutâneos em locais apro
 
 3 - A vacinação deve obedecer às recomendações da DGS, ser anotada na ficha clínica do trabalhador e registada no seu boletim individual de saúde e na respetiva plataforma eletrónica.
 
-###### Artigo 14.º — Medidas especiais para os estabelecimentos médicos e veterinários
+Artigo 14.º
+
+Medidas especiais para os estabelecimentos médicos e veterinários
 
 1 - Os estabelecimentos médicos de saúde e veterinários devem tomar medidas apropriadas para proteger a segurança e a saúde dos trabalhadores.
 
@@ -874,7 +986,9 @@ b) A aplicação de processos que garantam a segurança dos trabalhadores na man
 
 4 - As unidades de isolamento onde se encontrem pessoas doentes ou animais infetados ou com suspeita de estarem infetados por agentes biológicos dos grupos 3 ou 4 devem aplicar medidas de confinamento, de acordo com a coluna A do anexo iii.
 
-###### Artigo 15.º — Medidas especiais para os laboratórios e biotérios
+Artigo 15.º
+
+Medidas especiais para os laboratórios e biotérios
 
 1 - Os laboratórios, incluindo os de investigação, desenvolvimento, ensino ou diagnóstico, e as instalações onde existam animais de laboratório que sejam ou se suspeita que sejam portadores de agentes biológicos dos grupos 2, 3 ou 4, depois da avaliação dos riscos, devem aplicar medidas de confinamento físico nos termos do anexo iii.
 
@@ -884,7 +998,9 @@ b) A aplicação de processos que garantam a segurança dos trabalhadores na man
 
 4 - Os laboratórios referidos no número anterior devem adotar os níveis de confinamento 3 ou 4 sempre que se revele ou se presuma a sua necessidade, exceto se as autoridades competentes considerarem adequado um nível de confinamento inferior.
 
-###### Artigo 16.º — Medidas especiais para os processos industriais
+Artigo 16.º
+
+Medidas especiais para os processos industriais
 
 1 - Os processos industriais que utilizem agentes biológicos dos grupos 2, 3 ou 4 devem adotar, no mínimo, níveis de confinamento 2, 3 ou 4, respetivamente, com base nas medidas práticas e nos processos previstos no anexo iv.
 
@@ -892,7 +1008,9 @@ b) A aplicação de processos que garantam a segurança dos trabalhadores na man
 
 3 - As atividades industriais em que não seja possível proceder à avaliação concludente de um agente biológico cuja utilização pareça implicar um grave risco para a saúde dos trabalhadores devem ser desenvolvidas em locais de trabalho com um nível de confinamento 3 ou 4.
 
-###### Artigo 17.º — Formação dos trabalhadores
+Artigo 17.º
+
+Formação dos trabalhadores
 
 1 - O empregador deve assegurar formação adequada aos trabalhadores e aos seus representantes para a segurança e saúde no trabalho, no início de uma atividade profissional que implique contactos com agentes biológicos.
 
@@ -908,7 +1026,9 @@ d) Utilização dos equipamentos e do vestuário de proteção;
 
 e) Medidas a tomar pelos trabalhadores em caso de incidentes e para a sua prevenção.
 
-###### Artigo 18.º — Informação dos trabalhadores
+Artigo 18.º
+
+Informação dos trabalhadores
 
 1 - O empregador deve fornecer aos trabalhadores instruções escritas nos locais de trabalho e, se necessário, afixar cartazes sobre os procedimentos a seguir em caso de acidente ou incidente grave resultante da manipulação de agentes biológicos ou da manipulação de um agente biológico do grupo 4.
 
@@ -918,7 +1038,9 @@ e) Medidas a tomar pelos trabalhadores em caso de incidentes e para a sua preven
 
 4 - Os trabalhadores e os seus representantes para a segurança e saúde no trabalho têm o direito a conhecer dados coletivos, não individualizados, incluindo as informações previstas no n.º 1 do artigo 10.º, assim como a ter acesso às informações técnicas provenientes de serviços de inspeção e outros organismos competentes no domínio da segurança e saúde no trabalho.
 
-###### Artigo 19.º — Registo, arquivo e conservação de documentos
+Artigo 19.º
+
+Registo, arquivo e conservação de documentos
 
 1 - O empregador deve organizar os registos de dados e manter arquivos atualizados sobre:
 
@@ -938,7 +1060,9 @@ c) Os registos relativos à vigilância da saúde dos trabalhadores, com respeit
 
 6 - Ao cessar o contrato de trabalho, o empregador deve entregar ao trabalhador, a pedido deste, cópia da sua ficha médica.
 
-###### Artigo 20.º — Contraordenações
+Artigo 20.º
+
+Contraordenações
 
 1 - Constitui contraordenação muito grave a violação dos n.os 1 e 4 do artigo 6.º, dos artigos 7.º, 8.º e 9.º, do n.º 1 do artigo 13.º, do artigo 14.º, dos n.os 1, 2 e 4 do artigo 15.º, se forem exigíveis medidas de nível de confinamento 3 ou 4, e do artigo 16.º se forem exigíveis medidas de nível de confinamento 3 ou 4.
 
@@ -950,19 +1074,27 @@ c) Os registos relativos à vigilância da saúde dos trabalhadores, com respeit
 
 5 - O processamento das contraordenações previstas no presente diploma segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, na sua redação atual.
 
-###### Artigo 21.º — Fiscalização
+Artigo 21.º
+
+Fiscalização
 
 A fiscalização do cumprimento do presente diploma compete à ACT e aos serviços inspetivos do Ministério da Saúde, no âmbito das respetivas atribuições.
 
-###### Artigo 22.º — Regiões Autónomas
+Artigo 22.º
+
+Regiões Autónomas
 
 Nas Regiões Autónomas dos Açores e da Madeira, as referências à ACT e à DGS entendem-se feitas aos órgãos e serviços próprios das respetivas administrações regionais.
 
-###### Artigo 23.º — Entrada em vigor
+Artigo 23.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor 180 dias após a sua publicação.
 
-## ANEXO I — Lista indicativa de atividades profissionais
+ANEXO I
+
+Lista indicativa de atividades profissionais
 
 (a que se refere o artigo 2.º)
 
@@ -984,13 +1116,17 @@ Nos casos em que os resultados da avaliação de riscos, efetuada em conformidad
 
 7 - Trabalho em instalações de recolha, drenagem e tratamento de águas residuais.
 
-## ANEXO II — Sinal indicativo de perigo biológico
+ANEXO II
+
+Sinal indicativo de perigo biológico
 
 [a que se refere a alínea e) do artigo 9.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO III — Recomendações relativas às medidas e aos níveis de confinamento
+ANEXO III
+
+Recomendações relativas às medidas e aos níveis de confinamento
 
 (a que se referem o n.º 4 do artigo 14.º e o n.º 1 do artigo 15.º)
 
@@ -1000,9 +1136,11 @@ As medidas referidas no presente anexo devem ser aplicadas de acordo com a natur
 
 No quadro, a menção «Recomendado» significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 6.º indiquem o contrário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO IV — Confinamento para processos industriais
+ANEXO IV
+
+Confinamento para processos industriais
 
 (a que se refere o n.º 1 do artigo 16.º)
 
@@ -1018,9 +1156,11 @@ Agentes biológicos dos grupos 2, 3 e 4
 
 Poderá revelar-se necessário selecionar e combinar exigências de confinamento de várias das categorias adiante referidas, em função da avaliação do risco relacionado com um determinado processo ou uma parte de um processo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
-## ANEXO V — Lista de agentes biológicos classificados
+ANEXO V
+
+Lista de agentes biológicos classificados
 
 (a que se refere o n.º 3 do artigo 4.º)
 
@@ -1084,7 +1224,7 @@ Bactérias e afins
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção «spp.» refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Vírus
 
@@ -1092,22 +1232,24 @@ Nota. - Os vírus foram listados em função da sua ordem (O), da sua família (
 
 Ver nota introdutória n.os 7 e 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Agentes de doenças priónicas
 
 Nota. - Ver nota introdutória n.º 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Parasitas
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção «spp.» refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
 
 Fungos
 
 Nota. - No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção «spp.» refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória n.os 3 e 11 para mais pormenores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf))](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/12/23801/0000200050.pdf)
+
+113789996

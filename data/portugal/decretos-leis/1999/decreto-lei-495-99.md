@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/495/1999/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1999-684845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5f64374bd5ad550d314b8be72c85b871d1dd137a81ada26d63e422d7c8a0c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4e6ec3550e11b7bb0e176b16240cec806d3b84b1b7ebf34f17c2249b87fb4e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - ADSE
-- Tempo de Serviço
-- Reestruturação de Serviços
 - Aquisição de Bens e Serviços
 - Autonomia Administrativa
 - Autonomia Financeira
-- Infarmed
 - Comissão de Fiscalização
-- Gestão Financeira
-- Ministro da Saúde
 - Comissão Técnica Especializada
+- Conselho Consultivo
 - Conselho de Administração
 - Contrato Individual de Trabalho
 - Definição de Competências
-- Gestão do Património
-- Ministro das Finanças
-- Incompatibilidades
-- Conselho Consultivo
-- Orgânica
-- Pessoa Colectiva de Direito Público
-- Regime de Pessoal
-- Mobilidade de Pessoal
-- Segurança Social
+- Função Pública
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Incompatibilidades
+- Infarmed
+- Ministro da Saúde
+- Ministro das Finanças
+- Mobilidade de Pessoal
+- Orgânica
+- Pessoa Colectiva de Direito Público
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Segurança Social
+- Tempo de Serviço
 - Tutela
 relationships:
 - type: amended_by
   target: pt:dre:636710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671050:por
+  label: "Alterado o art. 6º pelo DEC LEI.76/2006.27.03.2006.MS, DR.IS-A [61] de 27.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2006-671050
+  date: '2006-03-27'
+- type: amended_by
+  target: pt:dre:540387:por
+  label: "Alterado o art. 35.º, pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
+- type: amended_by
+  target: pt:dre:636710:por
+  label: "Determinado que, a partir de 01.08.2007, o INFARMED, I.P., suceda nas atribuições do Instituto Nacional da Farmácia\
+    \ e do Medicamento e revogado, com excepção do disposto no artigo 35º, pelo DEC LEI.269/2007.26.07.2007.MS, DR.IS [143]\
+    \ de 26.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-2007-636710
+  date: '2007-07-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1993/01/15/p/dre
   label: null
@@ -137,16 +154,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/329/199
   label: null
   source: http://data.dre.pt/eli/port/329/199
+- type: cites
+  target: pt:dre:146939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668119:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545638:por
+  label: "Revogado o Dec Lei 10/93, de 15-Jan DR.IS-A [12] e determinada a reestruturação do Instituto Nacional da Farmácia\
+    \ e do Medicamento, cuja orgânica foi aprovada pelo pelo presente diploma, que passa a designar-se INFARMED-Autoridade\
+    \ Nacional do Medicamento e Produtos de Saúde, I.P., nos termos da al. b) do n.º 3 do art. 26.º, pelo DEC LEI.212/2006.27.10.2006.MS,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
 article_structure:
   article_count: 43
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:53Z'
   warnings: []
   errors: []
 ---
@@ -773,12 +842,12 @@ Com a entrada em vigor deste diploma é revogado o [Decreto-Lei n.º 353/93](htt
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura - Victor Manuel Coelho Barros - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Outubro de 1999.**
+Promulgado em 29 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Novembro de 1999.**
+Referendado em 4 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

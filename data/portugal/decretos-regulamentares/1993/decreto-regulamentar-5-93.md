@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/1993/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1993-629148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1918ada5f6a3e163cbcd68d07f10f238b637a29e31fbd45d19318aa6b8829d7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cda5493febcbe7a37a176a24787ed9293f13648118a03555d1bb3e4a3a1ba3b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/195-a/1992/09/08/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:17Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e no artigo 4.º do [Decreto-Lei n.º 460/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1982-380149), de 26 de Novembro, repristinado pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presidente da comissão instaladora da Companhia Nacional de Bailado, doravante designada abreviadamente por CNB, tem direito a uma remuneração por acumulação de funções equivalente a 30% do índice 900 da escala salarial do regime geral da função pública.
+Artigo 1.º - 1 - O presidente da comissão instaladora da Companhia Nacional de Bailado, doravante designada abreviadamente por CNB, tem direito a uma remuneração por acumulação de funções equivalente a 30% do índice 900 da escala salarial do regime geral da função pública.
 
 2 - O vice-presidente da comissão instaladora da CNB tem direito à remuneração base equivalente ao índice 900 da escala salarial do regime geral da função pública.
 
@@ -105,20 +117,20 @@ Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://dia
 
 4 - O representante da Direcção-Geral da Contabilidade Pública na comissão instaladora da CNB tem direito a uma remuneração por acumulação de funções equivalente a 60% do índice 100 da escala salarial do regime geral da função pública.
 
-###### Art. 2.º Os encargos com o presente diploma serão suportados nos termos previstos no n.º 3 do artigo 11.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro.
+Art. 2.º Os encargos com o presente diploma serão suportados nos termos previstos no n.º 3 do artigo 11.º do [Decreto-Lei n.º 195-A/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-a-1992-639336), de 8 de Setembro.
 
-###### Art. 3.º O presente diploma reporta os seus efeitos a 15 de Setembro de 1992.
+Art. 3.º O presente diploma reporta os seus efeitos a 15 de Setembro de 1992.
 
 Presidência do Conselho de Ministros, 4 de Janeiro de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo.
 
-**Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.**
+Promulgado em Vila Franca de Xira em 2 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1993.**
+Referendado em 4 de Fevereiro de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

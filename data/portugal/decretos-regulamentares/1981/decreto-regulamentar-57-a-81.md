@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 298/1981, 1º Suplemento, Série I de 1981-12-29
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3390-(1) a 3390-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-a-1981-405521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4becc9f09521ea9e30731e748bc34322767cae0b93053fd5297f50ac28cdd51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 737d1a6eb62edf3d58826f63b7379586198f49b8e8f77b1cd80d51473679ab46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Forças Armadas
+- Pessoal Civil
+- Regime Jurídico
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:188491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188491:por
+  label: "Totalmente revogado pelo DEC LEI.237/96.1996.12.13.MDN, DR.IS-A [288]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-1996-188491
+  date: '1996-12-13'
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:34Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +108,19 @@ Considerando necessário reunir num único diploma a legislação prevista no n.
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovadas, em anexo a este decreto regulamentar, as normas de classificação de serviço do pessoal civil dos Serviços Departamentais das Forças Armadas, do qual fazem parte integrante.
+Artigo único. São aprovadas, em anexo a este decreto regulamentar, as normas de classificação de serviço do pessoal civil dos Serviços Departamentais das Forças Armadas, do qual fazem parte integrante.
 
 Visto e aprovado em Conselho da Revolução em 16 de Dezembro de 1981.
 
-**Promulgado em 22 de Dezembro de 1981.**
+Promulgado em 22 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Normas de classificação de serviço do pessoal civil dos Serviços Departamentais das Forças Armadas
 
-###### Artigo 1.º O pessoal civil dos Serviços Departamentais das Forças Armadas será classificado por forma que se obtenha um juízo de mérito acerca da conduta, capacidade profissional e rendimento de cada um em relação às funções que têm desempenhado, devendo incluir a capacidade de liderança para as categorias com funções de chefia. Essa classificação destina-se essencialmente a:
+Artigo 1.º O pessoal civil dos Serviços Departamentais das Forças Armadas será classificado por forma que se obtenha um juízo de mérito acerca da conduta, capacidade profissional e rendimento de cada um em relação às funções que têm desempenhado, devendo incluir a capacidade de liderança para as categorias com funções de chefia. Essa classificação destina-se essencialmente a:
 
 a) Dar continuidade ao processo apreciativo dos funcionários e agentes;
 
@@ -110,13 +128,13 @@ b) Facultar base objectiva para a selecção no acesso, nos termos em que a clas
 
 c) Orientar acções de formação e aperfeiçoamento profissionais.
 
-###### Art. 2.º - 1 - A classificação de serviço realizar-se-á através de um ficha individual de apreciação (anexo I).
+Art. 2.º - 1 - A classificação de serviço realizar-se-á através de um ficha individual de apreciação (anexo I).
 
 2 - A apreciação fundamentar-se-á na observação directa, objectiva e continuada dos apreciados e deve visar essencialmente as qualidades pessoais mais relevantes e seus reflexos na eficiência do trabalho e no desempenho efectivo das tarefas profissionais (anexo II).
 
-###### Art. 3.º Os responsáveis pela apreciação devem esforçar-se por obter informações significativas do maior número possível de origens e, em especial, do pessoal que trabalha directamente com o notado.
+Art. 3.º Os responsáveis pela apreciação devem esforçar-se por obter informações significativas do maior número possível de origens e, em especial, do pessoal que trabalha directamente com o notado.
 
-###### Art. 4.º - 1 - A apreciação refere-se a determinado período da vida profissional do funcionário ou agente e não deve ser influenciada por apreciações anteriores.
+Art. 4.º - 1 - A apreciação refere-se a determinado período da vida profissional do funcionário ou agente e não deve ser influenciada por apreciações anteriores.
 
 2 - A apreciação pode ser:
 
@@ -124,7 +142,7 @@ a) Periódica, se realizada a título normal, em relação à totalidade ou part
 
 b) Eventual, se elaborada a título extraordinário, em relação a período variável e com fim específico.
 
-###### Art. 5.º - 1 - As fichas individuais de apreciação são confidenciais e o seu conteúdo não pode servir de fundamento a acções disciplinares.
+Art. 5.º - 1 - As fichas individuais de apreciação são confidenciais e o seu conteúdo não pode servir de fundamento a acções disciplinares.
 
 2 - As fichas individuais de apreciação compreendem:
 
@@ -138,7 +156,7 @@ c) Parecer.
 
 4 - A apreciação compreende uma análise dos diversos factores que correspondem às qualidades a avaliar e ainda observações.
 
-###### Art. 6.º - 1 - Os factores são avaliados em 5 graus, que definem níveis ou intensidades atribuíveis pelos responsáveis pela apreciação. A cada grau corresponde uma pontuação de 1 a 5, de acordo com o seguinte critério:
+Art. 6.º - 1 - Os factores são avaliados em 5 graus, que definem níveis ou intensidades atribuíveis pelos responsáveis pela apreciação. A cada grau corresponde uma pontuação de 1 a 5, de acordo com o seguinte critério:
 
 Grau 1 - Insuficiente. - Não satisfaz a maioria dos requisitos da função. Eficiência muito limitada - 1 ponto.
 
@@ -152,9 +170,9 @@ Grau 5 - Excepcional. - Supera em ampla margem os requisitos da função. Cumpre
 
 2 - A avaliação de cada factor será feita independentemente dos demais.
 
-###### Art. 7.º A classificação de serviço visa obter uma apreciação global, expressa de acordo com os graus do número anterior.
+Art. 7.º A classificação de serviço visa obter uma apreciação global, expressa de acordo com os graus do número anterior.
 
-###### Art. 8.º As observações destinam-se a:
+Art. 8.º As observações destinam-se a:
 
 a) Justificar apreciações que assim o requeiram, sendo isso obrigatório para as que atribuam os graus 1 e 5;
 
@@ -162,7 +180,7 @@ b) Incluir informações pertinentes que completem a apreciação ou as tornem m
 
 c) Sugerir, de modo claro e fundamentado, eventuais alterações de funções.
 
-###### Art. 9.º - 1 - O preenchimento da ficha incumbe à entidade designada pelo respectivo comandante, director ou chefe.
+Art. 9.º - 1 - O preenchimento da ficha incumbe à entidade designada pelo respectivo comandante, director ou chefe.
 
 2 - O parecer será elaborado pelo comandante, director ou chefe e deve:
 
@@ -174,29 +192,29 @@ c) Incluir quaisquer informações do seu conhecimento que possam contribuir par
 
 3 - Quando o espaço reservado para o parecer for de todo insuficiente ou quando existam outros notadores, serão utilizadas folhas adicionais à ficha de apreciação.
 
-###### Art. 10.º Quando os funcionários ou agentes prestem serviço regularmente fora do organismo a que pertencem, serão apreciados, nas mesmas condições, pelos chefes directos de quem funcionalmente dependem.
+Art. 10.º Quando os funcionários ou agentes prestem serviço regularmente fora do organismo a que pertencem, serão apreciados, nas mesmas condições, pelos chefes directos de quem funcionalmente dependem.
 
-###### Art. 11.º - 1 - A apreciação periódica será anual e referida a 31 de Dezembro. Todavia, sempre que haja transferência do notado, deverá ser elaborada uma apreciação eventual. O tempo mínimo de convivência entre o notador e o notado, para efeito de apreciação, deverá ser de 6 meses.
+Art. 11.º - 1 - A apreciação periódica será anual e referida a 31 de Dezembro. Todavia, sempre que haja transferência do notado, deverá ser elaborada uma apreciação eventual. O tempo mínimo de convivência entre o notador e o notado, para efeito de apreciação, deverá ser de 6 meses.
 
 2 - O exercício da competência para notar deve ser precedido, sempre que possível, de reunião conjunta dos notadores de cada organismo ou serviço, para consenso e reajustamento de procedimentos a adoptar.
 
-###### Art. 12.º Todas as fichas individuais de apreciação serão centralizadas no órgão de gestão de pessoal, a quem competirá verificar o correcto preenchimento das fichas, analisar, coordenar e controlar os critérios utilizados nos diferentes órgãos e unidades e aplicar os factores de correcção (perequação) que forem estabelecidos, dando conhecimento aos comandantes, directores ou chefes respectivos do grau de uniformidade de critérios atingido.
+Art. 12.º Todas as fichas individuais de apreciação serão centralizadas no órgão de gestão de pessoal, a quem competirá verificar o correcto preenchimento das fichas, analisar, coordenar e controlar os critérios utilizados nos diferentes órgãos e unidades e aplicar os factores de correcção (perequação) que forem estabelecidos, dando conhecimento aos comandantes, directores ou chefes respectivos do grau de uniformidade de critérios atingido.
 
-###### Art. 13.º Os factores de apreciação variam de importância relativa conforme a natureza da função, pelo que serão ponderados de acordo com essa importância para determinação da graduação.
+Art. 13.º Os factores de apreciação variam de importância relativa conforme a natureza da função, pelo que serão ponderados de acordo com essa importância para determinação da graduação.
 
-###### Art. 14.º Para determinação ponderada de cada um dos factores serão utilizados pesos de valorização compreendidos entre 1 e 3 (anexo III).
+Art. 14.º Para determinação ponderada de cada um dos factores serão utilizados pesos de valorização compreendidos entre 1 e 3 (anexo III).
 
-###### Art. 15.º A pontuação ponderada (PXp) de cada factor será o resultado do produto da pontuação (P) pelo respectivo peso (p).
+Art. 15.º A pontuação ponderada (PXp) de cada factor será o resultado do produto da pontuação (P) pelo respectivo peso (p).
 
-###### Art. 16.º A graduação da classificação de serviço (GS) é o quociente entre a soma das pontuações ponderadas (S) de cada factor e a soma dos pesos (Sp), com aproximação até às centésimas.
+Art. 16.º A graduação da classificação de serviço (GS) é o quociente entre a soma das pontuações ponderadas (S) de cada factor e a soma dos pesos (Sp), com aproximação até às centésimas.
 
-###### Art. 17.º A graduação final da classificação de serviço (GFS) será resultante da eventual aplicação dos factores de correcção (perequação) que para o efeito sejam estabelecidos ao nível dos ramos.
+Art. 17.º A graduação final da classificação de serviço (GFS) será resultante da eventual aplicação dos factores de correcção (perequação) que para o efeito sejam estabelecidos ao nível dos ramos.
 
-###### Art. 18.º - 1 - A graduação final da classificação de serviço só se considerará definitiva após homologação pelo director do serviço de pessoal (DSP) do respectivo ramo ou entidade equivalente.
+Art. 18.º - 1 - A graduação final da classificação de serviço só se considerará definitiva após homologação pelo director do serviço de pessoal (DSP) do respectivo ramo ou entidade equivalente.
 
 2 - As graduações finais das classificações de serviço, depois de homologadas, serão enviadas aos organismos de que dependem os funcionários ou agentes, em relações nominais, devendo os respectivos comandantes, directores ou chefes dar conhecimento das mesmas aos interessados, individualmente, bem como dos factores de apreciação iguais ou inferiores a 2.
 
-###### Art. 19.º - 1 - O funcionário ou agente poderá reclamar, por escrito, no prazo de 5 dias, da graduação final da classificação de serviço para a entidade que a homologou, devendo para o efeito ser facultado ao reclamante o conhecimento da sua ficha individual de apreciação.
+Art. 19.º - 1 - O funcionário ou agente poderá reclamar, por escrito, no prazo de 5 dias, da graduação final da classificação de serviço para a entidade que a homologou, devendo para o efeito ser facultado ao reclamante o conhecimento da sua ficha individual de apreciação.
 
 2 - Se houver reclamação, a entidade a quem compete homologar a graduação final da classificação de serviço mandará proceder a nova apreciação do reclamante.
 
@@ -206,13 +224,13 @@ c) Incluir quaisquer informações do seu conhecimento que possam contribuir par
 
 5 - O CEM, depois de ordenar as diligências que entender convenientes, proferirá, no prazo de 45 dias contados a partir da data da interposição da reclamação, despacho definitivo, obtendo-se uma decisão hierarquicamente irrecorrível.
 
-###### Art. 20.º As presentes normas têm carácter experimental durante 3 anos a partir da data da sua publicação.
+Art. 20.º As presentes normas têm carácter experimental durante 3 anos a partir da data da sua publicação.
 
-###### Art. 21.º As dúvidas de aplicação do presente diploma serão resolvidas por despacho do CEMGFA ou CEM respectivo, consoante a disciplina seja de aplicação genérica ou exclusiva de um determinado ramo das forças armadas.
+Art. 21.º As dúvidas de aplicação do presente diploma serão resolvidas por despacho do CEMGFA ou CEM respectivo, consoante a disciplina seja de aplicação genérica ou exclusiva de um determinado ramo das forças armadas.
 
 CONFIDENCIAL
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf)
 
 ## ANEXO II — Definição dos factores de apreciação
 
@@ -266,4 +284,4 @@ Grau 1 - Insuficiente. - Não satisfaz a maioria dos requisitos da função. Efi
 
 ## ANEXO III — Peso dos factores de apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29801/00010005.pdf)

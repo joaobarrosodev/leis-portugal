@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/10/20300/0574905754.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/2017/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2017-108355494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ffebc27298db87c73389cd6f900a355297b0538a62a798f7f5bbb233c19caab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3f5144834f9c0622bc1f39ffb272cfe5be794836f1b0e1a29acb13f26e8af92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,36 @@ subjects:
 - Acidente Nuclear
 - Aproximação das Legislações
 - Autoridade Nacional
-- Proteção Civil
+- Autoridade Nacional de Protecção Civil
+- Central Nuclear
 - Comissão Reguladora para a Segurança das Instalações Nucleares
-- Formação Profissional
-- Radioprotecção
 - Definição de Competências
 - Energia Nuclear
-- Saúde Pública
-- Central Nuclear
 - Euratom
 - Fiscalização
+- Formação Profissional
 - Licenciamento
 - Materia Radiactiva
+- Proteção Civil
+- Radioprotecção
 - Regime Jurídico
+- Saúde Pública
 - Segurança das Instalações
-- Autoridade Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:117202785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117202785:por
+  label: Extinta, a partir de 02.04.2019, a Comissão Reguladora para a Segurança das Instalações Nucleares (COMRSIN), cuja
+    criação e definição de competências consta do Dec Lei 30/2012 de 09-fev, com a redação dada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03, que determinou, nos termos do disposto
+    no n.º 1 do seu art. 193.º, que a Agência Portuguesa do Ambiente, I.P. (APA, I.P.) lhe suceda em todas as atribuições
+    e competências, com exceção das atribuições e competências associadas à inspeção em que é sucedida pela Inspeção-Geral
+    da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT).
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 - type: cites
   target: celex:31989L0618
   label: null
@@ -136,6 +146,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/36/1995/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/36/1995/02/14/p/dre
+- type: cites
+  target: pt:dre:189947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543735:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0071
   label: null
@@ -149,15 +179,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 25
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:45Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +226,9 @@ Os artigos 2.º, 3.º, 8.º, 12.º, 15.º e 16.º do [Decreto-Lei n.º 30/2012](
 
 2 - [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -216,7 +248,9 @@ e) 'Acidente', qualquer ocorrência não intencional cujas consequências ou pot
 
 f) 'Incidente', qualquer ocorrência não intencional cujas consequências ou potenciais consequências não sejam negligenciáveis do ponto de vista da proteção contra radiações ou da segurança nuclear.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [Anterior proémio do corpo do artigo.]
 
@@ -240,7 +274,9 @@ i) Proceder ao acompanhamento e fiscalização das instalações e dos materiais
 
 2 - As decisões de regulamentação adotadas pela COMRSIN ao abrigo das suas atribuições deverão ser baseadas em requisitos fundamentados e transparentes em matéria de segurança nuclear.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Ao titular da licença de uma instalação nuclear incumbe a principal responsabilidade pela sua segurança, a qual não pode ser delegada ou transferida e inclui a responsabilidade pelas atividades de contratantes e subcontratantes cujas atividades possam afetar a segurança nuclear de uma instalação nuclear.
 
@@ -254,7 +290,9 @@ i) Proceder ao acompanhamento e fiscalização das instalações e dos materiais
 
 6 - Os titulares de licenças asseguram que os contratantes e subcontratantes sob a sua responsabilidade, e cujas atividades possam afetar a segurança nuclear de uma instalação nuclear, disponham dos recursos humanos necessários com as adequadas habilitações e competências para cumprirem as suas obrigações.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As informações relacionadas com a segurança nuclear das instalações nucleares e a correspondente regulamentação são, obrigatoriamente, facultadas aos trabalhadores e ao público em geral, prestando-se particular atenção às autoridades locais, à população e às partes interessadas que se encontrem na proximidade de uma instalação nuclear.
 
@@ -266,7 +304,9 @@ i) Proceder ao acompanhamento e fiscalização das instalações e dos materiais
 
 5 - A COMRSIN deverá participar, se for conveniente, em atividades de cooperação sobre segurança nuclear de instalações nucleares com as autoridades reguladoras competentes de outros Estados-Membros na proximidade de uma instalação nuclear, nomeadamente através do intercâmbio ou partilha de informações.
 
-###### Artigo 16.º — Relatórios e avaliações periódicas
+Artigo 16.º
+
+Relatórios e avaliações periódicas
 
 1 - Compete à COMRSIN:
 
@@ -290,7 +330,9 @@ Os artigos 2.º, 3.º, 4.º, 9.º, 10.º, 12.º, 15.º, 16.º, 23.º, 24.º, 25.
 
 O presente diploma aplica-se a qualquer instalação nuclear civil em território nacional sujeita a licença, tal como definida nos termos da alínea b) do artigo 3.º do [Decreto-Lei n.º 30/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2012-543735), de 9 de fevereiro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -332,7 +374,9 @@ r) [Anterior alínea m).]
 
 s) [Anterior alínea n).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -346,13 +390,17 @@ b) Libertações radioativas substanciais, que requereriam medidas de proteção
 
 4 - A concessão de licença para a construção ou exploração de uma instalação nuclear baseia-se numa avaliação específica adequada do local e das instalações que compreenda a demonstração de segurança nuclear no que respeita às exigências nacionais em matéria de segurança nuclear baseada no objetivo definido no n.º 2.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O operador faculta aos trabalhadores e ao público em geral as informações relevantes relacionadas com a segurança nuclear, prestando particular atenção às autoridades locais, à população e às partes interessadas que se encontrem na proximidade de uma instalação nuclear, em conformidade com a legislação nacional e as obrigações internacionais, sem prejuízo da salvaguarda de outros interesses, designadamente em matéria de segurança.
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O operador fornece à Autoridade Nacional de Proteção Civil, ou às entidades territorialmente competentes do sistema de proteção civil, a informação necessária à elaboração do plano de emergência externo a que se refere o artigo 10.º do [Decreto-Lei n.º 174/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2002-197360), de 25 de julho, na sua redação atual.
 
@@ -360,7 +408,9 @@ b) Libertações radioativas substanciais, que requereriam medidas de proteção
 
 3 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A defesa em profundidade deve ser considerada e implementada com vista a garantir o objetivo de segurança nuclear estabelecido no artigo 4.º, de forma a prevenir ou, em caso de impossibilidade de prevenção, a limitar libertações de radiações na instalação e fora desta.
 
@@ -378,7 +428,9 @@ e) São controladas as condições graves, incluindo a prevenção da progressã
 
 f) Existem as estruturas organizativas necessárias ao cumprimento das normas relativas à prevenção e reação a emergências.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -392,7 +444,9 @@ f) Existem as estruturas organizativas necessárias ao cumprimento das normas re
 
 6 - A política de segurança e respetiva implementação são avaliadas e revistas de forma sistemática e regular pelo operador, pelo menos de 10 em 10 anos e sempre que tal se justifique, ou por indicação da autoridade reguladora, visando garantir o respeito pela atual base de referência e apontando os novos melhoramentos a realizar em matéria de segurança, tendo em conta os problemas ligados ao envelhecimento, a experiência de exploração, os mais recentes resultados da investigação e a evolução das normas internacionais, tomando por referência o objetivo fixado no artigo 4.º
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -414,7 +468,9 @@ f) Existem as estruturas organizativas necessárias ao cumprimento das normas re
 
 10 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O operador assegura que dispõe dos recursos financeiros e materiais e os recursos humanos com as adequadas habilitações e competências, necessários para cumprir as suas obrigações relativamente à segurança nuclear da instalação nuclear, tal como previsto nos requisitos nacionais de segurança nuclear e na respetiva licença.
 
@@ -422,7 +478,9 @@ f) Existem as estruturas organizativas necessárias ao cumprimento das normas re
 
 3 - O operador assegura que os contratantes e subcontratantes sob a sua responsabilidade, e cujas atividades possam afetar a segurança nuclear de uma instalação nuclear, disponham dos recursos humanos necessários com as adequadas habilitações e competências para cumprirem as suas obrigações.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O operador garante que os seus recursos humanos têm treino, formação e experiência necessária para a operação segura da instalação e preparação para situações de emergência in situ.
 
@@ -432,7 +490,9 @@ f) Existem as estruturas organizativas necessárias ao cumprimento das normas re
 
 4 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 9.º do [Decreto-Lei n.º 174/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2002-197360), de 25 de junho, na sua redação atual, o operador elabora um plano de emergência interno para as instalações nucleares, adequado aos riscos potenciais previstos no relatório de análise de segurança, conforme o disposto no artigo 30.º ou disposições equivalentes, e que cubra todas as atividades a levar a cabo em caso de emergência, incluindo orientações para a gestão e resposta eficaz a acidentes graves, a fim de prevenir ou atenuar as suas consequências, devendo o plano:
 
@@ -462,7 +522,9 @@ g) Ser objeto de um processo de consulta interna dos trabalhadores e do demais p
 
 7 - A Autoridade Nacional de Proteção Civil ou as entidades territorialmente competentes do sistema de proteção civil, e a entidade responsável pelo plano de emergência externo, são notificadas da situação de emergência verificada, de acordo com os níveis de emergência definidos no plano de emergência interno.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -476,7 +538,9 @@ g) Ser objeto de um processo de consulta interna dos trabalhadores e do demais p
 
 6 - Caso os limites relativos às doses de radiação e aos efluentes radioativos mencionados no artigo 26.º sejam excedidos, o operador notifica de imediato a COMRSIN, bem como a entidade responsável pelo plano de emergência externo e a Autoridade Nacional de Proteção Civil ou as entidades territorialmente competentes do sistema de proteção civil.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -492,7 +556,9 @@ g) Ser objeto de um processo de consulta interna dos trabalhadores e do demais p
 
 7 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - À autoridade reguladora compete determinar a aplicação de medidas corretivas, a suspensão da exploração, a alteração ou revogação da licença, incluindo o encerramento temporário ou definitivo das instalações, quando detetar situações de incumprimento das normas constantes no presente diploma, demais requisitos de segurança definidos em disposições regulamentares, e na respetiva licença de exploração, garantindo a eficácia e proporcionalidade das medidas impostas, em conformidade com o objetivo previsto no artigo 4.º
 
@@ -500,7 +566,9 @@ g) Ser objeto de um processo de consulta interna dos trabalhadores e do demais p
 
 3 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Para efeitos do disposto no presente diploma, constitui contraordenação muito grave, punível com coima que pode variar entre dois terços do montante máximo da coima aplicável e o montante máximo previsto no regime geral do ilícito de mera ordenação social, constante do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro, na sua redação atual:
 
@@ -552,7 +620,9 @@ m) [...]
 
 6 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -574,12 +644,12 @@ O presente decreto-lei entra em vigor em no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Manuel de Lemos Leitão Marques - Ana Paula Baptista Grade Zacarias - Manuel Frederico Tojal de Valsassina Heitor - Manuel Martins dos Santos Delgado - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 28 de setembro de 2017.**
+Promulgado em 28 de setembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de outubro de 2017.**
+Referendado em 2 de outubro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

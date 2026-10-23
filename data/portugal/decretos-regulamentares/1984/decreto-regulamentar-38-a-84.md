@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 107/1984, 1º Suplemento, Série I de 1984-05-09
   number: '107'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1508-(6) a 1508-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf
 entry_into_force_dates: []
@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-a-1984-475560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d63be709d2a907e558e5cb8681fb717930a51a0c11c97d39cdc9c2154823ff4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e08c89192c934ddfc826c6d1337d017663c3e7a3a0d99a8379bea6d09521606a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Português de Oncologia de Francisco Gentil
+- Médico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667523:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607305:por
+  label: Rectificado pela DECL.DD5583.15.05.1984.PCM, DR.IS [126]2ºSupl de 31.05.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-607305
+  date: '1984-05-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:19Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +131,13 @@ Assim, tendo em consideração as disposições constantes dos Decretos-Leis n.o
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O quadro do pessoal médico dos serviços clínicos e de diagnóstico e terapêutica do Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa), anexo ao [Decreto-Lei n.º 99/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301), de 25 de Março, é alterado nos termos do mapa I anexo ao presente decreto.
+Artigo 1.º - 1 - O quadro do pessoal médico dos serviços clínicos e de diagnóstico e terapêutica do Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa), anexo ao [Decreto-Lei n.º 99/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1972-396301), de 25 de Março, é alterado nos termos do mapa I anexo ao presente decreto.
 
 2 - O quadro fixado no mapa I a que se refere o número anterior é desdobrado de acordo com o mapa II anexo ao presente diploma.
 
-###### Art. 2.º Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal médico em serviço no Instituto à data da publicação do presente diploma será provido nos lugares constantes dos mapas anexos, com as categorias agora fixadas, por lista nominativa a aprovar por despacho do Ministro da Educação ou por diploma individual de provimento, nos termos da lei geral.
+Art. 2.º Sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o pessoal médico em serviço no Instituto à data da publicação do presente diploma será provido nos lugares constantes dos mapas anexos, com as categorias agora fixadas, por lista nominativa a aprovar por despacho do Ministro da Educação ou por diploma individual de provimento, nos termos da lei geral.
 
-###### Art. 3.º O provimento nos lugares do quadro referido no n.º 1 do artigo 1.º reger-se-á pelas seguintes disposições:
+Art. 3.º O provimento nos lugares do quadro referido no n.º 1 do artigo 1.º reger-se-á pelas seguintes disposições:
 
 a) É extinto o lugar de director do Centro e criado um lugar de chefe de serviço hospitalar;
 
@@ -139,30 +175,30 @@ r) O pessoal referido nas alíneas g), h), l), m) e q) não poderá transferir-s
 
 s) O pessoal actualmente em serviço no Centro de Lisboa e que possua ou venha a adquirir as qualificações próprias exigidas para a categoria correspondente ao lugar em que agora é provido manterá a capacidade de acesso a todos os concursos internos que venham a efectuar-se para preenchimento dos lugares de categoria superior ao quadro actual e do novo quadro do pessoal médico do Instituto Português de Oncologia de Francisco Gentil (Centro de Lisboa), a publicar brevemente.
 
-###### Art. 4.º Ao presente diploma aplica-se o n.º 3 do artigo 15.º do [Decreto-Lei n.º 57-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-1984-667523), de 20 de Fevereiro.
+Art. 4.º Ao presente diploma aplica-se o n.º 3 do artigo 15.º do [Decreto-Lei n.º 57-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-c-1984-667523), de 20 de Fevereiro.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - José Augusto Seabra - António Manuel Maldonado Gonelha - José Anselmo Dias Rodrigues - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 7 de Maio de 1984.**
+Promulgado em 7 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Maio de 1984.**
+Referendado em 8 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf)
 
 MAPA II
 
 Director de departamento clínico (ver nota a) 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf))](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/10701/00060008.pdf)
 
 (nota a) A extinguir quando vagarem, cativando uma vaga de chefe de serviço.

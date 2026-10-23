@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21139-1965-238210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7848eb51ddb6d50dcb4de4d21552c9205ab4c6d76f8e5dff740d01d9613dd357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7339b82b50d9f27e908dcef56f3112a0dbad13c26e3033ac5d14b3af8267a947
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:656829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:02Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +89,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Exército, que o artigo 45.º do Regulamento para a Promoção aos Postos Inferiores do Exército, aprovado e posto em execução pela [Portaria n.º 6972](https://diariodarepublica.pt/dr/detalhe/portaria/6972-1930-656829), de 26 de Novembro de 1930, passe a ter a seguinte redacção:
 
-###### Art. 45.º São promovidas ao posto de primeiro-cabo miliciano as praças que, tendo concluído o curso de sargentos milicianos, satisfaçam às seguintes condições:
+Art. 45.º São promovidas ao posto de primeiro-cabo miliciano as praças que, tendo concluído o curso de sargentos milicianos, satisfaçam às seguintes condições:
 
 1.ª Não ter sido punido com penas que, por si ou suas equivalências, perfaçam mais de dezanove dias de detenção;
 

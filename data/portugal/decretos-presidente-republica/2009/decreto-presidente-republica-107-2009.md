@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/107/2009/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/107-2009-483425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8966e4d49d9a8b536acc8df09e4d0e5c79b352ea6cb22c82ca820f763d68ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 532eb83da127946715a5117d23504bee605a762c38e7de6515eb7a99eb181c81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - África do Sul
-- Reino Unido
+- Argentina
 - Austrália
 - Bélgica
+- Chile
 - EUA
-- Portugal
+- França
 - Japão
 - Noruega
 - Nova Zelândia
-- Argentina
-- Chile
-- França
+- Portugal
+- Reino Unido
 - URSS
 - Washington
 relationships:
@@ -84,16 +84,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/96/2009/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/96/2009/11/09/p/dre
+- type: cites
+  target: pt:dre:483424:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:30Z'
   warnings: []
   errors: []
 ---
@@ -102,16 +106,16 @@ validation:
 
 de 9 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Tratado para a Antártida, adoptado em Washington em 1 de Dezembro de 1959, aprovado, para adesão, pela [Resolução da Assembleia da República n.º 96/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/96-2009-483424), em 23 de Julho de 2009.
 
-**Assinado em 14 de Outubro de 2009.**
+Assinado em 14 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Outubro de 2009.**
+Referendado em 26 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

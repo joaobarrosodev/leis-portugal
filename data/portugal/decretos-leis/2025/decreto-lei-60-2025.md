@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/06500/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2025/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2025-913224266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2637f6dfd16477423c91ffca2e1314ab5cb018cd96589b75cad256610c632fbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 864bd44cf567e1caa1f239f8e4cc72b0fc77c714d3be4d1c52939f9026bc4a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- INEM
-- Comissão de Serviço
-- Regime Laboral
 - Carreira Profissional
-- Recrutamento de Pessoal
+- Comissão de Serviço
+- INEM
 - Medicina de Urgência
+- Pessoal Dirigente
 - Promoção Profissional
+- Recrutamento de Pessoal
+- Regime Laboral
 - Remuneração
 - Serviços de Urgência
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:19/2016
+  label: Altera, a partir de 3 de abril de 2025, os artigos 3.º, 5.º, 10.º, 11.º, 12.º, 14.º, 16.º e 19.º-A (a alteração a
+    este último produz efeitos a 1 de novembro de 2024) e os anexos i e ii (a alteração a este último produz efeitos a 1 de
+    janeiro de 2025) e adita os artigos 16.º-A, 16.º-B, 16.º-C, e 16.º-D ao Decreto-Lei n.º 19/2016, de 15 de abril, Diário
+    da República n.º 74/2016, Série I
+  source: null
+  date: '2016-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/2016/04/15/p/dre
   label: null
@@ -102,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/233/2022/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/233/2022/09/09/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200860990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204916688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74163192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:40Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +186,9 @@ c) Técnico de emergência pré-hospitalar principal.
 
 2 - [...]
 
-###### Artigo 5.º — Recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal
+Artigo 5.º
+
+Recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal
 
 1 - O recrutamento para as categorias de técnico de emergência pré-hospitalar avançado e de técnico de emergência pré-hospitalar principal faz-se nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
 
@@ -162,13 +196,17 @@ c) Técnico de emergência pré-hospitalar principal.
 
 3 - O recrutamento para a categoria de técnico de emergência pré-hospitalar principal faz-se mediante procedimento concursal de entre técnicos de emergência pré-hospitalar avançados que detenham, no mínimo, oito anos de experiência efetiva de funções na categoria e com avaliação que consubstancie desempenho positivo.
 
-###### Artigo 10.º — Delegação de competências
+Artigo 10.º
+
+Delegação de competências
 
 1 - Os atos assistenciais no âmbito da emergência médica pré-hospitalar executados por profissionais integrados na carreira especial de TEPH, nomeadamente no que envolver a administração de medicação enquadrada em algoritmos diferenciados de atuação em emergência médica, podem ser praticados por delegação de competências e sob supervisão de um responsável médico, no âmbito dos respetivos poderes de controlo, nomeadamente com apoio e supervisão direta ou à distância (telemedicina) dos médicos coordenadores dos CODU.
 
 2 - [...]
 
-###### Artigo 11.º — Condições de recrutamento e seleção
+Artigo 11.º
+
+Condições de recrutamento e seleção
 
 1 - O recrutamento para os postos de trabalho no âmbito da carreira de TEPH, incluindo mudança de categoria, efetua-se mediante procedimento concursal, no âmbito do qual são aferidos os requisitos mínimos de aptidão física e psíquica inerentes à atividade profissional de TEPH, nos termos do artigo 18.º da [Portaria n.º 233/2022](https://diariodarepublica.pt/dr/detalhe/portaria/233-2022-200860990), de 9 de setembro.
 
@@ -176,7 +214,9 @@ c) Técnico de emergência pré-hospitalar principal.
 
 3 - A seleção para responsável de turno efetua-se mediante processo de seleção aprovado pelo conselho diretivo do INEM, I. P.
 
-###### Artigo 12.º — Remuneração
+Artigo 12.º
+
+Remuneração
 
 1 - [...]
 
@@ -186,17 +226,23 @@ c) Técnico de emergência pré-hospitalar principal.
 
 4 - É atribuído um suplemento mensal de € 100 aos responsáveis de turno.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O período experimental para ingresso na carreira especial de TEPH é de 12 meses.
 
 2 - Findo o período experimental com sucesso, os trabalhadores integrados na carreira especial de TEPH são reposicionados na segunda posição da tabela remuneratória da carreira.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A avaliação de desempenho dos TEPH rege-se por sistema de avaliação adaptado do SIADAP, a aprovar por portaria no prazo de 120 dias após a entrada em vigor do presente decreto-lei.
 
-###### Artigo 19.º-A — [...]
+Artigo 19.º-A
+
+[...]
 
 1 - Em circunstâncias excecionais e delimitadas no tempo, designadamente quando se mostre indispensável à assistência de emergência médica prestada pelo INEM, I. P., mediante autorização do membro do Governo responsável pela área da saúde, podem ser ultrapassados os limites da duração do trabalho suplementar previstos na lei dos trabalhadores do INEM, I. P., independentemente da carreira, sendo devida a remuneração pelo trabalho suplementar efetivamente prestado.
 
@@ -222,7 +268,9 @@ c) Um coordenador operacional em média por cada 25 TEPH.
 
 3 - As estruturas de coordenação regional TEPH são compostas por um coordenador geral de âmbito regional e pelos coordenadores operacionais, em cada delegação regional.
 
-###### Artigo 16.º-B — Recrutamento para as funções de coordenador geral e operacional
+Artigo 16.º-B
+
+Recrutamento para as funções de coordenador geral e operacional
 
 1 - O recrutamento para as funções de coordenador geral faz-se por procedimento concursal, de entre os profissionais das categorias de TEPH principal, dotados de competência técnica e aptidão para o exercício de funções de coordenação e controlo que reúnam, pelo menos, oito anos de experiência profissional na categoria de TEPH principal.
 
@@ -236,7 +284,9 @@ c) Um coordenador operacional em média por cada 25 TEPH.
 
 6 - Ao coordenador geral e ao coordenador regional correspondem as funções descritas no anexo iii do presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 16.º-C — Renovação da comissão de serviço dos coordenadores geral e operacional
+Artigo 16.º-C
+
+Renovação da comissão de serviço dos coordenadores geral e operacional
 
 1 - Para efeitos de eventual renovação da comissão de serviço, os coordenadores darão conhecimento do termo da respetiva comissão ao dirigente máximo do serviço ou órgão, com a antecedência mínima de 90 dias.
 
@@ -246,7 +296,9 @@ c) Um coordenador operacional em média por cada 25 TEPH.
 
 4 - Em caso de não renovação da comissão de serviço, as funções são asseguradas em regime de substituição até à designação de novo coordenador, que não poderá exceder o prazo máximo de 90 dias.
 
-###### Artigo 16.º-D — Cessação da comissão de serviço
+Artigo 16.º-D
+
+Cessação da comissão de serviço
 
 1 - A comissão de serviço dos coordenadores cessa:
 
@@ -298,9 +350,9 @@ Com a entrada em vigor do presente decreto-lei, o reposicionamento remuneratóri
 
 4 - A colocação nas categorias de TEPH avançado e TEPH principal produz efeitos a 1 de janeiro de 2026.
 
-5 - Nos procedimentos referidos nos n.<sup>os</sup>2 e 3, deve ser privilegiada a realização de formação profissional teórica.
+5 - Nos procedimentos referidos nos n.os2 e 3, deve ser privilegiada a realização de formação profissional teórica.
 
-6 - Nos casos em que os trabalhadores a que aludem os n.<sup>os</sup>2 e 3 não realizem formação teórica por motivo que não lhes seja imputável, designadamente por motivo de doença, gozo de direitos no âmbito do regime da parentalidade ou acidente em serviço, têm direito a frequentar a mesma a partir da data em que retomem funções, com vista ao posicionamento nas novas categorias, respetivamente de TEPH avançado e TEPH principal, com efeitos à data em que sejam recrutados os trabalhadores a que aludem os n.<sup>os</sup>2 e 3, salvo no que respeita à remuneração.
+6 - Nos casos em que os trabalhadores a que aludem os n.os2 e 3 não realizem formação teórica por motivo que não lhes seja imputável, designadamente por motivo de doença, gozo de direitos no âmbito do regime da parentalidade ou acidente em serviço, têm direito a frequentar a mesma a partir da data em que retomem funções, com vista ao posicionamento nas novas categorias, respetivamente de TEPH avançado e TEPH principal, com efeitos à data em que sejam recrutados os trabalhadores a que aludem os n.os2 e 3, salvo no que respeita à remuneração.
 
 ###### Artigo 8.º — Disposição transitória
 
@@ -318,15 +370,15 @@ Com a entrada em vigor do presente decreto-lei, o reposicionamento remuneratóri
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 19 de março de 2025.**
+Promulgado em 19 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de março de 2025.**
+Referendado em 20 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -362,11 +414,11 @@ Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Monte
 
 | TEPH principal | Posições remuneratórias | 1 | 2 | 3 |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TEPH principal | Níveis remuneratórios da tabela única | 21 | 22 | 23 |  |  |  |  |  |
+| Níveis remuneratórios da tabela única | 21 | 22 | 23 |  |  |  |  |  |  |
 | TEPH avançado | Posições remuneratórias | 1 | 2 | 3 | 4 | 5 |  |  |  |
-| TEPH avançado | Níveis remuneratórios da tabela única | 17 | 18 | 19 | 20 | 21 |  |  |  |
+| Níveis remuneratórios da tabela única | 17 | 18 | 19 | 20 | 21 |  |  |  |  |
 | TEPH | Posições remuneratórias | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| TEPH | Níveis remuneratórios da tabela única | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |
+| Níveis remuneratórios da tabela única | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 |  |
 
 ## ANEXO III — (a que se refere o artigo 16.º-B do [Decreto-Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2016-74163192), de 15 de abril)
 
@@ -407,3 +459,7 @@ Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Monte
 |  |  | s) Avaliação de desempenho |  |  |
 |  |  | t) Participar nas auditorias e processo da qualidade |  |  |
 |  |  | u) Todas as correspondentes ao conteúdo funcional das anteriores categorias dos TEPH |  |  |
+
+118857922
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:34px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:77px; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:29px; } .Tbl15 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { min-height:58px; } .Tbl20 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl21 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl22 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl23 { min-height:48px; } .Tbl24 { min-height:19px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { min-height:78px; } .Tbl28 { min-height:39px; } .Tbl29 { min-height:38px; } .Tbl30 { min-height:27px; } .Tbl31 { min-height:45px; } .Tbl32 { min-height:36px; } .Tbl33 { min-height:54px; } .Tbl34 { min-height:63px; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl37 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl38 { height:18px; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { text-align:left; } .Tbl41 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl42 { min-height:18px; } .Tbl43 { min-height:57px; } .Tbl44 { min-height:28px; } .Tbl45 { min-height:47px; } .Tbl46 { min-height:37px; }

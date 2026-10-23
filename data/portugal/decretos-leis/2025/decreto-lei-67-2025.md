@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07200/0000300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/67/2025/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2025-914713263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6417fb08632c7cda41c88676c5b36ddda5ca6e77f31f7c6354bc176fbaa275c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51dfd1c22f63cad4e12265cf6d8ffa78a041eb6cbd778a15aa1e57149e48f695
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Direcção Geral dos Assuntos Europeus
 - Consultor
 - Criação de Serviços
-- Secretaria Geral
-- Orgânica
-- Ministério dos Negócios Estrangeiros
-- Transferência de Competências
-- Transferência de Pessoal
-- REJURIS
 - Direção Geral de Direito Internacional e Europeu do Ministério dos Negócios Estrangeiros
 - Direção-Geral de Direito Europeu e Internacional
+- Direcção Geral dos Assuntos Europeus
+- Ministério dos Negócios Estrangeiros
+- Orgânica
+- Reestruturação de Serviços
+- REJURIS
+- Secretaria Geral
+- Transferência de Competências
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que que seja exercida pelo Ministro de Estado e dos Negócios Estrangeiros
+    a direção sobre a Direção-Geral de Direito Europeu e Internacional pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República
+    n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
+- type: amends
+  target: pt:numero:decreto-regulamentar:10/2012
+  label: Altera, a partir de 12 de abril de 2025, o artigo 2.º e o mapa anexo, e revoga a alínea f) e as subalíneas vii) e
+    viii) da alínea t) do n.º 3 do artigo 2.º, a alínea d) do artigo 5.º, os artigos 12.º e 13.º e a alínea b) do artigo 20.º
+    do Decreto Regulamentar n.º 10/2012, de 19 de janeiro, Diário da República n.º 14/2012, Série I
+  source: null
+  date: '2012-01-19'
+- type: amends
+  target: pt:numero:decreto-regulamentar:12/2012
+  label: Altera, a partir de 12 de abril de 2025, o mapa anexo e revoga a alínea c) do n.º 2 do artigo 2.º do Decreto Regulamentar
+    n.º 12/2012, de 19 de janeiro, Diário da República n.º 14/2012, Série I
+  source: null
+  date: '2012-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2010/03/19/p/dre
   label: null
@@ -122,16 +142,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114561767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162940683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890194535:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:121/2011
+  label: Revoga, a partiir de 12 de abril de 2025, a alínea f) e as subalíneas vii) e viii) da alínea n) do n.º 2, a alínea
+    c) do n.º 4 e a alínea c) do n.º 5 do artigo 8.º e a alínea b) do n.º 2 do artigo 11.º do Decreto-Lei n.º 121/2011, de
+    29 de dezembro, Diário da República n.º 249/2011, Série I
+  source: null
+  date: '2011-12-29'
 article_structure:
   article_count: 33
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:50Z'
   warnings: []
   errors: []
 ---
@@ -320,7 +395,9 @@ Podem ser atribuídos prémios individuais aos dirigentes e trabalhadores da DGD
 
 A DGDEI pode, a título excecional e devidamente fundamentado, proceder à contratação de serviços jurídicos no estrangeiro, quando necessário para assegurar a defesa do MNE ou do Estado português junto de ordem jurídica estrangeira, europeia ou internacional.
 
-### CAPÍTULO III — SECÇÃO DE DIREITO EUROPEU E DE DIREITO INTERNACIONAL
+### CAPÍTULO III
+
+#### SECÇÃO DE DIREITO EUROPEU E DE DIREITO INTERNACIONAL
 
 ###### Artigo 12.º — Natureza e composição
 
@@ -562,15 +639,15 @@ c) A alínea c) do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 12/2012](
 
 Visto e aprovado em Conselho de Ministros de 7 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro.
 
-**Promulgado em 1 de abril de 2025.**
+Promulgado em 1 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MARCELO REBELO DE SOUSA.**
+O Presidente da República, MARCELO REBELO DE SOUSA.
 
-**Referendado em 4 de abril de 2025.**
+Referendado em 4 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 6.º)
 
@@ -610,3 +687,7 @@ Mapa de pessoal dirigente
 | Subdiretor-geral | Direção superior | 2.º | 2 |  |
 | Diretor do CIEJD | Direção intermédia | 1.º | 1 |  |
 | Diretor de serviços | Direção intermédia | 1.º | 7 | » |
+
+118925581
+
+.Tbl1 { border-collapse:collapse; border-width:1px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl10 { min-height:18px; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:bottom; }

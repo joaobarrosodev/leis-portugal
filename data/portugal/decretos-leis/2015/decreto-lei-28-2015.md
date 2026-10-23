@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2015/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5f6950ea1a010c96cba280daf52f5a3876b274b45dd8196eb0ba9cbd7ba1e86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f81cd443b56d44693ab741c6489f0832bd01999b61f7384d5dbe34dd7a2064f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Caixa Geral de Aposentações
-- Ministério das Finanças
 - Conselho Diretivo
+- Definição de Competências
 - Integração de Serviços
 - Ministério da Solidariedade Emprego e Segurança Social
+- Ministério das Finanças
 - Orgânica
 - Quadro de Pessoal
 - Tutela
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178503:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:24Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +190,9 @@ Os artigos 1.º, 5.º, 6.º, 9.º, 10.º e 12.º do [Decreto-Lei n.º 131/2012](
 
 2 - A CGA, I. P., prossegue atribuições do Ministério da Solidariedade, Emprego e Segurança Social, sob superintendência e tutela do respetivo Ministro, e, nas matérias objeto de negociação coletiva ou de participação dos trabalhadores da Administração Pública, através das suas associações sindicais, e na elaboração de legislação com incidência orçamental, sob superintendência e tutela conjunta dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças e Administração Pública.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -184,7 +202,9 @@ Os artigos 1.º, 5.º, 6.º, 9.º, 10.º e 12.º do [Decreto-Lei n.º 131/2012](
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -198,7 +218,9 @@ d) Prestar, obrigatoriamente, ao membro do Governo responsável pela área da so
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -228,13 +250,17 @@ h) [Anterior alínea g)].
 
 6 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
 2 - As modalidades e as condições de prestação dos meios e serviços a que se refere o número anterior são objeto de convenção a celebrar entre a CGA, I. P., e a CGD, sujeita a homologação dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O orçamento anual, acompanhado do parecer do fiscal único, é submetido à aprovação do membro do Governo responsável pela área da solidariedade, emprego e segurança social.
 
@@ -286,15 +312,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e repor
 
 Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 29 de janeiro de 2015.**
+Promulgado em 29 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de fevereiro de 2015.**
+Referendado em 5 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -304,9 +330,11 @@ Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2014. - Pedro Pas
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf)
 
-## ANEXO II — (a que se refere o artigo 5.º)
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 «ANEXO II
 
@@ -314,4 +342,4 @@ Dirigentes de organismos da administração indireta
 
 Dirigentes de organismos da administração indireta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf))](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/02/02800/0079400796.pdf)

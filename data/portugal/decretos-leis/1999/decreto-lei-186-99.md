@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/126a00/31073109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/1999/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-1999-316563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18417006626d926b7f9244fa03571c0da31c253f152212e8509234bec2abb227
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 690b4b764978949518d2491cc3ef1e985493af983b2826abed4d094f9956cf3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,52 +67,71 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
+- Combustível
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
 - Direcção Geral de Economia
-- Produto Petrolífero
-- Política de Saúde
-- Combustível
+- Embalagem
 - Fiscalização
-- Ministério da Economia
 - Gasóleo
 - Gasolina
 - Gasolina com Aditivo
-- Inspecção Geral das Actividades Económicas
 - Informação
-- Veículo
-- Embalagem
-- Proteção do Ambiente
+- Informação do Consumidor
+- Inspecção Geral das Actividades Económicas
+- Ministério da Economia
 - Pessoa Coletiva
 - Pessoa Singular
 - Política Comunitária
-- Informação do Consumidor
+- Política de Saúde
+- Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
+- Proteção do Ambiente
 - Proteção do Consumidor
 - Receita Fiscal
-- Posto de Abastecimento de Combustíveis
 - Responsabilidade Civil
 - Sanção
-- Comércio
+- Veículo
 - Venda
 relationships:
 - type: amended_by
   target: pt:dre:448966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:957152:por
+  label: "Dado por findo o período referido no n.º 1 do art. 4.º e mantido o referido na al. b) do n.º 1 do art. 3.º do presente\
+    \ diploma, pelo DESP.7043/2005(2ªSérie).24.02.2005.SEDE-MAET, DR.IIS [67] de 06.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/7043-2005-957152
+  date: '2005-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448966:por
+  label: "Revogado pelo DEC LEI.89/2008.30.05.2008.MEI, DR.IS [104] de 30.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-2008-448966
+  date: '2008-05-30'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:20Z'
   warnings: []
   errors: []
 ---
@@ -239,12 +258,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Vítor Manuel Sampaio Caetano Ramalho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 20 de Maio de 1999.**
+Promulgado em 20 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 1999.**
+Referendado em 25 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

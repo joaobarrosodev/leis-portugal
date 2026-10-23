@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1987, 5º Suplemento, Série I de 1987-12-23
   number: '294'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4392-(47) a 4392-(47)
   pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29405/00470047.pdf
 entry_into_force_dates: []
@@ -47,36 +47,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-1987-305430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:01:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3257fe6d3c09869517971b2d718525c2b53aa464b72e02e13982394d37cfb1b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11e395736fcf1cdfb70e1f8121454bb7f7581c4344ab131e6024fc0fe9df69aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:01:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:01:45Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +86,16 @@ validation:
 
 de 23 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea e), da Constituição, o seguinte:
 
 A pena de multa aplicada a Óscar Aníbal Judicis Perez, de 34 anos de idade, no processo n.º 150/86 da 2.ª Secção do 2.º Juízo Criminal do Tribunal Criminal da Comarca de Lisboa, é revogada por indulto.
 
-**Assinado em 22 de Dezembro de 1987.**
+Assinado em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Dezembro de 1987.**
+Referendado em 23 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

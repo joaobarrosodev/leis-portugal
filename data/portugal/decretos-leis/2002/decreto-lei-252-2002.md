@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/270a00/73317332.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/252/2002/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2002-448748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91a4fd12e7daf465459ef4d4a45ab804cd7d7005babde9584a3fe92bd2f12d4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 061ad82bb31637b3c39f7daed1c092107fa35a3c86151b45020529b13b27fd6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Comissão Nacional para as Comemorações dos Descobrimentos Portugueses
 - Definição de Competências
 - Extinção de Serviços
-- Secretaria Geral
 - Ministério da Cultura
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
+- Secretaria Geral
 - Transferência Patrimonial
 relationships:
+- type: amended_by
+  target: pt:dre:3169991:por
+  label: "Prorrogado, até 7 de Março de 2003, o prazo previsto no nº 2 do art. 4º, pelo DC.150/2003.2003.01.24.PCM, DR.IIS\
+    \ [37] de 13/Fev/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/150-2003-3169991
+  date: '2003-01-24'
+- type: amended_by
+  target: pt:dre:3669452:por
+  label: "Prorrogado, até 30 de Abril de 2003, o prazo previsto no nº 2 do art. 4º, pelo DC.311/2003.2003.03.07.PCM, DR.IIS\
+    \ [81] de 05/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/311-2003-3669452
+  date: '2003-03-07'
+- type: amended_by
+  target: pt:dre:2661378:por
+  label: "Prorrogado, até 31 de Agosto de 2003, o prazo previsto no nº 2 do art. 4º, pelo DC.672/2003.2003.04.30.PCM, DR.IIS\
+    \ [148] de 30/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/672-2003-2661378
+  date: '2003-04-30'
+- type: amended_by
+  target: pt:dre:2776574:por
+  label: "Prorrogado até 31 de Dezembro de 2003 o prazo previsto no n.º 2 do art. 4.º do presente diploma, pelo DC.900/2003.2003.08.21.PCM\
+    \ DR.IIS [213] DE 15/SET/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/900-2003-2776574
+  date: '2003-08-21'
+- type: amended_by
+  target: pt:dre:3376576:por
+  label: "Prorrogado até 31 de Dezembro de 2004 o prazo previsto no nº 2 do art. 4º pelo DC.92/2004.22.12.2003.PCM, DR.IIS\
+    \ [42] de 19.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/92-2004-3376576
+  date: '2003-12-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/1995/05/20/p/dre
   label: null
@@ -91,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:221497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681591:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:03Z'
   warnings: []
   errors: []
 ---
@@ -161,12 +223,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Nuno Albuquerque Morais Sarmento - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 13 de Novembro de 2002.**
+Promulgado em 13 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Novembro de 2002.**
+Referendado em 14 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

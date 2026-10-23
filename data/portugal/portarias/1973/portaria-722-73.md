@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1973-412388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7e2b0f5ab6d1f6b2498802dff19b77f86296a25d17a43f8590f6a6a60d4a023
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f927b7e218faf0f1e090f2d1c611cce75814b9db42315a6490ad65c87068ee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:421868:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:27Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 1.º É fixado o número de unidades por cargo do pessoal da Repartição Provincial dos Serviços de Geologia e Minas da Guiné, previsto no mapa I anexo ao [Decreto n.º 368/73](https://diariodarepublica.pt/dr/detalhe/decreto/368-1973-421868), de 21 de Julho, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24500/18971898.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24500/18971898.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24500/18971898.pdf)
 
 2.º Esta portaria entra imediatamente em vigor.
 

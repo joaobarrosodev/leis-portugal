@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/25200/0644906451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/191/2014/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-2014-66012653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4bd3aa6d65a0925946b3066d6c76d287477f7cf248acfede51b3d9070e43cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a8d606049143f93fafe43af0f8eb5cf63661daae97628b605162b468645d632
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
+- Apoio ao Investimento
+- Benefícios Fiscais
+- CIC Portugal 2020
 - Contrapartida
 - Contrato de Investimento
 - Empresa Pública
-- Apoio ao Investimento
 - Homologação
 - Investimento
 - Regime Jurídico
-- Benefícios Fiscais
-- CIC Portugal 2020
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/229/2012/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/229/2012/10/26/p/dre
+- type: cites
+  target: pt:dre:192440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:52Z'
   warnings: []
   errors: []
 ---
@@ -261,12 +281,12 @@ As remissões constantes de diplomas legais para o [Decreto-Lei n.º 203/2003](h
 
 Visto e aprovado em Conselho de Ministros de 20 de novembro de 2014. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 22 de dezembro de 2014.**
+Promulgado em 22 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de dezembro de 2014.**
+Referendado em 26 de dezembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

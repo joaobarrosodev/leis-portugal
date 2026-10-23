@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/2005/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2005-583781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bfd348b518e0551cd3a900bc8023b017691de8216a288d166b6afe45867a424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2032b5823c18bb8727c3d598b7b383a44d724f3d2a8d48b347c578cb0414460d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
 - Análise Laboratorial
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
 - Especificação Técnica
 - Higiene Alimentar
+- Produto Alimentar
+- Produto Químico
 - Proteção do Consumidor
 relationships:
 - type: cites
@@ -107,13 +107,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:14Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +156,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Métodos de colheita de amostras para controlo oficial do teor de benzo(a)pireno nos géneros alimentícios
 
@@ -214,7 +214,7 @@ QUADRO N.º 1
 
 Número mínimo de amostras elementares a colher do lote
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
 
 Caso o lote seja constituído por embalagens individuais, o número de embalagens a colher para formar a amostra global é o que consta do quadro n.º 2.
 
@@ -222,7 +222,7 @@ QUADRO N.º 2
 
 Número de embalagens (amostras elementares) a colher para formar a amostra global caso o lote consista em embalagens individuais.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
 
 4.2 - Colheita de amostras na venda a retalho. - A colheita de amostras dos géneros alimentícios na fase da venda a retalho deve fazer-se, sempre que possível, em conformidade com as disposições aplicáveis à colheita de amostras acima descritas. Quando isto não for possível, podem usar-se outros métodos eficazes utilizados nessa fase, sempre que assegurem uma representatividade suficiente para o lote amostrado.
 
@@ -256,13 +256,13 @@ r - repetibilidade, valor abaixo do qual se pode esperar que a diferença absolu
 
 s(índice r) - desvio padrão calculado a partir dos resultados obtidos em condições de repetibilidade;
 
-RSD(índice r) - desvio padrão relativo calculado a partir dos resultados obtidos em condições de repetibilidade [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf), fórmula na qual (ver símbolo no documento original) representa a média dos resultados de todos os laboratórios e amostras;
+RSD(índice r) - desvio padrão relativo calculado a partir dos resultados obtidos em condições de repetibilidade [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf), fórmula na qual (ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf) representa a média dos resultados de todos os laboratórios e amostras;
 
 R - reprodutibilidade, valor abaixo do qual se pode esperar que a diferença absoluta entre os resultados de testes individuais obtidos em condições de reprodutibilidade (isto é, com um material idêntico obtido pelos operadores de vários laboratórios que utilizem o método de ensaio normalizado) se situe dentro de um certo limite de probabilidade (em princípio 95%); R = 2,8 x s(índice R);
 
 s(índice R) - desvio padrão calculado a partir dos resultados obtidos em condições de reprodutibilidade;
 
-RSD(índice R) - desvio padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf), fórmula na qual (ver símbolo no documento original) representa a média dos resultados de todos os laboratórios e amostras;
+RSD(índice R) - desvio padrão relativo, calculado a partir dos resultados obtidos em condições de reprodutibilidade [[[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf), fórmula na qual (ver símbolo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf) representa a média dos resultados de todos os laboratórios e amostras;
 
 HORRAT(índice r) - o valor observado de RSD(índice r) dividido pelo valor de RSD(índice r) estimado a partir da equação de Horwitz assumindo que r = 0,66R;
 
@@ -278,7 +278,7 @@ QUADRO
 
 Critérios de desempenho para os métodos de análise do benzo(a)pireno
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)](https://files.diariodarepublica.pt/1s/2005/11/212a00/63106313.pdf)
 
 4.3.1 - Critérios de desempenho - abordagem da função de incerteza. - A adequabilidade do método de análise a utilizar pelo laboratório pode, igualmente, ser avaliada através de uma abordagem assente na incerteza. O laboratório deve utilizar um método que produza resultados até uma incerteza padrão máxima. A incerteza padrão máxima pode ser calculada por meio da fórmula seguinte:
 

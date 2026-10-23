@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 47/1997, 1º Suplemento, Série I-A de 1997-02-25
   number: '47'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 858-(2) a 858-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/047a01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47-a/1997/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-a-1997-329381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c4a35aae7091fded455cf4d2e5eb987b13c625f236ba10e7aa62ddfb750b912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99e4b37eab2ca477698adb0ae201e3875a310da7d786dd6e939afac07cfb1d45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Educação
 - Gabinete de Gestão Financeira
+- Ministério da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -79,16 +79,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
+- type: repeals
+  target: pt:dre:665342:por
+  label: "Revoga as als. a) e b) do nº 1 do artº 6º do Dec-Lei 133/93, de 26-Abr DR.IS-A [97]\0\0"
+  source: null
+  date: '1993-04-26'
 article_structure:
   article_count: 24
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:18Z'
   warnings: []
   errors: []
 ---
@@ -253,7 +267,9 @@ a) A Divisão de Dotações Comuns de Pessoal;
 
 b) A Divisão de Orçamento Individualizado das Escolas.
 
-###### Artigo 11.º — Divisão de Dotações Comuns de Pessoal
+###### Artigo 11.º
+
+##### Divisão de Dotações Comuns de Pessoal
 
 À Divisão de Dotações Comuns de Pessoal compete:
 
@@ -267,7 +283,9 @@ d) Ao nível do ensino não superior, prestar apoio informativo no âmbito dos a
 
 e) Prestar informação de cabimento nos processos de pessoal docente e não docente a exercer nos estabelecimentos de ensino não superior.
 
-###### Artigo 12.º — Divisão de Orçamento Individualizado das Escolas
+###### Artigo 12.º
+
+##### Divisão de Orçamento Individualizado das Escolas
 
 À Divisão de Orçamento Individualizado das Escolas compete:
 
@@ -295,7 +313,9 @@ a) A Divisão de Investimentos;
 
 b) A Divisão de Análise dos Custos da Educação.
 
-###### Artigo 14.º — Divisão de Investimentos
+###### Artigo 14.º
+
+##### Divisão de Investimentos
 
 À Divisão de Investimentos compete:
 
@@ -307,7 +327,9 @@ c) Acompanhar a execução material e financeira do PIDDAC do Ministério da Edu
 
 d) Analisar os custos do sistema educativo, elaborando estudos, relatórios e indicadores financeiros que permitam caracterizar a evolução do sistema.
 
-###### Artigo 15.º — Divisão de Análise dos Custos da Educação
+###### Artigo 15.º
+
+##### Divisão de Análise dos Custos da Educação
 
 À Divisão de Análise dos Custos da Educação compete:
 
@@ -317,9 +339,13 @@ b) Coordenar, em coordenação com o Departamento de Avaliação, Prospectiva e 
 
 c) Preparar, em colaboração com o Departamento de Avaliação, Prospectiva e Planeamento, o relatório anual de actividades do Ministério, em colaboração com os restantes serviços deste.
 
-##### SUBSECÇÃO IV — Divisão de Apoio Informático
+##### SUBSECÇÃO IV
 
-###### Artigo 16.º — Divisão de Apoio Informático
+##### Divisão de Apoio Informático
+
+###### Artigo 16.º
+
+##### Divisão de Apoio Informático
 
 Compete à Divisão de Apoio Informático:
 
@@ -341,7 +367,9 @@ a) A Secção de Pessoal e Expediente Geral;
 
 b) A Secção Financeira.
 
-###### Artigo 18.º — Secção de Pessoal e Expediente Geral
+###### Artigo 18.º
+
+#### Secção de Pessoal e Expediente Geral
 
 À Secção de Pessoal e Expediente Geral compete:
 
@@ -349,7 +377,9 @@ a) Executar todos os procedimentos administrativos relativos à gestão de pesso
 
 b) Assegurar os serviços de expediente geral e de economato e organizar e manter o arquivo do GEF.
 
-###### Artigo 19.º — Secção Financeira
+###### Artigo 19.º
+
+#### Secção Financeira
 
 À Secção Financeira compete:
 
@@ -405,14 +435,14 @@ São revogadas as alíneas a) e b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Fevereiro de 1997.**
+Promulgado em 14 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1997.**
+Referendado em 18 de Fevereiro de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/047a01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1997/02/047a01/00020005.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/047a01/00020005.pdf)

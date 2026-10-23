@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2011-670023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69fa939fef23e4efa91c2bf730b42e15439e41d9ebfa2de7ae49d4dc8fa985c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a13e19768d0e5cd1ee5660e5547e5928bacb2aebacb83e5e9c74b9445e523d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Agricultura
 - Aproximação das Legislações
-- Direção Geral da Agricultura e Desenvolvimento Rural
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
+- Direção Geral da Agricultura e Desenvolvimento Rural
 - Fiscalização
 - Licenciamento
-- Resíduo
-- Proteção do Ambiente
-- Produto Fitofarmacêutico
-- Agricultura
 - Limite Máximo de Resíduos
+- Produto Fitofarmacêutico
+- Produto Químico
+- Proteção do Ambiente
+- Resíduo
+- Saúde Pública
 - Substância Perigosa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:543004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543004:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-abr, na redacção do presente diploma, pelo DEC LEI.37/2012.16.02.2012.MAMAOT,\
+    \ DR.IS [34] de 16.02.2012, de acordo com o respectivo anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2012-543004
+  date: '2012-02-16'
 - type: cites
   target: celex:31991L0414
   label: null
@@ -145,13 +151,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:55Z'
   warnings: []
   errors: []
 ---
@@ -234,15 +240,15 @@ Sem prejuízo das revisões de autorizações previstas nos artigos 4.º e 5.º,
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - José António Fonseca Vieira da Silva - Luís Medeiros Vieira - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 3 de Junho de 2011.**
+Promulgado em 3 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Junho de 2011.**
+Referendado em 6 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -250,4 +256,4 @@ Visto e aprovado em Conselho de Ministros de 21 de Abril de 2011. - José Sócra
 
 Substâncias activas inscritas na Lista Positiva Comunitária cuja utilização em produtos fitofarmacêuticos é autorizada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11700/0346303483.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11700/0346303483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11700/0346303483.pdf)

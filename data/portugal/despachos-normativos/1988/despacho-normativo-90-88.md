@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/90-1988-354170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db752722130075fc7c6651b453af037d271602469ec917bc5ea5566fb41e43c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 905154f1ce99655dc33d991cbdbe0b50e1c03d054ed61ba2aa90f54edb8dab37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indústria Hoteleira
+- Promoção Turística
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665700:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:519074:por
+  label: Rectificado pela DECL.DD4079.1988.11.14.PCM DR.IS [277]4.ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519074
+  date: '1988-11-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:21Z'
   warnings: []
   errors: []
 ---

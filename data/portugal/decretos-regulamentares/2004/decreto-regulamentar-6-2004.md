@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/098b00/25712586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/6/2004/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2004-222820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6144ecc933e7a779a3dd25bdde05e9c078a36e0072dbbdfd2436635ef82dd8b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed3f563f9fa512f4f0f13c86be8f5790e1787eb98c9b821b915abd143f392fbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Família
-- Nacionalidade
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Boletim de Alojamento
-- Instituto do Emprego e Formação Profissional
 - Circulação de Pessoas
 - Convenção
 - Definição de Competências
 - Estudante
 - Expulsão de Estrangeiros
+- Família
 - Imigrante
-- Menoridade
 - Inspecção Geral do Trabalho
-- Serviço de Estrangeiros e Fronteiras
+- Instituto do Emprego e Formação Profissional
+- Menoridade
+- Nacionalidade
 - Países Terceiros
 - Passaporte
+- Residência de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
 - Trabalhador Migrante
 - Transporte de Passageiros
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:201699171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635814:por
+  label: "Mantido em vigor, até revogação expressa, pela LEI.23/2007.04.07.2007.AR, DR.IS [127] de 04.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
   label: null
@@ -123,16 +128,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1025/1999/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1025/1999/11/22/p/dre
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643566:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629434:por
+  label: "Revogado, a partir de 10.11.2007, pelo DR.84/2007.05.11.2007.MAI, DR.IS [212] de 05.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/84-2007-629434
+  date: '2007-11-05'
 article_structure:
   article_count: 74
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:06Z'
   warnings: []
   errors: []
 ---
@@ -1023,12 +1065,12 @@ O tratamento de dados pessoais que decorra do disposto no presente diploma deve 
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - António José de Castro Bagão Félix.
 
-**Promulgado em 12 de Março de 2004.**
+Promulgado em 12 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

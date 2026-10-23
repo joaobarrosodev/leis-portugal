@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/006a00/01130119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e4f7b58226ba83f422d32bfc9253d48fd612bcb72b3c297df9ecc80e22a6771
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d3f0cb6b7c4806a01f5a28a6596d0583ee5d7e863d100a4a8eb71725f23d727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Ensino não Superior
-- Formação Profissional
 - Ensino Profissional
 - Escola Profissional
+- Financiamento
+- Formação Profissional
 - FSE
 - Pessoal Docente
 - Qualificação Profissional
@@ -79,6 +79,17 @@ relationships:
   target: pt:dre:25676935:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667338:por
+  label: "Alterado o art. 26.º pelo presente diploma, pelo DEC LEI.54/2006.15.03.2006.MFAP, DR.IS-A [53] de 15.03.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2006-667338
+  date: '2006-03-15'
+- type: amended_by
+  target: pt:dre:179777:por
+  label: "Alterados os art.s 1º, 13º e 14º e aditados os art.s 14º-A, 14º-B e 14º-C, pelo DEC LEI.150/2012.12.07.2012.MEE,\
+    \ DR.IS [134] de 12.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2012-179777
+  date: '2012-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
   label: null
@@ -87,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/782/1997/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/782/1997/08/29/p/dre
+- type: cites
+  target: pt:dre:197297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogados, de acordo com o calendário de produção de efeitos fixado no art. 18.º, os arts. 6.º, 7.º e 8.º, pelo\
+    \ DEC LEI.74/2004.26.03.2004.ME, DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
+- type: repealed_by
+  target: pt:dre:25676935:por
+  label: "Revoga, a partir de 23.06.2014, o presente diploma, na redação dos Decs Leis 74/2004, de 26-mar, 54/2006, de 15-mar,\
+    \ e 150/2012, de 12-jul, pelo DEC LEI.92/2014.20.06.2014.MECI, DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2014-25676935
+  date: '2014-06-20'
 article_structure:
   article_count: 33
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:23Z'
   warnings: []
   errors: []
 ---
@@ -525,12 +564,12 @@ Ao que não se encontrar expressamente regulado no presente diploma relativament
 
 Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1997. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Eduardo Carrega Marçal Grilo - Maria João Fernandes Rodrigues.
 
-**Promulgado em 19 de Dezembro de 1997.**
+Promulgado em 19 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 1997.**
+Referendado em 23 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

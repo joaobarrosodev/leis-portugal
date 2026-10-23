@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15300/0539805399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2008-455153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9093afa7d643850dc19fd6c5b537423ad7c74a5317993b6ffeb1b889411880a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1ce495472998a62c9d9b5eed8593d56935a14f53e8d7b5d1f21957223d8df33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,14 @@ relationships:
   target: pt:dre:543908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543908:por
+  label: "Determinada a sucessão pela Direção-Geral de Planeamento e Gestão Financeira do Ministério da Educação e Ciência\
+    \ das atribuições, no domínio do planeamento estratégico operacional, do ex-Gabinete de Estatística e Planeamento da Educação,\
+    \ constantes do DR 25/2007 de 29-mar, alterado pelo presente diploma, que é revogado, a partir de 01.02.2012, pelo DR.19/2012.31.01.2012.MECI,\
+    \ DR.IS [22] de 31.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2012-543908
+  date: '2012-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -94,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/137/2007/09/18/p/dre
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:55Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +168,9 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º — Alteração ao [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março
+Artigo 1.º
+
+Alteração ao [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março
 
 1 - Os artigos 2.º, 3.º e 4.º do [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março, passam a ter a seguinte redacção:
 
@@ -180,40 +210,52 @@ n) Coordenar o exercício das competências e atribuições do Ministério da Ed
 
 3 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O GEPE é dirigido por um director-geral, coadjuvado por dois directores-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - Aos directores-adjuntos compete substituir o director-geral nas suas faltas e impedimentos e exercer as competências que lhes sejam por este delegadas ou subdelegadas.»
 
-###### Artigo 2.º — Alteração do anexo ao [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março
+Artigo 2.º
+
+Alteração do anexo ao [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março
 
 O anexo ao [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março, passa a ter a seguinte redacção:
 
-## ANEXO — (mapa a que se refere o artigo 8.º)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0539805399.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0539805399.pdf)
+(mapa a que se refere o artigo 8.º)
 
-###### Artigo 3.º — Norma revogatória
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0539805399.pdf)
+
+Artigo 3.º
+
+Norma revogatória
 
 É revogado o n.º 3 do artigo 2.º do [Decreto Regulamentar n.º 25/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453), de 29 de Março.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 25 de Julho de 2008.**
+Promulgado em 25 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Julho de 2008.**
+Referendado em 29 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

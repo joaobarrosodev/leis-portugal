@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1981-391073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35e0aecc753af4e6d728cea62791680c373c0dbd0185e82fa3b17a315fdc2f82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 108cb7594af7407b5c3523cfe3885be568ea434c9241b8dea8cdc5b6b45ab070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Investigação Científica e Tecnológica
+- Investigador
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Ministério da Indústria e Energia
 relationships:
 - type: amended_by
   target: pt:dre:226629:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660531:por
+  label: "Alterada a redacção do art. 28º, pelo DR.7/84.1984.02.06.PCM, DR.IS [31]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1984-660531
+  date: '1984-02-06'
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287589:por
+  label: "Revogado pelo DEC LEI.68/88.03.03.1988.MPLAT, DR.IS [52] de 03.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1988-287589
+  date: '1988-03-03'
+- type: repealed_by
+  target: pt:dre:226629:por
+  label: "Revogado pelo DEC LEI.219/92.15.10.1992.MPLAT, DR.IS-A [238] de 15.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1992-226629
+  date: '1992-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:39Z'
   warnings: []
   errors: []
 ---
@@ -463,16 +498,16 @@ Laboratório Nacional de Engenharia e Tecnologia Industrial.
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Carlos Martins Robalo.
 
-**Promulgado em 7 de Fevereiro de 1981.**
+Promulgado em 7 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela anexa a que se refere o n.º 1 do artigo 25.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf)
 
 Tabela a que se refere o n.º 2 do artigo 30.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04300/04610467.pdf)

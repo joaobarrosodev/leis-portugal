@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1984-654545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0cbe339c60e8f6b4e2ed0664b779159f47a3bd0b2421999cf3c1ada9f4a65d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f656b0102355202eb7b399c56382e4b73fc9ef9a246e30b217e5e424cc562312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+relationships:
+- type: cites
+  target: pt:dre:401315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:08Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +106,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O imposto extraordinário sobre lucros, mantido pelo artigo 31.º do [Decreto-Lei n.º 69/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1984-661374), de 27 de Fevereiro, e incidente sobre os rendimentos colectáveis do ano de 1983, reger-se-á pelas disposições do [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho, com as alterações introduzidas pelo artigo seguinte
+Artigo 1.º O imposto extraordinário sobre lucros, mantido pelo artigo 31.º do [Decreto-Lei n.º 69/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1984-661374), de 27 de Fevereiro, e incidente sobre os rendimentos colectáveis do ano de 1983, reger-se-á pelas disposições do [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho, com as alterações introduzidas pelo artigo seguinte
 
-###### Art. 2.º Os artigos 1.º, 5.º, 7.º, 12.º e 15.º do [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 1.º, 5.º, 7.º, 12.º e 15.º do [Decreto Regulamentar n.º 66/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1983-453227), de 13 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O imposto extraordinário sobre lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, incide sobre os rendimentos colectáveis relativos ao ano de 1983 sujeitos a contribuição industrial, acrescidos das deduções efectuadas por investimentos, reinvestimentos e incentivos à exportação.
+Artigo 1.º O imposto extraordinário sobre lucros, criado pelo artigo 33.º do [Decreto-Lei n.º 119-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-1983-401315), de 28 de Fevereiro, incide sobre os rendimentos colectáveis relativos ao ano de 1983 sujeitos a contribuição industrial, acrescidos das deduções efectuadas por investimentos, reinvestimentos e incentivos à exportação.
 
-###### Art. 5.º - 1 - A determinação da matéria colectável incumbe ao chefe da repartição de finanças competente para a liquidação da contribuição industrial, excepto tratando-se da que serve de base à liquidação do imposto nos termos da primeira parte da alínea a) e da alínea d) do artigo 7.º, cuja determinação incumbirá ao contribuinte.
+Art. 5.º - 1 - A determinação da matéria colectável incumbe ao chefe da repartição de finanças competente para a liquidação da contribuição industrial, excepto tratando-se da que serve de base à liquidação do imposto nos termos da primeira parte da alínea a) e da alínea d) do artigo 7.º, cuja determinação incumbirá ao contribuinte.
 
 2 - Salvo no caso previsto na alínea c) do artigo 7.º, os contribuintes do grupo A da contribuição industrial deverão apresentar, nos prazos legalmente estabelecidos para a entrega da declaração modelo n.º 2 daquela contribuição, uma declaração do modelo anexo a este diploma, preenchida em triplicado, servindo um exemplar de recibo.
 
 3 - A determinação da matéria colectável pelo chefe da repartição de finanças será levada a efeito nos processos a que alude o artigo 99.º do Código da Contribuição Industrial e dentro dos prazos estabelecidos para a determinação da matéria colectável desta última contribuição, sendo aplicáveis, tratando-se de contribuintes pertencentes aos grupos B ou C dessa contribuição, os artigos 69.º, 70.º, 71.º, 72.º e 75.º daquele Código.
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 a) Tratando-se de contribuintes do grupo A da contribuição industrial, pelo próprio contribuinte, na declaração a que alude a parte final do n.º 2 do artigo 5.º, quando apresentada nos prazos referidos na alínea a) do artigo 84.º do Código da Contribuição Industrial, ou pela repartição de finanças em que deve ser apresentada aquela declaração, nos restantes casos;
 
@@ -117,9 +130,9 @@ d) Tratando-se de contribuintes do grupo A que cessem totalmente a actividade e 
 
 e) Na falta de apresentação da declaração pelos contribuintes a que se referem as alíneas a) e d) até ao termo do último dos prazos nelas referidos, a liquidação do imposto será efectuada até 20 de Julho de 1984 e terá por base a totalidade da matéria colectável da contribuição industrial determinada ou que seria de determinar nos termos do n.º 2 da alínea a) do artigo 85.º do Código da Contribuição Industrial, acrescida das deduções referidas no artigo 1.º do presente diploma, salvo se o contribuinte tiver efectuado a autoliquidação da contribuição industrial respeitante a 1983, nos termos do n.º 1.º da mesma alínea, caso em que a liquidação do imposto terá por base os elementos nos quais se baseou aquela autoliquidação.
 
-###### Art. 12.º Só poderá ser liquidado imposto até 31 de Dezembro de 1988.
+Art. 12.º Só poderá ser liquidado imposto até 31 de Dezembro de 1988.
 
-###### Art. 15.º - 1 - ...
+Art. 15.º - 1 - ...
 
 a) No caso da liquidação a que se referem a primeira parte da alínea a) e a alínea d) do artigo 7.º, no dia da apresentação da declaração referida nesse preceito, mediante conhecimento de cobrança modelo n.º 10 a que se refere o Código da Contribuição Industrial, devidamente adaptado e processado em triplicado pelos contribuintes;
 
@@ -131,16 +144,16 @@ d) ...
 
 e) ...
 
-###### Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 
-**Promulgado em 27 de Março de 1984.**
+Promulgado em 27 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 28 de Março de 1984.**
+Referendado em 28 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

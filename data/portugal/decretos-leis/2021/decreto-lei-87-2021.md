@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20400/0000500018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2021/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2021-173109815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3dcf7bc48d63d73efd846041e70b3c2e9704b570cc1418f1b6c7cbfeaaf32e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6734598e3aee6d705dfcaab527382631fce8af87a15a35f49153730ed8ca1f36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeronave com Motor
-- Região Autónoma
+- Agência Europeia para a Segurança da Aviação
+- ASAE
+- Autoridade Nacional da Aviação Civil
 - Autoridade Tributária e Aduaneira
-- Multa
+- Aviação Civil
+- Aviação Civil Internacional
 - Contra-ordenação
+- Contraordenação Económica
 - Correio Electrónico
 - Definição de Competências
-- Aviação Civil Internacional
-- União Europeia
+- Drone
 - Fiscalização
+- Governo Electrónico
 - Grupo de Trabalho
-- ASAE
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Multa
 - Notificação
-- Governo Electrónico
-- Aviação Civil
+- Região Autónoma
 - Regulamento CE
 - Responsabilidade Civil
 - Responsabilidade Criminal
 - Sanção
-- Autoridade Nacional da Aviação Civil
-- Drone
-- Agência Europeia para a Segurança da Aviação
-- Contraordenação Económica
+- União Europeia
 relationships:
 - type: cites
   target: celex:31991R3922
@@ -191,16 +191,52 @@ relationships:
   target: eli:http://data.europa.eu/eli
   label: null
   source: http://data.europa.eu/eli
+- type: cites
+  target: pt:dre:115740753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:46Z'
   warnings: []
   errors: []
 ---
@@ -643,12 +679,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de setembro de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Francisco Gonçalo Nunes André - João Nuno Marques de Carvalho Mendes - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - João Saldanha de Azevedo Galamba - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 14 de outubro de 2021.**
+Promulgado em 14 de outubro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de outubro de 2021.**
+Referendado em 18 de outubro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114657286

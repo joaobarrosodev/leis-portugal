@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 216/1992, 1º Suplemento, Série I-A de 1992-09-18
   number: '216'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4470-(2) a 4470-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/09/216a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/23/1992/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/23-1992-682607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d72f74f2b0be95d3f3538a87177da258ce7b0538d202e681817b8f54648484c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcd3b0a533405358b5c36c1764ad2585de279a80fdf983b4516df9a34bc04ea7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exoneração
 - Chefe do Estado Maior do Exército
+- Exoneração
 - Forças Armadas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:27Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,16 @@ validation:
 
 de 18 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 136.º, alínea p), da Constituição, o seguinte:
 
 É exonerado, a seu pedido e sob proposta do Governo, ouvido o Chefe do Estado-Maior-General das Forças Armadas, o general José Alberto Loureiro dos Santos do cargo de Chefe do Estado-Maior do Exército.
 
-**Assinado em 18 de Setembro de 1992.**
+Assinado em 18 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Setembro de 1992.**
+Referendado em 18 de Setembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

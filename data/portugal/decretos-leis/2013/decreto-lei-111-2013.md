@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2013/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2013-498531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fde4fc5a40e80d25459fbe94fba5f9a7121441b8b2fe1bd4cd8c0c90ba6fb42d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b2c3e54ecaafee83d569f8371de7969fb9c9d352e93ad1bf4acde9ea9d219a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Universidade Lusíada
 - Ensino Particular
-- Interesse Público
 - Ensino Superior
+- Interesse Público
 - Porto
+- Universidade Lusíada
 relationships:
 - type: amended_by
   target: pt:dre:172266452:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172266452:por
+  label: Alterado a partir de 05-10-2021, e com efeitos a partir da data de início do ano letivo de 2021-2022, o reconhecimento
+    de interesse público da Universidade Lusíada, pelo(a) Decreto-Lei n.º 79/2021 - Diário da República n.º 193/2021, Série
+    I de 2021-10-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2021-172266452
+  date: '2021-10-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/117/2003/06/14/p/dre
   label: null
@@ -88,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1132/1991/10/31/p/dre
+- type: cites
+  target: pt:dre:321923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683863:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:31Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +175,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil seguinte ao da sua publi
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2013. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 25 de julho de 2013.**
+Promulgado em 25 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de julho de 2013.**
+Referendado em 29 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

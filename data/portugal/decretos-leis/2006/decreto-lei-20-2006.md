@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/022a00/07460765.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/20/2006/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2006-544667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce663cc14ca2bb0f84381cef51953314eb2325f58e5c1e1c6146d833b998780e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad0b91adce40194f7edf72f5d5239c9bad86d30a343d31126413ca295b3145fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
 - Colocação de Professores
 - Concurso
+- Contratação Pública
 - Contrato Administrativo
 - Destacamento de Pessoal
+- Educação Especial
+- Educação Pré-escolar
 - Educador de Infância
-- Recrutamento de Pessoal
-- Nomeação
+- Ensino Básico
 - Estabelecimento de Ensino
+- Mobilidade de Pessoal
+- Nomeação
 - Pessoal Docente
 - Profissionalização em Exercicio
-- Qualificação Profissional
-- Ensino Básico
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Regime Jurídico
-- Mobilidade de Pessoal
-- Educação Pré-escolar
 - Transferência de Pessoal
 - ZONA Pedagógica
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:106607298:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518017:por
+  label: "Alterados os arts. 1º, 38º e 57º e revogado o art. 59º pelo DEC LEI.35/2007.15.02.2007.ME, DR.IS [33] de 15.02.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2007-518017
+  date: '2007-02-15'
+- type: amended_by
+  target: pt:dre:604625:por
+  label: "Introduzidas as seguintes alterações ao presente diploma, com a redacção conferida no Dec Lei 35/2007 de 15-Fev,\
+    \ pelo DEC LEI.51/2009.27.02.2009.ME, DR.IS [41] de 27.02.2009, que o republicou na sua redacção actual: - alterados os\
+    \ arts 1º, 2º, 3º, 5º, 8º, 10º, 12º, 13º, 14º, 16º,19º, 20º, 21º, 24º, 27º, 33º, 34º, 36º, 37º, 38º, 42º, 43º, 44º, 45º,\
+    \ 46º, 47º, 52º, 53º, 54º, 55º, 57º, 68º e 71º; - substituída pela expressão “agrupamentos de escolas ou escolas não agrupadas”,\
+    \ a expressão “escolas ou estabelecimentos de educação ou de ensino” (com excepção da constante do corpo do nº 5 do art.\
+    \ 13º), e pela expressão “grupos de recrutamento”, as referências feitas a níveis e graus de ensino e a grupos de docência,\
+    \ assim como é substituída a denominação da epígrafe do cap. III – que passa a denominar-se “Necessidades transitórias”\
+    \ e a da sua secção I “Identificação e suprimento das necessidades transitórias”; - revogados o nº 3 do art. 1º, o nº\
+    \ 2 do art. 2º, o nº 8 do art. 5º, os arts. 6º e 7º, o nº 2 do art. 10º, o nº 2 do art. 12º, o nº 2, as als. c) e d) do\
+    \ nº 3 e o nº 4 do art. 13º, o art. 15º, o nº 2 do art. 16º, o nº 2 do art. 20º, o art. 23º, os nºs 3, 4 e 5 do art. 24º,\
+    \ os arts. 25º e 26º, o nº 4 do art. 27º, os arts. 28º a 32º, os nºs 2 a 8 do art. 38º, os arts. 39º, 40º, 41º, 48º a\
+    \ 51º e 56º, o nº 4 do art. 57º e os arts. 58º, 60º, 61º, 63º, 65º, 67º e 69º, bem como a secção II do cap. II e as secções\
+    \ II e V do capítulo III; e - aditados os arts. 25º-A, 35º-A, 38º-A, 38º-B, 58º-A, 64º-A, 67º-A e 69º-A, assim como a\
+    \ secção VIII ao cap. III, denominada “Regras da bolsa de recrutamento”, na qual se insere o art. 58º-A.\0A.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2009-604625
+  date: '2009-02-27'
+- type: amended_by
+  target: pt:dre:491219:por
+  label: "Aditado o art. 64º-B e revogada a al. c) do nº2 do art. 3º pelo DEC LEI.270/2009.30.09.2009.ME, DR.IS [190] de 30.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2009-491219
+  date: '2009-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -131,16 +161,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1102/1997/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1102/1997/11/03/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542994:por
+  label: "Revogadas a al. c) do n.º 1 do art. 14.º e a al. a) do n.º 3 do art. 16.º do presente diploma, pelo DEC LEI.41/2012.21.02.2012.MECI,\
+    \ DR.IS [37] de 21.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2012-542994
+  date: '2012-02-21'
+- type: repealed_by
+  target: pt:dre:178492:por
+  label: "Revogado o presente diploma, na redação dos Dec Lei 35/2007, de 15-fev, 51/2009, de 27-fev e 270/2009, de 30-set,\
+    \ pelo DEC LEI.132/2012.27.06.2012.MECI, DR.IS [123] de 27.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2012-178492
+  date: '2012-06-27'
 article_structure:
   article_count: 71
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:31Z'
   warnings: []
   errors: []
 ---
@@ -1193,12 +1331,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, se
 
 Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 23 de Janeiro de 2006.**
+Promulgado em 23 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Janeiro de 2006.**
+Referendado em 24 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

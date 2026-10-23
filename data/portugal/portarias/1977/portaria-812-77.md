@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 302/1977, 13º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 13º Suplemento
+  supplement: null
   pages: 3178-(207) a 3178-(207)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30213/02070207.pdf
 entry_into_force_dates: []
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/812-1977-405144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e02f09f8af26c75fceb6827027d591a219e0914a488def000fab17768c5b7a6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31ebc6bd520fa02be6298621da288e3cf67c0850579f48e37123027ff60d9bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Admissão de Pessoal
+- Curso de Gestão de Recursos Humanos
+- Estabelecimento Prisional
+- Forças Armadas
+- Serviços Prisionais Militares
+relationships:
+- type: cites
+  target: pt:dre:355330:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:50Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +97,7 @@ Manda o Conselho da Revolução, pelo seu membro designado de acordo com o artig
 
 1 - São os Serviços Prisionais Militares autorizados a admitir, em regime de prestação de serviços, o pessoal que se discrimina no quadro seguinte, nos quantitativos e com os vencimentos no mesmo indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/30213/02070207.pdf))](https://files.diariodarepublica.pt/1s/1977/12/30213/02070207.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/30213/02070207.pdf)
 
 2 - A duração dos contratos de prestação de serviço será de seis meses, com início em 1 de Janeiro de 1978.
 

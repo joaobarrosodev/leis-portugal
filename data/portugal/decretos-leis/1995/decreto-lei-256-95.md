@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/1995/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1995-575724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 098c7832966c17eb459f2cefbbe11fb41c5f511310f0058926e152c863d16635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd597910288d4e3227279cdf7fdaa4fc3c60f52b23330a28000b4f68ff3a73da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conservador
-- Serviços de Registo e Notariado
-- Emolumento do Notariado
-- Registos e Notariado
 - Carreira Profissional
+- Conservador
+- Emolumento do Notariado
 - Notário
 - Orgânica
+- Registos e Notariado
 - Regulamento dos Serviços dos Registos e Notariado
+- Serviços de Registo e Notariado
 - Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:202586:por
+  label: "Revogados os arts. 1.º a 35.º e 48.º a 52.º e num 6 do art 58 do Dec-Lei 92/90 de 17-Mar, DR.IS [64] na redacção\
+    \ do presente diploma, pelo DEC LEI.206/97.1997.08.12.MJ DR.IS-A [185]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1997-202586
+  date: '1997-08-12'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:45Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +128,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 26.º e 56.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 26.º e 56.º do [Decreto-Lei n.º 519-F2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-f2-1979-157050), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 26.º - 1 - Em caso de vacatura do lugar, licença ou de impedimento que se presuma superior a 30 dias, os conservadores e notários são substituídos pelo conservador, notário ou adjunto que para o efeito for nomeado ou destacado.
+Art. 26.º - 1 - Em caso de vacatura do lugar, licença ou de impedimento que se presuma superior a 30 dias, os conservadores e notários são substituídos pelo conservador, notário ou adjunto que para o efeito for nomeado ou destacado.
 
 2 - Na impossibilidade de a substituição se efectuar nos termos previstos no número anterior, o director-geral designa para o efeito um ajudante da repartição.
 
@@ -122,7 +140,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 5 - No caso previsto no número anterior, em conservatórias com mais de um conservador e nas secretarias notariais os conservadores e notários substituem-se entre si.
 
-###### Art. 56.º - 1 - Sempre que se verifique a substituição do conservador ou notário nos termos dos nos 1 e 2 do artigo 26.º, o substituto tem direito:
+Art. 56.º - 1 - Sempre que se verifique a substituição do conservador ou notário nos termos dos nos 1 e 2 do artigo 26.º, o substituto tem direito:
 
 a) A 70% da participação emolumentar corespondente ao lugar e ao período da substituição, se for conservador ou notário designado em acumulação com as suas funções próprias;
 
@@ -134,7 +152,7 @@ c) À opção pela participação emolumentar correspondente ao lugar e ao perí
 
 3 - Salvo no caso de provimento interino, o substituto tem direito, nos termos da lei geral, às despesas de transporte que tiver de efectuar por força da substituição e, se a substituição se der em acumulação com a chefia da repartição sediada noutra localidade, a ajudas de custo.
 
-###### Art. 2.º Os artigos 29.º, 30.º e 31.º do [Decreto-Lei n.º 92/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), de 17 de Março, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 29.º, 30.º e 31.º do [Decreto-Lei n.º 92/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1990-333164), de 17 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 29.º — [...]
 
@@ -166,16 +184,16 @@ c) À opção pela participação emolumentar correspondente ao lugar e ao perí
 
 4 - Os adjuntos têm direito a ajudas de custos e a despesas de transportes nos termos da lei geral.
 
-###### Art. 3.º É revogado o artigo 61.º do Regulamento aprovado pelo [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro.
+Art. 3.º É revogado o artigo 61.º do Regulamento aprovado pelo [Decreto Regulamentar n.º 55/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1980-462214), de 8 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 15 de Setembro de 1995.**
+Promulgado em 15 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Setembro de 1995.**
+Referendado em 19 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

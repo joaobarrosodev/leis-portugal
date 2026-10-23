@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/40-1985-151904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56076cb7c11660cd6e0ab927a6f4f9c4d6e919b8cb9df5aa11ad18336d92f2f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75db9410499d28a2ab6e803fe5aa87e7250efe429cff44cd78db60efb3f5db08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Agrícola
+- Crédito Bancário
+- Exploração Agrícola
+- Jovem Agricultor
+- Prédio Rústico
+- Programa de Financiamento a Arrendatarios Rurais
+- Sociedade de Agricultura de Grupo
 relationships:
 - type: amended_by
   target: pt:dre:183260:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183260:por
+  label: Alterado o n.º 1.2.1 pelo(a) Despacho Normativo n.º 62/85 - Diário da República n.º 168/1985, Série I de 1985-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/62-1985-183260
+  date: '1985-07-24'
+- type: cites
+  target: pt:dre:621930:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:41Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/167a00/35133515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/230/1998/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1998-425287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e3fc207548d22ff3c37432c2dba257e05a62bc905d5771063fec924e126887
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23feb0e26c11bcbea669d29eb8fc3ae6a5dc4522668f9b9d64f064a204b4486f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/433/1991/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/433/1991/11/07/p/dre
+- type: cites
+  target: pt:dre:331590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:391198:por
+  label: "Revogado o Decreto-Lei n.º 433/91, de 7 de Novembro, na redacção do presente diploma, pelo DEC LEI.319/2002.28.12.2002.MECO,\
+    \ DR.IS-A [300] de 28.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-2002-391198
+  date: '2002-12-28'
 article_structure:
-  article_count: 5
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:08Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +161,9 @@ a) Sociedades cujas acções ou quotas representativas do respectivo capital soc
 
 b) Sociedades que se encontrem em relação de grupo ou de domínio com sociedade em que a SCR detenha uma participação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As participações das SCR noutras sociedades não podem, no momento da sua realização:
 
@@ -169,7 +185,9 @@ d) Os suprimentos concedidos.
 
 4 - As obrigações e os suprimentos referidos nas alíneas c) e d) do número anterior não podem, no seu conjunto, exceder 30% do valor global das participações detidas pela SCR.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sempre que, por qualquer motivo, se verificar uma situação de incumprimento do disposto nos n.os 1, 2 ou 4 do artigo anterior, deve a SCR pôr termo àquela situação no prazo de 180 dias.
 
@@ -177,7 +195,9 @@ d) Os suprimentos concedidos.
 
 3 - A não regularização da situação no prazo para o efeito estabelecido pelo Banco de Portugal constitui fundamento de revogação da autorização da SCR, para além dos previstos no artigo 178.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Ficam especialmente vedadas às SCR as seguintes espécies de operações:
 
@@ -197,7 +217,9 @@ f) A concessão de crédito sob qualquer forma ou modalidade, excepto às socied
 
 3 - Para efeitos do disposto na alínea f) do n.º 1, não se considera como concessão de crédito a venda de participações sociais com diferimento, total ou parcial, do pagamento do preço, desde que todas as condições essenciais da venda fiquem contratualmente definidas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Às sociedades em cujo capital participe uma SCR é vedado adquirir, a título originário ou derivado, directa ou indirectamente, quaisquer valores mobiliários emitidos por esta última e valores mobiliários emitidos por outra entidade que, nos termos das respectivas condições de emissão, confiram direito à subscrição, sejam convertíveis ou permutáveis por acções da SCR.
 
@@ -205,12 +227,12 @@ f) A concessão de crédito sob qualquer forma ou modalidade, excepto às socied
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 8 de Julho de 1998.**
+Promulgado em 8 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1998.**
+Referendado em 14 de Julho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

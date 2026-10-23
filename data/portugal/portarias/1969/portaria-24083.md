@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24083-1969-201586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a2d4a4c60a126f22c617494ef34d0242a4b13e281b28cd1eb129eee6d71bd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f863c1295f51ce12b5303c03cd57d128d8c1317949f83236cc49a2941ae47383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234956:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:49Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1) Reforce, com a importância de 3940000$00, a verba do capítulo 12.º, artigo 349.º, VIII), n.º 4) «III Plano de Fomento - Programa de execução para 1969 - Transportes, comunicações e meteorologia - Transportes aéreos e aeroportos», da tabela de despesa extraordinária do orçamento geral para o ano económico de 1969, utilizando como contrapartida igual importância de disponibilidades a sair das seguintes verbas da mesma tabela de despesa orçamental:
 
-### Capítulo 12.º, artigo 349.º «III Plano de Fomento - Programa de execução para 1969»:
+Capítulo 12.º, artigo 349.º «III Plano de Fomento - Programa de execução para 1969»:
 
 VIII) «Transportes, comunicações e meteorologia»:
 
@@ -108,7 +120,7 @@ X) «Educação e investigação»:
 
 a) Um de 12673432$54, tomando como contrapartida igual importância do saldo de 1968 do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 48292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48292-1968-234956), de 26 de Março de 1968, para reforço das seguintes verbas:
 
-### Capítulo 12.º, artigo 349.º «Despesa extraordinária - III Plano de Fomento - Programa de execução para 1969»:
+Capítulo 12.º, artigo 349.º «Despesa extraordinária - III Plano de Fomento - Programa de execução para 1969»:
 
 I) «Agricultura, silvicultura e pecuária»:
 
@@ -128,7 +140,7 @@ VIII) «Transportes, comunicações e meteorologia»:
 
 b) Um de 2450000$00, tomando como contrapartida igual importância do saldo de 1968 dos rendimentos de concessões petrolíferas para reforço das seguintes verbas:
 
-### Capítulo 12.º, artigo 349.º «Despesa extraordinária - III Plano de Fomento - Programa de execução para 1969»:
+Capítulo 12.º, artigo 349.º «Despesa extraordinária - III Plano de Fomento - Programa de execução para 1969»:
 
 VIII) «Transportes, comunicações e meteorologia»:
 

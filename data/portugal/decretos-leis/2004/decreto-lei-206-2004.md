@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2004/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e95b885a7b8a074f8d103c73fa47f4770a1dd273ff1d0f286afd1d7d04b9a9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b460d3c08f5385c5352bca4cf7e7b531715b60ab7a784a9d41cb619df27ce57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Investigação Científica e Tecnológica
 - Comissão Mista
-- Definição de Competências
-- Ensino Médico
-- Instituição de Investigação
-- Universidade
 - Cooperação Científica
-- Ensino
-- Estabelecimento de Ensino
 - Cuidados Médicos
+- Definição de Competências
+- Ensino
+- Ensino Médico
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Instituição de Investigação
+- Investigação Científica e Tecnológica
+- Medicina
 - Receita
 - Recursos Humanos
 - REDE de Prestação de Cuidados de Saúde
-- Estabelecimento Hospitalar
+- Universidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2003/08/20/p/dre
@@ -121,16 +121,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:183262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654680:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:11Z'
   warnings: []
   errors: []
 ---
@@ -447,12 +499,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria da Graça Martins da Silva Carvalho - Luís Filipe Pereira.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

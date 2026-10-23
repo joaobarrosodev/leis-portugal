@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05900/0004400048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2025/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2025-912256341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46663ed816f14afb05fcc6dd0069bd7a6f2b1962e3c3b815843aa3dcb17d1b83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a742bbdb290bb3087d4fdfd673f8931dcbe672a89841c6f95888154875fc8edc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
+- Centro de Acolhimento
 - Criança
+- Criança Deficiente
 - Direitos da Criança
 - Jovem
-- Centro de Acolhimento
-- Tutela de Menores
 - Proteção à Infância
 - Protecção à Juventude
-- Criança Deficiente
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:915631949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:31/2003
+  label: Altera, a partir de 30 de março de 2025, o artigo 10.º da Lei n.º 31/2003, de 22 de agosto, Diário da República n.º
+    193/2003, Série I-A
+  source: null
+  date: '2003-08-22'
+- type: amends
+  target: pt:numero:decreto-lei:164/2019
+  label: Altera, a partir de 30 de março de 2025, nos termos do artigo 6.º do presente diploma, os artigos 2.º, 11.º, 12.º,
+    21.º e 29.º, adita o artigo 27.º-A e revoga o artigo 30.º do Decreto-Lei n.º 164/2019, de 25 de outubro, Diário da República
+    n.º 206/2019, Série I
+  source: null
+  date: '2019-10-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/2019/10/25/p/dre
   label: null
@@ -103,16 +116,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/450/2023/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/450/2023/12/22/p/dre
+- type: cites
+  target: pt:dre:125692191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:812826259:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:450/2023
+  label: Revoga, a partir de 30 de março de 2025, o artigo 33.º da Portaria n.º 450/2023, de 22 de dezembro, Diário da República
+    n.º 246/2023, Série I
+  source: null
+  date: '2023-12-22'
 article_structure:
-  article_count: 11
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:16Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +236,9 @@ Os artigos 2.º, 11.º, 12.º, 21.º e 29.º do [Decreto-Lei n.º 164/2019](http
 
 3 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -219,7 +260,9 @@ b) Unidade de apoio e promoção da autonomia dos jovens, nomeadamente em aparta
 
 8 - Para além das casas de acolhimento, e das situações previstas no n.º 3 do artigo 50.º da LPCJP, são ainda desenvolvidas unidades específicas para responder a problemáticas com necessidades de intervenção terapêutica, designadamente nos casos de deficiência profunda, doença crónica grave, perturbação psiquiátrica ou comportamentos aditivos, garantindo os cuidados adequados, às crianças e jovens, no âmbito da execução da medida, mediante protocolo a celebrar entre as áreas governativas da segurança social e da saúde, e da educação especial quando necessário.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Cada casa de acolhimento acolhe, preferencialmente, até 15 crianças ou jovens por unidade residencial, sem prejuízo do disposto no número seguinte.
 
@@ -227,7 +270,9 @@ b) Unidade de apoio e promoção da autonomia dos jovens, nomeadamente em aparta
 
 3 - A unidade de apoio e promoção da autonomia, referida na alínea b) do n.º 5 do artigo anterior, pode acolher até 7 jovens.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +318,9 @@ s) [...]
 
 3 - [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 A execução da medida de acolhimento residencial é objeto de avaliação anual, nos termos definidos em portaria do membro do Governo responsável pela área da segurança social.»
 
@@ -303,12 +350,14 @@ c) O artigo 33.º da [Portaria n.º 450/2023](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 20 de fevereiro de 2025. - Joaquim Miranda Sarmento - Rosário Palma Ramalho.
 
-**Promulgado em 14 de março de 2025.**
+Promulgado em 14 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de março de 2025.**
+Referendado em 18 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118839138

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2009/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2009-605538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 188e3c628b46a43530023b639d3d316a8e3671eeaa4cf3f654a0ae97d79a254d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cb371e147c1f20b11aa42b5fdddeeb553407308c05f937697e05c400004865a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desemprego de Longa Duração
 - Desemprego
+- Desemprego de Longa Duração
 - Proteção Social
 - Segurança Social
 - Subsídio de Desemprego
@@ -78,6 +78,29 @@ relationships:
   target: pt:dre:125417313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610469:por
+  label: "Alterado o art. 2º pelo DEC LEI.15/2010.09.03.2010.MTSSO, DR.IS [47] de 09.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2010-610469
+  date: '2010-03-09'
+- type: amended_by
+  target: pt:dre:335467:por
+  label: "Alterado, a partir de 01.07.2010, o art. 36º do Dec Lei 220/2006, de 03-Nov, na redacção do presente diploma, pelo\
+    \ DEC LEI.72/2010.18.06.2010.MTSSO, DR.IS [117] de 18.06.2010, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2010-335467
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:553468:por
+  label: "Alterados, a partir de 01.04.2012, os arts. 37º e 72º do Dec Lei 220/2006, de 03-nov , na redação do presente diploma,\
+    \ pelo DEC LEI.64/2012.15.03.2012.MSSSOC, DR.IS [54] de 15.03.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2012-553468
+  date: '2012-03-15'
+- type: amended_by
+  target: pt:dre:256986:por
+  label: "Alterado a partir de 01.02.2013 o art. 72º do Dec Lei 220/2006, de 03-nov, na redação do presente diploma, pelo\
+    \ DEC LEI.13/2013.25.01.2013.MSSSOC, DR.IS [18] de 25.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2013-256986
+  date: '2013-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
   label: null
@@ -86,16 +109,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:07Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +179,9 @@ Os artigos 36.º, 37.º, 55.º e 72.º do [Decreto-Lei n.º 220/2006](https://di
 
 5 - Nas situações a que se refere o n.º 2 do artigo 72.º, as prestações de desemprego são devidas desde a data de apresentação do requerimento ou das provas, deduzindo-se no período de concessão os dias decorridos entre o termo do prazo para a apresentação do requerimento ou apresentação das provas e a data da apresentação dos mesmos.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +191,9 @@ Os artigos 36.º, 37.º, 55.º e 72.º do [Decreto-Lei n.º 220/2006](https://di
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +205,9 @@ Os artigos 36.º, 37.º, 55.º e 72.º do [Decreto-Lei n.º 220/2006](https://di
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -188,12 +225,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 13 de Março de 2009.**
+Promulgado em 13 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Março de 2009.**
+Referendado em 16 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

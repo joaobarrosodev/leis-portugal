@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/1995/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1995-223182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f7b9a4e27304b7e036e21f4e1d33c91df29db17a8e69c43576f4680f81d624a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfa13a5c75c4a25d04c5e67bb97317fcdac5ea8b01eb946bd712ce79a8f69709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Comando da Força Naval Permanente do Atlântico
 - Marinha
-- Remuneração Acessória
-- Missão no Estrangeiro
 - Militar
-relationships: []
+- Missão no Estrangeiro
+- NATO
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:543702:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:46Z'
   warnings: []
   errors: []
 ---
@@ -105,16 +109,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O abono previsto nos artigos 3.º e 4.º do [Decreto-Lei n.º 407/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1990-543702), de 21 de Dezembro, é reduzido para 40% quando os cargos internacionais referidos no artigo 1.º do mesmo diploma sejam desempenhados em navios nacionais.
+Artigo único. O abono previsto nos artigos 3.º e 4.º do [Decreto-Lei n.º 407/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1990-543702), de 21 de Dezembro, é reduzido para 40% quando os cargos internacionais referidos no artigo 1.º do mesmo diploma sejam desempenhados em navios nacionais.
 
 Visto e aprovado em Conselho de Ministros de 16 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - José Manuel Durão Barroso.
 
-**Promulgado em 17 de Março de 1995.**
+Promulgado em 17 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Março de 1995.**
+Referendado em 20 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

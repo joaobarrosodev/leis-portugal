@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/02/033a00/06580662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2001-319898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed5ee189146f82176521abe752466d06532a454157d5445855c8d4347cadb39b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a78b62d8ae9cf69733c1c9729f41032de1c45a252b18c9516cd31299e46704ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:275603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621938:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606115:por
+  label: "Revogado, a partir de 01.02.2014,pelo DEC LEI.3/2014.09.01.2014.MJ, DR.IS [7] de 09.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-2014-606115
+  date: '2014-01-09'
 article_structure:
-  article_count: 24
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:51Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +219,9 @@ Os artigos 5.º, 11.º a 16.º, 18.º, 19.º, 28.º, 35.º e 36.º do [Decreto-L
 
 6 - O disposto nos n.os 4 e 5 é aplicável às diligências efectuadas no exterior dos estabelecimentos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Compete ao director-geral dos Serviços Prisionais distribuir o pessoal do corpo da guarda prisional, na primeira colocação e nas que ocorram na sequência de concursos de ingresso e acesso e da aprovação em cursos de formação, pelos estabelecimentos prisionais e outros serviços, por sua iniciativa ou mediante proposta da unidade orgânica competente.
 
@@ -210,7 +233,9 @@ Os artigos 5.º, 11.º a 16.º, 18.º, 19.º, 28.º, 35.º e 36.º do [Decreto-L
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A carreira do pessoal do corpo da guarda prisional desenvolve-se pelas categorias de chefe principal, chefe, subchefe principal, subchefe, guarda principal e guarda.
 
@@ -218,11 +243,15 @@ Os artigos 5.º, 11.º a 16.º, 18.º, 19.º, 28.º, 35.º e 36.º do [Decreto-L
 
 3 - Os candidatos a guarda admitidos ao respectivo curso de formação são contratados como guardas instruendos, nos termos da lei geral, pelo período máximo de 12 meses.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os guardas instruendos aprovados no curso de formação referido no n.º 3 do artigo anterior são providos na categoria de guarda, de acordo com a classificação obtida nesse curso e as vagas existentes, em regime de nomeação provisória, pelo período de um ano, no fim do qual serão nomeados definitivamente ou exonerados, consoante hajam ou não demonstrado aptidão para o exercício das respectivas funções.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +259,9 @@ Os guardas instruendos aprovados no curso de formação referido no n.º 3 do ar
 
 3 - ...
 
-###### Artigo 15.º — Progressão e promoção
+Artigo 15.º
+
+Progressão e promoção
 
 1 - O desenvolvimento da carreira faz-se por progressão e promoção.
 
@@ -240,13 +271,17 @@ Os guardas instruendos aprovados no curso de formação referido no n.º 3 do ar
 
 4 - A promoção faz-se por despacho do director-geral.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O preenchimento dos lugares da carreira do pessoal do corpo da guarda prisional é feito, de acordo com as vagas existentes, através de concurso, com as excepções constantes do presente Estatuto.
 
 2 - Os lugares de chefe e subchefe são preenchidos, de acordo com as vagas existentes, por despacho do director-geral dos Serviços Prisionais, após aprovação dos candidatos nos respectivos cursos de formação e de acordo com as classificações obtidas no respectivo curso.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - No concurso para o preenchimento de lugares de guarda são utilizados, com carácter eliminatório, os seguintes métodos de selecção:
 
@@ -260,7 +295,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nos concursos de habilitação para curso de formação e nos concursos de promoção para os lugares de acesso são utilizados, com carácter eliminatório, os seguintes métodos de selecção:
 
@@ -276,7 +313,7 @@ c) Para a categoria de subchefe, avaliação curricular, provas de aptidão fís
 
 4 - O prazo de validade de cada concurso de habilitação e de promoção será definido no respectivo aviso de abertura.
 
-###### Artigo 28.º
+Artigo 28.º
 
 1 - (Anterior n.º 4.)
 
@@ -284,7 +321,9 @@ c) Para a categoria de subchefe, avaliação curricular, provas de aptidão fís
 
 3 - (Anterior n.º 6.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Os candidatos aos lugares de chefe e subchefe aprovados nos respectivos concursos de habilitação são convocados, de acordo com a lista de classificação final, para a frequência dos cursos de formação de acordo com o número de lugares a fixar por despacho do director-geral dos Serviços Prisionais.
 
@@ -292,7 +331,7 @@ c) Para a categoria de subchefe, avaliação curricular, provas de aptidão fís
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 36.º
+Artigo 36.º
 
 1 - ...
 
@@ -314,7 +353,9 @@ b) Três anos nos restantes.
 
 2 - A atribuição de classificação de serviço de Não satisfatório determina a não consideração do tempo de serviço prestado com essa classificação para efeitos de progressão.
 
-###### Artigo 15.º-B — Requisitos da promoção
+Artigo 15.º-B
+
+Requisitos da promoção
 
 1 - A promoção para a categoria de chefe principal faz-se na sequência de concurso de acesso, podendo ser opositores os chefes que possuam três anos de serviço na categoria e classificação de serviço de Muito bom no último ano de serviço.
 
@@ -330,7 +371,9 @@ b) Três anos nos restantes.
 
 7 - A promoção para a categoria de guarda principal é automática, independentemente de vaga, para os guardas posicionados no último escalão e que nele detenham três anos de serviço efectivo e classificação de serviço não inferior a Bom nos últimos três anos.
 
-###### Artigo 46.º — Equiparação à Polícia de Segurança Pública
+Artigo 46.º
+
+Equiparação à Polícia de Segurança Pública
 
 1 - O pessoal do corpo da guarda prisional é equiparado ao pessoal da Polícia de Segurança Pública para efeitos de vencimento e respectivos suplementos, gratificações e outros abonos, aposentação, transportes e demais regalias sociais.
 
@@ -372,15 +415,15 @@ O presente diploma legal produz efeitos a 1 de Julho de 1999.
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 18 de Janeiro de 2001.**
+Promulgado em 18 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Janeiro de 2001.**
+Referendado em 25 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 

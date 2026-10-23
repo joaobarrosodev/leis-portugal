@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/2009/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2009-494547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 474fd30e0948afa37e9e4de06dfa82d4938038c1f0ed8826745d0d67d900eb5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb7278983c7ee8458f7bba7e2e403cc0109594ed5d505402903f254c856c125e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
+- type: cites
+  target: pt:dre:138778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
 article_structure:
-  article_count: 127
+  article_count: 93
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:24Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +173,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 12.º, 13.º, 15.º, 17.º, 19.�
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +199,9 @@ i) ...
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -181,11 +213,15 @@ i) ...
 
 5 - A decisão que recuse expressamente a autorização, bem como a omissão de decisão, são impugnáveis nos termos gerais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A autorização não é concedida se os requerentes não fornecerem as informações ou elementos a que se refere o artigo 5.º, se estes se mostrarem desconformes à lei ou se os associados propostos para o órgão de administração não satisfizerem as condições previstas no Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +249,9 @@ h) ...
 
 5 - A decisão, bem como a omissão de decisão, são impugnáveis nos termos gerais.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -231,13 +269,17 @@ c) A autorização para efectuar operações de âmbito não agrícola e com nã
 
 5 - O parecer referido no n.º 3 deve ser emitido no prazo de 20 dias, entendendo-se, em caso de silêncio, que a Caixa Central se pronunciou no sentido favorável à realização do registo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - Não é igualmente concedida autorização a novas caixas agrícolas que se proponham exercer actividade em município onde outra já estiver sediada ou tiver aberto agência.
 
-###### Artigo 13.º — Agências
+Artigo 13.º
+
+Agências
 
 1 - As caixas agrícolas podem instalar agências na sua área de acção ou nos municípios limítrofes em que não exista nenhuma outra caixa agrícola em funcionamento, mediante autorização:
 
@@ -247,11 +289,15 @@ b) Do Banco de Portugal, nos restantes casos.
 
 2 - No caso previsto na alínea a) do número anterior, a Caixa Central comunica, de imediato, ao Banco de Portugal as autorizações concedidas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Sem prejuízo de os estatutos poderem prever importância superior, o montante mínimo de capital que cada novo associado deve subscrever e realizar integralmente na data de admissão é de (euro) 500.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +317,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +331,9 @@ c) ...
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A administração e a fiscalização das caixas agrícolas são estruturadas segundo as modalidades previstas para as sociedades anónimas no Código das Sociedades Comerciais.
 
@@ -293,7 +343,9 @@ c) ...
 
 4 - Para efeitos do presente diploma, a comissão de auditoria, prevista na alínea b) do n.º 1 do artigo 278.º do Código das Sociedades Comerciais, e o conselho geral e de supervisão, previsto na alínea c) do n.º 1 do mesmo artigo, são considerados órgãos de fiscalização.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -307,13 +359,17 @@ c) ...
 
 3 - Durante o mandato, as situações susceptíveis de gerar inelegibilidades, bem como as incompatibilidades dos membros dos órgãos de administração e da mesa da assembleia geral, são verificadas pelo órgão de fiscalização, e as deste pela mesa da assembleia geral, devendo ser comunicadas à Caixa Central e, nos caso das caixas agrícolas não associadas desta, ao Banco de Portugal.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
 2 - O exercício efectivo dos cargos dos membros dos órgãos de administração ou de fiscalização pode ser remunerado, de acordo com o que seja definido pela assembleia geral.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os poderes para conceder crédito, constituir depósitos ou realizar quaisquer outras aplicações só podem ser delegados em empregados tidos por qualificados por decisão unânime do órgão de administração, e desde que:
 
@@ -323,7 +379,9 @@ b) ...
 
 c) ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -333,17 +391,23 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 As caixas agrícolas podem prestar serviços de aluguer de cofres e guarda de valores, administração de bens imóveis, mediação de seguros, prestação de informações comerciais, intermediação em pagamentos e outros de natureza análoga e colocação de valores mobiliários desde que sem vínculo à subscrição de qualquer parcela que não seja subscrita pelo público.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 36.º-A — [...]
+Artigo 36.º-A
+
+[...]
 
 1 - ...
 
@@ -359,7 +423,9 @@ As caixas agrícolas podem prestar serviços de aluguer de cofres e guarda de va
 
 7 - Nos termos e com os fundamentos previstos no n.º 3 do artigo 28.º, o Banco de Portugal pode autorizar a realização das operações referidas no número anterior até ao limite de 50 %, mediante proposta da Caixa Central no caso das caixas agrícolas associadas.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - As caixas agrícolas e a Caixa Central contratam obrigatoriamente um serviço de auditoria, o qual é dirigido por um revisor oficial de contas e deve verificar e apreciar periodicamente o cumprimento das normas legais e regulamentares que disciplinam a sua actividade e dos restantes aspectos mencionados no n.º 1 do artigo 120.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
@@ -369,17 +435,23 @@ As caixas agrícolas podem prestar serviços de aluguer de cofres e guarda de va
 
 4 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - As caixas agrícolas podem fazer depósitos e aplicações em títulos da dívida pública, podendo o Banco de Portugal estabelecer condições para efeito.
 
 2 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 A responsabilidade pela elaboração da contabilidade das caixas agrícolas deve ser confiada a um técnico oficial de contas.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -389,7 +461,9 @@ A responsabilidade pela elaboração da contabilidade das caixas agrícolas deve
 
 4 - Quando o associado for detentor de títulos de capital em montante inferior a (euro) 500, a parte que lhe couber na operação de distribuição de resultados é aplicada no aumento da sua participação no capital da caixa agrícola até ser atingido aquele montante.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -405,7 +479,9 @@ c) 5 %, no máximo, às reservas para formação e educação cooperativa e para
 
 4 - A reserva legal pode ainda ser utilizada para incorporação no capital social, devendo os títulos de capital que forem emitidos em representação do aumento ser atribuídos exclusivamente à caixa agrícola.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -425,7 +501,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 7 - (Revogado.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -443,13 +521,17 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 8 - (Anterior n.º 4.)
 
-###### Artigo 52.º — Agências da Caixa Central
+Artigo 52.º
+
+Agências da Caixa Central
 
 1 - A Caixa Central pode instalar agências, nos mesmos termos dos bancos.
 
 2 - Antes de decidir a abertura de agências, a Caixa Central deve ouvir as caixas agrícolas associadas cuja área territorial abranja o município onde pretende instalar a agência.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -459,7 +541,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 4 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Aos órgãos sociais da Caixa Central é aplicável o disposto no artigo 278.º do Código das Sociedades Comerciais, sem prejuízo do disposto no artigo 20.º
 
@@ -471,7 +555,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 5 - A assembleia geral ordinária da Caixa Central reúne obrigatoriamente duas vezes em cada ano, uma até 31 de Maio para deliberar sobre o relatório de gestão e as contas consolidadas do exercício anterior, a proposta de aplicação de resultados, proceder à apreciação geral da administração e fiscalização da Caixa Central, e outra até 31 de Dezembro para deliberar sobre o plano de actividades e o orçamento da Caixa Central e o plano de actividades do sistema integrado do crédito agrícola mútuo para o exercício seguinte.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -491,7 +577,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 9 - Caso estejam reunidas as condições que permitam o reembolso dos títulos de capital, cabe à assembleia geral a sua aprovação.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -511,7 +599,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 9 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - A Caixa Central, em condições a definir pelo Banco de Portugal, pode autorizar as caixas agrícolas pertencentes ao sistema integrado do crédito agrícola mútuo a excederem as relações e limites prudenciais.
 
@@ -519,7 +609,9 @@ b) A Caixa Central ou a caixa agrícola com área de acção em município limí
 
 3 - (Revogado.)
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -535,7 +627,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -555,7 +649,9 @@ e) ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 77.º-A — Designação de administradores provisórios
+Artigo 77.º-A
+
+Designação de administradores provisórios
 
 1 - Quando uma caixa agrícola pertencente ao sistema integrado do crédito agrícola mútuo esteja em situação de desequilíbrio financeiro grave, ou em risco de o estar, e incumprir as orientações definidas pela Caixa Central nos termos do artigo 75.º, pode esta instituição designar para a caixa agrícola em causa um ou mais administradores provisórios.
 
@@ -623,15 +719,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 1 de Junho de 2009.**
+Promulgado em 1 de Junho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Junho de 2009.**
+Referendado em 2 de Junho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Republicação do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola Mútuo, aprovado pelo [Decreto-Lei n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1991-693844), de 11 de Janeiro
 

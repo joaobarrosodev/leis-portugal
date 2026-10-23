@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/75/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2011-670021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca9fe69d1bdb49753e7dee85825b44e2182450fee47c345bef4e2dc1315efece
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 515bc48d7da335147bce7047c96d055d31bf41362023acf8c59bf3c954964a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,25 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
+- Certificado de Qualidade
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Controlo de Qualidade
-- Direção Geral das Atividades Económicas
 - Controlo Sanitário
+- Direção Geral das Atividades Económicas
+- Equipamento Agrícola
 - Equipamento Eléctrico
+- Equipamento Industrial
 - Especificação Técnica
 - Fabrico Industrial
 - Fiscalização
-- Comissão CE
 - Máquina-Ferramenta
-- Certificado de Qualidade
 - Normas de Segurança
+- Pesticida
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento CE
-- Equipamento Agrícola
-- Pesticida
-- Equipamento Industrial
-- Comércio
 relationships:
 - type: cites
   target: celex:32006L0042
@@ -114,15 +114,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/103/2008/06/24/p/dre
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:50Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +191,9 @@ n) 'Requisitos essenciais de saúde e de segurança', as disposições obrigató
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As máquinas sujeitas à aplicação das disposições do presente decreto-lei só podem ser colocadas no mercado e entrar em serviço ou, quando aplicável, apenas entrar em serviço se cumprirem as disposições aplicáveis constantes do presente decreto-lei e não comprometerem a saúde e a segurança das pessoas e, se for o caso, dos animais domésticos e dos bens e, quando aplicável, do ambiente, quando convenientemente instaladas e mantidas, e utilizadas de acordo com o fim a que se destinam ou em condições razoavelmente previsíveis.
 
@@ -203,7 +205,9 @@ n) 'Requisitos essenciais de saúde e de segurança', as disposições obrigató
 
 5 - ...
 
-###### Artigo 12.º — Procedimento de salvaguarda
+Artigo 12.º
+
+Procedimento de salvaguarda
 
 1 - Ainda que uma máquina abrangida pelo presente decreto-lei ostente a marcação 'CE' e seja acompanhada da declaração CE de conformidade e utilizada de acordo com o fim a que se destina ou em condições razoavelmente previsíveis, as entidades fiscalizadoras previstas no n.º 1 do artigo 14.º podem verificar se esta põe em perigo a saúde ou a segurança das pessoas ou, se for o caso, dos animais domésticos ou dos bens ou, quando aplicável, do ambiente.
 
@@ -211,7 +215,9 @@ n) 'Requisitos essenciais de saúde e de segurança', as disposições obrigató
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -247,7 +253,9 @@ j) ...
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -285,15 +293,15 @@ O presente decreto-lei entra em vigor a 15 de Dezembro de 2011.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - José Carlos das Dores Zorrinho - Maria Helena dos Santos André.
 
-**Promulgado em 2 de Junho de 2011.**
+Promulgado em 2 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Junho de 2011.**
+Referendado em 9 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

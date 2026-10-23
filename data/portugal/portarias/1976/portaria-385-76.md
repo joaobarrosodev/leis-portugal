@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 147/1976, 1º Suplemento, Série I de 1976-06-25
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1416-(1) a 1416-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/14701/00010035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1976-481367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e83caf03dc9ac338fdabd34de5f577b9fc20df4f218f3bc2b37995464c13f24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 817573f601190f76281da5049cb174937bc6ea1e3205873a18f129e03a6cea5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Empreitada de Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:570699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:502460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471321:por
+  label: Revogada as disposições do presente diploma pelo(a) Decreto-Lei n.º 232/80 - Diário da República n.º 162/1980, Série
+    I de 1980-07-16, na parte referente à matéria diretamente afetada pelas alterações por ele introduzidas ao Decreto-Lei
+    n.º 48871 de 19-fev 1969.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1980-471321
+  date: '1980-07-16'
+- type: repealed_by
+  target: pt:dre:570699:por
+  label: "Revogada pela PORT.605-C/86.16.10.1986.MOPTC, DR.IS [239]Supl de 16.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/605-c-1986-570699
+  date: '1986-10-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:03:18Z'
   warnings: []
   errors: []
 ---
@@ -1486,7 +1516,7 @@ Programa de concurso tipo
 
 19 - Fornecimento de exemplares do processo.
 
-## Anexo: modelo de proposta a que se refere o n.º 7.
+Anexo: modelo de proposta a que se refere o n.º 7.
 
 1 - Designação da empreitada e consulta do processo
 
@@ -2576,4 +2606,4 @@ regras de amostragem; modo de preparação e embalagem das amostras; ensaios pre
 
 7.34 - Indicação do prazo de garantia, quando diferente de um ano - cláusula 11.1.1.
 
-**O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira.**
+O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira.

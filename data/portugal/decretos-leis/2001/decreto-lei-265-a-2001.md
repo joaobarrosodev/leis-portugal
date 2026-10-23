@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 226/2001, 1º Suplemento, Série I-A de 2001-09-28
   number: '226'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6176-(2) a 6176-(59)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/265-a/2001/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-a-2001-245683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ed349758a0502ac947cbdb5c5768980fb7c213e706e4ddc2c9fd29b597161b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38163285e8fc97bc9f5c924025d8676f2a91d1d97731ea5e83b0d45cbce86609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alcoolismo
+- Brigada de Trânsito
 - Carta de Condução
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral de Viação
 - Fiscalização
 - Fiscalização Rodoviária
-- Brigada de Trânsito
-- Limite de Velocidade
 - GNR
+- Limite de Velocidade
+- Multa
 - Remoção de Veículos
 - Taxa de Alcoolemia
 relationships:
@@ -85,6 +85,62 @@ relationships:
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584795:por
+  label: "Aditados os arts. 5º-A e 5º-B, pela LEI.1/2002.2002.01.02.AR, DR.IS-A [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-2002-584795
+  date: '2002-01-02'
+- type: amended_by
+  target: pt:dre:608743:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 8º, 9º, 10º, 11º, 13º, 14º, 16º, 17º, 19º, 20º, 21º, 22º, 24º, 25º, 26º,\
+    \ 27º, 28º, 31º, 32º, 31º, 32º, 34º, 35º, 36º, 39º, 41º, 48º, 49º, 50º, 53º, 54º, 55º, 56º, 57º, 58º, 59º, 60º, 61º, 62º,\
+    \ 63º, 64º, 65º, 70º, 71º, 72º, 73º, 77º, 78º, 79º, 81º, 82º, 84º, 85º, 87º, 88º, 89º, 90º, 91º, 92º, 94º, 97º, 99º, 100º,\
+    \ 101º, 102º, 103º, 104º, 106º, 107º, 110º, 114º, 115º, 116º, 117º, 118º, 119º, 122º, 123º, 124º, 125º, 126º, 127º, 129º,\
+    \ 130º, 131º, 134º, 140º, 142º, 143º, 144º, 146º, 147º, 148º, 149º, 151º, 152º, 153º, 154º, 155º, 156º, 157º, 158º, 159º,\
+    \ 160º, 161º, 162º, 163º, 164º, 165º, 166º, 167º, 168º, 169º, 170º, 171º, 172º, 173º, 174º e 175º e as epígrafes dos cap.\
+    \ II e III, todos do Código da Estrada aprovado pelo Dec Lei 114/94 de 03-Mai, com a redacção do presente diploma, pelo\
+    \ DEC LEI.44/2005.23.02.2005.MAI, DR.IS-A [38] de 23.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2005-608743
+  date: '2005-02-23'
+- type: amended_by
+  target: pt:dre:456273:por
+  label: "Alterados os art.s 131º, 148º, 169º, 173º e 177º do Dec Lei 114/94, de 03-Maio, na redacção do presente diploma,\
+    \ pelo DEC LEI.113/2008.01.07.2008.MAI, DR.IS [125] de 01.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2008-456273
+  date: '2008-07-01'
+- type: amended_by
+  target: pt:dre:608696:por
+  label: "Alterados os arts. 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-Mai,\
+    \ alterado e republicado pelo presente diploma, pelo DEC LEI.113/2009.18.05.2009.MOPTC, DR.IS [95] de 18.05.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2009-608696
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:493497:por
+  label: "Alterado, nos termos do nº2 do art. 3º, o art. 123º do Código da Estrada, aprovado pelo Dec Lei 114/94, de 03-Maio,\
+    \ na redacção do presente diploma, pela LEI.78/2009.13.08.2009.AR, DR.IS [156] de 13.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/78-2009-493497
+  date: '2009-08-13'
+- type: amended_by
+  target: pt:dre:344242:por
+  label: "Alterados os arts. 117.º, 118.º, 119.º, 161.º e 162.º do Código da Estrada, aprovado pelo Dec Lei 114/94, de 03-Maio,\
+    \ na redacção do presente diploma, pela LEI.46/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/46-2010-344242
+  date: '2010-09-07'
+- type: amended_by
+  target: pt:dre:178550:por
+  label: "Alterados, a partir de 02.11.2012, os art.s 64º, 91º, 122º, 123º, 124º, 125º, 126º, 127º, 128º, 129º e 130º do Código\
+    \ da Estrada, aprovado pelo Dec Lei 114/94, de 03-maio, na redação do presente diploma, pelo DEC LEI.138/2012.05.07.2012.MEE,\
+    \ DR.IS [129] de 05.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
+- type: amended_by
+  target: pt:dre:499526:por
+  label: "Dada nova redação aos arts. 1º, 3º, 5º, 8º, 11º, 13º, 14º, 17º, 18º 24º, 25º, 27º, 8º, 32º, 38º, 40º, 41º, 55º,\
+    \ 56º, 61º, 62º, 64º, 77º, 78º, 81º, 82º, 84º, 85º, 88º, 90º, 91º, 101º, 103º, 104º, 110º, 119º, 146º, 153º, 156º, 164º,\
+    \ 169º, 170º e 171º do Código da Estrada, aprovado pelo Dec Lei 114/94 de 03-mai, alterado pelo presente diploma, pela\
+    \ LEI.72/2013.03.09.2013.AR, DR.IS [169] de 03.09.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/72-2013-499526
+  date: '2013-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -105,16 +161,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388221:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:683980:por
+  label: "Rectificado pela DECL-RECT.19-B/2001.2001.09.28.PCM, DR.IS-A [227]Supl de 29/Set/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-b-2001-683980
+  date: '2001-09-28'
 article_structure:
-  article_count: 331
-  section_count: 64
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 181
+  section_count: 59
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:36Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +282,7 @@ Os artigos 5.º, 11.º, 12.º, 15.º, 16.º e 17.º do [Decreto-Lei n.º 2/98](h
 
 5 - O título de condução mantém-se apreendido na Direcção-Geral de Viação pelo tempo que durar a proibição ou inibição de conduzir, após o que é devolvido ao seu titular.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - Compete também à Direcção-Geral de Viação:
 
@@ -233,7 +314,7 @@ m) Determinar as apreensões de documentos previstas no n.º 2 do artigo 166.º 
 
 3 - ...
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - Compete às câmaras municipais:
 
@@ -243,7 +324,7 @@ b) A matrícula de ciclomotores, de motociclos de cilindrada não superior a 50 
 
 2 - ...
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - ...
 
@@ -253,7 +334,7 @@ b) A matrícula de ciclomotores, de motociclos de cilindrada não superior a 50 
 
 4 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -263,7 +344,7 @@ b) ...
 
 2 - Com a comunicação referida no n.º 2 do artigo anterior devem as companhias de seguros remeter à Conservatória do Registo Automóvel e à Direcção-Geral de Viação, respectivamente, o título de registo de propriedade e o documento de identificação do veículo.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - ...
 
@@ -333,13 +414,17 @@ v) Zona de estacionamento: local da via pública especialmente destinado, por co
 
 x) Ilhéu direccional: zona restrita da via pública, interdita à circulação de veículos e delimitada por lancil ou marcação apropriada, destinada a orientar o trânsito.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O disposto no presente Código é aplicável ao trânsito nas vias do domínio público do Estado, das Regiões Autónomas e das autarquias locais.
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -349,13 +434,17 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 4 - Quem praticar actos com o intuito de impedir ou embaraçar a circulação de veículos a motor é sancionado com coima de (euro) 300 a (euro) 1500, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 90 a (euro) 450, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +456,9 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 300 a (euro) 1500, podendo ainda os meios de publicidade em causa ser mandados retirar pela entidade competente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +472,9 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 6 - Os organizadores de manifestação desportiva envolvendo peões ou animais em violação ao disposto no n.º 1 são sancionados com coima de (euro) 300 a (euro) 1500, acrescida de (euro) 30 por cada um dos participantes ou concorrentes, até ao limite de (euro) 300.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A suspensão ou condicionamento do trânsito só podem ser ordenados por motivos de segurança, de emergência grave ou de obras ou com o fim de prover à conservação dos pavimentos, instalações e obras de arte e podem respeitar apenas a parte da via ou a veículos de certa espécie, peso ou dimensões.
 
@@ -389,7 +482,9 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 3 - Salvo casos de emergência grave ou de obras urgentes, o condicionamento ou suspensão do trânsito são publicitados com a antecedência fixada em regulamento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -399,19 +494,25 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 4 - Quem infringir a proibição prevista no n.º 1 ou o condicionamento previsto no n.º 2 é sancionado com coima de (euro) 150 a (euro) 750, sendo os veículos impedidos de prosseguir a sua marcha até findar o período em que vigora a proibição.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +522,9 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 4 - Quem circular em sentido oposto ao legalmente estabelecido é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -429,13 +532,17 @@ x) Ilhéu direccional: zona restrita da via pública, interdita à circulação 
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -447,13 +554,17 @@ b) ...
 
 3 - Quem infringir o disposto no n.º 1 e alínea b) do n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -461,7 +572,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -469,7 +582,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -477,7 +592,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +616,9 @@ b) ...
 
 8 - Quem infringir o disposto no n.º 6 é sancionado com coima de (euro) 240 a (euro) 1200 e com perda dos objectos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o documento de identificação do veículo até à efectiva remoção e apreensão daqueles objectos, sendo, neste caso, aplicável o disposto no n.º 4 do artigo 168.º
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -517,7 +636,9 @@ b) ...
 
 6 - Quem infringir o disposto no n.º 4 é sancionado com coima de (euro) 240 a (euro) 1200 e com perda dos objectos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o documento de identificação do veículo até à efectiva remoção e apreensão daqueles objectos, sendo, neste caso, aplicável o disposto no n.º 4 do artigo 168.º
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -525,7 +646,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -549,17 +672,21 @@ i) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 27.º — Limites gerais de velocidade
+Artigo 27.º
+
+Limites gerais de velocidade
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 25.º e de limites inferiores que lhes sejam impostos, os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)
 
 2 - Quem exceder os limites máximos de velocidade é sancionado:
 
@@ -587,7 +714,9 @@ b) Se conduzir automóvel pesado, veículo agrícola, máquina industrial ou cic
 
 6 - Quem conduzir injustificadamente a velocidade inferior ao limite estabelecido no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -603,7 +732,9 @@ b) ...
 
 5 - Quem infringir os limites mínimos de velocidade instantânea estabelecidos nos termos deste artigo é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -611,13 +742,17 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -631,7 +766,9 @@ c) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600, salvo se se tratar do disposto na alínea b) do n.º 1, caso em que a coima é de (euro) 240 a (euro) 1200.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -643,7 +780,9 @@ c) ...
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -663,25 +802,33 @@ d) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -693,7 +840,9 @@ b) ...
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -711,13 +860,17 @@ d) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -727,7 +880,9 @@ d) ...
 
 4 - Quem infringir o disposto nos n.os 1 e 3 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -755,13 +910,17 @@ b) ...
 
 5 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -769,7 +928,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -785,13 +946,17 @@ e) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 33.º para o cruzamento de veículos, a marcha atrás é proibida:
 
@@ -807,7 +972,9 @@ e) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -821,7 +988,9 @@ e) ...
 
 6 - Quem infringir o disposto nos n.os 3 a 5 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -849,7 +1018,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -877,7 +1048,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, salvo se se tratar do disposto nas alíneas c) e f) do n.º 1 e b) do n.º 2, casos em que é sancionado com coima de (euro) 60 a (euro) 300, ou na alínea a) do n.º 2, em que a coima é de (euro) 240 a (euro) 1200.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -885,7 +1058,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -893,7 +1068,9 @@ b) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -911,7 +1088,9 @@ c) ...
 
 5 - Quem infringir o disposto nos n.os 1, 3 e 4 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -921,7 +1100,9 @@ b) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150 por cada passageiro transportado indevidamente.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -951,13 +1132,17 @@ i) ...
 
 5 - Quem infringir o disposto nos n.os 1 a 3 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 600 a (euro) 3000.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Em condições excepcionais fixadas em regulamento, pode ser autorizado pela entidade competente o trânsito de veículos de peso ou dimensões superiores aos legalmente fixados ou que transportem objectos indivisíveis que excedam os limites da respectiva caixa.
 
@@ -969,7 +1154,9 @@ i) ...
 
 5 - Quem, no acto da fiscalização, não exibir documento da autorização a que se refere o n.º 1 é sancionado com coima de (euro) 60 a (euro) 300 se proceder à sua apresentação no prazo de oito dias e com coima de (euro) 600 a (euro) 3000 se não o fizer ou não possuir autorização.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -985,7 +1172,9 @@ c) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, se sanção mais grave não for aplicável por força de disposição especial.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -1013,7 +1202,9 @@ i) ...
 
 4 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -1033,7 +1224,9 @@ d) ...
 
 5 - Quem utilizar os máximos no cruzamento com outros veículos, pessoas ou animais ou quando o veículo transite a menos de 100 m daquele que o precede ou ainda durante a paragem ou detenção da marcha do veículo é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -1043,7 +1236,7 @@ b) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 63.º
+Artigo 63.º
 
 1 - ...
 
@@ -1059,7 +1252,9 @@ b) ...
 
 5 - Quem infringir o disposto nos n.os 2, 3 e 4 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -1073,7 +1268,9 @@ b) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -1087,7 +1284,9 @@ b) ...
 
 4 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -1101,13 +1300,17 @@ b) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -1115,7 +1318,9 @@ b) ...
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -1123,7 +1328,9 @@ b) ...
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Nos parques e zonas de estacionamento é proibido estacionar:
 
@@ -1137,7 +1344,9 @@ d) ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -1159,7 +1368,9 @@ f) ...
 
 4 - Quem circular em sentido oposto ao legalmente estabelecido ou infringir o disposto nas alíneas c) a f) do n.º 2 é sancionado com coima de (euro) 240 a (euro) 1200.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -1169,19 +1380,25 @@ f) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 240 a (euro) 1200.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - Nas auto-estradas ou troços de auto-estradas com três ou mais vias de trânsito afectas ao mesmo sentido, os condutores de veículos pesados de mercadorias ou conjuntos de veículos cujo comprimento exceda 7 m só podem utilizar as duas vias de trânsito mais à direita.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Podem ser criados nas vias públicas corredores de circulação destinados ao trânsito de veículos de certas espécies ou a veículos afectos a determinados transportes, sendo proibida a sua utilização pelos condutores de quaisquer outros.
 
@@ -1189,7 +1406,9 @@ f) ...
 
 3 - Quem infringir o disposto no n.º 1 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -1203,13 +1422,17 @@ f) ...
 
 6 - Quem infringir o disposto no n.º 4 é sancionado com coima de (euro) 6 a (euro) 30.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -1223,7 +1446,9 @@ f) ...
 
 6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outro diploma legal.
 
-###### Artigo 81.º — Condução sob influência de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas
+Artigo 81.º
+
+Condução sob influência de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas
 
 1 - É proibido conduzir sob influência de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
 
@@ -1241,7 +1466,9 @@ b) (euro) 240 a (euro) 1200, se aquela taxa for igual ou superior a 0,5 g/l e in
 
 c) (euro) 360 a (euro) 1800, se a mesma for igual ou superior a 0,8 g/l ou se conduzir sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - O condutor e passageiros transportados em automóveis são obrigados a usar os cintos e demais acessórios de segurança nos termos fixados em regulamento.
 
@@ -1253,7 +1480,9 @@ c) (euro) 360 a (euro) 1800, se a mesma for igual ou superior a 0,8 g/l ou se co
 
 5 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - É proibido ao condutor utilizar, durante a marcha do veículo, qualquer tipo de auscultadores sonoros e de aparelhos radiotelefónicos.
 
@@ -1269,7 +1498,9 @@ b) Os aparelhos utilizados durante o ensino da condução e respectivo exame, no
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 240 a (euro) 1200 e com perda dos objectos, devendo o agente de fiscalização proceder à sua imediata remoção e apreensão ou, não sendo ela possível, apreender o documento de identificação do veículo até à efectiva remoção e apreensão daqueles objectos, sendo, neste caso, aplicável o disposto no n.º 4 do artigo 168.º
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - Sempre que um veículo a motor transite na via pública o seu condutor deve ser portador dos seguintes documentos:
 
@@ -1293,13 +1524,17 @@ c) ...
 
 5 - Quem infringir o disposto no n.º 3 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - O condutor a quem tenha sido averbado no seu título de condução o uso de lentes, próteses ou outros aparelhos deve usá-los durante a condução.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -1309,7 +1544,9 @@ c) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150, se outra não for especialmente aplicável.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -1327,7 +1564,9 @@ b) ...
 
 6 - Quem infringir o disposto nos n.os 2 e 3 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -1337,7 +1576,9 @@ b) ...
 
 4 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 360 a (euro) 1800, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - Os condutores de motociclos, ciclomotores ou velocípedes não podem:
 
@@ -1355,7 +1596,9 @@ e) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - ...
 
@@ -1363,7 +1606,9 @@ e) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -1371,7 +1616,9 @@ e) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 60 a (euro) 300.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -1379,7 +1626,9 @@ e) ...
 
 3 - Quem infringir o disposto no n.º 2 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -1393,7 +1642,9 @@ e) ...
 
 6 - O proprietário de animal que o deixe vaguear na via pública por forma a impedir ou fazer perigar o trânsito é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - ...
 
@@ -1417,7 +1668,9 @@ e) ...
 
 6 - Quem, com violação dos deveres de cuidado e de protecção, não impedir que os menores de 16 anos que, por qualquer título, se encontrem a seu cargo brinquem nas faixas de rodagem das vias públicas é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -1427,7 +1680,9 @@ e) ...
 
 4 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 6 a (euro) 30.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -1439,13 +1694,17 @@ e) ...
 
 5 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 6 a (euro) 30.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
@@ -1453,7 +1712,9 @@ e) ...
 
 3 - Quem infringir o disposto nos números anteriores é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 É equiparado ao trânsito de peões:
 
@@ -1465,11 +1726,15 @@ c) O trânsito de pessoas utilizando patins, trotinetas ou outros meios de circu
 
 d) O trânsito de cadeiras de rodas equipadas com motor eléctrico.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 Automóvel é o veículo com motor de propulsão, dotado de pelo menos quatro rodas, com tara superior a 550 kg, cuja velocidade máxima é, por construção, superior a 25 km/h, e que se destina, pela sua função, a transitar na via pública, sem sujeição a carris.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - ...
 
@@ -1491,7 +1756,9 @@ e) ...
 
 3 - As categorias de veículos para efeitos de aprovação de modelo são fixadas em regulamento.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -1499,7 +1766,9 @@ e) ...
 
 3 - Os veículos dotados de quatro rodas e cuja tara não exceda 550 kg são englobados na categoria de motociclos ou ciclomotores de acordo com as suas características, nomeadamente de cilindrada e velocidade máxima em patamar e por construção, nos termos fixados em regulamento.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - ...
 
@@ -1519,7 +1788,9 @@ e) ...
 
 9 - Quem infringir o disposto nos n.os 6 e 7 é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - As características dos veículos e dos respectivos sistemas, componentes e acessórios são fixadas em regulamento.
 
@@ -1529,11 +1800,15 @@ e) ...
 
 4 - O fabricante ou vendedor que coloque no mercado veículos, sistemas, componentes ou acessórios sem a aprovação a que se refere o número anterior ou infringindo as normas que disciplinam o seu fabrico e comercialização é sancionado com coima de (euro) 600 a (euro) 3000 se for pessoa singular ou de (euro) 1200 a (euro) 6000 se for pessoa colectiva e com perda dos objectos, os quais devem ser apreendidos no momento da verificação da infracção.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 A transformação de veículos a motor e seus reboques é autorizada nos termos fixados em regulamento.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - Os veículos a motor e os seus reboques podem ser sujeitos, nos termos fixados em regulamento, a inspecção para:
 
@@ -1549,7 +1824,9 @@ d) ...
 
 3 - Ressalvadas as situações de utilização abusiva, a realização das inspecções depende do prévio cumprimento das sanções pecuniárias aplicadas por infracções praticadas com utilização desse veículo.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - Os veículos a motor e os seus reboques só são admitidos em circulação desde que sujeitos a matrícula donde constem as características que permitam identificá-los.
 
@@ -1565,7 +1842,9 @@ d) ...
 
 7 - Quem puser em circulação veículo não matriculado nos termos dos números anteriores é sancionado com coima de (euro) 600 a (euro) 3000, salvo quando se tratar de ciclomotor, tractocarro, tractor ou reboque agrícola ou florestal, em que a coima é de (euro) 300 a (euro) 1500.
 
-###### Artigo 118.º — Identificação do veículo
+Artigo 118.º
+
+Identificação do veículo
 
 1 - Por cada veículo matriculado deve ser emitido um documento destinado a certificar a respectiva matrícula.
 
@@ -1587,7 +1866,9 @@ d) ...
 
 10 - Quem infringir o disposto no n.º 6 é sancionado com coima de (euro) 30 a (euro) 150.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - O proprietário deve requerer o cancelamento da matrícula, no prazo de 30 dias, quando o veículo fique inutilizado ou haja desaparecido, sem prejuízo de cancelamento oficioso nos mesmos casos.
 
@@ -1607,7 +1888,9 @@ d) ...
 
 9 - Quem infringir o disposto nos n.os 1, 5 e 6 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - ...
 
@@ -1629,7 +1912,9 @@ d) ...
 
 10 - Quem infringir o disposto nos n.os 7 e 9 é sancionado com coima de (euro) 60 a (euro) 300, se sanção mais grave não for aplicável por força de outra disposição legal.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - ...
 
@@ -1677,7 +1962,9 @@ c) ...
 
 10 - Quem, sendo titular de carta de condução válida para as categorias B ou B + E, conduzir veículo agrícola ou florestal ou máquina para o qual a categoria averbada não confira habilitação é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 1 - ...
 
@@ -1711,7 +1998,9 @@ III - ...
 
 8 - Quem, sendo titular de licença válida apenas para a condução de ciclomotores, conduzir motociclo de cilindrada não superior a 50 cm3 ou, sendo titular de licença de condução de veículos agrícolas, conduzir veículo agrícola ou florestal de categoria para a qual a mesma licença não confira habilitação é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - Além dos títulos referidos nos artigos 123.º e 124.º, habilitam também à condução de veículos a motor:
 
@@ -1739,7 +2028,9 @@ f) ...
 
 7 - Quem infringir o disposto nos n.os 4 e 5 é sancionado com coima de (euro) 300 a (euro) 1500.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - ...
 
@@ -1787,7 +2078,9 @@ b) ...
 
 c) ...
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - ...
 
@@ -1805,7 +2098,9 @@ b) ...
 
 6 - Quem infringir o disposto nos n.os 1 e 2 é sancionado com coima de (euro) 150 a (euro) 750.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - Podem ainda obter título de condução com dispensa do respectivo exame e mediante entrega de título válido que possuam e comprovação dos requisitos fixados nas alíneas a) a d) do n.º 1 do artigo 126.º:
 
@@ -1819,7 +2114,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - Surgindo fundadas dúvidas sobre a aptidão física, mental ou psicológica ou sobre a capacidade de um condutor ou candidato a condutor para exercer a condução com segurança, a autoridade competente determina que aquele seja submetido, singular ou cumulativamente, conforme os casos, a inspecção médica, a exame psicológico e a novo exame de condução ou a qualquer das suas provas.
 
@@ -1829,7 +2126,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - O título de condução caduca quando:
 
@@ -1855,13 +2154,17 @@ c) Nos termos da alínea c) do n.º 1, por motivo de reprovação ou falta ao ex
 
 6 - Quem conduzir veículo com título caducado nos termos da alínea b) do n.º 1, antes do decurso dos dois anos previstos na alínea b) do n.º 3, é sancionado com coima de (euro) 120 a (euro) 600.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Os veículos a motor e seus reboques só podem transitar na via pública desde que seja efectuado, nos termos de legislação especial, seguro da responsabilidade civil que possa resultar da sua utilização.
 
 2 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 300 a (euro) 1500 se o veículo for um motociclo ou um automóvel ou de (euro) 180 a (euro) 900 se for outro veículo a motor.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - ...
 
@@ -1883,11 +2186,15 @@ d) ...
 
 6 - ...
 
-###### Artigo 140.º — [...]
+Artigo 140.º
+
+[...]
 
 A medida da sanção determina-se em função da gravidade da contra-ordenação, da culpa, dos especiais deveres de cuidado que recaem sobre o condutor, designadamente quando este conduza veículos de socorro ou de serviço urgente, de transporte escolar, ligeiros de aluguer para transporte público, pesados de passageiros ou de mercadorias, ou de transporte de mercadorias perigosas, e da situação económica do infractor, tendo ainda em conta os seus antecedentes relativamente ao cumprimento das leis e regulamentos sobre o trânsito.
 
-###### Artigo 142.º — Suspensão da execução da sanção de inibição de conduzir
+Artigo 142.º
+
+Suspensão da execução da sanção de inibição de conduzir
 
 1 - ...
 
@@ -1907,13 +2214,17 @@ c) Cooperação em campanhas de prevenção rodoviária.
 
 6 - A aplicação dos deveres previstos nas alíneas b) e c) do n.º 2 deve ter em conta a personalidade e as aptidões profissionais do infractor, não podendo prejudicar o exercício normal da sua actividade profissional nem representar obrigações cujo cumprimento não lhe seja razoavelmente exigível.
 
-###### Artigo 143.º — [...]
+Artigo 143.º
+
+[...]
 
 1 - A suspensão da execução da sanção de inibição de conduzir é sempre revogada se, durante o respectivo período, o infractor cometer contra-ordenação grave ou muito grave, ou praticar factos sancionados com proibição ou inibição de conduzir ou cassação do título de condução.
 
 2 - ...
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - ...
 
@@ -1921,7 +2232,9 @@ c) Cooperação em campanhas de prevenção rodoviária.
 
 3 - ...
 
-###### Artigo 146.º — [...]
+Artigo 146.º
+
+[...]
 
 São graves as seguintes contra-ordenações:
 
@@ -1951,7 +2264,9 @@ m) A condução sob influência de álcool, quando a taxa de álcool no sangue f
 
 n) ...
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 São muito graves as seguintes contra-ordenações:
 
@@ -1975,9 +2290,13 @@ i) A infracção prevista na alínea m) do artigo anterior, quando a taxa de ál
 
 j) A condução sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
 
-#### SECÇÃO III — Cassação do título de condução de veículo a motor
+SECÇÃO III
 
-###### Artigo 148.º — Cassação do título de condução
+Cassação do título de condução de veículo a motor
+
+Artigo 148.º
+
+Cassação do título de condução
 
 1 - O tribunal pode ordenar a cassação do título de condução quando:
 
@@ -1999,7 +2318,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 149.º — Interdição da concessão de título de condução
+Artigo 149.º
+
+Interdição da concessão de título de condução
 
 1 - Quando ordenar a cassação de título de condução, o tribunal determina que não pode ser concedido ao seu titular novo título de condução de veículos a motor, de qualquer categoria, pelo período de um a cinco anos.
 
@@ -2007,7 +2328,9 @@ b) ...
 
 3 - O condutor a quem tiver sido cassado título de condução só pode obter novo título após aprovação em exame especial, nos termos fixados em regulamento.
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 1 - Quando qualquer autoridade ou agente de autoridade, no exercício das suas funções de fiscalização, presenciar contra-ordenação, levanta ou manda levantar auto de notícia, que deve mencionar os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade ou agente de autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de, pelo menos, uma testemunha que possa depor sobre os factos.
 
@@ -2019,7 +2342,9 @@ b) ...
 
 5 - A autoridade ou agente de autoridade que tiver notícia, por denúncia ou conhecimento próprio, de contra-ordenação que deva conhecer levanta auto, a que é correspondentemente aplicável o disposto nos n.os 1 e 2, com as necessárias adaptações.
 
-###### Artigo 152.º — Da responsabilidade
+Artigo 152.º
+
+Da responsabilidade
 
 1 - Quando o agente de autoridade não puder identificar o autor da contra-ordenação, a responsabilidade recai sobre quem for proprietário, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou sobre quem, em virtude de facto sujeito a registo, for possuidor do veículo, sendo instaurado contra ele o correspondente processo.
 
@@ -2037,7 +2362,9 @@ b) ...
 
 8 - Quem infringir o disposto no número anterior é sancionado com coima de (euro) 360 a (euro) 1800.
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - É admitido o pagamento voluntário da coima, pelo mínimo, nos termos e com os efeitos estabelecidos nos números seguintes.
 
@@ -2049,7 +2376,9 @@ b) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 154.º — Infractores não domiciliados em Portugal ou com coimas em dívida
+Artigo 154.º
+
+Infractores não domiciliados em Portugal ou com coimas em dívida
 
 1 - Se o infractor não for domiciliado em Portugal ou, sendo-o, não tiver cumprido as sanções pecuniárias que anteriormente lhe foram aplicadas e não pretender efectuar o pagamento voluntário imediato, deve proceder ao depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada.
 
@@ -2065,7 +2394,9 @@ b) ...
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 155.º — Comunicação da infracção
+Artigo 155.º
+
+Comunicação da infracção
 
 1 - Após o levantamento do auto, o arguido deve ser notificado:
 
@@ -2083,7 +2414,9 @@ e) Da possibilidade de pagamento voluntário da coima pelo mínimo, bem como do 
 
 3 - O arguido que proceda ao pagamento voluntário da coima não fica impedido de apresentar a sua defesa, restrita à gravidade da infracção e à sanção de inibição de conduzir aplicável.
 
-###### Artigo 156.º — [...]
+Artigo 156.º
+
+[...]
 
 1 - As notificações efectuam-se:
 
@@ -2113,7 +2446,9 @@ b) O do proprietário, do adquirente com reserva de propriedade, do usufrutuári
 
 9 - Se o notificando se recusar a receber ou a assinar a notificação, o funcionário certifica a recusa, considerando-se efectuada a notificação.
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - A coima é paga no prazo de 20 dias, a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se nas modalidades fixadas em regulamento.
 
@@ -2121,11 +2456,13 @@ b) O do proprietário, do adquirente com reserva de propriedade, do usufrutuári
 
 3 - O disposto no número anterior é aplicável, com igual cominação, à apreensão de veículo prevista no n.º 4 do artigo 152.º, devendo proceder-se à entrega do veículo, do documento que o identifica e do título de registo de propriedade no local que for indicado.
 
-#### SECÇÃO II
+SECÇÃO II
 
 Procedimento para a fiscalização da condução sob influência de álcool ou de substâncias legalmente consideradas como estupefacientes ou psicotrópicas.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - Devem submeter-se às provas estabelecidas para a detecção dos estados de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas:
 
@@ -2143,7 +2480,9 @@ c) As pessoas que se propuserem iniciar a condução.
 
 5 - O médico ou paramédico que, sem justa causa, se recusar a proceder às diligências previstas na lei para diagnosticar o estado de influenciado pelo álcool ou por substâncias legalmente consideradas como estupefacientes ou psicotrópicas é punido por desobediência.
 
-###### Artigo 159.º — Fiscalização da condução sob influência de álcool
+Artigo 159.º
+
+Fiscalização da condução sob influência de álcool
 
 1 - O exame de pesquisa de álcool no ar expirado é realizado por agente de autoridade mediante a utilização de aparelho aprovado para o efeito.
 
@@ -2163,7 +2502,9 @@ b) ...
 
 7 - Se não for possível a realização de prova por pesquisa de álcool no ar expirado, o examinando deve ser submetido a colheita de sangue para análise ou, se se recusar, deve ser realizado exame médico, em estabelecimento oficial de saúde, para diagnosticar o estado de influenciado pelo álcool.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - Quem apresentar resultado positivo no exame previsto no n.º 1 do artigo anterior ou recusar ou não puder submeter-se a tal exame fica impedido de conduzir pelo período de doze horas, a menos que comprove, antes de decorrido esse período, que não está influenciado pelo álcool, através de exame por si requerido.
 
@@ -2173,7 +2514,9 @@ b) ...
 
 4 - As despesas originadas pelo exame a que se refere a parte final do n.º 1 são suportadas pelo examinando, salvo se resultarem de contraprova com resultado negativo requerida ao abrigo do n.º 2 do artigo anterior.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - Para garantir o cumprimento do disposto no n.º 1 do artigo anterior deve o veículo ser imobilizado ou removido para parque ou local apropriado, providenciando-se, sempre que tal se mostre indispensável, o encaminhamento dos ocupantes do veículo.
 
@@ -2183,7 +2526,9 @@ b) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 162.º — [...]
+Artigo 162.º
+
+[...]
 
 1 - Os condutores e os peões que intervenham em acidente de trânsito devem, sempre que o seu estado de saúde o permitir, ser submetidos a exame de pesquisa de álcool no ar expirado, nos termos do artigo 159.º
 
@@ -2193,7 +2538,9 @@ b) ...
 
 4 - Os mortos devem também ser submetidos ao exame previsto no n.º 2.
 
-###### Artigo 163.º — Fiscalização da condução sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas
+Artigo 163.º
+
+Fiscalização da condução sob influência de substâncias legalmente consideradas como estupefacientes ou psicotrópicas
 
 1 - Os condutores e as pessoas que se propuserem iniciar a condução devem ser submetidos aos exames legalmente estabelecidos para detecção de substâncias legalmente consideradas como estupefacientes ou psicotrópicas, quando haja indícios de que se encontram sob influência destas substâncias.
 
@@ -2211,7 +2558,9 @@ b) As pessoas que se propuserem iniciar a condução nas circunstâncias previst
 
 6 - Para os efeitos previstos nos números anteriores aplica-se, com as necessárias adaptações, o disposto nos n.º 2, 3 e 4 do artigo 162.º
 
-###### Artigo 164.º — Outras disposições
+Artigo 164.º
+
+Outras disposições
 
 1 - São fixados em regulamento:
 
@@ -2229,9 +2578,13 @@ e) As tabelas dos preços dos exames realizados e das taxas de transporte dos ex
 
 3 - Quando os exames referidos tiverem resultado positivo, as despesas são da responsabilidade do examinando, devendo ser levadas à conta de custas nos processos crime ou de contra-ordenação a que houver lugar, as quais revertem a favor da entidade referida no número anterior.
 
-#### SECÇÃO III — Apreensão de documentos
+SECÇÃO III
 
-###### Artigo 165.º — Apreensão preventiva de títulos de condução
+Apreensão de documentos
+
+Artigo 165.º
+
+Apreensão preventiva de títulos de condução
 
 1 - Os títulos de condução devem ser preventivamente apreendidos pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -2243,7 +2596,9 @@ c) Se encontrem em estado de conservação que torne ininteligível qualquer ind
 
 2 - Nos casos previstos nas alíneas a) e c) do número anterior, deve, em substituição do título, ser fornecida uma guia de condução válida pelo tempo julgado necessário e renovável quando ocorra motivo justificado.
 
-###### Artigo 166.º — Outros casos de apreensão de títulos de condução
+Artigo 166.º
+
+Outros casos de apreensão de títulos de condução
 
 1 - Os títulos de condução devem ser apreendidos para cumprimento da cassação do título, proibição ou inibição de conduzir.
 
@@ -2259,7 +2614,9 @@ c) Tenha caducado nos termos do n.º 1 do artigo 130.º
 
 4 - Sem prejuízo da punição por desobediência, se o condutor não proceder à entrega do título de condução nos termos do número anterior, pode a entidade competente determinar a sua apreensão, através da autoridade de fiscalização e seus agentes.
 
-###### Artigo 167.º — Apreensão do documento de identificação do veículo
+Artigo 167.º
+
+Apreensão do documento de identificação do veículo
 
 1 - O documento de identificação do veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -2289,9 +2646,13 @@ h) Seja determinada a apreensão do veículo nos termos do n.º 4 do artigo 152.
 
 6 - Sem prejuízo do disposto nos n.os 3 a 5, quem conduzir veículo cujo documento de identificação tenha sido apreendido é sancionado com coima de (euro) 300 a (euro) 1500, quando se trate de automóvel, motociclo ou reboque, e de (euro) 180 a (euro) 900, quando se trate de outro veículo a motor.
 
-#### SECÇÃO IV — Apreensão de veículos
+SECÇÃO IV
 
-###### Artigo 168.º — Apreensão de veículos
+Apreensão de veículos
+
+Artigo 168.º
+
+Apreensão de veículos
 
 1 - O veículo deve ser apreendido pelas autoridades de investigação criminal ou de fiscalização ou seus agentes quando:
 
@@ -2319,9 +2680,13 @@ f) Não tenha sido efectuado seguro de responsabilidade civil nos termos da lei.
 
 7 - Quem for proprietário, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou quem, em virtude de facto sujeito a registo, tiver a posse do veículo, responde pelo pagamento das despesas causadas pela apreensão do veículo.
 
-#### SECÇÃO V — Abandono, bloqueamento e remoção de veículos
+SECÇÃO V
 
-###### Artigo 169.º — Estacionamento indevido ou abusivo
+Abandono, bloqueamento e remoção de veículos
+
+Artigo 169.º
+
+Estacionamento indevido ou abusivo
 
 Considera-se estacionamento indevido ou abusivo:
 
@@ -2337,7 +2702,9 @@ e) O de veículos agrícolas, máquinas industriais, reboques e semi-reboques n�
 
 f) O que se verifique por tempo superior a quarenta e oito horas, quando se tratar de veículos que apresentem sinais exteriores evidentes de abandono ou de impossibilidade de se deslocarem com segurança pelos seus próprios meios.
 
-###### Artigo 170.º — Bloqueamento e remoção
+Artigo 170.º
+
+Bloqueamento e remoção
 
 1 - Podem ser removidos os veículos que se encontrem:
 
@@ -2389,7 +2756,9 @@ m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
 8 - As taxas não são devidas quando se verificar que houve errada aplicação das disposições legais.
 
-###### Artigo 171.º — Presunção de abandono
+Artigo 171.º
+
+Presunção de abandono
 
 1 - Removido o veículo, nos termos do artigo anterior, deve ser notificado o proprietário, para a residência constante do respectivo registo, para o levantar no prazo de 45 dias.
 
@@ -2401,7 +2770,9 @@ m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
 5 - O veículo é considerado imediatamente abandonado quando essa for a vontade manifestada expressamente pelo seu proprietário.
 
-###### Artigo 172.º — Reclamação de veículos
+Artigo 172.º
+
+Reclamação de veículos
 
 1 - Da notificação deve constar a indicação do local para onde o veículo foi removido e, bem assim, que o proprietário o deve retirar dentro dos prazos referidos no artigo anterior e após o pagamento das despesas de remoção e depósito, sob pena de o veículo se considerar abandonado.
 
@@ -2411,7 +2782,9 @@ m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
 4 - A entrega do veículo ao reclamante depende da prestação de caução de valor equivalente às despesas de remoção e depósito.
 
-###### Artigo 173.º — Hipoteca
+Artigo 173.º
+
+Hipoteca
 
 1 - Quando o veículo seja objecto de hipoteca, a remoção deve também ser notificada ao credor, para a residência constante do respectivo registo ou nos termos do n.º 3 do artigo anterior.
 
@@ -2425,7 +2798,9 @@ m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
 6 - O credor hipotecário tem direito de exigir do proprietário as despesas referidas no número anterior e as que efectuar na qualidade de fiel depositário.
 
-###### Artigo 174.º — Penhora
+Artigo 174.º
+
+Penhora
 
 1 - Quando o veículo tenha sido objecto de penhora ou acto equivalente, a autoridade que procedeu à remoção deve informar o tribunal das circunstâncias que a justificaram.
 
@@ -2433,7 +2808,9 @@ m) Na faixa de rodagem de auto-estrada ou via equiparada.
 
 3 - Na execução, os créditos pelas despesas de remoção e depósito gozam de privilégio mobiliário especial.
 
-###### Artigo 175.º — Pessoas a notificar
+Artigo 175.º
+
+Pessoas a notificar
 
 1 - Existindo sobre o veículo um direito de usufruto, a notificação referida nos artigos 171.º e 172.º deve ser feita ao usufrutuário, aplicando-se ao proprietário, com as necessárias adaptações, o disposto no artigo 173.º
 
@@ -2453,15 +2830,15 @@ O presente diploma entra em vigor no dia 1 de Outubro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa.
 
-**Promulgado em 19 de Setembro de 2001.**
+Promulgado em 19 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 2001.**
+Referendado em 20 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 CÓDIGO DA ESTRADA
 
@@ -2781,7 +3158,7 @@ i) Nos locais assinalados com sinais de perigo.
 
 1 - Sem prejuízo do disposto nos artigos 24.º e 25.º e de limites inferiores que lhes sejam impostos, os condutores não podem exceder as seguintes velocidades instantâneas (em quilómetros/hora):
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)](https://files.diariodarepublica.pt/1s/2001/09/226a01/00020059.pdf)
 
 2 - Quem exceder os limites máximos de velocidade é sancionado:
 

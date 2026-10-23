@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0002500026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/34/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2025-912066243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d9b4f46c1a2e2e72a5f3da3d25ff1793389a7f9492001163dd2edc7a2d6db4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58eac6e692b2064e9c430d9db981a99dd66ccba780920c850d9d1566cc395b80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Cobrança de Impostos
-- Contabilidade
 - Código do IVA
-- Pagamento
+- Contabilidade
 - Contribuições e Impostos
+- Empresa
 - IVA
+- Pagamento
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:71/2013
+  label: Altera, com efeitos a partir de 1 de julho de 2025, os artigos 1.º e 5.º do regime de IVA de caixa, aprovado em anexo
+    ao Decreto-Lei n.º 71/2013, de 30 de maio, Diário da República n.º 104/2013, Série I
+  source: null
+  date: '2013-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/2013/05/30/p/dre
   label: null
@@ -89,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908906753:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:10Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +129,7 @@ validation:
 
 de 24 de março
 
-O regime de contabilidade de caixa, introduzido em sede do imposto sobre o valor acrescentado (IVA), através do [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.<sup>os</sup>[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, e em vigor desde 1 de outubro de 2013, abrangeu, até ao presente, apenas os sujeitos passivos de IVA com um volume de negócios anual até € 500 000,00.
+O regime de contabilidade de caixa, introduzido em sede do imposto sobre o valor acrescentado (IVA), através do [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.os[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, e em vigor desde 1 de outubro de 2013, abrangeu, até ao presente, apenas os sujeitos passivos de IVA com um volume de negócios anual até € 500 000,00.
 
 Todavia, pretendeu-se a introdução gradual do regime, de forma a permitir avaliar, através da sua aplicação ao longo do tempo, a conveniência do seu alargamento a um universo maior de operadores económicos, contribuindo dessa forma para a promoção da melhoria da situação financeira das empresas abrangidas.
 
@@ -121,7 +143,7 @@ No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 18/2
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei altera o regime de contabilidade de caixa em sede de Imposto sobre o Valor Acrescentado (regime de IVA de caixa), aprovado em anexo ao [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.<sup>os</sup>[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro.
+O presente decreto-lei altera o regime de contabilidade de caixa em sede de Imposto sobre o Valor Acrescentado (regime de IVA de caixa), aprovado em anexo ao [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.os[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro.
 
 ###### Artigo 2.º — Alteração ao regime de IVA de caixa
 
@@ -137,7 +159,9 @@ Os artigos 1.º e 5.º do regime de IVA de caixa, na sua redação atual, passam
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -161,12 +185,14 @@ O presente decreto-lei produz efeitos a partir de 1 de julho de 2025.
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 14 de março de 2025.**
+Promulgado em 14 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de março de 2025.**
+Referendado em 18 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118839105

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/131/2000/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2000-319929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 031083e112e492d39ac67ed3e066d57fbaf2904770d79f59115938217d2a8f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d9df3b0f3c387ddde9d7cceb8c30b05cd64f443873155b5edeccbb1b3d3cea6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Animal Doméstico
 - Aproximação das Legislações
 - CÃO
-- Alimento para Animais
 - Gato
 relationships:
 - type: cites
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:09Z'
   warnings: []
   errors: []
 ---
@@ -121,12 +121,12 @@ O n.º 2.º da Portaria n.º 76/96, de 9 de Março, passa a ter a seguinte redac
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres. - Joaquim Augusto Nunes Pina Moura. - Joaquim Augusto Nunes Pina Moura. - Luís Manuel Capoulas Santos.
 
-**Promulgado em 23 de Junho de 2000.**
+Promulgado em 23 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2000.**
+Referendado em 4 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

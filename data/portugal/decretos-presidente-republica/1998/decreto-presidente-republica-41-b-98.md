@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 229/1998, 1º Suplemento, Série I-A de 1998-10-03
   number: '229'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5016-(2) a 5016-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/10/229a01/00020002.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/41-b/1998/10/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/41-b-1998-147800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22abf17267c80af710f388a5f33289b7ae225b99a48694223b957cb9c9c88fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b071c2dda0b9b7024b16d6851bd59481d65ec7ff6b3f456887d68c394ba17310
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,21 @@ relationships:
   target: pt:dre:229100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:229101:por
+  label: "Rectificado pela DECL-RECT.19/98.1998.10.15.PR DR.IS-A [251] DE 30/OUT/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-1998-229101
+  date: '1998-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:07Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +99,12 @@ de 3 de Outubro
 
 É exonerado, a seu pedido e sob proposta do Primeiro-Ministro, o engenheiro Fernando Manuel Van-Zeller Gomes da Silva do cargo de Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-**Assinado em 3 de Outubro de 1998.**
+Assinado em 3 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Outubro de 1998.**
+Referendado em 3 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

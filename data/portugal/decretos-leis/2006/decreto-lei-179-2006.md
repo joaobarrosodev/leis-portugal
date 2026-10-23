@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2006/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2006-540014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db8ef8cbc0423623688ee5d249ecf9b14f6087e9a88c4fff1afcb80be9621aed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c6c9ebe8c494209281c21788460dd59ddc7ea8cf262cf2169e8c8f6f2a39d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
+- Financiamento
+- Ifadap
 - JURO Bonificado
 - Licenciamento
 - Linha de Crédito
+- Pesca
 - Piddac
-- Ifadap
 relationships:
 - type: cites
   target: celex:32004R1860
@@ -86,13 +86,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:06Z'
   warnings: []
   errors: []
 ---
@@ -241,12 +241,12 @@ A cobertura orçamental dos encargos financeiros e da comissão de gestão previ
 
 Visto e aprovado em Conselho de Ministros de 13 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Medeiros Vieira.
 
-**Promulgado em 24 de Agosto de 2006.**
+Promulgado em 24 de Agosto de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Agosto de 2006.**
+Referendado em 25 de Agosto de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

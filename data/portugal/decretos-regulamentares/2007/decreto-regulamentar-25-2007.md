@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18821884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/25/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-2007-520453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b41e7bd87ab57f8076bb610011df0e5e0355a7b86ea6e1cc13e5f7deff60433e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66ff393b918b4cbe505c7aaaae083a8739f5e7f6c2717b4f72c20175daeb7bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Equiparação de Cargos
 - Gabinete de Estatística e Planeamento da Educação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -77,6 +77,40 @@ relationships:
   target: pt:dre:543908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455153:por
+  label: "Alterados , a partir de 01.09.2008, os arts. 2º, 3º e 4º e o anexo e revogado o nº3 do art. 2º do presente diploma,\
+    \ pelo DR.15/2008.08.08.2008.ME, DR.IS [153] de 08.08.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-2008-455153
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto, sendo objecto de fusão, o Gabinete de Estatística e Planeamento da Educação e integradas as suas atribuições\
+    \ nos termos da al. g) do nº 3 do art. 31º, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544377:por
+  label: "Determinada a sucessão pela Direção-Geral de Estatísticas da Educação e Ciência das atribuições do Gabinete de Estatística\
+    \ e Planeamento da Educação, no domínio da produção e análise estatística e da observação e avaliação global de resultados\
+    \ obtidos pelo sistema educativo pelo DR.13/2012.20.01.2012.MECI, DR.IS [15] de 20.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2012-544377
+  date: '2012-01-20'
+- type: amended_by
+  target: pt:dre:543908:por
+  label: "Determinada a sucessão pela Direção-Geral de Planeamento e Gestão Financeira do Ministério da Educação e Ciência\
+    \ das atribuições, no domínio do planeamento estratégico operacional, do ex-Gabinete de Estatística e Planeamento da Educação,\
+    \ constantes do presente diploma, alterado pelo DR 15/2008 de 08-ago, que é revogado, a partir de 01.02.2012, pelo DR.19/2012.31.01.2012.MECI,\
+    \ DR.IS [22] de 31.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2012-543908
+  date: '2012-01-31'
+- type: amended_by
+  target: pt:dre:543909:por
+  label: "Determinada a sucessão pela Secretaria-Geral do Ministério da Educação e Ciência das atribuições, no domínio das\
+    \ relações internacionais, do Gabinete de Estatística e Planeamento da Educação pelo DR.18/2012.31.01.2012.MECI, DR.IS\
+    \ [22] de 31.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-2012-543909
+  date: '2012-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/2006/10/27/p/dre
   label: null
@@ -93,16 +127,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:302348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:15Z'
   warnings: []
   errors: []
 ---
@@ -225,16 +275,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 14 de Março de 2007.**
+Promulgado em 14 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 15 de Março de 2007.**
+Referendado em 15 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18821884.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18821884.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18821884.pdf)

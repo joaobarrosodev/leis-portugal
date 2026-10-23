@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/210/2008/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2008-439131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5189351f02b326023e57a4855ec40c07c8f842ed1fbc6f9e852b9ee19854cf7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55a6e1c0cafee8d21cfa388a15c044050a5893aa93bdc28b2c499e5bf5ceabd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Porto da Figueira da FOZ
+- Administração de Portos
 - Administração do Porto da Figueira da FOZ
+- ÁREA de Jurisdição
 - Assembleia Geral
-- Património
-- Sociedade Anónima
-- Fiscal Único
 - Capital Social
-- Gestão Financeira
 - Conselho de Administração
-- Instituto Portuário e dos Transportes Marítimos
 - Criação de Empresas
 - Definição de Competências
 - Direito Público
 - Domínio Público Marítimo
 - Estatuto
-- Administração de Portos
-- Setor Empresarial do Estado
+- Exploração Portuária
+- Fiscal Único
 - Gestão do Património
-- ÁREA de Jurisdição
+- Gestão Financeira
+- Instituto Portuário e dos Transportes Marítimos
 - Licenciamento
 - Orgânica
-- Receita Própria
-- Exploração Portuária
+- Património
+- Porto da Figueira da FOZ
 - Portos
+- Receita Própria
+- Setor Empresarial do Estado
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre a administração do Porto da Figueira da Foz seja exercida pela
+    Ministra do Mar em coordenação com o Ministro do Planeamento e das Infraestruturas, sem prejuízo dos poderes legalmente
+    conferidos ao Conselho de Ministros e ao Ministro das Finanças pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República
+    n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro das Finanças, o exercício da superintendência e tutela do Ministro das Infraestruturas e Habitação, em coordenação
+    com o Ministro da Economia e do Mar, sobre a Administração do Porto da Figueira da Foz, S.A. (APFF, S. A.) pelo(a) Decreto-Lei
+    n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2007/04/27/p/dre
   label: null
@@ -119,16 +135,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/49/2007/03/28/p/dre
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:440531:por
+  label: "Rectificado pela DECL-RECT.75/2008.09.12.2008.PCM, DR.IS [237] de 09.12.2008, e publicado o anexo IV, que por lapso\
+    \ foi omitido \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/75-2008-440531
+  date: '2008-12-09'
 article_structure:
   article_count: 53
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:44Z'
   warnings: []
   errors: []
 ---
@@ -361,15 +411,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 8 de Outubro de 2008.**
+Promulgado em 8 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Outubro de 2008.**
+Referendado em 13 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
@@ -905,4 +955,4 @@ xiii) Sistema de ancoragem de barreiras.
 
 Os terrenos e outros imóveis pertencentes à área de jurisdição da APFF, S. A., são delimitados por uma linha com início na intersecção do paralelo 53 750 com a berma poente da Rua do Engenheiro Silva (A) e acompanha esta via para sul até intersectar a berma sul da Avenida da Foz do Mondego. Segue ao longo da berma para nascente, continuando no mesmo sentido na Avenida de Saraiva de Carvalho e na Estrada Municipal n.º 600 até intersectar o caminho de ferro (B), passando a acompanhar o limite sul deste caminho até à Estação de Tratamento de Águas Residuais da Câmara Municipal da Figueira da Foz (C), onde atravessa o rio Mondego para o vértice nascente do Serradinho. Segue para sul até ao respectivo limite, inflectindo depois no sentido poente acompanhando os limites sul do «Viveiro do Mondeguinho», do «Viveiro do Cerco», que atravessa a meio, do «Viveiro do Norte», do «Viveiro S. Julião» e do «Viveiro D. Maria». Atravessa a EN 109 para a berma poente, passando a acompanhar este limite no sentido sul até à rotunda, que contorna também para poente e logo de seguida para norte até ao ponto D. Segue para norte até ao ponto E, inflectindo para poente até ao ponto F e G onde intersecta o paralelo 52 100.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21300/0766907679.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21300/0766907679.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21300/0766907679.pdf)

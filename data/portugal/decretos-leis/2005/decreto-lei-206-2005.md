@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2005/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2005-482816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db69f1080c4826dee2518c1fb0f8157be5d7718ecf2483f7c6bf62c7500f4574
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 169d4bb4b5ec12a8050f8d8141629746a16e4120a8cf93b8354e6995d58e0d23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,45 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
+- Carreira Profissional
+- Direcção Geral da Autoridade Marítima
 - Embarcação
+- Embarcação de Pesca
+- Escola de Pesca e de Marinha do Comércio
 - Forpescas
+- Instituto Portuário e dos Transportes Marítimos
 - Marinha Mercante
 - Pessoal do MAR
-- Instituto Portuário e dos Transportes Marítimos
-- Segurança das Embarcações
-- Escola de Pesca e de Marinha do Comércio
-- Carreira Profissional
 - Qualificação Profissional
-- Embarcação de Pesca
-- Direcção Geral da Autoridade Marítima
+- Segurança das Embarcações
 relationships:
 - type: amended_by
   target: pt:dre:125865390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638764:por
+  label: "Alterados os arts. 57º-A e 57º-B do anexo IV do Dec Lei280/2001 de 23-Out, aditados pelo presente diploma, pelo\
+    \ DEC LEI.226/2007.31.05.2007.MOPTC, DR.IS [105] de 31.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2007-638764
+  date: '2007-05-31'
+- type: amended_by
+  target: pt:dre:75194226:por
+  label: Aditado o art. 56.º-A (que revoga a secção II e todos os modelos constantes da secção V que remetem para os artigos
+    da secção II, ambas do anexo IV do Dec. Lei 280/2001 de 23-out, na redação do presente diploma) ao Dec. Lei 34/2015 de
+    04-mar, pelo(a) Decreto-Lei n.º 53/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2016-75194226
+  date: '2016-08-24'
+- type: amends
+  target: pt:numero:lei:280/2001
+  label: "Altera os arts. 8.º, 26.º, 35.º, 36.º, 40.º, 45.º, 52.º, 54.º, 55.º, 70.º e 79.º do Dec Lei n.º 280/2001, de 23-Out\
+    \ DR.IS-A [246], altera os arts. 6.º, 8.º e 10.º do anexo I, os arts. 2.º e 6.º do anexo II, os arts. 1.º, 20.º, 21.º,\
+    \ 24.º, 25.º, 34.º, 35.º, 36.º, 40.º, 48.º e 50.º do anexo III, os arts. 2.º, 11.º, 14.º e 24.º, (na redacção do Dec Lei\
+    \ 51/2005 de 25-Fev), 25.º, 35.º, 39.º, 41.º, 53.º, 56.º, 77.º, 78.º, 79.º e 81.º e adita os arts. 57-A e 57-B ao anexo\
+    \ IV, altera os arts. 5.º e 7.º do anexo V e o apêndice II-B do anexo VI, e indica nos termos dos arts. 4.º e 5.º determinadas\
+    \ correspondências e referências\0s\0"
+  source: null
+  date: '2001-10-23'
 - type: cites
   target: celex:32001L0025
   label: null
@@ -93,16 +116,23 @@ relationships:
   target: celex:32003L0103
   label: null
   source: http://data.europa.eu/eli/dir/2003/103/oj
+- type: repealed_by
+  target: pt:dre:125865390:por
+  label: Revogado, com efeitos no dia 01.01.2020, o Dec Lei 280/2001 de 23-out, na redação do presente diploma, mantendo-se
+    válidas, pelo período nelas indicado, as cédulas marítimas emitidas ao seu abrigo, pelo(a) Decreto-Lei n.º 166/2019 -
+    Diário da República n.º 210/2019, Série I de 2019-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2019-125865390
+  date: '2019-10-31'
 article_structure:
-  article_count: 49
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:41Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +177,15 @@ O presente decreto-lei visa transpor para a ordem jurídica nacional a Directiva
 
 4 - A suspensão da inscrição do marítimo ou o seu levantamento são decretados pelos órgãos locais da Direcção-Geral da Autoridade Marítima (DGAM), devendo ser dado conhecimento ao órgão local a que corresponder a inscrição do marítimo.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 A formação na área da marinha mercante - comércio e pescas - pode ser ministrada por organismos públicos, por organismos dotados de personalidade jurídica de direito público ou por entidades do sector privado ou cooperativo, com ou sem fins lucrativos, que devem assegurar o desenvolvimento da formação a partir da utilização de instalações, recursos humanos e técnico-pedagógicos e outras estruturas adequadas.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +199,9 @@ d) ...
 
 e) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 a) ...
 
@@ -181,7 +217,9 @@ f) Sistema específico de reconhecimento - o processo de reconhecimento de certi
 
 g) Reconhecimento de certificados de competência emitidos por países terceiros - o processo de reconhecimento, por autenticação, de certificados de competência emitidos por países terceiros previsto na Directiva n.º [2003/103/CE](https://data.europa.eu/eli/dir/2003/103/oj?locale=pt), de 17 de Novembro, que altera a Directiva n.º [2001/25/CE](https://data.europa.eu/eli/dir/2001/25/oj?locale=pt).
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - O reconhecimento específico destina-se a reconhecer o certificado de competência emitido por um Estado membro e de que seja titular um nacional de um Estado membro ou de um país terceiro.
 
@@ -189,7 +227,9 @@ g) Reconhecimento de certificados de competência emitidos por países terceiros
 
 3 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +243,9 @@ ii) Obter a inscrição marítima e a cédula marítima portuguesa, na categoria
 
 2 - A cédula marítima e a carta de oficial, emitidas em resultado do reconhecimento de um certificado, devem fazer menção do Estado membro que emitiu esse certificado.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 O reconhecimento pelo IPTM de certificados de competência emitidos pelas entidades competentes de países terceiros depende da verificação cumulativa das seguintes condições:
 
@@ -211,7 +253,9 @@ a) ...
 
 b) ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -235,7 +279,9 @@ b) ...
 
 4 - Para efeitos do processo de reconhecimento a que se refere o presente artigo, o IPTM deve ter em atenção a lista dos países terceiros reconhecidos, publicada no Jornal Oficial da União Europeia, série C.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +299,9 @@ d) Quando for proferida decisão de retirada do reconhecimento no decurso do pro
 
 4 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Ao IPTM compete fixar a lotação de segurança e emitir os respectivos certificados das seguintes embarcações:
 
@@ -277,7 +325,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - O não cumprimento da lotação fixada, salvo nos casos previstos nos n.os 1 e 2 do artigo 72.º, em violação do disposto no n.º 2 do artigo 68.º, ambos do presente decreto-lei, faz incorrer a companhia e o responsável pelo governo da embarcação em infracção contra-ordenacional, punível com coima no montante mínimo de (euro) 249,40 e máximo de (euro) 3740,98.
 
@@ -297,7 +347,9 @@ f) ...
 
 [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A cédula é identificada pela combinação de uma letra e um número composto por seis algarismos.
 
@@ -305,7 +357,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +375,9 @@ f) ...
 
 7 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -333,13 +389,17 @@ f) ...
 
 [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A comprovação da aptidão física e psíquica a que se refere o n.º 1 do artigo anterior decorre da apresentação pelos interessados do respectivo certificado de aptidão física emitido por médicos com especialidade de medicina do trabalho ou por médicos em serviço nos centros de saúde do Serviço Nacional de Saúde.
 
 2 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -351,13 +411,15 @@ f) ...
 
 Modelo a que se refere o artigo 6.º
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
 
 4 - Os artigos 1.º, 20.º, 21.º, 24.º, 25.º, 34.º, 35.º, 36.º, 40.º, 48.º e 50.º do anexo III ao Decreto-Lei n.º 280/2001, de 23 de Outubro, passam a ter a seguinte redacção:
 
 «ANEXO III
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 ...
 
@@ -371,7 +433,9 @@ d) ...
 
 e) Segundo-oficial de máquinas ou segundo de máquinas - o marítimo da secção de máquinas cujo cargo vem imediatamente a seguir ao de chefe de máquinas e que é responsável pelas instalações mecânicas e eléctricas da embarcação, em caso de incapacidade daquele, tomando, respectivamente, a primeira designação, quando pertence ao escalão dos oficiais, e a segunda, quando pertence ao escalão da mestrança.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +445,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -403,7 +469,9 @@ i) Tenha dois anos de embarque em embarcações de pesca não registadas na áre
 
 ii) Esteja habilitado com o curso de promoção para contramestre-pescador.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -417,13 +485,17 @@ i) Tenha seis meses de embarque em embarcações de pesca;
 
 ii) Esteja habilitado com o curso de promoção para marinheiro-pescador.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
 2 - Tem acesso à categoria de pescador o indivíduo habilitado com o curso de preparação para pescador.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -433,7 +505,9 @@ a) Tenha um ano e meio de embarque em embarcações com máquinas propulsoras de
 
 b) ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -461,7 +535,9 @@ ii) Tenha um ano de embarque em embarcações com máquinas propulsoras de combu
 
 iii) Esteja habilitado com o curso de promoção para maquinista prático de 2.ª classe.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -471,7 +547,9 @@ iii) Esteja habilitado com o curso de promoção para maquinista prático de 2.�
 
 4 - Têm acesso à categoria de maquinista prático de 3.ª classe o ajudante de maquinista, o mecânico de bordo e o marinheiro-maquinista que, após a obtenção das respectivas categorias, tenham um ano de embarque em embarcações com máquinas propulsoras de combustão interna de potência igual ou superior a 350 kW.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -485,7 +563,9 @@ i) Tenha seis meses de embarque em embarcações de pesca não registadas na ár
 
 ii) Esteja habilitado com o curso de formação de ajudante de maquinista.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -497,7 +577,9 @@ b) Possua experiência profissional no exercício de funções de empregado de c
 
 3 - Em ambos os casos referidos no número anterior, deverá o interessado ser titular de certificado de segurança básica ou de prova documental de ter frequentado curso de formação que inclua as matérias indicadas nas tabelas A-VI/1-1, A-VI/1-2, A-VI/1-3 e A-VI/1-4 do Código STCW.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - O exercício de funções por marítimos detentores das categorias previstas no presente diploma em embarcações a que se aplique a Convenção STCW está condicionado à titularidade dos respectivos certificados profissionais dos marítimos, em conformidade com o disposto no regulamento relativo à formação e à certificação dos marítimos.
 
@@ -531,7 +613,9 @@ j) Tripulantes de navios-tanques (navios petroleiros, químicos e de gás liquef
 
 [...]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -547,7 +631,9 @@ c) Para o escalão da marinhagem:
 
 3) Cursos de promoção.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -555,7 +641,9 @@ c) Para o escalão da marinhagem:
 
 3 - Os cursos destinados a marítimos dos escalões da mestrança e marinhagem da pesca são ministrados na Escola de Pesca e Marinha de Comércio e no Centro de Formação Profissional para o Sector das Pescas (FORPESCAS) ou em outros estabelecimentos de formação que tenham sido objecto de acreditação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -567,7 +655,9 @@ b) Ao presidente do Instituto Portuário e dos Transportes Marítimos (IPTM), qu
 
 3 - Os exames são realizados em qualquer época do ano, nos departamentos ou estabelecimentos de formação que forem indicados aos requerentes pelas entidades competentes para a sua realização nos termos do n.º 1.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 ...
 
@@ -591,7 +681,9 @@ i) ...
 
 j) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -609,7 +701,9 @@ e) Embarcações com arqueação bruta inferior a 300 em viagens costeiras ou co
 
 f) Embarcações registadas no tráfego local.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -633,7 +727,9 @@ c) Efectuou três anos de embarque em serviço de quarto na casa das máquinas e
 
 8 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -657,7 +753,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -669,7 +767,9 @@ b) ...
 
 c) ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 ...
 
@@ -685,7 +785,9 @@ e) Certificado de controlo de multidões;
 
 f) Certificado de segurança para tripulantes que prestem assistência directa aos passageiros.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
@@ -705,7 +807,9 @@ a) Efectuaram, pelo menos, três meses de serviço de mar, no período de valida
 
 b) ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -713,7 +817,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -725,13 +831,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - O certificado para a condução de motores com potência igual ou inferior a 350 kW confere ao marítimo competência para exercer as funções correspondentes à categoria de maquinista prático de 3.ª classe em embarcações com máquinas propulsoras de combustão interna de potência igual ou inferior a 350 kW, sem prejuízo de poder acumular as funções referidas com as que correspondem à sua categoria.
 
 2 - ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - Os modelos dos certificados profissionais dos marítimos previstos neste regulamento constam deste anexo, que dele fazem parte integrante.
 
@@ -753,7 +863,9 @@ d) A assinatura do presidente é digitalizada.
 
 [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -769,7 +881,9 @@ d) A assinatura do presidente é digitalizada.
 
 7 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O aumento, a redução ou a substituição de tripulantes são obrigatoriamente averbados no rol de tripulação pelo comandante, pelo mestre ou pelo arrais e comunicados aos órgãos locais da DGAM do porto de saída da embarcação, de acordo com os procedimentos previstos nos n.os 2, 3 e 4 do artigo 5.º deste anexo.
 
@@ -787,7 +901,7 @@ d) A assinatura do presidente é digitalizada.
 
 [...]
 
-## APÊNDICE II
+APÊNDICE II
 
 [...]
 
@@ -835,7 +949,7 @@ b) Obtiverem aprovação num curso de actualização apropriado.
 
 Modelo do certificado a que se refere o artigo 57.º-A
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
 
 ###### Artigo 57.º-B — Certificado de segurança para tripulantes que prestem assistência directa aos passageiros
 
@@ -855,7 +969,7 @@ b) Possuir o certificado de segurança básica ou obter, nos últimos cinco anos
 
 Modelo do certificado a que se refere o artigo 57.º-B
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)](https://files.diariodarepublica.pt/1s/2005/11/228a00/68106818.pdf)
 
 ###### Artigo 4.º — Correspondências
 
@@ -871,12 +985,12 @@ Modelo do certificado a que se refere o artigo 57.º-B
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.
 
-**Promulgado em 4 de Novembro de 2005.**
+Promulgado em 4 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Novembro de 2005.**
+Referendado em 16 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

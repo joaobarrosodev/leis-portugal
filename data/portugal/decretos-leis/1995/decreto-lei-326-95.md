@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/280a00/75567559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/326/1995/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1995-633725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e812b2737e7e67110fb2ddaa463878b2ec9d135cdc0528d175a82a950dc805fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34acf8ab8d70f8a51be4060fb42145b71988f6a5af388546025122e87f3e6580
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Financiamento
-- Comissão Consultiva
-- Definição de Competências
+- Agricultura
 - Catástrofe
+- Clima
+- Comissão Consultiva
+- Companhia de Seguros
+- Definição de Competências
+- Financiamento
+- Fundo de Calamidades
+- Ifadap
 - Indemnização
 - Instituto de Estruturas Agrárias e Desenvolvimento Rural
 - Instituto de Seguros de Portugal
 - Produção Agrícola
 - Regime Jurídico
-- Agricultura
-- Ifadap
-- Companhia de Seguros
 - Seguro Agrícola
 - Seguro contra Danos
-- Fundo de Calamidades
-- Clima
+- Sipac
 - Situação de Calamidade
 relationships:
 - type: amended_by
@@ -96,16 +96,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/253/1991/07/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/253/1991/07/18/p/dre
+- type: cites
+  target: pt:dre:264701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663342:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:535012:por
+  label: "Revogado pelo DEC LEI.20/96.1996.03.19.MADRP DR.IS-A [67], na data da entrada em vigor deste diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1996-535012
+  date: '1996-03-19'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:25Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +151,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Pelo presente diploma é instituído no território do continente um Sistema Integrado de Protecção contra as Aleatoriedades Climáticas, adiante designado por SIPAC, constituído por três componentes:
+Artigo 1.º Pelo presente diploma é instituído no território do continente um Sistema Integrado de Protecção contra as Aleatoriedades Climáticas, adiante designado por SIPAC, constituído por três componentes:
 
 a) Seguro de colheitas;
 
@@ -140,11 +161,11 @@ c) Compensação de sinistralidade.
 
 ### CAPÍTULO II — Seguro de colheitas
 
-###### Art. 2.º O seguro de colheitas constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo também como instrumento de política agrícola, capaz de conduzir a um adequado ordenamento cultural.
+Art. 2.º O seguro de colheitas constitui um incentivo ao investimento agrícola e contribui para garantir a estabilidade dos rendimentos dos agricultores, servindo também como instrumento de política agrícola, capaz de conduzir a um adequado ordenamento cultural.
 
-###### Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos previstos por lei.
+Art. 3.º O seguro de colheitas tem carácter voluntário, excepto nos casos previstos por lei.
 
-###### Art. 4.º - 1 - O seguro de colheitas garante a cobertura dos seguintes riscos:
+Art. 4.º - 1 - O seguro de colheitas garante a cobertura dos seguintes riscos:
 
 a) Cobertura base - os riscos de incêndio, raio, explosão e granizo;
 
@@ -154,7 +175,7 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 3 - Sem prejuízo do disposto no número anterior, por acordo entre a seguradora e o segurado, podem ser cobertos outros riscos a que as culturas estejam sujeitas, nos termos definidos na apólice.
 
-###### Art. 5.º - 1 - O seguro de colheitas garante ao agricultor a indemnização do montante dos prejuízos sofridos pelas culturas que tenham origem em qualquer dos riscos abrangidos pela apólice, calculados nos termos dos números seguintes.
+Art. 5.º - 1 - O seguro de colheitas garante ao agricultor a indemnização do montante dos prejuízos sofridos pelas culturas que tenham origem em qualquer dos riscos abrangidos pela apólice, calculados nos termos dos números seguintes.
 
 2 - O montante da indemnização referida no número anterior é de 80% dos prejuízos sofridos.
 
@@ -162,11 +183,11 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 4 - Quando o sinistro ocorrer numa fase do ciclo produtivo em que técnica e economicamente seja viável a renovação da cultura ou a opção por outra em sua substituição, o montante da indemnização corresponde aos encargos suportados até essa data.
 
-###### Art. 6.º - 1 - Para efeitos de cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de mercado correntes na região, até aos valores máximos a definir no plano anual de seguros.
+Art. 6.º - 1 - Para efeitos de cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de mercado correntes na região, até aos valores máximos a definir no plano anual de seguros.
 
 2 - Se as produções declaradas na proposta se afastarem significativamente das produções unitárias médias regionais dos últimos cinco anos, o segurado deve fazer a adequada comprovação.
 
-###### Art. 7.º - 1 - Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, nos termos das disposições regulamentares em vigor.
+Art. 7.º - 1 - Os prémios do seguro de colheitas são estabelecidos pelas seguradoras, nos termos das disposições regulamentares em vigor.
 
 2 - O Estado, por intermédio do Fundo Integral de Protecção das Aleatoriedades Climáticas, referido no capítulo V, bonificará os prémios do seguro de colheitas.
 
@@ -174,7 +195,7 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 4 - As bonificações referidas podem ser majoradas em função dos riscos cobertos, da taxa aplicável, da região, das variedades e dos meios de prevenção utilizados.
 
-###### Art. 8.º - 1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo a que se refere o n.º 9) do artigo 114.º do [Decreto-Lei n.º 102/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1994-264701), de 20 de Abril, através da celebração de um contrato individual ou colectivo.
+Art. 8.º - 1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo a que se refere o n.º 9) do artigo 114.º do [Decreto-Lei n.º 102/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1994-264701), de 20 de Abril, através da celebração de um contrato individual ou colectivo.
 
 2 - O seguro de colheitas é contratado nos termos de uma apólice uniforme para o efeito elaborada pelo Instituto de Seguros de Portugal.
 
@@ -184,19 +205,19 @@ b) Coberturas complementares - os riscos de tornado, tromba-d'água, geada e que
 
 ### CAPÍTULO III — Fundo de calamidades
 
-###### Art. 9.º - 1 - O fundo de calamidades, a funcionar integrado no FIPAC previsto no artigo 15.º, destina-se exclusivamente a compensar os agricultores pelos sinistros provocados por riscos não mencionados nas alíneas a) e b) do n.º 1 do artigo 4.º
+Art. 9.º - 1 - O fundo de calamidades, a funcionar integrado no FIPAC previsto no artigo 15.º, destina-se exclusivamente a compensar os agricultores pelos sinistros provocados por riscos não mencionados nas alíneas a) e b) do n.º 1 do artigo 4.º
 
 2 - O fundo referido no número anterior intervém apenas nos casos em que seja declarada oficialmente a situação de calamidade.
 
 3 - Os termos de intervenção do fundo, quando oficialmente declarada a situação de calamidade, são objecto de portaria conjunta dos Ministros das Finanças e da Agricultura.
 
-###### Art. 10.º Podem beneficiar das medidas de apoio financeiro, a conceder no âmbito do fundo de calamidades, os agricultores que tenham as culturas afectadas cobertas por seguro de colheitas, à data da declaração de situação de calamidade.
+Art. 10.º Podem beneficiar das medidas de apoio financeiro, a conceder no âmbito do fundo de calamidades, os agricultores que tenham as culturas afectadas cobertas por seguro de colheitas, à data da declaração de situação de calamidade.
 
-###### Art. 11.º - 1 - As medidas de apoio financeiro a conceder no âmbito do fundo de calamidades podem revestir a forma de linhas de crédito ou de subsídio a fundo perdido.
+Art. 11.º - 1 - As medidas de apoio financeiro a conceder no âmbito do fundo de calamidades podem revestir a forma de linhas de crédito ou de subsídio a fundo perdido.
 
 2 - As condições de atribuição dos apoios financeiros, nomeadamente a sua forma e montantes específicos, serão objecto de portaria conjunta dos Ministros das Finanças e da Agricultura.
 
-###### Art. 12.º - 1 - Constituem receitas do fundo de calamidades:
+Art. 12.º - 1 - Constituem receitas do fundo de calamidades:
 
 a) Uma dotação do Orçamento do Estado;
 
@@ -206,19 +227,19 @@ b) Uma contribuição dos agricultores cobrada através do seguro de colheitas, 
 
 ### CAPÍTULO IV — Compensação de sinistralidade
 
-###### Artigo 13.º - 1 - A compensação de sinistralidade tem como objectivo compensar as seguradoras quando o valor das indemnizações líquidas de resseguro cedido exceder uma determinada percentagem do valor dos prémios.
+Artigo 13.º - 1 - A compensação de sinistralidade tem como objectivo compensar as seguradoras quando o valor das indemnizações líquidas de resseguro cedido exceder uma determinada percentagem do valor dos prémios.
 
 2 - Os termos e as condições da atribuição da compensação referida no número anterior são objecto de portaria conjunta dos Ministros das Finanças e da Agricultura.
 
-###### Art. 14.º - 1 - Para efeitos de acesso à compensação de sinistralidade as seguradoras devem efectuar o pagamento de uma contribuição, nos termos previstos na portaria referida no n.º 2 do artigo anterior.
+Art. 14.º - 1 - Para efeitos de acesso à compensação de sinistralidade as seguradoras devem efectuar o pagamento de uma contribuição, nos termos previstos na portaria referida no n.º 2 do artigo anterior.
 
 2 - As seguradoras podem renunciar ao benefício da compensação de sinistralidade referido no artigo anterior, ficando, nesse caso, dispensadas do pagamento da contribuição prevista no número anterior.
 
 ### CAPÍTULO V — Fundo Integral de Protecção contra as Aleatoriedades Climáticas
 
-###### Art. 15.º A gestão financeira do SIPAC é efectuada através do Fundo Integral de Protecção contra as Aleatoriedades Climáticas, adiante designado por FIPAC, cuja orgânica será aprovada por decreto regulamentar.
+Art. 15.º A gestão financeira do SIPAC é efectuada através do Fundo Integral de Protecção contra as Aleatoriedades Climáticas, adiante designado por FIPAC, cuja orgânica será aprovada por decreto regulamentar.
 
-###### Art. 16.º Constituem receitas do FIPAC:
+Art. 16.º Constituem receitas do FIPAC:
 
 a) Dotação do Orçamento do Estado para fazer face aos encargos a suportar com bonificações dos prémios de seguro de colheitas e compensação de sinistralidade;
 
@@ -228,7 +249,7 @@ c) A contribuição das seguradoras, para efeitos de compensação de sinistrali
 
 d) Quaisquer outras dotações ou receitas que lhe sejam atribuídas.
 
-###### Art. 17.º Para além das despesas inerentes ao seu próprio funcionamento, o FIPAC suporta os encargos com:
+Art. 17.º Para além das despesas inerentes ao seu próprio funcionamento, o FIPAC suporta os encargos com:
 
 a) Bonificação dos prémios;
 
@@ -240,11 +261,11 @@ d) Divulgação do seguro de colheitas e elaboração de estudos de carácter t�
 
 ### CAPÍTULO VI — Coordenação e gestão
 
-###### Art. 18.º A coordenação global do sistema é da competência do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) em articulação com outros organismos que tenham competências nesta área, como sejam o Instituto de Seguros de Portugal (ISP) e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+Art. 18.º A coordenação global do sistema é da competência do Instituto de Estruturas Agrárias e Desenvolvimento Rural (IEADR) em articulação com outros organismos que tenham competências nesta área, como sejam o Instituto de Seguros de Portugal (ISP) e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
 
-###### Art. 19.º A gestão técnica e financeira do sistema é assegurada pelo IEADR, IFADAP e ISP.
+Art. 19.º A gestão técnica e financeira do sistema é assegurada pelo IEADR, IFADAP e ISP.
 
-###### Art. 20.º Para efeitos do presente diploma, compete ao IEADR:
+Art. 20.º Para efeitos do presente diploma, compete ao IEADR:
 
 a) Definir, conjuntamente com o IFADAP e o ISP, os circuitos de informação a observar entre as várias componentes do SIPAC;
 
@@ -278,7 +299,7 @@ i) Praticar os demais actos necessários à regular e plena execução do SIPAC;
 
 j) Definir, conjuntamente com o IFADAP, as medidas de apoio financeiro a emitir no âmbito do fundo de calamidades.
 
-###### Art. 21.º No âmbito da gestão financeira do SIPAC, compete ao IFADAP:
+Art. 21.º No âmbito da gestão financeira do SIPAC, compete ao IFADAP:
 
 a) Definir, conjuntamente com o IEADR e o ISP, circuitos de informação a observar entre as várias componentes do SIPAC;
 
@@ -300,7 +321,7 @@ i) Definir, conjuntamente com o IEADR, as medidas de apoio financeiro a criar no
 
 j) Elaborar, anualmente, o relatório das actividades e a conta de gerência do FIPAC e submetê-los à aprovação dos Ministros das Finanças e da Agricultura.
 
-###### Art. 22.º Para efeitos do presente diploma, compete ao Instituto de Seguros de Portugal:
+Art. 22.º Para efeitos do presente diploma, compete ao Instituto de Seguros de Portugal:
 
 a) Elaborar e publicar a apólice uniforme para o seguro de colheitas;
 
@@ -312,7 +333,7 @@ d) Estabelecer o plano estatístico para as empresas de seguros referidas no n.�
 
 e) Efectuar estudos estatísticos e actuariais.
 
-###### Art. 23.º - 1 - É criada uma comissão consultiva com a seguinte composição:
+Art. 23.º - 1 - É criada uma comissão consultiva com a seguinte composição:
 
 a) Um representante do IEADR, que preside;
 
@@ -340,20 +361,20 @@ d) Aprovar os relatórios do SIPAC;
 
 e) Propor alterações ao SIPAC.
 
-###### Art. 24.º A comissão consultiva considera-se constituída logo que o seu presidente seja designado pelo Ministro da Agricultura, devendo aquele notificar de imediato as restantes entidades com assento neste órgão para, no prazo de cinco dias, indicarem os seus representantes.
+Art. 24.º A comissão consultiva considera-se constituída logo que o seu presidente seja designado pelo Ministro da Agricultura, devendo aquele notificar de imediato as restantes entidades com assento neste órgão para, no prazo de cinco dias, indicarem os seus representantes.
 
-###### Art. 25.º São revogados os Decretos-Leis n.os [283/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1990-557621) e [253/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1991-663342), respectivamente de 18 de Setembro e 18 de Julho, bem como a respectiva legislação complementar.
+Art. 25.º São revogados os Decretos-Leis n.os [283/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1990-557621) e [253/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1991-663342), respectivamente de 18 de Setembro e 18 de Julho, bem como a respectiva legislação complementar.
 
-###### Art. 26.º O presente diploma entra em vigor simultaneamente com as portarias nele previstas.
+Art. 26.º O presente diploma entra em vigor simultaneamente com as portarias nele previstas.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 24 de Outubro de 1995.**
+Promulgado em 24 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Outubro de 1995.**
+Referendado em 26 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

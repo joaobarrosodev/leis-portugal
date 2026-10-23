@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05100/0002400033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2021/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2021-159432384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c196b03632ea4344dce868934633d294045b33a6e99e93c1a726975bd51da0d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5c26ba7d931e215b8438e9c8136039777fd93484b6d9638a8dc405f8c85215c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
+- Bolsa de Consultores
 - Criação de Serviços
 - Definição de Competências
 - Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Integração de Serviços
 - Integração de Trabalhadores
+- JurisAPP
 - Orgânica
 - PCM-Entidades
 - Pessoal Administrativo
+- Pessoal Dirigente
 - Pessoal Técnico Superior
+- PlanAPP
 - Presidência do Conselho de Ministros
 - Remuneração
-- Gestão de Recursos Humanos
-- Transferência de Competências
-- JurisAPP
-- Bolsa de Consultores
-- PlanAPP
 - REPLAN
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:890194534:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a Presidência do Conselho de Ministros compreende o Centro de Competências
+    de Planeamento, de Políticas e de Prospetiva da Administração Pública (PlanAPP) com orgânica aprovada pelo presente diploma
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Presidência, em coordenação com
+    o Ministro Adjunto e da Coesão Territorial no que respeita aos instrumentos relativos aos fundos europeus e ao planeamento
+    regional e local, a direção sobre o Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração
+    Pública pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/2017/12/06/p/dre
   label: null
@@ -97,16 +112,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:114311302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:890194534:por
+  label: Revogado, a partir de 9 de outubro de 2024, pelo(a) Decreto-Lei n.º 67/2024 - Diário da República n.º 195/2024, Série
+    I de 2024-10-08 nos termos da alínea a) do artigo 24.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2024-890194534
+  date: '2024-10-08'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:00Z'
   warnings: []
   errors: []
 ---
@@ -477,16 +506,18 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 18 de fevereiro de 2021. - António Luís Santos da Costa. - Augusto Ernesto Santos Silva. - Mariana Guimarães Vieira da Silva. - António Mendonça Mendes. - Alexandra Ludomila Ribeiro Fernandes Leitão. - Ângelo Nelson Rosário de Souza.
 
-**Promulgado em 2 de março de 2021.**
+Promulgado em 2 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de março de 2021.**
+Referendado em 3 de março de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 22.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/03/05100/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2021/03/05100/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/03/05100/0002400033.pdf)
+
+114062689

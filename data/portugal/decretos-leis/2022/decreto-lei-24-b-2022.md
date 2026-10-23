@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 50/2022, 2º Suplemento, Série I de 2022-03-11
   number: '50'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 14-(4) a 14-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05002/0000400007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/24-b/2022/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-b-2022-180398387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfb2eaa3d3395289ee583436165386634c4d0d46b9bf66cbaf46d802063a1129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0b53cc2484112e656b29f364a6c702d58e933a45b3218ad688b7c383f63bd25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,41 @@ reuse:
 subjects:
 - Acordo
 - Acreditação
-- Família
-- Residência de Estrangeiros
-- Financiamento
+- Admissão de Estrangeiros
+- Associação
 - Carta de Condução
-- Exame de Condução
-- Cidadão Estrangeiro
-- Formação Profissional
 - Certificação Profissional
+- Cidadão Estrangeiro
 - Circulação de Pessoas
+- Condutor
 - Constituição de Sociedade
 - Conta Bancária
 - Documento Autentico
+- Ensino Superior
 - Estatuto dos Refugiados
 - Estudante
+- Exame de Condução
+- Família
 - Ficheiro Central de Pessoas Colectivas
-- Refugiado
+- Financiamento
+- Formação Profissional
 - Guerra
-- Isenção de Taxas e Emolumentos
-- Instituto da Habitação e da Reabilitação Urbana
-- Condutor
-- Pessoa Coletiva
-- Qualificação Profissional
-- Protecção Temporária
-- Proteção Social
 - Habitação
-- Ensino Superior
-- Associação
+- Instituto da Habitação e da Reabilitação Urbana
+- Isenção de Taxas e Emolumentos
+- Pessoa Coletiva
+- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
+- Proteção Social
+- Protecção Temporária
+- Qualificação Profissional
+- Refugiado
+- Registo Comercial
+- Residência de Estrangeiros
 - Residência de Estudantes
 - Subsídio
-- Registo Comercial
 - Transferência de Verbas
 - Ucrânia
-- Admissão de Estrangeiros
 - Vítima de Guerra
-- Porta de Entrada-Programa de Apoio ao Alojamento Urgente
 relationships:
 - type: cites
   target: celex:32001L0055
@@ -151,16 +151,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/29-a/2022/03/01/p/dre
+- type: cites
+  target: pt:dre:115221283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115502170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179802560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655969:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:51Z'
   warnings: []
   errors: []
 ---
@@ -263,12 +299,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2022. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - João Alberto Sobrinho Teixeira - Tiago Brandão Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 11 de março de 2022.**
+Promulgado em 11 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de março de 2022.**
+Referendado em 11 de março de 2022.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+115111702

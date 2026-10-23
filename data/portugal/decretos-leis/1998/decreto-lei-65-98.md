@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/65/1998/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1998-197524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca3079f18d0b357282f017ee6ae9ec2e3a620c06bdd745c7512ad8a44cbaa0ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9188d5c180e9a6de4d95471b24685fbabc717bf9426a0eb99b74e60369359b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Concurso de Habilitação
 - Carreira Profissional
+- Concurso de Habilitação
+- Descrição de Funções
 - Habilitações Literárias
 - Integração de Trabalhadores
-- Descrição de Funções
 - Pessoal Técnico Auxiliar Sanitário
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Remuneração
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/117/1995/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/117/1995/05/30/p/dre
+- type: cites
+  target: pt:dre:140353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527643:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:23Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +175,12 @@ Os profissionais integrados na carreira instituída pelo [Decreto-Lei n.º 272/8
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Março de 1998.**
+Referendado em 5 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

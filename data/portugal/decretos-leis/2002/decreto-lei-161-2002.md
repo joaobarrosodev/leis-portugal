@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/157a00/52895292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/2002/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2002-198880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca08752afd7fcf045313f5a158605b63ea240ff63d4f2c0eec9ffff953e97302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89963287a5cc56d9e4db010cf52f834aae60a26370e50c3fb03f2eeacff83a32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Região Autónoma
-- Doença Animal
 - Carne de Suíno
 - Circulação de GADO
-- Multa
 - Contra-ordenação
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Plano de Controlo e Erradicação da Doença de Aujeszky
+- Doença Animal
 - Exploração Pecuária
 - Fiscalização
 - Gado Suíno
 - Laboratório Nacional de Investigação Veterinária
+- Multa
+- Plano de Controlo e Erradicação da Doença de Aujeszky
+- Região Autónoma
 - Registo Obrigatório
 - Transporte de Animais
 relationships:
@@ -91,16 +91,21 @@ relationships:
   target: celex:32001D0618
   label: null
   source: http://data.europa.eu/eli/dec/2001/618/oj
+- type: repealed_by
+  target: pt:dre:554380:por
+  label: "Revogado, a partir de 10.04.2012, pelo DEC LEI.85/2012.05.04.2012.MAMAOT, DR.IS [69] de 05.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2012-554380
+  date: '2012-04-05'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:59Z'
   warnings: []
   errors: []
 ---
@@ -359,12 +364,12 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução do presente diplo
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 3 de Julho de 2002.**
+Promulgado em 3 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

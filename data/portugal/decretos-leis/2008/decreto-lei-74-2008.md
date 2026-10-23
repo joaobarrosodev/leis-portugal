@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2008/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2008-249865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aff4f83bd48589c09515488ea4e5a304af53397af450cbe05780d3c8119a6009
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 380c9d8f9954b251ceccc06170cc24c3e7f03d6855848f021cfacd917cbe9186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Nomenclatura das Unidades Territoriais para Fins Estatísticos
-- Financiamento
 - Comissão de Acompanhamento
-- Política de Cooperação
 - Definição de Competências
 - FEDER
-- Fundo de Coesão
-- Prodep
-- Instituto de Gestão do Fundo Social Europeu
+- Financiamento
 - FSE
+- Fundo de Coesão
+- Instituto de Gestão do Fundo Social Europeu
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Observatório do QREN
+- Plano Regional de Ordenamento do Território
+- Política de Cooperação
+- Prodep
 - Programa Nacional da Política de Ordenamento do Território
 - Programa Operacional
 - QCA III
-- Plano Regional de Ordenamento do Território
+- QREN
 relationships:
 - type: amended_by
   target: pt:dre:607729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607729:por
+  label: "Alterado o art. 68º do Dec Lei 312/2007, de 17-Set, na redacção do presente diploma e que o republicou, pelo DEC\
+    \ LEI.99/2009.28.04.2009.MAOTDR, DR.IS [82] de 28.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2009-607729
+  date: '2009-04-28'
 - type: cites
   target: celex:32006R1080
   label: null
@@ -108,15 +114,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/312/2007/09/17/p/dre
 article_structure:
-  article_count: 92
+  article_count: 72
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:24Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +183,9 @@ j) Participar no acompanhamento dos exercícios de avaliação do QREN e dos PO 
 
 5 - O IFDR, I. P., e o IGFSE, I. P., constituem a delegação portuguesa que é membro do Comité de Coordenação dos Fundos previsto no n.º 1 do artigo 103.º do Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O IFDR, I. P., e o IGFSE, I. P., assumem as funções das autoridades de certificação, definidas nos termos do Regulamento (CE) n.º [1083/2006](https://data.europa.eu/eli/reg/2006/1083/oj?locale=pt), do Conselho, de 11 de Julho, relativamente a todos os PO temáticos, regionais e de assistência técnica, competindo-lhe especialmente o exercício das seguintes competências relativas ao FEDER e FC e ao FSE, respectivamente:
 
@@ -199,7 +207,9 @@ f) Manter o registo dos montantes a recuperar e dos montantes retirados na sequ�
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +231,9 @@ f) Manter o registo dos montantes a recuperar e dos montantes retirados na sequ�
 
 10 - No âmbito do FSE, as regras complementares ao disposto no presente artigo, incluindo a possibilidade de o IGFSE, I. P., delegar a função de transferência directa para os beneficiários, são definidas através do decreto regulamentar referido no n.º 4 do artigo 30.º
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +257,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +277,9 @@ c) Realização de acções de controlo cruzado junto de outras entidades envolv
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A articulação técnica global da actividade de auditoria compreende, sem prejuízo das competências específicas da autoridade de auditoria, o exercício das seguintes competências:
 
@@ -277,7 +293,9 @@ d) [Anterior alínea e).]
 
 2 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +305,9 @@ d) [Anterior alínea e).]
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +317,9 @@ d) [Anterior alínea e).]
 
 4 - A execução descentralizada ou em parceria de acções integradas pode ser contratualizada com as associações de municípios relevantes organizadas territorialmente com base nas unidades de nível iii da NUTS, devendo os correspondentes contratos de execução prever mecanismos que impeçam a atomização de projectos de investimento e garantam com eficácia o interesse supramunicipal de tais acções durante toda a sua realização.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -327,7 +349,9 @@ d) Comissão ministerial de coordenação dos PO regionais do continente - Minis
 
 10 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +365,9 @@ d) Comissão ministerial de coordenação dos PO regionais do continente - Minis
 
 6 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -395,7 +421,9 @@ h) ...
 
 18 - Ao membro da comissão de acompanhamento que assuma a representação de mais do que uma entidade ou área com direito de voto corresponde um único voto.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -467,7 +495,9 @@ af) ...
 
 6 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -497,7 +527,9 @@ j) ...
 
 4 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A apreciação de mérito das candidaturas com recurso a entidades externas referida nos artigos anteriores respeita à apreciação do seu contributo para a prossecução das prioridades do QREN, para a concretização das políticas públicas pertinentes e para os objectivos do PO e é efectuada através da solicitação de pareceres ou outro apoio técnico de natureza consultiva prestados por:
 
@@ -509,7 +541,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -523,13 +557,17 @@ c) ...
 
 6 - A organização e o funcionamento da autoridade de gestão de cada PO temático assegura a prevenção de eventuais conflitos de interesse, tendo especialmente em conta as disposições constantes dos artigos 24.º e 44.º do Código do Procedimento Administrativo, salvaguardada a especificidade da assistência técnica.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Os membros da comissão directiva desempenham as suas funções em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais ou de iniciativas comunitárias do QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -543,7 +581,9 @@ c) ...
 
 6 - A organização e o funcionamento da autoridade de gestão de cada PO regional do continente assegura a prevenção de eventuais conflitos de interesse, tendo especialmente em conta as disposições constantes dos artigos 24.º e 44.º do Código do Procedimento Administrativo, salvaguardada a especificidade da assistência técnica.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A comissão directiva referida na alínea a) do n.º 2 do artigo anterior é composta pelo presidente da respectiva CCDR, que preside na qualidade de gestor do PO, por dois vogais não executivos designados pelo Conselho de Ministros, e por dois vogais não executivos também designados pelo Conselho de Ministros na sequência de indicação da Associação Nacional de Municípios Portugueses, sem prejuízo do disposto nos números seguintes.
 
@@ -553,7 +593,9 @@ c) ...
 
 4 - Os vogais executivos da comissão directiva desempenham as suas funções em regime de exclusividade, sem prejuízo da possibilidade do desempenho de actividades que se relacionem com o encerramento de programas operacionais ou de iniciativas comunitárias do QCA III ou de actividades que, pela sua conexão, sejam consideradas essenciais à boa realização das medidas de apoio inscritas nos respectivos programas operacionais do QREN, salvaguardando eventuais conflitos de interesse.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -565,7 +607,9 @@ c) ...
 
 5 - A organização e o funcionamento da autoridade de gestão de cada PO de assistência técnica assegura a prevenção de eventuais conflitos de interesse, tendo especialmente em conta as disposições constantes dos artigos 24.º e 44.º do Código do Procedimento Administrativo, salvaguardada a especificidade da assistência técnica.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -579,7 +623,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - ...
 
@@ -629,15 +675,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Ascenso Luís Seixas Simões - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago - Maria Paula Fernandes dos Santos.
 
-**Promulgado em 11 de Abril de 2008.**
+Promulgado em 11 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 11 de Abril de 2008.**
+Referendado em 11 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Republicação do Decreto-Lei n.º 312/2007, de 17 de Setembro
 

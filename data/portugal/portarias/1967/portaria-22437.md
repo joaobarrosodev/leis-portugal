@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22437-1967-239415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47d08b06f08b50298225a4d34db4102f601fd0e94e45c14cf6fbe0a346353d47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e15d9f87f6108e06d87b96f5929ee9880791301761220554f7463e5556ff00f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:33Z'
   warnings: []
   errors: []
 ---
@@ -91,69 +95,69 @@ Despesas com o pessoal:
 
 Pessoal militar permanente e não permanente privativo da Força Aérea
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 11600000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 11600000$00
 
-###### Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 1500000$00
+Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 1500000$00
 
-###### Artigo 2.º, n.º 1), alínea f) «Remunerações acidentais - Gratificações a militares dos quadros - De isolamento» ... 50000$00
+Artigo 2.º, n.º 1), alínea f) «Remunerações acidentais - Gratificações a militares dos quadros - De isolamento» ... 50000$00
 
-###### Artigo 2.º, n.º 1), alínea g) «Remunerações acidentais - Gratificações a militares dos quadros - Complemento de vencimentos» ... 350000$00
+Artigo 2.º, n.º 1), alínea g) «Remunerações acidentais - Gratificações a militares dos quadros - Complemento de vencimentos» ... 350000$00
 
 Pessoal privativo equiparado a militar e civil
 
-###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 50000$00
+Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal graduado» ... 50000$00
 
-###### Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1000000$00
+Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1000000$00
 
-###### Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1000000$00
+Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1000000$00
 
-###### Artigo 3.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado eventual» ... 700000$00
+Artigo 3.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal civil assalariado eventual» ... 700000$00
 
-###### Artigo 5.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 2300000$00
+Artigo 5.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 2300000$00
 
-###### Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 2000000$00
+Artigo 5.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo de embarque - A pagar na província» ... 2000000$00
 
-###### Artigo 5.º, n.º 3), alínea a) «Outras despesas com o pessoal - Fardamento, resguardo e calçado - Fardamento a praças especialistas e do serviço geral» ... 600000$00
+Artigo 5.º, n.º 3), alínea a) «Outras despesas com o pessoal - Fardamento, resguardo e calçado - Fardamento a praças especialistas e do serviço geral» ... 600000$00
 
-###### Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 540000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 540000$00
 
-###### Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 760000$00
+Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 760000$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1), alínea a) «Aquisição de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 10000$00
+Artigo 6.º, n.º 1), alínea a) «Aquisição de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 10000$00
 
-###### Artigo 6.º, n.º 1), alínea c) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 20000$00
+Artigo 6.º, n.º 1), alínea c) «Aquisições de utilização permanente - Móveis - Máquinas de escrever, de calcular, de contabilidade, duplicadores, ficheiros e correspondentes sobresselentes» ... 20000$00
 
-###### Artigo 7.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 1370000$00
+Artigo 7.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 1370000$00
 
-###### Artigo 7.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 20000$00
+Artigo 7.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 20000$00
 
-###### Artigo 7.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 241000$00
+Artigo 7.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 241000$00
 
-###### Artigo 7.º, n.º 3), alínea a) «Despesas de conservação a aproveitamento do material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 81000$00
+Artigo 7.º, n.º 3), alínea a) «Despesas de conservação a aproveitamento do material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 81000$00
 
-###### Artigo 7.º, n.º 3), alínea b) «Despesas de conservação e aproveitamento do material - De móveis - Máquinas de escrever, de calcular, de contabilização, de desenhar, de reprodução de escritos e desenhos, ficheiros e outros móveis de escritório, de gabinete técnico e de arquivo» ... 15000$00
+Artigo 7.º, n.º 3), alínea b) «Despesas de conservação e aproveitamento do material - De móveis - Máquinas de escrever, de calcular, de contabilização, de desenhar, de reprodução de escritos e desenhos, ficheiros e outros móveis de escritório, de gabinete técnico e de arquivo» ... 15000$00
 
-###### Artigo 8.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 60000$00
+Artigo 8.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 60000$00
 
-###### Artigo 8.º, n.º 2) «Material de consumo corrente - Impressos» ... 22500$00
+Artigo 8.º, n.º 2) «Material de consumo corrente - Impressos» ... 22500$00
 
-###### Artigo 8.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 227000$00
+Artigo 8.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 227000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 1000000$00
+Artigo 9.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 1000000$00
 
-###### Artigo 9.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 305000$00
+Artigo 9.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 305000$00
 
-###### Artigo 12.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 1250000$00
+Artigo 12.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 1250000$00
 
-###### Artigo 13.º, n.º 5) «Outros encargos - Despesas imprevistas, confidenciais ou reservadas» ... 80000$00
+Artigo 13.º, n.º 5) «Outros encargos - Despesas imprevistas, confidenciais ou reservadas» ... 80000$00
 
-###### Artigo 14.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1680000$00
+Artigo 14.º, n.º 1) «Abono de família aos funcionários - Despesas com o abono de família aos funcionários» ... 1680000$00
 
-###### Artigo 15.º, n.º 1) «Despesas de anos económicos findos» ... 1168500$00
+Artigo 15.º, n.º 1) «Despesas de anos económicos findos» ... 1168500$00
 
 ... 30000000$00
 

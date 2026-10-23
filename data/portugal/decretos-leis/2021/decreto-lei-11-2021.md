@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02600/0000700009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2021/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2021-156720777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ade0d203a7b67d002c6d786ad2b92b899a9bdbdf6552dcffc9f6ef2884b5d9f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21d23ca12c89b82d98ec0d991a039005410d62ac5ef4904fcc4c32d2df9c1b36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acidente de Trabalho
 - Acumulação de Prestações Sociais
-- INEM
-- Segurança Pública
-- Pagamento
+- Autoridade Nacional de Emergência e Proteção Civil
 - Bombeiro
+- Deficiente
 - Forças Armadas
+- INEM
+- Pagamento
 - Pensão de Invalidez
 - Pessoa Coletiva
-- Proteção ao Deficiente
 - Polícia Marítima
+- Prestação Social para a Inclusão
 - Prestações da Segurança Social
+- Proteção ao Deficiente
 - Proteção Social
 - Sapador Florestal
+- Segurança Pública
 - Segurança Social
-- Prestação Social para a Inclusão
-- Autoridade Nacional de Emergência e Proteção Civil
 - Subsídio de Apoio ao Cuidador Informal Principal
 relationships:
 - type: cites
@@ -123,16 +123,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/64/2020/03/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/64/2020/03/10/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130070741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:46Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +223,9 @@ Os artigos 15.º, 29.º e 36.º do [Decreto-Lei n.º 126-A/2017](https://diariod
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 ...
 
@@ -219,7 +257,9 @@ m) ...
 
 n) Subsídio de apoio ao cuidador informal principal.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O pagamento da prestação é efetuado mensalmente ao respetivo titular, ou ao seu acompanhante ou representante legal, podendo ainda ser efetuado diretamente à pessoa singular que preste ou se disponha a prestar assistência ao titular do direito, desde que comprove que interpôs ação de acompanhamento de maior relativamente ao titular da prestação.
 
@@ -245,12 +285,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 28 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Antero Luís - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 3 de fevereiro de 2021.**
+Promulgado em 3 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de fevereiro de 2021.**
+Referendado em 4 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113954943

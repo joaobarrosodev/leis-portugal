@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17700/19902009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,193 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95479bb511e4f84ebb6849afd7345632ad5001c86cf2ced4850e0ae11e1147f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac45f1088241c77d4d74669dfde3e081b6434fda2d0fe304fdcfff801675b3cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Património Cultural
+- Orgânica
+- Património Cultural
 relationships:
 - type: amended_by
   target: pt:dre:575493:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470577:por
+  label: "Substituído os quadros do pessoal dos serviços dependentes do IPPC, cuja orgânica foi aprovada pelo presente diploma,\
+    \ pela PORT.523/80.18.08.1980.PCM, DR.IS [189] de 18.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/523-1980-470577
+  date: '1980-08-18'
+- type: amended_by
+  target: pt:dre:564847:por
+  label: "Alterado o quadro de pessoal pela PORT.769/81.08.09.1981.PCM, DR.IS [206] de 08.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-1981-564847
+  date: '1981-09-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 236/82 DE 24-FEV DR.IS [45]A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-02-24'
+- type: amended_by
+  target: pt:dre:600283:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, alterado pela Portaria n.º 769/81, de 8 de Setembro,\
+    \ pela PORT.236/82.24.02.1982.MFP, DR.IS [45] de 24.02.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-1982-600283
+  date: '1982-02-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 376/82 DE 15-ABR DR.IS [87]A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-15'
+- type: amended_by
+  target: pt:dre:607346:por
+  label: "Alterado o quadro de pessoal pela PORT.376/82.15.04.1982.MFP, DR.IS [87] de 15.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/376-1982-607346
+  date: '1982-04-15'
+- type: amended_by
+  target: pt:dre:310465:por
+  label: "Alterados os artigos 12.º, 13.º e 50.º pelo DR.24/83.1983.03.17.MCCC, DR.IS [63] de 17.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1983-310465
+  date: '1983-03-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 530/83 DE 05-MAI DR.IS [103]L
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-05-05'
+- type: amended_by
+  target: pt:dre:451014:por
+  label: "Alterado o quadro de pessoal pela PORT.530/83.05.05.1983.MFP, DR.IS [103] de 05.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/530-1983-451014
+  date: '1983-05-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 544/83 DE 09-MAI DR.IS [106]L
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-05-09'
+- type: amended_by
+  target: pt:dre:450807:por
+  label: "Alterado o quadro de pessoal pela PORT.544/83.09.05.1983.MFP, DR.IS [106] de 09.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-1983-450807
+  date: '1983-05-09'
+- type: amended_by
+  target: pt:dre:441712:por
+  label: "Alterado o quadro de pessoal pela PORT.949/83.27.10.1983.PCM, DR.IS [284] de 27.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/949-1983-441712
+  date: '1983-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 698/84 DE 08-SET DR.IS [209]L
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-09-08'
+- type: amended_by
+  target: pt:dre:373422:por
+  label: "Alterado o quadro de pessoal pela PORT.698/84.08.09.1984.PCM, DR.IS [209] de 08.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/698-1984-373422
+  date: '1984-09-08'
+- type: amended_by
+  target: pt:dre:176990:por
+  label: "Alterado o quadro de pessoal pela PORT.730/85.27.09.1985.PCM, DR.IS [223] de 27.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/730-1985-176990
+  date: '1985-09-27'
+- type: amended_by
+  target: pt:dre:193593:por
+  label: "Alterado o quadro do pessoal pela PORT.81/86.12.03.1986.MF, DR.IS [59] de 12.03.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1986-193593
+  date: '1986-03-12'
+- type: amended_by
+  target: pt:dre:497430:por
+  label: "Alterados os arts. 8º, 10º, 12º e 14º, pelo DR.60/87.1987.11.10.PCM, DR.IS [259]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/60-1987-497430
+  date: '1987-11-10'
+- type: amended_by
+  target: pt:dre:283076:por
+  label: "Alterados os arts. 46º e 47º pelo DR.5/88.1988.01.26.PCM, DR.IS [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1988-283076
+  date: '1988-01-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT 216/88 DE 12-ABR DR.IS [85]A\016/88 DE 12-ABR DR.IS [85]A"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-04-12'
+- type: amended_by
+  target: pt:dre:284742:por
+  label: "Alterado o quadro de pessoal pela PORT.216/88.12.04.1988.PCM, DR.IS [85] de 12.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/216-1988-284742
+  date: '1988-04-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: EXTINTAS AS DIVISOES DE ARQUIVOS E DE SERVICOS DE DOCUMENTACAO DO DEPARTAMENTO DE BIBLIOTECAS, ARQUIVOS E SERVICOS
+    DE DOCUMENTACAO DO IPPC, E REVOGADA PELO DEC LEI 152/88 DE 29-ABR DR.IS [99]E
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-04-29'
+- type: amended_by
+  target: pt:dre:374245:por
+  label: "Extinta a Divisão de Bibliotecas do IPPC, prevista no nº1 do art. 32º e um lugar de chefe de divisão no quadro de\
+    \ pessoal do IPPC, previsto no anexo ao presente diploma, pelo DEC LEI.186/88.27.05.1988.PCM, DR.IS [123] de 27.05.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1988-374245
+  date: '1988-05-27'
+- type: amended_by
+  target: pt:dre:609804:por
+  label: "Alterado o quadro de pessoal pelo DEC LEI.185/89.02.06.1989.PCM, DR.IS [[126]] de 02.06.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1989-609804
+  date: '1989-06-02'
+- type: cites
+  target: pt:dre:141653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:619293:por
+  label: "Revogado o art. 34º pelo DEC LEI.248/89.08.08.1989.PCM, DR.IS [181] de 08.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/248-1989-619293
+  date: '1989-08-08'
+- type: repealed_by
+  target: pt:dre:575493:por
+  label: "Revogado pelo DEC LEI.216/90.03.07.1990.PCM, DR.IS [151] de 03.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1990-575493
+  date: '1990-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:18Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +261,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto Português do Património Cultural, adiante designado IPPC, criado pelo artigo 3.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, é um instituto público dotado de personalidade jurídica e goza de autonomia administrativa e financeira.
+Artigo 1.º O Instituto Português do Património Cultural, adiante designado IPPC, criado pelo artigo 3.º do [Decreto-Lei n.º 59/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1980-677802), de 3 de Abril, é um instituto público dotado de personalidade jurídica e goza de autonomia administrativa e financeira.
 
-###### Art. 2.º São atribuições do IPPC:
+Art. 2.º São atribuições do IPPC:
 
 a) Planear e promover a pesquisa, cadastro, inventariação, classificação, recuperação, conservação, protecção e salvaguarda dos bens móveis e imóveis que pelo seu valor histórico, artístico, arqueológico, bibliográfico e documental, etnográfico ou paisagístico constituam elementos do património cultural do País;
 
@@ -126,7 +279,7 @@ f) Superintender nas bibliotecas, arquivos e museus dependentes da Secretaria de
 
 g) Assegurar, em colaboração com a Direcção-Geral dos Edifícios e Monumentos Nacionais, a coordenação da acção estadual em matéria de obras de restauro e recuperação do património cultural imóvel e elaborar programas e projectos estabelecendo prioridades de intervenção.
 
-###### Art. 3.º No exercício das suas atribuições compete ao IPPC:
+Art. 3.º No exercício das suas atribuições compete ao IPPC:
 
 1) Estabelecer padrões adequados e critérios para os trabalhos de detecção, defesa e conservação, valorização, aproveitamento, fruição e divulgação dos bens culturais, dentro dos conceitos da política adoptada do domínio do património, de acordo com a definição de bens culturais expressa neste diploma;
 
@@ -192,7 +345,7 @@ e) A localização, construção, aquisição, adaptação ou modificação dos 
 
 22) Promover a formação e valorização do pessoal em serviço no Instituto e organismos dependentes, nomeadamente dos técnicos e investigadores.
 
-###### Art. 4.º - 1 - Para efeitos do disposto neste diploma, considera-se que sob a designação de património cultural se deve entender o conjunto dos bens culturais, móveis e imóveis, de qualquer época que se revista de especial importância ou significado, tais como:
+Art. 4.º - 1 - Para efeitos do disposto neste diploma, considera-se que sob a designação de património cultural se deve entender o conjunto dos bens culturais, móveis e imóveis, de qualquer época que se revista de especial importância ou significado, tais como:
 
 a) Monumentos: obras arquitectónicas, de escultura ou pintura monumentais, de carácter religioso ou secular, grutas e abrigos, inscrições e, bem assim, os elementos, grupos de elementos ou estruturas de especial valor nos domínios arqueológico, histórico, etnológico, artístico ou científico;
 
@@ -212,7 +365,7 @@ g) Todos os outros bens, do passado ou do presente, de natureza religiosa ou pro
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º O IPPC compreende os seguintes órgãos e serviços:
+Art. 5.º O IPPC compreende os seguintes órgãos e serviços:
 
 1) Órgãos:
 
@@ -258,7 +411,7 @@ n) Direcção dos Serviços Administrativos;
 
 a) Serviços regionais.
 
-###### Art. 6.º - 1 - O Conselho Nacional do Património Cultural é presidido pelo Secretário de Estado da Cultura e constituído pelo presidente, pelo vice-presidente, pelos membros do conselho geral, por um representante de cada uma das secções do conselho consultivo, por um representante de cada uma das delegações regionais da Secretaria de Estado da Cultura, por um representante de cada um dos serviços regionais do Instituto e por representantes dos seguintes departamentos do Estado nas seguintes áreas:
+Art. 6.º - 1 - O Conselho Nacional do Património Cultural é presidido pelo Secretário de Estado da Cultura e constituído pelo presidente, pelo vice-presidente, pelos membros do conselho geral, por um representante de cada uma das secções do conselho consultivo, por um representante de cada uma das delegações regionais da Secretaria de Estado da Cultura, por um representante de cada um dos serviços regionais do Instituto e por representantes dos seguintes departamentos do Estado nas seguintes áreas:
 
 Administração Interna;
 
@@ -286,7 +439,7 @@ Um representante do Estado-Maior-General das Forças Armadas.
 
 3 - O Conselho Nacional do Património Cultural reunirá ordinariamente duas vezes por ano e extraordinariamente, em plenário ou por sectores de especialidade, sempre que convocado.
 
-###### Art. 7.º Compete ao Conselho Nacional do Património Cultural:
+Art. 7.º Compete ao Conselho Nacional do Património Cultural:
 
 a) Apreciar os planos anuais e plurianuais do IPPC e propor a conveniente articulação entre as diferentes fontes de financiamento e as prioridades das actividades dos diversos sectores, compatibilizando-as com os planos elaborados por outros organismos estatais e por outras instituições;
 
@@ -296,7 +449,7 @@ c) Dar parecer sobre assuntos de carácter geral e técnico relativos ao patrim�
 
 d) Pronunciar-se sobre os assuntos que lhe sejam apresentados em cumprimento de disposições expressas na lei.
 
-###### Art. 8.º - 1 - A direcção do IPPC é exercida por:
+Art. 8.º - 1 - A direcção do IPPC é exercida por:
 
 a) Um presidente;
 
@@ -306,7 +459,7 @@ b) Um vice-presidente.
 
 3 - O vice-presidente é equiparado a subdirector-geral.
 
-###### Art. 9.º Ao presidente compete:
+Art. 9.º Ao presidente compete:
 
 a) Superintender em todos os serviços e actividades do IPPC;
 
@@ -320,7 +473,7 @@ e) Propor superiormente a convocação de reuniões extraordinárias do Conselho
 
 f) Dirigir o Serviço de Inspecção.
 
-###### Art. 10.º A direcção do IPPC é assessorada por um conselho geral, composto por:
+Art. 10.º A direcção do IPPC é assessorada por um conselho geral, composto por:
 
 a) O presidente do IPPC, que presidirá;
 
@@ -330,7 +483,7 @@ c) Os directores dos departamentos enunciados no n.º 2 do artigo 5.º;
 
 d) O director do Gabinete de Estudos e Projectos.
 
-###### Art. 11.º - 1 - Compete ao conselho geral:
+Art. 11.º - 1 - Compete ao conselho geral:
 
 a) Aprovar os planos e projectos de actividades;
 
@@ -344,7 +497,7 @@ e) Propor as bases de coordenação e cooperação do IPPC com os serviços e en
 
 2 - O conselho geral reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o considerar necessário.
 
-###### Art. 12.º O conselho administrativo é composto por:
+Art. 12.º O conselho administrativo é composto por:
 
 a) O presidente do IPPC, que presidirá;
 
@@ -356,7 +509,7 @@ d) Um representante da Direcção-Geral da Contabilidade Pública;
 
 e) Um representante do Tribunal de Contas.
 
-###### Art. 13.º - 1 - Compete ao conselho administrativo:
+Art. 13.º - 1 - Compete ao conselho administrativo:
 
 a) Orientar a preparação dos projectos de orçamentos do IPPC e fiscalizar a sua execução;
 
@@ -378,7 +531,7 @@ g) Apreciar as contas dos serviços relativamente às verbas que lhes forem atri
 
 4 - Poderá participar nas reuniões do conselho administrativo, sem voto, qualquer dirigente ou técnico do Instituto para tal convocado, sempre que o presidente o entenda conveniente.
 
-###### Art. 14.º - 1 - O conselho consultivo é presidido pelo presidente do IPPC e é composto por:
+Art. 14.º - 1 - O conselho consultivo é presidido pelo presidente do IPPC e é composto por:
 
 a) O vice-presidente;
 
@@ -392,13 +545,13 @@ e) Individualidades de reconhecida competência no âmbito de actuação do IPPC
 
 2 - O regulamento do conselho consultivo será definido por portaria do Secretário de Estado da Cultura, sob proposta da direcção do IPPC.
 
-###### Art. 15.º - 1 - O conselho consultivo é um órgão especializado ao qual compete emitir pareceres sobre as matérias da competência do IPPC que forem submetidas à sua apreciação.
+Art. 15.º - 1 - O conselho consultivo é um órgão especializado ao qual compete emitir pareceres sobre as matérias da competência do IPPC que forem submetidas à sua apreciação.
 
 2 - O conselho consultivo funcionará por secções especializadas.
 
 3 - O conselho consultivo pode, por sua iniciativa, formular propostas ou sugestões sobre quaisquer problemas relativos à esfera da sua competência específica.
 
-###### Art. 16.º Compete ao Serviço de Inspecção:
+Art. 16.º Compete ao Serviço de Inspecção:
 
 a) Assegurar actividades permanentes de informação, conselho, apoio técnico, avaliação de resultados e de ligação entre os serviços centrais e regionais do IPPC e as delegações regionais da Secretaria de Estado da Cultura, bem como o desempenho de missões específicas que lhe sejam confiadas;
 
@@ -412,7 +565,7 @@ e) Inspeccionar os imóveis classificados e móveis inventariados, pronunciar-se
 
 f) Propor a abertura de processos de inquérito e disciplinares nos órgãos e serviços dependentes do Instituto.
 
-###### Art. 17.º - 1 - Ao Gabinete de Estudos e Projectos compete:
+Art. 17.º - 1 - Ao Gabinete de Estudos e Projectos compete:
 
 a) Colaborar com os diferentes órgãos e serviços do IPPC na preparação e coordenação de programas de actividades;
 
@@ -426,7 +579,7 @@ e) Colaborar com o Departamento do Inventário Geral do Património Cultural na 
 
 2 - O Gabinete de Estudos e Projectos é dirigido por um director de serviços.
 
-###### Art. 18.º - 1 - Compete à Consultoria Jurídica:
+Art. 18.º - 1 - Compete à Consultoria Jurídica:
 
 a) Acompanhar, sempre que conveniente, os processos de classificação, inventariação, alienação e expropriação organizados pelo IPPC;
 
@@ -446,9 +599,9 @@ h) Manter actualizados os ficheiros de legislação, jurisprudência e doutrina 
 
 2 - A Consultoria Jurídica será orientada pelo consultor jurídico de categoria mais elevada.
 
-###### Art. 19.º Os departamentos são serviços técnicos e de investigação dirigidos por directores de serviços.
+Art. 19.º Os departamentos são serviços técnicos e de investigação dirigidos por directores de serviços.
 
-###### Art. 20.º - 1 - Compete ao Departamento de Arqueologia:
+Art. 20.º - 1 - Compete ao Departamento de Arqueologia:
 
 a) Colaborar na organização e permanente actualização do cadastro dos monumentos, estações e espécies arqueológicas, públicas e particulares, com vista ao Inventário Geral do Património Cultural;
 
@@ -482,7 +635,7 @@ b) Colaborar com os órgãos e serviços das autarquias locais e com as associa�
 
 3 - A composição, funcionamento e área geográfica de actuação das comissões referidas no número anterior serão estabelecidos por decreto.
 
-###### Art. 21.º Compete ao Departamento de Artes Plásticas:
+Art. 21.º Compete ao Departamento de Artes Plásticas:
 
 a) Colaborar na organização e permanente actualização do cadastro das espécies artísticas, públicas ou particulares, com vista ao Inventário Geral do Património Cultural;
 
@@ -506,7 +659,7 @@ j) Patrocinar a criação e apoiar o funcionamento de organismos destinados à d
 
 l) Colaborar na superintendência técnica das colecções de arte dependentes da Secretaria de Estado da Cultura, de outros serviços do Estado, autarquias locais, empresas públicas e nacionalizadas e, bem assim, de entidades e organismos subsidiados pelo Estado.
 
-###### Art. 22.º Compete ao Departamento de Bibliotecas, Arquivos e Serviços de Documentação:
+Art. 22.º Compete ao Departamento de Bibliotecas, Arquivos e Serviços de Documentação:
 
 a) Superintender técnica e administrativamente nas bibliotecas, arquivos e serviços de documentação dependentes da Secretaria de Estado da Cultura, e tecnicamente em todas as bibliotecas, arquivos e serviços de documentação dependentes de outros serviços do Estado, autarquias locais, empresas públicas e nacionalizadas e, bem assim, de entidades ou de organismos subsidiados pelo Estado;
 
@@ -538,7 +691,7 @@ o) Pronunciar-se sobre os regulamentos internos dos arquivos, bibliotecas e serv
 
 p) Pronunciar-se sobre a aceitação de doações, legados e depósitos.
 
-###### Art. 23.º Compete ao Departamento de Defesa, Conservação e Restauro do Património Cultural:
+Art. 23.º Compete ao Departamento de Defesa, Conservação e Restauro do Património Cultural:
 
 a) Superintender e coordenar técnica e administrativamente os institutos, laboratórios, centros e oficinas de conservação e restauro dependentes da Secretaria de Estado da Cultura e dar apoio logístico e técnico a serviços similares dependentes de outros serviços do Estado, autarquias locais, empresas públicas e nacionalizadas e, bem assim, de entidades ou organismos subsidiados pelo Estado;
 
@@ -556,7 +709,7 @@ g) Pronunciar-se sobre a criação e funcionamento de novos organismos públicos
 
 h) Colaborar na organização de brigadas móveis de técnicos para a execução de trabalhos que tenham de ser realizados nos próprios locais onde as espécies a tratar e conservar se encontrem.
 
-###### Art. 24.º Compete ao Departamento de Etnologia:
+Art. 24.º Compete ao Departamento de Etnologia:
 
 a) Colaborar na organização e permanente actualização do cadastro dos monumentos, conjuntos, sítios e espécies etnológicas, incluindo as correntemente designadas por etnográficas, públicas e particulares, com vista ao Inventário Geral do Património Cultural;
 
@@ -580,7 +733,7 @@ j) Patrocinar a criação e apoiar o funcionamento de organismos destinados à d
 
 l) Colaborar na superintendência técnica das colecções de etnologia dependentes da Secretaria de Estado da Cultura, de outros serviços do Estado, de autarquias locais, de empresas públicas e nacionalizadas e, bem assim, de entidades ou organismos subsidiados pelo Estado.
 
-###### Art. 25.º Compete ao Departamento do Inventário Geral do Património Cultural:
+Art. 25.º Compete ao Departamento do Inventário Geral do Património Cultural:
 
 a) Promover, organizar e manter actualizado, em colaboração com os demais departamentos do IPPC e outros serviços, o Inventário Geral do Património Cultural em poder do Estado, das autarquias locais, de empresas públicas e nacionalizadas, de entidades ou organismos subsidiados pelo Estado ou de particulares;
 
@@ -596,7 +749,7 @@ f) Organizar o arquivo fotográfico nacional e colaborar na organização de arq
 
 g) Constituir arquivos iconográficos, cartográficos, documentais e sonoros que importem ao Inventário Geral do Património Cultural.
 
-###### Art. 26.º Compete ao Departamento dos Museus, Palácios e Fundações:
+Art. 26.º Compete ao Departamento dos Museus, Palácios e Fundações:
 
 a) Superintender e orientar técnica e administrativamente os museus e palácios dependentes da Secretaria de Estado da Cultura e tecnicamente todos os museus dependentes de outros serviços do Estado, autarquias locais, empresas públicas e nacionalizadas e, bem assim, de entidades ou organismos subsidiados pelo Estado;
 
@@ -626,7 +779,7 @@ n) Pronunciar-se sobre a aceitação de doações, legados e depósitos;
 
 o) Propor a organização de cursos de formação e valorização para conservadores, técnicos e outro pessoal dos museus.
 
-###### Art. 27.º Compete ao Departamento de Musicologia:
+Art. 27.º Compete ao Departamento de Musicologia:
 
 a) Promover o levantamento e protecção dos valores de natureza musical, paramusical ou afim pertencentes ao Estado, autarquias locais, empresas públicas e nacionalizadas, entidades ou organismos subsidiados pelo Estado e de particulares integráveis no inventário Geral do Património Cultural e organizar e manter actualizado o respectivo cadastro;
 
@@ -646,7 +799,7 @@ h) Pronunciar-se sobre pedidos de cedência ou empréstimo e de exportação de 
 
 i) Patrocinar a criação e apoiar o funcionamento de organismos destinados à defesa e valorização do património musical.
 
-###### Art. 28.º Compete ao Departamento do Património Arquitectónico:
+Art. 28.º Compete ao Departamento do Património Arquitectónico:
 
 a) Colaborar na organização e permanente actualização do cadastro de monumentos, conjuntos e sítios de reconhecido valor cultural, classificados ou não, com vista ao Inventário Geral do Património Cultual;
 
@@ -666,7 +819,7 @@ h) Prestar apoio técnico e logístico a acções de defesa e conservação do p
 
 i) Patrocinar a criação e apoiar o funcionamento de organismos destinados à defesa e valorização do património arquitectónico e seu enquadramento orgânico.
 
-###### Art. 29.º - 1 - O Gabinete de Estudos e Projectos compreende:
+Art. 29.º - 1 - O Gabinete de Estudos e Projectos compreende:
 
 a) Divisão de Estudos, Inquéritos, Sondagens e Estatísticas;
 
@@ -688,7 +841,7 @@ b) Organizar brigadas ou missões que tenham como objectivo a detecção e promo
 
 c) Colaborar na organização dos arquivos do Departamento do Inventário Geral do Património Cultural.
 
-###### Art. 30.º - 1 - O Departamento de Arqueologia compreende:
+Art. 30.º - 1 - O Departamento de Arqueologia compreende:
 
 a) Divisão de Pré-História;
 
@@ -724,7 +877,7 @@ g) Proteger as espécies e colecções arqueológicas, epigráficas e numismáti
 
 h) Colaborar na superintendência técnica das colecções dependentes da Secretaria de Estado da Cultura, de outros serviços do Estado, autarquias locais, empresas públicas e nacionalizadas e, bem assim, de entidades ou organismos subsidiados pelo Estado.
 
-###### Art. 31.º - 1 - O Departamento de Artes Plásticas compreende:
+Art. 31.º - 1 - O Departamento de Artes Plásticas compreende:
 
 a) Divisão de Pintura e Escultura;
 
@@ -766,7 +919,7 @@ h) Proteger espécies e colecções artísticas particulares;
 
 i) Colaborar na superintendência técnica das colecções dependentes da Secretaria de Estado da Cultura, de outros serviços do Estado, das autarquias locais, de empresas públicas e nacionalizadas e, bem assim, de entidades ou organismos subsidiados pelo Estado.
 
-###### Art. 32.º - 1 - O Departamento de Bibliotecas, Arquivos e Serviços de Documentação compreende:
+Art. 32.º - 1 - O Departamento de Bibliotecas, Arquivos e Serviços de Documentação compreende:
 
 a) Divisão de Bibliotecas;
 
@@ -852,7 +1005,7 @@ f) Promover a urgente mecanização dos serviços de documentação, incluindo a
 
 g) Pronunciar-se sobre os regulamentos internos de serviços de documentação.
 
-###### Art. 33.º - 1 - O Departamento de Defesa, Conservação e Restauro do Património Cultural compreende:
+Art. 33.º - 1 - O Departamento de Defesa, Conservação e Restauro do Património Cultural compreende:
 
 a) Divisão de Investigação e Formação;
 
@@ -878,7 +1031,7 @@ c) Propor providências cautelares, a realização de trabalhos e a fixação de
 
 d) Colaborar na organização de brigadas móveis de técnicos para a execução de trabalhos que tenham de ser realizados in sito.
 
-###### Art. 34.º - 1 - O Departamento de Etnologia compreende:
+Art. 34.º - 1 - O Departamento de Etnologia compreende:
 
 a) Divisão de Etnografia;
 
@@ -912,7 +1065,7 @@ e) Colaborar com os Departamentos de Arqueologia, de Musicologia e dos Museus, P
 
 f) Realizar estudos e fomentar a realização de trabalhos com vista ao melhor e mais vasto conhecimento do povo português.
 
-###### Art. 35.º - 1 - O Departamento do Inventário Geral do Património Cultural compreende:
+Art. 35.º - 1 - O Departamento do Inventário Geral do Património Cultural compreende:
 
 a) Divisão de Estudos;
 
@@ -936,7 +1089,7 @@ c) Organizar um arquivo fotográfico nacional e colaborar na organização de ar
 
 d) Constituir arquivos econográficos, cartográficos, documentais e sonoros que importem ao Inventário Geral do Património Cultural.
 
-###### Art. 36.º - 1 - O Departamento dos Museus, Palácios e Fundações compreende:
+Art. 36.º - 1 - O Departamento dos Museus, Palácios e Fundações compreende:
 
 a) A Divisão de Museus;
 
@@ -984,7 +1137,7 @@ e) Fazer suspender trabalhos não autorizados, ou autorizados mas que estejam a 
 
 f) Pronunciar-se sobre os regulamentos internos dos palácios e das fundações subsidiados pelo Estado.
 
-###### Art. 37.º - 1 - O Departamento de Musicologia compreende:
+Art. 37.º - 1 - O Departamento de Musicologia compreende:
 
 a) A Divisão do Património Musicológico;
 
@@ -1012,7 +1165,7 @@ d) Coordenar e propor a aquisição de documentos de natureza musical;
 
 e) Constituir repertórios com vista à organização do corpus da música portuguesa e impulsionar a sua divulgação.
 
-###### Art. 38.º - 1 - O Departamento do Património Arquitectónico compreende:
+Art. 38.º - 1 - O Departamento do Património Arquitectónico compreende:
 
 a) A Divisão de Investigação e Reconversão;
 
@@ -1040,7 +1193,7 @@ d) Estudar e propor providências destinadas à detecção, defesa, recuperaçã
 
 e) Prestar apoio técnico e logístico a acções de defesa e conservação do património arquitectónico e seu enquadramento orgânico promovidas por outras entidades.
 
-###### Art. 39.º Compete à Direcção dos Serviços Administrativos:
+Art. 39.º Compete à Direcção dos Serviços Administrativos:
 
 a) Assegurar os serviços de contabilidade, expediente geral e arquivo do IPPC;
 
@@ -1052,7 +1205,7 @@ d) Apoiar o conselho administrativo na elaboração do orçamento do IPPC e cola
 
 e) Sem prejuízo da competência específica de outros órgãos e serviços da Secretaria de Estado da Cultura, compete aos serviços administrativos participar no apoio às acções respeitantes a assuntos de estatística, planeamento, documentação e informação, em colaboração com o Gabinete de Planeamento da Secretaria de Estado da Cultura.
 
-###### Art. 40.º - 1 - A Direcção dos Serviços Administrativos compreende:
+Art. 40.º - 1 - A Direcção dos Serviços Administrativos compreende:
 
 a) A Repartição de Administração Geral;
 
@@ -1084,7 +1237,7 @@ d) Assegurar as aquisições do material e equipamento;
 
 e) Elaborar o cadastro dos bens do IPPC e efectuar a respectiva fiscalização.
 
-###### Art. 41.º - 1 - A Repartição de Administração Geral compreende:
+Art. 41.º - 1 - A Repartição de Administração Geral compreende:
 
 a) A Secção de Pessoal;
 
@@ -1108,7 +1261,7 @@ c) A expedição ou distribuição de volumes ou outras encomendas do IPPC;
 
 d) O arquivo estático do IPPC, incluindo o respectivo serviço de microfilmagens, passando certidões quando previamente autorizadas.
 
-###### Art. 42.º - 1 - A Repartição de Contabilidade e Tesouraria compreende:
+Art. 42.º - 1 - A Repartição de Contabilidade e Tesouraria compreende:
 
 a) Secção de Contabilidade;
 
@@ -1132,7 +1285,7 @@ a) Assegurar, com rigor e eficiência, os serviços normais de tesouraria;
 
 b) Submeter a verificação diária pelo chefe de repartição os valores guardados em cofre.
 
-###### Art. 43.º - 1 - A Repartição de Património e Aprovisionamento compreende:
+Art. 43.º - 1 - A Repartição de Património e Aprovisionamento compreende:
 
 a) Secção de Economato;
 
@@ -1156,7 +1309,7 @@ c) Gerir, sob a orientação da Direcção-Geral dos Serviços Centrais, as viat
 
 d) Orientar o serviço do pessoal operário e auxiliar do IPPC.
 
-###### Art. 44.º - 1 - Aos serviços regionais compete:
+Art. 44.º - 1 - Aos serviços regionais compete:
 
 a) Assegurar em colaboração com os serviços regionais de outros Ministérios, com as delegações regionais da Secretaria de Estado da Cultura, com as autarquias locais e com instituições e entidades interessadas, a salvaguarda do património cultural;
 
@@ -1166,11 +1319,11 @@ b) A elaboração de programas e de propostas de actividade e orçamentos a nív
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 45.º - 1 - O IPPC arrecada e administra as suas receitas.
+Art. 45.º - 1 - O IPPC arrecada e administra as suas receitas.
 
 2 - O IPPC pode adquirir, administrar e alienar bens nos termos das disposições aplicáveis e exercerá os direitos relativos aos interesses que representa.
 
-###### Art. 46.º Constituem receitas do IPPC:
+Art. 46.º Constituem receitas do IPPC:
 
 a) As verbas que lhe forem consignadas no Orçamento Geral do Estado;
 
@@ -1190,9 +1343,9 @@ h) As receitas arrecadadas pelos serviços dependentes do IPPC;
 
 i) Quaisquer outras receitas não proibidas por lei.
 
-###### Art. 47.º A movimentação das receitas do IPPC efectuar-se-á em conformidade com o previsto nas disposições legais aplicáveis.
+Art. 47.º A movimentação das receitas do IPPC efectuar-se-á em conformidade com o previsto nas disposições legais aplicáveis.
 
-###### Art. 48.º Constituem encargos do IPPC:
+Art. 48.º Constituem encargos do IPPC:
 
 a) As despesas de manutenção e funcionamento dos seus órgãos e serviços;
 
@@ -1204,15 +1357,15 @@ d) O financiamento de estudos e investigações sobre a salvaguarda do patrimón
 
 e) Quaisquer outras despesas a realizar pelo IPPC dentro das suas atribuições e competências.
 
-###### Art. 49.º - 1 - Serão organizados anualmente uma conta de gerência e um balanço contendo o desenvolvimento das contas da natureza activa e passiva e a situação líquida do IPPC.
+Art. 49.º - 1 - Serão organizados anualmente uma conta de gerência e um balanço contendo o desenvolvimento das contas da natureza activa e passiva e a situação líquida do IPPC.
 
 2 - O relatório e o balanço serão aprovados pelo conselho geral.
 
-###### Art. 50.º Os levantamentos e transferências das contas abertas a favor do IPPC só poderão ter lugar com a assinatura de dois membros do conselho administrativo, sendo um deles o presidente.
+Art. 50.º Os levantamentos e transferências das contas abertas a favor do IPPC só poderão ter lugar com a assinatura de dois membros do conselho administrativo, sendo um deles o presidente.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 51.º - 1 - O pessoal do IPPC é o constante dos mapas anexos ao presente diploma.
+Art. 51.º - 1 - O pessoal do IPPC é o constante dos mapas anexos ao presente diploma.
 
 2 - O pessoal do IPPC será distribuído pelos respectivos serviços mediante despacho do presidente.
 
@@ -1220,7 +1373,7 @@ e) Quaisquer outras despesas a realizar pelo IPPC dentro das suas atribuições 
 
 4 - O tempo de serviço prestado pelo pessoal requisitado pelo IPPC será contado, para todos os efeitos legais, como se o fosse nos quadros de origem.
 
-###### Art. 52.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 1 do artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 52.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 1 do artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -1238,7 +1391,7 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro referido no n.º 1 do artigo 51.º em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 53.º - 1 - É criada a carreira de inspector do património cultural, que integra as categorias de coordenador, principal, de 1.ª classe e de 2.ª classe.
+Art. 53.º - 1 - É criada a carreira de inspector do património cultural, que integra as categorias de coordenador, principal, de 1.ª classe e de 2.ª classe.
 
 2 - O recrutamento para a categoria de inspector do património cultural-coordenador far-se-á de entre os inspectores do património cultural principais licenciados, com um mínimo de três anos na categoria e nove anos na carreira, classificação de serviço de Muito bom e mediante prova de apreciação curricular, que incluirá a discussão de trabalho apresentado para o efeito.
 
@@ -1246,11 +1399,11 @@ b) No lugar do quadro referido no n.º 1 do artigo 51.º em que vier a ser provi
 
 4 - O ingresso na carreira de inspector do património cultural é condicionado à posse cumulativa de licenciatura e do curso de bibliotecário-arquivista-documentalista, ou curso de conservador de museu, ou ainda de cursos de pós-graduação e de especialização adequados, homologados pelo Ministro da Educação e Ciência.
 
-###### Art. 54.º - 1 - É criada a carreira de inspector, que integra as categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 54.º - 1 - É criada a carreira de inspector, que integra as categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - À carreira de inspector aplica-se o disposto na lei geral para as carreiras do pessoal técnico.
 
-###### Art. 55.º - 1 - Os lugares de chefe de repartição serão providos de entre:
+Art. 55.º - 1 - Os lugares de chefe de repartição serão providos de entre:
 
 a) Chefes de secção com, pelo menos, três anos de bom e efectivo serviço;
 
@@ -1268,27 +1421,27 @@ a) Chefe de repartição: técnico administrativo de 1.ª ou 2.ª classes e insp
 
 b) Chefe de secção: adjunto técnico administrativo de 1.ª classe, técnico auxiliar de contabilidade de 1.ª classe e adjunto técnico de 1.ª classe.
 
-###### Art. 56.º - 1 - É criada a carreira de técnico de fotogrametria, que integra as categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 56.º - 1 - É criada a carreira de técnico de fotogrametria, que integra as categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - À carreira de técnico de fotogrametria aplica-se o disposto na lei geral para as carreiras do pessoal técnico-profissional complementar.
 
-###### Art. 57.º - 1 - A carreira de operador de áudio-visuais desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 57.º - 1 - A carreira de operador de áudio-visuais desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso geral do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 58.º - 1 - A carreira de fotógrafo de arte desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
+Art. 58.º - 1 - A carreira de fotógrafo de arte desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe.
 
 2 - O ingresso na carreira é condicionado à habilitação do curso do ensino secundário ou equiparado e prática profissional adequada, devidamente comprovada, com a duração mínima de dois anos.
 
-###### Art. 59.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de pelo menos duas línguas estrangeiras.
+Art. 59.º O lugar de tradutor-correspondente-intérprete será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de pelo menos duas línguas estrangeiras.
 
-###### Art. 60.º Os funcionários do quadro a que se refere o n.º 1 do artigo 51.º, quando no exercício de funções em comissão de serviço, mantêm o direito aos lugares de origem, os quais poderão ser providos interinamente enquanto durar a comissão.
+Art. 60.º Os funcionários do quadro a que se refere o n.º 1 do artigo 51.º, quando no exercício de funções em comissão de serviço, mantêm o direito aos lugares de origem, os quais poderão ser providos interinamente enquanto durar a comissão.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 61.º Os arquivos das 2.ª e 3.ª secções da extinta Junta Nacional de Educação e o equipamento mobiliário que lhe estavam afectos e que foram ou vierem a ser atribuídos à Secretaria de Estado da Cultura serão afectos ao IPPC.
+Art. 61.º Os arquivos das 2.ª e 3.ª secções da extinta Junta Nacional de Educação e o equipamento mobiliário que lhe estavam afectos e que foram ou vierem a ser atribuídos à Secretaria de Estado da Cultura serão afectos ao IPPC.
 
-###### Art. 62.º - 1 - São afectados à Secretaria de Estado da Cultura, através do IPPC, os palácios nacionais, os castelos, igrejas ou mosteiros, designadamente os constantes da lista anexa a este diploma e que se encontram na dependência administrativa do Ministério das Finanças e do Plano, e ainda o Arquivo Histórico deste Ministério.
+Art. 62.º - 1 - São afectados à Secretaria de Estado da Cultura, através do IPPC, os palácios nacionais, os castelos, igrejas ou mosteiros, designadamente os constantes da lista anexa a este diploma e que se encontram na dependência administrativa do Ministério das Finanças e do Plano, e ainda o Arquivo Histórico deste Ministério.
 
 2 - O disposto no número anterior aplica-se aos bens dominiais que se encontrem ou venham a encontrar na dependência administrativa do Ministério das Finanças e do Plano e que estejam ou venham a estar classificados como monumento nacional ou imóvel de interesse público.
 
@@ -1298,39 +1451,39 @@ b) Chefe de secção: adjunto técnico administrativo de 1.ª classe, técnico a
 
 5 - A administração dos palácios afectos à residência oficial do Presidente da República será efectuada conjuntamente pelo IPPC e pela Secretaria-Geral da Presidência da República.
 
-###### Art. 63.º As receitas dos palácios e monumentos nacionais referidos no artigo 62.º passam a constituir receitas do IPPC.
+Art. 63.º As receitas dos palácios e monumentos nacionais referidos no artigo 62.º passam a constituir receitas do IPPC.
 
-###### Art. 64.º O IPPC editará uma publicação trimestral intitulada Revista do IPPC, na qual será obrigatoriamente publicado o relatório anual de actividades, além de estudos que documentem a acção do IPPC.
+Art. 64.º O IPPC editará uma publicação trimestral intitulada Revista do IPPC, na qual será obrigatoriamente publicado o relatório anual de actividades, além de estudos que documentem a acção do IPPC.
 
-###### Art. 65.º Aos vogais dos Conselhos Nacional e Consultivo que tenham de se ausentar do lugar de residência ao serviço do IPPC serão abonadas despesas de transporte, bem como ajudas de custo, de acordo com o regime geral em vigor, caso não sejam funcionários do Estado, terão ainda direito a senhas de presença, nos termos da lei geral.
+Art. 65.º Aos vogais dos Conselhos Nacional e Consultivo que tenham de se ausentar do lugar de residência ao serviço do IPPC serão abonadas despesas de transporte, bem como ajudas de custo, de acordo com o regime geral em vigor, caso não sejam funcionários do Estado, terão ainda direito a senhas de presença, nos termos da lei geral.
 
-###### Art. 66.º O primeiro provimento de lugares do quadro de pessoal anexo ao presente diploma será feito de acordo com os critérios definidos na lei geral de entre o pessoal que se encontre vinculado a qualquer título às extintas Direcção-Geral do Património Cultural e Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, incluindo o pessoal da extinta Junta Nacional de Educação que tenha feito a opção a que se referem os artigos 4.º e 8.º do [Decreto-Lei n.º 70/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1977-141653), de 20 de Fevereiro.
+Art. 66.º O primeiro provimento de lugares do quadro de pessoal anexo ao presente diploma será feito de acordo com os critérios definidos na lei geral de entre o pessoal que se encontre vinculado a qualquer título às extintas Direcção-Geral do Património Cultural e Comissão Organizadora do Instituto de Salvaguarda do Património Cultural e Natural, incluindo o pessoal da extinta Junta Nacional de Educação que tenha feito a opção a que se referem os artigos 4.º e 8.º do [Decreto-Lei n.º 70/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1977-141653), de 20 de Fevereiro.
 
-###### Art. 67.º Transitam para a carreira de inspector do património cultural, para categoria correspondente à actual, os inspectores-chefes, o adjunto do director-geral e os inspectores orientadores de 1.ª classe, desde que habilitados com curso superior.
+Art. 67.º Transitam para a carreira de inspector do património cultural, para categoria correspondente à actual, os inspectores-chefes, o adjunto do director-geral e os inspectores orientadores de 1.ª classe, desde que habilitados com curso superior.
 
-###### Art. 68.º Ao pessoal provido no quadro do IPPC em categoria idêntica ou equivalente à que possuía na sua anterior situação será contado o tempo de serviço prestado nesta para efeitos de progressão na carreira.
+Art. 68.º Ao pessoal provido no quadro do IPPC em categoria idêntica ou equivalente à que possuía na sua anterior situação será contado o tempo de serviço prestado nesta para efeitos de progressão na carreira.
 
-###### Art. 69.º Os lugares dos funcionários providos no quadro de pessoal anexo ao presente diploma serão abatidos aos quadros definidos pelos Decretos-Leis n.os [408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e [409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e pelo [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro, a partir da data da publicação das respectivas listas.
+Art. 69.º Os lugares dos funcionários providos no quadro de pessoal anexo ao presente diploma serão abatidos aos quadros definidos pelos Decretos-Leis n.os [408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, e [409/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1975-336500), de 2 de Agosto, e pelo [Decreto n.º 89/76](https://diariodarepublica.pt/dr/detalhe/decreto/89-1976-507022), de 29 de Janeiro, a partir da data da publicação das respectivas listas.
 
-###### Art. 70.º O pessoal actualmente em serviço nos palácios e monumentos nacionais, no Arquivo Histórico do Ministério das Finanças e do Plano e na Biblioteca do Palácio Nacional de Mafra transitará para o IPPC, mediante despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
+Art. 70.º O pessoal actualmente em serviço nos palácios e monumentos nacionais, no Arquivo Histórico do Ministério das Finanças e do Plano e na Biblioteca do Palácio Nacional de Mafra transitará para o IPPC, mediante despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo responsável pela área da cultura.
 
-###### Art. 71.º No corrente ano económico, os encargos da instalação e funcionamento do IPPC serão suportados pelas dotações da extinta Direcção-Geral do Património Cultural.
+Art. 71.º No corrente ano económico, os encargos da instalação e funcionamento do IPPC serão suportados pelas dotações da extinta Direcção-Geral do Património Cultural.
 
-###### Art. 72.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pela área da cultura e do Ministro das Finanças e do Plano ou do membro do Governo que tiver a seu cargo a função pública, quando envolvam matérias de ordem financeira ou de organização de serviços e de pessoal.
+Art. 72.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho conjunto do membro do Governo responsável pela área da cultura e do Ministro das Finanças e do Plano ou do membro do Governo que tiver a seu cargo a função pública, quando envolvam matérias de ordem financeira ou de organização de serviços e de pessoal.
 
-###### Art. 73.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 73.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 16 de Julho de 1980.**
+Promulgado em 16 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal do IPPC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17700/19902009.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17700/19902009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17700/19902009.pdf)
 
 Lista a que se refere o n.º 17 do artigo 3.º do presente diploma
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/2000/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2000-300036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 737f4a8cff043c7a72173b7fbaa67431bff1ef979f72c6389ac836d95e84aa24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1729b0102826d065a26a108a206f4a6f010135a28af8465267afb2b4ac2e42c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Fiscalização
-- Laboratório
 - Instituto Português da Qualidade
+- Laboratório
 - Normas de Segurança
 - OCDE
 relationships:
@@ -90,14 +90,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1999/12/oj
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:33Z'
   warnings: []
   errors: []
 ---
@@ -176,15 +176,15 @@ As autoridades competentes deverão elaborar e enviar à Comissão Europeia, anu
 
 Visto e aprovado em Conselho de Ministros de 22 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 8 de Maio de 2000.**
+Promulgado em 8 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 2000.**
+Referendado em 12 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 3.º)
 
@@ -192,7 +192,7 @@ Nota
 
 As disposições para a inspecção e verificação das BPL que são mencionadas nas partes A e B figuram no anexo I («Guias relativas aos procedimentos de verificação do cumprimento das boas práticas de laboratório») e no anexo II («Orientações para a condução de inspecções de instalações de ensaio e auditorias a estudos») da Decisão-Recomendação do Conselho da OCDE relativa à conformidade com os princípios de boas práticas de laboratório [C(89)87(final)], de 2 de Outubro de 1989, tal como revistas pela Decisão do Conselho da OCDE «Modificação dos anexos à Decisão-Recomendação do Conselho relativa à conformidade com os princípios de boas práticas de laboratório» [C(95)8 (final)], de 9 de Março de 1995.
 
-# PARTE A — Guia para os procedimentos de verificação do cumprimento das boas práticas de laboratório
+## PARTE A — Guia para os procedimentos de verificação do cumprimento das boas práticas de laboratório
 
 Introdução
 
@@ -332,7 +332,7 @@ Procedimentos de recurso
 
 Os problemas ou divergências de opinião entre os inspectores e a administração das instalações de ensaio serão normalmente resolvidos durante a realização da inspecção da instalação ou da auditoria. Contudo, por vezes poderá não ser possível chegar a acordo. Deve existir um processo através do qual uma instalação de ensaio possa actuar, em função dos resultados de uma inspecção ou da auditoria de um estudo para a verificação do cumprimento das BPL e ou em relação à acção que as autoridades nacionais se propõem adoptar com base nesses resultados.
 
-# PARTE B — Orientações para a realização de inspecções a laboratórios e auditorias de estudos
+## PARTE B — Orientações para a realização de inspecções a laboratórios e auditorias de estudos
 
 Introdução
 

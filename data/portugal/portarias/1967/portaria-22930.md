@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22930-1967-391641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9289b4990c82142a4b163d0a016b9d07dc8e0bce846c61ecefe8ed954bbc40b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 979af34dea7f6ac25e71b7bf0ab31d0ccb090fd9f1d90a44db1c23d6867b5f9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:08Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +100,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Aquisição de móveis - Livros e revistas para a biblioteca» ... 23000$00
+Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Aquisição de móveis - Livros e revistas para a biblioteca» ... 23000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea a) «De imóveis - Pequenas reparações no edifício» ... 80000$00
 
@@ -104,7 +112,7 @@ Alínea a) «Máquinas, aparelhos, instrumentos, utensílios e material didácti
 
 Alínea b) «Mobiliário» ... 10000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 2) «Despesas de publicação, edições e expediente dos Anais da Escola» ... 20000$00
 
@@ -112,15 +120,15 @@ N.º 5) «Compra e manutenção de animais de laboratório» ... 130000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 230000$00
+Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 230000$00
 
-###### Artigo 9.º, n.º 4) «Despesas de comunicações - Transportes de naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa.» ... 10000$00
+Artigo 9.º, n.º 4) «Despesas de comunicações - Transportes de naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa.» ... 10000$00
 
 Diversos encargos:
 
-###### Artigo 13.º «Vestuário para os naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa» ... 25000$00
+Artigo 13.º «Vestuário para os naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa» ... 25000$00
 
-###### Artigo 26.º «Despesas de vacinação contra a febre-amarela e outras moléstias» ... 150000$00
+Artigo 26.º «Despesas de vacinação contra a febre-amarela e outras moléstias» ... 150000$00
 
 ... 703000$00
 
@@ -130,7 +138,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 2.º «Remunerações certas ao pessoal em exercício»:
+Artigo 2.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 393000$00
 

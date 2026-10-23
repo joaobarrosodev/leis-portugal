@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2006/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2006-203010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94027ae71ce50453eb98f4efabf3e4c9282110de763da056e5a44ccb27933db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 139915e05a0c3c01a30f73bda19e9a6adfc9a2fbc3e6524c2c6a42c1728b1166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Formação Profissional
 - Internato Médico
 - Medicina Legal
+- Médico
 - Regime Jurídico
 - Remuneração
 relationships:
@@ -109,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/937/1998/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/937/1998/10/29/p/dre
+- type: cites
+  target: pt:dre:175796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634923:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:32Z'
   warnings: []
   errors: []
 ---
@@ -183,12 +219,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 17 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 19 de Dezembro de 2005.**
+Promulgado em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2005.**
+Referendado em 19 de Dezembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

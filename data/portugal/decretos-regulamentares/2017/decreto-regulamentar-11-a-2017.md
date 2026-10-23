@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 249/2017, 2º Suplemento, Série I de 2017-12-29
   number: '249'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7012-(52) a 7012-(54)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/12/24902/0005200054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/11-a/2017/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-a-2017-114436484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac860eb737891eb510b7925425904359ede4d62b0362a6cd5b309bc629efeaf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 733a4a2af254fd9a491041433a1b8b2ddffd3af12af879ca838eae2e6661fad6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Investigação Científica e Tecnológica
-- Sistema Científico e Tecnológico Nacional
-- Fundação para a Ciência e a Tecnologia
-- Contratação de Docentes
-- Regime Laboral
-- Doutoramento
-- Recrutamento de Pessoal
-- Contratação de Pessoal
 - Carreira Docente Universitária
-- Pessoal Docente
+- Contratação de Docentes
+- Contratação de Pessoal
 - Contrato de Trabalho
+- Doutoramento
+- Financiamento
+- Fundação para a Ciência e a Tecnologia
+- Investigação Científica e Tecnológica
+- Pessoal Docente
+- Recrutamento de Pessoal
 - Regime Jurídico
+- Regime Laboral
 - Remuneração
+- Sistema Científico e Tecnológico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:928659811:por
@@ -104,13 +104,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:13Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +133,7 @@ i) O apoio direto à contratação de diferentes níveis de investigadores douto
 
 ii) O apoio ao desenvolvimento de planos de emprego científico e desenvolvimento de carreiras científicas por instituições académicas e científicas, através de concursos periódicos a abrir pela FCT, I. P., os quais devem estimular a responsabilização das instituições para reforçarem as suas carreiras;
 
-iii) O apoio ao desenvolvimento de pacotes plurianuais de contratação de investigadores doutorados através da componente de financiamento plurianual das unidades de I&D, na sequência do processo em curso de avaliação das unidades de I&D;
+iii) O apoio ao desenvolvimento de pacotes plurianuais de contratação de investigadores doutorados através da componente de financiamento plurianual das unidades de I&D, na sequência do processo em curso de avaliação das unidades de I&D
 
 iv) O apoio ao desenvolvimento de projetos de I&D consagrando a contratação de investigadores doutorados pelas próprias instituições científicas no âmbito das equipas de projeto;
 
@@ -165,7 +165,7 @@ Nos termos da alínea c) do artigo 199.º da Constituição e do n.º 1 do artig
 
 1 - A remuneração dos contratos mencionados no artigo anterior tem por referência os níveis remuneratórios das categorias de investigador auxiliar, investigador principal e investigador coordenador, previstos no Estatuto da Carreira de Investigação Científica, aprovado pelo [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dre/detalhe/decreto-lei/124-1999-534996), de 20 de abril, na sua redação atual, e o nível inicial a aplicar tem como referência o nível remuneratório 33 da Tabela Remuneratória Única (TRU) de acordo com as posições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/12/24902/0005200054.pdf))](https://files.diariodarepublica.pt/1s/2017/12/24902/0005200054.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/12/24902/0005200054.pdf)
 
 2 - Os níveis remuneratórios das categorias de investigador auxiliar e de investigador principal referidos no número anterior têm por referência as respetivas categorias sem habilitação e agregação.
 
@@ -201,12 +201,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 14 de dezembro de 2017. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 28 de dezembro de 2017.**
+Promulgado em 28 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2017.**
+Referendado em 29 de dezembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111033871

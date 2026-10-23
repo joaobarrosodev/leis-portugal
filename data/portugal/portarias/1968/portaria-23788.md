@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23788-1968-262306
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10d3d16e5e5b084e588fd3a9f105fce49d28a30075402ab14ef25e37a49c2dd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748f3265d14187c8ea26eb0482abcbb97e243eddf3a7548ef4e1bb4964be2ca4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:31Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assu
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 2.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, que o Governo da província de Cabo Verde reforce com a importância de 3000000$00 a verba do capítulo 12.º, artigo 314.º, n.º VIII), 3) «III Plano de Fomento - Transportes, comunicações e meteorologia - Portos e navegação», da tabela de despesa extraordinária do orçamento geral para o corrente ano, utilizando como contrapartida disponibilidades das seguintes verbas da mesma tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 314.º, n.º VIII) «III Plano de Fomento, 1968»:
+Capítulo 12.º, artigo 314.º, n.º VIII) «III Plano de Fomento, 1968»:
 
 II) «Pesca»:
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15300/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2020/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2020-139804819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efec59df9535801c671a47fd1deccb74036dc145b953c390a2366ae978076c99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddb977ea777e3bdcb07c134e50e969824fda3f066f50cee196fd197a85c1e70e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Equipamento Desportivo
-- Direito de Acesso
-- Direção Geral da Saúde
+- Agência Portuguesa do Ambiente
+- Autarquia Local
+- Autoridade Marítima Nacional
+- Autoridade Portuária
 - Comunicações Eletrónicas
+- Controlo Sanitário
 - Definição de Competências
 - Difusão da Informação
-- Autoridade Marítima Nacional
-- Controlo Sanitário
-- Fiscalização
-- Autoridade Portuária
+- Direção Geral da Saúde
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Pessoal de Limpeza
-- Doença Infecciosa
-- Epidemia
-- Prorrogação de Prazo
-- Domínio Público Hídrico
-- Restrição ao Trânsito
 - Direcção Geral da Autoridade Marítima
-- Autarquia Local
-- Situação de Contingência
+- Direito de Acesso
+- Doença Infecciosa
+- Domínio Público Hídrico
+- Epidemia
+- Equipamento Desportivo
+- Fiscalização
+- Pessoal de Limpeza
+- Prorrogação de Prazo
+- Restrição ao Trânsito
 - Situação de Alerta
-- Agência Portuguesa do Ambiente
+- Situação de Contingência
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-d/2020/03/23/p/dre
   label: null
@@ -109,16 +115,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/24/2020/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/24/2020/05/25/p/dre
+- type: cites
+  target: pt:dre:130602979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133321093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:134394010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:49Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +201,9 @@ Os artigos 8.º e 25.º do [Decreto-Lei n.º 24/2020](https://diariodarepublica.
 
 4 - [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Fica interdita a disponibilização e a utilização de quaisquer equipamentos de uso coletivo, considerando-se como tal chuveiros interiores, de corpo ou de pés, e equipamentos passíveis de utilização por mais de duas pessoas em simultâneo, com a exceção prevista no número seguinte.
 
@@ -237,12 +261,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Anabela Damásio Caetano Pedroso - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões - Gabriel Gameiro Rodrigues Bastos - João Pedro Soeiro de Matos Fernandes - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 3 de agosto de 2020.**
+Promulgado em 3 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de agosto de 2020.**
+Referendado em 4 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113472514

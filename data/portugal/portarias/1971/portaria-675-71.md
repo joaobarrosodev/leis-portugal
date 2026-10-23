@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/675-1971-632011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7116c6632f130f7fd9f3f99d87bd2e8a5af3e6ba72b6b44d1aede85d8fa48863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bf8ffb31b7ec2b59df490e03496e4b9e337e2c3706dc703283cf1024192602e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:36Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +99,6 @@ de 7 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do § único do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, conjugado com o artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, e artigo 3.º do aludido [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234) e sua alínea e), com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir um crédito especial da importância de 200000$00, destinado a reforçar a verba do capítulo 10.º, artigo 303.º, n.º 35), alínea a) «Encargos gerais - Diversas despesas - Despesas com assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor da província de Timor, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 3.º, artigo 18.º «Indústrias em regime tributário especial - Imposto de produção e consumo», da tabela da receita ordinária do mesmo orçamento geral.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Timor. - J. da Silva Cunha.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/1995/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b11a225dd54a0e16da55334c2797535afca9f77989fc4083028597d6f46be73d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7f76e0d71f3bdb1e5e302a52c4ec9c39c532b4c33e534421a465bec7e2a3ece
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Publicidade
 - Código da Publicidade
-- Multa
-- Saúde Pública
+- Comissão de Aplicação de Coimas em Matéria de Publicidade
 - Extinção de Serviços
 - Inspecção Geral das Actividades Económicas
 - Instituto do Consumidor
+- Multa
 - Proteção do Consumidor
-- Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Publicidade
 - Publicidade do Estado
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:276860:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243884:por
+  label: "Alterados os arts. 7º, 25º, 27º, 38º e 39º do Código da Publicidade, aprovado pelo Dec Lei 330/90 de 23-Out na redacção\
+    \ do presente diploma pelo DEC LEI.275/98.1998.09.09.PCM, DR.IS-B [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-1998-243884
+  date: '1998-09-09'
+- type: amended_by
+  target: pt:dre:536644:por
+  label: Alterado o art. 39.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do presente diploma,
+    pelo DEC LEI.332/2001.2001.12.24.PCM DR.IS-A [296]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-2001-536644
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:209822:por
+  label: "Alterado o art. 27.º do Código da Publicidade, aprovado pelo Dec Lei 330/90, de 23-Out, na redacção do presente\
+    \ diploma, pelo DEC LEI.224/2004.04.12.2004.PCM, DR.IS-A [284] de 04.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-2004-209822
+  date: '2004-12-04'
+- type: amended_by
+  target: pt:dre:276860:por
+  label: Alterado o art. 8º do Código da Publicidade, aprovado pelo Dec Lei 330/90 de 23-Out, com a redacção dada pelo presente
+    diploma, pela LEI.8/2011.11.04.2011.AR, DR.IS [71] de 11.04.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2011-276860
+  date: '2011-04-11'
 - type: cites
   target: celex:31984L0450
   label: null
@@ -90,15 +114,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1989/552/oj
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:11Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +141,7 @@ Assim:
 
 No uso da autorização legislativa concedida pela Lei n.º 16/94, de 23 de Maio, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 7.º, 8.º, 25.º, 26.º, 27.º, 37.º, 38.º e 39.º do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 7.º, 8.º, 25.º, 26.º, 27.º, 37.º, 38.º e 39.º do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -233,7 +257,7 @@ b) Em 20% para a Inspecção-Geral das Actividades Económicas;
 
 c) Em 60% para o Estado.
 
-###### Art. 2.º É aditado ao Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, o artigo 41.º, com a seguinte redacção:
+Art. 2.º É aditado ao Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, o artigo 41.º, com a seguinte redacção:
 
 ###### Artigo 41.º — Medidas cautelares
 
@@ -253,18 +277,18 @@ c) Em 60% para o Estado.
 
 8 - Para efeitos do disposto nos números anteriores, a publicidade de ideias de conteúdo político ou religioso é equiparada ao regime previsto para a publicidade enganosa.
 
-###### Art. 3.º A aplicação do disposto nos n.os 1, 2 e 3 do artigo 8.º do Código da Publicidade, com a redacção introduzida pelo presente diploma, produz efeitos decorridos 30 dias após a entrada em vigor.
+Art. 3.º A aplicação do disposto nos n.os 1, 2 e 3 do artigo 8.º do Código da Publicidade, com a redacção introduzida pelo presente diploma, produz efeitos decorridos 30 dias após a entrada em vigor.
 
-###### Art. 4.º São revogados os artigos 31.º a 33.º do Código da Publicidade, aprovado por Decreto-Lei n.º 330/90, de 23 de Outubro, e o artigo 40.º do Decreto-Lei n.º 28/84 de 20 de Janeiro.
+Art. 4.º São revogados os artigos 31.º a 33.º do Código da Publicidade, aprovado por Decreto-Lei n.º 330/90, de 23 de Outubro, e o artigo 40.º do Decreto-Lei n.º 28/84 de 20 de Janeiro.
 
 Visto e aprovado em Conselho de Ministro de 17 de Novembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Luís Manuel Gonçalves Marques Mendes.
 
-**Promulgado em 28 de Dezembro de 1994.**
+Promulgado em 28 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

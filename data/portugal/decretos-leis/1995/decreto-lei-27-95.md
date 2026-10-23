@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/1995/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1995-198734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5d232961d9b0800542cf739fc2723d14a7e5820e29c77c37cd1a57778d552a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7ecd5d44ebe972b86333b7f31aad5b9d4a4ae37be59eba0dfe7b7cd9aa5c805
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Bebida Alcoólica
-- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Contribuições e Impostos
-- Regime Fiscal
+- Imposto Especial sobre o Consumo de Bebidas Alcoólicas
 - Indústria Alimentar
+- Regime Fiscal
 - Taxa
 relationships:
 - type: cites
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:06Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +110,11 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea b) do n.º 2 do artigo 38.º da Lei n.º 75/93, de 20 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aditado ao título I do Decreto-Lei n.º 104/93, de 5 de Abril, um capítulo VIII, com o seguinte teor:
+Artigo único. É aditado ao título I do Decreto-Lei n.º 104/93, de 5 de Abril, um capítulo VIII, com o seguinte teor:
 
-### CAPÍTULO VIII — Artigo 20.º-A
+### CAPÍTULO VIII
+
+###### Artigo 20.º-A
 
 Regime das pequenas destilarias
 
@@ -134,12 +136,12 @@ c) Não operem sob licença ou por conta de outrem.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1994. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1977-251778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a831b67ac1630e0b6bf41a4840f4a1bff9e46818ce814227fb166789f96399b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15d03ebd36b22440b437b58cd04d7d4f92d25ee644f95311ae3b020cff582297
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Idade de Reforma
+- Incapacidade Temporária
+- Pensão de Invalidez
+- Pensão de Reforma
+- Prazo de Garantia
+- Prestações da Segurança Social
+- Rectificação de Numero de Diploma
+- Reforma
+- Regulamento Geral das Caixas Sindicais de Previdência
+- Segurança Social
+- Subsídio de Doença
+- Trabalhador Rural
+relationships:
+- type: cites
+  target: pt:dre:421459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252026:por
+  label: Retificado para DR 25/77 o presente diploma, pelo(a) Declaração - Diário da República n.º 117/1977, Série I de 1977-05-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252026
+  date: '1977-05-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:38Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +140,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 50.º, 77.º e 88.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, alterados pelos Decretos n.os [358/73](https://diariodarepublica.pt/dr/detalhe/decreto/358-1973-421459), de 16 de Julho, e [486/73](https://diariodarepublica.pt/dr/detalhe/decreto/486-1973-599971), de 27 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 50.º, 77.º e 88.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, alterados pelos Decretos n.os [358/73](https://diariodarepublica.pt/dr/detalhe/decreto/358-1973-421459), de 16 de Julho, e [486/73](https://diariodarepublica.pt/dr/detalhe/decreto/486-1973-599971), de 27 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º pelo prazo máximo de mil e noventa e cinco dias em cada impedimento por doença, considerando-se para o preenchimento desse prazo os períodos de impedimento cujo início se verifica nos noventa dias imediatos à alta anterior.
+Art. 50.º - 1. O subsídio será pago no montante previsto no artigo 48.º pelo prazo máximo de mil e noventa e cinco dias em cada impedimento por doença, considerando-se para o preenchimento desse prazo os períodos de impedimento cujo início se verifica nos noventa dias imediatos à alta anterior.
 
 2. ...
 
@@ -119,7 +150,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ...
 
-###### Art. 77.º - 1. ...
+Art. 77.º - 1. ...
 
 2. Na Caixa Nacional de Pensões considera-se como prazo de garantia a existência de trinta e seis meses com contribuições.
 
@@ -131,17 +162,17 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ...
 
-###### Art. 88.º - 1. O direito às pensões é reconhecido aos beneficiários que tenham completado a idade e o período de garantia estatutariamente previstos, não podendo este ser inferior a sessenta meses.
+Art. 88.º - 1. O direito às pensões é reconhecido aos beneficiários que tenham completado a idade e o período de garantia estatutariamente previstos, não podendo este ser inferior a sessenta meses.
 
 2. Na Caixa Nacional de Pensões a idade normal de reforma será de 65 anos para os beneficiários do sexo masculino e de 62 anos para os do sexo feminino e considera-se como prazo de garantia a existência de sessenta meses com contribuições.
 
 3. ...
 
-###### Art. 2.º - 1. O período de atribuição de subsídio na doença e os prazos de garantia das pensões de invalidez e velhice dos trabalhadores rurais abrangidos pelo regime dos fundos de previdência são os fixados no presente diploma para os trabalhadores inscritos nas caixas sindicais de previdência.
+Art. 2.º - 1. O período de atribuição de subsídio na doença e os prazos de garantia das pensões de invalidez e velhice dos trabalhadores rurais abrangidos pelo regime dos fundos de previdência são os fixados no presente diploma para os trabalhadores inscritos nas caixas sindicais de previdência.
 
 2. O prazo de garantia das pensões de sobrevivência a que têm direito os referidos trabalhadores rurais é igual ao exigido para as pensões de invalidez.
 
-###### Art. 3.º - 1. As disposições do presente diploma relativas ao período de atribuição do subsídio na doença aplicam-se a todas as situações de incapacidade temporária ocorridas depois da sua entrada em vigor.
+Art. 3.º - 1. As disposições do presente diploma relativas ao período de atribuição do subsídio na doença aplicam-se a todas as situações de incapacidade temporária ocorridas depois da sua entrada em vigor.
 
 2. No que diz respeito ao período de garantia, continua a depender das condições em vigor à data da publicação do presente diploma o direito às prestações de invalidez, velhice e sobrevivência dos trabalhadores nessa data já inscritos nas caixas sindicais de previdência e no regime dos fundos de previdência.
 
@@ -149,8 +180,8 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Armando Bacelar.
 
-**Promulgado em 18 de Abril de 1977.**
+Promulgado em 18 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

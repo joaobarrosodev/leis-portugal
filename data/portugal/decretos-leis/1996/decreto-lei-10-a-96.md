@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1996, 1º Suplemento, Série I-A de 1996-02-27
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 394-(2) a 394-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/049a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10-a/1996/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-1996-329599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57d4b569eb3c94222e0dd9f104a0343266391379f3e278b581e1c7c0c6cfeb79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e200862445cae8b33b5ba071a6197b7e8d0e29351628394935d63e6ec5f6c5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/197/1994/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/197/1994/07/21/p/dre
+- type: cites
+  target: pt:dre:297227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:424725:por
+  label: "Revogado pelo DEC LEI.239/2002.2002.11.05.MADRP DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-2002-424725
+  date: '2002-11-05'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:06Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +154,12 @@ São revogados os artigos 2.º, 8.º e 9.º do [Decreto-Lei n.º 197/94](https:/
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 26 de Fevereiro de 1996.**
+Promulgado em 26 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Fevereiro de 1996.**
+Referendado em 26 de Fevereiro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

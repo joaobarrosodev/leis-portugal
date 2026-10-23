@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-1980-470469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 293ac4cc278a7cda231b586f1a6b561aca26f80b56f2f78282305c636ec2c242
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 093968fb1709f2b9a6bd56beabca6b72de046ab86b94b53b99cb0ab45882b178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto de Defesa Nacional
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:381345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681426:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:36Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +102,11 @@ Regulamento Interno do Instituto da Defesa Nacional
 
 ### CAPÍTULO I — Missão e constituição
 
-###### Artigo 1.º O Instituto da Defesa Nacional (IDN) é o organismo das forças armadas (FA) de estudo e investigação, ao mais alto nível, dos problemas da defesa nacional.
+Artigo 1.º O Instituto da Defesa Nacional (IDN) é o organismo das forças armadas (FA) de estudo e investigação, ao mais alto nível, dos problemas da defesa nacional.
 
-###### Art. 2.º O IDN depende directamente do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA).
+Art. 2.º O IDN depende directamente do Chefe do Estado-Maior-General das Forças Armadas (CEMGFA).
 
-###### Art. 3.º - 1 - O IDN tem por missão contribuir para:
+Art. 3.º - 1 - O IDN tem por missão contribuir para:
 
 a) A definição de uma doutrina de defesa nacional no quadro da política geral estabelecida pelos Órgãos de Soberania e em conformidade com as directivas dimanadas do Conselho dos Chefes dos Estados-Maiores das Forças Armadas (CCEM);
 
@@ -110,7 +120,7 @@ b) Contribuir, no âmbito da defesa nacional, para a elaboração e actualizaç�
 
 c) Contribuir, no âmbito da defesa nacional, para o diálogo permanente e esclarecedor entre militares e civis.
 
-###### Art. 4.º Para cumprimento da sua missão o IDN, de acordo com a orientação determinada pelo CEMGFA:
+Art. 4.º Para cumprimento da sua missão o IDN, de acordo com a orientação determinada pelo CEMGFA:
 
 a) Propõe anualmente o seu plano geral de actividades;
 
@@ -128,7 +138,7 @@ g) Promove a edição da revista Nação e Defesa;
 
 h) Elabora um relatório anual das suas actividades.
 
-###### Art. 5.º - 1 - Com vista a assegurar a harmonização das matérias ministradas de acordo com a doutrina estabelecida, o IDN coordena as suas actividades com:
+Art. 5.º - 1 - Com vista a assegurar a harmonização das matérias ministradas de acordo com a doutrina estabelecida, o IDN coordena as suas actividades com:
 
 a) Os estabelecimentos superiores de ensino dos três ramos das FA;
 
@@ -136,7 +146,7 @@ b) Os estabelecimentos civis de ensino superior e outros organismos dos sectores
 
 2 - O IDN deve manter contactos assíduos com instituições congéneres de outros países.
 
-###### Art. 6.º - 1 - Para consecução dos seus objectivos, o IDN dispõe de:
+Art. 6.º - 1 - Para consecução dos seus objectivos, o IDN dispõe de:
 
 a) Direcção;
 
@@ -150,9 +160,9 @@ d) Departamento de Apoio.
 
 ### CAPÍTULO II — Direcção, conselho coordenador e conselho pedagógico
 
-###### Art. 7.º A direcção é exercida por um director, coadjuvado por um subdirector e assistido por um conselho pedagógico.
+Art. 7.º A direcção é exercida por um director, coadjuvado por um subdirector e assistido por um conselho pedagógico.
 
-###### Art. 8.º - 1 - O director é um oficial general nomeado pelo CEMGFA, tendo em consideração a conveniência da atribuição sucessiva do cargo aos três ramos das FA, não devendo a permanência no mesmo ser normalmente superior a três anos.
+Art. 8.º - 1 - O director é um oficial general nomeado pelo CEMGFA, tendo em consideração a conveniência da atribuição sucessiva do cargo aos três ramos das FA, não devendo a permanência no mesmo ser normalmente superior a três anos.
 
 2 - Ao director compete dirigir todas as actividades do IDN, com particular incidência as de estudo e investigação.
 
@@ -172,17 +182,17 @@ f) Promover o intercâmbio com estabelecimentos de ensino e de investigação e 
 
 g) Presidir às reuniões do conselho coordenador e, quando entender, do conselho pedagógico.
 
-###### Art. 9.º - 1 - O director do IDN é assistido por um conselho coordenador, constituído pelos directores do Instituto de Altos Estudos Militares, do Instituto Superior Naval de Guerra e do Instituto de Altos Estudos da Força Aérea, com vista a garantir a coordenação referida na alínea a) do n.º 1 do artigo 5.º
+Art. 9.º - 1 - O director do IDN é assistido por um conselho coordenador, constituído pelos directores do Instituto de Altos Estudos Militares, do Instituto Superior Naval de Guerra e do Instituto de Altos Estudos da Força Aérea, com vista a garantir a coordenação referida na alínea a) do n.º 1 do artigo 5.º
 
 2 - O conselho coordenador reunirá, por convocação do director do IDN, pelo menos, três vezes por ano.
 
-###### Art. 10.º - 1 - O subdirector é um oficial general nomeado pelo CEMGFA, sob proposta do director do IDN, ouvido o Chefe do Estado-Maior (CEM) do respectivo ramo, não devendo, normalmente, pertencer ao mesmo ramo que o director.
+Art. 10.º - 1 - O subdirector é um oficial general nomeado pelo CEMGFA, sob proposta do director do IDN, ouvido o Chefe do Estado-Maior (CEM) do respectivo ramo, não devendo, normalmente, pertencer ao mesmo ramo que o director.
 
 2 - O subdirector coadjuva o director, desempenhando as tarefas que por este lhe forem determinadas, e substitui-o em todos os casos de impedimento legal.
 
 3 - O subdirector é cumulativamente chefe do Departamento de Estudos.
 
-###### Art. 11.º - 1 - O conselho pedagógico é o órgão de consulta à disposição do director para todos os assuntos de estudo e investigação, competindo-lhe, designadamente, dar parecer sobre os planos e programas das actividades do IDN e sobre outros assuntos pedagógicos ou de doutrina.
+Art. 11.º - 1 - O conselho pedagógico é o órgão de consulta à disposição do director para todos os assuntos de estudo e investigação, competindo-lhe, designadamente, dar parecer sobre os planos e programas das actividades do IDN e sobre outros assuntos pedagógicos ou de doutrina.
 
 2 - O conselho pedagógico é presidido pelo subdirector e dele fazem parte todos os assessores militares e civis e o chefe do Gabinete de Planeamento do Departamento de Estudos, que serve de secretário.
 
@@ -202,7 +212,7 @@ d) Outros assuntos que lhe sejam propostos pelo director.
 
 ### CAPÍTULO III — Departamento de Estudos
 
-###### Art. 12.º - 1 - O Departamento de Estudos é chefiado, em acumulação, pelo subdirector, que dirige as actividades pedagógicas de doutrina e investigação, de acordo com a orientação definida pelo director.
+Art. 12.º - 1 - O Departamento de Estudos é chefiado, em acumulação, pelo subdirector, que dirige as actividades pedagógicas de doutrina e investigação, de acordo com a orientação definida pelo director.
 
 2 - O Departamento de Estudos compreende:
 
@@ -222,7 +232,7 @@ c) Propor a nomeação, a recondução e a exoneração dos assessores e a sua d
 
 d) Dar informações e pareceres sobre as actividades desenvolvidas pelo IDN.
 
-###### Art. 13.º - 1 - O Corpo de Assessores é constituído por todos os assessores militares e civis, em número variável com as necessidades do IDN.
+Art. 13.º - 1 - O Corpo de Assessores é constituído por todos os assessores militares e civis, em número variável com as necessidades do IDN.
 
 2 - Os assessores podem ser agrupados por secções, de acordo com a natureza das matérias abrangidas pelas actividades pedagógicas e de investigação.
 
@@ -234,7 +244,7 @@ b) Para os assessores civis, ser ouvido o Ministro de que eventualmente dependam
 
 4 - A duração normal da prestação de serviço dos assessores é de dois anos, prorrogáveis quando as circunstâncias o aconselharem.
 
-###### Art. 14.º - 1 - As secções de estudos constituem grupos de estudo e investigação, organizados numa base funcional e conforme as afinidades das diferentes matérias que integram, sendo, em princípio, as seguintes:
+Art. 14.º - 1 - As secções de estudos constituem grupos de estudo e investigação, organizados numa base funcional e conforme as afinidades das diferentes matérias que integram, sendo, em princípio, as seguintes:
 
 a) Política e estratégia;
 
@@ -252,9 +262,9 @@ e) Assuntos militares.
 
 4 - Os assessores colaboram, normalmente, em mais de uma secção de estudos, por forma a evitar uma compartimentação indesejável e a poder tirar o máximo rendimento de qualificações e experiências diversificadas.
 
-###### Art. 15.º Como norma, serão convidadas individualidades, militares e civis, estranhas ao IDN para colaborarem nas suas actividades.
+Art. 15.º Como norma, serão convidadas individualidades, militares e civis, estranhas ao IDN para colaborarem nas suas actividades.
 
-###### Art. 16.º - 1 - O Gabinete de Planeamento, chefiado por um oficial superior de qualquer ramo das FA, de preferência com experiência do tipo de actividades que competem ao IDN, tem por missão, sob a orientação do chefe do Departamento de Estudos, planear e accionar as actividades pedagógicas e de investigação.
+Art. 16.º - 1 - O Gabinete de Planeamento, chefiado por um oficial superior de qualquer ramo das FA, de preferência com experiência do tipo de actividades que competem ao IDN, tem por missão, sob a orientação do chefe do Departamento de Estudos, planear e accionar as actividades pedagógicas e de investigação.
 
 2 - Compete especialmente ao Gabinete de Planeamento:
 
@@ -266,7 +276,7 @@ c) Manter actualizadas as relações de assessores, conferencistas e auditores e
 
 d) Orientar os pedidos de informação dirigidos ao IDN e accionar os que por este sejam solicitados.
 
-###### Art. 17.º - 1 - A Biblioteca é chefiada por um oficial superior de qualquer ramo das FA na situação de reserva.
+Art. 17.º - 1 - A Biblioteca é chefiada por um oficial superior de qualquer ramo das FA na situação de reserva.
 
 2 - Compete especialmente à Biblioteca:
 
@@ -284,7 +294,7 @@ e) Colaborar com as outras bibliotecas das FA no intercâmbio da informação do
 
 ### CAPÍTULO IV — Departamento de Apoio
 
-###### Art. 18.º - 1 - O Departamento de Apoio, chefiado por um coronel do Exército ou da Força Aérea ou um capitão-de-mar-e-guerra, tem à sua responsabilidade o apoio técnico, administrativo e logístico de todas as actividades do IDN e o enquadramento e administração do seu pessoal.
+Art. 18.º - 1 - O Departamento de Apoio, chefiado por um coronel do Exército ou da Força Aérea ou um capitão-de-mar-e-guerra, tem à sua responsabilidade o apoio técnico, administrativo e logístico de todas as actividades do IDN e o enquadramento e administração do seu pessoal.
 
 2 - O Departamento de Apoio compreende:
 
@@ -304,11 +314,11 @@ b) A segurança das matérias classificadas;
 
 c) As tarefas de protocolo e de relações públicas.
 
-###### Art. 19.º - 1 - Para efeitos de apoio ao funcionamento dos serviços, o EMGFA atribuirá ao IDN, em diligência, o pessoal referido nas alíneas g) e j) do quadro orgânico anexo a este Regulamento.
+Art. 19.º - 1 - Para efeitos de apoio ao funcionamento dos serviços, o EMGFA atribuirá ao IDN, em diligência, o pessoal referido nas alíneas g) e j) do quadro orgânico anexo a este Regulamento.
 
 2 - Para além do pessoal referido no número anterior, o IDN requisitará ao EMGFA os reforços que as circunstâncias justifiquem.
 
-###### Art. 20.º A Secção Técnica, chefiada por um oficial superior de qualquer ramo das FA, tem a seu cargo, sob a orientação do chefe do Departamento de Apoio, o apoio técnico às tarefas de estudo e investigação e aos trabalhos de rotina do Departamento de Estudos e do Departamento de Apoio no respeitante a:
+Art. 20.º A Secção Técnica, chefiada por um oficial superior de qualquer ramo das FA, tem a seu cargo, sob a orientação do chefe do Departamento de Apoio, o apoio técnico às tarefas de estudo e investigação e aos trabalhos de rotina do Departamento de Estudos e do Departamento de Apoio no respeitante a:
 
 a) Desenho, produção e reprodução;
 
@@ -320,17 +330,17 @@ d) Processos e outros documentos relativos aos diferentes cursos, estágios, cic
 
 e) Coordenação dos trabalhos necessários à edição da revista Nação e Defesa.
 
-###### Art. 21.º - 1 - A Secretaria, chefiada por um capitão ou oficial subalterno de qualquer ramo das FA, tem a seu cargo, sob a orientação do chefe do Departamento de Apoio, as tarefas de dactilografia, expediente, processamento de correspondência e seu arquivo, organização do serviço interno, apoio do serviço de justiça e outras actividades da administração do pessoal, de acordo com a legislação respectiva.
+Art. 21.º - 1 - A Secretaria, chefiada por um capitão ou oficial subalterno de qualquer ramo das FA, tem a seu cargo, sob a orientação do chefe do Departamento de Apoio, as tarefas de dactilografia, expediente, processamento de correspondência e seu arquivo, organização do serviço interno, apoio do serviço de justiça e outras actividades da administração do pessoal, de acordo com a legislação respectiva.
 
 2 - O chefe da Secretaria coordena a utilização de todo o pessoal civil do serviço de secretaria.
 
-###### Art. 22.º - 1 - Os Serviços Administrativos, chefiados por um técnico principal ou de 1.ª classe, funcionam sob a orientação técnica do conselho administrativo do EMGFA.
+Art. 22.º - 1 - Os Serviços Administrativos, chefiados por um técnico principal ou de 1.ª classe, funcionam sob a orientação técnica do conselho administrativo do EMGFA.
 
 2 - Aos Serviços Administrativos compete, sob a orientação do chefe do Departamento de Apoio, a condução dos assuntos de administração do IDN e o contrôle do material em carga.
 
 3 - Compete ainda aos Serviços Administrativos a elaboração da proposta orçamental, de acordo com as instruções do director e elementos fornecidos pelos chefes dos departamentos, e a contabilização e contrôle das verbas que forem atribuídas ao IDN no Orçamento Geral do Estado.
 
-###### Art. 23.º - 1 - A Formação, comandada por um capitão ou oficial subalterno de qualquer ramo das FA, enquadra todos os sargentos e praças que prestam serviço no IDN e todo o pessoal civil, com excepção do que exerce funções docentes e do pessoal dos Serviços Administrativos e do serviço de secretaria.
+Art. 23.º - 1 - A Formação, comandada por um capitão ou oficial subalterno de qualquer ramo das FA, enquadra todos os sargentos e praças que prestam serviço no IDN e todo o pessoal civil, com excepção do que exerce funções docentes e do pessoal dos Serviços Administrativos e do serviço de secretaria.
 
 2 - À Formação, sob a orientação do chefe do Departamento de Apoio, compete, além das suas funções orgânicas:
 
@@ -342,11 +352,11 @@ c) A execução e contrôle de todos os transportes.
 
 3 - O comandante da Formação é, sempre que possível, o oficial de segurança do IDN e acumula com as funções de ajudante de ordens do director.
 
-###### Art. 24.º Para apoio das suas actividades, o IDN promove o funcionamento de serviços de alimentação e de bar em condições estabelecidas em conformidade com as normas regulamentares em vigor.
+Art. 24.º Para apoio das suas actividades, o IDN promove o funcionamento de serviços de alimentação e de bar em condições estabelecidas em conformidade com as normas regulamentares em vigor.
 
 ### CAPÍTULO V — Actividades de estudo e investigação
 
-###### Art. 25.º - 1 - Todas as actividades do IDN devem processar-se num quadro de clara objectividade e realismo, com a intenção permanente e continuada de se conseguir o maior rendimento na valorização e actualização de conhecimentos dos auditores e na execução de trabalhos de investigação.
+Art. 25.º - 1 - Todas as actividades do IDN devem processar-se num quadro de clara objectividade e realismo, com a intenção permanente e continuada de se conseguir o maior rendimento na valorização e actualização de conhecimentos dos auditores e na execução de trabalhos de investigação.
 
 2 - Para efeito do disposto no número anterior, o IDN deve:
 
@@ -356,9 +366,9 @@ b) Desenvolver a capacidade de apreciação, exposição e debate dos auditores,
 
 c) Estimular a capacidade de julgamento e decisão, o desenvolvimento da imaginação, as faculdades de adaptação, nomeadamente ao trabalho em grupo, e ainda os contactos humanos entre todos os militares e civis que participam nas actividades do IDN.
 
-###### Art. 26.º Em cada ano lectivo realiza-se um curso de defesa nacional, podendo ainda ter lugar outros cursos, estágios e actividades diversas nos domínios militar, político, social e económico.
+Art. 26.º Em cada ano lectivo realiza-se um curso de defesa nacional, podendo ainda ter lugar outros cursos, estágios e actividades diversas nos domínios militar, político, social e económico.
 
-###### Art. 27.º As actividades promovidas pelo IDN compreendem, fundamentalmente, as seguintes:
+Art. 27.º As actividades promovidas pelo IDN compreendem, fundamentalmente, as seguintes:
 
 a) Cursos;
 
@@ -378,7 +388,7 @@ h) Trabalhos de investigação;
 
 i) Visitas e viagens de estudo.
 
-###### Art. 28.º - 1 - Na elaboração dos programas e horários deve ter-se em atenção o seguinte:
+Art. 28.º - 1 - Na elaboração dos programas e horários deve ter-se em atenção o seguinte:
 
 a) As conferências e exposições terão a duração máxima de uma hora;
 
@@ -386,7 +396,7 @@ b) Cada conferência ou exposição deve, normalmente, ser complementada por um 
 
 2 - As visitas e viagens de estudo terão uma duração e um horário estabelecidos para cada caso específico.
 
-###### Art. 29.º - 1 - Até 30 de Junho de cada ano é elaborado o plano de actividades para o ano seguinte, que será submetido à aprovação do CEMGFA e do qual devem constar, em linhas gerais:
+Art. 29.º - 1 - Até 30 de Junho de cada ano é elaborado o plano de actividades para o ano seguinte, que será submetido à aprovação do CEMGFA e do qual devem constar, em linhas gerais:
 
 a) Actividades a promover;
 
@@ -408,7 +418,7 @@ a) Um programa pormenorizado para cada actividade;
 
 b) A relação dos encargos dos assessores.
 
-###### Art. 30.º - 1 - As actividades do IDN terão normalmente como auditores ou participantes:
+Art. 30.º - 1 - As actividades do IDN terão normalmente como auditores ou participantes:
 
 a) Oficiais dos três ramos das FA e oficiais prestando serviço nas forças de segurança;
 
@@ -416,26 +426,26 @@ b) Civis dos sectores público e privado.
 
 2 - Poderão ainda ser convidados oficiais e civis estrangeiros.
 
-###### Art. 31.º O director poderá propor ao CEMGFA a exclusão dos auditores que infrinjam as regras de ética ou disciplina e os que faltem, por doença ou por outro motivo justificado, a mais de um quinto do tempo dedicado à actividade em que participam.
+Art. 31.º O director poderá propor ao CEMGFA a exclusão dos auditores que infrinjam as regras de ética ou disciplina e os que faltem, por doença ou por outro motivo justificado, a mais de um quinto do tempo dedicado à actividade em que participam.
 
-###### Art. 32.º As actividades de investigação a que se refere o n.º 2 do artigo 3.º desenvolvem-se durante os cursos, estágios, ciclos de estudos, ciclos de conferências, seminários e outros trabalhos levados a efeito, de acordo com a orientação fixada no plano respectivo, ou são executadas por grupos de trabalho para o efeito designados pelo director do IDN.
+Art. 32.º As actividades de investigação a que se refere o n.º 2 do artigo 3.º desenvolvem-se durante os cursos, estágios, ciclos de estudos, ciclos de conferências, seminários e outros trabalhos levados a efeito, de acordo com a orientação fixada no plano respectivo, ou são executadas por grupos de trabalho para o efeito designados pelo director do IDN.
 
 ### CAPÍTULO VI — Disposições diversas e transitórias
 
-###### Art. 33.º - 1 - As gratificações dos assessores civis são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças.
+Art. 33.º - 1 - As gratificações dos assessores civis são fixadas mediante despacho conjunto do CEMGFA e do Ministro das Finanças.
 
 2 - A tabela das gratificações por conferência, colaboração em trabalhos de investigação ou outras actividades, quando seja caso disso, é fixada por despacho do CEMGFA.
 
-###### Art. 34.º - 1 - A Biblioteca, após o correspondente estudo e planeamento, virá a transformar-se num centro de documentação e informação.
+Art. 34.º - 1 - A Biblioteca, após o correspondente estudo e planeamento, virá a transformar-se num centro de documentação e informação.
 
 2 - Para o primeiro provimento nos lugares criados pela [Portaria n.º 183/80](https://diariodarepublica.pt/dr/detalhe/portaria/183-1980-681426), de 22 de Abril, poderá ser facultada a dispensa de habilitações literárias ao pessoal civil já em serviço na Biblioteca do Instituto da Defesa Nacional, ainda que não pertencente ao respectivo quadro orgânico, desde que esteja vinculado às forças armadas e tenha a respectiva formação técnico-profissional.
 
-###### Art. 35.º O IDN proporá ao EMGFA a atribuição das viaturas necessárias para transporte de pessoal e outros serviços.
+Art. 35.º O IDN proporá ao EMGFA a atribuição das viaturas necessárias para transporte de pessoal e outros serviços.
 
-###### Art. 36.º As dúvidas que se suscitem na aplicação deste Regulamento Interno e os casos omissos serão resolvidos por despacho do CEMGFA.
+Art. 36.º As dúvidas que se suscitem na aplicação deste Regulamento Interno e os casos omissos serão resolvidos por despacho do CEMGFA.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18000/20612066.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18000/20612066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18000/20612066.pdf)
 
-**O Chefe do Estado-Maior-General das Forças Ar madas, António Ramalho Eanes, general.**
+O Chefe do Estado-Maior-General das Forças Ar madas, António Ramalho Eanes, general.

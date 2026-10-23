@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2011/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2011-277589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a16631e3732bceb4ee43d5ad36b7f8412c9e264eecf97077ca82e10b2cb9678
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86a45286ec0f6bb883b0af99e96d0ef60af1771e42f5eb843e1587e56d917f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
+- Medicamento Veterinário
 - Produto Biocida
+- Produto Químico
 - Proteção dos Animais
-- Saúde Pública
 - Proteção Fitossanitária
 - Regime Jurídico
-- Medicamento Veterinário
-- Comércio
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:114177787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179514:por
+  label: "Alterado e republicado o anexo I do Dec Lei 121/2002, de 03-maio, na redação do presente diploma, pelo DEC LEI.154/2012.16.07.2012.MS,\
+    \ DR.IS [136] de 16.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2012-179514
+  date: '2012-07-16'
+- type: amended_by
+  target: pt:dre:259897:por
+  label: "Alterado o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações constantes do presente diploma, pelo DEC LEI.40/2013.18.03.2013.MS,\
+    \ DR.IS [54] de 18.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2013-259897
+  date: '2013-03-18'
+- type: amended_by
+  target: pt:dre:497401:por
+  label: "Altera, com efeitos a partir de 01.02.2015, o anexo I do Dec Lei 121/2002 de 03-mai, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.85/2013.26.06.2013.MS, DR.IS [121] de 26.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2013-497401
+  date: '2013-06-26'
+- type: amended_by
+  target: pt:dre:571026:por
+  label: "Alterado, com produção de efeitos nos termos do art. 4.º, o anexo I do Dec Lei 121/2002, de 03-maio, na redação\
+    \ do presente diploma, pelo DEC LEI.9/2014.20.01.2014.MS, DR.IS [13] de 20.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2014-571026
+  date: '2014-01-20'
 - type: cites
   target: celex:31998L0008
   label: null
@@ -111,16 +135,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:114177787:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 121/2002 de 13-mai, na redação do presente diploma, mantendo-se contudo
+    transitoriamente em vigor o seu art. 38.º pelo(a) Decreto-Lei n.º 140/2017 - Diário da República n.º 217/2017, Série I
+    de 2017-11-10 nos termos do n.º 1 do seu art. 20.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2017-114177787
+  date: '2017-11-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:23Z'
   warnings: []
   errors: []
 ---
@@ -175,21 +206,21 @@ c) A partir de 31 de Outubro de 2011, para as substâncias activas espinosade e 
 
 Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 2011. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Maria Helena dos Santos André - Ana Maria Teodoro Jorge.
 
-**Promulgado em 1 de Março de 2011.**
+Promulgado em 1 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 3 de Março de 2011.**
+Referendado em 3 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 Lista de substâncias activas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf)
 
 ## ANEXO II — (a que se refere o artigo 4.º)
 
@@ -197,4 +228,4 @@ Republicação do anexo I do Decreto-Lei n.º 121/2002, de 3 de Maio
 
 ## ANEXO I — Lista de substâncias activas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf))](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/06400/0185001879.pdf)

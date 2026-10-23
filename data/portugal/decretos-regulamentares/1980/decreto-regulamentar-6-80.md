@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1980-677456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f19ddae5481e409f20a37737496d0734b50833bc8a0c3643bbd129989e8456c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfabc20e171e3eabbedbbc251d7f138694b163f8e65e1d3acdb7f0ff50d60e96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Autarquia Local
+- Distribuição de Energia Elétrica
+- EDP
+- RIO Douro
+relationships:
+- type: cites
+  target: pt:dre:431274:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:51Z'
   warnings: []
   errors: []
 ---
@@ -100,12 +109,12 @@ Nestas condições, impondo-se e rectificação dos referidos decretos e caderno
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. São incluídas as freguesias de Fornos, Pedorido, Raiva, Santa Maria de Sardoura e S. Martinho de Sardoura, do concelho de Castelo de Paiva, de Espadanedo, Santiago de Piães, Souselo e Tarouquela, do concelho de Cinfães, de Canedo, do concelho da Feira, de Freixo de Espada à Cinta, do concelho de Freixo de Espada à Cinta, de Covelo, Foz do Sousa, Lomba, Medas e Melres, do concelho de Gondomar, de Alpendurada e Matos, Magrelos, Sande, S. Lourenço do Douro, Torrão e Várzea do Douro, do concelho de Marco de Canavezes, de Boelhe, Canelas, Eja, Rio de Moinhos e Sebolido, do concelho de Penafiel, e de Crestuma e Lever, do concelho de Vila Nova de Gaia, no perímetro hidráulico da concessão do aproveitamento hidroeléctrico do rio Douro, outorgada à ex-Hidro-Eléctrica do Douro, S. A. R. L., actualmente integrada na Electricidade de Portugal - EDP, E. P., conforme decreto publicado no Diário do Governo, 3.ª série, n.º 164, de 14 de Julho de 1954, considerando-se alterados em conformidade o artigo único desse diploma e o artigo 1.º do caderno de encargos da mesma concessão.
+Artigo único. São incluídas as freguesias de Fornos, Pedorido, Raiva, Santa Maria de Sardoura e S. Martinho de Sardoura, do concelho de Castelo de Paiva, de Espadanedo, Santiago de Piães, Souselo e Tarouquela, do concelho de Cinfães, de Canedo, do concelho da Feira, de Freixo de Espada à Cinta, do concelho de Freixo de Espada à Cinta, de Covelo, Foz do Sousa, Lomba, Medas e Melres, do concelho de Gondomar, de Alpendurada e Matos, Magrelos, Sande, S. Lourenço do Douro, Torrão e Várzea do Douro, do concelho de Marco de Canavezes, de Boelhe, Canelas, Eja, Rio de Moinhos e Sebolido, do concelho de Penafiel, e de Crestuma e Lever, do concelho de Vila Nova de Gaia, no perímetro hidráulico da concessão do aproveitamento hidroeléctrico do rio Douro, outorgada à ex-Hidro-Eléctrica do Douro, S. A. R. L., actualmente integrada na Electricidade de Portugal - EDP, E. P., conforme decreto publicado no Diário do Governo, 3.ª série, n.º 164, de 14 de Julho de 1954, considerando-se alterados em conformidade o artigo único desse diploma e o artigo 1.º do caderno de encargos da mesma concessão.
 
 Francisco Sá Carneiro - Mário Ferreira Bastos Raposo - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - João Lopes Porto.
 
-**Promulgado em 20 de Março de 1980.**
+Promulgado em 20 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

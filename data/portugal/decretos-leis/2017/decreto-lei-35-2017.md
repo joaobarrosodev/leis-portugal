@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06000/0161601617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2017/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 090e99f65cf495dd07b2d09d102e530bc4e02ec1fc577fd5fd0ed20e664233f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb739fbcf369d31d3a9de1c1c7d42018332c972b8e050b8c6d78e7f6026d4796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Agricultura
 - Armazenagem
-- Gestão de Resíduos
+- Comércio
 - Contra-ordenação
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Direção Geral de Alimentação e Veterinária
 - Controlo Sanitário
-- Fiscalização
-- Licenciamento
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Direcção Regional de Agricultura e Pescas
 - Embalagem
+- Fiscalização
+- Gestão de Resíduos
+- Licenciamento
 - Normas de Segurança
 - Pesticida
 - Produto Fitofarmacêutico
-- Agricultura
 - Sanção
 - Substância Perigosa
-- Comércio
 - Venda
 relationships:
 - type: amended_by
@@ -109,20 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75069303:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0128
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:36Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +217,9 @@ b) Quando seja necessário fazer face a um perigo fitossanitário que constitua 
 
 11 - A DGAV pode delegar na DRAP territorialmente competente para a receção do pedido de autorização a competência para a decisão final referida no n.º 7.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...].
 
@@ -221,7 +239,9 @@ b) Quando seja necessário fazer face a um perigo fitossanitário que constitua 
 
 9 - As entidades competentes, nos termos do presente artigo, podem realizar, entre si, protocolos que visem articular o exercício das competências de fiscalização, instrução e decisão no âmbito de processos de contraordenação.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...].
 
@@ -295,7 +315,9 @@ cc) [...].
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]:
 
@@ -321,12 +343,12 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Maria Fernanda Fernandes Garcia Rollo - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Fernando Manuel Ferreira Araújo - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 2 de março de 2017.**
+Promulgado em 2 de março de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de março de 2017.**
+Referendado em 14 de março de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

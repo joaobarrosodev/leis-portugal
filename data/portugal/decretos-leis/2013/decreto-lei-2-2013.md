@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2013/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2013-588794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3eb57b117fed2fdbbc7274c06957fce9af666710872b321072c1766ba85f878
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08bf7da152de1403652d68de24bf80d3193d969e4ae2cd414c56ef83132873b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Alimentação Humana
+- ASAE
+- Concorrência
 - Contra-ordenação
 - Contrato de Compra e Venda
-- Concorrência
 - Fiscalização
-- Pagamento
+- IAPMEI
+- Indústria Alimentar
 - JURO de MORA
-- ASAE
-- Alimentação Humana
+- Pagamento
 - Prazo
 - Preço
+- Produto Alimentar
 - Proteção do Consumidor
-- Indústria Alimentar
-- IAPMEI
 - Transacção Comercial
 relationships:
 - type: amended_by
   target: pt:dre:170322928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 6.º e 8.º do Dec Lei 118/2010 de 25-out, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:170322928:por
+  label: Alterados, a partir de 01.11.2021, os arts. 1.º, 2.º, 4.º, 5.º, 6.º e 6.º-A , aditados os arts. 3.º-A, 3.º-B e 7.º-A
+    e revogados o n.º 2 do art. 1.º, a al. c) do n.º 1, os n.ºs 2 e 3 do art. 2.º e o art. 3.º do Dec Lei 118/2010 de 25-out,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 76/2021 - Diário da República n.º 167/2021, Série
+    I de 2021-08-27 que procede à republicação do referido Dec Lei 118/2010
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2021-170322928
+  date: '2021-08-27'
 - type: cites
   target: celex:32000R0104
   label: null
@@ -107,15 +121,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/118/2010/10/25/p/dre
 article_structure:
-  article_count: 23
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:45Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +178,9 @@ Os artigos, 1.º,2.º, 3.º, 4.º, 7.º e 8.º do Decreto-Lei n.º 118/2010, de 
 
 2 - Os bens alimentares a que se refere o número anterior compreendem os géneros alimentícios, tal como definidos no artigo 2.º do Regulamento (CE) n.º [178/2002](http://data.europa.eu/eli/reg/2002/178/oj?locale=pt) do Parlamento Europeu e do Conselho, de 28 de janeiro, com exceção das substâncias químicas destinadas a ser incorporadas durante o seu fabrico, preparação ou tratamento, nomeadamente aditivos, aromas, enzimas e sal-gema, bem como daágua não engarrafada.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se aos casos em que o credor da obrigação de pagamento do preço se enquadre num destes tipos de entidades:
 
@@ -184,7 +200,9 @@ c) Às transações comerciais entre as cooperativas constituídas ao abrigo da 
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - No caso de inexistência de instrumento de autorregulação aplicável nos termos do artigo 6.º-A, nas transações comerciais entre empresas que tenham por objeto produtos alimentares, o vencimento da obrigação de pagamento do preço ocorre, imperativamente, até 30 dias após a efetiva entrega dos bens e da respetiva fatura ao adquirente.
 
@@ -198,7 +216,9 @@ c) Às transações comerciais entre as cooperativas constituídas ao abrigo da 
 
 6 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +232,9 @@ c) [Revogada].
 
 3 - A alegação de existência de erro material afeta apenas a parcela em que se verifica, considerando-se cumprido o dever de interpelação para pagamento dos restantes bens e serviços constantes da fatura.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização da aplicação do presente decreto-lei, devendo apresentar um relatório bianual sobre os controlos especificamente exercidos para verificação do cumprimento dos prazos de pagamento previstos no âmbito do presente decreto-lei.
 
@@ -220,7 +242,9 @@ c) [Revogada].
 
 3 - A decisão de aplicação da coima compete à ASAE.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]:
 
@@ -262,15 +286,15 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de novembro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de dezembro de 2012.**
+Promulgado em 27 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de dezembro de 2012.**
+Referendado em 28 de dezembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

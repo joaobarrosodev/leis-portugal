@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-1983-540668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d933ab2117685c7675936046dddfb550312df498ec28bc5d97b7867e84bc1afc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6636a5e48d9af7cb6b01811658951c3c62f4bf35a389151dd3b78fd3c534942f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Rovisco Pais
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:285877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386417:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico superior e pessoal operário e auxiliar, pela\
+    \ PORT.349/84.08.06.1984.PCM, DR.IS [133] de 08.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-1984-386417
+  date: '1984-06-08'
+- type: amended_by
+  target: pt:dre:386582:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico superior (pessoal médico), pela PORT.365/84.12.06.1984.PCM,\
+    \ DR.IS [136] de 12.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-1984-386582
+  date: '1984-06-12'
+- type: amended_by
+  target: pt:dre:381556:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal de enfermagem, pela PORT.499/84.25.07.1984.PCM, DR.IS\
+    \ [171] de 25.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-1984-381556
+  date: '1984-07-25'
+- type: amended_by
+  target: pt:dre:663505:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, alterado pela Portaria n.º 499/84, de 25 de Julho,\
+    \ na parte referente ao pessoal de enfermagem, pela PORT.34/87.16.01.1987.MF, DR.IS [13] de 16.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-1987-663505
+  date: '1987-01-16'
+- type: amended_by
+  target: pt:dre:419870:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico de diagnóstico e terapêutica, pela PORT.558/87.06.07.1987.MF,\
+    \ DR.IS [152] de 06.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/558-1987-419870
+  date: '1987-07-06'
+- type: amended_by
+  target: pt:dre:285877:por
+  label: "Alterado o quadro de pessoal pela PORT.162/88.16.03.1988.MF, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-1988-285877
+  date: '1988-03-16'
+- type: amended_by
+  target: pt:dre:2968840:por
+  label: "Alterado o quadro de pessoal pelo DESP.DD222.07.07.1994.MS, DR.IIS [194]Supl de 23.08.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1994-2968840
+  date: '1994-07-07'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:52Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +154,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital de Rovisco Pais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/00400/00140015.pdf))](https://files.diariodarepublica.pt/1s/1983/01/00400/00140015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/01/00400/00140015.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá o actual abono para falhas de 600$00 mensais, sem prejuízo da revisão deste quantitativo nos termos previstos na lei geral aplicável.

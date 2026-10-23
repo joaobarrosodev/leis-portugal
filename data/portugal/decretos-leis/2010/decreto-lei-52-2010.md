@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/52/2010/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b281659e56b4c2db77994bc1db9044ad2b1cb22c113dda6e2bcb0fbba57f2b18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3ceb96d3dbc42b7ba85c591fc59606f8b86d2eafa4e2b19c46ae60789780c1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,61 @@ reuse:
 subjects:
 - Accionista
 - Aproximação das Legislações
-- Instituição de Crédito
-- Código dos Valores Mobiliários
-- Supervisão Financeira
 - Banco de Portugal
+- CMVM
+- Código dos Valores Mobiliários
+- Companhia de Seguros
+- Direito de Voto
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Seguros de Portugal
 - Mercado de Valores
-- Sociedade Gestora de Mercados não Regulamentados
 - Organismo de Investimento Colectivo
 - Participação Qualificada
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- Companhia de Seguros
-- CMVM
-- Instituição Financeira
 - Sociedade de Consultoria para Investimento
+- Sociedade Gestora de Mercados não Regulamentados
 - Sociedade Gestora de Sistemas de Negociação Multilateral
-- Direito de Voto
+- Supervisão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:115740680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617129:por
+  label: "Alterado o art. 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec -Lei\
+    \ n.º 298/92, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.140-A/2010.30.12.2010.MFAP, DR.IS [252-2ºSupl]\
+    \ de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-2010-617129
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterado o art. 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 13.º-A, 20.º, 103.º,
+    103.º-A ,104.º, 196.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92
+    de 31-dez, e republicado em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário da República
+    n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterado o art. 20.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec. Lei
+    298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de
+    2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterados os arts. 9.º, 10.º, 11.º, 13.º, 15.º, 16.º e 17.º do Dec Lei 357-C/2007, de 31-out, na redação do presente
+    diploma pelo(a) Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
 - type: cites
   target: celex:31985L0611
   label: null
@@ -123,15 +157,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2007/44/oj
 article_structure:
-  article_count: 47
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:26Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +262,9 @@ c) ...
 
 12.º (Anterior n.º 13.º)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +284,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
@@ -262,7 +300,9 @@ g) ...
 
 6 - Se a comunicação efectuada nos termos do presente artigo não estiver devidamente instruída, o Banco de Portugal informa o proposto adquirente, por escrito, dos elementos ou informações em falta, no prazo de dois dias úteis a contar da data de recepção da referida comunicação.
 
-###### Artigo 103.º — Apreciação
+Artigo 103.º
+
+Apreciação
 
 1 - O Banco de Portugal pode opor-se ao projecto, se não considerar demonstrado que o proposto adquirente reúne condições que garantam uma gestão sã e prudente da instituição de crédito ou se as informações prestadas pelo proposto adquirente forem incompletas.
 
@@ -304,7 +344,9 @@ b) Pode divulgar ao público as razões que fundamentam a oposição, por sua in
 
 11 - Na decisão do Banco de Portugal devem ser indicadas as eventuais observações ou reservas expressas pela autoridade competente no âmbito do processo de cooperação previsto no artigo 103.º-A.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - Os actos ou factos de que tenha resultado a aquisição de uma participação que atinja, pelo menos, 5 % do capital ou dos direitos de voto de uma instituição de crédito devem ser comunicados ao Banco de Portugal no prazo de 15 dias a contar da respectiva verificação.
 
@@ -312,7 +354,9 @@ b) Pode divulgar ao público as razões que fundamentam a oposição, por sua in
 
 3 - Deve ainda ser comunicada ao Banco de Portugal, no prazo de 15 dias, a celebração dos actos mediante os quais sejam concretizados os projectos de aquisição ou de aumento de participação qualificada, sujeitos a comunicação prévia nos termos do disposto nos n.os 1 e 2 do artigo 102.º
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Sem prejuízo de outras sanções aplicáveis e salvo o disposto no número seguinte, o Banco de Portugal pode determinar a inibição do exercício dos direitos de voto integrantes de uma participação qualificada, na medida necessária e adequada para impedir a influência na gestão que foi obtida através do acto de que tenha resultado a aquisição ou o aumento da referida participação, desde que se verifique alguma das seguintes situações:
 
@@ -338,7 +382,9 @@ c) Ter-se o Banco de Portugal oposto ao projecto de aquisição ou de aumento da
 
 9 - (Anterior n.º 10.)
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - A pessoa singular ou colectiva que pretenda deixar de deter participação qualificada numa instituição de crédito, ou diminuí-la de tal modo que a percentagem de direitos de voto ou de capital de que seja titular desça a nível inferior a qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que a instituição deixe de ser sua filial, deve informar previamente o Banco de Portugal e comunicar-lhe o novo montante da sua participação.
 
@@ -346,13 +392,17 @@ c) Ter-se o Banco de Portugal oposto ao projecto de aquisição ou de aumento da
 
 3 - ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - ...
 
 2 - Em Abril de cada ano, as instituições de crédito comunicam ao Banco de Portugal a identidade dos detentores de participações qualificadas, com especificação do capital social e dos direitos de voto correspondentes a cada participação.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 ...
 
@@ -366,7 +416,9 @@ d) O Banco de Portugal não considerar demonstrado que todos os accionistas reú
 
 e) ...
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - ...
 
@@ -418,7 +470,9 @@ c) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 d) As participações de intermediário financeiro actuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da instituição participada, nem o influencie a adquirir essas acções ou a apoiar o seu preço.
 
-###### Artigo 13.º-B — Imputação de direitos de voto relativos a acções integrantes de organismos de investimento colectivo, de fundos de pensões ou de carteiras
+Artigo 13.º-B
+
+Imputação de direitos de voto relativos a acções integrantes de organismos de investimento colectivo, de fundos de pensões ou de carteiras
 
 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a sociedade que exerça domínio sobre a entidade gestora ou sobre o intermediário financeiro e as sociedades associadas de fundos de pensões beneficiam da derrogação de imputação agregada de direitos de voto se:
 
@@ -452,7 +506,9 @@ b) Consideram-se instruções indirectas as que, em geral ou particular, indepen
 
 9 - A emissão da declaração prevista no n.º 7 pelo Banco de Portugal é precedida de consulta prévia ao Instituto de Seguros de Portugal, sempre que se refira a direitos de voto inerentes a acções integrantes de fundos de pensões, ou à Comissão do Mercado de Valores Mobiliários, sempre que se refira a direitos de voto inerentes a acções de sociedades abertas, ou detidas por organismos de investimento colectivo, ou ainda integradas em carteiras de instrumentos financeiros, no âmbito de contrato de gestão de carteiras.
 
-###### Artigo 103.º-A — Cooperação
+Artigo 103.º-A
+
+Cooperação
 
 1 - O Banco de Portugal solicita o parecer da autoridade competente do Estado membro de origem, caso o proposto adquirente corresponda a um dos seguintes tipos de entidades:
 
@@ -514,7 +570,9 @@ c) ...
 
 6) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +590,9 @@ e) ...
 
 f) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -566,7 +626,9 @@ g) ...
 
 9 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Qualquer pessoa, singular ou colectiva, ou entidade legalmente equiparada que, directa ou indirectamente, pretenda deter participação qualificada em empresa de seguros, ou que pretenda aumentar participação qualificada por si já detida, de tal modo que a percentagem de direitos de voto ou de capital atinja ou ultrapasse qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que a empresa se transforme em sua filial, deve comunicar previamente ao Instituto de Seguros de Portugal o seu projecto de aquisição.
 
@@ -578,7 +640,9 @@ g) ...
 
 5 - Se a comunicação prevista no n.º 1 não estiver instruída com os elementos e informações que a devem acompanhar, o Instituto de Seguros de Portugal notifica por escrito o requerente dos elementos em falta, no prazo de dois dias úteis a contar da data de recepção da referida comunicação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O Instituto de Seguros de Portugal pode:
 
@@ -612,19 +676,25 @@ b) Pode divulgar ao público as razões que fundamentam a oposição, por sua in
 
 10 - Na decisão do Instituto de Seguros de Portugal devem ser indicadas as eventuais observações ou reservas expressas pela autoridade competente no âmbito do processo de cooperação previsto no artigo seguinte.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Qualquer pessoa, singular ou colectiva, ou entidade legalmente equiparada, que pretenda deixar de deter, directa ou indirectamente, uma participação qualificada numa empresa de seguros ou que pretenda diminuir essa participação de tal modo que a percentagem de direitos de voto ou de partes de capital por ela detida desça de um nível inferior aos limiares de 20 %, um terço ou 50 %, ou que a empresa deixe de ser sua filial, deve informar previamente desses factos o Instituto de Seguros de Portugal e comunicar-lhe o novo montante da sua participação.
 
 2 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - As empresas de seguros comunicam ao Instituto de Seguros de Portugal, logo que delas tenham conhecimento, as alterações a que se referem os artigos 43.º e 48.º
 
 2 - Uma vez por ano, até ao final do mês em que se realizar a reunião ordinária da assembleia geral, as empresas de seguros comunicam igualmente ao Instituto de Seguros de Portugal a identidade dos detentores de participações qualificadas, com especificação do capital social e dos direitos de voto correspondentes a cada participação.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 Para efeitos do disposto no n.º 1 do artigo 44.º, na apreciação das condições que garantam uma gestão sã e prudente da empresa de seguros, o Instituto de Seguros de Portugal tem em conta a adequação e influência provável do requerente na instituição em causa e a solidez financeira do projecto de aquisição em função dos seguintes critérios:
 
@@ -640,7 +710,9 @@ e) Existência de razões suficientes para suspeitar que teve lugar, está em cu
 
 f) (Revogada.)
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - ...
 
@@ -712,7 +784,9 @@ c) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 d) As participações de intermediário financeiro actuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da instituição participada, nem o influencie a adquirir essas acções ou a apoiar o seu preço.
 
-###### Artigo 3.º-B — Imputação de direitos de voto relativos a acções integrantes de organismos de investimento colectivo, de fundos de pensões ou de carteiras
+Artigo 3.º-B
+
+Imputação de direitos de voto relativos a acções integrantes de organismos de investimento colectivo, de fundos de pensões ou de carteiras
 
 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a sociedade que exerça domínio sobre a entidade gestora ou sobre o intermediário financeiro e as sociedades associadas de fundos de pensões beneficiam da derrogação de imputação agregada de direitos de voto se:
 
@@ -746,7 +820,9 @@ b) Consideram-se instruções indirectas as que, em geral ou particular, indepen
 
 9 - A emissão da notificação prevista no n.º 7 pelo Instituto de Seguros de Portugal é precedida de consulta prévia à Comissão do Mercado de Valores Mobiliários sempre que se refira a direitos de voto inerentes a acções de sociedades abertas ou detidas por organismos de investimento colectivo, ou ainda integradas em carteiras de instrumentos financeiros, no âmbito de contrato de gestão de carteiras.
 
-###### Artigo 44.º-A — Cooperação
+Artigo 44.º-A
+
+Cooperação
 
 1 - O Instituto de Seguros de Portugal solicita o parecer da autoridade competente do Estado membro de origem, caso o requerente corresponda a um dos seguintes tipos de entidades:
 
@@ -820,7 +896,9 @@ d) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 5 - Para efeitos das alíneas b) e c) do número anterior, aplica-se o disposto no artigo 16.º-A e no artigo 18.º do Código dos Valores Mobiliários.
 
-###### Artigo 6.º — Idoneidade e qualificação profissional
+Artigo 6.º
+
+Idoneidade e qualificação profissional
 
 1 - Os membros dos órgãos de administração e de fiscalização de sociedade de consultoria para investimento e as pessoas que dirigem efectivamente a sua actividade devem ser idóneos e possuir qualificação profissional e disponibilidade adequadas ao desempenho das respectivas funções, dando garantias de uma gestão sã e prudente.
 
@@ -830,7 +908,9 @@ d) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 4 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização que se encontrem registados junto do Banco de Portugal ou do Instituto de Seguros de Portugal, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam a CMVM a pronunciar -se em sentido contrário.
 
-###### Artigo 12.º — Avaliação prudencial
+Artigo 12.º
+
+Avaliação prudencial
 
 1 - Quem, directa ou indirectamente, pretenda adquirir participação qualificada em sociedade de consultoria para investimento comunica previamente à CMVM o seu projecto de aquisição.
 
@@ -844,7 +924,9 @@ d) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 6 - Os actos mediante os quais seja concretizada a aquisição ou o aumento de participação qualificada sujeitos a comunicação prévia devem ser comunicados à CMVM pelos participantes, no prazo de 15dias.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -878,7 +960,9 @@ c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participaç�
 
 2 - O incumprimento do dever de comunicação previsto no n.º 6 do artigo 12.º determina a inibição dos direitos de voto, até à realização da comunicação em falta.
 
-###### Artigo 12.º-B — Regime especial de invalidade de deliberações
+Artigo 12.º-B
+
+Regime especial de invalidade de deliberações
 
 1 - Sempre que a CMVM ou o órgão de administração da sociedade de consultoria para investimento tenham conhecimento de alguma situação de inibição de exercício de direitos de voto, nos termos do disposto no artigo anterior, deve comunicar imediatamente esse facto ao presidente da mesa da assembleia geral da sociedade, devendo este actuar de forma a impedir o exercício dos direitos de voto inibidos.
 
@@ -886,7 +970,9 @@ c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participaç�
 
 3 - A anulabilidade da deliberação pode ser arguida nos termos gerais ou, ainda, pela CMVM.
 
-###### Artigo 12.º-C — Cooperação
+Artigo 12.º-C
+
+Cooperação
 
 1 - A CMVM solicita o parecer da autoridade competente do Estado membro de origem, caso o proposto adquirente corresponda a um dos seguintes tipos de entidades:
 
@@ -900,13 +986,17 @@ c) Pessoa singular ou colectiva que controla uma entidade referida na alínea a)
 
 3 - Perante a recepção de pedido de parecer de outra autoridade competente, a CMVM comunica as informações essenciais à apreciação de projectos de aquisição de participações qualificadas, assim como, caso venham a ser solicitadas, outras informações relevantes.
 
-###### Artigo 12.º-D — Diminuição da participação
+Artigo 12.º-D
+
+Diminuição da participação
 
 1 - A pessoa singular ou colectiva que pretenda deixar de deter participação qualificada numa sociedade de consultoria para investimento, ou diminuí-la de tal modo que a percentagem de direitos de voto ou de capital de que seja titular desça a nível inferior a qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que deixe de se verificar uma relação de domínio com a sociedade de consultoria para investimento, deve informar previamente a CMVM e comunicar-lhe o novo montante previsto da sua participação.
 
 2 - Os actos mediante os quais seja concretizada a alienação ou diminuição de participação qualificada sujeitos a comunicação prévia, devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
 
-###### Artigo 12.º-E — Comunicação pela sociedade de consultoria para investimento
+Artigo 12.º-E
+
+Comunicação pela sociedade de consultoria para investimento
 
 A sociedade de consultoria para investimento comunica à CMVM, logo que delas tenha conhecimento, as alterações a que se referem os artigos 12.º e 12.º-D.»
 
@@ -938,7 +1028,9 @@ d) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 6 - O disposto no n.º 1 é igualmente aplicável aos casos em que se pretenda aumentar a participação qualificada que determinada pessoa já detenha, de tal modo que a percentagem dos seus direitos de voto ou do capital que detenha atinja ou ultrapasse 10 %, 20 %, um terço ou 50 %, ou em que, por outro motivo, se estabeleça uma relação de domínio com a sociedade gestora.
 
-###### Artigo 10.º — Avaliação prudencial
+Artigo 10.º
+
+Avaliação prudencial
 
 1 - Quem pretenda deter participação qualificada em sociedade gestora de mercado regulamentado ou numa sociedade gestora de sistema de negociação multilateral, deve reunir condições que garantam a gestão sã e prudente daquela sociedade.
 
@@ -950,7 +1042,9 @@ d) As acções detidas por entidades de custódia, actuando nessa qualidade, des
 
 5 - A CMVM pode, por regulamento, estabelecer os elementos exigíveis para a apreciação dos requisitos de gestão sã e prudente das sociedades gestoras de mercado regulamentado e das sociedades gestoras de sistema de negociação multilateral.
 
-###### Artigo 11.º — Cooperação
+Artigo 11.º
+
+Cooperação
 
 1 - A CMVM solicita o parecer da autoridade competente do Estado membro de origem, caso o proposto adquirente corresponda a um dos seguintes tipos de entidades:
 
@@ -964,13 +1058,17 @@ c) Pessoa singular ou colectiva que controla uma entidade referida na alínea a)
 
 3 - Perante a recepção de pedido de parecer de outra autoridade competente, a CMVM comunica as informações essenciais à apreciação de projectos de aquisição de participações qualificadas, assim como, caso venham a ser solicitadas, outras informações relevantes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os actos mediante os quais seja concretizada a aquisição ou o aumento de participação qualificada sujeitos a comunicação prévia devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
 
 2 - A sociedade gestora comunica à CMVM, logo que delas tenha conhecimento, as alterações a que se referem os artigos 9.º e 11.º-A.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A aquisição ou o reforço de participação qualificada, nos termos previstos no artigo 9.º, determina a inibição do exercício dos direitos de voto inerentes à participação na medida necessária para impedir o adquirente de exercer na sociedade, através do voto, influência superior àquela que detinha antes da aquisição ou do reforço da participação, desde que se verifique alguma das seguintes situações:
 
@@ -982,7 +1080,9 @@ c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participaç�
 
 2 - ...
 
-###### Artigo 15.º — Divulgação de participações
+Artigo 15.º
+
+Divulgação de participações
 
 O órgão de administração da sociedade gestora de mercado regulamentado ou da sociedade gestora de sistema de negociação multilateral deve promover a divulgação no respectivo boletim:
 
@@ -990,7 +1090,9 @@ a) Das informações sobre participações detidas, diminuição ou cessação, 
 
 b) ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os titulares dos órgãos de administração e de fiscalização de sociedade gestora de mercado regulamentado ou de sociedade gestora de sistema de negociação multilateral e as pessoas que efectivamente os dirigem devem ser idóneos e possuir qualificação profissional e disponibilidade adequadas ao desempenho das respectivas funções, dando garantias de uma gestão sã e prudente.
 
@@ -1002,7 +1104,9 @@ b) ...
 
 5 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização que se encontrem registados junto do Banco de Portugal ou do Instituto de Seguros de Portugal, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam a CMVM a pronunciar-se em sentido contrário.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -1042,12 +1146,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Fernanda Maria Rosa do Carmo Julião.
 
-**Promulgado em 5 de Maio de 2010.**
+Promulgado em 5 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Maio de 2010.**
+Referendado em 10 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

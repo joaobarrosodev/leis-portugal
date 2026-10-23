@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/394/1998/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1998-221167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9242390e3324be252bda48ed4b4c749955001bfc7ecf245c8b2711c87cb22f27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe12dba7d4ee4a4146846af3a89dba6ce9eb56876e781f7eb933a3a7f28d999b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
-- Etiquetagem
-- Aditivo Alimentar
-- Indústria Alimentar
 - Comércio
+- Etiquetagem
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:333873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589953:por
+  label: "Alterados o art. 7º e os quadros anexos e aditados novos quadros VIII e IX ao presente diploma, pelo DEC LEI.216/2004.08.10.2004.MAPF,\
+    \ DR.IS-A [237] de 08.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2004-589953
+  date: '2004-10-08'
+- type: amended_by
+  target: pt:dre:247718:por
+  label: "Alterado o anexo, quadro I do presente diploma, na redacção do Dec Lei 216/2004 de 08-Out, pelo DEC LEI.33/2008.25.02.2008.MADRP,\
+    \ DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2008-247718
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:333873:por
+  label: "Alterado o art. 11.º, aditado o art. 3.º-A e aditado o quadro x ao anexodo presente diploma, pelo DEC LEI.94/2010.29.07.2010.MADRP,\
+    \ DR.IS [146] de 29.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2010-333873
+  date: '2010-07-29'
 - type: cites
   target: celex:31994L0035
   label: null
@@ -86,16 +104,21 @@ relationships:
   target: celex:31996L0083
   label: null
   source: http://data.europa.eu/eli/dir/1996/83/oj
+- type: corrected_by
+  target: pt:dre:517449:por
+  label: "Rectificado pela DECL-RECT.3-B/99.1999.01.21.PCM, DR.IS-A [25]2ºSupl de 30/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/3-b-1999-517449
+  date: '1999-01-21'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:18Z'
   warnings: []
   errors: []
 ---
@@ -200,15 +223,15 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Novembro de 1998.**
+Promulgado em 23 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1998.**
+Referendado em 25 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Nota
 

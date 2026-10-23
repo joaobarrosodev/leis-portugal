@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2023/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2023-213881447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21ef0f257c30f0e32004e550a61f73602a25d0332d2eb1e23ffab6beb8d8f62c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 583c23c772989b9b4e4f93544499daf3c61e4d1f41ff5a7a69f3db7e0e8e804b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Extinção de Carreiras
-- Fusão de Carreiras
-- PSP
+- Administração Pública
 - Autoridade Tributária e Aduaneira
 - Avaliação Contínua do Mérito
+- Avaliação do Pessoal
 - Carreira de Investigação e Fiscalização
-- Ministério da Administração Interna
+- Estatuto Remuneratório
+- Extinção de Carreiras
+- Fusão de Carreiras
+- Gestão de Recursos Humanos
+- GNR
 - Instituto dos Registos e do Notariado
-- Segurança Interna
-- Rescisão de Contrato
-- Administração Pública
-- Secretaria Geral
 - Integração de Trabalhadores
-- Publicitação
 - Lei Geral do Trabalho em Funções Públicas
 - Lista Nominativa
-- GNR
-- Serviço de Estrangeiros e Fronteiras
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Mobilidade de Pessoal
 - Orgânica
 - Página na Internet
 - Período Experimental
-- Madeira.região Autónoma
+- PSP
+- Publicitação
 - Reforma
 - Regime Jurídico
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
-- Estatuto Remuneratório
+- Rescisão de Contrato
+- Secretaria Geral
+- Segurança Interna
+- Serviço de Estrangeiros e Fronteiras
 - Unidade de Coordenação de Fronteiras e Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:942970465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:942970465:por
+  label: Alterado, a partir de 29 de outubro de 2025, o artigo 16.º pelo(a) Decreto-Lei n.º 116-B/2025 - Diário da República
+    n.º 208/2025, Suplemento, Série I de 2025-10-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-b-2025-942970465
+  date: '2025-10-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2019/08/30/p/dre
   label: null
@@ -140,16 +146,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124324704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124680595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70041182:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:02Z'
   warnings: []
   errors: []
 ---
@@ -632,19 +682,19 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de abril de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Catarina Teresa Rola Sarmento e Castro - Sofia Alves de Aguiar Batalha - Ana Catarina Veiga dos Santos Mendonça Mendes - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 24 de maio de 2023.**
+Promulgado em 24 de maio de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de maio de 2023.**
+Referendado em 26 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se refere a alínea b) do n.º 1 do artigo 13.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf)
 
 ## ANEXO II — (a que se referem o n.º 10 do artigo 16.º e o n.º 10 do artigo 17.º)
 
@@ -670,4 +720,6 @@ h) Escoltar, nos termos de regulamento a aprovar, os cidadãos estrangeiros suje
 
 i) Desempenhar outras tarefas indispensáveis à realização das funções da carreira de investigação e fiscalização que por lei, regulamento ou determinação superior lhe sejam cometidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf))](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/06/10700/0000200019.pdf)
+
+116519224

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/32/1995/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/32-1995-460206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e8d52b73fdc2a979b733068cb2f3dd47deee5e46fe0765cdd15f487a00ea384
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3c5ffd8b4209023584deda126842dc5df5a8d1d1115dac132e84ee6ea229cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Beja
 - Definição de Competências
 - Ensino Superior Politécnico
 - Escola Superior Agrária
@@ -73,22 +74,31 @@ subjects:
 - Estatuto
 - Instituto Politécnico
 - Orgânica
-- Beja
 relationships:
 - type: amended_by
   target: pt:dre:577765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:577765:por
+  label: "Homologada a 1º alteração aos Estatutos do Instituto Politécnico de Beja pelo DN.46/2001.2001.11.08.ME,DR.IS-B [285]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/46-2001-577765
+  date: '2001-11-08'
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 60
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:19Z'
   warnings: []
   errors: []
 ---
@@ -1009,10 +1019,10 @@ Um mocho, símbolo da sabedoria, ocupa o centro da espiral; mas um mocho como qu
 
 A espiga que o mocho transporta significa a riqueza cultural, económica e social da região, enquanto o ramo de oliveira tem conotação com a paz e com a bem-aventurança.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
 
 A integração das unidades orgânicas do Instituto Politécnico de Beja faz-se através do nome da cidade que acolhe o seu campus Beja; por tal, o Instituto adoptou como suas as cores da cidade, o encarnado e o preto.
 
 As duas unidades orgânicas já instaladas (Escola Superior Agrária de Beja e Escola Superior de Educação de Beja) têm emblemática própria, constante do presente anexo, reportando-se à emblemática do Instituto através da designação da cidade de acolhimento - Beja - e mantendo o simbolismo das principais actividades que cada uma desenvolve - Agricultura e Educação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf))](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/07/161b00/45044511.pdf)

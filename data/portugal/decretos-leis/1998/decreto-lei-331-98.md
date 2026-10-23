@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/331/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1998-223012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3b60d275b806583a5aa2021a4d61744fce6524c3d0105ac7e3d37694d0c623f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 599d6d5f5d28edc5968e78be88c5d7a3b42932e6ef7097a558c1134286634a8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,40 +68,52 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Transporte Marítimo
 - Comissão de Fiscalização
 - Comissão de Serviço
+- Conselho Consultivo
 - Conselho de Administração
+- Contrato de Trabalho
 - Contrato Individual de Trabalho
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
 - Direcção Geral de Portos Navegação e Transportes Marítimos
 - Estatuto
+- Exploração Portuária
 - Extinção de Serviços
-- Ministério do Equipamento do Planeamento e da Administração do Território
-- Instituto Marítimo-portuário
-- Conselho Consultivo
 - Instituto do Trabalho Portuário
+- Instituto Marítimo-portuário
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Portuário
 - Instituto Público
 - Integração de Trabalhadores
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Navegação Marítima
 - Receita Própria
-- Contrato de Trabalho
-- Exploração Portuária
 - Segurança Marítima
 - Segurança Social
 - Taxa
 - Trabalhador Portuário
 - Trabalho Portuário
+- Transporte Marítimo
 - Tutela
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:448755:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Integrado no Ministério do Equipamento Social, o Instituto Marítimo-Portuário, criado pelo presente diploma, pelo\
+    \ DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:251983:por
+  label: "Alterados o art. 6º deste diploma, bem como os arts. 3º, 4º, 8º, 9º e 22º dos Estatutos do IMP, em anexo pelo DEC\
+    \ LEI.47/2002.2002.03.02.MES DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2002-251983
+  date: '2002-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/319/1993/09/21/p/dre
   label: null
@@ -110,16 +122,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/356/1993/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/356/1993/10/09/p/dre
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448755:por
+  label: "Revogado, com excepção do art. 5º e com a redacção dada pelo Dec Lei 47/2002 de 02-Mar, pelo DEC LEI.257/2002.2002.11.22.MOPTH\
+    \ DR.IS-A [270]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2002-448755
+  date: '2002-11-22'
 article_structure:
   article_count: 36
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:57Z'
   warnings: []
   errors: []
 ---
@@ -270,15 +308,15 @@ c) O [Decreto-Lei n.º 319/93](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Luís Lopes da Mota - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 1 de Outubro de 1998.**
+Promulgado em 1 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Outubro de 1998.**
+Referendado em 16 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

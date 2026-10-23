@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09000/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2025/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2025-917593144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b0156d01999c28c0c678ef7252e15bddcd26450b363ae0971b905ae1edd7bad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56daf442f1f4cd942e48970220df6bebb10f337111ceda2643edac2f3ac13c4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira Militar
-- Formação Profissional
-- Contrato
-- Autoridade Marítima Nacional
-- Serviço Militar
-- Forças Armadas
-- Quadro Permanente das Forças Armadas
-- Estado Maior General das Forças Armadas
-- Serviço Efectivo
 - AUTORIDADE AERONÁUTICA NACIONAL
+- Autoridade Marítima Nacional
+- Carreira Militar
+- Contrato
+- Estado Maior General das Forças Armadas
+- Forças Armadas
+- Formação Profissional
+- Quadro Permanente das Forças Armadas
+- Serviço Efectivo
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:1147043701:por
@@ -96,16 +96,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177309293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179008563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179008564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836117871:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1147043701:por
+  label: Revogado, com efeitos a 1 de janeiro de 2026, o presente diploma, pelo(a) Decreto-Lei n.º 142/2026 - Diário da República
+    n.º 134/2026, Série I de 2026-07-14, nos termos do seu artigo 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2026-1147043701
+  date: '2026-07-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:03Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +190,7 @@ f) Efetivos militares em regime de voluntariado em regime de contrato, incluindo
 
 ###### Artigo 4.º — Plano de promoções e graduações
 
-O plano de promoções e graduações das Forças Armadas para 2025 tem por referência os efetivos máximos referidos nos n.<sup>os</sup>1 e 2 do artigo 2.º
+O plano de promoções e graduações das Forças Armadas para 2025 tem por referência os efetivos máximos referidos nos n.os1 e 2 do artigo 2.º
 
 ###### Artigo 5.º — Normas especiais
 
@@ -172,15 +202,15 @@ O presente decreto-lei produz efeitos a 1 de janeiro de 2025.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - João Alexandre da Silva Lopes - Álvaro Castelo Branco.
 
-**Promulgado em 2 de maio de 2025.**
+Promulgado em 2 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de maio de 2025.**
+Referendado em 6 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -191,11 +221,11 @@ Militares e alunos militares em formação para ingresso nas várias categorias 
 | Oficiais | 275 | 498 | 485 | 1 258 |
 | Sargentos | 60 | 218 | 240 | 518 |
 | Praças | 314 | 110 | 30 | 454 |
-| Totais | 649 | 826 | 755 | (a)(<sup>b</sup>) 2 230 |
+| Totais | 649 | 826 | 755 | (a)(b) 2 230 |
 
-(<sup>a</sup>) Os efetivos em formação incluem os militares em regime de voluntariado e em regime de contrato que frequentem os respetivos ciclos de formação necessários para ingresso no quadro permanente, os quais não são contabilizadas nos quantitativos fixados nas tabelas 1.c e 2.c do anexo vi ao [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, na sua redação atual.
+(a) Os efetivos em formação incluem os militares em regime de voluntariado e em regime de contrato que frequentem os respetivos ciclos de formação necessários para ingresso no quadro permanente, os quais não são contabilizadas nos quantitativos fixados nas tabelas 1.c e 2.c do anexo vi ao [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, na sua redação atual.
 
-(<sup>b</sup>) Os efetivos em formação não incluem os militares do quadro permanente a frequentar formação de transição de categoria.
+(b) Os efetivos em formação não incluem os militares do quadro permanente a frequentar formação de transição de categoria.
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º)
 
@@ -206,8 +236,12 @@ Militares em formação inicial para ingresso nas várias categorias no regime d
 | Oficiais | 110 | 147 | 180 | 437 |
 | Sargentos | 0 | 300 | 380 | 680 |
 | Praças | 250 | 2 370 | 670 | 3 290 |
-| Totais | 360 | 2 817 | 1 230 | (a)(<sup>b</sup>) 4 407 |
+| Totais | 360 | 2 817 | 1 230 | (a)(b) 4 407 |
 
-(<sup>a</sup>) Os efetivos em formação referem-se aos militares destinados ao regime de voluntariado (RV) e ao regime de contrato (RC), incluindo ao regime de contrato especial, que se encontram na formação inicial, até à conclusão da instrução complementar.
+(a) Os efetivos em formação referem-se aos militares destinados ao regime de voluntariado (RV) e ao regime de contrato (RC), incluindo ao regime de contrato especial, que se encontram na formação inicial, até à conclusão da instrução complementar.
 
-(<sup>b</sup>) Os efetivos em formação não incluem os militares do RV e RC, incluindo o RCE a frequentar formação de transição de categoria ou que habilita à mudança de modalidade contratual, os quais devem ser contabilizados nas correspondentes tabelas fixadas no anexo vi ao [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, na sua redação atual.
+(b) Os efetivos em formação não incluem os militares do RV e RC, incluindo o RCE a frequentar formação de transição de categoria ou que habilita à mudança de modalidade contratual, os quais devem ser contabilizados nas correspondentes tabelas fixadas no anexo vi ao [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, na sua redação atual.
+
+119027105
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { text-align:right; margin-right:34px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; background-color:rgb(255,255,255); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl13 { text-align:right; margin-right:17px; } .Tbl14 { text-align:right; margin-right:31px; }

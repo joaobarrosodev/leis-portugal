@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22607-1967-509217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:29:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94cc9e7bead6f1dfe479290c682d5e8169ae057daa1006725d1debe77e911de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64855944206825367dcd087421a063448ce93d4df2d0de30787cbb5dfdf89738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:29:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:445901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233327:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:29:15Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +100,11 @@ Ministério do Exército, 1 de Abril de 1967. - O Ministro do Exército, Joaquim
 
 QUADRO I
 
-## Anexo à Portaria n.º 22607, de 1 de Abril de 1967
+Anexo à Portaria n.º 22607, de 1 de Abril de 1967
 
 Chefia do Serviço Postal Militar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf))](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf)
 
 Nota. - Os encargos serão suportados pelo orçamento ordinário do Ministério do Exército (artigo 9.º do [Decreto-Lei n.º 46826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46826-1966-233327), de 4 de Janeiro de 1966), com excepção da secção N. A. T. O., cujos encargos são suportados pelo orçamento suplementar de defesa (artigo 10.º do mesmo decreto-lei).
 
@@ -108,11 +112,11 @@ Ministério do Exército, 1 de Abril de 1967. - O Ministro do Exército, Joaquim
 
 QUADRO II
 
-## Anexo à Portaria n.º 22607, de 1 de Abril de 1967
+Anexo à Portaria n.º 22607, de 1 de Abril de 1967
 
 Estação postal militar n.º 29 (órgão de apoio N. A. T. O.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf))](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/07800/07000701.pdf)
 
 Nota. - Os encargos serão suportados pelo orçamento suplementar de defesa (artigo 10.º do Decreto Lei n.º 46826, de 4 de Janeiro de 1966).
 

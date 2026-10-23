@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/125a00/26342637.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/1997/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1997-352174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54896e6ccbf62bc6a575a8700ebbff8f26d0fbe40a287cc6bd8e36ec532d80b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75c2c14c9cd6cc3819cc8eb5fbd9643cbdeb2fb0509ef2d3047491ad1fa03e01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Política de Cooperação
+- Cooperação Europeia
 - Criação de Serviços
 - Definição de Competências
 - Extinção de Serviços
-- Ministério do Equipamento do Planeamento e da Administração do Território
 - Gabinete para as Comunidades Europeias
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Integração de Serviços
 - Integração de Trabalhadores
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Orgânica
-- Cooperação Europeia
+- Pessoal Dirigente
+- Política de Cooperação
 - Quadro de Pessoal
 - Relações Internacionais
 - Transferência Patrimonial
@@ -106,16 +106,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1992/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1992/05/28/p/dre
+- type: cites
+  target: pt:dre:221322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664552:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:660490:por
+  label: "Revogado (com a entrada em vigor dos diplomas que estabelecem a orgânica do Gabinete para os Assuntos Europeus e\
+    \ Relações Externas dos Ministérios do Equipamento Social e do Planeamento), pelo DEC LEI.324/2000.2000.12.22.MES, DR.IS-A\
+    \ [294]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2000-660490
+  date: '2000-12-22'
+- type: repealed_by
+  target: pt:dre:400665:por
+  label: "Revogado pelo DEC LEI.81/2001.2001.03.08.MPLA,DR.IS-A [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2001-400665
+  date: '2001-03-08'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:24Z'
   warnings: []
   errors: []
 ---
@@ -246,18 +286,18 @@ São revogados o [Decreto-Lei n.º 415/86](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Maio de 1997.**
+Promulgado em 8 de Maio de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1997.**
+Referendado em 20 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 7.º
 
 Pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/125a00/26342637.pdf))](https://files.diariodarepublica.pt/1s/1997/05/125a00/26342637.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/125a00/26342637.pdf)

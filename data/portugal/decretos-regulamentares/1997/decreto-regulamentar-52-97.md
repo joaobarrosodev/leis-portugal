@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/276b00/64076407.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/52/1997/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1997-406362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36d077e89c399f8299f5d46cba9aa771b92df6c3bc5be0d5ad348b49494326bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4079b3abfc9a92d96ee11949d3a0e6c2ece5970c07c20466915f3f491469215f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
 subjects:
 - Apoio Administrativo
 - Auditor de Ambiente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Definição de Competências
-- Secretaria Geral
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Proteção do Ambiente
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:518852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518852:por
+  label: "Determinada a sucessão do GPP relativamente às atribuições do Auditor do Ambiente, regulamentado no presente diploma,\
+    \ que é revogado a partir de 01.03.2007 pelo DR.6/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2007-518852
+  date: '2007-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/1997/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/1997/04/18/p/dre
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469605:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:52Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +171,12 @@ Presidência do Conselho de Ministros, 11 de Setembro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

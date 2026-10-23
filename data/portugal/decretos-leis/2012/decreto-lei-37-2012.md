@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2012/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2012-543004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4a21faece765b772a3b6f495721a0ac19639f51dcaa54a55e4307711413ea4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3e2c9bf6f2b74ca76b01eb1923b9fe0bf57a7addd40bac6e4764429d49f9be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
 - Comissão Consultiva de Pesticidas
-- Organismo Geneticamente Modificado
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Licenciamento
-- Embalagem
-- Proteção do Ambiente
-- Proteção do Consumidor
+- Limite Máximo de Resíduos
+- Organismo Geneticamente Modificado
 - Pesticida
 - Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Comércio
-- Troca Intracomunitária
+- Produto Químico
+- Proteção do Ambiente
+- Proteção do Consumidor
 - Saúde Animal
+- Saúde Pública
+- Troca Intracomunitária
 relationships:
 - type: cites
   target: celex:31991L0414
@@ -140,13 +140,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:20Z'
   warnings: []
   errors: []
 ---
@@ -233,15 +233,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2012. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 6 de fevereiro de 2012.**
+Promulgado em 6 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de fevereiro de 2012.**
+Referendado em 8 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -251,4 +251,4 @@ Visto e aprovado em Conselho de Ministros de 5 de janeiro de 2012. - Pedro Passo
 
 Substâncias ativas inscritas na Lista Positiva Comunitária cuja utilização em produtos fitofarmacêuticos é autorizada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03400/0076800790.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03400/0076800790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03400/0076800790.pdf)

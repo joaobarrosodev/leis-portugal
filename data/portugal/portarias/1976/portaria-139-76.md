@@ -46,40 +46,102 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/139-1976-501575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c177d1dae4ba66eae7e04e9e0b184af5908f15d83689ced7190570f21292ca1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 830e1bfa856ea4570e30e955f7eac997a8d2c6f1f83946f99a5fde5af321793d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Agrícola
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1325654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279809:por
+  label: Derrogada, no referente aos prédios rústicos da Fundação da Casa de Bragança, pelo(a) Portaria n.º 741/77 - Diário
+    da República n.º 283/1977, Série I de 1977-12-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1977-279809
+  date: '1977-12-09'
+- type: amended_by
+  target: pt:dre:678175:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \"Montinho\",pela PORT.114/80.15.03.1980.MAP, DR.IS [63] de\
+    \ 15.03.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-1980-678175
+  date: '1980-03-15'
+- type: amended_by
+  target: pt:dre:474485:por
+  label: "Derrogada em parte pela PORT.295/80.27.05.1980.MAP, DR.IS [122] de 27.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/295-1980-474485
+  date: '1980-05-27'
+- type: amended_by
+  target: pt:dre:457871:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado «Nouchés» pela PORT.951/80.08.11.1980.MAP, DR.IS [259]\
+    \ de 08.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/951-1980-457871
+  date: '1980-11-08'
+- type: amended_by
+  target: pt:dre:457421:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado «Padrão» pela PORT.958/80.10.11.1980.MAP, DR.IS [260]\
+    \ de 10.11.1980\080\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1980-457421
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:459625:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado «Quinta da Boavista», pela PORT.1079/80.18.12.1980.MAP,\
+    \ DR.IS [291] de 18.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-1980-459625
+  date: '1980-12-18'
+- type: amended_by
+  target: pt:dre:388980:por
+  label: "Desanexada uma área do prédio rústico pela PORT.341/81.15.04.1981.MFP, DR.IS [88] de 15.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-1981-388980
+  date: '1981-04-15'
+- type: amended_by
+  target: pt:dre:1325654:por
+  label: "Determinada a reversão da expropriação do prédio rústico \"Herdade do Lameirão\" pela PORT.DD350.19.09.1990.PCM,\
+    \ DR.IIS [217] de 19.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1325654
+  date: '1990-09-19'
+- type: cites
+  target: pt:dre:307375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:10Z'
   warnings: []
   errors: []
 ---

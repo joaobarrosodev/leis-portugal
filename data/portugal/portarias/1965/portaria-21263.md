@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21263-1965-236765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:59:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c2051d2e9fbe741b49a5e555acbb53b48228fbe8c4202e41b0f48192962c1e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c84cf64ff8990e31b91886314a2e2996a5a0fe7eb71e052c7069645c00b08811
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:59:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:59:39Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 a) Os n.os 1.º e 5.º do artigo 15.º e as alienas b) dos n.os 2.º e 3.º e o n.º 5.º do artigo 16.º passam a ter a seguinte redacção:
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 1.º Boné. Do feitio da figura n.º 2, com capas de terylene, verde-acinzentado, ou caqui-gabardina, do mesmo tom, conforme o uniforme a que se destina, designando-se, respectivamente, por boné n.º 1 e por boné n.º 2. Terá pala curva, de 5 cm de largura, de polimento preto e com 4 cm de cintura. A pala será encimada por francalete também de polimento preto, com dois passadores, pregado nas extremidades por dois botões pequenos, de metal branco, com o monograma «GF».
 
@@ -101,7 +101,7 @@ a) Os n.os 1.º e 5.º do artigo 15.º e as alienas b) dos n.os 2.º e 3.º e o 
 
 5.º Calça. Direita e sem dobra, de tecido de caqui-gabardina, verde-acinzentado, ou de zuarte, conforme o uniforme a que se destine, designando-se, respectivamente, como calça n.º 4 e calça n.º 5.
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 2.º Pequeno uniforme ou de passeio:
 

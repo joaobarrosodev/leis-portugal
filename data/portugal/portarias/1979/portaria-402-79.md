@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/402-1979-377915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b68c4c901e3d67fe27f8c41649731030f2083cd5c0ff88026c2ae1208b2e21b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff0ea9fc9a023dba537bde48f425f494cf21b9e16ce73d927adbf92724b275f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Advogado
+- Caixa de Previdência
+- Caixa de Previdência dos Advogados e Solicitadores
+- Previdência Social
+- Regulamento
+- Solicitador
 relationships:
 - type: amended_by
   target: pt:dre:311464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682234:por
+  label: "Alterados os artigos 9.º, 27.º, 33.º, 40.º, 43.º, 49.º e 61.º do Regulamento, pela PORT.157/80.05.04.1980.MJ, DR.IS\
+    \ [80] de 05.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1980-682234
+  date: '1980-04-05'
+- type: amended_by
+  target: pt:dre:461618:por
+  label: "Alterados os artigos 12.º, 40.º, 47.º, 49.º, 51.º e 64.º do Regulamento, pela PORT.754/80.30.09.1980.MJ, DR.IS [226]\
+    \ de 30.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1980-461618
+  date: '1980-09-30'
+- type: amended_by
+  target: pt:dre:574301:por
+  label: "Alterado o artigo 40.º-A do Regulamento, pela PORT.463/81.05.06.1981.MJ, DR.IS [129] de 05.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/463-1981-574301
+  date: '1981-06-05'
+- type: amended_by
+  target: pt:dre:563801:por
+  label: "Alterados os artigos 7.º, 9.º, 18.º, 25.º, 26.º e 40.º do Regulamento, pela PORT.837/81.24.09.1981.MJ, DR.IS [220]\
+    \ de 24.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1981-563801
+  date: '1981-09-24'
+- type: cites
+  target: pt:dre:324878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638922:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:369617:por
+  label: Rectificada pela DECL.DD7204.11.09.1979.PCM, DR.IS [210] de 11.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-369617
+  date: '1979-09-11'
+- type: repealed_by
+  target: pt:dre:311464:por
+  label: "Revogada, na redacção da Portaria n.º 463/81, de 5 de Junho, pela PORT.487/83.27.04.1983.MJ, DR.IS [96] de 27.04.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/487-1983-311464
+  date: '1983-04-27'
 article_structure:
   article_count: 71
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:45Z'
   warnings: []
   errors: []
 ---
@@ -738,7 +794,7 @@ Pensões de reforma antecipada
 
 Pensões de reforma a atribuir aos beneficiários com quarenta anos de inscrição, pelo menos, e mais de 60 anos de idade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
 
 TABELA N.º 2
 
@@ -748,7 +804,7 @@ Pensões complementares de reforma
 
 Quotas mensais a pagar pelo beneficiário até a idade de 70 anos para assegurar o direito a uma pensão complementar de reforma de 100$00 mensais, a partir daquela idade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
 
 TABELA N.º 3
 
@@ -760,7 +816,7 @@ Subsídios complementares por morte
 
 Quotas mensais a pagar pelo beneficiário até à idade de 70 anos para assegurar o direito a um subsídio complementar por morte, relativamente a cada escalão de 10000$00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
 
 TABELA N.º 4
 
@@ -772,4 +828,4 @@ Subsídios complementares por morte
 
 Quotas mensais a pagar pelo beneficiário enquanto vivo para assegurar o direito a um subsídio complementar por morte, por cada escalão de 10000$00.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf))](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/18100/18421852.pdf)

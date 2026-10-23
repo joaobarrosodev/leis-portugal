@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-1972-682403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20a9b5ffc6194a52dd966567654b81c3ad6dcd95bf583ee3234f908d7dd86872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e666bfee0ace17a9d75ce7331ff49b7c31cae676eed0b384b34ea35ee0819fa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:35Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 305093$50
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 305093$50
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 125346$20
+Artigo 9.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos» ... 125346$20
 
-###### Artigo 12.º «Abono de família» ... 45500$00
+Artigo 12.º «Abono de família» ... 45500$00
 
 ... 475939$70
 
@@ -103,60 +107,60 @@ tomando como contrapartida as disponibilidades apuradas nas seguintes verbas da 
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 1200$20
+Artigo 1.º, n.º 2) «Remunerações certas ao pessoal em exercício - Pessoal civil contratado» ... 1200$20
 
-###### Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças» ... 18890$00
+Artigo 3.º, n.º 2) «Outras despesas com o pessoal - Fardamento, resguardos e calçado às praças» ... 18890$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subvenção de família» ... 10000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subvenção de família» ... 10000$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Móveis» ... 9887$50
+Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Móveis» ... 9887$50
 
-###### Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 2619$50
+Artigo 5.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Veículos com motor» ... 2619$50
 
-###### Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 1486$60
+Artigo 5.º, n.º 3) «Despesas de conservação e aproveitamento do material - De móveis» ... 1486$60
 
-###### Artigo 5.º, n.º 4) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública» ... 4441$00
+Artigo 5.º, n.º 4) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública» ... 4441$00
 
-###### Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 4474$50
+Artigo 6.º, n.º 1) «Material de consumo corrente - Impressos» ... 4474$50
 
-###### Artigo 6.º, n.º 2) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 668$90
+Artigo 6.º, n.º 2) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 668$90
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 4986$00
+Artigo 7.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 4986$00
 
-###### Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 1129$20
+Artigo 7.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 1129$20
 
-###### Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 3445$50
+Artigo 8.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 3445$50
 
-###### Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 1198$40
+Artigo 8.º, n.º 2) «Despesas de comunicações - Telefones» ... 1198$40
 
-###### Artigo 8.º, n.º 3) «Despesas de comunicações - Transportes» ... 101631$30
+Artigo 8.º, n.º 3) «Despesas de comunicações - Transportes» ... 101631$30
 
-###### Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 246491$10
+Artigo 10.º, n.º 1), alínea a) «Encargos administrativos - Preparação militar de pessoal a incorporar na província - Recrutas do ultramar» ... 246491$10
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais com o recrutamento» ... 4393$70
+Artigo 10.º, n.º 2) «Encargos administrativos - Despesas gerais com o recrutamento» ... 4393$70
 
-###### Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais» ... 6000$00
+Artigo 10.º, n.º 3) «Encargos administrativos - Despesas gerais com exercícios de quadros e de tropas e com manobras anuais» ... 6000$00
 
-###### Artigo 10.º, n.º 4) «Encargos administrativos - Publicidade e propaganda» ... 5000$00
+Artigo 10.º, n.º 4) «Encargos administrativos - Publicidade e propaganda» ... 5000$00
 
-###### Artigo 10.º, n.º 5) «Encargos. administrativos - Prémios de transferência de fundos» ... 3958$80
+Artigo 10.º, n.º 5) «Encargos. administrativos - Prémios de transferência de fundos» ... 3958$80
 
-###### Artigo 10.º, n.º 6) «Encargos administrativos - Subsídios para funerais.» ... 5000$00
+Artigo 10.º, n.º 6) «Encargos administrativos - Subsídios para funerais.» ... 5000$00
 
-###### Artigo 10.º, n.º 7) «Encargos administrativos; - Pagamento de serviços e encargos não especificados» ... 2421$00
+Artigo 10.º, n.º 7) «Encargos administrativos; - Pagamento de serviços e encargos não especificados» ... 2421$00
 
-###### Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 26425$00
+Artigo 11.º, n.º 1) «Outros encargos - Força motriz» ... 26425$00
 
-###### Artigo 11.º, n.º 2) «Outros encargos - Gastos confidenciais e reservados» ... 2748$00
+Artigo 11.º, n.º 2) «Outros encargos - Gastos confidenciais e reservados» ... 2748$00
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 7443$50
+Artigo 13.º «Despesas de anos económicos findos» ... 7443$50
 
 ... 475939$70
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.

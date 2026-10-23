@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13800/16151615.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1985-181435
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f89732708be2f267239595e07701c7c45bc9c451f701b468b694238afc5ad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f3fa37bdaa53f284763678e9f7d0f0a4a7d3af6adf0ca6de89ced95ef90473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bairrada
+- Certificado de Qualidade
+- Região Demarcada
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:478258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:510041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510045:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478258:por
+  label: "Revogada pelo DEC LEI.70/91.08.02.1991.MAPA, DR.IS-A [33] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1991-478258
+  date: '1991-02-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:22Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +118,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Agricultura e do Co
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 28 de Maio de 1985.**
+Assinada em 28 de Maio de 1985.
 
 Pelo Ministro da Agricultura, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio e Indústria Agrícolas. - Pelo Ministro do Comércio e Turismo, Agostinho Alberto Bento da Silva Abade, Secretário de Estado do Comércio Interno.

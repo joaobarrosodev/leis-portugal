@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 62/2013, 3º Suplemento, Série I de 2013-03-28
   number: '62'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1914-(16) a 1914-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42-a/2013/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2013-276440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e53a40d0ca125d1f9a4156d00f33fdd6c7352aecb360a55f9d0ece583a52426
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e6d2aeceacfd068f09beeeac33a81ce1336e2cc4df0085009b8b28c15d77364
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Publicidade
-- Multa
+- Base de Dados
 - Consumidor
 - Contra-ordenação
 - Contrato
@@ -77,9 +76,10 @@ subjects:
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Fiscalização
-- Base de Dados
 - Informação do Consumidor
+- Multa
 - Proteção do Consumidor
+- Publicidade
 - Receita Própria
 - Reembolso
 - TAXA Anual de Encargos Efectiva Global
@@ -88,6 +88,13 @@ relationships:
   target: pt:dre:107561581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107561581:por
+  label: Alterados, a partir de 01.01.2018, os arts. 2º e 30º do Dec Lei 133/2009 de 02-jun, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 74-A/2017 - Diário da República n.º 120/2017, 1º Suplemento, Série I de 2017-06-23, e nos termos
+    do disposto no seu art. 47.º,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-a-2017-107561581
+  date: '2017-06-23'
 - type: cites
   target: celex:31987L0102
   label: null
@@ -156,6 +163,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/38/2012/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/38/2012/04/10/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660328:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31987L0102
   label: null
@@ -177,15 +244,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 59
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 44
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:11Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +301,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 12.º, 14.º, 23.º, 
 
 2 - O presente decreto-lei aplica-se aos contratos de crédito aos consumidores, sem prejuízo das exclusões previstas nos artigos 2.º e 3.º.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -270,7 +339,9 @@ n) [...].
 
 4 - O disposto nos artigos 1.º a 4.º, no artigo 23.º e nos artigos 26.º e seguintes é aplicável aos contratos de crédito na modalidade de ultrapassagem de crédito, mesmo que o montante total do crédito concedido seja inferior a (euro) 200.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -310,7 +381,9 @@ o) [...].
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo das normas aplicáveis à atividade publicitária em geral e do disposto no [Decreto-Lei n.º 57/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), de 26 de março, que transpõe para a ordem jurídica interna a [Diretiva n.º 2005/29/CE](https://data.europa.eu/eli/dir/2005/29/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio, relativa às práticas comerciais desleais das empresas nas relações com os consumidores no mercado interno, a publicidade ou qualquer comunicação comercial em que um credor se proponha conceder crédito ou se sirva de um intermediário de crédito para a celebração de contratos de crédito deve indicar a TAEG para cada modalidade de crédito, mesmo que este seja apresentado como gratuito, sem juros ou utilize expressões equivalentes.
 
@@ -324,7 +397,9 @@ o) [...].
 
 6 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Na data de apresentação de uma oferta de crédito ou previamente à celebração do contrato de crédito, o credor e, se for o caso, o intermediário de crédito devem, com base nos termos e nas condições oferecidas pelo credor e, se for o caso, nas preferências expressas pelo consumidor e nos elementos por este fornecidos, prestar ao consumidor as informações necessárias para comparar diferentes ofertas, a fim de este tomar uma decisão esclarecida e informada.
 
@@ -386,7 +461,9 @@ t) [...].
 
 11 - Compete ao credor e, se for o caso, ao intermediário de crédito fazer prova do cumprimento das obrigações previstas neste artigo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O credor e, se for o caso, o intermediário de crédito devem esclarecer de modo adequado o consumidor, por forma a colocá-lo em posição que lhe permita avaliar se o contrato de crédito proposto se adapta às suas necessidades e à sua situação financeira, cabendo-lhes, designadamente, fornecer as informações pré-contratuais previstas no artigo anterior, explicitar as características essenciais dos produtos propostos, bem como descrever os efeitos específicos deles decorrentes para o consumidor, incluindo as consequências da respetiva falta de pagamento.
 
@@ -396,7 +473,9 @@ t) [...].
 
 4 - Compete ao credor e, se for o caso, ao intermediário de crédito fazer prova do cumprimento das obrigações previstas neste artigo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Na data de apresentação da proposta de crédito ou previamente à celebração do contrato de crédito nos termos do n.º 2 do artigo 2.º ou do artigo 3.º, o credor e, se for o caso, o intermediário de crédito devem, com base nos termos oferecidos pelo credor e, se for o caso, nas preferências expressas pelo consumidor e nas informações por si fornecidas, prestar as informações necessárias para comparar diferentes ofertas, a fim de o consumidor tomar uma decisão esclarecida e informada quanto à celebração do contrato de crédito.
 
@@ -418,7 +497,9 @@ t) [...].
 
 10 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os artigos 6.º, 7.º e 8.º não são aplicáveis aos fornecedores ou aos prestadores de serviços que intervenham como intermediários de crédito, desde que a título acessório.
 
@@ -426,7 +507,9 @@ t) [...].
 
 3 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -438,7 +521,9 @@ t) [...].
 
 5 - [...].
 
-###### Artigo 14.º — Informação a prestar durante a vigência do contrato de crédito
+Artigo 14.º
+
+Informação a prestar durante a vigência do contrato de crédito
 
 1 - Sem prejuízo da aplicação da alínea a) do n.º 2 do artigo 22.º do [Decreto-Lei n.º 446/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1985-177869), de 25 de outubro, alterado pelo [Decreto-Lei n.º 249/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1999-374617), de 7 de julho, o consumidor deve ser informado de quaisquer alterações da taxa nominal, em suporte de papel ou noutro suporte duradouro, antes da entrada em vigor dessas alterações.
 
@@ -448,7 +533,9 @@ t) [...].
 
 4 - Durante a vigência do contrato de crédito, as instituições de crédito estão ainda obrigadas a prestar informação regular aos consumidores nos termos, periodicidade e suporte a definir, mediante aviso, pelo Banco de Portugal.
 
-###### Artigo 23.º — Ultrapassagem de crédito
+Artigo 23.º
+
+Ultrapassagem de crédito
 
 1 - Nos casos em que no contrato de depósito à ordem ou no contrato de crédito sob a forma de facilidade de descoberto se preveja a possibilidade de ultrapassagem de crédito pelo consumidor, devem especificar-se no respetivo clausulado as informações previstas na alínea f) do n.º 3 do artigo 6.º e na alínea e) do n.º 2 do artigo 8.º.
 
@@ -458,7 +545,9 @@ t) [...].
 
 4 - O credor não pode cobrar comissões em caso de ultrapassagem de crédito pelo consumidor.
 
-###### Artigo 25.º — Atividade e obrigações dos intermediários de crédito
+Artigo 25.º
+
+Atividade e obrigações dos intermediários de crédito
 
 1 - Os intermediários de crédito estão obrigados a:
 
@@ -470,7 +559,9 @@ c) [...].
 
 2 - A atividade profissional dos intermediários de crédito será objeto de legislação especial.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - É havido como usurário o contrato de crédito cuja TAEG, no momento da celebração do contrato, exceda em um quarto a TAEG média praticada pelas instituições de crédito no trimestre anterior, para cada tipo de contrato de crédito aos consumidores.
 
@@ -486,11 +577,15 @@ c) [...].
 
 7 - [Anterior n.º 4].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 Às instituições de crédito está vedado fazer depender a celebração dos contratos abrangidos pelo presente decreto-lei, bem como a respetiva renegociação, da aquisição de outros produtos ou serviços financeiros.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Constitui contraordenação a violação do disposto nos artigos 5.º, 6.º, 7.º e 8.º, no n.º 2 do artigo 9.º, no artigo 10.º, no n.º 2 do artigo 11.º, nos artigos 12.º, 14.º, 15.º, 19.º, 20.º, 22.º, 23.º, 24.º, no n.º 1 do 25.º, nos artigos 27.º, 28.º e 29.º, punível, no caso de infrações cometidas pelas instituições de crédito, ainda que através de intermediário de crédito, nos termos da alínea m) do artigo 210.º e do artigo 212.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de dezembro e, tratando-se dos demais credores, nos termos dos artigos 17.º e 21.º do Regime Geral das Contraordenações, aprovado pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de outubro.
 
@@ -500,7 +595,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -536,23 +633,27 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2013.
 
 Visto e aprovado em Conselho de Ministros de 13 de março de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 26 de março de 2013.**
+Promulgado em 26 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de março de 2013.**
+Referendado em 28 de março de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
 «ANEXO I
 
-# PARTE I — [...]
+PARTE I
 
-# PARTE II — Pressupostos adicionais para o cálculo da taxa anual de encargos efetiva global (TAEG)
+[...]
+
+PARTE II
+
+Pressupostos adicionais para o cálculo da taxa anual de encargos efetiva global (TAEG)
 
 a) [...].
 
@@ -592,53 +693,57 @@ i) Se forem propostas diferentes taxas de juro e encargos por um período limita
 
 j) No que se refere aos contratos de crédito ao consumidor para os quais seja acordada uma taxa nominal fixa para o período inicial, no fim do qual uma nova taxa nominal é determinada e, posteriormente, ajustada periodicamente de acordo com um indicador acordado, o cálculo da TAEG baseia-se no pressuposto de que, no final do período com taxa nominal fixa, a taxa nominal (variável) que lhe sucede assume o valor que teria no momento do cálculo da TAEG, com base no valor do indicador acordado que vigora no momento em que é calculada.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - Identificação e informações sobre o credor/intermediário de crédito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 2 - Descrição das principais características do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 3 - Custos do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 4 - Outros aspetos jurídicos importantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 5 - Informações adicionais em caso de contratação à distância de serviços financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
-## ANEXO III — Informação normalizada europeia em matéria de crédito aos consumidores relativa a descobertos e conversão de dívidas
+ANEXO III
+
+Informação normalizada europeia em matéria de crédito aos consumidores relativa a descobertos e conversão de dívidas
 
 1 - Identificação e informações sobre o credor/intermediário de crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 2 - Descrição das principais características do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 3 - Custos do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 4 - Outros aspetos jurídicos importantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 5 - Informações adicionais a prestar caso as informações pré-contratuais digam respeito a um crédito aos consumidores para conversão de dívidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 6 - Informações adicionais em caso de contratação à distância de serviços financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
@@ -1262,13 +1367,15 @@ No final do primeiro ano a contar da data de entrada em vigor do presente decret
 
 O presente decreto-lei entra em vigor no dia 1 de julho de 2009, com exceção do disposto no artigo 28.º, que entra em vigor no dia 1 de outubro de 2009.
 
-## ANEXO I — PARTE I
+## ANEXO I
+
+## PARTE I
 
 Equação de base que traduz a equivalência entre a utilização de crédito, por um lado, e os reembolsos e os encargos, por outro.
 
 A equação de base, que define a taxa anual de encargos efetiva global (TAEG), exprime, numa base anual, a igualdade entre, por um lado, a soma dos valores atuais das utilizações de crédito e, por outro, a soma dos valores atuais dos montantes dos reembolsos e dos pagamentos, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 Observações
 
@@ -1282,9 +1389,9 @@ d) O resultado do cálculo é expresso com uma precisão de uma casa decimal. Se
 
 e) É possível reescrever a equação utilizando apenas uma soma simples ou recorrendo à noção de fluxos (Ak) positivos ou negativos, por outras palavras, quer pagos quer recebidos nos períodos 1 a k, expressos em anos, a saber:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
-# PARTE II — Pressupostos adicionais para o cálculo da taxa anual de encargos efetiva global (TAEG)
+## PARTE II — Pressupostos adicionais para o cálculo da taxa anual de encargos efetiva global (TAEG)
 
 a) Se um contrato de crédito conceder ao consumidor liberdade de utilização do crédito, presume-se a utilização imediata e integral do montante total do crédito.
 
@@ -1328,46 +1435,46 @@ j) No que se refere aos contratos de crédito ao consumidor para os quais seja a
 
 1 - Identificação e informações sobre o credor/intermediário de crédito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 2 - Descrição das principais características do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 3 - Custos do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 4 - Outros aspetos jurídicos importantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 5 - Informações adicionais em caso de contratação à distância de serviços financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 ## ANEXO III — Informação normalizada europeia em matéria de crédito aos consumidores relativa a descobertos e conversão de dívidas
 
 1 - Identificação e informações sobre o credor/intermediário de crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 2 - Descrição das principais características do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 3 - Custos do crédito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 4 - Outros aspetos jurídicos importantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 5 - Informações adicionais a prestar caso as informações pré-contratuais digam respeito a um crédito aos consumidores para conversão de dívidas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
 
 6 - Informações adicionais em caso de contratação à distância de serviços financeiros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf))](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/03/06203/0001600039.pdf)

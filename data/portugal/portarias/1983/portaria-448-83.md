@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-1983-311669
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f779b8465743c27ac453f61568f251f1ecbee1863f0f784ee5791eea0b5a6e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d9939ca9a1dd493a6a5b471475bee4fe5b45754bc28081dd7b7259f2e518dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ciências Documentais
+- Plano de Estudos
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:210581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:210581:por
+  label: "Dada nova redacção ao nº. 1 do nº. 5º, adita um nº. 5º-A, dada nova redacção ao nº. 1 do nº. 7º e ao anexo I pela\
+    \ PORT.757/86.22.12.1986.MEC, DR.IS [293] de 22.12.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1986-210581
+  date: '1986-12-22'
+- type: cites
+  target: pt:dre:394768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609155:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:435807:por
+  label: Rectificada pela DECL.DD6360.26.07.1983.PCM, DR.IS [174-3.º Supl] de 30.07.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-435807
+  date: '1983-07-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:34Z'
   warnings: []
   errors: []
 ---
@@ -221,11 +247,11 @@ b) Do estágio previsto no artigo 9.º do referido decreto-lei, até ao ano lect
 
 Ministério da Educação.
 
-**Assinada em 23 de Março de 1983.**
+Assinada em 23 de Março de 1983.
 
-**O Ministro da Educação, João José Fraústo da Silva.**
+O Ministro da Educação, João José Fraústo da Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09000/13511353.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09000/13511353.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09000/13511353.pdf)
 
 ## ANEXO II — Certificado final
 

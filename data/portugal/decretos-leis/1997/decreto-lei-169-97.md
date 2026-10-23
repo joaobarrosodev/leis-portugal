@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/152a00/32903295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/1997/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1997-156003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b2bc5517a9ecd02f9d3d68d6bb2c92a7a08ea2800169af9e38359273fbbf58d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf0511da9845336f9f372c7f02acfd965153f0bb8f3b279bd138a22f9a48fcbd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livro de Reclamações
-- Espetáculos e Divertimentos Públicos
-- Modernização Administrativa
-- Turismo
-- Multa
+- Açores
+- Agro-turismo
 - Construção Civil
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
+- Desenvolvimento Económico
 - Direcção Geral de Desenvolvimento Rural
 - Direcção Geral do Turismo
-- Região de Turismo
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento Hoteleiro
-- Património Cultural
 - Fiscalização
 - Indústria Hoteleira
 - Licenciamento de Obras
+- Livro de Reclamações
+- Madeira.região Autónoma
+- Modernização Administrativa
+- Multa
 - Parecer
 - Parque de Campismo
+- Património Cultural
 - Património Histórico
-- Desenvolvimento Económico
 - Prazo
 - Prestação de Serviços
-- Região Rural
-- Madeira.região Autónoma
 - Proteção do Consumidor
+- Região de Turismo
+- Região Rural
 - Regime Jurídico
-- Açores
 - Taxa
-- Agro-turismo
+- Turismo
 - Turismo de Habitação
 - Turismo Rural
 - Vistoria
@@ -111,16 +111,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663522:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250608:por
+  label: "Revogado pelo DEC LEI.54/2002.2002.03.11.MECO DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2002-250608
+  date: '2002-03-11'
 article_structure:
   article_count: 39
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:14Z'
   warnings: []
   errors: []
 ---
@@ -353,7 +382,9 @@ c) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos turísticos.
 
-###### Artigo 27.º — Livro de reclamações
+###### Artigo 27.º
+
+## Livro de reclamações
 
 1 - Em todas as casas de turismo no espaço rural deve existir um livro destinado aos hóspedes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -485,12 +516,12 @@ O presente diploma entra em vigor em 1 de Julho de 1997.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Armando António Martins Vara - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 6 de Junho de 1997.**
+Promulgado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Junho de 1997.**
+Referendado em 13 de Junho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

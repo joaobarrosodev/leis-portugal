@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2025/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2025-932837041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6d230663eefedf99503095954988ec436465024f9f30ef0827a78ad1aec2d90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 236fa08b7cfb276f292b44e361a454484d740872777668b4e8fd9e56cb17697a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
+- Abastecimento de Água
 - Água
-- Saneamento Básico
 - Contrato de Concessão
 - Preço
-- Abastecimento de Água
-- Sistema Multimunicipal de Saneamento do Grande Porto
-- SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DO NORTE DE PORTUGAL
+- Saneamento Básico
+- Sistema Multimunicipal de Abastecimento de Água do Sul do Grande Porto
 - SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DE LISBOA E VALE DO TEJO
 - Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Algarve
 - Sistema Multimunicipal de Abastecimento de Água e de Saneamento do Centro Litoral de Portugal
+- SISTEMA MULTIMUNICIPAL DE ABASTECIMENTO DE ÁGUA E DE SANEAMENTO DO NORTE DE PORTUGAL
+- Sistema Multimunicipal de Saneamento do Grande Porto
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:94/2015
+  label: Mantém vigentes no ano de 2025, nos termos dos n.ºs 3 e 4 do artigo 2.º e do n.º 2 do artigo 3.º do presente diploma,
+    as tarifas a que se referem os n.ºs 3 e 4 do artigo 36.º e a componente tarifária acrescida prevista no Decreto-Lei n.º
+    94/2015, de 29 de maio, Diário da República n.º 104/2015, Série I, tal como aplicadas em 2024 por força do disposto no
+    Decreto-Lei n.º 77/2024, de 23 de outubro
+  source: null
+  date: '2015-05-29'
+- type: amends
+  target: pt:numero:decreto-lei:16/2017
+  label: Mantém vigente no ano de 2025, nos termos do n.º 2 do artigo 3.º, a componente tarifária acrescida prevista no Decreto-Lei
+    n.º 16/2017, de 1 de fevereiro, Diário da República n.º 23/2017, Série I, tal como aplicada em 2024 por força do disposto
+    no Decreto-Lei n.º 77/2024, de 23 de outubro
+  source: null
+  date: '2017-02-01'
+- type: amends
+  target: pt:numero:decreto-lei:77/2024
+  label: Mantém vigentes no ano de 2025, nos termos dos n.ºs 3 e 4 do artigo 2.º, as tarifas, os rendimentos tarifários e
+    demais valores cobrados definidos para 2024 pelo Decreto-Lei n.º 77/2024, de 23 de outubro, Diário da República n.º 206/2024,
+    Série I e aplicados aos utilizadores municipais, utilizadores finais e clientes dos sistemas multimunicipais de abastecimento
+    de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, do sistema multimunicipal
+    de abastecimento de água do sul do Grande Porto, do sistema multimunicipal de saneamento do Grande Porto e do sistema
+    multimunicipal de abastecimento de água e de saneamento do Algarve
+  source: null
+  date: '2024-10-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2021/12/30/p/dre
   label: null
@@ -118,16 +143,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:106380302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106654350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123166491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158238385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205493468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892301178:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:36Z'
   warnings: []
   errors: []
 ---
@@ -178,13 +251,13 @@ f) Sistema multimunicipal de abastecimento de água e de saneamento do Algarve, 
 
 1 - Mantêm-se vigentes, no ano de 2025, as tarifas, os rendimentos tarifários e demais valores cobrados nos termos dos contratos de concessão, aplicados em 2024, aos utilizadores municipais, utilizadores finais e clientes dos sistemas multimunicipais de abastecimento de água e de saneamento do Centro Litoral de Portugal, do Norte de Portugal e do Vale do Tejo, do sistema multimunicipal de abastecimento de água do sul do Grande Porto, do sistema multimunicipal de saneamento do Grande Porto e do sistema multimunicipal de abastecimento de água e de saneamento do Algarve.
 
-2 - Mantêm-se vigentes, no ano de 2025, as tarifas a que se referem os n.<sup>os</sup>3 e 4 do artigo 36.º do [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual, e previstas nos anexos iv e v ao referido decreto-lei, tal como aplicadas em 2024, por força do disposto no [Decreto-Lei n.º 77/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2024-892301178), de 23 de outubro.
+2 - Mantêm-se vigentes, no ano de 2025, as tarifas a que se referem os n.os3 e 4 do artigo 36.º do [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual, e previstas nos anexos iv e v ao referido decreto-lei, tal como aplicadas em 2024, por força do disposto no [Decreto-Lei n.º 77/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2024-892301178), de 23 de outubro.
 
 3 - As tarifas, os rendimentos tarifários e demais valores cobrados aplicáveis em 2025, referidos nos números anteriores, são atualizados de acordo com a previsão do índice harmonizado de preços no consumidor publicado pela entidade responsável pela sua divulgação, sem prejuízo dos acertos a que seja necessário proceder anualmente nos termos previstos nos contratos de concessão.
 
 4 - Excetua-se do disposto no número anterior:
 
-a) A tarifa aplicada pela EPAL - Empresa Portuguesa das Águas Livres, SA, nas atividades em alta ao abrigo do contrato celebrado com a Águas do Vale do Tejo, SA, cuja atualização obedece ao regime contratualmente estabelecido e constante da nota (<sup>4</sup>) do anexo iv ao [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual;
+a) A tarifa aplicada pela EPAL - Empresa Portuguesa das Águas Livres, SA, nas atividades em alta ao abrigo do contrato celebrado com a Águas do Vale do Tejo, SA, cuja atualização obedece ao regime contratualmente estabelecido e constante da nota (4) do anexo iv ao [Decreto-Lei n.º 94/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2015-67348947), de 29 de maio, na sua redação atual;
 
 b) As tarifas e os rendimentos tarifários, ajustados em função dos volumes recolhidos e tratados, cobrados nos termos do contrato de concessão aos utilizadores municipais do sistema multimunicipal de abastecimento de água e de saneamento do Centro Litoral de Portugal;
 
@@ -220,12 +293,14 @@ b) O disposto nos artigos 2.º e 3.º do presente decreto-lei produz efeitos a 1
 
 Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Maria da Graça Carvalho.
 
-**Promulgado em 13 de agosto de 2025.**
+Promulgado em 13 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2025.**
+Referendado em 18 de agosto de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119450088

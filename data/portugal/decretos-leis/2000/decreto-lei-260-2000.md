@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/240a00/57865787.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/260/2000/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2000-532464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e91ae92251b8f1d630acf19cdf3a1f6193e8fe0e1155e6c86738ef92761a46ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53cd2f8e3ebd8635173b143b1f7235ff1c6937fcdbe7c1938d7d1c656efe5f49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,7 +73,6 @@ subjects:
 - Baião
 - Cabeceiras de Basto
 - Cinfães
-- Saneamento Básico
 - Felgueiras
 - Gondomar
 - Lousada
@@ -83,15 +82,22 @@ subjects:
 - Paços de Ferreira
 - Paredes
 - Penafiel
+- Porto
+- Saneamento Básico
 - Sistema Multimunicipal de Saneamento do Grande Porto
 - Tratamento de ÁGUA
-- Porto
 - VILA NOVA de Paiva
 relationships:
 - type: amended_by
   target: pt:dre:67348946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483113:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º e 5º e a epígrafe do art. 6º que passa a ser «Utilizadores do Sistema do Grande\
+    \ Porto», todos do presente diploma, pelo DEC LEI.312/2009.27.10.2009.MAOTDR, DR.IS [208] de 27.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-2009-483113
+  date: '2009-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
@@ -104,16 +110,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348946:por
+  label: Revogado, a partir de 30.06.2015, pelo(a) Decreto-Lei n.º 93/2015 - Diário da República n.º 104/2015, Série I de
+    2015-05-29; e extinto a partir da referida data, por agregação com o Sistema multimunicipal de captação, tratamento e
+    abastecimento de água do sul do Grande Porto, com o Sistema multimunicipal de abastecimento de água e de saneamento de
+    Trás-os-Montes e Alto Douro, e com o Sistema multimunicipal de abastecimento de água e de saneamento do Noroeste, o Sistema
+    multimunicipal de saneamento do Grande Porto, criado pelo presente diploma, nos termos do disposto no n.º 2 do art. 2.º
+    daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2015-67348946
+  date: '2015-05-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:02Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +222,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 3 de Outubro de 2000.**
+Promulgado em 3 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

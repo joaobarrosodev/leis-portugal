@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21404-1965-292291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eedb0f3f14d510f9e8851cb7f2d7a5ab05d9c0b2c4f119d932ba51c971fa41f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1fe8ffe60514c0d3c196528d8137225493e11b2b7a963af4b657caccc64d273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:554170:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:18Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +90,6 @@ De harmonia com o disposto no artigo 28.º do [Decreto-Lei n.º 46135](https://d
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação Nacional, que o artigo 13.º daquele mesmo decreto-lei passe a ter a seguinte redacção:
 
-###### Art. 13.º Os vogais da direcção e os membros do conselho administrativo e do conselho pedagógico exercerão as suas funções cumulativamente com as dos cargos ou empregos próprios e perceberão por elas as gratificações ou senhas de presença que forem fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
+Art. 13.º Os vogais da direcção e os membros do conselho administrativo e do conselho pedagógico exercerão as suas funções cumulativamente com as dos cargos ou empregos próprios e perceberão por elas as gratificações ou senhas de presença que forem fixadas em despacho do Ministro da Educação Nacional, com o acordo do Ministro das Finanças.
 
 Ministérios das Finanças e da Educação Nacional, 17 de Julho de 1965. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

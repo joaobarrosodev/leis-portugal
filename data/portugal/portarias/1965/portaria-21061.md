@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21061-1965-239024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eed4c0d11a820763c0b6c10001bf95b435d352c72a827beaba93ff0d9a0b364f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48bf4084d07d3d64dfb9645e8d91ef934a7821b9ebabd1c8f2d06e7c40472f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:239025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:17Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +94,27 @@ Regulamento Geral do Centro Nacional de Formação de Monitores
 
 Atribuições e competência
 
-###### Artigo 1.º O Centro Nacional de Formação de Monitores (C. N. F. M.) funciona na dependência do Fundo de Desenvolvimento da Mão-de-Obra, devendo exercer a sua actividade em estreita colaboração com o I. F. P. A. e o Serviço de Formação Profissional do Fundo e ainda com todos os organismos oficiais ou corporativos aos quais a sua actividade possa interessar.
+Artigo 1.º O Centro Nacional de Formação de Monitores (C. N. F. M.) funciona na dependência do Fundo de Desenvolvimento da Mão-de-Obra, devendo exercer a sua actividade em estreita colaboração com o I. F. P. A. e o Serviço de Formação Profissional do Fundo e ainda com todos os organismos oficiais ou corporativos aos quais a sua actividade possa interessar.
 
-###### Art. 2.º O C. N. F. M. tem a seu cargo:
+Art. 2.º O C. N. F. M. tem a seu cargo:
 
 a) A formação de monitores para os centros de formação profissional acelerada, para os centros de aprendizagem e para os centros de formação profissional dos organismos corporativos e das empresas e ainda a preparação de outros especialistas destinados às necessidades do F. D. M. O. ou de qualquer dos organismos dele dependentes;
 
 b) O estudo dos aspectos de ordem técnica relacionados com o seu próprio funcionamento, com o do I. F. P. A. e com o do serviço de formação profissional do F. D. M. O., nomeadamente no que se refere à elaboração de progressões, provas para exames finais, concepção e preparação do material didáctico apropriado e apetrechamento dos centros.
 
-###### Art. 3.º As actividades referidas no artigo anterior podem exercer-se em benefício directo de uma ou várias empresas, ou de organismos corporativos, mediante acordo a estabelecer para cada caso.
+Art. 3.º As actividades referidas no artigo anterior podem exercer-se em benefício directo de uma ou várias empresas, ou de organismos corporativos, mediante acordo a estabelecer para cada caso.
 
-###### Art. 4.º Desde que o desenvolvimento da actividade do Centro o justifique, poderão ser organizados centros regionais de formação de monitores.
+Art. 4.º Desde que o desenvolvimento da actividade do Centro o justifique, poderão ser organizados centros regionais de formação de monitores.
 
-###### Art. 5.º - 1. Por despacho ministerial serão fixadas as condições de recrutamento dos professores, bem como as condições de admissão aos cursos de monitores.
+Art. 5.º - 1. Por despacho ministerial serão fixadas as condições de recrutamento dos professores, bem como as condições de admissão aos cursos de monitores.
 
 2. Os professores contratados e os monitores admitidos aos cursos comprometem-se a estar ao serviço durante um período mínimo de três anos, devendo indemnizar o C. N. F. M. se faltarem a esse compromisso, salvo motivo justificado a apreciar pelo Ministro das Corporações e Previdência Social.
 
 Da direcção
 
-###### Art. 6.º A orientação do C. N. F. M. cabe a um director, a designar pelo Ministro das Corporações e Previdência Social.
+Art. 6.º A orientação do C. N. F. M. cabe a um director, a designar pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 7.º Compete especialmente ao director:
+Art. 7.º Compete especialmente ao director:
 
 a) Elaborar o programa anual de actividades;
 
@@ -124,13 +128,13 @@ e) Velar pela manutenção das condições necessárias ao desenvolvimento da ac
 
 Da administração
 
-###### Art. 8.º - 1. As receitas e despesas do C. N. F. M. constarão, em capítulo próprio, do orçamento do F. D. M. O., devendo as funções administrativas do Centro ser asseguradas pelo serviço administrativo daquele Fundo, que, se necessário, poderá ter pessoal destacado junto do C. N. F. M.
+Art. 8.º - 1. As receitas e despesas do C. N. F. M. constarão, em capítulo próprio, do orçamento do F. D. M. O., devendo as funções administrativas do Centro ser asseguradas pelo serviço administrativo daquele Fundo, que, se necessário, poderá ter pessoal destacado junto do C. N. F. M.
 
 2. Para pagamentos correntes que devam efectuar-se em dinheiro poderá ser autorizada a constituição de um fundo de maneio.
 
 Do pessoal
 
-###### Art. 9.º - 1. O quadro de pessoal do C. N. F. M. será aprovado pelo Ministro das Corporações e Previdência Social, de acordo com as necessidades dos serviços.
+Art. 9.º - 1. O quadro de pessoal do C. N. F. M. será aprovado pelo Ministro das Corporações e Previdência Social, de acordo com as necessidades dos serviços.
 
 2. A admissão do pessoal fica dependente de despacho do Ministro e efectivar-se-á por meio de contrato em que intervirá o director do F. D. M. O., quando não se tratar de funcionários públicos designados em comissão de serviço.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2003/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2003-233108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c76faab77f19b5531afe5c3ca2e0958bbf4015e2e5adebbe1aef44a2a5c74d2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0efe6b5a3f371505e9ca85c7dda7a9060378824f44f3bff52f78d9af1e1891a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Denominação de Origem
-- Controlo de Qualidade
-- Região Demarcada
-- Estatuto
 - Alentejo
+- Controlo de Qualidade
+- Denominação de Origem
+- Estatuto
+- Região Demarcada
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
@@ -85,16 +85,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/428/2000/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/428/2000/07/17/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:332677:por
+  label: "Revogado, nos termos das als jj) do art. 23º e do nº 2 do art. 24º do Dec Lei 212/2004 de 23-Ago, pela PORT.296/2010.01.06.2010.MADRP,\
+    \ DR.IS [106] de 01.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-2010-332677
+  date: '2010-06-01'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:51Z'
   warnings: []
   errors: []
 ---
@@ -135,15 +159,15 @@ Em caso de infracção ao disposto nos Estatutos em anexo, cabe à CVRA proceder
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 2003. - José Manuel Durão Barroso - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 11 de Março de 2003.**
+Promulgado em 11 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Março de 2003.**
+Referendado em 13 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTOS DA REGIÃO VITIVINÍCOLA DO ALENTEJO
 
@@ -361,12 +385,12 @@ c) Sejam cumpridas as restantes exigências estabelecidas pela legislação em v
 
 3 - Na rotulagem dos vinhos e produtos vitivinícolas DOC Alentejo podem ser usadas as menções tradicionais autorizadas pela legislação em vigor, desde que os respectivos produtos sejam certificados para o efeito, sem prejuízo de outras condições estabelecidas em regulamento interno da CVRA.
 
-## ANEXO A QUE SE REFERE O ARTIGO 2.º
+ANEXO A QUE SE REFERE O ARTIGO 2.º
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)
 
-## ANEXO A QUE SE REFERE O ARTIGO 4.º
+ANEXO A QUE SE REFERE O ARTIGO 4.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)](https://files.diariodarepublica.pt/1s/2003/03/073a00/20122018.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/164a00/19891990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/95/1996/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1996-413411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b24badf221940ae19fdd36aca23fabe87ff4f99afca3fd3a7bf7bac82d70ac8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d21bb8ddb9ac9e4cc2a349aaf00425d73655c3f3a4d34b7013f9665c6c5c33fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Definição de Competências
 - Estatuto
 - Instituto das Comunicações de Portugal
-- Conselho Consultivo
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:576886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:618499:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:576886:por
+  label: "Revogado pelo DEC LEI.309/2001.2001.12.07.MES,DR.IS-A [283]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-2001-576886
+  date: '2001-12-07'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:29Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +178,9 @@ r) Três personalidades de reconhecido mérito, a designar pelo ministro com com
 
 7 - As despesas de viagem e as ajudas de custo devidas pela deslocação dos membros do conselho consultivo, quando residam fora da localidade da reunião, serão suportadas pelo orçamento do ICP.
 
-###### Artigo 15.º — Competência
+Artigo 15.º
+
+Competência
 
 Compete ao conselho consultivo dar parecer, designadamente, sobre:
 
@@ -189,12 +200,12 @@ g) Qualquer outro assunto que o conselho de administração, por iniciativa pró
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 2 de Julho de 1996.**
+Promulgado em 2 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Julho de 1996.**
+Referendado em 3 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

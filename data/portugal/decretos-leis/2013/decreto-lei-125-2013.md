@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/125/2013/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2013-499550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f6a77baaa1b98744995002159f837a76d68d0138304761bdebddf77b5100bb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f503381f36075ca5e3c588f4b5ac54a509b91c2e9681a63c7e4d478e53febc49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,27 @@ relationships:
   target: pt:dre:108028571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70300348:por
+  label: Alterado, a partir de 01.11.2015, o art. 73.º do Código do Registo Predial, aprovado pelo Dec lei 224/84 de 06-jul,
+    com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I
+    de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Alterados os arts. 8.º-B, 8.º-C e 151.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84 de 06-jul, na
+    versão republicada do Código pelo Dec Lei 116/2008 de 04-jul, na redação do presente diploma, pelo(a) Lei n.º 30/2017
+    - Diário da República n.º 104/2017, Série I de 2017-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2017-107094725
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:108028571:por
+  label: Alterado o art. 44.º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-jul, na versão republicada do
+    Código pelo presente diploma, pelo(a) Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21 nos termos
+    do seu art. 25.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/89-2017-108028571
+  date: '2017-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2009/05/21/p/dre
   label: null
@@ -114,16 +135,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 270
+  article_count: 224
   section_count: 42
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:46Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +281,9 @@ c) [Revogada].
 
 2 - [...].
 
-###### Artigo 8.º-B — [...]
+Artigo 8.º-B
+
+[...]
 
 1 - Salvo o disposto no n.º 3, devem promover o registo dos factos obrigatoriamente a ele sujeitos as entidades que celebrem a escritura pública, autentiquem os documentos particulares ou reconheçam as assinaturas neles apostas ou, quando tais entidades não intervenham, os sujeitos ativos do facto sujeito a registo.
 
@@ -234,7 +305,9 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 7 - [Revogado].
 
-###### Artigo 8.º-C — [...]
+Artigo 8.º-C
+
+[...]
 
 1 - Salvo o disposto nos números seguintes, ou disposição legal em contrário, o registo deve ser pedido no prazo de dois meses a contar da data em que os factos tiverem sido titulados.
 
@@ -250,7 +323,9 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 7 - Os factos sujeitos a registo titulados em serviço de registo competente são imediatamente apresentados.
 
-###### Artigo 8.º-D — Cumprimento tardio da obrigação de registar
+Artigo 8.º-D
+
+Cumprimento tardio da obrigação de registar
 
 1 - A promoção do registo fora dos prazos referidos no artigo anterior determina o pagamento acrescido de quantia igual à que estiver prevista a título de emolumento, independentemente da gratuitidade, isenção ou redução de que o ato beneficie.
 
@@ -258,7 +333,9 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 3 - A responsabilidade pelo pagamento da quantia prevista no n.º 1 recai sobre a entidade que está obrigada a promover o registo e não sobre aquela que é responsável pelo pagamento do emolumento, nos termos do n.º 2 do artigo 151.º.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -266,7 +343,9 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 3 - A ação judicial de declaração de nulidade do registo pode ser interposta por qualquer interessado e pelo Ministério Público, logo que tome conhecimento do vício.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -278,21 +357,29 @@ c) Os agentes de execução, ou o oficial de justiça que realize diligências p
 
 5 - [...].
 
-###### Artigo 41.º-B — [...]
+Artigo 41.º-B
+
+[...]
 
 O pedido de registo pode ser efetuado pessoalmente, por via eletrónica ou por correio.
 
-###### Artigo 41.º-C — Pedido de registo por via eletrónica
+Artigo 41.º-C
+
+Pedido de registo por via eletrónica
 
 1 - [...].
 
 2 - [Revogado].
 
-###### Artigo 41.º-D — [...]
+Artigo 41.º-D
+
+[...]
 
 O pedido de registo pode ser remetido por carta registada, acompanhado dos documentos e das quantias que se mostrem devidas.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -310,11 +397,15 @@ O pedido de registo pode ser remetido por carta registada, acompanhado dos docum
 
 8 - [...].
 
-###### Artigo 42.º-A — [...]
+Artigo 42.º-A
+
+[...]
 
 O pedido efetuado pelos tribunais, pelo Ministério Público, pelos agentes de execução, ou pelos oficiais de justiça que realizem diligências próprias dos agentes de execução, e pelos administradores judiciais, deve ser preferencialmente comunicado por via eletrónica e acompanhado dos documentos necessários ao registo, bem como das quantias que se mostrem devidas, nos termos a regulamentar por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]:
 
@@ -336,7 +427,9 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...].
 
@@ -350,7 +443,9 @@ f) [...].
 
 6 - [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]:
 
@@ -372,7 +467,9 @@ f) [...].
 
 4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação das causas de rejeição previstas nas alíneas b) e e) do n.º 1 após a apresentação do pedido no diário dá lugar à recusa da qualificação, aplicando-se com as devidas adaptações o disposto no número anterior.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...]:
 
@@ -394,7 +491,9 @@ g) Quando o preparo não tiver sido completado.
 
 3 - [...].
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...].
 
@@ -416,7 +515,9 @@ g) Quando o preparo não tiver sido completado.
 
 10 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.
 
-###### Artigo 75.º-A — [...]
+Artigo 75.º-A
+
+[...]
 
 1 - [...].
 
@@ -448,7 +549,9 @@ m) [...].
 
 3 - [...].
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - [...]:
 
@@ -504,7 +607,9 @@ p) De aquisição efetuada ao abrigo do disposto no [Decreto-Lei n.º 280/2007](
 
 12 - A inscrição referida na alínea p) do n.º 1, se não for também provisória com outro fundamento, mantém-se em vigor pelo prazo de seis anos, renovável por períodos de três anos, a pedido dos interessados, mediante apresentação de documento que comprove a subsistência da razão da provisoriedade emitido com antecedência não superior a 180 dias em relação ao termo daquele prazo.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...]:
 
@@ -528,7 +633,9 @@ h) A nacionalidade dos sujeitos ativos, caso estes sejam estrangeiros, quando co
 
 3 - [...].
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - [...].
 
@@ -554,7 +661,9 @@ g) [...].
 
 5 - [...].
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - [...].
 
@@ -566,7 +675,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 117.º-D — [...]
+Artigo 117.º-D
+
+[...]
 
 1 - [...].
 
@@ -576,7 +687,9 @@ b) [...].
 
 4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no n.º 3 do artigo 66.º.
 
-###### Artigo 117.º-L — [...]
+Artigo 117.º-L
+
+[...]
 
 1 - [...].
 
@@ -590,7 +703,9 @@ b) Quando estejam em causa interesses de particular relevância social;
 
 c) Quando o acórdão da Relação esteja em contradição com outro, já transitado em julgado, proferido por qualquer Relação ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo se tiver sido proferido acórdão de uniformização de jurisprudência com ele conforme.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - [...].
 
@@ -600,7 +715,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 4 - Sem prejuízo do disposto no n.º 9 do artigo 151.º, a verificação da causa de rejeição a que se refere o número anterior após a apresentação do pedido no diário, dá lugar à recusa de apreciação do pedido, aplicando-se, com as devidas adaptações, o disposto no n.º 3 do artigo 66.º.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - [...].
 
@@ -610,7 +727,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 4 - O averbamento da pendência é oficiosamente cancelado mediante decisão definitiva que indefira a retificação.
 
-###### Artigo 131.º — Recurso hierárquico e impugnação judicial
+Artigo 131.º
+
+Recurso hierárquico e impugnação judicial
 
 1 - A decisão sobre o pedido de retificação pode ser impugnada mediante interposição de recurso hierárquico para o conselho diretivo do Instituto dos Registos e do Notariado, I.P., ou mediante impugnação judicial para o tribunal da comarca da área da circunscrição a que pertence o serviço de registo, nos termos dos números seguintes.
 
@@ -624,13 +743,17 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 6 - A interposição de recurso hierárquico ou de impugnação judicial considera-se feita com a apresentação do respetivo requerimento no serviço de registo onde foi proferida a decisão impugnada.
 
-###### Artigo 132.º — Decisão da impugnação judicial
+Artigo 132.º
+
+Decisão da impugnação judicial
 
 1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público, para emissão de parecer.
 
 2 - O juiz que tenha intervindo no processo donde conste o ato cujo registo está em causa fica impedido de julgar a impugnação judicial.
 
-###### Artigo 132.º-A — [...]
+Artigo 132.º-A
+
+[...]
 
 1 - [...].
 
@@ -644,13 +767,17 @@ b) Quando estejam em causa interesses de particular relevância social;
 
 c) Quando o acórdão da Relação esteja em contradição com outro, já transitado em julgado, proferido por qualquer Relação ou pelo Supremo Tribunal de Justiça, no domínio da mesma legislação e sobre a mesma questão fundamental de direito, salvo se tiver sido proferido acórdão de uniformização de jurisprudência com ele conforme.
 
-###### Artigo 140.º — Admissibilidade da impugnação
+Artigo 140.º
+
+Admissibilidade da impugnação
 
 1 - A decisão de recusa da prática do ato de registo nos termos requeridos pode ser impugnada mediante a interposição de recurso hierárquico para o conselho diretivo do Instituto dos Registos e do Notariado, I.P., ou mediante impugnação judicial para o tribunal da área de circunscrição a que pertence o serviço de registo.
 
 2 - [...].
 
-###### Artigo 141.º — Prazos e legitimidade
+Artigo 141.º
+
+Prazos e legitimidade
 
 1 - O prazo para a interposição de recurso hierárquico ou de impugnação judicial é de 30 dias a contar da notificação a que se refere o artigo 71.º.
 
@@ -660,7 +787,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 4 - Tem legitimidade para interpor recurso hierárquico ou impugnação judicial o apresentante do registo ou a pessoa que por ele tenha sido representada.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente a decisão de qualificação do ato de registo.
 
@@ -668,7 +797,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 3 - [...].
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - [...].
 
@@ -690,7 +821,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 7 - [Anterior n.º 6].
 
-###### Artigo 147.º-C — Impugnação da recusa de emissão de certidões
+Artigo 147.º-C
+
+Impugnação da recusa de emissão de certidões
 
 1 - Assiste ao interessado o direito de recorrer hierarquicamente ou de impugnar judicialmente a recusa da emissão de certidão.
 
@@ -704,7 +837,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 6 - A impugnação judicial prevista no n.º 1 é dirigida ao tribunal administrativo com jurisdição sobre a área da circunscrição da conservatória e rege-se pelo disposto na legislação processual aplicável.
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - [...].
 
@@ -716,7 +851,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 5 - Proferida decisão final de que resulte a insubsistência da qualificação impugnada com fundamento na inobservância do disposto no artigo 73.º ou na preterição de formalidades essenciais, o conservador deve anotar a procedência da impugnação e inutilizar a anotação de recusa ou o registo efetuado provisoriamente, com menção de pendência de qualificação.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - [...].
 
@@ -724,7 +861,9 @@ c) Quando o acórdão da Relação esteja em contradição com outro, já transi
 
 3 - Nos casos previstos no n.º 5 do artigo anterior, a anotação da pendência de qualificação determina a anotação de pendência de requalificação dos registos dependentes ou incompatíveis.
 
-###### Artigo 151.º — Pagamento das quantias devidas
+Artigo 151.º
+
+Pagamento das quantias devidas
 
 1 - No momento do pedido deve ser entregue, a título de preparo, a quantia provável do total da conta.
 
@@ -766,11 +905,15 @@ Invocação da falsidade dos documentos
 
 5 - A anotação da invocação de falsidade é inutilizada se a ação de declaração de nulidade do registo não for proposta e registada dentro de 60 dias a contar da comunicação a que se refere o n.º 3.
 
-###### Artigo 43.º-A — Prova do direito estrangeiro
+Artigo 43.º-A
+
+Prova do direito estrangeiro
 
 Quando a viabilidade do pedido de registo deva ser apreciada com base em direito estrangeiro, deve o interessado fazer prova, mediante documento idóneo, do respetivo conteúdo.
 
-###### Artigo 43.º-B — Documentos arquivados eletronicamente
+Artigo 43.º-B
+
+Documentos arquivados eletronicamente
 
 1 - Os documentos que contenham factos sujeitos a registo são arquivados eletronicamente nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
@@ -778,17 +921,23 @@ Quando a viabilidade do pedido de registo deva ser apreciada com base em direito
 
 3 - A consulta eletrónica dos títulos e dos documentos arquivados eletronicamente substitui, para todos os efeitos, a apresentação perante o serviço de registo do respetivo suporte em papel, devendo este, em caso de junção ao pedido de registo, ser devolvido ao apresentante.
 
-###### Artigo 48.º-B — Conversão da penhora em hipoteca
+Artigo 48.º-B
+
+Conversão da penhora em hipoteca
 
 O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 807.º do Código de Processo Civil, é feito com base em comunicação do agente de execução, a qual deve conter, sendo o caso, declaração de que não houve renovação da instância nos termos do artigo 809.º do Código de Processo Civil.
 
-###### Artigo 131.º-A — Tramitação subsequente
+Artigo 131.º-A
+
+Tramitação subsequente
 
 1 - Apresentada a impugnação, são notificados os interessados para, no prazo de 10 dias, impugnarem os seus fundamentos.
 
 2 - Não havendo lugar a qualquer notificação ou findo o prazo a que se refere o número anterior, o processo é remetido à entidade competente.
 
-###### Artigo 131.º-B — Decisão do recurso hierárquico
+Artigo 131.º-B
+
+Decisão do recurso hierárquico
 
 1 - O recurso hierárquico é decidido no prazo de 90 dias, pelo conselho diretivo do Instituto dos Registos e do Notariado, I.P., que pode determinar que seja previamente ouvido o conselho consultivo.
 
@@ -796,7 +945,9 @@ O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 
 
 3 - A decisão proferida é notificada aos recorrentes e demais interessados e comunicada ao serviço de registo.
 
-###### Artigo 131.º-C — Impugnação judicial
+Artigo 131.º-C
+
+Impugnação judicial
 
 1 - Tendo o recurso hierárquico sido julgado improcedente o interessado pode ainda impugnar judicialmente a decisão sobre o pedido de retificação.
 
@@ -806,7 +957,9 @@ O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 
 
 4 - O processo é remetido ao tribunal no prazo de dois dias, instruído com o processo de recurso hierárquico.
 
-###### Artigo 154.º — Notificações
+Artigo 154.º
+
+Notificações
 
 1 - As notificações previstas no presente código, quando não devam ser feitas por via eletrónica nos termos previstos no n.º 2 do artigo anterior, ou por qualquer outro meio previsto na lei, são realizadas por carta registada, podendo também ser realizadas presencialmente, por qualquer funcionário, quando os interessados se encontrem nas instalações do serviço.
 
@@ -814,7 +967,9 @@ O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 
 
 3 - A notificação não deixa de produzir efeito pelo facto de o expediente ser devolvido, desde que a remessa tenha sido feita para a morada indicada pelo notificando nos atos ou documentos apresentados no serviço de registo.
 
-###### Artigo 155.º — Contagem dos prazos
+Artigo 155.º
+
+Contagem dos prazos
 
 1 - É havido como prazo de um ou dois dias o designado por 24 ou 48 horas.
 
@@ -822,7 +977,9 @@ O registo de hipoteca, por conversão de penhora nos termos do n.º 1 do artigo 
 
 3 - O prazo que termine em sábado, domingo, feriado, em dia com tolerância de ponto ou em dia em que o serviço perante o qual deva ser praticado o ato não esteja aberto ao público, ou não funcione durante o período normal, transfere-se para o primeiro dia útil seguinte.
 
-###### Artigo 156.º — Direito subsidiário
+Artigo 156.º
+
+Direito subsidiário
 
 Salvo disposição legal em contrário, aos atos, processos e respetivos prazos previstos no presente código é aplicável, subsidiariamente e com as necessárias adaptações, o disposto no Código de Processo Civil.»
 
@@ -902,7 +1059,9 @@ n) [...].
 
 7 - [...].
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [...]:
 
@@ -934,7 +1093,9 @@ e) [...];
 
 f) Se em face da inobservância do disposto na alínea g) do n.º 1 do artigo 46.º, ou da incorreta menção dos requisitos nele exigidos, for comprovado, mediante exibição da certidão de registo ou do correspondente código de acesso, que a mesma já existia à data da celebração do ato.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - [...]:
 
@@ -972,15 +1133,15 @@ Enquanto não estiverem reunidas as condições técnicas que permitam operar a 
 
 Visto e aprovado em Conselho de Ministros de 14 de agosto de 2013. - Paulo Sacadura Cabral Portas - Fernando Ferreira Santo.
 
-**Promulgado em 27 de agosto de 2013.**
+Promulgado em 27 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de agosto de 2013.**
+Referendado em 29 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 

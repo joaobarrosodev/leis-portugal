@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21041-1965-226634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea3db390a4fad146163fb6f74c0bff5e3b0d02a0267972fa0bb6237216ecab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f93c28196fab1efdf3e416ac1ac1c5ffd6806d4cebfa8817e489c8db111290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:51Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Corpo de Polícia de S. Tomé e Príncipe
 
 Despesas com o pessoal:
 
-###### Artigo 105.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 60000$00
+Artigo 105.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 60000$00
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -101,7 +105,7 @@ Serviços de Economia
 
 Despesas com o pessoal:
 
-###### Artigo 233.º «Remunerações certas ao pessoal exercício»:
+Artigo 233.º «Remunerações certas ao pessoal exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 36500$00
 
@@ -113,9 +117,9 @@ N.º 2) «Pessoal contratado - Vencimento contratual» ... 3500$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1683.º, n.º 4), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 300000$00
+Artigo 1683.º, n.º 4), alínea a) «Deslocações do pessoal - Passagens de ou para o exterior por motivo de licença graciosa - A pagar na metrópole» ... 300000$00
 
-###### Artigo 1684.º «Diversas despesas»:
+Artigo 1684.º «Diversas despesas»:
 
 N.º 2), alínea a) «Repatriamento e auxílio a necessitados - A pagar na metrópole» ... 70000$00
 

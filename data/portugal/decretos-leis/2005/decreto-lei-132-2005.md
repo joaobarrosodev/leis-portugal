@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/2005/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2005-243691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d607ed0531e83c0099754a47752ee864252132d29a72036ecb5c41af403566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a055898863feaf7898b39534ce68bd0779713a61df0d052f7b84790c0d989add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ subjects:
 - Águas de Portugal
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Instituto da ÁGUA
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Direção Geral da Saúde
 - Direcção Geral das Florestas
 - EDIA
 - Empreitada de Obras Públicas
 - Gabinete de Planeamento e Política Agro-alimentar
-- SECA
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Instituto da ÁGUA
 - Programa de Acompanhamento e Mitigação dos Efeitos da SECA 2005
+- SECA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
@@ -92,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/83/2005/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/83/2005/04/19/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548419:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:09Z'
   warnings: []
   errors: []
 ---
@@ -172,12 +180,12 @@ O presente diploma aplica-se exclusivamente aos contratos que tenham por objecto
 
 Visto e aprovado em Conselho de Ministros de 8 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2005.**
+Referendado em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.

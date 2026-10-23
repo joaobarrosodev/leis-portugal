@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12602/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43-a/2024/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-a-2024-870757937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a824dc5c7bdcae0705c015b5fe1be2e6ba4657e1672980468d21a8bbb30ed635
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19fe87b72026ace99d59a11f3364d25cb005bdabd41eb736020690be66fa2086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Definição de Competências
 - Administração Pública
+- Definição de Competências
 - Entidade de Serviços Partilhados da Administração Pública
 - Gestão de Recursos Humanos
 - Governo
+- Modernização Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:913816379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:4/2004
+  label: Altera, a partir de 03 de Julho de 2024, os artigos 2.º, 4.º, 8.º, 9.º, 10.º, 11.º, 21.º, 23.º, 28.º, adita o artigo
+    12.º-A e insere-o na secção I do capítulo IV, revoga os artigos 5.º, 6.º, 31.º e 32.º e republica em anexo a Lei n.º 4/2004,
+    de 15 de janeiro, Diário da República n.º 12/2004, Série I-A
+  source: null
+  date: '2004-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:187954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
   article_count: 53
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:24Z'
   warnings: []
   errors: []
 ---
@@ -339,15 +366,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de junho de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - António Egrejas Leitão Amaro.
 
-**Promulgado em 1 de julho de 2024.**
+Promulgado em 1 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de julho de 2024.**
+Referendado em 2 de julho de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 
@@ -635,7 +662,7 @@ b) Estrutura matricial.
 
 6 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de otimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.
 
-7 - Os despachos referidos nos n.<sup>os</sup>5 e 8 são publicados na 2.ª série do Diário da República.
+7 - Os despachos referidos nos n.os5 e 8 são publicados na 2.ª série do Diário da República.
 
 8 - Quando estejam em causa funções de caráter predominantemente administrativo, no âmbito das direções de serviços ou das divisões, podem ser criadas, alteradas ou extintas secções, mediante despacho do dirigente máximo do serviço.
 
@@ -763,7 +790,7 @@ f) Os encargos orçamentais e respetivo cabimento orçamental.
 
 8 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ainda ser cometida a comissões ou grupos de trabalho ou de projeto, criados por despacho conjunto do ministro ou ministros competentes e do Ministro das Finanças.
 
-9 - É aplicável às comissões e aos grupos de trabalho e de projeto, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 7.
+9 - É aplicável às comissões e aos grupos de trabalho e de projeto, com as necessárias adaptações, o disposto nos n.os2 a 7.
 
 10 - Os responsáveis das estruturas de missão, das comissões e dos grupos de trabalho ou de projeto são livremente designados e exonerados.
 
@@ -791,8 +818,10 @@ f) Os encargos orçamentais e respetivo cabimento orçamental.
 
 ###### Artigo 33.º — Revogação
 
-São revogados os Decretos-Leis n.<sup>os</sup>[26 115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de novembro de 1935, e [59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de janeiro, os artigos 2.º a 5.º e 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de fevereiro, e o [Decreto-Lei n.º 100-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-a-1985-187954), de 8 de abril.
+São revogados os Decretos-Leis n.os[26 115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de novembro de 1935, e [59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de janeiro, os artigos 2.º a 5.º e 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de fevereiro, e o [Decreto-Lei n.º 100-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-a-1985-187954), de 8 de abril.
 
 ###### Artigo 34.º — Entrada em vigor
 
 A presente lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+117860885

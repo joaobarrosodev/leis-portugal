@@ -46,36 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1979-381992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b22ad22ac8ef8ea99372981ccb632896c47eeca7e2321f53804d6a6d977aabd7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f172f6c8aecda5de171d8f33e1af31e8eb9773097a5f571a52035a5f4be70be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Gabinete de Planeamento
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:34Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +121,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Gabinete de Planeamento do Ministério da Agricultura e Pescas, criado nos termos do n.º 1 do artigo 11.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e da alínea c) do artigo 5.º e do artigo 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um órgão de estudo, coordenação e apoio nos domínios da formulação da política económica, do planeamento e da integração económica internacional para os sectores da agricultura e pescas.
+Artigo 1.º - 1 - O Gabinete de Planeamento do Ministério da Agricultura e Pescas, criado nos termos do n.º 1 do artigo 11.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, e da alínea c) do artigo 5.º e do artigo 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um órgão de estudo, coordenação e apoio nos domínios da formulação da política económica, do planeamento e da integração económica internacional para os sectores da agricultura e pescas.
 
 2 - O Gabinete de Planeamento observará, para efeitos do processo de planeamento, as directivas funcionas e técnicas emanadas do Ministério responsável pelo Plano.
 
-###### Art. 2.º - 1 - São atribuições do Gabinete de Planeamento:
+Art. 2.º - 1 - São atribuições do Gabinete de Planeamento:
 
 a) Apoiar a acção do Ministro e dos Secretários de Estado na formulação da política agrária e das pescas e no planeamento e na integração económica internacional da agricultura e das pescas, habilitando-os com os elementos necessários e as respectivas propostas fundamentadas;
 
@@ -122,19 +155,19 @@ n) Assegurar as condições necessárias ao funcionamento da Comissão Consultiv
 
 o) Assegurar as ligações do Ministério com os organismos representativos das actividades económicas e profissionais e com organismos ou entidades oficiais e privadas com vista à boa preparação e execução do Plano nos sectores da agricultura e pescas, nomeadamente garantindo as condições necessárias ao funcionamento do respectivo Conselho Sectorial de Planeamento, nos termos dos artigos 19.º, 20.º e 21.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio.
 
-###### Art. 3.º O Gabinete de Planeamento é dirigido por um director com a categoria de director-geral, coadjuvado por um subdirector com a categoria de subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º O Gabinete de Planeamento é dirigido por um director com a categoria de director-geral, coadjuvado por um subdirector com a categoria de subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos do Gabinete de Planeamento:
+Art. 4.º São órgãos do Gabinete de Planeamento:
 
 a) A Comissão de Planeamento da Agricultura e Pescas;
 
 b) A Comissão Consultiva de Estatística.
 
-###### Art. 5.º - 1 - A Comissão de Planeamento da Agricultura e Pescas é um órgão consultivo no domínio do planeamento dos sectores da agricultura e pescas.
+Art. 5.º - 1 - A Comissão de Planeamento da Agricultura e Pescas é um órgão consultivo no domínio do planeamento dos sectores da agricultura e pescas.
 
 2 - A Comissão de Planeamento da Agricultura e Pescas é constituída pelos seguintes membros:
 
@@ -156,7 +189,7 @@ e) Um representante do Instituto Financeiro de Apoio ao Desenvolvimento da Agric
 
 6 - Sem prejuízo do disposto nos números anteriores, a Comissão de Planeamento da Agricultura e Pescas estabelecerá o seu regulamento interno de funcionamento, a aprovar por portaria do Ministro.
 
-###### Art. 6.º - 1 - À Comissão de Planeamento da Agricultura e Pescas compete pronunciar-se sobre:
+Art. 6.º - 1 - À Comissão de Planeamento da Agricultura e Pescas compete pronunciar-se sobre:
 
 a) A participação específica dos vários serviços e entidades no âmbito do planeamento dos sectores da agricultura e pescas;
 
@@ -170,7 +203,7 @@ e) Os projectos do Plano e do programa anual de investimento para os sectores da
 
 f) As questões que sejam submetidas à sua apreciação pelo director do Gabinete de Planeamento e que se relacionem com a acção do Ministério.
 
-###### Art. 7.º - 1 - A Comissão Consultiva de Estatística do Ministério da Agricultura e Pescas funcionará junto do Gabinete de Planeamento, de acordo com o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
+Art. 7.º - 1 - A Comissão Consultiva de Estatística do Ministério da Agricultura e Pescas funcionará junto do Gabinete de Planeamento, de acordo com o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
 
 2 - A Comissão Consultiva de Estatística é constituída pelos seguintes membros:
 
@@ -188,7 +221,7 @@ d) Os representantes de cada uma das direcções-gerais e organismos equiparados
 
 5 - Sem prejuízo do disposto nos números anteriores, a Comissão Consultiva de Estatística do Ministério da Agricultura e Pescas estabelecerá o seu regulamento interno de funcionamento, a aprovar por portaria do Ministro.
 
-###### Art. 8.º - 1 - À Comissão Consultiva de Estatística compete:
+Art. 8.º - 1 - À Comissão Consultiva de Estatística compete:
 
 a) Apoiar o director do Gabinete de Planeamento para o desempenho das suas funções de representante do Ministério no Conselho Nacional de Estatística;
 
@@ -204,7 +237,7 @@ f) Dinamizar a colaboração dos serviços do Ministério com os serviços produ
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 9.º Para o desempenho das suas atribuições o Gabinete de Planeamento dispõe dos seguintes serviços:
+Art. 9.º Para o desempenho das suas atribuições o Gabinete de Planeamento dispõe dos seguintes serviços:
 
 A) Serviços operativos:
 
@@ -232,7 +265,7 @@ g) Repartição Administrativa.
 
 ##### SUBSECÇÃO I — Dos serviços operativos
 
-###### Art. 10.º - 1 - A Direcção de Serviços de Planeamento Global e Ajustamento Regional tem como atribuições:
+Art. 10.º - 1 - A Direcção de Serviços de Planeamento Global e Ajustamento Regional tem como atribuições:
 
 a) O planeamento e a programação do sector da agricultura;
 
@@ -242,7 +275,7 @@ c) A definição de critérios e de normas para a análise dos investimentos a i
 
 2 - A Direcção de Serviços de Planeamento Global e Ajustamento Regional assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 11.º A Direcção de Serviços de Planeamento Global e Ajustamento Regional é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 11.º A Direcção de Serviços de Planeamento Global e Ajustamento Regional é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Planeamento e Programas Globais;
 
@@ -250,7 +283,7 @@ b) Ordenamento Agrário e Ajustamento Regional;
 
 c) Análise de Programas e Projectos de Investimento.
 
-###### Art. 12.º À Divisão de Planeamento e Programas Globais compete:
+Art. 12.º À Divisão de Planeamento e Programas Globais compete:
 
 a) Assegurar, com o apoio dos serviços de planeamento das direcções-gerais e organismos equiparados e dos serviços regionais de agricultura, a preparação dos planos anual, de médio e de longo prazo para o sector da agricultura;
 
@@ -260,7 +293,7 @@ c) Transmitir aos serviços do Ministério as normas para a elaboração dos pro
 
 d) Assegurar a compatibilização dos programas e projecto de outros Ministérios com repercussões sobre o desenvolvimento do sector da agricultura.
 
-###### Art. 13.º À Divisão de Ordenamento Agrário e Ajustamento Regional compete:
+Art. 13.º À Divisão de Ordenamento Agrário e Ajustamento Regional compete:
 
 a) Assegurar, com o apoio dos serviços de planeamento das direcções-gerais e organismos equiparados e dos serviços regionais de agricultura, a elaboração de programas e projectos de desenvolvimento, tendo em conta a distribuição regional das potencialidades e outros recursos do sector da agricultura;
 
@@ -268,7 +301,7 @@ b) Definir e propor as normas para a elaboração dos programas e projectos de �
 
 c) Formular directivas aos restantes serviços do Ministério por forma a assegurar a desagregação dos programas e projectos globais em termos regionais para o sector da agricultura.
 
-###### Art. 14.º À Divisão de Análise de Programas e Projectos de Investimento compete:
+Art. 14.º À Divisão de Análise de Programas e Projectos de Investimento compete:
 
 a) Estabelecer e propor a metodologia e as normas para análise e avaliação dos projectos e programas de investimento do sector da agricultura;
 
@@ -282,7 +315,7 @@ e) Dar parecer sobre projectos privados de investimento no sector da agricultura
 
 f) Colaborar com os restantes serviços do Gabinete de Planeamento na preparação e elaboração dos planos, programas e projectos para o sector da agricultura.
 
-###### Art. 15.º - 1 - A Direcção de Serviços de Coordenação e Controle da Execução tem como atribuições:
+Art. 15.º - 1 - A Direcção de Serviços de Coordenação e Controle da Execução tem como atribuições:
 
 a) A coordenação dos programas de acção dos vários serviços do Ministério, com vista a uma actuação integrada e coerente;
 
@@ -294,7 +327,7 @@ d) O acompanhamento e controle da execução dos programas e projectos para o re
 
 2 - A Direcção de Serviços de Coordenação e Controle da Execução assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 16.º A Direcção de Serviços de Coordenação e Controle da Execução é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 16.º A Direcção de Serviços de Coordenação e Controle da Execução é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Coordenação de Programas;
 
@@ -302,7 +335,7 @@ b) Programação Financeira e Orçamento;
 
 c) Controle da Execução.
 
-###### Art. 17.º À Divisão de Coordenação de Programas compete:
+Art. 17.º À Divisão de Coordenação de Programas compete:
 
 a) Assegurar a compatibilização dos programas de acção dos vários serviços do Ministério com os objectivos da política agrária e do Plano para o sector da agricultura;
 
@@ -312,7 +345,7 @@ c) Coordenar as acções dos programas e projectos do Ministério com as que lhe
 
 d) Compatibilizar os projectos das empresas do sector da agricultura sob tutela do Ministério com os objectivos da política agrária e do Plano.
 
-###### Art. 18.º À Divisão de Programação Financeira e Orçamento compete:
+Art. 18.º À Divisão de Programação Financeira e Orçamento compete:
 
 a) Orientar os serviços de planeamento das direcções-gerais e organismos equiparados e dos serviços regionais de agricultura na elaboração dos respectivos programas anuais de investimento;
 
@@ -322,7 +355,7 @@ c) Identificar e colaborar nu selecção das fontes de financiamento, de acordo 
 
 d) Preparar o orçamento de investimento para o sector da agricultura.
 
-###### Art. 19.º À Divisão de Controle da Execução compete:
+Art. 19.º À Divisão de Controle da Execução compete:
 
 a) Definir e propor os critérios e normas para o controle da execução dos programas e projectos integrados nos planos de acção do Ministério para o sector da agricultura;
 
@@ -330,7 +363,7 @@ b) Acompanhar e controlar a realização material e financeira dos programas e p
 
 c) Elaborar periodicamente, com base nos elementos fornecidos pelos serviços do Ministério, relatórios de execução do Plano para o sector da agricultura.
 
-###### Art. 20.º À Divisão de Planeamento, Coordenação e Controle da Execução de Programas das Pescas, dirigida por um chefe de divisão, compete:
+Art. 20.º À Divisão de Planeamento, Coordenação e Controle da Execução de Programas das Pescas, dirigida por um chefe de divisão, compete:
 
 a) Assegurar, com o apoio dos serviços de planeamento das direcções-gerais e organismos equiparados, a preparação dos planos anual, de médio e longo prazo para o sector das pescas;
 
@@ -352,7 +385,7 @@ i) Elaborar periodicamente, com base nos elementos fornecidos pelos serviços do
 
 ##### SUBSECÇÃO II — Dos serviços de apoio
 
-###### Art. 21.º - 1 - A Direcção de Serviços de Economia e Apoio da Produção tem como atribuições:
+Art. 21.º - 1 - A Direcção de Serviços de Economia e Apoio da Produção tem como atribuições:
 
 a) A definição dos objectivos e das correspondentes medidas de política no domínio dos preços, dos subsídios, dos mercados agrícolas, das estruturas de apoio à produção e das indústrias agro-alimentares;
 
@@ -362,7 +395,7 @@ c) A participação na definição da política de abastecimento público em pro
 
 2 - A Direcção de Serviços de Economia e Apoio da Produção assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 22.º A Direcção de Serviços de Economia e Apoio da Produção é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 22.º A Direcção de Serviços de Economia e Apoio da Produção é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Preços, Subsídios e Rendimentos;
 
@@ -370,7 +403,7 @@ b) Organização dos Mercados e Estruturas de Apoio da Produção;
 
 c) Indústrias Agro-Alimentares.
 
-###### Art. 23.º À Divisão de Preços, Subsídios e Rendimentos compete:
+Art. 23.º À Divisão de Preços, Subsídios e Rendimentos compete:
 
 a) Formular e propor os objectivos e as medidas de política nos domínios dos preços, dos subsídios e dos rendimentos para os sectores da agricultura e pescas;
 
@@ -378,7 +411,7 @@ b) Propor os sistemas e os níveis de preços ao produtor a aplicar aos diferent
 
 c) Definir e propor as acções a empreender por forma a assegurar aos produtores dos sectores da agricultura e pescas níveis de rendimento equitativos, tendo em conta os dos restantes sectores da economia nacional.
 
-###### Art. 24.º À Divisão de Organização dos Mercados e Estruturas de Apoio da Produção compete:
+Art. 24.º À Divisão de Organização dos Mercados e Estruturas de Apoio da Produção compete:
 
 a) Propor os sistemas de comercialização a que devem estar sujeitos os diferentes produtos dos sectores da agricultura e pescas, do estádio do produtor ao do grossista ou ao da primeira transformação;
 
@@ -392,7 +425,7 @@ e) Formular e propor os objectivos e as medidas de política de estruturas de ap
 
 f) Compatibilizar e definir com os restantes serviços centrais e regionais do Ministério da Agricultura e Pescas as Linhas de acção a empreender no domínio das estruturas de apoio à produção.
 
-###### Art. 25.º À Divisão das Indústrias Agro-Alimentares compete:
+Art. 25.º À Divisão das Indústrias Agro-Alimentares compete:
 
 a) Formular e propor os objectivos e as consequentes medidas de política para o sector das indústrias agrícolas e alimentares;
 
@@ -400,7 +433,7 @@ b) Delinear e propor as acções a empreender por forma a assegurar que a implan
 
 c) Propor as medidas necessárias para assegurar que o desenvolvimento das indústrias de transformação e de peixe se processe de forma coerente com a evolução da captura do pescado.
 
-###### Art. 26.º - 1 - A Direcção de Serviços de Crédito e Coordenação de Seguros tem como atribuições:
+Art. 26.º - 1 - A Direcção de Serviços de Crédito e Coordenação de Seguros tem como atribuições:
 
 a) A definição dos objectivos e das medidas de política no domínio do crédito aos sectores da agricultura e pescas;
 
@@ -412,7 +445,7 @@ d) A definição dos âmbitos e das medidas a considerar para uma política de s
 
 2 - A Direcção de Serviços de Crédito e Coordenação de Seguros assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, ou a ele estranhas, e especificamente com o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, de modo a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 27.º A Direcção de Serviços de Crédito e Coordenação de Seguros é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 27.º A Direcção de Serviços de Crédito e Coordenação de Seguros é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Política de Crédito;
 
@@ -420,7 +453,7 @@ b) Coordenação e Apoio Regional;
 
 c) Coordenação de Seguros.
 
-###### Art. 28.º À Divisão da Política de Crédito compete:
+Art. 28.º À Divisão da Política de Crédito compete:
 
 a) Formular e propor os objectivos as medidas de política de crédito para os sectores da agricultura e pescas;
 
@@ -440,7 +473,7 @@ h) Proceder à avaliação global dos resultados quanto à política de crédito
 
 i) Coligir os elementos de carácter técnico-económico e financeiro de interesse para o sector e garantir que se mantenham actualizados os dados referentes ao crédito concedido aos agricultores, independentemente das fontes de financiamento.
 
-###### Art. 29.º À Divisão de Coordenação e Apoio Regional compete:
+Art. 29.º À Divisão de Coordenação e Apoio Regional compete:
 
 a) Coordenar a actuação dos serviços regionais de agricultura no domínio do crédito, assegurando as ligações e o apoio especializado necessário à elaboração dos respectivos programas e projectos;
 
@@ -452,7 +485,7 @@ d) Dar parecer sobre os problemas de crédito que sejam apresentados pelos servi
 
 e) Elaborar relatórios sobre a execução, as condições e a aplicação do crédito, com base nos elementos a fornecer pelos vários organismos centrais e regionais do Ministério.
 
-###### Art. 30.º À Divisão de Coordenação de Seguros compete:
+Art. 30.º À Divisão de Coordenação de Seguros compete:
 
 a) Colaborar na definição de uma política de protecção dos agricultores contra os riscos resultantes de acidentes climatéricos ou provocados por agentes bióticos incontroláveis;
 
@@ -460,7 +493,7 @@ b) Contribuir para a correcta definição dos âmbitos de cobertura e identifica
 
 c) Assegurar a participação do Ministério nos trabalhos ou órgãos que venham a ser estabelecidos para o lançamento de um sistema adequado de protecção dos agricultores contra os mencionados riscos.
 
-###### Art. 31.º À Divisão de Integração Europeia e Relações Económicas Externas, dirigida por um chefe de divisão, compete, em ligação com a Comissão para a Integração Europeia criada pelo [Decreto-Lei n.º 306/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1977-251436), de 3 de Agosto:
+Art. 31.º À Divisão de Integração Europeia e Relações Económicas Externas, dirigida por um chefe de divisão, compete, em ligação com a Comissão para a Integração Europeia criada pelo [Decreto-Lei n.º 306/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1977-251436), de 3 de Agosto:
 
 a) Coordenar e apoiar os serviços do Ministério na sua actuação em face do processo de integração na Comunidade Económica Europeia;
 
@@ -476,7 +509,7 @@ f) Assegurar, no domínio económico, a participação do Ministério nas negoci
 
 g) Acompanhar, nos aspectos relativos ao domínio económico, as acções desenvolvidas no âmbito dos acordos bilaterais e assegurar no referido domínio a actuação do Ministério.
 
-###### Art. 32.º À Divisão de Estudos, dirigida por um chefe de divisão, compete:
+Art. 32.º À Divisão de Estudos, dirigida por um chefe de divisão, compete:
 
 a) Estudar as relações económicas intra-sectoriais nos sectores da agricultura e pescas, o comportamento das variáveis macroeconómicas nos referidos sectores e as relações económicas destes com os restantes sectores da economia nacional;
 
@@ -494,7 +527,7 @@ g) Apoiar os restantes serviços do Ministério, nomeadamente os regionais, na e
 
 h) Efectuar e orientar estudos e outros trabalhos de base necessários à formulação de alternativas de desenvolvimento nos sectores da agricultura e pescas, na perspectiva do longo prazo.
 
-###### Art. 33.º À Divisão de Estatística, dirigida por um chefe de divisão, compete:
+Art. 33.º À Divisão de Estatística, dirigida por um chefe de divisão, compete:
 
 a) Estabelecer, em cooperação com os restantes serviços do Ministério, e de acordo com a Comissão Consultiva de Estatística, os planos de produção de indicadores estatísticos de natureza técnico-económica para os sectores da agricultura e pescas;
 
@@ -510,7 +543,7 @@ f) Apoiar, tecnicamente, o funcionamento da Comissão Consultiva de Estatística
 
 g) Apoiar e coordenar as unidades estatísticas existentes nos diversos serviços do Ministério.
 
-###### Art. 34.º Ao Núcleo de Documentação, que funcionará na dependência directa do director do Gabinete de Planeamento e sob orientação de um técnico superior, compete:
+Art. 34.º Ao Núcleo de Documentação, que funcionará na dependência directa do director do Gabinete de Planeamento e sob orientação de um técnico superior, compete:
 
 a) Montar e manter actualizado o arquivo de documentação necessária à actividade do Gabinete de Planeamento;
 
@@ -522,15 +555,15 @@ d) Assegurar o funcionamento da biblioteca do Gabinete de Planeamento;
 
 e) Assegurar, com a colaboração dos competentes serviços do Ministério, a publicação e divulgação dos trabalhos do Gabinete de Planeamento.
 
-###### Art. 35.º À Repartição Administrativa, dependendo funcionalmente da Secretaria-Geral, compete o apoio administrativo necessário ao funcionamento dos serviços do Gabinete de Planeamento.
+Art. 35.º À Repartição Administrativa, dependendo funcionalmente da Secretaria-Geral, compete o apoio administrativo necessário ao funcionamento dos serviços do Gabinete de Planeamento.
 
-###### Art. 36.º A Repartição Administrativa e dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 36.º A Repartição Administrativa e dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Expediente e Arquivo;
 
 b) Orçamento e Património.
 
-###### Art. 37.º À Secção de Expediente e Arquivo compete:
+Art. 37.º À Secção de Expediente e Arquivo compete:
 
 a) Assegurar a recepção e expedição de toda a correspondência e demais documentos do Gabinete de Planeamento, promovendo os respectivos circuitos de distribuição;
 
@@ -544,7 +577,7 @@ e) Organizar e manter actualizado o registo biográfico de todos os funcionário
 
 f) Instruir todos os processos referentes a prestações sociais de que sejam beneficiários os funcionários do Gabinete de Planeamento e seus familiares, nomeadamente os relativos a abonos de família, à Assistência na Doença aos Servidores Civis do Estado (ADSE) e subsídios por morte, dando-lhes o devido seguimento.
 
-###### Art. 38.º À Secção de Orçamento e Património compete:
+Art. 38.º À Secção de Orçamento e Património compete:
 
 a) Recolher e preparar elementos para a elaboração do orçamento ordinário e das respectivas alterações;
 
@@ -556,44 +589,46 @@ d) Propor a aquisição do equipamento e mobiliário indispensável ao funcionam
 
 e) Organizar os processos relativos às despesas do Gabinete de Planeamento.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Dos quadros de pessoal
 
-###### Art. 39.º O Gabinete de Planeamento, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
+Art. 39.º O Gabinete de Planeamento, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
 
-###### Art. 40.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do Gabinete de Planeamento só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 40.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente do Gabinete de Planeamento só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos, referidos no número anterior, será abatido na dotação orçamental correspondente enquanto se mantiver aquela situação.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 41.º Os directores de serviços são substituídos, nas suas ausências e Impedimentos, pelo chefe de divisão da direcção de serviços que for designado para o efeito por despacho ministerial, sob proposta do director do Gabinete de Planeamento, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 41.º Os directores de serviços são substituídos, nas suas ausências e Impedimentos, pelo chefe de divisão da direcção de serviços que for designado para o efeito por despacho ministerial, sob proposta do director do Gabinete de Planeamento, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 42.º Os chefes de divisões autónomas são substituídos, nas suas ausências e impedimentos, pelo técnico superior da divisão que, sob proposta do director do Gabinete de Planeamento, for designado por despacho ministerial ou, na falta de designação, pelo técnico superior mais antigo da divisão.
+Art. 42.º Os chefes de divisões autónomas são substituídos, nas suas ausências e impedimentos, pelo técnico superior da divisão que, sob proposta do director do Gabinete de Planeamento, for designado por despacho ministerial ou, na falta de designação, pelo técnico superior mais antigo da divisão.
 
-###### Art. 43.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos, pelo chefe de secção que for designado para o efeito por despacho ministerial.
+Art. 43.º O chefe da Repartição Administrativa é substituído nas suas ausências e impedimentos, pelo chefe de secção que for designado para o efeito por despacho ministerial.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 44.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do director do Gabinete de Planeamento, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ele cometidas.
+Art. 44.º - 1 - Mediante autorização ministerial, e sob proposta fundamentada do director do Gabinete de Planeamento, poderão ser celebrados contratos ou termos de tarefa com entidades ou indivíduos para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ele cometidas.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 45.º O Gabinete de Planeamento poderá propor a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 45.º O Gabinete de Planeamento poderá propor a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 46.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 46.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 2 de Abril de 1979.**
+Promulgado em 2 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## Anexo ao artigo 39.º — Contingente do pessoal do Gabinete de Planeamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09500/07380745.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09500/07380745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09500/07380745.pdf)
 
-**O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.**
+O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal.

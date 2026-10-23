@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/386/2007/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-2007-628490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 902fd6976ce44dfc7fc1323b9ff61a665243781ffa285aa1b5e503bb011443c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eed31cd03dadc859c270ae008e86800a0dd7dc7739c3c465c05fbd6f3e9ce38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,18 +71,67 @@ subjects:
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
+- Comércio
 - Organismo Geneticamente Modificado
-- Proteção do Ambiente
+- Produto Agrícola
 - Produto Hortícola
+- Proteção do Ambiente
 - Recursos Genéticos
 - Semente
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601343:por
+  label: "Alterado o anexo II do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.40/2009.11.02.2009.MADRP,\
+    \ DR.IS [29] de 11.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2009-601343
+  date: '2009-02-11'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
+- type: amended_by
+  target: pt:dre:459936:por
+  label: "Alterados os anexos I e II do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2010.13.01.2010.MADRP,\
+    \ DR.IS [8] de 13.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2010-459936
+  date: '2010-01-13'
+- type: amended_by
+  target: pt:dre:485624:por
+  label: "Alterados os anexos I e II do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2011.07.01.2011.MADRP,\
+    \ DR.IS [5] de 07.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2011-485624
+  date: '2011-01-07'
+- type: amended_by
+  target: pt:dre:553056:por
+  label: "Alterados e republicados os anexos i e ii do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC\
+    \ LEI.100/2012.07.05.2012.MAMAOT, DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2012-553056
+  date: '2012-05-07'
+- type: amended_by
+  target: pt:dre:190461:por
+  label: "Alterado e republicado o anexo i ao Dec Lei 154/2004, de 30-jun, na redação do presente diploma , pelo DEC LEI.259/2012.11.12.2012.MAMAOT,\
+    \ DR.IS [239] de 11.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-2012-190461
+  date: '2012-12-11'
+- type: amended_by
+  target: pt:dre:498090:por
+  label: "Alterados os anexos I e II do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.93/2013.11.07.2013.MAMAOT,\
+    \ DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2013-498090
+  date: '2013-07-11'
+- type: amended_by
+  target: pt:dre:55235781:por
+  label: Alterados os anexos I e II ao Dec Lei 154/2004 de 30-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    120/2014 - Diário da República n.º 150/2014, Série I de 2014-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2014-55235781
+  date: '2014-08-06'
 - type: cites
   target: celex:32002L0053
   label: null
@@ -115,16 +164,22 @@ relationships:
   target: celex:32007L0049
   label: null
   source: http://data.europa.eu/eli/dir/2007/49/oj
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    , sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:17Z'
   warnings: []
   errors: []
 ---
@@ -171,15 +226,15 @@ Os anexos i e ii do Decreto-Lei n.º 154/2004, de 30 de Junho, na redacção que
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira.
 
-**Promulgado em 15 de Novembro de 2007.**
+Promulgado em 15 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de Novembro de 2007.**
+Referendado em 19 de Novembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -189,19 +244,19 @@ Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2007. - José Sóc
 
 Espécies agrícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios directores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
 
-# Parte C
+Parte C
 
 [...]
 
@@ -215,22 +270,24 @@ Lista de espécies que devem obedecer aos princípios directores da UPOV
 
 5 - ...
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
 
 ...
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios directores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf))](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/22800/0865808660.pdf)
 
 ...»

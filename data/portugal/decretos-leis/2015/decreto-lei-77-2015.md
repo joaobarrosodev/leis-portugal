@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09100/0243002433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2015/05/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2015-67191201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fdae4b3fc44f31debe8114073aa2602e2f6341d6e029a396b77c116a99838c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb2e60b4ea531e001faee2ece85e182f7ff3fb76ae5988e1a81adfbe1d212ad3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
 - Armazenagem
-- Multa
+- Atividade Industrial
+- Comércio
 - Contra-ordenação
 - Definição de Competências
+- Exploração Florestal
+- Exportação
 - Fiscalização
 - Importação
 - Informatização
 - Instituto da Conservação da Natureza e das Florestas
-- Exportação
-- Exploração Florestal
+- Multa
 - Pinheiro
-- Comércio
 - Transporte
 relationships:
+- type: amended_by
+  target: pt:dre:114969494:por
+  label: Alargado até 15.04.2018 o período de colheita de pinhas para o ano de 2018, previsto no n.º 1 do art. 4.º, pelo(a)
+    Despacho n.º 3339/2018 - Diário da República n.º 66/2018, Série II de 2018-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/3339-2018-114969494
+  date: '2018-04-04'
+- type: amended_by
+  target: pt:dre:115201686:por
+  label: Alargado até 30.04.2018 o período de colheita de pinhas para o ano de 2018 previsto no n.º 1 do art. 4.º do presente
+    diploma pelo(a) Despacho n.º 4309/2018 - Diário da República n.º 83/2018, Série II de 2018-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4309-2018-115201686
+  date: '2018-04-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -121,16 +133,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632387:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:14Z'
   warnings: []
   errors: []
 ---
@@ -363,12 +427,12 @@ c) 15 % para a entidade que levantou o auto.
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2015. - Pedro Passos Coelho - Anabela Maria Pinto de Miranda Rodrigues - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de abril de 2015.**
+Promulgado em 27 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de abril de 2015.**
+Referendado em 30 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

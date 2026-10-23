@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1971-633751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ea5921333aaf009a235264f7ea9892d2b3455fdf1a2eb58775330cd2793c511
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b6dec11c7ee3aedb959929160c66f04644fc0c9d43b8599f9c47ef6d0638cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Formação
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
+- Militar
+- Oficial Miliciano
+- Quadro Permanente da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:473107:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430987:por
+  label: Alterado o presente diploma, pelo(a) Portaria n.º 461/76 - Diário da República n.º 177/1976, Série I de 1976-07-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1976-430987
+  date: '1976-07-30'
+- type: amended_by
+  target: pt:dre:409132:por
+  label: Alterado o n.º 1 do art. 1.º, pelo(a) Portaria n.º 571/76 - Diário da República n.º 222/1976, Série I de 1976-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/571-1976-409132
+  date: '1976-09-21'
+- type: cites
+  target: pt:dre:352506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516719:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:285887:por
+  label: Revogadas todas as disposições do presente diploma pelo(a) Portaria n.º 578/77 - Diário da República n.º 215/1977,
+    Série I de 1977-09-16, no que disponham em contrário àquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/578-1977-285887
+  date: '1977-09-16'
+- type: repealed_by
+  target: pt:dre:473107:por
+  label: "Revogada pela Port.319/80.07.06.1980.CR, DG.IS [131] de 07.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-1980-473107
+  date: '1980-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:41Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +171,7 @@ d) De preferência com o curso de promoção a sargento-ajudante.
 
 3. Só podem ser admitidos à frequência dos cursos de formação os militares que não completem as idades a seguir indicadas até ao dia 1 de Janeiro do ano civil de início dos cursos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf))](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf)
 
 2.º - 1. A designação para a frequência dos cursos de formação de oficiais é feita por escolha do Secretário de Estado da Aeronáutica, mediante parecer da Comissão Técnica da Força Aérea, em que os candidatos elegíveis são ordenados por mérito relativo.
 
@@ -139,7 +179,7 @@ d) De preferência com o curso de promoção a sargento-ajudante.
 
 a) Para a frequência dos diferentes cursos, em regra de acordo com as correspondências a seguir indicadas, quando se trate de sargentos-ajudantes ou, na sua falta, de primeiros-sargentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf))](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/25500/16391641.pdf)
 
 b) Para a frequência dos diferentes cursos, excepto o de formação de oficiais pilotos navegadores, de acordo com a sua preparação militar e técnica, quando se trate de subalternos milicianos e sargentos com o 7.º ano liceal ou habilitações equivalentes.
 
@@ -207,4 +247,4 @@ b) Acompanhados de relações dos candidatos à frequência de cada curso, orden
 
 11.º São revogadas as Portarias n.os 19898 e 22799, respectivamente de 17 de Junho de 1963 e 26 de Julho de 1967.
 
-**O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.**
+O Secretário de Estado da Aeronáutica, José Pereira do Nascimento.

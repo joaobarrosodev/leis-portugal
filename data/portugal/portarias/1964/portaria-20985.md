@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20985-1964-535181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0b2ab10a93ba071456fefd1b31993e16733f7d98c8f0576f2c8580451924e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bef910534f95dc10c8016a73dab0727fccfbe94eb33dd8eccd9de532d3056c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356925:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:41Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 293.º, n.º 4) «Outros encargos - Parte com que concorre a província para despesas da Secretaria Internacional das Uniões Postal, Telegráfica e Radio Telegráfica, nos termos do [Decreto n.º 16415](https://diariodarepublica.pt/dr/detalhe/decreto/16415-1929-356925), de 24 de Janeiro de 1929»:
+Artigo 293.º, n.º 4) «Outros encargos - Parte com que concorre a província para despesas da Secretaria Internacional das Uniões Postal, Telegráfica e Radio Telegráfica, nos termos do [Decreto n.º 16415](https://diariodarepublica.pt/dr/detalhe/decreto/16415-1929-356925), de 24 de Janeiro de 1929»:
 
 Alínea a) «Encargos normais» ... 4000$00
 
@@ -105,7 +121,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas extraordinárias:
 
-###### Artigo 2661.º, n.º 5), alínea p) «Outras despesas extraordinárias - Diversos - Segurança púbica: despesas com duas companhias móveis»:
+Artigo 2661.º, n.º 5), alínea p) «Outras despesas extraordinárias - Diversos - Segurança púbica: despesas com duas companhias móveis»:
 
 1) «Vencimentos» ... 249000$00
 
@@ -121,13 +137,13 @@ Conservatórias dos registos
 
 Despesas com o pessoal:
 
-###### Artigo 1559.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 266828$20
+Artigo 1559.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 266828$20
 
 Comarcas e julgados
 
 Despesas com o pessoal:
 
-###### Artigo 1982.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 1171$80
+Artigo 1982.º, n.º 3) «Remunerações certas ao pessoal em exercício - Pessoal contratado» ... 1171$80
 
 ... 268000$00
 

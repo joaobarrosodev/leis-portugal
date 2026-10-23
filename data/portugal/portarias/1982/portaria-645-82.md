@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/645-1982-395332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91dacc34de702c490fedab9618e10c1a7a82006213afd5301706cede6a4641f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81d1549faf1a5d786e9e8e527929481861aa822a696c576b33cbec56d3ea96f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CTT
+- Regulamento
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600314:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:21:37Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +116,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Habitação, Obras P�
 
 1.º O artigo 15.º do Regulamento para os Serviços dos Correios, aprovado pelo Decreto de 14 de Junho de 1902, passa a ter a seguinte redacção:
 
-###### Art. 15.º Todas as categorias de correspondências postais, tanto ordinárias como registadas, seja qual for o seu destino e a via a utilizar, podem ser franquiadas pelo sistema de avença, nas condições a estabelecer pela Empresa Pública Correios e Telecomunicações de Portugal, quando os remetentes tenham requisitado a aplicação deste regime e efectuado o pagamento antecipado das correspondentes franquias.
+Art. 15.º Todas as categorias de correspondências postais, tanto ordinárias como registadas, seja qual for o seu destino e a via a utilizar, podem ser franquiadas pelo sistema de avença, nas condições a estabelecer pela Empresa Pública Correios e Telecomunicações de Portugal, quando os remetentes tenham requisitado a aplicação deste regime e efectuado o pagamento antecipado das correspondentes franquias.
 
 2.º As encomendas postais do serviço nacional, nas condições a estabelecer pelos CTT, podem também ser avençadas quando os remetentes tenham requisitado a aplicação deste regime e efectuado o pagamento antecipado das respectivas taxas
 

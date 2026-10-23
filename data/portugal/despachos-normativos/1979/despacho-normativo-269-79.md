@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21200/23072318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1979-369600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1f5cdda9a27f25bd0d21f3f191cb0721ddf925ef852d3fe169df4b9b38a158f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c78d6cf711f9d7f8a8b4cc6f0fe8e6a12fefd33ce1420bbdf3e8faf8572684a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Promoção do Emprego
+- Direcção Geral do Emprego
+- Formas de Provimento
+- Fundo de Desenvolvimento da Mão-de-obra
+- Gabinete de Gestão do Fundo de Desemprego
+- Integração de Trabalhadores
+- Ministério do Trabalho
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369597:por
+  label: "Alteradas as normas 1 e 2 da carreira técnica, a norma 4 da carreira de inspecção fiscal, a norma 1 da carreira\
+    \ de adjunto técnico e técnico auxiliar, as normas 2 e 3 da carreira administrativa, as normas 2 a 6 da carreira de pessoal\
+    \ operário, as normas 3, 5 a 7 da carreira de pessoal auxiliar e as normas gerais pelo DN.270/79.13.09.1979.MT, DR.IS\
+    \ [212] de 13.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/270-1979-369597
+  date: '1979-09-13'
+- type: amended_by
+  target: pt:dre:369599:por
+  label: "Alterada a al.e) da norma n.º 1 das carreiras de adjunto técnico e técnico auxiliar do presente diploma pelo DN.265/79.13.09.1979.MT,\
+    \ DR.IS [212] de 13.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/265-1979-369599
+  date: '1979-09-13'
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:11Z'
   warnings: []
   errors: []
 ---

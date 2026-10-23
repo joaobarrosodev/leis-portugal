@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/21000/75737577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/2006/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2006-546014
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d9c857369097903c9afdbc656d93de15ba67c6eb2c94bc85fac4dcf3ce40fc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5ab2c25aec8411f65b25bd714912699d579c51016696f42cdb8bb735d1fef6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Turismo
+- Câmara Municipal
 - Contra-ordenação
 - Direcção Geral de Turismo
 - Fiscalização
 - Indústria Hoteleira
-- Licenciamento
-- Câmara Municipal
 - Infraestrutura Turística
+- Licenciamento
+- Turismo
 - Vistoria
 relationships:
 - type: amended_by
@@ -105,16 +105,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2002/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2002/02/22/p/dre
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552309:por
+  label: "Rectificado pela DECL-RECT.84/2006.13.12.2006.PCM, DR.IS [247] de 27.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/84-2006-552309
+  date: '2006-12-13'
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado, a partir de 06.04.2008, o Dec Lei 167/97 de 04-Jul, com as alterações introduzidas pelo presente diploma\
+    \ (revogado a partir da mesma data), pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 15
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:55Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +216,9 @@ Os artigos 25.º a 30.º, 32.º, 33.º, 34.º, 61.º, 62.º e 72.º do [Decreto-
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 26.º — Vistoria ao empreendimento
+Artigo 26.º
+
+Vistoria ao empreendimento
 
 1 - ...
 
@@ -197,7 +238,9 @@ Os artigos 25.º a 30.º, 32.º, 33.º, 34.º, 61.º, 62.º e 72.º do [Decreto-
 
 9 - Se o auto de vistoria for favorável com condicionantes, poderá o empreendimento abrir ao público, nos termos do artigo 29.º, sem que seja necessária nova vistoria.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +262,9 @@ e) No caso dos parques de campismo, a classificação e ou a qualificação, con
 
 5 - Sempre que haja alteração dos elementos constantes do alvará, a entidade exploradora do empreendimento deve, para efeitos de averbamento, comunicar o facto à câmara municipal no prazo de 30 dias a contar da data do mesmo, enviando cópia à Direcção-Geral do Turismo.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos seguintes, o funcionamento dos empreendimentos turísticos depende da titularidade do alvará de licença ou de autorização de utilização turística, emitido nos termos do disposto no artigo anterior, o qual constitui, relativamente a estes empreendimentos, o alvará de licença ou autorização previsto no artigo 74.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
@@ -227,7 +272,9 @@ e) No caso dos parques de campismo, a classificação e ou a qualificação, con
 
 3 - ...
 
-###### Artigo 29.º — Comunicação à câmara municipal
+Artigo 29.º
+
+Comunicação à câmara municipal
 
 1 - Decorrido o prazo previsto no n.º 1 do artigo 26.º sem que se tenha efectuado a vistoria aí prevista, ou o prazo previsto no n.º 5 do artigo 25.º sem que tenha sido concedida a licença ou autorização de utilização turística, o interessado pode comunicar à câmara municipal a sua intenção de abrir ao público num prazo nunca inferior a cinco dias úteis, devendo tal comunicação ser acompanhada dos seguintes elementos:
 
@@ -247,7 +294,9 @@ e) No caso de a vistoria ter imposto condicionantes, termo de responsabilidade a
 
 4 - A comunicação prevista neste artigo deve ser realizada através de um formulário único, aprovado por portaria do membro do Governo responsável pela área do turismo, no qual se especifique expressamente, para efeitos de controlo pelas entidades competentes, que esse documento substitui o alvará, na ausência de resposta no prazo fixado.
 
-###### Artigo 30.º — Título de abertura
+Artigo 30.º
+
+Título de abertura
 
 Constitui título válido de abertura do empreendimento qualquer um dos seguintes documentos:
 
@@ -257,7 +306,9 @@ b) Comprovativo de ter efectuado a comunicação prevista no artigo anterior e d
 
 c) Requerimento de intimação judicial, nos termos do artigo 31.º
 
-###### Artigo 32.º — Caducidade da licença ou autorização de utilização turística e cessação de efeitos de títulos de abertura
+Artigo 32.º
+
+Caducidade da licença ou autorização de utilização turística e cessação de efeitos de títulos de abertura
 
 1 - A licença ou a autorização de utilização turística caduca:
 
@@ -277,13 +328,17 @@ e) ...
 
 4 - A caducidade da licença ou da autorização, bem como a cessação dos efeitos dos títulos de abertura referidos nas alíneas b) e c) do artigo 30.º, determinam o encerramento do empreendimento, após notificação da respectiva entidade exploradora.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Decorridos os prazos para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, aplica-se, com as necessárias adaptações e sem prejuízo do disposto nos artigos 29.º e 30.º do presente diploma, o disposto nos artigos 111.º a 113.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção conferida pela [Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/lei/15-2002-280920), de 22 de Fevereiro.
 
 2 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - No prazo de dois meses a contar da data da emissão do alvará de licença ou de autorização de utilização turística ou da abertura do empreendimento, nos termos do artigo 29.º e do n.º 1 do artigo anterior o interessado deve requerer à Direcção-Geral do Turismo a aprovação definitiva da classificação dos empreendimentos turísticos referidos nas alíneas a) e b) do n.º 2 do artigo 1.º
 
@@ -291,7 +346,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +424,9 @@ gg) A violação do disposto no artigo 30.º-A.
 
 8 - A negligência e a tentativa são puníveis, sendo reduzidos a metade os montantes mínimos e máximos das coimas previstas no presente artigo.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -385,7 +444,9 @@ c) Encerramento do empreendimento ou das instalações previstas nos n.os 2 e 3 
 
 5 - ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -413,12 +474,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 13 de Outubro de 2006.**
+Promulgado em 13 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Outubro de 2006.**
+Referendado em 18 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

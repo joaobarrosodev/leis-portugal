@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09100/0162801636.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2010/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2010-615051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9401e2140be3b565afa826486dfb6bfe30275949b244c82233f1880c46b28078
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91396de5861738db364da270666766b515d2edafe4f18c974b6e50caeda9b5e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Livro de Reclamações
-- Modernização Administrativa
-- Multa
+- Agência para a Modernização Administrativa
+- Conselho Diretivo
 - Contra-ordenação
 - Fiscalização
-- Conselho Diretivo
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Sociedade da Informação
 - Inspecção de Veículos
-- Licenciamento
-- Veículo
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto Português de Acreditação
-- Segurança Rodoviária
+- Licenciamento
+- Livro de Reclamações
+- Modernização Administrativa
 - Modernização Tecnológica
+- Multa
 - Página na Internet
 - Pessoal de Inspecção
 - Preço
 - Proteção do Consumidor
-- Agência para a Modernização Administrativa
 - Regime Jurídico
 - Requisição Civil
+- Segurança Rodoviária
+- Sociedade da Informação
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:334083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334083:por
+  label: "Determinado fazer cessar a vigência do presente diploma, nos termos do n.º 5 do art. 166.º e n.ºs 1 e 4 do art.\
+    \ 169.º da CRP e n.º 2 do art. 193.º e arts. 194.º e 195.º do Regimento da AR, pela RES.83/2010.30.07.2010.AR, DR.IS [147]\
+    \ de 30.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/83-2010-334083
+  date: '2010-07-30'
 - type: cites
   target: celex:32008R0765
   label: null
@@ -111,14 +118,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/550/1999/12/15/p/dre
 article_structure:
   article_count: 39
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:19Z'
   warnings: []
   errors: []
 ---
@@ -595,7 +602,9 @@ b) 40 %, para o IMTT, I. P.
 
 Os centros de inspecção e respectivos trabalhadores podem ser objecto de requisição civil, nas condições previstas na lei.
 
-###### Artigo 31.º — Livro de reclamações
+###### Artigo 31.º
+
+## Livro de reclamações
 
 Os centros de inspecção de veículos devem possuir livro de reclamações, nos termos do Decreto-Lei n.º 156/2005, de 15 de Setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de Novembro, 118/2009, de 19 de Maio, e 317/2009, de 30 de Outubro.
 
@@ -681,12 +690,12 @@ O presente decreto-lei entra em vigor 90 dias após a respectiva publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Manuel Pedro Cunha da Silva Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 27 de Abril de 2010.**
+Promulgado em 27 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Abril de 2010.**
+Referendado em 29 de Abril de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

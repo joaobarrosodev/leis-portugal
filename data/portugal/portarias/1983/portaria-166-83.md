@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-1983-311395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a79355a69f457981ac6ebaf88f962074ede6b0de859e17055aaa0a61ae149cba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a42072d24fd880e6f562121788c661cf454674751eed0efc812e75a445e723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional das Pescas e de Protecção dos Recursos Vivos e do Ambiente Aquático
+- Orgânica
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:387282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS OS NUM 5-A E 5-B (A INSERIR ENTRE OS NUM 5 E 6) PELA PORT 406/84 DE 23-JUN DR.IS [144]\0S [144]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-06-23'
+- type: amended_by
+  target: pt:dre:387282:por
+  label: "Aditados os n.os 5.º-A e 5.º-B (a inserir entre os n.os 5.º e 6.º), pela PORT.406/84.23.06.1984.PCM, DR.IS [144]\
+    \ de 23.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/406-1984-387282
+  date: '1984-06-23'
+- type: cites
+  target: pt:dre:160278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473772:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:32Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +297,9 @@ SITEMAC - Sindicato dos Fogueiros de Terra e Único da Mestrança e Montagem de 
 
 STIAC - Sindicato dos Trabalhadores dos Industriais Alimentares de Conservas do Centro, Sul e Ilhas.
 
-## ANEXO II — Secção das Pescas
+## ANEXO II
+
+#### Secção das Pescas
 
 Esta Secção será constituída pelo presidente, vice-presidente e secretário e pelo número de vogais representantes de cada uma das seguintes entidades:
 
@@ -315,7 +339,9 @@ Representante dos industriais de farinhas e óleos de peixe;
 
 SITEMAC - Sindicato dos Fogueiros de Terra e único da Mestrança e Montagem de Máquinas da Marinha Mercante.
 
-## ANEXO III — Secção dos Produtos da Pesca
+## ANEXO III
+
+#### Secção dos Produtos da Pesca
 
 Esta Secção será constituída pelo presidente, vice-presidente e secretário e pelo número de vogais representantes de cada uma das seguintes entidades:
 
@@ -361,7 +387,9 @@ SITEMAC - Sindicato dos Fogueiros de Terra e Único da Mestrança e Montagem de 
 
 STIAC - Sindicato dos Trabalhadores dos Industriais Alimentares de Conservas do Centro, Sul e Ilhas.
 
-## ANEXO IV — Secção de Aquicultura, Plantas Aquáticas e Sal Marinho
+## ANEXO IV
+
+#### Secção de Aquicultura, Plantas Aquáticas e Sal Marinho
 
 Esta Secção será constituída pelo presidente, vice-presidente e secretário e pelo número de vogais representantes de cada uma das seguintes entidades:
 

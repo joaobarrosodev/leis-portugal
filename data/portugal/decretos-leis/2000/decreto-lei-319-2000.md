@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/319/2000/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-2000-583238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbd330945b063fb4a15720d949aefe09d9c5745853e42d5a0f42e571deddd911
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a4225c0c5e943d28c48d7c78e8ef374029797a0a00e07183da9fbead86a1a75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,67 @@ reuse:
 subjects:
 - Albufeira.cidade
 - Aveiro
-- Programa Polis
-- Ordenamento do Território
-- Covilhã
-- Renovação Urbana
-- Leiria
-- Proteção do Ambiente
 - Beja
-- Política de Solos
-- Castelo Branco
-- Vila Real
-- Urbanismo
 - Bragança
-- Sintra
+- Castelo Branco
+- Covilhã
 - Guarda
+- Leiria
+- Ordenamento do Território
+- Política de Solos
+- Programa Polis
+- Proteção do Ambiente
+- Renovação Urbana
+- Sintra
+- Urbanismo
+- Vila Real
 relationships:
 - type: amended_by
   target: pt:dre:628829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517202:por
+  label: "Substituídas as plantas relativas às cidades de Aveiro, Coimbra, Covilhã, Vila do Conde, Vila Nova de Gaia e Viseu,\
+    \ constantes do Anexo ao Dec Lei 119/2000, de 04-Jul, na redacção do presente diploma, pelo DEC LEI.203-B/2001.2001.07.24.MAOT\
+    \ DR.IS-A [170]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-b-2001-517202
+  date: '2001-07-24'
+- type: amended_by
+  target: pt:dre:611561:por
+  label: "Substituidas as plantas relativas á zona de intervenção de Almada-Costa da Caparica, publicadas no anexo ao Dec\
+    \ lei 119/2000 de 04-Jul, alterado pelo presente diploma, pelo DEC.LEI.251/2001.2001.09.21.MAOT, DR.IS-A [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-2001-611561
+  date: '2001-09-21'
+- type: amended_by
+  target: pt:dre:576282:por
+  label: "Acrescentada a planta relativa à zona de intervenção de Setúbal ao anexo do Dec Lei 119/2000 de 04-Jul, com a redacção\
+    \ do presente diploma pelo DEC LEI.318/2001.2001.12.10.MAOT DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/318-2001-576282
+  date: '2001-12-10'
+- type: amended_by
+  target: pt:dre:303202:por
+  label: "Substituidas as plantas relativas às zonas de intervenção de Aveiro e da Guarda e acrescentadas as plantas relativas\
+    \ à zonas de intervenção de Chaves, Portalegre, Silves e Tomar do Anexo do Dec Lei 119/2000 de 04-Jul, na redacção dada\
+    \ pelo presente diploma e pelos Dec Lei 203-B/2001 de 24-Jul, 251/2001 de 21-Set e 318/2001 de 10-Dez, pelo DEC LEI.103/2002.2002.04.12.MAOT,\
+    \ DR.IS-A [86]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2002-303202
+  date: '2002-04-12'
+- type: amended_by
+  target: pt:dre:432451:por
+  label: "Prorrogada com excepção da planta relativa à zona de intervenção na cidade do Porto, pelo prazo de um ano, a vigência\
+    \ das medidas preventivas previstas no Dec Lei 119/2000, de 04-Jul, na redacção do presente diploma, pelo DEC LEI.212/2002.2002.10.17.MCOTA\
+    \ DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2002-432451
+  date: '2002-10-17'
+- type: amended_by
+  target: pt:dre:405296:por
+  label: "Prorrogada pelo prazo de um ano, relativamente ás zonas de intervenção de Vila Real, Bragança, Covilhã, Guarda,\
+    \ Aveiro, Beja e Albufeira, a vigência das medidas preventivas previstas no Dec Lei 119/2000 de 04-Jul, alterado pelo\
+    \ presente diploma, nas áreas abrangidas pelas plantas publicadas em anexo, pelo DEC LEI.314/2002.2002.12.23.MCOTA, DR.IS-A\
+    \ [296]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-2002-405296
+  date: '2002-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/119/2000/07/04/p/dre
   label: null
@@ -96,16 +138,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/26/2000/05/15/p/dre
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:28Z'
   warnings: []
   errors: []
 ---
@@ -134,14 +188,14 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 19 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Novembro de 2000.**
+Promulgado em 27 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2000.**
+Referendado em 6 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2000/12/287a00/71937195.pdf)

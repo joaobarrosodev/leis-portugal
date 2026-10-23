@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/091a00/20482055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/1999/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1999-534791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d988f94c597548beca878e7cb55fbd7f4a9cec12467f2ca2d1ad41fa02f7c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8ccbf4e4425168a8f36d68cc13467714fadcee7c041a291a6c18dde895d48a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
-- Região Autónoma
-- Pessoal Dirigente
-- REDE Escolar
 - Conselho Administrativo
 - Conselho de Acção Social Escolar
-- Ministério da Educação
 - Criação de Serviços
 - Definição de Competências
 - Departamento de Gestão de Recursos Educativos
 - Direcção Geral da Administração Educativa
 - Diretor Geral
-- Gestão Administrativa
-- Orgânica
-- Política de Educação
-- Ensino Básico
-- Quadro de Pessoal
-- Gestão de Recursos Humanos
 - Educação Pré-escolar
+- Ensino Básico
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Ministério da Educação
+- Orgânica
+- Pessoal Dirigente
+- Política de Educação
+- Quadro de Pessoal
+- REDE Escolar
+- Região Autónoma
 - Subsídio
 relationships:
 - type: amended_by
@@ -98,16 +98,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/141/1993/04/26/p/dre
+- type: cites
+  target: pt:dre:335264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665348:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº2 do art. 35º, pelo DEC LEI.208/2002.2002.10.17.ME, DR.IS-A [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 28
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:54Z'
   warnings: []
   errors: []
 ---
@@ -408,7 +425,9 @@ e) Acompanhar as acções relacionadas com processos de pré-contencioso e de co
 
 f) Colaborar com outros serviços da DGAE na elaboração e actualização de ficheiro temático de legislação.
 
-###### Artigo 12.º — Divisão de Apoio Técnico-Administrativo
+###### Artigo 12.º
+
+##### Divisão de Apoio Técnico-Administrativo
 
 1 - Compete à Divisão de Apoio Técnico-Administrativo:
 
@@ -644,15 +663,15 @@ O presente diploma entra em vigor um mês após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 5 de Abril de 1999.**
+Promulgado em 5 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro de pessoal dirigente
 

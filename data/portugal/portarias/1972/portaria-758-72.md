@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-1972-685469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e3651843b3b52ff191d41f6ae990354f4e158e4cea7d5bdf91d785f94e71c06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28da38a9c8e1c05ce3d9e686ab62e5b7016f33a0889f7f7d6b52f0eb406c2ed7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:00Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +100,9 @@ Para ser publicada no Boletim Oficial do Estado de Moçambique. - J. da Silva Cu
 
 Receitas de capital;
 
-### Capítulo 13.º «Outras receitas de capital»:
+Capítulo 13.º «Outras receitas de capital»:
 
-###### Artigo 11.º «Diferença entre o saldo da conta de gerência de 1971 e a provisão inscrita no orçamento de 1972» ... 9045763$90
+Artigo 11.º «Diferença entre o saldo da conta de gerência de 1971 e a provisão inscrita no orçamento de 1972» ... 9045763$90
 
 Nota. - Diplomas que regulam ou autorizam a cobrança: artigo 27.º do [Decreto-Lei n.º 69/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1970-228057).
 
@@ -108,21 +112,21 @@ Nota. - Diplomas que regulam ou autorizam a cobrança: artigo 27.º do [Decreto-
 
 Despesas correntes:
 
-###### Artigo 1.º «Vencimentos e salários»:
+Artigo 1.º «Vencimentos e salários»:
 
 N.º 3 «Salários do pessoal eventual» ... 800000$00
 
-###### Artigo 6.º «Horas extraordinárias» ... 120000$00
+Artigo 6.º «Horas extraordinárias» ... 120000$00
 
-###### Artigo 14.º «Alimentação e alojamento - Em espécie» ... 511000$00
+Artigo 14.º «Alimentação e alojamento - Em espécie» ... 511000$00
 
-###### Artigo 17.º «Vestuário e artigos pessoais - Em espécie» ... 30000$00
+Artigo 17.º «Vestuário e artigos pessoais - Em espécie» ... 30000$00
 
-###### Artigo 23.º «Remunerações diversas - Previdência social» ... 480000$00
+Artigo 23.º «Remunerações diversas - Previdência social» ... 480000$00
 
-###### Artigo 28.º «Classes inactivas» ... 50000$00
+Artigo 28.º «Classes inactivas» ... 50000$00
 
-###### Artigo 29.º «Bens duradouros»:
+Artigo 29.º «Bens duradouros»:
 
 N.º 3 «Material de aquartelamento e alojamento» ... 200000$00
 
@@ -130,23 +134,23 @@ N.º 5 «Material fabril, oficinal e de laboratório» ... 100000$00
 
 N.º 8 «Outros bens duradouros» ... 250000$00
 
-###### Artigo 30.º «Bens não duradouros»:
+Artigo 30.º «Bens não duradouros»:
 
 N.º 5 «Consumos de secretaria» ... 450000$00
 
-###### Artigo 31.º «Conservação e aproveitamento de bens» ... 5460000$00
+Artigo 31.º «Conservação e aproveitamento de bens» ... 5460000$00
 
-###### Artigo 32.º «Despesas gerais de funcionamento»:
+Artigo 32.º «Despesas gerais de funcionamento»:
 
 N.º 6 «Publicidade e propaganda» ... 110000$00
 
 Despesas de capital:
 
-###### Artigo 39.º «Investimentos»:
+Artigo 39.º «Investimentos»:
 
 N.º 1 «Terrenos» ... 126000$00
 
-###### Artigo 45.º «Activos financeiros»:
+Artigo 45.º «Activos financeiros»:
 
 N.º 6 «Empréstimos não titulados a médio prazo» ... 358763$90
 

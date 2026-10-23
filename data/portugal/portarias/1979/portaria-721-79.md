@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 300/1979, 2º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3478-(9) a 3478-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30002/00090009.pdf
 entry_into_force_dates: []
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/721-1979-231171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c31b6cc18aecf62ddb5b753624d60ad7e2ff92748d3c912e17853b414067f6bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c5f4768444e8f9b1bd107d2980848d0307a68357d7370780d2c9a77ebd9b32b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Despesas Públicas
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:48Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +98,9 @@ Tendo em vista as disposições do artigo 10.º do [Decreto-Lei n.º 211/79](htt
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Habitação e Obras Públicas, o seguinte:
 
-###### Artigo 1.º É autorizado o Laboratório Nacional de Engenharia Civil a celebrar contrato para a construção das novas instalações para a Divisão de Estradas e Aeródromos, durante os anos de 1979-1980, até à importância de 27586068$00.
+Artigo 1.º É autorizado o Laboratório Nacional de Engenharia Civil a celebrar contrato para a construção das novas instalações para a Divisão de Estradas e Aeródromos, durante os anos de 1979-1980, até à importância de 27586068$00.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1979 - 10000000$00.
 

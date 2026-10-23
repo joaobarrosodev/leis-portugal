@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 305/2004, 1º Suplemento, Série I-A de 2004-12-31
   number: '305'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7452-(2) a 7452-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/305a01/00020013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/243-a/2004/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-a-2004-209451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1df774776b94c6cdc1c2a01f34f340d785886a8f72004f17073d5928aa7700b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2031d3526b0236422362f807adc8947a0c899139790e6ef51838795557eec267
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Produto Químico
-- Pnale
-- Efeito de Estufa
-- Licença de Emissão
 - Aproximação das Legislações
+- Atividade Industrial
 - CE Países
-- Multa
+- Comércio
 - Comunidade Europeia
 - Contra-ordenação
 - Definição de Competências
+- Efeito de Estufa
 - Gás
 - Instituto do Ambiente
+- Licença de Emissão
 - Licenciamento
+- Multa
+- Pnale
+- Produto Químico
 - Proteção do Ambiente
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:259892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469070:por
+  label: "Alterados os arts. 4º, 6º e 34 do Dec Lei 233/2004 de 14-Dez, republicado pelo presente diploma, pelo DEC LEI.230/2005.29.12.2005.MAOTDR,\
+    \ DR.IS-A [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2005-469070
+  date: '2005-12-29'
+- type: amended_by
+  target: pt:dre:671384:por
+  label: "Alterados os arts. 12º e 26º do Dec Lei 233/2004 de 14-Dez, na redacção do presente diploma, pelo DEC LEI.72/2006.24.03.2006.MAOTDR,\
+    \ DR.IS-A [60] de 24.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2006-671384
+  date: '2006-03-24'
+- type: amended_by
+  target: pt:dre:492216:por
+  label: "Alterados os art.s 25º e 26º do Dec Lei 233/2004, de 14-Dez, na redacção do presente diploma, pelo DEC LEI.154/2009.06.07.2009.MAOTDR,\
+    \ DR.IS [128] de 06.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2009-492216
+  date: '2009-07-06'
+- type: amended_by
+  target: pt:dre:612397:por
+  label: "Alterado o art. 26.º do Dec Lei 233/2004, de 14-Dez, na redacção do presente diploma, pelo DEC LEI.30/2010.08.04.2010.MAOT,\
+    \ DR.IS [68] de 08.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2010-612397
+  date: '2010-04-08'
 - type: cites
   target: celex:31993D0389
   label: null
@@ -107,16 +131,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/233/2004/12/14/p/dre
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, ( sem prejuízo do disposto no art. 35.º do presente Dec Lei 38/2013 de 15-mar,\
+    \ que mantém em vigor até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante\
+    \ o que ocorrer primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças\
+    \ de emissão e aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, na redação\
+    \ do presente diploma, pelo DEC LEI.38/2013.15.03.2013.MAMAOT, DR.IS [53] de 15.03.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
-  article_count: 45
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:11Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +206,9 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -183,7 +218,9 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 4 - O Instituto do Ambiente deve conceder licenças de emissão para o período em curso, a fim de substituir as licenças anuladas nos termos do n.º 3.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O operador que não devolva, até 30 de Abril de cada ano civil, licenças de emissão suficientes para cobrir as suas emissões no ano anterior fica sujeito ao pagamento, pelas emissões excedentárias, de (euro) 100 por cada tonelada de dióxido de carbono equivalente emitida pela instalação relativamente à qual não devolveu licenças.
 
@@ -193,7 +230,9 @@ c) As instalações estão sujeitas à aplicação de penalização, pelo menos,
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de (euro) 1500 a (euro) 3740, no caso de pessoas singulares, e de (euro) 3500 a (euro) 44890, no caso de pessoas colectivas, as seguintes infracções:
 
@@ -221,15 +260,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - José Pedro Aguiar Branco - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 23 de Dezembro de 2004.**
+Promulgado em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Republicação
 
@@ -309,7 +348,9 @@ Compete à entidade coordenadora do licenciamento remeter ao Instituto do Ambien
 
 Compete à Direcção-Geral de Geologia e Energia (DGGE) acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia, promovendo em articulação com o Instituto do Ambiente reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas a), c), e), g) e h) do n.º 1 do artigo 4.º
 
-### CAPÍTULO III — Título de emissão de gases com efeito de estufa
+### CAPÍTULO III
+
+## Título de emissão de gases com efeito de estufa
 
 ###### Artigo 7.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 

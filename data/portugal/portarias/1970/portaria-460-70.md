@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/460-1970-149242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59a57360e088352e32e9279ccde58ed1b6b128f8759210425b6633059f414208
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ad36c4c92c41e374ab8b42779b0fd89e4cd87770904c3e2d272076dc5d65b83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Portuária
+- Junta Autónoma do Porto de Setúbal
+- Prestação de Serviços
+- Regulamento
+- Tarifa Portuária
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:684419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684419:por
+  label: "Mantidas em vigor as tarifas provisórias da Junta Autónoma do Porto de Setúbal constantes do regulamento aprovado\
+    \ pela Port 15594 de 03-Nov de 1955, alterado no presente diploma, pela PORT.172/73.08.03.1973.MCOMN, DG.IS [57] de 08.03.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/172-1973-684419
+  date: '1973-03-08'
+- type: cites
+  target: pt:dre:138833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:32Z'
   warnings: []
   errors: []
 ---
@@ -101,6 +126,6 @@ Julga-se esta nova fórmula equitativa e equilibrada com as de outros portos, so
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, que o artigo 36.º do Regulamento de Tarifas da Junta Autónoma do Porto de Setúbal, aprovado pela [Portaria n.º 15594](https://diariodarepublica.pt/dr/detalhe/portaria/15594-1955-245539), de 3 de Novembro de 1955, passe a ter a seguinte redacção:
 
-###### Art. 36.º A taxa de utilização do porto aplicável à mercadoria classificada como carga geral, carregada, descarregada ou transbordada, é, por tonelada ou metro cúbico, de 12$00.
+Art. 36.º A taxa de utilização do porto aplicável à mercadoria classificada como carga geral, carregada, descarregada ou transbordada, é, por tonelada ou metro cúbico, de 12$00.
 
 Ministério das Comunicações, 27 de Agosto de 1970. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

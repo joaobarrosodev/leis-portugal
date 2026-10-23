@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/2007/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2007-635810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ce005b61195d8ea41e15dacb73613561a5e78a849ad105ea8bf15c22b4b4148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a2c22a418333363d3e8f374abafbb956f8758e6c1baef67d2b8482cc465d290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Multa
-- Direção Geral da Saúde
-- Definição de Competências
-- Fiscalização
-- ASAE
-- Alimentação Humana
 - Aditivo Alimentar
-- Suplemento Alimentar
+- Alimentação Humana
+- Aproximação das Legislações
+- ASAE
 - Comércio
+- Definição de Competências
+- Direção Geral da Saúde
+- Fiscalização
+- Multa
+- Produto Alimentar
+- Suplemento Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:335468:por
@@ -108,16 +108,21 @@ relationships:
   target: celex:32006L0034
   label: null
   source: http://data.europa.eu/eli/dir/2006/34/oj
+- type: repealed_by
+  target: pt:dre:335468:por
+  label: "Revogado, a partir de 26.06.2010, pelo DEC LEI.74/2010.21.06.2010.MADRP, DR.IS [118] de 21.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2010-335468
+  date: '2010-06-21'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:42Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +165,9 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º
 
 3 - A negligência e a tentativa são puníveis.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A fiscalização e instrução dos processos compete à Direcção-Geral da Saúde, coadjuvada pelas autoridades de saúde, sem prejuízo das competências de fiscalização e instrução conferidas à Autoridade de Segurança Alimentar e Económica.
 
@@ -182,15 +189,15 @@ a) Na secção relativa à «Categoria 1 - Vitaminas», o título da rubrica «�
 
 b) Na secção relativa à «Categoria 1 - Vitaminas», é aditada a seguinte linha, na rubrica «Folato»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
 
 c) Na secção relativa à «Categoria 2 - Minerais», é aditada a seguinte linha, na rubrica «Magnésio»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
 
 d) Na secção relativa à «Categoria 2 - Minerais», é aditada a seguinte linha, na rubrica «Ferro»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
 
 ###### Artigo 3.º — Republicação
 
@@ -202,15 +209,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Pereira Serrasqueiro - António Fernando Correia de Campos.
 
-**Promulgado em 23 de Abril de 2007.**
+Promulgado em 23 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 241/2002, de 5 de Novembro
 
@@ -306,7 +313,7 @@ Das decisões proferidas pela Direcção-Geral da Saúde ao abrigo dos artigos 3
 
 ## ANEXO I — Substâncias para fins nutricionais específicos que podem ser utilizados no fabrico de géneros alimentícios destinados a uma alimentação especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12700/43354340.pdf)
 
 ## ANEXO II
 

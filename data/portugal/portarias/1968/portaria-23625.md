@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23625-1968-264512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6046854fb61bd021318645a755e8847bd66557416df04aa6ac702996fdb6710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95bb0d68976cc7feaeb9f2c3c8032d8206cc13c85166abbebcc74b1ae55a69c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,28 @@ relationships:
   target: pt:dre:262798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:59Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +103,15 @@ Tornando-se necessário aplicar ao ultramar as disposições fundamentais respei
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º 111 da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas o [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, com excepção dos artigos 2.º e 12.º com as alterações seguintes:
 
-###### Artigo 1.º De harmonia com os preceitos do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, mandado aplicar ao ultramar com as alterações constantes da [Portaria n.º 22944](https://diariodarepublica.pt/dr/detalhe/portaria/22944-1967-387824), de 4 de Outubro de 1967, e do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, mandado aplicar ao ultramar pela presente portaria, será publicado o Estatuto do Ciclo Preparatório do Ensino Secundário, no qual se incluirão as disposições necessárias ao funcionamento desse ciclo, instituído pelo citado [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967.
+Artigo 1.º De harmonia com os preceitos do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, mandado aplicar ao ultramar com as alterações constantes da [Portaria n.º 22944](https://diariodarepublica.pt/dr/detalhe/portaria/22944-1967-387824), de 4 de Outubro de 1967, e do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, mandado aplicar ao ultramar pela presente portaria, será publicado o Estatuto do Ciclo Preparatório do Ensino Secundário, no qual se incluirão as disposições necessárias ao funcionamento desse ciclo, instituído pelo citado [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967.
 
 ...
 
-###### Art. 3.º - 1. As categorias e vencimentos do pessoal docente, administrativo e menor das escolas preparatórias do ensino secundário são os estabelecidos na tabela n.º 1 anexa a este diploma.
+Art. 3.º - 1. As categorias e vencimentos do pessoal docente, administrativo e menor das escolas preparatórias do ensino secundário são os estabelecidos na tabela n.º 1 anexa a este diploma.
 
 2. As remunerações do pessoal docente por serviço extraordinário são as estabelecidas na tabela n.º 2 anexa a este diploma.
 
-###### Art. 4.º - 1. São as constantes da tabela n.º 3 anexa ao presente decreto-lei as gratificações atribuídas:
+Art. 4.º - 1. São as constantes da tabela n.º 3 anexa ao presente decreto-lei as gratificações atribuídas:
 
 a) Aos directores, subdirectores, secretários, directores de turmas, metodólogos, professores encarregados da organização dos processos de orientação escolar, participantes nas reuniões e orientação escolar, participantes nas reuniões de centros de interesse e chefes de pessoal menor das escolas preparatórias do ensino secundário;
 
@@ -111,19 +123,19 @@ c) Aos membros dos júris dos exames e admissão ao estágio de professores, dos
 
 2. As gratificações a atribuir aos autores de lições ou conferências extraordinárias feitas aos estagiários, bem como as correspondentes a outras actividades específicas do estágio, serão fixadas em portaria do Ministro do Ultramar.
 
-###### Art. 5.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para os alunos internos que ainda não tenham excedido o limite máximo de idade da obrigatoriedade escolar e cujas condições económicas o justifiquem.
+Art. 5.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para os alunos internos que ainda não tenham excedido o limite máximo de idade da obrigatoriedade escolar e cujas condições económicas o justifiquem.
 
 2. Os alunos não abrangidos pela disposição anterior estão sujeitos ao pagamento das propinas e selos que serão fixados pelos órgãos legislativos da província; mas os alunos carecidos de suficientes recursos económicos beneficiam de isenção ou redução de propinas.
 
-###### Art. 6.º - 1. O Ministro do Ultramar poderá confiar a direcção do estágio dos candidatos a professores de Trabalhos Manuais e de Educação Musical a individualidades nacionais ou estrangeiras que se tiverem distinguido pela sua cultura pedagógica nas respectivas matérias.
+Art. 6.º - 1. O Ministro do Ultramar poderá confiar a direcção do estágio dos candidatos a professores de Trabalhos Manuais e de Educação Musical a individualidades nacionais ou estrangeiras que se tiverem distinguido pela sua cultura pedagógica nas respectivas matérias.
 
 2. As remunerações a atribuir a essas individualidades serão fixadas, caso a caso, por despacho do Ministro do Ultramar.
 
-###### Art. 7.º - 1. Nos casos em que se verificar a impossibilidade de o pessoal administrativo e menor dos quadros dos estabelecimentos de ensino onde funcionar o ciclo preparatório fazer face ao correspondente serviço, poderá ser admitido, a título eventual, o pessoal que for considerado indispensável, por despacho do governador da província.
+Art. 7.º - 1. Nos casos em que se verificar a impossibilidade de o pessoal administrativo e menor dos quadros dos estabelecimentos de ensino onde funcionar o ciclo preparatório fazer face ao correspondente serviço, poderá ser admitido, a título eventual, o pessoal que for considerado indispensável, por despacho do governador da província.
 
 2. As remunerações a atribuir, nunca superiores às iniciais do pessoal dos quadros, serão satisfeitas pelas disponibilidades orçamentais das escolas preparatórias.
 
-###### Art. 8.º - 1. São aditados ao artigo 6.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452) os seguintes números:
+Art. 8.º - 1. São aditados ao artigo 6.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452) os seguintes números:
 
 4. O referido exame de aptidão só começará a funcionar, com base em despacho do Ministro do Ultramar, quando se reconhecer que se encontra devidamente estruturada, na prática, a orientação escolar própria do ciclo preparatório.
 
@@ -131,11 +143,11 @@ c) Aos membros dos júris dos exames e admissão ao estágio de professores, dos
 
 2. Os artigos 17.º e 27.º do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), com as alterações que lhes foram introduzidas pela [Portaria n.º 22944](https://diariodarepublica.pt/dr/detalhe/portaria/22944-1967-387824), passam a ter a seguinte redacção:
 
-###### Art. 17.º Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, a requerimento dos pais ou tutores, e nas de Desenho, Trabalhos Manuais e Educação Física, com base em parecer médico e segundo regime a definir em despacho ministerial.
+Art. 17.º Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, a requerimento dos pais ou tutores, e nas de Desenho, Trabalhos Manuais e Educação Física, com base em parecer médico e segundo regime a definir em despacho ministerial.
 
 ...
 
-###### Art. 27.º ...
+Art. 27.º ...
 
 ...
 
@@ -143,7 +155,7 @@ c) Aos membros dos júris dos exames e admissão ao estágio de professores, dos
 
 5. Quando nas instalações de determinado estabelecimento de ensino funcionar outro, em harmonia com o previsto no presente artigo, haverá unidade de direcção administrativa e disciplinar, a cargo do primeiro estabelecimento, salvo se o edifício permitir completa separação entre eles.
 
-###### Art. 9.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente colocados, sem necessidade de qualquer formalidade, como disciplina de provimento, visto do Tribunal de Contas ou Administrativo e posse, nas correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas, ficando a ocupar nessa escola a posição de professores efectivos dos correspondentes grupos ou especialidades.
+Art. 9.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente colocados, sem necessidade de qualquer formalidade, como disciplina de provimento, visto do Tribunal de Contas ou Administrativo e posse, nas correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas, ficando a ocupar nessa escola a posição de professores efectivos dos correspondentes grupos ou especialidades.
 
 2. Os seguintes professores dos quadros de outros estabelecimentos de ensino técnico profissional são automàticamente colocados sem necessidade de qualquer formalidade, como diploma de provimento, posse e visto do Tribunal de Contas ou Administrativo, nas escolas preparatórias das mesmas localidades:
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04100/0135901360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2009/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2009-604622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b796180b88cdf56324c29dc28277144047fb512d5add9828615bebc3a1016401
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12047d94befd105c412bfffc416c57169aa54ff3535a30e29661cfefef6e75fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
 - Ajudas de Custo
 - Carreira Militar
+- Contrato de Trabalho
 - Exército
 - Força Aérea
-- Marinha
-- Sistema Retributivo
-- Graduação Militar
-- Remuneração Acessória
 - Forças Armadas
+- Graduação Militar
+- Marinha
+- Militar
 - Prestações Familiares
 - Quadro Permanente das Forças Armadas
-- Contrato de Trabalho
 - Remuneração
-- Militar
+- Remuneração Acessória
+- Sistema Retributivo
+- Subsídio de Alimentação
 - Subsídio de Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:229857716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491439:por
+  label: "Mantido em vigor o disposto no Dec Lei 328/99, de 18-Ago, na redacção do presente diploma, pelo DEC LEI.296/2009.14.10.2009.MDN,\
+    \ DR.IS [199] de 14.10.2009, em tudo o que não o contrarie.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-2009-491439
+  date: '2009-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/2002/10/17/p/dre
   label: null
@@ -99,16 +105,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:432456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229857716:por
+  label: Revogado, a partir de 8 de dezembro de 2023, pelo(a) Decreto-Lei n.º 114-E/2023 - Diário da República n.º 236/2023,
+    1º Suplemento, Série I de 2023-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-e-2023-229857716
+  date: '2023-12-07'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:49Z'
   warnings: []
   errors: []
 ---
@@ -189,16 +217,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 20 de Fevereiro de 2009.**
+Promulgado em 20 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Fevereiro de 2009.**
+Referendado em 23 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO V — (a que se refere o n.º 3 do artigo 7.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04100/0135901360.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04100/0135901360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04100/0135901360.pdf)

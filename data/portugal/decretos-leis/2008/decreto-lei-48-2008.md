@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2008/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2008-247029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e227836065948c392aabf50f32f6198e57997ab61a808f23ea050769542f48b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb5a494e736b4a91f7a5543fd034838d1eaf26a290cd13bebb139040f3de2dbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Aquisição de Bens e Serviços
-- INEM
-- Serviço de Saúde
-- Saúde
-- Unidade de Saúde Familiar
 - Administração Regional de Saúde
-- Empreitada de Obras Públicas
-- Serviço Nacional de Saúde
-- Locação Financeira
+- Aquisição de Bens e Serviços
 - Cuidados Médicos
+- Empreitada de Obras Públicas
 - Estabelecimento Hospitalar
+- INEM
+- Locação Financeira
+- Rede
+- Saúde
+- Serviço de Saúde
+- Serviço Nacional de Saúde
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:612642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601678:por
+  label: "Prorrogado até 31 de Dezembro de 2009, o âmbito de vigência e alterado o art. 1º do presente diploma, pelo DEC LEI.31/2009.04.02.2009.MS,\
+    \ DR.IS [24] de 04.02.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2009-601678
+  date: '2009-02-04'
+- type: amended_by
+  target: pt:dre:612642:por
+  label: "Prorrogado o âmbito de vigência do presente diploma, alterado o seu art. 1.º e revogadas as als. b) e c) do mesmo\
+    \ artigo, alterado pelo Dec Lei 31/2009 de 04-Fev, pelo DEC LEI.25/2010.29.03.2010.MS, DR.IS [61] de 29.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2010-612642
+  date: '2010-03-29'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:55Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +150,12 @@ O presente decreto-lei produz efeitos desde 1 de Janeiro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 17 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 28 de Fevereiro de 2008.**
+Promulgado em 28 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Março de 2008.**
+Referendado em 3 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

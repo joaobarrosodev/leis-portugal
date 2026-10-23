@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/2012/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2012-178817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd830304d8a94e19dad9d7c5e6513cc6d9158c4a581bcb8a276710a23407c79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23853fb317103deffeb251bf2ed945f98391a71f0965ed4c307696b6da63e055
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Instituto Nacional de Estatística
-- Infarmed
-- Gestão Financeira
+- Administração Central do Sistema de Saúde
+- Agência para a Modernização Administrativa
+- Base de Dados
+- Caixa Geral de Aposentações
+- Conselho Diretivo
 - Contrato Individual de Trabalho
 - Criação de Serviços
-- Instituto Nacional de Aviação Civil
+- Direcção Geral da Administração Pública
+- Entidade de Serviços Partilhados da Administração Pública
 - Estatuto
-- Caixa Geral de Aposentações
+- Fiscal Único
 - Fundação Pública
 - Gestão do Património
-- Conselho Diretivo
-- Base de Dados
+- Gestão Financeira
+- Infarmed
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto Nacional de Aviação Civil
+- Instituto Nacional de Estatística
 - Instituto Nacional de Medicina Legal e Ciências Forenses
 - Instituto Público
 - Lei Quadro
-- Administração Central do Sistema de Saúde
-- Direcção Geral da Administração Pública
-- Entidade de Serviços Partilhados da Administração Pública
-- Instituto da Habitação e da Reabilitação Urbana
 - Personalidade Jurídica
-- Agência para a Modernização Administrativa
 relationships:
 - type: amended_by
   target: pt:dre:67348949:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498755:por
+  label: "Dada nova redação ao art. 48º da Lei 3/2004 de 15-jan, alterado pelo presente diploma, pelo DEC LEI.102/2013.25.07.2013.MECI,\
+    \ DR.IS [142] de 25.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2013-498755
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:67348949:por
+  label: Alterado o art. 48.º da Lei 3/2004, de 15-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 96/2015 -
+    Diário da República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-2015-67348949
+  date: '2015-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
   label: null
@@ -130,16 +142,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/86/2011/04/11/p/dre
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:43Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +232,9 @@ São alterados os artigos 21.º, 27.º e 48.º da [Lei n.º 3/2004](https://diar
 
 6 - O conselho diretivo pode delegar competências em qualquer dos membros previstos no n.º 1 do artigo 19.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
 
@@ -196,7 +246,9 @@ São alterados os artigos 21.º, 27.º e 48.º da [Lei n.º 3/2004](https://diar
 
 5 - Os critérios de avaliação do grau de complexidade e exigência a que se refere o número anterior são fixados e enquadrados por despacho do membro do Governo responsável pela área das finanças.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -252,12 +304,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 13 de junho de 2012.**
+Promulgado em 13 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de junho de 2012.**
+Referendado em 14 de junho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

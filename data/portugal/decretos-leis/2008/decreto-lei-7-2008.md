@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2008/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2008-386824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0675c73838456f09770e5a3f8a1ff515003dcc8744203b4f81e71e01e825e5a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 623619b400e5de5232835a3df7a8f4df1dff369b7e7dd75cd28e5abdacd0e2cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Administração do Porto de Aveiro
 - Aveiro
-- Programa Polis
 - Domínio Público Marítimo
 - Interesse Público
+- Programa Polis
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/314/2000/12/02/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/72/2005/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/72/2005/03/17/p/dre
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599113:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:23Z'
   warnings: []
   errors: []
 ---
@@ -148,14 +168,14 @@ O terreno a desafectar reverte para o domínio público do Estado, mediante reso
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - João Manuel Machado Ferrão - Mário Lino Soares Correia.
 
-**Promulgado em 19 de Dezembro de 2007.**
+Promulgado em 19 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Dezembro de 2007.**
+Referendado em 20 de Dezembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0022200223.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0022200223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0022200223.pdf)

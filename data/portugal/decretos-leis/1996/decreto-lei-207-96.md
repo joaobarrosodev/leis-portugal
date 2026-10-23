@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/254a00/38793893.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/1996/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1996-179307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6af7f7c5229a56a3ff319776f31097302eae682ca7c62047fb8ee29c8324cdaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edcfab5253bbda797fe9a8e634fa4720b944da3e639975e79d769c1ff7db72a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Educação Especial
-- Formação de Professores
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Ensino Português no Estrangeiro
+- Formação de Professores
 - Pessoal Docente
-- Ensino Básico
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:570766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331178:por
+  label: "Alterados os arts. 27.º, 27.º-A, 28.º e 39.º, com as alterações introduzidas pela Lei 60/93 de 20-Ago, pelo Dec\
+    \ Lei 274/94 de 28-Out e pelo presente diploma, pelo DEC LEI.155/99.1999.05.10.ME DR.IS-A [108]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1999-331178
+  date: '1999-05-10'
+- type: amended_by
+  target: pt:dre:522638:por
+  label: "Alterados os arts. 4º, 5º, 6º, 7º, 13º, 14º e 27º do Regime Jurídico da Formação Contínua de Professores, aprovado\
+    \ pelo Dec Lei 249/92 de 09-Nov, na redacção do presente diploma, pelo DEC LEI.15/2007.19.01.2007.ME, DR.IS [14] de 19.01.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2007-522638
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:520607:por
+  label: "Repristinado desde a entrada em vigor do Dec Lei 15/2007 de 19-Jan (20.01.2007) o nº 4 do art. 27º do Regime Jurídico\
+    \ da Formação Contínua aprovado pelo Dec Lei 249/92 de 09-Nov, com a redacção conferida no presente diploma pelo DEC LEI.200/2007.22.05.2007.ME,\
+    \ DR.IS [98] de 22.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-2007-520607
+  date: '2007-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1992/11/09/p/dre
   label: null
@@ -93,16 +113,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:570766:por
+  label: Revogado, a partir de 16.02.2014, o Dec Lei 249/92 de 09-nov, alterado e republicado pelo presente diploma, pelo
+    DEC LEI.22/2014.11.02.2014.MECI, DR.IS [29] de 11.02.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2014-570766
+  date: '2014-02-11'
 article_structure:
-  article_count: 101
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 102
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:37Z'
   warnings: []
   errors: []
 ---
@@ -505,7 +547,9 @@ a) Secção Coordenadora de Formação Contínua;
 
 b) Secção Coordenadora de Formação Especializada.
 
-###### Artigo 39.º — Secção Coordenadora de Formação Contínua
+###### Artigo 39.º
+
+#### Secção Coordenadora de Formação Contínua
 
 À Secção Coordenadora de Formação Contínua compete:
 
@@ -521,7 +565,9 @@ e) Esclarecer dúvidas relacionadas com a relevância, a avaliação e a certifi
 
 f) Delegar competências em consultores científico-pedagógicos das entidades formadoras para o desenvolvimento de acções de formação nas modalidades de círculo de estudos e projecto.
 
-###### Artigo 40.º — Secção Coordenadora de Formação Especializada
+###### Artigo 40.º
+
+#### Secção Coordenadora de Formação Especializada
 
 À Secção Coordenadora de Formação Especializada compete:
 
@@ -715,15 +761,15 @@ São revogados os artigos 29.º, n.º 2, alínea d), 34.º, n.º 5, 39.º e 42.�
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Fernando Teixeira dos Santos - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 4 de Outubro de 1996.**
+Promulgado em 4 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Outubro de 1996.**
+Referendado em 10 de Outubro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Versão consolidada
 
@@ -899,7 +945,9 @@ h) Círculos de estudos.
 
 ### CAPÍTULO III — Entidades formadoras
 
-#### SECÇÃO I — Artigo 15.º
+#### SECÇÃO I
+
+###### Artigo 15.º
 
 Entidades formadoras
 
@@ -1235,7 +1283,9 @@ a) Secção Coordenadora de Formação Contínua;
 
 b) Secção Coordenadora de Formação Especializada.
 
-###### Artigo 37.º — Secção Coordenadora de Formação Contínua
+###### Artigo 37.º
+
+#### Secção Coordenadora de Formação Contínua
 
 À Secção Coordenadora de Formação Contínua compete:
 
@@ -1251,7 +1301,9 @@ e) Esclarecer dúvidas relacionadas com a relevância, a avaliação e a certifi
 
 f) Delegar competências em consultores científico-pedagógicos das entidades formadoras para o desenvolvimento de acções de formação nas modalidades de círculo de estudos e projecto.
 
-###### Artigo 38.º — Secção Coordenadora de Formação Especializada
+###### Artigo 38.º
+
+#### Secção Coordenadora de Formação Especializada
 
 À Secção Coordenadora da Formação Especializada compete:
 

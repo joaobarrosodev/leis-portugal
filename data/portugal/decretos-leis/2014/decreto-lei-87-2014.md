@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/87/2014/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2014-25345959
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6648c83bb86d7450726b86a23277cb52cf469588f93b588986611397829108f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb6cea027d76b0f11262342e7a3864f10566a8836d3969ec7fe50d30600e656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
+- ÁREA de Serviço
+- Combustível
 - Concurso Público
-- Estrada
 - Contrato de Concessão
 - Definição de Competências
 - EP-Estradas de Portugal
-- Rede de Estradas
-- Combustível
+- Estrada
 - Fiscalização
 - Licenciamento
-- ÁREA de Serviço
 - Posto de Abastecimento de Combustíveis
+- Rede de Estradas
 - Taxa
 - TAXA de Prestação de Serviços
 - Venda
@@ -118,16 +118,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/389/2007/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/389/2007/11/30/p/dre
+- type: cites
+  target: pt:dre:175787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:04Z'
   warnings: []
   errors: []
 ---
@@ -262,12 +306,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2014. - Pedro Passos Coelho - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 22 de maio de 2014.**
+Promulgado em 22 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de maio de 2014.**
+Referendado em 26 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

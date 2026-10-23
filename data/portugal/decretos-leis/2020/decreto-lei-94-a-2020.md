@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 168-(2) a 168-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21401/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94-a/2020/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ce3dc1e7a8bfdde566d9c7bf27a82e8055926b3884e8c31f27829ecae5e806f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f15691e6732a43e87f7fc07fb1755ff29ba173f0ceb580c7d9ed048a04964c65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Regional de Saúde
 - Aposentação
-- Médico
 - Atestado Médico
+- Autoridade para as Condições do Trabalho
+- Centro de Controlo e Monitorização
+- Código do Trabalho
 - Comissão de Recrutamento e Selecção para a Administração Pública
 - Conselho de Administração
-- Contra-ordenação
-- Administração Regional de Saúde
-- Código do Trabalho
-- Serviço Nacional de Saúde
 - Conselho Diretivo
-- Isolamento Profiláctico
-- Documento Eletrónico
+- Contra-ordenação
 - Contratação de Pessoal
+- Contrato de Trabalho
 - Direção Geral do Orçamento
+- Documento Eletrónico
 - Doença Infecciosa
 - Epidemia
+- Gestão de Recursos Humanos
 - Internet
+- Isolamento Profiláctico
+- Médico
+- Plataforma Eletrónica
 - Prorrogação de Prazo
 - Recursos Humanos
-- Contrato de Trabalho
+- Regime do Contrato de Trabalho em Funções Públicas
+- Serviço Nacional de Saúde
 - Teletrabalho
-- Gestão de Recursos Humanos
 - Trabalhador por Conta de Outrem
-- Plataforma Eletrónica
-- Centro de Controlo e Monitorização
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
   label: null
@@ -133,16 +139,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125560576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:36Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +261,7 @@ Regime excecional de contratação de profissionais de saúde para as unidades d
 
 2 - A Administração Central do Sistema de Saúde, I. P., comunica mensalmente à Direção-Geral do Orçamento a informação sobre os contratos a que se refere o número anterior.
 
-###### Artigo 6.º-C
+Artigo 6.º-C
 
 Regime excecional de contratação de enfermeiros para exercício de funções nas unidades de saúde pública das Administrações Regionais de Saúde, I. P., e das Unidades Locais de Saúde, E. P. E.
 
@@ -225,11 +271,15 @@ Regime excecional de contratação de enfermeiros para exercício de funções n
 
 3 - O regime estabelecido no presente artigo configura razão de interesse público excecional para os efeitos previstos no n.º 1 do artigo 78.º do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de dezembro, na sua redação atual.
 
-###### Artigo 8.º-A — Regime excecional aplicável aos mandatos dos titulares dos órgãos máximos de gestão das unidades de saúde que integram o Serviço Nacional de Saúde
+Artigo 8.º-A
+
+Regime excecional aplicável aos mandatos dos titulares dos órgãos máximos de gestão das unidades de saúde que integram o Serviço Nacional de Saúde
 
 Os membros dos conselhos de administração ou conselhos diretivos das unidades de saúde que integram o SNS, respetivamente com natureza de entidade pública empresarial ou integradas no setor público administrativo, cujo mandato tenha cessado após 31 de dezembro de 2019, sem que tenha sido designado novo titular, podem manter-se em exercício de funções até 31 de dezembro de 2021, mediante despacho do membro do Governo responsável pela área da saúde.
 
-###### Artigo 19.º-A — Declaração provisória de isolamento profilático
+Artigo 19.º-A
+
+Declaração provisória de isolamento profilático
 
 1 - É emitida aos trabalhadores por conta de outrem, bem como aos trabalhadores independentes do regime geral de segurança social, uma declaração provisória de isolamento profilático sempre que, na sequência de contacto com o SNS24, se verifique uma situação de risco suscetível de determinar o processo de avaliação e declaração do isolamento profilático previsto no n.º 1 do artigo anterior.
 
@@ -245,7 +295,9 @@ Os membros dos conselhos de administração ou conselhos diretivos das unidades 
 
 7 - Para efeitos do disposto no presente artigo, a impossibilidade de realização de teletrabalho é atestada por uma declaração da entidade patronal.
 
-###### Artigo 19.º-B — Emissão desmaterializada
+Artigo 19.º-B
+
+Emissão desmaterializada
 
 1 - A declaração provisória de isolamento profilático e a declaração de isolamento profilático são emitidas em formato eletrónico e desmaterializado.
 
@@ -255,7 +307,9 @@ Os membros dos conselhos de administração ou conselhos diretivos das unidades 
 
 4 - Os modelos de declaração provisória de isolamento profilático e de declaração de isolamento profilático, bem como a duração da sua disponibilização online, serão definidos através de despacho dos membros do Governo responsáveis pelas áreas da saúde e do trabalho e segurança social.
 
-###### Artigo 35.º-P — Prorrogação do prazo de informação do registo de fundações
+Artigo 35.º-P
+
+Prorrogação do prazo de informação do registo de fundações
 
 O prazo a que se refere o n.º 2 do artigo 9.º do [Decreto-Lei n.º 157/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2019-125560576), de 22 de outubro, é prorrogado até 31 de dezembro de 2020.»
 
@@ -273,11 +327,15 @@ Os artigos 2.º, 5.º e 7.º do [Decreto-Lei n.º 79-A/2020](https://diariodarep
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 A empresa utilizadora ou beneficiária final dos serviços prestados é responsável por assegurar o cumprimento do disposto nos artigos 3.º, 4.º e 5.º-A, com as necessárias adaptações, aos trabalhadores temporários e prestadores de serviços que estejam a prestar atividade para essas entidades.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Constitui contraordenação muito grave a violação do disposto nos artigos 3.º a 5.º e constitui contraordenação grave a violação do disposto nos n.os 1 e 2, bem como o incumprimento por parte do empregador da decisão referida no n.º 4 do artigo 5.º-A.
 
@@ -323,12 +381,14 @@ Teletrabalho
 
 Visto e aprovado em Conselho de Ministros de 31 de outubro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 3 de novembro de 2020.**
+Promulgado em 3 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de novembro de 2020.**
+Referendado em 3 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113704214

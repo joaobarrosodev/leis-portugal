@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29300/33353337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1981-567061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d4af88a88aaa90bbd7ff660a45f22f4e56f97d2e8e4e77690f72996348b7e2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 203e8caaae24279dd8bdbf3b59ab119a06de5d8cbc216bf3937c43bffbc41cac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete de Relações Culturais Internacionais
+- Ministério da Cultura e Coordenação Científica
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:517442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311438:por
+  label: "Adita uma alínea g) ao artigo 1.º pelo DR.13/83.1983.02.22.MCCC, DR.IS [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-1983-311438
+  date: '1983-02-22'
+- type: amended_by
+  target: pt:dre:325090:por
+  label: "Aumentado um lugar de técnico superior principal letra D ao quadro de pessoal definido, pela PORT.177/85.03.04.1985.PCM,\
+    \ DR.IS [78] de 03.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-1985-325090
+  date: '1985-04-03'
+- type: amended_by
+  target: pt:dre:410289:por
+  label: "Mantido em vigor, na redacção dada pelo Decreto Regulamentar n.º 13/83, de 22 de Fevereiro, pelo DEC LEI.106-H/92.01.06.1992.PCM,\
+    \ DR.IS-A [126]Supl de 01.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-h-1992-410289
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PASSOU PARA A DEPENDENCIA DO MINISTRO DA CULTURA ATRAVES DO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:517442:por
+  label: "Totalmente revogado pelo DEC LEI.58/97.1997.03.19.MC, DR.IS-A [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-1997-517442
+  date: '1997-03-19'
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:31Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +138,7 @@ Considerando ser necessário regulamentar as disposições do [Decreto-Lei n.º 
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao Gabinete das Relações Culturais Internacionais, adiante designado por GRCI, compete:
+Artigo 1.º Ao Gabinete das Relações Culturais Internacionais, adiante designado por GRCI, compete:
 
 a) Estudar, coordenar e participar na execução dos projectos e programas de acção cultural do Ministério da Cultura e Coordenação Científica no estrangeiro;
 
@@ -108,7 +152,7 @@ e) Promover e organizar, segundo orientação do Ministério dos Negócios Estra
 
 f) Colaborar com outros departamentos do Estado na criação e na programação das actividades culturais dos institutos e centros portugueses no estrangeiro.
 
-###### Art. 2.º O GRCI compreende os seguintes órgãos e serviços:
+Art. 2.º O GRCI compreende os seguintes órgãos e serviços:
 
 a) Director;
 
@@ -116,7 +160,7 @@ b) Direcção de Serviços do Intercâmbio Cultural;
 
 c) Direcção de Serviços das Relações Culturais Internacionais.
 
-###### Art. 3.º À Direcção de Serviços do Intercâmbio Cultural compete, em articulação com o Ministério dos Negócios Estrangeiros:
+Art. 3.º À Direcção de Serviços do Intercâmbio Cultural compete, em articulação com o Ministério dos Negócios Estrangeiros:
 
 a) Coordenar e programar as actividades culturais do Ministério da Cultura e Coordenação Científica no estrangeiro;
 
@@ -130,7 +174,7 @@ e) Colaborar com outros departamentos do Estado na criação e na programação 
 
 f) Recolher, preparar e promover no âmbito do Ministério da Cultura e Coordenação Científica a difusão da informação cultural internacional relativa às organizações internacionais, governamentais ou não governamentais.
 
-###### Art. 4.º À Direcção de Serviços das Relações Culturais Internacionais compete, em articulação com o Ministério dos Negócios Estrangeiros:
+Art. 4.º À Direcção de Serviços das Relações Culturais Internacionais compete, em articulação com o Ministério dos Negócios Estrangeiros:
 
 a) Colaborar com outros departamentos do Estado nos estudos, negociações e outros actos conducentes à adesão ou celebração de tratados, acordos e convenções bilaterais ou multilaterais no âmbito cultural;
 
@@ -144,13 +188,13 @@ e) Estudar e dar parecer sobre a equiparação a bolseiros do Estado fora do Pa�
 
 f) Propor, de acordo com a legislação em vigor, a constituição de comissões ad hoc para apreciação e selecção dos pedidos de bolsas referidos nas alíneas d) e e), bem como sobre as equiparações referidas na alínea anterior.
 
-###### Art. 5.º A Direcção-Geral dos Serviços Centrais do Ministério da Cultura e Coordenação Científica apoiará administrativamente o GRCI.
+Art. 5.º A Direcção-Geral dos Serviços Centrais do Ministério da Cultura e Coordenação Científica apoiará administrativamente o GRCI.
 
-###### Art. 6.º - 1 - O pessoal do quadro do GRCI é o constante do mapa anexo ao presente diploma.
+Art. 6.º - 1 - O pessoal do quadro do GRCI é o constante do mapa anexo ao presente diploma.
 
 2 - O pessoal do GRCI será distribuído pelos serviços mediante despacho do director do Gabinete.
 
-###### Art. 7.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 1 do artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+Art. 7.º - 1 - O provimento do pessoal do quadro a que se refere o n.º 1 do artigo anterior será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -168,22 +212,22 @@ a) No lugar de origem, quando à comissão não se seguir provimento definitivo;
 
 b) No lugar do quadro referido no n.º 1 do artigo 6.º em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 8.º Aos cargos dirigentes previstos no quadro de pessoal incluído no mapa a que se refere o n.º 1 do artigo 6.º é aplicável o regime do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+Art. 8.º Aos cargos dirigentes previstos no quadro de pessoal incluído no mapa a que se refere o n.º 1 do artigo 6.º é aplicável o regime do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 9.º São providos por despacho do membro do Governo que tutelar a área da cultura, observadas as disposições constantes do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, os lugares do quadro a que se refere o n.º 1 do artigo 6.º
+Art. 9.º São providos por despacho do membro do Governo que tutelar a área da cultura, observadas as disposições constantes do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, os lugares do quadro a que se refere o n.º 1 do artigo 6.º
 
-###### Art. 10.º O lugar de consultor cultural poderá ser provido por indivíduo de reconhecida competência e mérito cultural, independentemente das suas habilitações literárias, que preste serviço no Ministério da Cultura e Coordenação Científica, a qualquer título, há mais de 1 ano, devendo o despacho de nomeação ser acompanhado, para publicação, do curriculum do nomeado.
+Art. 10.º O lugar de consultor cultural poderá ser provido por indivíduo de reconhecida competência e mérito cultural, independentemente das suas habilitações literárias, que preste serviço no Ministério da Cultura e Coordenação Científica, a qualquer título, há mais de 1 ano, devendo o despacho de nomeação ser acompanhado, para publicação, do curriculum do nomeado.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros de Estado e das Finanças e do Plano e da Reforma Administrativa e do membro do Governo responsável pela área da Cultura, quando estiverem em causa matérias das respectivas competências.
+Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho dos Ministros de Estado e das Finanças e do Plano e da Reforma Administrativa e do membro do Governo responsável pela área da Cultura, quando estiverem em causa matérias das respectivas competências.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - André Roberto Delaunay Gonçalves Pereira - Francisco António Lucas Pires - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 3 de Dezembro de 1981.**
+Promulgado em 3 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.
 
 Mapa anexo a que se refere o n.º 1 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29300/33353337.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29300/33353337.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29300/33353337.pdf)

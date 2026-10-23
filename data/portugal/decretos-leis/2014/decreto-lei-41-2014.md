@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/05400/0206902072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/41/2014/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2014-571935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d2e50fe95c7046255e790c71a8bd9b7ac9b6d94c36b31ec964138a935364d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa1b102eadd76f9edaf45f640f1e7d9492a83a772f925d638d3163bd8b339eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Direito de Acesso
 - Comunidade Europeia
-- ETI
+- Direito de Acesso
 - Equipamento de Veículo
+- ETI
 - Rede Ferroviária
 - Transporte de Passageiros
 relationships:
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:65943541:por
+  label: Alterados os arts. 23.º e 27.º bem como o anexo III do Dec Lei 27/2011, de 17-fev, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 179/2014 - Diário da República n.º 244/2014, Série I de 2014-12-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2014-65943541
+  date: '2014-12-18'
 - type: cites
   target: celex:31993D0465
   label: null
@@ -100,15 +106,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/27/2011/02/17/p/dre
 article_structure:
-  article_count: 11
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:17Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +173,9 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -185,7 +193,9 @@ f) [...].
 
 8 - Por entidade adjudicante, entende-se qualquer entidade, pública ou privada, que encomende o projeto e ou a construção, a renovação ou a readaptação de um subsistema, podendo essa entidade ser uma empresa ferroviária, um gestor de infraestrutura, um detentor ou o concessionário responsável pela execução de um projeto.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Qualquer autorização concedida por um Estado membro é válida em todos os Estados Membros, sem prejuízo do disposto nos artigos 23.º e 26.º relativamente às autorizações complementares.
 
@@ -203,7 +213,9 @@ f) [...].
 
 8 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Qualquer decisão de recusa de entrada em serviço de um veículo deve ser devidamente fundamentada.
 
@@ -219,7 +231,9 @@ f) [...].
 
 7 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -237,7 +251,9 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -257,7 +273,9 @@ b) [...]
 
 c) [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -281,7 +299,9 @@ b) Anterior alínea b) do n.º 6;
 
 c) Anterior alínea c) do n.º 6.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -311,15 +331,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 12 de março de 2014.**
+Promulgado em 12 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2014.**
+Referendado em 13 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -403,7 +423,9 @@ Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2014. - Pedro Pa
 
 2.7.5.1. - Devem ser tomadas medidas adequadas a fim de assegurar que os subsistemas de aplicações telemáticas para os serviços de passageiros proporcionem a funcionalidade necessária para garantir acessibilidade às pessoas com deficiência ou com mobilidade reduzida.
 
-## ANEXO VIII — [...]
+ANEXO VIII
+
+[...]
 
 [...]
 

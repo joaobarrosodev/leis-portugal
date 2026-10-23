@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20300/0000300009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2019/10/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2019-125560575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c8314641d1d43a0be833e700c726a42f54656c92ec94948104672a2527d90d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f5769aa094fe41ae1f020fd310a8a5bfba1d0efba79a888a474d3163a86d4b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Interconexão de Dados
+- Agência de Avaliação e Acreditação do Ensino Superior
+- Avaliação das Instituições
+- Base de Dados
+- Bolsa de Estudos
 - Bolseiro
-- Investigação Científica e Tecnológica
-- Fundação para a Ciência e a Tecnologia
 - Comissão Nacional de Protecção de Dados
 - Conselho Superior de Estatística
 - Contrato de Prestação de Serviços
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Emprego
 - Ensino Cooperativo
-- Agência de Avaliação e Acreditação do Ensino Superior
+- Ensino Superior
+- Equipamento Informático
 - Escola Superior
 - Estatuto
+- Fundação para a Ciência e a Tecnologia
 - Informática
-- Base de Dados
-- TIC
 - Inquérito
-- Investigação
-- Avaliação das Instituições
-- Lista Nominativa
-- Equipamento Informático
-- Página na Internet
+- Interconexão de Dados
 - Internet
-- Emprego
+- Investigação
+- Investigação Científica e Tecnológica
+- Lista Nominativa
 - Observatório das Ciências e das Tecnologias
-- Ensino Superior
-- Bolsa de Estudos
-- Universidade Católica Portuguêsa
-- Plataforma Eletrónica
-- Observatório do Emprego Científico e Docente
 - Observatório das Competências Digitais
+- Observatório do Emprego Científico e Docente
+- Página na Internet
+- Plataforma Eletrónica
+- Regulamentação de Atos Legislativos
+- TIC
+- Universidade Católica Portuguêsa
 relationships:
 - type: cites
   target: celex:31995L0046
@@ -142,16 +142,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66/2019/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66/2019/08/26/p/dre
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124171136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:31Z'
   warnings: []
   errors: []
 ---
@@ -392,12 +428,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2019. - António Luís Santos da Costa - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 9 de setembro de 2019.**
+Promulgado em 9 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2019.**
+Referendado em 12 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112680034

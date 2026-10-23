@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1984-385600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee1d579790e28e7745ce4edbb8180cfbf226c51cb647e96e540aa800199c4c9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0acc23e7751f2956c10883e947927f3fd4bc255c9d6a31ef364e227c904ce6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Bacharelato
+- Curso de Contabilidade e Administração
+- Ensino Superior
+- Instituto Superior de Contabilidade e Administração
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:444771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO DE ESTUDOS CONSTANTE DOS ANEXOS I E II A PORT 948/83 DE 26-OUT (NA REDACÇÃO CONSTANTE DA PORT 60/84\
+    \ DE 26-JAN E DO PRESENTE DIPLOMA) E ALTERADOS OS NUM 2 E 5 DA MESMA PORT, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA,\
+    \ PELA PORT 189/96 DE 30-MAI DR.IS [126]\0DR.IS [126]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-05-30'
+- type: cites
+  target: pt:dre:441707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660887:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:04:54Z'
   warnings: []
   errors: []
 ---
@@ -121,9 +150,9 @@ O plano de estudos do curso conducente ao bacharelato em Contabilidade e Adminis
 
 Ministério da Educação.
 
-**Assinada em 7 de Junho de 1984.**
+Assinada em 7 de Junho de 1984.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO I — Curso de Contabilidade e Administração
 
@@ -131,8 +160,8 @@ Grau: bacharelato
 
 Do QUADRO I ao QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf)
 
 ## ANEXO II — Do QUADRO I ao QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15600/20552056.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2013/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2013-258531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c881cb27d371d6ff575e748da7becb36dd36574e5c5cf14a69f344152d0dd35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fad861f9bb440fcb0a502a86c6d6f85c6bd0ecf10b404776c90d592d331546c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Livro de Reclamações
-- Multa
 - Concurso Público
 - Controlo de Qualidade
 - Definição de Competências
 - Especificação Técnica
 - Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Inspecção de Veículos
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Licenciamento
-- Veículo
-- Segurança Rodoviária
+- Livro de Reclamações
+- Multa
 - Normas de Segurança
 - Pessoal de Inspecção
 - Pessoal Técnico de Inspecção
 - Preço
 - Proteção do Consumidor
 - Regime Jurídico
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:1139191706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1139191706:por
+  label: Alterado, a partir de 27 de junho de 2026, o artigo 18.º da presente Lei, pelo(a) Decreto-Lei n.º 127/2026 - Diário
+    da República n.º 122/2026, Série I de 2026-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2026-1139191706
+  date: '2026-06-26'
 - type: cites
   target: celex:32009L0040
   label: null
@@ -103,15 +109,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/11/2011/04/26/p/dre
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:51Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +180,9 @@ c) [...];
 
 d) Nos concelhos pertencentes às áreas metropolitanas de Lisboa e do Porto em que, da aplicação dos critérios de distância referidos na alínea anterior, resulte não ser possível, por razões de dimensão territorial dos municípios, proceder à instalação de novos centros, é adotado o critério de distância mínima entre centros de 1,5 km.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -194,7 +202,9 @@ c) Existência obrigatória de uma área para a inspeção de veículos de duas 
 
 6 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -220,7 +230,9 @@ c) [...].
 
 9 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -254,7 +266,9 @@ a) Se a entidade gestora não assegurar a aprovação do centro de inspeção, n
 
 b) [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - As tarifas das inspeções e das reinspeções são de valor fixo, estabelecido em função do tipo de inspeção e da categoria do veículo, conforme previsto por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
@@ -262,7 +276,9 @@ b) [...].
 
 3 - [Anterior n.º 2].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -274,7 +290,9 @@ b) [...].
 
 5 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -292,7 +310,9 @@ b) [...].
 
 8 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -334,12 +354,12 @@ Os atos e os procedimentos necessários à execução do presente diploma nas Re
 
 Visto e aprovado em Conselho de Ministros de 3 de janeiro de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira.
 
-**Promulgado em 12 de fevereiro de 2013.**
+Promulgado em 12 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de fevereiro de 2013.**
+Referendado em 14 de fevereiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

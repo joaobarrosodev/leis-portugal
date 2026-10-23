@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/28/2009/10/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42ab85c275e0c067e4d9094a0552bc7c3f07cb430edf18dd30475ca934bc5d59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48819888eccc4ab18f82810b1ff7e05e08610ca15f377a1df7c5ac609a23a1ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,46 +67,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
-- PSP
+- Administração Regional de Saúde
 - ALTO Comissário para o Projecto VIDA
 - Aproximação das Legislações
-- Região Autónoma
-- Indústria Farmacêutica
-- Publicidade
-- Multa
-- Infarmed
-- Direção Geral da Saúde
-- Instituto da Droga e da Toxicodependência
+- ASAE
+- Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
-- Administração Regional de Saúde
-- Direcção Geral do Comércio
+- Direção Geral da Saúde
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Geral do Comércio
+- Droga
+- Embalagem
 - Etiquetagem
+- Exportação
 - Fabrico Industrial
 - Fiscalização
-- Inspecção Geral das Actividades Económicas
-- Ministério da Justiça
-- Importação
-- ASAE
-- Licenciamento
-- Embalagem
-- GNR
 - Gabinete de Planeamento e de Coordenação do Combate à Droga
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
-- Droga
-- Transporte de Mercadorias
-- Exportação
-- Presidente
-- Receita Médica
-- Regime Jurídico
+- GNR
+- Importação
+- Indústria Farmacêutica
+- Infarmed
+- Inspecção Geral das Actividades Económicas
+- Instituto da Droga e da Toxicodependência
+- Licenciamento
+- Ministério da Justiça
+- Multa
 - Polícia Judiciária
-- Comércio
+- Presidente
+- Produto Químico
+- PSP
+- Publicidade
+- Receita Médica
+- Região Autónoma
+- Regime Jurídico
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117821810:por
+  label: Alterado a partir de 01.02.2019 o art. 43.º do DR 61/94, de 12-out, na redação do presente diploma pelo(a) Decreto-Lei
+    n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2019-117821810
+  date: '2019-01-15'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 68.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º, 75.º, 76.º, 77.º, 78.º, 79.º,
+    80.º, 83.º, 84.º e 85.º e revogado o art. 66.º do DR 61/94 de 12-out, na versão republicada pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:31989R1164
   label: null
@@ -152,15 +165,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/decregul/61/1994/10/12/p/dre
 article_structure:
-  article_count: 156
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 103
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:36Z'
   warnings: []
   errors: []
 ---
@@ -229,17 +242,23 @@ l) 'Colocação no mercado' qualquer fornecimento, na Comunidade a terceiros, a 
 
 m) 'Operador' a pessoa singular ou colectiva que se dedica à colocação no mercado de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos susceptíveis de desvio para o fabrico de droga.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
 2 - A colocação no mercado, a importação, a exportação, as actividades intermédias, o trânsito e a detenção, a qualquer título, das substâncias inventariadas ficam sujeitos às disposições do presente decreto regulamentar e da regulamentação comunitária aplicável.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 As regras e os conceitos técnicos contidos no presente decreto regulamentar são entendidos de harmonia com as convenções relativas a estupefacientes e substâncias psicotrópicas ratificadas pelo Estado Português e com a regulamentação comunitária aplicável.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Compete ao presidente do conselho de administração do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., com faculdade de delegação nos restantes membros do conselho e em todo o pessoal dirigente do instituto, proferir os despachos de autorização, revogação ou suspensão das actividades previstas no n.º 1 do artigo 2.º, no prazo de 60 dias.
 
@@ -247,7 +266,9 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os pedidos de autorização ou de manutenção de autorização de quaisquer actividades previstas no n.º 1 do artigo 2.º são dirigidos ao presidente do INFARMED, em suporte de papel ou por via electrónica, neles se identificando a entidade singular ou colectiva que os subscreve, através do bilhete de identidade ou cartão de cidadão, do cartão de identificação de pessoa colectiva ou equiparada, para além das menções particulares referidas noutros preceitos.
 
@@ -259,7 +280,9 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A idoneidade dos requerentes afere-se pelo teor do registo criminal, pelo cadastro das coimas, bem como pelos elementos obtidos através do Instituto da Droga e da Toxicodependência, I. P. (IDT, I. P.), cuja recolha é efectuada com respeito pelos direitos, liberdades e garantias dos cidadãos e atendendo exclusivamente aos interesses públicos em matéria de saúde e de combate ao tráfico de estupefacientes e substâncias psicotrópicas.
 
@@ -267,7 +290,9 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 3 - No que respeita aos estabelecimentos hospitalares do Estado, civis ou militares, é dispensada a audição do IDT, I. P., bem como a apresentação dos certificados de registo criminal e de cadastro de coimas.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -279,13 +304,17 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O INFARMED comunica ao IDT, I. P., as autorizações concedidas para a prática de qualquer das actividades mencionadas no n.º 1 do artigo 2.º, bem como a respectiva prorrogação, suspensão ou revogação.
 
 2 - O IDT, I. P., informa a Polícia Judiciária (PJ), a Polícia de Segurança Pública (PSP), a Guarda Nacional Republicana (GNR) e a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) das autorizações concedidas, com indicação de qual ou quais destas autoridades são especialmente responsáveis pelo controlo das operações e em que termos.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +324,9 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - No mês de Julho de cada ano, o INFARMED, atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções, estabelece as quantidades das substâncias compreendidas nas tabelas i e ii, com excepção da ii-A, que podem ser fabricadas ou postas à venda pelas entidades autorizadas, no decurso do ano seguinte.
 
@@ -305,7 +336,9 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 4 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -317,13 +350,17 @@ As regras e os conceitos técnicos contidos no presente decreto regulamentar sã
 
 5 - Só pode ser ministrado tratamento com estupefaciente substituto sob autorização e controlo do IDT, I. P.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Só mediante apresentação de receita médica ou médico-veterinária, conforme modelo a aprovar por portaria do membro do Governo responsável pela área da saúde, podem ser fornecidas ao público, para tratamento, as substâncias e preparações compreendidas nas tabelas i e ii.
 
 2 - A aprovação do modelo de receita referido no número anterior é precedida de parecer do INFARMED, no âmbito do qual devem ser ouvidas a Direcção-Geral da Saúde, as administrações regionais de saúde, a Ordem dos Médicos, a Ordem dos Médicos Veterinários, a Ordem dos Farmacêuticos e a Associação Nacional de Farmácias.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - O farmacêutico que avie uma receita especial respeitante a substâncias estupefacientes ou psicotrópicas verifica a identidade do adquirente e anota à margem do original da receita o nome, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão ou, no caso de estrangeiros, do passaporte, indicando a data de entrega e assinando de forma legível.
 
@@ -345,7 +382,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -357,7 +396,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -365,11 +406,15 @@ d) ...
 
 3 - No prazo de 10 dias, o farmacêutico comunica ao INFARMED os casos de fornecimento efectuado de acordo com o número anterior, identificando-se, bem como ao doente, e indicando os elementos constantes do modelo de receita a que se refere o artigo 27.º
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 A subtracção, o extravio ou a inutilização de livros de registo, de registo informático e de requisições, bem como de livros de receitas, são participados, por escrito, à autoridade policial local, à PJ e ao INFARMED, imediatamente ou nas vinte e quatro horas subsequentes ao conhecimento do facto, pela entidade responsável pela sua guarda, narrando circunstanciadamente os factos e fornecendo, se possível, os números de série dos documentos.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -383,7 +428,9 @@ A subtracção, o extravio ou a inutilização de livros de registo, de registo 
 
 6 - As farmácias autorizadas a substituir os livros e registos manuais pelo registo informático podem efectuar o envio referido nos n.os 1 e 5 através de transmissão electrónica de dados, de acordo com requisitos a definir pelo INFARMED.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -401,11 +448,17 @@ d) Para emissão dos certificados de exportação e de importação - (euro) 33,
 
 4 - ...
 
-### CAPÍTULO III — Licenciamento, autorização, condicionamento e controlo das substâncias inventariadas
+CAPÍTULO III
 
-#### SECÇÃO I — Produção, fabrico, transformação e armazenagem
+Licenciamento, autorização, condicionamento e controlo das substâncias inventariadas
 
-###### Artigo 45.º — Competência da Direcção-Geral das Actividades Económicas
+SECÇÃO I
+
+Produção, fabrico, transformação e armazenagem
+
+Artigo 45.º
+
+Competência da Direcção-Geral das Actividades Económicas
 
 1 - Compete ao director-geral das Actividades Económicas, ou à entidade em quem este delegar:
 
@@ -417,7 +470,9 @@ b) Efectuar o registo dos operadores que intervenham na produção, fabrico, tra
 
 3 - Em caso de delegação de competências, as entidades delegadas comunicam à Direcção-Geral das Actividades Económicas (DGAE) a informação prevista nos n.os 1 e 2.
 
-###### Artigo 46.º — Pedido de licença
+Artigo 46.º
+
+Pedido de licença
 
 1 - A fim de obter a licença referida no artigo anterior, para além dos elementos referidos no artigo 5.º do Regulamento (CE) n.º [1277/2005](http://data.europa.eu/eli/reg/2005/1277/oj?locale=pt), da Comissão, de 27 de Junho, o operador deve apresentar um pedido, em papel ou por via electrónica, acompanhado dos seguintes elementos:
 
@@ -439,7 +494,9 @@ f) Planta de implantação das instalações do operador para as actividades pre
 
 4 - Sempre que se verifique qualquer alteração às informações fornecidas em conformidade com o número anterior, o titular da licença deve informar a DGAE, no prazo de 10 dias a contar da data dessa alteração.
 
-###### Artigo 47.º — Revogação, suspensão e caducidade da licença
+Artigo 47.º
+
+Revogação, suspensão e caducidade da licença
 
 1 - A licença pode ser revogada ou suspensa:
 
@@ -453,7 +510,9 @@ d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º [27
 
 2 - A licença caduca nos casos previstos nos n.os 3 do artigo 8.º e 7 do artigo 11.º do Decreto-Lei n.º 15/93, de 22 de Janeiro.
 
-###### Artigo 48.º — Informação sobre a actividade
+Artigo 48.º
+
+Informação sobre a actividade
 
 1 - (Revogado.)
 
@@ -465,7 +524,9 @@ d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º [27
 
 5 - Os registos a que se reporta o n.º 1 devem ser conservados pelo prazo de três anos.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Os produtores, fabricantes, transformadores ou armazenistas das substâncias inventariadas da categoria 1 devem adoptar medidas de segurança adequadas relativamente às mesmas, em conformidade com o disposto no artigo 6.º do Regulamento (CE) n.º [1277/2005](http://data.europa.eu/eli/reg/2005/1277/oj?locale=pt), da Comissão, de 27 de Junho.
 
@@ -473,15 +534,21 @@ d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º [27
 
 3 - Em caso de subtracção, perda ou extravio das substâncias referidas nos n.os 1 e 2, ou dos registos de informação sobre a actividade a que se refere o n.º 1 do artigo 48.º-A, os produtores, fabricantes, transformadores ou armazenistas participam de imediato a ocorrência à autoridade policial local, à PJ e à DGAE, não podendo exceder as vinte e quatro horas subsequentes à constatação do facto.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 A fiscalização do disposto no presente decreto regulamentar e no Decreto-Lei n.º 15/93, de 22 de Janeiro, no que respeita à produção, fabrico, transformação ou armazenagem das substâncias inventariadas incumbe à ASAE.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Pela concessão da licença para o exercício das actividades previstas no n.º 1 do artigo 45.º é devida uma taxa de (euro) 100, cuja cobrança é efectuada nos termos do Decreto-Lei n.º 5/84, de 5 de Janeiro.
 
-###### Artigo 52.º — Competência da DGAIEC
+Artigo 52.º
+
+Competência da DGAIEC
 
 1 - Compete à DGAIEC:
 
@@ -497,7 +564,9 @@ c) Emitir as autorizações de importação e exportação para as substâncias 
 
 4 - (Revogado.)
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A licença pode ser revogada ou suspensa:
 
@@ -511,9 +580,13 @@ d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º [27
 
 2 - ...
 
-#### SECÇÃO III — Fiscalização
+SECÇÃO III
 
-###### Artigo 59.º — [...]
+Fiscalização
+
+Artigo 59.º
+
+[...]
 
 1 - Compete à ASAE, em colaboração com o INFARMED, sem prejuízo das competências da DGAIEC, fiscalizar as actividades autorizadas de colocação no mercado, de aquisição, de armazenagem, de transporte e de detenção das substâncias inventariadas da categoria 1.
 
@@ -523,11 +596,17 @@ d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º [27
 
 4 - A instauração e a instrução dos processos contra-ordenacionais por violação dos preceitos previstos neste decreto regulamentar são da competência da entidade que dela tomar conhecimento, no âmbito das respectivas funções de controlo e fiscalização.
 
-### CAPÍTULO IV — [...]
+CAPÍTULO IV
 
-#### SECÇÃO I — Instituto da Droga e da Toxicodependência, I. P.
+[...]
 
-###### Artigo 60.º — [...]
+SECÇÃO I
+
+Instituto da Droga e da Toxicodependência, I. P.
+
+Artigo 60.º
+
+[...]
 
 1 - Compete ao IDT, I. P.:
 
@@ -543,9 +622,13 @@ c) ...
 
 4 - As entidades que forneçam dados de natureza estatística a instâncias da Organização das Nações Unidas, do Conselho da Europa, da Organização Internacional de Polícia Criminal/INTERPOL e do Conselho de Cooperação Aduaneira, em matéria de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos essenciais para a obtenção de droga, enviam cópia dos mesmos à PJ e ao IDT, I. P.
 
-#### SECÇÃO II — Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC)
+SECÇÃO II
 
-###### Artigo 61.º — [...]
+Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC)
+
+Artigo 61.º
+
+[...]
 
 1 - Compete à DGAIEC zelar pelo cumprimento da legislação comunitária referida no n.º 2 do artigo 2.º e dos procedimentos aduaneiros relativos à importação, exportação e trânsito das plantas, substâncias e preparações constantes das tabelas i a iv e das substâncias inventariadas, podendo designar as estâncias competentes para respectivo desembaraço aduaneiro.
 
@@ -553,27 +636,37 @@ c) ...
 
 3 - Compete à DGAIEC tomar as medidas necessárias tendentes a evitar o desvio das substâncias ou preparações para destino diferente do indicado na autorização, solicitando, se necessário, a colaboração de outras autoridades.
 
-###### Artigo 62.º — Cooperação administrativa com a Comissão Europeia e os Estados membros
+Artigo 62.º
+
+Cooperação administrativa com a Comissão Europeia e os Estados membros
 
 1 - A DGAIEC e a DGAE são as entidades competentes nos termos e para os efeitos do disposto no n.º 1 do artigo 11.º do Regulamento (CE) n.º [273/2004](http://data.europa.eu/eli/reg/2004/273/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de Fevereiro.
 
 2 - A DGAIEC é a entidade competente nos termos e para os efeitos do disposto no n.º 2 do artigo 11.º do Regulamento (CE) n.º [273/2004](http://data.europa.eu/eli/reg/2004/273/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de Fevereiro, e do artigo 27.º do Regulamento (CE) n.º [111/2005](http://data.europa.eu/eli/reg/2005/111/oj?locale=pt), do Conselho, de 22 de Dezembro de 2004.
 
-###### Artigo 63.º — Infracções tributárias
+Artigo 63.º
+
+Infracções tributárias
 
 A violação das normas referidas no artigo 61.º constitui contra-ordenação aduaneira e segue as disposições constantes do regime geral das infracções tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 Os operadores devem, logo que tomem conhecimento de encomendas ou de transacções de substâncias inventariadas suspeitas de serem desviadas para o tráfico ilícito de estupefacientes ou substâncias psicotrópicas, notificar a PJ e, bem assim, as respectivas autoridades licenciadoras, nos termos da regulamentação comunitária.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
 2 - A aplicação das coimas e sanções acessórias, nos termos da secção iii do presente capítulo, é da competência da autoridade administrativa que tomar conhecimento da infracção contra-ordenacional, no âmbito das respectivas funções de controlo e fiscalização.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Quem, tendo obtido autorização para a prática de qualquer das actividades previstas no n.º 1 do artigo 2.º, utilizar as substâncias ou preparações compreendidas nas tabelas i a iv ou a autorização para fim diferente do que lhe foi concedido é punido, por contra-ordenação, com coima de (euro) 499 a (euro) 2057,54, no caso de pessoas singulares, e de (euro) 998 a (euro) 24 940, no caso de pessoas colectivas.
 
@@ -581,31 +674,43 @@ Os operadores devem, logo que tomem conhecimento de encomendas ou de transacçõ
 
 3 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 O prosseguimento de actividade com violação do disposto no artigo 8.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, constitui contra-ordenação, punível com coima de (euro) 50 a (euro) 2494, no caso de pessoas singulares, e de (euro) 100 a (euro) 4988, no caso de pessoas colectivas.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O fornecimento de substâncias ou preparações compreendidas nas tabelas i a iv sem receita médica, especial ou normal, constitui contra-ordenação, punível com coima de (euro) 249 a (euro) 2494, no caso de pessoas singulares, e de (euro) 498 a (euro) 4988, no caso de pessoas colectivas.
 
 2 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 O farmacêutico, ou quem o substituir na sua ausência ou impedimento, que aviar receita com violação do disposto nos n.os 1, 2 e 3 do artigo 28.º é punido, por contra-ordenação, com coima de (euro) 125 a (euro) 1247, no caso de pessoas singulares, e de (euro) 250 a (euro) 2494, no caso de pessoas colectivas.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - Quem, ao requerer autorização para a prática de actividades previstas no n.º 1 do artigo 2.º ou a manutenção da autorização a que se refere o n.º 1 do artigo 8.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, mencionar elementos errados, com vista à obtenção ou manutenção daquela autorização, é punido, por contra-ordenação, com coima de (euro) 499 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 998 a (euro) 9976, no caso de pessoas colectivas.
 
 2 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 A falta de declaração de excedentes nos termos do artigo 14.º, ou a sua declaração errada, constitui contra-ordenação, punível com coima de (euro) 249 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 498 a (euro) 9976, no caso de pessoas colectivas.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - A entrega de substâncias e preparações compreendidas nas tabelas i a iv sem a requisição a que se refere o artigo 18.º ou a pessoas diferentes das mencionadas no artigo 20.º constitui contra-ordenação, punível com coima de (euro) 50 a (euro) 249, no caso de pessoas singulares, e de (euro) 100 a (euro) 498, no caso de pessoas colectivas.
 
@@ -613,11 +718,15 @@ A falta de declaração de excedentes nos termos do artigo 14.º, ou a sua decla
 
 3 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 A exportação de substâncias ou preparações compreendidas nas tabelas i, ii e iv com violação do disposto nos n.os 1, 2 e 4 do artigo 25.º constitui contra-ordenação, punível com coima de (euro) 249 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 498 a (euro) 9976, no caso de pessoas colectivas.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - A falta de preenchimento dos livros, documentos e registos exigidos no capítulo ii, ou o seu preenchimento errado, constitui contra-ordenação, punível com coima de (euro) 499 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 998 a (euro) 14 964, no caso de pessoas colectivas.
 
@@ -625,11 +734,15 @@ A exportação de substâncias ou preparações compreendidas nas tabelas i, ii 
 
 3 - O preenchimento irregular dos livros e documentos referidos no n.º 1 constitui contra-ordenação, punível com coima de (euro) 50 a (euro) 125, no caso de pessoas singulares, e de (euro) 100 a (euro) 250, no caso de pessoas colectivas.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 A falta de remessa das receitas para controlo ou o não cumprimento do disposto no n.º 3 do artigo 34.º, a não prestação de informações exigidas pelas autoridades com base no artigo 4.º e a falta de remessa dos relatórios e documentos a que se refere o artigo 41.º constituem contra-ordenação, punível, cada uma, com coima de (euro) 50 a (euro) 499, no caso de pessoas singulares, e de (euro) 100 a (euro) 998, no caso de pessoas colectivas.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Quem tiver a seu cargo a guarda, ou for responsável pela segurança, das substâncias ou preparações compreendidas nas tabelas i a iv e, por incúria ou falta de adopção das medidas impostas nos termos do n.º 2 do artigo 36.º, der causa à sua subtracção ou extravio é punido, por contra-ordenação, com coima de (euro) 50 a (euro) 2494, no caso de pessoas singulares, e de (euro) 100 a (euro) 4988, no caso de pessoas colectivas.
 
@@ -637,11 +750,15 @@ A falta de remessa das receitas para controlo ou o não cumprimento do disposto 
 
 3 - A falta de comunicação ou a comunicação fora de prazo à autoridade policial, nos termos dos n.os 2, 3 e 4 do artigo 20.º, constitui contra-ordenação, punível com coima de (euro) 50 a (euro) 1247, no caso de pessoas singulares, e de (euro) 100 a (euro) 2494, no caso de pessoas colectivas.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 A publicidade respeitante a substâncias e preparações compreendidas nas tabelas i a iv fora do que se dispõe no presente decreto regulamentar constitui contra-ordenação, punível com coima de (euro) 499 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 998 a (euro) 19 952, no caso de pessoas colectivas.
 
-###### Artigo 80.º — Incumprimento das obrigações
+Artigo 80.º
+
+Incumprimento das obrigações
 
 1 - O exercício de qualquer das actividades previstas no n.º 2 do artigo 2.º sem a devida licença ou registo de operador constitui contra-ordenação, punível com coima de (euro) 1500 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 3000 a (euro) 44 891,81, no caso de pessoas colectivas.
 
@@ -665,17 +782,23 @@ A publicidade respeitante a substâncias e preparações compreendidas nas tabel
 
 11 - Pode ser aplicada a sanção acessória de interdição de actividade autorizada, por um período máximo de dois anos contados a partir da data da decisão condenatória definitiva.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - Quem, ao requerer a autorização ou licença para a prática de actividades ou operações previstas no n.º 2 do artigo 2.º, mencionar elementos errados, com vista a obter aquela autorização ou licença, incorre em contra-ordenação, punível com coima de (euro) 1500 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 3000 a (euro) 44 891,81, no caso de pessoas colectivas.
 
 2 - ...
 
-###### Artigo 84.º — Violação da obrigação de colaboração
+Artigo 84.º
+
+Violação da obrigação de colaboração
 
 O incumprimento do disposto no artigo 64.º constitui contra-ordenação, punível com coima de (euro) 1500 a (euro) 3740,98, no caso de pessoas singulares, e de (euro) 3000 a (euro) 44 891,81, no caso de pessoas colectivas.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -699,7 +822,9 @@ Adaptação à forma electrónica
 
 2 - As normas constantes da presente secção devem ser ajustadas para cumprimento do disposto no número anterior, através de portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 48.º-A — Registo de operador - Substâncias inventariadas das categorias 2 e 3
+Artigo 48.º-A
+
+Registo de operador - Substâncias inventariadas das categorias 2 e 3
 
 1 - Qualquer operador que intervenha na produção, fabrico, transformação ou armazenagem das substâncias inventariadas das categorias 2 e 3 deve efectuar um registo de operador na DGAE, ou na entidade em quem esta delegar, mediante o preenchimento de um impresso próprio, disponível no sítio na Internet da DGAE, que deve ser acompanhado da fotocópia do cartão de identificação fiscal do operador, ou de bilhete de identidade, no caso de este ser pessoa colectiva, ou da indicação dos elementos do cartão de cidadão, no caso de ser pessoa singular.
 
@@ -709,17 +834,23 @@ Adaptação à forma electrónica
 
 4 - O registo de operador é válido por três anos a contar da data da respectiva emissão.
 
-###### Artigo 52.º-A — Pedido de licença
+Artigo 52.º-A
+
+Pedido de licença
 
 Ao pedido de licença previsto na presente subsecção aplicam-se as regras estabelecidas no artigo 46.º
 
-###### Artigo 52.º-B — Condições de segurança
+Artigo 52.º-B
+
+Condições de segurança
 
 1 - Os operadores que intervenham nas actividades referidas no artigo anterior ficam obrigados a adoptar as medidas de segurança adequadas referidas no artigo 49.º
 
 2 - Em caso de subtracção, perda ou extravio das substâncias inventariadas, os operadores devem participam de imediato a ocorrência à autoridade policial local, à PJ e à DGAIEC, no prazo de vinte e quatro horas a contar da constatação do facto.
 
-###### Artigo 62.º-A — Cooperação entre as autoridades nacionais
+Artigo 62.º-A
+
+Cooperação entre as autoridades nacionais
 
 O INFARMED, a DGAE, a DGAIEC, a ASAE, a PJ, o IDT, I. P., ou outras entidades intervenientes devem promover a troca de informações e implementar mecanismos para uma efectiva cooperação administrativa e técnica tendentes à execução das suas competências no âmbito do presente decreto regulamentar.»
 
@@ -765,15 +896,15 @@ O presente decreto regulamentar entra em vigor 30 dias após a data da sua publi
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 30 de Setembro de 2009.**
+Promulgado em 30 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Outubro de 2009.**
+Referendado em 1 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto Regulamentar n.º 61/94, de 12 de Outubro
 

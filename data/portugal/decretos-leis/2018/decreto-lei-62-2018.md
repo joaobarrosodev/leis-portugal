@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15000/0379603803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2018/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2018-115924012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f727ebd344f7afd0da9a131439a5c3ecb80564146247d703c684ff93faf73b9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5d63be07aaa9998011e9f292ab3cafcc93036ef7e9b030aa4be12bb02c887c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Ajuda Humanitária
-- Nacionalidade
-- Residência de Estrangeiros
-- Financiamento
 - Cidadão Estrangeiro
 - Concurso de Acesso
 - Concurso de Ingresso
 - Definição de Competências
+- Direção Geral do Ensino Superior
 - Doutoramento
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
-- União Europeia
+- Estabelecimento de Ensino
 - Estatuto
 - Estudante
-- Ação Social
-- ONU
-- Refugiado
+- Financiamento
 - Licenciatura
 - Mestrado
-- Direção Geral do Ensino Superior
-- Universidade
-- Serviço de Estrangeiros e Fronteiras
+- Nacionalidade
+- ONU
 - Organização Internacional para as Migrações
 - Política de Educação
-- Estabelecimento de Ensino
 - Propinas
+- Refugiado
 - Regulamento
-- Ensino Superior
+- Residência de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
 - Sistema de Ensino
+- União Europeia
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:1152696287:por
@@ -148,16 +148,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2016/11/30/p/dre
+- type: cites
+  target: pt:dre:105283924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67552512:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 27
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:48Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +296,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 7.º, 9.º, 10.º,12.º, 13.º, 14.º e 16.º
 
 O presente diploma visa regular o estatuto do estudante internacional a que se refere o n.º 7 do artigo 16.º da [Lei n.º 37/2003](https://diariodarepublica.pt/dr/detalhe/lei/37-2003-656107), de 22 de agosto, na sua redação atual.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -246,13 +328,17 @@ e) [Anterior alínea c).]
 
 9 - O ingresso nas instituições de ensino superior por aqueles que se encontrem abrangidos pelas alíneas a) a d) do n.º 2 é realizado nos mesmos termos que os estudantes com nacionalidade portuguesa.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 13.º, o ingresso dos estudantes internacionais nas instituições de ensino superior em ciclos de estudos conducentes ao grau de licenciado e em ciclos de estudo integrados conducentes ao grau de mestre realiza-se, exclusivamente, através do concurso especial de acesso e ingresso regulado pelo presente diploma.
 
 2 - O ingresso dos estudantes internacionais nas instituições de ensino superior em cursos técnicos superiores profissionais e em ciclos de estudos conducentes ao grau de mestre e doutor realiza-se de acordo com a regulamentação aprovada pelo órgão legal e estatutariamente competente da instituição de ensino superior em causa, devendo as condições de acesso e ingresso fixadas cumprir as disposições legais aplicáveis aos ciclos de estudos em questão.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Podem candidatar-se à matrícula e inscrição nos ciclos de estudos conducentes ao grau de licenciado e nos ciclos de estudos integrados conducentes ao grau de mestre os estudantes internacionais:
 
@@ -260,7 +346,9 @@ a) Titulares de uma qualificação que dê acesso ao ensino superior, entendida 
 
 b) Titulares de um diploma do ensino secundário português ou de habilitação legalmente equivalente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -290,7 +378,9 @@ c) Do cumprimento dos limites definidos no ato de acreditação dos ciclos de es
 
 11 - (Anterior n.º 8.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 5 do artigo 8.º-A, nas instituições de ensino superior públicas, as propinas de inscrição dos estudantes internacionais:
 
@@ -300,21 +390,29 @@ b) [...];
 
 c) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os estudantes internacionais a quem seja atribuído o estatuto de estudante em situação de emergência por razões humanitárias beneficiam de todos os apoios previstos no âmbito da ação social direta e indireta.
 
 2 - Os estudantes internacionais não abrangidos pelo disposto no número anterior beneficiam exclusivamente da ação social indireta.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As instituições de ensino superior, com a colaboração das entidades relevantes, devem tomar iniciativas destinadas a promover a integração académica e social dos estudantes admitidos, organizando as ações que considerem adequadas a uma participação ativa, nomeadamente nos domínios da língua, da cultura, da ciência, da tecnologia e do desporto.
 
-###### Artigo 13.º — Reingresso e mudança de par instituição/curso
+Artigo 13.º
+
+Reingresso e mudança de par instituição/curso
 
 Aos estudantes internacionais admitidos através dos regimes de reingresso e mudança de par instituição/curso a que se refere o regulamento dos regimes de reingresso e de mudança de par instituição/curso no ensino superior, aprovado pela [Portaria n.º 181-D/2015](https://diariodarepublica.pt/dr/detalhe/portaria/181-d-2015-67552512), de 19 de junho, na sua redação atual, aplica-se o disposto nos artigos 9.º a 11.º do presente diploma.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -332,7 +430,9 @@ b) O valor da propina anual e taxa de matrícula e inscrição a pagar pelos est
 
 3 - [...].
 
-###### Artigo 16.º — Propinas dos ciclos de estudos de cursos técnicos superiores profissionais, de mestrado e de doutoramento no ensino superior público
+Artigo 16.º
+
+Propinas dos ciclos de estudos de cursos técnicos superiores profissionais, de mestrado e de doutoramento no ensino superior público
 
 1 - Às propinas a pagar pelos estudantes internacionais dos ciclos de estudos de mestrado a que se refere o n.º 2 do artigo 27.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, ministrados em instituições de ensino superior públicas, aplica-se o disposto no artigo 9.º do presente diploma.
 
@@ -386,15 +486,15 @@ São revogados os n.os 2 a 4 do artigo 18.º do [Decreto-Lei n.º 36/2014](https
 
 Visto e aprovado em Conselho de Ministros de 28 de junho de 2018. - Augusto Ernesto Santos Silva - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 20 de julho de 2018.**
+Promulgado em 20 de julho de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2018.**
+Referendado em 30 de julho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -619,3 +719,5 @@ A aplicação do presente diploma é objeto de avaliação em cada triénio de a
 ###### Artigo 19.º — Produção de efeitos
 
 O presente diploma produz efeitos a partir do ano letivo de 2014-2015, inclusive.
+
+111549664

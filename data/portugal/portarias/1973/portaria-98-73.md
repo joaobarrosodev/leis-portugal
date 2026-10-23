@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-1973-684987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T04:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 552db75c77090d50d3f27ddf2c6b17ede1c26631a3c7ded3537a82749ba5078e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0404ed4810cd0722c85e7c19835a655b5a4e49f88e88b126e9053fb98cd7a01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339383:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:19:20Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +121,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2966.º, n.º 7, alínea a) «Quota-parte da província em encargos na metrópole - Junta de Investigações do Ultramar (artigo 15.º do [Decreto n.º 48750](https://diariodarepublica.pt/dr/detalhe/decreto/48750-1968-262652), de 7 de Dezembro de 1968) - Despesas com o pessoal e material, pagamento de serviços e diversos encargos para realização dos trabalhos científicos conforme o plano de investigações científicas elaborado» ... 378179$00
+Artigo 2966.º, n.º 7, alínea a) «Quota-parte da província em encargos na metrópole - Junta de Investigações do Ultramar (artigo 15.º do [Decreto n.º 48750](https://diariodarepublica.pt/dr/detalhe/decreto/48750-1968-262652), de 7 de Dezembro de 1968) - Despesas com o pessoal e material, pagamento de serviços e diversos encargos para realização dos trabalhos científicos conforme o plano de investigações científicas elaborado» ... 378179$00
 
-###### Artigo 2971.º, n.º 4, alínea a), 1 «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 1000000$00
+Artigo 2971.º, n.º 4, alínea a), 1 «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 1000000$00
 
 ... 1378179$00
 

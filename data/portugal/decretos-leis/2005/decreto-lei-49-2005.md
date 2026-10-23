@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 466deab0463e06c0e47b82abd21150fa1e07cc4198c040e1b39ceda29b37eeec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8450301ad1df80762c83f3397a652af0cfce3d99662083cda0ef6133f4ab23c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Ordenamento do Território
-- Proteção dos Animais
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral dos Recursos Florestais
-- Fiscalização
-- Instituto da Conservação da Natureza
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
+- Fiscalização
+- Instituto da Conservação da Natureza
 - Instituto Nacional de Investigação Agrária
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
 - Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536213:por
+  label: "Alterados os arts. 11.º, 15.º e 15.º-A do Dec Lei 140/99, de 24-abr, na redação do presente diploma, pelo DEC LEI.156-A/2013.08.11.2013.MAOTE,\
+    \ DR.IS [217-2ºSupl] de 08.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-a-2013-536213
+  date: '2013-11-08'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -117,15 +123,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/62/oj
 article_structure:
-  article_count: 69
+  article_count: 40
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:43Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +168,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 1
 
 3 - Os objectivos previstos no número anterior são aplicados tendo em conta as exigências ecológicas, económicas, sociais, culturais e científicas, bem como as particularidades regionais e locais.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O presente diploma é aplicável:
 
@@ -174,7 +182,9 @@ c) ...
 
 2 - O presente diploma não se aplica às espécies aquícolas, com excepção das constantes nos anexos.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para efeitos do presente diploma, entende-se por:
 
@@ -222,11 +232,15 @@ t) «Tipos de uso agrícola e florestal» as culturas anuais de sequeiro, as cul
 
 4 - Para as espécies animais que ocupem zonas extensas, os sítios de importância comunitária, as zonas especiais de conservação e as zonas de protecção especial definidos nas alíneas m), n) e o) do n.º 1 correspondem a locais, dentro da área de distribuição natural dessas espécies, que apresentem características físicas ou biológicas essenciais para a sua vida e reprodução.
 
-###### Artigo 4.º — Âmbito da Rede Natura 2000
+Artigo 4.º
+
+Âmbito da Rede Natura 2000
 
 A Rede Natura 2000 é uma rede ecológica de âmbito europeu que compreende as áreas classificadas como ZEC e as áreas classificadas como ZPE.
 
-###### Artigo 5.º — Classificação de ZEC
+Artigo 5.º
+
+Classificação de ZEC
 
 1 - A classificação de ZEC depende de prévia aprovação da lista de sítios de importância comunitária, pelos órgãos competentes da União Europeia, com base na lista nacional de sítios e segundo o procedimento previsto na Directiva n.º [92/43/CEE](https://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de Maio.
 
@@ -240,7 +254,9 @@ A Rede Natura 2000 é uma rede ecológica de âmbito europeu que compreende as �
 
 6 - Os sítios de importância comunitária previstos no número anterior são classificados, no prazo de seis anos a contar da data do seu reconhecimento, como ZEC, mediante decreto regulamentar.
 
-###### Artigo 6.º — Classificação de ZPE
+Artigo 6.º
+
+Classificação de ZPE
 
 1 - A classificação de ZPE reveste a forma de decreto regulamentar e abrange as áreas que contêm os territórios mais apropriados, em número e em extensão, para a protecção das espécies de aves constantes no anexo A-I, bem como das espécies de aves migratórias não incluídas no referido anexo e cuja ocorrência no território nacional seja regular.
 
@@ -254,7 +270,9 @@ c) Espécies consideradas raras porque as suas populações são reduzidas ou po
 
 d) Espécies que necessitem de particular atenção devido à especificidade do seu habitat.
 
-###### Artigo 7.º — Regime das ZEC
+Artigo 7.º
+
+Regime das ZEC
 
 1 - As ZEC são sujeitas a medidas de conservação que satisfaçam as exigências ecológicas dos tipos de habitats naturais constantes do anexo B-I e das espécies constantes do anexo B-II presentes nos sítios.
 
@@ -276,7 +294,9 @@ a) Planos de gestão que contemplem medidas e acções de conservação adequada
 
 b) Outras medidas regulamentares, administrativas ou contratuais que cumpram os objectivos de conservação visados pelo presente diploma.
 
-###### Artigo 8.º — Ordenamento do território
+Artigo 8.º
+
+Ordenamento do território
 
 1 - Os instrumentos de gestão territorial aplicáveis nas ZEC e nas ZPE devem garantir a conservação dos habitats e das populações das espécies em função dos quais as referidas zonas foram classificadas.
 
@@ -300,7 +320,9 @@ b) As medidas referentes à conservação das espécies da fauna, flora e habita
 
 7 - A adaptação dos planos especiais e dos planos municipais de ordenamento do território existentes, em conformidade com o disposto no número anterior, deve ocorrer no prazo de seis anos após a aprovação do plano sectorial.
 
-###### Artigo 9.º — Actos e actividades condicionados
+Artigo 9.º
+
+Actos e actividades condicionados
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 7.º, as entidades da Administração Pública com intervenção nas zonas especiais de conservação devem, no exercício das suas competências, evitar a deterioração dos habitats naturais e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as zonas foram designadas, na medida em que possam vir a ter um efeito significativo, atendendo aos objectivos do presente diploma.
 
@@ -338,7 +360,9 @@ l) A reintrodução de espécies indígenas da fauna e da flora selvagens.
 
 7 - O Ministro do Ambiente e do Ordenamento do Território, por despacho, pode determinar que a competência para a emissão do parecer previsto no n.º 2 é exercida pelas comissões de coordenação e desenvolvimento regional e do ordenamento do território, em função da área geográfica ou da tipologia do projecto.
 
-###### Artigo 10.º — Avaliação de impacte ambiental e análise de incidências ambientais
+Artigo 10.º
+
+Avaliação de impacte ambiental e análise de incidências ambientais
 
 1 - As acções, planos ou projectos não directamente relacionados com a gestão de um sítio da lista nacional de sítios, de um sítio de interesse comunitário, de uma zona especial de conservação ou de uma zona de protecção especial e não necessários para essa gestão, mas susceptíveis de afectar essa zona de forma significativa, individualmente ou em conjugação com outras acções, planos ou projectos, devem ser objecto de avaliação de incidências ambientais no que se refere aos objectivos de conservação da referida zona.
 
@@ -386,7 +410,9 @@ c) Outras razões imperativas de reconhecido interesse público, mediante parece
 
 13 - As medidas compensatórias aprovadas são comunicadas à Comissão Europeia.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Para assegurar a protecção das espécies de aves previstas na alínea a) do n.º 1 do artigo 2.º e das espécies animais constantes dos anexos B-II e B-IV, é proibido:
 
@@ -434,7 +460,9 @@ a) Instituir um sistema de vigilância permanente das capturas ou abates acident
 
 b) Promover as investigações ou medidas de conservação subsequentes que se revelem adequadas para garantir que as capturas ou abates acidentais não têm um impacte negativo importante nas espécies em questão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Para assegurar a protecção das espécies vegetais constantes dos anexos B-II e B-IV, são proibidos:
 
@@ -446,7 +474,9 @@ b) ...
 
 3 - As proibições previstas no n.º 1 não se aplicam aos espécimes artificialmente propagados.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Para a recolha, captura ou abate de espécimes das espécies da fauna selvagem enumerados na alínea a) do anexo B-V e no anexo D são proibidos todos os meios não selectivos, instalações ou métodos de captura ou de abate, susceptíveis de provocar localmente a extinção ou de perturbar gravemente a tranquilidade das populações das referidas espécies e, em particular:
 
@@ -454,7 +484,9 @@ a) ...
 
 b) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sempre que necessário, são fixadas as medidas adequadas para que a colheita, captura e abate no meio natural, bem como a exploração, de espécimes das espécies da flora e da fauna selvagens constantes nos anexos B-V e D sejam compatíveis com a sua manutenção num estado de conservação favorável.
 
@@ -462,7 +494,9 @@ b) ...
 
 3 - O Governo, por decreto-lei ou, quando aplicável, por portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, fixa as medidas previstas nos n.os 1 e 2.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - É proibido coleccionar espécimes, vivos ou mortos, das espécies previstas nos artigos 11.º e 12.º, incluindo partes ou produtos delas derivados, bem como ninhos e ovos, com excepção das espécies constantes no anexo D quando esses actos sejam permitidos pela legislação que regula o exercício da caça.
 
@@ -472,15 +506,21 @@ b) ...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A introdução na natureza de espécies da flora e da fauna que não ocorram naturalmente no estado selvagem em território nacional bem como a definição das medidas adequadas a esse fim são reguladas em diploma próprio.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 1 do artigo 11.º, a actividade de recolha e tratamento de animais selvagens para promover a sua reprodução, criação em cativeiro ou devolução ao meio natural é regulamentada por portaria do Ministro do Ambiente e do Ordenamento do Território.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A actividade de anilhagem é regulamentada por portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território.
 
@@ -514,7 +554,9 @@ e) Descrição de experiência anterior no exercício da actividade de anilhagem
 
 11 - A anilha metálica deve conter uma numeração individual e uma menção ao serviço competente do ICN.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - É proibida a taxidermia em espécimes das espécies de aves previstas na alínea a) do n.º 1 do artigo 2.º e das espécies de animais inscritas nos anexos B-II, B-IV e B-V, até à entrada em vigor da respectiva regulamentação, por portaria do Ministro do Ambiente e do Ordenamento do Território.
 
@@ -522,7 +564,9 @@ e) Descrição de experiência anterior no exercício da actividade de anilhagem
 
 3 - O disposto nos números anteriores não prejudica a taxidermia para fins de investigação e educação licenciada pelo ICN, nos termos do artigo 20.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os actos e as actividades proibidos nos artigos 11.º, 12.º e 19.º ou a utilização dos meios proibidos nas alíneas a) e b) do artigo 13.º podem ser excepcionalmente permitidos, mediante licença do ICN, desde que não exista alternativa satisfatória, não seja prejudicada a manutenção das populações da espécie em causa num estado de conservação favorável, na sua área de distribuição natural, e quando o acto ou actividade vise atingir uma das seguintes finalidades:
 
@@ -560,13 +604,17 @@ i) Permitir, em condições estritamente controladas pelo ICN e de um modo selec
 
 9 - Sempre que estejam em causa espécies constantes do anexo D, as competências previstas nos números anteriores, desde que previstas na legislação que regula o exercício da caça, são exercidas pelos serviços do Ministério da Agricultura, Pescas e Florestas.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente diploma e respectiva legislação complementar compete ao ICN, às autarquias locais, às comissões de coordenação e desenvolvimento regional, ao Instituto da Água, à Direcção-Geral dos Recursos Florestais, às direcções regionais de agricultura e às autoridades policiais.
 
 2 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima de (euro) 250 a (euro) 3740, aplicável a pessoas singulares, e de (euro) 3990 a (euro) 44890, no caso de pessoas colectivas:
 
@@ -592,7 +640,9 @@ f) A violação do disposto nos n.os 1 e 2 do artigo 19.º
 
 4 - A tentativa é igualmente punível, sendo o valor da coima especialmente atenuado.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Compete ao ICN o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
 
@@ -608,7 +658,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Sem prejuízo da aplicação da coima e das sanções acessórias, o ICN ou a comissão de coordenação e desenvolvimento regional territorialmente competente podem, nos termos dos n.os 1 e 2 do artigo anterior, intimar o infractor a proceder à reposição da situação anterior à infracção, fixando as acções necessárias para o efeito e o respectivo prazo de execução.
 
@@ -616,7 +668,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O regime do presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da administração regional autónoma, a introduzir em diploma regional adequado.
 
@@ -634,13 +688,17 @@ Regime transitório dos sítios da lista nacional de sítios
 
 Aos sítios da lista nacional de sítios aprovados nos termos dos n.os 2 e 3 do artigo 5.º e enquanto não se proceder à sua classificação como ZEC é aplicável o regime previsto no presente diploma para as ZEC.
 
-###### Artigo 7.º-B — Regime das ZPE
+Artigo 7.º-B
+
+Regime das ZPE
 
 1 - As ZPE são sujeitas às medidas de conservação necessárias, nos termos dos diplomas que procedem à sua classificação, bem como às medidas adequadas para evitar a poluição ou a deterioração dos habitats e as perturbações que afectam as espécies de aves do anexo I e das aves migratórias, desde que tenham um efeito significativo a propósito dos objectivos da classificação.
 
 2 - Para efeitos do disposto no número anterior, às ZPE, designadas ou a designar, é aplicável o regime previsto no presente diploma para as ZEC.
 
-###### Artigo 7.º-C — Outros habitats
+Artigo 7.º-C
+
+Outros habitats
 
 1 - Os instrumentos das políticas de ordenamento do território e de desenvolvimento devem manter e, se possível, desenvolver os elementos paisagísticos de importância fundamental para a fauna e a flora selvagens, tendo em vista a melhoria da coerência ecológica da Rede Natura 2000, incluindo através de incentivos à sua gestão adequada.
 
@@ -648,17 +706,23 @@ Aos sítios da lista nacional de sítios aprovados nos termos dos n.os 2 e 3 do 
 
 3 - Os habitats das espécies dos anexos A-I e B-IV, bem como das espécies de aves migratórias não incluídas no anexo A-I e que não sejam abrangidos pela classificação de ZPE, são sujeitos, sempre que possível, a medidas adequadas para evitar a poluição ou a sua deterioração, tendo em vista os objectivos de conservação das espécies visados pela respectiva classificação.
 
-###### Artigo 15.º-A — Espécimes de cativeiro
+Artigo 15.º-A
+
+Espécimes de cativeiro
 
 Os criadores de espécimes de espécies de aves autóctones ou de outras espécies incluídas no âmbito de aplicação do presente diploma devem proceder conforme o estipulado em portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território.
 
-###### Artigo 20.º-A — Vigilância
+Artigo 20.º-A
+
+Vigilância
 
 1 - Compete ao ICN, tendo especialmente em conta os tipos de habitat natural e as espécies prioritárias, assegurar a monitorização e a vigilância sistemática do estado de conservação das espécies e dos habitats previstos no n.º 1 do artigo 2.º
 
 2 - Sem prejuízo do disposto no número anterior, compete aos serviços do Ministério da Agricultura, Pescas e Florestas com intervenção em matéria de actividade cinegética assegurar a monitorização e a vigilância sistemática do estado de conservação das espécies constantes no anexo D.
 
-###### Artigo 25.º-A — Embargo e demolição
+Artigo 25.º-A
+
+Embargo e demolição
 
 Sem prejuízo da coima aplicável e das sanções acessórias, o ICN ou a comissão de coordenação e desenvolvimento regional territorialmente competente podem:
 
@@ -770,15 +834,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix - António Victor Martins Monteiro - Daniel Viegas Sanches - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - Carlos Henrique da Costa Neves - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 31 de Janeiro de 2005.**
+Promulgado em 31 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Fevereiro de 2005.**
+Referendado em 4 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Decreto-Lei n.º 140/99, de 24 de Abril
 

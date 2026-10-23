@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/19000/0000200027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/66/2022/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2022-201699170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5956da7e9b89eeddac4922bf9d2c05ac74dc02ed5b8d0af5dd1bd5c1247590dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866463087b387a4bd2589f394546b5fa3697c90037e406310fc3ff1cfb7b2701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Publicidade
+- ASAE
 - Certificado de Conformidade
+- Comércio
 - Contra-ordenação
-- União Europeia
 - Fiscalização
 - Indústria de Brinquedos
-- ASAE
 - Instituto Português da Qualidade
 - Norma
 - Normas de Segurança
 - Proteção do Consumidor
-- Comércio
+- Publicidade
 - Regime Jurídico das Contraordenações Económicas
+- União Europeia
 relationships:
 - type: cites
   target: celex:31998L0034
@@ -140,6 +140,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:107495706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485180:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0048
   label: null
@@ -149,15 +209,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 66
+  article_count: 54
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:47Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +280,9 @@ Os artigos 5.º, 8.º, 10.º, 13.º, 14.º, 15.º, 17.º, 18.º, 22.º, 23.º, 2
 
 10 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -240,7 +302,9 @@ Os artigos 5.º, 8.º, 10.º, 13.º, 14.º, 15.º, 17.º, 18.º, 22.º, 23.º, 2
 
 9 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -256,7 +320,9 @@ Os artigos 5.º, 8.º, 10.º, 13.º, 14.º, 15.º, 17.º, 18.º, 22.º, 23.º, 2
 
 7 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -270,7 +336,9 @@ b) Os requisitos específicos de segurança previstos no anexo I à portaria a q
 
 4 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Com vista a uma utilização segura dos brinquedos, os avisos, formulados para efeitos dos n.os 2, 3 e 4 do artigo anterior, devem distinguir as limitações específicas aplicáveis aos utilizadores a que efetivamente se destinam, em conformidade com a parte a do anexo II à portaria a que se refere o artigo 40.º-A.
 
@@ -280,7 +348,9 @@ b) Os requisitos específicos de segurança previstos no anexo I à portaria a q
 
 4 - Os brinquedos não podem ser acompanhados de um ou mais do que um dos avisos específicos enumerados na parte b do anexo II à portaria a que se refere o artigo 40.º-A, se estes contrariarem a utilização a que os brinquedos se destinam, em virtude das suas funções, dimensões e características.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -292,11 +362,15 @@ b) Os requisitos específicos de segurança previstos no anexo I à portaria a q
 
 5 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Presume-se que os brinquedos que estão em conformidade com as normas harmonizadas ou partes destas, cujas referências tenham sido publicadas no Jornal Oficial da União Europeia, estão conformes com os requisitos abrangidos pelas referidas normas ou partes destas, estabelecidos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A declaração «CE» de conformidade indica que foi demonstrado o cumprimento dos requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
 
@@ -310,7 +384,9 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Antes da colocação de um brinquedo no mercado, os fabricantes aplicam os procedimentos de avaliação da conformidade previstos nos n.os 2 e 3, a fim de demonstrar que os brinquedos satisfazem os requisitos essenciais de segurança previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A.
 
@@ -318,7 +394,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -338,7 +416,9 @@ b) [...]
 
 9 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A documentação técnica a que se refere o n.º 2 do artigo 5.º deve conter todos os dados ou informações detalhadas relevantes sobre os meios utilizados pelo fabricante para assegurar a conformidade dos brinquedos com os requisitos previstos no artigo 13.º e no anexo I à portaria a que se refere o artigo 40.º-A, devendo conter, em especial, os documentos enumerados no anexo IV à portaria a que se refere o artigo 40.º-A.
 
@@ -350,7 +430,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -358,7 +440,9 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -406,13 +490,13 @@ O presente decreto-lei entra em vigor no dia 5 de dezembro de 2022.
 
 Visto e aprovado em Conselho de Ministros de 8 de setembro de 2022. - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes - António José da Costa Silva.
 
-**Promulgado em 20 de setembro de 2022.**
+Promulgado em 20 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de setembro de 2022.**
+Referendado em 21 de setembro de 2022.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -1064,7 +1148,7 @@ e) Imitações de armas de fogo verdadeiras.
 
 ## ANEXO VI — Requisitos, procedimentos e obrigações dos organismos notificados
 
-# Parte A
+Parte A
 
 Requisitos aplicáveis aos organismos notificados
 
@@ -1116,7 +1200,7 @@ A remuneração dos quadros superiores e do pessoal de avaliação dos organismo
 
 11 - Os organismos de avaliação da conformidade devem participar nas atividades de normalização relevantes e nas atividades do grupo de coordenação dos organismos notificados, criado ao abrigo do artigo 38.º da [Diretiva 2009/48/CE](http://data.europa.eu/eli/dir/2009/48/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de junho, ou assegurar que o seu pessoal de avaliação seja informado dessas atividades, e devem aplicar como orientações gerais as decisões e os documentos administrativos que resultem do trabalho desse grupo.
 
-# Parte B
+Parte B
 
 Subcontratação de atividades pelos organismos notificados
 
@@ -1130,7 +1214,7 @@ Subcontratação de atividades pelos organismos notificados
 
 5 - Os organismos notificados devem manter à disposição da autoridade notificadora os documentos relevantes no que diz respeito à avaliação das qualificações do subcontratado ou da filial e ao trabalho efetuado por estes ao abrigo do artigo 23.º do presente decreto-lei.
 
-# Parte C
+Parte C
 
 Pedido de notificação
 
@@ -1138,7 +1222,7 @@ Pedido de notificação
 
 2 - O pedido referido no número anterior deve ser acompanhado de uma descrição das atividades de avaliação da conformidade, do(s) módulo(s) de avaliação da conformidade e do(s) brinquedo(s) em relação ao(s) qual(is) os organismos se consideram competentes, bem como pelo certificado de acreditação relevante emitido pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), caso este exista, ou evidência do cumprimento dos requisitos previstos na parte A do presente anexo.
 
-# Parte D
+Parte D
 
 Deveres funcionais dos organismos notificados
 
@@ -1154,7 +1238,7 @@ Ao atenderem a estes fatores, os referidos organismos devem, contudo, respeitar 
 
 5 - Se não forem tomadas medidas corretivas, ou se estas não tiverem o efeito exigido, o organismo notificado deve restringir, suspender ou retirar quaisquer certificados de exame «CE» de tipo, consoante o caso.
 
-# Parte E
+Parte E
 
 Obrigações dos organismos notificados
 
@@ -1169,3 +1253,5 @@ c) Quaisquer pedidos de informação sobre as atividades de avaliação da confo
 d) Quando solicitados para o efeito, as atividades de avaliação da conformidade que desempenharam no âmbito da respetiva notificação e quaisquer outras atividades desempenhadas, incluindo atividades transfronteiriças e de subcontratação.
 
 2 - Os organismos notificados devem facultar aos outros organismos notificados, ao abrigo do presente decreto-lei, que efetuem atividades de avaliação da conformidade semelhantes abrangendo os mesmos brinquedos, as informações relevantes sobre questões relacionadas com resultados negativos e, a pedido, resultados positivos da avaliação da conformidade.
+
+115713582

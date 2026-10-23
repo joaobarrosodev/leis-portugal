@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/294/2009/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2009-491733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c472660bbfc1155953d45378f60162906c1e0e07d217bc7894e0581a2634f2cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e570bc145fd91f5348a0078e61595cb4adbd6d77ae37e203cb9d6c98bf7586
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Arrendamento de Campanha
 - Arrendamento Florestal
+- Arrendamento Rural
 - Benfeitoria
 - Contrato
-- Arrendamento Rural
 - Direito de Preferência
-- Indemnização
 - Exploração Agrícola
+- Exploração Florestal
+- Indemnização
+- Madeira.região Autónoma
 - Prazo
 - Prédio Rústico
-- Exploração Florestal
-- Madeira.região Autónoma
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/524/1999/12/10/p/dre
@@ -91,16 +91,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2009/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2009/08/14/p/dre
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632396:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:55Z'
   warnings: []
   errors: []
 ---
@@ -645,7 +677,9 @@ b) A que seja determinada no despacho saneador até à data da decisão judicial
 
 4 - Se, dentro daquele prazo, os montantes referidos no número anterior não forem pagos ou depositados, o senhorio pode pedir certidão dos autos relativa a estes factos.
 
-###### Artigo 33.º — Título executivo
+###### Artigo 33.º
+
+## Título executivo
 
 1 - Não sendo o prédio desocupado na data devida por lei ou por convenção das partes, podem servir de base à execução para entrega de coisa certa, o contrato de arrendamento, acompanhado dos comprovativos das comunicações previstas no presente decreto-lei, relativos à cessação do contrato de arrendamento.
 
@@ -737,12 +771,12 @@ b) O [Decreto-Lei n.º 394/88](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - António José de Castro Guerra - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 30 de Setembro de 2009.**
+Promulgado em 30 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Outubro de 2009.**
+Referendado em 1 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

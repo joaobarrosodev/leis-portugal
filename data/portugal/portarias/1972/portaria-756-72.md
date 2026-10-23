@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/756-1972-685459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18b9ebeeebf87a0a09469cc809070d266c184cbbc35bc77d377f50b446353e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32b8048db0ed9ccd4ca5bef985941471ba7ce34da364cefeec87e0b7b2a7c9af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:00Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +106,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 95000$00
+Artigo 3.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 95000$00
 
-###### Artigo 4.º, n.º 1, alínea a) «Remunerações acidentais - Gratificações - A 14 vogais» ... 24666$00
+Artigo 4.º, n.º 1, alínea a) «Remunerações acidentais - Gratificações - A 14 vogais» ... 24666$00
 
 Diversos encargos:
 
-###### Artigo 12.º «Encargos de instalações - Rendas de casa» ... 60000$00
+Artigo 12.º «Encargos de instalações - Rendas de casa» ... 60000$00
 
 ... 179666$00
 
@@ -112,11 +124,11 @@ Diversos encargos:
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1. «Remunerações certas ao pessoal em exercício - Pessoal dirigente e técnico» ... 56657$00
+Artigo 1.º, n.º 1. «Remunerações certas ao pessoal em exercício - Pessoal dirigente e técnico» ... 56657$00
 
-###### Artigo 1.º, n.º 2 «Pessoal administrativo» ... 22998$50
+Artigo 1.º, n.º 2 «Pessoal administrativo» ... 22998$50
 
-###### Artigo 1.º, n.º 4, alínea b) «Pessoal assalariado - Pessoal jornaleiro - Salários» ... 74357$50
+Artigo 1.º, n.º 4, alínea b) «Pessoal assalariado - Pessoal jornaleiro - Salários» ... 74357$50
 
 ... 154013$00
 
@@ -126,17 +138,17 @@ Despesas com o pessoal:
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal os quadros aprovados por lei - Vencimentos» ... 257700$00
+Artigo 1.º, n.º 1, alínea a) «Remunerações certas ao pessoal em exercício - Pessoal os quadros aprovados por lei - Vencimentos» ... 257700$00
 
-###### Artigo 1.º, n.º 2 «Pessoal contratado (quadro privativo de contínuos)» ... 14500$00
+Artigo 1.º, n.º 2 «Pessoal contratado (quadro privativo de contínuos)» ... 14500$00
 
-###### Artigo 1.º, n.º 3 «Pessoal contratado (serviço de fiscalização e conservação dos imóveis pertencentes às províncias ultramarinas)» ... 32300$00
+Artigo 1.º, n.º 3 «Pessoal contratado (serviço de fiscalização e conservação dos imóveis pertencentes às províncias ultramarinas)» ... 32300$00
 
-###### Artigo 1.º, n.º 6 «Pessoal a que se refere o n.º 3 do artigo 200.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967» ... 64500$00
+Artigo 1.º, n.º 6 «Pessoal a que se refere o n.º 3 do artigo 200.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967» ... 64500$00
 
 Diversos encargos:
 
-###### Artigo 11.º, n.º 4 «Outros encargos - Prémio D. João II, a atribuir aos concorrentes ao concurso de literatura sobre o tema 'A unidade nacional'» ... 9818$20
+Artigo 11.º, n.º 4 «Outros encargos - Prémio D. João II, a atribuir aos concorrentes ao concurso de literatura sobre o tema 'A unidade nacional'» ... 9818$20
 
 Saldo de anos económicos findos ... 100000$00
 
@@ -150,9 +162,9 @@ Saldo de anos económicos findos ... 100000$00
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 202100$00
+Artigo 1.º, n.º 1 «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 202100$00
 
-###### Artigo 1.º, n.º 2 «Pessoal contratado» ... 29200$00
+Artigo 1.º, n.º 2 «Pessoal contratado» ... 29200$00
 
 ... 231300$00
 

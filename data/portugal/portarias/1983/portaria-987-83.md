@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/987-1983-443108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d98901b81e120c9d682333689b76d12256319c34091932436bedd54efb1ea76d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 438a63c18b05e664a3ebc91cf72481e54711de73bdeaedf45ebc09f51f16d653
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cuba.alentejo
+- Hospital Concelhio
+- Pessoal de Enfermagem
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:666337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666337:por
+  label: "Alterados alguns quadros de pessoal aprovados pela Port 413/81, de 21-Mai DR.IS [116], na redacção do presente diploma\
+    \ e das Ports. 985/83, de 28-Nov, 986/83, de 28-Nov, 988/83, de 28-Nov, 989/83, de 28-Nov, 990/83, de 28-Nov, 991/83,\
+    \ de 28-Nov, 342/84, de 07-Jun e 343/84, de 07-Jun, pela PORT.321/87.1987.04.18.MF DR.IS [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-1987-666337
+  date: '1987-04-18'
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573568:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:55:56Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +117,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
 
-**Assinada em 29 de Outubro de 1983.**
+Assinada em 29 de Outubro de 1983.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.
 
 Quadro de pessoal do Hospital Concelhio de Cuba
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/27400/39063907.pdf))](https://files.diariodarepublica.pt/1s/1983/11/27400/39063907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/27400/39063907.pdf)

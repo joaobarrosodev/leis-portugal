@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03300/0076300766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/36/2012/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2012-543022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d491208f8ed9136f6041d77ced7ae0c4ce1a110a2787e0f36bdc30d1d9873d13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b73a59ae1432ef7727f1ff09ef88e1ca658d826d4c2cff429d1073acf1c8fec3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Nacional para a Qualificação
 - Agência Nacional para a Qualificação e o Ensino Profissional
-- Fiscal Único
-- Gestão Financeira
+- Conselho Diretivo
 - Conselho Geral
 - Definição de Competências
-- Conselho Diretivo
-- Agência Nacional para a Qualificação
+- Fiscal Único
+- Gestão Financeira
 - Orgânica
 - Transferência de Competências
 relationships:
@@ -80,6 +80,61 @@ relationships:
   target: pt:dre:935004233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Determinado que a superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional,\
+    \ I.P.seja articulada pelo Ministro da Economia com o Ministro da Educação e Ciência e o Ministro da Solidariedade, Emprego\
+    \ e Segurança Social, pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Determinado que a superintendência e tutela da Agência Nacional para a Qualificação e o Ensino Profissional, I. P.,
+    seja exercida pelo Ministro da Solidariedade, Emprego e Segurança Social conjuntamente com a Ministra da Educação e Ciência
+    e articulada com o Ministro da Economia pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015, 1º Suplemento,
+    Série I de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional,
+    I.P. seja exercida pelo Ministro do Trabalho, Solidariedade e Segurança Social em coordenação com o Ministro da Economia
+    pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Determinado que sejam exercidas pelo Ministro da Educação, conjuntamente com o Ministro do Trabalho, Solidariedade
+    e Segurança Social, em coordenação com o Ministro Adjunto e da Economia, a superintendência e tutela sobre a Agência Nacional
+    para a Qualificação e o Ensino Profissional, I.P. pelo(a) Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018,
+    Série I de 2018-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a superintendência e tutela sobre a Agência Nacional para a Qualificação
+    e o Ensino Profissional, I.P., com orgânica aprovada pelo presente diploma, seja exercida pelo Ministro da Educação, conjuntamente
+    com a Ministra do Trabalho, Solidariedade e Segurança Social, nas matérias da sua competência, em coordenação com o Ministro
+    de Estado, da Economia e da Transição Digital, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019,
+    1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Educação, Ciência e Inovação, conjuntamente
+    com a Ministra do Trabalho, Solidariedade e Segurança Social, em coordenação com o Ministro da Economia, a superintendência
+    e tutela, nas matérias da sua competência, sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I. P.
+    pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Educação, Ciência e Inovação, conjuntamente
+    com a Ministra do Trabalho, Solidariedade e Segurança Social, nas matérias da sua competência, sobre a Agência Nacional
+    para a Qualificação e o Ensino Profissional, I. P. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025,
+    Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276-c/2007/07/31/p/dre
   label: null
@@ -92,16 +147,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:935004233:por
+  label: Revogada, a partir de 01 de outubro de 2025, o presente diploma, e extinta a Agência Nacional para a Qualificação
+    e o Ensino Profissional, I. P. (ANQEP, I. P.) nele prevista, sendo as suas atribuições e competências transferidas para
+    a Direção-Geral do Emprego e das Relações do Trabalho, o Instituto do Emprego e da Formação Profissional, I. P., o Instituto
+    da Educação, Qualidade e Avaliação, I. P., e as Comissões de Coordenação e Desenvolvimento Regional, I. P., pelo(a) Decreto-Lei
+    n.º 104/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11, sem prejuízo do disposto nos seus artigos 3.º
+    e 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2025-935004233
+  date: '2025-09-11'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:18Z'
   warnings: []
   errors: []
 ---
@@ -290,12 +367,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de Fevereiro de 2012.**
+Promulgado em 3 de Fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Fevereiro de 2012.**
+Referendado em 7 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

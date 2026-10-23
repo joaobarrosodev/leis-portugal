@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/292-1970-142676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f3cbf0ca657fb6eba963d7a93a68c7bfade7ff33888ec6e9f9183b9ac123e84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b4376a76957ab5a8b14567241d3df3af3706477a0b7dbbbdb61936acec107f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:40Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 1.º Nos termos do artigo 5.º do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, elevar, para as importâncias que se indicam, as seguintes verbas do orçamento da receita da Agência-Geral do Ultramar, em vigor:
 
-###### Artigo 2.º «Quotas-partes com que concorrem as províncias ultramarinas para as despesas com a Agência-Geral do Ultramar», a saber:
+Artigo 2.º «Quotas-partes com que concorrem as províncias ultramarinas para as despesas com a Agência-Geral do Ultramar», a saber:
 
 a) Angola ... 7113395$50
 
@@ -94,7 +110,7 @@ b) Moçambique ... 5782004$00
 
 c) Macau ... 342788$50
 
-###### Artigo 4.º, alínea b) «Reembolsos e reposições - Importância a receber do fundo a que se refere o artigo 7.º do [Decreto-Lei n.º 43374](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43374-1960-512850), de 5 de Dezembro de 1960», para pagamento dos vencimentos aos funcionários a que se referem o artigo 200.º, n.º 3 e § 3.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, e despesas de manutenção dos serviços ... 1440000$00
+Artigo 4.º, alínea b) «Reembolsos e reposições - Importância a receber do fundo a que se refere o artigo 7.º do [Decreto-Lei n.º 43374](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43374-1960-512850), de 5 de Dezembro de 1960», para pagamento dos vencimentos aos funcionários a que se referem o artigo 200.º, n.º 3 e § 3.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, e despesas de manutenção dos serviços ... 1440000$00
 
 2.º Nos termos do artigo 5.º do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, conjugado com o artigo 34.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, abrir um crédito especial, da importância de 602400$00, na tabela de despesa do orçamento privativo da Agência-Geral do Ultramar, em vigor, destinado a ocorrer aos seguintes objectivos, com as quantias que se indicam:
 

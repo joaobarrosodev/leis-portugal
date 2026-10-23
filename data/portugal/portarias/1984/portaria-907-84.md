@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/907-1984-401371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e5d20b4204d55f1b2d600ee63f57f142b76afd793c5edaa37a90b3dfe4ee6fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95aefdca46ebdbe615b0a46ce58845f0c3e08727bd6cbeeb0a255a6e9837742c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Ultramarina
+- Equivalência de Categorias
 relationships:
 - type: amended_by
   target: pt:dre:590964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:590964:por
+  label: Retificada a tabela de equivalências contida no mapa VI anexo ao presente diploma pela PORT.1220/91.30.12.1991.MF,
+    DR.IS-B [300] de 30.12.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-1991-590964
+  date: '1991-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:07Z'
   warnings: []
   errors: []
 ---
@@ -111,37 +149,37 @@ Manda o Governo da República Portuguesa, pelos Ministros da Administração Int
 
 Presidência do Conselho de Ministros e Ministérios da Administração Interna e das Finanças e do Plano.
 
-**Assinada em 14 de Novembro de 1984.**
+Assinada em 14 de Novembro de 1984.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira. - Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
 
 Mapa I anexo à Portaria n.º 907/84
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa II anexo à Portaria n.º 907/84
 
 Categorias específicas da administração local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa III - Rectificações da tabela de equivalências contida no mapa II anexo à [Portaria n.º 877/82](https://diariodarepublica.pt/dr/detalhe/portaria/877-1982-375831), de 17 de Setembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa IV - Rectificações da tabela de equivalências contida no mapa I anexo à [Portaria n.º 427/83](https://diariodarepublica.pt/dr/detalhe/portaria/427-1983-312855), de 13 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa V - Rectificações da tabela de equivalências contida no mapa II anexo à [Portaria n.º 490/83](https://diariodarepublica.pt/dr/detalhe/portaria/490-1983-311596)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa VI a que se refere o n.º 1.º da Portaria n.º 907/84
 
 Categorias específicas da antiga administração ultramarina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa VII anexo à Portaria n.º 907/84
 
@@ -149,7 +187,7 @@ Categorias específicas da antiga administração ultramarina
 
 Rectificação de categorias constantes do mapa anexo à [Portaria n.º 281/83](https://diariodarepublica.pt/dr/detalhe/portaria/281-1983-310461), de 17 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
 
 Mapa VIII anexo à Portaria n.º 907/84
 
@@ -157,4 +195,4 @@ Categorias específicas da antiga administração ultramarina
 
 Rectificação de categorias constantes do mapa anexo à [Portaria n.º 430/83](https://diariodarepublica.pt/dr/detalhe/portaria/430-1983-312865), de 14 de Abril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf))](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/28700/37813794.pdf)

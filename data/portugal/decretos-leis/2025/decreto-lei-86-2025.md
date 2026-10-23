@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2025/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2025-925378375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d504582f769cfbf8cc7908005c3d03f054f01cb0035011fa0e2ebad8849dda0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97bc4073072efc85f6e38540bc1de86e3d1d3658c648ad7f0ce92c597015f8cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Lei do Enquadramento
+- Contabilidade Pública
+- Entidade Orçamental
 - Finanças Públicas
 - Gestor
-- Orçamento Geral do Estado
+- Lei do Enquadramento
 - Orçamento
+- Orçamento Geral do Estado
+- PlanAPP
+- Plano de Recuperação e Resiliência
 - Política Orçamental
 - Prestação de Contas
 - Programa Orçamental
 - Regime Jurídico
-- Contabilidade Pública
-- Plano de Recuperação e Resiliência
-- PlanAPP
-- Entidade Orçamental
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dre
@@ -105,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/41/2020/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/41/2020/08/18/p/dre
+- type: cites
+  target: pt:dre:114582931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115933862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:21Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +147,7 @@ validation:
 
 de 18 de julho
 
-A Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, representa um novo paradigma no planeamento e orçamentação das políticas públicas com enfoque no acompanhamento do seu impacto nas contas públicas, na economia e na sociedade. O novo modelo orçamental decorrente da LEO aprovada em 2015 estabelece um particular enfoque na definição da afetação de recursos por política pública, valorizando a quantificação do impacto esperado e dos resultados alcançados. Este modelo deve apoiar a gestão e o processo de tomada de decisão por forma a garantir, com transparência, a responsabilização de todos os intervenientes na implementação de políticas públicas pelos resultados globais obtidos relativamente a cada programa. Este modelo procura reforçar o equilíbrio orçamental e a disciplina financeira do Estado, melhorar a qualidade e eficiência da despesa pública, bem como a sua transparência e o seu alinhamento com os Objetivos de Desenvolvimentos Sustentável (ODS). A LEO define um conjunto de princípios e orientações para a implementação deste novo paradigma, convocando regulamentação adicional para a sua operacionalização, sendo para tanto necessário definir o modelo de orçamentação a implementar. Neste novo modelo de programação orçamental é atribuído um papel de relevância às entidades gestoras de programas, tendo designadamente em consideração as competências das atuais entidades coordenadoras. Com efeito, para garantir uma adequada articulação entre o planeamento e a orçamentação, conforme resulta da orçamentação por programas, ao nível de cada missão de base orgânica, são designadas entidades gestoras, as quais serão responsáveis pela implementação dos programas, acompanhando o controlo da gestão financeira, orçamental e de tesouraria da respetiva missão de base orgânica, bem como a definição, controlo e monitorização dos programas, ações e respetivos objetivos e indicadores. As entidades gestoras asseguram igualmente um papel essencial na comunicação entre as diferentes entidades das missões de base orgânica com as áreas governativas responsáveis pelo planeamento e pelas finanças. A orçamentação por programas realiza uma mudança de enfoque da despesa pública, deixando o orçamento de estar centrado nos recursos, para passar a estar centrado nos resultados. Desta forma, mais importante do que determinar o envelope financeiro a atribuir a um organismo, é definir antecipadamente os objetivos que lhe estão associados. A orçamentação por programas constitui mais um passo significativo no sentido de uma progressiva orientação da gestão pública para o desempenho e para a medição da sua sustentabilidade.
+A Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, representa um novo paradigma no planeamento e orçamentação das políticas públicas com enfoque no acompanhamento do seu impacto nas contas públicas, na economia e na sociedade. O novo modelo orçamental decorrente da LEO aprovada em 2015 estabelece um particular enfoque na definição da afetação de recursos por política pública, valorizando a quantificação do impacto esperado e dos resultados alcançados. Este modelo deve apoiar a gestão e o processo de tomada de decisão por forma a garantir, com transparência, a responsabilização de todos os intervenientes na implementação de políticas públicas pelos resultados globais obtidos relativamente a cada programa. Este modelo procura reforçar o equilíbrio orçamental e a disciplina financeira do Estado, melhorar a qualidade e eficiência da despesa pública, bem como a sua transparência e o seu alinhamento com os Objetivos de Desenvolvimentos Sustentável (ODS). A LEO define um conjunto de princípios e orientações para a implementação deste novo paradigma, convocando regulamentação adicional para a sua operacionalização, sendo para tanto necessário definir o modelo de orçamentação a implementar. Neste novo modelo de programação orçamental é atribuído um papel de relevância às entidades gestoras de programas, tendo designadamente em consideração as competências das atuais entidades coordenadoras. Com efeito, para garantir uma adequada articulação entre o planeamento e a orçamentação, conforme resulta da orçamentação por programas, ao nível de cada missão de base orgânica, são designadas entidades gestoras, as quais serão responsáveis pela implementação dos programas, acompanhando o controlo da gestão financeira, orçamental e de tesouraria da respetiva missão de base orgânica, bem como a definição, controlo e monitorização dos programas, ações e respetivos objetivos e indicadores. As entidades gestoras asseguram igualmente um papel essencial na comunicação entre as diferentes entidades das missões de base orgânica com as áreas governativas responsáveis pelo planeamento e pelas finanças. A orçamentação por programas realiza uma mudança de enfoque da despesa pública, deixando o orçamento de estar centrado nos recursos, para passar a estar centrado nos resultados. Desta forma, mais importante do que determinar o envelope financeiro a atribuir a um organismo, é definir antecipadamente os objetivos que lhe estão associados. A orçamentação por programas constitui mais um passo significativo no sentido de uma progressiva orientação da gestão pública para o desempenho e para a medição da sua sustentabilidade.
 
 A implementação dos programas orçamentais obedece a um modelo faseado. A primeira fase foi iniciada com a implementação de um projeto-piloto no Orçamento do Estado de 2022. A segunda fase prosseguiu com a utilização da solução desenvolvida no âmbito do marco PRR 1238, com oito ministérios a operá-la no Orçamento do Estado de 2025. A terceira fase, de otimização e melhoria contínua, decorrerá até ao Orçamento do Estado de 2028, generalizando o modelo de orçamentação por programas, ainda com apoio da entidade orçamental, sendo que a quarta fase terá início a partir de 1 de janeiro de 2028 com um modelo de acompanhamento já descentralizado, plenamente suportado pelas entidades gestoras.
 
@@ -153,7 +177,7 @@ b) Aprova o regime jurídico das entidades gestoras dos programas orçamentais, 
 
 ###### Artigo 2.º — Âmbito
 
-O presente decreto-lei aplica-se a todos os serviços e organismos dos subsetores da administração central e da segurança social, incluindo as entidades públicas reclassificadas, conforme definidas no artigo 2.º da Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
+O presente decreto-lei aplica-se a todos os serviços e organismos dos subsetores da administração central e da segurança social, incluindo as entidades públicas reclassificadas, conforme definidas no artigo 2.º da Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril.
 
 ###### Artigo 3.º — Definições
 
@@ -485,15 +509,15 @@ O n.º 4 do artigo 4.º aplica-se ao QPDP que integra as Grandes Opções, para 
 
 Visto e aprovado em Conselho de Ministros de 3 de julho de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Gonçalo Nuno da Cruz Saraiva Matias - Carlos Eduardo Almeida de Abreu Amorim.
 
-**Promulgado em 11 de julho de 2025.**
+Promulgado em 11 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de julho de 2025.**
+Referendado em 14 de julho de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — [a que se refere a alínea b) do artigo 1.º]
 
@@ -501,7 +525,7 @@ Regime jurídico das entidades gestoras dos programas orçamentais
 
 ###### Artigo 1.º — Missão das entidades gestoras
 
-1 - As entidades gestoras dos programas orçamentais previstas no artigo 48.º da Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.<sup>os</sup>[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, funcionam na dependência dos membros do Governo que asseguram os recursos necessários nos termos do n.º 3 daquele artigo, dão execução às orientações de natureza vinculativa em matéria orçamental e financeira dadas pela entidade orçamental (EO), e têm por missão:
+1 - As entidades gestoras dos programas orçamentais previstas no artigo 48.º da Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro (LEO), alterada pelas Leis n.os[2/2018](https://diariodarepublica.pt/dr/detalhe/lei/2-2018-114582931), de 29 de janeiro, [37/2018](https://diariodarepublica.pt/dr/detalhe/lei/37-2018-115933862), de 7 de agosto, [41/2020](https://diariodarepublica.pt/dr/detalhe/lei/41-2020-140431167), de 18 de agosto, e [10-B/2022](https://diariodarepublica.pt/dr/detalhe/lei/10-b-2022-182727790), de 28 de abril, funcionam na dependência dos membros do Governo que asseguram os recursos necessários nos termos do n.º 3 daquele artigo, dão execução às orientações de natureza vinculativa em matéria orçamental e financeira dadas pela entidade orçamental (EO), e têm por missão:
 
 a) Garantir o apoio técnico à definição dos programas orçamentais da Missão de Base Orgânica (MBO) sob sua coordenação, em alinhamento com o planeamento estratégico e operacional, em articulação com o gabinete ou unidade orgânica com funções de planeamento da área governativa respetiva, sem prejuízo da necessária articulação transversal no âmbito da Rede de Serviços de Planeamento e Prospetiva da Administração Pública; e
 
@@ -562,3 +586,5 @@ m) Assegurar o relato sobre a execução orçamental, financeira e de desempenho
 3 - A entidade gestora é designada de entre um serviço ou entidade da administração central, com competências na área da gestão orçamental e de planeamento, sob a tutela do membro do Governo da área governativa responsável pela MBO, podendo ser designada, mediante despacho conjunto, entidade de outra área governativa.
 
 4 - Quando as atividades de gestão orçamental e de planeamento ao nível da área governativa forem competências de entidades distintas, a entidade gestora da MBO deve garantir a necessária articulação entre entidades e a respetiva coerência entre o planeamento estratégico e orçamental da respetiva área governativa no que respeita à fixação de objetivos, indicadores e metas, bem como uma afetação de recursos financeiros compatível com os mesmos.
+
+119307893

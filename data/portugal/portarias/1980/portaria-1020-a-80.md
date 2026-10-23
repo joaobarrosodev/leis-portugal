@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 276/1980, 1º Suplemento, Série I de 1980-11-28
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4032-(1) a 4032-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/27601/00010001.pdf
 entry_into_force_dates: []
@@ -48,36 +48,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-a-1980-261277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b126f428e1a5fb77a4525e5ccdb24fb4c5e342b21ae576590eba29bd4c4348cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d77dea0e08bf1f1cf09d97e2de8a7d629492b390cb53a190443c177085a37e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avião
+- Contrato
+- Empresa Privada
+- Equipamento Militar
+- Força Aérea
+relationships:
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:09Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Tendo em vista as disposições do n.º 1 do artigo 10.º do [Decreto-Lei n.º 2
 
 Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro das Finanças e do Plano, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar contratos escritos com as firmas Elettronica, S. P. A., e Construcciones Aeronauticas, S. A., até ao montante de 5866000 dólares, correspondentes a 299166000$00 ao câmbio de 51$00.
+Artigo 1.º É autorizada a Direcção do Serviço de Electricidade e Telecomunicações da Força Aérea a celebrar contratos escritos com as firmas Elettronica, S. P. A., e Construcciones Aeronauticas, S. A., até ao montante de 5866000 dólares, correspondentes a 299166000$00 ao câmbio de 51$00.
 
-###### Art. 2.º - 1 - Os encargos a que se refere o artigo anterior serão liquidados nos anos económicos de 1980, 1981 e 1982, da forma seguinte:
+Art. 2.º - 1 - Os encargos a que se refere o artigo anterior serão liquidados nos anos económicos de 1980, 1981 e 1982, da forma seguinte:
 
 Em 1980 - 60001500$00 correspondentes a 1176500 dólares;
 
@@ -108,7 +121,7 @@ Em 1982 - 119161500$00 correspondentes a 2336500 dólares.
 
 3 - Os montantes referidos nos números anteriores serão acrescidos das quantias indispensáveis à cobertura dos encargos assumidos sempre que a oscilação cambial o justifique.
 
-###### Art. 3.º - 1 - Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotação das despesas gerais do orçamento da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982, inscritos e a inscrever pelos montantes correspondentes.
+Art. 3.º - 1 - Os encargos resultantes da execução do disposto no artigo anterior serão satisfeitos por dotação das despesas gerais do orçamento da Defesa Nacional - Departamento da Força Aérea para os anos de 1980 a 1982, inscritos e a inscrever pelos montantes correspondentes.
 
 2 - A orçamentação das despesas de cada ano será precedida pela apresentação de programas anuais de execução, elaborados de acordo com as normas definidas pelo Ministro das Finanças e do Plano através do Departamento Central de Planeamento.
 

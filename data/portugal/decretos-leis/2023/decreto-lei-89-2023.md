@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19700/0000300030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2023/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d013b4749de95eef01c3ad65e7c8fe2c63b4856d69b18e64eba5f1b25b0a59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 486b24697111cf4048adceceb5ef01b01baf56a5cea4dc724d127fa8d895da54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Álcool
 - Alcoolismo
-- Reestruturação de Serviços
-- Fiscal Único
-- Multa
+- Combate à Droga
 - Comissão de Ética para a Saúde
+- Comissão para a Dissuasão da Toxicodependência
 - Conselho Clínico
-- Instituto da Droga e da Toxicodependência
-- IPDT
+- Conselho Consultivo
+- Conselho Diretivo
+- Conselho Interministerial para os Comportamentos Aditivos e as Dependências
+- Conselho Interministerial para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
+- Conselho Nacional para os Comportamentos Aditivos e as Dependências
+- Conselho Nacional para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
 - Contra-ordenação
 - Coordenador Nacional
 - Criação de Serviços
-- Administração Regional de Saúde
-- Álcool
-- Combate à Droga
-- Comissão para a Dissuasão da Toxicodependência
-- Conselho Interministerial para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
-- Conselho Nacional para os Problemas da Droga das Toxicodependências e do USO Nocivo do Álcool
-- Prevenção contra o Consumo de Droga
-- Serviço Nacional de Saúde
-- Extinção de Serviços
-- Conselho Diretivo
-- Conselho Consultivo
-- Instituto Público
-- Administração Central do Sistema de Saúde
-- Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências
+- Direção Executiva do Serviço Nacional de Saúde
 - Droga
+- Extinção de Serviços
+- Fiscal Único
+- Instituto da Droga e da Toxicodependência
+- Instituto para os Comportamentos Aditivos e as Dependências
+- Instituto Público
+- IPDT
+- Ministério da Saúde
+- Multa
 - Orçamento Geral do Estado
 - Orgânica
-- Toxicodependente
-- Ministério da Saúde
+- Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências 2030
+- Prevenção contra o Consumo de Droga
+- Reestruturação de Serviços
+- Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências
+- Serviço Nacional de Saúde
 - Substância Estupefaciente ou Psicotrópica
+- Toxicodependente
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Verbas
 - Transferência Patrimonial
-- Direção Executiva do Serviço Nacional de Saúde
-- Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências 2030
-- Instituto para os Comportamentos Aditivos e as Dependências
-- Conselho Interministerial para os Comportamentos Aditivos e as Dependências
-- Conselho Nacional para os Comportamentos Aditivos e as Dependências
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pela Ministra da Saúde a superintendência e tutela
+    sobre o Instituto para os Comportamentos Aditivos e as Dependências, I. P. pelo(a) Decreto-Lei n.º 32/2024 - Diário da
+    República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pela Ministra da Saúde a superintendência e tutela
+    sobre o Instituto para os Comportamentos Aditivos e as Dependências, I. P. pelo(a) Decreto-Lei n.º 87-A/2025 - Diário
+    da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2003/01/06/p/dre
   label: null
@@ -150,16 +164,156 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46/1999/05/26/p/dre
+- type: cites
+  target: pt:dre:106531279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116673880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118748850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124539903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187049881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221432122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3162549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 77
+  article_count: 51
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:04Z'
   warnings: []
   errors: []
 ---
@@ -292,11 +446,15 @@ Os artigos 5.º a 7.º e 16.º da [Lei n.º 30/2000](https://diariodarepublica.p
 
 5 - Os encargos com os membros das comissões são suportados pelo ICAD, I. P.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O ICAD, I. P., mantém um registo central dos processos de contraordenação previstos na presente lei e regulamentado por portaria dos membros do Governo responsáveis pelas áreas da justiça e da saúde.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A comissão prevista no n.º 1 do artigo 5.º é composta por duas pessoas, uma das quais preside, designadas por despacho dos membros do Governo responsáveis pelas áreas da justiça e da saúde.
 
@@ -308,7 +466,9 @@ O ICAD, I. P., mantém um registo central dos processos de contraordenação pre
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -338,13 +498,17 @@ Os artigos 2.º a 6.º, 30.º, 33.º, 36.º e 37.º do [Decreto-Lei n.º 130-A/2
 
 3 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A comissão é composta nos termos do disposto no artigo 7.º da [Lei n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), de 29 de novembro, na sua redação atual, sendo os seus membros designados por um período de três anos, contados da data do efetivo início de funções.
 
 2 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O presidente de cada comissão é designado por despacho dos membros do Governo responsáveis pelas áreas da justiça e da saúde, mediante proposta deste.
 
@@ -370,7 +534,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -378,7 +544,9 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para cada comissão é disponibilizada pelo ICAD, I. P., uma equipa de apoio técnico e técnico-administrativo, cuja composição é definida por despacho do conselho diretivo do ICAD, I. P.
 
@@ -388,7 +556,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -398,7 +568,9 @@ h) [...]
 
 4 - [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O horário de funcionamento da comissão é, sob proposta do presidente, fixado por despacho do conselho diretivo do ICAD, I. P.
 
@@ -406,11 +578,15 @@ h) [...]
 
 3 - [...]
 
-###### Artigo 36.º — Apoio do Instituto para os Comportamentos Aditivos e as Dependências, I. P.
+Artigo 36.º
+
+Apoio do Instituto para os Comportamentos Aditivos e as Dependências, I. P.
 
 O ICAD, I. P., assegura o apoio técnico que se revele necessário às comissões, designadamente em matérias jurídicas e processuais relacionadas com o âmbito das suas atribuições na área dos comportamentos aditivos e das dependências, e qualquer outro que se revele conveniente e não esteja cometido por lei a outra entidade.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Trimestralmente cada comissão envia ao ICAD, I. P., mapas com a relação das coimas aplicadas nos termos do artigo 16.º da [Lei n.º 30/2000](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), de 29 de novembro, na sua redação atual.
 
@@ -436,7 +612,9 @@ c) Padrões comportamentais associados às práticas de jogo, bem como ao uso pr
 
 d) Outros comportamentos potencialmente aditivos que sejam consagrados como tal nas classificações de doenças.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O Conselho Interministerial é presidido pelo Primeiro-Ministro e é composto pelo coordenador nacional para os Comportamentos Aditivos e as Dependências e pelos membros do Governo responsáveis pelas seguintes áreas:
 
@@ -474,7 +652,9 @@ q) Da habitação;
 
 r) Da coesão territorial.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Compete ao Conselho Interministerial coordenar a definição e a execução de políticas relacionadas com os comportamentos aditivos e as dependências, em especial:
 
@@ -492,7 +672,9 @@ f) Assegurar a articulação interministerial das políticas prosseguidas pelos 
 
 g) (Revogada.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -506,11 +688,15 @@ g) (Revogada.)
 
 6 - Por convite do presidente da comissão técnica, podem participar nos trabalhos das subcomissões representantes das entidades que integram o Conselho Nacional para a Redução dos Comportamentos Aditivos e das Dependências, do Fórum Nacional Álcool e Saúde e de outros fora ou plataformas representativas de todas as partes interessadas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O membro do Governo responsável pela área da saúde coordena as políticas relacionadas com os comportamentos aditivos e as dependências.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Compete ao membro do Governo responsável pela área da saúde promover a articulação da ação do Governo em matéria dos comportamentos aditivos e das dependências, em tudo o que não esteja especialmente cometido ao Conselho Interministerial, nomeadamente:
 
@@ -524,15 +710,21 @@ d) (Revogada.)
 
 e) Aprovar o relatório anual sobre a situação do País em matéria dos comportamentos aditivos e das dependências, a apresentar à Assembleia da República pelo coordenador nacional.
 
-###### Artigo 7.º — Coordenador nacional para os Comportamentos Aditivos e as Dependências
+Artigo 7.º
+
+Coordenador nacional para os Comportamentos Aditivos e as Dependências
 
 O coordenador nacional para os Comportamentos Aditivos e as Dependências, adiante designado por coordenador nacional, visa garantir uma eficaz coordenação e articulação entre os diversos serviços da Administração Pública e áreas governativas envolvidas nos temas relacionados com os comportamentos aditivos e as dependências.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O coordenador nacional é, por inerência de funções, o presidente do conselho diretivo do Instituto para os Comportamentos Aditivos e as Dependências, I. P. (ICAD, I. P.).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -548,17 +740,23 @@ e) Promover e verificar a inclusão das orientações fundamentais do Plano Naci
 
 f) Assegurar, em articulação com o ICAD, I. P., a representação de Portugal a nível governamental nas instâncias internacionais, sem prejuízo das atribuições do Ministério dos Negócios Estrangeiros na preparação e execução da política externa portuguesa.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O coordenador nacional exerce funções junto do membro do Governo responsável pela área da saúde.
 
 2 - Os serviços e entidades dos setores público, privado e social colaboram com o coordenador nacional sempre que solicitado, designadamente executando as medidas definidas, facilitando a integração dos instrumentos programáticos de orientação em matéria dos comportamentos aditivos e das dependências nos respetivos programas de trabalho e fornecendo os dados e as informações que lhes sejam solicitadas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O Conselho Nacional para os Comportamentos Aditivos e as Dependências, adiante designado por Conselho Nacional, é o órgão de consulta do Primeiro-Ministro e do Governo sobre as políticas relacionadas com os comportamentos aditivos e as dependências, competindo-lhe pronunciar-se sobre a definição e execução dos principais instrumentos programáticos nestas matérias, bem como sobre todos os assuntos que sobre as mesmas lhe sejam submetidos pelo Primeiro-Ministro e pelo membro do Governo responsável pela área da saúde.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Conselho Nacional é presidido pelo Primeiro-Ministro, com faculdade de delegação no membro do Governo responsável pela área da saúde que pode subdelegar, e integra, para além do coordenador nacional, um representante de cada uma das seguintes instituições, entidades e organizações:
 
@@ -626,7 +824,9 @@ ee) Representantes das Ordens Profissionais.
 
 2 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]
 
@@ -636,13 +836,17 @@ b) Pronunciar-se, a título consultivo, sobre o relatório anual da situação d
 
 c) Pronunciar-se, quando solicitado, sobre ações, iniciativas ou projetos concretos de execução do Plano Nacional para a Redução dos Comportamentos Aditivos e das Dependências e respetivos planos de ação plurianuais.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Conselho Nacional reúne sempre que convocado pelo Primeiro-Ministro, pelo membro do Governo responsável pela área da saúde ou pelo coordenador nacional para os Comportamentos Aditivos e as Dependências.
 
 2 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O apoio administrativo ao funcionamento do Conselho Interministerial e do Conselho Nacional é prestado pelo ICAD, I. P.»
 
@@ -672,7 +876,9 @@ g) Instituto para os Comportamentos Aditivos e as Dependências, I. P. (ICAD, I.
 
 2 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As Administrações Regionais de Saúde, I. P., abreviadamente designadas por ARS, I. P., têm por missão assegurar o planeamento regional dos recursos, numa ótica de coordenação intersetorial, promovendo a coesão territorial na área da saúde e desenvolvendo atividades no âmbito da saúde pública.
 
@@ -914,15 +1120,15 @@ O presente decreto-lei produz efeitos na data de entrada em vigor da Lei do Orç
 
 Visto e aprovado em Conselho de Ministros de 13 de julho de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - Maria Helena Chaves Carreiras - José Luís Pereira Carneiro - Catarina Teresa Rola Sarmento e Castro - Sofia Alves de Aguiar Batalha - Ana Catarina Veiga dos Santos Mendonça Mendes - António José da Costa Silva - Elvira Maria Correia Fortunato - João Miguel Marques da Costa - Luís Miguel de Oliveira Fontes - Manuel Francisco Pizarro de Sampaio e Castro - Jorge Moreno Delgado - Marina Sola Gonçalves - Ana Maria Pereira Abrunhosa Trigueiros de Aragão - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 5 de setembro de 2023.**
+Promulgado em 5 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de setembro de 2023.**
+Referendado em 8 de setembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -1204,9 +1410,9 @@ O património do ICAD, I. P., é constituído pela universalidade dos bens, dire
 
 Cargos de direção superior da administração direta»
 
-|  |  |
+|  | Número<br>de lugares |
 | --- | --- |
-|  | Número de lugares |
+|  |  |
 | Cargos de direção superior de 1.º grau... | 3 |
 | Cargos de direção superior de 2.º grau... | 4 |
 
@@ -1214,9 +1420,9 @@ Cargos de direção superior da administração direta»
 
 Dirigentes de organismos da administração indireta
 
-|  |  |  |
+|  | Número<br>de lugares |  |
 | --- | --- | --- |
-|  | Número de lugares |  |
+|  |  |  |
 | Presidentes de conselho diretivo... | 12 |  |
 | Vice-presidentes ou vogais de conselho diretivo... | 28 | » |
 
@@ -1463,3 +1669,5 @@ c) Pronunciar-se, quando solicitado, sobre ações, iniciativas ou projetos conc
 ###### Artigo 16.º — Apoio administrativo
 
 O apoio administrativo ao funcionamento do Conselho Interministerial e do Conselho Nacional é prestado pelo ICAD, I. P.
+
+116926711

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19300/0000300010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2023/10/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1660caee34aa2351a9f1800e65a678a2b2cfb6d30a7cec1e7a3571f20a1db78c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5be2b7d5460b87a74ace48a53d44a9af0965b736fc98301f9a4b4053e1d9b01a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Administração Pública
 - Agência de Desenvolvimento Regional
 - Agência para o Desenvolvimento e Coesão
-- QREN
-- Financiamento
+- Autoridade de Gestão
+- Avaliação do Pessoal
+- Balcão dos Fundos
+- Bolsa de Consultores
 - CE Países
-- Pessoal Dirigente
-- Comissão EURO
-- Portugal
-- Administração Pública
+- CIC Portugal 2030
 - Comissão de Coordenação e Desenvolvimento Regional
+- Comissão EURO
+- Financiamento
+- Fundo para o Asilo, a Migração e a Integração
 - Homologação
 - Integração de Trabalhadores
 - Lei Geral do Trabalho em Funções Públicas
+- Mobilidade de Pessoal
+- Pessoal Dirigente
+- Plataforma Eletrónica
 - Política Agrícola Comum
+- Portal dos Fundos Europeus
+- Portugal
+- Portugal 2030
 - Programa de Assistência Técnica
 - Programa Operacional
+- QREN
 - Quadro de Pessoal
 - Remuneração
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Plataforma Eletrónica
-- Autoridade de Gestão
-- Bolsa de Consultores
-- Portugal 2030
-- Fundo para o Asilo
-- a Migração e a Integração
-- CIC Portugal 2030
-- Portal dos Fundos Europeus
-- Balcão dos Fundos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
@@ -137,16 +136,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:106579661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142870336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:58Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +314,9 @@ e) [Anterior alínea c).]
 
 f) [Anterior alínea d).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -309,13 +350,17 @@ i) [...]
 
 7 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Podem ser criadas até quatro equipas de projeto temporárias, por deliberação do conselho diretivo, que define igualmente os respetivos objetivos, o plano de trabalhos e os recursos que lhes são afetos, cuja duração tem como limite o quadro financeiro plurianual vigente à data da sua criação.
 
-###### Artigo 15.º — Cargos dirigentes intermédios e chefes de equipas de projetos
+Artigo 15.º
+
+Cargos dirigentes intermédios e chefes de equipas de projetos
 
 1 - [...]
 
@@ -337,7 +382,9 @@ c) Coordenadores de área 60 %.
 
 7 - A chefia das equipas de projetos é desempenhada pelo período de dois anos, renovável por igual período, podendo cessar a todo o tempo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - No exercício de funções de auditoria e de controlo, os trabalhadores e respetivos dirigentes da Agência, I. P., gozam dos seguintes direitos e prerrogativas:
 
@@ -373,7 +420,9 @@ Os artigos 6.º, 9.º, 10.º, 13.º e 14.º do [Decreto-Lei n.º 34/2018](https:
 
 6 - O mapa de pessoal específico é homologado pelo membro do Governo que exerce superintendência e tutela sobre a Agência, I. P., após aprovação, pelos membros do Governo responsáveis pela coordenação política específica, da parte do mapa de pessoal respeitante aos correspondentes programas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -399,7 +448,9 @@ c) Nas CCDR desde que afetos exclusivamente aos programas regionais dos fundos e
 
 9 - Os trabalhadores que consolidem a mobilidade prevista no número anterior mantêm o direito ao suplemento remuneratório enquanto exercerem as funções que deram origem à respetiva atribuição, e até à integração do mesmo nos termos previstos no n.º 4.
 
-###### Artigo 10.º — Reafetação de trabalhadores do mapa específico
+Artigo 10.º
+
+Reafetação de trabalhadores do mapa específico
 
 1 - É permitida a reafetação de trabalhadores entre programas no âmbito do mapa de pessoal específico previsto no n.º 1 do artigo 6.º-A.
 
@@ -407,13 +458,17 @@ c) Nas CCDR desde que afetos exclusivamente aos programas regionais dos fundos e
 
 3 - Os trabalhadores reafetados nos termos dos números anteriores mantêm o suplemento remuneratório, sem prejuízo de gozarem de outros direitos e garantias previstos no regime geral de mobilidade, regulado na LTFP, e sem prejuízo do disposto no n.º 9 do artigo anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O recrutamento de novos trabalhadores para o mapa de pessoal específico dos programas a que se refere o n.º 1 do artigo 6.º-A é efetuado através de recrutamento centralizado ou de recrutamento promovido pela Agência, I. P., a solicitação das autoridades de gestão, de acordo com a disponibilidade orçamental dos correspondentes programas, inscrita nos respetivos serviços de apoio, os quais identificam as necessidades e definem os perfis dos trabalhadores a recrutar, e sem prejuízo das competências dos serviços ou organismos que prestam o apoio logístico e administrativo às respetivas autoridades de gestão relativas ao recrutamento dos demais trabalhadores.
 
 2 - O disposto no presente decreto-lei não determina, em momento algum, o aumento ou a diminuição do número de elementos de cada autoridade de gestão, de acordo com a dotação fixada na resolução do Conselho de Ministros que procede à respetiva criação.
 
-###### Artigo 14.º — Alteração do posicionamento remuneratório dos trabalhadores dos programas
+Artigo 14.º
+
+Alteração do posicionamento remuneratório dos trabalhadores dos programas
 
 1 - Após a integração e reposicionamento dos trabalhadores nos termos dos artigos 12.º e 13.º da [Lei n.º 112/2017](https://diariodarepublica.pt/dr/detalhe/lei/112-2017-114425584), de 29 de dezembro, compete à Agência, I. P., operacionalizar a alteração do posicionamento remuneratório dos trabalhadores afetos ao mapa de pessoal específico dos programas dos fundos europeus, nos termos da lei.
 
@@ -501,12 +556,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de agosto de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - João Nuno Marques de Carvalho Mendes.
 
-**Promulgado em 23 de setembro de 2023.**
+Promulgado em 23 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2023.**
+Referendado em 28 de setembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116909556

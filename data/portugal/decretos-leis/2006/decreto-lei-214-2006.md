@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2006-545643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b0e2680f2ebb2129171e063d1301db1ff665a86df09c6ec8e7ad7b6da7b2b3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 559b45b165421e97e529f113a3ab27a1ffd8ec5bfd9552f8951e46549708eece
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,42 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Conselho Nacional de Avaliação do Ensino Superior
-- Fundação para a Ciência e a Tecnologia
-- Criação de Serviços
-- Extinção de Serviços
-- Secretaria Geral
-- Inspecção Geral
-- Instituto de Meteorologia
-- Instituto Tecnológico e Nuclear
-- Conselho Nacional de Acção Social do Ensino Superior
-- Conselho Superior de Ciência Tecnologia e Inovação
-- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
-- Museu Nacional da Ciência e da Técnica Doutor Mário Silva
-- Observatório da Ciência e do Ensino Superior
-- Centro Científico e Cultural de Macau
-- Conselho Consultivo do Ensino Superior
-- Direção Geral do Ensino Superior
-- Estádio Universitário de Lisboa
-- Gabinete de Relações Internacionais da Ciência Inovação e Ensino Superior
-- Conselho Coordenador da Ciência e Tecnologia
-- Conselho Coordenador do Ensino Superior
-- Conselho Nacional de Educação
-- Instituto de Investigação Científica e Tropical
-- Laboratório do Estado
-- Orgânica
-- UMIC
-- Quadro de Pessoal
 - Academia das Ciências de Lisboa
 - Agência para a Modernização Administrativa
+- Centro Científico e Cultural de Macau
+- Conselho Consultivo do Ensino Superior
+- Conselho Coordenador da Ciência e Tecnologia
+- Conselho Coordenador do Ensino Superior
+- Conselho Nacional de Acção Social do Ensino Superior
+- Conselho Nacional de Avaliação do Ensino Superior
+- Conselho Nacional de Educação
+- Conselho Superior de Ciência Tecnologia e Inovação
+- Criação de Serviços
+- Direção Geral do Ensino Superior
+- Estádio Universitário de Lisboa
+- Extinção de Serviços
+- Fundação para a Ciência e a Tecnologia
+- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
+- Gabinete de Relações Internacionais da Ciência Inovação e Ensino Superior
+- Inspecção Geral
+- Instituto de Investigação Científica e Tropical
+- Instituto de Meteorologia
+- Instituto Tecnológico e Nuclear
+- Laboratório do Estado
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Museu Nacional da Ciência e da Técnica Doutor Mário Silva
+- Observatório da Ciência e do Ensino Superior
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- UMIC
 relationships:
 - type: amended_by
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521024:por
+  label: "Determinado que a Agência para a Modernização Administrativa (AMA, IP) suceda nas atribuições da UMIC - Agência\
+    \ para a Sociedade do Conhecimento, IP, relativas à área da administração electrónica, cujas atribuições constam do Dec\
+    \ Lei 153/2007 de 27-Abr, bem como da orgânica do Ministério da Ciência Tecnologia e Ensino Superior, que a reestruturou,\
+    \ aprovada pelo Dec Lei 214/2006 de 27-Out, pelo DEC LEI.116/2007.27.04.2007.PCM, DR.IS [82] de 27.04.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2007-521024
+  date: '2007-04-27'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Ciência, Tecnologia e Ensino Superior, e determinada a transição para o Ministério da Educação\
+    \ e Ciência dos serviços, organismos e estruturas identificados no presente diploma, alterado pelo Dec Lei 116/2007 de\
+    \ 27-Abr, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 19º.\09º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto o Conselho Coordenador da Ciência e Tecnologia pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2005/01/06/p/dre
   label: null
@@ -121,16 +142,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:626268:por
+  label: "Rectificado pela DECL-RECT.83-C/2006.21.12.2006.PCM, DR.IS [246]Supl de 26.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-c-2006-626268
+  date: '2006-12-21'
+- type: repealed_by
+  target: pt:dre:145195:por
+  label: "Revogado, a partir de 03.01.2012., pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
+- type: repeals
+  target: pt:numero:decreto-lei:10/2005
+  label: "Revoga o Decreto-Lei n.º 10/2005, de 6 de Janeiro, DR.IS-A [4], e determina nos termos do artigo 32.º e de acordo\
+    \ com o disposto nos artigos 26.º e 28.º do presente diploma, a extinção com fusão os seguintes serviços e organismos:\
+    \ do Gabinete de Gestão Financeira da Ciência e do Ensino Superior (sendo as suas atribuições integradas no Gabinete de\
+    \ Planeamento, Estratégia, Avaliação e Relações Internacionais, na Secretaria-Geral e na Direcção-Geral do Ensino Superior)\
+    \ - do Observatório da Ciência e Ensino Superior (sendo as suas atribuições integradas no Gabinete de Planeamento, Estratégia,\
+    \ Avaliação e Relações Internacionais) - do Gabinete de Relações Internacionais da Ciência, Inovação e Ensino Superior\
+    \ (sendo as suas atribuições integradas na Direcção-Geral do Ensino Superior, na Fundação para a Ciência e a Tecnologia\
+    \ e na UMIC - Agência para a Sociedade do Conhecimento) - do Conselho Consultivo do Ensino Superior e do Conselho Nacional\
+    \ de Acção Social do Ensino Superior (sendo as suas atribuições integradas no Conselho Coordenador do Ensino Superior);\
+    \ a extinção - do Conselho Nacional de Avaliação do Ensino Superior (que se mantém em funcionamento até à criação de uma\
+    \ agência de acreditação e avaliação do ensino superior); a reestruturação dos os seguintes serviços e organismos: do\
+    \ Conselho Superior da Ciência, Tecnologia e Inovação (que passa a designar-se Conselho Coordenador da Ciência e Tecnologia),\
+    \ da UMIC - Agência para a Sociedade do Conhecimento (sendo as suas atribuições no domínio da administração electrónica\
+    \ transferidas para a Agência da Modernização Administrativa, no âmbito da Presidência do Conselho de Ministros), e de\
+    \ mais organismos referidos nos artigos 4.º e 5.º deste diploma; a Externalização do Estádio Universitário de Lisboa e\
+    \ do Museu Nacional da Ciência e da Técnica Doutor Mário Silva \0va \0"
+  source: null
+  date: '2005-01-06'
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:52Z'
   warnings: []
   errors: []
 ---
@@ -641,20 +712,20 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75327539.pdf)

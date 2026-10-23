@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/271a00/73687370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/259/2002/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/259-2002-448316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62035d3e0b41c6a4c315539a7896403295f53a899f4e39f52edc3f8169f444f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c065f6c3356065557148a3616ca6354f6476762e34eaeca5c2bff7dcfb05a87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Multa
+- Câmara Municipal
 - Direcção Regional do Ambiente e do Ordenamento do Território
 - Fiscalização
+- Garantia
 - Inspecção Geral do Ambiente
 - Licenciamento
-- Regulamento Geral sobre o Ruido
-- Câmara Municipal
+- Multa
 - Poluição Sonora
+- Regulamento Geral sobre o Ruido
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -88,16 +88,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522807:por
+  label: "Revogado o regime legal sobre poluição sonora, aprovado pelo Dec Lei 292/2000 de 14-Nov, alterado pelo presente\
+    \ diploma, pelo DEC LEI.9/2007.17.01.2007.MAOTDR, DR.IS [12] de 17.01.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2007-522807
+  date: '2007-01-17'
 article_structure:
-  article_count: 9
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:10Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +178,9 @@ Actividades ruidosas temporárias
 
 12 - A suspensão prevista no número anterior é determinada por decisão do presidente da câmara, depois de lavrado, e devidamente comunicado, auto da ocorrência pela autoridade policial, oficiosamente ou a pedido de qualquer interessado ou reclamante.
 
-###### Artigo 17.º — Tráfego aéreo
+Artigo 17.º
+
+Tráfego aéreo
 
 1 - ...
 
@@ -168,13 +192,17 @@ Actividades ruidosas temporárias
 
 5 - ...
 
-###### Artigo 19.º — Entidades fiscalizadoras
+Artigo 19.º
+
+Entidades fiscalizadoras
 
 1 - A fiscalização do cumprimento das disposições constantes do presente diploma incumbe à entidade licenciadora competente da administração central do Estado ou, na sua falta, à Inspecção-Geral do Ambiente, às direcções regionais do ambiente e do ordenamento do território e aos municípios, sem prejuízo dos poderes das autoridades policiais.
 
 2 - ...
 
-###### Artigo 20.º — Formação, apoio técnico e financeiro
+Artigo 20.º
+
+Formação, apoio técnico e financeiro
 
 1 - Incumbe ao Ministério das Cidades, Ordenamento do Território e Ambiente, através do Instituto do Ambiente, promover, em colaboração com as entidades referidas no artigo anterior, a formação de recursos humanos.
 
@@ -190,7 +218,9 @@ Actividades ruidosas temporárias
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 22.º — Sanções
+Artigo 22.º
+
+Sanções
 
 1 - Constituem contra-ordenações puníveis com coima de (euro) 499 a (euro) 2494, quando praticadas por pessoas singulares, e de (euro) 1247 a (euro) 24940, quando praticadas por pessoas colectivas:
 
@@ -226,7 +256,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 24.º — Processamento e aplicação de coimas
+Artigo 24.º
+
+Processamento e aplicação de coimas
 
 1 - O processamento das contra-ordenações e a aplicação das respectivas coimas e sanções acessórias é da competência das entidades licenciadoras da actividade ou, na sua falta, das direcções regionais do ambiente e do ordenamento do território e dos municípios.
 
@@ -238,11 +270,15 @@ e) ...
 
 5 - Compete à Inspecção-Geral do Ambiente e às direcções regionais do ambiente e do ordenamento do território o processamento das contra-ordenações e aplicação das coimas e sanções acessórias no âmbito da fiscalização a que alude o n.º 1 do artigo 19.º, bem como das contra-ordenações previstas no n.º 2, alínea a), do artigo 22.º
 
-###### Artigo 26.º — Caução
+Artigo 26.º
+
+Caução
 
 Por decisão conjunta do membro do Governo competente em razão da matéria e do Ministro das Cidades, Ordenamento do Território e Ambiente pode ser determinada a prestação de caução aos agentes económicos que se proponham desenvolver, com carácter temporário ou permanente, actividades potencialmente ruidosas, a qual pode ser devolvida caso não surjam, em prazo e condições a definir, reclamações por incomodidade imputada à actividade ou, surgindo, venha a concluir-se pela sua improcedência.
 
-###### Artigo 27.º — Medidas cautelares
+Artigo 27.º
+
+Medidas cautelares
 
 1 - O presidente da câmara municipal, o inspector-geral do ambiente e o director regional do ambiente e do ordenamento do território, no âmbito das respectivas competências, podem ordenar fundamentadamente as medidas imprescindíveis para evitar danos graves para a segurança das populações ou para a saúde pública, neste caso ouvido o director regional de saúde, em consequência de actividades que presumivelmente violem o disposto no presente diploma.
 
@@ -256,12 +292,12 @@ O presente diploma entra em vigor a 1 de Janeiro de 2003.
 
 Visto e aprovado em Conselho de Ministros de 12 de Setembro de 2002. - José Manuel Durão Barroso - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 13 de Novembro de 2002.**
+Promulgado em 13 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Novembro de 2002.**
+Referendado em 14 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

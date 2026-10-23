@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-1971-445517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08c410e79d97c800af7594e4631e314133fb3e4a7f5ce6a8c414360b02fe493f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a013edbf7e215b96490dd3b7f6a293607aea91a3e15718aef599066095620275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:36Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 Regulamento dos Concursos de Promoção a Meteorologista Investigador Principal do Quadro do Pessoal Técnico Superior do Serviço Meteorológico Nacional.
 
-###### Artigo 1.º - 1. Os concursos de promoção a meteorologista investigador principal do quadro do pessoal técnico superior do Serviço Meteorológico Nacional serão abertos, em regra, pelo prazo de cento e oitenta dias a contar da data da publicação do respectivo anúncio no Diário do Governo, sendo opositores facultativos os meteorologistas com um mínimo de dez anos de bom e efectivo serviço, contados desde a admissão ao referido quadro, e que se encontrem à data do concurso no exercício de funções remuneradas pelo orçamento do Serviço ou colocados nos serviços meteorológicos das províncias ultramarinas.
+Artigo 1.º - 1. Os concursos de promoção a meteorologista investigador principal do quadro do pessoal técnico superior do Serviço Meteorológico Nacional serão abertos, em regra, pelo prazo de cento e oitenta dias a contar da data da publicação do respectivo anúncio no Diário do Governo, sendo opositores facultativos os meteorologistas com um mínimo de dez anos de bom e efectivo serviço, contados desde a admissão ao referido quadro, e que se encontrem à data do concurso no exercício de funções remuneradas pelo orçamento do Serviço ou colocados nos serviços meteorológicos das províncias ultramarinas.
 
 2. De acordo com as necessidades do serviço, os concursos poderão ser abertos em relação a um dos grupos de disciplinas seguintes:
 
@@ -109,7 +117,7 @@ d) Sismologia e Geomagnetismo.
 
 4. Por conveniência de serviço, o prazo do concurso referido no n.º 1 do presente artigo poderá ser reduzido até um mínimo de noventa dias, por despacho do Ministro das Comunicações, sob proposta fundamentada do director-geral do Serviço Meteorológico Nacional.
 
-###### Art. 2.º - 1. Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
+Art. 2.º - 1. Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
 
 1) Requerimento de admissão ao concurso, dirigido ao director-geral do Serviço Meteorológico Nacional;
 
@@ -131,23 +139,23 @@ d) Descrição comentada dos resultados mais significativos da actividade especi
 
 2. O trabalho de policópia da tese referida na alínea 3) do n.º 1 do presente artigo poderá ser executado no Serviço Meteorológico Nacional a requerimento dos candidatos, independentemente da decisão da sua publicação pelo Serviço nos termos do regime geral de edição dos trabalhos elaborados pelo seu pessoal.
 
-###### Art. 3.º - 1. Os candidatos entregarão o requerimento e documentos referidos no n.º 1 do artigo 2.º, na secretaria da Direcção-Geral do Serviço Meteorológico Nacional ou no estabelecimento externo deste em que prestam serviço, até às 17 horas do último dia do prazo do concurso.
+Art. 3.º - 1. Os candidatos entregarão o requerimento e documentos referidos no n.º 1 do artigo 2.º, na secretaria da Direcção-Geral do Serviço Meteorológico Nacional ou no estabelecimento externo deste em que prestam serviço, até às 17 horas do último dia do prazo do concurso.
 
 2. O chefe do estabelecimento externo onde o requerimento e os documentos sejam entregues, ou seu substituto, escreverá no requerimento, na presença da apresentante, a indicação do local, dia e hora da entrega dos documentos que o acompanharam. O requerimento e os documentos serão imediatamente remetidos à Direcção-Geral do Serviço Meteorológico Nacional.
 
-###### Art. 4.º - 1. A tese a que se refere o artigo 2.º dirá respeito a um trabalho de investigação realizado pelo candidato, sobre assunto nos domínios de acção do Serviço, ou no domínio do grupo de disciplinas referidas no n.º 2 do artigo 1.º em relação ao qual o concurso tenha sido eventualmente aberto, em que se enunciem conclusões originais de interesse para o progresso dos conhecimentos naqueles domínios.
+Art. 4.º - 1. A tese a que se refere o artigo 2.º dirá respeito a um trabalho de investigação realizado pelo candidato, sobre assunto nos domínios de acção do Serviço, ou no domínio do grupo de disciplinas referidas no n.º 2 do artigo 1.º em relação ao qual o concurso tenha sido eventualmente aberto, em que se enunciem conclusões originais de interesse para o progresso dos conhecimentos naqueles domínios.
 
 2. A tese poderá ser preparada, total ou parcialmente, fora do Serviço, em instituição que se dedique a investigação, nacional ou estrangeira.
 
 3. É admitido na elaboração da tese o aproveitamento, total ou parcial, do resultado de trabalhos já publicados, mesmo em colaboração, devendo, neste caso, o candidato esclarecer qual a sua contribuição pessoal.
 
-###### Art. 5.º - 1. O júri do concurso para meteorologista investigador principal será constituído pelo director-geral do Serviço Meteorológico Nacional, que presidirá, pelos meteorologistas-chefes e meteorologistas investigadores principais para o efeito nomeados, num número total nunca inferior a cinco.
+Art. 5.º - 1. O júri do concurso para meteorologista investigador principal será constituído pelo director-geral do Serviço Meteorológico Nacional, que presidirá, pelos meteorologistas-chefes e meteorologistas investigadores principais para o efeito nomeados, num número total nunca inferior a cinco.
 
 2. Poderão ser agregados ao júri do concurso, com a faculdade de intervirem na classificação dos candidatos cujas provas práticas arguirem, professores universitários e outros cientistas, nacionais ou estrangeiros, escolhidos para arguentes pela sua especial competência nos assuntos a versar.
 
 3. As nomeações dos membros do júri referidos nos n.os 1 e 2 do presente artigo serão feitas por despacho do Ministro das Comunicações, após colhidas as necessárias concordâncias em relação aos membros estranhos ao Ministério.
 
-###### Art. 6.º - 1. Encerrado o concurso, a Repartição Técnica da Direcção-Geral do Serviço organizará os processos relativos a cada candidato, juntando à documentação entregue pelos candidatos a ficha cadastral e as informações de serviço existentes no processo individual de cada um deles.
+Art. 6.º - 1. Encerrado o concurso, a Repartição Técnica da Direcção-Geral do Serviço organizará os processos relativos a cada candidato, juntando à documentação entregue pelos candidatos a ficha cadastral e as informações de serviço existentes no processo individual de cada um deles.
 
 2. Os processos serão remetidos ao júri a que se refere o n.º 1 do artigo 5.º, o qual reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e apresentará, em regra dentro do prazo de quinze dias a contar da data do recebimento dos processos, para publicação e comunicação directa aos candidatos, pessoalmente ou em carta registada, a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
 
@@ -157,13 +165,13 @@ d) Descrição comentada dos resultados mais significativos da actividade especi
 
 5. O calendário das provas será de molde a que cada candidato realize as diversas provas práticas em dias diferentes.
 
-###### Art. 7.º O concurso compreenderá provas documentais e provas práticas.
+Art. 7.º O concurso compreenderá provas documentais e provas práticas.
 
-###### Art. 8.º - 1. As provas documentais do concurso consistem na apreciação das qualidades científicas, técnicas e administrativas, com base nas informações de serviço dos candidatos e nos elementos de informação a que se referem as alíneas 2) e 5) do n.º 1 do artigo 2.º
+Art. 8.º - 1. As provas documentais do concurso consistem na apreciação das qualidades científicas, técnicas e administrativas, com base nas informações de serviço dos candidatos e nos elementos de informação a que se referem as alíneas 2) e 5) do n.º 1 do artigo 2.º
 
 2. Serão reprovados os candidatos que obtiverem uma classificação global nas provas documentais inferior a 16 valores.
 
-###### Art. 9.º - 1. As provas práticas do concurso, que serão orais e públicas, são as seguintes:
+Art. 9.º - 1. As provas práticas do concurso, que serão orais e públicas, são as seguintes:
 
 Prova A - Apreciação e discussão, por um ou dois arguentes, durante um período não superior a duas horas, do curriculum vitae do candidato, em especial os trabalhos e publicações mencionados na resenha a que se refere a alínea 2) do n.º 1 do artigo 2.º
 
@@ -181,15 +189,15 @@ Prova C - Exposição de uma hora sobre tema tirado à sorte pelo candidato, com
 
 6. Serão reprovados os candidatos que obtiverem classificação inferior a 14 nas provas A e C e a 16 na prova B, ou uma classificação global das provas práticas inferior a 16.
 
-###### Art. 10.º - 1. A classificação final do concurso para meteorologista investigador principal será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
+Art. 10.º - 1. A classificação final do concurso para meteorologista investigador principal será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
 
 2. Serão publicadas no Diário do Governo as classificações finais dos candidatos aprovados, apenas se indicando, quanto aos reprovados, se a reprovação foi determinada pelas provas documentais, pelas práticas ou por ambas
 
-###### Art. 11.º - 1. A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
+Art. 11.º - 1. A falta a uma prova prática do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
 
 2. Consideram-se motivos justificados a doença comprovada nos termos legais e os casos de força maior como tais reconhecidos pelo júri.
 
-###### Art. 12.º - 1. Concluídas as provas, o júri reunir-se-á para a apreciação destas, devendo o resumo desta apreciação constar da respectiva acta, e para a classificação dos candidatos.
+Art. 12.º - 1. Concluídas as provas, o júri reunir-se-á para a apreciação destas, devendo o resumo desta apreciação constar da respectiva acta, e para a classificação dos candidatos.
 
 2. Só podem participar na votação os membros do júri que tenham assistido a todas as provas do respectivo candidato.
 
@@ -197,8 +205,8 @@ Prova C - Exposição de uma hora sobre tema tirado à sorte pelo candidato, com
 
 4. O presidente do júri tem também voto de qualidade.
 
-###### Art. 13.º Das deliberações dos júris cabe recurso, interposto no prazo de cinco dias a contar da data da sua publicação no Diário do Governo, para o Ministro das Comunicações, que ouvirá a Procuradoria-Geral da República sempre que se invoque preterição ou ofensa de qualquer formalidade essencial do processo.
+Art. 13.º Das deliberações dos júris cabe recurso, interposto no prazo de cinco dias a contar da data da sua publicação no Diário do Governo, para o Ministro das Comunicações, que ouvirá a Procuradoria-Geral da República sempre que se invoque preterição ou ofensa de qualquer formalidade essencial do processo.
 
-###### Art. 14.º As omissões e dúvidas que se levantem na execução deste Regulamento serão resolvidas por despacho do Ministro das Comunicações.
+Art. 14.º As omissões e dúvidas que se levantem na execução deste Regulamento serão resolvidas por despacho do Ministro das Comunicações.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/2006/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8818b3d1fa5193ae7c1496176bbb0dbb51fef7bf88bbe70b6c9ca9ebf4f4395
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b515293a7b38cf2f724b0a0a0c25cdab92eb64ec28145115606b79963c38a78e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Embarcação
-- Transporte Marítimo
 - Especificação Técnica
 - Normas de Segurança
 - Segurança da Navegação
 - Segurança Marítima
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: cites
   target: celex:32003L0025
@@ -85,15 +85,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2005/12/oj
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:16Z'
   warnings: []
   errors: []
 ---
@@ -130,13 +130,17 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º
 
 2 - O regime transposto tem como objectivo estabelecer um nível uniforme de requisitos e prescrições específicas de estabilidade para os navios ro-ro de passageiros que aumentem a capacidade de sobrevivência deste tipo de navios em caso de avaria por colisão e proporcionem um nível de segurança elevado aos passageiros e tripulantes.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - O IPTM deve assegurar que os navios ro-ro de passageiros que arvoram pavilhão de um Estado terceiro satisfaçam plenamente as prescrições do presente decreto-lei antes de os autorizar a efectuarem viagens de ou para portos nacionais, nos termos do artigo 4.º do Decreto-Lei n.º 27/2002, de 14 de Fevereiro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A lista das zonas marítimas atravessadas pelos navios ro-ro de passageiros que operem em serviço regular rumo aos portos nacionais ou deles provenientes, bem como os correspondentes valores da altura significativa da onda nessas áreas, é estabelecida por portaria conjunta dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações, sendo publicada na página electrónica do IPTM.
 
@@ -148,15 +152,15 @@ O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 2006. - António Luís Santos Costa - Luís Filipe Marques Amado - João José Amaral Tomaz - Henrique Nuno Pires Severiano Teixeira - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
 
-**Promulgado em 7 de Setembro de 2006.**
+Promulgado em 7 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Setembro de 2006.**
+Referendado em 8 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
@@ -196,7 +200,7 @@ Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2
 
 4 - ...
 
-## APÊNDICE
+APÊNDICE
 
 Método de ensaio com modelo
 
@@ -248,7 +252,7 @@ T(índice z) - período de intersecção zero;
 
 4 - Procedimento de ensaio:
 
-4.1 - O modelo será ensaiado num mar de leva com cristas longas e irregulares, definido pelo espectro Jonswap, com uma altura significativa da onda (H(índice s)), um factor de intensificação de pico (gama) = 3,3 e um período de pico T(índice p) = [([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf) (T(índice z) = T(índice p)/1,285). H(índice s) é a altura significativa da onda na zona de operação, cuja probabilidade de ser excedida não é superior a 10% numa base anual, mas limitada a um máximo de 4 m.
+4.1 - O modelo será ensaiado num mar de leva com cristas longas e irregulares, definido pelo espectro Jonswap, com uma altura significativa da onda (H(índice s)), um factor de intensificação de pico (gama) = 3,3 e um período de pico T(índice p) = [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf) (T(índice z) = T(índice p)/1,285). H(índice s) é a altura significativa da onda na zona de operação, cuja probabilidade de ser excedida não é superior a 10% numa base anual, mas limitada a um máximo de 4 m.
 
 Além disso:
 
@@ -286,7 +290,7 @@ Além disso:
 
 [...]
 
-# Parte I
+Parte I
 
 [...]
 
@@ -316,7 +320,7 @@ Ponto 2.5.3 [...]
 
 Ponto 2.6 [...]
 
-# Parte II
+Parte II
 
 Ensaios com modelo
 
@@ -378,7 +382,7 @@ Adicionalmente, quando existam troncos laterais de largura inferior a B/5, e par
 
 3.4 - Nos casos em que existe uma margem entre a altura metacêntrica (GM) e a altura metacêntrica em relação à curva limite GM (segundo a SOLAS 90), nas condições reais de carga, o IPTM poderá aceitar que essa margem seja aproveitada no ensaio com o modelo. Em tais casos, a curva limite GM deve ser ajustada. Este ajustamento pode ser efectuado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18300/69696974.pdf)
 
 d = d(índice S) - 0,6 (d(índice S) - d(índice LS))
 

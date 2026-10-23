@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 255/2015, 1º Suplemento, Série I de 2015-12-31
   number: '255'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 10010-(3) a 10010-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25501/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/254-b/2015/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-b-2015-72997147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 018661a79366939b9f07e4bc8ad94a1664763821e11f49fd2aa7ab13bdac5287
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 730acab1ed52528eddc8c8ecdc148d0c47b27d8ee61e8af9a4e97572acf79b6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Pensões
-- Pobreza
-- Pensão por Incapacidade Permanente para o Trabalho
 - Caixa Geral de Aposentações
+- Complemento Solidário para Idosos
+- Doença Profissional
 - IAS
 - Insuficiência Económica
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
-- Doença Profissional
+- Pensão de Velhice
+- Pensão por Incapacidade Permanente para o Trabalho
 - Pensão por Morte
 - Pensionista
-- Proteção na Velhice
 - Pensões
+- Pobreza
 - Prestações da Segurança Social
+- Proteção na Velhice
 - Proteção Social
 - Regime de Protecção Social Convergente
 - Regime Geral da Segurança Social
 - Segurança Social
-- Complemento Solidário para Idosos
 relationships:
 - type: amended_by
   target: pt:dre:158316443:por
@@ -136,16 +136,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/2009/09/04/p/dre
+- type: cites
+  target: pt:dre:164427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:21Z'
   warnings: []
   errors: []
 ---
@@ -214,12 +266,12 @@ O presente decreto-lei produz efeitos a partir de 1 de janeiro de 2016.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2015. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - José António Fonseca Vieira da Silva.
 
-**Promulgado em 30 de dezembro de 2015.**
+Promulgado em 30 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de dezembro de 2015.**
+Referendado em 30 de dezembro de 2015.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

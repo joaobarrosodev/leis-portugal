@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/339/1998/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1998-223017
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0a0bd999640ee0451646014f6af2dcb44d800eb9f64e7cbb20f6b4f4dfcb06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9797cf193867dcde2832d850a7b6cd6d406efe88bc46f4e89d4b5c3571f5e3b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,85 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
+- Administração de Portos
 - Administração do Porto de Aveiro
 - Alienação de Participação Social
+- ÁREA de Jurisdição
 - Assembleia Geral
 - Aveiro
-- Sociedade Anónima
 - Capital Social
+- Comércio
+- Comissão
 - Conselho de Administração
 - Definição de Competências
 - Direito Público
-- Propriedade do Estado
 - Estatuto
-- Administração de Portos
-- Junta Autónoma dos Portos
-- Comissão
+- Exploração Portuária
 - Fundo de Aposentação
-- Pesca
 - Instituto Nacional de Pilotagem dos Portos
 - Integração de Trabalhadores
 - Junta Autónoma do Porto de Aveiro
-- ÁREA de Jurisdição
+- Junta Autónoma dos Portos
 - Licenciamento de Obras
 - Obras Públicas
+- Pesca
 - Porto de Pesca
-- Exploração Portuária
+- Propriedade do Estado
 - Segurança Marítima
-- Comércio
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:183159328:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Colocada na dependência do Ministro do Equipamento Social, a Administração do Porto de Aveiro, S.A, a que se refere\
+    \ o presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:254666:por
+  label: "Alterado o art. 7º pelo DEC LEI.40/2002.2002.02.28.MES, DR.IS-A [50] de 28/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2002-254666
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:251873:por
+  label: "Aditada a al. g) ao nº 2 do art. 3º e revogados os nºs 2 e 3 do art. 12º deste diploma pelo DEC LEI.46/2002.2002.03.02.MES\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2002-251873
+  date: '2002-03-02'
+- type: amended_by
+  target: pt:dre:386824:por
+  label: "Desafectada do domínio público marítimo uma parcela de terreno e confirmada a respectiva integração no património\
+    \ da APA - Administração do Porto de Aveiro, S. A. decorrente do estabelecido no presente diploma, pelo DEC LEI.7/2008.10.01.2008.MOPTC,\
+    \ DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2008-386824
+  date: '2008-01-10'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a superintendência e tutela sobre a administração do Porto de Aveiro seja exercida pela Ministra
+    do Mar em coordenação com o Ministro do Planeamento e das Infraestruturas, sem prejuízo dos poderes legalmente conferidos
+    ao Conselho de Ministros e ao Ministro das Finanças pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015,
+    1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro de Estado e das Finanças, que a superintendência e tutela sobre a Administração do Porto de Aveiro, prevista
+    no presente diploma, seja exercida pelo Ministro das Infraestruturas e da Habitação, em coordenação com o Ministro do
+    Mar, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e
+    ao Ministro das Finanças, o exercício da superintendência e tutela do Ministro das Infraestruturas e Habitação, em coordenação
+    com o Ministro da Economia e do Mar, sobre a Administração do Porto de Aveiro, S.A. (APA, S.A.) pelo(a) Decreto-Lei n.º
+    32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
@@ -106,16 +154,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:235892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:02Z'
   warnings: []
   errors: []
 ---
@@ -360,15 +440,15 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 18 de Outubro de 1998.**
+Promulgado em 18 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Outubro de 1998.**
+Referendado em 16 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da APA - Administração do Porto de Aveiro, S. A.
 

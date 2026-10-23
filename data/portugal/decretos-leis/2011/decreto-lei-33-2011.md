@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2011/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2011-279421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70ec79962dfddd188c88e2d4c82fb6b1dd0a870e88a3c862520ddd75a38159e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af0d7ef7c11900cddae6cd8b8ae21df567be6d4e783fded68494e4c4ac18592f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
-- Modernização Administrativa
 - Capital Social
 - Código das Sociedades Comerciais
 - Constituição de Sociedade
 - Criação de Empresas
 - Empresa na HORA
-- Sociedade de Responsabilidade Limitada
+- Modernização Administrativa
 - Programa Simplex
+- Sociedade Comercial
+- Sociedade de Responsabilidade Limitada
 relationships:
 - type: amended_by
   target: pt:dre:176071:por
@@ -108,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/101-b/2010/12/27/p/dre
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642051:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:07Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +210,9 @@ Os artigos 26.º, 199.º, 201.º, 202.º, 203.º, 205.º, 219.º e 238.º do Có
 
 3 - Nos casos e nos termos em que a lei o permita, os sócios podem estipular contratualmente o diferimento das entradas em dinheiro.
 
-###### Artigo 199.º — [...]
+Artigo 199.º
+
+[...]
 
 O contrato de sociedade deve especialmente mencionar:
 
@@ -186,11 +220,15 @@ a) ...
 
 b) O montante das entradas realizadas por cada sócio no momento do acto constitutivo ou a realizar até ao termo do primeiro exercício económico, que não pode ser inferior ao valor nominal mínimo da quota fixado por lei, bem como o montante das entradas diferidas.
 
-###### Artigo 201.º — Capital social livre
+Artigo 201.º
+
+Capital social livre
 
 O montante do capital social é livremente fixado no contrato de sociedade, correspondendo à soma das quotas subscritas pelos sócios.
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +242,9 @@ O montante do capital social é livremente fixado no contrato de sociedade, corr
 
 6 - Os sócios que, nos termos do n.º 4, se tenham comprometido no acto constitutivo a realizar as suas entradas até ao final do primeiro exercício económico devem declarar, sob sua responsabilidade, na primeira assembleia geral anual da sociedade posterior ao fim de tal prazo, que já procederam à entrega do respectivo valor nos cofres da sociedade.
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - O pagamento das entradas diferidas tem de ser efectuado em datas certas ou ficar dependente de factos certos e determinados, podendo, em qualquer caso, a prestação ser exigida a partir do momento em que se cumpra o período de cinco anos sobre a celebração do contrato, a deliberação do aumento de capital ou se encerre o prazo equivalente a metade da duração da sociedade, se este limite for inferior.
 
@@ -212,7 +252,9 @@ O montante do capital social é livremente fixado no contrato de sociedade, corr
 
 3 - ...
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 1 - ...
 
@@ -226,7 +268,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +286,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 238.º — [...]
+Artigo 238.º
+
+[...]
 
 1 - Verificando-se, relativamente a um dos contitulares da quota, facto que constitua fundamento de amortização pela sociedade, podem os sócios deliberar que a quota seja dividida, em conformidade com o título donde tenha resultado a contitularidade, sem prejuízo do disposto no n.º 3 do artigo 219.º
 
@@ -314,12 +360,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Maria Helena dos Santos André.
 
-**Promulgado em 3 de Março de 2011.**
+Promulgado em 3 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Março de 2011.**
+Referendado em 4 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

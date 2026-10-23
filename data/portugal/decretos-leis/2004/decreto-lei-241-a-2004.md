@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 304/2004, 3º Suplemento, Série I-A de 2004-12-30
   number: '304'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7412-(496) a 7412-(497)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/304a03/04960497.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/241-a/2004/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-a-2004-690441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24f2c13550e9ab09fa31ef4eb5e1ca0209734dda416521479d397594c4ff55f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04f5236f1063d5cd4857c8628197a264f29c58cfaa13b8778813a26de13a2793
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Caixa Geral de Depósitos
 - Caixa Geral de Aposentações
+- Caixa Geral de Depósitos
 - Fundo de Pensões
 - Fundo de Pensões do Pessoal da Caixa Geral de Depósitos
 - Transferência de Competências
@@ -82,16 +82,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/240-a/2004/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/240-a/2004/12/29/p/dre
+- type: cites
+  target: pt:dre:242046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620950:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:06Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +158,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix.
 
-**Promulgado em 23 de Dezembro de 2004.**
+Promulgado em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

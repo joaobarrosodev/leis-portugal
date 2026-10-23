@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 34/2014, 1º Suplemento, Série I de 2014-02-18
   number: '34'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1502-(2) a 1502-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03401/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/12-a/2014/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/12-a-2014-622155
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d76f2aeedfeb435254091ec29c84caaf123706a02a488816027e543452c8c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c94c448eef1db33c085f5366e532fdc423db319bb481241348efaa667343b150
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho de Ministros
-- Presidência da República
 - Chefe do Estado Maior do Exército
+- Conselho de Ministros
 - Nomeação
+- Presidência da República
 relationships:
 - type: amended_by
   target: pt:dre:74176194:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74176194:por
+  label: Exonerado o General Carlos António Corbal Hernandez Jerónimo do cargo de Chefe do Estado-Maior do Exército pelo(a)
+    Decreto do Presidente da República n.º 9-G/2016 - Diário da República n.º 74/2016, 2º Suplemento, Série I de 2016-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/9-g-2016-74176194
+  date: '2016-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre
   label: null
@@ -85,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:27Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +117,16 @@ validation:
 
 de 18 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133º, alínea p), da Constituição o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133º, alínea p), da Constituição o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior do Exército, sob proposta do Governo, conforme Deliberação do Conselho de Ministros de 13 de fevereiro de 2014, o Tenente-General Carlos António Corbal Hernandez Jerónimo, sendo promovido ao posto de General, por força do disposto no artigo 214.º, n.º 2, do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de junho, e republicado pelo [Decreto-Lei n.º 197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 de agosto.
 
-**Assinado em 14 de fevereiro de 2014.**
+Assinado em 14 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de fevereiro de 2014.**
+Referendado em 14 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

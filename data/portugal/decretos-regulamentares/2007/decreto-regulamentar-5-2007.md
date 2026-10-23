@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2007/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2007-517997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfff7ff7daf1702e5c8d92186d744b01a5c9338d2dc71c2f1fac3c258eb9be43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0916b3ac07d6ec96db0f6f87bf2b8e4c6b4c6147d73588b5b1b3dd3049dbcae7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Infraestrutura Turística
 - Licenciamento
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -86,16 +86,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/13/2002/03/12/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/13/2002/03/12/p/dre
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494841:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado o DR 13/2002 de 12-Mar, com as alterações introduzidas pelo presente diploma (revogado nos mesmos termos),\
+    \ pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\
+    s \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:49Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +171,12 @@ c) ...
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 25 de Janeiro de 2007.**
+Promulgado em 25 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Janeiro de 2007.**
+Referendado em 26 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

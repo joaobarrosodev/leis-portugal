@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22900/0510405108.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2011/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2011-146065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ea6f5a602a8544a8f4b77d0cf42b6f7b152183ffec80f1982b0056922e76b56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 432b1e29d989c3e7f55175fd1a5f58b88136f9caec3f4d3c6e1f9d79ea350eb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assistência Medicamentosa
-- Infarmed
+- Comércio
 - Comparticipação do Estado
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Infarmed
 - Medicamento
 - Medicamento Genérico
 - Preço
@@ -78,12 +79,39 @@ subjects:
 - Preço Máximo
 - Receita Médica
 - Sanção
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:108113700:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179572:por
+  label: "Alterados os art.s 3º, 4º, 8º e 12º a 14º, revogados o nº 3 do art. 4º e art. 15º e republicado, pelo DEC LEI.152/2012.12.07.2012.MS,\
+    \ DR.IS [134] de 12.07.2012, mantendo-se em vigor a regulamentação publicada ao abrigo ou mantida em vigor pelo presente\
+    \ diploma até à publicação da regulamentação prevista no art. 14º daquele decreto-lei. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2012-179572
+  date: '2012-07-12'
+- type: amended_by
+  target: pt:dre:259241:por
+  label: "Alterados os art.s 3º (na redação do Dec Lei 152/2012, de 12-jul), 6º, 10º e 14º (na redação do Dec Lei 152/2012,\
+    \ de 12-jul) do presente diploma, mantendo-se em vigor, com as necessárias adaptações, a regulamentação publicada ao seu\
+    \ abrigo ou por ele mantida em vigor até à publicação da regulamentação prevista na nova redação do art.14º, pelo DEC\
+    \ LEI.34/2013.27.02.2013.MS, DR.IS [41] de 27.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2013-259241
+  date: '2013-02-27'
+- type: amended_by
+  target: pt:dre:570755:por
+  label: "Alterados, a partir de 01.03.2014, os arts 7.º, 9.º e 11.º, aditado o art. 16.º-A e revogado o n.º 6 do art. 8.º,\
+    \ pelo DEC LEI.19/2014.05.02.2014.MS, DR.IS [25] de 05.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2014-570755
+  date: '2014-02-05'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art 3.º, na redação do presente diploma, aditados os arts 3.º-A e 3.º-B e revogado o n.º 2 do art 3.º
+    do Dec Lei 34/2013, de 27-fev, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de
+    2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106-a/2010/10/01/p/dre
   label: null
@@ -124,16 +152,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2011/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2011/06/16/p/dre
+- type: cites
+  target: pt:dre:146566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670005:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67356991:por
+  label: Revogado, a partir de 01.07.2015, o presente diploma, na redação dos Decs Leis 152/2012 de 12-jul, 34/2013 de 27-fev,
+    e 19/2014 de 05-fev, pelo(a) Decreto-Lei n.º 97/2015 - Diário da República n.º 105/2015, Série I de 2015-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2015-67356991
+  date: '2015-06-01'
 article_structure:
   article_count: 19
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:35Z'
   warnings: []
   errors: []
 ---
@@ -394,12 +500,12 @@ O impacto económico, financeiro e social da aplicação das medidas previstas n
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2011. - Pedro Passos Coelho - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 21 de Novembro de 2011.**
+Promulgado em 21 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Novembro de 2011.**
+Referendado em 22 de Novembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/560/1994/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/560-1994-231773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c09d4b189837c89138ce45891d5449eebfece56716f9c10e8da93995c3f4e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e477836fe46677a20c8fd04cd0107df00eec5ffbfb59b75534a42b52557da6c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Modernização Industrial
+- Pedip II
 - Regime de Apoio à Entidades de Assistência Técnica
 - Sinaipedip
-- Pedip II
 relationships:
 - type: amended_by
   target: pt:dre:478215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 154/94, DA PCM, DE 16 DE SETEMBRO, PUBLICADA NO DR.IS-B, 227, 3SUPL,\
+    \ DE 940930.\0 940930."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1994/06/27/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/50/1994/07/01/p/dre
+- type: cites
+  target: pt:dre:231889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291631:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:46Z'
   warnings: []
   errors: []
 ---
@@ -278,7 +296,7 @@ e) Despesas com a formação profissional de técnicos especializados, quando ex
 
 2 - O incentivo, com excepção do que se refere à formação profissional, é função do grau de eficácia, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf)
 
 3 - A percentagem de incentivo a atribuir é de 60% nos casos em que o grau de eficácia é de Muito bom e de 50% nos casos em que é de Bom ou Médio;
 
@@ -334,4 +352,4 @@ Nota. - O diagnóstico de investimento e plano de acção deverá ser acompanhad
 
 ## ANEXO B — Limites máximos de incentivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf))](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/07/174b00/42774280.pdf)

@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/492-1981-579085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a63d35b9dd57bbbbd4b6e893f20d1d54c006c02345d04e35c1d1ed541542c5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b97bcef3a94d489d5e4dbd40e357ac3fd84bc12929a1fac7cb89e5081f9bf6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira de Informática
+- Informática
+- Junta Autónoma das Estradas
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:375217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600330:por
+  label: "Alterado o quadro de pessoal anexo ao Dec Lei 184/78 de 18-Jul pela presente Port, pela PORT 185/82 de 12-Fev DR.IS\
+    \ [36]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/185-1982-600330
+  date: '1982-07-07'
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:26Z'
   warnings: []
   errors: []
 ---
@@ -117,10 +135,10 @@ Quadro I anexo à Portaria n.º 492/81
 
 Quadro e vencimentos do pessoal dos Serviços de Informática da JAE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf)
 
 Quadro II anexo à Portaria n.º 492/81
 
 Equivalência das categorias de pessoal de informática do quadro anexo ao [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de acordo com o [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13600/13601361.pdf)

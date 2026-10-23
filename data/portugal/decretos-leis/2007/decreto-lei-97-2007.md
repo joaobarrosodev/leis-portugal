@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19281932.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2007-520450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc59ee26c0a40da2caf9c1dc4c06d9852e4808a6960858538b24a67cfafb2c0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40bdc34733f6afb62012d7286e0f5ed80b2418505bfbc7fd661ea5bac8a9aad0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,9 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Científica
 - Autonomia Financeira
-- Instituto dos Museus e da Conservação
 - CASA Museu Doutor Anastácio Gonçalves
 - Definição de Competências
-- Secretaria Geral
-- Presidência da República
-- Recrutamento de Pessoal
+- Instituto dos Museus e da Conservação
 - Instituto Português de Conservação e Restauro
 - Instituto Português de Museus
 - Integração de Serviços
@@ -112,15 +109,35 @@ subjects:
 - Paço dos Duques
 - Parques do Monte da LUA
 - Piddac
+- Presidência da República
+- Recrutamento de Pessoal
+- Rede Portuguesa de Museus
 - Regime de Pessoal
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
-- Rede Portuguesa de Museus
 relationships:
 - type: amended_by
   target: pt:dre:177827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinto, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, o Instituto dos Museus e da Conservação, I. P,\
+    \ cuja orgânica foi aprovada pelo presente diploma, retificado pela Decl-Rect 47-I/2007 de 25-Mai, e integradas as suas\
+    \ atribuições na Direcção-Geral do Património Cultural, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:177829:por
+  label: "Determinado que as Dirações Regionais de Cultura sucedem nas atribuições do extinto Instituto dos Museus e Conservação,\
+    \ I. P., pelo DEC LEI.114/2012.25.05.2012.PCM, DR.IS [102] de 25.05.2012, relativamente ao Museu Abade do Baçal, Museu\
+    \ Alberto de Sampaio, Paço dos Duques, Museu dos Biscainhos, Museu D. Diogo de Sousa, Museu de Lamego, Museu de Etnologia\
+    \ do Porto, Museu da Terra de Miranda, Museu de Aveiro, Museu Francisco Tavares Proença Júnior, Museu da Guarda, Museu\
+    \ da Cerâmica, Museu José Malhoa, Museu Etnográfico e Etnológico Dr. Joaquim Manso e Museu de Évora.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2012-177829
+  date: '2012-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
   label: null
@@ -145,16 +162,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679835:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149599:por
+  label: "Rectificado pela DECL-RECT.47-I/2007.25.05.2007.PCM, DR.IS [102]Supl de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-i-2007-149599
+  date: '2007-05-25'
+- type: repealed_by
+  target: pt:dre:177827:por
+  label: "Revogado, a partir de 01.06.2012, pelo DEC LEI.115/2012.25.05.2012.PCM, DR.IS [102] de 25.05.2012, sucedendo a DGPC\
+    \ nas atribuições do Instituto dos Museus e da Conservação, I. P., nos termos do art. 13º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2012-177827
+  date: '2012-05-25'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:46Z'
   warnings: []
   errors: []
 ---
@@ -515,15 +571,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
 
-**Promulgado em 23 de Março de 2007.**
+Promulgado em 23 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 2.º)
 

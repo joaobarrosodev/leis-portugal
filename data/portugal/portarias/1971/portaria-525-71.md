@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/525-1971-632746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 604b87147e7f465d5c2b876b167073f6870fdcc2eaecedd4d46da70df675cc74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d054e427a4d3a21fa3c6fabee41ce560b27ab534faf4ef12dacc9c944c1feaf1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,13 +72,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:05Z'
   warnings: []
   errors: []
 ---
@@ -95,4 +95,4 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, ao a
 
 Os restantes veículos automóveis ficam sujeitos, no mesmo período, ao limite de velocidade máxima instantânea de 60 km/h, excepto nas auto-estradas, em que se mantêm os valores fixados na lei. Todos estes limites são estabelecidos sem prejuízo de outros que lhe sejam inferiores, devidamente sinalizados ou genèricamente impostos pelo Código da Estrada.
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

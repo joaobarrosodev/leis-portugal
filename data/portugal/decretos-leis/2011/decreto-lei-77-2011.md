@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2011/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2011-670022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50663469d0d3fbb8101825b1f72da447fcf8cf930369f7aeb5febfe83fc6c571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0939ab56f0c5e2eb715e2de87d1acd4f9393f232cd34c687f7e74363aad0664d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
+- Açores
 - Aproximação das Legislações
 - Contrato
 - Contrato de Concessão
 - Definição de Competências
-- Distribuição de Gás
 - Direção Geral de Energia e Geologia
-- Importação
-- Licenciamento
-- Mercado Interno
+- Distribuição de Gás
 - Entidade Reguladora dos Serviços Energéticos
+- Gás Natural
+- Importação
 - Informação do Consumidor
-- Preço
-- Serviço Público
+- Licenciamento
 - Madeira.região Autónoma
+- Mercado Interno
+- Preço
 - Proteção do Consumidor
 - Rede Pública de Gás Natural
-- Açores
+- Serviço Público
 - Sistema Nacional de Gás Natural
 relationships:
 - type: amended_by
   target: pt:dre:66379753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553917:por
+  label: "Alterados os arts. 40.º e 43.º do Dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.74/2012.26.03.2012.MEE,\
+    \ DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2012-553917
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:177864:por
+  label: "Alterados os art.s 20º-A e 21º do dec Lei 30/2006, de 15-fev, na redação do presente diploma, pelo DEC LEI.112/2012.23.05.2012.MEE,\
+    \ DR.IS [100] de 23.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2012-177864
+  date: '2012-05-23'
+- type: amended_by
+  target: pt:dre:192436:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 6º, 9º, 15º, 20º-A, 20º-B, 21º, 21º-A,, 21-B, 24º, 24º-A, 25º, 26º, 27º, 30º,\
+    \ 31º, 31º-A, 36º, 37º, 38º-A, 39º-A, 39º-B, 40º, 41º, 47º, 48º, 51º-A, 52º, 57º e 59º do Dec Lei 30/2006, de 15-fev,\
+    \ na redação do presente diploma, pelo DEC LEI.230/2012.26.10.2012.MEE, DR.IS [208] de 26.10.2012\02012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/230-2012-192436
+  date: '2012-10-26'
+- type: amended_by
+  target: pt:dre:257005:por
+  label: "Alterado o art. 5º do Dec Lei 66/2010, de 11-jun, na redação do presente diploma, pelo DEC LEI.15/2013.28.01.2013.MEE,\
+    \ DR.IS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2013-257005
+  date: '2013-01-28'
+- type: amended_by
+  target: pt:dre:66379753:por
+  label: Dada nova redação ao art. 5.º do Dec Lei 66/2010 de 11-jun, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º
+    15/2015 - Diário da República n.º 21/2015, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-2015-66379753
+  date: '2015-01-30'
 - type: cites
   target: celex:31983L0349
   label: null
@@ -123,16 +154,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/66/2010/06/11/p/dre
+- type: corrected_by
+  target: pt:dre:242178:por
+  label: "Rectificado o 11.º parágrafo do preâmbulo, o art. 3.º do diploma preambular (na parte que adita o art. 38.º-A ao\
+    \ Dec Lei n.º 30/2006, de 15-Fev) bem como o anexo que procede à republicação de mesmo diploma, na parte relativa ao art.\
+    \ 38.º-A, ao n.º 2 do art. 39.º-A e ao art. 52º, pela DECL-RECT.27-A/2011.19.08.2011.PCM, DR.IS [159-Supl] de 19.08.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-a-2011-242178
+  date: '2011-08-19'
 article_structure:
-  article_count: 142
+  article_count: 98
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:53Z'
   warnings: []
   errors: []
 ---
@@ -263,7 +302,9 @@ mm) [Anterior alínea ll).]
 
 nn) [Anterior alínea mm).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -295,7 +336,9 @@ g) ...
 
 h) Direito de reclamação e ao seu tratamento eficiente.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +354,9 @@ c) ...
 
 d) A promoção da eficiência energética e da utilização racional dos recursos e a protecção do ambiente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +374,9 @@ b) O tratamento eficiente das reclamações através das entidades administrativ
 
 6 - Entende-se por cliente vulnerável as pessoas singulares que se encontrem em situação de carência sócio-económica e que devem ser protegidas, nomeadamente no que respeita a preços.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +392,9 @@ e) Promover o desenvolvimento de infra-estruturas fundamentais para a construç�
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +404,9 @@ e) Promover o desenvolvimento de infra-estruturas fundamentais para a construç�
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A RNTIAT compreende:
 
@@ -369,7 +420,9 @@ d) As infra-estruturas auxiliares associadas à sua operação.
 
 2 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -379,7 +432,9 @@ d) As infra-estruturas auxiliares associadas à sua operação.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -419,7 +474,9 @@ o) Publicar as informações necessárias para assegurar uma concorrência efect
 
 5 - O operador da RNTGN não pode utilizar abusivamente informações comercialmente sensíveis obtidas de terceiros no âmbito do fornecimento ou da negociação do acesso à rede.
 
-###### Artigo 21.º — Separação jurídica e patrimonial do operador da RNTGN
+Artigo 21.º
+
+Separação jurídica e patrimonial do operador da RNTGN
 
 1 - O operador da RNTGN é independente, nos planos jurídico e patrimonial, das entidades que exerçam, directamente ou através de empresas coligadas, as actividades de produção ou comercialização de gás natural ou de electricidade.
 
@@ -459,19 +516,25 @@ c) A detenção da maioria do capital social.
 
 7 - Para efeitos do presente decreto-lei entende-se que uma empresa exerce controlo sobre outra quando uma delas é detentora de uma posição jurídica que lhe confira a possibilidade de exercer influência determinante sobre outra, em especial através de direitos de propriedade, de uso ou de fruição sobre a totalidade ou parte dos activos de uma empresa ou de direitos ou contratos que conferem influência determinante na composição, na votação ou nas decisões dos órgãos de uma empresa.
 
-###### Artigo 24.º — Acesso regulado às infra-estruturas da RNTIAT
+Artigo 24.º
+
+Acesso regulado às infra-estruturas da RNTIAT
 
 1 - As concessionárias da RNTIAT devem proporcionar aos interessados, de forma não discriminatória e transparente, o acesso às suas infra-estruturas, baseado em tarifas aplicáveis a todos os clientes, nos termos do Regulamento do Acesso às Redes, às Infra-Estruturas e às Interligações e do Regulamento Tarifário, sem prejuízo do disposto no artigo seguinte.
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As concessionárias da RNTIAT relacionam-se comercialmente com os utilizadores das respectivas infra-estruturas, tendo direito a receber, pela utilização destas e pela prestação dos serviços inerentes, uma retribuição por aplicação de tarifas reguladas.
 
 2 - As tarifas referidas no número anterior são definidas no Regulamento Tarifário, excepto no caso do armazenamento subterrâneo no regime de acesso negociado de terceiros, em que as tarifas de acesso são negociadas livremente.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O planeamento da RNTIAT deve prever medidas destinadas a garantir a adequação da rede e a segurança do abastecimento, assegurando, nomeadamente, a existência de capacidade das partes que a integram, com níveis adequados de segurança e de qualidade de serviço, no âmbito do mercado interno do gás natural.
 
@@ -493,7 +556,9 @@ e) As obrigações decorrentes do MIBGAS e os objectivos e as medidas de articul
 
 5 - O PDIRGN deve ser técnica e economicamente justificado, nomeadamente por necessidades de procura e demonstradas após a consulta ao mercado que assegure a utilização eficiente das infra-estruturas, bem como a sua sustentabilidade económico-financeira a prazo, nos termos estabelecidos na lei.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -505,7 +570,9 @@ e) As obrigações decorrentes do MIBGAS e os objectivos e as medidas de articul
 
 5 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -531,7 +598,9 @@ i) [Anterior alínea h).]
 
 3 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -549,7 +618,9 @@ e) O operador da rede de distribuição deve diferenciar a sua imagem e comunica
 
 3 - Sem prejuízo da separação contabilística das actividades, a separação jurídica prevista no presente artigo e a forma de comunicação prevista na alínea e) do número anterior não são exigidas aos distribuidores que sirvam um número de clientes inferior a 100 000.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -565,7 +636,9 @@ e) O operador da rede de distribuição deve diferenciar a sua imagem e comunica
 
 7 - Os PDIRD, bem como os respectivos procedimentos, obedecem aos termos estabelecidos na lei e no Regulamento de Operação das Infra-Estruturas.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O exercício da actividade de comercialização de gás natural é livre, ficando sujeito a registo prévio, nos termos estabelecidos na lei.
 
@@ -573,11 +646,15 @@ e) O operador da rede de distribuição deve diferenciar a sua imagem e comunica
 
 3 - O exercício da actividade de comercialização de gás natural consiste na compra e venda de gás natural, para comercialização a clientes finais ou outros agentes, através da celebração de contratos bilaterais ou da participação em mercados organizados.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 A actividade de comercialização de gás natural é separada juridicamente das restantes actividades.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Os comercializadores de gás natural podem contratar o gás natural necessário ao abastecimento dos seus clientes, através da celebração de contratos bilaterais ou através da participação em mercados organizados.
 
@@ -591,7 +668,9 @@ A actividade de comercialização de gás natural é separada juridicamente das 
 
 6 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Considera-se 'comercializador de último recurso' aquele que estiver sujeito a obrigações de serviço público universal, nos termos previstos na presente subsecção e da respectiva licença.
 
@@ -601,7 +680,9 @@ A actividade de comercialização de gás natural é separada juridicamente das 
 
 4 - (Revogado.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -609,7 +690,9 @@ A actividade de comercialização de gás natural é separada juridicamente das 
 
 3 - O comercializador de último recurso deve diferenciar a sua imagem e comunicação das restantes entidades que actuam no SNGN.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 39.º, o comercializador de último recurso procede à aquisição de gás natural para abastecer os seus clientes em mercados organizados, ou através de contratos bilaterais, mediante a realização de concursos ou através de outros procedimentos definidos na lei.
 
@@ -619,7 +702,9 @@ A actividade de comercialização de gás natural é separada juridicamente das 
 
 4 - O comercializador de último recurso aplica a clientes finais as tarifas reguladas de venda, publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -651,7 +736,9 @@ b) Disporem de uma ampla escolha quanto aos métodos de pagamento, que não deve
 
 8 - A especificação dos mecanismos e procedimentos de apoio dos direitos dos consumidores e dos previstos no presente decreto-lei é estabelecida na lei e em regulamentação complementar.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Sem prejuízo do disposto nas Leis n.os 24/96, de 31 de Julho, alterada pelo Decreto-Lei n.º 67/2003, de 8 de Abril, e 23/96, de 26 de Julho, alterada pelas Leis n.os 12/2008, de 26 de Fevereiro, e 6/2011, de 10 de Março, os consumidores, ou os seus representantes, têm direito a:
 
@@ -671,7 +758,9 @@ g) Acesso aos seus dados de consumo.
 
 2 - Os comercializadores e operadores das redes de distribuição de gás natural devem fornecer aos seus clientes, nos termos e na forma estabelecidos no Regulamento de Relações Comerciais, o catálogo ou a lista dos direitos dos consumidores de energia nos termos aprovados pela Comissão Europeia.
 
-###### Artigo 51.º — Actividades sujeitas a regulação
+Artigo 51.º
+
+Actividades sujeitas a regulação
 
 1 - As actividades de recepção, armazenamento e regaseificação de GNL e de armazenamento subterrâneo, transporte, distribuição e comercialização de gás natural, bem como as de operação logística de mudança de comercializador e de gestão de mercados organizados, estão sujeitas a regulação, sem prejuízo do disposto nos números seguintes.
 
@@ -679,7 +768,9 @@ g) Acesso aos seus dados de consumo.
 
 3 - A regulação exerce-se nos termos e com os limites previstos no presente decreto-lei e na legislação que define as competências das entidades referidas no número anterior.
 
-###### Artigo 52.º — Atribuições e competências da regulação no âmbito do SNGN
+Artigo 52.º
+
+Atribuições e competências da regulação no âmbito do SNGN
 
 Sem prejuízo das atribuições e competências das entidades referidas no artigo 51.º, do previsto nos seus Estatutos, no presente decreto-lei, nos regulamentos comunitários e na lei, a ERSE tem as seguintes atribuições e competências na regulação do SNGN:
 
@@ -709,7 +800,9 @@ m) Conduzir inquéritos, realizar auditorias, efectuar inspecções nas instala�
 
 n) Actuar como autoridade para o tratamento das reclamações no âmbito do incumprimento dos seus regulamentos.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - O cálculo e a fixação das tarifas reguladas aplicáveis às diversas actividades, considerando como tal as tarifas de uso das redes, armazenamento e terminal de GNL, de uso global do sistema e de comercialização de último recurso, obedecem aos seguintes princípios:
 
@@ -735,13 +828,17 @@ h) Contribuição para a promoção da eficiência energética e da qualidade am
 
 4 - Na fixação referida no número anterior deve ter-se em conta os princípios estabelecidos no n.º 1 naquilo que não for incompatível com o regime de acesso negociado ou da comercialização de mercado, conforme o caso.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - As regras e as metodologias para o cálculo e fixação das tarifas reguladas previstas no n.º 1 do artigo anterior, bem como a estrutura tarifária, são estabelecidas no Regulamento Tarifário.
 
 2 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -751,7 +848,9 @@ h) Contribuição para a promoção da eficiência energética e da qualidade am
 
 4 - O Governo publica o relatório sobre a monitorização da segurança de abastecimento previsto no número anterior, dando conhecimento do mesmo à Comissão Europeia e à ERSE.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -791,7 +890,9 @@ d) O operador do terminal de GNL deve dispor de poder decisório independente de
 
 8 - As restrições previstas nas alíneas b) e c) do n.º 3 não são aplicáveis às novas infra-estruturas de armazenamento subterrâneo e de terminal de GNL a concessionar após a entrada em vigor do presente decreto-lei.
 
-###### Artigo 20.º-B — Programa de conformidade dos operadores de armazenamento e terminal de GNL
+Artigo 20.º-B
+
+Programa de conformidade dos operadores de armazenamento e terminal de GNL
 
 1 - Os operadores de armazenamento e de terminal de GNL que pertençam a empresas verticalmente integradas devem elaborar um programa de conformidade que contemple as medidas adoptadas para excluir comportamentos discriminatórios.
 
@@ -805,7 +906,9 @@ d) O operador do terminal de GNL deve dispor de poder decisório independente de
 
 6 - Os termos e a forma a que devem obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
 
-###### Artigo 21.º-A — Certificação do operador da RNTGN
+Artigo 21.º-A
+
+Certificação do operador da RNTGN
 
 1 - A certificação do operador da RNTGN tem como objectivo avaliar o cumprimento das condições relativas à separação jurídica e patrimonial estabelecidas no artigo anterior.
 
@@ -823,7 +926,9 @@ d) O operador do terminal de GNL deve dispor de poder decisório independente de
 
 8 - Os procedimentos a observar para a certificação do cumprimento das condições previstas no n.º 1 são estabelecidos na regulamentação da ERSE.
 
-###### Artigo 21.º-B — Reapreciação das condições de certificação do operador da RNTGN
+Artigo 21.º-B
+
+Reapreciação das condições de certificação do operador da RNTGN
 
 1 - O operador da RNTGN deve notificar a ERSE de quaisquer alterações ou transacções previstas que possam exigir a reapreciação das condições que foram objecto de certificação, para avaliar do cumprimento do disposto no n.º 1 do artigo anterior.
 
@@ -831,7 +936,9 @@ d) O operador do terminal de GNL deve dispor de poder decisório independente de
 
 3 - A ERSE deve desencadear um processo de reapreciação da certificação sempre que tenha conhecimento da realização ou da previsão de alterações ou transacções que levem ao incumprimento das condições da certificação do operador da RNT.
 
-###### Artigo 24.º-A — Infra-estruturas de armazenamento subterrâneo em regime de acesso negociado
+Artigo 24.º-A
+
+Infra-estruturas de armazenamento subterrâneo em regime de acesso negociado
 
 1 - A actividade de armazenamento subterrâneo ou serviços auxiliares em regime de acesso negociado está sujeita a concessão e depende de pedido prévio do interessado.
 
@@ -859,7 +966,9 @@ e) A actividade de armazenamento subterrâneo em regime de acesso negociado este
 
 6 - O operador de armazenamento subterrâneo em regime de acesso negociado procede à consulta dos utilizadores da rede e publicita, até 1 de Janeiro de cada ano, as principais condições comerciais aplicáveis aos contratos de acesso negociado de terceiros a essas instalações ou serviços auxiliares.
 
-###### Artigo 31.º-A — Programa de conformidade dos operadores das redes de distribuição
+Artigo 31.º-A
+
+Programa de conformidade dos operadores das redes de distribuição
 
 1 - Os operadores das redes de distribuição que pertençam a empresas verticalmente integradas e que sirvam um número de clientes igual ou superior a 100 000 devem elaborar um programa de conformidade que contemple as medidas adoptadas para excluir comportamentos discriminatórios.
 
@@ -873,7 +982,9 @@ e) A actividade de armazenamento subterrâneo em regime de acesso negociado este
 
 6 - Os termos e a forma a que deve obedecer o programa de conformidade e os relatórios de acompanhamento da sua execução, bem como a sua publicitação, constam do Regulamento de Relações Comerciais.
 
-###### Artigo 36.º-A — Redes de distribuição fechadas
+Artigo 36.º-A
+
+Redes de distribuição fechadas
 
 1 - Considera-se 'rede de distribuição fechada' uma rede que se integre em domínios ou infra-estruturas excluídas do âmbito das concessões de distribuição de gás natural, nomeadamente uma rede que distribua gás natural no interior de um sítio industrial, comercial ou de serviços partilhados, geograficamente circunscritos, caminhos de ferro, portos, aeroportos e parques de campismo, e preencha um dos seguintes requisitos:
 
@@ -887,13 +998,17 @@ b) A rede distribuir gás natural essencialmente ao proprietário ou ao operador
 
 4 - Caso um utilizador de uma rede fechada não concorde, por falta de transparência e razoabilidade, com as tarifas de acesso ou as suas metodologias, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
 
-###### Artigo 37.º-A — Reconhecimento de comercializadores
+Artigo 37.º-A
+
+Reconhecimento de comercializadores
 
 1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte, o reconhecimento da qualidade de comercializador por uma das partes significa o reconhecimento pela outra, nos termos previstos nos respectivos acordos.
 
 2 - Compete à DGEG efectuar o registo dos comercializadores reconhecidos nos termos do número anterior.
 
-###### Artigo 38.º-A — Direitos e deveres do comercializador
+Artigo 38.º-A
+
+Direitos e deveres do comercializador
 
 1 - Constituem direitos do comercializador registado, nomeadamente os seguintes:
 
@@ -925,7 +1040,9 @@ i) Prestar informações à DGGE e à ERSE sobre consumos e tarifas das diversas
 
 j) Manter a capacidade técnica, legal e financeira necessárias para o exercício da função.
 
-###### Artigo 39.º-A — Relações com os clientes
+Artigo 39.º-A
+
+Relações com os clientes
 
 1 - O contrato de fornecimento de gás natural está sujeito à forma escrita.
 
@@ -965,7 +1082,9 @@ l) Informar os clientes sobre o seu consumo, os preços e as tarifas aplicáveis
 
 8 - Os comercializadores devem notificar directamente os seus clientes de qualquer aumento dos encargos resultante de alteração de condições contratuais, previamente à entrada em vigor do aumento, podendo os clientes rescindir os contratos se não aceitarem as novas condições que lhes sejam notificadas pelos respectivos comercializadores.
 
-###### Artigo 39.º-B — Informação sobre preços
+Artigo 39.º-B
+
+Informação sobre preços
 
 1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, a tabela de preços de referência que se propõem praticar no âmbito da comercialização de gás natural, bem como as suas alterações, nos termos a regulamentar por esta entidade.
 
@@ -979,7 +1098,9 @@ b) Enviar à ERSE trimestralmente os preços praticados nos meses anteriores.
 
 4 - A informação prevista no presente artigo fica sujeita a supervisão da ERSE, ficando os comercializadores obrigados a facultar-lhe toda a documentação necessária e o acesso directo aos registos que suportam esta informação.
 
-###### Artigo 51.º-A — Objectivos gerais da regulação da ERSE
+Artigo 51.º-A
+
+Objectivos gerais da regulação da ERSE
 
 A regulação do sector do gás natural pela ERSE visa a prossecução dos seguintes objectivos:
 
@@ -1001,7 +1122,9 @@ h) Contribuição para a emergência de mercados retalhistas transparentes e efi
 
 i) Garantia do acesso dos clientes e comercializadores às redes, bem como o direito dos grandes clientes de celebrar contratos simultaneamente com diversos comercializadores.
 
-###### Artigo 59.º-A — Manutenção de dados e informações relevantes
+Artigo 59.º-A
+
+Manutenção de dados e informações relevantes
 
 1 - As empresas de gás natural estão obrigadas a manter à disposição da DGEG, da ERSE, da Autoridade da Concorrência e da Comissão Europeia, para cumprimento das respectivas obrigações e competências, todos os suportes contratuais e dados e informações relativos a todas as transacções relevantes de gás natural, nos termos estabelecidos no Regulamento de Relações Comerciais.
 
@@ -1015,13 +1138,17 @@ i) Garantia do acesso dos clientes e comercializadores às redes, bem como o dir
 
 6 - A ERSE pode tornar pública a informação prevista no presente artigo, salvaguardando a informação considerada comercialmente sensível sobre intervenientes ou transacções em concreto, nos termos do Regulamento de Relações Comerciais.
 
-###### Artigo 72.º-A — Biogás e outros tipos de gás
+Artigo 72.º-A
+
+Biogás e outros tipos de gás
 
 1 - As disposições do presente decreto-lei relativas ao acesso às redes de transporte e distribuição e demais infra-estruturas do SNGN, assim como à comercialização, são genericamente aplicáveis ao biogás e ao gás proveniente da biomassa, ou outros tipos de gás, na medida em que esses gases possam ser, do ponto de vista técnico e de segurança, injectados nas redes de gás natural.
 
 2 - As instalações onde se processe o tratamento dos gases referidos no n.º 1 no estado bruto são licenciadas ao abrigo do Regime de Exercício da Actividade Industrial, pela direcção regional de economia territorialmente competente, de forma a garantir que têm as características adequadas à sua injecção nas redes.
 
-###### Artigo 72.º-B — Sistemas inteligentes
+Artigo 72.º-B
+
+Sistemas inteligentes
 
 1 - Designam-se por sistemas inteligentes os sistemas destinados à medição e gestão da informação relativa ao gás natural que favoreçam a participação activa do consumidor no mercado de fornecimento de gás natural.
 
@@ -1077,15 +1204,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 11 de Maio de 2011.**
+Promulgado em 11 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2011.**
+Referendado em 12 de Maio de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 30/2006, de 15 de Fevereiro
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/28900/19141931.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-1972-685226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b4ed633107c5e78c51b7470f6c222a071ae2e1d6e509187c21a247b27a4a92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a451d06a1d289397b297b34f98de11ab7cea18e81a16c84c188d4b4cb402e3ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Forças Armadas
+- Gabinete de Heráldica Naval
+- Heráldica
+- Marinha
+- Ministro da Marinha
+- Regulamento
+- Simbolo de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:2142499:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:216355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353901:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2142499:por
+  label: "Revogada, a partir de 23.02.2010, pela PORT.123/2010.18.02.2010.MDN, DR.IIS [34] de 18.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/123-2010-2142499
+  date: '2010-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:56:10Z'
   warnings: []
   errors: []
 ---
@@ -122,17 +143,17 @@ REGULAMENTO DE HERÁLDICA DA ARMADA
 
 #### SECÇÃO I — Princípios gerais
 
-###### Artigo 1.º O Regulamento de Heráldica da Armada disciplina o direito ao uso, ordenação e modo de concessão dos símbolos heráldicos atribuídos às diversas entidades, comandos, forças, unidades, serviços e outros organismos da Armada.
+Artigo 1.º O Regulamento de Heráldica da Armada disciplina o direito ao uso, ordenação e modo de concessão dos símbolos heráldicos atribuídos às diversas entidades, comandos, forças, unidades, serviços e outros organismos da Armada.
 
-###### Art. 2.º - 1. Os símbolos heráldicos previstos neste Regulamento são os brasões de armas, as bandeiras heráldicas e os selos.
+Art. 2.º - 1. Os símbolos heráldicos previstos neste Regulamento são os brasões de armas, as bandeiras heráldicas e os selos.
 
 2. Os referidos símbolos têm como fim principal identificar, por meio de um sinal figurativo, os seus titulares e, como fim acessório, exprimir distinções honorificas ou de mérito.
 
-###### Art. 3.º Á hierarquia dos cargos e dignidades das diversas entidades e organismos corresponde a hierarquia dos símbolos heráldicos.
+Art. 3.º Á hierarquia dos cargos e dignidades das diversas entidades e organismos corresponde a hierarquia dos símbolos heráldicos.
 
 #### SECÇÃO II — Do direito aos símbolos heráldicos
 
-###### Art. 4.º- 1. O direito ao uso de brasão de armas compete:
+Art. 4.º- 1. O direito ao uso de brasão de armas compete:
 
 a) À Armada Portuguesa;
 
@@ -154,7 +175,7 @@ i) Aos oficiais generais que comandarem ou dirigirem os organismos referidos nas
 
 2. Também têm direito ao uso de brasão de armas os comandos de defesas marítimas de portos, os estabelecimentos de ensino, não previstos no número anterior, e as chefias de serviços que o Ministro da Marinha determinar por despacho.
 
-###### Art. 5.º O direito ao uso das seguintes bandeiras heráldicas compete:
+Art. 5.º O direito ao uso das seguintes bandeiras heráldicas compete:
 
 a) Flâmulas heráldicas: às unidades navais de superfície, com exclusão das fragatas, corvetas e navios-escolas;
 
@@ -164,21 +185,21 @@ c) Guião de mérito: às unidades navais de superfície, com exclusão das frag
 
 d) Estandarte heráldico: aos comandos, forças e unidades referidos nas alíneas d), e), f) e h) do n.º 1 do artigo anterior, à Escola Naval, aos grupos de escolas e ainda, quando lhes tenha sido concedido o direito ao uso de brasão de armas, aos comandos e organismos indicados no n.º 2 do mesmo artigo.
 
-###### Art. 6.º O selo branco será conferido e ordenado conforme a legislação em vigor.
+Art. 6.º O selo branco será conferido e ordenado conforme a legislação em vigor.
 
-###### Art. 7.º O direito ao uso de brasões de armas e bandeiras heráldicas adquire-se e modifica-se por despacho ministerial, proferido nos termos deste Regulamento.
+Art. 7.º O direito ao uso de brasões de armas e bandeiras heráldicas adquire-se e modifica-se por despacho ministerial, proferido nos termos deste Regulamento.
 
-###### Art. 8.º Um brasão de armas ou uma bandeira heráldica, já uma vez concedidos, podem sê-lo novamente a outro titular, desde que nos mesmos passe a figurar uma diferença, mas não se transmitem as cargas honrosas e condecorações porventura existentes.
+Art. 8.º Um brasão de armas ou uma bandeira heráldica, já uma vez concedidos, podem sê-lo novamente a outro titular, desde que nos mesmos passe a figurar uma diferença, mas não se transmitem as cargas honrosas e condecorações porventura existentes.
 
-###### Art. 9.º O direito ao uso de brasão de armas e bandeira heráldica pode ser objectivamente modificado pelo acrescentamento de peças honrosas, condecorações, tenentes, suportes e troféus.
+Art. 9.º O direito ao uso de brasão de armas e bandeira heráldica pode ser objectivamente modificado pelo acrescentamento de peças honrosas, condecorações, tenentes, suportes e troféus.
 
-###### Art. 10.º - 1. O direito ao uso de brasão de armas e bandeira heráldica extingue-se pela cessação de existência jurídica ou abate ao efectivo do seu titular.
+Art. 10.º - 1. O direito ao uso de brasão de armas e bandeira heráldica extingue-se pela cessação de existência jurídica ou abate ao efectivo do seu titular.
 
 2. O estado temporário de inactividade do titular do brasão de armas ou bandeira heráldica não produz a extinção do direito ao uso dos mesmos.
 
 3. O direito ao uso de guião extingue-se pela concessão do direito ao uso de estandarte heráldico.
 
-###### Art. 11.º O brasão de armas pode ser usado:
+Art. 11.º O brasão de armas pode ser usado:
 
 a) Em lugar de honra, nas instalações em terra;
 
@@ -188,7 +209,7 @@ c) No papel de correspondência;
 
 d) Em objectos destinados a oferta.
 
-###### Art. 12.º - 1. As bandeiras heráldicas não se arvoram nem têm honras militares; são usadas como bandeiras de desfile ou como marca identificativa.
+Art. 12.º - 1. As bandeiras heráldicas não se arvoram nem têm honras militares; são usadas como bandeiras de desfile ou como marca identificativa.
 
 2. Quando o direito ao uso de bandeira heráldica não coincida com o direito ao uso de brasão pode a mesma ser usada nos termos do artigo antecedente, respeitadas sempre as intenções identificativas e estéticas de tal uso, para o que devem ser feitas as necessárias adaptações.
 
@@ -196,7 +217,7 @@ d) Em objectos destinados a oferta.
 
 ##### SUBSECÇÃO I — Regras gerais
 
-###### Art. 13.º A ordenação dos símbolos heráldicos previstos neste Regulamento deve obedecer às seguintes regras:
+Art. 13.º A ordenação dos símbolos heráldicos previstos neste Regulamento deve obedecer às seguintes regras:
 
 a) Simplicidade - devem excluir-se os elementos supérfluos e utilizar-se os necessários nas suas formas mais despojadas;
 
@@ -208,15 +229,15 @@ d) Proporção - as dimensões dos elementos utilizados devem relacionar-se com 
 
 e) Iluminura - não deverão juntar-se metal com metal, ou cor com cor, mas podem juntar-se pele com pele, pele com metal e pele com cor.
 
-###### Art. 14.º A descrição oficial dos brasões de armas e bandeiras heráldicas deve ser sintética, completa e unívoca, e feita de acordo com as regras gerais da heráldica.
+Art. 14.º A descrição oficial dos brasões de armas e bandeiras heráldicas deve ser sintética, completa e unívoca, e feita de acordo com as regras gerais da heráldica.
 
-###### Art. 15.º Os metais admitidos na ordenação dos brasões e bandeiras previstos neste Regulamento, como na heráldica geral, são os seguintes:
+Art. 15.º Os metais admitidos na ordenação dos brasões e bandeiras previstos neste Regulamento, como na heráldica geral, são os seguintes:
 
 a) Ouro, que pode ser substituído por amarelo-torrado;
 
 b) Prata, que pode ser substituída por branco-da-china.
 
-###### Art. 16.º As cores ou esmaltes admitidos na ordenação dos brasões e bandeiras, previstos neste Regulamento, são os seguintes:
+Art. 16.º As cores ou esmaltes admitidos na ordenação dos brasões e bandeiras, previstos neste Regulamento, são os seguintes:
 
 a) Vermelho, na tonalidade vermelhão;
 
@@ -232,7 +253,7 @@ f) Carnação;
 
 g) Cor própria, especificando-se essa cor se tal for necessário.
 
-###### Art. 17.º As peles admitidas na ordenação dos brasões e bandeiras, previstos neste Regulamento, são predominantemente:
+Art. 17.º As peles admitidas na ordenação dos brasões e bandeiras, previstos neste Regulamento, são predominantemente:
 
 a) Arminhos;
 
@@ -242,19 +263,19 @@ c) Veiros;
 
 d) Contraveiros.
 
-###### Art. 18.º A representação gráfica dos metais, cores e peles, referidos nos artigos anteriores, é feita segundo as formas e regras da heráldica geral.
+Art. 18.º A representação gráfica dos metais, cores e peles, referidos nos artigos anteriores, é feita segundo as formas e regras da heráldica geral.
 
-###### Art. 19.º Todos os casos omissos deste Regulamento em matéria heráldica disciplinam-se por recurso às regras gerais da ciência e arte heráldicas.
+Art. 19.º Todos os casos omissos deste Regulamento em matéria heráldica disciplinam-se por recurso às regras gerais da ciência e arte heráldicas.
 
 ##### SUBSECÇÃO II — Da ordenação dos brasões de armas
 
-###### Art. 20.º - 1. Os brasões de armas previstos por este Regulamento são, em regra, constituídos por um escudo encimado por coronel naval, podendo eventualmente constar da sua ordenação cruzes e colares das ordens militares, representações de condecorações militares e civis, com suas fitas, troféus, motes e gritos de guerra.
+Art. 20.º - 1. Os brasões de armas previstos por este Regulamento são, em regra, constituídos por um escudo encimado por coronel naval, podendo eventualmente constar da sua ordenação cruzes e colares das ordens militares, representações de condecorações militares e civis, com suas fitas, troféus, motes e gritos de guerra.
 
 2. Os brasões de armas do Estado-Maior da Armada, superintendências dos serviços, direcções-gerais, intendências dos serviços, comandos das áreas oceânicas, comandos navais e comandos das defesas marítimas territoriais podem ainda conter na sua ordenação tenentes e suportes com seus torrados e pedestais.
 
 3. Os brasões de armas das dignidades militares, referidas na alínea i) do artigo 4.º, são compostos por escudo, com a ordenação do organismo, comando, serviço ou unidade a que tais pessoas presidam, sobreposto às insígnias do cargo, e por correia, elmo, virol, paquife e timbre.
 
-###### Art. 21.º - 1. As formas de escudo admitidas são as seguintes: o de ponta redonda, o de ponta em ogiva e o circular.
+Art. 21.º - 1. As formas de escudo admitidas são as seguintes: o de ponta redonda, o de ponta em ogiva e o circular.
 
 2. O escudo de ponta redonda é constituído na proporção de sete partes de largura para oito de comprimento, sendo a ponta um semicírculo de diâmetro igual à largura.
 
@@ -262,9 +283,9 @@ d) Contraveiros.
 
 4. O escudo circular, circundado por um ramo de louro à direita e por um de carvalho à esquerda, encimado por coronel naval, é exclusivamente utilizado como emblema.
 
-###### Art. 22.º As partições do escudo não devem provocar uma cisão no seu todo significativo e delimitam-se por linhas estilizadas, segundo as regras gerais de heráldica.
+Art. 22.º As partições do escudo não devem provocar uma cisão no seu todo significativo e delimitam-se por linhas estilizadas, segundo as regras gerais de heráldica.
 
-###### Art. 23.º Quando for reconhecida ao titular de um brasão de armas a prática de feitos de mérito excepcional, pode o escudo ser aumentado com as seguintes cargas honrosas, por ordem crescente de grandeza:
+Art. 23.º Quando for reconhecida ao titular de um brasão de armas a prática de feitos de mérito excepcional, pode o escudo ser aumentado com as seguintes cargas honrosas, por ordem crescente de grandeza:
 
 a) O cantão dextro do chefe carregado com um castelo de ouro;
 
@@ -272,35 +293,35 @@ b) O cantão dextro do chefe carregado com uma quina;
 
 c) Um escudete de prata carregado das cinco quinas posto em ponto de honra.
 
-###### Art. 24.º - 1. O coronel naval é de ouro, forrado de vermelho, sendo constituído por um aro e pelos ornatos superiores.
+Art. 24.º - 1. O coronel naval é de ouro, forrado de vermelho, sendo constituído por um aro e pelos ornatos superiores.
 
 2. O aro é limitado por duas virolas, sendo o seu diâmetro sobre a parte superior do escudo igual a seis oitavos desta e a altura igual a um oitavo da mesma, e tem por raio de curvatura o de um circulo, que centrado na ponta do escudo seccionasse a linha do topo deste em dois pontos com o afastamento supramencionado.
 
 3. Sobre o aro dispõe-se um recorte de doze pontas, equidistantes, oito delas encimadas por pelouros, das quais sete são aparentes. Por detrás de cada uma das pontas sem pelouros ergue-se uma popa de nau, cuja altura é quádrupla da do aro, com três idas de aberturas de negro encarnada por três lanternas, ficando uma das popas sobre a linha mediana do escudo, duas de perfil e uma quarta oculta. No intervalo das popas e entre cada uma das pontas com pelouros nascem quatro mastros de nau com duas velas de pano redondo, uma solta e outra recolhida, sendo apenas dois os mastros aparentes.
 
-###### Art. 25.º O elmo é de prata, guarnecido de ouro, forrado de vermelho, de altura igual à largura do escudo e posto virado de três quartos para a direita.
+Art. 25.º O elmo é de prata, guarnecido de ouro, forrado de vermelho, de altura igual à largura do escudo e posto virado de três quartos para a direita.
 
-###### Art. 26.º O virol é iluminado dos metais e cores dominantes do escudo e dele sai o paquife dos mesmos metais e cores.
+Art. 26.º O virol é iluminado dos metais e cores dominantes do escudo e dele sai o paquife dos mesmos metais e cores.
 
-###### Art. 27.º O timbre é de altura igual à largura do escudo e deve estar relacionado com a ordenação deste na sua simbologia.
+Art. 27.º O timbre é de altura igual à largura do escudo e deve estar relacionado com a ordenação deste na sua simbologia.
 
-###### Art. 28.º A correia é vermelha e perfilada de ouro.
+Art. 28.º A correia é vermelha e perfilada de ouro.
 
-###### Art. 29.º - 1. Os tenentes e suportes são em número de dois, salvo se como suporte for utilizada uma única nave heráldica.
+Art. 29.º - 1. Os tenentes e suportes são em número de dois, salvo se como suporte for utilizada uma única nave heráldica.
 
 2. Os tenentes e suportes, quando ladeando o escudo, têm altura que varia entre o dobro da largura deste e o de uma largura e um quarto, consoante a natureza dos elementos externos do escudo, e assentam sobre um terrado, pedestal ou linha ornamental.
 
-###### Art. 30.º - 1. O grito de guerra e o mote inscrevem-se em listéis, colocando-se o do primeiro sobre o timbre e o do segundo por baixo do escudo.
+Art. 30.º - 1. O grito de guerra e o mote inscrevem-se em listéis, colocando-se o do primeiro sobre o timbre e o do segundo por baixo do escudo.
 
 2. Os listéis são ondulados e iluminados nos metais e cores que melhor se harmonizem com os do conjunto das armas.
 
 3. A letra a utilizar é do tipo gótico ou elzevir, estando o seu topo orientado no sentido do rebordo superior do listel.
 
-###### Art. 31.º - 1. Na generalidade, os troféus ordenam-se de modo a dar o devido destaque ao escudo e segundo critérios de ordem puramente estética.
+Art. 31.º - 1. Na generalidade, os troféus ordenam-se de modo a dar o devido destaque ao escudo e segundo critérios de ordem puramente estética.
 
 2. Os elementos dos troféus, a que, porém, se atribua um especial significado, devem ser realçados em relação ao conjunto de todos os outros.
 
-###### Art. 32.º As insígnias das ordens militares e as condecorações são representadas do seguinte modo:
+Art. 32.º As insígnias das ordens militares e as condecorações são representadas do seguinte modo:
 
 a) As cruzes das ordens militares de cavalaria colocam-se atrás do escudo e as suas extremidades aparentes devem medir cerca de um quarto da largura deste, excepto a correspondente à ponta por estar parcialmente encoberta por ela;
 
@@ -310,7 +331,7 @@ c) As diversas condecorações militares e civis colocam-se, pendentes de suas f
 
 O seu comprimento não deve exceder um quarto da largura do escudo.
 
-###### Art. 33.º - 1. As insígnias dos altos cargos cruzam-se em aspa ou põem-se em pala por detrás do escudo, e as suas extremidades aparentes não devem exceder em comprimento um quarto da largura daquele.
+Art. 33.º - 1. As insígnias dos altos cargos cruzam-se em aspa ou põem-se em pala por detrás do escudo, e as suas extremidades aparentes não devem exceder em comprimento um quarto da largura daquele.
 
 2. As insígnas de altos cargos são as seguintes:
 
@@ -322,7 +343,7 @@ c) Contra-almirante - duas âncoras de prata passadas em aspa;
 
 d) Comodoro - uma âncora de prata posta em pala.
 
-###### Art. 34.º - 1. A Armada Portuguesa tem por brasão de armas um escudo de azul com um golfinho de prata, encimado por coronel naval de ouro.
+Art. 34.º - 1. A Armada Portuguesa tem por brasão de armas um escudo de azul com um golfinho de prata, encimado por coronel naval de ouro.
 
 2. O Estado-Maior da Armada tem direito ao uso das armas da Armada Portuguesa, com seus tenentes ou suportes e demais elementos exteriores.
 
@@ -330,11 +351,11 @@ SUBSBCÇÃO III
 
 Da ordenação das bandeiras heráldicas
 
-###### Art. 35.º - 1. A flâmula heráldica tem a forma de um triângulo isósceles, cuja altura é o triplo da base, e as suas dimensões reais devem estar em proporção com as da superfície em que é empregada.
+Art. 35.º - 1. A flâmula heráldica tem a forma de um triângulo isósceles, cuja altura é o triplo da base, e as suas dimensões reais devem estar em proporção com as da superfície em que é empregada.
 
 2. O campo da flâmula é dividido em quatro partes separadas entre si por um listel posto em banda, onde se inscreve o nome da unidade. Na generalidade, essas quatro partes são alternadamente em banda, de uma cor e um metal, ou cortadas de uma cor e um metal, carregadas com a empresa heráldica da unidade. Tratando-se de unidade atribuída a titulo definitivo a um agrupamento permanente de navios, a ordenação do escudo do brasão de armas de tal agrupamento inscreve-se num trapézio, cuja base menor coincide com a base do triângulo da flâmula e cuja altura é igual a sete oitavos da mesma.
 
-###### Art. 36.º - 1. O guião tem a forma de quadrado e mede 0,80 m de lado.
+Art. 36.º - 1. O guião tem a forma de quadrado e mede 0,80 m de lado.
 
 2. O ordenamento do guião é constituído por um campo carregado da empresa heráldica da unidade e uma bordadura, que pode ser simples, acantonada, esquartelada ou gironada.
 
@@ -346,11 +367,11 @@ Da ordenação das bandeiras heráldicas
 
 6. O topo distal da vareta horizontal podo ser ligado à haste por meio de um cordão do metal e cor dominantes.
 
-###### Art. 37.º - 1. O guião de mérito é de azul com uma coluna rostral de ouro, acompanhada em chefe de um listel do mesmo metal onde se inscreve o nome da unidade e em contrachefe por dois listéis também de ouro, onde se inscrevem a designação do local onde foram praticados os feitos de armas de mérito excepcional, que motivaram a concessão da condecoração, e a indicação em abreviatura da data da prática dos mesmos, tudo rodeado por dupla orla ornada de âncoras, com o anete ou as unhas alternadamente virados para o centro, também de ouro.
+Art. 37.º - 1. O guião de mérito é de azul com uma coluna rostral de ouro, acompanhada em chefe de um listel do mesmo metal onde se inscreve o nome da unidade e em contrachefe por dois listéis também de ouro, onde se inscrevem a designação do local onde foram praticados os feitos de armas de mérito excepcional, que motivaram a concessão da condecoração, e a indicação em abreviatura da data da prática dos mesmos, tudo rodeado por dupla orla ornada de âncoras, com o anete ou as unhas alternadamente virados para o centro, também de ouro.
 
 2. As características do guião de mérito no que se refere a forma, dimensões, tecido, bordado, cordão, haste, lança, vareta horizontal e bainhas são idênticas às do guião.
 
-###### Art. 38.º - 1. O estandarte heráldico tem a forma de quadrado e mede 1 m de lado.
+Art. 38.º - 1. O estandarte heráldico tem a forma de quadrado e mede 1 m de lado.
 
 2. O ordenamento do estandarte heráldico é formado por uma combinação de várias peças principais, dos metais e cores mais adequados. A este ordenamento pode sobrepor-se uma cruz ou aspa firmadas. Brocante sobre o mencionado ordenamento e circundado por um listel de prata dispõe-se o escudo do brasão de armas do titular do estandarte.
 
@@ -362,9 +383,9 @@ Da ordenação das bandeiras heráldicas
 
 #### SECÇÃO IV — Do modo de concessão dos símbolos heráldicos
 
-###### Art. 39.º A concessão ou modificação dos símbolos heráldicos é feita na sequência de um processo próprio que corre no Gabinete de Heráldica Naval e através do qual se determina a ordenação daqueles símbolos e se executam as iluminuras que os representam.
+Art. 39.º A concessão ou modificação dos símbolos heráldicos é feita na sequência de um processo próprio que corre no Gabinete de Heráldica Naval e através do qual se determina a ordenação daqueles símbolos e se executam as iluminuras que os representam.
 
-###### Art. 40.º - 1. O processo para a concessão de símbolos heráldicos inicia-se com a petição da entidade interessada.
+Art. 40.º - 1. O processo para a concessão de símbolos heráldicos inicia-se com a petição da entidade interessada.
 
 2. Verificado pelo director do Gabinete a legitimidade do pedido, o mesmo promove em seguida a recolha de todos os elementos susceptíveis de interessar à formulação do seu parecer, devendo ouvir, quando o julgue conveniente, o Centro de Estudos de Marinha.
 
@@ -378,21 +399,21 @@ se necessário, ao Instituto Português de Heráldica.
 
 6. Lavrado o despacho ministerial e se este for de concessão do que se requer, executa-se um diploma com a iluminura do brasão de armas ou bandeira, devidamente descritos e explicados, que será entregue ao interessado, e o respectivo desenho a negro com a indicação heráldica dos metais e cores.
 
-###### Art. 41.º - 1. O processo para ordenação de brasões de armas já concedidos com acrescentamento de cargas honrosas, tenentes, suportes ou troféus inicia-se com o despacho ministerial que os concede.
+Art. 41.º - 1. O processo para ordenação de brasões de armas já concedidos com acrescentamento de cargas honrosas, tenentes, suportes ou troféus inicia-se com o despacho ministerial que os concede.
 
 2. Uma vez ordenado o brasão de armas, entrega-se o diploma com a iluminura ao interessado e o respectivo desenho a negro com a indicação heráldica dos metais e cores.
 
-###### Art. 42.º - 1. O processo para ordenação de brasões de armas já concedidos com medalhas, cruzes das ordens militares ou colares inicia-se com o pedido do interessado, que simultâneamente fará a prova do galardão.
+Art. 42.º - 1. O processo para ordenação de brasões de armas já concedidos com medalhas, cruzes das ordens militares ou colares inicia-se com o pedido do interessado, que simultâneamente fará a prova do galardão.
 
 2. Ordenado o brasão de armas, entrega-se o diploma com a iluminura ao interessado e o respectivo desenho a negro com a indicação heráldica dos metais e cores.
 
-###### Art. 43º - Os diplomas referidos nos artigos anteriores são registados em livro competente e deles se extrai cópia, que fica arquivada.
+Art. 43º - Os diplomas referidos nos artigos anteriores são registados em livro competente e deles se extrai cópia, que fica arquivada.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da FIG. 1 à FIG. 26
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/12/28900/19141931.pdf))](https://files.diariodarepublica.pt/1s/1972/12/28900/19141931.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/28900/19141931.pdf)
 
 Legendas das gravuras
 
@@ -448,4 +469,4 @@ N.º 25 - Estandarte franchado de metal e cor com bordadura franchada dos contr�
 
 N.º 26 - Estandarte esquartelado de metal e cor brocante cruz em aspa, haste, lança, cordões e borlas, na escala de 1:10.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

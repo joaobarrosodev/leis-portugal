@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15200/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2019/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2019-123855888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68579eecf2a0658421013a76f7a529cbc4cbed0faa7098f1faae5641c28ddddb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6343cbb9295b4480e724eefe4f4d8678427c34cb2f6a132c0e20f69c93777526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Energia Elétrica
+- Comércio
 - Direção Geral de Energia e Geologia
+- Energia Elétrica
 - Entidade Reguladora dos Serviços Energéticos
+- Financiamento
 - Prestação de Serviços
 - Sistema Elétrico Nacional
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:41Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +166,9 @@ d) [Revogada.]
 
 e) [Revogada.]
 
-###### Artigo 3.º — Repercussão tarifária do mecanismo de equilíbrio concorrencial
+Artigo 3.º
+
+Repercussão tarifária do mecanismo de equilíbrio concorrencial
 
 1 - Os valores faturados aos produtores de energia elétrica por aplicação do mecanismo de equilíbrio concorrencial são repercutidos na rubrica de CIEG com repartição no âmbito da aplicação da tarifa de Uso Global do Sistema.
 
@@ -168,7 +186,9 @@ d) [Revogada.]
 
 4 - A operacionalização do disposto no número anterior faz-se nos termos da portaria a que se refere o n.º 2.
 
-###### Artigo 4.º — Determinação dos valores a faturar
+Artigo 4.º
+
+Determinação dos valores a faturar
 
 1 - A determinação dos valores a faturar nos termos do artigo 3.º é concretizada por despacho do membro do Governo responsável pela área da energia, com base nos resultados de um estudo a elaborar, para cada ano, pela ERSE, sobre o impacto na formação de preços médios da eletricidade no mercado grossista em Portugal de medidas e eventos extramercado registados no âmbito da União Europeia, o qual deve ponderar, quando aplicável e sempre que justificado, os efeitos de mecanismos de remuneração da capacidade e outras políticas de segurança de abastecimento existentes noutros Estados-Membros na referida formação de preços.
 
@@ -218,13 +238,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 31 de julho de 2019.**
+Promulgado em 31 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2019.**
+Referendado em 1 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -293,3 +313,5 @@ d) [Revogada.]
 ###### Artigo 5.º — Norma transitória
 
 No que respeita ao ano de 2013, o estudo referido no n.º 1 do artigo anterior deve ser elaborado até ao final do primeiro semestre.
+
+112507075

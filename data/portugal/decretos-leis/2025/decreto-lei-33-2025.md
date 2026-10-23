@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0001900024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2025-912066242
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bee0e474cfea0fce79179c52fbe4d809051d4a66ef7f1d912b16166ab3147550
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75d1d3d7e1de71da6d76a6d76251dd9899033011ca95112c83443a44c9bf4ada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Obra de Arte
 - BENS em Segunda MÃO
 - Código do IVA
-- Comércio de ARTE
-- Regulamentação de Atos Legislativos
+- Comércio de Arte
 - Importação
 - IVA
+- Obra de Arte
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32006L0112
@@ -108,20 +108,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/1998/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/1998/01/12/p/dre
+- type: cites
+  target: pt:dre:174548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907629880:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32022L0542
   label: null
   source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:10Z'
   warnings: []
   errors: []
 ---
@@ -262,7 +286,9 @@ f) Prestações de serviços de carácter cultural, artístico, científico, des
 
 17 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -302,7 +328,7 @@ Os artigos 3.º, 4.º, 5.º, 7.º e 8.º do regime especial de tributação dos 
 
 6 - [...]
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O valor tributável das transmissões de bens referidas no artigo anterior, efetuadas pelo sujeito passivo revendedor, é constituído pela diferença, devidamente justificada, entre a contraprestação obtida ou a obter do cliente, determinada nos termos do artigo 16.º do Código do IVA, e o preço de compra dos mesmos bens, com inclusão do IVA, caso este tenha sido liquidado.
 
@@ -312,7 +338,7 @@ Os artigos 3.º, 4.º, 5.º, 7.º e 8.º do regime especial de tributação dos 
 
 4 - [...]
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - O sujeito passivo revendedor, que destine os bens adquiridos a transmissões sujeitas ao regime especial de tributação da margem, não pode deduzir o IVA devido ou pago, relativamente aos objetos de coleção ou antiguidades por ele importados.
 
@@ -320,7 +346,7 @@ Os artigos 3.º, 4.º, 5.º, 7.º e 8.º do regime especial de tributação dos 
 
 3 - [...]
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - [...]
 
@@ -328,7 +354,7 @@ Os artigos 3.º, 4.º, 5.º, 7.º e 8.º do regime especial de tributação dos 
 
 3 - [...]
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - [...]
 
@@ -346,12 +372,14 @@ Os artigos 3.º, 4.º, 5.º, 7.º e 8.º do regime especial de tributação dos 
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - Pedro Reis.
 
-**Promulgado em 14 de março de 2025.**
+Promulgado em 14 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de março de 2025.**
+Referendado em 18 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118839081

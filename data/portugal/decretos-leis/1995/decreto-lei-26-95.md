@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/1995/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1995-198944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbb40ea72d22a8d557a4df2b1431df116826476b498b1421cfa4b50e57e75b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c05a2b8a3c58cebd932de848a2d87ea1392d9dca9cb0447a3d02d22fb07aeee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/577/1994/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/577/1994/07/12/p/dre
+- type: cites
+  target: pt:dre:291604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:50Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 95.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, passa a ter a seguinte redacção:
+Artigo único. O artigo 95.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 95.º — Garantia dos credores nos casos de desmantelamento e equiparados
 
@@ -113,12 +125,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 25 de Janeiro de 1995.**
+Promulgado em 25 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

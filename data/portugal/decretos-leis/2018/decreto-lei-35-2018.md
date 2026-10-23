@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2018/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2018-115344078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30da841acaf8e70c5cc7da6f2ccb7b95a1c310950bdc4f0c2d7fda4f46e68df0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3980cd056c3816ccc181c86c117915d333229ab63f87da465f2415c084b8c25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Inspecção Geral das Actividades Culturais
 - Comissão Directiva
-- Gestão Financeira
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Direção Geral do Património Cultural
-- Gestão Administrativa
-- Património Cultural
+- Financiamento
 - Fundo de Salvaguarda do Património Cultural
+- Gestão Administrativa
+- Gestão Financeira
+- Inspecção Geral das Actividades Culturais
 - Orgânica
+- Património Cultural
 - Protecção do Património
 - Receita Própria
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
@@ -99,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/121/1999/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/121/1999/08/20/p/dre
+- type: cites
+  target: pt:dre:434009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:27Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +181,9 @@ Os artigos 7.º e 8.º do [Decreto-Lei n.º 138/2009](https://diariodarepublica.
 
 6 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Sem prejuízo das competências legalmente atribuídas a outras entidades, o controlo e a fiscalização da gestão do Fundo de Salvaguarda são exercidos pela Inspeção-Geral das Atividades Culturais.»
 
@@ -193,12 +215,14 @@ b) A alínea b) do n.º 2 do artigo 3.º e a alínea c) do artigo 10.º do [Decr
 
 Visto e aprovado em Conselho de Ministros de 3 de maio de 2018. - Maria Manuel de Lemos Leitão Marques - António Manuel Veiga dos Santos Mendonça Mendes - Luís Filipe Carrilho de Castro Mendes.
 
-**Promulgado em 9 de maio de 2018.**
+Promulgado em 9 de maio de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de maio de 2018.**
+Referendado em 14 de maio de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111346945

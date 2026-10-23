@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/163/1999/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94922feebeb3303afd5b970340d62fd44ba7b4523b80e694893f105b680a2dc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ac4faaaaa612aef12c462416b7c4c3d4fa2b6eaf419e98eb052f696f40ffc48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Estatística
 - Nomenclatura das Unidades Territoriais para Fins Estatísticos
 - Odivelas
-- Estatística
 - Região Agrária
-- Autarquia Local
 - Trofa
 - Vizela
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:343580:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343580:por
+  label: "Alterado, no que diz respeito às unidades territoriais do Pinhal Interior Sul e do Médio Tejo, o anexo II do Dec\
+    \ Lei 46/89, de 15-Fev, na redacção do presente diploma, pela LEI.21/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2010-343580
+  date: '2010-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/63/1998/09/01/p/dre
   label: null
@@ -90,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/1998/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/1998/12/14/p/dre
+- type: cites
+  target: pt:dre:220946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:51Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +178,9 @@ Algarve
 
 ...
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 I - Região Agrária de Entre Douro e Minho; sede - Braga
 
@@ -196,12 +220,12 @@ VII - Região Agrária do Algarve; sede - Faro
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Apolinário Nunes Portada.
 
-**Promulgado em 29 de Abril de 1999.**
+Promulgado em 29 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Maio de 1999.**
+Referendado em 4 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

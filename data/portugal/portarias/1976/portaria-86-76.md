@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/86-1976-507599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09f1d829c609e311e6ec979dd8603dedf895826f947b3a0cd173d08a0d19d05c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62c9e963e921320b30c024263a2802bdac11efabe6cc638832d4cce6fee9b664
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Advogado
+- Caixa de Previdência
+- Caixa de Previdência dos Advogados e Solicitadores
+- Gestão Financeira
+- Ordem dos Advogados
+- Proteção Social
+- Receita Própria
+- Regulamento
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:514461:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:23Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ Em satisfação do deliberado pelos interessados e face à justiça e necessidad
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, dar nova redacção aos seguintes artigos do Regulamento da Caixa de Previdência da Ordem dos Advogados, aprovado pela [Portaria n.º 18022](https://diariodarepublica.pt/dr/detalhe/portaria/18022-1960-514461), de 28 de Outubro de 1960:
 
-###### Art. 38.º As receitas da Caixa são constituídas pelas verbas seguintes:
+Art. 38.º As receitas da Caixa são constituídas pelas verbas seguintes:
 
 a) Uma quota mensal de 265$00 a satisfazer por cada beneficiário da classe A até ao momento em que começar a receber a pensão da reforma, mesmo nos períodos de suspensão que não impliquem cancelamento da inscrição, que será cobrada juntamente com a quota para a Ordem dos Advogados;
 
@@ -116,7 +129,7 @@ k) ...
 
 l) Uma quota mensal de 50$00 a satisfazer por cada beneficiário da classe A, a qual será cobrada juntamente com a quota para a Ordem dos Advogados.
 
-###### Art. 42.º As despesas resultantes da acção de assistência são asseguradas:
+Art. 42.º As despesas resultantes da acção de assistência são asseguradas:
 
 a) ...
 

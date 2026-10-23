@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2006/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2067ba18a660095a1543c0c7702dab704dfd631500b151723f83d67039582c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9693d60c475e40171c224f374e69e3e58214e6de382c5fa7336c3e85116a6f3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
-- Governo Regional
+- Centro Emissor para a REDE Consular
+- Confidencialidade
 - Conservatória dos Registos Centrais
 - Consulado
+- Dados Pessoais
 - Definição de Competências
-- Centro Emissor para a REDE Consular
-- Imprensa Nacional-Casa da Moeda
 - Governador Civil
+- Governo Regional
+- Imprensa Nacional-Casa da Moeda
+- Nacionalidade
+- Passaporte
+- Passaporte Electrónico
 - Segurança da Informação
 - Serviço de Estrangeiros e Fronteiras
-- Passaporte Electrónico
 - Sipep
-- Confidencialidade
-- Dados Pessoais
-- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:114857711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671034:por
+  label: "Alterados os art.s 10º, 16º e 38º-D do Dec Lei 83/2000, de 11-Maio, na redacção do presente diploma, pelo DEC LEI.97/2011.20.09.2011.MAI,\
+    \ DR.IS [181] de 20.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2011-671034
+  date: '2011-09-20'
+- type: amended_by
+  target: pt:dre:66997037:por
+  label: Alterado o art. 38.º-A do Dec Lei 83/2000 de 11-mai, aditado pelo presente diploma, pelo(a) Decreto-Lei n.º 54/2015
+    - Diário da República n.º 74/2015, Série I de 2015-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-2015-66997037
+  date: '2015-04-16'
+- type: amended_by
+  target: pt:dre:107114304:por
+  label: Alterado, a partir de 01.10.2017, o art. 18.º do Dec Lei 83/2000 de 11-mai, com a redação e republicação constante
+    do presente diploma, pelo(a) Lei n.º 32/2017 - Diário da República n.º 106/2017, Série I de 2017-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2017-107114304
+  date: '2017-06-01'
+- type: amended_by
+  target: pt:dre:114857711:por
+  label: Alterados os arts. 2.º, 3.º, 23.º, 25.º, 31.º e 38.º-B e revogados o n.º 2 do art. 24.º, os n.ºs 3 e 6 do art. 38.º-B,
+    a al. d) do n.º 1 do art. 38.º-D e o anexo do Dec Lei 83/2000 de 11-maio, na versão alterada e republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14, que procedeu à sua
+    republicação em anexo, onde para estes efeitos determina que se leia «portaria» onde se lê «portaria conjunta».
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2018-114857711
+  date: '2018-03-14'
 - type: cites
   target: celex:31995L0046
   label: null
@@ -107,15 +133,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/2000/05/11/p/dre
 article_structure:
-  article_count: 94
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 62
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:26Z'
   warnings: []
   errors: []
 ---
@@ -250,7 +276,9 @@ e) Temporário.
 
 4 - O passaporte pode ser substituído, nas condições previstas no presente decreto-lei, por título de viagem única.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O passaporte electrónico português (PEP), de leitura óptica e por radiofrequência, é constituído por um caderno contendo a folha biográfica e 32 páginas numeradas, sendo identificado:
 
@@ -262,7 +290,9 @@ i) Impresso na contracapa anterior e gravado na página biográfica;
 
 ii) Perfurado nas restantes páginas e na contracapa posterior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O modelo do passaporte electrónico, de formato horizontal, possibilita a leitura óptica e por radiofrequência através de meios técnicos adequados, sendo os dados biográficos, a fotografia, a assinatura do titular e a informação descritiva da emissão gravados a laser na página biográfica.
 
@@ -278,7 +308,9 @@ c) A sessão de leitura estabelecida entre o equipamento técnico adequado e o c
 
 4 - As impressões digitais correspondentes ao dedo indicador esquerdo e ao dedo indicador direito não são armazenadas no chip, nos termos do n.º 2, até à fixação e entrada em vigor das especificações técnicas aplicáveis.
 
-###### Artigo 10.º — Custos de concessão
+Artigo 10.º
+
+Custos de concessão
 
 1 - A concessão dos passaportes diplomático e especial é isenta de quaisquer encargos para os titulares, sendo os respectivos custos suportados pelas entidades que os requeiram.
 
@@ -290,17 +322,23 @@ c) A sessão de leitura estabelecida entre o equipamento técnico adequado e o c
 
 5 - O produto da venda dos impressos do passaporte temporário e do título de viagem única, emitidos pelos serviços consulares e demais entidades competentes, constitui receita do Estado.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O passaporte pode ser remetido ao seu titular através de correio seguro, mediante prévio pagamento dos encargos de remessa, estabelecidos por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, das finanças e da Administração Pública e dos negócios estrangeiros.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O deferimento da reclamação do interessado com fundamento em erro dos serviços emitentes ou defeito de fabrico implica a emissão de novo passaporte.
 
 2 - A emissão prevista no número anterior é gratuita, desde que a reclamação seja apresentada no prazo de 30 dias a contar da data da entrega do passaporte ou de seis meses a contar da mesma data, quando se trate de defeito de fabrico.
 
-###### Artigo 16.º — Do pedido de concessão
+Artigo 16.º
+
+Do pedido de concessão
 
 1 - A concessão do passaporte comum é requerida presencialmente pelo titular, procedendo-se à confirmação dos respectivos dados biográficos constantes do seu bilhete de identidade de cidadão nacional e à obtenção e recolha da assinatura e dos seus dados pessoais nos termos do artigo 6.º
 
@@ -308,25 +346,33 @@ O passaporte pode ser remetido ao seu titular através de correio seguro, median
 
 3 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A recolha dos elementos necessários para a concessão do passaporte comum pode realizar-se no local onde se encontre o requerente, se este produzir prova devidamente justificada da doença que o incapacite de poder deslocar-se, pelos seus próprios meios, aos serviços competentes para o efeito.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O requerente do passaporte comum, independentemente da respectiva idade, deve fazer prova de identidade, mediante a exibição do bilhete de identidade de cidadão nacional válido, o qual é imediatamente restituído após a conferência.
 
 2 - Para efeitos de concessão de passaporte, o bilhete de identidade de cidadão nacional não pode ser substituído por qualquer outro documento de identidade.
 
-###### Artigo 19.º — Prova complementar
+Artigo 19.º
+
+Prova complementar
 
 1 - Sempre que se suscitem dúvidas sobre a veracidade dos dados constantes do bilhete de identidade, bem como sobre a respectiva autenticidade, devem ser praticadas pelos serviços competentes para a concessão do passaporte comum as diligências necessárias à comprovação e pode ser exigida a prestação de prova complementar.
 
 2 - Os serviços responsáveis pela identificação civil e demais serviços cuja competência releve para os efeitos previstos no número anterior prestam a cooperação adequada à realização célere das diligências necessárias.
 
-###### Artigo 20.º — Controlo da concessão e da emissão
+Artigo 20.º
+
+Controlo da concessão e da emissão
 
 1 - Os membros do Governo responsáveis pelas áreas da administração interna, dos negócios estrangeiros, da justiça e da ciência, tecnologia e ensino superior estabelecem, por portaria conjunta, modalidades de coordenação e de avaliação regular conjunta da aplicação do regime legal da concessão e emissão do PEP, tornando públicos os respectivos resultados.
 
@@ -334,7 +380,9 @@ O passaporte pode ser remetido ao seu titular através de correio seguro, median
 
 3 - A Imprensa Nacional-Casa da Moeda, S. A. (INCM), difunde através do seu sítio na Internet informação regular sobre o cumprimento das obrigações previstas no presente decreto-lei, incluindo os níveis de serviço efectivamente alcançados no tocante à remessa do PEP.
 
-###### Artigo 21.º — Impedimentos à concessão de passaporte
+Artigo 21.º
+
+Impedimentos à concessão de passaporte
 
 Não pode ser emitido passaporte comum quando, relativamente ao requerente, conste:
 
@@ -344,7 +392,9 @@ b) ...
 
 c) ...
 
-###### Artigo 22.º — Da emissão
+Artigo 22.º
+
+Da emissão
 
 1 - A emissão do passaporte electrónico português, abrangendo as suas produção, personalização e remessa, compete à INCM.
 
@@ -354,7 +404,9 @@ c) ...
 
 4 - Em casos de urgência, a entidade emitente pode, a solicitação do requerente, assegurar prazo mais curto do que o previsto no n.º 1, sendo cobradas, adicionalmente, taxas de urgência.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os menores, quando não forem acompanhados por quem exerça o poder paternal, só podem sair do território nacional exibindo autorização para o efeito.
 
@@ -364,7 +416,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 24.º — Validade do passaporte
+Artigo 24.º
+
+Validade do passaporte
 
 1 - O passaporte comum é válido por um período de cinco anos.
 
@@ -376,7 +430,9 @@ c) ...
 
 5 - A concessão de novo passaporte comum faz-se contra entrega do passaporte anterior, excepto quando deste constem vistos cuja duração justifique a conservação na posse do titular.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A concessão de novo passaporte comum a favor de indivíduo titular de passaporte válido é possível, excepcionalmente, nos casos a seguir indicados:
 
@@ -394,7 +450,9 @@ d) Nos casos de alteração dos elementos constantes do passaporte referentes à
 
 4 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O titular do passaporte destruído, furtado ou extraviado deve comunicar imediatamente tal facto à autoridade mais próxima ou à autoridade responsável pela concessão, para efeitos de cancelamento e apreensão.
 
@@ -406,13 +464,17 @@ d) Nos casos de alteração dos elementos constantes do passaporte referentes à
 
 5 - Na situação prevista no número anterior, o repatriado regressa a Portugal munido de passaporte temporário.
 
-###### Artigo 28.º — Cancelamento do passaporte
+Artigo 28.º
+
+Cancelamento do passaporte
 
 1 - A perda da nacionalidade portuguesa relativamente a indivíduo a quem tenha sido emitido passaporte comum determina o cancelamento deste documento.
 
 2 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +482,9 @@ d) Nos casos de alteração dos elementos constantes do passaporte referentes à
 
 3 - A concessão do passaporte especial pode ser extensível ao cônjuge e filhos menores, quando viajem na companhia do seu titular e possuam nacionalidade portuguesa.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -438,7 +502,9 @@ c) Os serviços designados pelos governos regionais.
 
 5 - A concessão de passaporte especial pelas embaixadas deve ser comunicada, de imediato, à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 A concessão e emissão de passaporte para estrangeiros incumbe:
 
@@ -446,7 +512,9 @@ a) ...
 
 b) ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -456,7 +524,9 @@ b) ...
 
 4 - A requisição dos impressos dos títulos de viagem única e o controlo da utilização dos mesmos competem ao Ministério dos Negócios Estrangeiros.
 
-###### Artigo 41.º — Finalidade, organização e estrutura do SIPEP
+Artigo 41.º
+
+Finalidade, organização e estrutura do SIPEP
 
 1 - O SIPEP tem por finalidade registar, armazenar, tratar, manter actualizada, validar e disponibilizar nos termos legais a informação associada ao processo de concessão dos passaportes, nas suas diferentes categorias, bem como accionar o processo de personalização.
 
@@ -464,19 +534,25 @@ b) ...
 
 3 - O SIPEP assegura a conjugação de todas as estruturas e de todos procedimentos de aquisição de dados e a articulação de todas as entidades intervenientes no registo físico e lógico dos dados recolhidos.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - A violação das normas relativas a ficheiros informatizados de concessão e emissão de passaporte é punida nos termos dos artigos 44.º a 49.º da Lei n.º 67/98, de 26 de Outubro.
 
 2 - ...
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O uso indevido de passaporte substituído, de segundo passaporte ou de passaporte especial constitui contra-ordenação punível com coima de (euro) 250 a (euro) 750.
 
 2 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Sem prejuízo das competências da CNPD em matéria de tratamento de dados, a competência para a instauração e a instrução dos processos de contra-ordenação previstos no artigo 45.º é das entidades que procedem à concessão dos passaportes.
 
@@ -490,7 +566,9 @@ b) 30% para a entidade competente para a concessão do passaporte;
 
 c) 30% para a entidade responsável pela gestão do sistema de informação do passaporte electrónico português.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 A Conservatória dos Registos Centrais comunica ao SIPEP, até ao dia 8 de cada mês, quais as situações que, tendo determinado a perda da nacionalidade portuguesa, impedem a concessão de passaporte português ou implicam o respectivo cancelamento.»
 
@@ -504,7 +582,9 @@ A Conservatória dos Registos Centrais comunica ao SIPEP, até ao dia 8 de cada 
 
 Passaportes temporários
 
-###### Artigo 38.º-A — Passaporte temporário
+Artigo 38.º-A
+
+Passaporte temporário
 
 1 - O passaporte temporário é o documento de viagem individual que permite a circulação do respectivo titular de e para fora do território nacional durante um período de tempo limitado.
 
@@ -514,7 +594,9 @@ Passaportes temporários
 
 4 - O passaporte temporário observa, naquilo que lhe é subsidiariamente aplicável, as mesmas condições e os mesmos princípios e requisitos do passaporte comum.
 
-###### Artigo 38.º-B — Identificação, características e controlo de autenticidade
+Artigo 38.º-B
+
+Identificação, características e controlo de autenticidade
 
 1 - O passaporte temporário é constituído por um caderno com oito páginas numeradas, identificado:
 
@@ -532,7 +614,9 @@ b) Pela combinação perfurada nas restantes páginas, incluindo a contracapa.
 
 6 - O modelo de impresso do passaporte temporário consta do anexo ao presente decreto-lei e constitui exclusivo legal da INCM.
 
-###### Artigo 38.º-C — Elementos que acompanham o pedido de passaporte temporário
+Artigo 38.º-C
+
+Elementos que acompanham o pedido de passaporte temporário
 
 O pedido de concessão de passaporte temporário é instruído com os seguintes elementos:
 
@@ -544,7 +628,9 @@ c) Documento comprovativo do exercício do poder paternal, da tutela ou da curat
 
 d) Documento justificativo do carácter urgente e excepcional do pedido, quando os fundamentos para a emissão do passaporte temporário resultem de factos imputáveis ao requerente.
 
-###### Artigo 38.º-D — Competência para a concessão e emissão do passaporte temporário
+Artigo 38.º-D
+
+Competência para a concessão e emissão do passaporte temporário
 
 1 - São competentes para a concessão e emissão do passaporte temporário, com a possibilidade de delegação e subdelegação:
 
@@ -564,11 +650,15 @@ a) Uma indisponibilidade momentânea do sistema de concessão dos passaportes;
 
 b) A circunstância de a entidade competente não se encontrar acreditada como centro emissor de passaportes.
 
-###### Artigo 38.º-E — Custos de emissão do passaporte temporário
+Artigo 38.º-E
+
+Custos de emissão do passaporte temporário
 
 A taxa de emissão do passaporte temporário é fixada por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna, das finanças e dos negócios estrangeiros.
 
-###### Artigo 38.º-F — Concessão de passaporte comum a titular de passaporte temporário
+Artigo 38.º-F
+
+Concessão de passaporte comum a titular de passaporte temporário
 
 1 - O passaporte comum só pode ser emitido a titular de passaporte temporário, desde que este faça prova de identidade, mediante a exibição do bilhete de identidade de cidadão nacional e cumpra o disposto no artigo 13.º
 
@@ -588,21 +678,21 @@ O Decreto-Lei n.º 83/2000, de 11 de Maio, na redacção actual, é republicado 
 
 Visto e aprovado em Conselho de Ministros de 25 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Emanuel Augusto dos Santos - Alberto Bernardes Costa - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 21 de Julho de 2006.**
+Promulgado em 21 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 2.º)
 
 Modelo do passaporte temporário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf)
 
 ## ANEXO II — Republicação do Decreto-Lei n.º 83/2000, de 11 de Maio
 
@@ -1028,7 +1118,9 @@ A taxa de emissão do passaporte temporário é fixada por portaria conjunta dos
 
 2 - Nos casos de destruição, furto ou extravio de passaporte temporário, deve o requerente apresentar declaração, sob compromisso de honra, prestada em impresso próprio, fundamentando o pedido e comprometendo-se a não utilizar e a devolver ao serviço emissor o passaporte substituído, se vier a recuperá-lo.
 
-#### SECÇÃO V — Título de viagem única
+#### SECÇÃO V
+
+## Título de viagem única
 
 ###### Artigo 39.º — Concessão e emissão
 
@@ -1130,4 +1222,4 @@ O presente diploma entra em vigor 120 dias após a data da sua publicação.
 
 ## ANEXO — Modelo do passaporte temporário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf))](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/14300/52565271.pdf)

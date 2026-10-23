@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/314/2009/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-2009-483106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e016a2754d0e08d0a2b6e4ae5778a163889338c9559e7a013212aa6b7633cf68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f8c2d5eb6a0d73b5dc7d125fb11ba1f9d5227125d8c9ce46940219ad39fb76e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,38 +70,44 @@ subjects:
 - Análise Laboratorial
 - Animal de Exploração
 - Animal Doméstico
-- Produção Animal
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Publicidade
+- ASAE
+- Circulação de Mercadorias
+- Comércio
 - Comércio a Retalho
-- Direção Geral de Veterinária
 - Definição de Competências
-- Saúde Pública
+- Direção Geral de Veterinária
+- Embalagem
 - Etiquetagem
+- Exportação
 - Fabrico Industrial
 - Fiscalização
 - Importação
-- ASAE
+- Indústria Farmacêutica
+- Informação do Consumidor
 - Matéria-Prima
-- Embalagem
+- Medicamento Veterinário
 - Medicina Veterinária
 - Normas de Segurança
-- Circulação de Mercadorias
-- Informação do Consumidor
-- Exportação
+- Produção Animal
+- Produto Fitofarmacêutico
+- Publicidade
 - Receita Médica
 - Regime Jurídico
-- Produto Fitofarmacêutico
-- Medicamento Veterinário
-- Comércio
-- Vacinação
 - Saúde Animal
+- Saúde Pública
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 114.º e 117.º do Dec Lei 148/2008 de 29-jul, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:31981L0851
   label: null
@@ -155,15 +161,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir
 article_structure:
-  article_count: 184
-  section_count: 65
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 141
+  section_count: 91
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:20Z'
   warnings: []
   errors: []
 ---
@@ -402,7 +408,9 @@ da) 'Vinheta' o selo identificativo do médico veterinário destinado a validar 
 
 3 - Para efeitos do disposto na alínea bs) do n.º 1, é aceite qualquer farmacopeia ou formulário reconhecido oficialmente em Portugal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -466,7 +474,9 @@ x) ...
 
 9 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -488,7 +498,9 @@ x) ...
 
 10 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -504,7 +516,9 @@ x) ...
 
 7 - A decisão de concessão de AIM é publicitada na página electrónica da DGV.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -524,7 +538,9 @@ x) ...
 
 9 - A decisão de concessão de autorização de renovação é publicitada na página electrónica da DGV.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -546,7 +562,9 @@ x) ...
 
 10 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -568,7 +586,9 @@ x) ...
 
 10 - A decisão de suspensão, revogação ou alteração da AIM é publicada na página electrónica da DGV.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -580,13 +600,17 @@ x) ...
 
 5 - Ficam dispensadas de parecer do GAMV as alterações referidas no número anterior e as alterações menores do tipo ia, excepto quando tal for solicitado pelo director-geral de Veterinária.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
 2 - Os titulares de uma AIM, concedida ao abrigo da legislação referida no número anterior, requerem à DGV a atribuição de um número de código nacional, sem prejuízo de instruções que podem ser definidas pelo director-geral de Veterinária.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -640,7 +664,9 @@ b) Seis meses, em caso de ter formação universitária de seis anos.
 
 11 - Fica isenta dos requisitos respeitantes à experiência profissional mencionada na alínea d) do n.º 3 e no n.º 10 e à formação de acordo com o disposto nos n.os 8 e 9 a pessoa que exerça essa actividade à data do início de aplicação da Directiva n.º [81/851/CEE](https://data.europa.eu/eli/dir/1981/851/oj?locale=pt), de 28 de Setembro.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A DGV decide sobre a autorização no prazo máximo de 90 dias a contar da data de recepção de um pedido válido mediante emissão ao requerente de um documento cuja cópia é enviada à Agência.
 
@@ -650,7 +676,9 @@ b) Seis meses, em caso de ter formação universitária de seis anos.
 
 4 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -664,7 +692,9 @@ b) Seis meses, em caso de ter formação universitária de seis anos.
 
 6 - Sempre que seja determinada a revogação da autorização referida no n.º 1, esta é comunicada à Comissão e aos restantes Estados membros.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - O director-geral de Veterinária pode autorizar a utilização de medicamentos veterinários não possuidores de qualquer das restantes autorizações previstas no presente decreto-lei desde que:
 
@@ -696,7 +726,9 @@ f) [Anterior alínea f) do n.º 3.]
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -712,7 +744,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -750,13 +784,17 @@ j) ...
 
 3 - Qualquer distribuidor que não seja titular de AIM e que importe um medicamento veterinário de outro Estado membro deve notificar o titular da AIM e a autoridade nacional competente do Estado membro para o qual o medicamento veterinário será importado, da sua intenção de o importar, o que no caso de medicamentos veterinários sem uma autorização nos termos do Regulamento (CE) n.º [726/2004](https://data.europa.eu/eli/reg/2004/726/oj?locale=pt) é feito sem prejuízo dos procedimentos adicionais legalmente previstos nesse Estado membro.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
 2 - A DGV informa o titular da autorização, a Comissão e os restantes Estados membros da decisão de autorizar, de suspender ou de revogar a autorização de exercício da actividade de distribuidor por grosso de medicamentos veterinários.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -790,7 +828,9 @@ i) ...
 
 2 - ...
 
-###### Artigo 68.º — Aquisição directa
+Artigo 68.º
+
+Aquisição directa
 
 A aquisição directa de medicamentos veterinários aos fabricantes, importadores e distribuidores por grosso pode ser efectuada pelas seguintes entidades:
 
@@ -798,7 +838,9 @@ a) Médicos veterinários e centros de atendimento médico-veterinários, quando
 
 b) Explorações pecuárias, bem como entidades oficiais ou estabelecimentos de ensino, investigação ou experimentação do sector da produção ou saúde animal que possuam um médico veterinário como responsável clínico ou sanitário e organizações de produtores pecuários (OPP), desde que mediante requisição e os medicamentos veterinários se destinem a ser administrados exclusivamente aos seus animais.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - A requisição prevista no artigo anterior deve obedecer aos seguintes requisitos:
 
@@ -818,7 +860,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -844,19 +888,25 @@ j) ...
 
 2 - Sejam medicamentos veterinários destinados a espécies animais produtoras de géneros alimentícios.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
 2 - Ao transporte previsto no número anterior aplica-se o disposto no artigo 69.º
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - Por razões de defesa da saúde animal e ou protecção da saúde pública, o director-geral de Veterinária pode decidir pela aquisição e utilização de medicamentos e ou medicamentos veterinários, com carácter preventivo ou curativo, designadamente para campanhas de sanidade animal.
 
 2 - O director-geral de Veterinária pode, em casos excepcionais devidamente justificados, autorizar que a rotulagem dos medicamentos veterinários não mencione certas indicações específicas e que seja redigida numa língua estrangeira, fixando para isso as condições a que deve obedecer a rotulagem ou folheto informativo ou outra informação relevante que acompanha o medicamento.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - Os medicamentos e os medicamentos veterinários sujeitos a receita médico-veterinária e destinados a animais de exploração apenas podem ser dispensados ao público mediante receita médica veterinária normalizada, editada nos termos do artigo 119.º
 
@@ -882,7 +932,9 @@ e) Deve ter aposta, no original e no duplicado, a vinheta médico-veterinária.
 
 7 - ...
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - O detentor ou responsável por animais de exploração é obrigado a manter actualizado um registo de medicamentos e medicamentos veterinários utilizados naqueles animais, onde devem ser averbadas, por ordem cronológica, pelo menos, as seguintes informações:
 
@@ -914,7 +966,9 @@ f) ...
 
 9 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - Os medicamentos veterinários homeopáticos estão sujeitos às disposições do presente decreto-lei, com as especificações previstas na presente secção, à excepção dos procedimentos de reconhecimento mútuo e descentralizado, previstos nos artigos 28.º e 29.º
 
@@ -922,7 +976,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - Sem prejuízo das disposições do Regulamento (CEE) n.º [2377/90](https://data.europa.eu/eli/reg/1990/2377/oj?locale=pt), de 26 de Junho, relativo aos estabelecimentos do limite máximo de resíduos das substâncias farmacologicamente activas para animais produtores de géneros alimentícios, só podem ser submetidos ao procedimento de registo nacional simplificado os medicamentos veterinários homeopáticos que, cumulativamente, preencham as seguintes condições:
 
@@ -952,7 +1008,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -982,7 +1040,9 @@ h) ...
 
 14 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - Aos medicamentos veterinários que se destinem a ser utilizados em peixes de aquário, aves ornamentais, pombos, pombos-correio, animais de terrário, pequenos roedores, furões e coelhos de companhia aplicam-se, com as devidas adaptações, as normas do presente decreto-lei.
 
@@ -990,7 +1050,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -1000,7 +1062,9 @@ h) ...
 
 4 - O director-geral de Veterinária pode adoptar normas designadamente respeitantes ao acondicionamento, primário ou secundário, à rotulagem, ao folheto informativo, à direcção técnica, ao transporte, à distribuição, à comercialização, ao fornecimento e à entrega de gases medicinais.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -1020,7 +1084,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 -...
 
@@ -1030,7 +1096,9 @@ d) ...
 
 4 - A gestão dos fundos destinados às actividades de farmacovigilância, ao funcionamento das redes de comunicação e à fiscalização do mercado está sujeita ao controlo permanente da DGV, a fim de garantir a sua independência.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -1060,7 +1128,9 @@ m) Propor que seja determinado ao titular da AIM a prestação de informações 
 
 2 - ...
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - ...
 
@@ -1096,7 +1166,9 @@ c) ...
 
 8 - Após a concessão da AIM, o respectivo titular pode requerer a modificação dos prazos referidos no n.º 2, nos termos da regulamentação comunitária relativa às modificações das condições de autorização de um medicamento.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -1118,7 +1190,9 @@ b) Os dados relativos aos estudos complementares de segurança pós-comercializa
 
 c) ...
 
-###### Artigo 112.º — Normas, orientações técnicas e notificações
+Artigo 112.º
+
+Normas, orientações técnicas e notificações
 
 1 - As normas para a recolha, verificação e apresentação de notificações ou relatórios sobre reacções adversas, nomeadamente os requisitos técnicos aplicáveis ao intercâmbio electrónico de dados de farmacovigilância veterinária, aprovados a nível comunitário, em conformidade com a terminologia internacionalmente aprovada, devem ser observadas pelos vários intervenientes nas actividades no âmbito do presente capítulo.
 
@@ -1128,13 +1202,17 @@ c) ...
 
 4 - Exceptuam-se ao disposto nos números anteriores os médicos veterinários e outros profissionais de saúde animal que devem notificar a DGV ou o titular da autorização ou registo, imediatamente ou no prazo máximo de 15 dias a contar do conhecimento das suspeitas de reacção adversa, reacção adversa grave ou inesperada, ou reacção adversa nos seres humanos através de suporte de papel ou electronicamente e de acordo com o formulário a divulgar na página electrónica da DGV.
 
-###### Artigo 113.º — Controlo e fiscalização
+Artigo 113.º
+
+Controlo e fiscalização
 
 1 - Compete à DGV a execução do controlo oficial na matéria a que se refere o presente decreto-lei, cabendo certificar-se de que são respeitadas as obrigações legais relativas aos medicamentos veterinários, através de inspecções repetidas e, se necessário, não anunciadas, e, quando adequado, através da realização de ensaios com amostras por um laboratório oficial de controlo de medicamentos ou um laboratório designado para o efeito.
 
 2 - Compete à DGV e à Autoridade de Segurança Alimentar e Económica (ASAE), no âmbito das respectivas competências, assegurar a fiscalização do cumprimento das normas do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -1142,7 +1220,9 @@ c) ...
 
 3 - Sem prejuízo do disposto no n.º 1, a DGV pode solicitar anualmente aos fabricantes, aos RIM e distribuidores grossistas de medicamentos veterinários informação sobre as quantidades de antimicrobianos fabricadas e comercializadas respectivamente, para efeitos de monitorização dos seus consumos.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - ...
 
@@ -1158,7 +1238,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - ...
 
@@ -1240,7 +1322,9 @@ b) Conformidade com a monografia, quando a inspecção é efectuada a pedido da 
 
 8 - Os certificados emitidos em conformidade com o número anterior são comunicados à Agência, bem como o desrespeito pelos princípios e normas de boas práticas de fabrico previstos na legislação comunitária, quando é caso disso.
 
-###### Artigo 45.º-A — Intercâmbio de informações entre Estados membros
+Artigo 45.º-A
+
+Intercâmbio de informações entre Estados membros
 
 1 - A DGV toma todas as medidas necessárias para que seja transmitido às autoridades competentes dos outros Estados membros as informações apropriadas, especialmente para garantir o respeito pelos requisitos fixados para a AIM dos medicamentos veterinários bem como para as autorizações previstas nos artigos 36.º e 43.º e no n.º 7 do artigo 41.º-A.
 
@@ -1250,7 +1334,9 @@ a) Agência, que informa os Estados membros envolvidos;
 
 b) Comissão, que, após consulta aos Estados membros envolvidos, pode solicitar nova inspecção, ao inspector da autoridade de fiscalização competente, eventualmente acompanhada por dois outros inspectores de Estados membros que não sejam parte do diferendo.
 
-###### Artigo 69.º-A — Transporte
+Artigo 69.º-A
+
+Transporte
 
 Aos médicos veterinários que transportam consigo, nas viaturas em que se deslocam, as quantidades de medicamentos e medicamentos veterinários necessárias à sua prática clínica diária é dispensada a guia de transporte, prevista na legislação nacional aplicável.»
 
@@ -1270,15 +1356,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 15 de Outubro de 2009.**
+Promulgado em 15 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Outubro de 2009.**
+Referendado em 16 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (nos termos do n.º 2 do artigo 3.º)
 
@@ -1324,7 +1410,7 @@ O título iv descreve os requisitos aplicáveis a determinados tipos de medicame
 
 O disposto no presente título é aplicável aos medicamentos veterinários que não constituam medicamentos veterinários imunológicos, salvo disposição em contrário do título iii.
 
-# PARTE 1 — Resumo do processo
+## PARTE 1 — Resumo do processo
 
 A - Informações administrativas
 
@@ -1356,7 +1442,7 @@ C - Relatórios de perito
 
 No caso de pedidos relativos a medicamentos destinados a espécies menores ou indicações terapêuticas que representem segmentos de mercado restritos, o formato do resumo geral da qualidade pode ser utilizado sem acordo prévio das autoridades competentes.
 
-# PARTE 2 — Informação farmacêutica (físico-química, biológica ou microbiológica) (qualidade)
+## PARTE 2 — Informação farmacêutica (físico-química, biológica ou microbiológica) (qualidade)
 
 Princípios e requisitos básicos
 
@@ -1648,7 +1734,7 @@ Podem ser incluídas no processo informações relacionadas com a qualidade do m
 
 No que respeita a pré-misturas medicamentosas (medicamentos veterinários destinados a ser incorporados em alimentos medicamentosos para animais), devem ser fornecidas informações sobre taxas de inclusão, instruções de incorporação, homogeneidade nos alimentos para animais, compatibilidade/viabilidade adequados, estabilidade nos alimentos para animais e prazo de validade nesses alimentos proposto. Deve igualmente apresentar-se uma especificação para os alimentos medicamentosos para animais fabricados com estas pré-misturas de acordo com as instruções de utilização recomendadas.
 
-# PARTE 3 — Ensaios de segurança e de resíduos
+## PARTE 3 — Ensaios de segurança e de resíduos
 
 Os elementos e documentos anexos ao pedido de autorização de introdução no mercado, tendo em conta o disposto na alínea f) e na subalínea ii) da alínea j) do n.º 3 do artigo 5.º do Decreto-Lei n.º 148/2008, de 29 de Julho, devem ser apresentados em conformidade com os requisitos seguintes.
 
@@ -1964,7 +2050,7 @@ O relatório de cada estudo inclui:
 
 - Uma análise objectiva dos resultados obtidos e propostas relativas aos intervalos de segurança necessários para assegurar a inexistência, nos géneros alimentícios provenientes de animais tratados, de resíduos susceptíveis de constituir um risco para o consumidor.
 
-# PARTE 4 — Ensaios pré-clínicos e clínicos
+## PARTE 4 — Ensaios pré-clínicos e clínicos
 
 Os elementos e documentos apensos aos pedidos de autorização de introdução no mercado, por força do terceiro travessão da alínea j) do n.º 3 do artigo 5.º, devem ser apresentados em conformidade com o disposto na presente parte.
 
@@ -2160,7 +2246,7 @@ No que respeita às associações fixas de medicamentos, o investigador deve igu
 
 Sem prejuízo das disposições específicas da legislação comunitária sobre o controlo e erradicação de certas doenças infecciosas dos animais, são aplicáveis aos medicamentos veterinários imunológicos os seguintes requisitos, salvo se estes medicamentos se destinarem a ser utilizados em determinadas espécies ou com indicações específicas, tal como definido no título iii e nas normas em vigor.
 
-# PARTE 1 — Resumo do processo
+## PARTE 1 — Resumo do processo
 
 A - Informações administrativas
 
@@ -2202,7 +2288,7 @@ C - Relatórios de perito
 
 - Ser assinados e datados e conter em anexo informação sobre as habilitações, formação e experiência profissional do autor e conter uma declaração da relação profissional entre o autor e o requerente.
 
-# PARTE 2 — Informações químicas, farmacêuticas e biológicas/microbiológicas (qualidade)
+## PARTE 2 — Informações químicas, farmacêuticas e biológicas/microbiológicas (qualidade)
 
 Princípios e requisitos básicos
 
@@ -2396,7 +2482,7 @@ H - Outras informações
 
 Podem ser incluídas no processo informações relacionadas com a qualidade do medicamento veterinário imunológico não abrangidas nas secções anteriores.
 
-# PARTE 3 — Ensaios de segurança
+## PARTE 3 — Ensaios de segurança
 
 Os elementos e documentos anexos ao pedido de autorização de introdução no mercado, tendo em conta o disposto na alínea f) e na subalínea ii) da alínea j) do n.º 3 do artigo 5.º do Decreto-Lei n.º 148/2008, de 29 de Julho, devem ser apresentados em conformidade com os requisitos seguintes.
 
@@ -2486,7 +2572,7 @@ E - Avaliação necessária no caso dos medicamentos veterinários que contenham
 
 Quando se trata de medicamentos veterinários que contenham ou sejam constituídos por organismos geneticamente modificados, o pedido deve ainda ser acompanhado dos documentos previstos no Decreto-Lei n.º 72/2003, de 10 de Abril.
 
-# PARTE 4 — Ensaios de eficácia
+## PARTE 4 — Ensaios de eficácia
 
 Os elementos e documentos apensos aos pedidos de autorização de introdução no mercado, por força da alínea j) do n.º 3 do artigo 5.º, devem ser apresentados em conformidade com o disposto na presente parte.
 
@@ -2546,7 +2632,7 @@ C - Ensaios de campo
 
 2 - Caso os ensaios laboratoriais não comprovem eficácia, podem ser eventualmente aceitáveis apenas resultados de campo.
 
-# PARTE 5 — Elementos e documentos
+## PARTE 5 — Elementos e documentos
 
 A - Introdução
 
@@ -2614,7 +2700,7 @@ As informações sobre os estudos de campo devem ser suficientemente pormenoriza
 
 15) Uma análise objectiva dos resultados obtidos que conduza a conclusões quanto à segurança e eficácia do medicamento.
 
-# PARTE 6 — Referências bibliográficas
+## PARTE 6 — Referências bibliográficas
 
 As referências bibliográficas citadas no resumo referido na parte 1 devem ser enumeradas circunstanciadamente, anexando-se cópias das mesmas.
 
@@ -2694,7 +2780,7 @@ A identificação das exigências essenciais aplicáveis a todos os pedidos menc
 
 ## TÍTULO IV — Requisitos para pedidos de autorização de introdução no mercado de medicamentos veterinários específicos
 
-# PARTE 1
+## PARTE 1
 
 A presente parte estabelece os requisitos específicos para determinados medicamentos veterinários relacionados com a natureza das substâncias activas neles contidas.
 
@@ -2722,7 +2808,7 @@ A Agência adoptará normas científicas para a apresentação e avaliação dos
 
 Esta secção estabelece disposições específicas quanto à aplicação do título i, partes 2 e 3, aos medicamentos veterinários homeopáticos, conforme definidos na alínea bg) do artigo 3.º do presente diploma.
 
-# PARTE 2
+## PARTE 2
 
 As disposições da parte 2 aplicam-se aos documentos apresentados, em conformidade com o n.º 2 do artigo 85.º, para o registo simplificado de medicamentos homeopáticos referidos no n.º 1 do artigo 85.º, bem como aos documentos para a autorização de outros medicamentos homeopáticos, de acordo com os artigos 5.º a 8.º do presente decreto-lei, com as seguintes alterações:
 
@@ -2740,7 +2826,7 @@ Deve proceder-se à identificação e ao doseamento de todos os componentes rele
 
 d) Ensaios de estabilidade - a estabilidade do produto acabado deve ser demonstrada. Os dados de estabilidade das matérias-primas homeopáticas são geralmente passíveis de transferência para as diluições/potenciações obtidas a partir delas. Se não for possível identificar ou dosear a substância activa devido ao grau de diluição, podem considerar-se os dados de estabilidade da forma farmacêutica.
 
-# PARTE 3
+## PARTE 3
 
 Sem prejuízo do disposto no Regulamento (CEE) n.º [2377/90](https://data.europa.eu/eli/reg/1990/2377/oj?locale=pt) relativamente às substâncias incluídas nas matérias-primas homeopáticas destinadas a administração a espécies animais utilizadas na alimentação humana, as disposições da parte 3 aplicam-se ao registo simplificado de medicamentos veterinários homeopáticos referidos no n.º 1 do artigo 85.º do presente decreto-lei, com a seguinte especificação.
 
@@ -5688,7 +5774,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 17.º — Deslocação ou abate de animais sujeitos a tratamento
+Artigo 17.º
+
+Deslocação ou abate de animais sujeitos a tratamento
 
 1 - São interditos a deslocação, a alteração de detentor ou o abate de animais durante o tratamento ou antes do final do intervalo de segurança fixado para o mesmo.
 
@@ -5700,13 +5788,17 @@ f) ...
 
 5 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os modelos de receita de alimento medicamentoso para animais (RAMA) e de vinheta são aprovados por portaria do membro do Governo responsável pela área da agricultura.
 
 2 - (Revogado.)
 
-###### Artigo 27.º — Edição e distribuição da receita e vinheta
+Artigo 27.º
+
+Edição e distribuição da receita e vinheta
 
 1 - A RAMA e a vinheta são editadas e distribuídas pela DGV.
 
@@ -6018,7 +6110,7 @@ O título iv descreve os requisitos aplicáveis a determinados tipos de medicame
 
 O disposto no presente título é aplicável aos medicamentos veterinários que não constituam medicamentos veterinários imunológicos, salvo disposição em contrário do título iii.
 
-# PARTE 1 — Resumo do processo
+## PARTE 1 — Resumo do processo
 
 A - Informações administrativas
 
@@ -6050,7 +6142,7 @@ C - Relatórios de perito
 
 No caso de pedidos relativos a medicamentos destinados a espécies menores ou indicações terapêuticas que representem segmentos de mercado restritos, o formato do resumo geral da qualidade pode ser utilizado sem acordo prévio das autoridades competentes.
 
-# PARTE 2 — Informação farmacêutica (físico-química, biológica ou microbiológica) (qualidade)
+## PARTE 2 — Informação farmacêutica (físico-química, biológica ou microbiológica) (qualidade)
 
 Princípios e requisitos básicos
 
@@ -6342,7 +6434,7 @@ Podem ser incluídas no processo informações relacionadas com a qualidade do m
 
 No que respeita a pré-misturas medicamentosas (medicamentos veterinários destinados a ser incorporados em alimentos medicamentosos para animais), devem ser fornecidas informações sobre taxas de inclusão, instruções de incorporação, homogeneidade nos alimentos para animais, compatibilidade/viabilidade adequados, estabilidade nos alimentos para animais e prazo de validade nesses alimentos proposto. Deve igualmente apresentar-se uma especificação para os alimentos medicamentosos para animais fabricados com estas pré-misturas de acordo com as instruções de utilização recomendadas.
 
-# PARTE 3 — Ensaios de segurança e de resíduos
+## PARTE 3 — Ensaios de segurança e de resíduos
 
 Os elementos e documentos anexos ao pedido de autorização de introdução no mercado, tendo em conta o disposto na alínea f) e na subalínea ii) da alínea j) do n.º 3 do artigo 5.º do Decreto-Lei n.º 148/2008, de 29 de Julho, devem ser apresentados em conformidade com os requisitos seguintes.
 
@@ -6658,7 +6750,7 @@ O relatório de cada estudo inclui:
 
 - Uma análise objectiva dos resultados obtidos e propostas relativas aos intervalos de segurança necessários para assegurar a inexistência, nos géneros alimentícios provenientes de animais tratados, de resíduos susceptíveis de constituir um risco para o consumidor.
 
-# PARTE 4 — Ensaios pré-clínicos e clínicos
+## PARTE 4 — Ensaios pré-clínicos e clínicos
 
 Os elementos e documentos apensos aos pedidos de autorização de introdução no mercado, por força do terceiro travessão da alínea j) do n.º 3 do artigo 5.º, devem ser apresentados em conformidade com o disposto na presente parte.
 
@@ -6854,7 +6946,7 @@ No que respeita às associações fixas de medicamentos, o investigador deve igu
 
 Sem prejuízo das disposições específicas da legislação comunitária sobre o controlo e erradicação de certas doenças infecciosas dos animais, são aplicáveis aos medicamentos veterinários imunológicos os seguintes requisitos, salvo se estes medicamentos se destinarem a ser utilizados em determinadas espécies ou com indicações específicas, tal como definido no título iii e nas normas em vigor.
 
-# PARTE 1 — Resumo do processo
+## PARTE 1 — Resumo do processo
 
 A - Informações administrativas
 
@@ -6896,7 +6988,7 @@ C - Relatórios de perito
 
 - Ser assinados e datados e conter em anexo informação sobre as habilitações, formação e experiência profissional do autor e conter uma declaração da relação profissional entre o autor e o requerente.
 
-# PARTE 2 — Informações químicas, farmacêuticas e biológicas/microbiológicas (qualidade)
+## PARTE 2 — Informações químicas, farmacêuticas e biológicas/microbiológicas (qualidade)
 
 Princípios e requisitos básicos
 
@@ -7090,7 +7182,7 @@ H - Outras informações
 
 Podem ser incluídas no processo informações relacionadas com a qualidade do medicamento veterinário imunológico não abrangidas nas secções anteriores.
 
-# PARTE 3 — Ensaios de segurança
+## PARTE 3 — Ensaios de segurança
 
 Os elementos e documentos anexos ao pedido de autorização de introdução no mercado, tendo em conta o disposto na alínea f) e na subalínea ii) da alínea j) do n.º 3 do artigo 5.º do Decreto-Lei n.º 148/2008, de 29 de Julho, devem ser apresentados em conformidade com os requisitos seguintes.
 
@@ -7180,7 +7272,7 @@ E - Avaliação necessária no caso dos medicamentos veterinários que contenham
 
 Quando se trata de medicamentos veterinários que contenham ou sejam constituídos por organismos geneticamente modificados, o pedido deve ainda ser acompanhado dos documentos previstos no Decreto-Lei n.º 72/2003, de 10 de Abril.
 
-# PARTE 4 — Ensaios de eficácia
+## PARTE 4 — Ensaios de eficácia
 
 Os elementos e documentos apensos aos pedidos de autorização de introdução no mercado, por força da alínea j) do n.º 3 do artigo 5.º, devem ser apresentados em conformidade com o disposto na presente parte.
 
@@ -7240,7 +7332,7 @@ C - Ensaios de campo
 
 2 - Caso os ensaios laboratoriais não comprovem eficácia, podem ser eventualmente aceitáveis apenas resultados de campo.
 
-# PARTE 5 — Elementos e documentos
+## PARTE 5 — Elementos e documentos
 
 A - Introdução
 
@@ -7308,7 +7400,7 @@ As informações sobre os estudos de campo devem ser suficientemente pormenoriza
 
 15) Uma análise objectiva dos resultados obtidos que conduza a conclusões quanto à segurança e eficácia do medicamento.
 
-# PARTE 6 — Referências bibliográficas
+## PARTE 6 — Referências bibliográficas
 
 As referências bibliográficas citadas no resumo referido na parte 1 devem ser enumeradas circunstanciadamente, anexando-se cópias das mesmas.
 
@@ -7388,7 +7480,7 @@ A identificação das exigências essenciais aplicáveis a todos os pedidos menc
 
 ## TÍTULO IV — Requisitos para pedidos de autorização de introdução no mercado de medicamentos veterinários específicos
 
-# PARTE 1
+## PARTE 1
 
 A presente parte estabelece os requisitos específicos para determinados medicamentos veterinários relacionados com a natureza das substâncias activas neles contidas.
 
@@ -7416,7 +7508,7 @@ A Agência adoptará normas científicas para a apresentação e avaliação dos
 
 Esta secção estabelece disposições específicas quanto à aplicação do título i, partes 2 e 3, aos medicamentos veterinários homeopáticos, conforme definidos na alínea bg) do artigo 3.º do presente diploma.
 
-# PARTE 2
+## PARTE 2
 
 As disposições da parte 2 aplicam-se aos documentos apresentados, em conformidade com o n.º 2 do artigo 85.º, para o registo simplificado de medicamentos homeopáticos referidos no n.º 1 do artigo 85.º, bem como aos documentos para a autorização de outros medicamentos homeopáticos, de acordo com os artigos 5.º a 8.º do presente decreto-lei, com as seguintes alterações:
 
@@ -7434,7 +7526,7 @@ Deve proceder-se à identificação e ao doseamento de todos os componentes rele
 
 d) Ensaios de estabilidade - a estabilidade do produto acabado deve ser demonstrada. Os dados de estabilidade das matérias-primas homeopáticas são geralmente passíveis de transferência para as diluições/potenciações obtidas a partir delas. Se não for possível identificar ou dosear a substância activa devido ao grau de diluição, podem considerar-se os dados de estabilidade da forma farmacêutica.
 
-# PARTE 3
+## PARTE 3
 
 Sem prejuízo do disposto no Regulamento (CEE) n.º [2377/90](https://data.europa.eu/eli/reg/1990/2377/oj?locale=pt) relativamente às substâncias incluídas nas matérias-primas homeopáticas destinadas a administração a espécies animais utilizadas na alimentação humana, as disposições da parte 3 aplicam-se ao registo simplificado de medicamentos veterinários homeopáticos referidos no n.º 1 do artigo 85.º do presente decreto-lei, com a seguinte especificação.
 

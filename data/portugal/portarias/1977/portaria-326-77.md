@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/12800/13241324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/326-1977-252450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 762fb8e3efe498b5976c81b3121f480b1ed5804cfd589ba7247ee64a0ea404df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f204594557b4842c12dddfbdf2f3a60041d0c7b2d4770df03eab649418ee327
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.1990.01.24.MDN,DR.IS [20]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:19:45Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +106,11 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 1.º São aditados ao EOA os artigos seguintes:
 
-###### Art. 37.º-A. Os oficiais que hajam ingressado na classe de engenheiros construtores navais são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
+Art. 37.º-A. Os oficiais que hajam ingressado na classe de engenheiros construtores navais são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
 
-###### Art. 53.º-A. Os oficiais que ingressem na classe de engenheiros de material naval nas condições referidas nos artigos anteriores são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
+Art. 53.º-A. Os oficiais que ingressem na classe de engenheiros de material naval nas condições referidas nos artigos anteriores são obrigados a permanecer ao serviço da Marinha, no desempenho das funções da respectiva classe, durante os oito anos seguintes ao respectivo ingresso.
 
-###### Art. 120.º-A. Por despacho do Chefe do Estado-Maior da Armada, poderá ser estabelecida como condição de nomeação para a frequência de cursos em estabelecimentos de ensino nacionais ou estrangeiros cuja duração e nível o justifiquem a obrigatoriedade de permanência ao serviço da Marinha, no desempenho de funções em que utilizem as habilitações adquiridas nesses cursos, por período a fixar em cada caso.
+Art. 120.º-A. Por despacho do Chefe do Estado-Maior da Armada, poderá ser estabelecida como condição de nomeação para a frequência de cursos em estabelecimentos de ensino nacionais ou estrangeiros cuja duração e nível o justifiquem a obrigatoriedade de permanência ao serviço da Marinha, no desempenho de funções em que utilizem as habilitações adquiridas nesses cursos, por período a fixar em cada caso.
 
 2.º Para os oficiais que à data da publicação da presente portaria já pertenciam ou se encontravam em preparação para ingressar nas classes de engenheiros construtores navais e engenheiros de material naval, mantêm-se as condições que vigoravam à data em que efectuaram os concursos a que se referem os artigos 33.º e 48.º, respectivamente, do EOA.
 

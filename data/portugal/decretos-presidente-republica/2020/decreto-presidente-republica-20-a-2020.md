@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 76/2020, 1º Suplemento, Série I de 2020-04-17
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(2) a 7-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07601/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/20-a/2020/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/20-a-2020-131908497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f2437de474f87bac0d789f8937caaaa4e9b53a76614b16144eb45be136508d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7be3945b1f2510cc5408c452bb77bb5d17a75d10f32a2022b2f76ec629db74e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Circulação de Pessoas
-- Segurança Interna
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
 - Catástrofe
+- Circulação de Pessoas
+- Controlo Sanitário
 - Direitos do Indivíduo
 - Doença Infecciosa
 - Epidemia
+- Estado de Emergência
+- Saúde Pública
+- Segurança Interna
 relationships:
 - type: amended_by
   target: pt:dre:133879986:por
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131068124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:22Z'
   warnings: []
   errors: []
 ---
@@ -194,12 +214,14 @@ Mantêm-se em vigor, se não expressa ou tacitamente revogadas, bem como são ra
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 16 de abril de 2020.**
+Assinado em 16 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de abril de 2020.**
+Referendado em 16 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113188537

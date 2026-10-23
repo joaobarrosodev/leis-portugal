@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08600/0000500007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2025/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2025-916914752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5ad348843302be6508529d35a95b7a551aac81bf4cc1a42656ab5121c3b5cff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5ef4db1cd164480d9660e65f566f9ca311ae419463de50952d4f762b3776b59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Substancia Cancerigena
-- Higiene do Trabalho
-- Segurança no Trabalho
-- Doença Profissional
-- Prevenção de Riscos Profissionais
 - Condições de Higiene e Segurança no Trabalho
+- Doença Profissional
+- Higiene do Trabalho
+- Prevenção de Riscos Profissionais
 - Saúde no Trabalho
+- Segurança no Trabalho
+- Substancia Cancerigena
 - Substância Perigosa
 - Trabalhador
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:301/2000
+  label: Altera, a partir de 2 de junho de 2025, o artigo 6.º do Decreto-Lei n.º 301/2000, de 18 de novembro, Diário da República
+    n.º 267/2000, Série I-A
+  source: null
+  date: '2000-11-18'
 - type: cites
   target: celex:32004L0037
   label: null
@@ -105,6 +111,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2015/05/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2015/05/28/p/dre
+- type: cites
+  target: pt:dre:137703603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150661864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:898867718:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32022L0431
   label: null
@@ -112,13 +138,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:56Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +169,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei completa a transposição da [Diretiva (UE) 2022/431](http://data.europa.eu/eli/dir/2022/431/oj?locale=pt) do Parlamento Europeu e do Conselho, de 9 de março de 2022, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho.
 
-2 - Para o efeito previsto no número anterior, o presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>[88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), de 28 de maio, [35/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), de 13 de julho, [102-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), de 9 de dezembro, e [102/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), de 4 de dezembro, que regula a proteção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho.
+2 - Para o efeito previsto no número anterior, o presente decreto-lei procede à quinta alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro, alterado pelos Decretos-Leis n.os[88/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417), de 28 de maio, [35/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2020-137703603), de 13 de julho, [102-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-a-2020-150661864), de 9 de dezembro, e [102/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2024-898867718), de 4 de dezembro, que regula a proteção dos trabalhadores contra os riscos ligados à exposição a agentes cancerígenos, mutagénicos ou substâncias tóxicas para a reprodução durante o trabalho.
 
 ###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 301/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-2000-616576), de 18 de novembro
 
@@ -187,12 +213,14 @@ O presente decreto-lei entra em vigor no primeiro dia útil do mês seguinte ao 
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Rosário Palma Ramalho.
 
-**Promulgado em 29 de abril de 2025.**
+Promulgado em 29 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de abril de 2025.**
+Referendado em 30 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119006394

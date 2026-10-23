@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1983-452973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 406ba8a9741355e032a954f0455ac7b45d4004ed47eae04a7b88af7ee58d3157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb9f77f31ae4e47b82306301c106624de66a7bd0f928235706cee0e4ea9ac34a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Museu de Escultura Comparada
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:470228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683830:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:08Z'
   warnings: []
   errors: []
 ---
@@ -96,26 +110,26 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Museu de Escultura Comparada é o constante do mapa anexo ao presente diploma.
+Artigo 1.º O quadro de pessoal do Museu de Escultura Comparada é o constante do mapa anexo ao presente diploma.
 
-###### Art. 2.º O cargo de director do Museu tem a categoria de chefe de divisão e será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 2.º O cargo de director do Museu tem a categoria de chefe de divisão e será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 3.º O restante pessoal previsto no artigo 1.º será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 3.º O restante pessoal previsto no artigo 1.º será provido nos termos do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
-###### Art. 4.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
+Art. 4.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, consoante a natureza das matérias.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Francisco António Lucas Pires - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Junho de 1983.**
+Promulgado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15200/24292429.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15200/24292429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15200/24292429.pdf)

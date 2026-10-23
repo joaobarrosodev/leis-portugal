@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1978-328425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T05:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2fb48b2f940365ad630b6103043768c479bff758374e7ff056a180057a03353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a34eb086497c2cf9d91bf1032aa8632f70410261a3098759c8de5e08c0c61681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Nacional de Acesso
+- Concurso Nacional de Acesso e Ingresso
+- Ensino Superior
+- Estabelecimento de Ensino
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:366585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456830:por
+  label: Aditada a tabela anexa pelo(a) Portaria n.º 644/78 - Diário da República n.º 248/1978, 1º Suplemento, Série I de
+    1978-10-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/644-1978-456830
+  date: '1978-10-27'
+- type: amended_by
+  target: pt:dre:366585:por
+  label: "Não emitido qualquer juízo sobre a constitucionalidade das normas constantes do presente diploma, pela RES.350/79.12.12.1979.CR,\
+    \ DR.IS [285] de 12.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/350-1979-366585
+  date: '1979-12-12'
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642730:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:325952:por
+  label: Retificados o n.º 3 do art. 7.º, n.º 1 do art. 10.º, n.ºs 1 e 2 do art. 15.º, n.º 1 do art. 17.º, n.ºs 1 e 2 do art.
+    22.º, n.º 3 do art. 27.º, n.º 1 do art. 37.º e n.º 3 do art. 38.º pelo(a) Declaração - Diário da República n.º 264/1978,
+    Série I de 1978-11-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325952
+  date: '1978-11-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:45:29Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +248,7 @@ Os estudantes que, frequentando ou tendo frequentado em estabelecimentos privado
 
 ###### ARTIGO 9.º — Limitações
 
-**O Secretário de Estado do Ensino Superior e Investigação Científica fixará anualmente em despacho:**
+O Secretário de Estado do Ensino Superior e Investigação Científica fixará anualmente em despacho:
 
 a) O limite de supranumerários de cada tipo a admitir em cada curso e estabelecimento;
 
@@ -520,6 +580,6 @@ Ministério da Educação e Cultura, 11 de Outubro de 1978. - O Ministro da Educ
 
 ## Anexo à portaria — Número máximo de estudantes a admitir no ano lectivo de 1978-1979 à matrícula no 1.º ano dos cursos de ensino superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/23700/21562165.pdf))](https://files.diariodarepublica.pt/1s/1978/10/23700/21562165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/23700/21562165.pdf)
 
-**O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.**
+O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.

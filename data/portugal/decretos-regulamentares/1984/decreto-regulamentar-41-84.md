@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac944b1879dcdfc5985017c18845d1421779b51d48c4368747682473f21c04a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6bf898d08173b27d7755c1654a46987fce85a24fdeec5c8f7973b3ebe4a9aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Ministério da Agricultura Florestas e Alimentação
+- Quadro de Pessoal
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:619144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Rectificação publicada no DR.IS [150]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1984-05-28'
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681635:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275407:por
+  label: Rectificado pela DECL.DD5007.26.06.1984.PCM, DR.IS [150-2SUPL] de 30.06.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275407
+  date: '1984-06-26'
+- type: repealed_by
+  target: pt:dre:619144:por
+  label: "Revogado pelo DR.24/89.1989.08.11.MAPA, DR.IS [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1989-619144
+  date: '1989-08-11'
 article_structure:
   article_count: 44
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:24Z'
   warnings: []
   errors: []
 ---
@@ -436,7 +507,7 @@ O tempo de serviço prestado na categoria que deu origem à transição e em fun
 
 ###### Artigo 42.º — (Apoio às associações ligadas aos sectores de actividade do Ministério)
 
-**O Ministro da Agricultura, Florestas e Alimentação pode autorizar que o pessoal técnico do Ministério preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.**
+O Ministro da Agricultura, Florestas e Alimentação pode autorizar que o pessoal técnico do Ministério preste apoio às associações ligadas aos sectores de actividade do Ministério, com o objectivo de elaborar programas de actuação que visem o seu desenvolvimento e assistir tecnicamente à respectiva execução.
 
 ###### Artigo 43.º — (Carreiras e categorias criadas)
 
@@ -448,33 +519,33 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - José San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 11 de Maio de 1984.**
+Promulgado em 11 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Maio de 1984.**
+Referendado em 14 de Maio de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 MAPA I
 
 Categorias do quadro único do pessoal do Ministério da Agricultura, Florestas e Alimentação a que se refere o n.º 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
 
 MAPA II
 
 Categorias e carreiras a extinguir nos termos do n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
 
 MAPA III
 
 Transição das categorias indicadas na coluna (1) para as categorias do quadro único do pessoal do Ministério da Agricultura, Florestas e Alimentação de acordo com o enunciado no n.º 2 do artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
 
 MAPA IV
 
@@ -506,4 +577,4 @@ MAPA V
 
 ## Anexo a que se refere a alínea g) do artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf))](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/12300/17101723.pdf)

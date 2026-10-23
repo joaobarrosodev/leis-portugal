@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2001/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2001-521866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a54eb21477a7fea04c41e1cb271378dfbad078175b056dd144d45a27996a4b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f93ce859e58ddc5e4c9dd3faf55dbeb9acab4786410277f83c807eb614f87e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
-- Pessoal Dirigente
-- Ordenamento do Território
+- Câmara Municipal
 - Comissão de Coordenação da Região Centro
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
 - Comissão de Coordenação da Região do Algarve
 - Comissão de Coordenação da Região Norte
-- Comissão de Coordenação da Região do Alentejo
-- Ministro do Ambiente e do Ordenamento do Território
+- Comissão de Coordenação Regional
 - Comissão de Fiscalização
-- Gestão Financeira
 - Conselho Administrativo
+- Conselho Consultivo
 - Criação de Serviços
+- Dados Estatísticos
 - Desenvolvimento Regional
 - Direcção Regional de Administração Local
 - Direcção Regional de Administração Local de Lisboa e VALE do TEJO
 - Direcção Regional de Administração Local do Alentejo
 - Direcção Regional de Administração Local do Algarve
 - Direcção Regional de Administração Local do Centro
-- Comissão de Coordenação Regional
 - Direcção Regional de Administração Local do Norte
+- Estatística
 - Gestão do Património
-- Dados Estatísticos
-- Conselho Consultivo
+- Gestão Financeira
 - Integração de Trabalhadores
 - Ministério do Planeamento
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Planeamento
+- Ordenamento do Território
 - Orgânica
+- Pessoal Dirigente
 - Piddac
 - Planeamento Regional
 - Plano de Desenvolvimento Regional
-- Sistema de Informação
 - Presidente
 - QCA III
-- Estatística
 - Quadro de Pessoal
-- Câmara Municipal
-- Autarquia Local
+- Reestruturação de Serviços
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:540841:por
@@ -142,16 +142,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/304/1994/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/304/1994/05/18/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540841:por
+  label: "Revogado sem prejuízo do regime transitório estabelecido nos arts 24º a 26º do DEC LEI.104/2003.2003.05.23.MCOTA\
+    \ DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2003-540841
+  date: '2003-05-23'
 article_structure:
   article_count: 77
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:30Z'
   warnings: []
   errors: []
 ---
@@ -1338,7 +1400,9 @@ b) Assegurar a divulgação, pelos serviços, das normas internas e demais direc
 
 c) Realizar o expediente relativo à publicação no Diário da República dos actos que careçam de publicação oficial.
 
-###### Artigo 41.º — Divisão de Sistemas de Informação Regional e de Apoio Técnico
+###### Artigo 41.º
+
+##### Divisão de Sistemas de Informação Regional e de Apoio Técnico
 
 À Divisão de Sistemas de Informação Regional e de Apoio Técnico (DSIRAT), dirigida por um chefe de divisão, compete:
 
@@ -1640,7 +1704,9 @@ c) Proceder a registos obrigatórios de modo a possibilitar a conferência diár
 
 d) Manter actualizados os registos necessários à elaboração do mapa de tesouraria integrante da conta de gerência.
 
-###### Artigo 52.º — Divisão de Apoio Técnico e Sistemas de Informação
+###### Artigo 52.º
+
+##### Divisão de Apoio Técnico e Sistemas de Informação
 
 1 - À Divisão de Apoio Técnico e Sistemas de Informação (DATSI) compete:
 
@@ -1952,7 +2018,9 @@ c) Proceder a registos obrigatórios de modo a possibilitar a conferência diár
 
 d) Manter actualizados os registos necessários à elaboração do mapa de tesouraria integrante da conta de gerência.
 
-###### Artigo 63.º — Divisão de Apoio Técnico e Sistemas de Informação
+###### Artigo 63.º
+
+##### Divisão de Apoio Técnico e Sistemas de Informação
 
 À Divisão de Apoio Técnico e Sistemas de Informação (DATSI) compete:
 
@@ -2212,34 +2280,34 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa - Alberto de Sousa Martins.
 
-**Promulgado em 20 de Julho de 2001.**
+Promulgado em 20 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 2001.**
+Referendado em 26 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 66.º, «Pessoal dirigente»)
 
 Mapa I - CCR Norte
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
 
 Mapa II - CCR Centro
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
 
 Mapa III - CCR Lisboa e Vale do Tejo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
 
 Mapa IV - CCR Alentejo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
 
 Mapa V - CCR Algarve
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)](https://files.diariodarepublica.pt/1s/2001/08/184a00/50195047.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 46/2007, 1º Suplemento, Série I de 2007-03-06
   number: '46'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1470-(2) a 1470-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/04601/00020014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50-a/2007/03/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-a-2007-262834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 689cb7edd4c8cbc0c2384d8cbc93747ee60cf6ff3a86a6b50f523764630ec9f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6d5dd415575fce5c3608d82c205f0b0baa0dd07246bd10a9572f7538ce509cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,88 +67,95 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Financeira do Estado
-- Programa Estágios Profissionais na Administração Pública
 - ADSE
 - Alteração Orçamental
-- Instituto da Segurança Social
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Serviço Nacional de Bombeiros e Protecção Civil
+- Autarquia Local
+- Autoridade Nacional de Protecção Civil
 - Autorização de Despesas
-- Financiamento
-- Ministério das Finanças e da Administração Pública
+- Caixa Geral de Aposentações
 - Centro Cultural
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Ministério da Administração Interna
-- Gestão Financeira
-- Direcção Geral do Tesouro
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Créditos do Estado
+- Departamento de Prospectiva e Planeamento
 - Despesas de Deslocação
 - Despesas Públicas
 - Direção Geral das Autarquias Locais
-- Instituto de Gestão do Crédito Público
+- Direção Geral do Orçamento
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Direcção Geral do Tesouro
 - Dívidas das Autarquias Locais
 - Duodécimo
-- Presidência Portuguesa
 - Estrutura de Missão para a Extensão da Plataforma Continental
 - Execução do Orçamento
-- Fundo Social Municipal
-- Caixa Geral de Aposentações
+- Financiamento
+- Formação Profissional
+- FSE
 - Fundo de Maneio
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
-- Apoio ao Investimento
-- Projeto de Investimento
+- Fundo para as Relações Internacionais
+- Fundo Social Municipal
 - Fundos Autónomos
-- Ministério da Ciência e do Ensino Superior
-- Créditos do Estado
-- Ministério da Justiça
-- Ministério do Trabalho e da Solidariedade Social
-- Palop
-- IRS
+- Gabinete de Estudos e Planeamento de Instalações
+- Gestão Financeira
 - Indemnização Compensatória
 - Indep
 - Instituto Camões
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Crédito Público
 - Instituto de Gestão Financeira da Segurança Social
 - Instituto de Gestão Financeira e Patrimonial da Justiça
+- Instituto do Emprego e Formação Profissional
+- Instituto Português de Apoio ao Desenvolvimento
+- IRS
 - Locação Financeira
-- Santa Casa da Misericórdia
-- FSE
-- Gabinete de Estudos e Planeamento de Instalações
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral do Desenvolvimento Regional
-- Direção Geral do Orçamento
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
-- Fundo para as Relações Internacionais
-- Orçamento Geral do Estado
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Defesa Nacional
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério das Finanças e da Administração Pública
+- Ministério do Trabalho e da Solidariedade Social
+- Ministério dos Negócios Estrangeiros
+- Ministro de Estado e das Finanças
 - Orçamento da Segurança Social
+- Orçamento Geral do Estado
 - Organismo Autónomo
+- Palop
+- Pensões
 - Pessoa Colectiva de Direito Público
+- Pessoal Docente
 - Piddac
 - Plano Oficial de Contabilidade Pública
-- UMIC
-- Pessoal Docente
-- Pensões
+- Portugal Vela 2007
+- Presidência Portuguesa
 - Programa de Investimento
-- Ministro de Estado e das Finanças
+- Programa Estágios Profissionais na Administração Pública
+- Projeto de Investimento
 - QCA III
-- Instituto Português de Apoio ao Desenvolvimento
 - Quadro de Excedentes
 - Rectificação de Numero de Diploma
-- Ministério da Saúde
+- Região Autónoma
 - Retenção na Fonte
-- Ministério dos Negócios Estrangeiros
-- Autoridade Nacional de Protecção Civil
+- Santa Casa da Misericórdia
+- Serviço Nacional de Bombeiros e Protecção Civil
 - Sistema Bancário
 - Transferência de Verbas
-- Autarquia Local
-- Portugal Vela 2007
+- UMIC
 relationships:
 - type: amended_by
   target: pt:dre:66325236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66325236:por
+  label: 'Alterada a epígrafe do anexo II, que passa a ter a seguinte redação: «Estatutos dos Hospitais e Centros Hospitalares,
+    E.P.E.», do Dec Lei 233/2005 de 29-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 12/2015 - Diário da República
+    n.º 17/2015, Série I de 2015-01-26'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2015-66325236
+  date: '2015-01-26'
 - type: cites
   target: celex:31993R3605
   label: null
@@ -164,13 +171,13 @@ relationships:
 article_structure:
   article_count: 64
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:56Z'
   warnings: []
   errors: []
 ---
@@ -827,12 +834,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho - Augusto Ernesto Santos Silva.
 
-**Promulgado em 2 de Março de 2007.**
+Promulgado em 2 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 2 de Março de 2007.**
+Referendado em 2 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

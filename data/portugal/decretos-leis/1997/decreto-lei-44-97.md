@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/1997/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1997-507062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63da9075a79d943f35ae7ac02ecb2af53dee62522e913cda4efd5fca4d832394
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7baf11f2667deab7dcbab29cfbe11861c906b72d5409ca4a89961e5ac033fad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
 - Comissão Instaladora
 - Conselho Tarifário
 - Criação de Serviços
 - Direcção Geral de Energia
+- Energia Elétrica
 - Entidade Reguladora do Sector Eléctrico
 - Estatuto
 - Gestão Orçamental
@@ -118,16 +118,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/45/1996/04/17/p/dre
+- type: cites
+  target: pt:dre:241399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571623:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303200:por
+  label: "Revogados os estatutos da ERSE, aprovado pelo presente diploma, pelo DEC LEI.97/2002.2002.04.12.MECO DR.IS-A [86]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2002-303200
+  date: '2002-04-12'
+- type: repealed_by
+  target: pt:dre:683861:por
+  label: "Revogado o art. 4º do Dec Lei 187/95 de 27-Jul, na redacção do presente diploma, pelo DEC LEI.29/2006.15.02.2006.MEI,\
+    \ DR.IS-A [33] de 15.02.2006, que mantém, contudo, a vigência do referido art. 4º até 31.12.2006.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2006-683861
+  date: '2006-02-15'
 article_structure:
-  article_count: 38
+  article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:12Z'
   warnings: []
   errors: []
 ---
@@ -196,11 +248,15 @@ f) ...
 
 8 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A Entidade Reguladora emite parecer para a selecção de novos produtores vinculados ao SEP e para o estabelecimento do respectivo contrato de vinculação, no âmbito dos processos de consulta para expansão do sistema electroprodutor vinculado, bem como para a modificação de contratos de vinculação ou para a prorrogação do seu prazo, nos termos do diploma que estabelece o regime jurídico do exercício da actividade de produção da energia eléctrica.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A Entidade Reguladora emite parecer sobre a minuta tipo do contrato de vinculação de distribuidores vinculados, nos termos do diploma que estabelece o regime jurídico do exercício da actividade de distribuição de energia eléctrica.
 
@@ -208,7 +264,9 @@ A Entidade Reguladora emite parecer para a selecção de novos produtores vincul
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A Entidade Reguladora emite parecer sobre os padrões de segurança da produção que servem de base à preparação do plano de expansão do sistema electroprodutor vinculado, a submeter à aprovação do Ministro da Economia.
 
@@ -220,7 +278,9 @@ A Entidade Reguladora emite parecer para a selecção de novos produtores vincul
 
 5 - A Entidade Reguladora emite pareceres sobre os planos de expansão do sistema electroprodutor vinculado e sobre os planos de investimento da RNT, que lhe são remetidos, respectivamente, pela DGE e pela entidade concessionária da RNT, os quais devem ser apensos aos planos respectivos.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O conselho consultivo tem a seguinte composição:
 
@@ -246,7 +306,9 @@ h) [Redacção da anterior alínea i).]
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Ao conselho fiscal compete:
 
@@ -258,7 +320,9 @@ c) Emitir parecer sobre a aquisição, oneração e alienação dos bens imóvei
 
 d) Emitir parecer sobre qualquer assunto que lhe seja solicitado pelo conselho de administração.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A Entidade Reguladora pode promover a requisição ou o destacamento, nos termos da lei geral, de pessoal pertencente aos quadros de empresas integradas no SEP, de empresas públicas ou vinculado à Administração pública central, regional e local.
 
@@ -276,15 +340,15 @@ São aprovados os Estatutos da Entidade Reguladora do Sector Eléctrico, publica
 
 Visto e aprovado em Conselho de Ministros de 5 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Janeiro de 1997.**
+Promulgado em 31 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Janeiro de 1997.**
+Referendado em 31 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ESTATUTOS DA ENTIDADE REGULADORA DO SECTOR ELÉCTRICO
 

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/28-1984-660167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T08:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7616871c62c9fc4cd992744e021e216f10193aff00a1e745bf2adeedbbd0884e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bba378d6e6bfa462a21e6c47d93bb8f0e3987503e7e9063bbdb8471100f7e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia das Ciências de Lisboa
+- Comunicações
+- Investigação Científica e Tecnológica
+- Prémio António Alves de Carvalho Fernandes
+relationships:
+- type: cites
+  target: pt:dre:233277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535588:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:00:39Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +100,20 @@ Manda o Governo da República Portuguesa, pelo Ministro da Cultura, instituir na
 
 Ministério da Cultura.
 
-**Assinada em 19 de Dezembro de 1983.**
+Assinada em 19 de Dezembro de 1983.
 
-**O Ministro da Cultura, António Antero Coimbra Martins.**
+O Ministro da Cultura, António Antero Coimbra Martins.
 
 ## ANEXO — Regulamento do Prémio António Alves de Carvalho Fernandes
 
-###### Artigo 1.º O Prémio António Alves de Carvalho Fernandes, no valor de 100000$00, montante bienalmente concedido pela Standard Eléctrica Portuguesa à Academia das Ciências de Lisboa para a sua atribuição, destina-se a estimular trabalhos de investigação científica nos domínios da electrónica e das telecomunicações.
+Artigo 1.º O Prémio António Alves de Carvalho Fernandes, no valor de 100000$00, montante bienalmente concedido pela Standard Eléctrica Portuguesa à Academia das Ciências de Lisboa para a sua atribuição, destina-se a estimular trabalhos de investigação científica nos domínios da electrónica e das telecomunicações.
 
-###### Art. 2.º O prémio será atribuído, de 2 em 2 anos, a uma obra de investigação original num dos domínios referidos no artigo 1.º, publicada no ano da abertura do concurso ou no ano anterior.
+Art. 2.º O prémio será atribuído, de 2 em 2 anos, a uma obra de investigação original num dos domínios referidos no artigo 1.º, publicada no ano da abertura do concurso ou no ano anterior.
 
-###### Art. 3.º A atribuição do prémio far-se-á mediante concurso realizado nos termos deste Regulamento e da parte aplicável do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, aprovado pela [Portaria n.º 20925](https://diariodarepublica.pt/dr/detalhe/portaria/20925-1964-535588), de 23 de Novembro de 1964, com as alterações introduzidas pela [Portaria n.º 23151](https://diariodarepublica.pt/dr/detalhe/portaria/23151-1968-233277), de 15 de Janeiro de 1968.
+Art. 3.º A atribuição do prémio far-se-á mediante concurso realizado nos termos deste Regulamento e da parte aplicável do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, aprovado pela [Portaria n.º 20925](https://diariodarepublica.pt/dr/detalhe/portaria/20925-1964-535588), de 23 de Novembro de 1964, com as alterações introduzidas pela [Portaria n.º 23151](https://diariodarepublica.pt/dr/detalhe/portaria/23151-1968-233277), de 15 de Janeiro de 1968.
 
-###### Art. 4.º O júri do concurso poderá convidar a tomar parte nas suas reuniões, sem direito a voto, personalidades estranhas à Academia, de reconhecida competência pela sua obra científica nos domínios da electrónica e das telecomunicações.
+Art. 4.º O júri do concurso poderá convidar a tomar parte nas suas reuniões, sem direito a voto, personalidades estranhas à Academia, de reconhecida competência pela sua obra científica nos domínios da electrónica e das telecomunicações.
 
-###### Art. 5.º No caso de candidatura mediante obra impressa, o concorrente deverá apresentar prova de que a mesma foi publicada no período indicado no edital do concurso.
+Art. 5.º No caso de candidatura mediante obra impressa, o concorrente deverá apresentar prova de que a mesma foi publicada no período indicado no edital do concurso.
 
-###### Art. 6.º O prémio não poderá ser atribuído a obras já anteriormente submetidas a concursos similares.
+Art. 6.º O prémio não poderá ser atribuído a obras já anteriormente submetidas a concursos similares.

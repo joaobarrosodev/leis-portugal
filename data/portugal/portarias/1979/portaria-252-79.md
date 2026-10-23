@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/252-1979-383854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4705fbe497291478f2e2431671701cc77fa11f9e0fcbc2180892d71b31a821d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b888a719bff6755c4236f784d7ff4afe8c3a1a5b0d3e7f520aec86c807dfc3a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Função Pública
+- Magistrado do Ministério Público
+- Magistrado Judicial
+relationships:
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:07Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +96,6 @@ Considerando o disposto nas Leis n.º 85/77, de 13 de Dezembro, e n.º 39/78, de
 
 Manda o Governo da República Portuguesa, pelo Primeiro-Ministro e pelos Ministros das Finanças e do Plano e da Justiça e pelo Secretário de Estado da Administração Pública, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, que a tabela de ajudas de custo aplicável aos magistrados judiciais e do Ministério Público seja a que seguidamente se publica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/12500/11851185.pdf))](https://files.diariodarepublica.pt/1s/1979/05/12500/11851185.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/12500/11851185.pdf)
 
 Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Justiça, 6 de Abril de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Justiça, Eduardo Henriques da Silva Correia. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

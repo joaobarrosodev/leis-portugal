@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/159b00/37083709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/16/1994/07/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1994-294702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54e4ac25d18b857abe70dbca27f8a19270ff06c08dd72a79be19257330417ac2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 121f999028aa3030aa25ae2752dc1c1d22de1ed20ed870d81f6a4c321220da6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,19 @@ subjects:
 - Amortização
 - Avião
 - Código do IRC
-- Veículo
 - IRC
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:489774:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Altera o art. 10º do DR 2/90 de 12-Jan, com a redacção que foi conferida pelo presente diploma, pelo DEC LEI.211/2005.07.12.2005.MFAP,\
+    \ DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/420/1993/12/28/p/dre
   label: null
@@ -85,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1993/11/26/p/dre
+- type: cites
+  target: pt:dre:168776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado, a partir de 01.01.2010, o DR 2/90, de 12-Jan, na redacção do presente diploma, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:30Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +139,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 29.º do Código do IRC, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003), de 30 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 10.º, 12.º, 14.º e 22.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 10.º, 12.º, 14.º e 22.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Condições gerais de aceitação das reintegrações e amortizações
 
@@ -153,7 +181,7 @@ Ao abrigo do disposto no n.º 1 do artigo 29.º do Código do IRC, aprovado pelo
 
 4 - ...
 
-###### Art. 2.º É aditado ao [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, o artigo 21.º-A com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, o artigo 21.º-A com a seguinte redacção:
 
 ###### Artigo 21.º-A — Bens em que se tenha concretizado o reinvestimento de valores de realização
 
@@ -165,7 +193,7 @@ b) No caso de viaturas ligeiras de passageiros ou mistas, a parte da dedução q
 
 c) No caso de activos revertíveis, a parte da dedução que lhes for imputada é abatida ao valor a dividir nos termos do n.º 2 do artigo 13.º
 
-###### Art. 3.º Nas tabelas anexas ao [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, são efectuadas as seguintes alterações:
+Art. 3.º Nas tabelas anexas ao [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, são efectuadas as seguintes alterações:
 
 a) Na tabela I, divisão I, grupo 1, em substituição do anterior código 0160 é incluído o seguinte:
 
@@ -191,18 +219,18 @@ e) Na tabela II, divisão I, grupo 3, a seguir ao código 2250 é incluído o se
 
 2251 Aparelhos telemóveis ... 20
 
-###### Art. 4.º Relativamente aos bens objecto de contrato de locação financeira celebrado até 31 de Dezembro de 1993 e que tenham sido recebidos até esta data, continua a aplicar-se o regime fiscal estabelecido no artigo 14.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, na sua primitiva redacção.
+Art. 4.º Relativamente aos bens objecto de contrato de locação financeira celebrado até 31 de Dezembro de 1993 e que tenham sido recebidos até esta data, continua a aplicar-se o regime fiscal estabelecido no artigo 14.º do [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro, na sua primitiva redacção.
 
 Presidência do Conselho de Ministros, 9 de Maio de 1994.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 1 de Junho de 1994.**
+Promulgado em 1 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Junho de 1994.**
+Referendado em 3 de Junho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

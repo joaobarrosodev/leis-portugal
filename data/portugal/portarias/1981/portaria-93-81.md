@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/93-1981-390186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:58:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cfe93aff2f9dce21a8231a3480df5bbd62603cf834b5b3032321aadddee3931
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b8eb981b45c93ea511ce1d03c673dafe155e7986aa4b9be7e44d4e46698d8c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:58:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Coordenação Regional
+- Concurso de Ingresso
+- Direcção Geral da Acção Regional e Local
+- GAT
+- Ministério da Administração Interna
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:58:11Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +119,21 @@ Presidência do Conselho de Ministros e Ministério da Administração Interna, 
 
 Regulamento dos Concursos de Ingresso de Pessoal Técnico Superior, Técnico e Técnico-Profissional nos Quadros da Direcção-Geral da Acção Regional e Local, do Gabinete de Apoio às Autarquias Locais e das Comissões de Coordenação Regional.
 
-###### Artigo 1.º - 1 - O presente Regulamento aplica-se aos concursos de recrutamento de pessoal técnico superior, técnico e técnico-profissional dos quadros de pessoal da Direcção-Geral da Acção Regional e Local, do Gabinete de Apoio às Autarquias Locais e das comissões de coordenação regional, de acordo com o artigo 73.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769).
+Artigo 1.º - 1 - O presente Regulamento aplica-se aos concursos de recrutamento de pessoal técnico superior, técnico e técnico-profissional dos quadros de pessoal da Direcção-Geral da Acção Regional e Local, do Gabinete de Apoio às Autarquias Locais e das comissões de coordenação regional, de acordo com o artigo 73.º do [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769).
 
 2 - Para efeitos de aplicação deste Regulamento, entende-se por concurso o processo de recrutamento de pessoal pelo qual os indivíduos que se possam integrar nas áreas de recrutamento definidas no [Decreto Regulamentar n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1979-365769), de 29 de Dezembro, ou na lei geral, são colocados perante idênticas oportunidades e condições de candidatura e de avaliação com vista ao preenchimento de determinado lugar.
 
-###### Art. 2.º - 1 - Os concursos a que se refere o artigo anterior visam a apreciação das qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos lugares a preencher, mediante avaliação curricular e entrevista.
+Art. 2.º - 1 - Os concursos a que se refere o artigo anterior visam a apreciação das qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos lugares a preencher, mediante avaliação curricular e entrevista.
 
 2 - A realização dos concursos compete aos serviços.
 
 3 - Os programas das provas serão objecto de perecer da Direcção-Geral de Recrutamento e Formação.
 
-###### Art. 3.º Os concursos têm a validade de dois anos e destinam-se ao preenchimento das vagas existentes à data de abertura do concurso e das que vierem a verificar-se durante o período de validade, constituindo-se para o efeito reservas de recrutamento.
+Art. 3.º Os concursos têm a validade de dois anos e destinam-se ao preenchimento das vagas existentes à data de abertura do concurso e das que vierem a verificar-se durante o período de validade, constituindo-se para o efeito reservas de recrutamento.
 
-###### Art. 4.º A abertura dos concursos é autorizada por despacho do Ministro da Administração Interna, sob proposta do responsável pelo serviço a que o concurso se refere.
+Art. 4.º A abertura dos concursos é autorizada por despacho do Ministro da Administração Interna, sob proposta do responsável pelo serviço a que o concurso se refere.
 
-###### Art. 5.º - 1 - Todas as operações dos concursos são realizadas sob a responsabilidade de um júri, constituído pelo responsável pelos serviços onde exista o lugar a prover ou pelo dirigente de categoria não inferior a chefe de divisão ou equiparado em quem nele delegue, que presidirá, e por quatro vogais, a nomear por despacho ministerial, sob proposta daquele, sendo um da Direcção-Geral de Recrutamento e Formação.
+Art. 5.º - 1 - Todas as operações dos concursos são realizadas sob a responsabilidade de um júri, constituído pelo responsável pelos serviços onde exista o lugar a prover ou pelo dirigente de categoria não inferior a chefe de divisão ou equiparado em quem nele delegue, que presidirá, e por quatro vogais, a nomear por despacho ministerial, sob proposta daquele, sendo um da Direcção-Geral de Recrutamento e Formação.
 
 2 - Um dos membros do júri será um representante do pessoal, eleito para o efeito por escrutínio secreto.
 
@@ -122,17 +141,17 @@ Regulamento dos Concursos de Ingresso de Pessoal Técnico Superior, Técnico e T
 
 4 - O júri será secretariado por um funcionário designado pelo responsável dos serviços onde exista o lugar a prover.
 
-###### Art. 6.º - 1 - O júri poderá deliberar quando estiverem presentes todos os seus membros.
+Art. 6.º - 1 - O júri poderá deliberar quando estiverem presentes todos os seus membros.
 
 2 - Das reuniões do júri serão lavradas actas, das quais constarão todas as deliberações tomadas.
 
-###### Art. 7.º - 1- Compete ao júri apreciar as qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos cargos a prover.
+Art. 7.º - 1- Compete ao júri apreciar as qualificações técnicas e profissionais dos candidatos relacionadas com a natureza e exigências dos cargos a prover.
 
 2 - Para efeito da apreciação referida no número anterior, o júri estabelecerá previamente uma descrição das funções correspondentes a cada cargo, bem como, dentro dos respectivos requisitos legais, das suas exigências principais quanto a formação, conhecimentos e experiência profissionais.
 
-###### Art. 8.º Os concursos são anunciados no Diário da República e nos meios de comunicação social que garantam a maior divulgação, sendo sempre obrigatória a utilização de, pelo menos, um jornal de grande expansão nacional ou na área da CCR.
+Art. 8.º Os concursos são anunciados no Diário da República e nos meios de comunicação social que garantam a maior divulgação, sendo sempre obrigatória a utilização de, pelo menos, um jornal de grande expansão nacional ou na área da CCR.
 
-###### Art. 9.º Do aviso dos concursos constarão os seguintes elementos:
+Art. 9.º Do aviso dos concursos constarão os seguintes elementos:
 
 a) Indicação do número, categoria e localização dos lugares vagos a preencher e de que se trata de constituição de reservas de recrutamento;
 
@@ -150,13 +169,13 @@ g) Indicação do Diário da República onde foi publicado o presente Regulament
 
 h) A forma pela qual serão designados os membros do júri e de entre quem serão escolhidos.
 
-###### Art. 10.º - 1 - As candidaturas são formalizadas mediante requerimento dirigido ao Ministro da Administração Interna e entregue ou enviado à DGARL, GAAL ou CCR respectiva.
+Art. 10.º - 1 - As candidaturas são formalizadas mediante requerimento dirigido ao Ministro da Administração Interna e entregue ou enviado à DGARL, GAAL ou CCR respectiva.
 
 2 - O prazo para requerer a admissão ao concurso é de trinta dias a contar da data de publicação do aviso no Diário da República.
 
 3 - No requerimento de admissão deve o candidato indicar a morada para onde lhe deverá ser remetido qualquer expediente relativo ao concurso.
 
-###### Art. 11.º Juntamente com o requerimento, do qual devem constar os dados de identificação, os candidatos deverão apresentar os respectivos curricula devidamente comprovados, englobando os seguintes elementos:
+Art. 11.º Juntamente com o requerimento, do qual devem constar os dados de identificação, os candidatos deverão apresentar os respectivos curricula devidamente comprovados, englobando os seguintes elementos:
 
 a) Formação académica de base, com a indicação da instituição ou instituições de formação frequentadas, anos e classificação dos cursos e respectiva concessão de equivalência, quando for o caso;
 
@@ -166,35 +185,35 @@ c) Descrição da actividade profissional anterior, com a indicação da sua nat
 
 d) Quaisquer outros elementos comprovativos da qualificação e experiência profissional do candidato que este entenda deverem ser apreciados pelo júri.
 
-###### Art. 12.º - 1 - Findo o prazo de apresentação das candidaturas, o júri reunirá para verificação das condições de admissibilidade dos candidatos.
+Art. 12.º - 1 - Findo o prazo de apresentação das candidaturas, o júri reunirá para verificação das condições de admissibilidade dos candidatos.
 
 2 - Nos casos em que se verifiquem insuficiências de instrução, deficiências ou irregularidades nos processos de candidatura é fixado em quinze dias o prazo para que as mesmas possam ser suprimidas ou sanadas pelos interessados, informando-os disso individualmente, por processo que garanta que tomaram conhecimento.
 
-###### Art. 13.º Serão excluídos os candidatos que não possuam os requisitos legais de admissão.
+Art. 13.º Serão excluídos os candidatos que não possuam os requisitos legais de admissão.
 
-###### Art. 14.º - 1 - Concluídas as deliberações, o júri elaborará a lista provisória dos candidatos admissíveis e dos excluídos, a qual deverá ser publicada no Diário da República.
+Art. 14.º - 1 - Concluídas as deliberações, o júri elaborará a lista provisória dos candidatos admissíveis e dos excluídos, a qual deverá ser publicada no Diário da República.
 
 2 - No caso dos candidatos excluídos, serão sempre indicados na lista provisória os motivos da exclusão.
 
-###### Art. 15.º - 1 - Das deliberações do júri os candidatos poderão interpor recurso para o Ministro da Administração Interna, no prazo de dez dias a contar da data da publicação e mediante requerimento entregue ou enviado à DGARL ou CCR em que exponham os fundamentos do mesmo, sendo igualmente de dez dias o prazo para ser proferida decisão sobre o mesmo.
+Art. 15.º - 1 - Das deliberações do júri os candidatos poderão interpor recurso para o Ministro da Administração Interna, no prazo de dez dias a contar da data da publicação e mediante requerimento entregue ou enviado à DGARL ou CCR em que exponham os fundamentos do mesmo, sendo igualmente de dez dias o prazo para ser proferida decisão sobre o mesmo.
 
 2 - O recurso a que se refere o número anterior tem efeito suspensivo.
 
 3 - A informação da possibilidade de recurso, bem como o processo e o prazo para a apresentar, constará sempre de publicação da lista provisória.
 
-###### Art. 16.º As decisões sobre as reclamações serão notificadas aos interessados, individualmente, por processo que garanta que tomaram conhecimento.
+Art. 16.º As decisões sobre as reclamações serão notificadas aos interessados, individualmente, por processo que garanta que tomaram conhecimento.
 
-###### Art. 17.º - 1 - Quando atendidas as reclamações das deliberações do júri, serão enviadas para publicação no Diário da República, nos cinco dias seguintes à última decisão, as alterações à lista provisória declarando-a definitiva.
+Art. 17.º - 1 - Quando atendidas as reclamações das deliberações do júri, serão enviadas para publicação no Diário da República, nos cinco dias seguintes à última decisão, as alterações à lista provisória declarando-a definitiva.
 
 2 - Quando as deliberações do júri não tenham sido objecto de reclamações ou estas não tenham obtido provimento, será enviada para publicação no Diário da República apenas a declaração de conversão da lista provisória em definitiva, nos cinco dias após o termo do prazo da reclamação ou da última decisão proferida.
 
-###### Art. 18.º - 1 - O júri, na apreciação das qualificações dos candidatos, considerará, predominantemente, a respectiva formação profissional complementar e experiência profissional, avaliando a sua natureza e duração, face às características e exigências do cargo a prover.
+Art. 18.º - 1 - O júri, na apreciação das qualificações dos candidatos, considerará, predominantemente, a respectiva formação profissional complementar e experiência profissional, avaliando a sua natureza e duração, face às características e exigências do cargo a prover.
 
 2 - A fim de aprofundar ou complementar a apreciação referida no número anterior, o júri pode convocar os candidatos para a realização de entrevistas ou solicitar-lhes elementos complementares esclarecedores das respectivas qualificações.
 
-###### Art. 19.º Realizada a avaliação curricular dos candidatos, o júri elaborará uma lista, ordenando-os de acordo com o mérito das respectivas qualificações em face dos cargos a prover.
+Art. 19.º Realizada a avaliação curricular dos candidatos, o júri elaborará uma lista, ordenando-os de acordo com o mérito das respectivas qualificações em face dos cargos a prover.
 
-###### Art. 20.º Em igualdade de apreciação, constituem factores de preferência, a observar pela ordem indicada, para efeito de ordenamento dos candidatos:
+Art. 20.º Em igualdade de apreciação, constituem factores de preferência, a observar pela ordem indicada, para efeito de ordenamento dos candidatos:
 
 a) Ser funcionário de categoria idêntica à do cargo a prover pertencente ao quadro de qualquer serviço do MAI ou dele dependente;
 
@@ -202,34 +221,34 @@ b) Ser funcionário ou agente de qualquer categoria vinculado, a qualquer títul
 
 c) Ser funcionário ou agente de qualquer serviço ou organismo da Administração Pública, por ordem de tempo de serviço.
 
-###### Art. 21.º - 1 - A lista ordenada dos candidatos aprovados e dos excluídos deverá ser submetida à homologação do Ministro da Administração Interna e enviada para publicação no Diário da República, no prazo de cinco dias após homologação.
+Art. 21.º - 1 - A lista ordenada dos candidatos aprovados e dos excluídos deverá ser submetida à homologação do Ministro da Administração Interna e enviada para publicação no Diário da República, no prazo de cinco dias após homologação.
 
 2 - Os interessados poderão interpor recurso para o Ministro da Administração Interna no prazo de dez dias, sendo igualmente de dez dias o prazo para ser proferida decisão sobre o mesmo.
 
 3 - O recurso a que se refere o número anterior tem efeito suspensivo.
 
-###### Art. 22.º O provimento dos lugares dos quadros far-se-á de entre os candidatos aprovados, com respeito absoluto pela sua ordenação na lista.
+Art. 22.º O provimento dos lugares dos quadros far-se-á de entre os candidatos aprovados, com respeito absoluto pela sua ordenação na lista.
 
-###### Art. 23.º Os candidatos aprovados não admitidos constituem-se em reserva de recrutamento válidas por um ano e organizadas segundo as respectivas posições relativas obtidas no concurso.
+Art. 23.º Os candidatos aprovados não admitidos constituem-se em reserva de recrutamento válidas por um ano e organizadas segundo as respectivas posições relativas obtidas no concurso.
 
-###### Art. 24.º - 1 - Quando uma vaga dos quadros da DGARL, GAAL ou CCR não puder ser provida por candidatos aprovados e existentes na respectiva reserva de recrutamento, poderá ser iniciado, antes do termo do prazo da sua validade, o processo do novo concurso.
+Art. 24.º - 1 - Quando uma vaga dos quadros da DGARL, GAAL ou CCR não puder ser provida por candidatos aprovados e existentes na respectiva reserva de recrutamento, poderá ser iniciado, antes do termo do prazo da sua validade, o processo do novo concurso.
 
 2 - No caso previsto no número anterior, a referida reserva de recrutamento é anulada a partir da data da publicação da abertura do novo concurso, sendo do facto avisados os respectivos elementos.
 
-###### Art. 25.º - 1 - O Ministro da Administração Interna poderá autorizar, por despacho, a realização de concurso comum a todos ou alguns dos serviços centrais e dos serviços externos a que se aplica o presente Regulamento, sob proposta dos serviços interessados na sua realização.
+Art. 25.º - 1 - O Ministro da Administração Interna poderá autorizar, por despacho, a realização de concurso comum a todos ou alguns dos serviços centrais e dos serviços externos a que se aplica o presente Regulamento, sob proposta dos serviços interessados na sua realização.
 
 2 - Ao concurso a que se refere o número anterior aplicam-se as disposições do presente Regulamento, com as necessárias adaptações e com as alterações constantes dos artigos seguintes.
 
-###### Art. 26.º - 1 - O júri é constituído por um presidente designado pelo Ministro da Administração Interna e por vogais representantes dos serviços a que se refere o concurso comum, dos quais um deverá ser representante do pessoal, eleito por escrutínio secreto, e da Direcção-Geral de Recrutamento e Formação.
+Art. 26.º - 1 - O júri é constituído por um presidente designado pelo Ministro da Administração Interna e por vogais representantes dos serviços a que se refere o concurso comum, dos quais um deverá ser representante do pessoal, eleito por escrutínio secreto, e da Direcção-Geral de Recrutamento e Formação.
 
 2 - O número de vogais será fixado pelo Ministro da Administração Interna.
 
 3 - O presidente do júri tem voto de qualidade.
 
-###### Art. 27.º - 1 - O provimento dos lugares dos quadros far-se-á de entre os candidatos aprovados, com respeito absoluto pela sua ordenação na lista.
+Art. 27.º - 1 - O provimento dos lugares dos quadros far-se-á de entre os candidatos aprovados, com respeito absoluto pela sua ordenação na lista.
 
 2 - Os candidatos aprovados poderão escolher as vagas da sua preferência de acordo com a respectiva ordenação na lista.
 
-###### Art. 28.º Sempre que se verificar uma vaga no quadro dos serviços a que se aplica o concurso comum durante o período de validade das reservas de recrutamento, o seu preenchimento far-se-á segundo os critérios fixados no artigo anterior.
+Art. 28.º Sempre que se verificar uma vaga no quadro dos serviços a que se aplica o concurso comum durante o período de validade das reservas de recrutamento, o seu preenchimento far-se-á segundo os critérios fixados no artigo anterior.
 
-###### Art. 29.º O presente Regulamento será alterado de acordo com o que vier a ser estabelecido no diploma a que se refere o artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).
+Art. 29.º O presente Regulamento será alterado de acordo com o que vier a ser estabelecido no diploma a que se refere o artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673).

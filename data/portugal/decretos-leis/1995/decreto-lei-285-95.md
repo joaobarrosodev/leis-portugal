@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/285/1995/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1995-678448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80e4cc5b58ad5f0f9079c5324afe22a6d329648d0881a3078314ff271a555ad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aed39eacf189b5625e5527d70e9486b12a0897bb71713db717c7b660ad288d17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
 subjects:
 - Descobrimentos Portugueses
 - Moeda
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:565864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:26Z'
   warnings: []
   errors: []
 ---
@@ -99,27 +103,27 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º De acordo com o disposto no n.º 1 do artigo 8.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro, e sob proposta do Banco de Portugal, é aprovada a emissão de duas notas, que integrarão uma série de cinco, com as denominações, chapas e efígies seguintes:
+Artigo 1.º De acordo com o disposto no n.º 1 do artigo 8.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 337/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1990-565864), de 30 de Outubro, e sob proposta do Banco de Portugal, é aprovada a emissão de duas notas, que integrarão uma série de cinco, com as denominações, chapas e efígies seguintes:
 
 a) 5000$00, chapa 3, com a efígie de Vasco da Gama;
 
 b) 2000$00, chapa 2, com a efígie de Bartolomeu Dias.
 
-###### Art. 2.º As notas referidas no artigo anterior, que serão lançadas em circulação em 1996, têm as características constantes dos correspondentes anexos n.os 1 e 2 ao presente diploma, que dele fazem parte integrante.
+Art. 2.º As notas referidas no artigo anterior, que serão lançadas em circulação em 1996, têm as características constantes dos correspondentes anexos n.os 1 e 2 ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO N.º 1 — Descrição das características da nota de 5000$00 chapa 3, efígie de Vasco da Gama
 

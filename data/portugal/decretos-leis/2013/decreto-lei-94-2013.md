@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2013/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2013-497823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b79222f9b3d540549c5efc1d6b164e2396b332d43571e167626e9d8f2ac2820b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4442796074f77390a348abaddc6c8f9b6c22c2210f5a7c27759287d515d8a58f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
 - Aposentado
-- Médico
-- Serviço Nacional de Saúde
-- Cuidados Médicos
 - Contrato de Trabalho
+- Cuidados Médicos
+- Médico
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
+- Serviço Nacional de Saúde
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:187413389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Prorrogado por mais um ano o período de vigência do Dec Lei 89/2010 de 21-jul, prorrogado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Prorrogado por mais um ano o período de vigência do Dec Lei 89/2010, de 21-jul, sucessivamente prorrogado pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:187413389:por
+  label: Prorrogado por mais um ano o período de vigência do Dec Lei 89/2010, sucessivamente prorrogado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2022-187413389
+  date: '2022-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/89/2010/07/21/p/dre
   label: null
@@ -87,16 +105,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:334154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:12Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +161,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 15 de julho de 2013.**
+Promulgado em 15 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de julho de 2013.**
+Referendado em 16 de julho de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1977-250437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:21:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0263b6ea916c445516ad48908454aa82fdf10befca0f695cc8c3bfae96f1e2cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36fd67f4edbfc9940759bbff876c8b1d1f6bbb6c9b77b7e1c1dafb1ea56b24b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:21:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almada
+- Autarquia Local
+- Aveiro
+- Bairro Fiscal
+- Braga
+- Cascais
+- Coimbra
+- Direcção Geral das Contribuições e Impostos
+- Feira.povoação
+- Funchal
+- Gondomar
+- Guimarães
+- Lisboa
+- Loures
+- MAIA
+- Matosinhos
+- Oeiras
+- Porto
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Repartição de Finanças
+- Setúbal
+- Sintra
+- Valongo
+- Vila Franca de Xira
+- VILA NOVA de GAIA
 relationships:
 - type: amended_by
   target: pt:dre:629403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389403:por
+  label: "Alterado o nº7 pela PORT.303/81.30.03.1981.MFP, DR.IS [74] de 30.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/303-1981-389403
+  date: '1981-03-30'
+- type: amended_by
+  target: pt:dre:609281:por
+  label: "Extintos os bairros fiscais criados no n.º 1.º do presente diploma, pela PORT.871/94.29.09.1994.MF, DR.IS-B [226]\
+    \ de 29.09.1994, a partir do dia imediato ao da publicação do despacho a que se refere o seu n.º 6.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/871-1994-609281
+  date: '1994-09-29'
+- type: amended_by
+  target: pt:dre:629403:por
+  label: "Extintos, nos termos do nº 2º, os Serviços de Finanças da Maia 1 e 2 e revogado o nº 13 pela PORT.1420/2007.31.10.2007.MFAP,\
+    \ DR.IS [210] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1420-2007-629403
+  date: '2007-10-31'
+- type: cites
+  target: pt:dre:138496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139911:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:21:56Z'
   warnings: []
   errors: []
 ---
@@ -342,18 +393,18 @@ MAPA I
 
 Quadros do pessoal dos bairros fiscais de Lisboa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf))](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
 
 MAPA II
 
 Quadros do pessoal dos bairros fiscais do Porto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf))](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
 
 MAPA III
 
 Quadros do pessoal das repartições de finanças dos concelhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf))](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/15900/17241729.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira.**
+O Ministro das Finanças, Henrique Medina Carreira.

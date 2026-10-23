@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274/1995/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1995-668485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad70723f9c6bb30fa55cc5da74d02201e749784f9e7c26298486194d1af6a94e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84ab9726fb9d07ab6d7ae0f7ef1fa567cf4256e4b9279c8522bd4b1e7d59689c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Embarcação
+- Armador
 - Assistência Médica
 - Assistência Medicamentosa
+- Contra-ordenação
+- Embarcação
 - Farmácia
 - Formação Profissional
-- Pessoal do MAR
-- Multa
-- Contra-ordenação
-- Armador
 - Material Médico-Cirúrgico
+- Multa
+- Pessoal do MAR
 - Segurança Marítima
 relationships:
 - type: amended_by
   target: pt:dre:70236274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345124:por
+  label: "Alterado o art. 15.º pela LEI.113/99.1999.08.03.AR DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/113-1999-345124
+  date: '1999-08-03'
+- type: amended_by
+  target: pt:dre:70236274:por
+  label: Alterado o art 7.º pelo(a) Lei n.º 146/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/146-2015-70236274
+  date: '2015-09-09'
 - type: cites
   target: celex:31992L0029
   label: null
@@ -90,13 +100,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:15Z'
   warnings: []
   errors: []
 ---
@@ -265,15 +275,15 @@ c) Em 20% para a entidade que aplica a coima, nos termos do artigo 4.º do Decre
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Carlos Lopes Martins - José Bernardo Veloso Falcão e Cunha - António Baptista Duarte Silva.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Matérias perigosas
 

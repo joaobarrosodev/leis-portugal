@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1975-160304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c66f19bdcf4e907aad3b356ccf9f067bfb7ae5de3ed5787ca593b3d0ebe347
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d846c68f85b2035ae358aaaff90be7432f200b393dae3f510f14ba61aa8aca53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:36Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +96,6 @@ Conselho dos Chefes dos Estados-Maiores das Forças Armadas, 16 de Janeiro de 19
 
 Lotações completa e normal das fragatas da classe «Comandante João Belo»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/02/04300/02680270.pdf))](https://files.diariodarepublica.pt/1s/1975/02/04300/02680270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/02/04300/02680270.pdf)
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/58/1994/09/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1994-604446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dc57e7d0dffa961b6ccc63a405576e0d86173b3f948316c38853a19bbb870ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a38b2c2cbeae954d3408f3073d69a4c3f162f163601b72dbd63f28cb8dfd759
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração do Ensino
-- Pessoal Dirigente
-- Educador de Infância
-- Estatuto da Carreira Docente
-- Carreira Profissional
-- Gestão Escolar
-- Conselho Diretivo
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
 - Avaliação do Pessoal
+- Carreira Profissional
+- Conselho Diretivo
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Estabelecimento de Ensino
+- Estatuto da Carreira Docente
+- Gestão Escolar
+- Pessoal Dirigente
+- Pessoal Docente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/14/1992/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/14/1992/07/04/p/dre
+- type: cites
+  target: pt:dre:363960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:27Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +131,7 @@ Assim:
 
 Ao abrigo do disposto nos n.os 4 e 6 do artigo 39.º do Estatuto dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Julho, o artigo 10.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Julho, o artigo 10.º-A, com a seguinte redacção:
 
 ###### Artigo 10.º-A — Docentes no exercício de funções de administração e gestão
 
@@ -125,7 +141,7 @@ a) As competências previstas nos artigos 5.º, 7.º e 8.º, n.º 2, relativamen
 
 b) Os docentes, quando membros do órgão colegial a quem compete proceder à avaliação, não podem participar na deliberação que lhes diga directamente respeito.
 
-###### Art. 2.º A epígrafe do capítulo IV e o artigo 12.º do [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Julho, passam a ter a seguinte redacção:
+Art. 2.º A epígrafe do capítulo IV e o artigo 12.º do [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Julho, passam a ter a seguinte redacção:
 
 ### CAPÍTULO IV
 
@@ -141,7 +157,7 @@ Docentes requisitados, destacados, em comissão de serviço ou no exercício exc
 
 4 - Os docentes que ocupem cargos de direcção, gestão e administração nos estabelecimentos de educação ou de ensino, desde que não vinculados à prestação efectiva de funções lectivas, consideram-se avaliados, para os efeitos estabelecidos no presente diploma, com Satisfaz.
 
-###### Art. 3.º - 1 - O presente diploma reporta os seus efeitos a 1 de Janeiro de 1994.
+Art. 3.º - 1 - O presente diploma reporta os seus efeitos a 1 de Janeiro de 1994.
 
 2 - Os docentes que tenham completado os módulos de tempo necessários à progressão na carreira em data posterior à referida no número anterior devem apresentar o respectivo relatório crítico no prazo de 60 dias.
 
@@ -149,12 +165,12 @@ Presidência do Conselho de Ministros, 1 de Agosto de 1994.
 
 Aníbal António Cavaco Silva - Norberto Emílio Sequeira da Rosa - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 5 de Setembro de 1994.**
+Promulgado em 5 de Setembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Setembro de 1994.**
+Referendado em 8 de Setembro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

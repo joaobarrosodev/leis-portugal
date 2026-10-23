@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/1996/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-1996-595337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef2f194af5599580822e49e3b561fe3b99cd55f6ef87e870996ad0ccfd1a8cd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55bf468ba29d17995f45aa72350ce7b43aede012203157e73a7ea4bedad8ea62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,22 +71,341 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Política Fiscal
 - Contribuinte
 - Direito Fiscal
 - Imposto do SELO
-- Sisa
-- IRS
-- IVA
 - Imposto sobre Sucessões e Doações
 - IRC
+- IRS
+- IVA
+- Política Fiscal
 - Regime Fiscal
 - Regulamento do Imposto do SELO
+- Sisa
 relationships:
 - type: amended_by
   target: pt:dre:66016527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterados os art.s 94º e 97º do Código do IRC, aprovado pelo Dec-Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.52-C/96.27.12.1996.AR, DR.IS-A [299-3ºSupl] de 27.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:581222:por
+  label: "Alterada a redacção dos arts. 68.º e 70.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção\
+    \ do presente diploma, pelo DEC LEI.23/97.23.01.1997.MF, DR.IS-A [19] de 23.01.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1997-581222
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:218483:por
+  label: "Alterados os art.s 71º, 80º e 111º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.44/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1998-218483
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:218484:por
+  label: "Alterado o art. 66.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.45/98.03.03.1998.MF, DR.IS-A [52] de 03.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1998-218484
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os art.s 80º e 94º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: Alterada a redacção dos arts. 68.º, 83.º, 95.º, 96.º e 103.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de
+    30-Nov, na redacção do presente diploma, pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os arts. 95.º e 131.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 94º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 71º, 80º, 82º, 85º, 86º e 94º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na\
+    \ redacção do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: "Alterado o art. 97º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.15/2001.05.06.2001.AR, DR.IS-A [130] de 05.06.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterados os art.s 70º e 71º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.221/2001.07.08.2001.MF, DR.IS-A [182] de 07.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 80º, 81º, 97º e 112º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: "Alterado o art. 101.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.16-A/2002.31.05.2002.AR, DR.IS-A [125-Supl] de 31.05.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-a-2002-533809
+  date: '2002-05-31'
+- type: amended_by
+  target: pt:dre:425933:por
+  label: "Alterado o art. 101.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.228/2002.31.10.2002.MF, DR.IS-A [252] de 31.10.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2002-425933
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 81º e 87º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterado o art. 101.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.80/2003.23.04.2003.MF, DR.IS-A [95] de 23.04.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 112º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo EC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterados os arts. 68.º, 70.º e 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A\
+    \ [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterados os art.s 80º, 81º e 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:605329:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.34/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2005-605329
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:575550:por
+  label: "Alterado o art. 78º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.62/2005.11.03.2005.MFAP, DR.IS-A [50] de 11.03.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2005-575550
+  date: '2005-03-11'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o nº 1 do art. 111º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o art. 85 do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterados os arts. 80º, 81º e 112º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.192/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 68º, 70º, e 83º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção dada\
+    \ pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A\
+    \ [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterado o art. 112º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 68º, 70º, 78º, 96º e 103º, todos do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR,\
+    \ DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 22.º, 74.º e 83.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do\
+    \ presente diploma, republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR,\
+    \ DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 22º, 74º, 83º, 84º, 85º, 89º, 90º, 91º e 92º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente\
+    \ diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 78º do Código IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, - revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 78º do Código IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, - revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 68.º, 70.º e 78.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl]\
+    \ de 31.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.10/2009.10.03.2009.AR, DR.IS [48] de 10.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:592169:por
+  label: "Alterado o art. 22º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.136-A/2009.05.06.2009.MFAP, DR.IS [109-Supl] de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-a-2009-592169
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 70.º e 71.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov,\
+    \ na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:489219:por
+  label: "Alterado o art. 81º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, com a redacção constante do presente\
+    \ diploma, pela LEI.100/2009.07.09.2009.AR, DR.IS [173] de 07.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2009-489219
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterado, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, o art. 83.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.103/2009.11.09.2009.AR, DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:611945:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.2/2010.15.03.2010.AR, DR.IS [51] de 15.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2010-611945
+  date: '2010-03-15'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 68.º, 70.º e 101º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl]\
+    \ de 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:335437:por
+  label: "Alterado o art. 68º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.11/2010.15.06.2010.AR, DR.IS [114] de 15.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2010-335437
+  date: '2010-06-15'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterados os arts. 68º e 101.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl] de\
+    \ 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 68º, 78º e 83º do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul,\
+    \ pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 70º, 78º e 101º do Código do IRS, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterado, a partir de 01.01.2013, o art 22.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec\
+    \ Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de 24.08.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterados, a partir de 30.10.2012, os art. 87º e 94º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov,\
+    \ na redação do presente diploma, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 68º, 78º, 83º e 101º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-nov, alterado\
+    \ pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 78º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 54.º, 70.º, 71.º, 81.º, 84.º, 87.º, 91.º, 94.º, 97.º e 111.º do Código do IRC, aprovado
+    pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 87.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC) aprovado pelo Dec Lei 442-B/88
+    de 30-nov, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação ao art. 88.º - anterior art. 81.º - renumerado de acordo à tabela de correspondência anexa ao Dec
+    Lei 159/2009 de 13-jul, do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), aprovado pelo Dec Lei 442-B/88
+    de 30-nov, alterado pelo presente diploma, pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1991/04/23/p/dre
   label: null
@@ -95,16 +414,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:161312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389020:por
+  label: "Rectificado o art. 2.º [na parte em que altera o n.º 5 do art. 83.º do Código do IRS, aprovado pelo Dec Lei 442-A/88,\
+    \ de 30-Nov], o art. 3.º [na parte em que altera o n.º 1 do art. 85.º do Código do IRC, aprovado pelo Dec Lei 442-B/88,\
+    \ de 30-Nov], o art. 4.º [na parte em que altera o n.º 3 do art. 89.º do Código do IVA, aprovado pelo Dec Lei 394-B/84,\
+    \ de 26-Dez], o art. 5.º [na parte em que altera o n.º 1 do art. 23.º do Regulamento do Imposto de Selo, aprovado pelo\
+    \ Dec Lei 12700, de 20-Nov 1926] e o art. 8.º [na parte em que altera os arts. 113.º e 116.º do Código do Imposto Municipal\
+    \ de Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo Dec Lei 41969, de 24-Nov 1958], todos do presente diploma,\
+    \ pela DECL-RECT.7-A/96.1996.04.23.PCM, DR.IS-A [101]Supl de 30/Abr/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-1996-389020
+  date: '1996-04-23'
+- type: repealed_by
+  target: pt:dre:191558:por
+  label: "Revogados os arts. 83º e 90º do Código de Processo Tributário aprovado pelo Dec Lei 154/91 de 23-Abr, na redacção\
+    \ do presente diploma, pelo DEC LEI.398/98.1998.12.17.MF, DR.IS-A [290] (sem prejuízo do disposto no nº 2 do art. 3º)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1998-191558
+  date: '1998-12-17'
 article_structure:
-  article_count: 67
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:53Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +508,17 @@ Os artigos 83.º, 90.º-A, 97.º, 101.º, 355.º e 356.º do Código de Processo
 
 4 - A taxa de juros compensatórios corresponde à taxa básica de desconto do Banco de Portugal em vigor no momento do início do retardamento da liquidação do imposto, acrescida de cinco pontos percentuais.
 
-###### Artigo 90.º-A — [...]
+Artigo 90.º-A
+
+[...]
 
 1 - ...
 
 2 - O agravamento só será exigível se o reclamante não vier impugnar a liquidação com os fundamentos do n.º 1 do artigo 84.º, podendo ser objecto de impugnação autónoma nos termos do n.º 3 do artigo 101.º
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +526,9 @@ Os artigos 83.º, 90.º-A, 97.º, 101.º, 355.º e 356.º do Código de Processo
 
 3 - Em caso de documento ou sentença superveniente, bem como de qualquer outro facto que não tivesse sido possível invocar nos prazos previstos nos números anteriores, estes contar-se-ão a partir da data em que se tornou possível ao reclamante obter o documento ou conhecer o facto.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -165,7 +536,9 @@ Os artigos 83.º, 90.º-A, 97.º, 101.º, 355.º e 356.º do Código de Processo
 
 3 - O agravamento pode ser objecto de impugnação autónoma com fundamento na injustiça da decisão condenatória.
 
-###### Artigo 355.º — [...]
+Artigo 355.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +548,9 @@ Os artigos 83.º, 90.º-A, 97.º, 101.º, 355.º e 356.º do Código de Processo
 
 4 - Antes do conhecimento dos recursos será notificado o representante da Fazenda Pública para responder no prazo de cinco dias e ouvido o representante do Ministério Público, que se pronunciará no mesmo prazo.
 
-###### Artigo 356.º — [...]
+Artigo 356.º
+
+[...]
 
 1 - ...
 
@@ -205,13 +580,17 @@ c) Os rendimentos declarados não correspondam aos efectivos ou se afastem dos l
 
 5 - A competência para a prática dos actos de apuramento, fixação ou alteração referidos no presente artigo é exercida pelo director distrital de finanças em cuja área se situe o domicílio fiscal dos sujeitos passivos, podendo ser delegada noutros funcionários sempre que o elevado número daqueles o justifique.
 
-###### Artigo 67.º — Notificação e fundamentação dos actos
+Artigo 67.º
+
+Notificação e fundamentação dos actos
 
 1 - Os actos de fixação ou alteração previstos no artigo 66.º serão sempre notificados aos sujeitos passivos, com a respectiva fundamentação.
 
 2 - ...
 
-###### Artigo 68.º — Reclamação dos actos de fixação
+Artigo 68.º
+
+Reclamação dos actos de fixação
 
 1 - Do acto de fixação dos rendimentos líquidos, podem os sujeitos passivos reclamar, no prazo de 30 dias a contar da data da respectiva notificação, para a comissão distrital de revisão, constituída por dois delegados da Fazenda Nacional, nomeados pelo Ministro das Finanças, um dos quais como presidente, e por dois delegados dos sujeitos passivos, designados pelas associações ou organismos representativos das respectivas classes ou actividades, ou, na sua falta, indicados, no continente, pela assembleia distrital e, nas Regiões Autónomas, pela Secretaria Regional de Finanças ou do Plano, conforme o caso.
 
@@ -221,7 +600,9 @@ c) Os rendimentos declarados não correspondam aos efectivos ou se afastem dos l
 
 4 - ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +614,9 @@ c) Os rendimentos declarados não correspondam aos efectivos ou se afastem dos l
 
 5 - O agravamento previsto no número anterior só será exigível se o reclamante não vier impugnar a liquidação com fundamento na errónea quantificação dos rendimentos líquidos fixados.
 
-###### Artigo 70.º — Impugnação das deliberações das comissões
+Artigo 70.º
+
+Impugnação das deliberações das comissões
 
 1 - A reclamação prevista no artigo 68.º é condição de impugnação judicial com fundamento em errónea quantificação dos rendimentos líquidos fixados.
 
@@ -241,7 +624,9 @@ c) Os rendimentos declarados não correspondam aos efectivos ou se afastem dos l
 
 3 - Na reclamação ou na impugnação do acto tributário de liquidação pode ser invocada qualquer ilegalidade praticada na determinação do rendimento colectável, bem como a errónea quantificação do conjunto dos rendimentos líquidos.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +638,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 83.º — Juros compensatórios. Termos em que são devidos e liquidados
+Artigo 83.º
+
+Juros compensatórios. Termos em que são devidos e liquidados
 
 1 - São devidos juros compensatórios quando, por facto imputável ao sujeito passivo, for retardada a liquidação de parte ou da totalidade do imposto devido, bem como quando for retardada a entrega do imposto retido ou do que o deveria ter sido no âmbito da substituição tributária ou do imposto que autonomamente deva ser liquidado e entregue nos cofres do Estado.
 
@@ -271,7 +658,9 @@ a) O imposto devido, sempre que a liquidação ou o apuramento deste devam ser e
 
 b) O imposto retido ou que o deveria ter sido, bem como o imposto que autonomamente deva ser liquidado e entregue nos cofres do Estado, sempre que as entidades devedoras cumpram as obrigações de entrega fora dos prazos legalmente estabelecidos.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - A titularidade de rendimentos das categorias B, C ou D determina, para os respectivos sujeitos passivos, a obrigatoriedade de efectuarem três pagamentos por conta do imposto devido a final, até ao dia 20 de cada um dos meses de Julho, Outubro e Dezembro.
 
@@ -309,7 +698,9 @@ b) O pagamento por conta a efectuar for superior à diferença entre o imposto t
 
 7 - Os juros compensatórios referidos no número anterior serão calculados à taxa básica de desconto do Banco de Portugal em vigor no dia imediato ao termo do prazo para efectuar o primeiro pagamento por conta, acrescida de cinco pontos percentuais, contando-se dia a dia desde o termo do prazo fixado para cada pagamento até à data em que por lei a liquidação deva ser feita.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - ...
 
@@ -317,17 +708,23 @@ b) O pagamento por conta a efectuar for superior à diferença entre o imposto t
 
 3 - São devidos juros compensatórios pelo substituto tributário calculados sobre o montante das retenções não efectuadas e que o deveriam ter sido quando estas tenham a natureza de pagamento por conta, desde o termo legalmente previsto para a sua entrega até ao termo do prazo para apresentação da declaração de rendimentos pelos respectivos titulares, ou até à regularização da situação, se anterior, sem prejuízo das sanções aplicáveis ao infractor.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
 2 - Nos casos de substituição tributária, bem como nos casos em que o imposto deva ser autonomamente liquidado e entregue nos cofres do Estado, a Direcção-Geral das Contribuições e Impostos, independentemente do procedimento contra-ordenacional ou criminal que no caso couber, notificará as entidades devedoras para efectuarem o pagamento do imposto e juros compensatórios devidos, no prazo de 30 dias a contar da notificação, com as consequências previstas no número anterior para a falta de pagamento.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 Quando o imposto liquidado ou apurado pela Direcção-Geral das Contribuições e Impostos, acrescido dos juros compensatórios eventualmente devidos, não for pago no prazo em que o deva ser, começarão a contar juros de mora a partir do termo daquele prazo, calculados nos termos legais.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - ...
 
@@ -373,7 +770,9 @@ Os artigos 54.º, 70.º, 71.º, 80.º, 81.º, 82.º, 84.º, 85.º, 86.º, 87.º,
 
 9 - O agravamento previsto no número anterior só será exigível se o reclamante não vier impugnar a liquidação com fundamento na errónea quantificação do lucro tributável fixado por métodos indiciários.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 A liquidação do IRC será efectuada:
 
@@ -381,7 +780,9 @@ a) Pelo próprio contribuinte, nas declarações a que se referem os artigos 96.
 
 b) ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - A liquidação do IRC processar-se-á nos termos seguintes:
 
@@ -407,7 +808,9 @@ c) ...
 
 9 - ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -417,7 +820,9 @@ c) ...
 
 4 - Quando o atraso na liquidação decorrer de erros de cálculo praticados no quadro de liquidação do imposto da declaração, os juros compensatórios devidos em consequência dos mesmos não poderão contar-se por período superior a 180 dias.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - Os serviços referidos no artigo 70.º procederão oficiosamente à anulação, total ou parcial, do imposto que tenha sido liquidado, sempre que este se mostre superior ao devido, nos seguintes casos:
 
@@ -435,7 +840,9 @@ e) Por duplicação de colecta.
 
 3 ...
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - As entidades que exerçam, a título principal, actividade de natureza comercial, industrial ou agrícola e as não residentes com estabelecimento estável em território português procederão ao pagamento do imposto nos termos seguintes:
 
@@ -455,7 +862,9 @@ c) Até ao dia da apresentação da declaração de substituição a que se refe
 
 6 - ...
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - ...
 
@@ -463,17 +872,23 @@ c) Até ao dia da apresentação da declaração de substituição a que se refe
 
 3 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - O imposto devido pelas entidades não referidas no n.º 1 do artigo 82.º e que estejam obrigadas a apresentação de declaração periódica de rendimentos ou que entreguem declaração de substituição será pago até ao dia útil da sua apresentação.
 
 2 - ...
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 Havendo lugar a autoliquidação do imposto e não sendo efectuado o pagamento deste e dos juros devidos, sendo caso disso, até ao dia da apresentação da declaração, começam a correr imediatamente juros compensatórios, com o limite de 180 dias, e a cobrança da dívida será promovida pelos serviços centrais da Direcção-Geral das Contribuições e Impostos, nos termos previstos no artigo 87.º
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - Nos casos de liquidação efectuada pelos serviços a que se refere o artigo 70.º, o contribuinte será notificado para pagar o imposto e juros que se mostrem devidos, no prazo de 30 dias a contar da notificação.
 
@@ -485,7 +900,9 @@ Havendo lugar a autoliquidação do imposto e não sendo efectuado o pagamento d
 
 5 - ...
 
-###### Artigo 91.º — Juros e responsabilidade pelo pagamento nos casos de retenção na fonte
+Artigo 91.º
+
+Juros e responsabilidade pelo pagamento nos casos de retenção na fonte
 
 1 - Quando a retenção na fonte tenha a natureza de imposto por conta e a entidade que a deva efectuar a não tenha feito, total ou parcialmente, ou, tendo-a feito, não tenha entregue o imposto ou o tenha entregue fora do prazo, serão por ela devidos juros compensatórios sobre as respectivas importâncias, contados, no último caso, desde o dia imediato àquele em que deviam ter sido entregues até à data do pagamento ou da liquidação e, no primeiro caso, desde aquela mesma data até ao termo do prazo para entrega da declaração periódica de rendimentos pelo sujeito passivo, sem prejuízo da responsabilidade que ao caso couber.
 
@@ -499,7 +916,9 @@ a) Conjuntamente com as importâncias retidas, quando estas sejam entregues fora
 
 b) Autonomamente, no prazo de 30 dias a contar do termo do período em que são devidos, quando, tratando-se de retenção com a natureza de imposto por conta, esta não tenha sido efectuada.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - ...
 
@@ -515,11 +934,15 @@ b) Autonomamente, no prazo de 30 dias a contar do termo do período em que são 
 
 7 - ...
 
-###### Artigo 97.º — Declaração de substituição
+Artigo 97.º
+
+Declaração de substituição
 
 Sem prejuízo do disposto na alínea b) do n.º 6 do artigo 96.º, quando tenha sido liquidado imposto inferior ao devido ou declarado prejuízo fiscal superior ao efectivo, poderá ser apresentada declaração de substituição, ainda que fora do prazo legalmente estabelecido, e efectuado o pagamento do imposto em falta.
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -533,7 +956,9 @@ Sem prejuízo do disposto na alínea b) do n.º 6 do artigo 96.º, quando tenha 
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - ...
 
@@ -577,7 +1002,7 @@ Os artigos 22.º, 74.º, 83.º, 84.º, 85.º, 86.º, 89.º, 90.º, 91.º e 92.º
 
 13 - ...
 
-###### Artigo 74.º
+Artigo 74.º
 
 1 - As notificações referidas no n.º 1 do artigo 27.º, n.º 3 do artigo 34.º, n.º 8 do artigo 40.º, n.º 5 do artigo 55.º, n.º 4 do artigo 58.º, n.º 5 do artigo 63.º, artigo 85.º e n.º 3 do artigo 88.º, bem como das decisões a que se referem o n.º 3 do artigo 53.º e n.º 4 do artigo 60.º, serão efectuadas através de carta registada com aviso de recepção, com indicação dos critérios que as fundamentaram.
 
@@ -585,7 +1010,7 @@ Os artigos 22.º, 74.º, 83.º, 84.º, 85.º, 86.º, 89.º, 90.º, 91.º e 92.º
 
 3 - ...
 
-###### Artigo 83.º
+Artigo 83.º
 
 1 - ...
 
@@ -599,7 +1024,7 @@ Os artigos 22.º, 74.º, 83.º, 84.º, 85.º, 86.º, 89.º, 90.º, 91.º e 92.º
 
 6 - ...
 
-###### Artigo 84.º
+Artigo 84.º
 
 1 - A liquidação com base em presunções ou métodos indiciários, por carência de elementos que permitam apurar claramente o imposto, basear-se-á nos factos previstos neste Código ou nos artigos 38.º, n.º 1, do Código do IRS e 51.º, n.º 1, do Código do IRC, consoante os casos.
 
@@ -611,17 +1036,17 @@ Os artigos 22.º, 74.º, 83.º, 84.º, 85.º, 86.º, 89.º, 90.º, 91.º e 92.º
 
 5 - Para os efeitos do disposto neste artigo, não são consideradas as correcções a que se refere o n.º 4 do artigo 84.º do Código de Processo Tributário.
 
-###### Artigo 85.º
+Artigo 85.º
 
 1 - Tornadas definitivas as decisões das comissões de revisão, considerar-se-á efectuada a liquidação do imposto, notificando-se o sujeito passivo nos termos e para os efeitos do artigo 27.º
 
 2 - Se a reclamação for destituída de fundamento, será aplicado agravamento nos termos previstos no artigo 90.º-A do Código de Processo Tributário.
 
-###### Artigo 86.º
+Artigo 86.º
 
 As decisões das comissões de revisão não são susceptíveis de impugnação judicial autónoma, sem prejuízo de na reclamação ou impugnação da liquidação poder ser invocada qualquer ilegalidade ou a sua errónea quantificação.
 
-###### Artigo 89.º
+Artigo 89.º
 
 1 - Sempre que, por facto imputável ao contribuinte, for retardada a liquidação ou a entrega de parte ou da totalidade do imposto devido, acrescerão ao montante do imposto juros compensatórios à taxa básica de desconto do Banco de Portugal, em vigor no momento do início do retardamento, acrescida de cinco pontos percentuais.
 
@@ -629,7 +1054,7 @@ As decisões das comissões de revisão não são susceptíveis de impugnação 
 
 3 - Quando o atraso na liquidação resultar de erros evidenciados na própria declaração ou de faltas apuradas em acção de fiscalização, os juros compensatórios não serão devidos a partir dos 180 dias posteriores à entrega da declaração se entretanto não tiver sido efectuada a liquidação ou o pagamento.
 
-###### Artigo 90.º
+Artigo 90.º
 
 1 - Os sujeitos passivos e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão recorrer hierarquicamente nos casos previstos neste Código, reclamar contra a respectiva liquidação ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
 
@@ -641,7 +1066,7 @@ As decisões das comissões de revisão não são susceptíveis de impugnação 
 
 5 - Os prazos para as reclamações ou impugnações previstas no n.º 2 contar-se-ão a partir do dia imediato ao final do período referido nos n.os 3 e 6 do artigo 71.º
 
-###### Artigo 91.º
+Artigo 91.º
 
 1 - Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á à revisão oficiosa nos termos da alínea b) do n.º 1 do artigo 94.º do Código de Processo Tributário.
 
@@ -649,7 +1074,7 @@ As decisões das comissões de revisão não são susceptíveis de impugnação 
 
 3 - ...
 
-###### Artigo 92.º
+Artigo 92.º
 
 1 - ...
 
@@ -671,15 +1096,15 @@ Nos casos de pagamento do imposto por meio de guia, a entrega nos cofres do Esta
 
 § 3.º Tratando-se de imposto devido por operações de financiamento ou garantias prestadas por um conjunto de instituições de crédito ou sociedades financeiras, a liquidação e a entrega do imposto podem ser efectuadas globalmente por qualquer daquelas entidades, sem prejuízo da responsabilidade, nos termos gerais, de cada uma delas, em caso de incumprimento.
 
-###### Artigo 254.º
+Artigo 254.º
 
 Quando, através de elementos existentes nos serviços, se verifique que, por motivos não imputáveis ao contribuinte, foi liquidado imposto superior ao devido ou tenha havido duplicação de colecta, proceder-se-á a anulação oficiosa nos cinco anos posteriores à data do pagamento voluntário ou à data da notificação do acto a rever e, ainda, no decurso do processo de execução fiscal.
 
-###### Artigo 255.º
+Artigo 255.º
 
 Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento do imposto poderão reclamar contra a respectiva liquidação, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
 
-###### Artigo 256.º
+Artigo 256.º
 
 Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso.
 
@@ -689,7 +1114,7 @@ Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tri
 
 § 3.º Os juros são contados dia a dia desde a data do pagamento do imposto até à data da emissão da respectiva nota de crédito.
 
-###### Artigo 257.º
+Artigo 257.º
 
 Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso do imposto, pago nos últimos cinco anos, quando o considere indevidamente cobrado, observando-se, na parte aplicável, o disposto no corpo e no §1.º do artigo anterior.
 
@@ -719,47 +1144,47 @@ Sempre que, por facto imputável ao contribuinte, for retardada a liquidação d
 
 § único. ...
 
-###### Artigo 116.º
+Artigo 116.º
 
 Se o imposto municipal de sisa não for pago antes do acto ou facto translativo, ou a sua liquidação não for pedida, devendo-o ser, dentro dos prazos fixados para o pagamento nos n.os 1.º a 6.º do artigo anterior, levantar-se-á auto de notícia e o chefe da repartição de finanças notificará o contribuinte para pagar a sisa no prazo de 10 dias.
 
 Sendo pedida a liquidação depois do acto ou facto translativo ou de passados os prazos dos n.os 1.º a 6.º do artigo precedente, mas antes de instaurado o processo de contra-ordenação, a sisa deverá ser paga no próprio dia, sem prejuízo da pena cominada ao infractor.
 
-###### Artigo 117.º
+Artigo 117.º
 
 Quando o imposto municipal de sisa, depois de liquidado, não for pago até ao termo de qualquer dos prazos dos n.os 1.º a 6.º do artigo 115.º ou dos prazos estabelecidos no artigo anterior, começarão a contar-se juros de mora e será extraída pelos serviços competentes certidão de dívida para cobrança coerciva.
 
 Tratando-se de sisa liquidada em processo de imposto sobre as sucessões e doações que não seja paga no prazo a que se refere o n.º 7.º do artigo 115.º, aplicar-se-á o disposto no artigo 122.º
 
-###### Artigo 119.º
+Artigo 119.º
 
 O imposto municipal de sisa será arrecadado nas tesourarias da Fazenda Pública, mediante conhecimento modelo n.º 7, no qual serão transcritos os elementos constantes do termo ou da guia, referidos nos artigos 49.º e 50.º, ou conhecimento modelo n.º 8, se for cobrado conformemente ao artigo 125.º
 
-###### Artigo 149.º
+Artigo 149.º
 
 Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto municipal de sisa ou imposto sobre as sucessões e doações superior ao devido, concedido desconto inferior ao que competiria ou tenha havido duplicação de colecta, proceder-se-á a anulação oficiosa nos cinco anos posteriores ao termo do prazo de pagamento voluntário ou à data da notificação do acto a rever e, ainda, no decurso do processo de execução fiscal.
 
 Também se procederá a anulação oficiosa, mas independentemente do referido prazo, nos casos previstos nos artigos 14.º, §2.º, 47.º, § único, 51.º, 56.º, § único, 77.º, §3.º, e 83.º deste Código.
 
-###### Artigo 150.º
+Artigo 150.º
 
 Os contribuintes e as pessoas solidária ou subsidiariamente responsáveis pelo pagamento da sisa ou do imposto poderão reclamar contra a respectiva liquidação, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo Tributário.
 
 § único. ...
 
-###### Artigo 151.º
+Artigo 151.º
 
 Os prazos para as reclamações e para as impugnações judiciais, quando se invocar, como prova de um dos fundamentos alegados, documento ou sentença superveniente aos prazos de reclamação ou impugnação, contar-se-ão desde a data em que se tornar possível obter o documento ou transitar a sentença em julgado.
 
 § único. ...
 
-###### Artigo 152.º
+Artigo 152.º
 
 A anulação da liquidação da sisa paga por acto ou facto translativo que não chegou a verificar-se só poderá ser pedida, em processo de reclamação ou de impugnação judicial, até um ano ou 90 dias depois de terminado o prazo em que a liquidação, ainda que revalidada ou reformada, produzir seus efeitos, nos termos do § único do artigo 47.º
 
 Não será de anular a liquidação quando tiver havido tradição dos bens para o reclamante ou impugnante ou este os tiver usufruído.
 
-###### Artigo 153.º
+Artigo 153.º
 
 Se antes de decorridos 10 anos sobre a transmissão o doador dispuser dos bens nos casos previstos no n.º 1 do artigo 959.º do Código Civil, for revogada a doação nos termos dos artigos 970.º e 1765.º do mesmo Código, houver devolução de bens ou caducar a doação nos termos dos n.os 2 e 3 do seu artigo 2002.º-D, vier a verificar-se a condição resolutiva ou se der a resolução do contrato, for reduzida a liberalidade por inoficiosidade, tiverem os sucessores do ausente ou as pessoas chamadas em sua vez de entregar quaisquer bens, poderá obter-se, por meio de reclamação ou de impugnação judicial, a anulação proporcional da sisa ou do imposto sobre as sucessões e doações.
 
@@ -771,7 +1196,7 @@ Os prazos para deduzir a reclamação ou a impugnação com tais fundamentos con
 
 § 3.º Se os factos referidos neste artigo ocorrerem 10 ou mais anos depois da transmissão, e houver restituição de frutos, nos termos do parágrafo anterior, poderá igualmente obter-se, por meio de reclamação ou de impugnação judicial, anulação do imposto em relação ao tempo, dentro dos primeiros 10 anos, a que esses frutos respeitarem.
 
-###### Artigo 155.º
+Artigo 155.º
 
 Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tribunal competente, com trânsito em julgado, efectuar-se-á o respectivo reembolso.
 
@@ -781,7 +1206,7 @@ Anulada a liquidação, quer oficiosamente, quer por decisão da entidade ou tri
 
 § 3.º Os juros serão contados dia a dia desde a data do pagamento da sisa ou do imposto até à data da emissão da respectiva nota de crédito.
 
-###### Artigo 187.º
+Artigo 187.º
 
 Quando, por facto imputável ao contribuinte, não se efectuar o pagamento do imposto por avença retido na fonte ou que o deveria ter sido, a este acrescerão juros compensatórios correspondentes à taxa básica de desconto do Banco de Portugal, em vigor na data em que se tiver iniciado o retardamento daquele pagamento, acrescida de cinco pontos percentuais, sem prejuízo da sanção cominada ao infractor.
 
@@ -807,17 +1232,17 @@ Este direito de preferência entender-se-á sem prejuízo dos direitos de prefer
 
 § 3.º ...
 
-###### Artigo 177.º
+Artigo 177.º
 
 Quando tiver havido simulação de preço, ou indicação inexacta, o comprador preferido poderá exigir do vendedor metade do prejuízo resultante do reconhecimento da preferência.
 
-###### Artigo 178.º
+Artigo 178.º
 
 Estando pendente, à data do despacho de citação do réu ou vindo posteriormente a ser instaurada acção de simulação, processo por crime fiscal ou processo de contra-ordenação pelo mesmo facto e contra as mesmas pessoas, suspender-se-ão os respectivos termos, os quais só poderão prosseguir se a instância se interromper, ou se extinguir por outros motivos que não a confissão de todo o pedido ou julgamento da procedência da acção.
 
 § único. O chefe da secção que intervier na acção de preferência deverá comunicar imediatamente à repartição de finanças o despacho de citação do réu, a interrupção da instância ou a decisão que lhe pôs termo.
 
-###### Artigo 179.º
+Artigo 179.º
 
 Independentemente da anulação da liquidação, o Ministro das Finanças poderá ordenar o reembolso da sisa ou do imposto sobre as sucessões e doações, pagos nos últimos cinco anos, quando os considere indevidamente cobrados, observando-se, na parte aplicável, o disposto no corpo e no § 1.º do artigo 155.º»
 
@@ -829,12 +1254,12 @@ Independentemente da anulação da liquidação, o Ministro das Finanças poder�
 
 Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1995. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 4 de Janeiro de 1996.**
+Promulgado em 4 de Janeiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Janeiro de 1996.**
+Referendado em 9 de Janeiro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

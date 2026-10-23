@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 39/1976, 2º Suplemento, Série I de 1976-02-16
   number: '39'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 326-(5) a 326-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03902/00050006.pdf
 entry_into_force_dates: []
@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-a-1976-621132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 763bbef2ed3e26f560731bd277b8e8f29baf3c0e5ef09744c4f3829a05fb47e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ca0e00c1341bb2d22a877062e12094368aeb79ca4ba6cab4f839beca30f1a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cartão de Eleitor
+- Comissão Nacional de Eleições
+- Eleição Autárquica
+- Eleição Legislativa
+- Eleição Presidencial
+- Eleição Regional
+- Governador Civil
+- Governador de Macau
+- Macau
+- Magistrado Judicial
+- Recenseamento Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:235092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674002:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:502468:por
+  label: Rectificado o n.º 1.º pelo(a) Declaração - Diário da República n.º 89/1976, Série I de 1976-04-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-502468
+  date: '1976-04-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:12Z'
   warnings: []
   errors: []
 ---

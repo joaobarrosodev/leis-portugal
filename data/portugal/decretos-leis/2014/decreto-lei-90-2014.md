@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2014/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2014-25676885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102f805c9462e2f9b1228d239c6659cda2e0950e08797e769cb4adb48159625b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1be22d4b7c46246daf4e259a70750349a96880a4b875293c3142af3dbf2f6106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Associação Nacional de Municípios Portugueses
-- Energia Elétrica
+- Comércio
+- Conselho Consultivo
 - Definição de Competências
 - Direção Geral de Energia e Geologia
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Gamep
+- Instituto da Mobilidade e dos Transportes
+- Licenciamento
+- Madeira.região Autónoma
 - Mobilidade Elétrica
 - Programa para a Mobilidade Elétrica
-- Instituto da Mobilidade e dos Transportes
-- Conselho Consultivo
-- Licenciamento
-- Gamep
 - REDE Piloto da Mobilidade Eléctrica
-- Regulamento da Mobilidade Eléctrica
-- Veículo Elétrico
-- Entidade Reguladora dos Serviços Energéticos
-- Madeira.região Autónoma
 - Regime Jurídico
+- Regulamento da Mobilidade Eléctrica
 - Sinalização
-- Açores
-- Comércio
 - Trânsito
+- Veículo Elétrico
 relationships:
+- type: amended_by
+  target: pt:dre:66655654:por
+  label: Prorrogado até 11.06.2015 o asseguramento da atividade da Mobi.E enquanto entidade gestora da rede de mobilidade
+    elétrica, prevista no n.º 10 do art. 5.º do presente diploma, pelo(a) Despacho n.º 2288/2015 - Diário da República n.º
+    45/2015, Série II de 2015-03-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2288-2015-66655654
+  date: '2015-03-05'
 - type: cites
   target: eli:http://data.dre.pt/e
   label: null
@@ -128,16 +135,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/81/2009/09/07/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693791:por
+  label: null
+  source: null
 article_structure:
-  article_count: 100
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:10Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +265,9 @@ f) Da adoção de regras que permitem ao utilizador de veículos elétricos a po
 
 4 - O presente decreto-lei aplica-se a todo o território nacional, sem prejuízo do exercício das competências cometidas aos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Consideram-se «veículos elétricos o automóvel», o motociclo, o ciclomotor, o triciclo ou o quadriciclo, dotados de um ou mais motores principais de propulsão elétrica que transmitam energia de tração ao veículo, incluindo os veículos híbridos elétricos, cuja bateria seja carregada mediante ligação à rede de mobilidade elétrica ou a uma fonte de eletricidade externa, e que se destinem, pela sua função, a transitar na via pública, sem sujeição a carris.
 
@@ -216,7 +285,9 @@ c) A adaptação da propulsão ao modo elétrico deve assegurar o correto funcio
 
 5 - Compete ao IMT, I. P., a emissão do dístico referido no número anterior.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -248,7 +319,9 @@ e) [Revogada].
 
 6 - [Anterior n.º 5].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -268,7 +341,9 @@ e) [Revogada].
 
 9 - Podem ainda ser desenvolvidas, em regime de livre concorrência, outras atividades associadas ou complementares das atividades principais relacionadas com a mobilidade elétrica, como a disponibilização de espaços de estacionamento para veículos elétricos e a locação, sob qualquer forma, de pontos de carregamento, veículos elétricos ou seus componentes, designadamente baterias.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Para efeitos do presente decreto-lei, constituem pontos de carregamento as infraestruturas ou equipamentos dedicados exclusivamente ao carregamento de baterias de veículos elétricos, os quais podem estar associados outros serviços relativos à mobilidade elétrica, excluindo as tomadas elétricas convencionais.
 
@@ -288,7 +363,9 @@ e) [Revogada].
 
 9 - De forma a fomentar novos modelos de mobilidade, poderão ser definidos regimes específicos de afetação de utilização de pontos de carregamento e respetivos espaços de estacionamento para carregamento de veículos associados a estes serviços através de legislação complementar.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A atividade de comercialização de eletricidade para a mobilidade elétrica só pode ser exercida por operadores de pontos de carregamento, devidamente licenciados.
 
@@ -304,7 +381,9 @@ e) [Revogada].
 
 7 - Os contratos de fornecimento de energia elétrica referidos no n.º 4 devem permitir o acesso, quando solicitado pelo utilizador, ao fornecimento de eletricidade para a mobilidade elétrica em espaços privados de acesso privativo.
 
-###### Artigo 8.º — Registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 8.º
+
+Registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - A comercialização de eletricidade para a mobilidade elétrica está sujeita a registo, cuja efetivação permite o exercício da atividade em todo o território nacional.
 
@@ -322,13 +401,17 @@ e) [Revogada].
 
 8 - [Revogado].
 
-###### Artigo 9.º — Transmissão do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 9.º
+
+Transmissão do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - À transmissão do registo de comercialização aplica-se o disposto no n.º 6 do artigo 49.º do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, com as necessárias adaptações.
 
 2 - [Revogado].
 
-###### Artigo 10.º — Caducidade e revogação do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 10.º
+
+Caducidade e revogação do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - O registo de comercialização de eletricidade para a mobilidade elétrica caduca no caso de extinção, a qualquer título, da licença de operação de pontos de carregamento.
 
@@ -350,7 +433,9 @@ d) [Revogada].
 
 4 - [Revogado].
 
-###### Artigo 11.º — Deveres do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 11.º
+
+Deveres do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - São deveres do detentor de registo de comercialização de eletricidade para a mobilidade elétrica, designadamente:
 
@@ -388,7 +473,9 @@ o) [...].
 
 4 - O detentor de registo de comercialização de eletricidade para a mobilidade elétrica que desenvolva a sua atividade na Região Autónoma dos Açores ou da Madeira está sujeito ao cumprimento da obrigação prevista no número anterior relativamente à possibilidade de acesso dos respetivos clientes aos pontos de carregamento localizados no território continental ou na outra Região Autónoma, independentemente do local de residência dos utilizadores.
 
-###### Artigo 13.º — Direitos do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 13.º
+
+Direitos do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
 
 Constituem direitos do detentor de registo de comercialização de eletricidade para a mobilidade elétrica, designadamente:
 
@@ -400,7 +487,9 @@ c) [...];
 
 d) [Revogada].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -416,7 +505,9 @@ c) A compatibilidade técnica, tecnológica e de segurança entre os pontos de c
 
 4 - [Revogado].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As licenças de operação de pontos de carregamento da rede de mobilidade elétrica têm âmbito nacional e são atribuídas pelo prazo de 10 anos, prorrogável por igual período.
 
@@ -440,7 +531,9 @@ c) Os elementos previstos na portaria referida no n.º 2 do artigo anterior.
 
 8 - Sempre que o membro do Governo responsável pela área da energia considere que os pontos de carregamento da rede de mobilidade elétrica instalados pelo conjunto de operadores licenciados não são suficientes para satisfazer as necessidades do setor a nível nacional, pode adotar procedimento concursal para atribuição de licença de operador de pontos de carregamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [Anterior proémio do artigo]:
 
@@ -490,7 +583,9 @@ v) Assegurar a confidencialidade da informação que lhes seja transmitida pelos
 
 3 - Os operadores de pontos de carregamento a que se referem os n.os 3 e 4 do artigo 11.º devem, quando lhes seja solicitado pelo operador detentor de registo de comercialização de eletricidade para a mobilidade elétrica interessado, apresentar proposta comercial destinada a permitir o cumprimento do disposto nesses preceitos legais.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os operadores de pontos de carregamento devem divulgar, de forma clara, completa e adequada, designadamente mediante afixação em local visível do ponto de carregamento, os procedimentos e as medidas de segurança definidos pela DGEG e pela entidade gestora da rede de mobilidade elétrica a adotar pelos utilizadores de veículos elétricos para acesso a serviços de mobilidade elétrica.
 
@@ -506,7 +601,9 @@ v) Assegurar a confidencialidade da informação que lhes seja transmitida pelos
 
 7 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -522,7 +619,9 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 4 - O operador de pontos de carregamento pode afixar ou proceder à inscrição de mensagens publicitárias, comerciais ou não comerciais, nos pontos de carregamento, sem prejuízo do cumprimento das demais disposições legais e regulamentares aplicáveis em matéria de publicidade.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As entidades responsáveis pela aprovação das instalações elétricas de pontos de carregamento realizam inspeções periódicas aos pontos de carregamento explorados por cada operador.
 
@@ -532,7 +631,9 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 4 - Compete à DGEG em articulação com a entidade gestora da rede de mobilidade elétrica a gestão da realização das inspeções a que se refere o presente artigo.
 
-###### Artigo 20.º — Atividade de gestão da rede de mobilidade elétrica
+Artigo 20.º
+
+Atividade de gestão da rede de mobilidade elétrica
 
 1 - A atividade de gestão da rede de mobilidade elétrica é exercida por entidade a indicar pelo membro do Governo responsável pela área da energia.
 
@@ -540,7 +641,9 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 3 - [Revogado].
 
-###### Artigo 21.º — Atribuições da entidade gestora da rede de mobilidade elétrica
+Artigo 21.º
+
+Atribuições da entidade gestora da rede de mobilidade elétrica
 
 1 - A entidade gestora da rede de mobilidade elétrica tem como objeto a gestão de operações de mobilidade elétrica, incluindo a gestão de carregamento de veículos elétricos em pontos de carregamento explorados por operadores devidamente licenciados.
 
@@ -594,7 +697,9 @@ z) [Anterior alínea i)].
 
 3 - As redes de pontos de carregamento de baterias de veículos elétricos no âmbito das Regiões Autónomas previstas na alínea u) do número anterior integram a rede nacional de pontos de carregamento, constituindo áreas geográficas autónomas para efeitos de liquidação de operações.
 
-###### Artigo 22.º — Organização da entidade gestora da rede de mobilidade elétrica
+Artigo 22.º
+
+Organização da entidade gestora da rede de mobilidade elétrica
 
 1 - A entidade gestora da rede de mobilidade elétrica deve ser uma entidade com autonomia nos planos jurídicos, da organização e da tomada de decisões em relação às entidades que exerçam direta ou indiretamente a atividade prevista na alínea b) do n.º 1 do artigo 5.º, e às entidades que exerçam atividades relativas ao setor elétrico de produção, transporte, distribuição e comercialização.
 
@@ -606,7 +711,9 @@ z) [Anterior alínea i)].
 
 5 - O disposto no n.º 1 não impede que a entidade gestora da rede de mobilidade elétrica possa ser proprietária de pontos de carregamento, cedendo a sua exploração a operadores de pontos de carregamento devidamente licenciados, mediante procedimentos concorrenciais e transparentes.
 
-###### Artigo 23.º — Deveres da entidade gestora da rede de mobilidade elétrica
+Artigo 23.º
+
+Deveres da entidade gestora da rede de mobilidade elétrica
 
 São deveres da entidade gestora da rede de mobilidade elétrica, designadamente:
 
@@ -628,7 +735,9 @@ h) [...];
 
 i) [...].
 
-###### Artigo 24.º — Direitos da entidade gestora da rede de mobilidade elétrica
+Artigo 24.º
+
+Direitos da entidade gestora da rede de mobilidade elétrica
 
 Constituem direitos da entidade gestora da rede de mobilidade elétrica, designadamente:
 
@@ -636,7 +745,9 @@ a) [...];
 
 b) O recebimento de remuneração que assegure, através e com dependência do pagamento das contrapartidas suportadas pelos utilizadores de veículos elétricos, operadores de pontos de carregamento e operadores detentores do registo de comercialização de eletricidade para a mobilidade elétrica, o equilíbrio económico e financeiro da atividade, em condições de uma gestão eficiente, calculado para um horizonte temporal não inferior a 15 anos, de acordo com um modelo de retorno sobre a base de ativos relevantes e de adequação da remuneração aos custos, nos termos do Regulamento da Mobilidade Elétrica aprovado pela ERSE.
 
-###### Artigo 25.º — Pontos de carregamento em local público
+Artigo 25.º
+
+Pontos de carregamento em local público
 
 1 - Os pontos de carregamento em local público de acesso público são instalados, disponibilizados, explorados e mantidos por operadores de pontos de carregamento licenciados nos termos do artigo 15.º e estão obrigatoriamente ligados à rede de mobilidade elétrica através da entidade gestora da rede de mobilidade elétrica.
 
@@ -650,13 +761,17 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 6 - O disposto no presente artigo aplica-se igualmente, com as necessárias adaptações, aos pontos de carregamento instalados, disponibilizados, explorados e mantidos em locais públicos com utilização privativa.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os pontos de carregamento situados em locais privados destinados ao acesso público de utilizadores de veículos elétricos são instalados, disponibilizados, explorados e mantidos por operador licenciado nos termos do artigo 15.º, estando obrigatoriamente ligados à rede de mobilidade elétrica através da entidade gestora da rede de mobilidade elétrica.
 
 2 - A instalação de pontos de carregamento no caso previsto no número anterior fica sujeita ao disposto nos n.os 1 e 2 do artigo 31.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -666,7 +781,9 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 4 - Os detentores do local podem carregar os veículos elétricos sem recurso a pontos de carregamento, utilizando apenas a instalação elétrica doméstica, devendo observar as regras e condições técnicas e de segurança estabelecidas nas disposições legais e regulamentares aplicáveis.
 
-###### Artigo 28.º — Pontos de carregamento em novas operações urbanísticas
+Artigo 28.º
+
+Pontos de carregamento em novas operações urbanísticas
 
 1 - As operações urbanísticas de construção de edifícios em regime de propriedade horizontal ou de outros imóveis que disponham de locais de estacionamento de veículos, devem incluir uma infraestrutura elétrica adequada para o carregamento de veículos elétricos, conceito que não inclui pontos de carregamento ou tomadas, que cumpra os requisitos e regras técnicas a aprovar.
 
@@ -678,7 +795,9 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 5 - [Anterior n.º 4].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Incumbe ao operador da rede de distribuição de eletricidade competente efetuar, a solicitação do operador de pontos de carregamento, os atos necessários à ligação dos pontos de carregamento à respetiva rede de distribuição de eletricidade e, a solicitação do respetivo comercializador de eletricidade, o correspondente início de entrega de energia.
 
@@ -686,19 +805,25 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 3 - O operador da rede de distribuição de eletricidade relevante deve entregar à entidade gestora da rede de mobilidade elétrica, com uma periodicidade mensal, as medições de consumo de eletricidade registadas em cada ponto de entrega dos pontos de carregamento integrados na rede de mobilidade elétrica.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - A instalação dos pontos de carregamento que não esteja prevista na realização de uma operação urbanística nos termos do artigo 28.º fica sujeita a comunicação prévia, nos termos previstos no regime jurídico da urbanização e da edificação.
 
 2 - As instalações elétricas dos pontos de carregamento, incluindo alterações às instalações existentes, ficam sujeitas a aprovação nos termos da legislação aplicável.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Qualquer utilizador de veículos elétricos tem o direito de acesso aos pontos de carregamento de acesso público, independentemente do operador detentor de registo de comercialização de eletricidade para a mobilidade elétrica que tenha contratado para a prestação dos respetivos serviços.
 
 2 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -716,7 +841,9 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 8 - [Revogado].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -746,7 +873,9 @@ g) [...].
 
 7 - [...].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]:
 
@@ -770,7 +899,9 @@ h) A violação do disposto nas alíneas a) a h) do artigo 23.º
 
 3 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 [...]:
 
@@ -796,7 +927,9 @@ j) [...];
 
 l) A violação do disposto nos n.os 5 e 6 do artigo 7.º
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - São devidas taxas pela apreciação do pedido de registo e da efetivação do registo de comercialização de eletricidade para a mobilidade elétrica e pela emissão da licença de operação de pontos de carregamento previstas no presente decreto-lei.
 
@@ -808,7 +941,9 @@ l) A violação do disposto nos n.os 5 e 6 do artigo 7.º
 
 5 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -866,15 +1001,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 3 de junho de 2014.**
+Promulgado em 3 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de junho de 2014.**
+Referendado em 5 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -882,7 +1017,7 @@ Visto e aprovado em Conselho de Ministros de 10 de abril de 2014. - Pedro Passos
 
 (a que se refere o n.º 4 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
 
 As características do dístico devem ser as seguintes:
 
@@ -908,13 +1043,19 @@ O dístico deve ser colocado no canto inferior direito do para-brisas;
 
 Não podem ser colocados no dístico quaisquer outros caracteres ou símbolos.
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Republicação do [Decreto-Lei n.º 39/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2010-614137), de 26 de abril
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto e âmbito territorial
+Disposições gerais
+
+Artigo 1.º
+
+Objeto e âmbito territorial
 
 1 - O presente decreto-lei regula a organização, o acesso e o exercício das atividades de mobilidade elétrica, procede ao estabelecimento de uma rede de mobilidade elétrica e à regulação de incentivos à utilização de veículos elétricos.
 
@@ -936,11 +1077,15 @@ f) Da adoção de regras que permitem ao utilizador de veículos elétricos a po
 
 4 - O presente decreto-lei aplica-se a todo o território nacional, sem prejuízo do exercício das competências cometidas aos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
 
-###### Artigo 2.º — Rede de mobilidade elétrica
+Artigo 2.º
+
+Rede de mobilidade elétrica
 
 A rede de mobilidade elétrica compreende o conjunto integrado de pontos de carregamento e demais infraestruturas, de acesso público e privativo, relacionadas com o carregamento de baterias de veículos elétricos, em que intervêm os agentes que desenvolvem as atividades previstas no artigo 5.º, o qual se destina a permitir o acesso dos utilizadores de veículos elétricos à mobilidade elétrica.
 
-###### Artigo 3.º — Veículos elétricos
+Artigo 3.º
+
+Veículos elétricos
 
 1 - Consideram-se «veículos elétricos o automóvel», o motociclo, o ciclomotor, o triciclo ou o quadriciclo, dotados de um ou mais motores principais de propulsão elétrica que transmitam energia de tração ao veículo, incluindo os veículos híbridos elétricos, cuja bateria seja carregada mediante ligação à rede de mobilidade elétrica ou a uma fonte de eletricidade externa, e que se destinem, pela sua função, a transitar na via pública, sem sujeição a carris.
 
@@ -958,7 +1103,9 @@ c) A adaptação da propulsão ao modo elétrico deve assegurar o correto funcio
 
 5 - Compete ao IMT, I. P., a emissão do dístico referido no número anterior.
 
-###### Artigo 4.º — Princípios gerais
+Artigo 4.º
+
+Princípios gerais
 
 1 - O exercício das atividades de mobilidade elétrica processa-se com observância dos princípios de acesso universal e equitativo dos utilizadores ao serviço de carregamento de baterias de veículos elétricos e demais serviços integrados na rede de mobilidade elétrica, assegurando-se-lhes, em especial:
 
@@ -1000,7 +1147,9 @@ e) [Revogada].
 
 6 - Os proveitos auferidos no âmbito do exercício de atividades relativas à mobilidade elétrica por entidades previstas no presente decreto-lei que desenvolvam atividades no setor elétrico não são considerados para efeitos regulatórios e tarifários deste setor.
 
-###### Artigo 5.º — Atividades de mobilidade elétrica
+Artigo 5.º
+
+Atividades de mobilidade elétrica
 
 1 - As atividades principais destinadas a assegurar a mobilidade elétrica compreendem:
 
@@ -1026,7 +1175,9 @@ c) A gestão de operações da rede de mobilidade elétrica.
 
 9 - Podem ainda ser desenvolvidas, em regime de livre concorrência, outras atividades associadas ou complementares das atividades principais relacionadas com a mobilidade elétrica, como a disponibilização de espaços de estacionamento para veículos elétricos e a locação, sob qualquer forma, de pontos de carregamento, veículos elétricos ou seus componentes, designadamente baterias.
 
-###### Artigo 6.º — Pontos de carregamento
+Artigo 6.º
+
+Pontos de carregamento
 
 1 - Para efeitos do presente decreto-lei, constituem pontos de carregamento as infraestruturas ou equipamentos dedicados exclusivamente ao carregamento de baterias de veículos elétricos, os quais podem estar associados outros serviços relativos à mobilidade elétrica, excluindo as tomadas elétricas convencionais.
 
@@ -1046,11 +1197,17 @@ c) A gestão de operações da rede de mobilidade elétrica.
 
 9 - De forma a fomentar novos modelos de mobilidade, poderão ser definidos regimes específicos de afetação de utilização de pontos de carregamento e respetivos espaços de estacionamento para carregamento de veículos associados a estes serviços através de legislação complementar.
 
-### CAPÍTULO II — Atividades de mobilidade elétrica
+CAPÍTULO II
 
-#### SECÇÃO I — Comercialização de eletricidade para a mobilidade elétrica
+Atividades de mobilidade elétrica
 
-###### Artigo 7.º — Regime de exercício da comercialização de eletricidade para a mobilidade elétrica
+SECÇÃO I
+
+Comercialização de eletricidade para a mobilidade elétrica
+
+Artigo 7.º
+
+Regime de exercício da comercialização de eletricidade para a mobilidade elétrica
 
 1 - A atividade de comercialização de eletricidade para a mobilidade elétrica só pode ser exercida por operadores de pontos de carregamento, devidamente licenciados.
 
@@ -1066,7 +1223,9 @@ c) A gestão de operações da rede de mobilidade elétrica.
 
 7 - Os contratos de fornecimento de energia elétrica referidos no n.º 4 devem permitir o acesso, quando solicitado pelo utilizador, ao fornecimento de eletricidade para a mobilidade elétrica em espaços privados de acesso privativo.
 
-###### Artigo 8.º — Registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 8.º
+
+Registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - A comercialização de eletricidade para a mobilidade elétrica está sujeita a registo, cuja efetivação permite o exercício da atividade em todo o território nacional.
 
@@ -1084,13 +1243,17 @@ c) A gestão de operações da rede de mobilidade elétrica.
 
 8 - [Revogado].
 
-###### Artigo 9.º — Transmissão do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 9.º
+
+Transmissão do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - À transmissão do registo de comercialização aplica-se o disposto no n.º 6 do artigo 49.º do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, com as necessárias adaptações.
 
 2 - [Revogado].
 
-###### Artigo 10.º — Caducidade e revogação do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 10.º
+
+Caducidade e revogação do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - O registo de comercialização de eletricidade para a mobilidade elétrica caduca no caso de extinção, a qualquer título, da licença de operação de pontos de carregamento.
 
@@ -1112,7 +1275,9 @@ d) [Revogada].
 
 4 - [Revogado].
 
-###### Artigo 11.º — Deveres do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 11.º
+
+Deveres do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
 
 1 - São deveres do detentor de registo de comercialização de eletricidade para a mobilidade elétrica, designadamente:
 
@@ -1150,11 +1315,15 @@ o) Respeitar as disposições legais e regulamentares aplicáveis ao exercício 
 
 4 - O detentor de registo de comercialização de eletricidade para a mobilidade elétrica que desenvolva a sua atividade na Região Autónoma dos Açores ou da Madeira está sujeito ao cumprimento da obrigação prevista no número anterior relativamente à possibilidade de acesso dos respetivos clientes aos pontos de carregamento localizados no território continental ou na outra Região Autónoma, independentemente do local de residência dos utilizadores.
 
-###### Artigo 12.º — Deveres de informação do comercializador de eletricidade para a mobilidade elétrica
+Artigo 12.º
+
+Deveres de informação do comercializador de eletricidade para a mobilidade elétrica
 
 [Revogado].
 
-###### Artigo 13.º — Direitos do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
+Artigo 13.º
+
+Direitos do detentor do registo de comercialização de eletricidade para a mobilidade elétrica
 
 Constituem direitos do detentor de registo de comercialização de eletricidade para a mobilidade elétrica, designadamente:
 
@@ -1166,9 +1335,13 @@ c) A remuneração pela prestação do serviço de comercialização de eletrici
 
 d) [Revogada].
 
-#### SECÇÃO II — Operação de pontos de carregamento
+SECÇÃO II
 
-###### Artigo 14.º — Regime de exercício da operação de pontos de carregamento
+Operação de pontos de carregamento
+
+Artigo 14.º
+
+Regime de exercício da operação de pontos de carregamento
 
 1 - O exercício da atividade de operação de pontos de carregamento depende de atribuição de licença pela DGEG.
 
@@ -1184,7 +1357,9 @@ c) A compatibilidade técnica, tecnológica e de segurança entre os pontos de c
 
 4 - [Revogado].
 
-###### Artigo 15.º — Licença de operação de pontos de carregamento
+Artigo 15.º
+
+Licença de operação de pontos de carregamento
 
 1 - As licenças de operação de pontos de carregamento da rede de mobilidade elétrica têm âmbito nacional e são atribuídas pelo prazo de 10 anos, prorrogável por igual período.
 
@@ -1216,7 +1391,9 @@ d) As condições de exercício da atividade de operação de pontos de carregam
 
 8 - Sempre que o membro do Governo responsável pela área da energia considere que os pontos de carregamento da rede de mobilidade elétrica instalados pelo conjunto de operadores licenciados não são suficientes para satisfazer as necessidades do setor a nível nacional, pode adotar procedimento concursal para atribuição de licença de operador de pontos de carregamento.
 
-###### Artigo 16.º — Deveres do operador de pontos de carregamento
+Artigo 16.º
+
+Deveres do operador de pontos de carregamento
 
 1 - São deveres do operador de pontos de carregamento, designadamente:
 
@@ -1266,7 +1443,9 @@ v) Assegurar a confidencialidade da informação que lhes seja transmitida pelos
 
 3 - Os operadores de pontos de carregamento a que se referem os n.os 3 e 4 do artigo 11.º devem, quando lhes seja solicitado pelo operador detentor de registo de comercialização de eletricidade para a mobilidade elétrica interessado, apresentar proposta comercial destinada a permitir o cumprimento do disposto nesses preceitos legais.
 
-###### Artigo 17.º — Deveres de informação dos operadores de pontos de carregamento
+Artigo 17.º
+
+Deveres de informação dos operadores de pontos de carregamento
 
 1 - Os operadores de pontos de carregamento devem divulgar, de forma clara, completa e adequada, designadamente mediante afixação em local visível do ponto de carregamento, os procedimentos e as medidas de segurança definidos pela DGEG e pela entidade gestora da rede de mobilidade elétrica a adotar pelos utilizadores de veículos elétricos para acesso a serviços de mobilidade elétrica.
 
@@ -1282,7 +1461,9 @@ v) Assegurar a confidencialidade da informação que lhes seja transmitida pelos
 
 7 - Para os efeitos do disposto no número anterior, os operadores de pontos de carregamento têm obrigação de, no prazo de 10 dias, remeter as reclamações recebidas à ERSE, competindo a esta entidade o seu tratamento.
 
-###### Artigo 18.º — Direitos do operador de pontos de carregamento
+Artigo 18.º
+
+Direitos do operador de pontos de carregamento
 
 1 - Constituem direitos do operador de pontos de carregamento, designadamente:
 
@@ -1298,7 +1479,9 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 4 - O operador de pontos de carregamento pode afixar ou proceder à inscrição de mensagens publicitárias, comerciais ou não comerciais, nos pontos de carregamento, sem prejuízo do cumprimento das demais disposições legais e regulamentares aplicáveis em matéria de publicidade.
 
-###### Artigo 19.º — Inspeções periódicas
+Artigo 19.º
+
+Inspeções periódicas
 
 1 - As entidades responsáveis pela aprovação das instalações elétricas de pontos de carregamento realizam inspeções periódicas aos pontos de carregamento explorados por cada operador.
 
@@ -1308,9 +1491,13 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 4 - Compete à DGEG em articulação com a entidade gestora da rede de mobilidade elétrica a gestão da realização das inspeções a que se refere o presente artigo.
 
-#### SECÇÃO III — Gestão de operações da rede de mobilidade elétrica
+SECÇÃO III
 
-###### Artigo 20.º — Atividade de gestão da rede de mobilidade elétrica
+Gestão de operações da rede de mobilidade elétrica
+
+Artigo 20.º
+
+Atividade de gestão da rede de mobilidade elétrica
 
 1 - A atividade de gestão da rede de mobilidade elétrica é exercida por entidade a indicar pelo membro do Governo responsável pela área da energia.
 
@@ -1318,7 +1505,9 @@ c) A remuneração pela prestação de serviços complementares da operação de
 
 3 - [Revogado].
 
-###### Artigo 21.º — Atribuições da entidade gestora da rede de mobilidade elétrica
+Artigo 21.º
+
+Atribuições da entidade gestora da rede de mobilidade elétrica
 
 1 - A entidade gestora da rede de mobilidade elétrica tem como objeto a gestão de operações de mobilidade elétrica, incluindo a gestão de carregamento de veículos elétricos em pontos de carregamento explorados por operadores devidamente licenciados.
 
@@ -1372,7 +1561,9 @@ z) Exercer as demais competências que lhe sejam atribuídas no presente decreto
 
 3 - As redes de pontos de carregamento de baterias de veículos elétricos no âmbito das Regiões Autónomas previstas na alínea u) do número anterior integram a rede nacional de pontos de carregamento, constituindo áreas geográficas autónomas para efeitos de liquidação de operações.
 
-###### Artigo 22.º — Organização da entidade gestora da rede de mobilidade elétrica
+Artigo 22.º
+
+Organização da entidade gestora da rede de mobilidade elétrica
 
 1 - A entidade gestora da rede de mobilidade elétrica deve ser uma entidade com autonomia nos planos jurídicos, da organização e da tomada de decisões em relação às entidades que exerçam direta ou indiretamente a atividade prevista na alínea b) do n.º 1 do artigo 5.º, e às entidades que exerçam atividades relativas ao setor elétrico de produção, transporte, distribuição e comercialização.
 
@@ -1384,7 +1575,9 @@ z) Exercer as demais competências que lhe sejam atribuídas no presente decreto
 
 5 - O disposto no n.º 1 não impede que a entidade gestora da rede de mobilidade elétrica possa ser proprietária de pontos de carregamento, cedendo a sua exploração a operadores de pontos de carregamento devidamente licenciados, mediante procedimentos concorrenciais e transparentes.
 
-###### Artigo 23.º — Deveres da entidade gestora da rede de mobilidade elétrica
+Artigo 23.º
+
+Deveres da entidade gestora da rede de mobilidade elétrica
 
 São deveres da entidade gestora da rede de mobilidade elétrica, designadamente:
 
@@ -1406,7 +1599,9 @@ h) Apresentar um relatório anual à DGEG com a identificação das necessidades
 
 i) Respeitar as disposições legais e regulamentares aplicáveis ao exercício da sua atividade.
 
-###### Artigo 24.º — Direitos da entidade gestora da rede de mobilidade elétrica
+Artigo 24.º
+
+Direitos da entidade gestora da rede de mobilidade elétrica
 
 Constituem direitos da entidade gestora da rede de mobilidade elétrica, designadamente:
 
@@ -1414,9 +1609,13 @@ a) O exercício da respetiva atividade, nos termos da legislação e da regulame
 
 b) O recebimento de remuneração que assegure, através e com dependência do pagamento das contrapartidas suportadas pelos utilizadores de veículos elétricos, operadores de pontos de carregamento e operadores detentores do registo de comercialização de eletricidade para a mobilidade elétrica, o equilíbrio económico e financeiro da atividade, em condições de uma gestão eficiente, calculado para um horizonte temporal não inferior a 15 anos, de acordo com um modelo de retorno sobre a base de ativos relevantes e de adequação da remuneração aos custos, nos termos do Regulamento da Mobilidade Elétrica aprovado pela ERSE.
 
-### CAPÍTULO III — Pontos de carregamento
+CAPÍTULO III
 
-###### Artigo 25.º — Pontos de carregamento em local público
+Pontos de carregamento
+
+Artigo 25.º
+
+Pontos de carregamento em local público
 
 1 - Os pontos de carregamento em local público de acesso público são instalados, disponibilizados, explorados e mantidos por operadores de pontos de carregamento licenciados nos termos do artigo 15.º e estão obrigatoriamente ligados à rede de mobilidade elétrica através da entidade gestora da rede de mobilidade elétrica.
 
@@ -1430,13 +1629,17 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 6 - O disposto no presente artigo aplica-se igualmente, com as necessárias adaptações, aos pontos de carregamento instalados, disponibilizados, explorados e mantidos em locais públicos com utilização privativa.
 
-###### Artigo 26.º — Pontos de carregamento em local privado de acesso público
+Artigo 26.º
+
+Pontos de carregamento em local privado de acesso público
 
 1 - Os pontos de carregamento situados em locais privados destinados ao acesso público de utilizadores de veículos elétricos são instalados, disponibilizados, explorados e mantidos por operador licenciado nos termos do artigo 15.º, estando obrigatoriamente ligados à rede de mobilidade elétrica através da entidade gestora da rede de mobilidade elétrica.
 
 2 - A instalação de pontos de carregamento no caso previsto no número anterior fica sujeita ao disposto nos n.os 1 e 2 do artigo 31.º
 
-###### Artigo 27.º — Pontos de carregamento de acesso privativo
+Artigo 27.º
+
+Pontos de carregamento de acesso privativo
 
 1 - A instalação, disponibilização, exploração e manutenção de pontos de carregamento de acesso privativo, para uso exclusivo ou partilhado, pode ficar a cargo de operadores devidamente licenciados ou dos próprios detentores, a qualquer título, do local de instalação do ponto de carregamento.
 
@@ -1446,7 +1649,9 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 4 - Os detentores do local podem carregar os veículos elétricos sem recurso a pontos de carregamento, utilizando apenas a instalação elétrica doméstica, devendo observar as regras e condições técnicas e de segurança estabelecidas nas disposições legais e regulamentares aplicáveis.
 
-###### Artigo 28.º — Pontos de carregamento em novas operações urbanísticas
+Artigo 28.º
+
+Pontos de carregamento em novas operações urbanísticas
 
 1 - As operações urbanísticas de construção de edifícios em regime de propriedade horizontal ou de outros imóveis que disponham de locais de estacionamento de veículos, devem incluir uma infraestrutura elétrica adequada para o carregamento de veículos elétricos, conceito que não inclui pontos de carregamento ou tomadas, que cumpra os requisitos e regras técnicas a aprovar.
 
@@ -1458,7 +1663,9 @@ b) O recebimento de remuneração que assegure, através e com dependência do p
 
 5 - Aplica-se à instalação, disponibilização, exploração e manutenção dos pontos de carregamento previstos no presente artigo o disposto no artigo 26.º ou no artigo 27.º, consoante aplicável.
 
-###### Artigo 29.º — Pontos de carregamento em edifícios existentes
+Artigo 29.º
+
+Pontos de carregamento em edifícios existentes
 
 1 - Sem prejuízo do disposto nos números seguintes, é admitida a instalação, por qualquer condómino, arrendatário ou ocupante legal, a expensas do próprio, de pontos de carregamento de baterias de veículos elétricos ou de tomadas elétricas que cumpram os requisitos técnicos definidos pela DGEG para o efeito de carregamento de baterias de veículos elétricos, destinados a uso exclusivo ou partilhado, nos locais de estacionamento de veículos dos edifícios já existentes, de acordo com os termos definidos por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais, da energia, das obras públicas, dos transportes e da habitação.
 
@@ -1480,7 +1687,9 @@ c) Quando a instalação do ponto de carregamento ou tomada elétrica coloque em
 
 7 - Aplica-se à instalação, disponibilização, exploração e manutenção dos pontos de carregamento previstos no presente artigo o disposto no artigo 26.º ou no artigo 27.º, consoante aplicável.
 
-###### Artigo 30.º — Condições de funcionamento
+Artigo 30.º
+
+Condições de funcionamento
 
 1 - Incumbe ao operador da rede de distribuição de eletricidade competente efetuar, a solicitação do operador de pontos de carregamento, os atos necessários à ligação dos pontos de carregamento à respetiva rede de distribuição de eletricidade e, a solicitação do respetivo comercializador de eletricidade, o correspondente início de entrega de energia.
 
@@ -1488,19 +1697,25 @@ c) Quando a instalação do ponto de carregamento ou tomada elétrica coloque em
 
 3 - O operador da rede de distribuição de eletricidade relevante deve entregar à entidade gestora da rede de mobilidade elétrica, com uma periodicidade mensal, as medições de consumo de eletricidade registadas em cada ponto de entrega dos pontos de carregamento integrados na rede de mobilidade elétrica.
 
-###### Artigo 31.º — Instalação dos pontos de carregamento e aprovação das instalações elétricas
+Artigo 31.º
+
+Instalação dos pontos de carregamento e aprovação das instalações elétricas
 
 1 - A instalação dos pontos de carregamento que não esteja prevista na realização de uma operação urbanística nos termos do artigo 28.º fica sujeita a comunicação prévia, nos termos previstos no regime jurídico da urbanização e da edificação.
 
 2 - As instalações elétricas dos pontos de carregamento, incluindo alterações às instalações existentes, ficam sujeitas a aprovação nos termos da legislação aplicável.
 
-###### Artigo 32.º — Acesso a pontos de carregamento
+Artigo 32.º
+
+Acesso a pontos de carregamento
 
 1 - Qualquer utilizador de veículos elétricos tem o direito de acesso aos pontos de carregamento de acesso público, independentemente do operador detentor de registo de comercialização de eletricidade para a mobilidade elétrica que tenha contratado para a prestação dos respetivos serviços.
 
 2 - O acesso pelo utilizador de veículos elétricos aos pontos de carregamento de acesso público fica sujeito ao pagamento do preço dos serviços utilizados e deve ser realizado com observância das regras e condições, designadamente técnicas e de segurança, estabelecidas no presente decreto-lei e legislação complementar.
 
-###### Artigo 33.º — Responsabilidade e seguro
+Artigo 33.º
+
+Responsabilidade e seguro
 
 1 - Para efeitos do disposto no artigo 509.º do Código Civil, considera-se que:
 
@@ -1522,21 +1737,31 @@ b) Os pontos de carregamento não constituem meros utensílios de uso de energia
 
 8 - [Revogado].
 
-### CAPÍTULO IV — Programa para a mobilidade elétrica
+CAPÍTULO IV
 
-###### Artigo 34.º — Rede piloto da mobilidade elétrica
+Programa para a mobilidade elétrica
 
-[Revogado].
+Artigo 34.º
 
-###### Artigo 35.º — Execução da rede piloto da mobilidade elétrica
-
-[Revogado].
-
-###### Artigo 36.º — Estratégia nacional para a mobilidade elétrica
+Rede piloto da mobilidade elétrica
 
 [Revogado].
 
-###### Artigo 37.º — Gabinete para a Mobilidade Elétrica em Portugal
+Artigo 35.º
+
+Execução da rede piloto da mobilidade elétrica
+
+[Revogado].
+
+Artigo 36.º
+
+Estratégia nacional para a mobilidade elétrica
+
+[Revogado].
+
+Artigo 37.º
+
+Gabinete para a Mobilidade Elétrica em Portugal
 
 1 - O Gabinete para a Mobilidade Elétrica em Portugal (GAMEP) tem a natureza de um grupo de trabalho que atua na dependência do membro do Governo responsável pela área da energia, cabendo-lhe a preparação e implementação do Programa para a Mobilidade Elétrica.
 
@@ -1580,31 +1805,47 @@ g) Apresentar relatórios trimensais sobre a execução das ações do GAMEP ao 
 
 7 - O apoio logístico e administrativo do GAMEP é assegurado através da DGEG.
 
-### CAPÍTULO V — Incentivos
+CAPÍTULO V
 
-###### Artigo 38.º — Incentivos financeiros
+Incentivos
 
-[Revogado]
+Artigo 38.º
 
-###### Artigo 39.º — Condições do incentivo à destruição de automóvel ligeiro em fim de vida
-
-[Revogado]
-
-###### Artigo 40.º — Controlo da documentação
+Incentivos financeiros
 
 [Revogado]
 
-###### Artigo 41.º — Controlo de destruição
+Artigo 39.º
+
+Condições do incentivo à destruição de automóvel ligeiro em fim de vida
 
 [Revogado]
 
-### CAPÍTULO VI — Regulação da atividade de gestão de operações da rede de mobilidade elétrica
+Artigo 40.º
 
-###### Artigo 42.º — Finalidade da regulação
+Controlo da documentação
+
+[Revogado]
+
+Artigo 41.º
+
+Controlo de destruição
+
+[Revogado]
+
+CAPÍTULO VI
+
+Regulação da atividade de gestão de operações da rede de mobilidade elétrica
+
+Artigo 42.º
+
+Finalidade da regulação
 
 A regulação da atividade de gestão de operações da rede de mobilidade elétrica tem por finalidade contribuir para assegurar a eficiência e a racionalidade das atividades em termos objetivos, transparentes, não discriminatórios e concorrenciais, através da sua supervisão e acompanhamento, integrada nos princípios gerais definidos no artigo 4.º
 
-###### Artigo 43.º — Incumbência da regulação
+Artigo 43.º
+
+Incumbência da regulação
 
 1 - A atividade de gestão de operações da rede de mobilidade elétrica está sujeita a regulação.
 
@@ -1612,7 +1853,9 @@ A regulação da atividade de gestão de operações da rede de mobilidade elét
 
 3 - A regulação exerce-se nos termos previstos no presente decreto-lei e respetiva legislação complementar, nos termos dos diplomas que definem as competências das entidades referidas no número anterior e, bem assim, nos termos a definir nos regulamentos e demais atos administrativos que para o efeito são aprovados pela ERSE.
 
-###### Artigo 44.º — Atribuições da regulação
+Artigo 44.º
+
+Atribuições da regulação
 
 Sem prejuízo das atribuições e competências das entidades referidas no artigo anterior, são atribuições da regulação, nomeadamente:
 
@@ -1624,9 +1867,13 @@ c) Velar pelo cumprimento, por parte dos agentes, das obrigações estabelecidas
 
 d) Contribuir para a progressiva melhoria das condições técnicas e ambientais das atividades reguladas, estimulando, nomeadamente, a adoção de práticas que promovam a existência de padrões adequados de qualidade de serviço e de defesa do meio ambiente.
 
-### CAPÍTULO VII — Regime contraordenacional
+CAPÍTULO VII
 
-###### Artigo 45.º — Infrações leves
+Regime contraordenacional
+
+Artigo 45.º
+
+Infrações leves
 
 1 - Constitui contraordenação punível com coima entre (euro) 100 e (euro) 1 000 ou entre (euro) 1 500 e (euro) 15 000, consoante seja aplicada, respetivamente, a pessoa singular ou a pessoa coletiva:
 
@@ -1650,7 +1897,9 @@ h) A violação do disposto nas alíneas a) a h) do artigo 23.º
 
 3 - A violação do disposto nos n.os 6 e 7 do artigo 17.º é punida nos termos previstos para a violação da obrigatoriedade de existência e disponibilização do livro de reclamações, nos termos do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, alterado pelos Decretos-Leis n.os [371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de novembro, [118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de maio, e [317/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), de 30 de outubro.
 
-###### Artigo 46.º — Infrações graves
+Artigo 46.º
+
+Infrações graves
 
 Constitui contraordenação punível com coima entre (euro) 300 e (euro) 3000 ou entre (euro) 4000 e (euro) 40 000, consoante seja aplicada, respetivamente, a pessoa singular ou a pessoa coletiva:
 
@@ -1676,7 +1925,9 @@ j) A violação do disposto nos n.os 2 a 5 do artigo 33.º;
 
 l) A violação do disposto nos n.os 5 e 6 do artigo 7.º
 
-###### Artigo 47.º — Regime aplicável
+Artigo 47.º
+
+Regime aplicável
 
 1 - Pela prática das contraordenações previstas nos artigos 45.º e 46.º, podem ser responsabilizadas pessoas coletivas, independentemente da regularidade da sua constituição, sociedades e associações sem personalidade jurídica, bem como os titulares dos respetivos órgãos de administração.
 
@@ -1692,9 +1943,13 @@ l) A violação do disposto nos n.os 5 e 6 do artigo 7.º
 
 7 - O produto das coimas reverte, em 40 %, para a DGEG, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, revertendo os 60 % remanescentes para o Estado.
 
-### CAPÍTULO VIII — Disposições finais e transitórias
+CAPÍTULO VIII
 
-###### Artigo 48.º — Taxas administrativas
+Disposições finais e transitórias
+
+Artigo 48.º
+
+Taxas administrativas
 
 1 - São devidas taxas pela apreciação do pedido de registo e da efetivação do registo de comercialização de eletricidade para a mobilidade elétrica e pela emissão da licença de operação de pontos de carregamento previstas no presente decreto-lei.
 
@@ -1706,7 +1961,9 @@ l) A violação do disposto nos n.os 5 e 6 do artigo 7.º
 
 5 - O valor das taxas é fixado por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 49.º — Princípio da simplificação administrativa
+Artigo 49.º
+
+Princípio da simplificação administrativa
 
 Os procedimentos administrativos realizados ao abrigo do presente decreto-lei, bem como os procedimentos administrativos conexos com os mesmos, devem realizar-se de forma a reduzir ao mínimo indispensável os encargos sobre os interessados, os procedimentos, documentos e atos que tenham de praticar ou enviar para as entidades competentes, bem como a necessidade de deslocações físicas, incluindo, designadamente, o seguinte:
 
@@ -1714,29 +1971,41 @@ a) Todos os pedidos, comunicações e notificações entre os interessados e out
 
 b) O incumprimento dos prazos previstos para a emissão de pareceres ou prática de atos não impede que o procedimento prossiga e seja decidido.
 
-###### Artigo 50.º — Balcão único eletrónico dos serviços
+Artigo 50.º
+
+Balcão único eletrónico dos serviços
 
 1 - Todos os pedidos e comunicações entre os interessados e outros intervenientes no âmbito dos procedimentos de licenciamento devem ser efetuados por meios eletrónicos, através do balcão único eletrónico dos serviços previsto no artigo 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
 
 2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível a utilização do balcão único eletrónico dos serviços, a transmissão da informação em causa pode ser efetuada por outros meios previstos na lei.
 
-###### Artigo 51.º — Constituição da sociedade gestora de operações da rede de mobilidade elétrica
+Artigo 51.º
+
+Constituição da sociedade gestora de operações da rede de mobilidade elétrica
 
 A sociedade a que se refere o n.º 1 do artigo 20.º deve ser constituída pela entidade concessionária da rede nacional de distribuição de eletricidade até 30 de abril de 2010.
 
-###### Artigo 52.º — Instalação de pontos de carregamento em edifícios novos
+Artigo 52.º
+
+Instalação de pontos de carregamento em edifícios novos
 
 As exigências a que se referem os n.os 1 e 2 do artigo 28.º aplicam-se aos controlos prévios de operações urbanísticas de construção ou reconstrução de prédios cujos procedimentos se iniciem junto dos serviços das respetivas entidades licenciadoras a partir de 1 de julho de 2010.
 
-###### Artigo 53.º — Conversão de veículos
+Artigo 53.º
+
+Conversão de veículos
 
 [Revogado].
 
-###### Artigo 54.º — Regulamentos da ERSE
+Artigo 54.º
+
+Regulamentos da ERSE
 
 Compete à ERSE aprovar, até 30 de junho de 2010, as alterações dos regulamentos relevantes referidos no artigo 59.º do [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, que sejam necessárias para a implementação do disposto no presente decreto-lei, bem como o Regulamento da Mobilidade Elétrica previsto na alínea b) do artigo 24.º
 
-###### Artigo 55.º — Alteração ao [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro
+Artigo 55.º
+
+Alteração ao [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro
 
 1 - Os artigos 34.º e 44.º do [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de junho, passam a ter a seguinte redação:
 
@@ -1852,7 +2121,9 @@ H41 - [...];
 
 H42 - [...].
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 Os painéis adicionais representados no quadro XXXV, em anexo, destinam-se a completar a indicação dada pelos sinais verticais, a restringir a sua aplicação a certas categorias de utentes da via pública, a limitar a sua validade a determinados períodos de tempo ou a indicar a extensão da via em que vigoram as prescrições e são os seguintes:
 
@@ -1892,19 +2163,25 @@ Modelo n.º 20 - [...].»
 
 2 - Os quadros XXIX e XXXV anexos ao [Decreto Regulamentar n.º 22-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-a-1998-302974), de 1 de outubro, alterado pelos Decretos Regulamentares n.os [41/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-2002-171679), de 20 de agosto, e [13/2003](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2003-693791), de 26 de junho, são alterados de acordo com o anexo II ao presente decreto-lei, que dele faz parte integrante.
 
-###### Artigo 56.º — Aplicação da lei no tempo e direito transitório sobre desmaterialização de atos e procedimentos
+Artigo 56.º
+
+Aplicação da lei no tempo e direito transitório sobre desmaterialização de atos e procedimentos
 
 O disposto no artigo 50.º produz efeitos a partir de 1 de julho de 2010, devendo até essa data assegurar-se a possibilidade de os pedidos, comunicações e notificações aí previstos se realizarem através de endereço de correio eletrónico único, criado para o efeito pela entidade licenciadora, a indicar nos sítios do Portal da Empresa.
 
-###### Artigo 57.º — Regiões Autónomas
+Artigo 57.º
+
+Regiões Autónomas
 
 1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.
 
 2 - O produto das coimas resultantes das contraordenações previstas na presente lei, aplicadas nas Regiões Autónomas, constitui receita própria destas.
 
-## ANEXO I — (a que se refere o n.º 4 do artigo 3.º)
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+(a que se refere o n.º 4 do artigo 3.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
 
 As características do dístico devem ser as seguintes:
 
@@ -1930,24 +2207,26 @@ O dístico deve ser colocado no canto inferior direito do para-brisas;
 
 Não podem ser colocados no dístico quaisquer outros caracteres ou símbolos.
 
-## ANEXO II — (a que se refere o n.º 5 do artigo 25.º e o n.º 2 do artigo 55.º)
+ANEXO II
+
+(a que se refere o n.º 5 do artigo 25.º e o n.º 2 do artigo 55.º)
 
 QUADRO XXIX
 
 H13c - Posto de abastecimento de combustível com serviço a veículos elétricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
 
 H13d - Posto de abastecimento com GPL e com serviço a veículos elétricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
 
 QUADRO XXXV
 
 Modelo 10c
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
 
 Modelo 11l
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf))](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/11100/0309603121.pdf)

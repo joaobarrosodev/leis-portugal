@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19000/0852308531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2015/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2015-70402849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49d4893eec9336b63a1a1b4a047991993dbeb2aa02ca1913ad237980e7217642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5f3523c3da540d3551e9d7ccbb92727e32612d3fe16ddc01d2d670f30c8797
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Avaliação das Instituições
 - Centro de Ensino e Língua Portuguesa
-- Pessoal Dirigente
 - Conselho de Patronos
 - Conselho Pedagógico
-- Timor Leste
 - Definição de Competências
 - Ensino Oficial
 - Ensino Português no Estrangeiro
-- Recrutamento de Pessoal
-- Avaliação das Instituições
-- Orgânica
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Gestão de Recursos Humanos
 - Escola Portuguesa de Díli
+- Estabelecimento de Ensino
+- Gestão de Recursos Humanos
+- Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
+- Pessoal não Docente
+- Recrutamento de Pessoal
+- Timor Leste
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
@@ -124,16 +124,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2013/11/28/p/dre
+- type: cites
+  target: pt:dre:174807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 39
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:28Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +270,9 @@ b) Celebrar contrato de autonomia.
 
 4 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -198,7 +280,9 @@ b) Celebrar contrato de autonomia.
 
 3 - Sem prejuízo das especificidades previstas no presente diploma, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, alterado pelos [Decretos-Leis n.os 224/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2009-489733), de 11 de setembro, e [137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -214,7 +298,9 @@ c) Um representante da Associação de Pais e Encarregados de Educação dos Alu
 
 4 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]:
 
@@ -234,7 +320,9 @@ g) [...]
 
 h) Aprovar as propostas de contratos de autonomia, nos termos do artigo 21.º-A.
 
-###### Artigo 10.º — Composição e designação
+Artigo 10.º
+
+Composição e designação
 
 1 - A direção da Escola é composta por um diretor e dois subdiretores.
 
@@ -248,7 +336,9 @@ b) Por despacho dos membros do Governo responsáveis pelas áreas dos negócios 
 
 4 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, a dirigentes superiores de 1.º e de 2.º grau, respetivamente.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O diretor tem os poderes de administração e gestão da Escola nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
 
@@ -314,7 +404,9 @@ d) [Anterior alínea c) do n.º 1].
 
 6 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que designar.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica e orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
 
@@ -334,17 +426,23 @@ c) [Revogada].
 
 6 - [Revogado].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, compete ao conselho pedagógico exercer as competências legais definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.
 
 2 - [Revogado].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Aos docentes da Escola é aplicado o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril (ECD).
 
@@ -362,13 +460,17 @@ O regulamento interno fixa, nos termos do regime jurídico referido no n.º 2 do
 
 8 - A remuneração do pessoal docente referido no número anterior é fixada nos termos do artigo 43.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, alterado pelo [Decreto-Lei n.º 146/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2013-502866), de 22 de outubro, pela [Lei n.º 80/2013](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), de 28 de novembro, e pelo [Decreto-Lei n.º 83-A/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121), de 23 de maio.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O recrutamento do pessoal para o exercício de funções não docentes na Escola é feito através de contratação local de trabalhadores, nos termos de legislação própria.
 
 2 - [Revogado].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.
 
@@ -404,7 +506,9 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 13 - [Revogado].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Ao pessoal contratado localmente para o exercício de funções docentes na Escola aplica-se a legislação da segurança social de Timor-Leste, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre Portugal e Timor-Leste.
 
@@ -414,11 +518,15 @@ d) Com seguros de saúde para si e para os membros do seu agregado familiar.
 
 4 - [Revogado].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior constante da [Lei n.º 31/2002](https://diariodarepublica.pt/dr/detalhe/lei/31-2002-405486), de 20 de dezembro, alterado pela [Lei n.º 66-B/2012](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), de 31 de dezembro.
 
@@ -426,7 +534,9 @@ O pessoal da Escola a que se referem os artigos anteriores não pode ultrapassar
 
 3 - [Revogado].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O valor das propinas é fixado pela direção e aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.»
 
@@ -466,15 +576,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil subsequente ao da su
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 18 de setembro de 2015.**
+Promulgado em 18 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de setembro de 2015.**
+Referendado em 22 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

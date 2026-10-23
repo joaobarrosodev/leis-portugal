@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0643506444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/233/2009/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2009-489690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d0f3f297b7232ceb3d7b550e34908540297102af881069814cd36a1a6e6c768
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca2ff398dfd392a43d0267851e5359b81d5c5cba05f63fe140ea98b2513c6729
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,16 @@ subjects:
 - Academia de Marinha
 - Acidente de Navegação Marítima
 - Acidente de Transporte
+- Açores
 - Aquário Vasco da GAMA
-- Sistema Nacional de Controlo de Tráfego Marítimo
-- Proteção Civil
+- Autoridade Marítima Nacional
+- Autoridade Nacional de Controlo de Tráfego Marítimo
 - BASE de Fuzileiros
 - BASE Naval de Lisboa
 - Biblioteca Central da Marinha
 - Brasão de Armas
+- Capitania
 - Centro de Comunicações
-- Tráfego Marítimo
 - Centro Naval de Ensino à Distância
 - Chefe do Estado Maior da Armada
 - Comandante
@@ -90,39 +91,38 @@ subjects:
 - Conselho do Almirantado
 - Conselho Superior da Armada
 - Conselho Superior de Disciplina da Armada
+- Cooperação Militar
 - Definição de Competências
+- Departamento Marítimo da Madeira
 - Departamento Marítimo do Centro
 - Departamento Marítimo do Norte
 - Departamento Marítimo do SUL
 - Departamento Marítimo dos Açores
-- Autoridade Marítima Nacional
-- Departamento Marítimo da Madeira
 - Diretor
-- Marinha
 - Escola da Autoridade Marítima
 - Escola de Fuzileiros
 - Escola Naval
 - Estado Maior da Armada
 - Fiscalização
+- Forças Armadas
 - Gabinete do Chefe do Estado Maior da Armada
 - Inspecção Geral
 - Instituto de Socorros a Náufragos
 - Instituto Hidrográfico
-- Autoridade Nacional de Controlo de Tráfego Marítimo
 - Junta Médica de Revisão da Armada
+- Madeira.região Autónoma
+- Marinha
 - Missão Militar
 - Museu de Marinha
-- ZONA Marítima
-- Forças Armadas
 - Orgânica
 - Planetário Calouste Gulbenkian
-- Capitania
-- Madeira.região Autónoma
-- Açores
+- Proteção Civil
+- Sistema Nacional de Controlo de Tráfego Marítimo
 - Sistema Nacional para a Busca e Salvamento Marítimo
-- Cooperação Militar
+- Tráfego Marítimo
 - Unidades de Apoio
 - Vice-chefe do Estado Maior da Armada
+- ZONA Marítima
 relationships:
 - type: amended_by
   target: pt:dre:65983262:por
@@ -148,16 +148,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+- type: cites
+  target: pt:dre:247435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65983262:por
+  label: Revogado a partir de 01.01.2015 e extintos o Gabinete do VCEMA e o Centro Naval de Ensino à Distância bem como a
+    Flotilha, sendo as suas atribuições integradas no CN, o Centro de Comunicações da Madeira, sendo as suas atribuições integradas
+    no CCDCM e os órgãos e serviços da AMN, enquanto estrutura da Marinha, sendo as suas atribuições integradas na AMN pelo(a)
+    Decreto-Lei n.º 185/2014 - Diário da República n.º 250/2014, Série I de 2014-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2014-65983262
+  date: '2014-12-29'
 article_structure:
   article_count: 45
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:59Z'
   warnings: []
   errors: []
 ---
@@ -944,15 +972,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte à sua public
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 31 de Agosto de 2009.**
+Promulgado em 31 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Agosto de 2009.**
+Referendado em 31 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Cargos de comando, direcção ou chefia de oficial general
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/162a00/43914395.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/1999/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-1999-357513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a959c2f76f287bda8170c77fcb5947a872326332fe15a071c9954d6c1bd6127
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ba26e2002c7aef63179e5e5d084ba0e9ef7d6ff68c8631cd6c5c0bca8806a7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aguardente
+- Certificado de Qualidade
+- Comércio
 - Denominação de Origem
-- Região Demarcada
 - Estatuto
 - Etiquetagem
-- Certificado de Qualidade
+- Região Demarcada
 - Região Demarcada dos Vinhos Verdes
-- Comércio
 - Vinagre
 - Vinho Verde
 relationships:
@@ -80,20 +80,50 @@ relationships:
   target: pt:dre:343091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694012:por
+  label: "Alterada a redacção do nº 2 do art. 8º, dos nºs 3 e 4 do art. 10º, da al. d) do nº 1 do art. 11º, do nº 4 do art.\
+    \ 16º e do nº 4 do art. 18º e republicados, com as presentes alterações, os Estatutos anexos ao presente diploma, pelo\
+    \ DEC LEI.449/99.1999.11.04.MADRP, DR.IS-A [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/449-1999-694012
+  date: '1999-11-04'
+- type: amended_by
+  target: pt:dre:284950:por
+  label: "Alterados os arts. 11º e 18º dos Estatutos da Região Demarcada dos Vinhos Verdes, aprovados pelo Dec Lei 10/92 de\
+    \ 03-Fev, na redacção do presente diploma e do Dec Lei 449/99 de 04-Nov, que os republicou em anexo, pelo DEC LEI.93/2006.25.05.2006.MADRP,\
+    \ DR.IS-A [101] de 25.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2006-284950
+  date: '2006-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre
+- type: cites
+  target: pt:dre:150313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:343091:por
+  label: Revogado, nos termos da al. z) do art. 23º e do nº 2 do art. 24º do Dec Lei 212/2004, de 23-Ago, pela PORT.668/2010.11.08.2010.MADRP,
+    DR.IS [155] de 11.08.2010
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/668-2010-343091
+  date: '2010-08-11'
 article_structure:
   article_count: 23
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:01Z'
   warnings: []
   errors: []
 ---
@@ -116,15 +146,15 @@ O anexo do [Decreto-Lei n.º 10/92](https://diariodarepublica.pt/dr/detalhe/decr
 
 Visto e aprovado em Conselho de Ministros de 2 de Junho de 1999. - António Manuel de Oliveira Guterres - Vítor Manuel Sampaio Caetano Ramalho - Luís Manuel Capoulas Santos.
 
-**Promulgado em 29 de Junho de 1999.**
+Promulgado em 29 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Julho de 1999.**
+Referendado em 1 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatutos da Região Demarcada dos Vinhos Verdes
 
@@ -238,7 +268,9 @@ ii) Tintas - Alicante-Bouschet, Baga, Cabernet-Sauvignon, Doçal, Doce, Espadeir
 
 4 - O rendimento em mosto que resulta da separação dos bagaços não poderá ser superior a 75 l por 100 kg de uvas, rendimento máximo que é fixado em 60 l por 100 kg de uvas para o caso dos mostos destinados à produção dos vinhos da casta Alvarinho.
 
-###### Artigo 9.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 9.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Sem prejuízo de outros valores a publicar nos termos do artigo 3.º do presente diploma, para vinhos com indicações sub-regionais, os mostos destinados à elaboração de vinho verde devem possuir um título alcoométrico volúmico natural mínimo de 7,5% vol., com excepção dos vinhos da casta Alvarinho, cujo título alcoométrico volúmico natural mínimo dos mostos destinados à sua produção será de 10% vol.
 

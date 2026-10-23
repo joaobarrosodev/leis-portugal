@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2008/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2008-456536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37d39d40c84017161cd83f7435cfcf6df1bc4b215fbd925c766ba57f03c952ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e704c0ea541dd1cc4ea623f6895cb7250977eb3866fa4b485f2ae9a3c64e36c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,16 @@ subjects:
 - Aposentação
 - Colocação de Professores
 - Dispensa de Serviço
+- Doença
+- Estabelecimento de Ensino
+- Incapacidade Física
 - Junta Médica
 - Licença sem Vencimento
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Incapacidade Física
-- Reconversão Profissional
-- Reclassificação de Pessoal
-- Regime Jurídico
 - Mobilidade de Pessoal
-- Doença
+- Pessoal Docente
+- Reclassificação de Pessoal
+- Reconversão Profissional
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:912444915:por
@@ -126,16 +126,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 34
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 29
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:11Z'
   warnings: []
   errors: []
 ---
@@ -180,9 +256,13 @@ Objecto
 
 2 - O presente decreto-lei define o regime de reclassificação e de reconversão profissionais, bem como as condições de colocação em situação de mobilidade especial, regulada pela [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, do docente declarado incapaz para o exercício das suas funções mas apto para o desempenho de outras.
 
-### CAPÍTULO III — Mobilidade especial, reclassificação e reconversão profissionais
+CAPÍTULO III
 
-###### Artigo 8.º — Incapacidade para o exercício de funções docentes
+Mobilidade especial, reclassificação e reconversão profissionais
+
+Artigo 8.º
+
+Incapacidade para o exercício de funções docentes
 
 1 - O docente declarado incapaz pela junta médica para o exercício de funções docentes, mas apto para o desempenho de outras, pode requerer a sua colocação em situação de mobilidade especial, ao abrigo da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, no prazo a que se refere o n.º 1 do artigo 9.º, ou, não o requerendo, é submetido a um processo de reclassificação ou de reconversão profissionais para diferente carreira ou categoria.
 
@@ -200,7 +280,9 @@ b) Se faça para serviço que se situe em local excluído pelos critérios defin
 
 6 - A junta médica prevista no n.º 1 funciona na dependência das direcções regionais de educação.
 
-###### Artigo 9.º — Procedimento administrativo
+Artigo 9.º
+
+Procedimento administrativo
 
 1 - ...
 
@@ -222,7 +304,9 @@ b) Se faça para serviço que se situe em local excluído pelos critérios defin
 
 10 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +320,9 @@ b) Se faça para serviço que se situe em local excluído pelos critérios defin
 
 6 - (Revogado.)
 
-###### Artigo 14.º — Aposentação
+Artigo 14.º
+
+Aposentação
 
 1 - O docente declarado incapaz para o exercício de funções docentes que não tenha solicitado a sua colocação em situação de mobilidade especial ou cuja reclassificação ou reconversão profissional não tiver sido promovida por força do disposto no n.º 6 do artigo 9.º e no n.º 5 do artigo 12.º ou que tenha recusado colocação que não careça do seu acordo, no âmbito do procedimento administrativo previsto no artigo 9.º, requer, no prazo de 20 dias e através da respectiva direcção regional de educação, a sua apresentação à junta médica da Caixa Geral de Aposentações, verificados que sejam os requisitos mínimos de tempo de serviço legalmente exigidos.
 
@@ -252,7 +338,9 @@ b) À data da decisão da Caixa Geral de Aposentações, relativamente ao docent
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 15.º — Licença sem vencimento
+Artigo 15.º
+
+Licença sem vencimento
 
 1 - O docente declarado incapaz para o exercício das suas funções pode requerer, a todo o tempo, o gozo de licença sem vencimento de longa duração, nos termos da lei geral.
 
@@ -304,15 +392,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 26 de Junho de 2008.**
+Promulgado em 26 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Junho de 2008.**
+Referendado em 27 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 224/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2006-546068), de 13 de Novembro
 

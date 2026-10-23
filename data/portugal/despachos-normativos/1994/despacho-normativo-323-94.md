@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/323/1994/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1994-255215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:16:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0398ca335c83f39925d8201a3322512b9dddcf9eb530e5763e8ae909c1724265
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d678dc84372c95c8017e8eacb54fb739ae1d6d04c8e831bfc94a343f81c8e73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:16:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,30 @@ subjects:
 - Regulamento CE
 - Subsídio a Agricultores
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECL-RECT 71/94 DE 30-MAI DR.IS-B [126]3SUPL DE 31/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-31'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUM 1, 3, 12 E 18, E ADITADA A COLZA AS CULTURAS ELEGÍVEIS COMO CULTURAS ARVENSES DE REGADIO, ENUMERADAS
+    NO NUM 6 E NA AL A) DO NUM 7, PELO DN 771/94 DE 15-NOV DR.IS-B [284] 12/JAN/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADO O NUM 32, DURANTE AS CAMPANHAS DE COMERCIALIZACAO DE 1995-1996 E 1996-1997, PELO DN 3/95 DE 21-DEZ 1994
+    DR.IS-B [17] DE 20/JAN/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-01-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA A AL B) DO NUM 19, OS NUM 22, 23, 24 E 25, OS ANEXOS V, VI, IX E OS NUM 2.1 E 2.2 DO ANEXO X, BEM COMO A
+    AL C) DO NUM 3 E A AL A) DO NUM 18 (NA REDACÇÃO DADA PELO DN 771/94 DE 10-DEZ), PELO DN 33/95 DE 16-JUN DR.IS-B [164]
+    DE 18/JUL/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-18'
 - type: cites
   target: celex:31992R1765
   label: null
@@ -135,13 +159,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:16:10Z'
   warnings: []
   errors: []
 ---
@@ -282,15 +306,15 @@ Ministério da Agricultura, 30 de Março de 1994. - Pelo Ministro da Agricultura
 
 ## ANEXO I — Categorias de rendimento das culturas arvenses em sequeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf))](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
 
 ## ANEXO II — Categorias de rendimento das culturas arvenses em regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf))](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
 
 ## ANEXO III — Categorias de rendimento na região agrária do Ribatejo e Oeste
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf))](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
 
 ## ANEXO IV
 
@@ -762,7 +786,7 @@ Concelho de Soure: freguesias de Alfarelhos, Brunhós, Figueiró do Campo, Geste
 
 ## ANEXO VIII — Disponibilidades mínimas de água para elegibilidade das culturas arvenses de regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf))](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/108b00/24152425.pdf)
 
 ## ANEXO IX — Variedades de trigo-rijo com características não colantes
 

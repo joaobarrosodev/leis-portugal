@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2006/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2006-542045
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb54cde0b62f2609262f91e2881b6c946f214872a5f5cad097e37f2b7a4e90d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0f87cab640123498e6951ea358e5fdf2be523d409dd59955473f58448cec079
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ subjects:
 - Contrato Individual de Trabalho
 - Criação de Lugares
 - Extinção de Lugares
-- Secretaria Geral
 - Presidência da República
-- Recrutamento de Pessoal
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Remuneração
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as Carreiras Gerais de Técnico Superior, bem como para a categoria de assistente técnico,\
+    \ nos termos dos arts. 2º e 4º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente\
+    \ diploma, extintas a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), e revogado\
+    \ a partir da mesma data, o art. 3º, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/1996/04/04/p/dre
   label: null
@@ -96,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1996/02/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1996/02/29/p/dre
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621340:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:36Z'
   warnings: []
   errors: []
 ---
@@ -152,21 +176,21 @@ No quadro de pessoal da Secretaria-Geral da Presidência da República, aprovado
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos.
 
-**Promulgado em 18 de Janeiro de 2006.**
+Promulgado em 18 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Janeiro de 2006.**
+Referendado em 19 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 MAPA I
 
 (a que se refere o artigo 1.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)
 
 MAPA II
 
@@ -174,10 +198,10 @@ MAPA II
 
 Conteúdo funcional do zelador do Palácio de Belém
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)
 
 MAPA III
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)](https://files.diariodarepublica.pt/1s/2006/01/018a00/05800583.pdf)

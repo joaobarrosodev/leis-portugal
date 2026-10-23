@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/18/2002/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bc471ceaa3019823bee8100acadaaea1326fd4457867903ab55d0b7babe6468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa066c5f641796560bf726a4103d2c6c23e22ff662edaabf4eb45ee55f564af0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,8 +73,8 @@ subjects:
 - Formação Profissional
 - Pensão de Invalidez
 - Pensão Social
-- Proteção ao Deficiente
 - Prestações da Segurança Social
+- Proteção ao Deficiente
 - Proteção Social
 - Regime Jurídico
 - Segurança Social
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:164427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 2.º e 5.º do Dec Lei 464/80 de 13-Out, na redacção do presente diploma, pela LEI.3-B/2010.28.04.2010.AR,\
+    \ DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/1998/01/15/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/2000/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/2000/08/08/p/dre
+- type: cites
+  target: pt:dre:239596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611899:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:23Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +165,9 @@ Os artigos 2.º e 5.º do [Decreto-Lei n.º 464/80](https://diariodarepublica.pt
 
 3 - (Redacção do anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -165,12 +189,12 @@ Relevância da frequência de acções de formação profissional na pensão soc
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Paulo José Fernandes Pedroso.
 
-**Promulgado em 9 de Janeiro de 2002.**
+Promulgado em 9 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Janeiro de 2002.**
+Referendado em 14 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

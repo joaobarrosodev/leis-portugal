@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/221/2001/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-2001-521272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 105203fa2510852ac97c15d7560112a3695503565db3c472a69fe98c9d8cd570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9645fda222da92145df3cf2d4391150f7e6d858700541c6a38a817bb00c723c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,27 +70,148 @@ subjects:
 - Amortização
 - Código do IRC
 - Código do IRS
-- IRS
 - IRC
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:66022085:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 68º e 72º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:425933:por
+  label: "Alterados os arts. 10.º e 43.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.228/2002.31.10.2002.MF, DR.IS-A [252]\
+    \ de 31.10.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2002-425933
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterados os art.s 67º e 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o art. 10.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, alterado no presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 10º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção do presente diploma,\
+    \ pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os art.s 67º, 68º, 69º e 70º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:629425:por
+  label: "Alterado o art. 10º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, e na redacção do presente diploma, pelo DEC LEI.361/2007.02.11.2007.MFAP, DR.IS [211] de 02.11.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-2007-629425
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 10.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 43.º, 68.º, 70.º, 71.º e 72.º do Código do IRC, aprovado pelo Dec Lei\
+    \ 442-B/88, de 30-Nov, na redacção do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC\
+    \ LEI.159/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterados, a partir de 01.01.2010, os arts 69º e 121.º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov,\
+    \ na redacção do presente diploma, republicado pelo presente diploma, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198]\
+    \ de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterados os arts. 10º e 43º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção constante\
+    \ do presente diploma, pela LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 10º e 43º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 117º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 67º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 10º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 43.º, 68.º, 69.º, 70.º e 71.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov,
+    alterado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 10.º e 43.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
 - type: cites
   target: celex:31990L0434
   label: null
   source: http://data.europa.eu/eli/dir/1990/434/oj
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado, a partir de 01.01.2010, o DR 2/90, de 12-Jan, na redacção do presente diploma, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:25Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +268,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 67.º — Definições e âmbito de aplicação
+Artigo 67.º
+
+Definições e âmbito de aplicação
 
 1 - Considera-se fusão a operação pela qual se realiza:
 
@@ -183,7 +306,9 @@ b) Sociedade ou sociedades de outros Estados membros da União Europeia, desde q
 
 10 - O regime especial estabelecido não se aplica, total ou parcialmente, quando se conclua que as operações abrangidas pelo mesmo tiveram como principal objectivo ou como um dos principais objectivos a evasão fiscal, o que pode considerar-se verificado, nomeadamente, nos casos em que as sociedades intervenientes não tenham a totalidade dos seus rendimentos sujeitos ao mesmo regime de tributação em IRC ou quando as operações não tenham sido realizadas por razões económicas válidas, tais como a reestruturação ou a racionalização das actividades das sociedades que nelas participam, procedendo-se então, se for caso disso, às correspondentes liquidações adicionais de imposto.
 
-###### Artigo 68.º — Regime especial aplicável às fusões, cisões e entradas de activos
+Artigo 68.º
+
+Regime especial aplicável às fusões, cisões e entradas de activos
 
 1 - Na determinação do lucro tributável das sociedades fundidas ou cindidas ou da sociedade contribuidora, no caso da entrada de activos, não é considerado qualquer resultado derivado da transferência dos elementos patrimoniais em consequência da fusão, cisão ou entrada de activos, nem são consideradas como proveitos ou ganhos, nos termos do n.º 2 do artigo 34.º, as provisões constituídas e aceites para efeitos fiscais que respeitem aos créditos, existências e obrigações e encargos objecto de transferência, com excepção das que respeitem a estabelecimentos estáveis situados fora do território português quando estes são transferidos para entidades não residentes, desde que se trate de:
 
@@ -217,7 +342,9 @@ c) As provisões que foram transferidas têm, para efeitos fiscais, o regime que
 
 8 - Quando seja aplicável o disposto no número anterior, os resultados realizados pelas sociedades a fundir ou a cindir durante o período decorrido entre a data fixada no projecto e a data da produção de efeitos jurídicos da operação são transferidos para efeitos de serem incluídos no lucro tributável da sociedade beneficiária respeitante ao mesmo período de tributação em que seriam considerados por aquelas sociedades.
 
-###### Artigo 69.º — Transmissibilidade dos prejuízos fiscais
+Artigo 69.º
+
+Transmissibilidade dos prejuízos fiscais
 
 1 - Os prejuízos fiscais das sociedades fundidas podem ser deduzidos dos lucros tributáveis da nova sociedade ou da sociedade incorporante até ao fim do período referido no n.º 1 do artigo 47.º, contado do exercício a que os mesmos se reportam, desde que seja concedida autorização pelo Ministro das Finanças, mediante requerimento dos interessados entregue na Direcção-Geral dos Impostos até ao fim do mês seguinte ao do registo da fusão na conservatória do registo comercial.
 
@@ -245,7 +372,9 @@ c) Na transferência de estabelecimentos estáveis situados em território portu
 
 10 - A limitação referida na parte final do número anterior não se aplica na medida em que importe perda do direito à dedução por aplicação do disposto no artigo 47.º
 
-###### Artigo 70.º — Regime aplicável aos sócios das sociedades fundidas ou cindidas
+Artigo 70.º
+
+Regime aplicável aos sócios das sociedades fundidas ou cindidas
 
 1 - Nos casos de fusão de sociedades a que seja aplicável o regime especial estabelecido no artigo 68.º, não há lugar, relativamente aos sócios das sociedades fundidas, ao apuramento de ganhos ou perdas para efeitos fiscais em consequência da fusão, desde que, na sua contabilidade, seja mantido quanto às novas participações sociais o valor pelo qual as antigas se encontravam registadas.
 
@@ -253,7 +382,9 @@ c) Na transferência de estabelecimentos estáveis situados em território portu
 
 3 - O preceituado nos números anteriores é aplicável, com as necessárias adaptações, aos sócios de sociedades objecto de cisão a que se aplique o regime especial estabelecido no artigo 68.º
 
-###### Artigo 71.º — Regime especial aplicável à permuta de partes sociais
+Artigo 71.º
+
+Regime especial aplicável à permuta de partes sociais
 
 1 - A atribuição, em resultado de uma permuta de partes sociais, tal como esta operação é definida no artigo 67.º, dos títulos representativos do capital social da sociedade adquirente aos sócios da sociedade adquirida não dá lugar a qualquer tributação destes últimos se os mesmos continuarem a valorizar, para efeitos fiscais, as novas partes sociais pelo valor a que as antigas se encontravam registadas, determinado de acordo com o estabelecido neste Código.
 
@@ -267,7 +398,9 @@ b) Os sócios da sociedade adquirida sejam pessoas ou entidades residentes nos E
 
 4 - As novas partes sociais referidas na parte final do n.º 1 são objecto de registo contabilístico autónomo relativamente a outras partes sociais da mesma sociedade eventualmente detidas pelos sócios.
 
-###### Artigo 72.º — Obrigações acessórias
+Artigo 72.º
+
+Obrigações acessórias
 
 1 - Para efeitos do disposto no n.º 1 do artigo 68.º, a sociedade que transfere os elementos patrimoniais por motivo de fusão ou cisão ou entrada de activos deve integrar no processo de documentação fiscal, a que se refere o artigo 121.º, os seguintes elementos:
 
@@ -287,7 +420,9 @@ c) Se for caso disso, declaração comprovativa, confirmada e autenticada pelas 
 
 4 - Para efeitos do artigo 70.º, os sócios das sociedades fundidas ou cindidas devem integrar no processo de documentação fiscal, a que se refere o artigo 121.º, uma declaração donde conste a data, identificação da operação realizada e das entidades intervenientes, número e valor nominal das partes sociais entregues e recebidas, valor por que se encontravam registadas na contabilidade as partes sociais entregues e respectivas datas de aquisição, quantia em dinheiro eventualmente recebida, nível percentual da participação detida antes e após a operação de fusão.
 
-###### Artigo 121.º — Processo de documentação fiscal
+Artigo 121.º
+
+Processo de documentação fiscal
 
 1 - ...
 
@@ -343,7 +478,9 @@ b) É aplicável, com as necessárias adaptações, o disposto no n.º 10 do art
 
 10 - O estabelecido nos n.os 8 e 9 é também aplicável, com as necessárias adaptações, relativamente à atribuição de partes, quotas ou acções, nos casos de fusão ou cisão a que seja aplicável o artigo 68.º do Código do IRC.
 
-###### Artigo 43.º — Mais-valias
+Artigo 43.º
+
+Mais-valias
 
 1 - ...
 
@@ -389,12 +526,12 @@ d) ...»
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 19 de Julho de 2001.**
+Promulgado em 19 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 2001.**
+Referendado em 26 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

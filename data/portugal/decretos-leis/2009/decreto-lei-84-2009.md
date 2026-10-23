@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06500/0207202073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84/2009/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2009-603245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20e92cc0ee4e3a9375265feb3ee4bf4fd3a5436bf05219d3275f43f8bbc72976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 798d3fabc777313821348ddfa6a8a7a61f22670202cbdd61b1ea3319665b91d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,34 +69,51 @@ reuse:
 subjects:
 - Arquivo Distrital
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Definição de Competências
 - Centro Português de Fotografia
-- Ministério da Cultura
-- Leiria
+- Definição de Competências
 - Direcção Geral dos Arquivos
+- Leiria
+- Ministério da Cultura
 - Orgânica
-- Receita Própria
+- Pessoal Dirigente
 - Porto
+- Receita Própria
 relationships:
 - type: amended_by
   target: pt:dre:552048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extingue, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, a Direcção-Geral dos Arquivos, cuja orgânica\
+    \ foi aprovada pelo Dec Lei 93/2007 de 29-Mar, alterado pelo presente diploma, pelo DEC LEI.126-A/2011.29.12.2011.PCM,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/93/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/93/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:520446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552048:por
+  label: "Revogado, a partir de 01.06.2012, o Dec Lei 93/2007, de 29-mar, na redacção do presente diploma, pelo DEC LEI.103/2012.16.05.2012.PCM,\
+    \ DR.IS [95] de 16.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2012-552048
+  date: '2012-05-16'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:26Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +150,9 @@ Os artigos 1.º, 6.º e 8.º do [Decreto-Lei n.º 93/2007](https://diariodarepub
 
 3 - Os serviços dependentes da DGARQ de âmbito nacional e regional, territorialmente deslocados da área geográfica dos serviços centrais, são serviços desconcentrados da administração central, dotados de autonomia administrativa.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -147,7 +166,9 @@ Os artigos 1.º, 6.º e 8.º do [Decreto-Lei n.º 93/2007](https://diariodarepub
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa que corresponde ao anexo iii ao presente decreto-lei, do qual faz parte integrante.
 
@@ -179,12 +200,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 23 de Março de 2009.**
+Promulgado em 23 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Março de 2009.**
+Referendado em 26 de Março de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

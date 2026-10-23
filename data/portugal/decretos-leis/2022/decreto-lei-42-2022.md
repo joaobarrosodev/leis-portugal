@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/12400/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2022/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab9502d6e95ebee9ac1198c0accba6e9c152f64a3584c9efd4056c9c03b009a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c021d9555b9d0b24ae47d24374b0a802a0998c2fd09fdd111d3c12fd62c4bf88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,33 @@ reuse:
 subjects:
 - Ajuda Alimentar
 - Ajuda Humanitária
-- Luta contra a Pobreza
-- Pobreza
-- Protecção à Família
-- Empresa
+- Apoio Extraordinário às Famílias mais Vulneráveis
 - Cidadão Estrangeiro
 - Cidadão Nacional
 - Cobrança de Impostos
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Execução Fiscal
-- Garantia do Contribuinte
 - Contribuições e Impostos
+- Empresa
+- Execução Fiscal
+- Execução por Dívidas
+- Garantia do Contribuinte
+- Insuficiência Económica
+- IRC
 - IRS
 - IVA
-- Insuficiência Económica
+- Luta contra a Pobreza
 - Pagamento a Prestações
 - Pagamento de Contribuições
-- IRC
+- Plataforma Eletrónica
+- Pobreza
 - Prestações da Segurança Social
 - Processo Tributário
 - Prorrogação de Prazo
+- Protecção à Família
 - Regime Fiscal
-- Execução por Dívidas
 - Ucrânia
-- Plataforma Eletrónica
-- Apoio Extraordinário às Famílias mais Vulneráveis
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2021/12/30/p/dre
@@ -107,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/30-d/2022/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/30-d/2022/04/18/p/dre
+- type: cites
+  target: pt:dre:176800374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181066898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213909:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:12Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +199,9 @@ b) As famílias que não sejam beneficiárias da TSEE mas em que pelo menos um d
 
 4 - Ainda para efeitos das alíneas b) dos n.os 1 e 2, são contemplados os agregados familiares em que uma das crianças é titular de abono de família do 1.º ou 2.º escalão e em que o apuramento do rendimento de referência do mesmo agregado corresponde a situações de pobreza extrema segundo os parâmetros definidos nos termos do Inquérito para as Condições de Vida e Rendimento, do Instituto Nacional de Estatística, I. P.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -239,12 +253,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de junho de 2022. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 27 de junho de 2022.**
+Promulgado em 27 de junho de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2022.**
+Referendado em 28 de junho de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115464848

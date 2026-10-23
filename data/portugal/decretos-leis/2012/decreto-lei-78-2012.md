@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2012/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2012-553957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47e176dc0ab280792d68344699eea8bd3a112120b7a28f608ead4099ded41801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67155993b6e01717154768c3b162b3dbc40ddf8503cda990ce179af471c6b864
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,77 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Biblioteca Nacional de Portugal
 - Definição de Competências
 - Diretor Geral
-- Biblioteca Nacional de Portugal
 - Orgânica
+- Pessoal Dirigente
 - Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a direção da Biblioteca Nacional de Portugal seja exercida pelo Ministro da Cultura em coordenação
+    com o Ministro da Ciência, Tecnologia e Ensino Superior em matéria de repositórios digitais pelo(a) Decreto-Lei n.º 251-A/2015
+    - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:116923610:por
+  label: Determinado que seja exercida pela Ministra da Cultura, em coordenação com o Ministro da Ciência, Tecnologia e Ensino
+    Superior, em matéria de repositórios digitais, a direção da Biblioteca Nacional de Portugual pelo(a) Decreto-Lei n.º 90/2018
+    - Diário da República n.º 216/2018, Série I de 2018-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2018-116923610
+  date: '2018-11-09'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 29.10.2019, que a direção da Biblioteca Nacional de Portugal com orgânica aprovada pelo
+    presente diploma, seja exercida pela Ministra da Cultura em coordenação com o Ministro da Ciência, Tecnologia e Ensino
+    Superior em matéria de repositórios digitais, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º
+    Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pelo Ministro da Cultura, em coordenação com a Ministra
+    da Ciência, Tecnologia e Ensino Superior em matéria de repositórios digitais, sobre a Biblioteca Nacional de Portugal
+    pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pela Ministra da Cultura a direção sobre a Biblioteca
+    Nacional de Portugal pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pela Ministra da Cultura, Juventude e Desporto,
+    em coordenação com o Ministro da Educação, Ciência e Inovação em matéria de repositórios digitais, a direção sobre a Biblioteca
+    Nacional de Portugal pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/90/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/90/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:520436:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:56Z'
   warnings: []
   errors: []
 ---
@@ -210,16 +256,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 21 de março de 2012.**
+Promulgado em 21 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de março de 2012.**
+Referendado em 22 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf)

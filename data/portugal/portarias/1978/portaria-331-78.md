@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-1978-298443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1261dfc41028a72aeb9e40154b7df3b7c7a268e86ca6c91206896fe142e08c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9b9a6d5b26c701092065ff8b2dc5c346526a0cdbfffbdabeac15652e135e77d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armas e Munições
+- Café
+- Contingentação
+- Equipamento Eletrónico
+- Fruto
+- Importação
+- Indústria de Brinquedos
+- Indústria Electrónica
+- Indústria Electrotécnica
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:595336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329468:por
+  label: Esclarecidas dúvidas suscitadas na aplicação do disposto no art. 3.º da presente portaria, pelo(a) Despacho Normativo
+    n.º 234/78 - Diário da República n.º 216/1978, Série I de 1978-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/234-1978-329468
+  date: '1978-09-19'
+- type: amended_by
+  target: pt:dre:595336:por
+  label: "Determinada a manutenção do contingentamento dos bens de consumo visados pelo presente diploma, pela PORT.143-C/79.31.03.1979.MFP,\
+    \ DR.IS [76-3SUPL] de 31.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-c-1979-595336
+  date: '1979-03-31'
+- type: cites
+  target: pt:dre:201864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404549:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:299793:por
+  label: Rectificada pela DECL.DD7565.18.08.1978.PCM, DR.IS [189] de 18.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299793
+  date: '1978-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:38:36Z'
   warnings: []
   errors: []
 ---
@@ -229,4 +264,4 @@ Veículos de rodas para recreio de crianças, tais como velocípedes, trottinett
 
 Outros brinquedos; modelos reduzidos para recreio ... 115000
 
-**O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.**
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Indústria e Tecnologia, Carlos Montês Melancia. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/1998/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1998-165664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ce12c8c0f3744c04eae1cd2380fbd99344e9fcc42b00d7892317527b86cfb50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 773672b07cfef8d2d79ef79f528e6068f3efd5241c1ac8fa9867412060d096ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Contribuições e Impostos
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
-- Veículo
-- Transporte de Mercadorias
 - Regulamento
+- Transporte de Mercadorias
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:197511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423032:por
+  label: "Alterados os arts. 3º, 6º, 9º, 19º e 20º e aditado o art. 11º-A do Regulamento aprovado pelo Dec Lei 116/94 de 03-Mai,\
+    \ DR.IS [102] e republicado pelo presente diploma, pelo DEC LEI.322/99.1999.08.12.MF, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/322-1999-423032
+  date: '1999-08-12'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterado o nº 1 do art. 8º e o nº 6 do art. 9º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo\
+    \ Dec Lei 116/94 de 03-Mai, republicado pelop resente diploma, pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o nº 2 do art. 2º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo Dec Lei 116/94 de\
+    \ 03-Mai, com a redacção do presente diploma, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo Dec Lei 116/94, de 03-Mai,\
+    \ republicado pelo presente diploma, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301]2ºSupl de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 3º e 6º do Regulamento dos Impostos de Circulação e Camionagem aprovado pelo Dec Lei 116/94 de\
+    \ 03-Mai, alterado e republicado pelo presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 6º do Regulamento dos Impostos de Circulação e Camionagem, aprovado pelo Dec Lei 116/94 de 03-Mai,\
+    \ alterado e republicado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
 - type: cites
   target: celex:31993L0089
   label: null
@@ -86,15 +124,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/116/1994/05/03/p/dre
 article_structure:
-  article_count: 36
+  article_count: 25
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:53Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +169,7 @@ Os artigos 6.º e 7.º do Decreto-Lei n.º 116/94, de 3 de Maio, passam a ter a 
 
 As competências em matéria de impostos de circulação e camionagem, com excepção das referidas no artigo 3.º, pertencem à Direcção-Geral dos Impostos.
 
-###### Artigo 7.º
+Artigo 7.º
 
 São de aplicação subsidiária aos impostos de circulação e camionagem as normas previstas no Regulamento do Imposto Municipal sobre Veículos, aprovado pelo Decreto-Lei n.º 143/78, de 12 de Junho, com excepção das que se referem aos elementos essenciais do imposto.»
 
@@ -161,7 +199,7 @@ c) Automóveis que não estejam englobados nos tipos definidos nas alíneas ante
 
 7 - ...
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O montante do imposto será determinado em função do peso bruto dos veículos, do número de eixos e do tipo de suspensão dos eixos motores.
 
@@ -179,7 +217,7 @@ a) Ao reboque correspondem dois eixos;
 
 b) Ao semi-reboque correspondem dois eixos se o peso bruto máximo, a que se refere a alínea a) do n.º 2, for igual ou inferior a 36 t, e três eixos se aquele peso bruto for superior a 36 t.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -211,7 +249,7 @@ d) ...
 
 4 - As isenções a que se referem as alíneas d) a g) do n.º 1 e d) do n.º 2 serão reconhecidas mediante despacho do director-geral dos Impostos sobre requerimento das entidades interessadas, devidamente documentado, sendo dispensado este condicionalismo relativamente a isenções reconhecidas em anos anteriores.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - A isenção do imposto será comprovada pela exibição de um impresso de modelo oficial.
 
@@ -219,23 +257,23 @@ d) ...
 
 3 - As isenções previstas nas alíneas b) do n.º 2 e a) do n.º 3 do artigo 4.º serão comprovadas pela exibição da factura ou documento equivalente.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - As taxas anuais do ICi e do ICa são as seguintes:
 
 ICi
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
+[[[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
 
 ICa
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
+[[[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
 
 2 - Os veículos sujeitos ao ICa destinados ao transporte de grandes objectos ficam sujeitos a 20% das taxas anuais estabelecidas no número anterior.
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - ...
 
@@ -243,7 +281,7 @@ ICa
 
 3 - Fora dos prazos previstos nos números anteriores, os impostos poderão ser pagos nos mesmos termos em que é pago, fora de prazo, o imposto municipal sobre veículos.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - Os impostos serão liquidados e pagos mediante a aquisição de dísticos da taxa correspondente e o preenchimento em duplicado da declaração de autoliquidação do modelo oficial.
 
@@ -263,7 +301,7 @@ b) O exemplar n.º 2, ao sujeito passivo, depois de devidamente autenticado pela
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - O cumprimento das obrigações impostas por este Regulamento será fiscalizado, em especial, pelo pessoal das Direcções-Gerais dos Impostos, das Alfândegas e dos Impostos Especiais sobre o Consumo e de Transportes Terrestres, da Guarda Nacional Republicana e da Polícia de Segurança Pública.
 
@@ -271,7 +309,7 @@ b) O exemplar n.º 2, ao sujeito passivo, depois de devidamente autenticado pela
 
 3 - ...
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - O condutor de veículos sujeitos a imposto, mesmo quando dele isentos, com excepção dos referidos no n.º 2 do artigo 5.º, será obrigatoriamente portador do exemplar referido na alínea b) do n.º 6 do artigo 9.º ou do documento comprovativo da aquisição do veículo, conforme o caso, até ao cumprimento das correspondentes obrigações no ano seguinte àquele a que respeitam.
 
@@ -281,11 +319,11 @@ b) O exemplar n.º 2, ao sujeito passivo, depois de devidamente autenticado pela
 
 4 - O condutor dos veículos sujeitos a imposto de camionagem que se encontravam sujeitos a imposto de circulação no ano civil anterior deve também fazer-se acompanhar dos documentos comprovativos do pagamento desse imposto até ao cumprimento da obrigação relativamente ao imposto de camionagem.
 
-###### Artigo 18.º
+Artigo 18.º
 
 Sempre que no processo contra-ordenacional vier a provar-se que o arguido não é o proprietário do veículo, o procedimento seguirá os seus termos contra o proprietário do veículo no momento da infracção.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Quando se verificar extravio, furto ou inutilização do exemplar referido na alínea b) do n.º 6 do artigo 9.º, poderá ser requerida, à repartição de finanças da área do domicílio fiscal da entidade interessada, certidão comprovativa da isenção ou do pagamento do imposto, a qual substituirá, para todos os efeitos, o documento respectivo.»
 
@@ -307,15 +345,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 18 de Março de 1998.**
+Promulgado em 18 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO DOS IMPOSTOS DE CIRCULAÇÃO E CAMIONAGEM
 
@@ -435,11 +473,11 @@ b) No ano do abate, os veículos cuja matrícula seja cancelada até 30 de Junho
 
 ICi
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
+[[[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
 
 ICa
 
-[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
+[[[[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)](https://files.diariodarepublica.pt/1s/1998/04/081a00/15071515.pdf)
 
 2 - Os veículos sujeitos ao ICa destinados ao transporte de grandes objectos ficam sujeitos a 20% das taxas anuais estabelecidas no número anterior.
 

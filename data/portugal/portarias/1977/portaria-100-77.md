@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05000/03400341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1977-140491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3c0f9b17f990d73ca0f0f0562c2b5eacb02b8a140f7c68f7b746ea48d71fbd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da35539cbd29db5386850c5d8db419778c3ded13a76ab275a892f96e70aed564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Estabelecimento de Ensino
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:392259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140488:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141018:por
+  label: Rectificada pela DECL.DD8109.22.03.1977.PCM, DR.IS [68] de 22.03.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-141018
+  date: '1977-03-22'
+- type: repealed_by
+  target: pt:dre:392259:por
+  label: "Revogada pela PORT.26/79.18.01.1979.MEIC, DR.IS [15] de 18.01.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/26-1979-392259
+  date: '1979-01-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:47Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +153,7 @@ Opositores na segunda fase
 
 11. Para o ano de 1977, o disposto no n.º 9 da presente portaria é exclusivamente aplicável aos seguintes grupos correspondentes dos dois ramos de ensino secundário, não havendo, portanto, correspondência entre níveis de ensino diferente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05000/03400341.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05000/03400341.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05000/03400341.pdf)
 
 III
 

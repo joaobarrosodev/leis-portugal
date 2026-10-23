@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-1982-600518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa3e555cdc698ff5d03d7c7b3e5a340e126be142a0b13214bfa7ba0982cfaf06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae34e57e45b7536efd565bf6b89346aed80a94e445987a095d5a564598c7bb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Auditoria Jurídica
+- Criação de Lugares
+- Integração de Trabalhadores
+- Ministério da Administração Interna
+- Quadro de Pessoal
+- Quadro Geral de Adidos
+relationships:
+- type: cites
+  target: pt:dre:256208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:54Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +122,4 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios das Finanças e do Plano, da Administração Interna e da Reforma Administrativa, 19 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/03100/02960296.pdf))](https://files.diariodarepublica.pt/1s/1982/02/03100/02960296.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/03100/02960296.pdf)

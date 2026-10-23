@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2003/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2003-215737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a64d68b8c8d5ec0fa61962464d18693cbdd489a1e52f41853aefce107a297f29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ff9596c6289e05798353e1fced4337fe37b308bfd6c47d588a9c51b4512eebe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Cidadão Estrangeiro
-- EEE
 - Direito de Estabelecimento
-- Livre Prestação de Serviços
+- EEE
+- Equivalência de Diplomas
 - Livre Circulação de Trabalhadores
+- Livre Prestação de Serviços
 - Qualificação Profissional
 - Regime Jurídico
-- Equivalência de Diplomas
 - Trabalhador Independente
 relationships:
 - type: amended_by
@@ -130,16 +130,21 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1
   label: null
   source: http://data.europa.eu/eli/dir/1
+- type: repealed_by
+  target: pt:dre:604779:por
+  label: "Revogado, nos termos do nº 2 do art. 55.º, pela LEI.9/2009.04.03.2009.AR, DR.IS [44] de 04.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/9-2009-604779
+  date: '2009-03-04'
 article_structure:
   article_count: 12
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:44Z'
   warnings: []
   errors: []
 ---
@@ -398,15 +403,15 @@ Quando no ordenamento jurídico nacional houver lugar a regulamentação de nova
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 11 de Março de 2003.**
+Promulgado em 11 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Março de 2003.**
+Referendado em 12 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO A — Primeira parte - Actividades relativas a categorias de experiência profissional
 
@@ -420,7 +425,7 @@ LISTA I
 
 Nomenclatura NICE (correspondentes às classes ISIC 23-40).
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 2
 
@@ -430,7 +435,7 @@ Nomenclatura NICE (correspondentes às classes ISIC 23-40).
 
 Nomenclatura NICE.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 3
 
@@ -440,7 +445,7 @@ Nomenclatura NICE.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 4
 
@@ -448,7 +453,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 LISTA II
 
@@ -456,13 +461,13 @@ LISTA II
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 LISTA III
 
 (abrangidas pela Directiva n.º [82/489/CEE](https://data.europa.eu/eli/dir/1982/489/oj?locale=pt))
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 LISTA IV
 
@@ -470,7 +475,7 @@ LISTA IV
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 LISTA V
 
@@ -480,7 +485,7 @@ a)
 
 (abrangida pela Directiva de liberalização n.º [64/224/CEE](https://data.europa.eu/eli/dir/1964/224/oj?locale=pt))
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 b)
 
@@ -488,7 +493,7 @@ b)
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 LISTA VI
 
@@ -500,7 +505,7 @@ LISTA VI
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 2
 
@@ -510,7 +515,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 3
 
@@ -518,19 +523,19 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 4
 
 [abrangida pela Directiva n.º [75/369/CEE](https://data.europa.eu/eli/dir/1975/369/oj?locale=pt) (artigo 5.º)]
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 5
 
 [abrangida pela Directiva n.º [82/470/CEE](https://data.europa.eu/eli/dir/1982/470/oj?locale=pt) (n.º 2 do artigo 6.º)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 Segunda parte - Outras actividades não abrangidas na primeira parte
 
@@ -540,7 +545,7 @@ Segunda parte - Outras actividades não abrangidas na primeira parte
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 2
 
@@ -552,7 +557,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 4
 
@@ -560,7 +565,7 @@ Nomenclatura ISIC.
 
 Nomenclatura NICE.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 5
 
@@ -572,7 +577,7 @@ Nomenclatura NICE.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 7
 
@@ -580,7 +585,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 8
 
@@ -588,7 +593,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 9
 
@@ -596,7 +601,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 10
 
@@ -604,7 +609,7 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
 11
 
@@ -612,6 +617,6 @@ Nomenclatura ISIC.
 
 Nomenclatura ISIC.
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+[[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
 
-## ANEXO B — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)
+## ANEXO B — [[[[[[[[[[[[[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)](https://files.diariodarepublica.pt/1s/2003/03/067a00/18751887.pdf)

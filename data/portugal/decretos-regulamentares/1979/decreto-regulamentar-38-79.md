@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1979-380493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c86a86ffc64c6f03021990168d6653b24c7c67a306329a63e830300d6d20fe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd37aef50b0bcb42abe63a85c773bc5845b2791d33fff14fe2cbc8a0352bc87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instalações Radioelétricas
+- Servidão Radioelétrica
+- Sintra
+relationships:
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:07Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +104,9 @@ Considerando o disposto no artigo 14.º, n.º 1, do [Decreto-Lei n.º 597/73](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As zonas confinantes com o centro radioeléctrico constituído pela estação terrena de Sintra, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As zonas confinantes com o centro radioeléctrico constituído pela estação terrena de Sintra, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do artigo 1.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º O centro radioeléctrico referido no artigo anterior situa-se em Negrais (Pêro Pinheiro) e ocupa uma área aproximada de 48280 m2, confinando com prédios cujos proprietários são a seguir indicados:
+Art. 2.º O centro radioeléctrico referido no artigo anterior situa-se em Negrais (Pêro Pinheiro) e ocupa uma área aproximada de 48280 m2, confinando com prédios cujos proprietários são a seguir indicados:
 
 a) A norte: João António Luís, morador em Arnil, Almargem do Bispo;
 
@@ -105,9 +116,9 @@ c) A nascente: Manuel António Raposo e Vicente Rossado, moradores no Casal do A
 
 d) A poente: Vicente Rossado e António Rossado (já falecido, pai de Vicente Rossado), moradores no Casal do Alfouvar, Almargem do Bispo, e João Francisco Luís, morador em Negrais, Almargem do Bispo.
 
-###### Art. 3.º A zona de libertação primária, a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), bem como o limite de 1000 m referente à zona secundária, previsto no artigo 10.º, I), do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.
+Art. 3.º A zona de libertação primária, a que alude o artigo 7.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), bem como o limite de 1000 m referente à zona secundária, previsto no artigo 10.º, I), do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.
 
-###### Art. 4.º - 1 - Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
+Art. 4.º - 1 - Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:
 
 a) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;
 
@@ -131,7 +142,7 @@ b) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou mó
 
 II) Na restante área da zona secundária, até ao afastamento de 3000 m a contar do limite do centro radioeléctrico e igualmente demarcada na planta topográfica, só será permitida a montagem de linhas aéreas de energia eléctrica de tensão composta superior a 5 kV desde que não prejudiquem o funcionamento do centro.
 
-###### Art. 5.º A Direcção-Geral de Telecomunicações dos CTT é a entidade competente para:
+Art. 5.º A Direcção-Geral de Telecomunicações dos CTT é a entidade competente para:
 
 a) Conceder as autorizações a que se faz referência nos n.os 1 e 2 do artigo anterior;
 
@@ -141,14 +152,14 @@ c) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 d) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), as multas decorrentes das infracções verificadas.
 
-###### Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.
+Art. 6.º Das decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.
 
 Carlos Alberto da Mota Pinto - José Ricardo Marques da Costa.
 
-**Promulgado em 4 de Junho de 1979.**
+Promulgado em 4 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/15300/14511452.pdf))](https://files.diariodarepublica.pt/1s/1979/07/15300/14511452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/15300/14511452.pdf)

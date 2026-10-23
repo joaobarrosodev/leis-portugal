@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/03/075a00/17151738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1995-173688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f392197d77db2892721c1e5c7ef4774ba7547fc2138046c18499325a84c3c0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e69467105fe795a9b317f0f4cb5dcd3115dfbf35a6eaaa6a041ff603c7da0c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
+- Açores
 - Adjudicação
 - Adjudicação por Concurso Público
+- Administração Pública
 - Alfândega
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
-- Região Autónoma
-- Garantia
+- Autarquia Local
 - Comissão de Análise
+- Concorrência
 - Concurso
 - Concurso Internacional
 - Concurso Público
@@ -86,27 +87,49 @@ subjects:
 - Despesas Públicas
 - Direcção Geral do Património do Estado
 - Direito Público
-- Concorrência
 - Empreitada de Obras Públicas
-- Administração Pública
+- Equipamento Informático
+- Garantia
 - GATT
 - Locação Financeira
+- Madeira.região Autónoma
 - Obras Públicas
-- Equipamento Informático
 - Organismo Autónomo
 - Pauta Aduaneira
 - Pessoa Coletiva
-- Serviço Público
 - Prestação de Serviços
-- Madeira.região Autónoma
+- Recurso
+- Região Autónoma
 - Regime Jurídico
-- Açores
-- Autarquia Local
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:374615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462032:por
+  label: "Alterada a redacção do art. 105.º, pela LEI.22/95.1995.07.18.AR DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-1995-462032
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:563036:por
+  label: "Substituída a declaração referida na al. c) do nº 1 do art. 53º pelo DEC LEI.236/95.1995.09.13.MF, DR.IS-A [212]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/236-1995-563036
+  date: '1995-09-13'
+- type: amended_by
+  target: pt:dre:430803:por
+  label: "Alterados os arts. 31.º, 32.º, 33.º, 89.º, 90.º, 92.º e 93.º pelo DEC LEI.80/96.1996.06.21.MF DR.IS-A [142]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1996-430803
+  date: '1996-06-21'
+- type: amended_by
+  target: pt:dre:522841:por
+  label: "Alterados os arts. 3º, 9º, 22º, 23º, 36º, 38º, 42º, 47º, 48º, 51º, 61º, 66º, 70º, 71º, 79º a 83º, 85º, 88º, 89º\
+    \ (na redacção do Dec Lei 80/96 de 21-Jun), 91º, 92º (na redacção do Dec Lei 80/96 de 21-Jun), 95º, 96º, 98º e 99º, bem\
+    \ como os anexos I a IV, Vi e VII e aditado o anexo VI-A pelo DEC LEI.128/98.1998.05.13.MF, DR.IS-A [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1998-522841
+  date: '1998-05-13'
 - type: cites
   target: celex:31986L0361
   label: null
@@ -139,16 +162,26 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:311259:por
+  label: "Revogado pelo DEC LEI.197/99.1999.06.08.MF,DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1999-311259
+  date: '1999-06-08'
+- type: repeals
+  target: pt:dre:582381:por
+  label: "Revoga o art. 5.º do Dec Lei 439-A/77 de 25-Out DR.IS [247]Supl\0\0"
+  source: null
+  date: '1977-10-25'
 article_structure:
   article_count: 109
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:06Z'
   warnings: []
   errors: []
 ---
@@ -581,7 +614,9 @@ b) No caso de contratos de duração indeterminada ou indeterminável, atender-s
 
 4 - Sempre que se preveja expressamente o recurso a opções, deve ser tomado como base para o cálculo do valor do contrato o total máximo possível, incluindo o recurso a opções.
 
-###### Artigo 28.º — Divisão em lotes
+###### Artigo 28.º
+
+##### Divisão em lotes
 
 1 - Sempre que a aquisição ou o fornecimento de serviços e bens idênticos ou homogéneos puder ocasionar a celebração simultânea de contratos por lotes separados, o valor a atender para efeitos do regime aplicável a cada lote é o somatório dos valores estimados dos vários lotes.
 
@@ -1479,15 +1514,15 @@ e) Os artigos 2.º, 3.º, 4.º, 5.º, 7.º, 8.º e 9.º do Decreto-Lei n.º 390/
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Walter Valdemar Pêgo Marques - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 4 de Março de 1995.**
+Promulgado em 4 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1995.**
+Referendado em 9 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Anúncio de abertura de concurso público (artigo 38.º)
 
@@ -1663,7 +1698,7 @@ b) Data limite da apresentação das candidaturas.
 
 ## ANEXO VI — Aquisição de serviços não sujeita às publicações a que se referem os n.os 1 e 4 do artigo 98.º (n.º 9 do artigo 98.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/075a00/17151738.pdf))](https://files.diariodarepublica.pt/1s/1995/03/075a00/17151738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/075a00/17151738.pdf)
 
 ## ANEXO VII — Anúncio de abertura de concurso para trabalhos de concepção [alínea a) do n.º 1 do artigo 95.º]
 

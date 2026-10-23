@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/45/2003/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/45-2003-652697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:44:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b9fea6ea3967b93973118e2af9c3df6ff2da72ff309277d7ffa18ec057fbf31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d30b2f9d6577acec12317df322041b482e41aaf99b069234577969ddedf0024
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:44:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Portugal
 - Derrama
-- Lisboa
-- Imposto de Capitais
-- IRS
-- Paquistão
 - Dupla Tributação
 - Evasão Fiscal
+- Imposto de Capitais
 - IRC
+- IRS
+- Lisboa
+- Paquistão
+- Portugal
 relationships:
+- type: amends
+  target: pt:numero:resolucao-assembleia-republica:66/2003
+  label: "Ratifica a Convenção entre a República Portuguesa e a República Islâmica do Paquistão para Evitar a Dupla Tributação\
+    \ e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, aprovados pela Resolução\
+    \ da Assembleia da República n.º 66/2003, em 29 de Maio de 2003, DR.IS-A [177] \0\0"
+  source: null
+  date: '2003-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/66/2003/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/66/2003/08/02/p/dre
+- type: cites
+  target: pt:dre:652696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:44:34Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +110,16 @@ validation:
 
 de 2 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a Convenção entre a República Portuguesa e a República Islâmica do Paquistão para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Matéria de Impostos sobre o Rendimento e respectivo Protocolo, assinados em Lisboa em 23 de Junho de 2000, aprovados pela [Resolução da Assembleia da República n.º 66/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/66-2003-652696), em 29 de Maio de 2003.
 
-**Assinado em 16 de Julho de 2003.**
+Assinado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 2003.**
+Referendado em 23 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5efe6ca27d51f17198f98a53889b8160b2fa3a2ff8df8ea5f38ff57b48695da3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dc83a848f96041b13284ee3bf445a70d564f37fdf3355cb8c0a53b7136e4975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,34 @@ reuse:
 subjects:
 - Comissão Nacional de Acesso ao Ensino Superior
 - Definição de Competências
-- Prova de Ingresso
+- Ensino Superior
 - Estabelecimento de Ensino
+- Prova de Ingresso
 - Prova Geral de Acesso
 - Regime Jurídico
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:211844897:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517468:por
+  label: "Alterado o art. 21.&#186; do Dec Lei 296-A/98, de 25-Set, na redac&#231;&#227;o do presente diploma, pelo DEC LEI.158/2004.30.06.2004.MCES,\
+    \ DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2004-517468
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:517833:por
+  label: "Alterado o art. 27º do Dec Lei 296-A/98 de 25-Set , com a redacção conferida no presente diploma, pelo DEC LEI.45/2007.23.02.2007.MCTES,\
+    \ DR.IS [39] de 23.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2007-517833
+  date: '2007-02-23'
+- type: amended_by
+  target: pt:dre:448963:por
+  label: "Alterados os arts. 20º, 20º-A, 21º, 22º, 23º e 26º do Dec Lei 296-A/98, de 25-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.90/2008.30.05.2008.MCTES, DR.IS [104] de 30.05.2008, que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2008-448963
+  date: '2008-05-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/1996/04/04/p/dre
   label: null
@@ -97,16 +115,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 63
+  article_count: 52
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:00Z'
   warnings: []
   errors: []
 ---
@@ -183,13 +225,17 @@ Fornecimento de informações
 
 A Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à CNAES as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura.
 
-###### Artigo 18.º — Elenco de provas de ingresso
+Artigo 18.º
+
+Elenco de provas de ingresso
 
 1 - O elenco de provas de ingresso é fixado pela CNAES, sob proposta das instituições de ensino superior.
 
 2 - O elenco de provas de ingresso pode ser organizado em subelencos por áreas de estudo.
 
-###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso
+Artigo 20.º
+
+Provas para ingresso em cada par estabelecimento/curso
 
 1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.
 
@@ -201,7 +247,9 @@ A Direcção-Geral do Ensino Superior, os serviços competentes do Ministério d
 
 5 - A solicitação fundamentada do órgão legal e estatutariamente competente do estabelecimento de ensino superior, a CNAES pode autorizar que, para determinados pares estabelecimento/curso, o número de elencos a que se refere o número anterior seja elevado até um máximo de seis.
 
-###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso
+Artigo 21.º
+
+Competências da CNAES em matéria de provas de ingresso
 
 1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:
 
@@ -219,7 +267,9 @@ f) [Anterior alínea g).]
 
 2 - ...
 
-###### Artigo 22.º — Pré-requisitos
+Artigo 22.º
+
+Pré-requisitos
 
 1 - ...
 
@@ -229,7 +279,9 @@ f) [Anterior alínea g).]
 
 4 - Os regulamentos dos pré-requisitos estão sujeitos a homologação pela CNAES e são publicados na 2.ª série do Diário da República.
 
-###### Artigo 23.º — Coordenação
+Artigo 23.º
+
+Coordenação
 
 ...
 
@@ -243,13 +295,17 @@ d) ...
 
 e) Fixar o respectivo calendário geral de regulamentação, realização e certificação em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação.
 
-###### Artigo 25.º — Classificações mínimas
+Artigo 25.º
+
+Classificações mínimas
 
 1 - As classificações mínimas a que se referem as alíneas a) e c) do artigo anterior são fixadas anualmente pelo órgão legal e estatutariamente competente de cada estabelecimento de ensino superior para cada um dos seus cursos.
 
 2 - A classificação mínima a que se refere a alínea a) do artigo anterior é fixada num valor igual ou superior a 95 pontos na escala de 0 a 200.
 
-###### Artigo 26.º — Seriação
+Artigo 26.º
+
+Seriação
 
 1 - A seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:
 
@@ -269,7 +325,9 @@ c) A classificação dos pré-requisitos de seriação, quando exigidos, com um 
 
 6 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.
 
-###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público
+Artigo 27.º
+
+Candidatura aos cursos ministrados em estabelecimentos de ensino superior público
 
 1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pela Direcção-Geral do Ensino Superior com a colaboração dos serviços regionais do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.
 
@@ -279,7 +337,9 @@ c) A classificação dos pré-requisitos de seriação, quando exigidos, com um 
 
 4 - ...
 
-###### Artigo 32.º — Composição
+Artigo 32.º
+
+Composição
 
 ...
 
@@ -301,7 +361,9 @@ h) [Anterior alínea i).]
 
 i) [Anterior alínea j).]
 
-###### Artigo 35.º — Fornecimento de informações
+Artigo 35.º
+
+Fornecimento de informações
 
 A Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à Comissão as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura.»
 
@@ -347,7 +409,9 @@ b) Fixar as regras para a conversão de classificações a que se refere o n.º 
 
 8 - As decisões a que se referem os n.os 3, 6 e 7 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.
 
-###### Artigo 47.º — Disposição transitória
+Artigo 47.º
+
+Disposição transitória
 
 A classificação final do ensino secundário dos cursos já extintos não é objecto de novo cálculo nos termos do n.º 2 do artigo 26.º, sendo apenas convertida para a escala de 0 a 200.»
 
@@ -373,15 +437,15 @@ Em anexo ao presente diploma procede-se à republicação do [Decreto-Lei n.º 2
 
 Visto e aprovado em Conselho de Ministros de 7 de Novembro de 2002. - José Manuel Durão Barroso - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - José David Gomes Justino - Pedro Lynce de Faria - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 27 de Janeiro de 2003.**
+Promulgado em 27 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Janeiro de 2003.**
+Referendado em 29 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481)
 

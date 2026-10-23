@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2024/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2024-898378508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb267eb53323715106e3d2b79a118421be564c8ab9829c13d382e408c618264b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9c1c6f62b408ebce12ca5b8aa22d09588cda20666b66fe8e2b2e7f68757c3a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Autoridade Nacional de Comunicações
 - Comunicações Eletrónicas
-- União Europeia
-- Televisão Digital Terrestre
+- Operador de Rede de Comunicações Eletrónicas
+- Rede Móvel de Comunicações Eletrónicas
 - Regulamento CE
 - Telemóvel
 - Televisão
-- Televisão por Satélite
+- Televisão Digital Terrestre
 - Televisão por CABO
-- Autarquia Local
-- Autoridade Nacional de Comunicações
-- Operador de Rede de Comunicações Eletrónicas
-- Rede Móvel de Comunicações Eletrónicas
+- Televisão por Satélite
+- União Europeia
 relationships:
 - type: cites
   target: celex:32018L1972
@@ -116,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1421/2004/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1421/2004/11/23/p/dre
+- type: cites
+  target: pt:dre:176339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187481298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:35Z'
   warnings: []
   errors: []
 ---
@@ -398,7 +430,7 @@ i) O Património Cultural, I. P.
 
 3 - A sanção a que se referem os números anteriores é fixada segundo critérios de razoabilidade e de proporcionalidade, atendendo ao volume de negócios do infrator, realizado no ano civil anterior, e ao impacto negativo causado no mercado e nos utilizadores pelo incumprimento, podendo o seu montante diário oscilar entre € 2 000 e € 100 000.
 
-4 - Os montantes fixados nos termos dos n.<sup>os</sup>2 e 3 podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar o montante máximo de € 3 000 000 e um período máximo de 30 dias seguidos.
+4 - Os montantes fixados nos termos dos n.os2 e 3 podem ser variáveis para cada dia de incumprimento no sentido crescente, não podendo ultrapassar o montante máximo de € 3 000 000 e um período máximo de 30 dias seguidos.
 
 ###### Artigo 18.º — Contraordenações
 
@@ -412,17 +444,17 @@ c) O incumprimento das obrigações previstas nas alíneas a), c) e d) do n.º 1
 
 d) O incumprimento da obrigação prevista na alínea b) do n.º 1 do artigo 4.º, bem como o incumprimento das condições impostas na autorização municipal;
 
-e) A violação das obrigações de comunicação aos municípios previstas nos n.<sup>os</sup>2 e 3 do artigo 7.º, nos prazos estabelecidos nessas normas;
+e) A violação das obrigações de comunicação aos municípios previstas nos n.os2 e 3 do artigo 7.º, nos prazos estabelecidos nessas normas;
 
 f) A realização de intervenções em espaço público sem acompanhamento policial, quando considerado indispensável para a gestão de tráfego ou para a segurança de pessoas e bens e comunicado pelo município nos termos previstos no n.º 4 do artigo 7.º;
 
 g) O não cumprimento das obrigações de informação previstas no artigo 14.º, nos termos e prazos estabelecidos pela entidade que solicita a informação;
 
-h) O incumprimento dos deveres de correção de irregularidades ou remoção dos equipamentos instalados, impostas pela ANACOM ou pelos municípios, nos prazos previstos nos n.<sup>os</sup>1 e 2 do artigo 16.º;
+h) O incumprimento dos deveres de correção de irregularidades ou remoção dos equipamentos instalados, impostas pela ANACOM ou pelos municípios, nos prazos previstos nos n.os1 e 2 do artigo 16.º;
 
 i) O incumprimento da determinação de relocalização emitida pelos municípios, nos termos do n.º 5 do artigo 16.º;
 
-j) O incumprimento das obrigações previstas no n.º 6 do artigo 21.º e nos n.<sup>os</sup>1, 2 e 6 do artigo 22.º, nos prazos estabelecidos nessas normas.
+j) O incumprimento das obrigações previstas no n.º 6 do artigo 21.º e nos n.os1, 2 e 6 do artigo 22.º, nos prazos estabelecidos nessas normas.
 
 2 - São contraordenações muito graves as previstas nas alíneas a), b), c), g), h), e j) do número anterior.
 
@@ -484,9 +516,9 @@ Compete à ANACOM apresentar à Comissão Europeia o relatório previsto no [Reg
 
 ###### Artigo 22.º — Disposições finais
 
-1 - No prazo máximo de 45 dias a contar da entrada em vigor do presente decreto-lei, as entidades referidas no artigo 2.º do [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de maio, que detenham ou que estejam incumbidas da gestão de infraestruturas aptas ao alojamento de pontos de acesso sem fios de área reduzida, devem assegurar a inclusão no SIIA da informação relativa às condições de acesso e utilização das mesmas, por parte das empresas de comunicações eletrónicas, observando o disposto nos n.<sup>os</sup>3 e 4 do artigo 2.º
+1 - No prazo máximo de 45 dias a contar da entrada em vigor do presente decreto-lei, as entidades referidas no artigo 2.º do [Decreto-Lei n.º 123/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2009-608758), de 21 de maio, que detenham ou que estejam incumbidas da gestão de infraestruturas aptas ao alojamento de pontos de acesso sem fios de área reduzida, devem assegurar a inclusão no SIIA da informação relativa às condições de acesso e utilização das mesmas, por parte das empresas de comunicações eletrónicas, observando o disposto nos n.os3 e 4 do artigo 2.º
 
-2 - As entidades referidas no número anterior devem assegurar a inclusão no SIIA da informação georreferenciada relativa às infraestruturas aptas ao alojamento de pontos de acesso sem fios de área reduzida que detêm ou exploram no prazo de 20 dias úteis a contar da data da entrada em vigor da decisão da ANACOM que adapta a lista de objetos cadastrais e respetivos elementos de caracterização para permitir o registo das indicadas infraestruturas aptas, observando o disposto nos n.<sup>os</sup>3 e 4 do artigo 2.º
+2 - As entidades referidas no número anterior devem assegurar a inclusão no SIIA da informação georreferenciada relativa às infraestruturas aptas ao alojamento de pontos de acesso sem fios de área reduzida que detêm ou exploram no prazo de 20 dias úteis a contar da data da entrada em vigor da decisão da ANACOM que adapta a lista de objetos cadastrais e respetivos elementos de caracterização para permitir o registo das indicadas infraestruturas aptas, observando o disposto nos n.os3 e 4 do artigo 2.º
 
 3 - A ANACOM deve aprovar as alterações aos regulamentos referidos no n.º 3 do artigo 6.º no prazo de 180 dias após a entrada em vigor do presente decreto-lei.
 
@@ -498,12 +530,14 @@ Compete à ANACOM apresentar à Comissão Europeia o relatório previsto no [Reg
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2024. - Luís Montenegro -Joaquim Miranda Sarmento - Manuel Castro Almeida - Nuno Melo - Margarida Blasco - Ana Paula Martins - Miguel Martinez de Castro Pinto Luz - Maria da Graça Carvalho - Dalila Rodrigues.
 
-**Promulgado em 16 de outubro de 2024.**
+Promulgado em 16 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2024.**
+Referendado em 17 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118393249

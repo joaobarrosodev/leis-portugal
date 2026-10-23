@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/154a00/29482950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/2000/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2000-301019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0ec7ff341fccd25831edc3addee9ed31ff22e7e69bac2bc4c98f1b2a64e63f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615fe266a70d56c79d8cb0acb06065eab1cee0ba6ae5a76102da0722e73a1fff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - ÁGUA Potável
 - Alter do CHÃO
 - Arronches
 - Avis
 - Campo Maior
 - Castelo de VIDE
-- Saneamento Básico
 - Crato
 - Elvas
 - Fronteira.povoação
 - Gavião
 - Monforte
 - Nisa
-- Proteção do Ambiente
 - Ponte de Sor
 - Portalegre
+- Proteção do Ambiente
+- Saneamento Básico
 - Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Norte Alentejano
-- Abastecimento de Água
 - Sousel
 - Tratamento de ÁGUA
 relationships:
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348947:por
+  label: Revogado, a partir de 30.06.2015, pelo(a) Decreto-Lei n.º 94/2015 - Diário da República n.º 104/2015, Série I de
+    2015-05-29; e extinto, a partir da referida data, nos termos do disposto no n.º 2 do art. 2.º daquele diploma, o Sistema
+    multimunicipal de abastecimento de água e saneamento do Norte Alentejano, criado pelo presente, por agregação com o Sistema
+    multimunicipal de abastecimento de água e de saneamento do Alto Zêzere e Côa, com o Sistema multimunicipal de saneamento
+    da Costa do Estoril, com o Sistema multimunicipal de saneamento de águas residuais da península de Setúbal, com o Sistema
+    multimunicipal de saneamento do Tejo e Trancão, com o Sistema multimunicipal de abastecimento de água e de saneamento
+    de Raia, Zêzere e Nabão, com o Sistema multimunicipal de abastecimento de água e de saneamento do Oeste, e com o Sistema
+    multimunicipal de abastecimento de água e de saneamento do Centro Alentejo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2015-67348947
+  date: '2015-05-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:04Z'
   warnings: []
   errors: []
 ---
@@ -191,12 +223,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 3 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado a 15 de Junho de 2000.**
+Promulgado a 15 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

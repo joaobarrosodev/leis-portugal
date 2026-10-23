@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/366/2007/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-2007-629422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34190ce4ebd0861fe716667b9e9583ffa23d51c439b68f6ccc4e892c23c86492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df9e4ab6377a76c22695fafe567f3944571df1376693c13f62362df15db8bfcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Domínio Público Aeroportuário
 - ILHA das Flores
 - NAV Portugal
 - Santa CRUZ das Flores
-- Açores
 - Transferência Patrimonial
 relationships: []
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:01Z'
   warnings: []
   errors: []
 ---
@@ -116,16 +116,16 @@ A Navegação Aérea de Portugal - NAV Portugal, E. P. E., procede ao abate, nos
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 19 de Outubro de 2007.**
+Promulgado em 19 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21100/0798607987.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21100/0798607987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21100/0798607987.pdf)

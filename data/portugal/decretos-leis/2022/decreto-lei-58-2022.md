@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17400/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2022/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2022-200789571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25eabff568a2222068099682216d554e27a546f089305cf5a42d23f35c16f1c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be795aef9792d2eaed37267abeaa328d93b6d55ebe6e3efe6fcfe2df1f7f0de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Telefone
 - Definição de Competências
 - Diretor Geral
-- Ministério da Justiça
 - Estabelecimento Prisional
+- Ministério da Justiça
 - Recluso
 - Regulamento
+- Telefone
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/51/2011/04/11/p/dre
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2017/08/23/p/dre
+- type: cites
+  target: pt:dre:108038373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122393532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:39Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +167,9 @@ Os artigos 132.º, 135.º, 185.º, 209.º, 210.º e 234.º do Regulamento Geral 
 
 7 - O diretor-geral fixa, por despacho, os termos de utilização dos telefones, nomeadamente os horários e a duração máxima das chamadas telefónicas, com base nas condições técnicas e no número de aparelhos telefónicos existentes nos estabelecimentos prisionais.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -163,7 +177,9 @@ Os artigos 132.º, 135.º, 185.º, 209.º, 210.º e 234.º do Regulamento Geral 
 
 3 - As cabinas telefónicas instaladas nas áreas comuns são colocadas em local que permita o controlo visual permanente e, quando necessário, o controlo presencial.
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -171,7 +187,9 @@ Os artigos 132.º, 135.º, 185.º, 209.º, 210.º e 234.º do Regulamento Geral 
 
 3 - O diretor-geral pode autorizar e definir os termos e horários em que os reclusos em regime aberto no interior, alojados em unidades situadas fora do perímetro do estabelecimento prisional, podem ter consigo e utilizar telemóvel.
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - O diretor do estabelecimento prisional pode autorizar o recluso, a expensas deste, a efetuar três telefonemas por semana em telefone da rede fixa, com duração não superior a 10 minutos cada.
 
@@ -185,7 +203,9 @@ Os artigos 132.º, 135.º, 185.º, 209.º, 210.º e 234.º do Regulamento Geral 
 
 6 - [...].
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 1 - O recluso, sempre que o solicite e a expensas suas, pode contactar diariamente por telefone o seu advogado ou solicitador.
 
@@ -195,7 +215,9 @@ Os artigos 132.º, 135.º, 185.º, 209.º, 210.º e 234.º do Regulamento Geral 
 
 4 - Para efeitos do disposto no presente artigo, o recluso indica previamente o número de telefone do advogado ou solicitador, o qual é registado no diário de ocorrências.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - [...]
 
@@ -225,12 +247,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de agosto de 2022. - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro.
 
-**Promulgado em 1 de setembro de 2022.**
+Promulgado em 1 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de setembro de 2022.**
+Referendado em 6 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115669024

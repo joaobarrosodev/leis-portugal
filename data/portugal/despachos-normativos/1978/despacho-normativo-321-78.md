@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/321-1978-326535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 614f216d6c0d5a0a05b4b888ed24be7c50439c9b03d8e8a4a48627c33bc8a4a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab52e1445b6c8cc8effceafeae2094e388723cd5f777d33932c1c179ddb88a50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Água
+- Água Mineral
+- Comércio
+- Margens de Comercialização
+- Política de Preços
+- Preço
+- Preço Máximo
+relationships:
+- type: cites
+  target: pt:dre:141043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:19Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +108,7 @@ Ao abrigo do disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](htt
 
 1.º Os preços máximos de venda pelo fabricante/distribuidor ao retalhista, os preços máximos de venda ao público e as margens máximas de comercialização do retalhista nas transacções de águas de mesa e mineromedicinais são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/27900/25622562.pdf))](https://files.diariodarepublica.pt/1s/1978/12/27900/25622562.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/27900/25622562.pdf)
 
 2.º As margens máximas de comercialização e os preços máximos de venda ao público, fixados no número anterior, referem-se somente à venda de águas de mesa e mineromedicinais para consumo fora do estabelecimento, nos termos do disposto no n.º 4.º da [Portaria n.º 144/77](https://diariodarepublica.pt/dr/detalhe/portaria/144-1977-141043), de 19 de Março.
 

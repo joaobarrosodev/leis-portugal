@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-1983-310403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:36:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fce7dc61ac6a73b406765c7fb92c4fbcd7d1e201ae3e034d9fbe3920957b3559
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 487aa85f944776ad9d869d74943886f53da7d324c521354aa5687e5a8c4121d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:36:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Margens de Comercialização
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:442315:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453832:por
+  label: "Alterado o n.º 1 do n.º 2.º pela PORT.776/83.23.07.1983.MFP, DR.IS [168] de 23.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/776-1983-453832
+  date: '1983-07-23'
+- type: cites
+  target: pt:dre:378154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627020:por
+  label: "Revogado o n.º 12.º pela PORT.714-C/83.23.06.1983.MFP, DR.IS [142]Supl de 23.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-c-1983-627020
+  date: '1983-06-23'
+- type: repealed_by
+  target: pt:dre:442315:por
+  label: "Revogada pela PORT.884/83.21.09.1983.MFP, DR.IS [218] de 21.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1983-442315
+  date: '1983-09-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:36:26Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +237,7 @@ Leite esterilizado magro ... 0,5%
 
 12.º - 1 - Os preços máximos de leite pasteurizado para utilizar fora do local de aquisição, no continente, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
 
 2 - Aos preços fixados no número anterior para a venda ao público poderá acrescer a importância de $50 por embalagem vendida para consumo fora da localidade onde se situam as instalações de tratamento, revertível para o centro de tratamento se efectuar a distribuição até ao retalho, ou para o retalhista, se abastecer no centro de tratamento.
 
@@ -223,7 +257,7 @@ Leite esterilizado magro ... 0,5%
 
 15.º - 1 - Os preços máximos, no continente, do leite ultrapasteurizado de fabrico continental para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
 
 2 - Aos centros de tratamento é concedido um diferencial de $50 por litro para distribuição do leite até ao retalho, a suportar pelo Fundo de Abastecimento.
 
@@ -233,7 +267,7 @@ Leite esterilizado magro ... 0,5%
 
 16.º - 1 - Os preços máximos de leite esterilizado de fabrico nacional para utilizar fora do local de aquisição são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
 
 2 - Aos centros de tratamento é concedido um diferencial de $50 por litro para distribuição do leite até ao retalho, a suportar pelo Fundo de Abastecimento.
 
@@ -249,7 +283,7 @@ Leite esterilizado magro ... 0,5%
 
 19.º - 1 - Os subsídios a atribuir, por litro, aos vários tipos de leite para consumo em natureza serão suportados pelo Fundo de Abastecimento e constam do seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06100/09010904.pdf)
 
 2 - Os subsídios referidos no número anterior serão liquidados directamente pela Junta Nacional dos Produtos Pecuários às entidades que procedam ao tratamento daqueles tipos de leite para consumo em natureza.
 
@@ -311,4 +345,4 @@ Lista anexa a que se refere o n.º 5.º da Portaria n.º 280/83
 
 9) Equipamento de recuperação de calor do sistema de refrigeração.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Produção Agrícola, José Vicente Carvalho Cardoso. - O Secretário de Estado do Comércio, António Escaja Gonçalves.

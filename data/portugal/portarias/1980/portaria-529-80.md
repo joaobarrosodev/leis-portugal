@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/529-1980-471118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84fad1687cd4e9df4086a7608905121a0bef610a9ab57ada0d3dde7f50b43bb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f8109bbd1a9501b1a6c006e3e239f15d03cfa38ba273fa1493fae0a197752a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto da Família e Acção Social
+- Ministério dos Assuntos Sociais
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:540427:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:390379:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.45/81.1981.01.15.MAS, DR.IS [12] de 15/Jan/1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-1981-390379
+  date: '1980-12-23'
+- type: amended_by
+  target: pt:dre:577909:por
+  label: "Alterado o quadro de pessoal pela PORT.744/81.29.08.1981.MAS, DR.IS [198] de 29.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-1981-577909
+  date: '1981-08-29'
+- type: amended_by
+  target: pt:dre:601489:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.88/82.1982.01.20.MFP, DR.IS [16] de 20/Jan/1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/88-1982-601489
+  date: '1981-10-30'
+- type: amended_by
+  target: pt:dre:540427:por
+  label: "Alterado o quadro de pessoal pela PORT.5/83.1983.01.03.MAS DR.IS [1]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/5-1983-540427
+  date: '1983-01-03'
+- type: cites
+  target: pt:dre:156832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470378:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:51Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +125,6 @@ Ao abrigo do disposto no n.º 2 do artigo 25.º do [Decreto-Lei n.º 519-Q2/79](
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, alterar o quadro de pessoal do Instituto da Família e Acção Social, aprovando o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/19000/22492251.pdf))](https://files.diariodarepublica.pt/1s/1980/08/19000/22492251.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/19000/22492251.pdf)
 
 Ministério dos Assuntos Sociais, 5 de Agosto de 1980. - O Ministro dos Assuntos Sociais, João António Morais Leitão.

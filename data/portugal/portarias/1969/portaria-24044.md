@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24044-1969-530258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ded49dfd91f856300ef6c5c7e0b6d36b7fb9fc933f3b815cf1e9c223f5e20a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4530c63a10f9330f29b250244bde6f8dfb38ed5138f7651b9cc4b7b459dd22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504301:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:58Z'
   warnings: []
   errors: []
 ---
@@ -277,7 +289,7 @@ A Terra. - Sua forma; o equador e os pólos. Continentes e oceanos. As ilhas. Le
 
 Portugal. - Territórios e populações de que se compõem. Comparação das grandezas desses territórios; comunicação entre eles por terra, mar e ar.
 
-##### Divisão dos territórios metropolitano (continental e insular) e ultramarino em distritos e províncias. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cachau, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomáti; Mandovi; sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água, com referência a centrais hidroeléctricas; comunicações).
+Divisão dos territórios metropolitano (continental e insular) e ultramarino em distritos e províncias. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cachau, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Save, Limpopo, Incomáti; Mandovi; sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água, com referência a centrais hidroeléctricas; comunicações).
 
 Os acidentes orográficos mais importantes e sua localização (serras do Gerês, Barroso, Marão, Montemuro, Caramulo, Estrela; Pico do Fogo; Pico de S. Tomé, Canganza, Tala-Mugongo e Chela; Namúli, Gorongosa; Gates; Ramelau; planície alentejana; planaltos de Malanje, Lunda, Benguela, Bié e Huíla; planalto de Manica). Ideia sumária da relação entre a orografia e a riqueza agro-pecuária e florestal.
 
@@ -463,7 +475,7 @@ Desenvolvimento do vocabulário pelo uso de sinónimos e antónimos de vocábulo
 
 Determinação de famílias de palavras. Exercícios frequentes de exposição oral.
 
-##### Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, nome predicativo do sujeito (só com verbos «ser» e «estar») e o complemento directo. Distinção prática dos tempos dos verbos. Uso espontâneo dos tempos compostos.
+Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, nome predicativo do sujeito (só com verbos «ser» e «estar») e o complemento directo. Distinção prática dos tempos dos verbos. Uso espontâneo dos tempos compostos.
 
 Noções elementares de morfologia: substantivo, adjectivo, artigo, pronome, numeral, verbo, advérbio, substantivo próprio, comum e colectivo. Verificação prática dos graus dos adjectivos. O comparativo. Superlativo absoluto composto. Superlativos absolutos simples regulares. O singular e o plural, o masculino e o feminino dos substantivos e dos adjectivos. Numerais: cardinais e ordinais.
 
@@ -543,13 +555,13 @@ A pouco e pouco, concretizando sempre, se introduzirão as formas do plural dos 
 
 Depois dos nomes, virão as qualidades que lhes possamos atribuir: bonito, feio, alto, baixo, comprido, curto, grande, pequeno, sujo, limpo, quente, frio, etc. - qualidades sempre associadas aos objectos observados e tocados e formando as respectivas frases, com a introdução, já, dos demonstrativos esse, essa, este, esta, aquela, aquele, seguindo a ordenação já indicada para os nomes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf))](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
 
 Todas estas frases serão aprendidas em algumas semanas, havendo o cuidado de rever, com frequência, o vocabulário e as frases aprendidas anteriormente. Não deve haver pressas. O professor exercerá estreita vigilância, cuidando da correcção da pronúncia e estimulando os alunos para que em todas as ocasiões apenas usem a língua portuguesa; mas, necessàriamente, nunca recorrerá a processos humilhantes de censura ou castigo, pois têm perniciosa influência no espírito dos aprendizes.
 
 Depois de um período variável, conforme o grau de conhecimento dos alunos, começará a introdução das palavras-acções, devidamente concretizadas pelo professor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf))](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
 
 Todas as acções serão «representadas» pelo professor e pelos alunos. Pronúncia e acção simultâneas. E desta maneira, vagarosamente, e seguindo a técnica usada até aqui, irá sendo aumentado progressivamente o vocabulário. Exercícios eficazes que convém realizar são os de dar ordens para cumprimento e de exigir, depois, que se descreva a acção realizada:
 
@@ -787,7 +799,7 @@ Circulo e circunferência. O raio.
 
 Ângulos formados por dois raios.
 
-##### Divisão da circunferência em graus. Medição de ângulos com o transferidor.
+Divisão da circunferência em graus. Medição de ângulos com o transferidor.
 
 Noções de horizontal e vertical. Uso do nível e do fio-de-prumo.
 
@@ -885,7 +897,7 @@ Desenhar-se-á uma, de perfil, em ponto grande, para colocar na parede fronteira
 
 Dá-se o exemplo do desenho de um lanço da escada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf))](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/09800/04430470.pdf)
 
 Em actividades de subir e descer a escada, descansando nos patamares, o professor mostra como se forma cada número, unidade por unidade, até 50. Promoverá exercícios de composição e decomposição dos números novos que vai formando e fará com que os alunos resolvam uma infinidade de problemas orais, simples, observando a escadaria e dela se servindo. Convém que haja um ponteiro de que os alunos se servirão para a percorrer.
 

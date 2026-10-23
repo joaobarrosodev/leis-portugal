@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14500/0487204876.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/274/2007/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b08016b5ef48d4897746dea2b3e89dbbc8b95d3b8475e42025e8f194d73f86c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 546bf4d70279a04367fd60ce3b0f4f07c5cf76b94b1b1c2ca7a11c2e40d63a73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- ASAE
 - Comissão Técnica Especializada
 - Direcção Científica
 - Diretor
 - Inspetor Geral
-- ASAE
 - Orgânica
+- Pessoal Dirigente
+- Polícia Criminal
 - Quadro de Pessoal
 - Regime de Pessoal
 - Remuneração
-- Polícia Criminal
 - Subinspector Geral
 relationships:
 - type: amended_by
   target: pt:dre:175336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456799:por
+  label: "Transferidas as competências, posição jurídica e equipamentos amovíveis detidos pelo Departamento das Tecnologias\
+    \ das Indústrias Químicas (DTIQ), com excepção das competências desenvolvidas pelo Laboratório de Análises Ambientais\
+    \ e de Controlo de Qualidade (LAACQ) e pela Unidade das Tecnologias da Cortiça (UTC) do INETI, I.P. para Autoridade de\
+    \ Segurança Alimentar e Económica (ASAE), cuja orgânica consta do presente diploma, pelo DEC LEI.139/2008.21.07.2008.MCTES,\
+    \ DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:178822:por
+  label: "Determinado, a partir de 01.07.2012, que a Secretaria-Geral do Ministério da Economia e do Emprego, suceda, nos\
+    \ termos da al. e) do art. 10º nas atribuições da Autoridade de Segurança Alimentar e Económica, pelo DEC LEI.124/2012.20.06.2012.MEE,\
+    \ DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2012-178822
+  date: '2012-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2005/07/08/p/dre
   label: null
@@ -102,16 +118,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:235909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175336:por
+  label: "Revogado, a partir de 01.09.2012, pelo DEC LEI.194/2012.23.08.2012.MEE, DR.IS [163] de 23.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2012-175336
+  date: '2012-08-23'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:09Z'
   warnings: []
   errors: []
 ---
@@ -412,18 +453,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António José de Castro Guerra - Alberto Bernardes Costa.
 
-**Promulgado em 29 de Junho de 2007.**
+Promulgado em 29 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Julho de 2007.**
+Referendado em 3 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 QUADRO
 
 (a que se refere o artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14500/0487204876.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14500/0487204876.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14500/0487204876.pdf)

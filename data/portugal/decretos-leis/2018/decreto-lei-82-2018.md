@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19900/0497704984.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2018/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2018-116696175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b065da4a5b8f2207508f30e3f276f561ed587fb70dd01d98509a4c5aa8f0564c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c14d1015b4792cdd1560db93100af6af4cdd4df158752cc245eaf6f3a4bd0d8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Contribuições da Segurança Social
 - Fundo de Aposentação
 - Fundo de Certificados de Reforma
+- Gestão Financeira
 - Instituto de Gestão de Fundos de Capitalização da Segurança Social
 - Operação de Capitalização
 - Pensão de Aposentação
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Renda Vitalícia
 - Segurança Social
 - TAXA Contributiva
@@ -92,15 +92,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
 article_structure:
-  article_count: 59
+  article_count: 49
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:17Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +145,9 @@ Os artigos 3.º, 5.º, 10.º, 14.º, 16.º, 19.º, 20.º, 35.º, 39.º, 41.º e 
 
 2 - O regime público de capitalização integra ainda as pessoas singulares abrangidas pelo Regime de Seguro Social Voluntário.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Reunidos os requisitos legalmente exigidos para a aquisição do direito ao complemento pode o aderente optar por uma das seguintes alternativas, sem prejuízo do n.º 3 do artigo 41.º:
 
@@ -155,7 +157,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -165,7 +169,9 @@ c) [...].
 
 4 - A responsabilidade da entidade empregadora inicia-se no mês seguinte ao da declaração de assunção do pagamento e termina no mês seguinte ao da declaração de cessação do pagamento, por sua iniciativa, devendo a entidade gestora informar dessa situação o aderente.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O pagamento da contribuição é efetuado ao fundo dos certificados de reforma, por débito direto em conta a favor do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.).
 
@@ -175,7 +181,9 @@ c) [...].
 
 4 - O pagamento é devido no dia 13 de cada mês, nos termos a regular por portaria do membro do Governo responsável pela área da segurança social.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]:
 
@@ -209,7 +217,9 @@ h) Cessação do pagamento da contribuição pela entidade empregadora, nos term
 
 8 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -219,7 +229,9 @@ h) Cessação do pagamento da contribuição pela entidade empregadora, nos term
 
 4 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O capital acumulado na conta do aderente é convertido em renda vitalícia a partir do mês seguinte àquele em que tem início a atribuição, ao mesmo, da pensão ou aposentação por velhice ou por invalidez absoluta, anualmente atualizável, nos termos do disposto no regulamento de gestão do fundo.
 
@@ -227,7 +239,9 @@ h) Cessação do pagamento da contribuição pela entidade empregadora, nos term
 
 3 - [...].
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -235,7 +249,9 @@ h) Cessação do pagamento da contribuição pela entidade empregadora, nos term
 
 3 - Tendo em vista uma melhor compreensão das características do regime público de capitalização, dos riscos inerentes à sua adesão e do regime fiscal aplicável, deve ser elaborado um prospeto, nos termos a aprovar pelo conselho diretivo do IGFCSS, I. P., contendo a informação relevante constante no presente regime e no regulamento de gestão do fundo, por forma a garantir que a adesão é adequada ao perfil de investimento do interessado.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Ao IGFCSS, I. P. compete:
 
@@ -251,7 +267,9 @@ b) Proceder ao pagamento dos complementos e dos resgates podendo delegar esta co
 
 5 - [...].
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - O direito de opção previsto no artigo 5.º e no n.º 4 do artigo 19.º é exercido pelo aderente a partir do momento em que lhe é atribuída a pensão ou aposentação por velhice, ou do momento em que é reconhecida a invalidez absoluta, mediante manifestação de vontade, expressa em formulário a aprovar por portaria do membro do Governo responsável pela área da segurança social.
 
@@ -263,7 +281,9 @@ b) Proceder ao pagamento dos complementos e dos resgates podendo delegar esta co
 
 5 - Para efeitos do exercício do direito de opção referido nos números anteriores, bem como para efeito da entrega oficiosa do capital, o valor da unidade de participação é o que estiver fixado no mês em que se realize o respetivo resgate.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...].
 
@@ -283,15 +303,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 19 de setembro de 2018.**
+Promulgado em 19 de setembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2018.**
+Referendado em 28 de setembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -740,3 +760,5 @@ c) Forma e local onde se encontra disponível o relatório e contas anuais refer
 1 - O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 2 - O presente decreto-lei produz efeitos a 1 de janeiro de 2008.
+
+111721853

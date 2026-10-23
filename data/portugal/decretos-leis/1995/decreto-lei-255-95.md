@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/255/1995/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1995-575732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da140be352ba58360e5bd21edc90d9a250ddf6699801a5c07540478178f0870b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20e7a4c6554f63cf63c8d6fe2e8595a90922f7e58b935edf948c5d3b9b57ded2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Conselho Superior de Justiça e Disciplina
 - Conselho Superior de Polícia
-- Sistema Retributivo
 - Orgânica
+- PSP
 - Regulamento Disciplinar
+- Sistema Retributivo
 - Subsídio de Residência
 relationships:
 - type: amended_by
   target: pt:dre:180022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180022:por
+  label: "Mantido em vigor, na parte que altera o Dec Lei 321/94, de 29-Dez, em tudo o que não o contrariar, quanto ao estatuto\
+    \ do respectivo pessoal, pela LEI.5/99.1999.01.27.AR DR.IS-A [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-1999-180022
+  date: '1999-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/1991/08/16/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre
+- type: cites
+  target: pt:dre:322095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:39:45Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +130,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 23.º e 147.º do [Decreto-Lei n.º 321/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095), de 29 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 23.º e 147.º do [Decreto-Lei n.º 321/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1994-322095), de 29 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 23.º — Conselho Superior de Polícia
 
@@ -160,9 +178,9 @@ o) ...
 
 3 - Os oficiais, subchefes e guardas que prestaram serviço a partir de 1 de Janeiro de 1992 nas unidades policiais extintas antes da data de entrada em vigor da presente Lei Orgânica, no âmbito do processo de reestruturação das forças de segurança, têm direito ao suplemento previsto no n.º 1, nos termos aí prescritos.
 
-###### Art. 2.º As referências feitas a superintendente-geral no anexo II a que se refere o artigo do [Decreto-Lei n.º 298/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182), de 16 de Agosto, consideram-se como reportadas a superintendente-chefe.
+Art. 2.º As referências feitas a superintendente-geral no anexo II a que se refere o artigo do [Decreto-Lei n.º 298/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1991-674182), de 16 de Agosto, consideram-se como reportadas a superintendente-chefe.
 
-###### Art. 3.º O artigo 120.º do Regulamento Disciplinar da Polícia de Segurança Pública, aprovado pela [Lei n.º 7/90](https://diariodarepublica.pt/dr/detalhe/lei/7-1990-332906), de 20 de Fevereiro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 120.º do Regulamento Disciplinar da Polícia de Segurança Pública, aprovado pela [Lei n.º 7/90](https://diariodarepublica.pt/dr/detalhe/lei/7-1990-332906), de 20 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 120.º — Constituição
 
@@ -186,28 +204,28 @@ h) ...
 
 2 - ...
 
-###### Art. 4.º Os quadros anexos A e B do Regulamento Disciplinar da PSP, aprovado pela [Lei n.º 7/90](https://diariodarepublica.pt/dr/detalhe/lei/7-1990-332906), de 20 de Fevereiro, são substituídos pelos quadros A e B anexos ao presente diploma.
+Art. 4.º Os quadros anexos A e B do Regulamento Disciplinar da PSP, aprovado pela [Lei n.º 7/90](https://diariodarepublica.pt/dr/detalhe/lei/7-1990-332906), de 20 de Fevereiro, são substituídos pelos quadros A e B anexos ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
 
-**Promulgado em 7 de Setembro de 1995.**
+Promulgado em 7 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Setembro de 1995.**
+Referendado em 11 de Setembro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 QUADRO ANEXO A
 
 Escalões de competência disciplinar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf))](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf)
 
 QUADRO ANEXO B
 
 Escalões de competência disciplinar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf))](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/227a00/60656066.pdf)

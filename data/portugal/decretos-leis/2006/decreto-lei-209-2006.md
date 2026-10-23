@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2006-545637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ecf9e6d4e63d142306057a17da9c95e5c11de570ce9fe889439ca223deb29f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28d79bd5a45e926787b76f12fa234184716835eb8d1dd25a776369aef9bef7d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,44 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Director Adjunto
-- Secretário Geral Adjunto
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direção Geral da Agricultura e Desenvolvimento Rural
+- Autoridade Nacional de Regadio
+- Conselho Diretivo
 - Controlador Financeiro
-- Direção Geral de Veterinária
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direção Geral de Veterinária
+- Direção Regional de Agricultura e Pescas do Alentejo
 - Direcção Geral das Pescas e Aquicultura
-- Autoridade Nacional de Regadio
 - Direcção Geral dos Recursos Florestais
 - Direcção Regional de Agricultura e Pescas de Lisboa e VALE do TEJO
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
+- Director Adjunto
+- Director Regional Adjunto
 - Diretor
 - Diretor Geral
 - Diretor Regional
-- Director Regional Adjunto
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Serviço Nacional Coudelico
-- Secretaria Geral
 - Gabinete de Planeamento e Políticas
-- Conselho Diretivo
+- IFAP
 - Inspecção Geral da Agricultura e Pescas
 - Inspetor Geral
 - Instituto da Vinha e do Vinho
-- IFAP
 - Instituto dos Vinhos do Douro e do Porto
 - Instituto Nacional de Recursos Biológicos
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
+- Serviço Nacional Coudelico
+- Setor Empresarial do Estado
 - Subdirector Geral
 - Subinspector Geral
 - Transferência de Competências
@@ -113,20 +113,64 @@ relationships:
   target: pt:dre:544386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterados os arts. 8º, 10º, 14º (este último rectificado pela Decl Rect 83-B/2006 de 26-Dez) e o anexo I, todos\
+    \ do presente diploma, pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:455151:por
+  label: "Alterados os artigos 4.º e 13.º, o anexo I (na redacção do Decreto-Lei n.º 32/2008, de 25 de Fevereiro), aditada\
+    \ a alínea g) ao n.º 4 do artigo 21.º (que altera a designação da Direcção-Geral dos Recursos Florestais para Autoridade\
+    \ Florestal Nacional), pelo DEC LEI.160/2008.08.08.2008.MADRP, DR.IS [153] de 08.08.2008, que o republica em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2008-455151
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:602067:por
+  label: "Alterado o art. 21º ( na redacção do Dec Lei 160/2008, de 08-Ago, que o republica) do presente diploma, pelo DEC\
+    \ LEI.44/2009.13.02.2009.MADRP, DR.IS [31] de 13.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2009-602067
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, e determinada a transição para o Ministério\
+    \ da Agricultura, do Mar, Ambiente e Ordenamento do Território dos serviços, organismos, entidades e estruturas identificados\
+    \ no presente diploma, alterado pelos Dec Lei 32/2008 de 25-Fev, 160/2008 de 08-Ago e 44/2009 de 13-Fev, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 17º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta a Secretaria-Geral do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, criada no presente\
+    \ diploma, DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: celex:31989R4045
   label: null
   source: http://data.europa.eu/eli/reg/1989/4045/oj
+- type: corrected_by
+  target: pt:dre:626267:por
+  label: "Rectificado pela DECL-RECT.83-B/2006.21.12.2006.PCM, DR.IS [246]Supl de 26.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-b-2006-626267
+  date: '2006-12-21'
+- type: repealed_by
+  target: pt:dre:544386:por
+  label: "Revogado, a partir de 22.01.2012, o presente diploma, alterado pelos Dec Lei 32/2008 de 25-Fev, 160/2008 de 08-Ago\
+    \ e 44/2009 de 13-Fev, pelo DEC LEI.7/2012.17.01.2012.MAMAOT, DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 article_structure:
   article_count: 27
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:43Z'
   warnings: []
   errors: []
 ---
@@ -601,20 +645,20 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74927501.pdf)

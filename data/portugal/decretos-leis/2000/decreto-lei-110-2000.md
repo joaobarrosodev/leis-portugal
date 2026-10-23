@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/149a00/28472851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2000/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2000-302962
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88b03f360464261aaed1d1bfe3a3bf8662327fc7150c4b86c5fcc99d6fd4c6e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b3880855012250c177ff5ba47d3c6056d391568fe31d3c52cac2d6b64901f03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Região Autónoma
 - Certificação Profissional
-- Entidade Certificadora
-- Higiene do Trabalho
-- Deontologia Profissional
+- Condições de Higiene e Segurança no Trabalho
 - Curso Profissional
+- Deontologia Profissional
+- Entidade Certificadora
 - Habilitações Literárias
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Higiene do Trabalho
 - Inspecção Geral do Trabalho
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Pessoal Técnico de Segurança e Higiene do Trabalho
 - Pessoal Técnico Superior de Segurança e Higiene do Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Região Autónoma
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:174778:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:331259:por
+  label: "Alterado o art. 20º pela LEI.14/2001.2001.06.04.AR DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2001-331259
+  date: '2001-06-04'
 - type: cites
   target: celex:31989L0391
   label: null
   source: http://data.europa.eu/eli/dir/1989/391/oj
+- type: repealed_by
+  target: pt:dre:174778:por
+  label: "Revogado, a partir de 26.11.2012, o presente diploma, na redação da Lei 14/2001, de 04-jun, pela LEI.42/2012.28.08.2012.AR,\
+    \ DR.IS [166] de 28.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2012-174778
+  date: '2012-08-28'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:44Z'
   warnings: []
   errors: []
 ---
@@ -401,12 +412,12 @@ O presente diploma produz efeitos 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Guilherme d'Oliveira Martins.
 
-**Promulgado em 19 de Junho de 2000.**
+Promulgado em 19 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Junho de 2000.**
+Referendado em 21 de Junho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

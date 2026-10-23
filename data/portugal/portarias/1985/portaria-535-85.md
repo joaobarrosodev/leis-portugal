@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/535-1985-179821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8980dbf735ef25bb83bd215d4acaabf63c18cffb391ad26608be6a16346e436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c822edb866a6b89ecd121c219160520c4e9c042bac65db2e7d109a55b743fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Indústria de Conservas
+- Instituto Português de Conservas de Peixe
+- Peixe Congelado
+- Sardinha
+relationships:
+- type: cites
+  target: pt:dre:151901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643965:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:11Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +133,7 @@ b) Organizações de produtores e produtores não associados, até 28 de Feverei
 
 3.º O artigo 16.º da [Portaria n.º 921/82](https://diariodarepublica.pt/dr/detalhe/portaria/921-1982-643965), de 30 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 16.º - 1 - Pela concessão de créditos serão devidos os juros e encargos fixados contratualmente para este tipo de operações na data respectiva.
+Art. 16.º - 1 - Pela concessão de créditos serão devidos os juros e encargos fixados contratualmente para este tipo de operações na data respectiva.
 
 2 - Os juros e encargos referidos neste artigo serão liquidados, conjuntamente com os valores das amortizações efectuadas, no decorrer do prazo das operações, na devida proporção.
 
@@ -120,6 +145,6 @@ b) Organizações de produtores e produtores não associados, até 28 de Feverei
 
 Secretarias de Estado do Comércio Interno e das Pescas.
 
-**Assinada em 12 de Julho de 1985.**
+Assinada em 12 de Julho de 1985.
 
-**O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade. - O Secretário de Estado das Pescas, Carlos Alberto Martins Pimenta.**
+O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade. - O Secretário de Estado das Pescas, Carlos Alberto Martins Pimenta.

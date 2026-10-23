@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2007/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2007-522811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e287305d1ff5f18314248e0d4cd3a8495d7e2780c4908f1b437ec68b18258fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40fc6ff381ec0d30899c32903ec4b2e3517b69599dbdb8c35f2357368d5f622f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
 subjects:
 - Boticas
 - Chaves
-- Proteção da Floresta
+- Exploração Florestal
 - Montalegre
 - Murça
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
-- PROF do Barroso e Padrela
 - Plano Regional de Ordenamento Florestal
+- PROF do Barroso e Padrela
+- Proteção da Floresta
 - Regulamento
 - Valpaços
 - VILA Pouca de Aguiar
@@ -83,6 +83,18 @@ relationships:
   target: pt:dre:118051704:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:280498:por
+  label: "Suspensa, a partir de 07.02.2011 e pelo prazo de dois anos, a aplicação dos arts. 33º e 35º a 39º do regulamento\
+    \ anexo ao presente diploma, pela PORT.62/2011.02.02.2011.MADRP, DR.IS [23] de 02.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2011-280498
+  date: '2011-02-02'
+- type: amended_by
+  target: pt:dre:258539:por
+  label: "Suspensa, com produção de efeitos a 07.02.2013 e pelo prazo máximo de dois anos, a aplicação dos art.s 33º e 35º\
+    \ a 39º do regulamento, pela PORT.78/2013.19.02.2013.MAMAOT, DR.IS [35] de 19.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-2013-258539
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
   label: null
@@ -107,16 +119,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/118/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572092:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:118051704:por
+  label: Revogado com a entrada em vigor das portarias previstas no n.º 1 do art. 11.º do Dec Lei 16/2009, de 14-jan pelo(a)
+    Decreto-Lei n.º 11/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2019-118051704
+  date: '2019-01-21'
 article_structure:
-  article_count: 48
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:21Z'
   warnings: []
   errors: []
 ---
@@ -181,15 +227,15 @@ O PROF BeP entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 22 de Dezembro de 2006.**
+Promulgado em 22 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 1 de Janeiro de 2007.**
+Referendado em 1 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO A — REGULAMENTO DO PLANO REGIONAL DE ORDENAMENTO FLORESTAL DO BARROSO E PADRELA (PROF BEP)
 
@@ -297,7 +343,9 @@ ll) «Zonas críticas», áreas que, do ponto de vista do risco de incêndio, im
 
 mm) «Zonas de Intervenção Florestal (ZIF)», áreas territoriais contínuas e delimitadas constituídas maioritariamente por espaços florestais, submetidas a um plano de gestão florestal e a um plano de defesa da floresta e geridas por uma única entidade.
 
-###### Artigo 5.º — Princípios e objectivos
+Artigo 5.º
+
+Princípios e objectivos
 
 1 - O PROF BeP propõe-se ao ordenamento dos espaços florestais norteado por uma visão de futuro: espaços florestais sustentáveis e multifuncionais, onde se destacam as funções produtivas em harmonia com outras funções relevantes de protecção e conservação, garantindo um enquadramento paisagístico equilibrado onde coexistam actividades diversas de silvopastorícia, caça e pesca, através dum mosaico de ocupações variadas que garantam condições de segurança e diminuição de riscos associados a agentes bióticos e aos incêndios florestais.
 
@@ -341,13 +389,17 @@ h) Promover a ampliação dos espaços florestais destinado ao recreio e lazer;
 
 i) Inflectir as situações do território onde as condições ambientais se encontram mais degradadas.
 
-###### Artigo 6.º — Vinculação
+Artigo 6.º
+
+Vinculação
 
 1 - As normas vigentes no PROF do Barroso Padrela vinculam directamente todas as entidades públicas e enquadram todos os projectos e acções a desenvolver nos espaços florestais públicos e privados.
 
 2 - Para aplicação prática das acções do PROF do Barroso Padrela, devem ser convocados a participar activamente e a cooperar todas as entidades e autoridades públicas, locais, regionais ou nacionais, que, por força das suas atribuições e responsabilidades, tenham tutela pública sobre os espaços florestais.
 
-###### Artigo 7.º — Composição do plano
+Artigo 7.º
+
+Composição do plano
 
 1 - O PROF do Barroso Padrela é constituído pelos seguintes elementos:
 
@@ -385,11 +437,17 @@ vii) Modelo de Ocupação Territorial;
 
 viii) Indicadores para monitorização do plano.
 
-## TÍTULO II — Uso, ocupação e ordenamento florestal
+TÍTULO II
 
-### CAPÍTULO II — Disposições comuns
+Uso, ocupação e ordenamento florestal
 
-###### Artigo 8.º — Regime florestal e floresta modelo
+CAPÍTULO II
+
+Disposições comuns
+
+Artigo 8.º
+
+Regime florestal e floresta modelo
 
 1 - Estão submetidos ao regime florestal e obrigado à elaboração de PGF os seguintes Perímetros Florestais (PF):
 
@@ -409,7 +467,9 @@ f) PF da Serra de S. Domingos e Escarão.
 
 3 - A floresta modelo é um espaço para o desenvolvimento de práticas silvícolas que os proprietários privados podem adoptar tendo como objectivo a valorização dos seus espaços florestais.
 
-###### Artigo 9.º — Espécies protegidas
+Artigo 9.º
+
+Espécies protegidas
 
 O PROF BeP assume como objectivo e promove como prioridade a defesa e a protecção de espécies florestais que, pelo seu elevado valor económico, patrimonial e cultural, pela sua relação com a história e cultura da região, pela raridade que representam, bem como pela sua função de suporte de habitat, carecem de especial protecção, designadamente:
 
@@ -431,7 +491,9 @@ iii) Juniperus spp. (Zimbro);
 
 iv) Taxus baccata (Teixo).
 
-###### Artigo 10.º — Corredores ecológicos
+Artigo 10.º
+
+Corredores ecológicos
 
 1 - Os corredores ecológicos contribuem para a formação de meta populações de comunidades da fauna e da flora, tendo como objectivo conectar populações, núcleos ou elementos isolados, e integram os principais eixos de conexão, delimitados no mapa síntese com uma largura máxima de 3 km.
 
@@ -453,17 +515,25 @@ d) Tâmega;
 
 e) Cabeceiras do Cávado.
 
-###### Artigo 11.º — Dimensão dos cortes de realização
+Artigo 11.º
+
+Dimensão dos cortes de realização
 
 1 - Na ausência dum plano de cortes devidamente estruturado, os cortes rasos devem aplicar-se em manchas contínuas de dimensão inferior a 10 hectares, progredindo de forma salteada ao longo das áreas de corte.
 
 2 - Nos povoamentos de folhosas nobres o corte deve ser realizado pé a pé ou por pequenos núcleos, e de forma salteada.
 
-### CAPÍTULO III — Sub-regiões homogéneas
+CAPÍTULO III
 
-#### SECÇÃO I — Zonamento/Organização Territorial Florestal
+Sub-regiões homogéneas
 
-###### Artigo 12.º — Identificação
+SECÇÃO I
+
+Zonamento/Organização Territorial Florestal
+
+Artigo 12.º
+
+Identificação
 
 A região do Barroso e Padrela, compreende as seguintes sub-regiões homogéneas, devidamente identificadas no mapa síntese constante do PROF BeP, nos termos do artigo 7.º do presente regulamento:
 
@@ -479,9 +549,13 @@ e) Tâmega;
 
 f) Tua.
 
-#### SECÇÃO II — Objectivos específicos
+SECÇÃO II
 
-###### Artigo 13.º — Objectivos específicos comuns
+Objectivos específicos
+
+Artigo 13.º
+
+Objectivos específicos comuns
 
 São comuns a todas as sub-regiões homogéneas a prossecução dos seguintes objectivos específicos:
 
@@ -535,7 +609,9 @@ Aumentar o conhecimento sobre a silvicultura das espécies florestais;
 
 f) Monitorizar o desenvolvimento dos espaços florestais e o cumprimento do plano.
 
-###### Artigo 14.º — Objectivos específicos da sub-região homogénea Alvão
+Artigo 14.º
+
+Objectivos específicos da sub-região homogénea Alvão
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de desenvolvimento da silvopastorícia, caça e pesca nas águas interiores, produção e protecção; produção; e recreio, enquadramento e estética da paisagem.
 
@@ -599,7 +675,9 @@ b) Beneficiação de áreas florestais:
 
 i) Fogo controlado.
 
-###### Artigo 15.º — Objectivos específicos da sub-região homogénea Barroso
+Artigo 15.º
+
+Objectivos específicos da sub-região homogénea Barroso
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de Silvopastorícia, caça e pesca nas águas interiores; Recreio, enquadramento e estética da paisagem; e Conservação de habitats, de espécies da fauna e flora e de geomonumentos
 
@@ -659,7 +737,9 @@ b) Beneficiação de áreas florestais:
 
 i) Fogo controlado.
 
-###### Artigo 16.º — Objectivos específicos da sub-região homogénea Gerês
+Artigo 16.º
+
+Objectivos específicos da sub-região homogénea Gerês
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de Conservação de habitats, de espécies da fauna e flora e de geomonumentos; Recreio, enquadramento e estética da paisagem; e Protecção.
 
@@ -693,7 +773,9 @@ i) Restauração de ecossistemas degradados;
 
 ii) Condução da regeneração natural de folhosas autóctones.
 
-###### Artigo 17.º — Objectivos específicos da sub-região homogénea Padrela
+Artigo 17.º
+
+Objectivos específicos da sub-região homogénea Padrela
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de Produção; Silvopastorícia, Caça e Pesca nas águas interiores; e Protecção.
 
@@ -769,7 +851,9 @@ i) Certificação da Gestão Florestal;
 
 ii) Relançamento da cultura do castanheiro.
 
-###### Artigo 18.º — Objectivos específicos da sub-região homogénea Tâmega
+Artigo 18.º
+
+Objectivos específicos da sub-região homogénea Tâmega
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de Produção; Protecção; e Recreio, enquadramento e estética da paisagem.
 
@@ -811,7 +895,9 @@ b) Consolidação da actividade florestal:
 
 i) Certificação da gestão florestal.
 
-###### Artigo 19.º — Objectivos específicos da sub-região homogénea Tua
+Artigo 19.º
+
+Objectivos específicos da sub-região homogénea Tua
 
 1 - Nesta sub-região homogénea visa-se a implementação e incrementação das funções de Protecção; Silvopastorícia, Caça e Pesca nas águas interiores; e Produção.
 
@@ -879,9 +965,13 @@ ii) Expansão da subericultura;
 
 iii) Relançamento da cultura do castanheiro.
 
-#### SECÇÃO III — Modelos de silvicultura
+SECÇÃO III
 
-###### Artigo 20.º — Modelos gerais de silvicultura e de organização territorial
+Modelos de silvicultura
+
+Artigo 20.º
+
+Modelos gerais de silvicultura e de organização territorial
 
 1 - As sub-regiões do PROF BeP devem obedecer a orientações para a realização de acções nos espaços florestais, que se concretizam em normas de intervenção e modelos de silvicultura que se encontram definidas no anexo I deste regulamento.
 
@@ -893,7 +983,9 @@ b) Em normas que são de aplicação localizada, que têm apenas aplicação em 
 
 c) Em modelos de silvicultura com espécies de árvores florestais a privilegiar, se existentes.
 
-###### Artigo 21.º — Sub-região homogénea Montados do Alvão
+Artigo 21.º
+
+Sub-região homogénea Montados do Alvão
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -963,7 +1055,9 @@ xiv) Pseudotsuga menziesii.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-###### Artigo 22.º — Sub-região homogénea Barroso
+Artigo 22.º
+
+Sub-região homogénea Barroso
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -1035,7 +1129,9 @@ vii) Taxus baccata.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-###### Artigo 23.º — Sub-região homogénea Gerês
+Artigo 23.º
+
+Sub-região homogénea Gerês
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -1109,7 +1205,9 @@ x) Ulmus minor.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-###### Artigo 24.º — Sub-região homogénea Padrela
+Artigo 24.º
+
+Sub-região homogénea Padrela
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -1181,7 +1279,9 @@ xviii) Sorbus aucuparia.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-###### Artigo 25.º — Sub-região homogénea Tâmega
+Artigo 25.º
+
+Sub-região homogénea Tâmega
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -1251,7 +1351,9 @@ xiv) Sorbus aucuparia.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-###### Artigo 26.º — Sub-região homogénea Tua
+Artigo 26.º
+
+Sub-região homogénea Tua
 
 1 - Nesta sub-região homogénea, são aplicadas normas de intervenção generalizada a toda a sub-região e normas de intervenção específica a zonas determinadas pela sua especificidade, nomeadamente:
 
@@ -1319,21 +1421,29 @@ xvi) Populus x Canadensis.
 
 3 - Sem prejuízo do disposto no número anterior podem ainda ser utilizadas, nesta sub-região homogénea, outras espécies florestais desde que devidamente justificadas, nomeadamente o conjunto de espécies alternativas e secundárias listadas no plano.
 
-#### SECÇÃO IV — Subvenções públicas
+SECÇÃO IV
 
-###### Artigo 27.º — Subvenções públicas
+Subvenções públicas
+
+Artigo 27.º
+
+Subvenções públicas
 
 1 - A definição, elaboração e revisão de todos os instrumentos de subvenção ou apoio público para o espaço florestal situado nas referidas sub-regiões, deve estar em consonância com as orientações dos modelos gerais de silvicultura e de organização territorial, tal como definido no artigo 20.º e seguintes.
 
 2 - A aplicação das subvenções ou apoios públicos e as prioridades de intervenção devem ter em conta as funções e os objectivos específicos previstos para cada sub-região homogénea, consubstanciando-se em apoios a medidas definidas para esses objectivos ou a outras que para eles concorram.
 
-### CAPÍTULO IV — Planeamento florestal local
+CAPÍTULO IV
 
-###### Artigo 28.º — Explorações sujeitas a Planos de Gestão Florestal
+Planeamento florestal local
+
+Artigo 28.º
+
+Explorações sujeitas a Planos de Gestão Florestal
 
 1 - Estão sujeitas a Plano de Gestão Florestal (PGF) as explorações florestais públicas e comunitárias, tal como definido no artigo 5.º da Lei de Bases da Politica Florestal, de acordo com a hierarquia de prioridades para a sua elaboração, nomeadamente as identificadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 2 - Encontram-se igualmente sujeitas à elaboração obrigatória de Plano de Gestão Florestal, as explorações florestais privadas com área mínima de 100 ha.
 
@@ -1343,7 +1453,9 @@ xvi) Populus x Canadensis.
 
 5 - As ZIF estão submetidas a um plano de gestão florestal.
 
-###### Artigo 29.º — Explorações não sujeitas a Plano de Gestão Florestal
+Artigo 29.º
+
+Explorações não sujeitas a Plano de Gestão Florestal
 
 As explorações florestais privadas de área inferior à mínima obrigatória submetida a PGF, e desde que não integradas em ZIF, ficam sujeitas ao cumprimento das seguintes normas mínimas:
 
@@ -1353,7 +1465,9 @@ b) Normas gerais de silvicultura apresentadas no capítulo IV do Plano;
 
 c) Modelos de silvicultura adaptados à sub-região homogénea onde se insere a exploração.
 
-###### Artigo 30.º — Zonas de intervenção florestal
+Artigo 30.º
+
+Zonas de intervenção florestal
 
 1 - São consideradas zonas de intervenção florestal (ZIF) as áreas territoriais contínuas e delimitadas, constituídas maioritariamente por espaços florestais, submetidos a um plano de gestão e um plano de defesa da floresta, geridos por uma única entidade.
 
@@ -1369,59 +1483,77 @@ c) Zonas de floresta madura que interessa estruturar com vista à defesa contra 
 
 4 - No PROF BeP são propostas e identificadas como freguesias com espaços florestais prioritários para instalação de ZIF (ou outras figuras associativas que se venham a constituir) as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
-### CAPÍTULO V — Medidas de intervenção
+CAPÍTULO V
 
-#### SECÇÃO I — Medidas de intervenção
+Medidas de intervenção
 
-###### Artigo 31.º — Medidas de intervenção comuns à região PROF e medidas relativas às respectivas sub-regiões homogéneas
+SECÇÃO I
+
+Medidas de intervenção
+
+Artigo 31.º
+
+Medidas de intervenção comuns à região PROF e medidas relativas às respectivas sub-regiões homogéneas
 
 No plano que integra o relatório do PROF BeP, estão consignadas medidas de intervenção comuns à região do Barroso e Padrela, bem como medidas de intervenção específicas para as sub-regiões homogéneas, que visam alcançar adequadamente os objectivos específicos inscritos neste regulamento.
 
-#### SECÇÃO II — Meios de monitorização
+SECÇÃO II
 
-###### Artigo 32.º — Indicadores
+Meios de monitorização
+
+Artigo 32.º
+
+Indicadores
 
 1 - A monitorização do cumprimento das metas e objectivos previstos no PROF BeP é realizada através de um conjunto de indicadores criados para o efeito.
 
 2 - Os indicadores referidos no número anterior estabelecem os níveis de cumprimento dos objectivos gerais e específicos que devem ser atingidos até 2010 e 2025.
 
-###### Artigo 33.º — Metas
+Artigo 33.º
+
+Metas
 
 1 - O PROF BeP define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 2 - O PROF BeP define como metas, para 2025 e 2045, os seguintes valores de percentagem de espaços florestais arborizados em relação à superfície total da região PROF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 3 - O PROF BeP define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 4 - O PROF BeP define como metas, para 2025 e 2045, os seguintes valores percentuais de composição de espaços florestais arborizados, para as sub-regiões homogéneas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 5 - O PROF BeP define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de povoamentos sujeitos a silvicultura intensiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 6 - O PROF BeP define como metas, para 2025 e 2045, as seguintes proporções, em termos percentuais, de área queimada anualmente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
 * Valor calculado com base nas áreas queimadas (floresta e matos) nos últimos 5 anos (1999 a 2003), baseada na cartografia anual de áreas queimadas por imagem de satélite, em que a área mínima cartografada foi de 5 ha.
 
-###### Artigo 34.º — Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
+Artigo 34.º
+
+Objectivos comuns à região PROF e objectivos específicos às sub-regiões homogéneas
 
 Os objectivos comuns a toda a região PROF, bem como os objectivos específicos às sub-regiões homogéneas, mencionados nos artigos 13.º a 19.º, são monitorizados através dos indicadores contidos no plano que integra o relatório do PROF BeP, sem prejuízo de outros que possam ser considerados adequados.
 
-## TÍTULO III — Defesa da floresta contra incêndios
+TÍTULO III
 
-###### Artigo 35.º — Zonas críticas
+Defesa da floresta contra incêndios
+
+Artigo 35.º
+
+Zonas críticas
 
 1 - O PROF BeP identifica, demarca e procede ao planeamento próprio das zonas críticas constantes do mapa síntese em anexo e que dele faz parte integrante.
 
@@ -1429,7 +1561,9 @@ Os objectivos comuns a toda a região PROF, bem como os objectivos específicos 
 
 3 - O prazo de planeamento e execução devem estar concluídos no prazo máximo de dois anos.
 
-###### Artigo 36.º — Gestão de combustíveis
+Artigo 36.º
+
+Gestão de combustíveis
 
 1 - A gestão de combustíveis engloba o conjunto de medidas aplicadas aos povoamentos florestais, matos e outras formações espontâneas, ao nível da composição específica e do seu arranjo estrutural, com os objectivos de diminuir o perigo de incêndio e de garantir a máxima resistência da vegetação à passagem do fogo.
 
@@ -1451,7 +1585,9 @@ definidas nos instrumentos de planeamento florestal.
 
 5 - Sempre que as condições edafo-climáticas o permitam deve ser favorecida a constituição de povoamentos de espécies arbóreas caducifólias ou de espécies com baixa inflamabilidade e combustibilidade.
 
-###### Artigo 37.º — Redes regionais de defesa da floresta
+Artigo 37.º
+
+Redes regionais de defesa da floresta
 
 1 - As redes regionais de defesa da floresta contra incêndios (RDFCI) concretizam territorialmente, de forma coordenada, a infra estruturação dos espaços rurais decorrente da estratégia do planeamento regional de defesa da floresta contra incêndios.
 
@@ -1481,11 +1617,15 @@ f) Rede de infra-estruturas de apoio ao combate.
 
 8 - As componentes da RDF podem ser declaradas de utilidade pública, nos termos legais.
 
-###### Artigo 38.º — Depósitos de madeiras e de outros produtos inflamáveis
+Artigo 38.º
+
+Depósitos de madeiras e de outros produtos inflamáveis
 
 É interdito o depósito de madeiras e outros produtos resultantes de exploração florestal ou agrícola, de outros materiais de origem vegetal e de produtos altamente inflamáveis nas redes de faixas e nos mosaicos de parcelas de gestão de combustível, com excepção dos aprovados pela comissão municipal de defesa da floresta contra incêndios.
 
-###### Artigo 39.º — Edificação em zonas de elevado risco de incêndio
+Artigo 39.º
+
+Edificação em zonas de elevado risco de incêndio
 
 1 - A cartografia de risco de incêndio produzida no âmbito dos planos de defesa da floresta municipais deve constituir um dos critérios subjacentes à classificação e qualificação do solo e determinar indicadores de edificabilidade definidos pelos instrumentos de gestão territorial vinculativos para os particulares.
 
@@ -1495,44 +1635,62 @@ f) Rede de infra-estruturas de apoio ao combate.
 
 4 - As novas edificações no solo rural têm de salvaguardar, na sua implantação no terreno, a garantia de distância à extrema da propriedade de uma faixa de protecção nunca inferior a 50 metros e a adopção de medidas especiais relativas à resistência do edifício, à passagem do fogo e à contenção de possíveis fontes de ignição de incêndios no edifício e respectivos acessos.
 
-## TÍTULO IV — Disposições finais
+TÍTULO IV
 
-###### Artigo 40.º — Vigência
+Disposições finais
+
+Artigo 40.º
+
+Vigência
 
 O PROF BeP tem um período máximo de vigência de 20 anos, contados a partir da data da sua publicação.
 
-###### Artigo 41.º — Alterações
+Artigo 41.º
+
+Alterações
 
 1 - O PROF BeP pode ser sujeito a alterações periódicas, a efectuar de cinco em cinco anos, tendo em consideração os relatórios anuais de execução, necessários ao seu acompanhamento, tal como definido na monitorização destes planos e nos termos da legislação em vigor.
 
 2 - O PROF BeP está sujeito a alterações intermédias, sempre que ocorra qualquer facto relevante que as justifique.
 
-###### Artigo 42.º — Elaboração dos PGF
+Artigo 42.º
+
+Elaboração dos PGF
 
 Os PGF a elaborar pelo Estado e pelos privados, devem ser concluídos no prazo de três anos.
 
-###### Artigo 43.º — Dinâmica
+Artigo 43.º
+
+Dinâmica
 
 1 - Os Planos Municipais de Ordenamento do Território e dos Planos Especiais de Ordenamento do Território que não se adeqúem às normas constantes no PROF BeP, designadamente as relativas à defesa da floresta contra os incêndios, ficam sujeitos à dinâmica de elaboração, alteração e revisão, tal como estabelecido no Decreto-Lei n.º 380/ 99, de 22 de Setembro, com a redacção dada pelo [Decreto-Lei n.º 310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro.
 
 2 - Estão sujeitos a um regime de alteração simplificado todos os PMOT e PEOT, que não se encontrem em elaboração ou revisão, no prazo máximo de dois anos.
 
-###### Artigo 44.º — Remissões
+Artigo 44.º
+
+Remissões
 
 Quando se verificarem alterações às normas legais e regulamentares citadas no presente Regulamento, as remissões expressas que para elas forem feitas consideram-se automaticamente transferidas para a nova legislação que resultar daquelas alterações.
 
-## ANEXO I — Normas genéricas de intervenção nos espaços florestais
+ANEXO I
+
+Normas genéricas de intervenção nos espaços florestais
 
 Modelos de silvicultura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
 
-## ANEXO II — Priorização dos programas nas sub-regiões homogéneas
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+Priorização dos programas nas sub-regiões homogéneas
 
-## ANEXO B — Mapa síntese do Plano Regional de Ordenamento Florestal do Barroso e Padrela
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+
+ANEXO B
+
+Mapa síntese do Plano Regional de Ordenamento Florestal do Barroso e Padrela
 
 (PROF BeP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01200/04170433.pdf)

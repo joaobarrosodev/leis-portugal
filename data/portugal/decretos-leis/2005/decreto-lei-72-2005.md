@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2005/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2005-573912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5780a80bcb8581bd5990b20aecb368e0a1fe083abaea9166988cf74ede2d8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3baa7e7543dc75af31a3b37c0ce6aff52c513d5f01160d99f10557c0cf4d87a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Substancia Cancerigena
-- Saúde Pública
+- Comércio
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- Embalagem
 - Proteção do Ambiente
-- Comércio
+- Saúde Pública
+- Substancia Cancerigena
 relationships:
 - type: amended_by
   target: pt:dre:147997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147997:por
+  label: "Alterados os nºs 10.1 e 10.5 do anexo I do Dec Lei 264/98, de 19-Ago, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.162/2005.22.09.2005.MEI, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2005-147997
+  date: '2005-09-22'
 - type: cites
   target: celex:31976L0769
   label: null
@@ -99,13 +105,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:13Z'
   warnings: []
   errors: []
 ---
@@ -272,11 +278,11 @@ i) Formulante nos pesticidas e biocidas.
 
 16 - Nonilfenol e etoxilados de nonilfenol
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)
 
 17 - Cimento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)](https://files.diariodarepublica.pt/1s/2005/03/055a00/24342436.pdf)
 
 ###### Artigo 3.º — Produção de efeitos
 
@@ -288,12 +294,12 @@ b) A partir da data de publicação dos métodos de ensaio mencionados no n.º 1
 
 Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Luís Filipe da Conceição Pereira - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

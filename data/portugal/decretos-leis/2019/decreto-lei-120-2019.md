@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16000/0003200039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2019/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f64279eb955af6da562bddf1c8b5e1ec55592e6979fb5d7f2b6a9dc6c5f1d38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3090b550255b692631da1e56d846da1d8998a1a429f1e61a92542eac887d40f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
+- Agência para a Gestão Integrada de Fogos Rurais
 - Central Termoeléctrica
 - Definição de Competências
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Entidade Reguladora dos Serviços Energéticos
+- Fiscalização
+- Instituto da Conservação da Natureza e das Florestas
 - Licenciamento
 - Matéria-Prima
-- Instituto da Conservação da Natureza e das Florestas
 - Ordenamento Florestal
-- Entidade Reguladora dos Serviços Energéticos
 - Preço
-- Serviço Público
+- Prevenção de Incêndios
 - Produção de Energia Elétrica
 - Remuneração
 - Sector Florestal
-- Agência para a Gestão Integrada de Fogos Rurais
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:202552706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:202552706:por
+  label: Alterados, a partir de 25.10.2022, os arts. 1.º, 2.º, 2.º-A, 3.º, 3.º-A, 5.º, 6.º e 6.º-A, aditado o art. 6.º-B e
+    republicado o Dec Lei 64/2017 de 12-jun, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 73/2022
+    - Diário da República n.º 205/2022, Série I de 2022-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2022-202552706
+  date: '2022-10-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
   label: null
@@ -102,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/64/2017/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/64/2017/06/12/p/dre
+- type: cites
+  target: pt:dre:107507169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:56Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +179,9 @@ Os artigos 1.º a 7.º do [Decreto-Lei n.º 64/2017](https://diariodarepublica.p
 
 2 - A potência de injeção na rede elétrica de serviço público (RESP) a atribuir ao abrigo do presente decreto-lei é limitada, não podendo exceder, no continente, 60 MW, e por cada central um máximo de 10 MW.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]:
 
@@ -166,7 +191,9 @@ b) 'Central a biomassa' a instalação destinada à produção de energia elétr
 
 c) 'Zonas críticas' as zonas como tal definidas nos termos do artigo 6.º do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, na sua redação atual.
 
-###### Artigo 3.º — Requisitos para instalação de centrais a biomassa
+Artigo 3.º
+
+Requisitos para instalação de centrais a biomassa
 
 1 - (Revogado.)
 
@@ -194,13 +221,17 @@ b) Maior percentagem de energia produzida destinada ao autoconsumo, com um fator
 
 6 - Os títulos de reserva de capacidade de injeção na RESP, emitidos nos termos previstos no n.º 1 do artigo 5.º, em nome dos interessados que não obtenham vencimento no processo de licitação caducam, devendo ser-lhes restituída a caução prestada, no prazo de cinco dias e nos termos estabelecidos no [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, na sua redação atual.
 
-###### Artigo 4.º — Controlo prévio
+Artigo 4.º
+
+Controlo prévio
 
 1 - A instalação e exploração de centrais a biomassa ao abrigo do presente decreto-lei está sujeita à obtenção de licença de produção e de licença de exploração.
 
 2 - A obtenção de licença de produção e de licença de exploração está sujeita ao regime estabelecido no [Decreto-Lei n.º 23/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2010-611330), de 25 de março, na sua redação atual, com as especificidades decorrentes do presente decreto-lei.
 
-###### Artigo 5.º — Licença de produção e licença de exploração
+Artigo 5.º
+
+Licença de produção e licença de exploração
 
 1 - O pedido de atribuição de licença de produção é precedido da obtenção de título de reserva de capacidade de injeção na RESP, nos termos estabelecidos no [Decreto-Lei n.º 172/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2006-540627), de 23 de agosto, na sua redação atual.
 
@@ -212,7 +243,9 @@ b) Maior percentagem de energia produzida destinada ao autoconsumo, com um fator
 
 5 - Por portaria do membro do Governo responsável pela área da energia são fixados os elementos instrutórios do pedido de licença de produção e de licença de exploração, bem como o procedimento de licitação previsto no n.º 3 do artigo 3.º
 
-###### Artigo 6.º — Regime remuneratório
+Artigo 6.º
+
+Regime remuneratório
 
 1 - A eletricidade produzida pelas centrais a biomassa e injetada na RESP é remunerada ao preço do Mercado Ibérico de Eletricidade (MIBEL), acrescido dos seguintes suplementos remuneratórios:
 
@@ -232,7 +265,9 @@ b) Um prémio por MWh no âmbito do contributo dado pela central para a gestão 
 
 7 - O preço da energia térmica produzida pelas centrais a biomassa é o que resultar dos contratos livremente celebrados entre o produtor e os terceiros adquirentes.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O controlo e fiscalização do aprovisionamento das centrais é assegurado pelo ICNF, I. P., sem prejuízo das competências próprias de outros organismos do Estado e designadamente das autoridades policiais.
 
@@ -252,11 +287,15 @@ Apresentação de pedidos
 
 2 - Os pedidos são apresentados junto da Direção-Geral de Energia e Geologia (DGEG), durante o primeiro trimestre de 2020, e obedecem, sob pena de indeferimento liminar, aos requisitos definidos no artigo seguinte.
 
-###### Artigo 3.º-A — Aprovisionamento das centrais a biomassa
+Artigo 3.º-A
+
+Aprovisionamento das centrais a biomassa
 
 A aplicação do critério previsto na alínea c) do n.º 2 do artigo 3.º é sustentado em estudo, a elaborar pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em articulação com a Agência para a Gestão Integrada de Fogos Rurais, no prazo de cinco meses a contar da data da publicação do presente decreto-lei, que procede ao levantamento e mapeamento da quantidade de biomassa disponível para fins energéticos, com a prova de conceito através da aplicação em zonas piloto.
 
-###### Artigo 6.º-A — Venda da energia
+Artigo 6.º-A
+
+Venda da energia
 
 1 - A energia elétrica injetada na RESP é adquirida pelo Comercializador de Último Recurso (CUR) mediante contrato a celebrar com o produtor, nos termos a estabelecer na portaria referida no n.º 4 do artigo anterior.
 
@@ -278,13 +317,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Eurico Jorge Nogueira Leite Brilhante Dias - Maria de Fátima de Jesus Fonseca - Maria Isabel Solnado Porto Oneto - João Pedro Soeiro de Matos Fernandes - Luís Medeiros Vieira.
 
-**Promulgado em 29 de julho de 2019.**
+Promulgado em 29 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2019.**
+Referendado em 30 de julho de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -409,3 +448,5 @@ b) Um prémio por MWh no âmbito do contributo dado pela central para a gestão 
 ###### Artigo 8.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+112530176

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 274/1974, 1º Suplemento, Série I de 1974-11-25
   number: '274'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1450-(3) a 1450-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27401/00030003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-1974-289835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:35:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13536b15870eeef4ac1175b6195f609e11b6abf800a684104e377d1de04d4be7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7d0575f31b0eef7d071fcb591f430feecfb4e048ea0bd0e0cc586eb7e5262db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:35:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:438718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:438718:por
+  label: "Revogada, a partir de 29.10.2008, pela PORT.1220/2008.24.10.2008.MAI, DR.IS [207] de 24.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1220-2008-438718
+  date: '2008-10-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:35:15Z'
   warnings: []
   errors: []
 ---

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-1981-389632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e70d87b4754a61e16f105ad8a33dd5710cfc879b704584ead40fb4521668e46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75c8682eba2eb89b5199d8572dd4ef176e4b40abd5f3086de46b01118a665a22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Faculdade de Ciências
+- Regulamento
+- Universidade de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:20Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +121,7 @@ e) Geodinâmica.
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º O Departamento de Geologia da Faculdade de Ciências da Universidade de Lisboa é uma unidade orgânica permanente dirigida à promoção do ensino, da investigação e da cultura nos domínios da Geologia, competindo-lhe, nomeadamente:
+Artigo 1.º O Departamento de Geologia da Faculdade de Ciências da Universidade de Lisboa é uma unidade orgânica permanente dirigida à promoção do ensino, da investigação e da cultura nos domínios da Geologia, competindo-lhe, nomeadamente:
 
 a) Ministrar o ensino tendente às licenciaturas nos respectivos domínios científicos;
 
@@ -124,9 +137,9 @@ f) Fomentar o desenvolvimento cultural nos domínios da Geologia e colaborar na 
 
 g) Promover a formação de docentes e de investigadores nas áreas da Geologia e ou em áreas interdisciplinares.
 
-###### Art. 2.º O Departamento de Geologia goza de autonomia pedagógica e científica, que exercerá sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da escola.
+Art. 2.º O Departamento de Geologia goza de autonomia pedagógica e científica, que exercerá sem prejuízo das orientações gerais que vierem a ser estabelecidas pelos órgãos da Universidade e ou da escola.
 
-###### Art. 3.º - 1 - Poderão ser criadas, extintas ou alteradas secções no Departamento de Geologia sempre que as dimensões e a pluralidade das matérias científicas compreendidas na sua área o recomendem.
+Art. 3.º - 1 - Poderão ser criadas, extintas ou alteradas secções no Departamento de Geologia sempre que as dimensões e a pluralidade das matérias científicas compreendidas na sua área o recomendem.
 
 2 - As secções deverão corrresponder a áreas diferenciadas do conhecimento, quer a nível do Departamento, quer a nível da Faculdade.
 
@@ -134,13 +147,13 @@ g) Promover a formação de docentes e de investigadores nas áreas da Geologia 
 
 ### CAPÍTULO II — Dos órgãos
 
-###### Art. 4.º O Departamento de Geologia da Faculdade de Ciências da Universidade de Lisboa dispõe dos seguintes órgãos:
+Art. 4.º O Departamento de Geologia da Faculdade de Ciências da Universidade de Lisboa dispõe dos seguintes órgãos:
 
 a) Conselho de departamento;
 
 b) Comissão executiva.
 
-###### Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
+Art. 5.º - 1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes os professores catedráticos, associados e auxiliares e os investigadores doutorados das áreas científicas abrangidas pelo Departamento.
 
@@ -148,7 +161,7 @@ b) Comissão executiva.
 
 4 - Os membros não permanentes, em número de três, são eleitos por períodos bienais.
 
-###### Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Outubro do primeiro ano de cada biénio.
+Art. 6.º - 1 - A eleição dos membros não permanentes terá lugar nos primeiros dez dias do mês de Outubro do primeiro ano de cada biénio.
 
 2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho de departamento ou, na sua falta ou impedimento, o membro permanente mais antigo da categoria mais elevada do Departamento, convocará os docentes e investigadores não doutorados e em regime de tempo integral da área departamental para uma sessão especial, a que presidirá.
 
@@ -160,7 +173,7 @@ b) Comissão executiva.
 
 6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes.
 
-###### Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento.
+Art. 7.º - 1 - O conselho de departamento é presidido por um professor catedrático ou associado do Departamento.
 
 2 - O presidente é deito pelos membros do conselho para mandato bienal.
 
@@ -180,7 +193,7 @@ b) Comissão executiva.
 
 10 - O exercício do cargo de presidente do conselho de departamento é incompatível com o de presidente de outros órgãos directivos universitários.
 
-###### Art. 8.º - 1 - Ao conselho de departamento compete:
+Art. 8.º - 1 - Ao conselho de departamento compete:
 
 a) Elaborar propostas de alteração ao Regulamento do Departamento;
 
@@ -224,13 +237,13 @@ o) Deliberar sobre as matérias que lhe sejam submetidas pelos órgãos de gest�
 
 8 - Nas deliberações relativas a equiparações a bolseiro, a dispensa de serviço docente, a nomeações de pessoal docente ou de júris de concursos ou de provas, só terão direito a voto os membros do conselho cuja categoria seja superior à dos interessados, salvo quando se trate de professores catedráticos, em que apenas terão direito a voto os membros do conselho de igual categoria.
 
-###### Art. 9.º A comissão executiva do Departamento é constituída por:
+Art. 9.º A comissão executiva do Departamento é constituída por:
 
 a) O presidente do conselho de departamento, que preside;
 
 b) Dois membros do conselho de departamento em exercício de funções, designados pelo presidente.
 
-###### Art. 10.º - 1 - À comissão executiva compete:
+Art. 10.º - 1 - À comissão executiva compete:
 
 a) Dirigir o Departamento de acordo com a legislação em vigor, com as normas gerais da Faculdade e com as deliberações e orientações estabelecidas pelo conselho de departamento;
 
@@ -248,7 +261,7 @@ g) Zelar pela boa conservação das instalações e do equipamento afectos ao De
 
 2 - A destituição ou demissão do presidente do conselho de departamento implica a cessação de funções da comissão executiva.
 
-###### Art. 11.º - 1 - Ao presidente do conselho de departamento compete:
+Art. 11.º - 1 - Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -262,19 +275,19 @@ c) Exercer as funções que lhe forem cometidas pelo conselho de departamento.
 
 4 - O presidente do conselho de departamento será substituído nas suas faltas ou impedimentos pelo membro permanente mais antigo da categoria mais elevada do Departamento.
 
-###### Art. 12.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas às comissões a constituir pelos professores doutorados do Departamento.
+Art. 12.º - 1 - As atribuições das comissões de grupo previstas no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, e não consideradas no presente Regulamento ficam cometidas às comissões a constituir pelos professores doutorados do Departamento.
 
 2 - Os professores que prestem serviço em mais de um departamento ou num grupo e num departamento só poderão integrar-se numa comissão de grupo ou de departamento.
 
 ### CAPÍTULO III — Da autonomia do Departamento
 
-###### Art. 13.º Os órgãos de gestão da Faculdade de Ciências da Universidade de Lisboa afectarão ao Departamento de Geologia as instalações e equipamentos que se mostrem indispensáveis ao seu funcionamento, os quais ficarão sob a responsabilidade da comissão executiva.
+Art. 13.º Os órgãos de gestão da Faculdade de Ciências da Universidade de Lisboa afectarão ao Departamento de Geologia as instalações e equipamentos que se mostrem indispensáveis ao seu funcionamento, os quais ficarão sob a responsabilidade da comissão executiva.
 
-###### Art. 14.º Os órgãos de gestão da Faculdade de Ciências da Universidade de Lisboa procederão ao destacamento interno do pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
+Art. 14.º Os órgãos de gestão da Faculdade de Ciências da Universidade de Lisboa procederão ao destacamento interno do pessoal docente, investigador, técnico superior, técnico, técnico-profissional, administrativo e auxiliar que se mostre necessário ao funcionamento do Departamento.
 
-###### Art. 15.º Serão atribuídas aos órgãos do Departamento, de acordo com as normas gerais em vigor na escola, todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
+Art. 15.º Serão atribuídas aos órgãos do Departamento, de acordo com as normas gerais em vigor na escola, todas as funções de natureza científica e pedagógica que sejam específicas da sua área.
 
-###### Art. 16.º - 1 - O orçamento do Departamento de Geologia constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
+Art. 16.º - 1 - O orçamento do Departamento de Geologia constituirá uma subdivisão orgânica do orçamento da Universidade de Lisboa no Orçamento Geral do Estado.
 
 2 - As receitas do Departamento de Geologia provenientes da celebração de convénios ou contratos de prestação de serviços, bem como de doações, legados, subsídios e comparticipações concedidos por quaisquer entidades públicas ou privadas, serão aplicadas através de orçamentos privativos.
 
@@ -282,11 +295,11 @@ c) Exercer as funções que lhe forem cometidas pelo conselho de departamento.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 17.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 17.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do disposto no número anterior os membros que fizerem exarar em acta a sua oposição às deliberações tomadas.
 
-###### Art. 18.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
+Art. 18.º - 1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros em efectividade de funções.
 
 2 - As deliberações são tomadas por maioria simples, salvo quando por lei ou regulamento seja exigida maioria qualificada.
 
@@ -294,10 +307,10 @@ c) Exercer as funções que lhe forem cometidas pelo conselho de departamento.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 19.º - 1 - Os processos eleitorais previstos neste Regulamento serão desencadeados no prazo máximo de dez dias, contados a partir da data da entrada em vigor deste diploma.
+Art. 19.º - 1 - Os processos eleitorais previstos neste Regulamento serão desencadeados no prazo máximo de dez dias, contados a partir da data da entrada em vigor deste diploma.
 
 2 - Cabe ao membro mais antigo da categoria mais elevada de cada departamento o desencadeamento dos respectivos processos eleitorais.
 
-###### Art. 20.º O presente Regulamento entra em vigor no dia imediato ao da sua publicação no Diário da República.
+Art. 20.º O presente Regulamento entra em vigor no dia imediato ao da sua publicação no Diário da República.
 
 Ministério da Educação e Ciência, 28 de Janeiro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

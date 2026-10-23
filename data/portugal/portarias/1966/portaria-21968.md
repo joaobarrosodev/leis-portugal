@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21968-1966-487303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ea8743488dfb0530053790ce50886861301d5c2c65291ae288a6441620b92f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff1ed28833a70757d89f16e7c3d02338fdb24424179b45c2fed7a5ec6b15ab12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:534975:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:34Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricult
 
 I) Das instalações e seu apetrechamento
 
-###### Artigo 1.º Para efeito da aprovação das instalações, com vista ao exercício das actividades avícolas referidas no artigo 1.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), é necessário apresentar à Direcção-Geral dos Serviços Pecuários requerimento em que se indique a finalidade da exploração, acompanhado de:
+Artigo 1.º Para efeito da aprovação das instalações, com vista ao exercício das actividades avícolas referidas no artigo 1.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), é necessário apresentar à Direcção-Geral dos Serviços Pecuários requerimento em que se indique a finalidade da exploração, acompanhado de:
 
 1) Um esboço topográfico, elaborado na escala de 1/1000, que localize, não só as instalações avícolas, como outras instalações circunvizinhas para animais;
 
@@ -123,7 +127,7 @@ C) Para centros de incubação. - Por entidades que sejam empresárias de mais d
 
 D) Para postos de incubação. - Por entidades que explorem e representem modalidades avícolas ainda não industrializadas, tais como, as de patos, perus, faisões, codornizes ou galináceos de tipo tradicional, isto é, pequenas explorações que se dediquem à produção de um tipo particular e para o qual não exista no País mercado adequado de aves recém-nascidas.
 
-###### Art. 2.º Para aprovação das instalações referidas no artigo 1.º exigem-se os requisitos genéricos seguintes:
+Art. 2.º Para aprovação das instalações referidas no artigo 1.º exigem-se os requisitos genéricos seguintes:
 
 1) Estarem situadas em local calmo, de fácil acesso, convenientemente afastado de outras explorações animais;
 
@@ -161,21 +165,21 @@ g) Registos e arquivos.
 
 § 2.º Para aviários de selecção, centros e postos de incubação, a Direcção-Geral dos Serviços Pecuários estabelecerá, para cada caso, exigências especiais de acordo com a natureza, objectivo e dimensão do empreendimento.
 
-###### Art. 3.º A apreciação dos requisitos constantes do artigo anterior será feita pela comissão a que se refere o artigo 19.º das presentes disposições regulamentares.
+Art. 3.º A apreciação dos requisitos constantes do artigo anterior será feita pela comissão a que se refere o artigo 19.º das presentes disposições regulamentares.
 
-###### Art. 4.º Para as instalações aprovadas, a Direcção-Geral dos Serviços Pecuários passará os respectivos certificados, consignando a finalidade da actividade avícola que nelas poderá ter lugar.
+Art. 4.º Para as instalações aprovadas, a Direcção-Geral dos Serviços Pecuários passará os respectivos certificados, consignando a finalidade da actividade avícola que nelas poderá ter lugar.
 
-###### Art. 5.º A ampliação ou modificação das instalações aprovadas carecerá sempre de autorização da Direcção-Geral dos Serviços Pecuários.
+Art. 5.º A ampliação ou modificação das instalações aprovadas carecerá sempre de autorização da Direcção-Geral dos Serviços Pecuários.
 
 II) Do exercício da actividade avícola
 
-###### Art. 6.º Para o exercício das actividades avícolas é necessário que os interessados requeiram autorização ao director-geral dos Serviços Pecuários, declarando que se comprometem a dar cumprimento às prescrições de ordem hígio-sanitária e zootécnica emanadas da Direcção-Geral das Serviços Pecuários e indicando:
+Art. 6.º Para o exercício das actividades avícolas é necessário que os interessados requeiram autorização ao director-geral dos Serviços Pecuários, declarando que se comprometem a dar cumprimento às prescrições de ordem hígio-sanitária e zootécnica emanadas da Direcção-Geral das Serviços Pecuários e indicando:
 
 a) O número e data do certificado de aprovação das instalações;
 
 b) O nome do médico veterinário responsável.
 
-###### Art. 7.º Para o funcionamento dos aviários de multiplicação exigem-se as condições gerais seguintes:
+Art. 7.º Para o funcionamento dos aviários de multiplicação exigem-se as condições gerais seguintes:
 
 A) Na criação e exploração de aves:
 
@@ -227,27 +231,27 @@ C) Na venda e expedição de aves recém-nascidas:
 
 § 2.º No caso de os empresários dos aviários de multiplicação se dedicarem também à produção de ovos ou aves para consumo, este sector terá do ocupar instalações distintas, de funcionamento absolutamente independente do da multiplicação.
 
-###### Art. 8.º Além dos requisitos estabelecidos para os aviários de multiplicação e aplicáveis aos aviários de selecção, exige-se para estes, e relativamente a qualquer esquema de reprodução, o registo da ascendência de ambos os reprodutores, com dados de performances relativos a, pelo menos, duas gerações, incluindo ascendentes e colaterais (irmãos e meios-irmãos) e, bem assim, das provas de descendência comprovativas do valor das estirpes isoladas.
+Art. 8.º Além dos requisitos estabelecidos para os aviários de multiplicação e aplicáveis aos aviários de selecção, exige-se para estes, e relativamente a qualquer esquema de reprodução, o registo da ascendência de ambos os reprodutores, com dados de performances relativos a, pelo menos, duas gerações, incluindo ascendentes e colaterais (irmãos e meios-irmãos) e, bem assim, das provas de descendência comprovativas do valor das estirpes isoladas.
 
-###### Art. 9.º De acordo com o estabelecido nos artigos 1.º e 3.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), os centros de incubação e os postos de incubação só podem incubar ovos provenientes, respectivamente:
+Art. 9.º De acordo com o estabelecido nos artigos 1.º e 3.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), os centros de incubação e os postos de incubação só podem incubar ovos provenientes, respectivamente:
 
 a) De mais de uma unidade que integre um conjunto de aviários de multiplicação ou de selecção;
 
 b) De explorações do tipo particular referido em D do § único do artigo 1.º, sendo, neste caso, as aves obrigatòriamente destinadas ao povoamento dos aviários ande os respectivos ovos foram produzidos.
 
-###### Art. 10.º Os ovos destinados a postos de incubação terão de ser acompanhados de atestado veterinário ou certificado sanitário, emitido pela intendência de pecuária da respectiva área, que comprove não se verificarem nos mesmos aviários doenças infecto-contagiosas, mediante exame realizado há menos de quinze dias.
+Art. 10.º Os ovos destinados a postos de incubação terão de ser acompanhados de atestado veterinário ou certificado sanitário, emitido pela intendência de pecuária da respectiva área, que comprove não se verificarem nos mesmos aviários doenças infecto-contagiosas, mediante exame realizado há menos de quinze dias.
 
-###### Art. 11.º A autorização para o exercício das actividades avícolas será concedida pela Direcção-Geral dos Serviços Pecuários, quando verificadas, mediante exame, as condições estabelecidas no artigo 4.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e as constantes das presentes disposições regulamentares.
+Art. 11.º A autorização para o exercício das actividades avícolas será concedida pela Direcção-Geral dos Serviços Pecuários, quando verificadas, mediante exame, as condições estabelecidas no artigo 4.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e as constantes das presentes disposições regulamentares.
 
 § único. No caso dos aviários de selecção, a autorização para o pleno exercício da actividade avícola, ou seja o direito à venda das aves produzidas, só poderá ser concedida após a homologação, pela Direcção-Geral dos Serviços Pecuários, dos resultados de provas de descendência realizadas durante um período mínimo de dois anos e que tenham incidido sobre características relacionadas com exigências do mercado consumidor, com a produtividade e com a resistência às doenças.
 
-###### Art. 12.º Qualquer alteração à finalidade da actividade avícola autorizada terá sempre de ser requerida à Direcção-Geral dos Serviços Pecuários.
+Art. 12.º Qualquer alteração à finalidade da actividade avícola autorizada terá sempre de ser requerida à Direcção-Geral dos Serviços Pecuários.
 
 III) Da importação das aves e de ovos para incubação
 
-###### Art. 13.º De acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e demais normas aplicáveis, designadamente o despacho ministerial de 29 de Abril de 1963, publicado sob a forma de aviso no Diário do Governo n.º 129, 2.ª série, de 31 de Maio de 1963, a importação de aves vivas e de ovos para incubação, qualquer que seja a sua finalidade e o meio de transporte utilizado, carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.
+Art. 13.º De acordo com o disposto no artigo 7.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e demais normas aplicáveis, designadamente o despacho ministerial de 29 de Abril de 1963, publicado sob a forma de aviso no Diário do Governo n.º 129, 2.ª série, de 31 de Maio de 1963, a importação de aves vivas e de ovos para incubação, qualquer que seja a sua finalidade e o meio de transporte utilizado, carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 14.º Os pedidos de importação de aves ou de ovos para incubação - estes exclusivamente destinados a aviários de multiplicação - terão de ser devidamente formulados para efeito de emissão do parecer referido no artigo anterior e deles deverá constar o seguinte:
+Art. 14.º Os pedidos de importação de aves ou de ovos para incubação - estes exclusivamente destinados a aviários de multiplicação - terão de ser devidamente formulados para efeito de emissão do parecer referido no artigo anterior e deles deverá constar o seguinte:
 
 1.º Nome e morada do importador;
 
@@ -259,11 +263,11 @@ III) Da importação das aves e de ovos para incubação
 
 5.º Sexo, não só para as aves adultas, como para as recém-nascidas.
 
-###### Art. 15.º A autorização para a entrada de aves no território metropolitano só poderá ser concedida quando, além das exigências de carácter sanitário impostas ao abrigo das disposições legais vigentes, as entidades importadoras disponham de instalações que possibilitem o isolamento completo dos núcleos durante a quarentena, aprovadas pela Direcção-Geral dos Serviços Pecuários, sempre que se trate de explorações não consideradas no artigo 1.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975).
+Art. 15.º A autorização para a entrada de aves no território metropolitano só poderá ser concedida quando, além das exigências de carácter sanitário impostas ao abrigo das disposições legais vigentes, as entidades importadoras disponham de instalações que possibilitem o isolamento completo dos núcleos durante a quarentena, aprovadas pela Direcção-Geral dos Serviços Pecuários, sempre que se trate de explorações não consideradas no artigo 1.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975).
 
 § único. As entidades importadoras obrigam-se a facultar à Direcção-Geral dos Serviços Pecuários todos os elementos necessários ao esclarecimento do estado sanitário dos bandos, incluindo a cedência do material indispensável para estudo ou análise.
 
-###### Art. 16.º Para efeito de aprovação das instalações destinadas a quarentena, é necessário apresentar à Direcção-Geral dos Serviços Pecuários requerimento acompanhado de:
+Art. 16.º Para efeito de aprovação das instalações destinadas a quarentena, é necessário apresentar à Direcção-Geral dos Serviços Pecuários requerimento acompanhado de:
 
 1) Um esboço topográfico, elaborado na escala de 1/1000, que permita localizar não só as instalações avícolas, como outras instalações circunvizinhas para animais;
 
@@ -281,7 +285,7 @@ III) Da importação das aves e de ovos para incubação
 
 5) Existência de um dispositivo para incineração em local convenientemente afastado.
 
-###### Art. 17.º Durante a quarentena será obrigatório:
+Art. 17.º Durante a quarentena será obrigatório:
 
 1) Dispor de pessoal privativo para o exclusivo tratamento das aves em sequestro e sob vigilância sanitária;
 
@@ -289,17 +293,17 @@ III) Da importação das aves e de ovos para incubação
 
 3) Comunicar imediatamente à intendência de pecuária da área onde se situar a instalação todas as ocorrências de carácter sanitário, acatando prontamente as instruções que lhes forem dadas.
 
-###### Art. 18.º Nenhuma indemnização será devida relativamente a aves mandadas destruir pela Direcção-Geral dos Serviços Pecuários como medida sanitária.
+Art. 18.º Nenhuma indemnização será devida relativamente a aves mandadas destruir pela Direcção-Geral dos Serviços Pecuários como medida sanitária.
 
-###### Art. 19.º Os exames para aprovação das instalações e para concessão ou revalidação do exercício das actividades avícolas serão efectuados anualmente por uma comissão de peritos designados pela Direcção-Geral dos Serviços Pecuários.
+Art. 19.º Os exames para aprovação das instalações e para concessão ou revalidação do exercício das actividades avícolas serão efectuados anualmente por uma comissão de peritos designados pela Direcção-Geral dos Serviços Pecuários.
 
 § único. No caso de actividades já existentes, os pedidos de aprovação das instalações e de exercício das actividades avícolas poderão ser objecto de um mesmo requerimento.
 
-###### Art. 20.º A utilização de qualquer marca, na venda de aves recém-nascidas, carece de prévio registo na Repartição de Propriedade Industrial, da Direcção-Geral do Comércio.
+Art. 20.º A utilização de qualquer marca, na venda de aves recém-nascidas, carece de prévio registo na Repartição de Propriedade Industrial, da Direcção-Geral do Comércio.
 
-###### Art. 21.º Sem prejuízo do recebimento da taxa a que se refere o [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), pode ser dispensada a aposição da anilha em cada uma das aves examinadas sempre que se disponha de meios que possibilitem a realização do exame em boas condições.
+Art. 21.º Sem prejuízo do recebimento da taxa a que se refere o [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), pode ser dispensada a aposição da anilha em cada uma das aves examinadas sempre que se disponha de meios que possibilitem a realização do exame em boas condições.
 
-###### Art. 22.º Para efeito da realização dos contrastes a que se refere o § 1.º do artigo 7.º deste regulamento, os aviários de multiplicação são obrigados a ceder gratuitamente à Direcção-Geral dos Serviços Pecuários as aves ou os ovos para incubação que lhes sejam solicitados, por escrito, até ao número máximo de:
+Art. 22.º Para efeito da realização dos contrastes a que se refere o § 1.º do artigo 7.º deste regulamento, os aviários de multiplicação são obrigados a ceder gratuitamente à Direcção-Geral dos Serviços Pecuários as aves ou os ovos para incubação que lhes sejam solicitados, por escrito, até ao número máximo de:
 
 Ovos ... 110
 
@@ -311,7 +315,7 @@ Pintos para carne, não sexados ... 50
 
 § 2.º A solicitação dos interessados, a Direcção-Geral dos Serviços Pecuários passará certificados dos resultados obtidos nos contrastes.
 
-###### Art. 23.º A Direcção-Geral dos Serviços Pecuários poderá retirar a aceitação do médico veterinário responsável quando a assistência à actividade avícola por ele prestada se traduza:
+Art. 23.º A Direcção-Geral dos Serviços Pecuários poderá retirar a aceitação do médico veterinário responsável quando a assistência à actividade avícola por ele prestada se traduza:
 
 1) Pelo não conhecimento permanente do estado sanitário dos efectivos;
 
@@ -325,14 +329,14 @@ Pintos para carne, não sexados ... 50
 
 6) Pelo não cumprimento das prescrições de ordem técnica que lhe venham a ser ditadas pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 24.º Os aviários de selecção, de multiplicação e os postos e centros de incubação ficam sujeitos às inspecções de ordem sanitária e zootécnica a fazer pelos delegados da Direcção-Geral dos Serviços Pecuários, para o que, obrigatòriamente, lhes serão facultados os registos referidos nas presentes disposições regulamentares e, bem assim, todas as informações de carácter técnico por eles solicitadas.
+Art. 24.º Os aviários de selecção, de multiplicação e os postos e centros de incubação ficam sujeitos às inspecções de ordem sanitária e zootécnica a fazer pelos delegados da Direcção-Geral dos Serviços Pecuários, para o que, obrigatòriamente, lhes serão facultados os registos referidos nas presentes disposições regulamentares e, bem assim, todas as informações de carácter técnico por eles solicitadas.
 
-###### Art. 25.º Os estabelecimentos oficiais, organismos corporativos ou de coordenação económica e as autarquias locais estão isentos do pagamento de taxas, excepto a que consta no n.º 1 da tabela a que se refere o artigo 6.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), sendo as autorizações para aprovação das instalações ou para exercício das actividades avícolas solicitadas por ofício.
+Art. 25.º Os estabelecimentos oficiais, organismos corporativos ou de coordenação económica e as autarquias locais estão isentos do pagamento de taxas, excepto a que consta no n.º 1 da tabela a que se refere o artigo 6.º do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975), sendo as autorizações para aprovação das instalações ou para exercício das actividades avícolas solicitadas por ofício.
 
-###### Art. 26.º As disposições estabelecidas pela presente portaria entram imediatamente em vigor, tendo os actuais avicultores o prazo de 180 dias para regularizar a sua situação, com excepção da obrigatoriedade de sexagem estabelecida no artigo 7.º, para a qual o prazo será fixado pela Direcção-Geral dos Serviços Pecuários.
+Art. 26.º As disposições estabelecidas pela presente portaria entram imediatamente em vigor, tendo os actuais avicultores o prazo de 180 dias para regularizar a sua situação, com excepção da obrigatoriedade de sexagem estabelecida no artigo 7.º, para a qual o prazo será fixado pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 27.º As disposições do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e as desta portaria não são aplicáveis às aves canoras ou ornamentais.
+Art. 27.º As disposições do [Decreto-Lei n.º 45880](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45880-1964-534975) e as desta portaria não são aplicáveis às aves canoras ou ornamentais.
 
-###### Art. 28.º As dúvidas ou casos omissos que surgirem na execução desta portaria serão resolvidos pelo Secretário de Estado da Agricultura.
+Art. 28.º As dúvidas ou casos omissos que surgirem na execução desta portaria serão resolvidos pelo Secretário de Estado da Agricultura.
 
 Secretaria de Estado da Agricultura, 25 de Abril de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

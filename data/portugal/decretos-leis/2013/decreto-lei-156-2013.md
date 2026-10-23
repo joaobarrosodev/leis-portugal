@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156/2013/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2013-504774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6812fd4501b5eb19c817d4dfa7ee88893414c11c2adf2a9da358abcdff5786f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa643b89878b0e351639acb1d78accdcb45d3e5fa0c6ed2117cff205a7ad792f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
 - Atribuição de Verba
-- Gestão de Resíduos
-- Comissão Reguladora para a Segurança das Instalações Nucleares
-- Formação Profissional
-- Multa
-- Radioprotecção
-- Definição de Competências
 - Combustível
-- Fiscalização
 - Comissão Independente para a Protecção Radiológica e Segurança Nuclear
+- Comissão Reguladora para a Segurança das Instalações Nucleares
+- Definição de Competências
+- Eliminação de Resíduos
+- Fiscalização
+- Formação Profissional
+- Gestão de Resíduos
 - Ilícito de MERA Ordenação Social
-- Transporte de Resíduos
 - Instituto Superior Técnico
 - Licenciamento
-- Proteção do Ambiente
-- Plano de Emergência
 - Madeira.região Autónoma
+- Multa
+- Plano de Emergência
+- Proteção do Ambiente
+- Radioprotecção
 - Regime Jurídico
 - Resíduo Radioactivo
 - Segurança das Instalações
-- Açores
-- Eliminação de Resíduos
 - Taxa
 - Transferência de Competências
+- Transporte de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -101,16 +101,22 @@ relationships:
   target: celex:32011L0070
   label: null
   source: http://data.europa.eu/eli/dir/2011/70/oj
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o Dec Lei 165/2002 de 17-jul, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 56
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:19Z'
   warnings: []
   errors: []
 ---
@@ -885,12 +891,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de outubro de 2013. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 30 de outubro de 2013.**
+Promulgado em 30 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de outubro de 2013.**
+Referendado em 31 de outubro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

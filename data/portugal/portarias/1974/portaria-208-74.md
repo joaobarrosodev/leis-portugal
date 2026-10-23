@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/208-1974-412406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92bd02a992afc3b915d22484a84a21868efe28e544f9119fbcafbc2e2c183130
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1f25c50ac0c5c5bdb45cd87908be7be709e908c1d528fe6dede0d61df52b2aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:21:52Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +122,9 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º As disposições abaixo indicadas do Decreto n.º 49399, de 24 de Novembro de 1969, passam a ter a seguinte redacção:
 
-###### Artigo 1.º É das atribuições do Centro de Informação e Turismo orientar, disciplinar e fiscalizar a indústria hoteleira e similar.
+Artigo 1.º É das atribuições do Centro de Informação e Turismo orientar, disciplinar e fiscalizar a indústria hoteleira e similar.
 
-###### Art. 2.º Para o desempenho das atribuições a que se refere o artigo 1.º cabe, designadamente, ao Centro de Informação e Turismo:
+Art. 2.º Para o desempenho das atribuições a que se refere o artigo 1.º cabe, designadamente, ao Centro de Informação e Turismo:
 
 ...
 
@@ -116,7 +132,7 @@ g) Fiscalizar, sem prejuízo da competência da Inspecção das Actividades Econ
 
 ...
 
-###### Art. 9.º - 1. A classificação atribuída aos estabelecimentos hoteleiros e similares, nos termos dos artigos 15.º e 18.º, poderá, a qualquer tempo, ser revista pelo Centro de Informação e Turismo, oficiosamente ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram ...
+Art. 9.º - 1. A classificação atribuída aos estabelecimentos hoteleiros e similares, nos termos dos artigos 15.º e 18.º, poderá, a qualquer tempo, ser revista pelo Centro de Informação e Turismo, oficiosamente ou a requerimento do interessado, verificada a alteração dos pressupostos que a determinaram ...
 
 ...
 
@@ -124,13 +140,13 @@ g) Fiscalizar, sem prejuízo da competência da Inspecção das Actividades Econ
 
 ...
 
-###### Art. 14.º ...
+Art. 14.º ...
 
 ...
 
 3. O simples facto de numa casa particular residirem hóspedes com carácter estável não se considera, para efeitos deste diploma, exercício de indústria hoteleira, desde que o seu número não seja superior a três.
 
-###### Art. 15.º - 1. Os estabelecimentos hoteleiros classificar-se-ão, nos termos regulamentares, nos seguintes grupos e categorias:
+Art. 15.º - 1. Os estabelecimentos hoteleiros classificar-se-ão, nos termos regulamentares, nos seguintes grupos e categorias:
 
 ...
 
@@ -138,7 +154,7 @@ g) Fiscalizar, sem prejuízo da competência da Inspecção das Actividades Econ
 
 ...
 
-###### Art. 17.º - 1. ...
+Art. 17.º - 1. ...
 
 ...
 
@@ -148,11 +164,11 @@ a) As casas particulares que proporcionem alimentação a hóspedes com carácte
 
 ...
 
-###### Art. 40.º - 1. Por despacho do Governador-Geral poderá ser ordenada a demolição ou o embargo administrativo, nos termos da legislação aplicável às edificações urbanas não licenciadas, de quaisquer construções ou outras obras realizadas em contravenção do disposto neste diploma ou em desconformidade com os projectos aprovados.
+Art. 40.º - 1. Por despacho do Governador-Geral poderá ser ordenada a demolição ou o embargo administrativo, nos termos da legislação aplicável às edificações urbanas não licenciadas, de quaisquer construções ou outras obras realizadas em contravenção do disposto neste diploma ou em desconformidade com os projectos aprovados.
 
 ...
 
-###### Art. 50.º - 1. ...
+Art. 50.º - 1. ...
 
 ...
 
@@ -160,17 +176,17 @@ a) As casas particulares que proporcionem alimentação a hóspedes com carácte
 
 ...
 
-###### Art. 58.º - 1. ...
+Art. 58.º - 1. ...
 
 2. No prazo de doze meses, a partir da entrada em vigor do presente diploma, o Centro de Informação e Turismo reclassificará os estabelecimentos hoteleiros existentes e, nos dezoito meses a partir da mesma data, classificará os estabelecimentos similares, de acordo com os requisitos mínimos estabelecidos.
 
 ...
 
-###### Art. 61.º O Ministro do Ultramar resolverá por despacho as dúvidas levantadas pela aplicação deste diploma.
+Art. 61.º O Ministro do Ultramar resolverá por despacho as dúvidas levantadas pela aplicação deste diploma.
 
 ...
 
-###### Art. 64.º O presente diploma entrará em vigor com o diploma regulamentar previsto no artigo 62.º
+Art. 64.º O presente diploma entrará em vigor com o diploma regulamentar previsto no artigo 62.º
 
 Ministério do Ultramar, 12 de Março de 1974. - O Ministro do Ultramar, Baltasar Leite Rebelo de Sousa.
 

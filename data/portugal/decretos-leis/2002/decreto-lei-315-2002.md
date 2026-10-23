@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/2002/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2002-404747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6034e33351df7b322d1f7808dc9fc7b3f0fdbe6c02e12d7243891d8bf419e1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3027774fafb84cb046e124fbc3d4b545f44f92a8ed6cad42840e54488994174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,125 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviços de Registo e Notariado
 - Emolumento do Notariado
 - Isenção de Taxas e Emolumentos
 - Regulamento Emolumentar dos Registos e Notariado
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:190576:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655966:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001, de 14-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.194/2003.23.08.2003.MJ, DR.IS-A [194] de 23.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2003-655966
+  date: '2003-08-23'
+- type: amended_by
+  target: pt:dre:538423:por
+  label: Alterado o art. 28.º do Regulamento Emulumentar dos Registos e Notariado, na redacção do presente diploma, pelo DEC
+    LEI.53/2004.18.03.2004.MJ, DR.IS-A [66] de 18.03.2004, a partir da data da sua entrada em vigor.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2004-538423
+  date: '2004-03-18'
+- type: amended_by
+  target: pt:dre:480709:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado anexo ao Dec Lei 322-A/2001 de 14-Dez, na\
+    \ redacção do presente diploma, pelo DEC LEI.199/2004.18.08.2004.MF, DR.IS-A [194] de 18.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-2004-480709
+  date: '2004-08-18'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001 de 14-Dez,\
+    \ com a redacção do presente diploma, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:404371:por
+  label: "Alterado o art 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.178-A/2005.28.10.2005.MJ, DR.IS-A [208-Supl] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2005-404371
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:633290:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001 de 14-Dez,\
+    \ com a redacção constante do presente diploma, pelo DEC LEI.85/2006.23.05.2006.MJ, DR.IS-A [99] de 23.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2006-633290
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:356373:por
+  label: "Alterado o artigo 28.º do Decreto-Lei 322-A/2001, de 14 de Dezembro, na redacção do presente diploma, pelo DEC LEI.125/2006.29.06.2006.MJ,\
+    \ DR.IS-A [124] de 29.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2006-356373
+  date: '2006-06-29'
+- type: amended_by
+  target: pt:dre:640908:por
+  label: "Alterado o art. 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de\
+    \ 14-Dez, na redacção do presente diploma, pela LEI.40/2007.24.08.2007.AR, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o artigo 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei 322-A/2001\
+    \ de 14 de Dezembro, na redacção do presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001, de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterado o art. 18º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322 -A/2001, de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:344272:por
+  label: "Alterado, a partir de 01.10.2010, o art. 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo\
+    \ Dec Lei 322-A/2001 de 14-Dez, com a redacção do presente diploma, pelo DEC LEI.99/2010.02.09.2010.MJ, DR.IS [171] de\
+    \ 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2010-344272
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001, de\
+    \ 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:190576:por
+  label: Alterado o art. 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Dec Lei 322-A/2001 de 14-dez,
+    com a redação dada pelo presente diploma, pela LEI.63/2012.10.12.2012.AR, DR.IS [238] de 10.12.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2012-190576
+  date: '2012-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:19Z'
   warnings: []
   errors: []
 ---
@@ -143,12 +239,12 @@ O presente diploma produz efeitos desde 1 de Setembro de 2002.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 11 de Dezembro de 2002.**
+Promulgado em 11 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Dezembro de 2002.**
+Referendado em 16 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

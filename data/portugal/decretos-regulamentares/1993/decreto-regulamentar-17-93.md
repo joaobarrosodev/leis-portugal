@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/06/127b00/29592960.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/1993/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1993-256216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeb2a0d5df527954b6115717e364932a0e67bc10f534dd0a594842e196631d72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2686d7a5bff5268d86c296d369b073ec0ba34f37a3151b4089d3fa1c56a35e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ICEP
 - Contrato de Investimento
 - Desenvolvimento Industrial
-- Projeto de Investimento
+- ICEP
 - Investimento Estrangeiro
 - Política Económica
+- Projeto de Investimento
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:468779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:625610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661164:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468779:por
+  label: "REVOGADO O DR 24/86 DE 18-JUL, NA REDACÇÃO CONSTANTE DO PRESENTE DIPLOMA, PELO DR 2/96 DE 16-MAI DR.IS-B [114]\0\
+    B [114]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-1996-468779
+  date: '1996-05-16'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:39Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +141,7 @@ Assim:
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 1.º, 4.º, 5.º, 6.º e 10.º do [Decreto Regulamentar n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1986-661160), de 18 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 4.º, 5.º, 6.º e 10.º do [Decreto Regulamentar n.º 24/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1986-661160), de 18 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -137,21 +155,21 @@ b) Tenham efeito estruturante no tecido económico nacional, inserindo-se nas po
 
 c) Contribuam de forma relevante para o desenvolvimento e internacionalização da economia nacional.
 
-###### Art. 4.º - 1 - Nos contratos de investimento podem ser concedidos aos investidores os incentivos financeiros e fiscais, nos termos previstos pela legislação aplicável, que se mostrem qualitativa e quantitativamente adequados aos projectos, aos objectivos fixados e aos prazos dos contratos.
+Art. 4.º - 1 - Nos contratos de investimento podem ser concedidos aos investidores os incentivos financeiros e fiscais, nos termos previstos pela legislação aplicável, que se mostrem qualitativa e quantitativamente adequados aos projectos, aos objectivos fixados e aos prazos dos contratos.
 
 2 - Nos contratos de investimento relativos a projectos que envolvam a formação de pessoal poderá ainda ser atribuída, pelo Estado, uma comparticipação financeira à formação profissional, nos termos da lei.
 
 3 - (Anterior n.º 2.)
 
-###### Art. 5.º - 1 - O processo inicia-se pela apresentação, à entidade competente, do projecto de investimento, com suficiente caracterização e fundamentação económica, financeira, jurídica e técnica.
+Art. 5.º - 1 - O processo inicia-se pela apresentação, à entidade competente, do projecto de investimento, com suficiente caracterização e fundamentação económica, financeira, jurídica e técnica.
 
 2 - Os projectos de investimento que reúnam as condições previstas no artigo 1.º serão remetidos, pelas entidades gestoras dos sistemas de incentivos em vigor, à entidade competente, no prazo de 15 dias após a sua recepção, sempre que tenham sido apresentados a estas.
 
 3 - A entidade competente dispõe de 15 dias a contar da data de recepção do projecto para se pronunciar sobre a admissão do mesmo ao regime contratual, devendo notificar os promotores da sua decisão.
 
-###### Art. 6.º Admitido o projecto ao regime contratual, a entidade competente comunica a pendência do processo a todos os ministérios e entidades públicas ou privadas que possam estar directa ou indirectamente envolvidos ou interessados na negociação, coordena a participação das mesmas na análise do projecto e solicita as autorizações sectoriais e os pareceres que se mostrem necessários ou convenientes.
+Art. 6.º Admitido o projecto ao regime contratual, a entidade competente comunica a pendência do processo a todos os ministérios e entidades públicas ou privadas que possam estar directa ou indirectamente envolvidos ou interessados na negociação, coordena a participação das mesmas na análise do projecto e solicita as autorizações sectoriais e os pareceres que se mostrem necessários ou convenientes.
 
-###### Art. 10.º - 1 - ...
+Art. 10.º - 1 - ...
 
 2 - O processo é submetido a decisão final por despacho conjunto do ministro da tutela da entidade competente e dos ministros da tutela dos sectores envolvidos ou por resolução do Conselho de Ministros, se estiver em causa a atribuição de benefícios fiscais previstos no n.º 1 do artigo 49.º-A do Estatuto de Benefícios Fiscais.
 
@@ -161,12 +179,12 @@ Presidência do Conselho de Ministros, 29 de Março de 1993.
 
 Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 10 de Maio de 1993.**
+Promulgado em 10 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Maio de 1993.**
+Referendado em 13 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08600/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2025/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2025-916914751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1be5c370e359409296028378f9e75f0893d3a502fe1da8e89ed1ece3c615f8ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15e9e0ad15a65064a3b2db31d676deae5397cc254c6f0679e621f4d1417c0e22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Acumulação de Prestações Sociais
 - Contra-ordenação
-- Proteção ao Deficiente
 - Prestações Familiares
+- Proteção ao Deficiente
 - Subsídio de Funeral
-- Abono de Família
+- Subsídio Familiar a Crianças e Jovens
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:176/2003
+  label: Altera os artigos 29.º e 45.º-A do Decreto-Lei n.º 176/2003, de 2 de agosto, Diário da República n.º 177/2003, Série
+    I-A
+  source: null
+  date: '2003-08-02'
 - type: cites
   target: celex:32016R0679
   label: null
@@ -98,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899341:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:56Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +176,9 @@ Os artigos 29.º e 45.º-A do [Decreto-Lei n.º 176/2003](https://diariodarepubl
 
 2 - Para os efeitos referidos no número anterior, devem ser estabelecidos os procedimentos a observar na promoção de informação entre as entidades e serviços envolvidos, designadamente através da interoperabilidade de dados, através da Plataforma de Interoperabilidade da Administração Pública (iAP), em conformidade com o [Decreto-Lei n.º 49/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2024-875899341), de 8 de agosto.
 
-###### Artigo 45.º-A — [...]
+Artigo 45.º-A
+
+[...]
 
 1 - [...]
 
@@ -164,7 +192,7 @@ Os artigos 29.º e 45.º-A do [Decreto-Lei n.º 176/2003](https://diariodarepubl
 
 6 - Nas situações de não consentimento por parte da beneficiária ou de falência do sistema informático, a certificação médica é emitida no modelo aprovado por portaria dos membros do Governo responsáveis pelas áreas da saúde e da segurança social e, sem prejuízo do seu registo posterior obrigatório na plataforma eletrónica e comunicada à beneficiária através do Serviço Público de Notificações Eletrónicas (SPNE), sempre que esta tenha aderido à morada única digital.
 
-7 - Nas situações em que ocorra alteração do número de nascituros após a emissão da certificação médica, deve ser emitido novo certificado nos termos previstos nos n.<sup>os</sup>4 e 5 ou no n.º 6, quando aplicável.
+7 - Nas situações em que ocorra alteração do número de nascituros após a emissão da certificação médica, deve ser emitido novo certificado nos termos previstos nos n.os4 e 5 ou no n.º 6, quando aplicável.
 
 8 - Os termos e condições da interoperabilidade de dados são estabelecidos por protocolo a celebrar entre as entidades referidas no n.º 4.
 
@@ -174,12 +202,14 @@ Os artigos 29.º e 45.º-A do [Decreto-Lei n.º 176/2003](https://diariodarepubl
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - João Alexandre da Silva Lopes - Ana Margarida Pinheiro Povo - Rosário Palma Ramalho - Margarida Balseiro Lopes.
 
-**Promulgado em 29 de abril de 2025.**
+Promulgado em 29 de abril de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de abril de 2025.**
+Referendado em 30 de abril de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119006248

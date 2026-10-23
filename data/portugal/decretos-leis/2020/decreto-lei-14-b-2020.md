@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 69/2020, 1º Suplemento, Série I de 2020-04-07
   number: '69'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11-(4) a 11-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06901/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14-b/2020/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-b-2020-131228425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72b4b12369561983d618eb8f577eca64f2ad44c5365776657b9e512d4409dc8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9a67182b350d75117cdf6061380d32de22d7e2f9626a89c8dc3e627d4be5955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Acordo
-- Gestão de Resíduos
-- Saneamento Básico
+- Águas Residuais
+- Autarquia Local
+- Cobrança de Dívidas
 - Definição de Competências
 - Dívida Pública
 - Dívidas ao Estado
-- Pagamento
-- Águas Residuais
-- Tratamento de Resíduos
-- Prorrogação de Prazo
-- Cobrança de Dívidas
 - Empresa Intermunicipal
-- Abastecimento de Água
 - Empresa Municipal
-- Autarquia Local
+- Gestão de Resíduos
+- Pagamento
+- Prorrogação de Prazo
+- Saneamento Básico
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:172153527:por
@@ -106,16 +106,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117754016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603956:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:172153527:por
+  label: Revogado, a partir de 30.09.2021, com efeitos a 01.10.2021, presente diploma pelo(a) Decreto-Lei n.º 78-A/2021 -
+    Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-a-2021-172153527
+  date: '2021-09-29'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:50Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +196,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, pr
 
 Visto e aprovado em Conselho de Ministros de 2 de abril de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 6 de abril de 2020.**
+Promulgado em 6 de abril de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de abril de 2020.**
+Referendado em 6 de abril de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113170895

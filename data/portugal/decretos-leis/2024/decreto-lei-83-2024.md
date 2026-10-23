@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21200/0001700023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2024/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2024-894487443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ab9e0a38e3681619ce5661a33d779f6d891c487bd51451e3de5dba2bfdd89f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7d4209788b5feda4f4030fe6a46537eb14076d0d1bfbd02ec5cc1e4a074d3f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Escola Superior de Enfermagem
-- Lisboa
-- Gestão do Património
-- Universidade de Lisboa
-- Universidade do Porto
 - Coimbra
 - Ensino Superior
+- Escola Superior de Enfermagem
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Lisboa
+- Porto
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
-- Porto
 - Universidade de Coimbra
+- Universidade de Lisboa
+- Universidade do Porto
 relationships:
 - type: amended_by
   target: pt:dre:1065985433:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:175/2004
+  label: Determina, a partir de 5 de novembro de 2024, nos termos dos artigos 1.º e 3.º do presente diploma, a integração
+    das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto, criadas pelo Decreto-Lei n.º 175/2004, de 21 de
+    julho, Diário da República n.º 170/2004, Série I-A, respetivamente, nas Universidades de Coimbra, de Lisboa e do Porto,
+    bem como a sucessão por estas na totalidade das atribuições e competências, dos direitos e das obrigações de que as referidas
+    Escolas sejam titulares, de qualquer fonte e natureza, independentemente de quaisquer formalidades, e revoga os artigos
+    7.º, 8.º, 9.º e 10.º do referido diploma
+  source: null
+  date: '2004-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/175/2004/07/21/p/dre
   label: null
@@ -105,16 +115,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:20Z'
   warnings: []
   errors: []
 ---
@@ -137,9 +175,9 @@ Efetivamente, perspetiva-se que a integração das Escolas Superiores de Enferma
 
 Neste sentido, compete ao Estado promover a racionalização da rede de instituições de ensino superior públicas e da sua oferta formativa, nomeadamente através da integração de estabelecimentos de ensino superior, nos termos do artigo 54.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, que estabelece o Regime Jurídico das Instituições de Ensino Superior, na sua redação atual.
 
-De acordo com o disposto no artigo 55.º do referido diploma, considerados os resultados da avaliação e ouvidos os órgãos das instituições em causa, bem como os organismos representativos das instituições de ensino superior públicas e o Conselho Coordenador do Ensino Superior, a integração de instituições de ensino superior tem lugar através de decreto-lei, o qual deve conter os princípios fixados pelas normas gerais aplicáveis nesta matéria e determinar as medidas para salvaguardar os direitos dos estudantes e do pessoal, assim como os arquivos documentais da instituição. Por outro lado, considerando que a Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, prevê expressamente, no n.º 3 do seu artigo 17.º, a possibilidade de as universidades integrarem escolas superiores do ensino politécnico, a integração das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto nas Universidades de Coimbra, de Lisboa e do Porto, respetivamente, não colide com a sua natureza politécnica, que pode manter-se, nos termos previstos no n.º 6 do artigo 13.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, à semelhança do que se verificou com as restantes escolas superiores de enfermagem, integradas nas Universidades do Algarve, de Évora, do Minho, de Trás-os-Montes e Alto Douro, dos Açores e da Madeira, nos termos do disposto na alínea d) do artigo 3.º do [Decreto-Lei n.º 99/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2001-344966), de 28 de março, e nos n.<sup>os</sup>2 e 3 do artigo 1.º do [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), de 21 de julho.
+De acordo com o disposto no artigo 55.º do referido diploma, considerados os resultados da avaliação e ouvidos os órgãos das instituições em causa, bem como os organismos representativos das instituições de ensino superior públicas e o Conselho Coordenador do Ensino Superior, a integração de instituições de ensino superior tem lugar através de decreto-lei, o qual deve conter os princípios fixados pelas normas gerais aplicáveis nesta matéria e determinar as medidas para salvaguardar os direitos dos estudantes e do pessoal, assim como os arquivos documentais da instituição. Por outro lado, considerando que a Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, prevê expressamente, no n.º 3 do seu artigo 17.º, a possibilidade de as universidades integrarem escolas superiores do ensino politécnico, a integração das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto nas Universidades de Coimbra, de Lisboa e do Porto, respetivamente, não colide com a sua natureza politécnica, que pode manter-se, nos termos previstos no n.º 6 do artigo 13.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, à semelhança do que se verificou com as restantes escolas superiores de enfermagem, integradas nas Universidades do Algarve, de Évora, do Minho, de Trás-os-Montes e Alto Douro, dos Açores e da Madeira, nos termos do disposto na alínea d) do artigo 3.º do [Decreto-Lei n.º 99/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2001-344966), de 28 de março, e nos n.os2 e 3 do artigo 1.º do [Decreto-Lei n.º 175/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-2004-505637), de 21 de julho.
 
-Desta forma, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º e dos n.<sup>os</sup>2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, e à luz do objetivo expresso no Programa do XXIV Governo Constitucional no âmbito da Ciência, do Ensino Superior e da Inovação, no que, em particular, se refere a uma definição da oferta educativa atenta às necessidades da sociedade e da economia, concretiza-se a integração das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto, respetivamente, nas Universidades de Coimbra, de Lisboa e do Porto, mantendo a sua natureza politécnica.
+Desta forma, no quadro estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, na sua redação atual, tendo por habilitação legal as disposições conjugadas do n.º 6 do artigo 13.º e dos n.os2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, e à luz do objetivo expresso no Programa do XXIV Governo Constitucional no âmbito da Ciência, do Ensino Superior e da Inovação, no que, em particular, se refere a uma definição da oferta educativa atenta às necessidades da sociedade e da economia, concretiza-se a integração das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto, respetivamente, nas Universidades de Coimbra, de Lisboa e do Porto, mantendo a sua natureza politécnica.
 
 De acordo com o parecer da Direção-Geral do Ensino Superior, encontram-se reunidas as condições para a integração das Escolas Superiores de Enfermagem de Coimbra, de Lisboa e do Porto, respetivamente, nas Universidades de Coimbra, de Lisboa e do Porto.
 
@@ -147,7 +185,7 @@ Foram ouvidos o Conselho Coordenador do Ensino Superior, o Conselho de Reitores 
 
 Assim:
 
-Nos termos dos n.<sup>os</sup>2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+Nos termos dos n.os2 e 3 do artigo 55.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -251,15 +289,15 @@ São revogados os artigos 7.º a 10.º do [Decreto-Lei n.º 175/2004](https://di
 
 Visto e aprovado em Conselho de Ministros de 2 de outubro de 2024. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Fernando Alexandre.
 
-**Promulgado em 26 de outubro de 2024.**
+Promulgado em 26 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de outubro de 2024.**
+Referendado em 29 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 6.º)
 
@@ -277,8 +315,10 @@ a) Prédio urbano correspondente à Escola Superior de Enfermagem de Lisboa, sit
 
 3 - O património imobiliário do domínio privado da Escola Superior de Enfermagem do Porto é constituído por:
 
-a) Prédio urbano sito na Rua do Dr. António Bernardino de Almeida, n.<sup>os</sup>830, 844, 856, 4200-072 Porto, inscrito na matriz sob o artigo 10275 da freguesia de Paranhos, no concelho do Porto, descrito na Conservatória do Registo Predial do Porto sob o n.º 4738, da freguesia de Paranhos, no concelho do Porto - Polo São João (polo-sede);
+a) Prédio urbano sito na Rua do Dr. António Bernardino de Almeida, n.os830, 844, 856, 4200-072 Porto, inscrito na matriz sob o artigo 10275 da freguesia de Paranhos, no concelho do Porto, descrito na Conservatória do Registo Predial do Porto sob o n.º 4738, da freguesia de Paranhos, no concelho do Porto - Polo São João (polo-sede);
 
-b) Prédio urbano sito na Rua de Álvares Cabral, n.<sup>os</sup>374, 384 e 394, 4050-040 Porto, inscrito na matriz sob o artigo 1380 da União das Freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, descrito na Conservatória do Registo Predial do Porto sob o n.º 5283, da freguesia de Cedofeita, no concelho do Porto - Polo Cidade do Porto;
+b) Prédio urbano sito na Rua de Álvares Cabral, n.os374, 384 e 394, 4050-040 Porto, inscrito na matriz sob o artigo 1380 da União das Freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória, descrito na Conservatória do Registo Predial do Porto sob o n.º 5283, da freguesia de Cedofeita, no concelho do Porto - Polo Cidade do Porto;
 
 c) Prédio urbano sito na Rua do Professor Álvaro Rodrigues, n.º 49, 4100-040 Porto, inscrito na matriz sob o artigo 6843 da União das Freguesias de Aldoar, Foz do Douro e Nevogilde, descrito na Conservatória do Registo Predial do Porto sob o n.º 3048, da freguesia de Aldoar, no concelho do Porto - Polo Dona Ana Guedes.
+
+118293287

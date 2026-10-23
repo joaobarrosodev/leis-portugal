@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 288/2000, 2º Suplemento, Série I-A de 2000-12-15
   number: '288'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7342-(17) a 7342-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/288a02/00170023.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/320-c/2000/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-c-2000-393231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71d2ec3e5d963344d0c6e4372f30aa7b8e98716cb43c2fabbf0d53fe8b968ad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 123574617a20a081f5036744fbe7bc913ffa34b90c0b00a1f4ab5de415114aec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Penal
-- Código de Processo Penal
 - Arguido
+- Código de Processo Penal
 - Instrução Criminal
 - Notificação
+- Processo Penal
 - Profissão Independente
 - Testemunha
 relationships:
@@ -77,6 +77,49 @@ relationships:
   target: pt:dre:140431165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641082:por
+  label: "Alterados a partir de 15.09.2007, os arts. 160.º-A, 188º, 277º, 285º, 312º, 315º, 328º, 331º, 364º, 386º, 389º,\
+    \ 391º-E e 425º, todos do Código de Processo Penal aprovado pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma,\
+    \ pela LEI.48/2007.29.08.2007.AR, DR.IS [166] de 29.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2007-641082
+  date: '2007-08-29'
+- type: amended_by
+  target: pt:dre:453251:por
+  label: Alterado a partir de 02.01.2009, o artigo 318.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87,
+    de 17 de Fevereiro, na redacção do presente diploma, republicado pela Decl Rect 105/2007 de 09-Nov, pela LEI.52/2008.28.08.2008.AR,
+    DR.IS [166] de 28.08.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-2008-453251
+  date: '2008-08-28'
+- type: amended_by
+  target: pt:dre:343929:por
+  label: "Alterados, a partir de 29.10.2010, os arts 333º, 334º, 386.º, 389.º e 391.º-E, do Código de Processo Penal aprovado\
+    \ pelo Dec Lei 78/87 de 17-Fev, na redacção do presente diploma, alterado e republicado pela Lei 48/2007 de 29-Ago, posteriormente\
+    \ rectificada, republicada e (renumerados alguns nºs de arts.) pelas Decl-Rect 100-A/2007 de 26-Out e 105/2007 de 09-Nov\
+    \ que procederam também à republicação, na redacção actual, do Código de Processo Penal em anexo à citada lei, pela LEI.26/2010.30.08.2010.AR,\
+    \ DR.IS [168] de 30.08.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2010-343929
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:258493:por
+  label: Alterados os art.s 113º, 145º, 196º, 315º, 364º e 389º do Código de Processo Penal, aprovado pelo Dec Lei 78/87,
+    de 17-fev, na redação do presente diploma, pela LEI.20/2013.21.02.2013.AR, DR.IS [37] de 21.02.2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2013-258493
+  date: '2013-02-21'
+- type: amended_by
+  target: pt:dre:105599333:por
+  label: Alterado o art. 318.º do Código do Processo Penal aprovado pelo Dec Lei 78/87, de 17-fev, na redação do presente
+    diploma pelo(a) Lei n.º 40-A/2016 - Diário da República n.º 244/2016, 1º Suplemento, Série I de 2016-12-22, nos termos
+    do art. 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-a-2016-105599333
+  date: '2016-12-22'
+- type: amended_by
+  target: pt:dre:114582930:por
+  label: Alterado a partir de 13.02.2018, o art. 113.º (o n.º 2 a partir de 23.03.2018), do Código do Processo Penal, aprovado
+    pelo Dec Lei 78/87 de 17-fev, na redação do presente diploma, na versão republicada pela Lei 48/2007 de 29-ago pelo(a)
+    Lei n.º 1/2018 - Diário da República n.º 20/2018, Série I de 2018-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-2018-114582930
+  date: '2018-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/317/1995/11/28/p/dre
   label: null
@@ -89,16 +132,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/1998/08/25/p/dre
+- type: cites
+  target: pt:dre:448110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670286:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:337860:por
+  label: "Rectificada pela DECL-RECT.9-F/2001.2001.03.29.PCM, DR.IS-A [77]2ºSupl. de 31/Mar/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-f-2001-337860
+  date: '2001-03-29'
 article_structure:
-  article_count: 31
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:33Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +271,9 @@ d) ...
 
 12 - (Anterior n.º 10.)
 
-###### Artigo 145.º — Declarações e notificações do assistente e das partes civis
+Artigo 145.º
+
+Declarações e notificações do assistente e das partes civis
 
 1 - ...
 
@@ -213,7 +287,9 @@ d) ...
 
 6 - A indicação de local para efeitos de notificação, nos termos do número anterior, é acompanhada da advertência ao assistente ou às partes civis de que a mudança da morada indicada deve ser comunicada através da entrega de requerimento ou a sua remessa por via postal registada à secretaria onde os autos se encontrarem a correr nesse momento.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - (Anterior proémio do artigo.)
 
@@ -223,7 +299,9 @@ b) ...
 
 2 - Os peritos dos estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá a sua audição.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - Da intercepção e gravação a que se refere o artigo anterior é lavrado auto, o qual, junto com as fitas gravadas ou elementos análogos, é imediatamente levado ao conhecimento do juiz que tiver ordenado ou autorizado as operações, com a indicação das passagens das gravações ou elementos análogos considerados relevantes para a prova.
 
@@ -235,7 +313,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +333,9 @@ d) De que o incumprimento do disposto nas alíneas anteriores legitima a sua rep
 
 4 - ...
 
-###### Artigo 277.º — [...]
+Artigo 277.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +353,9 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +385,9 @@ g) ...
 
 7 - O limite do número de testemunhas previsto na alínea d) do n.º 3 pode ser ultrapassado desde que tal se afigure necessário para a descoberta da verdade material, designadamente quando tiver sido praticado algum dos crimes referidos no n.º 2 do artigo 215.º ou se o processo se revelar de excepcional complexidade, devido ao número de arguidos ou ofendidos ou ao carácter altamente organizado do crime.
 
-###### Artigo 284.º — [...]
+Artigo 284.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +397,9 @@ a) ...
 
 b) ...
 
-###### Artigo 285.º — [...]
+Artigo 285.º
+
+[...]
 
 1 - ...
 
@@ -319,7 +407,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 307.º — [...]
+Artigo 307.º
+
+[...]
 
 1 - Encerrado o debate instrutório, o juiz profere despacho de pronúncia ou de não pronúncia, que é logo ditado para acta, considerando-se notificado aos presentes, podendo fundamentar por remissão para as razões de facto e de direito enunciadas na acusação ou no requerimento de abertura da instrução.
 
@@ -331,7 +421,9 @@ b) ...
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 312.º — [...]
+Artigo 312.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +433,9 @@ b) ...
 
 4 - Se no processo existir advogado constituído, o tribunal deve diligenciar pela concertação da data para audiência, de modo a evitar o conflito com a marcação de audiência, por acordo feito ao abrigo do artigo 155.º do Código de Processo Civil.
 
-###### Artigo 313.º — [...]
+Artigo 313.º
+
+[...]
 
 1 - ...
 
@@ -359,7 +453,9 @@ d) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 315.º — [...]
+Artigo 315.º
+
+[...]
 
 1 - ...
 
@@ -369,7 +465,9 @@ d) ...
 
 4 - Ao rol de testemunhas é aplicável o disposto no artigo 283.º, n.º 3, alínea d), e n.º 7.
 
-###### Artigo 316.º — [...]
+Artigo 316.º
+
+[...]
 
 1 - O Ministério Público, o assistente, o arguido ou as partes civis podem alterar o rol de testemunhas, inclusivamente requerendo a inquirição para além do limite legal, nos casos previstos no n.º 7 do artigo 283.º, contanto que o adicionamento ou a alteração requeridos possam ser comunicados aos outros até três dias antes da data fixada para a audiência.
 
@@ -377,7 +475,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 317.º — [...]
+Artigo 317.º
+
+[...]
 
 1 - As testemunhas, os peritos e os consultores técnicos indicados por quem se não tiver comprometido a apresentá-los na audiência são notificados para comparência, excepto os peritos dos estabelecimentos, laboratórios ou serviços oficiais apropriados, os quais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá à sua audição.
 
@@ -393,7 +493,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 318.º — [...]
+Artigo 318.º
+
+[...]
 
 1 - Excepcionalmente, a tomada de declarações ao assistente, às partes civis, às testemunhas, a peritos ou a consultores técnicos pode, oficiosamente ou a requerimento, não ser prestada presencialmente, podendo ser solicitada pelo presidente ao juiz de outra comarca, por meio adequado de comunicação, nos termos do artigo 111.º, se:
 
@@ -415,7 +517,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 328.º — [...]
+Artigo 328.º
+
+[...]
 
 1 - ...
 
@@ -439,7 +543,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 331.º — [...]
+Artigo 331.º
+
+[...]
 
 1 - ...
 
@@ -447,7 +553,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 332.º — [...]
+Artigo 332.º
+
+[...]
 
 1 - É obrigatória a presença do arguido na audiência, sem prejuízo do disposto nos artigos 333.º, n.os 1 e 2, e 334.º, n.os 1 e 2.
 
@@ -465,7 +573,9 @@ d) ...
 
 8 - ...
 
-###### Artigo 333.º — [...]
+Artigo 333.º
+
+[...]
 
 1 - Se o arguido regularmente notificado não estiver presente na hora designada para o início da audiência, o presidente toma as medidas necessárias e legalmente admissíveis para obter a sua comparência, e a audiência só é adiada se o tribunal considerar que é absolutamente indispensável para a descoberta da verdade material a sua presença desde o início da audiência.
 
@@ -479,7 +589,9 @@ d) ...
 
 6 - É correspondentemente aplicável o disposto nos artigos 116.º, n.os 1 e 2, e 254.º e nos n.os 4 e 5 do artigo seguinte.
 
-###### Artigo 334.º — [...]
+Artigo 334.º
+
+[...]
 
 1 - ...
 
@@ -495,7 +607,9 @@ d) ...
 
 7 - (Anterior n.º 9.)
 
-###### Artigo 335.º — [...]
+Artigo 335.º
+
+[...]
 
 1 - Fora dos casos previstos nos n.os 1 e 2 do artigo anterior, se, depois de realizadas as diligências necessárias à notificação a que se refere o artigo 313.º, n.º 2 e primeira parte do n.º 3, não for possível notificar o arguido do despacho que designa o dia para a audiência, ou executar a detenção ou a prisão preventiva referidas nos artigos 116.º, n.º 2, e 254.º, ou consequentes a uma evasão, o arguido é notificado por editais para se apresentar em juízo, num prazo até 30 dias, sob pena de ser declarado contumaz.
 
@@ -505,7 +619,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 350.º — [...]
+Artigo 350.º
+
+[...]
 
 1 - ...
 
@@ -513,7 +629,9 @@ d) ...
 
 3 - Os peritos dos estabelecimentos, laboratórios ou serviços oficiais são ouvidos por teleconferência a partir do seu local de trabalho, sempre que tal seja tecnicamente possível, sendo tão-só necessária a notificação do dia e da hora a que se procederá à sua audição.
 
-###### Artigo 364.º — [...]
+Artigo 364.º
+
+[...]
 
 1 - ...
 
@@ -523,7 +641,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 386.º — [...]
+Artigo 386.º
+
+[...]
 
 1 - ...
 
@@ -535,7 +655,9 @@ b) [Anterior alínea c).]
 
 3 - Se faltarem testemunhas de que o Ministério Público, o assistente ou o arguido não prescindam, a audiência não é adiada, sendo inquiridas as testemunhas presentes pela ordem indicada nas alíneas b) e c) do artigo 341.º, sem prejuízo da alteração que seja necessária efectuar no rol apresentado, e as declarações documentadas.
 
-###### Artigo 389.º — [...]
+Artigo 389.º
+
+[...]
 
 1 - ...
 
@@ -551,7 +673,9 @@ b) [Anterior alínea c).]
 
 7 - A sentença é logo proferida verbalmente e ditada para acta.
 
-###### Artigo 391.º-E.º — [...]
+Artigo 391.º-E.º
+
+[...]
 
 1 - ...
 
@@ -561,7 +685,9 @@ b) [Anterior alínea c).]
 
 4 - A sentença é logo proferida verbalmente e ditada para acta.
 
-###### Artigo 425.º — [...]
+Artigo 425.º
+
+[...]
 
 1 - ...
 
@@ -597,12 +723,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2000. - Jorge Paulo Sacadura Almeida Coelho. - António Luís Santos Costa.
 
-**Promulgado em 7 de Dezembro de 2000.**
+Promulgado em 7 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Dezembro de 2000.**
+Referendado em 14 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

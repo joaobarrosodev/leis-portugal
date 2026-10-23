@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 299/2003, 1º Suplemento, Série I-A de 2003-12-29
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8746-(2) a 8746-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/299a01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/325-a/2003/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-a-2003-321520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a99d5d48045c9bce546893053126e73d6ed9f3f0f30f9346004a26675f8e0e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bf09d88916d034d41a726604fa6c40f4953d51130a9761407d2eb9271ead57a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,21 @@ relationships:
   target: pt:dre:638532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638523:por
+  label: "Determinado que a Secretaria Geral suceda nas atribuições relativas aos serviços não integrados no Serviço Nacional\
+    \ de Saúde do Instituto de Gestão Informática e Financeira da Saúde (extinta nos termos da al b) do nº 2 do art. 26º do\
+    \ Dec Lei 212/2006 de 27-Out), cuja orgânica foi aprovada pelo presente diploma, pelo DR.65/2007.29.05.2007.MS, DR.IS\
+    \ [103] de 29.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-2007-638523
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638532:por
+  label: "Determinada a sucessão da ACSS, I.P., nas atribuições do Instituto de Gestão Informática e Financeira da Saúde,\
+    \ com excepção das relativas aos serviços não integrados no Serviço Nacional de Saúde, e revogado o presente diploma,\
+    \ a partir de 01.06.2007 pelo DEC LEI.219/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-2007-638532
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-le
   label: null
@@ -112,16 +127,83 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1042/1993/10/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1042/1993/10/18/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668719:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545638:por
+  label: "Revogado o Dec Lei 10/93, de 15-Jan, e determinada a extinção, sendo objecto de fusão, do Instituto de Gestão Informática\
+    \ e Financeira da Saúde, cuja orgânica consta do presente diploma, sendo as respectivas integradas na Secretaria-Geral\
+    \ e na Administração Central do Sistema de Saúde, I.P., nos termos da al. b) do n.º 2 do art. 26.º, pelo DEC LEI.212/2006.27.10.2006.MS,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
+- type: repeals
+  target: pt:numero:decreto-lei:32/2000
+  label: "Revoga o Decreto-Lei n.º 32/2000, de 13 de Março DR.IS-A [61]\0\0"
+  source: null
+  date: '2000-03-13'
+- type: repeals
+  target: pt:numero:decreto-lei:194/2001
+  label: "Revoga o Decreto-Lei n.º 194/2001, de 26 de Junho DR.IS-A [146]\0\0"
+  source: null
+  date: '2001-06-26'
+- type: repeals
+  target: pt:numero:decreto-lei:203-A/2001
+  label: "Revoga o Decreto-Lei n.º 203-A/2001, de 21 de Julho DR.IS-A [168]Supl\0\0"
+  source: null
+  date: '2001-07-21'
 article_structure:
   article_count: 51
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:22Z'
   warnings: []
   errors: []
 ---
@@ -272,15 +354,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 19 de Dezembro de 2003.**
+Promulgado em 19 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 2003.**
+Referendado em 22 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO INFORMÁTICA E FINANCEIRA DA SAÚDE
 

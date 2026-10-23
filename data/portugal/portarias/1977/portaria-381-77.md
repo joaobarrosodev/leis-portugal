@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/381-1977-250053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T05:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdb475fbf3d34740bd46d81d47d53d7a9b4e8e474e5f991ed06d18094d5b003d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08f69d3ef254f6c60bf5cd3a80653a269d65f4cf6208e6b40ab7194976479b3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avaliação do Pessoal
+- Força Aérea
+- Forças Armadas
+- Militar
+- Sargento
 relationships:
 - type: amended_by
   target: pt:dre:451637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADAS AS ALÍNEAS J) E M) DO NUMERO 24 DAS INSTRUÇÕES PELA PORTARIA 645/78, DE 28 DE OUTUBRO, PUBLICADA NO DR.IS,
+    249.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-10-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO 3 DAS INSTRUÇÕES, PELA PORTARIA 495/79, DE 14 DE SETEMBRO, PUBLICADA NO DR.IS, 213.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-09-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUMEROS 31, 32 E 33 DAS INSTRUÇÕES E SUBSTITUÍDO O MODELO NUMERO 3 ANEXO, PELA PORTARIA 644/83, DE 3
+    DE JUNHO, PUBLICADA NO DR.IS, 127.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-03'
+- type: cites
+  target: pt:dre:314610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 292/94, DE 17 DE MAIO, PUBLICADA NO DR.IS-B, 114.\0PUBLICADA NO DR.IS-B, 114."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-17'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:21:05Z'
   warnings: []
   errors: []
 ---
@@ -247,7 +282,7 @@ QUADRO I
 
 Quem elabora a apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
 
 c) Pareceres:
 
@@ -273,7 +308,7 @@ QUADRO 2
 
 Quem elabora os pareceres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
 
 2. Quando os sargentos informados estiverem colocados ou prestarem regularmente serviço em organizações estranhas à Força Aérea:
 
@@ -323,7 +358,7 @@ QUADRO 3
 
 Quando se elaboram as fichas de apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
 
 #### SECÇÃO II — Preenchimento das fichas
 
@@ -431,7 +466,7 @@ b) Expressão oral e escrita:
 
 4) Proceder como indicado em 3 relativamente aos seguintes conceitos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
 
 c) Força de vontade:
 
@@ -889,8 +924,8 @@ b) Função. Registar a função que confere a qualidade de informador;
 
 c) Assinatura e data. Não assinar nem datar antes da data de encerramento do período coberto pela ficha.
 
-## Anexo à Portaria n.º 381/77, de 25 de Junho
+Anexo à Portaria n.º 381/77, de 25 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14500/15531571.pdf)
 
-**O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.**
+O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/18600/0000200025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75adbdcd7378a2327bda681b9e12c3dd04d8ba23232e2f976ffcf73c89440402
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4897b992179140fc3c181b4ee79208c8feaabdd5b9c0a68a0019528743634a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Região Autónoma
+- Açores
+- Administração de Portos
+- Artes de Pesca
+- Autarquia Local
+- Balcão Eletrónico do Mar
 - Bandeira
-- Zona Económica Exclusiva
+- Definição de Competências
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Regional de Agricultura e Pescas
+- Diversidade Biológica
+- Documento Eletrónico
+- Embarcação de Pesca
+- Espaço Marítimo
+- Fiscalização
+- Gestão do Ambiente
+- Gestão dos Recursos
 - Governo Regional
 - Instituto dos Registos e do Notariado
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
-- Mar Territorial
-- Registo de Navios
-- Administração de Portos
-- Fiscalização
-- Pesca
-- Gestão dos Recursos
 - Instituto Português do Mar e da Atmosfera
-- Licenciamento
 - Licença de Pesca
-- Espaço Marítimo
-- Recursos do Mar
-- Documento Eletrónico
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Proteção do Ambiente
-- Artes de Pesca
-- Pesca Profissional
-- Diversidade Biológica
-- Gestão do Ambiente
-- Prestação de Serviços
+- Licenciamento
 - Madeira.região Autónoma
-- Quota de Pesca
-- Embarcação de Pesca
-- Açores
-- Taxa
-- Autarquia Local
 - Mar Alto
+- Mar Territorial
+- Pesca
+- Pesca Profissional
+- Prestação de Serviços
+- Proteção do Ambiente
+- Quota de Pesca
+- Recursos do Mar
+- Região Autónoma
+- Registo de Navios
 - Sistema Nacional de Embarcações e Marítimos
-- Balcão Eletrónico do Mar
+- Taxa
+- Zona Económica Exclusiva
 relationships:
 - type: amended_by
   target: pt:dre:909816066:por
@@ -155,16 +155,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/342/2015/10/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/342/2015/10/12/p/dre
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120696372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70508969:por
+  label: null
+  source: null
 article_structure:
   article_count: 53
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:13Z'
   warnings: []
   errors: []
 ---
@@ -943,7 +987,9 @@ h) Documentos ou elementos comprovativos da aquisição de titularidade do navio
 
 i) Comprovativo do pedido de cancelamento do registo anterior, quando aplicável.
 
-#### SECÇÃO V — Título para o exercício da atividade
+#### SECÇÃO V
+
+## Título para o exercício da atividade
 
 ###### Artigo 44.º — Documento Único de Pesca
 
@@ -1071,12 +1117,14 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2021.
 
 Visto e aprovado em Conselho de Ministros de 27 de agosto de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Catarina Teresa Rola Sarmento e Castro - Francisca Eugénia da Silva Dias Van Dunem - Marta Alexandra Fartura Braga Temido de Almeida Simões - Ricardo da Piedade Abreu Serrão Santos.
 
-**Promulgado em 10 de setembro de 2020.**
+Promulgado em 10 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de setembro de 2020.**
+Referendado em 15 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113573587

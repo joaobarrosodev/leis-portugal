@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2007/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2007-522620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f12a248abc144dd8eb2f6eb159c65d1c70788c6153556154ee98510ba9461304
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3731bd9f94bf9b5bcad3bff508ccff9343f34980253e71317f76b60117bf043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,38 +69,47 @@ reuse:
 subjects:
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Serviço Nacional de Bombeiros e Protecção Civil
-- Instituto da ÁGUA
 - Autorização de Despesas
-- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Comissão de Coordenação e Desenvolvimento Regional de Lisboa e VALE do TEJO
+- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Comissão de Coordenação e Desenvolvimento Regional do Centro
+- Comissão de Coordenação e Desenvolvimento Regional do Norte
 - Despesas Públicas
 - Empreitada de Obras Públicas
+- Instituto da ÁGUA
 - Instituto de Desenvolvimento Rural e Hidráulica
-- Comissão de Coordenação e Desenvolvimento Regional do Alentejo
-- Comissão de Coordenação e Desenvolvimento Regional do Centro
 - Obras Públicas
 - Regime Jurídico
+- Serviço Nacional de Bombeiros e Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:636974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636974:por
+  label: "Alterados os arts. 2º e 3º pelo DEC LEI.286/2007.17.08.2007.MAI, DR.IS [158] de 17.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/286-2007-636974
+  date: '2007-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:06Z'
   warnings: []
   errors: []
 ---
@@ -163,12 +172,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
 
-**Promulgado em 4 de Janeiro de 2007.**
+Promulgado em 4 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

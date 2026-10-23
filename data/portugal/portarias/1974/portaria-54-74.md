@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-1974-407091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d746fbdcf166dae5f792497185c2267c89812779598e17e577c7917b01becc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be850255ff07f5d35b7936e8554d9cb9e56071602aa749c972ce6f88f31935d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:382780:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:50Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +106,7 @@ REGULAMENTO SOBRE OS SERVIÇOS DE TRÁFEGO AÉREO
 
 (Anexo 11 à Convenção sobre a Aviação Civil Internacional)
 
-### Capítulo 1 - Definições
+Capítulo 1 - Definições
 
 Nota. - Neste documento o termo «serviço» corresponde à noção de funções ou de serviço prestado; o termo «órgão» designa uma entidade administrativa encarregada de prestar um serviço.
 
@@ -326,7 +330,7 @@ Rota com serviço consultivo. - Rota no interior de uma região de informação 
 
 Rota de navegação de cobertura regional. - Rota estabelecida para aeronaves com condições para utilizar a navegação de cobertura regional.
 
-#### Secção de «contrôle» de aproximação. - Órgão que presta o serviço de contrôle do tráfego aéreo aos voos controlados a chegar a um ou vários aeródromos ou a partir desses aeródromos.
+Secção de «contrôle» de aproximação. - Órgão que presta o serviço de contrôle do tráfego aéreo aos voos controlados a chegar a um ou vários aeródromos ou a partir desses aeródromos.
 
 Serviço consultivo de tráfego aéreo. - Serviço prestado com a finalidade de assegurar, na medida do possível, a separação entre as aeronaves com o plano de voo IFR em espaço aéreo com serviço consultivo.
 
@@ -384,7 +388,7 @@ Voo VFR especial. - Voo VFR controlado autorizado pelos órgãos de contrôle de
 
 Zona de «contrôle». - Espaço aéreo controlado desde a superfície terrestre até um limite superior especificado.
 
-### Capítulo 2 - Generalidades
+Capítulo 2 - Generalidades
 
 2.1 - Designação de responsabilidades.
 
@@ -600,7 +604,7 @@ Nota. - Ver nota 1 ao § 2.1.2.
 
 Nota. - As especificações relativas à publicação das altitudes mínimas de voo pelos Estados, bem como os critérios utilizados para a sua determinação, constam do apêndice 1 ao anexo 15.
 
-### Capítulo 3 - Serviço de «contrôle» do tráfego aéreo
+Capítulo 3 - Serviço de «contrôle» do tráfego aéreo
 
 3.1 - Aplicação.
 
@@ -832,7 +836,7 @@ Quando um órgão de tráfego aéreo verificar a impossibilidade de aceitar mais
 
 O movimento de pessoas ou de veículos na área de manobra de um aeródromo será controlado pela torre de contrôle de aeródromo, conforme necessário a fim de evitar riscos para essas pessoas ou para esses veículos, ou ainda para as aeronaves a aterrar, a rolar ou a descolar.
 
-### Capítulo 4 - Serviço de informação de voo
+Capítulo 4 - Serviço de informação de voo
 
 4.1 - Aplicação.
 
@@ -872,7 +876,7 @@ Nota. - As informações referidas na alínea b), que incluem apenas aeronaves c
 
 4.2.3 - Em aditamento às disposições do § 4.2.1, o serviço de informação de voo prestado a voos VFR incluirá informações respeitantes a condições meteorológicas ao longo da rota do voo que possam tornar impraticável a operação em condições meteorológicas de voo visual.
 
-### Capítulo 5 - Serviço de alerta
+Capítulo 5 - Serviço de alerta
 
 5.1 - Aplicação.
 
@@ -970,7 +974,7 @@ Nota. - Se uma aeronave se encontrar na fase de perigo, o centro de coordenaçã
 
 Quando um centro de informação de voo ou um centro de contrôle regional decidirem que uma aeronave se encontra num estado de emergência informarão, logo que possível, as outras aeronaves cuja existência seja conhecida nas proximidades da aeronave em questão, da natureza da emergência.
 
-### Capítulo 6 - Meios de comunicação necessários aos serviços de tráfego aéreo
+Capítulo 6 - Meios de comunicação necessários aos serviços de tráfego aéreo
 
 6.1 - Serviço móvel aeronáutico - (comunicações ar-terra).
 
@@ -1090,7 +1094,7 @@ Nota. - Estas disposições aplicam-se a comunicações com veículos, e não co
 
 6.3.1.1 - Recomendação. - Quando as condições o justificarem devem existir meios exclusivos de comunicações radiotelefónicas bilaterais para o serviço de contrôle de aeródromo destinado a veículos na área de manobra, salvo quando se considerarem adequadas as comunicações por um sistema de sinais visuais.
 
-### Capítulo 7 - Informações necessárias aos serviços de tráfego aéreo
+Capítulo 7 - Informações necessárias aos serviços de tráfego aéreo
 
 7.1 - Informações meteorológicas.
 
@@ -1144,7 +1148,7 @@ Nota. - Ver nota ao § 7.1.2.1.
 
 7.3.1 - As torres de contrôle de aeródromo e os órgãos que prestam serviço de contrôle de aproximação manter-se-ão informados sobre o estado de funcionamento das ajudas de navegação essenciais para a aproximação, a aterragem e a descolagem no(s) aeródromos(s) respectivo(s).
 
-## Apêndice A - Princípios que regulam a identificação das rotas ATS
+Apêndice A - Princípios que regulam a identificação das rotas ATS
 
 (Ver § 2.9 do capítulo 2)
 
@@ -1230,4 +1234,4 @@ As palavras upper e jet devem ser pronunciadas em inglês. Porém, quando for de
 
 5.4 - Quando o sufixo R, especificado no § 2.4, for utilizado nas comunicações verbais deve ser pronunciado em conformidade com o alfabeto fonético da OACI.
 
-**O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado da Administração Ultramarina, Leão Maria Tavares Rosado do Sacramento Monteiro. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/178-1981-579972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:09:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d19aaf9700983d2141faec6b92b98289c1a20543d5f98ccdab80a229d8e3a396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19cfa85c0a1937c0c56d6808e719dafcced3907c5da3f8687100456328188dba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:09:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Preço
+- Segurança Social
+- Termalismo
 relationships:
 - type: amended_by
   target: pt:dre:395735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277276:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:395735:por
+  label: "Revogado pelo DN.93/82.12.06.1982.MAS, DR.IS [133] de 12.06.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/93-1982-395735
+  date: '1982-06-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:09:46Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +105,13 @@ Ao abrigo do n.º 2 da [Portaria n.º 659/77](https://diariodarepublica.pt/dr/de
 
 A - Taxa de ingestão de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
 
 B - Tratamentos
 
 I - Tratamentos hidrológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
 
 II - Actos de medicina física e reabilitação
 
@@ -153,13 +165,13 @@ Ultrassons ... 71$50
 
 C - Diversos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
 
 D - Honorários clínicos
 
 (Incluindo a inscrição médica e três consultas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf))](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/16100/17391742.pdf)
 
 E - Análises clínicas
 

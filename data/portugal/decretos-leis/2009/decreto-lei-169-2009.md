@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/14700/0496404968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/169/2009/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2009-493056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45708a4c6f22aae4637f4a81f8e9a4a6aa3a937734e2d99c96a97f0c11274d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25e9c6a37fad2b72748d13e527d7be3145c0e097dae866da88131b2d96b75d2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aproximação das Legislações
-- Multa
-- Metrologia
+- Autoridade para as Condições do Trabalho
 - Contra-ordenação
-- Transporte Rodoviário
 - Definição de Competências
 - Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
 - GNR
-- Segurança Rodoviária
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Metrologia
+- Multa
+- PSP
 - Regulamento CE
+- Segurança Rodoviária
 - Tacógrafo
 - TIR
 - Transporte Internacional
-- Autoridade para as Condições do Trabalho
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:343916:por
@@ -113,16 +113,28 @@ relationships:
   target: celex:32009L0005
   label: null
   source: http://data.europa.eu/eli/dir/2009/5/oj
+- type: repealed_by
+  target: pt:dre:343916:por
+  label: "Revogado, a partir de 04.09.2010, o Dec Lei 272/89, de 19-Ago, na redacção do presente diploma, pela LEI.27/2010.30.08.2010.AR,\
+    \ DR.IS [168] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2010-343916
+  date: '2010-08-30'
+- type: repealed_by
+  target: pt:dre:1084345987:por
+  label: Revogado, a partir de 12 de julho de 2026, pelo(a) Decreto-Lei n.º 84/2026 - Diário da República n.º 71/2026, Série
+    I de 2026-04-13 nos termos da alínea c) do artigo 65.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2026-1084345987
+  date: '2026-04-12'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:55Z'
   warnings: []
   errors: []
 ---
@@ -363,12 +375,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - José António Fonseca Vieira da Silva.
 
-**Promulgado em 17 de Julho de 2009.**
+Promulgado em 17 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Julho de 2009.**
+Referendado em 22 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 129/2011, 1º Suplemento, Série I de 2011-07-07
   number: '129'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3968-(2) a 3968-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/12901/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/54-e/2011/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/54-e-2011-483593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:10:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceb634a98b16d8b11827f2886788534a0c77bb25aef9d634ce59d547fc95d3a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b94c17e8a3df3b4736f3d37498bc151d797e98c7e51f39b2972b8300d5cc448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Governo XIX
-- Nomeação
 - Ministro da Administração Interna
+- Nomeação
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:396756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396756:por
+  label: "Exonerado o Engenheiro Juvenal Silva Peneda do cargo de Secretário de Estado Adjunto do Ministro da Administração\
+    \ Interna pelo DEC.54-A/2013.22.04.2013.PR, DR.IS [78-Supl] de 22.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/54-a-2013-396756
+  date: '2013-04-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:10:43Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +99,16 @@ validation:
 
 de 7 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Primeiro-Ministro, o Engenheiro Juvenal Silva Peneda para o cargo de Secretário de Estado Adjunto do Ministro da Administração Interna.
 
-**Assinado em 7 de Julho de 2011.**
+Assinado em 7 de Julho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Julho de 2011.**
+Referendado em 7 de Julho de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

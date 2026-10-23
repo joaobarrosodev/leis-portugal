@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21200/0390103907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2016/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9926015b945e1447ae9f8d62f80679ffb3d3478a94f3d6a3cb7541d5e6bf0f45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 820fc23f7308420699b63a4de73a53eac79dd136e04a5b322e2cd326f3480b06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,33 +69,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Gestão de Resíduos
 - Comissão de Acompanhamento
+- Comissão de Acompanhamento da Gestão de Resíduos
 - Criação de Serviços
 - Definição de Competências
 - Direção Geral das Atividades Económicas
+- Eliminação de Resíduos
+- Embalagem
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
 - Fiscalização
-- Comissão de Acompanhamento da Gestão de Resíduos
-- Transporte de Resíduos
+- Gestão de Resíduos
 - Licenciamento
-- Embalagem
-- Resíduo
-- Tratamento de Resíduos
 - Política do Ambiente
 - Produtor
 - Regime Jurídico
-- Eliminação de Resíduos
+- Resíduo
+- Saúde Pública
 - Substância Perigosa
-- Agência Portuguesa do Ambiente
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:146240980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:67/2014
+  label: Altera os arts. 21.º e 45.º e revoga o art. 28.º, o n.º 7 do art. 32.º, o n.º 3 do art. 33.º, os arts. 35.º a 39.º,
+    a al. k) do n.º 1 e a al. g) do n.º 2 do art. 41.º e a al. d) do n.º 2 do art. 47.º, e a al. g) do n.º 3 do art. 41.º
+    (na parte que se refere ao incumprimento da obrigação da informação prevista no artigo 39.º) do Dec Lei n.º 67/2014, de
+    07-maio DR.IS [87]
+  source: null
+  date: '2014-05-07'
 - type: cites
   target: celex:32008L0098
   label: null
@@ -152,20 +160,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/209
   label: null
   source: http://data.dre.pt/eli/port/209
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66953313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67185043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67485179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 67/2014 de 07-mai, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 - type: transposes
   target: celex:32008L0098
   label: null
   source: null
 article_structure:
-  article_count: 20
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:46Z'
   warnings: []
   errors: []
 ---
@@ -252,7 +338,9 @@ r) 'Embalagem de serviço', embalagem que se destine a um enchimento num ponto d
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +364,9 @@ c) Pelo encaminhamento dos resíduos de embalagens presentes nos resíduos urban
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +394,9 @@ a) Nas fases de conceção e de produção de novas embalagens, diligenciar no s
 
 b) Promover a reciclagem de resíduos de embalagens, bem como dos seus componentes e materiais, integrando-os como matéria-prima secundária nos seus processos produtivos, sempre que possível e em quantidades progressivamente crescentes.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +404,9 @@ b) Promover a reciclagem de resíduos de embalagens, bem como dos seus component
 
 3 - Os operadores económicos e as entidades referidos nos artigos 4.º e 5.º são corresponsáveis pelo cumprimento dos objetivos a que se reporta o n.º 1.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +514,9 @@ pp) ...
 
 qq) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -442,7 +538,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 10.º — Princípios da equivalência, da eficiência e da eficácia
+Artigo 10.º
+
+Princípios da equivalência, da eficiência e da eficácia
 
 1 - (Anterior corpo do artigo.)
 
@@ -454,7 +552,9 @@ b) Através da aplicação dos resultados líquidos positivos do exercício da a
 
 3 - Os mecanismos de definição dos custos de oportunidade referidos na alínea a) do n.º 2 do artigo anterior devem tendencialmente ser os da livre concorrência e da liberdade de escolha nos mercados.
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 1 - ...
 
@@ -466,7 +566,9 @@ b) Através da aplicação dos resultados líquidos positivos do exercício da a
 
 5 - Os produtores de produtos abrangidos pela responsabilidade alargada do produtor, bem como os fornecedores de embalagens de serviço, no que respeita ao fluxo específico de embalagens e resíduos de embalagens, estão obrigados a comunicar à ANR, através do sistema integrado de registo eletrónico de resíduos previsto no artigo 45.º, a informação necessária ao acompanhamento da aplicação do disposto no n.º 1, nomeadamente o tipo e a quantidade de produtos colocados no mercado.
 
-###### Artigo 20.º — Normas e especificações técnicas
+Artigo 20.º
+
+Normas e especificações técnicas
 
 1 - ...
 
@@ -488,7 +590,9 @@ c) As entidades gestoras dos sistemas integrados de gestão de fluxos específic
 
 7 - As especificações técnicas a que se refere o número anterior devem ser publicitadas nos sítios na Internet da ANR e da DGAE, bem como nos sítios das entidades gestoras de sistemas de fluxos específicos de resíduos e no sistema de pesquisa online de informação pública, previsto no artigo 49.º do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado e republicado pelo [Decreto-Lei n.º 73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -518,7 +622,9 @@ f) Às relações com outros operadores e entidades intervenientes no fluxo, no 
 
 8 - (Anterior n.º 4.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - É criada a Comissão de Acompanhamento da Gestão de Resíduos, doravante designada por CAGER, que constitui uma entidade de apoio técnico à formulação, ao acompanhamento e à avaliação de políticas sustentáveis de gestão de resíduos, em particular dos fluxos específicos de resíduos, com vista a uma gestão mais eficiente dos recursos que promova uma efetiva transição de uma economia linear para uma economia circular, a quem compete, nomeadamente:
 
@@ -572,7 +678,9 @@ Os artigos 21.º e 45.º do [Decreto-Lei n.º 67/2014](https://diariodarepublica
 
 9 - As entidades gestoras dos sistemas coletivos, bem como quaisquer outras entidades cuja atividade seja suscetível de gerar conflitos de interesse com as funções em causa, estão impedidas de assumir o papel de representante autorizado.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -614,15 +722,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado no Conselho de Ministros de 22 de setembro de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Francisca Eugénia da Silva Dias Van Dunem - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2016.**
+Referendado em 27 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

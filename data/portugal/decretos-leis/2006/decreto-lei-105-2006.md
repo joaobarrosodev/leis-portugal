@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2006/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2006-345542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c2a4c12a451cd7b7a428e580471306d7411ecffa245ce342d7e28d7d9ce361c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df4b0c3c6fd16402447167439d88533814d3d28d051f90bca22027d79faf3725
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Registo Individual do Condutor
+- Base de Dados
 - Carta de Condução
 - Código da Estrada
 - Contra-ordenação
-- Direcção Geral de Viação
-- Informática
-- Base de Dados
-- Segurança da Informação
-- Direito à Informação
-- Sistema de Informação
-- Segredo Profissional
 - Dados Pessoais
+- Direcção Geral de Viação
+- Direito à Informação
+- Informática
+- Registo Individual do Condutor
+- Segredo Profissional
+- Segurança da Informação
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494197:por
+  label: "Alterados os arts. 1º, 2º, 4º, 6º e 7º, do Dec Lei 317/94 de 24-Dez, com a redacção conferida neste diploma, pelo\
+    \ DEC LEI.130/2009.01.06.2009.MAI, DR.IS [105] de 01.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2009-494197
+  date: '2009-06-01'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: "Alterados os art.s 7º e 11º do Dec Lei 317/94, de 24-Dez, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI,\
+    \ DR.IS [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:105263933:por
+  label: Alterados, a partir de 28.12.2016, os arts. 1.º, 4.º, 6.º e 7.º do Dec Lei 317/94 de 24-dez, na redação do presente
+    diploma, pelo(a) Decreto-Lei n.º 80/2016 - Diário da República n.º 228/2016, Série I de 2016-11-28, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2016-105263933
+  date: '2016-11-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
   label: null
@@ -107,16 +125,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:52Z'
   warnings: []
   errors: []
 ---
@@ -153,13 +195,17 @@ Registo de infracções do condutor
 
 3 - (Revogado.)
 
-###### Artigo 2.º — Responsável pela base de dados
+Artigo 2.º
+
+Responsável pela base de dados
 
 1 - É responsável pela base de dados do RIC, nos termos e para os efeitos do disposto na alínea d) do artigo 3.º da [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro, o director-geral de Viação.
 
 2 - ...
 
-###### Artigo 4.º — Registo de infracções de condutores
+Artigo 4.º
+
+Registo de infracções de condutores
 
 1 - ...
 
@@ -217,7 +263,9 @@ z) [Anterior alínea p).]
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +277,9 @@ z) [Anterior alínea p).]
 
 5 - Os serviços competentes das entidades às quais cabe a aplicação das sanções previstas no Código da Estrada ou na legislação complementar devem remeter à DGV, para permanente actualização da base de dados RIC, as decisões condenatórias a que se referem as alíneas c) e d) do n.º 1 e os n.os 3 e 5 do artigo 4.º do presente decreto-lei.
 
-###### Artigo 7.º — Acesso e comunicação de dados
+Artigo 7.º
+
+Acesso e comunicação de dados
 
 1 - A Direcção-Geral, as direcções regionais, as delegações de viação e as divisões de contra-ordenações da DGV e, nas Regiões Autónomas, os serviços competentes acedem aos dados contidos na base de dados a que se refere o artigo 2.º através de uma linha de transmissão de dados.
 
@@ -241,7 +291,9 @@ a) ...
 
 b) ...
 
-###### Artigo 10.º — Conservação dos dados
+Artigo 10.º
+
+Conservação dos dados
 
 Os dados inseridos no RIC são conservados pelo prazo dos cinco anos subsequentes à decisão se tornar definitiva ou ao trânsito em julgado da sentença, findo o qual são eliminados de imediato.»
 
@@ -255,15 +307,15 @@ São revogados o n.º 3 do artigo 1.º, o n.º 2 do artigo 11.º e o artigo 12.�
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Alberto Bernardes Costa.
 
-**Promulgado em 18 de Maio de 2006.**
+Promulgado em 18 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 19 de Maio de 2006.**
+Referendado em 19 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07900/0204802049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2015/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2015-67059141
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dec90c1f59e60c7d64ea288a29b4b5414f725dd8efffdfde0757d80eb13f11b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a951c6ea5f1afcf102c6c64e5b850036402e5620b33e250526cbce85c79eafb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Apartamento Turístico
-- Turismo
+- ASAE
+- Câmara Municipal
 - Contra-ordenação
 - Estabelecimento Hoteleiro
 - Fiscalização
+- Habitação
 - Instituto de Turismo de Portugal
-- ASAE
 - Moradia Turística
 - Prazo
-- Câmara Municipal
 - Regime Jurídico
-- Habitação
+- Turismo
 - Turismo de Habitação
 - Vistoria
 relationships:
@@ -85,20 +85,30 @@ relationships:
   target: pt:dre:892301177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:116152179:por
+  label: Alterados, a partir de 21.10.2018, os arts. 6.º, 11.º, 13.º e 14.º do Dec Lei 128/2014 de 29-ago, com a redação dada
+    pelo presene diploma, pelo(a) Lei n.º 62/2018 - Diário da República n.º 161/2018, Série I de 2018-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/62-2018-116152179
+  date: '2018-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/2014/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/128/2014/08/29/p/dre
+- type: cites
+  target: pt:dre:56384880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:02Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +169,9 @@ e) [...].
 
 7 - O titular da exploração do estabelecimento está dispensado da apresentação dos documentos previstos no presente decreto-lei e que estejam na posse de qualquer serviço e organismo da Administração Pública, quando der o seu consentimento para que a câmara municipal proceda à sua obtenção através da Plataforma de Interoperabilidade da Administração Pública (iAP).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A informação remetida automaticamente ao Turismo de Portugal, I.P., nos termos do n.º 2 do artigo 5.º e do artigo 6.º, designadamente o nome e a capacidade do estabelecimento, o artigo matricial do prédio no qual se encontra instalado o estabelecimento, o nome ou a firma e o número de identificação fiscal do declarante, e, se distinto do declarante, o nome ou a firma e o número de identificação fiscal do titular da exploração do estabelecimento, é enviada, semestralmente, pelo Turismo de Portugal, I.P., à AT, nos termos definidos por protocolo a celebrar entre estas entidades.
 
@@ -171,7 +183,9 @@ e) [...].
 
 5 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -181,7 +195,9 @@ e) [...].
 
 4 - Para o cálculo de exploração referido no n.º 2, consideram-se os estabelecimentos de alojamento local na modalidade de apartamento registados em nome do cônjuge, descendentes e ascendentes do proprietário ou do titular de exploração e, bem assim, os registados em nome de pessoas coletivas distintas em que haja sócios comuns.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -193,7 +209,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Só podem utilizar a denominação hostel, os estabelecimentos de alojamento local previstos na alínea c) do n.º 1 do artigo 3.º, cuja unidade de alojamento predominante seja o dormitório, considerando-se predominante sempre que o número de utentes em dormitório seja superior ao número de utentes em quarto.
 
@@ -211,7 +229,7 @@ c) [...].
 
 8 - Nas instalações sanitárias comuns a vários quartos, desde que não separadas por género, os chuveiros devem configurar espaços autónomos separados por portas com fecho interior.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - [...].
 
@@ -223,7 +241,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...].
 
@@ -251,12 +271,12 @@ Os estabelecimentos de alojamento local atualmente registados e que utilizem a d
 
 Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Artur Álvaro Laureano Homem da Trindade.
 
-**Promulgado em 15 de abril de 2015.**
+Promulgado em 15 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de abril de 2015.**
+Referendado em 17 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

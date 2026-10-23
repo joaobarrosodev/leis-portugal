@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21090-1965-238649
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c47bcdb211531c8ac630df204cbc0f5f5ae41fb88de6167ca8e37f13377a9dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a119d98544a23f1315e3f4c71daeecd5c40c6d0e1861aee07f8247af1c243308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:52Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ b) Um de 11000000$00 destinado a reforçar com as importâncias que se indicam a
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2646.º, n.º 10) «Outros encargos - Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos delas derivados e outras despesas correlativas» ... 200000$00
+Artigo 2646.º, n.º 10) «Outros encargos - Quota-parte da província para fazer face aos encargos resultantes de conferências internacionais, organismos delas derivados e outras despesas correlativas» ... 200000$00
 
-###### Artigo 2650.º «Deslocações de pessoal»:
+Artigo 2650.º «Deslocações de pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 300000$00
 
@@ -108,7 +124,7 @@ Alínea a), 1 «Por motivo de licença graciosa - A pagar na metrópole» ... 42
 
 Alínea b), 1 «Por quaisquer outros motivos - A pagar na metrópole» ... 6000000$00
 
-###### Artigo 2651.º n.º 3), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 300000$00
+Artigo 2651.º n.º 3), alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 300000$00
 
 ... 11000000$00
 

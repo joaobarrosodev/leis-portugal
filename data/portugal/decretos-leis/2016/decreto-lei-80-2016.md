@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22800/0421004215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2016/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2016-105263933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a371aa9ba7a93fc51eee5cf42e207ad6fc296d13452a9f7589bfefb492b379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb890df33855d068204bd09b57fc031984a3f9e930d2ce7db7e4293f0807dba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Registo Individual do Condutor
+- Autoridade Nacional de Segurança Rodoviária
+- Base de Dados
 - Carta de Condução
 - Código da Estrada
-- Base de Dados
-- Instituto da Mobilidade e dos Transportes
-- Direito à Informação
-- Autoridade Nacional de Segurança Rodoviária
 - Condutor
-- Sistema de Informação
 - Dados Pessoais
+- Direito à Informação
+- Instituto da Mobilidade e dos Transportes
+- Registo Individual do Condutor
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
@@ -121,16 +121,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/200
   label: null
   source: http://data.dre.pt/eli/lei/78/200
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70133808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75060359:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:56Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +227,9 @@ b) Permitir o acesso à informação sobre o registo de infrações dos condutor
 
 c) [...].
 
-###### Artigo 4.º — Registo de infrações e da pontuação dos condutores
+Artigo 4.º
+
+Registo de infrações e da pontuação dos condutores
 
 1 - [...]:
 
@@ -267,7 +325,9 @@ hh) Indicação da reprovação na prova teórica do exame de condução.
 
 5 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -287,7 +347,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -311,7 +373,9 @@ d) [...];
 
 e) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A ANSR e, nas Regiões Autónomas, os serviços competentes, acedem aos dados contidos na base de dados a que se refere o artigo 1.º através de uma linha de transmissão de dados.
 
@@ -327,11 +391,15 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades competentes de outro Estado no âmbito de instrumento de direito internacional convencional a que o Estado Português se encontre vinculado.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -351,7 +419,9 @@ Os dados previstos nos artigos 4.º e 5.º podem ser comunicados às entidades c
 
 9 - [...].
 
-###### Artigo 12.º — Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
+Artigo 12.º
+
+Certidão do registo de infrações do condutor e da pontuação dos títulos de condução
 
 1 - A certidão do registo de infrações do condutor e do número de pontos associados ao título de condução é emitida pela ANSR, preferencialmente por meio eletrónico, a requerimento do titular, podendo ser disponibilizada online mediante a introdução de um código de validação facultado para o efeito.
 
@@ -375,15 +445,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 17 de novembro de 2016.**
+Promulgado em 17 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de novembro de 2016.**
+Referendado em 23 de novembro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

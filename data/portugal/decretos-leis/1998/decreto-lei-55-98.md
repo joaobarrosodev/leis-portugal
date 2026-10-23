@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/55/1998/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1998-186543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 596b48b5ba75845a6390bc7d13462407cf249d80f1a0ddd41fa5711811c7be52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c096eeaec8573ccb5e1cf8a5b1b1bd57b77e62639e0564e2a421f518ce04cba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,85 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ALTO Comissário para a Igualdade e a Família
 - ALTO Comissário para a Imigração
-- Reestruturação de Serviços
-- Região Autónoma
-- Ministério do Trabalho e da Solidariedade
+- Assembleia da República
 - Comissão de Segurança
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
-- Ministro da Economia
 - Comissariado da Exposição Internacional de Lisboa-expo 98
 - Comissariado de Portugal para a Exposição Internacional de Lisboa-expo 98
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Educação Qualificação Ciência e Cultura
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Ministros para os Assuntos Económicos
-- Governo Regional
-- Ministro do Trabalho e da Solidariedade
 - Conselho Nacional do Consumo
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
 - Discussão Pública
 - Eleição Legislativa
-- Segurança Pública
+- Exposição Internacional de Lisboa de 1998
 - Extinção de Serviços
-- Ministério para a Qualificação e o Emprego
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
 - Gabinete Governamental
+- Governo Regional
 - Governo XIII
-- Ministério da Solidariedade e Segurança Social
-- Ministro da Justiça
-- Ministro da Solidariedade e Segurança Social
-- Secretário de Estado do Turismo
-- Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
-- Ministro da Cultura
-- Ministro das Finanças
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
+- Instituto António Sérgio do Sector Cooperativo
 - Instituto do Consumidor
 - Integração de Serviços
-- Santa Casa da Misericórdia
-- Exposição Internacional de Lisboa de 1998
-- Sistema Eleitoral
-- Gabinete de Planeamento e de Coordenação do Combate à Droga
-- Secretário de Estado do Ambiente
-- Secretário de Estado do Desporto
+- Madeira.região Autónoma
+- Ministério da Solidariedade e Segurança Social
+- Ministério do Trabalho e da Solidariedade
+- Ministério para a Qualificação e o Emprego
+- Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
 - Ministro da República
+- Ministro da República para a Região Autónoma da Madeira
 - Ministro da República para a Região Autónoma dos Açores
+- Ministro da Saúde
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do Equipamento do Planeamento e da Administração do Território
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Qualificação e o Emprego
+- Ministro para os Assuntos Parlamentares
 - Orçamento Geral do Estado
 - Orgânica
-- Assembleia da República
 - Partido Político
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Madeira.região Autónoma
 - Presidência do Conselho de Ministros
-- Ministro da República para a Região Autónoma da Madeira
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Processo Legislativo
+- Reestruturação de Serviços
+- Região Autónoma
+- Santa Casa da Misericórdia
 - Secretário de Estado
 - Secretário de Estado Adjunto do Ministro da Economia
 - Secretário de Estado Adjunto do Ministro do Ambiente
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Pública e Modernização Administrativa
 - Secretário de Estado da Comunicação Social
 - Secretário de Estado da Indústria e Energia
 - Secretário de Estado da Inserção Social
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado da Segurança Social e das Relações Laborais
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio
+- Secretário de Estado do Desporto
 - Secretário de Estado do Emprego e Formação
-- Ministro da Administração Interna
-- Processo Legislativo
-- Açores
+- Secretário de Estado do Turismo
+- Segurança Pública
+- Sistema Eleitoral
 - Transferência de Serviços
 - Transferência de Verbas
 - Tutela
@@ -152,6 +152,13 @@ relationships:
   target: pt:dre:692200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Comissão para a Igualdade no Trabalho e\
+    \ no Emprego (integrada no Ministério do Trabalho e da Solidariedade, pelo presente diploma), pelo DEC LEI.474-A/99.1999.11.08.PCM\
+    \ DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1996/03/20/p/dre
   label: null
@@ -172,16 +179,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/195/1997/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/195/1997/11/05/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684620:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276176:por
+  label: "Rectificado o nº 7 do art. 6º, pela DECL-RECT.7-C/98.1998.03.31.PCM DR.IS-A [76]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-c-1998-276176
+  date: '1998-03-31'
 article_structure:
-  article_count: 68
+  article_count: 48
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:08Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +282,7 @@ q) Ministro dos Assuntos Parlamentares;
 
 r) Ministro Adjunto do Primeiro-Ministro.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -254,7 +294,7 @@ r) Ministro Adjunto do Primeiro-Ministro.
 
 5 - O Primeiro-Ministro é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado Adjunto do Primeiro-Ministro.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -282,25 +322,27 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 7 - São criados na Presidência do Conselho de Ministros o Alto-Comissário para a Igualdade e a Família e o Alto-Comissário para a Imigração.
 
-###### Artigo 7.º
+Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.
 
-###### Artigo 8.º — (Revogado.)
+Artigo 8.º
 
-###### Artigo 9.º
+(Revogado.)
+
+Artigo 9.º
 
 1 - ...
 
 2 - O Ministro Adjunto é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - (Actual n.º 1 do artigo 11.º)
 
 2 - (Actual n.º 2 do artigo 11.º)
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - (Actual n.º 1 do artigo 10.º)
 
@@ -308,7 +350,7 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 3 - (Actual n.º 3 do artigo 10.º)
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -320,7 +362,7 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 5 - ...
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - É criado o Ministério do Trabalho e da Solidariedade.
 
@@ -330,23 +372,25 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 4 - Transita para o Ministério do Trabalho e da Solidariedade o Instituto António Sérgio do Sector Cooperativo, até aqui integrado na Presidência do Conselho de Ministros.
 
-###### Artigo 22.º — (Revogado.)
+Artigo 22.º
 
-###### Artigo 23.º
+(Revogado.)
+
+Artigo 23.º
 
 Ficam na dependência do Ministro do Trabalho e da Solidariedade os Serviços Sociais que até aqui se encontravam sob a dependência conjunta dos Ministros para a Qualificação e o Emprego e da Solidariedade e Segurança Social.
 
-###### Artigo 24.º
+Artigo 24.º
 
 Fica na dependência conjunta do Ministro da Saúde e do Ministro do Trabalho e da Solidariedade a Santa Casa da Misericórdia de Lisboa.
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - O Ministro do Ambiente é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro do Ambiente e pelo Secretário de Estado do Ambiente.
 
 2 - ...
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - ...
 
@@ -354,7 +398,7 @@ Fica na dependência conjunta do Ministro da Saúde e do Ministro do Trabalho e 
 
 3 - (Actual n.º 4.º)
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, o Ministro dos Negócios Estrangeiros, o Ministro das Finanças, o Ministro do Equipamento, do Planeamento e da Administração do Território, o Ministro da Economia, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o Ministro do Trabalho e da Solidariedade, o Ministro do Ambiente e o Ministro Adjunto do Primeiro-Ministro.
 
@@ -364,7 +408,7 @@ Fica na dependência conjunta do Ministro da Saúde e do Ministro do Trabalho e 
 
 4 - ...
 
-###### Artigo 32.º
+Artigo 32.º
 
 1 - É criado o Conselho de Ministros para os Assuntos da União Europeia, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros.
 
@@ -374,7 +418,7 @@ Fica na dependência conjunta do Ministro da Saúde e do Ministro do Trabalho e 
 
 4 - ...
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - É criado o Conselho de Ministros para os Assuntos da Educação, Qualificação, Ciência e Cultura, presidido pelo Primeiro-Ministro, de que fazem parte o Ministro das Finanças, o Ministro da Educação, o Ministro do Trabalho e da Solidariedade, o Ministro da Cultura e o Ministro da Ciência e da Tecnologia.
 
@@ -396,17 +440,17 @@ São aditados ao [Decreto-Lei n.º 296-A/95](https://diariodarepublica.pt/dr/det
 
 2 - Ao Ministro dos Assuntos Parlamentares compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos.
 
-###### Artigo 9.º-B
+Artigo 9.º-B
 
 1 - O Ministro Adjunto do Primeiro-Ministro exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro Adjunto do Primeiro-Ministro é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Juventude, pelo Secretário de Estado do Desporto e pelo Secretário de Estado da Comunicação Social.
 
-###### Artigo 38.º-A
+Artigo 38.º-A
 
 O Gabinete do Secretário de Estado da Presidência do Conselho de Ministros é equiparado, para efeitos do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 28 de Julho, a gabinete ministerial.
 
-###### Artigo 38.º-B
+Artigo 38.º-B
 
 O Governo da República, através do competente membro e em cooperação com os Ministros da República, procede à audição dos órgãos de governo próprio das Regiões Autónomas.»
 
@@ -438,15 +482,15 @@ O Governo da República, através do competente membro e em cooperação com os 
 
 Visto e aprovado em Conselho de Ministros de 4 de Dezembro de 1997. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 1998.**
+Referendado em 6 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [Decreto-Lei n.º 296-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1995-455465), de 17 de Novembro
 
@@ -544,7 +588,7 @@ f) Secretário de Estado da Administração Pública e da Modernização Adminis
 
 ###### Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou pelo ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República nos termos do artigo 185.º, n.º 1, da Constituição.
 
 ###### Artigo 8.º — (Revogado.)
 

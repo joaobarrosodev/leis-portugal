@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/17/1995/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1995-527635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cb2805b0365dac6c3aa43f8d6251330d054d9462dd23937b9f5a2cc11f589df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9058a9eb14e7b1871a30eba22d79e8d057db7b77813c84f9bf6aeac99f510536
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Ordenamento do Território
 - Estabelecimento Industrial
 - Fiscalização
-- Licenciamento
 - Licença Sanitária
-- Proteção do Ambiente
+- Licenciamento
+- Ordenamento do Território
 - Prorrogação de Prazo
+- Proteção do Ambiente
 - Regulamento
 - Vistoria
 relationships:
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/25/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:58Z'
   warnings: []
   errors: []
 ---
@@ -115,18 +123,18 @@ Assim:
 
 Ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O prazo previsto para o regime transitório definido no artigo 24.º do Regulamento do Exercício da Actividade Industrial, aprovado pelo [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, é prorrogado até 31 de Dezembro de 1995.
+Artigo único. O prazo previsto para o regime transitório definido no artigo 24.º do Regulamento do Exercício da Actividade Industrial, aprovado pelo [Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto, é prorrogado até 31 de Dezembro de 1995.
 
 Presidência do Conselho de Ministros, 27 de Março de 1995.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Fernando Mira Amaral - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 4 de Maio de 1995.**
+Promulgado em 4 de Maio de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Maio de 1995.**
+Referendado em 10 de Maio de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

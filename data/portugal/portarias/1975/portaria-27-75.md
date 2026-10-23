@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/27-1975-158883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:42:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc39d84402a86f1889e0bfb1a12ab42a54115379419d1d2e1c99345666d2a23a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4749a430934d83e4cbeb948952444ad3454d891bc255313e325a40e04e880a76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:42:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto dos Sargentos e Praças da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474513:por
+  label: "Eliminado o tempo de embarque na classe de mergulhadores constante do quadro n.º 2 a que se refere o art. 169.º\
+    \ do ESPA, aprovado pelo Dec 44884, de 18-Fev 1963, na redacção do presente diploma, pela Port.281/80.24.05.1980.CR, DR.IS\
+    \ [120] de 24.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-1980-474513
+  date: '1980-05-24'
+- type: amended_by
+  target: pt:dre:573298:por
+  label: "Alterado o quadro n.º 2 a que se refere o artigo 169.º do Estatuto aprovado pelo Decreto 44884 de 18 de Fevereiro\
+    \ de 1963, com a redacção do presente diploma, pela PORT.378/81.09.05.1981.CR, DR.IS [106] de 09.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1981-573298
+  date: '1981-05-09'
+- type: amended_by
+  target: pt:dre:381339:por
+  label: "Aditado o n.º 2 a que se refere o art. 169.º do Estatuto aprovado pelo Dec 44884, de 18-Fev, na redacção do presente\
+    \ diploma, pela PORT.563/84.04.08.1984.MDN, DR.IS [180] de 04.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/563-1984-381339
+  date: '1984-08-04'
+- type: amended_by
+  target: pt:dre:181001:por
+  label: "Substituida a referência à classe de enfermeiro e aditada a al. m) às notas explicativas do quadro do n.º 2 a que\
+    \ se refere o art. 169.º do ESPA, aprovado pelo Dec 44884, de 18-Fev 1963, na redacção do presente diploma, pela PORT.632/85.23.08.1985.MDN,\
+    \ DR.IS [193] de 23.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/632-1985-181001
+  date: '1985-08-23'
+- type: amended_by
+  target: pt:dre:619722:por
+  label: "Alterado o quadro n.º 2, que fixa as condições especiais de promoção, a que se refere o artigo 169.º do Decreto\
+    \ n.º 44884, de 18 de Fevereiro de 1963, com a redacção que lhe foi dada pelo presente diploma, e substituído pelo quadro\
+    \ anexo do DEC LEI.218/89.04.07.1989.MDN, DR.IS [151] de 04.07.1989, e revogado o artigo n.º 43.º pelo referido diploma\0\
+    a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1989-619722
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:193429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466215:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.1990.01.24.MDN,DR.IS [20]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:42:28Z'
   warnings: []
   errors: []
 ---
@@ -102,27 +152,27 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 1.º No E. S. P. A. os artigos 7.º, 15.º e 16.º, o título da subsecção IV, o artigo 41.º, o título da secção V, os artigos 51.º, 52.º, 112.º, 119.º, 120.º, 143.º, 152.º, 153.º e 156.º passam a ter a seguinte redacção:
 
-###### Art. 7.º Os sargentos e praças agrupam-se nas seguintes classes:
+Art. 7.º Os sargentos e praças agrupam-se nas seguintes classes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 § 1.º As classes de técnicos de electricidade (TE) e de técnicos radioelectricistas (TR) serão extintas logo que deixe de prestar serviço nos quadros do activo o pessoal que actualmente lhes pertence.
 
 § 2.º A classe a extinguir dos técnicos de electricidade (TE) compreende os seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 § 3.º A classe dos electrotécnicos (ET) compreende os seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 § 4.º A classe dos mergulhadores (U) compreende os seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 § 5.º Na classe da taifa (TF), na categoria de praças, existem as seguintes subclasses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 § 6.º Os segundos-grumetes voluntários e os segundos-grumetes recrutas só ingressam nas classes depois de estarem habilitados com a instrução técnica elementar correspondente.
 
@@ -130,7 +180,7 @@ Manda o Conselho dos Chefes dos Estados-Maiores das Forças Armadas, pelo Chefe 
 
 ...
 
-###### Art. 15.º Além das funções inerentes aos seus postos, na sua qualidade de militares da Armada, competem aos sargentos e praças, em grau de responsabilidade adequado, as que resultam das atribuições das suas classes, das quais se indicam as mais importantes:
+Art. 15.º Além das funções inerentes aos seus postos, na sua qualidade de militares da Armada, competem aos sargentos e praças, em grau de responsabilidade adequado, as que resultam das atribuições das suas classes, das quais se indicam as mais importantes:
 
 1. Artilheiros:
 
@@ -304,7 +354,7 @@ l) Colaborar nos trabalhos de manutenção e reparação do material e proceder 
 
 ...
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 3. Apontadores:
 
@@ -324,7 +374,7 @@ e) Colaborar na manutenção e reparação do material;
 
 ##### SUBSECÇÃO IV — Admissão por voluntariado para as classes de electrotécnicos, maquinistas navais e enfermeiros
 
-###### Art. 41.º A admissão de voluntários para prestarem serviço nas classes de electrotécnicos, maquinistas navais e enfermeiros é feita por concurso entre os indivíduos que satisfaçam às condições fixadas no artigo 28.º e às condições especiais estabelecidas por despacho do Chefe do Estado-Maior da Armada.
+Art. 41.º A admissão de voluntários para prestarem serviço nas classes de electrotécnicos, maquinistas navais e enfermeiros é feita por concurso entre os indivíduos que satisfaçam às condições fixadas no artigo 28.º e às condições especiais estabelecidas por despacho do Chefe do Estado-Maior da Armada.
 
 ...
 
@@ -332,13 +382,13 @@ e) Colaborar na manutenção e reparação do material;
 
 Admissão das praças aos concursos para as classes de electrotécnicos, maquinistas navais, carpinteiros, enfermeiros, músicos e taifa.
 
-###### Art. 51.º As praças da Armada podem ser admitidas aos concursos referidos nos artigos anteriores destinados a seleccionar pessoal para prestar serviços nas classes de electrotécnicos, maquinistas navais, carpinteiros, enfermeiros, músicos e taifa.
+Art. 51.º As praças da Armada podem ser admitidas aos concursos referidos nos artigos anteriores destinados a seleccionar pessoal para prestar serviços nas classes de electrotécnicos, maquinistas navais, carpinteiros, enfermeiros, músicos e taifa.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 52.º As praças a que se refere esta secção, enquanto frequentam os cursos de alistamento para electrotécnicos, maquinistas navais, enfermeiros ou taifa, mantêm o seu posto e classe.
+Art. 52.º As praças a que se refere esta secção, enquanto frequentam os cursos de alistamento para electrotécnicos, maquinistas navais, enfermeiros ou taifa, mantêm o seu posto e classe.
 
 § 1.º ...
 
@@ -346,7 +396,7 @@ Admissão das praças aos concursos para as classes de electrotécnicos, maquini
 
 ...
 
-###### Art. 112.º Os cursos e instruções de ingresso nas classes são os indicados no capítulo II e englobam os seguintes:
+Art. 112.º Os cursos e instruções de ingresso nas classes são os indicados no capítulo II e englobam os seguintes:
 
 a) Instrução de recruta (I. R.) e instrução técnica elementar (I. T. E.);
 
@@ -366,13 +416,13 @@ h) Curso de conversão para condutores mecânicos de automóveis.
 
 ...
 
-###### Art. 119.º O ensino ministrado nos cursos de alistamento de electrotécnicos, maquinistas navais e de enfermeiros é completado pelos respectivos cursos complementares.
+Art. 119.º O ensino ministrado nos cursos de alistamento de electrotécnicos, maquinistas navais e de enfermeiros é completado pelos respectivos cursos complementares.
 
 § 1.º ...
 
 § 2.º Os cabos electrotécnicos, maquinistas navais e enfermeiros que não obtiverem aproveitamento no curso complementar do respectivo curso de alistamento são colocados na escala de antiguidades à esquerda dos cabos que concluíram com aproveitamento o mesmo curso.
 
-###### Art. 120.º Os cursos de aplicação destinam-se a preparar as praças para o desempenho de funções inerentes aos vários postos das suas classes.
+Art. 120.º Os cursos de aplicação destinam-se a preparar as praças para o desempenho de funções inerentes aos vários postos das suas classes.
 
 Existem três cursos de aplicação:
 
@@ -386,7 +436,7 @@ c) 2.º grau, que habilita os cabos ao desempenho das funções que competem aos
 
 ...
 
-###### Art. 143.º A aprovação num exame de feição essencialmente prática e versando sobre matéria de carácter profissional constitui uma das condições especiais de promoção a cabo das seguintes classes:
+Art. 143.º A aprovação num exame de feição essencialmente prática e versando sobre matéria de carácter profissional constitui uma das condições especiais de promoção a cabo das seguintes classes:
 
 a) Condutores de máquinas;
 
@@ -402,7 +452,7 @@ f) Taifa.
 
 ...
 
-###### Art. 152.º A promoção por classificação em curso tem lugar:
+Art. 152.º A promoção por classificação em curso tem lugar:
 
 a) Na promoção a marinheiro das classes em que a frequência com aproveitamento do curso de aplicação do 1.º grau constitui uma condição de promoção;
 
@@ -424,7 +474,7 @@ e) Quando o ingresso nas classes é feito num posto superior e mediante a frequ�
 
 ...
 
-###### Art. 153.º A promoção por escolha tem lugar:
+Art. 153.º A promoção por escolha tem lugar:
 
 a) Na promoção a cabo das classes de condutores de máquinas, manobra, sinaleiros, abastecimento, fuzileiros e taifa;
 
@@ -432,7 +482,7 @@ b) Na promoção a segundo-sargento da classe de mergulhadores.
 
 ...
 
-###### Art. 156.º ...
+Art. 156.º ...
 
 ...
 
@@ -442,7 +492,7 @@ c) ...
 
 2.º É introduzido a seguir ao artigo 125.º um novo artigo, com a seguinte redacção:
 
-###### Art. 125.º-A. Funcionam cursos de promoção a cabo nas seguintes classes:
+Art. 125.º-A. Funcionam cursos de promoção a cabo nas seguintes classes:
 
 a) Artilheiros;
 
@@ -468,11 +518,11 @@ c) Estejam impedidas de recondução.
 
 3.º São introduzidos a seguir ao artigo 230.º-L três novos artigos, com a seguinte redacção:
 
-###### Art. 230.º-M. Os cursos de promoção a cabo estabelecidos no artigo 125.º-A começarão a funcionar em data a fixar em despacho do Chefe do Estado-Maior da Armada. Para os marinheiros das classes de artilheiros, radiotelegrafistas, radaristas, electricistas e torpedeiros-detectores que não frequentaram o curso de promoção a cabo continuará a constituir uma das condições especiais de promoção a estabelecida no artigo 143.º para as classes nele referidas.
+Art. 230.º-M. Os cursos de promoção a cabo estabelecidos no artigo 125.º-A começarão a funcionar em data a fixar em despacho do Chefe do Estado-Maior da Armada. Para os marinheiros das classes de artilheiros, radiotelegrafistas, radaristas, electricistas e torpedeiros-detectores que não frequentaram o curso de promoção a cabo continuará a constituir uma das condições especiais de promoção a estabelecida no artigo 143.º para as classes nele referidas.
 
-###### Art. 230.º-N. A promoção a cabo para os marinheiros das classes de artilheiros, radiotelegrafistas, radaristas, electricistas e torpedeiros-detectores que não frequentaram o curso de promoção a cabo continuará a processar-se por escolha, de acordo com o estabelecido no artigo 153.º para as classes nele referidas.
+Art. 230.º-N. A promoção a cabo para os marinheiros das classes de artilheiros, radiotelegrafistas, radaristas, electricistas e torpedeiros-detectores que não frequentaram o curso de promoção a cabo continuará a processar-se por escolha, de acordo com o estabelecido no artigo 153.º para as classes nele referidas.
 
-###### Art. 230.º-O. Quando para o preenchimento de uma vaga no posto de cabo das classes referidas no artigo anterior concorram simultaneamente marinheiros habilitados com o curso de promoção a cabo e marinheiros com o exame de promoção àquele posto, a promoção terá lugar pelo sistema de escolha.
+Art. 230.º-O. Quando para o preenchimento de uma vaga no posto de cabo das classes referidas no artigo anterior concorram simultaneamente marinheiros habilitados com o curso de promoção a cabo e marinheiros com o exame de promoção àquele posto, a promoção terá lugar pelo sistema de escolha.
 
 4.º São substituídos pelos quadros anexos à presente portaria o quadro n.º 1 «Sistemas de promoção adoptados na promoção dos sargentos e das praças da Armada» e o quadro n.º 2 «Condições especiais de promoção» anexos ao Estatuto dos Sargentos e Praças da Armada.
 
@@ -482,7 +532,7 @@ QUADRO N.º 1
 
 Sistemas de promoção adoptados na promoção dos sargentos e praças da Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 QUADRO N.º 2
 
@@ -490,8 +540,8 @@ QUADRO N.º 2
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf))](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/01400/00510058.pdf)
 
 Nota. - Na promoção por diuturnidade ao posto imediato dos segundos-sargentos existentes em 31 de Dezembro de 1969 são dispensadas as condições especiais de promoção, excepto o tempo de permanência no posto, sendo adicionada a parte que não tinham concluído às que lhes cumpre realizar em primeiro-sargento.
 
-**O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.**
+O Chefe do Estado-Maior da Armada, José Baptista Pinheiro de Azevedo.

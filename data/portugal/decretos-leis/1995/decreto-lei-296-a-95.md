@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 266/1995, 1º Suplemento, Série I-A de 1995-11-17
   number: '266'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7084-(2) a 7084-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266a01/00020007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296-a/1995/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1995-455465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ff4e26647fff770e71cfa35a45b0278587522fad2a04e0c5b91e0a0bf7f5eca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d95b899309e6c4f77534a1de4968ec5de68e2068a038bf4198354474f0fe181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia das Ciências de Lisboa
+- Academia Internacional da Cultura Portuguesa
+- Academia Nacional de Belas-artes
+- Academia Portuguesa de História
 - Administração do Porto de Lisboa
 - Administração do Porto de Sines
 - Administração dos Portos de Setúbal e Sesimbra
@@ -72,46 +76,48 @@ subjects:
 - Administração Marítima do Centro
 - Administração Marítima do Norte
 - Administração Marítima do SUL
-- ICEP
 - ALTO Comissário para a Imigração
 - ALTO Comissário para as Questões da Promoção da Igualdade e da Família
 - Arquivos Nacionais-torre do Tombo
+- Auditoria Jurídica
 - Autorização de Despesas
+- Caixa de Previdência
 - Caixa Nacional de Seguros de Doenças Profissionais
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
+- CASA PIA de Lisboa
+- Centro Científico e Cultural de Macau
+- Centro de Estudos e Formação Autárquica
 - Centro Nacional de Pensões
 - Centro Regional de Segurança Social
 - CIME
-- Companhia Nacional de Navegação
+- Cinemateca Portuguesa-Museu do Cinema
 - Comissão de Aplicação de Coimas em Matéria Económica
-- Ministério da Administração Interna
+- Comissão de Apoio à Reestruturação da Administração do Território
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Comissão Liquidatária
 - Comissão Nacional para a Política de Terceira Idade
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
 - Comissão para a Campanha Salve um Livro
+- Comissão para a Igualdade e para os Direitos das Mulheres
 - Comissão para a Igualdade no Trabalho e no Emprego
 - Comissão Portuguesa de História Militar
-- Ministro da Economia
+- Companhia Nacional de Bailado
+- Companhia Nacional de Navegação
+- Companhia Portuguesa de Transportes Marítimos
 - Companhias Reunidas de Congelados e Bacalhau
 - Competência Própria
 - Conselho da Concorrência
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
+- Conselho da Defesa do Património
+- Conselho de Garantias Financeiras
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Educação Qualificação Ciência e Cultura
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Ministros para os Assuntos Económicos
 - Conselho Nacional da Indústria e Energia
+- Conselho Nacional da Qualidade
 - Conselho Nacional de Higiene e Segurança do Trabalho
-- Conselho da Defesa do Património
 - Conselho Superior das Bibliotecas Portuguesas
 - Conselho Superior de Ciência e Tecnologia
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
-- Companhia Portuguesa de Transportes Marítimos
 - Definição de Competências
 - Delegação de Competências
 - Delegação Regional da Cultura do Alentejo
@@ -128,6 +134,7 @@ subjects:
 - Departamento para os Assuntos do Fundo Social Europeu
 - Departamento para os Assuntos Europeus e Relações Externas
 - Direcção Geral da Acção Social
+- Direcção Geral da Administração Pública
 - Direcção Geral da Concorrência e Preços
 - Direcção Geral da Família
 - Direcção Geral da Indústria
@@ -144,170 +151,226 @@ subjects:
 - Direcção Geral dos Serviços de Gestão e Organização
 - Docapesca-sociedade Concessionária da DOCA de Pesca
 - Dragapor-dragagens de Portugal
-- Região de Turismo
+- Empresa de Silos Portuários
 - Escola das Marinhas do Comércio e Pescas
 - Escola Náutica Infante Dom Henrique
 - Extinção de Serviços
-- Cinemateca Portuguesa-Museu do Cinema
-- Lisboa
 - Fundo de Estabilização Financeira da Segurança Social
-- Secretaria Geral
-- Ministério da Economia
-- Ministério do Planeamento e da Administração do Território
-- Ministério para a Qualificação e o Emprego
-- Ministério do MAR
+- Fundo de Fomento Cultural
+- Fundo de Turismo
+- Gabinete de Coordenação da Política Científica
+- Gabinete de Coordenação das Políticas Tecnológicas
+- Gabinete de Estudos e Planeamento
+- Gabinete de Relações Culturais Internacionais
 - Gabinete dos Assuntos Europeus
 - Gabinete para a Pesquisa e Exploração de Petróleo
 - Gabinete para os Assuntos Comunitários
 - Gabinete para os Assuntos Europeus e Relações Externas
 - Gestão Orçamental
-- Inspecção Geral das Actividades Económicas
 - Governo XIII
-- Ministério da Solidariedade e Segurança Social
-- Ministro da Justiça
-- Ministro da Solidariedade e Segurança Social
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Energia
-- Secretário de Estado do Ensino Superior
-- Secretário de Estado do Turismo
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Ministério da Cultura
-- Ministério das Finanças
-- Secretário de Estado da Cultura
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Ministro da Cultura
-- Ministro das Finanças
-- Primeiro-ministro
-- Secretário de Estado da Saúde
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- IAPMEI
+- ICEP
+- Inatel
 - Ineti
-- Instituto Nacional da Propriedade Industrial
+- Inspecção Geral das Actividades Económicas
 - Inspecção Geral de Jogos
+- Instituto António Sérgio do Sector Cooperativo
 - Instituto da Biblioteca Nacional e do Livro
 - Instituto das Artes Cénicas
-- Fundo de Turismo
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Instituto de Gestão Financeira da Segurança Social
+- Instituto de Investigação Científica e Tropical
 - Instituto do Desporto
+- Instituto do Emprego e Formação Profissional
 - Instituto do Trabalho Portuário
 - Instituto Geológico e Mineiro
-- CASA PIA de Lisboa
+- Instituto Nacional da Propriedade Industrial
 - Instituto Nacional de Formação Turística
 - Instituto Nacional de Pilotagem dos Portos
 - Instituto Português da ARTE Cinematográfica e Audiovisual
+- Instituto Português da Qualidade
 - Instituto Português de Investigação Marítima
 - Instituto Português de Museus
 - Instituto Tecnológico e Nuclear
 - Integração de Serviços
+- Jnict
 - Junta Autónoma do Porto da Figueira da Foz
 - Junta Autónoma do Porto de Aveiro
 - Junta Autónoma dos Portos do Barlavento do Algarve
 - Junta Autónoma dos Portos do Centro
 - Junta Autónoma dos Portos do Norte
 - Junta Autónoma dos Portos do Sotavento do Algarve
-- Santa Casa da Misericórdia
+- Lisboa
 - Manifestação Comercial
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério da Ciência e da Tecnologia
-- Centro Científico e Cultural de Macau
-- Instituto Português da Qualidade
-- Instituto de Investigação Científica e Tropical
-- Academia Nacional de Belas-artes
-- Fundo de Fomento Cultural
-- Gabinete de Estudos e Planeamento
-- Auditoria Jurídica
-- Secretário de Estado da Justiça
-- Comissão de Planeamento Energético de Emergência
-- Conselho de Garantias Financeiras
-- Direcção Geral da Administração Pública
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Saúde
+- Ministério da Solidariedade e Segurança Social
+- Ministério das Finanças
 - Ministério do Ambiente
 - Ministério do Equipamento Social
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Ministério do MAR
+- Ministério do Planeamento e da Administração do Território
+- Ministério dos Negócios Estrangeiros
+- Ministério para a Qualificação e o Emprego
 - Ministro Adjunto
-- Secretário de Estado do Desporto
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Gabinete de Coordenação da Política Científica
-- Gabinete de Coordenação das Políticas Tecnológicas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da República para a Região Autónoma da Madeira
 - Ministro da República para a Região Autónoma dos Açores
-- Caixa de Previdência
-- Centro de Estudos e Formação Autárquica
+- Ministro da Saúde
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
 - Ministro do Ambiente
 - Ministro do Equipamento Social
 - Ministro do Planeamento e da Administração do Território
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Qualificação e o Emprego
-- Companhia Nacional de Bailado
-- Comissão de Apoio à Reestruturação da Administração do Território
 - Orgânica
-- Secretário de Estado da Administração Local e Ordenamento do Território
-- Comissão para a Igualdade e para os Direitos das Mulheres
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Jnict
 - Presidência do Conselho de Ministros
-- Academia das Ciências de Lisboa
-- Ministério da Saúde
-- Ministro da República para a Região Autónoma da Madeira
-- Ministro da Defesa Nacional
-- Gabinete de Relações Culturais Internacionais
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Região de Turismo
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Secretariado Nacional de Reabilitação
 - Secretário de Estado
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro do Ambiente
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto do Primeiro-ministro
 - Secretário de Estado da Administração Educativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local e Ordenamento do Território
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Agricultura e do Desenvolvimento Rural
 - Secretário de Estado da Comunicação Social
+- Secretário de Estado da Cultura
 - Secretário de Estado da Defesa Nacional
 - Secretário de Estado da Educação e Inovação
+- Secretário de Estado da Energia
 - Secretário de Estado da Habitação
 - Secretário de Estado da Indústria
 - Secretário de Estado da Inserção Social
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude
+- Secretário de Estado da Presidência do Conselho de Ministros
 - Secretário de Estado da Produção Agro-alimentar
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Obras Públicas
 - Secretário de Estado das Pescas
 - Secretário de Estado do Comércio
 - Secretário de Estado do Desenvolvimento Regional
+- Secretário de Estado do Desporto
+- Secretário de Estado do Ensino Superior
 - Secretário de Estado do Orçamento
+- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado do Trabalho
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
 - Secretário de Estado dos Recursos Naturais
 - Secretário de Estado dos Transportes e Comunicações
-- Ministro da Administração Interna
-- Empresa de Silos Portuários
-- IAPMEI
-- Conselho Nacional da Qualidade
+- Secretário de Estado para os Assuntos Europeus
 - Socarmar
 - Sociedade Nacional dos Armadores de Bacalhau
-- Inatel
 - Transferência de Verbas
-- Academia Internacional da Cultura Portuguesa
-- Academia Portuguesa de História
 relationships:
 - type: amended_by
   target: pt:dre:527834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219554:por
+  label: "Colocada na dependência do Alto-Comissário para as Questões da Promoção da Igualdade e da Família a Comissão para\
+    \ a Igualdade e para os Direitos das Mulheres, pelo DEC LEI.3-B/96.1996.01.26.PCM, DR.IS-A [22]Supl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-b-1996-219554
+  date: '1996-01-26'
+- type: amended_by
+  target: pt:dre:534795:por
+  label: "Extinto o Ministério do Equipamento Social, alterado o art. 2.º, as als. d) a x) do n.º 3 do art. 26.º, o n.º 1\
+    \ do art. 31.º, o n.º 5 do art. 34.º, revogados os arts. 14.º e 19.º e aditados o n.º 3 do art. 10.º e os n.ºs. 6.º a\
+    \ 8.º ao art. 34.º, pelo DEC LEI.23/96.1996.03.20.PCM DR.IS-A [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1996-534795
+  date: '1996-03-20'
+- type: amended_by
+  target: pt:dre:469861:por
+  label: "Alterado o nº 1 do art. 15º e nº 2 do art. 16º pelo DEC LEI.43/96.1996.05.10.PCM, DR.IS-A [109]\09]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-1996-469861
+  date: '1996-05-10'
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "As referências ao Ministro Adjunto relativas a competências relacionadas com as áreas da comunicação social, da\
+    \ juventude, do desporto e do combate à toxicodependência consideram-se feitas ao Ministro Adjunto do Primeiro-Ministro,\
+    \ nos termos do art. 3º do DEC LEI.55/98.1998.03.16.PCM, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
+- type: amended_by
+  target: pt:dre:448168:por
+  label: "Aditado o art. 33º-A ao DEC LEI.267/98.1998.08.28.PCM, DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1998-448168
+  date: '1998-08-28'
+- type: amended_by
+  target: pt:dre:181068:por
+  label: "Alterado o art. 17º, na redacção dada pelo Dec Lei 55/98 de 16-Mar, pelo DEC LEI.17/99.1999.01.25.PCM, DR.IS-A [20]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-1999-181068
+  date: '1999-01-25'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Substituída a estrutura orgânica, com as respectivas alterações, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:527834:por
+  label: "Extinto o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho criado pelo Dec Lei 219/93 de 16-Jun,\
+    \ na redacção do presente diploma, pelo DEC LEI.171/2004.17.07.2004.MSST, DR.IS-A [167] de 17.07.2004; e determinada a\
+    \ sucessão, nos direitos e obrigações, da Inspecção-Geral do Trabalho e do Instituto para a Segurança, Higiene e Saúde\
+    \ no Trabalho ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, em termos a fixar por despacho do\
+    \ MSST\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2004-527834
+  date: '2004-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/451/1991/12/04/p/dre
+- type: cites
+  target: pt:dre:292481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:41Z'
   warnings: []
   errors: []
 ---
@@ -348,9 +411,9 @@ O Governo decreta, nos termos dos artigo 201.º, n.º 2, da Constituição, o se
 
 ### CAPÍTULO I — Do Governo
 
-###### Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, pelos ministros e pelos secretários de Estado.
+Artigo 1.º O Governo é constituído pelo Primeiro-Ministro, pelos ministros e pelos secretários de Estado.
 
-###### Art. 2.º Integram o Governo os seguintes Ministros:
+Art. 2.º Integram o Governo os seguintes Ministros:
 
 a) Ministro da Presidência;
 
@@ -388,7 +451,7 @@ r) Ministro da Ciência e da Tecnologia;
 
 s) Ministro Adjunto.
 
-###### Art. 3.º - 1 - O Primeiro-Ministro possui competência própria e competência delegada, nos termos da lei.
+Art. 3.º - 1 - O Primeiro-Ministro possui competência própria e competência delegada, nos termos da lei.
 
 2 - O Primeiro-Ministro pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a competência relativa aos organismos e serviços dele dependentes.
 
@@ -398,11 +461,11 @@ s) Ministro Adjunto.
 
 5 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro.
 
-###### Art. 4.º Os ministros possuem a competência própria que a lei lhes atribui e a competência que, nos termos da lei, lhes for delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 4.º Os ministros possuem a competência própria que a lei lhes atribui e a competência que, nos termos da lei, lhes for delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
-###### Art. 5.º Excepto no que se refere aos respectivos gabinetes, os secretários de Estado não dispõem de competência própria, exercendo, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.
+Art. 5.º Excepto no que se refere aos respectivos gabinetes, os secretários de Estado não dispõem de competência própria, exercendo, em cada caso, a competência que neles for delegada pelo Primeiro-Ministro ou pelo ministro respectivo, com possibilidade de conferir poderes de subdelegação.
 
-###### Art. 6.º - 1 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:
+Art. 6.º - 1 - A Presidência do Conselho de Ministros compreende os seguintes Secretários de Estado:
 
 a) Secretário de Estado da Presidência do Conselho de Ministros;
 
@@ -430,35 +493,35 @@ g) Secretário de Estado da Administração Pública.
 
 7 - São criados na Presidência do Conselho de Ministros o Alto-Comissário para as Questões da Promoção da Igualdade e da Família e o Alto-Comissário para a Imigração.
 
-###### Art. 7.º O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
+Art. 7.º O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro da Presidência.
 
-###### Art. 8.º - 1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 8.º - 1 - O Ministro da Presidência exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - Ao Ministro da Presidência compete assegurar as relações do Governo com a Assembleia da República e do Governo com os partidos políticos.
 
 3 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado dos Assuntos Parlamentares.
 
-###### Art. 9.º - 1 - O Ministro Adjunto exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
+Art. 9.º - 1 - O Ministro Adjunto exerce os poderes que nele forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro Adjunto é coadjuvado no exercício das suas funções pelo Secretário de Estado da Juventude, pelo Secretário de Estado da Comunicação Social, pelo Secretário de Estado do Desporto e pelo Secretário de Estado da Administração Pública.
 
-###### Art. 10.º - 1 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa Nacional.
+Art. 10.º - 1 - O Ministro da Defesa Nacional é coadjuvado no exercício das suas funções pelo Secretário de Estado da Defesa Nacional.
 
 2 - Integram o Ministério da Defesa Nacional os organismos e serviços até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 11.º - 1 - O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.
+Art. 11.º - 1 - O Ministro dos Negócios Estrangeiros é coadjuvado no exercício das suas funções pelo Secretário de Estado dos Negócios Estrangeiros e da Cooperação, pelo Secretário de Estado dos Assuntos Europeus e pelo Secretário de Estado das Comunidades Portuguesas.
 
 2 - Integram o Ministério dos Negócios Estrangeiros os organismos e serviços até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 12.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e das Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.
+Art. 12.º - 1 - O Ministro das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Tesouro e das Finanças, pelo Secretário de Estado do Orçamento e pelo Secretário de Estado dos Assuntos Fiscais.
 
 2 - O Ministério das Finanças integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome, com excepção dos transferidos pelo presente diploma para outros departamentos.
 
-###### Art. 13.º - 1 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.
+Art. 13.º - 1 - O Ministro da Administração Interna é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Administração Interna e pelo Secretário de Estado da Administração Interna.
 
 2 - Integram o Ministério da Administração Interna os organismos e serviços até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 14.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e Ordenamento do Território e pelo Secretário de Estado do Desenvolvimento Regional.
+Art. 14.º - 1 - O Ministro do Planeamento e da Administração do Território é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Local e Ordenamento do Território e pelo Secretário de Estado do Desenvolvimento Regional.
 
 2 - O Ministério do Planeamento e da Administração do Território integra os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome, com excepção dos transferidos pelo presente diploma para outros departamentos.
 
@@ -466,11 +529,11 @@ g) Secretário de Estado da Administração Pública.
 
 4 - Junto do Ministro do Planeamento e da Administração do Território e sob sua superintendência é criada a Comissão de Apoio à Restruturação da Administração do Território.
 
-###### Art. 15.º - 1 - O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado da Justiça.
+Art. 15.º - 1 - O Ministro da Justiça é coadjuvado no exercício das suas funções pelo Secretário de Estado da Justiça.
 
 2 - Integram o Ministério da Justiça os organismos e serviços até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 16.º - 1 - É criado o Ministério da Economia.
+Art. 16.º - 1 - É criado o Ministério da Economia.
 
 2 - O Ministro da Economia é coadjuvado no exercício das suas funções pelo Secretário de Estado da Indústria, pelo Secretário de Estado da Energia, pelo Secretário de Estado do Comércio e pelo Secretário de Estado do Turismo.
 
@@ -540,7 +603,7 @@ s) Delegação Regional da Indústria e Energia do Algarve.
 
 5 - As Secretarias-Gerais, bem como os Gabinetes para os Assuntos Comunitários e as Auditorias Jurídicas dos antigos Ministérios da Indústria e Energia e do Comércio e Turismo serão fundidos, integrando o Ministério da Economia.
 
-###### Art. 17.º - 1 - É criado o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+Art. 17.º - 1 - É criado o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 2 - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas é coadjuvado no exercício das suas funções pelo Secretário de Estado da Agricultura e do Desenvolvimento Rural, pelo Secretário de Estado da Produção Agro-Alimentar e pelo Secretário de Estado das Pescas.
 
@@ -558,11 +621,11 @@ d) Instituto Português de Investigação Marítima.
 
 5 - As referências feitas ao Ministro da Agricultura, Pescas e Alimentação ou ao membro do Governo responsável pelas pescas na legislação referente à DOCAPESCA, Portos e Lotas, S. A., Companhias Reunidas de Congelados e Bacalhau, S. A., e Sociedade Nacional dos Armadores de Bacalhau, S. A., entendem-se feitas ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Art. 18.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Educativa, pelo Secretário de Estado do Ensino Superior e pelo Secretário de Estado da Educação e Inovação.
+Art. 18.º - 1 - O Ministro da Educação é coadjuvado no exercício das suas funções pelo Secretário de Estado da Administração Educativa, pelo Secretário de Estado do Ensino Superior e pelo Secretário de Estado da Educação e Inovação.
 
 2 - Integram o Ministério da Educação os serviços e organismos compreendidos no anterior Ministério com o mesmo nome, com excepção dos integrados pelo presente diploma em outros departamentos.
 
-###### Art. 19.º - 1 - O Ministro do Equipamento Social é coadjuvado no exercício das suas funções pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado da Habitação e pelo Secretário de Estado dos Transportes e Comunicações.
+Art. 19.º - 1 - O Ministro do Equipamento Social é coadjuvado no exercício das suas funções pelo Secretário de Estado das Obras Públicas, pelo Secretário de Estado da Habitação e pelo Secretário de Estado dos Transportes e Comunicações.
 
 2 - Ficam na dependência do Ministro do Equipamento Social os serviços e organismos até aqui integrados no Ministério das Obras Públicas, Transportes e Comunicações.
 
@@ -604,11 +667,11 @@ q) Comissão Liquidatária das ex-Empresas CNN e CTM.
 
 5 - É extinta a Secretaria-Geral do Ministério do Mar, competindo a sua liquidação ao Ministro do Equipamento Social.
 
-###### Art. 20.º - 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado da Saúde.
+Art. 20.º - 1 - O Ministro da Saúde é coadjuvado no exercício das suas funções pelo Secretário de Estado da Saúde.
 
 2 - Integram o Ministério da Saúde os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 21.º - 1 - É criado o Ministério para a Qualificação e o Emprego.
+Art. 21.º - 1 - É criado o Ministério para a Qualificação e o Emprego.
 
 2 - O Ministro para a Qualificação e o Emprego é coadjuvado no exercício das suas funções pelo Secretário de Estado do Trabalho.
 
@@ -644,7 +707,7 @@ d) Departamento de Estudos e Planeamento.
 
 6 - Até à criação dos organismos próprios referidos no número anterior no Ministério da Solidariedade e Segurança Social, o Ministério para a Qualificação e o Emprego prestará todo o apoio necessário.
 
-###### Art. 22.º - 1 - É criado o Ministério da Solidariedade e Segurança Social.
+Art. 22.º - 1 - É criado o Ministério da Solidariedade e Segurança Social.
 
 2 - O Ministro da Solidariedade e Segurança Social é coadjuvado no exercício das suas funções pelo Secretário de Estado da Segurança Social e pelo Secretário de Estado da Inserção Social.
 
@@ -686,15 +749,15 @@ p) Caixas de Previdência Social.
 
 6 - Até à criação do organismo próprio referido no número anterior no Ministério para a Qualificação e o Emprego, o Ministério da Solidariedade e Segurança Social prestará todo o apoio necessário.
 
-###### Art. 23.º Ficam na dependência conjunta do Ministro para a Qualificação e o Emprego e do Ministro da Solidariedade e Segurança Social os Serviços Sociais até aqui integrados no Ministério do Emprego e da Segurança Social.
+Art. 23.º Ficam na dependência conjunta do Ministro para a Qualificação e o Emprego e do Ministro da Solidariedade e Segurança Social os Serviços Sociais até aqui integrados no Ministério do Emprego e da Segurança Social.
 
-###### Art. 24.º Fica na dependência conjunta do Ministério da Saúde e do Ministério da Solidariedade e Segurança Social a Santa Casa da Misericórdia de Lisboa.
+Art. 24.º Fica na dependência conjunta do Ministério da Saúde e do Ministério da Solidariedade e Segurança Social a Santa Casa da Misericórdia de Lisboa.
 
-###### Art. 25.º - 1 - O Ministro do Ambiente é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Ambiente e pelo Secretário de Estado dos Recursos Naturais.
+Art. 25.º - 1 - O Ministro do Ambiente é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro do Ambiente e pelo Secretário de Estado dos Recursos Naturais.
 
 2 - Integram o Ministério de Ambiente os serviços e organismos até aqui compreendidos no Ministério com o mesmo nome.
 
-###### Art. 26.º - 1 - É criado o Ministério da Cultura.
+Art. 26.º - 1 - É criado o Ministério da Cultura.
 
 2 - O Ministro da Cultura é coadjuvado no exercício das suas funções pelo Secretário de Estado da Cultura.
 
@@ -746,7 +809,7 @@ x) Delegação Regional da Cultura do Alentejo;
 
 y) Delegação Regional da Cultura do Algarve.
 
-###### Art. 27.º - 1 - É criado o Ministério da Ciência e da Tecnologia.
+Art. 27.º - 1 - É criado o Ministério da Ciência e da Tecnologia.
 
 2 - Passam para a dependência do Ministro da Ciência e da Tecnologia os seguintes serviços e organismos até aqui integrados no Ministério do Planeamento e da Administração do Território:
 
@@ -764,7 +827,7 @@ f) Centro Científico e Cultural de Macau.
 
 3 - Para o exercício de funções de apoio técnico ao Ministro da Ciência e da Tecnologia são criados o Gabinete de Coordenação da Política Científica e o Gabinete de Coordenação das Políticas Tecnológicas, constituídos por especialistas recrutados nos termos do artigo 11.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho.
 
-###### Art. 28.º São extintos:
+Art. 28.º São extintos:
 
 a) O Ministério do Mar;
 
@@ -776,11 +839,11 @@ d) O Ministério das Obras Públicas, Transportes e Comunicações;
 
 e) O Ministério do Emprego e da Segurança Social.
 
-###### Art. 29.º O Conselho Superior de Obras Públicas e Transportes mantém a competência para se pronunciar sobre os problemas técnicos e económicos dos Ministérios do Planeamento e da Administração do Território, da Educação, da Saúde e do Ambiente, nos termos do disposto no [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que os respectivos Ministros lhes submetam.
+Art. 29.º O Conselho Superior de Obras Públicas e Transportes mantém a competência para se pronunciar sobre os problemas técnicos e económicos dos Ministérios do Planeamento e da Administração do Território, da Educação, da Saúde e do Ambiente, nos termos do disposto no [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, que os respectivos Ministros lhes submetam.
 
 ### CAPÍTULO II — Do Conselho de Ministros
 
-###### Art. 30.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.
+Art. 30.º - 1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro e pelos ministros.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
@@ -788,7 +851,7 @@ e) O Ministério do Emprego e da Segurança Social.
 
 4 - Podem também participar nas reuniões do Conselho de Ministros, sem direito a voto, os secretários de Estado que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.
 
-###### Art. 31.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, o Ministro da Presidência, o Ministro dos Negócios Estrangeiros, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro da Economia, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o Ministro do Equipamento Social, o Ministro para a Qualificação e o Emprego, o Ministro da Solidariedade e Segurança Social, o Ministro do Ambiente e o Ministro Adjunto.
+Art. 31.º - 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, o Ministro da Presidência, o Ministro dos Negócios Estrangeiros, o Ministro das Finanças, o Ministro do Planeamento e da Administração do Território, o Ministro da Economia, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o Ministro do Equipamento Social, o Ministro para a Qualificação e o Emprego, o Ministro da Solidariedade e Segurança Social, o Ministro do Ambiente e o Ministro Adjunto.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros e o Secretário de Estado Adjunto do Primeiro-Ministro.
 
@@ -806,7 +869,7 @@ d) Apreciar os assuntos de carácter sectorial que lhe sejam apresentados pelos 
 
 e) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do Conselho de Ministros.
 
-###### Art. 32.º - 1 - É criado o Conselho de Ministros para os Assuntos da União Europeia, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros e pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira.
+Art. 32.º - 1 - É criado o Conselho de Ministros para os Assuntos da União Europeia, que é presidido pelo Primeiro-Ministro e integrado por todos os ministros e pelos Ministros da República para as Regiões Autónomas dos Açores e da Madeira.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam ainda nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado dos Assuntos Europeus.
 
@@ -824,7 +887,7 @@ d) Aprovar o relatório anual relativo à participação de Portugal na União;
 
 e) Discutir todas as matérias que lhe sejam submetidas pelo Primeiro-Ministro.
 
-###### Art. 33.º - 1 - É criado o Conselho de Ministros para os Assuntos da Educação, Qualificação, Ciência e Cultura, presidido pelo Primeiro-Ministro, de que fazem parte o Ministro da Presidência, o Ministro das Finanças, o Ministro da Educação, o Ministro para a Qualificação e o Emprego, o Ministro da Cultura e o Ministro da Ciência e da Tecnologia.
+Art. 33.º - 1 - É criado o Conselho de Ministros para os Assuntos da Educação, Qualificação, Ciência e Cultura, presidido pelo Primeiro-Ministro, de que fazem parte o Ministro da Presidência, o Ministro das Finanças, o Ministro da Educação, o Ministro para a Qualificação e o Emprego, o Ministro da Cultura e o Ministro da Ciência e da Tecnologia.
 
 2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros, o Secretário de Estado Adjunto do Primeiro-Ministro e o Secretário de Estado da Administração Educativa.
 
@@ -844,7 +907,7 @@ d) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 34.º - 1 - A estrutura orgânica constante do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, com as respectivas alterações, é substituída pela estabelecida no presente diploma.
+Art. 34.º - 1 - A estrutura orgânica constante do [Decreto-Lei n.º 451/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1991-292481), de 4 de Dezembro, com as respectivas alterações, é substituída pela estabelecida no presente diploma.
 
 2 - Todos os serviços e organismos cujo enquadramento ministerial é alterado mantêm a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela.
 
@@ -854,13 +917,13 @@ d) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do
 
 5 - A Secretaria-Geral, o Gabinete para os Assuntos Europeus e Relações Externas e a Auditoria Jurídica existentes no âmbito do anterior Ministério do Planeamento e da Administração do Território asseguram, transitoriamente, até à entrada em vigor dos diplomas que estabelecerão a estrutura orgânica dos novos Ministérios do Planeamento e da Administração do Território e da Ciência e da Tecnologia, o respectivo apoio técnico-administrativo, ficando, durante esse período, na dependência conjunta dos respectivos ministros.
 
-###### Art. 35.º As alterações na estrutura orgânica são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e sem que daí resulte perda de direitos adquiridos.
+Art. 35.º As alterações na estrutura orgânica são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e sem que daí resulte perda de direitos adquiridos.
 
-###### Art. 36.º Os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que os substituem, sem dependência de qualquer formalidade.
+Art. 36.º Os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços objecto de alterações por força do presente diploma são automaticamente transferidos para os novos departamentos, organismos ou serviços que os substituem, sem dependência de qualquer formalidade.
 
-###### Art. 37.º Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro das Finanças.
+Art. 37.º Todos os actos do Governo que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Ministro das Finanças.
 
-###### Art. 38.º - 1 - Até à aprovação do Orçamento do Estado para 1996 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes.
+Art. 38.º - 1 - Até à aprovação do Orçamento do Estado para 1996 mantém-se a expressão orçamental da estrutura governativa anterior, com as adaptações decorrentes do estabelecido nos números seguintes.
 
 2 - Os encargos com os gabinetes dos membros do Governo criados ou reestruturados pelo presente diploma serão satisfeitos por conta das verbas dos correspondentes gabinetes extintos ou fundidos.
 
@@ -868,16 +931,16 @@ d) Exercer outros poderes que lhe sejam conferidos por lei ou por delegação do
 
 4 - Os encargos relativos aos serviços ou organismos que transitam, no todo ou em parte, para departamentos diferentes continuam a ser processados por conta das verbas que lhes estão afectas.
 
-###### Art. 39.º O presente diploma produz efeitos a contar de 28 de Outubro de 1995.
+Art. 39.º O presente diploma produz efeitos a contar de 28 de Outubro de 1995.
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 1995. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Jardim - Daniel Bessa Fernandes Coelho - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Henrique de Oliveira Constantino - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Maria Elisa da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 17 de Novembro de 1995.**
+Promulgado em 17 de Novembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1995.**
+Referendado em 17 de Novembro de 1995.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

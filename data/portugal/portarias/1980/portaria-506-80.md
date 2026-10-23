@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-1980-470646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05fb6b98e496fbba3e570e61e562d2b1cab1ba911ea9f830d582992042ac11b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76976db4fe1b2f7bb97bd8154a4230d30b309f80bc6c3229473dc38e84d3f04a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:626993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626993:por
+  label: Substituído o quadro de pessoal do Museu de Grão Vasco pelo(a) Port 824/93 - Diário da República n.º 211/1993, Série
+    I-B de 1993-09-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/824-1993-626993
+  date: '1993-09-08'
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:16Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +121,4 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano
 
 Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 23 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo. - O Secretário de Estado da Cultura, Vasco Pulido Valente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18500/21472148.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18500/21472148.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18500/21472148.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/21800/0526205270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/92/2018/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2018-116950303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f6308b34486bb90114e069ffd9e9f0002862680f993ea40ee7df757ab021fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4487fafefcd369f0708ab1c0d6e1a9a5d0bac142bcda1d518319e302ee9dd4f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Transporte Marítimo
-- Instituto dos Registos e do Notariado
-- Definição de Competências
+- Açores
 - Autoridade Marítima Nacional
+- Benefícios Fiscais
 - Contribuições e Impostos
-- IRS
+- Definição de Competências
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Embarcação
+- Instituto dos Registos e do Notariado
 - IRC
+- IRS
 - Madeira.região Autónoma
 - Regimes de Segurança Social
-- Benefícios Fiscais
-- Açores
+- Sistema Nacional de Embarcações e Marítimos
+- Transporte Marítimo
 - Tributação
 - Tripulação
-- Sistema Nacional de Embarcações e Marítimos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/43/2018/06/18/p/dre
@@ -107,16 +107,44 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:115524262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115946547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:28Z'
   warnings: []
   errors: []
 ---
@@ -325,7 +353,9 @@ k) Certificado de vistoria inicial, caso a mesma seja efetuada por Organização
 
 5 - No caso de navios ou embarcações já registadas, aplica-se o disposto no presente artigo ao pedido de registo dos factos previstos no artigo 10.º, devendo ser apresentados os documentos comprovativos dos factos a registar.
 
-###### Artigo 15.º — Título de propriedade do navio ou embarcação
+###### Artigo 15.º
+
+## Título de propriedade do navio ou embarcação
 
 1 - O título de propriedade do navio ou embarcação é acessível através do SNEM, sendo emitido em formato eletrónico bem como, a pedido do interessado, em suporte físico.
 
@@ -495,15 +525,15 @@ Para os navios e embarcações existentes, as alterações de identificação de
 
 Visto e aprovado em Conselho de Ministros de 4 de outubro de 2018. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva - Ana Paula Mendes Vitorino.
 
-**Promulgado em 31 de outubro de 2018.**
+Promulgado em 31 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2018.**
+Referendado em 6 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se referem o n.º 1 do artigo 2.º, o n.º 1 do artigo 3.º e os n.os 1 e 2 do artigo 26.º)
 
@@ -633,7 +663,7 @@ c) O rendimento proveniente de navios ou embarcações tomados em regime de afre
 
 1 - A matéria coletável prevista no presente regime especial é determinada através da aplicação dos seguintes valores diários a cada embarcação elegível nos termos do n.º 1 do artigo anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/11/21800/0526205270.pdf))](https://files.diariodarepublica.pt/1s/2018/11/21800/0526205270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/11/21800/0526205270.pdf)
 
 2 - Quando a arqueação líquida for superior a 1000 toneladas líquidas, o quantitativo da matéria coletável é apurado pela aplicação de cada escalão às toneladas líquidas da embarcação que couberem dentro do mesmo escalão.
 
@@ -674,3 +704,5 @@ Nos termos da alínea b) do n.º 3 do artigo 17.º do Código do IRC, os sujeito
 ###### Artigo 9.º — Cálculo das mais-valias ou menos-valias
 
 Em caso de mudança do regime de determinação da matéria coletável durante o período em que os ativos sejam depreciáveis ou amortizáveis, devem considerar-se no cálculo das mais-valias ou menos-valias, relativamente ao período em que seja aplicado o regime especial de determinação do lucro tributável aplicável às atividades de transporte marítimo previsto no presente decreto-lei, as quotas mínimas de depreciação ou amortização.
+
+111797192

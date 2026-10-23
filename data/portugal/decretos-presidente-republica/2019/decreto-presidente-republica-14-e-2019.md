@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 34/2019, 1º Suplemento, Série I de 2019-02-18
   number: '34'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1278-(3) a 1278-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03401/0000300003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/14-e/2019/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-e-2019-119685130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6758410f1c3a0be71ea8575743464375b8ce6a919d7c7f47420fb952b15d6eb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4179543ff4f1631b2c2406faef200e07948d06543d5726a4eeca2886c5758710
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Governo XXI
 - Membros do Governo
 - Ministro
-- Nomeação
-- Governo XXI
 - Ministro das Infraestruturas e da Habitação
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:120454170:por
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:47Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +94,18 @@ validation:
 
 de 18 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Primeiro-Ministro, Pedro Nuno de Oliveira Santos para o cargo de Ministro das Infraestruturas e da Habitação.
 
-**Assinado em 18 de fevereiro de 2019.**
+Assinado em 18 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de fevereiro de 2019.**
+Referendado em 18 de fevereiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112079752

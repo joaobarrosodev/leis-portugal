@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/563/1999/12/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/563-1999-661767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64e434ec351dd800a075072657a6cb0a4e54114dd364f81089c312d94b185025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acfe849c9afa532973cee00038691f02e8b5eddcca49d7e8d595116fafd58433
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,28 +72,32 @@ subjects:
 - Definição de Competências
 - Empreitada de Obras Públicas
 - Estatuto
-- Recrutamento de Pessoal
-- Instituto para a Construção Rodoviária
 - Incompatibilidades
 - Instituto para a Conservação e Exploração da REDE Rodoviária
+- Instituto para a Construção Rodoviária
 - Junta Autónoma das Estradas
 - Presidente
+- Recrutamento de Pessoal
 - Vogal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/237/1999/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/237/1999/06/25/p/dre
+- type: cites
+  target: pt:dre:393003:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:15:24Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +156,12 @@ Estatuto dos membros do conselho de administração
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 2 de Dezembro de 1999.**
+Promulgado em 2 de Dezembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Dezembro de 1999.**
+Referendado em 8 de Dezembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

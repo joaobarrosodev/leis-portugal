@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04400/0147601480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2019/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fca22f61765a3f6c9024389f3a6921904de93c1941d4df447b4782b5752c0ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b94d04b46fe8a6920a1e80f2927ab4d293a1027093b7cae2fa4e11e41c62786
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
 - Conselho Municipal de Segurança
 - Definição de Competências
-- Segurança Pública
 - Droga
 - Inserção Social
 - Regulamento
-- Autarquia Local
+- Segurança Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/106/2015/08/25/p/dre
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
 article_structure:
-  article_count: 26
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:04Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +135,9 @@ Os artigos 2.º, 3.º, 4.º a 7.º e 9.º da [Lei n.º 33/98](https://diariodare
 
 O conselho municipal de segurança, adiante designado por conselho, é uma entidade de âmbito municipal com funções de natureza consultiva, de articulação, coordenação, informação e cooperação, cujos objetivos, composição e funcionamento são regulados pela presente lei.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Constituem objetivos do conselho:
 
@@ -153,7 +155,9 @@ f) [...];
 
 g) Promover a participação ativa dos cidadãos e das instituições locais na resolução dos problemas de segurança pública.
 
-###### Artigo 4.º — Competências do conselho
+Artigo 4.º
+
+Competências do conselho
 
 1 - Para a prossecução dos objetivos previstos no artigo 3.º, compete ao conselho emitir parecer sobre:
 
@@ -187,7 +191,9 @@ m) Os Contratos Locais de Segurança.
 
 3 - Os pareceres referidos no n.º 1 são apreciados pela assembleia municipal, sob proposta da câmara municipal, com conhecimento das forças de segurança com competência no município.
 
-###### Artigo 5.º — Composição do conselho restrito
+Artigo 5.º
+
+Composição do conselho restrito
 
 1 - Integram o conselho restrito:
 
@@ -217,7 +223,9 @@ l) (Revogado.)
 
 2 - O conselho restrito pode convidar a participar nas suas reuniões entidades e personalidades cuja intervenção considere relevante em função da matéria.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O conselho, na sua primeira reunião, elabora uma proposta de regulamento a submeter à apreciação da assembleia municipal, sob proposta da câmara municipal.
 
@@ -225,7 +233,9 @@ l) (Revogado.)
 
 3 - Na primeira sessão, após a receção do parecer do conselho, a assembleia municipal aprova o regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O conselho reúne sempre que convocado pelo presidente e, no mínimo, com periodicidade trimestral.
 
@@ -233,7 +243,9 @@ l) (Revogado.)
 
 3 - Da reunião do conselho é elaborada ata, a qual é transmitida por via eletrónica aos membros do governo responsáveis pelas áreas da administração interna e da justiça.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Os membros de cada conselho tomam posse perante a câmara municipal.»
 
@@ -247,7 +259,9 @@ Modalidades de funcionamento do conselho municipal de segurança
 
 O conselho municipal de segurança funciona em modalidade alargada e restrita, doravante designadas, respetivamente, de conselho e de conselho restrito.
 
-###### Artigo 3.º-B — Composição do conselho
+Artigo 3.º-B
+
+Composição do conselho
 
 1 - Integram o conselho:
 
@@ -281,7 +295,9 @@ m) Um representante, da área do município, das organizações no âmbito da se
 
 3 - O conselho é presidido pelo presidente da câmara municipal, ou pelo vereador com competência delegada.
 
-###### Artigo 5.º-A — Competências do conselho restrito
+Artigo 5.º-A
+
+Competências do conselho restrito
 
 1 - É da competência do conselho restrito analisar e avaliar as situações de potencial impacto na segurança ou no sentimento de segurança das populações, nomeadamente as suscitadas no âmbito do conselho.
 
@@ -311,15 +327,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de setembro de 2018. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem.
 
-**Promulgado em 14 de fevereiro de 2019.**
+Promulgado em 14 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de fevereiro de 2019.**
+Referendado em 22 de fevereiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -496,3 +512,5 @@ c) Outras estratégias para a eliminação de fatores criminógenos.
 ###### Artigo 9.º — Posse
 
 Os membros de cada conselho tomam posse perante a câmara municipal.
+
+112106149

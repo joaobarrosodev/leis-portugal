@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/203b00/51645181.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/44/1994/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1994-658441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 187136accfcab4273048ad86ac136f4ac3757a2cb35e6345ffba91bdbe15477b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49a66ec633c570955c329aabca8f088e82b9a9966cf5f54344ab48d71595bfcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,53 @@ reuse:
 subjects:
 - Comando da Instrução
 - Comando da Logística
-- Exército
 - Comando do Pessoal
+- Exército
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:635820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223201:por
+  label: "Alterados os arts. 2º, 12º, 13º, 17º, 32º e 33º pelo DR.25/98.1998.11.06.MDN, DR.IS-B [257]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-1998-223201
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:532057:por
+  label: "Alterado o art. 13.º, na redacção dada pelo DR 235/98, de 06-Nov, pelo DR.5/99.1999.03.04.MDN DR.IS-B [97]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1999-532057
+  date: '1999-03-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355936:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 260/94, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL.\0\
+    , 4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/260-1994-355936
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:635820:por
+  label: "Revogado pelo DR.74/2007.02.07.2007.MDN, DR.IS [125] de 02.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/74-2007-635820
+  date: '2007-07-02'
 article_structure:
   article_count: 54
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:09Z'
   warnings: []
   errors: []
 ---
@@ -1382,12 +1407,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

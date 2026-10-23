@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29100/32673267.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/693-1979-365951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2859f061c3dab2d9424cb756b4d139ab72b99831f33eec9ed022e147226fbab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5aaae3a435507e8739dc53acceb05b2c32fe195b34d4058dc063e54c11461302
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Consultivo da Ciência e Tecnologia para o Desenvolvimento
+- Investigação Científica e Tecnológica
+- Jnict
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:193817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193817:por
+  label: Revogada, pelo(a) Decreto-Lei n.º 28/86 - Diário da República n.º 41/1986, Série I de 1986-02-19 nos termos do art.
+    13.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-1986-193817
+  date: '1986-02-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:48Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +113,9 @@ Nestes termos, tendo presente o disposto no artigo 3.º, alínea l), do [Decreto
 
 Manda o Governo da República Portuguesa, pelo Ministro da Cultura e da Ciência, o seguinte:
 
-###### Artigo 1.º É criado, na Junta Nacional de Investigação Científica e Tecnológica e na dependência directa do respectivo presidente, o Conselho Consultivo de Ciência e Tecnologia para o Desenvolvimento (Cited).
+Artigo 1.º É criado, na Junta Nacional de Investigação Científica e Tecnológica e na dependência directa do respectivo presidente, o Conselho Consultivo de Ciência e Tecnologia para o Desenvolvimento (Cited).
 
-###### Art. 2.º Compete ao Conselho:
+Art. 2.º Compete ao Conselho:
 
 a) Avaliar e seleccionar as propostas de contrato de investigação e desenvolvimento, no âmbito do programa integrado em execução na Junta Nacional de Investigação Científica e Tecnológica;
 
@@ -113,7 +127,7 @@ d) Definir, de acordo com os objectivos globais da política científica e tecno
 
 e) Dar parecer sobre a concessão de subsídios ou outras subvenções, não directamente relacionados com as propostas de contrato de investigação e desenvolvimento, solicitados à Junta Nacional de Investigação Científica e Tecnológica.
 
-###### Art. 3.º - 1 - O Conselho será constituído por oito a doze membros, nomeados pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica.
+Art. 3.º - 1 - O Conselho será constituído por oito a doze membros, nomeados pelo Secretário de Estado da Ciência, sob proposta do presidente da Junta Nacional de Investigação Científica e Tecnológica.
 
 2 - O Conselho será presidido pelo presidente da Junta Nacional de Investigação Científica e Tecnológica.
 

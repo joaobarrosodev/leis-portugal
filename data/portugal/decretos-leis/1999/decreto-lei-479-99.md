@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/261a00/78427842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/479/1999/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1999-683186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 305e2c22dd4e2f3f2244458fddcdeaaa3d03fb19518810edb562847ae6312411
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d39311b03af98f163c2c0629caf8a880c7313fd639939912a864c479bb290116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ADSE
-- Cálculo de Pensões
-- Instituto Nacional de Estatística
-- Estatuto
 - Caixa Geral de Aposentações
-- Pagamento
+- Cálculo de Pensões
+- Estatuto
+- Instituto Nacional de Estatística
 - Instituto Público
+- Pagamento
 - Pessoa Coletiva
 - Segurança Social
 relationships:
@@ -80,16 +80,27 @@ relationships:
   target: pt:dre:521259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:618497:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521259:por
+  label: "Revogado a partir de 01.06.2007, o Dec Lei 280/89 de 23-Ago, sem prejuízo das situações constituídas ao abrigo do\
+    \ disposto nos seus nºs 2 a 5 do art. 31º e nº 5 do art. 33º, na redacção do presente diploma, pelo DEC LEI.166/2007.03.05.2007.PCM,\
+    \ DR.IS [85] de 03.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2007-521259
+  date: '2007-05-03'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:38Z'
   warnings: []
   errors: []
 ---
@@ -128,12 +139,12 @@ Regime de segurança social
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho.
 
-**Promulgado em 22 de Outubro de 1999.**
+Promulgado em 22 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 1999.**
+Referendado em 26 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

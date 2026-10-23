@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/162-1975-160760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb21f60c898645956e663c3a71202b8db8308dd114c07a69741c7792b1d7f7ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 668809a2a114946be0ee4734ddfa0484ce611457c9294189f6704c1bf47a9130
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471773:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:39:52Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +97,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Assunto
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 3052.º «Quota-parte de Moçambique em encargos na metrópole»:
+Artigo 3052.º «Quota-parte de Moçambique em encargos na metrópole»:
 
 N.º 11 «Instituto Superior de Ciências Sociais e Política Ultramarina»:
 
 Alínea b) «Vencimentos dos estagiários do Instituto de Línguas Africanas e Orientais» ... 20000$00
 
-###### Artigo 3058.º «Diversas despesas»:
+Artigo 3058.º «Diversas despesas»:
 
 N.º 5 «Despesas eventuais»:
 
@@ -113,7 +121,7 @@ tomando como contrapartida disponibilidades das seguintes verbas da mesma tabela
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 3057.º «Deslocações de pessoal»:
+Artigo 3057.º «Deslocações de pessoal»:
 
 N.º 2 «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
@@ -129,7 +137,7 @@ Alínea b) «Por quaisquer outros motivos»:
 
 1) «A pagar na metrópole» ... 400000$00
 
-###### Artigo 3058.º «Diversas despesas»:
+Artigo 3058.º «Diversas despesas»:
 
 N.º 2 «Passagens a conceder aos estudantes, nos termos do [Decreto n.º 45653](https://diariodarepublica.pt/dr/detalhe/decreto/45653-1964-471773), de 11 de Abril de 1964»:
 

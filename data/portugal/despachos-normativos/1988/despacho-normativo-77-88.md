@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20400/36593663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/77-1988-370214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1eec2d7bbde1aec81e8594c680ac691f4faddeac59c5b347db1c728b869bd64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8ef9c42b76cf5859182d9fd4ca2c750f18749f3e1b0d39b61d50bc4237e85c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:624793:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556418:por
+  label: "Alterado o nº 8 pelo DN.101/90.10.09.1990.ME, DR.IS [209] de 10.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/101-1990-556418
+  date: '1990-09-10'
+- type: amended_by
+  target: pt:dre:403705:por
+  label: "Alterado o n.º 8 pelo DN.184/91.30.08.1991.ME, DR.IS-B [199] de 30.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/184-1991-403705
+  date: '1991-08-30'
+- type: amended_by
+  target: pt:dre:356565:por
+  label: "Alterados os n.ºs 1, 3.1 e os n.ºs 8.1.1, 8.1.2, 8.1.3, 8.1.4, 8.1.5, 8.1.6, 8.1.7, na redacção do Despacho Normativo\
+    \ 184/91, de 30 de Agosto, e aditados os n.ºs 1.1, 3.1.1, 8.1.8 e 22, pelo DN.185/93.06.08.1993.ME, DR.IS-B [183] de 06.08.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/185-1993-356565
+  date: '1993-08-06'
+- type: amended_by
+  target: pt:dre:344426:por
+  label: "Alterados os nºs 10.2 e 10.5 (na redacção dada pelos DN 184/91 de 30-Ago, 185/93 de 06-Ago e 64-A/98 de 04-Set),\
+    \ pelo DN.4/2001.2000.12.22.ME, DR.IS-B [17] de 19/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-2001-344426
+  date: '2000-12-22'
+- type: cites
+  target: pt:dre:325559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:480574:por
+  label: "Revogado o n.º 11.1 pelo DN.64-A/98.1998.08.31.ME DR.IS-B [204]SUPL DE 04/SET/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/64-a-1998-480574
+  date: '1998-08-31'
+- type: repealed_by
+  target: pt:dre:186123:por
+  label: "Revogado pelo DEC LEI.35/2003.2003.02.27.ME DR.IS-A [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2003-186123
+  date: '2003-02-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:00Z'
   warnings: []
   errors: []
 ---

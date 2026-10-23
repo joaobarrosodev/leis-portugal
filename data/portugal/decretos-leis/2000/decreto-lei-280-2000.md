@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/280/2000/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2000-614347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c55438275cdd340ccaa31dbb01fd7ab347daa89370f09ad10bbc0139901d978
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93ff50443be87cfae0cf5fc699b50b256ee944abdfc0d15d513586d594f52aea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contratação de Pessoal
+- Contratação Pública
 - Contrato Administrativo
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
 - Contrato Individual de Trabalho
-- Recrutamento de Pessoal
 - Inofor
-- Contratação de Pessoal
-- Contrato de Trabalho
-- Contratação Pública
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:148001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148001:por
+  label: "Alterado o art. 2º pelo DEC LEI.165/2005.22.09.2005.MTSSO, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2005-148001
+  date: '2005-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1997/05/12/p/dre
   label: null
@@ -88,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1197/1997/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1197/1997/11/28/p/dre
+- type: cites
+  target: pt:dre:385209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406360:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:36Z'
   warnings: []
   errors: []
 ---
@@ -170,12 +183,12 @@ O presente diploma entra em vigor no 5.º dia posterior ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 16 de Outubro de 2000.**
+Promulgado em 16 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Outubro de 2000.**
+Referendado em 26 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23000/26652666.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/284-1981-561600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:12:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9055c58971d56c68c6c2dcad03655abd1af4d62a52bd242a89d44ec34e008e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6676faba2c73a646867e1108e704cd3eeadeee7edab44fa2180330d123eaf1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:12:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deserção
+- Forças Armadas
+- Perdão da Pena
 relationships:
 - type: amended_by
   target: pt:dre:399624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474321:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:568895:por
+  label: Rectificado pela DECL.DD6140.21.10.1981.EMGFA, DR.IS [252] de 02.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-568895
+  date: '1981-10-21'
+- type: repealed_by
+  target: pt:dre:399624:por
+  label: "Revogado pelo DN.150/84.05.09.1984.MDN, DR.IS [220] de 21.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/150-1984-399624
+  date: '1984-09-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:12:20Z'
   warnings: []
   errors: []
 ---

@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/103-1984-661550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:56:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2b93995439813940c751993d77f7d4a3582c575941e6a41a6400db72d99c18b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bbce39ed6db85f97055dfcff38791f6d866752673ba451d1f73b30836c4b358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Consulado
+- Embaixada
+- Pessoal Assalariado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:177654:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386658:por
+  label: "Alterados os mapas de pessoal assalariado das embaixadas em Nairobi e Nova Deli, aprovados pelo presente diploma,\
+    \ pela PORT.378/84.15.06.1984.MNE, DR.IS [138] de 15.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-1984-386658
+  date: '1984-06-15'
+- type: amended_by
+  target: pt:dre:387120:por
+  label: "Alterado o quadro de pessoal assalariado da Embaixada de Portugal em Bogotá, aprovado pelo presente diploma, pela\
+    \ PORT.389/84.18.06.1984.MNE, DR.IS [140] de 18.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/389-1984-387120
+  date: '1984-06-18'
+- type: amended_by
+  target: pt:dre:380973:por
+  label: "Alterado o mapa de pessoal assalariado da embaixada de Portugal em Teerão, pela PORT.629/84.23.08.1984.MNE, DR.IS\
+    \ [195] de 23.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1984-380973
+  date: '1984-08-23'
+- type: amended_by
+  target: pt:dre:177654:por
+  label: "Alterado o quadro de pessoal assalariado da embaixada de Portugal em Paris, estabelecida pelo presente diploma,\
+    \ pela PORT.791/85.19.10.1985.MNE, DR.IS [241] de 19.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/791-1985-177654
+  date: '1985-10-19'
+- type: cites
+  target: pt:dre:690465:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:56:21Z'
   warnings: []
   errors: []
 ---
@@ -1919,6 +1951,6 @@ Consulado em Windhoek:
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 2 de Fevereiro de 1984.**
+Assinada em 2 de Fevereiro de 1984.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

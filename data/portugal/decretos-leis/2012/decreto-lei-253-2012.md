@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/2012/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2012-191138
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eef03820f09cc2f7a85b71d94233fc3d467e133f0b82635f8ae9e7b3e5711742
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36d81014fd12ac444a221eb7c7d4f4742da2ec460160f41ff820a9f9c171275
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Pessoal de Saúde
-- Médico
+- ACES
+- Administração Regional de Saúde
+- Centro de Saúde
 - Conselho Clínico
 - Coordenador
-- Unidade de Saúde Familiar
-- Definição de Competências
-- Administração Regional de Saúde
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Horário de Funcionamento
-- Centro de Saúde
-- Pessoal de Enfermagem
 - Cuidados Médicos
+- Definição de Competências
+- Horário de Funcionamento
+- Médico
+- Pessoal de Enfermagem
+- Pessoal de Saúde
+- Política de Saúde
 - Protecção na Doença
+- Rede
+- Serviço Nacional de Saúde
+- Unidade de Cuidados de Saúde Personalizados
 - Unidade de Cuidados na Comunidade
-- ACES
+- Unidade de Saúde Familiar
 - Unidade de Saúde Pública
 - Utente
-- Unidade de Cuidados de Saúde Personalizados
 relationships:
 - type: amended_by
   target: pt:dre:500071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500071:por
+  label: "Alterado o art. 15.º do Dec Lei 28/2008 de 22-fev, na redação do presente diploma, pelo DEC LEI.137/2013.07.10.2013.MS,\
+    \ DR.IS [193] de 07.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2013-500071
+  date: '2013-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -124,16 +130,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2005/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2005/06/03/p/dre
+- type: cites
+  target: pt:dre:220169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608237:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 50
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:48Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +228,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os coordenadores são designados por decisão fundamentada do diretor executivo do ACES, depois de ouvido o conselho clínico e de saúde, de entre profissionais com conhecimentos e experiência adequados ao exercício da função, nos seguintes termos:
 
@@ -202,7 +246,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 a) ...
 
@@ -212,7 +258,9 @@ c) O conselho clínico e de saúde;
 
 d) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O diretor executivo é designado pelo membro do Governo responsável pela área da saúde, sob proposta fundamentada do conselho diretivo da respetiva ARS, I. P., juntamente com uma nota relativa ao currículo académico e profissional.
 
@@ -224,7 +272,9 @@ d) ...
 
 5 - A proposta referida no n.º 1 deve ser acompanhada de avaliação, não vinculativa, de currículo e de adequação de competências ao cargo de diretor executivo da personalidade a que respeita a proposta de designação, realizada pela CReSAP.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +282,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 a) ...
 
@@ -240,7 +292,9 @@ b) Pelo presidente do conselho clínico e de saúde;
 
 c) ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O conselho clínico e de saúde é composto por um presidente e três a quatro vogais, todos profissionais de saúde em funções no respetivo ACES.
 
@@ -266,7 +320,9 @@ c) Um técnico superior de saúde ou do serviço social ou técnico de diagnóst
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O conselho clínico e de saúde promove a governação clínica e de saúde no ACES, de forma concertada, articulada e participada por todas as unidades funcionais.
 
@@ -292,7 +348,9 @@ h) Contribuir para o desenvolvimento de uma cultura organizacional de formação
 
 4 - O plano de atividades do conselho clínico e de saúde é revisto e atualizado anualmente.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Compete especialmente ao presidente do conselho clínico e de saúde:
 
@@ -306,11 +364,15 @@ d) ...
 
 2 - O presidente do conselho clínico e de saúde é substituído, nas suas faltas e impedimentos, pelo vogal médico que, para o efeito, seja por ele designado.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 O conselho clínico e de saúde reúne-se ordinariamente uma vez por mês e, extraordinariamente, quando seja convocado pelo presidente, por sua iniciativa ou a pedido de, pelo menos, dois vogais.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os membros do conselho clínico e de saúde são designados por um período não superior a três anos, renovável até ao limite de seis anos, salvo em situação excecional devidamente fundamentada.
 
@@ -322,7 +384,9 @@ O conselho clínico e de saúde reúne-se ordinariamente uma vez por mês e, ext
 
 5 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As funções de membro do conselho clínico e de saúde cessam:
 
@@ -340,7 +404,9 @@ e) Por deliberação do conselho diretivo da ARS, I. P., com fundamento em incum
 
 3 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A unidade de apoio à gestão, organizada numa lógica de concentração dos serviços não assistenciais do ACES, presta apoio administrativo e geral ao diretor executivo, ao conselho clínico e de saúde e às unidades funcionais, cabendo-lhe, designadamente:
 
@@ -386,15 +452,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 21 de novembro de 2012.**
+Promulgado em 21 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de novembro de 2012.**
+Referendado em 26 de novembro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

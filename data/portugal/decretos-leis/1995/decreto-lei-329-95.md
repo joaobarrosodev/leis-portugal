@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/283a00/76967704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/329/1995/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1995-631866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5f2f395114bd0ce1dc535944187e174e7cc979a4eca48f5e4cbf522ee7bd6f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3adba09bdbb006abed8730b275970358e8ff5f1cbce7a71723dc26c9b1ac0408
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,75 @@ subjects:
 - Conselho da Náutica de Recreio
 - Definição de Competências
 - Embarcação de Recreio
+- Navegação de Recreio
 - Regime Jurídico
 - Regulamento
 - Regulamento da Náutica de Recreio
-- Navegação de Recreio
 - Tripulação
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "19960506 - PRORROGADA A DATA DA ENTRADA EM VIGOR DO PRESENTE DIPLOMA, ATE 30 DE NOVEMBRO DE 1996, PELO DEC LEI 38/96\
+    \ DE 06-MAI DR.IS-A [105]\0S-A [105]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:252202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469195:por
+  label: "Prorrogado até 30-Nov de 1996, a data da entrada em vigor do presente diploma, pelo DEC LEI.38/96.1996.05.06.MEPAT\
+    \ DR.IS-A [105]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-1996-469195
+  date: '1996-05-06'
+- type: amended_by
+  target: pt:dre:661085:por
+  label: "Alterados o art. 2º do presente diploma e os arts. 3º, 4º, 6º, 12º, 17º, 18º, 19º, 20º, 21º, 22º, 24º, 28º, 30º,\
+    \ 31º, 32º, 33º, 34º, 36º, 38º, 39º, 40º, 44º, 48º, 56º e 57º e os anexos A e B e aditados os arts. 22º-A, 39º-A e 57º-A\
+    \ e o anexo C ao Regulamento aprovado por este pelo pelo DEC LEI.567/99.1999.12.23.MEPAT,DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/567-1999-661085
+  date: '1999-12-23'
+- type: amended_by
+  target: pt:dre:292120:por
+  label: "Alterado o modelo de carta de navegador previsto no nº 2 do Anexo B do Regulamento pela PORT.288/2000.2000.05.25.MES,\
+    \ DR.IS-B [121] de 25/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2000-292120
+  date: '2000-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/1992/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/1992/09/29/p/dre
+- type: cites
+  target: pt:dre:233120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565790:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252202:por
+  label: "Revogado, a partir de 24.06.2004, pelo DEC LEI.124/2004.25.05.2004.MOPTH, DR.IS-A [122] de 25.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2004-252202
+  date: '2004-05-25'
 article_structure:
-  article_count: 64
+  article_count: 63
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:26Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +155,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Náutica de Recreio, anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º É aprovado o Regulamento da Náutica de Recreio, anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º - 1 - É criado o Conselho da Náutica de Recreio (CNR).
+Art. 2.º - 1 - É criado o Conselho da Náutica de Recreio (CNR).
 
 2 - O CNR é o órgão de consulta do Ministro do Mar, ao qual compete dar parecer, sempre que solicitado, sobre todas as matérias relativas à náutica de recreio.
 
@@ -156,21 +201,21 @@ r) Até dois representantes de outras entidades com interesse para o sector da n
 
 5 - O regulamento interno de funcionamento do CNR é aprovado por despacho do Ministro do Mar.
 
-###### Art. 3.º É revogado o [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, com a redacção que lhe foi dada pelos Decretos-Leis n.os 369-A/79, de 5 de Setembro, [167/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1988-374826), de 14 de Maio, e [202/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1992-233120), de 29 de Setembro.
+Art. 3.º É revogado o [Decreto-Lei n.º 439/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1975-314625), de 16 de Agosto, com a redacção que lhe foi dada pelos Decretos-Leis n.os 369-A/79, de 5 de Setembro, [167/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1988-374826), de 14 de Maio, e [202/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1992-233120), de 29 de Setembro.
 
-###### Art. 4.º O presente diploma entra em vigor no dia 1 de Janeiro de 1996.
+Art. 4.º O presente diploma entra em vigor no dia 1 de Janeiro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Eduardo de Almeida Catroga - Maria Manuela Dias Ferreira Leite - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento da Náutica de Recreio
 
@@ -834,4 +879,4 @@ Notas
 
 2 - A designação «portos fluviais» engloba os «portos lacustres» da zona a que se refere.
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1995/12/283a00/76967704.pdf))](https://files.diariodarepublica.pt/1s/1995/12/283a00/76967704.pdf)
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1995/12/283a00/76967704.pdf)

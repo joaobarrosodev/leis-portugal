@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 73/1969, 1º Suplemento, Série I de 1969-03-27
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 330 - 331
   pdf_url: https://files.diariodarepublica.pt/1s/1969/03/07301/03300331.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23992-1969-302478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 359fdbd46cb55c4301caff19552d8bccae54952303d7f41faa3be621927eff64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ccaa340f7605d8f8deec660377c3b7ab2521e111c9bc97e75e75ad546f0ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251851:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:53Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +99,13 @@ Secretaria de Estado da Agricultura, 27 de Março de 1969. - O Secretário de Es
 
 Regulamento do Registo de Nascimentos de Bovinos da Raça Brava
 
-###### Artigo 1.º É criado na Direcção-Geral dos Serviços Pecuários o registo de nascimento de bovinos da raça brava.
+Artigo 1.º É criado na Direcção-Geral dos Serviços Pecuários o registo de nascimento de bovinos da raça brava.
 
 § 1.º Este registo, facultativo para qualquer exploração, é obrigatório para as explorações produtoras de touros de lide destinados à exportação.
 
 § 2.º A Direcção-Geral dos Serviços Pecuários poderá, quando o julgar conveniente, estender a obrigatoriedade do mesmo registo às restantes explorações desta raça mediante despacho do Secretário de Estado da Agricultura.
 
-###### Art. 2.º A inscrição, para efeitos do registo referido no artigo anterior, deverá ser solicitada à Direcção-Geral dos Serviços Pecuários, até ao dia 30 de Abril, pelos proprietários ou responsáveis das explorações que já se dediquem à produção de touros de lide para exportação.
+Art. 2.º A inscrição, para efeitos do registo referido no artigo anterior, deverá ser solicitada à Direcção-Geral dos Serviços Pecuários, até ao dia 30 de Abril, pelos proprietários ou responsáveis das explorações que já se dediquem à produção de touros de lide para exportação.
 
 § único. O pedido de inscrição, a entregar na intendência de pecuária da área respectiva, deverá ser formulado em impresso a fornecer pela Direcção-Geral dos Serviços Pecuários e dele deverão constar:
 
@@ -117,23 +121,23 @@ Nome e localização da propriedade ou das propriedades onde o gado estancie e, 
 
 Discriminação dos efectivos, indicando a identificação das vacas em idade de reprodução.
 
-###### Art. 3.º A aceitação da inscrição ficará dependente:
+Art. 3.º A aceitação da inscrição ficará dependente:
 
 a) Do reconhecimento, por parte da Direcção-Geral dos Serviços Pecuários, das condições em que se desenvolve a exploração no que respeita à possibilidade de identificação dos vitelos e confirmação da sua ascendência materna;
 
 b) De estarem os efectivos sujeitos à acção sanitária oficial em vigor, nomeadamente no que se refere à profilaxia da tuberculose. Esta exigência pode tornar-se extensiva a outros efectivos bovinos do mesmo criador quando, por virtude das formas de exploração e por razões de ordem profiláctica, as autoridades sanitárias assim o entendam.
 
-###### Art. 4.º Uma vez inscrita a exploração, o proprietário obriga-se a remeter à intendência de pecuária respectiva, até ao dia 10 de cada mês, nota do movimento verificado no mês anterior e da qual conste:
+Art. 4.º Uma vez inscrita a exploração, o proprietário obriga-se a remeter à intendência de pecuária respectiva, até ao dia 10 de cada mês, nota do movimento verificado no mês anterior e da qual conste:
 
 a) Vitelos aumentados ou abatidos ao efectivo com a indicação, para os primeiros, das respectivas datas de nascimento, sexos e números de identificação das mães; e a referência, para os segundos, das comunicações mensais em que foram relacionados e dos números de ordem que lhes foram atribuídos;
 
 b) Aumentos e baixas verificados no efectivo de fêmeas em reprodução, com indicação dos elementos de identificação individual.
 
-###### Art. 5.º O criador proporá à intendência de pecuária respectiva, com trinta dias de antecedência, a data da marcação dos bezerros (ferra).
+Art. 5.º O criador proporá à intendência de pecuária respectiva, com trinta dias de antecedência, a data da marcação dos bezerros (ferra).
 
 § único. A intendência de pecuária, no caso de impossibilidade de aceitar a data proposta pelo criador, concertará com este uma nova data.
 
-###### Art. 6.º Os bezerros de ambos os sexos serão marcados da forma que segue:
+Art. 6.º Os bezerros de ambos os sexos serão marcados da forma que segue:
 
 a) Com o número de identificação individual no costado direito;
 
@@ -149,20 +153,20 @@ d) Os machos serão tatuados com uma marca confidencial, aposta pelos serviços 
 
 § 3.º Entende-se como ano de nascimento o período que vai de 30 de Junho de um ano a 1 de Julho do ano seguinte, sendo o algarismo final deste último ano o considerado para os efeitos da alínea b).
 
-###### Art. 7.º No período máximo de três dias, a partir do final da marcação, os serviços da intendência de pecuária comprovarão as mães dos bezerros marcados. Nada impede que esta verificação se faça no mesmo dia, se tal for possível.
+Art. 7.º No período máximo de três dias, a partir do final da marcação, os serviços da intendência de pecuária comprovarão as mães dos bezerros marcados. Nada impede que esta verificação se faça no mesmo dia, se tal for possível.
 
 § 1.º Os criadores terão de dispor de instalações adequadas para estas operações.
 
 § 2.º Todas as dúvidas sobre a maternidade dos bezerros invalidam as garantias resultantes da identificação, sendo devidamente anotadas.
 
-###### Art. 8.º Da verificação a que se refere o artigo anterior será levantado auto, em triplicado, utilizando impresso de modelo especial, do qual constará a identificação de todos os bezerros marcados e das respectivas mães.
+Art. 8.º Da verificação a que se refere o artigo anterior será levantado auto, em triplicado, utilizando impresso de modelo especial, do qual constará a identificação de todos os bezerros marcados e das respectivas mães.
 
 § 1.º Este auto será assinado pelo técnico da intendência, pelo criador e pelo funcionário que intervenha como secretário, e dele não constarão os sinais tatuados a que se refere a alínea d) do artigo 6.º
 
 § 2.º O original deste auto será remetido à Direcção-Geral dos Serviços Pecuários; as duas cópias destinam-se, respectivamente, ao criador e à intendência de pecuária.
 
-###### Art. 9.º A Direcção-Geral dos Serviços Pecuários emitirá, a pedido dos interessados, os certificados pertinentes à comprovação de idade dos animais registados.
+Art. 9.º A Direcção-Geral dos Serviços Pecuários emitirá, a pedido dos interessados, os certificados pertinentes à comprovação de idade dos animais registados.
 
-###### Art. 10.º Os serviços da intendência de pecuária poderão inspeccionar, sempre que julguem conveniente, as explorações inscritas com vista a verificarem não só as suas condições, como a exactidão das declarações dos proprietários.
+Art. 10.º Os serviços da intendência de pecuária poderão inspeccionar, sempre que julguem conveniente, as explorações inscritas com vista a verificarem não só as suas condições, como a exactidão das declarações dos proprietários.
 
 Direcção-Geral dos Serviços Pecuários, 27 de Março de 1969. - O Director-Geral, Arménio Eduardo França e Silva.

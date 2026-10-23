@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14300/14701472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/508-1981-578368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4536590f605318ed5c1962d80dfe963891591b049b09021ef92c7220edd9c8bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6005483e35242cea6d8164a5da1c06ab20fb8481d55c0183c87a988a9fce281
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Gestão do AR
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:566071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470389:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566071:por
+  label: "Revogada, com efeitos a partir de 01.01.1991, pelo DEC LEI.352/90.09.11.1990.MARN, DR.IS [259] de 09.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1990-566071
+  date: '1990-11-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:48Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +135,7 @@ Regulamento Geral das Comissões de Gestão do Ar
 
 ### CAPÍTULO I — Atribuições
 
-###### Artigo 1.º As atribuições das comissões de gestão do ar são:
+Artigo 1.º As atribuições das comissões de gestão do ar são:
 
 1) Propor a delimitação da área da sua jurisdição;
 
@@ -162,7 +177,7 @@ d) Proposição da alteração da área de jurisdição.
 
 ### CAPÍTULO II — Composição
 
-###### Art. 2.º - 1 - As comissões de gestão do ar são constituídas por um plenário em que estão representados, na medida dos interesses relativos a cada área, os serviços públicos com acção nos domínios de ordenamento e planeamento urbanístico e industrial, licenciamento industrial, transportes, ambiente, saúde, agricultura, materiais e pecuária, bem como autarquias, indústria e associações interessadas pelo ambiente, devidamente reconhecidas.
+Art. 2.º - 1 - As comissões de gestão do ar são constituídas por um plenário em que estão representados, na medida dos interesses relativos a cada área, os serviços públicos com acção nos domínios de ordenamento e planeamento urbanístico e industrial, licenciamento industrial, transportes, ambiente, saúde, agricultura, materiais e pecuária, bem como autarquias, indústria e associações interessadas pelo ambiente, devidamente reconhecidas.
 
 2 - Podem ser integradas nas comissões de gestão do ar, por tempo limitado ou com carácter definitivo, as entidades cuja participação seja reconhecida como oportuna pelo plenário.
 
@@ -180,7 +195,7 @@ d) Proposição da alteração da área de jurisdição.
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 3.º - 1 - Os órgãos das comissões de gestão do ar são: plenário, gabinete coordenador, director técnico e gabinete técnico.
+Art. 3.º - 1 - Os órgãos das comissões de gestão do ar são: plenário, gabinete coordenador, director técnico e gabinete técnico.
 
 2 - O plenário reúne obrigatoriamente uma vez por ano a fim de analisar a situação, aprovar o relatório e o plano de acções futuras, podendo ser convocado extraordinariamente com a antecedência mínima de quinze dias pelo seu presidente, por iniciativa deste ou sob proposta do gabinete coordenador.
 
@@ -196,7 +211,7 @@ d) Proposição da alteração da área de jurisdição.
 
 ### CAPÍTULO IV — Meios de funcionamento
 
-###### Art. 4.º - 1 - Admite-se a maior flexibilidade na constituição do gabinete técnico, nomeadamente quanto à proveniência e à afectação do pessoal que o integra, privilegiando-se a necessidade de se assegurar a unidade de acção na gestão quotidiana.
+Art. 4.º - 1 - Admite-se a maior flexibilidade na constituição do gabinete técnico, nomeadamente quanto à proveniência e à afectação do pessoal que o integra, privilegiando-se a necessidade de se assegurar a unidade de acção na gestão quotidiana.
 
 2 - O número de técnicos e pessoal auxiliar integrando o gabinete técnico, bem como a dimensão das infra-estruturas de suporte da acção da comissão de gestão do ar, podem ser reduzidos na medida em que a execução de tarefas meramente técnicas (manutenção da operacionalidade da rede, medidas nas emissões, etc.) possam ser atribuídas por contrato a um laboratório ou instituição devidamente qualificada.
 
@@ -222,7 +237,7 @@ d) Proposição da alteração da área de jurisdição.
 
 Disposições transitórias.
 
-###### Art. 5.º - 1 - O Secretário de Estado do Ordenamento e Ambiente nomeará, após a aprovação deste Regulamento, os seus representantes, cometendo-lhes o mandato de desenvolver todas as acções conducentes à instalação das comissões de gestão do ar, promovendo, nomeadamente:
+Art. 5.º - 1 - O Secretário de Estado do Ordenamento e Ambiente nomeará, após a aprovação deste Regulamento, os seus representantes, cometendo-lhes o mandato de desenvolver todas as acções conducentes à instalação das comissões de gestão do ar, promovendo, nomeadamente:
 
 a) A adaptação deste Regulamento ao caso específico de cada área;
 

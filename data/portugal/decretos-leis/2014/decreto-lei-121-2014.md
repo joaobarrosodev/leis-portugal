@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15100/0409204093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/121/2014/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2014-55235835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9922bb5b051ef8a907f0ea990b31b37b4463349485a8f7f3963c84fbd68be9b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 019820bc0df4f33d7e353d6596e64c0f63ca467108e8aeace051945ea4d45c0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Balneares
+- ÁREA de Jurisdição
+- Autoridade Marítima Nacional
+- Capitania
 - Contrato de Concessão
 - Controlo de Qualidade
 - Definição de Competências
-- Autoridade Marítima Nacional
 - Domínio Público Marítimo
-- Segurança Pública
-- ÁREA de Jurisdição
-- Capitania
 - Portos
 - Segurança Marítima
+- Segurança Pública
 - Sinalização
 - Vigilância nas Praias
 - ZONA Balnear
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:47Z'
   warnings: []
   errors: []
 ---
@@ -206,12 +206,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de junho de 2014. - Pedro Passos Coelho - Berta Maria Correia de Almeida de Melo Cabral - Leonardo Bandeira de Melo Mathias - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 29 de julho de 2014.**
+Promulgado em 29 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

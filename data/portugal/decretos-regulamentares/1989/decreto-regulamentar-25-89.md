@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1989-619285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71125fe86c41ef22b6f5c9a5486e6626d1e02af6eb539db78e3d07aecbf30fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f690e48995bbc5e959c58aa692e4d63de47724f43d7fafbb9159c35a792f8a53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Pessoal Civil
+- Reestruturação de Carreiras
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, com excepção do artigo 3.º, do mapa II anexo e das disposições relativas às categorias de chefe de armazém,\
+    \ chefe de mesa, encarregado de serviços e parteira, pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:02Z'
   warnings: []
   errors: []
 ---
@@ -96,41 +123,41 @@ Assim:
 
 Ao abrigo do n.º 1 do artigo 2.º do [Decreto-Lei n.º 323/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1988-355478), de 23 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As carreiras do pessoal civil dos serviços departamentais das forças armadas passam a designar-se e a estruturar-se de acordo com os mapas I e II anexos ao presente decreto regulamentar, de que fazem parte integrante.
+Artigo 1.º As carreiras do pessoal civil dos serviços departamentais das forças armadas passam a designar-se e a estruturar-se de acordo com os mapas I e II anexos ao presente decreto regulamentar, de que fazem parte integrante.
 
-###### Art. 2.º Aos actuais funcionários e agentes dos quadros do pessoal civil dos serviços departamentais das forças armadas serão atribuídas as categorias e letras de vencimento constantes dos mapas I e II anexos ao presente decreto regulamentar.
+Art. 2.º Aos actuais funcionários e agentes dos quadros do pessoal civil dos serviços departamentais das forças armadas serão atribuídas as categorias e letras de vencimento constantes dos mapas I e II anexos ao presente decreto regulamentar.
 
-###### Art. 3.º As carreiras de regime especial são as constantes do mapa II anexo ao presente decreto regulamentar.
+Art. 3.º As carreiras de regime especial são as constantes do mapa II anexo ao presente decreto regulamentar.
 
-###### Art. 4.º As carreiras e as categorias a extinguir são as constantes do mapa III anexo ao presente decreto regulamentar, que dele faz parte integrante, processando-se a sua extinção da base para o topo à medida que os lugares forem vagando.
+Art. 4.º As carreiras e as categorias a extinguir são as constantes do mapa III anexo ao presente decreto regulamentar, que dele faz parte integrante, processando-se a sua extinção da base para o topo à medida que os lugares forem vagando.
 
-###### Art. 5.º - 1 - Os actuais técnicos auxiliares de 3.ª classe (letra N) do quadro do pessoal civil do Exército - capítulo VII «Categoria a extinguir», anexo à [Portaria n.º 363/86](https://diariodarepublica.pt/dr/detalhe/portaria/363-1986-228211), de 9 de Julho, transitam para a categoria de técnico auxiliar de 2.ª classe da carreira técnica auxiliar de redes telefónicas prevista no mapa I anexo ao presente diploma, sem prejuízo do direito à progressão na carreira, sendo-lhes contado na nova categoria todo o tempo de serviço prestado na anterior.
+Art. 5.º - 1 - Os actuais técnicos auxiliares de 3.ª classe (letra N) do quadro do pessoal civil do Exército - capítulo VII «Categoria a extinguir», anexo à [Portaria n.º 363/86](https://diariodarepublica.pt/dr/detalhe/portaria/363-1986-228211), de 9 de Julho, transitam para a categoria de técnico auxiliar de 2.ª classe da carreira técnica auxiliar de redes telefónicas prevista no mapa I anexo ao presente diploma, sem prejuízo do direito à progressão na carreira, sendo-lhes contado na nova categoria todo o tempo de serviço prestado na anterior.
 
 2 - Os actuais auxiliares de serviços de 1.ª ou de 2.ª classes (letras S e T) dos quadros do pessoal civil dos serviços departamentais das forças armadas cujas funções se insiram no conteúdo funcional de contínuo da carreira de pessoal auxiliar administrativo constante do mapa I anexo ao presente diploma transitam para categoria e letra de vencimento iguais desta carreira, sendo-lhes contado na nova categoria todo o tempo de serviço prestado na anterior.
 
-###### Art. 6.º Na Marinha, são extintas a carreira de oficial administrativo das forças armadas e a carreira de oficial administrativo dos serviços de fomento marítimo, investigação do mar e organismos de natureza cultural, sendo o respectivo pessoal integrado na carreira de oficial administrativo, nível 3, em categoria idêntica à que detinha.
+Art. 6.º Na Marinha, são extintas a carreira de oficial administrativo das forças armadas e a carreira de oficial administrativo dos serviços de fomento marítimo, investigação do mar e organismos de natureza cultural, sendo o respectivo pessoal integrado na carreira de oficial administrativo, nível 3, em categoria idêntica à que detinha.
 
-###### Art. 7.º A extinção da categoria de chefe de secção da carreira de oficial administrativo dos serviços de fomento marítimo, investigação do mar e organismos de natureza cultural da Marinha determinará, à medida que os respectivos lugares forem vagando, o simultâneo aumento de igual número de lugares na categoria de oficial administrativo principal.
+Art. 7.º A extinção da categoria de chefe de secção da carreira de oficial administrativo dos serviços de fomento marítimo, investigação do mar e organismos de natureza cultural da Marinha determinará, à medida que os respectivos lugares forem vagando, o simultâneo aumento de igual número de lugares na categoria de oficial administrativo principal.
 
 Presidência do Conselho de Ministros, 22 de Maio de 1989.
 
 Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 26 de Julho de 1989.**
+Promulgado em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Julho de 1989.**
+Referendado em 31 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
 Desenvolvimento das carreiras de regime geral e transição de categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
 
 Categorias profissionais que integram o grupo de pessoal operário qualificado
 
@@ -242,13 +269,13 @@ MAPA II
 
 Pessoal com regime especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
 
 MAPA III
 
 Carreiras e categorias a extinguir à medida que vagarem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/18800/32983311.pdf)
 
 ## ANEXO I — Conteúdo funcional da carreira de laboratório do grupo de pessoal técnico-profissional
 

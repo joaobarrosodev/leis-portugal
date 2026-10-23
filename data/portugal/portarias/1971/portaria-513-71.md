@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1971-632686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1fced8d170707aa8831142ffe5c4b729d0f171531947f19ef229e1e53f7d82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fd6a738fa3e79403992250cfeabea1a54f40055d143c823640fbd83313e4561
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357966:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:50Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +115,6 @@ d) Serem despachados pelo Serviço Postal Militar para transporte pela Força A�
 
 4 - De acordo com as condições locais, a distribuição dos objectos de correspondência referidos no n.º 1 possa ficar a cargo dos serviços postais de destino, em condições a estabelecer entre os CTT, os CTTU e as autoridades militares.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro das Comunicações, Rui Alves da Silva Sanches.
 
 Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

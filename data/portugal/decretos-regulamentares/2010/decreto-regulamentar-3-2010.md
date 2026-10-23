@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/2010/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2010-335220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 091313839844994f954535c5200bb02094e595cb8d95d7719bdeb2870c97bd40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd56af43a50b29492bfaf7b4ff4c3dbd95e7659dc84453bbbd310ad2fceb70cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -98,16 +98,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:410283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177831:por
+  label: "Revogado, a partir de 01.06.2012, o DR 81/2007, de 30-jul, alterado e republicado pelo presente diploma, pelo DR.43/2012.25.05.2012.PCM,\
+    \ DR.IS [102] de 25.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-2012-177831
+  date: '2012-05-25'
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:46Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +198,9 @@ f) O director de serviços de gestão de recursos.
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A comissão de classificação é o órgão deliberativo em matéria de classificação de conteúdos culturais, de entretenimento e de espectáculos de natureza artística, em especial no que respeita à classificação etária e às classificações especiais legalmente previstas, bem como a outras informações e recomendações relevantes para a protecção dos menores e dos consumidores.
 
@@ -220,19 +252,19 @@ São revogadas a alínea d) do n.º 1 do artigo 4.º e a alínea d) do n.º 2 do
 
 Visto e aprovado em Conselho de Ministros de 18 de Março de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Gabriela da Silveira Ferreira Canavilhas.
 
-**Promulgado em 24 de Maio de 2010.**
+Promulgado em 24 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2010.**
+Referendado em 27 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf)
 
 ## ANEXO II — Republicação do [Decreto Regulamentar n.º 81/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-2007-636413), de 30 de Julho
 
@@ -478,4 +510,4 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 ## ANEXO — (mapa a que se refere o artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12000/0224502250.pdf)

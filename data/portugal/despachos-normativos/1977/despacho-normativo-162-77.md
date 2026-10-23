@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/162-1977-251193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a291785c8781484a2e7ba232b11253412b25b7df5b4acad07eef8f80c3a9db29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6192d5ab47f9d1f4e1106d9d1d960afbc2f4f1b76cdf0a943a84d6b77fa6ec49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Empresa Pública
+- Enatur
+- Estabelecimento Termal
+- Estatuto
+- Monchique
+- Termas de Monchique
+- Transferência Patrimonial
+relationships:
+- type: cites
+  target: pt:dre:429775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522586:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:59Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +119,6 @@ Estabelecimento Termal das Caldas de Monchique
 
 Balanço em 31 de Março de 1977
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/07/17200/18421844.pdf))](https://files.diariodarepublica.pt/1s/1977/07/17200/18421844.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/07/17200/18421844.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

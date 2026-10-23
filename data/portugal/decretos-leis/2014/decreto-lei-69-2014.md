@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2014/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf5887b77a3d054a47e5cbc4d4c3c1ca5eca3ba1e0c46141c7a4f9fd4f63ca0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00331346db9421d297dc440eaa5d6b57d338d4965a84b41934016d7564b13e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acreditação
 - Apoio Administrativo
+- Assinatura Digital
 - Autoridade Nacional de Segurança
+- Centro Nacional de Cibersegurança
 - Certificação Electrónica
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
 - Diretor Geral
-- Secretaria Geral
 - Gabinete Nacional de Segurança
+- Gestão Financeira
 - Orgânica
 - PCM-Entidades
-- Centro Nacional de Cibersegurança
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
-- Assinatura Digital
 - Regime de Pessoal
+- Secretaria Geral
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
 - Subdirector Geral
 relationships:
@@ -90,6 +90,13 @@ relationships:
   target: pt:dre:114152775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114152775:por
+  label: Alterados os arts. 1.º, 2.º, 2.º-A, 4.º, 6.º, 6.º-A, 7.º e 12.º-A, revogada a al. d) do n.º 2 do art. 11.º e republicado
+    o Dec Lei 3/2012 de 16-jan, na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 136/2017 - Diário da
+    República n.º 213/2017, Série I de 2017-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2017-114152775
+  date: '2017-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2013/12/04/p/dre
   label: null
@@ -130,16 +137,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2012/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2012/04/13/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:47Z'
   warnings: []
   errors: []
 ---
@@ -188,11 +251,15 @@ Os artigos 2.º, 3.º, 4.º, 7.º do [Decreto-Lei n.º 3/2012](https://diariodar
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O GNS é dirigido por um diretor-geral, coadjuvado por dois subdiretores-gerais, competindo a um destes a coordenação do CNCSeg.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -202,7 +269,9 @@ O GNS é dirigido por um diretor-geral, coadjuvado por dois subdiretores-gerais,
 
 4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -248,7 +317,9 @@ j) Exercer as demais competências que lhe sejam atribuídas por lei.
 
 3 - O CNCSeg atua ainda em articulação e estreita cooperação com as estruturas nacionais responsáveis pela ciberespionagem, ciberdefesa, cibercrime e ciberterrorismo, devendo comunicar à Polícia Judiciária, no mais curto prazo, os factos de que tenha conhecimento relativos à preparação e execução de crimes.
 
-###### Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança
+Artigo 6.º-A
+
+Exercício de funções no Centro Nacional de Cibersegurança
 
 1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCSeg, doravante designados por trabalhadores do CNCSeg, de acordo com a seguinte distribuição:
 
@@ -292,7 +363,9 @@ c) Técnicos de grau 1, 2 e 3, respetivamente, níveis 27, 30 e 33.
 
 11 - Aos trabalhadores do CNCSeg é aplicável o disposto no n.º 6 do artigo 6.º e nos n.os 1 a 3 do artigo 7.º
 
-###### Artigo 12.º-A — Dispensa de parecer prévio e de publicitação
+Artigo 12.º-A
+
+Dispensa de parecer prévio e de publicitação
 
 1 - Aos contratos de aquisição de bens e serviços destinados ao CNCSeg é aplicável o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, alterado pela [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e o CNCSeg é considerado um sistema operacional crítico, para efeitos do disposto no n.º 5 daquela norma.
 
@@ -316,15 +389,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Berta Maria Correia de Almeida de Melo Cabral - Miguel Bento Martins Costa Macedo e Silva.
 
-**Promulgado em 5 de maio de 2014.**
+Promulgado em 5 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de maio de 2014.**
+Referendado em 8 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -334,19 +407,25 @@ Visto e aprovado em Conselho de Ministros de 10 de abril de 2014. - Pedro Passos
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf))](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf)
 
-## ANEXO II — (a que se refere o artigo 6.º)
+ANEXO II
+
+(a que se refere o artigo 6.º)
 
 Republicação do [Decreto-Lei n.º 3/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2012-544575), de 16 de janeiro
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 1 - O Gabinete Nacional de Segurança, abreviadamente designado por GNS, é um serviço central da administração direta do Estado, dotado de autonomia administrativa, na dependência do Primeiro-Ministro ou do membro do Governo em quem aquele delegar.
 
 2 - A Autoridade Nacional de Segurança, abreviadamente designada por ANS, dirige o GNS e é a entidade que exerce, em exclusivo, a proteção e a salvaguarda da informação classificada.
 
-###### Artigo 2.º — Missão e atribuições
+Artigo 2.º
+
+Missão e atribuições
 
 1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a função de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que atuem no âmbito do Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas (SCEE).
 
@@ -378,7 +457,9 @@ l) Atuar como autoridade responsável pela componente codificada do Sistema GALI
 
 m) Exercer as demais atribuições que lhe sejam atribuídas por lei.
 
-###### Artigo 2.º-A — Competências do Centro Nacional de Cibergurança
+Artigo 2.º-A
+
+Competências do Centro Nacional de Cibergurança
 
 1 - Na prossecução da sua missão, o CNCSeg possui as seguintes competências:
 
@@ -406,11 +487,15 @@ j) Exercer as demais competências que lhe sejam atribuídas por lei.
 
 3 - O CNCSeg atua ainda em articulação e estreita cooperação com as estruturas nacionais responsáveis pela ciberespionagem, ciberdefesa, cibercrime e ciberterrorismo, devendo comunicar à Polícia Judiciária, no mais curto prazo, os factos de que tenha conhecimento relativos à preparação e execução de crimes.
 
-###### Artigo 3.º — Órgãos
+Artigo 3.º
+
+Órgãos
 
 O GNS é dirigido por um diretor-geral, coadjuvado por dois subdiretores gerais, competindo a um destes a coordenação do CNCSeg.
 
-###### Artigo 3.º-A — Recrutamento e provimento
+Artigo 3.º-A
+
+Recrutamento e provimento
 
 1 - O recrutamento para os cargos de diretor-geral e de subdiretor geral é feito de entre indivíduos licenciados de reconhecida idoneidade, com competência técnica e experiência profissional e licenciatura concluída à data do provimento há, pelo menos, 12 e 8 anos, respetivamente, vinculados ou não à Administração Pública.
 
@@ -422,7 +507,9 @@ O GNS é dirigido por um diretor-geral, coadjuvado por dois subdiretores gerais,
 
 5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do Primeiro-Ministro, ou do membro do Governo em quem ele delegar, por iniciativa deste ou a requerimento do interessado.
 
-###### Artigo 4.º — Diretor-geral
+Artigo 4.º
+
+Diretor-geral
 
 1 - O diretor-geral é, por inerência, a ANS.
 
@@ -466,11 +553,15 @@ r) Propor a celebração e colaborar na elaboração dos acordos bilaterais de s
 
 4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.
 
-###### Artigo 5.º — Tipo de organização interna
+Artigo 5.º
+
+Tipo de organização interna
 
 A organização interna do GNS obedece ao modelo de estrutura matricial.
 
-###### Artigo 6.º — Mapa de pessoal e recrutamento
+Artigo 6.º
+
+Mapa de pessoal e recrutamento
 
 1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos instrumentos de mobilidade.
 
@@ -484,7 +575,9 @@ A organização interna do GNS obedece ao modelo de estrutura matricial.
 
 6 - O exercício de funções no GNS é contado, para todos os efeitos legais, designadamente para a antiguidade, progressão e promoção nas respetivas carreiras, ainda que se trate de carreiras especiais, como prestado nos lugares de origem.
 
-###### Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança
+Artigo 6.º-A
+
+Exercício de funções no Centro Nacional de Cibersegurança
 
 1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCSeg, doravante designados por trabalhadores do CNCSeg, de acordo com a seguinte distribuição:
 
@@ -528,7 +621,9 @@ c) Técnicos de grau 1, 2 e 3, respetivamente, níveis 27, 30 e 33.
 
 11 - Aos trabalhadores do CNCSeg é aplicável o disposto no n.º 6 do artigo 6.º e nos n.os 1 a 3 do artigo 7.º
 
-###### Artigo 7.º — Direitos, deveres e incompatibilidades
+Artigo 7.º
+
+Direitos, deveres e incompatibilidades
 
 1 - O pessoal que exerce funções no GNS é credenciado na marca e grau de classificação de segurança exigidos pelo respetivo conteúdo funcional e em função da informação classificada com que trabalhe ou necessite de conhecer para o desempenho de funções.
 
@@ -540,11 +635,15 @@ c) Técnicos de grau 1, 2 e 3, respetivamente, níveis 27, 30 e 33.
 
 5 - O diretor-geral e os subdiretores gerais gozam igualmente dos direitos previstos no capítulo III do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.
 
-###### Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+Artigo 8.º
+
+Estatuto remuneratório dos chefes de equipas multidisciplinares
 
 Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão ou a diretor de serviços, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de duas chefias de equipa em simultâneo.
 
-###### Artigo 9.º — Cooperação e dever de colaboração
+Artigo 9.º
+
+Cooperação e dever de colaboração
 
 1 - No exercício das suas atribuições e competências, o GNS atua em coordenação com os serviços de informações da República Portuguesa, com as forças e os serviços de segurança e com os demais serviços e organismos competentes em matéria de proteção e salvaguarda da informação classificada.
 
@@ -554,11 +653,15 @@ Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratóri
 
 4 - Os órgãos dirigentes do GNS, bem como o restante pessoal, desde que devidamente identificados e mandatados, têm direito a aceder, sempre que necessário para o desempenho das suas funções, aos locais, equipamentos e suportes que sirvam ao manuseamento de informação classificada.
 
-###### Artigo 10.º — Apoio logístico e administrativo
+Artigo 10.º
+
+Apoio logístico e administrativo
 
 O apoio logístico e administrativo indispensável ao bom funcionamento do GNS, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros.
 
-###### Artigo 11.º — Receitas
+Artigo 11.º
+
+Receitas
 
 1 - O GNS dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
 
@@ -578,30 +681,42 @@ f) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuíd
 
 3 - O valor das taxas cobradas pelo GNS é fixado por portaria dos membros do Governo responsáveis pelo GNS e pela área das finanças.
 
-###### Artigo 12.º — Despesas
+Artigo 12.º
+
+Despesas
 
 Constituem despesas do GNS as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
 
-###### Artigo 12.º-A — Dispensa de parecer prévio e de publicitação
+Artigo 12.º-A
+
+Dispensa de parecer prévio e de publicitação
 
 1 - Aos contratos de aquisição de bens e serviços destinados ao CNCSeg é aplicável o disposto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 107/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2012-551977), de 18 de maio, alterado pela [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e o CNCSeg é considerado um sistema operacional crítico, para efeitos do disposto no n.º 5 daquela norma.
 
 2 - Os contratos referidos no número anterior estão dispensados da publicitação no portal da Internet dedicado aos contratos públicos, prevista no artigo 127.º do Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro.
 
-###### Artigo 13.º — Mapa de cargos de direção
+Artigo 13.º
+
+Mapa de cargos de direção
 
 Os lugares de direção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 14.º — Norma revogatória
+Artigo 14.º
+
+Norma revogatória
 
 É revogado o [Decreto-Lei n.º 170/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2007-521253), de 3 de maio.
 
-###### Artigo 15.º — Entrada em vigor
+Artigo 15.º
+
+Entrada em vigor
 
 O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-## ANEXO — (a que se refere o artigo 13.º)
+ANEXO
+
+(a que se refere o artigo 13.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf))](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/08900/0271202719.pdf)

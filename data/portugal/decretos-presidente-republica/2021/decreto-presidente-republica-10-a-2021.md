@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02
   number: '22'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 15-(2) a 15-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02202/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/10-a/2021/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/10-a-2021-156296212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c493e6f0dd5f085d137894004bfccf9e49fd17ff0128908e5914dc145685ad0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e49d6626d236b50982182ad3e62c19f0b75b67d4dca794c7383ae625eac11c5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CE Países
-- Matéria Plástica
-- Gestão Financeira
+- Comércio
 - Decisão CE
 - Despesas Públicas
-- Empréstimo
-- União Europeia
-- IVA
+- Doença Infecciosa
 - Embalagem
+- Empréstimo
+- Epidemia
+- Gestão Financeira
+- IVA
+- Matéria Plástica
 - Mercado de Capitais
 - Operações de Tesouraria
 - Orçamento
 - Países Terceiros
-- Doença Infecciosa
-- Epidemia
 - Política Orçamental
 - Reembolso
 - Regulamento CE
 - Rendimento
 - Taxa
-- Comércio
+- União Europeia
 relationships:
 - type: cites
   target: celex:32014D0335
@@ -100,16 +100,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/37-a/2021/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/37-a/2021/02/02/p/dre
+- type: cites
+  target: pt:dre:156296213:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:15Z'
   warnings: []
   errors: []
 ---
@@ -118,16 +122,18 @@ validation:
 
 de 2 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a [Decisão (UE, Euratom) 2020/2053](https://data.europa.eu/eli/dec/2020/2053/oj?locale=pt) do Conselho, de 14 de dezembro de 2020, relativa ao sistema de recursos próprios da União Europeia e que revoga a [Decisão 2014/335/UE, Euratom](https://data.europa.eu/eli/dec/2014/335/oj?locale=pt), aprovada pela [Resolução da Assembleia da República n.º 37-A/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/37-a-2021-156296213), de 2 de fevereiro, em 29 de janeiro de 2021.
 
-**Assinado em 2 de fevereiro de 2021.**
+Assinado em 2 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de fevereiro de 2021.**
+Referendado em 2 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113945036

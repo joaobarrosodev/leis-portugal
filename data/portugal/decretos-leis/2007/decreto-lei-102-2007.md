@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/102/2007/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2007-520207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248640ec792fb82c86885375cce934736217938432fb151ff59bba9d0e82aee1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae8447c6e6907d15befb29709c1cd9098c87f3470112eebb7a712d30f193f893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,22 @@ subjects:
 - Agência Europeia de Avaliação de Medicamentos
 - Aproximação das Legislações
 - BOAS Práticas Farmacológicas
-- Investigação Científica e Tecnológica
+- Comércio
+- Comissão CE
 - Comissão de Ética para a Investigação Clínica
-- Infarmed
 - Comissão Nacional de Protecção de Dados
+- Confidencialidade
 - Conservação de Documentos
 - Contra-ordenação
+- Direitos do Indivíduo
 - Experimentação nos Seres Humanos
 - Fiscalização
-- Medicamento
-- Comissão CE
 - Importação
-- Publicitação
-- Direitos do Indivíduo
+- Infarmed
+- Investigação Científica e Tecnológica
 - Manual de Boas Práticas
-- Confidencialidade
-- Comércio
+- Medicamento
+- Publicitação
 relationships:
 - type: cites
   target: celex:32001L0020
@@ -102,13 +102,13 @@ relationships:
 article_structure:
   article_count: 39
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:48Z'
   warnings: []
   errors: []
 ---
@@ -491,12 +491,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 19 de Março de 2007.**
+Promulgado em 19 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Março de 2007.**
+Referendado em 21 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

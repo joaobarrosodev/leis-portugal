@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-1982-607509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T07:15:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc4592e3563b36053df6810a0d0d6d0629b49e41054cd6edf20d6900c318bad6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7f4e7319c2df5ca4f4160df65d4646932c7a218a79639872502d4a539624e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:15:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ifadap
+- Regulamento
+- Regulamento de Garantias do Ifadap
+relationships:
+- type: cites
+  target: pt:dre:256209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:15:08Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +117,7 @@ Ministério das Finanças e do Plano, 29 de Março de 1982. - Pelo Ministro de E
 
 Regulamento de Garantias a Prestar pelo IFADAP no Âmbito do SIFAP
 
-###### Artigo 1.º - 1 - O IFADAP poderá prestar garantias a favor de instituições de crédito nos casos em que, concretamente, não seja possível a celebração do contrato de seguro de crédito quanto a operações a efectuar ou efectuadas menos de 1 ano antes do respectivo pedido de garantia e destinadas a:
+Artigo 1.º - 1 - O IFADAP poderá prestar garantias a favor de instituições de crédito nos casos em que, concretamente, não seja possível a celebração do contrato de seguro de crédito quanto a operações a efectuar ou efectuadas menos de 1 ano antes do respectivo pedido de garantia e destinadas a:
 
 a) Assegurar o cumprimento de obrigações decorrentes de empréstimos para investimento no âmbito do SIFAP;
 
@@ -112,37 +127,37 @@ b) Cobrir o risco decorrente de garantias prestadas em operações de crédito e
 
 3 - O prazo de duração das garantias será o das operações a que se reportam, salvo se outro for acordado entre o IFADAP e a instituição de crédito.
 
-###### Art. 2.º - 1 - O IFADAP apenas prestará garantias a favor de qualquer instituição de crédito nos casos e na medida em que os beneficiários dos empréstimos não ofereçam garantias de reembolso consideradas bastantes pelo IFADAP.
+Art. 2.º - 1 - O IFADAP apenas prestará garantias a favor de qualquer instituição de crédito nos casos e na medida em que os beneficiários dos empréstimos não ofereçam garantias de reembolso consideradas bastantes pelo IFADAP.
 
 2 - No caso de os beneficiários demonstrarem poder constituir garantias reais, embora não formalizáveis em prazo curto, por necessidade de regularização da situação fiscal ou registral dos imóveis em causa, o IFADAP poderá substituir-se aos beneficiários na prestação de garantias intercalares, em ordem a viabilizar a imediata realização dos empréstimos.
 
 3 - As garantias intercalares não poderão ser prestadas por prazo superior ao período de carência dos empréstimos acrescido de 1 ano, podendo tal prazo ser prorrogado pelo IFADAP no caso de o considerar justificado.
 
-###### Art. 3.º - 1 - A prestação de garantias pelo IFADAP deverá ser solicitada pelas instituições de crédito, sendo o pedido instruído com os elementos necessários à apreciação das operações e dos respectivos riscos, designadamente o projecto de investimento, relação das garantias oferecidas ou já prestadas pelo beneficiário e memória acerca da capacidade financeira deste.
+Art. 3.º - 1 - A prestação de garantias pelo IFADAP deverá ser solicitada pelas instituições de crédito, sendo o pedido instruído com os elementos necessários à apreciação das operações e dos respectivos riscos, designadamente o projecto de investimento, relação das garantias oferecidas ou já prestadas pelo beneficiário e memória acerca da capacidade financeira deste.
 
 2 - O IFADAP apreciará os pedidos de prestação de garantias e comunicará às instituições de crédito se irá ou não prestá-las, indicando, na primeira hipótese, o montante até ao qual as prestará, a taxa da comissão, as contragarantias que eventualmente devam ser obtidas dos beneficiários e quaisquer outras condições que entenda dever estabelecer.
 
-###### Art. 4.º - 1 - As garantias do IFADAP revestirão a forma de fiança.
+Art. 4.º - 1 - As garantias do IFADAP revestirão a forma de fiança.
 
 2 - O IFADAP deverá sempre ficar munido de documento que possa servir de título executivo para exercer os direitos em que venha eventualmente a ficar constituído sobre os beneficiários dos empréstimos.
 
-###### Art. 5.º - 1 - Em contrapartida das garantias prestadas pelo IFADAP, as instituições de crédito pagarão, antecipada e semestralmente, uma comissão, cuja taxa deverá ser estabelecida, caso a caso, dentro dos limites que, à data, o Banco de Portugal tenha estabelecido para as comissões por garantias a cobrar pelas instituições de crédito.
+Art. 5.º - 1 - Em contrapartida das garantias prestadas pelo IFADAP, as instituições de crédito pagarão, antecipada e semestralmente, uma comissão, cuja taxa deverá ser estabelecida, caso a caso, dentro dos limites que, à data, o Banco de Portugal tenha estabelecido para as comissões por garantias a cobrar pelas instituições de crédito.
 
 2 - A comissão será calculada sobre o montante que se encontrar garantido no início do semestre e poderá ser repercutida sobre o beneficiário da operação de crédito garantida.
 
-###### Art. 6.º - 1 - O IFADAP apenas responde proporcionalmente ao montante do capital utilizado.
+Art. 6.º - 1 - O IFADAP apenas responde proporcionalmente ao montante do capital utilizado.
 
 2 - O montante garantido pelo IFADAP será automaticamente reduzido na proporção das amortizações do capital dos empréstimos.
 
 3 - As instituições de crédito comunicarão obrigatoriamente ao IFADAP, nos 5 dias subsequentes ao da realização de qualquer amortização do capital dos empréstimos, o montante dos pagamentos efectuados.
 
-###### Art. 7.º - 1 - As instituições de crédito a favor das quais tenham sido prestadas garantias pelo IFADAP só poderão exigir a este o pagamento se não conseguirem obter integral pagamento através das outras garantias constituídas a seu favor.
+Art. 7.º - 1 - As instituições de crédito a favor das quais tenham sido prestadas garantias pelo IFADAP só poderão exigir a este o pagamento se não conseguirem obter integral pagamento através das outras garantias constituídas a seu favor.
 
 2 - Tratando-se de garantias intercalares e não constituindo o beneficiário dentro dos respectivos prazos as garantias reais previstas, as instituições de crédito poderão resolver os empréstimos e exigir imediatamente ao IFADAP o pagamento do capital garantido, salvo se este Instituto, considerando justificadas as razões do incumprimento pelo beneficiário, decidir prorrogar o prazo das garantias intercalares.
 
 3 - Relativamente às importâncias pagas às instituições de crédito, ficará o IFADAP sub-rogado nos direitos destas relativamente aos beneficiários.
 
-###### Art. 8.º As garantias prestadas pelo IFADAP extinguem-se:
+Art. 8.º As garantias prestadas pelo IFADAP extinguem-se:
 
 a) Extinta a obrigação garantida;
 
@@ -152,12 +167,12 @@ c) Por incumprimento pelas instituições de crédito de qualquer das obrigaçõ
 
 d) Por renúncia das instituições de crédito, a qual deverá ser feita por escrito.
 
-###### Art. 9.º - 1 - As instituições de crédito a favor das quais tenham sido prestadas garantias pelo IFADAP ficam obrigadas a comunicar a este quaisquer factos supervenientes quanto à situação dos beneficiários que fundamentem dúvidas sobre o pagamento dos respectivos débitos nas datas de vencimento, até 5 dias úteis após o conhecimento de tais factos.
+Art. 9.º - 1 - As instituições de crédito a favor das quais tenham sido prestadas garantias pelo IFADAP ficam obrigadas a comunicar a este quaisquer factos supervenientes quanto à situação dos beneficiários que fundamentem dúvidas sobre o pagamento dos respectivos débitos nas datas de vencimento, até 5 dias úteis após o conhecimento de tais factos.
 
 2 - Ficam ainda as mesmas instituições de crédito obrigadas a proporcionar prontamente ao IFADAP, a solicitação deste, a consulta dos respectivos processos, bem como toda a documentação relativa aos empréstimos garantidos.
 
 3 - As instituições de crédito apenas poderão acordar em modificações de contratos de empréstimo relativamente aos quais o IFADAP tenha prestado garantias, mediante prévio acordo escrito do IFADAP.
 
-###### Art. 10.º Às garantias prestadas pelo IFADAP aplicam-se as disposições legais relativas à fiança que não sejam incompatíveis com o presente Regulamento.
+Art. 10.º Às garantias prestadas pelo IFADAP aplicam-se as disposições legais relativas à fiança que não sejam incompatíveis com o presente Regulamento.
 
-###### Art. 11.º Fica revogado o capítulo IV do Regulamento aprovado pela [Portaria n.º 131-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/131-a-1979-569350), de 23 de Março.
+Art. 11.º Fica revogado o capítulo IV do Regulamento aprovado pela [Portaria n.º 131-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/131-a-1979-569350), de 23 de Março.

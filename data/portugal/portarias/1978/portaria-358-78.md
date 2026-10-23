@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1978-298029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92db4b85a51edd3874a9652d9df0cb2decd9d9a02402e634c4d1179c037da333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f337d5afcb90a6b79376dda97ee8e8c41ed45d7a1e7aefc419a742727bcd53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Hospitalar
+- Grupo Hospitalar dos Hospitais Civis de Lisboa
+- Hospitais Civis de Lisboa
+- Hospital de Arroios
+- Hospital de Curry Cabral
+- Hospital de D. Estefânia
+- Hospital de Santa Cruz
+- Hospital de Santa Marta
+- Hospital de Santo António dos Capuchos
+- Hospital do Desterro
+- Regulamento Interno
+relationships:
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:11Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +113,17 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, 
 
 REGULAMENTO INTERNO DOS HOSPITAIS CIVIS DE LISBOA
 
-# PARTE I — CAPÍTULO I
+## PARTE I
+
+### CAPÍTULO I
 
 Princípios gerais
 
 #### SECÇÃO I — Da organização
 
-###### Artigo 1.º Os Hospitais Civis de Lisboa constituem um grupo hospitalar, de acordo com o disposto no artigo 8.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e no artigo 79.º, n.º 2, do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data.
+Artigo 1.º Os Hospitais Civis de Lisboa constituem um grupo hospitalar, de acordo com o disposto no artigo 8.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, e no artigo 79.º, n.º 2, do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data.
 
-###### Art. 2.º - 1 - Constituem os Hospitais Civis de Lisboa os hospitais integrados no grupo e os serviços comuns.
+Art. 2.º - 1 - Constituem os Hospitais Civis de Lisboa os hospitais integrados no grupo e os serviços comuns.
 
 2 - Integram o grupo Hospitais Civis de Lisboa os seguintes estabelecimentos hospitalares:
 
@@ -154,7 +179,7 @@ Serviço de alimentação e dietética.
 
 #### SECÇÃO II — Dos órgãos
 
-###### Art. 3.º - 1 - São órgãos colegiais de gestão:
+Art. 3.º - 1 - São órgãos colegiais de gestão:
 
 a) O conselho geral dos Hospitais Civis de Lisboa;
 
@@ -166,13 +191,13 @@ d) A comissão coordenadora dos Hospitais Civis de Lisboa.
 
 2 - Ao administrador de hospital integrado, bem como ao administrador membro da comissão coordenadora dos Hospitais Civis de Lisboa, competirá também a prática de actos de gestão, quer no desempenho das suas funções normais, quer no exercício da competência que lhe for delegada.
 
-###### Art. 4.º São órgãos de direcção e apoio técnico os referidos no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, com as adaptações consignadas no capítulo III do presente Regulamento e com as que vierem a ser determinadas pela sua parte II.
+Art. 4.º São órgãos de direcção e apoio técnico os referidos no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, com as adaptações consignadas no capítulo III do presente Regulamento e com as que vierem a ser determinadas pela sua parte II.
 
 ### CAPÍTULO II — Dos órgãos de gestão
 
 #### SECÇÃO I — Do conselho geral dos Hospitais Civis de Lisboa
 
-###### Art. 5.º - 1 - O conselho geral dos Hospitais Civis de Lisboa tem a seguinte composição:
+Art. 5.º - 1 - O conselho geral dos Hospitais Civis de Lisboa tem a seguinte composição:
 
 a) O representante da Secretaria de Estado da Saúde na administração distrital dos serviços de saúde da área, que presidirá e será substituído, nos seus impedimentos, pelo membro que indicar da respectiva administração;
 
@@ -208,11 +233,11 @@ Os restantes serviços ... 1
 
 5 - Os membros referidos nas alíneas f) e g) do n.º 1 são designados, para um mandato renovável de dois anos, pelas entidades que representam, às quais compete também a sua substituição ou recondução, e serão escolhidos de entre os membros com idêntica representação nos conselhos gerais dos hospitais integrados.
 
-###### Art. 6.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
+Art. 6.º - 1 - Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
 
 2 - O presidente não pode recusar a convocação que lhe for pedida pela comissão coordenadora, por qualquer conselho geral de hospital integrado ou pelo mínimo de um terço dos membros do conselho geral.
 
-###### Art. 7.º - 1 - O conselho geral dos Hospitais Civis de Lisboa é responsável pela definição das linhas mestras da política do grupo hospitalar, através da compatibilização dos planos de acção aprovados em cada hospital integrado, e do acompanhamento da sua execução e pela respectiva avaliação periódica, não lhe competindo, no entanto, fazer a aplicação das orientações e directivas de actuação que definir.
+Art. 7.º - 1 - O conselho geral dos Hospitais Civis de Lisboa é responsável pela definição das linhas mestras da política do grupo hospitalar, através da compatibilização dos planos de acção aprovados em cada hospital integrado, e do acompanhamento da sua execução e pela respectiva avaliação periódica, não lhe competindo, no entanto, fazer a aplicação das orientações e directivas de actuação que definir.
 
 2 - Compete, em especial, ao conselho geral:
 
@@ -236,11 +261,11 @@ h) Propor, devidamente fundamentada, a substituição de membros não eleitos do
 
 4 - O conselho geral dos Hospitais Civis de Lisboa deverá pronunciar-se sobre todos os assuntos da sua competência obrigatória dentro dos quinze dias subsequentes ao da apresentação dos mesmos ao respectivo presidente.
 
-###### Art. 8.º Aplica-se ao conselho geral dos Hospitais Civis de Lisboa o disposto nos artigos 3.º e 6.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
+Art. 8.º Aplica-se ao conselho geral dos Hospitais Civis de Lisboa o disposto nos artigos 3.º e 6.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
 
 #### SECÇÃO II — Do conselho geral de hospital integrado
 
-###### Art. 9.º O conselho geral de hospital integrado tem a seguinte composição:
+Art. 9.º O conselho geral de hospital integrado tem a seguinte composição:
 
 a) Os membros do conselho de gerência;
 
@@ -250,7 +275,7 @@ c) Representantes, até ao número de quatro, das assembleias municipais dos con
 
 d) Um representante da assembleia regional prevista na Constituição da República ou, enquanto esta não estiver instituída, um representante da assembleia deliberativa prevista no n.º 2 do artigo 263.º da mesma Constituição.
 
-###### Art. 10.º - 1 - O conselho geral é responsável pela definição das linhas mestras da política do hospital integrado, pelo acompanhamento da sua execução e respectiva avaliação periódica, não lhe competindo fazer a aplicação das orientações e directivas de actuação que definir.
+Art. 10.º - 1 - O conselho geral é responsável pela definição das linhas mestras da política do hospital integrado, pelo acompanhamento da sua execução e respectiva avaliação periódica, não lhe competindo fazer a aplicação das orientações e directivas de actuação que definir.
 
 2 - Compete, em especial, ao conselho geral:
 
@@ -274,13 +299,13 @@ h) Propor, devidamente fundamentada, a substituição dos membros não eleitos d
 
 4 - O conselho geral de hospital integrado deverá pronunciar-se sobre todos os assuntos da sua competência obrigatória dentro dos quinze dias subsequentes ao da apresentação dos mesmos ao respectivo presidente.
 
-###### Art. 11.º - 1 - Aplica-se ao conselho geral de hospital integrado, com as necessárias adaptações, o disposto nos artigos 3.º e 6.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
+Art. 11.º - 1 - Aplica-se ao conselho geral de hospital integrado, com as necessárias adaptações, o disposto nos artigos 3.º e 6.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
 
 2 - O conselho geral será presidido por um dos representantes referidos na alínea b) do artigo 9.º, a eleger entre si.
 
 #### SECÇÃO III — Do conselho de gerência de hospital integrado
 
-###### Art. 12.º O conselho de gerência de hospital integrado tem a seguinte composição:
+Art. 12.º O conselho de gerência de hospital integrado tem a seguinte composição:
 
 a) Um médico, proposto pela assembleia do hospital, com sete anos de carreira, sendo dois em funções do quadro de pessoal permanente e prestados no grupo hospitalar;
 
@@ -290,7 +315,7 @@ c) Um técnico dos serviços de instalações e equipamento, desempenhando funç
 
 d) O administrador do hospital, como membro nato do conselho de gerência.
 
-###### Art. 13.º - 1 - Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, órgãos de direcção e apoio técnico, promovendo a actualização contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei ao hospital integrado sejam prosseguidas em situação económica e financeira equilibrada e praticando todos os actos de gestão não reservados a outros órgãos.
+Art. 13.º - 1 - Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, órgãos de direcção e apoio técnico, promovendo a actualização contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei ao hospital integrado sejam prosseguidas em situação económica e financeira equilibrada e praticando todos os actos de gestão não reservados a outros órgãos.
 
 2 - Compete, em especial, ao conselho de gerência:
 
@@ -316,7 +341,7 @@ j) Propor os quadros ou mapas de pessoal necessários ao correcto funcionamento 
 
 3 - Aplica-se ao conselho de gerência de hospital integrado o disposto no n.º 3 do artigo 10.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
 
-###### Art. 14.º - 1 - Em matéria de autorização de despesas com a aquisição de bens de consumo, compete ao conselho de gerência:
+Art. 14.º - 1 - Em matéria de autorização de despesas com a aquisição de bens de consumo, compete ao conselho de gerência:
 
 a) Propor a introdução de novos produtos de uso comum no consumo hospitalar, desde que deles resultem incidências qualitativas ou económicas, numa perspectiva de normalização de produtos, e autorizar aquela introdução, quando se trate de produtos de utilização exclusiva no hospital integrado.
 
@@ -328,15 +353,15 @@ c) Aprovar a constituição tipo das comissões de escolha dos bens ou produtos 
 
 3 - Competirá ao hospital integrado a organização dos processos que digam respeito a produtos não tipificados como sendo de armazém.
 
-###### Art. 15.º Aplica-se ao conselho de gerência de hospital integrado e ao administrador o disposto nos n.os 3, 4 e 5 do artigo 8.º e nos artigos 9.º, 11.º, 13.º, 14.º, 15.º, 16.º e 17.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio
+Art. 15.º Aplica-se ao conselho de gerência de hospital integrado e ao administrador o disposto nos n.os 3, 4 e 5 do artigo 8.º e nos artigos 9.º, 11.º, 13.º, 14.º, 15.º, 16.º e 17.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio
 
-###### Art. 16.º Os conselhos de gerência de hospital integrado poderão reunir conjuntamente para discutir assuntos de interesse comum, mediante convocação da comissão coordenadora, por sua iniciativa ou a pedido de, pelo menos, dois conselhos de gerência.
+Art. 16.º Os conselhos de gerência de hospital integrado poderão reunir conjuntamente para discutir assuntos de interesse comum, mediante convocação da comissão coordenadora, por sua iniciativa ou a pedido de, pelo menos, dois conselhos de gerência.
 
-###### Art. 17.º Os conselhos de gerência de hospital integrado reunirão obrigatoriamente para designar os membros da comissão coordenadora dos Hospitais Civis de Lisboa, bem como para proceder à sua substituição, total ou parcial, quando for caso disso.
+Art. 17.º Os conselhos de gerência de hospital integrado reunirão obrigatoriamente para designar os membros da comissão coordenadora dos Hospitais Civis de Lisboa, bem como para proceder à sua substituição, total ou parcial, quando for caso disso.
 
 #### SECÇÃO IV — Da comissão coordenadora dos Hospitais Civis de Lisboa
 
-###### Art. 18.º - 1 - A comissão coordenadora dos Hospitais Civis de Lisboa terá a seguinte composição:
+Art. 18.º - 1 - A comissão coordenadora dos Hospitais Civis de Lisboa terá a seguinte composição:
 
 a) Um médico com, pelo menos, sete anos de carreira hospitalar, sendo dois anos em funções do quadro de pessoal permanente e prestados no grupo;
 
@@ -352,7 +377,7 @@ d) Um administrador de carreira.
 
 4 - Os membros da comissão coordenadora poderão propor ao conselho geral dos Hospitais Civis de Lisboa a designação de adjuntos que os possam coadjuvar no exercício das suas funções.
 
-###### Art. 19.º - 1 - A comissão coordenadora reunirá ordinariamente uma vez por semana e extraordinariamente sempre que necessário.
+Art. 19.º - 1 - A comissão coordenadora reunirá ordinariamente uma vez por semana e extraordinariamente sempre que necessário.
 
 2 - A comissão coordenadora delibera por maioria simples, tendo o presidente voto de qualidade.
 
@@ -360,7 +385,7 @@ d) Um administrador de carreira.
 
 4 - As remunerações devidas aos membros da comissão coordenadora dos Hospitais Civis de Lisboa serão as que vierem a ser estabelecidas para os membros dos conselhos de gerência.
 
-###### Art. 20.º - 1 - Compete à comissão coordenadora dos Hospitais Civis de Lisboa coordenar a acção do grupo hospitalar na parte em que transcenda a competência própria de cada hospital integrado, promovendo o correcto funcionamento dos serviços comuns por forma a garantir o indispensável apoio à actividade hospitalar, propondo ou tomando as medidas necessárias para a prossecução das finalidades atribuídas por lei ao grupo hospitalar e praticando todos os actos de gestão não reservados aos órgãos dos hospitais integrados.
+Art. 20.º - 1 - Compete à comissão coordenadora dos Hospitais Civis de Lisboa coordenar a acção do grupo hospitalar na parte em que transcenda a competência própria de cada hospital integrado, promovendo o correcto funcionamento dos serviços comuns por forma a garantir o indispensável apoio à actividade hospitalar, propondo ou tomando as medidas necessárias para a prossecução das finalidades atribuídas por lei ao grupo hospitalar e praticando todos os actos de gestão não reservados aos órgãos dos hospitais integrados.
 
 2 - Como órgão de gestão dos serviços comuns, compete à comissão coordenadora dos Hospitais Civis de Lisboa orientar, coordenar e controlar o seu funcionamento, promovendo a actualização contínua da sua estrutura e organização, tomando ou propondo as medidas necessárias para que as finalidades que lhe são atribuídas sejam prosseguidas em situação económica e financeira equilibrada e praticando todos os actos não reservados a outros órgãos.
 
@@ -390,7 +415,7 @@ i) Representar os Hospitais Civis de Lisboa quando essa representação não sej
 
 6 - Aplica-se à comissão coordenadora dos Hospitais Civis de Lisboa o disposto no n.º 3 do artigo 10.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
 
-###### Art. 21.º - 1 - Em matéria de autorização de despesas com aquisição de bens de consumo, compete à comissão coordenadora:
+Art. 21.º - 1 - Em matéria de autorização de despesas com aquisição de bens de consumo, compete à comissão coordenadora:
 
 a) Autorizar, ouvidos os conselhos de gerência dos hospitais integrados, a introdução de novos produtos de uso comum no consumo hospitalar, desde que deles resultem incidências qualitativas ou económicas, numa perspectiva de normalização de produtos;
 
@@ -402,15 +427,15 @@ c) Aprovar, com prévia audiência dos serviços utilizadores, a constituição 
 
 3 - Competirá aos serviços comuns a organização dos processos que digam respeito a produtos tipificados como sendo de armazém.
 
-###### Art. 22.º Aplica-se à comissão coordenadora dos Hospitais Civis de Lisboa e ao administrador, com as necessárias adaptações, o disposto nos artigos 11.º, 13.º, 14.º, 15.º, 16.º, e 17.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
+Art. 22.º Aplica-se à comissão coordenadora dos Hospitais Civis de Lisboa e ao administrador, com as necessárias adaptações, o disposto nos artigos 11.º, 13.º, 14.º, 15.º, 16.º, e 17.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio.
 
 ### CAPÍTULO III — Dos órgãos de direcção e apoio técnico
 
 #### SECÇÃO I — Dos órgãos de direcção e apoio técnico de hospital integrado
 
-###### Art. 23.º Cada hospital integrado no grupo Hospitais Civis de Lisboa disporá dos órgãos de direcção e apoio técnico referidos no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, com as adaptações constantes deste Regulamento e com as que vierem a ser determinadas pela sua parte II.
+Art. 23.º Cada hospital integrado no grupo Hospitais Civis de Lisboa disporá dos órgãos de direcção e apoio técnico referidos no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, com as adaptações constantes deste Regulamento e com as que vierem a ser determinadas pela sua parte II.
 
-###### Art. 24.º - 1 - No que se refere à direcção médica, estabelece-se desde já que, em cada hospital integrado, será constituída por três membros, cada um dos quais especialmente ligado a um dos seguintes sectores:
+Art. 24.º - 1 - No que se refere à direcção médica, estabelece-se desde já que, em cada hospital integrado, será constituída por três membros, cada um dos quais especialmente ligado a um dos seguintes sectores:
 
 a) Serviços ambulatórios;
 
@@ -424,13 +449,13 @@ c) Comissão de avaliação do funcionamento dos serviços.
 
 4 - A comissão de avaliação do funcionamento dos serviços poderá, nos hospitais onde já exista órgão com funções análogas, assumir a respectiva designação e atribuições.
 
-###### Art. 25.º Para além dos órgãos de direcção e apoio técnico previstos no presente Regulamento e no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, existirá desde já em cada hospital integrado um órgão de coordenação dos técnicos paramédicos, constituído por um representante de cada sector.
+Art. 25.º Para além dos órgãos de direcção e apoio técnico previstos no presente Regulamento e no [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, existirá desde já em cada hospital integrado um órgão de coordenação dos técnicos paramédicos, constituído por um representante de cada sector.
 
-###### Art. 26.º O conselho geral de cada um dos hospitais integrados determinará, sob proposta do respectivo conselho de gerência, o regime de trabalho dos membros da direcção médica do hospital.
+Art. 26.º O conselho geral de cada um dos hospitais integrados determinará, sob proposta do respectivo conselho de gerência, o regime de trabalho dos membros da direcção médica do hospital.
 
 #### SECÇÃO II — Dos órgãos de direcção e apoio técnico dos Hospitais Civis de Lisboa
 
-###### Art. 27.º - 1 - As funções de direcção e apoio técnico referentes aos sectores mencionados no n.º 1 do artigo 24.º ficam, ao nível do grupo hospitalar, a cargo, respectivamente, de uma comissão dos serviços ambulatórios, de uma comissão do ensino médico pré e pós-graduado e de uma comissão de avaliação do funcionamento dos serviços.
+Art. 27.º - 1 - As funções de direcção e apoio técnico referentes aos sectores mencionados no n.º 1 do artigo 24.º ficam, ao nível do grupo hospitalar, a cargo, respectivamente, de uma comissão dos serviços ambulatórios, de uma comissão do ensino médico pré e pós-graduado e de uma comissão de avaliação do funcionamento dos serviços.
 
 2 - As comissões referidas no número anterior serão constituídas por membros eleitos em cada hospital integrado, ficando um deles especialmente encarregado de coordenar as respectivas actividades.
 
@@ -444,20 +469,20 @@ c) Comissão de avaliação do funcionamento dos serviços.
 
 ### CAPÍTULO IV — Dos órgãos de expressão da vontade dos trabalhadores
 
-###### Art. 28.º As assembleias a que se refere o n.º 2 do artigo 39.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, poderão designar elementos através dos quais se estabeleça contacto permanente com os órgãos de gestão, direcção e apoio técnico.
+Art. 28.º As assembleias a que se refere o n.º 2 do artigo 39.º do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, poderão designar elementos através dos quais se estabeleça contacto permanente com os órgãos de gestão, direcção e apoio técnico.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 29.º - 1 - A posse dos conselhos de gerência de hospital integrado deverá verificar-se dentro dos primeiros trinta dias subsequentes à entrada em vigor deste Regulamento
+Art. 29.º - 1 - A posse dos conselhos de gerência de hospital integrado deverá verificar-se dentro dos primeiros trinta dias subsequentes à entrada em vigor deste Regulamento
 
 2 - Compete à actual comissão instaladora convocar a reunião destinada à designação dos membros da primeira comissão coordenadora dos Hospitais Civis de Lisboa, mantendo-se em exercício até à sua posse.
 
-###### Art. 30.º - 1 - A parte II do presente Regulamento Interno, a apresentar para aprovação dentro dos cento e oitenta dias subsequentes à nomeação dos novos órgãos de gestão, deverá prever a expressão que, a nível do grupo hospitalar e de cada hospital integrado, assumirá a coordenação dos restantes órgãos de direcção e apoio técnico, mantendo-se até lá os existentes.
+Art. 30.º - 1 - A parte II do presente Regulamento Interno, a apresentar para aprovação dentro dos cento e oitenta dias subsequentes à nomeação dos novos órgãos de gestão, deverá prever a expressão que, a nível do grupo hospitalar e de cada hospital integrado, assumirá a coordenação dos restantes órgãos de direcção e apoio técnico, mantendo-se até lá os existentes.
 
 2 - Sem prejuízo do disposto no n.º 4 do artigo 2.º do presente Regulamento, poderá desde já preparar-se regulamentação provisória de âmbito interno, a incluir posteriormente na sua parte II.
 
-###### Art. 31.º O presente Regulamento constitui instrumento legal subsidiário do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, pelo que todos os seus casos omissos, designadamente no que se refere ao funcionamento e competência dos órgãos nele previstos, serão regulados pelo disposto naquele diploma.
+Art. 31.º O presente Regulamento constitui instrumento legal subsidiário do [Decreto Regulamentar n.º 30/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027), de 20 de Maio, pelo que todos os seus casos omissos, designadamente no que se refere ao funcionamento e competência dos órgãos nele previstos, serão regulados pelo disposto naquele diploma.
 
-###### Art. 32.º As dúvidas que surgirem na interpretação deste Regulamento serão resolvidas por despacho do Secretário de Estado da Saúde, a publicar no Diário da República.
+Art. 32.º As dúvidas que surgirem na interpretação deste Regulamento serão resolvidas por despacho do Secretário de Estado da Saúde, a publicar no Diário da República.
 
 Secretaria de Estado da Saúde, 6 de Junho de 1978. - O Secretário de Estado da Saúde, Mário Luís Mendes.

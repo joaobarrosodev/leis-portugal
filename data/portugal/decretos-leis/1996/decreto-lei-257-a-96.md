@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 302/1996, 1º Suplemento, Série I-A de 1996-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4716-(2) a 4716-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/302a01/00020007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257-a/1996/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-a-1996-276218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6a38ceb6ce4789d531badddc9267ca6bf2794f3ff8311e442e0c98ad94f85ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feda0280b822287dd94cab7530ba20e219916540b627bb779892498aa4ae4342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obra de Arte
 - BENS em Segunda MÃO
 - Código do IVA
 - Comércio a Retalho
-- Comércio de ARTE
+- Comércio de Arte
 - Contribuinte
 - Importação
 - IVA
+- Obra de Arte
 - Prestação de Serviços
 - Regime Especial dos Pequenos Contribuintes do IVA
 - Regime Jurídico
@@ -83,6 +83,86 @@ relationships:
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175985:por
+  label: "Alterada a redacção dada ao art. 26.º do Código do IVA (na redacção do Dec Lei 204/97 e das Leis 4/98 e 30-C/2000,\
+    \ respectivamente, de 09-Ago, 12-Jan e 29-Dez) , pelo DEC LEI.179/2002.2002.08.03.MF DR.IS-A [178]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-2002-175985
+  date: '2002-08-03'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 26.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o artigo 71.º do Código do IVA, aprovado no Decreto-Lei n.º 394-B/84, de 26 de Dezembro, alterado no presente\
+    \ diploma, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 71º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações introduzidas pelo\
+    \ presente diploma, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os arts. 53º e 60º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida\
+    \ no presente diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:518046:por
+  label: "Alterado o art. 12º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2007-518046
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 22.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de\
+    \ 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 12º, 22º, 26º, 53º, 55º, 60º, 61º, 63º, 64º, 65º, 67º, 71º e 82º do Dec Lei 394-B/94, de 26-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.10/2009.10.03.2009.AR, DR.IS [48] de 10.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:592169:por
+  label: "Alterado o art. 22º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.136-A/2009.05.06.2009.MFAP, DR.IS [109-Supl] de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-a-2009-592169
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:611945:por
+  label: "Alterado o art. 22º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.2/2010.15.03.2010.AR, DR.IS [51] de 15.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2010-611945
+  date: '2010-03-15'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 22.º, 62.º e 65.º do Código do Imposto sobre o Valor Acrescentado, aprovado\
+    \ pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma (já revogado), pelo DEC LEI.197/2012.24.08.2012.MF,\
+    \ DR.IS [164] de 24.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 12º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/199/1996/10/18/p/dre
   label: null
@@ -95,16 +175,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:226202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:574704:por
+  label: "Rectificado pela DECL-RECT.5-D/97.1997.02.25.PCM DR.IS-A [50]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-d-1997-574704
+  date: '1997-02-25'
+- type: repealed_by
+  target: pt:dre:641997:por
+  label: "Revogadas as normas de liquidação e a cobrança do regime transitório constantes dos art 7º, num 2º, 9º, 11º e 12º\
+    \ , ficando sem efeito todos os actos praticados ao seu abrigo desde 1 de Janeiro do corrente ano, pelo Dec Lei.228/97.1997.08.30.MF,\
+    \ DR.IS-B [200]\0S-B [200]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1997-641997
+  date: '1997-08-30'
+- type: repealed_by
+  target: pt:dre:222872:por
+  label: "Revogado, com efeitos à data da sua entrada em vigor, pela LEI.4/98.1998.01.12.AR DR.IS-A [9]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/4-1998-222872
+  date: '1998-01-12'
 article_structure:
-  article_count: 42
+  article_count: 37
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:48Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +274,7 @@ Os artigos 12.º, 22.º, 26.º, 53.º, 55.º e 71.º do Código do IVA passam a 
 
 7 - ...
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - ...
 
@@ -193,7 +302,7 @@ Os artigos 12.º, 22.º, 26.º, 53.º, 55.º e 71.º do Código do IVA passam a 
 
 13 - ...
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - Sem prejuízo do disposto no regime especial dos pequenos contribuintes do IVA, os sujeitos passivos são obrigados a entregar na Direcção de Serviços de Cobrança do IVA, simultaneamente com as declarações a que se refere o artigo 40.º, o montante do imposto exigível, apurado nos termos dos artigos 19.º a 25.º e 71.º, através de um dos meios de pagamento previstos no [Decreto-Lei n.º 275-A/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), de 9 de Agosto.
 
@@ -205,7 +314,7 @@ Os artigos 12.º, 22.º, 26.º, 53.º, 55.º e 71.º do Código do IVA passam a 
 
 5 - ...
 
-###### Artigo 53.º
+Artigo 53.º
 
 1 - ...
 
@@ -217,7 +326,7 @@ Os artigos 12.º, 22.º, 26.º, 53.º, 55.º e 71.º do Código do IVA passam a 
 
 5 - ...
 
-###### Artigo 55.º
+Artigo 55.º
 
 1 - Os sujeitos passivos susceptíveis de beneficiar da isenção do imposto nos termos do artigo 53.º podem a ela renunciar e optar pela aplicação normal do imposto às suas operações tributáveis ou pelo regime especial dos pequenos contribuintes do IVA de acordo com a legislação aplicável.
 
@@ -229,7 +338,7 @@ Os artigos 12.º, 22.º, 26.º, 53.º, 55.º e 71.º do Código do IVA passam a 
 
 5 - ...
 
-###### Artigo 71.º
+Artigo 71.º
 
 1 - ...
 
@@ -363,7 +472,7 @@ c) Número de eleitores recenseados em cada concelho.
 
 ###### Artigo 7.º
 
-**O Ministro das Finanças definirá, por portaria, a publicar até ao final do mês de Outubro de cada ano, a percentagem a que se refere no n.º 4 do artigo 5.º, o valor atribuído a cada um dos indicadores referidos no n.º 1 do artigo 5.º, bem como os escalões previstos no artigo anterior, e o valor atribuído a cada um deles.**
+O Ministro das Finanças definirá, por portaria, a publicar até ao final do mês de Outubro de cada ano, a percentagem a que se refere no n.º 4 do artigo 5.º, o valor atribuído a cada um dos indicadores referidos no n.º 1 do artigo 5.º, bem como os escalões previstos no artigo anterior, e o valor atribuído a cada um deles.
 
 ###### Artigo 8.º
 
@@ -493,7 +602,7 @@ Sempre que a liquidação seja efectuada nos termos dos n.os 3 e 4 do artigo 9.�
 
 ###### Artigo 24.º
 
-**O Ministro das Finanças pode, por despacho, criar ou alterar os modelos de livros e de impressos necessários à execução das obrigações decorrentes do presente regime especial de tributação.**
+O Ministro das Finanças pode, por despacho, criar ou alterar os modelos de livros e de impressos necessários à execução das obrigações decorrentes do presente regime especial de tributação.
 
 ###### Artigo 25.º
 
@@ -501,14 +610,14 @@ As disposições do Código do IVA e do regime do IVA nas transacções intracom
 
 Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Fernando Teixeira dos Santos.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/302a01/00020007.pdf))](https://files.diariodarepublica.pt/1s/1996/12/302a01/00020007.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/302a01/00020007.pdf)

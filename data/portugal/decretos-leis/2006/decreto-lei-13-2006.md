@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2006/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2f6f47bcc02dffb5d76db83ec992e28d7f91d9bd20417b86f6fc2d6173fe70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3af677009a14aeea697df0aea4cd11c8a539d51c9e4eff5ec3a278f6e35dffc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde Pública
+- Comércio
+- Embalagem
 - Especificação Técnica
 - Etiquetagem
 - Fabrico Industrial
-- Embalagem
 - Proteção do Consumidor
-- Comércio
+- Saúde Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2005/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/106/2005/06/29/p/dre
+- type: cites
+  target: pt:dre:233719:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:19Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +129,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - As características específicas de qualidade dos óleos de arroz, de bolota e de semente de tomate são as que constam do anexo ao presente diploma e do qual faz parte integrante.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -143,15 +149,15 @@ e) A denominação de venda da mistura a que se refere o n.º 4 do artigo 2.º �
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 10 de Janeiro de 2006.**
+Promulgado em 10 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2006.**
+Referendado em 11 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 1.º)
 

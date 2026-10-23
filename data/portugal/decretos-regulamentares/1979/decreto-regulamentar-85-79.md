@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 300/1979, 9º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 9º Suplemento
+  supplement: null
   pages: 3478-(197) a 3478-(204)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30009/01970204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/85-1979-231308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ef782736c34ba9b7d7102cd417ddddfabbaa7dddc515bf60c003e465d180a00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30dbbe7fbb7066d578ce175759a839ded0669a6f513179280c15314c141857c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Assistência Medicamentosa
+- Centro de Saúde
+- Cuidados Médicos
+- Direção
+- Gestão Financeira
+- Orgânica
+- Quadro de Pessoal
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:681618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:369864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:681618:por
+  label: "Revogado, com efeitos a 07.02.1980, pelo DEC LEI.81/80.19.04.1980.PCM, DR.IS [92] de 19.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1980-681618
+  date: '1980-04-19'
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:35Z'
   warnings: []
   errors: []
 ---
@@ -491,8 +517,8 @@ As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas po
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Alfredo Bruto da Costa - Gabriela Guedes Salgueiro.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

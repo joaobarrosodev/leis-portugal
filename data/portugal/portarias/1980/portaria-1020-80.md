@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/27600/40284029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1020-1980-459043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f4f98e5787993c1d51f0d9a3f88bf757ace0dce4889e1cb10a539ae735e85fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eab75b4ac228050069b4c8f11d5d0a2ca5fd09f140925f199b03d5bed2c32c28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacalhau
+- BENS de Consumo
+- Importação
+- Política de Preços
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:579689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:579689:por
+  label: "Revogada pela PORT.642/81.24.07.1981.MAP, DR.IS [168] de 24.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1981-579689
+  date: '1981-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:09Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +120,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 Preços de bacalhau salgado seco e afins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/27600/40284029.pdf))](https://files.diariodarepublica.pt/1s/1980/11/27600/40284029.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/27600/40284029.pdf)
 
 2.º Esta portaria entra imediatamente em vigor.
 

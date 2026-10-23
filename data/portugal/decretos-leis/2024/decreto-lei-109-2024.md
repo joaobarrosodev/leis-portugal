@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24600/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2024/12/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2024-900706886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b8d77e31a8efe1ef0aac112be2dba18033339dcb86326f5b489463a2446b2c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e6fee3c091fc398a572a38e070a9d5dfb6478203d6e5e8945f185f9451f8361
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Admissão de Pessoal
-- Médico
 - Carreira Médica
 - Concurso
-- Serviço Nacional de Saúde
+- Médico
 - Recrutamento de Pessoal
-- Administração Central do Sistema de Saúde
+- Serviço Nacional de Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:41/2024
+  label: Altera, a partir de 24 de dezembro de 2024, os artigos 5.º, 6.º e 7.º e revoga o artigo 10.º do Decreto-Lei n.º 41/2024,
+    de 21 de junho, Diário da República n.º 119/2024, Série I
+  source: null
+  date: '2024-06-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2024/06/21/p/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/355/2013/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/355/2013/12/10/p/dre
+- type: cites
+  target: pt:dre:107495702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69933711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869623319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:29Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +170,7 @@ Os artigos 5.º, 6.º e 7.º do [Decreto-Lei n.º 41/2024](https://diariodarepub
 
 […]
 
-1 - O recrutamento nos termos previstos no presente decreto-lei é precedido do desenvolvimento de procedimento concursal, que reveste caráter de urgência, e observa os termos da [Portaria n.º 207/2011](https://diariodarepublica.pt/dr/detalhe/portaria/207-2011-673411), de 24 de maio, alterada pelas Portarias n.<sup>os</sup>[355/2013](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), de 10 de dezembro, [229-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), de 3 de agosto, e [190/2017](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702), de 9 de junho, com as especificidades constantes dos números seguintes.
+1 - O recrutamento nos termos previstos no presente decreto-lei é precedido do desenvolvimento de procedimento concursal, que reveste caráter de urgência, e observa os termos da [Portaria n.º 207/2011](https://diariodarepublica.pt/dr/detalhe/portaria/207-2011-673411), de 24 de maio, alterada pelas Portarias n.os[355/2013](https://diariodarepublica.pt/dr/detalhe/portaria/355-2013-484137), de 10 de dezembro, [229-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/229-a-2015-69933711), de 3 de agosto, e [190/2017](https://diariodarepublica.pt/dr/detalhe/portaria/190-2017-107495702), de 9 de junho, com as especificidades constantes dos números seguintes.
 
 2 - […]
 
@@ -160,7 +190,9 @@ d) […]
 
 6 - Os procedimentos concursais a desenvolver pelas entidades referidas na alínea a) do n.º 3 devem ser abertos por todas as entidades, na mesma data, nos termos a prever no despacho mencionado no n.º 1 do artigo anterior.
 
-###### Artigo 6.º — […]
+Artigo 6.º
+
+[…]
 
 1 - […]
 
@@ -178,7 +210,9 @@ b) O resultado de sorteio público, o qual será realizado nas instalações da 
 
 6 - Para efeitos do disposto no n.º 4, nas situações em que a nota não esteja expressa em termos quantitativos, deve ser considerada a nota mais baixa da classificação final no internato médico dos candidatos ao procedimento concursal.
 
-###### Artigo 7.º — […]
+Artigo 7.º
+
+[…]
 
 1 - […]
 
@@ -190,7 +224,7 @@ b) O resultado de sorteio público, o qual será realizado nas instalações da 
 
 5 - (Anterior n.º 3.)
 
-6 - O contrato de trabalho em funções públicas por tempo indeterminado ou o contrato de trabalho sem termo, nos termos do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, consoante o caso, deve ser celebrado no prazo máximo de 10 dias úteis após a notificação da lista de ordenação final homologada ou, no caso das áreas de medicina geral e familiar e saúde pública, no prazo máximo de 10 dias úteis após a manifestação da opção, nos termos previstos nos n.<sup>os</sup>3 e 4.
+6 - O contrato de trabalho em funções públicas por tempo indeterminado ou o contrato de trabalho sem termo, nos termos do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, consoante o caso, deve ser celebrado no prazo máximo de 10 dias úteis após a notificação da lista de ordenação final homologada ou, no caso das áreas de medicina geral e familiar e saúde pública, no prazo máximo de 10 dias úteis após a manifestação da opção, nos termos previstos nos n.os3 e 4.
 
 7 - (Anterior n.º 5.)
 
@@ -206,12 +240,14 @@ b) O resultado de sorteio público, o qual será realizado nas instalações da 
 
 Visto e aprovado em Conselho de Ministros de 6 de novembro de 2024. - Luís Montenegro - João Alexandre da Silva Lopes - Nuno Melo - Ana Paula Martins.
 
-**Promulgado em 2 de dezembro de 2024.**
+Promulgado em 2 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2024.**
+Referendado em 3 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118471421

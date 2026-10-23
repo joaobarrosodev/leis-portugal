@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/10/2003/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-2003-240831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9046960b2a843a5b47bdedfb3ec52937e79e7afad6463d04d04fa624205d69a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0ffae9dcbf3b6975dd966050b459de7549b6dcf35faee23d2b6310b39e97abb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Gestão Hospitalar
 - Parcerias Saúde
+- Política de Saúde
 - Qualificação Profissional
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:505667:por
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 53
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:17Z'
   warnings: []
   errors: []
 ---
@@ -161,17 +161,19 @@ O presente decreto regulamentar entra em vigor no dia útil seguinte ao da sua p
 
 Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.
 
-**Promulgado em 10 de Abril de 2003.**
+Promulgado em 10 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Abril de 2003.**
+Referendado em 14 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -625,7 +627,7 @@ Cumprindo o disposto nos artigos anteriores, a comissão manda proceder à leitu
 
 A qualificação dos concorrentes deve ser realizada, no prazo de ...(ver nota 11) dias úteis após o encerramento do acto público em que se tenham apresentado os documentos de qualificação.
 
-#### SECÇÃO II (ver nota 12)
+SECÇÃO II (ver nota 12)
 
 Procedimento alternativo de qualificação prévia
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04900/0000500005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/25/2021/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/25-2021-159219299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33fb1174992a2f6c0d45e38ad22454501d4905cd28652340747eb43ad2ac188d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b36f7d80d1303e162292ff6e2c613c135b3a436513641e2d83493e7d3b75699f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
 subjects:
 - Conselho de Estado
 - Nomeação
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:852762247:por
+  label: Tornada pública a renuncia de António Rosa Damásio ao mandato no Conselho de Estado para que foi designado pelo presente
+    diploma, pelo(a) Declaração n.º 1-A/2024 - Diário da República n.º 32/2024, 1º Suplemento, Série I de 2024-02-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1-a-2024-852762247
+  date: '2024-02-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:36Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +94,7 @@ validation:
 
 de 11 de março
 
-**O Presidente da República decreta, nos termos dos artigos 133.º, alínea n), e 142.º, alínea g), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos dos artigos 133.º, alínea n), e 142.º, alínea g), da Constituição, o seguinte:
 
 São designadas membros do Conselho de Estado as seguintes individualidades:
 
@@ -102,8 +108,10 @@ Dr. Luís Manuel Gonçalves Marques Mendes.
 
 Dr.ª Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Assinado em 9 de março de 2021.**
+Assinado em 9 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+114055877

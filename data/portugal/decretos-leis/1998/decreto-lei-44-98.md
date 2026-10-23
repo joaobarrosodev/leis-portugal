@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/1998/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1998-218483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15f5c3dbbac7ff488e9d30f401f2e146e23aa71dba0553699f82861c253c0ef7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccb19fe3aa05ff1cbcbf3fdb9acfa64d6684829a36862c3d786209cc800f539a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,173 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do IRC
-- Pagamento de Contribuições
 - IRC
+- Pagamento de Contribuições
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterados os art.s 80º e 111º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterados os art.s 69º e 83º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 69º, 71º, 70º-A, 80º, 83º e 83º-A do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov,\
+    \ na redacção do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterados os art.s 69º e 71º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.221/2001.07.08.2001.MF, DR.IS-A [182] de 07.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os art.s 80º e 83º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:605329:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.34/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2005-605329
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterado o nº 1 do art. 111º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo EC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterado o art. 80º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.192/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.211/2005.07.12.2005.MFAP, DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 83º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, com a redacção do presente diploma,\
+    \ pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 69º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 80.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterado, a partir de 18.07.2009, o art. 71.º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção\
+    \ do presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.159/2009.13.07.2009.MFAP,\
+    \ DR.IS [133] de 13.07.2009, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art 69º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo presente diploma, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 69º e 71º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 69.º, 71.º, 83.º e 111.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov,
+    alterado pelo presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276180:por
+  label: "Rectificados o nº 1 do art. 1º [na parte que adita um art. 83º-A - alterando o seu nº 1 - do Código do IRC aprovado\
+    \ pelo Dec Lei 442-B/88, de 30-Nov] e o nº 2 do art. 1º [na parte que dá nova redacção ao art. 80º - alterando a al. b)\
+    \ do seu nº 3 - do Código do IRC aprovado pelo Dec Lei 442-B/88, de 30-Nov], pela DECL-RECT.7-G/98.1998.03.31.PCM DR.IS-A\
+    \ [76]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-g-1998-276180
+  date: '1998-03-31'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:53Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +282,9 @@ Pagamento especial por conta
 
 5 - Quando seja aplicável o regime de tributação pelo lucro consolidado, é devido um pagamento especial por conta por cada uma das sociedades dominadas, a efectuar pela sociedade dominante.
 
-###### Artigo 74.º-A — Crédito de imposto relativo ao pagamento especial por conta
+Artigo 74.º-A
+
+Crédito de imposto relativo ao pagamento especial por conta
 
 1 - A dedução a que se refere a alínea e) do n.º 2 do artigo 71.º é efectuada ao montante apurado na declaração a que se refere o artigo 96.º do próprio exercício a que respeita ou, se insuficiente, ao do exercício seguinte, depois de efectuadas as deduções referidas nas alíneas a) a d) do n.º 2 e com observância do n.º 6, ambos do artigo 71.º
 
@@ -157,7 +304,9 @@ Taxas
 
 4 - ...
 
-###### Artigo 71.º — Procedimento e forma de liquidação
+Artigo 71.º
+
+Procedimento e forma de liquidação
 
 1 - ...
 
@@ -189,7 +338,9 @@ f) [Anterior alínea e).]
 
 9 - ...
 
-###### Artigo 80.º — Juros compensatórios
+Artigo 80.º
+
+Juros compensatórios
 
 1 - São devidos juros compensatórios quando, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido.
 
@@ -209,7 +360,9 @@ c) Se houver atraso no pagamento especial por conta, desde o dia imediato ao do 
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 83.º — Cálculo dos pagamentos por conta
+Artigo 83.º
+
+Cálculo dos pagamentos por conta
 
 1 - Os pagamentos por conta serão calculados com base no imposto liquidado nos termos do n.º 1 do artigo 71.º relativamente ao exercício imediatamente anterior àquele em que se devam efectuar esses pagamentos, líquido da dedução a que se refere a alínea f) do n.º 2 do mesmo artigo.
 
@@ -223,7 +376,9 @@ c) Se houver atraso no pagamento especial por conta, desde o dia imediato ao do 
 
 6 - ...
 
-###### Artigo 111.º — Reclamações e impugnações
+Artigo 111.º
+
+Reclamações e impugnações
 
 1 - ...
 
@@ -245,12 +400,12 @@ O presente diploma é aplicável aos períodos de tributação iniciados a parti
 
 Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 12 de Fevereiro de 1998.**
+Promulgado em 12 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1998.**
+Referendado em 18 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

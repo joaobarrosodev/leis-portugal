@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14200/0000700025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2019/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2019-123513819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bede18d0d9c1d434d02bf7f5aa8d52ef238396f41f3b3355eb61ab6382d5b310
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2072c8383dff0482896dee6953c60fec68c03ce0713483a13fb8b7d3ad5b4aa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Modernização Administrativa
 - Certidão
 - Código do Processo Civil
-- Sistema Judicial
-- Representante Legal
+- Documento Eletrónico
 - Gestão Processual
 - Ministério da Justiça
-- Documento Eletrónico
+- Ministério Público
+- Modernização Administrativa
 - Notificação
+- Plataforma Eletrónica
 - Prazo
 - Prazo Processual
+- Processo Civil
 - Processo Judicial
-- Ministério Público
+- Representante Legal
+- Sistema Judicial
 - Supremo Tribunal da Justiça
 - Tribunal da Relação
-- Plataforma Eletrónica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/68/2017/06/16/p/dre
@@ -119,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2017/03/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2017/03/03/p/dre
+- type: cites
+  target: pt:dre:105599333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107522250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121665678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70152049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:05Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +219,9 @@ Os artigos 21.º, 132.º, 137.º, 144.º, 145.º, 148.º, 153.º, 155.º, 158.º
 
 3 - [...].
 
-###### Artigo 132.º — Processo eletrónico
+Artigo 132.º
+
+Processo eletrónico
 
 1 - O processo tem natureza eletrónica, sendo constituído por informação estruturada constante do sistema de informação de suporte à atividade dos tribunais e por documentos eletrónicos.
 
@@ -197,7 +235,9 @@ Os artigos 21.º, 132.º, 137.º, 144.º, 145.º, 148.º, 153.º, 155.º, 158.º
 
 6 - O processo pode ter um suporte físico, a constituir nos termos definidos por portaria do membro do Governo responsável pela área da justiça, com o objetivo de apoiar a respetiva tramitação.
 
-###### Artigo 137.º — [...]
+Artigo 137.º
+
+[...]
 
 1 - [...].
 
@@ -207,7 +247,9 @@ Os artigos 21.º, 132.º, 137.º, 144.º, 145.º, 148.º, 153.º, 155.º, 158.º
 
 4 - Os atos das partes praticados por forma presencial junto do tribunal, nomeadamente a entrega de quaisquer articulados, requerimentos ou documentos, devem ser praticados durante as horas de expediente dos serviços.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - Os atos processuais que devam ser praticados por escrito pelas partes são apresentados a juízo por via eletrónica, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, valendo como data da prática do ato processual a da respetiva expedição.
 
@@ -253,7 +295,9 @@ b) Em caso de desconformidade entre o conteúdo dos formulários e o conteúdo d
 
 14 - Nos casos previstos no número anterior, se a secretaria constatar que a digitalização não permite um adequado exame da peça processual ou documento, arquiva e conserva o seu original no suporte físico do processo.
 
-###### Artigo 145.º — Comprovação do pagamento de taxa de justiça
+Artigo 145.º
+
+Comprovação do pagamento de taxa de justiça
 
 1 - Quando a prática de um ato processual exija o pagamento de taxa de justiça, nos termos fixados pelo Regulamento das Custas Processuais, deve ser comprovado o seu prévio pagamento ou a concessão do benefício do apoio judiciário, salvo se, neste último caso, essa concessão já se encontrar comprovada nos autos.
 
@@ -271,7 +315,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 6 - (Revogado.)
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - Os articulados apresentados por uma das formas previstas nas alíneas a) e b) do n.º 7 do artigo 144.º são apresentados em duplicado, devendo ser oferecidos tantos duplicados quantos os necessários para a realização, pela secretaria, de citações ou notificações por via que não seja eletrónica.
 
@@ -287,7 +333,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 7 - (Revogado.)
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - As decisões judiciais são elaboradas, mesmo nos casos em que a secretaria não tenha procedido à abertura de conclusão do processo, no sistema de informação de suporte à atividade dos tribunais, que garante a sua datação, e assinadas pelo juiz ou relator, nos termos definidos pela portaria prevista no n.º 2 do artigo 132.º; os acórdãos são também assinados pelos outros juízes que hajam intervindo.
 
@@ -299,7 +347,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 5 - A obrigatoriedade de elaboração das decisões judiciais nos termos do disposto no n.º 1 não é aplicável nas situações identificadas na portaria prevista no n.º 2 do artigo 132.º, devendo, nesses casos, os juízes ou relatores que intervenham na decisão proceder à sua elaboração em processador de texto, bem como à sua datação e assinatura, rubricando todas as folhas, e competindo à secretaria a digitalização da decisão e a sua inserção no sistema de informação referido no n.º 1.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - [...].
 
@@ -319,7 +369,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 9 - [...].
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - [...].
 
@@ -327,7 +379,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 3 - A obtenção de informações, o pedido e obtenção de certidões, a entrega de peças processuais ou de documentos em suporte físico, quando admissível, e a consulta de processos podem ser efetuados em qualquer tribunal judicial, independentemente do tribunal onde corre o processo.
 
-###### Artigo 160.º — Elaboração dos atos da secretaria
+Artigo 160.º
+
+Elaboração dos atos da secretaria
 
 1 - Os autos, termos e demais atos elaborados pelos funcionários judiciais, mesmo que em coautoria, dispensam a sua assinatura, sendo a autoria dos mesmos certificada pelos mecanismos de autenticação do sistema de informação de suporte à atividade dos tribunais.
 
@@ -343,7 +397,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 7 - Nos casos em que o funcionário judicial elabore citação, notificação ou outro ato que deva ser remetido por via postal, a sua assinatura pode ser substituída por indicação do código identificador da comunicação, bem como do endereço do sítio eletrónico do Ministério da Justiça no qual, através da inserção do código, é possível confirmar a autenticidade da comunicação.
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 1 - [...].
 
@@ -355,7 +411,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 5 - (Revogado.)
 
-###### Artigo 164.º — [...]
+Artigo 164.º
+
+[...]
 
 1 - [...].
 
@@ -363,7 +421,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 3 - O acesso a informação do processo também pode ser limitado, em respeito pelo regime legal de proteção e tratamento de dados pessoais, quando, estando em causa dados pessoais constantes do processo, os mesmos não sejam pertinentes para a justa composição do litígio.
 
-###### Artigo 165.º — Confiança do suporte físico do processo
+Artigo 165.º
+
+Confiança do suporte físico do processo
 
 1 - Os mandatários judiciais constituídos pelas partes, os magistrados do Ministério Público e os que exerçam o patrocínio por nomeação oficiosa podem solicitar, por escrito ou verbalmente, que os suportes físicos de processos pendentes que contenham atos e documentos que não tenham representação eletrónica lhes sejam confiados para exame fora da secretaria do tribunal.
 
@@ -373,7 +433,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 4 - [...].
 
-###### Artigo 166.º — Falta de restituição do suporte físico do processo dentro do prazo
+Artigo 166.º
+
+Falta de restituição do suporte físico do processo dentro do prazo
 
 1 - O mandatário judicial que não entregue o suporte físico do processo dentro do prazo que lhe tiver sido fixado é notificado para, em dois dias, justificar o seu procedimento.
 
@@ -383,7 +445,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 4 - Do mesmo facto é dado conhecimento à respetiva associação pública profissional.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - Nos casos em que, por disposição da lei ou despacho do juiz, o mandatário judicial tenha prazo para exame, e estando em causa processo cujo suporte físico contenha atos ou documentos que não tenham representação eletrónica, a secretaria, a simples pedido verbal, confia-lhe o suporte físico do processo pelo prazo marcado.
 
@@ -391,13 +455,17 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 3 - Se deixar de entregar o suporte físico do processo até ao último dia do prazo de exame, o mandatário incorre nas sanções cominadas no artigo anterior.
 
-###### Artigo 169.º — Registo da entrega do suporte físico do processo
+Artigo 169.º
+
+Registo da entrega do suporte físico do processo
 
 1 - A entrega do suporte físico do processo e a posterior restituição são registadas no sistema de informação de suporte à atividade dos tribunais.
 
 2 - (Revogado.)
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - [...].
 
@@ -411,7 +479,9 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 6 - Sempre que a emissão de certidão seja efetuada oficiosamente pelo tribunal, deve ser feita em formato eletrónico.
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - [...].
 
@@ -425,17 +495,23 @@ b) Quando o ato processual seja praticado por uma das formas previstas nas alín
 
 6 - [...].
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - [...].
 
 2 - As cartas para afixação de editais são acompanhadas destes.
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 Existindo nos autos algum autógrafo, ou alguma planta, desenho ou gráfico que deva ser examinado no ato da diligência pelas partes, peritos ou testemunhas, é remetida com a carta uma cópia eletrónica desse documento.
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - As cartas precatórias são expedidas pela secretaria através do sistema de informação de suporte à atividade dos tribunais.
 
@@ -445,11 +521,15 @@ Existindo nos autos algum autógrafo, ou alguma planta, desenho ou gráfico que 
 
 4 - [...].
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 Os mandados são passados em nome do juiz ou relator e a sua autoria pelo competente funcionário da secretaria é certificada nos termos do n.º 1 do artigo 160.º
 
-###### Artigo 204.º — [...]
+Artigo 204.º
+
+[...]
 
 1 - As operações de distribuição e registo previstas nos artigos subsequentes são integralmente realizadas por meios eletrónicos, os quais devem garantir aleatoriedade no resultado e igualdade na distribuição do serviço, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º
 
@@ -457,23 +537,31 @@ Os mandados são passados em nome do juiz ou relator e a sua autoria pelo compet
 
 3 - Os mandatários judiciais podem obter informação acerca do resultado da distribuição dos processos referentes às partes que patrocinam mediante acesso a página informática de acesso público do Ministério da Justiça, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - [...].
 
 2 - A verificação do disposto no número anterior é efetuada através de meios eletrónicos, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 A distribuição é efetuada duas vezes por dia, de forma automática.
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - [...].
 
 2 - Terminada a distribuição em todas as espécies, procede-se à publicação do resultado por meio de pauta disponibilizada automaticamente e por meios eletrónicos em página informática de acesso público do Ministério da Justiça, nos termos definidos na portaria prevista no n.º 2 do artigo 132.º
 
-###### Artigo 213.º — [...]
+Artigo 213.º
+
+[...]
 
 1 - Nas Relações e no Supremo Tribunal de Justiça, a distribuição é efetuada duas vezes por dia, de forma automática.
 
@@ -481,7 +569,9 @@ A distribuição é efetuada duas vezes por dia, de forma automática.
 
 3 - [...].
 
-###### Artigo 219.º — [...]
+Artigo 219.º
+
+[...]
 
 1 - [...].
 
@@ -503,7 +593,9 @@ b) Tratando-se de outras pessoas coletivas, tal se encontre previsto em protocol
 
 6 - As citações e as notificações realizadas nos termos do número anterior presumem-se efetuadas no 3.º dia posterior ao do seu envio para o sistema informático do citando ou notificando.
 
-###### Artigo 220.º — [...]
+Artigo 220.º
+
+[...]
 
 1 - [...].
 
@@ -513,13 +605,17 @@ b) Tratando-se de outras pessoas coletivas, tal se encontre previsto em protocol
 
 4 - Nas notificações efetuadas por via postal, a assinatura do funcionário responsável pela elaboração da notificação pode ser substituída por indicação do código identificador da notificação, bem como do endereço do sítio eletrónico do Ministério da Justiça no qual, através da inserção do código, é possível confirmar a autenticidade da notificação.
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - Nos processos em que as partes tenham constituído mandatário judicial, os atos processuais que devam ser praticados por escrito pelas partes após a notificação da contestação do réu ao autor são notificados pelo mandatário judicial do apresentante ao mandatário judicial da contraparte através do sistema de informação de suporte à atividade dos tribunais, nos termos previstos no artigo 255.º
 
 2 - Sem prejuízo da informação sobre a alteração do patrocínio constante do sistema de informação de suporte à atividade dos tribunais, o mandatário judicial que assuma o patrocínio na pendência do processo comunica o seu domicílio profissional e endereço de correio eletrónico ao mandatário judicial da contraparte.
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - [...].
 
@@ -539,7 +635,9 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 228.º — [...]
+Artigo 228.º
+
+[...]
 
 1 - [...].
 
@@ -561,11 +659,15 @@ c) [...].
 
 10 - A assinatura do funcionário judicial responsável pela elaboração da citação pode ser substituída por indicação do código identificador da citação, bem como do endereço do sítio eletrónico do Ministério da Justiça no qual, através da inserção do código, é possível confirmar a autenticidade da citação.
 
-###### Artigo 244.º — Registo da afixação do edital e publicação do anúncio
+Artigo 244.º
+
+Registo da afixação do edital e publicação do anúncio
 
 No processo deve constar informação relativa ao teor do anúncio e do edital, sendo registada no sistema de informação de suporte à atividade dos tribunais a identidade de quem efetuou a afixação do edital e os elementos relativos à sua afixação.
 
-###### Artigo 246.º — [...]
+Artigo 246.º
+
+[...]
 
 1 - Em tudo o que não estiver especialmente regulado na presente subsecção, à citação de pessoas coletivas aplica-se o disposto nas subsecções anteriores, com as necessárias adaptações.
 
@@ -579,7 +681,9 @@ No processo deve constar informação relativa ao teor do anúncio e do edital, 
 
 6 - Quando a citação for efetuada por via eletrónica, nos termos do n.º 5 do artigo 219.º, não é aplicável a dilação a que se refere o artigo anterior.
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 1 - [...].
 
@@ -595,13 +699,17 @@ No processo deve constar informação relativa ao teor do anúncio e do edital, 
 
 7 - A notificação à parte considera-se ainda efetuada, em qualquer circunstância, quando o notificando proceda à consulta eletrónica do processo, nos termos previstos na portaria prevista no n.º 2 do artigo 132.º
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - Os mandatários são notificados por via eletrónica nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, devendo o sistema de informação de suporte à atividade dos tribunais certificar a data da elaboração da notificação, presumindo-se esta feita no terceiro dia posterior ao do seu envio, ou no primeiro dia útil seguinte a esse, quando o não seja.
 
 2 - Sempre que por justo impedimento, determinado nos termos do artigo 140.º, não for possível ao mandatário aceder à área reservada do portal eletrónico onde são disponibilizadas as notificações, a notificação considera-se apenas efetuada quando for ultrapassado o justo impedimento.
 
-###### Artigo 249.º — [...]
+Artigo 249.º
+
+[...]
 
 1 - Se a parte não tiver constituído mandatário, as notificações são efetuadas nos termos previstos no n.º 5 do artigo 219.º, quando aplicável, ou por carta registada, dirigida para a sua residência ou sede ou para o domicílio escolhido para o efeito de as receber, presumindo-se, nestes casos, feita no terceiro dia posterior ao do registo da carta ou no primeiro dia útil seguinte a esse, quando o não seja.
 
@@ -615,7 +723,9 @@ No processo deve constar informação relativa ao teor do anúncio e do edital, 
 
 6 - Sem prejuízo do disposto nos n.os 3 e 4, a notificação considera-se ainda efetuada, em qualquer circunstância, quando o notificando proceda à consulta eletrónica do processo, nos termos previstos na portaria prevista no n.º 2 do artigo 132.º
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1 - As notificações que tenham por fim chamar ao tribunal testemunhas, peritos e outras pessoas com intervenção acidental na causa são efetuadas nos termos previstos no n.º 5 do artigo 219.º, quando aplicável, ou por meio de aviso expedido pelo correio, sob registo, indicando-se a data, o local e o fim da comparência.
 
@@ -625,17 +735,23 @@ No processo deve constar informação relativa ao teor do anúncio e do edital, 
 
 4 - [...].
 
-###### Artigo 252.º — [...]
+Artigo 252.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As notificações ao Ministério Público são efetuadas por via eletrónica, através do sistema de informação de suporte à atividade dos tribunais e presumem-se efetuadas no terceiro dia posterior ao do envio da notificação, ou no primeiro dia útil seguinte a esse, quando o não seja.
 
-###### Artigo 255.º — [...]
+Artigo 255.º
+
+[...]
 
 As notificações entre os mandatários judiciais das partes são realizadas por via eletrónica nos termos definidos na portaria prevista no n.º 2 do artigo 132.º, devendo o sistema de informação de suporte à atividade dos tribunais certificar a data da elaboração da notificação, presumindo-se esta feita no terceiro dia posterior ao do seu envio, ou no primeiro dia útil seguinte a esse, quando o não seja.
 
-###### Artigo 256.º — [...]
+Artigo 256.º
+
+[...]
 
 1 - [...].
 
@@ -647,13 +763,17 @@ As notificações entre os mandatários judiciais das partes são realizadas por
 
 5 - (Revogado.)
 
-###### Artigo 259.º — [...]
+Artigo 259.º
+
+[...]
 
 1 - A instância inicia-se pela proposição da ação e esta considera-se proposta, intentada ou pendente logo que a respetiva petição se considere apresentada nos termos dos n.os 1 e 6 do artigo 144.º
 
 2 - [...].
 
-###### Artigo 270.º — Suspensão por falecimento ou extinção da parte
+Artigo 270.º
+
+Suspensão por falecimento ou extinção da parte
 
 1 - [...].
 
@@ -665,19 +785,25 @@ As notificações entre os mandatários judiciais das partes são realizadas por
 
 5 - A informação relativa ao falecimento ou à extinção de qualquer das partes pode igualmente ser transmitida ao processo, de forma automática e eletrónica, pelas bases de dados dos registos civil e comercial.
 
-###### Artigo 271.º — [...]
+Artigo 271.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A prova do facto pode ser efetuada por transmissão de informação, de forma automática e eletrónica, pelas associações públicas profissionais, nos termos a estabelecer por protocolo entre o Ministério da Justiça e a associação pública profissional, ou pelas bases de dados do registo civil.
 
-###### Artigo 359.º — [...]
+Artigo 359.º
+
+[...]
 
 1 - A liquidação é deduzida mediante requerimento no qual o autor, conforme os casos, relaciona os objetos compreendidos na universalidade, com as indicações necessárias para se identificarem, ou especifica os danos derivados do facto ilícito e conclui pedindo quantia certa.
 
 2 - Sendo a liquidação deduzida mediante requerimento apresentado por uma das vias previstas nas alíneas a) e b) do n.º 7 do artigo 144.º, deve o requerimento referido no número anterior ser apresentado em duplicado.
 
-###### Artigo 360.º — [...]
+Artigo 360.º
+
+[...]
 
 1 - Nos casos em que a oposição à liquidação seja apresentada por uma das vias previstas nas alíneas a) e b) do n.º 7 do artigo 144.º, é a mesma formulada em duplicado.
 
@@ -687,7 +813,9 @@ As notificações entre os mandatários judiciais das partes são realizadas por
 
 4 - [...].
 
-###### Artigo 502.º — [...]
+Artigo 502.º
+
+[...]
 
 1 - As testemunhas residentes fora do concelho onde se encontra sediado o tribunal ou juízo são apresentadas pelas partes, nos termos do n.º 2 do artigo 507.º, quando estas assim o tenham declarado aquando do seu oferecimento, ou ouvidas por meio de equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real, a partir do tribunal, do juízo, de instalação do município ou da freguesia, quando protocolado, ou de outro edifício público da área da sua residência.
 
@@ -701,13 +829,17 @@ As notificações entre os mandatários judiciais das partes são realizadas por
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 507.º — [...]
+Artigo 507.º
+
+[...]
 
 1 - [...].
 
 2 - As testemunhas são apresentadas pelas partes, salvo se a parte que as indicou requerer, com a apresentação do rol, a sua notificação para comparência ou se forem inquiridas por teleconferência.
 
-###### Artigo 552.º — [...]
+Artigo 552.º
+
+[...]
 
 1 - Na petição, com que propõe a ação, deve o autor:
 
@@ -751,7 +883,9 @@ g) [...].
 
 14 - A alteração do domicílio profissional do mandatário judicial pode ser comunicada ao processo, automaticamente, pelas bases de dados das respetivas associações públicas profissionais.
 
-###### Artigo 558.º — [...]
+Artigo 558.º
+
+[...]
 
 1 - São fundamentos de rejeição da petição inicial os seguintes factos:
 
@@ -777,11 +911,15 @@ i) [Anterior alínea i) do corpo do artigo].
 
 3 - Sendo a petição inicial apresentada por uma das formas previstas nas alíneas a) a c) do n.º 7 do artigo 144.º, compete à secretaria recusar o recebimento da petição inicial, indicando por escrito o fundamento da rejeição.
 
-###### Artigo 560.º — [...]
+Artigo 560.º
+
+[...]
 
 Quando se trate de causa que não importe a constituição de mandatário, a parte não esteja patrocinada e a petição inicial seja apresentada por uma das formas previstas nas alíneas a) a c) do n.º 7 do artigo 144.º, o autor pode apresentar outra petição ou juntar o documento a que se refere a primeira parte do disposto na alínea f) do artigo 558.º, dentro dos 10 dias subsequentes à recusa de recebimento ou de distribuição da petição, ou à notificação da decisão judicial que a haja confirmado, considerando-se a ação proposta na data em que a primeira petição foi apresentada em juízo.
 
-###### Artigo 567.º — [...]
+Artigo 567.º
+
+[...]
 
 1 - [...].
 
@@ -789,7 +927,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 3 - [...].
 
-###### Artigo 570.º — [...]
+Artigo 570.º
+
+[...]
 
 1 - É aplicável à contestação, com as necessárias adaptações, o disposto nos n.os 7 e 8 do artigo 552.º, podendo o réu, se estiver a aguardar decisão sobre a concessão do benefício de apoio judiciário, comprovar apenas a apresentação do respetivo requerimento.
 
@@ -805,7 +945,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 7 - [...].
 
-###### Artigo 642.º — [...]
+Artigo 642.º
+
+[...]
 
 1 - Quando o pagamento da taxa de justiça devida ou a concessão do benefício do apoio judiciário não tiverem sido comprovados no momento definido para esse efeito, a secretaria notifica o interessado para, em 10 dias, efetuar o pagamento omitido, acrescido de multa de igual montante, mas não inferior a 1 UC nem superior a 5 UC.
 
@@ -813,7 +955,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 3 - [...].
 
-###### Artigo 646.º — [...]
+Artigo 646.º
+
+[...]
 
 1 - [...].
 
@@ -821,7 +965,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 3 - (Revogado.)
 
-###### Artigo 712.º — [...]
+Artigo 712.º
+
+[...]
 
 1 - [...].
 
@@ -829,7 +975,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 3 - Todas as consultas a realizar pelo agente de execução com vista à efetivação da penhora, bem como quaisquer comunicações entre este e os serviços judiciais ou outros profissionais do foro e entidades públicas, nomeadamente para ordenar a realização de penhoras, a sua modificação ou levantamento, são, em regra, realizadas por meios eletrónicos.
 
-###### Artigo 724.º — [...]
+Artigo 724.º
+
+[...]
 
 1 - [...].
 
@@ -845,7 +993,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 7 - Aplicam-se ao disposto no número anterior os n.os 9 e 10 do artigo 552.º, com as devidas adaptações.
 
-###### Artigo 773.º — [...]
+Artigo 773.º
+
+[...]
 
 1 - [...].
 
@@ -863,7 +1013,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 8 - Sendo o devedor uma entidade pública da Administração direta ou indireta do Estado, as comunicações entre o agente de execução e o devedor efetuadas no âmbito da penhora de créditos, incluindo a notificação referida no n.º 1, a declaração prevista no n.º 2 e as notificações previstas nos artigos 777.º e 779.º, são efetuadas, sempre que possível, por via eletrónica, preferencialmente de forma automática, e com as adaptações práticas que se revelem necessárias, nos casos e termos previstos em portaria dos membros do Governo responsáveis pela área da Justiça e pela entidade pública em causa.
 
-###### Artigo 779.º — Penhora de rendas, abonos, vencimentos, salários ou rendimentos periódicos
+Artigo 779.º
+
+Penhora de rendas, abonos, vencimentos, salários ou rendimentos periódicos
 
 1 - Quando a penhora recaia sobre rendas, abonos, vencimentos, salários ou outros rendimentos periódicos, incluindo prestações sociais e pensões, é notificado o locatário, o empregador ou a entidade que os deva pagar para que faça, nas quantias devidas, o desconto correspondente ao crédito penhorado e proceda ao depósito em instituição de crédito.
 
@@ -877,7 +1029,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 6 - Sendo a entidade pagadora uma entidade pública da Administração direta ou indireta do Estado, as comunicações entre o agente de execução e a entidade efetuadas ao abrigo do presente artigo são efetuadas, sempre que possível, por via eletrónica, preferencialmente de forma automática, e com as adaptações práticas que se revelem necessárias, nos casos e termos previstos em portaria dos membros do Governo responsáveis pela área da Justiça e pela entidade pública em causa.
 
-###### Artigo 922.º — [...]
+Artigo 922.º
+
+[...]
 
 1 - [...].
 
@@ -891,7 +1045,9 @@ Quando se trate de causa que não importe a constituição de mandatário, a par
 
 6 - Quando a pretensão seja deduzida por uma das formas previstas nas alíneas a) e b) do n.º 7 do artigo 144.º, o credor deve oferecer tantos duplicados quantos forem os outros credores citados.
 
-###### Artigo 982.º — [...]
+Artigo 982.º
+
+[...]
 
 1 - Findos os articulados e realizadas as diligências que o relator tenha por indispensáveis, é concedido o prazo de 15 dias, com exame do suporte físico do processo, se necessário, para alegações, às partes e ao Ministério Público.
 
@@ -919,12 +1075,14 @@ São revogados o n.º 5 do artigo 131.º, o n.º 3 do artigo 144.º, o n.º 6 do
 
 Visto e aprovado em Conselho de Ministros de 30 de maio de 2019. - Augusto Ernesto Santos Silva - Helena Maria Mesquita Ribeiro.
 
-**Promulgado em 19 de julho de 2019.**
+Promulgado em 19 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de julho de 2019.**
+Referendado em 23 de julho de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112467515

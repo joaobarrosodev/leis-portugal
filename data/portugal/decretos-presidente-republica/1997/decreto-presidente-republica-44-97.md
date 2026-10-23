@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/44/1997/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/44-1997-163596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5965bea47daaebe5454e5e318f4bdee7933d6f9c80da45aa71c64c64d06ef60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea46561a3a0392da86344e0f5ee69b2d7f8b0d45d4483ba1edd51a9916e8a1ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Exoneração
-- Missão Militar
 - Forças Armadas
+- Missão Militar
+- NATO
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:30Z'
   warnings: []
   errors: []
 ---
@@ -94,12 +102,12 @@ validation:
 
 de 25 de Junho
 
-**O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:**
+O Presidente da República decreta, nos termos da alínea c) do n.º 2 do artigo 29.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei n.º 18/95](https://diariodarepublica.pt/dr/detalhe/lei/18-1995-461220), de 13 de Julho, o seguinte:
 
 É exonerado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o general Manuel José Alvarenga de Sousa Santos do cargo de Representante Militar no Comité Militar da OTAN, em Bruxelas, com efeitos a partir de 31 de Julho de 1997.
 
-**Assinado em 6 de Junho de 1997.**
+Assinado em 6 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

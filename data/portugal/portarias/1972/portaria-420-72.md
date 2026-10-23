@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1972-675841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3526436587e90ba40bea6cf9467253f61424689495a92add052a0652c7b969b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2f83a18317649cb9243608087a4489fe046d230f069d2a9f1fc9f402f6f5b42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:291800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:06Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Fina
 
 Ministérios da Justiça e das Finanças, 6 de Julho de 1972. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, João Augusto Dias Rosas.
 
-## Anexo I à Portaria n.º 420/72
+Anexo I à Portaria n.º 420/72
 
 Regulamento Provisório do Exame de Aptidão para Revisor Oficial de Contas
 
@@ -230,9 +234,9 @@ As deliberações do júri constarão de acta, a lavrar em livro próprio, auten
 
 O exame de aptidão para revisor oficial de contas será válido pelo prazo de cinco anos.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, João Augusto Dias Rosas.
 
-## Anexo II à Portaria n.º 420/72
+Anexo II à Portaria n.º 420/72
 
 Programa provisório do exame de aptidão para revisor oficial de contas
 
@@ -276,4 +280,4 @@ c) Direito fiscal (teoria geral; regime dos diversos impostos);
 
 d) Disciplina legal dos revisores oficiais de contas.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Finanças, João Augusto Dias Rosas.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13500/15861587.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/370-1985-181438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c2b00d09cc545c544ecb5823353b85e577e7fdc634bf3bfea591ab27b1b8f44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ebb3a085f67c3aded85a96b3ac2e7bcedc32e34681c7ff68e2f8ae6cbbfcdb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Controlo de Qualidade
+- Etiquetagem
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:397133:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:328874:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518656:por
+  label: "Revogado pelo DEC LEI.137/95.1995.06.14.MA DR.IS-A [136]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1995-518656
+  date: '1995-06-14'
+- type: repealed_by
+  target: pt:dre:397133:por
+  label: "Revogada pelo Dec Lei.119/97.1997.05.15.MADRP, DR.IS-A [112]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1997-397133
+  date: '1997-05-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:25:13Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +168,6 @@ e) Valor cobrado.
 
 Ministérios da Agricultura e do Comércio e Turismo.
 
-**Assinada em 28 de Maio de 1985.**
+Assinada em 28 de Maio de 1985.
 
 Pelo Ministro da Agricultura, Carlos Alberto Antunes Filipe, Secretário de Estado do Comércio e Indústria Agrícolas. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.

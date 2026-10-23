@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2006/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2006-346359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bee2deee5e8f78b2c24fcf59814b70cd7a6482a4a60598f20317e133ef9fda2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5e2554b10598148b9281677569c99dc0764ea2df7e7e7649e1f1d0e7d4e68c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Controlo Sanitário
-- Saúde Pública
-- Higiene Alimentar
 - Alimentação Humana
-- Indústria Alimentar
+- Aproximação das Legislações
 - Comércio
+- Controlo Sanitário
+- Higiene Alimentar
+- Indústria Alimentar
+- Produto Alimentar
 - Produto Animal
-- Troca Intracomunitária
 - Saúde Animal
+- Saúde Pública
+- Troca Intracomunitária
 relationships:
 - type: cites
   target: celex:31989L0662
@@ -126,14 +126,14 @@ relationships:
   source: http://data.europa.eu/eli/reg/2004/854/oj
 article_structure:
   article_count: 8
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:01Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +204,7 @@ O anexo I do Regulamento dos Controlos Veterinários Aplicáveis ao Comércio In
 
 «ANEXO I
 
-### CAPÍTULO I
+CAPÍTULO I
 
 1 - Decreto-Lei n.º 163/2005, de 22 de Setembro, que estabelece as regras de polícia sanitária aplicáveis à produção, transformação, distribuição e introdução de produtos de origem animal destinados ao consumo humano.
 
@@ -230,7 +230,7 @@ O anexo I do Regulamento dos Controlos Veterinários Aplicáveis ao Comércio In
 
 12 - (Revogado.)
 
-### CAPÍTULO II
+CAPÍTULO II
 
 1 - Decreto-Lei n.º 18/95, de 27 de Janeiro, que transpõe para a ordem jurídica nacional a Directiva n.º [92/118/CEE](https://data.europa.eu/eli/dir/1992/118/oj?locale=pt), do Conselho, de 17 de Dezembro, que define as condições sanitárias e de polícia sanitária que regem, na Comunidade, o comércio e as importações de produtos não sujeitos às regulamentações comunitárias específicas referidas no presente anexo, ou referidas, quanto aos agentes patogénicos, no capítulo I do anexo A da Portaria n.º 575/93, de 4 de Junho.
 
@@ -324,12 +324,12 @@ O presente decreto-lei entra em vigor na mesma data da entrada em vigor das norm
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 24 de Maio de 2006.**
+Promulgado em 24 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 1 de Junho de 2006.**
+Referendado em 1 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

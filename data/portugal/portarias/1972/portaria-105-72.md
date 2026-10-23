@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/105-1972-399040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d15b756fa7f4da8e86c43a722557f1c4c4b520134b685ff5c4529aa1db9e8047
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d5787bb69904a2bd0397d16ad4368923b31a104662cae0d38c1fb0f3f52d7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:33Z'
   warnings: []
   errors: []
 ---
@@ -86,4 +86,4 @@ de 22 de Fevereiro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do artigo 318.º do Estatuto Judiciário, seja criado o lugar de oficial porteiro do Palácio de Justiça de Vila Verde.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

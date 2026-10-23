@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1978-446087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:32:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52a497600cdc3f5d82be576f17165c0293c89d5a7fb07b31091fbff58aeb7cf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2d5e35ab4470f075ebc33c26487fe9bbe8f698e2c1a08f7c9d96bc79a55096d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:32:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
+- Sinalização
 relationships:
 - type: amended_by
   target: pt:dre:406289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446962:por
+  label: Rectificados os n.ºs 1.º e 5.º pelo(a) Declaração - Diário da República n.º 77/1978, Série I de 1978-04-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446962
+  date: '1978-04-03'
+- type: repealed_by
+  target: pt:dre:508445:por
+  label: "Revogado o n.º 1 pela PORT.67/91.25.01.1991.SETR-MOPTC, DR.IS-B [21] de 25.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-1991-508445
+  date: '1991-01-25'
+- type: repealed_by
+  target: pt:dre:406289:por
+  label: "Revogada pela PORT.46-A/94.17.01.1994.MAI, DR.IS-B [13]Supl de 17.01.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/46-a-1994-406289
+  date: '1994-01-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:32:56Z'
   warnings: []
   errors: []
 ---
@@ -262,26 +287,26 @@ SINAIS
 
 A) SINAIS DE PERIGO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
 
 B) SINAIS DE PROIBIÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
 
 C) SINAIS DE OBRIGAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
 
 D) SINAIS DE INFORMAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
 
 QUADRO II
 
 PAINÉIS ADICIONAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
 
 QUADRO DAS DIMENSÕES DOS PAINEIS ADICIONAIS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05000/04240435.pdf)

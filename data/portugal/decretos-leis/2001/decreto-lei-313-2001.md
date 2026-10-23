@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/284a00/80248027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/2001/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2001-576277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baf26dd1006d4e8de3536758e644014b908267f3a258436369fc5a930db94d2c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a90ba68297906fbc367ff14e9abd4c5b732971cc9fa5e1a4d514b6d228d3bdea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Co-geração
 - Energia Elétrica
-- Instalação de Co-geração
 - Energia Térmica
 - Equipamento Eléctrico
-- Co-geração
+- Instalação de Co-geração
 - Preço
 - TAXA de Prestação de Serviços
 relationships:
@@ -82,16 +82,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/538/1999/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/538/1999/12/13/p/dre
+- type: cites
+  target: pt:dre:632933:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303468:por
+  label: "Rectificado pelo DECL-RECT.8-B/2002.2002.02.28.PCM, DR.IS-A [50]2ºSupl. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-b-2002-303468
+  date: '2002-02-28'
+- type: repealed_by
+  target: pt:dre:611330:por
+  label: "Revogado, a partir de 30.03.2010, o Dec Lei 538/99, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.23/2010.25.03.2010.MEID,\
+    \ DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2010-611330
+  date: '2010-03-25'
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:30Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +157,9 @@ e) ...
 
 f) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para efeitos do presente diploma, a instalação de co-geração deve verificar as seguintes condições:
 
@@ -186,7 +203,9 @@ REE >= 0,45 para as instalações utilizando como combustível fuelóleo;
 
 REE >= 0,40 para as instalações utilizando como combustível biomassa ou combustíveis residuais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +221,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A energia eléctrica produzida pela instalação de co-geração pode ser fornecida, prioritariamente ao estabelecimento que seja o principal consumidor da energia térmica produzida pelo co-gerador.
 
@@ -214,7 +235,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 a) ...
 
@@ -224,7 +247,9 @@ c) Que o co-gerador tenha contratos de venda de energia eléctrica e ou de energ
 
 d) Que o co-gerador tenha, no âmbito do respectivo processo de autorização, comprovado que a solução de gestão conjunta de energia corresponde a menores consumos globais de energia primária e a menores custos de investimento e exploração do que os que resultariam de instalações energéticas separadas, integrando as existentes ou a construir, sem a gestão conjunta.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +281,9 @@ b) ...
 
 c) ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +315,9 @@ c) Revogado.
 
 12 - ...
 
-###### Artigo 27.º — Situações existentes
+Artigo 27.º
+
+Situações existentes
 
 1 - A legislação em vigor à data da publicação deste diploma continua a ser aplicável às instalações de co-geração já existentes nessa data, bem como aos projectos de construção e exploração de novas instalações de co-geração que tenham sido apresentados até àquela data, e cujo processo seja considerado pela DGE completamente instruído na parte que compete aos respectivos proponentes.
 
@@ -298,7 +327,9 @@ c) Revogado.
 
 4 - Quando para reunir as condições adequadas à transição para o regime estabelecido no presente diploma se verificar que uma instalação de co-geração venha a sofrer uma conversão de combustível ou actualização tecnológica de que resulte um investimento superior a 10% do preço de substituição por um equipamento novo, pode o co-gerador solicitar à DGE uma prorrogação proporcional ao investimento realizado do período da aplicação do tarifário definido nos termos do n.º 4 do artigo 10.º, correspondente ao período normal de recuperação dos investimentos.
 
-###### Artigo 28.º — Regime de opção
+Artigo 28.º
+
+Regime de opção
 
 1 - As instalações de co-geração que se encontrem nas condições previstas no n.º 1 do artigo anterior podem aceder ao regime previsto no presente diploma, devendo, para tanto, informar a DGE dessa pretensão, no prazo de 12 meses contados a partir da data de entrada em vigor da portaria prevista no artigo 10.º que lhe seja aplicável.
 
@@ -310,12 +341,12 @@ As instalações de co-geração autorizadas ao abrigo da legislação em vigor 
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 27 de Novembro de 2001.**
+Promulgado em 27 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Novembro de 2001.**
+Referendado em 29 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

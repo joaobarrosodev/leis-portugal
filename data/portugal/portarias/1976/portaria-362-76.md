@@ -46,40 +46,126 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-1976-427098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:02:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67a06ef9240592ee7087fda91a24457fe78609c1178d6bfd044f1b5841919f77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5321a695e590faa01cd609b3250c0e7aa821d7ff76d5b9fcccbb13362f3446e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:02:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:1687197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADA EM PARTE PELA PORTARIA 325/92IIS, PUBLICADA NO DR.IIS, 248, DE 921027. DERROGADA EM PARTE PELA PORTARIA\
+    \ 40/93IIS, PUBLICADA NO DR.IIS, 24, DE 930129. DERROGADA EM PARTE PELA PORTARIA 54/93/IIS, PUBLICADA NO DR.IIS, 39, DE\
+    \ 930216.\039, DE 930216.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
+  target: pt:dre:299013:por
+  label: Derrogado, no tocante ao prédio descrito sob o n.º 6, da presente Portaria, pelo(a) Portaria n.º 477/78 - Diário
+    da República n.º 192/1978, Série I de 1978-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1978-299013
+  date: '1978-08-22'
+- type: amended_by
+  target: pt:dre:325923:por
+  label: Derrogada quanto aos prédios rústico S. Domingos da Ordem e Montinho e Sancha Ladra pelo(a) Portaria n.º 657/78 -
+    Diário da República n.º 262/1978, Série I de 1978-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/657-1978-325923
+  date: '1978-11-14'
+- type: amended_by
+  target: pt:dre:1863828:por
+  label: "Derrogada, na parte em que expropria a área de 175,8002 ha do prédio rústico denominado \"Abegoaria\", pela PORT.DD344.02.08.1990.PCM,\
+    \ DR.IIS [177] de 02.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1990-1863828
+  date: '1990-08-02'
+- type: amended_by
+  target: pt:dre:3538855:por
+  label: "Derrogada, na parte em que se refere á expropriação do prédio rústico denominado «Passanha», concelho do Redondo,\
+    \ pela PORT.421/91 (2.ª série).28.12.1991.PCM, DR.IIS [299] de 28.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/421-1991-3538855
+  date: '1991-12-28'
+- type: amended_by
+  target: pt:dre:1542642:por
+  label: "Derrogada em parte pela PORT 795/97(2ªSÉRIE)1997.10.07, da PCM e MADRP, DR.IIS [240] de 16/Out/1997\097\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/795-1997-1542642
+  date: '1997-10-07'
+- type: amended_by
+  target: pt:dre:1932476:por
+  label: "Derrogada relativamente ao prédio rústico denominado \"Tabolinas\" pela PORT.428/99(2ªSÉRIE).1999.04.09.PCM DR.IIS\
+    \ [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-1999-1932476
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:3456767:por
+  label: "Derrogada na parte relativa ao prédio rústico denominado \"Matineiros da Serra\" pela PORT.631/99(2ªSÉRIE).1999.06.01.PCM\
+    \ DR.IIS [141] de 19/Jun/1999a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1999-3456767
+  date: '1999-06-01'
+- type: amended_by
+  target: pt:dre:2743744:por
+  label: "Derrogada na parte relativa ao prédio rústico denominado \"Matineiros da Serra\", pelo DESP.1314/99(2ªSÉRIE).1999.11.25.PCM,\
+    \ DR.IIS [295] de 21/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1314-1999-2743744
+  date: '1999-11-25'
+- type: amended_by
+  target: pt:dre:1943281:por
+  label: "Corrigida pela PORT.465/2000(2ªSÉRIE).2000.03.15.PCM, DR.IIS [75] de 29/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/465-2000-1943281
+  date: '2000-03-15'
+- type: amended_by
+  target: pt:dre:2666026:por
+  label: "Derrogado relativamente ao prédio rústico denominado \"Casbarra\" pela PORT.110/2001(2ªSÉRIE).2001.01.15.PCM DR.IIS\
+    \ [26[] de 31/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2001-2666026
+  date: '2001-01-15'
+- type: amended_by
+  target: pt:dre:2757607:por
+  label: "Derrogada, em relação ao prédio rústico denominado Casbarra, pela PORT.1603/2002(2ªSÉRIE).2002.10.22.PCM, DR.IIS\
+    \ [256] de 6/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1603-2002-2757607
+  date: '2002-10-22'
+- type: amended_by
+  target: pt:dre:1687197:por
+  label: "Derrogada parte pela PORT.338/2004(2ªSérie).11.03.2004.PCM, DR.IIS [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-2004-1687197
+  date: '2004-03-11'
+- type: cites
+  target: pt:dre:312185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:02:46Z'
   warnings: []
   errors: []
 ---

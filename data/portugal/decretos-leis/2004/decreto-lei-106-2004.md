@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/106/2004/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2004-302525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd63bdc5aed785af187c57884e3220b6b79a952290f05bf098c57b85a952b967
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6306d846c6eb8c7b49e0ba4a12051b72d66f7e221da11289cc8ab81a729a5a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Acidente de Transporte
 - Acreditação
-- Embarcação
-- Instituto Portuário e dos Transportes Marítimos
 - Contra-ordenação
 - Definição de Competências
-- Segurança das Embarcações
+- Embarcação
 - Fiscalização
+- Instituto Portuário e dos Transportes Marítimos
 - Londres
+- Navegação Marítima
 - OMI
 - Regulamento de Inspecção de Navios Estrangeiros
 - Salvaguarda da VIDA Humana no MAR
+- Segurança das Embarcações
 - Segurança Marítima
 - Vistoria
-- Navegação Marítima
 relationships:
 - type: amended_by
   target: pt:dre:553057:por
@@ -122,16 +122,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec/51/1999/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/51/1999/11/18/p/dre
+- type: cites
+  target: pt:dre:233306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553057:por
+  label: "Revogado o art. 15º pela LEI.18/2012.07.05.2012.AR, DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/18-2012-553057
+  date: '2012-05-07'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:00Z'
   warnings: []
   errors: []
 ---
@@ -374,12 +431,12 @@ Os certificados emitidos antes da entrada em vigor deste diploma mantêm-se vál
 
 Visto e aprovado em Conselho de Ministros de 24 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 26 de Abril de 2004.**
+Promulgado em 26 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Abril de 2004.**
+Referendado em 27 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

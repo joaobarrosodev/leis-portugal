@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/17100/14981498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-1978-297025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7b3d7637d2537259aae597eb373a6fee9ec296f0bb84cf5052e9f37571ba91b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 922b1eeb6c684a5224457d21f87cd5a58655d1fcff4058c1c97098afb01bf45c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe do Estado Maior da Armada
+- Escola Naval
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Instituto Hidrográfico
+- Marinha
+relationships:
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:40:37Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +101,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, ao abrigo
 
 1.º No EOA, o artigo 101.º passa a ter a seguinte redacção:
 
-###### Art. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por guardas-marinhas, segundos-tenentes ou primeiros-tenentes com menos de dois anos de posto da classe de marinha. Os cursos de especialização em hidrografia e em navegação são frequentados, em regra, por segundos-tenentes ou primeiros-tenentes da classe de marinha. O curso de especialização em informática é frequentado por segundos-tenentes ou primeiros-tenentes da classe de marinha, dos engenheiros maquinistas navais e de administração naval.
+Art. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por guardas-marinhas, segundos-tenentes ou primeiros-tenentes com menos de dois anos de posto da classe de marinha. Os cursos de especialização em hidrografia e em navegação são frequentados, em regra, por segundos-tenentes ou primeiros-tenentes da classe de marinha. O curso de especialização em informática é frequentado por segundos-tenentes ou primeiros-tenentes da classe de marinha, dos engenheiros maquinistas navais e de administração naval.
 
 2.º No mapa que consta do artigo 16.º do EOA é introduzida entre as especializações de electrotecnia e submarinos a especialização de navegação, a que corresponde a letra designativa N, e «marinha», como classe em que pode ser obtida.
 

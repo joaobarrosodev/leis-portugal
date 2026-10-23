@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/441-1971-635577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e60183ac544440fba2675056ada3a7c5e6cd703f408c2424cc532b0e3fc6ee3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f164f3e7ea04e9d1dbeedb1519f8b0e59938eca5f99b37de50f9b0e547732900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:03Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +129,7 @@ Açúcar comum (refinado ou em rama).
 
 ...
 
-###### Art. 66.º Os objectos de peso até 3000 kg e de comprimento superior a 6,5 m, nas linhas de via larga, e 5 m, nas de via reduzida, que não caibam na caixa do vagão, são taxados pelos preços que lhes correspondam, segundo a classificação geral, com sujeição, porém, aos mínimos de peso a seguir indicados ou pagando como tal:
+Art. 66.º Os objectos de peso até 3000 kg e de comprimento superior a 6,5 m, nas linhas de via larga, e 5 m, nas de via reduzida, que não caibam na caixa do vagão, são taxados pelos preços que lhes correspondam, segundo a classificação geral, com sujeição, porém, aos mínimos de peso a seguir indicados ou pagando como tal:
 
 10 t para os objectos até 14 m, na via larga, ou 10,5 m, na via reduzida;
 
@@ -133,7 +137,7 @@ Açúcar comum (refinado ou em rama).
 
 ...
 
-###### Art. 69.º Os volumes de peso superior a 20000 kg ou de comprimento superior a 21 m, na via larga, e 16 m, na via reduzida, só são aceites para transporte mediante ajuste prévio.
+Art. 69.º Os volumes de peso superior a 20000 kg ou de comprimento superior a 21 m, na via larga, e 16 m, na via reduzida, só são aceites para transporte mediante ajuste prévio.
 
 ...
 
@@ -149,7 +153,7 @@ Vagões completos e transportes a granel
 
 Mercadorias
 
-###### Art. 97.º São considerados carregamentos de vagão completo aqueles que, por cada vagão empregado, atinjam o peso mínimo de 5000 kg ou paguem por este mínimo.
+Art. 97.º São considerados carregamentos de vagão completo aqueles que, por cada vagão empregado, atinjam o peso mínimo de 5000 kg ou paguem por este mínimo.
 
 O mínimo de 5000 kg é substituído pelo fixado na classificação geral, quando este for inferior.
 
@@ -159,10 +163,10 @@ Quando o carregamento seja constituído por diferentes mercadorias e a alguma ou
 
 § 5.º Não é aplicável às remessas referidas neste artigo o aumento de 50 por cento previsto no § 1.º do artigo 28.º e no artigo 64.º
 
-###### Art. 97.º - bis. As remessas de vagão completo transportadas ao abrigo desta tarifa, cujas operações de carga ou de descarga, por qualquer circunstância, hajam de ser feitas pelas empresas, são taxadas pelos preços que lhes correspondam aumentados de 10 por cento.
+Art. 97.º - bis. As remessas de vagão completo transportadas ao abrigo desta tarifa, cujas operações de carga ou de descarga, por qualquer circunstância, hajam de ser feitas pelas empresas, são taxadas pelos preços que lhes correspondam aumentados de 10 por cento.
 
-###### Art. 98.º As mercadorias não acondicionadas a que caiba a designação «a granel», isto é, as que possam ser removidas à pá ou se apresentem fragmentadas de forma que não seja prática a contagem dos volumes, as que, também por falta de acondicionamento, sejam susceptíveis de prejudicarem outras que sigam no mesmo vagão ou de com estas se misturarem, e bem assim as que ocupem a capacidade total do vagão onde forem carregadas, só são aceites para transporte, pelos preços desta tarifa, por carregamentos de vagão completo do peso mínimo de 5000 kg ou pagando como tal.
+Art. 98.º As mercadorias não acondicionadas a que caiba a designação «a granel», isto é, as que possam ser removidas à pá ou se apresentem fragmentadas de forma que não seja prática a contagem dos volumes, as que, também por falta de acondicionamento, sejam susceptíveis de prejudicarem outras que sigam no mesmo vagão ou de com estas se misturarem, e bem assim as que ocupem a capacidade total do vagão onde forem carregadas, só são aceites para transporte, pelos preços desta tarifa, por carregamentos de vagão completo do peso mínimo de 5000 kg ou pagando como tal.
 
 O mínimo de 5000 kg é substituído pelo fixado na classificação geral, quando este for inferior.
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

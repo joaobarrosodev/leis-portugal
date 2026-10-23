@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13200/0436904370.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2009/07/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2009-492396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a2964e3cc984b28dbfb0dfcfc3695dbd84e5460b1e55df3ac8d45ed02cfdc4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de33db514c2405e4c9fb7861751a66ada77fa5c1253ea317873add689ff7f77c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Comissão de Fiscalização
-- Gestão Financeira
 - Conselho Consultivo Regional
 - Conselho de Administração
+- Conselho Diretivo
 - Definição de Competências
 - Delegação Regional
-- Gestão do Património
-- Conselho Diretivo
-- Orgânica
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Instituto do Emprego e Formação Profissional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:179782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego do Instituto do Emprego e da Formação Profissional,\
+    \ I.P.(IEFP, I.P.), anteriormente dependente do extinto Ministério do Trabalho e da Solidariedade Social, cuja orgânica\
+    \ foi aprovada pelo Dec Lei 213/2007 de 29-Mai, posteriormente alterado pelo presente diploma, e estabelecido que o exercício\
+    \ de superintendência e tutela é articulado com o Ministro da Solidariedade e da Segurança Social, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
   label: null
@@ -98,16 +107,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638534:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:179782:por
+  label: "Revogado, a partir de 01.08.2012, o Dec Lei 213/2007, de 29-maio, na redação do presente diploma, pelo DEC LEI.143/2012.11.07.2012.MEE,\
+    \ DR.IS [133] de 11.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2012-179782
+  date: '2012-07-11'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:41Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +213,9 @@ o) Realizar acções de acompanhamento, verificação e auditoria aos apoios, fi
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São órgãos centrais do IEFP, I. P.:
 
@@ -262,12 +295,12 @@ Visto e aprovado em Conselho de Ministros de 30 de Abril de 2009.
 
 José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 26 de Junho de 2009.**
+Promulgado em 26 de Junho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Julho de 2009.**
+Referendado em 1 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

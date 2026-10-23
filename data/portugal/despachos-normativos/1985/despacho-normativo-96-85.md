@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/10/23300/33433343.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/96-1985-178338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T07:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5c8dfb0793ae474adb85678f888bd850d35056b61cf63d2b2939ece951ea0bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03ebb7296b1365d6167da99e95ff53cc719f0ea5972101ccc9cb163fefd1c21b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comparticipações da Segurança Social
+- IPSS
+- Jardim de Infância
+- Lares
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:228638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:325079:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228638:por
+  label: "Revogado pelo DN.49/86.22.05.1986.MTSS, DR.IS [140] de 21.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-1986-228638
+  date: '1986-06-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:33:57Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +112,7 @@ Determino, ao abrigo do artigo 202.º, alínea c), da Constituição, o seguinte
 
 1 - Os valores do quadro constante do n.º 1 da nota I do [Despacho Normativo n.º 20/85](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1985-325079), de 4 de Abril, passam a ser os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/23300/33433343.pdf))](https://files.diariodarepublica.pt/1s/1985/10/23300/33433343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/23300/33433343.pdf)
 
 2 - O presente despacho normativo produz efeitos desde 1 de Setembro de 1985.
 

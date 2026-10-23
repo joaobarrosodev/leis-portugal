@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 242/1967, 1º Suplemento, Série I de 1967-10-17
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1833 - 1859
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/24201/18331859.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22966-1967-318914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de07d2f1b6ead41728cf350155fbf9f82bb3e7dd5801f54348e63edbb9b0d50f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7f7e6910e60a76d20700a3c75dfb49ac13eeeafee12a2fb7e6da432986baead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:480165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:53Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +122,7 @@ Reconhecimento prático da divisão de um texto em parágrafos, dos parágrafos 
 
 Reconhecimento prático da ligação das proposições por meio de certos pronomes, advérbios e conjunções, só em casos muito simples e muito claros. Pronomes e advérbios relativos; conjunções coordenativas e subordinativas (temporais, causais e finais).
 
-##### Divisão de período em proposições. Noção de proposições coordenadas e subordinadas. As proposições coordenadas independentes.
+Divisão de período em proposições. Noção de proposições coordenadas e subordinadas. As proposições coordenadas independentes.
 
 Continuação do estudo do verbo e seus complementos. O grupo sujeito, o grupo predicado, o grupo complemento. O complemento indirecto em casos muito simples e incontroversos. Complementos circunstanciais de lugar, de modo, fim, de tempo, de causa e de companhia. Revisão do estudo dos nomes e dos pronomes. Expressões substantivadas. As formas de complemento dos pronomes pessoais. Estudo dos advérbios e das preposições necessárias ao reconhecimento dos complementos circunstanciais indicados. Numerais multiplicativos e partitivos. Colectivos numerais.
 
@@ -204,7 +212,7 @@ Exercícios variados sobre vocabulário, interpretação, transformação de fra
 
 Noções gramaticais, devidamente graduadas, fornecidas pelos textos;
 
-## Apêndice com quadros de consulta.
+Apêndice com quadros de consulta.
 
 B) Dicionário elementar da língua portuguesa.
 
@@ -396,7 +404,7 @@ Paralelogramos rectângulos e obliquângulos; o losango e o quadrado. Construç�
 
 Papéis quadriculados. Sua utilização para fazer construções em que intervenham paralelas e perpendiculares, sem se recorrer ao esquadro.
 
-##### Divisão de circunferências em 3, 4, 5, 6, 8, 9, 10 e 12 partes iguais com emprego do transferidor. Construção de polígonos regulares a partir destas divisões.
+Divisão de circunferências em 3, 4, 5, 6, 8, 9, 10 e 12 partes iguais com emprego do transferidor. Construção de polígonos regulares a partir destas divisões.
 
 VI
 
@@ -446,11 +454,11 @@ A divisão exacta como operação inversa da multiplicação. Aplicação à res
 
 Propriedade distributiva da divisão exacta relativamente à adição e à subtracção; aplicações à divisão mental.
 
-##### Divisão de inteiros a menos de 1 unidade; de 0,1; de 0,01; etc.
+Divisão de inteiros a menos de 1 unidade; de 0,1; de 0,01; etc.
 
-##### Divisão de decimal por inteiro a menos de 1 unidade; de 0,1; de 0,01; etc.
+Divisão de decimal por inteiro a menos de 1 unidade; de 0,1; de 0,01; etc.
 
-##### Divisão de decimal por decimal a menos de 1 unidade; de 0,1; de 0,01; etc.
+Divisão de decimal por decimal a menos de 1 unidade; de 0,1; de 0,01; etc.
 
 Igualdade fundamental da divisão. Prova.
 
@@ -458,7 +466,7 @@ Determinação de uma das dimensões de um rectângulo quando se conhece a área
 
 Média aritmética de vários números.
 
-##### Divisão mental por 20, por 4, por 6 e por 9, obtida por divisões sucessivas.
+Divisão mental por 20, por 4, por 6 e por 9, obtida por divisões sucessivas.
 
 Determinação de uma das dimensões de um paralelepípedo rectângulo quando se conhece a sua área e as outras duas dimensões.
 
@@ -1202,9 +1210,9 @@ D. O. M. - Modelo constituído por massas paralelepipédicas simples (caixas, ca
 
 D. G. - Utilização do papel quadriculado com os objectivos seguintes:
 
-##### Divisão de rectângulos em partes iguais;
+Divisão de rectângulos em partes iguais;
 
-##### Divisão de um segmento de recta em duas partes iguais, em quatro, em oito ou outras possíveis;
+Divisão de um segmento de recta em duas partes iguais, em quatro, em oito ou outras possíveis;
 
 Levantamento de perpendiculares em segmentos de recta;
 
@@ -1214,9 +1222,9 @@ Exercícios de esquadria de papel;
 
 Construções: de um triângulo equilátero, dado o lado; de um triângulo isósceles, dada a base e um dos outros dois lados; de um triângulo escaleno, dados os três lados (condições de possibilidade);
 
-##### Divisão de uma circunferência em duas, três, quatro, seis e oito partes iguais; construção dos polígonos regulares inscritos, de três, quatro, seis e oito lados;
+Divisão de uma circunferência em duas, três, quatro, seis e oito partes iguais; construção dos polígonos regulares inscritos, de três, quatro, seis e oito lados;
 
-##### Divisão de um segmento de recta em qualquer número de partes iguais;
+Divisão de um segmento de recta em qualquer número de partes iguais;
 
 Exercícios sobre simetria, especialmente em polígonos regulares;
 
@@ -1290,11 +1298,11 @@ Construção de triângulos isósceles, dada a base e um dos outros dois lados;
 
 Construção de triângulos escalenos, dados os três lados (condição de possibilidade);
 
-##### Divisão de circunferências em duas, três, quatro, seis e oito partes iguais;
+Divisão de circunferências em duas, três, quatro, seis e oito partes iguais;
 
 Construção dos polígonos regulares inscritos de três, quatro, seis e oito lados;
 
-##### Divisão de segmentos de recta em qualquer número de partes iguais.
+Divisão de segmentos de recta em qualquer número de partes iguais.
 
 III) Exercícios finais
 
@@ -1960,7 +1968,7 @@ Sentido da posição dos sons na pauta (nas linhas e nos espaços).
 
 Sentido do movimento dos sons na escrita (subir, descer, permanecer, soltar).
 
-Sinais representativos da altura e duração (notas, figuras rítmicas [([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/24201/18331859.pdf))](https://files.diariodarepublica.pt/1s/1967/10/24201/18331859.pdf) e respectivas pausas).
+Sinais representativos da altura e duração (notas, figuras rítmicas [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/24201/18331859.pdf) e respectivas pausas).
 
 Formas rítmicas elementares.
 

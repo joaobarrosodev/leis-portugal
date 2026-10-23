@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 10/1985, 1º Suplemento, Série I de 1985-01-12
   number: '10'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 72-(12) a 72-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/01/01001/00120013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-j-1985-162785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:23:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bba8f55f0bf5b07ae78d57f7ac73fc37c1d5562391fd48e7d24984b69a3c4b04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3ae2b48b4c689c9f81d3be0116a12357922bd844fe445b934ff308c82db758e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:23:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Direcção Geral da Concorrência e Preços
+- Fertilizante
+- Política de Preços
+- Preço
+- Preço de Venda
+- Preço Máximo
+- Transporte
 relationships:
 - type: amended_by
   target: pt:dre:249491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249491:por
+  label: "Revogada pela PORT.894-D/85.23.11.1985.MF, DR.IS [270]Supl de 23.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/894-d-1985-249491
+  date: '1985-11-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:23:32Z'
   warnings: []
   errors: []
 ---
@@ -130,10 +151,10 @@ c) Os encargos resultantes da venda a prazo nos termos da [Portaria n.º 191/84]
 
 Ministério das Finanças e do Plano, da Agricultura, da Indústria e Energia e do Comércio e Turismo.
 
-**Assinada em 10 de Janeiro de 1985.**
+Assinada em 10 de Janeiro de 1985.
 
 Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Energia, José Veiga Simão. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.
 
 Quadro anexo a que se referem os n.os 1, 2 e 8 do n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/01/01001/00120013.pdf))](https://files.diariodarepublica.pt/1s/1985/01/01001/00120013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/01/01001/00120013.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09500/0309903107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/111/2009/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2009-608697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eddfeadfe7a2db32ccd9126c5996186743890afa8f29706b87292b3cf393ef30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87d92e2f661b3bb8d0afa548333ce150bfa55467aa3f02970ce0bf0b2ceec974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,29 @@ reuse:
 subjects:
 - Acreditação
 - Assembleia Geral
-- Sociedade Anónima
-- Fiscal Único
+- Autoridade Nacional de Segurança Rodoviária
 - Capital Social
+- Conselho Consultivo
 - Conselho de Administração
 - Constituição de Sociedade
 - Contrato de Concessão
 - EP-Estradas de Portugal
+- Equipamento de Veículo
 - Equipamento Eletrónico
 - Estatuto
+- Fiscal Único
 - Fiscalização
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Conselho Consultivo
-- Veículo
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Equipamento de Veículo
-- Portagem
-- Sistema de Informação
-- Taxa
-- Tráfego Rodoviário
 - Instituto de Infra-Estruturas Rodoviárias
 - Matrícula
+- Portagem
+- Segurança Rodoviária
 - SIEV
+- Sistema de Informação
+- Sociedade Anónima
+- Taxa
+- Tráfego Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25344766:por
@@ -112,16 +112,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2008/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2008/09/16/p/dre
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25344766:por
+  label: "Revogado o presente diploma, nos termos do art. 8º, pelo DEC LEI.76/2014.14.05.2014.MECO, DR.IS [92] de 14.05.2014,,\
+    \ que dissolve a SIEV - Sistema de Identificação Eletrónica de Veículos, S.A e integra as respetivas atribuições na Autoridade\
+    \ da Mobilidade e dos Transportes (AMT)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2014-25344766
+  date: '2014-05-14'
 article_structure:
   article_count: 34
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:59Z'
   warnings: []
   errors: []
 ---
@@ -210,15 +237,15 @@ Considera-se convocada a assembleia geral da sociedade, sem necessidade de cumpr
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Maio de 2009.**
+Promulgado em 2 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Maio de 2009.**
+Referendado em 4 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — ESTATUTOS DA SIEV, S. A.
 
@@ -456,15 +483,21 @@ b) Extraordinariamente, sempre que o presidente, por sua iniciativa ou a solicit
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão tem por conteúdo a exploração e a gestão, em regime de exclusivo, do sistema de identificação electrónica de veículos.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 A actividade da concessão compreende os serviços de gestão de normas e processos do sistema de identificação electrónica de veículos, de autorização e fiscalização de utilizadores do sistema, de gestão dos dispositivos electrónicos de matrícula e certificação de tecnologia, de gestão de eventos de tráfego públicos, para efeitos de cobrança de portagens e outras taxas rodoviárias, de gestão de sistemas de informação relativas à actividade que desenvolve, a aprovação e fiscalização de sistemas de identificação automáticas de dispositivos electrónicos de matrícula [road side equipment (RSE)], a exploração de RSE próprios e a regulamentação e fiscalização do sistema de cobrança electrónica de portagens.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária obriga-se a assegurar, de forma regular, contínua e eficiente, o serviço público de identificação electrónica de veículos.
 
@@ -474,27 +507,37 @@ A actividade da concessão compreende os serviços de gestão de normas e proces
 
 4 - No caso de se verificarem benefícios para a concessionária decorrentes de alterações significativas das condições de gestão e exploração da concessão, o concedente tem direito a partilhar dos mesmos.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 A concessão tem a duração que for fixada no contrato de concessão, a qual não pode exceder 25 anos.
 
-###### Base V — Princípios aplicáveis às relações com os utilizadores
+Base V
+
+Princípios aplicáveis às relações com os utilizadores
 
 O contrato estabelece os princípios aplicáveis às relações com os utilizadores.
 
 ### CAPÍTULO II — Dos bens e meios afectos à concessão
 
-###### Base VI — Estabelecimento da concessão
+Base VI
+
+Estabelecimento da concessão
 
 Integram a concessão os bens referidos no contrato a esse título.
 
-###### Base VII — Bens e outros meios afectos à concessão
+Base VII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, para além dos bens referidos no contrato, os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular.
 
 2 - Consideram-se ainda afectas à concessão, desde que directamente relacionados com a actividade objecto do contrato, as relações jurídicas, constituídas após a entrada em vigor do contrato de concessão e que venham a encontrar-se, em cada momento, conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de materiais necessários à mesma.
 
-###### Base VIII — Propriedade dos bens afectos à concessão
+Base VIII
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam a outras entidades.
 
@@ -502,17 +545,23 @@ Integram a concessão os bens referidos no contrato a esse título.
 
 3 - No termo da concessão, a concessionária tem direito a uma indemnização calculada em função do valor contabilístico dos bens referidos no número anterior, corrigido da depreciação monetária e líquido de amortizações fiscais, comparticipações financeiras e subsídios a fundo perdido.
 
-###### Base IX — Inventário
+Base IX
+
+Inventário
 
 A concessionária elabora e mantém actualizado um inventário do património afecto à concessão.
 
-###### Base X — Manutenção dos bens e meios afectos à concessão
+Base X
+
+Manutenção dos bens e meios afectos à concessão
 
 A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
 ### CAPÍTULO III — Condições financeiras
 
-###### Base XI — Financiamento
+Base XI
+
+Financiamento
 
 1 - A concessionária adopta e executa o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -526,17 +575,23 @@ c) As receitas provenientes das tarifas cobradas pela concessionária;
 
 d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XII — Critérios para a fixação das tarifas
+Base XII
+
+Critérios para a fixação das tarifas
 
 As tarifas são fixadas por forma a assegurar a gestão eficiente do sistema, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
 ### CAPÍTULO IV — Construção das infra-estruturas
 
-###### Base XIII — Construção das infra-estruturas
+Base XIII
+
+Construção das infra-estruturas
 
 A construção das infra-estruturas para efeitos das presentes bases compreende também, para além da sua concepção e projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e, bem assim, a constituição das servidões necessárias.
 
-###### Base XIV — Utilização do domínio público
+Base XIV
+
+Utilização do domínio público
 
 1 - A concessionária tem o direito de utilizar o domínio público para efeitos de implantação e exploração das infra-estruturas da concessão.
 
@@ -544,7 +599,9 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 3 - No caso de afectação de bens dominiais dos municípios ou de outras pessoas colectivas públicas, é aplicado o disposto no [Decreto-Lei n.º 280/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402), de 7 de Agosto.
 
-###### Base XV — Servidões e expropriações
+Base XV
+
+Servidões e expropriações
 
 1 - A concessionária pode constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
@@ -552,15 +609,21 @@ A construção das infra-estruturas para efeitos das presentes bases compreende 
 
 ### CAPÍTULO V — Relações com o concedente
 
-###### Base XVI — Poderes do concedente
+Base XVI
+
+Poderes do concedente
 
 O concedente, além de outros poderes conferidos pelas presentes bases ou pela lei, tem os poderes de autorização, de aprovação ou de fiscalização previstos no contrato de concessão.
 
-###### Base XVII — Exercício dos poderes do concedente
+Base XVII
+
+Exercício dos poderes do concedente
 
 Os poderes do concedente são exercidos pelo membro do Governo responsável pelas áreas das obras públicas e transportes, com a faculdade de delegação e de subdelegação.
 
-###### Base XVIII — Fiscalização
+Base XVIII
+
+Fiscalização
 
 1 - O concedente pode fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -570,7 +633,9 @@ Os poderes do concedente são exercidos pelo membro do Governo responsável pela
 
 ### CAPÍTULO VI — Sanções
 
-###### Base XIX — Multas contratuais
+Base XIX
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão pode a concessionária ser punida com multa, nos termos previstos no contrato.
 
@@ -578,7 +643,9 @@ Os poderes do concedente são exercidos pelo membro do Governo responsável pela
 
 3 - A sanção aplicada é comunicada por escrito à concessionária.
 
-###### Base XX — Sequestro
+Base XX
+
+Sequestro
 
 1 - O concedente pode intervir na exploração do serviço concedido sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respectiva organização ou funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -590,13 +657,17 @@ Os poderes do concedente são exercidos pelo membro do Governo responsável pela
 
 ### CAPÍTULO VII — Modificação e extinção da concessão
 
-###### Base XXI — Trespasse da concessão
+Base XXI
+
+Trespasse da concessão
 
 1 - A concessionária não pode trespassar a concessão, no todo ou em parte, sem autorização dos membros do Governo responsáveis pelas áreas das finanças, das obras públicas e transportes.
 
 2 - No caso de trespasse autorizado, consideram-se transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição da autorização do trespasse.
 
-###### Base XXII — Subconcessão
+Base XXII
+
+Subconcessão
 
 1 - A concessionária pode subconceder a concessão, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças, das obras públicas e transportes, no que respeita a todos, algum ou alguns, dos seguintes serviços: gestão dos dispositivos electrónicos de matrícula, gestão de eventos de tráfego públicos, para efeitos de cobrança de portagens e outras taxas rodoviárias, gestão de sistemas de informação relativos à actividade desenvolvida pela concessionária, incluindo a gestão da base de dados de road side equipment (RSE), exploração de RSE da concessionária, e a operação de subsistemas de cobrança electrónica de portagens.
 
@@ -608,7 +679,9 @@ Os poderes do concedente são exercidos pelo membro do Governo responsável pela
 
 5 - Quando razões de interesse público relevante o justifiquem, reconhecido pelo membro do Governo responsável pelas áreas das obras públicas e transportes, pode adoptar-se o ajuste directo para a formação do contrato de subconcessão, nos termos do n.º 3 do artigo 31.º do Código dos Contratos Públicos.
 
-###### Base XXIII — Rescisão do contrato
+Base XXIII
+
+Rescisão do contrato
 
 1 - O concedente pode dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -632,13 +705,17 @@ g) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão é comunicada à concessionária por carta registada com aviso de recepção e produz imediatamente os seus efeitos.
 
-###### Base XXIV — Termo do prazo da concessão
+Base XXIV
+
+Termo do prazo da concessão
 
 1 - No termo da concessão, o Estado entra na posse dos bens da concessionária afectos à concessão sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual são convocados também os representantes da concessionária.
 
 2 - Do auto de vistoria consta obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema.
 
-###### Base XXV — Resgate da concessão
+Base XXV
+
+Resgate da concessão
 
 1 - O concedente pode resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrida que seja pelo menos metade do prazo contratual, mediante aviso prévio feito à concessionária por carta registada com aviso de recepção com, pelo menos, um ano de antecedência.
 
@@ -650,6 +727,8 @@ g) Violação grave das cláusulas do contrato de concessão.
 
 ### CAPÍTULO VIII — Contencioso
 
-###### Base XXVI — Arbitragem
+Base XXVI
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão pode o Estado celebrar convenções de arbitragem.

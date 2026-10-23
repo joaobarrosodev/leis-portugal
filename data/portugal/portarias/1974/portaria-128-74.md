@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1974-413005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:20:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77c5fa51765527b063d825c4d92108eaf8358d073d4cfb390a52298dfc389de5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f265e3c15ad0af2881725c7e972f50bcea55dbfb72ff973d01038f441a04b8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:20:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:20:00Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1541.º «Deslocações do pessoal»:
+Artigo 1541.º «Deslocações do pessoal»:
 
 N.º 2 «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
@@ -103,7 +107,7 @@ N.º 5 «Passagens de ou para o exterior por quaisquer outros motivos»:
 
 Alínea a) «A pagar na metrópole» ... 1700000$00
 
-###### Artigo 1542.º «Diversas despesas»:
+Artigo 1542.º «Diversas despesas»:
 
 N.º 8 «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, câncer, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de colonos pobres das províncias ultramarinas»:
 
@@ -123,7 +127,7 @@ Alínea a) «A pagar na metrópole» ... 1200000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2999.º «Deslocações de pessoal»:
+Artigo 2999.º «Deslocações de pessoal»:
 
 N.º 2 «Ajudas de custo e subsídios inerentes às deslocações fora da província»:
 
@@ -133,7 +137,7 @@ N.º 4 «Passagens de ou para o exterior»:
 
 Alínea b), 1 «Por quaisquer outros motivos - A pagar na metrópole» ... 2700000$00
 
-###### Artigo 3000.º «Diversas despesas»:
+Artigo 3000.º «Diversas despesas»:
 
 N.º 3, alínea a) «Despesas com valores selados - A pagar na metrópole» ... 400000$00
 

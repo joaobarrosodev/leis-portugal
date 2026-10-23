@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 276/2002, 1º Suplemento, Série I-A de 2002-11-29
   number: '276'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7466-(2) a 7466-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/276a01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/269-a/2002/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-2002-401909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b867fd94cdfb3633c78ab1b052291460802cbc119d864b147bcf680d5197d581
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb130e67cf551f953b337da4d5a71e99c7c953dce39c06aa98147679917a4336
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Droga e da Toxicodependência
-- IPDT
 - Criação de Serviços
 - Estatuto
 - Extinção de Serviços
 - Gestão Orçamental
+- Instituto da Droga e da Toxicodependência
 - Integração de Serviços
 - Integração de Trabalhadores
+- IPDT
 - Quadro de Pessoal
 - Serviço de Prevenção e Tratamento da Toxicodependência
 - Transferência Patrimonial
@@ -82,6 +82,12 @@ relationships:
   target: pt:dre:638548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156634:por
+  label: "Alterado o art. 11º dos Estatutos do Instituto da Droga e da Toxicodependência pelo DEC LEI.172/2005.14.10.2005.MS,\
+    \ DR.IS-A [198] de 14.10.2005 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2005-156634
+  date: '2005-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -118,16 +124,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2000/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2000/11/29/p/dre
+- type: cites
+  target: pt:dre:164213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:638548:por
+  label: "Revogado a partir de 01.06.2007, pelo DEC LEI.221/2007.29.05.2007.MS, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2007-638548
+  date: '2007-05-29'
 article_structure:
   article_count: 56
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:23Z'
   warnings: []
   errors: []
 ---
@@ -254,15 +301,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 22 de Novembro de 2002.**
+Promulgado em 22 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Novembro de 2002.**
+Referendado em 27 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DA DROGA E DA TOXICODEPENDÊNCIA
 

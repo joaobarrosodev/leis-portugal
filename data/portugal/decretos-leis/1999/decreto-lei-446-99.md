@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/446/1999/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 980fb6b022207ad215c984bc6b9bc2d6df3c228081b30e73bae31992119c5112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41349038f9f8236b2469f81093ae2819595baeb7ce0f956e8ff2c41ca0c7e737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,23 +71,104 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral da Indústria
-- Saúde Pública
-- União Europeia
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Inspecção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Embalagem
+- Multa
 - Proteção do Ambiente
-- Comércio
+- Saúde Pública
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:249563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532459:por
+  label: "Aditado ao anexo I os nºs 6, 7 e 8, alterado o anexo II, aditado um anexo III e alterado o nº 1 do art. 4º do Dec\
+    \ Lei 264/98 de 19-Ago, republicado pelo presente diploma, pelo DEC LEI.256/2000.2000.10.17.MECO,DR.IS-A [240]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2000-532459
+  date: '2000-10-17'
+- type: amended_by
+  target: pt:dre:424729:por
+  label: "Alterados os anexos I e II e os arts. 3º 4º e 5º, do Dec Lei 264/98 de 19-Ago, na redacção do presente diploma e\
+    \ do Dec lei 256/2000 de 17-Out, pelo DEC LEI.238/2002.2002.11.05.MECO, DR.IS-B [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2002-424729
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:667121:por
+  label: "Alterada a al. a) do nº 7.2 e eliminado o nº 7.4 ambos do anexo I ao Dec Lei 264/98, de 19-Ago, na redacção do presenet\
+    \ diploma, do Dec Lei 256/2000, de 17-Out e do Dec Lei 238/2002, de 05-Nov, pelo DEC LEI.141/2003.2003.07.02.MECO, DR.IS-A\
+    \ [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2003-667121
+  date: '2003-07-02'
+- type: amended_by
+  target: pt:dre:503818:por
+  label: "Aditados os nºs. 9,10 e 11 ao Anexo I e os nºs. 11,12 e 13 ao Anexo II do Dec Lei 264/98 de 19-Ago, alterado e republicado\
+    \ pelo presente diploma, pelo DEC LEI.208/2003.2003.09.15.MECO,DR.IS-A [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2003-503818
+  date: '2003-09-15'
+- type: amended_by
+  target: pt:dre:252837:por
+  label: "Alterada a redacção dada ao anexo I e ao anexo II do Dec Lei 264/98, de 19-Ago, pelo DEC LEI.123/2004.24.05.2004.MECO,\
+    \ DR.IS-A [121] de 24.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2004-252837
+  date: '2004-05-24'
+- type: amended_by
+  target: pt:dre:573911:por
+  label: "Aditado o n.º 12.3 ao anexo I do Dec Lei 264/98, de 19-Ago(suspensa a vigência dos nºs. 12.1 e 12.2, quando aplicados\
+    \ a sistemas de evacuação de emergência de aeronaves até 31 de Março de 2006), republicado pelo presente diploma, pelo\
+    \ DEC LEI.73/2005.18.03.2005.MAET, DR.IS-A [55] de 18.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2005-573911
+  date: '2005-03-18'
+- type: amended_by
+  target: pt:dre:573912:por
+  label: "Aditados os n.ºs 14 e 15 ao anexo I e os n.ºs 16 e 17 ao anexo II do Dec Lei 264/98, de 19-Ago, republicado pelo\
+    \ presente diploma, pelo DEC LEI.72/2005.18.03.2005.MAET, DR.IS-A [55] de 18.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2005-573912
+  date: '2005-03-18'
+- type: amended_by
+  target: pt:dre:226187:por
+  label: "Aditado o nº 16 ao anexo I e o nº 18 ao anexo II, aditado o anexo III ao Dec Lei 264/98 de 19-Ago, republicado pelo\
+    \ presente diploma, pelo DEC LEI.101/2005.23.06.2005.MEI, DR.IS-A [119] de 23.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2005-226187
+  date: '2005-06-23'
+- type: amended_by
+  target: pt:dre:147997:por
+  label: "Alterados os nºs 10.1 e 10.5 do anexo I do Dec Lei 264/98, de 19-Ago, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.162/2005.22.09.2005.MEI, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2005-147997
+  date: '2005-09-22'
+- type: amended_by
+  target: pt:dre:463435:por
+  label: "Alterado o nº 6.1.1 do anexo I ao Dec Lei 264/98 de 19-Ago, alterado, substituído e republicado pelo presente diploma,\
+    \ pelo DEC LEI.222/2005.27.12.2005.MEI, DR.IS-A [247] de 27.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2005-463435
+  date: '2005-12-27'
+- type: amended_by
+  target: pt:dre:522805:por
+  label: "Aditados os nºs 17, 18, 19, 20 e 21 ao anexo I, aditadas, alteradas e suprimidas várias substâncias, bem como são\
+    \ aditados os nºs 19, 20, 21, 22 e 23 ao anexo II do Dec Lei 264/98 de 19-Ago, republicado pelo presente diploma, pelo\
+    \ DEC LEI.10/2007.18.01.2007.MEI, DR.IS [13] de 18.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2007-522805
+  date: '2007-01-18'
+- type: amended_by
+  target: pt:dre:639316:por
+  label: "Alterado o n.º 11, aditado o nº 22 ao anexo I, bem como o nº 24 ao anexo II do Dec Lei 264/98 de 19-Ago, alterado\
+    \ e republicado pelo presente diploma, pelo DEC LEI.243/2007.21.06.2007.MEI, DR.IS [118] de 21.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2007-639316
+  date: '2007-06-21'
+- type: amended_by
+  target: pt:dre:249563:por
+  label: "Aditado o n.º 23 ao anexo I, bem como o n.º 25 ao anexo II, todos do Dec Lei 264/98, de 19-Ago, alterado e republicado\
+    \ pelo presente diploma, pelo DEC LEI.76/2008.28.04.2008.MEI, DR.IS [82] de 28.04.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2008-249563
+  date: '2008-04-28'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -125,15 +206,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1997/64/oj
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:03Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +247,17 @@ Os artigos 1.º, 2.º, 4.º e 6.º do Decreto-Lei n.º 264/98, de 19 de Agosto, 
 
 O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [97/56/CE](https://data.europa.eu/eli/dir/1997/56/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Outubro, e [97/64/CE](https://data.europa.eu/eli/dir/1997/64/oj?locale=pt), da Comissão, de 10 de Novembro, relativas à limitação de colocação no mercado e de utilização das substâncias perigosas, bem como das preparações e produtos que as contenham.
 
-###### Artigo 2.º — Substâncias e preparações perigosas
+Artigo 2.º
+
+Substâncias e preparações perigosas
 
 1 - São substâncias perigosas para efeitos do artigo 1.º as constantes do anexo II ao presente diploma, que dele faz parte integrante.
 
 2 - As substâncias constantes do anexo a que se refere o número anterior, bem como as preparações que as contenham, estão sujeitas na sua colocação no mercado e na sua utilização às condições constantes do anexo I ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A colocação no mercado e a utilização de produtos e substâncias referidos nos n.os 1.1, 1.2, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.8, 3.1, 3.2, 4.1, 4.2 e 5 do anexo I ao presente diploma, em violação das condições nele definidas, constituem contra-ordenação punível com coima de 100000$00 a 500000$00.
 
@@ -188,7 +273,9 @@ b) ...
 
 c) ...
 
-###### Artigo 6.º — Entidade que superintende na aplicação do diploma
+Artigo 6.º
+
+Entidade que superintende na aplicação do diploma
 
 Compete à Direcção-Geral da Indústria propor todas as medidas que julgue convenientes para a boa aplicação do diploma, ficando também a seu cargo a ligação com a Comissão e os Estados membros da União Europeia.»
 
@@ -208,15 +295,15 @@ O Decreto-Lei n.º 264/98, de 19 de Agosto, é republicado em anexo, com as devi
 
 Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 7 de Outubro de 1999.**
+Promulgado em 7 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Outubro de 1999.**
+Referendado em 13 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — (republicação do texto integral do Decreto-Lei n.º 264/98, de 19 de Agosto)
 
@@ -416,36 +503,36 @@ O texto completo das notas figura no preâmbulo do anexo I do Regulamento para a
 
 Categoria 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 2 - Substâncias mutagénicas
 
 Categoria 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 3 - Substâncias tóxicas para a reprodução
 
 Categoria 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 Categoria 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 4 - Creosoto
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 5 - Solventes clorados
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 6 - Hexacloroetano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
 
 7 - Substâncias ou preparações líquidas perigosas usadas em objectos decorativos, máscaras, partidas e jogos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)](https://files.diariodarepublica.pt/1s/1999/11/256a00/74747556.pdf)

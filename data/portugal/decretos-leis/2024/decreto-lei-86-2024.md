@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21500/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2024/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2024-895646291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71e3c1f2c863e2d14eefe021977b0b7a34875ba2a9d00f2eb838c5b09323540c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e8f973e0c6abf425745fe3dd41f5027b2559d7ff5df5868363f9d54d095d907
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acompanhamento Familiar
-- Pessoa em Situação de Dependência
-- Estatuto
 - Cuidador Informal
+- Estatuto
+- Pessoa em Situação de Dependência
 relationships:
 - type: amended_by
   target: pt:dre:992879808:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:100/2019
+  label: Altera, a partir de 11 de novembro de 2024, os artigos 2.º, 3.º, 6.º, 7.º, 12.º e 17.º e adita o artigo 5.º-A ao
+    Estatuto do Cuidador Informal, aprovado em anexo à Lei n.º 100/2019, de 6 de setembro, Diário da República n.º 171/2019,
+    Série I
+  source: null
+  date: '2019-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/100/2019/09/06/p/dre
   label: null
@@ -82,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/20/2024/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/20/2024/02/08/p/dre
+- type: cites
+  target: pt:dre:124500714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840689104:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:24Z'
   warnings: []
   errors: []
 ---
@@ -246,12 +261,14 @@ d) Recurso à bolsa de cuidadores.
 
 Visto e aprovado em Conselho de Ministros de 2 de outubro de 2024. - Luís Montenegro - Rosário Palma Ramalho.
 
-**Promulgado em 4 de novembro de 2024.**
+Promulgado em 4 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de novembro de 2024.**
+Referendado em 5 de novembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118316217

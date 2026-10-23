@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05600/0009300100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2025/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2025-911693276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb816b7780ff93426a1c24ae4b50344953780dfd2c5dfd0bec9454374cb6352f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b35f7efe64a87fa6e48039fc351b3543b762f49ca40c2b46d03543b6312188b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Proteção dos Animais
 - Contra-ordenação
+- Diversidade Biológica
 - Instituto da Conservação da Natureza e das Florestas
 - Nisa
+- Ordenamento do Território
 - Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
+- Proteção dos Animais
 - Rede Natura 2000
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: cites
@@ -164,6 +164,66 @@ relationships:
   target: eli:http://data.europa.eu/eli/d
   label: null
   source: http://data.europa.eu/eli/d
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172745163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70055492:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31979L0409
   label: null
@@ -183,13 +243,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:05Z'
   warnings: []
   errors: []
 ---
@@ -198,13 +258,13 @@ validation:
 
 de 20 de março
 
-O [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, procedeu à revisão da transposição para a ordem jurídica interna da [Diretiva 79/409/CEE](https://data.europa.eu/eli/dir/1979/409/oj?locale=pt), do Conselho, de 2 de abril 1979, relativa à conservação das aves selvagens (Diretiva Aves), entretanto codificada e revogada pela [Diretiva 2009/147/CE](https://data.europa.eu/eli/dir/2009/147/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, com as alterações introduzidas pela [Diretiva 2013/17/UE](https://data.europa.eu/eli/dir/2013/17/oj?locale=pt), do Conselho, de 13 de maio de 2013, e pelo [Regulamento (UE) 2019/1010](https://data.europa.eu/eli/reg/2019/1010/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, relativo à harmonização das obrigações de comunicação de informações no âmbito da legislação no domínio do ambiente e que altera alguns regulamentos e diretivas, procedendo, ainda, à revisão da transposição da [Diretiva 92/43/CEE](https://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (Diretiva Habitats), alterada pela [Diretiva 97/62/CE](https://data.europa.eu/eli/dir/1997/62/oj?locale=pt), do Conselho, de 27 de outubro de 1997, pelo [Regulamento (CE) n.º 1882/2003](https://data.europa.eu/eli/reg/2003/1882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de setembro de 2003, e pela [Diretiva 2006/105/CE](https://data.europa.eu/eli/dir/2006/105/oj?locale=pt), do Conselho, de 20 de novembro de 2006.
+O [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, procedeu à revisão da transposição para a ordem jurídica interna da [Diretiva 79/409/CEE](https://data.europa.eu/eli/dir/1979/409/oj?locale=pt), do Conselho, de 2 de abril 1979, relativa à conservação das aves selvagens (Diretiva Aves), entretanto codificada e revogada pela [Diretiva 2009/147/CE](https://data.europa.eu/eli/dir/2009/147/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, com as alterações introduzidas pela [Diretiva 2013/17/UE](https://data.europa.eu/eli/dir/2013/17/oj?locale=pt), do Conselho, de 13 de maio de 2013, e pelo [Regulamento (UE) 2019/1010](https://data.europa.eu/eli/reg/2019/1010/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de junho de 2019, relativo à harmonização das obrigações de comunicação de informações no âmbito da legislação no domínio do ambiente e que altera alguns regulamentos e diretivas, procedendo, ainda, à revisão da transposição da [Diretiva 92/43/CEE](https://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (Diretiva Habitats), alterada pela [Diretiva 97/62/CE](https://data.europa.eu/eli/dir/1997/62/oj?locale=pt), do Conselho, de 27 de outubro de 1997, pelo [Regulamento (CE) n.º 1882/2003](https://data.europa.eu/eli/reg/2003/1882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de setembro de 2003, e pela [Diretiva 2006/105/CE](https://data.europa.eu/eli/dir/2006/105/oj?locale=pt), do Conselho, de 20 de novembro de 2006.
 
 A Rede Natura 2000 é uma rede ecológica de âmbito europeu, constituindo o instrumento fundamental da política da União Europeia em matéria de conservação da natureza e da biodiversidade, sendo constituída por zonas de proteção especial (ZPE) criadas ao abrigo da Diretiva Aves - que se destinam a garantir a conservação das espécies de aves e seus habitats - e por zonas especiais de conservação (ZEC), criadas ao abrigo da Diretiva Habitats - que têm por objetivo assegurar a conservação dos tipos de habitat e das espécies da flora e da fauna incluídos nos anexos que fazem parte integrante das referidas diretivas.
 
 Para assegurar o cumprimento da Diretiva Habitats relativamente ao reconhecimento das ZEC, os Estados-Membros devem cumprir duas obrigações fundamentais: a obrigação de classificação como ZEC, dos sítios de importância comunitária (SIC) designados pela Comissão Europeia, através de um ato normativo que proceda à designação e classificação das áreas de ocorrência significativa dos tipos de habitat e das espécies identificados nos anexos i e ii daquela diretiva, respetivamente; e a obrigação de adoção de medidas de conservação que satisfaçam as exigências ecológicas dos tipos de habitats naturais e das espécies previstas nos anexos B-I e B-II, respetivamente, da mesma diretiva, consistindo na definição dos objetivos e das medidas de conservação e de gestão destas áreas, visando a manutenção ou o restabelecimento dos tipos de habitat naturais ou seminaturais e das populações de espécies da flora e da fauna selvagens num estado de conservação favorável.
 
-Em Portugal continental, a primeira obrigação de proceder à designação das ZEC foi iniciada com a identificação dos 62 sítios da lista nacional, criados ao abrigo das Resoluções do Conselho de Ministros n.<sup>os</sup>[142/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-1997-194626), de 28 de agosto, [76/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241), de 5 de julho, [45/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2014-25345644), de 8 de julho, e [59/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2015-69920312), de 31 de julho, os quais foram reconhecidos como SIC nos termos das Decisões da Comissão [2004/813/CE](https://data.europa.eu/eli/dec/2004/813/oj?locale=pt), de 7 de dezembro, e [2006/613/CE](https://data.europa.eu/eli/dec/2006/613/oj?locale=pt), de 19 de julho, e das Decisões de Execução [2016/2328](https://data.europa.eu/eli/dec/2016/2328/oj?locale=pt), de 9 de dezembro, [2016/2335](https://data.europa.eu/eli/dec/2016/2335/oj?locale=pt), de 9 de dezembro, e [2021/163](https://data.europa.eu/eli/dec/2021/163/oj?locale=pt), de 21 de janeiro de 2021.
+Em Portugal continental, a primeira obrigação de proceder à designação das ZEC foi iniciada com a identificação dos 62 sítios da lista nacional, criados ao abrigo das Resoluções do Conselho de Ministros n.os[142/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-1997-194626), de 28 de agosto, [76/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-2000-301241), de 5 de julho, [45/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2014-25345644), de 8 de julho, e [59/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2015-69920312), de 31 de julho, os quais foram reconhecidos como SIC nos termos das Decisões da Comissão [2004/813/CE](https://data.europa.eu/eli/dec/2004/813/oj?locale=pt), de 7 de dezembro, e [2006/613/CE](https://data.europa.eu/eli/dec/2006/613/oj?locale=pt), de 19 de julho, e das Decisões de Execução [2016/2328](https://data.europa.eu/eli/dec/2016/2328/oj?locale=pt), de 9 de dezembro, [2016/2335](https://data.europa.eu/eli/dec/2016/2335/oj?locale=pt), de 9 de dezembro, e [2021/163](https://data.europa.eu/eli/dec/2021/163/oj?locale=pt), de 21 de janeiro de 2021.
 
 Posteriormente, procedeu-se à designação dos SIC como ZEC, através do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, conforme previsto no n.º 6 do artigo 5.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual. O anexo i do referido diploma identifica os SIC classificados como ZEC, bem como as respetivas áreas e coordenadas geográficas e o anexo ii procede à concretização da localização e limites geográficos genéricos (cartografia - localização e limites) de cada ZEC.
 
@@ -218,7 +278,7 @@ b) Definir os objetivos específicos de conservação da ZEC;
 
 c) Identificar as medidas de conservação necessárias para atingir esses objetivos.
 
-Determinam os n.<sup>os</sup>2 e 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual que, para evitar a deterioração dos tipos de habitat e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as ZEC foram designadas, devem ser aprovadas medidas adequadas, nomeadamente em matéria de ordenamento do território, gestão, avaliação de impacte ambiental e análise de incidências ambientais, vigilância, fiscalização e respetivo regime sancionatório.
+Determinam os n.os2 e 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual que, para evitar a deterioração dos tipos de habitat e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as ZEC foram designadas, devem ser aprovadas medidas adequadas, nomeadamente em matéria de ordenamento do território, gestão, avaliação de impacte ambiental e análise de incidências ambientais, vigilância, fiscalização e respetivo regime sancionatório.
 
 Podem ainda ser adotadas medidas e ações complementares de conservação dos tipos de habitat e das espécies selvagens presentes em cada ZEC, através de planos de gestão a aprovar por portaria, nos termos da alínea a) do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, assim como outras medidas regulamentares, administrativas ou contratuais que cumpram os objetivos de conservação visados, nos termos da alínea b) do n.º 3 do artigo 7.º do referido decreto-lei.
 
@@ -242,7 +302,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 1 - O presente decreto-lei conclui o processo de classificação da zona especial de conservação (ZEC) Nisa/Lage da Prata (PTCON0044), iniciado pelo [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, que procedeu à sua delimitação territorial e geográfica, e define para a sua área os objetivos e as medidas de conservação e de gestão que visam a manutenção ou o restabelecimento dos tipos de habitat naturais ou seminaturais e das populações de espécies da flora e da fauna selvagens num estado de conservação favorável.
 
-2 - Os tipos de habitat e as espécies constantes dos anexos B-I e B-II do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, para cuja proteção é designada a ZEC Nisa/Lage da Prata, são definidos no plano de gestão referido no artigo 12.º do presente decreto-lei.
+2 - Os tipos de habitat e as espécies constantes dos anexos B-I e B-II do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro, para cuja proteção é designada a ZEC Nisa/Lage da Prata, são definidos no plano de gestão referido no artigo 12.º do presente decreto-lei.
 
 3 - O disposto no presente decreto-lei não se aplica aos atos, atividades, acessibilidades, obras ou trabalhos em instalações militares, infraestruturas e equipamentos da defesa nacional e das Forças Armadas, e não prejudica as áreas sujeitas a servidão militar, reguladas pela [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de julho de 1955, e pelo [Decreto-Lei n.º 45 986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de outubro de 1964.
 
@@ -280,13 +340,13 @@ a) De infraestruturas e equipamentos de apoio à conservação da natureza, visi
 
 b) De equipamentos de utilização coletiva de natureza pública e infraestruturas territoriais, nos termos do [Decreto Regulamentar n.º 5/2019](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), de 27 de setembro;
 
-c) De obras de reconstrução, demolição, conservação e ampliação desde que, no caso de construções detentoras de licença de utilização habitacional e com fins habitacionais, a área de ampliação das pré-existências não resulte numa área total de implantação e impermeabilização superior a 300 m<sup>2</sup> e, no caso de empreendimentos de turismo, a ampliação das pré-existências com uso habitacional ou turístico com uma área mínima de 300 m<sup>2</sup>, isoladas ou resultantes de processo de emparcelamento ou fusão de artigos, da qual não resulte uma área de implantação superior a 1000 m<sup>2</sup>, em piso único e nucleada com uma das pré-existências;
+c) De obras de reconstrução, demolição, conservação e ampliação desde que, no caso de construções detentoras de licença de utilização habitacional e com fins habitacionais, a área de ampliação das pré-existências não resulte numa área total de implantação e impermeabilização superior a 300 m2 e, no caso de empreendimentos de turismo, a ampliação das pré-existências com uso habitacional ou turístico com uma área mínima de 300 m2, isoladas ou resultantes de processo de emparcelamento ou fusão de artigos, da qual não resulte uma área de implantação superior a 1000 m2, em piso único e nucleada com uma das pré-existências;
 
 d) De operações urbanísticas que incidam sobre outras categorias de solo rústico, tal como definidas na alínea f) do n.º 1 do artigo 17.º do [Decreto Regulamentar n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2015-70055492), de 19 de agosto, previstas em plano municipal de ordenamento do território.
 
 3 - Para o cumprimento do disposto no n.º 1, os planos territoriais cuja área de intervenção incida sobre a ZEC Nisa/Lage da Prata devem incluir normas que condicionem a parecer favorável da Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), os seguintes atos e atividades:
 
-a) A edificação em solo rústico não interdita prevista nas alíneas a), b) e d) do número anterior e as ampliações não interditas referidas na alínea c), com exceção da que incida nos aglomerados rurais e nas áreas de edificação dispersa inscritos em plano municipal de ordenamento do território e das ampliações que não excedam 50 % da área de implantação existente ou das quais não resulte uma área total de ampliação superior a 100 m<sup>2</sup>;
+a) A edificação em solo rústico não interdita prevista nas alíneas a), b) e d) do número anterior e as ampliações não interditas referidas na alínea c), com exceção da que incida nos aglomerados rurais e nas áreas de edificação dispersa inscritos em plano municipal de ordenamento do território e das ampliações que não excedam 50 % da área de implantação existente ou das quais não resulte uma área total de ampliação superior a 100 m2;
 
 b) A abertura de novas estradas ou caminhos, o alargamento dos existentes, e a beneficiação que envolva estes atos ou a repavimentação, em solo rústico;
 
@@ -302,13 +362,13 @@ d) A instalação de novas explorações de depósitos e massas minerais e a amp
 
 4 - Até à revisão ou alteração dos planos territoriais referidos no n.º 1 e no sentido da sua conformidade com o disposto no número anterior, a edificação em solo rústico fica sujeita a parecer favorável do ICNF, I. P.
 
-5 - Os pareceres do ICNF, I. P., previstos nos n.<sup>os</sup>3 e 4 devem ser emitidos no prazo de 30 dias úteis a contar da data do respetivo pedido.
+5 - Os pareceres do ICNF, I. P., previstos nos n.os3 e 4 devem ser emitidos no prazo de 30 dias úteis a contar da data do respetivo pedido.
 
 6 - A ausência de parecer do ICNF, I. P., no prazo previsto no número anterior equivale à emissão de parecer favorável.
 
 7 - Cabe recurso, dos pareceres desfavoráveis, para o membro do Governo responsável, pela área do ambiente, com faculdade de delegação, no prazo de 30 dias a contar da sua notificação.
 
-8 - O disposto no número anterior não se aplica à edificação em solo rústico cujos planos territoriais à data da entrada em vigor do presente decreto-lei já cumpram os requisitos previstos nos n.<sup>os</sup>1 e 3.
+8 - O disposto no número anterior não se aplica à edificação em solo rústico cujos planos territoriais à data da entrada em vigor do presente decreto-lei já cumpram os requisitos previstos nos n.os1 e 3.
 
 ###### Artigo 4.º — Medidas de gestão
 
@@ -364,7 +424,7 @@ A monitorização e a vigilância sistemática do estado de conservação dos va
 
 1 - As violações ao disposto no artigo 3.º constituem contraordenações do ordenamento do território, sendo-lhes aplicável o regime previsto nos artigos 40.º-A a 40.º-D da lei-quadro das contraordenações ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual.
 
-2 - Para efeitos de aplicação do presente decreto-lei constitui contraordenação ambiental, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual, a violação do disposto nos n.<sup>os</sup>1 e 2 do artigo 4.º nos seguintes termos:
+2 - Para efeitos de aplicação do presente decreto-lei constitui contraordenação ambiental, punível nos termos da lei-quadro das contraordenações ambientais, aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, na sua redação atual, a violação do disposto nos n.os1 e 2 do artigo 4.º nos seguintes termos:
 
 a) Contraordenação ambiental leve, a prática não autorizada dos atos e atividades previstas na alínea e) do n.º 2 do artigo 4.º;
 
@@ -408,16 +468,19 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Manuel Castro Almeida - Maria da Graça Carvalho - José Manuel Fernandes.
 
-**Promulgado em 13 de março de 2025.**
+Promulgado em 13 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de março de 2025.**
+Referendado em 14 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — [áreas a que se refere a alínea c) do n.º 1 do artigo 4.º]
 
-![](https://files.diariodarepublica.pt/images/911693276/911648894.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/911693276/911648894.png) |
+| --- |
+
+118818978

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1980-459034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80dabef6b851bd62967fe03517f8714d24ec0e24f5a5acbcd7bb9ff8e3e12f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fe490c0fc5ad441a5d4df8720715c098f124c70562bb957d743d29952096b4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emigrante
+relationships:
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:12Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +97,14 @@ Ao abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 204-A/79](https://diario
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - O Instituto de Apoio à Emigração e às Comunidades Portuguesas poderá, sempre que tal se mostre conveniente, recorrer à colaboração de técnicos de outros serviços para a execução de funções de apoio jurídico aos emigrantes e seus familiares.
+Artigo único - 1 - O Instituto de Apoio à Emigração e às Comunidades Portuguesas poderá, sempre que tal se mostre conveniente, recorrer à colaboração de técnicos de outros serviços para a execução de funções de apoio jurídico aos emigrantes e seus familiares.
 
 2 - As condições de pagamento dos serviços prestados ao abrigo do número anterior serão fixadas, caso a caso, por despachos do Ministro das Finanças e do Plano e do Secretário de Estado da Emigração e Comunidades Portuguesas.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 20 de Novembro de 1980.**
+Promulgado em 20 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

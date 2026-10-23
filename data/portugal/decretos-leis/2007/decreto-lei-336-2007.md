@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/336/2007/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-2007-641676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaff6d7bf48cb108bb5c0eafebe0c45f0e9d929f82cb0aa8cdc915b55d52515d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b56c26f37af39a2a8b3eeab9c7ba7161a7429767aca0b39e471d1b4ccca9977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
 - Instituto da Mobilidade e dos Transportes Terrestres
-- Veículo
-- Normas de Segurança
-- Equipamento de Veículo
-- Regulamento
 - Normalização
+- Normas de Segurança
+- Regulamento
 - Regulamento Referente aos Bancos a sua Fixação e aos Apoios de Cabeça dos Automóveis
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo I do Regulamento Referente aos Bancos, à Sua Fixação e aos Apoios de Cabeça dos Automóveis\
+    \ pelo DEC LEI.148/2013.24.10.2013.MECO, DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
 - type: cites
   target: celex:31970L0156
   label: null
@@ -112,13 +118,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:28Z'
   warnings: []
   errors: []
 ---
@@ -205,15 +211,15 @@ b) Recusa a matrícula, a venda ou a entrada em circulação de veículos novos,
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — REGULAMENTO RELATIVO AOS BANCOS, À SUA FIXAÇÃO E AOS APOIOS DE CABEÇA DOS AUTOMÓVEIS
 
@@ -1059,7 +1065,7 @@ Adenda à ficha de homologação CE n.º ...
 
 Modelo da marca de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 O banco portador da marca de homologação CE acima ilustrada é um dispositivo homologado em Espanha (e9) com base na Directiva n.º [96/37/CE](https://data.europa.eu/eli/dir/1996/37/oj?locale=pt) (00) sob o número de homologação de base 0148. Os números utilizados são-no a título meramente indicativo.
 
@@ -1277,27 +1283,27 @@ Método de ensaio da resistência das fixações de um banco e dos respectivos s
 
 Figura 1a
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 Figura 1b
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 Figura 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 Figura 3
 
 Determinação da dimensão «a» das aberturas do apoio de cabeça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 Exemplo de aberturas horizontais
 
 Nota. - A secção A-A deve ser determinada colocando a esfera num ponto da zona da abertura que permita a sua penetração máxima, sem aplicação de carga.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 Exemplo de aberturas verticais
 
@@ -1419,7 +1425,7 @@ Figura 1
 
 Desaceleração g
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 ## ANEXO XI — [a que se refere a alínea a) do n.º 1 do artigo 18.º do Regulamento]
 
@@ -1467,7 +1473,7 @@ Medições a efectuar
 
 (1) Quando expresso em g (= 9,81 m/sec²) o seu valor escalar é calculado através da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 ## ANEXO XIII — (a que se refere o capítulo iii do Regulamento)
 
@@ -1477,7 +1483,7 @@ Determinação dos critérios de aceitação
 
 1.1 - Este critério de aceitação (CAC) é calculado com base na resultante das acelerações segundo os três eixos medida de acordo com o ponto 2.2.1 do anexo xii, através da seguinte expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 2 - Critério de aceitação para o tórax (CAT):
 
@@ -1539,7 +1545,7 @@ Método de ensaio estático e respectivos requisitos
 
 2.2.1 - Por meio de um dispositivo conforme com o ponto 2.1, aplica-se uma força de
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 na parte posterior do banco correspondente a cada lugar sentado;
 
@@ -1549,7 +1555,7 @@ na parte posterior do banco correspondente a cada lugar sentado;
 
 2.2.2 - Por meio de um dispositivo conforme com o ponto 2.1, aplica-se em simultâneo uma força de:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 à parte posterior do banco correspondente a cada um dos lugares sentados do banco em questão, no mesmo plano vertical e na mesma direcção e à altura H2, que deve estar compreendida entre 0,45 m e 0,55 m acima do plano de referência. A altura exacta deve ser especificada pelo fabricante;
 
@@ -1565,7 +1571,7 @@ Se uma ou mais das forças aplicadas no ensaio, mas não todas elas, forem super
 
 Figura 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0726307283.pdf)
 
 ## ANEXO XV — [a que se referem o n.º 1 do artigo 17.º, alínea b) do n.º 2 e alínea b) do n.º 3 do artigo 19.º do Regulamento]
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 96/1974, 1º Suplemento, Série I de 1974-04-24
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 580-(33) a 580-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09601/00330033.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1974-266121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d832e5162205a69954fd2027447c5780c642de3badf7bf10365a9b2a3f9064b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e6a742d536f7a3e272be0000b33d41f33d52407dc502246820f0e744df79725
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:412614:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:48Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde, que os artigos 55.º, n.º 1 e suas alíneas, 56.º, n.º 3, e 59.º, n.º 1, do Regulamento do Internato Médico, aprovado pela [Portaria n.º 760/73](https://diariodarepublica.pt/dr/detalhe/portaria/760-1973-412614), de 3 de Novembro, passem a ter a redacção seguinte:
 
-###### Art. 55.º - 1. Dentro do prazo de abertura do concurso, os candidatos devem entregar na secretaria de um dos estabelecimentos em que desejem frequentar o internato de especialidades um requerimento de que conste:
+Art. 55.º - 1. Dentro do prazo de abertura do concurso, os candidatos devem entregar na secretaria de um dos estabelecimentos em que desejem frequentar o internato de especialidades um requerimento de que conste:
 
 a) Identificação, data de nascimento e residência;
 
@@ -109,7 +113,7 @@ d) Classificação final obtida no internato geral ou de policlínica e respecti
 
 e) Quaisquer outros elementos curriculares que considerem de utilidade para fins de concurso.
 
-###### Art. 56.º - 1. ...
+Art. 56.º - 1. ...
 
 2. ...
 
@@ -121,7 +125,7 @@ e) Quaisquer outros elementos curriculares que considerem de utilidade para fins
 
 ...
 
-###### Art. 59.º - 1. Os candidatos que não tenham obtido colocação na distribuição referida no artigo anterior podem, no prazo de cinco dias a contar da data da afixação da lista referida no n.º 2 do artigo anterior, requerer colocação em qualquer dos hospitais em que restem vagas das mesmas especialidades.
+Art. 59.º - 1. Os candidatos que não tenham obtido colocação na distribuição referida no artigo anterior podem, no prazo de cinco dias a contar da data da afixação da lista referida no n.º 2 do artigo anterior, requerer colocação em qualquer dos hospitais em que restem vagas das mesmas especialidades.
 
 2. ...
 

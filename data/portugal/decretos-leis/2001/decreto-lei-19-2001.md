@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2001/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2001-315158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7152889ad680180bfe6a81201baa1e98e1728f5f3cc19a8f1f9516725d31da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc3af825930090c0787b5c66c378c06a7fbaf717244456f810d4dc309d51a830
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Acção Financeira
 - Financiamento
-- Garantia
-- Sociedade Anónima
 - Fundo de Contragarantia Mútuo
+- Garantia
 - Microempresa
 - Regime Jurídico
+- Sociedade Anónima
 - Sociedade de Garantia Mútua
 - Spgm-sociedade de Investimento
 relationships:
@@ -79,20 +79,36 @@ relationships:
   target: pt:dre:67356344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683003:por
+  label: "Alterados os arts. 1º, 2º do Dec Lei 211/98 de 16-Jul, na redacção do presente diploma, pelo DEC LEI.309-A/2007.07.09.2007.MCTES,\
+    \ DR.IS [173-2ºSupl] de 07.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/309-a-2007-683003
+  date: '2007-09-07'
+- type: amended_by
+  target: pt:dre:67356344:por
+  label: Alterado o art. 8.º do Dec Lei 211/98 de 16-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 100/2015
+    - Diário da República n.º 106/2015, Série I de 2015-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2015-67356344
+  date: '2015-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1998/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1998/07/16/p/dre
+- type: cites
+  target: pt:dre:423245:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:45Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +139,9 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o 
 
 As sociedades de garantia mútua são instituições de crédito que têm por objecto uma actividade bancária restrita à realização de operações financeiras e à prestação de serviços conexos previstos neste diploma em benefício de pequenas e médias empresas e de microempresas, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -131,7 +149,9 @@ As sociedades de garantia mútua são instituições de crédito que têm por ob
 
 3 - As sociedades de garantia mútua não podem tomar firme, total ou parcialmente, colocações de valores mobiliários em que participem, só podendo adquirir para carteira própria os valores mobiliários referidos no n.º 5 do artigo 229.º do Código dos Valores Mobiliários e, de acordo com as regras que venham a ser estabelecidas pelo Banco de Portugal, outros que este autorize.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As sociedades de garantia mútua só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:
 
@@ -149,12 +169,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da respectiva publicaç
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-1970-227274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 504c26cd665365a398f2e5acc45c4fd543c44a3e404e6f4a74f5d4b3c1d19987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bafd288ff7107766d921aa59139397a0200dcf3e00d60ba23b5d2f2fc826aaf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:25Z'
   warnings: []
   errors: []
 ---
@@ -293,11 +305,11 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Encargos com o subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 1659245$50
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Encargos com o subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 1659245$50
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 227393$50
+Artigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 227393$50
 
 ... 1886639$00
 

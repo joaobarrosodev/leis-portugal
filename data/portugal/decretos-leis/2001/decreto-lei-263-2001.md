@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a00/61626164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/2001/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2001-614359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17823a5d5e5aefe3e76084ea226d11a86ee53beee6cf9e9c8fe1a3b73e84da3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a718e2a52b53b4a66a503046b60c3b09ebc976aef5119e57381f67fb6e2233a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Espetáculos e Divertimentos Públicos
 - Contra-ordenação
 - Equipamento Eletrónico
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
-- Segurança Pública
-- Vigilância Electrónica
 - Pessoal de Vigilância
 - Segurança Privada
+- Segurança Pública
+- Vigilância Electrónica
 relationships:
 - type: amended_by
   target: pt:dre:449416:por
@@ -105,16 +105,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/4/1999/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/4/1999/04/01/p/dre
+- type: cites
+  target: pt:dre:138794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659294:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449416:por
+  label: "Revogado, a partir de 21.06.2008, pelo DEC LEI.101/2008.16.06.2008.MAI, DR.IS [114] de 16.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2008-449416
+  date: '2008-06-16'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:29Z'
   warnings: []
   errors: []
 ---
@@ -199,12 +228,12 @@ A emissão da licença de abertura do estabelecimento depende da verificação d
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Carlos das Dores Zorrinho - Eduardo Arménio do Nascimento Cabrita - Eduardo Guimarães de Oliveira Fernandes.
 
-**Promulgado em 17 de Setembro de 2001.**
+Promulgado em 17 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 2001.**
+Referendado em 20 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

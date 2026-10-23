@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2009/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b276a44e5cc12cd00d79299f19fa560f16fceb64e21575b63459a9ba635205ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 876106e69bb4f2094f20958d41ec0a9c4df32a30835d195791952316b576db35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,55 @@ reuse:
 subjects:
 - Acreditação
 - Agrupamento de Produtores
-- Financiamento
-- Publicidade
 - Contra-ordenação
 - Direcção Geral dos Recursos Florestais
 - Emparcelamento
-- Proteção da Floresta
+- Exploração Florestal
+- Financiamento
 - Fiscalização
+- Inventário
 - Isenção de Taxas e Emolumentos
 - Ordenamento Florestal
-- Plano de Gestão Florestal
 - Organização de Produtores
+- Plano de Gestão Florestal
 - Prédio Rústico
-- Exploração Florestal
+- Proteção da Floresta
 - Prova
+- Publicidade
 - Registo Predial
 - Regulamento
-- Inventário
 - ZONA de Intervenção Florestal
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397360:por
+  label: "Alterado o art. 11.º (revogado o nº 3 pelo presente diploma), do Dec Lei 124/2006 de 28-Jun, republicado pelo DEC\
+    \ LEI.17/2009.14.01.2009.MADRP, DR.IS [9] de 14.01.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2009-397360
+  date: '2009-01-14'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterados os art.s 11º e 12º do Dec Lei 127/2005, de 05-Ago, na redacção (com republicação) do presente diploma,\
+    \ pelo DEC LEI.2/2011.06.01.2011.PCM, DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
+- type: amended_by
+  target: pt:dre:572470:por
+  label: "Alterados os arts. 3.º, 4.º, 4.º-A, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º,\
+    \ 20.º, 22.º, 23.º, 24.º, 25.º, 28.º e 34.º-A do Dec Lei 127/2005 de 05-ago, na redação do presente diploma, pelo DEC\
+    \ LEI.27/2014.18.02.2014.MAGM, DR.IS [34] de 18.02.2014\014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2014-572470
+  date: '2014-02-18'
+- type: amended_by
+  target: pt:dre:107507172:por
+  label: Alterados os arts. 3.º a 6.º, 10.º, 12.º, 15.º, 22.º a 25.º, 27.º, 28.º e 34.º-A do Dec Lei 127/2005, de 05-ago,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 67/2017 - Diário da República n.º 113/2017, Série I de 2017-06-12,
+    que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2017-107507172
+  date: '2017-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
   label: null
@@ -103,16 +129,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539852:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:601496:por
+  label: "Rectificado pela DECL-RECT.10/2009.09.02.2009.PCM, DR.IS [27] de 09.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-2009-601496
+  date: '2009-02-09'
 article_structure:
-  article_count: 73
+  article_count: 45
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:33Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +204,7 @@ b) 'Aderentes' os proprietários ou outros produtores florestais da área da ZIF
 
 c) 'Baldios' os terrenos possuídos e geridos por comunidades locais, entendidas como o universo dos compartes, ou seja, os moradores de uma ou mais freguesias ou parte delas que, segundo os usos e costumes, têm direito ao uso e fruição do baldio;
 
-d) 'Coeficiente de compacidade' ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: [([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf), sendo P o perímetro e A a respectiva área;
+d) 'Coeficiente de compacidade' ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf), sendo P o perímetro e A a respectiva área;
 
 e) 'Floresta' os terrenos ocupados com povoamentos florestais, áreas ardidas de povoamentos florestais, áreas de corte raso de povoamentos florestais e, ainda, outras áreas arborizadas;
 
@@ -183,7 +230,9 @@ p) 'Rede de compartimentação' o conjunto das redes viária, de infra-estrutura
 
 q) 'Zona de intervenção florestal' ou ZIF a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 São objectivos das ZIF:
 
@@ -199,7 +248,9 @@ e) Concretizar territorialmente as orientações constantes na Estratégia Nacio
 
 f) Integrar as diferentes vertentes da política para os espaços florestais, designadamente a gestão sustentável dos espaços florestais, conservação da natureza e da biodiversidade, conservação e protecção do solo e dos recursos hídricos, desenvolvimento rural, protecção civil, fiscalidade, especialmente em regiões afectadas por agentes bióticos e abióticos e que necessitem de um processo rápido de recuperação.
 
-###### Artigo 5.º — Critérios de delimitação territorial das zonas de intervenção florestal
+Artigo 5.º
+
+Critérios de delimitação territorial das zonas de intervenção florestal
 
 1 - A delimitação territorial das ZIF implica a sua compatibilização com matrizes regionais e municipais de organização da gestão e do território florestal já existentes, nomeadamente as estabelecidas pela Estratégia Nacional para as Florestas, pelos PROF, pelos PMDFCI, e pelas orientações dos planos especiais e municipais de ordenamento do território.
 
@@ -263,7 +314,9 @@ i) Localização dominante em territórios ou em áreas classificadas cuja silvi
 
 9 - Quando exista sobreposição de território em duas ou mais propostas de constituição de ZIF, a respectiva área fica afecta à proposta a que corresponda maior área aderente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As ZIF constituem-se por iniciativa:
 
@@ -275,7 +328,9 @@ c) Dos órgãos de administração dos baldios.
 
 2 - As entidades referidas no número anterior fazem obrigatoriamente parte do núcleo fundador.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Para a constituição de uma ZIF é obrigatória a realização de, pelo menos, uma reunião promovida pelo núcleo fundador e a sua publicitação, com a antecedência mínima de 15 dias, por edital nos locais de estilo, por anúncio em jornal regional, bem como nos sítios da Internet da Autoridade Florestal Nacional (AFN) e dos municípios abrangidos pela ZIF.
 
@@ -287,7 +342,9 @@ c) Dos órgãos de administração dos baldios.
 
 5 - Na reunião está presente um representante da AFN, responsável pela validação da acta.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Depois de realizada a consulta prévia, e no prazo máximo de 30 dias, o núcleo fundador elabora e publicita, obrigatoriamente, os seguintes elementos:
 
@@ -315,7 +372,9 @@ b) Nos respectivos municípios abrangidos pela ZIF.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Findo o período de consulta pública referido no n.º 2 do artigo anterior, realiza-se uma reunião promovida pelo núcleo fundador e publicitada, com a antecedência mínima de 10 dias, por edital nos locais de estilo e no sítio da Internet da AFN, na qual são apresentados e explicados os elementos referidos no n.º 1 do artigo anterior.
 
@@ -325,7 +384,9 @@ b) Nos respectivos municípios abrangidos pela ZIF.
 
 4 - Na reunião está presente um representante da AFN, responsável pela validação da acta.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de criação das ZIF efectua-se mediante requerimento, apresentado pelo núcleo fundador junto do presidente da AFN, que deve preencher cumulativamente os seguintes requisitos:
 
@@ -349,13 +410,17 @@ c) Declaração, sob compromisso de honra, com assinatura reconhecida dos respon
 
 6 - A comunicação referida no número anterior efectua-se após a realização da audiência de interessados.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As ZIF são criadas por despacho do presidente da AFN, publicado na 2.ª série do Diário da República e devidamente publicitado no sítio da Internet da AFN e dos respectivos municípios.
 
 2 - Os proprietários ou outros produtores florestais abrangidos pela área territorial da ZIF não aderentes à mesma estão obrigados a possuir um PGF aprovado nos termos legais, bem como ao cumprimento do PEIF da respectiva ZIF, quando expressamente assim o declarem.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A área territorial das ZIF pode ser objecto de alteração, com uma periodicidade não inferior a um ano, por despacho do presidente da AFN.
 
@@ -365,7 +430,9 @@ c) Declaração, sob compromisso de honra, com assinatura reconhecida dos respon
 
 4 - Em caso de incumprimento das normas do PGF ou do PEIF e ainda quando deixem de se verificar os requisitos ou condições fundamentais que justificaram a sua criação, o presidente da AFN pode, após a audiência dos interessados, decidir a extinção das ZIF, através de despacho publicado na 2.ª série do Diário da República e devidamente publicitado no sítio da Internet da AFN e dos respectivos municípios.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A gestão de cada ZIF é assegurada pela respectiva entidade gestora.
 
@@ -375,7 +442,9 @@ c) Declaração, sob compromisso de honra, com assinatura reconhecida dos respon
 
 4 - As entidades gestoras das ZIF podem candidatar-se a beneficiárias dos apoios previstos no artigo 25.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -399,7 +468,9 @@ i) ...
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -435,17 +506,23 @@ n) Garantir a existência e manutenção de todos os documentos referidos no n.�
 
 4 - Para o cumprimento do procedimento previsto nos números anteriores, as assembleias gerais são convocadas com uma antecedência mínima de 20 dias.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF, por iniciativa dos proprietários ou outros produtores florestais, que têm de representar mais de 50 % do universo dos proprietários e produtores florestais aderentes e deter, em conjunto, mais de metade da superfície da área da ZIF.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O funcionamento das ZIF rege-se por um regulamento interno aprovado pela maioria relativa dos aderentes presentes na assembleia geral legalmente convocada para o efeito.
 
 2 - O regulamento interno define os objectivos específicos da ZIF, estabelece os deveres e direitos dos proprietários e produtores florestais aderentes e as respectivas regras de funcionamento, quer para as situações de gestão dos espaços florestais quer para os casos de gestão total do território.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Toda a área territorial da ZIF é abrangida por um PGF.
 
@@ -457,7 +534,9 @@ Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF
 
 5 - A elaboração do PGF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
 
-###### Artigo 20.º — Plano específico de intervenção florestal
+Artigo 20.º
+
+Plano específico de intervenção florestal
 
 1 - Toda a área territorial da ZIF é abrangida por um PEIF.
 
@@ -471,7 +550,9 @@ Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF
 
 6 - A elaboração do PEIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O PGF da ZIF é obrigatório para todos os proprietários ou outros produtores florestais aderentes.
 
@@ -479,7 +560,9 @@ Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF
 
 3 - As operações silvícolas mínimas constantes do PGF devem ser cumpridas por todos os proprietários ou produtores florestais na área territorial da ZIF.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A elaboração dos PGF e dos PEIF obedece às regras previstas no regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal.
 
@@ -499,7 +582,9 @@ Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF
 
 9 - Caso o PEIF se refira à defesa da floresta contra incêndios, é obrigatoriamente submetido a aprovação da respectiva comissão municipal de defesa da floresta, a emitir no prazo de 15 dias, interrompendo-se neste caso o prazo previsto no n.º 5.
 
-###### Artigo 24.º — Responsabilidade na execução dos planos
+Artigo 24.º
+
+Responsabilidade na execução dos planos
 
 1 - ...
 
@@ -511,25 +596,33 @@ Em assembleia geral de aderentes pode ser substituída a entidade gestora da ZIF
 
 5 - Nas situações em que ocorra intervenção em propriedades de que se desconheça o proprietário ou produtor florestal, ou o seu paradeiro, no âmbito da execução do PGF ou dos PEIF, a entidade gestora da ZIF deve efectuar a recolha e o registo das intervenções silvícolas e dos dados biométricos e manter o seu arquivo histórico, obrigando-se à prestação de informação sempre que solicitada pela AFN e pelos respectivos proprietários ou produtores florestais.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
 2 - Os instrumentos de apoio financeiros referidos no número anterior devem ainda instituir apoios especiais à constituição e instalação de ZIF em zonas de minifúndio.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
 2 - As condições de atribuição dos prémios referidos no número anterior são definidas por portaria do membro do Governo responsável pela área das florestas.
 
-###### Artigo 27.º — Fiscalização
+Artigo 27.º
+
+Fiscalização
 
 1 - A fiscalização do cumprimento das disposições previstas no presente decreto-lei é da competência da AFN.
 
 2 - Sempre que qualquer entidade competente tome conhecimento de situações que indiciem a prática de uma contra-ordenação prevista no presente decreto-lei, deve dar notícia à AFN e remeter-lhe toda a documentação de que disponha, para efeito de instauração e instrução do processo de contra-ordenação e consequente decisão.
 
-###### Artigo 28.º — Contra-ordenações
+Artigo 28.º
+
+Contra-ordenações
 
 1 - ...
 
@@ -547,7 +640,9 @@ e) O não cumprimento do disposto nos n.os 1, 2 e 3 do artigo 24.º
 
 3 - A tentativa e a negligência são puníveis, sendo os limites referidos nos números anteriores reduzidos para metade.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 ...
 
@@ -557,7 +652,9 @@ b) 30 % para a AFN;
 
 c) ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -583,17 +680,23 @@ d) O princípio da gestão dos recursos consiste em elaborar e implementar em ca
 
 e) O princípio da responsabilização da gestão consiste em assegurar que a administração das ZIF é da responsabilidade da respectiva entidade gestora.
 
-###### Artigo 9.º-A — Oneração e ampliação de servidões administrativas
+Artigo 9.º-A
+
+Oneração e ampliação de servidões administrativas
 
 Nos casos em que uma ZIF integre bens do domínio público e quando se verifique a ampliação de zonas sujeitas a servidão ou ainda quando estas se tornem mais onerosas é assegurada uma fase de publicitação e audiência dos interessados, a estabelecer nos termos do [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril.
 
-###### Artigo 34.º-A — Manual de procedimentos
+Artigo 34.º-A
+
+Manual de procedimentos
 
 1 - A AFN elabora um manual de procedimentos de apoio à constituição de ZIF, que contém, nomeadamente, um modelo de regulamento interno, de plano de gestão florestal, de plano específico de intervenção florestal e de normas para a elaboração de peças gráficas.
 
 2 - O manual referido no número anterior é homologado pelo membro do Governo responsável pela área das florestas.
 
-###### Artigo 35.º-A — Assembleias gerais de aderentes
+Artigo 35.º-A
+
+Assembleias gerais de aderentes
 
 As assembleias gerais de aderentes das ZIF regem-se pelo disposto no Código do Procedimento Administrativo, na parte referente aos órgãos colegiais, com as necessárias adaptações.»
 
@@ -631,15 +734,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Gonçalo André Castilho dos Santos - José Manuel dos Santos de Magalhães - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 5 de Janeiro de 2009.**
+Promulgado em 5 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Janeiro de 2009.**
+Referendado em 7 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857), de 5 de Agosto
 
@@ -663,7 +766,7 @@ b) «Aderentes» os proprietários ou outros produtores florestais da área da Z
 
 c) «Baldios» os terrenos possuídos e geridos por comunidades locais, entendidas como o universo dos compartes, ou seja, os moradores de uma ou mais freguesias ou parte delas que, segundo os usos e costumes, têm direito ao uso e fruição do baldio;
 
-d) «Coeficiente de compacidade» ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: [([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf), sendo P o perímetro e A a respectiva área;
+d) «Coeficiente de compacidade» ou índice de Gravelius o método de caracterização da forma de bacias hidrográficas, que é calculado com base na seguinte equação: [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00900/0025400267.pdf), sendo P o perímetro e A a respectiva área;
 
 e) «Floresta» os terrenos ocupados com povoamentos florestais, áreas ardidas de povoamentos florestais, áreas de corte raso de povoamentos florestais e, ainda, outras áreas arborizadas;
 

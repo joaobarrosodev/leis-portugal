@@ -46,40 +46,109 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/116-1981-389839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f2f8ac4db5d4c858628af06fe3612895a20d8a34909fb1faa0429b4c2d4eed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5ef2861d93f3661ee72d9ce37e80d0397f837cce93d12ceeb5b0019e3af04f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:495706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380768:por
+  label: "Alterado o quadro de pessoal do Centro de Saúde Distrital de Setúbal, aprovado pelo presente diploma, pela PORT.1194/82.23.12.1982.MFP,\
+    \ DR.IS [295] de 23.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1194-1982-380768
+  date: '1982-12-23'
+- type: amended_by
+  target: pt:dre:318333:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma pela\
+    \ PORT.1330/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1330-1982-318333
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:312588:por
+  label: "Alterado o quadro de pessoal na parte referente ao pessoal de enfermagem, pela PORT.307/83.1983.03.26.MFP DR.IS\
+    \ [71]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1983-312588
+  date: '1983-03-26'
+- type: amended_by
+  target: pt:dre:435581:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.807-U2/83.1983.07.30.MFP DR.IS [174]6ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-u2-1983-435581
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:396497:por
+  label: "Alterado o quadro de pessoal pela PORT.977/84.1984.12.26.MS DR.IS [297]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/977-1984-396497
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:325519:por
+  label: "Alterado o quadro de pessoal pela PORT.200/85.1985.04.13.PCM DR.IS [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-1985-325519
+  date: '1985-04-13'
+- type: amended_by
+  target: pt:dre:180443:por
+  label: "Alterado o quadro de pessoal pela PORT.601/85.1985.08.14.PCM DR.IS [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-1985-180443
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:599759:por
+  label: "Alterado o quadro de pessoal pela PORT.12/87.1987.01.06.MF DR.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-1987-599759
+  date: '1987-01-06'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394732:por
+  label: Rectificada pela DECL.DD6509.16.04.1981.PCM, DR.IS [98] de 29.04.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-394732
+  date: '1981-04-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:03Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +171,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02100/02070208.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02100/02070208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02100/02070208.pdf)
 
 Notas
 

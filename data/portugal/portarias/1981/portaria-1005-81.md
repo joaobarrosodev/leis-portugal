@@ -47,36 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1005-1981-568075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ceef07ee0b39aec8bb9e3392b66c838ce8e58f3dd6e155b39db0e9c8b58ecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fb65dd0250da204d5af77a44d1b17ec6575fdfb9a8562556df418eb86a3d4a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Ministério da Reforma Administrativa
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:19Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +136,15 @@ Regulamento de Concursos de Admissão e Promoção Relativos às Categorias dos 
 
 ### CAPÍTULO I — Dos concursos em geral
 
-###### Artigo 1.º O provimento dos lugares de ingresso e acesso dos quadros de pessoal do Ministério da Reforma Administrativa processar-se-á de acordo com as regras consagradas no [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro, e no presente Regulamento e, ainda, quanto às carreiras de pessoal de informática, com o regime definido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Artigo 1.º O provimento dos lugares de ingresso e acesso dos quadros de pessoal do Ministério da Reforma Administrativa processar-se-á de acordo com as regras consagradas no [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro, e no presente Regulamento e, ainda, quanto às carreiras de pessoal de informática, com o regime definido no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 2.º - 1 - Os concursos para provimento dos lugares referidos no artigo anterior serão abertos por despacho do Secretário de Estado da Reforma Administrativa, sob proposta do responsável máximo do respectivo serviço.
+Art. 2.º - 1 - Os concursos para provimento dos lugares referidos no artigo anterior serão abertos por despacho do Secretário de Estado da Reforma Administrativa, sob proposta do responsável máximo do respectivo serviço.
 
 2 - Os concursos destinam-se ao preenchimento das vagas existentes à data da abertura do concurso e daquelas que se venham a verificar durante o prazo de 1 ano, contado a partir da data do respectivo aviso.
 
 3 - O prazo de validade dos concursos cessará com o preenchimento da última das vagas previstas no aviso de abertura.
 
-###### Art. 3.º - 1 - Dos avisos de abertura dos concursos constarão obrigatoriamente os seguintes elementos:
+Art. 3.º - 1 - Dos avisos de abertura dos concursos constarão obrigatoriamente os seguintes elementos:
 
 a) O lugar e as vagas a prover, descrição do respectivo conteúdo funcional e o prazo de validade dos concursos;
 
@@ -127,7 +166,7 @@ h) Quaisquer outras indicações que forem julgadas necessárias para completo e
 
 3 - Quando se trate de concurso de promoção, o aviso será tornado público mediante ordem de serviço afixada no local ou locais a que tenham acesso todos os funcionários e comunicação aos que, em condições de admissão ao mesmo, se encontrem afectos a outros organismos e serviços.
 
-###### Art. 4.º - 1 - Os requerimentos de admissão aos concursos para lugares de ingresso serão dirigidos ao Secretário de Estado da Reforma Administrativa e entregues no serviço que tiver a seu cargo a respectiva abertura, no prazo de 30 dias, a contar da data da publicação do respectivo aviso no Diário da República.
+Art. 4.º - 1 - Os requerimentos de admissão aos concursos para lugares de ingresso serão dirigidos ao Secretário de Estado da Reforma Administrativa e entregues no serviço que tiver a seu cargo a respectiva abertura, no prazo de 30 dias, a contar da data da publicação do respectivo aviso no Diário da República.
 
 2 - Nos concursos de promoção são oficiosamente considerados como candidatos os funcionários que reúnam os requisitos legais de promoção, os quais constarão de lista provisória publicada com o respectivo aviso de abertura.
 
@@ -157,7 +196,7 @@ d) Quaisquer outros elementos que ilustrem a sua aptidão para o exercício do c
 
 ### CAPÍTULO II — Dos júris
 
-###### Art. 5.º - 1 - O júri dos concursos será constituído por:
+Art. 5.º - 1 - O júri dos concursos será constituído por:
 
 a) Um presidente, que será o responsável máximo do serviço ou a entidade em que este delegue, cuja categoria não deverá ser inferior a chefe de divisão ou chefe de repartição, quando não existam divisões;
 
@@ -175,11 +214,11 @@ b) Dois vogais, que serão nomeados pelo Secretário de Estado da Reforma Admini
 
 ### CAPÍTULO III — Admissão aos concursos e organização das listas
 
-###### Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, por período não superior a 8 dias, para verificação dos processos dos candidatos.
+Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, por período não superior a 8 dias, para verificação dos processos dos candidatos.
 
 2 - Se, após o exame dos documentos, se constatar que existem deficiências ou omissões, o júri marcará um prazo, não superior a 8 dias úteis, para que as mesmas sejam sanadas ou supridas.
 
-###### Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará, no caso dos concursos de ingresso, a lista dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República nos 8 dias seguintes ao da deliberação.
+Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará, no caso dos concursos de ingresso, a lista dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República nos 8 dias seguintes ao da deliberação.
 
 2 - Em caso de exclusão de candidatos, os motivos serão sempre indicados na lista a que se refere o n.º 1.
 
@@ -189,7 +228,7 @@ b) Dois vogais, que serão nomeados pelo Secretário de Estado da Reforma Admini
 
 5 - Tratando-se de concursos de prestação de provas, do anúncio que publicar a lista na sua versão definitiva deverá constar o local, dia e hora da realização das respectivas provas.
 
-###### Art. 8.º - 1 - Nos concursos de promoção, o prazo de 5 dias para recorrer para o Secretário de Estado da Reforma Administrativa da exclusão da lista decorre desde a data da afixação do aviso de abertura.
+Art. 8.º - 1 - Nos concursos de promoção, o prazo de 5 dias para recorrer para o Secretário de Estado da Reforma Administrativa da exclusão da lista decorre desde a data da afixação do aviso de abertura.
 
 2 - A decisão sobre o recurso será transmitida aos interessados e ao júri.
 
@@ -199,7 +238,7 @@ b) Dois vogais, que serão nomeados pelo Secretário de Estado da Reforma Admini
 
 #### SECÇÃO I — Concursos de admissão
 
-###### Art. 9.º - 1 - Os concursos para admissão nas categorias e carreiras dos quadros de pessoal dos serviços do Ministério da Reforma Administrativa far-se-ão de acordo com os métodos de selecção previstos nos números seguintes.
+Art. 9.º - 1 - Os concursos para admissão nas categorias e carreiras dos quadros de pessoal dos serviços do Ministério da Reforma Administrativa far-se-ão de acordo com os métodos de selecção previstos nos números seguintes.
 
 2 - Os concursos de provimento para lugares de ingresso nas carreiras de pessoal técnico superior e técnico far-se-ão mediante prestação de provas de conhecimentos e entrevistas, complementadas, se necessário, por exames de natureza psicológica.
 
@@ -227,13 +266,13 @@ b) Dois vogais, que serão nomeados pelo Secretário de Estado da Reforma Admini
 
 14 - As provas mencionadas no presente artigo serão sucessivamente eliminatórias, só passando à prova seguinte os candidatos que tiverem classificação positiva na anterior.
 
-###### Art. 10.º A elaboração dos programas respeitantes aos concursos de prestação de provas de conhecimentos teóricos e práticos referidas no artigo anterior compete ao Centro de Formação da Administração Pública, em colaboração com os serviços a que respeitem as vagas a preencher.
+Art. 10.º A elaboração dos programas respeitantes aos concursos de prestação de provas de conhecimentos teóricos e práticos referidas no artigo anterior compete ao Centro de Formação da Administração Pública, em colaboração com os serviços a que respeitem as vagas a preencher.
 
-###### Art. 11.º A organização e realização dos concursos, bem como a aplicação dos métodos de selecção referenciados no artigo 9.º, serão asseguradas pelo Centro de Formação da Administração Pública, com a colaboração do serviço interessado.
+Art. 11.º A organização e realização dos concursos, bem como a aplicação dos métodos de selecção referenciados no artigo 9.º, serão asseguradas pelo Centro de Formação da Administração Pública, com a colaboração do serviço interessado.
 
 #### SECÇÃO II — Concursos de promoção
 
-###### Art. 12.º - 1 - Sem prejuízo do disposto nos artigos seguintes, nos concursos de promoção deverá o júri, para efeitos de avaliação do mérito e classificação dos candidatos, observar como factores essenciais os seguintes:
+Art. 12.º - 1 - Sem prejuízo do disposto nos artigos seguintes, nos concursos de promoção deverá o júri, para efeitos de avaliação do mérito e classificação dos candidatos, observar como factores essenciais os seguintes:
 
 a) Currículo do candidato, em que será considerada como elemento relevante a natureza do trabalho produzido nos últimos 3 anos e a sua conexão com as tarefas e responsabilidades do cargo a prover;
 
@@ -247,19 +286,19 @@ b) Maior antiguidade na carreira;
 
 c) Maior antiguidade na Administração Pública.
 
-###### Art. 13.º Nos concursos de provimento nos lugares de assessor haverá lugar à prestação de provas públicas, que constarão de:
+Art. 13.º Nos concursos de provimento nos lugares de assessor haverá lugar à prestação de provas públicas, que constarão de:
 
 a) Discussão do currículo, do qual deverão constar, entre outros elementos, referências a estudos elaborados ou publicados e actividades e realizações levadas a efeito;
 
 b) Discussão de trabalho, anteriormente realizado ou a realizar para o efeito, sobre matéria que se relacione directamente com a natureza do cargo a prover.
 
-###### Art. 14.º A progressão nas carreiras horizontais referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, não está condicionada à realização de concursos, sem prejuízo da exigência de classificação de serviço não inferior a Bom, reportada à média das classificações obtidas nos 5 anos anteriores àqueles em que se opera a mudança para a categoria superior e sempre no ano imediatamente anterior.
+Art. 14.º A progressão nas carreiras horizontais referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, não está condicionada à realização de concursos, sem prejuízo da exigência de classificação de serviço não inferior a Bom, reportada à média das classificações obtidas nos 5 anos anteriores àqueles em que se opera a mudança para a categoria superior e sempre no ano imediatamente anterior.
 
-###### Art. 15.º Ao júri dos concursos de promoção, no 1.º dia útil seguinte ao da afixação do aviso de abertura, serão facultados pelos serviços de pessoal os processos individuais dos funcionários candidatos, podendo aqueles ser completados com outros dados, a pedido do interessado ou de qualquer membro do júri, tendo em vista a apreciação curricular dos candidatos.
+Art. 15.º Ao júri dos concursos de promoção, no 1.º dia útil seguinte ao da afixação do aviso de abertura, serão facultados pelos serviços de pessoal os processos individuais dos funcionários candidatos, podendo aqueles ser completados com outros dados, a pedido do interessado ou de qualquer membro do júri, tendo em vista a apreciação curricular dos candidatos.
 
 ### CAPÍTULO V — Da classificação dos candidatos e dos recursos
 
-###### Art. 16.º - 1 - O júri apreciará as condições em que se encontram os candidatos relativamente a cada um dos factores que devam ser considerados no respectivo concurso, procedendo à respectiva classificação ou ordenação.
+Art. 16.º - 1 - O júri apreciará as condições em que se encontram os candidatos relativamente a cada um dos factores que devam ser considerados no respectivo concurso, procedendo à respectiva classificação ou ordenação.
 
 2 - Na classificação seguir-se-á a escala de 0 a 20 valores quando esteja em causa a prestação de provas, procedendo-se à ordenação dos candidatos por ordem decrescente do seu mérito relativo quando se rale de apreciação curricular.
 
@@ -275,10 +314,10 @@ b) Discussão de trabalho, anteriormente realizado ou a realizar para o efeito, 
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 17.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Reforma Administrativa, ouvida a Direcção-Geral dos Recursos Humanos.
+Art. 17.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Reforma Administrativa, ouvida a Direcção-Geral dos Recursos Humanos.
 
-###### Art. 18.º A aplicação desta portaria far-se-á com observância das disposições aplicáveis do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 285/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1981-561660), de 9 de Outubro.
+Art. 18.º A aplicação desta portaria far-se-á com observância das disposições aplicáveis do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 285/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1981-561660), de 9 de Outubro.
 
-###### Art. 19.º O disposto na presente portaria não prejudicará a aplicação das disposições genéricas que, em matéria de recrutamento e selecção, vierem a ser estabelecidas no diploma a publicar ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 19.º O disposto na presente portaria não prejudicará a aplicação das disposições genéricas que, em matéria de recrutamento e selecção, vierem a ser estabelecidas no diploma a publicar ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 Ministério da Reforma Administrativa, 11 de Novembro de 1981. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

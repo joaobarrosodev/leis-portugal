@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1985-177448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 250df923301f3f4376c473ce84690bf7711f5cd9402dc4c9a6edd4207307c693
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91523d66d8558aa154b6051becb5005ddeb89a9de245fc51ee3fef668d118d0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arcos de Valdevez
+- Medidas Preventivas
+- Zona Industrial
+relationships:
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:52Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +103,7 @@ Ao abrigo do disposto nos artigos 7.º e 27.º do [Decreto-Lei n.º 794/76](http
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de 2 anos a área definida na planta anexa a este diploma.
+Artigo 1.º - 1 - Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de 2 anos a área definida na planta anexa a este diploma.
 
 2 - As medidas preventivas referidas no número anterior consistem na sujeição a autorização da Câmara Municipal de Arcos de Valdevez, precedida de parecer favorável da Direcção-Geral do Planeamento Urbanístico, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, da prática dos actos ou actividades seguintes:
 
@@ -110,20 +121,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Arcos de Valdevez e a Direcção-Geral do Planeamento Urbanístico.
 
-###### Art. 2.º - 1 - É concedido à Câmara Municipal de Arcos de Valdevez o direito de preferência nas transmissões por título oneroso entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - É concedido à Câmara Municipal de Arcos de Valdevez o direito de preferência nas transmissões por título oneroso entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigida ao presidente da Câmara Municipal de Arcos de Valdevez a comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia - Joaquim Fernando Nogueira.
 
-**Promulgado em 28 de Agosto de 1985.**
+Promulgado em 28 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Agosto de 1985.**
+Referendado em 30 de Agosto de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/09/21700/30863087.pdf))](https://files.diariodarepublica.pt/1s/1985/09/21700/30863087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/09/21700/30863087.pdf)

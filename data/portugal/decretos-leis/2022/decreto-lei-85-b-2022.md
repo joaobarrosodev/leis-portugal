@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 245/2022, 1º Suplemento, Série I de 2022-12-22
   number: '245'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 237-(4) a 237-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/24501/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85-b/2022/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-b-2022-205198397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb9af0a530a41772d2cd6f159bbcfc12a1740543b38b52104f19e4f8463b868c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38e20d0e6dc55ffc3c2e94161299b1d103c996447061ea95b90aea75067b647a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
 - Ajuda Alimentar
 - Ajuda Humanitária
-- Luta contra a Pobreza
-- Pobreza
-- Protecção à Família
-- Financiamento
-- Empresa
+- Apoio Extraordinário às Famílias mais Vulneráveis
 - Cidadão Estrangeiro
 - Cidadão Nacional
 - Cobrança de Impostos
 - Código do IRC
 - Código do IRS
 - Código do IVA
-- Contribuições da Segurança Social
 - Combustível
+- Contribuições da Segurança Social
+- Empresa
 - Execução Fiscal
+- Execução por Dívidas
+- Família
+- Financiamento
 - Garantia do Contribuinte
+- Insuficiência Económica
+- IRC
 - IRS
 - IVA
-- Insuficiência Económica
+- Luta contra a Pobreza
 - Pagamento a Prestações
-- IRC
+- Pobreza
 - Prestações da Segurança Social
 - Processo Tributário
+- Protecção à Família
 - Regime Fiscal
-- Execução por Dívidas
 - Ucrânia
-- Apoio Extraordinário às Famílias mais Vulneráveis
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-a/2022/03/25/p/dre
@@ -107,16 +107,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/42/2022/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/2022/06/29/p/dre
+- type: cites
+  target: pt:dre:181066898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185390584:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:12Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +201,9 @@ f) [Anterior alínea f) do n.º 3.]
 
 5 - Para efeitos do disposto nas alíneas b) dos n.os 1, 2 e 3, são abrangidos os agregados familiares em que uma das crianças é titular de abono de família do 1.º ou 2.º escalão e em que o rendimento de referência do mesmo agregado corresponde a situações de pobreza extrema segundo os parâmetros definidos nos termos do Inquérito para as Condições de Vida e Rendimento, do Instituto Nacional de Estatística, I. P.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O valor do apoio extraordinário concedido, na primeira e na segunda fase, aos beneficiários abrangidos pelos n.os 1 e 2 do artigo anterior é de (euro) 60,00 por agregado familiar e é pago pela segurança social:
 
@@ -203,13 +217,17 @@ d) [Anterior alínea d) do proémio do artigo.]
 
 2 - O valor do apoio extraordinário concedido, na terceira fase, aos beneficiários abrangidos pelo n.º 3 do artigo anterior é de (euro) 240,00 por agregado familiar e é pago pela segurança social no mês de dezembro de 2022.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A segurança social procede ao pagamento do apoio extraordinário com base nos dados comunicados pela Direção-Geral de Energia e Geologia relativos aos beneficiários da TSEE.
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os encargos resultantes da aplicação do presente capítulo são suportados diretamente por verbas com origem no Orçamento do Estado.
 
@@ -225,12 +243,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2022. - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Elvira Maria Correia Fortunato - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro - Hugo Santos Mendes.
 
-**Promulgado em 21 de dezembro de 2022.**
+Promulgado em 21 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de dezembro de 2022.**
+Referendado em 22 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116001528

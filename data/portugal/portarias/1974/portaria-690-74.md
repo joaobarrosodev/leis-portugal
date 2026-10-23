@@ -46,40 +46,147 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/690-1974-472275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d453a0975e33be1620f80af602dabb37922d55ea0570e4e75207912c4c34f28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80920cf92aca36c31cdaed1f3d61524ad4f5b34a8b041c57f14bebce2572f6d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Lisboa
+- Quadro de Pessoal
+- Santa Casa da Misericórdia
 relationships:
 - type: amended_by
   target: pt:dre:579301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298228:por
+  label: Alterados, o grupo 1.3 «De acção médica», o grupo 1.4.1 «Carreira farmacêutica», o grupo 1.13 «De serviços gráficos»,
+    o grupo 1.15 «De inspecção de agências», as gratificações previstas no grupo 1.17 «Outro pessoal», o grupo 1.17 «Outro
+    pessoal», o grupo 2.1 «Técnicos administrativos», o grupo 2.3 «Outro pessoal», no grupo 2.3 «Outro pessoal» cria mais
+    dois lugares de técnico auxiliar administrativo de 1.ª classe, o grupo 3 «Pessoal auxiliar» cria mais vinte lugares de
+    empregado diferenciado, o grupo 4 «Lugares a extinguir quando vagarem», acrescentadas as alíneas m), n) e o), e alteradas
+    as notas 15) e 16), todos do quadro aprovado pela presente portaria, pelo(a) Portaria n.º 819/74 - Diário do Governo n.º
+    293/1974, 1º Suplemento, Série I de 1974-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/819-1974-298228
+  date: '1974-12-16'
+- type: amended_by
+  target: pt:dre:335943:por
+  label: Aditadas, com efeitos a 01.01.1975, as notas 21) e 22) pelo(a) Portaria n.º 333/75 - Diário do Governo n.º 124/1975,
+    Série I de 1975-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/333-1975-335943
+  date: '1975-05-30'
+- type: amended_by
+  target: pt:dre:416448:por
+  label: Alterado o quadro de pessoal, aprovado pelo presente diploma pelo(a) Portaria n.º 780/76 - Diário da República n.º
+    303/1976, Série I de 1976-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/780-1976-416448
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:404568:por
+  label: Fixada a letra de vencimento correspondente à letra N para os lugares de fiel e fiel de armazém previstos no n.º
+    4 do quadro do pessoal da Santa Casa da Misericórdia de Lisboa, aprovado pela presente portaria, pelo(a) Portaria n.º
+    805/77 - Diário da República n.º 302/1977, 6º Suplemento, Série I de 1977-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-1977-404568
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:425153:por
+  label: Alterado, no que se refere ao pessoal técnico e técnico superior, o quadro de pessoal da Santa Casa da Misericórdia
+    de Lisboa pelo(a) Portaria n.º 218/78 - Diário da República n.º 92/1978, Série I de 1978-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-1978-425153
+  date: '1978-04-20'
+- type: amended_by
+  target: pt:dre:425550:por
+  label: Alterado o quadro de pessoal e acrescentada uma observação às constantes do presente diploma pelo(a) Portaria n.º
+    227/78 - Diário da República n.º 94/1978, Série I de 1978-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-1978-425550
+  date: '1978-04-22'
+- type: amended_by
+  target: pt:dre:297417:por
+  label: Alterado o n.º 3 e o grupo 1.4.1 «Carreira farmacêutica» do quadro pelo(a) Portaria n.º 394/78 - Diário da República
+    n.º 165/1978, Série I de 1978-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-1978-297417
+  date: '1978-07-20'
+- type: amended_by
+  target: pt:dre:377679:por
+  label: "Alterado o quadro de pessoal não dirigente da Santa Casa da Misericórdia de Lisboa, aprovado pelo presente diploma,\
+    \ pela PORT.436/79.17.08.1979.PCM, DR.IS [189] de 17.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1979-377679
+  date: '1979-08-17'
+- type: amended_by
+  target: pt:dre:579298:por
+  label: "Substituido o quadro de pessoal anexo pela PORT.494/81.17.06.1981.MAS, DR.IS [137] de 17.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/494-1981-579298
+  date: '1981-06-17'
+- type: cites
+  target: pt:dre:266085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:33:26Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +219,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro dos Assuntos
 
 Ministério dos Assuntos Sociais, 4 de Outubro de 1974. - O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1974/10/24800/12681274.pdf))](https://files.diariodarepublica.pt/1s/1974/10/24800/12681274.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1974/10/24800/12681274.pdf)
 
 NOTAS
 
@@ -156,4 +263,4 @@ NOTAS
 
 20) A dotação de auxiliar de enfermagem de saúde pública de 1.ª classe e auxiliar de enfermagem de 1.ª classe será conjunta com a dotação de enfermeiro de 3.ª classe das carreiras de enfermagem de saúde pública e hospitalar.
 
-**O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.**
+O Ministro dos Assuntos Sociais, Maria de Lourdes Pintasilgo.

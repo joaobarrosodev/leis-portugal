@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/11/266a00/65466554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/293/2000/11/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-2000-616189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6160339e94fa3710685524779afe3252b7747bdfd85a08ab03e9fdc0fa6a5af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32d91ed6ff2077f9ac7a327ce2e358f9a61cd45ab4097ca5182741ffce6dc7da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho Nacional de Bombeiros
+- Conselho Regional de Bombeiros
 - Conselho Superior de Bombeiros
 - Criação de Serviços
 - Definição de Competências
 - Extinção de Serviços
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Inspecção Distrital de Bombeiros
 - Inspecção Nacional de Bombeiros
+- Inspecção Regional de Bombeiros
 - Inspecção Superior de Bombeiros
+- Ministro da Administração Interna
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Nacional de Bombeiros
-- Ministro da Administração Interna
-- Gestão de Recursos Humanos
-- Conselho Regional de Bombeiros
-- Inspecção Regional de Bombeiros
 relationships:
 - type: amended_by
   target: pt:dre:231117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377892:por
+  label: "Alterados os arts. 4º, 11º, 12º, 18º, 20º, 31º, 32º, 41º e 42º pelo DEC LEI.209/2001.2001.07.28.MAI DR.IS-A [174]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2001-377892
+  date: '2001-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1991/06/07/p/dre
   label: null
@@ -116,16 +122,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:168641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:296392:por
+  label: "Rectificado pela DECL-RECT.16-E/2000.2000.11.30.PCM DR.IS-A [277]3.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-e-2000-296392
+  date: '2000-11-30'
+- type: repealed_by
+  target: pt:dre:231117:por
+  label: "Revogado, com a redacção dada pelo Dec Lei 209/2001 de 28-Jul, pelo DEC LEI.49/2003.2003.03.25.MAI DR.IS-A [71]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2003-231117
+  date: '2003-03-25'
 article_structure:
   article_count: 54
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:51Z'
   warnings: []
   errors: []
 ---
@@ -392,7 +453,9 @@ b) A Divisão de Gestão Financeira e Patrimonial (DGFP);
 
 3 - A DSAF compreende ainda o Centro de Documentação (CD).
 
-###### Artigo 20.º — Divisão de Organização e Recursos Humanos
+###### Artigo 20.º
+
+##### Divisão de Organização e Recursos Humanos
 
 1 - À DORH compete, designadamente:
 
@@ -420,7 +483,9 @@ a) Secção de Pessoal (SP);
 
 b) Secção de Expediente Geral e Arquivo (SEGA).
 
-###### Artigo 21.º — Secção de Pessoal
+###### Artigo 21.º
+
+#### Secção de Pessoal
 
 À SP compete:
 
@@ -442,7 +507,9 @@ h) Superintender e orientar a utilização do pessoal auxiliar;
 
 i) Executar as demais operações conducentes à boa administração do pessoal.
 
-###### Artigo 22.º — Secção de Expediente Geral e Arquivo
+###### Artigo 22.º
+
+#### Secção de Expediente Geral e Arquivo
 
 À SEGA compete:
 
@@ -458,7 +525,9 @@ e) Assegurar o serviço de reprografia;
 
 f) Assegurar outras tarefas de apoio geral.
 
-###### Artigo 23.º — Divisão de Gestão Financeira e Patrimonial
+###### Artigo 23.º
+
+##### Divisão de Gestão Financeira e Patrimonial
 
 1 - À DGFP compete:
 
@@ -480,7 +549,9 @@ a) A Secção de Orçamento e Contabilidade (SOC);
 
 b) A Secção de Economato e Património (SEP).
 
-###### Artigo 24.º — Secção de Orçamento e contabilidade
+###### Artigo 24.º
+
+#### Secção de Orçamento e contabilidade
 
 À SOC compete:
 
@@ -506,7 +577,9 @@ j) Gerir o fundo de maneio;
 
 k) Elaborar a conta de gerência.
 
-###### Artigo 25.º — Secção de Economato e Património
+###### Artigo 25.º
+
+#### Secção de Economato e Património
 
 À SEP compete:
 
@@ -538,7 +611,9 @@ a) A Divisão de Informática e Telecomunicações (DIT);
 
 b) A Divisão de Segurança e Normalização (DSN).
 
-###### Artigo 28.º — Divisão de Informática e Telecomunicações
+###### Artigo 28.º
+
+##### Divisão de Informática e Telecomunicações
 
 À DIT compete:
 
@@ -560,7 +635,9 @@ h) Gerir e administrar a rede de comunicações dos bombeiros;
 
 i) Definir e normalizar os equipamentos de telecomunicações.
 
-###### Artigo 29.º — Divisão de Segurança e Normalização
+###### Artigo 29.º
+
+##### Divisão de Segurança e Normalização
 
 À DSN compete:
 
@@ -858,15 +935,15 @@ O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura. - Alberto de Sousa Martins.
 
-**Promulgado em 26 de Outubro de 2000.**
+Promulgado em 26 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Novembro de 2000.**
+Referendado em 2 de Novembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 41.º
 

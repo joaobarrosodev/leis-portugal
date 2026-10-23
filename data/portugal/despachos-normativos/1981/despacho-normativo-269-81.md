@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1981-563627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:11:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fe584a3fbe49ed414fc02b98698bbbf82cf0401d3b3cce6b5bf9c6a46772cd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e50b956897450dc16760da5574d4f8e3555da4f08968b144883ac39457f9afb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:11:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Certificado de Qualidade
+- Controlo de Qualidade
+- Licenciamento
+- Multa
+- Transporte de Mercadorias Perigosas
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:625412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:459643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625412:por
+  label: Revogado pelo(a) Decreto-Lei n.º 210-C/84 - Diário da República n.º 149/1984, 3º Suplemento, Série I de 1984-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-c-1984-625412
+  date: '1984-06-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:11:58Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +116,11 @@ Determino, ao abrigo do disposto no n.º 25.º da [Portaria n.º 1045/80](https:
 
 1.º São acrescentadas ao apêndice I da [Portaria n.º 1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, as matérias enumeradas no quadro abaixo, que deverão ser inseridas naquele de acordo com a respectiva ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf)
 
 2.º É alterada a discriminação das matérias incluídas no quadro abaixo, que passará a ser, em lugar da que consta do apêndice I da [Portaria n.º 1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22400/26042606.pdf)
 
 3.º É alterada a indicação do número da etiqueta de perigo relativo às matérias abaixo enumeradas, que passará a ser, em lugar da que consta da coluna (5) do quadro do apêndice I da [Portaria n.º 1045/80](https://diariodarepublica.pt/dr/detalhe/portaria/1045-1980-459643), de 10 de Dezembro, a seguinte:
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 342-(54) a 342-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0005400065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-e/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65b90a53a62350a093927326fdaca6d0cbd6eb3177e93f1b892ff883247632d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866708325ad08f8cb4488432e54c575506136c583cc6fcde0cf28b0c365476d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Fiscalização
-- Sistema Nacional de Qualificações
+- Formação Profissional
 - Inspecção de Veículos
+- Licença de Inspecção Técnica de Veículos
 - Pessoal Técnico de Inspecção
 - Regime Jurídico
-- Licença de Inspecção Técnica de Veículos
+- Sistema Nacional de Qualificações
 relationships:
 - type: amended_by
   target: pt:dre:910517154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:lei:11/2011
+  label: Altera, a partir de 30 de dezembro de 2023, com efeitos a 28 de janeiro de 2024, nos termos do artigo 6.º do presente
+    diploma, os artigos 19.º, 26.º, 27.º, 29.º e 32.º, adita os artigos 18.º-A a 18.º-H, 20.º-A a 20.º-K e 24.º-A e revoga
+    o n.º 6 do artigo 18.º da Lei n.º 11/2011, de 26 de abril, Diário da República n.º 80/2011, Série I
+  source: null
+  date: '2011-04-26'
+- type: amends
+  target: pt:numero:decreto-lei:144/2012
+  label: Altera, a partir de 30 de dezembro de 2023, com efeitos a 1 de janeiro de 2024, nos termos do artigo 6.º do presente
+    diploma, o artigo 18.º do Decreto-Lei n.º 144/2012, de 11 de julho, Diário da República n.º 133/2012, Série I
+  source: null
+  date: '2012-07-11'
 - type: cites
   target: celex:32018R1724
   label: null
@@ -122,16 +135,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2023/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2023/11/09/p/dre
+- type: cites
+  target: pt:dre:114276584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154820683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206198366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212591472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224017934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2304756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25685766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:258/2003
+  label: Revoga, a partir de 30 de dezembro de 2023, com efeitos a 28 de janeiro de 2024, nos termos do artigo 6.º do presente
+    diploma, o Decreto-Lei n.º 258/2003, de 21 de outubro, Diário da República n.º 244/2003, Série I-A
+  source: null
+  date: '2003-10-21'
 article_structure:
-  article_count: 34
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:22Z'
   warnings: []
   errors: []
 ---
@@ -302,7 +389,9 @@ g) Data de validade.
 
 5 - O modelo da licença de inspeção técnica de veículos é aprovado por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 18.º-B — Requisitos gerais de acesso à profissão de inspetor
+Artigo 18.º-B
+
+Requisitos gerais de acesso à profissão de inspetor
 
 1 - Os candidatos à obtenção da licença de inspeção técnica de veículos devem preencher, cumulativamente, os seguintes requisitos:
 
@@ -350,7 +439,9 @@ c) Nas situações previstas na alínea b) do número anterior, aprovação no e
 
 5 - Os candidatos a inspetores só podem frequentar ação de formação para a realização de inspeções de veículos cujas categorias se encontram habilitados a conduzir.
 
-###### Artigo 18.º-C — Idoneidade
+Artigo 18.º-C
+
+Idoneidade
 
 1 - Considera-se falta de idoneidade para o acesso e exercício da atividade de inspeção técnica de veículos, a condenação, por decisão transitada em julgado, pela prática dos seguintes crimes:
 
@@ -374,7 +465,9 @@ c) Ter ocorrido o esclarecimento integral dos factos e circunstâncias por meio 
 
 5 - Não é considerado idóneo para o exercício da atividade, o ITV ao qual tenha sido aplicada uma medida de proibição ou suspensão do exercício da atividade de inspeção de veículos, enquanto decorrer a aplicação da medida sancionatória.
 
-###### Artigo 18.º-D — Requisitos especiais
+Artigo 18.º-D
+
+Requisitos especiais
 
 1 - Os ITV que queiram realizar inspeções do Tipo I devem:
 
@@ -392,7 +485,9 @@ c) Frequentar, com aproveitamento, uma ação de formação inicial para esta ti
 
 d) Frequentar com aproveitamento ação de formação específica para cada categoria que se propõem a inspecionar.
 
-###### Artigo 18.º-E — Formação e exames
+Artigo 18.º-E
+
+Formação e exames
 
 1 - A formação inicial, a formação de averbamento de categorias e a formação de atualização têm como objetivo garantir que os ITV detêm os conhecimentos e competências necessários para a inspeção dos veículos das categorias para as quais estão habilitados.
 
@@ -446,7 +541,9 @@ b) Prova prática que permita aferir se os candidatos conseguem realizar, de for
 
 9 - Os procedimentos das provas de exame são definidos por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 18.º-F — Validade e renovação
+Artigo 18.º-F
+
+Validade e renovação
 
 1 - A licença de ITV é válida por um período de cinco anos, renovável por iguais períodos.
 
@@ -458,7 +555,9 @@ b) Frequência de ação de formação de atualização.
 
 3 - A renovação pode ser feita nos seis meses que antecedem o termo da validade da licença e até dois anos após o fim da validade.
 
-###### Artigo 18.º-G — Suspensão e cancelamento da licença de ITV
+Artigo 18.º-G
+
+Suspensão e cancelamento da licença de ITV
 
 1 - As licenças de ITV são suspensas enquanto não forem renovadas nos termos do disposto no artigo anterior, ficando os ITV impedidos de exercer a atividade enquanto a licença não for renovada.
 
@@ -468,7 +567,9 @@ a) Se encontre suspensa há mais de 2 anos;
 
 b) O seu titular deixe de preencher algum dos requisitos previstos no artigo 18.º-B.
 
-###### Artigo 18.º-H — Imparcialidade e independência dos inspetores no exercício da atividade
+Artigo 18.º-H
+
+Imparcialidade e independência dos inspetores no exercício da atividade
 
 1 - O ITV não pode inspecionar veículos da propriedade de entidades em relação às quais tenha um conflito de interesses, ou que sejam detidos por estas em regime de contrato de aluguer, de locação financeira ou de outro regime que legitime a posse do veículo.
 
@@ -492,7 +593,9 @@ d) Inspecionar os veículos de que sejam proprietários, locatários ou usufrutu
 
 7 - São nulas quaisquer orientações ou instruções da entidade empregadora que restrinjam a isenção e independência técnica do ITV.
 
-###### Artigo 20.º-A — Certificação de entidades formadoras
+Artigo 20.º-A
+
+Certificação de entidades formadoras
 
 A certificação das entidades formadoras que pretendam exercer a atividade de formação prevista na presente lei segue os trâmites previstos no regime geral da certificação de entidades formadoras, previsto na [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual, com as seguintes adaptações:
 
@@ -500,29 +603,39 @@ a) A entidade competente para a certificação é o IMT, I. P.;
 
 b) As condições especificas de certificação são definidas por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 20.º-B — Publicitação e registo das entidades formadoras
+Artigo 20.º-B
+
+Publicitação e registo das entidades formadoras
 
 1 - A lista de entidades formadoras certificadas é divulgada no sítio da Internet do IMT, I. P.
 
 2 - Para efeitos de integração na lista de entidades formadoras certificadas, referida no número anterior, o IMT, I. P. comunica a certificação, no prazo de 20 dias após emissão do certificado, ao serviço central competente da área governativa responsável pela área da formação profissional.
 
-###### Artigo 20.º-C — Entidades formadoras provenientes de outros Estados-Membros
+Artigo 20.º-C
+
+Entidades formadoras provenientes de outros Estados-Membros
 
 1 - As entidades formadoras legalmente estabelecidas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, para o exercício da atividade de formação prevista na presente lei, podem, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho, na sua redação atual, ministrar em território nacional ações de formação de inspetores técnicos de veículos a motor e seus reboques, mediante comunicação prévia ao IMT, I. P.
 
 2 - A comunicação referida no número anterior deve obedecer ao disposto na presente lei e aos procedimentos definidos na deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 20.º-D — Dispensa de verificação das condições de acesso
+Artigo 20.º-D
+
+Dispensa de verificação das condições de acesso
 
 As entidades formadoras certificadas ao abrigo da [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, na sua redação atual, só necessitam de demonstrar a verificação das condições específicas de certificação previstas na alínea b) do artigo 20.º-A e de que cumprem as disposições constantes nos artigos 20.º-H e 20.º-I.
 
-###### Artigo 20.º-E — Manutenção dos requisitos de certificação
+Artigo 20.º-E
+
+Manutenção dos requisitos de certificação
 
 1 - Os requisitos de certificação são de verificação permanente, devendo as entidades formadoras comprovar o seu cumprimento sempre que lhes seja solicitado pelo IMT, I. P.
 
 2 - As entidades formadoras devem comunicar ao IMT, I. P., no prazo de 10 dias, qualquer alteração aos requisitos de certificação.
 
-###### Artigo 20.º-F — Falta superveniente dos requisitos de certificação
+Artigo 20.º-F
+
+Falta superveniente dos requisitos de certificação
 
 1 - A falta superveniente de qualquer dos requisitos de certificação deve ser suprida no prazo de 60 dias, contados da sua ocorrência.
 
@@ -530,7 +643,9 @@ As entidades formadoras certificadas ao abrigo da [Portaria n.º 851/2010](https
 
 3 - A falta de regularização referida no n.º 1 implica a caducidade da certificação, sem prejuízo das medidas administrativas que venham a ser aplicadas.
 
-###### Artigo 20.º-G — Deveres das entidades formadoras
+Artigo 20.º-G
+
+Deveres das entidades formadoras
 
 São deveres das entidades formadoras certificadas:
 
@@ -546,7 +661,9 @@ e) Manter, pelo período de cinco anos, o registo das ações de formação real
 
 f) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requisitos de certificação.
 
-###### Artigo 20.º-H — Centros de formação
+Artigo 20.º-H
+
+Centros de formação
 
 1 - O centro de formação detém um espaço formativo dotado dos meios necessários à prossecução da atividade formativa que garanta a qualidade da formação.
 
@@ -554,7 +671,9 @@ f) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requ
 
 3 - O IMT, I. P., monitoriza a manutenção contínua dos pressupostos que determinaram a autorização dos centros de formação, devendo as entidades formadoras comprovar o seu cumprimento sempre que tal lhes seja solicitado pelo IMT, I. P.
 
-###### Artigo 20.º-I — Cursos de formação e comunicação de ações
+Artigo 20.º-I
+
+Cursos de formação e comunicação de ações
 
 1 - Os cursos de formação são ministrados pelas entidades formadoras certificadas pelo IMT, I. P., nos termos da presente lei.
 
@@ -566,17 +685,23 @@ f) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requ
 
 5 - A conclusão da formação é comprovada através de um certificado de qualificações emitido no âmbito do Sistema Nacional de Qualificações, sendo as Unidades de Competência (UC) e as Unidades de Formação de Curta Duração (UFCD) capitalizáveis para uma qualificação do Catálogo Nacional de Qualificações (CNQ).
 
-###### Artigo 20.º-J — Desmaterialização de atos e procedimentos da formação
+Artigo 20.º-J
+
+Desmaterialização de atos e procedimentos da formação
 
 Todos os pedidos, comunicações e notificações previstos são efetuados por meios eletrónicos, sendo admissível qualquer outro meio legal sempre que não seja possível o recurso a meios desmaterializados.
 
-###### Artigo 20.º-K — Integração no Sistema Nacional de Qualificações e regulamentação
+Artigo 20.º-K
+
+Integração no Sistema Nacional de Qualificações e regulamentação
 
 1 - A formação estabelecida pela presente lei deve ser articulada com o CNQ, nos termos da legislação aplicável.
 
 2 - O IMT, I. P., em articulação com a Agência Nacional para a Qualificação e o Ensino Profissional, I. P., define a formação a que se refere o número anterior, nos termos do artigo 5.º da [Lei n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei/2-2021-154820683), de 21 de janeiro.
 
-###### Artigo 24.º-A — Medidas administrativas aplicáveis às entidades formadoras
+Artigo 24.º-A
+
+Medidas administrativas aplicáveis às entidades formadoras
 
 1 - Em função da gravidade do incumprimento pelas entidades formadoras certificadas dos deveres e procedimentos estabelecidos na presente lei e, sem prejuízo de sanção contraordenacional a que haja lugar, podem ser aplicadas, pelo conselho diretivo do IMT, I. P., as seguintes sanções administrativas:
 
@@ -660,12 +785,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Pedro Nuno Pereira de Sousa Rodrigues - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 28 de dezembro de 2023.**
+Promulgado em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+117211652

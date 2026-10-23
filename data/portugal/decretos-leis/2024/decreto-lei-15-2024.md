@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01200/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/2024/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d33c0a25b0dee5b2f2a507f1b852de55d53fb8cabc46f0cfda6ac2128f38e71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbea36098a71968827a91738b67b564ed236519d9dbff2ce0cc745f8f1e08a68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Atestado Médico
-- Regulamentação de Atos Legislativos
+- Benefícios Fiscais
+- Deficiente
+- Incapacidade Física
 - Junta Médica
 - Proteção ao Deficiente
-- Incapacidade Física
-- Benefícios Fiscais
+- Regulamentação de Atos Legislativos
 - Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais
 relationships:
 - type: cites
@@ -106,16 +106,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2021/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2021/11/29/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160893668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836105752:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:10-A/2020
+  label: Revoga, a partir de 18 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do n.º 2 e 3 do artigo
+    3.º e da alínea b) do artigo 4.º do presente diploma, o artigo 5.º do Decreto-Lei n.º 10-A/2020, de 13 de março, Diário
+    da República n.º 52/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-03-13'
+- type: repeals
+  target: pt:numero:lei:14/2021
+  label: Revoga, a partir de 18 de janeiro de 2024, com efeitos a 1 de janeiro de 2024, nos termos do n.º 2 do artigo 3.º
+    e da alínea c) do artigo 4.º do presente diploma, a Lei n.º 14/2021, de 6 de abril, Diário da República n.º 66/2021, Série
+    I
+  source: null
+  date: '2021-04-06'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:48Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +228,9 @@ b) [...]
 
 12 - O regime excecional previsto no n.º 9 vigora até 31 de dezembro de 2024, sem prejuízo da sua eventual prorrogação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os requerimentos de avaliação das incapacidades das pessoas com deficiência são dirigidos ao presidente do conselho de administração da ULS, E. P. E., da área da residência habitual dos interessados, devendo ser acompanhados de relatório médico e dos meios auxiliares de diagnóstico complementares que os fundamentam.
 
@@ -198,7 +246,9 @@ b) [...]
 
 7 - Os médicos contratados nos termos do n.º 9 do artigo 2.º, mediante acordo com as ULS, E. P. E., podem ser mobilizados para integrar as JMAI de diferentes regiões.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +274,9 @@ b) [...]
 
 12 - O regime previsto no n.º 10 cessa igualmente quando o prazo médio, registado a nível nacional, para a realização das JMAI, for o indicado no n.º 5 do artigo 3.º
 
-###### Artigo 5.º — Recursos
+Artigo 5.º
+
+Recursos
 
 1 - Da avaliação de incapacidade cabe recurso hierárquico necessário para o dirigente máximo do serviço, a apresentar no prazo de 30 dias.
 
@@ -232,7 +284,9 @@ b) [...]
 
 3 - Da homologação da segunda avaliação pelo dirigente máximo cabe recurso contencioso, nos termos gerais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -268,12 +322,14 @@ c) A [Lei n.º 14/2021](https://diariodarepublica.pt/dr/detalhe/lei/14-2021-1608
 
 Visto e aprovado em Conselho de Ministros de 23 de novembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro.
 
-**Promulgado em 11 de janeiro de 2024.**
+Promulgado em 11 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de janeiro de 2024.**
+Referendado em 12 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117248224

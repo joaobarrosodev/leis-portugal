@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15500/0001200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2020/08/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ef4a273b5a66a196965d7f352a6c6a759a2f3ed9c57652cebd72b81c929851a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d770be1d0c5c833645ce2d92fd4b0ba1b6a3fa320b2a638c350c9a6dd2e46614
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,31 @@ subjects:
 - Autoridade Tributária e Aduaneira
 - CE Países
 - Combate à Fraude
-- Gestão Financeira
+- Comércio
+- Contribuições e Impostos
 - Cooperação Técnica
 - Cooperação Transfronteira
-- Regulamentação de Atos Legislativos
-- União Europeia
-- Fiscalização
-- Fraude Fiscal
-- Contribuições e Impostos
 - Doença Infecciosa
 - Epidemia
-- Sistema de Informação
 - Evasão Fiscal
-- Comércio
+- Fiscalização
+- Fraude Fiscal
+- Gestão Financeira
+- Regulamentação de Atos Legislativos
+- Sistema de Informação
 - Tributação
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: celex:32011L0016
   label: null
@@ -131,16 +137,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:138461836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693810:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:50Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +223,9 @@ Os artigos 22.º e 23.º da [Lei n.º 26/2020](https://diariodarepublica.pt/dr/d
 
 3 - Para efeitos do disposto nos números anteriores, o prazo adicional de 10 dias previsto nos n.os 6 e 8 do artigo 10.º e nos n.os 4 e 6 do artigo 12.º termina a 10 de março de 2021.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 A primeira comunicação de informações pela AT às autoridades competentes de todos os outros Estados-Membros, conforme previsto no artigo 16.º, ocorre até 30 de abril de 2021.»
 
@@ -235,12 +271,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 3 de agosto de 2020.**
+Promulgado em 3 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de agosto de 2020.**
+Referendado em 4 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113472547

@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1974-461402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ec24dcc0902d46f69d00855d3cfde1d0e110536dfefc3c22d2be492a16c10b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12d55eeb31a815a73517622fa9f08a6d1096301c1f111396755361f6af2d4661
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Etiquetagem
+- Lacticínios
+- Leite
+- Preço Máximo
+- Proteção do Consumidor
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:630669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430243:por
+  label: Mantida em vigor, pelo(a) Portaria n.º 512/76 - Diário da República n.º 191/1976, Série I de 1976-08-16, em tudo
+    o que não contraria o presente diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/512-1976-430243
+  date: '1976-08-16'
+- type: amended_by
+  target: pt:dre:141039:por
+  label: Determinada a manutenção do disposto no n.º 7.º pelo(a) Portaria n.º 143/77 - Diário da República n.º 66/1977, Série
+    I de 1977-03-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1977-141039
+  date: '1977-03-19'
+- type: cites
+  target: pt:dre:472161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:630669:por
+  label: Revogado o n.º 7.º pelo(a) Portaria n.º 279/78 - Diário da República n.º 115/1978, 1º Suplemento, Série I de 1978-05-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/279-1978-630669
+  date: '1978-05-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:16Z'
   warnings: []
   errors: []
 ---
@@ -99,25 +142,25 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abaste
 
 2.º - 1. Os preços máximos de venda, por quilograma, do leite em pó são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
 
 2. Os preços máximos de venda de outras fracções serão os correspondentes aos fixados por quilograma.
 
 3.º - 1. Os preços máximos de venda, por quilograma, do leite em pó instantâneo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
 
 2. Os preços máximos de venda de outras fracções serão os correspondentes aos fixados por quilograma.
 
 4.º - 1. Os preços de venda, por quilograma, de leite condensado são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
 
 2. Os preços máximos de venda de outras fracções serão os correspondentes aos fixados por quilograma.
 
 5.º - 1. Os preços máximos de venda, por quilograma, dos produtos derivados do leite abaixo indicados são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/12/30200/16451646.pdf)
 
 2. Os preços máximos de venda de outras fracções serão os correspondentes aos fixados por quilograma.
 

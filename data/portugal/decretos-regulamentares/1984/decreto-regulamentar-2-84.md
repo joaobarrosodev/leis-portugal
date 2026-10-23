@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1984-531803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6721165b7bd9c428f28c54f76f5aecf4572b4b657039ad82df59f8d973beb128
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca212f5c404dda2be3f47b0d0bedccc1e4d720e622de9e996e381c969f809474
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Setúbal
+- Urbanização
+- ZONA Degradada
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:53Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Assim:
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona constituída pelos terrenos a sul do Bairro de Humberto Delgado, em Setúbal.
+Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona constituída pelos terrenos a sul do Bairro de Humberto Delgado, em Setúbal.
 
 2 - Os limites da área crítica referida no número anterior vão demarcados na planta anexa a este diploma, planta que dele faz parte integrante.
 
@@ -101,14 +109,14 @@ Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o
 
 Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - João Rosado Correia.
 
-**Promulgado em 16 de Dezembro de 1983.**
+Promulgado em 16 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Dezembro de 1983.**
+Referendado em 19 de Dezembro de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/00800/00410042.pdf))](https://files.diariodarepublica.pt/1s/1984/01/00800/00410042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/00800/00410042.pdf)

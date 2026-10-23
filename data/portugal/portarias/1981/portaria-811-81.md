@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/811-1981-563271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:55:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d62ca8213a643099d79c6611c04e6fe82190bc74ee1f2023a8be67c9a76b2ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f531bc9cf154ae390f6a8aff760076b80180df3e28190a8e10de65933d9a9781
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:55:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ANO de Escolaridade 12
+- Ensino Superior
+relationships:
+- type: cites
+  target: pt:dre:141653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578475:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:55:19Z'
   warnings: []
   errors: []
 ---
@@ -220,16 +246,16 @@ d) Serão colocados os candidatos do contingente geral.
 
 2 - Ao anexo I da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) são acrescidos os seguintes estabelecimentos e cursos do ensino superior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
 
 3.º Ao anexo II da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) são introduzidas as seguintes alterações e acréscimos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
 
 4.º Ao anexo II da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) é igualmente adicionada uma segunda parte referente aos cursos do ensino superior politécnico.
 
 ## ANEXO II (2.ª parte) — Habilitação geral de acesso ao ensino superior politécnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
 
 Ministério da Educação e Ciência, 2 de Setembro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

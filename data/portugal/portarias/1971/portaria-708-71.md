@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/708-1971-632234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1990a9e9fee4910ec34c9d189185563a0c7c62139056477a1daa0d3b3a7a8c46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b636721cb72b026ef900a8ba1bec5071fd07e9a9134adec9659d249a3d9455a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:146747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315703:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:23Z'
   warnings: []
   errors: []
 ---
@@ -222,13 +242,13 @@ b) Aos olivicultores que disponham de lagar de azeite, para uso exclusivo da sua
 
 28.º Esta portaria entra imediatamente em vigor, com excepção do preceituado em 2 do n.º 13.º, que vigorará noventa dias após a sua publicação.
 
-**O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Ministro da Economia, João Augusto Dias Rosas. - O Secretário de Estado da Agricultura, Vasco Rodrigues de Pinho Leónidas. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.
 
 Tabela a que se refere o n.º 8.º
 
 Preços de intervenção da Junta Nacional do Azeite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf)
 
 A variação do preço do azeite com menos de 1,5º é de $21, de 1,5º a 2º é de $11 e de 2º a 4º é de $08, tudo por décimo de acidez.
 
@@ -236,6 +256,6 @@ Quadro a que se refere o n.º 14.º
 
 Máximo admitido para despesas gerais de transporte, preparação e acondicionamento, incluído o custo do recipiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf))](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/29700/19801982.pdf)
 
-**O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Secretário de Estado do Comércio, Valentim Xavier Pintado.

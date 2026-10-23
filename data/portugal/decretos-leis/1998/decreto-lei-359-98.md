@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/359/1998/11/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1998-229305
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 482a2d4430de78a25a2ccf4c018f62ff91cb0563e11ebc8b6b87861b49c7c571
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880f32fe51b77a4db051aa72e15c1ee30542685c514c99ba1ac08d06251c75c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CEE
+- Equivalência de Diplomas
 - Formação Profissional
 - Livre Circulação de Trabalhadores
-- Equivalência de Diplomas
 relationships:
 - type: cites
   target: celex:31989L0048
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:28Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +130,12 @@ Em cumprimento do n.º 9 do artigo 112.º e nos termos da alínea a) do n.º 1 d
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 29 de Outubro de 1998.**
+Promulgado em 29 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 1998.**
+Referendado em 9 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

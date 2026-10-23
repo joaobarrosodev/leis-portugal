@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/01/024b00/05340537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/1995/01/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1995-141197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6269353e64d40d127c0db715937d371a34476ab92eda84ab98360883a12b37f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0a3a184bb7a8aa0b0c081d55a4640b7ebda4fa87ba9be0c8359defd4020301f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Árvore
-- Gado Caprino
 - CEE
 - Cereal
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gado Caprino
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
 - Regulamento CE
 - Sistema Integrado de Gestão e Controlo
@@ -83,6 +83,12 @@ relationships:
   target: pt:dre:589686:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DERROGADO A TÍTULO EXCEPCIONAL, EXCLUSIVAMENTE PARA AS REGIÕES AGRÁRIAS DO ALENTEJO E ALGARVE, PARA A CAMPANHA DE\
+    \ COMERCIALIZACAO DE 1995-1996, O DISPOSTO NA AL A) DO NUM 4 PELO DN 19/95 DE 09-MAR DR.IS-B [96] DE 24/ABR/1995 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-24'
 - type: cites
   target: celex:31968R0805
   label: null
@@ -111,16 +117,21 @@ relationships:
   target: celex:31993R0738
   label: null
   source: http://data.europa.eu/eli/reg/1993/738/oj
+- type: repealed_by
+  target: pt:dre:589686:por
+  label: "Revogado pelo DN.5/96.15.01.1996.MADRP, DR.IS-B [12] de 15.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-1996-589686
+  date: '1996-01-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:44Z'
   warnings: []
   errors: []
 ---
@@ -187,4 +198,4 @@ d) Em caso de alteração de cultura em parcelas constantes na declaração.
 
 Ministério da Agricultura, 21 de Dezembro de 1994. - O Ministro da Agricultura, António Duarte Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/024b00/05340537.pdf))](https://files.diariodarepublica.pt/1s/1995/01/024b00/05340537.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/024b00/05340537.pdf)

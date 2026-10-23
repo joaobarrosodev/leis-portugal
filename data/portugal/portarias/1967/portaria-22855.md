@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22855-1967-390614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a812ada14a666acc0d5d16074441d74423b59eedb43a8ebaac3dbbcc291b6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e67bca96fa5b6cefc9e83476f6653143396186e43163016c5b77b3514369e83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:32Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +108,7 @@ a) Reforçar com a quantia de 250000$00 a verba do capítulo 10.º, artigo 306.�
 
 Despesas com o pessoal:
 
-###### Artigo 254.º «Remunerações certas ao pessoal em exercício»:
+Artigo 254.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 2) «Pessoal contratado» ... 210000$00
 
@@ -112,7 +124,7 @@ Repartição Provincial dos Serviços de Economia
 
 Despesas com o pessoal:
 
-###### Artigo 215.º «Remunerações certas ao pessoal em exercício»:
+Artigo 215.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei» ... 49225$00
 
@@ -122,7 +134,7 @@ Repartição Provincial dos Serviços de Obras Públicas e Transportes
 
 Despesas com o pessoal:
 
-###### Artigo 225.º, n.º 5) «Remunerações acidentais - Senhas de presença aos membros do Conselho dos Transportes Terrestres (artigo 60.º do Diploma Orgânico dos Serviços Provinciais de Obras Públicas e Transportes)» ... 2060$00
+Artigo 225.º, n.º 5) «Remunerações acidentais - Senhas de presença aos membros do Conselho dos Transportes Terrestres (artigo 60.º do Diploma Orgânico dos Serviços Provinciais de Obras Públicas e Transportes)» ... 2060$00
 
 ... 100000$00
 

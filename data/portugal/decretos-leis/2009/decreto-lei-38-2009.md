@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/38/2009/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2009-601371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dd23f4db7b2c47bfe233e40cc60951b8706e057ba0c1c1232634d65ec9dd8cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7f35739bb9fd8a5f66b4bef13a3dde7c330c1865add30932bca6406ab3629c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,26 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Saúde Pública
-- Etiquetagem
-- Embalagem
-- Produto Hortícola
-- Produto Fitofarmacêutico
-- Semente
 - Comércio
+- Embalagem
+- Etiquetagem
 - Produto Agrícola
+- Produto Fitofarmacêutico
+- Produto Hortícola
+- Saúde Pública
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:334276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 144/2005, de 26-Ago, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -94,16 +101,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/144/2005/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/2005/08/26/p/dre
+- type: repealed_by
+  target: pt:dre:334276:por
+  label: "Revogado, a partir de 25.07.2010, pelo DEC LEI.88/2010.20.07.2010.MADRP, DR.IS [139] de 20.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2010-334276
+  date: '2010-07-20'
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:35Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +172,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 29.º — Requisitos de acondicionamento, etiquetagem e comercialização
+Artigo 29.º
+
+Requisitos de acondicionamento, etiquetagem e comercialização
 
 1 - ...
 
@@ -182,7 +196,9 @@ b) Além das precauções toxicológicas e ambientais estabelecidas pela DGADR, 
 
 6 - A comercialização e o uso de sementes tratadas nos termos do disposto na alínea b) do n.º 4 carece de parecer favorável da DGADR, por solicitação das empresas detentoras do produto fitofarmacêutico, o qual estabelecerá ainda as precauções toxicológicas e ambientais a inscrever nas etiquetas ou embalagens de sementes, devendo o solicitante proceder à sua divulgação e disponibilização pelas empresas de sementes.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +228,9 @@ h) O nome do produto fitofarmacêutico utilizado no tratamento da semente, e o r
 
 6 - Para efeitos do disposto na alínea h) do número anterior, em matéria de etiquetagem aplica-se à semente importada para uso ou comercialização o procedimento referido no n.º 6 do artigo 29.º
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +286,9 @@ bb) [Anterior alínea z).]
 
 2 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -294,21 +314,21 @@ O disposto no n.º 1 do artigo 2.º e no artigo 4.º produz efeitos a partir de 
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2008. - Luís Filipe Marques Amado - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Ascenso Luís Seixas Simões - Ana Maria Teodoro Jorge.
 
-**Promulgado em 23 de Janeiro de 2009.**
+Promulgado em 23 de Janeiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Janeiro de 2009.**
+Referendado em 26 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 «ANEXO II
 
 [...]
 
-# Parte A
+Parte A
 
 1 - [...]
 
@@ -326,11 +346,11 @@ Galega orientalis Lam. - Galega forrageira;
 
 [...]
 
-# Parte B
+Parte B
 
 [...]
 
-# Parte C
+Parte C
 
 [...]
 
@@ -342,7 +362,7 @@ Galega orientalis Lam. - Galega forrageira;
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
 
 [...]
 
@@ -352,7 +372,7 @@ QUADRO II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
 
 [...]
 
@@ -366,14 +386,14 @@ QUADRO III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02800/0089200896.pdf)
 
 [...]
 
-# Parte D
+Parte D
 
 [...]
 
-# Parte E
+Parte E
 
 [...]»

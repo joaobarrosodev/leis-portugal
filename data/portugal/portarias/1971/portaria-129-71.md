@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-1971-445519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f407f8e4b300f35e24dea140bad9d203d284308b8845fda8f4e78e93dfb003c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9c266b8ad9f05127d0cb5b712d00eb2c30b1ed79c837d9957002a649fca985e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:35Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +87,8 @@ de 11 de Março
 
 Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeiros, que pela verba do n.º 1) do artigo 27.º, capítulo 5.º, do orçamento em vigor sejam abonadas aos consulados de Portugal abaixo indicados, durante o 1.º semestre de 1971, as importâncias mensais a seguir mencionadas, a fim de ocorrerem ao pagamento de salários ao pessoal assalariado em serviço nos referidos postos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/03/05900/03130317.pdf))](https://files.diariodarepublica.pt/1s/1971/03/05900/03130317.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/03/05900/03130317.pdf)
 
-**O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.**
+O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.
 
 (Não carece de visto ou anotação do Tribunal de Contas.)

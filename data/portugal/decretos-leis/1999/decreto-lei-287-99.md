@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/287/1999/07/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1999-345533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ed5a0ff527bced9cfc24088260f54f54caa55b1140770f54b5d9fb713fe5458
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e6133e3a1e8334bd869b2d03725e5bfaa016a190c32c82f56d506707819c2d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auto-estrada
 - Auto-estrada Almeirim-marateca
 - Auto-estrada do SUL
 - Auto-estrada Figueira da Foz-coimbra
 - Auto-estrada Marateca-caia
 - Auto-estrada Porto-valença
-- Financiamento
+- Benefícios Fiscais
 - Brisa
 - Comparticipação do Estado
 - Contrato de Concessão
 - CREL
 - Custo da Construção
 - Expropriação
-- Ministro das Finanças
+- Financiamento
 - Isenção de Portagem
-- Auto-estrada
+- Ministro das Finanças
 - Ministro do Equipamento do Planeamento e da Administração do Território
 - Portagem
-- Benefícios Fiscais
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:487370:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539627:por
+  label: "Alterada a Base XV do contrato de concessão outorgado à Brisa anexo ao Dec Lei 294/94 de 24-Out, na redacção conferida\
+    \ pelo presente diploma pelo DEC LEI.326/2001.2001.12.18.MF, DR.IS-A [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-2001-539627
+  date: '2001-12-18'
+- type: amended_by
+  target: pt:dre:487370:por
+  label: "Alteradas as bases i, vii, xiv, xxiv, xxxiv-a e xl, todas das bases da concessão de construção, conservação e exploração\
+    \ de auto-estradas atribuídas à BRISA - Auto-Estradas de Portugal, S. A., aprovadas pelo Decreto-Lei n.º 294/97, de 24\
+    \ de Outubro, na redacção do presente diploma, e republicadas em anexo com a redacção actual, pelo DEC LEI.247-C/2008.30.12.2008.MOPTC,\
+    \ DR.IS [251-2ºSupl] de 30.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-c-2008-487370
+  date: '2008-12-30'
 - type: cites
   target: celex:31990R1103
   label: null
   source: http://data.europa.eu/eli/reg/1990/1103/oj
+- type: repealed_by
+  target: pt:dre:584819:por
+  label: "Revogada a al. c) do nº 2 da base I das bases do contrato de concessão anexas ao Dec Lei 294/97 de 24-Out, com a\
+    \ redacção do presente diploma, pelo DEC LEI.314-A/2002.2002.12.26.MOPTH DR.IS-A [298]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-a-2002-584819
+  date: '2002-12-26'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:31Z'
   warnings: []
   errors: []
 ---
@@ -142,15 +162,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999.**
+Referendado em 14 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Base I
 
@@ -176,13 +196,17 @@ d) Construídas pela concessionária e ficando sujeitas ao regime de portagem pr
 
 Ligação do nó de Braga Sul à circular sul de Braga, com a extensão de 5 km.
 
-###### Base VII — Programa de execução das auto-estradas
+Base VII
+
+Programa de execução das auto-estradas
 
 1 - ...
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/07/174a00/47624764.pdf)
 
-###### Base XI — Comparticipação financeira do Estado
+Base XI
+
+Comparticipação financeira do Estado
 
 ...
 
@@ -202,7 +226,9 @@ i) A débito, pelos montantes das comparticipações financeiras devidas pelo Es
 
 ...
 
-###### Base XIII — Benefícios fiscais da concessionária
+Base XIII
+
+Benefícios fiscais da concessionária
 
 ...
 
@@ -224,7 +250,9 @@ e) São ainda consideradas como custos para efeitos do IRC as seguintes amortiza
 
 ...
 
-###### Base XV — Taxas de portagem
+Base XV
+
+Taxas de portagem
 
 ...
 
@@ -238,7 +266,9 @@ e) São ainda consideradas como custos para efeitos do IRC as seguintes amortiza
 
 ...
 
-###### Base XXIV — Calendário de apresentação e aprovação de estudos
+Base XXIV
+
+Calendário de apresentação e aprovação de estudos
 
 ...
 
@@ -250,7 +280,9 @@ A3 - lanço Braga Sul-circular sul de Braga - elaboração dos projectos de exec
 
 ...
 
-###### Base XXXIV-A — Outras infra-estruturas
+Base XXXIV-A
+
+Outras infra-estruturas
 
 1 - A concessionária pode, relativamente a infra-estruturas ou obras acessórias, efectuadas ou a efectuar, que sejam exigidas pela, ou se integrem na, concessão, desde que a cessão não prejudique o objecto da concessão, e mediante autorização do Ministro das Finanças e do ministro da tutela do sector rodoviário, que verificará o preenchimento do requisito anterior, ceder a terceiro a instalação e ou exploração de infra-estruturas, designadamente de infra-estruturas de telecomunicações, para fins diferentes da concessão, sem prejuízo dos direitos do concedente, nos termos das bases XLI, XLII, XLIV e XLV.
 
@@ -258,6 +290,8 @@ A3 - lanço Braga Sul-circular sul de Braga - elaboração dos projectos de exec
 
 ...
 
-###### Base XL — Prazo de concessão
+Base XL
+
+Prazo de concessão
 
 A concessão termina em 31 de Dezembro de 2032.

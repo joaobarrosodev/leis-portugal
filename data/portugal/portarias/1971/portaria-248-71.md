@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-1971-644484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 138e568b5750453b4aadf3af5c2cf919358bc99cd3c79da94eb8054e16b25275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65a281158ee82b642cd4d61fe1eb2e7045c7bb6f4621965000126d45a2f73d2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,20 @@ relationships:
   target: pt:dre:690207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233323:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:26Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +102,4 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, sob propo
 
 3.º A caução não poderá ser retida por um período superior a doze meses, contado a partir da data da sua prestação.
 
-**O Ministro das Finanças, João Augusto Dias Rosas.**
+O Ministro das Finanças, João Augusto Dias Rosas.

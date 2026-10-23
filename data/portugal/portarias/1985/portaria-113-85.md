@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/02/04300/04090410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-1985-327124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc44a843d12525e20a278b010e26cb69dd706c31e91b270d9067e422689626e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e6e2aaf12cfa03d2e6690bfe33d8a843ac8e819b8a5920715254b6dcd88e228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Custo da Construção
+- Habitação Social
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:227058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:451222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660559:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227058:por
+  label: "Revogada pela PORT.239/86.1986.05.22.MOPTC DR.IS [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-1986-227058
+  date: '1986-05-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:33Z'
   warnings: []
   errors: []
 ---
@@ -101,12 +118,12 @@ Manda o Governo da República Portuguesa, pelo Ministro do Equipamento Social, o
 
 15.º - 1 - Na ausência de legislação especifica, os valores máximos atribuídos em 1985 às habitações de custos controlados, por tipologia e zonas do País, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/02/04300/04090410.pdf))](https://files.diariodarepublica.pt/1s/1985/02/04300/04090410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/02/04300/04090410.pdf)
 
 2.º É revogada a [Portaria n.º 95/84](https://diariodarepublica.pt/dr/detalhe/portaria/95-1984-660559), de 13 de Fevereiro.
 
 Ministério do Equipamento Social.
 
-**Assinada em 30 de Janeiro de 1985.**
+Assinada em 30 de Janeiro de 1985.
 
-**O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro do Equipamento Social, João Rosado Correia.

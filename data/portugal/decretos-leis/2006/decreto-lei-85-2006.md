@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2006/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2006-633290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbb886be237b9d4ffdedeaff97fa1622cffab291f74221208d3afd7478838537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4522d730ca7fb7b4c97779432befbd80a436f704cf55e028c2a24039b21719ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livrete de Veículo Automóvel
+- Açores
 - Conservatória do Registo Automóvel
 - Contrato de Aluguer
 - Direcção Geral dos Registos e do Notariado
-- Registo Automóvel
-- Emolumento
-- Veículo
 - Documento Eletrónico
-- Madeira.região Autónoma
 - Documento Único Automóvel
+- Emolumento
+- Livrete de Veículo Automóvel
+- Madeira.região Autónoma
+- Registo Automóvel
 - Regulamento do Registo de Automóveis
 - Regulamento Emolumentar dos Registos e Notariado
-- Açores
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:123962149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356373:por
+  label: "Alterado o artigo 28.º do Decreto-Lei 322-A/2001, de 14 de Dezembro, na redacção do presente diploma, pelo DEC LEI.125/2006.29.06.2006.MJ,\
+    \ DR.IS-A [124] de 29.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2006-356373
+  date: '2006-06-29'
+- type: amended_by
+  target: pt:dre:640908:por
+  label: "Alterado o art. 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de\
+    \ 14-Dez, na redacção do presente diploma, pela LEI.40/2007.24.08.2007.AR, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o artigo 28.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei 322-A/2001\
+    \ de 14 de Dezembro, na redacção do presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:248220:por
+  label: "Alterado o art. 25º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001 de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.20/2008.31.01.2008.MJ, DR.IS [22] de 31.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2008-248220
+  date: '2008-01-31'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322-A/2001, de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:487360:por
+  label: "Alterado o art. 28º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Dec Lei 322 -A/2001, de\
+    \ 14-Dez, na redacção do presente diploma, pelo DEC LEI.247-B/2008.30.12.2008.MJ, DR.IS [251-Supl] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-b-2008-487360
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:344272:por
+  label: "Alterados, a partir de 01.10.2010, os arts. 25º e 28º do Regulamento Emolumentar dos Registos e Notariado, aprovado\
+    \ pelo Dec Lei 322-A/2001 de 14-Dez, com a redacção do presente diploma, pelo DEC LEI.99/2010.02.09.2010.MJ, DR.IS [171]\
+    \ de 02.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-2010-344272
+  date: '2010-09-02'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Alterados os art.s 25º e 28º do Regulamento Emolumentar dos Registos e do Notariado aprovado pelo Dec Lei 322-A/2001,\
+    \ de 14-dez, na redação do presente diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:107094725:por
+  label: Alterado o art. 5.º do Dec Lei 54/75 de 12-fev, na redação do presente diploma, pelo(a) Lei n.º 30/2017 - Diário
+    da República n.º 104/2017, Série I de 2017-05-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-2017-107094725
+  date: '2017-05-30'
+- type: amended_by
+  target: pt:dre:114358690:por
+  label: Alterado o art. 28.º do Regulamento Emolumentar dos Registos e Notariado aprovado pelo Dec Lei 322-A/2001, de 14-dez,
+    na redação do presente diploma pelo(a) Lei n.º 110/2017 - Diário da República n.º 240/2017, Série I de 2017-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2017-114358690
+  date: '2017-12-15'
+- type: amended_by
+  target: pt:dre:123962149:por
+  label: Alterado o art. 5.º do Dec Lei 54/75, de 12-fev, na redação do presente diploma pelo(a) Decreto-Lei n.º 111/2019
+    - Diário da República n.º 156/2019, Série I de 2019-08-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2019-123962149
+  date: '2019-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -125,16 +193,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32-b/2002/12/30/p/dre
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70300348:por
+  label: Revogado, a partir de 01.11.2015, o n.º 6 do art. 24.º do Dec Lei 178-A/2005 de 28-out, alterado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 201/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2015-70300348
+  date: '2015-09-17'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:29Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +353,9 @@ Os artigos 7.º e 24.º do [Decreto-Lei n.º 178-A/2005](https://diariodarepubli
 
 2 - O disposto no número anterior não é aplicável aos veículos afectos ao regime de aluguer sem condutor, cujas regras de substituição do certificado de matrícula são reguladas por portaria conjunta dos Ministros de Estado e da Administração Interna e da Justiça.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -371,12 +535,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 4 de Maio de 2006.**
+Promulgado em 4 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 11 de Maio de 2006.**
+Referendado em 11 de Maio de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

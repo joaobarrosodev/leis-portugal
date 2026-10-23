@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 76/2023, 1º Suplemento, Série I de 2023-04-18
   number: '76'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6-(2) a 6-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07601/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26-b/2023/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2023-211996385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9324a73ac99a8fd529753d9b284fc05909d2d61979f5dbc6b76ac1b0eec9b8c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae991f52ca4fa16e69efda20314b80ff38c359553fc637596df43575c12bf26c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Coeficiente de Actualização
 - Administração Pública
-- Remuneração Acessória
-- Remuneração
-- Funcionário Público
+- Coeficiente de Actualização
 - Estatuto Remuneratório
+- Função Pública
+- Funcionário Público
+- Remuneração
+- Remuneração Acessória
 - Tabela Salarial
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
@@ -79,6 +79,13 @@ relationships:
   target: pt:dre:873755644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Atualizado, a partir de 30 de julho de 2024, com efeitos a 01 de janeiro de 2023, a remuneração prevista no presednte
+    diploma, pelo(a) Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29,
+    nos termos do seu n.º 2 do artigo 81.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
   label: null
@@ -91,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:204916688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:43Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +178,14 @@ O presente decreto-lei produz efeitos a partir de 1 de janeiro de 2023.
 
 Visto e aprovado em Conselho de Ministros de 13 de abril de 2023. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia.
 
-**Promulgado em 14 de abril de 2023.**
+Promulgado em 14 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de abril de 2023.**
+Referendado em 18 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116383355

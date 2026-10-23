@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200/2007/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2007-520607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 312080669877e0987edb03cc1560adcd83a10bd25caf307017d917ca45021da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c702556352b3330e672b8791ad8415f1b6cf4110eddece91746181c7a44f9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,12 +70,12 @@ subjects:
 - Concurso de Acesso
 - Direcção Geral dos Recursos Humanos da Educação
 - Educador de Infância
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Estabelecimento de Ensino
-- Pessoal Docente
 - Ensino Básico
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Pessoal Docente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime Jurídico
 - ZONA Pedagógica
 relationships:
@@ -123,16 +123,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:635846:por
+  label: "Rectificado pela DECL-RECT.58/2007.12.06.2007.PCM, DR.IS [121] de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/58-2007-635846
+  date: '2007-06-12'
+- type: repealed_by
+  target: pt:dre:570766:por
+  label: "Revogado, a partir de 16.02.2014, o Dec Lei 249/92 de 09-nov, alterado pelo presente diploma, pelo DEC LEI.22/2014.11.02.2014.MECI,\
+    \ DR.IS [29] de 11.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2014-570766
+  date: '2014-02-11'
 article_structure:
   article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:43Z'
   warnings: []
   errors: []
 ---
@@ -521,20 +580,20 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 15 de Maio de 2007.**
+Promulgado em 15 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Maio de 2007.**
+Referendado em 16 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Estruturação dos grupos de recrutamento em departamentos, nos termos da alínea b) do n.º 2 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf)
 
 ## ANEXO II — Critérios e pontuações de análise curricular nos termos do n.º 15 do artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09800/33983406.pdf)

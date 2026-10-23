@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/509-1981-578369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0141b56b481de21f10152f9d797a4f66c38b489992407c3b83a449454a1a13d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a0391c9afae2360cc68b260329cbdc119178917c6f75f030540c66fa88ac05f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda aos Sinistrados
+- Função Pública
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:609149:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609149:por
+  label: "Alterada pela PORT.296/82.1982.03.18.MDN DR.IS [64]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1982-609149
+  date: '1982-03-18'
+- type: cites
+  target: pt:dre:397153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:48Z'
   warnings: []
   errors: []
 ---
@@ -98,6 +119,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, da
 
 Quadro de pessoal do SNA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/14300/14721473.pdf))](https://files.diariodarepublica.pt/1s/1981/06/14300/14721473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/14300/14721473.pdf)
 
 Ministérios da Defesa Nacional, das Finanças e do Plano e da Reforma Administrativa, 2 de Junho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro da Defesa Nacional, José Miguel Nunes Anacoreta Correia, Secretário de Estado da Defesa Nacional. - Pelo Ministro da Reforma Administrativa, José Queirós Lopes Raimundo, Secretário de Estado da Reforma Administrativa.

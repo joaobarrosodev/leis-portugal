@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/22/1995/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1995-431870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc51b96bee4df18f93ff32add389890925c79bb230dd615c98abc9059e2881f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8662e24fe71f7efb5d45ad6f2ddd684c4132f94e3ad38bef24833b8929b685b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
+- Dados Pessoais
 - Direcção Geral das Alfândegas
-- Informática
 - Fraude Aduaneira
 - Fraude Fiscal
-- Base de Dados
+- Informática
+- Segredo Profissional
 - Segurança da Informação
 - Sistema de Informação
-- Segredo Profissional
-- Dados Pessoais
 - Sistema Integrado de Informação Aduaneira Antifraude
 relationships:
 - type: cites
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:05Z'
   warnings: []
   errors: []
 ---
@@ -225,12 +225,12 @@ Presidência do Conselho de Ministros, 19 de Junho de 1995.
 
 Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.
 
-**Promulgado em 28 de Julho de 1995.**
+Promulgado em 28 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Agosto de 1995.**
+Referendado em 1 de Agosto de 1995.
 
 Pelo Primeiro-Ministro, Manuel Dias Loureiro, Ministro da Administração Interna.

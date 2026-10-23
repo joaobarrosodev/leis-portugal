@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2000/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2000-580872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:18:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 027dabd176607829fc9917a08666c3edbc6668be17ccb154b7a3187ebf9ca1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ed1dccc4809ca61cd82a707c7e17f767bba5275c4817747fb955f7fba5be041
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:18:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,51 @@ reuse:
 subjects:
 - ADSE
 - Assistência Medicamentosa
-- Infarmed
 - Comparticipação do Estado
-- Serviço Nacional de Saúde
+- Infarmed
 - Medicamento
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:494187:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:441099:por
+  label: "Alterado o art. 6º do Dec Lei 118/92 de 25-Jun, na redacção do Dec Lei 305/98 de 07-Out e do presente diploma pelo\
+    \ DEC LEI.270/2002.2002.12.02.MS, DR.IS-A [278]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-2002-441099
+  date: '2002-12-02'
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterado o art. 2º do Dec Lei 118/92 de 25-Jun, com a redacção do presente diploma, pelo DEC LEI.90/2004.20.04.2004.MS,\
+    \ DR.IS-A [93] de 20.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
+- type: amended_by
+  target: pt:dre:241811:por
+  label: "Alterados os arts. 2.º e 3.º do Dec Lei 118/92, de 25-Jun, na redacção do presente diploma, e republicado em anexo\
+    \ na versão actual, pelo DEC LEI.129/2005.11.08.2005.MS, DR.IS-A [154] de 11.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2005-241811
+  date: '2005-08-11'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 2º do Dec Lei 118/92 de 25-Jun, alterado e republicado pelo Dec Lei 129/2005 de 11-Ago, e na redacção\
+    \ do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:518420:por
+  label: "Alterado o art. 6º do Dec Lei 118/92, de 25-Jun, na redacção do presente diploma, pelo DEC LEI.65/2007.14.03.2007.MS,\
+    \ DR.IS [52] de 14.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2007-518420
+  date: '2007-03-14'
+- type: amended_by
+  target: pt:dre:494187:por
+  label: "Dada nova redacção ao art. 3º do Dec Lei 118/92 de 25-Jun, com a redacção constante do presente diploma, pelo DEC\
+    \ LEI.129/2009.29.05.2009.MS, DR.IS [104] de 29.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2009-494187
+  date: '2009-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/1994/04/19/p/dre
   label: null
@@ -97,16 +133,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
+- type: cites
+  target: pt:dre:235927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:18:50Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +229,9 @@ c) A uma redução dos montantes de comparticipação e dos preços de venda ao 
 
 d) À fixação de um valor máximo de vendas do medicamento a comparticipar, o qual, uma vez ultrapassado, determinará o reembolso ao SNS, pelo titular da respectiva autorização de introdução no mercado, do montante de comparticipação correspondente à facturação que exceda o valor acordado.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A comparticipação do Estado no custo de medicamentos integrados nos escalões B, C e D é acrescida de 15% para os pensionistas que aufiram pensões de montante não superior ao salário mínimo nacional.
 
@@ -183,7 +245,9 @@ d) À fixação de um valor máximo de vendas do medicamento a comparticipar, o 
 
 6 - A comparticipação do Estado no custo de medicamentos genéricos integrados nos escalões B, C e D é acrescida de 10%.
 
-###### Artigo 4.º — Autorização
+Artigo 4.º
+
+Autorização
 
 1 - ...
 
@@ -193,7 +257,9 @@ d) À fixação de um valor máximo de vendas do medicamento a comparticipar, o 
 
 4 - A comparticipação do medicamento caduca, em todas as apresentações com a mesma dosagem e forma farmacêutica, se, no prazo de um ano a contar da notificação da decisão, o requerente não o comercializar no âmbito do SNS e ADSE, ou se, após a comercialização, o medicamento não estiver disponível no mercado por prazo superior a 90 dias.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A avaliação dos medicamentos para efeitos de inclusão na lista de medicamentos comparticipados pelo Serviço Nacional de Saúde e a sua reavaliação sistemática nos termos do artigo 6.º-A assentam em critérios de natureza técnico-científica, que evidenciem a sua eficácia e efectividade para as indicações terapêuticas reclamadas.
 
@@ -213,7 +279,9 @@ f) Associações medicamentosas de substâncias activas que não existam no merc
 
 3 - Sem prejuízo do disposto no número anterior, os medicamentos aprovados ao abrigo da alínea a) do artigo 7.º do [Decreto-Lei n.º 72/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1991-478253), de 8 de Fevereiro, poderão ser comparticipados se apresentarem preço igual ao do medicamento de referência e desde que solicitada a comparticipação em simultâneo com este último.
 
-###### Artigo 7.º — Exclusão da comparticipação
+Artigo 7.º
+
+Exclusão da comparticipação
 
 1 - A decisão sobre a exclusão de medicamentos da comparticipação é da competência do Ministro da Saúde e deve fundamentar-se numa das seguintes razões:
 
@@ -257,7 +325,9 @@ Reavaliação sistemática
 
 O INFARMED procede à reavaliação sistemática dos medicamentos comparticipados com uma periodicidade não superior a três anos, por forma a aferir se os mesmos continuam a reunir os requisitos de comparticipação nos termos deste diploma.
 
-###### Artigo 7.º-A — Ajustamento do preço decorrente de custo excessivo
+Artigo 7.º-A
+
+Ajustamento do preço decorrente de custo excessivo
 
 1 - Os titulares de autorização de introdução no mercado de medicamentos comparticipados relativamente aos quais se verifique custo excessivo nos termos definidos no n.º 2 do artigo 7.º devem, no prazo de 180 dias após notificação do Instituto Nacional da Farmácia e do Medicamento (INFARMED), ajustar o preço daqueles produtos, em conformidade com o estabelecido naquela disposição legal.
 
@@ -281,17 +351,19 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Joaquim José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 14 de Agosto de 2000.**
+Promulgado em 14 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Agosto de 2000.**
+Referendado em 24 de Agosto de 2000.
 
 O Primeiro Ministro, em exercício, Jaime José Matos da Gama.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Objecto e âmbito
 

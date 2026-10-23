@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2009/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2009-493053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82b4f2ff4a8e2f49845aff18189ee286bcff5892b74d1243e107c8eeed517931
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e218809149dbf2dd362210512cbffe089bc21b75eb66105df6fc54ba8877bffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
+- Administração Regional
+- Agricultura
 - Ajuste Direto
 - Aproximação das Legislações
-- Garantia
 - Caderno de Encargos
-- Desenvolvimento Rural
 - Comissão de Acompanhamento
 - Concurso Público
 - Contrato
 - Contrato de Concessão
 - Controlo Orçamental
+- Desenvolvimento Rural
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
 - Fiscalização
-- Projeto de Investimento
+- Garantia
 - Interpretação do Direito
 - Jovem Agricultor
 - Obras Públicas
-- QCA III
 - Projecto Agrícola
-- Administração Local
+- Projeto de Investimento
+- QCA III
 - Regime Jurídico
-- Agricultura
-- Administração Regional
 relationships:
 - type: cites
   target: celex:32004L0018
@@ -106,13 +106,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:54Z'
   warnings: []
   errors: []
 ---
@@ -151,12 +151,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Luís Medeiros Vieira - Mário Lino Soares Correia.
 
-**Promulgado em 21 de Julho de 2009.**
+Promulgado em 21 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de Julho de 2009.**
+Referendado em 22 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

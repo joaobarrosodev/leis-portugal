@@ -49,40 +49,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1983-451456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f41509cdebbb74fee93f94f415081d20ca5d09f7d203d994d971e2a243e40d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e7b0628b1de27c0aab62f0943b8b0b912f5f5e98878f69e0fca98a0ce5b29ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Loja Franca
+- SALA de Trânsito
 relationships:
 - type: amended_by
   target: pt:dre:406119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406119:por
+  label: "Alterado o art. 6.º, pelo DR.65/87.1987.12.31.MF, DR.IS [300]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-1987-406119
+  date: '1987-12-31'
+- type: cites
+  target: pt:dre:141179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457423:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:35Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +127,7 @@ O Governo decreta, ouvidos os Governos Regionais das Regiões Autónomas da Made
 
 ### CAPÍTULO I — Funcionamento e fiscalização das salas de trânsito internacional
 
-###### Artigo 1.º - 1 - Os cartões de acesso às salas de trânsito internacional a que se refere a alínea b) do n.º 3 do artigo 6.º do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), de 10 de Novembro, deverão ser requeridos no aeroporto a que respeitarem, pelas entidades com actividades naquelas zonas, juntando-se ao requerimento a pública-forma do bilhete de identidade e o certificado do registo criminal do interessado.
+Artigo 1.º - 1 - Os cartões de acesso às salas de trânsito internacional a que se refere a alínea b) do n.º 3 do artigo 6.º do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), de 10 de Novembro, deverão ser requeridos no aeroporto a que respeitarem, pelas entidades com actividades naquelas zonas, juntando-se ao requerimento a pública-forma do bilhete de identidade e o certificado do registo criminal do interessado.
 
 2 - Os cartões só serão válidos até ao fim do ano civil em que forem concedidos.
 
@@ -109,21 +137,21 @@ O Governo decreta, ouvidos os Governos Regionais das Regiões Autónomas da Made
 
 5 - A Direcção-Geral das Alfândegas dará conhecimento à entidade encarregada da segurança das salas de trânsito internacional do modelo oficial de cartão a que se refere o n.º 4.
 
-###### Art. 2.º - 1 - As entidades que tenham requerido cartões de acesso nos termos do artigo 1.º deste diploma devem comunicar imediatamente ao aeroporto a cessação do vínculo, laboral ou outro, que tenha justificado o respectivo requerimento, procedendo, no prazo de 3 dias, à devolução do cartão.
+Art. 2.º - 1 - As entidades que tenham requerido cartões de acesso nos termos do artigo 1.º deste diploma devem comunicar imediatamente ao aeroporto a cessação do vínculo, laboral ou outro, que tenha justificado o respectivo requerimento, procedendo, no prazo de 3 dias, à devolução do cartão.
 
 2 - Aquelas entidades ficam ainda obrigadas a comunicar às autoridades competentes todos os factos relativos ao seu pessoal ou a terceiros de que tenham conhecimento e que possam influir sobre a apreciação da sua idoneidade como titular de um cartão de acesso às salas de trânsito internacional, em geral, e às lojas francas, em especial.
 
-###### Art. 3.º - 1 - As entidades que exercem actividades nas salas de trânsito internacional obrigam-se a dar conhecimento do presente diploma aos seus empregados, assim como de todas as instruções emanadas pelas alfândegas respeitantes àquelas zonas.
+Art. 3.º - 1 - As entidades que exercem actividades nas salas de trânsito internacional obrigam-se a dar conhecimento do presente diploma aos seus empregados, assim como de todas as instruções emanadas pelas alfândegas respeitantes àquelas zonas.
 
 2 - Devem também as referidas entidades assegurar-se de que as disposições legais e as instruções das alfândegas são devidamente observadas por todos aqueles que, ao serviço ou no seu interesse, têm acesso, mesmo que eventual, às salas de trânsito internacional.
 
-###### Art. 4.º - 1 - O acesso a todo o momento dos funcionários e agentes encarregados da fiscalização aduaneira aos estabelecimentos que funcionem nas salas de trânsito internacional dos aeroportos não pode ser impedido sob pretexto algum, tendo em conta a prerrogativa a que se refere a alínea c) do n.º 2 do artigo 93.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
+Art. 4.º - 1 - O acesso a todo o momento dos funcionários e agentes encarregados da fiscalização aduaneira aos estabelecimentos que funcionem nas salas de trânsito internacional dos aeroportos não pode ser impedido sob pretexto algum, tendo em conta a prerrogativa a que se refere a alínea c) do n.º 2 do artigo 93.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho.
 
 2 - Os proprietários e outros responsáveis daqueles estabelecimentos, assim como o seu pessoal, são obrigados a prestar assistência aos representantes das alfândegas e da entidade exploradora do aeroporto, bem como a fornecer-lhes todas as informações que solicitem, no exercício das suas funções.
 
 3 - No exercício das suas funções, os agentes da fiscalização aduaneira poderão utilizar a faculdade que lhes é conferida pelo artigo 69.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
 
-###### Art. 5.º - 1 - Os meios de pagamento admitidos nos estabelecimentos situados nas salas de trânsito internacional são os seguintes:
+Art. 5.º - 1 - Os meios de pagamento admitidos nos estabelecimentos situados nas salas de trânsito internacional são os seguintes:
 
 a) Notas e moedas portuguesas;
 
@@ -147,7 +175,7 @@ c) Outros meios de pagamento sobre o exterior, expressos em divisas com cotaçã
 
 ### CAPÍTULO II — Funcionamento e fiscalização das lojas francas
 
-###### Art. 6.º - 1 - Nas lojas francas a que se refere o artigo 3.º do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), de 10 de Novembro, só podem ser vendidas as seguintes mercadorias:
+Art. 6.º - 1 - Nas lojas francas a que se refere o artigo 3.º do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), de 10 de Novembro, só podem ser vendidas as seguintes mercadorias:
 
 a) De origem estrangeira não nacionalizadas:
 
@@ -215,7 +243,7 @@ b) De origem nacional ou nacionalizadas:
 
 2 - O Ministro de Estado e das Finanças e do Plano poderá alterar, por simples despacho, a relação das mercadorias constantes da alínea a) do número anterior.
 
-###### Art. 7.º - 1 - O abastecimento das lojas francas deve efectuar-se através dos armazéns afiançados, existentes nas instalações do aeroporto, em 2 momentos do dia, durante o período normal de expediente da alfândega.
+Art. 7.º - 1 - O abastecimento das lojas francas deve efectuar-se através dos armazéns afiançados, existentes nas instalações do aeroporto, em 2 momentos do dia, durante o período normal de expediente da alfândega.
 
 2 - O número de abastecimentos diários poderá ser ampliado em casos devidamente justificados.
 
@@ -223,7 +251,7 @@ b) De origem nacional ou nacionalizadas:
 
 4 - As mercadorias que, por qualquer razão, sejam destruídas ou fiquem impróprias para venda após registo de entrada nos depósitos afiançados ou nas lojas francas estão sujeitas ao pagamento das imposições cobradas pelas alfândegas, nos termos do disposto no n.º 1 do artigo 25.º
 
-###### Art. 8.º - 1 - As mercadorias estrangeiras destinadas à venda livre de direitos e impostos e as embalagens estrangeiras darão entrada no armazém afiançado, mediante o processamento de um despacho de entrada naqueles armazéns.
+Art. 8.º - 1 - As mercadorias estrangeiras destinadas à venda livre de direitos e impostos e as embalagens estrangeiras darão entrada no armazém afiançado, mediante o processamento de um despacho de entrada naqueles armazéns.
 
 2 - As mercadorias nacionais e nacionalizadas destinadas à venda nas lojas francas e as embalagens nacionais ou nacionalizadas darão entrada nos armazéns em causa, mediante o processamento de um despacho de exportação.
 
@@ -257,7 +285,7 @@ As existências no fim do mês, de acordo com os registos nas memórias do compu
 
 7 - As saídas das mercadorias dos depósitos afiançados para as lojas francas far-se-ão por meio de guias, que devem já ter impressos os principais artigos vendidos nas referidas lojas.
 
-###### Art. 9.º - 1 - As mercadorias requisitadas ao armazém afiançado e destinadas às lojas francas, devidamente descritas nas guias de saída, serão presentes aos funcionários aduaneiros.
+Art. 9.º - 1 - As mercadorias requisitadas ao armazém afiançado e destinadas às lojas francas, devidamente descritas nas guias de saída, serão presentes aos funcionários aduaneiros.
 
 2 - Estes funcionários procederão à conferência das mercadorias e rubricarão as guias de saída do armazém, retendo o exemplar que se destina à alfândega, para efeito de controle das existências no armazém afiançado e nas lojas francas.
 
@@ -271,29 +299,29 @@ Triplicado - serviço de finanças do concessionário;
 
 Quadriplicado - armazém afiançado.
 
-###### Art. 10.º - 1 - Sem prejuízo do disposto no § 1.º do artigo 51.º do Contencioso Aduaneiro, os titulares de licenças de exploração das lojas francas são responsáveis pelo pagamento dos direitos e demais imposições cobrados pelas alfândegas relativamente às mercadorias em falta, quer nas lojas, quer nos armazéns afiançados.
+Art. 10.º - 1 - Sem prejuízo do disposto no § 1.º do artigo 51.º do Contencioso Aduaneiro, os titulares de licenças de exploração das lojas francas são responsáveis pelo pagamento dos direitos e demais imposições cobrados pelas alfândegas relativamente às mercadorias em falta, quer nas lojas, quer nos armazéns afiançados.
 
 2 - Os direitos e demais imposições cobrados pelas alfândegas serão garantidos por termo de fiança, nos termos da lei, até ao momento da saída comprovada das mercadorias do país fiscal.
 
-###### Art. 11.º - 1 - As lojas francas estarão abertas as 24 horas do dia, podendo, no entanto, ser encerradas durante parte da noite, se tal se justificar.
+Art. 11.º - 1 - As lojas francas estarão abertas as 24 horas do dia, podendo, no entanto, ser encerradas durante parte da noite, se tal se justificar.
 
 2 - Nos períodos de encerramento devem ser tomadas as precauções necessárias de modo a garantir os interesses fiscais, havendo, para o efeito, no caso de qualquer encerramento ocasional, que comunicar o facto à instância aduaneira respectiva.
 
-###### Art. 12.º As alfândegas poderão fixar as quantidades máximas e mínimas relativas a certas mercadorias que o passageiro pode adquirir nas lojas francas.
+Art. 12.º As alfândegas poderão fixar as quantidades máximas e mínimas relativas a certas mercadorias que o passageiro pode adquirir nas lojas francas.
 
-###### Art. 13.º - 1 - A venda de mercadorias só é autorizada a passageiros em trânsito e aos que saiam para o estrangeiro.
+Art. 13.º - 1 - A venda de mercadorias só é autorizada a passageiros em trânsito e aos que saiam para o estrangeiro.
 
 2 - As pessoas autorizadas a efectuar compras devem identificar-se junto dos empregados das lojas francas, apresentando o cartão de embarque ou o bilhete de passagem.
 
 3 - O documento de identificação - cartão de embarque ou bilhete de passagem - deve ser, após a compra, assinalado com uma marca especial, reconhecida pela alfândega, que dela dará conhecimento à Guarda Fiscal.
 
-###### Art. 14.º - 1 - Os empregados encarregados das vendas nas lojas francas registarão, em fita ou em impressos com os exemplares tidos por suficientes, os elementos considerados necessários para controle da alfândega e dos próprios concessionários.
+Art. 14.º - 1 - Os empregados encarregados das vendas nas lojas francas registarão, em fita ou em impressos com os exemplares tidos por suficientes, os elementos considerados necessários para controle da alfândega e dos próprios concessionários.
 
 2 - Utilizando máquinas registadoras, estas fornecerão um talão que, servindo de documento de quitação, será entregue ao passageiro e uma fita impressa com os elementos essenciais relativos às vendas.
 
 3 - As referidas máquinas fornecerão também o número de totais efectuados, para impedir que extractos das fitas possam ser desviados.
 
-###### Art. 15.º - 1 - Os concessionários, se acharem conveniente, poderão utilizar um sistema automatizado, com base no uso de computadores, fornecendo, à alfândega e entidade exploradora dos aeroportos, listagens com as indicações necessárias ao controle que estas pretendem efectuar.
+Art. 15.º - 1 - Os concessionários, se acharem conveniente, poderão utilizar um sistema automatizado, com base no uso de computadores, fornecendo, à alfândega e entidade exploradora dos aeroportos, listagens com as indicações necessárias ao controle que estas pretendem efectuar.
 
 2 - Nesta hipótese, as entradas de mercadorias nas lojas francas são introduzidas no computador com base nos exemplares das guias de saída do armazém afiançado e, por sua vez, os elementos das vendas são introduzidos automaticamente no computador, através dos registos da máquina operada pelo vendedor.
 
@@ -317,43 +345,43 @@ As diferenças entre as existências teóricas e as reais.
 
 6 - Os elementos mencionados no n.º 4 serão também fornecidos, embora trabalhados manualmente, no caso de se utilizarem máquinas registadoras ou impressos de venda.
 
-###### Art. 16.º A documentação contabilística e comercial das lojas francas será facultada para análise pelas autoridades alfandegárias, sempre que estas a solicitem.
+Art. 16.º A documentação contabilística e comercial das lojas francas será facultada para análise pelas autoridades alfandegárias, sempre que estas a solicitem.
 
-###### Art. 17.º - 1 - Os preços das mercadorias constarão de tabelas expostas nas lojas francas em lugar bem visível ou de expositores com listas de preços dispostos em lugar de destaque e facilmente consultáveis.
+Art. 17.º - 1 - Os preços das mercadorias constarão de tabelas expostas nas lojas francas em lugar bem visível ou de expositores com listas de preços dispostos em lugar de destaque e facilmente consultáveis.
 
 2 - O disposto no n.º 1 não dispensa a etiquetagem individual das embalagens, bem como a afixação dos preços nos expositores de venda.
 
-###### Art. 18.º - 1 - As mercadorias vendidas devem ser entregues aos passageiros em embalagens facilmente reconhecíveis como acondicionando artigos provenientes das lojas francas.
+Art. 18.º - 1 - As mercadorias vendidas devem ser entregues aos passageiros em embalagens facilmente reconhecíveis como acondicionando artigos provenientes das lojas francas.
 
 2 - Juntamente com as mercadorias vendidas é entregue ao passageiro o documento de venda, no qual deve constar, em português, francês e inglês, a proibição de abrir os volumes antes da descolagem do avião.
 
 3 - As embalagens exteriores, fornecidas aos passageiros pelas lojas francas, devem ser aprovadas pela alfândega.
 
-###### Art. 19.º - 1 - A anulação das vendas efectuadas pelas lojas francas é permitida desde que esteja presente o passageiro e sejam anulados os documentos de venda correspondentes.
+Art. 19.º - 1 - A anulação das vendas efectuadas pelas lojas francas é permitida desde que esteja presente o passageiro e sejam anulados os documentos de venda correspondentes.
 
 2 - Devem também ser anuladas as marcas constantes dos cartões de embarque ou bilhete de passagem efectuadas no momento das vendas.
 
-###### Art. 20.º - 1 - As alfândegas podem, sempre que julgarem necessário, controlar a saída efectiva do país fiscal de todas as mercadorias provenientes das lojas francas.
+Art. 20.º - 1 - As alfândegas podem, sempre que julgarem necessário, controlar a saída efectiva do país fiscal de todas as mercadorias provenientes das lojas francas.
 
 2 - O controle referido deve fazer-se por amostragem, evitando submeter os passageiros a formalidades desnecessárias.
 
 3 - O disposto nos números anteriores não é aplicável aos indivíduos que, não podendo comprovar a qualidade de passageiro, ficarão sujeitos ao cumprimento de todas as formalidades necessárias para a determinação da sua responsabilidade fiscal.
 
-###### Art. 21.º - 1 - Se um voo é atrasado por longo período de tempo, os passageiros que tenham comprado mercadorias nas lojas francas e pretendam voltar temporariamente ao interior do País devem depositar as mercadorias na alfândega.
+Art. 21.º - 1 - Se um voo é atrasado por longo período de tempo, os passageiros que tenham comprado mercadorias nas lojas francas e pretendam voltar temporariamente ao interior do País devem depositar as mercadorias na alfândega.
 
 2 - Posteriormente, quando de regresso, os volumes ser-lhes-ão devolvidos em presença dos documentos de venda.
 
 3 - Os passageiros têm direito de optar, nestas circunstâncias, pela anulação da venda, nos termos do artigo 19.º
 
-###### Art. 22.º - 1 - No caso de voos cancelados, mas seguindo os passageiros para os seus destinos nos voos seguintes, ainda que em dia diferente, proceder-se-á de acordo com o referido no número anterior.
+Art. 22.º - 1 - No caso de voos cancelados, mas seguindo os passageiros para os seus destinos nos voos seguintes, ainda que em dia diferente, proceder-se-á de acordo com o referido no número anterior.
 
 2 - Se os passageiros, em consequência do cancelamento dos voos, forem transferidos para outros aeroportos nacionais, as mercadorias vendidas nas lojas francas acompanhá-los-ão, após a alfândega tomar as medidas convenientes para salvaguardar os interesses fiscais.
 
 3 - Também neste caso os passageiros têm o direito de optar pela anulação da venda, de acordo com o artigo 19.º
 
-###### Art. 23.º Os passageiros que tenham comprado mercadorias nas lojas francas e, por qualquer razão não considerada nos números antecedentes, pretendam sair da sala de trânsito para o interior do País devem, depois de autorizados, depositar as mercadorias na alfândega, as quais lhes serão devolvidas no momento de regresso à referida sala, mediante a apresentação do documento de venda.
+Art. 23.º Os passageiros que tenham comprado mercadorias nas lojas francas e, por qualquer razão não considerada nos números antecedentes, pretendam sair da sala de trânsito para o interior do País devem, depois de autorizados, depositar as mercadorias na alfândega, as quais lhes serão devolvidas no momento de regresso à referida sala, mediante a apresentação do documento de venda.
 
-###### Art. 24.º - 1 - Os responsáveis pelas lojas francas devem estabelecer um sistema de controle adequado relativo às entradas e saídas das mercadorias.
+Art. 24.º - 1 - Os responsáveis pelas lojas francas devem estabelecer um sistema de controle adequado relativo às entradas e saídas das mercadorias.
 
 2 - Os serviços da alfândega podem, sem aviso prévio, confrontar os inventários com os elementos na sua posse, efectuando também contagens físicas que julguem convenientes.
 
@@ -361,11 +389,11 @@ As diferenças entre as existências teóricas e as reais.
 
 4 - As fichas referidas podem ser substituídas, na hipótese de se usarem computadores, por listagens fornecidas por estes, as quais devem conter, pelo menos, os elementos referidos no n.º 4 do artigo 15.º
 
-###### Art. 25.º - 1 - Se, nas verificações às existências, se detectarem quantidades em falta, os responsáveis das respectivas lojas devem liquidar, nos primeiros 5 dias úteis do mês seguinte, os direitos calculados pela pauta mínima e outros impostos correspondentes às faltas encontradas na delegação da alfândega do aeroporto respectivo, sem prejuízo da responsabilidade cominada no contencioso aduaneiro.
+Art. 25.º - 1 - Se, nas verificações às existências, se detectarem quantidades em falta, os responsáveis das respectivas lojas devem liquidar, nos primeiros 5 dias úteis do mês seguinte, os direitos calculados pela pauta mínima e outros impostos correspondentes às faltas encontradas na delegação da alfândega do aeroporto respectivo, sem prejuízo da responsabilidade cominada no contencioso aduaneiro.
 
 2 - No caso de, nas verificações em causa, se encontrarem artigos em excesso, as quantidades relativas a esses artigos serão corrigidas mediante o processamento de um documento de entrada nas lojas francas, o qual será devidamente autenticado pela alfândega.
 
-###### Art. 26.º - 1 - Os concessionários das lojas francas adoptarão um sistema de contabilidade adaptado à exploração das referidas lojas, submetendo o respectivo plano contabilístico à aprovação da alfândega e da entidade exploradora dos aeroportos.
+Art. 26.º - 1 - Os concessionários das lojas francas adoptarão um sistema de contabilidade adaptado à exploração das referidas lojas, submetendo o respectivo plano contabilístico à aprovação da alfândega e da entidade exploradora dos aeroportos.
 
 2 - Os registos contabilísticos devem ser mantidos em dia, de modo a serem examinados pela alfândega, quando esta o pretenda.
 
@@ -377,13 +405,13 @@ a) Até 31 de Dezembro de cada ano, o plano anual de actividades para o ano segu
 
 b) Até 31 de Março de cada ano, um relatório de actividades desenvolvidas no ano anterior, no qual se deve incluir um exemplar da listagem mencionada no n.º 3 do artigo 15.º reportada às quantidades e seus valores vendidos no ano anterior.
 
-###### Art. 27.º Nos casos em que a evolução tecnológica ou qualquer outra inovação permitam a utilização de sistemas mais eficazes na exploração das lojas francas, estes sistemas poderão ser utilizados, desde que devidamente aprovados pela alfândega e pela entidade exploradora dos aeroportos.
+Art. 27.º Nos casos em que a evolução tecnológica ou qualquer outra inovação permitam a utilização de sistemas mais eficazes na exploração das lojas francas, estes sistemas poderão ser utilizados, desde que devidamente aprovados pela alfândega e pela entidade exploradora dos aeroportos.
 
 ### CAPÍTULO III — Normas reguladoras do funcionamento e fiscalização de outros estabelecimentos comerciais
 
-###### Art. 28.º Nos estabelecimentos comerciais sitos nas salas de trânsito internacional, e que não sejam considerados lojas francas, nos termos do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), poderão ser vendidas quaisquer mercadorias nacionais ou nacionalizadas, sobre as quais incidirão todos os impostos aplicáveis, de acordo com a lei vigente.
+Art. 28.º Nos estabelecimentos comerciais sitos nas salas de trânsito internacional, e que não sejam considerados lojas francas, nos termos do [Decreto-Lei n.º 542/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1980-457423), poderão ser vendidas quaisquer mercadorias nacionais ou nacionalizadas, sobre as quais incidirão todos os impostos aplicáveis, de acordo com a lei vigente.
 
-###### Art. 29.º - 1 - As mercadorias destinadas à venda nestes estabelecimentos, assim como as embalagens, só poderão dar entrada nestes estabelecimentos sob controle da alfândega.
+Art. 29.º - 1 - As mercadorias destinadas à venda nestes estabelecimentos, assim como as embalagens, só poderão dar entrada nestes estabelecimentos sob controle da alfândega.
 
 2 - Para efeitos do n.º 1 deste artigo, as mencionadas mercadorias e embalagens deverão ser presentes aos funcionários aduaneiros acompanhadas de guia de remessa ou factura do fornecedor, em duplicado, da qual conste especificamente:
 
@@ -399,7 +427,7 @@ Outros elementos requeridos para o cumprimento das normas fiscais aplicáveis.
 
 5 - Em casos devidamente comprovados, ou quando a natureza das mercadorias o justifique, o número de abastecimentos diários poderá ser ampliado, com o parecer favorável da alfândega.
 
-###### Art. 30.º - 1 - Eventuais devoluções aos fornecedores das mencionadas mercadorias ou embalagens deverão ser processadas, mediante guias de devolução, em duplicado, emitidas pelo concessionário destes estabelecimentos, da qual conste especificamente:
+Art. 30.º - 1 - Eventuais devoluções aos fornecedores das mencionadas mercadorias ou embalagens deverão ser processadas, mediante guias de devolução, em duplicado, emitidas pelo concessionário destes estabelecimentos, da qual conste especificamente:
 
 Elementos constantes do n.º 2 do artigo 29.º;
 
@@ -409,28 +437,28 @@ Número do documento do fornecedor relativo à entrada no estabelecimento da mer
 
 3 - As devoluções devem ser efectuadas nos mesmos períodos do abastecimento, a que se referem os n.os 4 e 5 do artigo 29.º
 
-###### Art. 31.º Quando a natureza das mercadorias o justifique, poderá a alfândega isentar os concessionários das formalidades a que se referem os artigos 29.º e 30.º deste diploma.
+Art. 31.º Quando a natureza das mercadorias o justifique, poderá a alfândega isentar os concessionários das formalidades a que se referem os artigos 29.º e 30.º deste diploma.
 
-###### Art. 32.º Em todas as mercadorias expostas à venda deverá ser mostrado de forma clara (afixação na mercadoria, na prateleira ou outra) o respectivo preço.
+Art. 32.º Em todas as mercadorias expostas à venda deverá ser mostrado de forma clara (afixação na mercadoria, na prateleira ou outra) o respectivo preço.
 
-###### Art. 33.º A documentação contabilística e comercial dos concessionários destes estabelecimentos será facultada para consulta às alfândegas, sempre que estas a solicitem.
+Art. 33.º A documentação contabilística e comercial dos concessionários destes estabelecimentos será facultada para consulta às alfândegas, sempre que estas a solicitem.
 
-###### Art. 34.º A contabilidade destes estabelecimentos será organizada de acordo com a prática do comércio, estando sujeita à respectiva disciplina legal.
+Art. 34.º A contabilidade destes estabelecimentos será organizada de acordo com a prática do comércio, estando sujeita à respectiva disciplina legal.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 35.º É revogada a [Portaria n.º 132/77](https://diariodarepublica.pt/dr/detalhe/portaria/132-1977-141179), de 15 de Março.
+Art. 35.º É revogada a [Portaria n.º 132/77](https://diariodarepublica.pt/dr/detalhe/portaria/132-1977-141179), de 15 de Março.
 
-###### Art. 36.º Este diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 36.º Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 3 de Maio de 1983.**
+Promulgado em 3 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 5 de Maio de 1983.**
+Referendado em 5 de Maio de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

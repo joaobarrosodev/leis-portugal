@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16300/0004600053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2023/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 919f7badf0b2d567ed26f31f90250eaa960616a5b0e5cfc311128ea8020905a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13491ecce1f60f737f3aa36c5095d29e13879127048cc9d77f124701f6975cad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Empresa
 - Contabilidade
+- Empresa
 - Imposto sobre o Rendimento
-- Publicitação
-- Sistema de Normalização Contabilística
+- Normalização
 - Prestação de Contas
+- Publicitação
 - Relatório
 - Responsabilidade Conjunta
 - Revisor Oficial de Contas
+- Sistema de Normalização Contabilística
 - Sucursal
-- Normalização
 relationships:
 - type: cites
   target: celex:32002R1606
@@ -132,6 +132,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/383-a/201
   label: null
   source: http://data.dre.pt/eli/port/383-a/201
+- type: cites
+  target: pt:dre:114394830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69866634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262478:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32013L0034
   label: null
@@ -141,15 +181,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 13
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:43Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +270,9 @@ a) O 'volume de negócios líquido', tal como definido nos números anteriores, 
 
 b) O 'rédito', tal como definido na estrutura conceptual de relato financeiro, ou na aceção desta, com base na qual são elaboradas as demonstrações financeiras, para as restantes entidades.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +314,9 @@ b) A uma empresa autónoma ou a uma empresa-mãe final, quando estas empresas ou
 
 3 - Quando no período a que se reportaria o relatório e no período anterior o rédito for inferior a (euro) 750 000 000, as entidades referidas no n.º 1 deixam de estar sujeitas à obrigação aí prevista.
 
-###### Artigo 11.º-B — Média e grande empresa subsidiária
+Artigo 11.º-B
+
+Média e grande empresa subsidiária
 
 1 - As empresas subsidiárias, abrangidas pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, que, sendo consideradas como médias entidades ou grandes entidades nos termos do artigo 9.º, sejam controladas por uma empresa-mãe final que não se rege pelo direito de um Estado-Membro e esta tenha um rédito consolidado, à data do seu balanço, tal como refletido nas suas demonstrações financeiras consolidadas, que, quer no período quer no período anterior, seja igual ou superior a (euro) 750 000 000, são obrigadas a publicar e tornar acessível um relatório de informações relativas ao imposto sobre o rendimento da empresa-mãe final no que respeita ao mais recente desses dois períodos consecutivos.
 
@@ -284,7 +328,9 @@ b) Uma declaração a indicar que a empresa-mãe final não disponibilizou as in
 
 3 - Quando no período a que se reportaria o relatório e no período anterior o rédito consolidado da empresa-mãe final, tal como refletido nas demonstrações financeiras consolidadas, for inferior a (euro) 750 000 000, as empresas subsidiárias referidas no n.º 1 deixam de estar sujeitas à obrigação aí prevista.
 
-###### Artigo 11.º-C — Sucursal
+Artigo 11.º-C
+
+Sucursal
 
 1 - As sucursais, abrangidas pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, abertas em território português por empresas que não se regem pelo direito de um Estado-Membro, e que, quer no período quer no período anterior, tenham apurado um volume de negócios líquido que exceda o limiar previsto na alínea b) do n.º 2 do artigo 9.º, são obrigadas a publicar e tornar acessível, no que respeita ao mais recente desses dois períodos consecutivos, um relatório de informações relativas ao imposto sobre o rendimento da empresa-mãe final ou da empresa autónoma, consoante o aplicável, caso estejam preenchidos os seguintes requisitos:
 
@@ -304,7 +350,9 @@ a) Em cada um dos dois últimos períodos consecutivos o seu volume de negócios
 
 b) O critério previsto na alínea a) do n.º 1 deixe de ser preenchido em dois períodos consecutivos.
 
-###### Artigo 11.º-D — Dispensas de aplicação
+Artigo 11.º-D
+
+Dispensas de aplicação
 
 1 - As obrigações previstas nos artigos 11.º-B e 11.º-C não são aplicáveis, caso uma empresa-mãe final ou uma empresa autónoma que não se rege pelo direito de um Estado-Membro elabore um relatório de informações relativas ao imposto sobre o rendimento de forma coerente com o artigo 11.º-E e se encontrem preenchidos, cumulativamente, os seguintes requisitos:
 
@@ -320,7 +368,9 @@ b) Identifica a denominação ou firma e a sede estatutária da empresa subsidi�
 
 2 - As empresas subsidiárias ou sucursais, ainda que não abrangidas pelo previsto nos artigos 11.º-B e 11.º-C, que não tenham outro objetivo que não seja o de contornar o cumprimento das obrigações de prestação de informações previstas nos artigos 11.º-A a 11.º-C e nos artigos 11.º-E a 11.º-I, são obrigadas a publicar e a tornar acessível um relatório de informações relativas ao imposto sobre o rendimento.
 
-###### Artigo 11.º-E — Conteúdo do relatório de informações relativas ao imposto sobre o rendimento
+Artigo 11.º-E
+
+Conteúdo do relatório de informações relativas ao imposto sobre o rendimento
 
 1 - O relatório de informações relativas ao imposto sobre o rendimento exigido pelos artigos 11.º-A a 11.º-D inclui informações relacionadas com todas as atividades da empresa autónoma ou da empresa-mãe final, incluindo as de todas as empresas coligadas consolidadas nas demonstrações financeiras, relativas ao período a que se reporta o relatório.
 
@@ -386,7 +436,9 @@ c) As informações sobre uma atividade específica não podem ser simultaneamen
 
 11 - O relatório de informações relativas ao imposto sobre o rendimento deve especificar se o mesmo foi elaborado nos termos do n.º 2 ou nos termos do n.º 4.
 
-###### Artigo 11.º-F — Omissões temporárias
+Artigo 11.º-F
+
+Omissões temporárias
 
 1 - Um ou mais elementos específicos das informações de divulgação obrigatória nos termos do n.º 2 ou do n.º 4 do artigo anterior podem ser omitidos temporariamente do relatório se a sua divulgação puder prejudicar gravemente a posição comercial das empresas às quais o relatório diz respeito, sendo as omissões claramente indicadas no relatório juntamente com uma explicação devidamente fundamentada sobre as respetivas razões.
 
@@ -394,7 +446,9 @@ c) As informações sobre uma atividade específica não podem ser simultaneamen
 
 3 - As informações omitidas nos termos do n.º 1 serão posteriormente tornadas públicas, num relatório de informações relativas ao imposto sobre o rendimento a publicar e tornar acessível no prazo máximo de cinco anos a contar da data da omissão inicial.
 
-###### Artigo 11.º-G — Publicação e acessibilidade
+Artigo 11.º-G
+
+Publicação e acessibilidade
 
 1 - O relatório de informações relativas ao imposto sobre o rendimento e, quando aplicável, a declaração a que se referem os artigos 11.º-B e 11.º-C, são publicados no prazo máximo de 12 meses após a data do balanço do período a que se reporta o relatório.
 
@@ -408,13 +462,17 @@ c) Da sucursal, da empresa que abriu a sucursal ou de uma empresa coligada, caso
 
 3 - O relatório de informações relativas ao imposto sobre o rendimento e, quando aplicável, a declaração a que se refere a alínea b) do n.º 2 do artigo 11.º-B e a alínea b) do n.º 2 do artigo 11.º-C ficam acessíveis no sítio Web aplicável durante, pelo menos, cinco anos consecutivos.
 
-###### Artigo 11.º-H — Responsabilidade pela elaboração, publicação e acessibilidade do relatório de informações relativas ao imposto sobre o rendimento
+Artigo 11.º-H
+
+Responsabilidade pela elaboração, publicação e acessibilidade do relatório de informações relativas ao imposto sobre o rendimento
 
 1 - Os membros dos órgãos de administração, de direção, de gerência e de fiscalização da empresa-mãe final ou das empresas autónomas a que se refere o artigo 11.º-A assumem coletivamente a responsabilidade por garantir que o relatório de informações relativas ao imposto sobre o rendimento é elaborado, publicado e tornado acessível nos termos previstos nos artigos 11.º-A a 11.º-G.
 
 2 - Os membros dos órgãos de administração, de direção, de gerência e de fiscalização das empresas subsidiárias a que se refere o artigo 11.º-B, bem como a pessoa ou as pessoas designadas para proceder às formalidades de divulgação por conta das sucursais a que se refere o artigo 11.º-C, assumem coletivamente a responsabilidade por garantir que, tanto quanto seja do seu conhecimento e esteja ao seu alcance, o relatório de informações relativas ao imposto sobre o rendimento é elaborado de forma coerente ou de acordo com os artigos 11.º-A a 11.º-F e é publicado e fica acessível nos termos do artigo 11.º-G.
 
-###### Artigo 11.º-I — Declaração do revisor oficial de contas
+Artigo 11.º-I
+
+Declaração do revisor oficial de contas
 
 A certificação legal das contas ou o relatório de auditoria das entidades cujas demonstrações financeiras sejam sujeitas a revisão legal das contas declara se a empresa está obrigada, nos termos dos artigos 11.º-A a 11.º-F, a publicar um relatório sobre as informações relativas ao imposto sobre o rendimento para o período anterior ao período em relação ao qual as declarações financeiras auditadas foram elaboradas, e, em caso afirmativo, se o relatório foi publicado nos termos do artigo 11.º-G.»
 
@@ -426,12 +484,14 @@ A certificação legal das contas ou o relatório de auditoria das entidades cuj
 
 Visto e aprovado em Conselho de Ministros de 13 de julho de 2023. - António Luís Santos da Costa - Sofia Alves de Aguiar Batalha.
 
-**Promulgado em 18 de agosto de 2023.**
+Promulgado em 18 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de agosto de 2023.**
+Referendado em 18 de agosto de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116787538

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/53-1977-138531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18eacbf0d33491ac91529bb5a7cd2d7ace68f08664ea7913da15c4309523fed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eafe2d631b6ea9f45e3465acf3353b7115960a2f841efa5188180b8c8a1f9c0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autorização de Condução
+- Chefe do Estado Maior da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Regulamento
+- Trânsito
+- Veículo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:24:43Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +103,7 @@ REGULAMENTO DA UTILIZAÇÃO, CONDUÇÃO E TRÂNSITO DAS VIATURAS DA FORÇA AÉRE
 
 ### CAPÍTULO I — Definição de viaturas da Força Aérea e sua classificação
 
-###### Artigo 1.º Consideram-se viaturas da Força Aérea para os efeitos do presente Regulamento:
+Artigo 1.º Consideram-se viaturas da Força Aérea para os efeitos do presente Regulamento:
 
 1. Todas as adquiridas pelos orçamentos da Força Aérea, e atribuídas exclusivamente e a título definitivo, ao seu serviço.
 
@@ -104,11 +111,11 @@ REGULAMENTO DA UTILIZAÇÃO, CONDUÇÃO E TRÂNSITO DAS VIATURAS DA FORÇA AÉRE
 
 3. Todas as que, não pertencendo ao Estado, sejam postas, temporariamente ou definitivamente, ao serviço da Força Aérea, por motivos imperiosos de serviço ou por força de necessidades impostas pela segurança nacional, incluindo as situações decorrentes da legislação sobre requisição de viaturas civis.
 
-###### Art. 2.º Os casos previstos nos n.os 2 e 3 do artigo 1.º serão sempre objecto de despacho normativo do Chefe do Estado-Maior da Força Aérea, que regulará, em cada caso, as condições em que essas viaturas deverão ser consideradas ao serviço da Força Aérea, a sua aplicação, utilização e cor de pintura.
+Art. 2.º Os casos previstos nos n.os 2 e 3 do artigo 1.º serão sempre objecto de despacho normativo do Chefe do Estado-Maior da Força Aérea, que regulará, em cada caso, as condições em que essas viaturas deverão ser consideradas ao serviço da Força Aérea, a sua aplicação, utilização e cor de pintura.
 
 Exceptuam-se desta disposição aquelas viaturas cedidas à Força Aérea, ou por ela utilizada, ao abrigo de acordos militares internacionais.
 
-###### Art. 3.º - 1. Define-se viatura, para efeitos do presente Regulamento, todo o veículo autopropulsionado ou não, provido de um dispositivo próprio de locomoção, que lhe permite ser autorizado pela lei geral a transitar em vias públicas.
+Art. 3.º - 1. Define-se viatura, para efeitos do presente Regulamento, todo o veículo autopropulsionado ou não, provido de um dispositivo próprio de locomoção, que lhe permite ser autorizado pela lei geral a transitar em vias públicas.
 
 2. Entende-se por viatura automóvel todo o veículo com meios próprios de locomoção e propulsão.
 
@@ -140,19 +147,19 @@ Exceptuam-se desta disposição aquelas viaturas cedidas à Força Aérea, ou po
 
 16. Consideram-se viaturas de tipo militar as construídas para satisfazer às características exigidas pelo emprego em combate, nas operações tácticas ou em apoio directo das viaturas de combate e das tropas, em todas as condições de terreno e climatéricas.
 
-###### Art. 4.º As viaturas da Força Aérea, segundo a sua utilização, classificam-se em tácticas e gerais. Dentro das primeiras incluem-se as viaturas de tipo militar e as especiais. Dentro das segundas incluem-se as de transporte de pessoal, de carga geral e mistas.
+Art. 4.º As viaturas da Força Aérea, segundo a sua utilização, classificam-se em tácticas e gerais. Dentro das primeiras incluem-se as viaturas de tipo militar e as especiais. Dentro das segundas incluem-se as de transporte de pessoal, de carga geral e mistas.
 
-###### Art. 5.º A qualificação das várias viaturas nos termos da classificação constante nos artigos 3.º e 4.º compete à Direcção do Serviço de Material.
+Art. 5.º A qualificação das várias viaturas nos termos da classificação constante nos artigos 3.º e 4.º compete à Direcção do Serviço de Material.
 
 ### CAPÍTULO II — Identificação registo e cores regulamentares
 
-###### Art. 6.º - 1. As viaturas da Força Aérea utilizam obrigatoriamente, para efeitos de identificação e circulação, matrículas com as características dos correspondentes modelos estabelecidos pela legislação geral em vigor. As matrículas são constituídas por um grupo de duas letras - AM -, seguidas de dois grupos de dois algarismos, separados por traços horizontais.
+Art. 6.º - 1. As viaturas da Força Aérea utilizam obrigatoriamente, para efeitos de identificação e circulação, matrículas com as características dos correspondentes modelos estabelecidos pela legislação geral em vigor. As matrículas são constituídas por um grupo de duas letras - AM -, seguidas de dois grupos de dois algarismos, separados por traços horizontais.
 
 2. Independentemente da matrícula militar da Força Aérea, que é obrigatória, quando por motivo de necessidade de serviço e ou segurança militar seja julgada conveniente a utilização de uma matrícula civil, tal será feito sem prejuízo da validade de matrícula militar e sempre mediante determinação expressa do Chefe do Estado-Maior da Força Aérea. Essa matrícula civil é averbada nos documentos militares de identificação que acompanham a viatura, a qual só pode circular, nestas condições, com conhecimento da Direcção do Serviço de Material.
 
 3. A Direcção do Serviço de Material é a única entidade competente para atribuir, alterar ou anular matrículas militares. Para tal mantém os necessários registos e emite os respectivos documentos militares de identificação - livretes.
 
-###### Art. 7.º - 1. As viaturas da Força Aérea são obrigatoriamente pintadas nas seguintes cores:
+Art. 7.º - 1. As viaturas da Força Aérea são obrigatoriamente pintadas nas seguintes cores:
 
 a) Preto:
 
@@ -174,11 +181,11 @@ Todas as viaturas de tipo militar.
 
 3. A entidade militar que determinar a pintura de qualquer viatura sob a sua jurisdição em cor diferente das regulamentadas constitui-se na responsabilidade disciplinar subsequente.
 
-###### Art. 8.º Compete à Direcção do Serviço de Material regular o que respeita aos modelos e normas de aposição e utilização de distintivos, insígnias, marcas e sinais, aplicáveis às viaturas da Força Aérea.
+Art. 8.º Compete à Direcção do Serviço de Material regular o que respeita aos modelos e normas de aposição e utilização de distintivos, insígnias, marcas e sinais, aplicáveis às viaturas da Força Aérea.
 
 ### CAPÍTULO III — Normas gerais de utilização
 
-###### Art. 9.º - 1. As viaturas da Força Aérea só podem ser utilizadas em serviço.
+Art. 9.º - 1. As viaturas da Força Aérea só podem ser utilizadas em serviço.
 
 2. Considera-se serviço o emprego das viaturas nas tarefas necessárias ao desempenho das missões atribuídas aos órgãos e às entidades que legitimamente as utilizam.
 
@@ -186,17 +193,17 @@ Todas as viaturas de tipo militar.
 
 4. Todo o pessoal da Força Aérea, militar ou civil, que se encontre legitimamente a conduzir ou a ser transportado em viaturas da Força Aérea, ou noutras fretadas à sua ordem, é considerado como estando em serviço.
 
-###### Art. 10.º - 1. Na utilização das viaturas militares todo o pessoal deve observar as normas e deveres inerentes ao correcto comportamento militar e ainda não assumir atitudes que possam prejudicar de qualquer modo a operação da viatura.
+Art. 10.º - 1. Na utilização das viaturas militares todo o pessoal deve observar as normas e deveres inerentes ao correcto comportamento militar e ainda não assumir atitudes que possam prejudicar de qualquer modo a operação da viatura.
 
 2. Nos transportes colectivos de militares observam-se as regras de disciplina estabelecidas para as tropas enquadradas, que, consoante as circunstâncias, sejam aplicáveis.
 
-###### Art. 11.º Com excepção dos casos previstos no presente Regulamento e salvo em condições de gravidade tal que amplamente o justifique, é rigorosamente vedada a utilização das viaturas em serviços de natureza diferente daquela a que se destinam.
+Art. 11.º Com excepção dos casos previstos no presente Regulamento e salvo em condições de gravidade tal que amplamente o justifique, é rigorosamente vedada a utilização das viaturas em serviços de natureza diferente daquela a que se destinam.
 
-###### Art. 12.º - 1. Não é permitida, a nenhum título, a utilização das viaturas da Força Aérea, ou daquelas fretadas à sua ordem, em serviços de interesse particular, ou, de qualquer forma, estranhos ao interesse da Força Aérea.
+Art. 12.º - 1. Não é permitida, a nenhum título, a utilização das viaturas da Força Aérea, ou daquelas fretadas à sua ordem, em serviços de interesse particular, ou, de qualquer forma, estranhos ao interesse da Força Aérea.
 
 2. Às infracções que se verifiquem ao disposto no número anterior, ou seja, utilização em serviços de interesse particular ou abusivo, são aplicáveis as sanções previstas nesta matéria pela legislação em vigor, militar e ou civil, consoante as circunstâncias verificadas.
 
-###### Art. 13.º O transporte de militares em viaturas da Força Aérea, de matrícula militar, fazendo uso de traje civil, só é autorizado nos seguintes casos:
+Art. 13.º O transporte de militares em viaturas da Força Aérea, de matrícula militar, fazendo uso de traje civil, só é autorizado nos seguintes casos:
 
 1. Aos oficiais, sargentos e praças, quando transportados nas viaturas utilizadas nos serviços normais de transporte colectivo de pessoal dos órgãos da Força Aérea, desde que não estejam desempenhando actos de serviço;
 
@@ -204,27 +211,27 @@ Todas as viaturas de tipo militar.
 
 3. Aos militares a quem, por imposições decorrentes da natureza particular do serviço a desempenhar, esteja superiormente determinado ou autorizado o uso de traje civil.
 
-###### Art. 14.º - 1. As viaturas da Força Aérea só podem circular quando acompanhadas dos respectivos documentos militares de identificação - livretes - referidos nos n.os 2 e 3 do artigo 6.º
+Art. 14.º - 1. As viaturas da Força Aérea só podem circular quando acompanhadas dos respectivos documentos militares de identificação - livretes - referidos nos n.os 2 e 3 do artigo 6.º
 
 2. Deve ainda existir para cada viatura da Força Aérea um «Registo de conservação e manutenção», cujo modelo e normas de preenchimento e utilização são pormenorizadamente regulamentados pela Direcção do Serviço de Material.
 
 3. Sem prejuízo do disposto em 2, os serviços responsáveis pelas viaturas, em cada órgão da Força Aérea, devem ainda, e sempre que determinarem a saída de uma viatura e do seu condutor para o exterior, emitir o respectivo «Boletim de serviço», cujo modelo e normas de preenchimento e fiscalização são, igualmente, regulamentados, em pormenor, pela Direcção do Serviço de Material.
 
-###### Art. 15.º - 1. As viaturas da Força Aérea não podem, a nenhum título, ser abandonadas na via pública, devendo sempre recolher nos parques de recolha da Força Aérea, que lhe estão determinados.
+Art. 15.º - 1. As viaturas da Força Aérea não podem, a nenhum título, ser abandonadas na via pública, devendo sempre recolher nos parques de recolha da Força Aérea, que lhe estão determinados.
 
 2. Só em casos excepcionais, sujeitos a decisão do Vice-Chefe do Estado-Maior da Força Aérea, ou por sua delegação, podem eventualmente ficar recolhidas noutros locais, mas unicamente desde que sejam garantidas as condições de segurança para as mesmas e definida a responsabilidade de tal recolha.
 
-###### Art. 16.º Considera-se que há abandono de uma viatura da Força Aérea sempre que a mesma permaneça estacionada na via pública, não estando presente, para sua vigilância, o condutor ou, em eventuais casos de avaria ou de força maior, qualquer outro elemento devidamente responsabilizado para esse efeito.
+Art. 16.º Considera-se que há abandono de uma viatura da Força Aérea sempre que a mesma permaneça estacionada na via pública, não estando presente, para sua vigilância, o condutor ou, em eventuais casos de avaria ou de força maior, qualquer outro elemento devidamente responsabilizado para esse efeito.
 
-###### Art. 17.º - 1. Sempre que as circunstâncias o permitam, deve ser nomeado um chefe de viatura, o qual, seguindo com o condutor, é o responsável pela disciplina e itinerário. Independentemente da sua habilitação para conduzir é ainda, solidariamente com o condutor, responsável pelo excesso de velocidade.
+Art. 17.º - 1. Sempre que as circunstâncias o permitam, deve ser nomeado um chefe de viatura, o qual, seguindo com o condutor, é o responsável pela disciplina e itinerário. Independentemente da sua habilitação para conduzir é ainda, solidariamente com o condutor, responsável pelo excesso de velocidade.
 
 2. Quando se verifique o disposto no número anterior, considera-se chefe de viatura o militar de maior graduação ou antiguidade.
 
-###### Art. 18.º - 1. O condutor, chefe de viatura ou comandante de coluna não podem alterar o itinerário ou fazer paragens não previstas nos boletins ou ordens de marcha, a não ser que imprevistas circunstâncias de serviço ou de tráfego a tal obriguem.
+Art. 18.º - 1. O condutor, chefe de viatura ou comandante de coluna não podem alterar o itinerário ou fazer paragens não previstas nos boletins ou ordens de marcha, a não ser que imprevistas circunstâncias de serviço ou de tráfego a tal obriguem.
 
 2. Sempre que tal aconteça, devem essas alterações, bem como as circunstâncias que as motivaram, ser imediatamente mencionadas naqueles documentos.
 
-###### Art. 19.º - 1. Entende-se por transporte automóvel privativo facultado a uma entidade o impedimento de uma viatura e do respectivo condutor, postos à ordem dessa entidade, exclusivamente para garantir o seu transporte em actos de serviço e de representação oficial, e a nenhum título, para utilização de carácter particular.
+Art. 19.º - 1. Entende-se por transporte automóvel privativo facultado a uma entidade o impedimento de uma viatura e do respectivo condutor, postos à ordem dessa entidade, exclusivamente para garantir o seu transporte em actos de serviço e de representação oficial, e a nenhum título, para utilização de carácter particular.
 
 2. Pela necessidade de reduzir ao mínimo o transporte automóvel privativo, as entidades a quem o mesmo é, desde já, facultado são:
 
@@ -252,21 +259,21 @@ Chefes dos centros e departamentos militares da Força Aérea;
 
 Entidades militares ou civis, nacionais ou estrangeiras, desempenhando funções que justifiquem a atribuição deste género de transporte, o que será, em cada caso, determinado pelo Subchefe do Estado-Maior da Força Aérea (Logística e Administração).
 
-###### Art. 20.º - 1. A condução das viaturas da Força Aérea deve somente ser efectuada pelos condutores nomeados pelos respectivos serviços, de preferência por aqueles a quem as mesmas estejam distribuídas.
+Art. 20.º - 1. A condução das viaturas da Força Aérea deve somente ser efectuada pelos condutores nomeados pelos respectivos serviços, de preferência por aqueles a quem as mesmas estejam distribuídas.
 
 2. As viaturas com matrícula «AM» só podem ser conduzidas por pessoal devidamente uniformizado.
 
 3. A condução das viaturas pesadas de transporte de pessoal, de carga geral útil superior a 6 t, de cargas valiosas e especiais deve ser efectuada por condutores experientes e adaptados a estes tipos de viaturas.
 
-###### Art. 21.º - 1. O condutor nomeado para o desempenho de um serviço só poderá ser substituído por outrem desde que se verifique motivo de força maior, devidamente comprovado.
+Art. 21.º - 1. O condutor nomeado para o desempenho de um serviço só poderá ser substituído por outrem desde que se verifique motivo de força maior, devidamente comprovado.
 
 2. Sempre que a natureza, duração ou condições dos serviços aconselharem, devem ser nomeados um ou mais condutores de reserva, que, seguindo nas viaturas, se destinam a render os condutores efectivos, sempre que necessário.
 
-###### Art. 22.º Qualquer superior que, valendo-se da sua autoridade, se propuser conduzir uma viatura distribuída, ou para a condução da qual tenha sido nomeado um sobordinado, incorre em responsabilidade disciplinar.
+Art. 22.º Qualquer superior que, valendo-se da sua autoridade, se propuser conduzir uma viatura distribuída, ou para a condução da qual tenha sido nomeado um sobordinado, incorre em responsabilidade disciplinar.
 
-###### Art. 23.º Sempre que uma viatura, pelas suas características, nomeadamente de peso, comprimento, largura, altura ou de reduzida velocidade, possa, ao circular na via pública, constituir embaraço ou insegurança do trânsito, ou estar inclusa nas limitações de circulação estabelecidas pelo Código da Estrada, deverá ser requerida às autoridades competentes a nomeação dos agentes motorizados necessários para acompanhar e orientar a sua deslocação.
+Art. 23.º Sempre que uma viatura, pelas suas características, nomeadamente de peso, comprimento, largura, altura ou de reduzida velocidade, possa, ao circular na via pública, constituir embaraço ou insegurança do trânsito, ou estar inclusa nas limitações de circulação estabelecidas pelo Código da Estrada, deverá ser requerida às autoridades competentes a nomeação dos agentes motorizados necessários para acompanhar e orientar a sua deslocação.
 
-###### Art. 24.º - 1. Na marcha em coluna devem ser atentamente guardadas as distâncias entre as diversas viaturas que a compõem, as quais são, normalmente, de tantos metros quantos os quilómetros por hora a que a coluna se desloca.
+Art. 24.º - 1. Na marcha em coluna devem ser atentamente guardadas as distâncias entre as diversas viaturas que a compõem, as quais são, normalmente, de tantos metros quantos os quilómetros por hora a que a coluna se desloca.
 
 2. Tratando-se de viaturas pesadas, a distância mínima entre elas não deve ser inferior a 50 m.
 
@@ -274,7 +281,7 @@ Entidades militares ou civis, nacionais ou estrangeiras, desempenhando funções
 
 ### CAPÍTULO IV — Deveres dos condutores
 
-###### Art. 25.º O condutor designado para um serviço de condução passa imediatamente a ser responsável pela viatura, competindo-lhe, em especial:
+Art. 25.º O condutor designado para um serviço de condução passa imediatamente a ser responsável pela viatura, competindo-lhe, em especial:
 
 1. Pôr na condução as mais prudentes cautelas, evitando erros ou faltas de atenção.
 
@@ -288,7 +295,7 @@ Entidades militares ou civis, nacionais ou estrangeiras, desempenhando funções
 
 6. Antes da utilização, proceder a uma inspecção visual e de serviço para se assegurar de que a viatura está abastecida para garantir a execução da missão e em condições de segurança e funcionamento para ser utilizada.
 
-###### Art. 26.º - 1. Os condutores das viaturas da Força Aérea quando circulando isoladamente estão sujeitos aos limites máximos de velocidade instantânea constantes do Código da Estrada que lhes são aplicáveis.
+Art. 26.º - 1. Os condutores das viaturas da Força Aérea quando circulando isoladamente estão sujeitos aos limites máximos de velocidade instantânea constantes do Código da Estrada que lhes são aplicáveis.
 
 2. Nos casos em que o Código da Estrada não estabelece limites máximos, as velocidades máximas instantâneas permitidas, fora das localidades, são:
 
@@ -320,25 +327,25 @@ Em auto-estrada - 80 km/h.
 
 5. Sem prejuízo da lei em vigor, só em casos excepcionais de reconhecida e imperiosa necessidade, derivada da natureza do serviço a desempenhar, se permitirá que sejam excedidos os limites de velocidade fixados nos n.os 2 e 3 ou ao abrigo do n.º 4. Sempre que tal aconteça deverá a alteração, bem como as circunstâncias que a motivaram, ser mencionada no respectivo boletim de serviço.
 
-###### Art. 27.º - 1. Os limites de lotação ou de carga útil das viaturas não podem ser excedidos pelos condutores sob qualquer pretexto.
+Art. 27.º - 1. Os limites de lotação ou de carga útil das viaturas não podem ser excedidos pelos condutores sob qualquer pretexto.
 
 2. A responsabilidade do condutor é transferida para o superior que ordenar que tais limites sejam excedidos.
 
 ### CAPÍTULO V — Normas de conservação e inspecção
 
-###### Art. 28.º Todas as viaturas da Força Aérea devem ser mantidas em perfeito estado de limpeza, conservação e funcionamento, de acordo com as normas aplicáveis em vigor.
+Art. 28.º Todas as viaturas da Força Aérea devem ser mantidas em perfeito estado de limpeza, conservação e funcionamento, de acordo com as normas aplicáveis em vigor.
 
-###### Art. 29.º - 1. As viaturas designadas para qualquer serviço são inspeccionadas nos actos de saída e de recolha.
+Art. 29.º - 1. As viaturas designadas para qualquer serviço são inspeccionadas nos actos de saída e de recolha.
 
 2. O responsável pela inspecção rubrica o boletim de serviço, anotando qualquer anomalia verificada, e informa o chefe de serviço sempre que considerar que a viatura não se encontra em boas condições de funcionamento, assumindo inteira responsabilidade das faltas que não comunicar.
 
-###### Art. 30.º Nos casos de reconhecida necessidade de serviço, as viaturas que apresentem anomalias podem, excepcionalmente, ser autorizadas a executá-lo pelos respectivos comandantes ou chefes, desde que da sua utilização não perigue a segurança dos utentes, da circulação ou de terceiros, nem resultem prejuízos para o Estado.
+Art. 30.º Nos casos de reconhecida necessidade de serviço, as viaturas que apresentem anomalias podem, excepcionalmente, ser autorizadas a executá-lo pelos respectivos comandantes ou chefes, desde que da sua utilização não perigue a segurança dos utentes, da circulação ou de terceiros, nem resultem prejuízos para o Estado.
 
-###### Art. 31.º Compete à Direcção do Serviço de Material regulamentar e inspeccionar a manutenção das viaturas da Força Aérea e difundir as respectivas normas e ordens técnicas de cumprimento e de actualização, devendo esta Direcção implementar as normas promulgadas pela Direcção do Serviço de Electricidade e Telecomunicações afectas à área desta.
+Art. 31.º Compete à Direcção do Serviço de Material regulamentar e inspeccionar a manutenção das viaturas da Força Aérea e difundir as respectivas normas e ordens técnicas de cumprimento e de actualização, devendo esta Direcção implementar as normas promulgadas pela Direcção do Serviço de Electricidade e Telecomunicações afectas à área desta.
 
 ### CAPÍTULO VI — Normas de disciplina e de fiscalização
 
-###### Art. 32.º - 1. O desrespeito ou inobservância das regras do presente Regulamento e do Código da Estrada constituem infracções disciplinares e como tal serão punidas, sem prejuízo das penalizações previstas pela lei geral aplicáveis.
+Art. 32.º - 1. O desrespeito ou inobservância das regras do presente Regulamento e do Código da Estrada constituem infracções disciplinares e como tal serão punidas, sem prejuízo das penalizações previstas pela lei geral aplicáveis.
 
 2. São consideradas infracções disciplinares de carácter excepcionalmente grave, as seguintes:
 
@@ -362,7 +369,7 @@ Em auto-estrada - 80 km/h.
 
 10.º A condução em estado de embriaguez ou estados semelhantes, nos termos da lei geral.
 
-###### Art. 33.º - 1. Compete, especificamente, à Polícia Aérea a fiscalização do cumprimento das normas do presente Regulamento e a vigilância do trânsito e da circulação das viaturas da Força Aérea.
+Art. 33.º - 1. Compete, especificamente, à Polícia Aérea a fiscalização do cumprimento das normas do presente Regulamento e a vigilância do trânsito e da circulação das viaturas da Força Aérea.
 
 2. Estas disposições não prejudicam, porém, a competência das demais autoridades, civis e militares, encarregadas do policiamento do trânsito, ou dos respectivos agentes, no exercício normal da sua função.
 
@@ -372,6 +379,6 @@ Em auto-estrada - 80 km/h.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 34.º O presente Regulamento aplica-se a todo o território nacional, e a partir do início da sua vigência ficam revogadas quaisquer outras disposições sobre esta matéria.
+Art. 34.º O presente Regulamento aplica-se a todo o território nacional, e a partir do início da sua vigência ficam revogadas quaisquer outras disposições sobre esta matéria.
 
-**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.**
+O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.

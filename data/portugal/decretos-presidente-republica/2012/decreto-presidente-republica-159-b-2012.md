@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 208/2012, 1º Suplemento, Série I de 2012-10-26
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6218-(2) a 6218-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/10/20801/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/159-b/2012/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/159-b-2012-437988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:13:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20fd3e16b3263f7d819434f9f323ec01873521d3859da82e22035853b2ada354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed24e8110846d96c1525ceec6bd74b2d728293a16adab5e14fe7e5556dd5b40e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:13:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado da Cultura
 - Governo XIX
-- Secretário de Estado do Tesouro
 - Nomeação
+- Secretário de Estado da Cultura
 - Secretário de Estado das Finanças
+- Secretário de Estado do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:58543234:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58543234:por
+  label: Exonerado João Henrique de Carvalho Grancho do cargo de Secretário de Estado do Ensino Básico e Secundário pelo(a)
+    Decreto do Presidente da República n.º 90-A/2014 - Diário da República n.º 203/2014, 1º Suplemento, Série I de 2014-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/90-a-2014-58543234
+  date: '2014-10-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:13:09Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +102,7 @@ validation:
 
 de 26 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -108,12 +114,12 @@ O Doutor Manuel Luís Rodrigues para o cargo de Secretário de Estado das Finan�
 
 O Mestre João Henrique de Carvalho Dias Grancho para o cargo de Secretário de Estado do Ensino Básico e Secundário.
 
-**Assinado em 26 de outubro de 2012.**
+Assinado em 26 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de outubro de 2012.**
+Referendado em 26 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

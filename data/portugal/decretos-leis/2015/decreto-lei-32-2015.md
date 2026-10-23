@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0130801310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2015/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2015-66655593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c7efa55abaf41218a467f010c1a9281c87f0a03431c1db551c26c9154d999e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c91752579042c6f84814a6abbed177a7401d77188ef4971110d901adadaecfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- ASAE
+- Certificado de Qualidade
+- Comércio
 - Controlo de Qualidade
 - Definição de Competências
+- Embalagem
+- Equipamento sob Pressão
 - Etiquetagem
 - Fabrico Industrial
 - Fiscalização
-- ASAE
-- Certificado de Qualidade
-- Embalagem
 - Instituto Português da Qualidade
 - Regulamento CE
-- Equipamento sob Pressão
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:108086623:por
@@ -113,20 +113,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/211/1999/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/211/1999/06/14/p/dre
+- type: repealed_by
+  target: pt:dre:108086623:por
+  label: Revogado, a partir de 01.09.2017, pelo(a) Decreto-Lei n.º 111-D/2017 - Diário da República n.º 168/2017, 2º Suplemento,
+    Série I de 2017-08-31, e sem prejuízo do disposto no art. 43.º daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-d-2017-108086623
+  date: '2017-08-31'
 - type: transposes
   target: celex:32014L0068
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:32Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +181,9 @@ Os artigos 5.º, 7.º, 8.º, 15.º e 16.º do Decreto-Lei n.º 211/99, de 14 de 
 
 5 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -223,7 +231,9 @@ c) O grupo 2, que inclui todas as substâncias e misturas não referidas nas al�
 
 3 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -233,7 +243,9 @@ c) O grupo 2, que inclui todas as substâncias e misturas não referidas nas al�
 
 4 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete à Autoridade de Segurança Alimentar e Económica (ASAE).
 
@@ -241,7 +253,9 @@ c) O grupo 2, que inclui todas as substâncias e misturas não referidas nas al�
 
 3 - No exercício da sua atividade, a entidade fiscalizadora pode apreender os produtos abrangidos pelo presente diploma, bem como solicitar o auxílio das autoridades policiais, ou de quaisquer outras autoridades, sempre que considere necessário para a execução das suas funções.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]:
 
@@ -261,12 +275,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, com ex
 
 Visto e aprovado em Conselho de Ministros de 15 de janeiro de 2015. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima.
 
-**Promulgado em 24 de fevereiro de 2015.**
+Promulgado em 24 de fevereiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de fevereiro de 2015.**
+Referendado em 26 de fevereiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

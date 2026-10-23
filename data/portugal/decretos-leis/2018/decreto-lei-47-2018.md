@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/06/11700/0256302576.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2018/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f638362e64275294037f82462908379145c97ce9947dc1b898a0f7f72b4c5bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c02a222a5f206e61d0132572b9de2aafec34f1724dd43f50dd2ef70c3d8c72e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
+- Autoridade da Mobilidade e dos Transportes
+- Balcão do Empreendedor
 - Contra-ordenação
 - Contrato de Aluguer
+- Contrato de Seguro
+- Contrato de Sharing
 - Definição de Competências
 - Fiscalização
 - Formulário Eletrónico
-- Simbolo de Identificação
 - Instituto da Mobilidade e dos Transportes
-- Licenciamento
 - Licença de Aluguer
-- Veículo
-- Programa Simplex
+- Licenciamento
 - Página na Internet
+- Plataforma Eletrónica
 - Prestação de Serviços
+- Programa Simplex
 - Regime Jurídico
 - Seguro de Acidentes Pessoais
+- Simbolo de Identificação
 - Transporte de Passageiros
-- Autoridade da Mobilidade e dos Transportes
-- Plataforma Eletrónica
-- Balcão do Empreendedor
+- Veículo
 - Veículo de Aluguer sem Condutor
-- Contrato de Sharing
 relationships:
 - type: amended_by
   target: pt:dre:1125313598:por
@@ -136,20 +136,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314-b/2010/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314-b/2010/06/14/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70373436:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0123
   label: null
   source: null
 article_structure:
-  article_count: 64
+  article_count: 41
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:38Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +284,9 @@ d) Aos contratos respeitantes à utilização de veículos sem condutor, celebra
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 2.º — Atividade de rent-a-car e sharing
+Artigo 2.º
+
+Atividade de rent-a-car e sharing
 
 1 - [...]
 
@@ -238,7 +308,9 @@ e) [Anterior alínea d).]
 
 5 - Podem ser ainda objeto de contrato de aluguer, no âmbito da atividade de rent-a-car e sharing, veículos de caraterísticas especiais, a definir por deliberação do conselho diretivo do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O acesso e exercício da atividade de rent-a-car e sharing está sujeito a comunicação prévia com prazo ao IMT, I. P., a efetuar por via do Balcão do Empreendedor (BdE), dos serviços a que se referem os artigos 5.º e 6.º do [Decreto-Lei n.º 92/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2010-334094), de 26 de julho.
 
@@ -252,7 +324,9 @@ e) [Anterior alínea d).]
 
 6 - O IMT, I. P., mantém no seu sítio na Internet, acessível através do balcão a que se refere o n.º 1, uma lista dos prestadores de serviços autorizados a exercer atividade de rent-a-car e sharing em território nacional.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para efeitos de acesso à atividade de rent-a-car e sharing, os interessados devem observar cumulativamente os seguintes requisitos:
 
@@ -284,7 +358,9 @@ d) Disponibilizar antecipadamente aos utilizadores, na plataforma eletrónica, a
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -294,7 +370,9 @@ a) [...]
 
 b) Condenação, com trânsito em julgado, por infrações, de natureza penal ou contraordenacional, a normas relativas às prestações de natureza retributiva, às condições de higiene e segurança no trabalho, à proteção do ambiente e à responsabilidade profissional, desde que tenha sido acessoriamente decretada a interdição do exercício da atividade de rent-a-car ou de sharing, e até à respetiva reabilitação, ou ainda em caso de inibição do exercício do comércio por ter sido declarada a falência ou insolvência, enquanto não for levantada a inibição.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Só podem ser utilizados na atividade de rent-a-car e sharing veículos que obedeçam aos seguintes requisitos cumulativos, quando aplicáveis:
 
@@ -314,7 +392,9 @@ d) Pelo menos 10 % dos automóveis ligeiros de passageiros afetos ao exercício 
 
 5 - Os veículos afetos à atividade de sharing devem ostentar um dístico, de modelo a definir por deliberação do conselho diretivo do IMT, I. P., que permita a imediata identificação do veículo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 4 do artigo 11.º, os veículos afetos à atividade de rent-a-car devem encontrar-se à disposição do público, dentro do horário de funcionamento dos locais de atendimento.
 
@@ -322,11 +402,15 @@ d) Pelo menos 10 % dos automóveis ligeiros de passageiros afetos ao exercício 
 
 3 - Os veículos de aluguer sem condutor, independentemente da modalidade, não podem ficar ao serviço exclusivo e permanente do locador ou, tratando-se de pessoas coletivas, dos respetivos sócios, diretores, administradores ou gerentes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Os veículos automóveis de matrícula estrangeira em regime de aluguer sem condutor, admitidos temporariamente no território nacional, apenas podem ser realugados nos termos previstos no artigo 37.º do Código do Imposto sobre Veículos, aprovado pela [Lei n.º 22-A/2007](https://diariodarepublica.pt/dr/detalhe/lei/22-a-2007-226204), de 29 de junho, na sua redação atual.
 
-###### Artigo 9.º — Forma e conteúdo do contrato de rent-a-car
+Artigo 9.º
+
+Forma e conteúdo do contrato de rent-a-car
 
 1 - [...]
 
@@ -378,7 +462,9 @@ g) O acionamento da caução por danos no veículo, provocados ou não pelo loca
 
 10 - Em alternativa ao disposto no n.º 1, e desde que respeitadas as condições previstas no presente artigo, o contrato pode igualmente ser celebrado em suporte eletrónico, sem prejuízo da disponibilidade dos elementos do contrato durante a utilização do veículo na atividade.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Tratando-se de contratos de adesão com uso de cláusulas contratuais gerais, o locador está obrigado a enviar uma cópia das respetivas minutas à Autoridade da Mobilidade e dos Transportes (AMT), a efetuar por via BdE, em data prévia ao início da atividade.
 
@@ -392,7 +478,9 @@ g) O acionamento da caução por danos no veículo, provocados ou não pelo loca
 
 6 - [...]
 
-###### Artigo 11.º — Reserva no contrato de rent-a-car
+Artigo 11.º
+
+Reserva no contrato de rent-a-car
 
 1 - Qualquer que seja o meio pelo qual a reserva é efetuada, devem ser facultadas ao locatário, em papel ou noutro suporte duradouro, em tempo útil e previamente à sua efetivação, as seguintes informações:
 
@@ -420,7 +508,9 @@ i) [...]
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -428,11 +518,15 @@ i) [...]
 
 3 - No momento da entrega do veículo, na data fixada no contrato, no caso do rent-a-car, ou no término de utilização do serviço de sharing, o locador entrega ao locatário documento comprovativo de que o veículo foi entregue pelo locatário e aceite pelo locador, o qual pode ser também enviado em suporte eletrónico.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Na atividade de rent-a-car, pode ser celebrado um contrato adicional ao de aluguer do veículo de passageiros sem condutor tendo por objeto exclusivo a sua condução, a qual só pode ser exercida por pessoas contratadas pelo locador, considerando-se este serviço prestado pelo próprio locador.
 
-###### Artigo 14.º — Registo dos contratos de rent-a-car
+Artigo 14.º
+
+Registo dos contratos de rent-a-car
 
 1 - [...]
 
@@ -442,7 +536,9 @@ Na atividade de rent-a-car, pode ser celebrado um contrato adicional ao de alugu
 
 4 - A AMT faculta ao Turismo de Portugal, I. P., os elementos que este solicite relativamente ao exercício da atividade pelos prestadores de serviços de rent-a-car, para fins estatísticos.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - São obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades quando assim lhe for exigido, o documento único automóvel, o comprovativo da apólice de seguro de responsabilidade civil automóvel, a ficha de inspeção, quando aplicável, e cópia do contrato de aluguer, que pode ser apresentada em suporte eletrónico.
 
@@ -454,7 +550,9 @@ Na atividade de rent-a-car, pode ser celebrado um contrato adicional ao de alugu
 
 5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deve ser portador de declaração, emitida pelo locador, que inclua a identificação do trabalhador ou representante legal da empresa e o motivo da deslocação.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições do presente decreto-lei compete, no âmbito das respetivas atribuições, às seguintes entidades:
 
@@ -470,7 +568,9 @@ e) AMT.
 
 2 - As entidades referidas no número anterior exercem as suas funções de fiscalização nos termos da lei, podendo proceder, designadamente, às diligências necessárias junto das pessoas singulares ou coletivas que exerçam a atividade de rent-a-car ou de sharing.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -516,11 +616,15 @@ l) A inobservância do disposto nos n.os 1 e 5 do artigo 15.º
 
 4 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Sem prejuízo do disposto no n.º 4 do artigo 15.º, as infrações ao disposto no presente decreto-lei são da responsabilidade do locador, excetuada a infração constante da alínea j) do n.º 3 do artigo anterior, cuja responsabilidade é do locatário.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O processamento das contraordenações previstas na alínea a) do n.º 2 e nas alíneas e), f), g), h) e k) do n.º 3 do artigo 18.º compete à AMT.
 
@@ -530,7 +634,9 @@ Sem prejuízo do disposto no n.º 4 do artigo 15.º, as infrações ao disposto 
 
 4 - O IMT, I. P., e a AMT organizam o registo das infrações cometidas nos termos da legislação em vigor.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O produto das coimas reverte em:
 
@@ -572,13 +678,17 @@ h) Informação sobre os meios de pagamento.
 
 4 - O contrato de sharing deve ser celebrado, preferencialmente, em suporte eletrónico, sem prejuízo das garantias de força probatória e de disponibilidade dos elementos do contrato durante a utilização do veículo na atividade.
 
-###### Artigo 9.º-B — Convolação em contrato de rent-a-car
+Artigo 9.º-B
+
+Convolação em contrato de rent-a-car
 
 1 - A convolação a que se refere a alínea d) do n.º 1 do artigo anterior consiste na possibilidade de conversão automática do contrato de sharing em contrato de rent-a-car, verificados os parâmetros referidos no n.º 4 do artigo 2.º a partir de cada utilização do veículo, só sendo a mesma possível quando o locador esteja também habilitado para o exercício da atividade de rent-a-car.
 
 2 - O utilizador do veículo, previamente à celebração do contrato de sharing, deve ser informado das alterações das condições contratuais inerentes à convolação do contrato, nomeadamente o preço.
 
-###### Artigo 9.º-C — Plataforma eletrónica
+Artigo 9.º-C
+
+Plataforma eletrónica
 
 1 - Os locadores de sharing devem disponibilizar uma plataforma eletrónica adequada, de acesso imediato, respondendo solidariamente pela operação dessa plataforma, independentemente da sua propriedade.
 
@@ -596,7 +706,9 @@ e) Em caso de existência de serviços de subscrição, a gestão da conta, incl
 
 3 - O locador de sharing e o operador de plataforma ficam sujeitos a sigilo profissional e devem respeitar as normas relativas à recolha e à proteção de dados pessoais, nos termos da legislação aplicável.
 
-###### Artigo 11.º-A — Reserva no contrato de sharing
+Artigo 11.º-A
+
+Reserva no contrato de sharing
 
 1 - No momento da reserva, o locador deve disponibilizar ao locatário, além dos elementos elencados no artigo 9.º-A, as seguintes informações:
 
@@ -618,7 +730,9 @@ f) O modo e o local da restituição.
 
 4 - A informação relativa às condições gerais e particulares do contrato a celebrar, prestada nos termos do n.º 1, considera-se integrada no conteúdo do contrato que venha a ser celebrado, tendo-se por não escritas as cláusulas contratuais em contrário.
 
-###### Artigo 14.º-A — Registos dos contratos de sharing
+Artigo 14.º-A
+
+Registos dos contratos de sharing
 
 1 - Os locadores de sharing devem conservar um registo de todos os contratos de adesão e de cada utilização do sistema nos últimos dois anos, sendo os mesmos acessíveis a qualquer momento pelo utilizador registado.
 
@@ -652,15 +766,15 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2018.
 
 Visto e aprovado em Conselho de Ministros de 3 de maio de 2018. - Maria Manuel de Lemos Leitão Marques - António Manuel Veiga dos Santos Mendonça Mendes - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 29 de maio de 2018.**
+Promulgado em 29 de maio de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de junho de 2018.**
+Referendado em 5 de junho de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
@@ -1141,3 +1255,5 @@ Para efeitos da aplicação do presente decreto-lei, as autoridades competentes 
 ###### Artigo 27.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor 180 dias após a sua publicação.
+
+111404479

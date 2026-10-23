@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/2025/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2025-936526996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a911f0f0c356e114bba147c0bba626818425051fd530cbb3a45d7b36b3b946
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f71da3f1d3a2c3cca0565e2b0b683f4f3eed57e19f2f7874ed228447267d3f60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Nacional
-- Pessoal Dirigente
 - Definição de Competências
-- Extinção de Serviços
+- DGEPA/GEPA
 - Direção Geral do Ensino Superior
+- Extinção de Serviços
+- Instituto para o Ensino Superior
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
-- DGEPA/GEPA
-- Instituto para o Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:1129390708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1080130519:por
+  label: Declarada, a partir e com efeitos a 1 de abril de 2026, a extinção da Direção-Geral do Ensino Superior e da Agência
+    Nacional Erasmus+ Educação e Formação, constante do presente diploma, pelo(a) Despacho n.º 4201/2026 - Diário da República
+    n.º 63/2026, Série II de 2026-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/4201-2026-1080130519
+  date: '2026-03-31'
 - type: cites
   target: celex:32004L0018
   label: null
@@ -129,16 +136,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115/2021/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/2021/08/23/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169997568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870757938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895287961:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar:20/2012
+  label: Revoga, a partir de 1 de outubro de 2025, o Decreto Regulamentar n.º 20/2012, de 7 de fevereiro, Diário da República
+    n.º 27/2012, Série I
+  source: null
+  date: '2012-02-07'
+- type: repeals
+  target: pt:numero:resolucao-conselho-ministros:115/2021
+  label: Revoga, nos termos do n.º 3 do artigo 15.º, a Resolução do Conselho de Ministros n.º 115/2021, de 23 de agosto, Diário
+    da República n.º 163/2021, Série I
+  source: null
+  date: '2021-08-23'
+- type: repeals
+  target: pt:numero:decreto-regulamentar:4/2024
+  label: Revoga, a partir de 1 de outubro de 2025, o Decreto Regulamentar n.º 4/2024, de 4 de novembro, Diário da República
+    n.º 213/2024, Série I
+  source: null
+  date: '2024-11-04'
 article_structure:
   article_count: 37
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:49Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +310,7 @@ Os bens móveis, nestes integrando as respetivas viaturas, e imóveis da DGES e 
 
 4 - Os trabalhadores são reafetos aos serviços e entidades integradores com efeitos à data do despacho conjunto dos dirigentes máximos desses organismos e do dirigente máximo dos serviços integrados.
 
-5 - Com exceção das situações previstas nos n.<sup>os</sup>3 e 5 do artigo 11.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos serviços e entidades integradores.
+5 - Com exceção das situações previstas nos n.os3 e 5 do artigo 11.º, o disposto no n.º 1 determina a integração dos trabalhadores em postos de trabalho não ocupados ou a prever no mapa de pessoal dos serviços e entidades integradores.
 
 ###### Artigo 8.º — Critérios de seleção do pessoal
 
@@ -331,15 +404,15 @@ O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua
 
 Visto e aprovado em Conselho de Ministros de 4 de setembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre - Rosário Palma Ramalho.
 
-**Promulgado em 19 de setembro de 2025.**
+Promulgado em 19 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de setembro de 2025.**
+Referendado em 23 de setembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — Orgânica do Instituto para o Ensino Superior, I. P.
 
@@ -640,3 +713,5 @@ O património do IES, I. P., é constituído pela universalidade de bens, direit
 2 - O IES, I. P., pode filiar-se ou participar em instituições ou organismos afins, nacionais ou internacionais.
 
 3 - A filiação ou participação referida no número anterior que implique encargos financeiros só poderá ocorrer desde que exista dotação orçamental disponível ou, em alternativa, os respetivos encargos venham a ser inscritos no orçamento do IES, I. P., através de gestão flexível dentro do respetivo programa orçamental.
+
+119570349

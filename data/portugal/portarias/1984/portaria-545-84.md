@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-1984-381739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18520e4c2183769781a13b35835a33032cf0f16eb0264df9a4d0b8d3382c9e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 920c4f7fbf722c54f4b306f4d71fbe5d5926b6e971a16efb13f989a7e845ad27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Chefe de Divisão
+- Pessoal de Chefia
+- Recrutamento de Pessoal
+- Serviço Regional de Agricultura
+relationships:
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:20Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +124,6 @@ b) A direcção regional interessada tenha accionado a nível do Ministério, at
 
 Presidência do Conselho de Ministros e Ministério da Agricultura, Florestas e Alimentação.
 
-**Assinada em 12 de Junho de 1984.**
+Assinada em 12 de Junho de 1984.
 
-**O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.**
+O Ministro da Agricultura, Florestas e Alimentação, Manuel José Dias Soares Costa. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.

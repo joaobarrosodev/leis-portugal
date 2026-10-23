@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/14900/0405604059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2012/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2012-179063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12828fdd2bf68b5723eab9ada159269abe472d01b2f1a4d4fd071b91b355d549
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9558043c52b687066f27fabe500ad751112b67548d12c297eca59a215ec8b12b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ASAE
+- Câmara Municipal
 - Cidadão Estrangeiro
-- Multa
 - Comércio por Grosso
 - Contra-ordenação
 - Contrato de Concessão
 - Direção Geral das Atividades Económicas
-- Propriedade do Estado
 - Domínio Público do Estado
 - Feira
 - Fiscalização
-- ASAE
-- Livre Prestação de Serviços
 - Licenciamento
+- Livre Prestação de Serviços
+- Multa
 - Profissão Comercial
-- Câmara Municipal
+- Propriedade do Estado
 - Regime Jurídico
 - Regulamento Interno
 relationships:
@@ -92,16 +92,21 @@ relationships:
   target: celex:32006L0123
   label: null
   source: http://data.europa.eu/eli/dir/2006/123/oj
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogado, a partir de 01.03.2015, pelo(a) Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:26Z'
   warnings: []
   errors: []
 ---
@@ -344,12 +349,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de maio de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira.
 
-**Promulgado em 25 de julho de 2012.**
+Promulgado em 25 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de julho de 2012.**
+Referendado em 27 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

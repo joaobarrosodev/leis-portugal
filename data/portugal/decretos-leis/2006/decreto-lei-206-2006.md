@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9614eb029e4fbd99702c9b2a43c7357708252060b99c409575cff8732e486817
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5078a4992f950d1bc05cbb4cf64342b2fae2e006698e98304ed72925ebe50cfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Director Adjunto
-- Secretário Geral Adjunto
-- Reestruturação de Serviços
-- Direcção Geral dos Serviços Prisionais
 - Centro de Estudos Judiciários
-- Pessoal Dirigente
+- Comissão de Programas Especiais de Segurança
+- Comissão de Protecção às Vítimas de Crimes
+- Conselho Consultivo da Justiça
 - Conselho de Dirigentes do Ministério da Justiça
-- Instituto Nacional de Medicina Legal
-- Direcção Geral de Reinserção Social
-- Instituto dos Registos e do Notariado
+- Conselho Diretivo
 - Controlador Financeiro
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral da Política de Justiça
+- Direcção Geral da Administração da Justiça
+- Direcção Geral de Reinserção Social
+- Direcção Geral dos Serviços Prisionais
+- Director Adjunto
 - Diretor
 - Diretor Geral
 - Extinção de Serviços
-- Secretaria Geral
-- Ministério da Justiça
-- Conselho Diretivo
-- Instituto Nacional da Propriedade Industrial
-- Inspetor Geral
-- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
-- Comissão de Programas Especiais de Segurança
-- Conselho Consultivo da Justiça
-- Direção Geral da Política de Justiça
 - Gabinete para a Resolução Alternativa de Litígios
 - Inspecção Geral dos Serviços de Justiça
+- Inspetor Geral
 - Instituto das Tecnologias de Informação na Justiça
+- Instituto de Gestão Financeira e de Infra-estruturas da Justiça
+- Instituto dos Registos e do Notariado
+- Instituto Nacional da Propriedade Industrial
+- Instituto Nacional de Medicina Legal
+- Ministério da Justiça
 - Orgânica
-- Presidente
-- Comissão de Protecção às Vítimas de Crimes
-- Quadro de Pessoal
-- Direcção Geral da Administração da Justiça
+- Pessoal Dirigente
 - Polícia Judiciária
+- Presidente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 - Subdirector Geral
 - Subinspector Geral
 - Transferência de Competências
@@ -110,6 +110,23 @@ relationships:
   target: pt:dre:145185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307656:por
+  label: "Alterado o art. 24º do presente diploma, pelo DEC LEI.120/2010.27.10.2010.MJ, DR.IS [209] de 27.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2010-307656
+  date: '2010-10-27'
+- type: amended_by
+  target: pt:dre:280946:por
+  label: "Alterado o art. 5º e aditado um art. 21º-A, pelo DEC LEI.14/2011.25.01.2011.MJ, DR.IS [17] de 25.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2011-280946
+  date: '2011-01-25'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Justiça dos serviços, organismos e estruturas identificados no presente\
+    \ diploma, alterado pelos Dec Lei 120/2010 de 27-Out, 11/2011 de 21-Out e 14/2011 de 25-Jan, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 15º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
   label: null
@@ -134,16 +151,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280923:por
+  label: "Revogada, a partir de 01.02.2011, a al. l) do art. 11º pelo DEC LEI.11/2011.21.01.2011.MJ, DR.IS [15] de 21.01.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2011-280923
+  date: '2011-01-21'
+- type: repealed_by
+  target: pt:dre:145185:por
+  label: Revogado, a partir de 03.01.2012, o presente diploma pelo Decreto-Lei n.º 123/2011, de 29 de dezembro, Diário da
+    República n.º 249/2011, Série I
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2011-145185
+  date: '2011-12-29'
 article_structure:
   article_count: 32
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:39Z'
   warnings: []
   errors: []
 ---
@@ -730,22 +783,22 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa (ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf)
 
 (nota 1) Não inclui a Polícia Judiciária.
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74637473.pdf)

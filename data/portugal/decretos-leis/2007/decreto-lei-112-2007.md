@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2007/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2007-519575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e46cf95ddb18d03d51cbca50f45c331676df988d2565657d3b7edb49a7c8934e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7accf64b22176b871d70a245401b4f2d354daf902f0646f7f1f10f6da55d639b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
+- Açores
+- ASAE
 - Autoridade Nacional
-- Multa
 - Comércio Internacional
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Fiscalização
-- Instituto do Ambiente
-- ASAE
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Instituto do Ambiente
 - Madeira.região Autónoma
-- Receita Própria
-- Poluição
-- Regulamento CE
+- Multa
 - Pesticida
-- Açores
+- Poluição
+- Produto Químico
+- Receita Própria
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:279442:por
@@ -111,16 +111,21 @@ relationships:
   target: celex:32006R0777
   label: null
   source: http://data.europa.eu/eli/reg/2006/777/oj
+- type: repealed_by
+  target: pt:dre:279442:por
+  label: "Revogado, a partir de 14.03.2011, pelo DEC LEI.36/2011.09.03.2011.MAOT, DR.IS [48] de 09.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2011-279442
+  date: '2011-03-09'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:58Z'
   warnings: []
   errors: []
 ---
@@ -269,17 +274,19 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - José Manuel Santos de Magalhães - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - João Manuel Machado Ferrão - Bernardo Luís Amador Trindade.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 28 de Março de 2007.**
+Referendado em 28 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-## ANEXO I — Parte 1
+## ANEXO I
+
+## Parte 1
 
 Lista dos produtos químicos sujeitos ao procedimento de notificação de exportação
 
@@ -289,9 +296,9 @@ De salientar que nos casos em que os produtos químicos incluídos nesta parte d
 
 É também de salientar que, nos casos em que os produtos químicos enumerados nesta parte do anexo são passíveis de notificação PIC devido à natureza da acção regulamentar final comunitária, esses produtos químicos são também incluídos na lista da parte 2 do presente anexo, sendo identificados pelo símbolo + na lista infra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
 
-# Parte 2
+Parte 2
 
 Lista de produtos químicos passíveis de notificação PIC
 
@@ -299,9 +306,9 @@ Lista de produtos químicos passíveis de notificação PIC
 
 Esta lista inclui produtos químicos passíveis de notificação PIC. Não inclui, geralmente, produtos químicos que já estão sujeitos ao procedimento PIC, os quais estão inscritos na parte 3 do presente anexo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
 
-# Parte 3
+Parte 3
 
 Lista de produtos químicos sujeitos ao procedimento PIC no âmbito da Convenção de Roterdão
 
@@ -309,7 +316,7 @@ Lista de produtos químicos sujeitos ao procedimento PIC no âmbito da Convenç�
 
 As categorias apresentadas são as referidas na Convenção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
 
 ## ANEXO II — Notificação de exportação
 
@@ -393,4 +400,4 @@ Informação actualizada sobre as listas dos produtos químicos em causa e os pa
 
 ## ANEXO III — Produtos químicos e artigos sujeitos a proibição de exportação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07500/24282440.pdf)

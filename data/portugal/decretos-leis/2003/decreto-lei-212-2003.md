@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/09/215a00/60396044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/212/2003/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2003-497674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 844f2bc06a1639db8136f9ba5863ddd5c89dcb15147da7af15ce7f392bc1223a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c310147f32f13315044b40379c619b297c6a12d12ae9897bc469e388f8c48abc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
 - Análise Laboratorial
-- Produção Animal
 - Aproximação das Legislações
-- Doença Animal
-- Multa
 - Contra-ordenação
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Saúde Pública
+- Doença Animal
 - Exploração Pecuária
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Laboratório Nacional de Investigação Veterinária
 - Legislação Veterinária
-- Produto Veterinário
 - Madeira.região Autónoma
-- Açores
+- Multa
+- Produção Animal
+- Produto Alimentar
 - Produto Animal
+- Produto Veterinário
+- Saúde Pública
 - Transporte de Animais
 - Troca Intracomunitária
 relationships:
@@ -94,6 +94,11 @@ relationships:
   target: pt:dre:480917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269260:por
+  label: "Alterado o art. 14º pelo DEC LEI.114/2004.15.05.2004.MADRP, DR.IS-A [114] de 15.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2004-269260
+  date: '2004-05-15'
 - type: cites
   target: celex:31992L0117
   label: null
@@ -102,16 +107,22 @@ relationships:
   target: celex:31999L0072
   label: null
   source: http://data.europa.eu/eli/dir/1999/72/oj
+- type: repealed_by
+  target: pt:dre:480917:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 114/2004 de 15-Mai, pelo DEC LEI.193/2004.17.08.2004.MADRP,\
+    \ DR.IS-A [5223] de 17.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/193-2004-480917
+  date: '2004-08-17'
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:06Z'
   warnings: []
   errors: []
 ---
@@ -268,15 +279,15 @@ São revogados o Decreto-Lei n.º 92/94, de 7 de Abril, e a Portaria n.º 215/94
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - João Luís Mota de Campos - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 2 de Setembro de 2003.**
+Promulgado em 2 de Setembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Setembro de 2003.**
+Referendado em 4 de Setembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Lista de zoonoses
 

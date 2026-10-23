@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2012/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2012-544412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75ad55b23a2bf55e150ccb30f7bb56b21a7abeff8db4e6143a37f6e35d88041c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf30586c17c2442f767582044ff89586cb3e1cb3f4bf12091757750f4786d780
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Diretor Geral
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Investigação Criminal
+- Militar
 - Orgânica
+- Pessoal Dirigente
 - Polícia Judiciária Militar
+- Prevenção Criminal
 - Quadro de Pessoal
 - Receita
+- Recrutamento de Pessoal
 - Remuneração
-- Militar
-- Investigação Criminal
-- Prevenção Criminal
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direcção sobre a Polícia Judiciária Militar, com orgânica aprovada pelo
+    presente diploma, seja exercida pelo Ministro da Defesa Nacional, pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República
+    n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a direcção sobre a Polícia Judiciária Militar, com orgânica aprovada pelo
+    presente diploma seja exercida pela Ministra da Defesa Nacional pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Defesa Nacional a direção sobre
+    a Polícia Judiciária Militar pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Defesa Nacional a direção sobre
+    a Polícia Judiciária Militar pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025, Suplemento, Série I
+    de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2011/12/29/p/dre
   label: null
@@ -95,16 +122,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/97-a/2009/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/97-a/2009/09/03/p/dre
+- type: cites
+  target: pt:dre:145184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482846:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:09Z'
   warnings: []
   errors: []
 ---
@@ -259,18 +298,18 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva.
 
-**Promulgado em 5 de Janeiro de 2012.**
+Promulgado em 5 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Janeiro de 2012.**
+Referendado em 9 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/01300/0030000302.pdf))](https://files.diariodarepublica.pt/1s/2012/01/01300/0030000302.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/01300/0030000302.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/19/2004/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/19-2004-216919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f695a7f5950caffb11380fd4d79dc0a5033e51b5b04f770bd1d543841f86fcba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb6966675cbbf7ca3aeb5c963fdff33dd6b3fe12b413c6ed7d831d5023f0ec43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Central
-- Mulher
-- Criança
 - Convenção
-- Portugal
+- Criança
 - Crime Organizado
+- Mulher
 - Nova Iorque
+- Portugal
 - Procuradoria Geral da República
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/32/2004/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/32/2004/04/02/p/dre
+- type: cites
+  target: pt:dre:216918:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:07Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ validation:
 
 de 2 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 ###### Artigo 1.º
 
@@ -112,12 +116,12 @@ Para efeitos do disposto no n.º 13 do artigo 18.º da Convenção das Nações 
 
 Para efeitos do disposto no n.º 6 do artigo 8.º do Protocolo Adicional contra o Tráfico Ilícito de Migrantes por Via Terrestre, Marítima e Aérea, Portugal declara que a autoridade para receber e responder aos pedidos de auxílio e de confirmação de registo de matrícula ou do direito de uma embarcação arvorar o seu pavilhão e aos pedidos de autorização para tomar as medidas necessárias é a Procuradoria-Geral da República.
 
-**Assinado em 17 de Março de 2004.**
+Assinado em 17 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Março de 2004.**
+Referendado em 17 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

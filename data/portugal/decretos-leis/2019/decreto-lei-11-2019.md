@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/01/01400/0039700398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2019/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2019-118051704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa25372a72b8225ba510197be34cf15d178245bd75b1c73f2974bc79dd185fb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910bff82311eb7aab64df786784fd713c7dc79a7113336dd397cd05a31c35896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção da Floresta
+- Agência Portuguesa do Ambiente
 - Instituto da Conservação da Natureza e das Florestas
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Política de Solos
 - Plano Especifico de Intervenção Florestal
 - Plano Regional de Ordenamento Florestal
+- Política de Solos
 - Política Florestal
+- Proteção da Floresta
 - ZONA de Intervenção Florestal
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
@@ -116,16 +116,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/2017/08/16/p/dre
+- type: cites
+  target: pt:dre:107507170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67212743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:48Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +298,9 @@ c) Aos limites de área a ocupar por eucalipto.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os PROF atualmente em vigor mantêm a sua vigência até à aprovação dos novos PROF que os venham substituir.
 
@@ -242,12 +360,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Carlos Manuel Soares Miguel - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 28 de dezembro de 2018.**
+Promulgado em 28 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de janeiro de 2019.**
+Referendado em 7 de janeiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111989349

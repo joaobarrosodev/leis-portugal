@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/011a00/02600265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2004/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2004-603046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8171ac0255156995b02dbfe2f2c550db58e20494b00f1ed3dca2f76b493d716b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eef17b4662b4d1d1827e006dc37ff5be70d26705c9dbdaa6a13a3cef7ed2cf7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
-- Azeitona
 - Azeite
-- Multa
-- ÓLEO Vegetal
+- Azeitona
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Regional de Agricultura
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Gabinete de Planeamento e Política Agro-alimentar
 - Matéria-Prima
-- Embalagem
+- Multa
+- ÓLEO Vegetal
 - Proteção do Consumidor
 - Regulamento CE
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:335205:por
@@ -125,16 +125,26 @@ relationships:
   target: celex:32003R1176
   label: null
   source: http://data.europa.eu/eli/reg/2003/1176/oj
+- type: corrected_by
+  target: pt:dre:532272:por
+  label: "Rectificado pela DECL-RECT.27/2004.09.03.2004.PCM, DR.IS-A [62] de 13.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-2004-532272
+  date: '2004-03-09'
+- type: repealed_by
+  target: pt:dre:335205:por
+  label: "Revogado, a partir de 29.06.2010, pelo DEC LEI.76/2010.24.06.2010.MADRP, DR.IS [121] de 24.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2010-335205
+  date: '2010-06-24'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:08Z'
   warnings: []
   errors: []
 ---
@@ -395,15 +405,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 22 de Dezembro de 2003.**
+Promulgado em 22 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 2003.**
+Referendado em 30 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Auxiliares tecnológicos
 

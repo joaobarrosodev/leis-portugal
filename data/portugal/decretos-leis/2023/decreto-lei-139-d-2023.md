@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29
   number: '250'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 342-(23) a 342-(53)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0002300053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-d/2023/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-d-2023-835994080
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 955a4019a703e6571854fe71b70d17bac05206383f471048cbd1f849871785be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec84f65344e7b6d9a7e0f445a3e658f47e6cdb51761f374163385af4fd790128
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Formação Profissional
-- Radiactividade
-- Radioprotecção
+- Administração Central do Sistema de Saúde
+- Agência Portuguesa do Ambiente
+- Autoridade Competente
 - Contra-ordenação
 - Definição de Competências
 - Delegado
 - Entidade Reguladora da Saúde
-- Inspecção Geral das Actividades em Saúde
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Material Eléctrico e Electrónico
 - Exame Médico
-- Administração Central do Sistema de Saúde
-- Tratamento de Resíduos
-- Qualificação Profissional
+- Formação Profissional
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspecção Geral das Actividades em Saúde
+- Material Eléctrico e Electrónico
 - Material Médico-Cirúrgico
 - Normalização
-- Autoridade Competente
-- Agência Portuguesa do Ambiente
+- Qualificação Profissional
+- Radiactividade
+- Radioprotecção
+- Tratamento de Resíduos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:108/2018
+  label: Altera, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, nos termos do n.º 3 do artigo 7.º do
+    presente diploma, os artigos 4.º, 12.º, 22.º, 23.º, 24.º, 26.º, 28.º, 29.º, 32.º, 33.º, 34.º, 35.º, 45.º, 77.º, 78.º,
+    101.º, 102.º, 122.º, 123.º, 130.º, 131.º, 155.º, 157.º, 159.º (a alteração aos dois últimos artigos produz efeitos a 1
+    de janeiro de 2025), 160.º, 161.º, 169.º, 175.º, 179.º, 181.º, 182.º, 184.º, 184.º-C, 185.º, 185.º-C e 186.º, a epígrafe
+    da secção I do Capítulo VII e renumera os os anexos II, III, IV, V e VI, adita os artigos 157.º-A, 159.º-A e 159.º-B (estes
+    artigos com efeitos a 1 de janeiro de 2025) e o anexo II, e revoga a alínea c) do n.º 2 e as alíneas i) e j) do n.º 4
+    do artigo 22.º, os n.ºs 2 e 3 do artigo 23.º, os n.ºs 6 e 7 do artigo 28.º, o n.º 3 do artigo 157.º, o n.º 2 do artigo
+    179.º, o artigo 180.º e as alíneas a) e b) do n.º 2 do artigo 184.º-C do Decreto-Lei n.º 108/2018, de 3 de dezembro, Diário
+    da República n.º 232/2018, Série I
+  source: null
+  date: '2018-12-03'
 - type: cites
   target: celex:32013L0059
   label: null
@@ -117,20 +130,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/195/2015/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/195/2015/06/30/p/dre
+- type: cites
+  target: pt:dre:117202785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122279883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204379871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67641478:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:227/2008
+  label: Revoga, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, nos termos do n.º 1 do artigo 7.º e do
+    artigo 8.º do presente diploma, o Decreto-Lei n.º 227/2008, de 25 de novembro, Diário da República n.º 229/2008, Série
+    I
+  source: null
+  date: '2008-11-25'
+- type: repeals
+  target: pt:numero:portaria:195/2015
+  label: Revoga, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, nos termos do artigo 8.º do presente
+    diploma, a Portaria n.º 195/2015, de 30 de junho, Diário da República n.º 125/2015, Série I
+  source: null
+  date: '2015-06-30'
+- type: repeals
+  target: pt:numero:portaria:138/2019
+  label: Revoga, a partir de 1 de janeiro de 2024, com efeitos a 1 de julho de 2024, nos termos do artigo 8.º do presente
+    diploma, a Portaria n.º 138/2019, de 10 de maio, Diário da República n.º 90/2019, Série I
+  source: null
+  date: '2019-05-10'
 - type: transposes
   target: celex:32013L0059
   label: null
   source: null
 article_structure:
-  article_count: 47
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 10
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:20Z'
   warnings: []
   errors: []
 ---
@@ -381,7 +441,9 @@ cy) [...].
 
 2 - Para efeitos do presente decreto-lei, as práticas de medicina veterinária não são consideradas exposições médicas nem exposições imagiológicas não médicas, sendo-lhes aplicável, com as necessárias adaptações, o disposto no n.º 2 do artigo 101.º a respeito dos cuidadores.
 
-###### Artigo 12.º — Autoridades competentes
+Artigo 12.º
+
+Autoridades competentes
 
 1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.) e a Entidade Reguladora da Saúde (ERS) são as autoridades competentes, para efeitos do presente decreto-lei, nos termos do número seguinte.
 
@@ -395,7 +457,9 @@ b) À ERS compete zelar pela existência de um elevado nível de proteção radi
 
 4 - As autoridades competentes exercem as competências previstas no presente decreto-lei com independência, devendo ser dotadas dos recursos humanos, técnicos e financeiros próprios necessários ao seu funcionamento.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -441,7 +505,9 @@ i) (Revogada.)
 
 j) (Revogada.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]:
 
@@ -489,7 +555,9 @@ ii) Relativamente aos radionuclídeos naturais, o incremento de dose, tendo em c
 
 8 - Para efeitos da alínea c) do n.º 4, consideram-se intrinsecamente seguras as práticas que envolvam pequenas quantidades de substâncias radioativas ou baixas concentrações de atividade comparáveis aos valores de isenção estabelecidos no Quadro A ou no Quadro B do anexo II ao presente decreto-lei.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, cada titular garante o cumprimento, designadamente, do seguinte:
 
@@ -517,7 +585,9 @@ k) [Anterior alínea k) do corpo do artigo 24.º]
 
 2 - Os deveres dos titulares de equipamentos de radiografia intraoral em medicina dentária e de fontes equivalentes no âmbito da medicina veterinária são regulamentados por portaria dos membros do Governo responsáveis, respetivamente, pela área da saúde e pelas áreas do ambiente e da agricultura.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O titular deve implementar e garantir o cumprimento de um Programa de Proteção Radiológica adequado à prática e às características da instalação, de acordo com modelo aprovado por portaria dos membros do Governo responsáveis pelas áreas da saúde e do ambiente.
 
@@ -561,7 +631,9 @@ q) [...];
 
 r) [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A eliminação, reciclagem ou reutilização de materiais radioativos que resultam de uma prática autorizada estão sujeitas a licença, exceto nos casos previstos no número seguinte.
 
@@ -585,7 +657,9 @@ b) À mistura de materiais radioativos e não radioativos, para efeitos de reuti
 
 7 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -609,7 +683,9 @@ f) [...].
 
 5 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 [...]:
 
@@ -625,7 +701,9 @@ e) Identificação do delegado de proteção radiológica;
 
 f) [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 [...]:
 
@@ -655,7 +733,9 @@ l) [...];
 
 m) [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Se a verificação do requerimento e respetivos elementos instrutórios revelar a sua não conformidade com as condições legais e regulamentares aplicáveis, a autoridade competente profere, no prazo de 20 dias contados a partir da data da submissão do requerimento:
 
@@ -667,7 +747,9 @@ b) [...].
 
 3 - Nos casos de sujeição a licença, o início da prática ou atividade só pode ocorrer após a emissão de licença, notificada pela autoridade competente.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...].
 
@@ -709,7 +791,9 @@ b) Não tenham existido alterações à instalação ou aos equipamentos.
 
 9 - À modificação da prática sujeita a registo inscrita no inventário nacional de titulares aplica-se o artigo 40.º com as devidas adaptações, sob pena de caducidade do registo.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A detenção de fontes radioativas seladas cuja atividade se encontre acima dos níveis de isenção em vigor, ou de equipamento que as incorpore, está sujeita à apresentação prévia da Folha de Registo Normalizada preenchida pelo titular da prática associada nos termos do anexo III ao presente decreto-lei e do qual faz parte integrante.
 
@@ -719,11 +803,15 @@ b) Não tenham existido alterações à instalação ou aos equipamentos.
 
 4 - [...].
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 As informações pertinentes relativas às doses anteriormente recebidas pelo trabalhador, com vista à realização do exame médico prévio à admissão ou à classificação como trabalhador da categoria A e ao controlo de futuras exposições dos trabalhadores, são partilhadas entre o titular ou, no caso de trabalhadores externos, a entidade empregadora, e a autoridade competente, os serviços de segurança e saúde no trabalho, os especialistas em proteção radiológica e os serviços de dosimetria.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...].
 
@@ -745,7 +833,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - O responsável pela realização da exposição médica fornece ao paciente ou ao seu representante informações sobre os benefícios e riscos associados à dose de radiação resultante da exposição médica, antes de ocorrer a exposição, para que estes possam prestar o seu consentimento informado e esclarecido.
 
@@ -753,7 +843,9 @@ d) [...].
 
 3 - (Revogado.)
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - [...].
 
@@ -769,7 +861,9 @@ d) [...].
 
 7 - [...].
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - [...].
 
@@ -777,7 +871,9 @@ d) [...].
 
 3 - Os planos de emergência devem ser flexíveis, para permitir a sua adaptação à evolução das condições da situação de emergência, e devem incluir os aspetos constantes do anexo IV ao presente decreto-lei e do qual faz parte integrante.
 
-###### Artigo 123.º — [...]
+Artigo 123.º
+
+[...]
 
 1 - [...].
 
@@ -795,7 +891,9 @@ d) [...].
 
 8 - [...].
 
-###### Artigo 130.º — [...]
+Artigo 130.º
+
+[...]
 
 1 - [...].
 
@@ -805,13 +903,17 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - [...].
 
 2 - A informação fornecida à população afetada em caso de emergência inclui, pelo menos, os aspetos constantes do anexo VI ao presente decreto-lei.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - O índice de concentração de atividade dos radionuclídeos especificados no anexo VII ao presente decreto-lei e do qual faz parte integrante, para os materiais de construção identificados no artigo anterior, deve ser determinado antes da sua colocação no mercado.
 
@@ -823,7 +925,9 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 157.º — [...]
+Artigo 157.º
+
+[...]
 
 1 - [...].
 
@@ -833,7 +937,9 @@ d) [...].
 
 4 - O especialista em proteção radiológica deve atualizar continuamente os seus conhecimentos de forma a garantir a necessária competência em matéria de proteção radiológica.
 
-###### Artigo 159.º — Delegado de proteção radiológica
+Artigo 159.º
+
+Delegado de proteção radiológica
 
 1 - A supervisão ou execução das tarefas de proteção radiológica no âmbito de uma instalação radiológica, para qualquer uma das práticas abrangidas pelo presente decreto-lei, é assegurada pelo delegado de proteção radiológica.
 
@@ -903,7 +1009,9 @@ iv) Medicina Nuclear.
 
 8 - O delegado de proteção radiológica deve atualizar continuamente os conhecimentos de forma a garantir a necessária competência em matéria de proteção radiológica.
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - O especialista em física médica atua ou presta aconselhamento especializado sobre questões relacionadas com a física das radiações com vista à aplicação dos requisitos estabelecidos na subsecção IV da secção II e na secção VIII do capítulo IV.
 
@@ -913,7 +1021,9 @@ iv) Medicina Nuclear.
 
 4 - [...].
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - A Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), é a entidade competente para o reconhecimento dos especialistas em física médica, nos termos a aprovar por portaria dos membros do Governo responsáveis pelas áreas da administração pública, do ensino superior, da saúde e do trabalho, sob proposta da ACSS, I. P.
 
@@ -923,19 +1033,25 @@ iv) Medicina Nuclear.
 
 4 - Nos casos em que a formação referida no número anterior ocorra em unidades públicas de saúde, o processo de admissão à formação especializada prevista no número anterior é realizado mediante procedimento concursal para a celebração de um contrato de trabalho em funções públicas com a Direção Executiva do Serviço Nacional de Saúde, a termo resolutivo incerto ou em regime de comissão de serviço, caso exista um vínculo de emprego público por tempo indeterminado previamente constituído, nos termos a fixar por portaria do membro do Governo responsável pela área da saúde.
 
-###### Artigo 169.º — [...]
+Artigo 169.º
+
+[...]
 
 1 - A direção técnica das entidades deve ser constituída por especialistas em proteção radiológica.
 
 2 - As entidades, para além da direção técnica, devem dispor de pessoal técnico próprio com a formação exigida aos trabalhadores expostos, nos termos do presente decreto-lei.
 
-###### Artigo 175.º — [...]
+Artigo 175.º
+
+[...]
 
 1 - [...].
 
 2 - O capital mínimo coberto e as condições do seguro de responsabilidade civil previstos no número anterior constam de portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde e do ambiente.
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - Para efeitos do disposto no artigo anterior, o titular de práticas que envolvam uma fonte radioativa selada de atividade elevada deve dispor de um seguro de responsabilidade civil cujo capital mínimo coberto e condições constam de portaria dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.
 
@@ -943,7 +1059,9 @@ iv) Medicina Nuclear.
 
 3 - É proibida a exclusão de riscos radiológicos nos contratos de seguro de responsabilidade civil que incidam sobre atividades abrangidas pelo presente decreto-lei.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - Compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT), enquanto autoridade inspetiva, a inspeção do cumprimento do presente decreto-lei, de forma independente, nomeadamente através do planeamento e realização de ações de inspeção ordinárias ou extraordinárias, exceto nas situações em que a competência de fiscalização cabe a outra entidade.
 
@@ -967,7 +1085,9 @@ d) [Anterior alínea d) do n.º 1.]
 
 7 - As autoridades inspetivas devem ser dotadas dos recursos humanos, técnicos e financeiros próprios necessários à inspeção do presente decreto-lei.
 
-###### Artigo 182.º — [...]
+Artigo 182.º
+
+[...]
 
 1 - [...].
 
@@ -977,7 +1097,9 @@ d) [Anterior alínea d) do n.º 1.]
 
 4 - [...].
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - [...].
 
@@ -1147,7 +1269,9 @@ ll) [...].
 
 8 - [...].
 
-###### Artigo 184.º-C — [...]
+Artigo 184.º-C
+
+[...]
 
 1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595):
 
@@ -1191,7 +1315,9 @@ j) [Anterior alínea e).]
 
 k) [Anterior alínea f).]
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º é da competência da IGAMAOT, exceto nas situações previstas no número seguinte.
 
@@ -1199,7 +1325,9 @@ k) [Anterior alínea f).]
 
 3 - Compete ao dirigente máximo da IGAMAOT ou da IGAS, consoante o caso, a decisão sobre a aplicação de coimas e de sanções acessórias.
 
-###### Artigo 185.º-C — [...]
+Artigo 185.º-C
+
+[...]
 
 1 - A instauração e a instrução dos processos relativos às contraordenações referidas no artigo 184.º-C é da competência da IGAS, quando relativas a pessoas singulares ou coletivas que atuam nos domínios da atividade e da prestação dos cuidados de saúde, no setor público, privado e social.
 
@@ -1207,7 +1335,9 @@ k) [Anterior alínea f).]
 
 3 - Compete ao inspetor-geral das Atividades em Saúde ou ao inspetor-geral da ASAE, consoante os casos, a decisão sobre a aplicação das coimas e de sanções acessórias relativas às contraordenações referidas nos números anteriores.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 [...]:
 
@@ -1243,7 +1373,9 @@ b) Práticas com exposições médicas.
 
 5 - O procedimento de reconhecimento do especialista em proteção radiológica é regulamentado portaria dos membros do Governo responsáveis pelas áreas da ciência, da saúde e do ambiente.
 
-###### Artigo 159.º-A — Entidades formadoras em proteção radiológica
+Artigo 159.º-A
+
+Entidades formadoras em proteção radiológica
 
 1 - Constituem deveres das entidades que disponibilizam programas de formação para efeitos do disposto no n.º 4 do artigo 157.º, na alínea a) do n.º 2 do artigo 157.º-A e nos n.os 6 a 8 do artigo anterior:
 
@@ -1265,7 +1397,9 @@ a) A lista de formandos contém apenas os dados mínimos necessários à identif
 
 b) A entidade formadora é responsável pelo tratamento dos dados contidos na lista de formandos.
 
-###### Artigo 159.º-B — Inibição do exercício de funções em proteção radiológica
+Artigo 159.º-B
+
+Inibição do exercício de funções em proteção radiológica
 
 Fica inibido do exercício de funções como especialista em proteção radiológica e como responsável pela proteção radiológica quem for condenado por sentença transitada em julgado por atos praticados no âmbito da proteção radiológica ou for punido disciplinarmente por falta grave em matéria profissional, até à sua reabilitação.»
 
@@ -1323,13 +1457,13 @@ O presente decreto-lei entra em vigor a 1 de janeiro de 2024.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Pedro Nuno Pereira de Sousa Rodrigues - Elvira Maria Correia Fortunato - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Manuel Francisco Pizarro de Sampaio e Castro - José Duarte Piteira Rica Silvestre Cordeiro - Maria do Céu de Oliveira Antunes.
 
-**Promulgado em 28 de dezembro de 2023.**
+Promulgado em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo De Sousa.**
+O Presidente da República, Marcelo Rebelo De Sousa.
 
-**Referendado em 29 de dezembro de 2023.**
+Referendado em 29 de dezembro de 2023.
 
 Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
 
@@ -1359,44 +1493,58 @@ Níveis de isenção e liberação
 
 QUADRO A
 
-# Parte 1
+## Parte 1
 
 Radionuclídeos artificiais
 
-![](https://files.diariodarepublica.pt/images/835994080/835994281.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994281.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994282.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994282.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994283.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994283.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994284.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994284.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994285.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994285.png) |
+| --- |
 
 QUADRO A
 
-# Parte 2
+## Parte 2
 
 Radionuclídeos naturais
 
-![](https://files.diariodarepublica.pt/images/835994080/835994286.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994286.png) |
+| --- |
 
 QUADRO B
 
 Valores de isenção para concentrações de atividade em quantidades moderadas de qualquer tipo de material e valores totais de atividade para efeitos de isenção
 
-![](https://files.diariodarepublica.pt/images/835994080/835994287.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994287.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994288.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994288.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994289.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994289.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994290.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994290.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/835994080/835994291.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994291.png) |
+| --- |
 
 (1) Os sais de potássio em quantidades inferiores a 1 000 kg estão isentos.
 
 (b) Os radionuclídeos progenitores e os seus descendentes cujo contributo é tido em conta no cálculo da dose (exigindo apenas que seja considerado o nível de isenção do radionuclídeo progenitor), encontram-se enumerados no seguinte quadro:
 
-![](https://files.diariodarepublica.pt/images/835994080/835994292.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/835994080/835994292.png) |
+| --- |
+
+117211628

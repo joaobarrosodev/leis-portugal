@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/2002/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2002-198676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6177d6fd5ab35e42b2423553bfe6687008c2450c981050d4382276c7a73484fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5409925f79ba0b2dc97b347770c7d5a5298113fe7a2019a7348c15626028f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
 - Capital Social
 - Código das Sociedades Comerciais
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:522813:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:624874:por
+  label: "Alterados os art.s 35º e 141º do Código das Sociedades Comerciais, na redacção do presente diploma, pelo DEC LEI.19/2005.18.01.2005.MJ,\
+    \ DR.IS-A [12] de 18.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2005-624874
+  date: '2005-01-18'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterados os arts. 35º e 141º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86 de 02-Set, na redacção
+    do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
 - type: cites
   target: celex:31977L0091
   label: null
   source: http://data.europa.eu/eli/dir/1977/91/oj
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:02Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +148,9 @@ d) A adopção de medidas concretas tendentes a manter pelo menos em dois terço
 
 4 - Mantendo-se a situação de perda de metade do capital social no final do exercício seguinte àquele a que se refere o n.º 1, considera-se a sociedade imediatamente dissolvida, desde a aprovação das contas daquele exercício, assumindo os administradores, a partir desse momento, as competências de liquidatários, nos termos do artigo 151.º
 
-###### Artigo 141.º — Casos de dissolução imediata
+Artigo 141.º
+
+Casos de dissolução imediata
 
 1 - ...
 
@@ -162,12 +176,12 @@ f) Pela perda de metade do capital social, nos termos do n.º 4 do artigo 35.º
 
 Visto e aprovado em Conselho de Ministros de 6 de Junho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 26 de Junho de 2002.**
+Promulgado em 26 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

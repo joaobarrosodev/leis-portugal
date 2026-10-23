@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12500/0333903347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2017/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2017-107596686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6104a541d44abbf8203e22aa263a7034b541d80b884158814d2dcb75aae834f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73755cd10779e37024217ed166305995d0c629eec264c48dc31795940d7c6f14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Certificação Electrónica
+- Confidencialidade
+- Empresa
 - Estatuto
 - Formulário Eletrónico
-- Setor Empresarial do Estado
-- Internet
-- Confidencialidade
-- Microempresa
-- Regulamento
 - IAPMEI
+- Internet
+- Microempresa
 - Programa Capitalizar
+- Regulamento
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:185224662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Determinado que apenas é aplicável às micro, pequenas e médias empresas de acordo com os critérios definidos no art.
+    2.º do anexo ao Dec Lei 372/2007 de 06-nov, na versão republicada pelo presente diploma, pelo(a) Lei n.º 12/2022 - Diário
+    da República n.º 122/2022, Série I de 2022-06-27 o disposto no art. 316.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/143/2009/06/16/p/dre
   label: null
@@ -97,16 +104,28 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75158988:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:22Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +172,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º e 13.º 
 
 3 - A certificação é obtida exclusivamente através de formulário eletrónico transmitido através da Internet, não sendo admissível a submissão dos dados necessários ao seu preenchimento ou a sua obtenção por outra via.
 
-###### Artigo 2.º — Definição de pequena e média empresa e de empresa de média capitalização
+Artigo 2.º
+
+Definição de pequena e média empresa e de empresa de média capitalização
 
 1 - (Anterior corpo do artigo.)
 
@@ -163,7 +184,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º e 13.º 
 
 4 - Para efeitos da aplicação dos conceitos constantes dos n.os 2 e 3, as empresas devem ser consideradas como sendo autónomas, nos termos do n.º 1 do artigo 3.º do anexo ao presente decreto-lei, independentemente das relações estabelecidas com outras empresas, através de detenções de capital ou direitos de voto.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A certificação de PME, nos termos do presente decreto-lei, é aplicável a todas as empresas que necessitem de apresentar e comprovar o estatuto de micro, de pequena ou de média empresa no âmbito dos procedimentos administrativos para cuja instrução ou decisão final seja legalmente ou regulamentarmente exigida.
 
@@ -181,7 +204,9 @@ d) As entidades administrativas independentes e da administração autónoma do 
 
 e) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -195,7 +220,9 @@ d) Garantir que as medidas e apoios destinados às micro, às pequenas e às mé
 
 e) Permitir uma certificação multiúso em diferentes serviços e com distintas finalidades.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os interessados na obtenção da certificação de micro, de pequena ou de média empresa formulam o seu pedido através do preenchimento integral e submissão do formulário disponibilizado eletronicamente pelo IAPMEI, I. P., devendo para o efeito fornecer por essa via todos os dados solicitados, designadamente:
 
@@ -223,7 +250,9 @@ d) Dados para determinar a categoria da empresa, referentes aos efetivos, ao vol
 
 9 - O não cumprimento de qualquer uma das condições previstas no número anterior determina a perda do estatuto antecipado, com efeito retroativo à data da sua obtenção.
 
-###### Artigo 7.º — Decisão e caducidade
+Artigo 7.º
+
+Decisão e caducidade
 
 1 - A decisão sobre o pedido de certificação é disponibilizada aos interessados, por via eletrónica, através da Internet, imediatamente após a conclusão do preenchimento integral do formulário eletrónico e da sua submissão, tendo efeitos a partir dessa data.
 
@@ -243,7 +272,9 @@ d) Dados para determinar a categoria da empresa, referentes aos efetivos, ao vol
 
 9 - O disposto nos n.os 7 e 8 não se aplica às empresas requerentes previstas nos n.os 2 e 3 do artigo 6.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]:
 
@@ -253,7 +284,9 @@ b) A instrução do pedido enferme de inexatidões ou outras irregularidades;
 
 c) [...].
 
-###### Artigo 9.º — Revogação da certificação
+Artigo 9.º
+
+Revogação da certificação
 
 1 - A revogação da certificação é aplicável a todo o tempo e tem efeitos retroativos.
 
@@ -305,7 +338,9 @@ p) Impossibilidade de a entidade certificadora concretizar as comunicações ine
 
 9 - A revogação da certificação pelo motivo referido nas alíneas b), c), d) do n.º 2, quando se verificar a obtenção de vantagem indevida proveniente de apoios, subsídios ou outros benefícios públicos, determina a impossibilidade, pelo período de um ano, de a empresa requerente obter nova certificação nos termos do presente decreto-lei.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -321,7 +356,9 @@ p) Impossibilidade de a entidade certificadora concretizar as comunicações ine
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -331,7 +368,9 @@ p) Impossibilidade de a entidade certificadora concretizar as comunicações ine
 
 4 - À consulta prevista no presente artigo são aplicáveis as disposições constantes dos n.os 6 e 7 do artigo anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As empresas certificadas devem comunicar à entidade certificadora, através de formulário disponibilizado eletronicamente pelo IAPMEI, I. P., as alterações nos dados declarados no processo de certificação relativas a:
 
@@ -371,15 +410,15 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2017.
 
 Visto e aprovado em Conselho de Ministros de 18 de maio de 2017. - António Luís Santos da Costa - Manuel de Herédia Caldeira Cabral.
 
-**Promulgado em 28 de junho de 2017.**
+Promulgado em 28 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de junho de 2017.**
+Referendado em 29 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -611,7 +650,9 @@ As normas necessárias ao preenchimento dos formulários eletrónicos são objet
 
 São revogados os Despachos Normativos n.os 52/87, de 24 de junho, e 38/88, de 16 de maio.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Empresa
 

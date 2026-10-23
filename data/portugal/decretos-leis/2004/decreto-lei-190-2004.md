@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/193a00/52185221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/190/2004/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2004-480911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d69c733f4845b35601f07179c6c41a50a49e332c870ec3a88fe96c3e436ace3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e54640bc593528d761763b880ddd1163f7f3413e85e55a2a471a47831dc7969
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Sistema Português da Qualidade
-- Contra-ordenação
-- Definição de Competências
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Etiquetagem
-- Fiscalização
-- Inspecção Geral das Actividades Económicas
-- Importação
-- Laboratório
-- Mercado Agrícola
-- Direcção Geral da Empresa
-- Norma
-- Fertilizante
-- Madeira.região Autónoma
-- Regulamento CE
 - Açores
 - Comércio
+- Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral da Empresa
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Etiquetagem
+- Fertilizante
+- Fiscalização
+- Importação
+- Inspecção Geral das Actividades Económicas
+- Laboratório
+- Madeira.região Autónoma
+- Mercado Agrícola
+- Multa
+- Norma
 - Normalização
+- Regulamento CE
+- Sistema Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:67485179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670034:por
+  label: "Alterado o art. 3º pelo DEC LEI.73/2011.17.06.2011.MAOT, DR.IS [116] de 17.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2011-670034
+  date: '2011-06-17'
 - type: cites
   target: celex:32003R2003
   label: null
   source: http://data.europa.eu/eli/reg/2003/2003/oj
+- type: repealed_by
+  target: pt:dre:67485179:por
+  label: Revogado, a partir de 14.08.2015, o presente diploma, na redação do Dec Lei 73/2011 de 17-jun, pelo(a) Decreto-Lei
+    n.º 103/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2015-67485179
+  date: '2015-06-15'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:50Z'
   warnings: []
   errors: []
 ---
@@ -288,12 +299,12 @@ O disposto no artigo 8.º produz efeitos a partir do dia 11 de Junho de 2005.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Arlindo Marques da Cunha.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2017/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2017-114177786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efd3561fb5d7de62d9a9a65fa1b8998701ec47773dee7331263de1506a4ad3cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d76f412a5a1d6e3567e1eda79307d647bed5e25a1a911217cc0a4198784308cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adopção
-- Região Autónoma
-- Pessoal Dirigente
-- Criança
+- Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
-- Direitos da Criança
+- Criança
 - Definição de Competências
+- Direitos da Criança
 - Jovem
-- Programa Adopção 2000
+- Ministério do Trabalho Solidariedade e Segurança Social
 - Orgânica
 - Pacto de Cooperação para a Solidariedade Social
+- Pessoal Dirigente
+- Programa Adopção 2000
 - Proteção à Infância
 - Protecção à Juventude
-- Ministério do Trabalho Solidariedade e Segurança Social
-- Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/1998/05/13/p/dre
@@ -121,16 +121,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:174848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69977689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:53Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +219,9 @@ Os artigos 2.º, 3.º, 6.º, 7.º, 10.º, 12.º, 13.º e 14.º a 16.º do [Decre
 
 3 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -213,7 +259,9 @@ o) [Anterior alínea n).]
 
 p) [Anterior alínea o).]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -225,7 +273,9 @@ c) (Revogada.)
 
 2 - (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]:
 
@@ -259,13 +309,17 @@ k) [Anterior alínea i).]
 
 5 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ao Conselho Nacional, na modalidade alargada, compete efetuar todas as ações necessárias à prossecução das atribuições da Comissão Nacional previstas nas alíneas a), d) a g) e j) a o) do n.º 2 do artigo 3.º, bem como ao cumprimento do disposto nos artigos 4.º e 5.º
 
 2 - [...].
 
-###### Artigo 12.º — Coordenações das Regiões Autónomas
+Artigo 12.º
+
+Coordenações das Regiões Autónomas
 
 1 - (Revogado.)
 
@@ -283,7 +337,9 @@ k) [Anterior alínea i).]
 
 8 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -299,11 +355,15 @@ k) [Anterior alínea i).]
 
 7 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 A secretaria-geral do Ministério do Trabalho, Solidariedade e Segurança Social presta o apoio logístico, administrativo e financeiro necessário ao funcionamento da Comissão Nacional, podendo para o efeito celebrar protocolos com outras entidades.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -315,7 +375,9 @@ A secretaria-geral do Ministério do Trabalho, Solidariedade e Segurança Social
 
 5 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -347,7 +409,9 @@ Equipas técnicas regionais
 
 7 - Nas situações em que se verifique ausência de protocolo de cedência de instalações, por parte de outras estruturas regionais, as equipas técnicas regionais são instaladas no centro distrital do Instituto da Segurança Social, I. P., da respetiva região, mediante protocolo.
 
-###### Artigo 15.º-A — Mapa de cargos de direção
+Artigo 15.º-A
+
+Mapa de cargos de direção
 
 Os lugares de direção superior de 1.º e 2.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.»
 
@@ -373,15 +437,15 @@ O presente decreto-lei entra em vigor no dia seguinte à data da sua publicaçã
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Manuel de Lemos Leitão Marques - Ricardo Emanuel Martins Mourinho Félix - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Tiago Brandão Rodrigues -Ana Sofia Pedroso Lopes Antunes - Manuel Martins dos Santos Delgado.
 
-**Promulgado em 30 de outubro de 2017.**
+Promulgado em 30 de outubro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2017.**
+Referendado em 6 de novembro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -389,7 +453,7 @@ Visto e aprovado em Conselho de Ministros de 21 de setembro de 2017. - Maria Man
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf)
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
@@ -697,4 +761,4 @@ O presente decreto-lei entra em vigor no prazo de 60 dias a contar da data da su
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf))](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/11/21700/0600206008.pdf)

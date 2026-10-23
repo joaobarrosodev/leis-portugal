@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/305a00/74147414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/242/2004/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2004-350149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2ee06c8f94e2307b5274421848f6649744d17b1ec93e3e7932a9c1cd4a5d03e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6732ee75c3b9478705e43e1bb7d2b466b1e0a89040c835e5f8489e81d5e293b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,13 @@ relationships:
   target: pt:dre:473501:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547072:por
+  label: "Actualizado o valor da retribuição mínima mensal para a Região Autónoma da Madeira, no ano de 2005, acrescido de\
+    \ complemento regional, estabelecido no art. 1º do presente diploma, pelo DLR.3/2005/M.15.03.2005.ALR-RAM, DR.IS-A [74]\
+    \ de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2005-547072
+  date: '2005-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/2004/01/20/p/dre
   label: null
@@ -81,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:606320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473501:por
+  label: "Revogado pelo DEC LEI.238/2005.30.12.2005.MTSSO, DR.IS-A [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2005-473501
+  date: '2005-12-30'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:08Z'
   warnings: []
   errors: []
 ---
@@ -125,12 +145,12 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2005.
 
 Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix.
 
-**Promulgado em 23 de Dezembro de 2004.**
+Promulgado em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Dezembro de 2004.**
+Referendado em 23 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/10900/0001400016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2021/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2021-164712111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89e6e2b4ad4ed3d68fe20a2be08f0fe2a8eda4d9ac9bccd296d25253bb267a92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45d9c477ed827389ca36a71a6d591e20166de67d66f1e1265423195a93f3a442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
+- Cinema
 - Financiamento
-- Turismo
-- Instituto do Cinema e do Audiovisual
-- Sistema de Normalização Contabilística Público
-- Produção Cinematográfica
+- Fundo de Apoio ao Turismo e ao Cinema
 - Gestão Orçamental
 - Incentivos Fiscais
-- Instituto do Turismo de Portugal
-- Regulamento
-- Cinema
 - Indústria Cinematográfica
-- Benefícios Fiscais
-- Subsídio não Reembolsável
+- Instituto do Cinema e do Audiovisual
+- Instituto do Turismo de Portugal
+- Produção Cinematográfica
 - Programa Audiovisual
-- Fundo de Apoio ao Turismo e ao Cinema
+- Regulamento
+- Sistema de Normalização Contabilística Público
+- Subsídio não Reembolsável
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:835864047:por
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/45/2018/06/19/p/dre
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:38Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +143,9 @@ Os artigos 4.º, 5.º, 6.º e 9.º do [Decreto-Lei n.º 45/2018](https://diariod
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +159,9 @@ Os artigos 4.º, 5.º, 6.º e 9.º do [Decreto-Lei n.º 45/2018](https://diariod
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -167,7 +171,9 @@ b) ...
 
 c) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -199,12 +205,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de abril de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Graça Maria da Fonseca Caetano Gonçalves.
 
-**Promulgado em 27 de maio de 2021.**
+Promulgado em 27 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de maio de 2021.**
+Referendado em 28 de maio de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114283227

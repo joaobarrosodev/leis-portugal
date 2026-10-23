@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29100/33163318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1981-567038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T06:36:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a169143b9dd09d28be4d57f82d7b4c3d1e5a36d49b7ce0753bec0f62aecaab50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b786eeea016224be437b11ac456ebdd1755384e38768744d8555098e8517399d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:36:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pecuária
+- Regulamento
+- Seguro
+- Seguro de Reses
 relationships:
 - type: amended_by
   target: pt:dre:661480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:202023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677435:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:661480:por
+  label: "Revogada pela PORT.109/84.1984.02.18.MAPA DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-1984-661480
+  date: '1984-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:36:10Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +131,13 @@ REGULAMENTO DO SEGURO DE RESES, INSTITUÍDO NA JUNTA NACIONAL DOS PRODUTOS PECU�
 
 ### CAPÍTULO I — Âmbito e fins
 
-###### Artigo 1.º O seguro de reses, instituído e administrado na Junta Nacional dos Produtos Pecuários, rege-se pelas disposições do presente Regulamento.
+Artigo 1.º O seguro de reses, instituído e administrado na Junta Nacional dos Produtos Pecuários, rege-se pelas disposições do presente Regulamento.
 
-###### Art. 2.º - 1 - As reses a que o presente Regulamento se refere são as das espécies bovina, ovina, caprina, suína e equina.
+Art. 2.º - 1 - As reses a que o presente Regulamento se refere são as das espécies bovina, ovina, caprina, suína e equina.
 
 2 - Não são abrangidos pelo presente Regulamento os animais lidados.
 
-###### Art. 3.º - 1 - O seguro de reses destina-se a ressarcir os prejuízos resultantes de:
+Art. 3.º - 1 - O seguro de reses destina-se a ressarcir os prejuízos resultantes de:
 
 a) Rejeições totais ou parciais de carcaças, ocorridas nos matadouros e casas de matança da Junta ou privados previamente autorizados, quando motivadas por surpresas surgidas durante a inspecção post mortem de reses aprovadas na inspecção em vida, por médicos veterinários, ainda que esta não pudesse ter sido rigorosa, devido à má índole das reses ou a outro motivo justificado;
 
@@ -122,9 +147,9 @@ c) Acidentes mortais ocorridos nos matadouros e casas de matança da Junta, nos 
 
 2 - Para efeitos do seguro de reses podem os inspectores sanitários, bem como qualquer médico veterinário da Junta em serviço na área da respectiva delegação, promover a realização de exames laboratoriais adequados.
 
-###### Art. 4.º O seguro de reses poderá cobrir, de acordo com as disponibilidades financeiras, os prejuízos resultantes de rejeições totais ou parciais de carcaças de reses abatidas por imposição sanitária que vise o saneamento da tuberculose ou brucelose dos bovinos de castas não leiteiras, em colaboração com a Direcção-Geral dos Serviços Veterinários e com as direcções regionais de agricultura.
+Art. 4.º O seguro de reses poderá cobrir, de acordo com as disponibilidades financeiras, os prejuízos resultantes de rejeições totais ou parciais de carcaças de reses abatidas por imposição sanitária que vise o saneamento da tuberculose ou brucelose dos bovinos de castas não leiteiras, em colaboração com a Direcção-Geral dos Serviços Veterinários e com as direcções regionais de agricultura.
 
-###### Art. 5.º O seguro de reses não cobre, em caso algum, os prejuízos resultantes de:
+Art. 5.º O seguro de reses não cobre, em caso algum, os prejuízos resultantes de:
 
 a) Rejeições de carcaças de reses introduzidas ilegalmente em Portugal;
 
@@ -136,11 +161,11 @@ d) Rejeições que afectem o peso da carcaça em menos de 1 kg;
 
 e) Limpezas habituais das carcaças.
 
-###### Art. 6.º A Junta beneficia do seguro de reses nos mesmos termos dos outros apresentantes.
+Art. 6.º A Junta beneficia do seguro de reses nos mesmos termos dos outros apresentantes.
 
-###### Art. 7.º Mediante requerimento, devidamente fundamentado, pode ser autorizada a extensão do que neste Regulamento se estatui, com as adaptações que se mostrem necessárias, a matadouros privados, desde que tenham assegurada a competente inspecção sanitária.
+Art. 7.º Mediante requerimento, devidamente fundamentado, pode ser autorizada a extensão do que neste Regulamento se estatui, com as adaptações que se mostrem necessárias, a matadouros privados, desde que tenham assegurada a competente inspecção sanitária.
 
-###### Art. 8.º Quando nas reses da mesma origem se verificarem rejeições que, pela frequência e pelo motivo, permitam presumir a necessidade de saneamento dos efectivos de origem, tomar-se-ão as seguintes medidas:
+Art. 8.º Quando nas reses da mesma origem se verificarem rejeições que, pela frequência e pelo motivo, permitam presumir a necessidade de saneamento dos efectivos de origem, tomar-se-ão as seguintes medidas:
 
 a) Participação à Direcção-Geral dos Serviços Veterinários e às direcções regionais de agricultura, independentemente de outras participações que hajam de fazer-se por imposição legal;
 
@@ -154,7 +179,7 @@ e) Afixação de avisos com a ocorrência nos parques, matadouros e casas de mat
 
 ### CAPÍTULO II — Das receitas
 
-###### Art. 9.º Constituem receitas do seguro de reses:
+Art. 9.º Constituem receitas do seguro de reses:
 
 a) Os prémios de seguro;
 
@@ -168,7 +193,7 @@ e) As carnes, gorduras ou carcaças recuperadas depois de beneficiadas;
 
 f) As vísceras aprovadas para consumo e correspondentes às rejeições totais ou parciais da carcaça.
 
-###### Art. 10.º - 1 - Os prémios de seguro incidem sobre as carnes dos animais apresentados para abate e que hajam sido aprovados em vida.
+Art. 10.º - 1 - Os prémios de seguro incidem sobre as carnes dos animais apresentados para abate e que hajam sido aprovados em vida.
 
 2 - Os prémios serão aplicados sobre o peso limpo das carcaças, incluindo as partes rejeitadas, deduzido o enxugo.
 
@@ -182,13 +207,13 @@ c) Sobre carcaças de reses rejeitadas na inspecção em vida e mandadas abater 
 
 ### CAPÍTULO III — Das despesas
 
-###### Art. 11.º - 1 - Constituem despesas do seguro de reses, além das quantias a pagar como indemnização, os encargos resultantes com a preparação, industrialização, venda, transporte e destruição de carnes ou despojos rejeitados, tal como quaisquer outras despesas relacionadas e devidamente aprovadas.
+Art. 11.º - 1 - Constituem despesas do seguro de reses, além das quantias a pagar como indemnização, os encargos resultantes com a preparação, industrialização, venda, transporte e destruição de carnes ou despojos rejeitados, tal como quaisquer outras despesas relacionadas e devidamente aprovadas.
 
 2 - São excluídas do número anterior as despesas referentes às taxas de utilização do matadouro e de inspecção sanitária, que decorrerão por conta do apresentante.
 
 ### CAPÍTULO IV — Da liquidação e pagamento das indemnizações
 
-###### Art. 12.º - 1 - Os departamentos regionais da Junta organizarão a proposta para pagamento das indemnizações, documentando-a obrigatoriamente com o boletim de necropsia e outros documentos a definir por circular da Junta Nacional dos Produtos Pecuários, remetendo-a à sede do organismo até 15 dias após a data da rejeição ou da morte por acidente.
+Art. 12.º - 1 - Os departamentos regionais da Junta organizarão a proposta para pagamento das indemnizações, documentando-a obrigatoriamente com o boletim de necropsia e outros documentos a definir por circular da Junta Nacional dos Produtos Pecuários, remetendo-a à sede do organismo até 15 dias após a data da rejeição ou da morte por acidente.
 
 2 - O boletim de necropsia deve conter os seguintes elementos:
 
@@ -198,16 +223,16 @@ Local e data do abate ou da morte por acidente, espécie, sexo, raça, idade, pe
 
 4 - A conta de liquidação será enviada à sede no prazo de 30 dias a contar da data em que o respectivo departamento regional tiver recebido o deferimento da proposta de liquidação e pagamento.
 
-###### Art. 13.º O valor das indemnizações será igual ao valor da totalidade ou de parte proporcional das carcaças rejeitadas.
+Art. 13.º O valor das indemnizações será igual ao valor da totalidade ou de parte proporcional das carcaças rejeitadas.
 
-###### Art. 14.º O valor por quilo/carcaça a indemnizar para as diferentes espécies e categorias será determinado com base nos preços de garantia ou outros para o efeito fixados pela Junta.
+Art. 14.º O valor por quilo/carcaça a indemnizar para as diferentes espécies e categorias será determinado com base nos preços de garantia ou outros para o efeito fixados pela Junta.
 
-###### Art. 15.º Sempre que o apresentante se considere lesado pelas decisões do inspector e classificador, poderá recorrer a uma junta de recurso, de acordo com as normas expressas nos artigos n.os 44.º a 49.º do capítulo VIII do Regulamento dos Matadouros da Junta Nacional dos Produtos Pecuários, publicado pela [Portaria n.º 129/80](https://diariodarepublica.pt/dr/detalhe/portaria/129-1980-677435), de 25 de Março.
+Art. 15.º Sempre que o apresentante se considere lesado pelas decisões do inspector e classificador, poderá recorrer a uma junta de recurso, de acordo com as normas expressas nos artigos n.os 44.º a 49.º do capítulo VIII do Regulamento dos Matadouros da Junta Nacional dos Produtos Pecuários, publicado pela [Portaria n.º 129/80](https://diariodarepublica.pt/dr/detalhe/portaria/129-1980-677435), de 25 de Março.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 16.º Para serem admitidas ao seguro, as reses devem encontrar-se nas condições exigidas pelo Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos, aprovado pela [Portaria n.º 14551](https://diariodarepublica.pt/dr/detalhe/portaria/14551-1953-654081), de 24 de Setembro de 1953, e no que respeita a bovinos de castas leiteiras com mais de 18 meses de idade, estarem inscritos na Campanha de Saneamento de Bovinos Leiteiros, a comprovar pela apresentação da taxa respectiva.
+Art. 16.º Para serem admitidas ao seguro, as reses devem encontrar-se nas condições exigidas pelo Regulamento da Inspecção Sanitária dos Animais de Talho, das Respectivas Carnes, Subprodutos e Despojos, aprovado pela [Portaria n.º 14551](https://diariodarepublica.pt/dr/detalhe/portaria/14551-1953-654081), de 24 de Setembro de 1953, e no que respeita a bovinos de castas leiteiras com mais de 18 meses de idade, estarem inscritos na Campanha de Saneamento de Bovinos Leiteiros, a comprovar pela apresentação da taxa respectiva.
 
-###### Art. 17.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
+Art. 17.º As dúvidas suscitadas pela aplicação do presente Regulamento serão resolvidas por despacho do Ministro da Agricultura, Comércio e Pescas.
 
-**O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.**
+O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.

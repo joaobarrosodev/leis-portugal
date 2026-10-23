@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/07/17200/18461846.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/463-1977-251189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:23:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5aaf2d810e1f26dde25baa4b8f40e40e55897d0758ac373e66226b24dbe2a5c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e520ba95742e55b3ee47ace33ac9503fce32af25aecf33da5232906d508dc656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:23:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carreira Profissional
+- Escola de Mestrança e Marinhagem
+- Formação Profissional
+- Marinha Mercante
+- Pessoal do MAR
+- Progressão na Carreira
+- Promoção Profissional
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688589:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:23:00Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +115,13 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 Os artigos 55.º e 56.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter, respectivamente, a seguinte redacção:
 
-###### Art. 55.º A categoria de contramestre será atribuída ao marinheiro de 1.ª classe que prove ter:
+Art. 55.º A categoria de contramestre será atribuída ao marinheiro de 1.ª classe que prove ter:
 
 a) Trinta e seis meses de embarque fora do porto de armamento em navios de comércio como marinheiro de 1.ª classe depois de adquirida esta categoria;
 
 b) Aproveitamento no curso de preparação para contramestre da Escola de Mestrança e Marinhagem ou ter obtido aprovação no exame para esta categoria, nos termos do título V deste Regulamento.
 
-###### Art. 56.º A categoria de marinheiro de 1.ª classe será atribuída ao inscrito marítimo que prove ter:
+Art. 56.º A categoria de marinheiro de 1.ª classe será atribuída ao inscrito marítimo que prove ter:
 
 a) Trinta e seis meses de embarque a navegar matriculado como marinheiro de 2.ª classe;
 

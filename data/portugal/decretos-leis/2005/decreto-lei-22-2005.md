@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2005/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2005-624467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 951a355f2121e9ee0a38d8f2cd9e0f7e4a8dee0a95672703fb566be3add70c50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf739c418d6f0c8425032df13d0c455b139ef50bc96533bbf7919ca6ca0f6708
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,72 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Controlo Sanitário
-- Saúde Pública
-- Proteção do Consumidor
-- Produto Fitofarmacêutico
 - Comércio
+- Controlo Sanitário
+- Produto Fitofarmacêutico
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:543004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545384:por
+  label: "Alterado o n.º 77 do anexo I do Dec Lei 94/98 de 15-Abr, na redacção do presente diploma, pelo DEC LEI.234/2006.29.11.2006.MADRP,\
+    \ DR.IS [230] de 29.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2006-545384
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:641462:por
+  label: "Alterado o Anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.334/2007.10.10.2007.MADRP,\
+    \ DR.IS [195] de 10.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/334-2007-641462
+  date: '2007-10-10'
+- type: amended_by
+  target: pt:dre:246540:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.61/2008.28.03.2008.MADRP,\
+    \ DR.IS [62] de 28.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2008-246540
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:490243:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.240/2009.16.09.2009.MADRP,\
+    \ DR.IS [180] de 16.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/240-2009-490243
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:614299:por
+  label: "Alterado, e publicado em anexo, o anexo i do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC\
+    \ LEI.44/2010.03.05.2010.MADRP, DR.IS [85] de 03.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2010-614299
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:342790:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.106/2010.01.10.2010.MADRP,\
+    \ DR.IS [192] de 01.10.2010, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2010-342790
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279674:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr,na redacção do presente diploma, pelo DEC LEI.24/2011.11.02.2011.MADRP,\
+    \ DR.IS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2011-279674
+  date: '2011-02-11'
+- type: amended_by
+  target: pt:dre:670023:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.80/2011.20.06.2011.MADRP,\
+    \ DR.IS [117] de 20.06.2011, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2011-670023
+  date: '2011-06-20'
+- type: amended_by
+  target: pt:dre:543004:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-abr, na redacção do presente diploma, pelo DEC LEI.37/2012.16.02.2012.MAMAOT,\
+    \ DR.IS [34] de 16.02.2012, de acordo com o respectivo anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-2012-543004
+  date: '2012-02-16'
 - type: cites
   target: celex:32003L0039
   label: null
@@ -131,15 +185,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2004/97/oj
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:01Z'
   warnings: []
   errors: []
 ---
@@ -278,7 +332,9 @@ a) Até 31 de Março de 2005, no caso de produtos fitofarmacêuticos que contenh
 
 b) Até 31 de Março de 2005 ou até ao final do prazo estabelecido nos decretos-leis que incluíram substâncias activas na LPC, no caso de produtos fitofarmacêuticos que contenham trifloxistrobina, mesotriona ou isoxaflutol e outra substância activa incluída até 30 de Setembro de 2003 na LPC, sendo que sempre que estes diplomas estabeleçam prazos diferentes aplica-se o prazo mais alargado.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -306,15 +362,15 @@ d) A partir de 1 de Maio de 2005 para a substância activa paraquato.
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Luís Filipe da Conceição Pereira - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 7 de Janeiro de 2005.**
+Promulgado em 7 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Janeiro de 2005.**
+Referendado em 11 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — Entradas a aditar ao quadro do anexo I do Decreto-Lei n.º 94/98, de 15 de Abril
 

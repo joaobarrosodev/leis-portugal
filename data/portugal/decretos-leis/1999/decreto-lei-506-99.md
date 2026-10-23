@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/271a00/82738275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/506/1999/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1999-643281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47b56b64840abffedabe8a859fae39d73c0e7c19dc5b91b35ea750e6af264dda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 786b9470f0e25ad4d10a0301f3edcd8730d2e4f88e9c3ad521f81ac8500397e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Certificado de Qualidade
 - Controlo de Qualidade
-- Recursos Hídricos
 - Descarga de ÁGUA Residual
-- Saúde Pública
 - Fiscalização
 - Gestão dos Recursos
 - Licenciamento
-- Certificado de Qualidade
 - Meio Aquático
-- Proteção do Ambiente
 - Poluição da água
 - Poluição Industrial
-- Abastecimento de Água
+- Proteção do Ambiente
+- Recursos Hídricos
+- Saúde Pública
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:70476206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476756:por
+  label: "Aditado o quadro constante do anexo ao presente diploma, pelo DEC LEI.261/2003.21.10.2003.MCOTA, DR.IS-A [244] de\
+    \ 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/261-2003-476756
+  date: '1999-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1998/08/01/p/dre
   label: null
@@ -97,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1994/02/22/p/dre
+- type: cites
+  target: pt:dre:430457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:342131:por
+  label: "Revogadas as disposições relativas às substâncias antraceno, benzeno, endossulfão, naftaleno, tributil-estanho,\
+    \ trifluralina, atrazina e simazina, constantes do anexo, pelo DEC LEI.103/2010.24.09.2010.MAOT, DR.IS [187] de 24.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/103-2010-342131
+  date: '2010-09-24'
+- type: repealed_by
+  target: pt:dre:70476206:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 218/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2015-70476206
+  date: '2015-10-07'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:08Z'
   warnings: []
   errors: []
 ---
@@ -163,15 +193,15 @@ Em tudo o que não se encontrar expressamente regulado no presente diploma, desi
 
 Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - Osvaldo Sarmento e Castro - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 8 de Novembro de 1999.**
+Promulgado em 8 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1999.**
+Referendado em 11 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Objectivos de qualidade
 

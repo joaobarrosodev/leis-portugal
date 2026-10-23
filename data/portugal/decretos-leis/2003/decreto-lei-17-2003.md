@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/17/2003/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2003-209041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb594cbeef88f84d9d450989c6d6059e8b8b4ab1ba080ec97303dafcdfd72092
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25af18cc6af22c818e73c1ed00bb12c0cf5062b01aa7e05ff12cc2e90ebe8efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,74 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Código do IRS
 - Código do IVA
-- Obras Particulares
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Estatuto dos Benefícios Fiscais
+- Habitação
 - IRS
 - IVA
-- Veículo
+- Obras Particulares
 - Prestação de Serviços
-- Habitação
-- Benefícios Fiscais
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:449902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476751:por
+  label: "Alterado o art. 66º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.256/2003.21.10.2003.MF, DR.IS-A [244] de 21.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2003-476751
+  date: '2003-10-21'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 66.º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, revisto pelo Dec Lei 198/2001, de 03-Jul, pela pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl]\
+    \ de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterado o art. 35º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 35º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP,\
+    \ DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:12Z'
   warnings: []
   errors: []
 ---
@@ -171,12 +208,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2003.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 17 de Janeiro de 2003.**
+Promulgado em 17 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Janeiro de 2003.**
+Referendado em 24 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

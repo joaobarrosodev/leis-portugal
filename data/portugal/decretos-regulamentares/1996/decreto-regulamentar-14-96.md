@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/1996/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1996-198109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43f383851707199f9639d1854ec4798652f9b68c71ac773ce736035ba0b8e60a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eaeabc69d505bfce9322a7811827689e5ab3959b2daac8d03cdfda8767673d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/236/1995/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/236/1995/03/28/p/dre
+- type: cites
+  target: pt:dre:173286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:40Z'
   warnings: []
   errors: []
 ---
@@ -118,16 +126,16 @@ Presidência do Conselho de Ministros, 19 de Setembro de 1996.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Outubro de 1996.**
+Promulgado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/11/271b00/42244224.pdf))](https://files.diariodarepublica.pt/1s/1996/11/271b00/42244224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/11/271b00/42244224.pdf)

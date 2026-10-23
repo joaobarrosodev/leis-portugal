@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22700/0000600021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/90/2024/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a87e45169503a5121ab872e872347783a59a2c76473d4293690a713cc840fdba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e3ebace971a83fbd63f7ccd49913ffa8abfb332f62c084c8fc059137bbdc06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,19 @@ reuse:
 subjects:
 - BEM Móvel
 - BENS Classificados
+- Conservação e Restauro
 - Obras de Conservação e Restauro
 - Património Cultural
 - Pessoal Técnico de Conservação e Restauro
-- Conservação e Restauro
 - Protecção do Património
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:140/2009
+  label: Altera, a partir de 23 de novembro de 2024, os artigos 17.º, 18.º, 20.º, 22.º, 24.º, 26.º e 27.º, 36.º e 38.º e adita,
+    na mesma data, o artigo 15.º-A ao Decreto-Lei n.º 140/2009, de 15 de junho - Diário da República n.º 113/2009 Série I
+    , que republica em anexo
+  source: null
+  date: '2009-06-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2023/02/10/p/dre
   label: null
@@ -98,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:116068880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 49
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:29Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +187,9 @@ d) Composição, comprovativos das qualificações e currículos profissionais d
 
 e) [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O relatório prévio relativo a obras ou intervenções de conservação e restauro em bens culturais móveis e património móvel integrado é da responsabilidade de um técnico com qualificação legalmente reconhecida e com cinco anos de experiência profissional após obtenção do título académico.
 
@@ -170,17 +203,21 @@ c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento
 
 3 - A formação superior referida no número anterior e a experiência profissional devem ser relevantes na respetiva área de especialidade e no âmbito das obras ou intervenções em causa.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A administração do património cultural competente decide o pedido de autorização no prazo de 20 dias, fundamentada, sempre que possível, em parecer técnico da responsabilidade de um técnico com qualificação legalmente reconhecida, segundo o disposto no artigo 18.º
 
 2 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - À direção e coordenação de obras ou intervenções de conservação e restauro em bens culturais móveis e património móvel integrado é aplicável o disposto no artigo 18.º
 
-2 - A execução das obras ou intervenções é realizada por técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto nos n.<sup>os</sup>2 e 3 do artigo 18.º
+2 - A execução das obras ou intervenções é realizada por técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto nos n.os2 e 3 do artigo 18.º
 
 3 - As especificidades das intervenções de conservação e restauro podem requerer excecionalmente a colaboração de outros profissionais qualificados em função das áreas de especialidade, que devem atuar sob a supervisão e coordenação direta dos conservadores-restauradores.
 
@@ -188,7 +225,9 @@ c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sempre que se verifiquem na execução dos trabalhos situações que desvirtuem ou prejudiquem de alguma forma os bens culturais móveis ou património móvel integrado, estes devem ser imediatamente suspensos pelo responsável pela direção das obras ou intervenções.
 
@@ -200,7 +239,9 @@ c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento
 
 5 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - A autorização deve ser revogada sempre que se detetem alterações aos estudos e projetos autorizados ou erros graves na direção ou execução dos trabalhos que comprometam a salvaguarda do bem cultural móvel ou móvel integrado, ou quando não se verifique a suspensão dos trabalhos determinada nos termos do artigo 24.º
 
@@ -208,7 +249,9 @@ c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento
 
 3 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - A administração do património cultural competente pode determinar a execução de obras ou intervenções em bens culturais móveis ou móveis integrados que se revelem indispensáveis para assegurar a sua integridade e evitar a sua perda, destruição ou deterioração.
 
@@ -218,11 +261,15 @@ c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento
 
 4 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 A administração do património cultural competente publica anualmente, na respetiva página eletrónica, os dados estatísticos referentes às obras ou intervenções realizadas ao abrigo do presente decreto-lei.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A instrução dos pedidos referentes a obras ou intervenções em bens culturais imóveis, móveis ou património móvel integrado é realizada por via eletrónica através de plataformas adequadas a que os municípios tenham acesso ou da página eletrónica da administração do património cultural competente, sem prejuízo do previsto no artigo 8.º-A do regime jurídico da urbanização e edificação.
 
@@ -258,15 +305,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de outubro de 2024. - Luís Montenegro - Fernando Alexandre - Dalila Rodrigues.
 
-**Promulgado em 30 de outubro de 2024.**
+Promulgado em 30 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de outubro de 2024.**
+Referendado em 31 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -520,7 +567,7 @@ b) A administração do património cultural competente considere insuficientes 
 
 1 - À direção e coordenação de obras ou intervenções de conservação e restauro em bens culturais móveis e património móvel integrado é aplicável o disposto no artigo 18.º
 
-2 - A execução das obras ou intervenções é realizada por técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto nos n.<sup>os</sup>2 e 3 do artigo 18.º
+2 - A execução das obras ou intervenções é realizada por técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto nos n.os2 e 3 do artigo 18.º
 
 3 - As especificidades das intervenções de conservação e restauro podem requerer excecionalmente a colaboração de outros profissionais qualificados em função das áreas de especialidade, que devem atuar sob a supervisão e coordenação direta dos conservadores-restauradores.
 
@@ -661,3 +708,5 @@ O regime do presente decreto-lei aplica-se aos bens culturais móveis e imóveis
 ###### Artigo 42.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor 180 dias após a data da sua publicação.
+
+118325127

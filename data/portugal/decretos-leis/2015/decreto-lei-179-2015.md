@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16700/0642906434.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2015/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2015-70128402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8d583262a1715fb1c29f1d368ad54f6b0eb465822abb4387e55bd176e99636e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea768b68f34a2f1fec95828d7c93391abb58662bdc3d28dfcd4e86b4b1706d7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
 - Autoridade Nacional
-- Obras Particulares
-- Projeto de Investimento
-- Comissão de Coordenação e Desenvolvimento Regional
 - Avaliação de Impacte Ambiental
+- Comissão de Coordenação e Desenvolvimento Regional
 - Conselho Consultivo
-- Publicitação
-- Licenciamento
-- Resíduo
-- Obras Públicas
-- Proteção do Ambiente
 - Gestão do Ambiente
+- Licenciamento
+- Obras Particulares
+- Obras Públicas
 - Política do Ambiente
+- Projeto de Investimento
+- Proteção do Ambiente
+- Publicitação
 - Rede Natura 2000
-- Agência Portuguesa do Ambiente
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:114337013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107458720:por
+  label: Alteradas as als. b) e e) do n.º 2 do anexo II do Dec Lei 151-B/2013 de 31-out, na redação do presente diploma, pelo(a)
+    Lei n.º 37/2017 - Diário da República n.º 107/2017, Série I de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2017-107458720
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:114337013:por
+  label: Alterado a partir de 01.01.2018 o art. 9.º do Dec Lei 151-B/2013, de 31-out, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 152-B/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-b-2017-114337013
+  date: '2017-12-11'
 - type: cites
   target: celex:32011L0092
   label: null
@@ -102,20 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/2014/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/2014/03/24/p/dre
+- type: cites
+  target: pt:dre:513863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572123:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32011L0092
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:48Z'
   warnings: []
   errors: []
 ---
@@ -176,19 +196,25 @@ c) No caso do procedimento de verificação da conformidade ambiental do projeto
 
 7 - Em caso de falta de emissão de parecer no prazo aplicável de acordo com o disposto nos números anteriores, considera-se o parecer favorável.
 
-###### Artigo 17.º — Audiência prévia e diligências complementares
+Artigo 17.º
+
+Audiência prévia e diligências complementares
 
 1 - [...].
 
 2 - A realização de diligências complementares previstas no CPA suspende o prazo para a emissão da DIA por um período de 20 dias.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Qualquer interessado pode impugnar administrativamente, através de reclamação, recurso hierárquico ou recurso tutelar facultativos, nos termos do CPA, e contenciosamente, nos termos do Código de Processo nos Tribunais Administrativos qualquer decisão, ato ou omissão ao disposto no presente decreto-lei.
 
 2 - [...].
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Os procedimentos de dispensa de AIA, de definição do âmbito de EIA, de AIA e de verificação da conformidade ambiental do projeto de execução e de qualificação de verificadores estão sujeitos a taxas destinadas a custear os encargos administrativos que lhe são inerentes, cujo pagamento é prévio à prática dos atos.
 
@@ -208,13 +234,13 @@ As alterações introduzidas pelo presente decreto-lei ao artigo 17.º e ao anex
 
 Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Isabel Cabral de Abreu Castelo Branco - Rui Manuel Parente Chancerelle de Machete - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 18 de agosto de 2015.**
+Promulgado em 18 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de agosto de 2015.**
+Referendado em 20 de agosto de 2015.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
@@ -224,4 +250,4 @@ Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16700/0642906434.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16700/0642906434.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16700/0642906434.pdf)»

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/1999/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1999-138556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d402a56b7ab05b930c9a9610b4ff8c3a66723eb7dd3fa9b82fa73030274c2723
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21be091115e015e15a999034d203237c2604cfbb861d147386a3bfda49406d36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema de Autoridade Marítima
 - Centro de Formação Profissional
-- Formação Profissional
 - Conselho Pedagógico
 - Definição de Competências
+- Direcção Geral da Marinha
 - Diretor
 - Escola da Autoridade Marítima
 - Estatuto
-- Direcção Geral da Marinha
+- Formação Profissional
 - Quadro de Pessoal
+- Sistema de Autoridade Marítima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/264/1997/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/264/1997/10/02/p/dre
+- type: cites
+  target: pt:dre:661565:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:26:09Z'
   warnings: []
   errors: []
 ---
@@ -122,15 +126,15 @@ O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 5 de Março de 1999.**
+Promulgado em 5 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Março de 1999.**
+Referendado em 10 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTO DA ESCOLA DA AUTORIDADE MARÍTIMA
 

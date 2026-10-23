@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08700/0001700019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2023/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2023-212665075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ea010f4e8e1a57a1be1988b4270f6b03706548561d7ee7c633833a34754a485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdbb50119fc98bd0229952e108813b04345542f690afd9cab8adec3f77bea363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
-- NATO
 - Coeficiente de Correcção
-- União Europeia
 - Instituto do Turismo de Portugal
+- Ministério dos Negócios Estrangeiros
 - Missão Diplomática
 - Missão Militar
+- NATO
 - Regime Cambial
 - Remuneração
 - Representação Diplomática
 - Residente no Estrangeiro
-- Ministério dos Negócios Estrangeiros
 - TAXA de Câmbio
 - Trabalhador
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35-b/2016/06/30/p/dre
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:115553662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74843538:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:46:53Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +185,9 @@ h) Às remunerações previstas no artigo 9.º do [Decreto-Lei n.º 49/2018](htt
 
 3 - O disposto no presente decreto-lei aplica-se ainda às remunerações e aos abonos auferidos pelo pessoal militar e civil das Forças Armadas em comissão de serviço em cargos internacionais no estrangeiro, em missões militares junto das representações diplomáticas ou em missões militares portuguesas na Organização do Tratado do Atlântico Norte ou na União Europeia.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O mecanismo de correção cambial consiste na aplicação do fator de correção, definido em percentagem, sobre os valores das remunerações e abonos previstos no artigo anterior sempre que a variação, positiva ou negativa, da taxa de câmbio média euro/moeda local seja maior ou igual a 5 %, tendo como período de referência o valor médio do semestre n comparado com o valor médio do semestre n - 1, com base nas taxas de câmbio do Banco de Portugal utilizadas no processamento mensal das remunerações e abonos.
 
@@ -193,12 +219,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de abril de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - João Titterington Gomes Cravinho - Maria Helena Chaves Carreiras - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - João Miguel Marques da Costa.
 
-**Promulgado em 28 de abril de 2023.**
+Promulgado em 28 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de maio de 2023.**
+Referendado em 2 de maio de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116425945

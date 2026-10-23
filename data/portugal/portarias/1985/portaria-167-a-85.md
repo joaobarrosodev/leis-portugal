@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 73/1985, 1º Suplemento, Série I de 1985-03-28
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 820-(4) a 820-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-a-1985-546380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6b4ab4fd8e8e9134f248f1055057f8d35b227175eb91c56ba790ea5274ebef6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d976a5eb5fb3098156f3dcec04964bcfcc1ee25a996f626bfe2eb8427939f7fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento Geral dos Concursos do Totobola
+- Totobola
 relationships:
 - type: amended_by
   target: pt:dre:401900:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169669:por
+  label: "Dada nova redacção aos arts. 5.º e 18.º do Regulamento aprovado pelo presente diploma, pela PORT.958/85.26.12.1985.MTSS,\
+    \ DR.IS [297] de 26.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1985-169669
+  date: '1985-12-26'
+- type: amended_by
+  target: pt:dre:496094:por
+  label: "Alterados os artigos 5.º, 6.º, 8.º, 10.º, 16.º e 20.º do Regulamento, pela PORT.834/87.22.10.1987.MESS, DR.IS [243]\
+    \ de 22.10.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/834-1987-496094
+  date: '1987-10-22'
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401900:por
+  label: "Revogada pela PORT.837/88.30.12.1988.MESS, DR.IS [301]Supl de 30.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-1988-401900
+  date: '1988-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:56Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +121,9 @@ Manda o Governo da República Portuguesa, pela Secretária de Estado da Seguran�
 
 Secretaria de Estado da Segurança Social.
 
-**Assinada em 28 de Março de 1985.**
+Assinada em 28 de Março de 1985.
 
-**A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
 REGULAMENTO GERAL DOS CONCURSOS DO TOTOBOLA
 
@@ -388,8 +411,8 @@ Os casos omissos e os duvidosos são resolvidos pela direcção do DAM, sem admi
 
 TABELA 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf)
 
 TABELA 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf))](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/07301/00040013.pdf)

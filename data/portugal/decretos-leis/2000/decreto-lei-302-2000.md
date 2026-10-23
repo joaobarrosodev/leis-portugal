@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/302/2000/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-2000-616655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae48024484a7dddf677e1968dc43289293cb882890bba21ded5f7ee35f28c78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b15bd18e8d374b15ae9edf2fad9bba59bcd40534306f41a4fce7a2636cc4fc04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Ministério do Equipamento do Planeamento e da Administração do Território
+- Gestão de Recursos Humanos
 - Gestão Orçamental
 - Integração de Trabalhadores
+- Ministério do Equipamento do Planeamento e da Administração do Território
 - Ministério do Equipamento Social
 - Ministério do Planeamento
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Secretaria Geral
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -115,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:02Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +257,9 @@ a) A Divisão de Gestão e Administração de Pessoal (DGAP);
 
 b) O Núcleo de Assuntos Jurídicos (NAJ).
 
-###### Artigo 6.º — Divisão de Gestão e Administração de Pessoal
+###### Artigo 6.º
+
+##### Divisão de Gestão e Administração de Pessoal
 
 1 - À DGAP compete, designadamente:
 
@@ -309,7 +347,9 @@ a) A Divisão de Administração Financeira e de Gestão Patrimonial (DAFGP);
 
 b) A Divisão de Instalações e Equipamentos (DIE).
 
-###### Artigo 9.º — Divisão de Administração Financeira e de Gestão Patrimonial
+###### Artigo 9.º
+
+##### Divisão de Administração Financeira e de Gestão Patrimonial
 
 1 - À DAFGP compete, designadamente:
 
@@ -369,7 +409,9 @@ c) A Secção de Aprovisionamento (SA), à qual incumbe, em geral, o desempenho 
 
 d) A Secção de Património (SP), à qual incumbe, em geral, o desempenho das funções a que se referem as alíneas r) a x) do n.º 1 do presente artigo.
 
-###### Artigo 10.º — Divisão de Instalações e Equipamentos
+###### Artigo 10.º
+
+##### Divisão de Instalações e Equipamentos
 
 1 - A DIE compete, designadamente:
 
@@ -413,7 +455,9 @@ a) A Divisão de Arquivo Histórico e Biblioteca (DAHB);
 
 b) A Divisão de Comunicação e Relações Públicas (DCRP).
 
-###### Artigo 12.º — Divisão de Arquivo Histórico e Biblioteca
+###### Artigo 12.º
+
+##### Divisão de Arquivo Histórico e Biblioteca
 
 À DAHB compete, designadamente:
 
@@ -447,7 +491,9 @@ o) Promover, dinamizar e coordenar o desenvolvimento de sistemas de informação
 
 p) Organizar e gerir um sistema de informação legislativa no âmbito de actuação do Ministério.
 
-###### Artigo 13.º — Divisão de Comunicação e Relações Públicas
+###### Artigo 13.º
+
+##### Divisão de Comunicação e Relações Públicas
 
 À DCRP compete, designadamente:
 
@@ -485,7 +531,9 @@ a) A Divisão de Infra-Estruturas Tecnológicas e Sistemas de Informação (DITS
 
 b) A Divisão de Desenvolvimento Organizacional, Formação e Qualidade (DDOFQ).
 
-###### Artigo 15.º — Divisão de Infra-Estruturas Tecnológicas e Sistemas de Informação
+###### Artigo 15.º
+
+##### Divisão de Infra-Estruturas Tecnológicas e Sistemas de Informação
 
 À DITSI compete, designadamente:
 
@@ -515,7 +563,9 @@ m) Apoiar os utilizadores, garantindo a correcta utilização e exploração do 
 
 n) Assegurar a representação da SG em comissões e grupos de trabalho, nas áreas dos Sistemas de Informação e Tecnologias de Informação (SI/TI) e apoiar o funcionamento da entidade de coordenação sectorial do Ministério.
 
-###### Artigo 16.º — Divisão de Desenvolvimento Organizacional, Formação e Qualidade
+###### Artigo 16.º
+
+##### Divisão de Desenvolvimento Organizacional, Formação e Qualidade
 
 À DDOFQ compete, designadamente:
 
@@ -639,17 +689,17 @@ Os saldos das verbas orçamentais atribuídos à Secretaria-Geral do extinto MEP
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Alberto de Sousa Martins.
 
-**Promulgado em 6 de Novembro de 2000.**
+Promulgado em 6 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2000.**
+Referendado em 9 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 
-## ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 21.º
+ANEXO A QUE SE REFERE O N.º 1 DO ARTIGO 21.º
 
 Pessoal dirigente
 

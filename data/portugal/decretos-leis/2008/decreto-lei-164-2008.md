@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15300/0539705398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/164/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-2008-455132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5f65663aa4af2a2b19789a4093f6e5730123bbb0325c5f811f0ab53239903d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9178446738d1c24407ef2be742e5ad9cfed5735258fb48fc54066100ce7aa80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
 - Definição de Competências
+- Ministério da Educação
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:145195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Educação, e determinada a transição para o Ministério da Educação e Ciência dos serviços,\
+    \ organismos e estruturas identificados no Dec lei 213/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM,\
+    \ DR.IS [132-Supl] de 12.07.2011, nos termos do seu art. 19º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2006/01/19/p/dre
   label: null
@@ -114,16 +121,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/200
   label: null
   source: http://data.dre.pt/eli/lei/51/200
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145195:por
+  label: "Revogado, a partir de 03.01.2012., o Dec Lei 213/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.125/2011.29.12.2011.MECI,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:59Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +271,9 @@ s) [Anterior alínea r).]
 
 t) [Anterior alínea s).]
 
-###### Artigo 9.º — Gabinete de Estatística e Planeamento da Educação
+Artigo 9.º
+
+Gabinete de Estatística e Planeamento da Educação
 
 1 - ...
 
@@ -236,7 +303,7 @@ O anexo i ao [Decreto-Lei n.º 213/2006](https://diariodarepublica.pt/dr/detalhe
 
 ## ANEXO — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0539705398.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0539705398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0539705398.pdf)
 
 ###### Artigo 4.º — Norma revogatória
 
@@ -248,12 +315,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 25 de Julho de 2008.**
+Promulgado em 25 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de Julho de 2008.**
+Referendado em 29 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

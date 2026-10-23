@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/07000/14711471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1990-333105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a814ef2879982c520753d5152e7281a92f60cc3dd8c716dc9dfbb04f63963cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdfbc4c114bee8a5e517ab9fd03feb3738f6aabf0ee9019d728b39a523c749e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Droga
+- Produto Farmacêutico
+- Receita Médica
 relationships:
 - type: amended_by
   target: pt:dre:619306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:373436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443290:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:619306:por
+  label: "Revogado pelo DR.61/94.1994.10.12.MJ, DR.IS-B [236]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/61-1994-619306
+  date: '1994-10-12'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:13Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Assim:
 
 Ao abrigo do disposto no n.º 3 do artigo 2.º do [Decreto-Lei n.º 430/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1983-443290), de 13 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 28.º do [Decreto Regulamentar n.º 71/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1984-373436), de 7 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 28.º do [Decreto Regulamentar n.º 71/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-1984-373436), de 7 de Setembro, passa a ter a seguinte redacção:
 
 ###### Artigo 28.º — Receitas médicas
 
@@ -123,12 +139,12 @@ Presidência do Conselho de Ministros, 12 de Fevereiro de 1990.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Arlindo Gomes de Carvalho.
 
-**Promulgado em 6 de Março de 1990.**
+Promulgado em 6 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Março de 1990.**
+Referendado em 9 de Março de 1990.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

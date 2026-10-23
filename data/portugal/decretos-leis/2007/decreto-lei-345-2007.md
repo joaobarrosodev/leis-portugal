@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/345/2007/10/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-2007-642009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0216c108fe6f2305a0a45dacfa985b7c97724ca710c94238a6501f6732f631d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bcc6223c318fad7184db7a04300a0d1ee2316dea9e2a257839bc205144dba51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Indústria Automóvel
-- Poluição Atmosférica
+- Equipamento de Veículo
 - Equipamento Eléctrico
 - Especificação Técnica
 - Homologação
-- Veículo
-- Normas de Segurança
-- Equipamento de Veículo
-- Regulamento
-- Motor
-- Mecânica Geral
-- Sinalização
+- Indústria Automóvel
 - Matrícula
+- Mecânica Geral
+- Motor
+- Normas de Segurança
+- Poluição Atmosférica
+- Regulamento
 - Regulamento dos Elementos e Caracteristicas dos Veículos a Motor de DUAS e TRES Rodas
+- Sinalização
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:458194:por
@@ -97,16 +97,22 @@ relationships:
   target: celex:32006L0027
   label: null
   source: http://data.europa.eu/eli/dir/2006/27/oj
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
-  article_count: 20
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:38Z'
   warnings: []
   errors: []
 ---
@@ -171,9 +177,13 @@ O artigo 10.º do Regulamento Relativo à Velocidade Máxima de Projecto, ao Bin
 
 Disposições aplicáveis às saliências exteriores de veículos a motor de duas rodas
 
-#### Secção I — Saliências exteriores dos veículos a motor de duas rodas
+Secção I
 
-###### Artigo 100.º — [...]
+Saliências exteriores dos veículos a motor de duas rodas
+
+Artigo 100.º
+
+[...]
 
 1 -...
 
@@ -187,7 +197,9 @@ Disposições aplicáveis às saliências exteriores de veículos a motor de dua
 
 6 - No caso de veículos de duas rodas equipados com uma estrutura ou painéis destinados a rodear, ou a rodear parcialmente, o condutor ou os passageiros ou a cobrir componentes do veículo, a autoridade responsável pela homologação ou o serviço técnico podem, de forma discricionária e mediante consulta do fabricante de veículo, aplicar o disposto na presente secção ou na secção seguinte à totalidade ou a parte do veículo, com base numa avaliação das condições mais desfavoráveis.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 -...
 
@@ -199,9 +211,13 @@ Disposições aplicáveis às saliências exteriores de veículos a motor de dua
 
 5 -...
 
-#### Secção II — Saliências exteriores dos veículos a motor de três rodas, dos quadriciclos ligeiros e dos quadriciclos
+Secção II
 
-###### Artigo 104.º — Generalidades
+Saliências exteriores dos veículos a motor de três rodas, dos quadriciclos ligeiros e dos quadriciclos
+
+Artigo 104.º
+
+Generalidades
 
 1 - No que se refere aos veículos a motor de três rodas destinados ao transporte de passageiros, aplicam-se as disposições da Directiva n.º [74/483/CEE](https://data.europa.eu/eli/dir/1974/483/oj?locale=pt), transposta para a ordem jurídica interna pela Portaria n.º 427/87, de 22 de Maio, relativa às saliências exteriores dos veículos a motor da categoria M(índice 1).
 
@@ -211,7 +227,9 @@ Disposições aplicáveis às saliências exteriores de veículos a motor de dua
 
 4 - As disposições constantes dos artigos anteriores são aplicáveis a veículos a motor de três rodas, quadriciclos ligeiros e quadriciclos destinados ao transporte de mercadorias.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 a)...
 
@@ -259,7 +277,9 @@ iii) Tecto e paredes;
 
 iv) Portas laterais e traseiras.
 
-###### Artigo 147.º-A — [...]
+Artigo 147.º-A
+
+[...]
 
 1 -...
 
@@ -271,7 +291,9 @@ b) A denominação ou a marca comercial do fabricante do veículo;
 
 c) A marca e o número de identificação da peça.
 
-###### Artigo 153.º-B — Marcações
+Artigo 153.º-B
+
+Marcações
 
 Os catalisadores de substituição de origem devem incluir, de forma legível, indelével e visível na posição de montagem prevista, pelo menos, as seguintes indicações:
 
@@ -281,7 +303,9 @@ b) A denominação ou a marca comercial do fabricante do veículo;
 
 c) A marca e o número de identificação da peça.
 
-###### Artigo 158.º-B — [...]
+Artigo 158.º-B
+
+[...]
 
 1 -...
 
@@ -293,7 +317,9 @@ b) A denominação ou a marca comercial do fabricante do veículo;
 
 c) A marca e o número de identificação da peça.
 
-###### Artigo 164.º-B — Marcações
+Artigo 164.º-B
+
+Marcações
 
 Os catalisadores de substituição de origem devem incluir, de forma legível, indelével e visível na posição de montagem prevista, pelo menos, as seguintes indicações:
 
@@ -303,7 +329,9 @@ b) A denominação ou a marca comercial do fabricante do veículo;
 
 c) A marca e o número de identificação da peça.
 
-###### Artigo 270.º — [...]
+Artigo 270.º
+
+[...]
 
 1 -...
 
@@ -317,7 +345,9 @@ c) A marca e o número de identificação da peça.
 
 3 -...
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 -...
 
@@ -331,7 +361,9 @@ c) A marca e o número de identificação da peça.
 
 3 -...
 
-###### Artigo 321.º — [...]
+Artigo 321.º
+
+[...]
 
 1 -...
 
@@ -345,9 +377,13 @@ c) A marca e o número de identificação da peça.
 
 3 -...
 
-### Capítulo XII — Fixações dos cintos de segurança e cintos de segurança dos ciclomotores de três rodas, triciclos e quadriciclos
+Capítulo XII
 
-###### Artigo 362.º — [...]
+Fixações dos cintos de segurança e cintos de segurança dos ciclomotores de três rodas, triciclos e quadriciclos
+
+Artigo 362.º
+
+[...]
 
 a) 'Banco' uma estrutura fazendo ou não parte integrante da estrutura do veículo, completa com o seu revestimento, que oferece um lugar sentado para um adulto, designando o termo, tanto um banco individual como a parte de um banco corrido correspondente a um lugar sentado, não sendo um selim considerado um banco nos termos do disposto no artigo 364.º do presente Regulamento;
 
@@ -369,7 +405,9 @@ i)...
 
 j) 'Selim' lugar sentado em que o condutor ou passageiro montam.
 
-###### Artigo 364.º — Disposições gerais
+Artigo 364.º
+
+Disposições gerais
 
 1 - No caso de existirem fixações para cinto de segurança, estas devem cumprir o disposto no presente capítulo.
 
@@ -385,7 +423,9 @@ b) Se existir um elemento estrutural lateral ou transversal por detrás do ponto
 
 5 - As fixações dos cintos de segurança não são obrigatórias para os ciclomotores de três rodas ou os quadriciclos de massa sem carga inferior ou igual a 250 kg.
 
-###### Artigo 388.º — [...]
+Artigo 388.º
+
+[...]
 
 1 -...
 
@@ -401,7 +441,9 @@ c) Tecto e paredes;
 
 d) Portas laterais e traseiras.
 
-###### Artigo 396.º — [...]
+Artigo 396.º
+
+[...]
 
 1 - Qualquer veículo deve estar equipado com um dispositivo de degelo e de desembaciamento do pára-brisas que permita eliminar a geada e o gelo do vidro e a humidade que cubra a superfície interior do pára-brisas, não sendo este dispositivo exigido nos ciclomotores de três rodas com carroçaria e equipados com um motor de potência não superior a 4 kW, ou em veículos em que o pára-brisas esteja montado de modo a não haver qualquer estrutura ou painel fixados ao pára-brisas que se prolonguem para a retaguarda mais de 100 mm, sendo-o, no entanto, em qualquer veículo com tejadilho permanente, desmontável ou retráctil.
 
@@ -419,15 +461,15 @@ d) Portas laterais e traseiras.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 4.º)
 
@@ -439,7 +481,9 @@ Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrat
 
 2 -...
 
-#### Secção I — [...]
+Secção I
+
+[...]
 
 1 -...
 
@@ -461,7 +505,9 @@ Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrat
 
 10 -...
 
-#### Secção II — [...]
+Secção II
+
+[...]
 
 1 - Será anexada uma lista apresentada pelo fabricante do veículo com as variantes e versões pertinentes, se as houver do tipo de veículo e dos pneus correspondentes para utilização em cada veículo. A descrição dos pneus deve incluir apenas as seguintes informações (cada eixo deve ser descrito separadamente no caso de estarem montadas no veículo mais uma designação das medidas dos pneus):
 
@@ -527,6 +573,6 @@ Símbolo de categoria de velocidade mínima compatível com a velocidade máxima
 
 Figura n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19900/0748407488.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19900/0748407488.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19900/0748407488.pdf)
 
 2 -...»

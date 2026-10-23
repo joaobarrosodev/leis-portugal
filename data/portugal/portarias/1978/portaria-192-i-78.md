@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
   number: '81'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 636-(19) a 636-(21)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-i-1978-656386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4370bb0dad85ebead38e419ddee63f15e289cc3ba6fdd38989975480ae98adc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 407f5385c24be7b903407a1e5d96b0a2d2df2032670dc373a534faeb1c740328
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Carcaça
+- Carne
+- Carne de Vaca
+- Comércio
+- Junta Nacional dos Produtos Pecuários
+- Matadouro
+- Preço
+- Seguro de Reses
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:446893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:315540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656410:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446893:por
+  label: "Revogada pela PORT.199/79.1979.04.24.MAP, DR.IS [95]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-1979-446893
+  date: '1979-04-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:54Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +184,7 @@ c) Para algumas das raças referidas na alínea b) poderão, eventualmente, ser 
 
 4.º Os preços de entrega das carcaças de bovino adquiridas pela Junta Nacional dos Produtos Pecuários, nos termos do n.º 1 da presente portaria, são os abaixo discriminados, por quilograma, acrescidos das taxas de utilização dos matadouros, da taxa da Junta e da taxa de inspecção sanitária:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
 
 5.º Os preços máximos de venda ao público de bovino adulto e novilho, verde e congelado, e vitela constam das tabelas anexas a esta portaria.
 
@@ -183,18 +210,18 @@ TABELA I
 
 Tabela de preços máximos de venda de carne verde de bovino adulto e de novilho ao público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
 
 TABELA II
 
 Tabela de preços máximos de venda de carne congelada de bovino adulto ao público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
 
 TABELA III
 
 Tabela de preços máximos de venda de carne de vitela ao público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00190021.pdf)
 
 Secretarias de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, 4 de Abril de 1978. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

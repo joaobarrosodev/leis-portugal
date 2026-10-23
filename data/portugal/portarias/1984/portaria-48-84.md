@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/48-1984-659882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5342794c954f34d9fda357cb53ea8d458ef7f0d3d8641119f1550b12df3fd0e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 177559fe521f6f65c1cfa9bdda80ac9ec518e53b0eec5fb9eb7adde2813ba649
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete da Área de Sines
+- Preço
+- Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:363279:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:44Z'
   warnings: []
   errors: []
 ---
@@ -114,12 +121,12 @@ a(índice n - 1) = factor de correcção usado para a actualização dos direito
 
 Ministérios da Indústria e Energia, do Equipamento Social, da Qualidade de Vida e do Mar.
 
-**Assinada em 5 de Janeiro de 1984.**
+Assinada em 5 de Janeiro de 1984.
 
 Pelo Ministro da Indústria e Energia, Joaquim Leitão da Rocha Cabral, Secretário de Estado da Energia. - O Ministro do Equipamento Social, João Rosado Correia. - O Ministro da Qualidade de Vida, António d'Orey Capucho. - O Ministro do Mar, Carlos Montez Melancia.
 
-## Anexo a que se refere o n.º 1.º da Portaria n.º 48/84, de 23 de Janeiro
+Anexo a que se refere o n.º 1.º da Portaria n.º 48/84, de 23 de Janeiro
 
 (Tabela de tarifas - 1983)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01900/02820283.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01900/02820283.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01900/02820283.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/643-1970-146683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3db45aab08fa97bdb30cd6f348ebbcee19204235ffc1955834b275ec896e1399
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4487a4eb5c26b52902fcbddbc72aec7d9a6ca6b0f5101766cdc78f13656bc9ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:57Z'
   warnings: []
   errors: []
 ---
@@ -86,4 +86,4 @@ de 16 de Dezembro
 
 Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do artigo 251.º, n.º 2, do Estatuto Judiciário, seja extinto, quando vagar, um lugar de escriturário de 2.ª classe da Secretaria Judicial da Comarca de Meda.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/04/08200/0000700012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/29/2021/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2021-162244837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc4b6d873e7c5ed2452f1a14ed49394731fcba94daa5a7c44723d74eed37fc87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b958b491bfac0a705665e1f8bbeefe3062bed4db41ec6ee1f5d9d8b38d8857c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acreditação
 - Academia da Força Aérea
+- Academia Militar
+- Acreditação
 - Carreira Militar
-- Ministério da Defesa Nacional
 - Ciências Militares
-- Ensino Superior Militar
 - Doutoramento
+- Ensino Superior Militar
 - Ensino Superior Politécnico
 - Estatuto
-- Academia Militar
+- Instituto Universitário Militar
 - Licenciatura
 - Mestrado
+- Ministério da Defesa Nacional
 - Orgânica
 - Órgãos Estatutários
 - Pessoal Docente
 - Prorrogação de Prazo
 - Regulamento
 - Sistema Educativo
-- Instituto Universitário Militar
 - Unidade Politécnica Militar
 relationships:
 - type: cites
@@ -106,16 +106,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:16Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +176,21 @@ Os artigos 6.º, 10.º, 14.º, 20.º, 23.º e 34.º do [Decreto-Lei n.º 249/201
 
 A organização dos ciclos de estudos ministrados no âmbito do ensino superior militar rege-se pelos princípios estabelecidos no [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, sem prejuízo das exigências específicas do ensino superior militar.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os graus académicos e diplomas só podem ser conferidos desde que satisfeitos pelo IUM os requisitos fixados no [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, sem prejuízo das exigências específicas do ensino superior militar.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O IUM assegura o princípio da mobilidade dos alunos, nos termos e para os efeitos previstos nos artigos 44.º a 45.º-B do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de março, na sua redação atual, salvaguardadas as necessidades, especificidades e interesses dos ramos das Forças Armadas e da GNR.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +206,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +228,9 @@ d) ...
 
 9 - O reconhecimento a que se refere os n.os 7 e 8 não determina a atribuição do título de especialista, para efeitos do previsto no [Decreto-Lei n.º 206/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2009-488492), de 31 de agosto.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +272,9 @@ Os artigos 10.º, 11.º, 13.º, 15.º, 16.º, 23.º e 25.º do Estatuto do IUM, 
 
 4 - O comandante do IUM pode delegar nos comandantes e diretor das unidades orgânicas autónomas e nos titulares de órgãos que lhe estão diretamente subordinados a competência para a prática de atos relativos às áreas que lhes são funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O conselho diretivo é composto pelo comandante do IUM e pelos comandantes e diretor das unidades orgânicas autónomas, bem como pelo representante da GNR.
 
@@ -252,7 +284,9 @@ Os artigos 10.º, 11.º, 13.º, 15.º, 16.º, 23.º e 25.º do Estatuto do IUM, 
 
 4 - O conselho diretivo do IUM pode reunir em sessão alargada, integrando, além dos membros previstos no n.º 1, o chefe do Departamento de Estudos Pós-Graduados e o chefe do Centro de Investigação e Desenvolvimento do IUM, não tendo estes direito a voto.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +312,9 @@ f) ...
 
 6 - Nas reuniões das comissões científicas podem, em razão da matéria, participar outros docentes, sem direito de voto, a convite do respetivo presidente.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +340,9 @@ g) Por 12 representantes designados de entre o corpo discente.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +370,9 @@ j) ...
 
 k) Elaborar o seu regulamento.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O Departamento de Estudos Pós-Graduados tem natureza universitária e assegura a realização de cursos ou ciclos de estudos, conferentes ou não de grau académico, que visem a formação complementar dos oficiais ao longo da carreira, a atualização, a qualificação, o aperfeiçoamento ou a especialização nas áreas da segurança e defesa nacional.
 
@@ -342,7 +382,9 @@ k) Elaborar o seu regulamento.
 
 4 - O Departamento integra, ainda, o corpo docente, o corpo discente e um conselho de coordenação dos ciclos de estudos de mestrado não integrado e de doutoramento.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -382,12 +424,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de abril de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 16 de abril de 2021.**
+Promulgado em 16 de abril de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de abril de 2021.**
+Referendado em 21 de abril de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114184415

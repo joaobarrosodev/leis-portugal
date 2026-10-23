@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/208a00/30343056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/1996/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1996-241473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df1330fa4204e0b5f85eb3ea99d956fe4e60f3f84298a7873a00beb6f9ff55e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c341a78e8b45cc0280266d01832380f49cbd45201e90cb92962645ed49f4a76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Matadouro
-- Produto Alimentar
-- Produção Animal
+- Abate de Animais
 - Aproximação das Legislações
 - Armazenagem
+- Ave de Capoeira
 - Carcaça
 - Carne
-- Produto Cárneo
 - Carne de AVES de Capoeira
 - CEE
 - Certificado de Origem
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
-- Direção Geral de Veterinária
-- Decisão CE
-- Direcção Regional de Agricultura
 - Controlo Sanitário
-- Saúde Pública
+- Decisão CE
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
+- Embalagem
 - Fiscalização
-- Ave de Capoeira
 - Higiene Alimentar
 - Importação
-- Abate de Animais
+- Indústria Alimentar
 - Legislação Veterinária
-- Certificado de Qualidade
-- Embalagem
+- Matadouro
 - País Estrangeiro
 - Política Agrícola Comum
+- Produção Animal
+- Produto Alimentar
+- Produto Cárneo
 - Proteção do Consumidor
 - Regulamento
-- Indústria Alimentar
-- Comércio
+- Saúde Pública
 - Veterinário
 relationships:
 - type: amended_by
@@ -131,16 +131,33 @@ relationships:
   target: celex:31995D0411
   label: null
   source: http://data.europa.eu/eli/dec/1995/411/oj
+- type: repealed_by
+  target: pt:dre:334370:por
+  label: "Revogado o nº 7 do art. 4º do Regulamento constante do anexo A pelo DEC LEI.148/99.1999.05.04.MADRP,DR.IS-A [103]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-1999-334370
+  date: '1999-05-04'
+- type: repealed_by
+  target: pt:dre:632399:por
+  label: "Revogado o nº 2 do art. 18º do Anexo A, pelo DEC LEI.527/99.1999.12.10.MADRP, DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/527-1999-632399
+  date: '1999-12-10'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado o presente diploma, na redacção do Dec Lei 527/99, de 10-Dez, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 30
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:42Z'
   warnings: []
   errors: []
 ---
@@ -245,15 +262,15 @@ Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - José Eduardo Arcos Gomes dos Reis - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 14 de Agosto de 1996.**
+Promulgado em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Agosto de 1996.**
+Referendado em 24 de Agosto de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A
 
@@ -709,7 +726,9 @@ c) A indicação do médico veterinário que o representará na junta de recurso
 
 13 - Não se tendo confirmado a rejeição, compete ao presidente da junta de recurso mandar apor nas carnes em causa as respectivas marcas de aprovação sanitária.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos
 
@@ -1311,7 +1330,9 @@ As carnes embaladas e as não embaladas devem ser transportadas em meios de tran
 
 81 - O concessionário do estabelecimento, o proprietário ou o seu representante devem assegurar que os meios de transporte e as condições de carga permitam a observância das condições de higiene enunciadas no presente capítulo. O cumprimento desta obrigação deve ser controlado por um membro da equipa de inspecção prevista no n.º 5 do artigo 8.º do presente Regulamento.
 
-## ANEXO C — CAPÍTULO I
+## ANEXO C
+
+### CAPÍTULO I
 
 Condições gerais de aprovação dos estabelecimentos de baixa capacidade
 
@@ -1619,4 +1640,4 @@ Endereço do destinatário: ...
 
 ## ANEXO I — Tabela referente aos montantes a pagar pelo recorrente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/208a00/30343056.pdf))](https://files.diariodarepublica.pt/1s/1996/09/208a00/30343056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/208a00/30343056.pdf)

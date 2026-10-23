@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/11700/11531160.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1977-252027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03d60a0142c9dcbeb32310cfada27918c6679e31b59bac448ac532156071f00a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec839cc5956136bc5b000d7cfa16c403594b843f5c58adff763234136f2d4fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Regulamento dos Órgãos de Gestão e Direcção dos Hospitais
 relationships:
 - type: amended_by
   target: pt:dre:138480:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661091:por
+  label: "Esclarecidas dúvidas suscitadas pela al. b), nº 1 do art. 8º pelo DN.49/84.1984.03.10.MS DR.IS [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/49-1984-661091
+  date: '1984-03-10'
+- type: cites
+  target: pt:dre:139718:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599528:por
+  label: "Revogado pelo DR.3/87.1987.01.09.MS DR.IS [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1987-599528
+  date: '1987-01-09'
+- type: repealed_by
+  target: pt:dre:138480:por
+  label: "Revogado pelo DR.3/88.1988.01.22.MS DR.IS [18]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1988-138480
+  date: '1988-01-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:56:43Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +118,13 @@ REGULAMENTO DOS ÓRGÃOS DE GESTÃO E DIRECÇÃO DOS HOSPITAIS
 
 ### CAPÍTULO I — Dos órgãos do gestão
 
-###### Artigo 1.º - 1. São órgãos colegiais de gestão o conselho geral e o conselho de gerência.
+Artigo 1.º - 1. São órgãos colegiais de gestão o conselho geral e o conselho de gerência.
 
 2. Ao administrador do hospital compete também a prática de actos de gestão, quer no desempenho das suas funções normais, quer no uso da competência que lhe for delegada.
 
 #### SECÇÃO I — Do conselho geral
 
-###### Art. 2.º - 1. O conselho geral tem a seguinte composição:
+Art. 2.º - 1. O conselho geral tem a seguinte composição:
 
 a) O representante da Secretaria de Estado da Saúde na administração distrital dos serviços de saúde da área, que presidirá e será substituído, nos seus impedimentos, pelo membro que indicar da mesma administração;
 
@@ -118,7 +140,7 @@ e) Um representante da assembleia regional prevista na Constituição da Repúbl
 
 3. Os membros referidos nas alíneas d) e e) do número anterior são designados, para um mandato renovável de dois anos, pelas entidades que representam, às quais compete também a sua substituição ou recondução.
 
-###### Art. 3.º - 1. O conselho geral pode reunir desde que esteja presente a maioria dos seus membros em exercício.
+Art. 3.º - 1. O conselho geral pode reunir desde que esteja presente a maioria dos seus membros em exercício.
 
 2. As deliberações serão tomadas por maioria simples de votos dos presentes, tendo o presidente voto de qualidade.
 
@@ -126,23 +148,23 @@ e) Um representante da assembleia regional prevista na Constituição da Repúbl
 
 4. A ordem de trabalhos só pode ser alterada por unanimidade.
 
-###### Art. 4.º - 1. Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
+Art. 4.º - 1. Compete ao presidente a convocação das reuniões e a elaboração da respectiva ordem de trabalhos.
 
 2 - O presidente não pode recusar a convocação que lhe for pedida pelo conselho de gerência ou pelo mínimo de um terço dos membros do conselho geral.
 
-###### Art. 5.º - 1. O conselho reunirá de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
+Art. 5.º - 1. O conselho reunirá de três em três meses, podendo fazer as demais reuniões que se mostrem necessárias.
 
 2. Quando a ordem de trabalhos o justificar, as reuniões poderão prolongar-se por mais que um dia.
 
 3. O conselho terá secretariado privativo.
 
-###### Art. 6.º - 1. Os membros do conselho geral referidos nas alíneas c), d) e e) do n.º 1 do artigo 2.º terão direito ao abono de senhas de presença.
+Art. 6.º - 1. Os membros do conselho geral referidos nas alíneas c), d) e e) do n.º 1 do artigo 2.º terão direito ao abono de senhas de presença.
 
 2. Os membros previstos nas alíneas d) e e) do n.º 1 do artigo 2.º têm também direito ao abono de despesas de deslocação e ajudas de custo, quando tiverem de se deslocar, segundo o montante que for devido ao escalão mais elevado da função pública.
 
 3. As despesas previstas neste artigo são suportadas pelo orçamento do próprio hospital.
 
-###### Art. 7.º - 1. O conselho geral é responsável pela definição das linhas mestras da política do hospital, acompanhamento da sua execução e pela respectiva avaliação periódica, mas não lhe compete fazer a aplicação das orientações e directivas de actuação que definir.
+Art. 7.º - 1. O conselho geral é responsável pela definição das linhas mestras da política do hospital, acompanhamento da sua execução e pela respectiva avaliação periódica, mas não lhe compete fazer a aplicação das orientações e directivas de actuação que definir.
 
 2. Especialmente, compete ao conselho geral:
 
@@ -162,7 +184,7 @@ f) Pronunciar-se sobre a realização de empréstimos e aquisição e alienaçã
 
 #### SECÇÃO II — Do conselho de gerência
 
-###### Art. 8.º - 1. O conselho de gerência tem a seguinte composição:
+Art. 8.º - 1. O conselho de gerência tem a seguinte composição:
 
 a) Um médico proposto pela respectiva assembleia de sector e que reúna as seguintes condições:
 
@@ -188,7 +210,7 @@ d) O administrador do hospital, como membro nato do conselho de gerência.
 
 5. A duração normal do mandato dos membros não permanentes do conselho de gerência será de três anos, podendo ser reconduzidos.
 
-###### Art. 9.º - 1. O conselho reunirá sempre que necessário, pelo menos uma vez por semana, e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
+Art. 9.º - 1. O conselho reunirá sempre que necessário, pelo menos uma vez por semana, e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.
 
 2. O regime de trabalho dos membros do conselho de gerência será definido pelo conselho geral.
 
@@ -196,7 +218,7 @@ d) O administrador do hospital, como membro nato do conselho de gerência.
 
 4. As remunerações devidas ao administrador e aos restantes membros do conselho de gerência serão objecto de diploma especial.
 
-###### Art. 10.º - 1. Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, órgãos de direcção e apoio técnico, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei ao hospital sejam prosseguidas em situação económica e financeira equilibrada e praticando todos os actos de gestão não reservados a outros órgãos.
+Art. 10.º - 1. Compete ao conselho de gerência orientar, coordenar e controlar o funcionamento de todos os serviços, órgãos de direcção e apoio técnico, promovendo a actualização contínua da sua estrutura e organização e tomando ou propondo as medidas necessárias para que as finalidades atribuídas na lei ao hospital sejam prosseguidas em situação económica e financeira equilibrada e praticando todos os actos de gestão não reservados a outros órgãos.
 
 2. Compete, em especial, ao conselho de gerência:
 
@@ -218,7 +240,7 @@ h) Responsabilizar os serviços pela utilização dos meios postos à sua dispos
 
 3. As atribuições constantes das alíneas d) e e) podem ser delegadas no administrador do hospital, reservando o conselho para si a faculdade de controlar o seu exercício nos termos e com a amplitude que entender conveniente.
 
-###### Art. 11.º - 1. O conselho de gerência exercerá a competência atribuída no artigo anterior, actuando predominantemente através da elaboração de planos de acção, de fixação de directivas de aplicação geral e do exercício sistematizado e periódico do contrôle da sua execução, sempre orientado no sentido da melhoria do funcionamento dos serviços do hospital.
+Art. 11.º - 1. O conselho de gerência exercerá a competência atribuída no artigo anterior, actuando predominantemente através da elaboração de planos de acção, de fixação de directivas de aplicação geral e do exercício sistematizado e periódico do contrôle da sua execução, sempre orientado no sentido da melhoria do funcionamento dos serviços do hospital.
 
 2. Os planos de acção aprovados serão, sempre que possível, quantificados e sectorizados pelos serviços a que incumbir a execução, indicando as datas dentro das quais os objectivos fixados devem ser atingidos e os meios de acção postos ao dispor dos serviços para esse efeito.
 
@@ -226,7 +248,7 @@ h) Responsabilizar os serviços pela utilização dos meios postos à sua dispos
 
 4. O conselho não poderá, no entanto, delegar o exercício sistematizado e periódico do contrôle da execução dos planos de acção e da aplicação das directivas que definir.
 
-###### Art. 12.º - 1. Em matéria de autorização de despesas com aquisição de bens de consumo, compete ao conselho de gerência:
+Art. 12.º - 1. Em matéria de autorização de despesas com aquisição de bens de consumo, compete ao conselho de gerência:
 
 a) Autorizar a introdução de novos produtos no consumo hospitalar, desde que deles resultem incidências qualitativas ou económicas, numa perspectiva de normalização de produtos;
 
@@ -238,7 +260,7 @@ c) Aprovar a constituição tipo das comissões de escolha dos bens ou produtos 
 
 3. As despesas consideradas de consumo cuja realização tenha sido precedida de concurso ou consulta consideram-se autorizadas até aos limites constantes daqueles pelo respectivo despacho de adjudicação.
 
-###### Art. 13.º - 1. Em matéria de autorização de despesas com aquisição de material ou equipamento de utilização permanente, compete ao conselho de gerência, em execução das dotações orçamentais:
+Art. 13.º - 1. Em matéria de autorização de despesas com aquisição de material ou equipamento de utilização permanente, compete ao conselho de gerência, em execução das dotações orçamentais:
 
 a) Preparar os planos de investimento dos meios disponíveis, submetê-los ao conselho de administração e assegurar a execução dos que forem aprovados;
 
@@ -246,13 +268,13 @@ b) Autorizar todas as aquisições de custo superior a 100 contos que não for p
 
 2. As restantes despesas deste sector são da competência do administrador até ao limite do montante global que o conselho de gerência fixar.
 
-###### Art. 14.º - 1. As despesas com obras de construção, beneficiação, ampliação ou remodelação das instalações carecem sempre de autorização do conselho de gerência, em execução de plano aprovado pelo conselho geral e sem prejuízo da competência dos órgãos de tutela.
+Art. 14.º - 1. As despesas com obras de construção, beneficiação, ampliação ou remodelação das instalações carecem sempre de autorização do conselho de gerência, em execução de plano aprovado pelo conselho geral e sem prejuízo da competência dos órgãos de tutela.
 
 2. As despesas de simples conservação e reparação das instalações e do equipamento são da competência do administrador até ao limite do montante global que o conselho de gerência fixar.
 
 3. As despesas de substituição de equipamento insusceptível de reparação económica são da competência do conselho de gerência ou do administrador, conforme atinjam ou não 200 contos.
 
-###### Art. 15.º - 1. Compete ao administrador do hospital:
+Art. 15.º - 1. Compete ao administrador do hospital:
 
 a) Praticar os actos subsequentes à autorização das despesas previstas nos artigos precedentes, designadamente a autorização das quantidades de bens ou serviços a requisitar e do respectivo pagamento, desde que se conformem com as decisões iniciais da autorização que executem;
 
@@ -264,7 +286,7 @@ d) Despachar todos os processos de movimentação de pessoal, com as restriçõe
 
 2. Precedendo autorização do conselho de gerência, o administrador do hospital pode delegar noutros funcionários da carreira de administração hospitalar ou nos chefes de serviço de apoio geral atribuições da sua competência específica, não sendo, porém, delegável o contrôle de funcionamento.
 
-###### Art. 16.º - 1. Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daqueles que não tiverem intervindo na resolução ou a desaprovarem com declaração na acta da respectiva reunião.
+Art. 16.º - 1. Os membros do conselho de gerência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daqueles que não tiverem intervindo na resolução ou a desaprovarem com declaração na acta da respectiva reunião.
 
 2. Relativamente às deliberações de decisiva importância pode qualquer dos membros pedir às instâncias de tutela a suspensão da execução da deliberação, dando do facto conhecimento ao próprio conselho, tudo no prazo de cinco dias contados da reunião ou do conhecimento da deliberação.
 
@@ -272,7 +294,7 @@ d) Despachar todos os processos de movimentação de pessoal, com as restriçõe
 
 4. Serão sempre consideradas de decisiva importância as deliberações ou ausência de actuação do conselho de que resultem as situações de responsabilidade referidas no artigo seguinte.
 
-###### Art. 17.º Existirá responsabilidade do conselho de gerência designadamente nos seguintes casos:
+Art. 17.º Existirá responsabilidade do conselho de gerência designadamente nos seguintes casos:
 
 a) Quando a facturação dos serviços prestados pelo hospital não for emitida nos termos legais e regulamentares e feitas com a prontidão necessária as diligências convenientes para a cobrança das receitas;
 
@@ -286,7 +308,7 @@ d) Quando, na impossibilidade de obter maiores receitas dos bens próprios e do 
 
 #### SECÇÃO I — Do conselho médico
 
-###### Art. 18.º - 1. O conselho médico é um órgão de apoio técnico da direcção médica e será constituído:
+Art. 18.º - 1. O conselho médico é um órgão de apoio técnico da direcção médica e será constituído:
 
 a) Pelos membros da direcção médica;
 
@@ -300,11 +322,11 @@ d) Pela direcção do internato médico, quando exista.
 
 3. O conselho médico pronuncia-se validamente pela maioria dos membros presentes, devendo as reuniões ser convocadas com a antecedência mínima de cinco dias, se outra não for exigível.
 
-###### Art. 19.º - 1. O conselho médico poderá funcionar em plenário ou através de formações especializadas, constituindo comissões restritas, de acordo com o que se dispuser no regulamento interno do hospital.
+Art. 19.º - 1. O conselho médico poderá funcionar em plenário ou através de formações especializadas, constituindo comissões restritas, de acordo com o que se dispuser no regulamento interno do hospital.
 
 2. A constituição das formações especializadas poderá variar de hospital para hospital, incumbindo ao próprio conselho fixar a sua constituição e designar os seus membros se o regulamento interno o não fizer.
 
-###### Art. 20.º Compete, em especial, ao conselho médico:
+Art. 20.º Compete, em especial, ao conselho médico:
 
 a) Pronunciar-se sobre o rendimento médico do hospital e propor o que julgar útil para a sua melhoria;
 
@@ -316,7 +338,7 @@ d) Apreciar os aspectos do exercício da medicina hospitalar que envolvam princ�
 
 e) Dar parecer, quando consultado pela direcção médica ou pelos órgãos de gestão, sobre as queixas e reclamações que sejam formuladas acerca da correcção técnica e profissional da assistência prestada aos doentes.
 
-###### Art. 21.º - 1. O desenvolvimento da actuação do conselho médico visa apenas a melhoria do funcionamento do hospital e dos seus serviços.
+Art. 21.º - 1. O desenvolvimento da actuação do conselho médico visa apenas a melhoria do funcionamento do hospital e dos seus serviços.
 
 2. As considerações relativas à apreciação de aspectos do exercício da medicina hospitalar que envolvam princípios de deontologia médica não devem ultrapassar o âmbito do próprio conselho, pelo que a direcção médica dará, directamente, o seguimento adequado às recomendações formuladas.
 
@@ -324,7 +346,7 @@ e) Dar parecer, quando consultado pela direcção médica ou pelos órgãos de g
 
 #### SECÇÃO II — Da direcção médica
 
-###### Art. 22.º - 1. Como órgão integrador e dinamizador da direcção dos serviços de acção médica existirá nos hospitais uma direcção médica.
+Art. 22.º - 1. Como órgão integrador e dinamizador da direcção dos serviços de acção médica existirá nos hospitais uma direcção médica.
 
 2. Nos hospitais gerais centrais a direcção médica terá um membro especialmente ligado a cada um dos sectores a seguir indicados, sem prejuízo de poderem ser previstos outros no regulamento interno de cada hospital: serviço de urgência; internato médico; ensino pré-graduado, e comissão de avaliação do funcionamento dos serviços.
 
@@ -332,13 +354,13 @@ e) Dar parecer, quando consultado pela direcção médica ou pelos órgãos de g
 
 4. O director clínico trabalhará nessas funções pelo menos seis horas diárias, no caso dos hospitais gerais centrais, cabendo, nos restantes hospitais, ao conselho geral definir-lhe o regime de trabalho, com prévia audiência da direcção médica, quando o regulamento interno o não fixar.
 
-###### Art. 23.º - 1. Para a direcção médica são eleitores e elegíveis os médicos do hospital em funções do quadro de pessoal permanente.
+Art. 23.º - 1. Para a direcção médica são eleitores e elegíveis os médicos do hospital em funções do quadro de pessoal permanente.
 
 2. O regulamento interno de cada hospital regulará a eleição, constituição e funcionamento da direcção médica.
 
 #### SECÇÃO III — Da direcção do internato médico
 
-###### Art. 24.º - 1. A direcção do internato médico, nos hospitais onde existir, terá a composição determinada no seu diploma específico.
+Art. 24.º - 1. A direcção do internato médico, nos hospitais onde existir, terá a composição determinada no seu diploma específico.
 
 2. Compete à direcção do internato médico:
 
@@ -354,7 +376,7 @@ e) Pronunciar-se sobre os assuntos que lhe sejam submetidos pela direcção méd
 
 #### SECÇÃO IV — Da comissão do serviço de urgência
 
-###### Art. 25.º - 1. Para apreciação dos assuntos relacionados com o funcionamento do serviço poderá existir uma comissão do serviço de urgência, à qual competirá, designadamente:
+Art. 25.º - 1. Para apreciação dos assuntos relacionados com o funcionamento do serviço poderá existir uma comissão do serviço de urgência, à qual competirá, designadamente:
 
 a) Propor a constituição tipo das equipas de serviço;
 
@@ -368,7 +390,7 @@ d) Propor, através da direcção médica, as medidas que entender convenientes.
 
 #### SECÇÃO V — Da comissão dos blocos
 
-###### Art. 26.º - 1. Nos hospitais onde exista bloco operatório central ou grupos de salas constituindo blocos, poderá a direcção destes ser confiada a uma comissão a prever no regulamento interno dos hospitais.
+Art. 26.º - 1. Nos hospitais onde exista bloco operatório central ou grupos de salas constituindo blocos, poderá a direcção destes ser confiada a uma comissão a prever no regulamento interno dos hospitais.
 
 2. Entre outras, competir-lhe-ão as seguintes atribuições:
 
@@ -382,7 +404,7 @@ d) Propor através da direcção médica as medidas que entender convenientes.
 
 #### SECÇÃO VI — Das direcções dos serviços
 
-###### Art. 27.º - 1. A direcção de cada serviço de acção médica compete ao respectivo director ou, não o havendo, ao médico de grau mais elevado da carreira designado para desempenhar as suas funções.
+Art. 27.º - 1. A direcção de cada serviço de acção médica compete ao respectivo director ou, não o havendo, ao médico de grau mais elevado da carreira designado para desempenhar as suas funções.
 
 2. Como órgão de apoio ao director de serviço haverá, nos serviços em que tal se mostre conveniente, uma comissão de direcção com representação do pessoal médico, de enfermagem, paramédico e auxiliar, quando exista em número significativo.
 
@@ -390,7 +412,7 @@ d) Propor através da direcção médica as medidas que entender convenientes.
 
 4. O director de serviço reunirá com regularidade com a comissão de direcção, à qual presidirá, procurando com ela a melhor forma de coordenação das colaborações indispensáveis ao bom funcionamento do serviço.
 
-###### Art. 28.º Compete, em especial, ao médico em funções de direcção do serviço:
+Art. 28.º Compete, em especial, ao médico em funções de direcção do serviço:
 
 a) Elaborar, até 15 de Novembro de cada ano e em colaboração com a comissão de direcção, o plano de acção do serviço para o ano seguinte e submetê-lo, através da direcção médica, ao conselho de gerência do hospital;
 
@@ -420,15 +442,15 @@ n) Propor ao conselho de gerência, através da direcção médica, o seu substi
 
 o) Exercer outras atribuições que lhe sejam incumbidas ou que se mostrem necessárias.
 
-###### Art. 29.º O plano de acção e o relatório referidos nas alíneas a) e m) do artigo precedente devem respeitar a toda a actividade do serviço, tanto pelo que se reporta à prestação da assistência como à investigação e à participação no ensino e na colaboração no aperfeiçoamento do pessoal, evidenciando os meios necessários, designadamente o equipamento a adquirir, ordenado segundo a prioridade que lhe é atribuída.
+Art. 29.º O plano de acção e o relatório referidos nas alíneas a) e m) do artigo precedente devem respeitar a toda a actividade do serviço, tanto pelo que se reporta à prestação da assistência como à investigação e à participação no ensino e na colaboração no aperfeiçoamento do pessoal, evidenciando os meios necessários, designadamente o equipamento a adquirir, ordenado segundo a prioridade que lhe é atribuída.
 
 #### SECÇÃO VII — Da direcção dos serviços de enfermagem
 
-###### Art. 30.º - 1. A direcção dos serviços de enfermagem incumbirá ao conselho dos enfermeiros-gerais do hospital.
+Art. 30.º - 1. A direcção dos serviços de enfermagem incumbirá ao conselho dos enfermeiros-gerais do hospital.
 
 2. Como órgão de apoio do conselho dos enfermeiros-gerais haverá um conselho de enfermagem.
 
-###### Art. 31.º - 1. Fazem parte do conselho dos enfermeiros-gerais o enfermeiro com a categoria de superintendente, que presidirá, quando existir, e os enfermeiros-gerais em serviço no hospital.
+Art. 31.º - 1. Fazem parte do conselho dos enfermeiros-gerais o enfermeiro com a categoria de superintendente, que presidirá, quando existir, e os enfermeiros-gerais em serviço no hospital.
 
 2. Este conselho designará de entre si, pelo período renovável de dois anos, aquele que proporá ao conselho de gerência para assegurar as funções de superintendente, quando este lugar não existir preenchido, e proporá igualmente o seu substituto.
 
@@ -438,11 +460,11 @@ o) Exercer outras atribuições que lhe sejam incumbidas ou que se mostrem neces
 
 5. Nos hospitais com menos de trezentas camas poderá não existir o conselho dos enfermeiros-gerais, sendo as suas funções desempenhadas pelo enfermeiro-geral ou por um enfermeiro-chefe na falta daquele.
 
-###### Art. 32.º - 1. O conselho dos enfermeiros-gerais reunirá com regularidade, incumbindo-lhe a definição das orientações gerais a seguir na direcção dos serviços de enfermagem e a apreciação dos assuntos mais relevantes ou que careçam de ser executados coordenadamente.
+Art. 32.º - 1. O conselho dos enfermeiros-gerais reunirá com regularidade, incumbindo-lhe a definição das orientações gerais a seguir na direcção dos serviços de enfermagem e a apreciação dos assuntos mais relevantes ou que careçam de ser executados coordenadamente.
 
 2. O conselho dos enfermeiros-gerais poderá sectorizar as responsabilidades que lhe competem, quer formando grupos de serviços a cargo de cada um dos seus membros, quer em função dos assuntos que a cada um competirá tratar, sem prejuízo do disposto no número anterior.
 
-###### Art. 33.º - 1. Compete, em especial, ao conselho dos enfermeiros-gerais:
+Art. 33.º - 1. Compete, em especial, ao conselho dos enfermeiros-gerais:
 
 a) Orientar e coordenar a enfermagem dos serviços, velando pela correcção e pela qualidade técnica e humana dos cuidados prestados aos doentes;
 
@@ -462,7 +484,7 @@ h) Colaborar com a direcção médica e com os restantes órgãos ou serviços d
 
 2. O conselho dos enfermeiros-gerais pode constituir comissões ou grupos de trabalho para estudar problemas específicos do sector ou para dar colaboração em atribuições como a prevista na alínea f) do número anterior, sem prejuízo de manter permanentemente assegurado o serviço de enfermagem.
 
-###### Art. 34.º - 1. O conselho de enfermagem será presidido pelo enfermeiro em funções de superintendente, tendo como vogais:
+Art. 34.º - 1. O conselho de enfermagem será presidido pelo enfermeiro em funções de superintendente, tendo como vogais:
 
 a) Os restantes membros do conselho dos enfermeiros-gerais;
 
@@ -486,13 +508,13 @@ e) Elaboração de regulamentação interna para o sector de enfermagem;
 
 f) Outros assuntos submetidos à sua apreciação a pedido dos órgãos de gestão do hospital.
 
-###### Art. 35.º - 1. A chefia de enfermagem de cada um dos serviços será assegurada nos termos previstos na respectiva carreira.
+Art. 35.º - 1. A chefia de enfermagem de cada um dos serviços será assegurada nos termos previstos na respectiva carreira.
 
 2. A chefia de enfermagem dos serviços responde directamente pelo desempenho das suas funções perante o conselho dos enfermeiros-gerais, sem prejuízo da colaboração devida ao responsável do serviço e à sua comissão de direcção.
 
 #### SECÇÃO VIII — Da comissão de administração o organização
 
-###### Art. 36.º - 1. Como órgão de apoio ao administrador do hospital haverá uma comissão de administração e organização presidida por este e constituída pelos profissionais da carreira de administração hospitalar, pelos chefes ou responsáveis dos serviços de apoio geral e por representantes eleitos destes serviços em número a definir pelo regulamento interno do hospital.
+Art. 36.º - 1. Como órgão de apoio ao administrador do hospital haverá uma comissão de administração e organização presidida por este e constituída pelos profissionais da carreira de administração hospitalar, pelos chefes ou responsáveis dos serviços de apoio geral e por representantes eleitos destes serviços em número a definir pelo regulamento interno do hospital.
 
 2. Compete ao administrador convocar com regularidade a comissão, por sua iniciativa ou a pedido de, pelo menos, um terço dos seus membros.
 
@@ -514,7 +536,7 @@ g) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelos órgãos de ge
 
 #### SECÇÃO IX — Da comissão de farmácia e terapêutica
 
-###### Art. 37.º - 1. Em todos os hospitais haverá uma comissão de farmácia e terapêutica com igual número de membros médicos e farmacêuticos, designados pela direcção médica e pelo pessoal técnico superior dos serviços farmacêuticos, respectivamente.
+Art. 37.º - 1. Em todos os hospitais haverá uma comissão de farmácia e terapêutica com igual número de membros médicos e farmacêuticos, designados pela direcção médica e pelo pessoal técnico superior dos serviços farmacêuticos, respectivamente.
 
 2. Compete à comissão de farmácia e terapêutica:
 
@@ -536,7 +558,7 @@ h) Propor o que tiver por conveniente, dentro das matérias da sua competência 
 
 #### SECÇÃO X — Da comissão de avaliação
 
-###### Art. 38.º - 1. Existirá em todos os hospitais uma comissão de avaliação do funcionamento dos serviços.
+Art. 38.º - 1. Existirá em todos os hospitais uma comissão de avaliação do funcionamento dos serviços.
 
 2. A composição da comissão será prevista no regulamento interno de cada hospital.
 
@@ -546,13 +568,13 @@ h) Propor o que tiver por conveniente, dentro das matérias da sua competência 
 
 ### CAPÍTULO III — Dos órgãos de expressão da vontade dos trabalhadores
 
-###### Art. 39.º - 1. Os órgãos de expressão da vontade dos trabalhadores terão regulamentação própria no seguimento da legislação especial que vier a ser publicada para o funcionalismo do Estado.
+Art. 39.º - 1. Os órgãos de expressão da vontade dos trabalhadores terão regulamentação própria no seguimento da legislação especial que vier a ser publicada para o funcionalismo do Estado.
 
 2. Até à existência dessa legislação os órgãos de gestão dos hospitais reconhecerão, como órgãos de formação e expressão da vontade dos trabalhadores, as assembleias de sector profissional e a assembleia geral, que terão a constituição e o funcionamento que vierem a ser fixados no regulamento interno de cada hospital.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 40.º - 1. Compete às actuais comissões instaladoras promover a execução deste regulamento orgânico dos hospitais, mantendo-se em exercício até constituição e início de funções dos respectivos conselhos de gerência.
+Art. 40.º - 1. Compete às actuais comissões instaladoras promover a execução deste regulamento orgânico dos hospitais, mantendo-se em exercício até constituição e início de funções dos respectivos conselhos de gerência.
 
 2. A posse dos conselhos de gerência deverá verificar-se dentro dos primeiros trinta dias subsequentes à entrada em vigor deste regulamento.
 
@@ -560,7 +582,7 @@ h) Propor o que tiver por conveniente, dentro das matérias da sua competência 
 
 4. O conselho de gerência promoverá subsequentemente a constituição e a entrada em funcionamento dos restantes órgãos previstos.
 
-###### Art. 41.º - 1. O regulamento interno de cada hospital, a aprovar por portaria do Secretário de Estado da Saúde, poderá determinar adaptações do disposto neste diploma, por forma a adequar as soluções nele adoptadas à dimensão e às necessidades de cada estabelecimento.
+Art. 41.º - 1. O regulamento interno de cada hospital, a aprovar por portaria do Secretário de Estado da Saúde, poderá determinar adaptações do disposto neste diploma, por forma a adequar as soluções nele adoptadas à dimensão e às necessidades de cada estabelecimento.
 
 2. As adaptações previstas no número precedente poderão incidir sobre a composição, articulação e pormenorização do funcionamento do esquema de órgãos de gestão e de direcção e apoio técnico do hospital.
 
@@ -568,16 +590,16 @@ h) Propor o que tiver por conveniente, dentro das matérias da sua competência 
 
 4. O conselho geral entrará em funcionamento logo que para ele esteja designada metade dos seus membros.
 
-###### Art. 42.º - 1. O esquema de órgãos previsto neste diploma existirá também nos grupos ou centros hospitalares.
+Art. 42.º - 1. O esquema de órgãos previsto neste diploma existirá também nos grupos ou centros hospitalares.
 
 2. No respectivo regulamento interno, além do previsto no número anterior, serão definidos o grau de autonomia e o esquema de órgãos de cada estabelecimento agrupado ou integrado.
 
-###### Art. 43.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais, a publicar no Diário da República.
+Art. 43.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais, a publicar no Diário da República.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Armando Bacelar.
 
-**Promulgado em 3 de Maio de 1977.**
+Promulgado em 3 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

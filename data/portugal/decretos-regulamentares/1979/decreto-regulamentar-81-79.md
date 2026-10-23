@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 7º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 3478-(133) a 3478-(136)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30007/01330136.pdf
 entry_into_force_dates: []
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/81-1979-231293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba3079d66399ba1ceb4651b992c39f4ddd7c802b0efab92305e28377cdb4ae21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b25c9d839adec08433425c64fb05e584333e59ee95a155389d49fe10d4196c95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral da Administração Civil
+- Direcção Geral da Educação
+- Direcção Geral da Fazenda
+- Extinção de Serviços
+- Gestão Financeira
+- Integração de Trabalhadores
+- Ministério do Ultramar
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
+- Serviço de Integração Administrativa
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:567893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:231284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369823:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:30Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +125,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Serviço de Integração Administrativa (SIA), da Secretaria de Estado da Administração Pública, assegurará a resolução dos problemas relativos à antiga administração ultramarina enquanto persistirem ou não forem os respectivos serviços ou actividades remanescentes integrados em departamentos ministeriais que detenham atribuições homólogas.
+Artigo 1.º O Serviço de Integração Administrativa (SIA), da Secretaria de Estado da Administração Pública, assegurará a resolução dos problemas relativos à antiga administração ultramarina enquanto persistirem ou não forem os respectivos serviços ou actividades remanescentes integrados em departamentos ministeriais que detenham atribuições homólogas.
 
-###### Art. 2.º As atribuições do SIA exercem-se, fundamentalmente, nos seguintes domínios:
+Art. 2.º As atribuições do SIA exercem-se, fundamentalmente, nos seguintes domínios:
 
 a) Direitos e deveres dos funcionários e agentes da antiga administração ultramarina e do extinto Ministério do Ultramar;
 
@@ -110,7 +139,7 @@ d) Gestão da verba global do OGE destinada a despesas com a descolonização e 
 
 ### CAPÍTULO II — Estrutura e competência
 
-###### Art. 3.º - 1 - O SIA compreende duas repartições e é dirigido por um director, coadjuvado por um adjunto.
+Art. 3.º - 1 - O SIA compreende duas repartições e é dirigido por um director, coadjuvado por um adjunto.
 
 2 - As duas repartições, cada uma das quais se divide em duas secções, são as seguintes:
 
@@ -118,7 +147,7 @@ a) Repartição de Pessoal;
 
 b) Repartição de Tesouraria e Fazenda.
 
-###### Art. 4.º - 1 - À Repartição de Pessoal compete:
+Art. 4.º - 1 - À Repartição de Pessoal compete:
 
 a) Informar e executar o expediente respeitante à definição de direitos e deveres de funcionários e agentes da antiga administração ultramarina, incluindo os dos serviços e organismos do extinto Ministério do Ultramar, relativos a situações anteriores à integração desses funcionários e agentes na Administração Pública;
 
@@ -136,7 +165,7 @@ g) Elaborar o projecto do orçamento anual do SIA e administrar as verbas no mes
 
 2 - A Repartição de Pessoal compreende duas secções, sendo uma de expediente geral e arquivo e outra de contabilidade, competindo à primeira as atribuições referidas nas alíneas a) a f) e à segunda as atribuições referidas nas alíneas c) e g) do número anterior.
 
-###### Art. 5.º - 1 - À Repartição de Tesouraria e Fazenda compete:
+Art. 5.º - 1 - À Repartição de Tesouraria e Fazenda compete:
 
 a) Processar, liquidar e escriturar as pensões não cometidas à Caixa Nacional de Previdência e Direcção-Geral da Contabilidade Pública pelo [Decreto-Lei n.º 341/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1978-325954), de 16 de Novembro, relativas ao pessoal da antiga administração ultramarina;
 
@@ -164,13 +193,13 @@ l) Administrar as contas ou depósitos provenientes da antiga administração ul
 
 ### CAPÍTULO III — Do funcionamento dos serviços
 
-###### Art. 6.º - 1 - O Serviço de Integração Administrativa é gerido por um director, com a categoria de director-geral, a quem compete superintender em todos os serviços do respectivo organismo, submetendo a despacho ministerial os assuntos que careçam de resolução superior e decidindo daqueles para que tenha competência legal ou delegada.
+Art. 6.º - 1 - O Serviço de Integração Administrativa é gerido por um director, com a categoria de director-geral, a quem compete superintender em todos os serviços do respectivo organismo, submetendo a despacho ministerial os assuntos que careçam de resolução superior e decidindo daqueles para que tenha competência legal ou delegada.
 
 2 - Ao adjunto, a quem é conferida a categoria de director de serviços, compete coadjuvar o director do SIA no desempenho das suas funções, resolver os assuntos cujo despacho nele haja delegado e substituí-lo nas suas faltas e impedimentos.
 
 3 - Aos chefes de repartição e de secção compete orientar, respectivamente, as repartições e secções para cuja chefia tenham sido designados, cabendo aos restantes funcionários das mesmas categorias, e de tal chefia excluídos, o desempenho das funções que, por despacho do director do SIA, lhes forem fixadas.
 
-###### Art. 7.º Para a prossecução eficaz das respectivas atribuições, poderá o Serviço de Integração Administrativa:
+Art. 7.º Para a prossecução eficaz das respectivas atribuições, poderá o Serviço de Integração Administrativa:
 
 a) Solicitar aos organismos da SEAP e demais serviços públicos elementos e informações de que careça;
 
@@ -178,54 +207,54 @@ b) Solicitar e fornecer, através do Ministério dos Negócios Estrangeiros, aos
 
 c) Estabelecer e manter contactos com serviços ou organismos de outros Ministérios, com vista a atingir os objectivos fixados em algumas das suas atribuições, designadamente a transferência de funções e património.
 
-###### Art. 8.º O Serviço de Integração Administrativa manterá permanente ligação com os demais serviços da Secretaria de Estado da Administração Pública, no domínio e para execução das respectivas atribuições.
+Art. 8.º O Serviço de Integração Administrativa manterá permanente ligação com os demais serviços da Secretaria de Estado da Administração Pública, no domínio e para execução das respectivas atribuições.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 9.º - 1 - O pessoal do Serviço de Integração Administrativa é o constante do quadro I anexo ao presente diploma.
+Art. 9.º - 1 - O pessoal do Serviço de Integração Administrativa é o constante do quadro I anexo ao presente diploma.
 
 2 - Este quadro de pessoal poderá ser alterado, na sua estrutura e dimensão, de harmonia com a evolução das actividades do Serviço de Integração Administrativa, mediante portaria conjunta do Ministro das Finanças e do Secretário de Estado da Administração Pública.
 
 3 - O pessoal será distribuído pelos diversos serviços, mediante despacho do director do SIA.
 
-###### Art. 10.º O regime de pessoal do Serviço de Integração Administrativa é o constante do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro.
+Art. 10.º O regime de pessoal do Serviço de Integração Administrativa é o constante do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 11.º Extinção de serviços do extinto Ministério do Ultramar:
+Art. 11.º Extinção de serviços do extinto Ministério do Ultramar:
 
 São extintas, nos termos do artigo 21.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, as Direcções-Gerais de Administração Civil, da Fazenda e da Educação, referidas no [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, a partir da entrada em vigor do presente diploma.
 
-###### Art. 12.º - 1 - O pessoal pertencente às Direcções-Gerais mencionadas no artigo anterior ou originário de outros serviços já extintos transita para o quadro de pessoal do SIA ou para a Direcção dos Serviços de Administração Geral, nos termos e com observância do disposto no artigo 37.º do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro, com salvaguarda de todos os direitos adquiridos.
+Art. 12.º - 1 - O pessoal pertencente às Direcções-Gerais mencionadas no artigo anterior ou originário de outros serviços já extintos transita para o quadro de pessoal do SIA ou para a Direcção dos Serviços de Administração Geral, nos termos e com observância do disposto no artigo 37.º do [Decreto Regulamentar n.º 78/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284), de 31 de Dezembro, com salvaguarda de todos os direitos adquiridos.
 
 2 - Quando as designações das categorias actuais do pessoal não corresponderem às constantes do quadro do SIA, a sua transição far-se-á, sem prejuízo do referido no número anterior, para as categorias equivalentes ou, não existindo estas, para as categorias imediatamente superiores.
 
 3 - O primeiro provimento dos lugares do quadro a que se refere o presente artigo será feito por listas nominativas, aprovadas por despacho do Secretário de Estado da Administração Pública, donde conste a categoria em que cada funcionário é provido, com dispensa de quaisquer formalidades, salvo o visto ou anotação do Tribunal de Contas e a publicação no Diário da República, produzindo efeitos a partir da data da entrada em vigor do presente diploma.
 
-###### Art. 13.º - 1 - Todo o património actualmente afecto às Direcções-Gerais extintas pelo artigo 12.º deste diploma, sua documentação e arquivos e, bem assim, o de outros serviços do extinto Ministério do Ultramar são transferidos para o SIA, mediante relações devidamente discriminadas, nelas se devendo incluir e anotar o equipamento que foi temporariamente cedido à Caixa Geral de Depósitos, em conformidade com o disposto no artigo 10.º do [Decreto-Lei n.º 341/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1978-325954), de 16 de Novembro.
+Art. 13.º - 1 - Todo o património actualmente afecto às Direcções-Gerais extintas pelo artigo 12.º deste diploma, sua documentação e arquivos e, bem assim, o de outros serviços do extinto Ministério do Ultramar são transferidos para o SIA, mediante relações devidamente discriminadas, nelas se devendo incluir e anotar o equipamento que foi temporariamente cedido à Caixa Geral de Depósitos, em conformidade com o disposto no artigo 10.º do [Decreto-Lei n.º 341/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1978-325954), de 16 de Novembro.
 
 2 - O património, documentação e arquivos da extinta Secretaria-Geral do ex-Ministério do Ultramar são transferidos para a Direcção dos Serviços de Administração Geral.
 
 3 - As contas de depósito à ordem e com pré-aviso constituídas em nome da Direcção-Geral de Fazenda na Caixa Geral de Depósitos e no Banco Nacional Ultramarino ficarão à ordem do Serviço de Integração Administrativa, para o qual passará, igualmente, a titularidade dos títulos da dívida pública depositados em nome daquela Direcção-Geral em instituições de crédito nacionais.
 
-###### Art. 14.º Todo o equipamento alugado existente nas extintas Direcções-Gerais à data da entrada em vigor deste diploma bem como contratos de aluguer ou arrendamento pelas mesmas celebrados transitam para a responsabilidade e titularidade do SIA.
+Art. 14.º Todo o equipamento alugado existente nas extintas Direcções-Gerais à data da entrada em vigor deste diploma bem como contratos de aluguer ou arrendamento pelas mesmas celebrados transitam para a responsabilidade e titularidade do SIA.
 
-###### Art. 15.º As despesas com os abonos ao pessoal ora integrado no Serviço de Integração Administrativa e outras despesas correntes com o funcionamento do Serviço continuarão, até final do ano em curso, a ser satisfeitas pelas mesmas dotações orçamentais das Direcções-Gerais extintas que vinham suportando esses encargos, mediante autorização de pagamento da respectiva delegação da Direcção-Geral da Contabilidade Pública.
+Art. 15.º As despesas com os abonos ao pessoal ora integrado no Serviço de Integração Administrativa e outras despesas correntes com o funcionamento do Serviço continuarão, até final do ano em curso, a ser satisfeitas pelas mesmas dotações orçamentais das Direcções-Gerais extintas que vinham suportando esses encargos, mediante autorização de pagamento da respectiva delegação da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 16.º As dúvidas que ocorram na publicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
+Art. 16.º As dúvidas que ocorram na publicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
 
-###### Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 17.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 QUADRO I
 
 Quadro do pessoal do Serviço de Integração Administrativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30007/01330136.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30007/01330136.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30007/01330136.pdf)

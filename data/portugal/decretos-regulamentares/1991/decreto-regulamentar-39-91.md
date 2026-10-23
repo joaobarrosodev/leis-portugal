@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/39/1991/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1991-679844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 542497d36786b2685546c69fc181f2ad2355faaaa2f868b720ac3082a81b01b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e102608fb3edde973b1102ca2cebe34a6cf714e454c3957db95478432f57977a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Faro
 - Orgânica
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:58Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +106,9 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 12.º do [Decreto-Lei n.º 310-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-a-1986-667910), de 23 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 16.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 16.º do [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 16.º - 1 - ...
+Art. 16.º - 1 - ...
 
 2 - ...
 
@@ -120,22 +128,22 @@ g) Circunscrição Florestal de Faro, com sede nesta cidade e actuação na áre
 
 ...
 
-###### Art. 2.º O quadro da Direcção-Geral das Florestas é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 2.º O quadro da Direcção-Geral das Florestas é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Presidência do Conselho de Ministros, 11 de Junho de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro dos Santos Amaro.
 
-**Promulgado em 4 de Julho de 1991.**
+Promulgado em 4 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 8 de Julho de 1991.**
+Referendado em 8 de Julho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/08/182b00/40344035.pdf))](https://files.diariodarepublica.pt/1s/1991/08/182b00/40344035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/08/182b00/40344035.pdf)

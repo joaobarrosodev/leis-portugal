@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20678-1964-578744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a61909189a0fc79589e71945b7258565f2bda941a47324dd925a1d14c8fa10a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb29944c82d3a41f96a1750b403830bd138b5659732f5bcadf6ef4c29a8bfddd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Marinha
+- Militar
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:473523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:535394:por
+  label: "Dada nova redacção ao n.º 3, als. d), g) e h) do n.º 9, n.º 38 e n.º 39, atribuída uma nova designação à al. h)\
+    \ do n.º 9 e alterada a coluna das subclasses dos oficiais do serviço especial do quadro II anexo ao presente diploma,\
+    \ pela Port.20914.17.11.1964.MMAR, DG.IS [270] de 17.11.1964\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20914-1964-535394
+  date: '1964-11-17'
+- type: amended_by
+  target: pt:dre:295422:por
+  label: "Dada nova redacção ao art. 28.º do presente diploma, pela Port.21309.27.05.1965.MMAR, DG.IS [118] de 27.05.1965\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21309-1965-295422
+  date: '1965-05-27'
+- type: cites
+  target: pt:dre:155447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593711:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473523:por
+  label: "Revogada pela Port.22015.23.05.1966.MMAR, DG.IS [121] de 23.05.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22015-1966-473523
+  date: '1966-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:03Z'
   warnings: []
   errors: []
 ---
@@ -237,12 +275,12 @@ QUADRO I
 
 Quadros das subclasses dos oficiais do serviço especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf))](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf)
 
 QUADRO II
 
 Classes de sargentos e praças da Armada que dão acesso a cada uma das subclasses dos oficiais do serviço especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf))](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/07/16200/08830885.pdf)
 
 Ministério da Marinha, 11 de Julho de 1964. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

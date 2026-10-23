@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/582-1970-147268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d95887d39921a4ca9393e76e3114ae0e13a53fd1980c553ea86030ed024d34b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7d9fccdfbaf1c3e7d59c34d3c3b5a424bbcbbaa6b7749f8c93c5ef262e6ae4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:28Z'
   warnings: []
   errors: []
 ---
@@ -91,61 +103,61 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Receita ordinária
 
-###### Artigo 2.º, n.º 1) «Outras receitas - Do Fundo de Defesa Militar do Ultramar» ... 18500000$00
+Artigo 2.º, n.º 1) «Outras receitas - Do Fundo de Defesa Militar do Ultramar» ... 18500000$00
 
 Esta importância reforça as verbas que a seguir se indicam da tabela de despesa do mesmo orçamento:
 
 Despesa ordinária
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 1100000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 1100000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - Por funções especiais» ... 140000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - Por funções especiais» ... 140000$00
 
-###### Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificações a militares dos quadros - Por despesas de representação» ... 1500$00
+Artigo 2.º, n.º 1), alínea d) «Remunerações acidentais - Gratificações a militares dos quadros - Por despesas de representação» ... 1500$00
 
-###### Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1600000$00
+Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 1600000$00
 
-###### Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1800000$00
+Artigo 3.º, n.º 1), alínea c) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 1800000$00
 
-###### Artigo 3.º, n.º 1), alínea d) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil eventual» ... 1100000$00
+Artigo 3.º, n.º 1), alínea d) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil eventual» ... 1100000$00
 
-###### Artigo 4.º, n.º 2) «Remunerações acidentais - De isolamento» ... 300000$00
+Artigo 4.º, n.º 2) «Remunerações acidentais - De isolamento» ... 300000$00
 
-###### Artigo 5.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 2000000$00
+Artigo 5.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 2000000$00
 
-###### Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 2200000$00
+Artigo 5.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 2200000$00
 
-###### Artigo 5.º, n.º 2), alínea b) «Outras despesas com o pessoal - Alimentação - Subsídio» ... 300000$00
+Artigo 5.º, n.º 2), alínea b) «Outras despesas com o pessoal - Alimentação - Subsídio» ... 300000$00
 
-###### Artigo 5.º, n.º 2), alínea c) «Outras despesas com o pessoal - Alimentação - Rações complementares, de combate, de voo, etc.» ... 700000$00
+Artigo 5.º, n.º 2), alínea c) «Outras despesas com o pessoal - Alimentação - Rações complementares, de combate, de voo, etc.» ... 700000$00
 
-###### Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 248000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 248000$00
 
 Despesas com o material:
 
-###### Artigo 7.º, n.º 2) «Aquisições de utilização permanente - Móveis» ... 2000000$00
+Artigo 7.º, n.º 2) «Aquisições de utilização permanente - Móveis» ... 2000000$00
 
-###### Artigo 8.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 20000$00
+Artigo 8.º, n.º 1) «Despesas de conservação e aproveitamento do material - De imóveis» ... 20000$00
 
-###### Artigo 8.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 70000$00
+Artigo 8.º, n.º 2), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Alimentação de cães de guerra» ... 70000$00
 
-###### Artigo 8.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 395000$00
+Artigo 8.º, n.º 2), alínea b) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com ou sem motor, embarcações e outro material circulante» ... 395000$00
 
-###### Artigo 9.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 100000$00
+Artigo 9.º, n.º 1) «Material de consumo corrente - Matérias-primas e produtos acabados ou meio acabados para usos laboratoriais, oficinais e de estaleiro de obras» ... 100000$00
 
-###### Artigo 9.º, n.º 2) «Material de consumo corrente - Impressos» ... 70000$00
+Artigo 9.º, n.º 2) «Material de consumo corrente - Impressos» ... 70000$00
 
-###### Artigo 9.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 70000$00
+Artigo 9.º, n.º 3) «Material de consumo corrente - Artigos de expediente, material fotográfico e diverso material não especificado» ... 70000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 10.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 1000000$00
+Artigo 10.º, n.º 1) «Despesas de higiene, saúde e conforto - Serviços clínicos e de hospitalização» ... 1000000$00
 
-###### Artigo 10.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 600000$00
+Artigo 10.º, n.º 2) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem e limpeza» ... 600000$00
 
-###### Artigo 11.º, n.º 2) «Despesas de comunicação - Telefones» ... 35500$00
+Artigo 11.º, n.º 2) «Despesas de comunicação - Telefones» ... 35500$00
 
-###### Artigo 15.º, n.º 1) «Abono de família aos Funcionários - Despesas com o abono de família aos funcionários» ... 2650000$00
+Artigo 15.º, n.º 1) «Abono de família aos Funcionários - Despesas com o abono de família aos funcionários» ... 2650000$00
 
 ... 18500000$00
 
@@ -153,9 +165,9 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 10400000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 10400000$00
 
-###### Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 2352000$00
+Artigo 5.º, n.º 4) «Outras despesas com o pessoal - Subvenção de campanha» ... 2352000$00
 
 ... 12752000$00
 
@@ -163,34 +175,34 @@ tomando como contrapartida as seguintes disponibilidades apuradas na mesma tabel
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 170000$00
+Artigo 2.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 170000$00
 
-###### Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 71500$00
+Artigo 5.º, n.º 5) «Outras despesas com o pessoal - Subsídio de renda de casa» ... 71500$00
 
-###### Artigo 5.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 6500000$00
+Artigo 5.º, n.º 6) «Outras despesas com o pessoal - Subsídio eventual de custo de vida» ... 6500000$00
 
 Despesas com o material:
 
-###### Artigo 8.º, n.º 4) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública» ... 45000$00
+Artigo 8.º, n.º 4) «Despesas de conservação e aproveitamento do material - De material de defesa e segurança pública» ... 45000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 11.º, n.º 3) «Despesas de comunicações - Transportes» ... 1400000$00
+Artigo 11.º, n.º 3) «Despesas de comunicações - Transportes» ... 1400000$00
 
-###### Artigo 12.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos»... 4150000$00
+Artigo 12.º, n.º 1) «Encargos das instalações - Rendas de prédios rústicos e urbanos»... 4150000$00
 
-###### Artigo 13.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 100000$00
+Artigo 13.º, n.º 1) «Encargos administrativos - Subvenção de família» ... 100000$00
 
-###### Artigo 13.º, n.º 3) «Encargos administrativos - Despesas com o recrutamento» ... 50000$00
+Artigo 13.º, n.º 3) «Encargos administrativos - Despesas com o recrutamento» ... 50000$00
 
-###### Artigo 14.º, n.º 1) «Outros encargos - Subsídios a estabelecimentos e instituições oficiais, escolas e organizações civis de formação e tirocínio de pilotos aviadores e pára-quedistas (artigo 9.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961)» ... 100000$00
+Artigo 14.º, n.º 1) «Outros encargos - Subsídios a estabelecimentos e instituições oficiais, escolas e organizações civis de formação e tirocínio de pilotos aviadores e pára-quedistas (artigo 9.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961)» ... 100000$00
 
-###### Artigo 14.º, n.º 2) «Outros encargos - Força motriz» ... 30000$00
+Artigo 14.º, n.º 2) «Outros encargos - Força motriz» ... 30000$00
 
-###### Artigo 16.º, n.º 1) «Despesas de anos económicos findos - Despesas com os anos económicos findos» ... 135500$00
+Artigo 16.º, n.º 1) «Despesas de anos económicos findos - Despesas com os anos económicos findos» ... 135500$00
 
 ... 12752000$00
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.
 
 Para ser publicada no Boletim Oficial de Angola. - J. da Silva Cunha.

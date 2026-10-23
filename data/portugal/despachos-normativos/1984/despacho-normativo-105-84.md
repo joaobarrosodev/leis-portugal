@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/105-1984-383995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f91601117203e6cad77989be9dafd70c297633410d6030e3a62e5f0e6d3218c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b81276a0c04868d9381d944826b0b82383ba3068f778520c9bb50210ffa6f587
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Técnico de Electrónica
+- Curso Técnico de Têxtil
+- Ensino Particular
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:172151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:172151:por
+  label: "Substituídos os planos de estudos anexos do presente diploma, pelo DN.108/85.22.10.1985.ME, DR.IS [266] de 19.11.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/108-1985-172151
+  date: '1985-10-22'
+- type: cites
+  target: pt:dre:398556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:14Z'
   warnings: []
   errors: []
 ---
@@ -153,20 +175,20 @@ f) Emissão de diplomas e certificado de matrícula, de aproveitamento e de habi
 
 Ministério da Educação, 24 de Janeiro de 1984. - O Ministro da Educação, José Augusto Seabra.
 
-## Anexo ao Despacho Normativo n.º 105/84, desta data
+Anexo ao Despacho Normativo n.º 105/84, desta data
 
 Curso técnico de electrónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)
 
 Curso técnico de têxtil
 
 Especialização em acabamentos, tinturaria e estamparia e ultimação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)
 
 Curso técnico de têxtil
 
 Especialização em estilismo, colorismo e confecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf))](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/05/11900/16661668.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 219/2015, 1º Suplemento, Série I de 2015-11-09
   number: '219'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9470-(2) a 9470-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/21901/0000200007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249-a/2015/11/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-a-2015-70961383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef296c42060f9f69f4ba4b76d0d0de9eb1ae9f8c320238baac6934ca62835fad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 712ba3c56fcd89eb19a54d4f38685e6cff33a93e681ae8ea9181212de3abb084
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,118 +65,118 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração de Portos
+- Administração Pública
 - Agência Europeia de Segurança Marítima
 - Agência Nacional para a Qualificação e o Ensino Profissional
 - Agência para o Desenvolvimento e Coesão
 - Aicep
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Ministério da Administração Interna
-- Ministro da Saúde
+- ANI-Agência Nacional de Inovação
+- Autarquia Local
+- Comissão de Coordenação e Desenvolvimento Regional
+- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
+- Comissão para a Promoção de Políticas de Família
 - Comunicação Social
+- Confidencialidade
 - Conselho de Ministros
-- Governo Regional
-- Segurança Interna
+- Contribuições e Impostos
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
 - Empresa Participada
 - Empresa Pública
 - Escola Náutica Infante Dom Henrique
-- Administração Pública
-- Administração de Portos
-- Setor Empresarial do Estado
-- Ministério da Economia
+- Forças Armadas
 - Fundos CE
 - Gabinete Governamental
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministério do Ambiente Ordenamento do Território e Energia
-- Ministro da Justiça
-- Ministro de Estado e dos Negócios Estrangeiros
-- Ministro do Ambiente Ordenamento do Território e Energia
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Secretário de Estado Adjunto e da Defesa Nacional
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Alimentação e da Investigação Agroalimentar
-- Secretário de Estado da Energia
-- Secretário de Estado da Inovação Investimento e Competitividade
-- Secretário de Estado da Solidariedade e da Segurança Social
-- Secretário de Estado das Infraestruturas Transportes e Comunicações
-- Secretário de Estado do Emprego
-- Secretário de Estado do Mar
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Secretário de Estado do Turismo
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Ministério das Finanças
-- Secretário de Estado da Cultura
-- Secretário de Estado dos Assuntos Fiscais
-- Ministério da Justiça
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Secretário de Estado Adjunto e do Orçamento
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Contribuições e Impostos
-- Ministério da Educação e Ciência
+- Garantia Jovem
+- Governo Regional
+- Governo XX
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Instituição Financeira de Desenvolvimento
-- Instituto de Informática
-- Instituto Hidrográfico
 - Instituto da Conservação da Natureza e das Florestas
+- Instituto de Informática
+- Instituto do Emprego e Formação Profissional
+- Instituto Hidrográfico
+- Madeira.região Autónoma
+- Ministério da Administração Interna
 - Ministério da Agricultura e do MAR
-- Secretário de Estado da Justiça
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação e Ciência
+- Ministério da Justiça
+- Ministério da Saúde
 - Ministério da Solidariedade Emprego e Segurança Social
-- Secretário de Estado do Tesouro
-- Secretário de Estado do Ambiente
-- Comissão Interministerial de Limites e Bacias Hidrográficas Luso-espanholas
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Ministério das Finanças
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Ministério dos Negócios Estrangeiros
+- Ministro da Administração Interna
 - Ministro da Agricultura e do MAR
-- Segurança Rodoviária
+- Ministro da Cultura Igualdade e Cidadania
+- Ministro da Defesa Nacional
+- Ministro da Economia
 - Ministro da Educação e Ciência
+- Ministro da Justiça
+- Ministro da Modernização Administrativa
+- Ministro da Presidência e do Desenvolvimento Regional
+- Ministro da Saúde
 - Ministro da Solidariedade Emprego e Segurança Social
-- Forças Armadas
+- Ministro de Estado e das Finanças
+- Ministro de Estado e dos Negócios Estrangeiros
+- Ministro do Ambiente Ordenamento do Território e Energia
+- Ministro para os Assuntos Parlamentares
 - Orgânica
 - Parpública
 - PCM-Entidades
-- Comissão para a Promoção de Políticas de Família
 - Política Financeira
-- Sofid
-- Ministro de Estado e das Finanças
-- Madeira.região Autónoma
 - Presidência do Conselho de Ministros
-- Confidencialidade
-- Ministério da Saúde
-- Ministro da Defesa Nacional
+- Primeiro-ministro
+- Secretário de Estado Adjunto do Ministro da Administração Interna
+- Secretário de Estado Adjunto do Ministro da Saúde
 - Secretário de Estado Adjunto do Vice-primeiro-ministro
-- Ministério dos Negócios Estrangeiros
+- Secretário de Estado Adjunto e da Agricultura
+- Secretário de Estado Adjunto e da Defesa Nacional
+- Secretário de Estado Adjunto e do Orçamento
 - Secretário de Estado Adjunto e dos Assuntos Parlamentares
+- Secretário de Estado Adjunto e para a Modernização Administrativa
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Pública
+- Secretário de Estado da Alimentação e da Investigação Agroalimentar
+- Secretário de Estado da Cultura
+- Secretário de Estado da Economia
+- Secretário de Estado da Energia
+- Secretário de Estado da Inovação Investimento e Competitividade
+- Secretário de Estado da Justiça
+- Secretário de Estado da Saúde
+- Secretário de Estado da Solidariedade e da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Finanças
+- Secretário de Estado das Infraestruturas Transportes e Comunicações
+- Secretário de Estado do Ambiente
+- Secretário de Estado do Desenvolvimento Educativo e da Administração Escolar
 - Secretário de Estado do Desenvolvimento Regional
 - Secretário de Estado do Desporto e Juventude
+- Secretário de Estado do Emprego
 - Secretário de Estado do Ensino Básico e Secundario
+- Secretário de Estado do Ensino Superior e da Ciência
+- Secretário de Estado do Mar
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
+- Secretário de Estado do Tesouro
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e Cooperação
+- Secretário de Estado para os Assuntos Europeus
+- Segurança Interna
+- Segurança Rodoviária
+- Setor Empresarial do Estado
 - Setor Público
-- Ministro da Administração Interna
-- Açores
+- Sofid
 - Substituição de Funções
-- Autarquia Local
 - Tutela
 - Vice-primeiro Ministro
-- Governo XX
-- Ministro da Presidência e do Desenvolvimento Regional
-- Ministro da Modernização Administrativa
-- Ministro da Cultura Igualdade e Cidadania
-- Secretário de Estado dos Negócios Estrangeiros e Cooperação
-- Secretário de Estado Adjunto e da Agricultura
-- Secretário de Estado da Economia
-- Secretário de Estado do Ensino Superior e da Ciência
-- Secretário de Estado do Desenvolvimento Educativo e da Administração Escolar
-- Secretário de Estado Adjunto e para a Modernização Administrativa
-- Garantia Jovem
-- ANI-Agência Nacional de Inovação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
@@ -218,16 +218,156 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/2015/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2015/01/08/p/dre
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67409483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968709:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:13Z'
   warnings: []
   errors: []
 ---
@@ -348,7 +488,7 @@ p) Ministro dos Assuntos Parlamentares.
 
 ###### Artigo 7.º — Ausência e impedimento do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, por um dos Ministros de Estado.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído, na sua ausência ou impedimento, pelo Vice-Primeiro-Ministro e, na ausência ou impedimento deste, por um dos Ministros de Estado.
 
 ###### Artigo 8.º — Competência dos restantes membros do Governo
 
@@ -362,7 +502,7 @@ p) Ministro dos Assuntos Parlamentares.
 
 ###### Artigo 9.º — Ausência e impedimento do Vice-Primeiro-Ministro, das ministras e dos ministros
 
-**O Vice-Primeiro-Ministro, as ministras e os ministros são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicarem ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.**
+O Vice-Primeiro-Ministro, as ministras e os ministros são substituídos, na sua ausência ou impedimento, pelo secretário de Estado que indicarem ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar.
 
 ### CAPÍTULO III — Orgânica do Governo
 
@@ -602,12 +742,12 @@ O presente decreto-lei reporta os seus efeitos a 30 de outubro de 2015, consider
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2015. - Pedro Passos Coelho - Eduardo Nogueira Pinto - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Luís Maria de Barros Serra Marques Guedes - João Calvão da Silva - Fernando Mimoso Negrão - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção de Oliveira Cristas Machado da Graça - Luís Pedro Russo da Mota Soares - Luís Miguel Gubert Morais Leitão - Fernando Serra Leal da Costa - Margarida Isabel Mano Tavares Simões Lopes Marques de Almeida - Rui Pedro Costa Melo Medeiros - Maria Teresa da Silva Morais - Carlos Henrique da Costa Neves.
 
-**Promulgado em 9 de novembro de 2015.**
+Promulgado em 9 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de novembro de 2015.**
+Referendado em 9 de novembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

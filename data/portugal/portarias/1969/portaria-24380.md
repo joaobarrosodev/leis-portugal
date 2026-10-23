@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24380-1969-216123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 288fb69ef6f75faa887def2bad88a044e418311c316fac6c87b101f6420b8e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96059762363dc3fa6b009787a3d0e71b10221d6895c2731a187e6a88bc8349a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:288612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198680:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:12Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas o [Decreto n.º 49204](https://diariodarepublica.pt/dr/detalhe/decreto/49204-1969-198680), de 25 de Agosto de 1969, com as alterações seguintes:
 
-###### Art. 3.º - 1. O Ministro do Ultramar poderá autorizar que, mediante prestação de provas, os estágios a realizar nos liceus das províncias ultramarinas sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
+Art. 3.º - 1. O Ministro do Ultramar poderá autorizar que, mediante prestação de provas, os estágios a realizar nos liceus das províncias ultramarinas sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pela legislação geral respectiva, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
 
 2. As provas a que se refere o número anterior serão indicadas em parecer da Junta Nacional da Educação e incidirão sobre as disciplinas do grupo em causa não compreendidas ou insuficientemente contempladas no curso ou habilitação académica que o interessado possuir.
 
@@ -101,7 +109,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ...
 
-###### Art. 5.º - 1. Os estágios efectuam-se nos Liceus de Salvador Correia, em Luanda, e de Salazar, em Lourenço Marques, que passam a ser liceus normais.
+Art. 5.º - 1. Os estágios efectuam-se nos Liceus de Salvador Correia, em Luanda, e de Salazar, em Lourenço Marques, que passam a ser liceus normais.
 
 O número de estagiários de um e outro sexo a admitir anualmente em cada grupo e em cada liceu é fixado, ouvido o governo da província mediante proposta do director-geral de Educação, por despacho ministerial.
 
@@ -109,7 +117,7 @@ Será publicado no Boletim Oficial da província respectiva, durante a 1.ª quin
 
 2. Sob a proposta fundamentada da Direcção-Geral de Educação, pode o Ministro autorizar o funcionamento noutros liceus dos estágios relativos ao correspondente magistério.
 
-###### Art. 6.º - 1. ...
+Art. 6.º - 1. ...
 
 2. Na graduação dos candidatos considerar-se-ão sucessivamente, como razões de preferência:
 
@@ -127,7 +135,7 @@ d) Aptidão documentada no processo curricular, quando este exista.
 
 Competirá a este júri apreciar a preferência expressa na alínea d) e estabelecer a graduação definitiva dos candidatos.
 
-###### Art. 7.º - 1. A admissão será requerida ao governador-geral pelos candidatos a estagiários até 31 de Julho.
+Art. 7.º - 1. A admissão será requerida ao governador-geral pelos candidatos a estagiários até 31 de Julho.
 
 ...
 
@@ -139,9 +147,9 @@ Competirá a este júri apreciar a preferência expressa na alínea d) e estabel
 
 Da decisão do júri cabe recurso para o Ministro do Ultramar.
 
-###### Art. 8.º Os candidatos que satisfaçam as condições legais serão submetidos à Junta Provincial de Saúde.
+Art. 8.º Os candidatos que satisfaçam as condições legais serão submetidos à Junta Provincial de Saúde.
 
-###### Art. 9.º - 1. À Junta compete verificar:
+Art. 9.º - 1. À Junta compete verificar:
 
 a) Se o concorrente sofre de moléstia contagiosa, especialmente de tuberculose contagiosa ou evolutiva, ou tem deformidade ou deficiência física que prejudique o exercício do magistério;
 
@@ -153,7 +161,7 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 4. Das decisões da Junta Provincial de Saúde cabe recurso para a Junta de Saúde do Ultramar.
 
-###### Art. 10.º - 1. Até ao dia 15 de Agosto a Direcção dos Serviços de Educação fará publicar no Boletim Oficial a lista com a graduação de todos os concorrentes, bem como a dos candidatos admitidos em cada grupo e em cada liceu, de acordo com o aviso a que se refere o n.º 1 do artigo 5.º
+Art. 10.º - 1. Até ao dia 15 de Agosto a Direcção dos Serviços de Educação fará publicar no Boletim Oficial a lista com a graduação de todos os concorrentes, bem como a dos candidatos admitidos em cada grupo e em cada liceu, de acordo com o aviso a que se refere o n.º 1 do artigo 5.º
 
 2. Desta graduação cabe recurso para o Ministro do Ultramar, dentro do prazo de dez dias.
 
@@ -163,15 +171,15 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 6. Os estagiários iniciam o estágio no princípio do ano lectivo.
 
-###### Art. 11.º Se, expirado o prazo estabelecido no n.º 3 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre aos liceus informar do facto, no dia imediato, a Direcção dos Serviços, que convocará para o estágio, em sua substituição, igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 6.º
+Art. 11.º Se, expirado o prazo estabelecido no n.º 3 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre aos liceus informar do facto, no dia imediato, a Direcção dos Serviços, que convocará para o estágio, em sua substituição, igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 6.º
 
 ...
 
-###### Art. 15.º - 1. A orientação superior dos estágios é da competência do inspector provincial de educação, coadjuvado pelo reitor do liceu normal.
+Art. 15.º - 1. A orientação superior dos estágios é da competência do inspector provincial de educação, coadjuvado pelo reitor do liceu normal.
 
 ...
 
-###### Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro do Ultramar, de entre os professores efectivos do respectivo grupo do ensino liceal, sob proposta do director-geral de Educação, ouvidos os governos das províncias.
+Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro do Ultramar, de entre os professores efectivos do respectivo grupo do ensino liceal, sob proposta do director-geral de Educação, ouvidos os governos das províncias.
 
 2. O Ministro do Ultramar poderá também designar para o exercício das funções de metodólogo professores dos quadros da metrópole que tenham sido nomeados, em comissão, nos termos do § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, para o desempenho de funções docentes nas províncias ultramarinas.
 
@@ -189,11 +197,11 @@ b) Se possui as condições físicas e a sanidade e equilíbrio mentais que aque
 
 ...
 
-###### Art. 19.º - 1. Os estagiários gozarão do estatuto de professores contratados ou eventuais.
+Art. 19.º - 1. Os estagiários gozarão do estatuto de professores contratados ou eventuais.
 
 ...
 
-###### Art. 20.º - 1. Não podem beneficiar do disposto no n.º 5 do artigo anterior os estagiários que sejam repetentes, salvo se a repetição for motivada pela prestação do serviço militar obrigatório ou por doença verificada pela Junta Provincial de Saúde, a que se refere o artigo 8.º
+Art. 20.º - 1. Não podem beneficiar do disposto no n.º 5 do artigo anterior os estagiários que sejam repetentes, salvo se a repetição for motivada pela prestação do serviço militar obrigatório ou por doença verificada pela Junta Provincial de Saúde, a que se refere o artigo 8.º
 
 2. Os estagiários repetentes que forem contratados, se a repetição não for justificada pelas circunstâncias referidas no número anterior, serão notificados, nos termos e prazo estabelecidos na lei, da denúncia do contrato para o seu termo.
 
@@ -201,19 +209,19 @@ Os serviços provinciais informarão oportunamente a Direcção-Geral de Educaç
 
 ...
 
-###### Art. 23.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá, pelas entidades competentes, ser autorizado o respectivo alojamento em residências universitárias.
+Art. 23.º Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá, pelas entidades competentes, ser autorizado o respectivo alojamento em residências universitárias.
 
 ...
 
-###### Art. 36.º - 1. ...
+Art. 36.º - 1. ...
 
 2. A Direcção de Serviços fará publicar no Boletim Oficial as classificações profissionais.
 
-###### Art. 37.º Cada um dos membros do júri dos Exames do Estado tem direito à gratificação que for fixada pelos órgãos legislativos locais e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
+Art. 37.º Cada um dos membros do júri dos Exames do Estado tem direito à gratificação que for fixada pelos órgãos legislativos locais e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando tiverem lugar.
 
 ...
 
-###### Art. 42.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
+Art. 42.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro do Ultramar.
 
 Ministério do Ultramar, 21 de Outubro de 1969. - Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

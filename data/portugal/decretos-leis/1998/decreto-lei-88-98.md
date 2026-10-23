@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/079a00/14551463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/1998/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-1998-209019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31ac3e773bba85effd9a2f5d204a09cda5e7bcc32ee24205dceb709faeb4bc49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fe7820b59af4bdea7be5cb1777f4983066e2254a1fe86d8c056de4b7be12fa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,31 @@ subjects:
 - Director Artístico
 - Fundação de são Carlos
 - Orgânica
-- Teatro Nacional de São Carlos
 - Reintegração de Pessoal
+- Teatro Nacional de São Carlos
 relationships:
 - type: amended_by
   target: pt:dre:521010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:582192:por
+  label: "Aditado um art. 22º-A pelo DEC LEI.354/99.1999.09.03.MC,DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1999-582192
+  date: '1999-09-03'
+- type: amended_by
+  target: pt:dre:345150:por
+  label: "Alterados os arts. 9º, 10º, 11º, 12º, 13º, 15º, 16º, 17º, 19º, 20º, 27º, 33º, 34º e 36º, com a redacção dada pelo\
+    \ Dec Lei 354/99 de 03-Set, pelo DEC LEI.104/2001.2001.03.29.MC DR.IS-A [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2001-345150
+  date: '2001-03-29'
+- type: amended_by
+  target: pt:dre:521010:por
+  label: "Determinada a sucessão, nos termos do artigo 10.º, da OPART relativamente às atribuições da Companhia Nacional de\
+    \ São Carlos, cuja orgânica foi aprovada pelo presente diploma e revoga o mesmo pelo DEC LEI.160/2007.27.04.2007.MC, DR.IS\
+    \ [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2007-521010
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/55/1995/03/29/p/dre
   label: null
@@ -88,16 +106,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:173688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594967:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:276579:por
+  label: "Rectificado pela DECL-RECT.9-E/98.1998.04.30.PCM DR.IS-A [100]Supl de 30/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/9-e-1998-276579
+  date: '1998-04-30'
+- type: repealed_by
+  target: pt:dre:232556:por
+  label: "Revogado o art. 22º-A do presente diploma, aditado pelo Dec Lei 354/99, de 03-Set, pelo DEC LEI.61/2003.2003.04.02.MC\
+    \ DR.IS-A [78]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2003-232556
+  date: '2003-04-02'
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:49Z'
   warnings: []
   errors: []
 ---
@@ -574,12 +619,12 @@ Com a entrada em vigor do presente diploma, nos termos referidos no artigo anter
 
 Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 19 de Março de 1998.**
+Promulgado em 19 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1998.**
+Referendado em 26 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

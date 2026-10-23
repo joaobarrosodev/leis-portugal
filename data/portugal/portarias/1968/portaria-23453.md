@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23453-1968-273009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57450db858ce8c078ef324dd09a3787d8423e95a0e132b634f40fd0cd40580e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c8863b3553a151914ed57dd3dcda2d91d881f443cf5c009fb1e2dadb9832120
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção da Marinha Mercante
+- Embarcação
+- Emolumento
+- Fiscalização
+- Instituto Hidrográfico
+- TAXA de Prestação de Serviços
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:344965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:143551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:344965:por
+  label: Revogados, a partir de 29.03.2001, os normativos reguladores da cobrança de taxas constantes da Port 23453 de 28-jun
+    1968 DG.IS [152] 1968-06-28 pelo(a) Decreto-Lei n.º 98/2001 - Diário da República n.º 74/2001, Série I-A de 2001-03-28
+    nos termos do art. 6.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2001-344965
+  date: '2001-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:18Z'
   warnings: []
   errors: []
 ---
@@ -105,10 +131,10 @@ Ministério da Marinha, 28 de Junho de 1968. - O Ministro da Marinha, Fernando Q
 
 Emolumentos devidos pela execução das vistorias e passagem dos respectivos relatórios respeitantes à aplicação da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf))](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf)
 
 Emolumentos devidos pela aprovação e inspecção de materiais e equipamentos a efectuar pela Repartição Técnica da Direcção da Marinha Mercante, em conformidade com a Convenção Internacional para a Salvaguarda da Vida Humana no Mar, 1960
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf))](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/15200/09320933.pdf)
 
 Ministério da Marinha, 28 de Junho de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

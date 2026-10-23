@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 213e9ede477d5af8bf916727f12be479132fb343bdbb7985924ae9de5d1c444b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec551438202e047f179d0df6883e03f46be3c279d7ce4438ab8de7e716e4a597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Orgânica
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:534618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452692:por
+  label: "Alterado o art. 36º, rectificados os nºs 2, 3, 4 e 5 do art. 43º, aditados: o nº 3 ao art. 4º, os nºs 1, al. d),\
+    \ e 3 ao art. 11º, o art. 14º-A, as als. e), f), g), h) e i) ao nº 1 e o nº 2 ao art. 16º, o art. 20º-A, as als. c) e\
+    \ d) ao nº 1 e o nº 2 ao art. 22º, as als. d), e), f), g), h) e i) ao nº 1 e o nº 2 ao art. 26º, o art. 28º-A, as als.\
+    \ a), b) e c) ao art. 34º, o art. 37º-A, o nº 3 ao art. 40º, e as als. c) e d) à al. A) do nº 1, als. c) e d) à al. B),\
+    \ als. b), c) e d) à al. C), as als. b) e c) à al. D) do nº 1, e os nºs 2, 3, 4, 5 e 6 ao art. 43º, e alargado o quadro\
+    \ de pessoal pelo DR.59/83.1983.06.30.MFP, DR.IS [148]\08]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/59-1983-452692
+  date: '1983-06-30'
+- type: amended_by
+  target: pt:dre:181044:por
+  label: "Aumentado um lugar no quadro de pessoal anexo ao presente diploma, pela PORT.624/85.21.08.1985.PCM, DR.IS [191]\
+    \ de 21.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1985-181044
+  date: '1985-08-21'
+- type: amended_by
+  target: pt:dre:194248:por
+  label: "Transferidas as competências do Fundo Especial de Transportes Terrestres para a Direcção Geral dos Transportes Terrestres,\
+    \ cuja orgânica consta do presente diploma, pelo DEC LEI.21/86.14.02.1986.MF, DR.IS [37] de 14.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1986-194248
+  date: '1986-02-14'
+- type: amended_by
+  target: pt:dre:372055:por
+  label: "Alterado o quadro de pessoal pela PORT.375/88.08.06.1988.MF, DR.IS [132] de 08.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/375-1988-372055
+  date: '1988-06-08'
+- type: amended_by
+  target: pt:dre:615182:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.260/89.08.04.1989.MF, DR.IS [82] de 08.04.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/260-1989-615182
+  date: '1989-04-08'
+- type: amended_by
+  target: pt:dre:619572:por
+  label: "Alargada a área de recrutamento para os cargos de director de serviços e de chefe de divisão das Direcções de Transportes\
+    \ do Norte, do Sul e de Lisboa pela PORT.533/89.1989.07.12.MF DR.IS [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1989-619572
+  date: '1989-07-12'
+- type: amended_by
+  target: pt:dre:573701:por
+  label: "Aditado o art. 73º-A, e alarga o quadro de pessoal pelo DR.26/90.1990.08.14.MOPTC, DR.IS [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/26-1990-573701
+  date: '1990-08-14'
+- type: cites
+  target: pt:dre:147385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:534618:por
+  label: "Revogado pelo DEC LEI.296/94.1994.11.17.MOPTC, DR.IS-A [266]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-1994-534618
+  date: '1994-11-17'
 article_structure:
   article_count: 79
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:26Z'
   warnings: []
   errors: []
 ---
@@ -990,22 +1063,22 @@ O presente diploma entra imediatamente em vigor.
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 26 de Março de 1980.**
+Promulgado em 26 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro de pessoal da Direcção-Geral dos Transportes Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf))](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf)
 
 MAPA II
 
 Quadro de pessoal da Direcção-Geral do Transportes Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf))](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/04/08200/06710684.pdf)
 
-**O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.**
+O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.

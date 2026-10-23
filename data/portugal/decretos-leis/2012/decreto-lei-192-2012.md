@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/192/2012/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2012-175333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eea1fa9be5e281492ae5946ba38fa2a4e91ec9cf635fe8504f4a8c22477026f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d062f6182c9bd87f7492505df96f7415e662f84878aad4f1a9a7fe7d8a5db0c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Valores Mobiliários
+- Banco de Portugal
 - Beneficiário
 - Contrato
 - Contrato de Garantia Financeira
-- Banco de Portugal
-- Transmissão da Propriedade
+- Instituição Financeira
 - Liquidação de Valores Mobiliários
 - Mercado Monetário
 - Obrigações
-- Instituição Financeira
+- Transmissão da Propriedade
+- Valores Mobiliários
 relationships:
 - type: cites
   target: celex:32002L0047
@@ -91,15 +91,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/105/2004/05/08/p/dre
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:44Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +138,9 @@ Os artigos 6.º, 7.º, 8.º, 11.º e 16.º do Decreto-Lei n.º 105/2004, de 8 de
 
 3 - Nas garantias financeiras que tenham por objeto créditos sobre terceiros, prestadas ao banco central pelas instituições de crédito no âmbito das operações de cedência de liquidez, a posse transfere-se para o beneficiário da garantia por mero efeito do contrato de garantia financeira.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -148,7 +150,9 @@ Os artigos 6.º, 7.º, 8.º, 11.º e 16.º do Decreto-Lei n.º 105/2004, de 8 de
 
 4 - Nas garantias financeiras que tenham por objeto créditos sobre terceiros, prestadas ao banco central pelas instituições de crédito no âmbito das operações de cedência de liquidez, a inclusão numa lista de créditos apresentada ao beneficiário da garantia por escrito, ou de forma juridicamente equivalente à forma escrita, é suficiente para identificar o crédito sobre terceiros e fazer prova da prestação da garantia, quer entre as partes quer em relação aos devedores ou a terceiros.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +162,9 @@ Os artigos 6.º, 7.º, 8.º, 11.º e 16.º do Decreto-Lei n.º 105/2004, de 8 de
 
 4 - As garantias financeiras que tenham por objeto créditos sobre terceiros, prestadas ao banco central pelas instituições de crédito no âmbito das operações de cedência de liquidez, não dependem de registo nem de notificação ao devedor, prevalecendo sobre quaisquer outros direitos sobre os mesmos créditos, ainda que registados ou notificados ao devedor em data posterior à constituição do penhor financeiro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -174,7 +180,9 @@ b) O beneficiário da garantia pode exigir que o prestador da garantia, ainda qu
 
 c) A eficácia em relação ao devedor do crédito empenhado depende de notificação, exceto se o beneficiário da garantia exercer a faculdade prevista na alínea anterior.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -188,12 +196,12 @@ c) A eficácia em relação ao devedor do crédito empenhado depende de notifica
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento.
 
-**Promulgado em 9 de agosto de 2012.**
+Promulgado em 9 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de agosto de 2012.**
+Referendado em 14 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.

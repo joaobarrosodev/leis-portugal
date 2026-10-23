@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/83-1970-227381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 736a90d5e93d0a973097449b0a79b9c1d4a635e6a0005b428d0a11823ad0566f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cf922c8f367ceb46fdf28030769294d5f2f0b7b61d4d87f30900aea63cce8b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686790:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:30Z'
   warnings: []
   errors: []
 ---
@@ -169,25 +189,25 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações e subsídios a abonar nos termos do n.º 2 do artigo 2.º, n.º 2 do artigo 3.º, n.º 3 do artigo 5.º e n.º 1 do artigo 12.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963» ... 150752$00
+Artigo 2.º, n.º 2) «Remunerações acidentais - Gratificações e subsídios a abonar nos termos do n.º 2 do artigo 2.º, n.º 2 do artigo 3.º, n.º 3 do artigo 5.º e n.º 1 do artigo 12.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963» ... 150752$00
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 435648$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Subsídio eventual de custo de vida, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 435648$00
 
 Despesas com o material:
 
-###### Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Aquisição de móveis»:
+Artigo 4.º, n.º 1) «Aquisições de utilização permanente - Aquisição de móveis»:
 
 Alínea a) «Livros e revistas para a biblioteca» ... 28000$00
 
 Alínea b) «Máquinas, aparelhos, instrumentos e utensílios - Mobiliário» ... 50000$00
 
-###### Artigo 6.º, n.º 2) «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, desenho e fotografia, encadernações, assinaturas do Diário do Governo, jornais e outras publicações, livros para escrituração, etc.» ... 48000$00
+Artigo 6.º, n.º 2) «Material de consumo corrente - Diversos não especificados, incluindo artigos de expediente, desenho e fotografia, encadernações, assinaturas do Diário do Governo, jornais e outras publicações, livros para escrituração, etc.» ... 48000$00
 
 Diversos encargos:
 
-###### Artigo 11.º «Passagens, ajudas de custo e outras despesas de deslocação, subsídio de viagem e de marcha - Missões de estudo» ... 150000$00
+Artigo 11.º «Passagens, ajudas de custo e outras despesas de deslocação, subsídio de viagem e de marcha - Missões de estudo» ... 150000$00
 
-###### Artigo 16.º «Encargos eventuais ou extraordinários com pessoal a admitir eventual e extraordinàriamente, nos termos do n.º 4 do artigo 6.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963» ... 100000$00
+Artigo 16.º «Encargos eventuais ou extraordinários com pessoal a admitir eventual e extraordinàriamente, nos termos do n.º 4 do artigo 6.º do [Decreto n.º 45258](https://diariodarepublica.pt/dr/detalhe/decreto/45258-1963-686790), de 21 de Setembro de 1963» ... 100000$00
 
 ... 962400$00
 

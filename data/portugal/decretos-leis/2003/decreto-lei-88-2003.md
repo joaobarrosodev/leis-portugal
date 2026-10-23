@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/097a00/26902719.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2003/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2003-240647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e277fb2330887a0c280b15d60ccd641e19f1b2547433ea17f3a1d70428fdd611
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdcc6df95302245133697c0c71ee9fc3ee13cb78440969c9a7177650c228a019
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,37 @@ relationships:
   target: pt:dre:70280713:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661170:por
+  label: "Alterado o art. 128º do Estatuto da Câmara dos Solicitadores, aprovado pelo presente diploma, pela LEI.14/2006.26.04.2006.AR,\
+    \ DR.IS-A [81] de 26.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, e sem prejuízo do disposto no art. 23º, os arts. 70º, 93º, 115º a 127º, 128º\
+    \ ( este último na redacção da Lei 14/2006, de 26-Abr), 129º, 131º, 142º e 165º, a denominação do capítulo viii, que passa\
+    \ a ser « Agente de execução» e a secção i do capítulo que passa a ser «Exercício, inscrição, registo e sociedade de agente\
+    \ de execução», aditados os arts. 69º-A, 69º-B, 69º-C, 69º-D, 69º-E, 69º-F, 19º-A, 119º-B, 127º-A, 131º-A, 131º-B e 131º-C\
+    \ e a secção iii do capítulo viii, denominada «Infracções e penas disciplinares» e revogadas as als. c) e i) do art. 63º,\
+    \ o nº6 do art. 67º, os nºs. 3 e 4 do art. 76º, o nº3 do art. 99º, a al. a) do nº1 e os nºs. 2 e 3 do art. 117º, o nº6\
+    \ do art. 129º, o art. 130º, o nº4 do art. 131º e o art. 134º do Estatuto da Câmara dos Solicitadores, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0.2008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
+- type: amended_by
+  target: pt:dre:70280713:por
+  label: Transformada em Ordem dos Solicitadores e dos Agentes de Execução a Câmara dos Solicitadores, cujo Estatuto foi aprovado
+    pelo presente diploma (alterado pela Lei 49/2004 de 24-ago, pela Lei 14/2006 de 26-abr e pelo Dec Lei 226/2008 de 20-nov)
+    pelo(a) Lei n.º 154/2015 - Diário da República n.º 179/2015, Série I de 2015-09-14, que revogou o presente diploma, a
+    partir de 14.10.2015, sem prejuízo do disposto no n.º 2 do art. 6.º da citada Lei 154/2015, que o manteve contudo em vigor,
+    nos termos do n.º 24 do seu art. 3.º, até à entrada em vigor de todas as normas do Estatuto da Ordem dos Solicitadores
+    e dos Agentes de Execução, aprovado e publicado em anexo à mesma lei; e que determinou que todas as referências à Câmara
+    dos Solicitadores em leis, regulamentos e outros atos devem passar a ser entendidas como referindo-se à Ordem dos Solicitadores
+    e dos Agentes de Execução, salvo se estiver em causa o exercício das atribuições da Comissão para o Acompanhamento dos
+    Auxiliares da Justiça (CAAJ), caso em que devem ser entendidas como referindo-se a esta.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/154-2015-70280713
+  date: '2015-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
   label: null
@@ -87,16 +118,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/2002/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/2002/08/21/p/dre
+- type: cites
+  target: pt:dre:172280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489989:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479604:por
+  label: "Revogado o art 104º do Estatuto da Câmara dos Solicitadores, aprovado pelo presente diploma, pela LEI.49/2004.24.08.2004.AR,\
+    \ DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2004-479604
+  date: '2004-08-24'
 article_structure:
   article_count: 190
   section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:38Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +244,15 @@ O presente diploma entra em vigor no 30.º dia após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
 
-**Promulgado em 4 de Abril de 2003.**
+Promulgado em 4 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 2003.**
+Referendado em 9 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Estatuto da Câmara dos Solicitadores
 
@@ -597,7 +650,7 @@ c) Trienalmente, em Dezembro, para a realização das eleições mencionadas na 
 
 ###### Artigo 38.º — Presidente da Câmara
 
-**O presidente da Câmara é, por inerência, o presidente do congresso, do conselho geral e da assembleia de delegados.**
+O presidente da Câmara é, por inerência, o presidente do congresso, do conselho geral e da assembleia de delegados.
 
 ###### Artigo 39.º — Competência do presidente
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/11/275a00/74037406.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/1995/11/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1995-626592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eafcd5d6470873eae0e619b4c5094d96371b1de9abde5864b90684d92b17b313
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55779cdc334344edce4c7fd70db52d653d770e46dac227eafff9d93f6e9dfdbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Contrato de Investimento
-- Projeto de Investimento
-- Investimento Estrangeiro
 - Direito de Estabelecimento
+- Investimento Estrangeiro
 - Livre Circulação de Capitais
 - Política Económica
+- Projeto de Investimento
 - Regime Jurídico
 relationships:
 - type: amended_by
@@ -86,16 +86,21 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:511828:por
+  label: "Revogado pelo DEC LEI.203/2003.2003.09.10.MECO, DR.IS-A [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2003-511828
+  date: '2003-09-10'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:20Z'
   warnings: []
   errors: []
 ---
@@ -306,12 +311,12 @@ O ICEP deve promover o registo, nos termos do artigo 8.º, das operações que e
 
 Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Walter Valdemar Pêgo Marques - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso - Luís Filipe da Conceição Pereira - Alexandre Carlos de Mello Vieira Costa Relvas.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

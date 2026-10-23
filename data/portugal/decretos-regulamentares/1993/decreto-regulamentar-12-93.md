@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/1993/05/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1993-274020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b62ab87b4ead73b204b41b1fb4e0fe6b3c3d21e11ff85645309b13f0c2b1e9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3741440b83bfaae1723e09231f3a3931a711dcbdd8f8bbcd353a646d2a4b78e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Avaliação de Prédios
 - Comissão de Avaliação do Inquilinato
 - Remuneração Acessória
-- Arrendamento Urbano para Habitação
 - TAXA de Prestação de Serviços
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658920:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:34Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 57.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 19.º do [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, na redacção dada pelo [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, passa a ter a seguinte redacção:
+Artigo único. O artigo 19.º do [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, na redacção dada pelo [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, passa a ter a seguinte redacção:
 
-###### Art. 19.º - 1 - Os valores dos abonos, incluindo as despesas de transportes dos membros das comissões de avaliação a que se refere o artigo 5.º, serão fixados por despacho do Ministro das Finanças.
+Art. 19.º - 1 - Os valores dos abonos, incluindo as despesas de transportes dos membros das comissões de avaliação a que se refere o artigo 5.º, serão fixados por despacho do Ministro das Finanças.
 
 2 - No acto da apresentação do requerimento a solicitar a avaliação deverá ser cobrada aos requerentes, a título de preparos, a escriturar em operações de tesouraria, a quantia provável do total da conta a elaborar no processo.
 
@@ -112,12 +124,12 @@ Presidência do Conselho de Ministros, 15 de Março de 1993.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 2 de Abril de 1993.**
+Promulgado em 2 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1993.**
+Referendado em 6 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

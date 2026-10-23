@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-1982-601153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:14:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcaeea6ced16f6f0171b3d3eccd5965d4550252ac59b8b77fd560f95a98c846a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec6c2b0c5b6a29b5ae173d55bbd7cf808b24683f337aff0931bc65ed8643a24a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:14:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abrantes
+- Estabelecimento Hospitalar
+- Hospital Distrital
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:435440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435440:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico, o quadro de pessoal aprovado pela Portaria\
+    \ 780/80, de 03 de Outubro, na redacção do presente diploma, pela PORT.807-A4/83 de 30 de Julho DR.IS [174-6.º Supl] \0\
+    \ \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-a4-1983-435440
+  date: '1983-07-30'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:14:07Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +123,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas ao quadro de pessoal do Hospital Distrital de Abrantes as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/01000/00580058.pdf))](https://files.diariodarepublica.pt/1s/1982/01/01000/00580058.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/01000/00580058.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 7 de Dezembro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/169a00/45184521.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/272/1999/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1999-354698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce6f9f6ea51103286cfc364e3fcbec9ad07f45332f0f0ff419344f3e2b9752b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a557de402432ce4346a416a25163e12f84aeb3051b0e2f9dc5f917d5af858510
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Pessoal Dirigente
+- Base de Dados
 - Conselho de Ministros
 - Despesas de Representação
 - Digesto
-- Secretaria Geral
 - Gabinete Governamental
-- Base de Dados
+- Modernização Administrativa
 - Orgânica
+- Pessoal Dirigente
 - Presidência do Conselho de Ministros
 - Quadro de Pessoal
+- Secretaria Geral
 - Subsídio
 relationships:
 - type: amended_by
@@ -90,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/227/1997/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/227/1997/08/30/p/dre
+- type: cites
+  target: pt:dre:300009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:581669:por
+  label: "Revogado pelo DEC LEI.98/2003.2003.05.12.PCM DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2003-581669
+  date: '2003-05-12'
 article_structure:
   article_count: 14
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:11Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +199,9 @@ f) Divisão de Recursos Humanos.
 
 5 - A coordenação dos sectores será assegurada por funcionário dos grupos de pessoal técnico superior ou técnico, a designar pelo secretário-geral.
 
-###### Artigo 5.º — Divisão de Gestão Orçamental
+###### Artigo 5.º
+
+##### Divisão de Gestão Orçamental
 
 Compete à Divisão de Gestão Orçamental:
 
@@ -210,7 +225,9 @@ c) Organizar e gerir o arquivo da Secretaria-Geral;
 
 d) Assegurar a microfilmagem e reprodução de documentos.
 
-###### Artigo 6.º — Divisão de Obras, Manutenção e Aquisições
+###### Artigo 6.º
+
+##### Divisão de Obras, Manutenção e Aquisições
 
 Compete à Divisão de Obras, Manutenção e Aquisições:
 
@@ -232,7 +249,9 @@ h) Organizar os processos de aquisição de bens e serviços que se mostrem nece
 
 i) Concretizar as aquisições, após autorização.
 
-###### Artigo 7.º — Divisão de Documentação e Informação Legislativa
+###### Artigo 7.º
+
+##### Divisão de Documentação e Informação Legislativa
 
 1 - Compete à Divisão de Documentação e Informação Legislativa:
 
@@ -252,7 +271,9 @@ g) Dar parecer sobre assuntos da sua competência.
 
 2 - Compete ainda à Divisão de Documentação e Informação Legislativa assegurar a criação e manutenção da PCMLEX - Base de Dados Central de Informação Legislativa, no âmbito do DIGESTO - Sistema Integrado para o Tratamento da Informação Jurídica, em articulação com as bases sectoriais a desenvolver por outros serviços da Administração Pública, promovendo a colaboração com outras bases de dados jurídicas, nacionais e internacionais, e procedendo ao tratamento da documentação considerada pertinente para o respectivo desenvolvimento.
 
-###### Artigo 8.º — Divisão Técnica
+###### Artigo 8.º
+
+##### Divisão Técnica
 
 Compete à Divisão Técnica:
 
@@ -278,7 +299,9 @@ j) Promover a informatização das actividades da Secretaria-Geral;
 
 k) Coordenar a utilização do sistema informático da Secretaria-Geral.
 
-###### Artigo 9.º — Divisão de Informação e Relações Públicas
+###### Artigo 9.º
+
+##### Divisão de Informação e Relações Públicas
 
 Compete à Divisão de Informação e Relações Públicas:
 
@@ -306,7 +329,9 @@ l) Assegurar a ligação com os serviços congéneres dos diversos ministérios;
 
 m) Elaborar estudos e pareceres sobre assuntos da sua competência.
 
-###### Artigo 10.º — Divisão de Recursos Humanos
+###### Artigo 10.º
+
+##### Divisão de Recursos Humanos
 
 1 - Compete à Divisão de Recursos Humanos:
 
@@ -366,15 +391,15 @@ O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Julho de 1999.**
+Referendado em 17 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA
 

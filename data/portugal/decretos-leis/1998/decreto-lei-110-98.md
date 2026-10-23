@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/1998/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1998-176333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6edd7be5261fbe93f03f79cfaae8177e63298670c616fc5020a62b1ce0c28a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6f4504751fb946e6fbb462016c4501f232bff63db0e7e83832d69b2f58a504e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Criação de Lugares
 - Criação de Serviços
-- Tribunal de Comarca
 - Magistrado do Ministério Público
 - Magistrado Judicial
+- Ministério Público
 - Orgânica
 - Quadro de Pessoal
-- Ministério Público
+- Tribunal de Comarca
 - Tribunal Judicial
 relationships:
 - type: cites
@@ -87,16 +87,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668095:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:42Z'
   warnings: []
   errors: []
 ---
@@ -123,15 +155,15 @@ Os mapas a que se referem os artigos 5.º e 21.º do [Decreto-Lei n.º 214/88](h
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 7 de Abril de 1998.**
+Promulgado em 7 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 

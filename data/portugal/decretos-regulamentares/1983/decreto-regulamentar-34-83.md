@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1983-311597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b4c804ecc7a6d546b1384cb712c42879a6ed45ce885e70de5e2e6aaea8fd645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 893fd3ed329be351eea25411dc99de3e7772d7dfc555353284d29fd49e1d6d9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- PSP
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:459620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:23Z'
   warnings: []
   errors: []
 ---
@@ -92,28 +102,28 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro geral da Polícia de Segurança Pública, a que se referem o mapa I anexo à [Portaria n.º 802/80](https://diariodarepublica.pt/dr/detalhe/portaria/802-1980-462220), de 8 de Outubro, e o mapa I anexo à [Portaria n.º 1075/80](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1980-459620), de 18 de Dezembro, é aumentado das seguintes unidades:
+Artigo 1.º O quadro geral da Polícia de Segurança Pública, a que se referem o mapa I anexo à [Portaria n.º 802/80](https://diariodarepublica.pt/dr/detalhe/portaria/802-1980-462220), de 8 de Outubro, e o mapa I anexo à [Portaria n.º 1075/80](https://diariodarepublica.pt/dr/detalhe/portaria/1075-1980-459620), de 18 de Dezembro, é aumentado das seguintes unidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf)
 
-###### Art. 2.º A distribuição por comandos do quadro referido no artigo anterior, já com as alterações nela introduzidas, é a constante do mapa anexo ao presente diploma.
+Art. 2.º A distribuição por comandos do quadro referido no artigo anterior, já com as alterações nela introduzidas, é a constante do mapa anexo ao presente diploma.
 
-###### Art. 3.º No quadro referido nos números anteriores são extintos 35 lugares de escriturário-dactilógrafo (principal, de 1.ª classe ou de 2.ª classe).
+Art. 3.º No quadro referido nos números anteriores são extintos 35 lugares de escriturário-dactilógrafo (principal, de 1.ª classe ou de 2.ª classe).
 
-###### Art. 4.º O presente diploma entra em vigor na data da sua publicação.
+Art. 4.º O presente diploma entra em vigor na data da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - José Ângelo Ferreira Correia - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Abril de 1983.**
+Promulgado em 8 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Abril de 1983.**
+Referendado em 19 de Abril de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa a que se refere o artigo 2.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09700/15071507.pdf)

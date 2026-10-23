@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/161-1976-500919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4061a9baae03b7dc7bc276187f7e6e7b0be3d2af39a6ba6688b73093922d8669
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10995b23e03daa8577cfeddd1a9a5cf48a078cd0732876e65a907817ad55044a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Portuária
+- Junta Autónoma do Porto de Setúbal
+- Prestação de Serviços
+- Regulamento
+- Tarifa Portuária
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:383630:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383630:por
+  label: "Alterado o art. 64º do Regulamento da Junta Autónoma do Porto de Setúbal aprovado pela Port 15594 de 03-Nov de 1955,\
+    \ com a redacção conferida no presente diploma, pela PORT.102/79.02.03.1979.MTC, DR.IS [51] de 02.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-1979-383630
+  date: '1979-03-02'
+- type: cites
+  target: pt:dre:283908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:57:51Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +122,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 49.º Pela ocupação temporária, a descoberto, das obras fluviais ou marítimas e terraplenos da Junta com mercadorias classificadas como carga geral cobra-se por cada metro quadrado:
+Art. 49.º Pela ocupação temporária, a descoberto, das obras fluviais ou marítimas e terraplenos da Junta com mercadorias classificadas como carga geral cobra-se por cada metro quadrado:
 
 a) Por cada período de vinte e quatro horas, nos primeiros 10 períodos - $10;
 
@@ -106,7 +130,7 @@ b) Por cada período de vinte e quatro horas, a partir do 10.º período e até 
 
 c) Por cada período de vinte e quatro horas, a partir do 30.º período - $60.
 
-###### Art. 50.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral cobra-se por metro cúbico ou tonelada de mercadoria:
+Art. 50.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral cobra-se por metro cúbico ou tonelada de mercadoria:
 
 a) Por cada período de vinte e quatro horas, nos primeiros 10 períodos - $25;
 
@@ -122,7 +146,7 @@ c) Por cada período de vinte e quatro horas, a partir do 30.º período - 1$50.
 
 ...
 
-###### Art. 64.º Pela ocupação de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas, por hora ou fracção:
+Art. 64.º Pela ocupação de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas, por hora ou fracção:
 
 a) Guindastes:
 
@@ -178,7 +202,7 @@ b) Fora das horas normais de serviço - 75$00.
 
 ### CAPÍTULO II — Utilização de rebocadores e outro material flutuante
 
-###### Art. 66.º Pela utilização de rebocadores e outro material flutuante, desde a saída do fundeadouro, ou desde a hora para que tivessem sido requisitados, até ao regresso ao mesmo fundeadouro são cobradas, nos dias úteis, as seguintes taxas:
+Art. 66.º Pela utilização de rebocadores e outro material flutuante, desde a saída do fundeadouro, ou desde a hora para que tivessem sido requisitados, até ao regresso ao mesmo fundeadouro são cobradas, nos dias úteis, as seguintes taxas:
 
 a) Lancha-rebocador Esguelha - por hora, dentro do horário normal de serviço:
 
@@ -206,7 +230,7 @@ Por cada período de vinte e quatro horas - 400$00.
 
 ### CAPÍTULO IV — Básculas e balanças
 
-###### Art. 71.º Pela utilização das básculas da Junta cobram-se as seguintes taxas:
+Art. 71.º Pela utilização das básculas da Junta cobram-se as seguintes taxas:
 
 a) Por cada pesagem de veículo de tracção animal - 2$50;
 
@@ -214,17 +238,17 @@ b) Por cada pesagem de veículo ligeiro (até 3500 kg) - 5$00;
 
 c) Por cada pesagem de camioneta ou camião - 10$00.
 
-###### Art. 72.º Pela utilização das balanças da Junta cobra-se, por cada pesagem, a taxa de 1$50.
+Art. 72.º Pela utilização das balanças da Junta cobra-se, por cada pesagem, a taxa de 1$50.
 
 ...
 
 ### CAPÍTULO IX — Utilização do edifício da lota
 
-###### Art. 82.º Pela utilização dos armazéns do edifício da lota cobra-se:
+Art. 82.º Pela utilização dos armazéns do edifício da lota cobra-se:
 
 Por mês e por armazém - 500$00.
 
-###### Art. 83.º Pela utilização das mesmas da lota comercial cobra-se:
+Art. 83.º Pela utilização das mesmas da lota comercial cobra-se:
 
 Por cada venda de peixe - 2$50.
 
@@ -234,7 +258,7 @@ Por cada venda de peixe - 2$50.
 
 ### CAPÍTULO I — Fornecimento de água
 
-###### Art. 85.º Pelo fornecimento de água potável às embarcações, por intermédio das tomadas existentes nos cais da Junta, cobra-se, por cada metro cúbico, 10$00.
+Art. 85.º Pelo fornecimento de água potável às embarcações, por intermédio das tomadas existentes nos cais da Junta, cobra-se, por cada metro cúbico, 10$00.
 
 § 1.º Fora das horas normais de serviço ou aos domingos e dias feriados, o fornecimento de água às embarcações só será efectuado mediante prévio aviso dos interessados.
 
@@ -248,7 +272,7 @@ b) Aos domingos e dias feriados:
 
 Por períodos mínimos de quatro horas.
 
-###### Art. 86.º Pelo fornecimento de água potável nos terraplenos do porto cobra-se:
+Art. 86.º Pelo fornecimento de água potável nos terraplenos do porto cobra-se:
 
 Por metro cúbico - 6$50.
 
@@ -256,13 +280,13 @@ Por metro cúbico - 6$50.
 
 ### CAPÍTULO IV — Fornecimento de pessoal
 
-###### Art. 93.º Em todos os casos de fornecimento de pessoal ou de serviços a executar por pessoal da Junta, de conta de outras entidades oficiais ou particulares, compete ao director dos portos resolver sobre o pessoal a empregar, condições do seu trabalho e tabelas a utilizar, sendo estas fixadas em função da categoria e salários do pessoal utilizado e dos encargos de carácter social.
+Art. 93.º Em todos os casos de fornecimento de pessoal ou de serviços a executar por pessoal da Junta, de conta de outras entidades oficiais ou particulares, compete ao director dos portos resolver sobre o pessoal a empregar, condições do seu trabalho e tabelas a utilizar, sendo estas fixadas em função da categoria e salários do pessoal utilizado e dos encargos de carácter social.
 
 ...
 
 ## TÍTULO VII — Aluguer de material
 
-###### Art. 94.º Pela utilização de material da Junta cobra-se, por períodos de vinte e quatro horas indivisíveis, as seguintes taxas:
+Art. 94.º Pela utilização de material da Junta cobra-se, por períodos de vinte e quatro horas indivisíveis, as seguintes taxas:
 
 Spreader para contentores de 20 pés - 150$00.
 
@@ -286,7 +310,7 @@ Jogos de patolas, cada uma - 20$00.
 
 ## TÍTULO VIII — Licenças
 
-###### Art. 116.º Compete à Junta, nos termos legais, licenciar os actos a praticar na área da sua jurisdição, referidos nos n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho.
+Art. 116.º Compete à Junta, nos termos legais, licenciar os actos a praticar na área da sua jurisdição, referidos nos n.os 1, 2, 5, 7, 8, 11, 12, 17, 19, 20 e 24 da alínea ss) do n.º 1 do artigo 10.º do Regulamento Geral das Capitanias, aprovado pelo [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho.
 
 § 1.º Até à revisão do Regulamento Geral das Capitanias, as actividades indicadas sob o n.º 20 da alínea ss) referidas neste artigo, quando requeridas para praias de banhos, serão licenciadas pelas autoridades marítimas, sob parecer das autoridades portuárias.
 

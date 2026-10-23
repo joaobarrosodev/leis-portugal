@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 225/1998, 1º Suplemento, Série I-A de 1998-09-29
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4992-(2) a 4992-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/225a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299-a/1998/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-a-1998-349917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f232beb726d7ea7183bdb3844d98e680c595fbf72888f08c4e4866765c33dd97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce407365c582168fde763b87b89434e6ee95a58085f748ad5ac5174cfb5e54e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,7 +66,6 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Bolsa de Valores
 - Brisa
 - Capital Social
@@ -74,6 +73,7 @@ subjects:
 - OPV
 - Partest
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/253/1997/09/26/p/dre
@@ -95,16 +95,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/65/1997/04/21/p/dre
+- type: cites
+  target: pt:dre:214559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685660:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:32Z'
   warnings: []
   errors: []
 ---
@@ -301,12 +329,12 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 18 de Setembro de 1998.**
+Promulgado em 18 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1998.**
+Referendado em 24 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

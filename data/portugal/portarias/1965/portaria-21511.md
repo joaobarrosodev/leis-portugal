@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21511-1965-509631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b401c082a765176c808f313aae6de661098d0e8867de4216da450bfe73bf7dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac958147df77616791eb9634eb198d4e8256f15a3e257f9dc50bbe1c07d74cc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559176:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:34Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Dando cumprimento ao disposto no n.º 2 da [Portaria n.º 18369](https://diariod
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, aprovar e pôr em execução desde a presente data a seguinte tabela de vencimentos de retribuição mensal ao pessoal civil contratado da Força Aérea nela designado em serviço nas províncias de Angola e Moçambique:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/09/20200/11831184.pdf))](https://files.diariodarepublica.pt/1s/1965/09/20200/11831184.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/09/20200/11831184.pdf)
 
 Secretaria de Estado da Aeronáutica, 7 de Setembro de 1965. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.
 

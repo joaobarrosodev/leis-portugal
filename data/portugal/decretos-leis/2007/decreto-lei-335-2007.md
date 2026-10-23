@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/335/2007/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2007-641686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c84120bb250acbf3ab86d65409692af62a0027bdc3b37d1fdd4fdd73f8f2b94d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f42a87d6754b82926b02e4bf715ccdf12074e530c3d5f1ba59d338e3c9f07d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Poluição Atmosférica
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Normas de Segurança
-- Equipamento de Veículo
-- Regulamento
-- Poluição Sonora
 - Normalização
+- Normas de Segurança
+- Poluição Atmosférica
+- Poluição Sonora
+- Regulamento
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:502980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642009:por
+  label: "Alterados os arts. 147º-A, 153º-B, 158º-B, 164º-B e o anexo 44, todos do Regulamento aprovado pelo Dec Lei 267-B/2000,\
+    \ de 20-Out, na redacção do presente diploma, pelo DEC LEI.345/2007.16.10.2007.MAI, DR.IS [199] de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-2007-642009
+  date: '2007-10-16'
+- type: amended_by
+  target: pt:dre:502980:por
+  label: "Dada nova redação ao anexo V do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respetivo\
+    \ Indicador de Velocidade, aprovado pelo Dec Lei 30/2002 de 16-fev, alterado pelo presente diploma, pelo DEC LEI.148/2013.24.10.2013.MECO,\
+    \ DR.IS [206] de 24.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/148-2013-502980
+  date: '2013-10-24'
+- type: amends
+  target: pt:numero:decreto-lei:30/2002
+  label: "Altera os anexos II e V (na redacção do Dec Lei 238/2003 de 03-Out) do Regulamento da Homologação de Veículos a\
+    \ Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, aprovado pelo Decreto-Lei n.º 30/2002, de 16-Fev, DR.IS-A\
+    \ [40]\0\0"
+  source: null
+  date: '2002-02-16'
 - type: cites
   target: celex:31997L0024
   label: null
@@ -99,16 +119,22 @@ relationships:
   target: celex:32006L0120
   label: null
   source: http://data.europa.eu/eli/dir/2006/120/oj
+- type: repealed_by
+  target: pt:dre:458194:por
+  label: "Revogado o Dec Lei 267-B/2000, de 20-Out, a partir de 20.07.2010, na redacção do presente diploma, pelo DEC LEI.86-A/2010.15.07.2010.MOPTC,\
+    \ DR.IS [136-Supl] de 15.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2010-458194
+  date: '2010-07-15'
 article_structure:
-  article_count: 32
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:26Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +181,9 @@ O presente decreto-lei transpõe para a ordem jurídica interna as Directivas n.
 
 6 - 'Catalisador de substituição de origem' um catalisador ou conjunto de catalisadores cujo tipo está indicado no n.º 4-A do anexo 44, mas apresentado no mercado pelo titular da homologação do veículo como unidade técnica.
 
-###### Artigo 154.º — [...]
+Artigo 154.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +207,9 @@ O presente decreto-lei transpõe para a ordem jurídica interna as Directivas n.
 
 11 - 'Catalisador de substituição de origem' um catalisador ou conjunto de catalisadores cujo tipo está indicado no n.º 4-A do anexo 44, mas apresentado no mercado pelo titular da homologação do veículo como unidade técnica.
 
-###### Artigo 186.º — [...]
+Artigo 186.º
+
+[...]
 
 1 - ...
 
@@ -203,7 +233,9 @@ O presente decreto-lei transpõe para a ordem jurídica interna as Directivas n.
 
 11 - ...
 
-###### Artigo 190.º — [...]
+Artigo 190.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +253,9 @@ c) As peças e componentes citados na alínea a) são os seguintes: silencioso d
 
 5 - ...
 
-###### Artigo 337.º — [...]
+Artigo 337.º
+
+[...]
 
 1 - ...
 
@@ -249,13 +283,17 @@ Diagrama e marcações
 
 2 - Todos os catalisadores de origem devem ostentar a marca 'e' seguida da indicação do país de homologação, devendo essa marca ser bem legível e indelével e igualmente visível na posição de montagem prevista.
 
-###### Artigo 153.º-A — Catalisadores de substituição e catalisadores de substituição de origem
+Artigo 153.º-A
+
+Catalisadores de substituição e catalisadores de substituição de origem
 
 1 - Os catalisadores de substituição destinados a equipar veículos homologados de acordo com o presente capítulo devem ser ensaiados de acordo com a secção iii-A do presente capítulo.
 
 2 - Os catalisadores de substituição de origem, do tipo indicado no n.º 4-A do anexo n.º 44 e que se destinam a equipar veículos abrangidos pelo documento de homologação pertinente, não precisam de estar conformes com a secção iii-A do presente capítulo, desde que cumpram o disposto nos artigos 153.º-B e 153.º-C infra.
 
-###### Artigo 153.º-B — Marcação
+Artigo 153.º-B
+
+Marcação
 
 Os catalisadores de substituição de origem devem incluir, pelo menos, as seguintes indicações:
 
@@ -263,7 +301,9 @@ a) A denominação ou marca comercial do fabricante do veículo;
 
 b) A marca e o número de identificação da peça.
 
-###### Artigo 153.º-C — Documentação
+Artigo 153.º-C
+
+Documentação
 
 Os catalisadores de substituição de origem devem ser acompanhados pelas seguintes informações:
 
@@ -277,19 +317,25 @@ d) Instruções de instalação, sempre que necessário;
 
 e) As informações constantes do presente artigo devem ser fornecidas ou sob a forma de um folheto que acompanha o catalisador de substituição de origem, ou na embalagem em que o catalisador de substituição de origem é vendido, ou de qualquer outra forma aplicável.
 
-###### Artigo 158.º-B — Diagrama e marcações
+Artigo 158.º-B
+
+Diagrama e marcações
 
 1 - Devem ser anexados ao documento referido no n.º 1 do anexo n.º 44 do presente Regulamento, um diagrama e um desenho em corte com as dimensões do ou dos catalisadores de origem, se aplicável.
 
 2 - Todos os catalisadores de origem devem ostentar a marca 'e' seguida da indicação do país de homologação, devendo essa marca ser bem legível e indelével e igualmente visível na posição de montagem prevista.
 
-###### Artigo 164.º-A — Catalisadores de substituição e catalisadores de substituição de origem
+Artigo 164.º-A
+
+Catalisadores de substituição e catalisadores de substituição de origem
 
 1 - Os catalisadores de substituição destinados a equipar veículos homologados de acordo com o presente capítulo devem ser ensaiados de acordo com a secção iii-A do presente capítulo.
 
 2 - Os catalisadores de substituição de origem, do tipo indicado no n.º 4-A do anexo n.º 44 e que se destinam a equipar veículos abrangidos pelo documento de homologação pertinente, não precisam de estar conformes com a referida secção iii-A, desde que cumpram o disposto nos artigos 164.º-B e 164.º-C infra.
 
-###### Artigo 164.º-B — Marcação
+Artigo 164.º-B
+
+Marcação
 
 Os catalisadores de substituição de origem devem incluir, pelo menos, as seguintes indicações:
 
@@ -297,7 +343,9 @@ a) A denominação ou marca comercial do fabricante do veículo;
 
 b) A marca e o número de identificação da peça.
 
-###### Artigo 164.º-C — Documentação
+Artigo 164.º-C
+
+Documentação
 
 Os catalisadores de substituição de origem devem ser acompanhados pelas seguintes informações:
 
@@ -311,11 +359,15 @@ d) Instruções de instalação, sempre que necessário;
 
 e) As informações constantes do presente artigo devem ser fornecidas ou sob a forma de um folheto que acompanha o catalisador de substituição de origem, ou na embalagem em que o catalisador de substituição de origem é vendido, ou de qualquer outra forma aplicável.
 
-###### Artigo 169.º-A — Âmbito de aplicação
+Artigo 169.º-A
+
+Âmbito de aplicação
 
 A presente secção aplica-se à homologação, enquanto unidades técnicas na acepção do disposto no n.º 5 do artigo 3.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, na sua última redacção, de catalisadores a instalar, como peças de substituição, em um ou mais modelos de veículos a motor de duas ou três rodas.
 
-###### Artigo 169.º-B — Definições
+Artigo 169.º-B
+
+Definições
 
 Para efeitos do disposto na presente secção, entende-se por:
 
@@ -351,7 +403,9 @@ ii) As características do motor e do veículo a motor de duas ou três rodas de
 
 f) 'Gases poluentes' o monóxido de carbono, os hidrocarbonetos e os óxidos de azoto, sendo estes últimos expressos em equivalente de dióxido de azoto (NO2).
 
-###### Artigo 169.º-C — Pedido de homologação
+Artigo 169.º-C
+
+Pedido de homologação
 
 1 - O pedido de homologação de um tipo de catalisador de substituição enquanto unidade técnica deve ser apresentado pelo fabricante do sistema ou pelo seu mandatário.
 
@@ -379,7 +433,9 @@ iii) O ou os veículos de ensaio devem ser afinados correctamente e regulados pa
 
 b) Uma amostra do tipo de catalisador de substituição, devendo essa amostra ser marcada clara e indelevelmente com a firma ou marca do requerente e a sua designação comercial.
 
-###### Artigo 169.º-D — Concessão da homologação
+Artigo 169.º-D
+
+Concessão da homologação
 
 1 - Após as verificações prescritas na presente secção, a autoridade competente deve elaborar um certificado com base no modelo constante do n.º 2 do anexo n.º 44-A do presente Regulamento.
 
@@ -387,7 +443,9 @@ b) Uma amostra do tipo de catalisador de substituição, devendo essa amostra se
 
 3 - O mesmo número de homologação pode abranger a utilização desse tipo de catalisador de substituição em vários modelos diferentes de veículos.
 
-###### Artigo 169.º-E — Prescrição de marcação
+Artigo 169.º-E
+
+Prescrição de marcação
 
 1 - Os catalisadores de substituição conformes com um tipo homologado enquanto unidade técnica com base no presente Regulamento, com excepção das peças de fixação e dos tubos, devem ostentar uma marca de homologação em conformidade com as prescrições referidas no artigo 12.º do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, aprovado pelo Decreto-Lei n.º 30/2002, de 16 de Fevereiro, com a redacção conferida pelos Decretos-Leis n.os 238/2003, de 3 de Outubro, e 14/2005, de 10 de Janeiro, completadas com as informações suplementares referidas no artigo seguinte.
 
@@ -395,7 +453,9 @@ b) Uma amostra do tipo de catalisador de substituição, devendo essa amostra se
 
 3 - As dimensões da letra 'a' devem ser iguais ou superiores a 3 mm.
 
-###### Artigo 169.º-F — Informações suplementares contidas na marca de homologação
+Artigo 169.º-F
+
+Informações suplementares contidas na marca de homologação
 
 1 - Todos os catalisadores de substituição, excepto as peças de fixação e os tubos, devem ostentar, na marca de homologação, o número do ou dos capítulos ao abrigo do qual ou dos quais foi concedida a homologação.
 
@@ -405,7 +465,9 @@ b) Uma amostra do tipo de catalisador de substituição, devendo essa amostra se
 
 4 - No n.º 3 do anexo n.º 44-A do presente Regulamento constam exemplos de marcas de homologação.
 
-###### Artigo 169.º-G — Prescrições gerais
+Artigo 169.º-G
+
+Prescrições gerais
 
 O catalisador de substituição deve ser concebido, construído e estar apto a ser montado de forma que:
 
@@ -429,7 +491,9 @@ i) Se o catalisador de origem incluir uma protecção térmica, o catalisador de
 
 j) Se existir uma sonda de oxigénio e outros sensores instalados de origem na linha de escape, a instalação do catalisador de substituição deve ser efectuada na posição exacta do catalisador de origem e a posição da ou das sondas de oxigénio e de outros sensores na linha de escape não deve ser modificada.
 
-###### Artigo 169.º-H — Prescrições relativas às emissões
+Artigo 169.º-H
+
+Prescrições relativas às emissões
 
 1 - O veículo referido na alínea a) n.º 4 do artigo 169.º-C, equipado com um catalisador de substituição do tipo para o qual é pedida homologação, deve ser sujeito aos ensaios previstos nos anexos n.os33, 35, 36, 37, 39 e 41, consoante a homologação do veículo.
 
@@ -437,11 +501,15 @@ j) Se existir uma sonda de oxigénio e outros sensores instalados de origem na l
 
 3 - No caso de ser solicitada a homologação para diferentes modelos de veículos do mesmo fabricante, e desde que esses diferentes modelos de veículos estejam equipados com o mesmo tipo de catalisador de origem, o ensaio do tipo i pode ser limitado a, pelo menos, dois veículos seleccionados após acordo com o serviço técnico responsável pela homologação.
 
-###### Artigo 169.º-I — Prescrições relativas aos níveis sonoros admissíveis
+Artigo 169.º-I
+
+Prescrições relativas aos níveis sonoros admissíveis
 
 O veículo referido na alínea a) n.º 4 do artigo 169.º-C, equipado com um catalisador de substituição do tipo para o qual é pedida homologação, deve cumprir as prescrições constantes do capítulo x, consoante a homologação do veículo, devendo os resultados do ensaio do veículo em movimento e do ensaio com o veículo imobilizado ser mencionados no relatório de ensaio.
 
-###### Artigo 169.º-J — Verificação do desempenho do veículo
+Artigo 169.º-J
+
+Verificação do desempenho do veículo
 
 1 - O catalisador de substituição deve poder assegurar um desempenho do veículo comparável ao que é obtido com o catalisador de origem.
 
@@ -449,7 +517,9 @@ O veículo referido na alínea a) n.º 4 do artigo 169.º-C, equipado com um cat
 
 3 - A verificação referida no presente artigo deve efectuar-se através da medição da curva de potência do motor, não devendo a potência máxima efectiva e a velocidade máxima medidas com o catalisador de substituição, desviar-se em mais de (mais ou menos) 5 % da potência máxima efectiva e da velocidade máxima medidas nas mesmas condições com o catalisador de origem.
 
-###### Artigo 169.º-L — Conformidade da produção
+Artigo 169.º-L
+
+Conformidade da produção
 
 1 - Para o controlo da conformidade da produção, devem aplicar-se as disposições constantes do anexo vi do Regulamento da Homologação de Veículos a Motor de Duas e Três Rodas e Respectivo Indicador de Velocidade, aprovado pelo Decreto-Lei n.º 30/2002, de 16 de Fevereiro, com a redacção conferida pelos Decretos-Leis n.os 238/2003, de 3 de Outubro, e 14/2005, de 10 de Janeiro.
 
@@ -457,7 +527,9 @@ O veículo referido na alínea a) n.º 4 do artigo 169.º-C, equipado com um cat
 
 3 - Considera-se a produção conforme com o disposto na presente secção, se as prescrições referidas nos artigos 169.º-H, 169.º-I e 169.º-J forem cumpridas.
 
-###### Artigo 169.º-M — Documentação
+Artigo 169.º-M
+
+Documentação
 
 1 - Todos os catalisadores de substituição novos devem ser acompanhados pelas seguintes informações:
 
@@ -469,25 +541,33 @@ c) Instruções de instalação, sempre que necessário.
 
 2 - As informações referidas no número anterior devem ser fornecidas ou sob a forma de um folheto que acompanha o catalisador de substituição, ou na embalagem em que o catalisador de substituição é vendido, ou de qualquer outra forma aplicável.
 
-###### Artigo 282.º-A — Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
+Artigo 282.º-A
+
+Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
 
 1 - O veículo referido na alínea c) do artigo 276.º do presente Regulamento, equipado com um silencioso de substituição do tipo para o qual é pedida homologação, deve ser sujeito a um ensaio do tipo i e um ensaio do tipo ii nas condições descritas no capítulo vi, consoante a homologação do veículo.
 
 2 - Presumem-se cumpridas as prescrições relativas às emissões se os resultados se encontrarem dentro dos valores limite de acordo com a homologação do veículo.
 
-###### Artigo 307.º-A — Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
+Artigo 307.º-A
+
+Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
 
 1 - O veículo referido na alínea c) do artigo 301.º do presente Regulamento, equipado com um silencioso de substituição do tipo para o qual é pedida homologação, deve ser sujeito a um ensaio do tipo i e um ensaio do tipo ii nas condições descritas no capítulo vi, consoante a homologação do veículo.
 
 2 - Presumem-se cumpridas as prescrições relativas às emissões se os resultados se encontrarem dentro dos valores limite de acordo com a homologação do veículo.
 
-###### Artigo 333.º-A — Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
+Artigo 333.º-A
+
+Avaliação da emissão de poluentes dos veículos equipados com sistema silencioso de substituição
 
 1 - O veículo referido na alínea c) do artigo 327.º do presente Regulamento, equipado com um silencioso de substituição do tipo para o qual é pedida homologação, deve ser sujeito a um ensaio do tipo i e um ensaio do tipo ii nas condições descritas no capítulo vi, consoante a homologação do veículo.
 
 2 - Presumem-se cumpridas as prescrições relativas às emissões se os resultados se encontrarem dentro dos valores limite de acordo com a homologação do veículo.
 
-###### Artigo 339.º-A — Informações suplementares contidas na marca de homologação
+Artigo 339.º-A
+
+Informações suplementares contidas na marca de homologação
 
 1 - Sem prejuízo do disposto no n.º 4 infra, o sistema de escape não de origem ou seus componentes, excepto as peças de fixação e os tubos, devem ostentar, na marca de homologação, o número dos capítulos ao abrigo dos quais foi concedida a homologação.
 
@@ -523,15 +603,15 @@ b) Proibir a sua venda ou instalação num veículo.
 
 Visto e aprovado em Conselho de Ministros de 5 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui Carlos Pereira - Mário Lino Soares Correia.
 
-**Promulgado em 25 de Setembro de 2007.**
+Promulgado em 25 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Setembro de 2007.**
+Referendado em 26 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se referem os n.os 2 do artigo 2.º e artigo 3.º)
 
@@ -671,37 +751,39 @@ Número de homologação: ... Número da extensão: ...
 
 3 - Exemplos de marcas de homologação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela Alemanha [e1] com o n.º 1230 para um catalisador de substituição que consiste numa única peça integrando o catalisador e o sistema de escape (silencioso).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela Alemanha [e1] com o n.º 1230 para um catalisador de substituição não integrado no sistema de escape (catalisador e silencioso não integrados num único elemento).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela Alemanha [e1] com o n.º 1230 para um silencioso não de origem que não integra um catalisador (catalisador e silencioso não integrados num único elemento ou veículo não equipado com catalisador) (v. capítulo x).
 
 (***) Riscar o que não interessa.
 
-## ANEXO N.º 46-A — (a que se refere o n.º 5 do artigo 339.º-A)
+ANEXO N.º 46-A
+
+(a que se refere o n.º 5 do artigo 339.º-A)
 
 Exemplos de marcas de homologação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela França [e2] com o n.º 6789 para um sistema de escape não de origem, que consiste numa única peça integrando o silencioso e o catalisador.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela França [e2] com o n.º 6789 para um silencioso não de origem, que não integra um catalisador (catalisador e silencioso não integrados num único elemento ou veículo não equipado com catalisador).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela França [e2] com o n.º 6789 para um catalisador de substituição não integrado no sistema de escape (catalisador e silencioso não integrados num único elemento) (v. capítulo vi).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf))](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/19600/0725407263.pdf)
 
 A marca de homologação representada acima foi emitida pela França [e2] com o n.º 6789 para um sistema de escape não de origem, que consiste numa única peça (silencioso) destinado a ser instalado em veículos não homologados de acordo com o capítulo vi.»
 
@@ -849,11 +931,15 @@ A)...
 
 Quatro secções para as homologações de veículos, e cinco secções para as homologações de sistemas, componentes e unidades técnicas, de acordo com as disposições a seguir. Em todos os casos, as secções devem ser separadas por um asterisco '*':
 
-#### Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda; 49 para Chipre e 50 para Malta.
+Secção 1: a letra minúscula 'e' seguida do código (número) do Estado membro que emite a homologação: 1 para a Alemanha; 2 para a França; 3 para a Itália; 4 para os Países Baixos; 5 para a Suécia; 6 para a Bélgica; 9 para a Espanha; 11 para o Reino Unido; 12 para a Áustria; 13 para o Luxemburgo; 17 para a Finlândia; 18 para a Dinamarca; 21 para Portugal; 23 para a Grécia; 24 para a Irlanda; 49 para Chipre e 50 para Malta.
 
-#### Secção 2: [...] — Secção 3: [...]
+Secção 2: [...]
 
-#### Secção 4: [...] — Secção 5:[...]
+Secção 3: [...]
+
+Secção 4: [...]
+
+Secção 5:[...]
 
 2 - ...
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2014/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2014-571913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37bb222468674a4d0bd58a62500762200cdbb741befdeb2c8465aed03451d63f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8647a7225abcacf091f93a282d3e9882eee5e7a7550717e89a790a9904a794
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,22 +70,42 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Carta de Condução
-- Exame de Condução
-- Transporte Terrestre
+- Condutor
 - Definição de Competências
 - Ensino de Condução
 - Especificação Técnica
+- Exame de Condução
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
-- Segurança Rodoviária
-- Condutor
 - Regulamento da Habilitação Legal para Conduzir
+- Segurança Rodoviária
+- Transporte Terrestre
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:150757538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75060359:por
+  label: 'Alterados os arts. 9.º e 10.º, aditado o art. 14.º-A e revogado o n.º 5 do art. 10.º do Dec. Lei 138/2012 de 05-jul,
+    bem como alterados os arts. 7.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º, 26.º, 37.º, 44.º e 61.º e os anexos I, V, VI
+    e VII, e revogados a al. e) do n.º 1 do art. 62.º, os pontos 01.03, 01.04, 02.01, 02.02, 05 a 05.08, 10.01, 10.03, 10.05,
+    20.02, 20.08, 20.10, 20.11, 25.02, 25.07, 30 a 30.11, 35.01, 40.02, 40.03, 40.04, 40.07, 40.08, 40.10, 40.12, 40.13, 42.02,
+    42.04, 42.06, 43.05, 44.05 a 44.07, 51 e 90 a 90.07: da secção B do anexo I e os pontos 1.2.1, 1.2.2, 1.3.3, 1.8 a 1.8.3,
+    12.1, 12.1.1, 12.2, 12.2.1, 12.3 e 12.3.1 do anexo V, todos do Regulamento da Habilitação Legal para Conduzir aprovado
+    em anexo ao citado diploma na versão republicada do Regulamento pelo presente diploma, pelo(a) Decreto-Lei n.º 40/2016
+    - Diário da República n.º 145/2016, Série I de 2016-07-29, nos termos dos seus arts. 7.º e 10.º, que procede à republicação
+    do Regulamento com a redação atual'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2016-75060359
+  date: '2016-07-29'
+- type: amended_by
+  target: pt:dre:114315241:por
+  label: Alterados os arts. 3.º, 10.º, 18.º, 20.º e 25.º bem como os anexos I, IV e V do Regulamento da Habilitação Legal
+    para Conduzir aprovado em anexo ao Dec Lei 138/2012, de 05-jul, na redação do presente diploma pelo(a) Decreto-Lei n.º
+    151/2017 - Diário da República n.º 235/2017, Série I de 2017-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2017-114315241
+  date: '2017-12-07'
 - type: cites
   target: celex:31985R3821
   label: null
@@ -124,14 +144,14 @@ relationships:
   source: http://data.dre.pt/eli/dec-lei/138/2012/07/05/p/dre
 article_structure:
   article_count: 113
-  section_count: 75
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 89
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:12Z'
   warnings: []
   errors: []
 ---
@@ -1028,15 +1048,15 @@ A alteração ao artigo 61.º e aos anexos I e VII ao Regulamento da Habilitaç�
 
 Visto e aprovado em Conselho de Ministros de 26 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima.
 
-**Promulgado em 21 de fevereiro de 2014.**
+Promulgado em 21 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de fevereiro de 2014.**
+Referendado em 25 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -1048,7 +1068,7 @@ Visto e aprovado em Conselho de Ministros de 26 de dezembro de 2013. - Pedro Pas
 
 [...]
 
-#### SECÇÃO A
+SECÇÃO A
 
 1 - [...].
 
@@ -1122,7 +1142,7 @@ d) [...];
 
 e) A menção «modelo da União Europeia» em português e a menção «carta de condução» nas restantes línguas da Comunidade, impressas em cor-de-rosa a fim de constituir a trama de fundo da carta e ainda de forma ténue o escudo português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 f ) [...];
 
@@ -1134,13 +1154,17 @@ b) [...];
 
 c) [...].
 
-#### SECÇÃO B — [...]
+SECÇÃO B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[...]
 
-#### SECÇÃO C — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
-#### SECÇÃO D
+SECÇÃO C
+
+[...]
+
+SECÇÃO D
 
 [...]»
 
@@ -1162,11 +1186,11 @@ Versão B
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO III — [...]
 
@@ -1198,7 +1222,7 @@ Página 2
 
 #### SECÇÃO B — [...]
 
-#### SECÇÃO C — [([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+#### SECÇÃO C — [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO IV — [...]
 
@@ -1206,7 +1230,7 @@ Página 2
 
 #### SECÇÃO A — [...]
 
-# PARTE A
+## PARTE A
 
 1 - [...] .
 
@@ -1230,19 +1254,19 @@ b) [...];
 
 c) [...].
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO B — [...]
 
-# PARTE A
+## PARTE A
 
 1 - [...]..
 
@@ -1262,19 +1286,19 @@ A página 2 contém:
 
 [...].
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO C — [...]
 
-# PARTE A
+## PARTE A
 
 1 - [...].
 
@@ -1298,15 +1322,15 @@ A página 2 contém:
 
 [...]
 
-# PARTE B — [...]
+## PARTE B — [...]
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO V — [...]
 
@@ -1446,7 +1470,7 @@ b) [...].
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 QUADRO II
 
@@ -1476,7 +1500,7 @@ f ) [...].
 
 ## ANEXO VII — [...]
 
-# PARTE I — [...]
+## PARTE I — [...]
 
 #### SECÇÃO I — [...]
 
@@ -1662,7 +1686,7 @@ III - [...]
 
 IV - [...]
 
-# PARTE II — [...]
+## PARTE II — [...]
 
 #### SECÇÃO I — [...]
 
@@ -1876,7 +1900,7 @@ Conjunto compostos por um veículo da categoria B e reboque de massa máxima aut
 
 3.9 - Técnicas de condução defensiva.
 
-# PARTE III — [...]
+## PARTE III — [...]
 
 #### SECÇÃO I — [...]
 
@@ -3374,7 +3398,7 @@ d) Número de controlo;
 
 e) A menção «modelo da União Europeia» em português e a menção «carta de condução» nas restantes línguas da Comunidade, impressas em cor-de-rosa a fim de constituir a trama de fundo da carta e ainda de forma ténue o escudo português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 f) As cores de referência são o azul pantone reflex blue e o amarelo pantone yellow.
 
@@ -3400,7 +3424,7 @@ c) É reservado um espaço no modelo da carta de condução da União Europeia q
 
 #### SECÇÃO B — Códigos harmonizados da União Europeia e códigos nacionais de restrições e adaptações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO C — Dígitos identificadores dos serviços emissores de cartas de condução que precedem o número
 
@@ -3452,11 +3476,11 @@ Funchal - M.
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 1. Apelidos 2. Nome próprio 3. Data e local de nascimento 4a. Data de emissão 4b. Data de validade 4c. Entidade emissora 5. Número da carta de condução 10. Data de emissão 11. Data de validade 12. Códigos
 
@@ -3516,11 +3540,11 @@ Versão A
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Versão B
 
@@ -3528,11 +3552,11 @@ Versão B
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 8.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -3566,7 +3590,7 @@ Disposições relativas à licença internacional de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Esta página contém as menções específicas numeradas da seguinte forma:
 
@@ -3580,7 +3604,7 @@ Página 2
 
 Verso da página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Esta página contém a seguinte menção específica:
 
@@ -3588,11 +3612,11 @@ Esta página contém a seguinte menção específica:
 
 Página 2 - Página da esquerda.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página da direita
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Estas páginas contêm as menções específicas numeradas da seguinte forma:
 
@@ -3612,7 +3636,7 @@ Estas páginas contêm as menções específicas numeradas da seguinte forma:
 
 Selo ou carimbo da entidade que retirou o direito de conduzir no seu território.
 
-#### SECÇÃO C — [([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+#### SECÇÃO C — [(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO IV — (a que se referem os artigos 10.º a 12.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -3620,7 +3644,7 @@ Disposições relativas às licenças e autorizações especiais de condução
 
 #### SECÇÃO A — Licença especial de condução de ciclomotores
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de licença especial de condução n.º 150, exclusivo da Imprensa Nacional-Casa da Moeda, S.A.
 
@@ -3656,19 +3680,19 @@ b) Validade;
 
 c) Assinatura.
 
-# PARTE B — Modelo da licença especial de condução de ciclomotores
+## PARTE B — Modelo da licença especial de condução de ciclomotores
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO B — Licença especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de licença especial de condução n.º 151, exclusivo da Imprensa Nacional-Casa da Moeda, S.A.
 
@@ -3708,19 +3732,19 @@ Restrições;
 
 A menção «Esta licença só é válida em Portugal e deve ser exibida com o título de condução estrangeiro» impressa em carateres maiúsculos.
 
-# PARTE B — Modelo da licença especial de condução
+## PARTE B — Modelo da licença especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO C — Autorização especial de condução
 
-# PARTE A
+## PARTE A
 
 1 - É aprovado o modelo de autorização especial de condução n.º 153, exclusivo do Instituto da Mobilidade e dos Transportes, I.P.
 
@@ -3770,15 +3794,15 @@ Validade;
 
 Restrições.
 
-# PARTE B — Modelo da autorização especial de condução
+## PARTE B — Modelo da autorização especial de condução
 
 Página 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 Página 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 ## ANEXO V — (a que se refere o artigo 23.º do Regulamento da Habilitação Legal para Conduzir)
 
@@ -4054,11 +4078,11 @@ Normas mínimas relativas à aptidão psicológica para a condução de um veíc
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf))](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/05200/0191701984.pdf)
 
 #### SECÇÃO II — Metodologia de aplicação
 
@@ -4108,7 +4132,7 @@ g) Comportamentos que revelem a tendência para abusar de substâncias psicotró
 
 ## ANEXO VII — (a que se refere o n.º 2 do artigo 35.º do Regulamento da Habilitação Legal para Conduzir)
 
-# PARTE I — Prova teórica
+## PARTE I — Prova teórica
 
 #### SECÇÃO I — Categoria AM
 
@@ -5106,7 +5130,7 @@ IV - Específicas para as categorias D1 e D
 
 3.2 Utilização e manutenção diária dos sistemas em conjuntos de automóveis pesados de passageiros.
 
-# PARTE II — Prova prática
+## PARTE II — Prova prática
 
 #### SECÇÃO I — Categorias AM
 
@@ -6088,7 +6112,7 @@ Conjunto compostos por um veículo da categoria B e reboque de massa máxima aut
 
 3.9 - Técnicas de condução defensiva.
 
-# PARTE III — Veículos de exame
+## PARTE III — Veículos de exame
 
 #### SECÇÃO I — Equipamento
 

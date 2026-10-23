@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2008/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ec960de5415cae4d39eec1f5211cb35da5db5efa9dd4b0d5902a9a9d483e448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 439edf6cef47f71b9514232ac548210a0c84ec068cb20c1a213ba35201dbdd40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Região Autónoma
-- Embarcação
-- Multa
-- Instituto Portuário e dos Transportes Marítimos
+- ASAE
+- Combustível
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
 - Definição de Competências
-- Produto Petrolífero
+- Direção Geral de Energia e Geologia
+- Embarcação
 - Enxofre
-- Combustível
 - Fiscalização
 - Fuelóleo
-- Direção Geral de Energia e Geologia
 - Gasóleo
-- Comissão de Coordenação e Desenvolvimento Regional
-- ASAE
+- Instituto Portuário e dos Transportes Marítimos
 - Ministério da Economia e da Inovação
+- Multa
+- Produto Petrolífero
 - Proteção do Ambiente
-- Agência Portuguesa do Ambiente
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:58815311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306625:por
+  label: "Alterados os arts. 2º, 4º-B e 6º do Dec Lei 281/2000, de 10-Nov, na redacção e republicado pelo presente diploma,\
+    \ pelo DEC LEI.142/2010.31.12.2010.MEID, DR.IS [253] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2010-306625
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:58815311:por
+  label: Dada nova redação aos arts. 1.º, 2.º, 3.º, 4.º, 4.º-A, 4.º-B, 4.º-C, 5.º, 6.º, 7.º, 9.º, 10.º e 11.º; aditados os
+    arts. 3.º-A, 4.º-D, 4.º-E e 4.º-F, bem como os anexos II e III; e revogados o n.º 6 do art. 3.º, o n.º 2 do art. 8.º,
+    a al. b) do n.º 1 do art. 10.º e o n.º 1 do art. 13.º todos do Dec Lei 281/2000 de 10-nov, alterado e republicado pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07,
+    que novamente procedeu à sua republicação, com a redação atual, onde para aqueles efeitos se lê «IPTM, I.P.», «Agência
+    Portuguesa do Ambiente» e «APA», deve ler-se, respetivamente, «DGRM», «Agência Portuguesa do Ambiente, I.P.» e «APA,I.P.»
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-b-2014-58815311
+  date: '2014-11-07'
 - type: cites
   target: celex:31982L0714
   label: null
@@ -108,15 +124,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2005/33/oj
 article_structure:
-  article_count: 34
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:22Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +185,9 @@ g) Aos combustíveis cuja utilização num navio seja necessária em virtude de 
 
 h) Aos combustíveis utilizados a bordo de navios que empreguem tecnologias aprovadas de redução de emissões, em conformidade com o artigo 4.º-C.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 -...
 
@@ -239,7 +257,9 @@ a) O combustível para motores diesel, tal como definido na alínea b) do artigo
 
 b)...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 -...
 
@@ -265,7 +285,9 @@ d) Para combustão em refinarias, na condição de a média mensal global das em
 
 6 - O disposto no n.º 4 é reapreciado e, se necessário, revisto em função das alterações que venham a ser introduzidas na legislação.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 -...
 
@@ -273,7 +295,9 @@ d) Para combustão em refinarias, na condição de a média mensal global das em
 
 3 - A partir de 1 de Janeiro de 2010, o gasóleo naval passa a obedecer às disposições previstas no n.º 4 do artigo 4.º-B.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A verificação de que o teor de enxofre dos combustíveis utilizados satisfaz o disposto nos artigos 3.º e 4.º, a efectuar por amostragem, deve iniciar-se no prazo de seis meses a contar da data de entrada em vigor do limite pertinente para o teor de enxofre máximo do combustível em causa e ser realizado com a frequência necessária, de modo a que as amostras sejam representativas do combustível analisado, sendo a promoção da sua verificação da competência das direcções regionais do Ministério da Economia nas áreas onde são territorialmente competentes.
 
@@ -305,9 +329,13 @@ b) Método EN 24260, EN ISO 8754 e EN ISO 14596, para o gasóleo;
 
 c) Nas arbitragens é aplicado o método EN ISO 14596. A interpretação estatística dos resultados da verificação do teor de enxofre dos gasóleos utilizados é feita de acordo com a norma ISO 4259.
 
-### CAPÍTULO IV — Coordenação, fiscalização e contra-ordenações
+CAPÍTULO IV
 
-###### Artigo 7.º — Coordenação global do diploma
+Coordenação, fiscalização e contra-ordenações
+
+Artigo 7.º
+
+Coordenação global do diploma
 
 1 - As entidades com competência para fiscalizar o cumprimento do presente diploma, nomeadamente a Autoridade de Segurança Alimentar e Económica (ASAE), o IPTM, I. P., e as direcções regionais do Ministério da Economia e da Inovação devem, até ao final de Março de cada ano civil, enviar à Direcção-Geral de Energia e Geologia (DGEG) os dados informativos recolhidos nas acções de verificação do cumprimento dos limites máximos de teor de enxofre, designadamente o número de infracções detectadas.
 
@@ -325,19 +353,25 @@ d) [Anterior alínea d) do n.º 1.]
 
 4 - Os relatórios referidos no n.º 2 devem incluir o registo do número total de amostras analisadas por tipo de combustível e indicar a quantidade correspondente de combustível utilizada e o teor de enxofre médio calculado, bem como o número de vistorias efectuadas a bordo dos navios e registar o teor de enxofre médio dos combustíveis navais não abrangidos pelo presente diploma e utilizados no respectivo território.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Para efeitos do artigo anterior, a DGEG pode exigir dos agentes económicos que introduzem no consumo ou comercializem os fuelóleos pesados ou os gasóleos, incluindo gasóleos navais, informações sobre os programas e métodos de controlo utilizados para determinação das características dos produtos e cumprimento dos teores máximos de enxofre aplicáveis.
 
 2 -...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Sem prejuízo das competências próprias de outras entidades, nomeadamente das direcções regionais de economia e inovação, das comissões de coordenação e desenvolvimento regional do ambiente, da Inspecção-Geral do Ambiente e do Ordenamento do Território e do IPTM, I. P., a fiscalização do cumprimento do disposto no presente decreto-lei cabe à ASAE, ou ao IPTM, I. P., quando se tratar de combustível naval.
 
 2 - Sempre que uma entidade competente tome conhecimento de situações que indiciem a prática de uma contra-ordenação prevista no presente diploma deve dar notícia à ASAE, ou ao IPTM, I. P., quando se tratar de combustível naval, para efeito da instauração e instrução do correspondente processo de contra-ordenação e consequente decisão.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 -...
 
@@ -355,7 +389,9 @@ d) De (euro) 1250 a (euro) 30 000, a recusa da prestação de informações soli
 
 4 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelo Decreto-Lei n.º 356/89, de 17 de Outubro, pelo Decreto-Lei n.º 244/95, de 14 de Setembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A instrução dos processos de contra-ordenação compete à ASAE, ou ao IPTM, I. P., se se tratar de combustível naval, cabendo à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) e ao presidente do Conselho Directivo do IPTM, I. P., respectivamente, a aplicação das coimas e sanções acessórias.
 
@@ -423,7 +459,9 @@ j) A DGEG toma as medidas adequadas contra os comercializadores de combustível 
 
 10 - Não pode ser colocado no mercado nacional óleo diesel naval cujo teor de enxofre exceda 1,5 % em massa.
 
-###### Artigo 4.º-B — Teor de enxofre máximo nos combustíveis navais utilizados pelos navios de navegação interior e navios atracados em portos comunitários
+Artigo 4.º-B
+
+Teor de enxofre máximo nos combustíveis navais utilizados pelos navios de navegação interior e navios atracados em portos comunitários
 
 1 - A partir de 1 de Janeiro de 2010, os seguintes navios não podem utilizar combustíveis navais cujo teor de enxofre seja superior a 0,1 % em massa:
 
@@ -443,7 +481,9 @@ c) Aos navios que desliguem todas as máquinas e sejam alimentados a partir das 
 
 4 - A partir de 1 de Janeiro de 2010 não pode ser colocado no mercado nacional gasóleo naval cujo teor de enxofre seja superior a 0,1 % em massa.
 
-###### Artigo 4.º-C — Experimentação e utilização de novas tecnologias de redução de emissões
+Artigo 4.º-C
+
+Experimentação e utilização de novas tecnologias de redução de emissões
 
 1 - Podem ser aprovadas provisoriamente pelo IPTM, I. P., mediante parecer favorável do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e de um organismo reconhecido ao abrigo do Decreto-Lei n.º 321/2003, de 23 de Dezembro, experiências com tecnologias de redução de emissões, em colaboração com outros Estados membros, se for caso disso, em navios que arvorem o respectivo pavilhão ou em zonas marítimas sob a sua jurisdição.
 
@@ -547,15 +587,15 @@ São revogadas a alínea a) do n.º 1 do artigo 2.º, os n.os 2 e 3 do artigo 3.
 
 Visto e aprovado em Conselho de Ministros de 6 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa. - João Titterington Gomes Cravinho. - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 1 de Abril de 2008.**
+Promulgado em 1 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Abril de 2008.**
+Referendado em 3 de Abril de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 281/2000, de 10 de Novembro
 

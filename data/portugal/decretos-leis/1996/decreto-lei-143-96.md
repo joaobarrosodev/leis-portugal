@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/1996/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1996-401911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8684dccbaaccfad3cffd920fc13276542775eebb604a21ab4b6c6991cc478c9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20960fee4b9bb263e70545a92cffa3d503883738721d902869326c55ee61b9db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
-- Pessoal Dirigente
 - Comissão de Fiscalização
-- Gestão Financeira
 - Conselho Administrativo
-- Ministério da Educação
-- Editorial do Ministério da Educação
-- Secretaria Geral
-- Orgânica
 - Conselho Coordenador
-- Quadro de Pessoal
+- Editorial do Ministério da Educação
 - Gestão de Recursos Humanos
+- Gestão Financeira
+- Ministério da Educação
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
 - Transferência de Competências
 - Venda de Públicações
 relationships:
@@ -96,16 +96,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/727/1993/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/727/1993/08/12/p/dre
+- type: cites
+  target: pt:dre:354346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144202:por
+  label: "Revogado o art 34.º pelo DEC LEI.182/97.1997.07.25.ME DR.IS-A [170]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/182-1997-144202
+  date: '1997-07-25'
+- type: repealed_by
+  target: pt:dre:484664:por
+  label: "Revogada a al. a) do nº 2 do art. 3º, na parte que se refere ao Arquivo Histórico do Ministério da Educação; al.\
+    \ b) do nº 2 do art. 3º; al. c) do nº 1 do art. 16º, na parte que se refere ao Arquivo Histórico do Ministério da Educação;\
+    \ als. d) e e) do nº 1 do art. 16º pelo DEC LEI.206/98.1998.07.13.ME, DR.IS-A [159]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1998-484664
+  date: '1998-07-13'
+- type: repealed_by
+  target: pt:dre:432449:por
+  label: "Revogado, sem prejuízo do disposto no nº 2 do art. 35º e com excepção do seu art. 32º, pelo DEC LEI.208/2002.2002.10.17.ME,\
+    \ DR. IS-A 240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2002-432449
+  date: '2002-10-17'
 article_structure:
   article_count: 35
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:12Z'
   warnings: []
   errors: []
 ---
@@ -312,7 +346,9 @@ b) O Gabinete de Formação;
 
 c) A Repartição Financeira dos Recursos Humanos.
 
-###### Artigo 10.º — Divisão de Pessoal
+###### Artigo 10.º
+
+##### Divisão de Pessoal
 
 1 - À Divisão de Pessoal compete:
 
@@ -360,7 +396,9 @@ a) A Secção de Processamento de Abonos;
 
 b) A Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário.
 
-###### Artigo 13.º — Secção de Processamento de Abonos
+###### Artigo 13.º
+
+#### Secção de Processamento de Abonos
 
 À Secção de Processamento de Abonos compete:
 
@@ -396,7 +434,9 @@ a) A Divisão de Arquivo;
 
 b) O Centro de Documentação.
 
-###### Artigo 16.º — Divisão de Arquivo
+###### Artigo 16.º
+
+##### Divisão de Arquivo
 
 1 - À Divisão de Arquivo compete:
 
@@ -460,9 +500,13 @@ f) Utilizar, de acordo com orientações superiores, meios informáticos e das n
 
 2 - Os serviços do ME enviarão ao Centro de Informação e Relações Públicas, em termos a regulamentar por despacho do Ministro da Educação, os documentos por si produzidos.
 
-##### SUBSECÇÃO IV — Divisão de Instalações e Equipamento
+##### SUBSECÇÃO IV
 
-###### Artigo 19.º — Divisão de Instalações e Equipamento
+##### Divisão de Instalações e Equipamento
+
+###### Artigo 19.º
+
+##### Divisão de Instalações e Equipamento
 
 À Divisão de Instalações e Equipamento compete:
 
@@ -556,11 +600,15 @@ b) A Secção de Administração Financeira;
 
 c) A Secção de Economato e Património.
 
-###### Artigo 23.º — Secção de Expediente Geral
+###### Artigo 23.º
+
+#### Secção de Expediente Geral
 
 À Secção de Expediente Geral compete, em especial, proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos, bem como assegurar a expedição da correspondência a enviar pela SG.
 
-###### Artigo 24.º — Secção de Administração Financeira
+###### Artigo 24.º
+
+#### Secção de Administração Financeira
 
 À Secção de Administração Financeira compete:
 
@@ -580,7 +628,9 @@ g) Apoiar os gabinetes dos membros do Governo, comissões e estruturas de missã
 
 h) Promover a regularização dos fundos permanentes.
 
-###### Artigo 25.º — Secção de Economato e Património
+###### Artigo 25.º
+
+#### Secção de Economato e Património
 
 À Secção de Economato e Património compete:
 
@@ -724,14 +774,14 @@ d) Informações sobre o sistema educativo em suporte informático.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/197a00/26862694.pdf))](https://files.diariodarepublica.pt/1s/1996/08/197a00/26862694.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/197a00/26862694.pdf)

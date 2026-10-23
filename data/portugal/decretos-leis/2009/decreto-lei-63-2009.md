@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2009/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b3ec7694c89d97bcd0d744b30d37fe3e1e498de60247f60f8c636f1279e34f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61805b755d17ab5339309e2e68b471b82557deab34ea224b549d46596f2980c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Telefone
-- Publicidade
-- Multa
+- Comunicações
 - Contra-ordenação
 - Fiscalização
-- Instituto das Comunicações de Portugal
 - Imprensa
 - Indicativo de Acesso
-- Radiodifusão
-- Serviço FIXO de Telefone
+- Instituto das Comunicações de Portugal
+- Multa
 - Prestação de Serviços
 - Proteção do Consumidor
-- Suporte Publicitário
-- Comunicações
+- Publicidade
+- Radiodifusão
+- Serviço FIXO de Telefone
 - Serviços de Audiotexto
 - Serviços de Valor Acrescentado
+- Suporte Publicitário
 - Taxa
+- Telefone
 - Televisão
 relationships:
 - type: amended_by
   target: pt:dre:257037:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671004:por
+  label: "Alterado o art. 14º do Dec Lei 177/99, de 21-Maio, na redacção do presente diploma, pela LEI.51/2011.13.09.2011.AR,\
+    \ DR.IS [176] de 13.09.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2011-671004
+  date: '2011-09-13'
+- type: amended_by
+  target: pt:dre:257037:por
+  label: "Alterados os arts. 4º a 8º, 13º e 14º do Dec Lei 177/99, de 21-mai, na redação do presente diploma, pelo DEC LEI.8/2013.18.01.2013.MEE,\
+    \ DR.IS [13] de 18.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/8-2013-257037
+  date: '2013-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
   label: null
@@ -119,16 +131,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/95/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/95/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:01Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +229,9 @@ Objecto e âmbito
 
 3 - São serviços de valor acrescentado baseados no envio de mensagem os serviços da sociedade de informação prestados através de mensagem suportada em serviços de comunicações electrónicas que impliquem o pagamento pelo consumidor, de forma imediata ou diferida, de um valor adicional sobre o preço do serviço de comunicações electrónicas, como retribuição pela prestação do conteúdo transmitido, designadamente pelo serviço de informação, entretenimento ou outro.
 
-###### Artigo 2.º — Publicidade
+Artigo 2.º
+
+Publicidade
 
 1 - ...
 
@@ -195,7 +249,9 @@ Objecto e âmbito
 
 8 - Qualquer comunicação que, directa ou indirectamente, vise promover a prestação de serviços abrangidos pelo presente decreto-lei deve identificar de forma expressa e destacada o seu carácter de comunicação comercial, abstendo-se de, designadamente, assumir teores, formas e conteúdos que possam induzir o destinatário a concluir tratar-se de uma mensagem de natureza pessoal.
 
-###### Artigo 2.º-A — [...]
+Artigo 2.º-A
+
+[...]
 
 1 - O prestador de serviços abrangidos pelo presente decreto-lei que realize qualquer concurso através do sistema de audiotexto ou de serviços de valor acrescentado baseados no envio de mensagem deve informar o utilizador sobre todas as condições respeitantes à realização do mesmo.
 
@@ -215,17 +271,23 @@ Os artigos 1.º a 10.º e 12.º a 14.º do [Decreto-Lei n.º 177/99](https://dia
 
 O presente diploma regula o regime de acesso e de exercício da actividade de prestador de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
 2 - São serviços de valor acrescentado baseados no envio de mensagem os serviços da sociedade de informação prestados através de mensagem suportada em serviços de comunicações electrónicas que impliquem o pagamento pelo consumidor, de forma imediata ou diferida, de um valor adicional sobre o preço do serviço de comunicações electrónicas, como retribuição pela prestação do conteúdo transmitido, designadamente pelo serviço de informação, entretenimento ou outro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O exercício da actividade de prestador de serviços de audiotexto e de serviços de valor acrescentado baseados no envio de mensagem está sujeito a registo nos termos do presente decreto-lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As pessoas singulares ou colectivas que pretendam prestar serviços abrangidos pelo presente decreto-lei devem registar-se no ICP - Autoridade Nacional de Comunicações (ICP-ANACOM).
 
@@ -243,7 +305,9 @@ b) Descrição detalhada dos serviços prestados;
 
 c) Condições gerais de prestação dos serviços.
 
-###### Artigo 5.º — Início da prestação
+Artigo 5.º
+
+Início da prestação
 
 1 - ...
 
@@ -261,7 +325,9 @@ d) [Anterior alínea d).]
 
 4 - As entidades registadas devem comunicar ao ICP-ANACOM, no prazo máximo de cinco dias úteis, qualquer alteração aos elementos previamente fornecidos e mencionados no n.º 2.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Constituem direitos dos prestadores de serviços:
 
@@ -279,7 +345,9 @@ c)...
 
 d)...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os contratos a celebrar entre os prestadores de serviços abrangidos por este decreto-lei e os prestadores de serviços de suporte são obrigatoriamente reduzidos a escrito, devendo dos mesmos constar, designadamente:
 
@@ -299,7 +367,9 @@ f)...
 
 3 - A prestação do serviço de suporte não pode ser suspensa em consequência da falta de pagamento dos serviços regulados no presente decreto-lei.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O ICP-ANACOM atribui aos prestadores dos serviços abrangidos pelo presente decreto-lei diferentes indicativos de acesso de acordo com a sua natureza e conteúdo, em conformidade com a descrição detalhada do serviço a prestar constante da declaração referida na alínea a) do n.º 2 do artigo 5.º
 
@@ -313,7 +383,9 @@ c) Os serviços que se destinem à angariação de donativos sujeitos a regime f
 
 3 - ...
 
-###### Artigo 9.º — Informação de preços nos serviços de audiotexto
+Artigo 9.º
+
+Informação de preços nos serviços de audiotexto
 
 1 - ...
 
@@ -321,7 +393,9 @@ c) Os serviços que se destinem à angariação de donativos sujeitos a regime f
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -331,13 +405,17 @@ c) Os serviços que se destinem à angariação de donativos sujeitos a regime f
 
 4 - Para efeitos do número anterior, o barramento deve ser efectuado até vinte e quatro horas após a solicitação do consumidor, através de qualquer suporte durável de comunicação, não podendo ser imputados quaisquer custos ao consumidor após esse prazo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, compete ao ICP-ANACOM a fiscalização da conformidade dos serviços prestados com os indicativos de acesso atribuídos, bem como do cumprimento do disposto nos artigos 9.º e 9.º-A.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Quando se verifique desconformidade de utilização do indicativo de acesso atribuído em face da declaração referida na alínea a) do n.º 2 do artigo 5.º ou a inexistência da mensagem oral a que se refere o n.º 2 do artigo 9.º, deve o ICP-ANACOM suspender a utilização do indicativo de acesso atribuído ao prestador de serviços, indicando quais as medidas necessárias à correcção da situação, fixando, ainda, um prazo não superior a 10 dias para que o prestador proceda à correcção.
 
@@ -349,7 +427,9 @@ c) Os serviços que se destinem à angariação de donativos sujeitos a regime f
 
 5 - A suspensão da utilização do indicativo de acesso por parte do prestador de serviços ou o cancelamento do registo pode ser publicitado pelo ICP-ANACOM e deve ser comunicado ao prestador de serviços de suporte.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:
 
@@ -415,15 +495,15 @@ O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Dezembro de 2008. - Luís Filipe Marques Amado - Alberto Bernardes Costa - António José de Castro Guerra - Mário Lino Soares Correia.
 
-**Promulgado em 13 de Fevereiro de 2009.**
+Promulgado em 13 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2009.**
+Referendado em 17 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 177/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1999-321675), de 21 de Maio
 

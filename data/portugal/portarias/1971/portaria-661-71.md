@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/661-1971-632053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64efdea0ba849146fd15f5ec986c8259271baa0862e9eac4c581cfe31be0c713
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adaf3aa07689742de26fd6ba07d3e1e1cdbaebf642835f7c11b7bf674342f88a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:273643:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:17Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +94,6 @@ Atendendo ao que foi exposto pelo Governo-Geral de Moçambique:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 19.º do Decreto de 20 de Setembro de 1906, que regula a pesquisa e lavra de minas nas províncias ultramarinas, e em harmonia com o disposto na base XI da Lei Orgânica do Ultramar Português, revogar a [Portaria n.º 23515](https://diariodarepublica.pt/dr/detalhe/portaria/23515-1968-273643), de 3 de Julho de 1968.
 
-**O Ministro do Ultramar, Joaquim Moreira de Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira de Silva Cunha.
 
 Para ser publicada no Boletim Oficial de Moçambique. - J. da Silva Cunha.

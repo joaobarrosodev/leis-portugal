@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/360/2007/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-2007-629414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00f1d5543a449e52eeb7ea0d4832d0f7ec0ffa990db3d6561334529f261c2b9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c9e332ff1119de16695ec7bd5c7cb996a3ea034cd75cf770ad69f8bacc77345
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Garantia
 - Código da Propriedade Industrial
+- Contrafacção
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Diretor Geral
-- Contrafacção
+- Garantia
 - Infracção Aduaneira
 - Instituto Nacional da Propriedade Industrial
+- Mercadoria
 - Política Aduaneira
 - Regulamentação Aduaneira
-- Mercadoria
 relationships:
 - type: amended_by
   target: pt:dre:454571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454571:por
+  label: "Alterado o art. 319º do Código da Propriedade Industrial, aprovado pelo Dec Lei 36/2003, de 05-Mar, na redacção\
+    \ do presente diploma, pelo DEC LEI.143/2008.25.07.2008.MJ, DR.IS [143] de 25.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-2008-454571
+  date: '2008-07-25'
 - type: cites
   target: celex:32003R1383
   label: null
@@ -91,13 +97,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:56Z'
   warnings: []
   errors: []
 ---
@@ -216,12 +222,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil seguinte ao da sua publi
 
 Visto e aprovado em Conselho de Ministros de 6 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Mário Vieira de Carvalho.
 
-**Promulgado em 19 de Outubro de 2007.**
+Promulgado em 19 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

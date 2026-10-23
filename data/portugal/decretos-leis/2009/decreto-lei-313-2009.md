@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/2009/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2009-483118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 523faa1038d2163525723e85bd0ebda8e5e3bbef4f092a68d150a9f533d9d6cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79211794290389db5aad90e274009226169cc188d208489b223ef9f8b505f9b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Câmara Municipal
 - Carta de Condução
-- Exame de Condução
+- Condutor
 - Contra-ordenação
 - Contrato de Concessão
 - Especificação Técnica
+- Exame de Condução
+- Exame Médico
 - Exame Psicológico
 - Fiscalização
+- Incapacidade Física
 - Instituto da Mobilidade e dos Transportes Terrestres
 - Junta Médica
-- Veículo
-- Exame Médico
-- Condutor
-- Incapacidade Física
-- Câmara Municipal
 - Regulamento da Habilitação Legal para Conduzir
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:178550:por
@@ -120,16 +120,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87/2009/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87/2009/08/28/p/dre
+- type: corrected_by
+  target: pt:dre:481911:por
+  label: "Rectificado o presente diploma [na parte referente ao nº 1 do art. 6º, à al. b) do nº 1 do art. 11º, ao nº 5 do\
+    \ art. 12º, ao art. 37º e ao art. 38º, todos do “Anexo (a que se refere o artigo 1.º), Regulamento da Habilitação Legal\
+    \ para Conduzir”] pela DECL-RECT.94/2009.24.12.2009.PCM, DR.IS [248] de 24.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/94-2009-481911
+  date: '2009-12-24'
+- type: repealed_by
+  target: pt:dre:178550:por
+  label: Revogado, a partir de 02.11.2012, com exceção do disposto nos art.s 25º e 32º do Regulamento da Habilitação Legal
+    para Conduzir - que se mantêm em vigor até 02.01.2013 -, pelo DEC LEI.138/2012.05.07.2012.MEE, DR.IS [129] de 05.07.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2012-178550
+  date: '2012-07-05'
 article_structure:
   article_count: 50
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:18Z'
   warnings: []
   errors: []
 ---
@@ -216,15 +229,15 @@ c) A Portaria n.º 915/95, de 19 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - João António da Costa Mira Gomes - Rui Carlos Pereira - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - Ana Maria Teodoro Jorge.
 
-**Promulgado em 12 de Outubro de 2009.**
+Promulgado em 12 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Outubro de 2009.**
+Referendado em 12 de Outubro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -918,7 +931,7 @@ g) Requerimento de emissão de título de condução.
 
 1.1 - Tabela das condições de acuidade visual:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.2. - Restrições - Se for necessário a utilização de lentes correctoras (óculos ou lentes de contacto), para conseguir alcançar os valores mínimos de acuidade visual, deve impor-se o seu uso durante a condução como restrição.
 
@@ -930,7 +943,7 @@ g) Requerimento de emissão de título de condução.
 
 1.3.1.1 - Tabela das condições de visão monocular:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.3.2. - Restrições - Sem prejuízo do disposto no número anterior devem ser impostas as seguintes restrições:
 
@@ -962,7 +975,7 @@ b) Condução limitada a um raio de ... km da residência do titular ou apenas n
 
 1.4.1 - Tabela das condições de diplopia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.4.2. - Validade - a validade do título não deve exceder três anos.
 
@@ -970,19 +983,19 @@ b) Condução limitada a um raio de ... km da residência do titular ou apenas n
 
 1.5.1 - Tabela das condições de visão periférica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.6 - Visão das cores:
 
 1.6.1 - Tabela das condições da visão das cores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.7. - Visão crepuscular, deslumbramento e sentido luminoso:
 
 1.7.1 - Tabela das condições da visão crepuscular, deslumbramento e sentido luminoso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 1.8. - Doenças oftalmológicas progressivas:
 
@@ -1004,7 +1017,7 @@ b) Condução limitada a um raio de ... km da residência do titular ou apenas n
 
 2.1.2 - Tabela das condições da acuidade auditiva:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 3 - Membros/aparelho de locomoção:
 
@@ -1048,7 +1061,7 @@ b) Possua problemas músculo-esqueléticos da coluna cervical, com a imposição
 
 4.2 - Doenças cardiovasculares - é emitido ou revalidado título de condução, mediante a avaliação positiva de médico cardiologista, a quem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 4.3. - Revalidação - a revalidação do título de condução é imposta por períodos que não excedam dois anos para o grupo 1 e por período que não exceda um ano para o grupo 2.
 
@@ -1058,7 +1071,7 @@ b) Possua problemas músculo-esqueléticos da coluna cervical, com a imposição
 
 5.1 - Nos parágrafos seguintes, considera-se «hipoglicemia grave» a que necessita de assistência de outra pessoa e «hipoglicemia recorrente» a ocorrência de um segundo episódio de hipoglicemia grave num período de 12 meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 5.2 - Validade - a validade do título não deve exceder cinco anos para o grupo 1 e três anos para o grupo 2.
 
@@ -1130,19 +1143,19 @@ QUADRO I
 
 [quadro de avaliação a que se referem as alíneas a) e c) do n.º 1 do artigo 16.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 QUADRO II
 
 [quadro de avaliação a que se refere a alínea b) do artigo 16.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 ## ANEXO III — Programa de acção de formação
 
 (a que se refere o artigo 28.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20800/0806308080.pdf)
 
 ## ANEXO IV — Tabela dos dígitos identificadores do serviço emissor de cartas de condução
 

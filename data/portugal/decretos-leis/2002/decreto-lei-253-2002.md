@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/253/2002/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2002-448752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edb860a1a264c5e664080ca5fc6fb57dad3376ac215553a94704cb79a95d4a1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430821320d52f6a46d21325ea1e89fbae10e71db1a496051ff4bdc78328cf823
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
 - Delegação Regional
-- Extinção de Serviços
 - Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Orgânica
-- Quadro de Pessoal
+- Extinção de Serviços
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:521017:por
@@ -111,16 +111,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:198114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:521017:por
+  label: "Revogado, nos termos do n.º 5 do Decreto-Lei 201/2006, de 27 de Outubro, e a partir de 01.05.2007, o Decreto-Lei\
+    \ 53/94, de 24 de Fevereiro, na redacção do presente diploma, pelo DR.47/2007.27.04.2007.MNE, DR.IS [82] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-2007-521017
+  date: '2007-04-27'
 article_structure:
-  article_count: 20
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 19
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:34:03Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +205,9 @@ h) ...
 
 2 - A Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas dispõe de uma Direcção de Serviços Regional sediada no Porto.
 
-###### Artigo 12.º-A — Direcção de Serviços Regional
+Artigo 12.º-A
+
+Direcção de Serviços Regional
 
 1 - Compete à Direcção de Serviços Regional:
 
@@ -199,21 +239,21 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 2002.**
+Referendado em 13 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro do pessoal
 
 (a que se refere o artigo 2.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)
 
 [Decreto-Lei n.º 53/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1994-515462), de 24 de Fevereiro
 
@@ -473,7 +513,9 @@ a) A Divisão de Coordenação Operacional, à qual incumbe o exercício das com
 
 b) A Divisão de Gestão de Programas, à qual incumbe o exercício das competências referidas nas alíneas d) e e) do número anterior.
 
-###### Artigo 12.º — Divisão de Gestão Financeira
+###### Artigo 12.º
+
+##### Divisão de Gestão Financeira
 
 A Divisão de Gestão Financeira é o serviço de gestão e apoio administrativo da Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, competindo-lhe:
 
@@ -531,4 +573,4 @@ Os cargos de subdirector-geral, director de serviços e chefe de divisão da Dir
 
 (a que se refere o n.º 1 do artigo 14.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)](https://files.diariodarepublica.pt/1s/2002/11/270a00/73327337.pdf)

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 217/2020, 1º Suplemento, Série I de 2020-11-06
   number: '217'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 12-(2) a 12-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/21701/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/51-u/2020/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-u-2020-147933283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T05:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e7d2b957716ccf2380a05c175908944b4ee8d0626a8f835b965dd538abbaa2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64e1f94e2bad9fb1bc1439f46b0f3d83aebe1bd7d61bd0a41ae748ee305e538e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Análises Clínicas
-- Equipamento Desportivo
 - Assistência Médica
-- Direito de Acesso
-- Lares
+- Centro Educativo
 - Circulação de Pessoas
-- Medicina Privada
-- Estabelecimento Comercial
-- Sector Cooperativo
-- Definição de Competências
-- Direito do Trabalho
-- Direitos e Liberdades
 - Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Estabelecimento Prisional
-- Isolamento Profiláctico
+- Cuidados Médicos
+- Definição de Competências
+- Direito de Acesso
+- Direito do Trabalho
 - Direitos do Indivíduo
-- GNR
-- Forças Armadas
-- Transporte de Mercadorias
+- Direitos e Liberdades
 - Doença Infecciosa
 - Epidemia
+- Equipamento Desportivo
+- Estabelecimento Comercial
 - Estabelecimento de Ensino
-- Cuidados Médicos
 - Estabelecimento Hospitalar
-- Centro Educativo
-- Setor Privado
+- Estabelecimento Prisional
+- Estado de Emergência
+- Forças Armadas
 - Funcionário Público
+- GNR
 - Governo
-- Transporte de Passageiros
-- Trabalhador com Contrato de Trabalho em Funções Públicas
+- Isolamento Profiláctico
+- Lares
+- Medicina Privada
+- PSP
+- Saúde Pública
+- Sector Cooperativo
+- Setor Privado
 - Situação de Calamidade
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+- Transporte de Mercadorias
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:154483156:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149106929:por
+  label: Renovada, com efeitos entre as 00h00 do dia 24.11.2020 e as 23h59 do dia 08.12.2020, a declaração do estado de emergência
+    pelo(a) Decreto do Presidente da República n.º 59-A/2020 - Diário da República n.º 227/2020, 1º Suplemento, Série I de
+    2020-11-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/59-a-2020-149106929
+  date: '2020-11-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
   label: null
@@ -116,16 +123,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/83-a/2020/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/83-a/2020/11/06/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:41:05Z'
   warnings: []
   errors: []
 ---
@@ -176,12 +199,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 6 de novembro de 2020.**
+Assinado em 6 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de novembro de 2020.**
+Referendado em 6 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113715725

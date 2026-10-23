@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04800/0073300752.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2016/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2016-73807560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52b8544a94fdb900e1a83a32d57b3c264349f443d5cd2a844f154416de802e2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5e44fa1840d208724958540c0df59146047ff70c8e5861f479bcd1999e529c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Acidente Ecológico
+- Agência Portuguesa do Ambiente
 - Água
 - Aproximação das Legislações
+- Autoridade Competente
+- Autoridade Marítima Nacional
+- Catástrofe
 - CE Países
-- Multa
+- Comissão CE
 - Comunicações Eletrónicas
+- Confidencialidade
 - Conselho de Administração
 - Contra-ordenação
 - Contrato de Concessão
-- Recursos Hídricos
 - Definição de Competências
-- Acidente Ecológico
-- Autoridade Marítima Nacional
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
 - Diretor Geral
 - Domínio Público Marítimo
 - Ecologia
-- Petróleo
-- Saúde Pública
+- Entidade Nacional para o Mercado de Combustíveis
 - Fiscalização
-- Catástrofe
-- Comissão CE
 - Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica
 - Gás
+- Gestão do Ambiente
 - Instituto Português do Mar e da Atmosfera
 - Licenciamento
-- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
-- Entidade Nacional para o Mercado de Combustíveis
-- Proteção do Ambiente
-- Gestão do Ambiente
+- Multa
+- Petróleo
+- Poluição
 - Poluição Marinha
 - Prazo
-- Confidencialidade
-- Poluição
+- Proteção do Ambiente
+- Recursos Hídricos
 - Responsabilidade Financeira
+- Saúde Pública
 - Segurança das Instalações
-- Autoridade Competente
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:31992L0091
@@ -163,6 +163,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/136/2013/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/136/2013/04/01/p/dre
+- type: cites
+  target: pt:dre:144217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627210:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0035
   label: null
@@ -172,15 +212,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 36
+  article_count: 37
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:40Z'
   warnings: []
   errors: []
 ---
@@ -705,7 +745,9 @@ b) Acionar o mais rapidamente possível o plano interno de resposta a emergênci
 
 3 - O membro do Governo responsável pela área da energia informa ainda o Ministro dos Negócios Estrangeiros, que comunica a situação à Comissão Europeia, aos Estados-Membros e aos países terceiros que possam vir a ser afetados pela situação.
 
-### CAPÍTULO IX — Artigo 29.º
+### CAPÍTULO IX
+
+###### Artigo 29.º
 
 Utilização de meios eletrónicos
 
@@ -893,15 +935,15 @@ q) ...
 
 Visto e aprovado em Conselho de Ministros de 3 de março de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Ana Paula Mendes Vitorino.
 
-**Promulgado em 8 de março de 2016.**
+Promulgado em 8 de março de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de março de 2016.**
+Referendado em 8 de março de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se referem os artigos 17.º, 18.º, 19.º, 25.º e 35.º)
 

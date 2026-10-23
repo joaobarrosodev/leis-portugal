@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2011/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2011-669996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f6da837e44e831d555cb5ffd23dd2f3a16fe0f3c16906122fbdd54850051a4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0adef136cfef8cb0626e3a7af43356ce5485e488dfd8f2b3185bb4dd018737b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Radiactividade
-- Radioprotecção
-- Saúde
+- Administração Central do Sistema de Saúde
 - Equipamento Hospitalar
-- Saúde Pública
-- Segurança no Trabalho
 - Formas de Provimento
 - Habilitações Literárias
 - Medicina Nuclear
-- Administração Central do Sistema de Saúde
-- Qualificação Profissional
-- Promoção Profissional
-- Radioterapia
-- Segurança das Instalações
-- Serviços Complementares de Diagnóstico
+- Pessoal de Saúde
 - Profissão Paramédica
+- Promoção Profissional
+- Qualificação Profissional
+- Radiactividade
+- Radioprotecção
+- Radioterapia
+- Saúde
+- Saúde Pública
+- Segurança das Instalações
+- Segurança no Trabalho
+- Serviços Complementares de Diagnóstico
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -100,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o Dec Lei 180/2002 de 08-ago, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:48Z'
   warnings: []
   errors: []
 ---
@@ -196,12 +214,12 @@ O reconhecimento como especialista em física médica e a sua renovação, bem c
 
 Visto e aprovado em Conselho de Ministros de 3 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - Ana Maria Teodoro Jorge - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 27 de Maio de 2011.**
+Promulgado em 27 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Junho de 2011.**
+Referendado em 9 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

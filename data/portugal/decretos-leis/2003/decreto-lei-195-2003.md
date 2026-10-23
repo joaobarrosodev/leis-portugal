@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/2003/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2003-655963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29e7970dd2e122a9dfc82448f68fb8f57963de7d9e0652114943a6c004e37af7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7650bb1a7fdcbbada4a754a059940f0c56d80a531a647735004e2abc642a50b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
 - Aproximação das Legislações
 - Controlo de Qualidade
 - Controlo Sanitário
-- Saúde Pública
 - Fiscalização
 - Higiene Alimentar
-- Aditivo Alimentar
+- Produto Alimentar
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:238021:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:238021:por
+  label: "Alterados os anexos I e II pelo DEC LEI.118/2005.18.07.2005.MADRP, DR.IS-A [136] de 18.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2005-238021
+  date: '2005-07-18'
 - type: cites
   target: celex:31985L0591
   label: null
@@ -111,13 +116,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:42Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +165,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Julho de 2003. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 6 de Agosto de 2003.**
+Promulgado em 6 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Agosto de 2003.**
+Referendado em 8 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I
 
@@ -188,7 +193,7 @@ Métodos de amostragem destinados ao controlo oficial dos níveis de dioxinas (P
 
 «Amostra de laboratório» - uma parte/quantidade representativa da amostra global destinada ao laboratório.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
 
 Abreviaturas utilizadas: T = tetra; Pe = penta; Hx = hexa; Hp = hepta; O = octo; CDD = dibenzo-p-dioxinas cloradas; CDF = clorodibenzofurano; CB = clorobifenilo.
 
@@ -220,7 +225,7 @@ QUADRO N.º 1
 
 Número mínimo de amostras elementares a colher do lote
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
 
 Caso o lote seja constituído por embalagens individuais, o número de embalagens a colher para formar a amostra global é o que consta no quadro n.º 2.
 
@@ -228,7 +233,7 @@ QUADRO N.º 2
 
 Número de embalagens (amostras elementares) a colher para formar a amostra global caso o lote seja constituído por embalagens individuais.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
 
 5 - Conformidade do lote ou do sublote com a especificação - o laboratório de controlo deve analisar em duplicado a amostra de laboratório para efeitos de medidas executórias caso o resultado obtido na primeira análise seja inferior ou superior em menos de 20% ao nível máximo, calculando a média dos resultados. O lote será aceite se o resultado da primeira análise for inferior em mais de 20% ao nível máximo respectivo ou, quando a análise em duplicado for necessária, se a média estiver conforme ao nível máximo respectivo, tal como fixado no Regulamento (CE) n.º [466/2001](https://data.europa.eu/eli/reg/2001/466/oj?locale=pt).
 
@@ -294,7 +299,7 @@ Exactidão elevada (veracidade e precisão) - a determinação devia fornecer um
 
 Os métodos de pré-selecção podem comprometer os bioensaios e os métodos CG-EM; os métodos de confirmação são métodos de cromatografia gasosa de elevada resolução/de espectrometria de massa de elevada resolução (CGER/EMER). Têm de ser cumpridos os seguintes critérios no valor TEQ total:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)](https://files.diariodarepublica.pt/1s/2003/08/194a00/54845489.pdf)
 
 6 - Requisitos específicos dos métodos CG/EM a cumprir para fins de pré-selecção ou de confirmação - deve ser efectuada logo no início do método analítico, por exemplo antes da extracção, a adição de padrões internos de PCDD/F marcados com (elevado a 13)C e substituídos com cloro nas posições 2, 3, 7 e 8 (e de padrão interno de PCB sob a forma de dioxina marcado com (elevado a 13)C, caso seja necessário determinar PCB sob a forma de dioxina), por forma a validar o procedimento analítico. Deverá ser adicionado, pelo menos, um congénere para cada grupo homólogo de PCDD/F tetra a octo-clorados (e, pelo menos, um congénere para cada grupo homólogo de PCB sob a forma de dioxina, caso seja necessário determinar PCB sob a forma de dioxina) (alternativamente, deverá ser utilizado para o controlo de PCDD/F e de PCB sob a forma de dioxina, pelo menos, um congénere para cada função de registo de iões seleccionados pela espectrometria de massa). Verifica-se uma nítida preferência, no caso dos métodos de confirmação, para a utilização dos padrões internos dos 17 PCDD/F substituídos nas posições 2, 3, 7 e 8 e marcados com (elevado a 13)C e para o padrão interno de PCB sob a forma de dioxina marcado com (elevado a 13)C (caso seja necessário determinar PCB sob a forma de dioxina). Também devem ser determinados factores de resposta relativos para os congéneres aos quais não se adiciona um composto análogo marcado com (elevado a 13)C, através da utilização de soluções de calibração adequadas.
 

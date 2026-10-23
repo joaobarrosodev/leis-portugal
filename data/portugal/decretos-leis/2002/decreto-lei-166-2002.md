@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/164a00/53805381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/166/2002/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2002-206659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9d8718e767939caeab4c4311ea4891bd78c3ca0d7add409b6a715d8f9e06dc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7883575923eea7ece0f12278a3474df778d0986b641e30be1f746a0efee7b9d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
 - Aditivo Alimentar
-- Indústria Alimentar
+- Aproximação das Legislações
 - Comércio
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:145180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:589938:por
+  label: "Alterados os critérios de pureza fixados na parte B do anexo VI do Dec Lei 193/2000, de 18-Ago, na redacção do presente\
+    \ diploma, pelo DEC LEI.55/2005.03.03.2005.MAPF, DR.IS-A [44] de 03.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2005-589938
+  date: '2005-03-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterados os critérios de pureza fixados na parte B do anexo VI do Dec lei 193/2000, de 18-Ago, na redacção do presente\
+    \ diploma pelo DEC LEI.57/2007.13.03.2007.MADRP, DR.IS [51] de 13.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2007-03-13'
+- type: amended_by
+  target: pt:dre:145180:por
+  label: "Alterados os critérios de pureza fixados na parte B do anexo vi, do Dec Lei n193/2000, de 18-Ago, na redacção do\
+    \ presente diploma, republicado em anexo com a nova redacção, pelo DEC LEI.120/2011.28.12.2011.MAMAOT, DR.IS [248] de\
+    \ 28.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2011-145180
+  date: '2011-12-28'
 - type: cites
   target: celex:31994L0036
   label: null
@@ -93,16 +112,21 @@ relationships:
   target: celex:32001L0050
   label: null
   source: http://data.europa.eu/eli/dir/2001/50/oj
+- type: repealed_by
+  target: pt:dre:589938:por
+  label: "Revogado pelo DEC LEI.55/2005.03.03.2005.MAPF, DR.IS-A [44] de 03.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2005-589938
+  date: '2005-03-03'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:07Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +161,15 @@ O presente diploma produz efeitos 10 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 1 de Julho de 2002.**
+Promulgado em 1 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 

@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-1983-308286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66c40e9fefe2191b1c9f3479fbd357b37060e8cfc10537acd6db9aa779aae0a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d29e9da0b0750404645141bec0bdcf885d9a31d3dca49387a5cddc65df058c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Almada
+- Hospital Distrital
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:609661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435464:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico, o quadro de pessoal aprovado pela Portaria\
+    \ 739/80, de 27 de setembro, na redacção do presente diploma, pela PORT.807-M2/83.30.07.1983.MFP, DR.IS [174-6.º Supl]\
+    \ de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-m2-1983-435464
+  date: '1983-07-30'
+- type: cites
+  target: pt:dre:461649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:35Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +127,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal do Hospital Distrital de Almada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/02800/03380339.pdf))](https://files.diariodarepublica.pt/1s/1983/02/02800/03380339.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/02800/03380339.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/25922596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2007-521015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1f175cabfe3c3086e477e99c79ff768f4a9df218e8e9ce62f3ebd8247d7b724
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f9cd102704089e7aaacb95fdb1ef601075583212819fc15272faf3432ab5294
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário Geral Adjunto
-- Pessoal Dirigente
-- Definição de Competências
-- Diretor
-- Secretaria Geral
-- Gabinete de Informação e Imprensa
 - Conselho de Directores Gerais
 - Conselho Diplomático
+- Definição de Competências
 - Departamento de Assuntos Jurídicos
 - Departamento Geral de Administração
+- Diretor
+- Gabinete de Informação e Imprensa
 - Instituto Diplomático
-- Protocolo do Estado
-- Orgânica
-- Quadro de Pessoal
 - Ministério dos Negócios Estrangeiros
+- Orgânica
+- Pessoal Dirigente
+- Protocolo do Estado
+- Quadro de Pessoal
+- Secretaria Geral
 - Secretário Geral
+- Secretário Geral Adjunto
 relationships:
 - type: amended_by
   target: pt:dre:544171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493241:por
+  label: "Alterados os art.s 11º e 17º e revogadas a al. d) do nº 1 do art. 11º e al.s c), d), e), f) e g) do nº 2 do art.\
+    \ 17º, pelo DEC LEI.164/2009.22.07.2009.MNE, DR.IS [140] de 22.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2009-493241
+  date: '2009-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/2006/10/27/p/dre
   label: null
@@ -114,16 +120,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/57/1994/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/57/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:221735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:655173:por
+  label: "Rectificado pela DECL-RECT.59-C/2007.26.06.2007.PCM, DR.IS [121]Supl de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-c-2007-655173
+  date: '2007-06-26'
+- type: repealed_by
+  target: pt:dre:544171:por
+  label: "Revogado, a partir de 01.02.2012, nos termos do disposto no art. 28º do Dec Lei 121/2011 de 29-Dez, o presente diploma,\
+    \ alterado pelo Dec Lei 164/2009 de 22-Jul, pelo DR.10/2012.19.01.2012.MNE, DR.IS [14] de 19.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2012-544171
+  date: '2012-01-19'
 article_structure:
   article_count: 23
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:03Z'
   warnings: []
   errors: []
 ---
@@ -492,16 +537,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 27 de Março de 2007.**
+Promulgado em 27 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 27 de Março de 2007.**
+Referendado em 27 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o n.º 1 do artigo 19.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/25922596.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/25922596.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/25922596.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-1974-412671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67b6180f995fb89c16d8b1f8f83b6cd472855a6708ae81c35c100a3bea0aaf5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0486783b16aaccf49b57d42dfc9887b58b32a757588c4f5f88da0ad01229ea50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:20:51Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +99,13 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2994.º «Quota-parte de Moçambique em encargos na metrópole»:
+Artigo 2994.º «Quota-parte de Moçambique em encargos na metrópole»:
 
 N.º 8 «Junta de Investigações do Ultramar»:
 
 Alínea a) «Despesas com o pessoal, material, pagamento de serviços e diversos encargos para realização dos trabalhos científicos, conforme o plano de investigações científicas elaborado» ... 655872$00
 
-###### Artigo 2995.º «Outros encargos»:
+Artigo 2995.º «Outros encargos»:
 
 N.º 1 «Encargos com viagens e subsídios dos presidentes do júri de fiscalização e outras despesas a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 24 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955» ... 121677$00
 
@@ -115,7 +119,7 @@ Serviços de Saúde e Assistência
 
 Despesas com o pessoal:
 
-###### Artigo 629.º «Remunerações certas ao pessoal em exercício»:
+Artigo 629.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
@@ -127,7 +131,7 @@ Serviços de Agricultura e Florestas
 
 Despesas com o pessoal:
 
-###### Artigo 2334.º «Remunerações certas ao pessoal em exercício»:
+Artigo 2334.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei»:
 
@@ -139,11 +143,11 @@ Alínea a) «Vencimentos» ... 121677$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 270.º «Quota-parte da província em encargos na metrópole»:
+Artigo 270.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 8 «Junta de Investigações do Ultramar - Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar» ... 31887$00
 
-###### Artigo 274.º «Diversas despesas»:
+Artigo 274.º «Diversas despesas»:
 
 N.º 16 «Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1964, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955» ... 5919$00
 
@@ -157,7 +161,7 @@ Serviços de Saúde e Assistência
 
 Despesas com o pessoal:
 
-###### Artigo 122.º «Remunerações certas ao pessoal em exercício»:
+Artigo 122.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei» ... 31887$00
 
@@ -167,7 +171,7 @@ Serviço Meteorológico
 
 Despesas com o pessoal:
 
-###### Artigo 231.º «Remunerações certas ao pessoal em exercício»:
+Artigo 231.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1 «Pessoal dos quadros aprovados por lei» ... 5919$00
 

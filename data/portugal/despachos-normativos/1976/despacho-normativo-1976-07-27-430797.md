@@ -46,45 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1976-430797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76468c60e67a1bc60c5f08a9cb4b99ddda6d2fc6d940bff2ec1b8d7e523a9dce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e744f53aa46ac7f3f068eb48a638602abb895c425ee0a19ce9af11cd78408c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Engenheiro
+- Maquinista
+- Marinha Mercante
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:183583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183583:por
+  label: "Dada nova redacção ao n.º 1, n.º 1 do n.º4 e n.º 6 e suprime os n.ºs 2.º e 3.º do presente diploma pelo DN.59/85\
+    \ 01-Jul, DR.IS [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/59-1985-183583
+  date: '1985-07-01'
+- type: cites
+  target: pt:dre:311178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:23Z'
   warnings: []
   errors: []
 ---
 
-# Despacho Normativo
+# Despacho normativo
 
 Na actual conjuntura sócio-profissional do País são já vários os grupos de trabalhadores que viram oficialmente reconhecidas alterações de designação profissional, em ordem a adequá-las ao nível técnico de funções que efectivamente desempenham ou se mostrem aptos a desempenhar.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/15300/26902690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1989-619688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc34488a19b17e8487dacd82a2acb05c145e37e82c7401a7f6c5f32fee0f89f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 454fd9c125b9b78d8e837eeab20a8107ebe5e340164999d7bec1d8f0810d9a2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Militar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:278888:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575138:por
+  label: "Alterado o art. 36º do Regulamento das Ordens Honoríficas Portuguesas aprovado pelo DR 71-A/86, de 15-Dez, na redacção\
+    \ do presente diploma, pelo DR.15/90.1990.06.08.PCM, DR.IS [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/15-1990-575138
+  date: '1990-06-08'
+- type: cites
+  target: pt:dre:287168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372798:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:278888:por
+  label: "Revogado em 09.03.2011 pela LEI.5/2011.02.03.2011.AR, DR.IS [43] de 02.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2011-278888
+  date: '2011-03-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:52Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +118,9 @@ Considerando a necessidade de clarificar as dúvidas surgidas com a interpretaç
 
 Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 414-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1986-372798), de 15 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 36.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo [Decreto Regulamentar n.º 71-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1986-372797), de 15 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 36.º do Regulamento das Ordens Honoríficas Portuguesas, aprovado pelo [Decreto Regulamentar n.º 71-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-a-1986-372797), de 15 de Dezembro, passa a ter a seguinte redacção:
 
-###### Art. 36.º - 1 - ...
+Art. 36.º - 1 - ...
 
 a) ...
 
@@ -115,18 +140,18 @@ II) Três louvores individuais conferidos por general ou vice-almirante no exerc
 
 5 - ...
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Presidência do Conselho de Ministros, 24 de Abril de 1989.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 21 de Junho de 1989.**
+Promulgado em 21 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1989.**
+Referendado em 23 de Junho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

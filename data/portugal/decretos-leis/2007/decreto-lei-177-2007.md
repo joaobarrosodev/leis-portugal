@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/177/2007/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-2007-520841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75979973da11459358da906474fa5edf979f2ce2121360b040f584fceef88fb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e89432d4885875bc99e5267c5626ffd29b454e152aca8dd69214473c57e6862c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Ferroviário
+- Certificado de Qualidade
 - Definição de Competências
 - Especificação Técnica
 - ETI
 - Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Infraestrutura dos Transportes
-- Certificado de Qualidade
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Sistema Ferroviário Transeuropeu Convencional
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:279843:por
@@ -133,16 +133,22 @@ relationships:
   target: celex:32004R0881
   label: null
   source: http://data.europa.eu/eli/reg/2004/881/oj
+- type: repealed_by
+  target: pt:dre:279843:por
+  label: "Revogado, a partir de 22.02.2011, o Dec Lei 75/2003, de 16-Abr, na redacção do presente diploma e do Dec Lei 191/2008,\
+    \ de 25-Set, pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 article_structure:
-  article_count: 34
+  article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:11Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +197,9 @@ O presente decreto-lei transpõe parcialmente para a ordem jurídica interna a D
 
 4 - As disposições do presente decreto-lei são aplicáveis apenas às partes da rede que ainda não estejam abrangidas pelo n.º 1 a partir da data de entrada em vigor das ETI correspondentes.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -225,7 +233,9 @@ o) 'Substituição no âmbito da manutenção' a substituição de componentes p
 
 p) 'Entrada em serviço' o conjunto das operações através das quais um subsistema é colocado no seu estado de funcionamento nominal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os projectos de ETI são elaborados nos termos previstos na legislação comunitária, sendo publicados no Jornal Oficial da União Europeia.
 
@@ -235,7 +245,9 @@ p) 'Entrada em serviço' o conjunto das operações através das quais um subsis
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +265,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +277,9 @@ f) ...
 
 4 - Caso se entenda que determinadas especificações europeias, directa ou indirectamente utilizadas para alcançar os objectivos do presente decreto-lei, não satisfazem os requisitos essenciais, pode o Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT), submeter o assunto ao comité instituído pela Directiva n.º [96/48/CE](https://data.europa.eu/eli/dir/1996/48/oj?locale=pt), nos termos do n.º 1 do artigo 21.º da Directiva n.º [2001/16/CE](https://data.europa.eu/eli/dir/2001/16/oj?locale=pt).
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +293,9 @@ f) ...
 
 6 - Caso seja necessária uma nova autorização, o IMTT decide em que medida as ETI devem ser aplicadas ao projecto, e notifica a sua decisão à Comissão Europeia e aos restantes Estados membros da União Europeia.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -363,7 +381,9 @@ Aumento da segurança do funcionamento.
 
 Além disso, esta avaliação indicará o impacte previsto a nível de todos os operadores e agentes económicos envolvidos.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -391,7 +411,9 @@ Além disso, esta avaliação indicará o impacte previsto a nível de todos os 
 
 2.7 - ...
 
-## ANEXO VII — [...]
+ANEXO VII
+
+[...]
 
 1 - ...
 
@@ -457,15 +479,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 23 de Abril de 2007.**
+Promulgado em 23 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Decreto-Lei n.º 75/2003
 

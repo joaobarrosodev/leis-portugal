@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/638-1978-327869
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T05:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86a720b62e6f28221aa951c905cd5a02cfbce9f526449bf60aed0528457ac6e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6dd0fa71114977c48b7c544b22d5877dc28f739d9f964648bcb7c909a9830efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁGIO
+- Câmbio Médio
+- Contribuições e Impostos
+- Divisa
+- Operação Cambial
+- OURO
+- Pagamento
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326537:por
+  label: Retificada pelo(a) Declaração - Diário da República n.º 279/1978, Série I de 1978-12-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-326537
+  date: '1978-12-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:46:04Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +104,6 @@ de 25 de Outubro
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento e nos termos do disposto no § único do artigo 59.º da [Lei n.º 1368](https://diariodarepublica.pt/dr/detalhe/lei/1368-1922-167201), de 21 de Setembro de 1922, que, na liquidação de contribuições, impostos e taxas a efectuar posteriormente à publicação da presente portaria e que tenha por base o ouro ou moeda estrangeira, sejam adoptados o ágio e o câmbio médio seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24600/22422243.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24600/22422243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24600/22422243.pdf)
 
 Secretaria de Estado do Orçamento, 11 de Outubro de 1978. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.

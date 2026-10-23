@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/110/2025/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2025-936526997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f75ef9d689025f98336715bd19bd7c230e473f2914f841e4a209c5000c6e4286
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d20a55e07f7758fbef929b8b17de44f35660c5c246e6fb9a5fbcb1563fbc8c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação de Obras Públicas
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Empreitada de Obras Públicas
+- Instituto Público
 - Obra de Arte
 - Obras de Conservação e Restauro
-- Empreitada de Obras Públicas
-- Administração Pública
 - Setor Empresarial do Estado
-- Instituto Público
-- Administração Local
-- Administração Regional
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:96/2021
+  label: Altera o artigo 4.º do Decreto-Lei n.º 96/2021, de 12 de novembro, Diário da República n.º 220/2021, Série I
+  source: null
+  date: '2021-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/2021/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/96/2021/11/12/p/dre
+- type: cites
+  target: pt:dre:174244811:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:50Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +145,14 @@ c) A procedimentos de formação de contratos destinados à promoção de habita
 
 Visto e aprovado em Conselho de Ministros de 18 de setembro de 2025. - Luís Montenegro - Miguel Martinez de Castro Pinto Luz.
 
-**Promulgado em 19 de setembro de 2025.**
+Promulgado em 19 de setembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de setembro de 2025.**
+Referendado em 23 de setembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119570105

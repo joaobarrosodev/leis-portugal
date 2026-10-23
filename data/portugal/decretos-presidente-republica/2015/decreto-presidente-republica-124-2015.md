@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21000/0924609246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/124/2015/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/124-2015-70819826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44bc127e179ec0aff17a9d001f7c1cd83a4aebbf8ed8e975a65dcd182c192d3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4e099115795b6061ac3c099970ede82b8d3617f7693dc6bf2912aef43cd74c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Convenção
-- Portugal
 - Fundação AGA KHAN
 - Imamat Ismaili
+- Portugal
 - Sede
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/135/2015/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/135/2015/10/27/p/dre
+- type: cites
+  target: pt:dre:70819827:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:08Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +98,16 @@ validation:
 
 de 27 de outubro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo celebrado entre a República Portuguesa e o Imamat Ismaili com vista ao estabelecimento da sua sede em Portugal, assinado em 3 de junho de 2015, aprovado pela [Resolução da Assembleia da República n.º 135/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/135-2015-70819827), em 19 de junho de 2015.
 
-**Assinado em 22 de outubro de 2015.**
+Assinado em 22 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2015.**
+Referendado em 22 de outubro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

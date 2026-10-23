@@ -46,36 +46,37 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/32-1985-326947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd3bc107a4b49c36231169c15b7847673bdd8c5722dca9b5a1aeec42526514a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84f99e862297b311637797e137ae34dc172e7573ab60fb4f577ab6a662fa0c32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Perdão da Pena
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:03Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +85,16 @@ validation:
 
 de 22 de Março
 
-**O Presidente da República decreta, nos termos da alínea e) do artigo 137.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea e) do artigo 137.º da Constituição, o seguinte:
 
 É extinta, por indulto, a pena acessória de expulsão do País aplicada a Licínio Ramos Miranda, de 27 anos de idade, natural de Cabo Verde, no processo n.º 1176/83 da 2.ª Secção do Tribunal Judicial da Comarca da Moita.
 
-**Assinado em 22 de Fevereiro de 1985.**
+Assinado em 22 de Fevereiro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 22 de Fevereiro de 1985.**
+Referendado em 22 de Fevereiro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15100/0411004113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2012/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2012-178994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53d10392cf3b4635eaaaf532d13779520a4db8238a3a17396da8d224f9c9a1e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2533d6e73f1ebab70a319681c33eb70b03ae61e29d87996bf6ff127e5324515
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,19 +71,25 @@ subjects:
 - Caminhos de Ferro
 - Certificado de Conformidade
 - Comboio
-- Transporte Ferroviário
 - Definição de Competências
 - Especificação Técnica
 - ETI
 - Normas de Segurança
-- Serviço Público
 - Rede Ferroviária
+- Serviço Público
+- Transporte Ferroviário
 - Transporte Público
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70476204:por
+  label: Alterados os anexos V e VI (ambos na redação do presente decreto-lei) do Dec Lei 27/2011 de 17-fev, pelo(a) Decreto-Lei
+    n.º 216/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07, que os republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2015-70476204
+  date: '2015-10-07'
 - type: cites
   target: celex:32004L0049
   label: null
@@ -115,13 +121,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:33Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +166,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - José de Almeida Cesário - Álvaro Santos Pereira.
 
-**Promulgado em 26 de julho de 2012.**
+Promulgado em 26 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de julho de 2012.**
+Referendado em 27 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 

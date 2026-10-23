@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22416-1966-488092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1bfb6e9f8d7432300514f8e4999e19fa5c339216ad3146ba39c6e26b17201d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1481ac0905bae941c4305b5fe008eb796e86ebea3ae2bd872ccf3035306d3af3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:08Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +95,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 Despesas com o pessoal:
 
-###### Artigo 4.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações - Aos agentes do Ministério Público junto do Conselho - No contencioso fiscal» ... 250$00
+Artigo 4.º, n.º 1), alínea c) «Remunerações acidentais - Gratificações - Aos agentes do Ministério Público junto do Conselho - No contencioso fiscal» ... 250$00
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de móveis - Mobiliário» ... 27250$00
+Artigo 6.º, n.º 1), alínea b) «Aquisições de utilização permanente - Aquisição de móveis - Mobiliário» ... 27250$00
 
 Pagamento de serviços:
 
-###### Artigo 9.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 3500$00
+Artigo 9.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 3500$00
 
 ... 31000$00
 
@@ -111,15 +115,15 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o material:
 
-###### Artigo 6.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Pequenas reparações no edifício» ... 20000$00
+Artigo 6.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento do material - De imóveis - Pequenas reparações no edifício» ... 20000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 172500$00
+Artigo 8.º, n.º 1) «Despesas de higiene, saúde e conforto - Luz, aquecimento, água, lavagem, limpeza e outras despesas» ... 172500$00
 
-###### Artigo 13.º «Vestuário para os naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa» ... 10000$00
+Artigo 13.º «Vestuário para os naturais das províncias ultramarinas e da metrópole internados e a internar na enfermaria privativa» ... 10000$00
 
-###### Artigo 27.º «Despesas eventuais e não especificadas» ... 15000$00
+Artigo 27.º «Despesas eventuais e não especificadas» ... 15000$00
 
 ... 217500$00
 
@@ -129,7 +133,7 @@ tomando como contrapartida igual importância a sair das disponibilidades existe
 
 Despesas com o pessoal:
 
-###### Artigo 2.º «Remunerações certas ao pessoal em exercício»:
+Artigo 2.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1), alínea a) «Pessoal dos quadros aprovados por lei - Vencimentos» ... 172500$00
 
@@ -137,9 +141,9 @@ N.º 2) «Pessoal contratado» ... 20000$00
 
 Diversos encargos:
 
-###### Artigo 21.º «Bolsas de estudo» ... 10000$00
+Artigo 21.º «Bolsas de estudo» ... 10000$00
 
-###### Artigo 25.º «Assistência técnica a países africanos» ... 15000$00
+Artigo 25.º «Assistência técnica a países africanos» ... 15000$00
 
 ... 217500$00
 
@@ -149,17 +153,17 @@ Diversos encargos:
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 10000$00
+Artigo 5.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De semoventes - Viaturas com motor» ... 10000$00
 
-###### Artigo 6.º, n.º 3) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 50000$00
+Artigo 6.º, n.º 3) «Material de consumo corrente - Combustível, lubrificantes e sobresselentes» ... 50000$00
 
 Pagamento de serviços:
 
-###### Artigo 8.º, n.º 3) «Despesas de comunicações - Transportes, despachos, fretes e seguros» ... 40000$00
+Artigo 8.º, n.º 3) «Despesas de comunicações - Transportes, despachos, fretes e seguros» ... 40000$00
 
 Diversos encargos:
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 250000$00
+Artigo 13.º «Despesas de anos económicos findos» ... 250000$00
 
 ... 350000$00
 

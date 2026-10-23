@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2005/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2005-573312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:51:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 112210bba742c50026063562ca672b93d467bd55d73721cbf36b174a86bb7f91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43d459a02d94a0ea10c2cdbb9cc1edede99dba7a80ab60b85bb502e68deddd20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:51:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Sistema Retributivo
 - Forças Armadas
+- Marinha
+- Militar
 - Reforma
 - Remuneração
 - Reserva
-- Militar
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:51:03Z'
   warnings: []
   errors: []
 ---
@@ -140,12 +164,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2005.
 
 Visto e aprovado em Conselho de Ministros de 27 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix.
 
-**Promulgado em 28 de Fevereiro de 2005.**
+Promulgado em 28 de Fevereiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Março de 2005.**
+Referendado em 3 de Março de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

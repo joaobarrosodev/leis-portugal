@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/05100/05270527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1985-326125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a7302924f903abb43642a29889001d401ed2c3ec76f15d0033a7d3bfa670807
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f3aaccddda3a116012bc4941affd3e70f90374a6355b25fb9a7495f21ae9a7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
 relationships:
 - type: amended_by
   target: pt:dre:196175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:314074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531842:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:196175:por
+  label: "Revogada pela PORT.120/86.1986.04.01.MF DR.IS [75]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1986-196175
+  date: '1986-04-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:18:48Z'
   warnings: []
   errors: []
 ---
@@ -113,12 +133,12 @@ QUADRO I
 
 Classe de fogos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/05100/05270527.pdf))](https://files.diariodarepublica.pt/1s/1985/03/05100/05270527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/05100/05270527.pdf)
 
 3.º É revogada a [Portaria n.º 559/84](https://diariodarepublica.pt/dr/detalhe/portaria/559-1984-381530), de 3 de Agosto.
 
 Ministérios das Finanças e do Plano e do Equipamento Social.
 
-**Assinada em 11 de Fevereiro de 1985.**
+Assinada em 11 de Fevereiro de 1985.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - O Ministro do Equipamento Social, João Rosado Correia.

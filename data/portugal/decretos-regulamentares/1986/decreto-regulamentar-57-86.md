@@ -46,40 +46,141 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-1986-222471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff42a483f50f44bf0a28f81df8b2ed1add9a6cadd7cb3bf104ef9f918673882c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec2001143bcaa88eac5a34ff66cba8ab22d784806159cf15b23f7b1afefa64f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura de entre Douro e Minho
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357335:por
+  label: "Alterado o quadro de pessoal da pela PORT.754/88.24.11.1988.MF, DR.IS [272] de 24.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1988-357335
+  date: '1988-11-24'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado o quadro de pessoal da Direcção Regional de Agricultura de Entre Douro e Minho pelo DR.43/90.1990.12.19.MAPA,\
+    \ DR.IS [291]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:509390:por
+  label: "Alterado o quadro de pessoal pelo DN.30/91.02.02.1991.MF, DR.IS-B [28] de 02.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-1991-509390
+  date: '1991-02-02'
+- type: amended_by
+  target: pt:dre:591517:por
+  label: "Alterado o quadro de pessoal, no que respeita ao pessoal de informática, pela PORT.1224/91.31.12.1991.MF, DR.IS-B\
+    \ [301] de 31.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1224-1991-591517
+  date: '1991-12-31'
+- type: amended_by
+  target: pt:dre:175495:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras específicas das áreas funcionais de biblioteca e documentação\
+    \ e de arquivo, pela PORT.167/92.13.03.1992.MF, DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/167-1992-175495
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:274255:por
+  label: "Alterado o quadro de pessoal pelo DN.72/93.07.05.1993.MF, DR.IS-B [106] de 07.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/72-1993-274255
+  date: '1993-05-07'
+- type: amended_by
+  target: pt:dre:275642:por
+  label: "Alterado o quadro de pessoal, relativamente à carreira de técnico superior de serviço social, pela PORT.508/93.13.05.1993.MF,\
+    \ DR.IS-B [111] de 13.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/508-1993-275642
+  date: '1993-05-13'
+- type: amended_by
+  target: pt:dre:260906:por
+  label: "Alterado o quadro de pessoal pelo DN.96/93.09.06.1993.MF, DR.IS-B [134] de 09.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/96-1993-260906
+  date: '1993-06-09'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Norte suceda nas atribuições da Direcção Regional\
+    \ de Agricultura de Entre Douro e Minho, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:38Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +253,7 @@ f) Divisão de Protecção à Produção Vegetal;
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — (Órgãos)
 
@@ -520,25 +621,25 @@ Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Setembro de 1986.**
+Referendado em 9 de Setembro de 1986.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 57/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf)
 
 Mapa anexo II a que se refere o n.º 1 do artigo 19.º do Decreto Regulamentar n.º 57/86
 
 Categorias e carreiras a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29712982.pdf)
 
 Mapa anexo III a que se refere o n.º 1 do artigo 23.º do Decreto Regulamentar n.º 57/86
 

@@ -23,12 +23,12 @@ publication:
   reference: Diário da República n.º 294/1995, 2º Suplemento, Série I-A de 1995-12-22
   number: '294'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8072-(12) a 8072-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1995/12/294a02/00120013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/331-b/1995/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-b-1995-460999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003c59636250554b173baeb8f48c96318529e0fc2b6b0ed2aec82ffc4afdb148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09f43e820709cfd4b6f1bfc6d6187d69b2b0c8215304cc3e43a494e252b34a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - CEE
-- Vinho
 - Definição de Competências
 - Direcção Geral das Pescas
 - Feoga
+- Financiamento
 - Fiscalização
-- Pesca
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Instituto da Vinha e do Vinho
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Mercado Agrícola
 - Orgânica
 - Organização Comum de Mercado
+- Pesca
 - Política Agrícola Comum
 - Prestação de Contas
-- Regulamento CE
 - Produto Animal
+- Regulamento CE
 - Vegetais
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:198118:por
@@ -105,16 +105,22 @@ relationships:
   target: celex:31995R1663
   label: null
   source: http://data.europa.eu/eli/reg/1995/1663/oj
+- type: repealed_by
+  target: pt:dre:198118:por
+  label: "Revogado o Dec Lei 282/88, de 12-Ago, na redacção dada pelo presente diploma, pelo DEC LEI.78/98.1998.03.27.MADRP,\
+    \ DR.IS-A [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1998-198118
+  date: '1998-03-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:36Z'
   warnings: []
   errors: []
 ---
@@ -129,17 +135,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Sem prejuízo das competências atribuídas por este diploma, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) é também organismo de coordenação na acepção do Regulamento (CEE) n.º [729/70](https://data.europa.eu/eli/reg/1970/729/oj?locale=pt), do Conselho, de 21 de Abril, com a nova redacção que lhe foi dada pelo Regulamento (CE) n.º [1287/95](https://data.europa.eu/eli/reg/1995/1287/oj?locale=pt), do Conselho, de 22 de Maio, ao qual compete proceder à harmonização das regras comunitárias junto de todos os organismos pagadores, centralizar as informações referentes aos pagamentos e apresentar à Comissão a respectiva prestação de contas.
+Artigo 1.º Sem prejuízo das competências atribuídas por este diploma, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) é também organismo de coordenação na acepção do Regulamento (CEE) n.º [729/70](https://data.europa.eu/eli/reg/1970/729/oj?locale=pt), do Conselho, de 21 de Abril, com a nova redacção que lhe foi dada pelo Regulamento (CE) n.º [1287/95](https://data.europa.eu/eli/reg/1995/1287/oj?locale=pt), do Conselho, de 22 de Maio, ao qual compete proceder à harmonização das regras comunitárias junto de todos os organismos pagadores, centralizar as informações referentes aos pagamentos e apresentar à Comissão a respectiva prestação de contas.
 
-###### Art. 2.º Os artigos 4.º, 5.º, 6.º e 14.º, n.º 1, do Decreto-Lei n.º 282/88, de 12 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 56/90, de 13 de Fevereiro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º, 5.º, 6.º e 14.º, n.º 1, do Decreto-Lei n.º 282/88, de 12 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 56/90, de 13 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) A execução das acções necessárias à aplicação dos instrumentos de orientação e regularização dos mercados agrícolas, de acordo com as orientações das entidades competentes no âmbito da gestão das organizações de mercado a que se encontram submetidos os produtos vegetais e animais;
 
 b) O financiamento, mediante a utilização de recursos nacionais e comunitários, das acções de orientação, regularização e organização dos mercados dos produtos vegetais e animais.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) Aplicação dos instrumentos de orientação e regularização dos mercados dos produtos vegetais e animais, nos termos definidos pelas entidades competentes para a gestão das respectivas organizações de mercado;
 
@@ -155,7 +161,7 @@ f) Análise e emissão de parecer prévio sobre os projectos de diplomas naciona
 
 2 - ...
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) Executar as acções necessárias à aplicação e processamento dos instrumentos de orientação e regularização dos mercados dos produtos vegetais e animais, nos termos definidos pelas entidades competentes para a gestão das organizações nacionais e comuns dos mercados;
 
@@ -171,7 +177,7 @@ f) Assegurar todos os contactos com a Comissão Europeia acerca das matérias da
 
 g) Assegurar o cumprimento das exigências da regulamentação comunitária em matérias da sua competência, no que concerne à acção da Secção Garantia do FEOGA relativamente às Regiões Autónomas.
 
-###### Art. 14.º - 1 - A comissão de fiscalização do INGA é nomeada pelo Ministro das Finanças, por períodos de três anos, e é composta por três membros, sendo um obrigatoriamente revisor oficial de contas.
+Art. 14.º - 1 - A comissão de fiscalização do INGA é nomeada pelo Ministro das Finanças, por períodos de três anos, e é composta por três membros, sendo um obrigatoriamente revisor oficial de contas.
 
 2 - ...
 
@@ -181,15 +187,15 @@ g) Assegurar o cumprimento das exigências da regulamentação comunitária em m
 
 5 - ...
 
-###### Art. 3.º Os artigos 5.º e 8.º do Decreto-Lei n.º 102/93, de 2 de Abril, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 5.º e 8.º do Decreto-Lei n.º 102/93, de 2 de Abril, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - Ao IVV são ainda cometidas as atribuições de organismo de intervenção no âmbito da Organização Comum do Mercado Vitivinícola, e para este efeito é a instância de contacto com a União Europeia para o sector vitivinícola, nomeadamente no âmbito dos controlos, sem prejuízo das competências próprias de outros organismos da Administração.
 
 3 - ...
 
-###### Art. 8.º Para a prossecução das suas atribuições como organismo de intervenção no quadro da Organização Comum do Mercado Vitivinícola, bem como de organismo de contacto no quadro dos controlos e gestor de fluxogramas estruturais do sector, incumbe especialmente ao IVV:
+Art. 8.º Para a prossecução das suas atribuições como organismo de intervenção no quadro da Organização Comum do Mercado Vitivinícola, bem como de organismo de contacto no quadro dos controlos e gestor de fluxogramas estruturais do sector, incumbe especialmente ao IVV:
 
 a) ...
 
@@ -201,7 +207,7 @@ d) ...
 
 e) ...
 
-###### Art. 4.º O artigo 2.º do Decreto-Lei n.º 320/93, de 21 de Setembro, passa a ter a seguinte redacção:
+Art. 4.º O artigo 2.º do Decreto-Lei n.º 320/93, de 21 de Setembro, passa a ter a seguinte redacção:
 
 São atribuições da DGP:
 
@@ -235,18 +241,18 @@ o) ...
 
 p) Assegurar a divulgação das medidas, a obtenção de candidaturas, a instrução, a aprovação e a remessa ao INGA, para efeitos de pagamento aos beneficiários, dos processos relativos às ajudas e outros apoios financiados pela Secção Garantia do FEOGA.
 
-###### Art. 5.º - 1 - Com a entrada em vigor do presente diploma é revogada a alínea c) do n.º 2 do artigo 7.º do Decreto Regulamentar n.º 41/93, de 26 de Novembro.
+Art. 5.º - 1 - Com a entrada em vigor do presente diploma é revogada a alínea c) do n.º 2 do artigo 7.º do Decreto Regulamentar n.º 41/93, de 26 de Novembro.
 
 2 - Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 1995. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 22 de Dezembro de 1995.**
+Promulgado em 22 de Dezembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Dezembro de 1995.**
+Referendado em 22 de Dezembro de 1995.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -46,40 +46,133 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/408-1981-573565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9b58a77025df78f89910518ef6241717803be772c98ca330ef01ff7ee9bdacc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f806614d6c4634b80550c4c1b6bd3f811378756f1664a56dbb754bb7d276f5ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bragança
+- Hospital Concelhio
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:180426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309699:por
+  label: "Alterado o quadro de pessoal do Hospital Concelhio de Macedo de Cavaleiros, pela PORT.212/83.1983.03.02.MFP DR.IS\
+    \ [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-1983-309699
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:435458:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Vila Flor, pela\
+    \ PORT.807-I2/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-i2-1983-435458
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435649:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal de enfermagem, o quadro de pessoal do\
+    \ Hospital Concelhio de Alfândega da Fé, pela PORT.807-I/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-i-1983-435649
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435651:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Torre de Moncorvo,\
+    \ aprovado pelo presente diploma, pela PORT.807-J/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-j-1983-435651
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435653:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Vimioso, aprovado\
+    \ pelo presente diploma, pela PORT.807-L/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-l-1983-435653
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435655:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio do Mogadouro aprovado\
+    \ pelo presente diploma, pela PORT.807-M/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-m-1983-435655
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435661:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Freixo de Espada\
+    \ à Cinta, aprovado pelo presente diploma, pela PORT.807-N/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-n-1983-435661
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435663:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Vila Flor, aprovado\
+    \ pelo presente diploma, pela PORT.807-O/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-o-1983-435663
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435665:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Miranda do Douro,\
+    \ aprovado pelo presente diploma, pela PORT.807-P/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-p-1983-435665
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:435667:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Vinhais, aprovado\
+    \ pelo presente diploma, pela PORT.807-Q/83.30.07.1983.MFP, DR.IS [174-2.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-q-1983-435667
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:384455:por
+  label: "Alterado o quadro de pessoal, na parte referente ao pessoal técnico superior e auxiliar, do Hospital Concelhio de\
+    \ Macedo de Cavaleiros, aprovado pelo presente diploma, pela PORT.316/84.26.05.1984.PCM, DR.IS [122] de 26.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1984-384455
+  date: '1984-05-26'
+- type: amended_by
+  target: pt:dre:325532:por
+  label: "Reestruturada os quadros de pessoal, na parte referente ao pessoal auxiliar, pela PORT.186/85.06.04.1985.PCM, DR.IS\
+    \ [80] de 06.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-1985-325532
+  date: '1985-04-06'
+- type: amended_by
+  target: pt:dre:180426:por
+  label: "Aumentado um lugar ao quadro de pessoal do hospital concelhio de Vila Flor aprovado pelo presente diploma, pela\
+    \ PORT.581/85.14.08.1985.PCM, DR.IS [186] de 14.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/581-1985-180426
+  date: '1985-08-14'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:27Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +193,4 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos hospitais concelhios do distrito de Bragança
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/11600/11601161.pdf))](https://files.diariodarepublica.pt/1s/1981/05/11600/11601161.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11600/11601161.pdf)

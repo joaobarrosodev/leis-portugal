@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/935-1983-441568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0521007858c15c2698889cf6382880d4801f555666125f38726c044a8486b68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f90c7ecbc33e3db5820a792a2e0cb1533fb3e9c709f513cc34c872eb905028a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Castelo Branco
+- Curso de Produção Agrícola
+- Curso de Produção Animal
+- Escola Superior Agrária
+- Instituto Politécnico
+- Numerus Clausus
 relationships:
 - type: amended_by
   target: pt:dre:515202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540836:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 960-A/83, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 254, SUPLEMENTO, DE 4/11/83.\0\
+    1/83.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:515202:por
+  label: "Revogaga, pela PORT.960-A/83.04.11.1983.ME, DR.IS [254-Supl] de 04.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/960-a-1983-515202
+  date: '1983-11-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:41Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +134,15 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, o seguint
 
 2.º Ao anexo da [Portaria n.º 837/83](https://diariodarepublica.pt/dr/detalhe/portaria/837-1983-540836), de 17 de Agosto, é acrescentado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
 
 3.º Ao anexo I-4 da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178), de 7 de Abril, é acrescentado o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
 
 4.º O anexo III da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178) passa a ter a seguinte redacção:
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf))](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/24300/36443646.pdf)
 
 5.º Ao n.º 3 do n.º 12.º da [Portaria n.º 387/83](https://diariodarepublica.pt/dr/detalhe/portaria/387-1983-313178) é aditada uma alínea e), com a seguinte redacção:
 
@@ -135,6 +172,6 @@ d) As propinas já pagas no primeiro estabelecimento serão deduzidas nas propin
 
 Ministério da Educação.
 
-**Assinada em 7 de Outubro de 1983.**
+Assinada em 7 de Outubro de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.

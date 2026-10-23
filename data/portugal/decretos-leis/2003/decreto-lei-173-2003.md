@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/176a00/45374538.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2003/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2003-652284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8edf239a7c54e2f093bf4e812e557876ec9a23b834fe89c8d680b0fde840ae53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 620c6b8447a440e7476e43ef8685275a9037372a19cdf0190c4abddedd6302f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,31 @@ reuse:
 subjects:
 - Assistência Médica
 - Consulta Médica
-- Serviço Nacional de Saúde
 - Meios Complementares de Diagnóstico
+- Serviço Nacional de Saúde
 - TAXA Moderadora
 relationships:
 - type: amended_by
   target: pt:dre:146061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638549:por
+  label: "Alterado o art. 2º pelo DEC LEI.201/2007.24.05.2007.MS, DR.IS [100] de 24.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2007-638549
+  date: '2007-05-24'
+- type: amended_by
+  target: pt:dre:249794:por
+  label: "Alterado o art. 2º, na redacção dada pelo Dec Lei 201/2007, de 24-Mai, pelo DEC LEI.79/2008.08.05.2008.MS, DR.IS\
+    \ [89] de 08.05.2008, que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2008-249794
+  date: '2008-05-08'
+- type: amended_by
+  target: pt:dre:613246:por
+  label: "Alterado o art. 2.º, na redacção do Dec Lei 201/2007, de 24-Maio e do Dec Lei 79/2008, 08-Maio, pelo DEC LEI.38/2010.20.04.2010.MS,\
+    \ DR.IS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2010-613246
+  date: '2010-04-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/1995/10/30/p/dre
   label: null
@@ -84,16 +101,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/54/1992/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/54/1992/04/11/p/dre
+- type: cites
+  target: pt:dre:199795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678455:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146061:por
+  label: Revogado em 01.01.2012, pelo DEC LEI.113/2011.29.11.2011.MS, DR.IS [229] de 29.11.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2011-146061
+  date: '2011-11-29'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:17Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +224,12 @@ s) Outros casos determinados em legislação especial.
 
 Visto e aprovado em Conselho de Ministros de 13 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira - António José de Castro Bagão Félix.
 
-**Promulgado em 16 de Julho de 2003.**
+Promulgado em 16 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Julho de 2003.**
+Referendado em 21 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

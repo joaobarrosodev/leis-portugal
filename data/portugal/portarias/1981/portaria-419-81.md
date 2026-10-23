@@ -46,40 +46,127 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-1981-573572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:45:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 851a38748ed8712184c7dfc3ec07c040942fdf07a94eb35e4d4f6a9c9f157dfc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0c813a2713e40103e546450a9b25612c36ac12655ac29c51ad2a05fb500ea9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Concelhio
+- Quadro de Pessoal
+- Viana do Castelo
 relationships:
 - type: amended_by
   target: pt:dre:177398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318165:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Valença, aprovado\
+    \ pelo presente diploma pela PORT.1256/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1256-1982-318165
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318166:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Melgaço, aprovado\
+    \ pelo presente diploma pela PORT.1257/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-1982-318166
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318167:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Caminha, aprovado\
+    \ pelo presente diploma pela PORT.1258/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1258-1982-318167
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318168:por
+  label: "Alterado o quadro de pessoal do Hospital Concelhio de Arcos de Valdevez pela PORT.1259/82.31.12.1982.MFP, DR.IS\
+    \ [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1259-1982-318168
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318281:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Paredes de Coura,\
+    \ aprovado pelo presente diploma pela PORT.1260/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1260-1982-318281
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318282:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Monção, aprovado\
+    \ pelo presente diploma pela PORT.1261/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1261-1982-318282
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318283:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Ponte da Barca,\
+    \ aprovado pelo presente diploma pela PORT.1262/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1262-1982-318283
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318284:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal do Hospital Concelhio de Vila Nova de\
+    \ Cerveira, aprovado pelo presente diploma pela PORT.1263/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1263-1982-318284
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:318302:por
+  label: "Alterado o quadro de pessoal do Hospital Concelhio de Ponte de Lima, aprovado pelo presente diploma pela PORT.1277/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1277-1982-318302
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:381077:por
+  label: "Reestruturado o quadro de pessoal do hospital distrital de Ponte de Lima, pela PORT.619/84.22.08.1984.PCM, DR.IS\
+    \ [194] de 22.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/619-1984-381077
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:180984:por
+  label: "Aumentado um lugar ao quadro de pessoal do Hospital concelhio de Vila Nova de Cerveira, aprovado pelo presente diploma,\
+    \ pela PORT.637/85.24.08.1985.PCM, DR.IS [194] de 24.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/637-1985-180984
+  date: '1985-08-24'
+- type: amended_by
+  target: pt:dre:177398:por
+  label: "Alterados, na parte respeitante ao pessoal operário e auxiliar, os quadros de pessoal de oito hospitais concelhios,\
+    \ aprovados pelo presente diploma, pela PORT.677/85.12.09.1985.PCM, DR.IS [210] de 12.09.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-1985-177398
+  date: '1985-09-12'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:45:42Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +187,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal dos hospitais concelhios do distrito de Viana do Castelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/11600/11771178.pdf))](https://files.diariodarepublica.pt/1s/1981/05/11600/11771178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11600/11771178.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá o abono mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos previstos na lei geral.

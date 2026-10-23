@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1986-227434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8111388b98e7e5f0c5d1f5df44fd8cd5e6a459a976d896e50ac3596d3372136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0f796e4c25a6c40c6ba3f18ed41d3f9a4ad3b2db651a14ba91ee63dd474e5a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Pessoal Civil
+- Serviços Departamentais das Forças Armadas
+relationships:
+- type: cites
+  target: pt:dre:375800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405521:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:518834:por
+  label: Rectificado pela DECL.DD4723.26.06.1986.PCM, DR.IS [147]2ºSupl de 30.06.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-518834
+  date: '1986-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:38Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +107,9 @@ Considerando o disposto no artigo 82.º do Estatuto do Pessoal Civil dos Serviç
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as normas de classificarão de serviço aplicáveis ao pessoal civil, funcionários e agentes dos Serviços Departamentais das Forças Armadas (SDFA).
+Artigo 1.º O presente diploma estabelece as normas de classificarão de serviço aplicáveis ao pessoal civil, funcionários e agentes dos Serviços Departamentais das Forças Armadas (SDFA).
 
-###### Art. 2.º A classificação de serviço visa a obtenção de um juízo de mérito acerca da conduta, capacidade profissional e rendimento de cada elemento do pessoal civil em relação às funções que tem desempenhado, classificação esta que se destina essencialmente a:
+Art. 2.º A classificação de serviço visa a obtenção de um juízo de mérito acerca da conduta, capacidade profissional e rendimento de cada elemento do pessoal civil em relação às funções que tem desempenhado, classificação esta que se destina essencialmente a:
 
 a) Dar continuidade ao processo apreciativo dos funcionários e agentes;
 
@@ -101,13 +117,13 @@ b) Facultar base objectiva para a selecção no acesso, nos termos em que a clas
 
 c) Orientar acções de formação e aperfeiçoamento profissionais.
 
-###### Art. 3.º - 1 - A classificação de serviço realizar-se-á através de uma ficha individual de apreciação (anexo I).
+Art. 3.º - 1 - A classificação de serviço realizar-se-á através de uma ficha individual de apreciação (anexo I).
 
 2 - A apreciação fundamentar-se-á na observação directa, objectiva e continuada dos apreciados, adiante designados por notados, e deve visar essencialmente as qualidades pessoais mais relevantes e seus reflexos na eficiência do trabalho e no desempenho efectivo das tarefas profissionais (anexo II).
 
 3 - Os responsáveis pela apreciação, adiante designados por notadores, devem esforçar-se por obter informações significativas do maior número possível de origens e, em especial, do pessoal que trabalhe directamente com o notado.
 
-###### Art. 4.º - 1 - A apreciação refere-se a determinado período da vida profissional do funcionário ou agente e não deve ser influenciada por apreciações anteriores.
+Art. 4.º - 1 - A apreciação refere-se a determinado período da vida profissional do funcionário ou agente e não deve ser influenciada por apreciações anteriores.
 
 2 - A apreciação pode ser:
 
@@ -115,7 +131,7 @@ a) Periódica, se realizada a título normal;
 
 b) Eventual, se elaborada a título extraordinário.
 
-###### Art. 5.º - 1 - As fichas individuais de apreciação são confidenciais e o seu conteúdo não pode servir de fundamento a acções disciplinares.
+Art. 5.º - 1 - As fichas individuais de apreciação são confidenciais e o seu conteúdo não pode servir de fundamento a acções disciplinares.
 
 2 - As fichas individuais de apreciação compreendem, entre outros, os seguintes elementos:
 
@@ -133,7 +149,7 @@ d) Homologação.
 
 5 - Os factores são pontuados de 1 a 5, definindo por ordem crescente os níveis ou intensidade atribuíveis a cada um deles pelos notadores.
 
-###### Art. 6.º - 1 - A classificação de serviço (CS) de cada funcionário ou agente exprime-se numa menção quantitativa e numa menção qualitativa, de acordo com o intervalo de valores em que a sua pontuação se situar:
+Art. 6.º - 1 - A classificação de serviço (CS) de cada funcionário ou agente exprime-se numa menção quantitativa e numa menção qualitativa, de acordo com o intervalo de valores em que a sua pontuação se situar:
 
 Até 1,49 - Mau;
 
@@ -161,7 +177,7 @@ Muito bom - supera a maioria dos requisitos da função; cumpre muito bem;
 
 Excepcional - supera em ampla margem os requisitos da função; cumpre de forma excepcional.
 
-###### Art. 7.º - 1 - O preenchimento da ficha incumbe ao notador, superior hierárquico do notado, designado pelo respectivo comandante, director ou chefe.
+Art. 7.º - 1 - O preenchimento da ficha incumbe ao notador, superior hierárquico do notado, designado pelo respectivo comandante, director ou chefe.
 
 2 - As observações destinam-se a o notador:
 
@@ -179,9 +195,9 @@ c) Incluir quaisquer informações do seu conhecimento que possam contribuir par
 
 4 - Quando o espaço reservado para as observações e ou para o parecer for de todo insuficiente serão utilizadas folhas adicionais à ficha de apreciação.
 
-###### Art. 8.º Quando os funcionários ou agentes prestem serviço regularmente fora do organismo a que pertencem, serão apreciados, nas mesmas condições, pelos chefes de quem funcionalmente dependem.
+Art. 8.º Quando os funcionários ou agentes prestem serviço regularmente fora do organismo a que pertencem, serão apreciados, nas mesmas condições, pelos chefes de quem funcionalmente dependem.
 
-###### Art. 9.º - 1 - A apreciação periódica será feita anualmente, referida a 31 de Dezembro, e entende-se reportada ao tempo de serviço prestado nesse ano civil, não abrangendo, no entanto, aquele que tenha sido classificado eventualmente.
+Art. 9.º - 1 - A apreciação periódica será feita anualmente, referida a 31 de Dezembro, e entende-se reportada ao tempo de serviço prestado nesse ano civil, não abrangendo, no entanto, aquele que tenha sido classificado eventualmente.
 
 2 - A avaliação e a notação são da competência dos notadores que reúnam o mínimo de seis meses de contacto funcional com os notados.
 
@@ -189,15 +205,15 @@ c) Incluir quaisquer informações do seu conhecimento que possam contribuir par
 
 4 - O exercício da competência para avaliar e notar deve ser precedido, sempre que possível, de reunião conjunta dos notadores de cada organismo ou serviço para consenso quanto aos procedimentos a adoptar.
 
-###### Art. 10.º As fichas individuais de apreciação periódica deverão ser enviadas ao órgão de gestão de pessoal até 31 de Janeiro do ano seguinte àquele a que dizem respeito, competindo a este órgão verificar o seu correcto preenchimento, analisar, coordenar e controlar os critérios utilizados nos diferentes organismos e serviços.
+Art. 10.º As fichas individuais de apreciação periódica deverão ser enviadas ao órgão de gestão de pessoal até 31 de Janeiro do ano seguinte àquele a que dizem respeito, competindo a este órgão verificar o seu correcto preenchimento, analisar, coordenar e controlar os critérios utilizados nos diferentes organismos e serviços.
 
-###### Art. 11.º - 1 - São objecto de apreciação eventual os funcionários ou agentes não abrangidos pelo artigo 9.º que só venham a reunir o requisito de seis meses de contacto funcional com o notador competente no período compreendido entre 31 de Dezembro de um ano e 30 de Junho do ano seguinte.
+Art. 11.º - 1 - São objecto de apreciação eventual os funcionários ou agentes não abrangidos pelo artigo 9.º que só venham a reunir o requisito de seis meses de contacto funcional com o notador competente no período compreendido entre 31 de Dezembro de um ano e 30 de Junho do ano seguinte.
 
 2 - A apreciação eventual abrange o serviço prestado até à data a que ela se reporta, incluindo o serviço prestado e não classificado no ano civil anterior.
 
 3 - As fichas individuais de apreciação eventual são elaboradas a solicitação do órgão de gestão de pessoal.
 
-###### Art. 12.º - 1 - Quando se verificar comprovada impossibilidade de atribuição de classificação de serviço relativamente a tempo de serviço relevante para efeitos de progressão ou promoção na carreira, a falta de classificação será suprida por ponderação do currículo profissional do funcionário ou agente efectuada de acordo com as normas contidas nos números seguintes.
+Art. 12.º - 1 - Quando se verificar comprovada impossibilidade de atribuição de classificação de serviço relativamente a tempo de serviço relevante para efeitos de progressão ou promoção na carreira, a falta de classificação será suprida por ponderação do currículo profissional do funcionário ou agente efectuada de acordo com as normas contidas nos números seguintes.
 
 2 - Constituem factores de ponderação do currículo profissional:
 
@@ -253,13 +269,13 @@ PF = ((2 x HA) + (1,9 x EP) + (0,1 x FP))/4
 
 7 - A pontuação final obtida nos termos do número anterior será traduzida numa das menções qualitativas previstas no n.º 1 do artigo 6.º
 
-###### Art. 13.º - 1 - A classificação de serviço só se considerará definitiva após homologação pelo director do serviço de pessoal do respectivo ramo ou entidade equivalente.
+Art. 13.º - 1 - A classificação de serviço só se considerará definitiva após homologação pelo director do serviço de pessoal do respectivo ramo ou entidade equivalente.
 
 2 - Depois de homologada a classificação de serviço, a parte II será enviada ao organismo de que depende o funcionário ou agente, devendo o respectivo comandante, director ou chefe dar conhecimento da mesma ao interessado, individualmente, bem como dos factores de apreciação iguais ou inferiores a 2.
 
 3 - A ponderação do currículo profissional prevista no artigo anterior, depois de homologada pela entidade mencionada no n.º 1, será igualmente comunicada ao interessado.
 
-###### Art. 14.º - 1 - O funcionário ou agente poderá reclamar, por escrito, no prazo de cinco dias, da classificação de serviço ou da ponderação do currículo profissional para a entidade que as homologou, devendo para o efeito ser facultado ao reclamante o conhecimento da sua ficha individual de apreciação ou dos elementos que determinaram aquela ponderação.
+Art. 14.º - 1 - O funcionário ou agente poderá reclamar, por escrito, no prazo de cinco dias, da classificação de serviço ou da ponderação do currículo profissional para a entidade que as homologou, devendo para o efeito ser facultado ao reclamante o conhecimento da sua ficha individual de apreciação ou dos elementos que determinaram aquela ponderação.
 
 2 - Se houver reclamação, a entidade a quem compete homologar a classificação de serviço ou a ponderação do currículo profissional mandará proceder a nova apreciação do reclamante ou à revisão da ponderação.
 
@@ -269,21 +285,21 @@ PF = ((2 x HA) + (1,9 x EP) + (0,1 x FP))/4
 
 5 - O chefe de estado-maior, depois de ordenar as diligências que entender convenientes, proferirá, no prazo de 45 dias, contados a partir da data da interposição do recurso, despacho definitivo, obtendo-se uma decisão hierarquicamente irrecorrível.
 
-###### Art. 15.º É revogado o [Decreto Regulamentar n.º 57-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-a-1981-405521), de 29 de Dezembro.
+Art. 15.º É revogado o [Decreto Regulamentar n.º 57-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-a-1981-405521), de 29 de Dezembro.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
 
-**Promulgado em 5 de Abril de 1986.**
+Promulgado em 5 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Abril de 1986.**
+Referendado em 11 de Abril de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10200/10431048.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10200/10431048.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1986/05/10200/10431048.pdf)
 
 ## ANEXO II — Definição dos factores de apreciação
 

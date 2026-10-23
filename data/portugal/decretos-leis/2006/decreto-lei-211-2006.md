@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03f29a16edbc7df8818f168afcdf704b6c23cfdac856cbc995a26295dbe34cd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9db3a988b20a7dfc1962c0d7e6db71d7753e09b8042da997de58b51e5e68517
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,73 +65,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Reestruturação de Serviços
-- Fundação Cartão do Idoso
-- Instituto do Emprego e Formação Profissional
+- Agência Nacional para a Qualificação
+- Autoridade para as Condições do Trabalho
+- Caixa de Previdência
+- CASA PIA de Lisboa
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Pessoal Dirigente
 - Comissão de Gestão
+- Comissão do Mercado Social de Emprego
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
 - Comissão Nacional do Rendimento Social de Inserção
 - Comissão Nacional para a Política de Terceira Idade
 - Comissão Nacional para a Promoção dos Ofícios e Microempresas Artesanais
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Conselho Nacional da Formação Profissional
-- Direcção Geral da Segurança Social
+- Comissão para a Promoção de Políticas de Família
+- Comissariado Nacional para os Assuntos da Família e da Criança
+- Conselho Consultivo das Famílias
 - Conselho Económico e Social
+- Conselho Nacional da Formação Profissional
 - Conselho Nacional de Higiene e Segurança do Trabalho
+- Conselho Nacional de Segurança Social
+- Conselho Nacional para a Família e Criança
 - Conselho Nacional para a Prevenção e Eliminação da Exploração do Trabalho Infantil
+- Conselho Nacional para a Promoção do Voluntariado
 - Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto António Sérgio do Sector Cooperativo
 - Criação de Serviços
-- Departamento de Acordos Internacionais de Segurança Social
 - Definição de Competências
+- Departamento de Acordos Internacionais de Segurança Social
+- Direcção Geral da Segurança Social
 - Direcção Geral da Segurança Social da Família e da Criança
 - Direcção Geral de Estudos Estatística e Planeamento
+- Direcção Geral do Emprego e das Relações de Trabalho
 - Extinção de Serviços
 - FAIA
-- Secretaria Geral
-- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Fundação Cartão do Idoso
 - Gabinete para a Cooperação
 - Gabinete para os Assuntos Europeus e Relações Internacionais
-- Ministério do Trabalho e da Solidariedade Social
-- Instituto de Gestão do Fundo Social Europeu
-- Agência Nacional para a Qualificação
+- Inatel
 - Inspecção Geral
+- Inspecção Geral do Trabalho
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto da Segurança Social
+- Instituto de Gestão de Fundos de Capitalização da Segurança Social
+- Instituto de Gestão do Fundo Social Europeu
 - Instituto de Gestão Financeira da Segurança Social
-- Instituto de Informática e Estatística da Segurança Social
 - Instituto de Informática
-- CASA PIA de Lisboa
+- Instituto de Informática e Estatística da Segurança Social
+- Instituto do Emprego e Formação Profissional
+- Instituto Nacional para a Reabilitação
 - Instituto para a Qualidade na Formação
 - Instituto para a Segurança Higiene e Saúde no Trabalho
 - Instituto Público
-- Santa Casa da Misericórdia
-- Comissão do Mercado Social de Emprego
-- Direcção Geral do Emprego e das Relações de Trabalho
-- Inspecção Geral do Trabalho
-- Caixa de Previdência
-- Comissariado Nacional para os Assuntos da Família e da Criança
-- Conselho Nacional de Segurança Social
-- Conselho Nacional para a Família e Criança
-- Conselho Nacional para a Promoção do Voluntariado
+- Ministério do Trabalho e da Solidariedade Social
 - Observatório do Emprego e Formação Profissional
 - Orgânica
-- Comissão para a Promoção de Políticas de Família
-- Conselho Consultivo das Famílias
+- Pessoal Dirigente
 - Programa de Apoio à Iniciativa Privada Social
 - Programa para a Prevenção e Eliminação da Exploração do Trabalho Infantil
 - Quadro de Pessoal
-- Instituto Nacional para a Reabilitação
+- Reestruturação de Serviços
+- Santa Casa da Misericórdia
+- Secretaria Geral
 - Serviços Sociais
-- Inatel
 - Transferência de Competências
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:145193:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521260:por
+  label: "Determinado que a CIG suceda nas atribuições da Comissão para a Igualdade noTrabalho e Emprego, no domínio da promoção\
+    \ da igualdade, reestruturada pelo presente diploma, pelo DEC LEI.164/2007.03.05.2007.PCM, DR.IS [85] de 03.05.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/164-2007-521260
+  date: '2007-05-03'
+- type: amended_by
+  target: pt:dre:398496:por
+  label: "Alterados os arts. 12º e 36º pelo DEC LEI.326-B/2007.28.09.2007.MTSSO, DR.IS [188-Supl] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-b-2007-398496
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:489763:por
+  label: "Alterado o art. 36º (na redacção do Dec Lei 326-B/2007, de 28-Set), aditado um art. 36º-A [ integrando na Autoridade\
+    \ para as Condições de Trabalho as atribuições do Programa para a Prevenção e Eliminação da Exploração do Trabalho Infantil,\
+    \ na parte relativa à prevenção e combate ao trabalho infantil, criado pela Res 37/2004, de 20-Mar, da PCM] e revogada\
+    \ a al. e) do nº 3 do art. 36º, pelo DEC LEI.229/2009.14.09.2009.MTSSO, DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2009-489763
+  date: '2009-09-14'
+- type: amended_by
+  target: pt:dre:308762:por
+  label: "Alterado o art. 32º, a partir de 01.12.2010, pelo DEC LEI.124/2010.17.11.2010.MTSSO, DR.IS [223] de 17.11.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2010-308762
+  date: '2010-11-17'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique na dependência do Ministério da Economia e do Emprego, até à aprovação do diploma da sua transferência\
+    \ para o Conselho Económico e Social (prevista no art. 39º do presente diploma) o Observatório do Emprego e Formação Profissional,\
+    \ criado pela Port 180/93 de 16-Fev, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2006/02/17/p/dre
   label: null
@@ -152,16 +185,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:168222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:626266:por
+  label: "Rectificado pela DECL-RECT.83-A/2006.21.12.2006.PCM, DR.IS [246]Supl de 26.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-a-2006-626266
+  date: '2006-12-21'
+- type: repealed_by
+  target: pt:dre:145193:por
+  label: "Revogado, a partir de 03.01.2012, o presente diploma, alterado pelos Dec Lei 326-B/2007 de 28-Set, 229/2009 de 14-Set\
+    \ e 124/2010 de 17-Nov, pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 article_structure:
   article_count: 42
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:48Z'
   warnings: []
   errors: []
 ---
@@ -780,24 +844,24 @@ A prossecução das atribuições de natureza operativa em matéria de processos
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)
 
 ## ANEXO III — Outras estruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/75087517.pdf)

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/2007/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2007-642517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0130e82dba63fee6cf4fde32902f2bb021714ffa1139c01d8d2a70f05d375a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdbcf36329a4200c3ca8164a27620b5fb5187411ba88bedc422c6882d4a8e38c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Inspeção Geral de Finanças
 - Definição de Competências
 - Feader
 - Feaga
 - IFAP
+- Inspeção Geral de Finanças
 - Liquidação de Despesas
 - Ministro das Finanças e da Administração Pública
 relationships:
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:09Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +124,7 @@ O presente decreto-lei estabelece as regras e os procedimentos a adoptar para a 
 
 ###### Artigo 2.º — Atribuições
 
-**O ministro responsável pela área das finanças é a autoridade competente para os efeitos previstos no n.º 2 do artigo 6.º do Regulamento (CE) n.º [1290/2005](https://data.europa.eu/eli/reg/2005/1290/oj?locale=pt), e a Inspecção-Geral de Finanças (IGF) é o organismo de certificação para os efeitos previstos no artigo 7.º do mesmo regulamento.**
+O ministro responsável pela área das finanças é a autoridade competente para os efeitos previstos no n.º 2 do artigo 6.º do Regulamento (CE) n.º [1290/2005](https://data.europa.eu/eli/reg/2005/1290/oj?locale=pt), e a Inspecção-Geral de Finanças (IGF) é o organismo de certificação para os efeitos previstos no artigo 7.º do mesmo regulamento.
 
 ###### Artigo 3.º — Acreditação do organismo pagador
 
@@ -190,12 +190,12 @@ Através dos meios que entender adequados, incluindo deslocação dos inspectore
 
 Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - Fernando Teixeira dos Santos - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Rui Nobre Gonçalves.
 
-**Promulgado em 13 de Setembro de 2007.**
+Promulgado em 13 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Setembro de 2007.**
+Referendado em 14 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

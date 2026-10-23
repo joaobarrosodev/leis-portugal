@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/122a00/45384542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2006/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2006-357771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d750d8288cce768965f80ab1125834567056f1a2328c4519a88836f14dbefc47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5f135a7644bf6fe17ddd3acf563fcd5c8be91476698e5f58f7509034d6103d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Aproximação das Legislações
+- ASAE
 - CEE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Contra-ordenação
-- Direção Geral de Veterinária
+- Controlo Sanitário
 - Definição de Competências
 - Delegação de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Saúde Pública
 - Estabelecimento Industrial
 - Fiscalização
-- ASAE
 - Licenciamento
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Política Agrícola Comum
-- Alimento para Animais
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:106647823:por
@@ -98,16 +98,32 @@ relationships:
   target: celex:32002R1774
   label: null
   source: http://data.europa.eu/eli/reg/2002/1774/oj
+- type: repealed_by
+  target: pt:dre:280485:por
+  label: "Revogado, a partir de 12.02.2011, o Dec Lei 244/2003, de 07-Out, na redacção do presente diploma, pelo DEC LEI.19/2011.07.02.2011.MADRP,\
+    \ DR.IS [26] de 07.02.2011, em tudo o que o contrarie.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2011-280485
+  date: '2011-02-07'
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, pelo(a) Decreto-Lei n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
+- type: repeals
+  target: pt:numero:decreto-lei:244/2003
+  label: "Revoga a alínea c) do n.º 2 do artigo 10.º do Decreto-Lei n.º 244/2003, de 7 de Outubro, DR.IS-A [232]\0\0"
+  source: null
+  date: '2003-10-07'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:12Z'
   warnings: []
   errors: []
 ---
@@ -284,16 +300,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa - António José de Castro Guerra - Rui Nobre Gonçalves.
 
-**Promulgado em 14 de Junho de 2006.**
+Promulgado em 14 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Junho de 2006.**
+Referendado em 16 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/122a00/45384542.pdf))](https://files.diariodarepublica.pt/1s/2006/06/122a00/45384542.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/122a00/45384542.pdf)

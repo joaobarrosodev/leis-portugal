@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 119/2004, 2º Suplemento, Série I-A de 2004-05-21
   number: '119'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3254-(74) a 3254-(74)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/05/119a02/00740074.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/26-c/2004/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/26-c-2004-476763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a22e90d0f56d41b49008bdf34f2a74e6427f9c685eb3d10dee9547230504f08b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 515fc3e5ad20e5d8b473fff6632fc58092cd860f036ae112d30e0da931de4df5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Governo XV
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Nomeação
-- Governo XV
 relationships:
 - type: amended_by
   target: pt:dre:275828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275828:por
+  label: "Demitido o Governo, por efeito da aceitação do pedido de demissão do Primeiro-Ministro Dr. José Manuel Durão Barroso,\
+    \ pelo DEC.32-A/2004.06.07.2004.PR, DR.IS-A [157-Supl] de 06.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/32-a-2004-275828
+  date: '2004-07-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:23Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +97,16 @@ validation:
 
 de 21 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Primeiro-Ministro, o Dr. Arlindo Marques da Cunha para o cargo de Ministro das Cidades, Ordenamento do Território e Ambiente.
 
-**Assinado em 21 de Maio de 2004.**
+Assinado em 21 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Maio de 2004.**
+Referendado em 21 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

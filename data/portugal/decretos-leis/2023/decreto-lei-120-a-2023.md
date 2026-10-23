@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22
   number: '246'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 70-(2) a 70-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24601/0000200007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120-a/2023/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 343ba44214ff336320e9f692d906d3ddb5849b632aa663cddf71e92ddee90a7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 503a45269802f08c40b5ee5037095d1b64cfd7bb5e4c1dae97d530ebc5a88dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estamo-participações Imobiliárias
 - BENS Imóveis do Estado
+- Estamo-participações Imobiliárias
+- Fundo de Reabilitação e Conservação Patrimonial
 - Gestão do Património
 - Património do Estado
-- Fundo de Reabilitação e Conservação Patrimonial
 - Programa de Gestão do Património Imobiliário Público
 relationships:
 - type: amended_by
   target: pt:dre:992627242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:24/2009
+  label: Altera, a partir de 23 de dezembro de 2023, com efeitos a 25 de julho de 2023, o artigo 6.º do Decreto-Lei n.º 24/2009,
+    de 21 de janeiro, Diário da República n.º 14/2009, Série I
+  source: null
+  date: '2009-01-21'
+- type: amends
+  target: pt:numero:decreto-lei:80/2022
+  label: Altera, a partir de 23 de dezembro de 2023, o anexo do Decreto-Lei n.º 80/2022, de 25 de novembro, Diário da República
+    n.º 228/2022, Série I
+  source: null
+  date: '2022-11-25'
+- type: amends
+  target: pt:numero:decreto-lei:60/2023
+  label: Altera, a partir de 23 de dezembro de 2023, os artigos 2.º, 14.º, 16.º e 19.º e o anexo (todos estes com efeitos
+    a 25 de julho de 2023), adita o artigo 22.º-A (com efeitos a 25 de julho de 2023) e revoga o n.º 2 do artigo 19.º do Decreto-Lei
+    n.º 60/2023, de 24 de julho, Diário da República n.º 142/2023, Série I
+  source: null
+  date: '2023-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2023/02/08/p/dre
   label: null
@@ -101,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/293/2009/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/293/2009/03/24/p/dre
+- type: cites
+  target: pt:dre:203898214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:58Z'
   warnings: []
   errors: []
 ---
@@ -259,7 +302,9 @@ ff) [...]
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -273,7 +318,9 @@ ff) [...]
 
 6 - O disposto no n.º 4 aplica-se aos imóveis identificados nos n.os 21 e 23 do anexo i do presente decreto-lei que se encontrem ocupados por entidades públicas à data da conclusão da respetiva regularização sem que seja possível a sua libertação imediata, contando-se o prazo naquele previsto a partir da data em que se concluir o respetivo processo de regularização matricial e registal.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -285,7 +332,9 @@ ff) [...]
 
 5 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Todas as referências legais às atribuições e competências da DGTF ou ao diretor-geral da DGTF em matéria de gestão do património imobiliário público do Estado consideram-se feitas, respetivamente, à ESTAMO, S. A., e ao presidente do conselho de administração da ESTAMO, S. A.
 
@@ -327,15 +376,15 @@ O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Pedro Nuno Pereira de Sousa Rodrigues - António José da Costa Silva.
 
-**Promulgado em 20 de dezembro de 2023.**
+Promulgado em 20 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2023.**
+Referendado em 21 de dezembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -343,10 +392,10 @@ Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António L
 
 [...]
 
-|  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Artigo | Secção | Freguesia | Concelho | Nome da propriedade |  |
-| [...] 64 | [...] F | [...] Sines... | [...] Sines... | [...] Courela do Meio. | » |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| [...]<br>64 | [...]<br>F | [...]<br>Sines... | [...]<br>Sines... | [...]<br>Courela do Meio. | » |
 
 ## ANEXO II — (a que se refere o artigo 6.º)
 
@@ -354,9 +403,9 @@ Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António L
 
 [...]
 
-|  |  |  |  |  |  |  |
+| Número | Identificação/localização<br>dos imóveis | Descrição<br>predial | Matriz<br>predial | Natureza<br>do direito/título | Entidade ocupante/proprietária |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Número | Identificação/localização dos imóveis | Descrição predial | Matriz predial | Natureza do direito/título | Entidade ocupante/proprietária |  |
+|  |  |  |  |  |  |  |
 | 1 | [...] | [...] | [...] | [...] | [...] |  |
 | 2 | [...] | [...] | [...] | [...] | [...] |  |
 | 3 | [...] | [...] | [...] | [...] | [...] |  |
@@ -381,3 +430,5 @@ Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António L
 | 22 | [...] | [...] | [...] | [...] | [...] |  |
 | 23 | [...] | [...] | [...] | [...] | Centro Hospitalar Universitário de Lisboa Central, E. P. E. |  |
 | 24 | Frações autónomas designadas pelas letras 'E', 'F', 'G', 'H', 'I', 'J', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'X', 'Z', 'AA', 'AB', 'AC', 'AD', 'AE', 'AF', 'AG', 'AH', 'AI' e 'AJ' sitas no Bloco 'A', fração 'D' sita no Bloco 'B', fração 'CT' sita na terceira cave, fração 'CU' sita na quarta cave e fração 'CV', sita na quarta cave, todas do prédio urbano sito na Rua Fernando Curado Ribeiro, n.os 4, 4-A a 4-G, e na Rua Cipriano Dourado, n.os 12 e 12-A, em Lisboa. | Artigo 2574, da freguesia do Lumiar. | 1548, da freguesia do Lumiar. | Direito de propriedade/título de adjudicação por ajuste direto. | Instituto de Financiamento da Agricultura e Pescas, I. P. | » |
+
+117193411

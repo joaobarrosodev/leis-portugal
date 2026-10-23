@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-1978-447084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70402ff5b8f0bee97794deae489c4279060eb2fd38f6583665d04ad41abaf918
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6df9bf1d313444f04ddd1e223e13e46e17418bbc4811831f1e03ecf8e19c0b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chaves
+- Comissão Regional de Turismo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:220123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383254:por
+  label: Alterada, com efeitos desde 01.06.1978, a remuneração do chefe de secretaria do quadro de pessoal da Comissão Regional
+    de Turismo de Chaves pela PORT.274/79.11.06.1979.PCM, DR.IS [134] de 11.06.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1979-383254
+  date: '1979-06-11'
+- type: amended_by
+  target: pt:dre:220123:por
+  label: "Alargado o quadro de pessoal, pela PORT.506/86.10.09.1986.PCM, DR.IS [208] de 10.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/506-1986-220123
+  date: '1986-09-10'
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:18Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +111,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo, 
 
 É aprovado o novo quadro de pessoal da Comissão Regional de Turismo de Chaves, o qual passa a ter a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07500/06110611.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07500/06110611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07500/06110611.pdf)
 
 Ministérios das Finanças e do Plano, da Administração Interna e do Comércio e Turismo, 14 de Março de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Administração Interna, Jaime José Matos da Gama. - O Ministro do Comércio e Turismo, Basílio Adolfo Mendonça Horta da Franca.

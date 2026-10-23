@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-1975-335945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 659eb59c1b8d715119d9602848b1ac6fd1d9c19acb4166cf393f529bfdd2b7d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c6e8619c987453dfa5a041297212e21f264bcaa9c3c8a50213d4196ecd67f4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Força Aérea
+- Paraquedismo
+- Reclassificação de Pessoal
+- Tropa Paraquedista
+relationships:
+- type: cites
+  target: pt:dre:507852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:43:59Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando, ainda, ser de toda a conveniência regulamentar a reclassificaçã
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
 
-###### Artigo único. O n.º 2.º da [Portaria n.º 21696](https://diariodarepublica.pt/dr/detalhe/portaria/21696-1965-507852), de 3 de Dezembro de 1965, passa a ter a seguinte redacção:
+Artigo único. O n.º 2.º da [Portaria n.º 21696](https://diariodarepublica.pt/dr/detalhe/portaria/21696-1965-507852), de 3 de Dezembro de 1965, passa a ter a seguinte redacção:
 
 Os soldados recrutados ao abrigo da alínea e) do artigo 4.º do Decreto-Lei n.º 42075, de 31 de Dezembro de 1958, quando não obtenham aproveitamento nos cursos de pára-quedismo e nos tirocínios de pára-quedismo, passam a ser considerados como pessoal privativo não permanente da Força Aérea e reclassificados em serviço geral - serviço interno.
 

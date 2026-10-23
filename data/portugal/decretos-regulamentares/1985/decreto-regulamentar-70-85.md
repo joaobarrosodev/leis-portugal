@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1985-171372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 969dce18332c4385d3079761210935d0db0f7480c8c756e63bd218c44377dcdf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eacd9ac4193505b49acedfe310d2495fb1388300b9d434acb8024d79cc7761a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Serviços Sociais Universitários
+- Universidade de Coimbra
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:168073:por
+  label: Rectificado pela DECL.DD4533.30.10.1985.PCM, DR.IS [26-1º supl] de 31.01.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-168073
+  date: '1985-10-30'
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 43.º a 52.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:10Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +140,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade de Coimbra, adiante designados por SSUC, são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Coimbra.
+Artigo 1.º Os Serviços Sociais da Universidade de Coimbra, adiante designados por SSUC, são uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e funcionam na Universidade de Coimbra.
 
-###### Art. 2.º Os SSUC têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUC têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUC beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Coimbra e preencham as condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUC beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade de Coimbra e preencham as condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na Universidade de Coimbra que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUC nos termos do disposto nos números seguintes.
 
@@ -114,7 +160,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Dos órgãos e seu funcionamento
 
-###### Art. 4.º São órgãos dos SSUC:
+Art. 4.º São órgãos dos SSUC:
 
 a) o presidente;
 
@@ -122,7 +168,7 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 5.º - 1 - O presidente dos SSUC é, por inerência, o reitor da Universidade de Coimbra.
+Art. 5.º - 1 - O presidente dos SSUC é, por inerência, o reitor da Universidade de Coimbra.
 
 2 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
@@ -144,7 +190,7 @@ g) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 4 - O presidente dos SSUC poderá receber do Ministro da Educação delegação de competência para despachar assuntos relativos a funções de administração geral, considerando-se como tais as que respeitem às actividades correntes dos SSUC e à gestão de recursos humanos.
 
-###### Art. 6.º - 1 - O conselho geral é um órgão consultivo com a seguinte composição:
+Art. 6.º - 1 - O conselho geral é um órgão consultivo com a seguinte composição:
 
 a) O presidente dos SSUC, que preside;
 
@@ -166,7 +212,7 @@ f) Dois representantes das associações de estudantes da Universidade de Coimbr
 
 5 - Os membros do conselho geral referidos nas alíneas d), e) e f) manter-se-ão em funções após o termo dos respectivos mandatos até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 7.º - 1 - Compete ao conselho geral:
+Art. 7.º - 1 - Compete ao conselho geral:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades, a submeter à aprovação do CASES;
 
@@ -198,7 +244,7 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 8 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUC cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 8.º - 1 - O conselho administrativo é constituído por:
+Art. 8.º - 1 - O conselho administrativo é constituído por:
 
 a) O presidente dos SSUC, que preside;
 
@@ -214,7 +260,7 @@ d) O chefe da Repartição de Administração Geral, que secretaria.
 
 4 - O membro do conselho administrativo a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -256,7 +302,7 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços e seu funcionamento
 
-###### Art. 10.º - São serviços dos SSUC:
+Art. 10.º - São serviços dos SSUC:
 
 a) Serviços operativos;
 
@@ -264,7 +310,7 @@ b) Repartição de Administração Geral;
 
 c) Repartição de Aprovisionamento.
 
-###### Art. 11.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
+Art. 11.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
 
 a) Do alojamento;
 
@@ -288,7 +334,7 @@ i) De saúde.
 
 3 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos serviços operativos, por um dos elementos neles colocados com a experiência e formação adequadas para o lugar, a designar para o efeito.
 
-###### Art. 12.º A Repartição de Administração Geral compreende as seguintes secções:
+Art. 12.º A Repartição de Administração Geral compreende as seguintes secções:
 
 a) Contabilidade, orçamento e conta;
 
@@ -298,7 +344,7 @@ c) Expediente e arquivo;
 
 d) Património.
 
-###### Art. 13.º A Repartição de Aprovisionamento compreende as seguintes secções:
+Art. 13.º A Repartição de Aprovisionamento compreende as seguintes secções:
 
 a) Economato;
 
@@ -306,9 +352,9 @@ b) Gestão de stocks e armazéns;
 
 c) Transportes e distribuição.
 
-###### Art. 14.º A criação, alteração ou extinção de serviços far-se-á por decreto regulamentar dos Ministros das Finanças e do Plano e da Educação e do membro do Governo que superintender na função pública, sob proposta do CASES, com base em projecto a apresentar pelo presidente dos SSUC.
+Art. 14.º A criação, alteração ou extinção de serviços far-se-á por decreto regulamentar dos Ministros das Finanças e do Plano e da Educação e do membro do Governo que superintender na função pública, sob proposta do CASES, com base em projecto a apresentar pelo presidente dos SSUC.
 
-###### Art. 15.º - 1 - Em matéria de alojamento, compete aos SSUC:
+Art. 15.º - 1 - Em matéria de alojamento, compete aos SSUC:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -324,7 +370,7 @@ f) Zelar pela manutenção e conservação do equipamento e instalações afecta
 
 g) Enviar à Repartição de Administração Geral os elementos necessários à cobrança pontual das receitas dos alojamentos e à elaboração dos orçamentos e relatórios anuais dos SSUC.
 
-###### Art. 16.º Em matéria de alimentação, compete aos SSUC:
+Art. 16.º Em matéria de alimentação, compete aos SSUC:
 
 a) Providenciar pela abertura e assegurar o funcionamento de cantinas, refeitórios, snacks e bares;
 
@@ -338,7 +384,7 @@ e) Enviar directamente à tesouraria as receitas das cantinas, refeitórios, sna
 
 f) Enviar à Repartição de Administração Geral os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUC.
 
-###### Art. 17.º Em matéria de bolsas e empréstimos, compete aos SSUC:
+Art. 17.º Em matéria de bolsas e empréstimos, compete aos SSUC:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários a estudantes matriculados em estabelecimentos de ensino superior abrangidos pelos SSUC, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -350,7 +396,7 @@ d) Estudar e propor ao presidente dos SSUC a adopção de novos esquemas e tipos
 
 e) Enviar à Repartição de Administração Geral os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUC
 
-###### Art. 18.º Em matéria de infantário e jardim infantil, compete aos SSUC:
+Art. 18.º Em matéria de infantário e jardim infantil, compete aos SSUC:
 
 a) Providenciar pela abertura e assegurar o funcionamento de instalações adequadas à prestação de serviços de infantário e jardim infantil;
 
@@ -370,7 +416,7 @@ h) Enviar à tesouraria as receitas do infantário e jardim infantil;
 
 i) Enviar à Repartição de Administração Geral os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUC.
 
-###### Art. 19.º Em matéria de textos e reprografia, compete aos SSUC:
+Art. 19.º Em matéria de textos e reprografia, compete aos SSUC:
 
 a) Promover a edição ou reedição de folhas e textos de apoio didáctico;
 
@@ -384,7 +430,7 @@ e) Manter permanentemente actualizado um sistema de controle de utilizações e 
 
 f) Enviar à Repartição de Administração Geral os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUC.
 
-###### Art. 20.º Em matéria de livraria e material escolar, compete aos SSUC:
+Art. 20.º Em matéria de livraria e material escolar, compete aos SSUC:
 
 a) Promover a venda de edições científicas, técnicas e de textos didácticos nacionais ou estrangeiros, bem como os dos próprios estabelecimentos de ensino ou os publicados pelos serviços do Ministério da Educação;
 
@@ -402,7 +448,7 @@ g) Enviar à tesouraria as receitas do serviço;
 
 h) Enviar à Repartição de Administração Geral os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUC.
 
-###### Art. 21.º Em matéria de oficinas e manutenção, compete aos SSUC:
+Art. 21.º Em matéria de oficinas e manutenção, compete aos SSUC:
 
 a) Providenciar para que todo o equipamento existente nas diversas cantinas, residências, bares, snacks-bars, armazéns e serviços centrais esteja permanentemente em boas condições de utilização;
 
@@ -418,7 +464,7 @@ f) Manter actualizado um ficheiro de trabalhos executados e a executar, bem como
 
 g) Enviar aos serviços competentes os elementos necessários à elaboração do programa de trabalhos a executar em cada ano.
 
-###### Art. 22.º Em matéria de lavandaria e rouparia, compete aos SSUC:
+Art. 22.º Em matéria de lavandaria e rouparia, compete aos SSUC:
 
 a) Executar as tarefas de lavagens e tratamento de roupas, incluindo a preparação, funcionamento e desinfecção das respectivas máquinas;
 
@@ -428,7 +474,7 @@ c) Zelar pela conservação do equipamento e das instalações que lhes forem af
 
 d) Enviar aos serviços competentes os elementos necessários à apreciação de controle e funcionamento do respectivo serviço.
 
-###### Art. 23.º Em matéria de saúde, compete aos SSUC:
+Art. 23.º Em matéria de saúde, compete aos SSUC:
 
 a) Promover e propor a política geral em matéria de saúde, de acordo com as necessidades dos estudantes, os progressos técnico-científicos e os recursos disponíveis;
 
@@ -440,9 +486,9 @@ d) Fomentar, participar e realizar trabalhos de investigação essencialmente no
 
 e) Orientar e avaliar periodicamente a eficácia e eficiência dos serviços nas diversas especialidades, bem como nos serviços de enfermagem.
 
-###### Art. 24.º A Repartição de Administração Geral exerce a sua acção nos domínios de administração financeira e patrimonial do pessoal, expediente geral e arquivo e é dirigida por um chefe de repartição.
+Art. 24.º A Repartição de Administração Geral exerce a sua acção nos domínios de administração financeira e patrimonial do pessoal, expediente geral e arquivo e é dirigida por um chefe de repartição.
 
-###### Art. 25.º À secção de contabilidade, orçamento e conta, dirigida por um chefe de secção, compete:
+Art. 25.º À secção de contabilidade, orçamento e conta, dirigida por um chefe de secção, compete:
 
 a) Executar a escrituração respeitante à contabilidade dos SSUC;
 
@@ -468,7 +514,7 @@ l) Promover a elaboração do balanço anual do património dos SSUC;
 
 m) Registar e tratar os dados com interesse estatístico que proporcionem conhecimentos actualizados das actividades.
 
-###### Art. 26.º À secção de pessoal, dirigida por um chefe de secção, compete:
+Art. 26.º À secção de pessoal, dirigida por um chefe de secção, compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, transferência, exoneração, rescisão de contratos, demissão e aposentação do pessoal dos SSUC;
 
@@ -482,7 +528,7 @@ e) Processar a folha de vencimentos, salários, gratificações e outros abonos 
 
 f) Prestar o apoio necessário à realização de acções sistemáticas de formação profissional e aperfeiçoamento do pessoal dos SSUC.
 
-###### Art. 27.º À secção de expediente e arquivo, dirigida por um chefe de secção, compete:
+Art. 27.º À secção de expediente e arquivo, dirigida por um chefe de secção, compete:
 
 a) Assegurar o expediente dos SSUC, bem como a organização, manutenção e permanente actualização do arquivo;
 
@@ -490,7 +536,7 @@ b) Assegurar a adequada circulação de documentos e normas pelos serviços;
 
 c) Assegurar o apoio dactilográfico a todos os sectores dos SSUC.
 
-###### Art. 28.º À secção de património, dirigida por um chefe de secção, compete:
+Art. 28.º À secção de património, dirigida por um chefe de secção, compete:
 
 a) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos SSUC;
 
@@ -498,7 +544,7 @@ b) Zelar pela segurança das instalações dos SSUC;
 
 c) Organizar os autos de abate e inutilização dos bens deteriorados e sem valor, bem como organizar os processos de venda daqueles que, já sem interesse para os SSUC, possam ainda ter qualquer valor residual.
 
-###### Art. 29.º Adstrita à Repartição de Administração Geral dos SSUC funciona a tesouraria, à qual compete:
+Art. 29.º Adstrita à Repartição de Administração Geral dos SSUC funciona a tesouraria, à qual compete:
 
 a) Receber todas as receitas dos SSUC;
 
@@ -510,15 +556,15 @@ d) Manter rigorosamente actualizada a escrita relativa às operações de tesour
 
 e) Fornecer todos os elementos à secção de contabilidade, orçamento e conta necessários ao desempenho das respectivas competências.
 
-###### Art. 30.º A Repartição de Aprovisionamento exerce a sua acção nos domínios da gestão de stocks, abastecimentos e economato e é dirigida por um chefe de repartição.
+Art. 30.º A Repartição de Aprovisionamento exerce a sua acção nos domínios da gestão de stocks, abastecimentos e economato e é dirigida por um chefe de repartição.
 
-###### Art. 31.º À secção de economato, dirigida por um chefe de secção, compete:
+Art. 31.º À secção de economato, dirigida por um chefe de secção, compete:
 
 a) Proceder à prospecção de mercados e centralizar os processos de aquisição e consultas, nos termos das disposições legais vigentes;
 
 b) Assegurar a aquisição dos artigos necessários à exploração de residências, refeitórios, bares, snacks e ao funcionamento dos serviços.
 
-###### Art. 32.º À secção de armazém e gestão de stocks, dirigida por um chefe de secção, compete:
+Art. 32.º À secção de armazém e gestão de stocks, dirigida por um chefe de secção, compete:
 
 a) Assegurar a existência de stocks mínimos de todo o material em armazém;
 
@@ -530,7 +576,7 @@ d) Elaborar o cadastro e inventário dos bens em armazém;
 
 e) Providenciar no sentido da conservação e manutenção dos géneros em armazéns e do equipamento que lhes esteja afecto.
 
-###### Art. 33.º À secção de transportes e distribuição, dirigida por um chefe de secção, compete:
+Art. 33.º À secção de transportes e distribuição, dirigida por um chefe de secção, compete:
 
 a) Assegurar o transporte de mercadorias e artigos dos locais de aquisição para os armazéns dos SSUC;
 
@@ -540,9 +586,9 @@ c) Zelar pela manutenção e conservação do equipamento que lhe estiver adstri
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 34.º Para a realização dos seus fins, os SSUC administrarão os bens do domínio público a seu cargo.
+Art. 34.º Para a realização dos seus fins, os SSUC administrarão os bens do domínio público a seu cargo.
 
-###### Art. 35.º - 1 - Os SSUC arrecadarão e administrarão as suas receitas e satisfarão por meio delas os encargos que legalmente lhes caibam.
+Art. 35.º - 1 - Os SSUC arrecadarão e administrarão as suas receitas e satisfarão por meio delas os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUC:
 
@@ -560,31 +606,31 @@ f) Os juros das importâncias depositadas;
 
 g) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam atribuídas.
 
-###### Art. 36.º - 1 - As disponibilidades dos SSUC serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 36.º - 1 - As disponibilidades dos SSUC serão depositadas na Caixa Geral de Depósitos, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos, devidamente legalizados.
 
-###### Art. 37.º A gestão económica e financeira dos SSUC será disciplinada pelos seguintes instrumentos de previsão:
+Art. 37.º A gestão económica e financeira dos SSUC será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividade financeira anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 38.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização das responsabilidades e adequado controle de gestão.
+Art. 38.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização das responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação, após apreciação do conselho geral e do CASES, e ao visto do Ministro das Finanças e do Plano, nos prazos legais.
 
 3 - Os SSUC poderão ainda submeter a aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo quer a ocorrer a despesas nele previstas, quer ainda para fins de alteração de rubricas.
 
-###### Art. 39.º O conselho administrativo requisitará, mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações orçamentais atribuídas no Orçamento do Estado e das constantes de contas de ordem.
+Art. 39.º O conselho administrativo requisitará, mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias por conta das dotações orçamentais atribuídas no Orçamento do Estado e das constantes de contas de ordem.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 40.º - 1 - Os SSUC dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 40.º - 1 - Os SSUC dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, o quadro de pessoal dos SSUC poderá ser revisto, por proposta do CASES, mediante portaria dos Ministros das Finanças e do Plano e da Educação e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 41.º O quadro de pessoal dos SSUC compreenderá os seguintes grupos profissionais:
+Art. 41.º O quadro de pessoal dos SSUC compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -606,7 +652,7 @@ i) Pessoal operário;
 
 j) Pessoal auxiliar.
 
-###### Art. 42.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 42.º - 1 - Sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, relativamente às carreiras de pessoal de informática, o provimento do pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -624,29 +670,29 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 43.º - 1 - As formas de recrutamento e regime de provimento de pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
+Art. 43.º - 1 - As formas de recrutamento e regime de provimento de pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
 
 2 - O cargo de vice-presidente dos SSUC é equiparado, para todos os efeitos legais, ao de subdirector-geral.
 
 3 - Os lugares de chefe de repartição serão providos por concurso de entre chefes de secção com, pelo menos, 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado e reconhecida competência para o exercício do cargo.
 
-###### Art. 44.º Os lugares de assessor, técnico superior principal, de 1.ª classe e de 2.ª classe serão providos nos termos da lei geral.
+Art. 44.º Os lugares de assessor, técnico superior principal, de 1.ª classe e de 2.ª classe serão providos nos termos da lei geral.
 
-###### Art. 45.º O recrutamento e regimes de provimento do pessoal de informática são os previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 45.º O recrutamento e regimes de provimento do pessoal de informática são os previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
-###### Art. 46.º - 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 2 anos de bom e efectivo serviço na categoria.
+Art. 46.º - 1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe serão providos de entre, respectivamente, os técnicos de serviço social de 1.ª classe e de 2.ª classe com um mínimo de 2 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre habilitados com curso superior de Serviço Social ou equiparado.
 
-###### Art. 47.º O recrutamento, ingresso e acesso dos educadores de infância e auxiliares de educação são os previstos no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, aplicável por força do disposto no [Decreto-Lei n.º 485/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1980-462585), de 17 de Outubro.
+Art. 47.º O recrutamento, ingresso e acesso dos educadores de infância e auxiliares de educação são os previstos no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, aplicável por força do disposto no [Decreto-Lei n.º 485/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1980-462585), de 17 de Outubro.
 
-###### Art. 48.º O recrutamento, ingresso e acesso do pessoal de enfermagem são os previstos no [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio.
+Art. 48.º O recrutamento, ingresso e acesso do pessoal de enfermagem são os previstos no [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio.
 
-###### Art. 49.º - 1 - Os lugares de técnico auxiliar de contabilidade e administração e técnico auxiliar de electrónica e montador de quadros eléctricos são providos de entre indivíduos habilitados com curso adequado de formação técnico-profissional.
+Art. 49.º - 1 - Os lugares de técnico auxiliar de contabilidade e administração e técnico auxiliar de electrónica e montador de quadros eléctricos são providos de entre indivíduos habilitados com curso adequado de formação técnico-profissional.
 
 2 - O provimento nas categorias de acesso efectuar-se-á, nos termos da lei, de entre funcionários de categoria imediatamente inferior com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 50.º - 1 - Os lugares de chefe de secção serão providos nos termos da lei geral.
+Art. 50.º - 1 - Os lugares de chefe de secção serão providos nos termos da lei geral.
 
 2 - Os lugares de primeiro-oficial, de segundo-oficial e de terceiro-oficial serão providos nos termos da lei geral.
 
@@ -658,7 +704,7 @@ b) No lugar do quadro em que vier a ser provido definitivamente, finda a comiss�
 
 6 - O recrutamento, ingresso e acesso dos escriturários-dactilógrafos rege-se pelo disposto na lei geral.
 
-###### Art. 51.º - 1 - O recrutamento, ingresso e acesso do pessoal operário rege-se pelo disposto na lei geral.
+Art. 51.º - 1 - O recrutamento, ingresso e acesso do pessoal operário rege-se pelo disposto na lei geral.
 
 2 - O recrutamento para encarregado de refeitório far-se-á de entre cozinheiros principais com 3 anos de serviço na categoria e classificação de serviço não inferior a Bom ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe, em ambos os casos com, pelo menos, 6 anos de serviço na categoria e classificação de serviço não inferior a Bom.
 
@@ -674,11 +720,11 @@ b) O acesso fica condicionado à permanência de 5 anos de bom e efectivo servi�
 
 c) Os lugares de cozinheiro principal são recrutados de entre cozinheiros de 1.ª classe com, pelo menos, 3 anos na categoria e mediante provas de selecção.
 
-###### Art. 52.º - 1 - Os lugares de motorista, telefonista, auxiliar administrativo e vigilante serão recrutados nos termos da lei geral.
+Art. 52.º - 1 - Os lugares de motorista, telefonista, auxiliar administrativo e vigilante serão recrutados nos termos da lei geral.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 53.º - 1 - A integração do pessoal dos SSUC abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 53.º - 1 - A integração do pessoal dos SSUC abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -702,26 +748,26 @@ c) Para categoria que resulte da aplicação da tabela de equivalências constan
 
 9 - Transita para o lugar de chefe de repartição do quadro anexo ao presente diploma o actual técnico auxiliar contabilista de 1.ª classe que tem vindo a desempenhar efectivamente aquelas funções.
 
-###### Art. 54.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUC em regime idêntico ao das empresas privadas à data da entrada em vigor do presente diploma, opte pela não integração no respectivo quadro anexo será remunerado com vencimentos e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 54.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUC em regime idêntico ao das empresas privadas à data da entrada em vigor do presente diploma, opte pela não integração no respectivo quadro anexo será remunerado com vencimentos e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 55. Os encargos resultantes da aplicação do presente diploma serão suportados por verbas a inscrever no orçamento dos SSUC.
+Art. 55. Os encargos resultantes da aplicação do presente diploma serão suportados por verbas a inscrever no orçamento dos SSUC.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Anselmo Dias Rodrigues - Alípio Barrosa Pereira Dias - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 11 de Outubro de 1985.**
+Promulgado em 11 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Outubro de 1985.**
+Referendado em 14 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 40.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 53.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf))](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/25000/36583668.pdf)

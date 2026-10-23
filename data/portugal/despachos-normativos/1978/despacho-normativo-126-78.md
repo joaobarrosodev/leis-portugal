@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 124/1978, 1º Suplemento, Série I de 1978-05-31
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 982-(1) a 982-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/05/12401/00010006.pdf
 entry_into_force_dates: []
@@ -47,40 +47,260 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/126-1978-354085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:41:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff7e78ea35a86dece13097f46494613137ca984b0786ae7a9706c8fb4c7a6c3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bea6f17aa42e3ce8672e69f0e616416b09f9e954a55fd648e8c4c2f16968d68f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:41:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Superior de Electricidade
+- Conselho Superior de Minas e Serviços Geológicos
+- Definição de Competências
+- Direcção Geral da Qualidade
+- Direcção Geral da Qualidade e Segurança Industrial
+- Direcção Geral das Indústrias Alimentares
+- Direcção Geral das Indústrias Electromecânicas
+- Direcção Geral das Indústrias Electromecânicas e Electrónicas
+- Direcção Geral das Indústrias Mecânicas Pesadas
+- Direcção Geral das Indústrias Química e Metalúrgica
+- Direcção Geral das Indústrias Químicas Cerâmicas e Vidreiras
+- Direcção Geral das Indústrias Químicas de BASE
+- Direcção Geral das Indústrias Têxteis e do Vestuário
+- Direcção Geral das Indústrias Transformadoras Ligeiras
+- Direcção Geral de Energia
+- Direcção Geral de Geologia e Minas
+- Direcção Geral de Minas e Metalurgia
+- Direcção Geral de Minas e Serviços Geológicos
+- Direcção Geral dos Combustíveis
+- Direcção Geral dos Serviços Eléctricos
+- Direcção Geral dos Serviços Industriais
+- Extinção de Serviços
+- Gabinete de Formação e Informação Técnica
+- Gabinete de Organização e Relações de Trabalho
+- Gabinete de Protecção e Segurança Nuclear
+- Inspecção Geral dos Produtos Agrícolas e Industriais
+- Instituto de Geologia Minas e Metalurgia
+- Instituto Nacional de Investigação Industrial
+- Instituto Português de Electricidade
+- Junta de Energia Nuclear
+- Ministério da Indústria e Tecnologia
+- Orgânica
+- Serviço de Apoio ao Investidor
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:395749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329470:por
+  label: Alteradas as al d) do n.º 1.1 e a al. i) do n.º 6 pelo(a) Despacho Normativo n.º 239/78 - Diário da República n.º
+    216/1978, Série I de 1978-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/239-1978-329470
+  date: '1978-09-19'
+- type: amended_by
+  target: pt:dre:367232:por
+  label: "Alterado o n.º 7.2 pelo DN.347/79.03.12.1979.MIND, DR.IS [278] de 03.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/347-1979-367232
+  date: '1979-12-03'
+- type: amended_by
+  target: pt:dre:353734:por
+  label: "Transferidas para a Região Autónoma dos Açores, integrando-as na Secretaria Regional respectiva, todas as competências\
+    \ prosseguidas pelas 2ª, 3ª, 4ª e 5ª Repartições da Inspecção Geral dos Produtos Agrícolas e Industriais, relativamente\
+    \ à normalização, inspecção e fiscalização de produtos industriais e do comércio e, inspecção de pesos e medidas, recentemente\
+    \ cometidas a Direcção Geral da Qualidade, atráves do presente diploma, pelo DEC LEI.522/79.31.12.1979.GMR-RAA, DR.IS\
+    \ [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/522-1979-353734
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:395749:por
+  label: Alterada a al. i) do n.º 6.1 pelo(a) Despacho Normativo n.º 91/82 - Diário da República n.º 132/1982, Série I de
+    1982-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/91-1982-395749
+  date: '1982-06-11'
+- type: cites
+  target: pt:dre:143547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:41:59Z'
   warnings: []
   errors: []
 ---

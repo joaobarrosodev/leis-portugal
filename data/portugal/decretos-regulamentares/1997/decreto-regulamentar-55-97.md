@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/55/1997/12/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1997-421383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6d5ebbf5d2ddf0b32eb519463b516af7183d7798cf5033f8bdefd04399e844f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5203ec823449e556c46094c7f40fa39b33d3bf13c905c3970389b08e5c5d6f7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Escola de Regentes Agrícolas
-- Sistema Retributivo
 - Carreira Profissional
 - Coimbra
+- Escola de Regentes Agrícolas
+- Évora
 - Pessoal Docente
 - Remuneração
 - Santarém
-- Évora
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/4/1992/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/4/1992/04/02/p/dre
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:56Z'
   warnings: []
   errors: []
 ---
@@ -129,16 +161,16 @@ Presidência do Conselho de Ministros, 14 de Outubro de 1997.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - António José Martins Seguro.
 
-**Promulgado em 27 de Novembro de 1997.**
+Promulgado em 27 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/12/297b00/67926793.pdf))](https://files.diariodarepublica.pt/1s/1997/12/297b00/67926793.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/12/297b00/67926793.pdf)

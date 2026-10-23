@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29
   number: '190'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 203-(2) a 203-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/09/19001/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78-a/2020/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aef8283ce247ee4ecc4b88aff5314d8fb22ae67e8c28439233ed3b8c67f4e7fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6246833369601df0aeee0242f65002248d206ec926d51d28dbdcb9d267031d37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Seguradora
-- Contrato de Seguro
+- Ação Social
+- Administração Central do Sistema de Saúde
 - Aquisição de Bens e Serviços
-- Pessoal de Saúde
-- Empresa
+- Atividade Seguradora
 - Beneficiário
-- Titulo de Ingresso
-- Espetáculos e Divertimentos Públicos
-- Direção Geral da Saúde
+- Companhia de Seguros
 - Contra-ordenação
+- Contratação de Pessoal
 - Contrato
+- Contrato de Seguro
 - Contribuições da Segurança Social
 - Controlo Estatístico
+- Crédito Bancário
+- Direção Geral da Saúde
+- Direção Geral do Orçamento
+- Doença Infecciosa
+- Empresa
 - Empresário
 - Empréstimo
-- Ação Social
-- Recrutamento de Pessoal
-- Pagamento
-- Seguro
-- Juros
-- Títulos de Crédito
-- Contratação de Pessoal
-- Crédito Bancário
-- Administração Central do Sistema de Saúde
-- Direção Geral do Orçamento
-- Moratória
-- Doença Infecciosa
 - Epidemia
+- Espetáculos e Divertimentos Públicos
 - Estatística
-- Prorrogação de Prazo
-- Ministério da Saúde
-- Reembolso
-- Recinto Cultural
-- Companhia de Seguros
 - Gestão de Recursos Humanos
+- Juros
+- Ministério da Saúde
+- Moratória
+- Pagamento
+- Pessoal de Saúde
+- Prorrogação de Prazo
+- Recinto Cultural
+- Recrutamento de Pessoal
+- Reembolso
+- Seguro
+- Titulo de Ingresso
+- Títulos de Crédito
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
 relationships:
@@ -107,6 +107,12 @@ relationships:
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -147,16 +153,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/70-a/2020/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/70-a/2020/09/11/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133491341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135844795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137939969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138762310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:142601170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:20Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +273,9 @@ Os artigos 6.º e 25.º-B do [Decreto-Lei n.º 10-A/2020](https://diariodarepubl
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 25.º-B — [...]
+Artigo 25.º-B
+
+[...]
 
 1 - ...
 
@@ -261,7 +309,9 @@ Os artigos 4.º, 5.º, 5.º-A e 14.º do [Decreto-Lei n.º 10-J/2020](https://di
 
 7 - As entidades beneficiárias podem beneficiar dos efeitos das medidas previstas no presente artigo por período inferior à duração da moratória, devendo, para o efeito, comunicar essa intenção à instituição no prazo mínimo de 30 dias anteriores à data em que pretendem fazer cessar os respetivos efeitos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +325,9 @@ Os artigos 4.º, 5.º, 5.º-A e 14.º do [Decreto-Lei n.º 10-J/2020](https://di
 
 6 - A comunicação de adesão à moratória prevista no n.º 1 é efetuada até 30 de setembro de 2020.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - As entidades beneficiárias que, no dia 1 de outubro de 2020, se encontrem abrangidas por alguma das medidas previstas no presente capítulo, beneficiam da prorrogação suplementar e automática dessas medidas pelo período de seis meses, compreendido entre 31 de março de 2021 e 30 de setembro de 2021, com as adaptações previstas nos números seguintes.
 
@@ -291,7 +343,9 @@ b) Operações contratadas pelas entidades beneficiárias cuja atividade princip
 
 5 - As entidades beneficiárias que não pretendam beneficiar da prorrogação prevista no n.º 1 devem comunicar às instituições esse facto no prazo previsto no n.º 7 do artigo 4.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de setembro de 2021, sem prejuízo do disposto no artigo 5.º-B.»
 
@@ -391,15 +445,15 @@ Nos termos do n.º 3 do artigo 5.º-A do [Decreto-Lei n.º 10-I/2020](https://di
 
 Visto e aprovado em Conselho de Ministros de 24 de setembro de 2020. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - João Nuno Marques de Carvalho Mendes - Alexandra Ludomila Ribeiro Fernandes Leitão - Graça Maria da Fonseca Caetano Gonçalves - Miguel Filipe Pardal Cabrita - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 28 de setembro de 2020.**
+Promulgado em 28 de setembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de setembro de 2020.**
+Referendado em 28 de setembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 
@@ -407,4 +461,6 @@ Visto e aprovado em Conselho de Ministros de 24 de setembro de 2020. - António 
 
 [a que se refere a alínea b) do n.º 3 do artigo 5.º-A e o n.º 1 do artigo 5.º-B]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/09/19001/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2020/09/19001/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/09/19001/0000200008.pdf)
+
+113598802

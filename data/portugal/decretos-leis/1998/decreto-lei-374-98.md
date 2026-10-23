@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/374/1998/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/374-1998-216510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a529dfc39b038897c433517665f49c2768a73a64dbcc5948f8056e6eb4cd7df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30527b19895768e95d885152634b7643cb9929279ba247f887bd67603a93e5b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,41 +69,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento de Elevação
+- Aparelho de Medição
 - Aproximação das Legislações
-- Indústria Electrotécnica
 - CEE
-- Multa
-- Metrologia
+- Certificado de Qualidade
+- Comércio
 - Construção Civil
-- Ministro da Economia
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
-- Equipamento Eléctrico
-- Equipamento Térmico
-- Segurança no Trabalho
-- Segurança Pública
-- Fabrico Industrial
-- Indústria de Brinquedos
-- Indústria Mecânica
-- Aparelho de Medição
-- Laboratório Nacional de Engenharia Civil
-- Máquina-Ferramenta
-- Certificado de Qualidade
-- Instituto Português da Qualidade
-- Normas de Segurança
-- Proteção do Consumidor
 - Equipamento Agrícola
+- Equipamento de Elevação
+- Equipamento Eléctrico
 - Equipamento Industrial
 - Equipamento sob Pressão
+- Equipamento Térmico
+- Fabrico Industrial
+- Indústria de Brinquedos
+- Indústria Electrotécnica
+- Indústria Mecânica
+- Instituto Português da Qualidade
+- Laboratório Nacional de Engenharia Civil
+- Máquina-Ferramenta
 - Material de Construção
-- Comércio
+- Metrologia
+- Ministro da Economia
+- Multa
+- Normas de Segurança
+- Proteção do Consumidor
+- Segurança no Trabalho
+- Segurança Pública
 relationships:
 - type: amended_by
   target: pt:dre:124097548:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262089:por
+  label: "Alterados os arts. 5º, 6º e 13º do Dec Lei 113/93 de 10-Abr, com a redacção conferida no presente diploma, pelo\
+    \ DEC LEI.4/2007.08.01.2007.MEI, DR.IS [5] de 08.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2007-262089
+  date: '2007-01-08'
 - type: cites
   target: celex:31989L0392
   label: null
@@ -136,16 +142,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/383/1993/11/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/383/1993/11/18/p/dre
+- type: repealed_by
+  target: pt:dre:577359:por
+  label: "Revogado o art. 1º pelo DEC LEI.320/2001.2001.12.12.MECO DR.IS-A [286]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-2001-577359
+  date: '2001-12-12'
+- type: repealed_by
+  target: pt:dre:386826:por
+  label: "Revogado, a partir de 15.01.2008, o Dec Lei 117/88, de 12-Abr, na redacção dada pelo presente diploma, pelo DEC\
+    \ LEI.6/2008.10.01.2008.MEI, DR.IS [7] de 10.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2008-386826
+  date: '2008-01-10'
+- type: repealed_by
+  target: pt:dre:279778:por
+  label: "Revogado, a partir de 16.03.2011, o Dec Lei 130/92, de 06-Jul DR. IS-A [153], na redacção do Dec Lei 139/95, de\
+    \ 14-Jun e do presente diploma, pelo DEC LEI.25/2011.14.02.2011.MEID, DR.IS [31] de 14.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2011-279778
+  date: '2011-02-14'
+- type: repealed_by
+  target: pt:dre:500018:por
+  label: "Revogado, a partir de 11.09.2013, o Dec Lei 113/93 de 10-abr, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.130/2013.10.09.2013.MECO, DR.IS [174] de 10.09.2013 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-2013-500018
+  date: '2013-09-10'
+- type: repealed_by
+  target: pt:dre:106886614:por
+  label: Revogado o Dec Lei 383/93, de 18-nov, na redação do presente diploma pelo(a) Decreto-Lei n.º 43/2017 - Diário da
+    República n.º 76/2017, Série I de 2017-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/43-2017-106886614
+  date: '2017-04-18'
+- type: repealed_by
+  target: pt:dre:124097548:por
+  label: Revogado o Dec Lei 128/93, de 22-abr, na redação do presente diploma pelo(a) Decreto-Lei n.º 118/2019 - Diário da
+    República n.º 159/2019, Série I de 2019-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2019-124097548
+  date: '2019-08-21'
 article_structure:
-  article_count: 17
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:48Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +233,9 @@ c) Menção da proibição de colocação em serviço, antes de a máquina em qu
 
 d) Identificação do signatário.
 
-###### Artigo 6.º — Comprovação da conformidade e identificação
+Artigo 6.º
+
+Comprovação da conformidade e identificação
 
 1 - A conformidade das máquinas com as disposições do presente diploma e respectiva legislação regulamentar é atestada pelo fabricante ou pelo seu mandatário, mediante emissão de uma declaração de conformidade CE para cada máquina fabricada e aposição na mesma da marcação CE.
 
@@ -206,7 +249,9 @@ d) Identificação do signatário.
 
 6 - Se as obrigações constantes dos números anteriores não forem cumpridas pelo fabricante ou pelo seu mandatário estabelecido na Comunidade, deverão as mesmas ser cumpridas por qualquer pessoa que coloque as máquinas ou os componentes de segurança no mercado.
 
-###### Artigo 8.º — Procedimentos efectuados em outros Estados
+Artigo 8.º
+
+Procedimentos efectuados em outros Estados
 
 1 - Os procedimentos de certificação ou controlo relativos a máquinas em harmonia com a Directiva n.º [89/392/CEE](http://data.europa.eu/eli/dir/1989/392/oj?locale=pt), efectuados em qualquer Estado membro da Comunidade Europeia, bem como em qualquer Estado da EFTA signatário do Acordo Relativo ao Espaço Económico Europeu, têm o mesmo valor que os procedimentos nacionais correspondentes.
 
@@ -248,7 +293,9 @@ e) Os EPI especificamente abrangidos por outra regulamentação nacional que tra
 
 f) ...
 
-###### Artigo 3.º — Colocação no mercado e em serviço
+Artigo 3.º
+
+Colocação no mercado e em serviço
 
 1 - Só podem ser colocados em mercado e em serviço os EPI que satisfaçam as exigências técnicas essenciais relativas à saúde e segurança dos seus utilizadores de tal forma que não comprometam a saúde e segurança de terceiros, de animais domésticos e de bens, quando submetidos a adequada manutenção e utilizados em conformidade com a sua finalidade.
 
@@ -256,7 +303,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 5.º — Procedimentos efectuados em outros Estados
+Artigo 5.º
+
+Procedimentos efectuados em outros Estados
 
 Os procedimentos de certificação ou controlo relativos a EPI em harmonia com a Directiva n.º [89/686/CEE](http://data.europa.eu/eli/dir/1989/686/oj?locale=pt), efectuados em qualquer Estado membro da Comunidade Europeia, bem como em qualquer Estado da EFTA signatário do Acordo Relativo ao Espaço Económico Europeu, têm o mesmo valor que os procedimentos nacionais correspondentes.»
 
@@ -304,7 +353,9 @@ Marcação CE
 
 5 - ...
 
-###### Artigo 10.º — Contra-ordenações
+Artigo 10.º
+
+Contra-ordenações
 
 1 - O incumprimento das disposições da portaria a que se refere o artigo 2.º do presente diploma e a violação do disposto nos artigos 3.º e 4.º-B constituem contra-ordenação punível com coima de 50000$00 a 500000$00, sem prejuízo da responsabilidade civil ou penal a que haja lugar, podendo ser ainda determinada a apreensão dos equipamentos em causa, sempre que a sua utilização, em condições normais, represente perigo que o justifique.
 
@@ -338,7 +389,9 @@ Marcação CE
 
 6 - ...
 
-###### Artigo 11.º — Controlo interno de fabrico
+Artigo 11.º
+
+Controlo interno de fabrico
 
 1 - O controlo interno de fabrico é o procedimento através do qual o fabricante ou o seu mandatário assegura e declara que o material eléctrico satisfaz as condições exigidas pelo presente diploma, através da aposição da marcação CE em cada produto e da emissão de uma declaração de conformidade.
 
@@ -350,11 +403,15 @@ Marcação CE
 
 5 - ...
 
-###### Artigo 14.º — Organismos qualificados
+Artigo 14.º
+
+Organismos qualificados
 
 A lista dos organismos com qualificação reconhecida para emitir os relatórios previstos no n.º 4 do artigo 10.º constará de despacho do Ministro da Economia, a publicar no Diário da República no prazo de 30 dias após a entrada em vigor do presente diploma.
 
-###### Artigo 16.º — Aplicação de coimas
+Artigo 16.º
+
+Aplicação de coimas
 
 1 - ...
 
@@ -384,7 +441,9 @@ b) Aprovação técnica europeia, emitida nos termos do artigo 6.º;
 
 c) ...
 
-###### Artigo 6.º — Aprovação técnica europeia
+Artigo 6.º
+
+Aprovação técnica europeia
 
 1 - ...
 
@@ -406,7 +465,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 13.º — Acompanhamento
+Artigo 13.º
+
+Acompanhamento
 
 1 - ...
 
@@ -428,12 +489,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 9 de Novembro de 1998.**
+Promulgado em 9 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

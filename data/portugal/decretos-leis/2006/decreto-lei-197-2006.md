@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2006/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2006-541226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dd7a6ba936518ee2f060f24048e07a6414b3ee0a046686775e25dd2907ec03b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a05c5e741e5aeb99796e27d3601da09ae2b19ac78ff8db212b0df9cd445849ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pescador
-- Gestão Financeira
+- Armador
 - Conselho Administrativo
 - Direcção Geral do Tesouro
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Gestão Administrativa
+- Financiamento
 - Fundo de Compensação Salarial dos Profissionais da Pesca
+- Gestão Administrativa
+- Gestão Financeira
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Pesca
-- Armador
+- Pescador
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:25344003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613967:por
+  label: "Alterados os arts. 4º e 5º do Dec Lei 311/99, de 10-Ago, na redacção do presente diploma, pelo DEC LEI.46/2010.07.05.2010.MADRP,\
+    \ DR.IS [89] de 07.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2010-613967
+  date: '2010-05-07'
+- type: amended_by
+  target: pt:dre:25344003:por
+  label: "Alterados os arts. 1.º, 4.º e 5.º do Dec Lei 311/99 de 10-ago, na redação do presente diploma, pelo DEC LEI.61/2014.23.04.2014.MAGM,\
+    \ DR.IS [79] de 23.04.2014 que procede à sua republicação em anexo \0o \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2014-25344003
+  date: '2014-04-23'
+- type: amends
+  target: pt:numero:decreto-lei:255/2001
+  label: "Altera os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 13.º e 14.º do Decreto-Lei n.º 311/99, de 10 de Agosto,\
+    \ DR.IS-A [185], com a redacção conferida no Decreto-Lei n.º 255/2001, de 22 de Setembro, e na Lei n.º 54/2004, de 3 de\
+    \ Dezembro, e republica-o com a redacção actual\0\0"
+  source: null
+  date: '1999-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/2001/09/22/p/dre
   label: null
@@ -93,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2004/12/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2004/12/03/p/dre
+- type: cites
+  target: pt:dre:209634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:28Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +168,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 13.º e 14.º do [De
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - São abrangidos pelo disposto no presente diploma:
 
@@ -155,7 +188,9 @@ b) Pescadores os que exerçam a sua actividade em regime de contrato individual 
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -171,7 +206,9 @@ a) No caso dos armadores, pescadores apeados e apanhadores, mediante emissão de
 
 b) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -179,13 +216,17 @@ b) ...
 
 3 - O pagamento da compensação salarial só é devido a partir do 9.º dia de imobilização total das embarcações ou da decisão de interdição de pescar proferida pela entidade competente, ao abrigo do disposto na alínea b) do n.º 1 do artigo 4.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O regime de compensação salarial previsto no presente diploma é subsidiário a outros regimes comunitários de apoio financeiro.
 
 2 - ...
 
-###### Artigo 7.º — Entidades gestoras e regulamento de gestão
+Artigo 7.º
+
+Entidades gestoras e regulamento de gestão
 
 1 - A gestão do Fundo é atribuída:
 
@@ -203,7 +244,9 @@ b) À Direcção-Geral do Tesouro, na vertente da gestão dos fundos e respectiv
 
 3 - O Fundo rege-se pelo estabelecido no presente diploma, pelo regulamento de gestão aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e das pescas e pelas instruções de ordem técnica que, para o seu funcionamento, forem transmitidas pelo membro do Governo que tenha a seu cargo o sector das pescas.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -215,17 +258,23 @@ c) ...
 
 d) ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 As deliberações do conselho administrativo, no âmbito da atribuição de compensações salariais, estão sujeitas a homologação do membro do Governo que tenha a seu cargo o sector das pescas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima de (euro) 498 a (euro) 2494 a inobservância do disposto no n.º 2 do artigo 6.º
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 A instrução dos processos de contra-ordenação previstos no presente diploma, bem como a aplicação das coimas, é da competência da Direcção-Geral das Pescas e Aquicultura.»
 
@@ -235,15 +284,15 @@ A instrução dos processos de contra-ordenação previstos no presente diploma,
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2006. - António Luís Santos Costa - João José Amaral Tomaz - Jaime de Jesus Lopes Silva - Pedro Manuel Dias de Jesus Marques - António Fernando Correia de Campos.
 
-**Promulgado em 28 de Setembro de 2006.**
+Promulgado em 28 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 2 de Outubro de 2006.**
+Referendado em 2 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 311/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1999-426690), de 10 de Agosto
 

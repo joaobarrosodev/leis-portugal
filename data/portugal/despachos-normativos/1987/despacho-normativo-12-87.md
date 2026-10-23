@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03100/04570458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/12-1987-662895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1676fd20ae95c89ee2d304c78d1abaf2fc520ef7c16f809cee063b6e341c56d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 136aadde95535953fa86d3d5b6b4a9779be3d2b32e13d690ccf47137fbe3f502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emolumento
+- Instituto de Investimento Estrangeiro
+- Prestação de Serviços
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:626592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625610:por
+  label: "Mantido em vigor pelo DEC LEI.143/89.1989.04.29.MF DR.IS [99], e remetidas as referências feitas neste diploma ao\
+    \ Instituto de Investimento Estrangeiro (IIE) para o Instituto do Comércio Externo de Portugal (ICEP)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1989-625610
+  date: '1989-04-29'
+- type: cites
+  target: pt:dre:180207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661164:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626592:por
+  label: "Revogado pelo DEC LEI.321/95.1995.11.28.MCT, DR.IS-A [275]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/321-1995-626592
+  date: '1995-11-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:37:02Z'
   warnings: []
   errors: []
 ---

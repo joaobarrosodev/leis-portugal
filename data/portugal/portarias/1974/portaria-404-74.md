@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-1974-476510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd854201bf286d4d920012ba9823ec54b36e3b75a545df5b845dfeee3d05a0ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18b32bb42095089642424cd3dc53166a0d212b2fcb381b83666f26f7cc36f5e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:622836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:26:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Manda o Governo Provisório da República Portuguesa, pelo Ministro da Coordena�
 
 2.º O artigo 2.º deste decreto-lei passa a ter a seguinte redacção:
 
-###### Art. 2.º Até final do ano de e 1979 poderão ser admitidos aos concursos para juiz de direito e poderão ser nomeados provisoriamente delegados do procurador da República os cidadãos do sexo feminino que não tenham mais de 45 anos de idade.
+Art. 2.º Até final do ano de e 1979 poderão ser admitidos aos concursos para juiz de direito e poderão ser nomeados provisoriamente delegados do procurador da República os cidadãos do sexo feminino que não tenham mais de 45 anos de idade.
 
 Ministério da Coordenação Interterritorial, 24 de Junho de 1974. - O Ministro da Coordenação Interterritorial, António de Almeida Santos.
 

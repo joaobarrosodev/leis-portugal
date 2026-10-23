@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/617-1974-473330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd8778fcb03d76b3ed02f7fe7e23a8d2acda162a39d6ebebb86b1784a13cb8cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b043b77a46fae01c689669f8307405ac47423a111252c17f5277d7efbc91d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:46Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +109,7 @@ Tarifa de operações acessórias
 
 Taxas de armazenagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf))](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
 
 Mínimo de cobrança. - As taxas previstas neste quadro estão sujeitas ao mínimo de cobrança de 5$00, excepto quando se trate de veículos de mais de 3000 kg, em que a taxa correspondente fica sujeita ao mínimo de 25$00.
 
@@ -113,11 +121,11 @@ Mínimo de cobrança. - As taxas previstas neste quadro estão sujeitas ao míni
 
 I - Prazo de estacionamento gratuito para vagões normais e não especializados no transporte de sólidos a granel (horas úteis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf))](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
 
 II - Prazos de estacionamento gratuito para vagões especializados (vagões tremonhas e vagões cubas) no transporte de sólidos a granel (horas úteis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf))](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
 
 3 - ...
 
@@ -135,7 +143,7 @@ c) Para efeitos do disposto neste número, considera-se o sábado como dia útil
 
 1 - Pelo estacionamento de vagões e de outro material de caminho de ferro que exceder, nas estações de procedência ou de destino, os prazos de estacionamento gratuito, são devidas as taxas constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf))](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/22500/11421145.pdf)
 
 2 - As taxas são aplicadas por vagão e por períodos indivisíveis de vinte e quatro horas, contadas a partir do momento em que expira o prazo de estacionamento gratuito.
 

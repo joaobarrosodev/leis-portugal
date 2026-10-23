@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299/2001/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2001-567030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a672ec864cad4e143f46abc3bf3927dbee75ba569cc76710facb3bc51fa08135
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4d64fe19312ee17c26a9fe76c5283ba0e84c95817c83cacb5874ca426fee199
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
+- Fundo de Estabilização Tributário
 - Gestão Orçamental
 - Instituto das Comunicações de Portugal
 - Instituto Nacional da Propriedade Industrial
-- Fundo de Estabilização Tributário
 - Orçamento
 - Receita Própria
 - Receita Pública
@@ -81,6 +81,18 @@ relationships:
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439170:por
+  label: "Alterado o art. 51º do Dec Lei 557/99, de 17-Dez, na redacção do presente diploma, pelo DEC LEI.212/2008.07.11.2008.MFAP,\
+    \ DR.IS [217] de 07.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2008-439170
+  date: '2008-11-07'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 51º do Dec Lei 557/99, de 17-Dez, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR,\
+    \ DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/335/1997/12/02/p/dre
   label: null
@@ -97,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655311:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:11Z'
   warnings: []
   errors: []
 ---
@@ -135,12 +163,12 @@ A percentagem prevista no artigo 51.º do [Decreto-Lei n.º 557/99](https://diar
 
 Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - Eduardo Guimarães de Oliveira Fernandes.
 
-**Promulgado em 13 de Novembro de 2001.**
+Promulgado em 13 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Novembro de 2001.**
+Referendado em 15 de Novembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

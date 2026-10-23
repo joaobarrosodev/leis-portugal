@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/11/22000/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2025/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2025-945966852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83f4839c05ef5478b23d13f83cd40437b0c15f81abdf64b58abb09a0782f4be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bb26e8655d8bc78076b3dc8fa3820cdc5bc4eaf9b3f34e2fb90f3f962904766
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Certificado de Conformidade
 - Comissão de Ética para a Saúde
-- Infarmed
 - Comissão Técnica Especializada
 - Comunicações Eletrónicas
+- Conselho Diretivo
+- Etiquetagem
+- Infarmed
 - Saúde Pública
 - Serviço Nacional de Saúde
-- Etiquetagem
-- Conselho Diretivo
-- Administração Central do Sistema de Saúde
 - Serviços Partilhados do Ministério da Saúde
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:29/2024
+  label: Altera, a partir de 12 de janeiro de 2026, os artigos 4.º, 8.º, 10.º, 15.º, 28.º e 30.º, adita o artigo 22.º-A e
+    revoga o artigo 22.º do Decreto-Lei n.º 29/2024, de 5 de abril, Diário da República n.º 68/2024, Série I
+  source: null
+  date: '2024-04-05'
 - type: cites
   target: celex:32017R0745
   label: null
@@ -90,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/2012/02/24/p/dre
+- type: cites
+  target: pt:dre:542588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75309455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:859517101:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:04Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +156,9 @@ Os artigos 4.º, 8.º, 10.º, 15.º, 28.º e 30.º do [Decreto-Lei n.º 29/2024]
 
 3 - Para efeitos do disposto no n.º 6 do artigo 8.º do [Decreto-Lei n.º 46/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2012-542588), de 24 de fevereiro, na sua redação atual, que aprova a orgânica do INFARMED, I. P., é aplicável à ComDM o [Despacho n.º 11012/2016](https://diariodarepublica.pt/dr/detalhe/despacho/11012-2016-75309455), publicado no Diário da República, 2.ª série, n.º 176, de 13 de setembro de 2016.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -148,7 +168,9 @@ Os artigos 4.º, 8.º, 10.º, 15.º, 28.º e 30.º do [Decreto-Lei n.º 29/2024]
 
 4 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -160,7 +182,9 @@ Os artigos 4.º, 8.º, 10.º, 15.º, 28.º e 30.º do [Decreto-Lei n.º 29/2024]
 
 5 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -182,7 +206,9 @@ c) [...]
 
 7 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -206,7 +232,9 @@ h) Cumprir as obrigações de vigilância previstas na secção viii do capítul
 
 3 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -238,12 +266,14 @@ O presente decreto-lei entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de outubro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Ana Paula Martins.
 
-**Promulgado em 5 de novembro de 2025.**
+Promulgado em 5 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 10 de novembro de 2025.**
+Referendado em 10 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119763218

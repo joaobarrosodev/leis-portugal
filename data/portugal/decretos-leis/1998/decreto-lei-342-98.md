@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/256a00/58945909.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/342/1998/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1998-223273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 299d2273bd648cccd2253cff23991049c936233571bf9e9870c15f05680f8fbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c9fbf2b2d03dab579eb7e3ee92c1481cd1c8dab1fcc52fb45bbdb773d487d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Carne
-- Produto Cárneo
 - Controlo Sanitário
-- Saúde Pública
 - Higiene Alimentar
-- Proteção do Consumidor
+- Produto Alimentar
 - Produto Animal
+- Produto Cárneo
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:346359:por
@@ -129,16 +129,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/684/1995/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/684/1995/06/28/p/dre
+- type: corrected_by
+  target: pt:dre:570518:por
+  label: "Rectificado pela DECL-RECT.22-N/98.1998.12.31.PCM, DR.IS-A [301]7ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-n-1998-570518
+  date: '1998-12-31'
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogado pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
 article_structure:
   article_count: 22
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:07Z'
   warnings: []
   errors: []
 ---
@@ -223,15 +233,15 @@ d) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 19 de Outubro de 1998.**
+Promulgado em 19 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 1998.**
+Referendado em 23 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A
 

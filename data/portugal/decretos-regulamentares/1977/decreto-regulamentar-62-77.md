@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21200/22442248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1977-285948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e581518b3398e4a8dec8e93f262b495f9ae8fe5acc68a3cfc189dd896df2d1ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdbba2b0dcd5bbb0e6c309bb22a80d3c43b320973d9fc9f0c4d92060fe66fd92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estágio de Formação
+- Formação Profissional
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:375182:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:375182:por
+  label: "Revogado pelo DR.62/82.24.09.1982.MHOPT, DR.IS [222] de 24.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/62-1982-375182
+  date: '1982-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:57:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ Nestes termos:
 
 Considerando o disposto no artigo 1.º, n.º 1, do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. A ascensão à categoria de especialista do Laboratório Nacional de Engenharia Civil é precedida de estágio, que compreenderá duas fases sucessivas:
+Artigo 1.º - 1. A ascensão à categoria de especialista do Laboratório Nacional de Engenharia Civil é precedida de estágio, que compreenderá duas fases sucessivas:
 
 a) Fase de adaptação, com duração não inferior a seis meses nem superior a um ano, com o objectivo de integrar o estagiário nas actividades gerais do Laboratório Nacional de Engenharia Civil e na actividade particular de um dos seus serviços;
 
@@ -126,17 +152,17 @@ a) No caso de cessação do estágio previsto no n.º 3, alínea a);
 
 b) No caso de expirar o prazo máximo de seis anos da fase de especialização sem que o estagiário tenha sido dado como apto para ingressar na categoria de especialista.
 
-###### Art. 2.º As actividades de formação dos estagiários para especialista, assim como as formas de avaliar as suas aptidões e de proceder à respectiva selecção para o seu acesso à categoria de especialista, serão definidas em regulamento a aprovar por portaria do Ministro das Obras Públicas.
+Art. 2.º As actividades de formação dos estagiários para especialista, assim como as formas de avaliar as suas aptidões e de proceder à respectiva selecção para o seu acesso à categoria de especialista, serão definidas em regulamento a aprovar por portaria do Ministro das Obras Públicas.
 
-###### Art. 3.º O disposto nos artigos 25.º e 26.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, no n.º 1 do artigo 3.º do Decreto-Lei n.º 556/72, de 26 de Dezembro, e na secção I do capítulo II do Regulamento dos Concursos do Pessoal Técnico e do Pessoal de Traduções do LNEC, aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com as alterações que lhe foram introduzidas pelo [Decreto n.º 128/73](https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814), de 26 de Março, deixa de ser aplicável aos estagiários para especialista, excepto aos que, nos termos do regulamento referido no artigo 2.º, possam optar e optem pelas antigas condições de estágio previstas naquelas disposições.
+Art. 3.º O disposto nos artigos 25.º e 26.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, no n.º 1 do artigo 3.º do Decreto-Lei n.º 556/72, de 26 de Dezembro, e na secção I do capítulo II do Regulamento dos Concursos do Pessoal Técnico e do Pessoal de Traduções do LNEC, aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com as alterações que lhe foram introduzidas pelo [Decreto n.º 128/73](https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814), de 26 de Março, deixa de ser aplicável aos estagiários para especialista, excepto aos que, nos termos do regulamento referido no artigo 2.º, possam optar e optem pelas antigas condições de estágio previstas naquelas disposições.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 12 de Agosto de 1977.**
+Promulgado em 12 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 PROJECTO DE REGULAMENTO DAS ACTIVIDADES DE FORMAÇÃO DOS ESTAGIÁRIOS PARA ESPECIALISTA E DO SEU ACESSO A ESPECIALISTA.
 
@@ -346,4 +372,4 @@ b) Definir o período da fase de especialização em que cada estagiário para e
 
 O presente Regulamento será obrigatoriamente revisto no período de dois a três anos após a data da sua entrada em vigor.
 
-**O Ministro das Obras Públicas, João Orlindo de Almeida Pina.**
+O Ministro das Obras Públicas, João Orlindo de Almeida Pina.

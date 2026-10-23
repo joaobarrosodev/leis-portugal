@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2008/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2008-454338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 574ab8b17abf31f118f41a65f05413507f87ae864300f23256fda02f73980f3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31b728426783ada9660a4c41a776eae58af67ff8397ed38f630bb2fde9a8524f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,16 +114,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/95/2008/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/95/2008/06/06/p/dre
+- type: cites
+  target: pt:dre:222421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670534:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67348943:por
+  label: Revogado, a partir de 01.06.2015, com exceção do n.º 1 do art 1.º, no que respeita à criação da REFER, E. P. E.,
+    e do art 5.º, do Dec Lei 104/97, de 29-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º 91/2015 - Diário da
+    República n.º 104/2015, Série I de 2015-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/91-2015-67348943
+  date: '2015-05-29'
+- type: repealed_by
+  target: pt:dre:70476205:por
+  label: Revogado (a partir de 08.10.2015) o art 2.º (na redação do presente diploma), do Dec Lei 270/2003 de 28-out, pelo(a)
+    Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2015-70476205
+  date: '2015-10-07'
 article_structure:
-  article_count: 79
+  article_count: 64
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:33Z'
   warnings: []
   errors: []
 ---
@@ -164,19 +245,25 @@ Natureza e objecto da REFER, E. P. E.
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O serviço público de gestão da infra-estrutura ferroviária deve fazer-se por forma a respeitar o carácter integrado da rede ferroviária nacional e com observância dos princípios e normas de regulação ferroviária aprovados pelo ministro responsável pelo sector dos transportes ou por entidade por este designada.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A REFER, E. P. E., pode contrair os financiamentos, internos e externos, necessários à prossecução das suas atribuições e competências, nos termos do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, com a redacção dada pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A REFER, E. P. E., pode proceder, após a efectivação de cada uma das transferências de património referidas no artigo anterior, à reavaliação, na parte correspondente, do activo imobilizado corpóreo próprio ou dos bens do domínio público ferroviário afectos à sua actividade, usando como base o valor resultante de avaliações elaboradas por entidade independente, seleccionada de acordo com normas aprovadas por despacho conjunto dos ministros responsáveis pela área das finanças e pelo sector dos transportes.
 
@@ -184,7 +271,9 @@ Natureza e objecto da REFER, E. P. E.
 
 3 - ...
 
-###### Artigo 18.º — Conselho técnico consultivo
+Artigo 18.º
+
+Conselho técnico consultivo
 
 1 - ...
 
@@ -232,7 +321,9 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 10.º, 11.º, 12.º, 13.º, 20.º, 26.�
 
 3 - ...
 
-###### Artigo 2.º — Objecto
+Artigo 2.º
+
+Objecto
 
 1 - ...
 
@@ -242,19 +333,25 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 10.º, 11.º, 12.º, 13.º, 20.º, 26.�
 
 4 - Para a realização do seu objecto, a REFER, E. P. E., pode ainda constituir ou participar noutras empresas ou sociedades, nos termos do artigo 37.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, com a redacção conferida pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A administração da REFER, E. P. E., é exercida por um conselho de administração.
 
 2 - A fiscalização é exercida por um conselho fiscal e por um revisor oficial de contas ou por uma sociedade de revisores oficiais de contas que não seja membro daquele órgão.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho de administração é composto por cinco a sete membros, nomeados e exonerados nos termos previstos no Estatuto do Gestor Público.
 
 2 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável dentro dos limites previstos no Estatuto do Gestor Público, por iguais períodos, permanecendo aqueles no exercício das suas funções até efectiva substituição ou declaração da cessação das mesmas.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -302,7 +399,9 @@ r) Deliberar sobre a participação da empresa no capital de outras empresas ou 
 
 6 - ...
 
-###### Artigo 10.º — Composição e designação do conselho fiscal
+Artigo 10.º
+
+Composição e designação do conselho fiscal
 
 1 - O conselho fiscal é constituído por três membros efectivos e por um suplente, sendo um deles presidente.
 
@@ -318,7 +417,9 @@ r) Deliberar sobre a participação da empresa no capital de outras empresas ou 
 
 7 - A remuneração dos membros do conselho fiscal e do revisor oficial de contas é fixada por despacho conjunto dos ministros responsáveis pela área das finanças e pelo sector dos transportes.
 
-###### Artigo 11.º — Competência dos órgãos de fiscalização
+Artigo 11.º
+
+Competência dos órgãos de fiscalização
 
 1 - Os órgãos de fiscalização são responsáveis pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da empresa.
 
@@ -346,13 +447,17 @@ d) Verificar se as políticas contabilísticas e os critérios valométricos ado
 
 4 - Trimestralmente, o conselho fiscal e o revisor oficial de contas devem enviar aos ministros responsáveis pela área das finanças e pelo sector dos transportes um relatório sucinto que refira os controlos efectuados e as anomalias detectadas, assim como os desvios verificados em relação aos orçamentos e respectivas causas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os objectivos a prosseguir pela REFER, E. P. E., são definidos através de despacho conjunto dos ministros responsáveis pela área das finanças e pelo sector dos transportes, nos termos do disposto no [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, com a redacção conferida pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -366,15 +471,21 @@ d) A contracção de empréstimos de valor, individual ou acumulado, superior a 
 
 e) [Anterior alínea d).]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 A REFER, E. P. E., pode contrair financiamentos, internos ou externos, a curto, médio ou longo prazos, em moeda nacional ou estrangeira, bem como emitir obrigações e papel comercial, nos termos da lei, desde que incluídos nos planos de financiamento autorizados, de acordo com o disposto na alínea d) do artigo 13.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Aos membros do conselho de administração aplica-se o Estatuto do Gestor Público.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 A fusão, cisão ou liquidação da REFER, E. P. E., rege-se pelo disposto no [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro, com a redacção conferida pelo [Decreto-Lei n.º 300/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899), de 23 de Agosto.»
 
@@ -398,15 +509,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
 
-**Promulgado em 2 de Julho de 2008.**
+Promulgado em 2 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de Julho de 2008.**
+Referendado em 3 de Julho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -1060,18 +1171,18 @@ Edifícios afectos ao serviço das infra-estruturas, incluindo a parte relativa 
 
 1.ª fase de transferência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
 
 ## ANEXO IV — [a que se refere a alínea a) do n.º 2 do artigo 12.º]
 
 2.ª fase de transferência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
 
 ## ANEXO V — [a que se refere a alínea b) do n.º 2 do artigo 12.º]
 
 3.ª fase de transferência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14000/0454604559.pdf)
 
 Nota. - Nesta fase será igualmente integrado o património não identificado de uma forma clara como ILD.

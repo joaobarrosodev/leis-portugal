@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21300/0808408124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/373/2007/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-2007-629450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8eb503d8326d2854a3e174e2cbc04b917466db9fa1f71e38a839256a65c0789
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4efd2bde86954d9a0cb7d2b7112ecb761543acd2d937d120aff9bbead7d5f726
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Multa
+- ASAE
 - Comércio Internacional
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
-- Saúde Pública
-- ASAE
 - Madeira.região Autónoma
-- Proteção do Consumidor
+- Multa
 - Produção Vegetal
-- Produto Fitofarmacêutico
-- Açores
 - Produto Agrícola
+- Produto Fitofarmacêutico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246821:por
+  label: "Suprimida uma rubrica ao Anexo VII pelo DEC LEI.51/2008.20.03.2008.MADRP, DR.IS [57] de 20.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2008-246821
+  date: '2008-03-20'
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterados os anexos I, III e IV do Dec Lei 233/2006 de 29-Nov, com a redacção conferida no presente diploma, pelo\
+    \ DEC LEI.202/2008.09.10.2008.MADRP, DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
 - type: cites
   target: celex:32007L0007
   label: null
@@ -118,16 +129,26 @@ relationships:
   target: celex:32007L0039
   label: null
   source: http://data.europa.eu/eli/dir/2007/39/oj
+- type: corrected_by
+  target: pt:dre:462824:por
+  label: "Rectificado pela DECL-RECT.1-B/2008.04.01.2008.PCM, DR.IS [3]Supl de 04.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-b-2008-462824
+  date: '2008-01-04'
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:06Z'
   warnings: []
   errors: []
 ---
@@ -328,14 +349,14 @@ c) 28 de Dezembro de 2007, no que respeita à substância activa diazinão, a qu
 
 Visto e aprovado em Conselho de Ministros de 30 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Fernando Correia de Campos.
 
-**Promulgado em 22 de Outubro de 2007.**
+Promulgado em 22 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/11/21300/0808408124.pdf))](https://files.diariodarepublica.pt/1s/2007/11/21300/0808408124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/11/21300/0808408124.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/193/2006/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2006-541589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eacaad10604c60d46b72581cc37b05bb990c2ca46b61d62f50ce125d37f2f5c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c03c1b14cace37199398bf727800f6597a0763512e79a7bae7955f5d018de4b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,26 +70,80 @@ subjects:
 - Aproximação das Legislações
 - CE Países
 - Certificado Fitossanitário
+- Circulação de Mercadorias
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Geral dos Recursos Florestais
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Embalagem
 - Fiscalização
 - Importação
-- Embalagem
-- Circulação de Mercadorias
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produção Vegetal
 - Produto em Madeira
+- Proteção Fitossanitária
 - Semente
 - Troca Intracomunitária
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248531:por
+  label: "Alterados os anexos II, IV, V, VI e X, do Dec Lei 154/2005 de 06-Set, na redacção do presente diploma, pelo DEC\
+    \ LEI.16/2008.24.01.2008.MADRP, DR.IS [17] de 24.01.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2008-248531
+  date: '2008-01-24'
+- type: amended_by
+  target: pt:dre:396957:por
+  label: "Alterados os anexos I, II, III e IV e revogado o anexo VI do Dec Lei 154/2005, de 06-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.4/2009.05.01.2009.MADRP, DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2009-396957
+  date: '2009-01-05'
+- type: amended_by
+  target: pt:dre:490259:por
+  label: "Alterados os art.s 3º e 9º bem como os anexos I, II, IV, V e X do Dec Lei 154/2005, de 06-Set, na redacção do presente\
+    \ diploma, pelo DEC LEI.243/2009.17.09.2009.MADRP, DR.IS [181] de 17.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2009-490259
+  date: '2009-09-17'
+- type: amended_by
+  target: pt:dre:616805:por
+  label: "Alterados os anexos II, III, IV e V do Dec Lei 154/2005 de 06-Set, com a redacção constante do presente diploma,\
+    \ pelo DEC LEI.7/2010.25.01.2010.MADRP, DR.IS [16] de 25.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2010-616805
+  date: '2010-01-25'
+- type: amended_by
+  target: pt:dre:613403:por
+  label: "Alterado o art. 9º bem como os anexos II, III e IV, do Dec Lei 154/2005, de 06-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.32/2010.13.04.2010.MADRP, DR.IS [71] de 13.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2010-613403
+  date: '2010-04-13'
+- type: amended_by
+  target: pt:dre:58801094:por
+  label: Alterados os arts. 3º, 9º, 10º, 12º e 27º bem como os anexos I, II, III, IV, V e X do Dec Lei 154/2005, de 06-set,
+    na redação do presente diploma pelo(a) Decreto-Lei n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos I, II, III, IV, V e X do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos i, ii, iii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -114,16 +168,22 @@ relationships:
   target: celex:32006L0036
   label: null
   source: http://data.europa.eu/eli/dir/2006/36/oj
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado, a partir de 16 de setembro de 2020, pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020,
+    Série I de 2020-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
-  article_count: 13
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:24Z'
   warnings: []
   errors: []
 ---
@@ -238,7 +298,9 @@ ee) «Posto de inspecção» o local físico onde se realiza a inspecção fitos
 
 2 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -270,17 +332,23 @@ ii) Os vegetais, produtos vegetais e outros objectos constantes da parte B do an
 
 8 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os operadores económicos referidos no artigo anterior devem apresentar um pedido de inscrição no registo oficial, mediante o preenchimento de um formulário normalizado, disponibilizado pelas DRA ou pela DGRF, consoante se trate, respectivamente, de matéria agrícola ou florestal, que, por sua vez, verificam, caso a caso, se os operadores económicos estão em condições de cumprir as obrigações decorrentes da legislação fitossanitária em vigor, após o que é feita a inscrição mediante a atribuição de um número de registo oficial.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -312,7 +380,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Sem prejuízo do disposto na subalínea i) da alínea e) do n.º 1 do artigo 7.º, os vegetais, produtos vegetais e outros objectos referidos na parte A do anexo V só podem circular no País e na Comunidade se forem acompanhados de um passaporte fitossanitário contendo as seguintes informações:
 
@@ -346,7 +416,9 @@ j) ...
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +432,9 @@ j) ...
 
 6 - O certificado fitossanitário deve ser emitido numa das línguas oficiais da Comunidade e, no máximo, nos 14 dias anteriores à data em que a mercadoria deixou o país exportador ou reexportador.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -398,7 +472,9 @@ ii) Equipamento adequado para a realização de controlos visuais, a preparaçã
 
 c) ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +520,9 @@ f) ...
 
 12 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -464,21 +542,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Agosto de 2006. - António Luís Santos Costa - Manuel Lobo Antunes - João José Amaral Tomaz - José Manuel Vieira Conde Rodrigues - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 8 de Setembro de 2006.**
+Promulgado em 8 de Setembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 12 de Setembro de 2006.**
+Referendado em 12 de Setembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
 Os anexos I, II, III, IV, V, VI e X do Decreto-Lei n.º 154/2005, de 6 de Setembro, passam a ter a seguinte redacção:
 
-## ANEXO I — Parte A
+## ANEXO I
+
+## Parte A
 
 [...]
 
@@ -532,13 +612,15 @@ d) [...]
 
 ...
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
-## ANEXO II — Parte A
+## ANEXO II
+
+## Parte A
 
 [...]
 
@@ -578,45 +660,49 @@ d) [...]
 
 ...
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
-## ANEXO III — Parte A
+## ANEXO III
+
+## Parte A
 
 [...]
 
 ...
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
-## ANEXO IV — Parte A
+## ANEXO IV
+
+## Parte A
 
 [...]
 
 #### Secção I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
 #### Secção II — [...]
 
 ...
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
 ## ANEXO V — [...]
 
-# Parte A
+Parte A
 
 [...]
 
@@ -696,7 +782,7 @@ Sementes de Helianthus annus L. (***), Lycopersicon lycopersicum (L.) Karsten ex
 
 (*) ...
 
-# Parte B
+Parte B
 
 [...]
 
@@ -744,7 +830,7 @@ Sem prejuízo dos vegetais, produtos vegetais e outros objectos constantes da se
 
 ## ANEXO VI — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
 ## ANEXO X — [...]
 
@@ -768,16 +854,16 @@ Tabela I
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
 Tabela II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
 
 Tabela III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf))](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/18600/70317045.pdf)

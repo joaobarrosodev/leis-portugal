@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/122b00/27902790.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/1994/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1994-301220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41be20696806a85df55f61b51c8968282ddd7d7a860089743f6fa3eb00347b84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aacc7b4e1d67385de8694817304d905075130083ab17f079bcf879604e25525
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/24/1991/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/24/1991/04/27/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:25Z'
   warnings: []
   errors: []
 ---
@@ -111,26 +125,26 @@ Assim:
 
 Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditada ao mapa II anexo ao [Decreto Regulamentar n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1991-599148), de 27 de Abril, relativamente ao Exército e Serviços Sociais das Forças Armadas, a categoria de enfermeiro de 3.ª classe, com o desenvolvimento indiciário constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aditada ao mapa II anexo ao [Decreto Regulamentar n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1991-599148), de 27 de Abril, relativamente ao Exército e Serviços Sociais das Forças Armadas, a categoria de enfermeiro de 3.ª classe, com o desenvolvimento indiciário constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º A escala indiciária do pessoal da carreira de auxiliar de segurança fixada no mapa I anexo ao [Decreto Regulamentar n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1991-599148), de 27 de Abril, é alterada de acordo com o mapa anexo ao presente diploma.
+Art. 2.º A escala indiciária do pessoal da carreira de auxiliar de segurança fixada no mapa I anexo ao [Decreto Regulamentar n.º 24/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1991-599148), de 27 de Abril, é alterada de acordo com o mapa anexo ao presente diploma.
 
-###### Art. 3.º São integrados no escalão 5 da respectiva escala indiciária os agentes de segurança principal, que actualmente se encontram posicionados no último escalão.
+Art. 3.º São integrados no escalão 5 da respectiva escala indiciária os agentes de segurança principal, que actualmente se encontram posicionados no último escalão.
 
 Presidência do Conselho de Ministros, 28 de Março de 1994. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 4 de Maio de 1994.**
+Promulgado em 4 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Maio de 1994.**
+Referendado em 5 de Maio de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto Regulamentar n.º 13/94
+Anexo ao Decreto Regulamentar n.º 13/94
 
 Mapa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/05/122b00/27902790.pdf))](https://files.diariodarepublica.pt/1s/1994/05/122b00/27902790.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/05/122b00/27902790.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/08/20300/15531554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/590-1973-413817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T04:10:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 937d712c6206cc1e5d98a04cbe513430737e3382c290793fe20a235a6dff0c51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 690ebb3d218d21dce2e7d9651cefd04f596a9f07a208779e36b176d0f31d4136
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:10:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Navegação Aérea
+- Taxa de rota
+relationships:
+- type: cites
+  target: pt:dre:396738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682456:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORT 811/73 DE 16-NOV DG.IS [268]\068]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1973-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:10:25Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +111,20 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunicações e Transportes, ouvido o Ministro das Finanças, o seguinte:
 
-###### Artigo 1.º As taxas unitárias a que se referem o n.º 2 do artigo 4.º e artigo 11.º da [Portaria n.º 154/72](https://diariodarepublica.pt/dr/detalhe/portaria/154-1972-396738), de 20 de Março, passam a ser, respectivamente, de 1,8567 e de 1,0150 dólares dos Estados Unidos da América.
+Artigo 1.º As taxas unitárias a que se referem o n.º 2 do artigo 4.º e artigo 11.º da [Portaria n.º 154/72](https://diariodarepublica.pt/dr/detalhe/portaria/154-1972-396738), de 20 de Março, passam a ser, respectivamente, de 1,8567 e de 1,0150 dólares dos Estados Unidos da América.
 
-###### Art. 2.º As taxas devidas, nos termos do n.º 4 do artigo 8.º do mesmo diploma, serão agora as constantes da coluna 3 do anexo à presente portaria.
+Art. 2.º As taxas devidas, nos termos do n.º 4 do artigo 8.º do mesmo diploma, serão agora as constantes da coluna 3 do anexo à presente portaria.
 
-###### Art. 3.º As taxas unitárias a que se referem os artigos 3.º e 5.º da [Portaria n.º 316/72](https://diariodarepublica.pt/dr/detalhe/portaria/316-1972-681983), de 2 de Junho, passam a ser, respectivamente, de 1,0755 e de 0,5667 dólares dos Estados Unidos da América.
+Art. 3.º As taxas unitárias a que se referem os artigos 3.º e 5.º da [Portaria n.º 316/72](https://diariodarepublica.pt/dr/detalhe/portaria/316-1972-681983), de 2 de Junho, passam a ser, respectivamente, de 1,0755 e de 0,5667 dólares dos Estados Unidos da América.
 
-###### Art. 4.º A presente portaria entra em vigor em 1 de Agosto de 1973, data a partir da qual se considera revogada a [Portaria n.º 328/72](https://diariodarepublica.pt/dr/detalhe/portaria/328-1972-682456), de 7 de Junho.
+Art. 4.º A presente portaria entra em vigor em 1 de Agosto de 1973, data a partir da qual se considera revogada a [Portaria n.º 328/72](https://diariodarepublica.pt/dr/detalhe/portaria/328-1972-682456), de 7 de Junho.
 
 Ministério das Comunicações, 3 de Agosto de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
-## Anexo a que se refere o artigo 8.º da [Portaria n.º 154/72](https://diariodarepublica.pt/dr/detalhe/portaria/154-1972-396738)
+Anexo a que se refere o artigo 8.º da [Portaria n.º 154/72](https://diariodarepublica.pt/dr/detalhe/portaria/154-1972-396738)
 
 Taxa devida por uma aeronave de coeficiente de peso igual à unidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/20300/15531554.pdf))](https://files.diariodarepublica.pt/1s/1973/08/20300/15531554.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/20300/15531554.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

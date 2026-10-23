@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 188/2007, 1º Suplemento, Série I de 2007-09-28
   number: '188'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6998-(5) a 6998-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/18801/0000500010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/326-b/2007/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-b-2007-398496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb741131a9306ff5058f94a8a67ff80c577348cada8cbb974f3c8ebcd6b7d34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55df1813cebad28daa443c0d80a7d55ca9217c145fff5d0f362ff2f268243f92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
-- Definição de Competências
-- Inspector Geral do Trabalho
+- Autoridade para as Condições do Trabalho
 - Conselho Consultivo
-- Instituto para a Segurança Higiene e Saúde no Trabalho
+- Definição de Competências
+- Gestão Financeira
 - Inspecção Geral do Trabalho
+- Inspector Geral do Trabalho
+- Instituto para a Segurança Higiene e Saúde no Trabalho
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional
 - Transferência de Competências
 - Uso e porte de arma
-- Autoridade para as Condições do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:211340863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489763:por
+  label: "Alterado o art. 36º do Dec Lei 211/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.229/2009.14.09.2009.MTSSO,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-2009-489763
+  date: '2009-09-14'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Economia e do Emprego da Autoridade para as Condições de Trabalho,\
+    \ anteriormente integrada no extinto Ministério do Trabalho e da Solidariedade Social, cuja orgânica foi aprovada pelo\
+    \ presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:178822:por
+  label: "Determinado, a partir de 01.07.2012, que a Secretaria-Geral do Ministério da Economia e do Emprego, suceda, nos\
+    \ termos da al. f) do art. 10º nas atribuições da Autoridade para as Condições de Trabalho, pelo DEC LEI.124/2012.20.06.2012.MEE,\
+    \ DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2012-178822
+  date: '2012-06-20'
+- type: amended_by
+  target: pt:dre:179298:por
+  label: "Considerado revogado, a partir de 01.08.2012, pelo DR.47/2012.31.07.2012.MEE, DR.IS [147] de 31.07.2012, nos termos\
+    \ do disposto no art. 13º daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/47-2012-179298
+  date: '2012-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/102/2000/06/02/p/dre
   label: null
@@ -104,16 +130,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145193:por
+  label: "Revogado, a partir de 03.01.2012, o Dec Lei 211/2006 de 27-Out, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:16Z'
   warnings: []
   errors: []
 ---
@@ -446,7 +498,9 @@ f) ...
 
 3 - A ACT é dirigida pelo inspector-geral do Trabalho, coadjuvado por dois subinspectores-gerais e pelo coordenador executivo para a promoção da segurança e saúde no trabalho.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -476,16 +530,16 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 26 de Setembro de 2007.**
+Promulgado em 26 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Setembro de 2007.**
+Referendado em 27 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO N.º 1 — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/18801/0000500010.pdf))](https://files.diariodarepublica.pt/1s/2007/09/18801/0000500010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/18801/0000500010.pdf)

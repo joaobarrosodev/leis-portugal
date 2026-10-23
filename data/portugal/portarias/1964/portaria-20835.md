@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20835-1964-536777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ba5095832ad4cc4d55b12ddbf43ef647769ca11f96518bd59e7d64a8d982d39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eea36840652a045ac891eb5c29cdcd43438488b201f0efc779e53cbca9f1b38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:30Z'
   warnings: []
   errors: []
 ---
@@ -86,19 +90,19 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 1.º O § 2.º do artigo 128.º do Regulamento da Escola Naval passa a ter a seguinte redacção:
 
-###### Art. 128.º ...
+Art. 128.º ...
 
 § 2.º Os exames finais constam de prova escrita e prova oral, podendo ser dispensados da prova oral os alunos que obtenham na prova escrita valorização igual ou superior a 12 valores. Não são admitidos à prova oral, e ficam reprovados, os alunos que na prova escrita obtenham valorização inferior a 7 valores.
 
 2.º O § 2.º do artigo 129.º do referido regulamento passa a ter a seguinte redacção:
 
-###### Art. 129.º ...
+Art. 129.º ...
 
 § 2.º Os alunos de qualquer dos dois primeiros períodos que se encontrem nas condições previstas neste artigo poderão, no entanto, ser autorizados a repetir o período a que respeita a cadeira ou aula prática em cujo exame hajam reprovado, ingressando no curso seguinte, a que passam a pertencer.
 
 3.º O artigo 130.º e seus §§ 1.º e 2.º do mesmo regulamento são substituídos pelos seguintes:
 
-###### Art. 130.º Os alunos que num período obtenham cota de frequência inferior a 10 valores em qualquer cadeira, aula prática ou instrução ou que reprovem no exame em mais que uma cadeira ou aula prática repetem a frequência desse período, nas condições estabelecidas no artigo 123.º e seus parágrafos.
+Art. 130.º Os alunos que num período obtenham cota de frequência inferior a 10 valores em qualquer cadeira, aula prática ou instrução ou que reprovem no exame em mais que uma cadeira ou aula prática repetem a frequência desse período, nas condições estabelecidas no artigo 123.º e seus parágrafos.
 
 § único. Não beneficiam do disposto neste artigo, e são excluídos, os alunos de qualquer dos dois primeiros períodos que não obtenham frequência ou reprovem no exame em mais que uma cadeira, aula prática ou instrução, e ainda os que, em qualquer período do curso, obtenham cota de frequência inferior a 5 valores.
 

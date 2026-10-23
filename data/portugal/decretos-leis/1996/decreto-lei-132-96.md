@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/132/1996/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1996-405372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0adb875b1ccc342c9e0293f7cb146615dc5d0631cdac1f8e864e900180724a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2d1e2a322b111f8013ca405c4fce3ad65fe60cefbe77010f53e027f7327ba85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/52/1995/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/52/1995/03/20/p/dre
+- type: cites
+  target: pt:dre:166204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557864:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:57Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +134,12 @@ c) Contratação local nos termos da [Portaria n.º 818/90](https://diariodarepu
 
 Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

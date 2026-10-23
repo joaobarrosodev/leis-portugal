@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/110a00/30653065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2003/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2003-533474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d439ccabf44beac9aac7020f5d391a7bbacdc5a4f279f8a8d48e0118146ccd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc3855c5402c80491b4de80c2ee815ffb83bf64fb7bf5da48f28010614ddb5e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/65/1996/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/65/1996/05/31/p/dre
+- type: cites
+  target: pt:dre:444688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627208:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:52Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +123,9 @@ Os artigos 7.º e 12.º do [Decreto-Lei n.º 323/95](https://diariodarepublica.p
 
 A conta especial denominada 'conta-emigrante' pode ser expressa em euros ou em moeda estrangeira, sendo-lhe aplicável o regime geral das contas de depósito, salvo o disposto nos artigos seguintes.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -131,12 +141,12 @@ São revogados a alínea e) do n.º 1 do artigo 3.º e o artigo 17.º do [Decret
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 24 de Abril de 2003.**
+Promulgado em 24 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 2003.**
+Referendado em 29 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

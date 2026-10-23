@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 301/1980, 7º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 7º Suplemento
+  supplement: null
   pages: 4244-(115) a 4244-(118)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30107/01150118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/391-1980-226635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T07:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58599ddbf98d3af9ddaeb44068de03effd8b97b2864b1c46f6198d31bf48d9cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f413b2fa8e3753d8418e2ccf44879bff6ddec206bd90f903e5c2a6b0b4ca75de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emprego
+- Política de Emprego
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICAÇÃO PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUEMRO 80, DE 6/4/81.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:662312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:461666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472943:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389028:por
+  label: Rectificado pela DECL.DD6451.19.03.1981.PCM, DR.IS [80] de 06.04.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-389028
+  date: '1981-03-19'
+- type: repealed_by
+  target: pt:dre:662312:por
+  label: "Revogado pelo DEC LEI.118/87.14.03.1987.MTSS, DR.IS [61] de 14.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-1987-662312
+  date: '1987-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:05:40Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +145,7 @@ c) O coeficiente capital-emprego é calculado nos termos do anexo II.
 
 Ministérios das Finanças e do Plano e do Trabalho, 31 de Outubro de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro do Trabalho, Eusébio Marques de Carvalho.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/30107/01150118.pdf))](https://files.diariodarepublica.pt/1s/1980/12/30107/01150118.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/30107/01150118.pdf)
 
 ## ANEXO II
 

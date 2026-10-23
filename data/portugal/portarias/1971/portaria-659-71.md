@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/659-1971-632057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 279fc386266df034223fc9c0a6b906e827d700b34b3b8af0477c90edcecab8c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d17bdab4a178d8882175c5d2fd2a2c74dc856b948a3ac48ce4e3dd202a3ce159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Pessoal do MAR
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:684194:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:684194:por
+  label: "Revogada pela PORT.484/2003.2003.06.17.MDN DR.IS-B [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/484-2003-684194
+  date: '2003-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:16Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e p�
 
 REGULAMENTO DE UNIFORMES DOS CABOS-DE-MAR
 
-###### Artigo 1.º - 1. Os artigos de uniforme para uso dos cabos-de-mar compreendem:
+Artigo 1.º - 1. Os artigos de uniforme para uso dos cabos-de-mar compreendem:
 
 a) Artigos pertencentes ao pessoal;
 
@@ -102,9 +110,9 @@ b) Artigos pertencentes ao Estado.
 
 2. Os artigos referidos na alínea b) do número anterior apenas são usados quando as necessidades do serviço o justifiquem.
 
-###### Art. 2.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença do organismo onde o pessoal presta serviço, em cujas contas de material devem estar à carga.
+Art. 2.º Os artigos da alínea b) do n.º 1 do artigo 1.º são pertença do organismo onde o pessoal presta serviço, em cujas contas de material devem estar à carga.
 
-###### Art. 3.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
+Art. 3.º Os artigos da alínea a) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Boné;
 
@@ -152,7 +160,7 @@ x) Sapatos pretos;
 
 z) Tranqueta para a gravata.
 
-###### Art. 4.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
+Art. 4.º Os artigos da alínea b) do n.º 1 do artigo 1.º são os seguintes:
 
 a) Capote de abafo;
 
@@ -160,13 +168,13 @@ b) Crachá;
 
 c) Impermeável.
 
-###### Art. 5.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
+Art. 5.º - 1. O boné é idêntico ao usado pelos sargentos da Armada.
 
 2. O emblema (fig. 1) é constituído por uma estrela de seis pontas, com 0,010 m de diâmetro, assente sobre uma âncora com 0,025 m de altura por 0,018 m de largura, tudo bordado a ouro sobre pano azul-ferrete, dentro de uma elipse de 0,035 m de altura por 0,025 m de largura, formada por duas serrilhas de ouro, encimada por um escudo nacional assente sobre uma esfera armilar com 0,020 m de diâmetro, tudo bordado a ouro e com o fundo do escudo de prata.
 
-###### Art. 6.º Os botões de metal são idênticos e dos mesmos padrões que os usados pelos sargentos da Armada.
+Art. 6.º Os botões de metal são idênticos e dos mesmos padrões que os usados pelos sargentos da Armada.
 
-###### Art. 7.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzento-azulada, e são de quatro padrões:
+Art. 7.º Os botões de massa são redondos, lisos, com quatro orifícios ao centro, de cor branca, preta ou cinzento-azulada, e são de quatro padrões:
 
 a) N.º 3, com 0,025 m de diâmetro;
 
@@ -176,21 +184,21 @@ c) N.º 5, com 0,015 m de diâmetro;
 
 d) N.º 6, com 0,010 m de diâmetro.
 
-###### Art. 8.º As calças azuis (padrões n.os 1 e 2) são idênticas, nos tecidos e modelos, às calças azuis dos mesmos padrões dos sargentos da Armada, mas os botões são pretos, do padrão n.º 5.
+Art. 8.º As calças azuis (padrões n.os 1 e 2) são idênticas, nos tecidos e modelos, às calças azuis dos mesmos padrões dos sargentos da Armada, mas os botões são pretos, do padrão n.º 5.
 
-###### Art. 9.º As calças brancas são idênticas no tecido e modelo às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 5.
+Art. 9.º As calças brancas são idênticas no tecido e modelo às usadas pelos sargentos da Armada, mas os botões são brancos, do padrão n.º 5.
 
-###### Art. 10.º - 1. A camisa azul e as camisas brancas (padrões n.os 1 e 2) são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisas brancas (padrões n.os 1 e 3) dos sargentos da Armada.
+Art. 10.º - 1. A camisa azul e as camisas brancas (padrões n.os 1 e 2) são idênticas nos tecidos e modelos, respectivamente, à camisa azul e camisas brancas (padrões n.os 1 e 3) dos sargentos da Armada.
 
 2. Os botões da camisa azul são cinzento-azulados, do padrão n.º 5, e os das camisas brancas são brancos, do padrão n.º 6
 
-###### Art. 11.º A capa branca para boné é de tecido e modelo idênticos à usada pelos sargentos da Armada.
+Art. 11.º A capa branca para boné é de tecido e modelo idênticos à usada pelos sargentos da Armada.
 
-###### Art. 12.º O capote de abafo é do modelo em uso na Armada.
+Art. 12.º O capote de abafo é do modelo em uso na Armada.
 
-###### Art. 13.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
+Art. 13.º O cinto azul e o cinto branco são dos modelos usados pelos sargentos da Armada.
 
-###### Art. 14.º - 1. O crachá (fig. 2) é de metal branco com a legenda «Cabo-de-mar», com seis pontas de uma estrela a sobressaírem, tendo no centro uma âncora.
+Art. 14.º - 1. O crachá (fig. 2) é de metal branco com a legenda «Cabo-de-mar», com seis pontas de uma estrela a sobressaírem, tendo no centro uma âncora.
 
 2. O crachá, que dispõe na fase posterior de um dispositivo apropriado para prender no uniforme, tem as seguintes dimensões:
 
@@ -204,13 +212,13 @@ d) Âncora - 0,023 m de altura por 0,016 m da largura.
 
 3. O crachá é usado do lado esquerdo do uniforme, na altura do peito, e apenas em serviço.
 
-###### Art. 15.º Os distintivos a usar pelos cabos-de-mar compreendem:
+Art. 15.º Os distintivos a usar pelos cabos-de-mar compreendem:
 
 a) Distintivo de cabo-de-mar;
 
 b) Distintivo de categoria do pessoal.
 
-###### Art. 16.º - 1. O distintivo de cabo-de-mar é constituído por uma âncora, bordada a ouro, com 0,035 m de altura por 0,025 m de largura.
+Art. 16.º - 1. O distintivo de cabo-de-mar é constituído por uma âncora, bordada a ouro, com 0,035 m de altura por 0,025 m de largura.
 
 2. O distintivo a que se refere o número anterior é bordado sobre pano azul-ferrete:
 
@@ -218,7 +226,7 @@ a) Numa elipse de 0,055 m de altura por 0,045 m de largura, para ser cosida nas 
 
 b) Nas passadeiras e platinas (figs. 4 e 5).
 
-###### Art. 17.º - 1. O distintivo da categoria do pessoal é o emblema nacional, constituído por um escudo nacional de ouro assente sobre uma esfera armilar de ouro com 0,008 m de diâmetro.
+Art. 17.º - 1. O distintivo da categoria do pessoal é o emblema nacional, constituído por um escudo nacional de ouro assente sobre uma esfera armilar de ouro com 0,008 m de diâmetro.
 
 2. Os cabos-de-mar de 1.ª classe usarão quatro dos emblemas nacionais descritos no número anterior.
 
@@ -232,13 +240,13 @@ a) Nas mangas (fig. 3) do jaquetão azul (padrão n.º 1);
 
 b) Nas passadeiras e platinas (figs. 4 e 5).
 
-###### Art. 18.º As estrelas metálicas, de seis pontas, são de metal dourado, com 0,015 m de diâmetro, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,050 m dos vértices exteriores e na linha de bissectriz dos bicos.
+Art. 18.º As estrelas metálicas, de seis pontas, são de metal dourado, com 0,015 m de diâmetro, e colocadas nos orifícios caseados existentes no colarinho da camisa azul, a 0,050 m dos vértices exteriores e na linha de bissectriz dos bicos.
 
-###### Art. 19.º A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
+Art. 19.º A gravata preta é de seda e idêntica à usada pelos sargentos da Armada.
 
-###### Art. 20.º O impermeável é do modelo em uso na Armada.
+Art. 20.º O impermeável é do modelo em uso na Armada.
 
-###### Art. 21.º - 1. O jaquetão azul (padrão n.º 1) é do mesmo tecido e modelo do usado pelos sargentos da Armada.
+Art. 21.º - 1. O jaquetão azul (padrão n.º 1) é do mesmo tecido e modelo do usado pelos sargentos da Armada.
 
 2. Na parte posterior da extremidade de cada manga, junto à costura, leva dois botões de metal do padrão n.º 2, ficando o inferior a 0,040 m da extremidade da manga e o superior a 0,050 m do inferior.
 
@@ -248,17 +256,17 @@ b) Nas passadeiras e platinas (figs. 4 e 5).
 
 5. O distintivo da categoria é colocado a 0,020 m da extremidade inferior do distintivo de cabo-de-mar (fig. 3).
 
-###### Art. 22.º - 1. O jaquetão azul (padrão n.º 2) é do mesmo tecido que o blusão azul dos sargentos da Armada e do mesmo modelo do jaquetão azul (padrão n.º 1).
+Art. 22.º - 1. O jaquetão azul (padrão n.º 2) é do mesmo tecido que o blusão azul dos sargentos da Armada e do mesmo modelo do jaquetão azul (padrão n.º 1).
 
 2. Na parte posterior da extremidade de cada manga, junto à costura, leva dois botões de metal do padrão n.º 2, distanciados entre si de 0,050 m e ficando o inferior a 0,040 m da extremidade da manga.
 
 3. Em cada ombro tem duas pequenas passadeiras fixas do mesmo tecido para colocação das platinas rígidas.
 
-###### Art. 23.º - 1. O jaquetão branco é do mesmo tecido de dólman dos sargentos da Armada e do modelo igual ao jaquetão azul (padrão n.º 2), mas sem forro.
+Art. 23.º - 1. O jaquetão branco é do mesmo tecido de dólman dos sargentos da Armada e do modelo igual ao jaquetão azul (padrão n.º 2), mas sem forro.
 
 2. A este jaquetão aplica-se o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 24.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca (padrão n.º 2).
+Art. 24.º - 1. As passadeiras são de modelo idêntico às usadas pelos sargentos da Armada, próprias para serem enfiadas nas platinas fixas existentes nas camisas azul e branca (padrão n.º 2).
 
 2. São guarnecidas na face superior com os distintivos de cabo-de-mar e da categoria do pessoal.
 
@@ -266,40 +274,40 @@ b) Nas passadeiras e platinas (figs. 4 e 5).
 
 4. O distintivo de cabo-de-mar é colocado à distância de 0,015 m da linha dos centros dos emblemas nacionais.
 
-###### Art. 25.º As peúgas pretas são de algodão, lisas e sem enfeites.
+Art. 25.º As peúgas pretas são de algodão, lisas e sem enfeites.
 
-###### Art. 26.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e destinam-se a ser colocadas nas pequenas passadeiras fixas existentes nos ombros do jaquetão azul (padrão n.º 2) e do jaquetão branco.
+Art. 26.º - 1. As platinas são de modelo idêntico às usadas pelos oficiais da Armada e destinam-se a ser colocadas nas pequenas passadeiras fixas existentes nos ombros do jaquetão azul (padrão n.º 2) e do jaquetão branco.
 
 2. O botão metálico é do padrão n.º 2.
 
 3. Às platinas aplica-se o disposto nos n.os 2, 3 e 4 do artigo 24.º
 
-###### Art. 27.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
+Art. 27.º Os sapatos pretos são idênticos aos usados pelos sargentos da Armada.
 
-###### Art. 28.º A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
+Art. 28.º A tranqueta para a gravata é igual à usada pelos sargentos da Armada.
 
-###### Art. 29.º - 1. Os uniformes dos cabos-de-mar, bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
+Art. 29.º - 1. Os uniformes dos cabos-de-mar, bem como as ocasiões e serviços em que devem ser usados, são estabelecidos na tabela anexa a este Regulamento.
 
 2. O uso do uniforme é obrigatório em serviço e em cerimónias ou actos oficiais.
 
-###### Art. 30.º O comodoro intendente das capitanias, capitães de portos e delegados marítimos devem fazer cumprir as disposições deste Regulamento, na parte que lhes competir, fiscalizando a forma como o pessoal se apresenta e o estado de conservação e asseio dos artigos de uniforme.
+Art. 30.º O comodoro intendente das capitanias, capitães de portos e delegados marítimos devem fazer cumprir as disposições deste Regulamento, na parte que lhes competir, fiscalizando a forma como o pessoal se apresenta e o estado de conservação e asseio dos artigos de uniforme.
 
-###### Art. 31.º A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelo comodoro intendente das capitanias, de forma que a referida substituição se processe, na medida do possível, com brevidade.
+Art. 31.º A substituição dos artigos de uniforme presentemente em vigor pelos aprovados por este Regulamento será regulada pelo comodoro intendente das capitanias, de forma que a referida substituição se processe, na medida do possível, com brevidade.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 TABELA
 
 Uniformes dos cabos-de-mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf))](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf)
 
 Nota. - O uso dos uniformes n.os 1, 2 e 3 é facultativo, assim como a aquisição dos artigos que os constituem, até que por despacho do Ministro da Marinha seja determinada a sua obrigatoriedade.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da FIG. 1 à FIG. 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf))](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/28200/18571860.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

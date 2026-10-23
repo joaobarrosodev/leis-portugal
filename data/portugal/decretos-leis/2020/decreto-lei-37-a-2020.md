@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 136/2020, 2º Suplemento, Série I de 2020-07-15
   number: '136'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 44-(2) a 44-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13602/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37-a/2020/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2020-138054866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1297ac30bc14548cf3bcca88a1b65ea1951a2dd6313c87021cf9001212793052
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f59add15b6d199ab4f6d3c31922a42d5bd595b846b07a4f3410fe7663de469bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,63 +67,69 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- PSP
 - Agrupamento de Escolas
-- Crime
-- Proteção Civil
+- ASAE
+- Atendimento Público
+- Autoridade Nacional da Aviação Civil
 - Bebida Alcoólica
-- Espetáculos e Divertimentos Públicos
 - Carreira de Polícia Municipal
+- Catástrofe
 - Circulação de Pessoas
-- Multa
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Ministério da Administração Interna
 - Contra-ordenação
-- Corpo de Polícia Marítima
-- Definição de Competências
-- Serviços de Segurança
 - Controlo Sanitário
+- Corpo de Polícia Marítima
+- Crime
+- Definição de Competências
+- Doença
+- Doença Infecciosa
 - Edifício Administrativo
 - Edifício Público
-- Saúde Pública
+- Epidemia
+- Equipamento de Proteção
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
 - Fiscalização
-- Catástrofe
-- Secretaria Geral
+- GNR
 - Horário de Funcionamento
-- ASAE
 - Lei de Bases
 - Medidas Preventivas
-- GNR
+- Ministério da Administração Interna
+- Multa
 - Notificação
-- Serviço de Estrangeiros e Fronteiras
-- Doença Infecciosa
-- Epidemia
 - Plano de Emergência
 - Polícia Marítima
 - Polícia Municipal
-- Estabelecimento de Ensino
 - Prestação de Serviços
+- Proteção Civil
 - Proteção Social
+- PSP
 - Responsabilidade Civil
 - Sanção
-- Doença
+- Saúde Pública
+- Secretaria Geral
 - Secretário Geral
-- Comércio
-- Atendimento Público
+- Serviço de Estrangeiros e Fronteiras
+- Serviços de Segurança
+- Situação de Alerta
+- Situação de Contingência
 - Transporte de Passageiros
 - Transporte Público
-- Autoridade Nacional da Aviação Civil
-- Equipamento de Proteção
-- Situação de Contingência
-- Situação de Alerta
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/2020/06/26/p/dre
   label: null
@@ -132,16 +138,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:29Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +224,9 @@ i) O cumprimento das regras aplicáveis ao tráfego aéreo e aos aeroportos, nos
 
 j) [Anterior alínea i).]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O incumprimento dos deveres estabelecidos nas alíneas a) a h) e j) do artigo anterior constitui contraordenação, sancionada com coima de (euro) 100,00 a (euro) 500,00, no caso de pessoas singulares, e de (euro) 1 000,00 a (euro) 5 000,00, no caso de pessoas coletivas.
 
@@ -226,7 +242,9 @@ b) Com coima de (euro) 2 000,00 a (euro) 3 000,00, no caso de incumprimento da o
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A fiscalização do cumprimento dos deveres previstos nas alíneas a) a h) e j) do artigo 2.º compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade de Segurança Alimentar e Económica e às Polícias Municipais.
 
@@ -236,7 +254,9 @@ a) Ao Serviço de Estrangeiros e Fronteiras (SEF), quando se trate da obrigaçã
 
 b) À Autoridade Nacional da Aviação Civil (ANAC), quando se trate da obrigação de disponibilização do teste laboratorial para despiste da doença COVID-19 ou da obrigação de rastreio de temperatura corporal por infravermelhos a todos os passageiros que chegam a território nacional ou da obrigação de repetição da medição da temperatura corporal quando seja detetada uma temperatura corporal relevante na sequência daquele rastreio.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Compete à Secretaria-Geral do Ministério da Administração Interna (SGMAI) o processamento das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a h) e j) do artigo 2.º
 
@@ -246,7 +266,9 @@ b) À Autoridade Nacional da Aviação Civil (ANAC), quando se trate da obrigaç
 
 4 - Compete à ANAC o processamento das contraordenações relativas ao incumprimento dos deveres previstos na alínea i) do artigo 2.º, independentemente da matéria.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O produto das coimas aplicadas no âmbito das contraordenações relativas ao incumprimento dos deveres previstos nas alíneas a) a h) e j) do artigo 2.º reverte em:
 
@@ -270,12 +292,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de julho de 2020. - António Luís Santos da Costa - Eduardo Arménio do Nascimento Cabrita - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 15 de julho de 2020.**
+Promulgado em 15 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de julho de 2020.**
+Referendado em 15 de julho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113402368

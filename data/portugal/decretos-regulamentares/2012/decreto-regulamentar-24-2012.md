@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/03100/0073600738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/24/2012/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-2012-543046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fd620416aa1e2ccbe989d387871ba1a50e2f0ca9cff35a86415fcfd2934addb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0fe9c8b68d7a4b48a60f00bd76578d954779b559204ea36ac4f8fd72b944626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Gabinete de Estratégia e Planeamento
 - Ministério da Solidariedade e da Segurança Social
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1017369023:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66325238:por
+  label: Alterados os arts. 1.º, 2.º, 3.º, 4.º, 5.º e 9.º e o anexo ao presente diploma e determinada a sucessão do GEP nas
+    atribuições do Gabinete de Estratégia e Estudos do extinto Ministério da Economia e do Emprego, no domínio do emprego
+    bem como da Direção-Geral das Atividades Económicas do extinto Ministério da Economia e do Emprego, nos domínios da coordenação
+    dos assuntos europeus, internacionais e cooperação com países de língua oficial portuguesa, nas áreas do trabalho, emprego,
+    formação profissional e segurança e saúde no trabalho pelo(a) Decreto-Lei n.º 14/2015 - Diário da República n.º 17/2015,
+    Série I de 2015-01-26, que procede à respetiva republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2015-66325238
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre o Gabinete de Estratégia e Planeamento, com orgânica aprovada
+    pelo presente diploma, seja exercida pela Ministra do Trabalho, Solidariedade e Segurança Social pelo(a) Decreto-Lei n.º
+    169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pela Ministra do Trabalho, Solidariedade e Segurança
+    Social sobre o Gabinete de Estratégia e Planeamento (GEP), cuja orgânica foi aprovada pelo presente diploma, na versão
+    republicada pelo Dec Lei 14/2015 de 26-jan, pelo(a) Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I
+    de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pela Ministra do Trabalho, Solidariedade e Segurança
+    Social a direção sobre o Gabinete de Estratégia e Planeamento pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º
+    91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pela Ministra do Trabalho, Solidariedade e Segurança
+    Social a direção sobre o Gabinete de Estratégia e Planeamento pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República
+    n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/2011/12/29/p/dre
   label: null
@@ -88,16 +127,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:145193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638547:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1017369023:por
+  label: Revogado, a partir de 1 de fevereiro de 2026, pelo(a) Decreto Regulamentar n.º 1/2026 - Diário da República n.º 14/2026,
+    Série I de 2026-01-21, nos termos do seu artigo 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2026-1017369023
+  date: '2026-01-21'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:57Z'
   warnings: []
   errors: []
 ---
@@ -206,18 +263,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de Fevereiro de 2012.**
+Promulgado em 3 de Fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Fevereiro de 2012.**
+Referendado em 7 de Fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03100/0073600738.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03100/0073600738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03100/0073600738.pdf)

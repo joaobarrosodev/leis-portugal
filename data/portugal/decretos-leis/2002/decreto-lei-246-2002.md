@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/258a00/71597167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/246/2002/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2002-425486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86e8135d9587876741d3e9f52e67b7638e08ccb8ce5c264e3483522c053deaed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e335404f4f35fd2e065e8edafcf7bf5b4222dcb66943d1172762bf1374810b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Auditor de Ambiente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Auditoria Jurídica
 - Direção Geral de Veterinária
 - Direcção Geral das Florestas
 - Direcção Geral das Pescas e Aquicultura
 - Direcção Geral de Desenvolvimento Rural
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
 - Direcção Geral de Protecção das Culturas
 - Escola de Pesca e de Marinha do Comércio
 - Extinção de Serviços
-- Secretaria Geral
 - Gabinete de Planeamento e Política Agro-alimentar
-- Instituto Nacional de Intervenção e Garantia Agrícola
 - Inspecção Geral das Pescas
 - Inspecção Geral e Auditoria de Gestão
 - Instituto da Vinha e do Vinho
 - Instituto de Desenvolvimento Rural e Hidráulica
 - Instituto de Hidráulica Engenharia Rural e Ambiente
 - Instituto de Investigação das Pescas e do Mar
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Instituto Nacional de Investigação Agrária
 - Instituto Nacional de Investigação Agrária e das Pescas
 - Laboratório Nacional de Investigação Veterinária
-- Auditoria Jurídica
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
 - Quadro de Pessoal
-- Instituto Nacional de Investigação Agrária
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:545637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684205:por
+  label: "Sujeitado a superintendência conjunta do Ministro da Agricultura, Desenvolvimento Rural e Pescas e do Ministro da\
+    \ Ciência e do Ensino Superior, a tutela do Instituto Nacional de Investigação Agrária e Pescas, criado pelo pelo presente\
+    \ diploma, pelo DEC LEI.119/2003.2003.06.17.PCM DR.IS-A [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2003-684205
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:218544:por
+  label: "Alterada a redacção dada aos arts. 4.º e 8.º do Dec Lei 76/94, de 18-Jun, pelo DEC LEI.80/2004.10.04.2004.MADRP,\
+    \ DR.IS-A [85] de 10.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2004-218544
+  date: '2004-04-10'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Sujeitado a superintendência conjunta o Instituto Nacional de Investigação Agrária e das Pescas, criado pelo presente\
+    \ diploma, cabendo a tutela funcional e patrimonial ao Ministro da Agricultura, Pescas e Florestas e sendo a definição\
+    \ das linhas de orientação e dos domínios prioritários da sua actuação exercida em articulação com o Ministro da Ciência,\
+    \ Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas do Instituto Nacional de Investigação\
+    \ Agrária e das Pescas, I. P., criado no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo\
+    \ Ministro da Agricultura, do Desenvolvimento Rural e das Pescas em articulação com o Ministro da Ciência, Tecnologia\
+    \ e Ensino Superior, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:667535:por
+  label: "Alterada a al. c) do art. 8º e, revogadas a al. l) do nº 2 do art. 4º e a al. m) do art. 8º do Dec Lei 74/96 de\
+    \ 18-Jun, com as alterações constantes do presente diploma, pelo DEC LEI.68/2006.23.03.2006.MADRP, DR.IS-A [59] de 23.03.2006\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2006-667535
+  date: '2006-03-23'
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinto, sendo objecto de fusão o Instituto do Desenvolvimento Rural e Hidráulica, criado pelo presente diploma,\
+    \ sendo algumas das suas atribuições integradas no Gabinete de Planeamento e Políticas e na Direcção-Geral de Agricultura\
+    \ e Desenvolvimento Rural, nos termos da al. d) do nº 2 do art. 21º. Determinada a fusão, mantendo a sua identidade o\
+    \ Instituto Nacional de Investigação Agrária e Pescas, I.P. (criado pelo presente) que é integrado no Instituto Nacional\
+    \ de Recursos Biológicos, I.P., nos termos da al. a) do nº 3 do art. 21º do DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208]\
+    \ de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/128/1997/05/24/p/dre
   label: null
@@ -124,16 +170,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:335901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
+  article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:53Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +246,9 @@ Natureza e objectivos
 
 O Ministério da Agricultura, Desenvolvimento Rural e Pescas, abreviadamente designado por MADRP, é o departamento governamental que apoia a definição e executa as políticas relativas aos sectores agrícola, pecuário, florestal, alimentar, do desenvolvimento rural e das pescas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os serviços centrais de apoio com funções de concepção, coordenação e apoio directo ao Ministro são os seguintes:
 
@@ -208,7 +288,9 @@ j) Direcção-Geral da Fiscalização e Controlo da Qualidade Alimentar.
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os serviços sob tutela do Ministro da Agricultura, Desenvolvimento Rural e Pescas são os seguintes:
 
@@ -220,13 +302,17 @@ c) ...
 
 2 - ...
 
-###### Artigo 6.º — Organismos sob dupla tutela e superintendência conjunta
+Artigo 6.º
+
+Organismos sob dupla tutela e superintendência conjunta
 
 1 - O Instituto Nacional de Intervenção e Garantia Agrícola funciona sob tutela conjunta dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.
 
 2 - O Instituto Nacional de Investigação Agrária e das Pescas e o Laboratório Nacional de Investigação Veterinária ficam sujeitos a superintendência conjunta dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e da Ciência e do Ensino Superior, cabendo ao primeiro a tutela funcional e patrimonial.
 
-###### Artigo 7.º — Serviços centrais de apoio
+Artigo 7.º
+
+Serviços centrais de apoio
 
 1 - Os serviços centrais de apoio com funções de concepção, coordenação e apoio directo ao Ministro prosseguem as seguintes atribuições:
 
@@ -240,7 +326,9 @@ d) ...
 
 2 - O Auditor do Ambiente é nomeado por despacho conjunto dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente.
 
-###### Artigo 8.º — Serviços centrais operativos
+Artigo 8.º
+
+Serviços centrais operativos
 
 Os serviços centrais operativos que contribuem para a formulação das políticas sectoriais nos domínios agro-alimentar, do desenvolvimento rural e das pescas, de apoio à sua execução e da investigação prosseguem as seguintes atribuições:
 
@@ -266,7 +354,9 @@ j) À Direcção-Geral da Fiscalização e Controlo da Qualidade Alimentar incum
 
 l) Ao Instituto Nacional de Investigação Agrária e das Pescas incumbe realizar as acções de investigação, experimentação e demonstração necessárias ao reforço das fileiras produtivas agrícola, pecuária e florestal, incluindo, designadamente, as conducentes ao melhoramento da produção e defesa do património genético vegetal e animal e desenvolver bases científicas e tecnológicas de suporte à política da pesca, realizando estudos com vista a uma avaliação sobre os recursos de pesca existentes, bem como prestar o apoio técnico e científico do sector das pescas e actividades conexas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os serviços sob tutela do Ministro da Agricultura, Desenvolvimento Rural e Pescas prosseguem as seguintes atribuições:
 
@@ -276,7 +366,9 @@ b) ...
 
 c) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O MADRP pode celebrar protocolos com entidades que prossigam fins no âmbito das suas atribuições, tendo em vista o desenvolvimento de actividades específicas que não envolvam poderes de autoridade.
 
@@ -290,7 +382,9 @@ c) ...
 
 3 - Os protocolos podem a todo o tempo ser denunciados por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas, cessando automaticamente os contratos de comodato ou arrendamento deles resultantes, ao abrigo dos n.os 3 ou 4 do artigo 13.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -302,7 +396,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 15.º — Extinção, fusão e reestruturação de serviços e institutos
+Artigo 15.º
+
+Extinção, fusão e reestruturação de serviços e institutos
 
 1 - É extinta a Inspecção-Geral das Pescas.
 
@@ -314,7 +410,9 @@ b) O Instituto Nacional de Investigação Agrária e o Instituto de Investigaç�
 
 3 - É objecto de reestruturação a Direcção-Geral das Pescas e Aquicultura, que assume as atribuições da Inspecção-Geral das Pescas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -324,19 +422,25 @@ b) O Instituto Nacional de Investigação Agrária e o Instituto de Investigaç�
 
 4 - Os quadros de pessoal dos serviços do MADRP objecto de fusão ou reestruturação são aprovados por portaria conjunta dos Ministros das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os saldos apurados dos organismos objecto de fusão ou reestruturação, que não venham a ser afectos aos serviços e organismos onde se verifique a reestruturação ou incorporação, reverterão para a dotação provisional do Ministério das Finanças.
 
 2 - Sem prejuízo do disposto no número anterior, os saldos apurados da Inspecção-Geral das Pescas serão afectos à Direcção-Geral das Pescas e Aquicultura.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As comissões de serviço dos directores-gerais, subdirectores-gerais ou equiparados dos serviços extintos, fundidos ou reestruturados cessam com a entrada em vigor do presente diploma.
 
 2 - Os lugares de director-geral, subdirector-geral ou equiparados são os constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A transição de pessoal dos serviços objecto de extinção, fusão ou de reestruturação deve efectuar-se nos termos da legislação aplicável à colocação e afectação de pessoal na Administração Pública.
 
@@ -344,11 +448,15 @@ b) O Instituto Nacional de Investigação Agrária e o Instituto de Investigaç�
 
 3 - O pessoal a que se refere o n.º 2 será colocado e afectado nos termos gerais, previstos na legislação aplicável à colocação e afectação de pessoal na Administração Pública, se o quadro não se mantiver em vigor na data de provimento.
 
-###### Artigo 20.º — Quadros de pessoal
+Artigo 20.º
+
+Quadros de pessoal
 
 Os quadros de pessoal dos serviços extintos, fundidos ou reestruturados mantêm-se em vigor até à entrada em vigor dos novos quadros de pessoal.
 
-###### Artigo 21.º — Direitos e obrigações
+Artigo 21.º
+
+Direitos e obrigações
 
 1 - Os activos e passivos, bem como quaisquer outros valores, obrigações e direitos, incluindo os emergentes de contratos de arrendamento afectos aos serviços objecto de fusão ou reestruturação por força do disposto no presente diploma, transitam para os novos serviços sem dependência de quaisquer formalidades.
 
@@ -356,7 +464,9 @@ Os quadros de pessoal dos serviços extintos, fundidos ou reestruturados mantêm
 
 3 - A discriminação dos activos e passivos a que se refere o número anterior será feita por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 O património da Inspecção-Geral das Pescas que não seja estritamente necessário à cabal prossecução das funções legalmente cometidas à Direcção-Geral das Pescas e Aquicultura reverterá para a Direcção-Geral do Património.»
 
@@ -370,15 +480,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria - Isaltino Afonso de Morais.
 
-**Promulgado em 24 de Outubro de 2002.**
+Promulgado em 24 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Outubro de 2002.**
+Referendado em 29 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/11/258a00/71597167.pdf)
 

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-1985-182671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T08:27:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed65205fefb2cb796bf335656919c66c0cfbe5d73effd82457c7f71e0bd3c086
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3d9f13d15ab52e293b6d025ad3211e3e81cfd463eddbe5ab491100faca2556d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:27:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ordenamento do Território
+relationships:
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636967:por
+  label: "Revogado o Plano Geral de Urbanização de Arouca, aprovado pelo presente diploma, com as alterações introduzidas\
+    \ pela Port 645/94 de 16-Jul, pela RES.107/2007.17.08.2007.PCM, DR.IS [158] de 17.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/107-2007-636967
+  date: '2007-08-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:27:02Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +103,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitaç
 
 Secretaria de Estado da Habitação e Urbanismo.
 
-**Assinada em 22 de Maio de 1985.**
+Assinada em 22 de Maio de 1985.
 
 Secretaria de Estado da Habitação e Urbanismo. Fernando Manuel dos Santos Gomes.
 
@@ -156,7 +171,7 @@ Consideram-se 8 zonas, designadas por A, B, C, D, E, F, G e H, na planta síntes
 
 Os índices estabelecidos para as zonas consideradas no artigo anterior são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf)
 
 ###### ARTIGO 9.º — Zonas urbanas de expansão de média densidade
 
@@ -214,4 +229,4 @@ A construção fica sujeita aos seguintes parâmetros:
 
 2) Nas parcelas com área igual ou superior a 5000 m2 é permitida a construção de uma habitação patronal com anexos independentes para habitação do pessoal permanente no serviço da exploração, com 2 pisos e cave, quando as condições topográficas do terreno o permitirem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf))](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/07/15600/19581960.pdf)

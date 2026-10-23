@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1981-562263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5192d7ab745a2615e2e086a666b6281a040e8277728701a2a9ec05f5323bfc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b082d44c17171b0c03888160436b038304d2f49b946f0673ff5602fd8cd0dc72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Investigação Científica
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:380282:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:380282:por
+  label: "Suspensa a aplicação pelo DR.89/82.1982.11.25.ME, DR.IS [273]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/89-1982-380282
+  date: '1982-11-25'
+- type: cites
+  target: pt:dre:461662:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567885:por
+  label: Rectificado pela DECL.DD6153.23.11.1981.PCM, DR.IS [279] de 04.12.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567885
+  date: '1981-11-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:26Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +111,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuição dos centros de investigação do Instituto Nacional de Investigação Científica (INIC)
 
-###### Artigo 1.º Os centros de investigação são unidades de investigação científica cujo âmbito corresponde a uma área do saber especificamente definida.
+Artigo 1.º Os centros de investigação são unidades de investigação científica cujo âmbito corresponde a uma área do saber especificamente definida.
 
-###### Art. 2.º Os centros de investigação têm por objectivo:
+Art. 2.º Os centros de investigação têm por objectivo:
 
 a) Contribuir para o desenvolvimento da investigação científica e para a realização da política científica nacional na sua área específica;
 
@@ -111,7 +127,7 @@ e) Desenvolver actividades de prestação de serviços à comunidade, sem preju�
 
 ### CAPÍTULO II — Criação de centros de investigação
 
-###### Art. 3.º A iniciativa para apresentação de propostas de criação dos centros de investigação cabe:
+Art. 3.º A iniciativa para apresentação de propostas de criação dos centros de investigação cabe:
 
 a) Às universidades;
 
@@ -121,9 +137,9 @@ c) A grupos de professores e investigadores doutorados;
 
 d) A outras instituições ou entidades públicas privadas interessadas na investigação científica.
 
-###### Art. 4.º Os centros de investigação são criados e extintos por despacho do Ministro da Educação e Ciência, sob proposta do presidente do INIC.
+Art. 4.º Os centros de investigação são criados e extintos por despacho do Ministro da Educação e Ciência, sob proposta do presidente do INIC.
 
-###### Art. 5.º - 1 - As propostas relativas à criação de centros de investigação poderão ser apresentadas a todo o tempo ao INIC.
+Art. 5.º - 1 - As propostas relativas à criação de centros de investigação poderão ser apresentadas a todo o tempo ao INIC.
 
 2 - Os serviços competentes do INIC procederão à análise da área científica e finalidades propostas para os centros a criar, devendo juntar ao processo uma estimativa dos encargos económico-financeiros decorrentes da criação proposta e relação actualizada dos centros do INIC existentes nessa área que prossigam objectivos semelhantes.
 
@@ -139,13 +155,13 @@ d) A outras instituições ou entidades públicas privadas interessadas na inves
 
 ### CAPÍTULO III — Órgãos dos centros de investigação
 
-###### Art. 6.º São órgãos dos centros de investigação:
+Art. 6.º São órgãos dos centros de investigação:
 
 a) O conselho científico;
 
 b) A comissão directiva.
 
-###### Art. 7.º - 1 - São membros do conselho científico:
+Art. 7.º - 1 - São membros do conselho científico:
 
 a) Os responsáveis pelos projectos de investigação prosseguidos no centro e homologados pelo INIC;
 
@@ -153,7 +169,7 @@ b) Representantes do restante pessoal investigador do centro, em número igual a
 
 2 - Os membros referidos na alínea b) do número anterior serão eleitos, em escrutínio secreto, por todo o pessoal investigador do centro de investigação.
 
-###### Art. 8.º - 1 - O conselho científico elegerá, em escrutínio secreto, de entre os seus membros, 1 presidente, o qual será, obrigatoriamente, professor catedrático ou associado.
+Art. 8.º - 1 - O conselho científico elegerá, em escrutínio secreto, de entre os seus membros, 1 presidente, o qual será, obrigatoriamente, professor catedrático ou associado.
 
 2 - Nos casos em que não seja possível eleger professores das categorias previstas no número anterior a eleição poderá recair em investigador doutorado de categoria equivalente ou em professor auxiliar.
 
@@ -163,7 +179,7 @@ b) Representantes do restante pessoal investigador do centro, em número igual a
 
 5 - Nas suas faltas ou impedimentos o presidente do conselho científico será substituído pelo professor ou, na sua falta, pelo investigador mais antigo da categoria mais elevada que se encontre em efectividade de funções no conselho científico.
 
-###### Art. 9.º Compete ao conselho científico a gestão científica do centro e, designadamente:
+Art. 9.º Compete ao conselho científico a gestão científica do centro e, designadamente:
 
 a) Coordenar as actividades científicas e emitir parecer sobre todas as questões que se prendam com a gestão científica do centro;
 
@@ -175,7 +191,7 @@ d) Aprovar a proposta do orçamento anual;
 
 e) Propor ao INIC a prossecução de acções que considere vantajosas para a prossecução dos objectivos do centro.
 
-###### Art. 10.º - 1 - A comissão directiva será constituída pelo presidente do conselho científico, que presidirá, e por mais 2 elementos por este designados, um de entre os membros do conselho científico e outro de entre o pessoal não investigador, de preferência com experiência administrativa.
+Art. 10.º - 1 - A comissão directiva será constituída pelo presidente do conselho científico, que presidirá, e por mais 2 elementos por este designados, um de entre os membros do conselho científico e outro de entre o pessoal não investigador, de preferência com experiência administrativa.
 
 2 - Compete ao presidente:
 
@@ -183,7 +199,7 @@ a) Convocar as reuniões da comissão directiva;
 
 b) Assegurar a execução das deliberações da comissão directiva respeitantes à gestão do centro.
 
-###### Art. 11.º - 1 - À comissão directiva compete:
+Art. 11.º - 1 - À comissão directiva compete:
 
 a) Assegurar a gestão dos meios humanos e materiais postos à disposição do centro;
 
@@ -197,7 +213,7 @@ d) Zelar pela conservação e manutenção das instalações, equipamentos e out
 
 3 - O presidente da comissão directiva dispõe de voto de qualidade.
 
-###### Art. 12.º - 1 - A eleição dos membros referidos na alínea b) do n.º 1 do artigo 7.º realizar-se-á até 15 de Novembro.
+Art. 12.º - 1 - A eleição dos membros referidos na alínea b) do n.º 1 do artigo 7.º realizar-se-á até 15 de Novembro.
 
 2 - Os responsáveis pelos projectos de investigação prosseguidos no centro e homologados pelo INIC e os representantes do restante pessoal investigador já eleitos nos termos do número anterior reunir-se-ão até ao dia 30 de Novembro, a fim de procederem à eleição do elemento que presidirá ao novo conselho.
 
@@ -213,11 +229,11 @@ d) Zelar pela conservação e manutenção das instalações, equipamentos e out
 
 ### CAPÍTULO IV — Do funcionamento dos centros de investigação
 
-###### Art. 13.º - 1 - Os centros de investigação apresentarão ao INIC, até 30 de Junho de cada ano, o plano global de actividades para o ano civil imediato.
+Art. 13.º - 1 - Os centros de investigação apresentarão ao INIC, até 30 de Junho de cada ano, o plano global de actividades para o ano civil imediato.
 
 2 - O prazo referido no número anterior poderá, em casos devidamente justificados, ser prorrogado por decisão do presidente do INIC.
 
-###### Art. 14.º O plano global de actividades será elaborado de acordo com as orientações a fornecer pelo INIC e conterá, designadamente:
+Art. 14.º O plano global de actividades será elaborado de acordo com as orientações a fornecer pelo INIC e conterá, designadamente:
 
 a) A proposta de actividades científicas e de intercâmbio do centro, incluindo as relativas aos projectos em curso e a novos projectos a desenvolver;
 
@@ -239,29 +255,29 @@ i) A relação actualizada do equipamento científico existente no centro;
 
 j) A lista das revistas cuja assinatura o centro propõe seja renovada e firmada para o ano seguinte.
 
-###### Art. 15.º - 1 - Até 31 de Março, cada centro deverá fazer a entrega do relatório de actividades relativo ao ano civil anterior.
+Art. 15.º - 1 - Até 31 de Março, cada centro deverá fazer a entrega do relatório de actividades relativo ao ano civil anterior.
 
 2 - O relatório será redigido de acordo com normas a aprovar pelo INIC.
 
-###### Art. 16.º - 1 - Simultaneamente com a sua remessa ao INIC, os centros enviarão cópias dos relatórios de actividades aos conselhos científicos dos estabelecimentos de ensino superior a que estejam ligados.
+Art. 16.º - 1 - Simultaneamente com a sua remessa ao INIC, os centros enviarão cópias dos relatórios de actividades aos conselhos científicos dos estabelecimentos de ensino superior a que estejam ligados.
 
 2 - O Instituto deverá ter em conta na elaboração dos planos e orçamentos anuais os pareceres que lhe sejam enviados, até 30 de Abril, pelos conselhos científicos referidos no número anterior.
 
 ### CAPÍTULO V — Regime financeiro dos centros de investigação
 
-###### Art. 17.º - 1 - O INIC porá à disposição dos centros as verbas que lhes forem destinadas, de acordo com os orçamentos aprovados e com os subsídios atribuídos aos projectos de investigação, as quais serão depositadas na Caixa Geral de Depósitos ou noutras instituições de crédito do Estado.
+Art. 17.º - 1 - O INIC porá à disposição dos centros as verbas que lhes forem destinadas, de acordo com os orçamentos aprovados e com os subsídios atribuídos aos projectos de investigação, as quais serão depositadas na Caixa Geral de Depósitos ou noutras instituições de crédito do Estado.
 
 2 - O INIC poderá atribuir um fundo permanente a cada centro com o objectivo de satisfazer o pagamento das despesas que devam ser feitas em dinheiro.
 
 3 - O fundo permanente de cada centro poderá ser variável e constituirá uma parcela do fundo permanente que vier a ser fixado para o INIC.
 
-###### Art. 18.º - 1 - As importâncias provenientes de serviços prestados, bem como quaisquer outras que devam considerar-se receitas próprias do INIC, quando recebidas pelos centros, serão por estes entregues, no prazo de dez dias, nos cofres do Tesouro, mediante guias de receita, a fim de serem escrituradas em «Contas de ordem», nos termos do n.º 3 do artigo 30.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
+Art. 18.º - 1 - As importâncias provenientes de serviços prestados, bem como quaisquer outras que devam considerar-se receitas próprias do INIC, quando recebidas pelos centros, serão por estes entregues, no prazo de dez dias, nos cofres do Tesouro, mediante guias de receita, a fim de serem escrituradas em «Contas de ordem», nos termos do n.º 3 do artigo 30.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
 
 2 - No prazo de três dias após o cumprimento do disposto no número anterior, os centros enviarão à Direcção de Serviços Administrativos e Financeiros do INIC 2 exemplares das guias de receita, destinado um à competente delegação da Direcção-Geral da Contabilidade Pública e outro à Divisão de Património e Finanças.
 
 3 - As quantias inscritas em «Contas de ordem» provenientes de actividades de prestação de serviços desenvolvidas pelos centros de investigação deverão ser utilizadas em favor dos centros responsáveis pela sua obtenção, sem prejuízo do disposto na alínea c) do artigo 28.º do presente diploma.
 
-###### Art. 19.º - 1 - O presidente do INIC poderá delegar nas comissões directivas dos centros de investigação competência para a realização de despesas, nos termos do n.º 8 do artigo 4.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
+Art. 19.º - 1 - O presidente do INIC poderá delegar nas comissões directivas dos centros de investigação competência para a realização de despesas, nos termos do n.º 8 do artigo 4.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
 
 2 - Sem prejuízo do disposto no n.º 2 do artigo 17.º do presente diploma, todos os pagamentos a que houver lugar serão feitos por meio de cheques, contra a entrega dos respectivos recibos.
 
@@ -269,13 +285,13 @@ j) A lista das revistas cuja assinatura o centro propõe seja renovada e firmada
 
 4 - As aquisições de material e equipamento, bem como, de um modo geral, a realização de quaisquer despesas, devem processar-se com respeito pela legislação aplicável.
 
-###### Art. 20.º - 1 - Os centros de investigação deverão organizar e manter em dia a sua contabilidade, de modo a permitir, a todo o momento, a sua verificação.
+Art. 20.º - 1 - Os centros de investigação deverão organizar e manter em dia a sua contabilidade, de modo a permitir, a todo o momento, a sua verificação.
 
 2 - Até 31 de Março de cada ano, os centros de investigação remeterão ao INIC a conta de gerência relativa ao ano económico anterior, instruída com os documentos comprovativos das despesas realizadas.
 
 ### CAPÍTULO VI — Projectos de investigação
 
-###### Art. 21.º - 1 - Os projectos de investigação aprovados pelo INIC, quer desenvolvidos nos centros, quer autónomos e independentes destes, serão financiados através da concessão de subsídios.
+Art. 21.º - 1 - Os projectos de investigação aprovados pelo INIC, quer desenvolvidos nos centros, quer autónomos e independentes destes, serão financiados através da concessão de subsídios.
 
 2 - O financiamento de projectos de investigação autónomos e independentes dos centros só poderá efectuar-se nos casos em que, cumulativamente, se verifiquem as seguintes condições:
 
@@ -291,7 +307,7 @@ c) Sobre ele recaia despacho de homologação do Ministro da Educação e Ciênc
 
 ### CAPÍTULO VII — Outros organismos dependentes
 
-###### Art. 22.º - 1 - O INIC poderá propor superiormente a criação de organismos que resultem do agrupamento de centros de investigação geograficamente próximos e de âmbitos científicos afins.
+Art. 22.º - 1 - O INIC poderá propor superiormente a criação de organismos que resultem do agrupamento de centros de investigação geograficamente próximos e de âmbitos científicos afins.
 
 2 - Os organismos a que se refere o número anterior terão a designação de institutos e destinar-se-ão a permitir uma gestão integrada dos recursos dos vários centros neles integrados.
 
@@ -301,7 +317,7 @@ c) Sobre ele recaia despacho de homologação do Ministro da Educação e Ciênc
 
 5 - Aos institutos aplicam-se, com as necessárias adaptações, as disposições constantes do presente diploma relativas aos centros de investigação.
 
-###### Art. 23.º - 1 - O INIC poderá propor a criação de serviços de apoio à investigação e desenvolvimento (SAID).
+Art. 23.º - 1 - O INIC poderá propor a criação de serviços de apoio à investigação e desenvolvimento (SAID).
 
 2 - Os SAID terão por fim prestar apoio a um mínimo de 5 centros de investigação de determinada área geográfica, nomeadamente nos domínios laboratorial, oficinal e de documentação científica.
 
@@ -319,7 +335,7 @@ c) Sobre ele recaia despacho de homologação do Ministro da Educação e Ciênc
 
 ### CAPÍTULO VIII — Celebração de convénios
 
-###### Art. 24.º - 1 - O INIC poderá celebrar convénios com as universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras, tendo em vista a prossecução dos seus fins e objectivos.
+Art. 24.º - 1 - O INIC poderá celebrar convénios com as universidades e outras entidades públicas ou privadas, nacionais ou estrangeiras, tendo em vista a prossecução dos seus fins e objectivos.
 
 2 - A participação de centros de investigação na execução dos convénios, acordos e outros instrumentos de cooperação científica, celebrados pelo INIC, far-se-á nos termos acordados ou a acordar com os respectivos órgãos responsáveis.
 
@@ -339,11 +355,11 @@ d) A duração.
 
 ### CAPÍTULO IX — Prestação de serviços
 
-###### Art. 25 - 1 - Os centros do INIC poderão, nos termos do disposto na alínea e) do artigo 2.º do presente diploma, desenvolver actividades de prestação de serviços especializados à comunidade.
+Art. 25 - 1 - Os centros do INIC poderão, nos termos do disposto na alínea e) do artigo 2.º do presente diploma, desenvolver actividades de prestação de serviços especializados à comunidade.
 
 2 - As actividades de prestação de serviços não deverão afectar a investigação fundamental e aplicada programada para os centros.
 
-###### Art. 26.º - 1 - A prestação de serviços pelos centros do INIC deverá ser titulada por contrato escrito.
+Art. 26.º - 1 - A prestação de serviços pelos centros do INIC deverá ser titulada por contrato escrito.
 
 2 - Os contratos de prestação de serviços deverão conter a identificação dos contraentes, do centro prestador do serviço e do objecto do contrato, bem como o prazo e forma de execução, cumprimento e preço ou contrapartida.
 
@@ -351,7 +367,7 @@ d) A duração.
 
 4 - Poderão os centros prestar serviços eventuais sem necessidade de titulação por contrato, quando a natureza e duração de tais serviços o justifique e desde que para tal obtenham concordância da comissão executiva do INIC.
 
-###### Art. 27.º - 1 - Os pedidos ou propostas apresentados a um centro por qualquer entidade interessada na celebração de um contrato de prestação de serviços serão objecto de apreciação pelo respectivo conselho científico.
+Art. 27.º - 1 - Os pedidos ou propostas apresentados a um centro por qualquer entidade interessada na celebração de um contrato de prestação de serviços serão objecto de apreciação pelo respectivo conselho científico.
 
 2 - Nos casos em que a apreciação seja favorável elaborar-se-á a minuta do contrato.
 
@@ -359,7 +375,7 @@ d) A duração.
 
 4 - Obtida a aprovação a que se refere o número anterior, os contratos serão outorgados pelo presidente do INIC, por delegação do Ministro da Educação e Ciência, podendo aquele, por sua vez, subdelegar no presidente da comissão directiva do centro interessado.
 
-###### Art. 28.º Na determinação dos preços dos serviços prestados deverá atender-se:
+Art. 28.º Na determinação dos preços dos serviços prestados deverá atender-se:
 
 a) Às despesas com a utilização de equipamentos e aos gastos com material;
 
@@ -369,26 +385,26 @@ c) À percentagem de 10% a incidir sobre o somatório das importâncias correspo
 
 ### CAPÍTULO X — Pessoal
 
-###### Art. 29.º - 1 - O pessoal dos organismos dependentes do INIC integra-se no quadro a que se refere o n.º 1 do artigo 36.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
+Art. 29.º - 1 - O pessoal dos organismos dependentes do INIC integra-se no quadro a que se refere o n.º 1 do artigo 36.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro.
 
 2 - A distribuição do pessoal pelos organismos dependentes far-se-á nos termos fixados no artigo 43.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro, devendo evitar-se ou atenuar-se assimetrias injustificadas.
 
 3 - Sempre que se justifique, poderá o INIC distribuir aos centros de investigação pessoal de categoria e formação adequadas à execução de trabalhos administrativos e de secretariado.
 
-###### Art. 30.º Além do pessoal do quadro referido no artigo anterior, poderão desenvolver actividades nos centros de investigação bolseiros do INIC, pessoal contratado, requisitado ou destacado ao abrigo do disposto nos artigos 37.º, 38.º, 39.º, 40.º e 41.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro, bem como pessoal docente e não docente das universidades a que aqueles organismos estejam ligados.
+Art. 30.º Além do pessoal do quadro referido no artigo anterior, poderão desenvolver actividades nos centros de investigação bolseiros do INIC, pessoal contratado, requisitado ou destacado ao abrigo do disposto nos artigos 37.º, 38.º, 39.º, 40.º e 41.º do [Decreto-Lei n.º 414/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1980-461662), de 27 de Setembro, bem como pessoal docente e não docente das universidades a que aqueles organismos estejam ligados.
 
 ### CAPÍTULO XI — Disposições gerais e transitórias
 
-###### Art. 31.º Poderão ser fixadas pelo INIC disposições excepcionais e transitórias, a fim de permitir o cumprimento das normas do presente diploma cuja aplicação se mostre impossível por força da data da sua entrada em vigor.
+Art. 31.º Poderão ser fixadas pelo INIC disposições excepcionais e transitórias, a fim de permitir o cumprimento das normas do presente diploma cuja aplicação se mostre impossível por força da data da sua entrada em vigor.
 
-###### Art. 32.º As dúvidas que ocorram na interpretação ou aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano, da Educação e Ciência e do Ministro da Reforma Administrativa, de acordo com as respectivas competências.
+Art. 32.º As dúvidas que ocorram na interpretação ou aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano, da Educação e Ciência e do Ministro da Reforma Administrativa, de acordo com as respectivas competências.
 
-###### Art. 33.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 33.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - José Cândido Sousa Carrusca Robin de Andrade.
 
-**Promulgado em 25 de Setembro de 1981.**
+Promulgado em 25 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

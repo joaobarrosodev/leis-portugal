@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/258-1982-599935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:12:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ba0b25d1e43db21677bd75fe11e9842d95d4d098c1afdad75fb014890bc60f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d86703f9e1a8a881ba9f0db7209a19de24929cd0101f0a0a14f86d4198347e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:12:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:619946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS GRUPOS 2, 4 E 6 DO QUADRO DE PESSOAL PELA PORT 444/83 DE 19-ABR DR.IS [90]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-04-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS GRUPOS 3 E 6 DO QUADRO DE PESSOAL PELO DESP 1/MDN/85 DR.IIS [34] DE 08/FEV/1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-02-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O NUMERO DE EFECTIVOS DO GRUPO 3 DO QUADRO DE PESSOAL PELO DESP 103/MDN/85 DO MDN DE 28-OUT DR.IIS [248]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1985-10-28'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORT 38/87 DE 17-JAN DR.IS [14]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-01-17'
+- type: amended_by
+  target: pt:dre:663483:por
+  label: "Alterado o presente diploma, pela PORT.38/87.17.01.1987.MDN, DR.IS [14] de 17.01.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-1987-663483
+  date: '1987-01-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS GRUPOS 3 E 4 DO QUADRO DE PESSOAL PELA PORT 30/88 DE 15-JAN DR.IS [12]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-01-15'
+- type: amended_by
+  target: pt:dre:372176:por
+  label: "Alterado o número de efectivos fixados para o Grupo 3 do QPMM, pela PORT.369/88.1988.06.06.MDN DR.IS [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-1988-372176
+  date: '1988-06-06'
+- type: amended_by
+  target: pt:dre:619946:por
+  label: "Alterado o número de efectivos fixados para o grupo 4 do QPMM pela PORT.548/89.1989.07.17.MDN DR.IS [162]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1989-619946
+  date: '1989-07-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O GRUPO 3 DO QUADRO DE PESSOAL PELA PORT 1138/90 DE 17-NOV DR.IS [266]\0.IS [266]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-11-17'
+- type: cites
+  target: pt:dre:138283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502192:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:12:10Z'
   warnings: []
   errors: []
 ---

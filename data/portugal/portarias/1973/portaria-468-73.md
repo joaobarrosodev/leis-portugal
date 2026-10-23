@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-1973-421258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:07:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1085a109a3e84cf82793ab0609c3fd5de19e86ae1ba6796ae44b925848442172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f19abc287bee61b385c36c2d758788eadc0027a9fe1c3230d67bc47f05030078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:07:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688581:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:413836:por
+  label: Rectificada a alínea b) do n.º 16.º do Regulamento pela DECL.DD9279.29.08.1973.PC, DG.IS [202] de 29.08.1973
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1973-413836
+  date: '1973-08-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:07:29Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +105,7 @@ Nestes termos, ao abrigo do disposto no artigo 49.º do [Decreto-Lei n.º 414/71
 
 Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência:
 
-###### Artigo único. É aprovado o Regulamento dos Concursos da Carreira de Enfermagem Hospitalar, que faz parte desta portaria.
+Artigo único. É aprovado o Regulamento dos Concursos da Carreira de Enfermagem Hospitalar, que faz parte desta portaria.
 
 Ministério da Saúde e Assistência, 14 de Junho de 1973. - Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.
 
@@ -352,4 +365,4 @@ e) Não ter sofrido qualquer sanção disciplinar nos últimos dois anos.
 
 51.º Dos avisos de abertura constará sempre a minuta do requerimento a apresentar pelo candidato.
 
-**O Secretário de Estado da Saúde e Assistência, Alfredo Jorge Assis dos Santos.**
+O Secretário de Estado da Saúde e Assistência, Alfredo Jorge Assis dos Santos.

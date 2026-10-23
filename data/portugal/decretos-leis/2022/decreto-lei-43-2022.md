@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/12600/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2022/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2022-185504367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ded24f3409d7ab0a1c59bf6ac0ac138063c7b29108d16dd946bd480fad2141f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 344a5c1153ec3ce15b9e179342e17c22b75ddb6f28952f62dd7d82eaa29e804c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Geral
+- Banco Português de Fomento
 - Definição de Competências
 - Estatuto
-- Sistema Retributivo
-- Recrutamento de Pessoal
 - Gestor Público
+- Instituição Financeira
 - Órgãos Sociais
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
-- Instituição Financeira
+- Sistema Retributivo
 - Sociedade de Investimento
 - Sociedade Financeira Portuguesa
-- Banco Português de Fomento
 relationships:
 - type: amended_by
   target: pt:dre:900021773:por
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: pt:dre:142124830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:16Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +147,9 @@ Os artigos 7.º e 8.º do [Decreto-Lei n.º 63/2020](https://diariodarepublica.p
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As remunerações dos membros do órgão de administração do BPF são fixadas pela respetiva assembleia geral, nos termos previstos no RGICSF, tendo em conta, designadamente, a natureza e finalidade do BPF.
 
@@ -169,12 +179,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de junho de 2022. - António Luís Santos da Costa - João Titterington Gomes Cravinho - Fernando Medina Maciel Almeida Correia - António José da Costa Silva.
 
-**Promulgado em 27 de junho de 2022.**
+Promulgado em 27 de junho de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de junho de 2022.**
+Referendado em 28 de junho de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115465025

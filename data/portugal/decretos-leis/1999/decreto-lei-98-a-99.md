@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 72/1999, 1º Suplemento, Série I-A de 1999-03-26
   number: '72'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1736-(2) a 1736-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/072a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98-a/1999/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-1999-270978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b9cac799d7c3fdc02ba8b8a8d351ed2b569c1f4304436898caabafae9aa5aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6fd707315808ff196a5d572b3d6047030bb471ae2f4d50f24c4c1819fbc03f7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,48 @@ subjects:
 - Acção Financeira
 - Assembleia Geral
 - AVAL do Estado
-- Sociedade Anónima
 - Capital Social
-- Manifestação Cultural
 - Comissariado de Portugal para a Exposição Universal de Hannover
-- EXPO 2000 Hannover
-- Direcção Geral do Tesouro
 - Conselho de Administração
-- Portugal
 - Definição de Competências
+- Direcção Geral do Tesouro
 - Estatuto
+- EXPO 2000 Hannover
+- Manifestação Cultural
 - Obrigações
 - Personalidade Jurídica
+- Portugal
+- Sociedade Anónima
 - Sociedade Portugal 2000
 relationships:
 - type: amended_by
   target: pt:dre:335967:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335967:por
+  label: "Alterada a denominação da sociedade anónima constituída pelo presente diploma pelo DEC LEI.183-A/99.1999.05.25.MCTE,DR.IS-A\
+    \ [121]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-a-1999-335967
+  date: '1999-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/112/1997/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/112/1997/09/16/p/dre
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:24Z'
   warnings: []
   errors: []
 ---
@@ -196,15 +206,15 @@ Sempre que a sociedade assegure, nos termos do n.º 2 do artigo 2.º, trabalhos 
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - José Mariano Rebelo Pires Gago - António Luís Santos da Costa.
 
-**Promulgado em 24 de Março de 1999.**
+Promulgado em 24 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Março de 1999.**
+Referendado em 26 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTOS DA SOCIEDADE PORTUGAL 2000, S. A.
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 192/1974, 1º Suplemento, Série I de 1974-08-19
   number: '192'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 910-(9) a 910-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19201/00090009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/509-1974-184207
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e95140c0494a982403c6b7e3ecf6ee9cf4c3fb2a973d1b1c8c055d67d9d65e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f80b50d37a39fc9724ffb5cbe52a848542e1eeeeeefd9a54ac0afd4f3519bd17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,38 @@ relationships:
   target: pt:dre:315532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472746:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509025:por
+  label: "Revogada pelo DEC LEI.75-P/77.28.02.1977.MAP, DR.IS [49-Supl] de 28.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-p-1977-509025
+  date: '1977-02-28'
+- type: repealed_by
+  target: pt:dre:315532:por
+  label: Revogada pelo(a) Despacho Normativo n.º 50-E/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/50-e-1977-315532
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:04Z'
   warnings: []
   errors: []
 ---

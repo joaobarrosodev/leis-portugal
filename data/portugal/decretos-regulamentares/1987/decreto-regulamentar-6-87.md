@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1987-663516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbd2d1222df555555816ee9ce05a4f88042f9e8bf303a0a83c2513d6f12aa0e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8b358dc0b4c9a37b215d6f98ad01668718ba98195e0cd04bb1420777c86526f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colocação de Professores
+- Ensino Preparatório
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:180611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:24Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +104,9 @@ Considerando que a experiência colhida pelos serviços regionais da Direcção-
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Os n.os 1 e 3 do artigo 3.º, o artigo 13.º, o artigo 17.º, o artigo 19.º, o artigo 20.º, o n.º 1 do artigo 22.º e o artigo 24.º do [Decreto Regulamentar n.º 51/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1985-180611), de 7 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os n.os 1 e 3 do artigo 3.º, o artigo 13.º, o artigo 17.º, o artigo 19.º, o artigo 20.º, o n.º 1 do artigo 22.º e o artigo 24.º do [Decreto Regulamentar n.º 51/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1985-180611), de 7 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - Quando numa escola, após a apresentação dos docentes colocados na 1.ª fase do concurso de professores provisórios, se verificar num determinado ano escolar que não existe serviço docente para um ou mais professores colocados num determinado grupo, subgrupo, disciplina ou especialidade, poderão os docentes colocados nesse grupo, subgrupo, disciplina ou especialidade candidatar-se a ser deslocados para outro estabelecimento de ensino durante esse ano escolar para preenchimento de um horário de dez ou mais horas semanais de serviço lectivo desse grupo, subgrupo, disciplina ou especialidade.
+Art. 3.º - 1 - Quando numa escola, após a apresentação dos docentes colocados na 1.ª fase do concurso de professores provisórios, se verificar num determinado ano escolar que não existe serviço docente para um ou mais professores colocados num determinado grupo, subgrupo, disciplina ou especialidade, poderão os docentes colocados nesse grupo, subgrupo, disciplina ou especialidade candidatar-se a ser deslocados para outro estabelecimento de ensino durante esse ano escolar para preenchimento de um horário de dez ou mais horas semanais de serviço lectivo desse grupo, subgrupo, disciplina ou especialidade.
 
 2 - ...
 
@@ -109,7 +124,7 @@ III
 
 Do preenchimento de horários ainda existentes no segundo dia útil após a data de apresentação dos professores provisórios colocados na 1.ª fase
 
-###### Art. 13.º Os horários completos ou incompletos ainda existentes no segundo dia útil após a data de apresentação dos professores provisórios colocados na 1.ª fase do concurso e feitas as deslocações referidas no artigo anterior serão atribuídos a candidatos ainda não colocados de acordo com as seguintes prioridades:
+Art. 13.º Os horários completos ou incompletos ainda existentes no segundo dia útil após a data de apresentação dos professores provisórios colocados na 1.ª fase do concurso e feitas as deslocações referidas no artigo anterior serão atribuídos a candidatos ainda não colocados de acordo com as seguintes prioridades:
 
 a) Professores profissionalizados não efectitivos que desejem ser colocados num grupo, subgrupo, disciplina ou especialidade a que corresponde a sua habilitação profissional;
 
@@ -125,7 +140,7 @@ f) Candidatos que tenham concorrido à 1.ª fase, não na situação de vinculad
 
 g) Outros candidatos portadores de habilitação suficiente que desejem ser colocados em grupo, subgrupo, disciplina ou especialidade para que possuam aquela habilitação.
 
-###### Art. 17.º - 1 - Dentro de cada uma das prioridades referidas no artigo 13.º deste diploma a ordenação dos candidatos efectuar-se-á de acordo com o estabelecido no capítulo IV do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
+Art. 17.º - 1 - Dentro de cada uma das prioridades referidas no artigo 13.º deste diploma a ordenação dos candidatos efectuar-se-á de acordo com o estabelecido no capítulo IV do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
 2 - Para efeitos de colocação será respeitada a ordem segundo a qual os candidatos indicaram os horários no boletim de concurso.
 
@@ -135,9 +150,9 @@ g) Outros candidatos portadores de habilitação suficiente que desejem ser colo
 
 5 - Quando os dois grupos, subgrupos, disciplinas ou especialidades a que se candidatam corresponderem à mesma prioridade do artigo 13.º deste diploma, os horários poderão ser indicados por qualquer ordem, dependendo apenas da preferência do candidato.
 
-###### Art. 19.º Nos dois dias subsequentes à data referida no artigo 13.º deste diploma os delegados regionais da DGP farão a codificação dos horários requisitados, procedendo de imediato à sua afixação, bem como à publicação das listas de graduação dos candidatos não colocados na 1.ª fase.
+Art. 19.º Nos dois dias subsequentes à data referida no artigo 13.º deste diploma os delegados regionais da DGP farão a codificação dos horários requisitados, procedendo de imediato à sua afixação, bem como à publicação das listas de graduação dos candidatos não colocados na 1.ª fase.
 
-###### Art. 20.º - 1 - Os delegados regionais da DGP afixarão, no mais curto período de tempo possível, as listas de graduação dos candidatos referidos nas alíneas a), b), c) e d) do artigo 13.º deste diploma, às quais anexarão as seguintes informações:
+Art. 20.º - 1 - Os delegados regionais da DGP afixarão, no mais curto período de tempo possível, as listas de graduação dos candidatos referidos nas alíneas a), b), c) e d) do artigo 13.º deste diploma, às quais anexarão as seguintes informações:
 
 a) Prazo de interposição de reclamações ou de apresentação de desistências do concurso;
 
@@ -145,20 +160,20 @@ b) Data provável de afixação das listas de colocações dos candidatos referi
 
 2 - As listas de graduação dos candidatos referidos nas alíneas e), f) e g) do artigo 13.º deste diploma irão sendo afixadas à medida das necessidades de cada distrito, às quais os delegados regionais da DGP anexarão as informações correspondentes às referidas nas alíneas a) e b) do número anterior.
 
-###### Art. 22.º - 1 - A apresentação nos estabelecimentos de ensino far-se-á no prazo de quatro dias, contado a partir do dia de afixação da lista de colocação para os candidatos colocados em horários referidos no artigo 13.º deste diploma.
+Art. 22.º - 1 - A apresentação nos estabelecimentos de ensino far-se-á no prazo de quatro dias, contado a partir do dia de afixação da lista de colocação para os candidatos colocados em horários referidos no artigo 13.º deste diploma.
 
 2 - ...
 
-###### Art. 24.º As delegações da DGP enviarão às escolas as relações dos professores nelas colocados, acompanhadas das respectivas fichas e demais documentos.
+Art. 24.º As delegações da DGP enviarão às escolas as relações dos professores nelas colocados, acompanhadas das respectivas fichas e demais documentos.
 
 Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 18 de Dezembro de 1986.**
+Promulgado em 18 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 24 de Dezembro de 1986.**
+Referendado em 24 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

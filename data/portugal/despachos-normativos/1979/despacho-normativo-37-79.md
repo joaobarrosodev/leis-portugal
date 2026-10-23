@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 37/1979, 2º Suplemento, Série I de 1979-02-13
   number: '37'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 228-(3) a 228-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03702/00030004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1979-165030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8101a327042e34b8642d1b923192112ef0d63f6ce0279f052a51a2b8a7759ab6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a157b0d6933f286fa94f7b43c0d49b2d29ed21ada4fc13c5973a990d9f5b886
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Directiva
+- Greve
+- Requisição Civil
+- TLP
 relationships:
 - type: amended_by
   target: pt:dre:593075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:593075:por
+  label: "Dissolvida a comissão directiva, pela PORT.98-A/79.1979.02.26.MT DR.IS [48]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-a-1979-593075
+  date: '1979-02-26'
+- type: cites
+  target: pt:dre:165031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466053:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:36Z'
   warnings: []
   errors: []
 ---

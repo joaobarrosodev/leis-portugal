@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2013/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2013-503035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47f5eee556589a15a41e83db4817ef103a7e0338f9ea2dc5ee4e71dfcfd3777a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa597cacb83909894f53780a8868ff0727b58a8c3bd59faaf60aed680e9e7457
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Banco de Portugal
 - Conselho de Administração
-- Supervisão Financeira
 - Conselho Nacional de Supervisores Financeiros
 - Definição de Competências
-- Banco de Portugal
 - Instituto de Seguros de Portugal
 - Mercado Financeiro
 - Orgânica
+- Supervisão Financeira
 relationships:
 - type: amended_by
   target: pt:dre:70139954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70139954:por
+  label: Alterados os arts. 2.º e 4.º do Dec Lei 228/2000, de 23-set, na redação do presente diploma pelo(a) Lei n.º 118/2015
+    - Diário da República n.º 169/2015, Série I de 2015-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/118-2015-70139954
+  date: '2015-08-31'
 - type: cites
   target: celex:32010R1092
   label: null
@@ -88,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/228/2000/09/23/p/dre
 article_structure:
-  article_count: 23
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:02Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +191,9 @@ b) Analisar propostas concretas de política macroprudencial, com o objetivo, no
 
 8 - O Conselho elabora um relatório anual de atividades, que é enviado ao membro do Governo responsável pela área das finanças e publicado até ao dia 31 de março de cada ano.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos do disposto no presente decreto-lei, são considerados:
 
@@ -201,7 +209,9 @@ b) Entidades e atividades financeiras, as entidades e atividades sujeitas à reg
 
 c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, entidades sujeitas a supervisão do Banco de Portugal e do Instituto de Seguros de Portugal.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -217,7 +227,9 @@ c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, 
 
 7 - Podem ser convidados a participar nos trabalhos do Conselho outras entidades públicas ou privadas, designadamente representantes do Fundo de Garantia de Depósitos, do Fundo de Garantia do Crédito Agrícola Mútuo, do Sistema de Indemnização aos Investidores, do Fundo de Resolução, das entidades gestoras de mercados regulamentados, das contrapartes centrais e das entidades gestoras de sistemas de liquidação, de associações representativas de quaisquer categorias de instituições sujeitas a supervisão, bem como individualidades pertencentes ao universo académico ou outros peritos nas matérias objeto da atividade do Conselho.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As deliberações do Conselho são objeto de uma súmula, que deve ser apresentada, para informação, em sessão do órgão de administração de cada uma das autoridades de supervisão do sistema financeiro representadas.
 
@@ -227,7 +239,9 @@ c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, 
 
 4 - As reuniões do Conselho podem realizar-se através do recurso a meios telemáticos, desde que com o consentimento prévio de todos os seus membros.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O membro do Governo responsável pela área das finanças e o governador do Banco de Portugal, este em representação do Banco enquanto autoridade responsável pela estabilidade do sistema financeiro nacional, podem solicitar pareceres ao Conselho ou enviar-lhe comunicações sobre quaisquer assuntos do seu âmbito de atribuições.
 
@@ -237,7 +251,9 @@ c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, 
 
 4 - Os representantes das autoridades de supervisão do sistema financeiro podem tomar a iniciativa de submeter ao Conselho quaisquer assuntos da sua competência que sejam suscetíveis de afetar a estabilidade do sistema financeiro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As sessões têm uma periodicidade mínima trimestral, devendo realizar-se em separado, de acordo com uma ordem de trabalhos específica, as sessões que tenham como objeto o exercício das suas atribuições previstas nos n.os 2 e 3 do artigo 2.º
 
@@ -245,13 +261,17 @@ c) Conglomerados financeiros, grupos de empresas que abranjam, simultaneamente, 
 
 3 - [Anterior n.º 2].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - O Banco de Portugal assegura o secretariado indispensável ao bom funcionamento do Conselho.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Os membros do Conselho e os observadores referidos no n.º 2 do artigo 4.º, bem como todas as outras pessoas que com eles colaborem, ficam sujeitos ao dever de segredo, relativamente a todas as matérias de que tomem conhecimento no exercício das funções previstas no presente decreto-lei, nos termos previstos na lei que lhes seja aplicável.»
 
@@ -269,13 +289,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 15 de outubro de 2013.**
+Promulgado em 15 de outubro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de outubro de 2013.**
+Referendado em 17 de outubro de 2013.
 
 Pelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.
 

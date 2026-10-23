@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 171/2019, 1º Suplemento, Série I de 2019-09-06
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 99-(2) a 99-(4020)
   pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17101/0000204020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/136-a/2019/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-a-2019-124532100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d35b8357afe3509c5275d3b297cc42b00647db7d0aa4519fa2c89a431c0dc46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acad05d928b5dc144ba9570b5b466021b47a0921c3140c385ae23e25a1799807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Multa
-- Transporte Aéreo
+- Autarquia Local
+- Autoridade Nacional da Aviação Civil
+- Comissão CE
 - Contra-ordenação
-- Transporte Rodoviário
-- Transporte Ferroviário
+- Controlo de Avaliação
+- Controlo Metrológico
 - Definição de Competências
 - Fiscalização
-- Comissão CE
-- Instituto da Mobilidade e dos Transportes Terrestres
-- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
-- Regulamento Geral sobre o Ruido
-- Madeira.região Autónoma
-- Controlo Metrológico
-- Poluição Sonora
-- Controlo de Avaliação
-- Açores
-- TAXA de Prestação de Serviços
-- Autarquia Local
 - Infraestruturas de Portugal
-- Autoridade Nacional da Aviação Civil
-- Agência Portuguesa do Ambiente
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Madeira.região Autónoma
+- Multa
+- Poluição Sonora
+- Regulamento Geral sobre o Ruido
+- TAXA de Prestação de Serviços
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:204552601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 12.º do Dec Lei 146/2006 de 31-jul, na versão republicada pelo presente
+    diploma, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do art. 241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:32000L0014
   label: null
@@ -145,6 +151,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
+- type: cites
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0049
   label: null
@@ -154,15 +212,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 15
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:13Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +259,9 @@ Os artigos 6.º e 9.º a 12.º do [Decreto-Lei n.º 146/2006](https://diariodare
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -219,7 +279,9 @@ Os artigos 6.º e 9.º a 12.º do [Decreto-Lei n.º 146/2006](https://diariodare
 
 8 - Sempre que um município ou uma infraestrutura de transporte rodoviário, ferroviário ou aéreo se constitua, respetivamente, aglomeração ou grande infraestrutura de transporte rodoviário ou ferroviário ou aéreo, de acordo com as definições constantes do artigo 3.º, deve elaborar e entregar à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), no prazo de 18 meses, os respetivos mapas estratégicos de ruído.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -239,7 +301,9 @@ Os artigos 6.º e 9.º a 12.º do [Decreto-Lei n.º 146/2006](https://diariodare
 
 9 - Sempre que um município ou uma infraestrutura de transporte rodoviário, ferroviário ou aéreo se constitua, respetivamente, aglomeração ou grande infraestrutura de transporte rodoviário, ferroviário ou aéreo, de acordo com as definições constantes do artigo 3.º, deve elaborar e entregar à APA, I. P., no prazo de 18 meses, após aprovação dos mapas estratégicos de ruído, os respetivos planos de ação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os mapas estratégicos de ruído e os planos de ação são reavaliados e, se necessário, alterados, pelo menos de cinco em cinco anos a contar das datas referidas nos n.os 2, 4 e 5 do artigo 9.º e nos n.os 2, 5 e 6 do artigo 10.º ou, nos casos previstos no n.º 8 do artigo 9.º e no n.º 9 do artigo 10.º, a contar da data da sua aprovação.
 
@@ -249,7 +313,9 @@ Os artigos 6.º e 9.º a 12.º do [Decreto-Lei n.º 146/2006](https://diariodare
 
 4 - Caso não receba, no prazo previsto no n.º 1, a reavaliação e, se aplicável, a alteração dos mapas estratégicos de ruído e dos planos de ação, a APA, I. P., notifica as entidades referidas no n.º 1 do artigo 4.º para procederem à respetiva submissão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -287,11 +353,15 @@ b) Em caso de não conformidade, solicita por uma única vez, o aperfeiçoamento
 
 5 - As comunicações previstas nos números anteriores devem, preferencialmente, ser efetuadas por via eletrónica.
 
-###### Artigo 15.º-A — Fiscalização
+Artigo 15.º-A
+
+Fiscalização
 
 A fiscalização do cumprimento disposto no presente decreto-lei compete à APA, I. P.
 
-###### Artigo 15.º-B — Contraordenações ambientais
+Artigo 15.º-B
+
+Contraordenações ambientais
 
 1 - Constitui contraordenação ambiental grave, punível nos termos da lei quadro das contraordenações ambientais (LQCA), aprovada pela [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), na sua redação atual, a prática dos seguintes atos:
 
@@ -309,13 +379,17 @@ b) O incumprimento das obrigações de reavaliação ou alteração dos mapas es
 
 4 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da LQCA, a condenação pela prática das infrações graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
 
-###### Artigo 15.º-C — Sanções acessórias e apreensão cautelar
+Artigo 15.º-C
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infração o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na LQCA.
 
 2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da LQCA.
 
-###### Artigo 15.º-D — Competência instrutória e sancionatória
+Artigo 15.º-D
+
+Competência instrutória e sancionatória
 
 Compete à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento Território a instrução dos processos de contraordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.»
 
@@ -339,14 +413,16 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de junho de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Pedro Nuno de Oliveira Santos - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 26 de julho de 2019.**
+Promulgado em 26 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2019.**
+Referendado em 30 de julho de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/17101/0000204020.pdf))](https://files.diariodarepublica.pt/1s/2019/09/17101/0000204020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/17101/0000204020.pdf)
+
+112541321

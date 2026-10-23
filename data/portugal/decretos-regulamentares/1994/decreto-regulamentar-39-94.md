@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/202b00/51355146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/39/1994/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1994-654536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a1117379997f5d5e3c5f6595d5e60167aa3695dd4adcd214f3a65b09e14b032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 604d9e5e79c8478ef1bb02cdd9d82ebcab395d2eb92e07f1493627a3feb301d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,11 +71,11 @@ subjects:
 - Comando de ZONA Marítima
 - Comando Naval
 - Definição de Competências
-- Marinha
 - Esposende
+- Madeira.região Autónoma
+- Marinha
 - Orgânica
 - Peniche
-- Madeira.região Autónoma
 - Portos
 - Transferência de Competências
 - Transferência Patrimonial
@@ -94,16 +94,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:233315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692591:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355906:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 240/94, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL, DE 941130.\0\
+    \ 941130."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/240-1994-355906
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:69920322:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 10/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2015-69920322
+  date: '2015-07-31'
 article_structure:
   article_count: 63
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:00Z'
   warnings: []
   errors: []
 ---
@@ -1188,12 +1268,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

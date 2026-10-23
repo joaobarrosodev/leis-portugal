@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09600/0319103202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2009/05/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2009-608886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f269175604292ea75f7ff6c99d70a44894688ae48349f7eb17f8c8ae1a140467
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4df64d1865cd68cf3b3deec9c74dc38f54714698c8932dca2e4e4763fcfe60b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- ASAE
+- Câmara Municipal
 - Contra-ordenação
 - Equipamento Social
 - Fiscalização
-- ASAE
+- Multa
 - Normas de Segurança
 - Parque de Diversões
 - Proteção à Infância
-- Câmara Municipal
 - Regulamento
 - Segurança das Instalações
 - Seguro Obrigatório de Responsabilidade Civil
@@ -104,16 +104,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/57/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/57/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580670:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70300350:por
+  label: Revogado a partir de 15.01.2016 o Dec Lei 379/97, de 27-dez, na redação do presente diploma pelo(a) Decreto-Lei n.º
+    203/2015 - Diário da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2015-70300350
+  date: '2015-09-17'
 article_structure:
-  article_count: 71
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 54
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:06Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +204,9 @@ g) Trampolim - equipamento, também designado cama elástica, destinado à prát
 
 h) Parque de skate - espaço e respectivas estruturas, também designado por pista de skate, destinado a ser utilizado por praticantes que deslizam sobre o solo ou rampas e ultrapassam obstáculos, equilibrando-se apenas numa prancha dotada de quatro rodas e dois eixos, o designado skate.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os espaços de jogo e recreio devem estar isolados do trânsito, restringindo-se o acesso directo entre esses espaços e vias de estacionamentos para veículos por meio de soluções técnicas eficientes, nomeadamente por uma vedação ou outro tipo de barreira física, devendo ser observadas as seguintes distâncias mínimas, contadas a partir do perímetro exterior do espaço até aos limites da via ou do estacionamento:
 
@@ -184,7 +220,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Os espaços de jogo e recreio devem ser protegidos, através de uma vedação ou outro tipo de barreira física, de modo a:
 
@@ -194,7 +232,9 @@ b) ...
 
 c) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 ...
 
@@ -208,7 +248,9 @@ d) [Anterior alínea c).]
 
 e) [Anterior alínea d).]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +274,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -250,13 +294,17 @@ d) ...
 
 4 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
 2 - A colocação dos baloiços e de outro equipamento semelhante deve permitir a apreensão do movimento pendular e devem ser implementadas soluções técnicas eficientes que permitam isolar estes equipamentos, a toda a sua volta, de modo a que o livre acesso aos mesmos fique condicionado.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -264,19 +312,25 @@ d) ...
 
 3 - Excluem-se do âmbito da aplicação do presente artigo os espaços de jogos e recreio com características de construção específicas, designadamente os parques de skate.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
 2 - O valor mínimo obrigatório do seguro referido no número anterior é fixado em (euro) 350 000 e é automaticamente actualizado em Janeiro de cada ano, de acordo com o índice de preços ao consumidor verificado no ano anterior e publicado pelo Instituto Nacional de Estatística.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
 2 - A Autoridade de Segurança Alimentar e Económica (ASAE) fiscaliza os espaços de jogo e recreio cuja entidade responsável seja a câmara municipal.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Sem prejuízo das acções de fiscalização realizadas na sequência de queixas ou reclamações, as câmaras municipais e a ASAE devem promover, pelo menos, uma fiscalização anual a todos os espaços de jogo e recreio localizados na área da sua circunscrição ou competência.
 
@@ -292,7 +346,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +416,9 @@ ee) [Anterior alínea bb).]
 
 5 - (Anterior n.º 7.)
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - A instrução de processos por contra-ordenação compete às câmaras municipais ou à ASAE, nos termos do artigo 32.º
 
@@ -370,7 +428,7 @@ ee) [Anterior alínea bb).]
 
 4 - Coincidindo na mesma entidade a instrução e a aplicação das coimas, a distribuição da receita é de 60 % para o Estado e de 40 % para a entidade que instrui o processo.
 
-###### Artigo 38.º
+Artigo 38.º
 
 1 - ...
 
@@ -412,7 +470,9 @@ a) A proibição de usar sapatos ou quaisquer objectos rijos, pontiagudos ou per
 
 b) A proibição de trepar ou pendurar-se nas paredes de contenção do equipamento.
 
-###### Artigo 23.º-B — Máquina de injectar o ar ou ventoinha do equipamento insuflável
+Artigo 23.º-B
+
+Máquina de injectar o ar ou ventoinha do equipamento insuflável
 
 1 - O funcionamento do equipamento insuflável é efectuado através de uma máquina de injectar o ar ou através de uma ventoinha, que deve estar, bem como os interruptores e os cabos, perfeitamente isolada e inacessível por parte dos utilizadores.
 
@@ -430,7 +490,9 @@ e) O número e data da norma técnica aplicável.
 
 3 - Considera-se que satisfazem os requisitos estabelecidos no presente artigo os equipamentos provenientes de qualquer Estado membro da União Europeia, da Turquia, ou de um Estado subscritor do acordo sobre o Espaço Económico Europeu, que cumpram as respectivas regras nacionais que lhes sejam aplicáveis, sempre que estas prevejam um nível de protecção reconhecido, equivalente ao definido no presente artigo.
 
-###### Artigo 23.º-C — Trampolins
+Artigo 23.º-C
+
+Trampolins
 
 A entidade responsável pela utilização de trampolins deve assegurar o cumprimento, designadamente, das seguintes regras de segurança:
 
@@ -442,7 +504,9 @@ c) Utilização individual do equipamento;
 
 d) Aposição de avisos que recomendem a não utilização do equipamento por crianças com idade inferior a seis anos.
 
-###### Artigo 23.º-D — Parques de skate
+Artigo 23.º-D
+
+Parques de skate
 
 A entidade responsável pela utilização de parques de skate deve assegurar o cumprimento, designadamente, das seguintes regras de segurança:
 
@@ -450,7 +514,9 @@ a) Utilização de equipamento de protecção individual como capacete, cotovele
 
 b) Aposição de avisos que recomendem a não utilização do equipamento por crianças com idade inferior a seis anos.
 
-###### Artigo 25.º-A — Obrigações da entidade responsável pelo espaço de jogo e recreio
+Artigo 25.º-A
+
+Obrigações da entidade responsável pelo espaço de jogo e recreio
 
 1 - A entidade responsável pelo espaço de jogo e recreio deve:
 
@@ -504,15 +570,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Mário Lino Soares Correia - Fernando Medina Maciel Almeida Correia - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 5 de Maio de 2009.**
+Promulgado em 5 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de Maio de 2009.**
+Referendado em 7 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO
 
@@ -906,7 +972,9 @@ A entidade responsável pelo espaço de jogo e recreio deve assegurar uma manute
 
 2 - Sempre que a superfície de impacte seja constituída por areia, aparas de madeira ou outro material semelhante, deve proceder-se à sua renovação completa pelo menos uma vez por ano.
 
-###### Artigo 30.º — Livro de manutenção
+###### Artigo 30.º
+
+## Livro de manutenção
 
 A entidade responsável pelo espaço de jogo e recreio deve possuir um livro de manutenção que contenha os seguintes elementos:
 

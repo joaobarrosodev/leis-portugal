@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/560-1975-307375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec463cdff61dc3ff7d1d9ba9d90f7478a4e09af284b21939f3326d629bd70c41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fac7a5a0e225bab38fc429471dce7bea3ece42af35a138d6963b7a19c8358bd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:2053421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462623:por
+  label: "Desanexada uma parcela de terreno do prédio rústico denominado \"Herdade de vale Grande e Vale Polvorosa\", pela\
+    \ PORT.827/80.16.10.1980.MAP, DR.IS [240] de 16.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/827-1980-462623
+  date: '1980-10-16'
+- type: amended_by
+  target: pt:dre:457870:por
+  label: "Derrogada, na parte que respeita ao prédio rústico denominado «Herdade da Torre e Rascoa» pela PORT.950/80.08.11.1980.MAP,\
+    \ DR.IS [259] de 08.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/950-1980-457870
+  date: '1980-11-08'
+- type: amended_by
+  target: pt:dre:457420:por
+  label: "Derrogada, na parte que respeita aos prédios rústicos denominados «Herdade da Rouca» e «Herdade do Cágado» pela\
+    \ PORT.957/80.10.11.1980.MAP, DR.IS [260] de 10.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/957-1980-457420
+  date: '1980-11-10'
+- type: amended_by
+  target: pt:dre:1102871:por
+  label: "Derrogado em parte pela PORT.DD382/83.1983.08.05.MFP e MAFA DR.IIS [244] de 1983.10.22I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1983-1102871
+  date: '1983-08-05'
+- type: amended_by
+  target: pt:dre:3224067:por
+  label: DERROGADA EM PARTE PELA PORT 36/93IIS DE 14-JAN DA PCM E MA DR.IIS [19] DE 23/JAN/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1993-3224067
+  date: '1993-01-23'
+- type: amended_by
+  target: pt:dre:783677:por
+  label: DERROGADA EM PARTE PELA PORT 65/93IIS DE 19-FEV DA PCM E MA DR.IIS [56] DE 08/MAR/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-1993-783677
+  date: '1993-03-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 122/93IIS DE 11-MAI DA PCM E MA DR.IIS [117] DE 20/MAI/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 152/93IIS DE 28-JUN DA PCM E MA DR.IIS [158] DE 08/JUL/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 77/94IIS DE 03-MAI DA PCM E MA DR.IIS [114] DE 17/MAI/1994
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-17'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 274/95IIS DE 29-AGO DA PCM E MA DR.IIS [212] DE 13/SET/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 330/95IIS DE 25-SET DA PCM E MA DR.IIS [232] DE 07/OUT/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-07'
+- type: amended_by
+  target: pt:dre:2053421:por
+  label: "Derrogada parte da presente portaria pela PORT.735/98(2ªSÉRIE).1998.07.23.PCM, DR.IIS [178] de 04/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/735-1998-2053421
+  date: '1998-07-23'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADA EM PARTE PELA PORT 334/92IIS DE 19-OUT DA PCM E MA DR.IIS [251] DE 30/OUT/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:46Z'
   warnings: []
   errors: []
 ---

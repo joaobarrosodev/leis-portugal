@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-1982-600765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:08:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2c51817bf54123691458ea628f72bf2696cca22007e25e06ca96e1af3f5ac05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6fd51e12f269db562edb31f89c928532dc8bcb5f1207fb725ade71d24814fd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:08:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital de Magalhães de Lemos
+- Pessoal Auxiliar
+- Pessoal Operário
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:435578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:435578:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e ao pessoal médico, o quadro de pessoal aprovado pela\
+    \ Port 657/80, de 16-Set, na redacção do presente diploma, pela PORT.807-S3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de\
+    \ 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-s3-1983-435578
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL DO HOSPITAL DE MAGALHÃES LEMOS, PELA PORT 935/94 DE 21-OUT DR.IS-B [244]\0[244]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-10-21'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:08:43Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +129,6 @@ Atento o exposto e em conformidade com as disposições legais invocadas:
 
 Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Assuntos Sociais e da Reforma Administrativa, que sejam introduzidas ao quadro de pessoal do Centro de Saúde Mental Ocidental do Porto - Hospital de Magalhães Lemos as alterações que a seguir se mencionam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/01/02500/02370238.pdf))](https://files.diariodarepublica.pt/1s/1982/01/02500/02370238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/01/02500/02370238.pdf)
 
 Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa, 4 de Janeiro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Assuntos Sociais, Luís Eduardo da Silva Barbosa. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

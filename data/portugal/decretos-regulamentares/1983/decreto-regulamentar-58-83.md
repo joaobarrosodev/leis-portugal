@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/14500/23052312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/58-1983-452505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7934e0d9777bad91536563c75c2aea0ab4bf6a638ff1168755799ecba3801e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 170dc0e497240fe15b01e9c9a60efc26c368fa2440c83b1dcd8d92251520a6dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares
+- Ministério da Agricultura Comércio e Pescas
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:334646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Extinto o Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares, criado pela al.
+    h) do nº 1 do art. 10º do Dec Lei 293/82 de 27-Jul, e cuja orgânica e atribuições constam do presente diploma, que é revogado
+    pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990, a partir da entrada em vigor da regulamentação prevista
+    no seu art. 3º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:00Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +110,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º O Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares, criado pelo artigo 10.º, n.º 1, alínea h), do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, abreviadamente designado por IAPA, é um instituto público com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio, que tem atribuições de apoio à política económica e tecnológica relacionada com a transformação e comercialização de produtos agrários e alimentares e de fomento das respectivas exportações.
+Artigo 1.º O Instituto de Apoio à Transformação e Comercialização dos Produtos Agrários e Alimentares, criado pelo artigo 10.º, n.º 1, alínea h), do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, abreviadamente designado por IAPA, é um instituto público com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio, que tem atribuições de apoio à política económica e tecnológica relacionada com a transformação e comercialização de produtos agrários e alimentares e de fomento das respectivas exportações.
 
-###### Art. 2.º - 1 - Para a prossecução dos seus objectivos, compete ao IAPA:
+Art. 2.º - 1 - Para a prossecução dos seus objectivos, compete ao IAPA:
 
 a) Elaborar e participar nos estudos, planos, programas e projectos relativos ao apoio às actividades de industrialização e exportação de produtos agrários e alimentares;
 
@@ -118,7 +134,7 @@ g) Colaborar na programação, projecto, implantação e funcionamento das infra
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 3.º São órgãos do IAPA:
+Art. 3.º São órgãos do IAPA:
 
 a) O presidente;
 
@@ -126,7 +142,7 @@ b) O Conselho Consultivo;
 
 c) O Conselho Administrativo.
 
-###### Art. 4.º - 1 - Compete ao presidente:
+Art. 4.º - 1 - Compete ao presidente:
 
 a) Dirigir os serviços do IAPA;
 
@@ -144,7 +160,7 @@ e) Assegurar a representação do IAPA junto de quaisquer organismos ou entidade
 
 4 - O presidente do IAPA é substituído, nas suas ausências e impedimentos, pelo vice-presidente que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo vice-presidente mais antigo.
 
-###### Art. 5.º - 1 - O Conselho Consultivo é presidido pelo presidente do IAPA e constituído por vogais, sem limite de número, representantes dos parceiros económicos e sociais, das associações representativas das empresas e actividades económicas compreendidas no seu âmbito de acção, bem como dos organismos públicos de competências conexas.
+Art. 5.º - 1 - O Conselho Consultivo é presidido pelo presidente do IAPA e constituído por vogais, sem limite de número, representantes dos parceiros económicos e sociais, das associações representativas das empresas e actividades económicas compreendidas no seu âmbito de acção, bem como dos organismos públicos de competências conexas.
 
 2 - Os vogais referidos no número anterior são nomeados por despacho ministerial, ouvidas as entidades interessadas.
 
@@ -156,7 +172,7 @@ b) A situação dos mercados interno e externo, no médio e curto prazo, no que 
 
 c) Quaisquer outros assuntos que sejam submetidos à sua apreciação pelo presidente.
 
-###### Art. 6.º - 1 - O Conselho Consultivo funcionará em sessões plenárias, ou por comissões especializadas, de acordo com o respectivo regulamento interno a aprovar pelo presidente.
+Art. 6.º - 1 - O Conselho Consultivo funcionará em sessões plenárias, ou por comissões especializadas, de acordo com o respectivo regulamento interno a aprovar pelo presidente.
 
 2 - Compete ao presidente do Conselho Consultivo:
 
@@ -172,7 +188,7 @@ d) Nomear, de entre os funcionários do IAPA, o secretário do Conselho e defini
 
 4 - Aos membros do Conselho, estranhos ao MACP, poderão ser atribuídas ajudas de custo ou senhas de presença.
 
-###### Art. 7.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria financeira e é constituído pelos seguintes membros efectivos:
+Art. 7.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria financeira e é constituído pelos seguintes membros efectivos:
 
 a) O presidente;
 
@@ -184,7 +200,7 @@ c) O director de Serviços de Administração;
 
 3 - O Conselho será assistido por um representante do Tribunal de Contas, que emitirá parecer quanto à legalidade das despesas, com direito a senhas de presença de montante a fixar por despacho ministerial.
 
-###### Art. 8.º - 1 - Ao Conselho Administrativo compete:
+Art. 8.º - 1 - Ao Conselho Administrativo compete:
 
 a) Elaborar o projecto de orçamento do IAPA de conta das dotações consignadas no Orçamento do Estado e propor as alterações consideradas necessárias;
 
@@ -214,7 +230,7 @@ j) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
 
 #### SECÇÃO II — Serviços
 
-###### Art. 9.º O IAPA compreenderá as seguintes unidades orgânicas:
+Art. 9.º O IAPA compreenderá as seguintes unidades orgânicas:
 
 a) Direcção de Serviços de Administração;
 
@@ -224,11 +240,11 @@ c) Direcção de Serviços de Mercados e Infra-Estruturas;
 
 d) Direcção de Serviços de Coordenação, Apoio e Programação.
 
-###### Art. 10.º - 1 - Para estudo de problemas específicos, poderão ser constituídos grupos de trabalho ou equipas de projecto, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente.
+Art. 10.º - 1 - Para estudo de problemas específicos, poderão ser constituídos grupos de trabalho ou equipas de projecto, cujo mandato, composição e funcionamento serão estabelecidos por despacho do presidente.
 
 2 - Os grupos de trabalho e as equipas de projecto ocupar-se-ão de assuntos que, pela sua natureza específica ou interdisciplinar, não devam ser cometidos a quaisquer das unidades orgânicas do IAPA.
 
-###### Art. 11.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira, patrimonial e de pessoal, bem como expediente, arquivo e assuntos gerais.
+Art. 11.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira, patrimonial e de pessoal, bem como expediente, arquivo e assuntos gerais.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com os serviços centrais de coordenação e apoio do MACP e com outros organismos, de forma a garantir a efectivação das atribuições que lhe são cometidas.
 
@@ -238,7 +254,7 @@ a) Repartição de Administração Geral e de Pessoal;
 
 b) Repartição de Administração Financeira e Patrimonial.
 
-###### Art. 12.º A Repartição de Administração Geral e de Pessoal tem atribuições nas áreas de pessoal e assuntos gerais e compreende as seguintes subunidades orgânicas:
+Art. 12.º A Repartição de Administração Geral e de Pessoal tem atribuições nas áreas de pessoal e assuntos gerais e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Pessoal;
 
@@ -246,7 +262,7 @@ b) Secção de Expediente e Arquivo;
 
 c) Secção de Assuntos Gerais.
 
-###### Art. 13.º À Secção de Pessoal compete:
+Art. 13.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal do IAPA;
 
@@ -258,7 +274,7 @@ d) Elaborar as folhas de vencimentos, salários e outros abonos do pessoal do IA
 
 e) Organizar os processos de aposentação.
 
-###### Art. 14.º À Secção de Expediente e Arquivo compete:
+Art. 14.º À Secção de Expediente e Arquivo compete:
 
 a) Executar todas as tarefas respeitantes ao processamento do expediente geral, ao registo e classificação da documentação entrada e expedida e ao controle da circulação dos documentos pelos serviços de apoio;
 
@@ -266,7 +282,7 @@ b) Assegurar a organização, manutenção e actualização do arquivo geral;
 
 c) Promover a divulgação pelos serviços de directivas de funcionamento, bem como dos elementos de informação e legislação, cujo conhecimento se reconheça indispensável.
 
-###### Art. 15.º À Secção de Assuntos Gerais compete:
+Art. 15.º À Secção de Assuntos Gerais compete:
 
 a) Assegurar o apoio de dactilografia e de reprografia aos órgãos e serviços do IAPA;
 
@@ -282,7 +298,7 @@ f) Superintender no pessoal de limpeza, assegurando a organização do respectiv
 
 g) Assegurar o serviço de acolhimento.
 
-###### Art. 16.º A Repartição de Administração Financeira tem atribuições nas áreas do orçamento, conta, contabilidade, património e aprovisionamento e compreende as seguintes subunidades orgânicas:
+Art. 16.º A Repartição de Administração Financeira tem atribuições nas áreas do orçamento, conta, contabilidade, património e aprovisionamento e compreende as seguintes subunidades orgânicas:
 
 a) Secção de Orçamento e Conta;
 
@@ -290,7 +306,7 @@ b) Secção de Contabilidade;
 
 c) Secção de Património.
 
-###### Art. 17.º À Secção de Orçamento e Conta compete:
+Art. 17.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos do IAPA;
 
@@ -306,7 +322,7 @@ f) Organizar a conta anual de gerência e preparar os elementos necessários à 
 
 g) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 18.º À Secção de Contabilidade compete:
+Art. 18.º À Secção de Contabilidade compete:
 
 a) Apoiar a organização funcional do Conselho Administrativo;
 
@@ -318,13 +334,13 @@ d) Controlar o movimento de tesouraria, efectuando mensalmente o seu balanço;
 
 e) Processar e verificar todos os documentos de receitas e despesas emitidos pelos diversos serviços.
 
-###### Art. 19.º Na Repartição de Administração Financeira funciona um tesoureiro, ao qual compete:
+Art. 19.º Na Repartição de Administração Financeira funciona um tesoureiro, ao qual compete:
 
 a) Arrecadar as receitas pertencentes ao IAPA e efectuar o pagamento das despesas autorizadas;
 
 b) Manter escriturados os livros de tesouraria.
 
-###### Art. 20.º Compete à Secção de Património:
+Art. 20.º Compete à Secção de Património:
 
 a) Assegurar a gestão de todo o património afecto ao IAPA, zelando pela sua conservação e manutenção;
 
@@ -344,7 +360,7 @@ h) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 i) Assegurar o funcionamento do serviço de informação de existências em armazém.
 
-###### Art. 21.º - 1 - À Direcção de Serviços de Industrialização compete coordenar as actividades de apoio tecnológico, licenciamento técnico e inspecção técnica, a executar pelos diversos serviços do MACP, relativamente às empresas de industrialização de produtos agrários e alimentares, designadamente as acções que visem:
+Art. 21.º - 1 - À Direcção de Serviços de Industrialização compete coordenar as actividades de apoio tecnológico, licenciamento técnico e inspecção técnica, a executar pelos diversos serviços do MACP, relativamente às empresas de industrialização de produtos agrários e alimentares, designadamente as acções que visem:
 
 a) O apoio tecnológico às actividades de conservação e transformação do sector;
 
@@ -360,7 +376,7 @@ a) Divisão de Apoio Tecnológico;
 
 b) Divisão de Normalização.
 
-###### Art. 22.º À Divisão de Apoio Tecnológico compete:
+Art. 22.º À Divisão de Apoio Tecnológico compete:
 
 a) Promover o apoio tecnológico às empresas com vista à sua maior rentabilidade, nomeadamente pelo estímulo à introdução da tecnologia mais adequada;
 
@@ -368,13 +384,13 @@ b) Estabelecer o intercâmbio técnico e científico a entidades públicas ou pr
 
 c) Estudar e propor os normativos necessários à implementação dos conceitos tecnológicos que garantam mais produtividade e melhor qualidade dos produtos finais.
 
-###### Art. 23.º À Divisão de Normalização compete:
+Art. 23.º À Divisão de Normalização compete:
 
 a) Apoiar tecnicamente a indústria nacional de equipamentos agro-industriais, nomeadamente pela elaboração das normas consideradas necessárias à satisfação da procura interna;
 
 b) Propor a aplicação de normas tecnológicas com vista à rentabilidade da indústria de equipamento e à diminuição da sua importação.
 
-###### Art. 24.º À Direcção de Serviços de Mercados e Infra-Estruturas compete desenvolver as actividades da área de actuação do IAPA, nos domínios de infra-estruturas e de apoio à comercialização dos produtos agrários e alimentares e de fomento das respectivas exportações, compreendendo as seguintes unidades orgânicas:
+Art. 24.º À Direcção de Serviços de Mercados e Infra-Estruturas compete desenvolver as actividades da área de actuação do IAPA, nos domínios de infra-estruturas e de apoio à comercialização dos produtos agrários e alimentares e de fomento das respectivas exportações, compreendendo as seguintes unidades orgânicas:
 
 a) Divisão do Mercado Interno;
 
@@ -382,7 +398,7 @@ b) Divisão do Mercado Externo;
 
 c) Divisão de Infra-Estruturas.
 
-###### Art. 25.º À Divisão do Mercado Interno compete:
+Art. 25.º À Divisão do Mercado Interno compete:
 
 a) Estudar os circuitos económicos dos produtos agrários e alimentares no mercado interno, nomeadamente no que se refere ao abastecimento e à distribuição;
 
@@ -392,7 +408,7 @@ c) Elaborar, propor e executar medidas visando o apoio e promoção das feiras e
 
 d) Estudar e acompanhar o sistema de bolsas de mercadorias.
 
-###### Art. 26.º À Divisão do Mercado Externo compete:
+Art. 26.º À Divisão do Mercado Externo compete:
 
 a) Recolher, analisar e difundir, de modo permanente e sistemático, informações sobre a evolução dos mercados externos, no tocante à oferta e procura de produtos agrários e alimentares, no âmbito da conjuntura económica global;
 
@@ -404,7 +420,7 @@ d) Estudar e acompanhar as actividades de importação dos produtos agrícolas e
 
 e) Assegurar os contactos com os organismos técnicos internacionais de competência especializada, com interesse para o sector.
 
-###### Art. 27.º À Divisão de Infra-Estruturas compete:
+Art. 27.º À Divisão de Infra-Estruturas compete:
 
 a) Elaborar programas de desenvolvimento das infra-estruturas de interesse para os produtos agrários e alimentares;
 
@@ -412,13 +428,13 @@ b) Apoiar a implantação e o funcionamento das infra-estruturas, designadamente
 
 c) Colaborar na elaboração de normas técnicas e prestar apoio técnico à implantação e funcionamento de equipamentos.
 
-###### Art. 28.º À Direcção de Serviços de Coordenação, Apoio e Programação compete desenvolver as acções necessárias à harmonização sectorial do comércio e indústrias agrícolas e alimentares, bem como desempenhar atribuições de coordenação, apoio e programação nos domínios de actuação do Instituto, compreendendo as seguintes unidades orgânicas:
+Art. 28.º À Direcção de Serviços de Coordenação, Apoio e Programação compete desenvolver as acções necessárias à harmonização sectorial do comércio e indústrias agrícolas e alimentares, bem como desempenhar atribuições de coordenação, apoio e programação nos domínios de actuação do Instituto, compreendendo as seguintes unidades orgânicas:
 
 a) Divisão de Estudos, Planeamento e Informação;
 
 b) Divisão de Apoio Empresarial e de Formação.
 
-###### Art. 29.º À Divisão de Estudos, Planeamento e Informação compete:
+Art. 29.º À Divisão de Estudos, Planeamento e Informação compete:
 
 a) Estudar o ordenamento agro-industrial e alimentar e correspondente estrutura física, económica e jurídica;
 
@@ -434,7 +450,7 @@ f) Proceder ao levantamento das empresas nacionais e estrangeiras radicadas no P
 
 g) Colaborar com as empresas referidas na alínea anterior, de modo a garantir rapidamente as necessidades do mercado nacional, tanto em exportação como em importação.
 
-###### Art. 30.º À Divisão de Apoio Empresarial e de Formação compete:
+Art. 30.º À Divisão de Apoio Empresarial e de Formação compete:
 
 a) Estudar e propor medidas de política de crédito financeiro e apoio às empresas do sector;
 
@@ -452,7 +468,7 @@ g) Colaborar com entidades nacionais e estrangeiras no âmbito da formação pro
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 31.º Constituem receitas do IAPA:
+Art. 31.º Constituem receitas do IAPA:
 
 a) As dotações atribuídas no Orçamento do Estado;
 
@@ -478,7 +494,7 @@ l) Os juros dos capitais próprios;
 
 m) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato, ou por outro título.
 
-###### Art. 32.º - 1 - A cobrança coerciva das dívidas ao IAPA far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 32.º - 1 - A cobrança coerciva das dívidas ao IAPA far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão passada pela Direcção de Serviços de Administração, da qual constem os elementos seguintes:
 
@@ -492,7 +508,7 @@ d) Data da certidão e assinatura da entidade emitente, devidamente autenticada 
 
 3 - A mora do devedor, a que alude a alínea c) do número anterior, conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 33.º - 1 - A gestão do IAPA será disciplinada pelos seguintes instrumentos de previsão e de controle:
+Art. 33.º - 1 - A gestão do IAPA será disciplinada pelos seguintes instrumentos de previsão e de controle:
 
 a) Plano de actividade plurianual;
 
@@ -510,7 +526,7 @@ e) Conta e relatório financeiro.
 
 4 - O orçamento privativo será elaborado com base no programa anual de trabalho, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidade e adequado controle de gestão.
 
-###### Art. 34.º - 1 - O Conselho Administrativo do IAPA administrará as dotações que, anualmente, forem concedidas ao IAPA, bem como as suas receitas próprias.
+Art. 34.º - 1 - O Conselho Administrativo do IAPA administrará as dotações que, anualmente, forem concedidas ao IAPA, bem como as suas receitas próprias.
 
 2 - O Conselho Administrativo requisitará, mensalmente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas ao IAPA no Orçamento do Estado.
 
@@ -518,15 +534,15 @@ e) Conta e relatório financeiro.
 
 4 - O Conselho Administrativo pode autorizar a constituição de fundos de maneio, para ocorrer ao pagamento de despesas.
 
-###### Art. 35.º - 1 - Constituem despesas do IAPA todas as que resultem do normal exercício das suas funções.
+Art. 35.º - 1 - Constituem despesas do IAPA todas as que resultem do normal exercício das suas funções.
 
 2 - O IAPA é isento de taxas, custas, emolumentos e selos nos processos, contratos, actos notariais de registo ou outros em que intervenha.
 
-###### Art. 36.º A aquisição, alienação, troca, aluguer, arrendamento, cedência, comodato ou venda de prédios ou instalações fabris ou seu equipamento, bem como os direitos a eles inerentes, realizados no âmbito da intervenção ou desintervenção estatal, não carecem de exames e visto do Tribunal de Contas.
+Art. 36.º A aquisição, alienação, troca, aluguer, arrendamento, cedência, comodato ou venda de prédios ou instalações fabris ou seu equipamento, bem como os direitos a eles inerentes, realizados no âmbito da intervenção ou desintervenção estatal, não carecem de exames e visto do Tribunal de Contas.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 37.º - 1 - O IAPA dispõe do contingente de pessoal do quadro único do MACP, constante do mapa anexo a este diploma.
+Art. 37.º - 1 - O IAPA dispõe do contingente de pessoal do quadro único do MACP, constante do mapa anexo a este diploma.
 
 2 - Os encargos com o pessoal referido no número anterior serão incluídos no orçamento privativo do IAPA.
 
@@ -540,7 +556,7 @@ e) Conta e relatório financeiro.
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 38.º O IAPA dispõe de competência para a prática dos seguintes actos:
+Art. 38.º O IAPA dispõe de competência para a prática dos seguintes actos:
 
 a) Realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas, sendo os serviços prestados cobrados de harmonia com a tabela de preços que vier a ser aprovada;
 
@@ -556,22 +572,22 @@ f) Organizar, patrocinar ou participar em feiras, exposições, seminários, con
 
 g) Atribuir subsídios reembolsáveis ou não a entidades que organizem certames, feiras, exposições ou simpósios relacionados com a inovação tecnológica, ou acções relativas à transformação, comercialização dos produtos agrários e alimentares.
 
-###### Art. 39.º Os encargos inerentes a transportes e ajudas de custo devidos a trabalhadores do MACP, ou de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação ou realização de projectos e outros empreendimentos do IAPA, serão pagos por conta das dotações consignadas a esses objectivos.
+Art. 39.º Os encargos inerentes a transportes e ajudas de custo devidos a trabalhadores do MACP, ou de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação ou realização de projectos e outros empreendimentos do IAPA, serão pagos por conta das dotações consignadas a esses objectivos.
 
-###### Art. 40.º Transitam para o IAPA os meios materiais e direitos pertencentes à ex-Direcção-Geral das Indústrias Agrícolas Alimentares e ex-Instituto Nacional do Frio.
+Art. 40.º Transitam para o IAPA os meios materiais e direitos pertencentes à ex-Direcção-Geral das Indústrias Agrícolas Alimentares e ex-Instituto Nacional do Frio.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Basílio Adolfo Mendonça Horta da Franca - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 7 de Junho de 1983.**
+Promulgado em 7 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Junho de 1983.**
+Referendado em 8 de Junho de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 Mapa anexo a que se refere o artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/14500/23052312.pdf))](https://files.diariodarepublica.pt/1s/1983/06/14500/23052312.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14500/23052312.pdf)

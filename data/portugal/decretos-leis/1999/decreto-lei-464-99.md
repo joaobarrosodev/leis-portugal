@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/77137715.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/464/1999/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/464-1999-693813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f901889f535b46e145eaecce10ea95d633edef9035b129f17d7cefe62d77b8ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b86c67c58886e7d75b456d0b8fe923a702fea8c4503e27fa7c79ba3c933fe17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Atividade Agrícola
 - Contribuições da Segurança Social
-- Trabalhador Rural
+- Madeira.região Autónoma
 - Pensão Social
 - Pensões
 - Prestações da Segurança Social
-- Madeira.região Autónoma
 - Regime Geral da Segurança Social
 - Segurança Social
 - Taxa
 - TAXA Contributiva
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
@@ -98,16 +98,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:221521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653121:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º 119/2009, de 30 de\
+    \ Dezembro), pela LEI.110/2009.16.09.2009.AR, DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação\
+    \ [prevista no art. 4.º] se manter transitoriamente em vigor as disposições procedimentais do presente diploma que não\
+    \ contrariem o disposto no Código aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:23Z'
   warnings: []
   errors: []
 ---
@@ -206,12 +250,12 @@ O presente decreto-lei entra em vigor no dia 1 de Setembro de 1999.
 
 Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 19 de Outubro de 1999.**
+Promulgado em 19 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

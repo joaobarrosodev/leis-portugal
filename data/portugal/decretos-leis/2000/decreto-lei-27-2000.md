@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/27/2000/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2000-408499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea0fb004027a2b472e4ee9191fb188d399a1329974a4f7b4a20dfe82a73f63ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adc3ea24eb4a240887d8b470254d7f16959c39c4c7b6f63ce223081e0134e83e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,101 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
 - Aproximação das Legislações
 - Cereal
 - Controlo Sanitário
-- Saúde Pública
 - Fruto
-- Produto Hortícola
-- Proteção do Consumidor
-- Pesticida
-- Produto Fitofarmacêutico
 - Limite Máximo de Resíduos
+- Pesticida
+- Produto Alimentar
+- Produto Fitofarmacêutico
+- Produto Hortícola
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379707:por
+  label: "Alterados os Anexos A, B e C pelo DEC LEI.215/2001.2001.08.02.MADRP DR.IS-A [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2001-379707
+  date: '2001-08-02'
+- type: amended_by
+  target: pt:dre:611882:por
+  label: "Alterados os valores LMR do Anexo A pelo DEC LEI.256/2001.2001.09.22.MADRP, DR.IS-A [221], conforme especificações\
+    \ do nº 1 do art. 1º do referido\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2001-611882
+  date: '2001-09-22'
+- type: amended_by
+  target: pt:dre:278027:por
+  label: "Alterado o anexo da Port 649/96, de 12-Nov DR.IS-B [262], na redacção das Port 102/97, de 14-Fev, 1101/99, de 21-Dez,\
+    \ do presente diploma e do Dec Lei 215/2001, de 02-Ago, pelo DEC LEI.31/2002.2002.02.19.MADRP DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2002-278027
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:425484:por
+  label: "Alterado o anexo à Port 649/96 de 12-Nov, na redacção do presente diploma e das Ports 102/97 de 14-Fev e 1101/99\
+    \ de 21-Dez, pelo DEC LEI.245/2002.2002.11.08.MADRP,DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/245-2002-425484
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:223629:por
+  label: "Suprimidas as rubricas referentes às substâncias activas bifentrina, bitertanol, ciromazina, clofentezina, flucitrinato,\
+    \ hexaconazol, miclobutanil, penconazol e procloraz, constantes do anexo da Port 625/96 de 04-Nov, com as alterações introduzidas\
+    \ pelo presente diploma, pelo DEC LEI.68/2003.2003.04.08.MADRP DR.IS-A [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-2003-223629
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:671041:por
+  label: "Alterado o anexo da Port 649/96 de 12-Nov, com a redacção deste diploma, pelo DEC LEI.156/2003.2003.07.18.MADRP\
+    \ DR.IS-A [164]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/156-2003-671041
+  date: '2003-07-18'
+- type: amended_by
+  target: pt:dre:440083:por
+  label: "Suprimida uma rubrica no Anexo da Port 49/97, de 18-Jun, na redacção do presente diploma e da Port 1101/99, de 21-Dez,\
+    \ do Dec Lei 245/2002, de 08-Nov, do Dec Lei 68/2003, de 08-Abr e do Dec Lei 156/2003, de 18-Jul, pelo DEC LEI.300/2003.04.12.2003.MADRP,\
+    \ DR.IS-A [280] de 04.12.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2003-440083
+  date: '2003-12-04'
+- type: amended_by
+  target: pt:dre:480523:por
+  label: "Alterado o anexo B do presente diploma, pelo DEC LEI.205/2004.19.08.2004.MADRP, DR.IS-A [195] de 19.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2004-480523
+  date: '2004-08-19'
+- type: amended_by
+  target: pt:dre:683842:por
+  label: "Suprimidas várias rubricas no Anexo A ao presente diploma, pelo DEC LEI.32/2006.15.02.2006.MADRP, DR.IS-A [33] de\
+    \ 15.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2006-683842
+  date: '2006-02-15'
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimidas várias rúbricas do anexo da Portaria 625/96, de 04 de Novembro, alterada pelo presente diploma, pelo\
+    \ DEC LEI.123/2006.28.06.2006.MADRP, DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
+- type: amended_by
+  target: pt:dre:545386:por
+  label: "Suprimidas várias rubricas no anexo do presente diploma, pelo DEC LEI.233/2006.29.11.2006.MADRP, DR.IS [230] de\
+    \ 29.11.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/233-2006-545386
+  date: '2006-11-29'
+- type: amended_by
+  target: pt:dre:246821:por
+  label: "Suprimida uma rubrica ao Anexo A pelo DEC LEI.51/2008.20.03.2008.MADRP, DR.IS [57] de 20.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2008-246821
+  date: '2008-03-20'
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterado o anexo A do presente diploma, com as alterações introduzidas pelos Dec Lei 215/2001 de 02-Ago, 256/2001\
+    \ de 22-Set, 245/2002 de 08-Nov, 68/2003 de 08-Abr, 300/2003 de 04-Dez, 32/2006 de 15-Fev, 123/2006 de 28-Jun 233/2006\
+    \ de 29-Nov e 51/2008 de 20-Mar, pelo DEC LEI.202/2008.09.10.2008.MADRP, DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
 - type: cites
   target: celex:31997L0071
   label: null
@@ -92,16 +170,21 @@ relationships:
   target: celex:31998L0082
   label: null
   source: http://data.europa.eu/eli/dir/1998/82/oj
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:21Z'
   warnings: []
   errors: []
 ---
@@ -158,26 +241,26 @@ São aprovadas as listas de LMR de produtos fitofarmacêuticos admissíveis em d
 
 Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Fevereiro de 2000.**
+Promulgado em 17 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 2000.**
+Referendado em 18 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO A
 
 Resíduos de produtos fitofarmacêuticos e LMR (mg/kg) de benomil (grupo), clortalonil, clorpirifos, clorpirifos-metilo, cipermetrina, deltrametrina, fenvalerato, glifosato, imazalil, iprodiona, EBDC, permetrina e procimidona
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)
 
 ## ANEXO B — Limites máximos de resíduos no chá (mg/kg)
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)
 
 ## ANEXO C — Limites máximos de resíduos (mg/kg) de acefato, metamidofos e vinclozolina
 
-[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)
+[[[(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)](https://files.diariodarepublica.pt/1s/2000/03/053a00/07300739.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/105/2019/08/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2019-123855889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5536454d1d27137ad16267f073cff782aca96cdec0b22a84f272ab717a19686c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 875989a246125d247c42e598cef13cc744be0438b22e5b3f5a613a071fd4ae82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Multa
+- Combustível
+- Comissão CE
+- Conselho Consultivo
 - Conselho de Administração
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral de Energia e Geologia
 - Entidade Gestora de Reservas Estratégicas de Produtos Petrolíferos
+- Estatuto
+- Multa
 - Petróleo
 - Política Energética
 - Produto Petrolífero
 - Reservas de Combustível
-- Estatuto
-- Combustível
-- Direção Geral de Energia e Geologia
-- Comissão CE
-- Conselho Consultivo
 relationships:
 - type: cites
   target: celex:32008R1099
@@ -110,6 +110,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: pt:dre:116165764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0119
   label: null
@@ -119,15 +135,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 11
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:43Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +206,9 @@ k) [...];
 
 l) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -202,7 +220,9 @@ l) [...].
 
 5 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -210,7 +230,9 @@ l) [...].
 
 3 - As introduções no mercado nacional a considerar no período de 1 de janeiro a 30 de junho de cada ano civil são as do penúltimo ano civil que o precedeu.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -220,7 +242,9 @@ l) [...].
 
 4 - Sem prejuízo do disposto nos números anteriores, as prestações a cobrar aos novos operadores são calculadas com base nas introduções no mercado nacional por eles realizadas mensalmente, nos termos previstos no artigo 12.º
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os operadores obrigados enviam à ENSE, E. P. E., até ao último dia útil de cada mês, as seguintes informações relativas às reservas a constituir no mês seguinte:
 
@@ -242,7 +266,9 @@ e) [Revogada.]
 
 5 - As informações referidas nos n.os 1 a 4 devem ser disponibilizadas pela ENSE, E. P. E., à DGEG, após a respetiva receção.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Compete à ENSE, E. P. E., manter um registo permanentemente atualizado das reservas de segurança, contendo a informação necessária ao respetivo controlo, designadamente a localização precisa da refinaria ou instalação de armazenamento em que se encontram as reservas, as respetivas quantidades, o respetivo titular e a composição das reservas, adotando, para o efeito, as categorias definidas na secção 3.4 do anexo A do [Regulamento (CE) n.º 1099/2008](https://data.europa.eu/eli/reg/2008/1099/oj?locale=pt), do Parlamento e do Conselho, de 22 outubro de 2008, relativo às estatísticas da energia.
 
@@ -250,7 +276,9 @@ e) [Revogada.]
 
 3 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -278,13 +306,13 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - Maria de Fátima de Jesus Fonseca - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 26 de julho de 2019.**
+Promulgado em 26 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de julho de 2019.**
+Referendado em 30 de julho de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -318,7 +346,9 @@ b) [...].
 
 2 - [...].
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -335,3 +365,5 @@ ii) A taxa média de rendimento da nafta;
 iii) O consumo líquido efetivo de nafta.
 
 2 - [...].»
+
+112507107

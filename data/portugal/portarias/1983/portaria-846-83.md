@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-1983-455410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 249becf0737eee0e32867a8050eeb99e21cb0df1b061a5b014e5a8af5fe1f647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6762cdbd8918f58d254b30bfbe3fd5820673ba7bbdc4482d0e250e49143ca58b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- TAP
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:273587:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA NUMERO 309-D/84, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 119, SUPLEMENTO, DE 23/5/84.\0\
+    5/84.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:273587:por
+  label: "Revogada pela PORT.309-D/84.23.05.1984.MFP, DR.IS [119-SUPL] de 23.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/309-d-1984-273587
+  date: '1984-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:25Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +134,7 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Pla
 
 1.º São aprovadas as tarifas de transporte aéreo de passageiros a praticar em serviços regulares nas linhas abaixo especificadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)
 
 2.º As tarifas para os percursos acima especificados são apenas válidas para encaminhamentos que não contemplem mais de uma passagem no mesmo ponto em cada direcção.
 
@@ -149,9 +184,9 @@ Tarifa de 45 kg ... 36$00
 
 Gabinete do Ministro da República para a Região Autónoma dos Açores e Ministérios das Finanças e do Plano, do Comércio e Turismo e do Equipamento Social.
 
-**Assinada em 4 de Agosto de 1983.**
+Assinada em 4 de Agosto de 1983.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - Pelo Ministro do Comércio e Turismo, Joaquim Ferreira do Amaral, Secretário de Estado do Turismo. - O Ministro do Equipamento Social, João Rosado Correia.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes. - Pelo Ministro do Comércio e Turismo, Joaquim Ferreira do Amaral, Secretário de Estado do Turismo. - O Ministro do Equipamento Social, João Rosado Correia.
 
 ## ANEXO I — Condições de aplicação da tarifa para cidadãos portugueses residentes nos Açores
 
@@ -193,7 +228,7 @@ Os membros dos Governos Regionais e os indivíduos requisitados por esses Govern
 
 Elementos das Forças Armadas, Guarda Fiscal, Guarda Nacional Republicana e Polícia de Segurança Pública, quando deslocados em comissão de serviço na região, são igualmente elegíveis mediante apresentação de documento devidamente autenticado pela unidade de comando a que pertençam comprovando residência há mais de 6 meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)
 
 ## ANEXO II — Condições de aplicação da tarifa tipo tudo incluído para viagens turísticas em grupo
 
@@ -253,4 +288,4 @@ Viagem em conjunto - todos os passageiros pertencentes ao grupo devem viajar em 
 
 ## ANEXO III — Tarifas especiais de carga entre o continente e a Região Autónoma dos Açores e entre a Madeira e os Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf))](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/08/19200/29772980.pdf)

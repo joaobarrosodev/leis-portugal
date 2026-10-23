@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/142/1998/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1998-524052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ba5ce462ba2f1425a2fa54e8758e63b75f510ee83ac8edda9fae1eb09eb2230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa7525832cc7c326b5e1d4a30f53670431d73b896c542a218b2bb95a1431b886
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
 subjects:
 - Cemitério
 - Criação de Lugares
-- Quadro de Pessoal
+- França
 - Pessoal de Vigilância
+- Quadro de Pessoal
 - Representação Diplomática
 - Representação Portuguesa
-- França
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:181448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:23Z'
   warnings: []
   errors: []
 ---
@@ -125,15 +137,15 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1998.
 
 Visto e aprovado em Conselho de Ministros de 2 de Abril de 1998. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - José Veiga Simão - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 8 de Maio de 1998.**
+Promulgado em 8 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Maio de 1998.**
+Referendado em 14 de Maio de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 QUADRO ANEXO
 

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/123/1997/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1997-397953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 748bfeab9adb04d2c2257364975aa97b17366e1a065b505e9e90c32acea512b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34dc01cacc60697c885da2fa2445714774f68ec4786bbe0e790f9b7e61af12d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,43 +67,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Sanção Disciplinar
-- Lares
+- Barreira Arquitectónica
 - Centro de Enfermagem
+- Centro de Saúde
 - Contra-ordenação
+- Deficiente
 - Definição de Competências
 - Direcção Geral dos Edifícios e Monumentos Nacionais
-- Barreira Arquitectónica
 - Edifício Público
+- Equipamento Urbano
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
 - Fiscalização
-- Centro de Saúde
+- Funcionário Público
+- Lares
 - Normas de Construção
 - Normas de Segurança
 - Organismo do Estado
-- Proteção ao Deficiente
-- Urbanismo
-- Estabelecimento de Ensino
-- Equipamento Urbano
-- Estabelecimento Hospitalar
-- Sanção
-- Funcionário Público
 - Prédio Urbano
+- Proteção ao Deficiente
+- Sanção
+- Sanção Disciplinar
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:2224853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:518817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538624:por
+  label: "Revogado pelo Dec Lei.163/2006.08.08.2006.MTSS, DR.IS [152] de 08.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2006-538624
+  date: '2006-08-08'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:09Z'
   warnings: []
   errors: []
 ---
@@ -242,15 +263,15 @@ O presente diploma entra em vigor 90 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 22 de Abril de 1997.**
+Promulgado em 22 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Maio de 1997.**
+Referendado em 8 de Maio de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I
 
@@ -408,7 +429,7 @@ Pode ser dispensada a exigência de corrimãos quando o desnível a vencer pelas
 
 4.3 - O número de espaços especialmente destinados para pessoas em cadeiras de rodas é o constante da tabela seguinte, ficando, porém, a sua ocupação dependente da vontade do espectador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf))](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)
 
 5 - Parques de estacionamento:
 
@@ -416,7 +437,7 @@ Pode ser dispensada a exigência de corrimãos quando o desnível a vencer pelas
 
 5.2 - Nos parques até 25 lugares devem ser reservados, no mínimo, 2 lugares para veículos em que um dos ocupantes seja uma pessoa em cadeira de rodas. Quando o número de lugares for superior, deverá aplicar-se a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf))](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)
 
 5.3 - Os lugares reservados são demarcados a amarelo sobre a superfície do pavimento e assinalados com uma placa indicativa de acessibilidade (símbolo internacional de acesso).
 
@@ -424,4 +445,4 @@ Pode ser dispensada a exigência de corrimãos quando o desnível a vencer pelas
 
 ## ANEXO II — Medidas do símbolo internacional de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf))](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/118a00/25402544.pdf)

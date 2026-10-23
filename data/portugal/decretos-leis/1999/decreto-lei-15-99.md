@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/012a00/02780289.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/15/1999/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1999-193582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c73e8b05144e44b398822d967bcaf61a012dc5dff22b6e432f582176307c71e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92005c2a1bf767eb4942265769fd9bd6b2085cea2b6b6abbc6e75d1aa35424bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
-- Multa
-- Inspecção Geral das Actividades Culturais
-- Contra-ordenação
-- Definição de Competências
-- Concorrência
-- Produção Cinematográfica
+- Cinema
 - Cinemateca Portuguesa-Museu do Cinema
-- Fiscalização
-- Ministério da Cultura
-- Ministro da Cultura
-- Ministro das Finanças
+- Concorrência
+- Contra-ordenação
 - Contribuições e Impostos
+- Definição de Competências
+- Ensino Básico
+- Estabelecimento de Ensino
+- Financiamento
+- Fiscalização
+- Formação Profissional
 - ICAM
+- Indústria Cinematográfica
+- Inspecção Geral das Actividades Culturais
 - Intervenção do Estado
 - Material Audiovisual
 - Ministério da Ciência e da Tecnologia
+- Ministério da Cultura
+- Ministro da Cultura
+- Ministro das Finanças
+- Multa
 - Política do Audiovisual
 - Prémio de Cinema
-- Estabelecimento de Ensino
+- Produção Cinematográfica
 - Produção Multimédia
-- Ensino Básico
 - Regime Jurídico
-- Cinema
-- Indústria Cinematográfica
 - Sanção
 - Subsídio
 - Taxa
@@ -102,6 +102,11 @@ relationships:
   target: pt:dre:322172:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:322172:por
+  label: "Cessada a vigência pela RES.41/99.1999.05.15.AR, DR.IS-A [113] de 15/Mai/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/41-1999-322172
+  date: '1999-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/1994/02/01/p/dre
   label: null
@@ -142,16 +147,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+- type: cites
+  target: pt:dre:186756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408500:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673990:por
+  label: null
+  source: null
 article_structure:
   article_count: 72
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:30Z'
   warnings: []
   errors: []
 ---
@@ -858,12 +931,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Luís Lopes da Mota - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Novembro de 1998.**
+Promulgado em 17 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 1998.**
+Referendado em 3 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 277/1990, 5º Suplemento, Série I de 1990-11-30
   number: '277'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 4948-(28) a 4948-(29)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27705/00280029.pdf
 entry_into_force_dates: []
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/159-c-1990-689251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T07:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f3b06460cfea9ee5f7713137a9e60c7c7fb35c0e3a92d74132a386ac8f39f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb22ae752152bad90c47ee335398c477a51cb3a72da804508d57d0f159d03701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação
+- Pessoal Docente
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:301622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301622:por
+  label: "Alterado o n.º 1 pelo DN.205/91.20.09.1991.MF, DR.IS-B [217] de 20.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/205-1991-301622
+  date: '1991-09-20'
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:45:53Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +136,4 @@ Técnico-adjunto principal ... 4
 
 Ministérios das Finanças e da Educação, 29 de Novembro de 1990. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/11/27705/00280029.pdf))](https://files.diariodarepublica.pt/1s/1990/11/27705/00280029.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1990/11/27705/00280029.pdf)

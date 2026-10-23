@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/369/2007/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-2007-629433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3806c3b3d557a0e32969bb904feb16f2a122953bfe36a24da9a8568d85559593
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c069c7d511e774f307d8267d26d7c695d55555b360992dba91a11ff53a8a9fd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
-- Conselho de Administração
-- Fundação
-- Definição de Competências
-- Direito Privado
 - Agência de Avaliação e Acreditação do Ensino Superior
-- Estatuto
 - Avaliação das Instituições
-- Isenção Fiscal
-- Direção Geral do Ensino Superior
-- Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
-- Mecenato Científico-Tecnológico
-- Ensino Superior
 - Benefícios Fiscais
+- Conselho de Administração
+- Definição de Competências
+- Direção Geral do Ensino Superior
+- Direito Privado
+- Ensino Superior
+- Estatuto
+- Fundação
+- Gabinete de Planeamento Estratégia Avaliação e Relações Internacionais
+- Isenção Fiscal
+- Mecenato Científico-Tecnológico
+- Património
 relationships:
 - type: amended_by
   target: pt:dre:904130033:por
@@ -104,16 +104,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2007/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2007/08/16/p/dre
+- type: cites
+  target: pt:dre:347952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:03Z'
   warnings: []
   errors: []
 ---
@@ -320,15 +340,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 17 de Outubro de 2007.**
+Promulgado em 17 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — ESTATUTOS DA AGÊNCIA DE AVALIAÇÃO E ACREDITAÇÃO DO ENSINO SUPERIOR
 

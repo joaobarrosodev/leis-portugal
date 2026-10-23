@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/09300/0246002461.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/62/2019/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2019-122305208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78e79328e4aea4d43504081a9c0eb444d4bd23863644afa1a6533b29b5a788a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78933db258dc661dad85413f9874982684748adc2ce8dee2b8559b2f334e8c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Câmara de Lobos
-- Julgado de Paz
 - Criação de Serviços
 - Extinção de Serviços
-- Ministério da Justiça
 - Funchal
+- Julgado de Paz
+- Ministério da Justiça
 - Santa CRUZ
 relationships:
 - type: cites
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491241:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:34Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +163,14 @@ Os artigos 3.º e 5.º produzem efeitos na data da instalação do Julgado de Pa
 
 Visto e aprovado em Conselho de Ministros de 18 de abril de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita - Helena Maria Mesquita Ribeiro.
 
-**Promulgado em 3 de maio de 2019.**
+Promulgado em 3 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 7 de maio de 2019.**
+Referendado em 7 de maio de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112283645

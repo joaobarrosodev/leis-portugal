@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21710-1965-508063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a93c18360915f81435f9b7f9275eba0953b5ecb31ae8f5ef24145937d14b6e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6afb839255a9c5b5059560a7cc2f53eb8a1c176f7bc6882bed6590f8167e0eb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:554171:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:56Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Fazendo uso da faculdade conferida pelo artigo 17.º desse diploma legal:
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação Nacional, que o artigo 13.º do [Decreto-Lei n.º 46136](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46136-1964-554171), de 31 de Dezembro de 1964, passe a ter a seguinte redacção:
 
-###### Art. 13.º - 1. O Ministério da Educação Nacional, através da Inspecção do Ensino Particular, ouvido o Instituto de Meios Áudio-Visuais de Ensino, poderá conceder alvarás de postos de recepção e diplomas de monitor, a requerimento dos interessados, desde que se verifiquem as necessárias condições legais.
+Art. 13.º - 1. O Ministério da Educação Nacional, através da Inspecção do Ensino Particular, ouvido o Instituto de Meios Áudio-Visuais de Ensino, poderá conceder alvarás de postos de recepção e diplomas de monitor, a requerimento dos interessados, desde que se verifiquem as necessárias condições legais.
 
 2. Os alvarás são concedidos por um ano escolar; mas podem ser renovados sucessivamente por iguais períodos, nos termos do número anterior, e uma vez que se verifique ter sido bom o funcionamento dos postos respectivos.
 

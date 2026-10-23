@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/247/2002/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6a5d76dfa748bdc004450dcfc057d445dc3dc140b6d1ba84e0d0659b219db6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a650f091e28e5aa361a04179c01042f818b1c3b51687cf5d8afb9958777cb273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,62 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
+- Aditivo Alimentar
+- Administração Regional
 - Agente Económico
+- Alimento para Animais
 - Análise Laboratorial
 - Aproximação das Legislações
-- Região Autónoma
 - Autoridade Nacional
-- Empresa
-- Multa
-- Proteção dos Animais
+- Circulação de Mercadorias
+- Comércio
+- Comissão CE
 - Comunidade Europeia
+- Concorrência
 - Contra-ordenação
 - Controlo de Qualidade
-- Direção Geral de Veterinária
-- Saúde
+- Controlo Sanitário
 - Definição de Competências
+- Direção Geral de Veterinária
 - Direcção Regional de Agricultura
 - Diretor Geral
-- Concorrência
 - Documentação
-- Controlo Sanitário
-- Saúde Pública
+- Empresa
 - Estabelecimento Industrial
 - Etiquetagem
+- Exportação
 - Fabrico Industrial
 - Fiscalização
-- Comissão CE
-- Infracção Antieconómica
 - Higiene Alimentar
 - Importação
+- Indústria Alimentar
+- Infracção Antieconómica
 - Laboratório Nacional de Investigação Veterinária
-- Circulação de Mercadorias
-- Proteção do Ambiente
+- Madeira.região Autónoma
+- Multa
 - Pessoa Coletiva
 - Pessoa Singular
 - Política Agrícola Comum
 - Política Alimentar
 - Prazo
-- Exportação
-- Aditivo Alimentar
-- Madeira.região Autónoma
-- Proteção do Consumidor
-- Alimento para Animais
-- Receita
 - Produção Agrícola
+- Produto Alimentar
+- Produto Animal
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Proteção dos Animais
+- Receita
+- Região Autónoma
 - Registo Obrigatório
-- Indústria Alimentar
 - Sanção
 - Sanção Económica
-- Segredo Profissional
-- Administração Regional
-- Açores
-- Taxa
-- Comércio
-- Produto Animal
-- Venda
+- Saúde
 - Saúde Animal
+- Saúde Pública
+- Segredo Profissional
+- Taxa
+- Venda
 relationships:
 - type: cites
   target: celex:31995L0053
@@ -137,15 +137,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2001/46/oj
 article_structure:
-  article_count: 51
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:55Z'
   warnings: []
   errors: []
 ---
@@ -222,25 +222,35 @@ q) ...
 
 r) ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 Por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director-geral de Veterinária, serão aprovados os impressos ou o suporte informático que visa uniformizar as comunicações para cumprimento do disposto nos artigos 5.º, 6.º, e 7.º do presente diploma.
 
-### CAPÍTULO IV — Disposições gerais e controlos
+CAPÍTULO IV
 
-###### Artigo 10.º — [...]
+Disposições gerais e controlos
+
+Artigo 10.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A obrigação de sigilo profissional não impede que as autoridades competentes divulguem as informações necessárias para prevenir um risco grave para a saúde humana, a saúde animal ou o ambiente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As DRA, a pedido da DGV, podem verificar, nos locais de destino, a conformidade dos produtos de acordo com o disposto na alínea a) do artigo 2.º do presente diploma, mediante a realização de controlos por amostragem e de carácter não discriminatório, podendo a DGV, na medida em que tal se revele estritamente necessário para a realização de tais controlos, impor obrigatoriedade aos operadores que assinalem a chegada dos produtos de acordo com o artigo 7.º do presente diploma, informando a Comissão desse facto.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Se por ocasião de um controlo realizado no local de destino do envio ou durante o transporte se verificar a não conformidade dos produtos com as disposições referidas nas alíneas a), b), c), d), e) e f) do n.º 1 do artigo 1.º, a entidade controladora tomará as medidas adequadas e intimará o expedidor, o destinatário ou qualquer terceiro que tiver sucedido nos direitos, a efectuar, nas condições determinadas pela DGV, uma das seguintes operações:
 
@@ -258,7 +268,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Caso os produtos sejam destruídos, utilizados para outros fins, reexpedidos para o país de origem ou objecto de operações de neutralização da nocividade ao abrigo do n.º 1 do artigo 14.º, o Estado membro de destino deve entrar imediatamente em contacto com o Estado membro de expedição, que deve tomar todas as medidas necessárias e comunicar ao Estado-membro de destino a natureza dos controlos efectuados, os seus resultados, as decisões tomadas e os motivos dessas decisões.
 
@@ -268,7 +280,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -284,7 +298,9 @@ c) ...
 
 4 - Aquando da colocação em livre prática dos produtos deve ser emitido pela DGV ou pelas DRA, consoante o caso, em quadruplicado, um documento, conforme modelo a aprovar por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director-geral de Veterinária, destinando-se o original a acompanhar o produto e as cópias à DGAIEC, ao importador e ao posto de inspecção fronteiriço.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -308,23 +324,31 @@ e) ...
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
 2 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director do LNIV, é aprovada a lista de laboratórios acreditados para a realização das análises previstas no programa nacional de controlo no âmbito da alimentação animal.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - As infracções ao disposto nos n.os 2 e 3 do artigo 3.º, nos n.os 2 e 3 do artigo 4.º, no artigo 5.º, no artigo 6.º, no artigo 7.º e no n.º 2 do artigo 9.º, sempre que não sejam puníveis nos termos do Decreto-Lei n.º 28/84, de 20 de Janeiro, constituem contra-ordenações puníveis com coima cujo montante mínimo é de (euro) 249,40 e o máximo de (euro) 3740,98 ou (euro) 44891,81, consoante o agente seja pessoa singular ou colectiva.
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -344,7 +368,9 @@ g) ...
 
 3 - Sem prejuízo do disposto no n.º 1 do presente artigo, pode ser ordenada a inutilização dos aditivos, pré-misturas ou alimentos compostos produzidos em unidades que não respeitem os requisitos de aprovação dos estabelecimentos referidos nas alíneas a), b), c), d), e), f) e g) do n.º 1 do artigo 4.º e nas alíneas a), b), c) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 216/99, de 15 de Junho.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -360,13 +386,17 @@ c) ...
 
 d) ...
 
-###### Artigo 23.º — Controlo, fiscalização e penalidades nas Regiões Autónomas
+Artigo 23.º
+
+Controlo, fiscalização e penalidades nas Regiões Autónomas
 
 1 - Nas Regiões Autónomas dos Açores e da Madeira a execução administrativa do presente diploma e suas disposições regulamentares cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV, na qualidade de autoridade nacional competente no domínio da alimentação animal.
 
 2 - A percentagem prevista na alínea d) do n.º 3 do artigo anterior, proveniente das coimas aplicadas nas Regiões Autónomas dos Açores e da Madeira, constitui receita própria de cada uma delas.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -386,9 +416,13 @@ Plano operacional de intervenção
 
 2 - A DGV e as DRA devem rever o plano a que se refere o número anterior consoante as necessidades, nomeadamente em função da evolução da organização dos serviços de controlo e da experiência adquirida, incluindo a resultante de eventuais exercícios de simulação.
 
-### CAPÍTULO V — Sistema de informação relativo aos riscos decorrentes dos alimentos para animais
+CAPÍTULO V
 
-###### Artigo 19.º-A — Informações a prestar pelos responsáveis dos estabelecimentos
+Sistema de informação relativo aos riscos decorrentes dos alimentos para animais
+
+Artigo 19.º-A
+
+Informações a prestar pelos responsáveis dos estabelecimentos
 
 1 - Os responsáveis pelos estabelecimentos ficam obrigados a informar imediatamente a DGV sempre que disponham de informações que lhes permitam concluir que um lote de produtos, oriundo de países terceiros, destinado à alimentação animal, que tenham introduzido no território da Comunidade, coloquem em circulação, detenham ou sejam proprietários:
 
@@ -400,7 +434,9 @@ b) Não cumpre com uma das disposições do artigo 1.º e constitui, por isso, u
 
 3 - As mesmas obrigações de informação sobre os riscos que representam os produtos destinados à alimentação animal são extensivas aos profissionais que asseguram o acompanhamento sanitário das explorações referidas no artigo 10.º do Decreto-Lei n.º 148/99, de 4 de Maio, relativo às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos, bem como aos responsáveis dos laboratórios que efectuam as análises, podendo as autoridades competentes, se for caso disso, aplicar as disposições previstas nos artigos 8.º, 11.º ou 13.º do mesmo diploma.
 
-###### Artigo 19.º-B — Avaliação do risco
+Artigo 19.º-B
+
+Avaliação do risco
 
 1 - Sempre que a DGV disponha de informações que, com base nos elementos disponíveis de avaliação dos riscos, indiquem que um lote de produtos destinados à alimentação animal apresenta um risco grave para a saúde humana, para a saúde animal ou para o ambiente, deve verificar as informações recebidas e, se for caso disso, deve garantir que sejam tomadas as medidas necessárias para assegurar que o lote não é utilizado na alimentação animal, devendo sujeitá-lo a restrições e investigar imediatamente:
 
@@ -428,15 +464,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 24 de Outubro de 2002.**
+Promulgado em 24 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Outubro de 2002.**
+Referendado em 29 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Republicação
 

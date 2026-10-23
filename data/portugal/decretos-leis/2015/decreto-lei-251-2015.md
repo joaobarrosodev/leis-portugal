@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/251/2015/11/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2015-71100900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b90204fbad8b0be1d6b84a555b4a6aee5de54371c597fe84001e5f3ec1693fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 628ff4c0ebb465358470cf02f76b04cb460e7d64b5c6f2e5915267a988c41297
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,36 +69,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Direção Geral da Saúde
+- Certificação Energética dos Edifícios
+- Certificado de Qualidade
+- Climatização
 - Consumo de Energia
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral da Saúde
+- Direção Geral de Energia e Geologia
 - Edifício Público
-- Climatização
-- Sistema de Certificação Energética
-- União Europeia
+- Eficiência Energética
+- Energia
 - Especificação Técnica
 - Estratégia Nacional para a Energia
 - Fiscalização
-- Direção Geral de Energia e Geologia
-- Certificação Energética dos Edifícios
+- Habitação
+- Informação do Consumidor
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
 - Licenciamento
-- Certificado de Qualidade
-- Informação do Consumidor
-- Energia
 - Poupança de Energia
-- Regulamento
-- Habitação
 - Prédio Urbano
-- Eficiência Energética
-- Agência Portuguesa do Ambiente
+- Regulamento
+- Sistema de Certificação Energética
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:74774858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74774858:por
+  label: Alterados os arts. 2.º, 4.º, 15.º, 23.º, 28.º, 29.º e 33.º do Dec Lei 118/2013 de 20-ago, na redação dada pelo presente
+    diploma pelo(a) Decreto-Lei n.º 28/2016 - Diário da República n.º 119/2016, Série I de 2016-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2016-74774858
+  date: '2016-06-23'
 - type: cites
   target: celex:32002L0091
   label: null
@@ -147,6 +153,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2013/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2013/01/22/p/dre
+- type: cites
+  target: pt:dre:145271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280720:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0091
   label: null
@@ -156,15 +230,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 71
+  article_count: 60
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:16Z'
   warnings: []
   errors: []
 ---
@@ -317,7 +391,9 @@ ggg) [...];
 
 hhh) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -341,7 +417,9 @@ i) [...];
 
 j) [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -365,7 +443,9 @@ c) Os certificados SCE para GES sujeitos a avaliação energética periódica, n
 
 8 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]:
 
@@ -379,7 +459,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -403,7 +485,9 @@ c) [...].
 
 8 - [...].
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Os componentes instalados, intervencionados ou substituídos em sistemas técnicos devem cumprir os requisitos de eficiência e outros definidos em portaria do membro do Governo responsável pela área da energia, sem prejuízo da obrigação geral de melhoria do desempenho energético de edifício ou de parte de edifício que seja sujeito a grande intervenção, na medida em que tal seja possível do ponto de vista técnico, funcional e económico.
 
@@ -425,7 +509,9 @@ c) [...].
 
 7 - [...].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os edifícios de habitação existentes estão sujeitos a requisitos de comportamento térmico no caso das intervenções e a requisitos de eficiência dos sistemas, sempre que se verifique a instalação de novos sistemas técnicos nos edifícios ou a substituição ou melhoria dos sistemas existentes, na medida em que tal seja possível do ponto de vista técnico, funcional e ou económico.
 
@@ -433,7 +519,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]:
 
@@ -447,7 +535,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...].
 
@@ -473,7 +563,9 @@ b) Elaboração de um relatório de avaliação energética, acompanhado dos ele
 
 10 - [...].
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Os edifícios de comércio e serviços sujeitos a intervenção ficam vinculados, nas partes e componentes a intervencionar, pelos requisitos de conceção definidos em portaria dos membros do Governo responsáveis pelas áreas da energia e da segurança social relativos à qualidade térmica e energética da envolvente, nomeadamente no que respeita aos valores máximos:
 
@@ -501,11 +593,15 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Os edifícios de comércio e serviços existentes não estão sujeitos a requisitos de comportamento térmico, exceto em caso de intervenção, caso em que se aplica o disposto no artigo 42.º
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...].
 
@@ -539,15 +635,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de novembro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - João Calvão da Silva - Fernando Mimoso Negrão - Jorge Manuel Lopes Moreira da Silva - Luís Pedro Russo da Mota Soares - Luís Miguel Gubert Morais Leitão.
 
-**Promulgado em 23 de novembro de 2015.**
+Promulgado em 23 de novembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 24 de novembro de 2015.**
+Referendado em 24 de novembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 

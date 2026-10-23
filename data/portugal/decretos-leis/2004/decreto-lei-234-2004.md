@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2004/12/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2004-218295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38d5f0b3bbd5cca5cdf037bff6b92a8fa2ed16ed6c13ac8fa2776ed742fa994c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce1afb1ce52708b5f9bb431fa9d7f23133093592f0cba9543d04e4997b666a8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Adjudicação
 - Adjudicação por Concurso Público
-- Distribuição de Energia Elétrica
-- REDE Pública de Telecomunicações
+- Comunicações
 - Contrato
+- Distribuição de Energia Elétrica
 - Distribuição de Gás
 - Empreitada de Obras Públicas
-- Serviço Público
 - Prestação de Serviços
 - Rede Ferroviária
-- Comunicações
-- Abastecimento de Água
+- REDE Pública de Telecomunicações
+- Serviço Público
 - Transporte de Energia
 relationships:
 - type: cites
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/223/2001/08/09/p/dre
 article_structure:
-  article_count: 22
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:53Z'
   warnings: []
   errors: []
 ---
@@ -144,11 +144,15 @@ Regime
 
 2 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente diploma aplica-se às entidades adjudicantes que exerçam uma ou várias das actividades referidas no artigo 3.º
 
-###### Artigo 3.º — Actividades do sector da água, energia, transportes e telecomunicações
+Artigo 3.º
+
+Actividades do sector da água, energia, transportes e telecomunicações
 
 As actividades abrangidas pelo presente diploma são as seguintes:
 
@@ -164,7 +168,9 @@ c) A exploração de redes de prestação de serviços de transporte público po
 
 d) A colocação à disposição e a exploração de redes públicas de telecomunicações e a prestação ao público de um ou mais serviços públicos de telecomunicações.
 
-###### Artigo 4.º — Actividades excepcionadas
+Artigo 4.º
+
+Actividades excepcionadas
 
 Exceptuam-se do disposto no artigo anterior as seguintes actividades:
 
@@ -180,17 +186,23 @@ iii) A produção de gás ou de calor seja o resultado inevitável do exercício
 
 iv) A alimentação da rede pública se destine apenas a explorar de maneira mais económica a produção de gás ou de calor e não represente mais de 20% do volume de negócios dessa entidade, tomando por referência a média dos três últimos anos, incluindo o ano em curso.
 
-###### Artigo 5.º — Acordos quadro
+Artigo 5.º
+
+Acordos quadro
 
 1 - Entende-se por acordo quadro o contrato entre uma entidade adjudicante e um ou mais empreiteiros, fornecedores de bens ou prestadores de serviços que tem por objecto fixar os termos e condições de contratos, sujeitos ao regime de contratação previsto no presente diploma, a celebrar durante um determinado período, nomeadamente em matéria de preços e, se necessário, de quantidades previstas.
 
 2 - O período dentro do qual serão celebrados os contratos deve ser expressamente fixado no acordo quadro, não podendo exceder, porém, os três anos.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 (Revogado.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -210,11 +222,15 @@ iv) A alimentação da rede pública se destine apenas a explorar de maneira mai
 
 9 - Os contratos não podem ser cindidos nem podem ser utilizados métodos especiais de cálculo do respectivo valor como forma de evitar a aplicação do presente diploma.
 
-###### Artigo 8.º — Valor estimado dos acordos quadro
+Artigo 8.º
+
+Valor estimado dos acordos quadro
 
 O valor estimado de um acordo quadro deve ser calculado com base no valor máximo estimado, nos termos do disposto nos n.os 2 a 5 do artigo anterior, do conjunto dos contratos previstos para o período em causa.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +260,9 @@ b) Natureza e valor dos contratos de prestação de serviços em causa;
 
 c) Outros elementos que a Comissão considere necessários para provar que as relações entre a entidade adjudicante e a empresa com a qual são celebrados os contratos satisfazem os requisitos definidos no presente artigo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O regime previsto no presente diploma não é aplicável aos contratos ou aos concursos para trabalhos de concepção que as entidades adjudicantes celebrem ou organizem para fins diferentes das actividades referidas no artigo 3.º nem para a prossecução dessas actividades num país terceiro, desde que isso não implique a exploração física de uma rede ou de uma área geográfica no interior da União Europeia.
 
@@ -256,13 +274,17 @@ b) Tais contratos se refiram à evacuação ou ao tratamento das águas residuai
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Quando uma entidade adjudicante estabelecer com um ou mais empreiteiros, fornecedores de bens móveis ou prestadores de serviços um acordo quadro respeitante a contratos sujeitos ao regime de contratação previsto no presente diploma, que necessite de celebrar durante um período de tempo determinado, fica dispensada, relativamente a cada um desses contratos, de aplicar o regime previsto no presente diploma, se esse mesmo regime tiver sido observado na celebração do próprio acordo quadro.
 
 2 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +304,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - As entidades adjudicantes incluirão as especificações técnicas no caderno de encargos relativo a cada procedimento de contratação.
 
@@ -312,7 +336,9 @@ e) 'Norma' a especificação técnica aprovada por um organismo com actividade e
 
 f) 'Norma europeia' uma norma aprovada pelo Comité Europeu de Normalização (CEN) ou pelo Comité Europeu de Normalização Electrónica (CENELEC) como 'norma europeia' (EN) ou como 'documento de harmonização' (HD), de acordo com as regras comuns destas organizações, ou pelo Instituto Europeu de Normalização das Telecomunicações (ETSI), em conformidade com as suas próprias regras, como 'norma europeia de telecomunicações' (ETS).
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Se uma proposta apresentar um preço anormalmente baixo, a entidade que procede à respectiva análise deve solicitar, por escrito, em prazo razoável, esclarecimentos sobre os elementos constitutivos da mesma e verificar esses elementos tendo em conta as justificações fornecidas.
 
@@ -322,19 +348,25 @@ f) 'Norma europeia' uma norma aprovada pelo Comité Europeu de Normalização (C
 
 4 - Quando uma entidade adjudicante rejeitar uma proposta com o fundamento referido no número anterior, deverá dar conhecimento desse facto à Comissão Europeia.
 
-###### Artigo 30.º — Prazo mínimo para a apresentação de propostas
+Artigo 30.º
+
+Prazo mínimo para a apresentação de propostas
 
 1 - O prazo para a apresentação das propostas pode ser fixado por mútuo acordo entre a entidade adjudicante e os candidatos seleccionados, desde que seja concedido a todos os candidatos o mesmo tempo para a preparação e apresentação das suas propostas.
 
 2 - Se a entidade adjudicante não optar pelo regime previsto no número anterior ou nos casos em que não seja possível chegar a acordo em relação aos prazos de apresentação das propostas, a entidade adjudicante fixará um prazo que será, em regra geral, de 24 dias, não podendo, em caso algum, ser inferior a 10 dias, a contar da data do convite para a apresentação das propostas.
 
-###### Artigo 32.º — Prazo mínimo para a apresentação de propostas
+Artigo 32.º
+
+Prazo mínimo para a apresentação de propostas
 
 1 - O prazo para a apresentação das propostas pode ser fixado por mútuo acordo entre a entidade adjudicante e os candidatos seleccionados, desde que seja concedido a todos os candidatos o mesmo tempo para a preparação e apresentação das suas propostas.
 
 2 - Se a entidade adjudicante não optar pelo regime previsto no número anterior ou nos casos em que não seja possível chegar a acordo em relação aos prazos de apresentação das propostas, a entidade adjudicante fixará um prazo que será, em regra geral, de 24 dias, não podendo, em caso algum, ser inferior a 10 dias, a contar da data do convite para a apresentação das propostas.
 
-###### Artigo 48.º — Regime do contencioso
+Artigo 48.º
+
+Regime do contencioso
 
 1 - Todos os documentos conformadores dos procedimentos de formação dos contratos previstos no presente diploma, bem como as decisões proferidas pelas entidades adjudicantes ao abrigo do presente diploma, são contenciosamente impugnáveis nos termos estabelecidos no Código de Processo nos Tribunais Administrativos.
 
@@ -382,7 +414,9 @@ a) Possa recorrer a processos de expropriação por utilidade pública ou à con
 
 b) Alimente com água potável, electricidade, gás ou calor uma rede fixa de prestação de serviços ao público que seja explorada por uma outra entidade que goze de direitos especiais ou exclusivos.
 
-###### Artigo 27.º-A — Prazo mínimo para a apresentação de propostas
+Artigo 27.º-A
+
+Prazo mínimo para a apresentação de propostas
 
 1 - O prazo para a apresentação de propostas não pode ser inferior a 52 dias a contar da data do envio do anúncio para publicação no Jornal Oficial da União Europeia.
 
@@ -390,13 +424,17 @@ b) Alimente com água potável, electricidade, gás ou calor uma rede fixa de pr
 
 3 - Para efeitos do disposto no número anterior, o anúncio periódico indicativo deve ter sido enviado para publicação entre um mínimo de 52 dias e um máximo de 12 meses antes da data do envio do anúncio de concurso previsto no n.º 1.
 
-###### Artigo 29.º-A — Prazo mínimo para a apresentação de candidaturas
+Artigo 29.º-A
+
+Prazo mínimo para a apresentação de candidaturas
 
 1 - Se o procedimento de concurso tiver sido iniciado com a publicação de um anúncio segundo o modelo B constante do anexo III, o prazo para a apresentação das candidaturas não pode ser inferior a 37 dias a contar da data do envio do anúncio para publicação no Jornal Oficial da União Europeia.
 
 2 - Se o procedimento de concurso tiver sido iniciado através da publicação de um anúncio periódico indicativo, a entidade adjudicante deve convidar as entidades que hajam manifestado interesse em participar no procedimento de negociação a confirmar esse interesse, solicitando-lhes para o efeito que, num prazo não inferior a 37 dias, apresentem os respectivos pedidos de participação.
 
-###### Artigo 31.º-A — Prazo mínimo para a apresentação de candidaturas
+Artigo 31.º-A
+
+Prazo mínimo para a apresentação de candidaturas
 
 1 - Se o procedimento por negociação tiver sido iniciado com a publicação de um anúncio segundo o modelo C constante do anexo III, o prazo para a apresentação das candidaturas não pode ser inferior a 37 dias a contar da data do envio do anúncio para publicação no Jornal Oficial da União Europeia.
 
@@ -408,12 +446,12 @@ O presente diploma entra em vigor 30 dias a contar da data da sua publicação e
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 22 de Novembro de 2004.**
+Promulgado em 22 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 2004.**
+Referendado em 25 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

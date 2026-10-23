@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/616-1972-690203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42db13e7f08e53a0fbb6c80c84c551115ab6f46bbf063fb41f32241c1937fb76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08a5142036dbf5c4bbb91ad299c1d1849115b90c09746a70388a82f21fadafbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,32 @@ relationships:
   target: pt:dre:252002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252002:por
+  label: Determinado, no sentido clarificar, que o art 51.º e as als. c) e g) do art. 8 e a supressão dos §§ 2.º e 3.º do
+    art. 8.º e a passagem do seu § 1.º a único do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha
+    Mercante e da Pesca (RIM), aprovado pelo Dec Lei 45969, de 15-out 1964, na redação do presente diploma, pelo(a) Portaria
+    n.º 283/77 - Diário da República n.º 118/1977, Série I de 1977-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/283-1977-252002
+  date: '1977-05-21'
+- type: cites
+  target: pt:dre:147454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:43Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +115,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1. As alíneas c) e g) do corpo do artigo 8.º e o artigo 51.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca, aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 ...
 
@@ -113,7 +129,7 @@ g) Autorização do pai, mãe, tutor ou encarregado da educação, quando for me
 
 ...
 
-###### Art. 51.º A categoria de enfermeiro será atribuída ao indivíduo do sexo masculino ou feminino que apresente os seguintes documentos:
+Art. 51.º A categoria de enfermeiro será atribuída ao indivíduo do sexo masculino ou feminino que apresente os seguintes documentos:
 
 a) Documento comprovativo de estar habilitado para o exercício da enfermagem geral e, para tal, estar registado em organismo administrativo competente;
 
@@ -125,7 +141,7 @@ b) Carteira profissional de enfermeiro.
 
 3. Ao artigo 60.º do mesmo Regulamento é acrescentado um § único, com a seguinte redacção:
 
-###### Art. 60.º ...
+Art. 60.º ...
 
 § único. O inscrito marítimo que tenha cinco anos de embarque como pescador, durante os quais tenha adquirido a categoria de marinheiro-pescador há pelo menos três anos, poderá igualmente adquirir a carta de contramestre-pescador, desde que prove, por exame, estar habilitado ao desempenho destas funções.
 

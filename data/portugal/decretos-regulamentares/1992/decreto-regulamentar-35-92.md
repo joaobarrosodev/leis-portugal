@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/35/1992/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1992-624265
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c379c03e945afb99d489a56dcafbd9452bfea166ed351b15e6a4124f8699bae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2767ec26df4fe4f90f344ee559afe46ea86188b5fcbd87c402ac734ed5773f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Geral de Planeamento e Agricultura
 - Carreira Profissional
+- Direcção Geral de Planeamento e Agricultura
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 - Reestruturação de Carreiras
@@ -76,16 +76,24 @@ relationships:
   target: pt:dre:515999:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:17Z'
   warnings: []
   errors: []
 ---
@@ -104,26 +112,26 @@ Assim:
 
 Ao abrigo do disposto nos artigos 37.º e 45.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O pessoal provido na categoria de técnico auxiliar especialista da carreira de desenhador do quadro de pessoal da Direcção-Geral de Planeamento e Agricultura que vem desempenhando funções de desenhador de artes gráficas transita para a categoria de técnico-adjunto especialista da carreira de desenhador de artes gráficas, em escalão a que corresponda remuneração igual à que aufere ou, na falta de coincidência, no escalão imediatamente superior da estrutura salarial da nova categoria.
+Artigo 1.º O pessoal provido na categoria de técnico auxiliar especialista da carreira de desenhador do quadro de pessoal da Direcção-Geral de Planeamento e Agricultura que vem desempenhando funções de desenhador de artes gráficas transita para a categoria de técnico-adjunto especialista da carreira de desenhador de artes gráficas, em escalão a que corresponda remuneração igual à que aufere ou, na falta de coincidência, no escalão imediatamente superior da estrutura salarial da nova categoria.
 
-###### Art. 2.º Com a transição referida no número anterior extinguem-se os lugares de desenhador do grupo de pessoal técnico-profissional, nível 3, constantes do mapa I anexo ao [Decreto Regulamentar n.º 24/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1988-372057), de 9 de Junho.
+Art. 2.º Com a transição referida no número anterior extinguem-se os lugares de desenhador do grupo de pessoal técnico-profissional, nível 3, constantes do mapa I anexo ao [Decreto Regulamentar n.º 24/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1988-372057), de 9 de Junho.
 
-###### Art. 3.º A dotação da carreira de desenhador de artes gráficas constante do anexo I ao [Decreto Regulamentar n.º 24/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1988-372057), de 9 de Junho, passa a ser a constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 3.º A dotação da carreira de desenhador de artes gráficas constante do anexo I ao [Decreto Regulamentar n.º 24/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1988-372057), de 9 de Junho, passa a ser a constante do mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Presidência do Conselho de Ministros, 6 de Outubro de 1992.
 
 Aníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.
 
-**Promulgado em 24 de Novembro de 1992.**
+Promulgado em 24 de Novembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Novembro de 1992.**
+Referendado em 25 de Novembro de 1992.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/294b00/59005901.pdf))](https://files.diariodarepublica.pt/1s/1992/12/294b00/59005901.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/12/294b00/59005901.pdf)

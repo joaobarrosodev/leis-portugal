@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/06/11700/0000800032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2023/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7750151b79791420fd770fff23b60fe09fa94e32fb9d50ae4d96b28fed204aec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2926b5e6862f2df8f556a3432c79b651050a37ba0774f4239e8e7eabba49b11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ subjects:
 - Aproximação das Legislações
 - Arbitragem
 - Autorização Legislativa
+- Base de Dados
 - Centro de Arbitragem
 - Código do Direito de Autor e dos Direitos Conexos
-- Regulamentação de Atos Legislativos
-- Direito de Autor
-- Património Cultural
-- Gabinete de Estratégia Planeamento e Avaliação Culturais
-- Imprensa
-- Base de Dados
-- Sociedade da Informação
-- Direito de Estabelecimento
+- Conteúdo Digital
 - Direção Geral da Política de Justiça
+- Direito de Autor
+- Direito de Estabelecimento
+- Distribuição Digital
+- Gabinete de Estratégia Planeamento e Avaliação Culturais
+- idD - Portugal Defence
+- Imprensa
+- Património Cultural
 - Prazo
 - Propriedade Intelectual
 - Protecção à Actividade Artística
+- Regulamentação de Atos Legislativos
+- Sociedade da Informação
 - Taxa
-- Conteúdo Digital
-- Distribuição Digital
-- idD - Portugal Defence
 relationships:
 - type: cites
   target: celex:31996L0009
@@ -159,6 +159,110 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:108041479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122920907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124417105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136678512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165036155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210531713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970759:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31996L0009
   label: null
@@ -168,15 +272,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 58
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:47:08Z'
   warnings: []
   errors: []
 ---
@@ -277,7 +381,9 @@ Os artigos 14.º, 26.º-A, 31.º, 75.º, 76.º, 82.º, 105.º, 144.º, 149.º, 1
 
 5 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 2 a 4 do artigo 44.º-C e no artigo 44.º-D.
 
-###### Artigo 26.º-A — [...]
+Artigo 26.º-A
+
+[...]
 
 1 - [...]
 
@@ -299,13 +405,17 @@ Os artigos 14.º, 26.º-A, 31.º, 75.º, 76.º, 82.º, 105.º, 144.º, 149.º, 1
 
 10 - O disposto nos números anteriores e no artigo seguinte é aplicável, com as devidas adaptações, às prestações artísticas, aos fonogramas e aos videogramas.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A caducidade só opera a partir do dia 1 de janeiro do ano seguinte ao termo do prazo referido no número anterior.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - [...]
 
@@ -373,7 +483,9 @@ a) 'Organismo de investigação' uma universidade, incluindo as suas bibliotecas
 
 b) 'Prospeção de textos e dados' qualquer técnica de análise automática destinada à análise de textos e dados em formato digital, a fim de produzir informações, tais como padrões, tendências e correlações, entre outros.
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - [...]
 
@@ -397,7 +509,9 @@ d) [...]
 
 7 - As utilizações previstas nas alíneas g) e y) do n.º 2 do artigo anterior devem ser consideradas como ocorrendo exclusivamente no território do Estado-Membro da União Europeia onde o estabelecimento de ensino ou a instituição responsável pelo património cultural que procedam às utilizações em causa se encontrem estabelecidos.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...]
 
@@ -405,7 +519,9 @@ d) [...]
 
 3 - O disposto no n.º 1 não se aplica quando os aparelhos e suportes ali mencionados sejam adquiridos por órgãos de comunicação social e organismos de comunicação audiovisual ou produtores de fonogramas e videogramas exclusivamente para as suas próprias produções ou por organismos que os utilizem para fins exclusivos de auxílio a diminuídos físicos visuais ou auditivos.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - [...]
 
@@ -419,7 +535,9 @@ d) [...]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - [...]
 
@@ -427,7 +545,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - [...]
 
@@ -437,13 +557,17 @@ d) [...]
 
 4 - A autorização para os atos de comunicação ao público de obras incorporadas em fonogramas ou videogramas editados comercialmente, previstos nos n.os 3 e 4 do artigo 205.º, pode ser objeto de gestão coletiva, com efeitos alargados, pelas entidades de gestão coletiva representativas dos autores, aplicando-se para o efeito o disposto nos artigos 36.º-A e 36.º-B da [Lei n.º 26/2015](https://diariodarepublica.pt/dr/detalhe/lei/26-2015-66970759), de 14 de abril, na sua redação atual.
 
-###### Artigo 170.º — [...]
+Artigo 170.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - À determinação do montante da remuneração prevista no número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 3 e 4 do artigo 44.º-C e no artigo 44.º-D.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 1 - As prestações dos artistas intérpretes ou executantes, dos produtores de fonogramas e de videogramas, dos editores de imprensa e dos organismos de radiodifusão são protegidas nos termos do presente título.
 
@@ -479,7 +603,9 @@ iv) Não sejam publicações periódicas com fins científicos ou académicos, o
 
 b) 'Editor de imprensa' é a pessoa singular ou coletiva sob cuja iniciativa e responsabilidade é publicada a publicação de imprensa, incluindo, nomeadamente, as empresas jornalísticas, e prestadores de serviços, como os editores de notícias e as agências noticiosas, quando publicam publicações de imprensa na aceção da alínea anterior.
 
-###### Artigo 183.º — [...]
+Artigo 183.º
+
+[...]
 
 1 - [...]
 
@@ -497,7 +623,9 @@ b) 'Editor de imprensa' é a pessoa singular ou coletiva sob cuja iniciativa e r
 
 8 - Aos prazos de caducidade previstos no presente artigo é aplicável o disposto no n.º 2 do artigo 31.º
 
-###### Artigo 184.º — [...]
+Artigo 184.º
+
+[...]
 
 1 - [...]
 
@@ -509,7 +637,9 @@ b) 'Editor de imprensa' é a pessoa singular ou coletiva sob cuja iniciativa e r
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - [...]
 
@@ -529,13 +659,17 @@ f) [...]
 
 3 - O disposto nos artigos 75.º e 76.º é aplicável aos direitos conexos, em tudo o que for compatível com a natureza destes direitos.
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - As disposições da secção xi do capítulo iii do título ii aplicam-se, com as necessárias adaptações, ao exercício dos direitos conexos para as utilizações em linha.
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - Comete o crime de usurpação quem, sem autorização do autor ou do artista, do produtor de fonograma e videograma, do organismo de radiodifusão ou do editor de publicação de imprensa, utilizar uma obra ou prestação por qualquer das formas previstas no presente Código.
 
@@ -553,7 +687,9 @@ c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonogra
 
 5 - A conduta não é punível quando o prestador de serviços de partilha de conteúdos em linha cumpra as condições previstas, consoante os casos, no n.º 1 do artigo 175.º-C ou nos n.os 1 e 2 do artigo 175.º-D.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - Comete o crime de contrafação quem utilizar, como sendo criação ou prestação sua, obra, prestação de artista, fonograma, videograma, emissão de radiodifusão ou publicação de imprensa, que seja mera reprodução total ou parcial de obra ou prestação alheia, divulgada ou não divulgada, ou por tal modo semelhante que não tenha individualidade própria.
 
@@ -563,7 +699,9 @@ c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonogra
 
 4 - [...]
 
-###### Artigo 217.º — [...]
+Artigo 217.º
+
+[...]
 
 1 - [...]
 
@@ -573,7 +711,9 @@ c) Quem, estando autorizado a utilizar uma obra, prestação de artista, fonogra
 
 4 - [...]
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - [...]
 
@@ -617,11 +757,15 @@ g) [Anterior alínea e).]
 
 3 - São correspondentemente aplicáveis às alíneas e) e f) do n.º 1 os n.os 4 a 7 do artigo 76.º do Código do Direito de Autor e dos Direitos Conexos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Quem, não estando para tanto autorizado, reproduzir, divulgar, comunicar ou colocar à disposição do público, com fins comerciais diretos ou indiretos, uma base de dados protegida nos termos do n.º 1 do artigo 4.º e do artigo 12.º é punido com pena de prisão até 3 anos ou com pena de multa.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 [...]
 
@@ -647,13 +791,17 @@ Obras de arte visual no domínio público
 
 Depois de expirado o prazo de proteção de uma obra de arte visual, qualquer material resultante de um ato de reprodução dessa obra no domínio público só é protegido por direito de autor ou direito conexo se for original, resultando da criação intelectual do seu próprio autor.
 
-###### Artigo 44.º-A — Princípio de remuneração adequada e proporcionada
+Artigo 44.º-A
+
+Princípio de remuneração adequada e proporcionada
 
 1 - Caso os autores ou os artistas, intérpretes ou executantes, concedam a terceiros uma licença ou transfiram os seus direitos sobre uma obra ou outros materiais protegidos, para exploração, têm direito a receber uma remuneração adequada e proporcionada.
 
 2 - Na aplicação deste princípio e do disposto nos artigos seguintes, devem ser tidos em conta o princípio da liberdade contratual, as práticas e os usos do mercado e do setor cultural específico em causa e o contributo individual do titular originário para o conjunto da obra ou de outro material protegido, com vista a alcançar um equilíbrio justo de direitos e interesses.
 
-###### Artigo 44.º-B — Dever de informação
+Artigo 44.º-B
+
+Dever de informação
 
 1 - As contrapartes a quem sejam conferidas licenças exclusivas ou para as quais sejam transferidos direitos de exploração comercial de obras ou outros materiais protegidos, sob qualquer modalidade, bem como os seus sucessores legais, devem prestar aos autores e artistas, intérpretes ou executantes, ou a quem legitimamente os represente, informações atualizadas pertinentes e exaustivas sobre a exploração das suas obras e prestações, nomeadamente sobre o modo de exploração, bem como sobre todas as receitas obtidas pela contraparte em virtude da exploração comercial da obra e sobre as remunerações devidas.
 
@@ -675,7 +823,9 @@ Depois de expirado o prazo de proteção de uma obra de arte visual, qualquer ma
 
 10 - Sempre que o destinatário da informação prestada nos termos do presente artigo tiver acesso a informações sujeitas pelas partes a obrigações de sigilo ou de confidencialidade, está subordinado a tais obrigações e apenas pode utilizar as informações obtidas na medida do necessário para o exercício dos seus direitos.
 
-###### Artigo 44.º-C — Remuneração adicional
+Artigo 44.º-C
+
+Remuneração adicional
 
 1 - Os autores, artistas, intérpretes ou executantes, ou os seus representantes têm o direito de reclamar uma remuneração adicional, adequada e justa, à parte com quem celebraram um contrato de exploração dos seus direitos, ou aos seus sucessores legais, sempre que a remuneração inicialmente acordada se revele desproporcionadamente baixa relativamente a todas as receitas relevantes subsequentes, decorrentes da exploração das suas obras ou prestações e tais receitas se revelarem significativamente mais elevadas que aquelas que as partes poderiam estimar no momento da celebração do contrato.
 
@@ -693,7 +843,9 @@ c) As especificidades e as práticas de remuneração aplicáveis aos diferentes
 
 5 - O disposto no presente artigo não é aplicável aos contratos de licenciamento coletivo celebrados através de entidades de gestão coletiva do direito de autor e de direitos conexos.
 
-###### Artigo 44.º-D — Procedimento de resolução alternativa de litígios
+Artigo 44.º-D
+
+Procedimento de resolução alternativa de litígios
 
 1 - Os litígios relativos ao dever de informação previsto no artigo 44.º-B ou relativos à remuneração adicional a que se refere o artigo anterior podem ser submetidos pelas partes a centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º [47/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), de 19 de junho, ou à arbitragem nos termos da Lei da Arbitragem Voluntária, aprovada em anexo à [Lei n.º 63/2011](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), de 14 de dezembro.
 
@@ -701,7 +853,9 @@ c) As especificidades e as práticas de remuneração aplicáveis aos diferentes
 
 3 - As entidades de gestão coletiva representativas de autores e de artistas, intérpretes ou executantes têm legitimidade para iniciar e intervir nos procedimentos referidos no número anterior sempre que expressamente mandatadas pelos respetivos titulares de direitos.
 
-###### Artigo 44.º-E — Direito de revogação
+Artigo 44.º-E
+
+Direito de revogação
 
 1 - Sempre que um autor ou um artista, intérprete ou executante conceda uma licença ou transfira os seus direitos sobre uma obra ou prestação, em regime de exclusividade, pode revogar, no todo ou em parte, aquela licença ou transmissão, em caso de falta de exploração da obra ou de outros materiais protegidos.
 
@@ -723,7 +877,9 @@ c) As especificidades e as práticas de remuneração aplicáveis aos diferentes
 
 10 - A revogação prevista no presente artigo não é oponível a terceiros para os quais os direitos tenham sido validamente transferidos ou aos quais tenha sido validamente concedida uma licença pela contraparte contratual do autor ou artista, intérprete ou executante, em momento anterior ao exercício do direito de revogação, exceto se a falta de exploração da obra ou de outros materiais protegidos lhes for imputável, caso em que se aplica o regime previsto nos números anteriores.
 
-###### Artigo 44.º-F — Caráter imperativo
+Artigo 44.º-F
+
+Caráter imperativo
 
 1 - Qualquer disposição contratual que obste ao cumprimento dos artigos 44.º-B a 44.º-D é considerada nula, não produzindo quaisquer efeitos em relação aos autores ou aos artistas, intérpretes ou executantes.
 
@@ -731,7 +887,9 @@ c) As especificidades e as práticas de remuneração aplicáveis aos diferentes
 
 3 - O disposto nos artigos 44.º-A a 44.º-E não se aplica aos autores de programas de computador.
 
-###### Artigo 74.º-A — Obra fora do circuito comercial e instituição responsável pelo património cultural
+Artigo 74.º-A
+
+Obra fora do circuito comercial e instituição responsável pelo património cultural
 
 1 - Considera-se que uma obra ou outro material protegido estão fora do circuito comercial quando se possa presumir de boa-fé que a obra ou outro material protegido não estão, na sua totalidade, acessíveis ao público através dos canais habituais de comércio, depois de se efetuar um esforço razoável para se determinar a sua disponibilidade ao público.
 
@@ -761,7 +919,9 @@ a) 'Instituição responsável pelo património cultural' uma biblioteca ou um m
 
 b) Que uma obra ou outro material protegido é parte integrante e permanente das coleções de uma instituição responsável pelo património cultural quando as cópias dessa obra ou outro material protegido sejam propriedade ou estejam definitivamente na posse dessa instituição, nomeadamente na sequência de transferências de propriedade, acordos de concessão de licenças, obrigações de depósito legal ou acordos de custódia a longo prazo.
 
-###### Artigo 74.º-B — Utilizações de obras fora do circuito comercial
+Artigo 74.º-B
+
+Utilizações de obras fora do circuito comercial
 
 1 - Uma entidade de gestão coletiva pode atribuir a uma instituição responsável pelo património cultural uma licença não exclusiva para reproduzir, distribuir, comunicar ao público ou colocar à disposição do público obras ou outros materiais protegidos que, estando fora do circuito comercial, integrem, com caráter permanente, as coleções dessa mesma instituição, nos termos do presente artigo.
 
@@ -773,7 +933,9 @@ b) Que uma obra ou outro material protegido é parte integrante e permanente das
 
 5 - São excluídas do âmbito das licenças quaisquer utilizações com fins lucrativos, sem prejuízo da possibilidade de as instituições responsáveis pelo património cultural poderem obter receitas com tais utilizações, desde que demonstrem que as mesmas se destinam exclusivamente a cobrir os custos com a licença e os custos inerentes aos processos técnicos diretamente relacionados com a digitalização e disponibilização das obras ou outros materiais protegidos.
 
-###### Artigo 74.º-C — Procedimento e publicitação
+Artigo 74.º-C
+
+Procedimento e publicitação
 
 1 - Às licenças previstas no artigo anterior é aplicável o previsto nos artigos 36.º-A e 36.º-B da [Lei n.º 26/2015](https://diariodarepublica.pt/dr/detalhe/lei/26-2015-66970759), de 14 de abril, na sua redação atual, e o disposto nos números seguintes.
 
@@ -781,7 +943,9 @@ b) Que uma obra ou outro material protegido é parte integrante e permanente das
 
 3 - As informações referidas no número anterior devem ser publicitadas no sítio na Internet das entidades de gestão coletiva de direito de autor e direitos conexos, e comunicadas ao portal público em linha criado e gerido pelo Instituto da Propriedade Intelectual da União Europeia, nos termos do [Regulamento (UE) n.º 386/2012](https://data.europa.eu/eli/reg/2012/386/oj?locale=pt), do Parlamento e do Conselho, de 19 de abril de 2012.
 
-###### Artigo 74.º-D — Utilizações livres de obra fora do circuito comercial
+Artigo 74.º-D
+
+Utilizações livres de obra fora do circuito comercial
 
 1 - Caso não exista uma entidade de gestão coletiva que satisfaça as condições estabelecidas nos artigos anteriores, bem como na legislação complementar relativa a entidades de gestão coletiva, as instituições responsáveis pelo património cultural podem proceder à reprodução, comunicação ao público e colocação à disposição do público de obras ou outros materiais protegidos, fora do circuito comercial, que tenham sido publicadas, comunicadas ao público ou colocadas à disposição do público em data anterior a 1 de janeiro de 1980 e que façam parte com caráter permanente das suas coleções, desde que essas obras ou outros materiais protegidos sejam disponibilizados em sítios na Internet não comerciais.
 
@@ -795,13 +959,17 @@ c) Não podem ter quaisquer fins comerciais diretos ou indiretos.
 
 3 - É aplicável às utilizações previstas no n.º 1 o disposto no n.º 4 do artigo 75.º e no n.º 1 do artigo 221.º
 
-###### Artigo 74.º-E — Mecanismos de negociação
+Artigo 74.º-E
+
+Mecanismos de negociação
 
 1 - Quando as partes interessadas em celebrar um acordo, com vista a obter uma autorização para a utilização de obras audiovisuais em serviços de vídeo a pedido, não alcancem um acordo relativo aos termos e condições do acordo, podem recorrer a centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º [47/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), de 19 de junho.
 
 2 - Nas situações previstas no número anterior, os mediadores devem prestar assistência às partes nas negociações e ajudá-las a chegar a acordo, apresentando-lhes, nomeadamente, se for caso disso, propostas para o efeito.
 
-###### Artigo 175.º-A — Definições
+Artigo 175.º-A
+
+Definições
 
 1 - Para efeitos do disposto na presente secção, entende-se por:
 
@@ -827,7 +995,9 @@ g) Os serviços em nuvem que permitem ao seu utilizador carregar conteúdos para
 
 3 - Os mecanismos de isenção de responsabilidade previstos no artigo 175.º-C não são aplicáveis a prestadores de serviços cujo principal objetivo seja realizar ou facilitar a infração de direitos de autor e direitos conexos.
 
-###### Artigo 175.º-B — Utilização de conteúdos protegidos por prestadores de serviços de partilha de conteúdos em linha
+Artigo 175.º-B
+
+Utilização de conteúdos protegidos por prestadores de serviços de partilha de conteúdos em linha
 
 1 - Constitui um ato de comunicação ao público, ou de colocação à disposição do público, por parte de prestadores de serviços de partilha de conteúdos em linha, a disponibilização ao público do acesso a obras ou outros materiais protegidos por direitos de autor ou direitos conexos, carregados pelos utilizadores daqueles serviços.
 
@@ -837,7 +1007,9 @@ g) Os serviços em nuvem que permitem ao seu utilizador carregar conteúdos para
 
 4 - Quando os prestadores de serviços de partilha de conteúdos em linha praticam atos de comunicação ao público ou colocação à disposição do público nos termos do n.º 1, não são aplicáveis as limitações de responsabilidade dos prestadores intermediários de serviços em linha previstas no artigo 16.º do [Decreto-Lei n.º 7/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2004-240775), de 7 de janeiro, na sua redação atual, sem prejuízo da aplicabilidade de tais limitações a outras atividades desenvolvidas por aqueles prestadores de serviços.
 
-###### Artigo 175.º-C — Atos de comunicação ao público não autorizados
+Artigo 175.º-C
+
+Atos de comunicação ao público não autorizados
 
 1 - Os prestadores de serviços de partilha de conteúdos em linha são responsáveis pelos atos de comunicação ao público ou de colocação à disposição do público de obras e outros materiais protegidos por direitos de autor, caso não lhes tenha sido concedida uma autorização nos termos referidos no artigo anterior, exceto se os prestadores demonstrarem que, cumulativamente:
 
@@ -861,7 +1033,9 @@ d) O custo dos meios referidos na alínea anterior para os prestadores de servi�
 
 4 - As obrigações de remoção de conteúdos previstas no n.º 1, impostas aos prestadores de serviços de partilha de conteúdos em linha, não impedem a manutenção de cópias dos mesmos, não acessíveis aos utilizadores destes serviços sempre que tal se afigure necessário para impedir novos carregamentos de conteúdos não autorizados.
 
-###### Artigo 175.º-D — Limitação de obrigações quanto a novos prestadores de serviços de partilha de conteúdos em linha
+Artigo 175.º-D
+
+Limitação de obrigações quanto a novos prestadores de serviços de partilha de conteúdos em linha
 
 1 - Os novos prestadores de serviços de partilha de conteúdos em linha cujos serviços tenham sido disponibilizados ao público na União Europeia por um período inferior a três anos podem beneficiar do regime de exclusão de responsabilidade previsto no n.º 1 do artigo anterior desde que demonstrem cumulativamente que:
 
@@ -877,13 +1051,17 @@ d) Agiram, de forma diligente, após receção de uma notificação suficienteme
 
 3 - No juízo sobre a aplicação do regime previsto no presente artigo a um serviço de partilha de conteúdos em linha, deve acautelar-se, especialmente, que este regime não seja utilizado de forma abusiva, mediante disposições que visem prolongar os seus benefícios para além dos primeiros três anos, devendo nomeadamente excluir-se tal aplicação a serviços criados há menos de três anos ou prestados sob nova designação, mas que exercem materialmente a atividade de um prestador de serviços de partilha de conteúdos em linha já existente que não possa beneficiar deste regime ou que deixou de beneficiar do mesmo.
 
-###### Artigo 175.º-E — Dever de informação
+Artigo 175.º-E
+
+Dever de informação
 
 1 - Os prestadores de serviços de partilha de conteúdos em linha devem facultar aos titulares de direitos, a pedido destes, com a maior brevidade possível, informações adequadas sobre o funcionamento das suas práticas no que respeita ao disposto nos artigos 175.º-C e 175.º-D e, no caso de serem concedidas autorizações ou concluídos acordos de licenciamento, entre prestadores de serviços e titulares de direitos, informações sobre a utilização dos conteúdos abrangidos pelos referidos acordos.
 
 2 - Os prestadores de serviços de partilha de conteúdos em linha devem informar os seus utilizadores, nas suas condições gerais, da possibilidade de utilizarem obras e outros materiais protegidos ao abrigo das exceções e limitações ao direito de autor e direitos conexos previstas no presente decreto-lei ou em qualquer outra fonte de Direito da União, bem como dos procedimentos referidos no artigo seguinte.
 
-###### Artigo 175.º-F — Procedimento de reclamação e reapreciação
+Artigo 175.º-F
+
+Procedimento de reclamação e reapreciação
 
 1 - Os prestadores de serviços de partilha de conteúdos em linha devem criar e disponibilizar um mecanismo de reclamação e recurso eficaz e rápido, disponível para todos os utilizadores dos respetivos serviços, aos quais estes possam recorrer para reclamar contra a remoção ou bloqueio indevidos de obras ou outros materiais protegidos por eles carregados, designadamente para permitir as utilizações livres previstas nas alíneas h) e x) do n.º 2 do artigo 75.º
 
@@ -899,19 +1077,27 @@ d) Agiram, de forma diligente, após receção de uma notificação suficienteme
 
 7 - Os procedimentos referidos no presente artigo devem estar disponíveis e ser processados em língua portuguesa.
 
-###### Artigo 175.º-G — Resolução alternativa de litígios
+Artigo 175.º-G
+
+Resolução alternativa de litígios
 
 Os conflitos entre os prestadores de serviços de partilha de conteúdos em linha e os utilizadores dos respetivos serviços, emergentes da remoção ou bloqueio de obras ou outros materiais protegidos por eles carregados, estão sujeitos a arbitragem necessária quando, por opção expressa dos referidos utilizadores, sejam submetidos à apreciação de centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º [47/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), de 19 de junho.
 
-###### Artigo 175.º-H — Proteção de dados pessoais
+Artigo 175.º-H
+
+Proteção de dados pessoais
 
 O disposto na presente secção não prejudica nem afasta a aplicação do [Regulamento (UE) n.º 2016/679](https://data.europa.eu/eli/reg/2016/679/oj?locale=pt) do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e da [Lei n.º 58/2019](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), de 8 de agosto.
 
-###### Artigo 175.º-I — Disponibilidade de conteúdos
+Artigo 175.º-I
+
+Disponibilidade de conteúdos
 
 O disposto na presente secção não pode resultar na indisponibilidade de obras ou outro material protegido carregado por utilizadores de serviços de partilha de conteúdos em linha que não violem direitos de autor e direitos conexos, nomeadamente as utilizações abrangidas por uma exceção ou limitação.
 
-###### Artigo 188.º-A — Proteção de publicações de imprensa em utilizações em linha
+Artigo 188.º-A
+
+Proteção de publicações de imprensa em utilizações em linha
 
 1 - Assiste aos editores de imprensa estabelecidos num Estado-Membro da União Europeia o direito exclusivo de fazer ou autorizar, por si ou pelos seus representantes, aos prestadores de serviços da sociedade de informação, toda e qualquer reprodução, comunicação ao público ou colocação à disposição do público, total ou parcial, das suas publicações de imprensa em linha, de forma a torná-las acessíveis a qualquer pessoa a partir do local e no momento por ela escolhido.
 
@@ -935,7 +1121,9 @@ c) À utilização de termos isolados ou de excertos muito curtos de publicaçõ
 
 8 - Os litígios entre os editores de imprensa e os prestadores de serviços da sociedade de informação, relativos ao disposto no presente artigo, e à aplicação do n.º 4 do artigo seguinte, bem como os litígios entre os editores de imprensa e os autores relativos à aplicação do n.º 6 do artigo seguinte, estão sujeitos a arbitragem necessária quando, por opção expressa, respetivamente, dos editores de imprensa ou do autor, sejam submetidos à apreciação de centro de arbitragem institucionalizada a que se reporta o artigo 8.º do Decreto-Lei n.º [47/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2023-214524782), de 19 de junho.
 
-###### Artigo 188.º-B — Remuneração
+Artigo 188.º-B
+
+Remuneração
 
 1 - Sempre que os direitos referidos no artigo anterior forem exercidos através de uma entidade de gestão coletiva, à fixação dos montantes das respetivas remunerações aplica-se o disposto na [Lei n.º 26/2015](https://diariodarepublica.pt/dr/detalhe/lei/26-2015-66970759), de 14 de abril, na sua redação atual, em matéria de fixação de tarifários gerais.
 
@@ -987,7 +1175,9 @@ Licenças coletivas com efeitos alargados
 
 10 - Salvo disposição especial em contrário, os efeitos das licenças conferidas nos termos do presente artigo são limitados a utilizações que ocorram no território nacional.
 
-###### Artigo 36.º-B — Procedimento e publicitação
+Artigo 36.º-B
+
+Procedimento e publicitação
 
 As entidades de gestão coletiva, seis meses antes de disponibilizarem licenças nos termos do artigo anterior, devem:
 
@@ -1107,12 +1297,14 @@ b) O artigo 3.º do [Decreto-Lei n.º 334/97](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 25 de maio de 2023. - António Luís Santos da Costa - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Pedro Adão e Silva Cardoso Pereira.
 
-**Promulgado em 12 de junho de 2023.**
+Promulgado em 12 de junho de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de junho de 2023.**
+Referendado em 15 de junho de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116574223

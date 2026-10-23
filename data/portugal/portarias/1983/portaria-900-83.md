@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/900-1983-442946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:53:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33363a57b8df5598abc91471b30a134d53970676842eb2f891047fb0199d0179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dac12e92a5485c2d92b1de93a818079db8d91e6b40c5404d64b23774201ac162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:53:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso de Planeamento
+- Ensino Superior
+- Licenciatura
+- Universidade de Aveiro
 relationships:
 - type: amended_by
   target: pt:dre:285173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285173:por
+  label: "Alterada a estrutura curricular do curso de licenciatura, constante do anexo ao presente diploma, pela PORT.242/88.19.04.1988.ME,\
+    \ DR.IS [91] de 19.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-1988-285173
+  date: '1988-04-19'
+- type: cites
+  target: pt:dre:313178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:53:51Z'
   warnings: []
   errors: []
 ---
@@ -146,9 +168,9 @@ A tabela e o regime de precedências serão fixados pelo conselho científico, o
 
 Ministério da Educação.
 
-**Assinada em 13 de Setembro de 1983.**
+Assinada em 13 de Setembro de 1983.
 
-**O Ministro da Educação, José Augusto Seabra.**
+O Ministro da Educação, José Augusto Seabra.
 
 ## ANEXO
 

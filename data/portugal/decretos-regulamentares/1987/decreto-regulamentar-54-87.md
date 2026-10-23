@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1987-417051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3884713508cead8d3b8f646ac747533a31929a59c9a8606c63918c1c75971a33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 116963b801bb6d2b2470477a9faa729ab38000287bc602de87a21e6a13307c16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Funcionário Público
+- Serviços Sociais Universitários
+- Universidade de Coimbra
+relationships:
+- type: cites
+  target: pt:dre:171372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:17Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +104,15 @@ Em cumprimento do disposto no n.º 8 do artigo 53.º do [Decreto Regulamentar n.
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os funcionários dos Serviços Sociais da Universidade de Coimbra que transitaram para o seu quadro de pessoal nos termos da alínea c) do n.º 1 do artigo 53.º do [Decreto Regulamentar n.º 70/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1985-171372), de 30 de Outubro, ficam abrangidos pelos estatutos da aposentação e pensão de sobrevivência, pela ADSE e pelo regime de diuturnidades em vigor para a função pública.
+Artigo 1.º Os funcionários dos Serviços Sociais da Universidade de Coimbra que transitaram para o seu quadro de pessoal nos termos da alínea c) do n.º 1 do artigo 53.º do [Decreto Regulamentar n.º 70/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1985-171372), de 30 de Outubro, ficam abrangidos pelos estatutos da aposentação e pensão de sobrevivência, pela ADSE e pelo regime de diuturnidades em vigor para a função pública.
 
-###### Art. 2.º A transição para os regimes em que ficam integrados far-se-á de acordo com as seguintes regras:
+Art. 2.º A transição para os regimes em que ficam integrados far-se-á de acordo com as seguintes regras:
 
 a) Ao referido pessoal será contado todo o tempo de serviço prestado nos Serviços Sociais da Universidade de Coimbra ou em actividades que se encontrem integradas nestes, desde a data da sua contratação, como se de funcionários ou agentes da Administração Pública se tratasse;
 
 b) A regularização e o pagamento de quotas em dívida serão feitos segundo a legislação em vigor, designadamente nos termos dos Decretos-Leis n.os [498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e [142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março.
 
-###### Art. 3.º Para efeitos do presente diploma, consideram-se como actividades que se encontram integradas nos Serviços Sociais da Universidade de Coimbra as exercidas, a qualquer título e com carácter regular e permanente:
+Art. 3.º Para efeitos do presente diploma, consideram-se como actividades que se encontram integradas nos Serviços Sociais da Universidade de Coimbra as exercidas, a qualquer título e com carácter regular e permanente:
 
 a) Na Sociedade Filantrópico-Académica de Coimbra;
 
@@ -109,12 +124,12 @@ d) Na extinta Mocidade Portuguesa.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

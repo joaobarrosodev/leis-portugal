@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/1997/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1997-581624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6edc8f65326493a053a598c891020b5d02e8afc9d4226b58e101fe51d7dd0683
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d208d97e9ffaaa7d69803287a8a628cb79d31c1215228286c18891fe363b874
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Bagagem
-- Obra de Arte
-- Código do IVA
-- Comércio de ARTE
-- Importação
-- IVA
-- Isenção Fiscal
-- Prestação de Serviços
-- Madeira.região Autónoma
-- Regime Jurídico
 - Açores
+- Bagagem
+- Código do IVA
+- Comércio de Arte
+- Importação
+- Isenção Fiscal
+- IVA
+- Madeira.região Autónoma
 - Mercadoria
+- Obra de Arte
+- Prestação de Serviços
+- Região Autónoma
+- Regime Jurídico
 - Sociedade de Locação Financeira
 - Taxa
 relationships:
@@ -85,6 +85,57 @@ relationships:
   target: pt:dre:66016527:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233946:por
+  label: "Alterado a al. c) do nº 1 do art. 18º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção\
+    \ do presente diploma, pela LEI.39/2005.24.06.2005.AR, DR.IS-A [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2005-233946
+  date: '2005-06-24'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 18º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP,\
+    \ DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:456872:por
+  label: "Alterado o art. 18º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na\
+    \ redacção do presente diploma, republicado pelo Dec Lei 195/89 de 12-Jun e Dec Lei 166/94 de 09-Jun, pela LEI.26-A/2008.27.06.2008.AR,\
+    \ DR.IS [123-Supl] de 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-a-2008-456872
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterado a partir de 01.01.2010, o artigo 18.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de 26 de Dezembro,\
+    \ na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado, a partir de 01.07.2010, o art. 18.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.12-A/2010.30.06.2010.AR, DR.IS\
+    \ [125-Supl] de 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 18º do Código do IVA , aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010, nos termos do art. 107º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:427611:por
+  label: "Dada nova redação ao art. 18º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo Dec Lei 394-B/84\
+    \ de 26-dez, alterado pelo presente diploma, pela LEI.14-A/2012.30.03.2012.AR, DR.IS [65-2ºSupl] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-a-2012-427611
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art.18.º do Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado pelo Dec Lei 394-B/84
+    de 26-dez, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/199/1996/10/18/p/dre
   label: null
@@ -97,16 +148,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:224581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:59Z'
   warnings: []
   errors: []
 ---
@@ -167,12 +230,12 @@ Os efeitos dos n.os 2 e 6 do artigo 18.º do Código do IVA reportam-se, respect
 
 Visto e aprovado em Conselho de Ministros de 28 de Novembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

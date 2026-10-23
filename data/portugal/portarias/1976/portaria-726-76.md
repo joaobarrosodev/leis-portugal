@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-1976-408154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c713022e1afd22443b4dcb6908e0e8f0fbeda634793eebcc5c09aff70e57a0e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32aaf95c314eb2690cc5e3ff71997504c42f279a7c2261b6fe114f7604d4dd42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:11:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Custo da Construção
+- Habitação Social
+- Renda Limitada
 relationships:
 - type: amended_by
   target: pt:dre:286539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:336688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286539:por
+  label: "Revogada pela PORT.548/77.1977.08.30.MHUC DR.IS [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1977-286539
+  date: '1977-08-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:11:36Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +125,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Habitaç
 
 4.º - 1. Cada tipo de casa de renda limitada terá por características mínimas as constantes do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf))](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
 
 2. Os acabamentos e isolamentos das casas de renda limitada não deverão ser de qualidade inferior aos que as câmaras municipais onde os mesmos se venham a situar correntemente aceitam para construções equivalentes.
 
@@ -119,7 +143,7 @@ d) Uma taxa de capitalização a aplicar ao valor final, determinado na alínea 
 
 e) Para cada tipo de casa de renda limitada não serão considerados os valores obtidos através da alínea anterior que excedam os seguintes limites máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf))](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
 
 3. A fixação definitiva das rendas será feita pelo Fundo de Fomento da Habitação, tomando em conta o que nos n.os 1 e 2 do presente artigo se estabelece, bem como, concretamente, os elementos referidos no n.º 2 do artigo 6.º ou no artigo 8.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), conforme os casos, e, ainda, o preço da construção corrente na zona em que o edifício será implantado e a qualidade de urbanização em que o mesmo se integra.
 
@@ -135,10 +159,10 @@ Secretaria de Estado da Habitação e Urbanismo, 10 de Novembro de 1976. - O Sec
 
 VARIAÇÃO DO CUSTO /m2 COM A ÁREA BRUTA (ab)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf))](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
 
 Variação do custo do metro quadrado com área bruta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf))](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/12/28100/26632664.pdf)
 
-**O Secretário de Estado da Habitação e Urbanismo, Álvaro João Duarte Pinto Correia.**
+O Secretário de Estado da Habitação e Urbanismo, Álvaro João Duarte Pinto Correia.

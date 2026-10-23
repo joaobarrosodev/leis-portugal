@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2000/09/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2000-577712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8a9a6c6efece24061816191ce501bad74db462cdf66aec6d422fd295225c858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2908d930b0acbc5e28a5273bf5db27c97df55b34fff58e86ccfc3ea8e17b60e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Financiamento
 - Fiscalização
-- Pesca
-- Apoio ao Investimento
+- Ifadap
+- Intervenção Operacional Pescas
 - JURO Bonificado
+- Pesca
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
-- Ifadap
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288445:por
+  label: "Alterado o art. 1º pelo DEC LEI.117/2002.2002.04.20.MADRP DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2002-288445
+  date: '2002-04-20'
+- type: amended_by
+  target: pt:dre:553429:por
+  label: "Alterado o art. 2º, com a redacção dada pelo Dec Lei 117/2002 de 20-Abr, pelo DEC LEI.109/2003.2003.06.04.MADRP\
+    \ DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2003-553429
+  date: '2003-06-04'
 - type: cites
   target: celex:31999R1260
   label: null
@@ -96,16 +107,22 @@ relationships:
   target: celex:31999R2792
   label: null
   source: http://data.europa.eu/eli/reg/1999/2792/oj
+- type: repealed_by
+  target: pt:dre:257010:por
+  label: "Revogados os nºs 3 e 4 do art. 9º e nº 1 do art. 10º, pelo DEC LEI.16/2013.28.01.2013.MAMAOT, DR.IS [19] de 28.01.2013,\
+    \ na parte em que contrariem o que ele dispõe.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2013-257010
+  date: '2013-01-28'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:15Z'
   warnings: []
   errors: []
 ---
@@ -338,12 +355,12 @@ b) Ao IFADAP carregar ou transmitir mensalmente ao gestor a informação relativ
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Diogo Campos Barradas de Lacerda Machado - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Alberto de Sousa Martins.
 
-**Promulgado em 23 de Agosto de 2000.**
+Promulgado em 23 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Setembro de 2000.**
+Referendado em 1 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

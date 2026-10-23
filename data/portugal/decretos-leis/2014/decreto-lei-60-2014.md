@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2014/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2014-25343997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c13115cb900dd57e03801b864cb665f5f095357cf81177178899a8c08410bd50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 058ab124cd33c9f688cb64a3d8fb54cab4f21abdef6ecd4f6ead4b0bcb3ff75d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Concurso
 - Definição de Competências
 - Direção Geral da Administração Escolar
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
-- Recrutamento de Pessoal
-- Ministério da Educação e Ciência
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
 - Gestão de Recursos Humanos
-- Educação Pré-escolar
+- Ministério da Educação e Ciência
+- Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
@@ -108,16 +108,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:37Z'
   warnings: []
   errors: []
 ---
@@ -216,12 +252,12 @@ b) Tenham, pelo menos, cinco anos de serviço docente efetivo com avaliação m�
 
 Visto e aprovado em Conselho de Ministros de 20 de março de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 11 de abril de 2014.**
+Promulgado em 11 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de abril de 2014.**
+Referendado em 15 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

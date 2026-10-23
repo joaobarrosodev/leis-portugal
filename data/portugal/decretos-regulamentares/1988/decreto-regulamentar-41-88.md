@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26900/46604660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1988-357772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f6ba1095be6fef3e12fe23b0f6ba202a4661825732123b29a7820e9033d5948
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2968b78a7b46236c900689eda0126567a2705d444a87bd966c45e1d9b82550c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alcoolismo
+- Centro Regional de Alcoologia
+- Coimbra
+- Criação de Serviços
+- Lisboa
+- Porto
+- Regime de Instalação
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:545638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "PRORROGADO O PRAZO ESTABELECIDO NO ART 4 PELA PORT 142/91IIS DE 12-ABR DR.IIS [100] DE 02/MAI/1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-02'
+- type: amended_by
+  target: pt:dre:545638:por
+  label: "Extintos, sendo objecto de fusão, os Centros Regionais de Alcoologia do Centro, Norte e Sul criados (com a designação\
+    \ de Centros Regionais de Alcoologia do Porto, Coimbra e Lisboa) pelo presente diploma e reestruturados pelo Dec Lei 318/2000,\
+    \ de 14-dez, pelo DEC LEI.212/2006.27.10.2006.MS, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2006-545638
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:405702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668504:por
+  label: "Revogado pelo DEC LEI.269/95.1995.10.19.MS, DR.IS-A [242]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1995-668504
+  date: '1995-10-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:25Z'
   warnings: []
   errors: []
 ---
@@ -94,36 +127,36 @@ Atendendo a um problema tão complexo, que atinge pesadamente a saúde pública 
 
 Assim, ao abrigo do disposto no artigo 78.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São criados os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, adiante designados por Centros.
+Artigo 1.º São criados os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, adiante designados por Centros.
 
-###### Art. 2.º Os Centros visam a prevenção dos problemas ligados ao álcool e a coordenação das actividades no âmbito da alcoologia e tratamento nas respectivas zonas e desenvolverão a sua actividade em articulação com as administrações regionais de saúde e centros de saúde nelas integrados, com os hospitais psiquiátricos e centros de saúde mental, com os institutos de clínica geral e com outras instituições e grupos responsáveis pela saúde e bem-estar da comunidade.
+Art. 2.º Os Centros visam a prevenção dos problemas ligados ao álcool e a coordenação das actividades no âmbito da alcoologia e tratamento nas respectivas zonas e desenvolverão a sua actividade em articulação com as administrações regionais de saúde e centros de saúde nelas integrados, com os hospitais psiquiátricos e centros de saúde mental, com os institutos de clínica geral e com outras instituições e grupos responsáveis pela saúde e bem-estar da comunidade.
 
-###### Art. 3.º Os Centros gozam de autonomia técnica e administrativa, sem prejuízo da sua dependência da Direcção-Geral dos Cuidados de Saúde Primários, nos termos do artigo 45.º do [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), de 2 de Março.
+Art. 3.º Os Centros gozam de autonomia técnica e administrativa, sem prejuízo da sua dependência da Direcção-Geral dos Cuidados de Saúde Primários, nos termos do artigo 45.º do [Decreto-Lei n.º 74-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-c-1984-405702), de 2 de Março.
 
-###### Art. 4.º Os Centros entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e demais legislação aplicável, e são dirigidos por uma comissão instaladora, a nomear por despacho do Ministro da Saúde, composta por três membros, um dos quais médico com experiência em alcoologia, que preside.
+Art. 4.º Os Centros entram no regime de instalação previsto nos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e demais legislação aplicável, e são dirigidos por uma comissão instaladora, a nomear por despacho do Ministro da Saúde, composta por três membros, um dos quais médico com experiência em alcoologia, que preside.
 
-###### Art. 5.º Ao pessoal dos Centros é aplicável o regime geral da função pública, sem prejuízo da aplicação das regras estabelecidas para carreiras específicas, não podendo ser prejudicado nos seus direitos e regalias dentro das respectivas carreiras profissionais nos serviços de origem.
+Art. 5.º Ao pessoal dos Centros é aplicável o regime geral da função pública, sem prejuízo da aplicação das regras estabelecidas para carreiras específicas, não podendo ser prejudicado nos seus direitos e regalias dentro das respectivas carreiras profissionais nos serviços de origem.
 
-###### Art. 6.º São aprovados, por despacho do Ministro da Saúde, sob proposta das comissões instaladoras, os regulamentos necessários ao funcionamento dos Centros.
+Art. 6.º São aprovados, por despacho do Ministro da Saúde, sob proposta das comissões instaladoras, os regulamentos necessários ao funcionamento dos Centros.
 
-###### Art. 7.º As atribuições e competências do Serviço de Alcoologia do Hospital de Magalhães de Lemos, do Centro de Recuperação de Alcoólicos do Hospital de Sobral Cid e do Serviço de Recuperação de Alcoólicos do Centro de António Flores, do Hospital de Júlio de Matos, que são extintos, transitam, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, assim como os recursos materiais de que dispõem e os meios humanos que se lhes encontram afectos, nos termos referidos no artigo seguinte.
+Art. 7.º As atribuições e competências do Serviço de Alcoologia do Hospital de Magalhães de Lemos, do Centro de Recuperação de Alcoólicos do Hospital de Sobral Cid e do Serviço de Recuperação de Alcoólicos do Centro de António Flores, do Hospital de Júlio de Matos, que são extintos, transitam, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, assim como os recursos materiais de que dispõem e os meios humanos que se lhes encontram afectos, nos termos referidos no artigo seguinte.
 
-###### Art. 8.º O pessoal que se encontra a exercer funções no Serviço de Alcoologia do Hospital de Magalhães de Lemos, no Centro de Recuperação de Alcoólicos de Coimbra e no Serviço de Recuperação de Alcoólicos do Centro de António Flores e que esteja vinculado a qualquer quadro transitará, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, para lugares de igual categoria, em regime de comissão de serviço, sem prejuízo de poder requerer a sua manutenção ou regresso ao quadro de origem.
+Art. 8.º O pessoal que se encontra a exercer funções no Serviço de Alcoologia do Hospital de Magalhães de Lemos, no Centro de Recuperação de Alcoólicos de Coimbra e no Serviço de Recuperação de Alcoólicos do Centro de António Flores e que esteja vinculado a qualquer quadro transitará, respectivamente, para os Centros Regionais de Alcoologia do Porto, de Coimbra e de Lisboa, para lugares de igual categoria, em regime de comissão de serviço, sem prejuízo de poder requerer a sua manutenção ou regresso ao quadro de origem.
 
-###### Art. 9.º Os encargos decorrentes da aplicação do presente diploma são suportados através de verba a transferir para os Centros pelo Departamento de Gestão Financeira dos Serviços de Saúde.
+Art. 9.º Os encargos decorrentes da aplicação do presente diploma são suportados através de verba a transferir para os Centros pelo Departamento de Gestão Financeira dos Serviços de Saúde.
 
-###### Art. 10.º Este diploma entra em vigor no prazo de 90 dias após a sua publicação.
+Art. 10.º Este diploma entra em vigor no prazo de 90 dias após a sua publicação.
 
 Presidência do Conselho de Ministros, 3 de Outubro de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 5 de Novembro de 1988.**
+Promulgado em 5 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Novembro de 1988.**
+Referendado em 9 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

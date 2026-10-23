@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/2005/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2005-233745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f02580b04b2b74f0f1aa8935f91d043aee9876113a7a9bcd243e2c6728cc6979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61583f515c5920dfc7cb4bdc045401fe05e247cdbad917ead20690067528d14d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Declarativo
-- Processo Civil
 - Contrato
-- Pagamento
-- Injunção
-- Prestações Pecuniárias
-- Regime Jurídico
 - Custas Judiciais
+- Injunção
+- Pagamento
+- Prestações Pecuniárias
+- Processo Civil
+- Processo Declarativo
+- Regime Jurídico
 - Transacção Comercial
 - Tribunal da Relação
 relationships:
@@ -83,6 +83,38 @@ relationships:
   target: pt:dre:261160:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661170:por
+  label: "Alterados os arts. 10º e 11º do regime anexo ao Dec Lei 269/98 de 01-Set, na redacção do presente diploma, pela\
+    \ LEI.14/2006.26.04.2006.AR, DR.IS-A [81] de 26.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2006-661170
+  date: '2006-04-26'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados, a partir de 01 de Janeiro de 2008, os artigos 1.º, e 19.º do Regime Anexo, ambos do Decreto-Lei 269/98,\
+    \ de 01 de Setembro, na redacção do presente diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 19.º do Regime Anexo do Decreto-Lei 269/98, de 01 de Setembro, na redacção do presente diploma,\
+    \ pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:247448:por
+  label: "Alterado, a partir de 20.04.2009, o art. 19º do Regime anexo e revogado, a partir da mesma data o art. 6º do Dec\
+    \ Lei 269/98, de 28-Ago, na redacção do presente diploma, pelo DEC LEI.34/2008.26.02.2008.MJ, DR.IS [40] de 26.02.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2008-247448
+  date: '2008-02-26'
+- type: amended_by
+  target: pt:dre:439815:por
+  label: "Alterados, a partir de 31.03.2009, os arts. 10º e 11º do regime anexo ao Dec Lei 269/98, de 01-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.226/2008.20.11.2008.MJ, DR.IS [226] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-2008-439815
+  date: '2008-11-20'
 - type: cites
   target: celex:32000L0035
   label: null
@@ -95,16 +127,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/32/2003/02/17/p/dre
+- type: corrected_by
+  target: pt:dre:243102:por
+  label: "Rectificado pela DECL-RECT.63/2005.08.08.2005.PCM, DR.IS-A [159] de 19.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/63-2005-243102
+  date: '2005-08-08'
+- type: repealed_by
+  target: pt:dre:261160:por
+  label: "Revogado, a partir de 01.07.2013, com exeção dos arts. 6º e 8º, o Dec Lei 32/2003 de 17-fev, com a redação do presente\
+    \ diploma, pelo DEC LEI.62/2013.10.05.2013.MF, DR.IS [90] de 10.05.2013, que o manteve, contudo, em vigor no que respeita\
+    \ aos contratos celebrados antes da entrada em vigor daquele diploma, que determinou fossem efetuadas para as suas correspondentes\
+    \ disposições as remissões legais ou contratuais feitas para os preceitos daquele diploma, relativamente aos contratos\
+    \ a que o mesmo é aplicável, nos termos do disposto no art. 14º do citado Decreto-Lei 62/2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2013-261160
+  date: '2013-05-10'
 article_structure:
-  article_count: 46
+  article_count: 33
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:40Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +207,9 @@ Os artigos 1.º e 6.º do Decreto-Lei n.º 269/98, de 1 de Setembro, com a redac
 
 É aprovado o regime dos procedimentos destinados a exigir o cumprimento de obrigações pecuniárias emergentes de contratos de valor não superior à alçada da Relação, publicado em anexo, que faz parte integrante do presente diploma.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Mediante portaria do Ministro da Justiça, podem ser aprovadas outras formas de pagamento da taxa de justiça diversas das previstas no Código das Custas Judiciais.»
 
@@ -181,7 +229,9 @@ Os artigos 1.º, 3.º, 4.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +243,9 @@ Os artigos 1.º, 3.º, 4.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.
 
 5 - Em qualquer dos casos previstos no número anterior, não pode a parte produzir mais de três testemunhas sobre cada um dos factos que se propõe provar, não se contando as que tenham declarado nada saber.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -209,13 +261,17 @@ Os artigos 1.º, 3.º, 4.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 17.
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 9.º — Apresentação do requerimento de injunção
+Artigo 9.º
+
+Apresentação do requerimento de injunção
 
 1 - O requerimento de injunção é apresentado, num único exemplar, na secretaria judicial.
 
 2 - As formas de apresentação do requerimento são aprovadas por portaria do Ministro da Justiça.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O modelo de requerimento de injunção é aprovado por portaria do Ministro da Justiça.
 
@@ -255,7 +311,9 @@ m) Assinar o requerimento.
 
 7 - A subscrição do requerimento por mandatário judicial não o exime da necessidade de preenchimento de todos os elementos relativos ao representado, nomeadamente a indicação do respectivo domicílio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O requerimento só pode ser recusado se:
 
@@ -277,7 +335,9 @@ h) O pedido não se ajustar ao montante ou finalidade do procedimento.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +359,9 @@ h) O pedido não se ajustar ao montante ou finalidade do procedimento.
 
 10 - Por despacho conjunto do ministro com a tutela do serviço público de correios e do Ministro da Justiça, pode ser aprovado modelo próprio de carta registada com aviso de recepção para o efeito do n.º 1, nos casos em que o volume de serviço o justifique.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 A notificação deve conter:
 
@@ -313,7 +375,9 @@ d) ...
 
 e) A indicação de que a dedução de oposição cuja falta de fundamento o requerido não deva ignorar determina a condenação em multa de valor igual a duas vezes a taxa de justiça devida na acção declarativa.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -325,13 +389,17 @@ e) A indicação de que a dedução de oposição cuja falta de fundamento o req
 
 5 - Aposta a fórmula executória, a secretaria devolve ao requerente todo o expediente respeitante à injunção ou disponibiliza àquele, por meios electrónicos, em termos a definir por portaria do Ministro da Justiça, o requerimento de injunção no qual tenha sido aposta a fórmula executória.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Deduzida oposição ou frustrada a notificação do requerido, no caso em que o requerente tenha indicado que pretende que o processo seja apresentado à distribuição, nos termos da alínea j) do n.º 2 do artigo 10.º, o secretário apresenta os autos à distribuição que imediatamente se seguir.
 
 2 - Salvo o disposto no n.º 2 do artigo 11.º e no n.º 4 do artigo 14.º, os autos são também imediatamente apresentados à distribuição sempre que se suscite questão sujeita a decisão judicial.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +409,9 @@ e) A indicação de que a dedução de oposição cuja falta de fundamento o req
 
 4 - Se os autos forem apresentados à distribuição em virtude de dedução de oposição cuja falta de fundamento o réu não devesse ignorar, é este condenado, na sentença referida no n.º 7 do artigo 4.º, em multa de montante igual a duas vezes o valor da taxa de justiça devida na acção declarativa.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A apresentação do requerimento de injunção pressupõe o pagamento antecipado da taxa de justiça, no seguinte valor:
 
@@ -369,7 +439,9 @@ Frustração da notificação
 
 No caso de se frustrar a notificação do requerido e o requerente não tiver indicado que pretende que os autos sejam apresentados à distribuição, nos termos da alínea j) do n.º 2 do artigo 10.º, a secretaria devolve ao requerente o expediente respeitante ao procedimento de injunção.
 
-###### Artigo 15.º-A — Desistência do pedido
+Artigo 15.º-A
+
+Desistência do pedido
 
 1 - Até à dedução de oposição ou, na sua falta, até ao termo do prazo de oposição, o requerente pode desistir do procedimento.
 
@@ -411,15 +483,15 @@ O presente diploma entra em vigor no dia 15 de Setembro de 2005.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa.
 
-**Promulgado em 15 de Junho de 2005.**
+Promulgado em 15 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Junho de 2005.**
+Referendado em 20 de Junho de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Regime dos procedimentos a que se refere o artigo 1.º do diploma preambular
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2007-638533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d2a723dab9df122f83da6f82d9b34354ecc91fddee71a19880ffa0dd156dcf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb2852664e3c48aa770e9377181937c8c42d7923fe0c1364391ac5d85844178e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Centro de Informação Jacques Delors
-- Pessoal Dirigente
 - Comissão Interministerial para os Assuntos Europeus
 - Comissão Luso-espanhola para a Cooperação Transfronteiriça
-- Direcção Geral dos Assuntos Europeus
 - Direcção Geral dos Assuntos Comunitários
+- Direcção Geral dos Assuntos Europeus
 - Integração de Serviços
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência de Competências
 relationships:
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/13/2003/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/13/2003/03/01/p/dre
+- type: cites
+  target: pt:dre:220168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544169:por
+  label: "Revogado, a partir de 01.02.2012, nos termos do disposto no art. 28º do Dec Lei 121/2011 de 29-Dez, pelo DR.12/2012.19.01.2012.MNE,\
+    \ DR.IS [14] de 19.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2012-544169
+  date: '2012-01-19'
+- type: repealed_by
+  target: pt:dre:552535:por
+  label: "Revogado partir de 15.04.2012 o Dec Lei 345/91, de 17-set, na redação do presente diploma, pelo DEC LEI.87/2012.10.04.2012.MNE,\
+    \ DR.IS [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2012-552535
+  date: '2012-04-10'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:51Z'
   warnings: []
   errors: []
 ---
@@ -311,16 +343,16 @@ b) Os n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 345/91](https://diariodarep
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
 
-**Promulgado em 7 de Maio de 2007.**
+Promulgado em 7 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Maio de 2007.**
+Referendado em 8 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf)

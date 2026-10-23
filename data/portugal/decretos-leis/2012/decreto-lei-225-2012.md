@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/2012/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07f938faafca8762a790ffcaeb55510af10cca1c373794af954e5076800501fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c19a20fd46b75c0c7e6e256d9054f046ed4bb018c1e031bddb5180bf814f04f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Moeda Eletrónica
-- Multa
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Conta Bancária
 - Contra-ordenação
-- Fundo de Garantia de Depósitos
-- Banco de Portugal
-- Banca
-- Atividade Bancária
 - Crédito Bancário
+- Fundo de Garantia de Depósitos
+- Instituição Financeira
+- Moeda Eletrónica
+- Multa
 - Proteção do Consumidor
 - Serviços Mínimos
 - Sistema Bancário
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:108074436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69727377:por
+  label: Alterados a partir de 04.10.2015 os arts. 1.º, 2.º, 4.º, 4.º-A, 4.º-B, 4.º-C, 4.º-D e 5.º do Dec Lei 27-C/2000, de
+    10-mar, na redação do presente diploma, pelo(a) Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-2015-69727377
+  date: '2015-07-06'
+- type: amended_by
+  target: pt:dre:108074436:por
+  label: Alterados os arts. 1.º, 2.º (ambos na redação da Lei 66/2015 de 06-jul), 3.º, 4.º, 4.º-A, 4.º-D, 5.º, 7.º-A (os últimos
+    cinco arts. na redação da Lei 66/2015 de 06-jul) e 7.º-D, aditado o art. 5.º-A, revogados a al. c) do n.º 4, a al. c)
+    do n.º 5 e o n.º 6 do art. 4.º, o art. 6.º e a al. c) do n.º 1 do art. 7.º-D do Dec Lei 27-C/2000 de 10-mar, na versão
+    republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30,
+    nos termos do disposto no seu art. 38.º, e que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2017-108074436
+  date: '2017-08-30'
+- type: amends
+  target: pt:numero:lei:27-C/2000
+  label: "Altera os arts. 1.º, 2.º, 3.º, 4.º e 5.º (todos na redação da Lei 19/2011, de 20-mai), 6.º, 7.º ( o último na redação\
+    \ da Lei 19/2011, de 20-mai ) e 7.º-C (aditado pela Lei 19/2011, de 20-mai ) adita os arts. 4.º-A, 4.º-B, 4.º-C, 4.º-D\
+    \ e 7.º-D e revoga a subal. v) da al. a) do n.º 2 e o n.º 3 do art. 1.º do Dec Lei n.º 27-C/2000, de 10-mar, DR IS-A [59]Supl,\
+    \ e procede à respetiva republicação\0\0"
+  source: null
+  date: '2000-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/27-c/2000/03/10/p/dre
   label: null
@@ -102,16 +125,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:16Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +223,9 @@ j) 'Suporte duradouro' qualquer instrumento que permita ao interessado ou ao tit
 
 3 - (Revogado.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - As pessoas singulares podem aceder aos serviços mínimos bancários previstos na alínea a) do n.º 2 do artigo anterior, através da abertura de uma conta de serviços mínimos bancários em instituição de crédito à sua escolha de entre aquelas que tenham aderido ao sistema ou, nos casos em que já sejam titulares de uma conta de depósito à ordem em instituição de crédito aderente, da conversão dessa conta em conta de serviços mínimos bancários, nos termos e condições previstos no presente diploma.
 
@@ -192,13 +233,17 @@ j) 'Suporte duradouro' qualquer instrumento que permita ao interessado ou ao tit
 
 3 - As instituições de crédito aderentes utilizam, para efeitos da abertura de conta de serviços mínimos bancários e da conversão de conta de depósito à ordem em conta de serviços mínimos bancários, documentos contratuais e impressos que façam expressa alusão à sua finalidade, mediante a inclusão, em lugar de destaque, da expressão 'Serviços mínimos bancários', e deles dando cópia ao titular da conta.
 
-###### Artigo 3.º — Comissões, despesas ou outros encargos
+Artigo 3.º
+
+Comissões, despesas ou outros encargos
 
 1 - Sem prejuízo do disposto no número seguinte e no artigo 5.º, pelos serviços referidos na alínea a) do n.º 2 do artigo 1.º, quando prestados ao abrigo do presente diploma, não podem ser cobrados, pelas instituições de crédito, comissões, despesas ou outros encargos que, anualmente, e no seu conjunto, representem valor superior ao equivalente a 1 % da remuneração mínima mensal garantida.
 
 2 - O titular da conta suporta os custos, normalmente praticados pela respetiva instituição de crédito, pela emissão do cartão de débito caso venha a solicitar a substituição deste cartão antes de decorridos 18 meses sobre a data da respetiva emissão, salvo se a sua validade for inferior a este prazo ou a causa de substituição for imputável à instituição de crédito.
 
-###### Artigo 4.º — Abertura da conta de serviços mínimos bancários e recusa legítima
+Artigo 4.º
+
+Abertura da conta de serviços mínimos bancários e recusa legítima
 
 1 - A prestação de serviços mínimos bancários a pessoa singular que não seja titular de conta de depósito à ordem depende da abertura de conta de serviços mínimos bancários junto de instituição de crédito aderente, através da celebração do respetivo contrato de depósito à ordem.
 
@@ -230,7 +275,9 @@ a) Exigir às pessoas singulares que solicitem a abertura de conta de serviços 
 
 b) Condicionar a abertura de conta de serviços mínimos bancários à aquisição de produtos ou serviços adicionais.
 
-###### Artigo 5.º — Casos especiais de resolução
+Artigo 5.º
+
+Casos especiais de resolução
 
 1 - As instituições de crédito aderentes podem resolver o contrato de depósito depois de decorrido, pelo menos, um ano após a abertura ou a conversão de conta de depósito à ordem em conta de serviços mínimos bancários, se, nos seis meses anteriores, essa conta apresentar um saldo médio anual inferior a 5 % da remuneração mínima mensal garantida e não tiverem sido realizadas quaisquer operações bancárias nesse mesmo período de tempo.
 
@@ -244,7 +291,9 @@ b) Condicionar a abertura de conta de serviços mínimos bancários à aquisiç�
 
 6 - As instituições de crédito aderentes notificam o titular da conta de serviços mínimos da resolução do contrato de depósito com fundamento na situação prevista no n.º 4 e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, com, pelo menos, 30 dias de antecedência a contar da data prevista para a resolução, mediante comunicação em papel ou noutro suporte duradouro.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a que alude o n.º 2 do artigo 4.º, tem como finalidade exclusiva a confirmação da inexistência de qualquer cartão daquela natureza em nome do declarante e consequente direito de acesso aos serviços mínimos bancários, sendo apenas admitida quando realizada por instituição de crédito aderente ao sistema ora instituído.
 
@@ -258,11 +307,15 @@ b) Condicionar a abertura de conta de serviços mínimos bancários à aquisiç�
 
 6 - O tratamento de dados pessoais previsto no presente diploma fica sujeito ao regime jurídico estabelecido pela Lei da Proteção de Dados Pessoais, aprovada pela [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de outubro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Os protocolos a celebrar entre o membro do Governo responsável pela área da defesa do consumidor, o Banco de Portugal e as instituições de crédito que pretendam aderir a este sistema devem observar as bases constantes no anexo ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 7.º-C — [...]
+Artigo 7.º-C
+
+[...]
 
 1 - ...
 
@@ -286,13 +339,17 @@ b) Da conversão direta da conta de depósito à ordem em conta de serviços mí
 
 3 - O disposto nos n.os 2 a 6 do artigo anterior é aplicável, com as necessárias adaptações, à conversão de conta de depósito à ordem em conta de serviços mínimos bancários.
 
-###### Artigo 4.º-B — Titularidade
+Artigo 4.º-B
+
+Titularidade
 
 1 - A conta de serviços mínimos bancários pode ser titulada por uma ou por várias pessoas singulares.
 
 2 - Quando seja solicitada a contitularidade de conta de serviços mínimos bancários, seja no momento da abertura ou da conversão da conta, seja em momento posterior, a instituição de crédito aderente pode legitimamente recusar a abertura de conta, a sua conversão ou o aditamento de novos titulares caso uma das pessoas singulares que tenha solicitado a contitularidade não reúna os requisitos previstos no artigo 4.º
 
-###### Artigo 4.º-C — Prestação de serviços mínimos bancários
+Artigo 4.º-C
+
+Prestação de serviços mínimos bancários
 
 1 - As instituições de crédito aderentes disponibilizam os serviços elencados na alínea a) do n.º 2 do artigo 1.º
 
@@ -306,11 +363,15 @@ a) Identificar a conta de depósito à ordem como uma conta de serviços mínimo
 
 b) Descrever os serviços bancários associados e as condições da sua prestação.
 
-###### Artigo 4.º-D — Deveres complementares
+Artigo 4.º-D
+
+Deveres complementares
 
 As instituições de crédito aderentes não podem oferecer, explícita ou implicitamente, quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários, nem permitir a ultrapassagem de crédito em contas de serviços mínimos bancários.
 
-###### Artigo 7.º-D — Regime sancionatório
+Artigo 7.º-D
+
+Regime sancionatório
 
 1 - Constituem contraordenações leves, puníveis com coima entre (euro) 100 e (euro) 10 000:
 
@@ -388,15 +449,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de setembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 8 de outubro de 2012.**
+Promulgado em 8 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de outubro de 2012.**
+Referendado em 10 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -404,11 +465,15 @@ Visto e aprovado em Conselho de Ministros de 6 de setembro de 2012. - Pedro Pass
 
 Bases do protocolo
 
-###### Base I — Objeto
+Base I
+
+Objeto
 
 Através do presente protocolo, a instituição de crédito outorgante adere ao sistema de serviços mínimos bancários instituído pelo [Decreto-Lei n.º 27-C/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-c-2000-483458), de 10 de março, alterado pela [Lei n.º 19/2011](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), de 20 de maio, e pelo Decreto-Lei n.º 225/2012, de 17 de outubro, comprometendo-se a prestar serviços mínimos bancários às pessoas singulares que o solicitem, nos termos e condições previstos no regime jurídico dos serviços mínimos bancários e do presente protocolo.
 
-###### Base II — Definições
+Base II
+
+Definições
 
 Para efeitos do presente protocolo, entende-se por:
 
@@ -440,19 +505,25 @@ i) «Ultrapassagem de crédito» descoberto aceite tacitamente pela instituiçã
 
 j) «Suporte duradouro» qualquer instrumento que permita ao interessado ou ao titular de conta de serviços mínimos bancários armazenar informações que lhe sejam pessoalmente dirigidas, de modo a que, no futuro, possam aceder facilmente à informação armazenada durante um período de tempo adequado aos fins a que esta se destina e, bem assim, reproduzir essa informação de forma integral e inalterada.
 
-###### Base III — Acesso aos serviços mínimos bancários
+Base III
+
+Acesso aos serviços mínimos bancários
 
 1 - A instituição de crédito outorgante presta os serviços mínimos bancários previstos na alínea b) da base ii às pessoas singulares que, cumprindo os requisitos previstos no regime jurídico dos serviços mínimos bancários, solicitem a abertura de conta de serviços mínimos bancários ou a conversão de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
 
 2 - A instituição de crédito outorgante obriga-se a incluir, em local de destaque dos documentos contratuais e dos impressos que utilize para efeitos da abertura de conta de serviços mínimos bancários e da conversão de conta de depósito à ordem em conta de serviços mínimos bancários, a expressão «Serviços mínimos bancários», e deles dando cópia ao titular da conta.
 
-###### Base IV — Comissões, despesas ou outros encargos
+Base IV
+
+Comissões, despesas ou outros encargos
 
 1 - Sem prejuízo do disposto no n.º 2 e na base x, a instituição de crédito outorgante não pode cobrar comissões, despesas ou outros encargos pela prestação dos serviços referidos na alínea b) da base ii ao abrigo do presente protocolo e do regime jurídico dos serviços mínimos bancários que, anualmente, e no seu conjunto, representem valor superior ao equivalente a 1 % da remuneração mínima mensal garantida.
 
 2 - O titular da conta suporta os custos normalmente praticados pela instituição de crédito outorgante pela emissão do cartão de débito caso venha a solicitar a substituição deste cartão antes de decorridos 18 meses sobre a data da respetiva emissão, salvo se a sua validade for inferior a este prazo ou a causa de substituição for imputável à instituição de crédito.
 
-###### Base V — Abertura de conta de serviços mínimos bancários e recusa legítima
+Base V
+
+Abertura de conta de serviços mínimos bancários e recusa legítima
 
 1 - A prestação de serviços mínimos bancários a pessoa singular que não seja titular de conta de depósito à ordem depende da abertura de conta de serviços mínimos bancários junto da instituição de crédito outorgante, através da celebração do respetivo contrato de depósito à ordem.
 
@@ -484,7 +555,9 @@ a) Exigir às pessoas singulares que solicitem a abertura de conta de serviços 
 
 b) Condicionar a abertura de conta de serviços mínimos bancários à aquisição de produtos ou serviços adicionais.
 
-###### Base VI — Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
+Base VI
+
+Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
 
 1 - A prestação de serviços mínimos por parte da instituição de crédito outorgante pode igualmente resultar da conversão, a pedido do interessado, de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
 
@@ -498,13 +571,17 @@ b) Da conversão direta da conta de depósito à ordem já domiciliada na instit
 
 4 - Quando a conversão de conta de depósito à ordem em conta de serviços mínimos bancários seja efetuada através da modalidade referida na alínea a) do n.º 2, a instituição de crédito outorgante deve informar o interessado sobre as normas legais e regulamentares, bem como sobre os mecanismos de autorregulação existentes neste domínio, nomeadamente, no que respeita à mobilidade de serviços bancários.
 
-###### Base VII — Titularidade
+Base VII
+
+Titularidade
 
 1 - A conta de serviços mínimos bancários pode ser titulada por uma ou por várias pessoas singulares.
 
 2 - Quando seja solicitada a contitularidade de conta de serviços mínimos bancários, seja no momento da abertura ou da conversão da conta, seja em momento posterior, a instituição de crédito outorgante pode legitimamente recusar a abertura de conta, a sua conversão ou o aditamento de novos titulares caso uma das pessoas singulares que tenha solicitado a contitularidade incumpra os requisitos previstos no n.º 4 da base v.
 
-###### Base VIII — Prestação de serviços mínimos bancários
+Base VIII
+
+Prestação de serviços mínimos bancários
 
 1 - Na prestação de serviços mínimos bancários, a instituição de crédito outorgante observa as condições legal e regulamentarmente estabelecidas, nomeadamente em matéria de deveres de informação, e respeitar os mesmos padrões de qualidade e eficiência que são exigidos para a prestação dos serviços bancários em causa a pessoas singulares que não tenham solicitado a prestação de serviços mínimos bancários.
 
@@ -516,11 +593,15 @@ a) Identificar a conta de depósito à ordem como uma conta de serviços mínimo
 
 b) Descrever os serviços bancários associados e as condições da sua prestação.
 
-###### Base IX — Deveres complementares
+Base IX
+
+Deveres complementares
 
 A instituição de crédito outorgante não pode oferecer, explícita ou implicitamente, quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários, nem permitir a ultrapassagem de crédito em contas de serviços mínimos bancários.
 
-###### Base X — Casos especiais de resolução
+Base X
+
+Casos especiais de resolução
 
 1 - A instituição de crédito outorgante pode resolver o contrato de depósito depois de decorrido, pelo menos, um ano após a abertura ou conversão de conta de depósito à ordem em conta de serviços mínimos bancários, se, nos seis meses anteriores, essa conta apresentar um saldo médio anual inferior a 5 % da remuneração mínima mensal garantida e não tiverem sido realizadas quaisquer operações bancárias nesse mesmo período de tempo.
 
@@ -534,7 +615,9 @@ A instituição de crédito outorgante não pode oferecer, explícita ou implici
 
 6 - A instituição de crédito outorgante notifica o titular da conta de serviços mínimos da resolução do contrato de depósito com fundamento na situação prevista no n.º 4 e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, com, pelo menos, 30 dias de antecedência a contar da data prevista para a resolução, mediante comunicação em papel ou noutro suporte duradouro.
 
-###### Base XI — Divulgação dos serviços mínimos bancários
+Base XI
+
+Divulgação dos serviços mínimos bancários
 
 1 - A instituição de crédito outorgante obriga-se a publicitar a celebração do presente protocolo e a sua adesão ao sistema de serviços mínimos bancários estabelecido pelo regime jurídico dos serviços mínimos bancários.
 
@@ -544,7 +627,9 @@ a) Divulgar publicamente nas suas agências as condições de contratação e ma
 
 b) Informar os seus clientes da possibilidade de conversão da atual conta bancária em conta de serviços mínimos bancários ao abrigo do regime jurídico dos serviços mínimos bancários, e os respetivos pressupostos daquela conversão, com o primeiro extrato de cada ano.
 
-###### Base XII — Proteção de dados
+Base XII
+
+Proteção de dados
 
 1 - A consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a que alude o n.º 2 da base v, tem como finalidade exclusiva a confirmação da inexistência de qualquer cartão daquela natureza em nome do declarante e consequente direito de acesso aos serviços mínimos bancários, estando a sua realização regulada pelo disposto nos artigos 4.º e 6.º do regime jurídico dos serviços mínimos bancários.
 
@@ -554,11 +639,15 @@ b) Informar os seus clientes da possibilidade de conversão da atual conta banc�
 
 4 - A declaração a que se refere o n.º 2 da base v não prejudica as demais limitações e obrigações impostas pela legislação relativa à proteção das pessoas singulares no que concerne ao tratamento de dados pessoais.
 
-###### Base XIII — Regime sancionatório
+Base XIII
+
+Regime sancionatório
 
 A instituição de crédito outorgante reconhece e aceita que a violação do protocolo e, concomitantemente, do regime jurídico dos serviços mínimos bancários que lhe subjaz e o regula, determina a aplicação do regime sancionatório previsto no referido regime legal.
 
-###### Base XIV — Cessação de prestação de serviços mínimos bancários
+Base XIV
+
+Cessação de prestação de serviços mínimos bancários
 
 1 - A instituição de crédito outorgante pode cessar a prestação de serviços mínimos bancários, denunciando o presente protocolo, mediante o envio de comunicação escrita ao membro do Governo responsável pela área da defesa do consumidor e ao Banco de Portugal com, pelo menos, 180 dias de antecedência relativamente à data prevista para essa cessação.
 
@@ -566,7 +655,9 @@ A instituição de crédito outorgante reconhece e aceita que a violação do pr
 
 3 - A instituição de crédito outorgante converte unilateralmente as contas de serviços mínimos bancários em contas de depósito à ordem sujeitas às condições por si normalmente praticadas caso, decorrido o prazo previsto no n.º 2, os respetivos titulares não tenham procedido ao encerramento da conta de serviços mínimos bancários.
 
-###### Base XV — Entrada em vigor
+Base XV
+
+Entrada em vigor
 
 O presente protocolo produz efeitos após a sua assinatura.
 
@@ -800,11 +891,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Bases do protocolo
 
-###### Base I — Objeto
+Base I
+
+Objeto
 
 Através do presente protocolo, a instituição de crédito outorgante adere ao sistema de serviços mínimos bancários instituído pelo [Decreto-Lei n.º 27-C/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-c-2000-483458), de 10 de março, alterado pela [Lei n.º 19/2011](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), de 20 de maio, e pelo Decreto-Lei n.º 225/2012, de 17 de outubro, comprometendo-se a prestar serviços mínimos bancários às pessoas singulares que o solicitem, nos termos e condições previstas no regime jurídico dos serviços mínimos bancários e do presente protocolo.
 
-###### Base II — Definições
+Base II
+
+Definições
 
 Para efeitos do presente protocolo, entende-se por:
 
@@ -836,19 +931,25 @@ i) «Ultrapassagem de crédito» descoberto aceite tacitamente pela instituiçã
 
 j) «Suporte duradouro» qualquer instrumento que permita ao interessado ou ao titular de conta de serviços mínimos bancários armazenar informações que lhe sejam pessoalmente dirigidas, de modo a que esta, no futuro, possa aceder facilmente à informação armazenada durante um período de tempo adequado aos fins a que esta se destina e, bem assim, reproduzir essa informação de forma integral e inalterada.
 
-###### Base III — Acesso aos serviços mínimos bancários
+Base III
+
+Acesso aos serviços mínimos bancários
 
 1 - A instituição de crédito outorgante presta os serviços mínimos bancários previstos na alínea b) da base ii às pessoas singulares que, cumprindo os requisitos previstos no regime jurídico dos serviços mínimos bancários, solicitem a abertura de conta de serviços mínimos bancários ou a conversão de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
 
 2 - A instituição de crédito outorgante obriga-se a incluir, em local de destaque dos documentos contratuais e dos impressos que utilize para efeitos da abertura de conta de serviços mínimos bancários e da conversão de conta de depósito à ordem em conta de serviços mínimos bancários, a expressão «Serviços mínimos bancários», e deles dando cópia ao titular da conta.
 
-###### Base IV — Comissões, despesas ou outros encargos
+Base IV
+
+Comissões, despesas ou outros encargos
 
 1 - Sem prejuízo do disposto no n.º 2 e na base x, a instituição de crédito outorgante não pode cobrar comissões, despesas ou outros encargos pela prestação dos serviços referidos na alínea b) da base ii ao abrigo do presente protocolo e do regime jurídico dos serviços mínimos bancários que, anualmente, e no seu conjunto, representem valor superior ao equivalente a 1 % da remuneração mínima mensal garantida.
 
 2 - O titular da conta suporta os custos normalmente praticados pela instituição de crédito outorgante pela emissão do cartão de débito caso venha a solicitar a substituição deste cartão antes de decorridos 18 meses sobre a data da respetiva emissão, salvo se a sua validade for inferior a este prazo ou a causa de substituição for imputável à instituição de crédito.
 
-###### Base V — Abertura da conta de serviços mínimos bancários e recusa legítima
+Base V
+
+Abertura da conta de serviços mínimos bancários e recusa legítima
 
 1 - A prestação de serviços mínimos bancários a pessoa singular que não seja titular de conta de depósito à ordem depende da abertura de conta de serviços mínimos bancários junto da instituição de crédito outorgante, através da celebração do respetivo contrato de depósito à ordem.
 
@@ -880,7 +981,9 @@ a) Exigir às pessoas singulares que solicitem a abertura de conta de serviços 
 
 b) Condicionar a abertura de conta de serviços mínimos bancários à aquisição de produtos ou serviços adicionais.
 
-###### Base VI — Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
+Base VI
+
+Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
 
 1 - A prestação de serviços mínimos por parte da instituição de crédito outorgante pode igualmente resultar da conversão, a pedido do interessado, de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
 
@@ -894,13 +997,17 @@ b) Da conversão direta da conta de depósito à ordem já domiciliada na instit
 
 4 - Quando a conversão de conta de depósito à ordem em conta de serviços mínimos bancários seja efetuada através da modalidade referida na alínea a) do n.º 2, a instituição de crédito outorgante deve informar o interessado sobre as normas legais e regulamentares, bem como sobre os mecanismos de autorregulação existentes neste domínio, nomeadamente, no que respeita à mobilidade de serviços bancários.
 
-###### Base VII — Titularidade
+Base VII
+
+Titularidade
 
 1 - A conta de serviços mínimos bancários pode ser titulada por uma ou por várias pessoas singulares.
 
 2 - Quando seja solicitada a contitularidade de conta de serviços mínimos bancários, seja no momento da abertura ou da conversão da conta, seja em momento posterior, a instituição de crédito outorgante pode legitimamente recusar a abertura de conta, a sua conversão ou o aditamento de novos titulares caso uma das pessoas singulares que tenha solicitado a contitularidade incumpra os requisitos previstos no n.º 4 da base v.
 
-###### Base VIII — Prestação de serviços mínimos bancários
+Base VIII
+
+Prestação de serviços mínimos bancários
 
 1 - Na prestação de serviços mínimos bancários, a instituição de crédito outorgante observa as condições legal e regulamentarmente estabelecidas, nomeadamente em matéria de deveres de informação, e respeitar os mesmos padrões de qualidade e eficiência que são exigidos para a prestação dos serviços bancários em causa a pessoas singulares que não tenham solicitado a prestação de serviços mínimos bancários.
 
@@ -912,11 +1019,15 @@ a) Identificar a conta de depósito à ordem como uma conta de serviços mínimo
 
 b) Descrever os serviços bancários associados e as condições da sua prestação.
 
-###### Base IX — Deveres complementares
+Base IX
+
+Deveres complementares
 
 A instituição de crédito outorgante não pode oferecer, explícita ou implicitamente, quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários, nem permitir a ultrapassagem de crédito em contas de serviços mínimos bancários.
 
-###### Base X — Casos especiais de resolução
+Base X
+
+Casos especiais de resolução
 
 1 - A instituição de crédito outorgante pode resolver o contrato de depósito depois de decorrido, pelo menos, um ano após a abertura ou conversão de conta de depósito à ordem em conta de serviços mínimos bancários, se, nos seis meses anteriores, essa conta apresentar um saldo médio anual inferior a 5 % da remuneração mínima mensal garantida e não tiverem sido realizadas quaisquer operações bancárias nesse mesmo período de tempo.
 
@@ -930,7 +1041,9 @@ A instituição de crédito outorgante não pode oferecer, explícita ou implici
 
 6 - A instituição de crédito outorgante notifica o titular da conta de serviços mínimos da resolução do contrato de depósito com fundamento na situação prevista no n.º 4 e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, com, pelo menos, 30 dias de antecedência a contar da data prevista para a resolução, mediante comunicação em papel ou noutro suporte duradouro.
 
-###### Base XI — Divulgação dos serviços mínimos bancários
+Base XI
+
+Divulgação dos serviços mínimos bancários
 
 1 - A instituição de crédito outorgante obriga-se a publicitar a celebração do presente protocolo e a sua adesão ao sistema de serviços mínimos bancários estabelecido pelo regime jurídico dos serviços mínimos bancários.
 
@@ -940,7 +1053,9 @@ a) Divulgar publicamente nas suas agências as condições de contratação e ma
 
 b) Informar os seus clientes da possibilidade de conversão da atual conta bancária em conta de serviços mínimos bancários ao abrigo do regime jurídico dos serviços mínimos bancários, e os respetivos pressupostos daquela conversão, com o primeiro extrato de cada ano.
 
-###### Base XII — Proteção de dados
+Base XII
+
+Proteção de dados
 
 1 - A consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a que alude o n.º 2 da base v, tem como finalidade exclusiva a confirmação da inexistência de qualquer cartão daquela natureza em nome do declarante e consequente direito de acesso aos serviços mínimos bancários, estando a sua realização regulada pelo disposto nos artigos 4.º e 6.º do regime jurídico dos serviços mínimos bancários.
 
@@ -950,11 +1065,15 @@ b) Informar os seus clientes da possibilidade de conversão da atual conta banc�
 
 4 - A declaração a que se refere o n.º 2 da base v não prejudica as demais limitações e obrigações impostas pela legislação relativa à proteção das pessoas singulares no que concerne ao tratamento de dados pessoais.
 
-###### Base XIII — Regime sancionatório
+Base XIII
+
+Regime sancionatório
 
 A instituição de crédito outorgante reconhece e aceita que a violação do protocolo e, concomitantemente, do regime jurídico dos serviços mínimos bancários que lhe subjaz e o regula, determina a aplicação do regime sancionatório previsto no referido regime legal.
 
-###### Base XIV — Cessação de prestação de serviços mínimos bancários
+Base XIV
+
+Cessação de prestação de serviços mínimos bancários
 
 1 - A instituição de crédito outorgante pode cessar a prestação de serviços mínimos bancários, denunciando o presente protocolo, mediante o envio de comunicação escrita ao membro do Governo responsável pela área da defesa do consumidor e ao Banco de Portugal com, pelo menos, 180 dias de antecedência relativamente à data prevista para essa cessação.
 
@@ -962,6 +1081,8 @@ A instituição de crédito outorgante reconhece e aceita que a violação do pr
 
 3 - A instituição de crédito outorgante converte unilateralmente as contas de serviços mínimos bancários em contas de depósito à ordem sujeitas às condições por si normalmente praticadas caso, decorrido o prazo previsto no n.º 2, os respetivos titulares não tenham procedido ao encerramento da conta de serviços mínimos bancários.
 
-###### Base XV — Entrada em vigor
+Base XV
+
+Entrada em vigor
 
 O presente protocolo produz efeitos após a sua assinatura.

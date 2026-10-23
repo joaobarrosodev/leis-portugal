@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2013/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01f30a33b45e33a6e1287ca19abf7f6a25a5d7d127a15a05437396a80f71ee8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c0f520462a1317512168eb58bd046931862e2f706410f8001dfb403d87bed2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,48 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aicep
+- Comissão de Coordenação e Desenvolvimento Regional
 - Comunicação Social
 - Conselho de Ministros
 - Definição de Competências
-- Impulso Jovem
 - Empresa Pública
-- Setor Empresarial do Estado
 - Gabinete Governamental
-- Comissão de Coordenação e Desenvolvimento Regional
-- Ministro Adjunto e do Desenvolvimento Regional
-- Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
-- Ministro da Economia e do Emprego
-- Ministro da Presidência e dos Assuntos Parlamentares
-- Ministro da Solidariedade e Segurança Social
-- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
-- Secretário de Estado Adjunto e da Defesa Nacional
-- Secretário de Estado da Energia
-- Secretário de Estado das Obras Públicas Transportes e Comunicações
-- Secretário de Estado do Emprego
-- Secretário de Estado do Turismo
-- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
-- Secretário de Estado da Cultura
-- Primeiro-ministro
-- Secretário de Estado da Administração Local
-- Instituto de Gestão do Fundo Social Europeu
 - Gabinete para os Meios de Comunicação Social
+- Governo XIX
+- Impulso Jovem
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto de Investigação Científica e Tropical
 - Instituto Financeiro para o Desenvolvimento Regional
 - Integração de Serviços
-- Instituto de Investigação Científica e Tropical
-- Governo XIX
+- Ministério dos Negócios Estrangeiros
+- Ministro Adjunto e do Desenvolvimento Regional
+- Ministro da Agricultura do MAR do Ambiente e do Ordenamento do Território
+- Ministro da Defesa Nacional
+- Ministro da Economia e do Emprego
 - Ministro da Educação e Ciência
+- Ministro da Presidência e dos Assuntos Parlamentares
+- Ministro da Solidariedade e Segurança Social
+- Ministro de Estado e das Finanças
 - Observatório do QREN
 - Orgânica
 - PCM-Entidades
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Ministro de Estado e das Finanças
 - Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministério dos Negócios Estrangeiros
+- Primeiro-ministro
+- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado Adjunto e da Defesa Nacional
+- Secretário de Estado da Administração Local
+- Secretário de Estado da Cultura
+- Secretário de Estado da Energia
+- Secretário de Estado das Obras Públicas Transportes e Comunicações
 - Secretário de Estado do Desenvolvimento Regional
 - Secretário de Estado do Desporto e Juventude
 - Secretário de Estado do Empreendedorismo Competitividade e Inovação
+- Secretário de Estado do Emprego
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
 - Secretário de Estado para a Modernização Administrativa
+- Setor Empresarial do Estado
 - Transferência de Verbas
 - Tutela
 relationships:
@@ -116,6 +116,30 @@ relationships:
   target: pt:dre:67323529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499049:por
+  label: "Alterados os arts. 2º, 3º, 4º, 6º, 8º, 10º, 12º, 16º, 19º e 20º do Dec Lei 86-A/2011, de 12-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.119/2013.21.08.2013.PCM, DR.IS [160] de 21.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2013-499049
+  date: '2013-08-21'
+- type: amended_by
+  target: pt:dre:570735:por
+  label: "Dada nova redação ao art. 3.º do Dec Lei 86-A/2011 de 12-jul, alterado pelo presente diploma, pelo DEC LEI.20/2014.10.02.2014.PCM,\
+    \ DR.IS [28] de 10.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2014-570735
+  date: '2014-02-10'
+- type: amended_by
+  target: pt:dre:65908883:por
+  label: Dada nova redação aos arts. 2.º e 3.º do Dec Lei 86-A/2011 de 12-jul, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 178/2014 - Diário da República n.º 243/2014, Série I de 2014-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-2014-65908883
+  date: '2014-12-17'
+- type: amended_by
+  target: pt:dre:67323529:por
+  label: Alterado o art. 3.º do Dec. Lei 86-A/2011 de 12-jul, na redação do presente diploma, pelo(a) Decreto-Lei n.º 87/2015
+    - Diário da República n.º 102/2015, Série I de 2015-05-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2015-67323529
+  date: '2015-05-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/246/2012/11/13/p/dre
   label: null
@@ -128,16 +152,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86-a/2011/07/12/p/dre
+- type: cites
+  target: pt:dre:192036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:261127:por
+  label: "Retificado o art. 2.º (na parte que altera o n.º 7 do art. 19.º do Dec Lei 86-A/2011, de 09-mai) pela DECL-RECT.27/2013.21.05.2013.PCM,\
+    \ DR.IS [97] de 21.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/27-2013-261127
+  date: '2013-05-21'
+- type: repealed_by
+  target: pt:dre:484378:por
+  label: "Revogada, a partir de 05.12.2013, a Port 86/2013 de 28-fev DR.IS [42], na redação do presente diploma, pela PORT.351/2013.04.12.2013.PCM,\
+    \ DR.IS [235] de 04.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2013-484378
+  date: '2013-12-04'
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:31Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +238,9 @@ k) [Anterior alínea j)];
 
 l) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Primeiro-Ministro e pelo Secretário de Estado da Cultura.
 
@@ -218,7 +268,9 @@ l) [...].
 
 13 - [Anterior n.º 12].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -228,7 +280,9 @@ l) [...].
 
 4 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -240,7 +294,9 @@ l) [...].
 
 5 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -250,7 +306,9 @@ l) [...].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -304,7 +362,9 @@ l) [Anterior alínea j)].
 
 14 - [Anterior n.º 11].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -314,7 +374,9 @@ l) [Anterior alínea j)].
 
 4 - Transita para o Ministério dos Negócios Estrangeiros o Instituto da Investigação Científica Tropical, I.P.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -346,7 +408,9 @@ l) [Anterior alínea j)].
 
 15 - O Ministro da Economia e do Emprego exerce a coordenação e a execução do programa Impulso Jovem, em articulação com o Ministro da Presidência e dos Assuntos Parlamentares.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -362,7 +426,9 @@ l) [Anterior alínea j)].
 
 7 - O Ministro da Educação e Ciência participa na superintendência e tutela do Instituto de Gestão do Fundo Social Europeu, I.P., em conjunto com o Ministro Adjunto e do Desenvolvimento Regional, o Ministro da Educação e Ciência e o Ministro da Solidariedade e da Segurança Social.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -382,7 +448,7 @@ l) [Anterior alínea j)].
 
 ###### Artigo 3.º — Disposição orçamental
 
-**O Ministro de Estado e das Finanças providencia a efetiva transferência das verbas necessárias ao funcionamento dos gabinetes dos membros do Governo criados nos termos do presente diploma.**
+O Ministro de Estado e das Finanças providencia a efetiva transferência das verbas necessárias ao funcionamento dos gabinetes dos membros do Governo criados nos termos do presente diploma.
 
 ###### Artigo 4.º — Norma revogatória
 
@@ -394,12 +460,12 @@ O presente diploma produz efeitos a partir de 13 de abril de 2013, considerando-
 
 Visto e aprovado em Conselho de Ministros de 26 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 6 de maio de 2013.**
+Promulgado em 6 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de maio de 2013.**
+Referendado em 7 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/020a00/02920295.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1998/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1998-222629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c10a1706ad875cfb7180bba2493abc4250cce63db952125c780fa4fd11aee62b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f4c6232fa7a3a663aaa84307de494f82f900249ac88e8043d1c4050274bbda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,41 +67,70 @@ reuse:
 subjects:
 - Abono de Instalação
 - Acumulação de Funções
-- Tempo de Serviço
+- Avaliação do Pessoal
 - Concurso
 - Deslocação em Serviço
 - Despesas de Deslocação
 - Destacamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Português no Estrangeiro
 - Feriado
 - Férias
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Pessoal Docente
-- Ensino Básico
-- Proteção Social
-- Regime Jurídico
-- Horário de Trabalho
-- Remuneração
-- Avaliação do Pessoal
 - Gestão de Recursos Humanos
-- Educação Pré-escolar
+- Horário de Trabalho
+- Pessoal Docente
+- Proteção Social
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
 - Subsídio de Residência
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:538465:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510046:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538465:por
+  label: "Revogado pelo Dec Lei.165/2006.11.08.2006.ME, DR.IS [155] de 11.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/165-2006-538465
+  date: '2006-08-11'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:02Z'
   warnings: []
   errors: []
 ---
@@ -330,12 +359,12 @@ Em tudo o que não se encontra especialmente previsto no presente diploma aplica
 
 Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1997. - Jaime José Matos da Gama - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 5 de Janeiro de 1998.**
+Promulgado em 5 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Janeiro de 1998.**
+Referendado em 8 de Janeiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

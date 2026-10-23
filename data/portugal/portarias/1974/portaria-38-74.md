@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-1974-408282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0491ad7b2899e1160485cfb14535e9f0b16f10373577c3bd07dfd02a6202e36f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57872938005cd9ea2cbd51bbc4dfbb17f77842202c2cc86ef5cfb42b9412f093
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:58Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administ
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 315.º «Deslocações de pessoal»:
+Artigo 315.º «Deslocações de pessoal»:
 
 N.º 2) Ajudas de custo e subsídios inerentes às deslocações fora da província:
 
@@ -99,7 +115,7 @@ a) A pagar na metrópole ... 160000$00
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 322.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 50000$00
+Artigo 322.º «Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na metrópole» ... 50000$00
 
 ... 210000$00
 

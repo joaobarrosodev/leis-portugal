@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/143/2004/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2004-286112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cfcdec333076d07cd9fc99672ad0b3858047125453ef70d838cb9e3316e01fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55fc297ae35a918492b43474c4edd83dbe269eca486b3b0b748a743ee5d0511a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,14 @@ subjects:
 - Certificado de Conformidade
 - Controlo de Qualidade
 - Definição de Competências
+- Elevador
 - Equipamento Eléctrico
-- Segurança Pública
 - Fiscalização
 - Instituto Nacional do Transporte Ferroviário
 - Normas de Segurança
 - Sanção
 - Segurança dos Edifícios
-- Elevador
+- Segurança Pública
 - TAXA de Prestação de Serviços
 - Transporte de Passageiros
 relationships:
@@ -89,15 +89,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/313/2002/12/23/p/dre
 article_structure:
-  article_count: 6
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:47Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +146,9 @@ b) Os trabalhadores subcontratados para uma dada actividade não podem ser livre
 
 c) O poder de direcção dos trabalhadores subcontratados é funcionalmente delegado na entidade que vai proceder à exploração das instalações por cabo para o transporte de pessoas.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A designação dos organismos encarregues da avaliação de conformidade prevista nos artigos 8.º e 10.º é feita pelo INTF, de acordo com os critérios previstos no anexo VIII, devendo em cada caso ser indicado o respectivo domínio de competência.
 
@@ -156,9 +158,13 @@ c) O poder de direcção dos trabalhadores subcontratados é funcionalmente dele
 
 4 - ...
 
-### CAPÍTULO VIII — Fiscalização, regime sancionatório e taxas
+CAPÍTULO VIII
 
-###### Artigo 27.º — [...]
+Fiscalização, regime sancionatório e taxas
+
+Artigo 27.º
+
+[...]
 
 1 - As instalações que já se encontrem em serviço ou cuja construção já se tenha iniciado no momento da entrada em vigor do presente diploma podem continuar ou iniciar a exploração desde que seja requerido ao INTF, através de pedido instruído com um relatório de segurança, nos termos definidos pelo artigo 6.º, com as devidas adaptações, e demonstrem o preenchimento dos requisitos da capacidade técnica e da cobertura da responsabilidade civil, nos termos dos artigos 13.º e 14.º
 
@@ -170,7 +176,9 @@ c) O poder de direcção dos trabalhadores subcontratados é funcionalmente dele
 
 5 - À colocação no mercado dos subsistemas e componentes de segurança é aplicável, com as devidas adaptações, o disposto nos n.os 1, 2 e 3 do presente artigo.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 ...
 
@@ -192,7 +200,9 @@ Declaração de conformidade da instalação
 
 4 - A declaração de conformidade da instalação não prejudica a necessidade da autorização de entrada em serviço das instalações, aplicando-se à entidade que vai proceder à exploração o disposto no artigo 12.º, com as devidas adaptações.
 
-###### Artigo 24.º-A — Taxas
+Artigo 24.º-A
+
+Taxas
 
 1 - Pela prática de actos previstos no presente diploma, são devidas taxas ao INTF.
 
@@ -204,12 +214,12 @@ A portaria a que se refere o artigo 24.º-A aditado pelo artigo anterior será p
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 19 de Maio de 2004.**
+Promulgado em 19 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Maio de 2004.**
+Referendado em 31 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

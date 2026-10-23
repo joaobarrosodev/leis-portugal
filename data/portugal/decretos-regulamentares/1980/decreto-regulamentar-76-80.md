@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1980-459181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf8a2cf80af5f74c48085ecd6d5ab9cdd8ce8b05aec815030ef94d50f9c75781
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45670db0f25e85a1ef075ab0bbd8c4a8b4e0a83f55d2f9bde81e80c225e148ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estatuto Disciplinar dos Funcionários e Agentes da Administração Central Regional e Local
+- Inspeção Geral de Finanças
+- Processo Disciplinar
+relationships:
+- type: cites
+  target: pt:dre:147386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432674:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:570478:por
+  label: Rectificado pela DECL.DD6188.17.12.1980.PCM, DR.IS [4] de 06.01.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-570478
+  date: '1980-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:13Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +114,13 @@ Face ao exposto:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Competência disciplinar geral)
 
 Para além da competência especial referida no artigo seguinte, a Inspecção-Geral de Finanças (IGF) pode realizar, no âmbito da sua competência funcional, sindicâncias e inquéritos, bem como instruir processos disciplinares, relativamente a quaisquer serviços publicos, com base em determinação superior ou por requisição do Tribunal de Contas.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Competência disciplinar especial)
 
@@ -110,7 +130,7 @@ Para além da competência especial referida no artigo seguinte, a Inspecção-G
 
 3 - As sindicâncias e os inquéritos realizados pela IGF aos serviços ou pessoal referidos no n.º 1 importam, quando houver matéria para isso, a instauração de processo disciplinar pelo sindicante ou inquiridor, que deduzirá a acusação no prazo de quarenta e oito horas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Nomeação de sindicante, inquiridor ou instrutor)
 
@@ -120,7 +140,7 @@ Para além da competência especial referida no artigo seguinte, a Inspecção-G
 
 3 - O disposto no n.º 2 é também aplicável à instauração dos processos disciplinares, a que se refere o n.º 1 do artigo 2.º
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Autos de notícia)
 
@@ -128,7 +148,7 @@ Para além da competência especial referida no artigo seguinte, a Inspecção-G
 
 2 - Se, porém, se tratar de funcionário no condicionalismo a que se refere o n.º 1 do artigo 2.º, o inspector instaurará logo processo disciplinar com base no auto de notícia, independentemente de despacho da entidade que tenha competência disciplinar sobre o arguido.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Participações ou queixas)
 
@@ -136,7 +156,7 @@ Para além da competência especial referida no artigo seguinte, a Inspecção-G
 
 2 - As participações ou queixas dirigidas aos inspectores contra funcionários dos serviços que estejam a inspeccionar, devem ser também comunicadas ao inspector-geral, para adoptar as providências que tiver por convenientes.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Notificações)
 
@@ -144,11 +164,11 @@ Para além da competência especial referida no artigo seguinte, a Inspecção-G
 
 2 - Quando a notificação for feita por meio de carta registada com aviso de recepção, considera-se efectuada no dia em que for assinado o respectivo aviso.
 
-###### ARTIGO 7.º(Deslocação do instrutor)
+ARTIGO 7.º(Deslocação do instrutor)
 
 O instrutor pode, sempre que tal se revelar conveniente, deslocar-se a localidade diferente daquela onde corre o processo a fim de efectuar quaisquer diligências, devendo o facto ser comunicado ao inspector-geral.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Sindicâncias e inquéritos)
 
@@ -160,13 +180,13 @@ O instrutor pode, sempre que tal se revelar conveniente, deslocar-se a localidad
 
 4 - Os processos de sindicância e inquérito serão enviados ao inspector-geral, que, por sua vez e a título devolutivo, os enviará, acompanhados dos respectivos processos disciplinares, se os houver, às instâncias a que respeitam, as quais, com a devolução do processo, deverão comunicar as providências que deles resultarem.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Unidade processual)
 
 Serão instaurados tantos processos disciplinares quantos forem os funcionários arguidos, podendo, porém, instaurar-se um único processo a vários arguidos quando acusados da mesma infracção e dependentes do mesmo departamento.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Impedimentos e suspeições)
 
@@ -174,11 +194,11 @@ Serão instaurados tantos processos disciplinares quantos forem os funcionários
 
 2 - A apreciação do impedimento e suspeição do instrutor cabe ao inspector-geral.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Nomeação de peritos)Havendo lugar à intervenção de peritos, a respectiva nomeação pertencerá ao inspector-geral, salvo quando o Estatuto Disciplinar facultar ao arguido a sua indicação e este a fizer.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Resposta do arguido)
 
@@ -186,13 +206,13 @@ Serão instaurados tantos processos disciplinares quantos forem os funcionários
 
 2 - Se o funcionário que praticou os factos pertencer a serviço não sujeito à competência disciplinar especial da IGF, será pelo inspector-geral comunicado o facto à entidade competente.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Testemunhas)
 
 As testemunhas indicadas pelo arguido residentes na localidade onde corre o processo serão por ele apresentadas no dia, hora e local que forem designados na notificação.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Recurso de despachos do instrutor)
 
@@ -208,19 +228,19 @@ As testemunhas indicadas pelo arguido residentes na localidade onde corre o proc
 
 6 - Os recursos que não têm efeito suspensivo só subirão com a decisão final se dela se recorrer.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Comunicação à IGF)
 
 À IGF será dado conhecimento do resultado dos processos disciplinares instaurados pelos seus inspectores.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Delegação de competência)
 
 O inspector-geral poderá delegar nos subinspectores-gerais os poderes originários ou como tal conferidos por este diploma, designadamente os previstos nos artigos 2.º, n.º 1, 3.º, n.º 1, 10.º, n.º 2, e 11.º
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Remissão)
 
@@ -228,8 +248,8 @@ Em tudo o que não estiver especialmente regulamentado no presente diploma é ap
 
 Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva.
 
-**Promulgado em 21 de Novembro de 1980.**
+Promulgado em 21 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

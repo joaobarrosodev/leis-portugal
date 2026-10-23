@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1982-378315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f68337cd020ba8230be2b6ca062afda8469c4d1f79c7e20aaa68a53e4cc9315d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d597cb3c332fb6cdf4d5f6f0b363fe8092498741388e1d7945ff6ea398d0114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Estudos e Coordenação da Reforma Administrativa
+- Ministério da Reforma Administrativa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:218908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396327:por
+  label: "Alterado o quadro de pessoal, pela PORT.927/84.18.12.1984.PCM, DR.IS [291] de 18.12.1984\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/927-1984-396327
+  date: '1984-12-18'
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218908:por
+  label: Revogado, pelo(a) Decreto-Lei n.º 229/86 - Diário da República n.º 186/1986, Série I de 1986-08-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/229-1986-218908
+  date: '1986-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:17Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +133,7 @@ Assim, e conforme o previsto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 170/
 
 ### CAPÍTULO I — Natureza, atribuições e competências
 
-###### Artigo 1.º O Gabinete de Estudos e Coordenação da Reforma Administrativa (GECRA) é um serviço de estudo, planeamento, cooperação e gestão de programas e projectos de reforma administrativa, ao qual incumbe, fundamentalmente:
+Artigo 1.º O Gabinete de Estudos e Coordenação da Reforma Administrativa (GECRA) é um serviço de estudo, planeamento, cooperação e gestão de programas e projectos de reforma administrativa, ao qual incumbe, fundamentalmente:
 
 a) Preparar estudos de fundamentação estratégica e de definição de políticas de reforma administrativa;
 
@@ -116,7 +149,7 @@ f) Acompanhar e participar nos estudos de adaptação das normas reguladoras da 
 
 g) Elaborar os projectos de diplomas legais necessários à concretização das medidas de política definidas.
 
-###### Art. 2.º As atribuições do GECRA desenvolver-se-ão por áreas de actividade e respectivas competências, nos termos dos números seguintes:
+Art. 2.º As atribuições do GECRA desenvolver-se-ão por áreas de actividade e respectivas competências, nos termos dos números seguintes:
 
 1 - Na área de planeamento e da definição de estratégias:
 
@@ -170,13 +203,13 @@ b) Analisar e dar parecer, quando solicitado, sobre projectos de diplomas legais
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 3.º - 1 - O GECRA é dirigido por um director-geral, que, no exercício das suas competências, é coadjuvado por um subdirector-geral.
+Art. 3.º - 1 - O GECRA é dirigido por um director-geral, que, no exercício das suas competências, é coadjuvado por um subdirector-geral.
 
 2 - Nas suas faltas e impedimentos, o director-geral é substituído pelo subdirector-geral.
 
-###### Art. 4.º Junto do GECRA, e presidido pelo seu director, funcionará a comissão de planeamento, nos termos do artigo 5.º do [Decreto-Lei n.º 407/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1980-461786), de 26 de Setembro.
+Art. 4.º Junto do GECRA, e presidido pelo seu director, funcionará a comissão de planeamento, nos termos do artigo 5.º do [Decreto-Lei n.º 407/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1980-461786), de 26 de Setembro.
 
-###### Art. 5.º - 1 - O GECRA organizar-se-á como um centro de pesquisas e de desenvolvimento que, em estreita colaboração com outras unidades do Ministério da Reforma Administrativa e entidades científicas portuguesas e estrangeiras, especialmente o Instituto Nacional de Administração, desenvolve uma actividade de investigação pura e aplicada, privilegiando a cooperação de investigadores, docentes e demais técnicos com o objectivo comum de projectar os grandes sistemas de inovação na Administração Pública.
+Art. 5.º - 1 - O GECRA organizar-se-á como um centro de pesquisas e de desenvolvimento que, em estreita colaboração com outras unidades do Ministério da Reforma Administrativa e entidades científicas portuguesas e estrangeiras, especialmente o Instituto Nacional de Administração, desenvolve uma actividade de investigação pura e aplicada, privilegiando a cooperação de investigadores, docentes e demais técnicos com o objectivo comum de projectar os grandes sistemas de inovação na Administração Pública.
 
 2 - O GECRA, para tanto, deverá:
 
@@ -190,7 +223,7 @@ c) Promover, efectuar e avaliar ensaios piloto de medidas inovadoras para a Admi
 
 4 - O GECRA recorrerá preferencialmente, e sempre que possível, aos meios técnicos e humanos dos outros serviços do Ministério da Reforma Administrativa, mediante acordo a estabelecer através das respectivas hierarquias.
 
-###### Art. 6.º - 1 - Cada área de actividade do GECRA terá um corpo de técnicos que assegurará a sua gestão.
+Art. 6.º - 1 - Cada área de actividade do GECRA terá um corpo de técnicos que assegurará a sua gestão.
 
 2 - Os projectos de cada área serão suportados por equipas de projectos, a constituir, com carácter flexível, expressamente para a realização de cada projecto.
 
@@ -202,7 +235,7 @@ c) Promover, efectuar e avaliar ensaios piloto de medidas inovadoras para a Admi
 
 6 - A designação dos técnicos é feita por tempo limitado - o necessário à execução da tarefa respectiva - e de acordo com o plano de trabalho, sendo a sua actividade exercida a tempo inteiro.
 
-###### Art. 7.º O GECRA disporá dos seguintes serviços de apoio:
+Art. 7.º O GECRA disporá dos seguintes serviços de apoio:
 
 a) Uma secção administrativa hierarquicamente dependente do director;
 
@@ -210,34 +243,34 @@ b) Uma unidade de informação científica e técnica dependente hierarquicament
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 8.º O GECRA dispõe do pessoal constante do quadro I, anexo ao presente diploma.
+Art. 8.º O GECRA dispõe do pessoal constante do quadro I, anexo ao presente diploma.
 
-###### Art. 9.º A secção administrativa do GECRA será integrada pelo pessoal constante do quadro II anexo, que lhe será adstrito, nos termos do n.º 3 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, de entre o pessoal do quadro único do pessoal administrativo do Ministério da Reforma Administrativa.
+Art. 9.º A secção administrativa do GECRA será integrada pelo pessoal constante do quadro II anexo, que lhe será adstrito, nos termos do n.º 3 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio, de entre o pessoal do quadro único do pessoal administrativo do Ministério da Reforma Administrativa.
 
-###### Art. 10.º O regime de pessoal e as normas de provimento do quadro de pessoal a que se referem os artigos anteriores são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
+Art. 10.º O regime de pessoal e as normas de provimento do quadro de pessoal a que se referem os artigos anteriores são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
-###### Art. 11.º Sem prejuízo do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, será integrado no quadro a que se refere o artigo 8.º do presente diploma todo o pessoal que à data da sua entrada em vigor se encontre a prestar serviço efectivo no GECRA, bem como o pessoal pertencente ao quadro do extinto Gabinete de Estudos e Planeamento, em actividade fora do quadro.
+Art. 11.º Sem prejuízo do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, será integrado no quadro a que se refere o artigo 8.º do presente diploma todo o pessoal que à data da sua entrada em vigor se encontre a prestar serviço efectivo no GECRA, bem como o pessoal pertencente ao quadro do extinto Gabinete de Estudos e Planeamento, em actividade fora do quadro.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 12.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas dotações existentes no actual orçamento do Ministério da Reforma Administrativa.
+Art. 12.º Os encargos resultantes da execução deste diploma serão suportados, no corrente ano económico, pelas dotações existentes no actual orçamento do Ministério da Reforma Administrativa.
 
-###### Art. 13.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria da sua competência.
+Art. 13.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano quando estiver em causa matéria da sua competência.
 
-###### Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro de pessoal a que se refere o artigo 8.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf)
 
 ## ANEXO II — Pessoal a que se refere o artigo 9.º do presente decreto regulamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36453648.pdf)

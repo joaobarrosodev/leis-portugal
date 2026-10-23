@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1988-371471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cc5f0f7f7233c90bbbc2d57a2e39465c48b3bcb4176a46039119a43623cd25d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b3f183c10fcfe42112f0ddc88b08b9d310bf43c0d0285c6b8d5a7dc41aa02a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Contrato Programa
+- Direcção Geral de Viação
+- Direcção Geral dos Transportes Terrestres
+- Financiamento
+- Infraestrutura dos Transportes
+relationships:
+- type: cites
+  target: pt:dre:194248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DN 23-A/96 DE 20-JUN DR.IS-B [141]SUPL DE 20/JUN/1996\0UN/1996"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:40:10Z'
   warnings: []
   errors: []
 ---
@@ -197,4 +228,4 @@ Ministério das Obras Públicas, Transportes e Comunicações, 30 de Maio de 198
 
 ## ANEXO I — Quadro referido no n.º 4.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf))](https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf)

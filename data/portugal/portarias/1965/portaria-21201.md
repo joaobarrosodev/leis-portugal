@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21201-1965-238271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c2c502353c37e94a9fc9d7f053c193c8f2486204280cf579262f28c1c3977b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef0318dfb86b9c2fa4fa8317535ba6bc9e9a90c586ad0cc81dde5734bd60e77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470826:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:18Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +99,11 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 1.º Os artigos 23.º, 28.º e 31.º do Regulamento do Instituto de Estudos Sociais, aprovado pela [Portaria n.º 19470](https://diariodarepublica.pt/dr/detalhe/portaria/19470-1962-156245), de 30 de Outubro de 1962, passam a ter a seguinte redacção:
 
-###### Art. 23.º Os exames de aptidão serão realizados de 16 a 31 de Julho e de 1 a 15 de Outubro de cada ano e constarão de provas escritas sobre a língua e literatura portuguesa, filosofia e história, segundo os programas do 3.º ciclo dos liceus.
+Art. 23.º Os exames de aptidão serão realizados de 16 a 31 de Julho e de 1 a 15 de Outubro de cada ano e constarão de provas escritas sobre a língua e literatura portuguesa, filosofia e história, segundo os programas do 3.º ciclo dos liceus.
 
 ...
 
-###### Art. 28.º - 1. A inscrição em qualquer das disciplinas professadas no Instituto será feita no prazo estabelecido no artigo 26.º e os alunos pagarão a quantia de 100$00 por cada uma das disciplinas em que se inscreverem, em duas prestações, uma no acto da inscrição e a outra no mês de Janeiro.
+Art. 28.º - 1. A inscrição em qualquer das disciplinas professadas no Instituto será feita no prazo estabelecido no artigo 26.º e os alunos pagarão a quantia de 100$00 por cada uma das disciplinas em que se inscreverem, em duas prestações, uma no acto da inscrição e a outra no mês de Janeiro.
 
 2. A matrícula ou inscrição pode ser efectuada depois de 30 de Setembro e até 15 de Novembro, mas neste caso a importância referida no número anterior será acrescida de 50$00 ou de 100$00 por disciplina, consoante aquele acto for efectuado antes ou depois de 20 de Outubro.
 
@@ -103,11 +115,11 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 ...
 
-###### Art. 31.º Os alunos só poderão inscrever-se nas disciplinas que fazem parte de cada um dos anos dos cursos regulares (sistemáticos), desde que tenham obtido aprovação em todas as disciplinas do ano anterior menos numa, sem prejuízo das precedências que vierem a ser estabelecidas pelo conselho directivo.
+Art. 31.º Os alunos só poderão inscrever-se nas disciplinas que fazem parte de cada um dos anos dos cursos regulares (sistemáticos), desde que tenham obtido aprovação em todas as disciplinas do ano anterior menos numa, sem prejuízo das precedências que vierem a ser estabelecidas pelo conselho directivo.
 
 2.º Os artigos 4.º e 17.º do Regulamento dos Exames, aprovado pela [Portaria n.º 20407](https://diariodarepublica.pt/dr/detalhe/portaria/20407-1964-470018), de 2 de Março de 1964, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1. Em cada exame haverá duas chamadas, com intervalo mínimo de sete dias.
+Art. 4.º - 1. Em cada exame haverá duas chamadas, com intervalo mínimo de sete dias.
 
 2. Os alunos podem apresentar-se indiferentemente à primeira ou segunda chamada, mas a falta a ambas, seja por que motivo for, não pode em caso algum ser relevada.
 
@@ -119,7 +131,7 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Prev
 
 ...
 
-###### Art. 17.º Só poderá ser admitido a exame final o aluno que se encontre devidamente inscrito na respectiva disciplina e em relação ao qual se verifiquem cumulativamente as seguintes condições:
+Art. 17.º Só poderá ser admitido a exame final o aluno que se encontre devidamente inscrito na respectiva disciplina e em relação ao qual se verifiquem cumulativamente as seguintes condições:
 
 a) Haver obtido aprovação em todas as disciplinas do ano anterior, sem prejuízo do disposto no artigo 31.º do regulamento do Instituto;
 
@@ -131,29 +143,29 @@ d) Ter apresentado a tempo o requerimento de exame, nos termos do § 1.º do art
 
 3.º O Regulamento das Bolsas de Estudo e de Isenções ou Reduções de Propinas, aprovado pela [Portaria n.º 20486](https://diariodarepublica.pt/dr/detalhe/portaria/20486-1964-470826), de 2 de Abril de 1964, passa a designar-se por Regulamento das Bolsas de Estudo, de Isenções ou Reduções de Propinas e de Outros Benefícios, sendo alterado o seu artigo 1.º, que passa a ter a seguinte redacção:
 
-###### Artigo 1.º Os alunos do Instituto de Estudos Sociais podem beneficiar de bolsas de estudo, de isenções ou reduções de propinas e de subsídios de deslocação, nos termos dos artigos seguintes.
+Artigo 1.º Os alunos do Instituto de Estudos Sociais podem beneficiar de bolsas de estudo, de isenções ou reduções de propinas e de subsídios de deslocação, nos termos dos artigos seguintes.
 
 4.º São aditadas ao regulamento referido no n.º 3.º seis novas disposições, que passam a constituir os artigos 18.º, 19.º, 20.º, 21.º, 22.º e 23.º, ficando o actual artigo 18.º a figurar sob o n.º 24.º:
 
-###### Art. 18.º Pode o conselho directivo, concorrendo razões ponderosas, conceder bolsas de estudo ou isenção de propinas a candidatos que não preencham todas as condições estabelecidas nos artigos 5.º e 7.º, sem prejuízo da prioridade absoluta de que beneficiam os que reúnam aquelas condições.
+Art. 18.º Pode o conselho directivo, concorrendo razões ponderosas, conceder bolsas de estudo ou isenção de propinas a candidatos que não preencham todas as condições estabelecidas nos artigos 5.º e 7.º, sem prejuízo da prioridade absoluta de que beneficiam os que reúnam aquelas condições.
 
 § 1.º Para a concessão de bolsas de estudo nestas condições, a média prevista na alínea b) do artigo 5.º nunca pode descer a menos de 12 valores e as constantes do artigo 7.º a 12 ou 14 valores, respectivamente.
 
 § 2.º Não pode ser concedida isenção de propinas a quem não tiver tido aproveitamento no ano anterior com a média mínima de 11 valores.
 
-###### Art. 19.º Serão concedidos, nos termos dos artigos seguintes, subsídios de deslocação, no montante global máximo a fixar, em cada ano, pelo Ministro das Corporações e Previdência Social, sob proposta do director do Instituto.
+Art. 19.º Serão concedidos, nos termos dos artigos seguintes, subsídios de deslocação, no montante global máximo a fixar, em cada ano, pelo Ministro das Corporações e Previdência Social, sob proposta do director do Instituto.
 
-###### Art. 20.º Podem concorrer aos subsídios de deslocação os alunos ordinários para a frequência das aulas e os voluntários para a prestação de provas de exames de frequência e finais.
+Art. 20.º Podem concorrer aos subsídios de deslocação os alunos ordinários para a frequência das aulas e os voluntários para a prestação de provas de exames de frequência e finais.
 
-###### Art. 21.º Não poderá ser atribuído a cada aluno subsídio anual superior a 1500$00.
+Art. 21.º Não poderá ser atribuído a cada aluno subsídio anual superior a 1500$00.
 
-###### Art. 22.º Os candidatos deverão apresentar documentação idêntica à prevista para os restantes benefícios e dentro dos prazos referidos.
+Art. 22.º Os candidatos deverão apresentar documentação idêntica à prevista para os restantes benefícios e dentro dos prazos referidos.
 
 § 1.º Os alunos a quem seja concedida bolsa de estudo não podem beneficiar dos subsídios de deslocação.
 
 § 2.º A concessão de subsídios de deslocação é condicionada à obtenção das classificações exigidas para a isenção de propinas.
 
-###### Art. 23.º O conselho directivo apreciará e graduará discricionàriamente o montante de cada subsídio pedido, subordinando-se todavia à escala de preferências constante do artigo 13.º
+Art. 23.º O conselho directivo apreciará e graduará discricionàriamente o montante de cada subsídio pedido, subordinando-se todavia à escala de preferências constante do artigo 13.º
 
 § único. O conselho directivo fixará ainda as prestações em que serão entregues os subsídios.
 

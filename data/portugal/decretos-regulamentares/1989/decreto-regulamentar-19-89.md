@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1989-619914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b84ce9e544d80f8dc8cc0c6e67d466e066590d817fdc268b4ba2979bf9130aec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bec8c9eed550de9a66478da3ddfd5736434d6b66109f07362404897fd1205970
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Nacional de Toponímia
+- Definição de Competências
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:462273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619919:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:52Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +104,9 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 230/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1989-619919), de 21 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Conselho Nacional de Toponímia, criado no âmbito e na dependência do Instituto Geográfico e Cadastral, é um órgão consultivo de toponímia, para todos os organismos geradores de topónimos.
+Artigo 1.º O Conselho Nacional de Toponímia, criado no âmbito e na dependência do Instituto Geográfico e Cadastral, é um órgão consultivo de toponímia, para todos os organismos geradores de topónimos.
 
-###### Art. 2.º São objectivos do Conselho Nacional de Toponímia:
+Art. 2.º São objectivos do Conselho Nacional de Toponímia:
 
 a) Disciplinar a atribuição dos nomes geográficos em vigor ou a vigorar no País;
 
@@ -102,7 +114,7 @@ b) Colaborar na normalização internacional dos nomes geográficos;
 
 c) Difundir a informação respeitante aos nomes geográficos.
 
-###### Art. 3.º Compete ao Conselho Nacional de Toponímia:
+Art. 3.º Compete ao Conselho Nacional de Toponímia:
 
 a) Emitir parecer sobre a atribuição correcta e uniforme dos nomes geográficos a nível nacional;
 
@@ -114,12 +126,12 @@ Presidência do Conselho de Ministros, 5 de Junho de 1989.
 
 Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 10 de Julho de 1989.**
+Promulgado em 10 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Julho de 1989.**
+Referendado em 12 de Julho de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

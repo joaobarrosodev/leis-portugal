@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/17500/0726207263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/189/2015/09/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2015-70215251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5239e480bf1732e2352cda763b2e2d0339798e8bcb807dd6bd39b28668eba64c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b3e113b06e879689d8ee90bacf0a3ed3c958057d15f83b996c92ecdafa2addd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Leite
+- Açores
+- Agricultura
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Exploração Pecuária
-- Comissão CE
-- Instituto de Alimentação e Mercados Agrícolas
 - IFAP
-- Publicitação
-- Página na Internet
+- Instituto de Alimentação e Mercados Agrícolas
 - Internet
+- Leite
+- Madeira.região Autónoma
+- Multa
+- Página na Internet
+- Pecuária
 - Produção Leiteira
 - Produtor
-- Madeira.região Autónoma
+- Publicitação
 - Registo de Animais
 - Registo Obrigatório
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Pecuária
-- Agricultura
 - Secretaria Regional da Agricultura e Pescas
-- Açores
 - Snira
-- Comércio
 relationships:
 - type: cites
   target: celex:31992R3950
@@ -128,16 +128,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/177/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/177/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676201:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:27:58Z'
   warnings: []
   errors: []
 ---
@@ -262,12 +290,12 @@ c) O Despacho normativo n.º 13/2015, de 7 de julho.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António Manuel Coelho da Costa Moura - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 28 de agosto de 2015.**
+Promulgado em 28 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de setembro de 2015.**
+Referendado em 1 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

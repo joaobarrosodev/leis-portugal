@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/03/052a00/08230827.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/46/1998/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1998-218487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 356d685e42e8cbe1345a04167aca6f5380cd84a491f35987e1db5f5de3186b48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a65293006ab7c4c598e0c2dd12429a6a2551b9fdfd254cd9afc71ce89ac5b9f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ subjects:
 - Animal Reprodutor
 - Aproximação das Legislações
 - Certificado de Origem
-- Direção Geral de Veterinária
-- Definição de Competências
+- Certificado de Qualidade
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
 - Fiscalização
 - Importação
-- Reprodução Animal
-- Certificado de Qualidade
-- Pecuária
 - Instituto Nacional de Investigação Agrária
+- Pecuária
+- Reprodução Animal
 relationships:
 - type: amended_by
   target: pt:dre:629134:por
@@ -117,16 +117,27 @@ relationships:
   target: celex:31994L0028
   label: null
   source: http://data.europa.eu/eli/dir/1994/28/oj
+- type: corrected_by
+  target: pt:dre:276175:por
+  label: "Dada sem efeito a publicação do quadro sinóptico anexo ao presente diploma pela DECL-RECT.7-B/98.1998.03.24.PCM,\
+    \ DR.IS-A [76]3ºSupl de 31/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-b-1998-276175
+  date: '1998-03-24'
+- type: repealed_by
+  target: pt:dre:629134:por
+  label: "Revogado o presente diploma, pelo DEC LEI.349/2007.19.10.2007.MADRP, DR.IS [202] de 19.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-2007-629134
+  date: '2007-10-19'
 article_structure:
-  article_count: 15
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:53Z'
   warnings: []
   errors: []
 ---
@@ -203,17 +214,19 @@ d) ...»
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1998. - Jaime José Matos da Gama - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 12 de Fevereiro de 1998.**
+Promulgado em 12 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1998.**
+Referendado em 18 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Âmbito de aplicação
 

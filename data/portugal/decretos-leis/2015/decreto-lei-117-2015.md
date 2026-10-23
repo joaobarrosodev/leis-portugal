@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/117/2015/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2015-67541744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bf988ded56b6d9534b389e7fe8162e754c24c977cdbb65de71285883a984d87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef1a1f858da6b5fb9f314ab992fbd855e1c6dd46b8af2a747bcc704c65867c27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Açores
 - ÁGUA Superficial
 - Águas Balneares
 - Águas Públicas
-- Aproximação das Legislações
-- Ordenamento do Território
-- Portugal
-- Recursos Hídricos
-- Mar Territorial
-- Espanha
-- Orla Costeira
-- Fiscalização
-- Ministério do Ambiente Ordenamento do Território e Energia
-- Informação
-- Proteção do Ambiente
-- Plano de Bacia Hidrográfica
-- Bacia Hidrográfica
-- Zona de Proteção
-- Madeira.região Autónoma
-- Domínio Público Hídrico
 - Águas Subterrâneas
+- Aproximação das Legislações
+- Bacia Hidrográfica
+- Domínio Público Hídrico
+- Espanha
+- Fiscalização
+- Informação
+- Madeira.região Autónoma
+- Mar Territorial
+- Ministério do Ambiente Ordenamento do Território e Energia
+- Ordenamento do Território
+- Orla Costeira
+- Plano de Bacia Hidrográfica
+- Portugal
+- Proteção do Ambiente
+- Recursos Hídricos
 - Rio Guadiana
 - RIO Minho
-- Açores
-- Abastecimento de Água
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -115,6 +115,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629135:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -122,13 +142,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:39Z'
   warnings: []
   errors: []
 ---
@@ -173,15 +193,15 @@ Os anexos I e II ao [Decreto-Lei n.º 347/2007](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros de 30 de abril de 2015. - Pedro Passos Coelho - José de Almeida Cesário - Jorge Manuel Lopes Moreira da Silva.
 
-**Promulgado em 12 de junho de 2015.**
+Promulgado em 12 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de junho de 2015.**
+Referendado em 16 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -191,10 +211,12 @@ Visto e aprovado em Conselho de Ministros de 30 de abril de 2015. - Pedro Passos
 
 Mapa com a delimitação das regiões hidrográficas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf)
 
-## ANEXO II — (a que se refere o n.º 1 do artigo 1.º)
+ANEXO II
+
+(a que se refere o n.º 1 do artigo 1.º)
 
 Descrição das RH
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12000/0438504389.pdf)

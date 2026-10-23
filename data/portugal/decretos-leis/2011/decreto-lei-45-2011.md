@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/03/06000/0169501697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/2011/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2011-277655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5670a53a2a4ba81c46788779825f007ff741d575757fa6adea655d3cca41de87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b0ae88139765cf87d2c5611432c1ec1b26472ed23abe24c766e92dbcaed27fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- GADO
-- Multa
 - Contra-ordenação
 - Controlo Sanitário
 - Exploração Pecuária
+- GADO
 - Licenciamento
-- Proteção do Ambiente
-- Prazo
+- Multa
 - Pecuária
+- Prazo
+- Produção Animal
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:496729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146214:por
+  label: "Alterados os art.s 66º e 67º do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma, pelo DEC LEI.107/2011.16.11.2011.MAMAOT,\
+    \ DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2011-146214
+  date: '2011-11-16'
+- type: amended_by
+  target: pt:dre:260886:por
+  label: "Alterados os arts. 66º e 67º do Dec Lei 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.59/2013.08.05.2013.MAMAOT,\
+    \ DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2013-260886
+  date: '2013-05-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
   label: null
@@ -101,16 +113,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:334894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496729:por
+  label: "Revogado o Dec Lei n.º 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:20Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +217,9 @@ o) O incumprimento das normas constantes da portaria referida no n.º 3 do artig
 
 3 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - As actividades pecuárias já licenciadas ou autorizadas ao abrigo da legislação anterior devem promover junto da entidade coordenadora, até 31 de Dezembro de 2011, a actualização dos registos das explorações e solicitar a reclassificação das suas actividades pecuárias, com a actualização do cadastro de acordo com as disposições do presente decreto-lei e das respectivas portarias.
 
@@ -195,7 +235,9 @@ o) O incumprimento das normas constantes da portaria referida no n.º 3 do artig
 
 7 - O prazo previsto no n.º 1 não prejudica a obrigatoriedade de cumprimento do disposto no artigo 10.º da Portaria n.º 631/2009, de 9 de Junho.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -225,7 +267,9 @@ b) A violação do disposto nos n.os 5, 8 e 10 do artigo 10.º da Portaria n.º 
 
 3 - A afectação das coimas relativas às contra-ordenações previstas no presente artigo efectua-se nos termos do artigo 73.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto, e pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
 
-###### Artigo 57.º-B — Sanções acessórias e apreensão cautelar
+Artigo 57.º-B
+
+Sanções acessórias e apreensão cautelar
 
 1 - Sempre que a gravidade da infracção o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de Agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de Agosto, e pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
 
@@ -239,12 +283,12 @@ O presente decreto-lei produz efeitos a 1 de Janeiro de 2011.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Ana Maria Teodoro Jorge.
 
-**Promulgado em 17 de Março de 2011.**
+Promulgado em 17 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Março de 2011.**
+Referendado em 18 de Março de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

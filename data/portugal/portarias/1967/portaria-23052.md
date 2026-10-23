@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23052-1967-400619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e257210f1843f8a0ba989c01a5c7894e8ee54326cf02e26c4489a25f26dd578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68a6e094267382663f63917daefdb5ee3db2c884c7a2d053710d110c7e2c1e78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:44Z'
   warnings: []
   errors: []
 ---
@@ -89,33 +93,33 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 Despesas como o pessoal:
 
-###### Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 250000$00
+Artigo 3.º, n.º 1) «Outras despesas com o pessoal - Ajudas de custo» ... 250000$00
 
-###### Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios de renda de casa» ... 200000$00
+Artigo 3.º, n.º 4) «Outras despesas com o pessoal - Subsídios de renda de casa» ... 200000$00
 
-###### Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Abono de família» ... 1500000$00
+Artigo 3.º, n.º 5) «Outras despesas com o pessoal - Abono de família» ... 1500000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 3) «Aquisições de utilização permanente - Móveis» ... 500000$00
+Artigo 5.º, n.º 3) «Aquisições de utilização permanente - Móveis» ... 500000$00
 
-###### Artigo 6.º, n.º 2), alínea b), 2 «Despesas de conservação e aproveitamento do material - Semoventes - Veículos com motor - Reparações e sobresselentes» ... 2500000$00
+Artigo 6.º, n.º 2), alínea b), 2 «Despesas de conservação e aproveitamento do material - Semoventes - Veículos com motor - Reparações e sobresselentes» ... 2500000$00
 
-###### Artigo 6.º, n.º 3) «Depesas de conservação e aproveitamento do material - Móveis» ... 250000$00
+Artigo 6.º, n.º 3) «Depesas de conservação e aproveitamento do material - Móveis» ... 250000$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Impressos» ... 420000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Impressos» ... 420000$00
 
-###### Artigo 7.º, n.º 4) «Material de consumo corrente - Artigos de expediente e diverso material não especificado e embalagens» ... 750000$00
+Artigo 7.º, n.º 4) «Material de consumo corrente - Artigos de expediente e diverso material não especificado e embalagens» ... 750000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 200000$00
+Artigo 9.º, n.º 1) «Despesas de comunicações - Correios e telégrafos» ... 200000$00
 
-###### Artigo 11.º, n.º 1), alínea d) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Despesas gerais com o recrutamento» ... 100000$00
+Artigo 11.º, n.º 1), alínea d) «Encargos administrativos - Preparação militar do pessoal a incorporar na província - Despesas gerais com o recrutamento» ... 100000$00
 
-###### Artigo 11.º, n.º 4) «Encargos administrativos - Subsídios para funerais» ... 60000$00
+Artigo 11.º, n.º 4) «Encargos administrativos - Subsídios para funerais» ... 60000$00
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 3590000$00
+Artigo 13.º «Despesas de anos económicos findos» ... 3590000$00
 
 ... 10320000$00
 
@@ -123,7 +127,7 @@ tomando como contrapartida as disponibilidades que se indicam nas seguintes rubr
 
 Despesas com o pessoal:
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal dos quadros» ... 10320000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Vencimentos do pessoal dos quadros» ... 10320000$00
 
 Presidência do Conselho, 11 de Dezembro de 1967. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
 

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/47/2014/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2014-572123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98fac95ef5c8ebd3879c33f813fe5843fa8dbfe7fe2976e6e813683480196e40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c618584df0a0f5c2e34729213da1f83e2cbb4b873e51963b60425893e757cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Autoridade Nacional
-- Obras Particulares
-- Projeto de Investimento
-- Comissão de Coordenação e Desenvolvimento Regional
-- Avaliação de Impacte Ambiental
-- Conselho Consultivo
-- Publicitação
-- Licenciamento
-- Obras Públicas
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Política do Ambiente
-- Rede Natura 2000
 - Agência Portuguesa do Ambiente
+- Autoridade Nacional
+- Avaliação de Impacte Ambiental
+- Comissão de Coordenação e Desenvolvimento Regional
+- Conselho Consultivo
+- Gestão do Ambiente
+- Licenciamento
+- Obras Particulares
+- Obras Públicas
+- Política do Ambiente
+- Projeto de Investimento
+- Proteção do Ambiente
+- Publicitação
+- Rede Natura 2000
 relationships:
 - type: amended_by
   target: pt:dre:114337013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107458720:por
+  label: Alterado o art. 1.º do Dec Lei 151-B/2013 de 31-out, na redação do presente diploma, pelo(a) Lei n.º 37/2017 - Diário
+    da República n.º 107/2017, Série I de 2017-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2017-107458720
+  date: '2017-06-02'
+- type: amended_by
+  target: pt:dre:114337013:por
+  label: Alterados a partir de 01.01.2018 os arts. 1.º, 8.º, 26.º, 31.º e 45.º do Dec Lei 151-B/2013, de 31-out, na redação
+    do presente diploma pelo(a) Decreto-Lei n.º 152-B/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-b-2017-114337013
+  date: '2017-12-11'
 - type: cites
   target: celex:32011L0092
   label: null
@@ -97,15 +109,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/151-b/2013/10/31/p/dre
 article_structure:
-  article_count: 11
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:23Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +176,9 @@ ii) [...].
 
 8 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -188,7 +202,9 @@ ii) [...].
 
 11 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -210,7 +226,9 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O EIA deve conter as informações necessárias, consoante o caso, em função das características do estudo prévio, anteprojeto ou projeto de execução em causa, atendendo aos conhecimentos e métodos de avaliação existentes, devendo incluir, no mínimo, os elementos fixados no anexo V ao presente decreto-lei, do qual faz parte integrante, bem como, observar as normas técnicas constantes de portaria aprovada pelo membro do Governo responsável pela área do ambiente, ouvidos os responsáveis pelas áreas de tutela dos projetos abrangidos pelo presente decreto-lei.
 
@@ -220,7 +238,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A decisão da autoridade de AIA sobre o PDA do EIA caduca se, decorridos dois anos sobre a data da sua notificação ao proponente, este não der início ao procedimento de AIA, nos termos do artigo 14.º
 
@@ -234,7 +254,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...].
 
@@ -250,7 +272,9 @@ b) [...].
 
 7 - [...].
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...].
 
@@ -264,7 +288,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...].
 
@@ -278,7 +304,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 2 e 3, o presente decreto-lei não se aplica aos procedimentos de definição do âmbito do EIA, de avaliação e de verificação da conformidade ambiental do projeto de execução com a DIA que se encontrem em curso à data da sua entrada em vigor.
 
@@ -294,12 +322,12 @@ O disposto no artigo 50.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, na 
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 4 de março de 2014.**
+Promulgado em 4 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de março de 2014.**
+Referendado em 5 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

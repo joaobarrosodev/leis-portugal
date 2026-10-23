@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34863490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2007-638526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf8affcd65591bf077bd34071dd720533efe8a810e4f58c2ef78d0061b4b54c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7413ddca7fcefd0b6fa8e36060adbc550edc5417a96794ce99e5d40c8c988c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Fiscal Único
-- Gestão Financeira
+- Conselho Consultivo
+- Conselho Diretivo
 - Conselho Médico
 - Definição de Competências
-- Conselho Diretivo
-- Conselho Consultivo
+- Fiscal Único
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Instituto da Segurança Social
 - Instituto Público
 - Orgânica
 - Regime de Pessoal
-- Gestão de Recursos Humanos
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:553887:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455128:por
+  label: "Alterados, a partir de 01.09.2008, os arts. 5º, 18º, 19º e 20º do presente diploma, pelo DEC LEI.163/2008.08.08.2008.MTSSO,\
+    \ DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2008-455128
+  date: '2008-08-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2004/05/13/p/dre
   label: null
@@ -102,16 +108,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:268650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553887:por
+  label: "Revogado, a partir de 01.04.2012, com as alterações introduzidas pelo Dec Lei 163/2008 de 08-ago, pelo DEC LEI.83/2012.30.03.2012.MSSS,\
+    \ DR.IS [65] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2012-553887
+  date: '2012-03-30'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:58Z'
   warnings: []
   errors: []
 ---
@@ -448,12 +480,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 14 de Abril de 2007.**
+Promulgado em 14 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

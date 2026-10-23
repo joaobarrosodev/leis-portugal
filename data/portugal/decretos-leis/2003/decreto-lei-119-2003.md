@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/2003/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2003-684205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb28d9ed93383adc1dbcb777fd13c55e2671f600b164037a5b4bb0b262cff558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db3104e645537dec98539d5bcf19b18859b6adb1f9378bccc3aecf106f34211e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Inovação
-- Ministro da Economia
 - Conselho de Ministros
 - EDIA
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Primeiro-ministro
-- Secretário de Estado da Administração Local
-- Secretário de Estado dos Transportes
+- Governo XV
 - Instituto Nacional de Investigação Agrária e das Pescas
 - Laboratório Nacional de Investigação Veterinária
-- Secretário de Estado do Ambiente
-- Secretário de Estado para os Assuntos Europeus
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro da Ciência e do Ensino Superior
+- Ministro da Economia
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Ministro das Obras Públicas Transportes e Habitação
+- Ministro de Estado e das Finanças
 - Orgânica
 - Parpública
-- Secretário de Estado Adjunto do Primeiro-ministro
-- Ministro de Estado e das Finanças
+- Primeiro-ministro
 - Secretário de Estado Adjunto do Ministro da Ciência e do Ensino Superior
+- Secretário de Estado Adjunto do Primeiro-ministro
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Administração Pública
 - Secretário de Estado da Habitação
 - Secretário de Estado das Obras Públicas
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Ordenamento do Território
-- Governo XV
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Transportes
+- Secretário de Estado para os Assuntos Europeus
 relationships:
 - type: amended_by
   target: pt:dre:507641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608182:por
+  label: "Alterado o art. 26.º da Lei Orgânica do XV Governo Constituicional, aprovada pelo Dec Lei 120/2002, de 03-Mai, na\
+    \ redacção do presente diploma e republicada na integra, pelo DEC LEI.20/2004.22.01.2004.PCM, DR.IS-A [18] de 22.01.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2004-608182
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:507641:por
+  label: "Alterados os arts. 9.º e 25.º do Dec Lei 120/2002, de 03-Mai, na redacção do presente diploma, pelo DEC LEI.176/2004.23.07.2004.PCM,\
+    \ DR.IS-A [172] de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2004-507641
+  date: '2004-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
@@ -105,16 +118,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 41
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:14Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +174,7 @@ c) [Anterior alínea b).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - O Ministro de Estado e das Finanças é coadjuvado no exercício das suas funções pelo Secretário de Estado do Orçamento, pelo Secretário de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado da Administração Pública.
 
@@ -161,13 +186,13 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - ...
 
 2 - O Ministro da Presidência é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto do Ministro da Presidência.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - ...
 
@@ -177,7 +202,7 @@ d) [Anterior alínea c).]
 
 4 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e a outros ministros, ficam sob a responsabilidade do Ministro da Economia as entidades do sector empresarial do Estado no domínio dos correios e das telecomunicações.
 
-###### Artigo 20.º
+Artigo 20.º
 
 1 - ...
 
@@ -187,7 +212,7 @@ d) [Anterior alínea c).]
 
 4 - ...
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - ...
 
@@ -199,7 +224,7 @@ d) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - ...
 
@@ -219,7 +244,7 @@ b) ...
 
 c) EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., neste caso, ouvindo o Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
-###### Artigo 26.º
+Artigo 26.º
 
 Ficam sujeitos a superintendência conjunta, nomeadamente:
 
@@ -257,13 +282,13 @@ q) [Anterior alínea r).]
 
 r) [Anterior alínea s).]
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - A definição da orientação estratégica da sociedade PARPÚBLICA - Participações Públicas (SGPS), S. A., compete ao Ministro de Estado e das Finanças e ao Ministro da Economia.
 
 2 - A definição da orientação estratégica da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S. A., compete ao Ministro Adjunto do Primeiro-Ministro, ao Ministro da Economia e ao Ministro da Ciência e do Ensino Superior.
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - ...
 
@@ -271,7 +296,7 @@ r) [Anterior alínea s).]
 
 3 - ...
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - ...
 
@@ -281,7 +306,7 @@ r) [Anterior alínea s).]
 
 4 - ...
 
-###### Artigo 31.º
+Artigo 31.º
 
 1 - ...
 
@@ -313,15 +338,15 @@ Em anexo ao presente diploma, do qual faz parte integrante, é republicado na í
 
 Visto e aprovado em Conselho de Ministros de 10 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - João Luís Mota de Campos - Nuno Albuquerque Morais Sarmento - Luís Manuel Gonçalves Marques Mendes - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - António José de Castro Bagão Félix - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 3 de Junho de 2003.**
+Promulgado em 3 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Junho de 2003.**
+Referendado em 4 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — LEI ORGÂNICA DO XV GOVERNO CONSTITUCIONAL
 
@@ -419,7 +444,7 @@ d) Secretário de Estado da Juventude e Desportos.
 
 ###### Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pelo Ministro de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
 ###### Artigo 8.º
 

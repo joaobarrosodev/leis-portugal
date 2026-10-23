@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1983-441299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T07:54:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7659288ddf6d5bad2ef2c168785903d081cde841a3d628f30e1c4fdadef0c24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3edce59b5b13d478f8d6a01e1fdfc96b25a804a469ae6e70ced895715b578bf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:54:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Profissional
+- Escola Náutica Infante Dom Henrique
+- Formação Profissional
+- Marinha Mercante
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:311178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:54:22Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +140,7 @@ b) Aos oficiais da marinha mercante que terminaram com aproveitamento os cursos 
 
 Ministério do Mar.
 
-**Assinada em 12 de Setembro de 1983.**
+Assinada em 12 de Setembro de 1983.
 
 Pelo Ministro do Mar, José de Almeida Serra, Secretário de Estado da Marinha Mercante.
 
@@ -131,13 +148,13 @@ Pelo Ministro do Mar, José de Almeida Serra, Secretário de Estado da Marinha M
 
 a) O curso avançado de combate a incêndios está organizado considerando as matérias divididas em 5 grupos, que englobam as disciplinas teóricas e práticas, a que correspondem os seguintes tempos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf)
 
 b) Durante a frequência do curso os participantes são ainda chamados a preencher 3 tempos, respectivamente com a apresentação (1 tempo) e com o exame de avaliação (2 tempos).
 
 ## ANEXO II — Modelo de certificado de habilitações a que se refere a alínea a) de n.º 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/23200/35393540.pdf)
 
 a) O formato será de 105 mm x 75 mm.
 

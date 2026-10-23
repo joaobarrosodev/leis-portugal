@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1979-393599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75b3d7b55abfa76c669c0991feeb59345330863ba57edff9ac53a1406eac69ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c4ffc96d426ebb608aca37a5b1333c11633c48aeaf6f9a033fded4876fed7a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exploração Portuária
+- Junta Autónoma dos Portos do Norte
+- Prestação de Serviços
+- Regulamento
+- Tarifa Portuária
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:50:21Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ### CAPÍTULO II — Entrada e estacionamento nos portos
 
-###### Art. 21.º Todas as embarcações que entrarem e estacionarem nos portos ficam sujeitas ao pagamento de uma taxa, denominada «taxa de entrada e estacionamento no porto», pela forma seguinte:
+Art. 21.º Todas as embarcações que entrarem e estacionarem nos portos ficam sujeitas ao pagamento de uma taxa, denominada «taxa de entrada e estacionamento no porto», pela forma seguinte:
 
 Por tonelada de arqueação bruta e por períodos de vinte e quatro horas - $30.
 
@@ -126,7 +136,7 @@ c) As embarcações estrangeiras desarmadas, durante o período fixado pelo dire
 
 ...
 
-###### Art. 30.º A taxa de acostagem, por cada período indivisível de vinte e quatro horas e por tonelada de arqueação bruta, será obtida pela expressão t = 0,30 T, em que t é igual ao valor da taxa em escudos e T é igual à tonelagem de arqueação bruta, como é definida no § 5.º do artigo 5.º
+Art. 30.º A taxa de acostagem, por cada período indivisível de vinte e quatro horas e por tonelada de arqueação bruta, será obtida pela expressão t = 0,30 T, em que t é igual ao valor da taxa em escudos e T é igual à tonelagem de arqueação bruta, como é definida no § 5.º do artigo 5.º
 
 ...
 
@@ -138,11 +148,11 @@ c) As embarcações estrangeiras desarmadas, durante o período fixado pelo dire
 
 ...
 
-###### Art. 51.º Pela ocupação temporária dos terrenos marginais livres com mercadorias classificadas como carga geral cobra-se:
+Art. 51.º Pela ocupação temporária dos terrenos marginais livres com mercadorias classificadas como carga geral cobra-se:
 
 Por metro quadrado e por período de oito dias - $50.
 
-###### Art. 52.º Pela ocupação temporária, a descoberto, das obras fluviais ou marítimas e terraplenos da Junta com mercadorias classificadas como carga geral cobram-se, por cada período indivisível de vinte e quatro horas e por metro quadrado, as taxas seguintes:
+Art. 52.º Pela ocupação temporária, a descoberto, das obras fluviais ou marítimas e terraplenos da Junta com mercadorias classificadas como carga geral cobram-se, por cada período indivisível de vinte e quatro horas e por metro quadrado, as taxas seguintes:
 
 Nos primeiros dez períodos - $30.
 
@@ -150,7 +160,7 @@ Do 11.º ao 30.º período - 1$00.
 
 A partir do 31.º período - 2$00.
 
-###### Art. 53.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral cobram-se, por cada período indivisível de vinte e quatro horas e por metro cúbico, as taxas seguintes:
+Art. 53.º Pela ocupação temporária dos armazéns da Junta com mercadorias classificadas como carga geral cobram-se, por cada período indivisível de vinte e quatro horas e por metro cúbico, as taxas seguintes:
 
 Nos primeiros dez períodos - $60.
 
@@ -166,7 +176,7 @@ A partir do 31.º período - 4$00.
 
 ### CAPÍTULO II — Ocupação de terraplenos
 
-###### Art. 59.º Pela ocupação de terraplenos do porto com armazéns, de edifícios e instalações industriais ou comerciais, etc., será aplicada a taxa a seguir indicada, por metro quadrado e por ano, afectada por um coeficiente a fixar pela comissão administrativa, atendendo aos fins a que se destina essa ocupação e natureza das entidades titulares do licenciamento, assim como outros factores que a comissão administrativa entender tomar em consideração:
+Art. 59.º Pela ocupação de terraplenos do porto com armazéns, de edifícios e instalações industriais ou comerciais, etc., será aplicada a taxa a seguir indicada, por metro quadrado e por ano, afectada por um coeficiente a fixar pela comissão administrativa, atendendo aos fins a que se destina essa ocupação e natureza das entidades titulares do licenciamento, assim como outros factores que a comissão administrativa entender tomar em consideração:
 
 Por metro quadrado e por ano - 60$00.
 
@@ -174,7 +184,7 @@ Por metro quadrado e por ano - 60$00.
 
 ...
 
-###### Art. 60.º Pela ocupação de terraplenos do porto com depósito ou vedações para minérios, carvão, madeira, materiais de construção, quaisquer outros materiais ou matérias-primas, lastro, apetrechos de navios, veículos, etc., serão aplicadas as taxas a seguir indicadas, afectadas de um coeficiente a fixar pela comissão administrativa, atendendo aos fins a que se destina essa ocupação, a natureza das entidades titulares do licenciamento, assim como outros factores que a comissão administrativa entender tomar em consideração, podendo optar pelas modalidades seguintes de taxas, de acordo com os interesses do porto:
+Art. 60.º Pela ocupação de terraplenos do porto com depósito ou vedações para minérios, carvão, madeira, materiais de construção, quaisquer outros materiais ou matérias-primas, lastro, apetrechos de navios, veículos, etc., serão aplicadas as taxas a seguir indicadas, afectadas de um coeficiente a fixar pela comissão administrativa, atendendo aos fins a que se destina essa ocupação, a natureza das entidades titulares do licenciamento, assim como outros factores que a comissão administrativa entender tomar em consideração, podendo optar pelas modalidades seguintes de taxas, de acordo com os interesses do porto:
 
 a) Por ano e por metro quadrado - 60$00;
 
@@ -192,7 +202,7 @@ A partir do 31.º dia - 4$00.
 
 ### CAPÍTULO I — Utilização de guindastes e outros aparelhos de carga
 
-###### Art. 67.º Pela utilização de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas, por hora indivisível e dentro do horário normal de trabalho:
+Art. 67.º Pela utilização de guindastes, transportadores ou outros aparelhos de carga ou descarga da Junta, não incluindo a lingagem, são cobradas as seguintes taxas, por hora indivisível e dentro do horário normal de trabalho:
 
 a) Guindastes:
 

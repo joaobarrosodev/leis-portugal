@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/02/04300/0090800910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2012/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2012-542459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f83fb404ed3d45a25c2e2f38ca1f24daf520e989d73c9afe71f2a777e5b1fe5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0860c2d2c494ef5f6c05302140e2843aed2f981951230817c91c4715d784dbba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
+- Direcção Geral da Qualificação dos Trabalhadores em Funções Públicas
 - Extinção de Serviços
 - INA
-- Direcção Geral da Qualificação dos Trabalhadores em Funções Públicas
 - Orgânica
 - Transferência de Competências
 relationships:
@@ -76,6 +76,20 @@ relationships:
   target: pt:dre:159432382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre a Direção-Geral da Qualificação dos Trabalhadores em Funções
+    Públicas, com orgânica aprovada pelo presente diploma, seja exercida pela Ministra da Modernização do Estado e da Administração
+    Pública pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:159432382:por
+  label: Extinta a Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (DGQTFP), sucedendo-lhe o INA, I. P.
+    e revogado a partir de 01.04.2021 o presente diploma pelo(a) Decreto-Lei n.º 19/2021 - Diário da República n.º 51/2021,
+    Série I de 2021-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2021-159432382
+  date: '2021-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/174/2001/05/31/p/dre
   label: null
@@ -96,16 +110,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520467:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:29Z'
   warnings: []
   errors: []
 ---
@@ -232,16 +266,16 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
 
-**Promulgado em 27 de fevereiro de 2012.**
+Promulgado em 27 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de fevereiro de 2012.**
+Referendado em 28 de fevereiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (Mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04300/0090800910.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04300/0090800910.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/04300/0090800910.pdf)

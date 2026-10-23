@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 29/2021, 1º Suplemento, Série I de 2021-02-11
   number: '29'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 52-(2) a 52-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02901/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/11-a/2021/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/11-a-2021-157236766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3884d01f761124902af6475ffd6e651198e13107b76cfa256dfc20b8c45ce065
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14506d83e831d5d760d9e64db4223745d19aad65d3676d9a6b08c99201d31c0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,48 +66,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento de BENS Essenciais
-- Crime
-- Circulação de Pessoas
-- Estabelecimento Comercial
-- Contra-ordenação
 - Arrendamento Urbano não Habitacional
-- Sector Cooperativo
-- Cuidados de Enfermagem
-- Saúde
-- Direitos e Liberdades
-- Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Serviço Nacional de Saúde
-- Segurança Pública
-- Medicamento
-- Fronteiras
 - Catástrofe
-- Recrutamento de Pessoal
+- Circulação de Mercadorias
+- Circulação de Pessoas
+- Contra-ordenação
+- Controlo Sanitário
+- Crime
+- Cuidados de Enfermagem
+- Cuidados Médicos
+- Dados Pessoais
+- Direitos e Liberdades
+- Doença Infecciosa
+- Emigração
+- Ensino
+- Epidemia
+- Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento Hospitalar
+- Estabelecimento Prisional
+- Estado de Emergência
+- Forças Armadas
+- Fronteiras
 - Horário de Funcionamento
 - Iniciativa Privada
-- Estabelecimento Prisional
 - Isolamento Profiláctico
+- Medicamento
 - Medidas Preventivas
-- Forças Armadas
-- Circulação de Mercadorias
-- Doença Infecciosa
-- Epidemia
-- Emigração
 - Preço
-- Ensino
 - Programa Erasmus
-- Cuidados Médicos
 - Proteção Social
-- Teletrabalho
-- Estabelecimento Hospitalar
+- Recrutamento de Pessoal
 - Restrição da Liberdade
+- Saúde
+- Saúde Pública
+- Sector Cooperativo
+- Segurança Pública
+- Serviço Nacional de Saúde
 - Setor Privado
-- Dados Pessoais
+- Situação de Calamidade
+- Teletrabalho
 - Trabalhador
 - Vacinação
-- Equipamento de Proteção
-- Situação de Calamidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
@@ -121,16 +121,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/63-a/2021/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/63-a/2021/02/11/p/dre
+- type: cites
+  target: pt:dre:146220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157236767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:18Z'
   warnings: []
   errors: []
 ---
@@ -233,12 +249,14 @@ Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepubl
 
 O presente Decreto entra imediatamente em vigor, produzindo efeitos nos termos definidos no artigo 3.º
 
-**Assinado em 11 de fevereiro de 2021.**
+Assinado em 11 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de fevereiro de 2021.**
+Referendado em 11 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113977153

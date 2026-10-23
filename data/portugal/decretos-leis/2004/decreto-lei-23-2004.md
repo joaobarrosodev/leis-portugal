@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/23/2004/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2004-608906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84cae5550a8347d2d07022f215b20fe1f23d1f1814f2695045cf1ba284115a5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85751cbfd077d20434918261232630d839e51dc0565e6f980c21aeaac318a0e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Turismo
-- Código do IRC
 - Apoio ao Investimento
-- Indústria Mineira
-- Reserva Fiscal para Investimento
-- IRC
-- Indústria Transformadora
 - Benefícios Fiscais
+- Código do IRC
+- Empresa
+- Indústria Mineira
+- Indústria Transformadora
 - Investimento Privado
+- IRC
+- Reserva Fiscal para Investimento
+- Turismo
 relationships:
 - type: cites
   target: celex:31999R0659
@@ -96,13 +96,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:46Z'
   warnings: []
   errors: []
 ---
@@ -245,27 +245,27 @@ b) À concretização dos resultados da investigação industrial em plano, esqu
 
 Visto e aprovado em Conselho de Ministros de 11 Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Carlos Manuel Tavares da Silva.
 
-**Promulgado em 12 de Janeiro de 2004.**
+Promulgado em 12 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Janeiro de 2004.**
+Referendado em 13 de Janeiro de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — Auxílios com finalidade regional autorizados para Portugal - 2000-2006
 
 Taxas de intensidades máximas expressas em equivalente subvenção líquida
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)
 
 Auxílios à investigação e desenvolvimento entre 2003-2006
 
 Taxas de intensidades máximas expressas em equivalente subvenção líquida
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)](https://files.diariodarepublica.pt/1s/2004/01/019a00/04180423.pdf)
 
 Para efeitos da aplicação das taxas de majoração aplicáveis às pequenas e médias empresas, consideram-se como tais as que se enquadrem na definição comunitária de pequena e média empresa (PME) constante da Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão, de 3 de Abril.
 
@@ -281,7 +281,7 @@ Para efeitos do disposto no n.º 3 do artigo 8.º do Decreto-Lei n.º ... (que i
 
 3) Não ser devedora ao Estado ou à segurança social de quaisquer impostos ou contribuições ou ter o seu pagamento devidamente assegurado;
 
-4) Que o equipamento constante da listagem anexa, relativa ao imobilizado, foi adquirido em estado novo e está afecto exclusiva e permanentemente à realização de actividades de I&D;
+4) Que o equipamento constante da listagem anexa, relativa ao imobilizado, foi adquirido em estado novo e está afecto exclusiva e permanentemente à realização de actividades de I&D
 
 5) Que as despesas financiadas pelo Estado estão perfeitamente definidas e correspondem às estabelecidas no n.º 3 do artigo 5.º;
 

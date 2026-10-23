@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1979-364106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ec3d347ecfa302437e5385c9a5f21d0407c98742bd779f4fcccadbeb68edba6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64fec72a31088cd1293948907656e95b3a59be7c3a6f2b718dbebe27ed8d2739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Administração Geral do Porto de Lisboa
+- Porto de Lisboa
+- Regulamento
+- Regulamento de Tarifas da Administração Geral do Porto de Lisboa
+- Tarifa Portuária
+relationships:
+- type: amended_by
+  target: pt:dre:378677:por
+  label: "Alterados os arts. 6º, 98º, 99º, 102º, 103º, 105º, 117º, 119º, 120º, todos do Regulamento de Tarifas da Administração-Geral\
+    \ do Porto de Lisboa, aprovado pelo Dec 24831 de 31-Dez 1934, alterado pelo presente diploma, pelo DR.48/79.25.08.1979.MTC,\
+    \ DR.IS [196] de 25.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/48-1979-378677
+  date: '1979-08-25'
+- type: cites
+  target: pt:dre:378677:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:44Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +112,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 Os artigos 6.º, 98.º, 99.º, 102.º, 103.º, 105.º, 117.º, 119.º e 120.º do Regulamento de Tarifas da Administração-Geral do Porto de Lisboa, alterados pelo [Decreto Regulamentar n.º 48/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1979-378677), de 25 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 a) ...
 
 b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e em domingos e dias feriados - 100%.
 
-###### Art. 98.º ...
+Art. 98.º ...
 
 a) ...
 
@@ -109,7 +126,7 @@ b) Nas restantes horas após o período normal de trabalho dos dias úteis, na h
 
 § único. ...
 
-###### Art. 99.º O primeiro período de aluguer dos guindastes de via é de uma hora indivisível, excepto aos domingos e dias feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+Art. 99.º O primeiro período de aluguer dos guindastes de via é de uma hora indivisível, excepto aos domingos e dias feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
 § 1.º ...
 
@@ -123,27 +140,27 @@ c) Se o pedido de cancelamento, desistência ou adiamento relativo a serviços a
 
 § 3.º ...
 
-###### Art. 102.º O primeiro período de aluguer dos aparelhos de guindar flutuantes é de uma hora indivisível, excepto aos domingos e dias feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+Art. 102.º O primeiro período de aluguer dos aparelhos de guindar flutuantes é de uma hora indivisível, excepto aos domingos e dias feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
 
-###### Art. 103.º ...
+Art. 103.º ...
 
 a) ...
 
 b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e em domingos e dias feriados - 1250$00.
 
-###### Art. 105.º ...
+Art. 105.º ...
 
 § 1.º Aos sábados, depois do período normal de trabalho, e aos domingos e dias feriados, se se verificar desistência do serviço sem prévio aviso até duas horas antes do fim daquele período, cobrar-se-á do requisitante uma importância calculada segundo o artigo 101.º, correspondente a sete horas de utilização do aparelho ou aparelhos destinados à execução do serviço; havendo alteração da hora marcada para o serviço, não fica a AGPL obrigada a executá-lo, se for para mais cedo, e, se for para mais tarde, a importância devida pelo requisitante, determinada nos termos do artigo 101.º, corresponderá ao tempo decorrido desde a hora inicialmente marcada para o serviço até à sua efectiva conclusão.
 
 § 2.º ...
 
-###### Art. 117.º ...
+Art. 117.º ...
 
 a) ...
 
 b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e em domingos e dias feriados - 1250$00.
 
-###### Art. 119.º ...
+Art. 119.º ...
 
 § 1.º ...
 
@@ -161,7 +178,7 @@ a) ...
 
 b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e em domingos e dias feriados - 600$00.
 
-###### Art. 120.º ...
+Art. 120.º ...
 
 § 1.º Aos sábados, depois do período normal de trabalho, e aos domingos e dias feriados, se houver desistência do serviço sem prévio aviso até duas horas antes do fim daquele período, será devida pelo requisitante uma importância, a determinar nos termos do artigo 116.º ou 119.º, conforme o caso, correspondente a cinco horas de utilização das unidades destinadas à execução do serviço; havendo alteração da hora para este marcada, não fica a AGPL obrigada a executá-lo, se for para mais cedo, e, se for para mais tarde, a importância devida pelo requisitante, determinada de acordo com aqueles mesmos artigos, corresponderá ao tempo compreendido entre a hora inicialmente marcada para o serviço e a sua efectiva conclusão.
 
@@ -173,8 +190,8 @@ O presente diploma produz efeitos a partir do dia 30 de Agosto de 1979.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Frederico Alberto Monteiro da Silva.
 
-**Promulgado em 15 de Outubro de 1979.**
+Promulgado em 15 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/13600/10121012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1973-422653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f67e7655695bd63b3fdaa116448b091ead9d58be8417ae8ddacb9a91affabecb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e47fc9b6b9bc1607b9dec1bda7b33c2779ba84e5d65a439fcc56b1cad239b874
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:466201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:466201:por
+  label: Revogada, a partir de 14 de novembro de 1974, pelo(a) Portaria n.º 757/74 - Diário do Governo n.º 272/1974, Série
+    I de 1974-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/757-1974-466201
+  date: '1974-11-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:06:04Z'
   warnings: []
   errors: []
 ---

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/217/2008/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2008-439404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6234b5a005bf84b64ed72c9c89b87b4cb30f30b558b8a8cafb2d253a3f42e70e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c861d53f3697f29a94db8b613dab6f6566ef637755a2644a0110f433ccbc53de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
-- Publicidade
-- Leite
+- ASAE
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Doação
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- ASAE
-- Proteção do Consumidor
-- Regime Jurídico
+- Leite
 - Pesticida
+- Produto Alimentar
+- Proteção do Consumidor
+- Publicidade
+- Regime Jurídico
+- Saúde Pública
 - Taxa
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571634:por
+  label: "Dada nova redação aos arts. 3.º, 5.º, 10.º e 23.º, assim como aos anexos I, II, III e VI pelo DEC LEI.48/2014.26.03.2014.MAGM,\
+    \ DR.IS [60] de 26.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-2014-571634
+  date: '2014-03-26'
 - type: cites
   target: celex:31989L0398
   label: null
@@ -134,16 +140,21 @@ relationships:
   target: celex:32006R1924
   label: null
   source: http://data.europa.eu/eli/reg/2006/1924/oj
+- type: repealed_by
+  target: pt:dre:107495709:por
+  label: Revogado a partir de 01.07.2017 pelo(a) Decreto-Lei n.º 62/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2017-107495709
+  date: '2017-06-09'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:52Z'
   warnings: []
   errors: []
 ---
@@ -458,15 +469,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - António José de Castro Guerra - Ascenso Luís Seixas Simões - Ana Maria Teodoro Jorge.
 
-**Promulgado em 22 de Outubro de 2008.**
+Promulgado em 22 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de Outubro de 2008.**
+Referendado em 23 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Composição de base das fórmulas para lactentes quando reconstituídas de acordo com as instruções do fabricante
 
@@ -474,7 +485,7 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 1 - Energia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 2 - Proteínas:
 
@@ -482,13 +493,13 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 2.1 - Fórmulas para lactentes fabricadas a partir de proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 Para um mesmo valor energético, a fórmula para lactentes deve conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo v). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 2, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2. A razão metionina:cistina poderá ser superior a 2, mas não superior a 3, desde que a adequação do produto a utilizações nutricionais específicas por lactentes seja demonstrada através de estudos apropriados, realizados de acordo com orientações especializadas geralmente aceites sobre a concepção e a realização desses estudos.
 
 2.2 - Fórmulas para lactentes fabricadas a partir de hidrolisados de proteínas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 Para um mesmo valor energético, a fórmula para lactentes deve conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo v). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 2, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2. A razão metionina:cistina poderá ser superior a 2, mas não superior a 3, desde que a adequação do produto a utilizações nutricionais específicas por lactentes seja demonstrada através de estudos apropriados, realizados de acordo com orientações especializadas geralmente aceites sobre a concepção e a realização desses estudos.
 
@@ -496,7 +507,7 @@ O teor de L-carnitina deve ser pelo menos igual a 0,3 mg/100 kJ (1,2 mg/100kcal)
 
 2.3 - Fórmulas para lactentes fabricadas a partir de isolados de proteína de soja ou de uma mistura destes com proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 No fabrico destas fórmulas para lactentes apenas podem ser utilizados isolados de proteína de soja.
 
@@ -512,11 +523,11 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 4 - Colina:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 5 - Lípidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 5.1 - É proibida a utilização das seguintes substâncias:
 
@@ -526,7 +537,7 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 5.2 - Ácido láurico e ácido mirístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 5.3 - O teor de ácidos gordos trans não deve ser superior a 3 % do teor total de lípidos.
 
@@ -534,7 +545,7 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 5.5 - Ácido linoleico (na forma de glicerídos = lineolatos):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 5.6 - O teor de ácido alfa-linolénico não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).
 
@@ -554,11 +565,11 @@ O teor de ácido docosa-hexaenóico (22:6 n-3) não deve ser superior ao de LCP 
 
 7 - Inositol:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 8 - Hidratos de carbono:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 8.1 - Apenas podem ser utilizados os seguintes hidratos de carbono:
 
@@ -580,7 +591,7 @@ Amido gelatinizado, naturalmente isento de glúten.
 
 8.2 - Lactose:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 A presente disposição não se aplica a fórmulas para lactentes em que os isolados de proteína de soja representem mais de 50 % do teor proteico total.
 
@@ -590,7 +601,7 @@ A presente disposição não se aplica a fórmulas para lactentes em que os isol
 
 8.5 - Amido pré-cozido e ou gelatinizado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 9 - Fruto-oligossacáridos e galacto-oligossacáridos - podem adicionar-se fruto-oligossacáridos e galacto-oligossacáridos às fórmulas para lactentes. Nesse caso, o teor respectivo não deve ser superior a 0,8 g/100 ml numa combinação de 90 % de oligogalactosil-lactose e 10 % de oligofrutosil-sacarose de elevado peso molecular.
 
@@ -600,21 +611,21 @@ Podem ser usadas outras combinações e níveis máximos de fruto-oligossacárid
 
 10.1 - Fórmulas para lactentes fabricadas a partir de proteínas ou hidrolisados de proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 A razão cálcio:fósforo não deve ser inferior a 1 nem superior a 2.
 
 10.2 - Fórmulas para lactentes fabricadas a partir de isolados de proteínas da soja ou de uma mistura destas com proteínas do leite de vaca - aplicam-se todos os requisitos do n.º 10.1, excepto os relativos ao ferro e fósforo, que são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 11 - Vitaminas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 12 - Nucleótidos - podem ser adicionados os nucleótidos que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 ## ANEXO II — Composição de base das fórmulas de transição quando reconstituídas de acordo com as instruções do fabricante
 
@@ -622,7 +633,7 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 1 - Energia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 2 - Proteínas:
 
@@ -630,19 +641,19 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 Fórmulas de transição fabricadas a partir de proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 Para um mesmo valor energético, as fórmulas de transição devem conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo v). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 3, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2.
 
 Fórmulas de transição fabricadas a partir de hidrolisados de proteínas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 Para um mesmo valor energético, as fórmulas de transição devem conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo v). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 3, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2.
 
 Fórmulas de transição fabricadas a partir de isolados de proteína de soja ou de uma mistura destes com proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 No fabrico destas fórmulas apenas podem ser utilizados estes isolados de proteína de soja.
 
@@ -654,7 +665,7 @@ Quaisquer que sejam as circunstâncias, às fórmulas de transição só podem s
 
 4 - Lípidos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 4.1 - É proibida a utilização das seguintes substâncias:
 
@@ -664,7 +675,7 @@ Quaisquer que sejam as circunstâncias, às fórmulas de transição só podem s
 
 4.2 - Ácido láurico e ácido mirístico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 4.3 - O teor de ácidos gordos trans não deve ser superior a 3 % do teor total em lípidos.
 
@@ -672,7 +683,7 @@ Quaisquer que sejam as circunstâncias, às fórmulas de transição só podem s
 
 4.5 - Ácido linoleico (na forma de glicerídeos = lineolatos):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 4.6 - O teor de ácido alfa-linolénico não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).
 
@@ -692,19 +703,19 @@ O teor de ácido docosa-hexaenóico (22:6 n-3) não deve ser superior ao de LCP 
 
 6 - Hidratos de carbono:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 6.1 - É proibida a utilização de ingredientes com glúten.
 
 6.2 - Lactose:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 A presente disposição não se aplica às fórmulas de transição em que os isolados de proteínas de soja representem mais de 50 % do teor proteico total.
 
 6.3 - Sacarose, frutose, mel:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 O mel deve ser tratado para destruir esporos de Clostridium botulinum.
 
@@ -718,31 +729,31 @@ Podem ser usadas outras combinações e níveis máximos de fruto-oligossacárid
 
 8.1 - Fórmulas de transição fabricadas a partir de proteínas ou hidrolisados de proteínas do leite de vaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 A razão cálcio:fósforo presente nas fórmulas de transição não deve ser inferior a 1 nem superior a 2.
 
 8.2 - Fórmulas de transição fabricadas a partir de isolados de proteína de soja ou de uma mistura destes com proteínas do leite de vaca - aplicam-se todos os requisitos do n.º 8.1., excepto os relativos ao ferro e fósforo, que são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 9 - Vitaminas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 10 - Nucleótidos - podem ser adicionados os nucleótidos que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 ## ANEXO III — Substâncias nutritivas
 
 1 - Vitaminas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 2 - Substâncias minerais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 3 - Aminoácidos e outros compostos nitrogenados:
 
@@ -804,17 +815,17 @@ Alegações nutricionais e de saúde das fórmulas para lactentes e condições 
 
 1 - Alegações nutricionais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 2 - Alegações de saúde (incluindo alegações de redução do risco de doença):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 ## ANEXO V — Aminoácidos indispensáveis e condicionalmente indispensáveis no leite humano
 
 Para efeitos do disposto no presente decreto-lei, os aminoácidos indispensáveis e condicionalmente indispensáveis presentes no leite humano, expressos em mg por 100 kJ e por 100 kcal, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 ## ANEXO VI
 
@@ -824,7 +835,7 @@ Especificações relativas ao teor e à fonte de proteínas e à transformação
 
 Teor proteico = teor de azoto x 6,25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 3 - Fonte da proteína - proteína desmineralizada de soro doce derivada do leite de vaca após precipitação enzimática de caseínas por meio de quimosina, composta por:
 
@@ -836,7 +847,7 @@ b) 37 % de concentrado de proteína de soro doce com um teor proteico mínimo de
 
 ## ANEXO VII — Valores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de pouca idade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
 
 ## ANEXO VIII — Pesticidas que não podem ser utilizados em produtos agrícolas destinados à produção de fórmulas para lactentes e fórmulas de transição
 
@@ -872,4 +883,4 @@ Endrina.
 
 ## ANEXO IX — Limites máximos específicos de resíduos específicos para os pesticidas ou metabolitos de pesticidas em fórmulas para lactentes e fórmulas de transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf))](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/21900/0787907892.pdf)

@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1988-372057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b9b83f56548a6f7dba4f6cd69143a48e7d10cbb17e2e2e142b29d6cd8933584
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e67b323d1ffbc9f7cf4aee48c75732959750e530f2a4ad5187b40a68b0a90ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Planeamento e Agricultura
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL, PELA PORTARIA 765/89, PUBLICADA NO DR.IS, 204.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-05'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Determinada a afectação à Direcção-Geral de Planeamento da Agricultura, cuja orgânica e atribuições constam do presente\
+    \ diploma, da Quinta da Sarrazola, no município de Sintra, e dos demais bens imóveis que integram o legado instituído\
+    \ a favor do Estado, pelo Dr. António Brandão Vasconcelos e Esposa, actualmente dependentes da Direcção Regional de Agricultura\
+    \ do Ribatejo e Oeste, cuja orgânica e atribuições constam do DR 55/86 de 08-Out, pelo DR.43/90.19.12.1990.MAPA, DR.IS\
+    \ [291] de 19.12.1990 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DESPACHO NORMATIVO 109/91, PUBLICADO NO DR.IS-B, 118.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-05-23'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO I PELA PORTARIA 444/92, PUBLICADA NO DR.IS-B, 124.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORTARIA 451/92, PUBLICADA NO DR.IS-B, 126.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 81/92, PUBLICADO NO DR.IS-B, 128.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-03'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DESPACHO NORMATIVO 282/93, DE 24 DE AGOSTO, PUBLICADO NO DR.IS-B, 222.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-09-21'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DA EX-DIRECCAO GERAL DE PLANEAMENTO E AGRICULTURA, PELO DESPACHO NORMATIVO 47/94, DE
+    12 DE JANEIRO, PUBLICADO NO DR.IS-B, 23.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-01-28'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma e extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
   article_count: 57
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:01Z'
   warnings: []
   errors: []
 ---
@@ -326,7 +382,9 @@ b) Repartição de Pessoal e Assuntos Gerais (RPAG);
 
 c) Repartição Financeira e Patrimonial (RFP).
 
-###### Artigo 12.º — Divisão de Informática
+###### Artigo 12.º
+
+##### Divisão de Informática
 
 À DI compete:
 
@@ -440,7 +498,9 @@ b) Efectuar o pagamento de todas as despesas devidamente automatizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Artigo 16.º — Divisão de Programação, Controle e Avaliação de Actividades
+###### Artigo 16.º
+
+##### Divisão de Programação, Controle e Avaliação de Actividades
 
 À DPCAA compete:
 
@@ -464,7 +524,9 @@ c) Divisão de Coordenação e Apoio Regional (DCAR);
 
 d) Divisão de Programação e Acompanhamento (DPA).
 
-###### Artigo 18.º — Divisão de Planeamento Global
+###### Artigo 18.º
+
+##### Divisão de Planeamento Global
 
 À DPG compete:
 
@@ -472,7 +534,9 @@ a) Acompanhar a evolução do sector agro-alimentar através da análise das pri
 
 b) Assegurar a definição de objectivos globais e a formulação de estratégias para o sector agrícola, com vista à elaboração dos planos anuais, de médio e longo prazo.
 
-###### Artigo 19.º — Divisão de Estudos e Agro-Economia
+###### Artigo 19.º
+
+##### Divisão de Estudos e Agro-Economia
 
 À DEAE compete:
 
@@ -480,7 +544,9 @@ a) Acompanhar a evolução da política agrícola comum e analisar o seu impacte
 
 b) Desenvolver os estudos necessários à identificação das prioridades de desenvolvimento agrícola de forma coerente com a política agrícola comunitária, de modo a fundamentar propostas de medidas de política.
 
-###### Artigo 20.º — Divisão de Coordenação e Apoio Regional
+###### Artigo 20.º
+
+##### Divisão de Coordenação e Apoio Regional
 
 À DCAR compete:
 
@@ -490,7 +556,9 @@ b) Assegurar a compatibilização entre programas sectorias e regionais;
 
 c) Avaliar o impacte e os efeitos dos diferentes programas regionais.
 
-###### Artigo 21.º — Divisão de Programação e Acompanhamento
+###### Artigo 21.º
+
+##### Divisão de Programação e Acompanhamento
 
 À DPA compete:
 
@@ -512,7 +580,9 @@ b) Divisão de Aplicação das Medidas Complementares à Actividade Agrícola e 
 
 c) Divisão de Aplicação da Regulamentação Específica (DARE).
 
-###### Artigo 23.º — Divisão de Aplicação das Ajudas ao Investimento Agrícola
+###### Artigo 23.º
+
+##### Divisão de Aplicação das Ajudas ao Investimento Agrícola
 
 À DAAIA compete:
 
@@ -532,7 +602,9 @@ b) Apoiar a aplicação da regulamentação comunitária relativa as medidas ref
 
 c) Regulamentar a aplicação a Portugal das medidas complementares à actividade agrícola aprovadas pelas Comunidades Europeias, bem como desenvolver as acções necessárias à aplicação das medidas de protecção e conservação da Natureza contidas nos regulamentos comunitários.
 
-###### Artigo 25.º — Divisão de Aplicação de Regulamentação Específica
+###### Artigo 25.º
+
+##### Divisão de Aplicação de Regulamentação Específica
 
 À DARE compete:
 
@@ -558,7 +630,9 @@ c) Divisão de Culturas Arbóreas e Arbustivas Frutícolas (DCAAF);
 
 d) Divisão de Culturas Agro-lndustriais (DCAI).
 
-###### Artigo 27.º — Divisão de Culturas Arvenses
+###### Artigo 27.º
+
+##### Divisão de Culturas Arvenses
 
 À DCA compete:
 
@@ -570,7 +644,9 @@ c) Estimular uma constante actualização da tecnologia das culturas arvenses, q
 
 d) Participar ou colaborar com as delegações nacionais que, no âmbito da CEE, tratam da problemática da produção das culturas arvenses.
 
-###### Artigo 28.º — Divisão de Horticultura e Floricultura
+###### Artigo 28.º
+
+##### Divisão de Horticultura e Floricultura
 
 À DHF compete:
 
@@ -582,7 +658,9 @@ c) Estimular uma constante actualização da tecnologia das culturas hortícolas
 
 d) Participar ou colaborar com as delegações nacionais que, no âmbito da CEE, tratam da problemática das produções hortícolas e florícolas.
 
-###### Artigo 29.º — Divisão de Culturas Arbóreas e Arbustivas Frutícolas
+###### Artigo 29.º
+
+##### Divisão de Culturas Arbóreas e Arbustivas Frutícolas
 
 À DCAAF compete:
 
@@ -594,7 +672,9 @@ c) Estimular uma constante actualização da tecnologia cultural das fruticultur
 
 d) Participar ou colaborar com as delegações nacionais que, no âmbito da CEE, tratam da problemática da produção frutícola.
 
-###### Artigo 30.º — Divisão de Culturas Agro-Industriais
+###### Artigo 30.º
+
+##### Divisão de Culturas Agro-Industriais
 
 À DCAI compete:
 
@@ -618,7 +698,9 @@ b) Divisão de Formação de Quadros e Técnicos (DFQT);
 
 c) Divisão de Apoio Técnico e Áudio-Visual (DATAV).
 
-###### Artigo 32.º — Divisão de Coordenação da Extensão e Formação
+###### Artigo 32.º
+
+##### Divisão de Coordenação da Extensão e Formação
 
 À DCEF compete:
 
@@ -628,7 +710,9 @@ b) Promover, em estreita colaboração com as direcções regionais de agricultu
 
 c) Estudar, definir, coordenar e compatibilizar o processo e conteúdos de formação profissional de agricultores e trabalhadores rurais a nível nacional no âmbito do MAPA, avaliando o impacte desse mesmo processo.
 
-###### Artigo 33.º — Divisão de Formação de Quadros Técnicos
+###### Artigo 33.º
+
+##### Divisão de Formação de Quadros Técnicos
 
 À DFQT compete:
 
@@ -636,7 +720,9 @@ a) Planear e assegurar a formação técnico-profissional dos técnicos do Minis
 
 b) Garantir e testar novos métodos e técnicas pedagógicas mais apropriadas, com vista à obtenção de uma maior eficácia das acções de formação.
 
-###### Artigo 34.º — Divisão de Apoio Técnico e Áudio-Visual
+###### Artigo 34.º
+
+##### Divisão de Apoio Técnico e Áudio-Visual
 
 À DATAV compete:
 
@@ -664,7 +750,9 @@ b) Divisão de Auditoria e Análise (DAA);
 
 c) Divisão de Fomento Associativo (DFA).
 
-###### Artigo 37.º — Divisão de Apoio à Gestão da Empresa Agrícola
+###### Artigo 37.º
+
+##### Divisão de Apoio à Gestão da Empresa Agrícola
 
 À DAGEA compete:
 
@@ -674,7 +762,9 @@ b) Prestar apoio na aplicação das normas de organização e racionalização d
 
 c) Incentivar e prestar apoio à constituição e funcionamento de grupos e centros de gestão da empresa agrícola.
 
-###### Artigo 38.º — Divisão de Auditoria e Análise
+###### Artigo 38.º
+
+##### Divisão de Auditoria e Análise
 
 À DAA compete:
 
@@ -686,7 +776,9 @@ c) Promover a recolha e análise de dados da empresa agrícola e das diferentes 
 
 d) Analisar as questões sócio-económicas e financeiras relativas ao associativismo agrícola e propor as medidas adequadas.
 
-###### Artigo 39.º — Divisão de Fomento Associativo
+###### Artigo 39.º
+
+##### Divisão de Fomento Associativo
 
 À DFA compete:
 
@@ -708,7 +800,9 @@ a) Divisão de Coordenação de Inquéritos Estatísticos (DCIE);
 
 b) Divisão de Agregados e Estudos Estatísticos (DAEE).
 
-###### Artigo 41.º — Divisão de Coordenação de Inquéritos Estatísticos
+###### Artigo 41.º
+
+##### Divisão de Coordenação de Inquéritos Estatísticos
 
 À DCIE compete, em articulação com o SEN:
 
@@ -720,7 +814,9 @@ c) Coordenar e centralizar os dados provenientes dos inquéritos estatísticos;
 
 d) Colaborar com os serviços de estatística das regiões agrárias na definição das modalidades de execução dos inquéritos estatísticos de âmbito regional, atentas as linhas de orientação traçadas a nível nacional.
 
-###### Artigo 42.º — Divisão de Agregados e Estudos Estatísticos
+###### Artigo 42.º
+
+##### Divisão de Agregados e Estudos Estatísticos
 
 À DAEE compete:
 
@@ -744,7 +840,9 @@ b) Divisão de Divulgação (DD);
 
 c) Divisão de Cooperação Internacional (DCI).
 
-###### Artigo 44.º — Divisão de Informação Especializada
+###### Artigo 44.º
+
+##### Divisão de Informação Especializada
 
 À DIE compete:
 
@@ -756,7 +854,9 @@ c) Adquirir, reunir, tratar e difundir toda a informação e documentação nece
 
 d) Participar e fomentar a participação do MAPA em sistemas de informação internacionais.
 
-###### Artigo 45.º — Divisão de Divulgação
+###### Artigo 45.º
+
+##### Divisão de Divulgação
 
 À DD compete:
 
@@ -768,7 +868,9 @@ c) Prestar informações para o bom entendimento público da política de desenv
 
 d) Promover e apoiar a participação da Direcção-Geral em feiras, exposições e colóquios.
 
-###### Artigo 46.º — Divisão de Cooperação Internacional
+###### Artigo 46.º
+
+##### Divisão de Cooperação Internacional
 
 À DCI compete:
 
@@ -908,19 +1010,19 @@ Presidência do Conselho de Ministros, 11 de Abril de 1988.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Maio de 1988.**
+Referendado em 20 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro a que se refere o n.º 1 do artigo 52.º do Decreto Regulamentar n.º 24/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/13300/24402455.pdf))](https://files.diariodarepublica.pt/1s/1988/06/13300/24402455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/13300/24402455.pdf)
 
 ## ANEXO II — Quadro a que se refere o n.º 1 do artigo 52.º do Decreto Regulamentar n.º 24/88
 

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-1984-661341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:56:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d49995dcc6535a479f3e21f40fe856506cbfb352d4cef5e1d7ab6a79737e72f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45906b1f44d6489e6892f9b5084304cf920299217f7e07bb5dfb0e6b4cf0519a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- EDP
+- Obrigações
+relationships:
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326709:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:56:53Z'
   warnings: []
   errors: []
 ---
@@ -123,6 +133,6 @@ Na 4.ª amortização - 115$00.
 
 Secretaria de Estado do Tesouro.
 
-**Assinada em 16 de Fevereiro de 1984.**
+Assinada em 16 de Fevereiro de 1984.
 
-**O Secretário de Estado do Tesouro, António d'Almeida.**
+O Secretário de Estado do Tesouro, António d'Almeida.

@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1982-397171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 045eb6bb0f51602429bd733eca97cb233e74e14286e5313cf1681ede49ea9609
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e156e65e7feaaf57e2b19c73433a841c086c714d79120d55d6e07a203ab0a478
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Estudos de Desenvolvimento Regional
+- Desenvolvimento Regional
+- Instituto Universitário de Trás-os-montes e ALTO Douro
+relationships:
+- type: cites
+  target: pt:dre:370006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:32Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +101,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Centro de Estudos de Desenvolvimento Regional, adiante designado por CEDR, é uma unidade orgânica que funciona junto do Instituto Universitário de Trás-os-Montes e Alto Douro.
+Artigo 1.º O Centro de Estudos de Desenvolvimento Regional, adiante designado por CEDR, é uma unidade orgânica que funciona junto do Instituto Universitário de Trás-os-Montes e Alto Douro.
 
-###### Art. 2.º São atribuições do CEDR:
+Art. 2.º São atribuições do CEDR:
 
 a) Coordenar e promover a realização de trabalhos de investigação aplicada com interesse para os domínios do desenvolvimento agrário, industrial e dos serviços, por parte do Instituto Universitário de Trás-os-Montes e Alto Douro;
 
@@ -114,7 +121,7 @@ g) Promover a utilização das estruturas do Instituto Universitário de Trás-o
 
 h) Promover a administração e aplicação das receitas que lhe forem afectadas para prossecução das suas atribuições.
 
-###### Art. 3.º São órgãos do CEDR:
+Art. 3.º São órgãos do CEDR:
 
 a) O director;
 
@@ -122,7 +129,7 @@ b) A comissão coordenadora;
 
 c) O conselho consultivo.
 
-###### Art. 3.º - 1 - O director será nomeado pelo reitor do Instituto Universitário de Trás-os-Montes e Alto Douro de entre os professores e investigadores do instituto, para um mandato bienal, renovável.
+Art. 3.º - 1 - O director será nomeado pelo reitor do Instituto Universitário de Trás-os-Montes e Alto Douro de entre os professores e investigadores do instituto, para um mandato bienal, renovável.
 
 2 - Compete ao director:
 
@@ -132,7 +139,7 @@ b) Apresentar ao reitor do Instituto Universitário de Trás-os-Montes e Alto Do
 
 c) Zelar e assegurar o cumprimento dos programas de actividades e o funcionamento do CEDR.
 
-###### Art. 4.º - 1 - A comissão coordenadora será composta pelo director e por 3 vogais.
+Art. 4.º - 1 - A comissão coordenadora será composta pelo director e por 3 vogais.
 
 2 - Os vogais da comissão coordenadora serão nomeados pelo reitor do Instituto Universitário de Trás-os-Montes e Alto Douro, sob proposta do director, para mandatos anuais, renováveis, de entre pessoal docente ou investigador afecto aos departamentos mais directamente comprometidos nos programas de trabalho do Centro.
 
@@ -156,7 +163,7 @@ g) Coordenar as relações a estabelecer entre os departamentos do Instituto Uni
 
 h) Elaborar as normas internas de funcionamento do CEDR.
 
-###### Art. 5.º - 1 - O conselho consultivo será constituído por:
+Art. 5.º - 1 - O conselho consultivo será constituído por:
 
 a) O reitor do Instituto Universitário de Trás-os-Montes e Alto Douro, que preside;
 
@@ -190,7 +197,7 @@ b) Emitir sugestões e elaborar propostas tendentes a assegurar o prosseguimento
 
 c) Apreciar os relatórios de actividades do CEDR.
 
-###### Art. 6.º - 1 - O CEDR integra-se na estrutura orgânica do Instituto Universitário de Trás-os-Montes e Alto Douro como organismo de extensão universitária, na dependência directa da reitoria.
+Art. 6.º - 1 - O CEDR integra-se na estrutura orgânica do Instituto Universitário de Trás-os-Montes e Alto Douro como organismo de extensão universitária, na dependência directa da reitoria.
 
 2 - Ao reitor incumbe a coordenação geral das actividades do CEDR, designadamente na perspectiva da sua integração e articulação com os planos e programas de acção do próprio Instituto Universitário.
 
@@ -198,7 +205,7 @@ c) Apreciar os relatórios de actividades do CEDR.
 
 4 - Na sequência do disposto nos n.os 2 e 3, o CEDR não poderá celebrar qualquer acordo ou contrato sem o parecer prévio do conselho científico do Instituto Universitário de Trás-os-Montes e Alto Douro.
 
-###### Art. 7.º - 1 - Poderão ser afectadas ao CEDR as seguintes receitas próprias do Instituto Universitário de Trás-os-Montes e Alto Douro:
+Art. 7.º - 1 - Poderão ser afectadas ao CEDR as seguintes receitas próprias do Instituto Universitário de Trás-os-Montes e Alto Douro:
 
 a) As importâncias provenientes de estudos, trabalhos e serviços prestados pelo Centro;
 
@@ -212,14 +219,14 @@ c) Quaisquer outras receitas que, por lei, contrato ou outro título, lhe sejam 
 
 4 - Os termos em que se processará a afectação de receitas ao CEDR, bem como as condições de retribuição e participação do pessoal do Instituto Universitário nas actividades do Centro, constarão de regulamento a submeter pelo reitor a despacho do Ministro da Educação, aprovado pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Reforma Administrativa.
 
-###### Art. 8.º - 1 - A aplicação das receitas afectadas ao CEDR far-se-á de acordo com os planos de actividade previamente aprovados, sob proposta do director, pelo conselho administrativo do Instituto Universitário.
+Art. 8.º - 1 - A aplicação das receitas afectadas ao CEDR far-se-á de acordo com os planos de actividade previamente aprovados, sob proposta do director, pelo conselho administrativo do Instituto Universitário.
 
-###### Art. 9.º As dúvidas resultantes da aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro da Educação.
+Art. 9.º As dúvidas resultantes da aplicação e interpretação do presente diploma serão resolvidas por despacho do Ministro da Educação.
 
 Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - João José Fraústo da Silva - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 21 de Julho de 1982.**
+Promulgado em 21 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

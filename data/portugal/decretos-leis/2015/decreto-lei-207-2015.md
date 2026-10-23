@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18700/0844708449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2015/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:28:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 301437bc5e05d0031890373058c535462d554e015eac72ef05ffa39ef01b9170
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b158331d416dfaab9830188945ed85c346bda598a8bf1a9d59c304044a7b978b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abastecimento
-- PSP
 - Aluguer
+- Autoridade Nacional de Segurança Rodoviária
+- Combustível
 - Contrato de Aluguer
 - Definição de Competências
-- Combustível
 - Fiscalização
+- GNR
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Autoridade Nacional de Segurança Rodoviária
-- GNR
 - Página na Internet
 - Pessoa Coletiva
 - Pessoa Singular
+- PSP
 - Regime Jurídico
 - Veículo de Aluguer
 - Veículo de Aluguer sem Condutor
@@ -88,6 +88,12 @@ relationships:
   target: pt:dre:1125313598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115552673:por
+  label: Alterados, a partir de 01.07.2018, os arts. 4.º, 9.º, 15.º e 18.º do Dec Lei 181/2012 de 06-ago, com a redação dada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2018-115552673
+  date: '2018-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/2012/08/06/p/dre
   label: null
@@ -104,16 +110,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/323/2001/12/17/p/dre
+- type: cites
+  target: pt:dre:177869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548467:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:70716379:por
+  label: Retificada a al. j) do n.º 3 do art 18.º do presente decreto-lei, pelo(a) Declaração de Retificação n.º 46/2015 -
+    Diário da República n.º 203/2015, Série I de 2015-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/46-2015-70716379
+  date: '2015-10-16'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:28:20Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +200,9 @@ Os artigos 4.º, 9.º, 15.º e 18.º do [Decreto-Lei n.º 181/2012](https://diar
 
 6 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +246,9 @@ f) [...].
 
 8 - Nos casos em que o locatário devolva o veículo com o nível de combustível inferior àquele que tinha à data do seu levantamento, o locador pode cobrar um valor fixado de acordo com o princípio da proporcionalidade, que não ultrapasse a média dos custos incorridos pelo locador para o reabastecimento dos veículos, devendo a média ser calculada, em cada estabelecimento, tendo por base os custos relativos à afetação de recursos humanos e à deslocação do veículo para o reabastecimento.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -224,7 +260,9 @@ f) [...].
 
 5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deverá ser portador de documento de identificação dos trabalhadores ou representantes legais da empresa emitido pelas associações nacionais de empregadores representativas do sector, em termos a definir por deliberação do conselho diretivo do IMT, I. P.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -260,12 +298,12 @@ São revogadas a alínea c) do n.º 7 do artigo 9.º e a alínea b) do n.º 3 do
 
 Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Leonardo Bandeira de Melo Mathias.
 
-**Promulgado em 17 de setembro de 2015.**
+Promulgado em 17 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de setembro de 2015.**
+Referendado em 20 de setembro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-1973-422007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:03:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21093f7adfbaaceb10f9baed66ed040307d3f49f050a7ecf6fc0e5dad596f98d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdee2083d1d38f6b8bd2f168ee664216eb77811b45bbca51f9b1e13a14e75f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:03:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265113:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:03:43Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +103,10 @@ Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Ex�
 
 1.º Ficam sem efeito as disposições que se indicam do quadro orgânico do Laboratório Militar de Produtos Químicos e Farmacêuticos, constantes do mapa VII anexo ao [Decreto-Lei n.º 48566](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48566-1968-265113), de 3 de Setembro de 1968:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf))](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf)
 
 2.º São aditadas as seguintes disposições ao quadro orgânico do Laboratório Militar de Produtos Químicos e Farmacêuticos, constante do mapa VII anexo ao [Decreto-Lei n.º 48566](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48566-1968-265113), de 3 de Setembro de 1968:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf))](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/05/10300/06750676.pdf)
 
 Ministérios das Finanças e do Exército, 16 de Abril de 1973. - O Ministro da Defesa Nacional e do Exército, Horácio José de Sá Viana Rebelo. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento.

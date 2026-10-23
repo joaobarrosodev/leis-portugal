@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2012/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2012-552538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 835d3456007f41476dc9ae3dd4070f20d4e9c8c0042ac9c4268eaf4b811f8ba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1efdf4c2808eba6731d73cb28bf8cc26452bcec400e80bd6384415178ba1ec10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
+- Autoridade Nacional de Protecção Civil
+- Câmara Municipal
 - Contra-ordenação
 - Definição de Competências
 - Delegado de Saúde
 - Direcção Regional de Economia
-- Local de Divertimento
 - Instituto Português do Desporto e Juventude
+- Licença Municipal
 - Licenciamento
 - Licenciamento de Obras
-- Licença Municipal
+- Local de Divertimento
 - Recinto de Diversões Aquáticas
-- Câmara Municipal
-- Autoridade Nacional de Protecção Civil
 - Vistoria
 relationships:
 - type: cites
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/65/1997/03/31/p/dre
 article_structure:
-  article_count: 52
+  article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:04Z'
   warnings: []
   errors: []
 ---
@@ -137,15 +137,21 @@ Os artigos 4.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 15.º, 16.º, 18.º, 20.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Qualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalação de um recinto com diversões aquáticas, aplicando-se, com as necessárias adaptações, o disposto no RJUE.
 
-###### Artigo 7.º — Obras sujeitas a controlo prévio municipal
+Artigo 7.º
+
+Obras sujeitas a controlo prévio municipal
 
 A instalação ou modificação de recintos de diversões aquáticas sujeitas a licenciamento municipal ou a comunicação prévia à câmara municipal seguem os termos do RJUE, com parecer do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), da direção regional da economia, do delegado de saúde regional e da Autoridade Nacional de Proteção Civil (ANPC), sem prejuízo de outros pareceres das entidades competentes da administração central.
 
-###### Artigo 9.º — Obras não sujeitas a controlo prévio municipal
+Artigo 9.º
+
+Obras não sujeitas a controlo prévio municipal
 
 1 - As obras nos recintos com diversões aquáticas, quando não estejam sujeitas a licenciamento municipal ou a comunicação prévia à câmara municipal, nos termos do RJUE, carecem de autorização do IPDJ, I. P.
 
@@ -153,13 +159,17 @@ A instalação ou modificação de recintos de diversões aquáticas sujeitas a 
 
 3 - A autorização deve ser emitida no prazo de 20 dias a contar da receção do requerimento, dos elementos complementares referidos no número anterior ou do termo do prazo nele referido, sob pena de se entender como tacitamente deferido.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
 2 - A emissão da licença de funcionamento é sempre precedida de vistoria a efetuar por uma comissão composta por representantes do IPDJ, I. P., câmara municipal, ANPC, direção regional da economia e delegado de saúde regional, nos termos do artigo seguinte.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -171,17 +181,23 @@ A instalação ou modificação de recintos de diversões aquáticas sujeitas a 
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A licença de funcionamento é emitida pelo IPDJ, I. P., no prazo de 15 dias a contar da data da realização da vistoria referida no artigo anterior, mediante a exibição do alvará de autorização de utilização emitido pela câmara municipal.
 
 2 - O decurso do prazo referido no número anterior sem que a licença de funcionamento seja emitida confere o direito a presumir que o pedido de licença se encontra deferido.
 
-###### Artigo 15.º — Deferimento
+Artigo 15.º
+
+Deferimento
 
 A não realização da vistoria no prazo fixado no n.º 2 do artigo 13.º ou a falta de decisão final no prazo referido no artigo anterior valem como deferimento do pedido de licença de funcionamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Deferido o pedido de licença de funcionamento, o respetivo alvará é emitido pelo IPDJ, I. P., no prazo de 15 dias a contar da data da apresentação do requerimento pelo interessado, desde que se mostrem pagas as taxas devidas, de montante a fixar por portaria do membro do Governo competente.
 
@@ -199,7 +215,9 @@ d) ...
 
 e) A data da sua emissão.
 
-###### Artigo 18.º — Validade da licença
+Artigo 18.º
+
+Validade da licença
 
 1 - A licença de funcionamento deve ser renovada, oficiosamente, pelo IPDJ, I. P., a cada três anos, no seguimento de nova vistoria a realizar nos termos dos n.os 1, 3 e 4 do artigo 13.º
 
@@ -207,7 +225,9 @@ e) A data da sua emissão.
 
 3 - A concessão de nova licença de recinto por alteração das condições que fundaram a atribuição da licença original implica a realização de nova vistoria nos termos do artigo 13.º, devendo o IPDJ, I. P., promover simultaneamente, no prazo de 15 dias a contar da data da apresentação do requerimento, a consulta das entidades com responsabilidades nas áreas dos serviços, equipamentos e infraestruturas instaladas no recinto, sem prejuízo do disposto no artigo 29.º
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +241,9 @@ e) A data da sua emissão.
 
 6 - Compete à ANPC a fiscalização das instalações em matérias relacionadas com a segurança contra incêndios em edifícios.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Sem prejuízo das contraordenações previstas no regulamento a aprovar, constituem contraordenações, puníveis com coimas de (euro) 250 a (euro) 44 000, os seguintes comportamentos:
 
@@ -229,7 +251,9 @@ a) ...
 
 b) ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - É da competência do presidente do IPDJ, I. P., a aplicação das coimas de valor inferior a (euro) 22 000.
 
@@ -237,7 +261,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Pelas vistorias e inspeções realizadas ao abrigo do disposto no presente diploma são devidas taxas, cujo montante será fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, do desporto, da economia, do mar, do ambiente, do ordenamento do território e da saúde.
 
@@ -269,15 +295,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de fevereiro de 2012. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - Paulo de Sacadura Cabral Portas - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 28 de março de 2012.**
+Promulgado em 28 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de abril de 2012.**
+Referendado em 4 de abril de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
 

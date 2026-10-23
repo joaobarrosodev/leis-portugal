@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/166-1985-324941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d01123c3b95fe1b614f0a5490db363195d40d0d32d088f3bdccb943a8d549b60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c47f84e176ba3e85aba127eafb96bdcd2d3ef896c0fd23e99f60fb21414c5c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA de Jurisdição
+- Atenas
+- Embaixada
+- Grécia
+relationships:
+- type: cites
+  target: pt:dre:235275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:54Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +109,12 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Negócios Estrangeir
 
 Distrito consular de Atenas:
 
-#### Secção consular da Embaixada em Atenas - Prefeituras de Ática, com excepção do Departamento do Pireu, Argólida, Viotia, Fokida, Ftiótis, Corinto, Euritânia, Etoloakarnania e das Ilhas de Evia, Cíclades, Creta, Dodecaneso e Levkada.
+Secção consular da Embaixada em Atenas - Prefeituras de Ática, com excepção do Departamento do Pireu, Argólida, Viotia, Fokida, Ftiótis, Corinto, Euritânia, Etoloakarnania e das Ilhas de Evia, Cíclades, Creta, Dodecaneso e Levkada.
 
 Consulado Honorário no Pireu - Departamento do Pireu.
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 7 de Março de 1985.**
+Assinada em 7 de Março de 1985.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

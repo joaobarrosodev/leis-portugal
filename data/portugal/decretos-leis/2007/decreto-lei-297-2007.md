@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/297/2007/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2007-640880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f072111b99a960cdbd53762b65259ad9ff2d26336ff3ab852a72f8f7bfb72527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d7ad5132865874fb12eb6e6e0a3250371f2715b260cb2ad659e8e853a3201dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Portuário e dos Transportes Marítimos
 - Contrato de Concessão
 - Domínio Público Marítimo
 - Estaleiros Navais de Viana do Castelo
 - Indústria da Construção Naval
+- Instituto Portuário e dos Transportes Marítimos
 relationships:
 - type: amended_by
   target: pt:dre:498769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498769:por
+  label: "Dada nova redação ao art. 4º do Dec Lei 35570 de 01-abr 1946, com as alterações constantes do presente diploma,\
+    \ pelo DEC LEI.98/2013.24.07.2013.MDN, DR.IS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/98-2013-498769
+  date: '2013-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/2005/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/145/2005/08/26/p/dre
+- type: cites
+  target: pt:dre:151692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339624:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:629133:por
+  label: "Rectificado pela DECL-RECT.95/2007.19.10.2007.PCM, DR.IS [202] de 19.10.2007, que procede à publicação da planta\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/95-2007-629133
+  date: '2007-10-19'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:35Z'
   warnings: []
   errors: []
 ---
@@ -126,12 +154,12 @@ A concessionária pode subconcessionar o direito de uso privativo de uma área n
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
 
-**Promulgado em 24 de Julho de 2007.**
+Promulgado em 24 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Julho de 2007.**
+Referendado em 26 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

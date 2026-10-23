@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
   number: '7'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 26-(50) a 26-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00500052.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-n1-1980-508658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8da80a0574a67418d16ab1389ca9c7beb42fa8c9ba7474f67e5ec0e9e969453b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d663747f8f695f08959a99dae0054c15a620578d478d42b3d7034fff4d74d74e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- RTP
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:369786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:28Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +96,19 @@ Ministérios das Finanças e da Comunicação Social, 20 de Dezembro de 1979. - 
 
 Regulamento Relativo à Cobrança de Taxas da Radiotelevisão Portuguesa, E. P.
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Registo de televisores)
 
 Para efeitos do disposto no artigo 3.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, a Radiotelevisão Portuguesa, E. P. (RTP), fornecerá aos fabricantes, montadores e alfândegas relações das séries de números que deverão ser utilizados para o registo dos televisores que fabriquem, montem ou controlem, quer sejam importados ou entrem como bagagem.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Indicação de registo)
 
 Os fabricantes, montadores e alfândegas deverão inscrever na parte exterior das embalagens de televisores o número de registo correspondente a cada aparelho.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Títulos de registo colectivo)
 
@@ -110,7 +116,7 @@ Os fabricantes, montadores e alfândegas deverão inscrever na parte exterior da
 
 2 - Tal obrigação recai em termos idênticos sobre os importadores, grossistas revendedores e, de uma forma geral, sobre todos os intervenientes na cadeia de comercialização de televisores.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Título de registo individual)
 
@@ -132,31 +138,31 @@ f) A modalidade de pagamento.
 
 3 - O novo titular do registo é obrigado a remeter à RTP, no prazo de quinze dias após a efectivação da compra, o impresso próprio, que lhe será fornecido pelo vendedor, emitido por aquela empresa pública.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Morte do titular do registo)
 
 Por morte do titular do registo, a pessoa que ficar na posse do televisor deverá comunicar à RTP aquele facto, no prazo de trinta dias, e bem assim fornecer a indicação do nome e morada do novo proprietário do aparelho.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Transmissão de televisores)
 
 O pedido de cancelamento dos registos, a identificação do adquirente em caso de transmissão entre particulares e a mudança de residência do titular do registo deverão ser feitos em impresso próprio, emitido pela RTP no prazo de trinta dias contados a partir do momento da ocorrência.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Atestado de insuficiência económica)
 
 As pessoas mencionadas na alínea g) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, deverão apresentar anualmente, e no prazo de sessenta dias antes do início do mês de pagamento, um atestado comprovativo da sua insuficiência económica, passado pelas autoridades administrativas do local do seu domicílio.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Beneficiário de isenção)
 
 As entidades referidas no n.º 3 do artigo 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, deverão comunicar anualmente à RTP, para os efeitos de isenção nele contemplados, por carta registada, os números de registo dos televisores que utilizam no exercício da sua actividade.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Alteração das modalidades de pagamento da taxa)
 
@@ -164,7 +170,7 @@ As entidades referidas no n.º 3 do artigo 13.º do [Decreto-Lei n.º 401/79](ht
 
 2 - O pedido de alteração deverá ser acompanhado da quantia de 300$00, sem o que não será considerado.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Prazo de pagamento)
 
@@ -174,19 +180,19 @@ As entidades referidas no n.º 3 do artigo 13.º do [Decreto-Lei n.º 401/79](ht
 
 3 - O pagamento da taxa correspondente ao primeiro período de utilização deverá ser feito durante o segundo mês seguinte ao da aquisição do televisor, sem prejuízo da fixação de prazo ulterior nos termos do n.º 1.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Local de pagamento)
 
 As taxas de utilização, bem como as sobretaxas, quando estas tiverem lugar, deverão ser pagas nos competentes serviços da RTP ou estações dos CTT.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Restituição de taxas)
 
 Em caso de cancelamento do registo do televisor, a RTP procederá à devolução dos valores das taxas que o titular do registo tenha pago adiantadamente.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Fiscalização)
 
@@ -196,7 +202,7 @@ Em caso de cancelamento do registo do televisor, a RTP procederá à devolução
 
 3 - Os documentos relativos ao movimento das transacções têm carácter confidencial, apenas podendo ser utilizados como meio de prova em processo judicial.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Reprodução de assinaturas na acção executiva)
 
@@ -204,16 +210,16 @@ Em caso de cancelamento do registo do televisor, a RTP procederá à devolução
 
 2 - As assinaturas dos representantes da exequente poderão ser reproduzidas por meios mecânicos.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Prazo de regime de transição)
 
 O regime de cobrança de taxas instituído pelo [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, entra plenamente em vigor no dia 1 de Março de 1980.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Casos omissos)
 
 Os casos omissos e as dúvidas de interpretação serão resolvidos por despacho conjunto dos Ministros das Finanças e da Comunicação Social.
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Comunicação Social, João António de Figueiredo.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Comunicação Social, João António de Figueiredo.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23000/26642665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/891-1981-561615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:57:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84c09415f1011f4544e591abe38b845c13ab2de154e12ba47c1477f31275a03e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33c2ad47b7c1a35d27c06ca77ba8353c1da7364052757281adedcebfc1f447e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:57:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial do Exército
+- Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:388873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644278:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogada pelo DEC LEI.34-A/90.1990.01.24.MDN,DR.IS [20]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:57:12Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +110,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército, que se
 
 1.º Os artigos 44.º, 57.º, 59.º, 60.º, 70.º, 71.º, 72.º e 140.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril (Estatuto do Oficial do Exército), passam a ter a seguinte redacção:
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 a) ...
 
@@ -103,21 +118,21 @@ b) ...
 
 19) No termo do prazo de dois anos, a que se refere o n.º 2 do artigo 72.º, não satisfaçam à 3.ª condição geral de promoção, até que atinjam o limite de idade estabelecido para o seu quadro e posto para a passagem à reserva.
 
-###### Art. 57.º - 1 - ...
+Art. 57.º - 1 - ...
 
 2 - A informação periódica é confidencial, devendo, se desfavorável, ser comunicada aos oficiais sobre os quais recai antes de ser remetida superiormente.
 
 3 - ...
 
-###### Art. 59.º - 1 - ...
+Art. 59.º - 1 - ...
 
 2 - Sempre que os chefes informantes prestem informação desfavorável ou excepcionalmente favorável, deverá a mesma ser acompanhada de juízo ampliativo que constitua adequada fundamentação, sem o que ela será de nulo efeito nos aspectos inadequadamente fundamentados.
 
-###### Art. 60.º Quando ao informado for dado conhecimento de uma informação desfavorável, caso se não conforme com o teor da informação, poderá, no prazo de cinco dias, após dela tomar conhecimento, apresentar uma exposição escrita justificativa, que entregará ao primeiro informador e será apensa à informação.
+Art. 60.º Quando ao informado for dado conhecimento de uma informação desfavorável, caso se não conforme com o teor da informação, poderá, no prazo de cinco dias, após dela tomar conhecimento, apresentar uma exposição escrita justificativa, que entregará ao primeiro informador e será apensa à informação.
 
 O segundo informador, sempre que o houver, deverá pronunciar-se claramente, por escrito, sobre os aspectos desfavoráveis da informação, bem como da exposição do oficial, dando conhecimento ao informado e ao primeiro informador da opinião por si expressa antes de a remeter superiormente.
 
-###### Art. 70.º ...
+Art. 70.º ...
 
 1 - ...
 
@@ -149,7 +164,7 @@ Lista de oficiais a promover por antiguidade;
 
 Lista de oficiais a não promover por não satisfazerem alguma das condições gerais de promoção.
 
-###### Art. 71.º - 1 - Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e à 2.ª condições gerais de promoção deverá o mesmo ser submetido à apreciação do Conselho Superior de Disciplina do Exército, para efeitos do respectivo parecer.
+Art. 71.º - 1 - Quando houver dúvidas sobre se o oficial satisfaz à 1.ª e à 2.ª condições gerais de promoção deverá o mesmo ser submetido à apreciação do Conselho Superior de Disciplina do Exército, para efeitos do respectivo parecer.
 
 2 - Nenhum oficial pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem parecer favorável do Conselho Superior do Exército.
 
@@ -161,13 +176,13 @@ Lista de oficiais a não promover por não satisfazerem alguma das condições g
 
 6 - O Conselho Superior do Exército, na apreciação dos casos que lhe forem presentes, dará o seu parecer com base em todos os documentos submetidos e os que entender juntar ao processo, podendo ainda ouvir pessoalmente o oficial e quem mais entenda útil antes de emitir parecer.
 
-###### Art. 72.º - 1 - O oficial que não satisfaça à 1.º ou à 2.ª condições gerais de promoção deixará de estar no activo.
+Art. 72.º - 1 - O oficial que não satisfaça à 1.º ou à 2.ª condições gerais de promoção deixará de estar no activo.
 
 2 - O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer à mesma condição, será excluído definitivamente da promoção, ficando na situação de adido ao quadro, nos termos da condição 19) da alínea b) do artigo 44.º
 
 3 - A inexistência de informações a que se refere o capítulo VI deste Estatuto não pode constituir fundamento para se considerar um oficial como não satisfazendo a esta condição.
 
-###### Art. 14.º - 1 - As decisões do Supremo Tribunal Militar, proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 134.º, serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias, a contar da comunicação.
+Art. 14.º - 1 - As decisões do Supremo Tribunal Militar, proferidas no exercício da competência que lhe é atribuída nas matérias referidas no artigo 134.º, serão comunicadas à autoridade recorrida, para as mandar executar, nos seus precisos termos, no prazo de dez dias, a contar da comunicação.
 
 2 - As decisões do Supremo Tribunal Militar são publicadas na Ordem do Exército, no prazo de dez dias, a contar da comunicação.
 

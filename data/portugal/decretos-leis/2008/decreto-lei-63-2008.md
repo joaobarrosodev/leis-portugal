@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2008/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2008-246530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:06:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 583d65117b49ad0f20ae647474edf891f7ef8c471c05ad6a1dd0160bfb7c908e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13773af6eadada2a2e0b41f79ea42bec44875aba8b5b273c953964e34c0bbb44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:06:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- ASAE
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Controlo de Qualidade
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Saúde Pública
-- União Europeia
+- Embalagem
 - Etiquetagem
 - Fiscalização
-- ASAE
-- Embalagem
+- Produto Químico
 - Proteção do Ambiente
 - Proteção do Consumidor
 - Regulamento
 - Regulamento para a Classificação Embalagem Rotulagem e Fichas de Dados de Segurança de Preparações Perigosas
-- Comércio
+- Saúde Pública
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:504772:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:504772:por
+  label: "Alterados os arts. 1.º, 6.º e 9.º do Dec Lei 82/2003 de 23-abr e o anexo VI do Regulamento para a Classificação,\
+    \ Embalagem, Rotulagem e Fichas de Dados e Segurança de Preparações Perigosas anexo ao citado diploma, na redação do presente\
+    \ diploma, pelo DEC LEI.155/2013.05.11.2013.MECO, DR.IS [214] de 05.11.2013\0.2013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-2013-504772
+  date: '2013-11-05'
+- type: amends
+  target: pt:numero:decreto-lei:82/2003
+  label: "Altera os arts. 1º, 4º 6º e 9º, e revoga a alínea b) do n.º 1 do artigo 1.º do Decreto-Lei n.º 82/2003, de 23 de\
+    \ Abril, DR.IS-A [95], altera ainda os arts. 1º, 10º, 11º e 13º, os anexos II, III, V, VI e revoga as alíneas a) a q)\
+    \ e os n.os 3, 4, 5 e 7 do artigo 13.º, o n.º 2 da alínea b), o n.º 1), da parte A do anexo III e o anexo VIII, do Regulamento\
+    \ para a Classificação, Embalagem, Rotulagem e Fichas de Dados de Segurança de Preparações Perigosas, anexo ao citado\
+    \ diploma, que é republicado em anexo.\0\0"
+  source: null
+  date: '2003-04-23'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -170,6 +186,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/778/1992/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/778/1992/08/10/p/dre
+- type: cites
+  target: pt:dre:165020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687025:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0155
   label: null
@@ -195,15 +259,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 42
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 36
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:06:14Z'
   warnings: []
   errors: []
 ---
@@ -266,7 +330,9 @@ f) A [Directiva n.º 2006/96/CE](https://data.europa.eu/eli/dir/2006/96/oj?local
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -282,7 +348,9 @@ b) ...
 
 c) ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas por lei a outras entidades a fiscalização do cumprimento do disposto no presente decreto-lei compete à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) à Autoridade de Segurança Alimentar e Económica (ASAE).
 
@@ -290,7 +358,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -330,7 +400,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Se as informações previstas no artigo 9.º figurarem num rótulo, este deve estar solidamente afixado numa ou mais faces da embalagem, de tal forma que as informações em questão possam ser lidas na horizontal quando a embalagem estiver colocada na sua posição normal. As dimensões dos rótulos e símbolos de perigo são fixadas no artigo 20.º da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, destinando-se os rótulos exclusivamente à inscrição das informações previstas no presente Regulamento e, se necessário, de informações complementares em matéria de higiene ou de segurança.
 
@@ -348,7 +420,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -360,7 +434,9 @@ b) ...
 
 5 - O procedimento alternativo previsto no n.º 3 deverá ser devidamente fundamentado e comunicado à DGAE, que informará desse facto a Comissão e as autoridades competentes dos restantes Estados membros.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -420,7 +496,7 @@ Introdução
 
 ...
 
-# Parte A
+Parte A
 
 [...]
 
@@ -452,7 +528,7 @@ b) ...
 
 9 - ...
 
-# Parte B
+Parte B
 
 [...]
 
@@ -472,13 +548,13 @@ b) ...
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6.2 - ...
 
 QUADRO VI-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)»
 
 ###### Artigo 5.º — Alteração ao anexo III
 
@@ -492,7 +568,7 @@ Introdução
 
 ...
 
-# Parte A
+Parte A
 
 [...]
 
@@ -538,7 +614,7 @@ I - ...
 
 I - ...
 
-# Parte B
+Parte B
 
 [...]
 
@@ -548,7 +624,7 @@ QUADRO N.º 1a
 
 Toxicidade aguda em ambiente aquático e efeitos nefastos a longo prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 Às preparações que contenham uma substância classificada como N, R50-53, aplicam-se os limites de concentração e a classificação decorrente indicados no quadro n.º 1b.
 
@@ -556,7 +632,7 @@ QUADRO N.º 1b
 
 Toxicidade aguda em ambiente aquático e efeitos nefastos a longo prazo das substâncias muito tóxicas para o ambiente aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 No que se refere às preparações que contenham substâncias com um valor LC(índice 50) ou EC(índice 50) inferior a 0,000 01 mg/l, os limites de concentração correspondentes são calculados em conformidade (a intervalos de factor 10).
 
@@ -564,7 +640,7 @@ QUADRO N.º 2
 
 Toxicidade aguda em ambiente aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 No que se refere às preparações que contenham substâncias com um valor LC(índice 50) ou EC(índice 50) inferior a 0,000 01 mg/l, os limites de concentração correspondentes são calculados em conformidade (a intervalos de factor 10).
 
@@ -586,9 +662,9 @@ QUADRO N.º 5
 
 Perigoso para a camada de ozono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
-# Parte C
+Parte C
 
 [...]
 
@@ -674,7 +750,7 @@ O anexo VI do Regulamento para a Classificação, Embalagem, Rotulagem e Fichas 
 
 Confidencialidade da identidade química de uma substância
 
-# Parte A
+Parte A
 
 [...]
 
@@ -770,7 +846,7 @@ Reino Unido: ...
 
 10 - Ficha(s) de dados de segurança, nos termos do anexo II do [Regulamento (CE) n.º 1907/2006](https://data.europa.eu/eli/reg/2006/1907/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de Dezembro.
 
-# Parte B
+Parte B
 
 [...]
 
@@ -796,15 +872,15 @@ O presente decreto-lei produz efeitos 180 dias a contar da data da sua publicaç
 
 Visto e aprovado em Conselho de Ministros de 24 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Francisco Ventura Ramos.
 
-**Promulgado em 12 de Março de 2008.**
+Promulgado em 12 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Março de 2008.**
+Referendado em 13 de Março de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 82/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2003-239792), de 23 de Abril
 
@@ -1056,7 +1132,7 @@ f) Tiverem sido classificadas e rotuladas nos termos do n.º 7 do artigo 16.º d
 
 5 - No que se refere às preparações abrangidas pelo presente Regulamento, as substâncias perigosas mencionadas no n.º 4 que sejam classificadas de perigosas devido aos seus efeitos para a saúde e ou o ambiente só devem ser tomadas em consideração, quando presentes como impurezas ou como aditivos, se as respectivas concentrações forem iguais ou superiores às concentrações definidas no quadro seguinte, salvo se tiverem sido fixados valores inferiores no anexo I da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, na parte B do anexo II ou na parte B do anexo III do presente Regulamento, salvo especificação em contrário no seu anexo V.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 ###### Artigo 4.º — Princípios gerais de classificação e rotulagem
 
@@ -1112,7 +1188,7 @@ c) Que uma avaliação convencional levaria à sobrestimação dos perigos de na
 
 a) O fabricante modificar, de acordo com o quadro seguinte, a concentração inicial, expressa em percentagem mássica ou volumétrica, de um ou mais dos componentes perigosos da preparação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 b) O fabricante modificar a composição da preparação por substituição ou incorporação de um ou mais componentes, sejam estes ou não componentes perigosos na acepção das definições constantes do artigo 2.º
 
@@ -1134,7 +1210,7 @@ b) Pela determinação, de acordo com os critérios constantes do anexo VI da [P
 
 a) O fabricante modificar, de acordo com o quadro seguinte, a concentração inicial, expressa em percentagem mássica ou volumétrica, de um ou mais dos componentes perigosos da preparação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 b) O fabricante modificar a composição da preparação por substituição ou incorporação de um ou mais componentes, sejam estes ou não componentes perigosos na acepção das definições constantes do artigo 2.º
 
@@ -1384,11 +1460,11 @@ O presente Regulamento é aplicável sem prejuízo do disposto em matéria de le
 
 ## ANEXO I — Métodos de avaliação das propriedades físico-químicas das preparações, em conformidade com o artigo 5.º
 
-# PARTE A — Isenção dos métodos experimentais previstos na parte A do anexo v da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro
+## PARTE A — Isenção dos métodos experimentais previstos na parte A do anexo v da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro
 
 V. n.º 2.2.5 do anexo vi da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro.
 
-# PARTE B — Métodos alternativos de cálculo
+## PARTE B — Métodos alternativos de cálculo
 
 B.1 - Preparações não gasosas
 
@@ -1436,7 +1512,7 @@ A avaliação sistemática de todos os efeitos perigosos para a saúde é feita 
 
 Se não figurarem no anexo I da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, os limites de concentração a ter em conta na aplicação deste método convencional serão os definidos na parte B do presente anexo.
 
-# PARTE A — Processo de avaliação dos perigos para a saúde
+## PARTE A — Processo de avaliação dos perigos para a saúde
 
 A avaliação será efectuada por fases do seguinte modo:
 
@@ -1452,7 +1528,7 @@ b) À fixada no n.º 1 da parte B do presente anexo (quadros I ou I-A), se a sub
 
 1.1.2 - As preparações que contenham várias substâncias classificadas de muito tóxicas, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 1.1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 1.2 - Com base nos seus efeitos irreversíveis não letais após uma única exposição e são qualificadas pelo símbolo T(elevado a +), a indicação de perigo «muito tóxico» e as frases indicadoras de riscos R39/via de exposição:
 
@@ -1474,7 +1550,7 @@ b) À fixada no n.º 1 da parte B do presente anexo (quadros i ou i-A), se a sub
 
 2.1.2 - As preparações que contenham várias substâncias classificadas de muito tóxicas ou tóxicas, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 2.1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 2.2 - Com base nos seus efeitos irreversíveis não letais após uma única exposição e são qualificadas pelo símbolo T e a indicação de perigo «tóxico» e as frases indicadoras de riscos R39/via de exposição:
 
@@ -1504,7 +1580,7 @@ b) À fixada no n.º 1 da parte B do presente anexo (quadros I ou I-A), se a sub
 
 3.1.2 - As preparações que contenham várias substâncias classificadas de muito tóxicas, tóxicas ou nocivas, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 3.1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 3.2 - Com base nos seus efeitos agudos a nível pulmonar por ingestão e são qualificadas pela frase indicadora de riscos R65:
 
@@ -1538,7 +1614,7 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros IV ou IV-A), se a s
 
 4.1.2 - As preparações que contenham várias substâncias classificadas de corrosivas e qualificadas pela frase R35, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 4.1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 4.2 - E são qualificadas pelo símbolo C a indicação de perigo «corrosivo» e pela frase indicadora de riscos R34:
 
@@ -1550,7 +1626,7 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros IV ou IV-A), se a s
 
 4.2.2 - As preparações que contenham várias substâncias classificadas de corrosivas e qualificadas pelas frases R35 ou R34, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 4.2.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5 - As seguintes preparações são classificadas de irritantes:
 
@@ -1564,7 +1640,7 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros iv ou iv-A), se a s
 
 5.1.2 - As preparações que contenham várias substâncias classificadas de irritantes e qualificadas pela frase R41, ou classificadas de corrosivas e qualificadas pelas frases R35 ou R34, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 5.1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5.2 - São irritantes para os olhos e são qualificadas pelo símbolo X(índice i), a indicação de perigo «irritante» e a frase indicadora de riscos R36:
 
@@ -1576,7 +1652,7 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros iv ou iv-A), se a s
 
 5.2.2 - As preparações que contenham várias substâncias classificadas de irritantes e qualificadas pelas frases R41 ou R36, ou classificadas de corrosivas e qualificadas pelas frases R35 ou R34, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 5.2.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5.3 - São irritantes para a pele e são qualificadas pelo símbolo X(índice i), indicação de perigo «irritante» e a frase indicadora de riscos R38:
 
@@ -1588,7 +1664,7 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros iv ou iv-A), se a s
 
 5.3.2 - As preparações que contenham várias substâncias classificadas de irritantes e qualificadas pela frase R38, ou classificadas de corrosivas e qualificadas pelas frases R35 ou R34, cujas concentrações individuais sejam inferiores aos limites fixados no n.º 5.3.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5.4 - São irritantes para as vias respiratórias e são qualificadas pelo símbolo X(índice i), a indicação de perigo «irritante» e a frase indicadora de riscos R37:
 
@@ -1600,11 +1676,11 @@ b) À fixada no n.º 4 da parte B do presente anexo (quadros iv ou iv-A), se a s
 
 5.4.2 - As preparações que contenham várias substâncias classificadas de irritantes e qualificadas pela frase R37, cujas concentrações individuais sejam inferiores aos imites fixados no n.º 5.4.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5.4.3 - As preparações gasosas que contenham várias substâncias classificadas de irritantes e qualificadas pela frase R37, ou classificadas de corrosivas e qualificadas pelas frases R35 ou R34, cujas concentrações sejam inferiores aos limites fixados no n.º 5.4.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6 - As seguintes preparações são classificadas de sensibilizantes:
 
@@ -1694,7 +1770,7 @@ a) À fixada no anexo i da [Portaria n.º 732-A/96](https://diariodarepublica.pt
 
 b) À fixada no n.º 6 da parte B do presente anexo (quadros vi ou vi-A), se a substância ou substâncias em questão não figurarem no anexo i da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, ou nele figurarem sem limites de concentração.
 
-# PARTE B — Limites de concentração a utilizar na avaliação dos perigos para a saúde
+## PARTE B — Limites de concentração a utilizar na avaliação dos perigos para a saúde
 
 Para cada um dos efeitos na saúde, o primeiro quadro (quadros i a vi) estabelece os limites de concentração (expressos em percentagem mássica) a aplicar às preparações não gasosas e o segundo quadro (quadros i-A a vi-A) estabelece os limites de concentração (expressos em percentagem volumétrica) a aplicar às preparações gasosas. Estes limites de concentração são utilizados na ausência de limites de concentração específicos para a substância em questão no anexo i da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro.
 
@@ -1704,7 +1780,7 @@ Para cada um dos efeitos na saúde, o primeiro quadro (quadros i a vi) estabelec
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 A qualificação das preparações com frases R indicadoras de riscos é feita com base nos seguintes critérios:
 
@@ -1716,7 +1792,7 @@ De um modo geral, serão escolhidas as frases R aplicáveis à(s) substância(s)
 
 QUADRO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 A qualificação das preparações com frases R indicadoras de riscos é feita com base nos seguintes critérios:
 
@@ -1730,13 +1806,13 @@ De um modo geral, serão escolhidas as frases R aplicáveis à(s) substância(s)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 2.2 - Preparações gasosas. - No caso dos gases que produzem efeitos irreversíveis não letais após uma única exposição (R39/via de exposição - R68/via de exposição), os limites individuais de concentração, expressos em percentagem volumétrica, que são estabelecidos no quadro ii-A determinam, se for caso disso, a classificação a atribuir às preparações.
 
 QUADRO II-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 3 - Efeitos graves após exposição repetida ou prolongada:
 
@@ -1744,13 +1820,13 @@ QUADRO II-A
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 3.2 - Preparações gasosas. - No caso dos gases que produzem efeitos graves após exposição repetida ou prolongada (R48/via de exposição), os limites individuais de concentração, expressos em percentagem volumétrica, que são estabelecidos no quadro iii-A determinam, se for caso disso, a classificação a atribuir às preparações.
 
 QUADRO III-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 4 - Efeitos corrosivos e irritantes, incluindo lesões oculares graves:
 
@@ -1758,7 +1834,7 @@ QUADRO III-A
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 Nota. - A aplicação simples do método convencional às preparações contendo substâncias classificadas como corrosivas ou irritantes pode resultar na subclassificação ou sobreclassificação do perigo, se outros factores relevantes (por exemplo, o pH da preparação) não forem tidos em conta. Por conseguinte, ao classificar a corrosividade, há que considerar o conselho constante do n.º 3.2.5 do anexo VI da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, e das alíneas b) e c) do n.º 6 do artigo 6.º do presente Regulamento.
 
@@ -1766,7 +1842,7 @@ Nota. - A aplicação simples do método convencional às preparações contendo
 
 QUADRO IV-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 Nota. - A aplicação simples do método convencional às preparações contendo substâncias classificadas como corrosivas ou irritantes pode resultar na subclassificação ou sobreclassificação do perigo, se outros factores relevantes (por exemplo, o pH da preparação) não forem tidos em conta. Por conseguinte, ao classificar a corrosividade, há que considerar o conselho constante do n.º 3.2.5 do anexo VI da [Portaria n.º 732-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/732-a-1996-403302), de 11 de Dezembro, e das alíneas b) e c) do n.º 6 do artigo 6.º do presente Regulamento.
 
@@ -1782,7 +1858,7 @@ Os limites individuais de concentração, expressos em percentagem mássica, que
 
 QUADRO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5.2 - Preparações gasosas. - As preparações gasosas que produzem este tipo de efeitos são classificadas de sensibilizantes e qualificadas:
 
@@ -1794,7 +1870,7 @@ Os limites individuais de concentração, expressos em percentagem volumétrica,
 
 QUADRO V-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6 - Efeitos cancerígenos, mutagénicos e tóxicos para a reprodução:
 
@@ -1818,7 +1894,7 @@ Tóxicas para a reprodução da categoria 3, com efeitos no desenvolvimento - X(
 
 QUADRO VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6.2 - Preparações gasosas. - No caso dos gases que produzem este tipo de efeitos, os limites de concentração expressos em percentagem volumétrica, que são estabelecidos no quadro VI-A, determinam, se for caso disso, a classificação a atribuir às preparações. Estas são ainda qualificadas pelos seguintes símbolos e frases indicadoras de riscos:
 
@@ -1840,7 +1916,7 @@ Tóxicas para a reprodução da categoria 3, com efeitos no desenvolvimento - X(
 
 QUADRO VI-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 ## ANEXO III — Métodos de avaliação dos perigos que as preparações representam para o ambiente, em conformidade com o artigo 7.º
 
@@ -1860,7 +1936,7 @@ b) No caso das substâncias perigosas que não figuram no anexo i da [Portaria n
 
 Na parte C são estabelecidos os métodos experimentais de avaliação dos perigos para o ambiente aquático.
 
-# PARTE A — Processo de avaliação dos perigos que as preparações representam para o ambiente
+## PARTE A — Processo de avaliação dos perigos que as preparações representam para o ambiente
 
 a) Ambiente aquático
 
@@ -1878,7 +1954,7 @@ b) Ou à fixada na parte B do presente anexo (quadro n.º 1), se a substância o
 
 1.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pelas frases R50-53, cujas concentrações individuais não ultrapassem os limites fixados no n.º I, n.º 1.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 2 - E são qualificadas pelo símbolo N, a indicação de perigo «perigoso para o ambiente» e as frases indicadoras de riscos R51 e R53 (R51-53), excepto se a preparação já estiver classificada de acordo com o n.º I, n.º 1, supra:
 
@@ -1890,7 +1966,7 @@ b) À fixada na parte B do presente anexo (quadro n.º 1), se a substância ou s
 
 2.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pelas frases R50-53 ou R51-53 cujas concentrações individuais sejam inferiores aos limites fixados no n.º I, n.º 2.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 3 - E são qualificadas pelas frases indicadoras de riscos R52 e R53 (R52-53), salvo se a preparação já estiver classificada de acordo com o n.º I, n.os 1 ou 2, supra:
 
@@ -1902,7 +1978,7 @@ b) À fixada na parte B do presente anexo (quadro n.º 1), se a substância ou s
 
 3.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pelas frases R50-53, R51-53 ou R52-53, cujas concentrações individuais sejam inferiores aos limites fixados no n.º I, n.º 3.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 4 - E são qualificadas pelo símbolo N, a indicação de perigo «perigoso para o ambiente» e a frase indicadora de riscos R50, excepto se a preparação já estiver classificada de acordo com o n.º I, n.º 1, supra:
 
@@ -1914,11 +1990,11 @@ b) À fixada na parte B do presente anexo (quadro n.º 2), se a substância ou s
 
 4.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pela frase R50 cujas concentrações individuais sejam inferiores aos limites fixados no n.º I, n.º 4.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 4.3 - As preparações que contenham pelo menos uma substância classificada de perigosa para o ambiente e qualificada pela frase R50 e não satisfaçam os critérios do n.º I, n.os 4.1 e 4.2, que contenham pelo menos uma substância classificada de perigosa para o ambiente e qualificada pelas frases R50-53 e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 5 - E são qualificadas pela frase indicadora de riscos R52, excepto se a preparação já estiver classificada de acordo com o n.º I, n.os 1, 2, 3 ou 4, supra:
 
@@ -1930,7 +2006,7 @@ b) À fixada na parte B do presente anexo (quadro n.º 3), se a substância ou s
 
 5.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pela frase R52, cujas concentrações individuais sejam inferiores aos limites fixados no n.º I, n.º 5.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6 - E são qualificadas pela frase indicadora de riscos R53, excepto se a preparação já estiver classificada de acordo com o n.º I, n.os 1, 2 ou 3, supra:
 
@@ -1942,11 +2018,11 @@ b) À fixada na parte B do presente anexo (quadro n.º 4), se a substância ou s
 
 6.2 - As preparações que contenham várias substâncias classificadas de perigosas para o ambiente e qualificadas pela frase R53, cujas concentrações individuais sejam inferiores aos limites fixados no n.º I, n.º 6.1, alíneas a) ou b), e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 6.3 - As preparações que contenham pelo menos uma substância classificada de perigosa para o ambiente e qualificada pela frase R53 e não satisfaçam os critérios do n.º i, n.º 6.2, que contenham pelo menos uma substância classificada de perigosa para o ambiente e qualificada pelas frases R50-53, R51-53 ou R52-53 e que satisfaçam a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 b) Ambiente não aquático
 
@@ -1978,7 +2054,7 @@ R57 - tóxico para as abelhas;
 
 R58 - pode causar efeitos nefastos a longo prazo no ambiente.
 
-# PARTE B — Limites de concentração a utilizar na avaliação dos perigos para o ambiente
+## PARTE B — Limites de concentração a utilizar na avaliação dos perigos para o ambiente
 
 I - Referentes ao ambiente aquático. - Os limites de concentração, expressos em percentagem mássica, que são estabelecidos nos quadros seguintes determinam a classificação a atribuir às preparações em função da concentração de cada uma das substâncias presentes, cuja classificação também é indicada.
 
@@ -1986,7 +2062,7 @@ QUADRO N.º 1a
 
 Toxicidade aguda em ambiente aquático e efeitos nefastos a longo prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 Às preparações que contenham uma substância classificada como N, R50-53, aplicam-se os limites de concentração e a classificação decorrente indicados no quadro n.º 1b.
 
@@ -1994,7 +2070,7 @@ QUADRO N.º 1b
 
 Toxicidade aguda em ambiente aquático e efeitos nefastos a longo prazo das substâncias muito tóxicas para o ambiente aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 No que se refere às preparações que contenham substâncias com um valor LC(índice 50) ou EC(índice 50) inferior a 0,000 01 mg/l, os limites de concentração correspondentes são calculados em conformidade (a intervalos de factor 10).
 
@@ -2002,7 +2078,7 @@ QUADRO N.º 2
 
 Toxicidade aguda em ambiente aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 No que se refere às preparações que contenham substâncias com um valor LC(índice 50) ou EC(índice 50) inferior a 0,000 01 mg/l, os limites de concentração correspondentes são calculados em conformidade (a intervalos de factor 10).
 
@@ -2010,13 +2086,13 @@ QUADRO N.º 3
 
 Toxicidade em ambiente aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 QUADRO N.º 4
 
 Efeitos nefastos a longo prazo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 II - Referentes ao ambiente não aquático. - Os limites de concentração, expressos em percentagem mássica (ou volumétrica no caso das preparações gasosas), que são estabelecidos nos quadros seguintes determinam a classificação a atribuir às preparações em função da concentração de cada uma das substâncias presentes, cuja classificação também é indicada.
 
@@ -2024,9 +2100,9 @@ QUADRO N.º 5
 
 Perigoso para a camada de ozono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
-# PARTE C — Métodos experimentais de avaliação dos perigos para o ambiente aquático
+## PARTE C — Métodos experimentais de avaliação dos perigos para o ambiente aquático
 
 Em geral, as preparações serão classificadas pelo método convencional. Contudo, para a determinação da toxicidade aguda em ambiente aquático pode, em alguns casos, ser conveniente submeter as próprias preparações a ensaios experimentais.
 
@@ -2038,7 +2114,7 @@ Além disso, os ensaios devem ser efectuados em cada uma das três espécies pre
 
 ## ANEXO IV — Disposições específicas aplicáveis aos recipientes das preparações oferecidas ou vendidas à população em geral
 
-# PARTE A — Recipientes que devem dispor de um sistema de fecho de segurança para as crianças
+## PARTE A — Recipientes que devem dispor de um sistema de fecho de segurança para as crianças
 
 1 - Independentemente da sua capacidade, os recipientes das preparações oferecidas ou vendidas à população em geral que tenham sido rotuladas de muito tóxicas, tóxicas ou corrosivas em conformidade com o disposto no artigo 9.º e nas condições previstas no artigo 6.º do presente Regulamento devem dispor de um sistema de fecho de segurança para as crianças.
 
@@ -2046,9 +2122,9 @@ Além disso, os ensaios devem ser efectuados em cada uma das três espécies pre
 
 3 - Independentemente da sua capacidade, os recipientes oferecidos ou vendidos à população em geral que contenham pelo menos uma das substâncias a seguir enumeradas, numa concentração igual ou superior ao limite fixado no quadro para a substância em questão, devem dispor de um sistema de fecho de segurança para as crianças:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
-# PARTE B — Recipientes que devem ser portadores de uma indicação de perigo detectável pelo tacto
+## PARTE B — Recipientes que devem ser portadores de uma indicação de perigo detectável pelo tacto
 
 Independentemente da sua capacidade, os recipientes das preparações oferecidas ou vendidas à população em geral que tenham sido rotuladas de muito tóxicas, tóxicas, corrosivas, nocivas, extremamente inflamáveis ou facilmente inflamáveis, em conformidade com o disposto no artigo 9.º e nas condições previstas nos artigos 5.º e 6.º do presente Regulamento, devem ser portadores de uma indicação de perigo detectável pelo tacto.
 
@@ -2154,7 +2230,7 @@ C) Aplicáveis às preparações não classificadas com base nos artigos 5.º, 6
 
 ## ANEXO VI — Confidencialidade da identidade química de uma substância
 
-# PARTE A — Informações a fornecer com o pedido de confidencialidade
+## PARTE A — Informações a fornecer com o pedido de confidencialidade
 
 Notas introdutórias
 
@@ -2186,7 +2262,7 @@ Nos termos do artigo 14.º, os pedidos de confidencialidade devem contemplar obr
 
 2 - Identificação precisa de cada uma das substâncias objecto do pedido de confidencialidade e respectivas denominações alternativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 Nota. - No caso das substâncias classificadas provisoriamente, devem anexar-se informações (referências bibliográficas) comprovativas de que a classificação provisória foi efectuada com base em todas as informações pertinentes disponíveis no que respeita às propriedades da substância em questão.
 
@@ -2264,7 +2340,7 @@ Reino Unido: ...
 
 10 - Ficha(s) de dados de segurança, nos termos do anexo II do [Regulamento (CE) n.º 1907/2006](https://data.europa.eu/eli/reg/2006/1907/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de Dezembro.
 
-# PARTE B — Léxico guia para o estabelecimento de denominações alternativas (designações genéricas)
+## PARTE B — Léxico guia para o estabelecimento de denominações alternativas (designações genéricas)
 
 1 - Nota introdutória
 
@@ -2296,7 +2372,7 @@ Os grupos funcionais e elementos químicos a ter em conta correspondem às desig
 
 3 - Divisão das substâncias em famílias e subfamílias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf))](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/06500/0199902038.pdf)
 
 4 - Aplicação prática
 

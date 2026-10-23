@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2014/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2014-572626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7310920103bf899ebce84c8a28caf3f18137ab562580523a3538e2a986f0ab2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 582c243d1623516f667516b55d6b965e0a993a83ba30ebdf3058bcb59898c5f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Veículo
-- Máquina-Ferramenta
-- Proteção do Ambiente
 - Equipamento de Veículo
+- Máquina-Ferramenta
 - Motor
+- Proteção do Ambiente
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:122110905:por
@@ -136,16 +136,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/2006/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/2006/02/27/p/dre
+- type: repealed_by
+  target: pt:dre:122110905:por
+  label: Revogado o Dec Lei 47/2006 de 27-fev, na redação do presente diploma, pelo(a) Decreto-Lei n.º 50/2019 - Diário da
+    República n.º 75/2019, Série I de 2019-04-16 nos termos do seu art. 16.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2019-122110905
+  date: '2019-04-16'
 article_structure:
   article_count: 4
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:02Z'
   warnings: []
   errors: []
 ---
@@ -198,15 +204,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 7 de fevereiro de 2014.**
+Promulgado em 7 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de fevereiro de 2014.**
+Referendado em 10 de fevereiro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -272,7 +278,7 @@ b) Um certificado de conformidade com a Convenção Internacional das Linhas de 
 
 1.21.1 - Símbolos dos parâmetros de ensaio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.21.2 - Símbolos dos componentes químicos
 
@@ -392,51 +398,51 @@ Para a introdução de um novo sistema no presente diploma, a determinação da 
 
 3.2.1 - Os valores das emissões de monóxido de carbono, de hidrocarbonetos, de óxidos de azoto e de partículas obtidos não devem exceder, para a fase I, os valores indicados no quadro a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.2.2 - Os valores-limite das emissões dados no número anterior referem-se à saída do motor e devem ser conseguidos antes de qualquer dispositivo de pós-tratamento do escape.
 
 3.2.3 - Os valores das emissões de monóxido de carbono, de hidrocarbonetos, de óxidos de azoto e de partículas obtidos não devem exceder, para a fase II, os valores indicados no quadro a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.2.4 - As emissões de monóxido de carbono, do conjunto dos hidrocarbonetos e óxidos de azoto e de partículas não devem exceder, para a fase III-A, as quantidades indicadas nos quadros seguintes:
 
 a) Motores para outras aplicações que não a propulsão de embarcações de navegação interior, locomotivas e automotoras ferroviárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 b) Motores a utilizar para a propulsão de embarcações de navegação interior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 c) Motores para a propulsão de locomotivas ferroviárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 d) Motores para a propulsão de automotoras ferroviárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.2.5 - As emissões de monóxido de carbono, hidrocarbonetos e óxidos de azoto, ou a sua soma, se aplicável, e as emissões de partículas não devem exceder para a fase III-B as quantidades indicadas nos quadros seguintes:
 
 a) Motores para outras aplicações que não a propulsão de locomotivas ou automotoras ferroviárias ou embarcações de navegação interior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 b) Motores para a propulsão de automotoras ferroviárias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 c) Motores para propulsão de locomotivas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.2.6 - As emissões de monóxido de carbono, hidrocarbonetos e óxidos de azoto, ou a sua soma, quando relevante, e as emissões de partículas não devem exceder para a fase IV as quantidades indicadas no quadro seguinte:
 
 a) Motores para outras aplicações que não a propulsão de locomotivas ou automotoras ferroviárias ou embarcações de navegação anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.2.7 - Os valores-limite dos n.os 3.2.4, 3.2.5. e 3.2.6. devem incluir os fatores de deterioração calculados de acordo com o apêndice 5 do anexo III.
 
@@ -480,7 +486,7 @@ A instalação do motor na máquina móvel deve satisfazer as restrições estab
 
 Determina-se então, a média aritmética (X) dos resultados obtidos na amostra no que respeita a cada poluente. Considera-se que a produção da série está conforme caso seja satisfeita a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 4.3.3 - A autoridade de homologação ou o serviço técnico responsável pela verificação da conformidade da produção devem efetuar ensaios com motores parcial ou totalmente rodados, de acordo com as especificações do fabricante.
 
@@ -778,7 +784,7 @@ d) A tubagem de escape do cárter deve estar ligada ao dispositivo de evacuaçã
 
 8.2 - Para outros tipos de motor, deve ser utilizada a potência útil nominal.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Requisitos para garantir o funcionamento correto das medidas de controlo dos NO(índice x)
 
@@ -972,7 +978,7 @@ Figura 1
 
 Esquema de limitação do binário na persuasão de baixa intensidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 5.4 - Sistema de persuasão de alta intensidade
 
@@ -986,7 +992,7 @@ Figura 2
 
 Esquema de redução do binário na persuasão de alta intensidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 5.4.2.2 - Podem ser utilizadas outras medidas de persuasão se se demonstrar à entidade homologadora que têm um nível de intensidade igual ou superior.
 
@@ -1148,7 +1154,7 @@ QUADRO 1
 
 Ilustração do teor do processo de demonstração em conformidade com o disposto nos n.os 10.3 e 10.4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 10.2 - Famílias de motores e famílias de motores NCD
 
@@ -1164,7 +1170,7 @@ Figura 3
 
 Conformidade previamente demonstrada de uma família de motores NCD
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 10.3 - Demonstração da ativação do sistema de aviso
 
@@ -1292,7 +1298,7 @@ QUADRO 2
 
 Ativação do sistema de aviso do operador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.2.2 - O sistema de aviso do operador deve ser desativado quando o sistema de diagnóstico concluir que a anomalia correspondente a esse aviso já não está presente ou quando a informação, incluindo os DTC relativos às anomalias, que justifica a sua ativação tiver sido apagada por meio de um analisador.
 
@@ -1306,7 +1312,7 @@ QUADRO 3
 
 Apagamento/reinicialização das «informações de controlo dos NO(índice X)» com um analisador
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.2.2.1.2 - As informações de controlo dos NO(índice X) não devem poder ser apagadas em razão da desconexão da(s) bateria(s) da máquina.
 
@@ -1362,7 +1368,7 @@ QUADRO 4
 
 Contadores e persuasão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.4.2.1.4 - Uma vez fixo, o contador é reposto a zero logo que os dispositivos de monitorização pertinentes para esse contador tenham completado, pelo menos, uma vez o respetivo ciclo de monitorização sem terem detetado qualquer anomalia e sem que qualquer anomalia pertinente para esse contador tenha sido detetada durante 40 horas de funcionamento do motor desde que o contador foi parado pela última vez (ver figura 4).
 
@@ -1376,7 +1382,7 @@ Figura 4
 
 Reativação e reposição a zero de um contador após um período em que o valor por ele indicado foi mantido fixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.5.2 - A figura 5 ilustra o funcionamento dos mecanismos de ativação e de desativação ao monitorizar a disponibilidade do reagente em cinco casos:
 
@@ -1392,7 +1398,7 @@ Figura 5
 
 Disponibilidade do reagente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.5.3 - A figura 6 ilustra três casos de qualidade incorreta do reagente:
 
@@ -1406,7 +1412,7 @@ Figura 6
 
 Abastecimento com reagente de má qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 11.5.4 - A figura 7 ilustra três casos de anomalia do sistema de dosagem de ureia. E também ilustra o processo que se aplica no caso das anomalias de monitorização descritas no n.º 9.
 
@@ -1420,7 +1426,7 @@ Figura 7
 
 Anomalia do sistema de dosagem de reagente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 12 - Demonstração da concentração mínima aceitável do reagente (CD(índice min))
 
@@ -1430,7 +1436,7 @@ Anomalia do sistema de dosagem de reagente
 
 12.3 - As emissões de poluentes resultantes deste ensaio devem ser mais baixas do que o limiar para os NO(índice X) especificado no n.º 7.1.1.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Requisitos da zona de controlo para os motores da fase IV
 
@@ -1460,9 +1466,9 @@ Figura 1
 
 Zona de controlo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## ANEXO II
+ANEXO II
 
 Ficha de Informações n.º...
 
@@ -1512,7 +1518,7 @@ Anexos:
 
 (2) Conforme definido no artigo 2.º
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Características essenciais do motor (precursor) (1)
 
@@ -1778,7 +1784,7 @@ Mencionar o método utilizado: no motor / no banco de bombas (2)
 
 (3) Especificar a tolerância
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Características essenciais da família de motores
 
@@ -1818,13 +1824,13 @@ Prova de razão idêntica (ou mais baixa para o motor precursor): capacidade do 
 
 2.2 - Especificação dos motores dentro dessa família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 (1) A completar em conjunto com as especificações dadas nos n.os 5 e 6 do anexo I.
 
 (2) Se não aplicável escrever n.a.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Características essenciais do tipo de motor dentro da família (1)
 
@@ -2090,7 +2096,9 @@ Mencionar o método utilizado: no motor/no banco de bombas (2)
 
 (3) Especificar a tolerância.
 
-## ANEXO III — Método de ensaio
+ANEXO III
+
+Método de ensaio
 
 1 - Introdução
 
@@ -2168,11 +2176,11 @@ Todos os volumes e caudais volumétricos devem ser reduzidos às condições de 
 
 Motores com aspiração normal e motores com sobrealimentação mecânica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Motores turbo comprimidos com ou sem arrefecimento do ar de admissão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.2 - Validade do ensaio
 
@@ -2238,11 +2246,11 @@ Os valores do binário máximo às velocidades de ensaio especificadas devem ser
 
 A regulação do motor para cada modo de ensaio deve ser calculada utilizando a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Se a relação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 O valor de P(índice AE) pode ser verificado pela autoridade de homologação.
 
@@ -2286,13 +2294,13 @@ Os analisadores das emissões devem ser colocados em zero e calibrados.
 
 No que diz respeito aos motores abrangidos pelas alíneas a) e c) do n.º 1 do artigo 2.º, utiliza-se o seguinte ciclo de oito modos (1) no funcionamento do dinamómetro com o motor a ensaiar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.7.1.2 - Especificação B
 
 No que diz respeito aos motores abrangidos pela alínea b) do n.º 1 do artigo 2.º, utiliza-se o seguinte ciclo de cinco modos (3) no funcionamento do dinamómetro com o motor a ensaiar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os valores de carga são valores percentuais do binário correspondente à potência primária definida como a potência máxima disponível durante uma sequência de potência variável, que pode ocorrer durante um número ilimitado de horas por ano, entre manutenções nos intervalos declarados e nas condições ambientais declaradas, sendo a manutenção efetuada de acordo com o prescrito pelo fabricante.
 
@@ -2302,17 +2310,17 @@ No que diz respeito aos motores de propulsão (4) destinados a utilização em e
 
 Os motores de propulsão que funcionam com curva de hélice de passo fixo são testados num dinamómetro utilizando o seguinte ciclo de quatro modos em estado estacionário(5), desenvolvido para representar o funcionamento de motores diesel marítimos comerciais em condições normais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os motores de propulsão de velocidade fixa destinados às embarcações de navegação interior com hélices de passo variável ou acopladas electricamente são ensaiados num dinamómetro utilizando o seguinte ciclo de quatro modos em estado estacionário (6), que se caracteriza pela mesma carga e pelos mesmos factores de ponderação que o ciclo supra, mas funcionando o motor à velocidade nominal em cada ciclo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.7.1.4 - Especificação D
 
 No que diz respeito aos motores abrangidos pela alínea d) do n.º 1 do artigo 2.º, utiliza-se o seguinte ciclo de três modos (7) no funcionamento do dinamómetro com o motor a ensaiar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Notas
 
@@ -2450,13 +2458,13 @@ Se a velocidade de referência medida se situar no intervalo de (mais ou menos) 
 
 Desnormaliza-se a velocidade utilizando a seguinte equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 4.3.3 - Desnormalização do binário do motor
 
 Os valores do binário no programa do dinamómetro do motor do apêndice 4 do anexo III são normalizados para o binário máximo à velocidade respetiva. Desnormalizam-se os valores de binário do ciclo de referência através da curva de mapeamento determinada de acordo com o n.º 4.2.2, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para a velocidade real respetiva determinada no n.º 4.3.2.
 
@@ -2476,11 +2484,11 @@ Velocidade de marcha lenta sem carga = 600 min(elevado a -1)
 
 Obtém-se velocidade real
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Com o binário máximo de 700 N m observado na curva de mapeamento a 1288 min(elevado a -1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 4.4 - Dinamómetro
 
@@ -2492,7 +2500,7 @@ Com o binário máximo de 700 N m observado na curva de mapeamento a 1288 min(el
 
 O fluxograma a seguir descreve a sequência do ensaio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Pode realizar-se um ou mais ciclos preliminares, conforme for necessário, para verificar o motor, a célula de ensaio e os sistemas de emissão antes do ciclo de medição.
 
@@ -2650,7 +2658,7 @@ QUADRO 1
 
 Tolerâncias da reta de regressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Apenas para efeito da regressão, são admitidas eliminações de pontos onde indicado no quadro 2 antes de fazer o cálculo de regressão. Todavia, esses pontos não devem ser eliminados para o cálculo do trabalho do ciclo e das emissões. Um ponto de repouso é definido como um ponto que tenha um binário de referência normalizado de 0 % e uma velocidade de referência normalizada de 0 %. A eliminação de pontos pode ser aplicada à totalidade ou a qualquer parte do ciclo.
 
@@ -2658,9 +2666,9 @@ QUADRO 2
 
 Eliminações de análise de regressão admitidas; os pontos a que se aplica a eliminação de pontos têm de ser especificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Métodos de medição e de recolha de amostras
 
@@ -2706,7 +2714,7 @@ O caudal do gás traçador deve ser regulado de modo a que a concentração do g
 
 O cálculo do caudal dos gases de escape faz-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 A concentração de fundo do gás traçador (conc(índice a)) pode ser determinada calculando a média das concentrações de fundo medidas imediatamente antes do ensaio e após o ensaio.
 
@@ -2718,7 +2726,7 @@ O sistema completo deve satisfazer as especificações de precisão para o escoa
 
 Esta medição envolve o cálculo do caudal mássico dos gases de escape a partir do caudal de ar e da relação ar/combustível. O cálculo do caudal mássico instantâneo dos gases de escape faz-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 O caudalímetro de ar deve satisfazer as especificações de precisão contidas no quadro 3, o analisador de CO(índice 2) utilizadas as especificações do n.º 1.4.1 e o sistema total, as especificações de precisão para o escoamento dos gases de escape.
 
@@ -2736,7 +2744,7 @@ QUADRO 3
 
 Precisão dos instrumentos de medida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4 - Determinação dos componentes gasosos
 
@@ -2862,7 +2870,7 @@ Deve-se obter uma velocidade nominal do gás através do filtro compreendida ent
 
 As cargas mínimas recomendadas para as dimensões de filtros mais comuns estão indicadas no quadro a seguir. Para as dimensões maiores, a carga mínima é de 0,065 mg/1000 mm2 de área de filtragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o método dos filtros múltiplos, a carga mínima recomendada para o conjunto dos filtros é igual ao produto do valor correspondente acima indicado pela raiz quadrada do número total de modos.
 
@@ -2914,7 +2922,7 @@ QUADRO 3
 
 Precisão dos instrumentos de medida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.3 - Caudal dos gases de escape brutos
 
@@ -2960,7 +2968,7 @@ O caudal do gás traçador deve ser regulado de modo a que a concentração dess
 
 O cálculo do caudal dos gases de escape faz-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 A concentração de fundo do gás traçador (conc(índice a)) pode ser determinada tomando a média da concentração de fundo medida imediatamente antes do ensaio e após o ensaio.
 
@@ -2972,7 +2980,7 @@ Método de medida do caudal de ar e relação ar/combustível
 
 Este método envolve o cálculo do caudal mássico dos gases de escape a partir do caudal de ar e da relação ar/combustível. O cálculo do caudal mássico instantâneo dos gases de escape faz-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 O caudalímetro de ar deve satisfazer as especificações de precisão do quadro 3, e o analisador de CO(índice 2) deve satisfazer as especificações do n.º 2.3.1. e o sistema completo deve satisfazer as especificações relativas ao cálculo do caudal dos gases de escape.
 
@@ -3160,7 +3168,7 @@ Deve-se obter uma velocidade nominal do gás através do filtro compreendida ent
 
 As cargas mínimas recomendadas para as dimensões de filtros mais comuns estão indicadas no quadro a seguir. Para dimensões maiores, a carga mínima é de 0,065 mg/1000 mm2 de área de filtragem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.4.2 - Especificações da câmara de pesagem e da balança analítica
 
@@ -3188,7 +3196,7 @@ Para eliminar os efeitos da eletricidade estática, os filtros devem ser neutral
 
 Todas as peças do sistema de diluição e do sistema de recolha de amostras, desde o tubo de escape até ao suporte dos filtros, que estejam em contacto com gases de escape brutos ou diluídos, devem ser concebidas para minimizar a deposição ou alteração das partículas. Todas as peças devem ser feitas de materiais condutores de eletricidade que não reajam com os gases de escape, e devem ser ligadas à terra para impedir efeitos eletrostáticos.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Método de calibração para os ensaios NRSC e NRTC (1)
 
@@ -3348,7 +3356,7 @@ Figura 1
 
 Esquema de um conversor de NO(índice 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.7.2 - Calibração.
 
@@ -3358,7 +3366,7 @@ O CLD e o HCLD devem ser calibrados na gama de funcionamento mais comum seguindo
 
 A eficiência do conversor de NO(índice x) calcula-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.7.4 - Adição de oxigénio
 
@@ -3428,7 +3436,7 @@ Escolhe-se uma gama em que os gases de verificação da interferência do oxigé
 
 Os gases de verificação da interferência do oxigénio devem conter propano com uma concentração de 350 ppm C (mais ou menos) 75 ppm C. O valor da concentração deve ser determinado com as tolerâncias para os gases de calibração através de análise cromatográfica dos hidrocarbonetos totais acrescidos de impurezas ou através de mistura dinâmica. O azoto deve ser o diluente predominante, sendo o restante oxigénio. As misturas necessárias para o ensaio dos motores diesel são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.8.3.2 - Procedimento
 
@@ -3462,7 +3470,7 @@ i) Caso a interferência do oxigénio seja superior a (mais ou menos) 3,0 % depo
 
 j) Caso a interferência do oxigénio continue a ser superior a (mais ou menos) 3,0 %, reparam-se ou substituem-se o analisador, o combustível do FID ou o ar do queimador antes do ensaio. Repete-se então este número com o equipamento ou gases substituídos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.9 - Efeitos de interferência com os analisadores NDIR e CLD
 
@@ -3482,27 +3490,27 @@ Faz-se passar um gás de calibração contendo CO(índice 2) com uma concentraç
 
 O efeito de atenuação é calculado do modo a seguir indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.9.2.2 - Verificação do efeito de atenuação da água
 
 Esta verificação aplica-se apenas às medições das concentrações de gases em base húmida. O cálculo do efeito de atenuação da água deve ter em consideração a diluição do gás de calibração do NO com vapor de água e o estabelecimento de uma relação entre a concentração de vapor de água da mistura e a prevista durante o ensaio. Faz-se passar um gás de calibração do NO com uma concentração de 80% a 100% da escala completa da gama de funcionamento normal através do (H)CLD, e regista-se o valor do NO como D. Deixa-se borbulhar o gás de calibração do NO através de água à temperatura ambiente, fazendo-se passar esse gás através do (H)CLD e registando-se o valor de NO como C. Determina-se a temperatura de água, que é registada como F. Determinam-se a pressão absoluta de funcionamento do analisador e a temperatura de água, registando-se os valores como E e F, respetivamente. Determina-se a pressão do vapor de saturação da mistura que corresponde à temperatura da água (F), sendo o seu valor registado como G. A concentração do vapor de água (em %) da mistura é calculado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 e registado como H. A concentração prevista do gás de calibração de NO diluído, em vapor de água, é calculada do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 e registado como De. Para os gases de escape dos motores diesel, a concentração máxima de vapor de água em (%) prevista durante o ensaio deve ser estimada, na hipótese de uma relação atómica H/C do combustível de 1,8 para 1, a partir da concentração máxima de CO(índice 2) nos gases de escape ou da concentração do gás de calibração do CO(índice 2) não diluído, (A) medido como se indica no número anterior, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 e registada como H(índice m.)
 
 O efeito de atenuação da água é calculado do seguinte modo, não devendo ser superior a 3%:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.10 - Intervalos de calibração
 
@@ -3628,15 +3636,15 @@ Mantêm-se as fugas em todas as ligações e tubagens entre o Venturi de calibra
 
 Calcula-se o caudal de ar (Q(índice s)) em cada regulação da restrição, no mínimo seis regulações, em m3/min standard a partir dos dados do fluxómetro e utilizando o método prescrito pelo fabricante. O caudal de ar é então convertido em escoamento da bomba (V(índice 0)) em m3/rev à temperatura e pressão absolutas à entrada da bomba do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para ter em conta a interação das variações de pressão da bomba e a taxa de escoamento da bomba, calcula-se a função de correlação (X(índice 0)) entre a velocidade da bomba, o diferencial de pressão entre a entrada e saída da bomba e a pressão absoluta à saída da bomba do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Realiza-se um ajustamento pelo método dos mínimos quadrados para gerar a equação de calibração do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para um sistema CVS com várias velocidades, as curvas de calibração geradas para as diferentes gamas de caudais da bomba devem ser aproximadamente paralelas e os valores das ordenadas na origem (D(índice 0)) aumentam com a diminuição da gama de caudais da bomba.
 
@@ -3646,13 +3654,13 @@ Os valores calculados pela equação devem ter uma aproximação de (mais ou men
 
 A calibração do CFV baseia-se na equação de escoamento de um tubo de Venturi de escoamento crítico. O caudal de gás é função da pressão e da temperatura à entrada, como se indica a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.3.1 - Qualidade dos dados
 
 Calcula-se o caudal de ar (Q(índice s)) em cada regulação da restrição, no mínimo de oito regulações, em m3/min standard a partir dos dados do fluxómetro e utilizando o método prescrito pelo fabricante. Calcula-se o coeficiente de calibração a partir dos dados de calibração para cada regulação do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para determinar a gama do escoamento crítico, traça-se a curva de K(índice v) em função da pressão à entrada do tubo de Venturi. Para o escoamento crítico estrangulado K(índice v) tem um valor relativamente constante. À medida que a pressão diminui e o vácuo aumenta, o tubo de Venturi deixa de estar estrangulado e K(índice v), diminui, o que indica que o CFV está a funcionar fora da gama admissível.
 
@@ -3662,17 +3670,17 @@ Calcula-se o K(índice v) médio e o desvio-padrão para um mínimo de oito pont
 
 A calibração do SSV baseia-se na equação de escoamento para um tubo de Venturi subsónico. O caudal é função da pressão e temperatura à entrada, da queda de pressão entre a entrada e a garganta do SSV, conforme se indica a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.4.1 - Qualidade dos dados
 
 Calcula-se o caudal de ar (Q(índice ssv)) em cada regulação da restrição, no mínimo de 16 regulações, em m3/min standard a partir dos dados do fluxómetro e utilizando o método prescrito pelo fabricante. Calcula-se o coeficiente de descarga a partir dos dados de calibração para cada regulação do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para determinar a gama do escoamento subsónico, traça-se C(índice d) em função do número de Reynolds, na garganta do SSV. Calcula-se o número de Reynolds na garganta do SSV com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Como o Q(índice ssv) é um dos valores da fórmula do número de Reynolds, os cálculos devem ser começados com um valor inicial aleatório para que Q(índice ssv) ou C(índice d) do Venturi de calibração e repetido até que o valor de Q(índice ssv) convirja. O método de convergência deve ter uma precisão igual ou superior a 0,1%.
 
@@ -3692,7 +3700,7 @@ Faz-se funcionar o sistema CVS como num ensaio de emissões de escape normal dur
 
 Determina-se a massa de um pequeno cilindro cheio com propano com uma precisão de (mais ou menos) 0.01 g. Faz-se funcionar o sistema CVS durante cerca de cinco a 10 minutos como num ensaio de emissões de escape normal, enquanto é injetado monóxido de carbono ou propano para o sistema. Determina-se a quantidade de gás puro descarregada por meio de pesagem diferencial. Analisa-se uma amostra de gás com os equipamentos usuais, como sejam saco de recolha de amostras ou método de integração, e calcula-se a massa do gás. A massa assim determinada deve estar a (mais ou menos) 3% da massa conhecida no gás injetado.
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Avaliação de dados e cálculos
 
@@ -3728,25 +3736,25 @@ conc (húmido) = k(índice w) x conc (seco)
 
 Para os gases de escape brutos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para os gases de escape diluídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o ar de diluição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o ar de admissão, se for diferente do ar de diluição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.3.3 - Correção da humidade para o NO(índice x)
 
 Dado que as emissões de NO(índice x) dependem das condições do ar ambiente, corrige-se a concentração de NO(índice x) em função da temperatura e da humidade do ar ambiente através do fator K(índice H) dado pela fórmula a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.3.4 - Cálculo dos caudais mássicos das emissões
 
@@ -3776,7 +3784,7 @@ DF = 13,4/conc(índice CO2)
 
 Utilizam-se os coeficientes u - húmido de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 A densidade de HC é calculada com base numa relação média carbono/hidrogénio de 1/1,85.
 
@@ -3784,7 +3792,7 @@ A densidade de HC é calculada com base numa relação média carbono/hidrogéni
 
 Calculam-se as emissões específicas (g/kWh) para todos os componentes individuais do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os fatores de ponderação e o número de modos, n, utilizados na fórmula acima são os indicados no n.º 3.7.1 do anexo III.
 
@@ -3796,7 +3804,7 @@ As emissões de partículas devem ser calculadas do seguinte modo:
 
 Dado que a emissão de partículas pelos motores diesel depende das condições do ar ambiente, corrige-se o caudal mássico de partículas em função da humidade do ar ambiente através do fator K(índice p) dado pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.2 - Sistema de diluição do escoamento parcial
 
@@ -3806,29 +3814,29 @@ Os resultados finais dos ensaios de emissão de partículas a indicar são obtid
 
 G(índice EDFW,i) = G(índice EXHW,i) x q(índice i)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.2.2 - Sistemas com medição da concentração de CO(índice 2) ou NO(índice x)
 
 G(índice EDFW,i) = G(índice EXHW,i) x q(índice i)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 As concentrações medidas em base seca devem ser convertidas em base húmida de acordo com o n.º 1.3.2.
 
 1.4.2.3 - Sistemas com medição de CO(índice 2) e método do balanço do carbono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Com as concentrações em (%) de volume em base húmida
 
 Esta equação baseia-se na hipótese do balanço do carbono, em que os átomos de carbono fornecidos ao motor são emitidos como CO(índice 2), e deduz-se do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.2.4 - Sistemas com medição do caudal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.3 - Sistema de diluição total do fluxo
 
@@ -3836,7 +3844,7 @@ Os resultados finais dos ensaios de emissão de partículas a indicar são obtid
 
 Todos os cálculos devem basear-se nos valores médios dos modos individuais, i, durante o período de recolha de amostras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.4 - Cálculo do caudal mássico de partículas
 
@@ -3844,35 +3852,35 @@ Calcula-se o caudal mássico de partículas do seguinte modo:
 
 Para o método do filtro único:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o método dos filtros múltiplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 O caudal mássico das partículas pode ser corrigido em relação ao fundo do seguinte modo:
 
 Para o método do filtro único:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Se for efetuada mais de uma medição, M(índice d)/M(índice DIL) é substituído por (M(índice d)/M(índice DIL))(índice ave)r
 
 ou:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o método dos filtros múltiplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Se for efetuada mais de uma medição, M(índice d)/M(índice DIL) é substituído por M(índice d)/M(índice DIL aver)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 ou:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.5 - Cálculo das emissões específicas
 
@@ -3882,17 +3890,17 @@ Nota. - O caudal mássico de partículas PT(índice mass) tem de se multiplicar 
 
 Para o método do filtro único:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o método dos filtros múltiplos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4.6 - Fator de ponderação efetivo
 
 Para o método do filtro único, calcula-se o fator de ponderação efetivo WF(índice E,i) para cada modo como se indica a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os valores dos fatores de ponderação efetivos devem estar a (mais ou menos) 0,005, em valor absoluto, dos fatores de ponderação indicados no n.º 3.7.1 do anexo III.
 
@@ -3920,13 +3928,13 @@ Determina-se a massa dos poluentes M(índice gas) (g/ensaio) através do cálcul
 
 Quadro - Valores dos coeficientes u - húmido para vários componentes dos gases de escape
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 A densidade de HC é calculada com base numa relação média carbono/hidrogénio de 1:1,85.
 
 Aplicam-se as seguintes fórmulas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Para o cálculo de NO(índice X), utiliza-se o fator de correção da humidade k(índice H), conforme descrito.
 
@@ -3936,23 +3944,23 @@ A concentração medida instantaneamente, se já não medida numa base seca, dev
 
 Se as concentrações forem medidas instantaneamente em base seca, devem ser convertidas em base húmida de acordo com as seguintes fórmulas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 H(índice a) = humidade do ar de admissão (g de água por kg de ar seco)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.1.2.3 - Correção quanto à humidade e temperatura dos NO(índice x)
 
 Dado que as emissões de NO(índice x), dependem das condições do ar ambiente, corrige-se a concentração de NO(índice x) em função da temperatura e da humidade do ar ambiente através dos fatores dados na fórmula a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.1.2.4 - Cálculo das emissões específicas
 
 Calculam-se as emissões específicas (g/kWh) para todos os componentes individuais do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.1.3 - Determinação das partículas
 
@@ -3960,19 +3968,19 @@ Calculam-se as emissões específicas (g/kWh) para todos os componentes individu
 
 Calculam-se as massas de partículas M(índice PT,cold) e M(índice PT,hot) (g/ensaio) através de um dos seguintes métodos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.1.3.2 - Fator de correção da concentração das partículas em função da humidade
 
 Dado que a emissão de partículas pelos motores diesel depende das condições do ar ambiente, corrige-se a concentração de partículas em função da humidade do ar ambiente através do fator K(índice p) dado pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.1.3.3 - Cálculo das emissões específicas
 
 As emissões específicas (g/kWh) são calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2 - Determinação dos componentes gasosos e das partículas com um sistema de diluição do escoamento total
 
@@ -4038,11 +4046,11 @@ Sistema SSV - CVS
 
 O cálculo do escoamento mássico durante o ciclo é feito do modo indicado a seguir, se a temperatura dos gases de escape diluídos for mantida com uma tolerância de (mais ou menos) 1 K durante o ciclo utilizando um permutador de calor:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Se se utilizar um sistema com compensação do escoamento, por exemplo sem permutador de calor, calculam-se as emissões mássicas instantâneas que são integradas ao longo do ciclo. Neste caso, a massa instantânea dos gases de escape diluídos é calculada do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 O cálculo em tempo real é inicializado quer com valor razoável para C(índice d), tal como 0,98, quer com valor razoável para Q (índice SSV). Se o cálculo for inicializado com o Q(índice SSV) , o valor inicial de Q(índice SSV) é utilizado para avaliar Re.
 
@@ -4052,7 +4060,7 @@ Durante todos os ensaios das emissões, o número de Reynolds da garganta do SSV
 
 Dado que as emissões de NO(índice x) dependem das condições do ar ambiente, corrige-se a concentração de NO(índice x) em função da temperatura e da humidade do ar ambiente através do fator K(índice H) dado pela fórmula a seguir:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.3 - Cálculo do escoamento mássico das emissões
 
@@ -4092,13 +4100,13 @@ DF = fator de diluição.
 
 Calcula-se o fator de diluição do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.3.2 - Sistemas com compensação do escoamento
 
 No que diz respeito aos sistemas sem permutador de calor, determina-se a massa dos poluentes M(índice GAS) (g/ensaio) através do cálculo das emissões mássicas instantâneas e da integração dos valores instantâneos durante o ciclo. Do mesmo modo, aplica-se diretamente a correção quanto às condições de fundo ao valor da concentração instantânea. Aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Dado que as emissões de NO(índice x) dependem das condições do ar ambiente, corrige-se a concentração de NO(índice x) em função da temperatura e da humidade do ar ambiente através do fator k(índice H), conforme descrito no n.º 2.2.2.
 
@@ -4106,7 +4114,7 @@ Dado que as emissões de NO(índice x) dependem das condições do ar ambiente, 
 
 Calculam-se as emissões específicas (g/kWh) para todos os componentes individuais do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.5 - Cálculo das emissões de partículas
 
@@ -4114,33 +4122,33 @@ Calculam-se as emissões específicas (g/kWh) para todos os componentes individu
 
 Calcula-se o caudal mássico das partículas M(índice PT,cold) e M(índice PT,hot) (g/ensaio) do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.5.2 - Fator de correção das partículas quanto à humidade
 
 Dado que a emissão de partículas pelos motores diesel depende das condições do ar ambiente, corrige-se a concentração das partículas em função da humidade do ar ambiente através do fator k(índice p) dado pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2.5.3 - Cálculo das emissões específicas
 
 As emissões específicas (g/kWh) são calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 4
+APÊNDICE 4
 
 Programa do dinamómetro do motor para o ensaio NRTC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Indica-se a seguir uma visualização gráfica do programa do dinamómetro para o ensaio NRTC
 
 Programa do dinamómetro NRT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 5
+APÊNDICE 5
 
 Requisitos de durabilidade
 
@@ -4322,13 +4330,13 @@ Figura 1
 
 Exemplo de determinação de DF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.4.6 - Fatores de deterioração atribuídos
 
 2.4.6.1 - Em alternativa à utilização de um programa de acumulação de serviço para determinar os DF, os fabricantes dos motores podem optar pela utilização dos seguintes DF multiplicativos atribuídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Não são apresentados DF aditivos atribuídos. Não deve admitir-se a transformação dos DF multiplicativos atribuídos em DF aditivos.
 
@@ -4412,9 +4420,9 @@ Qualquer outro sistema de pós-tratamento dos gases de escape.
 
 Quadro 1: Período de durabilidade das emissões para motores de ignição por compressão das fases III-A, III-B e IV (horas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 6
+APÊNDICE 6
 
 Determinação das emissões de CO(índice 2) para os motores das fases I, II, III-A, III-B e IV
 
@@ -4488,7 +4496,7 @@ A correção em função das condições de fundo deve ser aplicada em conformid
 
 As emissões específicas da travagem e(índice CO2) (g/kWh) devem ser calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 3.3.2 - NRTC
 
@@ -4496,9 +4504,9 @@ O trabalho do ciclo necessário para o cálculo das emissões de CO(índice 2) e
 
 As emissões específicas da travagem e(índice CO2) (g/kWh) devem ser calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 7
+APÊNDICE 7
 
 Determinação alternativa das emissões de CO(índice 2)
 
@@ -4574,9 +4582,11 @@ O trabalho do ciclo necessário para o cálculo das emissões de CO(índice 2) e
 
 As emissões específicas da travagem e(índice CO2) (g/kWh) devem ser calculadas do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## ANEXO V — Sistema de análise e de recolha de amostras
+ANEXO V
+
+Sistema de análise e de recolha de amostras
 
 1.ª- O anexo aplica-se do seguinte modo:
 
@@ -4586,7 +4596,7 @@ b) Se o fabricante, com base na opção indicada no n.º 1.2.1 do anexo III, opt
 
 1. Sistemas de recolha de amostras de gás e de partículas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.1 - Determinação das emissões gasosas
 
@@ -4610,13 +4620,13 @@ Figura 2
 
 Diagrama do sistema de análise dos gases de escape para o CO, NO(índice X) e HC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Figura 3
 
 Diagrama do sistema de análise dos gases de escape diluídos para o CO, CO(índice 2), NO(índice X) e HC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Descrições das figuras 2 e 3:
 
@@ -4816,7 +4826,7 @@ Figura 4
 
 Sistema de diluição do escoamento parcial com sonda isocinética e recolha de amostras fracionada, regulação pela SB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pela sonda de recolha de amostras isocinética ISP. Mede-se a diferença de pressão dos gases de escape entre o tubo de escape e a entrada da sonda, utilizando o transdutor de pressão DPT. O sinal resultante é transmitido ao regulador de caudal FC1, que comanda a ventoinha de aspiração SB para manter uma diferença de pressão nula na ponta da sonda. Nestas condições, as velocidades dos gases de escape em EP e ISP são idênticas e o escoamento através de ISP e TT é uma fração constante do escoamento de gases de escape. A razão de separação é determinada pelas áreas das secções de EP e ISP. O caudal do ar de diluição é medido com o dispositivo FM1. A razão de diluição é calculada a partir do caudal do ar de diluição e da razão de separação.
 
@@ -4824,7 +4834,7 @@ Figura 5
 
 Sistema de diluição parcial do escoamento com sonda isocinética e recolha de amostras fraccionada (regulação pela PB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pela sonda de recolha de amostras isocinética ISP. Mede-se a diferença de pressão dos gases de escape entre o tubo de escape e a entrada da sonda, utilizando o transdutor de pressão DPT. O sinal resultante é transmitido ao regulador de caudal FC1, que comanda a ventoinha de pressão PB para manter uma diferença de pressão nula na ponta da sonda. Isto consegue-se retirando uma pequena fração do ar de diluição cujo caudal já foi medido com o debitómetro FM1, e fazendo-o chegar a TT através de um orifício pneumático. Nestas condições, as velocidades dos gases de escape em EP e ISP são idênticas, e o escoamento através de ISP e TT é uma fração constante do escoamento de gases de escape. A razão de separação é determinada pelas áreas das secções de EP e ISP. O ar de diluição é aspirado através de DT pela ventoinha de aspiração SB e o seu caudal é medido com FM1 à entrada em DT. A razão de diluição é calculada a partir do caudal do ar de diluição e da razão de separação.
 
@@ -4832,7 +4842,7 @@ Figura 6
 
 Sistema de diluição parcial do fluxo com medição das concentrações do CO(índice 2) ou NO(índice X) e recolha de amostras fracionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. Medem-se as concentrações de um gás traçador (CO(índice 2) ou NO(índice X)) nos gases de escape brutos e diluídos bem como no ar de diluição com o(s) analisador(es) de gases de escape EGA. Estes sinais são transmitidos ao regulador de escoamento FC2 que regula quer a ventoinha de pressão PB quer a ventoinha de aspiração SB, para manter a separação e a razão de diluição dos gases de escape desejadas em DT. A razão de diluição calcula-se a partir das concentrações dos gases traçadores nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição.
 
@@ -4840,7 +4850,7 @@ Figura 7
 
 Sistema de diluição parcial do fluxo com medição das concentrações do CO(índice 2), balanço do carbono e recolha de amostras total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. Medem-se as concentrações de CO(índice 2) nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA. Os sinais referentes à concentração de CO(índice 2) e do caudal de combustível G(índice FUEL) são transmitidos quer ao regulador de caudal FC2 quer ao regulador de caudal FC3 do sistema de recolha de amostras de partículas (figura 14). FC2 comanda a ventoinha de pressão PB, enquanto FC3 comanda o sistema de recolha de amostras de partículas (figura 14), ajustando assim os escoamentos que entram e saem do sistema de modo a manter a razão de separação e a razão de diluição dos gases de escape desejadas em DT. A razão de diluição calcula-se a partir das concentrações do CO(índice 2) e de G(índice FUEL) utilizando a hipótese do balanço do carbono.
 
@@ -4848,7 +4858,7 @@ Figura 8
 
 Sistema de diluição parcial do fluxo com Venturi simples, medição das concentrações e recolha de amostras fraccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT devido à pressão negativa criada pelo Venturi VN em DT. O caudal dos gases através de TT depende da troca de quantidades de movimento na zona do Venturi, sendo portanto afectada pela temperatura absoluta dos gases à saída de TT. Consequentemente, a separação dos gases de escape para um dado caudal no túnel não é constante, e a razão de diluição a pequena carga é ligeiramente mais baixa que a carga elevada. Medem-se as concentrações do gás marcador (CO(índice 2) ou NO(índice X)) nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA, sendo a razão de diluição calculada a partir dos valores assim obtidos.
 
@@ -4856,7 +4866,7 @@ Figura 9
 
 Sistema de diluição parcial do escoamento parcial com Venturi duplo ou orifício duplo, medição das concentrações e recolha de amostras fraccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT por um separador de escoamentos com um conjunto de orifícios ou Venturis. O primeiro (FD1) está localizado em EP, o segundo (FD2) em TT. Além disso, são necessárias duas válvulas da regulação da pressão (PCV1 e PCV2) para manter uma separação constante dos gases de escape através da regulação da contrapressão em EP e da pressão em DT. PCV1 está localizada a jusante de SP em EP e PCV2 entre a ventoinha de pressão PB e DT. Medem-se as concentrações do gás traçador (CO(índice 2) ou NO(índice X)) nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA. Estas concentrações são necessárias para verificar a separação dos gases de escape e podem ser utilizadas para regular PCV1 e PCV2 para se obter uma regulação precisa da separação. A razão de diluição é calculada a partir das concentrações dos gases traçadores.
 
@@ -4864,7 +4874,7 @@ Figura 10
 
 Sistema de diluição do escoamento parcial com separação por tubos múltiplos, medição das concentrações e recolha de amostras fraccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através do tubo de transferência TT pelo separador de escoamentos FD3, que é constituído por uma série de tubos com as mesmas dimensões, isto é, diâmetros, comprimentos e raios de curvatura idênticos, instalados em EP. Os gases de escape através de um destes tubos são levados para DT e os gases de escape através do resto dos tubos são conduzidos através da câmara de amortecimento DC. A separação dos gases de escape é assim determinada pelo número total de tubos. Uma regulação constante da separação exige uma diferença de pressão nula entre DC e a saída de TT, que é medida com o transdutor de pressão diferencial DPT. Obtém-se uma diferença de pressão nula injetando ar fresco para dentro do DT na saída do TT. Medem-se as concentrações do gás traçador (CO(índice 2) ou NO(índice x)) nos gases de escape brutos, nos gases de escape diluídos e no ar de diluição com o(s) analisador(es) de gases de escape EGA. Estas concentrações são necessárias para verificar a separação dos gases de escape e podem ser utilizadas para regular o caudal de ar de injeção para se obter uma regulação precisa da separação. A razão de diluição é calculada a partir das concentrações dos gases traçadores.
 
@@ -4872,7 +4882,7 @@ Figura 11
 
 Sistema de diluição parcial do fluxo com regulação do escoamento e recolha de amostras total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. O caudal total através do túnel é ajustado com o regulador de caudais FC3 e a bomba de recolha de amostras P do sistema de recolha de amostras de partículas (figura 16).
 
@@ -4882,7 +4892,7 @@ Figura 12
 
 Sistema de diluição parcial do fluxo com regulação do escoamento e recolha de amostras fraccionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Os gases de escape brutos são transferidos do tubo de escape EP para o túnel de diluição DT através da sonda de recolha de amostras SP e do tubo de transferência TT. A separação dos gases de escape e o caudal que chega a DT é regulado pelo regulador de caudal FC2 que ajusta os caudais, ou velocidades, da ventoinha de pressão PB e da ventoinha de aspiração SB, operação possível dado que a amostra retirada com o sistema de recolha de partículas é reenviada para DT. Isto é possível desde que a amostra obtida pelo sistema de amostras de partículas seja reintroduzida em DT. GEXH, GAIR, ou GFUEL podem ser utilizados como sinais de comando para FC2. O caudal do ar de diluição é medido com o debitómetro FM1 e o caudal total com o debitómetro FM2. A razão de diluição é calculada a partir desses dois caudais.
 
@@ -5050,7 +5060,7 @@ Figura 13
 
 Sistema de diluição total do fluxo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 A quantidade total dos gases de escape brutos é misturada com ar de diluição no túnel de diluição DT. O caudal dos gases de escape diluídos é medido quer com uma bomba volumétrica PDP quer com um Venturi de escoamento crítico CFV. Pode ser utilizado um permutador de calor HE ou um dispositivo de compensação de caudais EFC para a recolha proporcional de partículas e para a determinação do caudal. Dado que a determinação da massa das partículas se baseia no fluxo total dos gases de escape diluídos, não é necessário calcular a razão de diluição.
 
@@ -5138,7 +5148,7 @@ Figura 14
 
 Sistema de recolha de amostras de partículas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Retira-se uma amostra dos gases de escape diluídos do túnel de diluição DT de um sistema de diluição parcial do fluxo ou de um sistema total do fluxo através da sonda de recolha de amostras de partículas PSP e do tubo de transferência de partículas PTT através da bomba de recolha P. Faz-se passar a amostra através dos suportes de filtros FH que contêm os filtros de recolha de partículas. O caudal da amostra é regulado pelo regulador de caudal FC3. Se for utilizada a compensação electrónica de caudais EFC (figura 13), o caudal de gases de escape diluídos é utilizado como sinal de comando para o FC3.
 
@@ -5146,7 +5156,7 @@ Figura 15
 
 Sistema de diluição (apenas sistema de diluição total do fluxo)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Transfere-se uma amostra dos gases de escape diluídos do túnel de diluição DT de um sistema de diluição do fluxo total através da sonda de recolha de amostras de partículas PSP e do tubo de transferência de partículas PTT para o túnel de diluição secundária SDT, em que é novamente diluída. Faz-se passar a amostra através dos suportes de filtros FH que contêm os filtros de recolha das partículas. O caudal do ar de diluição é geralmente constante, enquanto o caudal da amostra é regulado pelo regulador de caudal FC3. Se for utilizada a compensação electrónica do caudal EFC (figura 13), o caudal total dos gases de escape diluídos é utilizado como sinal de comando para o FC3.
 
@@ -5216,13 +5226,15 @@ Nota. - Se a temperatura ambiente na vizinhança de PSP, PTT, SDT e FH for infer
 
 A cargas de motor elevadas, as peças acima indicadas podem ser arrefecidas por um meio não agressivo, tal como um ventilador de circulação, desde que a temperatura do fluido de arrefecimento não seja inferior a 293 K (20 ºC).
 
-## ANEXO VI — (Modelo)
+ANEXO VI
+
+(Modelo)
 
 Certificado de homologação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-#### Secção I
+Secção I
 
 0 - Generalidades
 
@@ -5252,7 +5264,7 @@ Nome e endereço do eventual mandatário do fabricante: ...
 
 (2) Conforme definidas no n.º 1 do anexo I (por exemplo: «A»)
 
-#### Secção II
+Secção II
 
 1 - Restrições de utilização (se existirem): ...
 
@@ -5290,7 +5302,7 @@ Estudo de correlação relativo aos sistemas de recolha de amostras utilizados q
 
 (3) Preencher com n.a. se os ensaios foram efetuados pelas próprias autoridades de homologação
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Relatório de ensaio para os motores de ignição por compressão
 
@@ -5326,7 +5338,7 @@ Número de identificação do motor ...
 
 1.3.2 - Potência absorvida às velocidades do motor indicadas (conforme especificadas pelo fabricante):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4 - Desempenho do motor
 
@@ -5342,13 +5354,13 @@ Nominal (2): ... min(elevado a -1)
 
 1.4.2 - Potência do motor (3)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2 - Informações relativas à realização do ensaio NRSC:
 
 2.1 - Regulação do dinamómetro (kW)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.2 - Resultados das emissões do motor/motor precursor (4):
 
@@ -5356,7 +5368,7 @@ Fator de deterioração (DF): calculado/fixado (4)
 
 Especificar os valores dos DF e os resultados das emissões no quadro seguinte (4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.3 - Sistema de recolha de amostras utilizado para o ensaio NRSC:
 
@@ -5376,7 +5388,7 @@ Especificar os valores dos DF e os resultados das emissões no quadro seguinte (
 
 Os dados relativos à regeneração podem ser comunicados para os motores da fase IV.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Trabalho do ciclo para arranque a quente sem regeneração kWh
 
@@ -5398,41 +5410,45 @@ Método (4): Filtro simples/filtros múltiplos
 
 (5) Indicar o número da figura do sistema utilizado, tal como definido no n.º 1 do anexo V ou no n.º 9 do anexo 4-B do Regulamento UNECE n.º 96, com a redação que lhe foi dada pela série 03 de alterações, conforme aplicável.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Equipamentos e dispositivos auxiliares a incluir para o ensaio com vista à determinação da potência do motor quando aplicáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## ANEXO X — Folha de dados relativos aos motores homologados
+ANEXO X
+
+Folha de dados relativos aos motores homologados
 
 1 - Motores de ignição por compressão (1) (2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.1 - Informações gerais sobre o motor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.2 - Resultado final das emissões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.3 - Fatores de deterioração NRSC e resultados dos ensaios de emissões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.4 - Fatores de deterioração NRTC e resultados dos ensaios de emissões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 1.5 - Resultados dos ensaios de emissões NRTC com arranque a quente
 
 Os dados relativos à regeneração podem ser comunicados para os motores da fase IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## ANEXO XI — Reconhecimento de homologações alternativas
+ANEXO XI
+
+Reconhecimento de homologações alternativas
 
 1 - As homologações que se seguem e, quando aplicável, as marcas de homologação correspondentes são reconhecidas como equivalentes a uma homologação nos termos do presente diploma relativamente aos motores das categorias A, B e C, tal como são definidos no n.º 2 do artigo 9.º
 
@@ -5570,7 +5586,7 @@ Para os motores a ensaiar com o ciclo G1 nos termos do n.º 3.5.1.2 do anexo III
 
 2.17.1 - Símbolos dos parâmetros de ensaio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 2.17.2 - Símbolos dos componentes químicos.
 
@@ -5666,13 +5682,13 @@ No que diz respeito às emissões gasosas medidas nos gases de escape diluídos 
 
 Fase I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 4.2.2 - Os valores das emissões de monóxido de carbono e a soma das emissões de hidrocarbonetos e óxidos de azoto obtidos não devem exceder, para a fase II, os valores indicados no quadro seguinte:
 
 Fase II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 Nota 1. - Os valores das emissões de NO(índice x) para todas as classes de motores não devem exceder 10 g/kWh.
 
@@ -5718,7 +5734,7 @@ Determina-se então, a média aritmética dos resultados (X) obtidos na amostra 
 
 Considera-se que a produção da série está conforme caso seja satisfeita a seguinte condição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 5.3.3 - A Direção-Geral das Atividades Económicas ou o serviço técnico responsável pela verificação da conformidade da produção devem efetuar ensaios com motores parcial ou totalmente rodados, de acordo com as especificações do fabricante.
 
@@ -5792,7 +5808,9 @@ Coletor de partículas.
 
 7.2 - Se os motores de uma família possuírem outras características variáveis que possam ser consideradas como afetando as emissões de escape, essas características devem também ser identificadas e tidas em conta na seleção do motor precursor.
 
-## ANEXO II — Ficha de Informações n.º
+ANEXO II
+
+Ficha de Informações n.º
 
 Relativa à homologação no que diz respeito às medidas contra a emissão de poluentes gasosos e de partículas pelos motores de combustão interna a instalar em máquinas móveis não rodoviárias.
 
@@ -5840,7 +5858,7 @@ Anexos:
 
 (2) Conforme definido no n.º 1 do anexo I.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 Características essenciais do motor (precursor) (1)
 
@@ -6070,7 +6088,7 @@ Máximo: ... K.
 
 (3) Especificar a tolerância.
 
-## APÊNDICE 2
+APÊNDICE 2
 
 Características essenciais da família de motores
 
@@ -6110,15 +6128,15 @@ Prova de razão idêntica (ou mais baixa para o motor precursor): capacidade do 
 
 2.2 - Especificação dos motores dentro dessa família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
 (1) Para mais pormenores, ver apêndice n.º 1.
 
 (2) Para mais pormenores, ver apêndice n.º 3.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
 
-## APÊNDICE 3
+APÊNDICE 3
 
 Características essenciais do tipo de motor dentro da família (1)
 
@@ -6350,8 +6368,10 @@ Máximo: ...K.
 
 (3) Especificar a tolerância.
 
-## ANEXO X — Folha de dados relativos aos motores homologados
+ANEXO X
+
+Folha de dados relativos aos motores homologados
 
 Motores de ignição comandada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03700/0151801618.pdf)

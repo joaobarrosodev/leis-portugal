@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12400/0000900017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/30/2020/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-2020-136678512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f384ad3e3847528e19d271b5c1b406f9b74a208951cd6163b4ba905225001a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 139b57bab286fc932223a59f7d365d80b11fab1a30401e838ae405bba789a9d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,12 +71,12 @@ subjects:
 - Definição de Competências
 - Direção Geral das Atividades Económicas
 - Especificação Técnica
-- Sociedade da Informação
 - Instituto Português da Qualidade
-- Notificação
-- Troca Intracomunitária
 - Normalização
+- Notificação
 - Plataforma Eletrónica
+- Sociedade da Informação
+- Troca Intracomunitária
 relationships:
 - type: cites
   target: celex:31983L0189
@@ -134,16 +134,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/2015/09/09/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/2015/09/09/p/dre
+- type: cites
+  target: pt:dre:522389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237675:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:20Z'
   warnings: []
   errors: []
 ---
@@ -360,15 +372,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de junho de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva.
 
-**Promulgado em 23 de junho de 2020.**
+Promulgado em 23 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de junho de 2020.**
+Referendado em 25 de junho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — Lista dos serviços que não estão abrangidos pela alínea d) do artigo 2.º
 
@@ -437,3 +449,5 @@ a) Os serviços de investimento referidos nos artigos 290.º e 291.º do Código
 b) Os serviços abrangidos pelas atividades que beneficiam do reconhecimento mútuo contemplados no anexo i da [Diretiva n.º 2013/36/UE](http://data.europa.eu/eli/dir/2013/36/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de junho de 2013;
 
 c) As operações respeitantes às atividades de seguro e resseguro referidas no regime jurídico de acesso e exercício da atividade seguradora e resseguradora, aprovado pelo [Lei n.º 147/2015](https://diariodarepublica.pt/dr/detalhe/lei/147-2015-70237675), de 9 de setembro, na sua redação atual.
+
+113347167

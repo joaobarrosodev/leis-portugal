@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/22/1996/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1996-444677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3cd383dc821ba342012ae4c136335fc391bac21b407b29abcb458e08229e4d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 189c304b8cc665fa0fe7532fcfe0827938e67e63b0bac80a377575c7840b9271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/129/1993/04/22/p/dre
+- type: cites
+  target: pt:dre:178110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692654:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:05Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +139,7 @@ Aceitando como princípios fundamentais à sua existência aqueles que definem a
 
 A organização da Universidade da Madeira tem como base os departamentos, unidades orgânicas que contêm os recursos humanos, pedagógicos, científicos e técnicos, indispensáveis à realização das actividades de formação, investigação e desenvolvimento e serviços à comunidade nos diversos domínios científicos.
 
-# PARTE I — Natureza jurídica, missão e sede da Universidade
+## PARTE I — Natureza jurídica, missão e sede da Universidade
 
 ### CAPÍTULO I — Natureza jurídica
 
@@ -175,7 +203,7 @@ A Universidade adopta traje próprio e medalha honorífica, conforme regulamento
 
 O Dia da Universidade da Madeira é 6 de Maio.
 
-# PARTE II — Unidades orgânicas e funcionais
+## PARTE II — Unidades orgânicas e funcionais
 
 ###### Artigo 9.º — Departamentos e unidades funcionais
 
@@ -195,7 +223,7 @@ c) Serviços.
 
 2 - As despesas de funcionamento dos Serviços de Acção Social da Universidade não podem exceder 20% do total de financiamento atribuído.
 
-# PARTE III — Órgãos da Universidade
+## PARTE III — Órgãos da Universidade
 
 ###### Artigo 11.º — Órgãos da Universidade
 
@@ -631,7 +659,7 @@ b) Dar parecer sobre os planos de desenvolvimento da Universidade que lhe sejam 
 
 c) Dar parecer sobre a criação ou extinção de cursos, departamentos e estruturas da Universidade, ou por esta participadas, quando solicitado.
 
-# PARTE IV — Departamentos e secções autónomas
+## PARTE IV — Departamentos e secções autónomas
 
 ###### Artigo 31.º — Departamentos
 
@@ -765,7 +793,7 @@ Na Universidade funciona o Centro Integrado de Formação de Professores (CIFOP)
 
 4 - Caberá a cada secção autónoma propor o respectivo regulamento, que deverá ser aprovado pelo senado e homologado pelo reitor.
 
-# PARTE V — Serviços
+## PARTE V — Serviços
 
 ###### Artigo 40.º — Serviços da Universidade
 
@@ -801,7 +829,7 @@ Os serviços de apoio às unidades serão definidos nos respectivos regulamentos
 
 O Gabinete de Apoio ao Reitor funciona junto do reitor e assegura-lhe apoio directo, bem como aos vice-reitores e pró-reitores.
 
-# PARTE VI — Gestão financeira, administrativa e patrimonial
+## PARTE VI — Gestão financeira, administrativa e patrimonial
 
 ###### Artigo 43.º — Património e receitas da Universidade
 
@@ -871,7 +899,7 @@ c) Orçamentos privativos.
 
 3 - A Universidade pode alterar livremente os seus quadros de pessoal, desde que tal alteração não se traduza em aumento dos valores globais de efectivos.
 
-# PARTE VII — Associações de estudantes
+## PARTE VII — Associações de estudantes
 
 ###### Artigo 48.º — Associações de estudantes
 
@@ -879,7 +907,7 @@ c) Orçamentos privativos.
 
 2 - A Universidade colaborará com as associações de estudantes nos moldes e pelos meios determinados pela legislação aplicável.
 
-# PARTE VIII — Disposições finais e transitórias
+## PARTE VIII — Disposições finais e transitórias
 
 ###### Artigo 49.º — Centros e núcleos de investigação
 
@@ -961,7 +989,7 @@ A simetria em negativo/positivo das duas fachadas expressa a harmonia e o equil�
 
 A presença do azul reforça o sentido de universalidade e confere à instituição dignidade e distinção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf))](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf)
 
 ## ANEXO II — Bandeira da Universidade da Madeira
 
@@ -975,4 +1003,4 @@ O símbolo da Universidade, nas suas formas e cores originais, está localizado 
 
 No selo, de formato circular, o logótipo «Universidade da Madeira» é disposto em anel e é circundado por dois filetes concêntricos, que são interrompidos pelos extremos do símbolo da Universidade, que se encontra representado ao centro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf))](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/127b00/13631373.pdf)

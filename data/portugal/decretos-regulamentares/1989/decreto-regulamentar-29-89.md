@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1989-548994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93d31e8ebf3ed788c86c58c9b43e930cee1dc94703414bbe31a390419c4cec73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7a5d569d0fe6d66eca420ab31c3fd73002caa0476b6a79db79b4ff3e36f17f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral da Aviação Civil
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284902:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:07Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +103,9 @@ Considerando o disposto nos artigos 8.º, 10.º e 45.º do [Decreto-Lei n.º 248
 
 Ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º419/88, de 11 de Novembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aditada ao quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pela [Portaria n.º 222/88](https://diariodarepublica.pt/dr/detalhe/portaria/222-1988-284902), de 13 de Abril, a carreira de operador de microfilmagem, em conformidade com o mapa I e mediante a contrapartida da extinção dos lugares constantes do mapa II, ambos anexos ao presente diploma, que dele fazem parte integrante.
+Artigo 1.º É aditada ao quadro de pessoal da Direcção-Geral da Aviação Civil, aprovado pela [Portaria n.º 222/88](https://diariodarepublica.pt/dr/detalhe/portaria/222-1988-284902), de 13 de Abril, a carreira de operador de microfilmagem, em conformidade com o mapa I e mediante a contrapartida da extinção dos lugares constantes do mapa II, ambos anexos ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 2.º Os operadores de microfilmagem desempenham funções de natureza executiva, de carácter manual ou mecânico, no serviço de micrografia, cabendo-lhes, nomeadamente, as seguintes tarefas:
+Art. 2.º Os operadores de microfilmagem desempenham funções de natureza executiva, de carácter manual ou mecânico, no serviço de micrografia, cabendo-lhes, nomeadamente, as seguintes tarefas:
 
 a) Microfilmagem de toda a documentação recebida do sector administrativo;
 
@@ -111,7 +121,7 @@ f) Limpeza periódica do equipamento;
 
 g) Requisição atempada de consumíveis e manutenção de quantidade razoável em depósito.
 
-###### Art. 3.º - 1 - Os funcionários actualmente providos em lugares das carreiras de operador de reprografia, impressor de offset e escriturário-dactilógrafo do quadro de pessoal da Direcção-Geral da Aviação Civil, constantes do anexo I à [Portaria n.º 222/88](https://diariodarepublica.pt/dr/detalhe/portaria/222-1988-284902), de 13 de Abril, que exerçam funções de conteúdo equiparável às descritas no artigo 2.º do presente diploma transitam para a carreira de operador de microfilmagem, sem prejuízo dos requisitos legalmente exigidos, mediante as seguintes regras:
+Art. 3.º - 1 - Os funcionários actualmente providos em lugares das carreiras de operador de reprografia, impressor de offset e escriturário-dactilógrafo do quadro de pessoal da Direcção-Geral da Aviação Civil, constantes do anexo I à [Portaria n.º 222/88](https://diariodarepublica.pt/dr/detalhe/portaria/222-1988-284902), de 13 de Abril, que exerçam funções de conteúdo equiparável às descritas no artigo 2.º do presente diploma transitam para a carreira de operador de microfilmagem, sem prejuízo dos requisitos legalmente exigidos, mediante as seguintes regras:
 
 a) Para categoria a que corresponda letra de vencimento igual à que detêm;
 
@@ -123,20 +133,20 @@ Presidência do Conselho de Ministros, 4 de Setembro de 1989.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 26 de Setembro de 1989.**
+Promulgado em 26 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Outubro de 1989.**
+Referendado em 1 de Outubro de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa I a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf)
 
 Mapa II a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf))](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/10/23900/45464547.pdf)

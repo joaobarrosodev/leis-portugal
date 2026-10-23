@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2007-520456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d286e166f44fc17f0393aa6727c5dcd22187bf973b6ae36e0a2d9e21f89cb0ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5a8962d7a75c195a4dd99eaf40a8b2f4d3bef128c7e826db3f18ad5985c359a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
-- Secretaria Geral
-- Recrutamento de Pessoal
 - Ministério da Cultura
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:542421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinta, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, a Secretaria-Geral do Ministério da Cultura,\
+    \ cuja orgânica foi aprovada pelo presente diploma, rectificado pela Decl-Rect 47-B/2007 de 25-Mai, e integradas as suas\
+    \ atribuições na Secretaria-Geral da PCM, com excepção das atribuições nos domínios do apoio jurídico-contencioso e da\
+    \ gestão administrativa e financeira do Fundo de Fomento Cultural, que são integradas no Gabinete de Estratégia, Planeamento\
+    \ e Avaliação Culturais, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544577:por
+  label: "Determinada a sucessão da SG nas atribuições da Secretaria-Geral do Ministério da Cultura, com exceção das atribuições\
+    \ nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural e revogado,\
+    \ a partir de 01.02.2012. o presente diploma, pelo DEC LEI.4/2012.16.01.2012.PCM, DR.IS [11] de 16.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2012-544577
+  date: '2012-01-16'
+- type: amended_by
+  target: pt:dre:542421:por
+  label: "Determina a sucessão do Gabinete de Estratégia, Planeamento e Avaliação Culturais nas atribuições da Secretaria-Geral\
+    \ do Ministério da Cultura, pelo DEC LEI.47/2012.28.02.2012.PCM, DR.IS [42] de 28.02.2012, nos termos do art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2012-542421
+  date: '2012-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/1999/06/11/p/dre
   label: null
@@ -89,16 +111,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:308516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:149592:por
+  label: "Rectificado pela DECL-RECT.47-B/2007.25.05.2007.PCM, DR.IS [102]Supl de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-b-2007-149592
+  date: '2007-05-25'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:36Z'
   warnings: []
   errors: []
 ---
@@ -287,16 +326,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
 
-**Promulgado em 22 de Março de 2007.**
+Promulgado em 22 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Março de 2007.**
+Referendado em 23 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf)

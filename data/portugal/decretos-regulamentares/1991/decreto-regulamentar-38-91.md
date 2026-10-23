@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/172b00/37383743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/38/1991/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1991-685261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9fd8a861e890d35a5418a698aa7b815d60779f3eb384e239149587b4487e618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5dc9beb8c8d10cf9623de4d7532d70205ad91803fcbbf4d1a9573539736dc7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,19 +72,44 @@ subjects:
 - TAXA de Utilização
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: "19910831 - RECTIFICADA PELA DECL-RECT 199/91 DR.IS-B [200]2SUPL DE 31/AGO/1991 R\0991 R"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:606969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:562210:por
+  label: "Alterado o art. 2.º pelo DR.24/95.1995.09.12.MOPTC DR.IS-B [211]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1995-562210
+  date: '1995-09-12'
+- type: amended_by
+  target: pt:dre:191111:por
+  label: "Transmitidos para a ANA, S.A todos os direitos e faculdades relativos ao licenciamento do uso privativo do domínio\
+    \ público aeroportuário e correspondentes taxas, conferidas à ANA, E.P. excepto os direitos e faculdades previstos no\
+    \ art. 5º, (os quais são transferidos para a NAV, E.P), pelo DEC LEI.404/98.1998.12.18.MEPAT, DR.IS-A [291]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/404-1998-191111
+  date: '1998-12-18'
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346481:por
+  label: "Revogado pelo DR.12/99.1999.07.30.MEPATDR.IS-B [176]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-1999-346481
+  date: '1999-07-30'
 article_structure:
   article_count: 34
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:01Z'
   warnings: []
   errors: []
 ---
@@ -403,12 +428,12 @@ Presidência do Conselho de Ministros, 22 de Abril de 1991.
 
 Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Jorge Manuel Mendes Antas - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 19 de Junho de 1991.**
+Promulgado em 19 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Junho de 1991.**
+Referendado em 22 de Junho de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04900/0154801559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2019/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2530b66e33bc586242a2ea7aa2bf81e65058ac11c1a3a4b46533b9f1df97008a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3817beb057d32d2a2b27389c1fe3fdccae0560122cb19aafd45e606678395451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aquicultura
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Regulamentação de Atos Legislativos
 - Fiscalização
 - Fiscalização Marítima
 - Pesca
-- Aquicultura
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:836604896:por
@@ -123,16 +123,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/42/2015/06/19/p/dre
+- type: cites
+  target: pt:dre:105711870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117484670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67540636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73807563:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:06Z'
   warnings: []
   errors: []
 ---
@@ -911,16 +939,18 @@ b) O [Decreto-Lei n.º 92/96](https://diariodarepublica.pt/dr/detalhe/decreto-le
 
 Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2019. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Ana Isabel dos Santos Figueiredo Pinto - Eduardo Arménio do Nascimento Cabrita - José Apolinário Nunes Portada.
 
-**Promulgado em 1 de março de 2019.**
+Promulgado em 1 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de março de 2019.**
+Referendado em 6 de março de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 17.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/04900/0154801559.pdf))](https://files.diariodarepublica.pt/1s/2019/03/04900/0154801559.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/04900/0154801559.pdf)
+
+112119214

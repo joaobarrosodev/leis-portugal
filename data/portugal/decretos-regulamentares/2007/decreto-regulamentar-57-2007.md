@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26862688.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/57/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-2007-520996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6858e95bf61c645b51d5a121595c715203ec8f4b027daa757472594026230d01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f36624cc85f83323061f96886ee427d87b7e04e8f46433662d462287d81e1063
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Geral do Consumidor
 - Diretor Geral
 - Ministério da Economia e da Inovação
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Subdirector Geral
 relationships:
@@ -82,16 +82,28 @@ relationships:
   target: celex:32004R2006
   label: null
   source: http://data.europa.eu/eli/reg/2004/2006/oj
+- type: repealed_by
+  target: pt:dre:552533:por
+  label: "Revogado a partir de 02.05.2012, nos termos do art. 46.º do Dec Lei 126-C/2011, de 29-dez, pelo DR.38/2012.10.04.2012.MEE,\
+    \ DR.IS [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/38-2012-552533
+  date: '2012-04-10'
+- type: repealed_by
+  target: pt:dre:256586:por
+  label: "Revogado, a partir de 01.02.2013, o Dec Lei 154/97 de 20-jun, alterado pelo presente diploma, pelo DEC LEI.5/2013.16.01.2013.MEE,\
+    \ DR.IS [11] de 16.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-2013-256586
+  date: '2013-01-16'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:59Z'
   warnings: []
   errors: []
 ---
@@ -234,16 +246,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 4 de Abril de 2007.**
+Promulgado em 4 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/08200/26862688.pdf))](https://files.diariodarepublica.pt/1s/2007/04/08200/26862688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08200/26862688.pdf)

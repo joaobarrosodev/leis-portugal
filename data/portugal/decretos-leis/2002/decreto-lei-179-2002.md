@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/179/2002/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2002-175985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d38c7cfe66c2c48babc509619db6343216d00c4e837bd3e84e0cb47259182e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23a3f7a1d82b00ae24bc96b98ce73c0bbf018565e96af426ac8730488f7227f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,102 @@ relationships:
   target: pt:dre:164404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 2.º do Dec Lei 408/87, de 31-Dez, na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR,\
+    \ DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:539402:por
+  label: "Alterado o art. 2º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pela LEI.33/2006.28.07.2006.AR, DR.IS [145] de 28.07.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2006-539402
+  date: '2006-07-28'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterado o art. 26º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:518046:por
+  label: "Alterado o art. 2º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2007-518046
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o artigo 7.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de\
+    \ 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 24º e 32º do Regime do IVA nas Transacções Intracomunitárias, aprovado pelo Dec Lei 290/92, de\
+    \ 28-Dez, na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:592169:por
+  label: "Alterado o art. 29º ( com efeitos desde 01.01.2009 ) do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez,\
+    \ com a redacção constante do presente diploma, pelo DEC LEI.136-A/2009.05.06.2009.MFAP, DR.IS [109-Supl] de 05.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-a-2009-592169
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterados a partir de 01.01.2010, os artigos 2.º e 29.º do Código do IVA, aprovado pelo Decreto-Lei 394-B/84, de\
+    \ 26 de Dezembro, na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterada, a partir de 01.01.2010, a al. h) do nº 1 do art. 29º do Código do IVA, aprovado pelo Dec Lei 394-B/84\
+    \ de 26-Dez, na redacção do presente diploma, republicado pelo Dec Lei 102/2008 de 20-Jun, pelo DEC LEI.292/2009.13.10.2009.MFAP,\
+    \ DR.IS [198] de 13.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 2.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-Jun, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterados, a partir de 01.01.2011, os arts. 1º, 2º e 29º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 29º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 2.º, 7.º e 29.º do Código do Imposto sobre o Valor Acrescentado, aprovado\
+    \ pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de\
+    \ 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 29.º, na redação do presente diploma, do Código do IVA, aprovado pelo Dec lei 394-B/84 de 26-dez,\
+    \ renumerado e republicado pelo Dec Lei 102/2008 de 20-jun, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 29º do Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado pelo Dec Lei 394-B/84\
+    \ de 26-dez, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
 - type: cites
   target: celex:31977L0388
   label: null
@@ -84,16 +180,22 @@ relationships:
   target: celex:32000L0065
   label: null
   source: http://data.europa.eu/eli/dir/2000/65/oj
+- type: repealed_by
+  target: pt:dre:493507:por
+  label: "Revogado, a partir de 01.01.2010, o Dec Lei nº 408/87, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP,\
+    \ DR.IS [155] de 12.08.2009, sem prejuízo da sua aplicação aos pedidos de reembolso apresentados até 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:22Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +250,7 @@ g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquir
 
 4 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -168,7 +270,7 @@ g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquir
 
 9 - No caso das transmissões de bens e prestações de serviços referidas no n.º 3, em que não seja fixada periodicidade de pagamento ou esta seja superior a 12 meses, o imposto é devido e torna-se exigível no final de cada período de 12 meses, pelo montante correspondente.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
@@ -182,7 +284,7 @@ g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquir
 
 6 - ...
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, que aqui pratiquem operações tributáveis e que disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro poderão proceder à nomeação de um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.
 
@@ -198,7 +300,7 @@ g) As pessoas singulares ou colectivas referidas na alínea a), que sejam adquir
 
 7 - Os sujeitos passivos indicados no número anterior, que façam sair os bens dos locais ou dos regimes referidos na alínea b) do n.º 1 do artigo 15.º, devem cumprir as obrigações previstas neste diploma.
 
-###### Artigo 70.º
+Artigo 70.º
 
 1 - ...
 
@@ -226,7 +328,7 @@ Os artigos 24.º e 32.º do Regime do IVA nas Transacções Intracomunitárias (
 
 5 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º deverão ser cumpridas pelo adquirente dos bens, sujeito passivo registado no território nacional para efeitos de imposto sobre o valor acrescentado.
 
-###### Artigo 32.º
+Artigo 32.º
 
 1 - ...
 
@@ -258,12 +360,12 @@ III) Das operações cujo imposto seja devido pelos adquirentes, nos termos da a
 
 Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz.
 
-**Promulgado em 22 de Julho de 2002.**
+Promulgado em 22 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Julho de 2002.**
+Referendado em 22 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

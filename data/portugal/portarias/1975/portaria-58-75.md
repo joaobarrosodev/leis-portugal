@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/58-1975-159358
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82384a9da90cf6cd2c3ad5cbabb8f6f06a48cf57db88499bac9a3b807de4b9e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea4600e4787c70d5cf78c5e3048a7a57eca503b275cae49ed578ce86c3fceab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:315546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315546:por
+  label: Revogada pelo(a) Portaria n.º 101-I/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, na
+    parte que contraria a mesma portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-i-1977-315546
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:12Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +116,15 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Abasteci
 
 2.º Os preços máximos de venda à porta da fábrica são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf))](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
 
 3.º Os preços máximos de venda ao público são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf))](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
 
 4.º As margens mínimas dos retalhistas, na venda de margarinas para usos culinários e de mesa, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf))](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/01/02600/01310132.pdf)
 
 5.º Os retalhistas podem abastecer-se directamente nas fábricas, de acordo com os preços estipulados no n.º 2.º, as quais ficam obrigadas a satisfazer encomendas para entrega, por uma só vez, num mínimo de sessenta caixas de diversos tipos, excepto margarinas das marcas Flora e Becel.
 

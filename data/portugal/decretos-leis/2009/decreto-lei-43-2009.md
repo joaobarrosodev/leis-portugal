@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2009-602069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c958af4e65077d8aef3f0da9dc3a2c722f35b0b0cec00e530549c7a39b9c4e72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a69b75e9d1a0f5c1458544c166f1b8e481c6a67b5d8f4bc0d050788c684b3307
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,10 +71,10 @@ subjects:
 - Comissão de Honra
 - Definição de Competências
 - Estrutura de Apoio Técnico
-- Secretaria Geral
+- Ministro da Presidência
 - Presidência do Conselho de Ministros
 - Receita
-- Ministro da Presidência
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/2008/01/29/p/dre
@@ -100,16 +100,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:40Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +186,9 @@ Os artigos 8.º, 9.º, 12.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 17/2008]
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +198,9 @@ Os artigos 8.º, 9.º, 12.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 17/2008]
 
 4 - O presidente exerce, com faculdade de delegação em qualquer vogal da Comissão Nacional, as competências administrativas e financeiras previstas na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 31 de Janeiro, alterada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 31 de Agosto.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -174,19 +210,25 @@ Os artigos 8.º, 9.º, 12.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 17/2008]
 
 4 - Os membros da Comissão Consultiva não auferem qualquer remuneração, podendo ter direito ao abono de senhas de presença nos termos e condições a definir por despacho conjunto do Ministro da Presidência e do Ministro responsável pela área das finanças, bem como ao abono de ajudas de custo e de despesas de transporte, nos termos da lei geral.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Constituem ainda receita da Comissão Nacional os saldos de gerência apurados no exercício anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
 2 - Constituem ainda despesa da Comissão Nacional os apoios de carácter técnico e financeiro, nos termos do n.º 4 do artigo 4.º, a entidades públicas ou privadas que desenvolvam programas, projectos, medidas ou acções no âmbito das Comemorações do Centenário.
 
-###### Artigo 18.º — Regime excepcional de contratação pública
+Artigo 18.º
+
+Regime excepcional de contratação pública
 
 1 - A contratação de empreitadas de obras públicas e de aquisição ou locação de bens ou serviços, sob qualquer regime, a realizar pela Comissão Nacional, pode efectuar-se com recurso aos procedimentos por negociação ou ajuste directo, desde que a estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares para contratos públicos que, no momento da decisão de escolha do procedimento, se encontrem previstos por força da aplicação das directivas comunitárias sobre contratação pública.
 
@@ -202,12 +244,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro - Augusto Ernesto Santos Silva.
 
-**Promulgado em 4 de Fevereiro de 2009.**
+Promulgado em 4 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Fevereiro de 2009.**
+Referendado em 5 de Fevereiro de 2009.
 
 Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

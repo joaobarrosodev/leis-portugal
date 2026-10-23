@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/35093512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/219/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2007-638532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 097bb2d42c368a2062fdfb2784cf06260ead5056ef943e473e05f76eb53d7883
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ab6799aeb51d74c6ee81576da52a9f4a935520db3a113bd6f3a520c14b4131c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
 - Agência da Qualidade na Saúde
-- Fiscal Único
-- Gestão Financeira
-- Direção Geral da Saúde
+- Conselho Consultivo
+- Conselho Diretivo
 - Contrato Programa
 - Definição de Competências
-- Administração Regional de Saúde
+- Direção Geral da Saúde
 - Direcção Geral das Instalações e Equipamentos de Saúde
-- Serviço Nacional de Saúde
-- Secretaria Geral
-- Conselho Diretivo
-- Instituto da Qualidade em Saúde
-- Conselho Consultivo
-- Instituto de Gestão Informática e Financeira da Saúde
-- Administração Central do Sistema de Saúde
 - Estrutura de Missão Parcerias Saúde
-- Orgânica
+- Fiscal Único
+- Gestão Financeira
+- Instituto da Qualidade em Saúde
+- Instituto de Gestão Informática e Financeira da Saúde
 - Ministério da Saúde
+- Orgânica
 - Regime de Pessoal
+- Secretaria Geral
+- Serviço Nacional de Saúde
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:543026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:440817:por
+  label: "Alterados os arts. 3.º, 5.º, 15.º, 17.º e 18.º, revogada a al. a) do nº 2 do art. 5.º, o art. 8.º, o nº 4 do art.\
+    \ 15.º e a al. e) do art. 17.º, todos do presente diploma, pelo DEC LEI.234/2008.02.12.2008.MS, DR.IS [233] de 02.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2008-440817
+  date: '2008-12-02'
+- type: amended_by
+  target: pt:dre:306579:por
+  label: "Alterado o art. 18º do presente diploma, na redacção do Dec Lei 234/2008, de 02-Dez, pelo DEC LEI.136/2010.27.12.2010.MS,\
+    \ DR.IS [249] de 27.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2010-306579
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:146212:por
+  label: "Alterado o art. 3º (na redacção do Dec Lei 234/2008, de 02-Dez) e revoga as al.s as p) e q) do nº 2 do art. 3º,\
+    \ pelo DEC LEI.108/2011.17.11.2011.MS, DR.IS [221] de 17.11.2011, que determina a sucessão da SPMS, E. P. E., na posição\
+    \ de central de compras detida pela ACSS, I. P., bem como a transferência para SPMS, E. P. E., das posições jurídicas\
+    \ detidas pela ACSS, I. P., na área dos sistemas e tecnologias de informação e comunicação.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2011-146212
+  date: '2011-11-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -130,16 +151,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/162/2001/11/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/162/2001/11/16/p/dre
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671045:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543026:por
+  label: "Revogado, a partir de 01.03.2012, o presente diploma, alterado pelos Dec Lei 234/2008 de 02-dez, 136/2010 de 27-dez\
+    \ e 108/2011 de 17-nov, pelo DEC LEI.35/2012.15.02.2012.MS, DR.IS [33] de 15.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2012-543026
+  date: '2012-02-15'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:05Z'
   warnings: []
   errors: []
 ---
@@ -392,12 +459,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 12 de Abril de 2007.**
+Promulgado em 12 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

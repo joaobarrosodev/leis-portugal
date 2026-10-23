@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/10/25200/16071607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1971-633936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:36:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a01af6b7920360e704aee11a540591cd2331a71185ba95bd025718cdb1a93ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42210b157ca91e306823c47f2728428079134cbd0e2373ef65867576078b7d12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:36:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,25 @@ relationships:
   target: pt:dre:448927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:235153:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448927:por
+  label: "Revogada pelo DEC LEI.22/78.25.01.1978.MCT, DR.IS [21] de 25.01.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-1978-448927
+  date: '1978-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:36:31Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +106,4 @@ Tendo em conta que a própria Corporação do Comércio julga chegada a oportuni
 
 Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Corporações e Previdência Social e pelo Secretário de Estado do Comércio, ao abrigo do n.º 3 do artigo 1.º do [Decreto-Lei n.º 48261](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48261-1968-235153), de 23 de Fevereiro de 1968, aplicar às ilhas adjacentes o disposto no [Decreto-Lei n.º 48261](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48261-1968-235153), de 23 de Fevereiro de 1968.
 
-**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.**
+O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa. - O Secretário de Estado do Comércio, Valentim Xavier Pintado.

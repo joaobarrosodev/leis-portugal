@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/37/2005/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2005-605325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4610db06c12ca8516cbf87657c65ccee2fb0415946d116d91d55f925ea83e35c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c15131d11af5ef41966a2b97113fb00c9a2a5fdc273b77ff5e39a1e24d92de4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Saúde Pública
 - Especificação Técnica
+- Produto Alimentar
 - Proteção do Consumidor
 - Saúde Animal
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:279840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386629:por
+  label: "Alterado o anexo do Dec Lei 98/2000, de 25-Mai, com a redacção dada pelo presente diploma, pelo DEC LEI.9/2008.14.01.2008.MADRP,\
+    \ DR.IS [9] de 14.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2008-386629
+  date: '2008-01-14'
+- type: amended_by
+  target: pt:dre:279840:por
+  label: "Alterado o anexo do Dec Lei 98/2000, de 25-Maio, na redacção do presente diploma, pelo DEC LEI.28/2011.24.02.2011.MADRP,\
+    \ DR.IS [39] de 24.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2011-279840
+  date: '2011-02-24'
 - type: cites
   target: celex:31995L0031
   label: null
@@ -105,13 +117,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:31Z'
   warnings: []
   errors: []
 ---
@@ -148,15 +160,15 @@ O presente diploma entra em vigor no dia 1 de Abril de 2005.
 
 Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António Victor Martins Monteiro - Carlos Henrique da Costa Neves - Rui Manuel Lobo Gomes da Silva.
 
-**Promulgado em 28 de Janeiro de 2005.**
+Promulgado em 28 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Fevereiro de 2005.**
+Referendado em 2 de Fevereiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO
 

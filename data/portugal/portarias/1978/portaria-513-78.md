@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/513-1978-329850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T05:43:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a3e7a820388c88b7e907e30111fb708b62dce26f32070922b9ecf9b9253d771
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d09bcd0b8aa599c193678efb6792445264dcea73321c7536345708daead6892
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:43:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Registos e do Notariado
+- Integração de Trabalhadores
+- Quadro de Pessoal
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:381347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324520:por
+  label: "Alterados os n.os 2 e 3 do artigo 6.º do presente diploma, pela PORT.711/78.06.12.1978.PCM, DR.IS [280] de 06.12.1978\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/711-1978-324520
+  date: '1978-12-06'
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:43:03Z'
   warnings: []
   errors: []
 ---
@@ -188,6 +206,6 @@ Ministérios das Finanças e do Plano, da Justiça e da Reforma Administrativa, 
 
 Mapa de equivalências a que se refere o n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf))](https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20500/18271828.pdf)
 
-**O Ministro da Justiça, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.**
+O Ministro da Justiça, José Dias dos Santos Pais. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.

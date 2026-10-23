@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/01/00800/0008000083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1/2012/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2012-477146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1b98adf343dd2ad567582b5357b8da2290319d54b3e8a6058b1d1748a39554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fda6538acf32c1972a0f63afdd2326c0f1e915a6011f07ac88e78c22b92244d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,21 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Indústria Automóvel
-- Veículo
 - Proteção do Ambiente
 - Tratamento de Resíduos
+- Veículo
 - Veículo em FIM de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:114337042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498489:por
+  label: "Alterado o anexo I ao Dec Lei 196/2003, de 23-ago, na redação do presente diploma, pelo DEC LEI.114/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2013-498489
+  date: '2013-08-07'
 - type: cites
   target: celex:32000L0053
   label: null
@@ -89,16 +95,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/196/2003/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/196/2003/08/23/p/dre
+- type: corrected_by
+  target: pt:dre:565266:por
+  label: "Retificado o 1.º parágrafo do preâmbulo, o n.º 1 do artigo 1.º e o n.º 3 do anexo I pela DECL-RECT.12-A/2012.09.03.2012.PCM,\
+    \ DR.IS [50-Supl] de 09.03.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/12-a-2012-565266
+  date: '2012-03-09'
+- type: repealed_by
+  target: pt:dre:114337042:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 196/2003 de 23-ago, na versão republicada pelo Dec Lei 64/2008 de 08-abr
+    e na redação do presente diploma, pelo(a) Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento,
+    Série I de 2017-12-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:17Z'
   warnings: []
   errors: []
 ---
@@ -135,18 +154,18 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Dezembro de 2011. - Pedro Passos Coelho - Paulo de Sacadura Cabral Portas - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de Dezembro de 2011.**
+Promulgado em 27 de Dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Dezembro de 2011.**
+Referendado em 28 de Dezembro de 2011.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
 ## ANEXO I — Materiais e componentes isentos da aplicação do disposto no n.º 2 do artigo 6.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00800/0008000083.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00800/0008000083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00800/0008000083.pdf)

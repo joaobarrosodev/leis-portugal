@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/14/2007/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2007-518588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3ccd6fe1ed7f1f7d86082077479d2b84d8f9e24a0386e31123aa15c7f9f43cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c656e6f324f30dc6d234715775b2e112154eb4b7cde748da7b9cf3c99d4af497
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Terceira Idade
-- IRS
+- Complemento Solidário para Idosos
 - Insuficiência Económica
+- IRS
 - Proteção na Velhice
 - Proteção Social
 - Rendimento
 - Segurança Social
-- Complemento Solidário para Idosos
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:147432951:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453536:por
+  label: "Alterado o DR 3/2006 de 06 de Fevereiro, na redacção do presente diploma, pelo DR.17/2008.26.08.2008.MTSSO, DR.IS\
+    \ [164] de 26.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/17-2008-453536
+  date: '2008-08-26'
+- type: amended_by
+  target: pt:dre:491929:por
+  label: "Alterados, a partir de 01.08.2009, os arts. 24.º e 32.º do DR 3/2006, de 06-Fev, na redacção do presente diploma,\
+    \ pelo DEC LEI.151/2009.30.06.2009.MTSSO, DR.IS [124] de 30.06.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2009-491929
+  date: '2009-06-30'
+- type: amended_by
+  target: pt:dre:108269605:por
+  label: Alterado o art. 10.º do DR 3/2006, de 06-fev, na redação do presente diploma pelo(a) Decreto-Lei n.º 126-A/2017 -
+    Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06, nos termos do art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2017-108269605
+  date: '2017-10-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/232/2005/12/29/p/dre
   label: null
@@ -91,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/3/2006/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/2006/02/06/p/dre
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:59Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +191,9 @@ Escalão 4 - superior a 5 x VR.
 
 9 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +205,9 @@ Escalão 4 - superior a 5 x VR.
 
 5 - Na situação prevista no número anterior, sempre que o elemento do agregado familiar, com maior valor de rendimentos individualizados acrescido da componente de solidariedade familiar que não verifique apenas uma das condições de recursos previstas na alínea c) do artigo 10.º, deixa de ser considerado como requerente, passando, a partir desse momento, a ser tratado como cônjuge, sendo o montante dos recursos do requerente determinado de acordo com o disposto no n.º 3.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A condição de recursos do requerente para acesso ao complemento solidário para idosos prevista na alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de Dezembro, verifica-se sempre que:
 
@@ -183,7 +217,9 @@ b) Os montantes dos recursos do requerente, determinados nos termos das alíneas
 
 c) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -199,7 +235,9 @@ c) ...
 
 7 - Encontrando-se os elementos do agregado familiar do requerente obrigados a entregar declaração de imposto sobre o rendimento de pessoas singulares, deve a mesma ser apresentada para efeitos de consideração dos seus rendimentos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +249,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +269,9 @@ b) Do coeficiente previsto em sede de CIRS ao valor dos rendimentos provenientes
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Para efeitos de atribuição do complemento, consideram-se os rendimentos prediais efectivamente auferidos pelos elementos do agregado familiar do requerente no ano civil em causa sem prejuízo do disposto no n.º 3.
 
@@ -239,7 +281,9 @@ b) Do coeficiente previsto em sede de CIRS ao valor dos rendimentos provenientes
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Para efeitos de atribuição do complemento, considera-se valor de realização de bens móveis e imóveis, o resultado da alienação de bens e direitos dos elementos do agregado familiar do requerente, no ano civil em causa, designadamente:
 
@@ -259,7 +303,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +313,9 @@ d) ...
 
 3 - Sempre que se trate de pensões pagas pela entidade gestora da prestação, os meios de prova referidos no número anterior não são entregues, a não ser em situações excepcionais e quando, fundamentadamente, forem solicitados por aquele organismo.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +327,9 @@ d) ...
 
 5 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +341,9 @@ d) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +363,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 30.º — Actualização dos recursos
+Artigo 30.º
+
+Actualização dos recursos
 
 1 - Os recursos previstos no artigo 6.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de Dezembro, são actualizados ao ano civil anterior ao do reconhecimento do direito, para efeitos de atribuição ou renovação do complemento, sempre que tal se demonstre necessário.
 
@@ -323,7 +377,9 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -331,7 +387,9 @@ c) ...
 
 3 - Sempre que o complemento a atribuir assuma um valor mensal inferior a (euro) 1, considera-se este como o valor mensal do complemento atribuído.
 
-###### Artigo 32.º — Renovação da prova de recursos
+Artigo 32.º
+
+Renovação da prova de recursos
 
 1 - A renovação da prova, nos termos previstos no n.º 1 do artigo 20.º do [Decreto-Lei n.º 232/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2005-469064), de 29 de Dezembro, faz-se pela demonstração da situação dos elementos do agregado familiar do titular, nos termos a regulamentar por portaria do membro do Governo responsável pelas áreas do trabalho e da solidariedade social, com a periodicidade prevista no mesmo artigo.
 
@@ -353,12 +411,12 @@ O disposto no presente decreto regulamentar produz efeitos a partir de 1 de Jane
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - José António Fonseca Vieira da Silva.
 
-**Promulgado em 23 de Fevereiro de 2006.**
+Promulgado em 23 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 28 de Fevereiro de 2007.**
+Referendado em 28 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

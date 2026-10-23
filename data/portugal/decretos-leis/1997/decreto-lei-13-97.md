@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/1997/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1997-533395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95e0066fdabed10d0dc2e17a2ff8dd1e2d050ab969a3d1a5a6e814de356a0d9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e6fa1953f566b70bdaa8d2d6c7346e803819b9e3e7d838e65ab60b789a9255a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
 - Aposentação
 - Comissão Interministerial
-- Timor Leste
 - Criação de Serviços
 - Definição de Competências
-- Rescisão de Contrato
-- Macau
-- Integração de Trabalhadores
-- Licença sem Vencimento
 - Direcção Geral da Administração Pública
-- Reforma Antecipada
-- Quadro de Efectivos Interdepartamentais
-- Quadro Geral de Adidos
-- Reconversão Profissional
-- Reclassificação de Pessoal
+- Função Pública
 - Funcionário Público
 - Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Licença sem Vencimento
+- Macau
+- Quadro de Efectivos Interdepartamentais
+- Quadro Geral de Adidos
+- Reclassificação de Pessoal
+- Reconversão Profissional
+- Reforma Antecipada
+- Rescisão de Contrato
+- Timor Leste
 relationships:
 - type: amended_by
   target: pt:dre:468663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:653148:por
+  label: "Estabelecida uma excepção ao disposto no nº 2 do art. 19º pelo DEC LEI.247/97.1997.09.19.MADRP, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1997-653148
+  date: '1997-09-19'
+- type: amended_by
+  target: pt:dre:567032:por
+  label: "Extinto o Departamento de Reclassificação, Reconversão e Colocação de Pessoal DEC LEI.300/2001.2001.11.22.MREAP\
+    \ DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1997/01/17/p/dre
   label: null
@@ -100,16 +111,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:147254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545575:por
+  label: "Revogado o presente diploma, no que se refere ao quadro de afectação e ao regime aplicável ao respectivo pessoal,\
+    \ pela LEI.53/2006.07.12.2006.AR, DR.IS [235] de 07.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2006-545575
+  date: '2006-12-07'
+- type: repealed_by
+  target: pt:dre:468663:por
+  label: "Revogados, a partir da entrada em vigor do RCTFP, os arts. 18º e 19º, pela LEI.12-A/2008.27.02.2008.AR, DR.IS [41-Supl]\
+    \ de 27.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2008-468663
+  date: '2008-02-27'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:14Z'
   warnings: []
   errors: []
 ---
@@ -332,12 +407,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação
 
 Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - António José Martins Seguro.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

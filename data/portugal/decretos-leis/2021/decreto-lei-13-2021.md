@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02800/0000300019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/13/2021/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2021-156974201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8f2e02d6f7bfeef1f7da39039792287c480d60868aa85560afffa495a0a3e22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825123397e40fe18e814ed53345a044ca5939545115c77be3e079721301c2285
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Fiscal Único
-- Investigação Científica e Tecnológica
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
-- Exército
-- Infarmed
-- Unidade de Acompanhamento
-- Gestão Financeira
 - Conselho Administrativo
 - Conselho Científico
 - Conselho de Orientação
 - Definição de Competências
 - Direção
-- Gestão Administrativa
 - Estatuto
-- Gestão do Património
-- Chefe do Estado Maior do Exército
+- Exército
+- Fiscal Único
 - Forças Armadas
-- Orgânica
+- Gestão Administrativa
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Infarmed
+- Investigação Científica e Tecnológica
 - Laboratório Nacional do Medicamento
+- Orgânica
+- Reestruturação de Serviços
+- Unidade de Acompanhamento
 relationships:
 - type: cites
   target: celex:32009R1186
@@ -136,16 +136,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/21/201
   label: null
   source: http://data.dre.pt/eli/lei/21/201
+- type: cites
+  target: pt:dre:107584769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123725410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920323:por
+  label: null
+  source: null
 article_structure:
   article_count: 44
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:48Z'
   warnings: []
   errors: []
 ---
@@ -302,15 +342,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 1 de fevereiro de 2021.**
+Promulgado em 1 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 2 de fevereiro de 2021.**
+Referendado em 2 de fevereiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -596,7 +636,7 @@ e) Emitir parecer sobre a criação ou extinção de núcleos de investigação 
 
 f) Emitir parecer sobre o regulamento de atribuição de bolsas de investigação;
 
-g) Dar parecer sobre relatórios dos projetos de investigação, relatórios de atividades de bolseiros e outros assuntos relacionados com as atividades de I&D;
+g) Dar parecer sobre relatórios dos projetos de investigação, relatórios de atividades de bolseiros e outros assuntos relacionados com as atividades de I&D
 
 h) Pronunciar-se sobre o recrutamento e contratação do pessoal de investigação;
 
@@ -692,7 +732,7 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei e pronuncia
 
 1 - O LM compreende:
 
-a) A Direção Técnica e de I&D;
+a) A Direção Técnica e de I&D
 
 b) A Direção de Saúde Pública;
 
@@ -855,3 +895,5 @@ b) O custo de aquisição, manutenção e conservação de bens, equipamentos ou
 2 - O quadro orgânico do LM é aprovado pelo CEME e contém a indicação do número de postos de trabalho necessários ao desenvolvimento das suas atividades.
 
 3 - O mapa de pessoal civil do Exército é aumentado em postos de trabalho em número igual ao previsto no quadro orgânico do LM.
+
+113962338

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18600/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2024/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2024-888861493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 665427c17152006848d6548a539ff3d6502e156502afd9deaf4729eb88f13087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6129a820168be1238774947947295833aea083809823a9d60017d2b6d6373ad7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,6 +71,12 @@ subjects:
 - Licenciamento
 - Regime Jurídico
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:307/2007
+  label: Altera, a partir de 30 de setembro de 2024, os artigos 26.º e 26.º-A do Decreto-Lei n.º 307/2007, de 31 de agosto,
+    Diário da República n.º 168/2007, Série I
+  source: null
+  date: '2007-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/109/2014/07/10/p/dre
   label: null
@@ -107,16 +113,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+- type: cites
+  target: pt:dre:179072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56346571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75688299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835674293:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:49Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +167,7 @@ validation:
 
 de 25 de setembro
 
-O regime jurídico das farmácias de oficina encontra-se previsto no [Decreto-Lei n.º 307/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2007-641148), de 31 de agosto, alterado pela [Lei n.º 26/2011](https://diariodarepublica.pt/dr/detalhe/lei/26-2011-670006), de 16 de junho, pelo [Decreto-Lei n.º 171/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2012-179072), de 1 de agosto, pela [Lei n.º 16/2013](https://diariodarepublica.pt/dr/detalhe/lei/16-2013-257807), de 8 de fevereiro, pelos Decretos-Leis n.<sup>os</sup>[128/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2013-499269), de 5 de setembro, e [109/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2014-25345909), de 10 de julho, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto, alterado e republicado pelo [Decreto-Lei n.º 75/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2016-75688299), de 8 de novembro, e alterado pelo [Decreto-Lei n.º 128/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2023-835674293), de 26 de dezembro.
+O regime jurídico das farmácias de oficina encontra-se previsto no [Decreto-Lei n.º 307/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2007-641148), de 31 de agosto, alterado pela [Lei n.º 26/2011](https://diariodarepublica.pt/dr/detalhe/lei/26-2011-670006), de 16 de junho, pelo [Decreto-Lei n.º 171/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2012-179072), de 1 de agosto, pela [Lei n.º 16/2013](https://diariodarepublica.pt/dr/detalhe/lei/16-2013-257807), de 8 de fevereiro, pelos Decretos-Leis n.os[128/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2013-499269), de 5 de setembro, e [109/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2014-25345909), de 10 de julho, e pela [Lei n.º 51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto, alterado e republicado pelo [Decreto-Lei n.º 75/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2016-75688299), de 8 de novembro, e alterado pelo [Decreto-Lei n.º 128/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2023-835674293), de 26 de dezembro.
 
 O presente decreto-lei visa, por um lado, clarificar as recentes alterações ao regime em vigor, no que se refere à transferência de instalações de farmácias, permitindo, assim, a transferência de instalações de farmácias únicas na mesma localidade para melhores instalações e, por outro lado, determinar quais os documentos a apresentar pelos interessados no âmbito das transferências de instalações de farmácias para concelhos limítrofes.
 
@@ -183,12 +225,14 @@ c) [...]
 
 Visto e aprovado em Conselho de Ministros de 5 de setembro de 2024. - Luís Montenegro - Manuel Castro Almeida - Ana Paula Martins.
 
-**Promulgado em 12 de setembro de 2024.**
+Promulgado em 12 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de setembro de 2024.**
+Referendado em 12 de setembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118141468

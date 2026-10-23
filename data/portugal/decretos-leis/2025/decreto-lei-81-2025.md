@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09800/0001000016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/81/2025/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2025-918999081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e56df0e5e90f3eb3a8886c7d17b10c492e7d110c0aea6c87ba4cf6b0aa54891e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fe75eacca5da204de779432c8f0b9199f42c440649528dfef16902e36865953
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Eliminação de Resíduos
 - Gestão de Resíduos
 - Instituto Nacional de Estatística
-- Tratamento de Resíduos
 - Plano de Gestão de Resíduos
-- Eliminação de Resíduos
+- Tratamento de Resíduos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:102-D/2020
+  label: Altera, a partir de 23 de maio de 2025, os artigos 3.º, 9.º, 13.º, 17.º, 18.º, 19.º, 23.º, 36.º, 57.º e 92.º do Regime
+    Geral da Gestão de Resíduos, aprovado em anexo ao Decreto-Lei n.º 102-D/2020, de 10 de dezembro, Diário da República n.º
+    239/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-12-10'
 - type: cites
   target: celex:32008L0098
   label: null
@@ -116,6 +123,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:114337042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169360995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207272800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:857366010:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32008L0098
   label: null
@@ -125,15 +160,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 12
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:13Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +193,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei completa a transposição da [Diretiva (UE) 2018/851](http://data.europa.eu/eli/dir/2018/851/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a [Diretiva 2008/98/CE](http://data.europa.eu/eli/dir/2008/98/oj?locale=pt) relativa aos resíduos, procedendo à quarta alteração ao Regime Geral da Gestão de Resíduos (RGGR), aprovado em anexo ao [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, alterado pela [Lei n.º 52/2021](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), de 10 de agosto, e pelos Decretos-Leis n.<sup>os</sup>[11/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), de 10 de fevereiro, e [24/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), de 26 de março.
+O presente decreto-lei completa a transposição da [Diretiva (UE) 2018/851](http://data.europa.eu/eli/dir/2018/851/oj?locale=pt) do Parlamento Europeu e do Conselho, de 30 de maio de 2018, que altera a [Diretiva 2008/98/CE](http://data.europa.eu/eli/dir/2008/98/oj?locale=pt) relativa aos resíduos, procedendo à quarta alteração ao Regime Geral da Gestão de Resíduos (RGGR), aprovado em anexo ao [Decreto-Lei n.º 102-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-d-2020-150908012), de 10 de dezembro, alterado pela [Lei n.º 52/2021](https://diariodarepublica.pt/dr/detalhe/lei/52-2021-169360995), de 10 de agosto, e pelos Decretos-Leis n.os[11/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), de 10 de fevereiro, e [24/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2024-857366010), de 26 de março.
 
 ###### Artigo 2.º — Alteração do Regime Geral da Gestão de Resíduos
 
@@ -268,7 +303,9 @@ ss) [Anterior alínea rr).]
 
 3 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -286,7 +323,9 @@ ss) [Anterior alínea rr).]
 
 8 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -318,7 +357,9 @@ c) [...]
 
 12 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -330,7 +371,9 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 3 - [...]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -344,7 +387,9 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 6 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -356,7 +401,9 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 5 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -372,7 +419,9 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 7 - A medição dos níveis de resíduos alimentares é efetuada pelo Instituto Nacional de Estatística nos termos da [Decisão Delegada (UE) 2019/1597](http://data.europa.eu/eli/dec/2019/1597/oj?locale=pt) da Comissão, de 3 de maio de 2019, que complementa a [Diretiva 2008/98/CE](http://data.europa.eu/eli/dir/2008/98/oj?locale=pt) do Parlamento Europeu e do Conselho, no que diz respeito a uma metodologia comum e a requisitos mínimos de qualidade para a medição uniforme dos níveis de resíduos alimentares.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -394,11 +443,13 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 10 - É proibida a incineração, com ou sem valorização energética, e a deposição em aterro dos resíduos recolhidos de forma seletiva para preparação para reutilização e para reciclagem, em conformidade com o artigo 7.º, à exceção dos resíduos gerados nas operações de valorização, se desta forma oferecerem o melhor resultado ambiental.
 
-11 - Para efeitos de cumprimento dos n.<sup>os</sup>2 e 5, pode ser estabelecida pela ANR a percentagem máxima de contaminantes em cada uma das frações para que a recolha possa ser considerada seletiva.
+11 - Para efeitos de cumprimento dos n.os2 e 5, pode ser estabelecida pela ANR a percentagem máxima de contaminantes em cada uma das frações para que a recolha possa ser considerada seletiva.
 
 12 - [...]
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - [...]
 
@@ -426,7 +477,9 @@ b) Ser elaborados de acordo, nomeadamente, com as medidas constantes na parte B 
 
 13 - Por forma a assegurar ou melhorar a valorização dos resíduos, no respeito pela proteção da saúde humana e do ambiente, devem ser removidas, antes ou depois da valorização, e sempre que necessário, as substâncias, misturas e componentes perigosos dos resíduos perigosos tendo em vista o seu tratamento.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - [...]
 
@@ -450,12 +503,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho.
 
-**Promulgado em 16 de maio de 2025.**
+Promulgado em 16 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de maio de 2025.**
+Referendado em 20 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119079473

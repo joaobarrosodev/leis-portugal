@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/253a00/70297031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2002/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2002-425928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 265ed64bad67a26a86f652b2bd9bd5c76e6af6ebe173d169883e94e36278380f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a48365296cfd6cee58f8409564d4af3f94e2d88a09d212d5c8d0edebf5369ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - IHCT
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Transferência Patrimonial
 relationships:
@@ -76,6 +76,25 @@ relationships:
   target: pt:dre:543724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que o Museu, cuja orgânica foi aprovada no presente diploma, seja integrado no Museu do Conhecimento,\
+    \ pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005, constante no citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
+- type: amended_by
+  target: pt:dre:545643:por
+  label: "Determinado que o Museu, cuja orgânica foi aprovada no presente diploma, deixe de integrar a administração central\
+    \ do Estado, através da aprovação de novo enquadramento jurídico em diploma próprio, pelo DEC LEI.214/2006.27.10.2006.MCTES,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2006-545643
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:145195:por
+  label: "Extinto, sendo objecto de fusão, o Museu Nacional da Ciência e da Técnica Doutor Mário Silva e integrado na Universidade\
+    \ de Coimbra, pelo DEC LEI.125/2011.29.12.2011.MECI, DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2011-145195
+  date: '2011-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
@@ -84,16 +103,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/379/1999/09/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/379/1999/09/21/p/dre
+- type: cites
+  target: pt:dre:382796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:543724:por
+  label: "Revogado, a partir de 01.03.2012, pelo DEC LEI.28/2012.08.02.2012.MECI, DR.IS [28] de 08.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2012-543724
+  date: '2012-02-08'
 article_structure:
   article_count: 14
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:38Z'
   warnings: []
   errors: []
 ---
@@ -238,15 +278,15 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 6 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Lynce de Faria.
 
-**Promulgado em 2 de Outubro de 2002.**
+Promulgado em 2 de Outubro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2002.**
+Referendado em 4 de Outubro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 MAPA ANEXO
 

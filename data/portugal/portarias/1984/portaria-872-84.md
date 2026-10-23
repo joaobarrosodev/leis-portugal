@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/872-1984-401065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T08:15:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 288714b71767d73c23b7dd214c2135dc1f255fcf4f3c0e9afb813773353be67b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a72d4817fbc91cf000bcaa7a8a11797404769cb81054c4fca79e0baffd999d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:15:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Faculdade de Medicina
+- Orgânica
+- Regulamento
+- Universidade do Porto
+relationships:
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:15:16Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +111,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o
 
 Ministério da Educação.
 
-**Assinada em 31 de Outubro de 1984.**
+Assinada em 31 de Outubro de 1984.
 
 Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.
 
@@ -110,11 +119,11 @@ Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Sec
 
 ### CAPÍTULO I — Natureza e objectivos
 
-###### Artigo 1.º - 1 - O Departamento de Clínica Geral da Faculdade de Medicina da Universidade do Porto, adiante designado por Departamento, é uma unidade orgânica permanente de ensino de pós-graduação, de investigação, de prestação de serviços à comunidade e de divulgação cultural no âmbito da medicina, no que diz respeito à clínica geral.
+Artigo 1.º - 1 - O Departamento de Clínica Geral da Faculdade de Medicina da Universidade do Porto, adiante designado por Departamento, é uma unidade orgânica permanente de ensino de pós-graduação, de investigação, de prestação de serviços à comunidade e de divulgação cultural no âmbito da medicina, no que diz respeito à clínica geral.
 
 2 - Ao Departamento são afectos os equipamentos e instalações que estão previstos para o seu futuro funcionamento.
 
-###### Art. 2.º - 1 - No domínio do ensino, compete ao Departamento:
+Art. 2.º - 1 - No domínio do ensino, compete ao Departamento:
 
 a) Promover a aquisição e a difusão do conhecimento em clínica geral, bem como a formação de docentes, investigadores e técnicos de nível superior;
 
@@ -142,25 +151,25 @@ b) Desenvolver e colaborar em trabalhos de âmbito interdisciplinar em áreas re
 
 4 - Ao Departamento compete ainda fomentar e promover a divulgação do saber nas áreas da sua intervenção como parte integrante da cultura.
 
-###### Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação e prestação de serviços, podendo estabelecer contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites fixados pela lei e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Faculdade e ou Universidade.
+Art. 3.º O Departamento é autónomo no que se refere à organização e realização das suas actividades de ensino, investigação e prestação de serviços, podendo estabelecer contratos de prestação de serviços com entidades públicas ou privadas, sem prejuízo dos limites fixados pela lei e das orientações gerais que vierem a ser estabelecidas pelos órgãos competentes da Faculdade e ou Universidade.
 
-###### Art. 4.º O Departamento garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação, da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Faculdade e da cooperação com os serviços a ela pertencentes.
+Art. 4.º O Departamento garantirá a liberdade de investigação científica do seu pessoal docente e investigador, com vista ao progresso da investigação, da qualidade do ensino e da prestação de serviços à comunidade, sem prejuízo da unidade da Faculdade e da cooperação com os serviços a ela pertencentes.
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 5.º O Departamento terá os seguintes órgãos:
+Art. 5.º O Departamento terá os seguintes órgãos:
 
 a) O conselho de departamento;
 
 b) A comissão executiva.
 
-###### Art. 6.º - 1 - O conselho de departamento será constituído por membros permanentes e por membros não permanentes.
+Art. 6.º - 1 - O conselho de departamento será constituído por membros permanentes e por membros não permanentes.
 
 2 - São membros permanentes, para além dos subscritores da proposta de criação do Departamento, todos os docentes e investigadores doutorados da Faculdade de Medicina que exerçam a sua actividade na área científica do Departamento, bem como aqueles que para o efeito sejam convidados por maioria qualificada do conselho.
 
 3 - São membros não permanentes os representantes eleitos pelos docentes e investigadores não doutorados que trabalhem no Departamento, com respeito pelo limite fixado na parte final no n.º 3 do artigo 7.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 7.º Sem prejuízo do disposto no artigo 25.º do Decreto-Lei n.º 761-A/76, de 28 de Outubro, do articulado no Estatuto da Carreira Docente Universitária e das competências fixadas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, ao conselho de departamento compete, nomeadamente:
+Art. 7.º Sem prejuízo do disposto no artigo 25.º do Decreto-Lei n.º 761-A/76, de 28 de Outubro, do articulado no Estatuto da Carreira Docente Universitária e das competências fixadas no n.º 1 do artigo 8.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril, ao conselho de departamento compete, nomeadamente:
 
 a) Aprovar as propostas e propor a celebração, ao reitor da Universidade, de estabelecimento de convénios, de acordos e de contratos de prestação de serviços entre o Departamento e entidades públicas e privadas;
 
@@ -170,7 +179,7 @@ c) Emitir parecer relativamente a acções disciplinares sobre o pessoal do Depa
 
 d) Decidir sobre os pedidos de recurso que lhe sejam apresentados pelos membros do Departamento relativamente a deliberações da comissão executiva.
 
-###### Art. 8.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
+Art. 8.º - 1 - A comissão executiva terá a composição definida pelo artigo 9.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
 2 - À comissão executiva, para além das competências definidas no artigo 10.º do mesmo diploma e das que lhe sejam delegadas pelo conselho de departamento, compete ainda:
 
@@ -186,7 +195,7 @@ e) Apresentar anualmente ao conselho de departamento o relatório das suas activ
 
 f) Elaborar o anuário do Departamento.
 
-###### Art. 9.º Ao presidente do conselho de departamento compete:
+Art. 9.º Ao presidente do conselho de departamento compete:
 
 a) Convocar e conduzir as reuniões do conselho de departamento e da comissão executiva;
 
@@ -194,11 +203,11 @@ b) Mandar proceder à elaboração das actas das reuniões;
 
 c) Representar o Departamento, podendo eventualmente delegar essa representação num membro da comissão executiva.
 
-###### Art. 10.º O presidente do conselho de departamento e os membros da comissão executiva poderão ser parcialmente dispensados do serviço docente durante o seu mandato.
+Art. 10.º O presidente do conselho de departamento e os membros da comissão executiva poderão ser parcialmente dispensados do serviço docente durante o seu mandato.
 
 ### CAPÍTULO III — Autonomia do Departamento e órgãos de gestão da Faculdade
 
-###### Art. 11.º Os órgãos do Departamento acordarão com os órgãos de gestão competentes da Faculdade o modo de satisfação das suas necessidades, nomeadamente no que diz respeito a:
+Art. 11.º Os órgãos do Departamento acordarão com os órgãos de gestão competentes da Faculdade o modo de satisfação das suas necessidades, nomeadamente no que diz respeito a:
 
 a) Destacamento interno de pessoal docente, investigador, técnico e auxiliar, devendo a Faculdade, para o efeito e nos termos do artigo 14.º do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), proceder à reorganização dos respectivos quadros;
 
@@ -206,9 +215,9 @@ b) Afectação ao Departamento das instalações e equipamentos que se mostrem i
 
 c) Verbas a atribuir pelo orçamento próprio da Faculdade.
 
-###### Art. 12.º Os órgãos de gestão de Faculdade terão a colaboração e participação do Departamento da forma que vier a ser estabelecida para satisfação doa objectivos prosseguidos pela Faculdade.
+Art. 12.º Os órgãos de gestão de Faculdade terão a colaboração e participação do Departamento da forma que vier a ser estabelecida para satisfação doa objectivos prosseguidos pela Faculdade.
 
-###### Art. 13.º Sem prejuízo do estabelecido pelos órgãos da Faculdade, o Departamento disporá das seguintes receitas:
+Art. 13.º Sem prejuízo do estabelecido pelos órgãos da Faculdade, o Departamento disporá das seguintes receitas:
 
 a) As que lhe forem atribuídas no Orçamento do Estado e as que lhe forem concedidas pelos órgãos estatais encarregados do financiamento da Universidade;
 
@@ -222,22 +231,22 @@ c) As que resultem da atribuição de verbas da Faculdade e ou da Universidade.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 14.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
+Art. 14.º - 1 - Os membros dos órgãos dotados de poder deliberativo são criminal, civil e disciplinarmente responsáveis pelas infracções à lei cometidas no exercício das suas funções.
 
 2 - São excluídos do número anterior os membros presentes que fizerem exarar em acta a sua oposição às deliberações tomadas, bem como os ausentes que o fizerem na reunião seguinte, ou que, abrangidos por qualquer impedimento legal, o fizerem na primeira reunião após a cessação do impedimento.
 
-###### Art. 15.º As eleições e todas as deliberações que individualmente se refiram a pessoas estão sujeitas a escrutínio secreto.
+Art. 15.º As eleições e todas as deliberações que individualmente se refiram a pessoas estão sujeitas a escrutínio secreto.
 
-###### Art. 16.º - 1 - Os mandatos dos membros eleitos serão bienais e iniciam-se em 2 de Janeiro do seu primeiro ano.
+Art. 16.º - 1 - Os mandatos dos membros eleitos serão bienais e iniciam-se em 2 de Janeiro do seu primeiro ano.
 
 2 - Em caso de impedimento permanente ou demissão do presidente do conselho de departamento durante o ano n, será eleito novo presidente, cujo mandato terminará em 1 de Janeiro do ano n + 2; o processo eleitoral será assegurado pelo professor mais antigo de categoria mais elevada do Departamento.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 17.º O corpo docente do Departamento é constituído pelos docentes e investigadores da Faculdade subscritores da proposta inicial de criação do Departamento e ainda pelos que o requererem, até 15 dias após a publicação do presente Regulamento, junto do presidente do conselho directivo da Faculdade.
+Art. 17.º O corpo docente do Departamento é constituído pelos docentes e investigadores da Faculdade subscritores da proposta inicial de criação do Departamento e ainda pelos que o requererem, até 15 dias após a publicação do presente Regulamento, junto do presidente do conselho directivo da Faculdade.
 
-###### Art. 18.º Decorrido o prazo fixado no artigo anterior, o professor mais antigo de categoria mais elevada do Departamento promoverá, nos 30 dias imediatos, as diligências necessárias à realização dos processos eleitorais aqui previstos.
+Art. 18.º Decorrido o prazo fixado no artigo anterior, o professor mais antigo de categoria mais elevada do Departamento promoverá, nos 30 dias imediatos, as diligências necessárias à realização dos processos eleitorais aqui previstos.
 
-###### Art. 19.º O presente Regulamento não pode ser alterado até 1 ano após a sua entrada em vigor.
+Art. 19.º O presente Regulamento não pode ser alterado até 1 ano após a sua entrada em vigor.
 
-###### Art. 20.º Em tudo o que não esteja expressamente previsto no presente Regulamento são aplicáveis as normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).
+Art. 20.º Em tudo o que não esteja expressamente previsto no presente Regulamento são aplicáveis as normas constantes do [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053).

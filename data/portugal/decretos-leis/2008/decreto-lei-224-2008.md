@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22600/0813508177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/224/2008/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2008-439818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ef60ead0862722035e5546f1ecf88ba60d645aed6b16a1aa44ba239b6cfc6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9df9bdaadea1f3a3ebcda07b425760f212b99f5979b07dbbf6a7c60693c9da4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,24 +69,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Garantia
-- Publicidade
 - Câmara dos Revisores Oficiais de Contas
 - Capital Social
 - Cédula Profissional
 - Cidadão Estrangeiro
-- Multa
 - Contrato de Prestação de Serviços
-- União Europeia
+- Estágio de Formação
 - Estatuto
-- Processo Disciplinar
 - Estatuto dos Revisores Oficiais de Contas
 - Firma
-- Pagamento
+- Garantia
 - Incompatibilidades
+- Multa
 - Ordem dos Revisores Oficiais de Contas
+- Pagamento
 - Prescrição
-- Estágio de Formação
+- Processo Disciplinar
+- Publicidade
 - Reembolso
 - Remuneração
 - Responsabilidade Civil
@@ -95,6 +94,7 @@ subjects:
 - Segredo Profissional
 - Serviço de Auditoria
 - Sociedade de Revisores Oficiais de Contas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:70196967:por
@@ -104,16 +104,22 @@ relationships:
   target: celex:32006L0043
   label: null
   source: http://data.europa.eu/eli/dir/2006/43/oj
+- type: repealed_by
+  target: pt:dre:70196967:por
+  label: Revogado a partir de 01.01.2016 o Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pelo Dec Lei 487/99,
+    de 16-nov, na redação do presente diploma pelo(a) Lei n.º 140/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/140-2015-70196967
+  date: '2015-09-07'
 article_structure:
-  article_count: 256
+  article_count: 188
   section_count: 53
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:00Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +206,9 @@ q) [Anterior alínea o).]
 
 r) [Anterior alínea p)].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As deliberações dos órgãos colegiais da Ordem são tomadas por maioria simples e exaradas em acta.
 
@@ -208,7 +216,9 @@ r) [Anterior alínea p)].
 
 3 - As deliberações dos órgãos da Ordem podem ser objecto de impugnação judicial, nos termos da lei, para os tribunais administrativos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Compete, em especial, à assembleia geral, sem prejuízo de outras competências previstas neste decreto-lei:
 
@@ -232,7 +242,9 @@ i) Aprovar o código de ética e deontologia profissional, o regulamento eleitor
 
 j) [Anterior alínea e).]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A assembleia geral deve ser convocada pelo presidente, mediante comunicação escrita dirigida aos revisores, com a antecedência mínima de 15 dias, devendo a ordem do dia e o local constar do aviso da convocação.
 
@@ -256,7 +268,9 @@ j) [Anterior alínea e).]
 
 11 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +280,9 @@ j) [Anterior alínea e).]
 
 4 - À assembleia geral ordinária cabe ainda pronunciar-se sobre quaisquer outros assuntos incluídos na ordem de trabalhos.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os membros dos órgãos sociais referidos no artigo seguinte são eleitos a cada três anos em assembleia geral eleitoral, a realizar para o efeito em Novembro, iniciando-se o respectivo mandato no dia 1 de Janeiro do ano seguinte.
 
@@ -282,7 +298,9 @@ b) Por correspondência.
 
 5 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 ...
 
@@ -300,7 +318,9 @@ f) Dar parecer sobre o montante das quotas, taxas e emolumentos a cobrar e sobre
 
 g) ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +338,9 @@ c) Os vogais são substituídos pelos três suplentes, de acordo com a respectiv
 
 5 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +376,9 @@ p) [Anterior alínea o).]
 
 2 - ...
 
-###### Artigo 41.º — Auditoria
+Artigo 41.º
+
+Auditoria
 
 A actividade de auditoria integra os exames e outros serviços relacionados com as contas de empresas ou de outras entidades efectuados de acordo com as normas de auditoria em vigor, compreendendo:
 
@@ -364,7 +388,9 @@ b) A auditoria às contas exercida em cumprimento de disposição legal, estatut
 
 c) Os serviços relacionados com os referidos nas alíneas anteriores, quando tenham uma finalidade ou um âmbito específicos ou limitados.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - A revisão legal de contas é realizada pelos revisores oficiais de contas que para o efeito tenham sido eleitos ou designados, conforme os casos, pelos órgãos competentes das empresas ou entidades que sejam objecto de tal revisão, de acordo com as disposições legais aplicáveis a essas entidades.
 
@@ -374,7 +400,9 @@ c) Os serviços relacionados com os referidos nas alíneas anteriores, quando te
 
 4 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -402,21 +430,29 @@ a) Tiver por objecto matéria que não seja regulada por norma adoptada pela Com
 
 b) A imposição de procedimentos ou requisitos de auditoria, para além ou, em casos excepcionais, aquém das normas internacionais de auditoria, decorrer de requisitos legais específicos quanto ao âmbito da revisão legal de contas.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Na sequência da realização de auditoria às contas deve ser emitido relatório de auditoria sobre as demonstrações financeiras objecto de exame, de acordo com as normas de auditoria em vigor.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Na sequência da realização de serviços relacionados com a revisão legal das contas e com a auditoria às contas deve ser emitido, quando for o caso, relatório descrevendo a natureza e a extensão do trabalho e a respectiva conclusão, de acordo com as normas de auditoria em vigor.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As competências específicas dos revisores oficiais de contas no âmbito do exercício da revisão legal das contas são definidas pela lei que regule as empresas ou outras entidades objecto da revisão.
 
 2 - ...
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 Constituem também funções dos revisores oficiais de contas, fora do âmbito das funções de interesse público, o exercício das seguintes actividades:
 
@@ -430,7 +466,9 @@ d) Administrador da insolvência e liquidatário;
 
 e) Administrador ou gerente de sociedades participadas por sociedades de revisores oficiais de contas, a que se refere o n.º 7 do artigo 96.º
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +482,9 @@ e) Administrador ou gerente de sociedades participadas por sociedades de revisor
 
 6 - Os vínculos estabelecidos pelos revisores oficiais de contas ou pelos sócios de sociedades de revisores com vista ao exercício das funções previstas no artigo 48.º não prejudicam o exercício das funções em regime de dedicação exclusiva.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - A designação de revisores oficiais de contas ou de sociedade de revisores oficiais de contas para o exercício da revisão legal das contas de empresas ou de outras entidades cabe à respectiva assembleia geral ou a quem tiver competência para o efeito, nos termos das disposições legais aplicáveis.
 
@@ -462,7 +502,9 @@ e) Administrador ou gerente de sociedades participadas por sociedades de revisor
 
 8 - A designação de revisores oficiais de contas ou de sociedade de revisores oficiais de contas para o exercício de quaisquer outras funções de interesse público que exijam a sua intervenção própria e autónoma é feita de harmonia com as disposições legais aplicáveis.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -480,13 +522,17 @@ d) Sendo caso disso, requerer isoladamente a convocação da assembleia geral, q
 
 4 - ...
 
-###### Artigo 54.º — Inamovibilidade e rotação
+Artigo 54.º
+
+Inamovibilidade e rotação
 
 1 - (Anterior corpo do artigo.)
 
 2 - Nas entidades de interesse público o período máximo de exercício de funções de auditoria pelo sócio responsável pela orientação ou execução directa da revisão legal das contas é de sete anos, a contar da sua designação, podendo vir a ser novamente designado depois de decorrido um período mínimo de dois anos.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - As empresas ou outras entidades que celebrem com revisores oficiais de contas contratos de prestação de serviços relativos ao exercício de funções de interesse público são obrigadas a comunicar à Ordem, no prazo de 15 dias, após a celebração do mesmo:
 
@@ -498,13 +544,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 58.º — Deveres de comunicação
+Artigo 58.º
+
+Deveres de comunicação
 
 1 - Os revisores oficiais de contas devem comunicar à Ordem, no prazo de 15 dias, o início e a cessação de todos os contratos de prestação de serviços relativos ao exercício de funções de interesse público.
 
 2 - Os revisores oficiais de contas devem fornecer à Ordem, no prazo que vier a ser estabelecido pelo conselho directivo, um mapa anual da actividade profissional exercida, contendo a identificação dos clientes, a caracterização das funções, os honorários facturados e o período a que respeitam.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - No exercício da revisão legal das contas de empresas ou de outras entidades, os honorários são fixados entre as partes, tendo em conta critérios de razoabilidade que atendam, em especial, à natureza, extensão, profundidade e tempo do trabalho necessário à execução de um serviço de acordo com as normas de auditoria em vigor.
 
@@ -516,7 +566,9 @@ b) ...
 
 5 - No exercício das funções de interesse público, os honorários do revisor oficial de contas nunca podem pôr em causa a sua independência profissional e a qualidade do seu trabalho, nem ser influenciados ou determinados pela prestação de serviços adicionais à empresa ou outra entidade objecto de revisão ou de auditoria, nem ser em espécie e nem ser contingentes ou variáveis em função dos resultados do trabalho efectuado.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -532,7 +584,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
@@ -544,7 +598,9 @@ b) ...
 
 5 - Os processos referidos no número anterior devem ser conservados por um período de cinco anos.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Os revisores oficiais de contas estão sujeitos a controlo de qualidade, o qual será exercido pela Ordem, sob a supervisão do CNSA, em conformidade com o respectivo regulamento e com as normas comunitárias aplicáveis.
 
@@ -560,13 +616,17 @@ b) Apresentem fortes indícios de incumprimento de normas legais ou de regulamen
 
 5 - Para efeitos da alínea b) do número anterior presume-se que existem fortes indícios de incumprimento das normas de auditoria, sempre que os honorários praticados pelos revisores oficiais de contas sejam significativamente inferiores aos que resultariam da aplicação dos critérios estabelecidos pelo artigo 60.º
 
-###### Artigo 71.º — Informação e publicidade
+Artigo 71.º
+
+Informação e publicidade
 
 1 - O revisor oficial de contas pode divulgar a sua actividade profissional de forma objectiva e verdadeira, no rigoroso respeito dos deveres deontológicos, do segredo profissional e das normas legais sobre publicidade e concorrência.
 
 2 - A matéria constante no presente artigo é objecto de regulamentação no código de ética e deontologia profissional.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - ...
 
@@ -586,7 +646,9 @@ d) As comunicações e informações pertinentes relativas à entidade examinada
 
 5 - Os revisores oficiais de contas que cessem funções de interesse público numa determinada entidade permanecem vinculados ao dever de sigilo profissional relativamente ao trabalho efectuado no exercício dessas funções.
 
-###### Artigo 73.º — Seguro de responsabilidade civil profissional
+Artigo 73.º
+
+Seguro de responsabilidade civil profissional
 
 1 - No exercício da sua actividade profissional, a responsabilidade civil dos revisores oficiais de contas, mesmo quando sob o contrato de prestação de serviços nos termos da alínea c) do n.º 1 do artigo 50.º, deve ser garantida por seguro pessoal de responsabilidade civil profissional, com o limite mínimo de (euro) 500 000 por cada facto ilícito, feito a favor de terceiros lesados.
 
@@ -606,11 +668,15 @@ d) As comunicações e informações pertinentes relativas à entidade examinada
 
 9 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 Os revisores oficiais de contas que não exerçam a sua actividade em regime de dedicação exclusiva estão impedidos de cumular o exercício de funções de revisão ou de auditoria às contas, por força de disposições legais, estatutárias ou contratuais, com carácter continuado, em mais de cinco empresas ou outras entidades.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 48.º e 107.º, os revisores oficiais de contas não podem exercer funções de membros de órgãos de administração, gestão, direcção ou gerência em empresas ou outras entidades.
 
@@ -618,7 +684,9 @@ Os revisores oficiais de contas que não exerçam a sua actividade em regime de 
 
 3 - ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Não pode exercer funções de revisão ou auditoria às contas numa empresa ou outra entidade o revisor oficial de contas que:
 
@@ -636,7 +704,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 79.º — Impedimentos
+Artigo 79.º
+
+Impedimentos
 
 1 - Os revisores oficiais de contas, incluindo os sócios de sociedade de revisores seus representantes no exercício dessas funções, que nos últimos três anos tenham exercido funções de revisão legal das contas em empresa ou outra entidade não podem nela exercer funções de membros dos seus órgãos de administração ou gerência.
 
@@ -648,7 +718,9 @@ e) ...
 
 5 - A inobservância do disposto nos n.os 2 e 3 implica a punição com pena não inferior à de multa.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -684,7 +756,9 @@ b) Publicação da punição definitiva no sítio na Internet da Ordem.
 
 9 - A Ordem comunica às autoridades competentes dos Estados membros da União Europeia, nos quais os revisores oficiais de contas ou sociedades de revisores oficiais de contas se encontrem autorizados a exercer funções, a aplicação de uma punição definitiva de expulsão ou de cancelamento compulsivo da inscrição.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - O procedimento disciplinar extingue-se, por prescrição, logo que sobre a prática de facto susceptível de constituir infracção disciplinar tenham decorrido dois anos.
 
@@ -694,7 +768,9 @@ b) Publicação da punição definitiva no sítio na Internet da Ordem.
 
 4 - O procedimento criminal não determina a suspensão do procedimento disciplinar.
 
-###### Artigo 96.º — Participações sociais e outros modos de associação
+Artigo 96.º
+
+Participações sociais e outros modos de associação
 
 1 - Sem prejuízo do disposto no n.º 4, os sócios das sociedades de revisores devem ser revisores inscritos na Ordem ou não revisores oficiais de contas que possuam as habilitações referidas no artigo 124.º em qualquer das matérias que integram o programa de exame de admissão à Ordem.
 
@@ -712,7 +788,9 @@ b) Publicação da punição definitiva no sítio na Internet da Ordem.
 
 8 - As sociedades de revisores oficiais de contas podem ainda participar em sociedades de direito nacional que tenham por objecto exclusivo a prestação dos serviços a que se refere a alínea c) do artigo 48.º
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - ...
 
@@ -726,7 +804,9 @@ b) Publicação da punição definitiva no sítio na Internet da Ordem.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - A firma das sociedades de revisores é obrigatória e exclusivamente composta:
 
@@ -744,19 +824,25 @@ b) ...
 
 6 - Em qualquer caso, a firma das sociedades de revisores não pode ser igual ou de tal forma semelhante a outra já registada que com ela possa confundir-se.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - Os projectos de estatutos e das suas alterações estão sujeitos a aprovação da comissão de inscrição, com vista a assegurar a sua conformidade com o presente decreto-lei e demais normas legais e regulamentares aplicáveis.
 
 2 - A comissão de inscrição deve pronunciar-se, para efeitos do disposto no número anterior, no prazo de 30 dias, que esta comissão pode prorrogar ocorrendo motivo justificado.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - As sociedades de revisores constituem-se pela forma prevista na lei para as sociedades comerciais, salvo quando haja entrada de bens imóveis, caso em que a constituição deve ser feita pela forma exigida para a transmissão de imóveis.
 
 2 - ...
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - ...
 
@@ -768,7 +854,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - No prazo de 60 dias a partir da data de constituição da sociedade deve ser depositada, para efeitos de registo na Ordem, uma certidão comprovativa do registo definitivo na conservatória do registo comercial, quando aplicável, bem como um exemplar dos estatutos.
 
@@ -776,7 +864,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - O processo de alteração dos sócios segue, na parte aplicável e com as necessárias adaptações, o disposto nos artigos 99.º, 100.º, 101.º e 102.º
 
@@ -784,7 +874,9 @@ b) ...
 
 3 - Ocorrendo a morte de um sócio, este facto deve ser comunicado à comissão de inscrição no prazo de 30 dias após o seu conhecimento pela sociedade, devendo o processo subsequente de alteração dos estatutos ser iniciado nos 60 dias seguintes, salvo se o atraso resultar de motivo atendível na definição do destino da parte daquele sócio no capital, sem prejuízo do disposto nos artigos 96.º e 97.º
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Nas relações com terceiros, as certificações, relatórios e outros documentos de uma sociedade de revisores oficiais de contas, no exercício de funções de interesse público, são assinados, em nome e em representação da sociedade por um sócio administrador ou gerente, pelo sócio responsável pela sua elaboração ou por outro sócio com competência e poder bastantes.
 
@@ -792,7 +884,9 @@ b) ...
 
 3 - Em qualquer dos casos referidos nos números anteriores, deve ser aposta a identificação das pessoas que assinam as certificações, relatórios e outros documentos aí referidos.
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 1 - ...
 
@@ -814,17 +908,23 @@ c) ...
 
 7 - ...
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 O projecto de transformação, de fusão ou de cisão aprovado pelos sócios das sociedades participantes deve ser remetido à Ordem para aprovação, que deve pronunciar-se, por intermédio da comissão de inscrição, nos termos e prazos previstos para a aprovação dos estatutos.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - No prazo de 30 dias após celebração do contrato de transformação, de fusão ou de cisão, deve ser apresentado ao conselho directivo da Ordem, para efeitos de registo, um exemplar da mesma.
 
 2 - ...
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - ...
 
@@ -834,7 +934,9 @@ O projecto de transformação, de fusão ou de cisão aprovado pelos sócios das
 
 4 - ...
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - Se a sociedade se dissolver pelo decurso do prazo fixado para a sua duração ou por deliberação dos sócios, e dos estatutos não constar quem é o liquidatário, deve este ser nomeado:
 
@@ -850,7 +952,9 @@ b) Na falta de deliberação, pelo tribunal da sede da sociedade, a pedido da Or
 
 5 - ...
 
-###### Artigo 124.º — [...]
+Artigo 124.º
+
+[...]
 
 ...
 
@@ -868,7 +972,9 @@ f) ...
 
 g) ...
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - ...
 
@@ -888,7 +994,9 @@ f) ...
 
 3 - A composição e nomeação da comissão de inscrição e, em geral, a regulamentação da inscrição na Ordem são fixadas no regulamento de exame e de inscrição.
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - ...
 
@@ -936,7 +1044,9 @@ h) Matemática e estatística;
 
 i) Princípios básicos da gestão financeira das empresas.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 ...
 
@@ -948,7 +1058,9 @@ c) [Anterior alínea b).]
 
 d) Sempre que o CNSA determine o cancelamento do registo.
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - ...
 
@@ -962,7 +1074,9 @@ d) Sempre que o CNSA determine o cancelamento do registo.
 
 6 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - Podem ser reconhecidos em Portugal, na qualidade de revisores oficiais de contas, e como tal autorizados a exercer a respectiva profissão, as pessoas autorizadas para o exercício da profissão em qualquer dos demais Estados membros da União Europeia, desde que para o efeito obtenham aprovação na prova de aptidão prevista no artigo 152.º do presente decreto-lei.
 
@@ -972,11 +1086,15 @@ d) Sempre que o CNSA determine o cancelamento do registo.
 
 4 - Os revisores oficiais de contas reconhecidos nos termos do n.º 1 ficam sujeitos, no exercício da respectiva actividade em Portugal, ao presente decreto-lei e demais normas legais e regulamentares aplicáveis.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 A prestação de serviços profissionais em Portugal por revisor oficial de contas da União Europeia é livre, ressalvados os termos do presente decreto-lei e da demais legislação portuguesa aplicável aos revisores oficiais de contas nacionais.
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - ...
 
@@ -984,7 +1102,9 @@ A prestação de serviços profissionais em Portugal por revisor oficial de cont
 
 3 - As pessoas singulares autorizadas para o exercício da profissão em qualquer dos Estados membros da União Europeia podem requerer, ao conselho directivo, a dispensa da prova de aptidão desde que sejam residentes em Portugal e aqui tenham exercido actividade profissional durante, pelo menos, 10 anos.
 
-###### Artigo 153.º — Inscrição para efeitos do exercício do direito de estabelecimento
+Artigo 153.º
+
+Inscrição para efeitos do exercício do direito de estabelecimento
 
 1 - ...
 
@@ -994,7 +1114,9 @@ A prestação de serviços profissionais em Portugal por revisor oficial de cont
 
 4 - ...
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -1022,7 +1144,9 @@ c) Sempre que uma parte de um grupo de empresas for examinada por um ou mais aud
 
 4 - Nos casos previstos no número anterior, se existirem impedimentos legais ou outros à transmissão dos documentos de trabalho da revisão ou auditoria de um país terceiro para o revisor oficial de contas do grupo, a documentação guardada pelo revisor oficial de contas do grupo deve conter provas de que tal revisor efectuou as diligências adequadas para obter o acesso à documentação de revisão ou auditoria e, no caso de impedimentos que não sejam decorrentes da legislação do pais terceiro, provas desse impedimento.
 
-###### Artigo 62.º-A — Dever de elaboração e divulgação do relatório de transparência
+Artigo 62.º-A
+
+Dever de elaboração e divulgação do relatório de transparência
 
 1 - Os revisores oficiais de contas e as sociedades de revisores oficiais de contas que realizam a auditoria às contas de entidades de interesse público, nos termos definidos no artigo 2.º do Decreto-Lei n.º 225/2008, de 20 de Novembro, devem publicar no seu sítio na Internet, no prazo de três meses a contar do fim de cada exercício financeiro, um relatório anual de transparência, que deve incluir, pelo menos:
 
@@ -1050,7 +1174,9 @@ j) Informações quanto à base remuneratória dos sócios.
 
 3 - O relatório de transparência deve ser assinado pelo revisor oficial de contas ou pela sociedade de revisores oficiais de contas, consoante o caso, podendo esta assinatura ser feita, nomeadamente, por assinatura electrónica, tal como o previsto na lei.
 
-###### Artigo 62.º-B — Dever de comunicação ao órgão de fiscalização
+Artigo 62.º-B
+
+Dever de comunicação ao órgão de fiscalização
 
 1 - Os revisores oficiais de contas ou as sociedades de revisores oficiais de contas que realizem auditoria às contas de entidades de interesse público devem:
 
@@ -1062,7 +1188,9 @@ c) Examinar com o conselho fiscal, a comissão de auditoria ou o conselho geral 
 
 2 - As comunicações a que se referem as alíneas a) e b) do número anterior devem ser efectuadas antes da elaboração da certificação legal de contas da entidade em causa.
 
-###### Artigo 68.º-A — Dever de independência
+Artigo 68.º-A
+
+Dever de independência
 
 1 - Na sua actividade profissional o revisor oficial de contas deve actuar livre de qualquer pressão, influência ou interesse e deve evitar factos ou circunstâncias que sejam susceptíveis de comprometer a sua independência, integridade ou objectividade, de acordo com padrões de um terceiro objectivo, razoável e informado.
 
@@ -1104,11 +1232,15 @@ b) Aos demais profissionais envolvidos na auditoria.
 
 12 - Os sócios ou os accionistas de uma sociedade de revisores oficiais de contas, bem como os membros dos órgãos de administração e de fiscalização dessa sociedade, ou de uma sociedade afiliada, devem abster-se de ter qualquer intervenção na execução de uma auditoria, susceptível de comprometer a independência e a objectividade do revisor oficial de contas que realiza a auditoria em nome da sociedade de revisores oficiais de contas.
 
-###### Artigo 72.º-A — Buscas e apreensões em escritórios de revisores oficiais de contas
+Artigo 72.º-A
+
+Buscas e apreensões em escritórios de revisores oficiais de contas
 
 Às buscas e apreensões em escritórios de revisores oficiais de contas é aplicável, respectivamente, o disposto no n.º 5 do artigo 177.º e no n.º 1 do artigo 180.º do Código de Processo Penal.
 
-###### Artigo 72.º-B — Reclamação
+Artigo 72.º-B
+
+Reclamação
 
 1 - No decurso das diligências previstas nos artigos anteriores, pode o revisor interessado ou, na sua falta, qualquer dos familiares ou empregados presentes, bem como o representante da Ordem, apresentar uma reclamação.
 
@@ -1118,15 +1250,21 @@ b) Aos demais profissionais envolvidos na auditoria.
 
 4 - O presidente do Tribunal da Relação pode, com reserva de sigilo, proceder à desselagem do mesmo volume, devolvendo-o selado com a sua decisão.
 
-###### Artigo 126.º-A — Exame
+Artigo 126.º-A
+
+Exame
 
 O exame de admissão é organizado com vista a assegurar o nível necessário de conhecimentos teóricos nas matérias relevantes para a revisão legal e auditoria às contas, bem assim a assegurar a capacidade para aplicar na prática esses conhecimentos.
 
-###### Artigo 145.º-A — Registo público
+Artigo 145.º-A
+
+Registo público
 
 A Ordem assegura o registo dos revisores oficiais de contas e das sociedades de revisores oficiais de contas.
 
-###### Artigo 145.º-B — Conteúdo do registo público
+Artigo 145.º-B
+
+Conteúdo do registo público
 
 1 - O registo público referido no artigo anterior identifica cada revisor oficial de contas e cada sociedade de revisores oficiais de contas, através de um número específico.
 
@@ -1166,7 +1304,9 @@ i) Todos os demais registos, como sociedade de revisores oficiais de contas, jun
 
 7 - As entidades de auditoria de países terceiros registadas figuram no registo, como tal, e não como sociedades de revisores oficiais de contas.
 
-###### Artigo 145.º-C — Inscrição e actualização das informações de registo
+Artigo 145.º-C
+
+Inscrição e actualização das informações de registo
 
 1 - No âmbito do seu processo de registo, os revisores oficiais de contas e as sociedades de revisores oficiais de contas devem prestar à Ordem, para efeitos de inscrição no registo público, as informações referidas, respectivamente, nos n.os 4 a 6 do artigo anterior.
 
@@ -1180,7 +1320,9 @@ b) Ser redigidas em português, ou em qualquer outra língua ou línguas oficiai
 
 4 - O disposto nos números anteriores aplica-se, com as devidas adaptações, aos auditores e às entidades de auditoria de países terceiros previstas nos n.os 5 e 7 do artigo 145.º-B.
 
-###### Artigo 145.º-D — Registo de pessoas singulares ou colectivas autorizadas a exercer a actividade de revisão de contas em país terceiro
+Artigo 145.º-D
+
+Registo de pessoas singulares ou colectivas autorizadas a exercer a actividade de revisão de contas em país terceiro
 
 1 - Estão, ainda, sujeitas ao registo público previsto no artigo 145.º-A as pessoas singulares ou colectivas autorizadas a exercer a actividade de revisão das contas num país terceiro que apresentem relatório de auditoria das contas individuais ou consolidadas de uma entidade com sede fora da Comunidade e com valores mobiliários admitidos à negociação num mercado regulamentado em Portugal, salvo se a sociedade apenas emitir valores mobiliários representativos de dívida admitidos à negociação em mercado regulamentado, cujo valor nominal seja, na data de emissão, de pelo menos (euro) 50 000 ou, no caso de emissão noutra moeda, de valor equivalente a (euro) 50 000.
 
@@ -1224,15 +1366,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos.
 
-**Promulgado em 3 de Novembro de 2008.**
+Promulgado em 3 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Novembro de 2008.**
+Referendado em 5 de Novembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 487/99, de 16 de Novembro
 

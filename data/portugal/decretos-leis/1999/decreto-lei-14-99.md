@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1999-486163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f9c8aef4a39f6c37ad66f1fcb0ba44b60965ba21cfc06db69b660da38b83710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9431ced442536b4a329e69f32febf382e4174dad34ac87f9e28a2ad134950c5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,43 +69,106 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - CE Países
-- Investigação Científica e Tecnológica
 - Certificado de Origem
+- Certificado de Qualidade
 - Certificado Fitossanitário
-- Multa
-- Doença Vegetal
+- Circulação de Mercadorias
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Direcção Geral das Florestas
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Doença Vegetal
+- Exploração Florestal
+- Exportação
 - Fiscalização
 - Floricultura
-- Importação
-- Certificado de Qualidade
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Circulação de Mercadorias
-- Proteção do Ambiente
-- Pessoal de Inspecção
-- Zona de Proteção
-- Política Agrícola Comum
-- Exportação
-- Exploração Florestal
-- Proteção Fitossanitária
-- Produção Vegetal
 - Fruticultura
-- Agricultura
-- Sanção
+- Importação
+- Investigação Científica e Tecnológica
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Multa
+- Pessoal de Inspecção
+- Política Agrícola Comum
+- Produção Vegetal
 - Produto Agrícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Sanção
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:141854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627033:por
+  label: "Alterado e republicado pelo DEC LEI.517/99.1999.12.04.MADRP DR.IS-A [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/517-1999-627033
+  date: '1999-12-04'
+- type: amended_by
+  target: pt:dre:522802:por
+  label: "Alterados os anexos II, IV e VI, na redacção do Dec Lei 517/99 de 04-Dez, pelo DEC LEI.63/2000.2000.04.19.MADRP,\
+    \ DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2000-522802
+  date: '2000-04-19'
+- type: amended_by
+  target: pt:dre:314421:por
+  label: "Alterada a data referida em nota de rodapé do anexo VI e o nº 2 do art. 19.º, na redacção dada pelo Dec Lei 517/99\
+    \ de 04-Dez, pelo DEC LEI.160/2000.2000.07.27.MADRP DR.IS-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2000-314421
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:621168:por
+  label: "Alterados os anexos I, II, III e IV, pelo DEC LEI.269/2001.2001.10.06.MADRP,DR.IS-A [232]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-2001-621168
+  date: '2001-10-08'
+- type: amended_by
+  target: pt:dre:197359:por
+  label: "Alterados os anexos I, II, III, IV e VI do presente diploma, republicado pelo Dec Lei 517/99, de 04-Dez, na redacção\
+    \ dada pelo Dec Lei 63/2000, de 19-Abr, pelo Dec Lei 160/2000, de 27-Jul e pelo Dec Lei 269/2001, de 06-Out, pelo Dec\
+    \ Lei 172/2002, de 25-Jul, DR IS-A [170] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-2002-197359
+  date: '2002-07-25'
+- type: amended_by
+  target: pt:dre:667118:por
+  label: "Alterados os anexos I, II, III, IV, V e VI do presente diploma, na redacção dos Dec Lei 517/99 de 04-Dez, 63/2000\
+    \ de 19-Abr, 160/2000 de 27-Jul, 269/2001 de 06-Out e 172/2002 de 25-Jul, pelo DEC LEI.142/2003.02.07.2003.MADRP, DR.IS-A\
+    \ [150] de 02.07.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2003-667118
+  date: '2003-07-02'
+- type: amended_by
+  target: pt:dre:493696:por
+  label: "Alterados os anexos IV e V deste diploma, republicado pelo Dec Lei 517/99 de 04-Dez e na redacção dada pelos Dec\
+    \ Lei 63/2000 de 19-Abr, 160/2000 de 27-Jul, 269/2001 de 06-Out, 172/2002 de 25-Jul e 142/2003 de 02-Jul, pelo DEC LEI.231/2003.2003.09.27.MADRP\
+    \ DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-2003-493696
+  date: '2003-09-27'
+- type: amended_by
+  target: pt:dre:220749:por
+  label: "Alterados os anexos II, III, IV e V do presente diploma, republicado pelo Dec Lei 517/99, de 04-Dez, na redacção\
+    \ que lhe foi dada pelos Dec Leis 63/2000, de 19-Abr, 160/2000, de 27-Jul, 269/2001, de 06-Out, 172/2002, de 25-Jul, 142/2003,\
+    \ de 02-Jul e 231/2003, 27-Set, pelo DEC LEI.83/2004.14.04.2004.MADRP, DR.IS-A [88] de 14.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2004-220749
+  date: '2004-04-14'
+- type: amended_by
+  target: pt:dre:502395:por
+  label: "Alterados os anexos I (na redac&#231;&#227;o dos Dec-Leis 269/2001, de 06-Out, 172/2002, de 25-Jul e 142/2003, de\
+    \ 02-Jul), II (na redac&#231;&#227;o dos Dec-Leis 517/99, de 04-Dez, 63/2000, de 19-Abr, 269/2001, de 06-Out, 172/2002,\
+    \ de 25-Jul, 142/2003, de 02-Jul, e 83/2004, de 14-Abr), III (na redac&#231;&#227;o dos Dec-Leis 517/99, de 04-Dez, 269/2001,\
+    \ de 06-Out, 172/2002, de 25-Jul, 142/2003, de 02-Jul, e 83/2004, de 14-Abr), IV (na redac&#231;&#227;o dos Dec-Leis 517/99,\
+    \ de 04-Dez, 63/2000, de 19-Abr, 269/2001, de 06-Out, 172/2002, de 25-Jul, 231/2003, de 27-Set, 142/2003, de 02-Jul e\
+    \ 83/2004, de 14-Abr), V (na redac&#231;&#227;o dos Dec-Leis 517/99, de 04-Dez, 231/2003, de 27-Set, 142/2003, de 02-Jul\
+    \ e 83/2004, de 14-Abr), VI (na redac&#231;&#227;o dos Dec-Leis 517/99, de 04-Dez, 63/2000, de 19-Abr, 160/2000, de 27-Jul,\
+    \ 172/2002, de 25-Jul e 142/2003, de 02-Jul) do presente diploma,republicado pelo Dec Lei 517/99, de 04/Dez, pelo DEC\
+    \ LEI.183/2004.29.07.2004.MADRP, DR.IS-A [177] de 29.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2004-502395
+  date: '2004-07-29'
 - type: cites
   target: celex:31977L0093
   label: null
@@ -130,16 +193,21 @@ relationships:
   target: celex:31998L0017
   label: null
   source: http://data.europa.eu/eli/dir/1998/17/oj
+- type: repealed_by
+  target: pt:dre:141854:por
+  label: "Revogado pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 article_structure:
   article_count: 33
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:19Z'
   warnings: []
   errors: []
 ---
@@ -588,17 +656,19 @@ São revogados o Decreto-Lei n.º 154/94, de 28 de Maio, e as Portarias n.os 870
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - Luís Manuel Capoulas Santos.
 
-**Promulgado em 23 de Novembro de 1998.**
+Promulgado em 23 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1998.**
+Referendado em 25 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — PARTE A
+## ANEXO I
+
+## PARTE A
 
 Organismos prejudiciais cuja introdução e dispersão é proibida no interior do País e nos restantes Estados membros
 
@@ -898,17 +968,19 @@ d) Vírus e organismos afins
 
 3 - Pear decline mycoplasm.
 
-# PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas
+## PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegidas
 
 a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 d) Vírus e organismos afins
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-## ANEXO II — PARTE A
+## ANEXO II
+
+## PARTE A
 
 Organismos prejudiciais cuja introdução e dispersão é proibida no interior do País e nos restantes Estados membros desde que estejam presentes em determinados vegetais ou produtos vegetais
 
@@ -916,29 +988,29 @@ Organismos prejudiciais cuja introdução e dispersão é proibida no interior d
 
 a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 b) Bactérias
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 c) Fungos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 d) Vírus e organismos afins
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 #### SECÇÃO II — Organismos prejudiciais existentes na Comunidade e importantes para toda a Comunidade
 
 a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 b) Bactérias
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 c) Fungos
 
@@ -946,59 +1018,63 @@ c) Fungos
 
 d) Vírus e organismos afins
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-# PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegida desde que presentes em determinados vegetais e produtos vegetais
+## PARTE B — Organismos prejudiciais cuja introdução e dispersão é proibida em determinadas zonas protegida desde que presentes em determinados vegetais e produtos vegetais
 
 a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 b) Bactérias
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 c) Fungos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 d) Vírus e organismos afins
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-## ANEXO III — PARTE A
+## ANEXO III
+
+## PARTE A
 
 Vegetais, produtos vegetais e outros objectos cuja introdução é proibida no País e nos restantes Estados membros
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-# PARTE B — Vegetais, produtos vegetais e outros objectos cuja introdução é proibida em determinadas zonas protegidas
+## PARTE B — Vegetais, produtos vegetais e outros objectos cuja introdução é proibida em determinadas zonas protegidas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-## ANEXO IV — PARTE A
+## ANEXO IV
+
+## PARTE A
 
 Exigências específicas relativas aos vegetais, produtos vegetais e outros objectos e que deverão ser respeitadas para efeitos de introdução e circulação dos mesmos no interior do País e dos restantes Estados membros
 
 #### SECÇÃO I — Vegetais, produtos vegetais e outros objectos originários de países terceiros
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 #### SECÇÃO II — Vegetais, produtos vegetais e outros objectos orignários da Comunidade
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-# PARTE B
+## PARTE B
 
 Exigências específicas relativas aos vegetais, produtos vegetais e outros objectos e que deverão ser respeitadas para efeitos de introdução e circulação dos mesmos no interior de determinadas zonas protegidas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 ## ANEXO V
 
 Vegetais, produtos vegetais e outros objectos que devem ser submetidos a inspecção fitossanitária no local de produção, se originários da Comunidade, antes de poderem circular na Comunidade, ou no país de origem ou no país expedidor, se originários de países terceiros, antes de poderem entrar na Comunidade.
 
-# PARTE A — Vegetais, produtos vegetais e outros objectos originários da Comundidade
+## PARTE A — Vegetais, produtos vegetais e outros objectos originários da Comundidade
 
 I - Vegetais, produtos vegetais e outros objectos portadores potenciais de organismos prejudiciais importantes para toda a Comunidade e que devem ser acompanhados de passaporte fitossanitário.
 
@@ -1026,7 +1102,7 @@ Platanus L., incluindo a madeira que não manteve a sua superfície natural arre
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento (CEE) n.º [2658/87](https://data.europa.eu/eli/reg/1987/2658/oj?locale=pt), do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à Pauta Aduaneira Comum (ver nota 1):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 (nota 1) JO, n.º L 256, de 7 de Setembro de 1987, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º [2588/95](https://data.europa.eu/eli/reg/1995/2588/oj?locale=pt), da Comissão (JO, n.º L 264, de 7 de Novembro de 1995, p.4).
 
@@ -1074,7 +1150,7 @@ a) Tenha sido obtida no todo ou em parte de coníferas (Coniferales), com excep�
 
 b) Corresponda a uma das designações que se seguem, constantes da parte II do anexo I do Regulamento (CEE) n.º [2658/87](https://data.europa.eu/eli/reg/1987/2658/oj?locale=pt):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
 1.11 - Casca isolada de coníferas (Coniferales).
 
@@ -1084,14 +1160,16 @@ b) Corresponda a uma das designações que se seguem, constantes da parte II do 
 
 ## ANEXO VI — Zonas da Comunidade reconhecidas como «zonas protegidas», em relação ao ou aos organismos prejudiciais indicados para cada zona
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-## ANEXO VII — PARTE A
+## ANEXO VII
+
+## PARTE A
 
 Modelo de certificado fitossanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf))](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
 
-# PARTE B — Modelo de certificado fitossanitário
+## PARTE B — Modelo de certificado fitossanitário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf))](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1999/01/009a00/01360183.pdf)

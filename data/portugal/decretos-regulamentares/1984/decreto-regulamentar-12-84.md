@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1984-661485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1678ea20dedf9d05d9a82177079714b6c20288e55351d30cef3a66a9cc2f6577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bbe2fae29fd0ee63f2a73ee8e09cbfbccd9dca646bd09d9903e22c98d0e119b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Orgânica
+- Serviços Sociais
+- Universidade do Minho
+relationships:
+- type: cites
+  target: pt:dre:451781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:43Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +106,18 @@ Em cumprimento do disposto no artigo 39.º do [Decreto-Lei n.º 132/80](https://
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. À tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 38.º do [Decreto Regulamentar n.º 45/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1983-451781), de 6 de Junho, constante do anexo II do referido diploma são acrescidas as seguintes categorias:
+Artigo único. À tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 38.º do [Decreto Regulamentar n.º 45/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1983-451781), de 6 de Junho, constante do anexo II do referido diploma são acrescidas as seguintes categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/04300/05580558.pdf))](https://files.diariodarepublica.pt/1s/1984/02/04300/05580558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/04300/05580558.pdf)
 
 Mário Soares - Carlos Alberto da Mota Pinto - José San-Bento de Menezes - Alípio Barrosa Pereira Dias - José Augusto Seabra.
 
-**Promulgado em 8 de Fevereiro de 1984.**
+Promulgado em 8 de Fevereiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 9 de Fevereiro de 1984.**
+Referendado em 9 de Fevereiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

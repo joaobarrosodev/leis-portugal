@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2008/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2008-248531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db45a0ec9784ad49a2393adac40bb4a87e6872ef2369c3598649125c96fe1339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb30ff9e6fb5c51d5789ef9e5029a1030722a36b41e867898d2419e3d5df2ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,73 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- Doença Vegetal
+- Comércio
+- Controlo Sanitário
 - Direção Geral da Agricultura e Desenvolvimento Rural
-- Direcção Regional de Agricultura e Pescas
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Saúde Pública
+- Direcção Regional de Agricultura e Pescas
+- Doença Vegetal
 - Fiscalização
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produção Vegetal
-- Comércio
 - Produto Agrícola
+- Proteção Fitossanitária
+- Saúde Pública
 - Vegetais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:1153918006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396957:por
+  label: "Alterados os anexos II e IV e revogado o anexo VI do Dec Lei 154/2005, de 06-Set, na redacção do presente diploma,\
+    \ pelo DEC LEI.4/2009.05.01.2009.MADRP, DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2009-396957
+  date: '2009-01-05'
+- type: amended_by
+  target: pt:dre:490259:por
+  label: "Alterados o art. 5º e o anexos II, IV, V e X do Dec Lei 154/2005, de 06-Set, na redacção do presente diploma, pelo\
+    \ DEC LEI.243/2009.17.09.2009.MADRP, DR.IS [181] de 17.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2009-490259
+  date: '2009-09-17'
+- type: amended_by
+  target: pt:dre:616805:por
+  label: "Alterados os anexos II, IV e V do Dec Lei 154/2005 de 06-Set, com a redacção constante do presente diploma, pelo\
+    \ DEC LEI.7/2010.25.01.2010.MADRP, DR.IS [16] de 25.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2010-616805
+  date: '2010-01-25'
+- type: amended_by
+  target: pt:dre:613403:por
+  label: "Alterados os anexos II e IV, do Dec Lei 154/2005, de 06-Set, na redacção do presente diploma, pelo DEC LEI.32/2010.13.04.2010.MADRP,\
+    \ DR.IS [71] de 13.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2010-613403
+  date: '2010-04-13'
+- type: amended_by
+  target: pt:dre:58801094:por
+  label: Alterados o art. 5º bem como os anexos II, IV, V e X do Dec Lei 154/2005, de 06-set, na redação do presente diploma
+    pelo(a) Decreto-Lei n.º 170/2014 - Diário da República n.º 216/2014, Série I de 2014-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-2014-58801094
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:114163923:por
+  label: Alterados os anexos II, IV, V e X do Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 137/2017 - Diário da República n.º 215/2017, Série I de 2017-11-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2017-114163923
+  date: '2017-11-08'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado o anexo IV do Dec Lei 154/2005, de 06-set, na redação do presente dilpoma, pelo(a) Decreto-Lei n.º 41/2018
+    - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
+- type: amended_by
+  target: pt:dre:125468544:por
+  label: Alterados os anexos ii, iv e v ao Dec Lei 154/2005 de 06-set, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 154/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2019-125468544
+  date: '2019-10-18'
 - type: cites
   target: celex:32000L0029
   label: null
@@ -112,16 +160,22 @@ relationships:
   target: celex:32007L0041
   label: null
   source: http://data.europa.eu/eli/dir/2007/41/oj
+- type: repealed_by
+  target: pt:dre:142870334:por
+  label: Revogado pelo(a) Decreto-Lei n.º 67/2020 - Diário da República n.º 180/2020, Série I de 2020-09-15, sem prejuízo
+    do disposto no art. 28.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2020-142870334
+  date: '2020-09-15'
 article_structure:
-  article_count: 6
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:53Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +224,9 @@ Os artigos 5.º e 6.º do Decreto-Lei n.º 154/2005, de 6 de Setembro, na redac�
 
 4 - Os inspectores fitossanitários são identificados por cartão de livre trânsito, emitido mediante modelo aprovado pela Direcção-Geral de Agricultura e Desenvolvimento Rural, publicado na 2.ª série do Diário da República.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - No desempenho das suas funções o inspector fitossanitário tem acesso aos vegetais, produtos vegetais e outros objectos em qualquer fase da sua produção, comercialização, armazenamento ou durante o seu transporte, podendo para tal:
 
@@ -204,15 +260,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - João Tiago Valente Almeida da Silveira - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 11 de Janeiro de 2008.**
+Promulgado em 11 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Janeiro de 2008.**
+Referendado em 14 de Janeiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -220,51 +276,67 @@ Os anexos ii, iv, v, vi e x do Decreto-Lei n.º 154/2005, de 6 de Setembro, na r
 
 «ANEXO II
 
-# Parte A
+Parte A
 
 [...]
 
-#### Secção I — [...]
+Secção I
 
 [...]
 
-#### Secção II — [...]
+[...]
+
+Secção II
 
 [...]
 
-# Parte B
+[...]
+
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
 
-## ANEXO IV — Parte A
+ANEXO IV
 
-[...]
-
-#### Secção I — [...]
+Parte A
 
 [...]
 
-#### Secção II — [...]
+Secção I
 
 [...]
 
-# Parte B
+[...]
+
+Secção II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
+[...]
 
-## ANEXO V — Parte A
+Parte B
 
 [...]
 
-#### Secção I — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
+
+ANEXO V
+
+Parte A
 
 [...]
 
-#### Secção II — [...]
+Secção I
+
+[...]
+
+[...]
+
+Secção II
+
+[...]
 
 1 - [...]
 
@@ -296,23 +368,29 @@ Os anexos ii, iv, v, vi e x do Decreto-Lei n.º 154/2005, de 6 de Setembro, na r
 
 (*) [...]
 
-# Parte B
+Parte B
 
 [...]
 
-#### Secção I — [...]
+Secção I
 
 [...]
 
-#### Secção II — [...]
+[...]
+
+Secção II
 
 [...]
 
-## ANEXO VI — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
+ANEXO VI
 
-## ANEXO X
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01700/0070300708.pdf)
+
+ANEXO X
 
 1 - [...]
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/271a00/63556361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/369/1998/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1998-217937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcd5047917bb71615fce4d6d63df19f157ada47d585640b1d2e7782774946aa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 968ee95a254a44fdaa59cce917ae8f2f942cc7ba19e3444d54a2c9fa02096bb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Ministério da Educação
 - Criação de Serviços
 - Definição de Competências
 - Departamento do Ensino Superior
-- Integração de Trabalhadores
 - Direção Geral do Ensino Superior
-- Orgânica
-- Quadro de Pessoal
 - Ensino Superior
+- Integração de Trabalhadores
+- Ministério da Educação
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:685034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:371035:por
+  label: "Determinada a transição para o Ministério da Ciência e do Ensino Superior da Direcção-Geral do Ensino Superior (integrada\
+    \ no Ministério da Educação), pelo DEC LEI 120/2002.2002.05.03.PCM, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2002-371035
+  date: '2002-05-03'
+- type: amended_by
+  target: pt:dre:657223:por
+  label: "Determinada a reestruturação, com a entrada em vigor do doploma orgânico do serviço que lhe sucede nas suas atribuições\
+    \ e competências, da Direcção-geral do Ensino Superior, cuja orgânica consta do presente diploma, pelo DEC LEI.205/2002.2002.10.07.MCES\
+    \ DR.IS-A [132]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2002-657223
+  date: '2002-10-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1993/04/26/p/dre
   label: null
@@ -94,16 +107,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/568/1993/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/568/1993/06/02/p/dre
+- type: cites
+  target: pt:dre:255664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685034:por
+  label: "Revogado pelo DEC LEI.122/2003.2003.06.18.MCES, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2003-685034
+  date: '2003-06-18'
 article_structure:
   article_count: 33
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:42Z'
   warnings: []
   errors: []
 ---
@@ -264,7 +294,9 @@ a) A Divisão de Candidaturas do Regime Geral;
 
 b) A Divisão de Candidaturas do Regime Especial.
 
-###### Artigo 9.º — Divisão de Candidaturas do Regime Geral
+###### Artigo 9.º
+
+##### Divisão de Candidaturas do Regime Geral
 
 À Divisão de Candidaturas do Regime Geral compete, designadamente:
 
@@ -276,7 +308,9 @@ c) Organizar e manter actualizada uma base de dados das condições de acesso ao
 
 d) Proceder à recolha e tratamento da informação indispensável à edição de guias de candidatura.
 
-###### Artigo 10.º — Divisão de Candidaturas do Regime Especial
+###### Artigo 10.º
+
+##### Divisão de Candidaturas do Regime Especial
 
 À Divisão de Candidaturas do Regime Especial compete, designadamente:
 
@@ -302,7 +336,9 @@ b) A Divisão de Ensino Superior Particular e Cooperativo;
 
 c) A Divisão de Reconhecimento e Intercâmbio
 
-###### Artigo 12.º — Divisão de Ensino Superior Público
+###### Artigo 12.º
+
+##### Divisão de Ensino Superior Público
 
 1 - À Divisão de Ensino Superior Público compete, designadamente:
 
@@ -326,7 +362,9 @@ i) Colaborar com a Inspecção-Geral de Educação na fiscalização dos estabel
 
 2 - As competências referidas no número anterior serão exercidas, com as devidas adaptações, relativamente ao ensino concordatário.
 
-###### Artigo 13.º — Divisão do Ensino Superior Particular e Cooperativo
+###### Artigo 13.º
+
+##### Divisão do Ensino Superior Particular e Cooperativo
 
 À Divisão do Ensino Superior Particular e Cooperativo compete, designadamente:
 
@@ -342,7 +380,9 @@ e) Apoiar em termos pedagógicos as instituições de ensino superior particular
 
 f) Colaborar com a Inspecção-Geral de Educação na fiscalização dos estabelecimentos de ensino superior particular e cooperativo.
 
-###### Artigo 14.º — Divisão de Reconhecimento e Intercâmbio
+###### Artigo 14.º
+
+##### Divisão de Reconhecimento e Intercâmbio
 
 À Divisão de Reconhecimento e Intercâmbio compete, designadamente:
 
@@ -380,7 +420,9 @@ b) A Divisão de Recursos Físicos;
 
 c) A Divisão de Recursos Financeiros.
 
-###### Artigo 16.º — Divisão de Pessoal Docente e não Docente
+###### Artigo 16.º
+
+##### Divisão de Pessoal Docente e não Docente
 
 À Divisão de Pessoal Docente e não Docente compete, nomeadamente:
 
@@ -396,7 +438,9 @@ e) Analisar as necessidades de descongelamento de pessoal não docente dos estab
 
 f) Participar na definição do conteúdo funcional das carreiras do pessoal não docente com especificidade própria ao subsistema do ensino superior.
 
-###### Artigo 17.º — Divisão de Recursos Físicos
+###### Artigo 17.º
+
+##### Divisão de Recursos Físicos
 
 À Divisão de Recursos Físicos compete, designadamente:
 
@@ -414,7 +458,9 @@ f) Participar na gestão e acompanhamento dos investimentos com apoios comunitá
 
 g) Proceder a vistorias das instalações dos estabelecimentos de ensino superior particular e cooperativo.
 
-###### Artigo 18.º — Divisão de Recursos Financeiros
+###### Artigo 18.º
+
+##### Divisão de Recursos Financeiros
 
 À Divisão de Recursos Financeiros compete, designadamente:
 
@@ -484,7 +530,9 @@ b) A Secção de Administração Financeira;
 
 c) A Secção de Economato e Património.
 
-###### Artigo 22.º — Secção de Pessoal e Expediente Geral
+###### Artigo 22.º
+
+#### Secção de Pessoal e Expediente Geral
 
 À Secção de Pessoal e Expediente Geral compete:
 
@@ -496,7 +544,9 @@ c) Apoiar, nomeadamente em colaboração com a Secretaria-Geral, a frequência d
 
 d) Proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos, bem como assegurar a expedição da correspondência a enviar pela DGESup.
 
-###### Artigo 23.º — Secção de Administração Financeira
+###### Artigo 23.º
+
+#### Secção de Administração Financeira
 
 À Secção de Administração Financeira compete:
 
@@ -510,7 +560,9 @@ d) Instruir os processos relativos a despesas e informar quanto à sua legalidad
 
 e) Processar as requisições mensais de fundos por conta das dotações orçamentais, consignadas no Orçamento do Estado à DGESup.
 
-###### Artigo 24.º — Secção de Economato e Património
+###### Artigo 24.º
+
+#### Secção de Economato e Património
 
 À Secção de Economato e Património compete:
 
@@ -620,14 +672,14 @@ c) A [Portaria n.º 568/93](https://diariodarepublica.pt/dr/detalhe/portaria/568
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Carrega Marçal Grilo.
 
-**Promulgado em 10 Novembro de 1998.**
+Promulgado em 10 Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/271a00/63556361.pdf)

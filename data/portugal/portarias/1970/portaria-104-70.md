@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/02/03900/02090213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/104-1970-227647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f75db4161c3a7d47ebd31bafa0c4f8b5c5404a824f7a5f5ac601645d93cf709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cc0d207418e0a17ebebe7b839ae80cccd875ae8d8f75ff6055daf3127b91de3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Forças Armadas
+- Habitação Social
+- Regime Jurídico
+- Regulamento
+- Regulamento para a Atribuição das Casas de Renda Económica
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:122728685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:319924:por
+  label: "Totalmente revogada pelo DEC LEI.380/97.1997.12.30.MDN, DR.IS-A [300]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/380-1997-319924
+  date: '1997-12-30'
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386461:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:13Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +112,11 @@ Presidência do Conselho, 16 de Fevereiro de 1970. - O Ministro da Defesa Nacion
 
 Regulamento para a Atribuição de Casas de Renda Económica dos Serviços Sociais das Forças Armadas
 
-###### Artigo 1.º - 1. A atribuição de casas de renda económica dos Serviços Sociais das Forças Armadas e do Cofre de Previdência das Forças Armadas far-se-á mediante concurso único entre os beneficiários e subscritores, a realizar pelos Serviços Sociais das Forças Armadas, que terá por fim a selecção e classificação dos pretendentes às vagas existentes ou que venham a verificar-se durante o prazo da sua validade.
+Artigo 1.º - 1. A atribuição de casas de renda económica dos Serviços Sociais das Forças Armadas e do Cofre de Previdência das Forças Armadas far-se-á mediante concurso único entre os beneficiários e subscritores, a realizar pelos Serviços Sociais das Forças Armadas, que terá por fim a selecção e classificação dos pretendentes às vagas existentes ou que venham a verificar-se durante o prazo da sua validade.
 
 2. As casas dos Serviços Sociais das Forças Armadas só podem ser atribuídas aos seus beneficiários e as casas do Cofre de Previdência das Forças Armadas aos seus subscritores. Quando um concorrente acumule as duas qualidades, tem acesso às casas de qualquer das instituições, mas somente poderá ocupar uma.
 
-###### Art. 2.º - 1. Os concursos serão de três modalidades:
+Art. 2.º - 1. Os concursos serão de três modalidades:
 
 a) Ordinários, a que podem concorrer os beneficiários dos Serviços Sociais das Forças Armadas que sejam oficiais e sargentos do quadro permanente e praças readmitidas ou reconduzidas, que estejam a prestar serviço militar, e os subscritores do Cofre de Previdência das Forças Armadas;
 
@@ -110,9 +130,9 @@ c) Especiais, quando destinados àqueles que, em campanha ou na manutenção da 
 
 4. Os concursos especiais serão abertos por portaria do Ministro da Defesa Nacional, em que poderão ser alteradas as condições de admissão e os critérios de classificação de distribuição previstos neste diploma.
 
-###### Art. 3.º O prazo de validade do concurso será normalmente de um ano, a contar da data da publicação no Diário do Governo das listas de classificação a que se refere o artigo 12.º deste Regulamento.
+Art. 3.º O prazo de validade do concurso será normalmente de um ano, a contar da data da publicação no Diário do Governo das listas de classificação a que se refere o artigo 12.º deste Regulamento.
 
-###### Art. 4.º - 1. Os concursos serão abertos por anúncios publicados com a antecedência mínima de trinta dias em três números sucessivos do Diário do Governo, através dos quais se dará conhecimento do respectivo programa, que deverá conter, além do que em cada caso se julgar útil à melhor realização da sua finalidade:
+Art. 4.º - 1. Os concursos serão abertos por anúncios publicados com a antecedência mínima de trinta dias em três números sucessivos do Diário do Governo, através dos quais se dará conhecimento do respectivo programa, que deverá conter, além do que em cada caso se julgar útil à melhor realização da sua finalidade:
 
 a) Relação dos fogos postos a concurso, sua localização, tipo a organismo a que pertencem;
 
@@ -138,11 +158,11 @@ c) A famílias abrangidas no artigo 32.º deste diploma;
 
 d) Aos concursos especiais.
 
-###### Art. 5.º - 1. A inscrição do concorrente será feita em boletins de modelo a aprovar por despacho do Ministro da Defesa Nacional, em separado, destinado à inscrição para casas dos Serviços Sociais das Forças Armadas e do Cofre de Previdência das Forças Armadas, conforme o caso, os quais, depois de devidamente preenchidos e abonados nos termos do artigo 8.º, deverão dar entrada nos Serviços Sociais das Forças Armadas durante o prazo fixado no programa do concurso.
+Art. 5.º - 1. A inscrição do concorrente será feita em boletins de modelo a aprovar por despacho do Ministro da Defesa Nacional, em separado, destinado à inscrição para casas dos Serviços Sociais das Forças Armadas e do Cofre de Previdência das Forças Armadas, conforme o caso, os quais, depois de devidamente preenchidos e abonados nos termos do artigo 8.º, deverão dar entrada nos Serviços Sociais das Forças Armadas durante o prazo fixado no programa do concurso.
 
 2. A inscrição deve ser feita pelo próprio concorrente, e, quando feita por procurador com poderes para tanto, ser por ele confirmada antes da publicação das listas de classificação, ou, logo que possível, quando motivos imperiosos apresentados pelo procurador o impeçam de o fazer. Nela deverá o concorrente indicar pessoa com residência no continente para receber qualquer notificação ou aviso, sob pena de lhe não serem feitos quando domiciliado ou residente fora dele.
 
-###### Art. 6.º - 1. Qualquer concorrente, observado o condicionalismo do artigo 1.º, poderá inscrever-se simultâneamente em três localidades ou zonas, não podendo, porém, indicar mais do que um tipo de habitação em cada uma.
+Art. 6.º - 1. Qualquer concorrente, observado o condicionalismo do artigo 1.º, poderá inscrever-se simultâneamente em três localidades ou zonas, não podendo, porém, indicar mais do que um tipo de habitação em cada uma.
 
 2. Os tipos de habitação postos a concurso são definidos por uma letra e por um número, em que a letra representa a categoria dos concorrentes a que se destinam os fogos (O, S ou P, respectivamente para oficiais, sargentos e praças ou civis por equiparação), e o número, a quantidade de compartimentos assoalhados de que a habitação dispõe para instalar o agregado familiar.
 
@@ -150,7 +170,7 @@ d) Aos concursos especiais.
 
 4. Em caso de excesso nos termos do número anterior, a inscrição ficará dependente da apreciação e resolução da comissão directiva dos Serviços Sociais das Forças Armadas.
 
-###### Art. 7.º - 1. Podem concorrer os beneficiários dos Serviços Sociais das Forças Armadas e os subscritores do Cofre de Previdência das Forças Armadas que, além das condições referidas no artigo 2.º, obedeçam, cumulativamente, às seguintes:
+Art. 7.º - 1. Podem concorrer os beneficiários dos Serviços Sociais das Forças Armadas e os subscritores do Cofre de Previdência das Forças Armadas que, além das condições referidas no artigo 2.º, obedeçam, cumulativamente, às seguintes:
 
 a) Terem agregado familiar a seu cargo;
 
@@ -162,11 +182,11 @@ c) Não terem incorrido, nos três últimos anos anteriores ao concurso, na resc
 
 3. Constituem o agregado familiar, além do cônjuge não separado de pessoas e bens, os descendentes, ascendentes ou colaterais até ao 3.º grau, seja do concorrente, seja do cônjuge, que vivam em economia conjunta.
 
-###### Art. 8.º As declarações constantes dos boletins de inscrição serão sempre da total responsabilidade do concorrente, que as comprovará, por abonação ou apresentação de documento oficial. Independentemente deste procedimento, aos Serviços Sociais das Forças Armadas e ao Cofre de Previdência das Forças Armadas é reservado o direito de proceder à confirmação das declarações.
+Art. 8.º As declarações constantes dos boletins de inscrição serão sempre da total responsabilidade do concorrente, que as comprovará, por abonação ou apresentação de documento oficial. Independentemente deste procedimento, aos Serviços Sociais das Forças Armadas e ao Cofre de Previdência das Forças Armadas é reservado o direito de proceder à confirmação das declarações.
 
-###### Art. 9.º Após a recepção e registo pelos Serviços Sociais das Forças Armadas dos boletins de inscrição, os respeitantes aos concorrentes subscritores do Cofre de Previdência das Forças Armadas serão remetidos a essa entidade para efeitos de classificação e subsequentes operações.
+Art. 9.º Após a recepção e registo pelos Serviços Sociais das Forças Armadas dos boletins de inscrição, os respeitantes aos concorrentes subscritores do Cofre de Previdência das Forças Armadas serão remetidos a essa entidade para efeitos de classificação e subsequentes operações.
 
-###### Art. 10.º A classificação será precedida das seguintes operações:
+Art. 10.º A classificação será precedida das seguintes operações:
 
 a) Exclusão de concorrentes cujos boletins apresentem deficiências que impossibilitem a classificação ou não obedeçam às condições do concurso, após as verificações realizadas para o efeito;
 
@@ -194,7 +214,7 @@ Oficiais e civis equiparados.
 
 Sargentos, furriéis, praças readmitidas e civis equiparados.
 
-###### Art. 11.º - 1. Em seguida, proceder-se-á à classificação dos concorrentes dos diversos escalões segundo a capitação de rendimento anual do respectivo agregado familiar. Constituem rendimento do agregado familiar todos os seus proventos de carácter permanente.
+Art. 11.º - 1. Em seguida, proceder-se-á à classificação dos concorrentes dos diversos escalões segundo a capitação de rendimento anual do respectivo agregado familiar. Constituem rendimento do agregado familiar todos os seus proventos de carácter permanente.
 
 2. Em caso de igualdade de classificação, aplicar-se-ão, sucessivamente, os seguintes critérios de preferência:
 
@@ -212,27 +232,27 @@ f) Maior antiguidade na admissão do beneficiário ou subscritor.
 
 3. Nos concursos extraordinários será considerado um novo escalão para efeitos de classificação, onde serão incluídos todos os beneficiários que não possam ser agrupados, por equiparação, nos escalões mencionados na alínea b) do artigo 10.º
 
-###### Art. 12.º As listas de exclusão e de classificação serão publicadas no Diário do Governo e poderão ser objecto de reclamação por parte dos interessados no prazo de trinta dias, a contar da data da publicação, com a dilação de cinco e dez dias para os residentes nas ilhas adjacentes e no ultramar, respectivamente.
+Art. 12.º As listas de exclusão e de classificação serão publicadas no Diário do Governo e poderão ser objecto de reclamação por parte dos interessados no prazo de trinta dias, a contar da data da publicação, com a dilação de cinco e dez dias para os residentes nas ilhas adjacentes e no ultramar, respectivamente.
 
-###### Art. 13.º - 1. Praticadas as diligências indispensáveis à apreciação das reclamações que não envolvam inquéritos demorados aos elementos contidos nos boletins de inscrição, serão estas decididas por deliberação da comissão directiva dos Serviços Sociais das Forças Armadas.
+Art. 13.º - 1. Praticadas as diligências indispensáveis à apreciação das reclamações que não envolvam inquéritos demorados aos elementos contidos nos boletins de inscrição, serão estas decididas por deliberação da comissão directiva dos Serviços Sociais das Forças Armadas.
 
 2. Desta deliberação há recurso, a interpor no prazo de quinze dias, contados da notificação aos interessados, para o Ministro da Defesa Nacional, não admitindo recurso contencioso a sua decisão.
 
 3. Decididas estas reclamações ou recursos, serão publicadas no Diário do Governo as alterações que as mesmas possam ter originado nas listas de classificação.
 
-###### Art. 14.º As reclamações ou recursos às listas de classificação, ou a posteriores alterações, que obriguem a realizar inquéritos demorados nos boletins de inscrição, serão apreciadas, com direito a recurso, de forma análoga à estabelecida no artigo anterior. A publicação no Diário do Governo das consequentes alterações às listas de classificação será feita à medida que forem sendo decididas estas reclamações ou recursos.
+Art. 14.º As reclamações ou recursos às listas de classificação, ou a posteriores alterações, que obriguem a realizar inquéritos demorados nos boletins de inscrição, serão apreciadas, com direito a recurso, de forma análoga à estabelecida no artigo anterior. A publicação no Diário do Governo das consequentes alterações às listas de classificação será feita à medida que forem sendo decididas estas reclamações ou recursos.
 
-###### Art. 15.º As listas de classificação não podem ser modificadas durante o prazo de validade do concurso, quaisquer que sejam as alterações sofridas nos elementos que serviram de base à classificação, sem prejuízo do disposto nos artigos 13.º, 14.º e 19.º
+Art. 15.º As listas de classificação não podem ser modificadas durante o prazo de validade do concurso, quaisquer que sejam as alterações sofridas nos elementos que serviram de base à classificação, sem prejuízo do disposto nos artigos 13.º, 14.º e 19.º
 
-###### Art. 16.º - 1. Publicadas as alterações às listas de classificação referidas no artigo 13.º, as casas postas a concurso, vagas ou a vagar no período de validade, serão atribuídas aos concorrentes de harmonia com a respectiva classificação.
+Art. 16.º - 1. Publicadas as alterações às listas de classificação referidas no artigo 13.º, as casas postas a concurso, vagas ou a vagar no período de validade, serão atribuídas aos concorrentes de harmonia com a respectiva classificação.
 
 2. Nas listas de classificação onde os concorrentes se encontrem agrupados por escalões, nos termos da alínea b) do artigo 10.º e n.º 3 do artigo 11.º, a distribuição será feita proporcionalmente ao número de inscrições em cada um deles.
 
-###### Art. 17.º Mantêm a classificação, com todos os direitos inerentes, os concorrentes cujo boletim de inscrição esteja sendo submetido a inquérito.
+Art. 17.º Mantêm a classificação, com todos os direitos inerentes, os concorrentes cujo boletim de inscrição esteja sendo submetido a inquérito.
 
-###### Art. 18.º O concorrente a quem foi atribuído, de harmonia com o artigo 16.º, um determinado fogo, será notificado para, no prazo de dez dias, declarar se o aceita e se continua a obedecer às condições de admissão ao concurso.
+Art. 18.º O concorrente a quem foi atribuído, de harmonia com o artigo 16.º, um determinado fogo, será notificado para, no prazo de dez dias, declarar se o aceita e se continua a obedecer às condições de admissão ao concurso.
 
-###### Art. 19.º - 1. Será excluído da correspondente lista de classificação e perderá os direitos inerentes o concorrente que:
+Art. 19.º - 1. Será excluído da correspondente lista de classificação e perderá os direitos inerentes o concorrente que:
 
 a) Não responder no prazo indicado no artigo anterior;
 
@@ -244,11 +264,11 @@ d) Tiver feito declarações falsas, incorrectas ou inexactas no seu boletim de 
 
 2. Deixará de ser considerado noutras listas de classificação o concorrente que, durante o prazo de validade do concurso, celebrar com os Serviços Sociais das Forças Armadas ou com o Cofre de Previdência das Forças Armadas um contrato de arrendamento.
 
-###### Art. 20.º - 1. Quando se vier a verificar que o número de inscrições resultantes dos concursos ordinários, para determinada localidade ou zona e tipo de casa, é inferior ao número de casas a distribuir, poderá a comissão directiva dos Serviços Sociais das Forças Armadas, durante o prazo de validade dos concursos, admitir a inscrição para essas casas de concorrentes a outras localidades ou zonas e tipos, sem prejuízo da posição dos inicialmente inscritos.
+Art. 20.º - 1. Quando se vier a verificar que o número de inscrições resultantes dos concursos ordinários, para determinada localidade ou zona e tipo de casa, é inferior ao número de casas a distribuir, poderá a comissão directiva dos Serviços Sociais das Forças Armadas, durante o prazo de validade dos concursos, admitir a inscrição para essas casas de concorrentes a outras localidades ou zonas e tipos, sem prejuízo da posição dos inicialmente inscritos.
 
 2. Quando o número de concorrentes não seja ainda suficiente, poderá abrir-se logo novo concurso, limitado às casas sobrantes.
 
-###### Art. 21.º - 1. Não se verificando qualquer das hipóteses referidas no artigo 19.º, deverá o concorrente providenciar para, nos oito dias subsequentes, celebrar o contrato de arrendamento sob a cominação do mesmo artigo.
+Art. 21.º - 1. Não se verificando qualquer das hipóteses referidas no artigo 19.º, deverá o concorrente providenciar para, nos oito dias subsequentes, celebrar o contrato de arrendamento sob a cominação do mesmo artigo.
 
 2. Os Serviços Sociais das Forças Armadas e o Cofre de Previdência das Forças Armadas celebrarão os respectivos contratos de arrendamento, os quais obedecerão à minuta geral aprovada pela comissão directiva.
 
@@ -256,9 +276,9 @@ d) Tiver feito declarações falsas, incorrectas ou inexactas no seu boletim de 
 
 4. O beneficiário ou subscritor admitido a concursos nos termos do n.º 2 do artigo 7.º deverá, no momento da celebração do contrato de arrendamento, fazer prova da rescisão do anterior contrato de arrendamento ou da renúncia da casa por conta do Estado, quando for admissível.
 
-###### Art. 22.º O contrato de arrendamento será feito pelo prazo de um mês, reduzido a escrito e renovável nos termos da lei geral.
+Art. 22.º O contrato de arrendamento será feito pelo prazo de um mês, reduzido a escrito e renovável nos termos da lei geral.
 
-###### Art. 23.º - 1. Além das indicadas na lei geral, são causas específicas de despejo:
+Art. 23.º - 1. Além das indicadas na lei geral, são causas específicas de despejo:
 
 a) Perder o inquilino a qualidade de beneficiário dos Serviços Sociais das Forças Armadas ou de subscritor do Cofre de Previdência das Forças Armadas, que serviu de fundamento à atribuição da habitação;
 
@@ -290,11 +310,11 @@ k) A falta de cumprimento das determinações da comissão directiva dos Serviç
 
 5. Os inquilinos obrigam-se a avisar os Serviços Sociais das Forças Armadas ou o Cofre de Previdência das Forças Armadas, conforme o caso, no prazo de trinta dias, por carta registada com aviso de recepção, da ocorrência de qualquer dos factos referidos nas alíneas c) e e), sob pena do pagamento em triplo das rendas que se vencerem posteriormente.
 
-###### Art. 24.º Os despejos serão ordenados por deliberação da comissão directiva dos Serviços Sociais das Forças Armadas ou da direcção do Cofre de Previdência das Forças Armadas, conforme o caso, com recurso, no prazo de quinze dias, para o Ministro da Defesa Nacional. Da decisão não haverá recurso contencioso.
+Art. 24.º Os despejos serão ordenados por deliberação da comissão directiva dos Serviços Sociais das Forças Armadas ou da direcção do Cofre de Previdência das Forças Armadas, conforme o caso, com recurso, no prazo de quinze dias, para o Ministro da Defesa Nacional. Da decisão não haverá recurso contencioso.
 
-###### Art. 25.º Os despejos serão executados por mandado assinado pelo presidente da comissão directiva ou da direcção, conforme o caso, coercivamente se necessário.
+Art. 25.º Os despejos serão executados por mandado assinado pelo presidente da comissão directiva ou da direcção, conforme o caso, coercivamente se necessário.
 
-###### Art. 26.º - 1. As rendas serão fixadas pela comissão directiva dos Serviços Sociais das Forças Armadas.
+Art. 26.º - 1. As rendas serão fixadas pela comissão directiva dos Serviços Sociais das Forças Armadas.
 
 Compete à direcção do Cofre de Previdência das Forças Armadas propor as das casas de sua propriedade.
 
@@ -302,7 +322,7 @@ Compete à direcção do Cofre de Previdência das Forças Armadas propor as das
 
 3. O pagamento das rendas aos Serviços Sociais das Forças Armadas e ao Cofre de Previdência das Forças Armadas, conforme o caso, será feito mediante desconto nos vencimentos, pensões ou subsídios do inquilino ou, como for acordado, pela forma designada no contrato.
 
-###### Art. 27.º - 1. A actualização das rendas é permitida:
+Art. 27.º - 1. A actualização das rendas é permitida:
 
 a) Quando se registe variação apreciável do custo da construção ou do custo de vida;
 
@@ -320,7 +340,7 @@ Se o arrendatário não quiser sujeitar-se ao aumento, deve entregar a casa desp
 
 6. Os arrendatários para os quais se verifique um acréscimo, para mais do dobro, da capitação de rendimento que serviu de base à atribuição de casas de renda económica obrigam-se a dar conhecimento à entidade arrendatária.
 
-###### Art. 28.º - 1. O direito ao arrendamento, seja qual for o regime matrimonial, não se comunica ao cônjuge do arrendatário e caduca por sua morte, salvo nos casos seguintes:
+Art. 28.º - 1. O direito ao arrendamento, seja qual for o regime matrimonial, não se comunica ao cônjuge do arrendatário e caduca por sua morte, salvo nos casos seguintes:
 
 a) Se lhe sobreviver cônjuge não separado de pessoas e bens ou de facto;
 
@@ -338,16 +358,16 @@ b) Se, em caso de divórcio ou de separação judicial de pessoas e bens, nos te
 
 7. As pessoas com direito à transmissão do arrendamento ou que pretendam continuar transitòriamente na casa terão o prazo de noventa dias para requererem em conformidade, por si ou representante legal.
 
-###### Art. 29.º - 1. No caso de transmissão do direito de arrendamento nos termos indicados no artigo anterior, observar-se-á o disposto no artigo 23.º, na parte aplicável, se for caso disso.
+Art. 29.º - 1. No caso de transmissão do direito de arrendamento nos termos indicados no artigo anterior, observar-se-á o disposto no artigo 23.º, na parte aplicável, se for caso disso.
 
 2. Manterá, contudo, o direito à casa que habita o locatário que deixe de ter pessoas de família a seu cargo, quando declare que deseja alojamento num lar ou recolhimento, até que esta pretensão lhe seja satisfeita.
 
-###### Art. 30.º Os concorrentes que prestem declarações falsas, incompletas ou inexactas e que não façam comunicações a que são obrigados por este diploma, independentemente das sanções disciplinares ou criminais aplicáveis ou delas cominadas, incorrem em responsabilidade civil por todos os prejuízos que advierem aos Serviços Sociais das Forças Armadas ou ao Cofre de Previdência das Forças Armadas.
+Art. 30.º Os concorrentes que prestem declarações falsas, incompletas ou inexactas e que não façam comunicações a que são obrigados por este diploma, independentemente das sanções disciplinares ou criminais aplicáveis ou delas cominadas, incorrem em responsabilidade civil por todos os prejuízos que advierem aos Serviços Sociais das Forças Armadas ou ao Cofre de Previdência das Forças Armadas.
 
-###### Art. 31.º As trocas de habitação só são permitidas quando possível e delas resultem soluções habitacionais mais perfeitas, por apreciação e decisão da comissão directiva dos Serviços Sociais das Forças Armadas ou da direcção do Cofre de Previdência das Forças Armadas, conforme o caso.
+Art. 31.º As trocas de habitação só são permitidas quando possível e delas resultem soluções habitacionais mais perfeitas, por apreciação e decisão da comissão directiva dos Serviços Sociais das Forças Armadas ou da direcção do Cofre de Previdência das Forças Armadas, conforme o caso.
 
-###### Art. 32.º Sempre que o agregado familiar de um beneficiário ou subscritor, que serviu de base para atribuição de uma casa, seja diminuído e se verifique ser o seu tipo inadequado às necessidades verificadas após essa redução, a comissão directiva dos Serviços Sociais das Forças Armadas ou a direcção do Cofre de Previdência das Forças Armadas, segundo o caso, poderão apresentar o facto ao Ministro da Defesa Nacional, em proposta fundamentada, a fim de lhe ser aprovado o direito de promover a sua mudança para nova casa, na mesma zona ou localidade, de harmonia com as necessidades reais do agregado familiar, resultante.
+Art. 32.º Sempre que o agregado familiar de um beneficiário ou subscritor, que serviu de base para atribuição de uma casa, seja diminuído e se verifique ser o seu tipo inadequado às necessidades verificadas após essa redução, a comissão directiva dos Serviços Sociais das Forças Armadas ou a direcção do Cofre de Previdência das Forças Armadas, segundo o caso, poderão apresentar o facto ao Ministro da Defesa Nacional, em proposta fundamentada, a fim de lhe ser aprovado o direito de promover a sua mudança para nova casa, na mesma zona ou localidade, de harmonia com as necessidades reais do agregado familiar, resultante.
 
-###### Art. 33.º Nos casos omissos, quando as disposições deste diploma não possam aplicar-se por analogia, observar-se-ão, subsidiàriamente, as regras de legislação geral sobre inquilinato para habitação.
+Art. 33.º Nos casos omissos, quando as disposições deste diploma não possam aplicar-se por analogia, observar-se-ão, subsidiàriamente, as regras de legislação geral sobre inquilinato para habitação.
 
 Presidência do Conselho, 16 de Fevereiro de 1970. - O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.

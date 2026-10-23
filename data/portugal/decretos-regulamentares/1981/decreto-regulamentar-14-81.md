@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/04/08100/08800883.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd9975aae167e3b0d12feb1575eeebcd8fdf071db5557fb66665026de4353965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f38037beb13731bd78a4437c36a61d2a571b50fee2303b04f5aee33ffaf6ad49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Educação Especial
+- Família
+- Proteção ao Deficiente
+- Segurança Social
+- Subsídio
+- Subsídio de Educação Especial
 relationships:
 - type: amended_by
   target: pt:dre:75170442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158179:por
+  label: "Mantido em vigor pelo DEC LEI.133-B/97.1997.05.30.MSSS de 30-Mai DR.IS-A [124]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-b-1997-158179
+  date: '1997-05-30'
+- type: amended_by
+  target: pt:dre:437804:por
+  label: "Alterados os arts. 2.º e 6.º pelo DR.19/98.1998.08.14.MTS DR.IS-B [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1998-437804
+  date: '1998-08-14'
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579563:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 167/1981, Série I de 1981-07-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-579563
+  date: '1981-07-23'
+- type: repealed_by
+  target: pt:dre:75170442:por
+  label: Revogado, com efeitos a partir de 01.07.2016, o presente diploma pelo(a) Decreto Regulamentar n.º 3/2016 - Diário
+    da República n.º 161/2016, Série I de 2016-08-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-2016-75170442
+  date: '2016-08-23'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:33Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +223,7 @@ c) Outros proventos que intervenham na economia do agregado.
 
 A comparticipação familiar de um agregado com mais de um deficiente com direito a subsídio determina-se aplicando ao valor médio das comparticipações calculadas para cada deficiente a correspondente percentagem, de acordo com o quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/08100/08800883.pdf))](https://files.diariodarepublica.pt/1s/1981/04/08100/08800883.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/08100/08800883.pdf)
 
 ###### Artigo 12.º — (Requerimento e instrução do processo)
 
@@ -235,8 +271,8 @@ Este diploma produz efeitos a partir de 1 de Janeiro de 1981.
 
 Francisco José Pereira Pinto Balsemão - João António de Morais Leitão - Carlos Matos Chaves de Macedo - Eusébio Marques de Carvalho.
 
-**Promulgado em 27 de Março de 1981.**
+Promulgado em 27 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

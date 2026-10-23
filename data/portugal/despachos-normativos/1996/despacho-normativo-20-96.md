@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/20/1996/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/20-1996-457002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f6b76d4c9c3d33e9ea791dc02745f63fee8e78acf7f9178e636495e32e3a47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0a9d7f26d92f81279ec09999daaf3822388ff11a0e378e32f554a9908d79acf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
+- Avaliação de Conhecimentos
 - Ensino Tecnológico
 - Equivalência de Habilitações Literárias
 - Exame
-- Avaliação de Conhecimentos
+- Plano de Estudos
 - Regulamento
 relationships:
 - type: amended_by
@@ -97,16 +97,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/1991/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/1991/07/16/p/dre
+- type: cites
+  target: pt:dre:314396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515440:por
+  label: "Revogado pelo DN.12/97.1997.02.18.ME, DR.IS-B [55] de 1997.03.06\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/12-1997-515440
+  date: '1997-02-18'
 article_structure:
   article_count: 0
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:04Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +164,9 @@ Determino o seguinte:
 
 Disposições comuns aos exames finais de âmbito nacional e aos exames de equivalência à frequência
 
-#### SECÇÃO I — Inscrições
+SECÇÃO I
+
+Inscrições
 
 10 - ...
 
@@ -187,7 +226,9 @@ b) Na escola pública pretendida para a realização de exames, pelos candidatos
 
 13.4 - (Anterior n.º 13.3.)
 
-#### SECÇÃO II — Realização de exames
+SECÇÃO II
+
+Realização de exames
 
 14 - ...
 
@@ -235,7 +276,9 @@ c) ...
 
 20.4 - ...
 
-#### SECÇÃO III — Reapreciação das provas
+SECÇÃO III
+
+Reapreciação das provas
 
 22 - ...
 
@@ -289,7 +332,9 @@ c) ...
 
 24.12 - Os júris de reapreciação decidem em última instância, sendo esta decisão definitiva para todos os efeitos legais.
 
-### CAPÍTULO V — Situações especiais
+CAPÍTULO V
+
+Situações especiais
 
 26 - ...
 
@@ -343,11 +388,11 @@ Ministério da Educação, 7 de Maio de 1996. - O Ministro da Educação, Eduard
 
 ## ANEXO I — Exames finais de âmbito nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf))](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
 
 ## ANEXO II — Exames de equivalência à frequência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf))](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
 
 ## ANEXO III — Regulamento dos Exames do Ensino Secundário
 
@@ -713,8 +758,8 @@ h) Aos professores que intervenham na elaboração das provas de exame podem ser
 
 ## ANEXO I — Exames finais de âmbito nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf))](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
 
 ## ANEXO II — Exames de equivalência à frequência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf))](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/05/118b00/12081221.pdf)

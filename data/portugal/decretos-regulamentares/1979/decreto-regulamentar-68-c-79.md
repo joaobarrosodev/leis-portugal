@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 296/1979, 2º Suplemento, Série I de 1979-12-26
   number: '296'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3350-(17) a 3350-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29602/00170026.pdf
 entry_into_force_dates: []
@@ -46,36 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-c-1979-430028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8204f1055ed9e94e2b872beec2b2b68397d02c0f0dbb8f88f4255667db9f9c68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ae5ccd325024f97049ae7b6c304614194888418d7c08d8753095c8e4bc69c90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho Administrativo
+- Conselho Técnico
+- Definição de Competências
+- Direcção Geral dos Serviços Veterinários
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382612:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:57Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +121,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção-Geral dos Serviços Veterinários, abreviadamente designada por DGSV, criada pelo artigo 42.º e alínea i) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, tem como objectivos gerais promover, coordenar e orientar, a nível nacional, a defesa sanitária dos animais, a preservação e a valorização do património das espécies de interesse zoo-económico, a salvaguarda da saúde pública em relação às zoonoses transmissíveis ou prejudiciais ao homem e, bem assim, assegurar as acções do âmbito da higiene pública veterinária.
+Artigo 1.º - 1 - A Direcção-Geral dos Serviços Veterinários, abreviadamente designada por DGSV, criada pelo artigo 42.º e alínea i) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, tem como objectivos gerais promover, coordenar e orientar, a nível nacional, a defesa sanitária dos animais, a preservação e a valorização do património das espécies de interesse zoo-económico, a salvaguarda da saúde pública em relação às zoonoses transmissíveis ou prejudiciais ao homem e, bem assim, assegurar as acções do âmbito da higiene pública veterinária.
 
 2 - As atribuições da DGSV são as constantes do artigo 31.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, e quaisquer outras que lhe sejam cometidas por lei.
 
-###### Art. 2.º - 1 - A DGSV é um organismo dotado de autonomia administrativa.
+Art. 2.º - 1 - A DGSV é um organismo dotado de autonomia administrativa.
 
 2 - Constituem receitas próprias da DGSV:
 
@@ -112,19 +143,19 @@ e) Quaisquer outras receitas que lhe sejam atribuídas por lei ou contrato.
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º A DGSV é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º A DGSV é dirigida por um director-geral, coadjuvado por um subdirector-geral, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos da Direcção-Geral dos Serviços Veterinários:
+Art. 4.º São órgãos da Direcção-Geral dos Serviços Veterinários:
 
 a) O conselho técnico;
 
 b) O conselho administrativo.
 
-###### Art. 5.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director-geral.
+Art. 5.º - 1 - O conselho técnico é um órgão de consulta e apoio ao director-geral.
 
 2 - O conselho técnico é constituído pelos seguintes membros:
 
@@ -156,7 +187,7 @@ j) Os directores de serviços da DGSV;
 
 6 - As entidades estranhas ao MAP, convidadas de conformidade com o número anterior, terão direito a uma senha de presença por cada reunião a que assistam, bem como às despesas de transporte, nos termos legais.
 
-###### Art. 6.º - 1 - Ao conselho técnico compete emitir parecer sobre:
+Art. 6.º - 1 - Ao conselho técnico compete emitir parecer sobre:
 
 a) Os projectos de diploma que interfiram com a actividade da Direcção-Geral;
 
@@ -184,11 +215,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 7.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque, ou a pedido de pelo menos dois terços dos seus membros.
+Art. 7.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque, ou a pedido de pelo menos dois terços dos seus membros.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 8.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -200,7 +231,7 @@ d) O director de Serviços de Administração.
 
 2 - Servirá de secretário o chefe da Repartição de Administração Patrimonial e Financeira.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento da Direcção-Geral de conta das dotações consignadas no OGE e propor as alterações orçamentais consideradas necessárias;
 
@@ -234,7 +265,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 10.º A Direcção-Geral dos Serviços Veterinários dispõe dos seguintes serviços:
+Art. 10.º A Direcção-Geral dos Serviços Veterinários dispõe dos seguintes serviços:
 
 A) Serviços de apoio:
 
@@ -262,11 +293,11 @@ f) Divisão Veterinária das Fronteiras.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições e preparação da programação o acompanhamento e a análise da sua execução, o ordenamento das espécies animais e a estatística pecuária com incidência no âmbito das atribuições e actividades da Direcção-Geral.
+Art. 11.º - 1 - O Gabinete de Planeamento tem como atribuições e preparação da programação o acompanhamento e a análise da sua execução, o ordenamento das espécies animais e a estatística pecuária com incidência no âmbito das atribuições e actividades da Direcção-Geral.
 
 2 - O Gabinete de Planeamento assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, nomeadamente com o Gabinete de Planeamento do MAP, ou com outras estranhas ao Ministério, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 12.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
+Art. 12.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
 
 a) De Estudos e Programação;
 
@@ -274,7 +305,7 @@ b) De Ordenamento;
 
 c) De Estatística.
 
-###### Art. 13.º À Divisão de Estudos e Programação compete:
+Art. 13.º À Divisão de Estudos e Programação compete:
 
 a) Promover e coordenar a elaboração dos programas e projectos, bem como assegurar a sua apresentação;
 
@@ -288,7 +319,7 @@ e) Coordenar e assegurar, em colaboração com o GICI, a representação da Dire
 
 f) Coordenar e compatibilizar os programas, projectos e acções elaborados pelos Serviços Regionais de Agricultura sobre as matérias específicas de âmbito veterinário.
 
-###### Art. 14.º À Divisão de Ordenamento compete:
+Art. 14.º À Divisão de Ordenamento compete:
 
 a) Recolher e tratar os dados disponíveis no domínio da sanidade, higiene, fomento e melhoramento animal, com vista à regulamentação do ordenamento pecuário;
 
@@ -296,7 +327,7 @@ b) Recolher e tratar os dados disponíveis tendo em vista a definição e implan
 
 c) Propor medidas para utilização nos sistemas de exploração regionais das espécies animais mais adequadas.
 
-###### Art. 15.º À Divisão de Estatística compete:
+Art. 15.º À Divisão de Estatística compete:
 
 a) Manter actualizada a informação estatística, económica e factual relacionada com a actividade pecuária nacional e estrangeira;
 
@@ -306,11 +337,11 @@ c) Colaborar com o Instituto Nacional de Estatística em tudo o que respeita a a
 
 d) Prestar, a nível internacional, designadamente no que se refere ao Office International des Epizooties, as informações sanitárias e outras do âmbito da DGSV.
 
-###### Art. 16.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 16.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação que lhe são cometidas.
 
-###### Art. 17.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
+Art. 17.º - 1 - A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
 
 a) De Administração Patrimonial e Financeira;
 
@@ -320,7 +351,7 @@ b) De Pessoal e Assuntos Gerais.
 
 3 - O pessoal referido no número anterior depende funcionalmente do director de Serviços de Administração e hierarquicamente do respectivo dirigente do estabelecimento.
 
-###### Art. 18.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe da Repartição e compreende as seguintes secções:
+Art. 18.º A Repartição de Administração Patrimonial e Financeira é dirigida por um chefe da Repartição e compreende as seguintes secções:
 
 a) Do Património e Aprovisionamento;
 
@@ -330,7 +361,7 @@ c) De Contabilidade;
 
 d) De Instalações e Parque Automóvel.
 
-###### Art. 19.º À Secção do Património e Aprovisionamento compete:
+Art. 19.º À Secção do Património e Aprovisionamento compete:
 
 a) Organizar e manter actualizado o inventário da Direcção-Geral respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -340,7 +371,7 @@ c) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 d) Garantir a manutenção e conservação do equipamento, mobiliário e outro material.
 
-###### Art. 20.º À Secção de Orçamento e Conta compete:
+Art. 20.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização dos orçamentos da Direcção-Geral;
 
@@ -356,7 +387,7 @@ f) Organizar a conta anual de gerência e preparar os elementos necessários à 
 
 g) Manter organizado o arquivo de toda a documentação das gerências findas.
 
-###### Art. 21.º À Secção de Contabilidade compete:
+Art. 21.º À Secção de Contabilidade compete:
 
 a) Garantir a organização funcional do conselho administrativo;
 
@@ -368,7 +399,7 @@ d) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço;
 
 e) Processar e verificar todos os documentos de receita e despesa emitidos pelos diversos serviços.
 
-###### Art. 22.º À Secção de Instalações e Parque Automóvel compete:
+Art. 22.º À Secção de Instalações e Parque Automóvel compete:
 
 a) Assegurar o aproveitamento racional e utilização dos edifícios e outras instalações da Direcção-Geral;
 
@@ -382,7 +413,7 @@ e) Assegurar a eficiência das redes de comunicação interna e externa dos serv
 
 f) Assegurar a gestão do parque de viaturas automóveis em colaboração com a Secretaria-Geral do MAP e de acordo com as instruções do Gabinete de Gestão de Viaturas do Estado.
 
-###### Art. 23.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 23.º Adstrita à Repartição de Administração Patrimonial e Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à Direcção-Geral;
 
@@ -390,13 +421,13 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados os livros de tesouraria.
 
-###### Art. 24.º A Repartição de Pessoal e Assuntos Gerais é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 24.º A Repartição de Pessoal e Assuntos Gerais é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) De Pessoal;
 
 b) De Assuntos Gerais.
 
-###### Art. 25.º À Secção de Pessoal compete:
+Art. 25.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da Direcção-Geral;
 
@@ -410,7 +441,7 @@ e) Superintender no pessoal auxiliar;
 
 f) Instruir os processos de acidente em serviço e dar-lhes o devido andamento.
 
-###### Art. 26.º À Secção de Assuntos Gerais compete:
+Art. 26.º À Secção de Assuntos Gerais compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de todo o expediente da Direcção-Geral, mantendo para o efeito um serviço de microfilmagem;
 
@@ -420,7 +451,7 @@ c) Responsabilizar-se pelo arquivo geral, estabelecendo para o efeito uma codifi
 
 d) Assegurar uma adequada circulação interna de documentos e normas dimanadas dos órgãos e serviços da Direcção-Geral.
 
-###### Art. 27.º A Divisão de Documentação e Informação Científica e Técnica é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
+Art. 27.º A Divisão de Documentação e Informação Científica e Técnica é dirigida por um chefe de divisão, competindo-lhe, em colaboração com o correspondente serviço central do Ministério da Agricultura e Pescas:
 
 a) Promover a recolha, tratamento, indexação e difusão da documentação veterinária pertinente, por forma a garantir ao sector veterinário as informações científicas e outras indispensáveis à sua actividade;
 
@@ -442,7 +473,7 @@ i) Assegurar o apoio logístico a congressos, seminários, colóquios e outras r
 
 j) Organizar a participação da Direcção-Geral em feiras e exposições, em colaboração com a DGER.
 
-###### Art. 28.º O Centro de Habilitação Técnico-Profissional é dirigido por um técnico superior, competindo-lhe, em colaboração com a DGER:
+Art. 28.º O Centro de Habilitação Técnico-Profissional é dirigido por um técnico superior, competindo-lhe, em colaboração com a DGER:
 
 a) Promover, assegurar e orientar, em colaboração com os diversos serviços da Direcção-Geral ou a ela estranhos, cursos, simpósios, mesas-redondas e outras actividades, no sentido de adequar às necessidades a preparação dos quadros técnicos e auxiliares, do âmbito dos serviços veterinários;
 
@@ -452,11 +483,11 @@ c) Cooperar na preparação, actualização e reciclagem dos trabalhadores dos v
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Sanidade Animal tem como atribuições coordenar, apoiar e acompanhar a defesa sanitária dos animais, assegurando a sua execução em casos especiais, bem como coordenar e controlar as acções de defesa da saúde pública contra as enfermidades dos animais transmissíveis ao homem.
+Art. 29.º - 1 - A Direcção de Serviços de Sanidade Animal tem como atribuições coordenar, apoiar e acompanhar a defesa sanitária dos animais, assegurando a sua execução em casos especiais, bem como coordenar e controlar as acções de defesa da saúde pública contra as enfermidades dos animais transmissíveis ao homem.
 
 2 - A Direcção dos Serviços de Sanidade Animal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, designadamente com os serviços regionais de agricultura, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 30.º A Direcção de Serviços de Sanidade Animal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 30.º A Direcção de Serviços de Sanidade Animal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Epizootologia e Administração Sanitária;
 
@@ -464,7 +495,7 @@ b) De Meios de Defesa Sanitária;
 
 c) De Profilaxia e Luta contra as Doenças dos Animais.
 
-###### Art. 31.º À Divisão de Epizootologia e Administração Sanitária compete:
+Art. 31.º À Divisão de Epizootologia e Administração Sanitária compete:
 
 a) Estudar a permanente evolução das doenças infecto-contagiosas e parasitárias dos animais que grassam dentro do País e propor as medidas consideradas pertinentes para as prevenir e combater;
 
@@ -482,7 +513,7 @@ g) Apreciar o conteúdo das infracções cometidas em matéria sanitária e emit
 
 h) Promover, pelas formas julgadas mais convenientes, o apoio às sociedades zoófilas.
 
-###### Art. 32.º À Divisão de Meios de Defesa Sanitária compete:
+Art. 32.º À Divisão de Meios de Defesa Sanitária compete:
 
 a) Colaborar com os serviços regionais de agricultura em acções de educação sanitária veterinária;
 
@@ -490,7 +521,7 @@ b) Organizar o parque de material sanitário, mantendo-o operacional para as ac�
 
 c) Cooperar com os respectivos serviços da Direcção-Geral de Saúde na adopção de medidas de defesa de saúde pública relativamente às enfermidades dos animais transmissíveis ao homem.
 
-###### Art. 33.º À Divisão de Profilaxia e da Luta contra as Doenças dos Animais compete, no que respeita aos animais domésticos, abelhas, animais silvestres e aquáticos:
+Art. 33.º À Divisão de Profilaxia e da Luta contra as Doenças dos Animais compete, no que respeita aos animais domésticos, abelhas, animais silvestres e aquáticos:
 
 a) Coordenar, apoiar e acompanhar as campanhas profilácticas e de saneamento das doenças infecto-contagiosas e parasitárias dos gados transmissíveis ou não ao homem;
 
@@ -498,11 +529,11 @@ b) Elaborar as bases programáticas e os regulamentos normativos para a execuç�
 
 c) Normalizar a colheita de dados informativos e coligir a estatística relativa às tarefas próprias das campanhas profilácticas e de saneamento.
 
-###### Art. 34.º - 1 - A Direcção de Serviços de Higiene Pública Veterinária tem como atribuições a promoção, coordenação e contrôle das acções de higiene pública veterinária, tendo em vista a adopção de medidas que contribuam não só para a saúde dos animais, como também para a genuinidade e salubridade dos produtos deles originários destinados à alimentação humana.
+Art. 34.º - 1 - A Direcção de Serviços de Higiene Pública Veterinária tem como atribuições a promoção, coordenação e contrôle das acções de higiene pública veterinária, tendo em vista a adopção de medidas que contribuam não só para a saúde dos animais, como também para a genuinidade e salubridade dos produtos deles originários destinados à alimentação humana.
 
 2 - A Direcção de Serviços de Higiene Pública Veterinária assegura as ligações com outras unidades do Ministério da Agricultura e Pescas, designadamente com os serviços regionais de agricultura, ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 35.º A Direcção de Serviços de Higiene Pública Veterinária é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 35.º A Direcção de Serviços de Higiene Pública Veterinária é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Higiene Animal;
 
@@ -510,7 +541,7 @@ b) De Higiene das Instalações e dos Produtos de Origem Animal;
 
 c) De Inspecção Sanitária.
 
-###### Art. 36.º À Divisão de Higiene Animal compete:
+Art. 36.º À Divisão de Higiene Animal compete:
 
 a) Contribuir para a defesa da saúde e produtividade dos animais, participando nos estudos que visem a melhoria das condições do seu habitat, do alojamento e exploração;
 
@@ -522,7 +553,7 @@ d) Colaborar no estudo e regulamentação dos meios de transporte dos animais, s
 
 e) Dar apoio à defesa do meio ambiente animal e de salubridade pública, colaborando com os serviços intervenientes neste campo, especialmente com os de higiene e defesa animal e de produção agrária dos serviços regionais de agricultura.
 
-###### Art. 37.º À Divisão de Higiene das Instalações e dos Produtos de Origem Animal compete:
+Art. 37.º À Divisão de Higiene das Instalações e dos Produtos de Origem Animal compete:
 
 a) Fixar os requisitos e normas hígio-sanitários a observar na instalação e funcionamento dos estabelecimentos relacionados com os produtos alimentares de origem animal destinados a consumo público;
 
@@ -536,7 +567,7 @@ e) Estabelecer as directrizes técnicas a observar na vigilância hígio-sanitá
 
 f) Cooperar com os organismos competentes em matéria de utilização do frio.
 
-###### Art. 38.º À Divisão de Inspecção Sanitária compete:
+Art. 38.º À Divisão de Inspecção Sanitária compete:
 
 a) Emitir normas e instruções e apoiar os serviços regionais de agricultura na execução das acções de inspecção sanitária dos animais, seus produtos e subprodutos, frescos ou preparados, destinados ao consumo público, incluindo o pescado;
 
@@ -554,11 +585,11 @@ g) Fixar marcas sanitárias e de identificação dos produtos alimentares de ori
 
 h) Analisar e interpretar os relatórios e elementos estatísticos respeitantes aos serviços de inspecção sanitária.
 
-###### Art. 39.º - 1 - A Direcção de Serviços de Fomento e Melhoramento Animal tem como atribuições o fomento e melhoramento zootécnico, compatibilizando, coordenando, regulamentando e apoiando as necessárias acções conducentes à maior produtividade e rendibilidade das diferentes espécies animais e ainda à defesa do património genético das raças nacionais.
+Art. 39.º - 1 - A Direcção de Serviços de Fomento e Melhoramento Animal tem como atribuições o fomento e melhoramento zootécnico, compatibilizando, coordenando, regulamentando e apoiando as necessárias acções conducentes à maior produtividade e rendibilidade das diferentes espécies animais e ainda à defesa do património genético das raças nacionais.
 
 2 - A Direcção dos Serviços de Fomento e Melhoramento Animal assegura a ligação com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 40.º A Direcção de Serviços de Fomento e Melhoramento Animal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 40.º A Direcção de Serviços de Fomento e Melhoramento Animal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Identificação Animal, Livros Genealógicos e Registos Zootécnicos;
 
@@ -566,7 +597,7 @@ b) De Fomento e Melhoramento Zootécnico;
 
 c) De Alimentação Animal.
 
-###### Art. 41.º À Divisão de Identificação Animal, Livros Genealógicos e Registos Zootécnicos compete:
+Art. 41.º À Divisão de Identificação Animal, Livros Genealógicos e Registos Zootécnicos compete:
 
 a) Organizar e coordenar a execução dos sistemas de identificação;
 
@@ -582,7 +613,7 @@ f) Estabelecer a classificação dos concursos pecuários, dos leilões de repro
 
 g) Colaborar com as associações e cooperativas de criadores de animais nas acções que tenham por objectivo o melhoramento zootécnico.
 
-###### Art. 42.º À Divisão de Fomento e Melhoramento Zootécnico compete:
+Art. 42.º À Divisão de Fomento e Melhoramento Zootécnico compete:
 
 a) Promover em colaboração com os serviços regionais de agricultura, a expansão das espécies e raças de interesse económico, segundo os programas de desenvolvimento estabelecidos;
 
@@ -602,7 +633,7 @@ h) Estabelecer normas técnicas referentes ao exercício das actividades de repr
 
 i) Designar ou propor os técnicos para orientar e controlar a execução das acções decorrentes das delegações dadas pela Direcção-Geral às associações de criadores e cooperativas, ouvidos os serviços regionais de agricultura da área ou áreas de influência daquelas.
 
-###### Art. 43.º À Divisão de Alimentação Animal compete:
+Art. 43.º À Divisão de Alimentação Animal compete:
 
 a) Dar cumprimento às resoluções adoptadas pela Comissão de Alimentação Animal, criada pelo [Decreto n.º 104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202), de 28 de Setembro;
 
@@ -616,11 +647,11 @@ e) Promover a fiscalização das características dos alimentos simples e compos
 
 f) Propor as medidas consideradas necessárias para a permanente vigilância respeitante à presença de aditivos nos alimentos compostos e sua respectiva dosagem.
 
-###### Art. 44.º - 1 - A Estação Nacional de Selecção e Reprodução Animal tem como atribuições a prospecção e avaliação do comportamento reprodutivo dos animais, a caracterização e estudo das causas da infertilidade e seu diagnóstico e a elaboração de programas que tenham por fim o combate à esterilidade.
+Art. 44.º - 1 - A Estação Nacional de Selecção e Reprodução Animal tem como atribuições a prospecção e avaliação do comportamento reprodutivo dos animais, a caracterização e estudo das causas da infertilidade e seu diagnóstico e a elaboração de programas que tenham por fim o combate à esterilidade.
 
 2 - A Estação Nacional de Selecção e Reprodução Animal assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 45.º A Estação Nacional de Selecção e Reprodução Animal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 45.º A Estação Nacional de Selecção e Reprodução Animal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Patologia Clínica e Recuperação de Reprodutores;
 
@@ -630,7 +661,7 @@ c) De Banco Nacional de Sémen e Centros de Inseminação Artificial;
 
 d) De Avaliação de Reprodutores.
 
-###### Art. 46.º À Divisão de Patologia Clínica e Recuperação de Reprodutores compete:
+Art. 46.º À Divisão de Patologia Clínica e Recuperação de Reprodutores compete:
 
 a) Promover ou proceder ao exame de reprodutores masculinos e femininos com vista a detectar as anomalias relacionadas com a procriação;
 
@@ -640,7 +671,7 @@ c) Estabelecer o diagnóstico etiológico e aconselhar a terapêutica adequada n
 
 d) Apoiar os serviços regionais de agricultura na prestação de assistência técnica especializada.
 
-###### Art. 47.º À Divisão Laboratorial da Fisiopatologia da Reprodução compete:
+Art. 47.º À Divisão Laboratorial da Fisiopatologia da Reprodução compete:
 
 a) Realizar análises microbiológicas, bioquímicas, físico-químicas e outras destinadas à avaliação do sémen e outros meios biológicos e à diagnose das afecções da reprodução;
 
@@ -648,7 +679,7 @@ b) Caracterizar os grupos sanguíneos das diferentes espécies animais;
 
 c) Proceder a estudos e ensaios sobre técnicas de reprodução animal.
 
-###### Art. 48.º À Divisão do Banco Nacional de Sémen e Centros de Inseminação Artificial compete:
+Art. 48.º À Divisão do Banco Nacional de Sémen e Centros de Inseminação Artificial compete:
 
 a) Manter as quantidades de sémen, produzido no País ou importado, necessário à prática da inseminação artificial e constituir reservas para a manutenção do património genético das raças nacionais;
 
@@ -674,7 +705,7 @@ l) Colaborar nos esquemas de inseminação artificial dos animais em testagem;
 
 m) Proceder a ensaios de reprodução das diferentes espécies animais e incentivar a inseminação artificial através de apoio especializado.
 
-###### Art. 49.º À Divisão de Avaliação de Reprodutores compete:
+Art. 49.º À Divisão de Avaliação de Reprodutores compete:
 
 a) Executar e ou controlar os trabalhos de testagem de reprodutores;
 
@@ -688,17 +719,17 @@ e) Apoiar, coordenar e acompanhar os centros de testagem;
 
 f) Recolher os elementos dos contrastes funcionais e de descendência para efeitos de avaliação e aprovação de reprodutores.
 
-###### Art. 50.º - 1 - A Estação Nacional de Avicultura e Cunicultura tem como atribuições o fomento das espécies avícolas e cunícolas, a avaliação genética das espécies, raças ou estirpes cuja exploração tenha interesse zootécnico e a realização da testagem da eficiência biológica dos alimentos e aditivos utilizados na alimentação das aves e leporídeos.
+Art. 50.º - 1 - A Estação Nacional de Avicultura e Cunicultura tem como atribuições o fomento das espécies avícolas e cunícolas, a avaliação genética das espécies, raças ou estirpes cuja exploração tenha interesse zootécnico e a realização da testagem da eficiência biológica dos alimentos e aditivos utilizados na alimentação das aves e leporídeos.
 
 2 - A Estação Nacional de Avicultura e Cunicultura assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhes estão cometidas.
 
-###### Art. 51.º A Estação Nacional de Avicultura e Cunicultura é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 51.º A Estação Nacional de Avicultura e Cunicultura é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) De Avicultura;
 
 b) De Cunicultura.
 
-###### Art. 52.º À Divisão de Avicultura compete:
+Art. 52.º À Divisão de Avicultura compete:
 
 a) Avaliar periodicamente, através das informações fornecidas pelos serviços regionais de agricultura, o comportamento produtivo das explorações avícolas;
 
@@ -708,7 +739,7 @@ c) Promover e colaborar na testagem da eficácia biológica dos alimentos e adit
 
 d) Apoiar os serviços regionais de agricultura na assistência técnica especializada.
 
-###### Art. 53.º À Divisão de Cunicultura compete:
+Art. 53.º À Divisão de Cunicultura compete:
 
 a) Avaliar periodicamente o comportamento produtivo das explorações cunícolas através das informações fornecidas pelos serviços regionais de agricultura;
 
@@ -720,7 +751,7 @@ d) Apoiar os serviços regionais de agricultura na assistência técnica especia
 
 e) Cooperar no fomento da cunicultura e promover a produção de reprodutores destinados às explorações complementares da actividade agrícola.
 
-###### Art. 54.º - 1 - A Divisão Veterinária das Fronteiras é dirigida por um chefe de divisão, competindo-lhe:
+Art. 54.º - 1 - A Divisão Veterinária das Fronteiras é dirigida por um chefe de divisão, competindo-lhe:
 
 a) Adoptar providências com o fim de proteger os efectivos animais e a saúde pública contra as doenças infecto-contagiosas e parasitárias vindas do exterior;
 
@@ -738,39 +769,41 @@ e) Promover a instalação de estações ou postos quarentenários para animais,
 
 4 - Os actos periciais nos postos de apoio às alfândegas serão realizados por médicos veterinários dos respectivos serviços regionais de agricultura, por delegação da Direcção-Geral dos Serviços Veterinários.
 
-### CAPÍTULO III — SECÇÃO I
+### CAPÍTULO III
+
+#### SECÇÃO I
 
 Dos quadros de pessoal
 
-###### Art. 55.º A DGSV disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
+Art. 55.º A DGSV disporá, para o desempenho das suas atribuições, do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 56.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
+Art. 56.º O tesoureiro terá direito a um abono para falhas de acordo com a lei geral.
 
-###### Art. 57.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas temporariamente libertos por motivo de provimento dos seus titulares em lugares de pessoal dirigente da BGSV só poderão ser preenchidos interinamente e mediante observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 25 de Novembro.
+Art. 57.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas temporariamente libertos por motivo de provimento dos seus titulares em lugares de pessoal dirigente da BGSV só poderão ser preenchidos interinamente e mediante observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 25 de Novembro.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 58.º Os chefes de repartição são substituídos nas suas ausências ou impedimentos pelo chefe de secção que for designado por despacho do director-geral, sob proposta do director de serviços respectivo.
+Art. 58.º Os chefes de repartição são substituídos nas suas ausências ou impedimentos pelo chefe de secção que for designado por despacho do director-geral, sob proposta do director de serviços respectivo.
 
-###### Art. 59.º O tesoureiro será substituído nas suas ausências e impedimentos pelo funcionário que, sob proposta, for designado por despacho do director-geral.
+Art. 59.º O tesoureiro será substituído nas suas ausências e impedimentos pelo funcionário que, sob proposta, for designado por despacho do director-geral.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 60.º À Direcção-Geral caberá, no âmbito das suas atribuições e competências, a representação do País em organizações internacionais específicas e nos actos e manifestações de natureza técnica decorrentes de convénios e acordos assumidos ou a assumir, assegurando o cumprimento das respectivas obrigações.
+Art. 60.º À Direcção-Geral caberá, no âmbito das suas atribuições e competências, a representação do País em organizações internacionais específicas e nos actos e manifestações de natureza técnica decorrentes de convénios e acordos assumidos ou a assumir, assegurando o cumprimento das respectivas obrigações.
 
-###### Art. 61.º - 1 - A Direcção-Geral poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 61.º - 1 - A Direcção-Geral poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de harmonia com a tabela de preços que vier a ser aprovada por despacho ministerial.
 
-###### Art. 62.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a Direcção-Geral poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 62.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a Direcção-Geral poderá celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão, em caso algum, a qualidade de agente administrativo.
 
-###### Art. 63.º A Direcção-Geral poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 63.º A Direcção-Geral poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 64.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários do MAP ou de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGSV incluídos no plano, serão pagos de conta das dotações consignadas a esses objectivos.
+Art. 64.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários do MAP ou de outros departamentos ministeriais, ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGSV incluídos no plano, serão pagos de conta das dotações consignadas a esses objectivos.
 
-###### Art. 65.º - 1 - A cobrança coerciva das dívidas à DGSV provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 65.º - 1 - A cobrança coerciva das dívidas à DGSV provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -784,9 +817,9 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticadas 
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 66.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados na DGSV pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
+Art. 66.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidas por lei aos organismos integrados na DGSV pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
 
-###### Art. 67.º - 1 - Ao pessoal da DGSV que exerça funções de direcção, chefia ou fiscalização é permitido:
+Art. 67.º - 1 - Ao pessoal da DGSV que exerça funções de direcção, chefia ou fiscalização é permitido:
 
 a) Visitar todos os estabelecimentos industriais ou comerciais e todas as instalações pecuárias onde se exerçam actividades por qualquer forma sujeitas à jurisdição da Direcção-Geral;
 
@@ -798,20 +831,20 @@ d) Entrar livremente em todas as gares e aeroportos.
 
 2 - Iguais prerrogativas são conferidas a outro pessoal a que, por delegação do director-geral dos Serviços Veterinários, sejam cometidos serviços de fiscalização.
 
-###### Art. 68.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 68.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 69.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 69.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Joaquim da Silva Lourenço - Gabriela Guedes Salgueiro.
 
-**Promulgado em 22 de Dezembro de 1979.**
+Promulgado em 22 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 55.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29602/00170026.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29602/00170026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29602/00170026.pdf)
 
 Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura e Pescas, Joaquim da Silva Lourenço. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.

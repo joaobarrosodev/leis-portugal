@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 95/2000, 1º Suplemento, Série I-A de 2000-04-22
   number: '95'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1708-(2) a 1708-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/095a01/00020003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64-a/2000/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2000-583855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6275cc3b44f36f60fcc6a5a7668a9f072ee85b8e9c7c5991993bcaca4f13431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22dd3fea51ed9c97c30e6ef5c464a8b97d98b370c0b68f444c8514a1bd39c390
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Código do Notariado
-- Estabelecimento Comercial
-- Contrato
 - Arrendamento Urbano não Habitacional
-- Indústria
-- Profissão Independente
 - Arrendamento Urbano para Habitação
+- Código do Notariado
 - Comércio
+- Contrato
+- Estabelecimento Comercial
+- Indústria
+- Modernização Administrativa
+- Profissão Independente
 relationships:
 - type: amended_by
   target: pt:dre:456492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631838:por
+  label: "Alterado o art. 80º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.237/2001.30.08.2001.MJ, DR.IS-A [201] de 30.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2001-631838
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 80º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, com a redacção do presente diploma,\
+    \ pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 80º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 80º e revogadas as al.s c), e) e h) a l) do nº 2 do art. 80º do Código do Notariado, aprovado pelo\
+    \ Dec Lei 207/95, de 14-Ago, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
   label: null
@@ -89,16 +114,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4-a/2000/04/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4-a/2000/04/13/p/dre
+- type: cites
+  target: pt:dre:288271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:47Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +172,9 @@ Os artigos 7.º, 9.º, 111.º, 115.º e 122.º do Regime do Arrendamento Urbano,
 
 3 - No caso dos arrendamentos sujeitos a registo, a falta deste não impede que o contrato se considere plenamente eficaz pelo prazo máximo por que o poderia ser sem essa exigência, desde que tenha sido observada a forma escrita.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -151,7 +190,9 @@ Os artigos 7.º, 9.º, 111.º, 115.º e 122.º do Regime do Arrendamento Urbano,
 
 7 - ...
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +200,9 @@ Os artigos 7.º, 9.º, 111.º, 115.º e 122.º do Regime do Arrendamento Urbano,
 
 3 - A cessão de exploração do estabelecimento comercial deve constar de documento escrito, sob pena de nulidade.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -171,7 +214,9 @@ b) ...
 
 3 - O trespasse deve ser celebrado por escrito, sob pena de nulidade.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - ...
 
@@ -187,12 +232,12 @@ O presente diploma entra em vigor em 1 de Maio de 2000.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2000. - Jaime José Matos da Gama. - Joaquim Augusto Nunes Pina Moura. - Joaquim Augusto Nunes Pina Moura. - António Luís Santos Costa. - Alberto de Sousa Martins.
 
-**Promulgado em 20 de Abril de 2000.**
+Promulgado em 20 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Abril de 2000.**
+Referendado em 20 de Abril de 2000.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

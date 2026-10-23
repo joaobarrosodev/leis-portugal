@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20600/22172218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/220-1979-370612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf1c4062764f2b6010b04bce0734c397e71e1245f279224b900bc2e2a89749f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 866f7e7e3e06951a499a8508b57ccddf21547eed51ba258f04600cb32877ae51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Moeda Eletrónica
+- Unicre
 relationships:
 - type: amended_by
   target: pt:dre:3619200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573281:por
+  label: Alterado o n.º 4.2 e revogado o n.º 2 pelo(a) Despacho Normativo n.º 139/81 - Diário da República n.º 107/1981, Série
+    I de 1981-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/139-1981-573281
+  date: '1981-05-11'
+- type: amended_by
+  target: pt:dre:392459:por
+  label: "Alterado o prazo previsto no n.º 7, e aditada uma alínea ao n.º 6, pelo DN.77/82.03.05.1982.MFP, DR.IS [111] de\
+    \ 17.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/77-1982-392459
+  date: '1982-05-17'
+- type: cites
+  target: pt:dre:280703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2260946:por
+  label: Revogado o n.º 4.1 do presente despacho, mantendo-se no demais em vigor, com as alterações posteriormente introduzidas,
+    pelo(a) Despacho Normativo - Diário da República n.º 91/1984, Série II de 1984-04-17, no que não contrarie aquele despacho.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1984-2260946
+  date: '1984-04-17'
+- type: repealed_by
+  target: pt:dre:226994:por
+  label: "Revogado o n.º 6, pelo DN.45/86.14.05.1986.MF, DR.IS [124] de 31.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/45-1986-226994
+  date: '1986-05-14'
+- type: repealed_by
+  target: pt:dre:2011863:por
+  label: Revogado o n.º 4.3 pelo(a) Despacho Normativo - Diário da República n.º 136/1988, Série II de 1988-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1988-2011863
+  date: '1988-06-15'
+- type: repealed_by
+  target: pt:dre:3619200:por
+  label: Revogado pelo(a) Despacho Normativo - Diário da República n.º 119/1991, Série II de 1991-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/1991-3619200
+  date: '1991-05-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:52:58Z'
   warnings: []
   errors: []
 ---

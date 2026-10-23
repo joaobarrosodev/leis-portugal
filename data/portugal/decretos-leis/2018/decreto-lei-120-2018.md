@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/12/24900/0595105954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2018/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2018-117503936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 801395ea9d8b6b068f581cf07391bcc6c7723de48f0a0e2b71ee2b2305a11ff8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbe8c1e59e1956346cbc714713d9badf92f946b0d2904c698762849f70f83ba0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Ação Social
 - Acesso ao Direito
 - Administração Central
 - Autoridade Tributária e Aduaneira
+- Dados Pessoais
 - Definição de Competências
-- Ação Social
 - Habitação Social
 - Imposto de Capitais
-- IRS
 - Insuficiência Económica
+- IRS
 - Pensões
+- Plataforma de Interoperabilidade da Administração Pública
+- Plataforma Eletrónica
 - Rendimento
 - Segurança Social
-- Dados Pessoais
 - Subsídio
 - Subsídio de Apoio Social
 - Tributação
-- Plataforma Eletrónica
-- Plataforma de Interoperabilidade da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:211340863:por
@@ -109,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2007/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2007/08/28/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115940705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:35:03Z'
   warnings: []
   errors: []
 ---
@@ -285,7 +305,9 @@ Os artigos 8.º, 8.º-A, 20.º e 22.º da [Lei n.º 34/2004](https://diariodarep
 
 5 - [...].
 
-###### Artigo 8.º-A — [...]
+Artigo 8.º-A
+
+[...]
 
 1 - A apreciação da insuficiência económica das pessoas singulares, para os efeitos da presente lei, é efetuada considerando o rendimento médio mensal do agregado familiar do respetivo requerente, com vista à determinação sobre se este:
 
@@ -309,7 +331,9 @@ c) Não se encontra em situação de insuficiência económica.
 
 8 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -319,7 +343,9 @@ c) Não se encontra em situação de insuficiência económica.
 
 4 - A decisão quanto ao pedido referido no n.º 7 do artigo 8.º-A compete igualmente ao dirigente máximo dos serviços de segurança social competente para a decisão sobre a concessão de proteção jurídica, sendo suscetível de delegação e de subdelegação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O requerimento de proteção jurídica é apresentado através da plataforma informática disponibilizada pelo sítio eletrónico da segurança social, que emite prova da respetiva entrega.
 
@@ -363,12 +389,14 @@ b) A alínea f) do n.º 2 do artigo 1.º do [Decreto-Lei n.º 70/2010](https://d
 
 Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva.
 
-**Promulgado em 21 de dezembro de 2018.**
+Promulgado em 21 de dezembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de dezembro de 2018.**
+Referendado em 21 de dezembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111940991

@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb0b8a2cee515a287cf669f5080e0e866505a31a39e3feef2e201e51868630b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 617a14bb133c7614aa28a2c863cdff3d1e5a351db398db719053944263b9212f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Instituições de Previdência Social
+- Regime Jurídico
+- Trabalhador das Instituições de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:517233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363887:por
+  label: "Aditados aos arts. 8.º e 177.º e aos anexos II e III, respectivamente o quadro G-1, os nºs. 3 a 13, a tabela G-1\
+    \ e o n.º 7-A pela PORT.576/79.1979.11.02.PCM DR.IS [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/576-1979-363887
+  date: '1979-11-02'
+- type: amended_by
+  target: pt:dre:315160:por
+  label: "Alterados os artigos 8.º, 16.º, 23.º, 26.º, 31.º, 33.º, 52.º, 56.º, 57.º, 63.º-B, 63.º-C, 63.º-F, 63.º-G, 63.º-H,\
+    \ 70.º, 80.º, 81.º, 131.º, aditados os artigos 7.º-A, 16.º-A, 18.º-B, 26.º-A, 68.º-A, 81.º-A, 81.º-B, 81.º-C, 98.º-A,\
+    \ 131.º-A, e revogado o n.º 4 do artigo 7.º, o n.º 4 do artigo 26.º, os artigos 27.º, 30.º, 32.º, 51.º, 55.º, 63.º-A,\
+    \ 64.º, o n.º 4 e 5 do artigo 80.º e o n.º 3 do artigo 81.º, pela PORT.38-A/80.12.02.1980.PCM, DR.IS [36]Supl de 12.02.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-a-1980-315160
+  date: '1980-02-12'
+- type: amended_by
+  target: pt:dre:460794:por
+  label: Alterados os arts. 8.º e 82.º e a tabela P constante do anexo II, aditado o art. 82.º-A, e revogado o art. 73.º pelo(a)
+    Portaria n.º 600/80 - Diário da República n.º 211/1980, Série I de 1980-09-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/600-1980-460794
+  date: '1980-09-12'
+- type: amended_by
+  target: pt:dre:460783:por
+  label: "Alterados os artigos 133.º e 134.º pela PORT.606/80.13.09.1980.PCM, DR.IS [212] de 13.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/606-1980-460783
+  date: '1980-09-13'
+- type: amended_by
+  target: pt:dre:576367:por
+  label: "Alterados os artigos 23.º (na redacção da Port 38-A/80, de 12-Fev), 63.º-I, 77.º, 78.º e 98.º-A (este último na\
+    \ redacção da Port 38-A/80, de 12-Fev), pela PORT.703/81.17.08.1981.MFP, DR.IS [187] de 17.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/703-1981-576367
+  date: '1981-08-17'
+- type: amended_by
+  target: pt:dre:332267:por
+  label: "Determinada a transição para a carreira de técnico superior do regime geral da função pública, dos funcionários\
+    \ da carreira de tradução e correspondência estrangeira oriundos da ex-Caixa de Previdência e Abono de Família do Distrito\
+    \ do Funchal, que foram integrados no quadro de pessoal da Direcção Regional de Saúde Pública - então Centro Regional\
+    \ de Saúde Pública em 1 de Janeiro de 1979, por força de extensão do âmbito de aplicação da presente portaria, na redacção\
+    \ da Port. 38-A/80, de 12-Fev, pelo DLR.8/90/M.19.04.1990.ALR-RAM, DR.IS [91] de 19.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1990-332267
+  date: '1990-04-19'
+- type: amended_by
+  target: pt:dre:3314348:por
+  label: "Determinado que o complemento a adicionar ao subsídio de doença regulamentado pelo art. 169º integre o subsídio\
+    \ de doença e as prestações pecuniárias compensatórias dos subsídios de férias e de Natal, pelo DESP.48/SESS/90.05.07.1990.SESS-MESS,\
+    \ DR.IIS [153] de 05.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/48-1990-3314348
+  date: '1990-07-05'
+- type: amended_by
+  target: pt:dre:437794:por
+  label: "Alterados vários artigos e revogados os arts. 26.º-A, 54.º, 66.º, 75.º, 76.º, 78.º, 81.º-A a 81.º-C, 82.º-A, 86.º,\
+    \ 128.º, 131.º-A, 139.º e 176.º e os anexos I e II, na redacção dada pela Port 576/79, de 02-Nov, Port 38-A/80, de 12-Fev,\
+    \ Port 600/80, de 12-Set, Port 974/80, de 13-Nov e Port 703/81, de 17-Ago, pelo DR.18/98.1998.08.14.MTS DR.IS-B [187]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/18-1998-437794
+  date: '1998-08-14'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427806:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:364165:por
+  label: "Revogado o artigo 124.º e alteradas as tabelas do anexo II, pela PORT.561/79.24.10.1979.PCM, DR.IS [246] de 24.10.1979\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/561-1979-364165
+  date: '1979-10-24'
+- type: repealed_by
+  target: pt:dre:662360:por
+  label: "Revogados os n.ºs 4, 5 e 6 do art. 136.º pelo DEC LEI.107/87.06.03.1987.MTSS, DR.IS [54] de 06.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-1987-662360
+  date: '1987-03-06'
 article_structure:
   article_count: 179
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:38Z'
   warnings: []
   errors: []
 ---
@@ -1734,7 +1829,7 @@ c) Licença sem retribuição de outro trabalhador.
 
 3 - O abono para falhas será atribuído de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
 
 4 - Em Janeiro de cada ano será autorizado o abono para falhas de acordo com a respectiva tabela, com base no montante de valores movimentados no ano anterior.
 
@@ -1748,7 +1843,7 @@ c) Licença sem retribuição de outro trabalhador.
 
 2 - Pelas deslocações em que a saída da residência de serviço e a entrada se observem dentro de um período de vinte e quatro horas abonar-se-ão as percentagens seguintes de ajudas de custo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
 
 3 - Nas deslocações por dias sucessivos aplicam-se as percentagens referidas no número anterior nos dias da partida e do regresso, devendo observar-se o seguinte:
 
@@ -2204,13 +2299,13 @@ A presente portaria, no que se refere a reclassificações, retribuições e gra
 
 ## ANEXO I — Tabela de retribuições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
 
 ## ANEXO II — Grupos do retribuições do pessoal abrangido pela presente portaria
 
 Da TABELA A à TABELA P
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf))](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/09300/06860721.pdf)
 
 ## ANEXO III — Funções inerentes às categorias profissionais previstas na presente portaria
 

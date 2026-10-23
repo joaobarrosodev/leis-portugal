@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/154/2019/10/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2019-125468544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1ec35eecbc55cff94587d8f306456b48e958d64c60f113456b84670fa24f54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20dcaba2811c0988412b70ac33c9f8b8dc01eb06dde5a4ca108ac579eeabeb4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
+- Agricultor
+- Agricultura
 - Aproximação das Legislações
-- Indústria Electrotécnica
+- ASAE
+- Autoridade Nacional de Comunicações
 - Biotecnologia
 - Catálogo Nacional de Variedades
 - CE Países
 - Certificado de Conformidade
 - Certificado Fitossanitário
-- Engenharia Genética
-- Multa
-- Organismo Geneticamente Modificado
-- Doença Vegetal
-- Genética
+- Comércio
+- Comissão CE
 - Contra-ordenação
 - Controlo de Qualidade
+- Controlo Sanitário
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
+- Diversidade Biológica
+- Doença Vegetal
+- Engenharia Genética
 - Equipamento Eléctrico
 - Equipamento Eletrónico
-- Saúde Pública
 - Etiquetagem
+- Exportação
 - Fiscalização
-- Comissão CE
+- Genética
 - Importação
-- ASAE
-- Licenciamento
-- Material Eléctrico e Electrónico
+- Indústria Electrotécnica
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
-- Proteção do Ambiente
-- Diversidade Biológica
-- Exportação
-- Produto Hortícola
-- Proteção Fitossanitária
-- Agricultor
+- Licenciamento
 - Madeira.região Autónoma
-- Recursos Genéticos
+- Material Eléctrico e Electrónico
+- Multa
+- Organismo Geneticamente Modificado
 - Produção Vegetal
-- Regulamento CE
-- Agricultura
-- Semente
-- Açores
-- Taxa
-- Comércio
 - Produto Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Proteção Fitossanitária
+- Recursos Genéticos
+- Regulamento CE
 - Saúde Animal
-- Autoridade Nacional de Comunicações
+- Saúde Pública
+- Semente
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:185971762:por
@@ -216,6 +216,78 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/199
   label: null
   source: http://data.europa.eu/eli/dir/199
+- type: cites
+  target: pt:dre:106642830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106825053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108125021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114163923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115487880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122242530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55076558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58801094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669979:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0029
   label: null
@@ -226,14 +298,14 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:28Z'
   warnings: []
   errors: []
 ---
@@ -376,15 +448,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de setembro de 2019. - António Luís Santos da Costa - José Luís Pereira Carneiro - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 26 de setembro de 2019.**
+Promulgado em 26 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de setembro de 2019.**
+Referendado em 30 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -392,33 +464,51 @@ Visto e aprovado em Conselho de Ministros de 19 de setembro de 2019. - António 
 
 [...]
 
-# PARTE A — [...]
+PARTE A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[...]
 
-# PARTE B — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+PARTE B
 
-# PARTE C — [...]
+[...]
 
-## ANEXO II — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
-# PARTE A — [...]
+PARTE C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[...]
 
-# PARTE B — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[...]
 
-## ANEXO II — (a que se refere o artigo 5.º)
+PARTE A
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+PARTE B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 «ANEXO I
 
-# PARTE A — [...]
+PARTE A
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 a) [...]:
 
@@ -574,7 +664,9 @@ e) [...]:
 
 [...].
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 a) [...]:
 
@@ -628,25 +720,31 @@ d) [...]:
 
 [...]
 
-# PARTE B — [...]
-
-a) [...]:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
-
-b) [...]:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
-
-## ANEXO II — PARTE A
+PARTE B
 
 [...]
 
-#### SECÇÃO I — [...]
+a) [...]:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+b) [...]:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+ANEXO II
+
+PARTE A
+
+[...]
+
+SECÇÃO I
+
+[...]
 
 a) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 b) [...]:
 
@@ -654,7 +752,7 @@ b) [...]:
 
 c) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 d) [...]:
 
@@ -664,7 +762,9 @@ d) [...]:
 
 (**) [...].
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 a) [...]:
 
@@ -676,61 +776,81 @@ b) [...]:
 
 c) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 d) [...]:
 
 [...]
 
-# PARTE B — [...]
+PARTE B
+
+[...]
 
 a) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 b) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 c) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 d) [...]:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
-## ANEXO III — PARTE A
+ANEXO III
 
-[...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
-
-# PARTE B — [...]
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
-
-## ANEXO IV — PARTE A
+PARTE A
 
 [...]
 
-#### SECÇÃO I — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+PARTE B
 
-#### SECÇÃO II — [...]
+[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
-# PARTE B — [...]
+ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+PARTE A
 
-## ANEXO V — [...]
+[...]
 
-# PARTE A — [...]
+SECÇÃO I
 
-#### SECÇÃO I — [...]
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+SECÇÃO II
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+PARTE B
+
+[...]
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+
+ANEXO V
+
+[...]
+
+PARTE A
+
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - [...]:
 
@@ -774,7 +894,9 @@ b) [...].
 
 (***) [...]
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 [...]
 
@@ -814,9 +936,13 @@ b) [...],
 
 (*) [...]
 
-# PARTE B — [...]
+PARTE B
 
-#### SECÇÃO I — [...]
+[...]
+
+SECÇÃO I
+
+[...]
 
 1 - [...].
 
@@ -896,17 +1022,21 @@ b) [...].
 
 7.1 - Máquinas e veículos que tenham sido utilizados para fins agrícolas ou florestais e satisfaçam uma das seguintes descrições estabelecidas na parte II do anexo I do [Regulamento (CEE) n.º 2658/87](https://data.europa.eu/eli/reg/1987/2658/oj?locale=pt) do Conselho, importados de países terceiros com exceção da Suíça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf))](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/10/20100/0005400107.pdf)
 
 8 - [...].
 
-#### SECÇÃO II — [...]
+SECÇÃO II
+
+[...]
 
 [...]
 
 [...].»
 
-## ANEXO III — (a que se refere o artigo 7.º)
+ANEXO III
+
+(a que se refere o artigo 7.º)
 
 «ANEXO II
 
@@ -1156,7 +1286,9 @@ Por «plantas superiores» entende-se as plantas que pertencem ao grupo taxonóm
 
 7) Efeitos na saúde humana e animal.
 
-## ANEXO III — Informações exigidas na notificação
+ANEXO III
+
+Informações exigidas na notificação
 
 As notificações referidas nos capítulos II e III devem, regra geral, incluir as informações constantes do anexo III-A para OGM que não sejam plantas superiores ou do anexo III-B para plantas superiores geneticamente modificadas.
 
@@ -1172,7 +1304,9 @@ ii) Para as notificações referidas no capítulo III, os anexos com informaçõ
 
 A futura evolução das modificações genéticas poderá exigir a adaptação do presente anexo ao progresso técnico ou a elaboração de notas de orientação sobre o mesmo. A experiência que a União vier a acumular com as notificações relativas à libertação de determinados OGM poderá possibilitar uma melhor diferenciação dos requisitos em matéria de informação para os diferentes tipos de OGM, como plantas vivazes e árvores, organismos unicelulares, peixes ou insetos, ou para a utilização específica de OGM, como no desenvolvimento de vacinas.
 
-## ANEXO III-B — Informações exigidas nas notificações relativas à libertação de plantas superiores geneticamente modificadas (PSGM) (Gimnospérmicas e angiospérmicas)
+ANEXO III-B
+
+Informações exigidas nas notificações relativas à libertação de plantas superiores geneticamente modificadas (PSGM) (Gimnospérmicas e angiospérmicas)
 
 I - Informações exigidas em notificações apresentadas nos termos dos artigos 5.º e 16.º
 
@@ -1526,7 +1660,9 @@ h) Avaliação do risco global e conclusões. Deve ser fornecido um resumo de to
 
 6 - Informações sobre anteriores libertações da PSGM, se pertinente.
 
-## ANEXO IV — Informações adicionais
+ANEXO IV
+
+Informações adicionais
 
 [...].
 
@@ -1563,3 +1699,5 @@ B) [...].
 6) [...].
 
 7) [...].»
+
+112672648

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2010/12/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2010-306592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:12:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4a165dd52a7e131d575467ef7ff2ab308bb3529ea1640b2bc666204b3565805
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4666d4919af93368106cc1ab1c4acb18e3516198fb3ada61121416630ff1db06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:12:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
 - Aditivo Alimentar
 - Alimento para Animais
-- Substância Perigosa
+- Aproximação das Legislações
 - Saúde Animal
+- Substância Perigosa
 relationships:
+- type: amends
+  target: pt:numero:lei:193/2007
+  label: "Altera o anexo I ( na redacção do Dec Lei 67/2010, de 14-Jun ), do Dec Lei n.º 193/2007, de 14-Mai, DR IS [92]\0\
+    \0"
+  source: null
+  date: '2007-05-14'
 - type: cites
   target: celex:32002L0032
   label: null
@@ -108,13 +114,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:12:23Z'
   warnings: []
   errors: []
 ---
@@ -157,15 +163,15 @@ O anexo i do Decreto-Lei n.º 193/2007, de 14 de Maio, alterado pelo Decreto-Lei
 
 Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - José António Fonseca Vieira da Silva - António Manuel Soares Serrano.
 
-**Promulgado em 14 de Dezembro de 2010.**
+Promulgado em 14 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Dezembro de 2010.**
+Referendado em 16 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -173,4 +179,4 @@ Visto e aprovado em Conselho de Ministros de 21 de Outubro de 2010. - José Sóc
 
 Limites máximos toleráveis de substâncias indesejáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0601006018.pdf))](https://files.diariodarepublica.pt/1s/2010/12/25100/0601006018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/25100/0601006018.pdf)

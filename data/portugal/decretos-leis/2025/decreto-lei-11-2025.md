@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03500/0001500017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2025/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2025-907934881
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e9ac56428de88fb5d2d97e208b6f625e2cc5374ab378d783e1f7409cc3d660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb364bd24329276a99cf7d3e07b8e62017c33b52a2bcb2e1851f864ce3a4f502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Energia Elétrica
 - Climatização
-- Energia Renovável
-- Combustível
 - Co-geração
+- Combustível
 - Eficiência Energética
+- Energia Elétrica
+- Energia Renovável
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:101-D/2020
+  label: Altera, a partir de 20 de fevereiro de 2025, com efeitos a 31 de dezembro de 2024, os artigos 3.º e 34.º do Decreto-Lei
+    n.º 101-D/2020, de 7 de dezembro, Diário da República n.º 237/2020, 1º Suplemento, Série I
+  source: null
+  date: '2020-12-07'
 - type: cites
   target: celex:32018L0844
   label: null
@@ -110,6 +116,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/2021/11/19/p/dre
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174614573:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32018L0844
   label: null
@@ -123,15 +137,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:50Z'
   warnings: []
   errors: []
 ---
@@ -222,7 +236,9 @@ y) ‘Caldeira autónoma’ é uma caldeira que não é combinada com outro gera
 
 z) ‘Combustíveis fósseis’ na aceção do artigo 2.º, ponto 62, do [Regulamento (UE) 2018/1999](https://data.europa.eu/eli/reg/2018/1999/oj?locale=pt), relativo à Governação da União da Energia e da Ação Climática.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -246,12 +262,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 16 de janeiro de 2025. - Luís Montenegro - Inês Carmelo Rosa Calado Lopes Domingos - Maria da Graça Carvalho.
 
-**Promulgado em 10 de fevereiro de 2025.**
+Promulgado em 10 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 11 de fevereiro de 2025.**
+Referendado em 11 de fevereiro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118706005

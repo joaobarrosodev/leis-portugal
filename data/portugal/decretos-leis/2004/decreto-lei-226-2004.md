@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2004/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2004-213615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e904f582ec47c5919cbc3fe2f7c3266535012886d62d30d5520d283a68bfc6f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dbee555fd0cdee586ed45feec52b2cbcf6024f28341151652cef1f6ad3ddada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Contrato de Concessão
-- Transporte Ferroviário
 - Metro-Mondego
 - Metropolitano
 - Miranda do Corvo
-- Transporte de Mercadorias
-- Coimbra
 - Serviço Público
+- Transporte de Mercadorias
 - Transporte de Passageiros
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:120454103:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:120454103:por
+  label: Determinado o exercício pelo Ministro das Infraestruturas e da Habitação, sem prejuízo dos poderes legalmente conferidos
+    ao Conselho de Ministros e ao Ministro das Finanças, das competências legais relativas à Metro Mondego, S. A., prevista
+    no Dec Lei 10/2002 de 24-jan, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º 31/2019 - Diário da República
+    n.º 43/2019, Série I de 2019-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2019-120454103
+  date: '2019-03-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/2002/01/24/p/dre
   label: null
@@ -88,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/86/2003/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/86/2003/04/26/p/dre
+- type: cites
+  target: pt:dre:239224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240646:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:41Z'
   warnings: []
   errors: []
 ---
@@ -134,11 +150,15 @@ Concessão de serviço público
 
 4 - A concessão é atribuída pelo prazo de 40 anos, o qual pode ser prorrogado nos termos previstos nas bases de concessão.
 
-###### Artigo 2.º — Do concedente
+Artigo 2.º
+
+Do concedente
 
 O Estado, enquanto concedente, é representado, consoante os casos, pelos ministros que detenham a tutela financeira e a tutela sectorial ou por quem actue ao abrigo de poderes delegados por despacho conjunto dos mesmos ministros.
 
-###### Artigo 4.º — Contratação e fiscalização
+Artigo 4.º
+
+Contratação e fiscalização
 
 1 - Para a prossecução do objecto da concessão, pode a Metro-Mondego, S. A., proceder à contratação, nomeadamente através da subconcessão total ou parcial, por concurso, das prestações necessárias à concepção e projecto, à realização das obras de construção, ao fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema e à sua exploração.
 
@@ -152,7 +172,9 @@ O Estado, enquanto concedente, é representado, consoante os casos, pelos minist
 
 6 - A Metro-Mondego, S. A., pode, por concurso, contratar empresas para a fiscalização das prestações referidas no n.º 1, sem prejuízo dos deveres de fiscalização das actividades da concessionária cometidas a esta ou a outras entidades nos termos das bases da concessão.
 
-###### Artigo 6.º — Regime transitório de exploração
+Artigo 6.º
+
+Regime transitório de exploração
 
 1 - A CP - Caminhos de Ferro Portugueses, E. P., e a Rede Ferroviária Nacional - REFER, E. P., mantêm, nos termos definidos nos números seguintes, o regime de serviço público de exploração e de gestão do ramal da Lousã até que as obras de construção do sistema objecto da concessão inviabilizem a exploração ferroviária.
 
@@ -170,7 +192,9 @@ b) A realização pela Rede Ferroviária Nacional - REFER, E. P., dos serviços 
 
 6 - ...
 
-###### Artigo 8.º — Bens de domínio público
+Artigo 8.º
+
+Bens de domínio público
 
 1 - Os bens de domínio público ferroviário sob gestão da Rede Ferroviária Nacional - REFER, E. P., a serem afectos ao sistema objecto da concessão devem ser discriminados em autos de entrega subscritos por representantes da Rede Ferroviária Nacional - REFER, E. P., e da Metro-Mondego, S. A., e homologados pelo Instituto Nacional do Transporte Ferroviário.
 
@@ -198,7 +222,9 @@ Objecto
 
 3 - A concessão compreende ainda a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão.
 
-###### Base II — Actividades da concessionária
+Base II
+
+Actividades da concessionária
 
 1 - A concessionária tem como objecto e actividade principal a realização das prestações inerentes à concessão, ou seja, a concepção, projecto, realização das obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e sua exploração.
 
@@ -208,7 +234,9 @@ Objecto
 
 4 - A concessionária pode, para o desenvolvimento das actividades autónomas referidas nesta base, ou outras, criar empresas total ou parcialmente por si detidas, ou tomar participações no capital de outras empresas, mediante autorização prévia dos ministros que detenham a tutela financeira e a tutela sectorial.
 
-###### Base IV — Prazos da concessão e subconcessão
+Base IV
+
+Prazos da concessão e subconcessão
 
 1 - A concessão tem a duração de 40 anos contados a partir da data da entrada em vigor do diploma que aprova as presentes bases.
 
@@ -228,7 +256,9 @@ b) O prazo da subconcessão relativa à exploração do sistema pode ser prorrog
 
 7 - A prorrogação do prazo de subconcessão depende de autorização prévia mediante despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial, na sequência de fundamentação adequada quanto à sustentabilidade da exploração sem a ocorrência de apoios financeiros públicos, devendo ser comunicada à subconcessionária com uma antecedência mínima de um ano sobre o termo da subconcessão ou do prazo de prorrogação.
 
-###### Base V — Características gerais do sistema
+Base V
+
+Características gerais do sistema
 
 Sem prejuízo do disposto no n.º 2 da base I, o sistema de metro concessionado tem as seguintes características gerais, que devem ser asseguradas pela concessionária:
 
@@ -244,7 +274,9 @@ e) ...
 
 f) ...
 
-###### Base VI — Estabelecimento e bens afectos à concessão
+Base VI
+
+Estabelecimento e bens afectos à concessão
 
 1 - ...
 
@@ -260,7 +292,9 @@ f) ...
 
 7 - ...
 
-###### Base VII — Servidões e expropriações
+Base VII
+
+Servidões e expropriações
 
 1 - ...
 
@@ -272,7 +306,9 @@ f) ...
 
 5 - O ministro que detenha a tutela sectorial pode designar uma entidade que coordene e fiscalize a condução dos processos expropriativos ou relativos à aquisição de bens pela via do direito privado.
 
-###### Base VIII — Financiamento das actividades da concessionária
+Base VIII
+
+Financiamento das actividades da concessionária
 
 1 - Os accionistas da concessionária devem dotá-la dos recursos necessários para a prossecução e funcionamento da sua actividade, bem como para suporte dos custos referidos no n.º 2 da base VII, na proporção das respectivas participações de capital.
 
@@ -292,7 +328,9 @@ b) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concession
 
 7 - Entende-se por canal afecto ao sistema o conjunto formado pela plataforma ferroviária, eventuais ligações rodoviárias em terrenos do domínio público ferroviário, parque de manutenção e operação, estações, interfaces, estacionamentos, subestações de tracção, respectivos acessos e demais órgãos técnicos necessários ao funcionamento do sistema.
 
-###### Base IX — Regime tarifário
+Base IX
+
+Regime tarifário
 
 1 - ...
 
@@ -300,7 +338,9 @@ b) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concession
 
 3 - Sem prejuízo dos números anteriores, a entrada em vigor das tarifas depende da autorização do Instituto Nacional do Transporte Ferroviário e da Direcção-Geral dos Transportes Terrestres.
 
-###### Base X — Compensações pela obrigação da prestação de serviço público
+Base X
+
+Compensações pela obrigação da prestação de serviço público
 
 1 - No caso de, comprovadamente, se demonstrar que a prestação de serviço público de transporte de passageiros é susceptível de contribuir acentuadamente para o desequilíbrio económico-financeiro da entidade que tenha a seu cargo a exploração do sistema, a concessionária pode, exclusivamente no período relativo à atribuição da primeira subconcessão, atribuir compensações financeiras pela obrigação da prestação daquele serviço público.
 
@@ -314,7 +354,9 @@ b) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concession
 
 6 - O disposto nos números anteriores não prejudica a adopção pela concessionária de disposições contratuais com vista à protecção do interesse público subjacente à concessão e à optimização das condições de exploração do serviço de transporte.
 
-###### Base XI — Obrigações de informação da concessionária
+Base XI
+
+Obrigações de informação da concessionária
 
 1 - A concessionária deve dar conhecimento imediato ao ministro da tutela sectorial de qualquer evento que possa vir a prejudicar ou impedir o cumprimento pontual e atempado de qualquer das obrigações emergentes das presentes bases, bem como ao ministro da tutela financeira quando tais eventos tenham implicações de natureza económica e financeira.
 
@@ -332,7 +374,9 @@ b) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concession
 
 8 - ...
 
-###### Base XIV — Obrigações respeitantes à sociedade concessionária
+Base XIV
+
+Obrigações respeitantes à sociedade concessionária
 
 1 - ...
 
@@ -342,7 +386,9 @@ b) Sejam susceptíveis de, comprovadamente demonstradas, gerar para a concession
 
 4 - ...
 
-###### Base XVI — Concursos - Regras gerais
+Base XVI
+
+Concursos - Regras gerais
 
 1 - As prestações relativas à concepção, projecto, realização de obras de construção, fornecimento, montagem e manutenção do material circulante e dos demais equipamentos que constituem o sistema objecto da concessão e a sua exploração podem ser subconcessionadas, total ou parcialmente, devendo a escolha do subconcessionário ou dos subconcessionários ser realizada mediante concurso.
 
@@ -364,13 +410,17 @@ b) Adopção de soluções mais desvantajosas para a concessionária do que as i
 
 c) Aproveitamento por um concorrente de soluções contidas na proposta de outro concorrente.
 
-###### Base XVII — Natureza e estrutura dos concursos
+Base XVII
+
+Natureza e estrutura dos concursos
 
 1 - Os concursos referidos na base anterior são lançados pela concessionária.
 
 2 - Sem prejuízo da aplicabilidade, com as necessárias adaptações, do regime previsto no [Decreto-Lei n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), de 26 de Abril, compete à concessionária realizar as operações inerentes à realização dos concursos a que se refere a base anterior, designadamente elaborar os instrumentos relativos ao lançamento dos concursos e decidir sobre os recursos administrativos apresentados no âmbito do concurso e sobre os relatórios de avaliação e hierarquização elaborados pela comissão de avaliação das propostas, bem como decidir sobre a adjudicação das subconcessões depois de obtidos os correspondentes despachos ministeriais.
 
-###### Base XIX — Conteúdo mínimo obrigatório de regulamentação
+Base XIX
+
+Conteúdo mínimo obrigatório de regulamentação
 
 1 - Nos programas de concurso devem constar obrigatoriamente, de forma detalhada, os requisitos respeitantes à experiência, capacidade e aptidão técnica, financeira e empresarial que os concorrentes devem satisfazer de forma a serem admitidos ao concurso ou qualificados.
 
@@ -380,7 +430,9 @@ c) Aproveitamento por um concorrente de soluções contidas na proposta de outro
 
 4 - A concessionária, antes de proceder ao lançamento dos concursos a que se referem as bases anteriores, deve diligenciar no sentido de serem celebrados protocolos com os municípios servidos pelo sistema objecto da concessão, definindo e disciplinando os compromissos assumidos por cada um deles e a respectiva partilha de responsabilidades.
 
-###### Base XX — Critérios de atribuição das subconcessões
+Base XX
+
+Critérios de atribuição das subconcessões
 
 1 - Quer a decisão final de selecção dos subconcessionários quer a escolha dos concorrentes para a fase de negociações, se a ela houver lugar, têm por base a avaliação das propostas segundo os seguintes critérios gerais:
 
@@ -396,17 +448,23 @@ e) Prazos de execução do projecto.
 
 2 - ...
 
-###### Base XXIII — Prémios
+Base XXIII
+
+Prémios
 
 A concessionária pode deliberar a atribuição de prémios a um ou mais concorrentes preteridos nos concursos cujas propostas, ainda assim, tenham qualidade manifesta, mas o seu montante deve ser sujeito a aprovação dos ministros da tutela financeira e da tutela sectorial.
 
-###### Base XXIV — Aprovação e alteração dos contratos de subconcessão
+Base XXIV
+
+Aprovação e alteração dos contratos de subconcessão
 
 1 - As minutas dos contratos de subconcessão devem ser aprovadas por despacho conjunto dos ministros que detenham a tutela financeira e a tutela sectorial.
 
 2 - As alterações aos contratos referidos no número anterior estão sujeitas ao regime previsto no artigo 14.º do [Decreto-Lei n.º 86/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), de 26 de Abril.
 
-###### Base XXVI — Sequestro
+Base XXVI
+
+Sequestro
 
 1 - O Estado, através do ministro da tutela sectorial, pode tomar através de sequestro a exploração do serviço quando se der ou estiver iminente a cessação ou interrupção total ou parcial da exploração do serviço ou quando se verifique a gestão danosa da concessão ou graves deficiências na organização e funcionamento do serviço de transporte ou no estado das instalações ou do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -416,7 +474,9 @@ A concessionária pode deliberar a atribuição de prémios a um ou mais concorr
 
 4 - ...
 
-###### Base XXVII — Extinção da concessão
+Base XXVII
+
+Extinção da concessão
 
 1 - O Estado, através de despacho conjunto dos ministros da tutela financeira e da tutela sectorial, pode dar a concessão por extinta quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -442,7 +502,9 @@ h) Violação grave das obrigações da concessionária previstas nas presentes 
 
 4 - ...
 
-###### Base XXVIII — Resgate da concessão
+Base XXVIII
+
+Resgate da concessão
 
 1 - O Estado pode resgatar a concessão sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos 15 anos a partir da data do seu início, mediante notificação feita à concessionária pelo ministro da tutela sectorial enviada com, pelo menos, seis meses de antecedência.
 
@@ -462,12 +524,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 15 de Novembro de 2004.**
+Promulgado em 15 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Novembro de 2004.**
+Referendado em 22 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

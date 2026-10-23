@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/059a00/20682083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2002/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2002-250608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf4b4d3d801ea31cc9fc0cc7676e27546a673de69e58777dacf6cee09aa0649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93aa7410305ff9970690b9af8ccb888c1416536b6f349dd00990600ecdb9da58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo no Espaço Rural
-- Turismo
-- Indústria Hoteleira
-- Licenciamento
-- Regime Jurídico
 - Agro-turismo
 - CASA de Campo
 - Hotel Rural
+- Indústria Hoteleira
+- Infraestrutura Turística
+- Licenciamento
 - Parque de Campismo Rural
+- Regime Jurídico
+- Turismo
 - Turismo de Aldeia
 - Turismo de Habitação
+- Turismo no Espaço Rural
 - Turismo Rural
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:249538:por
@@ -123,16 +123,89 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:144995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado a partir de 06.04.2008, pelo DEC LEI.39/2008.07.03.2008.MEI, DR.IS [48] de 07.03.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
   article_count: 78
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:59Z'
   warnings: []
   errors: []
 ---
@@ -851,7 +924,9 @@ c) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, as direcções regionais do Ministério da Economia podem recorrer a entidades públicas ou a entidades privadas acreditadas junto destas nas áreas dos serviços, equipamentos e infra-estruturas existentes nos empreendimentos de turismo no espaço rural previstos no número anterior.
 
-###### Artigo 60.º — Livro de reclamações
+###### Artigo 60.º
+
+## Livro de reclamações
 
 1 - Nos empreendimentos de turismo no espaço rural previstos nas alíneas a) a e) do n.º 3 do artigo 2.º deve existir um livro destinado aos hóspedes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -1027,12 +1102,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Luís Garcia Braga da Cruz - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa - Augusto Ernesto Santos Silva.
 
-**Promulgado em 14 de Fevereiro de 2002.**
+Promulgado em 14 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

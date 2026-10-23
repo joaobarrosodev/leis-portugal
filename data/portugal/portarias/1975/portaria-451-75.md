@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 168/1975, 1º Suplemento, Série I de 1975-07-23
   number: '168'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1024-(2) a 1024-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/16801/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/451-1975-693833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 183e141a64c9cbd6eb59a64b4eea3a888a778217db5dfdc6da8acd08b6a8d340
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e11accb683699ba0018d642265983ef88248ff6e0ae37c3b36d724e1ff64a4d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:547241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430397:por
+  label: "Revogado o n.º 2 pela PORT.529/76.21.08.1976.MAP, DR.IS [196] de 21.08.1976, e parte do n.º 3 na parte que o contrarie\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/529-1976-430397
+  date: '1976-08-21'
+- type: repealed_by
+  target: pt:dre:299996:por
+  label: Revogada a alteração ao art. 10.º do Dec Lei 354-A/74, de 14-ago, feita pela presente Portaria, pelo(a) Portaria
+    n.º 457/78 - Diário da República n.º 184/1978, Série I de 1978-08-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-1978-299996
+  date: '1978-08-11'
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogada pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:04Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +115,7 @@ Considerando que o sistema de licenciamento estabelecido no [Decreto-Lei n.º 35
 
 1.º A alínea a) do artigo 10.º e os artigos 14.º, 16.º e 20.º do [Decreto-Lei n.º 354-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-a-1974-547241), de 14 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 10.º - 1. ...
+Art. 10.º - 1. ...
 
 a) 650$00, se se tratar de cidadão nacional residente no estrangeiro;
 
@@ -105,7 +127,7 @@ c) ...
 
 3. ...
 
-###### Art. 14.º - 1. A licença de caça pode ser:
+Art. 14.º - 1. A licença de caça pode ser:
 
 a) Licença geral (nacional) de caça;
 
@@ -139,7 +161,7 @@ b) Licença distrital.
 
 10. As diferentes espécies de licença de caça são válidas por uma época venatória, com início em 1 de Junho e fim em 31 de Maio do ano seguinte.
 
-###### Art. 16.º Pela concessão das licenças de caça serão devidas as taxas seguintes:
+Art. 16.º Pela concessão das licenças de caça serão devidas as taxas seguintes:
 
 I) Licença geral (nacional) de caça ... 650$00
 
@@ -163,7 +185,7 @@ VI) Licença regional de caça para as ilhas adjacentes ... 350$00
 
 VII) Licença distrital de caça para as ilhas adjacentes ... 100$00
 
-###### Art. 20.º O caçador encontrado a caçar fora da área onde a sua licença o autoriza é punido com multa correspondente ao décuplo da importância da licença nacional e interdição de caçar por dois anos.
+Art. 20.º O caçador encontrado a caçar fora da área onde a sua licença o autoriza é punido com multa correspondente ao décuplo da importância da licença nacional e interdição de caçar por dois anos.
 
 2.º É suspenso o licenciamento para criadores de furões e para caçar com furão no continente.
 

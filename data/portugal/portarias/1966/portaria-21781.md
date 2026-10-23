@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21781-1966-233351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 780e0b2635a6b476cc9de667e1a2e37fa3768ea27183bbff1451d371d2de3ff0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b17c282983bece6411c8978b6a0905bb075e2929c30c23ac64e026f7aafe384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:32Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Tendo em vista a autorização concedida pelo Conselho de Ministros para os Assu
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos dos artigos 13.º e 16.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, que o Governo-Geral de Moçambique abra um crédito especial de 4850000$00, destinado a satisfazer encargos com «Plano Intercalar de Fomento - Transportes e comunicações - Portos e navegação - Estudos em modelo reduzido e trabalhos complementares dos portos de Lourenço Marques, Beira e outros», servindo de contrapartida as seguintes disponibilidades das verbas que se indicam da tabela de despesa extraordinária do orçamento geral do ano findo:
 
-### Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
+Capítulo 12.º, artigo 2580.º «Plano Intercalar de Fomento»:
 
 6) «Transportes e comunicações»:
 

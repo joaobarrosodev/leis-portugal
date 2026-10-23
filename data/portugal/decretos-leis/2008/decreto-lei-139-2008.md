@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139/2008/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2008-456799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:03:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8575cfb67319c6e32e6ecce6770308e9d6a2b13bbf3938998ec24062fd3629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6917285198768ca0c164229802590d3e0d14c76720c5827d135db0936734a1b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:03:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Administrativa
-- Faculdade de Farmácia
-- Universidade NOVA de Lisboa
-- Ineti
-- Universidade de Lisboa
-- Instituto de Higiene e Medicina Tropical
 - Faculdade de Ciências
-- Laboratório Nacional de Energia e Geologia
+- Faculdade de Farmácia
+- Gestão Administrativa
 - Gestão de Recursos Humanos
+- Ineti
+- Instituto de Higiene e Medicina Tropical
+- Laboratório Nacional de Energia e Geologia
 - Transferência de Competências
 - Transferência Patrimonial
+- Universidade de Lisboa
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:3395176:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:despacho:21146/2003
+  label: "Transfere as competências, posição jurídica e equipamentos amovíveis detidos pela Unidade de Novas Formas de Agentes\
+    \ Bioactivos (UNFAB) do Departamento de Biotecnologia (DB) do INETI, I.P. para a Faculdade de Farmácia da Universidade\
+    \ de Lisboa cujos Estatutos foram publicados por AV DD3800 de 12.09.1990 da REI-UL DR.IIS [211] posteriormente alterados\
+    \ pelo Despacho nº 21146/2003(2ªsérie) de 03-Nov \0v \0"
+  source: null
+  date: '1990-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/2006/10/27/p/dre
   label: null
@@ -106,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:03:29Z'
   warnings: []
   errors: []
 ---
@@ -252,12 +284,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António José de Castro Guerra - Jaime de Jesus Lopes Silva - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 25 de Junho de 2008.**
+Promulgado em 25 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Junho de 2008.**
+Referendado em 26 de Junho de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

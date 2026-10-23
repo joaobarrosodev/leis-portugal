@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/2002/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2002-261316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cbd1c1855f6708b86acaf34473cf07e83264dd1075bc7f10bbdefd986f10e56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9dc87f428285ec6b1e3e6f8c305f1ffdbf84b6c37d7cb60263d2e54e1db1f99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Bens e Serviços
-- Pessoal Dirigente
+- Centro de Saúde
 - Direcção Técnica
 - Director Clínico
-- Serviço Nacional de Saúde
+- Estabelecimento Hospitalar
 - Formas de Provimento
 - Gestão Hospitalar
-- Centro de Saúde
 - Nomeação
 - Pessoal de Enfermagem
-- Estabelecimento Hospitalar
+- Pessoal Dirigente
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:608237:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220169:por
+  label: "Repristinado o Dec Lei 157/99 de 10-Mai, com a redacção dada pelo presente diploma, pelo DEC LEI.88/2005.03.06.2005.MS,\
+    \ DR.IS-A [107] de 03.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2005-220169
+  date: '2005-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1996/08/13/p/dre
   label: null
@@ -114,16 +120,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:138480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654680:por
+  label: "Revogados os arts. 1º, 2º, 5º e 6º pelo DEC LEI.188/2003.2003.08.20.MS DR.IS-A [191], sem prejuízo da manutenção\
+    \ das estruturas constituídas nos termos do Dec Lei 374/99 de 18-Set\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-2003-654680
+  date: '2003-08-20'
+- type: repealed_by
+  target: pt:dre:608237:por
+  label: "Revogado, a partir de 16.05.2009, o Dec Lei 157/99, de 10-Maio, alterado pelo presente diploma, pelo DEC LEI.102/2009.11.05.2009.MS,\
+    \ DR.IS [90] de 11.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2009-608237
+  date: '2009-05-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:38Z'
   warnings: []
   errors: []
 ---
@@ -230,12 +288,12 @@ i) ...
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Fernando Correia de Campos - Alberto de Sousa Martins.
 
-**Promulgado em 14 de Fevereiro de 2002.**
+Promulgado em 14 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 2002.**
+Referendado em 18 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

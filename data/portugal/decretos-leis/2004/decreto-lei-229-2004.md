@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/288a00/70407050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/2004/12/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2004-213407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eff0bc3bc96a475e69d363defd94001e00f8653807440fb3378a2ec168861cda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7411e2aa86b79ada7bc7c91eecb90ce3f00c9f24c803483409ab484a6911ffb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Insolvência
 - Advogado
 - Agrupamento Complementar de Empresas
-- Consórcio
-- Cisão de Empresas
-- Extinção de Empresas
 - Carreira Profissional
+- Cisão de Empresas
+- Consórcio
+- Estágio de Formação
+- Extinção de Empresas
 - Firma
 - Fusão de Sociedades
-- Sociedade de Responsabilidade Limitada
+- Insolvência
 - Liquidação de Sociedades
 - Lucro
-- Estágio de Formação
 - Regime Jurídico
 - Sociedade de Advogados
+- Sociedade de Responsabilidade Limitada
 - Socio
 relationships:
 - type: amended_by
@@ -95,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2001/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2001/07/20/p/dre
+- type: cites
+  target: pt:dre:392841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631838:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70236273:por
+  label: Revogado, a partir de 09.10.2015, pelo(a) Lei n.º 145/2015 - Diário da República n.º 176/2015, Série I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/145-2015-70236273
+  date: '2015-09-09'
 article_structure:
   article_count: 65
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:44Z'
   warnings: []
   errors: []
 ---
@@ -863,12 +880,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2004. - Pedro Miguel de Santana Lopes - José Pedro Aguiar Branco.
 
-**Promulgado em 22 de Novembro de 2004.**
+Promulgado em 22 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 2004.**
+Referendado em 25 de Novembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.

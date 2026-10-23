@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/09/226a00/61646165.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/264/2001/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2001-614363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721cbcf6d652c911d5bf4417cba3b8ca0dca7ad1f2029cab9b3675c17ef82fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afbe3454128546c63525ad33707db57d831a7113b2affeff4e3ba76b33fc6627
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Baixo Cávado e AVE
-- Gestão de Resíduos
-- Sociedade Anónima
-- Barcelos
-- Saneamento Básico
-- Esposende
-- MAIA
-- VILA do Conde
-- Póvoa de Varzim
-- Sistema Multimunicipal de Saneamento do Baixo Cávado e AVE
-- Santo Tirso
 - Abastecimento de Água
-- Tratamento de ÁGUA
 - Autarquia Local
+- Barcelos
+- Esposende
+- Gestão de Resíduos
+- MAIA
+- Póvoa de Varzim
+- Saneamento Básico
+- Santo Tirso
+- Sistema Multimunicipal de Abastecimento de ÁGUA e de Saneamento do Baixo Cávado e AVE
+- Sistema Multimunicipal de Saneamento do Baixo Cávado e AVE
+- Sociedade Anónima
+- Tratamento de ÁGUA
 - Trofa
+- VILA do Conde
 - VILA NOVA de Famalicão
 relationships:
 - type: amended_by
@@ -116,16 +116,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:220948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:614173:por
+  label: "Revogado, a partir de 04.05.2010, pelo DEC LEI.41/2010.29.04.2010.MAOT, DR.IS [83] de 29.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2010-614173
+  date: '2010-04-29'
+- type: repealed_by
+  target: pt:dre:498094:por
+  label: "Revogado o Dec Lei 379/93, de 05-nov, na redação do presente diploma, pelo DEC LEI.92/2013.11.07.2013.MAMAOT, DR.IS\
+    \ [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2013-498094
+  date: '2013-07-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:30Z'
   warnings: []
   errors: []
 ---
@@ -204,12 +243,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 23 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 17 de Setembro de 2001.**
+Promulgado em 17 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 2001.**
+Referendado em 20 de Setembro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

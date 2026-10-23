@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/518-1973-421874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:08:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a55a92f99ec9b0ff3d301baf4f22ff90e90d1e41a48b989069e139637e058a96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a458129c47b043108c23142eed7e5ab47f7ad409918360d92bcab747752bc60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:08:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:08:40Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +92,6 @@ Nos termos do artigo 71.º n.º 1, do [Decreto-Lei n.º 413/71](https://diarioda
 
 Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência, que o quadro do pessoal dirigente do Centro de Saúde Mental de Faro seja assim constituído:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/08/17900/13521352.pdf))](https://files.diariodarepublica.pt/1s/1973/08/17900/13521352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/17900/13521352.pdf)
 
 Ministérios das Finanças e da Saúde e Assistência, 17 de Julho de 1973. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.

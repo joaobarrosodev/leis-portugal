@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/2019/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2019-124917020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6986c35a8a72838fd40e1fad0f38c19f7c4b6d074373b09c0791f3b04631e3b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42e7b7e69489fbd6c932f06aa81c9a3dd2b196814af4f79b6deac9fb65fd7955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,39 +66,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Valores Mobiliários
-- Instituição de Crédito
+- Banca
+- Banco de Portugal
+- Branqueamento de Capitais
+- CMVM
 - Código dos Valores Mobiliários
-- Combate ao Terrorismo
-- Supervisão Financeira
 - Combate ao Crime
+- Combate ao Terrorismo
 - Definição de Competências
+- Empreendedorismo
 - Fundo de Capital de Risco
 - Fundo de Investimento
-- Banco de Portugal
-- Sociedade Gestora de Fundos de Titularização de Créditos
-- Titularização de Créditos
-- Branqueamento de Capitais
-- Banca
+- Instituição de Crédito
+- Instituição Financeira
 - Investimento
 - Mercado de Valores
 - Mercado Financeiro
 - Organismo de Investimento Colectivo
-- Terrorismo
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
-- CMVM
-- Instituição Financeira
 - Sociedade de Capital de Risco
 - Sociedade de Investimento
 - Sociedade de Titularização de Créditos
+- Sociedade Gestora de Fundos de Titularização de Créditos
+- Supervisão Financeira
+- Terrorismo
+- Titularização de Créditos
 - Transferência de Competências
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:183079162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:175659841:por
+  label: Alterados os arts. 2.º, 71.º-L, 71.º-M, 72.º-A, 74.º, 78.º-A, 79.º-H, 79.º-I, 79.º-K, 88.º-B, 110.º-A, 110.º-D, 114.º-A,
+    114.º-C, 196.º, 197.º, 199.º, 202.º, 203.º, 233.º, 235.º, 237.º-A, 238.º e 240.º, aditados os arts. 201.º-A, 203.º-A,
+    229.º-A, 229.º-B, 229.º-C, 229.º-D, 233.º-A, 237.º-B e 240.º-A e a divisão i-A à subsecção i da secção iv do capítulo
+    iii do título iii, e revogados o n.º 2 do art. 71.º-L, o n.º 3 do art. 110.º-D, o art. 152.º, o art. 198.º e o n.º 2 do
+    art. 202.º do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à Lei 16/2015 de 24-fev, na versão
+    republicada do Regime Geral pelo presente diploma, pelo(a) Decreto-Lei n.º 109-F/2021 - Diário da República n.º 237/2021,
+    1º Suplemento, Série I de 2021-12-09 nos termos do seu art. 6.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-f-2021-175659841
+  date: '2021-12-09'
+- type: amended_by
+  target: pt:dre:176907512:por
+  label: Alterados, a partir de 30.01.2022, os arts. 19.º, 59.º-A, 71.º-D, 92.º-B, 92.º-C, 161.º e 221.º do Regime Geral dos
+    Organismos de Investimento Coletivo aprovado pela Lei 16/2015 de 24-fev, na versão republicada do Regime Geral pelo presente
+    diploma, pelo(a) Lei n.º 99-A/2021 - Diário da República n.º 253/2021, 1º Suplemento, Série I de 2021-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/99-a-2021-176907512
+  date: '2021-12-31'
+- type: amended_by
+  target: pt:dre:183079162:por
+  label: Alterados a partir de 01-07-2022 os arts. 110.º-D, 114.º-C, 176.º, 201.º-A, 233.º, 233.º-A e 240.º, aditado a partir
+    de 01-01-2023 o art. 156.º-A e revogada a partir de 01-07-2022 a al. c) do n.º 3 do art. 240.º do Regime Geral dos Organismos
+    de Investimento Coletivo aprovado em anexo à Lei 16/2015, de 24-fev , na versão republicada do Regime Geral pelo presente
+    diploma pelo(a) Decreto-Lei n.º 31/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2022-183079162
+  date: '2022-05-06'
 - type: cites
   target: celex:32006L0043
   label: null
@@ -219,16 +245,390 @@ relationships:
   target: eli:http://data.europa.eu/eli/re
   label: null
   source: http://data.europa.eu/eli/re
+- type: cites
+  target: pt:dre:106960758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106960759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107596682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107773645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114248651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115660003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:115740680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119397717:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:120837264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123891090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124256706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55068738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55069677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58585556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66581992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66655590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66868336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69727377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70139954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70196967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70237676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70241306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74216972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74605300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75406986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:126467883:por
+  label: Retificada a al. b) do art. 16.º do presente diploma pelo(a) Declaração de Retificação n.º 56/2019 - Diário da República
+    n.º 225/2019, Série I de 2019-11-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/56-2019-126467883
+  date: '2019-11-22'
 article_structure:
-  article_count: 539
-  section_count: 85
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 379
+  section_count: 77
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:19Z'
   warnings: []
   errors: []
 ---
@@ -337,7 +737,9 @@ j) [...].
 
 5 - Não são sociedades financeiras as entidades reguladas no Regime Jurídico da Titularização de Créditos, aprovado pelo [Decreto-Lei n.º 453/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1999-693810), de 5 de novembro, na sua redação atual, no Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual, e no Regime Jurídico do Capital de Risco, Empreendedorismo Social e Investimento Especializado, aprovado em anexo à [Lei n.º 18/2015](https://diariodarepublica.pt/dr/detalhe/lei/18-2015-66655590), de 4 de março, na sua redação atual.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -361,7 +763,9 @@ f) [...];
 
 g) Da concessão de crédito por organismos de investimento alternativo especializado de créditos, de acordo com as normas legais e regulamentares que regem a respetiva atividade.
 
-###### Artigo 129.º-A — [...]
+Artigo 129.º-A
+
+[...]
 
 1 - [...].
 
@@ -375,7 +779,9 @@ g) Da concessão de crédito por organismos de investimento alternativo especial
 
 6 - O disposto no presente artigo é aplicável em base subconsolidada às instituições de crédito que sejam filiais, caso essas instituições de crédito ou a respetiva empresa-mãe, quando se tratar de uma companhia financeira-mãe ou uma companhia financeira mista-mãe, tenham uma instituição de crédito, uma empresa de investimento, ou uma instituição financeira como filial num país terceiro, ou nela detenham uma participação.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - [...].
 
@@ -383,7 +789,9 @@ g) Da concessão de crédito por organismos de investimento alternativo especial
 
 3 - [...].
 
-###### Artigo 199.º-I — [...]
+Artigo 199.º-I
+
+[...]
 
 1 - O disposto nos artigos 35.º-A, 42.º-A, 43.º-A, 102.º a 111.º, 116.º-AA e 116.º-AB é também aplicável às empresas de investimento e à tomada de participações nestas mesmas entidades.
 
@@ -399,7 +807,9 @@ g) Da concessão de crédito por organismos de investimento alternativo especial
 
 7 - [...].
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - [...].
 
@@ -445,7 +855,9 @@ Os artigos 15.º, 17.º, 19.º, 21.º, 22.º, 37.º, 40.º a 43.º, 46.º, 47.º
 
 2 - [...].
 
-###### Artigo 17.º — Requisitos gerais
+Artigo 17.º
+
+Requisitos gerais
 
 1 - As sociedades gestoras adotam o tipo de sociedade anónima.
 
@@ -461,11 +873,15 @@ Os artigos 15.º, 17.º, 19.º, 21.º, 22.º, 37.º, 40.º a 43.º, 46.º, 47.º
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Às sociedades gestoras aplica-se o disposto nos n.os 1, 2 e 4 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 [...]:
 
@@ -479,13 +895,17 @@ d) [...];
 
 e) Adquirir imóveis além do indispensável à prossecução direta da sua atividade e que excedam o montante dos seus fundos próprios obrigatórios.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
 2 - Caso seja revogada a autorização da sociedade gestora ou se verifique outra causa de dissolução da sociedade, a CMVM pode determinar a substituição da sociedade gestora.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Compete à CMVM a supervisão das sociedades gestoras e dos fundos.
 
@@ -507,7 +927,9 @@ g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de 
 
 3 - É aplicável, com as devidas adaptações, o disposto nos artigos 71.º-Q e 71.º-R do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -517,7 +939,9 @@ g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de 
 
 4 - [...].
 
-###### Artigo 41.º — Adequação dos membros dos órgãos de administração e fiscalização
+Artigo 41.º
+
+Adequação dos membros dos órgãos de administração e fiscalização
 
 1 - É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto no artigo 17.º-H.
 
@@ -525,7 +949,9 @@ g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de 
 
 3 - [Revogado].
 
-###### Artigo 42.º — Adequação dos titulares de participações qualificadas
+Artigo 42.º
+
+Adequação dos titulares de participações qualificadas
 
 1 - É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto no artigo 17.º-I.
 
@@ -533,21 +959,29 @@ g) Estabelecer deveres de informação e de reporte aplicáveis para efeitos de 
 
 3 - [Revogado].
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Às sociedades de titularização de créditos aplica-se o disposto no artigo 19.º
 
 2 - [Revogado].
 
-###### Artigo 46.º — Organização e exercício
+Artigo 46.º
+
+Organização e exercício
 
 É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto nos artigos 22.º-A a 22.º-C.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 É aplicável, com as devidas adaptações, às sociedades de titularização de créditos, o disposto nos artigos 17.º-A a 17.º-G.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...].
 
@@ -625,7 +1059,9 @@ k) Às entidades habilitadas por lei especial a exercer atividades de intermedia
 
 10 - [...].
 
-###### Artigo 293.º — [...]
+Artigo 293.º
+
+[...]
 
 1 - [...]:
 
@@ -639,7 +1075,9 @@ d) [Revogada].
 
 2 - [...].
 
-###### Artigo 294.º — [...]
+Artigo 294.º
+
+[...]
 
 1 - [...].
 
@@ -663,7 +1101,9 @@ c) Por outras entidades legalmente habilitadas.
 
 8 - [...].
 
-###### Artigo 295.º — [...]
+Artigo 295.º
+
+[...]
 
 1 - [...].
 
@@ -677,7 +1117,9 @@ c) Por outras entidades legalmente habilitadas.
 
 6 - [...].
 
-###### Artigo 359.º — [...]
+Artigo 359.º
+
+[...]
 
 1 - [...]:
 
@@ -719,7 +1161,9 @@ q) [...].
 
 3 - [...].
 
-###### Artigo 363.º — [...]
+Artigo 363.º
+
+[...]
 
 1 - [...]:
 
@@ -851,7 +1295,9 @@ qq) «SGOIC», as sociedades gestoras de organismos de investimento coletivo.
 
 2 - [...].
 
-###### Artigo 5.º — Forma
+Artigo 5.º
+
+Forma
 
 1 - Os organismos de investimento coletivo assumem a forma:
 
@@ -863,7 +1309,9 @@ b) Societária de sociedade de investimento coletivo.
 
 3 - [Revogado].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -873,7 +1321,9 @@ b) Societária de sociedade de investimento coletivo.
 
 4 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O património dos fundos de investimento é representado por partes de conteúdo idêntico que asseguram aos seus titulares direitos iguais, sem valor nominal, que se designam unidades de participação.
 
@@ -881,7 +1331,9 @@ b) Societária de sociedade de investimento coletivo.
 
 3 - As referências no presente Regime Geral a unidades de participação devem ser entendidas de modo a abranger ações das sociedades de investimento coletivo, assim como as referências a participantes devem ser entendidas de modo a abranger acionistas das mesmas sociedades, salvo se o contrário resultar da própria disposição.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -893,7 +1345,9 @@ b) Societária de sociedade de investimento coletivo.
 
 5 - Sem prejuízo dos tipos previstos no presente Regime Geral e em legislação especial, a CMVM pode estabelecer em regulamento a tipologia de organismos de investimento coletivo, considerando, designadamente, os ativos e as regras de composição das carteiras.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -913,7 +1367,9 @@ b) Societária de sociedade de investimento coletivo.
 
 9 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]:
 
@@ -935,7 +1391,9 @@ a) O valor líquido global de cada um dos compartimentos seja positivo; e
 
 b) A soma do valor líquido global de cada um desses compartimentos ultrapasse os limites mínimos aí indicados.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -957,7 +1415,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O pedido de autorização de organismos de investimento coletivo heterogeridos, subscrito pelos promotores da sociedade de investimento coletivo ou pela entidade gestora, é instruído com os seguintes documentos:
 
@@ -989,7 +1449,9 @@ g) Estrutura organizacional da sociedade de investimento coletivo heterogerida.
 
 8 - A CMVM pode concretizar e desenvolver por regulamento os documentos instrutórios referidos no presente artigo.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -1005,7 +1467,9 @@ g) Estrutura organizacional da sociedade de investimento coletivo heterogerida.
 
 7 - [Revogado].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A CMVM recusa a autorização de organismos de investimento coletivo que não sejam autogeridos quando:
 
@@ -1027,7 +1491,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - A CMVM revoga a autorização do organismo de investimento coletivo heterogerido se:
 
@@ -1047,7 +1513,9 @@ f) A entidade gestora ou a sociedade de investimento coletivo heterogerida renun
 
 3 - A CMVM pode autorizar a prorrogação, por período determinado, do prazo previsto na alínea e) do n.º 1, a requerimento devidamente fundamentado da entidade gestora ou da sociedade de investimento coletivo heterogerida.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -1075,13 +1543,17 @@ b) [...].
 
 8 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - Exceto no caso das sociedades de investimento coletivo autogeridas, os custos legais, de assessoria ou administrativos ligados à preparação e finalização da fusão não são imputados aos OICVM envolvidos nem aos participantes de qualquer deles.
 
 2 - Nas sociedades de investimento coletivo autogeridas que tenham um compartimento patrimonial autónomo afeto ao exercício da sua atividade, os custos referidos no número anterior são-lhe afetos.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]:
 
@@ -1105,7 +1577,9 @@ g) Revogação ou suspensão da autorização, dissolução ou qualquer outro mo
 
 4 - [...].
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...].
 
@@ -1139,7 +1613,9 @@ b) [...].
 
 12 - [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
@@ -1171,7 +1647,9 @@ b) A decisão do pedido referido na alínea c) do n.º 9.
 
 13 - [...].
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - O organismo de investimento coletivo heterogerido é gerido a título profissional por uma entidade gestora elegível nos termos do artigo 71.º-A.
 
@@ -1187,7 +1665,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...].
 
@@ -1199,7 +1679,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 72.º-A — [...]
+Artigo 72.º-A
+
+[...]
 
 1 - [...].
 
@@ -1207,7 +1689,9 @@ c) [...].
 
 3 - A entidade gestora está sujeita ao dever de segredo profissional nos termos previstos para o segredo bancário.
 
-###### Artigo 79.º-A — [...]
+Artigo 79.º-A
+
+[...]
 
 1 - [...].
 
@@ -1221,7 +1705,9 @@ c) [...];
 
 d) [...].
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - [...].
 
@@ -1241,7 +1727,9 @@ d) [...].
 
 9 - [...].
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...].
 
@@ -1267,7 +1755,9 @@ c) [...].
 
 7 - [...].
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - [...]:
 
@@ -1295,7 +1785,9 @@ h) A entidade gestora de país terceiro dispuser de capital inicial mínimo de (
 
 5 - É correspondentemente aplicável o disposto no artigo 247.º caso a CMVM tenha motivos claros e demonstráveis para discordar da autorização de uma entidade gestora de país terceiro por parte das autoridades competentes do seu Estado membro de referência.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - [...]:
 
@@ -1333,7 +1825,9 @@ v) As informações adicionais a que se refere o n.º 1 do artigo 221.º, quando
 
 3 - [...].
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - [...].
 
@@ -1345,13 +1839,17 @@ b) [...].
 
 3 - [...].
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - A CMVM recusa a autorização de entidade gestora de país terceiro nas situações previstas no n.º 2 do artigo 71.º-H, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 97.º
 
 2 - [...].
 
-###### Artigo 103.º — Revogação
+Artigo 103.º
+
+Revogação
 
 1 - [Revogado].
 
@@ -1373,11 +1871,15 @@ f) Se a entidade gestora renunciar expressamente à autorização.
 
 4 - A CMVM pode autorizar a prorrogação, por período determinado, dos prazos previstos nas alíneas d) e e) do número anterior, a requerimento devidamente fundamentado da entidade gestora.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 Às alterações das condições iniciais de autorização de entidade gestora de país terceiro é aplicável o disposto nos n.os 3 e 4 do artigo 71.º-J, com as devidas adaptações.
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - As SGOIC autorizadas como entidades gestoras de OICVM podem exercer noutro Estado membro, alternativa ou cumulativamente, mediante o estabelecimento de uma sucursal ou ao abrigo da liberdade de prestação de serviços, as atividades abrangidas pela respetiva autorização, incluindo:
 
@@ -1393,7 +1895,9 @@ b) As atividades referidas no n.º 5 do artigo 71.º-B, abrangidas pela respetiv
 
 3 - Caso uma SGOIC estabelecida em Portugal se proponha, sem o estabelecimento de sucursal, apenas a comercializar um OICVM, por si gerido, noutro Estado membro diferente daquele em que o OICVM esteja estabelecido, sem se propor exercer outras atividades ou prestar outros serviços, essa comercialização fica apenas sujeita aos requisitos estabelecidos na subsecção II da secção III do capítulo II do título III.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - Quando, no âmbito de um pedido de constituição de um OICVM noutro Estado membro, ou de autorização de gestão de OICVM já constituído, as autoridades competentes do Estado membro de origem do OICVM solicitarem esclarecimentos sobre a instrução do pedido ou informações adicionais sobre o âmbito da autorização concedida à SGOIC, a CMVM transmite os esclarecimentos solicitados no prazo de 10 dias a contar da data de receção do pedido.
 
@@ -1405,7 +1909,9 @@ b) As atividades referidas no n.º 5 do artigo 71.º-B, abrangidas pela respetiv
 
 5 - A CMVM notifica, de imediato, as autoridades competentes do Estado membro de origem do OICVM de quaisquer problemas detetados a nível da SGOIC, que possam afetar em termos materiais a capacidade desta para desempenhar corretamente as suas funções respeitantes ao OICVM, ou do não cumprimento de qualquer dos requisitos estabelecidos no capítulo I do título II.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - As entidades gestoras de OICVM autorizadas noutros Estados membros e sujeitas à supervisão das respetivas autoridades podem exercer em Portugal, alternativa ou cumulativamente, mediante o estabelecimento de uma sucursal ou ao abrigo da liberdade de prestação de serviços, as atividades abrangidas pela respetiva autorização, incluindo:
 
@@ -1425,11 +1931,15 @@ b) As atividades referidas no n.º 5 do artigo 71.º-B, abrangidas pela respetiv
 
 5 - [Revogado].
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 As entidades gestoras da União Europeia asseguram, relativamente a organismos de investimento coletivo estabelecidos em Portugal por si geridos, o cumprimento das disposições do presente Regime Geral relativas à constituição e ao funcionamento e das obrigações estabelecidas nos documentos constitutivos, definindo todas as regras e disposições organizativas necessárias a esse cumprimento.
 
-###### Artigo 116.º — Instrução do pedido de gestão de OICVM em Portugal
+Artigo 116.º
+
+Instrução do pedido de gestão de OICVM em Portugal
 
 1 - O pedido de gestão de OICVM estabelecido em Portugal por parte de entidades gestoras de OICVM estabelecidas noutro Estado membro é apresentado junto da CMVM e instruído com a seguinte documentação:
 
@@ -1443,7 +1953,9 @@ b) [...].
 
 4 - Quaisquer alterações relevantes subsequentes à documentação referida no n.º 1 são notificadas pela entidade gestora à CMVM.
 
-###### Artigo 117.º — Recusa de pedido de gestão de OICVM em Portugal
+Artigo 117.º
+
+Recusa de pedido de gestão de OICVM em Portugal
 
 1 - [...].
 
@@ -1453,11 +1965,15 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 As entidades gestoras autorizadas noutro Estado membro que exerçam atividade em Portugal através de sucursais estão sujeitas ao reporte periódico de informação sobre a gestão de OICVM e de OIA à CMVM, para fins estatísticos, nos termos a definir em regulamento da CMVM.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - [...].
 
@@ -1497,7 +2013,9 @@ ix) [...].
 
 8 - [...].
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - [...].
 
@@ -1513,7 +2031,9 @@ ix) [...].
 
 7 - [...].
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - O contrato entre a sociedade de investimento coletivo, ou a entidade gestora, no caso dos fundos de investimento, e o depositário é reduzido a escrito e sujeita-se à lei portuguesa, devendo tal facto ser especificado no mesmo.
 
@@ -1521,7 +2041,9 @@ ix) [...].
 
 3 - [...].
 
-###### Artigo 129.º — [...]
+Artigo 129.º
+
+[...]
 
 1 - [...]:
 
@@ -1541,7 +2063,9 @@ d) [...].
 
 5 - [...].
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - [...].
 
@@ -1557,7 +2081,9 @@ d) [...].
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - [...]:
 
@@ -1591,7 +2117,9 @@ f) [...].
 
 8 - [...].
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - [...]:
 
@@ -1631,7 +2159,9 @@ j) [...].
 
 9 - [...].
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - [...].
 
@@ -1657,7 +2187,9 @@ j) [...].
 
 12 - [...].
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - [...].
 
@@ -1719,7 +2251,9 @@ y) [...].
 
 5 - [...].
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - [...].
 
@@ -1751,7 +2285,9 @@ e) [...].
 
 10 - [...].
 
-###### Artigo 172.º — [...]
+Artigo 172.º
+
+[...]
 
 1 - [...].
 
@@ -1771,7 +2307,9 @@ e) [...].
 
 9 - As sociedades de investimento coletivo podem adquirir os bens móveis e imóveis indispensáveis ao exercício direto da sua atividade.
 
-###### Artigo 174.º — [...]
+Artigo 174.º
+
+[...]
 
 1 - [...].
 
@@ -1781,7 +2319,9 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - [...].
 
@@ -1801,7 +2341,9 @@ c) Bens móveis ou imóveis indispensáveis à prossecução direta das suas ati
 
 6 - [...].
 
-###### Artigo 192.º — [...]
+Artigo 192.º
+
+[...]
 
 1 - A CMVM notifica a entidade responsável pela gestão do OICVM de tipo alimentação da decisão relativa aos pedidos de autorização por esta apresentados, no prazo de 15 dias a contar da entrega dos elementos referidos nas alíneas a) ou b) do n.º 1 do artigo anterior.
 
@@ -1813,7 +2355,9 @@ c) Bens móveis ou imóveis indispensáveis à prossecução direta das suas ati
 
 5 - [...].
 
-###### Artigo 194.º — [...]
+Artigo 194.º
+
+[...]
 
 1 - A CMVM notifica a entidade responsável pela gestão do OICVM de tipo alimentação da decisão relativa aos pedidos de autorização por este apresentados, no prazo de 15 dias a contar da entrega de todos os documentos referidos nas alíneas a) a c) do n.º 1 do artigo anterior.
 
@@ -1833,7 +2377,9 @@ c) Bens móveis ou imóveis indispensáveis à prossecução direta das suas ati
 
 9 - [...].
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - [...].
 
@@ -1853,7 +2399,9 @@ c) O limite ao investimento previsto na alínea a) do n.º 1 do artigo 211.º
 
 6 - [...].
 
-###### Artigo 221.º — [...]
+Artigo 221.º
+
+[...]
 
 1 - [...]:
 
@@ -1911,7 +2459,9 @@ t) [...].
 
 8 - [...].
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - [...].
 
@@ -1939,7 +2489,9 @@ e) Resultados dos testes de esforço realizados nos termos da alínea e) do n.º
 
 8 - [...].
 
-###### Artigo 223.º — [...]
+Artigo 223.º
+
+[...]
 
 1 - [...].
 
@@ -1969,7 +2521,9 @@ c) [...].
 
 11 - [...].
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 1 - A supervisão do disposto no presente Regime Geral compete à CMVM.
 
@@ -1983,13 +2537,17 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 244.º — [...]
+Artigo 244.º
+
+[...]
 
 1 - Recebendo a CMVM notificação das autoridades competentes do Estado membro de acolhimento de entidades responsáveis pela gestão e de entidades gestoras de país terceiro autorizadas em Portugal, expressando motivos claros e demonstráveis que sustentem que as mesmas não cumprem as obrigações decorrentes de regras cujo cumprimento cabe à CMVM supervisionar, esta toma as medidas adequadas, nomeadamente, se necessário, solicitando informações adicionais às autoridades de supervisão competentes de países terceiros.
 
 2 - [Revogado].
 
-###### Artigo 245.º — Supervisão de atividade em Portugal de entidades gestoras da União Europeia de OICVM
+Artigo 245.º
+
+Supervisão de atividade em Portugal de entidades gestoras da União Europeia de OICVM
 
 1 - [...].
 
@@ -2015,7 +2573,9 @@ c) [...].
 
 12 - [...].
 
-###### Artigo 246.º — Supervisão da atividade em Portugal de entidades gestoras de OIA
+Artigo 246.º
+
+Supervisão da atividade em Portugal de entidades gestoras de OIA
 
 1 - [...].
 
@@ -2023,7 +2583,9 @@ c) [...].
 
 3 - Caso a CMVM discorde de qualquer medida tomada por uma autoridade competente nos termos dos n.os 5 a 7 do artigo anterior, pode submeter a questão à Autoridade Europeia dos Valores Mobiliários e dos Mercados tendo em vista a obtenção de uma solução consensual entre as autoridades competentes envolvidas ou uma decisão vinculativa daquela Autoridade, nos termos do artigo 19.º do [Regulamento (UE) n.º 1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 247.º — [...]
+Artigo 247.º
+
+[...]
 
 1 - Se a CMVM tiver motivos claros e demonstráveis que sustentem que, relativamente à atividade em Portugal de entidades gestoras da União Europeia que gerem OIA e de entidades gestoras de países terceiros autorizadas noutros Estados membros, não estão a ser cumpridas disposições legais ou regulamentares da competência do Estado membro de origem ou de referência, a CMVM deve notificar desse facto a autoridade de supervisão competente.
 
@@ -2031,7 +2593,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 250.º — Cooperação na supervisão de entidades gestoras de OIA de países terceiros
+Artigo 250.º
+
+Cooperação na supervisão de entidades gestoras de OIA de países terceiros
 
 1 - A CMVM envida todos os esforços para, no âmbito das respetivas competências, dar cumprimento a orientações e recomendações emitidas pela Autoridade Europeia dos Valores Mobiliários e dos Mercados, ao abrigo do artigo 16.º do [Regulamento (UE) n.º 1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro, tendo em vista o estabelecimento de práticas coerentes, eficientes e eficazes de supervisão das entidades gestoras de países terceiros.
 
@@ -2043,17 +2607,23 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 250.º-A — [...]
+Artigo 250.º-A
+
+[...]
 
 Às informações, provas e denúncias que sejam dadas a conhecer à CMVM, relativas a infrações previstas no presente Regime Geral e sua regulamentação é aplicável o regime previsto no Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de novembro, na sua redação atual, e sua regulamentação.
 
-###### Artigo 251.º — [...]
+Artigo 251.º
+
+[...]
 
 1 - Caso tenha motivos claros e demonstráveis para suspeitar que uma entidade gestora de OIA comete ou cometeu atos, não sujeitos à sua supervisão, contrários ao disposto na [Diretiva n.º 2011/61/UE](https://data.europa.eu/eli/dir/2011/61/oj?locale=pt) do Parlamento Europeu e do Conselho, de 8 de junho de 2011, a CMVM notifica desse facto a Autoridade Europeia dos Valores Mobiliários e dos Mercados e as autoridades competentes do Estado membro de origem e dos Estados membros de acolhimento de forma tão pormenorizada quanto possível.
 
 2 - Quando a CMVM seja destinatária de notificação com o conteúdo previsto no número anterior, assegura-se de que são tomadas as medidas adequadas e informa a Autoridade Europeia dos Valores Mobiliários e dos Mercados e as autoridades competentes que a notificaram do resultado dessas medidas e, tanto quanto possível, da evolução entretanto verificada.
 
-###### Artigo 252.º — [...]
+Artigo 252.º
+
+[...]
 
 1 - A CMVM fornece à Autoridade Europeia dos Valores Mobiliários e dos Mercados, ao Comité Europeu do Risco Sistémico e às autoridades competentes dos outros Estados membros as informações que sejam relevantes para o acompanhamento e resposta às potenciais implicações das atividades de entidades gestoras de OIA concretas ou do conjunto destas na estabilidade de instituições financeiras importantes do ponto de vista sistémico e no bom funcionamento dos mercados em que as mesmas exerçam as suas atividades, nos termos do [Regulamento Delegado (UE) n.º 231/2013](https://data.europa.eu/eli/reg/2013/231/oj?locale=pt), da Comissão Europeia, de 19 de dezembro de 2012.
 
@@ -2063,7 +2633,9 @@ c) [...].
 
 4 - Caso a CMVM discorde de qualquer medida respeitante a uma avaliação, ação ou omissão por parte de uma autoridade competente de outro Estado membro em domínios em que o presente Regime Geral requer a cooperação ou coordenação com as mesmas, a CMVM pode submeter a questão à Autoridade Europeia dos Valores Mobiliários e dos Mercados tendo em vista a obtenção de uma solução consensual entre as autoridades competentes envolvidas ou uma decisão vinculativa daquela Autoridade, nos termos do artigo 19.º do [Regulamento (UE) n.º 1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 254.º — [...]
+Artigo 254.º
+
+[...]
 
 1 - Compete à CMVM regulamentar o disposto no presente Regime Geral, nomeadamente quanto às seguintes matérias:
 
@@ -2107,7 +2679,9 @@ Os artigos 4.º, 5.º, 7.º, 8.º, 11.º, 12.º, 17.º, 22.º, 44.º, 46.º, 47.
 
 8 - Os fundos de empreendedorismo social geridos por sociedades gestoras de organismos de investimento coletivo ficam adicionalmente sujeitos ao disposto no capítulo IV do título III.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -2139,7 +2713,9 @@ d) [...].
 
 11 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -2205,7 +2781,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 17 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O sócio único do investidor em capital de risco, os membros dos órgãos de administração e fiscalização e os titulares de participações qualificadas de sociedades de capital de risco devem reunir condições que garantam a sua gestão sã e prudente, devendo cumprir requisitos de idoneidade e experiência.
 
@@ -2215,7 +2793,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 4 - [Revogado].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -2233,13 +2813,17 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 8 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
 2 - As sociedades de capital de risco referidas no número anterior podem não constituir até 50 % do montante suplementar de fundos próprios a que se refere o número anterior se beneficiarem de uma garantia do mesmo montante prestada por uma instituição de crédito ou uma empresa de seguros com sede na União Europeia.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -2257,7 +2841,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 8 - As sociedades de desenvolvimento regional referidas no n.º 2 ficam sujeitas ao dever previsto no artigo 13.º
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -2267,7 +2853,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 4 - As unidades de participação em fundos de capital de risco devem ser nominativas e escriturais.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -2283,7 +2871,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 7 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - O capital inicial mínimo das sociedades gestoras de fundos de capital de risco é de (euro) 125 000, devendo o seu capital social estar integralmente realizado desde a constituição e ser representado por ações nominativas e escriturais.
 
@@ -2295,7 +2885,9 @@ c) Não estiverem preenchidos os requisitos relativos à adequação dos membros
 
 5 - [...].
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Os membros dos órgãos de administração e fiscalização das sociedades gestoras de fundos de capital de risco e das sociedades de investimento em capital de risco autogeridas são pessoas com idoneidade e experiência comprovadas, considerando, nomeadamente, os tipos de organismos de investimento alternativo sob gestão e as respetivas estratégias de investimento, devendo:
 
@@ -2307,7 +2899,9 @@ b) [...].
 
 3 - À apreciação e supervisão dos critérios de adequação referidos nos n.os 1 e 2 é aplicável, com as devidas adaptações, o disposto nos artigos 71.º-T e 71.º-U e 71.º-Y, respetivamente, do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - O início da atividade de sociedades gestoras de fundos de capital de risco e a constituição de sociedades de investimento em capital de risco dependem de autorização prévia da CMVM.
 
@@ -2343,7 +2937,9 @@ c) Uma sociedade sob o controlo das mesmas pessoas singulares ou coletivas que c
 
 9 - A CMVM pode concretizar e desenvolver por regulamento os elementos instrutórios referidos no presente artigo.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...].
 
@@ -2351,7 +2947,9 @@ c) Uma sociedade sob o controlo das mesmas pessoas singulares ou coletivas que c
 
 3 - As sociedades gestoras de fundos de capital de risco e as sociedades de investimento em capital de risco devem estabelecer políticas e práticas de remuneração, nos termos previstos no artigo 71.º-O do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - A autorização de entidades gestoras de países terceiros que gerem exclusivamente organismos de investimento em capital de risco, organismos de investimento em empreendedorismo social ou organismos de investimento alternativo especializado dirigidos exclusivamente a investidores profissionais fica sujeita ao disposto na subsecção I da secção IV do capítulo I do título II do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
@@ -2363,7 +2961,9 @@ c) Uma sociedade sob o controlo das mesmas pessoas singulares ou coletivas que c
 
 5 - [Revogado].
 
-###### Artigo 65.º-A — [...]
+Artigo 65.º-A
+
+[...]
 
 1 - [...].
 
@@ -2375,7 +2975,9 @@ c) Uma sociedade sob o controlo das mesmas pessoas singulares ou coletivas que c
 
 5 - [...].
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Compete à CMVM a supervisão do disposto no presente Regime Jurídico, dispondo para o efeito dos poderes previstos:
 
@@ -2411,7 +3013,9 @@ i) [...].
 
 5 - A competência da CMVM nos termos do n.º 1 abrange a competência de supervisão da atividade de concessão e de participação em empréstimos pelos OIAE de créditos.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...].
 
@@ -2469,7 +3073,9 @@ Autorização
 
 2 - As sociedades gestoras devem satisfazer de forma contínua as condições da autorização.
 
-###### Artigo 17.º-B — Instrução do pedido de autorização
+Artigo 17.º-B
+
+Instrução do pedido de autorização
 
 1 - Sem prejuízo do disposto nos números seguintes, o pedido de autorização é instruído com os seguintes elementos:
 
@@ -2491,13 +3097,17 @@ g) Informação sobre as políticas e as práticas de remuneração previstas no
 
 3 - A CMVM pode solicitar ao requerente esclarecimentos e informações suplementares, sugerir alterações aos documentos referidos no n.º 1, realizar as averiguações que considere necessárias e verificar, através de inspeção presencial, a existência dos meios necessários ao exercício da atividade.
 
-###### Artigo 17.º-C — Prazo de decisão
+Artigo 17.º-C
+
+Prazo de decisão
 
 1 - A CMVM notifica o requerente da sua decisão no prazo de três meses a contar da data da receção do pedido completamente instruído.
 
 2 - Para efeitos do número anterior, considera-se que o pedido está completamente instruído quando forem apresentados à CMVM todos os elementos referidos no artigo anterior.
 
-###### Artigo 17.º-D — Concessão e recusa de autorização
+Artigo 17.º-D
+
+Concessão e recusa de autorização
 
 1 - A concessão de autorização depende da verificação das seguintes condições:
 
@@ -2513,7 +3123,9 @@ b) O conteúdo dos elementos instrutórios seja insuficiente ou não respeite a 
 
 3 - Concedida a autorização, as sociedades gestoras informam imediatamente a CMVM da data de início de atividade.
 
-###### Artigo 17.º-E — Revogação e suspensão da autorização
+Artigo 17.º-E
+
+Revogação e suspensão da autorização
 
 1 - A CMVM revoga a autorização se:
 
@@ -2539,11 +3151,15 @@ a) Cessa imediatamente a habilitação para a entidade exercer a atividade autor
 
 b) A entidade deve alterar imediatamente a sua firma e objeto e promover o registo com urgência dessa alteração.
 
-###### Artigo 17.º-F — Alterações subsequentes
+Artigo 17.º-F
+
+Alterações subsequentes
 
 Às alterações subsequentes das condições iniciais de autorização da sociedade gestora é aplicável, com as devidas adaptações, o disposto nos n.os 3 e 4 do artigo 71.º-J do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 17.º-G — Fusão, cisão e dissolução
+Artigo 17.º-G
+
+Fusão, cisão e dissolução
 
 1 - As operações de fusão e de cisão que envolvam sociedades gestoras estão sujeitas a autorização prévia da CMVM.
 
@@ -2555,13 +3171,17 @@ b) A entidade deve alterar imediatamente a sua firma e objeto e promover o regis
 
 5 - Os acionistas comunicam à CMVM qualquer projeto de dissolução voluntária de uma sociedade gestora, com a antecedência mínima de 90 dias em relação à data da sua efetivação.
 
-###### Artigo 17.º-H — Adequação dos membros dos órgãos de administração e fiscalização
+Artigo 17.º-H
+
+Adequação dos membros dos órgãos de administração e fiscalização
 
 1 - Os membros dos órgãos de administração e fiscalização das sociedades gestoras são pessoas com idoneidade e experiência comprovadas.
 
 2 - À apreciação e supervisão dos critérios de adequação referidos no número anterior é aplicável, com as devidas adaptações, o disposto nos artigos 71.º-T e 71.º-U do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 17.º-I — Adequação dos titulares de participações qualificadas
+Artigo 17.º-I
+
+Adequação dos titulares de participações qualificadas
 
 1 - Os titulares de participações qualificadas em sociedade gestora são pessoas adequadas, considerando a necessidade de garantir uma gestão sã e prudente da sociedade.
 
@@ -2573,13 +3193,17 @@ b) A entidade deve alterar imediatamente a sua firma e objeto e promover o regis
 
 5 - À apreciação e supervisão dos critérios de adequação referidos no n.º 1 é aplicável, com as devidas adaptações, o disposto no artigo 71.º-Y do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
-###### Artigo 22.º-A — Regras de exercício
+Artigo 22.º-A
+
+Regras de exercício
 
 1 - As sociedades gestoras atuam com profissionalismo e observam, a todo o momento, com as necessárias adaptações, as regras gerais de conduta previstas no artigo 72.º-A do Regime Geral dos Organismos de Investimento Coletivo, aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual.
 
 2 - As sociedades gestoras respondem perante os participantes nos termos do disposto no n.º 3 do artigo 65.º do Regime Geral dos Organismos de Investimento Coletivo aprovado em anexo à [Lei n.º 16/2015](https://diariodarepublica.pt/dr/detalhe/lei/16-2015-66581992), de 24 de fevereiro, na sua redação atual, com as necessárias adaptações.
 
-###### Artigo 22.º-B — Regras de organização
+Artigo 22.º-B
+
+Regras de organização
 
 1 - As sociedades gestoras dispõem, a todo o tempo, de uma estrutura organizacional e de políticas e procedimentos internos adequados, apropriados e necessários para prestar os seus serviços com respeito pelas regras de atuação referidas no artigo anterior, tendo em conta a natureza, a escala e a complexidade da sua atividade.
 
@@ -2601,7 +3225,9 @@ b) Quando apropriado e necessário em função da natureza, escala e complexidad
 
 4 - A CMVM pode concretizar e desenvolver por regulamento as regras de organização aplicáveis às sociedades gestoras.
 
-###### Artigo 22.º-C — Política de remuneração
+Artigo 22.º-C
+
+Política de remuneração
 
 1 - As sociedades gestoras estabelecem e aplicam políticas de remuneração que sejam consentâneas e promovam uma gestão sólida e eficaz dos riscos e não encorajem a assunção de riscos incompatíveis com os perfis de risco de crédito e os critérios de elegibilidade definidos em cada fundo de titularização de créditos sob gestão, de uma forma e na medida adequadas à sua dimensão e organização interna e à natureza, âmbito e complexidade das suas atividades.
 
@@ -2631,7 +3257,9 @@ i) Nos artigos 25.º e 26.º, se estiverem em causa alterações aos elementos p
 
 ii) Nos n.os 3 e 4 do artigo 71.º-J, nos restantes casos.
 
-###### Artigo 59.º-A — Regime aplicável às sociedades de investimento coletivo
+Artigo 59.º-A
+
+Regime aplicável às sociedades de investimento coletivo
 
 1 - As sociedades de investimento coletivo regem-se pelo disposto no presente Regime Geral e, salvo quando se mostre incompatível com a natureza e o objeto específicos destas sociedades ou com o disposto no presente Regime Geral, pelo disposto no Código das Sociedades Comerciais.
 
@@ -2655,7 +3283,9 @@ f) Aquisição tendente ao domínio total.
 
 5 - A CMVM pode concretizar e desenvolver por regulamento o regime aplicável às sociedades de investimento coletivo.
 
-###### Artigo 59.º-B — Tipo de gestão
+Artigo 59.º-B
+
+Tipo de gestão
 
 1 - As sociedades de investimento coletivo podem ser heterogeridas ou autogeridas consoante designem ou não uma terceira entidade para o exercício da respetiva gestão.
 
@@ -2663,7 +3293,9 @@ f) Aquisição tendente ao domínio total.
 
 3 - Para efeitos do número anterior, quando a alteração seja de sociedade de investimento coletivo heterogerida para autogerida, segue-se o regime previsto no n.º 2 do artigo 19.º-A.
 
-###### Artigo 59.º-C — Requisitos gerais das sociedades de investimento coletivo
+Artigo 59.º-C
+
+Requisitos gerais das sociedades de investimento coletivo
 
 1 - As sociedades de investimento coletivo autorizadas pela CMVM cumprem, a todo o tempo, os seguintes requisitos gerais:
 
@@ -2679,7 +3311,9 @@ e) Têm o capital social integralmente realizado e representado por ações escr
 
 2 - As sociedades de investimento coletivo autogeridas autorizadas pela CMVM cumprem ainda, a todo o tempo, os requisitos de fundos próprios previstos no artigo 71.º-M e o disposto na alínea g) do n.º 2 do artigo 71.º-A.
 
-###### Artigo 59.º-D — Sociedades de investimento coletivo heterogeridas
+Artigo 59.º-D
+
+Sociedades de investimento coletivo heterogeridas
 
 1 - As sociedades de investimento coletivo heterogeridas só podem designar para o exercício da respetiva gestão as entidades elegíveis nos termos do artigo 71.º-A.
 
@@ -2703,7 +3337,9 @@ a) Solidariamente entre si, pelo incumprimento ou cumprimento defeituoso dos dev
 
 b) Solidariamente com a entidade gestora, pelo dano que não se teria produzido se tivessem cumprido os seus deveres de fiscalização.
 
-###### Artigo 59.º-E — Sociedades de investimento coletivo autogeridas
+Artigo 59.º-E
+
+Sociedades de investimento coletivo autogeridas
 
 1 - As sociedades de investimento coletivo autogeridas só podem exercer as funções previstas no artigo 66.º relativamente ao seu próprio património, não podendo, em caso algum, gerir ativos por conta de terceiros nem exercer atividades adicionais.
 
@@ -2727,7 +3363,9 @@ b) Respondem solidariamente entre si, perante os participantes e perante a socie
 
 6 - Em matéria de supervisão prudencial das sociedades de investimento coletivo autogeridas, é aplicável, com as devidas adaptações, o disposto nos artigos 71.º-Q e 71.º-R.
 
-###### Artigo 71.º-A — Reserva de atividade e requisitos gerais
+Artigo 71.º-A
+
+Reserva de atividade e requisitos gerais
 
 1 - Sem prejuízo do disposto em lei especial, os organismos de investimento coletivo heterogeridos apenas podem ser geridos por sociedades gestoras de organismos de investimento coletivo (SGOIC).
 
@@ -2749,7 +3387,9 @@ g) A sua direção de topo é composta por, pelo menos, duas pessoas.
 
 3 - A expressão e a abreviatura referidas na alínea b) do número anterior, ou outras que com elas se confundam, não podem ser usadas por outras entidades.
 
-###### Artigo 71.º-B — Atividades permitidas
+Artigo 71.º-B
+
+Atividades permitidas
 
 1 - As SGOIC têm por objeto principal e exclusivo o exercício profissional da atividade de gestão de organismos de investimento coletivo, nos termos previstos no artigo 66.º
 
@@ -2801,7 +3441,9 @@ iii) Receção e transmissão de ordens relativas a instrumentos financeiros.
 
 7 - A SGOIC autorizada para o exercício da atividade referida na subalínea i) da alínea b) do n.º 5 pode exercer a atividade de consultoria relativamente a depósitos estruturados, mediante comunicação prévia à CMVM.
 
-###### Artigo 71.º-C — Operações vedadas
+Artigo 71.º-C
+
+Operações vedadas
 
 Às SGOIC é vedado:
 
@@ -2815,7 +3457,9 @@ d) Adquirir, por conta própria, outros instrumentos financeiros de qualquer nat
 
 e) Adquirir imóveis além do indispensável à prossecução direta da sua atividade e até à concorrência dos seus fundos próprios.
 
-###### Artigo 71.º-D — Regime aplicável à atividade de comercialização e às atividades adicionais e acessórias
+Artigo 71.º-D
+
+Regime aplicável à atividade de comercialização e às atividades adicionais e acessórias
 
 1 - No exercício das funções previstas na alínea c) do n.º 1 do artigo 66.º, as SGOIC estão sujeitas aos princípios, condições, termos, requisitos e deveres previstos no Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de novembro, na sua redação atual, para a comercialização de instrumentos financeiros por intermediários financeiros através do exercício das atividades de colocação com ou sem garantia ou de receção e transmissão de ordens por conta de outrem, designadamente quanto às matérias seguintes, desde que não contrariem o disposto no presente Regime Geral:
 
@@ -2853,7 +3497,9 @@ i) Benefícios ilegítimos, ao disposto nos artigos 313.º e 313.º-A, nos n.os 
 
 j) Avaliação do caráter adequado da operação, ao disposto nos n.os 1 a 5 do artigo 314.º, no artigo 314.º-A e nas alíneas a) a d) do n.º 1 e nos n.os 2 e 3 do artigo 314.º-D.
 
-###### Artigo 71.º-E — Autorização
+Artigo 71.º-E
+
+Autorização
 
 1 - As SGOIC não podem iniciar a sua atividade enquanto não forem autorizadas pela CMVM.
 
@@ -2861,7 +3507,9 @@ j) Avaliação do caráter adequado da operação, ao disposto nos n.os 1 a 5 do
 
 3 - As SGOIC devem satisfazer de forma contínua as condições da autorização.
 
-###### Artigo 71.º-F — Instrução do pedido de autorização
+Artigo 71.º-F
+
+Instrução do pedido de autorização
 
 1 - Sem prejuízo do disposto nos números seguintes, o pedido de autorização é instruído com os seguintes elementos:
 
@@ -2891,7 +3539,9 @@ k) Informação sobre os OIA que a SGOIC pretende gerir, em particular sobre as 
 
 3 - A CMVM pode solicitar ao requerente esclarecimentos e informações suplementares, sugerir alterações aos documentos referidos no n.º 1, realizar as averiguações que considere necessárias e verificar, através de inspeção presencial, a existência dos meios necessários ao exercício da atividade.
 
-###### Artigo 71.º-G — Prazo de decisão
+Artigo 71.º-G
+
+Prazo de decisão
 
 1 - A CMVM notifica o requerente da sua decisão:
 
@@ -2901,7 +3551,9 @@ b) No prazo de três meses, prorrogável por mais três meses por decisão da CM
 
 2 - Para efeitos do número anterior, considera-se que o pedido está completamente instruído quando forem apresentados à CMVM todos os elementos referidos no artigo anterior.
 
-###### Artigo 71.º-H — Concessão, recusa e limitação da autorização
+Artigo 71.º-H
+
+Concessão, recusa e limitação da autorização
 
 1 - A concessão de autorização depende da verificação das seguintes condições:
 
@@ -2929,7 +3581,9 @@ iii) Dificuldades relacionadas com a aplicação das disposições legais, regul
 
 4 - Concedida a autorização, as SGOIC informam imediatamente a CMVM da data de início de cada uma das atividades autorizadas.
 
-###### Artigo 71.º-I — Revogação e suspensão da autorização
+Artigo 71.º-I
+
+Revogação e suspensão da autorização
 
 1 - A CMVM revoga a autorização se:
 
@@ -2957,7 +3611,9 @@ b) A entidade deve alterar imediatamente a sua firma e objeto e promover o regis
 
 5 - A revogação e suspensão da autorização previstas nos números anteriores podem ser totais ou respeitar apenas a uma ou mais das atividades autorizadas.
 
-###### Artigo 71.º-J — Alterações subsequentes
+Artigo 71.º-J
+
+Alterações subsequentes
 
 1 - As SGOIC que pretendam ampliar ou reduzir o âmbito da sua autorização, deixando de exercer ou passando a exercer qualquer uma das atividades previstas nos n.os 2 a 5 do artigo 71.º-B:
 
@@ -2979,7 +3635,9 @@ d) Se a CMVM não se opuser expressamente às alterações notificadas nos termo
 
 4 - A CMVM pode concretizar e desenvolver por regulamento os elementos instrutórios que devem acompanhar as comunicações, pedidos de autorização e notificações previstos no presente artigo, bem como alterações consideradas substanciais nos termos do n.º 3.
 
-###### Artigo 71.º-K — Fusão, cisão e dissolução
+Artigo 71.º-K
+
+Fusão, cisão e dissolução
 
 1 - As operações de fusão e de cisão que envolvam SGOIC estão sujeitas a autorização prévia da CMVM.
 
@@ -2991,13 +3649,17 @@ d) Se a CMVM não se opuser expressamente às alterações notificadas nos termo
 
 5 - Os acionistas da SGOIC comunicam à CMVM qualquer projeto de dissolução voluntária da SGOIC, com a antecedência mínima de 90 dias em relação à data da sua efetivação.
 
-###### Artigo 71.º-L — Capital inicial
+Artigo 71.º-L
+
+Capital inicial
 
 1 - O capital inicial mínimo das SGOIC é de (euro) 125 000.
 
 2 - Caso estejam autorizadas a exercer as atividades adicionais ou acessórias referidas nos n.os 4 e 5 do artigo 71.º-B, as SGOIC respeitam ainda as regras de capital inicial mínimo indicadas no título IV da [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, consoante a atividade em causa.
 
-###### Artigo 71.º-M — Fundos próprios
+Artigo 71.º-M
+
+Fundos próprios
 
 1 - As SGOIC têm a todo o tempo fundos próprios iguais ou superiores ao maior dos seguintes montantes:
 
@@ -3033,11 +3695,15 @@ a) São investidos em ativos líquidos ou prontamente convertíveis em numerári
 
 b) Não incluem posições especulativas.
 
-###### Artigo 71.º-N — Requisitos adicionais
+Artigo 71.º-N
+
+Requisitos adicionais
 
 A CMVM pode estabelecer por regulamento requisitos prudenciais adicionais aplicáveis às SGOIC.
 
-###### Artigo 71.º-O — Política de remuneração
+Artigo 71.º-O
+
+Política de remuneração
 
 1 - As SGOIC estabelecem e aplicam políticas de remuneração que sejam consentâneas e promovam uma gestão sólida e eficaz dos riscos e não encorajem a assunção de riscos incompatíveis com os perfis de risco e os documentos constitutivos dos organismos de investimento coletivo sob gestão, de uma forma e na medida adequadas à sua dimensão e organização interna e à natureza, âmbito e complexidade das suas atividades.
 
@@ -3051,13 +3717,17 @@ b) As categorias de colaboradores, incluindo a direção de topo, os responsáve
 
 4 - A CMVM pode concretizar e desenvolver por regulamento os requisitos previstos no presente artigo.
 
-###### Artigo 71.º-P — Supervisão prudencial
+Artigo 71.º-P
+
+Supervisão prudencial
 
 1 - As SGOIC estão sujeitas à supervisão prudencial da CMVM nos termos previstos no artigo 363.º do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de novembro, na sua redação atual.
 
 2 - A CMVM determina por regulamento os deveres de informação e de reporte aplicáveis às SGOIC para efeitos de supervisão prudencial.
 
-###### Artigo 71.º-Q — Medidas corretivas
+Artigo 71.º-Q
+
+Medidas corretivas
 
 1 - Sem prejuízo dos seus poderes gerais de supervisão, a CMVM pode, no exercício dos poderes de supervisão prudencial:
 
@@ -3087,7 +3757,9 @@ i) Exigir que as SGOIC limitem a remuneração variável em termos de percentage
 
 j) Exigir que as SGOIC detenham fundos próprios superiores aos impostos pelas regras aplicáveis ou que adotem medidas que visem reforçar a base de fundos próprios.
 
-###### Artigo 71.º-R — Exercício de atividades não autorizadas
+Artigo 71.º-R
+
+Exercício de atividades não autorizadas
 
 O exercício, por qualquer entidade, das atividades referidas no artigo 71.º-B sem a autorização referida no artigo 71.º-E habilita a CMVM a adotar uma ou mais das seguintes medidas:
 
@@ -3095,11 +3767,15 @@ a) Exercer, relativamente à entidade em causa, aos seus sócios ou membros ou a
 
 b) Requerer a dissolução da entidade em causa e, se for o caso, nomear um liquidatário para o efeito, cuja remuneração será suportada pela entidade.
 
-###### Artigo 71.º-S — Adequação dos membros dos órgãos de administração e fiscalização de SGOIC
+Artigo 71.º-S
+
+Adequação dos membros dos órgãos de administração e fiscalização de SGOIC
 
 Os membros dos órgãos de administração e fiscalização de SGOIC são pessoas com idoneidade e experiência comprovadas, considerando, nomeadamente, os tipos de organismos de investimento coletivo sob gestão e as respetivas estratégias de investimento.
 
-###### Artigo 71.º-T — Apreciação pela CMVM
+Artigo 71.º-T
+
+Apreciação pela CMVM
 
 1 - A adequação dos membros dos órgãos de administração e fiscalização de SGOIC é objeto de apreciação prévia pela CMVM no âmbito dos procedimentos:
 
@@ -3113,7 +3789,9 @@ b) De notificação de alterações à composição dos órgãos de administraç
 
 4 - A CMVM pode concretizar e desenvolver por regulamento os requisitos e critérios da apreciação referida no n.º 1.
 
-###### Artigo 71.º-U — Supervisão contínua e medidas corretivas
+Artigo 71.º-U
+
+Supervisão contínua e medidas corretivas
 
 1 - Sem prejuízo da apreciação referida no n.º 1 do artigo anterior, o preenchimento dos requisitos de idoneidade e experiência dos membros dos órgãos de administração e fiscalização de SGOIC é objeto de supervisão contínua por parte da CMVM durante todo o seu mandato.
 
@@ -3141,7 +3819,9 @@ b) Em virtude da adoção das medidas referidas nas alíneas d) ou e) do n.º 3;
 
 c) No prazo de 30 dias sobre a data da suspensão sem que seja iniciado um procedimento com vista a adotar alguma das medidas referidas nas alíneas d) ou e) do n.º 3.
 
-###### Artigo 71.º-V — Adequação dos titulares de participações qualificadas em SGOIC
+Artigo 71.º-V
+
+Adequação dos titulares de participações qualificadas em SGOIC
 
 1 - Os titulares de participações qualificadas em SGOIC são pessoas adequadas, considerando a necessidade de garantir uma gestão sã e prudente da SGOIC.
 
@@ -3151,7 +3831,9 @@ a) No âmbito do procedimento de autorização das SGOIC;
 
 b) Nos termos do disposto nos artigos 71.º-W e 71.º-Y.
 
-###### Artigo 71.º-W — Participações qualificadas em SGOIC autorizadas a gerir OICVM
+Artigo 71.º-W
+
+Participações qualificadas em SGOIC autorizadas a gerir OICVM
 
 1 - Para efeitos do presente artigo:
 
@@ -3245,13 +3927,17 @@ b) No prazo de 15 dias, a concretização de aquisições potenciais;
 
 c) Em abril de cada ano, a identidade dos detentores de participações qualificadas, com especificação do capital social e dos direitos de voto correspondentes a cada participação.
 
-###### Artigo 71.º-X — Participações qualificadas em SGOIC não autorizadas a gerir OICVM
+Artigo 71.º-X
+
+Participações qualificadas em SGOIC não autorizadas a gerir OICVM
 
 1 - As SGOIC não autorizadas a gerir OICVM comunicam imediatamente à CMVM quaisquer alterações relativas à informação sobre participações qualificadas apresentada no momento da autorização.
 
 2 - A comunicação referida no número anterior é instruída com os elementos previstos na alínea h) do n.º 1 do artigo 71.º-F.
 
-###### Artigo 71.º-Y — Supervisão contínua e medidas corretivas
+Artigo 71.º-Y
+
+Supervisão contínua e medidas corretivas
 
 1 - Sem prejuízo da apreciação referida no artigo 71.º-W, o preenchimento do requisito de adequação referido no n.º 1 do artigo 71.º-V é objeto de supervisão contínua por parte da CMVM durante todo o período de detenção da participação qualificada.
 
@@ -3289,13 +3975,17 @@ a) Factos suscetíveis de alterar a influência exercida pelo seu detentor na ge
 
 b) Factos relevantes cuja comunicação à CMVM tenha sido omitida ou incorretamente feita pelo seu detentor.
 
-###### Artigo 71.º-Z — Acordos parassociais
+Artigo 71.º-Z
+
+Acordos parassociais
 
 1 - Os acordos parassociais relativos ao exercício do direito de voto celebrados entre os acionistas das SGOIC estão sujeitos a comunicação prévia à CMVM, sob pena de ineficácia.
 
 2 - A comunicação referida no número anterior é efetuada por qualquer das partes subscritoras do acordo.
 
-###### Artigo 109.º-A — Direito de estabelecimento de sucursal e liberdade de prestação de serviços noutro Estado membro
+Artigo 109.º-A
+
+Direito de estabelecimento de sucursal e liberdade de prestação de serviços noutro Estado membro
 
 1 - As entidades gestoras de países terceiros autorizadas em Portugal podem gerir OIA estabelecidos noutro Estado membro, quer diretamente, quer através do estabelecimento de sucursais, desde que estejam autorizadas a gerir esse tipo de OIA.
 
@@ -3305,11 +3995,15 @@ b) Factos relevantes cuja comunicação à CMVM tenha sido omitida ou incorretam
 
 4 - A alteração de elementos comunicados à CMVM nos termos dos n.os 1 e 2 do artigo 110.º-C segue o disposto no artigo 110.º-D.
 
-###### Artigo 109.º-B — Colaboração na supervisão de entidades autorizadas em Portugal
+Artigo 109.º-B
+
+Colaboração na supervisão de entidades autorizadas em Portugal
 
 À colaboração no âmbito da supervisão da atividade transfronteiriça de entidade gestora de país terceiro autorizada em Portugal aplicam-se, com as devidas adaptações, os n.os 2 e 3 do artigo 113.º, cabendo ainda à CMVM requerer as informações necessárias à autoridade de supervisão competente de país terceiro.
 
-###### Artigo 109.º-C — Direito de estabelecimento e liberdade de prestação de serviços de entidades gestoras de países terceiros autorizadas noutros Estados membros
+Artigo 109.º-C
+
+Direito de estabelecimento e liberdade de prestação de serviços de entidades gestoras de países terceiros autorizadas noutros Estados membros
 
 1 - As entidades gestoras de países terceiros autorizadas noutros Estados membros podem exercer em Portugal, mediante o estabelecimento de uma sucursal ou ao abrigo da liberdade de prestação de serviços:
 
@@ -3321,7 +4015,9 @@ b) As atividades referidas no n.º 5 do artigo 71.º-B abrangidas pela respetiva
 
 3 - Se a entidade gestora pretender estabelecer uma sucursal, a comunicação referida no número anterior contém ainda os elementos previstos no n.º 2 do 114.º- C.
 
-###### Artigo 109.º-D — Gestão de OIA de países terceiros não comercializados na União Europeia
+Artigo 109.º-D
+
+Gestão de OIA de países terceiros não comercializados na União Europeia
 
 As entidades gestoras de OIA autorizadas em Portugal podem gerir OIA de países terceiros, que não sejam comercializados em Portugal ou noutro Estado membro, desde que:
 
@@ -3329,11 +4025,15 @@ a) Cumpram todos os requisitos estabelecidos no presente Regime Geral, exceto os
 
 b) Tenham sido acordados mecanismos de cooperação adequados entre a CMVM e as autoridades de supervisão do país terceiro onde está estabelecido o OIA em causa, a fim de assegurar, pelo menos, uma troca de informações eficiente que permita à CMVM exercer as suas competências de acordo com o disposto no presente Regime Geral.
 
-###### Artigo 109.º-E — Direito aplicável à constituição e funcionamento de organismos de investimento coletivo
+Artigo 109.º-E
+
+Direito aplicável à constituição e funcionamento de organismos de investimento coletivo
 
 Às entidades gestoras de país terceiro autorizadas noutro Estado-Membro que gerem organismos de investimento coletivo estabelecidos em Portugal são aplicáveis as regras de constituição e funcionamento previstas no artigo 115.º
 
-###### Artigo 110.º-A — Estabelecimento de sucursal relativa à gestão de OICVM
+Artigo 110.º-A
+
+Estabelecimento de sucursal relativa à gestão de OICVM
 
 1 - A SGOIC autorizada como entidade gestora de OICVM que pretende estabelecer uma sucursal noutro Estado membro para exercer as atividades abrangidas pela respetiva autorização, notifica a CMVM desse facto, apresentando, juntamente com a notificação, os seguintes documentos e informações:
 
@@ -3379,7 +4079,9 @@ b) As autoridades competentes do Estado membro de acolhimento preparem a supervi
 
 9 - A CMVM atualiza as informações constantes do certificado referido na alínea a) do n.º 5 e informa as autoridades competentes do Estado membro de acolhimento caso haja alteração do âmbito da autorização da SGOIC ou dos dados de quaisquer restrições aos tipos de OICVM que a mesma está autorizada a gerir.
 
-###### Artigo 110.º-B — Liberdade de prestação de serviços relativa à gestão de OICVM
+Artigo 110.º-B
+
+Liberdade de prestação de serviços relativa à gestão de OICVM
 
 1 - A SGOIC autorizada a gerir OICVM que pretende exercer, pela primeira vez, as atividades abrangidas pela respetiva autorização ao abrigo da liberdade de prestação de serviços no território de outro Estado membro, comunica à CMVM as seguintes informações:
 
@@ -3413,7 +4115,9 @@ c) Os dados de eventuais restrições aos tipos de OICVM que a SGOIC está autor
 
 8 - A CMVM atualiza as informações constantes do certificado referido na alínea a) do n.º 4 e informa as autoridades competentes do Estado membro de acolhimento caso haja alteração do âmbito da autorização da SGOIC ou dos dados de quaisquer restrições aos tipos de OICVM que a mesma está autorizada a gerir.
 
-###### Artigo 110.º-C — Estabelecimento de sucursal e liberdade de prestação de serviços relativos a OIA
+Artigo 110.º-C
+
+Estabelecimento de sucursal e liberdade de prestação de serviços relativos a OIA
 
 1 - A SGOIC que pretende, pela primeira vez, exercer as atividades e prestar os serviços referidos no n.º 2 do artigo 110.º noutro Estado membro comunica as seguintes informações à CMVM:
 
@@ -3437,7 +4141,9 @@ c) A identidade e elementos de contacto das pessoas responsáveis pela gestão d
 
 6 - A CMVM notifica imediatamente a SGOIC do envio, podendo esta começar a prestar serviços no Estado membro de acolhimento a partir da data dessa notificação.
 
-###### Artigo 110.º-D — Alteração dos elementos comunicados relativos a OIA
+Artigo 110.º-D
+
+Alteração dos elementos comunicados relativos a OIA
 
 1 - A SGOIC notifica por escrito à CMVM qualquer alteração aos elementos comunicados nos termos do n.º 1 do artigo anterior e, se aplicável, do n.º 2 do mesmo artigo:
 
@@ -3457,13 +4163,17 @@ c) Se verifique que a SGOIC não cumpre o disposto no presente Regime Geral.
 
 4 - A CMVM informa imediatamente as autoridades competentes do Estado membro de acolhimento da SGOIC das alterações em relação às quais não se oponha.
 
-###### Artigo 110.º-E — Direito aplicável à prestação transfronteiriça da atividade
+Artigo 110.º-E
+
+Direito aplicável à prestação transfronteiriça da atividade
 
 1 - As SGOIC que exerçam a atividade de gestão de OICVM e de OIA a nível transfronteiriço, quer através do estabelecimento de sucursais, quer ao abrigo da liberdade de prestação de serviços, ficam sujeitas à lei portuguesa no que respeita à sua organização, incluindo as regras de subcontratação, os procedimentos de gestão de riscos, as regras prudenciais e de supervisão e as obrigações de notificação que lhes incumbem.
 
 2 - A CMVM é responsável pela supervisão do cumprimento das regras referidas no número anterior.
 
-###### Artigo 114.º-A — Estabelecimento de sucursal em Portugal relativa à gestão de OICVM
+Artigo 114.º-A
+
+Estabelecimento de sucursal em Portugal relativa à gestão de OICVM
 
 1 - É condição do estabelecimento de sucursal em Portugal que a CMVM receba das autoridades competentes do Estado membro de origem da entidade gestora prevista no n.º 1 do artigo anterior uma notificação da qual constem os seguintes elementos:
 
@@ -3499,7 +4209,9 @@ c) Os dados de eventuais restrições aos tipos de OICVM que a entidade gestora 
 
 6 - Em caso de alteração de quaisquer elementos comunicados nos termos das alíneas a) a c) do n.º 1, a entidade gestora comunica por escrito essa alteração às autoridades competentes do Estado membro de origem e à CMVM pelo menos um mês antes de as mesmas produzirem efeitos, de forma a permitir que aquela se pronuncie sobre essa alteração e a CMVM prepare a supervisão.
 
-###### Artigo 114.º-B — Liberdade de prestação de serviços em Portugal relativa à gestão de OICVM
+Artigo 114.º-B
+
+Liberdade de prestação de serviços em Portugal relativa à gestão de OICVM
 
 1 - É condição do início da prestação de serviços em Portugal que a CMVM receba das autoridades competentes do Estado membro de origem da entidade gestora de OICVM autorizada noutro Estado membro uma comunicação, da qual conste:
 
@@ -3525,7 +4237,9 @@ c) Os dados de eventuais restrições aos tipos de OICVM que a entidade gestora 
 
 4 - Caso venham a ser alterados alguns dos elementos comunicados nos termos da alínea a) do n.º 1, a entidade gestora notifica desse facto, por escrito, as autoridades competentes do Estado membro de origem e a CMVM antes de as alterações produzirem efeitos.
 
-###### Artigo 114.º-C — Estabelecimento de sucursal e liberdade de prestação de serviços em Portugal relativos à gestão de OIA
+Artigo 114.º-C
+
+Estabelecimento de sucursal e liberdade de prestação de serviços em Portugal relativos à gestão de OIA
 
 1 - É condição do estabelecimento de sucursal ou da prestação de serviços em Portugal que a CMVM receba das autoridades competentes do Estado membro de origem da entidade gestora de OIA autorizada noutro Estado membro uma comunicação da qual conste o programa de atividades, indicando, especificamente, os serviços que pretende prestar e que identifique os OIA que se propõe gerir.
 
@@ -3537,7 +4251,9 @@ b) O endereço no Estado membro de origem do OIA junto do qual pode ser obtida d
 
 c) A identidade e elementos de contacto das pessoas responsáveis pela gestão da sucursal.
 
-###### Artigo 252.º-A — Cooperação no âmbito da autorização de entidades responsáveis pela gestão
+Artigo 252.º-A
+
+Cooperação no âmbito da autorização de entidades responsáveis pela gestão
 
 1 - A CMVM comunica à Autoridade Europeia dos Valores Mobiliários e dos Mercados:
 
@@ -3569,7 +4285,9 @@ OIAE de créditos
 
 4 - Sem prejuízo do disposto no n.º 1 do artigo 5.º, aos OIAE de créditos é permitido conceder e participar em empréstimos, com exceção das operações proibidas nos artigos seguintes.
 
-###### Artigo 5.º-C — Operações proibidas
+Artigo 5.º-C
+
+Operações proibidas
 
 Aos OIAE de créditos é vedada:
 
@@ -3589,7 +4307,9 @@ v) O depositário e entidades subcontratadas ou em relação de domínio ou de g
 
 vi) Outros organismos de investimento coletivo.
 
-###### Artigo 5.º-D — Endividamento
+Artigo 5.º-D
+
+Endividamento
 
 Os OIAE de créditos podem contrair empréstimos destinados à concessão de crédito, com duração não inferior à duração dos respetivos ativos que pretendem financiar, até ao limite de 60 % do respetivo ativo total.»
 
@@ -3735,15 +4455,15 @@ O presente decreto-lei entra em vigor no dia 1 de janeiro de 2020.
 
 Visto e aprovado em Conselho de Ministros de 18 de julho de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca.
 
-**Promulgado em 3 de setembro de 2019.**
+Promulgado em 3 de setembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 5 de setembro de 2019.**
+Referendado em 5 de setembro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 7.º)
 
@@ -9373,7 +10093,7 @@ b) Se aplicável, o último relatório anual e eventuais relatórios semestrais.
 
 ##### SUBSECÇÃO I — OII
 
-##### DIVISÃO I
+DIVISÃO I
 
 Património e funcionamento
 
@@ -9465,7 +10185,7 @@ d) Realização de obras de melhoramento, ampliação e de requalificação de i
 
 3 - Os OII podem adquirir imóveis cuja contraprestação seja diferida no tempo, considerando-se este tipo de aquisição para efeitos da determinação dos limites de endividamento definidos no presente Regime Geral.
 
-##### DIVISÃO II
+DIVISÃO II
 
 OII abertos
 
@@ -9505,7 +10225,7 @@ h) O endividamento não pode representar mais de 25 % do ativo total do organism
 
 7 - A CMVM pode fixar regras técnicas sobre a estrutura patrimonial dos OII.
 
-##### DIVISÃO III
+DIVISÃO III
 
 OII fechados
 
@@ -9541,7 +10261,7 @@ a) A alínea a) do n.º 1 do artigo 211.º;
 
 b) A subalínea ii) da alínea b) do n.º 4 do artigo 19.º, exceto quando o regulamento de gestão fixe o prazo máximo da oferta até 90 dias e calendarize as respetivas liquidações financeiras.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Organismos especiais de investimento imobiliário
 
@@ -9923,7 +10643,7 @@ c) A restrição estabelecida na alínea c) fica sujeita ao disposto no Código 
 
 ##### SUBSECÇÃO I — Comercialização em Portugal de OIA não estabelecidos em Portugal
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -9935,7 +10655,7 @@ Disposições gerais
 
 3 - A informação contabilística apresentada no relatório e contas anual dos OIA não constituídos em Portugal deve ser organizada de acordo com as normas contabilísticas do Estado membro de origem ou país terceiro onde o OIA esteja estabelecido e com as regras contabilísticas previstas nos documentos constitutivos do mesmo.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Comercialização em Portugal de OIA da União Europeia
 
@@ -10019,7 +10739,7 @@ b) Podem ser transmitidos por via eletrónica.
 
 5 - A autoridade competente do Estado membro de origem ou de referência da entidade gestora comunica à CMVM quaisquer alterações subsequentes aos elementos constantes da notificação inicial referida na alínea a) do n.º 1.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Comercialização em Portugal de OIA de país terceiro
 
@@ -10089,7 +10809,7 @@ d) O depositário ser contratualmente responsável perante os participantes do O
 
 3 - Recebido o processo de notificação previsto no n.º 3 do artigo anterior, para efeitos de comercialização em Portugal de OIA de país terceiro por entidade gestora da União Europeia, a CMVM, caso discorde da avaliação feita pela autoridade competente do Estado membro de origem da entidade gestora sobre a aplicação do disposto nas alíneas a), b) e d) do número anterior, pode submeter a questão à Autoridade Europeia dos Valores Mobiliários e dos Mercados tendo em vista a sua assistência na obtenção de um acordo entre as autoridades ou a adoção de uma decisão vinculativa pela mesma, nos termos do artigo 19.º do [Regulamento (UE) n.º 1095/2010](https://data.europa.eu/eli/reg/2010/1095/oj?locale=pt) do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-##### DIVISÃO IV
+DIVISÃO IV
 
 Regime não harmonizado de comercialização de OIA
 
@@ -10333,7 +11053,9 @@ c) Impõe às entidades gestoras de países terceiros restrições relativas à 
 
 2 - A CMVM pode solicitar à Autoridade Europeia dos Valores Mobiliários e dos Mercados que reconsidere o seu pedido.
 
-###### Artigo 250.º — ANEXO I
+###### Artigo 250.º
+
+## ANEXO I
 
 Cooperação na supervisão de entidades gestoras de OIA de países terceiros
 
@@ -10935,7 +11657,7 @@ u) As regras previamente previstas não podem ser afastadas, designadamente atra
 
 (a que se refere o n.º 3 do artigo 158.º do Regime Geral)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/09/18200/0000200264.pdf))](https://files.diariodarepublica.pt/1s/2019/09/18200/0000200264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/09/18200/0000200264.pdf)
 
 2 - Informações relativas ao depositário:
 
@@ -10992,3 +11714,5 @@ V - Indicação dos movimentos ocorridos nos ativos do organismo de investimento
 VI - Quadro comparativo relativo aos três últimos exercícios e incluindo para cada exercício, no final deste: O valor líquido de inventário global, O valor líquido de inventário por parte social.
 
 VII - Indicação, por categoria de operações, na aceção do artigo 170.º, realizadas pelo organismo de investimento coletivo no decurso do período de referência, do montante dos compromissos que daí decorrem.
+
+112596946

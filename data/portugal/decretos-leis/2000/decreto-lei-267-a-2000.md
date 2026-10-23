@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 243/2000, 1º Suplemento, Série I-A de 2000-10-20
   number: '243'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5966-(2) a 5966-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/243a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267-a/2000/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-a-2000-276467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13f65a5c79135e504a73539b12f6112e9ad3d089eda31dd8b7721edd7eb5de9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffc7b01ac891c23056bc35c19fe1e2f011f593930ab4aa831b984eb2c8914621
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,102 +65,125 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Municípios
 - Associação de Freguesias
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
+- Associação de Municípios
+- Autarquia Local
+- Centro de Estudos e Formação Autárquica
+- Centro de Estudos e Formação Desportiva
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
 - Complexo de Apoio às Actividades Desportivas
 - Conselho Consultivo da Juventude
 - Conselho de Ministros
 - Conselho de Ministros para os Assuntos da Cooperação
 - Conselho de Ministros para os Assuntos da União Europeia
 - Conselho de Ministros para os Assuntos Económicos
-- Ministro do Trabalho e da Solidariedade
 - Conselho Nacional contra a Violência no Desporto
-- Ministério da Reforma do Estado e da Administração Pública
 - Conselho Superior do Desporto
 - Definição de Competências
 - Delegação de Competências
 - Direção Geral das Autarquias Locais
-- Secretaria Geral
+- Gabinete da Área de Sines
 - Gabinete de Apoio Estudos e Planeamento
-- Ministério da Juventude e do Desporto
-- Instituto Português da Juventude
 - Gabinete do Serviço Cívico dos Objectores de Consciência
 - Gabinete Governamental
 - Governo XIV
-- Ministro da Justiça
-- Secretário de Estado da Administração Interna
-- Secretário de Estado da Agricultura
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Secretário de Estado do Turismo
-- Ministro dos Negócios Estrangeiros
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Ministro da Cultura
-- Ministro das Finanças
-- Ministro de Estado
-- Primeiro-ministro
-- Secretário de Estado Adjunto e do Orçamento
-- Secretário de Estado da Administração Local
 - Inspecção Geral da Administração do Território
 - Instituto Nacional do Desporto
-- Gabinete da Área de Sines
-- Secretário de Estado do Ambiente
+- Instituto Português da Juventude
+- Ministério da Juventude e do Desporto
+- Ministério da Reforma do Estado e da Administração Pública
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministro Adjunto
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
+- Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
 - Ministro da Juventude e do Desporto
+- Ministro da Presidência
 - Ministro da Reforma do Estado e da Administração Pública
-- Centro de Estudos e Formação Autárquica
+- Ministro da Saúde
+- Ministro das Finanças
+- Ministro de Estado
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Observatório para a Integração das Pessoas Portadoras de Deficiência
 - Orçamento
 - Orgânica
 - Presidência do Conselho de Ministros
-- Centro de Estudos e Formação Desportiva
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Secretaria Geral
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Defesa Nacional
 - Secretário de Estado Adjunto do Ministro da Economia
 - Secretário de Estado Adjunto do Ministro de Estado
+- Secretário de Estado Adjunto e do Orçamento
+- Secretário de Estado da Administração Interna
+- Secretário de Estado da Administração Local
+- Secretário de Estado da Agricultura
 - Secretário de Estado da Comunicação Social
 - Secretário de Estado da Defesa Nacional
 - Secretário de Estado das Pescas
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Desenvolvimento Rural
-- Ministério do Ambiente e do Ordenamento do Território
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
+- Secretário de Estado do Tesouro e das Finanças
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Assuntos Fiscais
 - Secretário de Estado dos Assuntos Parlamentares
 - Secretário de Estado para a Defesa do Consumidor
-- Ministro da Administração Interna
 - Substituição de Funções
 - Transferência de Competências
 - Transferência de Serviços
 - Transferência Patrimonial
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:273419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164210:por
+  label: "Alterados os arts. 2º, 6º, 8º, 14º, 19º e 28º-A do Dec Lei 474-A/99 de 08-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2001.2001.04.17.PCM,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2001-164210
+  date: '2001-04-17'
+- type: amended_by
+  target: pt:dre:642555:por
+  label: "Alterados os arts.2º e 6º (ambos na redacção do Dec Lei 116/2001, de 17-Abr), 9º, 15º, 17º, 18º e 19º (este último\
+    \ na redacção do Dec Lei 116/2001 de 17-Abr) e Repristinado o art. 12º (com nova redacção), todos do Dec Lei 474-A/99,\
+    \ de 08-Nov, na redacção constante do presente diploma, pelo DEC LEI.247/2001.2001.09.18.PCM, DR.IS-A [217]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-2001-642555
+  date: '2001-09-18'
+- type: amended_by
+  target: pt:dre:273419:por
+  label: "Aditado o art. 37º ao Dec Lei 474-A/99, de 08-Nov, alterado pelo presente diploma, pelo Dec Lei 116/2001, de 17-Abr\
+    \ e pelo Dec Lei 247/2001, de 18-Set, pelo DEC LEI.24/2002.2002.02.11.PCM, DR.IS-A [35]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2002-273419
+  date: '2002-02-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:20:12Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +248,7 @@ s) Ministro da Reforma do Estado e da Administração Pública;
 
 t) Ministro da Juventude e do Desporto.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -251,17 +274,17 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - (Anterior n.º 6.)
 
-###### Artigo 7.º
+Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Os Ministros de Estado exercem os poderes que neles forem delegados pelo Conselho de Ministros ou pelo Primeiro-Ministro.
 
 2 - O Ministro de Estado a que se refere a alínea c) do artigo 2.º é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro de Estado.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - ...
 
@@ -269,19 +292,19 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 3 - ...
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Defesa Nacional e pelo Secretário de Estado da Defesa Nacional.
 
 2 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - O Ministro da Administração Interna é coadjuvado, no exercício das suas funções, pelo Secretário de Estado da Administração Interna e pelo Secretário de Estado Adjunto do Ministro da Administração Interna.
 
 2 - ...
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - O Ministro das Finanças é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e do Orçamento, pelo Secretário de Estado do Tesouro e Finanças e pelo Secretário de Estado dos Assuntos Fiscais.
 
@@ -289,13 +312,13 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 3 - O Gabinete do Plano de Desenvolvimento da Área de Sines encontra-se sob a tutela e superintendência do Ministro das Finanças.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - O Ministro da Economia é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto do Ministro da Economia, pelo Secretário de Estado das Pequenas e Médias Empresas, do Comércio e dos Serviços e pelo Secretário de Estado do Turismo.
 
 2 - ...
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - ...
 
@@ -305,13 +328,13 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - Transitam também da Presidência do Conselho de Ministros para o Ministério do Trabalho e da Solidariedade a Comissão para a Igualdade no Trabalho e no Emprego e o Observatório para a Integração das Pessoas Portadoras de Deficiência.
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas é coadjuvado, no exercício das suas funções, pelo Secretário de Estado das Pescas, pelo Secretário de Estado da Agricultura e pelo Secretário de Estado do Desenvolvimento Rural.
 
 2 - ...
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - ...
 
@@ -325,7 +348,7 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 6 - Ao Ministro do Ambiente e do Ordenamento do Território compete promover a audição das associações representativas dos municípios e das freguesias relativamente a projectos de diplomas respeitantes a atribuições destas autarquias.
 
-###### Artigo 33.º
+Artigo 33.º
 
 1 - É criado o Conselho de Ministros para os Assuntos da União Europeia, de que fazem parte o Primeiro-Ministro, que preside, e os ministros que para cada reunião forem convocados por indicação do Primeiro-Ministro.
 
@@ -335,7 +358,7 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - ...
 
-###### Artigo 34.º
+Artigo 34.º
 
 1 - É criado o Conselho de Ministros para os Assuntos da Cooperação, de que fazem parte o Primeiro-Ministro, que preside, e os ministros que para cada reunião forem convocados por indicação do Primeiro-Ministro.
 
@@ -345,7 +368,7 @@ e) Secretário de Estado para a Defesa do Consumidor.
 
 4 - ...
 
-###### Artigo 37.º
+Artigo 37.º
 
 1 - ...
 
@@ -395,7 +418,7 @@ h) Instituto Nacional do Desporto;
 
 i) Instituto Português da Juventude.
 
-###### Artigo 33.º-A
+Artigo 33.º-A
 
 1 - É criado o Conselho de Ministros para os Assuntos Económicos, de que fazem parte o Primeiro-Ministro, que preside, e os ministros que para cada reunião forem convocados por indicação do Primeiro-Ministro.
 
@@ -447,12 +470,12 @@ O presente diploma produz efeitos a partir do dia 14 de Setembro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 28 de Setembro de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Luís Filipe Marques Amado - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - Nuno Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Eduardo Arménio do Nascimento Cabrita - Mário Cristina de Sousa - João Nuno Marques de Carvalho Mendes - Luís Manuel Capoulas Santos - José Joaquim Dinis Reis - José Miguel Marques Boquinhas - José Sócrates Carvalho Pinto de Sousa - João Alexandre do Nascimento Baptista - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Luís Miguel de Oliveira Fontes.
 
-**Promulgado em 13 de Outubro de 2000.**
+Promulgado em 13 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Outubro de 2000.**
+Referendado em 17 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

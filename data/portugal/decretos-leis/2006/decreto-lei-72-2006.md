@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/060a00/22102227.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2006/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2006-671384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 130b2b5ff5ca78bc191d998b9751b9b88b5374e4504ebaecd45b5610b21e37b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d91ee22c6c4dabb7389bbf28149b254d9e80246e670192dd179ce2584f67f4ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Industrial
-- Pnale
-- Registo Português de Licenças de Emissão
-- Efeito de Estufa
-- Licença de Emissão
+- Alteração Climática
 - Aproximação das Legislações
+- Atividade Industrial
 - CE Países
 - Comunidade Europeia
 - Contra-ordenação
-- Poluição Atmosférica
-- Instituto do Ambiente
-- Licenciamento
+- Efeito de Estufa
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Quioto
+- Instituto do Ambiente
+- Licença de Emissão
+- Licenciamento
+- Pnale
 - Poluição
-- Alteração Climática
+- Poluição Atmosférica
+- Quioto
+- Registo Português de Licenças de Emissão
 relationships:
 - type: amended_by
   target: pt:dre:259892:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492216:por
+  label: "Alterados os art.s 4º, 16º, 16º-A, 19º, 26º e 29º do Dec Lei 233/2004, de 14-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.154/2009.06.07.2009.MAOTDR, DR.IS [128] de 06.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2009-492216
+  date: '2009-07-06'
+- type: amended_by
+  target: pt:dre:612397:por
+  label: "Alterados os arts. 1.º, 4.º. 22.º, 23.º e 26.º do Dec Lei 233/2004, de 14-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.30/2010.08.04.2010.MAOT, DR.IS [68] de 08.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2010-612397
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:333859:por
+  label: "Alterado o art. 17º do Dec Lei 233/2004 de 14-Dez, com a redacção constante do presente diploma, pelo DEC LEI.93/2010.27.07.2010.MAOT,\
+    \ DR.IS [144] de 27.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2010-333859
+  date: '2010-07-27'
+- type: amended_by
+  target: pt:dre:191285:por
+  label: "Alterados os art.s 1º e 2º do Dec Lei 233/2004, de 14-dez, na redação do presente diploma, pelo DEC LEI.252/2012.26.11.2012.MAMAOT,\
+    \ DR.IS [228] de 26.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2012-191285
+  date: '2012-11-26'
 - type: cites
   target: celex:31993D0389
   label: null
@@ -116,16 +140,25 @@ relationships:
   target: celex:32004R2216
   label: null
   source: http://data.europa.eu/eli/reg/2004/2216/oj
+- type: repealed_by
+  target: pt:dre:259892:por
+  label: "Revogado, a partir de 16.03.2013, (sem prejuízo do disposto no art. 35.º do presente Dec Lei 38/2013 de 15-mar,\
+    \ que mantém em vigor até 30.06.2013 ou até à conclusão de todos os procedimentos relativos ao período 2008-2012, consoante\
+    \ o que ocorrer primeiro, as disposições relativas à monitorização e reporte anual de emissões, à devolução de licenças\
+    \ de emissão e aos procedimentos ao nível do Registo de Licenças de Emissão), o Dec Lei 233/2004, de 14-dez, na redação\
+    \ do presente diploma, pelo DEC LEI.38/2013.15.03.2013.MAMAOT, DR.IS [53] de 15.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2013-259892
+  date: '2013-03-15'
 article_structure:
-  article_count: 72
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 48
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:14Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +207,9 @@ Os artigos 1.º, 2.º, 4.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º
 
 2 - As competências da autoridade nacional designada (AND) para os mecanismos de flexibilidade do Protocolo de Quioto são definidas em diploma próprio.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -206,7 +241,9 @@ n) «Unidade de redução de emissões» ou «URE» uma unidade emitida nos term
 
 o) «Redução certificada de emissões» ou «RCE» uma unidade emitida nos termos do artigo 12.º do Protocolo de Quioto e das decisões adoptadas por força da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Compete ao Instituto do Ambiente:
 
@@ -240,17 +277,23 @@ n) [Anterior alínea m).]
 
 3 - As decisões adoptadas ao abrigo das alíneas d), f) e j) do n.º 1 carecem de parecer da Direcção-Geral de Geologia e Energia (DGGE).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Compete à DGGE acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia, promovendo, em articulação com o Instituto do Ambiente, reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas d), f) e j) do n.º 1 do artigo 4.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
 2 - O pedido de título de emissão deve constar de impresso de modelo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O pedido de título de emissão é apresentado junto da entidade coordenadora do licenciamento, o qual é remetido no prazo de três dias úteis para o Instituto do Ambiente.
 
@@ -258,7 +301,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 3 - A decisão sobre o pedido de título de emissão cabe, mediante parecer da entidade coordenadora do licenciamento, ao Instituto do Ambiente no prazo de 30 dias úteis a contar da data da recepção do pedido.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +313,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 4 - O modelo do título de emissão é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -278,7 +325,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +341,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 6 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Para o período de três anos com início em 2005 e para cada período subsequente de cinco anos é elaborado, sob a responsabilidade dos membros do Governo responsáveis pelas áreas do ambiente e da economia, um PNALE, que estabelece a quantidade total de licenças de emissão a atribuir pelo Estado Português e o respectivo método de atribuição.
 
@@ -306,7 +357,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 6 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A quantidade total de licenças de emissão a atribuir no período de três anos, com início em 1 de Janeiro de 2005, bem como a respectiva atribuição aos operadores das instalações, é determinada por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia, a adoptar no prazo de 15 dias a contar da data da publicação da resolução do Conselho de Ministros prevista no n.º 6 do artigo 13.º
 
@@ -322,7 +375,9 @@ Compete à DGGE acompanhar a implementação nacional do regime de comércio de 
 
 7 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Qualquer pessoa pode ser titular de licenças de emissão, de RCE ou de URE.
 
@@ -340,7 +395,9 @@ b) ...
 
 6 - As formalidades relativas à transferência, reconhecimento, devolução e anulação de licenças são as definidas pelo Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +409,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da economia, sob proposta do Instituto do Ambiente, tendo em conta parecer obrigatório da DGGE, pode ser permitido que os operadores de instalações que realizam uma das actividades constantes do anexo I constituam um agrupamento de instalações que desenvolvem a mesma actividade durante o período de três anos, com início em 1 de Janeiro de 2005, e ou durante o período de cinco anos, com início em 1 de Janeiro de 2008.
 
@@ -368,7 +427,9 @@ b) ...
 
 7 - O pedido de constituição de agrupamento de instalações deve constar de impresso de modelo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
-###### Artigo 21.º — Administrador do agrupamento
+Artigo 21.º
+
+Administrador do agrupamento
 
 1 - ...
 
@@ -384,7 +445,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os operadores de instalações que desenvolvam qualquer actividade constante do anexo I e de que resultem emissões de gases com efeito de estufa devem monitorizar e comunicar as respectivas emissões de acordo com as orientações gerais e as orientações específicas para cada actividade fixadas, em conformidade com a Decisão n.º [2004/156/CE](https://data.europa.eu/eli/dec/2004/156/oj?locale=pt), de 29 de Janeiro.
 
@@ -392,7 +455,9 @@ c) ...
 
 3 - O operador deve enviar ao Instituto do Ambiente até 31 de Março relatório que contenha as informações relativas às emissões da instalação ocorridas no ano civil anterior, já submetido a um processo de verificação de acordo com o procedimento referido no n.º 1 do artigo 23.º
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O relatório de emissões da instalação apresentado pelo operador, nos termos do n.º 3 do artigo anterior, deve ser verificado por verificadores independentes, em conformidade com os critérios estabelecidos no anexo V e nos termos do Regulamento (CE) n.º [2216/2004](https://data.europa.eu/eli/reg/2004/2216/oj?locale=pt), de 21 de Dezembro, devendo estes aceder ao registo português de licenças de emissão e introduzir directamente os dados nos termos do regulamento referido.
 
@@ -406,13 +471,17 @@ c) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Sem prejuízo das competências próprias das entidades coordenadoras do licenciamento, a fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT).
 
 2 - As situações que indiciem a prática de infracção punível nos termos do presente diploma devem ser comunicadas à IGAOT, devendo ser-lhe igualmente remetida, para o efeito, toda a documentação de que se disponha.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -430,17 +499,23 @@ e) O não cumprimento das normas e metodologias de monitorização constantes do
 
 3 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A instrução dos processos de contra-ordenação instaurados no âmbito do presente diploma, bem como a aplicação das correspondentes coimas e sanções acessórias, compete à IGAOT.
 
 2 - Sempre que em virtude do exercício das suas competências o Instituto do Ambiente tenha conhecimento da prática de infracção prevista no presente diploma envia o correspondente auto de notícia à IGAOT.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Nos termos da lei, o Instituto do Ambiente deve colocar à disposição do público as decisões relativas à atribuição de licenças de emissão, as informações sobre as actividades de projecto em que Portugal participa ou autoriza entidades privadas ou públicas a participar e os relatórios de emissões exigíveis nos termos do n.º 3 do artigo 22.º do presente diploma.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -460,7 +535,9 @@ g) [Anterior alínea j).]
 
 2 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -470,7 +547,9 @@ g) [Anterior alínea j).]
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Pela avaliação do pedido de título de emissão de gases com efeito de estufa e da sua actualização são devidas taxas a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e da economia.
 
@@ -506,7 +585,9 @@ Definição das regras de utilização de URE e RCE
 
 7 - As decisões sobre a anulação de licenças de emissão referidas nos números anteriores competem ao Instituto do Ambiente.
 
-###### Artigo 25.º-A — Entidade competente
+Artigo 25.º-A
+
+Entidade competente
 
 1 - Cabe ao Instituto do Ambiente assegurar o cumprimento do previsto no artigo anterior, enviando para tal a competente nota de liquidação ao operador.
 
@@ -548,7 +629,9 @@ Os anexos III e V do Decreto-Lei n.º 233/2004, de 14 de Dezembro, com as altera
 
 12 - Excepto para o período referido no n.º 1 do artigo 14.º, o plano deve especificar o máximo de URE e RCE utilizáveis pelos operadores no regime comunitário, em percentagem da atribuição de licenças de emissão a cada instalação. A percentagem deve ser compatível com as exigências de complementaridade nos termos do Protocolo de Quioto e das decisões adoptadas por força da Convenção Quadro das Nações Unidas sobre as Alterações Climáticas ou do Protocolo de Quioto.
 
-## ANEXO V — [...]
+ANEXO V
+
+[...]
 
 [...]
 
@@ -600,15 +683,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado no Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - José António Fonseca Vieira da Silva.
 
-**Promulgado em 1 de Março de 2006.**
+Promulgado em 1 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
 Rererendado em 2 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 233/2004, de 14 de Dezembro
 
@@ -702,7 +785,9 @@ Compete à entidade coordenadora do licenciamento remeter ao Instituto do Ambien
 
 Compete à DGGE acompanhar a implementação nacional do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade Europeia, promovendo, em articulação com o Instituto do Ambiente, reuniões com representantes das instalações ou associações dos sectores de actividade constantes do anexo I para apreciar as matérias relativas às decisões adoptadas ao abrigo das alíneas d), f) e j) do n.º 1 do artigo 4.º
 
-### CAPÍTULO III — Título de emissão de gases com efeito de estufa
+### CAPÍTULO III
+
+## Título de emissão de gases com efeito de estufa
 
 ###### Artigo 7.º — Obrigatoriedade de existência de título de emissão de gases com efeito de estufa
 

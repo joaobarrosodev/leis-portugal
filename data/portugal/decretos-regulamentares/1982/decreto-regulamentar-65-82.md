@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/65-1982-375391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70c05e44e81c613bc89a6660b9b8e0967b10c8ab64fdf6cf37b3a55f8eabcc06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e5571b7559d74e0519c82f0a7d654470a4ca755ffb2b3154b863f940cc4f70e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Estrada
 relationships:
 - type: amended_by
   target: pt:dre:596890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterados os arts. 30.º, 35.º e 48.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção\
+    \ do presente diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: cites
+  target: pt:dre:262672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601315:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:618547:por
+  label: "Revogado o n.º 8 do artigo 35.º do Código da Estrada, aprovado no Decreto-Lei n.º 39672, de 20 de Maio de 1954,\
+    \ introduzido no presente diploma, pelo DEC LEI.272/89.19.08.1989.MESS, DR.IS [190] de 19.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/272-1989-618547
+  date: '1989-08-19'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:57Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +134,7 @@ Assim:
 
 Considerando o disposto no § único do artigo 1.º do [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É alterada a redacção dos n.os 1 do artigo 20.º, 6, 7, 9, 13 e 14 do artigo 30.º, 1 do artigo 35.º, 1, alíneas a) e f), do artigo 46.º e 1 e 5 do artigo 48.º, todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, no texto dado pelo [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro, que passa a ser a seguinte:
+Artigo 1.º É alterada a redacção dos n.os 1 do artigo 20.º, 6, 7, 9, 13 e 14 do artigo 30.º, 1 do artigo 35.º, 1, alíneas a) e f), do artigo 46.º e 1 e 5 do artigo 48.º, todos do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, no texto dado pelo [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro, que passa a ser a seguinte:
 
 ###### Artigo 20.º — Iluminação
 
@@ -215,7 +240,7 @@ Aos candidatos já habilitados a conduzir veículos automóveis de classe difere
 
 5 - Admitido o requerente, a direcção ou secção de viação fixará o dia, hora e local em que deverá apresentar-se a fim de ser submetido a exame, não podendo o candidato requerer que o exame se realize noutra direcção ou secção de viação nem em capital de distrito diferente daquela que inicialmente escolheu, excepto se provar que mudou a sua residência habitual ou o seu domicílio legal ou profissional, com carácter permanente, nos termos da alínea d) do n.º 1 deste artigo.
 
-###### Art. 2.º É alterada a redacção do n.º 4 do artigo 50.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, no texto dado pelo [Decreto-Lei n.º 48745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48745-1968-262672), de 5 de Dezembro de 1968, que passa a ser a seguinte:
+Art. 2.º É alterada a redacção do n.º 4 do artigo 50.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, no texto dado pelo [Decreto-Lei n.º 48745](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48745-1968-262672), de 5 de Dezembro de 1968, que passa a ser a seguinte:
 
 ###### Artigo 50.º — Inspecções médico-sanitárias
 
@@ -225,7 +250,7 @@ Aos candidatos já habilitados a conduzir veículos automóveis de classe difere
 
 As inspecções normais dos condutores profissionais de veículos automóveis das empresas concessionárias de transporte público podem ser efectuadas pelos médicos que se encontram ao seu serviço.
 
-###### Art. 3.º É acrescentado ao artigo 35.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, um n.º 8, com a seguinte redacção:
+Art. 3.º É acrescentado ao artigo 35.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, um n.º 8, com a seguinte redacção:
 
 ###### Artigo 35.º — Acessórios
 
@@ -237,15 +262,15 @@ Porém, os veículos em quadro e os tractores agrícolas ficam isentos de tal ob
 
 A contravenção do disposto neste número é punida com multa de 1000$00 a 5000$00.
 
-###### Art. 4.º - 1 - É prorrogado até 31 de Dezembro de 1982 o prazo a que se refere o artigo 2.º do [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro.
+Art. 4.º - 1 - É prorrogado até 31 de Dezembro de 1982 o prazo a que se refere o artigo 2.º do [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro.
 
 2 - Os titulares de cartas de condução emitidas nas ex-colónias portuguesas antes da independência que regressem a Portugal posteriormente ao termo do prazo referido no número anterior podem requerer a sua troca até 3 meses após a data da sua entrada no País.
 
-###### Art. 5.º - 1 - É prorrogado até à data referida no n.º 1 do artigo anterior o prazo indicado no artigo 3.º do [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro.
+Art. 5.º - 1 - É prorrogado até à data referida no n.º 1 do artigo anterior o prazo indicado no artigo 3.º do [Decreto Regulamentar n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1982-601315), de 15 de Janeiro.
 
 2 - É prorrogado até à mesma data o prazo a que se refere o artigo 5.º do citado diploma legal quanto ao disposto no n.º 4 do artigo 47.º e no n.º 2 do artigo 48.º, ambos do Código da Estrada.
 
-###### Art. 6.º A entrada em vigor do presente diploma faz-se do seguinte modo:
+Art. 6.º A entrada em vigor do presente diploma faz-se do seguinte modo:
 
 a) A alteração dos n.os 13 e 14 do artigo 30.º do Código da Estrada, 30 dias após publicação;
 
@@ -257,8 +282,8 @@ d) Todo o restante diploma na data da entrada em vigor do [Decreto Regulamentar 
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 14 de Setembro de 1982.**
+Promulgado em 14 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

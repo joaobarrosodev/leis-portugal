@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/2006/07/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2006-537262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d1f04463a22f5581263ce5192628473444ae958f20eb8fa78dc9c190caa50e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feccc2ab2f0e38f468fade1121cf91930beb6025f754ebcb96601997fe6c1589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da ÁGUA
-- Definição de Competências
-- Autoridade Marítima Nacional
-- Pessoal de Assistência aos Banhistas nas Praias
-- Madeira.região Autónoma
-- Regime Jurídico
-- Pessoal de Vigilância
 - Açores
+- Autoridade Marítima Nacional
+- Definição de Competências
 - Direcção Geral da Autoridade Marítima
+- Instituto da ÁGUA
+- Madeira.região Autónoma
+- Pessoal de Assistência aos Banhistas nas Praias
+- Pessoal de Vigilância
+- Regime Jurídico
 - Vigilância nas Praias
 - ZONA Balnear
 relationships:
@@ -82,6 +82,18 @@ relationships:
   target: pt:dre:636071:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636071:por
+  label: "Alterado o art. 13º-A da Lei 44/2004, de 19-Ago, DR.IS-A [195], na redacção do presente diploma, pelo DEC LEI.256/2007.13.07.2007.MDN,\
+    \ DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-2007-636071
+  date: '2007-07-13'
+- type: amends
+  target: pt:numero:lei:44/2004
+  label: "Dá nova redacção ao artigo 13.º-A da Lei n.º 44/2004, de 19 de Agosto da AR DR.IS-A [195], aditado pelo Decreto-Lei\
+    \ 100/2005, de 23 de Junho\0\0"
+  source: null
+  date: '2004-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/100/2005/06/23/p/dre
   label: null
@@ -90,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/2004/08/19/p/dre
+- type: cites
+  target: pt:dre:226186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480525:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:17Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +156,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Marques Amado - Francisco Carlos da Graça Nunes Correia.
 
-**Promulgado em 29 de Junho de 2006.**
+Promulgado em 29 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 30 de Junho de 2006.**
+Referendado em 30 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

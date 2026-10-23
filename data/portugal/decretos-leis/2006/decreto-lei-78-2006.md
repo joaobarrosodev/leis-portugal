@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/067a00/24112415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2006/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2006-672458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae93256b17708b43b8429024b1ba90dd3136459b15f37233a762d4cdea655de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: baf153e6f1904e9f5cf97bdc86c23b19ef2c3a120ea0345dcb36f32e02594312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para a Energia
 - Aproximação das Legislações
-- Qualidade do AR
-- Multa
+- Certificação Energética dos Edifícios
+- Certificado de Qualidade
+- Climatização
 - Contra-ordenação
 - Definição de Competências
-- Climatização
-- Política Energética
-- Fiscalização
-- Certificação Energética dos Edifícios
-- Instituto do Ambiente
-- Certificado de Qualidade
 - Direcção Geral de Geologia e Energia
-- Poupança de Energia
-- Profissão Independente
-- Madeira.região Autónoma
-- Habitação
-- Sanção
-- Açores
-- Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
-- Prédio Urbano
 - Eficiência Energética
+- Fiscalização
+- Habitação
+- Instituto do Ambiente
+- Madeira.região Autónoma
+- Multa
+- Política Energética
+- Poupança de Energia
+- Prédio Urbano
+- Profissão Independente
+- Qualidade do AR
+- Sanção
+- Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
 relationships:
 - type: amended_by
   target: pt:dre:499237:por
@@ -98,16 +98,22 @@ relationships:
   target: celex:32002L0091
   label: null
   source: http://data.europa.eu/eli/dir/2002/91/oj
+- type: repealed_by
+  target: pt:dre:499237:por
+  label: "Revogado, a partir de 01.12.2013, pelo DEC LEI.118/2013.20.08.2013.MEE, DR.IS [159] de 20.08.2013, sem prejuízo\
+    \ do disposto nas als. a), b) e c) do n.º 2 do art. 54.º deste \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2013-499237
+  date: '2013-08-20'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:18Z'
   warnings: []
   errors: []
 ---
@@ -356,15 +362,15 @@ O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeir
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Definições
 

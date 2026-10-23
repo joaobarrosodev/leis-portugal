@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/059b00/12281235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/1994/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1994-276662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 867474d2fd20fd49ca4e56d63b8e7780e1439e6f80a393fa2cd4c881affbc362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 024bbb7d6369178e424596cde98f097887d9bff2e92782c8b8286e3872600e62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Cascais
+- Diversidade Biológica
 - Ordenamento do Território
 - Parque Natural de Sintra-Cascais
-- Proteção do Ambiente
-- Diversidade Biológica
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Cascais
 - Sintra
 relationships:
 - type: amended_by
   target: pt:dre:230771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:290375:por
+  label: "Revisto o Plano de Ordenamento (aprovado pelo presente diploma), pela RES.46/2000.2000.05.03.PCM, DR.IS-B [130]\
+    \ de 05/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/46-2000-290375
+  date: '2000-05-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -86,16 +92,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:225977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692252:por
+  label: "Revogadas a al. o) do nº 1 do art. 4º, as als. e) e g) do nº 2 do art. 11º, os nºs 3, 4 e 5 do art. 12º, o art.\
+    \ 13º, a al. a) do art. 14º, os nºs 2 e 3 da al. a) e nºs 4 e 7 do art. 15º, o nº 5 do art. 16º, os nºs 4, 5, 6 e 7 do\
+    \ art. 21º, o art. 22º, art. 23º e o nº 2 do art. 24º e alterados os nºs 1 e 4 do art. 6º, a al. i) do art. 10º, a al.\
+    \ d) do nº 2 do art. 11º, a al. b) do art. 14º, o art. 15º e o art. 20º todos do Regulamento aprovado pelo presente diploma,\
+    \ na redacção da Res 46/2000 de 03-Mai, pelo RES.86/2003.2003.06.03.PCM, DR.IS-B [144] de 25/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/86-2003-692252
+  date: '2003-06-03'
+- type: repealed_by
+  target: pt:dre:230771:por
+  label: "Revogado pela RES.1-A/2004.07.01.2004.PCM, DR.IS-B [6-Supl] de 08.01.2004 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1-a-2004-230771
+  date: '2004-01-07'
 article_structure:
-  article_count: 26
+  article_count: 31
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:46Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +194,15 @@ Presidência do Conselho de Ministros, 8 de Novembro de 1993.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 11 de Fevereiro de 1994.**
+Promulgado em 11 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Fevereiro de 1994.**
+Referendado em 15 de Fevereiro de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento do Plano de Ordenamento do Parque Natural de Sintra-Cascais
 
@@ -330,7 +370,9 @@ b) Sempre que se verifique a existência de muros de pedra seca, é obrigatória
 
 ### CAPÍTULO II — Áreas de protecção
 
-#### SECÇÃO I — Artigo 8.º
+#### SECÇÃO I
+
+###### Artigo 8.º
 
 Áreas de protecção
 
@@ -346,7 +388,9 @@ d) Áreas preferenciais para turismo e recreio;
 
 2 - Além das áreas de protecção referidas no número anterior, são ainda estabelecidas áreas de intervenção específica.
 
-#### SECÇÃO II — Artigo 9.º
+#### SECÇÃO II
+
+###### Artigo 9.º
 
 Áreas prioritárias para a conservação da natureza
 
@@ -416,7 +460,9 @@ f) Abrir circuitos de prática equestre;
 
 g) Instalar viveiros de marisco.
 
-#### SECÇÃO III — Artigo 12.º
+#### SECÇÃO III
+
+###### Artigo 12.º
 
 Áreas de ambiente rural
 
@@ -516,7 +562,9 @@ b) Sempre que a exploração agrícola seja constituída por duas ou mais parcel
 
 8 - Em todas as áreas de ambiente rural, a distância de qualquer nova construção a implantar relativamente ao limite do terreno não pode ser inferior a 6 m.
 
-#### SECÇÃO IV — Artigo 16.º
+#### SECÇÃO IV
+
+###### Artigo 16.º
 
 Áreas de ambiente urbano
 
@@ -562,7 +610,9 @@ d) As infra-estruturas de utilidade pública, nomeadamente escolas, campos de jo
 
 4 - Sempre que o entendam necessário, os municípios de Sintra e de Cascais podem solicitar ao Parque Natural a emissão de parecer relativo a novas construções nas áreas indiferenciadas, o qual não se reveste de carácter vinculativo.
 
-#### SECÇÃO V — Artigo 19.º
+#### SECÇÃO V
+
+###### Artigo 19.º
 
 Áreas preferenciais para turismo e recreio
 
@@ -656,4 +706,4 @@ b) Saibro: reduz a permeabilidade em cerca de 90% a 95%, devendo contar-se essa 
 
 ## ANEXO II — Acabamentos exteriores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/059b00/12281235.pdf))](https://files.diariodarepublica.pt/1s/1994/03/059b00/12281235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/059b00/12281235.pdf)

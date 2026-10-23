@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/1997/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1997-142514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 276082e2f36fcb9e51b6a92cf5e421c4382d84a1fe38ff49b23ed374de8adc85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49757468984c9007265531c2f6e6a66f435f1e7f243a53a9981891403dac5ad4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imposto Especial sobre o Consumo de Tabaco
-- Contribuições e Impostos
-- Tabaco
-- Preço
-- Madeira.região Autónoma
-- Regime Fiscal
 - Açores
-- Taxa
 - Comércio
+- Contribuições e Impostos
+- Imposto Especial sobre o Consumo de Tabaco
+- Madeira.região Autónoma
+- Preço
+- Regime Fiscal
+- Tabaco
+- Taxa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/325/1993/09/25/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: pt:dre:347690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653128:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:50Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +146,9 @@ Elemento específico - 4400$00;
 
 Elemento ad valorem - 40%.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -146,12 +160,12 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Visto e aprovado em Conselho de Ministros de 26 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 21 de Julho de 1997.**
+Promulgado em 21 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Julho de 1997.**
+Referendado em 24 de Julho de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

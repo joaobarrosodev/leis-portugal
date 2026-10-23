@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1978-295800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfd3b35b3c6f04cadd2847f23b22a043b7c98bf45eb7252752c25d5994b16435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 547de29d0942b74ed5f5b2d31eed959b24eaf74f269d5667d3b768509d48f7c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Mercadorias
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:662928:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403331:por
+  label: "Alterados os art.s 141º, 289º e 295º bem como o anevo IV, a Tarifa Especial de Detalhe-volume de urgência e o art.\
+    \ 9º da Tarifa Especial de Detalhe-volume de peso até 50 Kg, todos da Tarifa Geral de Transportes - Parte II «Mercadorias»\
+    \ da C. P., aprovada pela Port 636/75, de 05-Nov, na redação do presente diploma, pela PORT.527/79.29.09.1979.MF, DR.IS\
+    \ [226-Supl] de 29.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-1979-403331
+  date: '1979-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 137, 141, 142, 145, 156, 157, 158 A 161 (RESERVADOS), 164, 165, 182, 184, 231, 235, 236 A 245 (RESERVADOS)\
+    \ 295, 300, ALTERADO O ANEXO IV E V, ALTERADA A TARIFA ESPECIAL DE DETALHE NOS ART 2, 6, 8, 9, ALTERADA A TARIFA ESPECIAL\
+    \ DE GRANDES CONTENTORES NO ART 5 DA PORT 636/78 DE 05-NOV, SUCESSIVAMENTE ALTERADO PELO PRESENTE DIPLOMA E PELAS PORT\
+    \ 356/79 DE 20-JUL E 527/79 DE 29-SET, PELA PORT 1117/80 DE 31-DEZ DR.IS [301]9SUPL\0 DE 31-DEZ DR.IS [301]9SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:226654:por
+  label: "Alterados os art.s 141º, 142º, 145º, 164º, 182º,184º e 295º bem como os anexos IV e V da Tarifa Geral de Transportes\
+    \ - Parte II «Mercadorias» da CP, alteradas a Tarifa Especial de Detalhe - volumes de urgência, (na redacção da Port 257/78,\
+    \ de 05-Maio, e Port 527/79, de 29-Set), o art. 9º da Tarifa Especial de Detalhe - Volumes de peso até 50 kg e o art.\
+    \ 5º da Tarifa Especial de Grandes Contentores, aprovadas pelo pela Port 636/75, de 05-Nov, na redacção do presente diploma,\
+    \ pela PORT.1117/80.31.12.1980.MFP, DR.IS [301-9ºSupl] de 31.12.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-1980-226654
+  date: '1980-12-31'
+- type: amended_by
+  target: pt:dre:331024:por
+  label: "Alterados os art.s 202º, 231º e 289º bem como os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias»\
+    \ da CP , alteradas a Tarifa Especial de Detalhe - volumes de urgência, o art. 9º da Tarifa Especial de Detalhe - Volumes\
+    \ de peso até 50 kg e o art. 5º da Tarifa Especial de Grandes Contentores, aprovadas pelo pela Port 636/75, de 05-Nov,\
+    \ na redacção do presente diploma, pela PORT.736-C/81.28.08.1981.MFP, DR.IS [197-Supl] de 28.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-c-1981-331024
+  date: '1981-08-28'
+- type: amended_by
+  target: pt:dre:242539:por
+  label: "Alterados os anexos IV e V da Tarifa Geral de Transportes - Parte II «Mercadorias» da CP, bem como a Tarifa Especial\
+    \ de Detalhe - volumes de urgência, o art. 9º da Tarifa Especial de Detalhe - Volumes de peso até 50 kg e o art. 5º da\
+    \ Tarifa Especial de Grandes Contentores, aprovadas pelo pela Port 636/75, de 05-Nov, na redacção do presente diploma,\
+    \ pela PORT.1112-A/81.30.12.1981.MFP, DR.IS [299-2ºSupl] de 30.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1112-a-1981-242539
+  date: '1981-12-30'
+- type: amended_by
+  target: pt:dre:381726:por
+  label: "Alterados os art.s 125º, 133º, 138º, 143º, 145º, 164º, 176º, 180º, 181º, 182º, 183º, 208º, 231º, 289º, 295º, 296º\
+    \ e 302º da Tarifa Geral de Transportes dos Caminhos de Ferro Portugueses, E. P., aprovada pela Port 636/75, de 05-Nov,\
+    \ na redacção do presente diploma, pela PORT.526/84.28.07.1984.MES, DR.IS [174] de 28.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/526-1984-381726
+  date: '1984-07-28'
+- type: amended_by
+  target: pt:dre:662928:por
+  label: "Alterados os arts. 164º e 295º da Tarifa Geral de Transportes, parte II «Mercadorias», aprovada pela Port 636/75,\
+    \ de 05-Nov DG.IS [256], com as alterações constantes do presente diploma, pela PORT.98/87.11.02.1987.MOPTC, DR.IS [35]\
+    \ de 11.02.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-1987-662928
+  date: '1987-02-11'
+- type: cites
+  target: pt:dre:312793:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:45Z'
   warnings: []
   errors: []
 ---
@@ -417,7 +481,7 @@ ARTIGOS 186.º A 190.º
 
 1 - O preço de transporte das remessas de animais vivos é calculado de harmonia com os artigos 165.º e 181.º Tratando-se, porém, de animais das espécies indicadas no quadro seguinte, em regime de vagão completo ou de grupo de vagões completos, os portes são calculados na estação de partida de acordo com os pesos abaixo indicados, por cabeça:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 2 - ...
 
@@ -579,11 +643,11 @@ b) Outras mercadorias - dois dias úteis.
 
 I - Prazos de estacionamento gratuito para todos os vagões, excepto os especializados no transporte de sólidos a granel (horas úteis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 II - Prazos de estacionamento gratuito para vagões especializados (vagões-tremonhas e vagões-cubas) no transporte de sólidos a granel (horas úteis)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 3 - ...
 
@@ -699,7 +763,7 @@ O expedidor, no entanto, envia ao agente aduaneiro a importância necessária ao
 
 (Artigo 164.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 N. B. - Qualquer mercadoria, mesmo constante dets lista, poderá ficar isenta de recargo ou sujeita a recargo diferente, desde que as operações de embicagem determinem uma densidade diferente da indicada no n.º 1 do artigo 164.º Para melhor elucidação desta matéria, tome-se em conta os n.os 2 e 3 daquele artigo.
 
@@ -707,7 +771,7 @@ N. B. - Qualquer mercadoria, mesmo constante dets lista, poderá ficar isenta de
 
 ## ANEXO IV — Taxas de operações acessórias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 5.º São aprovados os seguintes aumentos percentuais por referência aos preços de transporte em vigor, constantes do anexo V (volumes I e II), da Tarifa Geral de Transportes - Parte II «Mercadorias»:
 
@@ -775,7 +839,7 @@ De mais de 20 kg até 30 kg ... 120$00
 
 1 - Os preços de transporte por contentor/quilómetro, qualquer que seja a mercadoria legalmente considerada, são os a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf))](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/05/10300/08240838.pdf)
 
 2 - Os mínimos de cobrança, por contentor, são os seguintes:
 

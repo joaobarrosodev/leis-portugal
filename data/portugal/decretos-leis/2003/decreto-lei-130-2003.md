@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/147a00/37093713.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/130/2003/06/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2003-693248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 010c19761592c7688e34335dbd2a344a6c4aadb92f2d18517eb0d54f09fd46ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1a65c6f26c31a3251201757cc58c003d2ab4ac4c3059519f6fcb597e111ecdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Aproximação das Legislações
 - Cidadão Estrangeiro
 - Código do IVA
-- Política Fiscal
+- Comércio Eletrónico
+- Comunicações
 - Comunidade Europeia
 - Direcção Geral dos Impostos
+- Empresa Estrangeira
 - Empresa Europeia
 - Importação
+- Imposto Automóvel
 - Imposto Especial sobre o Consumo
 - IVA
 - Nacional das Comunidades
-- Radiodifusão
+- Política Fiscal
 - Prestação de Serviços
-- Comunicações
-- Imposto Automóvel
-- Comércio Eletrónico
-- Empresa Estrangeira
+- Radiodifusão
 - Televisão
 - Troca Intracomunitária
 relationships:
@@ -91,20 +91,184 @@ relationships:
   target: pt:dre:75774119:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 6.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:233946:por
+  label: "Alterado a al. c) do nº 1 do art. 18º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção\
+    \ do presente diploma, pela LEI.39/2005.24.06.2005.AR, DR.IS-A [120] de 24.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-2005-233946
+  date: '2005-06-24'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 50º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 27.º, do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249]Supl de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 25º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com a redacção conferida no presente\
+    \ diploma, pelo DEC LEI.21/2007.29.01.2007.MFAP, DR.IS [20] de 29.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2007-01-29'
+- type: amended_by
+  target: pt:dre:226204:por
+  label: "Alterado o art. 15º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-Dez, com as alterações constantes do presente\
+    \ diploma, pela LEI.22-A/2007.29.06.2007.AR, DR.IS [124-Supl] de 29.06.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-a-2007-226204
+  date: '2007-06-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterados os artigos 7.º e 27.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente\
+    \ diploma, republicado pelos Dec Leis 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl]\
+    \ de 31.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:628016:por
+  label: "Alterado o art. 6º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.393/2007.31.12.2007.MFAP, DR.IS [251] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/393-2007-628016
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterados os art.s 6º, 15º, 18º, 25º, 27º, 50º e 125º do Dec Lei 394-B/94, de 26-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:456872:por
+  label: "Alterado o art. 18º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na\
+    \ redacção do presente diploma, republicado pelo Dec Lei 195/89 de 12-Jun e Dec Lei 166/94 de 09-Jun, pela LEI.26-A/2008.27.06.2008.AR,\
+    \ DR.IS [123-Supl] de 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-a-2008-456872
+  date: '2008-06-27'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 15.º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-Dez, na redacção do presente diploma,\
+    \ revisto e republicado pelos Dec Lei 195/89 de 12-Jun e 166/94 de 09-Jun, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl]\
+    \ de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: "Alterados, a partir de 01.01.2010., os arts. 2º e 7º do Regime Especial para Sujeitos Passivos, aprovado pelo presente\
+    \ diploma, pelo DEC LEI.186/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterado, a partir de 01.07.2010, o art. 18.º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção\
+    \ do presente diploma, renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.12-A/2010.30.06.2010.AR, DR.IS\
+    \ [125-Supl] de 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:343581:por
+  label: "Alterado o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ renumerado e republicado pelo Dec Lei 102/2008, de 20-Jun, pela LEI.22/2010.23.08.2010.AR, DR.IS [163] de 23.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2010-343581
+  date: '2010-08-23'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: "Alterados, a partir de 01.01.2011, os arts. 6º e 27ºdo Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.134/2010.27.12.2010.MFAP, DR.IS [249] de 27.12.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 18º do Código do IVA , aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010, nos termos do art. 107º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterado o art. 27º do Código do IVA, aprovado pelo Dec Lei 394-B/84, de 26-Dez, na redacção do presente diploma,\
+    \ pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:427611:por
+  label: "Dada nova redação ao art. 18º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo Dec Lei 394-B/84\
+    \ de 26-dez, alterado pelo presente diploma, pela LEI.14-A/2012.30.03.2012.AR, DR.IS [65-2ºSupl] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-a-2012-427611
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterados, a partir de 01.01.2013, os arts 6.º, 7.º e 27.º do Código do Imposto sobre o Valor Acrescentado, aprovado\
+    \ pelo Dec Lei 394-B/84, de 26-dez, na redação do presente diploma, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de\
+    \ 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, alterado pelo presente\
+    \ diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterado o art. 18º do Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado pelo Dec Lei 394-B/84\
+    \ de 26-dez, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:58585557:por
+  label: Alterado, com efeitos a partir de 01.01.2015, o art. 6.º do Código do IVA aprovado pelo Dec Lei 394-B/84 de 26-dez,
+    na redação do presente diploma, pelo(a) Decreto-Lei n.º 158/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2014-58585557
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art.18.º do Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado pelo Dec Lei 394-B/84
+    de 26-dez, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento,
+    Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:75774119:por
+  label: Alterado, a partir de 01.01.2017, o art. 15º do Código do IVA, aprovado pelo Dec Lei 394-B/84 de 26-dez, na redação
+    do presente diploma, alterado, renumerado e republicado pelo Dec Lei 102/2008 de 20-jun pelo(a) Lei n.º 36/2016 - Diário
+    da República n.º 223/2016, Série I de 2016-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2016-75774119
+  date: '2016-11-21'
 - type: cites
   target: celex:32002L0038
   label: null
   source: http://data.europa.eu/eli/dir/2002/38/oj
+- type: corrected_by
+  target: pt:dre:141012:por
+  label: "Rectificado pela DECL-RECT.10-B/2003.2003.07.31.PCM, DR.IS-A [175]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-b-2003-141012
+  date: '2003-07-31'
+- type: repealed_by
+  target: pt:dre:58585557:por
+  label: Revogado, com efeitos a partir de 01.01.2015, o regime especial para sujeitos passivos não estabelecidos na Comunidade
+    que prestem serviços por via eletrónica a não sujeitos passivos nela residentes, aprovado pelo presente diploma, na redação
+    do Dec Lei 186/2009 de 12-ago, pelo(a) Decreto-Lei n.º 158/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-2014-58585557
+  date: '2014-10-24'
 article_structure:
-  article_count: 25
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:29Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +373,7 @@ b) Os serviços de telecomunicações, de rádio e televisão e os serviços ref
 
 21 - ...
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - ...
 
@@ -231,7 +395,7 @@ b) Os serviços de telecomunicações, de rádio e televisão e os serviços ref
 
 10 - Sempre que, em momento posterior à transmissão, aquisição intracomunitária ou importação de veículos automóveis, se mostre devido imposto automóvel pela sua transformação, alteração de cilindrada ou de châssis, o imposto é devido e exigível no momento em que ocorra essa transformação ou alteração.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - ...
 
@@ -257,7 +421,7 @@ b) ...
 
 10 - ...
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - ...
 
@@ -277,13 +441,13 @@ b) ...
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - ...
 
 2 - No caso de cessação da actividade durante o período de regularização, esta será efectuada nos termos do n.º 5 do artigo 24.º
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - ...
 
@@ -297,7 +461,7 @@ b) ...
 
 6 - O imposto calculado nos termos dos n.os 3 a 5 será incluído, pelos serviços respectivos, com a correspondente classificação orçamental, nas primeiras guias de receita que forem processadas, quer para pagamento dos direitos de importação, quando devidos, ou do imposto automóvel, quer para pagamento do preço da arrematação, venda ou adjudicação, ou para pagamento das custas, emolumentos ou outros encargos devidos, quando não houver preço.
 
-###### Artigo 50.º
+Artigo 50.º
 
 1 - ...
 
@@ -311,7 +475,7 @@ b) ...
 
 6 - Os livros a que se referem os n.os 2 e 3 do artigo 116.º do Código do IRS substituirão os livros referidos no presente artigo.
 
-###### Artigo 125.º
+Artigo 125.º
 
 1 - ...
 
@@ -341,7 +505,7 @@ d) ...
 
 e) ...
 
-###### Artigo 14.º
+Artigo 14.º
 
 ...
 
@@ -371,15 +535,15 @@ O regime especial aprovado por este diploma, as alterações introduzidas aos ar
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz.
 
-**Promulgado em 13 de Junho de 2003, na ilha da Flores, Açores.**
+Promulgado em 13 de Junho de 2003, na ilha da Flores, Açores.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Junho de 2003.**
+Referendado em 18 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO D — (a que se refere o artigo 3.º)
 

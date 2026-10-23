@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 67/1978, 1º Suplemento, Série I de 1978-03-21
   number: '67'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 564-(1) a 564-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/06701/00010002.pdf
 entry_into_force_dates: []
@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-a-1978-621347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:33:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 982548bb2c3fd47f8769849c02d2b166fa24ef5ba9823b7b6a94d71ec80dd01e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cd7509dc7bfb9204dac26955af891d3663fb8e8c185d58cec1dfefd034ccade
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:33:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Avaliação Contínua do Mérito
+- Avaliação de Conhecimentos
+- Estatuto das Entidades Inspectoras
+- Inspecção do Trabalho
+- Ministério da Reforma Administrativa
+- Ministério do Trabalho
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:33:46Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +103,9 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Administração Pública e pelo Ministro do Trabalho, ao abrigo do disposto no artigo 54.º do Regulamento da Inspecção do Trabalho, constante do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), desta data:
 
-###### Artigo 1.º A apreciação e avaliação do mérito profissional dos funcionários das carreiras técnicas de inspecção da Inspecção do Trabalho regem-se pelo disposto no presente diploma.
+Artigo 1.º A apreciação e avaliação do mérito profissional dos funcionários das carreiras técnicas de inspecção da Inspecção do Trabalho regem-se pelo disposto no presente diploma.
 
-###### Art. 2.º - 1 - Em cada ano será apreciado o mérito profissional dos funcionários da Inspecção do Trabalho, tomando em consideração os seguintes índices:
+Art. 2.º - 1 - Em cada ano será apreciado o mérito profissional dos funcionários da Inspecção do Trabalho, tomando em consideração os seguintes índices:
 
 a) Competência;
 
@@ -117,11 +129,11 @@ h) comportamento moral e civil com reflexos directos ou indirectos no serviço.
 
 4 - A nota final será a média aritmética dos valores atribuídos a cada índice, tendo em conta os respectivos coeficientes.
 
-###### Art. 3.º - 1 - Conforme a nota obtida, os funcionários terão a menção de Muito bom, Bom, Suficiente e Deficiente.
+Art. 3.º - 1 - Conforme a nota obtida, os funcionários terão a menção de Muito bom, Bom, Suficiente e Deficiente.
 
 2 - A menção de Muito bom será atribuída aos funcionários que obtiverem a média de 17 ou mais: a de Bom aos que atingirem a média de 14 a 16; a de Suficiente aos que tiverem a média de 10 a 13, e a de Deficiente aos que não alcançarem, pelo menos, a média de 10.
 
-###### Art. 4.º - 1 - Para efeitos do disposto nos artigos anteriores, será constituída, em cada centro coordenador regional, uma comissão composta pelo inspector superior e pelos chefes das delegações e subdelegações compreendidas na área de jurisdição daquele.
+Art. 4.º - 1 - Para efeitos do disposto nos artigos anteriores, será constituída, em cada centro coordenador regional, uma comissão composta pelo inspector superior e pelos chefes das delegações e subdelegações compreendidas na área de jurisdição daquele.
 
 2 - Quando a comissão referida no número anterior não tiver possibilidade de se pronunciar sobre o mérito de um funcionário por falta de dados, poderá solicitar os elementos que entender necessários e agregar a si ou ouvir os funcionários dos serviços que possam contribuir para uma mais justa e correcta avaliação.
 
@@ -129,11 +141,11 @@ h) comportamento moral e civil com reflexos directos ou indirectos no serviço.
 
 4 - A avaliação do mérito profissional dos funcionários directamente dependentes do inspector-geral é da exclusiva competência deste.
 
-###### Art. 5.º - 1 - A avaliação profissional far-se-á com base no preenchimento de um questionário que será elaborado tendo em atenção os índices referidos no n.º 1 do artigo 2.º
+Art. 5.º - 1 - A avaliação profissional far-se-á com base no preenchimento de um questionário que será elaborado tendo em atenção os índices referidos no n.º 1 do artigo 2.º
 
 2 - O questionário referido no número anterior será enviado a todas as delegações e subdelegações com vista a ser preenchido pelos respectivos chefes.
 
-###### Art. 6.º - 1 - A avaliação em conformidade com o artigo 4.º será feita até 31 de Janeiro.
+Art. 6.º - 1 - A avaliação em conformidade com o artigo 4.º será feita até 31 de Janeiro.
 
 2 - Até 10 de Fevereiro será dado conhecimento do resultado daquela aos interessados, os quais poderão reclamar no prazo de dez dias para a entidade que procedeu à avaliação.
 
@@ -143,10 +155,10 @@ h) comportamento moral e civil com reflexos directos ou indirectos no serviço.
 
 5 - O Ministro do Trabalho decidirá dos recursos no prazo de trinta dias.
 
-###### Art. 7.º A interposição de recurso hierárquico, nos termos do n.º 4 do artigo antecedente, determina a suspensão de promoções na respectiva carreira até decisão final daquele.
+Art. 7.º A interposição de recurso hierárquico, nos termos do n.º 4 do artigo antecedente, determina a suspensão de promoções na respectiva carreira até decisão final daquele.
 
-###### Art. 8.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Secretário de Estado da Administração Pública.
+Art. 8.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro do Trabalho, com o acordo do Secretário de Estado da Administração Pública.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Ministérios da Reforma Administrativa e do Trabalho, 20 de Março de 1978. - O Ministro do Trabalho, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento Meneses.

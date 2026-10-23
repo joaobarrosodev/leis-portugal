@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/215a00/48014801.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/283/1998/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1998-241406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe643389a3375ad36f6647ed78b76e50a4c3cff0eca532e96869588168ea7d73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee213c885d69082689ef39ad34391137ee333bdec97168025d66276438326f04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Saúde
 - Metropolitano
+- Saúde
 - Tabaco
 - Tabagismo
 relationships:
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:448961:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:209590:por
+  label: "Alterado o art. 1º do Dec Lei 226/83 de 27-Mai, com a redacção deste diploma, pelo DEC LEI.25/2003.2003.02.04.MS\
+    \ DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/200/1991/05/29/p/dre
   label: null
@@ -83,16 +89,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630782:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:00:12Z'
   warnings: []
   errors: []
 ---
@@ -147,12 +174,12 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 16 de Julho de 1998. - José Veiga Simão - João Cardona Gomes Cravinho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 3 de Setembro de 1998.**
+Promulgado em 3 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Setembro de 1998.**
+Referendado em 8 de Setembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

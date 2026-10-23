@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/2009/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2009-608760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f01ed5a1f1ce38432910e90f2a611e368d1d75a1b192749a78cc2f0320e047a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b075047b6373fa9a2ec591cc33f776a2acdbe7d8e65da01d6c9df9c7e7ac7436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Aposentado
 - Ensino não Superior
-- Política de Educação
 - Estabelecimento de Ensino
 - Pessoal Docente
+- Política de Educação
 - Regime Jurídico
 relationships:
 - type: cites
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/1998/11/03/p/dre
+- type: cites
+  target: pt:dre:223016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667920:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:11Z'
   warnings: []
   errors: []
 ---
@@ -186,15 +194,15 @@ Em tudo o que não esteja previsto no presente decreto-lei, aplica-se, com as ne
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 8 de Maio de 2009.**
+Promulgado em 8 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Maio de 2009.**
+Referendado em 12 de Maio de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 9.º)
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2003/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2003-232887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:42:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f8789008cc36ac92f0d60a217cefddf1303bb4bb4a4507ca05d80d8a79fc5d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cf616ded4c8b4232a71ce27f153b51e8650b95b9e389464a755b0a291688fd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:42:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Beja
 - Capital Social
 - Conselho de Administração
 - Edab-empresa de Desenvolvimento do Aeroporto de BEJA
 - Estatuto
 - Fiscalização
-- Beja
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/2000/07/22/p/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:321337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 23
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:42:04Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +136,9 @@ Os artigos 5.º e 6.º do [Decreto-Lei n.º 155/2000](https://diariodarepublica.
 
 2 - Qualquer alteração do capital social realiza-se nos termos da lei comercial.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 São órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.»
 
@@ -152,7 +162,9 @@ Os artigos 2.º, 4.º a 7.º e 10.º a 18.º dos estatutos da EDAB - Empresa de 
 
 2 - Por deliberação do conselho de administração, pode a sociedade criar, deslocar ou encerrar sucursais, agências, delegações ou outras formas locais de representação, bem como pode mudar a sede social para outro local sito no mesmo município ou em município limítrofe.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O capital social, no montante de (euro) 2000000, é representado por 2000000 de acções, repartidas da seguinte forma pelos respectivos accionistas:
 
@@ -174,7 +186,9 @@ APS - Administração do Porto de Sines, S. A. ... 50000
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São órgãos sociais a assembleia geral, o conselho de administração e o fiscal único.
 
@@ -184,13 +198,17 @@ APS - Administração do Porto de Sines, S. A. ... 50000
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - Devem participar nos trabalhos da assembleia geral, sem direito a voto, o conselho de administração e o fiscal único.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência, nomeadamente:
 
@@ -212,15 +230,21 @@ h) ...
 
 2 - ...
 
-#### SECÇÃO II — Conselho de administração
+SECÇÃO II
 
-###### Artigo 10.º — [...]
+Conselho de administração
+
+Artigo 10.º
+
+[...]
 
 1 - O conselho de administração é composto por um presidente e dois vogais.
 
 2 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.
 
-###### Artigo 11.º — Competência do conselho de administração
+Artigo 11.º
+
+Competência do conselho de administração
 
 Compete, designadamente, ao conselho de administração:
 
@@ -238,7 +262,9 @@ f) ...
 
 g) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +276,9 @@ c) [Anterior alínea b).]
 
 2 - Em assuntos de mero expediente basta a assinatura de um membro do conselho de administração.
 
-###### Artigo 13.º — Competência do presidente do conselho de administração
+Artigo 13.º
+
+Competência do presidente do conselho de administração
 
 1 - Compete ao presidente do conselho de administração a coordenação e orientação geral das actividades do conselho e, em especial:
 
@@ -260,7 +288,9 @@ b) Representar o conselho em juízo e fora dele, sem prejuízo de outros represe
 
 2 - Sempre que o exijam circunstâncias excepcionais e urgentes e não seja possível reunir o conselho, o presidente pode praticar quaisquer actos da competência deste, mas tais actos ficam sujeitos a ratificação na primeira reunião realizada após a sua prática.
 
-###### Artigo 14.º — Funcionamento do conselho de administração
+Artigo 14.º
+
+Funcionamento do conselho de administração
 
 1 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente sempre que for convocado pelo presidente, por sua iniciativa ou mediante solicitação de dois dos seus membros.
 
@@ -270,13 +300,19 @@ b) Representar o conselho em juízo e fora dele, sem prejuízo de outros represe
 
 4 - As deliberações do conselho de administração são registadas em acta, assinada pelos membros presentes na reunião.
 
-#### SECÇÃO III — Fiscal único
+SECÇÃO III
 
-###### Artigo 15.º — Fiscalização
+Fiscal único
+
+Artigo 15.º
+
+Fiscalização
 
 A fiscalização da actividade social e o exame das contas da sociedade são exercidas por um fiscal único, que deve ser revisor oficial de contas, eleito em assembleia geral.
 
-###### Artigo 16.º — Competência do fiscal único
+Artigo 16.º
+
+Competência do fiscal único
 
 Sem prejuízo das competências fixadas na lei geral, cabe, em especial, ao fiscal único:
 
@@ -288,7 +324,9 @@ c) Solicitar ao conselho de administração a apreciação de qualquer assunto q
 
 d) Pronunciar-se sobre qualquer matéria que lhe seja submetida pelo conselho de administração.
 
-###### Artigo 17.º — Dissolução e liquidação
+Artigo 17.º
+
+Dissolução e liquidação
 
 (Anterior artigo 18.º)»
 
@@ -304,15 +342,15 @@ São republicados em anexo os estatutos da sociedade anónima, cuja redacção �
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 20 de Março de 2003.**
+Promulgado em 20 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Março de 2003.**
+Referendado em 24 de Março de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Estatutos da sociedade anónima
 

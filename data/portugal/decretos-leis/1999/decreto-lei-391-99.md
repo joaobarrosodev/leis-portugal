@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/391/1999/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1999-667921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02fe6a3950cc2fe1b692c290c3791010f7ec6422714905627a856c7c9d3fbf4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df2923d42ba6bdc84e71ed714397b3ffc04da783aaf925303918f7980657fb07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Estatuto
 - Fundação Centro Cultural de Belém
 - Fundação das Descobertas
 - Gestão do Património
+- Gestão Financeira
 - Política Cultural
 relationships:
 - type: cites
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1999/03/16/p/dre
+- type: cites
+  target: pt:dre:144987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583811:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:47Z'
   warnings: []
   errors: []
 ---
@@ -160,15 +172,15 @@ São revogados os n.os 6 e 8 do artigo 5.º e o artigo 8.º do [Decreto-Lei n.º
 
 Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 13 de Setembro de 1999.**
+Promulgado em 13 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Setembro de 1999.**
+Referendado em 20 de Setembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — ESTATUTOS DA FUNDAÇÃO CENTRO CULTURAL DE BELÉM
 
@@ -298,7 +310,7 @@ d) O conselho fiscal.
 
 ###### Artigo 12.º — Nomeação e mandato
 
-**O presidente da Fundação é designado por despacho do Ministro da Cultura e exerce o seu mandato por um período de três anos, renovável.**
+O presidente da Fundação é designado por despacho do Ministro da Cultura e exerce o seu mandato por um período de três anos, renovável.
 
 ###### Artigo 13.º — Funções e competência
 

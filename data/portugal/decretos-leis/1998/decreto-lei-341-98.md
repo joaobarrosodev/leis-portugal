@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/341/1998/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1998-222984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71acf462980cb9bd0d1f080c5b822279e8f18d6c923e2f0a831bac5cd29edeec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57bb527f0889508a196c8cf538a77e06a8e93ce5e5aa2b043846fb0fe981afde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Licenciamento
-- Embalagem
-- Proteção do Ambiente
-- Proteção do Consumidor
+- Limite Máximo de Resíduos
 - Pesticida
 - Produto Fitofarmacêutico
-- Limite Máximo de Resíduos
-- Comércio
+- Produto Químico
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Saúde Pública
 - Troca Intracomunitária
 relationships:
 - type: amended_by
   target: pt:dre:544668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544668:por
+  label: "Alterado o anexo IV do Dec Lei 94/98 de 15-Abr, com a redacção introduzida pelo presente diploma, pelo DEC LEI.19/2006.31.01.2006.MADRP,\
+    \ DR.IS-A [22] de 31.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2006-544668
+  date: '2006-01-31'
 - type: cites
   target: celex:31974L0063
   label: null
@@ -132,14 +138,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1997/57/oj
 article_structure:
   article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:07Z'
   warnings: []
   errors: []
 ---
@@ -162,19 +168,19 @@ Assim, nos termos dos n.os 5 e 9 do artigo 112.º e da alínea a) do n.º 1 do a
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Outubro de 1998.**
+Promulgado em 19 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 1998.**
+Referendado em 23 de Outubro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO IV — Princípios uniformes para a avaliação e autorização dos produtos fitofarmacêuticos
 
-# PARTE A
+## PARTE A
 
 Introdução:
 
@@ -200,7 +206,7 @@ A decisão a apresentar pela DGPC será justificada e comunicada aos representan
 
 6 - As apreciações formuladas pela DGPC durante o processo de avaliação e decisão deverão ser baseadas em princípios científicos, de preferência internacionalmente reconhecidos (por exemplo, pela OEPP), e em recomendações de especialistas.
 
-# PARTE B — Avaliação
+## PARTE B — Avaliação
 
 1 - Princípios gerais:
 
@@ -792,7 +798,7 @@ ii) Os dados relativos às propriedades físicas e químicas do produto fitofarm
 
 2.7.3 - Quando no rótulo proposto se exigir ou recomendar a utilização do produto fitofarmacêutico juntamente com outros produtos fitofarmacêuticos ou adjuvantes na forma de uma mistura extemporânea será avaliada a compatibilidade física e química dos produtos na mistura.
 
-# PARTE C — Processo de decisão
+## PARTE C — Processo de decisão
 
 1 - Princípios gerais:
 
@@ -1012,13 +1018,13 @@ ii) As percentagens médias de recuperação devem situar-se entre 70% e 110%, c
 
 iii) No que se refere aos resíduos nos géneros alimentícios, a repetibilidade deve ser inferior aos seguintes valores:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
 
 Os valores intermédios determinam-se por interpolação com base num gráfico de escala duplamente logarítmica;
 
 iv) No que se refere aos resíduos nos géneros alimentícios, a reprodutibilidade deve ser inferior aos seguintes valores:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
 
 Os valores intermédios determinam-se por interpolação com base num gráfico de escala duplamente logarítmica;
 
@@ -1026,7 +1032,7 @@ v) Para a análise de resíduos em vegetais, produtos vegetais, géneros aliment
 
 Limite de determinação em função do limite máximo de resíduo (LMR) proposto, provisório ou comunitário
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
 
 2.7 - Propriedades físicas e químicas:
 
@@ -1036,7 +1042,7 @@ Limite de determinação em função do limite máximo de resíduo (LMR) propost
 
 a) Propriedades químicas. - Durante o período de conservação, a diferença entre os teores declarado e real da substância activa no produto fitofarmacêutico não deve exceder os seguintes valores:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)](https://files.diariodarepublica.pt/1s/1998/11/255a00/58325847.pdf)
 
 b) Propriedades físicas. - As propriedades físicas do produto fitofarmacêutico (incluindo a estabilidade durante a armazenagem) devem satisfazer os critérios especificados no Manual on the Development and Use of FAO Specifications for Plant Protection Products para o tipo de formulação em causa.
 

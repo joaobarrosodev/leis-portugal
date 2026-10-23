@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/2013/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07083244993834b9fd1dec5267b87d56deda2a6af1467302ca4cef32fad7a783
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5401fd89258bced6713310d7702f5e5ed953f9a5b11b709af43d638133dcb2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
+- Administração Pública
 - ADSE
 - Assistência Médica
 - Assistência Medicamentosa
-- Administração Pública
-- Proteção Social
 - Contrato de Trabalho
+- Função Pública
 - Funcionário Público
+- Proteção Social
+- Regime do Contrato de Trabalho em Funções Públicas
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/221-a/2013/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/221-a/2013/07/08/p/dre
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:28Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +159,9 @@ c) [...];
 
 d) Os trabalhadores que cessem, por mútuo acordo, a relação jurídica de emprego público na modalidade de nomeação definitiva ou de contrato de trabalho em funções públicas por tempo indeterminado, caso optem pela manutenção dessa qualidade, nos termos do disposto nos n.os 5 e 6 do artigo 6.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -159,7 +177,9 @@ d) Os trabalhadores que cessem, por mútuo acordo, a relação jurídica de empr
 
 7 - [Anterior n.º 5].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]:
 
@@ -197,12 +217,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de outubro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 19 de novembro de 2013.**
+Promulgado em 19 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de novembro de 2013.**
+Referendado em 21 de novembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

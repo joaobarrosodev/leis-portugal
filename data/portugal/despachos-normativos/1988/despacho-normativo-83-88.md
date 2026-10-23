@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23400/41224124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1988-354732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa17248d35fc6941ab7c1525129c3533f473c565dbb68a6cc5aa1451d9ef4b88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc035eeb4e87b430b936ae46f4d947c8e49ade33ed7cbf9ce9c83fb0516db26a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Fundo de Turismo
+- Indústria Hoteleira
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:633559:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549421:por
+  label: "Alteradas as taxas de juro anuais fixadas no presente diploma, pelo DN.98/89.23.10.1989.MCT, DR.IS [244] de 23.10.1989,\
+    \ e mantido em vigor em tudo o que não contrarie o referido diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/98-1989-549421
+  date: '1989-10-23'
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633559:por
+  label: "Revogado pelo DN.118/91.06.06.1991.MCT, DR.IS-B [129] de 06.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/118-1991-633559
+  date: '1991-06-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:11Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +227,7 @@ b) As taxas de juro relativas a financiamentos já concedidos pelo Fundo de Turi
 
 Ministério do Comércio e Turismo, 12 de Setembro de 1988. - O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.
 
-## Anexo a que se refere a alínea b) do n.º 7 do Despacho Normativo n.º 83/88
+Anexo a que se refere a alínea b) do n.º 7 do Despacho Normativo n.º 83/88
 
 Lista de concelhos que constituem os pólos de desenvolvimento turístico (PDT)
 

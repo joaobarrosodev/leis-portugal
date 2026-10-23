@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06100/0144801450.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/34/2012/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-2012-553933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5da3b15a555ca181828a728bd77ac8d5541386921321cbbea3c1b679a65e663
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d97a68d69a94ecb43335e12bea82c0895b5aebc45e838d1e21e3e0da61e9dfa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Director Adjunto
-- Pessoal Dirigente
 - Comissão Consultiva
 - Comissão de Planeamento de Emergência da Agricultura
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Conselho de Coordenação Estratégica
 - Definição de Competências
-- Diretor
-- Secretaria Geral
-- Gabinete de Planeamento e Políticas
-- Orgânica
-- Quadro de Pessoal
-- Ministério do Ambiente e do Ordenamento do Território
-- Transferência de Competências
 - Departamento de Prospectiva Planeamento e Relações Internacionais
+- Director Adjunto
+- Diretor
+- Gabinete de Planeamento e Políticas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Ministério do Ambiente e do Ordenamento do Território
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:25343982:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570704:por
+  label: "Determinada a reestruturação do Gabinete de Planeamento e Políticas do Ministério da Agricultura, do Mar, do Ambiente\
+    \ e do Ordenamento do Território, cuja orgânica e atribuições constam do presente diploma, que passa a designar-se Gabinete\
+    \ de Planeamento, Políticas e Administração Geral, sendo as suas atribuições nos domínios do orçamento, da coordenação\
+    \ das atividades e representação no âmbito comunitário e internacional, bem como da aplicação do direito comunitário e\
+    \ de apoio aos processos de pré-contencioso europeu, nas áreas do ambiente e do ordenamento do território integradas na\
+    \ Secretaria-Geral do Ministério do Ambiente, do Ordenamento do Território e da Energia, pelo DEC LEI.18/2014.04.02.2014.MAGM,\
+    \ DR.IS [24] de 04.02.2014 nos termos dos arts. 25.º e 28.º deste\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2014-570704
+  date: '2014-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/51/2007/04/27/p/dre
   label: null
@@ -97,16 +108,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:518852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25343982:por
+  label: "Revogado, a partir de 01.05.2014, pelo DR.2/2014.09.04.2014.MAGM, DR.IS [70] de 09.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/2-2014-25343982
+  date: '2014-04-09'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:04Z'
   warnings: []
   errors: []
 ---
@@ -265,18 +293,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 3 de novembro de 2011. - Pedro Passos Coelho - Luís Filipe Bruno da Costa de Morais Sarmento - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 9 de março de 2012.**
+Promulgado em 9 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2012.**
+Referendado em 13 de março de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06100/0144801450.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06100/0144801450.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06100/0144801450.pdf)

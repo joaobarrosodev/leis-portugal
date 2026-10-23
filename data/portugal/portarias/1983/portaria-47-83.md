@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01300/00850087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/47-1983-308172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T07:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2c3fde4304b1d254067382ba1340e1552711ff44d74077df33de564cf4b947f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfa2c518d849a5c5a06cb3fe2c0340342fd5ded0ab83eb72788a15bfa5e69681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diário da República
+- Diploma Legal
+- Formulário dos Diplomas
+relationships:
+- type: cites
+  target: pt:dre:540470:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3625285:por
+  label: Rectificada pela DECL.DD2939.1983.02.16.PCM DR.IS [48]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-3625285
+  date: '1983-02-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:41:05Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +108,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 b) Decretos-leis previstos na alínea b) do n.º 1 do artigo 201.º da Constituição:
 
@@ -114,15 +126,15 @@ No uso da autorização conferida pela Lei n.º .../..., de ... de ..., o Govern
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 c) Decretos-leis previstos na alínea c) do n.º 1 do artigo 201.º da Constituição:
 
@@ -132,15 +144,15 @@ No desenvolvimento do regime contido na Lei (ou Decreto-Lei) n.º .../..., de ..
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 d) Decretos regulamentares:
 
@@ -150,15 +162,15 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 (Assinaturas do Primeiro-Ministro e dos ministros competentes.)
 
-**Promulgado em ...**
+Promulgado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 e) Decretos de aprovação de tratados internacionais:
 
@@ -170,13 +182,13 @@ Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinatu
 
 Ratificado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 f) Decretos de aprovação de acordos internacionais:
 
@@ -186,15 +198,15 @@ O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, 
 
 Visto e aprovado em Conselho de Ministros de ... (data da aprovação e assinaturas do Primeiro-Ministro e ministros competentes).
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 g) Decretos do Governo não previstos nas alíneas e) e f):
 
@@ -204,15 +216,15 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 (Assinaturas do Primeiro-Ministro e dos ministros competentes.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ... (assinatura).**
+O Presidente da República, ... (assinatura).
 
-**Referendado em ...**
+Referendado em ...
 
-**O Primeiro-Ministro, ... (assinatura).**
+O Primeiro-Ministro, ... (assinatura).
 
 h) Resoluções do Conselho de Ministros:
 
@@ -230,7 +242,7 @@ Manda o Governo da República Portuguesa, pelo ... (indicar a categoria do membr
 
 (Indicação do departamento governamental.)
 
-**Assinado em ...**
+Assinado em ...
 
 (Assinatura do membro ou membros do Governo.)
 
@@ -242,7 +254,7 @@ Faço saber, como ... (indicar a categoria do membro do Governo), o seguinte:
 
 (Indicação do departamento governamental.)
 
-**Assinado em ...**
+Assinado em ...
 
 (Assinatura do membro do Governo.)
 
@@ -252,11 +264,11 @@ Usando da faculdade que me é conferida pelo n.º 3 (ou n.º 4, consoante os cas
 
 (Segue-se o texto.)
 
-**Assinado em ...**
+Assinado em ...
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma d..., ... (assinatura).**
+O Ministro da República para a Região Autónoma d..., ... (assinatura).
 
 3.º Nos decretos será suprimida a ordem de publicação sempre que não haja lugar à publicação do diploma na íntegra.
 

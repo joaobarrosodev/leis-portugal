@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/10/23500/14631466.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-1970-148383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea46474cf85e44e8611367bff0981a8e9b64d598a45211c28b2b566d72623136
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f36b260b5e2b6a7c36e72841b194c607d51afde9efd24011b6ebf4ded3b15694
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:324523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:295402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324523:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 715/78 - Diário da República n.º 280/1978, Série I de 1978-12-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/715-1978-324523
+  date: '1978-12-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:19:38Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado da Informação e Turismo, ao abrigo do disposto no artigo 1.º do [Decreto n.º 46355](https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403), de 26 de Maio de 1965, que seja aprovado o Estatuto das Escolas Profissionais de Hotelaria e Turismo, anexo a esta portaria.
 
-**O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.**
+O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.
 
 ESTATUTO DAS ESCOLAS PROFISSIONAIS DE HOTELARIA E TURISMO
 
@@ -102,13 +115,13 @@ I
 
 Do ensino
 
-###### Artigo 1.º - 1. A preparação dos profissionais exigidos pelas actividades turísticas e hoteleiras será realizada através de escolas de hotelaria e turismo, hotéis-escolas, centros de aprendizagem e cursos móveis.
+Artigo 1.º - 1. A preparação dos profissionais exigidos pelas actividades turísticas e hoteleiras será realizada através de escolas de hotelaria e turismo, hotéis-escolas, centros de aprendizagem e cursos móveis.
 
 2. Os estabelecimentos de ensino e os cursos referidos no número anterior deverão ser criados nos locais onde se reconheça a sua necessidade e reger-se pelo presente estatuto e respectivos regulamentos internos, aprovados pelo conselho geral do Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 2.º O ensino teórico e prático a ministrar visará a preparação do pessoal das indústrias turística e hoteleira, incluindo os profissionais de direcção das empresas hoteleiras, e o aperfeiçoamento dos profissionais em actividade nas mesmas indústrias.
+Art. 2.º O ensino teórico e prático a ministrar visará a preparação do pessoal das indústrias turística e hoteleira, incluindo os profissionais de direcção das empresas hoteleiras, e o aperfeiçoamento dos profissionais em actividade nas mesmas indústrias.
 
-###### Art. 3.º - 1. As escolas de hotelaria e turismo, hotéis-escolas e cursos itinerantes realizados pelas brigadas móveis poderão ministrar, entre outros, quando incluídos nos respectivos planos de estudos, os cursos de hotelaria e de turismo referidos neste artigo.
+Art. 3.º - 1. As escolas de hotelaria e turismo, hotéis-escolas e cursos itinerantes realizados pelas brigadas móveis poderão ministrar, entre outros, quando incluídos nos respectivos planos de estudos, os cursos de hotelaria e de turismo referidos neste artigo.
 
 2. Os cursos de hotelaria compreendem:
 
@@ -122,37 +135,37 @@ d) Cursos de direcção hoteleira.
 
 3. Os cursos de turismo compreendem cursos de formação e cursos de aperfeiçoamento, relativos às categorias profissionais de recepcionistas de turismo, transferista, guia regional, guia-intérprete, guia de arte, correio de turismo, técnico de viagens e técnico de turismo.
 
-###### Art. 4.º Os cursos de aprendizagem destinam-se a facultar aos aprendizes e praticantes a preparação geral e técnica que, associada à prática obtida nos estabelecimentos hoteleiros onde trabalham, lhes confira a conveniente aptidão profissional.
+Art. 4.º Os cursos de aprendizagem destinam-se a facultar aos aprendizes e praticantes a preparação geral e técnica que, associada à prática obtida nos estabelecimentos hoteleiros onde trabalham, lhes confira a conveniente aptidão profissional.
 
-###### Art. 5.º Os cursos de formação têm por fim facultar a preparação geral e técnica necessária para o exercício das respectivas profissões.
+Art. 5.º Os cursos de formação têm por fim facultar a preparação geral e técnica necessária para o exercício das respectivas profissões.
 
-###### Art. 6.º Os cursos de aperfeiçoamento profissional destinam-se aos profissionais que pretendam melhorar a sua preparação ou à promoção à categoria profissional imediata.
+Art. 6.º Os cursos de aperfeiçoamento profissional destinam-se aos profissionais que pretendam melhorar a sua preparação ou à promoção à categoria profissional imediata.
 
-###### Art. 7.º Os cursos de hotelaria de direcção visam a preparação do pessoal destinado aos quadros superiores de direcção e gerência das empresas hoteleiras.
+Art. 7.º Os cursos de hotelaria de direcção visam a preparação do pessoal destinado aos quadros superiores de direcção e gerência das empresas hoteleiras.
 
-###### Art. 8.º Os planos de estudos, os planos dos cursos, os programas das disciplinas e os tempos lectivos constarão de regulamentos internos e serão aprovados pelo Centro Nacional de Formação Turística e Hoteleira.
+Art. 8.º Os planos de estudos, os planos dos cursos, os programas das disciplinas e os tempos lectivos constarão de regulamentos internos e serão aprovados pelo Centro Nacional de Formação Turística e Hoteleira.
 
 II
 
 Das condições de admissão
 
-###### Art. 9.º - 1. É condição para a matrícula nos cursos de aprendizagem não ter menos de 14 nem mais de 18 anos.
+Art. 9.º - 1. É condição para a matrícula nos cursos de aprendizagem não ter menos de 14 nem mais de 18 anos.
 
 2. A habilitação mínima exigida para a matrícula nos cursos a que se refere o presente artigo é a 4.ª classe do ensino primário.
 
-###### Art. 10.º - 1. Poderão matricular-se nos cursos de formação todos os indivíduos com a idade mínima de 16 anos e a máxima que vier a ser fixada, para cada curso, no respectivo regulamento interno.
+Art. 10.º - 1. Poderão matricular-se nos cursos de formação todos os indivíduos com a idade mínima de 16 anos e a máxima que vier a ser fixada, para cada curso, no respectivo regulamento interno.
 
 2. As habilitações mínimas serão, para os cursos de formação de turismo e de recepção hoteleira, o 2.º ciclo liceal ou equivalente, se outras não forem legalmente exigidas para o curso em causa, e, para os restantes cursos, a habilitação correspondente à escolaridade obrigatória.
 
 3. Poderão ainda solicitar a admissão nos cursos indicados nos números anteriores todos os indivíduos que tenham frequentado escolas congéneres estrangeiras ou demonstrem possuir formação escolar equivalente, mediante requerimento fundamentado no Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 11.º - 1. A admissão de profissionais nos cursos de aperfeiçoamento ficará condicionada à prestação de provas, nos termos que vierem a ser fixados no regulamento interno das escolas.
+Art. 11.º - 1. A admissão de profissionais nos cursos de aperfeiçoamento ficará condicionada à prestação de provas, nos termos que vierem a ser fixados no regulamento interno das escolas.
 
 2. Os profissionais habilitados com o curso de formação e que tenham dois anos de prática na respectiva categoria serão admitidos nos cursos de aperfeiçoamento independentemente de quaisquer provas de admissão.
 
 3. Não poderão ser admitidos nestes cursos os profissionais que não possuam, pelo menos, a 4.ª classe do ensino primário.
 
-###### Art. 12.º - 1. Nos cursos de direcção hoteleira poderão inscrever-se os indivíduos maiores de 21 anos que preencham algum dos requisitos das alíneas seguintes:
+Art. 12.º - 1. Nos cursos de direcção hoteleira poderão inscrever-se os indivíduos maiores de 21 anos que preencham algum dos requisitos das alíneas seguintes:
 
 a) Possuam os cursos de formação de recepção, cozinha, mesa e economato;
 
@@ -162,11 +175,11 @@ b) Possuam a carteira profissional de director, gerente ou chefe de secção de 
 
 3. Em casos devidamente fundamentados, e a título excepcional, o conselho administrativo da escola poderá autorizar a inscrição de candidatos sem observância do estabelecido nas alíneas anteriores, desde que sejam de idade não inferior a 25 nem superior a 45 anos e possuam, como habilitações mínimas, o 3.º ciclo liceal ou equivalente.
 
-###### Art. 13.º Todos os indivíduos que possuam diplomas de cursos de direcção hoteleira passados por escolas estrangeiras de reconhecido prestígio internacional poderão requerer ao Centro Nacional de Formação Turística e Hoteleira a prestação de provas para obtenção da respectiva equivalência ao diploma do curso de direcção hoteleira previsto neste diploma.
+Art. 13.º Todos os indivíduos que possuam diplomas de cursos de direcção hoteleira passados por escolas estrangeiras de reconhecido prestígio internacional poderão requerer ao Centro Nacional de Formação Turística e Hoteleira a prestação de provas para obtenção da respectiva equivalência ao diploma do curso de direcção hoteleira previsto neste diploma.
 
-###### Art. 14.º Os alunos e profissionais inscritos nos diferentes cursos ficam sujeitos ao pagamento das propinas que vierem a ser fixadas no respectivo regulamento interno.
+Art. 14.º Os alunos e profissionais inscritos nos diferentes cursos ficam sujeitos ao pagamento das propinas que vierem a ser fixadas no respectivo regulamento interno.
 
-###### Art. 15.º - 1. O Centro Nacional de Formação Turística e Hoteleira poderá atribuir bolsas de estudo para a frequência dos cursos de hotelaria ou de turismo, nas condições que julgar convenientes.
+Art. 15.º - 1. O Centro Nacional de Formação Turística e Hoteleira poderá atribuir bolsas de estudo para a frequência dos cursos de hotelaria ou de turismo, nas condições que julgar convenientes.
 
 2. A atribuição de bolsas implica a isenção de propinas.
 
@@ -174,13 +187,13 @@ III
 
 Da instalação e funcionamento
 
-###### Art. 16.º Na instalação das escolas, hotéis-escolas, centros de aprendizagem e cursos de aperfeiçoamento deverá sempre atender-se à necessidade de existirem dependências onde seja possível ministrar os conhecimentos teóricos e práticos exigidos pelo ensino.
+Art. 16.º Na instalação das escolas, hotéis-escolas, centros de aprendizagem e cursos de aperfeiçoamento deverá sempre atender-se à necessidade de existirem dependências onde seja possível ministrar os conhecimentos teóricos e práticos exigidos pelo ensino.
 
-###### Art. 17.º - 1. Se as circunstâncias o justificarem, o director da escola, ouvido o conselho escolar, poderá instalar e fazer funcionar nas dependências da escola serviços da indústria hoteleira ou similares a utilizar pelo público, mediante autorização do Centro Nacional de Formação Turística e Hoteleira.
+Art. 17.º - 1. Se as circunstâncias o justificarem, o director da escola, ouvido o conselho escolar, poderá instalar e fazer funcionar nas dependências da escola serviços da indústria hoteleira ou similares a utilizar pelo público, mediante autorização do Centro Nacional de Formação Turística e Hoteleira.
 
 2. No funcionamento destes serviços deverá atender-se não só ao prestígio e bom nome do ensino como também aos seus interesses fundamentais, que sobrelevarão os aspectos puramente económicos da exploração.
 
-###### Art. 18.º - 1. O aproveitamento dos alunos das escolas e cursos será apreciado em provas finais a prestar perante um júri presidido por um representante do Centro Nacional de Formação Turística e Hoteleira, que terá voto de qualidade.
+Art. 18.º - 1. O aproveitamento dos alunos das escolas e cursos será apreciado em provas finais a prestar perante um júri presidido por um representante do Centro Nacional de Formação Turística e Hoteleira, que terá voto de qualidade.
 
 2. A constituição do júri será fixada no regulamento interno das escolas.
 
@@ -194,13 +207,13 @@ IV
 
 Da direcção e administração
 
-###### Art. 19.º - 1. A direcção das escolas de hotelaria e turismo compete ao director, que é o representante permanente do Centro Nacional de Formação Turística e Hoteleira e o órgão executivo das suas deliberações.
+Art. 19.º - 1. A direcção das escolas de hotelaria e turismo compete ao director, que é o representante permanente do Centro Nacional de Formação Turística e Hoteleira e o órgão executivo das suas deliberações.
 
 2. A escolha do director deverá recair em pessoa que tenha demonstrado possuir, além de qualidades de direcção, os conhecimentos técnicos necessários ao bom desempenho do cargo.
 
-###### Art. 20.º A administração das escolas de hotelaria e turismo compete ao director e é superiormente orientada pelo conselho administrativo.
+Art. 20.º A administração das escolas de hotelaria e turismo compete ao director e é superiormente orientada pelo conselho administrativo.
 
-###### Art. 21.º - 1. O conselho administrativo terá a seguinte composição:
+Art. 21.º - 1. O conselho administrativo terá a seguinte composição:
 
 a) Um representante da Direcção-Geral do Turismo, da Secretaria de Estado da Informação e Turismo;
 
@@ -220,35 +233,35 @@ g) O director da escola.
 
 3. O Centro Nacional de Formação Turística e Hoteleira, quando o julgar conveniente, participará nas reuniões dos conselhos administrativos das escolas por intermédio de um representante especial.
 
-###### Art. 22.º - 1. O conselho administrativo reunirá ordinàriamente para apreciar e dar parecer sobre o plano anual de actividades, o orçamento, o relatório e a conta de gerência das escolas, e extraordinàriamente quando convocado pelo presidente, para se pronunciar sobre quaisquer assuntos de relevante interesse para a escola.
+Art. 22.º - 1. O conselho administrativo reunirá ordinàriamente para apreciar e dar parecer sobre o plano anual de actividades, o orçamento, o relatório e a conta de gerência das escolas, e extraordinàriamente quando convocado pelo presidente, para se pronunciar sobre quaisquer assuntos de relevante interesse para a escola.
 
 2. A reunião para apreciação e parecer sobre o relatório e conta de gerência deve realizar-se na 2.ª quinzena do mês de Fevereiro do ano seguinte àquele a que disserem respeito e a destinada à apreciação do plano anual de actividades e do orçamento ordinário na 2.ª quinzena de Outubro do ano anterior àquele a que disser respeito.
 
 3. As deliberações do conselho administrativo serão tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 23.º Das deliberações do conselho administrativo lavrar-se-á sempre acta, que deverá ser assinada por todos os membros presentes à respectiva reunião.
+Art. 23.º Das deliberações do conselho administrativo lavrar-se-á sempre acta, que deverá ser assinada por todos os membros presentes à respectiva reunião.
 
 V
 
 Do corpo docente
 
-###### Art. 24.º - 1. O corpo docente será constituído por professores e mestres.
+Art. 24.º - 1. O corpo docente será constituído por professores e mestres.
 
 2. Os professores terão a seu cargo o ensino teórico e os mestres o ensino prático.
 
-###### Art. 25.º - 1. O conselho escolar é constituído pelo director, pelo subdirector e por todos os professores e mestres em exercício.
+Art. 25.º - 1. O conselho escolar é constituído pelo director, pelo subdirector e por todos os professores e mestres em exercício.
 
 2. A presidência do conselho escolar compete ao director, e, no seu impedimento, ao subdirector.
 
 3. Consoante o assunto a apreciar, o director poderá convocar apenas os membros do conselho nele directamente interessados.
 
-###### Art. 26.º Ao conselho escolar compete apoiar pedagògicamente o ensino e propor as medidas que julgue convenientes ao funcionamento eficaz da escola.
+Art. 26.º Ao conselho escolar compete apoiar pedagògicamente o ensino e propor as medidas que julgue convenientes ao funcionamento eficaz da escola.
 
 VI
 
 Do regime financeiro
 
-###### Art. 27.º Constituem receitas das escolas:
+Art. 27.º Constituem receitas das escolas:
 
 a) As dotações que lhes forem atribuídas pelo Centro Nacional de Formação Turística e Hoteleira;
 
@@ -260,17 +273,17 @@ d) As dotações e donativos que lhes sejam concedidos por quaisquer entidades;
 
 e) Os saldos de anos económicos findos.
 
-###### Art. 28.º As despesas de manutenção dos cursos das brigadas móveis e dos centros de aprendizagem ou de aperfeiçoamento serão custeadas por dotação própria do Centro Nacional de Formação Turística e Hoteleira e, eventualmente, por subsídios de quaisquer outras entidades.
+Art. 28.º As despesas de manutenção dos cursos das brigadas móveis e dos centros de aprendizagem ou de aperfeiçoamento serão custeadas por dotação própria do Centro Nacional de Formação Turística e Hoteleira e, eventualmente, por subsídios de quaisquer outras entidades.
 
-###### Art. 29.º O ano administrativo coincide com o ano civil e as despesas serão feitas dentro dos limites que orçamentalmente vierem a ser fixados.
+Art. 29.º O ano administrativo coincide com o ano civil e as despesas serão feitas dentro dos limites que orçamentalmente vierem a ser fixados.
 
-###### Art. 30.º - 1. Os orçamentos ordinários das escolas deverão ser submetidos à aprovação do Centro Nacional de Formação Turística e Hoteleira até 31 de Outubro do ano anterior aquele a que disserem respeito.
+Art. 30.º - 1. Os orçamentos ordinários das escolas deverão ser submetidos à aprovação do Centro Nacional de Formação Turística e Hoteleira até 31 de Outubro do ano anterior aquele a que disserem respeito.
 
 2. Em cada ano poderão ser elaborados até dois orçamentos suplementares, que deverão ser submetidos à aprovação do Centro nos oito dias seguintes ao da respectiva apreciação pelo conselho administrativo.
 
-###### Art. 31.º É da responsabilidade do director da escola a organização da respectiva contabilidade, nos moldes fixados pelo Centro Nacional de Formação Turística e Hoteleira.
+Art. 31.º É da responsabilidade do director da escola a organização da respectiva contabilidade, nos moldes fixados pelo Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 32.º - 1. A conta de gerência das escolas deverá ser presente à direcção do Centro Nacional de Formação Turística e Hoteleira até 1 de Março do ano seguinte àquele a que disser respeito, para aprovação do conselho geral, que depois a submeterá a visto do Secretário de Estado da Informação e Turismo.
+Art. 32.º - 1. A conta de gerência das escolas deverá ser presente à direcção do Centro Nacional de Formação Turística e Hoteleira até 1 de Março do ano seguinte àquele a que disser respeito, para aprovação do conselho geral, que depois a submeterá a visto do Secretário de Estado da Informação e Turismo.
 
 2. A aprovação do conselho geral do Centro Nacional de Formação Turística e Hoteleira, com o referido visto, legitimará, para todos os efeitos, a respectiva receita e despesa.
 
@@ -278,6 +291,6 @@ VII
 
 Disposição final
 
-###### Art. 33.º As omissões e dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
+Art. 33.º As omissões e dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Secretário de Estado da Informação e Turismo.
 
-**O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.**
+O Secretário de Estado da Informação e Turismo, César Henrique Moreira Baptista.

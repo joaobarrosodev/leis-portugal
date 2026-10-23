@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/327/1995/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1995-633726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9500127339c1b8fd3067d17ec125a777e0fd7e04e61313d66c7b6f9bb41d4132
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bccf39eae3dfee1856bbad96ef0f9e0fee2d6513bdbb796c8ff3a8700cc76eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agro-turismo
+- Aldeamento Turístico
 - Alvará
-- Turismo
-- Multa
+- Câmara Municipal
 - Contra-ordenação
 - Direcção Geral do Turismo
 - Estabelecimento Hoteleiro
 - Fiscalização
 - Indústria Hoteleira
+- Infraestrutura Turística
 - Licenciamento
-- Aldeamento Turístico
+- Multa
 - Normas de Segurança
 - Parque de Campismo
 - Prestação de Serviços
 - Proteção do Consumidor
-- Câmara Municipal
 - Regime Jurídico
 - Regulamento
 - Segurança dos Edifícios
-- Agro-turismo
+- Turismo
 - Turismo de Habitação
 - Turismo Rural
-- Infraestrutura Turística
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:613380:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Recusada a ratificação, com repristinação das normas revogadas pelo presente diploma, pela RES.10/96.1996.02.01.AR,\
+    \ DR.IS-A [41] de 17/Fev/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/235/1991/06/27/p/dre
   label: null
@@ -109,16 +115,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663522:por
+  label: null
+  source: null
 article_structure:
   article_count: 245
-  section_count: 61
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 63
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:26Z'
   warnings: []
   errors: []
 ---
@@ -327,15 +413,15 @@ O presente diploma entra em vigor em 1 de Janeiro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1995. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Texeira Rodrigues Consolado - Luís Francisco Valente de Oliveira - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 13 de Outubro de 1995.**
+Promulgado em 13 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Outubro de 1995.**
+Referendado em 16 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Regime Jurídico da Instalação e Funcionamento dos Empreendimentos Turísticos
 
@@ -1007,7 +1093,9 @@ Compete à Direcção-Geral do Turismo a fiscalização da observância do dispo
 
 3 - Se a água a usar nos empreendimentos turísticos não for proveniente de rede pública, as entidades competentes para o seu licenciamento poderão exigir a todo o tempo ao responsável pela exploração dos mesmos a apresentação dos boletins das análises físico-química e bacteriológica da água utilizada, feitas em laboratório oficial ou acreditado junto daquelas entidades.
 
-###### Artigo 81.º — Livro de reclamações
+###### Artigo 81.º
+
+## Livro de reclamações
 
 1 - Em todos os empreendimentos deve existir um livro de reclamações, que será editado e vendido pela Direcção-Geral do Turismo, e cujo modelo, preço, fornecimento, distribuição e utilização serão aprovados por portaria do membro do Governo responsável pela área do turismo.
 
@@ -1499,7 +1587,9 @@ o) Reservatório de água potável.
 
 #### SECÇÃO II — Aldeamentos com pluralidade de proprietários
 
-###### Artigo 8.º — Título constitutivo
+###### Artigo 8.º
+
+## Título constitutivo
 
 O título constitutivo dos aldeamentos com pluralidade de proprietários deve especificar os seguintes elementos:
 

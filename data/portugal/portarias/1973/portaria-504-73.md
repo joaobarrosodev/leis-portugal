@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-1973-421803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3590672c29d1d3b119bf14b1c170f960f0fc1b23c5d2f0d24ae261882bbdef18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0135dd4fe6c0f81ab4949c932880ea9e4176c41e22bd7f56fa4e3c1e7491887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:08:20Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1537.º «Quota-parte da província em encargos na metrópole»:
+Artigo 1537.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 1) «Conselho Ultramarino - Quota-parte da província nos encargos deste organismo» ... 173264$00
 
@@ -113,13 +117,13 @@ Serviços de Saúde e Assistência
 
 Despesas com o pessoal:
 
-###### Artigo 409.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000000$00
+Artigo 409.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000000$00
 
 Serviços de Centralização e Coordenação de Informações de Angola
 
 Despesas com o pessoal:
 
-###### Artigo 525.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 972307$00
+Artigo 525.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 972307$00
 
 ### CAPÍTULO 7.º — Serviços de Fomento
 
@@ -127,7 +131,7 @@ Serviços de Veterinária
 
 Despesas com o pessoal:
 
-###### Artigo 1222.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000000$00
+Artigo 1222.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1000000$00
 
 ... 2972307$00
 
@@ -135,7 +139,7 @@ Despesas com o pessoal:
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2994.º «Quota-parte de Moçambique em encargos na metrópole»:
+Artigo 2994.º «Quota-parte de Moçambique em encargos na metrópole»:
 
 N.º 1), alínea a) «Conselho Ultramarino - Quota-parte de Moçambique nos encargos com este Organismo» ... 129192$00
 
@@ -155,7 +159,7 @@ tomando como contrapartida igual importância a sair do capítulo 4.º, artigo 7
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 270.º «Quota-parte da província em encargos na metrópole»:
+Artigo 270.º «Quota-parte da província em encargos na metrópole»:
 
 N.º 1) «Conselho Ultramarino» ... 6094$00
 

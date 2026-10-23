@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2002/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2002-254186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29f0edadd4d01d856c77584846a0eb9388976d2a3422e6a0b2ec5c6506c48f6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db704dc1d2044c2f8d49c74e6f34f73e0027200a1ade59de939c077425ee0b76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Gestão dos Recursos
-- Proteção do Ambiente
-- Plano de Bacia Hidrográfica
 - Bacia Hidrográfica
-- RIO Mondego
 - Domínio Público Hídrico
+- Gestão dos Recursos
+- Plano de Bacia Hidrográfica
+- Proteção do Ambiente
+- RIO Mondego
 relationships:
 - type: cites
   target: celex:31975L0440
@@ -127,14 +127,14 @@ relationships:
   source: http://data.europa.eu/eli/dec/
 article_structure:
   article_count: 2
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:14Z'
   warnings: []
   errors: []
 ---
@@ -191,19 +191,19 @@ O Plano de Bacia Hidrográfica do Mondego tem a duração máxima de oito anos e
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2001. - António Manuel de Oliveira Guterres - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - António Fernando Correia de Campos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 4 de Janeiro de 2002.**
+Promulgado em 4 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2002.**
+Referendado em 10 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 PLANO DE BACIA HIDROGRÁFICA DO MONDEGO
 
-# PARTE I — Introdução e enquadramento
+## PARTE I — Introdução e enquadramento
 
 ### CAPÍTULO 1 — Introdução
 
@@ -313,7 +313,7 @@ Distrito de Leiria - Ansião e Pombal;
 
 Distrito de Aveiro - Mealhada.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 b) Âmbito temporal
 
@@ -351,17 +351,17 @@ O procedimento de aprovação do documento político envolveu uma discussão pú
 
 Assim, podemos estabelecer desde já a estrutura deste PBH, enquanto instrumento de planeamento estratégico:
 
-# Parte I - Introdução e enquadramento;
+Parte I - Introdução e enquadramento;
 
-# Parte II - Diagnóstico, na qual são apresentadas as principais problemáticas desta bacia hidrográfica, incluindo a identificação, caracterização e análise dos problemas existentes, das suas causas e condicionantes e das soluções já previstas para a superação dos mesmos;
+Parte II - Diagnóstico, na qual são apresentadas as principais problemáticas desta bacia hidrográfica, incluindo a identificação, caracterização e análise dos problemas existentes, das suas causas e condicionantes e das soluções já previstas para a superação dos mesmos;
 
-# Parte III - Definição de objectivos, na qual são apresentados e caracterizados os objectivos estratégicos e os respectivos objectivos operacionais, preconizados para fazer face aos problemas diagnosticados;
+Parte III - Definição de objectivos, na qual são apresentados e caracterizados os objectivos estratégicos e os respectivos objectivos operacionais, preconizados para fazer face aos problemas diagnosticados;
 
-# Parte IV - Estratégias, medidas e programação, na qual são apresentadas as principais linhas estratégicas que enquadram os objectivos definidos, caracterizados os programas de medidas e os respectivos projectos que permitirão alcançar os objectivos preconizados;
+Parte IV - Estratégias, medidas e programação, na qual são apresentadas as principais linhas estratégicas que enquadram os objectivos definidos, caracterizados os programas de medidas e os respectivos projectos que permitirão alcançar os objectivos preconizados;
 
-# Parte V - Avaliação e acompanhamento do Plano, na qual é apresentado o modelo institucional e operacional considerado necessário para uma implementação eficaz do Plano, e principais impactes expectáveis;
+Parte V - Avaliação e acompanhamento do Plano, na qual é apresentado o modelo institucional e operacional considerado necessário para uma implementação eficaz do Plano, e principais impactes expectáveis;
 
-# Parte VI - Normas orientadoras, na qual é apresentado um conjunto de orientações que constitui um instrumento de gestão dos recursos hídricos na área da bacia.
+Parte VI - Normas orientadoras, na qual é apresentado um conjunto de orientações que constitui um instrumento de gestão dos recursos hídricos na área da bacia.
 
 Para além destes elementos integrantes do documento estratégico, o PBH envolve também todo um acervo documental de natureza técnica que estará à disposição do público.
 
@@ -755,7 +755,7 @@ Câmaras municipais.
 
 No segundo caso, de entre outras entidades ligadas aos principais sectores utilizadores, destacam-se as associações de regantes e o sector eléctrico.
 
-# PARTE II — Diagnóstico
+## PARTE II — Diagnóstico
 
 Considerações preliminares
 
@@ -797,7 +797,7 @@ GRÁFICO N.º 1
 
 Repartição mensal das necessidades anuais por tipo de utilizador
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 No balanço global realizado de «necessidades/recursos hídricos superficiais» pode-se concluir que, em termos anuais, na bacia hidrográfica do rio Mondego os recursos hídricos gerados são muito superiores às necessidades de água actuais na bacia, verificando-se as seguintes situações:
 
@@ -811,7 +811,7 @@ GRÁFICO N.º 2
 
 Relação disponibilidades/necessidades anuais para o Rio Mondego
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Em termos mensais, em qualquer dos cenários de afluências estudados, e para a totalidade da bacia verifica-se uma insuficiência das disponibilidades superficiais face às necessidades avaliadas nos meses de Verão, nomeadamente em Julho, Agosto e Setembro (cerca de 300 hm3).
 
@@ -827,15 +827,15 @@ Análise comparativa das necessidades e disponibilidades superficiais mensais pa
 
 Ano médio
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Ano seco
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Ano húmido
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 ### CAPÍTULO 2 — Níveis de atendimento das populações
 
@@ -1123,7 +1123,7 @@ TABELA N.º 1
 
 Estado de conservação da vegetação ripícola
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 ### CAPÍTULO 6 — Ordenamento do domínio hídrico
 
@@ -1169,7 +1169,7 @@ Relativamente aos caudais de ponta:
 
 Para os períodos de retorno de 50 e 100 anos, são os seguintes os caudais de ponta de cheia (m3/s):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 c) Riscos de erosão
 
@@ -1265,7 +1265,7 @@ Melhorar a qualidade das águas de superfície, onde se apresentam poluídas.
 
 Desenvolver uma rede de monitorização. Face ao incompleto conhecimento do estado dos recursos hídricos na bacia hidrográfica do rio Mondego é fundamental, de uma forma integrada, melhorar, ampliar ou criar as redes de monitorização necessárias à caracterização e acompanhamentos da evolução das características dos recursos hídricos, nomeadamente no que diz respeito à qualidade e quantidade das águas superficiais e subterrâneas, ao caudal sólido e ainda dos ecossistemas aquáticos e terrestres associados. Está já em curso no MAOT a implementação/restruturação da rede de monitorização superficial da hidrometria, qualidade, quantidade e sedimentologia. Para as águas subterrâneas está em estruturação a rede de qualidade e quantidade.
 
-# PARTE III — Definição de objectivos
+## PARTE III — Definição de objectivos
 
 ### CAPÍTULO 1 — Estrutura dos objectivos - Áreas temáticas
 
@@ -1417,9 +1417,9 @@ TABELA N.º 2
 
 Definição e avaliação dos objectivos operacionais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
-# PARTE IV — Estratégias, medidas e programação
+## PARTE IV — Estratégias, medidas e programação
 
 ### CAPÍTULO 1 — Estratégias
 
@@ -1449,11 +1449,11 @@ VIII) Desenvolvimento de recursos humanos, a sensibilização do cidadão, e um 
 
 Destes princípios salienta-se o VI por constituir uma evolução conceptual nas estratégias clássicas de gestão de recursos hídricos cujo objectivo principal era a satisfação total da procura, muitas vezes com custos ambientais elevados, tal como esquematizado a seguir:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Na nova abordagem o esquema anterior é complementado de uma forma que pode ser traduzida graficamente por:
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Dos princípios enumerados deverá ainda ser salientado o conceito de gestão integrada de recursos hídricos segundo cinco componentes:
 
@@ -1473,7 +1473,7 @@ b) Estratégias para a implementação do PBH
 
 As estratégias para a implementação do PBH devem recorrer à totalidade dos instrumentos de gestão actualmente disponíveis e que são os seguintes:
 
-[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Nesta matéria recordam-se alguns princípios internacionalmente aceites:
 
@@ -1627,7 +1627,7 @@ Ainda que a área geográfica deste Plano seja relativamente reduzida, apresenta
 
 Essa espacialização da estratégia foi efectuada ao nível de quatro UHP, sendo as seguintes orientações sub-regionais adoptadas (figura 2).
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 ### CAPÍTULO 2 — Programas de Medidas
 
@@ -1965,7 +1965,7 @@ TABELA N.º 3
 
 Cronograma físico dos programas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 ### CAPÍTULO 4 — Programação, investimentos e financiamento
 
@@ -1977,7 +1977,7 @@ TABELA N.º 4
 
 Investimento total previsto
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 A globalidade dos investimentos estimados para a implementação do Plano é cerca de 193,5 milhões de contos.
 
@@ -2059,7 +2059,7 @@ TABELA N.º 5
 
 Cronograma dos investimentos totais, com acumulados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Em termos dos vários horizontes temporais adoptados, é de referir que até 2006, horizonte de curto prazo, deverão ser investidos cerca de 138 milhões de contos, a que correspondem cerca de 71% dos investimentos totais previstos, dos quais cerca de metade deverão ser despendidos em 2004 e 2005.
 
@@ -2069,7 +2069,7 @@ GRÁFICO N.º 4
 
 Cronograma dos investimentos totais, com acumulados
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Em termos de repartição dos investimentos totais por programa (gráfico n.º 5), é de salientar o facto de que os Programas Prog01 - Recuperação e Prevenção da Qualidade da Água e Prog02 - Abastecimento de Água às Populações e Actividades Económicas irão absorver no seu conjunto cerca de 91% dos investimentos totais, correspondendo ao primeiro 43% e ao segundo 48% dos valores totais.
 
@@ -2077,7 +2077,7 @@ GRÁFICO N.º 5
 
 Repartição dos custos totais por programa
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 O Programa Prog07 - Quadro Normativo e Institucional figura em terceiro lugar, com 3% dos investimentos totais, situação que é justificada pelo facto de se ter orçamentado o funcionamento das equipas técnicas necessárias à gestão dos recursos, ao longo dos 20 anos de horizonte de projecto.
 
@@ -2091,7 +2091,7 @@ GRÁFICO N.º 6
 
 Tipologias de investimento
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 A componente infra-estruturas hidráulicas, com 9,8% dos investimentos totais, destina-se essencialmente a suprir insuficiências ao nível das origens para abastecimento à rega.
 
@@ -2101,7 +2101,7 @@ Quanto às entidades promotoras, destacam-se claramente o MAOT, por ser entidade
 
 Relativamente às fontes de financiamento, verifica-se, em virtude da tipologia de cada financiamento, que podem coexistir várias fontes, sendo no entanto de salientar como principais os fundos comunitários, o Orçamento do Estado e o autofinanciamento, compreendendo este o regime económico-financeiro e o tarifário.
 
-# PARTE V — Avaliação e acompanhamento do Plano
+## PARTE V — Avaliação e acompanhamento do Plano
 
 Considerações preliminares
 
@@ -2133,7 +2133,7 @@ TABELA N.º 6
 
 Programas e indicadores de acompanhamento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 c) Resultados esperados
 
@@ -2179,25 +2179,25 @@ TABELA N.º 7
 
 Qualidade da água em captações superficiais. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 TABELA N.º 8
 
 Qualidade da água para uso balnear. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 TABELA N.º 9
 
 Avaliação da água para salmonídeos. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 TABELA N.º 10
 
 Avaliação da qualidade da água para rega. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Relativamente à qualidade da água para usos múltiplos, os resultados esperados da implementação das medidas e acções previstas são os que se apresentam na tabela seguinte (tabela n.º 11):
 
@@ -2205,7 +2205,7 @@ TABELA N.º 11
 
 Avaliação da qualidade da água para usos múltiplos. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Estado de conservação da vegetação ripícola
 
@@ -2217,7 +2217,7 @@ TABELA N.º 12
 
 Estado de conservação da vegetação ripícola. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Preservação e recuperação dos cursos de água
 
@@ -2235,9 +2235,9 @@ TABELA N.º 13
 
 Preservação e recuperação dos cursos de água. Resultados esperados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
-# PARTE VI — Normas orientadoras
+## PARTE VI — Normas orientadoras
 
 A aplicação do Plano integra um conjunto de orientações que constitui um instrumento da gestão dos recursos hídricos na área da bacia hidrográfica do rio Mondego.
 
@@ -2475,7 +2475,7 @@ TABELA A
 
 Eficiências globais de rega
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Capitações para os abastecimentos urbanos
 
@@ -2495,7 +2495,7 @@ TABELA B
 
 Capitações do consumo doméstico (l/hab/dia)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 III - Quando não houver informação fiável acerca dos consumos comerciais e de serviços, poderá admitir-se que as capitações correspondentes estão incorporadas nos valores médios de capitação global. Os valores a adoptar deverão ter em conta não só a repartição de utilizações encontrada, como a própria estrutura socioeconómica da região e ainda o valor de referência apresentado no Decreto Regulamentar n.º 23/95, de 23 de Agosto. Assim deverão considerar-se os seguintes valores, em percentagem da capitação indicada no n.º 2:
 
@@ -2523,7 +2523,7 @@ Dotações úteis de rega
 
 Ano médio
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 Critérios de dimensionamento contra cheias e inundações
 
@@ -2531,7 +2531,7 @@ TABELA D
 
 Critérios de dimensionamento contra cheias e inundações
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
+[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)](https://files.diariodarepublica.pt/1s/2002/03/051b00/16951745.pdf)
 
 ## ANEXO N.º 1
 
@@ -2551,47 +2551,47 @@ Anexos temáticos
 
 ## Anexo n.º 1 - Análise biofísica.
 
-## Anexo n.º 2 - Análise socioeconómica.
+Anexo n.º 2 - Análise socioeconómica.
 
-## Anexo n.º 3 - Recursos hídricos superficiais.
+Anexo n.º 3 - Recursos hídricos superficiais.
 
-## Anexo n.º 4 - Recursos hídricos subterrâneos.
+Anexo n.º 4 - Recursos hídricos subterrâneos.
 
 Anex n.º 5 - Análise da ocupação do solo e ordenamento do território.
 
-## Anexo n.º 6 - Utilizações e necessidades de água - balanço de necessidades/disponibilidades.
+Anexo n.º 6 - Utilizações e necessidades de água - balanço de necessidades/disponibilidades.
 
-## Anexo n.º 7 - Infra-estruturas hidráulicas e de saneamento básico - avaliação expedita do funcionamento das ETA e ETAR.
+Anexo n.º 7 - Infra-estruturas hidráulicas e de saneamento básico - avaliação expedita do funcionamento das ETA e ETAR.
 
-## Anexo n.º 8 - Usos e ocupações do domínio hídrico.
+Anexo n.º 8 - Usos e ocupações do domínio hídrico.
 
-## Anexo n.º 9 - Conservação da natureza.
+Anexo n.º 9 - Conservação da natureza.
 
-## Anexo n.º 10 - Qualidade do meios hídricos.
+Anexo n.º 10 - Qualidade do meios hídricos.
 
-# Parte 1 - Qualidade das águas superficiais.
+Parte 1 - Qualidade das águas superficiais.
 
-# Parte 2 - Qualidade das águas subterrâneas.
+Parte 2 - Qualidade das águas subterrâneas.
 
-## Anexo n.º 11 - Situações hidrológicas extremas.
+Anexo n.º 11 - Situações hidrológicas extremas.
 
-# Parte 1 - Análise das secas.
+Parte 1 - Análise das secas.
 
-# Parte 2 - Análise das cheias.
+Parte 2 - Análise das cheias.
 
-## Anexo n.º 12 - Situações de risco.
+Anexo n.º 12 - Situações de risco.
 
-# Parte A - Riscos de erosão.
+Parte A - Riscos de erosão.
 
 Partes B, C, D e E - Riscos geológicos, riscos de inundação e rotura de barragens, riscos de poluição acidental diversos.
 
-## Anexo n.º 13 - Análise económica das utilizações da água.
+Anexo n.º 13 - Análise económica das utilizações da água.
 
 ## Anexo n.º 14 - Quadro normativo.
 
-## Anexo n.º 15 - Enquadramento institucional.
+Anexo n.º 15 - Enquadramento institucional.
 
-## Anexo n.º 16 - Projectos de dimensão nacional.
+Anexo n.º 16 - Projectos de dimensão nacional.
 
 b) Definição de objectivos
 

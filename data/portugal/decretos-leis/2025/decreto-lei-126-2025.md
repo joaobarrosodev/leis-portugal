@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126/2025/12/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f006c7a5aaad352f6a6d944110a46472669986341de167c3e9d458512e82a403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c43a1d0225d6c5cb86d607919980d3c623c040b8ded6ad4c43eac3e379f8c06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência para a Integração Migrações e Asilo I. P.
 - Atestado de Residência
-- Residência de Estrangeiros
 - Cidadão Estrangeiro
 - Instituto dos Registos e do Notariado
 - Residência
+- Residência de Estrangeiros
 - Titulo de Residência
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
-- Agência para a Integração Migrações e Asilo I. P.
 relationships:
+- type: amends
+  target: pt:numero:lei:73/2021
+  label: Altera, a partir de 5 de dezembro de 2025, o artigo 3.º da Lei n.º 73/2021, de 12 de novembro, Diário da República
+    n.º 220/2021, Série I
+  source: null
+  date: '2021-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/2012/07/12/p/dre
   label: null
@@ -105,16 +111,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/307/2023/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/307/2023/10/13/p/dre
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174244808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213881448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222779383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:148/2012
+  label: Revoga, a partir de 5 de dezembro de 2025, a alínea o) do n.º 2 do artigo 3.º do Decreto-Lei n.º 148/2012, de 12
+    de julho, Diário da República n.º 134/2012, Série I
+  source: null
+  date: '2012-07-12'
+- type: repeals
+  target: pt:numero:decreto-lei:41/2023
+  label: Revoga, a partir de 5 de dezembro de 2025, a alínea b) do artigo 46.º do Decreto-Lei n.º 41/2023, de 2 de junho,
+    Diário da República n.º 107/2023, Série I
+  source: null
+  date: '2023-06-02'
+- type: repeals
+  target: pt:numero:portaria:307/2023
+  label: Revoga, a partir de 5 de dezembro de 2025, o artigo 4.º da Portaria n.º 307/2023, de 13 de outubro, Diário da República
+    n.º 199/2023, Série I
+  source: null
+  date: '2023-10-13'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:15Z'
   warnings: []
   errors: []
 ---
@@ -201,12 +253,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de novembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Rita Alarcão Júdice.
 
-**Promulgado em 26 de novembro de 2025.**
+Promulgado em 26 de novembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de novembro de 2025.**
+Referendado em 28 de novembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119836986

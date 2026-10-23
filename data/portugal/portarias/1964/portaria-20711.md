@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/08/18100/09660967.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20711-1964-580084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b56997494afb8cfa06d9a8dfc7a47f9695f412f4ff5764d68d6b4cd693becf57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f337e8ef4a41a25b8b02f7407814969b51448d91a3c5e5e799112289152a507b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:314631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:469453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314631:por
+  label: Revogada pelo(a) Portaria n.º 499/75 - Diário do Governo n.º 189/1975, Série I de 1975-08-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-1975-314631
+  date: '1975-08-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:48Z'
   warnings: []
   errors: []
 ---

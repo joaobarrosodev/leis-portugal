@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1987-417225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a4c21003ac42b99cc09f95521de2d832020f86d7af6a5ed3c5cf5d1a66c8d46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc3edb3c38ca72056bb4ae519b813e0cbe0eb4583c091a9e72587a60ccf2298a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Faro
+- Medidas Preventivas
+- Quartel
 relationships:
 - type: amended_by
   target: pt:dre:334595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334595:por
+  label: "Prorrogado por um ano o prazo de vigência das medidas preventivas, pelo DR.4/90.1990.02.08.MDN, DR.IS [33]m\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1990-334595
+  date: '1990-02-08'
+- type: cites
+  target: pt:dre:407337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:11Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +113,7 @@ Ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 794/76](https://diario
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de dois anos, fica dependente da autorização do Ministro da Defesa Nacional, sem prejuízo de quaisquer condicionantes legalmente exigidos, a execução, nas áreas definidas na planta anexa a este diploma, dos trabalhos e ou das actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de dois anos, fica dependente da autorização do Ministro da Defesa Nacional, sem prejuízo de quaisquer condicionantes legalmente exigidos, a execução, nas áreas definidas na planta anexa a este diploma, dos trabalhos e ou das actividades seguintes:
 
 a) Criação de novos núcleos populacionais;
 
@@ -113,20 +129,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 2 - É aplicável ao estabelecido no presente diploma o disposto nos artigos 11.º a 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 2.º A fiscalização do cumprimento das medidas preventivas previstas no artigo anterior incumbe à Câmara Municipal de Faro, ao Comando do Regimento de Infantaria de Faro, à Região Militar do Sul e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 2.º A fiscalização do cumprimento das medidas preventivas previstas no artigo anterior incumbe à Câmara Municipal de Faro, ao Comando do Regimento de Infantaria de Faro, à Região Militar do Sul e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 3.º A aplicação das medidas previstas no artigo 12.º do [Decreto-Lei n.º 796/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1976-407337), de 5 de Novembro, pelas infracções verificadas, é da competência da Câmara Municipal de Faro e da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Sul.
+Art. 3.º A aplicação das medidas previstas no artigo 12.º do [Decreto-Lei n.º 796/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/796-1976-407337), de 5 de Novembro, pelas infracções verificadas, é da competência da Câmara Municipal de Faro e da Delegação do Serviço de Fortificações e Obras do Exército na Região Militar do Sul.
 
 Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 17 de Julho de 1987.**
+Promulgado em 17 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Julho de 1987.**
+Referendado em 21 de Julho de 1987.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/17400/29882988.pdf))](https://files.diariodarepublica.pt/1s/1987/07/17400/29882988.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17400/29882988.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/05800/07990799.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-1984-661101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T07:57:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ecb7f2fde319af6e2612ec1366e5471221f9074c61bc57396423d1a70edfd76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e879ade01fc8d3ff09ac157d5ba3a853e87abacf339acc6fffd8db6a3a5a93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:57:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Estandarte Nacional
+- PSP
+relationships:
+- type: cites
+  target: pt:dre:351945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516699:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67485178:por
+  label: Revogada pelo(a) Portaria n.º 177/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2015-67485178
+  date: '2015-06-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:57:25Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +110,8 @@ Cordões e borlas, de prata e azul-ferrete.
 
 Ministério da Administração Interna.
 
-**Assinada em 16 de Fevereiro de 1984.**
+Assinada em 16 de Fevereiro de 1984.
 
-**O Ministro da Administração Interna, Eduardo Ribeiro Pereira.**
+O Ministro da Administração Interna, Eduardo Ribeiro Pereira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/03/05800/07990799.pdf))](https://files.diariodarepublica.pt/1s/1984/03/05800/07990799.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/03/05800/07990799.pdf)

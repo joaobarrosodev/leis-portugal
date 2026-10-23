@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-1971-644120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bf374df6b78dc3c1887169182fd60bb2ce551c28d039463c11206b745e0e034
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37f4a28dc7bf6b33b210ac39adabad593b46288ee8657b1373d32b41c812fb9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680446:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:42Z'
   warnings: []
   errors: []
 ---
@@ -103,6 +119,6 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
 
 3.º No processo sumaríssimo, as funções atribuídas pelo artigo 85.º do Código de Processo do Trabalho às comissões corporativas serão prosseguidas pelo agente do Ministério Público junto do tribunal competente para a acção, que para o efeito poderá convocar as partes e as testemunhas por estas oferecidas, para prova dos factos que alegarem, podendo perante ele ser requerida a tentativa de conciliação para os efeitos do n.º 4 do mesmo artigo 85.º; mas o juiz que verificar qualquer irregularidade referida no n.º 5 daquele preceito procederá à sua correcção.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

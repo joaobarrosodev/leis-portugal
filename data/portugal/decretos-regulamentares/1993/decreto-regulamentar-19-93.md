@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/155b00/36593661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/19/1993/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1993-376808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10aa5b34c6a05ec289fcbfd4a847c4d822be6e268cfb7a3a5130096106beee60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0553a17617d00ddfed1ab2c3f58843d57b24f53f4ea79fef0f9dfb8b1096e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Verba
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
-- Multa
+- Bingo
 - Concurso
 - Contrato de Concessão
-- Região de Turismo
+- Estabelecimento de Jogos
+- Fundo de Turismo
 - Inspecção Geral de Jogos
 - Instituto da Juventude
-- Fundo de Turismo
 - Instituto Nacional de Fomento do Desporto
-- Bingo
+- Jogos de Fortuna e Azar
+- Multa
 - Organização Desportiva
 - Pessoa Coletiva
+- Região de Turismo
 relationships:
 - type: amended_by
   target: pt:dre:279439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692421:por
+  label: "Mantido em vigor o art. 2º e revogado o DR 76/86 de 31-Dez, na redacção dada pelo presente diploma, pelo DEC LEI.314/95.1995.11.24.MCT,\
+    \ DR.IS-A [272]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-1995-692421
+  date: '1995-11-24'
+- type: cites
+  target: pt:dre:394161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627248:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279439:por
+  label: "Revogado o art. 2º pelo DEC LEI.31/2011.04.03.2011.MEID, DR.IS [45] de 04.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2011-279439
+  date: '2011-03-04'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:42Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +142,7 @@ Assim:
 
 Ao abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 277/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1982-394161), de 16 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 5.º, 26.º e 35.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º, 26.º e 35.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 5.º — Abertura de concurso e prorrogação do prazo de concessão
 
@@ -231,7 +254,7 @@ c) ...
 
 6 - ...
 
-###### Art. 2.º - 1 - O disposto nos n.os 4 a 6 do artigo 26.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, com a redacção que lhes é dada pelo artigo anterior, aplica-se apenas às concessões adjudicadas a partir da data da entrada em vigor do [Decreto Regulamentar n.º 34/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1990-566194), de 3 de Novembro, e às que, tendo sido adjudicadas anteriormente, venham a ser prorrogadas, a contar da prorrogação.
+Art. 2.º - 1 - O disposto nos n.os 4 a 6 do artigo 26.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, com a redacção que lhes é dada pelo artigo anterior, aplica-se apenas às concessões adjudicadas a partir da data da entrada em vigor do [Decreto Regulamentar n.º 34/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1990-566194), de 3 de Novembro, e às que, tendo sido adjudicadas anteriormente, venham a ser prorrogadas, a contar da prorrogação.
 
 2 - Aos contratos de concessão adjudicados a colectividades desportivas reconhecidas como instituições de utilidade pública ou outras pessoas colectivas de utilidade pública ou ainda a pessoas colectivas de direito público, vigentes à data da entrada em vigor do [Decreto Regulamentar n.º 34/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1990-566194), de 3 de Novembro, continua a aplicar-se o n.º 4 do artigo 26.º do [Decreto Regulamentar n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/76-1986-627248), de 31 de Dezembro, com a redacção que por aquele lhe foi dada.
 
@@ -239,12 +262,12 @@ Presidência do Conselho de Ministros, 12 de Abril de 1993.
 
 Aníbal António Cavaco Silva - António Fernando Couto dos Santos - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 26 de Maio de 1993.**
+Promulgado em 26 de Maio de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Maio de 1993.**
+Referendado em 28 de Maio de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

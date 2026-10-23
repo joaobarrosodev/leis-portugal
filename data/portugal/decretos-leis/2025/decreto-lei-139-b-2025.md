@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/139-b/2025/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-b-2025-993270170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db3a788bf07150a358f045ded403077594e659995477aa53e5cac22a9ce88e42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f7d151d5799f69328e0f8b8e26d59548e153293a8ad7059255365bb7e8fd617
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
+- Comércio
 - Concorrência
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
 - Extinção de Serviços
 - Mibel
 - Operador do Mercado Ibérico de Energia
-- Entidade Reguladora dos Serviços Energéticos
 - Preço
 - Sistema Elétrico Nacional
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/2019/08/09/p/dre
@@ -100,16 +100,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/149/2024/10/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/149/2024/10/30/p/dre
+- type: cites
+  target: pt:dre:123855888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124324706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69905669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:893982647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:942405347:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:74/2013
+  label: Revoga, a partir de 31 de dezembro de 2025, o Decreto-Lei n.º 74/2013, de 4 de junho, Diário da República n.º 107/2013,
+    Série I, e extingue, com os efeitos previstos no artigo 2.º, o Mecanismo de Equilíbrio Concorrencial
+  source: null
+  date: '2013-06-04'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:40Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +156,7 @@ O mecanismo de equilíbrio concorrencial (MEC) é um instrumento regulatório, c
 
 O mecanismo assentou na elaboração anual, pela Entidade Reguladora dos Serviços Energéticos (ERSE), de um estudo técnico destinado a identificar e quantificar os efeitos extramercado internos e externos ao Sistema Elétrico Nacional (SEN), e na subsequente fixação, por despacho governamental, dos valores compensatórios a faturar aos produtores de energia elétrica abrangidos pelo regime.
 
-A execução do MEC, alterado pelo [Decreto-Lei n.º 104/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2019-123855888), de 9 de agosto, foi sucessivamente regulamentada pelas Portarias n.<sup>os</sup>[288/2013](https://diariodarepublica.pt/dr/detalhe/portaria/288-2013-499781), de 20 de setembro, [225/2015](https://diariodarepublica.pt/dr/detalhe/portaria/225-2015-69905669), de 30 de julho, e [282/2019](https://diariodarepublica.pt/dr/detalhe/portaria/282-2019-124324706), de 30 de agosto, que definiram o método de cálculo e o procedimento aplicável a cada exercício.
+A execução do MEC, alterado pelo [Decreto-Lei n.º 104/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2019-123855888), de 9 de agosto, foi sucessivamente regulamentada pelas Portarias n.os[288/2013](https://diariodarepublica.pt/dr/detalhe/portaria/288-2013-499781), de 20 de setembro, [225/2015](https://diariodarepublica.pt/dr/detalhe/portaria/225-2015-69905669), de 30 de julho, e [282/2019](https://diariodarepublica.pt/dr/detalhe/portaria/282-2019-124324706), de 30 de agosto, que definiram o método de cálculo e o procedimento aplicável a cada exercício.
 
 Resultando o MEC do funcionamento efetivo do MIBEL, no momento da sua criação, em 2013, o desenvolvimento deste mercado tem vindo a aprofundar-se desde então, tendo-se alterado substancialmente as condições a que pretendeu responder. Para além disso, apesar da sua intenção inicial de assegurar um quadro concorrencial equilibrado, o MEC revelou-se, ao longo dos anos, um mecanismo de aplicação complexa, de reduzida previsibilidade e de impacto económico residual, gerando custos de contexto para os operadores e risco acrescido dos investimentos, associado à difícil previsibilidade do mecanismo, que invariavelmente reflete efeitos negativos na formação do preço para os consumidores finais.
 
@@ -172,12 +206,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Maria da Graça Carvalho.
 
-**Promulgado em 26 de dezembro de 2025.**
+Promulgado em 26 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de dezembro de 2025.**
+Referendado em 29 de dezembro de 2025.
 
 Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+119941029

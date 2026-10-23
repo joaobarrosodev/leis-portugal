@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23336-1968-274642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:44:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70f9b2514809e2cc0dc4f56f3b0f2a85e51358fd69c031a72180250a1d0feefb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0c955eeacdfea54f4e583781e4ace38d1af71db0c0796ad5fccc11687b2cb70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:44:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:44:52Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +97,13 @@ Nos termos do artigo 6.º do [Decreto-Lei n.º 42559](https://diariodarepublica.
 
 ### CAPÍTULO 1.º — Receita ordinária
 
-###### Artigo 1.º, n.º 2) «Contribuição dos serviços autónomos, nos termos do artigo 1.º do [Decreto n.º 44342](https://diariodarepublica.pt/dr/detalhe/decreto/44342-1962-140815), de 12 de Maio de 1962» ... 27500$00
+Artigo 1.º, n.º 2) «Contribuição dos serviços autónomos, nos termos do artigo 1.º do [Decreto n.º 44342](https://diariodarepublica.pt/dr/detalhe/decreto/44342-1962-140815), de 12 de Maio de 1962» ... 27500$00
 
 para reforçar e inscrever a seguinte verba da tabela de despesa do mesmo orçamento:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 13.º «Despesas de anos económicos findos» ... 27500$00
+Artigo 13.º «Despesas de anos económicos findos» ... 27500$00
 
 Presidência do Conselho, 27 de Abril de 1968. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.
 

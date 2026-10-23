@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2006/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2006-672456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54ac843bae1d72df2423193ddc19bb6d8fbc1919740885f7c2d2959149910480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03c228efacc72c7041e6db0c79b0bb1f6e2594d26fb0d84329e76e1a417242c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Climatização
-- Política Energética
-- Especificação Técnica
 - Certificação Energética dos Edifícios
-- Licenciamento
-- Poupança de Energia
-- Regulamento
-- Habitação
-- Prédio Urbano
+- Climatização
 - Eficiência Energética
+- Especificação Técnica
+- Habitação
+- Licenciamento
+- Política Energética
+- Poupança de Energia
+- Prédio Urbano
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:499237:por
@@ -85,16 +85,22 @@ relationships:
   target: celex:32002L0091
   label: null
   source: http://data.europa.eu/eli/dir/2002/91/oj
+- type: repealed_by
+  target: pt:dre:499237:por
+  label: Revogado, a partir de 01.12.2013, pelo DEC LEI.118/2013.20.08.2013.MEE, DR.IS [159] de 20.08.2013, sem prejuízo do
+    disposto nas als. e) e g) do n.º 2 do art. 54.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2013-499237
+  date: '2013-08-20'
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:55:22Z'
   warnings: []
   errors: []
 ---
@@ -171,15 +177,15 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 5 de Março de 2006.**
+Promulgado em 5 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 2006.**
+Referendado em 6 de Março de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 REGULAMENTO DAS CARACTERÍSTICAS DE COMPORTAMENTO TÉRMICO DOS EDIFÍCIOS
 
@@ -609,7 +615,7 @@ Número de graus-dias (base de 20ºC): 1500ºC.dias;
 
 Duração da estação de aquecimento: seis meses.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Nos concelhos de Pombal e Santiago do Cacém, os locais situados numa faixa litoral com 15 km de largura são incluídos na zona climática de Verão V(índice 1) e adoptam-se os seguintes dados climáticos de referência:
 
@@ -629,7 +635,7 @@ Zonamento climático de Inverno (Portugal continental)
 
 Alterações em função da altitude dos locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 QUADRO III.3
 
@@ -637,7 +643,7 @@ Zonamento climático de Verão (Portugal continental)
 
 Alterações em função da altitude dos locais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 1.3 - Região Autónoma dos Açores. - Zonas climáticas de Inverno:
 
@@ -659,7 +665,7 @@ Região Autónoma dos Açores
 
 Duração média da estação convencional de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Zona climática de Verão - V(índice 1) (toda a Região Autónoma dos Açores).
 
@@ -671,7 +677,7 @@ Região Autónoma dos Açores
 
 Temperatura exterior de projecto de Verão e amplitude térmica diária do mês mais quente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 1.4 - Região Autónoma da Madeira. - Zonas climáticas de Inverno:
 
@@ -695,7 +701,7 @@ Região Autónoma da Madeira
 
 Duração média da estação convencional de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Zona climática de Verão - V(índice 1) (toda a Região Autónoma da Madeira).
 
@@ -707,7 +713,7 @@ Região Autónoma da Madeira
 
 Temperatura exterior de projecto de Verão e amplitude térmica diária do mês mais quente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 2 - Energia solar média incidente numa superfície vertical orientada a sul. - Apresentam-se no quadro III.8 os valores de referência da energia solar média incidente numa superfície vertical orientada a sul na estação de aquecimento:
 
@@ -715,7 +721,7 @@ QUADRO III.8
 
 Energia solar média mensal incidente numa superfície vertical orientada a sul na estação de aquecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 3 - Valores médios da temperatura do ar exterior e da intensidade média da radiação solar durante a estação convencional de arrefecimento (Junho a Setembro) - quadro III.9:
 
@@ -723,7 +729,7 @@ QUADRO III.9
 
 Valores médios da temperatura do ar exterior e da intensidade da radiação solar para a estação convencional de arrefecimento (Junho a Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 ## ANEXO IV — Método de cálculo das necessidades de aquecimento
 
@@ -845,7 +851,7 @@ Q(índice pe) = 0,024 L(índice pe) GD (kWh)
 
 em que GD é o número de graus-dias de aquecimento indicado para cada concelho no anexo III deste Regulamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 2.3 - Pontes térmicas. - As perdas de calor lineares unitárias (por grau centígrado de diferença de temperatura entre os ambientes interior e exterior) através das pontes térmicas (L(índice pt)) são calculadas pela seguinte expressão:
 
@@ -927,7 +933,7 @@ Quadro IV.1
 
 Valores convencionais de R(índice ph) (em h(elevado a -1)) para edifícios de habitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Para efeitos de aplicação deste Regulamento, o grau de exposição é definido do seguinte modo:
 
@@ -935,13 +941,13 @@ Quadro IV.2
 
 Classes de exposição ao vento das fachadas do edifício ou da fracção autónoma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
-3.2.2 - Ventilação mecânica - no caso dos sistemas em que a ventilação recorre a quaisquer sistemas mecânicos, incluindo os sistemas de extracção nas instalações sanitárias, e com excepção do caso da presença apenas de exaustor na cozinha descrita no n.º 3.2.1, a taxa de renovação horária é calculada com base em [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf), o maior dos dois valores de caudal correspondentes ao caudal insuflado [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) ou ao caudal extraído do edifício [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf). Em sistemas de caudal variável, o caudal a considerar é o caudal [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) médio diário.
+3.2.2 - Ventilação mecânica - no caso dos sistemas em que a ventilação recorre a quaisquer sistemas mecânicos, incluindo os sistemas de extracção nas instalações sanitárias, e com excepção do caso da presença apenas de exaustor na cozinha descrita no n.º 3.2.1, a taxa de renovação horária é calculada com base em [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf), o maior dos dois valores de caudal correspondentes ao caudal insuflado [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) ou ao caudal extraído do edifício [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf). Em sistemas de caudal variável, o caudal a considerar é o caudal [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) médio diário.
 
 No entanto, mesmo com ventilação mecânica num edifício, a ventilação natural continua a estar presente, em maior ou menor grau, em função do grau de desequilíbrio entre os caudais insuflados e extraídos mecanicamente. Para que a ventilação natural possa ser desprezada é necessário que a diferença entre aqueles caudais seja superior a 0,1 h(elevado a -1) no caso de edifícios com exposição Exp. 1, 0,25 h(elevado a -1) no caso de edifícios com Exp. 2, e 0,5 h(elevado a -1) no caso de edifícios com Exp. 3 ou 4. Se esta condição não for cumprida, o valor de R(índice ph) é determinado de acordo com a expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Em qualquer edifício com ventilação mecânica, para efeitos deste Regulamento, a taxa de renovação nominal R(índice ph) nunca pode ser inferior a 0,6 h(elevado a -1), não se considerando neste limite o caudal extraído em exaustores de cozinha, cujo funcionamento é apenas pontual.
 
@@ -983,7 +989,7 @@ QUADRO IV.3
 
 Ganhos térmicos internos médios por unidade de área útil de pavimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Os ganhos térmicos de fontes internas são muito variáveis. Podem ser adoptados valores diferentes dos indicados no quadro IV.3 desde que devidamente justificados e comprovados e aceites pela entidade licenciadora.
 
@@ -997,19 +1003,19 @@ ii) Método simplificado.
 
 4.3.1.1 - Método detalhado - na estação de aquecimento, os ganhos solares são calculados pela equação seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 QUADRO IV.4
 
 Factor de orientação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 São consideradas superfícies horizontais as que têm uma inclinação face ao plano horizontal inferior a 60º e superfícies verticais as restantes. No cálculo da área efectiva colectora das superfícies verticais, para cada uma das orientações, efectua-se o somatório das áreas colectoras situadas nesse octante.
 
 O valor de A(índice s) deve ser calculado vão a vão, ou por grupo de vãos com características idênticas de protecção solar e de incidência da radiação solar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 4.3.1.2 - Método de cálculo simplificado - para dispensar um cálculo exaustivo dos coeficientes F para cada orientação, o valor do produto F(índice s).F(índice g).F(índice w) pode ser considerado igual a 0,46 desde que sejam satisfeitas as seguintes condições:
 
@@ -1019,13 +1025,13 @@ Os envidraçados não devem ser sombreados por elementos do edifício, como pala
 
 Nestas condições os ganhos solares brutos através dos vãos envidraçados podem ser calculados pela equação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
-4.3.2 - Factor solar do vão envidraçado - o factor solar do vão envidraçado [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) é um valor que representa a relação entre a energia solar transmitida para o interior através do vão envidraçado em relação à radiação solar incidente na direcção normal ao envidraçado.
+4.3.2 - Factor solar do vão envidraçado - o factor solar do vão envidraçado [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) é um valor que representa a relação entre a energia solar transmitida para o interior através do vão envidraçado em relação à radiação solar incidente na direcção normal ao envidraçado.
 
-Para maximizar o aproveitamento da radiação solar, os dispositivos de protecção solar móveis devem estar totalmente abertos e nessas circunstâncias é considerado apenas o valor do factor solar do envidraçado. Sempre que seja previsível a utilização de cortinas ou de outros dispositivos de protecção solar que normalmente permanecem fechados durante a estação de aquecimento, estes devem ser considerados no factor solar do vão envidraçado. Portanto, no cálculo do factor solar de vãos envidraçados do sector residencial, salvo justificação em contrário, deve ser considerada a existência, pelo menos, de cortinas interiores muito transparentes de cor clara [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf).
+Para maximizar o aproveitamento da radiação solar, os dispositivos de protecção solar móveis devem estar totalmente abertos e nessas circunstâncias é considerado apenas o valor do factor solar do envidraçado. Sempre que seja previsível a utilização de cortinas ou de outros dispositivos de protecção solar que normalmente permanecem fechados durante a estação de aquecimento, estes devem ser considerados no factor solar do vão envidraçado. Portanto, no cálculo do factor solar de vãos envidraçados do sector residencial, salvo justificação em contrário, deve ser considerada a existência, pelo menos, de cortinas interiores muito transparentes de cor clara [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf).
 
-Na tabela IV.4 são apresentados os valores do factor solar de vários envidraçados típicos sem dispositivos de protecção solar. Para calcular o factor solar de outros envidraçados [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) deve ser seguido o método de cálculo especificado na norma EN 410. No valor de [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) do vão envidraçado não se considera a obstrução criada pelos perfis porque esta é considerada através do factor de obstrução F(índice f).
+Na tabela IV.4 são apresentados os valores do factor solar de vários envidraçados típicos sem dispositivos de protecção solar. Para calcular o factor solar de outros envidraçados [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) deve ser seguido o método de cálculo especificado na norma EN 410. No valor de [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) do vão envidraçado não se considera a obstrução criada pelos perfis porque esta é considerada através do factor de obstrução F(índice f).
 
 4.3.3 - Factor de obstrução - o factor de obstrução (F(índice S)) varia entre 0 e 1 e representa a redução na radiação solar que incide no vão envidraçado devido ao sombreamento permanente causado por diferentes obstáculos, por exemplo:
 
@@ -1065,13 +1071,13 @@ QUADRO IV.5
 
 Fracção envidraçada para diferentes tipos de caixilharia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 4.3.5 - Factor de correcção da selectividade angular dos envidraçados - o factor de correcção da selectividade angular dos envidraçados (F(índice w)) traduz a redução dos ganhos solares causada pela variação das propriedades do vidro com o ângulo de incidência da radiação solar directa. Para o cálculo das necessidades nominais de aquecimento, o factor F(índice w) toma o valor 0,9 para os vidros correntes simples e duplos. Para outros tipos de envidraçados, devem ser utilizados os valores fornecidos pelos fabricantes com base na EN 410.
 
 4.4 - Factor de utilização dos ganhos térmicos. - O factor de utilização dos ganhos térmicos (eta) é calculado em função da inércia térmica do edifício e da relação (gama) entre os ganhos totais brutos (internos e solares) e as perdas térmicas totais do edifício, conforme representado nas equações ou figura seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Deve notar-se que valores de (gama) elevados, que conduzam a valores de (eta) inferiores a 0,8, levam a sérios riscos de sobreaquecimento, pelo que devem ser evitados. Os vãos envidraçados devem dispor sempre de meios eficazes de protecção solar para evitar potenciais sobreaquecimentos na estação de aquecimento.
 
@@ -1085,13 +1091,13 @@ Em alternativa, o efeito dos sistemas passivos (parede de armazenamento térmico
 
 5 - Folhas de cálculo. - O método de cálculo descrito neste anexo está organizado, para sistematização da forma de apresentação de resultados, nas folhas de cálculo FC IV.1 (1a a 1f) e FC IV.2, que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 TABELA IV.1
 
 Valores do coeficiente (tau) (secção 2.1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 TABELA IV.2
 
@@ -1107,7 +1113,7 @@ Espaços não úteis (locais não aquecidos);
 
 Paredes interiores separando dois espaços úteis ou um espaço útil e um espaço não útil (local não aquecido), desde que (tau) (menor que) 0,7.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 TABELA IV.3
 
@@ -1191,41 +1197,41 @@ Paredes interiores separando um espaço útil de um espaço não útil adjacente
 
 A) Ligação da fachada com pavimentos térreos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 B) Ligação da fachada com pavimentos sobre locais não aquecidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 C) Ligação da fachada com pavimentos intermédios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 D) Ligação da fachada com cobertura inclinada ou terraço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 E) Ligação da fachada com varanda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 F) Ligação entre duas paredes verticais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 G) Ligação da fachada com caixa de estore
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 H) Ligação fachada/padieira ou peitoril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Em paredes duplas considera-se que há continuidade do isolante térmico quando este for complanar com a caixilharia.
 
 Da TABELA IV.4 à TABELA IV.7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 ## ANEXO V — Método de cálculo das necessidades de arrefecimento
 
@@ -1301,7 +1307,7 @@ Para este cálculo adoptam-se as condições ambientais de referência definidas
 
 2.3 - Ganhos pelos vãos envidraçados. - Para o cálculo dos ganhos solares através dos envidraçados (folha de cálculo FC V.1b) adoptar-se-á a mesma metodologia definida no anexo IV:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 O factor solar do envidraçado deve ser tomado com dispositivos de sombreamento móveis activados a 70%, ou seja, o factor solar do vão envidraçado é igual à soma de 30% do factor solar do vidro mais 70% do factor solar do vão envidraçado com a protecção solar móvel actuada, cujos valores são os indicados no quadro V.4.
 
@@ -1311,11 +1317,11 @@ A cor da protecção é definida em função do coeficiente de reflexão da supe
 
 Do QUADRO V.1 ao QUADRO V.4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
-O quadro V.4 lista o factor solar [([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) de vãos envidraçados com os dispositivos de protecção solar mais habituais nos quais são utilizados vidros incolores correntes. Caso sejam aplicados vidros especiais diferentes dos incolores correntes, o factor solar dos vãos envidraçados com dispositivos de protecção solar interiores ou com protecção exterior não opaca é obtido pelas equações 1 ou 2, consoante se trate de vãos com vidro simples ou vidro duplo. Caso exista uma protecção solar exterior opaca (tipo persiana), o valor do factor solar do vão com vidros especiais é obtido directamente do quadro V.4. Nos vãos protegidos por mais de uma protecção solar deve ser utilizada a equação 3 ou 4, considerando apenas as protecções solares existentes do lado exterior até ao interior até à primeira protecção solar opaca:
+O quadro V.4 lista o factor solar [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf) de vãos envidraçados com os dispositivos de protecção solar mais habituais nos quais são utilizados vidros incolores correntes. Caso sejam aplicados vidros especiais diferentes dos incolores correntes, o factor solar dos vãos envidraçados com dispositivos de protecção solar interiores ou com protecção exterior não opaca é obtido pelas equações 1 ou 2, consoante se trate de vãos com vidro simples ou vidro duplo. Caso exista uma protecção solar exterior opaca (tipo persiana), o valor do factor solar do vão com vidros especiais é obtido directamente do quadro V.4. Nos vãos protegidos por mais de uma protecção solar deve ser utilizada a equação 3 ou 4, considerando apenas as protecções solares existentes do lado exterior até ao interior até à primeira protecção solar opaca:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Admitir-se-á também o método simplificado, tal como indicado para os ganhos solares na estação de aquecimento, correspondente à consideração de um envidraçado típico médio de cada fachada do edifício ou da fracção autónoma, conforme aplicável, desde que sejam todos semelhantes em termos de protecção solar e em que haja apenas diferenças derivadas da sua localização na fachada.
 
@@ -1323,7 +1329,7 @@ QUADRO V.5
 
 Cor da superfície exterior da protecção solar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 2.4 - Perdas por ventilação. - A metodologia de cálculo é igual à indicada no n.º 3 do anexo IV. Na realidade, dado que a temperatura média exterior durante toda a estação de arrefecimento (anexo III) é sempre inferior à temperatura interior de referência, a ventilação é, em média, uma perda, pelo que é contabilizada na folha de cálculo FC V.1a:
 
@@ -1335,7 +1341,7 @@ Q(índice i) = 2,928 . q(índice i) . A(índice p) (kWh)
 
 3 - Folhas de cálculo. - O método de cálculo descrito neste anexo está organizado, para sistematização da forma de apresentação de resultados, nas folhas de cálculo FC V.1 a FC V.5 que se seguem.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 ## ANEXO VI — Método de cálculo das necessidades de energia para preparação da água quente sanitária
 
@@ -1379,7 +1385,7 @@ QUADRO VI.1
 
 Número convencional de ocupantes em função da tipologia da fracção autónoma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Admite-se que os edifícios de serviços sujeitos ao RCCTE são pequenos consumidores de AQS, sendo o respectivo consumo total diário (M(índice AQS)), de 100 l. Todavia, são aceites outros valores (incluindo um valor nulo) devidamente justificados pelo projectista e aceites pela entidade licenciadora.
 
@@ -1391,7 +1397,7 @@ QUADRO VI.2
 
 Número anual de dias de consumo de AQS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 3 - Eficiência de conversão do sistema de preparação das AQS ((eta)(índice a)). - A eficiência de conversão do sistema de preparação das AQS ((eta)(índice a)), é definida pelo respectivo fabricante com base em ensaios normalizados, podendo ser utilizados os seguintes valores de referência na ausência de informação mais precisa:
 
@@ -1431,7 +1437,7 @@ Caso não esteja definido, em projecto, o sistema de preparação das AQS, consi
 
 1.1 - Princípio de cálculo. - O coeficiente de transmissão térmica (U) de elementos constituídos por um ou vários materiais, em camadas de espessura constante, é calculado pela seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Tratando-se de camadas de materiais homogéneos, a resistência térmica, Rj é calculada como sendo o quociente entre a espessura da camada j, d(índice j) (m), e o valor de cálculo da condutibilidade térmica do material que a constitui, (lambda)(índice j) (W/m . ºC).
 
@@ -1443,7 +1449,7 @@ QUADRO VII.1
 
 Resistências térmicas superficiais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Os valores das resistências térmicas dos espaços de ar não ventilados e ventilados são tratados nos n.os 1.2.1 e 1.2.2 deste anexo, respectivamente.
 
@@ -1473,7 +1479,7 @@ QUADRO VII.2
 
 Resistência térmica dos espaços de ar não ventilados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Um espaço de ar que tenha pequenas aberturas para o ambiente exterior pode também ser considerado não ventilado desde que:
 
@@ -1525,7 +1531,7 @@ Para a determinação das perdas térmicas nestas situações procede-se ao cál
 
 A massa superficial útil (M(índice si)) de cada elemento de construção interveniente na inércia térmica é função da sua localização no edifício e da sua constituição, nomeadamente do posicionamento e das características das soluções de isolamento térmico e de revestimento superficial. Podem ser definidos os casos genéricos representados na figura VII.1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 EL1 - Elemento da envolvente exterior, elemento de construção em contacto com outra fracção autónoma ou com espaços não úteis.
 
@@ -1561,23 +1567,23 @@ Nas figuras VII.2 a VII.6 exemplifica-se a forma de cálculo da massa superficia
 
 A) Paredes exteriores ou em contacto com o solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 B) Coberturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 C) Pavimentos exteriores, de separação com espaços não úteis ou em contacto com o solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 D) Paredes de separação entre fracções autónomas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 E) Paredes e pavimentos interiores à fracção autónoma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 2.2 - Cálculo da inércia térmica interior. - A massa superficial útil por metro quadrado de área de pavimento ((Iota)(índice t)) é então calculada pela seguinte expressão:
 
@@ -1601,7 +1607,7 @@ QUADRO VII.5
 
 Cálculo da inércia térmica interior ((Iota)(índice t))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Segundo o valor encontrado para (Iota)(índice t) definem-se três classes de inércia de acordo com o quadro VII.6.
 
@@ -1609,7 +1615,7 @@ QUADRO VII.6
 
 Classe de inércia térmica interior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 ## ANEXO VIII — Fichas para licenciamento ou autorização
 
@@ -1621,7 +1627,7 @@ Licença ou autorização de utilização - ficha n.º 4.
 
 As habitações unifamiliares abrangidas pelo disposto no artigo 10.º deste Regulamento ficam dispensadas da apresentação da p. 2 da ficha n.º 1, bem como da ficha n.º 2, aquando do pedido de emissão de licença ou autorização de construção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 Anexos:
 
@@ -1639,7 +1645,7 @@ QUADRO IX.1
 
 Coeficientes de transmissão térmica superficiais máximos admissíveis de elementos opacos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 2 - Zonas não correntes da envolvente. - Nenhuma zona de qualquer elemento opaco da envolvente, incluindo zonas de ponte térmica plana, nomeadamente pilares, vigas, caixas de estore, pode ter um valor de U, calculado de forma unidimensional na direcção normal à envolvente, superior ao dobro do dos elementos homólogos (verticais ou horizontais) em zona corrente, respeitando sempre, no entanto, os valores máximos indicados no quadro IX.1.
 
@@ -1649,7 +1655,7 @@ QUADRO IX.2
 
 Factores solares máximos admissíveis de vãos envidraçados com mais de 5% da área útil do espaço que servem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 4 - Valores de referência para dispensa de verificação detalhada do RCCTE em habitações unifamiliares com área útil menor que A(índice mv). - Para serem dispensados de verificação detalhada dos requisitos deste Regulamento, nos termos do disposto nos artigos 5.º, 6.º e 8.º do Regulamento, os edifícios de habitação unifamiliar com área útil inferior a A(índice mv) devem satisfazer cumulativamente as seguintes condições:
 
@@ -1667,7 +1673,7 @@ QUADRO IX.3
 
 Coeficientes de transmissão térmica de referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf))](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/067a00/24682513.pdf)
 
 QUADRO IX.4
 

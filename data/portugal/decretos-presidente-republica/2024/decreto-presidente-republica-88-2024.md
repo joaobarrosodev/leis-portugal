@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/09/18500/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/88/2024/09/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/88-2024-888564473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:52:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9bd6acabcc2885abe2ec12788a6ea903e8d1782e4c6b6bd390801dfb69e0874d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eee4098bca942a17f4d8208a4771fc5ef0cd3340a95a5a75d328477432952c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:52:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
 subjects:
 - Carreira Militar
 - Exército
+- Forças Armadas
 - Graduação Militar
 - Homologação
-- Forças Armadas
-- Progressão na Carreira
 - Militar
+- Progressão na Carreira
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:52:53Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +100,14 @@ validation:
 
 de 24 de setembro
 
-**O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 2 do artigo 26.º da [Lei Orgânica n.º 2/2021](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), de 9 de agosto, o seguinte:
 
 É homologada a graduação no posto de Brigadeiro-General do Coronel Tirocinado de Administração Militar Rui Manuel da Silva Pina, para efeitos de desempenho do cargo de diretor da Direção de Finanças do Estado-Maior-General das Forças Armadas, efetuada por deliberação de 2 de setembro de 2024 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional, datado de 13 de setembro de 2024.
 
-**Assinado em 18 de setembro de 2024.**
+Assinado em 18 de setembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+118139379

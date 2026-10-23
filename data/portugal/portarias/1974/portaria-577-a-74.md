@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 208/1974, 1º Suplemento, Série I de 1974-09-06
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1016-(3) a 1016-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-a-1974-672655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5bbfa9c834a423f021dc18ba6a08ee1099150e97b1e9460e526702d3a47f9c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7368b7646b5c911b0273d908dd93ce542bd69fe3ca28e624c140d2084f53798a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: pt:dre:150520:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:30:41Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 329-A/74](ht
 
 2.º - 1. Os preços máximos de venda ao público do leite pasteurizado, nos estabelecimentos, para utilizar fora do local de aquisição, e ao domicílio, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 2. É livre o preço do leite pasteurizado acondicionado em bilhas seladas destinado a consumidores colectivos e à indústria.
 
@@ -122,7 +134,7 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 329-A/74](ht
 
 3.º - 1. Os preços máximos de venda ao público do leite comum, nos estabelecimentos, para utilizar fora do local de aquisição, e ao domicílio, são os seguintes, por litro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 2. Nas localidades onde existam postos de abastecimento ou outros que funcionem como tal a venda de leite comum só poderá ser efectuada em bilhas seladas dotadas de dispositivo antifraude, em garrafas ou embalagens perdidas aprovadas pela Comissão de Abastecimento de Leite.
 
@@ -130,15 +142,15 @@ Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 329-A/74](ht
 
 4.º Os preços máximos de venda ao público do leite especial pasteurizado, no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 5.º Os preços máximos de venda ao público do leite ultrapasteurizado, no continente, para utilizar fora do local de aquisição, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 6.º Os preços máximos de venda ao público, por quilograma, de manteiga pasteurizada e não pasteurizada, no continente e ilhas adjacentes, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 7.º - 1. A comercialização da manteiga pasteurizada deve obedecer às seguintes condições:
 
@@ -156,7 +168,7 @@ e) Referência expressa à designação «meio sal» ou «sem sal».
 
 8.º Os preços máximos de venda ao público dos queijos Flamengo e Ilha, com mais de 45% de gordura, no continente e ilhas adjacentes, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf))](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/09/20801/00030004.pdf)
 
 9.º São revogados: a declaração de 25 de Maio de 1972, publicada no Diário do Governo, 1.ª série, n.º 133, de 7 de Junho; os despachos de 1 de Julho de 1967, publicado no Diário do Governo, 1.ª série, n.º 152, de 1 do mesmo mês, e de 19 de Julho de 1972, publicado no Diário do Governo, 1.ª série, n.º 182, de 5 de Agosto, e a [Portaria n.º 198/74](https://diariodarepublica.pt/dr/detalhe/portaria/198-1974-481675), de 14 de Março.
 

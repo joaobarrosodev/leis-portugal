@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2013/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2013-499517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60dc8cab80fe0fea0e45302ec4722daf295142d16ceddbfa071375dea24f0397
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d0178256f22013d4af5712ba7aee11cd3beec0b2d4ffc91b1d41dd91be6c01a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Civil
+- Agente de Execução
 - Ajuda Judicial
-- Definição de Competências
-- Emolumento
-- Registos e Notariado
-- Informatização
-- Documento Eletrónico
-- Prazo
 - Comunicações
+- Conservatória do Registo Civil
+- Definição de Competências
+- Documento Eletrónico
+- Emolumento
+- Informatização
 - Ministério Público
+- Prazo
+- Processo Civil
+- Recurso
+- Registos e Notariado
 - Regulamento Emolumentar dos Registos e Notariado
 - Secretaria Judicial
-- Conservatória do Registo Civil
-- Agente de Execução
 - Tribunal Judicial
 relationships:
 - type: cites
@@ -124,16 +124,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82/2001/08/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/82/2001/08/03/p/dre
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:42Z'
   warnings: []
   errors: []
 ---
@@ -176,13 +220,17 @@ Os artigos 9.º, 10.º, 14.º e 20.º do [Decreto-Lei n.º 272/2001](https://dia
 
 2 - É aplicável, com as necessárias adaptações, o disposto nos artigos 986.º a 988.º do Código de Processo Civil.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
 2 - O prazo para interposição do recurso é o do artigo 638.º do Código de Processo Civil.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -200,7 +248,9 @@ Os artigos 9.º, 10.º, 14.º e 20.º do [Decreto-Lei n.º 272/2001](https://dia
 
 8 - É aplicável o disposto no n.º 2 do artigo 272.º do Código do Registo Civil e nos artigos 995.º a 997.º e 999.º do Código de Processo Civil, com as necessárias adaptações.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 É aplicável aos processos regulados no capítulo anterior o disposto no n.º 3 do artigo 10.º do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo [Decreto-Lei n.º 322-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-a-2001-330632), de 14 de dezembro, e o regime de apoio judiciário nas modalidades de nomeação e pagamento da compensação de patrono e de nomeação e pagamento faseado da compensação de patrono, nos termos das alíneas b) e e) do n.º 1 do artigo 16.º da [Lei n.º 34/2004](https://diariodarepublica.pt/dr/detalhe/lei/34-2004-502394), de 29 de julho.»
 
@@ -214,12 +264,12 @@ O presente decreto-lei entra em vigor no dia 1 de setembro de 2013.
 
 Visto e aprovado em Conselho de Ministros de 1 de agosto de 2013. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 16 de agosto de 2013.**
+Promulgado em 16 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de agosto de 2013.**
+Referendado em 19 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

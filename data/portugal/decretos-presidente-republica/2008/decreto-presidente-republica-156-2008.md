@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/156/2008/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/156-2008-443878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb74f0f3df5881e019399e185433629d631da85f9b5d9c5452fbc7d09a15a92b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b3c56bc5cb928bc81ae9f2066c9a50d4dc9655874f55bc1c2c8a6262e406384
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Marinha
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:444235:por
@@ -78,16 +78,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519615:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:444235:por
+  label: "Rectificado o sumário pela DECL-RECT.78/2008.30.12.2008.PR, DR.IS [251] de 30.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/78-2008-444235
+  date: '2008-12-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:59Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +109,12 @@ validation:
 
 de 17 de Dezembro
 
-**O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:
 
 É confirmada a promoção ao posto de Contra-Almirante do Capitão-de-Mar-e-Guerra da classe de Engenheiros de Material António José Gameiro Marques, efectuada por deliberação de 27 de Novembro de 2008 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 5 de Dezembro seguinte.
 
-**Assinado em 11 de Dezembro de 2008.**
+Assinado em 11 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

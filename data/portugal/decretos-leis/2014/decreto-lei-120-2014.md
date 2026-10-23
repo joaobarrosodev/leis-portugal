@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2014/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2014-55235781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5fa7dfeedc780940d8e6c9b3c6418833c2f1541256b2a325bfb8089c79ae0cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13536355851a90361ee5e8ad3364fabaf1ea372a541291dc151ddb02a3d95d18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
 - Engenharia Genética
 - Organismo Geneticamente Modificado
-- Saúde Pública
-- Proteção do Ambiente
-- Produto Hortícola
 - Produção Agrícola
-- Recursos Genéticos
-- Agricultura
 - Produto Agrícola
+- Produto Hortícola
+- Proteção do Ambiente
+- Recursos Genéticos
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:69920328:por
+  label: Alterados os anexos I (na versão republicada pelo Dec Lei 259/2012 de 11-dez e na redação do Dec Lei 93/2013 de 11-jul
+    e do presente diploma) e II (na versão republicada pelo Dec Lei 100/2012 de 07-mai e na redação do Dec Lei 93/2013 de
+    11-jul e do presente diploma), pelo(a) Decreto-Lei n.º 144/2015 - Diário da República n.º 148/2015, Série I de 2015-07-31,
+    que os republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2015-69920328
+  date: '2015-07-31'
 - type: cites
   target: celex:32002L0053
   label: null
@@ -108,6 +116,12 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2004/06/30/p/dre
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 - type: transposes
   target: celex:32002L0053
   label: null
@@ -131,13 +145,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:46Z'
   warnings: []
   errors: []
 ---
@@ -178,15 +192,15 @@ O disposto no presente decreto-lei é aplicável aos exames de variedades de esp
 
 Visto e aprovado em Conselho de Ministros de 26 de junho de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 28 de julho de 2014.**
+Promulgado em 28 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de julho de 2014.**
+Referendado em 31 de julho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -194,19 +208,19 @@ Visto e aprovado em Conselho de Ministros de 26 de junho de 2014. - Pedro Passos
 
 Espécies agrícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
 
-# Parte C
+Parte C
 
 Carateres no que diz respeito ao exame do valor agronómico e de utilização
 
@@ -224,14 +238,14 @@ Carateres no que diz respeito ao exame do valor agronómico e de utilização
 
 Espécies hortícolas
 
-# Parte A
+Parte A
 
 Lista de espécies que devem obedecer aos protocolos de ensaio do ICVV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
 
-# Parte B
+Parte B
 
 Lista de espécies que devem obedecer aos princípios diretores da UPOV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15000/0408604089.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/39/1995/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1995-202420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1545f1d3880cdedb1d56d2be078fe8003e6f53b64e85a6788202302ef847af51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 203e394f1f81a4854a7ee36fe78c15896a8aa58233637330616967821015b9c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,96 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Processo Declarativo
-- Processo Civil
 - Código do Processo Civil
 - Definição de Competências
+- Direito Civil
 - Direito Probatório
 - Documentação
 - Julgamento
 - Material Audiovisual
 - Microfilmagem
 - Prazo Processual
+- Processo Civil
+- Processo Declarativo
 - Processo Judicial
-- Direito Civil
+- Recurso
 - Tribunal Judicial
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 381.º, 463.º, 630.º, 637.º, 639.º, 643.º, 646.º, 653.º, 705.º, 712.º, 743.º e 791.º, todos do\
+    \ Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ,\
+    \ DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:214238:por
+  label: "Alterados os arts. 304.º, 381.º, 463.º, 639.º, 643.º, 646.º, 712.º, 791.º, todos do Código de Processo Civil, aprovado\
+    \ pelo Dec 44129 de 28-Dez 1961, na redacção do presente diploma, revisto e republicado pelo Dec Lei 329-A/95 de 12-Dez,\
+    \ pelo DEC LEI.180/96.25.09.1996.MJ, DR.IS-A [223] de 25.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1996-214238
+  date: '1996-09-25'
+- type: amended_by
+  target: pt:dre:196220:por
+  label: "Alterado o art. 791º do Código do Processo Civil aprovado pelo Dec lei 44129, de 28-Dez 1961, na redacção do presente\
+    \ diploma, pela LEI.3/99.13.01.1999.AR, DR.IS-A [10] de 13.01.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1999-196220
+  date: '1999-01-13'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterados os arts. 646.º e 712.º do Código do Processo Civil aprovado pelo Dec Lei 44129, de 28-Dez 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.375-A/99.1999.09.20.MJ DR.IS-A [220]SUPL\0L\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:339847:por
+  label: "Alterados os arts. 630.º e 646.º do Código de Processo Civil aprovado pelo Dec Lei 44129 de 28-Dez de 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.183/2000.10.08.2000.MJ, DR.IS-A [184] de 10.08.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2000-339847
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:220944:por
+  label: "Alterados os arts. 463.º e 630.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção\
+    \ do presente diploma, pelo DEC LEI.38/2003.08.03.2003.MJ, DR.IS-A [57] de 08.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2003-220944
+  date: '2003-03-08'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterados a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigo 11.º, e 12.º, os artigos 712.º,\
+    \ e 522.º-C, do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/330/1991/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/330/1991/04/11/p/dre
+- type: cites
+  target: pt:dre:616423:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141795:por
+  label: "Rectificado o preâmbulo, o art. 1.º [ na parte em que altera o nº 3 do art. 304.º, nº 3 do art. 637.º, nº 2 do art.\
+    \ 653.º, nºs 1, 2, 3 e 4 do art. 712.º e nº 2 do art. 690.º-A, do Código de Processo Civil aprovado pelo Dec Lei 44129\
+    \ de 28-Dez 1961], bem como o nº 2 do art. 5.º e nº 1 do art. 6.º do presente diploma, pela DECL-RECT.73/95.1995.05.31.PCM,\
+    \ DR.IS-A [126]3ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-1995-141795
+  date: '1995-05-31'
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:46Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +223,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 304.º, 381.º, 463.º, 563.º, 630.º, 637.º, 639.º, 643.º, 646.º, 653.º, 705.º, 712.º, 743.º e 791.º do Código de Processo Civil passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 304.º, 381.º, 463.º, 563.º, 630.º, 637.º, 639.º, 643.º, 646.º, 653.º, 705.º, 712.º, 743.º e 791.º do Código de Processo Civil passam a ter a seguinte redacção:
 
 ###### Artigo 304.º — [...]
 
@@ -312,7 +369,7 @@ c) ...
 
 4 - Tem lugar a intervenção do colectivo nas causas que admitam recurso ordinário se, tendo alguma das partes requerido tal intervenção no prazo de 10 dias contado da notificação prescrita no artigo 512.º, nenhuma das outras tiver requerido a gravação da audiência, nos termos do n.º 2.
 
-###### Art. 2.º São aditados ao Código de Processo Civil os artigos 522.º-A, 522.º-B, 522.º-C, 684.º-A e 690.º-A, com a seguinte redacção:
+Art. 2.º São aditados ao Código de Processo Civil os artigos 522.º-A, 522.º-B, 522.º-C, 684.º-A e 690.º-A, com a seguinte redacção:
 
 ###### Artigo 522.º-A — Registo dos depoimentos prestados antecipadamente ou por carta
 
@@ -352,19 +409,19 @@ b) Quais os concretos meios probatórios, constantes do processo ou de registo o
 
 4 - O disposto nos n.os 1 e 2 é aplicável ao caso de o recorrido pretender alargar o âmbito do recurso, nos termos do n.º 2 do artigo 684.º-A.
 
-###### Art. 3.º - 1 - A gravação é, em regra, efectuada com o equipamento para o efeito existente no tribunal.
+Art. 3.º - 1 - A gravação é, em regra, efectuada com o equipamento para o efeito existente no tribunal.
 
 2 - O disposto no número anterior não prejudica a utilização de outro equipamento de que o tribunal possa dispor e considere idóneo.
 
-###### Art. 4.º A gravação é efectuada por funcionários de justiça.
+Art. 4.º A gravação é efectuada por funcionários de justiça.
 
-###### Art. 5.º - 1 - As fitas magnéticas contendo a gravação das provas são conservadas durante o prazo de seis meses contado da data do trânsito em julgado da decisão final.
+Art. 5.º - 1 - As fitas magnéticas contendo a gravação das provas são conservadas durante o prazo de seis meses contado da data do trânsito em julgado da decisão final.
 
 2 - O prazo a que alude o número anterior pode, a requerimento de alguma das partes, ser prorrogado desde que alegue motivo atendível.
 
 3 - É aplicável à reutilização das fitas magnéticas o estabelecido na [Portaria n.º 330/91](https://diariodarepublica.pt/dr/detalhe/portaria/330-1991-616423), de 11 de Abril, sobre eliminação e inutilização de documentos, com as adaptações necessárias.
 
-###### Art. 6.º - 1 - A gravação é efectuada de modo que facilmente se apure a autoria dos depoimentos gravados ou das intervenções e o momento em que os mesmos se iniciaram e cessaram, averbando-se estes elementos no invólucro da fita magnética.
+Art. 6.º - 1 - A gravação é efectuada de modo que facilmente se apure a autoria dos depoimentos gravados ou das intervenções e o momento em que os mesmos se iniciaram e cessaram, averbando-se estes elementos no invólucro da fita magnética.
 
 2 - Concluída a gravação, incumbe ao funcionário accionar o mecanismo de prevenção contra gravações acidentais.
 
@@ -372,17 +429,17 @@ b) Quais os concretos meios probatórios, constantes do processo ou de registo o
 
 4 - De toda a abertura e encerramento dos registos guardados é feita menção no auto pela entidade que proceder à operação.
 
-###### Art. 7.º - 1 - Durante a audiência são gravadas simultaneamente uma fita magnética destinada ao tribunal e outra destinada às partes.
+Art. 7.º - 1 - Durante a audiência são gravadas simultaneamente uma fita magnética destinada ao tribunal e outra destinada às partes.
 
 2 - Incumbe ao tribunal que efectuou o registo facultar, no prazo máximo de oito dias após a realização da respectiva diligência, cópia a cada um dos mandatários ou partes que a requeiram.
 
 3 - O mandatário ou a parte que use da faculdade a que alude o número anterior fornecerá ao tribunal as fitas magnéticas necessárias.
 
-###### Art. 8.º A audiência será interrompida pelo tempo indispensável sempre que ocorra qualquer circunstância que impossibilite temporariamente a continuidade da gravação.
+Art. 8.º A audiência será interrompida pelo tempo indispensável sempre que ocorra qualquer circunstância que impossibilite temporariamente a continuidade da gravação.
 
-###### Art. 9.º Se, em qualquer momento, se verificar que foi omitida qualquer parte da prova ou que esta se encontra imperceptível, proceder-se-á à sua repetição sempre que for essencial ao apuramento da verdade.
+Art. 9.º Se, em qualquer momento, se verificar que foi omitida qualquer parte da prova ou que esta se encontra imperceptível, proceder-se-á à sua repetição sempre que for essencial ao apuramento da verdade.
 
-###### Art. 10.º O artigo 65.º do Código das Custas Judiciais passa a ter a seguinte redacção:
+Art. 10.º O artigo 65.º do Código das Custas Judiciais passa a ter a seguinte redacção:
 
 ###### Artigo 65.º — [...]
 
@@ -400,9 +457,9 @@ e) ...
 
 f) O reembolso das despesas efectuadas pelo tribunal com a aquisição de fitas magnéticas necessárias à gravação das provas.
 
-###### Art. 11.º É revogado o artigo 564.º do Código de Processo Civil.
+Art. 11.º É revogado o artigo 564.º do Código de Processo Civil.
 
-###### Art. 12.º - 1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.
+Art. 12.º - 1 - O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 2 - O disposto no presente diploma é, na data da sua entrada em vigor, exclusivamente aplicável, em tribunais de ingresso, aos processos de natureza civil instaurados após essa data.
 
@@ -410,12 +467,12 @@ f) O reembolso das despesas efectuadas pelo tribunal com a aquisição de fitas 
 
 Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

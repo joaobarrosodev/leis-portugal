@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/281/1997/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1997-667766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ff486747d329249e0d2198d4d56ebb57ea650a1069cdcad43049700c0e0cd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d59fe967665703ff3487cb3cf67d12ff50390380acced6d91af7e94ed5da921
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,33 @@ relationships:
   target: pt:dre:522844:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522844:por
+  label: "Alterado o art. 5º pelo DEC LEI.130/98.1998.05.13.ME, DR.IS-A [110]9\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/130-1998-522844
+  date: '1998-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+- type: cites
+  target: pt:dre:221561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541444:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:51Z'
   warnings: []
   errors: []
 ---
@@ -185,12 +198,12 @@ Os Ministros da Educação e da Saúde, ouvido o júri, fixam, por portaria conj
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Eduardo Arcos Gomes dos Reis.
 
-**Promulgado em 26 de Setembro de 1997.**
+Promulgado em 26 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Outubro de 1997.**
+Referendado em 2 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

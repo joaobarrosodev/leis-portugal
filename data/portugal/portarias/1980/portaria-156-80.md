@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-1980-682233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c7f58a779e14d3c82616d835d0ef12f63ed1e0f6b50ba6f942a12e36f367620
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f47e0c60c043b622fbff1262ec549e5ffa52c6ccb900f0d2b295c9fc8cbfb38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Academia Militar
+- Carreira Militar
+- Definição de Competências
+- Especialidade Militar
+- Estado Maior da Força Aérea
+- Estado Maior General das Forças Armadas
+- Estatuto
+- Estatuto do Oficial da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Militar
+- Oficial do Quadro Permanente
+- Oficial Miliciano
+- Quadro de Pessoal
+- Quadro Permanente da Força Aérea
+- Quadro Permanente das Forças Armadas
+- Supremo Tribunal Militar
+- Tropa Paraquedista
+relationships:
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:12:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +119,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o 
 
 Único. A alínea a) do artigo 47.º, a alínea c) do n.º 1 do artigo 48.º, os artigos 70.º e 73.º, a alínea a) do artigo 141.º e as alíneas a) e c) do artigo 144.º, todos do Estatuto do Oficial da Força Aérea (EOFAP), passam a ter a seguinte redacção:
 
-###### Art. 47.º ...
+Art. 47.º ...
 
 a) Tenham sido abrangidos por condições inerentes à passagem à reforma, não especificadas neste artigo, mas não tenham o tempo de serviço exigido para esta mudança de situação;
 
@@ -103,7 +129,7 @@ c) ...
 
 d) ...
 
-###### Art. 48.º - 1 - ...
+Art. 48.º - 1 - ...
 
 a) ...
 
@@ -111,7 +137,7 @@ b) ...
 
 c) Tenham sido abrangidos pelas condições inerentes à passagem à reserva, mas não tenham o tempo de serviço exigido para essa mudança de situação.
 
-###### Art. 70.º - 1 - Transitam para a situação de reserva os oficiais na situação do activo que sejam abrangidos por qualquer das seguintes condições:
+Art. 70.º - 1 - Transitam para a situação de reserva os oficiais na situação do activo que sejam abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado menos de cinco anos de serviço, sejam julgados fisicamente incapazes para o serviço no activo por competente junta médica que comprove ser a incapacidade resultante de:
 
@@ -155,7 +181,7 @@ d) Requeiram a passagem à reserva depois de completarem trinta e seis anos de s
 
 6 - A passagem à reserva nas condições 1) e 2) da alínea c) do n.º 1 é regulamentada por despacho do CEMFA, sendo a oportunidade da sua efectivação condicionada às necessidades do serviço e coordenada com a concessão de passagem à reserva aos oficiais que a requeiram nos termos legais.
 
-###### Art. 73.º - 1 - Transitam para a situação de reforma os oficiais que deixem de estar na situação de activo ou de reserva por serem abrangidos por qualquer das seguintes condições:
+Art. 73.º - 1 - Transitam para a situação de reforma os oficiais que deixem de estar na situação de activo ou de reserva por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado cinco ou mais anos de serviço:
 
@@ -181,7 +207,7 @@ c) Reúnam condições estabelecidas na lei para reforma extraordinária.
 
 5 - A data da passagem à situação de reforma é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 a) Transitará para a situação de reforma, nos termos da condição 2) da alínea a) do n.º 1 do artigo 73.º; ou
 
@@ -189,7 +215,7 @@ b) ...
 
 c) ...
 
-###### Art. 144.º ...
+Art. 144.º ...
 
 a) Transitará para a situação de reserva, nos termos da condição 2) da alínea b) do n.º 1 do artigo 70.º; ou
 

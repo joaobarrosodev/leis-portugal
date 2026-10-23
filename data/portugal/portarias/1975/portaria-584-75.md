@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1975-312202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:50:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f71433f60f9b7bd96114db58e7ed976cad36c34b2b9906032f7b8d6f240615c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64e650971ca2e6469dda3a17e1636fb8b27511cf05df8941f37b9abda9df44d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:50:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Conselho da Revolução
+- Força Aérea
+- Gestão Orçamental
+- Reforço de Verbas
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:351557:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:50:21Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +96,7 @@ de 1 de Outubro
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea que, nos termos do § 4.º do artigo 48.º do [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958, os conselhos administrativos dos departamentos e unidades da Força Aérea a seguir mencionados sejam autorizados a sacar, em conta do capítulo 6.º do orçamento ordinário do Departamento da Força Aérea em vigor, a importância que lhes vai indicada:
 
-###### Artigo 155.º, n.º 1 «Bens duradouros: Construções e grandes reparações»:
+Artigo 155.º, n.º 1 «Bens duradouros: Construções e grandes reparações»:
 
 Base Aérea n.º 7 ... 50000$00
 
@@ -95,7 +104,7 @@ Grupo de Detecção, Alerta e Conduta da Intercepção ... 150000$00
 
 Regimento de Caçadores Pára-Quedistas ... 100000$00
 
-###### Artigo 157.º «Conservação e aproveitamento de bens»:
+Artigo 157.º «Conservação e aproveitamento de bens»:
 
 Base Aérea n.º 1 ... 300000$00
 

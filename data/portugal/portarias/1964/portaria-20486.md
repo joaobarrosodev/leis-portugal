@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20486-1964-470826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ff3e6ccad0b1a25d02381a95a08c60fa32fe90030bcc3b34d79b6771a3d66b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8db6b3b0554496cb7764da5fe50a356b9c3b5445644eb0a0fe3be29a024d7566
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:56Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +89,17 @@ Ministério das Corporações e Previdência Social, 2 de Abril de 1964. - O Min
 
 REGULAMENTO DAS BOLSAS DE ESTUDO E DE ISENÇÕES OU DE REDUÇÕES DE PROPINAS
 
-###### Artigo 1.º Os alunos do Instituto de Estudos Sociais podem beneficiar de bolsas de estudo e de isenções ou de reduções de propinas, nos termos dos artigos seguintes.
+Artigo 1.º Os alunos do Instituto de Estudos Sociais podem beneficiar de bolsas de estudo e de isenções ou de reduções de propinas, nos termos dos artigos seguintes.
 
-###### Art. 2.º Serão instituídas bolsas de estudo, no valor de 6000$00, a entregar à razão de 600$00 por mês, durante o período escolar.
+Art. 2.º Serão instituídas bolsas de estudo, no valor de 6000$00, a entregar à razão de 600$00 por mês, durante o período escolar.
 
 § único. O número das bolsas de estudo a conceder, em cada período escolar, ficará dependente de autorização do Ministro das Corporações e Previdência Social, sobre proposta do director do Instituto.
 
-###### Art. 3.º A concessão de bolsas de estudo implica isenção de propinas.
+Art. 3.º A concessão de bolsas de estudo implica isenção de propinas.
 
-###### Art. 4.º O número de isenções de propinas, excluindo as resultantes da concessão de bolsas de estudo, não excederá o correspondente a 12 por cento do total dos alunos matriculados no Instituto.
+Art. 4.º O número de isenções de propinas, excluindo as resultantes da concessão de bolsas de estudo, não excederá o correspondente a 12 por cento do total dos alunos matriculados no Instituto.
 
-###### Art. 5.º Só podem concorrer às bolsas de estudo e à isenção de propinas os alunos que preencham os seguintes requisitos:
+Art. 5.º Só podem concorrer às bolsas de estudo e à isenção de propinas os alunos que preencham os seguintes requisitos:
 
 a) Terem realizado no ano anterior os exames de todas as disciplinas respectivas, segundo o plano de estudos do Instituto;
 
@@ -115,17 +115,17 @@ f) Não beneficiarem de bolsa de estudo concedida por outra entidade.
 
 § único. O requisito mencionado na alínea a) deste artigo reporta-se ao ano imediatamente anterior, salvo se o candidato não tiver concluído por motivo que lhe não seja imputável.
 
-###### Art. 6.º Beneficiam da redução de 50 por cento nas propinas os alunos que preencham os seguintes requisitos:
+Art. 6.º Beneficiam da redução de 50 por cento nas propinas os alunos que preencham os seguintes requisitos:
 
 a) Terem um irmão a frequentar qualquer curso de ensino secundário, médio ou superior, sem que este beneficie de bolsas de estudo, isenção ou redução de propinas;
 
 b) Verificarem-se os requisitos referidos no artigo anterior, com dispensa porém dos limites mínimos de classificação mencionados na alínea b).
 
-###### Art. 7.º Os alunos que frequentarem pela primeira vez o Instituto podem candidatar-se às bolsas de estudo ou à isenção de propinas se, verificando-se os requisitos das alíneas a), c) e e) do artigo 5.º, houverem obtido respectivamente as classificações mínimas de 14 ou 12 valores no exame de aptidão ou, tendo sido dispensados dele, as classificações gerais de 16 ou 14 valores nos cursos que habilitem ao ingresso no Instituto.
+Art. 7.º Os alunos que frequentarem pela primeira vez o Instituto podem candidatar-se às bolsas de estudo ou à isenção de propinas se, verificando-se os requisitos das alíneas a), c) e e) do artigo 5.º, houverem obtido respectivamente as classificações mínimas de 14 ou 12 valores no exame de aptidão ou, tendo sido dispensados dele, as classificações gerais de 16 ou 14 valores nos cursos que habilitem ao ingresso no Instituto.
 
 § único. Os alunos referidos no corpo deste artigo podem candidatar-se à redução de 50 por cento nas propinas se se verificarem os requisitos do artigo 6.º, com dispensa de quaisquer limites mínimos de classificação no exame de aptidão ou nos cursos que habilitem ao ingresso no Instituto.
 
-###### Art. 8.º Os candidatos às bolsas de estudo e à isenção ou redução de propinas instruirão os seus requerimentos com os seguintes documentos:
+Art. 8.º Os candidatos às bolsas de estudo e à isenção ou redução de propinas instruirão os seus requerimentos com os seguintes documentos:
 
 a) Declaração de todas as receitas (vencimentos, gratificações e demais rendimentos), em quantia fixada ou média, conforme a natureza das mesmas receitas, do candidato ou de seus pais;
 
@@ -135,19 +135,19 @@ c) Declaração do número de irmãos do candidato, idade e situação económic
 
 § único. As declarações referidas nas alíneas b) e c) serão dispensadas quando tenham sido apresentadas há menos de três anos e o candidato declare, sob compromisso de honra, que não sofreram alteração.
 
-###### Art. 9.º As declarações a que se refere o artigo anterior serão exaradas em impresso de modelo oficial e expressamente confirmadas, segundo os casos, pela junta de freguesia, pela conservatória do registo civil, pela repartição concelhia de finanças e, quando se trate de funcionários públicos ou empregados por conta de outrem, pelo superior hierárquico ou pela entidade patronal.
+Art. 9.º As declarações a que se refere o artigo anterior serão exaradas em impresso de modelo oficial e expressamente confirmadas, segundo os casos, pela junta de freguesia, pela conservatória do registo civil, pela repartição concelhia de finanças e, quando se trate de funcionários públicos ou empregados por conta de outrem, pelo superior hierárquico ou pela entidade patronal.
 
 § único. Na hipótese prevista no § único do artigo 8.º será apenas necessária a confirmação da repartição concelhia de finanças.
 
-###### Art. 10.º A inexactidão das declarações ou das confirmações, além de implicar perda de benefícios, importa responsabilidade criminal e disciplinar.
+Art. 10.º A inexactidão das declarações ou das confirmações, além de implicar perda de benefícios, importa responsabilidade criminal e disciplinar.
 
-###### Art. 11.º A concessão de bolsas de estudo e de isenção ou redução de propinas é da competência do conselho directivo, não cabendo recurso das respectivas decisões.
+Art. 11.º A concessão de bolsas de estudo e de isenção ou redução de propinas é da competência do conselho directivo, não cabendo recurso das respectivas decisões.
 
 § único. O conselho directiva poderá suspender ou cancelar as bolsas de estudo e as isenções de propinas sempre que os beneficiários não mostrem aproveitamento ou deixem de reunir qualquer dos requisitos necessários à sua atribuição.
 
-###### Art. 12.º O conselho directivo pode colher, a respeito da situação dos candidatos e de seus pais, as informações que julgar convenientes, tanto junto das autoridades e dos serviços, como junto de particulares.
+Art. 12.º O conselho directivo pode colher, a respeito da situação dos candidatos e de seus pais, as informações que julgar convenientes, tanto junto das autoridades e dos serviços, como junto de particulares.
 
-###### Art. 13.º Na atribuição de bolsas de estudo e na concessão de isenções de propinas são condições de preferência:
+Art. 13.º Na atribuição de bolsas de estudo e na concessão de isenções de propinas são condições de preferência:
 
 1.º A mais elevada classificação média no ano anterior;
 
@@ -157,20 +157,20 @@ c) Declaração do número de irmãos do candidato, idade e situação económic
 
 4.º A obtenção de idêntico benefício no ano anterior.
 
-###### Art. 14.º Sempre que os processos levem à conclusão ou autorizem a presunção de que os candidatos excluídos das bolsas de estudo ou de isenção de propinas estão em condições de gozar, respectivamente, da isenção ou de redução de propinas, pode o conselho conceder qualquer destes benefícios, depois de convidar, se necessário, os interessados a completar a documentação.
+Art. 14.º Sempre que os processos levem à conclusão ou autorizem a presunção de que os candidatos excluídos das bolsas de estudo ou de isenção de propinas estão em condições de gozar, respectivamente, da isenção ou de redução de propinas, pode o conselho conceder qualquer destes benefícios, depois de convidar, se necessário, os interessados a completar a documentação.
 
-###### Art. 15.º A admissão aos benefícios é requerida dentro dos prazos das matrículas.
+Art. 15.º A admissão aos benefícios é requerida dentro dos prazos das matrículas.
 
 § único. Em casos de impossibilidade devidamente comprovada de entregar, dentro destes prazos, qualquer dos documentos que devam instruir os requerimentos, pode o director prorrogar o prazo, mas nunca para além de 30 de Novembro.
 
-###### Art. 16.º O conselho directivo aprecia os processos dos candidatos de forma que as respectivas decisões sejam publicadas até 15 de Dezembro.
+Art. 16.º O conselho directivo aprecia os processos dos candidatos de forma que as respectivas decisões sejam publicadas até 15 de Dezembro.
 
-###### Art. 17.º - 1. Os alunos excluídos dos benefícios ficam obrigados ao pagamento das propinas, devendo este pagamento efectuar-se dentro de quinze dias após a publicação das decisões do conselho.
+Art. 17.º - 1. Os alunos excluídos dos benefícios ficam obrigados ao pagamento das propinas, devendo este pagamento efectuar-se dentro de quinze dias após a publicação das decisões do conselho.
 
 2. Passado esse prazo poderá ainda fazer-se o pagamento nos quinze dias seguintes, mas pagando-se metade da multa devida pelo tardio pagamento da propina de matrícula.
 
 3. Dentro dos mesmos prazos e sob a mesma sanção devem os alunos que tiverem pedido de bolsas de estudo ou isenção de propinas e só tiverem sido beneficiados com redução de propinas pagar a respectiva diferença.
 
-###### Art. 18.º Nos casos não previstos no presente regulamento aplicar-se-ão anàlogamente as disposições que regulam a concessão de idênticos benefícios nas Universidades, sendo as dúvidas resolvidas por despacho do Ministro das Corporações e Previdência Social.
+Art. 18.º Nos casos não previstos no presente regulamento aplicar-se-ão anàlogamente as disposições que regulam a concessão de idênticos benefícios nas Universidades, sendo as dúvidas resolvidas por despacho do Ministro das Corporações e Previdência Social.
 
 Ministério das Corporações e Previdência Social, 2 de Abril de 1964. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

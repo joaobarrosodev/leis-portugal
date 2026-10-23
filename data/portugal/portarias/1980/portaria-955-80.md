@@ -46,40 +46,259 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/955-1980-457418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:33:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb51fb0f6628ff32e0d897682379a700bbb9635fc9437f07e9a4ded9bcf01e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e35448ae427e9c9e62c9bedc169a08717a18fbc9fc79daebb9e71eb419636d26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:33:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Direcção Geral de Coordenação Comercial
+- Direcção Geral de Fiscalização Económica
+- Direcção Geral do Comércio Alimentar
+- Direcção Geral do Comércio Externo
+- Direcção Geral do Comércio não Alimentar
+- Instituto Nacional da Propriedade Industrial
+- Instituto Nacional do Frio
+- Ministério do Comércio e Turismo
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:663352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573356:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral de Coordenação Comercial pela PORT.366/81.04.05.1981.MFP, DR.IS [101]\
+    \ de 04.05.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-1981-573356
+  date: '1981-05-04'
+- type: amended_by
+  target: pt:dre:580369:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Comércio Alimentar pela PORT.552/81.04.07.1981.MFP, DR.IS [151]\
+    \ de 04.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/552-1981-580369
+  date: '1981-07-04'
+- type: amended_by
+  target: pt:dre:600927:por
+  label: "Alterado o quadro de pessoal, pela PORT.106/82.1982.01.25.MFP, DR.IS [20] de 25/Jan/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-1982-600927
+  date: '1981-12-10'
+- type: amended_by
+  target: pt:dre:601314:por
+  label: "Criado um lugar de inspector superior no quadro anexo, pela PORT.61/82.1982.01.15.MFP DR.IS [12] DE 15/JAN/1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-1982-601314
+  date: '1982-01-15'
+- type: amended_by
+  target: pt:dre:609118:por
+  label: "Alterado o anexo do presente diploma, pela PORT.305/82.1982.03.20.MFP DR.IS [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-1982-609118
+  date: '1982-03-20'
+- type: amended_by
+  target: pt:dre:392798:por
+  label: "Alterada a al.f) e quadro VI anexo, pela PORT.483/82.1982.05.08.MFP, DR.IS [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/483-1982-392798
+  date: '1982-05-08'
+- type: amended_by
+  target: pt:dre:394172:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral de Coordenação Comercial, anexo ao presente diploma,\
+    \ pela PORT.701/82.15.07.1982.MFP, DR.IS [161] de 15.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/701-1982-394172
+  date: '1982-07-15'
+- type: amended_by
+  target: pt:dre:380729:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Comércio Alimentar, anexo ao presente diploma, pela PORT.1217/82.27.12.1982.MFP,\
+    \ DR.IS [297] de 27.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1217-1982-380729
+  date: '1982-12-27'
+- type: amended_by
+  target: pt:dre:318145:por
+  label: "Alterado o quadro de pessoal do Instituto Nacional do Frio, anexo ao presente diploma pela PORT.1228/82.30.12.1982.MFP,\
+    \ DR.IS [300] de 30.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1228-1982-318145
+  date: '1982-12-30'
+- type: amended_by
+  target: pt:dre:308481:por
+  label: "Alterado o quadro de pessoal pela PORT.70/83.1983.01.26.MFP DR.IS [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1983-308481
+  date: '1983-01-26'
+- type: amended_by
+  target: pt:dre:313042:por
+  label: "Criado um lugar de assessor no quadro de pessoal da ex-Direcção-Geral do Comércio não Alimentar, constante do presente\
+    \ diploma, pela PORT.416/83.09.04.1983.MFP, DR.IS [82] de 09.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/416-1983-313042
+  date: '1983-04-09'
+- type: amended_by
+  target: pt:dre:313043:por
+  label: "Criado um lugar de assessor no quadro de pessoal da ex-Direcção-Geral de Coordenação Comercial anexo ao presente\
+    \ diploma, pela PORT.417/83.09.04.1983.MFP, DR.IS [82] de 09.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1983-313043
+  date: '1983-04-09'
+- type: amended_by
+  target: pt:dre:313044:por
+  label: "Criado um lugar de assessor no quadro de pessoal da ex-Direcção-Geral do Comércio não Alimentar, constante do presente\
+    \ diploma, pela PORT.415/83.09.04.1983.MFP, DR.IS [82] de 09.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/415-1983-313044
+  date: '1983-04-09'
+- type: amended_by
+  target: pt:dre:312992:por
+  label: "Criado um lugar de assessor no quadro de pessoal da ex-Direcção-Geral de Coordenação Comercial anexo ao presente\
+    \ diploma, pela PORT.425/83.12.04.1983.MFP, DR.IS [84] de 12.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1983-312992
+  date: '1983-04-12'
+- type: amended_by
+  target: pt:dre:312994:por
+  label: "Criado um lugar de assessor no quadro de pessoal da ex-Direcção-Geral de Coordenação Comercial anexo ao presente\
+    \ diploma, pela PORT.424/83.12.04.1983.MFP, DR.IS [84] de 12.04.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/424-1983-312994
+  date: '1983-04-12'
+- type: amended_by
+  target: pt:dre:442913:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral do Comércio Externo, anexo ao presente diploma,\
+    \ pela PORT.905/83.30.09.1983.PCM, DR.IS [226] de 30.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-1983-442913
+  date: '1983-09-30'
+- type: amended_by
+  target: pt:dre:441307:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral do Comércio Externo, anexo ao presente diploma,\
+    \ pela PORT.923/83.10.10.1983.PCM, DR.IS [233] de 10.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/923-1983-441307
+  date: '1983-10-10'
+- type: amended_by
+  target: pt:dre:660286:por
+  label: "Alterado o quadro II anexo ao presente diploma, pela PORT.20/84.1984.01.13.PCM, DR.I [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-1984-660286
+  date: '1984-01-13'
+- type: amended_by
+  target: pt:dre:387147:por
+  label: "Criados dois lugares de assessor , letra C, no quadro de pessoal da Direcção-Geral do Comércio Alimentar a que se\
+    \ refere a al. c) do presente diploma , pela PORT.398/84.20.06.1984.PCM, DR.IS [142] de 20.06.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/398-1984-387147
+  date: '1984-06-20'
+- type: amended_by
+  target: pt:dre:382208:por
+  label: "Alargado o quadro de pessoal da Direcção-Geral de Fiscalização Económica, aprovado pelo Dec 412-G/75, de 07-Ago,\
+    \ substituído pelo quadro I a que se refere a al. a) do presente diploma, pela PORT.604/84.16.08.1984.PCM, DR.IS [189]\
+    \ de 16.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/604-1984-382208
+  date: '1984-08-16'
+- type: amended_by
+  target: pt:dre:177845:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral do Comércio Externo, aprovado pelo presente diploma,\
+    \ pela PORT.804/85.26.10.1985.PCM, DR.IS [247] de 26.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/804-1985-177845
+  date: '1985-10-26'
+- type: amended_by
+  target: pt:dre:227469:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Direcção-Geral da Concorrência e Preços, a que se referem as\
+    \ als. c) e d) do presente diploma, pela PORT.187/86.08.05.1986.MF, DR.IS [105] de 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/187-1986-227469
+  date: '1986-05-08'
+- type: amended_by
+  target: pt:dre:663352:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral do Comércio Externo, constante do presente diploma, pela PORT.52/87.22.01.1987.MF,\
+    \ DR.IS [18] de 22.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/52-1987-663352
+  date: '1987-01-22'
+- type: cites
+  target: pt:dre:138153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222211:por
+  label: Revogado o anexo V do presente diploma, pelo DEC LEI.356/86.24.10.1986.MIC, DR.IS [246] de 24.10.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-1986-222211
+  date: '1986-10-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:33:06Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +333,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 QUADRO I ao QUADRO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26000/38063810.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26000/38063810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26000/38063810.pdf)

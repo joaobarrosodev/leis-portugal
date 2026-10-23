@@ -48,40 +48,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/251-1979-383603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14a15fca9f51e4f14126806512ed2c3df9183add6d4e393dcbf4394a390334b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd2c759b4f2000f00dc60691058ab593bbabffd72db0ab970744d32add3e31d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água
+- Águas Subterrâneas
+- Autarquia Local
+- Aveiro
+- Beja
+- Coimbra
+- Évora
+- Faro
+- Licenciamento
+- Lisboa
+- Portalegre
+- Recursos Hídricos
+- Santarém
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:515806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADOS OS NUMEROS 1 E 2 PELA PORTARIA 323/79, DE 5 DE JULHO, PUBLICADA NO DR.IS, 153.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1979-07-05'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "DETERMINADA A NAO APLICAÇÃO DO PRESENTE DIPLOMA, NA MATÉRIA RESPEITANTE AO DECRETO LEI 46/94, DE 22 DE FEVEREIRO,\
+    \ PUBLICADO NO DR.IS-A, 44.\0DR.IS-A, 44."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-22'
+- type: amended_by
+  target: pt:dre:515806:por
+  label: "Determinada a não aplicação do presente diploma, na matéria respeitante ao DEC LEI.46/94.1994.02.22.MARN, DR.IS-A\
+    \ [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-1994-515806
+  date: '1994-02-22'
+- type: cites
+  target: pt:dre:286493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512868:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:54:03Z'
   warnings: []
   errors: []
 ---

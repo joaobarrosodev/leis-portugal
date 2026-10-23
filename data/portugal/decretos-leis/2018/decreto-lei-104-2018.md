@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/11/23000/0543705440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2018/11/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2018-117142870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 808bb2314514953292c4e04655367d0505d3618e6b1c43c44d11881146615eda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7253c10a007b05b0f1078f6a424843f94e81d7178859c7d336a8096b33487842
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
+- Administração Local
+- Agência para a Modernização Administrativa
+- Atendimento Público
+- Autarquia Local
+- Centro Local de Apoio à Integração de Migrantes
 - Definição de Competências
 - Descentralização
-- Freguesia
-- Instalação de Serviços
-- Prestação de Serviços
-- Agência para a Modernização Administrativa
-- Administração Local
-- Loja do Cidadão
-- Atendimento Público
-- Transferência de Competências
-- Autarquia Local
 - Espaço do Cidadão
-- Centro Local de Apoio à Integração de Migrantes
+- Freguesia
 - Gabinete de Apoio aos Emigrantes
+- Instalação de Serviços
+- Loja do Cidadão
+- Prestação de Serviços
+- Transferência de Competências
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2017/08/29/p/dre
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/203/2016/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/203/2016/07/25/p/dre
+- type: cites
+  target: pt:dre:108068704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75025066:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:45Z'
   warnings: []
   errors: []
 ---
@@ -340,12 +360,14 @@ O artigo 9.º do [Decreto-Lei n.º 74/2014](https://diariodarepublica.pt/dr/deta
 
 Visto e aprovado em Conselho de Ministros de 20 de setembro de 2018. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 7 de novembro de 2018.**
+Promulgado em 7 de novembro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de novembro de 2018.**
+Referendado em 12 de novembro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111813261

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2006/06/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2006-370981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dacb48333fe5d602659f9f1319bcb9c7367bda2f632d99fdd05b2268cd34e456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c957c05a2ad6c2d13ec0434593d7171ce1c7e77c478b3d8f9e83067f209b7e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,69 @@ subjects:
 - Aproximação das Legislações
 - Biotecnologia
 - Catálogo Nacional de Variedades
+- Comércio
 - Direcção Geral de Protecção das Culturas
-- Saúde Pública
-- Proteção do Ambiente
+- Produto Agrícola
 - Produto Hortícola
+- Proteção do Ambiente
 - Recursos Genéticos
+- Saúde Pública
 - Semente
 - Taxa
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:106825053:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628490:por
+  label: "Alterado o anexo I do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.386/2007.27.11.2007.MADRP,\
+    \ DR.IS [228] de 27.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/386-2007-628490
+  date: '2007-11-27'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
+- type: amended_by
+  target: pt:dre:459936:por
+  label: "Alterado o anexo I do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2010.13.01.2010.MADRP,\
+    \ DR.IS [8] de 13.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2010-459936
+  date: '2010-01-13'
+- type: amended_by
+  target: pt:dre:485624:por
+  label: "Alterado o anexo I do Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.4/2011.07.01.2011.MADRP,\
+    \ DR.IS [5] de 07.01.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2011-485624
+  date: '2011-01-07'
+- type: amended_by
+  target: pt:dre:553056:por
+  label: "Alterado e republicado o anexo i do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.100/2012.07.05.2012.MAMAOT,\
+    \ DR.IS [88] de 07.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2012-553056
+  date: '2012-05-07'
+- type: amended_by
+  target: pt:dre:190461:por
+  label: "Alterado e republicado o anexo i ao Dec Lei 154/2004, de 30-jun, na redação do presente diploma , pelo DEC LEI.259/2012.11.12.2012.MAMAOT,\
+    \ DR.IS [239] de 11.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/259-2012-190461
+  date: '2012-12-11'
+- type: amended_by
+  target: pt:dre:498090:por
+  label: "Alterado o anexo I do Dec Lei 154/2004, de 30-jun, na redação do presente diploma, pelo DEC LEI.93/2013.11.07.2013.MAMAOT,\
+    \ DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2013-498090
+  date: '2013-07-11'
+- type: amended_by
+  target: pt:dre:55235781:por
+  label: Alterado o anexo I ao Dec Lei 154/2004 de 30-jun, na redação do presente diploma, pelo(a) Decreto-Lei n.º 120/2014
+    - Diário da República n.º 150/2014, Série I de 2014-08-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-2014-55235781
+  date: '2014-08-06'
 - type: cites
   target: celex:32002L0053
   label: null
@@ -96,16 +145,22 @@ relationships:
   target: celex:32005L0091
   label: null
   source: http://data.europa.eu/eli/dir/2005/91/oj
+- type: repealed_by
+  target: pt:dre:106825053:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 42/2017 - Diário da República n.º 69/2017, Série I de 2017-04-06,
+    sem prejuízo do previsto no seu art.º 59.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/42-2017-106825053
+  date: '2017-04-06'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:09Z'
   warnings: []
   errors: []
 ---
@@ -146,15 +201,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 8 de Junho de 2006.**
+Promulgado em 8 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 12 de Junho de 2006.**
+Referendado em 12 de Junho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -162,19 +217,19 @@ Visto e aprovado em Conselho de Ministros de 20 de Abril de 2006. - José Sócra
 
 [...]
 
-# Parte A
+Parte A
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf))](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf)
 
-# Parte B
+Parte B
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf))](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/119a00/44134414.pdf)
 
-# Parte C
+Parte C
 
 [...]
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1983, 8º Suplemento, Série I de 1983-12-31
   number: '301'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 4172-(174) a 4172-(180)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/30108/01740180.pdf
 entry_into_force_dates: []
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/222-1983-630399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T07:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 779cefc6032bfa8b5ed51c12bf26c9eacfeeda51df69435af7f1fca7e5ffda9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5a90767d95a9a8fdd31f4bf0a4c638d3f9115019852aab5fbf4518e379c404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação de Competências
+- Direcção Geral do Comércio Externo
+- Exportação
+- Importação
+- Organismos de Coordenação Económica
 relationships:
 - type: amended_by
   target: pt:dre:182811:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181443:por
+  label: "Eliminada posições pautais da lista VII anexa pelo DN.44/85.16.05.1985.MCT, DR.IS [135] de 15.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/44-1985-181443
+  date: '1985-05-16'
+- type: amended_by
+  target: pt:dre:182811:por
+  label: "Eliminadas posições pautais da lista VII anexa ao presente diploma, pelo DN.58/85.24.06.1985.MCT, DR.IS [159] de\
+    \ 13.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/58-1985-182811
+  date: '1985-06-24'
+- type: cites
+  target: pt:dre:240851:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:25:12Z'
   warnings: []
   errors: []
 ---
@@ -1306,7 +1326,7 @@ LISTA III
 
 Produtos em relação aos quais o Instituto dos Têxteis tem competência delegada da Direcção-Geral do Comércio Externo para o licenciamento e registo prévio de operações de importação e exportação.
 
-#### Secção XI - Matérias têxteis e respectivas obras.
+Secção XI - Matérias têxteis e respectivas obras.
 
 LISTA IV
 

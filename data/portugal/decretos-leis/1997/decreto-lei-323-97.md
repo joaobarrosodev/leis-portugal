@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323/1997/11/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1997-406527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cd2dce9459e50f3544263b592ac493d60c3a144bdcea809122b4deb8773c094
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccd9dd932caca3dd6516466aea9308c645e6383d9161d426c6147e9b1e01f4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- CMVM
 - Fundo de Investimento
 - Fundo de Investimento Imobiliário
 - Fundo de Investimento Mobiliário
 - Mercado de Valores
 - Mercado Financeiro
 - Regime Jurídico
-- CMVM
 - Sociedade Gestora de Fundos de Investimento
 relationships:
 - type: amended_by
@@ -92,16 +92,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/308/1995/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/308/1995/11/20/p/dre
+- type: cites
+  target: pt:dre:621311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691046:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476110:por
+  label: "Revogado, a partir de 1 de Janeiro de 2004, pelo DEC LEI.252/2003.17.10.2003.MF, DR.IS-A [241] de 17.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/252-2003-476110
+  date: '1997-11-26'
+- type: repealed_by
+  target: pt:dre:263679:por
+  label: "Revogado o Dec Lei 294/95 de 17-Nov, com a redacção deste diploma, pelo DEC LEI.60/2002.2002.03.20.MF DR.IS-A [67]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2002-263679
+  date: '2002-03-20'
 article_structure:
-  article_count: 19
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:46Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +163,9 @@ Os artigos 6.º, 13.º, 17.º, 18.º, 23.º, 25.º, 26.º, 28.º, 31.º, 32.º e
 
 5 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -150,7 +175,9 @@ Os artigos 6.º, 13.º, 17.º, 18.º, 23.º, 25.º, 26.º, 28.º, 31.º, 32.º e
 
 4 - A substituição do depositário depende de autorização da Comissão do Mercado de Valores Mobiliários, devendo a autorização ser publicada em boletim de cotações de bolsa de valores e num jornal diário de grande circulação com a antecedência mínima de 15 dias sobre a data em que a substituição produzirá os seus efeitos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A constituição de fundos de investimento depende de autorização da Comissão do Mercado de Valores Mobiliários, mediante a apresentação de requerimento subscrito pela entidade gestora, acompanhado do projecto de regulamento de gestão e dos contratos celebrados com o depositário e, sendo caso disso, com as entidades colocadoras a que se refere o artigo 28.º, ou dos respectivos projectos.
 
@@ -166,7 +193,9 @@ Os artigos 6.º, 13.º, 17.º, 18.º, 23.º, 25.º, 26.º, 28.º, 31.º, 32.º e
 
 7 - (Anterior n.º 8.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -184,13 +213,17 @@ Os artigos 6.º, 13.º, 17.º, 18.º, 23.º, 25.º, 26.º, 28.º, 31.º, 32.º e
 
 8 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
 2 - As transacções referidas no número anterior são anuláveis caso não sejam comunicadas à Comissão do Mercado de Valores Mobiliários no prazo de três dias após a concretização da operação.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -206,11 +239,15 @@ Os artigos 6.º, 13.º, 17.º, 18.º, 23.º, 25.º, 26.º, 28.º, 31.º, 32.º e
 
 7 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 A Comissão do Mercado de Valores Mobiliários regulará os termos e condições em que as entidades gestoras podem tornar público, sob qualquer forma, medidas ou índices de rendibilidade e risco dos fundos de investimento e as regras a que obedecerá o cálculo dessas medidas ou índices.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - As unidades de participação são subscritas nos balcões do depositário, em estabelecimento da sociedade gestora, ou através das entidades colocadoras previamente autorizadas pela Comissão do Mercado de Valores Mobiliários.
 
@@ -224,7 +261,9 @@ A Comissão do Mercado de Valores Mobiliários regulará os termos e condições
 
 6 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +283,9 @@ A Comissão do Mercado de Valores Mobiliários regulará os termos e condições
 
 9 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As entidades gestoras que pretendam comercializar em países estrangeiros unidades de participação de fundos de investimento que administrem e que sejam domiciliados em Portugal devem informar previamente desse facto a Comissão do Mercado de Valores Mobiliários.
 
@@ -252,7 +293,9 @@ A Comissão do Mercado de Valores Mobiliários regulará os termos e condições
 
 3 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Poderão ser constituídos, em condições a regulamentar pela Comissão do Mercado de Valores Mobiliários, agrupamentos de fundos de investimento, administrados pela mesma entidade gestora, destinados a proporcionarem aos participantes vantagens no resgate e subscrição simultânea de unidades de participação dos fundos que os integram.
 
@@ -278,7 +321,9 @@ Os artigos 7.º, 14.º, 18.º, 19.º, 26.º, 27.º, 31.º e 35.º do [Decreto-Le
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -288,7 +333,9 @@ Os artigos 7.º, 14.º, 18.º, 19.º, 26.º, 27.º, 31.º e 35.º do [Decreto-Le
 
 4 - A substituição do depositário depende de autorização da Comissão do Mercado de Valores Mobiliários, devendo a autorização ser publicada em boletim de cotações de uma bolsa de valores e num jornal diário de grande circulação no País com a antecedência mínima de 15 dias sobre a data em que a substituição produzirá os seus efeitos.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A constituição de fundos de investimento imobiliário depende de autorização da Comissão do Mercado de Valores Mobiliários, mediante a apresentação de requerimento subscrito pela entidade gestora, acompanhado do projecto de regulamento de gestão e dos contratos celebrados com o depositário e, sendo caso disso, com as entidades colocadoras a que se refere o artigo 31.º, ou dos respectivos projectos.
 
@@ -304,7 +351,9 @@ Os artigos 7.º, 14.º, 18.º, 19.º, 26.º, 27.º, 31.º e 35.º do [Decreto-Le
 
 7 - No caso de a subscrição não ter início no prazo previsto no número anterior ou de nos seis meses subsequentes à data da constituição do fundo este não atingir o número mínimo de 30 participantes e o valor mínimo de 250000000$00, poderá a Comissão do Mercado de Valores Mobiliários revogar a autorização.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -322,7 +371,9 @@ Os artigos 7.º, 14.º, 18.º, 19.º, 26.º, 27.º, 31.º e 35.º do [Decreto-Le
 
 8 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -338,11 +389,15 @@ Os artigos 7.º, 14.º, 18.º, 19.º, 26.º, 27.º, 31.º e 35.º do [Decreto-Le
 
 7 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 A Comissão do Mercado de Valores Mobiliários regulará os termos e condições em que as entidades gestoras podem tornar público, sob qualquer forma, as medidas ou índices de rendibilidade e risco dos fundos de investimento e as regras a que obedecerá o cálculo dessas medidas ou índices.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - As unidades de participação são subscritas nos balcões do depositário, em estabelecimento da sociedade gestora ou através de entidades colocadoras previamente autorizadas pela Comissão do Mercado de Valores Mobiliários.
 
@@ -356,7 +411,9 @@ A Comissão do Mercado de Valores Mobiliários regulará os termos e condições
 
 6 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -378,12 +435,12 @@ A Comissão do Mercado de Valores Mobiliários regulará os termos e condições
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1997. - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 5 de Novembro de 1997.**
+Promulgado em 5 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1997.**
+Referendado em 13 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

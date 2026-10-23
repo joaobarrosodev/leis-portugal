@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04100/13801383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/12/2007/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2007-518853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d4c708c8911c52b06a033330f6d858634602a4a08dce2725f29a7db3e1cc2df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 358de9674a0b47c00bc1491c1d48576233638c3dee46052f5e0ea7f52be4ddd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Conselho Regional de Agricultura Desenvolvimento Rural e Pescas
 - Definição de Competências
-- Direcção Regional de Agricultura e Pescas
+- Direção Regional de Agricultura e Pescas do Alentejo
 - Direcção Regional de Agricultura da Beira Interior
 - Direcção Regional de Agricultura da Beira Litoral
 - Direcção Regional de Agricultura de entre Douro e Minho
@@ -76,23 +75,29 @@ subjects:
 - Direcção Regional de Agricultura do Alentejo
 - Direcção Regional de Agricultura do Algarve
 - Direcção Regional de Agricultura do Ribatejo e Oeste
-- Conselho Regional de Agricultura Desenvolvimento Rural e Pescas
+- Direcção Regional de Agricultura e Pescas
 - Direcção Regional de Agricultura e Pescas de Lisboa e VALE do TEJO
+- Direcção Regional de Agricultura e Pescas do Algarve
 - Direcção Regional de Agricultura e Pescas do Centro
 - Direcção Regional de Agricultura e Pescas do Norte
-- Direção Regional de Agricultura e Pescas do Alentejo
-- Direcção Regional de Agricultura e Pescas do Algarve
-- Diretor Regional
 - Director Regional Adjunto
-- Orgânica
-- Quadro de Pessoal
+- Diretor Regional
 - Ifadap
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:552542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247711:por
+  label: "Alterado o art. 5º pelo DEC LEI.32/2008.25.02.2008.MADRP, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2008-247711
+  date: '2008-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre
   label: null
@@ -133,16 +138,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:382599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552542:por
+  label: "Revogado, a partir de 01.05.2012, pelo DR.39/2012.11.04.2012.MAMAOT, DR.IS [72] de 11.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/39-2012-552542
+  date: '2012-04-11'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:58Z'
   warnings: []
   errors: []
 ---
@@ -325,16 +383,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 2 de Fevereiro de 2007.**
+Promulgado em 2 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Fevereiro de 2007.**
+Referendado em 8 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 Do ANEXO I ao ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04100/13801383.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04100/13801383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04100/13801383.pdf)

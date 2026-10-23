@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 254/1979, 1º Suplemento, Série I de 1979-11-03
   number: '254'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2794-(1) a 2794-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/25401/00010002.pdf
 entry_into_force_dates: []
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-a-1979-220566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7014b8b1e228eed10336d0a1f41de6dfe4f3c81d2a96158b560bff1944fb3f6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6efba64cee42c065371a53b9149319d77648b08141b3f0dcef5cd6bc9bcf2ba6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Instituto de Medicina Legal
+- Medicina Legal
+- Pessoal Técnico Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:393066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393066:por
+  label: "Alterado o mapa anexo ao presente diploma, pela PORT.449/82.1982.04.30.MFP, DR.IS [100]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/449-1982-393066
+  date: '1982-04-30'
+- type: cites
+  target: pt:dre:176479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:01Z'
   warnings: []
   errors: []
 ---
@@ -107,6 +129,6 @@ Manda o Governo da República Portuguesa, pelos Ministros da Justiça e das Fina
 
 Presidência do Conselho de Ministros e Ministérios da Justiça e das Finanças, 14 de Dezembro de 1979. - O Ministro da Justiça, Pedro de Lemos e Sousa Macedo. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Secretário de Estado da Administração Pública, Gabriela Guedes Salgueiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25401/00010002.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25401/00010002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25401/00010002.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

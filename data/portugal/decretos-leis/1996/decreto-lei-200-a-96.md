@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 244/1996, 1º Suplemento, Série I-A de 1996-10-21
   number: '244'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3688-(2) a 3688-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/244a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/200-a/1996/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-a-1996-321505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T01:45:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c1ed66f0c322d2b0cd1feaa4ec1cf73213f6251299dd981fb06c0ecc62a59ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e04e1adfedd60920a7aa01d8836d517981f352850cac1f514c0a06a1f63536b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:45:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Banco Totta e Açores
 - Caderno de Encargos
 - Capital Social
 - OPV
 - Partest
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1994/10/22/p/dre
@@ -94,16 +94,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/21/1996/03/05/p/dre
+- type: cites
+  target: pt:dre:1876917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636384:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:45:27Z'
   warnings: []
   errors: []
 ---
@@ -308,15 +360,15 @@ O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Outubro de 1996. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 18 de Outubro de 1996.**
+Promulgado em 18 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1996.**
+Referendado em 21 de Outubro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Caderno de encargos da venda directa
 

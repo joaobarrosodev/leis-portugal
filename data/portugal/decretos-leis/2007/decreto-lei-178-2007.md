@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08800/30153027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/2007/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2007-520837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 808b6d637c5400e265e05875a1caea80b268b68805ecd52bbd7ee527b1146056
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25c336286fa44f871a5fd3271b02a0ce4b7acc25b7cdf44e81c794b11da9ae10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Multa
-- Transporte Ferroviário
 - Definição de Competências
 - Especificação Técnica
 - ETI
 - Fiscalização
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Infraestrutura dos Transportes
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Multa
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:279843:por
@@ -122,16 +122,22 @@ relationships:
   target: celex:32004R0881
   label: null
   source: http://data.europa.eu/eli/reg/2004/881/oj
+- type: repealed_by
+  target: pt:dre:279843:por
+  label: "Revoga, a partir de 22.02.2011, o Dec Lei 93/2000, de 23-Maio, na redacção do Dec Lei 152/2003, de 11-Jul, do presente\
+    \ diploma e do Dec Lei 191/2008, de 25-Set, pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
 article_structure:
-  article_count: 36
+  article_count: 28
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:16Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +180,9 @@ O presente decreto-lei transpõe parcialmente para a ordem jurídica interna a D
 
 2 - As referidas condições respeitam à concepção, construção, entrada em serviço, readaptação, renovação, exploração e manutenção dos elementos do referido sistema que entram em serviço após a entrada em vigor do presente decreto-lei, bem como às qualificações e condições de higiene e de segurança do pessoal que participa na sua exploração.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -208,7 +216,9 @@ o) 'Sistema ferroviário existente', o conjunto constituído pelas infra-estrutu
 
 p) 'Entrada em serviço', o conjunto das operações através das quais um subsistema é colocado no seu estado de funcionamento nominal.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os projectos de ETI são elaborados nos termos previstos na legislação comunitária, sendo publicados no Jornal Oficial da União Europeia.
 
@@ -218,7 +228,9 @@ p) 'Entrada em serviço', o conjunto das operações através das quais um subsi
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Pode verificar-se a não aplicação de certas ETI, inclusive as que se referem ao material circulante, nos casos e condições seguintes:
 
@@ -234,7 +246,9 @@ e) Quando, em consequência de um acidente ou de uma catástrofe natural, as con
 
 2 - Nos casos previstos no número anterior, a intenção de não aplicação é previamente comunicada pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT), à Comissão Europeia, enviando-lhe um processo com as ETI ou as partes das ETI que se pretende não sejam aplicadas, bem como as especificações correspondentes que se pretende aplicar.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +258,9 @@ e) Quando, em consequência de um acidente ou de uma catástrofe natural, as con
 
 4 - Caso se entenda que determinadas especificações europeias, directa ou indirectamente utilizadas para alcançar os objectivos do presente diploma, não satisfazem os requisitos essenciais, pode o IMTT submeter o assunto ao comité instituído pela Directiva n.º [98/34/CE](https://data.europa.eu/eli/dir/1998/34/oj?locale=pt), nos termos do n.º 2 do artigo 21.º da Directiva n.º [96/48/CE](https://data.europa.eu/eli/dir/1996/48/oj?locale=pt).
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -258,7 +274,9 @@ e) Quando, em consequência de um acidente ou de uma catástrofe natural, as con
 
 6 - Caso seja necessária uma nova autorização, o IMTT decide em que medida as ETI devem ser aplicadas ao projecto, e notifica a sua decisão à Comissão e aos restantes Estados membros da União Europeia.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +286,9 @@ e) Quando, em consequência de um acidente ou de uma catástrofe natural, as con
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Constituem contra-ordenações, puníveis com coima de (euro) 1250 a (euro) 3740, ou de (euro) 7482 a (euro) 44891, consoante o agente seja pessoa singular ou colectiva:
 
@@ -286,7 +306,9 @@ f) ...
 
 g) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +354,9 @@ A qualidade dos serviços de transporte ferroviário europeus depende, entre out
 
 Dessa compatibilidade dependem os níveis de desempenho, de segurança e de qualidade dos serviços e o seu custo.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - Lista dos subsistemas - para efeitos do disposto na presente directiva, o sistema que constitui o sistema ferroviário transeuropeu de alta velocidade pode ser dividido nos subsistemas seguintes, que correspondem:
 
@@ -360,7 +384,9 @@ De acordo com o disposto no n.º 1 do artigo 6.º da Directiva n.º [96/48/CE](h
 
 Sempre que se justifique, a lista das questões ligadas à interoperabilidade incluída nos mandatos é definida pela Agência nos termos da alínea c) do n.º 3 do artigo 5.º da Directiva n.º [96/48/CE](https://data.europa.eu/eli/dir/1996/48/oj?locale=pt).
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1 - ...
 
@@ -394,7 +420,9 @@ Sempre que se justifique, a lista das questões ligadas à interoperabilidade in
 
 2.7.3 - ...
 
-## ANEXO VII — [...]
+ANEXO VII
+
+[...]
 
 1 - ...
 
@@ -460,15 +488,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Fernando Pereira Serrasqueiro - Paulo Jorge Oliveira Ribeiro de Campos.
 
-**Promulgado em 23 de Abril de 2007.**
+Promulgado em 23 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Abril de 2007.**
+Referendado em 24 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Decreto-Lei n.º 93/2000
 

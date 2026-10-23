@@ -46,40 +46,173 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/721-1975-311430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c086f3ab2e7bc3b3dbdad21917eeee6a231669a0c3bdfb9de0782b91e3ea0fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a6488be0455d82859ac61a651dd76e824bab3b3c69118edebfb67443e7792aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alvito
+- Beja
+- Cuba.alentejo
+- Expropriação
+- Ferreira do Alentejo
+- Ourique
+- Prédio Rústico
+- Reforma Agrária
+- Vidigueira
 relationships:
 - type: amended_by
   target: pt:dre:603528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251209:por
+  label: Derrogado o presente diploma, no referente ao prédio rústico denominado «Crimeia», localizado no concelho de Ourique,
+    pelo(a) Portaria n.º 457/77 - Diário da República n.º 171/1977, Série I de 1977-07-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-1977-251209
+  date: '1977-07-26'
+- type: amended_by
+  target: pt:dre:328176:por
+  label: Afectada à Junta de Freguesia da Conceição, concelho de Ourique, para fins de utilidade pública, parte da parcela
+    15 do prédio rústico denominado «Herdade do Monte Novo» pelo(a) Portaria n.º 621/78 - Diário da República n.º 240/1978,
+    Série I de 1978-10-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-1978-328176
+  date: '1978-10-18'
+- type: amended_by
+  target: pt:dre:382840:por
+  label: "Desanexada a parcela 2 do prédio rústico denominado «Herdade do Monte Novo», expropriado pelo presente diploma,\
+    \ pela PORT.214/79.04.05.1979.MFP, DR.IS [102] de 04.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/214-1979-382840
+  date: '1979-05-04'
+- type: amended_by
+  target: pt:dre:1566755:por
+  label: DERROGADA EM PARTE PELA PORT 161/92IIS DE 30-ABR DR.IIS [111] DE 14/MAI/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-1992-1566755
+  date: '1992-05-14'
+- type: amended_by
+  target: pt:dre:3686512:por
+  label: DERROGADA EM PARTE PELA PORT 246/92IIS DE 31-JUL DR.IIS [185] DE 12/AGO/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1992-3686512
+  date: '1992-08-12'
+- type: amended_by
+  target: pt:dre:1845980:por
+  label: ANULADA EM PARTE PELA PORT 337/92IIS DE 23-OUT DR.IIS [255] DE 04/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-1992-1845980
+  date: '1992-11-04'
+- type: amended_by
+  target: pt:dre:1845981:por
+  label: ANULADA EM PARTE PELA PORT 338/92IIS DE 23-OUT DR.IIS [255] DE 04/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/338-1992-1845981
+  date: '1992-11-04'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 54/93IIS DE 03-FEV DR.IIS [39] DE 16/FEV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-16'
+- type: amended_by
+  target: pt:dre:3576532:por
+  label: DERROGADA EM PARTE PELA PORT 57/93IIS DE 08-FEV DR.IIS [42] DE 19/FEV/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-1993-3576532
+  date: '1993-02-19'
+- type: amended_by
+  target: pt:dre:1296604:por
+  label: ANULADA EM PARTE PELA PORT 197/93IIS DE 07-AGO DR.IIS [218] DE 16/SET/1993
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-1993-1296604
+  date: '1993-09-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: DERROGADA EM PARTE PELA PORT 250/95IIS DE 03-AGO DR.IIS [189] DE 17/AGO/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-17'
+- type: amended_by
+  target: pt:dre:3241001:por
+  label: "Derrogada em parte pela Port 1044/97(2ªSÉRIE).1997.11.27.PCM, DR.IIS [287] de 13/Dez/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1044-1997-3241001
+  date: '1997-11-27'
+- type: amended_by
+  target: pt:dre:1165986:por
+  label: "Derrogada em parte pela PORT.220/99(2ªSÉRIE).1999.03.05.PCM DR.IIS [64] DE 17/MAR/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/220-1999-1165986
+  date: '1999-03-05'
+- type: amended_by
+  target: pt:dre:1026525:por
+  label: "Derrogada em parte pela PORT.1692/2001(2ªSÉRIE).2001.09.25.PCM, DR.IIS [239] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1692-2001-1026525
+  date: '2001-09-25'
+- type: amended_by
+  target: pt:dre:2735571:por
+  label: "Derrogada em parte pela PORT.1773/2002(2ªSÉRIE).2002.11.14.PCM, DR.IIS [278] de 02/Dez/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1773-2002-2735571
+  date: '2002-11-14'
+- type: amended_by
+  target: pt:dre:3371662:por
+  label: "Derrogada em parte pela PORT.314/2003(2ªSÉRIE).2003.02.21.PCM DR.IIS [59] DE 11/MAR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/314-2003-3371662
+  date: '2003-02-21'
+- type: amended_by
+  target: pt:dre:1384482:por
+  label: "Derrogada parte da presente portaria, pela PORT.1071/2003(2ªSÉRIE).2003.07.24.MADRP DR.IIS [184] DE 11/AGO/2003\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1071-2003-1384482
+  date: '2003-07-24'
+- type: amended_by
+  target: pt:dre:2906135:por
+  label: "Derrogada parte pela PORT.186/2004(2ªSérie).14.01.2004.PCM, DR.IIS [28] de 03.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2004-2906135
+  date: '2004-01-14'
+- type: amended_by
+  target: pt:dre:1107245:por
+  label: "Derrogada parte pela PORT.710/2004(2ªSérie).09.06.2004.PCM, DR.IIS [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-2004-1107245
+  date: '2004-06-09'
+- type: amended_by
+  target: pt:dre:603528:por
+  label: "Derrogada, na parte em que expropria a área de 35,5750 ha do prédio rústico denominado «Herdade da Corte Preta»,\
+    \ pela PORT.355/2009.06.04.2009.PCM, DR.IS [67] de 06.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-2009-603528
+  date: '2009-04-06'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2533204:por
+  label: "Revogado o presente diploma, na parte em que expropria as áreas revertidas pela PORT.3/96IIS.06.02.1996.PCM, DR.IIS\
+    \ [31] de 06.02.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1996-2533204
+  date: '1996-02-06'
+- type: repealed_by
+  target: pt:dre:106415092:por
+  label: Revogada, com efeitos a partir de 23.01.2017, na parte em que expropria a área de 80,7350 ha que faz parte integrante
+    do prédio rústico denominado «Herdade Parral e Misericórdia» inscrito na matriz predial rústica sob o artigo 4 da secção
+    i da freguesia de Selmes, concelho da Vidigueira, pelo(a) Portaria n.º 59/2017 - Diário da República n.º 27/2017, Série
+    I de 2017-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-2017-106415092
+  date: '2017-02-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:47Z'
   warnings: []
   errors: []
 ---

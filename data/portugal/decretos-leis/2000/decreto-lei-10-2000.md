@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/034a00/04990501.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2000/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2000-402108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321a0fe1769a5869b69cae83a2c824786e4ddc620658d5fef3dd2445c151e75f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5171bb5767e184ac61f7b038fce54808037388f1f080a43143be573d54128e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - Aposentado
 - Cooperação
-- Timor Leste
 - Definição de Competências
-- Administração Pública
 - Férias
-- Ministro dos Negócios Estrangeiros
+- Função Pública
+- Funcionário Público
 - Instituto Público
 - Licença Especial
-- Reformado
-- Administração Local
-- Subsídio de Renda de CASA
-- Requisição de Pessoal
 - Ministério dos Negócios Estrangeiros
-- Setor Privado
-- Setor Público
+- Ministro dos Negócios Estrangeiros
+- Reformado
+- Requisição de Pessoal
 - Seguro de Acidentes de Trabalho
 - Seguro de Doença
-- Funcionário Público
-- Administração Regional
+- Setor Privado
+- Setor Público
 - Subsídio Complementar
 - Subsídio de Embarque
+- Subsídio de Renda de CASA
 - Subsídio de Transporte
+- Timor Leste
 relationships:
 - type: amended_by
   target: pt:dre:220751:por
@@ -109,16 +109,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220751:por
+  label: "Revogado pela LEI.13/2004.14.04.2004.AR, DR.IS-A [88] de 14.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2004-220751
+  date: '2004-04-14'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:29Z'
   warnings: []
   errors: []
 ---
@@ -291,12 +312,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1999. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Alberto de Sousa Martins.
 
-**Promulgado em 31 de Janeiro de 2000.**
+Promulgado em 31 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Fevereiro de 2000.**
+Referendado em 3 de Fevereiro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

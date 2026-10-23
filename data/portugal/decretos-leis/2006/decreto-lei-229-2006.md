@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/22700/80618063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/229/2006/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2006-545060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b996a61ebe503e2ddda96475d616551f01478f3b023f5ea1e044e58f0ae41aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6859fd9ebf7071138842159da7ddbfdf46711f240714fc17ed0d91c81f414f24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Técnica Profissional de Electrónica
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
+- Direcção Geral de Geologia e Energia
 - Electricista
 - Equipamento Eléctrico
 - Estatuto do Técnico Responsável por Instalações Eléctricas de Serviço Particular
-- Direcção Geral de Geologia e Energia
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:66528823:por
@@ -91,16 +91,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/5/2004/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/5/2004/01/06/p/dre
+- type: cites
+  target: pt:dre:240801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582664:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66528823:por
+  label: Revogado, a partir de 15.08.2015, o DR 31/83 de 18-abr, alterado pelo presente diploma, pelo(a) Lei n.º 14/2015 -
+    Diário da República n.º 32/2015, Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-2015-66528823
+  date: '2015-02-16'
 article_structure:
-  article_count: 8
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:03Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +183,9 @@ f) [Anterior alínea e).]
 
 7 - O processo de reconhecimento e validação de competências referido na alínea d) do n.º 1 é realizado ao abrigo e nos termos de protocolo de colaboração celebrado, para o efeito, entre a Direcção-Geral de Geologia e Energia, o Instituto do Emprego e Formação Profissional, I. P., e o Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário, I. P.
 
-###### Artigo 7.º — Inscrição
+Artigo 7.º
+
+Inscrição
 
 1 - O exercício das funções de técnico responsável pela execução e pela exploração de instalações eléctricas por parte de electricistas depende de inscrição na direcção regional de economia territorialmente competente, devendo o requerimento para a inscrição ser dirigido ao respectivo director regional e ser acompanhado de:
 
@@ -187,7 +207,9 @@ e) (Revogada.)
 
 5 - O exercício das funções de técnico responsável por instalações eléctricas por parte dos engenheiros electrotécnicos e dos engenheiros técnicos de electrotecnia depende de estarem inscritos, respectivamente, na Ordem dos Engenheiros e na Associação Nacional dos Engenheiros Técnicos, nos termos previstos nos respectivos Estatutos.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -209,11 +231,15 @@ e) (Revogada.)
 
 10 - ...
 
-###### Artigo 25.º — Obrigatoriedade de inscrição dos electricistas
+Artigo 25.º
+
+Obrigatoriedade de inscrição dos electricistas
 
 Para o exercício da sua actividade, o electricista que seja técnico responsável deverá estar inscrito na direcção regional de economia territorialmente competente, nas condições estabelecidas no capítulo III do presente Estatuto.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os electricistas que sejam técnicos responsáveis por instalações eléctricas estão sujeitos às seguintes sanções disciplinares, em função da gravidade das faltas cometidas:
 
@@ -247,12 +273,12 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 8 de Novembro de 2006.**
+Promulgado em 8 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 10 de Novembro de 2006.**
+Referendado em 10 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/79/2000/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/79-2000-583240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T04:37:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4d2c41a2a4996f54f31d6c5f6d17e3b7525c162bb877c8d1d8960e284d9ad0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ca57587039ca84fa9f3a9192941bcf90d9e81e3cb819807a386dc5048bede35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:37:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Brasil
 - Convenção
 - Cooperação Bilateral
-- Portugal
-- Brasil
 - Porto Seguro
+- Portugal
 - Tratado de Amizade Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil
 relationships:
 - type: amended_by
@@ -81,16 +81,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/83/2000/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/83/2000/12/14/p/dre
+- type: cites
+  target: pt:dre:583237:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:390011:por
+  label: Rectificado o artigo 9.&#186; do Tratado, aprovado pela Res 83/2000, de 14-Dez, e ratificado pelo presente diploma,
+    pelo DEC.41/2002.11.09.2002.MNE, DR.IS-A [302] de 31.12.2002
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/41-2002-390011
+  date: '2002-09-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:37:18Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +109,16 @@ validation:
 
 de 14 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de Abril de 2000, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 83/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2000-583237), em 28 de Setembro de 2000.
 
-**Assinado em 30 de Novembro de 2000.**
+Assinado em 30 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Dezembro de 2000.**
+Referendado em 5 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

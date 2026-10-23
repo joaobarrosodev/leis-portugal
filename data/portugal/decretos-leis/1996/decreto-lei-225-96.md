@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/11/275a00/42814285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/225/1996/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1996-199115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3809d852cbb2379d3f6c808eacdca5b4c11aa7c0075b8c16c20a504f2f1593e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea76ae70222af8d25d8201e260133c52072298c495711705cc8a5dd156a2d8eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Conservador
-- Serviços de Registo e Notariado
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral dos Registos e do Notariado
+- Formação Profissional
 - Notário
 - Oficial dos Registos e do Notariado
 - Orgânica
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:388183:por
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/40/1994/02/11/p/dre
+- type: cites
+  target: pt:dre:524225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388183:por
+  label: "Revogado pelo DEC LEI.87/2001.2001.03.17.MJ,DR.IS-A [65]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2001-388183
+  date: '2001-03-17'
 article_structure:
-  article_count: 22
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:03Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +165,9 @@ h) Centro de Formação dos Registos e do Notariado (CFRN).
 
 4 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +179,9 @@ b) Presidir ao Conselho Técnico;
 
 c) Representar a DGRN junto dos outros serviços e entidades nacionais, estrangeiras e internacionais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -172,7 +189,9 @@ c) Representar a DGRN junto dos outros serviços e entidades nacionais, estrange
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ao SAI compete:
 
@@ -194,7 +213,9 @@ f) Promover e assegurar a instrução dos processos disciplinares, de averiguaç
 
 4 - Para a execução de tarefas inspectivas concretas pode o director-geral designar conservadores ou notários de reconhecido mérito.
 
-###### Artigo 11.º — Direcção de Serviços Jurídicos
+Artigo 11.º
+
+Direcção de Serviços Jurídicos
 
 1 - À DSJ compete, nas áreas específicas dos registos e do notariado ou em matérias com elas relacionadas:
 
@@ -214,7 +235,9 @@ f) Acompanhar e participar nas actividades de organizações internacionais e en
 
 3 - A DSJ é dirigida por um director de serviços, recrutado de entre conservadores ou notários de reconhecido mérito, e pode ser organizada internamente em núcleos dedicados a áreas específicas, coordenados por conservadores ou notários para o efeito designados pelo director-geral.
 
-###### Artigo 12.º — Direcção de Serviços de Recursos Humanos
+Artigo 12.º
+
+Direcção de Serviços de Recursos Humanos
 
 1 - À DSRH compete programar e executar as acções relativas à gestão e administração do pessoal dos serviços centrais da DGRN, bem como dos conservadores, notários e oficiais dos registos e do notariado.
 
@@ -294,7 +317,9 @@ i) Promover todas as demais acções necessárias à correcta gestão dos recurs
 
 7 - A RGPSE compreende a Secção de Conservadores e Notários e a Secção de Oficiais, que exercem as competências enunciadas no número anterior em relação, respectivamente, aos conservadores e notários e aos oficiais dos registos e do notariado.
 
-###### Artigo 13.º — Direcção de Serviços Financeiros e Administrativos
+Artigo 13.º
+
+Direcção de Serviços Financeiros e Administrativos
 
 1 - À DSFA compete assegurar a gestão dos recursos financeiros e patrimoniais dos serviços centrais, a gestão dos recursos financeiros dos serviços externos, bem como a gestão e controlo dos impressos próprios.
 
@@ -340,7 +365,9 @@ a) A Secção de Contabilidade, que exerce as competências enunciadas nas alín
 
 b) A Secção de Administração Geral, que exerce as competências enunciadas nas alíneas e) a j) do número anterior.
 
-###### Artigo 14.º — Direcção de Serviços de Organização e Logística
+Artigo 14.º
+
+Direcção de Serviços de Organização e Logística
 
 1 - À DSOL compete estudar e propor medidas relativas ã organização e racionalização dos serviços dos registos e do notariado, promover no seu âmbito a difusão das tecnologias da informação, bem como propor e promover as acções necessárias à instalação e equipamento adequados dos serviços.
 
@@ -370,7 +397,9 @@ d) Promover a celebração de contratos de arrendamento ou de aquisição de ins
 
 e) Emitir parecer no âmbito das suas competências sobre a autonomização, criação e extinção de conservatórias e cartórios notariais e a alteração da classe desses serviços.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -378,7 +407,9 @@ e) Emitir parecer no âmbito das suas competências sobre a autonomização, cri
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O director-geral dos Registos e do Notariado, sempre que se mostre conveniente, pode autorizar o destacamento ou requisição de conservadores, notários e oficiais dos registos e do notariado para exercerem funções nos serviços centrais da DGRN.
 
@@ -386,7 +417,9 @@ e) Emitir parecer no âmbito das suas competências sobre a autonomização, cri
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 Os funcionários e agentes da DGRN são beneficiários dos Serviços Sociais do Ministério da Justiça e da sua acção médico-medicamentosa e social, gozando de todos os direitos e estando sujeitos a todos os deveres emergentes da respectiva legislação.»
 
@@ -412,19 +445,25 @@ e) Propor as providências necessárias para a utilização adequada das tecnolo
 
 2 - O GADSI é dirigido por um chefe de divisão.
 
-###### Artigo 14.º-B — Centro de Formação dos Registos e do Notariado
+Artigo 14.º-B
+
+Centro de Formação dos Registos e do Notariado
 
 1 - O CFRN tem como objectivo a formação profissional dos conservadores, notários e oficiais dos registos e do notariado.
 
 2 - O CFRN, em cooperação com os serviços competentes do Ministério dos Negócios Estrangeiros, pode apoiar acções de formação inicial e permanente de cônsules e de outros recursos humanos que prestem serviço nos consulados de Portugal, em matérias conexas com as atribuições destes no domínio dos registos e do notariado.
 
-###### Artigo 14.º-C — Direcção do CFRN
+Artigo 14.º-C
+
+Direcção do CFRN
 
 1 - O CFRN é dirigido por um conservador ou notário requisitado para o efeito.
 
 2 - O director do CFRN pode ser coadjuvado por um conservador, notário ou oficial dos registos e do notariado, em regime de requisição ou destacamento.
 
-###### Artigo 14.º-D — Competências do CFRN
+Artigo 14.º-D
+
+Competências do CFRN
 
 Compete ao CFRN:
 
@@ -442,7 +481,9 @@ f) Executar e acompanhar as acções de formação de conservadores, notários e
 
 g) Cooperar com o Ministério dos Negócios Estrangeiros nas acções de formação referidas no n.º 2 do artigo 14.º-B.
 
-###### Artigo 14.º-E — Composição do CFRN
+Artigo 14.º-E
+
+Composição do CFRN
 
 1 - O CFRN compreende:
 
@@ -454,7 +495,9 @@ c) O Gabinete de Administração (GA), ao qual compete a gestão administrativa,
 
 2 - As funções de coordenadores do GRS, do GF e do GA são desempenhadas por conservadores, notários ou oficiais dos registos e do notariado requisitados ou destacados ou por técnicos superiores do quadro da DGRN.
 
-###### Artigo 14.º-F — Corpo docente do CFRN
+Artigo 14.º-F
+
+Corpo docente do CFRN
 
 1 - O corpo docente do CFRN é recrutado de entre magistrados, professores universitários, conservadores, notários e oficiais dos registos e do notariado e técnicos de reconhecida competência.
 
@@ -468,7 +511,9 @@ c) Proceder à avaliação dos formandos.
 
 3 - Podem colaborar com o CFRN quaisquer serviços públicos, entidades privadas ou personalidades de reconhecido mérito, tendo em vista a realização de conferências, colóquios ou outras actividades de formação.
 
-###### Artigo 14.º-G — Regime da docência
+Artigo 14.º-G
+
+Regime da docência
 
 1 - Os docentes exclusivamente afectos ao CFRN que sejam conservadores, notários, oficiais dos registos e do notariado ou funcionários da Administração Pública exercem as suas funções em regime de requisição ou de destacamento.
 
@@ -476,7 +521,9 @@ c) Proceder à avaliação dos formandos.
 
 3 - Os docentes e quaisquer personalidades que colaborem com o CFRN e lhe não estejam exclusivamente afectos têm direito a uma gratificação por sessão lectiva, de montante fixado por despacho dos Ministros das Finanças e da Justiça e do membro do Governo que tiver a seu cargo a Administração Pública.
 
-###### Artigo 14.º-H — Deveres e incompatibilidades
+Artigo 14.º-H
+
+Deveres e incompatibilidades
 
 Os candidatos ao ingresso nas carreiras de pessoal dos registos e do notariado ficam sujeitos, durante a frequência dos estágios e cursos de formação, aos deveres e incompatibilidades legalmente previstos, consoante os casos, para os conservadores e notários ou para os oficiais dos registos e do notariado.»
 
@@ -494,12 +541,12 @@ As despesas resultantes do funcionamento do CFRN constituem encargo das dotaçõ
 
 Visto e aprovado em Conselho de Ministros de 26 de Setembro de 1996. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 31 de Outubro de 1996.**
+Promulgado em 31 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 1996.**
+Referendado em 11 de Novembro de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/258-1973-675998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dac8b0c051f8d165801e8cef454e563be79c16104fa348a2e8310dd4ff00f06a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3595f9b125ad8ffd401f9c4a825ebc7ed4968f2eb45ca00f82058a4657527ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:159898:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:398360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590162:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:02:28Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do
 
 Ministério da Marinha, 30 de Março de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.
 
-## Anexo a que se refere a Portaria n.º 258/73, de 11 de Abril
+Anexo a que se refere a Portaria n.º 258/73, de 11 de Abril
 
 Oficiais
 
@@ -206,4 +214,4 @@ Primeiros-grumetes ... 3
 
 Nota. - Três elementos da guarnição, sargentos e praças, deverão estar habilitados com o curso de aperfeiçoamento em mergulhador-vigia.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

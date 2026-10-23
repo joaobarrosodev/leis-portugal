@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/575-1979-363882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59234e55f5e087990a903fd06e76c56cbcb46025927a165ab3b559585c0824b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 908e9187c952642f8226ac8dc2173c479672111882d7e7c7b7698201c1b4c994
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Naval
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:682028:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682028:por
+  label: "Alteradas as alíneas d) e h) do n.º 2 e o n.º 3 do anexo E, a alínea h) do n.º 2 do anexo F, a alínea h) do n.º\
+    \ 2 e o n.º 3 do anexo G e substituído o anexo H, todos do presente diploma, pela PORT.168/80.11.04.1980.CR, DR.IS [85]\
+    \ de 11.04.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1980-682028
+  date: '1980-04-11'
+- type: cites
+  target: pt:dre:170142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383796:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:367449:por
+  label: Rectificada pela DECL.DD7102.22.11.1979.CR, DR.IS [270] de 22.11.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-367449
+  date: '1979-11-22'
+- type: corrected_by
+  target: pt:dre:366582:por
+  label: Rectificada pela DECL.DD7967.12.12.1979.CR, DR.IS [285] de 12.12.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-366582
+  date: '1979-12-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:57Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +122,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termo
 
 1.º O artigo 235.º do Regulamento da Escola Naval passa a ter a seguinte redacção:
 
-###### Art. 235.º - 1 - Os planos de cursos que constam dos anexos E, F, G e H a este Regulamento são transitórios, vigorando apenas para o ano lectivo de 1979-1980.
+Art. 235.º - 1 - Os planos de cursos que constam dos anexos E, F, G e H a este Regulamento são transitórios, vigorando apenas para o ano lectivo de 1979-1980.
 
 2.º Os planos de cursos referidos no número anterior são os que constam em anexo à presente portaria.
 
@@ -163,7 +190,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -191,7 +218,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 e) Embarques e estágio do 2.º ano:
 
@@ -235,7 +262,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -257,7 +284,7 @@ Total ... 8
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 i) Embarques e estágios do 4.º ano:
 
@@ -291,7 +318,7 @@ d) Realização de exercícios que permitam a aplicação dos conhecimentos ante
 
 Para efeitos de cálculo das cotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques e dos cursos efectuados são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H a este Regulamento.
 
@@ -357,7 +384,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -387,7 +414,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 e) Embarques e estágio do 2.º ano:
 
@@ -431,7 +458,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -453,7 +480,7 @@ Total ... 8
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 i) Embarques e estágio do 4.º ano:
 
@@ -481,7 +508,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 Para efeitos de cálculo das cotas de mérito, os coeficientes a atribuir às classificações da IMB, dos embarques e dos cursos efectuados são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -545,7 +572,7 @@ Total ... 152
 
 b) 1.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 c) Embarques do 1.º ano:
 
@@ -575,7 +602,7 @@ Saúde e Higiene Naval;
 
 d) 2.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 e) Embarques e estágio do 2.º ano:
 
@@ -623,7 +650,7 @@ c) Prática e instrução complementar das restantes matérias técnico-navais a
 
 f) 3.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 g) Embarques e estágios do 3.º ano:
 
@@ -645,7 +672,7 @@ Total ... 8
 
 h) 4.º ano lectivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 i) Embarques e estágio do 4.º ano:
 
@@ -673,7 +700,7 @@ c) Prática, como adjuntos, do desempenho das funções de oficial de dia e de q
 
 Para efeitos de cálculo das cotas de mérito, os coeficientes a atribuir às classificações da IMB, de embarques e dos cursos efectuados são os que constam da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 Nota. - Os coeficientes das classificações das cadeiras e das instruções constam do anexo H.
 
@@ -681,14 +708,14 @@ Nota. - Os coeficientes das classificações das cadeiras e das instruções con
 
 I - Cadeiras de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 II - Cadeiras de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 III - Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf))](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/11/25300/27762785.pdf)
 
 Nota. - Em qualquer cadeira ou instrução anexa a uma cadeira, deverá haver um número de provas de avaliação de conhecimentos não inferior a dois semestres. Exceptua-se o 41.º grupo (Educação Física).

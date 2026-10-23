@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 235/1973, 1º Suplemento, Série I de 1973-10-08
   number: '235'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1762-(9) a 1762-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/673-1973-567444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec6bf5ec93b464d9de20728933a9abce8ce64274a1ee1031321b8699ba82746e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25bccf5f30a25e1b04fa6929b37dbf164d01ed9cf53b1d5dcac0de483346d3e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:21Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +154,7 @@ IV - As pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.
 
 V - 1. Em todos os casos em que se torne necessário considerar a actualização de salários, designadamente para os efeitos previstos nas normas XI, n.º 3, e XX, b), da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, na norma VII, n.º 2, da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e no n.º 7 do artigo 100.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com a redacção que lhe foi dada pelo [Decreto n.º 178/73](https://diariodarepublica.pt/dr/detalhe/decreto/178-1973-673820), de 17 de Abril, utilizar-se-á a seguinte tabela, que substituirá a tabela inserta no n.º 1 da norma I da [Portaria n.º 436/72](https://diariodarepublica.pt/dr/detalhe/portaria/436-1972-676212), de 5 de Agosto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf)
 
 2. Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa, com pensões iniciadas antes de 1949, tomar-se-á como ano de início, para os efeitos do número anterior, o ano de 1949.
 

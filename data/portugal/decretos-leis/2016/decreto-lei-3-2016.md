@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/00700/0007200074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2016/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2016-73115708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c828f4a07654ce42197f3b1d016764d7c8458f411febbd1d1c0934b84152f36c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7724d5fbb75481aa618caedefda94288803d848064aa3b529577509ba155c17b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,34 +69,34 @@ reuse:
 subjects:
 - Agência Europeia de Segurança Marítima
 - Aproximação das Legislações
-- Embarcação
-- Interconexão de Dados
+- Autoridade Marítima Nacional
+- Autoridade Portuária
 - CE Países
-- Tráfego Marítimo
-- Transporte Marítimo
-- Multa
 - Comando Naval
+- Comissão CE
 - Comunicações Eletrónicas
-- Instituto Portuário e dos Transportes Marítimos
 - Contra-ordenação
 - Definição de Competências
-- Autoridade Marítima Nacional
-- Direcção Geral dos Recursos Naturais
-- Equipamento Eletrónico
-- União Europeia
-- Informática
-- Fiscalização
-- Comissão CE
-- Instituto da Conservação da Natureza
-- Autoridade Portuária
-- Meio Marinho
 - Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Direcção Geral da Autoridade Marítima
+- Direcção Geral dos Recursos Naturais
+- Embarcação
+- Equipamento Eletrónico
+- Fiscalização
+- Informática
+- Instituto da Conservação da Natureza
+- Instituto Portuário e dos Transportes Marítimos
+- Interconexão de Dados
+- Meio Marinho
+- Multa
 - Normas de Segurança
 - Proteção do Ambiente
 - Segurança da Navegação
 - Segurança Marítima
-- Direcção Geral da Autoridade Marítima
+- Tráfego Marítimo
 - Transporte de Mercadorias Perigosas
+- Transporte Marítimo
+- União Europeia
 relationships:
 - type: cites
   target: celex:32000L0059
@@ -178,20 +178,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/56/2011/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/56/2011/11/15/p/dre
+- type: cites
+  target: pt:dre:146506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673632:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32014L0100
   label: null
   source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:52Z'
   warnings: []
   errors: []
 ---
@@ -236,15 +276,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2015. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - José Alberto de Azeredo Ferreira Lopes - Francisca Eugénia da Silva Dias Van Dunem - Ana Paula Mendes Vitorino.
 
-**Promulgado em 4 de janeiro de 2016.**
+Promulgado em 4 de janeiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 7 de janeiro de 2016.**
+Referendado em 7 de janeiro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -334,13 +374,13 @@ A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos deve d
 
 O SafeSeaNet central é utilizado para a distribuição de dados e de mensagens eletrónicas, trocados ou compartilhados em conformidade com o presente diploma e com a legislação pertinente da União, nomeadamente:
 
-###### Artigo 12.º, n.º 3 da [Diretiva n.º 2000/59/CE](https://data.europa.eu/eli/dir/2000/59/oj?locale=pt) do Parlamento Europeu e do Conselho, de 27 de novembro de 2000, relativa aos meios portuários de receção de resíduos gerados em navios e de resíduos da carga; transposta para o direito interno pelo [Decreto-Lei n.º 165/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2003-673632), de 24 de julho;
+Artigo 12.º, n.º 3 da [Diretiva n.º 2000/59/CE](https://data.europa.eu/eli/dir/2000/59/oj?locale=pt) do Parlamento Europeu e do Conselho, de 27 de novembro de 2000, relativa aos meios portuários de receção de resíduos gerados em navios e de resíduos da carga; transposta para o direito interno pelo [Decreto-Lei n.º 165/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2003-673632), de 24 de julho;
 
-###### Artigo 10.º da [Diretiva n.º 2005/35/CE](https://data.europa.eu/eli/dir/2005/35/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa à poluição por navios e à introdução de sanções, incluindo sanções penais, por crimes de poluição alterada pela [Diretiva n.º 2009/123/CE](https://data.europa.eu/eli/dir/2009/123/oj?locale=pt) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, transposta para o direito interno pela [Lei n.º 56/2011](https://diariodarepublica.pt/dr/detalhe/lei/56-2011-146506), de 15 de novembro;
+Artigo 10.º da [Diretiva n.º 2005/35/CE](https://data.europa.eu/eli/dir/2005/35/oj?locale=pt) do Parlamento Europeu e do Conselho, de 7 de setembro de 2005, relativa à poluição por navios e à introdução de sanções, incluindo sanções penais, por crimes de poluição alterada pela [Diretiva n.º 2009/123/CE](https://data.europa.eu/eli/dir/2009/123/oj?locale=pt) do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, transposta para o direito interno pela [Lei n.º 56/2011](https://diariodarepublica.pt/dr/detalhe/lei/56-2011-146506), de 15 de novembro;
 
-###### Artigo 24.º da [Diretiva n.º 2009/16/CE](https://data.europa.eu/eli/dir/2009/16/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto; transposta para o direito interno pelo [Decreto-Lei n.º 61/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2012-553454), de 14 de março;
+Artigo 24.º da [Diretiva n.º 2009/16/CE](https://data.europa.eu/eli/dir/2009/16/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto; transposta para o direito interno pelo [Decreto-Lei n.º 61/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2012-553454), de 14 de março;
 
-###### Artigo 6.º da [Diretiva n.º 2010/65/UE](https://data.europa.eu/eli/dir/2010/65/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros, transposta para o direito interno pelo [Decreto-Lei n.º 218/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2012-175788), de 9 de outubro.
+Artigo 6.º da [Diretiva n.º 2010/65/UE](https://data.europa.eu/eli/dir/2010/65/oj?locale=pt) do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros, transposta para o direito interno pelo [Decreto-Lei n.º 218/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-2012-175788), de 9 de outubro.
 
 A utilização do sistema SafeSeaNet deve apoiar o estabelecimento e o funcionamento do espaço europeu de transporte marítimo sem barreiras.
 

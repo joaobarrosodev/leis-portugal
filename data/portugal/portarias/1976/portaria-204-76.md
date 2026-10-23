@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-1976-502808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:58:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06d810a7f11101247c771cd36010ab7de06dcb6ae2bfa4a2dfffde125bd47fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9438d6c8ba26b9f8e8d43553da347198c8c59f0bddce9f197dff510008a2abd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:58:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Carreira Profissional
+- Concurso de Habilitação
+- Conservador
+- Notário
+- Progressão na Carreira
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:140169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:58:55Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +109,9 @@ Manda o Governo da República Portuguesa, pelo Ministro da Justiça, aprovar o r
 
 Regulamento
 
-###### Artigo 1.º As provas do concurso de habilitação para conservadores e notários, a que se referem os artigos 35.º, 36.º, 37.º e 38.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, na redacção introduzida pelo [Decreto n.º 171/76](https://diariodarepublica.pt/dr/detalhe/decreto/171-1976-507390), de 3 de Março, incidirão sobre as matérias constantes do programa anexo a este Regulamento e serão prestadas pela forma prescrita nas disposições seguintes.
+Artigo 1.º As provas do concurso de habilitação para conservadores e notários, a que se referem os artigos 35.º, 36.º, 37.º e 38.º do [Decreto n.º 314/70](https://diariodarepublica.pt/dr/detalhe/decreto/314-1970-140169), de 8 de Julho, na redacção introduzida pelo [Decreto n.º 171/76](https://diariodarepublica.pt/dr/detalhe/decreto/171-1976-507390), de 3 de Março, incidirão sobre as matérias constantes do programa anexo a este Regulamento e serão prestadas pela forma prescrita nas disposições seguintes.
 
-###### Art. 2.º O ponto da prova escrita, igual para todos os concorrentes que prestarem a prova no mesmo dia, será tirado à sorte pelo primeiro examinando na ordem alfabética e lido em voz alta pelo membro do júri que presidir ao acto.
+Art. 2.º O ponto da prova escrita, igual para todos os concorrentes que prestarem a prova no mesmo dia, será tirado à sorte pelo primeiro examinando na ordem alfabética e lido em voz alta pelo membro do júri que presidir ao acto.
 
 § 1.º A cada concorrente será entregue uma cópia do ponto, rubricado pelo presidente do júri.
 
@@ -106,7 +125,7 @@ Regulamento
 
 § 6.º Os concorrentes terão duas horas para a prestação da prova escrita. À medida que cada um for terminando o seu trabalho entregá-lo-á, datado e assinado e acompanhado da cópia do ponto, ao presidente do júri.
 
-###### Art. 3.º Quando haja lugar a prova oral esta compreenderá um interrogatório sobre as matérias do programa.
+Art. 3.º Quando haja lugar a prova oral esta compreenderá um interrogatório sobre as matérias do programa.
 
 § 1.º A prova oral terá a duração de vinte e cinco minutos, cabendo cinco minutos a cada uma das matérias a seguir discriminadas:
 
@@ -118,7 +137,7 @@ c) Notariado;
 
 e, dez minutos às matérias de registos predial, comercial e da propriedade automóvel.
 
-**O presidente do júri pode, a título excepcional, autorizar a prorrogação do interrogatório por mais cinco minutos.**
+O presidente do júri pode, a título excepcional, autorizar a prorrogação do interrogatório por mais cinco minutos.
 
 § 2.º O interrogatório sobre matéria de organização e legislação especial dos serviços será feito pelo vogal funcionário da Direcção-Geral dos Registos e do Notariado. Compete aos demais vogais do júri efectuar o interrogatório sobre as demais matérias incluídas no programa e em conformidade com a sua especialização profissional, cabendo as matérias de registo comercial e de propriedade automóvel ao vogal conservador do registo predial.
 
@@ -126,15 +145,15 @@ e, dez minutos às matérias de registos predial, comercial e da propriedade aut
 
 É aplicável à infracção desta norma a sanção cominada no § 5.º do artigo anterior.
 
-###### Art. 4.º Os pontos para as provas escritas serão organizados pelo júri e manter-se-ão secretos até serem sorteados.
+Art. 4.º Os pontos para as provas escritas serão organizados pelo júri e manter-se-ão secretos até serem sorteados.
 
-###### Art. 5.º A falta a qualquer das provas poderá ser justificada uma só vez e unicamente por motivo de doença comprovada por atestado médico, apresentado ao presidente do júri dentro de vinte e quatro horas após a chamada.
+Art. 5.º A falta a qualquer das provas poderá ser justificada uma só vez e unicamente por motivo de doença comprovada por atestado médico, apresentado ao presidente do júri dentro de vinte e quatro horas após a chamada.
 
-**O presidente do júri, desde que considere justificada a falta, marcará logo dia e hora para a prestação da prova.**
+O presidente do júri, desde que considere justificada a falta, marcará logo dia e hora para a prestação da prova.
 
-###### Art. 6.º Ao entrarem na sala onde se realizarem as provas os candidatos deverão apresentar os seus bilhetes de identidade.
+Art. 6.º Ao entrarem na sala onde se realizarem as provas os candidatos deverão apresentar os seus bilhetes de identidade.
 
-###### Art. 7.º O júri resolverá quaisquer dúvidas que se suscitarem a respeito da prestação das provas.
+Art. 7.º O júri resolverá quaisquer dúvidas que se suscitarem a respeito da prestação das provas.
 
 Programa das provas
 

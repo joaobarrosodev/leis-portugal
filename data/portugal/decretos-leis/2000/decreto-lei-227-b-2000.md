@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 214/2000, 1º Suplemento, Série I-A de 2000-09-15
   number: '214'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4946-(2) a 4946-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/214a01/00020031.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-b-2000-534644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 782811ba5df9def5afc8982accedbd7b7c215a1be074fec11958bc47715bad4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdee6793d65077d4fceee1ce3a7849fe873d6d3b6d1d1b4eb66d3c08c60fb7a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alcoolismo
+- ÁREA de Refúgio
 - Armas e Munições
+- CAÇA
 - Calendário Venatório
 - Carta de Caçador
-- Multa
-- CAÇA
 - Conselho Cinegético
 - Conselho Nacional da CAÇA e da Conservação da Fauna
 - Contra-ordenação
@@ -79,23 +80,22 @@ subjects:
 - Direcção Geral das Florestas
 - Direcção Geral do Turismo
 - Direito à não CAÇA
+- Droga
 - Exame
 - Fiscalização
+- GNR
+- Guarda Florestal
 - Instituto da Conservação da Natureza
 - Licença de Caça
-- GNR
+- Madeira.região Autónoma
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Droga
+- Multa
 - Ordenamento Cinegético
 - Proteção do Ambiente
-- Guarda Florestal
-- Madeira.região Autónoma
 - Receita
 - Regime Jurídico
-- ÁREA de Refúgio
-- Ministério do Ambiente e do Ordenamento do Território
 - Seguro Obrigatório de Responsabilidade Civil
-- Açores
 - Taxa de Alcoolemia
 - ZONA de CAÇA
 - ZONA de CAÇA Municipal
@@ -104,6 +104,37 @@ relationships:
   target: pt:dre:649906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536243:por
+  label: "Alterados a al. aa) do art. 2º, o nº 4 do art. 17º, as als. b), c), d) e j) do art. 19º, o nº 5 do art. 23º, a al.\
+    \ IV da al. c) do nº 2 do art. 24º, o nº 4 do art. 27º, o nº 1 do art. 39º, os nºs 3 e 7 do art. 44º, o nº 3 do art. 45º,\
+    \ o nº 3 do art. 47º, as als. g) e l) do nº 1 do art. 49º, o nº 4 do art. 66º, o nº 8 do art. 69º, a al. a) do nº 1 e\
+    \ o nº 2 do art. 84º, o nº 3 do art. 93º, o nº 3 do art. 96º, o nº 4 do art. 97º, o nº 5 do art. 99º, o nº 4 do art. 100º,\
+    \ a al. b) do nº 2 do art. 101º, os nºs 4 e 5 do art. 113º, o nº 4 do art. 114º, o nº 2 do art. 115º, o art. 119º, a al.\
+    \ hh) do nº 1 do art. 128º, a al. e) do art. 155º e a al. b) do art. 166º, e republicado na integra com estas alterações\
+    \ pelo DEC LEI.338/2001.2001.12.26.MADRP DR.IS-A [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-2001-536243
+  date: '2001-12-26'
+- type: amended_by
+  target: pt:dre:432447:por
+  label: "PORT.1378/2003.19.12.2003.MECO, DR.IS-B [292] de 19.12.2003 (Artigo 38.º, n.º 1, alínea b) e n.º 1 do artigo 45.º)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1378-2003-432447
+  date: '2003-12-19'
+- type: amended_by
+  target: pt:dre:517592:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pelo presente diploma,\
+    \ com a redacção da Port 747/97 de 28-Ago, pela PORT.755/2004.30.06.2004.MADRP, DR.IS-B [152] de 30.06.2004 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/755-2004-517592
+  date: '2004-06-30'
+- type: amended_by
+  target: pt:dre:481498:por
+  label: "Repristinado o art. 69º do presente diploma, na redacção que lhe foi conferida pelo Dec Lei 338/2001 de 26-Dez e\
+    \ revogado pelo Dec Lei 202/2004, mantido em vigor o disposto no supracitado artigo, até à publicação da portaria referida\
+    \ no artº 73º e mantidas válidas, nos termos do art. 164º, as zonas de caça criadas ao abrigo dos diplomas que regulam\
+    \ o presente diploma, pelo DEC LEI.201/2005.24.11.2005.MADRP, DR.IS-A [226] de 24.11.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-2005-481498
+  date: '2005-11-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -140,16 +171,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/393-a/2000/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/393-a/2000/07/13/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407508:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661769:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:437448:por
+  label: "Rectificado pela DECL-RECT.14-B/2000.2000.10.31.PCM, DR.IS [252]-2ºSupl de 31/Out/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-b-2000-437448
+  date: '2000-10-31'
+- type: corrected_by
+  target: pt:dre:296389:por
+  label: "Rectificado pela DECL-RECT.16-B/2000.2000.11.27.PCM DR.IS-A [277]3.ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-b-2000-296389
+  date: '2000-11-27'
+- type: repealed_by
+  target: pt:dre:480704:por
+  label: "Revogado pelo DEC LEI.202/2004.18.08.2004.MADRP, DR.IS-A [194], mantido contudo transitoriamente em vigor até à\
+    \ publicação da legislação prevista no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2004-480704
+  date: '2004-08-18'
 article_structure:
   article_count: 169
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:22Z'
   warnings: []
   errors: []
 ---
@@ -360,7 +455,7 @@ A constituição de zonas de caça é efectuada por prazos mínimos de 6 anos e 
 
 #### SECÇÃO II — Transferência de gestão
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -398,7 +493,7 @@ d) Os demais caçadores.
 
 ###### Artigo 18.º — Decisão final
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode:**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode:
 
 a) Conceder a respectiva transferência;
 
@@ -444,7 +539,7 @@ b) Por incumprimento das obrigações previstas no artigo 19.º;
 
 c) Por caducidade, se decorrido o prazo de transferência esta não for renovada.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Zonas de caça nacionais
 
@@ -470,7 +565,7 @@ Zonas de caça nacionais
 
 4 - Até à aprovação do plano é proibido o exercício da caça.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Zonas de caça municipais
 
@@ -530,7 +625,7 @@ c) Colaborar na divulgação a que se refere a alínea d) do artigo 19.º
 
 #### SECÇÃO III — Concessão
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -566,7 +661,7 @@ b) Entidades públicas ou privadas, que tenham por objecto a exploração de act
 
 8 - O disposto no n.º 2 não se aplica às ZCT com área inferior a 1000 ha e cujos concessionários sejam proprietários dos terrenos nelas incluídos.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Procedimentos para a concessão das zonas de caça
 
@@ -770,7 +865,7 @@ d) Factores que justifiquem o eventual abate de espécies cinegéticas significa
 
 Sem prejuízo dos direitos emergentes de denúncia unilateral de acordos, à desanexação de prédios de zonas de caça já constituídas e a pedido do concessionário, é aplicável o definido nos artigos 31.º e 34.º a 36.º com as devidas adaptações.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Renovação, suspensão e extinção de concessões
 
@@ -2260,15 +2355,15 @@ O presente diploma entra em vigor no dia 22 de Setembro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Fernando Manuel dos Santos Gomes - Manuel Maria Diogo - António do Pranto Nogueira Leite - Victor Manuel Sampaio Caetano Ramalho - António Luís Santos Costa - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Setembro de 2000.**
+Promulgado em 14 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Setembro de 2000.**
+Referendado em 15 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 

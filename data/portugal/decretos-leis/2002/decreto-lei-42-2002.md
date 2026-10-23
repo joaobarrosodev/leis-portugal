@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/052a00/17481749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/42/2002/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2002-251981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9fea05f7c1d4e3f9bd49df4c32b55b515e919823cc8db68ccf0afda726d8895
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb1121466f929413f2337534793092fb75fdd93fb651e338a10dd62b38c51b49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Instituição de Crédito
+- Instituição Financeira
 - Moeda Eletrónica
 - Regime Jurídico
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:191534:por
@@ -91,16 +91,21 @@ relationships:
   target: celex:32000L0046
   label: null
   source: http://data.europa.eu/eli/dir/2000/46/oj
+- type: repealed_by
+  target: pt:dre:191534:por
+  label: "Revogado pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:43Z'
   warnings: []
   errors: []
 ---
@@ -229,12 +234,12 @@ Enquanto não for publicada a portaria a que se refere o artigo 8.º, o capital 
 
 Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins.
 
-**Promulgado em 19 de Fevereiro de 2002.**
+Promulgado em 19 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

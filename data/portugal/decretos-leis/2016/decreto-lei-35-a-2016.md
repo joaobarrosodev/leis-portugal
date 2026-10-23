@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2032-(4) a 2032-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12401/0000400006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35-a/2016/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-a-2016-74843537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd61b9c09e8e795436b4bfc7be8f7f760dbd85617a2c3a4602fae6986b0eaa2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 997e7962af87683f41ac60b51a070f3aa727c46ce39b150d0d6f9193dd8d9d5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,19 +72,19 @@ subjects:
 - Despesas Públicas
 - Direcção Geral dos Recursos Naturais
 - Empresa Pública
-- Execução do Orçamento
-- Secretaria Geral
-- Ministério da Economia
-- Ministério da Cultura
-- Ministério das Finanças
-- Instituto da Conservação da Natureza e das Florestas
-- Orçamento Geral do Estado
-- Orçamento
-- Prestação de Contas
-- Presidência do Conselho de Ministros
-- Ministério dos Negócios Estrangeiros
 - Entidade Contabilística Ação Governativa
 - Entidade Contabilística Gestão Administrativa e Financeira
+- Execução do Orçamento
+- Instituto da Conservação da Natureza e das Florestas
+- Ministério da Cultura
+- Ministério da Economia
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
+- Orçamento
+- Orçamento Geral do Estado
+- Presidência do Conselho de Ministros
+- Prestação de Contas
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2016/04/13/p/dre
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7-a/2016/03/30/p/dre
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74126124:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:00Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +174,9 @@ Os artigos 17.º, 34.º, 95.º e 96.º do [Decreto-Lei n.º 18/2016](https://dia
 
 13 - A prestação de contas do exercício correspondente ao primeiro semestre de 2016 da entidade contabilística 'Gestão Administrativa e Financeira do Ministério das Finanças' é apresentada pela Secretaria-Geral do MF através de uma única conta de gerência, sendo a prestação de contas do exercício correspondente ao segundo semestre de 2016 realizada nos termos do presente decreto-lei.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -200,7 +210,9 @@ c) O ICNF, I. P., relativamente aos procedimentos que respeitem diretamente à e
 
 7 - [...].
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - [...]:
 
@@ -210,7 +222,9 @@ b) No caso das empresas do setor empresarial do Estado com resultados antes de j
 
 2 - [...].
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - Durante o ano de 2016, as empresas públicas, com exceção das entidades públicas empresariais integradas no SNS e da SPMS-Serviços Partilhados do Ministério da Saúde, E. P. E., devem prosseguir uma política de otimização da estrutura de gastos operacionais que promova o equilíbrio operacional, mediante a adoção, designadamente, das seguintes medidas:
 
@@ -234,12 +248,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - João Rodrigo Reis Carvalho Leão - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Cláudia Sofia de Almeida Gaspar Joaquim - Fernando Manuel Ferreira Araújo - Pedro Manuel Dias de Jesus Marques - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 28 de junho de 2016.**
+Promulgado em 28 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de junho de 2016.**
+Referendado em 30 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

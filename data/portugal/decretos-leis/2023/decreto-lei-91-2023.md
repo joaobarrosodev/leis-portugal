@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19700/0007800085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2023/10/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3c2b3fb7e35506e44b46008b12dc267850c5457f6ed0fafdf7fc2d6f343d0b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e052e957f1600d7a0963d376b8dc7fd294db7dc61edbb40cdb4594d66154b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,34 @@ reuse:
 subjects:
 - Acesso à Informação
 - Amortização
+- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
 - Aquisição de Imóveis
-- Instituição de Crédito
-- Inspeção Geral de Finanças
-- Supervisão Financeira
+- Banco de Portugal
 - Contra-ordenação
 - Contrato de Financiamento
 - Contrato de Mútuo
+- Crédito
 - Crédito à Habitação
+- Crédito Bancário
 - Crédito Bonificado
 - Fiscalização
-- Banco de Portugal
+- Habitação
+- Informação do Consumidor
+- Inspeção Geral de Finanças
+- Instituição de Crédito
+- Instituição Financeira
 - Instituição Financeira de Crédito
-- Publicitação
 - JURO Bonificado
-- Crédito
-- Crédito Bancário
 - Operações de Crédito
 - Página na Internet
 - Política de Crédito
-- Informação do Consumidor
 - Proteção do Consumidor
+- Publicitação
 - Reembolso
-- Habitação
 - Rendimento
-- Instituição Financeira
+- Supervisão Financeira
 - TAXA de JURO
 - TAXA Euribor
-- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
 relationships:
 - type: amended_by
   target: pt:dre:870515825:por
@@ -125,16 +125,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/2023/05/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/2023/05/29/p/dre
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203898270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213650800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:08Z'
   warnings: []
   errors: []
 ---
@@ -325,7 +349,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -343,11 +369,15 @@ b) 75 % do valor apurado nos termos do n.º 3, quando o mutuário tenha uma taxa
 
 6 - Quando o montante mensal da bonificação, apurado nos termos dos números anteriores, for inferior a 10 euros, será este o valor mensal atribuído.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 O montante anual máximo de bonificação, por contrato de crédito, é de 800 euros.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -369,7 +399,9 @@ a) Aplicam medidas acrescidas de diligência, solicitando os documentos e as inf
 
 b) Informam o mutuário de que as entidades responsáveis pela fiscalização do presente decreto-lei podem aceder à informação necessária à confirmação da veracidade das declarações prestadas.
 
-###### Artigo 21.º-A — Fiscalização
+Artigo 21.º-A
+
+Fiscalização
 
 A Inspeção-Geral de Finanças procede à realização de auditorias aos montantes pagos ao abrigo do presente capítulo, incluindo aos contratos de crédito celebrados com os mutuários referidos no artigo 14.º-A.»
 
@@ -395,12 +427,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marina Sola Gonçalves.
 
-**Promulgado em 7 de outubro de 2023.**
+Promulgado em 7 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de outubro de 2023.**
+Referendado em 9 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116934877

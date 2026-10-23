@@ -46,25 +46,28 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/568-1975-307259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7615e3bad76ae6f0fa464463481af75a3db626605833d92bbf8c60bdbea342
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657a75151fddd8b2da23fc79d6db40f3fdcd2df35f0e1773436c78bf3445b7d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão da Empresa
+- Ministério da Justiça
+- Trabalhador por Conta de Outrem
 relationships:
 - type: amended_by
   target: pt:dre:647898:por
@@ -73,13 +76,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:49:56Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +113,6 @@ Ministério da Justiça, 11 de Setembro de 1975. - Pelo Ministro da Justiça, Du
 
 Modelos a que se refere o n.º 2.º da Portaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/09/21800/14371438.pdf))](https://files.diariodarepublica.pt/1s/1975/09/21800/14371438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/21800/14371438.pdf)
 
 Pelo Ministro da Justiça, Duarte Justiniano da Rocha Vidal, Secretário de Estado da Justiça.

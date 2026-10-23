@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/321/2002/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2002-390012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 850d5b8c98406fde2cea04df17ee77a7f4fb26379e97a69bb0b106392ccfcb5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abfb86889469f736d4a6c0258606287c7d7b93b36349b44bd2a737c0684f4567
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,64 @@ reuse:
 subjects:
 - Chiado
 - Definição de Competências
-- Lisboa
 - Fundo Remanescente de Reconstrução do Chiado
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:529450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:269257:por
+  label: "Alterados os arts. 4º, 5º, 8º, 10º, 11º e 19º pelo DEC LEI.115/2004.15.05.2004.MCOTA, DR.IS-A [114] de 15.05.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-2004-269257
+  date: '2004-05-15'
+- type: amended_by
+  target: pt:dre:605323:por
+  label: "Determinado que compete ao Ministro das Cidades, Administração Local, Habitação e Desenvolvimento Regional, definir\
+    \ as orientações quanto à gestão operacional do Fundo, de acordo com o disposto no artigo 20.º, e sem prejuízo das competências\
+    \ conferidas por lei ao Ministro das Finanças e da Administração Pública, pelo DEC LEI.36/2005.17.02.2005.MCALHDR, DR.IS-A\
+    \ [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/36-2005-605323
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:545642:por
+  label: "Extinto o Fundo Remanescente do Chiado pelo DEC LEI.207/2006.27.10.2006.MAOTDR, DR.IS [208] de 27.10.2006, nos termos\
+    \ do disposto no seu art. 24º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/207-2006-545642
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art 24º do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 24º (uma das condições de verificação da extinção do Fundo Remanescente do Chiado) do presente diploma,\
+    \ na redacção do art. 157º da Lei 53-A/2006 de 29-Dez, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: cites
+  target: pt:dre:355098:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:274376:por
+  label: "Rectificado pela DECL-RECT.1-B/2003.2003.01.30.PCM DR.IS-A [26]Supl de 31/Jan/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-b-2003-274376
+  date: '2003-01-30'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:35:28Z'
   warnings: []
   errors: []
 ---
@@ -346,14 +387,14 @@ b) Em 31 de Dezembro de 2008, quando não se tenha verificado a circunstância p
 
 Visto e aprovado em Conselho de Ministros de 29 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta - Isaltino Afonso de Morais.
 
-**Promulgado em 9 de Dezembro de 2002.**
+Promulgado em 9 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 2002.**
+Referendado em 11 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/12/302a00/81888193.pdf)

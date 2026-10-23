@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22fe2a4dabf41387617c32b9e0c0ad357e63b83399b85137845c95aca6b777a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4adacf8d0b02145002f0d382cee81bd440fa9712be81486bf8bddac6fe6eecbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:07:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Admissão de Pessoal
-- Ministério da Ciência Inovação e Ensino Superior
-- Inspeção Geral de Finanças
-- Inspecção Geral das Actividades Culturais
-- Comissão de Serviço
 - Carreira Profissional
+- Comissão de Serviço
+- Estágio de Formação
 - Formas de Provimento
-- Recrutamento de Pessoal
-- Ministério do Trabalho e da Solidariedade Social
-- Remuneração Acessória
-- Inspeção Geral da Defesa Nacional
-- Inspecção Geral das Obras Públicas Transportes e Comunicações
+- Gestão de Recursos Humanos
 - Incompatibilidades
+- Inspeção Geral da Defesa Nacional
+- Inspeção Geral de Finanças
 - Inspecção Geral
 - Inspecção Geral da Administração Local
 - Inspecção Geral da Agricultura e Pescas
 - Inspecção Geral da Ciência Tecnologia e Ensino Superior
 - Inspecção Geral da Educação
+- Inspecção Geral das Actividades Culturais
 - Inspecção Geral das Actividades em Saúde
+- Inspecção Geral das Obras Públicas Transportes e Comunicações
 - Inspecção Geral Diplomática e Consular
-- Integração de Trabalhadores
-- Ministério da Economia e da Inovação
-- Inspecção Geral dos Serviços de Justiça
 - Inspecção Geral do Ambiente e do Ordenamento do Território
+- Inspecção Geral dos Serviços de Justiça
+- Integração de Trabalhadores
+- Ministério da Ciência Inovação e Ensino Superior
+- Ministério da Economia e da Inovação
+- Ministério do Trabalho e da Solidariedade Social
 - Período Experimental
 - Pessoal de Inspecção
-- Estágio de Formação
 - Presidência do Conselho de Ministros
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Remuneração
-- Gestão de Recursos Humanos
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:873447621:por
@@ -143,16 +143,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:145239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668484:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:07:58Z'
   warnings: []
   errors: []
 ---
@@ -463,26 +571,26 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - José Miguel Abreu de Figueiredo Medeiros - Alberto Bernardes Costa - João Manuel Machado Ferrão - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - Idália Maria Marques Salvador Serrão de Menezes Moniz - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 16 de Julho de 2009.**
+Promulgado em 16 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Julho de 2009.**
+Referendado em 17 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (n.º 3 do artigo 3.º)
 
 Estrutura da carreira especial de inspecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)
 
 ## ANEXO II — (n.º 1 do artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)
 
 ## ANEXO III — (n.º 1 do artigo 16.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf))](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/08/14800/0498504990.pdf)

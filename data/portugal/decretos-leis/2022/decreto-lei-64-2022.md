@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/18700/0000300005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2022/09/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aed0eea3cd41a01ded19d8dbd1afe970d176cac5cd96f96067ac603bd3d16c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 337908713c1fd23e773ff192ec86340e00066c7205ad74c8322e288d022c63d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Deficiente
-- Profissão Artística
-- Financiamento
+- Desemprego
 - Entidade Patronal
 - Estatuto
+- Financiamento
 - Política Social
+- Prestação Social para a Inclusão
 - Prestações da Segurança Social
-- Desemprego
-- Protecção à Actividade Artística
+- Profissão Artística
 - Proteção no Desemprego
-- Actividade Artística
+- Protecção à Actividade Artística
 - Segurança Social
+- Subsídio de Suspensão da Atividade Cultural
 - TAXA Contributiva
 - Trabalhador Independente
-- Prestação Social para a Inclusão
-- Subsídio de Suspensão da Atividade Cultural
 relationships:
 - type: amended_by
   target: pt:dre:858167924:por
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/65/2012/03/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/65/2012/03/15/p/dre
+- type: cites
+  target: pt:dre:108269605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:46Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +162,9 @@ Os artigos 30.º, 35.º, 44.º, 47.º, 50.º, 53.º e 75.º do Estatuto dos Prof
 
 3 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -164,7 +182,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +194,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -182,7 +204,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - [...]
 
@@ -200,7 +224,9 @@ e) [...]
 
 8 - [...]
 
-###### Artigo 53.º — Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho
+Artigo 53.º
+
+Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho
 
 1 - [...]
 
@@ -210,7 +236,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 75.º — Prestação social para inclusão
+Artigo 75.º
+
+Prestação social para inclusão
 
 1 - Nas situações em que o profissional da área da cultura com deficiência, titular da prestação social para a inclusão, venha a auferir rendimentos de trabalho decorrentes do exercício de atividade da área da cultura que, em acumulação com a componente base da prestação, sejam superiores ao limiar de acumulação da componente base, é aplicável o regime previsto no [Decreto-Lei n.º 126-A/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), de 6 de outubro, na sua redação atual.
 
@@ -230,12 +258,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de setembro de 2022. - Mariana Guimarães Vieira da Silva - António Manuel Veiga dos Santos Mendonça Mendes - Pedro Adão e Silva Cardoso Pereira - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 23 de setembro de 2022.**
+Promulgado em 23 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de setembro de 2022.**
+Referendado em 23 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115722305

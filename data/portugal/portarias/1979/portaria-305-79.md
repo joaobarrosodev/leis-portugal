@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-1979-381275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b0b94968c6a0b77052c4b8b9836b0e8c5a7fc6497966356a1fa4c9945c34186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9cbd9f81b5d5ce7703cab0e8b89dece772d9bbb3f15748de7dcd68a2fc0f8c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Nacional de Pilotagem dos Portos
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:377910:por
+  label: Rectificada pela DECL.DD7247.08.08.1979.PCM, DR.IS [182] de 08.08.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-377910
+  date: '1979-08-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:55:23Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +131,12 @@ Ministério dos Transportes e Comunicações, 6 de Junho de 1979. - O Secretári
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf))](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/06/14700/14011402.pdf)

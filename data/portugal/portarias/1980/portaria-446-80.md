@@ -47,36 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/446-1980-470381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cce106400581cc052863b40fdf9dc6891ca7072085a4d49dfa9df230e3e4d30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ab610347d2a025a50594db44eaa71507c6af8d6b728317c153b4efc85ba10cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituições de Previdência Social
+- Previdência Social
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO NO DIÁRIO DA REPÚBLICA I SÉRIE, NUMERO 207, DE 8/9/80.\0/80.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:226037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:464423:por
+  label: Rectificada pela DECL.DD6861.22.08.1980.PCM, DR.IS [207] de 08.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-464423
+  date: '1980-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:50Z'
   warnings: []
   errors: []
 ---
@@ -113,10 +145,10 @@ Secretarias de Estado da Reforma Administrativa, do Orçamento, do Trabalho e da
 
 Retribuições mensais do pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)
 
 TABELA B
 
 Retribuições mensais do restante pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf))](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/17500/19311932.pdf)

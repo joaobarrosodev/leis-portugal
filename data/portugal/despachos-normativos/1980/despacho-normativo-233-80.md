@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/233-1980-470202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:01:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 182220d6e54b8b426796a6bf2a42e8ab83afb773212bdb055b19e6e296d8fe27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9492c65efa21ade353a099698b483569a69781ef436d9c968371f05b9a131778
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:01:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Louvor
+- Polícia Judiciária
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:286514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:01:54Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Regulamento de Classificações e Louvores da Polícia Judiciária
 
 ### CAPÍTULO I — Classificações
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Objectivos)
 
@@ -102,7 +118,7 @@ b) Estimular o aperfeiçoamento individual, mediante uma apreciação tanto quan
 
 c) Atribuir ao mérito individual o papel que lhe é devido para efeitos de promoções e de carreira.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Natureza das classificações)
 
@@ -120,7 +136,7 @@ c) A requerimento do interessado, quando sejam indispensáveis para promoção, 
 
 d) Quando, por qualquer motivo, tenham decorrido mais de dois anos sem classificação de serviço.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Sistema de notação)
 
@@ -136,7 +152,7 @@ c) Justiça relativa, tendo presentes no espírito os demais funcionários da me
 
 3 - Os notadores não se deverão deixar influenciar por factos ocorridos fora do período a que se refere a apreciação, cingindo o juízo unicamente ao período de tempo a que respeita.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Competência para classificar)
 
@@ -152,7 +168,7 @@ b) Caberá aos novos notadores, ou do serviço de destino, se a mudança se tive
 
 4 - Em caso de dúvida sobre os funcionários que devam intervir como notadores, decide o director-geral.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Processo de notação)
 
@@ -178,13 +194,13 @@ Grau VIII - 8,5 pontos;
 
 Grau IX - 10 pontos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf)
 
 3 - A apreciação global apresenta uma formulação descritiva, através da emissão de um juízo sobre se há ou não adaptação à função, quais os pontos fortes e fracos do notado e quais os meios de aperfeiçoamento adequados.
 
 Também se emitirá, quando for caso disso, opinião sobre a aptidão do notado para o eventual exercício de funções de categoria superior e de funções de chefia.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Instruções sobre o modo de notar)
 
@@ -192,7 +208,7 @@ Também se emitirá, quando for caso disso, opinião sobre a aptidão do notado 
 
 2 - No caso de a descrição lhe parecer mais próxima do seu próprio juízo acerca do funcionário, mas não inteiramente aplicável, sem, no entanto, cair na descrição vizinha, dispõe o notador de dois graus intermédios que separam as descrições, assinalando num deles a notação, conforme o seu juízo seja mais favorável (rectângulo da direita) ou menos favorável (rectângulo da esquerda).
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Ficha-resumo)
 
@@ -204,7 +220,7 @@ Também se emitirá, quando for caso disso, opinião sobre a aptidão do notado 
 
 Não se chegando a acordo entre os notadores, prevalece a classificação atribuída pelo notador de categoria superior, que tem, assim, voto de qualidade.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Coeficientes de ponderação)
 
@@ -220,13 +236,13 @@ d) Relações humanas e pontualidade - 2.
 
 2 - O parâmetro «qualidades de chefia» será exclusivamente apreciado relativamente a pessoal dirigente, inspectores, subinspectores e pessoal técnico superior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Confidencialidade das apreciações individuais)
 
 Embora constem da ficha-resumo de notação as identidades dos diferentes notadores, os impressos individuais de classificação, a que corresponde o anexo I, são confidenciais.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Tipos de classificação)
 
@@ -244,7 +260,7 @@ d) Regular - quando a pontuação final se situar entre 1,50 e 4,99 pontos;
 
 e) Mau - quando a pontuação final se situar abaixo de 1,50.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Conhecimento ao interessado e reclamações para os notadores)
 
@@ -256,7 +272,7 @@ e) Mau - quando a pontuação final se situar abaixo de 1,50.
 
 4 - No caso de os notadores decidirem manter a sua anterior proposta de classificação, poderá o director-geral solicitar que o processo seja submetido a parecer da Comissão de Classificações e Louvores.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Comissão de Classificações e Louvores)
 
@@ -270,13 +286,13 @@ e) Mau - quando a pontuação final se situar abaixo de 1,50.
 
 5 - Os pareceres da CCL serão tomados por maioria, no prazo de trinta dias úteis após a recepção do pedido de apreciação.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Elementos recolhidos em inspecções)
 
 Os elementos recolhidos nas inspecções ordenadas pelo procurador-geral da República aos serviços da Polícia Judiciária relativos ao mérito ou demérito do pessoal são tidos em conta quer pelos notadores, quer pelo director-geral, no acto da homologação, na classificação de serviço que lhe venha a ser atribuída pela PJ, nos termos do n.º 3 do artigo 135.º do [Decreto-Lei n.º 364/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1977-286514), de 2 de Setembro, na redacção que lhe é dada pelo [Decreto-Lei n.º 96/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1978-296239), de 18 de Maio.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Homologação)
 
@@ -284,13 +300,13 @@ Os elementos recolhidos nas inspecções ordenadas pelo procurador-geral da Rep�
 
 2 - Não concordando com a classificação proposta pelos notadores, o director-geral poderá pedir o parecer da Comissão de Classificações e Louvores ou atribuir, desde logo, por despacho fundamentado, a classificação que considerar adequada.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Efeitos da classificação «Regular»)
 
 A classificação Regular é impeditiva de promoção.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Reclamações e recurso hierárquico)
 
@@ -302,7 +318,7 @@ A classificação Regular é impeditiva de promoção.
 
 ### CAPÍTULO II — Louvores
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1 - O director-geral pode conceder louvores aos funcionários, por sua iniciativa ou mediante proposta.
 
@@ -312,7 +328,7 @@ A classificação Regular é impeditiva de promoção.
 
 4 - O louvor também pode ser atribuído como forma de recompensa pela conduta exemplar de persistente devoção do funcionário pelo serviço, manifestada por tempo não inferior a dez anos.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Proposta de louvor)
 
@@ -320,19 +336,19 @@ A proposta de louvor pode ser apresentada por qualquer superior hierárquico do 
 
 Deverá ser clara e concretamente fundamentada e sugerir a própria redacção final do louvor.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Parecer da CCL)
 
 As propostas de louvor poderão ser presentes pelo director-geral à CCL, a fim de ser emitido parecer devidamente fundamentado.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Publicação do louvor)
 
 Concedido o louvor, será este publicado na Ordem de Serviço da Directoria-Geral, transcrito em todas as restantes Ordens de Serviço e averbado no registo biográfico do funcionário.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 («Crachat» de prata ou de ouro)
 
@@ -340,7 +356,7 @@ Concedido o louvor, será este publicado na Ordem de Serviço da Directoria-Gera
 
 2 - O crachat de prata ou de ouro também pode ser atribuído como forma de recompensa pela conduta exemplar de persistente devoção do funcionário pelo serviço, manifestada por tempo não inferior a vinte anos.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Lacunas e casos duvidosos)
 
@@ -348,4 +364,4 @@ As lacunas e os casos duvidosos do presente regulamento serão resolvidos pelo M
 
 Ministério da Justiça, 8 de Julho de 1980. - O Ministro da Justiça, Mário Ferreira Bastos Raposo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf))](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/17900/20502056.pdf)

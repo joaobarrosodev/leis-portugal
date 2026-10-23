@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23461-1968-272872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d32b1cb384f6f86d914120c1c8200fa763af22c72ad1b1117c0bf7dac99d389
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fc39c685dce80e23f8e2cf8847cc0b83c1ada85c42fc147d7d1c34a5167fbe3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:28Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +104,6 @@ Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Ministério do Ultramar, 3 de Julho de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15600/09530953.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15600/09530953.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15600/09530953.pdf)
 
 Ministério do Ultramar, 3 de Julho de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

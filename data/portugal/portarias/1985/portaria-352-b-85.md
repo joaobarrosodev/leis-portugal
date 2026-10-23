@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 131/1985, 1º Suplemento, Série I de 1985-06-08
   number: '131'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(8) a 1540-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/06/13101/00080009.pdf
 entry_into_force_dates: []
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-b-1985-444441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T08:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 073a94ce8f0df413eb15ec3ce4248c0ebccea550b42fa72300a0deea8f673255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2aee66ffa5201d255e2b41481ff91402e3c534c9023c2b6cd5201e8a0cd80702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Ensino Superior
+- Ensino Superior Politécnico
+- Estabelecimento de Ensino
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:180779:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:285922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:183455:por
+  label: "Revogado o art. 14º da Port. 352-B/85, de 8-Jun, mantendo-se a linha referente ao curso de Relações Internacionais\
+    \ e a nota 3 do anexo IV, pela PORT.477/85.04.07.1985.ME, DR.IS [162] de 17.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1985-183455
+  date: '1985-07-04'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:24:44Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +268,7 @@ Faculdade de Letras da Universidade do Porto.
 
 9.º A coluna 4 do anexo III passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/13101/00080009.pdf))](https://files.diariodarepublica.pt/1s/1985/06/13101/00080009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/13101/00080009.pdf)
 
 10.º Ao quadro 1.5 do anexo I ao Regulamento é introduzido o seguinte aditamento ao Instituto Superior de Engenharia do Porto:
 
@@ -291,6 +322,6 @@ Técnico de agricultura ([Portaria n.º 1056/82](https://diariodarepublica.pt/dr
 
 Ministério da Educação.
 
-**Assinada em 30 de Maio de 1985.**
+Assinada em 30 de Maio de 1985.
 
-**O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.**
+O Ministro da Educação, João de Deus Rogado Salvador Pinheiro.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/313/2007/09/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-2007-640350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb3db08d3009960201ad0809239fecb6721137c2972eac553cc65163f6bc7aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c522c2de98c8d895003468439d3378f8f4eea57f210ed9f3f838e91bb4b2623f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁGUA de REGA
+- Alqueva
 - Aproveitamento Hidroeléctrico
 - Barragem de Pedrógão
-- Central Hidroeléctrica
-- Empreendimento de Fins Múltiplos do Alqueva
-- Contrato de Concessão
-- EDIA
-- Alqueva
 - Barragem do Alqueva
+- Central Hidroeléctrica
+- Contrato de Concessão
 - Domínio Público Hídrico
+- EDIA
+- Empreendimento de Fins Múltiplos do Alqueva
 - Regime Jurídico
 relationships:
 - type: cites
@@ -118,16 +118,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:150915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660968:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:54Z'
   warnings: []
   errors: []
 ---
@@ -252,19 +308,21 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Fernando Pereira Serrasqueiro - Luís Medeiros Vieira.
 
-**Promulgado em 3 de Setembro de 2007.**
+Promulgado em 3 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de Setembro de 2007.**
+Referendado em 4 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Bases da concessão de gestão, exploração e utilização do domínio público hídrico do EFMA
 
-###### Base I — Objecto e âmbito da concessão
+Base I
+
+Objecto e âmbito da concessão
 
 1 - A concessão tem por objecto, em regime de exclusivo, a gestão e exploração do empreendimento de fins múltiplos de Alqueva (EFMA), nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 311/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-2007-640353), de 17 de Setembro, bem como a utilização do domínio público hídrico afecto ao empreendimento de fins múltiplos de Alqueva a que se refere o [Decreto-Lei n.º 42/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2007-517806), de 22 de Fevereiro, nos termos da alínea a) do n.º 3 do artigo 76.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, conforme se encontra delimitado no anexo ii daquele decreto-lei, para fins de rega e exploração hidroeléctrica.
 
@@ -286,11 +344,15 @@ f) Implantação e exploração das infra-estruturas hidráulicas destinadas aos
 
 4 - Integra o objecto da concessão a construção de todas as infra-estruturas necessárias ao aumento de potência das centrais hidroeléctricas de Alqueva e Pedrógão, nos termos e condições fixados no contrato de concessão.
 
-###### Base II — Natureza da concessão
+Base II
+
+Natureza da concessão
 
 A concessão é de gestão e exploração de empreendimento de fins múltiplos e de uso privativo do domínio público hídrico.
 
-###### Base III — Estabelecimento da concessão
+Base III
+
+Estabelecimento da concessão
 
 1 - Integram a concessão:
 
@@ -302,7 +364,9 @@ b) Todas as obras, máquinas, equipamentos e aparelhagens e respectivos acessór
 
 3 - Sem prejuízo do disposto nos números anteriores, podem ser integrados outros bens, os quais devem ser mencionados no contrato de concessão.
 
-###### Base IV — Bens e outros meios afectos à concessão
+Base IV
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, cabendo à concessionária o exercício dos direitos da sua utilização e administração, nos termos do n.º 1 do artigo 9.º do [Decreto-Lei n.º 21-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-a-1998-150915), de 6 de Fevereiro, os bens imóveis adquiridos por via do direito privado ou mediante expropriação que integrem o domínio público do Estado afecto ao EFMA, os recursos hídricos que integram o domínio público hídrico afecto ao EFMA, assim como os bens imóveis que integram o domínio público hídrico afecto ao EFMA.
 
@@ -316,13 +380,17 @@ b) Os direitos privativos de propriedade intelectual e industrial de que a conce
 
 c) A totalidade das relações jurídicas que se encontrem em cada momento necessariamente conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de água, de energia ou de materiais necessários à prossecução das actividades objecto da concessão.
 
-###### Base V — Natureza dos bens afectos à concessão
+Base V
+
+Natureza dos bens afectos à concessão
 
 1 - A água das albufeiras, os seus leitos e margens, assim como as infra-estruturas que integram o sistema primário do empreendimento de fins múltiplos de Alqueva, integram o domínio público do Estado.
 
 2 - A concessionária, no exercício dos poderes de administração do domínio público hídrico concedidos, promove, por si ou por terceiros, a valorização dos bens que integram o mesmo.
 
-###### Base VI — Propriedade dos bens afectos à concessão
+Base VI
+
+Propriedade dos bens afectos à concessão
 
 1 - Sem prejuízo do disposto no n.º 1 da base anterior, enquanto durar a concessão, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam ao Estado.
 
@@ -332,15 +400,21 @@ c) A totalidade das relações jurídicas que se encontrem em cada momento neces
 
 4 - Exceptuam-se do disposto no número anterior os bens cujo uso tenha tornado obsoletos, os que sejam alienados ou abatidos por se terem tornado desnecessários ou substituídos e ainda aqueles que tenham um valor contabilístico inferior a (euro) 25 000.
 
-###### Base VII — Inventário
+Base VII
+
+Inventário
 
 A concessionária elabora e mantém actualizado um inventário do património da concessão.
 
-###### Base VIII — Manutenção dos bens e meios afectos à concessão
+Base VIII
+
+Manutenção dos bens e meios afectos à concessão
 
 A concessionária obriga-se a manter em adequado estado de funcionamento, conservação e segurança os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho.
 
-###### Base IX — Regime da concessão
+Base IX
+
+Regime da concessão
 
 1 - Com o objectivo de assegurar a adequação da concessão às novas exigências de política ambiental e da legislação aplicável, o concedente reserva-se o direito de alterar as condições da sua exploração, nos termos da lei e dos regulamentos.
 
@@ -348,7 +422,9 @@ A concessionária obriga-se a manter em adequado estado de funcionamento, conser
 
 3 - A reposição referida no número anterior é efectuada por compensação directa à concessionária.
 
-###### Base X — Poderes de autoridade
+Base X
+
+Poderes de autoridade
 
 1 - São atribuídas à concessionária as competências para atribuição dos títulos respeitantes às utilizações privativas do domínio público hídrico previstas nas alíneas a) a f) do n.º 2 da base i.
 
@@ -366,7 +442,9 @@ A concessionária obriga-se a manter em adequado estado de funcionamento, conser
 
 8 - A concessionária, no âmbito do exercício das suas competências de atribuição de títulos de utilização dos recursos hídricos e de fiscalização previstas nos números anteriores, fica obrigada a comunicar ao Instituto da Água, I. P., o registo e a caracterização das utilizações dos recursos hídricos para efeito da sua inclusão no Sistema Nacional de Informação dos Títulos de Utilização dos Recursos Hídricos (SNITURH), conforme o disposto no artigo 9.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, bem como a coadjuvar a administração da região hidrográfica competente no desempenho das respectivas atribuições.
 
-###### Base XI — Poderes de administração
+Base XI
+
+Poderes de administração
 
 São atribuídos à concessionária, no âmbito do exercício dos poderes de gestão, exploração e administração do domínio público hídrico afecto ao EFMA, os seguintes poderes:
 
@@ -398,17 +476,23 @@ n) Implementar na área da concessão a rede de monitorização da qualidade da 
 
 o) Definir, nos termos da lei e do contrato de concessão, respeitando os direitos legalmente atribuídos a terceiros, os termos e condições da cessão de exploração das centrais hidroeléctricas, incluindo eventuais reforços de potência, e subconcessão de utilização do domínio público hídrico.
 
-###### Base XII — Prazo
+Base XII
+
+Prazo
 
 A concessão tem a duração de 75 anos contados a partir da data de celebração do contrato de concessão.
 
-###### Base XIII — Caducidade
+Base XIII
+
+Caducidade
 
 1 - O contrato de concessão caduca quando se verificar o fim do prazo da concessão, extinguindo-se as relações contratuais entre as partes, sem prejuízo das disposições que perdurem além daquela data.
 
 2 - No termo da concessão, o Estado entra na posse dos bens da concessionária afectos à concessão, observando-se o disposto no artigo 35.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio.
 
-###### Base XIV — Reversão de bens
+Base XIV
+
+Reversão de bens
 
 1 - A concessionária obriga-se a entregar ao concedente, no termo da concessão, os bens que integram a concessão em adequado estado de conservação e funcionamento, sem prejuízo do normal desgaste decorrente do seu uso para efeitos do contrato de concessão, e livres de quaisquer ónus ou encargos.
 
@@ -416,7 +500,9 @@ A concessão tem a duração de 75 anos contados a partir da data de celebraçã
 
 3 - À reversão dos bens integrantes da concessão, após o seu termo, é aplicável o disposto no artigo 36.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio.
 
-###### Base XV — Direitos da concessionária
+Base XV
+
+Direitos da concessionária
 
 1 - Pela assinatura do contrato de concessão, a concessionária é expressamente investida no direito de gerir e explorar o EFMA e utilizar o domínio público hídrico.
 
@@ -428,7 +514,9 @@ A concessão tem a duração de 75 anos contados a partir da data de celebraçã
 
 5 - A concessionária pode também construir e subconceder todas as infra-estruturas necessárias à exploração das centrais mini-hídricas associadas ao EFMA.
 
-###### Base XVI — Regime económico e financeiro
+Base XVI
+
+Regime económico e financeiro
 
 1 - Pela exploração e utilização privativa do domínio público hídrico para rega é devido pela concessionária o pagamento da taxa de recursos hídricos, fixada nos termos previstos na [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, a que é aplicado o coeficiente previsto no n.º 2 do artigo 5.º
 
@@ -456,27 +544,37 @@ d) 10 % para o Instituto da Água, I. P.
 
 9 - As taxas administrativas devidas pela atribuição dos títulos de utilização a se refere o n.º 1 da base x constituem receita da EDIA.
 
-###### Base XVII — Cauções
+Base XVII
+
+Cauções
 
 Enquanto mantiver a natureza de sociedade anónima de capitais exclusivamente públicos, a concessionária fica dispensada da prestação de quaisquer cauções exigidas pelo [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio.
 
-###### Base XVIII — Fiscalização
+Base XVIII
+
+Fiscalização
 
 O concedente pode fiscalizar a actividade da concessionária nos termos previstos no capítulo ix da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro.
 
-###### Base XIX — Sanções
+Base XIX
+
+Sanções
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão, pode ser aplicada à concessionária multa de (euro) 5000 a (euro) 250 000, consoante a gravidade das infracções e a culpa da concessionária, a qual é aferida em função dos riscos para a segurança, para o ambiente e para a sanidade pública e dos prejuízos resultantes.
 
 2 - A aplicação das sanções previstas no número anterior é feita pelo concedente, após audição da concessionária.
 
-###### Base XX — Responsabilidade civil
+Base XX
+
+Responsabilidade civil
 
 1 - A concessionária responde, nos termos da lei geral, por quaisquer prejuízos causados no exercício das actividades que constituem o objecto da concessão, pela culpa.
 
 2 - A responsabilidade civil da concessionária deve estar coberta por seguro, nos termos a definir por portaria conjunta dos Ministros de Estado e das Finanças, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Base XXI — Força maior
+Base XXI
+
+Força maior
 
 1 - Consideram-se casos de força maior os acontecimentos imprevisíveis cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária.
 
@@ -496,7 +594,9 @@ c) A concessionária fica responsável pelos efeitos da cessação de quaisquer 
 
 6 - A concessionária obriga-se a comunicar, no prazo de 10 dias, a ocorrência de qualquer evento que constitua um caso de força maior ao abrigo do disposto na presente Base, bem como a indicar quais as obrigações emergentes do presente contrato de concessão cujo cumprimento se tornou impossível ou de difícil cumprimento.
 
-###### Base XXII — Controlo de segurança das barragens
+Base XXII
+
+Controlo de segurança das barragens
 
 1 - A concessionária obriga-se a cumprir o estipulado no Regulamento de Segurança de Barragens e nas Portarias n.os [846/93](https://diariodarepublica.pt/dr/detalhe/portaria/846-1993-660967) e [847/93](https://diariodarepublica.pt/dr/detalhe/portaria/847-1993-660968), ambas de 10 de Setembro, e n.º 246/98, de 21 de Abril, bem como todas as outras normas legais ou regulamentares em vigor sobre esta matéria.
 
@@ -518,7 +618,9 @@ g) Em caso de abandono ou demolição, total ou parcial, submeter à aprovação
 
 h) Suportar as despesas originadas com a observação, o controlo de segurança e os estudos considerados indispensáveis pela Autoridade.
 
-###### Base XXIII — Gestão das albufeiras
+Base XXIII
+
+Gestão das albufeiras
 
 1 - A concessionária obriga-se a submeter à aprovação da Comissão de Gestão de Albufeiras criada pelo [Decreto-Lei n.º 21/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1998-223627), de 3 de Fevereiro, o programa de exploração anual das albufeiras do EFMA.
 
@@ -526,7 +628,9 @@ h) Suportar as despesas originadas com a observação, o controlo de segurança 
 
 3 - Na gestão das albufeiras, a concessionária condiciona os usos das águas objecto da concessão ao regime de caudais ecológicos que venha a ser definido para o EFMA.
 
-###### Base XXIV — Procedimentos em situações de emergência
+Base XXIV
+
+Procedimentos em situações de emergência
 
 1 - A concessionária mantém em condições de segurança as barragens e promove, para este efeito, adequadas acções de exploração, manutenção, reparação e reabilitação.
 
@@ -538,13 +642,17 @@ h) Suportar as despesas originadas com a observação, o controlo de segurança 
 
 5 - Em situação de emergência, a concessionária adopta as medidas da sua responsabilidade previstas naqueles planos e colabora com as autoridades do sistema nacional de protecção civil tendo em vista a segurança de pessoas e bens.
 
-###### Base XXV — Revisão da concessão
+Base XXV
+
+Revisão da concessão
 
 1 - O concedente pode rever e modificar o contrato de concessão nas circunstâncias previstas no artigo 28.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, e nos termos estabelecidos no decreto-lei que aprova as presentes bases.
 
 2 - A concessionária pode solicitar a revisão do contrato quando pretenda a modificação do tipo de utilização ou a modificação do tipo, dimensão ou condições da operação realizada na mesma utilização, designadamente em resultado da realização de alterações ou de demolição de infra-estruturas, nos termos previstos no artigo 29.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio.
 
-###### Base XXVI — Revogação da concessão
+Base XXVI
+
+Revogação da concessão
 
 1 - O concedente pode revogar a concessão, mediante resolução do presente contrato, quando tenha ocorrido, de forma grave e reiterada, qualquer dos factos seguintes:
 
@@ -566,7 +674,9 @@ e) Recusa em proceder à adequada conservação e reparação das infra-estrutur
 
 5 - O concedente pode ainda resolver unilateralmente o contrato, antes do prazo, por motivo de interesse público, mediante o pagamento de justa indemnização.
 
-###### Base XXVII — Sequestro
+Base XXVII
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes da concessão, o concedente pode, mediante sequestro, tomar a seu cargo o objecto da concessão.
 
@@ -582,11 +692,15 @@ b) Deficiências graves na organização e regular desenvolvimento das actividad
 
 5 - A concessionária pode optar pela resolução da concessão caso o sequestro se mantenha por seis meses após ter sido restabelecido o normal funcionamento da concessão.
 
-###### Base XXVIII — Lei aplicável
+Base XXVIII
+
+Lei aplicável
 
 O contrato de concessão está sujeito à lei portuguesa, com renúncia da aplicação de qualquer outra.
 
-###### Base XXIX — Arbitragem
+Base XXIX
+
+Arbitragem
 
 1 - Os eventuais conflitos que possam surgir entre as partes em matéria de aplicação, interpretação ou integração das regras do contrato de concessão são resolvidos por arbitragem.
 
@@ -606,7 +720,9 @@ O contrato de concessão está sujeito à lei portuguesa, com renúncia da aplic
 
 9 - O tribunal arbitral tem sede em Portugal e utiliza a língua portuguesa.
 
-###### Base XXX — Cláusulas obrigatórias
+Base XXX
+
+Cláusulas obrigatórias
 
 O contrato de concessão deve estabelecer, designadamente, as seguintes condições e requisitos técnicos, dispensando a aplicação da portaria prevista no n.º 1 do artigo 25.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio:
 

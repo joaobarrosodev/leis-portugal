@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b073d7ed5e7eebb2d20b682e98db2385db013b86f43f33d09b950d781089b17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbd7263c3674f4fa3f53ecfb419218d24a3e7ee4dc4174708a25b00abe08336f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Créditos
+- Assembleia da República
 - Assunção de Dívidas
-- Garantia
-- Sociedade Anónima
 - Cobrança de Impostos
 - Cobrança de Juros
 - Código de Processo Tributário
-- Política Fiscal
 - Competência Própria
 - Contribuições da Segurança Social
+- Crédito
 - Dívidas à Segurança Social
 - Dívidas ao Estado
 - Documentação Administrativa
+- Execução por Dívidas
 - Fazenda Pública
 - Fundo de Desemprego
-- Ministro da Solidariedade e Segurança Social
-- Ministro das Finanças
-- Pagamento
+- Garantia
 - Instituto Público
 - JURO de MORA
-- Títulos de Crédito
-- Crédito
-- Assembleia da República
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
+- Obrigações do Tesouro
+- Pagamento
 - Política Económica
+- Política Fiscal
 - Reconversão de Empresas
-- Execução por Dívidas
 - Setor Empresarial
 - Sigilo Bancário
-- Obrigações do Tesouro
+- Sociedade Anónima
+- Títulos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:310800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:694044:por
+  label: "Alterada a redacção dos art 1, 3, 4, 5, 14 e 15 e aditado o art 17-a pelo Dec-Lei.235-A/96.1996.12.09.MF, DR.IS-A\
+    \ [284]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-a-1996-694044
+  date: '1996-12-09'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alargado o âmbito de aplicação do art. 10º, pelo nº 4 do art. 54º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl\
+    \ (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/225/1994/09/05/p/dre
   label: null
@@ -120,16 +132,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1485-a/1995/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1485-a/1995/12/28/p/dre
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657626:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:248865:por
+  label: "Rectificado pela Decl-Rect.16-D/96.1996.11.29.PCM, DR.IS-A [278]Supl de 1996.11.30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-d-1996-248865
+  date: '1996-11-29'
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:45Z'
   warnings: []
   errors: []
 ---
@@ -414,12 +459,12 @@ O presente diploma entra em vigor em 15 de Setembro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Eduardo Luís Barreto Ferro Rodrigues - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 1 de Agosto de 1996.**
+Promulgado em 1 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, interino, ANTÓNIO DE ALMEIDA SANTOS.**
+O Presidente da República, interino, ANTÓNIO DE ALMEIDA SANTOS.
 
-**Referendado em 2 de Agosto de 1996.**
+Referendado em 2 de Agosto de 1996.
 
 Pelo Primeiro-Ministro, António Manuel de Carvalho Ferreira Vitorino, Ministro da Presidência.

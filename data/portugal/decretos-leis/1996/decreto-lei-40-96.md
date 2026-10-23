@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/1996/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1996-469654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e14bb349ca0931a1f1dd1a917aabc5a7dcae604967ed39bca0bc2ba9e7ea29b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4886039b31189075913b6a5da6cd79b4f391783b64c3eb5e800f3bb77eed3b3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,90 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bilhete de Identidade
-- Modernização Administrativa
 - Certidão
 - Código do Notariado
-- Serviços de Registo e Notariado
 - Conservatória dos Registos Centrais
 - Definição de Competências
 - Direito Probatório
-- Registos e Notariado
 - Informatização
-- Serviço Público
+- Modernização Administrativa
 - Reconhecimento Notarial
+- Registos e Notariado
+- Serviço Público
+- Serviços de Registo e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:456492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145862:por
+  label: "Alterados, a partir de 25.12.1996, os arts. 4º, 10º, 153º e 198º do Código do Notariado, aprovado pelo Dec-Lei 207/95\
+    \ de 14-Ago, na redacção do presente diploma, pelo DEC LEI.250/96.24.12.1996.MJ, DR.IS-A [297] de 24.12.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/250-1996-145862
+  date: '1996-12-24'
+- type: amended_by
+  target: pt:dre:631838:por
+  label: "Alterado o art. 80º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.237/2001.30.08.2001.MJ, DR.IS-A [201] de 30.08.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2001-631838
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 70º, 71º, 73º a 79º, 92º, 99º e 131º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago\
+    \ e alterado pelo presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ,DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:457217:por
+  label: "Alterado o art. 80º do Código do Notariado, aprovado pelo Dec Lei 207/95 de 14-Ago, com a redacção do presente diploma,\
+    \ pelo DEC LEI.2/2005.04.01.2005.MJ, DR.IS-A [2] de 04.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2005-457217
+  date: '2005-01-04'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 80º do Código do Notariado aprovado pelo Dec Lei 207/95 de 14-Ago, na redacção do presente diploma,\
+    \ pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado, sem prejuízo do disposto no art. 21.º , o art. 187.º do Código do Notariado, aprovado pelo Dec Lei 207/95,\
+    \ de 14-Ago, na redacção do presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterado o art. 80º e revogadas as al.s c), e) e h) a l) do nº 2 do art. 80º do Código do Notariado, aprovado pelo\
+    \ Dec Lei 207/95, de 14-Ago, na redacção do presente diploma, pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/207/1995/08/14/p/dre
+- type: cites
+  target: pt:dre:478043:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:300266:por
+  label: "Rectificado o presente diploma [na parte que confere nova redacção à al. b) do n.º 2 do art. 153.º do Código do\
+    \ Notariado, aprovado pelo Dec Lei 207/95, de 14-Ago] pela DECL-RECT.10-A/96.31.05.1996.PCM, DR.IS-A [127-2ºSupl] de 31.05.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-a-1996-300266
+  date: '1996-05-31'
 article_structure:
-  article_count: 10
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:18Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +216,9 @@ n) ...
 
 4 - ...
 
-###### Artigo 10.º — Desdobramento de livros
+Artigo 10.º
+
+Desdobramento de livros
 
 1 - ...
 
@@ -174,7 +230,9 @@ n) ...
 
 5 - (O actual n.º 4.)
 
-###### Artigo 17.º — Livro de registo de contas de emolumentos e de selo
+Artigo 17.º
+
+Livro de registo de contas de emolumentos e de selo
 
 ...
 
@@ -182,7 +240,9 @@ a) ...
 
 b) Ao registo dos actos para os quais, por força de isenção total de encargos ou de gratuitidade, não deva ser organizada conta, anotando-se essa circunstância numa coluna, à margem do registo.
 
-###### Artigo 80.º — Exigência de escritura
+Artigo 80.º
+
+Exigência de escritura
 
 1 - ...
 
@@ -212,7 +272,9 @@ l) O arrendamento para comércio, indústria ou profissão liberal e os arrendam
 
 m) O trespasse e a locação de estabelecimento comercial e industrial.
 
-###### Artigo 133.º — Forma
+Artigo 133.º
+
+Forma
 
 1 - ...
 
@@ -226,7 +288,9 @@ m) O trespasse e a locação de estabelecimento comercial e industrial.
 
 6 - Quando não seja oficiosamente efectuado, o averbamento pode realizar-se a pedido de qualquer interessado, depois de se verificar que os dois actos estão nas condições previstas nos artigos 131.º e 132.º
 
-###### Artigo 153.º — Espécies
+Artigo 153.º
+
+Espécies
 
 1 - ...
 
@@ -240,19 +304,25 @@ b) Com a assinatura aposta no bilhete de identidade ou documento equivalente emi
 
 4 - ...
 
-###### Artigo 185.º — Verbetes estatísticos
+Artigo 185.º
+
+Verbetes estatísticos
 
 1 - ...
 
 2 - Em cada instrumento do qual deva ser extraído verbete estatístico lança-se, por algarismos, a indicação do verbete ou dos verbetes que lhe correspondam, rubricando-se tal nota.
 
-###### Artigo 187.º — Remessa de fichas e cópias de registos à Conservatória dos Registos Centrais
+Artigo 187.º
+
+Remessa de fichas e cópias de registos à Conservatória dos Registos Centrais
 
 1 - (O actual artigo.)
 
 2 - A remessa a que se refere a alínea c) do número anterior passará a fazer-se em suporte informático, por determinação do director-geral dos Registos e do Notariado.
 
-###### Artigo 198.º — Selos dos livros
+Artigo 198.º
+
+Selos dos livros
 
 1 - ...
 
@@ -282,12 +352,12 @@ Conferência de fotocópias
 
 Visto e aprovado em Conselho de Ministros de 28 de Março de 1996. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 17 de Abril de 1996.**
+Promulgado em 17 de Abril de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1996.**
+Referendado em 22 de Abril de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

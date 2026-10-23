@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-1984-660145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T08:03:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f9e6474bd956a1a675b0f78895fda925aac05932046962497b7c5353490112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7d14c84473b50f5191680978ccfddb825d50d5796e43dd80041080bc6a0b459
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:03:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Registo Comercial
+- Registos e Notariado
+relationships:
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:347298:por
+  label: Rectificada pela DECL.DD2041.1984.02.13.PCM DR.IS [51]2ºSupl de 29/Fev/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-347298
+  date: '1984-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:03:30Z'
   warnings: []
   errors: []
 ---
@@ -94,8 +105,8 @@ Manda o Governo da República Portuguesa, pelo Ministro da Justiça, nos termos 
 
 Ministério da Justiça.
 
-**Assinada em 3 de Janeiro de 1984.**
+Assinada em 3 de Janeiro de 1984.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01600/02260227.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01600/02260227.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01600/02260227.pdf)

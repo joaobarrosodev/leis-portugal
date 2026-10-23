@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/40/2007/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-2007-520043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:30:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d95480c4ab971f98e09902e74786d02cdfdc7ef1bed2689301b73f31ac080988
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 910a4b748f6959c0f792b10312240ad93b13693ac21ab78c57291483b697ccc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Infraestrutura Turística
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
 - Regulamento
-- Infraestrutura Turística
 relationships:
+- type: amended_by
+  target: pt:dre:1500240:por
+  label: "Tornado público ter sido aprovada, por deliberação da Assembleia Municipal de Loulé, a alteração, por adaptação,\
+    \ dos arts. 14º, 29º e 33º do Regulamento do Plano Diretor Municipal de Loulé, ratificado pela Res 81/95 de 24 de ago\
+    \ da PCM, com as alterações introduzidas pelo presente diploma, pelo AV.10590/2013.27.08.2013.MLOULÉ, DR.IIS [164] de\
+    \ 27.08.2013AV.10590/2013.27.08.2013.MLOULÉ, DR.IIS [164] de 27.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10590-2013-1500240
+  date: '2013-08-27'
+- type: amended_by
+  target: pt:dre:107617677:por
+  label: Torna público ter sido mantida em vigor a suspensão parcial do Plano Diretor Municipal de Loulé, aprovada pelo presente
+    diploma, pelo(a) Aviso n.º 7430/2017 - Diário da República n.º 126/2017, Série II de 2017-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7430-2017-107617677
+  date: '2017-07-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/2005/11/08/p/dre
   label: null
@@ -100,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/95/2005/05/24/p/dre
+- type: cites
+  target: pt:dre:222033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583190:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:30:36Z'
   warnings: []
   errors: []
 ---
@@ -172,14 +214,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - João Manuel Machado Ferrão.
 
-**Promulgado em 19 de Março de 2007.**
+Promulgado em 19 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 21 de Março de 2007.**
+Referendado em 21 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/06900/22262228.pdf))](https://files.diariodarepublica.pt/1s/2007/04/06900/22262228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/06900/22262228.pdf)

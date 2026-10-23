@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/007a00/01120113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2004/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2004-241186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78381f97be0552ddff5cac02c40c4b78a94a0c4ea1392a3db49a1ddd258f8a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f664cae462f756e1947603baaeaa828f63321a25e9664f1e2d00f1d21dc5bfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Transporte Aéreo
 - Aviação Civil
 - Segurança Aérea
 - Taxa
 - Taxa Aeroportuária
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:190615:por
@@ -85,16 +85,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/102/1991/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/102/1991/03/08/p/dre
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 102/91, de 08-mar, na redação do presente diploma e do Dec Lei 208/2004, de 19-ago, pelo DEC\
+    \ LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
-  article_count: 3
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:05Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +147,7 @@ b) A que constitui contrapartida da instalação e manutenção dos sistemas de 
 
 4 - As importâncias devidas a título de taxa de segurança, nos termos dos números anteriores, são cobradas pelos transportadores no acto de emissão do bilhete ou de cobrança do respectivo preço, devendo estar claramente identificadas naquele.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - A componente da taxa de segurana a que se refere a alínea a) do n.º 3 do artigo 2.º constitui receita do Instituto Nacional da Aviação Civil.
 
@@ -149,7 +155,7 @@ b) A que constitui contrapartida da instalação e manutenção dos sistemas de 
 
 3 - As condições e o prazo de entrega das importâncias cobradas pelos transportadores, nos termos do artigo 2.º, às entidades referidas nos números anteriores são definidos por despacho do Ministro das Obras Públicas, Transportes e Habitação.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - O montante a que se refere a alínea a) do n.º 3 do artigo 2.º e a sua distribuição pelas entidades responsáveis pela segurança da aviação civil são, anualmente, estabelecidos por portaria conjunta dos Ministros das Finanças, da Administração Interna e das Obras Públicas, Transportes e Habitação.
 
@@ -157,12 +163,12 @@ b) A que constitui contrapartida da instalação e manutenção dos sistemas de 
 
 Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Fereira Leite - António Jorge de Figueiredo Lopes - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 22 de Dezembro de 2003.**
+Promulgado em 22 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Dezembro de 2003.**
+Referendado em 29 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

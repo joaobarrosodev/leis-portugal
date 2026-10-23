@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0002700042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2025/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2025-912066244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec8749f9cdecd024de8f65572b111c1657de162fd7bc1296cd83cf5acdd798e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43e541b7dac763613077d51f3b5214e6887801fd05b4e2149e394c9473409a97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Empresa
 - Código do IRS
 - Código do IVA
-- IVA
+- Empresa
 - Isenção Fiscal
+- IVA
 - Transacção Intracomunitária
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:147/2003
+  label: Altera, a partir de 29 de março de 2025, o artigo 4.º do regime de bens em circulação, aprovado em anexo ao Decreto-Lei
+    n.º 147/2003, de 11 de julho, Diário da República n.º 158/2003, Série I-A
+  source: null
+  date: '2003-07-11'
+- type: amends
+  target: pt:numero:decreto-lei:71/2013
+  label: Altera, a partir de 29 de março de 2025, o artigo 1.º do Regime de IVA de caixa, aprovado em anexo ao Decreto-Lei
+    n.º 71/2013, de 30 de maio, Diário da República n.º 104/2013, Série I
+  source: null
+  date: '2013-05-30'
 - type: cites
   target: celex:32006L0112
   label: null
@@ -126,20 +138,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140950562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908471610:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0112
   label: null
   source: null
 article_structure:
-  article_count: 33
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:11Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +238,7 @@ No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 16/2
 
 1 - O presente decreto-lei transpõe parcialmente, para a ordem jurídica interna, o artigo 1.º da Diretiva (UE) [2020/285](http://data.europa.eu/eli/dir/2020/285/oj?locale=pt), do Conselho, de 18 de fevereiro de 2020, que altera a [Diretiva 2006/112/CE](http://data.europa.eu/eli/dir/2006/112/oj?locale=pt) relativa ao sistema comum do imposto sobre o valor acrescentado no que respeita ao regime especial das pequenas empresas e o [Regulamento (UE) n.º 904/2010](http://data.europa.eu/eli/reg/2010/904/oj?locale=pt) no que respeita à cooperação administrativa e à troca de informações para efeitos do controlo da correta aplicação do regime especial das pequenas empresas, e o artigo 2.º da [Diretiva (UE) 2022/542](http://data.europa.eu/eli/dir/2022/542/oj?locale=pt), do Conselho, de 5 de abril de 2022, que altera as Diretivas [2006/112/CE](http://data.europa.eu/eli/dir/2006/112/oj?locale=pt) e (UE) [2020/285](http://data.europa.eu/eli/dir/2020/285/oj?locale=pt) no que diz respeito às taxas do imposto sobre o valor acrescentado, alterando o Código do Imposto sobre o Valor Acrescentado (Código do IVA), aprovado em anexo ao [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de dezembro, na sua redação atual, o Regime do IVA nas Transações Intracomunitárias, aprovado pelo [Decreto-Lei n.º 290/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1992-621714), de 28 de dezembro, na sua redação atual, e a legislação complementar relativa a este imposto e, ainda, o Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de novembro, na sua redação atual, no âmbito do regime de isenção de IVA aplicável às pequenas empresas.
 
-2 - O presente decreto-lei altera, ainda, o regime de contabilidade de caixa em sede de imposto sobre o valor acrescentado (regime de IVA de caixa), aprovado em anexo ao [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.<sup>os</sup>[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro.
+2 - O presente decreto-lei altera, ainda, o regime de contabilidade de caixa em sede de imposto sobre o valor acrescentado (regime de IVA de caixa), aprovado em anexo ao [Decreto-Lei n.º 71/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2013-513603), de 30 de maio, alterado pelas Leis n.os[83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), de 31 de dezembro, e [82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro.
 
 ###### Artigo 2.º — Alteração ao Código do IVA
 
@@ -212,7 +268,9 @@ vi) [...]
 
 2 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -228,7 +286,7 @@ vi) [...]
 
 a) [...]
 
-b) O sujeito passivo passe a realizar exclusivamente operações isentas sem direito à dedução, em virtude do disposto no n.º 3 do artigo 12.º ou nos n.<sup>os</sup>3 e 5 do artigo 55.º;
+b) O sujeito passivo passe a realizar exclusivamente operações isentas sem direito à dedução, em virtude do disposto no n.º 3 do artigo 12.º ou nos n.os3 e 5 do artigo 55.º;
 
 c) [...]
 
@@ -236,7 +294,9 @@ c) [...]
 
 8 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -258,7 +318,9 @@ c) Transmissões de bens e prestações de serviços efetuadas por sujeitos pass
 
 7 - [...]
 
-###### Artigo 53.º — Âmbito de aplicação no território nacional
+Artigo 53.º
+
+Âmbito de aplicação no território nacional
 
 1 - Beneficiam da isenção do imposto os sujeitos passivos com sede ou domicílio em território nacional que, não praticando operações de exportação ou atividades conexas, não tenham atingido, no ano civil anterior, um volume de negócios anual em território nacional superior a 15 000 (euro).
 
@@ -282,7 +344,9 @@ a) Aos sujeitos passivos que pratiquem uma só operação tributável, nas condi
 
 b) Às transmissões intracomunitárias de meios de transporte novos.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Se, verificados os condicionalismos previstos no artigo anterior, os sujeitos passivos não isentos estabelecidos em território nacional pretenderem a aplicação do regime nele estabelecido, devem apresentar a declaração a que se refere o artigo 32.º
 
@@ -292,7 +356,9 @@ b) Às transmissões intracomunitárias de meios de transporte novos.
 
 4 - [...]
 
-###### Artigo 55.º — Opção pelo regime de tributação
+Artigo 55.º
+
+Opção pelo regime de tributação
 
 1 - Os sujeitos passivos suscetíveis de beneficiar da isenção do imposto nos termos do n.º 1 do artigo 53.º podem a ela renunciar e optar pela aplicação do imposto às suas operações tributáveis ou, no caso de serem retalhistas, pelo regime especial previsto no artigo 60.º
 
@@ -304,7 +370,9 @@ b) Às transmissões intracomunitárias de meios de transporte novos.
 
 5 - [...]
 
-###### Artigo 56.º — Impedimentos
+Artigo 56.º
+
+Impedimentos
 
 1 - (Revogado.)
 
@@ -314,17 +382,21 @@ a) Nos 12 meses seguintes ao da cessação, quando estando enquadrados num regim
 
 b) No ano seguinte ao da cessação, quando reiniciem essa ou outra atividade e que, se não tivessem declarado a cessação, seriam enquadrados, por força da alínea a) do n.º 2 do artigo 58.º, no regime normal.
 
-###### Artigo 57.º — Obrigações declarativas e de faturação
+Artigo 57.º
+
+Obrigações declarativas e de faturação
 
 1 - Sem prejuízo do disposto no artigo seguinte, os sujeitos passivos isentos nos termos do n.º 1 do artigo 53.º devem cumprir o disposto nas alíneas a) e b) do n.º 1 do artigo 29.º
 
 2 - As faturas emitidas pelos sujeitos passivos referidos no número anterior no exercício da sua atividade devem sempre conter a menção ‘IVA - regime de isenção’.
 
-###### Artigo 58.º — Cessação do regime de isenção e período em que passa a ser devido o imposto
+Artigo 58.º
+
+Cessação do regime de isenção e período em que passa a ser devido o imposto
 
 1 - (Revogado.)
 
-2 - Os sujeitos passivos referidos nos n.<sup>os</sup>1 e 2 do artigo 53.º, deixam de poder beneficiar do regime de isenção, se:
+2 - Os sujeitos passivos referidos nos n.os1 e 2 do artigo 53.º, deixam de poder beneficiar do regime de isenção, se:
 
 a) No ano civil anterior tiverem atingido um volume de negócios em território nacional superior ao limiar de isenção previsto no n.º 1 do artigo 53.º;
 
@@ -354,13 +426,15 @@ b) No prazo de 15 dias úteis a contar do momento em que, no ano civil em curso,
 
 c) No prazo de 15 dias úteis a contar do momento em que se deixar de verificar qualquer das demais condições referidas no n.º 1 do artigo 53.º
 
-6 - Quando deixarem de se verificar as condições de aplicação do regime de isenção referidas nos n.<sup>os</sup>2 ou 3, os sujeitos passivos não estabelecidos em território nacional devem comunicar as alterações verificadas ao Estado-Membro de estabelecimento, nos termos definidos na respetiva legislação interna.
+6 - Quando deixarem de se verificar as condições de aplicação do regime de isenção referidas nos n.os2 ou 3, os sujeitos passivos não estabelecidos em território nacional devem comunicar as alterações verificadas ao Estado-Membro de estabelecimento, nos termos definidos na respetiva legislação interna.
 
 7 - Quando a Autoridade Tributária e Aduaneira proceder à fixação por métodos indiretos de um rendimento tributável em sede de IRS ou de IRC baseado em volume de negócios superior ao limite de isenção, procede à notificação do sujeito passivo para, no prazo de 15 dias úteis, com base no volume de negócios que considerou realizado, apresentar a declaração a que se refere o artigo 31.º ou artigo 32.º, conforme os casos, ou, se aplicável, exercer a opção prevista no artigo 2.º dos regimes especiais, constantes do anexo i à [Lei n.º 47/2020](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), de 24 de agosto.
 
 8 - Na situação referida no número anterior, é devido imposto com referência às operações efetuadas pelos sujeitos passivos a partir do mês seguinte àquele em que se torne obrigatória a entrega das declarações referidas nos artigos 31.º ou 32.º
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos artigos 57.º, 58.º, 58.º-B e 58.º-C, os sujeitos passivos isentos nos termos do n.º 1 do artigo 53.º estão dispensados das demais obrigações previstas no presente diploma.
 
@@ -368,13 +442,17 @@ c) No prazo de 15 dias úteis a contar do momento em que se deixar de verificar 
 
 3 - Não obstante o disposto no número anterior, os estabelecimentos estáveis em território nacional de sujeitos passivos com sede num Estado-Membro da União Europeia, isentos nos termos do n.º 2 do artigo 53.º, devem cumprir o disposto nas alíneas a), b) e g) do n.º 1 do artigo 29.º
 
-###### Artigo 59.º-A — [...]
+Artigo 59.º-A
+
+[...]
 
 1 - Podem beneficiar do presente regime os produtores agrícolas com sede ou domicílio em território nacional que, reunindo as condições de inclusão no regime de isenção previsto no artigo 53.º, efetuem transmissões de produtos agrícolas, e, bem assim, prestações de serviços agrícolas de acordo com as disposições seguintes.
 
 2 - [...]
 
-###### Artigo 59.º-B — [...]
+Artigo 59.º-B
+
+[...]
 
 1 - Os sujeitos passivos abrangidos pelo n.º 1 do artigo 53.º que optem pelo presente regime beneficiam da isenção de imposto, podendo ainda solicitar à Autoridade Tributária e Aduaneira uma compensação calculada sobre o preço, determinado de acordo com as regras previstas no artigo 16.º, dos seguintes bens e serviços:
 
@@ -394,13 +472,15 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 59.º-D — [...]
+Artigo 59.º-D
+
+[...]
 
 1 - Sem prejuízo do disposto nos números seguintes, os sujeitos passivos enquadrados no presente regime estão sujeitos às obrigações aplicáveis aos beneficiários do regime de isenção previsto no n.º 1 do artigo 53.º
 
 2 - [...]
 
-3 - Quando deixarem de se verificar as condições de aplicação do regime, os sujeitos passivos são obrigados a apresentar a declaração de alterações prevista no artigo 32.º, nos termos e prazos previstos nos n.<sup>os</sup>5 e 7 do artigo 58.º ou, no prazo de 15 dias úteis a contar do momento em que deixem de realizar as atividades referidas no n.º 1 do artigo 59.º-A.
+3 - Quando deixarem de se verificar as condições de aplicação do regime, os sujeitos passivos são obrigados a apresentar a declaração de alterações prevista no artigo 32.º, nos termos e prazos previstos nos n.os5 e 7 do artigo 58.º ou, no prazo de 15 dias úteis a contar do momento em que deixem de realizar as atividades referidas no n.º 1 do artigo 59.º-A.
 
 4 - Sempre que a Autoridade Tributária e Aduaneira disponha de indícios seguros de que um sujeito passivo deixou de realizar as atividades referidas no n.º 1 do artigo 59.º-A, procede à sua notificação para apresentar a declaração prevista no artigo 32.º, no prazo de 15 dias úteis, com base nos elementos verificados.
 
@@ -408,11 +488,15 @@ c) [...]
 
 6 - Nos casos em que o sujeito passivo deixe de realizar as atividades referidas no n.º 1 do artigo 59.º-A, a aplicação do regime forfetário cessa a partir desse momento.
 
-###### Artigo 59.º-E — [...]
+Artigo 59.º-E
+
+[...]
 
 Em tudo o que não se mostre contrário ao presente regime, aplicam-se, com as devidas adaptações, as disposições dos artigos 52.º-A a 59.º
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 53.º, os retalhistas que sejam pessoas singulares, não possuam nem sejam obrigados a possuir contabilidade organizada para efeitos do IRS e não tenham tido no ano civil anterior um volume de compras superior a (euro) 50 000, para apurar o imposto devido ao Estado, aplicam um coeficiente de 25 % ao valor do imposto suportado nas aquisições de bens destinados a vendas sem transformação.
 
@@ -432,17 +516,23 @@ Em tudo o que não se mostre contrário ao presente regime, aplicam-se, com as d
 
 9 - [...]
 
-###### Artigo 81.º — Volume de negócios dos sujeitos passivos que pratiquem operações isentas sem direito a dedução
+Artigo 81.º
+
+Volume de negócios dos sujeitos passivos que pratiquem operações isentas sem direito a dedução
 
 Os sujeitos passivos que pratiquem operações isentas, sem direito à dedução, e desenvolvam simultaneamente uma atividade tributada ou isenta com direito à dedução, calculam o seu volume de negócios, para efeitos do disposto nos artigos 42.º e 53.º, tomando em conta apenas os resultados relativos à atividade com direito à dedução.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
 
-As notificações referidas nos n.<sup>os</sup>1 do artigo 28.º, 4 e 6 do artigo 35.º, 7 do artigo 41.º, 5 do artigo 55.º, 7 do artigo 58.º, 5 do artigo 63.º, no artigo 91.º e no n.º 3 do artigo 94.º, bem como as decisões a que se referem o n.º 8 do artigo 58.º-A e o n.º 4 do artigo 60.º, são efetuadas nos termos do Código de Procedimento e de Processo Tributário.
+[...]
 
-###### Artigo 83.º — [...]
+As notificações referidas nos n.os1 do artigo 28.º, 4 e 6 do artigo 35.º, 7 do artigo 41.º, 5 do artigo 55.º, 7 do artigo 58.º, 5 do artigo 63.º, no artigo 91.º e no n.º 3 do artigo 94.º, bem como as decisões a que se referem o n.º 8 do artigo 58.º-A e o n.º 4 do artigo 60.º, são efetuadas nos termos do Código de Procedimento e de Processo Tributário.
 
-1 - Das decisões a que se referem os n.<sup>os</sup>3 do artigo 35.º, 7 do artigo 41.º, 5 do artigo 55.º, 7 do artigo 58.º, 8 do artigo 58.º-A, 4 do artigo 60.º e 5 do artigo 63.º, pode o sujeito passivo recorrer hierarquicamente, nos termos do Código de Procedimento e de Processo Tributário.
+Artigo 83.º
+
+[...]
+
+1 - Das decisões a que se referem os n.os3 do artigo 35.º, 7 do artigo 41.º, 5 do artigo 55.º, 7 do artigo 58.º, 8 do artigo 58.º-A, 4 do artigo 60.º e 5 do artigo 63.º, pode o sujeito passivo recorrer hierarquicamente, nos termos do Código de Procedimento e de Processo Tributário.
 
 2 - Podem ainda recorrer hierarquicamente, nos termos do Código de Procedimento e de Processo Tributário:
 
@@ -562,19 +652,23 @@ b) ‘Volume de negócios anual na União Europeia’, o valor total anual das t
 
 c) ‘Sujeito passivo estabelecido em território nacional’, um sujeito passivo com sede ou domicílio em território nacional.
 
-###### Artigo 52.º-B — Volume de negócios
+Artigo 52.º-B
+
+Volume de negócios
 
 1 - Para efeitos do regime de isenção, o volume de negócios do sujeito passivo é constituído pelos seguintes montantes, líquidos de IVA:
 
 a) Transmissões de bens e prestações de serviços, que seriam tributadas se efetuadas por um sujeito passivo não isento;
 
-b) Transmissões de bens e prestações de serviços isentas nos termos do artigo 14.º, das alíneas b), c), d) e e) do n.º 1 e dos n.<sup>os</sup>8 e 10 do artigo 15.º e do artigo 14.º do Regime do IVA nas Transações Intracomunitárias;
+b) Transmissões de bens e prestações de serviços isentas nos termos do artigo 14.º, das alíneas b), c), d) e e) do n.º 1 e dos n.os8 e 10 do artigo 15.º e do artigo 14.º do Regime do IVA nas Transações Intracomunitárias;
 
-c) Operações referidas nos n.<sup>os</sup>27 a 30 do artigo 9.º, exceto quando constituam operações acessórias.
+c) Operações referidas nos n.os27 a 30 do artigo 9.º, exceto quando constituam operações acessórias.
 
 2 - As operações sobre bens de investimento corpóreos e incorpóreos dos sujeitos passivos não são tomadas em consideração para determinar o volume de negócios a que se refere o número anterior.
 
-###### Artigo 58.º-A — Aplicação do regime de isenção em outros Estados-Membros
+Artigo 58.º-A
+
+Aplicação do regime de isenção em outros Estados-Membros
 
 1 - Os sujeitos passivos com sede ou domicílio em território nacional podem beneficiar do regime de isenção para as pequenas empresas noutros Estados-Membros, nas transmissões de bens e prestações de serviços aí realizadas, quando estejam preenchidas as seguintes condições:
 
@@ -612,7 +706,9 @@ b) A partir da data em que o número individual de identificação é confirmado
 
 8 - Salvo em situações específicas, a fim de prevenir a evasão ou elisão fiscal, a Autoridade Tributária e Aduaneira atribui, confirma ou indefere o pedido de atribuição do número individual de identificação referido na alínea d) do n.º 1 até 35 dias úteis após a receção da notificação prévia ou da atualização da notificação prévia.
 
-###### Artigo 58.º-B — Declaração trimestral
+Artigo 58.º-B
+
+Declaração trimestral
 
 1 - Os sujeitos passivos que utilizem a faculdade referida no artigo anterior, devem submeter, por via eletrónica, uma declaração trimestral, contendo as seguintes informações:
 
@@ -634,7 +730,9 @@ c) O valor total das transmissões de bens e prestações de serviços efetuadas
 
 7 - As taxas de câmbio a utilizar são as do dia referido no número anterior publicadas pelo Banco Central Europeu ou, quando não haja publicação nesse dia, do dia de publicação seguinte.
 
-###### Artigo 58.º-C — Outras obrigações
+Artigo 58.º-C
+
+Outras obrigações
 
 1 - Os sujeitos passivos que utilizem a faculdade referida no artigo 58.º-A são ainda obrigados a comunicar, por via eletrónica, à Autoridade Tributária e Aduaneira:
 
@@ -652,9 +750,11 @@ d) No prazo de 15 dias úteis, que o limiar do volume de negócios anual na Uni�
 
 4 - Nas situações referidas na alínea d) do n.º 1, o sujeito passivo deve, no mesmo prazo, submeter a declaração referida no artigo 58.º-B, indicando o valor das transmissões de bens e prestações de serviços que tenham sido efetuadas entre o início do trimestre civil em curso e a data em que tenha sido excedido o limiar do volume de negócios anual na União Europeia.
 
-###### Artigo 58.º-D — Desativação do número individual de identificação ou atualização da informação associada
+Artigo 58.º-D
 
-A Autoridade Tributária e Aduaneira procede à desativação do número individual de identificação referido na alínea d) do n.º 1 do artigo 58.º-A ou, se o sujeito passivo continuar a beneficiar da isenção noutro ou noutros Estados-Membros, atualiza as informações recebidas nos termos dos n.<sup>os</sup>2 e 5 do artigo 58.º-A e do n.º 1 do artigo 58.º-C, no que respeita ao Estado-Membro ou Estados-Membros em causa, nos seguintes casos:
+Desativação do número individual de identificação ou atualização da informação associada
+
+A Autoridade Tributária e Aduaneira procede à desativação do número individual de identificação referido na alínea d) do n.º 1 do artigo 58.º-A ou, se o sujeito passivo continuar a beneficiar da isenção noutro ou noutros Estados-Membros, atualiza as informações recebidas nos termos dos n.os2 e 5 do artigo 58.º-A e do n.º 1 do artigo 58.º-C, no que respeita ao Estado-Membro ou Estados-Membros em causa, nos seguintes casos:
 
 a) Quando o valor total das transmissões de bens e das prestações de serviços comunicadas pelo sujeito passivo excede o montante referido na alínea b) do n.º 1 do artigo 58.º-A;
 
@@ -704,12 +804,14 @@ São revogados o n.º 3 do artigo 54.º, o n.º 1 do artigo 56.º, o n.º 1 do a
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento.
 
-**Promulgado em 14 de março de 2025.**
+Promulgado em 14 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 18 de março de 2025.**
+Referendado em 18 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118839113

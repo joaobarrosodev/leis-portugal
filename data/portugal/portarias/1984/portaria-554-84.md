@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/08/17800/23712371.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/554-1984-381543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T08:07:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70bf2347a08d76e329adaaf8e5c908cf98123be325e3534fb580d9b6e06f4fc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b10fca9c8cbbd88cf4fd7add0da7b2a61b022ad423d15ed35472e3f96ee6de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:07:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Divisa
+- Exportação de Capitais
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:171535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:180199:por
+  label: "Alterados os limites fixados no n.º 1.º da Portaria n.º 384/80, de 9 de Julho, actualizados no n.º 1.º do presente\
+    \ diploma, pelo AV.DD1159.03.08.1985.MFP, DR.IS [177] de 03.08.1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1985-180199
+  date: '1985-08-03'
+- type: cites
+  target: pt:dre:471885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:171535:por
+  label: "Revogada pela PORT.839/85.07.11.1985.MFP, DR.IS [256] de 07.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-1985-171535
+  date: '1985-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:07:34Z'
   warnings: []
   errors: []
 ---
@@ -109,6 +127,6 @@ c) Pessoas de idade inferior a 12 anos - 30000$00.
 
 Ministério das Finanças e do Plano.
 
-**Assinada em 18 de Julho de 1984.**
+Assinada em 18 de Julho de 1984.
 
-**O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.**
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.

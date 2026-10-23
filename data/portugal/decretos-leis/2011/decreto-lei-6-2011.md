@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6/2011/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2011-485629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2a36d5566585d1f11365826af21023f0ba35e662636409a3ddcd0fb4b0b9fa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b554106f23716a340fcf62c056d58804756bcdb02081cc7ea94f7596f2a5a1a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Gestão de Resíduos
-- Empresa
-- Modernização Administrativa
-- Controlo Sanitário
+- Agência Portuguesa do Ambiente
 - Base de Dados
-- Proteção do Ambiente
-- Registo Europeu das Emissões e Transferências de Poluentes
+- Controlo Sanitário
+- Empresa
+- Gestão de Resíduos
 - Internet
-- Sistema de Informação
-- Regime Jurídico
+- Modernização Administrativa
 - Poluição
+- Proteção do Ambiente
+- Regime Jurídico
+- Registo Europeu das Emissões e Transferências de Poluentes
 - Regulamento CE
 - Relatório
-- Agência Portuguesa do Ambiente
+- Sistema de Informação
 relationships:
 - type: cites
   target: celex:32006D0061
@@ -95,15 +95,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/127/2008/07/21/p/dre
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:35Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +146,9 @@ c) Transmitir à APA, até 30 de Novembro de cada ano, a informação referida n
 
 d) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -156,7 +158,9 @@ b) As transferências para fora do local do estabelecimento dos poluentes presen
 
 c) As transferências para fora do local do estabelecimento dos resíduos perigosos e não perigosos, de acordo com a classificação estabelecida pela Portaria n.º 209/2004, de 3 de Março, independentemente do limiar estabelecido na alínea b) do artigo 5.º do Regulamento, provenientes das actividades enumeradas no anexo ao presente decreto-lei, correspondente ao anexo i do Regulamento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +168,9 @@ c) As transferências para fora do local do estabelecimento dos resíduos perigo
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -192,15 +198,15 @@ O anexo ao Decreto-Lei n.º 127/2008, de 21 de Julho, é substituído pelo anexo
 
 Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui Carlos Pereira - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - Luís Medeiros Vieira - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Manuel Francisco Pizarro Sampaio e Castro.
 
-**Promulgado em 16 de Dezembro de 2010.**
+Promulgado em 16 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Dezembro de 2010.**
+Referendado em 17 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -216,4 +222,4 @@ Notas técnicas
 
 Categorias de actividades referidas no artigo 4.º e respectiva autoridade competente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00600/0017500178.pdf)

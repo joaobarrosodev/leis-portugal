@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2009/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa7a10bf7e10e9698452dce6d9a6249833c3c5bc6d084e29f66cbc13bad26caf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ceda90fe43147e4aaab269969280b96cf6eec84747db418f30af89d9084572
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
 - Aposentação
+- Avaliação do Pessoal
+- Bolsa de Estudos
 - Bolseiro
+- Carreira Docente Universitária
 - Concurso
+- Contratação de Pessoal
+- Contrato de Trabalho
 - Dispensa de Serviço
 - Doutoramento
+- Ensino Superior
 - Estatuto da Carreira Docente Universitária
 - Formas de Provimento
-- Contratação de Pessoal
-- Carreira Docente Universitária
 - Pessoal Docente
 - Propriedade Intelectual
 - Reforma
-- Contrato de Trabalho
-- Ensino Superior
-- Bolsa de Estudos
+- Regime do Contrato de Trabalho em Funções Públicas
 - Remuneração
-- Avaliação do Pessoal
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:926483013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615031:por
+  label: "Alterados os art. 6º, 19º, 25º, 74º-A e 76º do Estatuto da Carreira Docente Universitária, aprovado pelo Dec Lei\
+    \ 448/79, de 13-Nov, na redacção do presente diploma, pela LEI.8/2010.13.05.2010.AR, DR.IS [93] de 13.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2010-615031
+  date: '2010-05-13'
+- type: amended_by
+  target: pt:dre:140210519:por
+  label: Suspendem-se, nos termos do art.1º, os prazos de caducidade dos contratos de trabalho dos trabalhadores de instituições
+    de ciência, tecnologia e ensino superior, abrangidos por contratos estabelecidos ao abrigo da Lei Geral de Trabalho em
+    Funções Públicas, bem como por contrato abrangido pelo presente diploma, pelo(a) Lei n.º 36/2020 - Diário da República
+    n.º 157/2020, Série I de 2020-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2020-140210519
+  date: '2020-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/1997/01/17/p/dre
   label: null
@@ -130,16 +144,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:176984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663332:por
+  label: null
+  source: null
 article_structure:
-  article_count: 212
+  article_count: 148
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:31Z'
   warnings: []
   errors: []
 ---
@@ -228,7 +362,9 @@ a) O pessoal docente das escolas politécnicas integradas em universidades;
 
 b) O pessoal docente das escolas universitárias militares e policiais, sem prejuízo das disposições que determinem a sua aplicação.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 ...
 
@@ -242,7 +378,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +390,9 @@ e) (Revogada.)
 
 4 - São igualmente designados por professores visitantes as individualidades referidas no n.º 1 que sejam investigadores de instituições científicas estrangeiras ou internacionais.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -266,7 +406,9 @@ d) Participar na gestão das respectivas instituições universitárias;
 
 e) Participar em outras tarefas distribuídas pelos órgãos de gestão competentes e que se incluam no âmbito da actividade de docente universitário.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +416,9 @@ e) Participar em outras tarefas distribuídas pelos órgãos de gestão competen
 
 3 - Ao professor auxiliar cabe a leccionação de aulas práticas ou teórico-práticas e a prestação de serviço em trabalhos de laboratório ou de campo, em disciplinas dos cursos de licenciatura e de pós-graduação e a regência de disciplinas destes cursos, podendo ser-lhe igualmente distribuído serviço idêntico ao dos professores associados, caso conte cinco anos de efectivo serviço como docente universitário e as condições de serviço o permitam.
 
-###### Artigo 6.º — Serviço dos docentes
+Artigo 6.º
+
+Serviço dos docentes
 
 1 - Cada instituição de ensino superior aprova um regulamento de prestação de serviço dos docentes, o qual deve ter em consideração, designadamente:
 
@@ -296,7 +440,9 @@ b) Permitir que os professores de carreira possam, a seu pedido, participar nout
 
 4 - Compete a cada docente propor o quadro institucional que melhor se adeqúe ao exercício da investigação que deve desenvolver.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -306,11 +452,15 @@ b) Permitir que os professores de carreira possam, a seu pedido, participar nout
 
 4 - Aos monitores compete coadjuvar, sem os substituir, os restantes docentes, sob a orientação destes.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Os professores catedráticos e associados são recrutados exclusivamente por concurso documental, nos termos do presente Estatuto.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os professores auxiliares são recrutados exclusivamente por concurso documental, nos termos do presente Estatuto.
 
@@ -318,7 +468,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 3 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os professores visitantes são recrutados, por convite, de entre professores ou investigadores de reconhecida competência que em estabelecimentos de ensino superior estrangeiros ou internacionais, ou em instituições científicas estrangeiras ou internacionais, exerçam funções em área ou áreas disciplinares análogas àquelas a que o recrutamento se destina.
 
@@ -326,7 +478,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 3 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os professores catedráticos convidados, os professores associados convidados e os professores auxiliares convidados são recrutados, por convite, de entre individualidades, nacionais ou estrangeiras, cuja reconhecida competência científica, pedagógica e ou profissional na área ou áreas disciplinares em causa esteja comprovada curricularmente.
 
@@ -336,7 +490,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 4 - Fora dos casos em que, por despacho ministerial, se vier a estabelecer limite mais elevado, o número máximo de professores catedráticos, associados e auxiliares convidados e visitantes não pode, em cada instituição de ensino superior, exceder um terço, respectivamente, do número de professores catedráticos, associados e auxiliares de carreira.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os assistentes convidados são recrutados, por convite, de entre titulares do grau de mestre ou do grau de licenciado e de currículo adequado.
 
@@ -344,7 +500,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 3 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os leitores são recrutados, por convite, de entre titulares de qualificação superior, nacional ou estrangeira, e de currículo adequado para o ensino de línguas estrangeiras.
 
@@ -352,7 +510,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 3 - Podem também desempenhar as funções de leitor individualidades estrangeiras designadas ao abrigo de convenções internacionais ou de protocolos internacionais nos termos fixados por estes.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo do disposto no presente Estatuto acerca do recrutamento de professores, assistentes convidados, leitores e monitores, podem as individualidades, cujo currículo científico, pedagógico ou profissional possa suscitar o interesse das instituições de ensino superior, apresentar junto destas instituições, até 31 de Março de cada ano, a sua candidatura ao exercício de funções docentes, com ou sem indicação da categoria para a qual, mediante equiparação contratual, entendam dever ser convidadas.
 
@@ -360,7 +520,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 3 - ...
 
-###### Artigo 19.º — Contratação de professores catedráticos e associados
+Artigo 19.º
+
+Contratação de professores catedráticos e associados
 
 1 - Os professores catedráticos e associados são contratados por tempo indeterminado.
 
@@ -370,7 +532,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 4 - Na situação de cessação prevista no número anterior, e sendo o caso, o docente regressa à situação jurídico-funcional de que era titular antes do período experimental, quando constituída e consolidada por tempo indeterminado.
 
-###### Artigo 20.º — Estatuto reforçado de estabilidade no emprego
+Artigo 20.º
+
+Estatuto reforçado de estabilidade no emprego
 
 1 - Os professores catedráticos e os professores associados beneficiam, nos termos do artigo 50.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, e do presente Estatuto, de um estatuto reforçado de estabilidade no emprego (tenure) que se traduz na garantia da manutenção do posto de trabalho, na mesma categoria e carreira ainda que em instituição diferente, nomeadamente no caso de reorganização da instituição de ensino superior a que pertencem que determine a cessação das respectivas necessidades.
 
@@ -382,7 +546,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 5 - (Revogado.)
 
-###### Artigo 22.º — Período experimental
+Artigo 22.º
+
+Período experimental
 
 1 - Aos períodos experimentais previstos nos contratos dos professores catedráticos, associados e auxiliares é exclusivamente aplicável o disposto no presente Estatuto.
 
@@ -392,7 +558,9 @@ Os professores catedráticos e associados são recrutados exclusivamente por con
 
 4 - O tempo de serviço decorrido no período experimental que se tenha concluído sem manutenção do contrato de trabalho por tempo indeterminado é contado, sendo o caso, na carreira e na categoria às quais o trabalhador regressa.
 
-###### Artigo 25.º — Contratação de professores auxiliares
+Artigo 25.º
+
+Contratação de professores auxiliares
 
 1 - Os professores auxiliares são contratados por tempo indeterminado com um período experimental de cinco anos, findo o qual, em função de avaliação específica da actividade desenvolvida realizada de acordo com critérios fixados pelo órgão legal e estatutariamente competente da instituição de ensino superior e sob proposta fundamentada aprovada por maioria de dois terços desse mesmo órgão:
 
@@ -404,7 +572,9 @@ b) Após um período suplementar de seis meses, de que o docente pode prescindir
 
 3 - Em caso de incumprimento, total ou parcial, do prazo estipulado no número anterior, a instituição de ensino superior fica obrigada a pagar ao docente uma indemnização de valor igual à remuneração base correspondente ao período de antecedência em falta quando haja cessação da relação contratual.
 
-###### Artigo 30.º — Contratação de professores visitantes
+Artigo 30.º
+
+Contratação de professores visitantes
 
 1 - Os professores visitantes são contratados a termo certo e em regime de dedicação exclusiva, de tempo integral ou de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
 
@@ -412,13 +582,17 @@ b) Após um período suplementar de seis meses, de que o docente pode prescindir
 
 3 - (Revogado.)
 
-###### Artigo 31.º — Contratação de professores convidados
+Artigo 31.º
+
+Contratação de professores convidados
 
 1 - Os professores convidados são contratados a termo certo e em regime de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
 
 2 - Se, excepcionalmente, e nos termos do regulamento respectivo, forem contratados em regime de dedicação exclusiva ou de tempo integral, o contrato e as suas renovações não podem ter uma duração superior a quatro anos.
 
-###### Artigo 32.º — Contratação de assistentes convidados
+Artigo 32.º
+
+Contratação de assistentes convidados
 
 1 - Os assistentes convidados são contratados a termo certo e em regime de dedicação exclusiva, de tempo integral ou de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
 
@@ -428,13 +602,17 @@ b) Após um período suplementar de seis meses, de que o docente pode prescindir
 
 4 - Aos assistentes convidados em regime de dedicação exclusiva ou de tempo integral deve ser assegurada a participação em programas de investigação da instituição de ensino superior em que prestam serviço ou de outra instituição de ensino superior ou de investigação.
 
-###### Artigo 33.º — Contratação de leitores
+Artigo 33.º
+
+Contratação de leitores
 
 1 - Os leitores são contratados a termo certo e em regime de dedicação exclusiva, de tempo integral ou de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
 
 2 - Em regime de dedicação exclusiva ou de tempo integral, o contrato e as suas renovações não podem ter uma duração superior a quatro anos.
 
-###### Artigo 34.º — Individualidades residentes no estrangeiro
+Artigo 34.º
+
+Individualidades residentes no estrangeiro
 
 1 - (Revogado.)
 
@@ -448,7 +626,9 @@ b) Após um período suplementar de seis meses, de que o docente pode prescindir
 
 6 - As individualidades com residência permanente no estrangeiro que forem contratadas como professor convidado ou assistente convidado têm direito ao pagamento das viagens e ao subsídio de deslocação fixados pelo despacho a que se refere o n.º 6 do artigo 74.º
 
-###### Artigo 37.º — Condições dos concursos
+Artigo 37.º
+
+Condições dos concursos
 
 1 - Os concursos para recrutamento de professores catedráticos, associados e auxiliares são internacionais e abertos para uma área ou áreas disciplinares a especificar no aviso de abertura.
 
@@ -456,13 +636,17 @@ b) Após um período suplementar de seis meses, de que o docente pode prescindir
 
 3 - O factor experiência docente não pode ser critério de exclusão e, quando considerado no âmbito do concurso, não se pode restringir à experiência numa determinada instituição ou conjunto de instituições.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os concursos para professores catedráticos, associados e auxiliares destinam-se a averiguar a capacidade e o desempenho dos candidatos nos diferentes aspectos que, nos termos do artigo 4.º, integram o conjunto das funções a desempenhar.
 
 2 - São, designadamente, apreciados, nos termos do n.º 6 do artigo 50.º, o desempenho científico, a capacidade pedagógica e o desempenho noutras actividades relevantes para a missão da instituição de ensino superior.
 
-###### Artigo 39.º — Órgão máximo da instituição de ensino superior
+Artigo 39.º
+
+Órgão máximo da instituição de ensino superior
 
 1 - Compete ao órgão máximo da instituição de ensino superior, nos termos fixados nos respectivos estatutos:
 
@@ -478,15 +662,21 @@ c) A decisão final sobre a contratação.
 
 4 - A prática dos actos a que se refere o n.º 1 depende, nos termos da lei, da existência de cabimento orçamental.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Ao concurso para recrutamento de professores catedráticos podem candidatar-se os titulares do grau de doutor há mais de cinco anos igualmente detentores do título de agregado.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 Ao concurso para recrutamento de professores associados podem candidatar-se os titulares do grau de doutor há mais de cinco anos.
 
-###### Artigo 45.º — Nomeação dos júris
+Artigo 45.º
+
+Nomeação dos júris
 
 1 - Os júris dos concursos são nomeados por despacho do órgão máximo da instituição de ensino superior, nos termos fixados pelos respectivos estatutos.
 
@@ -498,7 +688,9 @@ Ao concurso para recrutamento de professores associados podem candidatar-se os t
 
 5 - (Revogado.)
 
-###### Artigo 46.º — Composição dos júris
+Artigo 46.º
+
+Composição dos júris
 
 1 - A composição dos júris dos concursos a que se refere a presente secção obedece, designadamente, às seguintes regras:
 
@@ -522,7 +714,9 @@ d) Serem compostos maioritariamente por individualidades externas à instituiç�
 
 4 - (Revogado.)
 
-###### Artigo 50.º — Funcionamento dos júris
+Artigo 50.º
+
+Funcionamento dos júris
 
 1 - Os júris:
 
@@ -562,17 +756,23 @@ c) De outras actividades relevantes para a missão da instituição de ensino su
 
 7 - Considerando os aspectos a que se referem os números anteriores, o júri deve proceder à elaboração de uma lista ordenada dos candidatos que hajam sido aprovados em mérito absoluto.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - O prazo de proferimento das decisões finais dos júris não pode ser superior a 90 dias seguidos, contados a partir da data limite para a apresentação das candidaturas.
 
 2 - (Revogado.)
 
-###### Artigo 61.º — Garantias de imparcialidade
+Artigo 61.º
+
+Garantias de imparcialidade
 
 É aplicável ao procedimento regulado na presente subsecção o regime de garantias de imparcialidade previsto nos artigos 44.º a 51.º do Código do Procedimento Administrativo, com as necessárias adaptações.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 São deveres genéricos de todos os docentes, sem prejuízo de melhor explicitação em normas regulamentares que, nesta matéria, sejam aprovadas pelas instituições de ensino superior nos termos dos seus estatutos:
 
@@ -596,7 +796,9 @@ i) ...
 
 j) Melhorar a sua formação e desempenho pedagógico.
 
-###### Artigo 65.º — Programa das unidades curriculares
+Artigo 65.º
+
+Programa das unidades curriculares
 
 1 - Os programas das unidades curriculares são fixados de forma coordenada pelos órgãos legal e estatutariamente competentes de cada instituição de ensino superior.
 
@@ -604,13 +806,17 @@ j) Melhorar a sua formação e desempenho pedagógico.
 
 3 - (Revogado.)
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Os docentes elaboram sumário de cada aula, contendo a indicação da matéria leccionada com referência ao programa da unidade curricular, o qual é dado a conhecer aos alunos através dos meios fixados em regulamento da instituição de ensino superior.
 
 2 - (Revogado.)
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - O pessoal docente de carreira exerce as suas funções, em regra, em regime de dedicação exclusiva.
 
@@ -620,7 +826,9 @@ j) Melhorar a sua formação e desempenho pedagógico.
 
 4 - O pessoal docente para além da carreira é contratado nos termos fixados pelo presente Estatuto.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Entende-se por regime de tempo integral aquele que corresponde à duração semanal do trabalho para a generalidade dos trabalhadores em regime de contrato de trabalho em funções públicas.
 
@@ -638,11 +846,15 @@ b) ...
 
 c) ...
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 No regime de tempo parcial, o número total de horas de serviço semanal, incluindo aulas, sua preparação e apoio aos alunos, é contratualmente fixado.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O regime de dedicação exclusiva implica a renúncia ao exercício de qualquer função ou actividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
 
@@ -672,7 +884,9 @@ j) Actividades exercidas, quer no âmbito de contratos entre a instituição a q
 
 4 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Cada docente em regime de tempo integral presta um número de horas semanais de serviço de aulas ou seminários que lhe for fixado pelo órgão legal e estatutariamente competente da instituição de ensino superior, num mínimo de seis horas e num máximo de nove, sem prejuízo, contudo, do disposto no artigo 6.º
 
@@ -688,7 +902,9 @@ j) Actividades exercidas, quer no âmbito de contratos entre a instituição a q
 
 7 - O limite para a acumulação de funções ao abrigo do disposto no n.º 1 do artigo 51.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de Setembro, é de seis horas lectivas semanais.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Para além do que se encontre consagrado em legislação própria, é equiparado, para todos os efeitos legais, ao efectivo exercício de funções o serviço prestado pelo pessoal docente em alguma das seguintes situações:
 
@@ -748,7 +964,9 @@ ab) Funções directivas em pessoas colectivas de direito privado de que façam 
 
 4 - (Revogado.)
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -764,13 +982,17 @@ ab) Funções directivas em pessoas colectivas de direito privado de que façam 
 
 7 - ...
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - ...
 
 2 - O pessoal docente pode, ainda, gozar das licenças previstas para os restantes trabalhadores em funções públicas.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -782,7 +1004,9 @@ ab) Funções directivas em pessoas colectivas de direito privado de que façam 
 
 5 - Independentemente do disposto nos números anteriores, os professores em regime de dedicação exclusiva ou de tempo integral podem ser dispensados do serviço docente, mediante decisão do órgão máximo da instituição de ensino superior, sob proposta do conselho científico, por períodos determinados, para a realização de projectos de investigação ou extensão.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - O pessoal docente:
 
@@ -794,7 +1018,9 @@ b) Pode candidatar-se a bolsas de estudo, no País ou no estrangeiro, obtida a a
 
 3 - (Revogado.)
 
-###### Artigo 82.º — Precedência
+Artigo 82.º
+
+Precedência
 
 1 - As regras para efeitos de precedência entre os docentes são fixadas em regulamento aprovado pelo órgão legal e estatutariamente competente da instituição de ensino superior.
 
@@ -806,7 +1032,9 @@ b) Pode candidatar-se a bolsas de estudo, no País ou no estrangeiro, obtida a a
 
 5 - (Revogado.)
 
-###### Artigo 83.º — Aposentação e reforma
+Artigo 83.º
+
+Aposentação e reforma
 
 1 - O pessoal docente tem direito a aposentação ou reforma nos termos da lei geral.
 
@@ -832,7 +1060,9 @@ b) Leccionar, em situações excepcionais, em instituições de ensino superior,
 
 6 - Para efeitos de integração em júris de uma instituição de ensino superior, os professores aposentados, reformados ou jubilados dessa instituição não são considerados membros externos.
 
-###### Artigo 84.º — Número e percentagem de professores de carreira
+Artigo 84.º
+
+Número e percentagem de professores de carreira
 
 1 - O conjunto dos professores catedráticos e dos professores associados de carreira de cada instituição de ensino superior deve representar entre 50 % e 70 % do total dos professores de carreira.
 
@@ -846,7 +1076,9 @@ b) Leccionar, em situações excepcionais, em instituições de ensino superior,
 
 6 - (Revogado.)
 
-###### Artigo 85.º — Votação nominal justificada
+Artigo 85.º
+
+Votação nominal justificada
 
 As deliberações proferidas no âmbito da aplicação do presente Estatuto são tomadas em votação nominal justificada, não sendo permitidas abstenções.»
 
@@ -862,19 +1094,27 @@ Recrutamento de monitores
 
 2 - O convite tem lugar mediante proposta fundamentada apresentada e aprovada pelos órgãos legal e estatutariamente competentes da instituição de ensino superior.
 
-###### Artigo 17.º-B — Constituição de uma base de recrutamento
+Artigo 17.º-B
+
+Constituição de uma base de recrutamento
 
 O regulamento de cada instituição de ensino superior pode prever que o convite de pessoal especialmente contratado seja precedido por um período de candidaturas, de forma a constituir uma base de recrutamento de entre a qual se deve proceder à escolha através de métodos de selecção objectivos.
 
-###### Artigo 32.º-A — Casos especiais de contratação
+Artigo 32.º-A
+
+Casos especiais de contratação
 
 No âmbito de acordos de colaboração de que a instituição de ensino superior seja parte, ou no quadro da colaboração voluntária de docentes ou investigadores de outras instituições nacionais, estrangeiras ou internacionais, podem ser contratadas, sem remuneração, para o desempenho de funções docentes como professores convidados ou assistentes convidados, individualidades que satisfaçam os requisitos, respectivamente, do n.º 1 do artigo 15.º e do n.º 1 do artigo 16.º
 
-###### Artigo 33.º-A — Contratação de monitores
+Artigo 33.º-A
+
+Contratação de monitores
 
 Os monitores são contratados a termo certo e em regime de tempo parcial, nos termos da lei e de regulamento a aprovar por cada instituição de ensino superior.
 
-###### Artigo 36.º-A — Casos especiais de contratação
+Artigo 36.º-A
+
+Casos especiais de contratação
 
 1 - Os docentes podem ser contratados para desenvolver a sua actividade:
 
@@ -884,15 +1124,21 @@ b) Num consórcio de instituições de ensino superior.
 
 2 - No caso previsto no número anterior, o contrato é celebrado com uma das instituições integrantes do conjunto ou do consórcio.
 
-###### Artigo 36.º-B — Nacionalidade dos docentes
+Artigo 36.º-B
+
+Nacionalidade dos docentes
 
 O pessoal docente abrangido pelo presente Estatuto pode ter nacionalidade portuguesa ou estrangeira ou ser apátrida.
 
-###### Artigo 41.º-A — Opositores ao concurso para professor auxiliar
+Artigo 41.º-A
+
+Opositores ao concurso para professor auxiliar
 
 Ao concurso para recrutamento de professores auxiliares podem candidatar-se os titulares do grau de doutor.
 
-###### Artigo 62.º-A — Transparência
+Artigo 62.º-A
+
+Transparência
 
 1 - Os concursos realizados no âmbito do presente Estatuto são divulgados através da sua publicação, com a antecedência mínima de 30 dias úteis em relação à data limite de apresentação das candidaturas:
 
@@ -916,13 +1162,17 @@ b) No sítio da Internet da instituição de ensino superior.
 
 5 - Da publicação no sítio da Internet da instituição de ensino superior constam, obrigatoriamente, a referência à publicação a que se referem os n.os 1 e 2, bem como os fundamentos que conduziram à decisão, incluindo os relatórios integrais que fundamentaram os convites.
 
-###### Artigo 63.º-A — Propriedade intelectual
+Artigo 63.º-A
+
+Propriedade intelectual
 
 1 - É especialmente garantida aos docentes a propriedade intelectual dos materiais pedagógicos produzidos no exercício das suas funções, sem prejuízo das utilizações lícitas.
 
 2 - Os direitos previstos no número anterior não impedem a livre utilização, sem quaisquer ónus, dos referidos materiais pedagógicos, no processo de ensino por parte da instituição de ensino superior ao serviço da qual tenham sido produzidos, nem o respeito pelas normas de partilha e livre disponibilização de recursos pedagógicos que a instituição decida subscrever.
 
-###### Artigo 74.º-A — Avaliação do desempenho
+Artigo 74.º-A
+
+Avaliação do desempenho
 
 1 - Os docentes estão sujeitos a um regime de avaliação do desempenho constante de regulamento a aprovar por cada instituição de ensino superior, ouvidas as organizações sindicais.
 
@@ -954,7 +1204,9 @@ m) Previsão da audiência prévia dos interessados;
 
 n) Previsão da possibilidade de os interessados impugnarem judicialmente, nos termos gerais, o acto de homologação e a decisão sobre a reclamação.
 
-###### Artigo 74.º-B — Efeitos da avaliação do desempenho
+Artigo 74.º-B
+
+Efeitos da avaliação do desempenho
 
 1 - A avaliação do desempenho positiva é uma das condições que deve ser satisfeita para a:
 
@@ -966,7 +1218,9 @@ b) Renovação dos contratos a termo certo dos docentes não integrados na carre
 
 3 - Em caso de avaliação do desempenho negativa durante o período de seis anos, é aplicável o regime geral fixado na lei para o efeito.
 
-###### Artigo 74.º-C — Alteração do posicionamento remuneratório
+Artigo 74.º-C
+
+Alteração do posicionamento remuneratório
 
 1 - A alteração do posicionamento remuneratório tem lugar nos termos regulados por cada instituição de ensino superior e realiza-se em função da avaliação do desempenho.
 
@@ -976,7 +1230,9 @@ b) Renovação dos contratos a termo certo dos docentes não integrados na carre
 
 4 - O regulamento a que se refere o n.º 1 deve prever a obrigatoriedade de alteração do posicionamento remuneratório sempre que um docente, no processo de avaliação de desempenho, tenha obtido, durante um período de seis anos consecutivos, a menção máxima.
 
-###### Artigo 74.º-D — Cargos dirigentes
+Artigo 74.º-D
+
+Cargos dirigentes
 
 O exercício de cargos dirigentes ao abrigo do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado não produz quaisquer efeitos na carreira docente universitária, com excepção dos seguintes:
 
@@ -986,11 +1242,15 @@ b) Dispensa de serviço obrigatória a que se refere o n.º 2 do artigo 80.º do
 
 c) Alteração do posicionamento remuneratório na categoria detida, nos termos da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro.
 
-###### Artigo 77.º-A — Dispensa especial de serviço
+Artigo 77.º-A
+
+Dispensa especial de serviço
 
 No termo do exercício de funções de direcção nas instituições de ensino superior, ou de funções mencionadas no n.º 1 do artigo 73.º por período continuado igual ou superior a três anos, o pessoal docente tem direito a uma dispensa de serviço por um período não inferior a seis meses nem superior a um ano, para efeitos de actualização científica e técnica, a qual é requerida obrigatoriamente e conta como serviço efectivo.
 
-###### Artigo 83.º-A — Regulamentos
+Artigo 83.º-A
+
+Regulamentos
 
 1 - O órgão legal e estatutariamente competente de cada instituição de ensino superior aprova a regulamentação necessária à execução do presente Estatuto, a qual abrange, designadamente, os procedimentos, as regras de instrução dos processos e os prazos aplicáveis aos concursos e convites, no quadro da necessária harmonização de regras gerais sobre a matéria.
 
@@ -998,7 +1258,9 @@ No termo do exercício de funções de direcção nas instituições de ensino s
 
 3 - Os regulamentos a aprovar pelas instituições não podem afastar as disposições do presente Estatuto.
 
-###### Artigo 84.º-A — Resolução alternativa de litígios
+Artigo 84.º-A
+
+Resolução alternativa de litígios
 
 1 - Sem prejuízo da possibilidade de recurso a outros mecanismos extrajudiciais de resolução de conflitos, pode ser constituído tribunal arbitral para julgamento de quaisquer litígios emergentes de relações reguladas pelo presente Estatuto, inclusive as relativas à formação dos contratos quando não estejam em causa direitos indisponíveis e quando não resultem de acidente de trabalho ou de doença profissional.
 
@@ -1224,15 +1486,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - José Mariano Rebelo Pires Gago - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 20 de Agosto de 2009.**
+Promulgado em 20 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Agosto de 2009.**
+Referendado em 20 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro)
 

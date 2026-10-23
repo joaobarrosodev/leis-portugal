@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/07/12500/0389003902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2011/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2011-670520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed647869c45ea1df0f7cb4f85835940ada5dd6f06205d9038efd17aa3d5f65f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b5896d08dc00d2cef5e904d2e0cea0acc9d80d7db9fd8f0d69ce4fb97d2003
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Aeroportos
 - Aeroporto
+- ANA
 - Aproximação das Legislações
+- Aviação Civil
 - BASE Aérea
-- Gestão Financeira
+- Beja
+- Comércio
 - Contra-ordenação
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Domínio Público Aeroportuário
-- Beja
+- Gestão Financeira
+- Instituto Nacional de Aviação Civil
 - Rede Aeroportuária
-- Administração de Aeroportos
-- ANA
-- Aviação Civil
 - Regime Jurídico
 - Taxa Aeroportuária
-- Comércio
 - Terminal Aeroportuário
 relationships:
 - type: amended_by
@@ -109,16 +109,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/217/2009/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/217/2009/09/04/p/dre
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 217/2009, de 04-set , na redação do presente diploma, pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS\
+    \ [230] de 28.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
-  article_count: 57
+  article_count: 47
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:03Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +181,9 @@ d) Às taxas relativas à operação e manutenção dos sistemas de segurança n
 
 e) À taxa de ocupação e a outras taxas de natureza comercial, nomeadamente à taxa de equipamento, à taxa de prestação de serviços e à taxa de exploração, todas reguladas no Decreto Regulamentar n.º 24/2009, de 4 de Setembro.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +215,9 @@ h) Os resultados previstos de todos os investimentos de vulto propostos, em term
 
 7 - A consulta referida no presente artigo realiza-se anualmente, sem prejuízo do disposto no n.º 2 do artigo 23.º-A.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -263,7 +273,9 @@ Modulação de taxas
 
 2 - Sem prejuízo do disposto no número anterior, é admissível a modulação das taxas aeroportuárias por motivos de interesse público e geral, nomeadamente de ordem ambiental, desde que os critérios utilizados na modulação sejam pertinentes, objectivos e transparentes.
 
-###### Artigo 22.º-A — Acordos sobre os indicadores e níveis de qualidade de serviço
+Artigo 22.º-A
+
+Acordos sobre os indicadores e níveis de qualidade de serviço
 
 1 - A entidade gestora aeroportuária deve promover negociações com os utilizadores, seus representantes ou associações dos utilizadores, relativamente ao nível de serviço a prestar, com vista à possibilidade de celebração de acordos.
 
@@ -271,13 +283,17 @@ Modulação de taxas
 
 3 - O acordo a que se refere o número anterior baseia-se nos indicadores e nos níveis mínimos de qualidade estabelecidos pelo INAC, I. P., nos termos do artigo anterior.
 
-###### Artigo 23.º-A — Periodicidade das consultas
+Artigo 23.º-A
+
+Periodicidade das consultas
 
 1 - A entidade gestora aeroportuária deve promover a celebração de acordos com os utilizadores, ou com os respectivos representantes ou associações representativas, que agilizem e fixem os procedimentos tendentes à realização das consultas prévias a que se refere o artigo 25.º
 
 2 - Nos acordos mencionados no número anterior é admissível a fixação de períodos inferiores ou superiores a um ano para a consulta a que se refere o n.º 7 do artigo 25.º
 
-###### Artigo 25.º-A — Informações dos utilizadores
+Artigo 25.º-A
+
+Informações dos utilizadores
 
 1 - Antes da consulta prévia a que se refere o artigo anterior, a entidade gestora aeroportuária solicita aos utilizadores as seguintes informações:
 
@@ -295,7 +311,9 @@ d) Necessidades no aeródromo ou no aeroporto em causa.
 
 4 - Exceptua-se do disposto no número anterior a divulgação de tais informações pela entidade gestora aeroportuária ao INAC, I. P., enquanto autoridade competente para a fiscalização e supervisão do presente decreto-lei.
 
-###### Artigo 25.º-B — Consulta prévia sobre novas infra-estruturas
+Artigo 25.º-B
+
+Consulta prévia sobre novas infra-estruturas
 
 1 - A entidade gestora aeroportuária consulta obrigatoriamente os utilizadores antes da finalização de projectos para novas infra-estruturas.
 
@@ -305,23 +323,31 @@ d) Necessidades no aeródromo ou no aeroporto em causa.
 
 4 - A consulta mencionada no presente artigo pode constar do acordo entre a entidade gestora aeroportuária e os utilizadores, nos termos do artigo anterior.
 
-###### Artigo 27.º-A — Serviços personalizados e especializados
+Artigo 27.º-A
+
+Serviços personalizados e especializados
 
 1 - A entidade gestora aeroportuária pode diversificar a qualidade e âmbito de determinados serviços, de terminais ou parte de terminais, com o objectivo de assegurar a prestação de serviços personalizados, bem como a disponibilização de parte ou de todo um terminal especializado.
 
 2 - A diversificação prevista no número anterior é estabelecida em função da diferente procura verificada no aeroporto ou aeródromo.
 
-###### Artigo 27.º-B — Diferenciação de taxas
+Artigo 27.º-B
+
+Diferenciação de taxas
 
 A entidade gestora aeroportuária pode, no âmbito da diversificação estabelecida no artigo anterior, fixar taxas diferenciadas, nomeadamente em função da qualidade e do âmbito dos serviços e respectivos custos.
 
-###### Artigo 27.º-C — Acesso aos serviços personalizados e especializados
+Artigo 27.º-C
+
+Acesso aos serviços personalizados e especializados
 
 1 - A entidade gestora aeroportuária deve permitir o acesso dos utilizadores aos serviços personalizados ou ao terminal ou parte de um terminal especializado.
 
 2 - Se o número de utilizadores interessados for superior ao número de utilizadores possíveis, devido a limitações de capacidade, o acesso é determinado com base em critérios fixados pela entidade gestora aeroportuária e aprovados previamente pelo INAC, I. P.
 
-###### Artigo 30.º-A — Relatório anual
+Artigo 30.º-A
+
+Relatório anual
 
 O INAC, I. P., publica na sua página electrónica na Internet um relatório anual sobre as actividades que desenvolveu no âmbito do presente decreto-lei.»
 
@@ -335,15 +361,15 @@ O INAC, I. P., publica na sua página electrónica na Internet um relatório anu
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 2011. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça.
 
-**Promulgado em 20 de Junho de 2011.**
+Promulgado em 20 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Junho de 2011.**
+Referendado em 20 de Junho de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

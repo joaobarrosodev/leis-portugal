@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/104b00/23012305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/1993/05/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1993-273821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 420e62a8e60af9d5ecadbab593432e0d0a3eed2312bcb6b2bfaa051aa87eae38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 108d6b8b12db32eabd5b162c31b886bbecaa89c77030732569f5f96a15638820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Comissão de Planeamento da Agricultura de Emergência
 - Comissão de Planeamento da Saúde de Emergência
 - Comissão de Planeamento das Comunicações de Emergência
 - Comissão de Planeamento do Transporte Aéreo de Emergência
 - Comissão de Planeamento do Transporte Marítimo de Emergência
 - Comissão de Planeamento dos Transportes Terrestres de Emergência
+- Comissão de Planeamento Energético de Emergência
 - Comissão de Planeamento Industrial de Emergência
 - Conselho Nacional de Planeamento Civil de Emergência
 - Definição de Competências
-- Comissão de Planeamento Energético de Emergência
+- NATO
 - Orgânica
 - Sistema Nacional de Planeamento Civil de Emergência
 relationships:
@@ -83,20 +83,71 @@ relationships:
   target: pt:dre:553925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITARAM PARA A TUTELA DO MINISTÉRIO DA ECONOMIA A COMISSAO DE PLANEAMENTO INDUSTRIAL DE EMERGÊNCIA E A COMISSAO\
+    \ DE PLANEAMENTO ENERGÉTICO DE EMERGÊNCIA, PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0.IS-A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:516755:por
+  label: "Alterados os arts. 1º e 3º pelo DR.9/98.1998.05.12.MDN, DR.IS-B [109] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-1998-516755
+  date: '1998-05-12'
+- type: amended_by
+  target: pt:dre:315521:por
+  label: "Alterado o art. 11º pelo DR.1/2001.2001.02.02.MDN,DR.IS-B [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-2001-315521
+  date: '2001-02-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/153/1991/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/153/1991/04/23/p/dre
+- type: cites
+  target: pt:dre:151764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594679:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:368265:por
+  label: "Revogados os art. 15º e 16º pelo DEC LEI.128/2002.2002.05.11.MDN, DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-2002-368265
+  date: '2002-05-11'
+- type: repealed_by
+  target: pt:dre:553925:por
+  label: "Revogado, a partir de 31.03.2012, na redação dos DR 9/98, de 12-mai, 1/2001, de 02-fev e do Dec Lei 128/2002, de\
+    \ 11-mai, pelo DEC LEI.73/2012.26.03.2012.MAI, DR.IS [61] de 26.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-2012-553925
+  date: '2012-03-26'
 article_structure:
   article_count: 27
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:20:34Z'
   warnings: []
   errors: []
 ---
@@ -487,12 +538,12 @@ São revogadas as Portarias n.os [299/85](https://diariodarepublica.pt/dr/detalh
 
 Presidência do Conselho de Ministros, 26 de Outubro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Joaquim Fernando Nogueira - Manuel Dias Loureiro - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Eduardo Eugénio Castro de Azevedo Soares.
 
-**Promulgado em 15 de Abril de 1993.**
+Promulgado em 15 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Abril de 1993.**
+Referendado em 15 de Abril de 1993.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

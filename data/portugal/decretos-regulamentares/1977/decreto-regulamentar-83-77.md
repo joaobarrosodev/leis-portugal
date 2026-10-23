@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/28900/29682970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/83-1977-279629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2faceb8216e7f33b0442b04f30e250f546d8144cbbe368c3e232c4c78e88afde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d6c0042e4c71c6379faad47eabaa84bd3a40060edc0955976dd01ca314e83ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Informática
+- Núcleo de Informática
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:459651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382074:por
+  label: "Aumentado, com dez lugares de operador de colheita de dados, o quadro de pessoal do Núcleo de Informática anexo\
+    \ ao presente diploma, pela PORT.352/79.18.07.1979.PCM, DR.IS [164] de 18.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/352-1979-382074
+  date: '1979-07-18'
+- type: amended_by
+  target: pt:dre:378740:por
+  label: "Alterado o nº 2 do art. 3º e os nºs 1 e 8 do art. 5º, pelo DR.44/79.1979.08.23.PCM DR.IS [194]t\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-1979-378740
+  date: '1979-08-23'
+- type: amended_by
+  target: pt:dre:459651:por
+  label: "Alterado quadro de pessoal do Núcleo de Informática da Direcção-Geral das Contribuições e Impostos, anexo ao presente\
+    \ diploma, pela PORT.1038/80.10.12.1980.PCM, DR.IS [284] de 10.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1038-1980-459651
+  date: '1980-12-10'
+- type: cites
+  target: pt:dre:280768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495303:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:365889:por
+  label: "Revogado com as alterações introduzidas pelo DR 44/79 de 23-Ago, pelo DEC LEI.499/79.1979.12.14.PCM DR.IS [294]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/499-1979-365889
+  date: '1979-12-14'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:03Z'
   warnings: []
   errors: []
 ---
@@ -242,16 +277,16 @@ As dúvidas resultantes da aplicação deste diploma serão resolvidas por despa
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 7 de Dezembro de 1977.**
+Promulgado em 7 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa do pessoal do Núcleo de Informática da Direcção-Geral da Contabilidade Pública
 
-## Anexo ao Decreto Regulamentar n.º 83/77
+Anexo ao Decreto Regulamentar n.º 83/77
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/12/28900/29682970.pdf))](https://files.diariodarepublica.pt/1s/1977/12/28900/29682970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/12/28900/29682970.pdf)
 
-**O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.**
+O Ministro das Finanças, Henrique Medina Carreira. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

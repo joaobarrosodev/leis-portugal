@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-1973-419212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:09:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d1942e2159908bbac6263750c643fd71f1d9ec6c29e1ade3fa737594486a62e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb241a9475d8d3e375e64db5cd8d56723679734ca903b18a6940fa1237451a81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:09:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,43 @@ relationships:
   target: pt:dre:279624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337194:por
+  label: Alterado, com efeitos retroativos a partir de 01.06.1974, o n.º 1.º pelo(a) Portaria n.º 384/75 - Diário do Governo
+    n.º 143/1975, Série I de 1975-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-1975-337194
+  date: '1975-06-24'
+- type: amended_by
+  target: pt:dre:314942:por
+  label: Aditado o comando do Regimento de Infantaria Operacional de Queluz à al. d) do n.º 1 pelo(a) Portaria n.º 505/75
+    - Diário do Governo n.º 191/1975, Série I de 1975-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/505-1975-314942
+  date: '1975-08-20'
+- type: amended_by
+  target: pt:dre:141270:por
+  label: Aditada a al. o) ao n.º 1 pelo(a) Portaria n.º 69/77 - Diário da República n.º 35/1977, Série I de 1977-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1977-141270
+  date: '1977-02-11'
+- type: amended_by
+  target: pt:dre:279624:por
+  label: Alterada a al. a) do n.º 1.º do presente diploma, pelo(a) Portaria n.º 760/77 - Diário da República n.º 289/1977,
+    Série I de 1977-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/760-1977-279624
+  date: '1977-12-16'
+- type: cites
+  target: pt:dre:421265:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:09:05Z'
   warnings: []
   errors: []
 ---

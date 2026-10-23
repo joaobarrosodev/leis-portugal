@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/02/02400/0000700012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/19/2024/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e64ab13325eda9afeef1112bd25a8c612375f1e63c306a4c208616d6c4f7ec1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff1d2746d62642b6ce1693b06efd982ccaa4f0d71ec8c9130debbba3fe27a966
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Ministério das Finanças
 - Orgânica
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:913223418:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:118/2011
+  label: Altera, a partir de 3 de fevereiro de 2024, os artigos 2.º, 5.º, 10.º, 14.º e o anexo e adita os artigos 13.º-A e
+    13.º-B ao Decreto-Lei n.º 118/2011, de 15 de dezembro, Diário da República n.º 239/2011, Série I
+  source: null
+  date: '2011-12-15'
+- type: amends
+  target: pt:numero:decreto-lei:132/2019
+  label: Altera, a partir de 3 de fevereiro de 2024, nos termos do artigo 7.º do presente diploma, o artigo 45.º do Decreto-Lei
+    n.º 132/2019, de 30 de agosto, Diário da República n.º 166/2019, Série I
+  source: null
+  date: '2019-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
   label: null
@@ -103,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/132/1998/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/132/1998/03/04/p/dre
+- type: cites
+  target: pt:dre:115167044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124324704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138461836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187413389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:54Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +233,9 @@ m) Emitir pareceres e realizar estudos, por iniciativa própria ou mediante soli
 
 n) Realizar, promover e difundir a investigação técnica e científica no domínio tributário e aduaneiro.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O conselho de administração da Autoridade Tributária e Aduaneira, abreviadamente designado por CAAT, é constituído pelo diretor-geral, que preside, pelos subdiretores-gerais, pelo diretor do Centro de Estudos Fiscais e Aduaneiros, pelo diretor da Unidade dos Grandes Contribuintes, pelo diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras e pelos diretores de finanças de Lisboa e do Porto, e possui competências decisórias e consultivas.
 
@@ -205,7 +255,9 @@ n) Realizar, promover e difundir a investigação técnica e científica no dom�
 
 9 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +267,9 @@ n) Realizar, promover e difundir a investigação técnica e científica no dom�
 
 4 - Os cargos de diretor de finanças adjunto e de diretor de alfândega adjunto são cargos de direção intermédia de 1.º ou de 2.º grau, a designar por despacho do diretor-geral da AT, sujeitos respetivamente aos limites constantes do mapa previsto no n.º 1 ou da portaria prevista no artigo 14.º
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +307,9 @@ f) Exercer as demais competências que lhe sejam acometidas por portaria do memb
 
 4 - A U-TAX goza de autonomia técnica e profissional na respetiva elaboração de estudos e pareceres, atuando nesse âmbito na dependência funcional do membro do Governo responsável pela área das finanças.
 
-###### Artigo 13.º-B — Consultores especializados
+Artigo 13.º-B
+
+Consultores especializados
 
 1 - No quadro das funções de estudo e avaliação das políticas tributárias e aduaneiras na U-TAX, podem ser designados e exonerados por despacho do membro do Governo responsável pela área das finanças, sob proposta do respetivo diretor, em regime de comissão de serviço, pelo período máximo de três anos, renovável por iguais períodos, até cinco consultores de primeiro nível, até cinco consultores de segundo nível e até dois consultores de terceiro nível, vinculados ou não à Administração Pública.
 
@@ -299,15 +355,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Pedro Nuno Pereira de Sousa Rodrigues.
 
-**Promulgado em 29 de janeiro de 2024.**
+Promulgado em 29 de janeiro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de janeiro de 2024.**
+Referendado em 30 de janeiro de 2024.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -315,14 +371,16 @@ Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António L
 
 (mapa a que se refere o artigo 10.º)
 
-|  |  |  |  |  |
+| Qualificação | Grau | Designação do cargo | Número<br>de lugares |  |
 | --- | --- | --- | --- | --- |
-| Qualificação | Grau | Designação do cargo | Número de lugares | Número de lugares |
-| Direção superior... | 1.º | Diretor-geral... | 1 | 1 |
-|  | 2.º | Subdiretor-geral... | 12 | 12 |
-|  | 2.º | Diretor do Centro de Estudos Fiscais e Aduaneiros... | 1 | 1 |
-|  | 2.º | Diretor da Unidade de Grandes Contribuintes... | 1 | 1 |
-|  | 2.º | Diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras. | 1 | 1 |
-|  | 2.º | Diretor de Finanças de Lisboa... | 1 | 1 |
-|  | 2.º | Diretor de Finanças do Porto... | 1 | 1 |
+|  |  |  |  |  |
+| Direção superior... | 1.º | Diretor-geral... | 1 |  |
+|  | 2.º | Subdiretor-geral... | 12 |  |
+|  | 2.º | Diretor do Centro de Estudos Fiscais e Aduaneiros... | 1 |  |
+|  | 2.º | Diretor da Unidade de Grandes Contribuintes... | 1 |  |
+|  | 2.º | Diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras. | 1 |  |
+|  | 2.º | Diretor de Finanças de Lisboa... | 1 |  |
+|  | 2.º | Diretor de Finanças do Porto... | 1 |  |
 | Direção intermédia... | 1.º | Diretor de serviços/diretor de finanças/diretor de alfândega/diretor-adjunto da Unidade de Grandes Contribuintes/diretor-adjunto da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras/diretor de finanças adjunto/diretor de alfândega adjunto. | 81 | » |
+
+117309241

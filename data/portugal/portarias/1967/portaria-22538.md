@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22538-1967-504323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fb106909b743c16d34195bb7ed354a7685552c7855a5be23151fd6d8d926366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43048bc50557565dc6fe768c07b3eec3a9f0e16e4b9350cf54e5970f82f58b46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:44Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e pu
 
 1.º O artigo 38.º passa a ter a seguinte redacção:
 
-###### Art. 38.º Os colarinhos para sargentos e praças da música são brancos e lisos.
+Art. 38.º Os colarinhos para sargentos e praças da música são brancos e lisos.
 
 São de dois padrões:
 
@@ -101,7 +109,7 @@ N.º 2 - De ida e volta, de tela, para usar com o jaquetão azul (fig. 36).
 
 2.º O artigo 39.º passa a ter a seguinte redacção:
 
-###### Art. 39.º Os colarinhos para praças da taifa são brancos e lisos. São do padrão:
+Art. 39.º Os colarinhos para praças da taifa são brancos e lisos. São do padrão:
 
 N.º 3 - Direito, de tela, para usar com o dólman azul (fig. 37).
 

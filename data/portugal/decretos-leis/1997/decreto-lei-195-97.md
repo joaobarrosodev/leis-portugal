@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/195/1997/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1997-142112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:50:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59c3dc594d3aabd2252b104e82c06713b30268e3c6f6f45a9c71d3836c1bb0e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c48200bd48eee3084bbe5579b89e8363b414feb69682607177d556ca603bb067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:50:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Concurso
-- Contrato de Trabalho a Termo
-- Administração Pública
-- Infracção Disciplinar
-- Habilitações Literárias
-- Integração de Trabalhadores
 - Administração Local
-- Regime de Pessoal
-- Contrato de Trabalho
-- Responsabilidade Civil
+- Administração Pública
 - Administração Regional
+- Concurso
+- Contrato de Trabalho
+- Contrato de Trabalho a Termo
+- Função Pública
+- Habilitações Literárias
+- Infracção Disciplinar
+- Integração de Trabalhadores
+- Regime de Pessoal
+- Responsabilidade Civil
 relationships:
 - type: amended_by
   target: pt:dre:632398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437814:por
+  label: "Alterados os arts. 3º e 4º pelo DEC LEI.256/98.1998.08.14.PCM, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1998-437814
+  date: '1998-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/1995/08/22/p/dre
   label: null
@@ -95,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/76/1997/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/76/1997/07/24/p/dre
+- type: cites
+  target: pt:dre:149021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:50:50Z'
   warnings: []
   errors: []
 ---
@@ -251,12 +272,12 @@ O presente diploma entra em vigor no dia 1 de Agosto de 1997.
 
 Visto e aprovado em Conselho de Ministros de 3 de Julho de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - João Cardona Gomes Cravinho - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 28 de Julho de 1997.**
+Promulgado em 28 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Julho de 1997.**
+Referendado em 29 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

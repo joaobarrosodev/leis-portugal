@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1984-660921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T07:28:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d1f871274123b1274994ba508a186205800a0c635e49790d45780698027604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08d9c2358495ab72dacedd79567389471238cf1dedeef014a9dd034de83a5c19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:28:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- BENS de Consumo
+- Importação
+- Política de Preços
+- Preço Declarado
+- Prestação de Serviços
+relationships:
+- type: amends
+  target: pt:dre:606679:por
+  label: "Exclui alguns artigos da lista anexa à Port 416/82 de 26-Abr DR.IS [96]\0\0"
+  source: null
+  date: '1982-04-26'
+- type: cites
+  target: pt:dre:606679:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:347299:por
+  label: Rectificado pela DECL.DD2042.1984.02.16.PCM DR.IS [51]2ºSupl de 29/Fev/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-347299
+  date: '1984-02-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:28:53Z'
   warnings: []
   errors: []
 ---

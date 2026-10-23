@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/94/2010/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2010-333873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e092737592f64bb7491252c72c982c6fff503ff69d70719e5032dfae69818f88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: deadb5d3717d1c3bb3ca9aaa17e3b1cc3bc27898bf62ced85cc2fddd6b9cee9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Aditivo Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
+- ASAE
+- Comércio
 - Definição de Competências
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- ASAE
-- Alimentação Humana
-- Aditivo Alimentar
 - Indústria Alimentar
-- Comércio
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados o anexos I, II e IV do Dec Lei 365/98, de 21-Nov, na redacção do presente diploma, pelo DEC LEI.64/2011.09.05.2011.MADRP,\
+    \ DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo II\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31994L0035
   label: null
@@ -122,13 +128,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:08Z'
   warnings: []
   errors: []
 ---
@@ -211,15 +217,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Manuel Francisco Pizarro Sampaio e Castro.
 
-**Promulgado em 1 de Julho de 2010.**
+Promulgado em 1 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de Julho de 2010.**
+Referendado em 6 de Julho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -327,7 +333,7 @@ E 233 - Tiabendazolo
 
 E 234 - Nisina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 235 - Natamicina
 
@@ -697,7 +703,7 @@ E 503 - (ii) Hidrogenocarbonato de amónio
 
 E 504 - (i) Carbonato de magnésio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 507 - Ácido clorídrico
 
@@ -769,7 +775,7 @@ E 525 - Hidróxido de potásssio
 
 E 526 - Hidróxido de cálcio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 527 - Hidróxido de amónio
 
@@ -781,7 +787,7 @@ E 528 - Hidróxido de magnésio
 
 E 529 - Óxido de cálcio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 530 - Óxido de magnésio
 
@@ -857,7 +863,7 @@ E 900 - Dimetilpolissiloxano
 
 E 901 - Cera de abelhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 902 - Cera de candelilha
 
@@ -987,19 +993,19 @@ Alteração ao anexo II do Decreto-Lei n.º 365/98, de 21 de Novembro
 
 ## ANEXO II — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 406 Ágar-ágar
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 410 - Farinha de sementes de alfarroba
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 413 - Goma adragante
 
@@ -1429,7 +1435,7 @@ E 635 - 5'-ribonucleótido dissódico
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
 
 E 912 - Ésteres do ácido montânico
 
@@ -1479,4 +1485,4 @@ E 967 - Xilitol
 
 QUADRO X
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf))](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/14600/0289102908.pdf)

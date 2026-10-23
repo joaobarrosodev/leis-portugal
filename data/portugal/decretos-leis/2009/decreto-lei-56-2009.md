@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2009/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2009-604668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7e29db901ac5b348d3818a51426830877473f835c82ba198fab4389b52ad8a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dad627f2e5c5f82b85b590d135daacb52f7405fda4b11d04dcbf32df9eebf219
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
+- Coimbra
+- Évora
+- Guimarães
 - Lisboa
 - Oficial de Justiça
-- Remuneração Acessória
-- Guimarães
-- Coimbra
+- Porto
 - Prorrogação de Prazo
 - Remuneração
-- Évora
+- Remuneração Acessória
+- Sistema Retributivo
+- Tribunal Central Administrativo
 - Tribunal Central Administrativo Norte
 - Tribunal Central Administrativo SUL
-- Tribunal Central Administrativo
 - Tribunal da Relação
-- Porto
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/2000/08/09/p/dre
@@ -112,16 +112,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/36/2007/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/36/2007/08/14/p/dre
+- type: cites
+  target: pt:dre:248189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683843:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:52Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +192,12 @@ O presente decreto-lei produz os seus efeitos desde 1 de Janeiro de 2009.
 
 Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 13 de Fevereiro de 2009.**
+Promulgado em 13 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de Fevereiro de 2009.**
+Referendado em 17 de Fevereiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

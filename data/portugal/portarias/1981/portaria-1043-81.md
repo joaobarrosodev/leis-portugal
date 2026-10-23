@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1043-1981-567397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 992ea7e98918d083aafe78e82d6e4ce8ee559d48eb296d6b357913962c75f4cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e11f2a7ca71fb977701f9cfee11b2032892043ada8d54ccfd10c060b0f33e98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Concurso
+- Direcção Geral dos Serviços Prisionais
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:17Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +117,13 @@ REGULAMENTO DE CONCURSOS DE ADMISSÃO E PROMOÇÃO DO PESSOAL DO QUADRO DA DIREC
 
 ### CAPÍTULO I — Dos concursos em geral
 
-###### Artigo 1.º O provimento dos lugares de ingresso e acesso dos quadros de pessoal da Direcção-Geral dos Serviços Prisionais (DGSP) processar-se-á de acordo com as regras consagradas na respectiva lei orgânica e no presente Regulamento.
+Artigo 1.º O provimento dos lugares de ingresso e acesso dos quadros de pessoal da Direcção-Geral dos Serviços Prisionais (DGSP) processar-se-á de acordo com as regras consagradas na respectiva lei orgânica e no presente Regulamento.
 
-###### Art. 2.º - 1 - Os concursos destinam-se ao preenchimento das vagas existentes à data da abertura do concurso e daquelas que se venham a verificar durante o prazo de 1 ano, contado a partir da data do respectivo aviso.
+Art. 2.º - 1 - Os concursos destinam-se ao preenchimento das vagas existentes à data da abertura do concurso e daquelas que se venham a verificar durante o prazo de 1 ano, contado a partir da data do respectivo aviso.
 
 2 - O prazo de validade dos concursos cessará com o preenchimento da última das vagas previstas no aviso de abertura.
 
-###### Art. 3.º - 1 - Dos avisos de abertura dos concursos constarão obrigatoriamente os seguintes elementos:
+Art. 3.º - 1 - Dos avisos de abertura dos concursos constarão obrigatoriamente os seguintes elementos:
 
 a) O lugar a prover, a descrição do respectivo conteúdo funcional, o número de vagas e o prazo de validade dos concursos;
 
@@ -122,7 +145,7 @@ h) Quaisquer outras indicações que forem julgadas necessárias para completo e
 
 3 - Quando se trate de concurso de promoção, o aviso, para além da normal publicação, será dado a conhecer mediante ordem de serviço afixada no local ou locais a que tenham acesso todos os funcionários.
 
-###### Art. 4.º - 1 - Os requerimentos de admissão aos concursos para lugares de ingresso serão dirigidos ao Ministro da Justiça e entregues na DGSP, no prazo de 30 dias a contar da data da publicação do respectivo aviso de abertura no Diário da República.
+Art. 4.º - 1 - Os requerimentos de admissão aos concursos para lugares de ingresso serão dirigidos ao Ministro da Justiça e entregues na DGSP, no prazo de 30 dias a contar da data da publicação do respectivo aviso de abertura no Diário da República.
 
 2 - Nos concursos de promoção são oficiosamente considerados como candidatos os funcionários que reúnam os requisitos legais de promoção, os quais constarão de lista provisória publicada com o respectivo aviso de abertura.
 
@@ -150,7 +173,7 @@ d) Quaisquer outros elementos que ilustrem a sua aptidão para o exercício do c
 
 ### CAPÍTULO II — Dos júris
 
-###### Art. 5.º - 1 - O júri dos concursos será constituído por 1 presidente e 2 vogais.
+Art. 5.º - 1 - O júri dos concursos será constituído por 1 presidente e 2 vogais.
 
 2 - O presidente do júri será o director-geral dos Serviços Prisionais ou a entidade em que este delegue, de categoria não inferior a chefe de divisão.
 
@@ -168,11 +191,11 @@ d) Quaisquer outros elementos que ilustrem a sua aptidão para o exercício do c
 
 ### CAPÍTULO III — Admissão aos concursos e organização das listas
 
-###### Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, por período não superior a 8 dias, para verificação dos processos dos candidatos.
+Art. 6.º - 1 - Expirado o prazo para entrega dos requerimentos e demais documentação, o júri reunirá, por período não superior a 8 dias, para verificação dos processos dos candidatos.
 
 2 - Se, após o exame dos documentos, se constatar que existem deficiências ou omissões, o júri marcará um prazo, não superior a 8 dias úteis, para que as mesmas sejam sanadas ou supridas.
 
-###### Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará, no caso dos concursos de ingresso, a lista dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República nos 8 dias seguintes ao da deliberação.
+Art. 7.º - 1 - Completada a organização dos processos, o júri elaborará, no caso dos concursos de ingresso, a lista dos candidatos admitidos e excluídos, a qual será enviada para publicação no Diário da República nos 8 dias seguintes ao da deliberação.
 
 2 - Em caso de exclusão de candidatos, os motivos serão sempre indicados na lista a que se refere o n.º 1.
 
@@ -182,13 +205,13 @@ d) Quaisquer outros elementos que ilustrem a sua aptidão para o exercício do c
 
 5 - Tratando-se de concursos de prestação de provas, do anúncio que publicar a lista na sua versão definitiva deverá constar o local, dia e hora da realização das respectivas provas.
 
-###### Art. 8.º Nos concursos de promoção, o prazo de 5 dias para recorrer para o Ministro da Justiça da exclusão da lista decorre desde a data da sua publicação, aplicando-se mais as regras constantes dos n.os 3 e 4 do artigo anterior.
+Art. 8.º Nos concursos de promoção, o prazo de 5 dias para recorrer para o Ministro da Justiça da exclusão da lista decorre desde a data da sua publicação, aplicando-se mais as regras constantes dos n.os 3 e 4 do artigo anterior.
 
 ### CAPÍTULO IV — Dos concursos de admissão e promoção
 
 #### SECÇÃO I — Concursos de admissão
 
-###### Art. 9.º - 1 - Os concursos de admissão far-se-ão de acordo com os métodos de selecção previstos nos números seguintes.
+Art. 9.º - 1 - Os concursos de admissão far-se-ão de acordo com os métodos de selecção previstos nos números seguintes.
 
 2 - Os concursos de provimento para lugares de ingresso nas carreiras de pessoal técnico superior e técnico far-se-ão mediante concurso documental, completado, se necessário, por entrevistas e exames de natureza psicológica.
 
@@ -204,11 +227,11 @@ d) Quaisquer outros elementos que ilustrem a sua aptidão para o exercício do c
 
 8 - Os concursos de provimento para os lugares de ingresso nas carreiras do pessoal operário qualificado e semiqualificado far-se-ão nos termos do disposto no n.º 16 da [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro.
 
-###### Art. 10.º Na organização e realização dos concursos, bem como na aplicação dos métodos de selecção referenciados no artigo anterior, a DGSP poderá receber a colaboração dos serviços vocacionados para a formação de pessoal.
+Art. 10.º Na organização e realização dos concursos, bem como na aplicação dos métodos de selecção referenciados no artigo anterior, a DGSP poderá receber a colaboração dos serviços vocacionados para a formação de pessoal.
 
 #### SECÇÃO II — Concursos de promoção
 
-###### Art. 11.º - 1 - Sem prejuízo do disposto nos artigos seguintes, nos concursos de promoção deverá o júri, para efeitos de avaliação do mérito e classificação dos candidatos, observar como factores essenciais os seguintes:
+Art. 11.º - 1 - Sem prejuízo do disposto nos artigos seguintes, nos concursos de promoção deverá o júri, para efeitos de avaliação do mérito e classificação dos candidatos, observar como factores essenciais os seguintes:
 
 a) Currículo do candidato, em que será considerado como elemento relevante o trabalho produzido no decurso dos últimos 3 anos;
 
@@ -224,19 +247,19 @@ c) Maior antiguidade na DGSP;
 
 d) Maior antiguidade na Administração Pública.
 
-###### Art. 12.º Nos concursos de provimento nos lugares de assessor haverá lugar à prestação de provas públicas, que constarão de:
+Art. 12.º Nos concursos de provimento nos lugares de assessor haverá lugar à prestação de provas públicas, que constarão de:
 
 a) Discussão do currículo, do qual deverão constar, entre outros elementos, referências a estudos elaborados ou publicados e actividades e realizações levadas a efeito;
 
 b) Discussão de trabalho anteriormente realizado ou a realizar para o efeito sobre matéria que se relacione directamente com os objectivos prosseguidos pelo serviço onde ocorrem as vagas.
 
-###### Art. 13.º A progressão nas carreiras horizontais referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, não está condicionada à realização de concurso, sem prejuízo da exigência de classificação não inferior a Bom nos 5 anos anteriores àqueles em que se opera a mudança para a categoria superior e sempre no ano imediatamente anterior.
+Art. 13.º A progressão nas carreiras horizontais referidas no n.º 4 do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, não está condicionada à realização de concurso, sem prejuízo da exigência de classificação não inferior a Bom nos 5 anos anteriores àqueles em que se opera a mudança para a categoria superior e sempre no ano imediatamente anterior.
 
-###### Art. 14.º Ao júri dos concursos de promoção, no dia seguinte à afixação do aviso de abertura, serão facultados pelos serviços de pessoal os processos individuais dos funcionários candidatos, podendo aqueles ser completados com outros dados, a pedido do interessado ou de qualquer membro do júri, tendo em vista a apreciação curricular dos candidatos.
+Art. 14.º Ao júri dos concursos de promoção, no dia seguinte à afixação do aviso de abertura, serão facultados pelos serviços de pessoal os processos individuais dos funcionários candidatos, podendo aqueles ser completados com outros dados, a pedido do interessado ou de qualquer membro do júri, tendo em vista a apreciação curricular dos candidatos.
 
 ### CAPÍTULO V — Da classificação dos candidatos e dos recursos
 
-###### Art. 15.º - 1 - O júri apreciará as condições em que se encontram os candidatos relativamente a cada um dos factores que devam ser considerados no respectivo concurso, procedendo à respectiva classificação ou ordenação.
+Art. 15.º - 1 - O júri apreciará as condições em que se encontram os candidatos relativamente a cada um dos factores que devam ser considerados no respectivo concurso, procedendo à respectiva classificação ou ordenação.
 
 2 - Na classificação seguir-se-á a escala de 0 a 20 valores quando estejam em causa a prestação de provas, procedendo-se à ordenação dos candidatos por ordem decrescente do seu mérito relativo, quando se trate de apreciação curricular.
 
@@ -248,12 +271,12 @@ b) Discussão de trabalho anteriormente realizado ou a realizar para o efeito so
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Justiça e da Reforma Administrativa.
+Art. 16.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros da Justiça e da Reforma Administrativa.
 
-###### Art. 17.º Fica ressalvado o disposto no despacho conjunto publicado ao abrigo do artigo 89.º, n.º 4, do [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro.
+Art. 17.º Fica ressalvado o disposto no despacho conjunto publicado ao abrigo do artigo 89.º, n.º 4, do [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro.
 
-###### Art. 18.º A aplicação desta portaria far-se-á com observância das disposições aplicáveis do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio.
+Art. 18.º A aplicação desta portaria far-se-á com observância das disposições aplicáveis do [Decreto-Lei n.º 140/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1981-574675), de 30 de Maio.
 
-###### Art. 19.º O disposto na presente portaria não prejudicará a aplicação das disposições genéricas que, em matéria de recrutamento e selecção, vierem a ser estabelecidas no diploma a publicar ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 19.º O disposto na presente portaria não prejudicará a aplicação das disposições genéricas que, em matéria de recrutamento e selecção, vierem a ser estabelecidas no diploma a publicar ao abrigo do artigo 3.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
 Ministérios da Justiça e da Reforma Administrativa, 20 de Novembro de 1981. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

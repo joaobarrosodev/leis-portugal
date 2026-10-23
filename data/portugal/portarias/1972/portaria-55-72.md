@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/01/02500/01190119.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/55-1972-398340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22c52eb54050ecd750150fdd615265c5d730dff4b23100b9cf101c3d7991ef66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: accb5597840a63b884b8d820f42e5f313fd99206ada3ede1a30a990833be2234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,25 @@ relationships:
   target: pt:dre:314625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:370403:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314625:por
+  label: "Revogada pelo DEC LEI.439/75.16.08.1975.MTC, DG.IS [188] de 16.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-1975-314625
+  date: '1975-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:04Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +102,7 @@ Ao abrigo do disposto no artigo 18.º do [Decreto-Lei n.º 37218](https://diario
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que as taxas a cobrar por serviços de registo, de vistorias e de exames a cargo da Brigada Naval da Legião Portuguesa passem a ser as que figuram na tabela anexa à presente portaria.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Tabela de taxas a cobrar pela Brigada Naval da Legião Portuguesa por serviços de registo, de vistorias e de exames.
 
@@ -199,4 +208,4 @@ Notas
 
 10 - Cada embarcação de recreio paga, na secção de desportos náuticos, a importância de 15$00 por tonelada ou fracção, destinada ao Instituto de Socorros a Náufragos.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

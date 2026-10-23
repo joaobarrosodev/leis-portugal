@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 294/1996, 1º Suplemento, Série I-A de 1996-12-20
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4578-(4) a 4578-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/294a01/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/30-m/1996/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/30-m-1996-440353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f899807c7987aced7e68fd716fba76dcf2a5d38ed7fa5db1503fe545d103e5c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dd3b072efb9451fcfba2ed3b6e9c99e8e7b021ca2e9c11770ff12b790652841
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:59Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +85,16 @@ validation:
 
 de 20 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 137.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a José Celorico, de 71 anos de idade, no processo n.º 7/92 do Tribunal de Círculo de Castelo Branco é reduzida, por indulto, em um ano de prisão, por razões humanitárias.
 
-**Assinado em 20 de Dezembro de 1996.**
+Assinado em 20 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Dezembro de 1996.**
+Referendado em 20 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

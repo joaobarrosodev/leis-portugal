@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/108a00/24122418.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/153/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1999-331176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb2fd13c838de4491c52a1e66d84e4bdd29a20d12c0c25f861cf4dffcdbd00ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e97a3b3680f9e7751dcadf898a50e80003d60c5162561b01f6953c1bfc34b24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Secretaria Geral
-- Ministério da Economia
 - Integração de Trabalhadores
+- Ministério da Economia
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Secretaria Geral
 - Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:654679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654681:por
+  label: "Determinada a sucessão do GAGEST à Secretaria Geral nas áreas de intervenção referidas nas disposições constantes\
+    \ das als. b), com excepção da área de documentação, d), na parte referente à coordenação e elaboração dos projectos de\
+    \ orçamento e investimento do Ministério, h) e i) do art. 2º deste diploma, pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A\
+    \ [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/222/1996/11/25/p/dre
   label: null
@@ -93,16 +101,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1133/1995/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1133/1995/09/15/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573117:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654679:por
+  label: "Revogado pelo DEC LEI.187/2003.2003.08.20.MECO DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2003-654679
+  date: '2003-08-20'
 article_structure:
   article_count: 27
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:36Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +262,9 @@ a) A Divisão de Estudos e Planeamento;
 
 b) A Divisão de Orçamento, Contabilidade e Património.
 
-###### Artigo 6.º — Divisão de Estudos e Planeamento
+###### Artigo 6.º
+
+##### Divisão de Estudos e Planeamento
 
 À Divisão de Estudos e Planeamento compete:
 
@@ -233,7 +280,9 @@ e) Elaborar, em articulação com os demais serviços, o plano anual de activida
 
 f) Estudar e propor iniciativas tendentes à racionalização das instalações e equipamentos.
 
-###### Artigo 7.º — Divisão de Orçamento, Contabilidade e Património
+###### Artigo 7.º
+
+##### Divisão de Orçamento, Contabilidade e Património
 
 1 - À Divisão de Orçamento, Contabilidade e Património compete:
 
@@ -277,7 +326,9 @@ a) A Divisão de Gestão de Pessoal e Expediente;
 
 b) A Divisão de Formação.
 
-###### Artigo 9.º — Divisão de Gestão de Pessoal e Expediente
+###### Artigo 9.º
+
+##### Divisão de Gestão de Pessoal e Expediente
 
 1 - À Divisão de Gestão de Pessoal e Expediente compete:
 
@@ -331,7 +382,9 @@ a) A Secção de Pessoal, à qual incumbem as tarefas a que se referem as alíne
 
 b) A Secção de Expediente e Arquivo, à qual incumbem as tarefas a que se referem as alíneas t) a x) do número anterior.
 
-###### Artigo 10.º — Divisão de Formação
+###### Artigo 10.º
+
+##### Divisão de Formação
 
 À Divisão de Formação compete:
 
@@ -361,7 +414,9 @@ a) A Divisão de Modernização e Qualidade;
 
 b) O Gabinete de Auditoria de Gestão.
 
-###### Artigo 12.º — Divisão de Modernização e Qualidade
+###### Artigo 12.º
+
+##### Divisão de Modernização e Qualidade
 
 À Divisão de Modernização e Qualidade compete:
 
@@ -585,15 +640,15 @@ Consideram-se automaticamente afectos ou transferidos para a Secretaria-Geral os
 
 Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA A QUE SE REFERE O N.º 1 DO ARTIGO 21.º
 

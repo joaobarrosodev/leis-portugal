@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/62-1986-221086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a53e14d572ef1d5bc599dddf71c42557ffe9c729380b3ef723d100c24bb18d5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b989b3146a8da2c7008dfc8a2ae0929c0f1b3733d33b4d926627d8f1818db51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Superior
+- Orgânica
+- Quadro de Pessoal
+- Serviços Sociais Universitários
+- Universidade da Beira Interior
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUÍDO O QUADRO DE PESSOAL PELA PORT 961/95 DE 08-AGO DR.IS-B [182]\0B [182]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-08-08'
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os artigos\
+    \ 34.º a 45.º pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:46Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +138,11 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º Os Serviços Sociais da Universidade da Beira Interior, adiante designados por SSUBI, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
+Artigo 1.º Os Serviços Sociais da Universidade da Beira Interior, adiante designados por SSUBI, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira.
 
-###### Art. 2.º Os SSUBI têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Art. 2.º Os SSUBI têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
 
-###### Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUBI beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade da Beira Interior (UBI) e preencham as condições legalmente fixadas.
+Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUBI beneficiará todos os estudantes interessados, desde que estejam matriculados na Universidade da Beira Interior (UBI) e preencham as condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na UBI que não sejam abrangidos pela acção social de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUBI, nos termos do disposto nos números seguintes.
 
@@ -122,7 +158,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 #### SECÇÃO I — Órgãos
 
-###### Art. 4.º Os SSUBI têm os seguintes órgãos:
+Art. 4.º Os SSUBI têm os seguintes órgãos:
 
 a) Presidente;
 
@@ -130,9 +166,9 @@ b) Conselho geral;
 
 c) Conselho administrativo.
 
-###### Art. 5.º O cargo de presidente dos SSUBI é inerente ao de reitor da UBI.
+Art. 5.º O cargo de presidente dos SSUBI é inerente ao de reitor da UBI.
 
-###### Art. 6.º - 1 - Compete ao Presidente dirigir superiormente os Serviços Sociais e orientar e coordenar as suas actividades, designadamente:
+Art. 6.º - 1 - Compete ao Presidente dirigir superiormente os Serviços Sociais e orientar e coordenar as suas actividades, designadamente:
 
 a) Assegurar a gestão corrente dos Serviços Sociais;
 
@@ -152,11 +188,11 @@ g) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 3 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
-###### Art. 7.º - 1 - O cargo de vice-presidente dos Serviços Sociais é equiparado, para todos os efeitos legais, ao de subdirector-geral.
+Art. 7.º - 1 - O cargo de vice-presidente dos Serviços Sociais é equiparado, para todos os efeitos legais, ao de subdirector-geral.
 
 2 - O vice-presidente dos SSUBI é nomeado pelo Ministro da Educação e Cultura, sob proposta do presidente, de entre indivíduos com licenciatura e experiência adequada ao cargo.
 
-###### Art. 8.º - 1 - O conselho geral é constituído por:
+Art. 8.º - 1 - O conselho geral é constituído por:
 
 a) O presidente dos Serviços Sociais, que preside;
 
@@ -182,7 +218,7 @@ f) Dois representantes da Associação de Estudantes da UBI.
 
 7 - Os membros do conselho geral referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após o termo dos respectivos mandatos, até que sejam designados os novos membros que os irão substituir.
 
-###### Art. 9.º Compete ao conselho geral dos Serviços Sociais da UBI:
+Art. 9.º Compete ao conselho geral dos Serviços Sociais da UBI:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter à aprovação do CASES;
 
@@ -200,7 +236,7 @@ g) Dar parecer sobre os assuntos que lhe sejam apresentados pelo presidente;
 
 h) Acompanhar o funcionamento e consultar a documentação dos serviços operativos e de apoio, podendo, para o efeito, delegar poderes em alguns dos seus membros.
 
-###### Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente dos Serviços Sociais, por sua inicativa ou a pedido de, pelo menos, dois dos seus membros.
+Art. 10.º - 1 - O conselho geral reunirá ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente dos Serviços Sociais, por sua inicativa ou a pedido de, pelo menos, dois dos seus membros.
 
 2 - A convocatória para a reuião do conselho geral será acompanhada da lista dos assuntos a tratar na reunião.
 
@@ -212,7 +248,7 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 6 - Poderão participar nas reuniões do conselho geral, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUBI cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-###### Art. 11.º - 1 - O conselho administrativo dos SSUBI é constituído por:
+Art. 11.º - 1 - O conselho administrativo dos SSUBI é constituído por:
 
 a) O presidente dos Serviços Sociais, que preside;
 
@@ -226,7 +262,7 @@ d) O chefe da Repartição de Administração Geral, que secretaria.
 
 3 - Nas faltas ou impedimentos dos membros do conselho administrativo mencionados nas alíneas a), b) e d) do n.º 1, será chamado a participar nas respectivas reuniões o seu substituto, o qual, se não estiver designado na lei, será o funcionário exercendo funções na escala hierárquica imediatamente inferior.
 
-###### Art. 12.º - 1 - Compete ao conselho administrativo dos Serviços Sociais da UBI:
+Art. 12.º - 1 - Compete ao conselho administrativo dos Serviços Sociais da UBI:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -252,7 +288,7 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 2 - Em matéria de autorização de despesas e de celebração de contratos, o conselho administrativo terá a competência atribuída na lei geral aos responsáveis dos serviços dotados com autonomia administrativa e financeira e a que for atribuída por delegação do Ministro da Educação e Cultura.
 
-###### Art. 13.º - 1 - O conselho administrativo dos Serviços Sociais da UBI reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
+Art. 13.º - 1 - O conselho administrativo dos Serviços Sociais da UBI reunirá ordinariamente duas vezes por mês e extraordinariamente por solicitação de qualquer dos seus membros.
 
 2 - O conselho administrativo só poderá deliberar quando se encontre presente a maioria simples dos seus membros.
 
@@ -268,13 +304,13 @@ l) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Serviços
 
-###### Art. 14.º São serviços dos SSUBI:
+Art. 14.º São serviços dos SSUBI:
 
 a) Os serviços operativos;
 
 b) A Repartição de Administração Geral.
 
-###### Art. 15.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
+Art. 15.º - 1 - Os serviços operativos exercem as suas atribuições nos domínios:
 
 a) Do alojamento;
 
@@ -288,7 +324,7 @@ d) Procuradoria, livraria e material escolar.
 
 3 - O vice-presidente será coadjuvado, em cada um dos domínios de acção dos serviços operativos, por um dos funcionários neles colocados, a designar para o efeito.
 
-###### Art. 16.º Em matéria de alojamento, compete aos SSUBI:
+Art. 16.º Em matéria de alojamento, compete aos SSUBI:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -308,7 +344,7 @@ h) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 i) Assegurar a lavagem e tratamento de roupas.
 
-###### Art. 17.º Em matéria de alimentação, compete aos SSUBI:
+Art. 17.º Em matéria de alimentação, compete aos SSUBI:
 
 a) Providenciar pela abertura e assegurar o funcionamento de refeitórios, snacks e bares;
 
@@ -322,7 +358,7 @@ e) Enviar directamente aos serviços competentes as receitas dos refeitórios, s
 
 f) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos Serviços Sociais.
 
-###### Art. 18.º Em matéria de bolsas e empréstimos, compete aos SSUBI:
+Art. 18.º Em matéria de bolsas e empréstimos, compete aos SSUBI:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -334,7 +370,7 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar aos serviços competentes os elementos necessários à elaboração dos orçamentos e relatórios anuais dos Serviços Sociais.
 
-###### Art. 19.º Em matéria de procuradoria, livraria e material escolar, compete aos SSUBI:
+Art. 19.º Em matéria de procuradoria, livraria e material escolar, compete aos SSUBI:
 
 a) Tratar dos problemas académicos dos alunos junto dos Serviços Académicos da Universidade da Beira Interior;
 
@@ -362,13 +398,13 @@ m) Enviar aos serviços competentes os elementos necessários à elaboração do
 
 n) Manter permanentemente actualizado um sistema de controle de actualização e consumos.
 
-###### Art. 20.º A Repartição de Administração Geral é dirigida por um chefe de repartição e compreende:
+Art. 20.º A Repartição de Administração Geral é dirigida por um chefe de repartição e compreende:
 
 a) Secção Administrativa;
 
 b) Secção de Aprovisionamento.
 
-###### Art. 21.º A Secção Administrativa exerce as suas atribuições nos domínios da contabilidade e orçamento, do pessoal, expediente geral e arquivo, competindo-lhe:
+Art. 21.º A Secção Administrativa exerce as suas atribuições nos domínios da contabilidade e orçamento, do pessoal, expediente geral e arquivo, competindo-lhe:
 
 a) Preparar e elaborar o projecto de orçamento ordinário dos SSUBI, bem como os dos orçamentos suplementares, e todos os processos de alteração orçamental, designadamente os de reforço e transferência de verbas e de antecipação de duodécimos;
 
@@ -410,7 +446,7 @@ t) Assegurar o expediente dos Serviços Sociais, bem como a organização, manut
 
 u) Assegurar uma adequada circulação de documentos e normas pelos serviços.
 
-###### Art. 22.º Adstrita à Secção Administrativa funciona uma tesouraria, à qual compete:
+Art. 22.º Adstrita à Secção Administrativa funciona uma tesouraria, à qual compete:
 
 a) Efectuar os pagamentos e recebimentos;
 
@@ -420,7 +456,7 @@ c) Registar as folhas de cofre e remetê-las à contabilidade;
 
 d) Proceder ao balanço mensal da tesouraria.
 
-###### Art. 23.º A Secção de Aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
+Art. 23.º A Secção de Aprovisionamento exerce as suas atribuições nos domínios de compras, gestão de stocks e património, competindo-lhe:
 
 a) Proceder à prospecção de mercados, elaborando o respectivo processo de consultas;
 
@@ -460,7 +496,7 @@ s) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-###### Art. 24.º - 1 - Os SSUBI arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Art. 24.º - 1 - Os SSUBI arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUBI:
 
@@ -482,33 +518,33 @@ h) Quaisquer outras receitas que, por lei ou a outro título, lhes sejam atribu�
 
 3 - As receitas referidas nas alíneas b) a h) serão entregues nos cofres do Estado e escrituradas em contas de ordem no Orçamento do Estado, devendo ser movimentadas nos termos da lei geral aplicável.
 
-###### Art. 25.º - 1 - As disponibilidades dos SSUBI serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+Art. 25.º - 1 - As disponibilidades dos SSUBI serão depositadas na Caixa Geral de Depósitos, sem prejuízo de se poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-###### Art. 26.º Para a realização dos seus fins, os SSUBI administrarão os bens do domínio público a seu cargo.
+Art. 26.º Para a realização dos seus fins, os SSUBI administrarão os bens do domínio público a seu cargo.
 
-###### Art. 27.º A gestão económica e financeira dos SSUBI será disciplinada pelos seguintes instrumentos de gestão:
+Art. 27.º A gestão económica e financeira dos SSUBI será disciplinada pelos seguintes instrumentos de gestão:
 
 a) Plano de actividades financeiras anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-###### Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUBI promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o conselho administrativo dos SSUBI promoverá a elaboração do respectivo orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do Ministro da Educação e Cultura, após aprovação do conselho geral e do CASES, e ao visto do Ministro das Finanças, nos prazos legais.
 
 3 - Os SSUBI poderão submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo quer ainda para fins de alteração de rubricas.
 
-###### Art. 29.º O conselho administrativo dos SSUBI requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais que lhes estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
+Art. 29.º O conselho administrativo dos SSUBI requisitará mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais que lhes estejam atribuídas no Orçamento do Estado e das constantes de contas de ordem.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 30.º - 1 - Os SSUBI dispõem do quadro de pessoal anexo ao presente diploma.
+Art. 30.º - 1 - Os SSUBI dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, poderá ser revisto o quadro de pessoal dos SSUBI, mediante portaria conjunta dos Ministros das Finanças e da Educação e Cultura e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 31.º O quadro de pessoal dos SSUBI compreenderá os seguintes grupos profissionais:
+Art. 31.º O quadro de pessoal dos SSUBI compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -522,7 +558,7 @@ e) Pessoal operário;
 
 f) Pessoal auxiliar.
 
-###### Art. 32.º - 1 - O provimento de pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 32.º - 1 - O provimento de pessoal a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -540,19 +576,19 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 33.º As formas de recrutamento e regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
+Art. 33.º As formas de recrutamento e regime de provimento do pessoal dirigente são os previstos no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
 
-###### Art. 34.º Os lugares de chefe de repartição serão providos por concurso de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço ou de entre diplomados com curso superior adequado e reconhecida experiência para o desempenho das respectivas funções.
+Art. 34.º Os lugares de chefe de repartição serão providos por concurso de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço ou de entre diplomados com curso superior adequado e reconhecida experiência para o desempenho das respectivas funções.
 
-###### Art. 35.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são os previstos na lei geral.
+Art. 35.º As formas de recrutamento e regime de provimento para os lugares da carreira técnica superior são os previstos na lei geral.
 
-###### Art. 36.º As formas de recrutamento e regime de provimento do pessoal técnico são os previstos na lei geral.
+Art. 36.º As formas de recrutamento e regime de provimento do pessoal técnico são os previstos na lei geral.
 
-###### Art. 37.º - 1 - As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são os previstos na lei geral.
+Art. 37.º - 1 - As formas de recrutamento e regime de provimento para os lugares de chefe de secção, oficial administrativo, tesoureiro e escriturário-dactilógrafo são os previstos na lei geral.
 
 2 - Os lugares de auxiliar técnico administrativo são providos nos termos do [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
 
-###### Art. 38.º - 1 - Os lugares de telefonista e motorista são providos nos termos da lei geral.
+Art. 38.º - 1 - Os lugares de telefonista e motorista são providos nos termos da lei geral.
 
 2 - O recrutamento, ingresso e acesso nos lugares de auxiliar administrativo far-se-á nos termos da lei geral.
 
@@ -562,9 +598,9 @@ a) O ingresso na categoria mais baixa da respectiva carreira fica condicionado �
 
 b) O acesso fica condicionado à permanência de cinco anos de bom e efectivo serviço na categoria anterior.
 
-###### Art. 39.º O provimento do pessoal operário em lugares do quadro dos SSUBI, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
+Art. 39.º O provimento do pessoal operário em lugares do quadro dos SSUBI, bem como a progressão nas respectivas carreiras, far-se-á segundo o disposto na lei geral.
 
-###### Art. 40.º Ao pessoal do serviço de alimentação compete, designadamente:
+Art. 40.º Ao pessoal do serviço de alimentação compete, designadamente:
 
 1) Aos cozinheiros:
 
@@ -614,7 +650,7 @@ d) Transportar os géneros aos bares, snack-bars e refeitórios;
 
 e) Proceder à limpeza do seu local de trabalho e utensílios.
 
-###### Art. 41.º Compete aos empregados de andar/quarto:
+Art. 41.º Compete aos empregados de andar/quarto:
 
 a) Executar todas as tarefas relativas ao asseio e arranjo dos quartos, assim como dos corredores, acessos, locais de convívio e demais dependências dos alojamentos;
 
@@ -624,7 +660,7 @@ c) Recolher a roupa pessoal dos utentes das residências e assegurar o seu envio
 
 d) Colaborar no serviço de pequenos-almoços.
 
-###### Art. 42.º Compete aos operadores de lavandaria:
+Art. 42.º Compete aos operadores de lavandaria:
 
 a) Executar as tarefas de lavagem e tratamento de roupas, incluindo a preparação e funcionamento das máquinas de lavar e a desinfecção e preparação de autoclaves;
 
@@ -634,7 +670,7 @@ c) Executar as tarefas de costura, conserto e aproveitamento das roupas;
 
 d) Manter a limpeza do seu local de trabalho e utensílios.
 
-###### Art. 43.º Compete aos operadores de caixa:
+Art. 43.º Compete aos operadores de caixa:
 
 a) Receber e vender senhas de refeição e extras;
 
@@ -642,7 +678,7 @@ b) Elaborar mapas de movimento diário;
 
 c) Fazer a entrega diária de todas as receitas relativas.
 
-###### Art. 44.º Compete aos fiéis de armazém:
+Art. 44.º Compete aos fiéis de armazém:
 
 a) Receber, armazenar, conservar e distribuir os materiais e géneros alimentares necessários, arrumando-os convenientemente em locais apropriados;
 
@@ -650,7 +686,7 @@ b) Fornecer os produtos solicitados;
 
 c) Assegurar a limpeza do seu local de trabalho.
 
-###### Art. 45.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
+Art. 45.º Aos encarregados responsáveis pelos vários sectores de alimentação e de alojamento compete, nomeadamente:
 
 a) Organizar, coordenar e orientar as áreas de actuação sob a sua responsabilidade;
 
@@ -662,7 +698,7 @@ d) Receber os produtos conferindo as guias de remessa, verificar periodicamente 
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 46.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
+Art. 46.º - 1 - A integração em lugares do quadro anexo ao presente diploma do pessoal abrangido pelo disposto no artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, far-se-á por diploma individual de provimento, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -684,26 +720,26 @@ c) Para categoria que resulte da aplicação da tabela de equivalências constan
 
 8 - O pessoal não abrangido pelo artigo 40.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e que esteja a prestar serviço nos SSUBI à data da entrada em vigor do presente diploma transita para lugares do quadro anexo, de acordo com o disposto nas alíneas a), b) e c) do n.º 1, sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
-###### Art. 47.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUBI ao abrigo da legislação geral do trabalho à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+Art. 47.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço nos SSUBI ao abrigo da legislação geral do trabalho à data de entrada em vigor do presente diploma, opte pela não integração no quadro anexo a este decreto regulamentar será remunerado com vencimentos e outras regalias correspondentes às dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
 
-###### Art. 48.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUBI.
+Art. 48.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas verbas do orçamento dos SSUBI.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 16 de Outubro de 1986.**
+Promulgado em 16 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Outubro de 1986.**
+Referendado em 21 de Outubro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se referem os artigos 34.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, e 30.º deste diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 46.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25600/33413350.pdf)

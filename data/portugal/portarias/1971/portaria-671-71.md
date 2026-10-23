@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/671-1971-632013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd7ff394c6b44953f8b2e605140a7288d0ad46f2495efe7c864f6000214bf06e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a75e2f3e727e206f3447e5c2f2ed1ee49a9680a32f3b12bcdf67a9c473f2e45b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644141:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:31Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +112,7 @@ a) As referências feitas ao Ministro da Justiça considerar-se-ão feitas ao go
 
 b) O artigo 13.º passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1. A naturalidade é inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da província, da sede do concelho ou de circunscrição e da freguesia correspondente ao local do nascimento.
+Art. 13.º - 1. A naturalidade é inscrita no bilhete de identidade mediante menção, sempre que possível sob a designação actual, da província, da sede do concelho ou de circunscrição e da freguesia correspondente ao local do nascimento.
 
 2. Em relação aos naturais do estrangeiro, inscreve-se apenas a designação do país em que se situe o local de nascimento.
 
@@ -120,6 +128,6 @@ c) O n.º 2 do artigo 15.º passa a ter a seguinte redacção:
 
 5.º Os modelos de bilhete de identidade em uso no ultramar poderão a todo o tempo ser alterados por portaria do Ministro do Ultramar.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

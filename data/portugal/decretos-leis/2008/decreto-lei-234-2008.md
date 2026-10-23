@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/234/2008/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2008-440817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ae874bd2dbacb3bc5af6cb7e285c999fd8fb39337429ba55ce8da8309b1ee89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aedd0754b240acc0ce14cadcdf658780a7b7b26b7f5f8d9df09f5731bc897172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,18 +70,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral da Saúde
-- Definição de Competências
 - Administração Central do Sistema de Saúde
+- Definição de Competências
+- Direção Geral da Saúde
 - Estrutura de Missão Parcerias Saúde
-- Orgânica
 - Ministério da Saúde
+- Orgânica
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:543026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306579:por
+  label: "Alterado o art. 18º do Dec Lei 219/2007, de 29-Maio, na redacção do presente diploma, pelo DEC LEI.136/2010.27.12.2010.MS,\
+    \ DR.IS [249] de 27.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-2010-306579
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério da Saúde dos serviços, organismos e entidades identificados no Dec lei\
+    \ 212/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 18º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:146212:por
+  label: "Alterado o art. 16º do Dec Lei 212/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.108/2011.17.11.2011.MS,\
+    \ DR.IS [221] de 17.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2011-146212
+  date: '2011-11-17'
 - type: cites
   target: eli:http://data.dr
   label: null
@@ -122,16 +141,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/162/2001/11/16/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/162/2001/11/16/p/dre
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693181:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:601753:por
+  label: "Rectificado o sumário pela DECL-RECT.6/2009.29.01.2009.PCM, DR.IS [20] de 29.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-2009-601753
+  date: '2009-01-29'
+- type: repealed_by
+  target: pt:dre:145186:por
+  label: "Revogado a partir de 03.01.2012., o Dec Lei 212/2006, de 27-Out, na redacção do presente diploma, pelo DEC LEI.124/2011.29.12.2011.MS,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2011-145186
+  date: '2011-12-29'
+- type: repealed_by
+  target: pt:dre:543026:por
+  label: "Revogado, a partir de 01.03.2012, o Dec Lei 219/2007 de 29-mai, alterado pelo presente diploma, pelo DEC LEI.35/2012.15.02.2012.MS,\
+    \ DR.IS [33] de 15.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2012-543026
+  date: '2012-02-15'
 article_structure:
-  article_count: 43
+  article_count: 38
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:13Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +254,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A Administração Central do Sistema de Saúde, I. P., abreviadamente designada por ACSS, I. P., tem por missão assegurar a gestão dos recursos financeiros e humanos das instalações e equipamentos, dos sistemas e tecnologias da informação do Serviço Nacional de Saúde, bem como proceder à definição e implementação de políticas, normalização, regulamentação e planeamento em saúde, nas áreas da sua intervenção, em articulação com as administrações regionais de saúde, incluindo os respectivos departamentos no domínio da contratação da prestação de cuidados.
 
@@ -268,7 +346,9 @@ u) ...
 
 6 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -286,7 +366,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -296,7 +378,9 @@ c) ...
 
 4 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 ...
 
@@ -310,7 +394,9 @@ d) ...
 
 e) (Revogada.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As atribuições previstas na alínea r) do n.º 2 do artigo 3.º do presente decreto-lei são prosseguidas pela Estrutura de Missão Parcerias.Saúde, criada pela [Resolução do Conselho de Ministros n.º 162/2001](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/162-2001-605102), de 16 de Novembro, até 31 de Dezembro de 2009, data em que esta se extinguirá.
 
@@ -330,15 +416,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Ana Maria Teodoro Jorge.
 
-**Promulgado em 11 de Novembro de 2008.**
+Promulgado em 11 de Novembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Novembro de 2008.**
+Referendado em 12 de Novembro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 [Decreto-Lei n.º 212/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-2006-545638), de 27 de Outubro
 
@@ -786,10 +872,10 @@ No quadro da reforma dos laboratórios do Estado, podem ser objecto de revisão 
 
 ## ANEXO I — Cargos de direcção superior da administração directa (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf)
 
 (1) Não inclui o Alto-Comissariado da Saúde.
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23300/0860008608.pdf)

@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-1978-329456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T05:44:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f239d0bc8f9487d85908b0c1435b088f476fb0730b4c8dc739bb9b0f4f3d8ba3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6de9fbc24a35a5c9843d6fde92085d4edd9cf5a79d6c57bc55471770568cefa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:44:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Comissão Directiva
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:625666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572168:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625666:por
+  label: "Revogado o presente diploma, pela PORT.312/89.27.04.1989.MF, DR.IS [97] de 27.04.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-1989-625666
+  date: '1989-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:44:13Z'
   warnings: []
   errors: []
 ---

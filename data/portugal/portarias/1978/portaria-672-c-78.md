@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 268/1978, 4º Suplemento, Série I de 1978-11-21
   number: '268'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 2446-(12) a 2446-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26804/00120012.pdf
 entry_into_force_dates: []
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-c-1978-665915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T05:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5e50a2ad20e2bd2ee12a287b0eb388878e506bbc1d7975baae4a28b66bfe9e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64551a5875b0e0a5d425e5ad614dab7e7f3cde7e66c6f4965fa09254ba7ca280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário da República
+- Estado Maior General das Forças Armadas
+- Integração de Trabalhadores
+- Pessoal Civil
+- Publicitação
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:377713:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377713:por
+  label: "Determinada a prorrogação do prazo previsto na alínea b) do n.º 1, para o pessoal que nos termos do presente diploma\
+    \ pretenda ser integrado no grupo de informações militares, pela PORT.412/79.09.08.1979.CR, DR.IS [183] de 09.08.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/412-1979-377713
+  date: '1979-08-09'
+- type: cites
+  target: pt:dre:172487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665917:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:47:04Z'
   warnings: []
   errors: []
 ---

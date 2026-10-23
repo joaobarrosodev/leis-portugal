@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1988-285282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:15:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcbcb81e78839bb46cec866679c3b8a26eecbf1906ee985c28c1939bb885cf81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e28970bebcc0c377a45e2555aa853ec4aad02bbf10e4359eb347cd0db8b8796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:15:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- CP
+- Transporte Ferroviário
+- Vilar Formoso
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:15:52Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +110,18 @@ Assim:
 
 Ao abrigo do artigo 30.º do [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954, na redacção que lhe foi dada pelo [Decreto-Lei n.º 48594](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48594-1968-264553), de 26 de Setembro de 1968, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na zona confinante com a linha férrea da Beira Alta, entre os quilómetros 250,600 a 251,880, conforme os limites expressos no desenho n.º 12157 e no quadro de valores de distâncias, anexos a este diploma, fica sujeita, caso a caso, à autorização e aprovação do Ministro das Obras Públicas, Transportes e Comunicações, sob proposta da CP - Caminhos de Ferro Portugueses, E. P.
+Artigo único. A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção na zona confinante com a linha férrea da Beira Alta, entre os quilómetros 250,600 a 251,880, conforme os limites expressos no desenho n.º 12157 e no quadro de valores de distâncias, anexos a este diploma, fica sujeita, caso a caso, à autorização e aprovação do Ministro das Obras Públicas, Transportes e Comunicações, sob proposta da CP - Caminhos de Ferro Portugueses, E. P.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins.
 
-**Promulgado na Guarda em 30 de Março de 1988.**
+Promulgado na Guarda em 30 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Abril de 1988.**
+Referendado em 5 de Abril de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09300/15381540.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09300/15381540.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09300/15381540.pdf)

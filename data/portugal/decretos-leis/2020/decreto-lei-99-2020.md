@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/227b00/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/99/2020/11/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b9c695931d707b68e34980d63f8b0ab91f7e10c4dab65fbe16c4d4298b31ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 517c1499dd631b25da22780ffe51d049faef4374e1313a83c7447e587e4c99e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,75 +65,81 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
+- Administração Central do Sistema de Saúde
 - Aquisição de Bens e Serviços
 - Assistência a Familiares
-- Proteção Civil
-- Pessoal de Saúde
-- Financiamento
-- Empresa
-- Bebida Alcoólica
-- Médico
 - Atestado Médico
+- Bebida Alcoólica
+- Benefícios Fiscais
+- Catástrofe
 - Cobrança de Impostos
 - Código do IVA
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
-- Direção Geral da Saúde
-- Transporte Aéreo
 - Contra-ordenação
-- Transporte Rodoviário
-- Definição de Competências
-- Doação
+- Contratação de Pessoal
+- Contribuições e Impostos
 - Controlo Sanitário
+- Deficiente
+- Definição de Competências
+- Direção Geral da Saúde
+- Doação
+- Doença Infecciosa
+- Doente Crónico
+- Empresa
 - Empresa Pública
-- Saúde Pública
+- Epidemia
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
+- Estabelecimento Hospitalar
 - Estado de Emergência
-- Serviço Nacional de Saúde
 - Férias
+- Financiamento
 - Freguesia
-- Setor Empresarial do Estado
-- Catástrofe
 - Horário de Funcionamento
-- Contribuições e Impostos
+- Incapacidade Permanente
+- Infraestrutura Turística
 - IVA
-- TIC
 - Mecenato
-- Contratação de Pessoal
-- Administração Central do Sistema de Saúde
+- Médico
+- Microempresa
 - Pagamento a Prestações
 - Pagamento de Contribuições
-- Doença Infecciosa
-- Epidemia
-- Doente Crónico
+- Pequenas e Médias Empresas
+- Pessoal de Saúde
+- PME
 - Prestação de Serviços
 - Prorrogação de Prazo
-- Microempresa
-- Pequenas e Médias Empresas
-- Teletrabalho
-- Estabelecimento Hospitalar
-- PME
+- Proteção Civil
 - Remuneração
-- Benefícios Fiscais
+- Saúde Pública
 - Sector Público Administrativo
+- Serviço Nacional de Saúde
+- Setor Empresarial do Estado
 - Sistema de Vigilância em Saúde Pública
-- Incapacidade Permanente
-- Comércio
+- Situação de Alerta
+- Situação de Calamidade
+- Situação de Contingência
+- Teletrabalho
+- TIC
 - Trabalhador Independente
 - Trabalhador por Conta de Outrem
 - Tráfego Aéreo
+- Transporte Aéreo
 - Transporte de Passageiros
-- Infraestrutura Turística
-- Situação de Contingência
-- Situação de Alerta
-- Situação de Calamidade
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt
   label: null
@@ -174,16 +180,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/79-a/2020/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79-a/2020/10/01/p/dre
+- type: cites
+  target: pt:dre:130243053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130779505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:132332504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:133321093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138054866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139804819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141967954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145589087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147533155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:43Z'
   warnings: []
   errors: []
 ---
@@ -262,13 +336,17 @@ Os artigos 5.º, 13.º e 13.º-A do [Decreto-Lei n.º 10-A/2020](https://diariod
 
 12 - O disposto no número anterior é aplicável aos atestados médicos de avaliação de incapacidade cuja validade tenha expirado em 2019 ou expire em 2020, desde que acompanhados de comprovativo de requerimento de junta médica de avaliação de incapacidade ou, quando aplicável, de junta médica de recurso para a correspondente reavaliação, com data anterior à data de validade.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Para efeitos da contratação de bens e serviços para reforço da prestação de serviços através dos meios digitais e dos centros de contacto com os cidadãos, designadamente canais de atendimento e de apoio à utilização daqueles serviços públicos, aplica-se o disposto no artigo 2.º
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - [...].
 
@@ -292,7 +370,9 @@ Os artigos 1.º, 2.º e 6.º do [Decreto-Lei n.º 28-B/2020](https://diariodarep
 
 2 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Durante a verificação de estado de emergência ou da situação de alerta, contingência ou calamidade determinadas nos termos da Lei de Bases da Proteção Civil, declaradas no âmbito da situação epidemiológica originada pela doença COVID-19, constituem deveres das pessoas singulares e coletivas:
 
@@ -316,7 +396,9 @@ i) O cumprimento das regras aplicáveis ao tráfego aéreo e aos aeroportos, nos
 
 j) [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -342,7 +424,9 @@ Os artigos 2.º, 5.º-A e 7.º do [Decreto-Lei n.º 79-A/2020](https://diariodar
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - [...].
 
@@ -362,7 +446,9 @@ Os artigos 2.º, 5.º-A e 7.º do [Decreto-Lei n.º 79-A/2020](https://diariodar
 
 9 - O disposto no presente artigo não é aplicável aos trabalhadores de serviços essenciais abrangidos pelo artigo 10.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual, bem como aos integrados nos estabelecimentos a que alude o n.º 4 do artigo 2.º, relativamente aos quais o teletrabalho não é obrigatório.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Constitui contraordenação muito grave a violação do disposto nos artigos 3.º a 5.º e constitui contraordenação grave a violação do disposto nos n.os 1 e 2 do artigo 5.º-A e o incumprimento por parte do empregador da decisão referida no n.º 4 do mesmo artigo e, ainda, a violação do disposto no artigo 5.º-B.
 
@@ -382,13 +468,17 @@ Regime excecional de contratação de médicos por empresas do setor público em
 
 2 - A Administração Central do Sistema de Saúde, I. P., comunica mensalmente à Direção-Geral do Orçamento a informação sobre os contratos a que se refere o número anterior.
 
-###### Artigo 6.º-E — Aumento de dias de férias
+Artigo 6.º-E
+
+Aumento de dias de férias
 
 1 - Os profissionais de saúde, independentemente da natureza da relação jurídica de emprego, têm direito a um dia útil de férias por cada cinco dias de férias vencidas em 2020, ou em 2019, e cujo gozo não tenha lugar até ao final de 2020, por razões imperiosas de serviço.
 
 2 - Por opção do trabalhador, os dias de férias resultantes do aumento nos termos do número anterior podem ser substituídos por remuneração equivalente a dia normal de trabalho prestado em dia útil.
 
-###### Artigo 35.º-Q — Doações às entidades públicas empresariais
+Artigo 35.º-Q
+
+Doações às entidades públicas empresariais
 
 1 - Sem prejuízo do disposto nos n.os 5 e 6 do artigo 159.º do [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de agosto, na sua redação atual, as unidades de saúde do SNS com a natureza de entidades públicas empresariais podem aceitar doações ao abrigo do regime do mecenato, para fazer face à pandemia da doença COVID-19, as quais são consideradas como custo para a entidade doadora, bem como doações provenientes da Direção-Geral da Saúde e da Administração Central do Sistema de Saúde, I. P.
 
@@ -396,7 +486,9 @@ Regime excecional de contratação de médicos por empresas do setor público em
 
 3 - O presente regime produz efeitos desde 12 de março de 2020.
 
-###### Artigo 35.º-U — Apoios autárquicos de combate aos efeitos da pandemia
+Artigo 35.º-U
+
+Apoios autárquicos de combate aos efeitos da pandemia
 
 Para efeitos do disposto na alínea v) do n.º 1 do artigo 16.º, bem como da alínea ff) do n.º 1 do artigo 33.º da [Lei n.º 75/2013](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023), de 12 de setembro, na sua redação atual, considera-se apoio a atividade de interesse para a freguesia, bem como apoio à atividade económica de interesse municipal, respetivamente, a concessão de apoios, em dinheiro ou em espécie, a entidades e organismos legalmente existentes, relacionados com a resposta à pandemia da doença COVID-19 ou recuperação económica no contexto da mesma.»
 
@@ -494,12 +586,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de novembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
 
-**Promulgado em 22 de novembro de 2020.**
+Promulgado em 22 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 22 de novembro de 2020.**
+Referendado em 22 de novembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+100000272

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 236/2022, 2º Suplemento, Série I de 2022-12-09
   number: '236'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 89-(20) a 89-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2022/12/23602/0002000033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84-b/2022/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-b-2022-204552602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b6a66ab13bb81856697553e595f15c5fadc363add96c7b9f8078106e60c9e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fc752f4d194dce816c07a618969462e6f73e11b3ce450ebe321ea1322c32fb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Auditoria
+- Auto-estrada
+- Autoridade Nacional de Segurança Rodoviária
 - CE Países
-- Multa
-- Entidade Certificadora
-- Estrada
+- Comissão CE
 - Contra-ordenação
 - Definição de Competências
 - Difusão da Informação
-- Rede de Estradas
+- Entidade Certificadora
+- Estrada
 - Fiscalização Rodoviária
-- Comissão CE
 - Infraestrutura dos Transportes
 - Instituto da Mobilidade e dos Transportes
-- Auto-estrada
-- Publicitação
-- Autoridade Nacional de Segurança Rodoviária
-- Segurança Rodoviária
-- Plano Rodoviario Nacional
 - Internet
+- Multa
+- Plano Rodoviario Nacional
 - Prevenção Rodoviária Portuguesa
+- Publicitação
+- Rede de Estradas
 - Rede Rodoviária Transeuropeia
+- Segurança Rodoviária
 - Sinalização de Segurança
 - Tráfego Rodoviário
 - Trânsito
@@ -151,6 +151,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3
   label: null
   source: http://data.dre.pt/eli/port/3
+- type: cites
+  target: pt:dre:175865942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55536474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55733176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55733177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671049:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32004L0054
   label: null
@@ -164,15 +204,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 32
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:07Z'
   warnings: []
   errors: []
 ---
@@ -493,11 +533,15 @@ Os artigos 1.º, 2.º a 4.º, 6.º a 10.º e 34.º do [Decreto-Lei n.º 122/2014
 
 O presente decreto-lei estabelece o regime jurídico aplicável à realização das auditorias de segurança rodoviária (ASR), no que respeita às regras de exercício da atividade, ao respetivo quadro fiscalizador e sancionatório e às atribuições da entidade certificadora, conforme previsto no [Decreto-Lei n.º 84-B/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-b-2022-204552602), que transpõe para o ordenamento jurídico interno a [Diretiva (UE) 2019/1936](https://diariodarepublica.pt/application/external/eurolex?19L1936) do Parlamento Europeu e do Conselho, de 23 de outubro de 2019, que altera a [Diretiva 2008/96/CE](https://diariodarepublica.pt/application/external/eurolex?08L0096) relativa à gestão da segurança da infraestrutura rodoviária.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente decreto-lei aplica-se aos projetos de todas as vias da rede rodoviária nacional, independentemente de integrarem ou não a rede rodoviária transeuropeia, e ainda aos projetos das vias que, não pertencendo à rede rodoviária nacional, se situem fora de zonas urbanas, não sirvam propriedades marginais e sejam realizadas com financiamento da União Europeia, com exceção das que não sejam abertas ao trânsito de veículos a motor em geral, como pistas para velocípedes ou outras vias que não são concebidas para tráfego geral, tais como as estradas de acesso a instalações industriais, agrícolas ou florestais.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]
 
@@ -531,7 +575,9 @@ n) «Rede rodoviária transeuropeia», a rede rodoviária identificada no [Regul
 
 o) [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A realização de ASR é obrigatória para os projetos de intervenções rodoviárias nas vias abrangidas pelo presente decreto-lei, referidas no artigo 2.º, nomeadamente nos seguintes casos:
 
@@ -551,7 +597,9 @@ d) [...]
 
 5 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -561,7 +609,9 @@ b) Da componente rodoviária de novos projetos de empreendimentos imobiliários,
 
 c) [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]
 
@@ -571,11 +621,15 @@ b) Da componente rodoviária de novos projetos de empreendimentos imobiliários,
 
 c) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 São auditados nas fases 3 e 4, caso haja lugar às mesmas, todos os projetos de gestão temporária de tráfego nas imediações de obras de grandes empreendimentos, com interferência em qualquer estrada da rede rodoviária nacional.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -585,7 +639,9 @@ São auditados nas fases 3 e 4, caso haja lugar às mesmas, todos os projetos de
 
 4 - Não pode ser atribuída a prestação de um serviço de uma ASR a um auditor coordenador que, no momento da atribuição, não detenha título profissional de auditor emitido nos termos da [Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/lei/49-2014-55536474), de 11 de agosto, e da [Portaria n.º 300/2021](https://diariodarepublica.pt/dr/detalhe/portaria/300-2021-175865942), de 14 de dezembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -593,7 +649,9 @@ São auditados nas fases 3 e 4, caso haja lugar às mesmas, todos os projetos de
 
 3 - A equipa auditora deve ser composta apenas por quem detenha título profissional de auditor emitido nos termos da [Lei n.º 49/2014](https://diariodarepublica.pt/dr/detalhe/lei/49-2014-55536474), de 11 de agosto, e da [Portaria n.º 300/2021](https://diariodarepublica.pt/dr/detalhe/portaria/300-2021-175865942), de 14 de dezembro, cabendo ao auditor coordenador fazer essa verificação.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 [...]
 
@@ -647,12 +705,14 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de novembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Hugo Santos Mendes. - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 8 de dezembro de 2022.**
+Promulgado em 8 de dezembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 9 de dezembro de 2022.**
+Referendado em 9 de dezembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115956486

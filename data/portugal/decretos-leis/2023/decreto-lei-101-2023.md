@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/21100/0001700033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101/2023/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2023-223575032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3d8ec60e51fa06654a5059ec47fc62e674c409a5ef8411f020e04dc7c74b8ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3aa9cf019d6749549d62221faea43f861a272bff0267a6ce3fb8ff130dfddb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Regime Jurídico
-- Transporte de Passageiros
 - Autarquia Local
+- Definição de Competências
 - Federação Portuguesa do Táxi
+- Regime Jurídico
+- Regulamentação de Atos Legislativos
+- Transporte de Passageiros
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
@@ -112,16 +112,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/107/2019/07/01/p/dre
+- type: cites
+  target: pt:dre:122777644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136363744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215798272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67142147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70215248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75286797:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:30Z'
   warnings: []
   errors: []
 ---
@@ -448,7 +512,9 @@ g) Tarifas progressivas.
 
 4 - Os contratos celebrados por via eletrónica devem cumprir o disposto no [Decreto-Lei n.º 7/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2004-240775), de 7 de janeiro, na sua redação atual.
 
-###### Artigo 23.º — Livro de reclamações
+###### Artigo 23.º
+
+## Livro de reclamações
 
 1 - Deve ser disponibilizado livro de reclamações, no formato físico ou eletrónico, nos termos do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de setembro, na sua redação atual, conforme os casos, sendo a AMT a entidade competente para os efeitos de tratamento de reclamações.
 
@@ -728,12 +794,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 21 de setembro de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - João Paulo Marçal Lopes Catarino - João Saldanha de Azevedo Galamba - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
 
-**Promulgado em 23 de outubro de 2023.**
+Promulgado em 23 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 25 de outubro de 2023.**
+Referendado em 25 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116998219

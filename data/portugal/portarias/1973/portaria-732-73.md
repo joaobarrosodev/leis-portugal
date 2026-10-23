@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/732-1973-412273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 102a36d9828f01bfcc95afe132243c3b1471e165be018c85aed091be5881a870
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91a398fce5a7c18d14c3be4081b108025481a5262cea8eee847c56de770c0846
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Qualidade do Produto
 relationships:
 - type: amended_by
   target: pt:dre:367208:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:430428:por
+  label: Acrescentados os alimentos para animais, designados por G 900 - Canários - cria e recria, G 902 - Canários - conservação
+    e G 905 - Periquitos ao quadro anexo, pelo(a) Portaria n.º 417/76 - Diário da República n.º 162/1976, Série I de 1976-07-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1976-430428
+  date: '1976-07-13'
+- type: amended_by
+  target: pt:dre:446926:por
+  label: Acrescentado o alimento para animais designado S-849 ao quadro anexo pelo(a) Portaria n.º 191/78 - Diário da República
+    n.º 81/1978, Série I de 1978-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-1978-446926
+  date: '1978-04-07'
+- type: amended_by
+  target: pt:dre:656385:por
+  label: Retirados alguns alimentos compostos para animais do quadro aprovado pelo presente diploma pelo(a) Portaria n.º 192-H/78
+    - Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-h-1978-656385
+  date: '1978-04-07'
+- type: amended_by
+  target: pt:dre:367208:por
+  label: "Alterado o mapa do presente diploma, pela PORT.629/79.28.11.1979.MAP, DR.IS [275] de 28.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/629-1979-367208
+  date: '1979-11-28'
+- type: cites
+  target: pt:dre:413060:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:42Z'
   warnings: []
   errors: []
 ---
@@ -92,6 +121,6 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 Secretarias de Estado do Comércio e da Indústria, 15 de Outubro de 1973. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/24900/19601962.pdf))](https://files.diariodarepublica.pt/1s/1973/10/24900/19601962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/24900/19601962.pdf)
 
-**O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.**
+O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

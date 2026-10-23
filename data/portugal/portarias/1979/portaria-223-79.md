@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/223-1979-383042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db277ad8f0eecc1d0a7b6990afb5592189c962d4184186e5513f9c45f0c81c27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccaed5d3121ee1adc393aaf824a58d60a260847de3e8316e4e5fe125af9282e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aveiro
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma dos Portos
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680804:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:53:27Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ...
 
-###### Art. 2.º-A. As importâncias resultantes da aplicação de cada uma das taxas deste regulamento, quando terminarem em fracção de escudo, serão arrendondadas para o número inteiro de escudos imediatamente superior.
+Art. 2.º-A. As importâncias resultantes da aplicação de cada uma das taxas deste regulamento, quando terminarem em fracção de escudo, serão arrendondadas para o número inteiro de escudos imediatamente superior.
 
 ...
 
@@ -108,7 +120,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 ### CAPÍTULO II — Entrada e estacionamento no porto
 
-###### Art. 20.º Todas as embarcações que entrem ou estacionem nas águas do porto estão sujeitas ao pagamento das seguintes taxas de estacionamento:
+Art. 20.º Todas as embarcações que entrem ou estacionem nas águas do porto estão sujeitas ao pagamento das seguintes taxas de estacionamento:
 
 Por tonelada de arqueação bruta e período de vinte e quatro horas:
 
@@ -136,7 +148,7 @@ e) As embarcações que tenham o porto como porto de armamento e de registo.
 
 ...
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 ...
 
@@ -146,7 +158,7 @@ l) Embarcações para desmanchar, durante os primeiros trinta dias de estacionam
 
 ...
 
-###### Art. 24.º Toda a embarcação que acoste aos cais, pontes-cais, estacadas, duques-de-alba, empedrados ou quaisquer obras existentes na área do porto está sujeita ao pagamento das seguintes taxas, por períodos de vinte e quatro horas:
+Art. 24.º Toda a embarcação que acoste aos cais, pontes-cais, estacadas, duques-de-alba, empedrados ou quaisquer obras existentes na área do porto está sujeita ao pagamento das seguintes taxas, por períodos de vinte e quatro horas:
 
 a) Embarcações de carga:
 
@@ -166,7 +178,7 @@ L = comprimento de fora a fora da embarcação em metros.
 
 ...
 
-###### Art. 29.º As embarcações das pescas local e costeira, industriais ou artesanais, ficam sujeitas ao pagamento da seguinte taxa de acostagem por utilização de obras especificamente destinadas à sua actividade:
+Art. 29.º As embarcações das pescas local e costeira, industriais ou artesanais, ficam sujeitas ao pagamento da seguinte taxa de acostagem por utilização de obras especificamente destinadas à sua actividade:
 
 Por cada acostagem, exclusivamente para descarga de pescados, desembarque de aprestos, abastecimentos ou embarque de aprestos:
 
@@ -182,7 +194,7 @@ Por cada 50 tAB ou fracção ... 20$00
 
 ### CAPÍTULO IV — Serviço de amarrar e desamarrar navios
 
-###### Art. 31.º-A. ...
+Art. 31.º-A. ...
 
 a) Embarcações até 199 tAB ... isentas
 
@@ -198,7 +210,7 @@ e) Embarcações de 2000 tAB ou mais ... 250$00
 
 ### CAPÍTULO V — Defensas
 
-###### Art. 31.º-C. ...
+Art. 31.º-C. ...
 
 Por cada 50 m, ou fracção, de comprimento de fora a fora das embarcações ... 100$00
 
@@ -212,7 +224,7 @@ Por cada 50 m, ou fracção, de comprimento de fora a fora das embarcações ...
 
 ...
 
-###### Art. 37.º ...
+Art. 37.º ...
 
 § 1.º Estão isentas do pagamento da taxa de utilização do porto estabelecida no corpo deste artigo as seguintes mercadorias:
 
@@ -236,13 +248,13 @@ Sal da produção do salgado de Aveiro.
 
 ...
 
-###### Art. 44.º-A. ...
+Art. 44.º-A. ...
 
 $30 por metro quadrado e período de vinte e quatro horas, com um mínimo de cobrança de 20$00.
 
 ...
 
-###### Art. 44.º-C. ...
+Art. 44.º-C. ...
 
 $60 por metro cúbico e período de vinte e quatro horas, com um mínimo cobrável de 20$00.
 
@@ -254,13 +266,13 @@ $60 por metro cúbico e período de vinte e quatro horas, com um mínimo cobráv
 
 ### CAPÍTULO IV — Mínimos de cobrança
 
-###### Art. 60.º-D. As importâncias mínimas a cobrar por aplicação das taxas dos três capítulos antecedentes são fixadas pela comissão administrativa, tendo em consideração os dispêndios com o processamento e arrecadação das respectivas receitas.
+Art. 60.º-D. As importâncias mínimas a cobrar por aplicação das taxas dos três capítulos antecedentes são fixadas pela comissão administrativa, tendo em consideração os dispêndios com o processamento e arrecadação das respectivas receitas.
 
 ## TÍTULO V — Prestação de serviços e autorizações diversas
 
 ### CAPÍTULO I — Material terrestre de movimentação de cargas
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 a) Guindastes eléctricos de via:
 
@@ -296,9 +308,9 @@ f) Pás-carregadoras com balde até 1 m3 de capacidade ... 500$00
 
 ...
 
-###### Art. 62.º-A. As taxas dos artigos 61.º e 62.º terão uma redução de 40% quando o equipamento a que elas respeitam se encontrar à ordem do requisitante, sem utilização efectiva.
+Art. 62.º-A. As taxas dos artigos 61.º e 62.º terão uma redução de 40% quando o equipamento a que elas respeitam se encontrar à ordem do requisitante, sem utilização efectiva.
 
-###### Art. 62.º-B. Nos períodos de trabalho extraordinário, as taxas dos artigos 61.º e 62.º-A terão os seguintes agravamentos:
+Art. 62.º-B. Nos períodos de trabalho extraordinário, as taxas dos artigos 61.º e 62.º-A terão os seguintes agravamentos:
 
 De 40%, na hora que antecede o período normal de trabalho e nas duas horas seguintes ao mesmo período;
 
@@ -308,7 +320,7 @@ De 100%, em todas as horas de trabalho efectuado aos domingos, feriados e dias e
 
 ### CAPÍTULO II — Utilização de embarcações com motor
 
-###### Art. 63.º ...
+Art. 63.º ...
 
 Lanchas com motor até 75 HP ... 300$00
 
@@ -334,7 +346,7 @@ Lanchas ou rebocadores com motor de mais de 300 HP ... 1000$00
 
 ### CAPÍTULO I — Fornecimento de água
 
-###### Art. 67.º A taxa, por metro cúbico de água fornecida, será estabelecida pela comissão administrativa tendo em atenção:
+Art. 67.º A taxa, por metro cúbico de água fornecida, será estabelecida pela comissão administrativa tendo em atenção:
 
 a) O custo na origem;
 
@@ -350,7 +362,7 @@ f) Os encargos de administração;
 
 g) O pessoal utilizado.
 
-###### Art. 68.º Serão estabelecidas taxas diferentes para as seguintes modalidades de fornecimento:
+Art. 68.º Serão estabelecidas taxas diferentes para as seguintes modalidades de fornecimento:
 
 a) Por tomadas de cais;
 
@@ -360,21 +372,21 @@ c) Por camião-cisterna ou depósito volante;
 
 d) Por ligação a instalações terrestres fixas.
 
-###### Art. 69.º Para cada modalidade será fixado pela comissão administrativa um mínimo de consumo a facturar.
+Art. 69.º Para cada modalidade será fixado pela comissão administrativa um mínimo de consumo a facturar.
 
-###### Art. 69.º-A. As taxas de aluguer de contadores serão as aplicadas pelas entidades municipais das zonas do porto.
+Art. 69.º-A. As taxas de aluguer de contadores serão as aplicadas pelas entidades municipais das zonas do porto.
 
 ### CAPÍTULO II — Fornecimento de energia eléctrica
 
-###### Art. 69.º-B. A taxa por kilowatt de energia fornecida será fixada pela comissão administrativa tendo em consideração os factores expostos no artigo 67.º
+Art. 69.º-B. A taxa por kilowatt de energia fornecida será fixada pela comissão administrativa tendo em consideração os factores expostos no artigo 67.º
 
-###### Art. 69.º-C. Será aplicada uma taxa dita de «potência», de harmonia com os valores constantes do sistema tarifário do sector eléctrico nacional em vigor.
+Art. 69.º-C. Será aplicada uma taxa dita de «potência», de harmonia com os valores constantes do sistema tarifário do sector eléctrico nacional em vigor.
 
-###### Art. 69.º-D. Para os diversos casos de fornecimento que se apresentem será fixado pela comissão administrativa um consumo mínimo.
+Art. 69.º-D. Para os diversos casos de fornecimento que se apresentem será fixado pela comissão administrativa um consumo mínimo.
 
 ## TÍTULO VII — Aluguer de material
 
-###### Art. 70.º Pelo aluguer de máquinas, aparelhos, utensílios e ferramentas da Junta, para utilização em trabalhos estranhos à função portuária, serão fixadas pelo director do porto as respectivas taxas, caso por caso, tendo em atenção, relativamente ao equipamento alugado:
+Art. 70.º Pelo aluguer de máquinas, aparelhos, utensílios e ferramentas da Junta, para utilização em trabalhos estranhos à função portuária, serão fixadas pelo director do porto as respectivas taxas, caso por caso, tendo em atenção, relativamente ao equipamento alugado:
 
 a) O seu custo inicial;
 
@@ -384,9 +396,9 @@ c) Os gastos de funcionamento e conservação;
 
 d) Os tempos de utilização.
 
-###### Art. 71.º As taxas de aluguer de utensílios e equipamentos auxiliares da exploração portuária são fixadas e revistas pela comissão administrativa tendo em conta o custo e a duração provável desse apetrechamento. A Direcção-Geral de Portos será mantida informada dessas taxas e suas alterações.
+Art. 71.º As taxas de aluguer de utensílios e equipamentos auxiliares da exploração portuária são fixadas e revistas pela comissão administrativa tendo em conta o custo e a duração provável desse apetrechamento. A Direcção-Geral de Portos será mantida informada dessas taxas e suas alterações.
 
-###### Art. 72.º Os alugadores do material são responsáveis pelas avarias e danos por ele sofridos durante o tempo do aluguer.
+Art. 72.º Os alugadores do material são responsáveis pelas avarias e danos por ele sofridos durante o tempo do aluguer.
 
 ...
 
@@ -394,7 +406,7 @@ d) Os tempos de utilização.
 
 ...
 
-###### Art. 92.º Por impressos dos modelos correntemente adoptados pela Junta, cópias heliográficas e fotocópias entregues aos interessados são cobradas as seguintes taxas:
+Art. 92.º Por impressos dos modelos correntemente adoptados pela Junta, cópias heliográficas e fotocópias entregues aos interessados são cobradas as seguintes taxas:
 
 a) Cada impresso do formato A4, ou menor ... 1$00
 
@@ -416,17 +428,17 @@ Instalações no porto de pesca costeira
 
 ...
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 Por armazém e por mês ... 5000$00
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 Por armazém e por mês ... 3000$00
 
 ...
 
-###### Art. 6.º Pela carga de cabazes ou caixas de peixe no corredor da passagem da lota cobra-se 1$00 por cada um.
+Art. 6.º Pela carga de cabazes ou caixas de peixe no corredor da passagem da lota cobra-se 1$00 por cada um.
 
 ...
 

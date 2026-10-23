@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21323-1965-294513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:01:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0c4d3ff84460f92fa516ee83bdb70e0a72a9214ee9a113a755b46322a490aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06d486eebdf16013f7150ec153d2d2ffafff8d1fada0a50fce0e3df1dc2cf86e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:01:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:01:37Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Ouvidos os governos de todas as províncias ultramarinas:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja tornado extensivo às províncias ultramarinas, com excepção da província de Macau, o artigo 22.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 3 de Dezembro de 1956, com as seguintes alterações:
 
-###### Art. 22.º A partir de 1 de Janeiro de 1958 é proibida a entrada em competições desportivas oficiais ou de campeonato a indivíduos que não possuam a 3.ª classe do ensino primário, devendo o documento comprovativo da referida habilitação ser arquivado nas associações desportivas dentro das quais exercem a sua actividade. A partir de 1 de Janeiro de 1959 a proibição é extensiva aos que não tenham a habilitação da 4.ª classe.
+Art. 22.º A partir de 1 de Janeiro de 1958 é proibida a entrada em competições desportivas oficiais ou de campeonato a indivíduos que não possuam a 3.ª classe do ensino primário, devendo o documento comprovativo da referida habilitação ser arquivado nas associações desportivas dentro das quais exercem a sua actividade. A partir de 1 de Janeiro de 1959 a proibição é extensiva aos que não tenham a habilitação da 4.ª classe.
 
 § 1.º A transgressão do disposto neste artigo tem por efeito a anulação das competições e a aplicação de sanções disciplinares aos atletas e aos dirigentes que se provar serem responsáveis pela transgressão.
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/096a00/25102537.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2004/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2004-223178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44b7c6b569740efb5142f57678e0fd49aed775f118cf72640282cb5cc536c856
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4df58c72017dfeb0a9f5d79b43ee552bd11ebcd5ab5eca70555d789fa98dd9a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,17 @@ reuse:
 subjects:
 - Análises Clínicas
 - Aproximação das Legislações
-- Indústria Farmacêutica
-- Infarmed
+- Comércio
 - Comparticipação
 - Comparticipação do Estado
 - Direcção Geral da Concorrência e Preços
+- Direcção Geral da Empresa
 - Direcção Geral de Assuntos Farmacêuticos
+- Indústria Farmacêutica
+- Infarmed
 - Laboratório
 - Medicamento Genérico
-- Direcção Geral da Empresa
 - Normas de Segurança
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
@@ -126,16 +126,21 @@ relationships:
   target: celex:32003R1085
   label: null
   source: http://data.europa.eu/eli/reg/2003/1085/oj
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:29Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +221,9 @@ i) Indicação dos Estados membros da União Europeia em que tenha sido apresent
 
 6 - Os documentos previstos na segunda parte da alínea h) do n.º 2 devem ser apresentados em versão oficial, acompanhados de tradução integral em língua portuguesa.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Sem prejuízo do direito relativo à protecção da propriedade industrial, o requerente fica dispensado de apresentar os resultados dos ensaios toxicológicos, farmacológicos e clínicos se puder demonstrar uma das seguintes condições:
 
@@ -234,7 +241,9 @@ b) Dever ser administrado por uma via diferente ou em dose diferente da dos outr
 
 3 - Se se tratar de um medicamento novo que contenha substâncias activas conhecidas mas ainda não associadas para fins terapêuticos, devem ser fornecidos os resultados dos ensaios toxicológicos, farmacológicos e clínicos relativos à associação, sem que seja necessário fornecer a documentação relativa a cada um dos componentes.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -338,17 +347,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e é ap
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 5 de Abril de 2004.**
+Promulgado em 5 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Abril de 2004.**
+Referendado em 7 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — Anexo C ao Decreto-Lei n.º 72/91, de 8 de Fevereiro
+## ANEXO
+
+## Anexo C ao Decreto-Lei n.º 72/91, de 8 de Fevereiro
 
 Normas e protocolos analíticos, farmacotoxicológicos e clínicos em matéria de ensaios de medicamentos
 
@@ -386,7 +397,7 @@ A parte III trata os «requisitos para pedidos particulares» relativos a medica
 
 A parte IV trata os «medicamentos de terapia avançada» e diz respeito a requisitos específicos para medicamentos de terapia genética (utilizando o sistema autólogo ou alogénico humano ou o sistema xenogénico), medicamentos de terapia celular, quer de origem humana, quer de origem animal, e medicamentos de xenotransplantação.
 
-# PARTE I — Requisitos normalizados para os dossiers de autorização de introdução no mercado
+## PARTE I — Requisitos normalizados para os dossiers de autorização de introdução no mercado
 
 1 - Módulo n.º 1 - Informações administrativas
 
@@ -1272,7 +1283,7 @@ Os dados relativos à segurança devem ser analisados à luz das normas orientad
 
 5.2.7 - Formulários de notificação de casos e registos individuais dos doentes. - Quando submetidos de acordo com a norma orientadora correspondente publicada pela Agência Europeia, os formulários de notificação de casos e os registos com os dados individuais dos doentes devem ser apresentados pela mesma ordem que os relatórios de estudos clínicos e indexados por estudo.
 
-# PARTE II — Dossiers e requisitos específicos de autorização de introdução no mercado
+## PARTE II — Dossiers e requisitos específicos de autorização de introdução no mercado
 
 Alguns medicamentos apresentam características específicas tais que todos os requisitos do dossier do pedido de autorização de introdução no mercado, conforme o disposto na parte I do presente anexo, devem ser adaptados. Para ter em conta estas situações especiais, os requerentes devem adaptar em conformidade a apresentação do dossier.
 
@@ -1376,7 +1387,7 @@ Os pedidos mistos de autorização de introdução no mercado são os dossiers d
 
 Todos os outros módulos devem estar em conformidade com a estrutura descrita na parte I do presente anexo. A autoridade competente aceitará caso a caso o formato proposto que o requerente apresentar.
 
-# PARTE III — Medicamentos especiais
+## PARTE III — Medicamentos especiais
 
 A presente parte estabelece os requisitos específicos relacionados com a natureza de determinados medicamentos.
 
@@ -1634,7 +1645,7 @@ No caso de um medicamento órfão determinado em conformidade com o Regulamento 
 
 Quando um requerente de uma autorização de introdução no mercado para um medicamento órfão invocar as disposições da alínea b) do n.º 1 do artigo 7.º do presente diploma e do n.º 1 da parte II do presente anexo (finalidade terapêutica já explorada), a utilização sistemática e documentada da substância em causa pode dizer respeito - como forma de derrogação - à utilização dessa substância de acordo com as disposições do artigo 60.º do presente diploma.
 
-# PARTE IV — Medicamentos de terapia avançada
+## PARTE IV — Medicamentos de terapia avançada
 
 Os medicamentos de terapia avançada baseiam-se em processos de fabrico que se centram em várias moléculas biológicas produzidas por transferência genética e ou células terapêuticas modificadas, biologicamente avançadas, como substâncias activas ou parte de substâncias activas.
 

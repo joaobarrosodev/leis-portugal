@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1982-378317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 247f21d10a851c20dbe51d8aaa2520534520b72c973fa044616b3a4981c8910c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a8811246915cf4e028daa0be6d4a87232a4f4005fafac982620676ef2f314c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Reforma Administrativa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:328867:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396337:por
+  label: "Alterado o quadro de pessoal constante do anexo II do presente diploma, pela PORT.944/84.21.12.1984.PCM, DR.IS [294]\
+    \ de 21.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/944-1984-396337
+  date: '1984-12-21'
+- type: amended_by
+  target: pt:dre:328867:por
+  label: "Alterado o quadro de pessoal aprovado pelo nº 1 do art. 9º do presente diploma, pela PORT.28/85.1985.01.12.PCM,\
+    \ DR.IS [10]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1985-328867
+  date: '1985-01-12'
+- type: cites
+  target: pt:dre:378311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:20Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção de Serviços de Administração Geral, adiante designada DSAG, é o serviço de gestão e apoio administrativo do Ministério da Reforma Administrativa, ao qual incumbe, designadamente:
+Artigo 1.º A Direcção de Serviços de Administração Geral, adiante designada DSAG, é o serviço de gestão e apoio administrativo do Ministério da Reforma Administrativa, ao qual incumbe, designadamente:
 
 a) Preparar o orçamento anual do Ministério da Reforma Administrativa, de acordo com as propostas dos diversos serviços, e acompanhar a sua execução;
 
@@ -110,7 +136,7 @@ e) Assegurar, em colaboração com os dirigentes das unidades competentes, a adm
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - A DSAG é dirigida por um director de serviços.
+Art. 2.º - 1 - A DSAG é dirigida por um director de serviços.
 
 2 - Para o exercício das suas atribuições a DSAG dispõe dos seguintes serviços:
 
@@ -120,9 +146,9 @@ b) Repartição Financeira e do Património.
 
 3 - Na dependência hierárquica do director de serviços funciona a unidade de informação científica e técnica a que se refere o n.º 2 do artigo 10.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
 
-###### Art. 3.º Compete à Repartição de Expediente e Pessoal assegurar as actividades de gestão e administração do pessoal do quadro da DSAG e do quadro único do Ministério, bem como as referentes ao expediente.
+Art. 3.º Compete à Repartição de Expediente e Pessoal assegurar as actividades de gestão e administração do pessoal do quadro da DSAG e do quadro único do Ministério, bem como as referentes ao expediente.
 
-###### Art. 4.º - 1 - A Repartição de Expediente e Pessoal compreende:
+Art. 4.º - 1 - A Repartição de Expediente e Pessoal compreende:
 
 a) Secção de Expediente e Arquivo;
 
@@ -150,9 +176,9 @@ b) O registo biográfico do pessoal pertencente ao quadro único do Ministério 
 
 c) A administração dos excedentes que venham a ser constituídos no Ministério da Reforma Administrativa, nos termos da legislação em vigor.
 
-###### Art. 5.º Compete à Repartição Financeira e do Património assegurar as actividades relativas à elaboração e administração do orçamento e às operações de contabilidade atinentes à situação salarial do pessoal e administração patrimonial.
+Art. 5.º Compete à Repartição Financeira e do Património assegurar as actividades relativas à elaboração e administração do orçamento e às operações de contabilidade atinentes à situação salarial do pessoal e administração patrimonial.
 
-###### Art. 6.º - 1 - A Repartição Financeira e do Património compreende:
+Art. 6.º - 1 - A Repartição Financeira e do Património compreende:
 
 a) Secção Financeira;
 
@@ -182,25 +208,25 @@ d) Velar pela segurança e manutenção das instalações.
 
 ### CAPÍTULO III — Funcionamento dos serviços
 
-###### Art. 7.º - 1 - Ao director de serviços compete superintender em todos os serviços, submetendo a despacho ministerial os assuntos que careçam de resolução superior e decidindo daqueles para que tenha competência própria ou delegada.
+Art. 7.º - 1 - Ao director de serviços compete superintender em todos os serviços, submetendo a despacho ministerial os assuntos que careçam de resolução superior e decidindo daqueles para que tenha competência própria ou delegada.
 
 2 - As repartições e secções serão dirigidas por chefes de repartição e chefes de secção.
 
-###### Art. 8.º A DSAG articulará funcionalmente com os organismos homólogos dos serviços do Ministério.
+Art. 8.º A DSAG articulará funcionalmente com os organismos homólogos dos serviços do Ministério.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 9.º - 1 - A DSAG dispõe do pessoal constante do anexo I ao presente diploma, o qual inclui o pessoal do Núcleo de Assessoria Jurídica a que se refere o n.º 4 do artigo 3.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
+Art. 9.º - 1 - A DSAG dispõe do pessoal constante do anexo I ao presente diploma, o qual inclui o pessoal do Núcleo de Assessoria Jurídica a que se refere o n.º 4 do artigo 3.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
 
 2 - O quadro único do pessoal administrativo e auxiliar do Ministério da Reforma Administrativa é o constante do anexo II.
 
 3 - A DSAG dispõe do pessoal administrativo e auxiliar pertencente ao quadro único contingentado no anexo III.
 
-###### Art. 10.º O regime de pessoal e as normas de provimento dos lugares do quadro do pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
+Art. 10.º O regime de pessoal e as normas de provimento dos lugares do quadro do pessoal a que se refere o artigo anterior são os constantes do [Decreto Regulamentar n.º 72/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/72-1982-378311).
 
-###### Art. 11.º A distribuição de pessoal da DSAG pelos serviços será feita mediante despacho do director de serviços, em função das necessidades do serviço e da qualificação profissional dos funcionários.
+Art. 11.º A distribuição de pessoal da DSAG pelos serviços será feita mediante despacho do director de serviços, em função das necessidades do serviço e da qualificação profissional dos funcionários.
 
-###### Art. 12.º - 1 - Será integrado nos quadros de pessoal a que se referem os n.os 1 e 2 do artigo 9.º do presente diploma, de acordo com as normas gerais de transição estabelecidas no diploma a que se reporta o artigo 10.º, todo o pessoal pertencente ao quadro dos extintos Serviços de Administração Geral.
+Art. 12.º - 1 - Será integrado nos quadros de pessoal a que se referem os n.os 1 e 2 do artigo 9.º do presente diploma, de acordo com as normas gerais de transição estabelecidas no diploma a que se reporta o artigo 10.º, todo o pessoal pertencente ao quadro dos extintos Serviços de Administração Geral.
 
 2 - Os auxiliares de oficina que exerçam funções de pintor transitam para a categoria de pintor de 3.ª classe.
 
@@ -208,34 +234,34 @@ d) Velar pela segurança e manutenção das instalações.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 13.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano económico pelas dotações inscritas no actual orçamento do Ministério da Reforma Administrativa.
+Art. 13.º Os encargos resultantes da execução deste diploma serão suportados no corrente ano económico pelas dotações inscritas no actual orçamento do Ministério da Reforma Administrativa.
 
-###### Art. 14.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano, quando estiver em causa matéria da sua competência.
+Art. 14.º As dúvidas suscitadas pela execução do presente diploma serão resolvidas por despacho do Ministro da Reforma Administrativa, que será conjunto com o do Ministro de Estado e das Finanças e do Plano, quando estiver em causa matéria da sua competência.
 
-###### Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Diogo Pinto de Freitas do Amaral - Alípio Barrosa Pereira Dias - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 20 de Outubro de 1982.**
+Promulgado em 20 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Quadro de pessoal a que se refere o n.º 1 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)
 
 MAPA II
 
 Quadro único do pessoal administrativo e auxiliar a que se refere o n.º 2 do artigo 9.º do presente decreto regulamentar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)
 
 MAPA III
 
 Quadro de pessoal a que se refere o n.º 3 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36543656.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21200/0000700016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2024/10/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2024-894487442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d7a4958ffdc807db37d3366ade05ec388a0e8e74034091b12227b960933233d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4c0bd264c2c7fcd6f20f20420398b85f437dc7eab415e8329be0f4f8373cfd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
 subjects:
 - Acesso à Informação
 - Autoridade Tributária e Aduaneira
+- Branqueamento de Capitais
 - Combate ao Terrorismo
 - Comunidade Europeia
 - Contra-ordenação
 - Controlo Aduaneiro
+- Dados Pessoais
 - Exportação de Capitais
 - Fiscalização
-- Branqueamento de Capitais
 - Importação de Capitais
 - Infracção Fiscal
-- Títulos de Crédito
 - Regulamento CE
 - Segredo Profissional
-- Dados Pessoais
+- Títulos de Crédito
 relationships:
 - type: cites
   target: celex:31991L0308
@@ -142,16 +142,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83/2017/08/18/p/dre
+- type: cites
+  target: pt:dre:108021178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123815983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141382321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:61/2007
+  label: Revoga, a partir de 5 de novembro de 2024, nos termos do artigo 16.º do presente diploma, o Decreto-Lei n.º 61/2007,
+    de 14 de março, Diário da República n.º 52/2007, Série I
+  source: null
+  date: '2007-03-14'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:19Z'
   warnings: []
   errors: []
 ---
@@ -322,7 +360,7 @@ b) Existam indícios de que o dinheiro líquido, independentemente do valor, est
 
 a) À pessoa obrigada a fazer a declaração nos termos do artigo 3.º ou a declaração de divulgação nos termos do artigo 4.º; ou
 
-b) À pessoa obrigada a apresentar a informação nos termos dos n.<sup>os</sup>1 ou 2 do artigo 6.º
+b) À pessoa obrigada a apresentar a informação nos termos dos n.os1 ou 2 do artigo 6.º
 
 3 - O prazo de retenção deve ser limitado ao tempo necessário e não superior a 30 dias, mas pode ser prorrogado, em casos específicos, devidamente avaliados, e sempre em obediência aos princípios da necessidade e da proporcionalidade, até um máximo de 90 dias, designadamente, quando a AT encontre dificuldades na obtenção de informações sobre uma eventual atividade criminosa.
 
@@ -330,7 +368,7 @@ b) À pessoa obrigada a apresentar a informação nos termos dos n.<sup>os</sup>
 
 a) À pessoa a quem foi temporariamente retido o dinheiro líquido, nas situações a que se referem os artigos 3.º ou 4.º; ou
 
-b) À pessoa a quem foi temporariamente retido o dinheiro líquido, nas situações a que se referem os n.<sup>os</sup>1 ou 2 do artigo 6.º
+b) À pessoa a quem foi temporariamente retido o dinheiro líquido, nas situações a que se referem os n.os1 ou 2 do artigo 6.º
 
 5 - O prazo de retenção suspende-se enquanto estiver pendente o recurso referido no n.º 1.
 
@@ -390,7 +428,7 @@ d) Informações anonimizadas relativas ao risco e resultados das análises de r
 
 2 - Se existirem indícios de que as somas em dinheiro líquido estão relacionadas com atividades criminosas que podem prejudicar os interesses financeiros da União Europeia, as informações a que se refere o número anterior devem igualmente ser comunicadas à Comissão, à Procuradoria Europeia pelos Estados-Membros participantes na cooperação reforçada nos termos do [Regulamento (UE) 2017/1939](http://data.europa.eu/eli/reg/2017/1939/oj?locale=pt), do Conselho, de 12 de outubro de 2017, caso tenha competência para o efeito nos termos do artigo 22.º daquele regulamento, e à EUROPOL nos termos do artigo 3.º do [Regulamento (UE) 2016/794](http://data.europa.eu/eli/reg/2016/794/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de maio de 2016.
 
-3 - A AT deve comunicar as informações a que se referem os n.<sup>os</sup>1 e 2 de acordo as normas técnicas a que se refere a alínea c) do n.º 1 do artigo 16.º do [Regulamento (UE) 2018/1672](http://data.europa.eu/eli/reg/2018/1672/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, utilizando o formulário a que se refere a alínea d) do n.º 1 do artigo 16.º do mesmo regulamento.
+3 - A AT deve comunicar as informações a que se referem os n.os1 e 2 de acordo as normas técnicas a que se refere a alínea c) do n.º 1 do artigo 16.º do [Regulamento (UE) 2018/1672](http://data.europa.eu/eli/reg/2018/1672/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, utilizando o formulário a que se refere a alínea d) do n.º 1 do artigo 16.º do mesmo regulamento.
 
 4 - As informações a que se referem as alíneas a), b) e c) do n.º 1 e o n.º 2 devem ser comunicadas o mais rapidamente possível e, em qualquer caso, no prazo máximo de 15 dias úteis após a data em que as informações tiverem sido obtidas.
 
@@ -430,12 +468,14 @@ O disposto no presente decreto-lei não prejudica o cumprimento de outras formal
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2024. - Luís Montenegro - Nuno Ricardo Ribeiro de Carvalho de Azevedo Sampaio - Joaquim Miranda Sarmento.
 
-**Promulgado em 11 de outubro de 2024.**
+Promulgado em 11 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de outubro de 2024.**
+Referendado em 14 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118276958

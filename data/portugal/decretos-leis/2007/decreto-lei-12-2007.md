@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/12/2007/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a8384ade238d4526f66af1f813f0baabeb5737159e3bc3e17b2d9f51dd89b81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018e4d7840f11a38fe9f8a75a644a346885a12b4a3837484e7edeaff1638a9f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
 subjects:
 - Acreditação
 - Árbitro
-- Formação Profissional
+- Avaliação do Património
 - Concurso
 - Expropriação
-- Recrutamento de Pessoal
-- Avaliação do Património
+- Formação Profissional
 - Profissão Independente
+- Recrutamento de Pessoal
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:607757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:607757:por
+  label: "Dada nova redacção ao art. 9º-A do Dec Lei 125/2002 de 10-Mai, aditado pelo presente diploma, pelo DEC LEI.94/2009.27.04.2009.MJ,\
+    \ DR.IS [81] de 27.04.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2009-607757
+  date: '2009-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/2002/05/10/p/dre
   label: null
@@ -101,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/168/1999/09/18/p/dre
+- type: cites
+  target: pt:dre:368661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:06Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +169,17 @@ Os artigos 1.º, 3.º a 10.º, 12.º, 13.º, 14.º e 15.º do [Decreto-Lei n.º 
 
 O presente diploma regula as condições de exercício das funções de perito e árbitro no âmbito dos procedimentos anteriores à declaração de utilidade pública e no âmbito do processo de expropriação previsto no Código das Expropriações, aprovado pela [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O recrutamento de peritos avaliadores que integram as listas a que se refere o artigo anterior é efectuado mediante concurso ou através de procedimento simplificado, nos termos dos artigos seguintes.
 
 2 - O concurso referido no número anterior é aberto por despacho do director-geral da Administração da Justiça.
 
-###### Artigo 4.º — Júri do concurso
+Artigo 4.º
+
+Júri do concurso
 
 1 - O júri tem a seguinte composição:
 
@@ -163,17 +193,23 @@ c) Um engenheiro indicado pela Ordem dos Engenheiros.
 
 3 - Os membros do júri têm direito a uma gratificação em função do número de candidatos admitidos, a definir por despacho conjunto dos ministros responsáveis pelas áreas das finanças e da justiça, sob proposta do presidente do júri.
 
-###### Artigo 5.º — Requisitos habilitacionais
+Artigo 5.º
+
+Requisitos habilitacionais
 
 1 - ...
 
 2 - Os cursos superiores que habilitam ao exercício das funções de perito avaliador são os que constem de portaria conjunta dos ministros responsáveis pelas áreas da justiça, das obras públicas e do ensino superior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O concurso integra uma prova escrita de conhecimentos e a frequência, com aproveitamento, de um curso de formação, o qual está sujeito a numerus clausus.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O concurso inicia-se com a publicação do respectivo aviso de abertura no Diário da República e de um anúncio do aviso publicado em dois jornais de expansão nacional, sem prejuízo de outras formas de publicidade que se considerem adequadas.
 
@@ -201,7 +237,9 @@ j) O sistema de classificação final do concurso;
 
 l) A indicação de que o concurso se rege pelo presente diploma e, subsidiariamente, pelas normas aplicáveis do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho.
 
-###### Artigo 8.º — Prazo de candidatura e lista de candidatos
+Artigo 8.º
+
+Prazo de candidatura e lista de candidatos
 
 1 - O prazo para apresentação de candidaturas é de 10 dias úteis a contar da data da publicação do aviso de abertura.
 
@@ -213,7 +251,9 @@ l) A indicação de que o concurso se rege pelo presente diploma e, subsidiariam
 
 5 - (Revogado.)
 
-###### Artigo 9.º — Métodos de selecção
+Artigo 9.º
+
+Métodos de selecção
 
 1 - No concurso são utilizados sucessivamente os seguintes métodos de selecção de candidatos:
 
@@ -239,7 +279,9 @@ b) Curso de formação.
 
 10 - A acta com a classificação e graduação, por ordem decrescente, dos candidatos é submetida a homologação do ministro responsável pela área da justiça e publicada no Diário da República.
 
-###### Artigo 10.º — Procedimento simplificado
+Artigo 10.º
+
+Procedimento simplificado
 
 1 - Os peritos avaliadores que, à data da entrada em vigor do presente diploma, constem das listas oficiais integram as novas listas, sem submissão a concurso, mediante sujeição ao procedimento simplificado regulado neste artigo, independentemente dos requisitos habilitacionais.
 
@@ -255,7 +297,9 @@ b) Curso de formação.
 
 7 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -279,7 +323,9 @@ e) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -293,13 +339,17 @@ e) ...
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sempre que ocorram vagas numa determinada lista e existam candidatos aprovados no concurso que ainda não tenham preenchido as vagas, aquelas são preenchidas, no prazo de três anos a contar da publicação a que se refere o n.º 3 do artigo 9.º-B, através da inclusão destes candidatos.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os peritos avaliadores constantes da lista oficial não podem intervir como peritos indicados pelas partes em processos de expropriação que corram em tribunal.»
 
@@ -327,7 +377,9 @@ Curso de formação
 
 8 - A classificação do curso é o resultado da média aritmética simples das duas provas a que se refere o n.º 4.
 
-###### Artigo 9.º-B — Classificação final e homologação
+Artigo 9.º-B
+
+Classificação final e homologação
 
 1 - A classificação final do concurso, expressa na escala valorimétrica de 0 a 20, resulta da média aritmética simples da nota na prova escrita de conhecimentos e da classificação no curso de formação.
 
@@ -335,7 +387,9 @@ Curso de formação
 
 3 - A acta do júri do concurso com a classificação final e a graduação dos candidatos, por ordem decrescente, é submetida, após audiência prévia dos interessados, a homologação do ministro responsável pela área da justiça e publicada no Diário da República, com indicação dos candidatos que preenchem as vagas.
 
-###### Artigo 10.º-A — Acção de formação específica
+Artigo 10.º-A
+
+Acção de formação específica
 
 A integração nas listas nos termos do artigo 10.º do presente diploma depende da frequência de uma acção de formação a ser organizada pelo Centro de Estudos Judiciários.»
 
@@ -355,15 +409,15 @@ São revogados os n.os 4 e 5 do artigo 8.º e os artigos 22.º e 23.º do [Decre
 
 Visto e aprovado em Conselho de Ministros de 16 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 4 de Janeiro de 2007.**
+Promulgado em 4 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 8 de Janeiro de 2007.**
+Referendado em 8 de Janeiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

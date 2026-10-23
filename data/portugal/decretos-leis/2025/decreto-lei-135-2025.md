@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0007800081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/135/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f344e4f368b02b4169afbc1163a4521fd94b29a8b602d36e72e7b8200ee85c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f0014afa11dfbc6a3c07a657c846cba26496ca4d4466ceb1f331c80b06014ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Chefe da CASA Militar
-- Pessoal Dirigente
-- Serviços Sociais da Administração Pública
 - Despesas de Representação
-- Secretaria Geral
+- Pessoal Dirigente
 - Presidência da República
+- PSP
 - Remuneração
+- Secretaria Geral
 - Segurança Privada
+- Serviços Sociais da Administração Pública
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:288/2000
+  label: Altera, a partir de 25 de dezembro de 2025 e produz efeitos a partir de 9 de março de 2026, o artigo 16.º do Decreto-Lei
+    n.º 288/2000, de 13 de novembro, Diário da República n.º 262/2000, Série I-A
+  source: null
+  date: '2000-11-13'
+- type: amends
+  target: pt:numero:decreto-lei:91/2021
+  label: Altera, a partir de 25 de dezembro de 2025 e produz efeitos a partir de 9 de março de 2026, o artigo 11.º, adita
+    o artigo 4.º-A do Decreto-Lei n.º 91/2021, de 5 de novembro, Diário da República n.º 215/2021, Série I
+  source: null
+  date: '2021-11-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2018/03/14/p/dre
   label: null
@@ -103,16 +115,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:114857707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173909856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215647905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:32Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +175,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei procede:
 
-a) À quarta alteração ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, alterado pelos Decretos-Leis n.<sup>os</sup>[288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, [18/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), de 14 de março, e [54/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), de 14 de julho, que regulamenta a [Lei n.º 7/96](https://diariodarepublica.pt/dr/detalhe/lei/7-1996-621340), de 29 de fevereiro, sobre o órgão de soberania Presidente da República;
+a) À quarta alteração ao [Decreto-Lei n.º 28-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-1996-314395), de 4 de abril, alterado pelos Decretos-Leis n.os[288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, [18/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), de 14 de março, e [54/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), de 14 de julho, que regulamenta a [Lei n.º 7/96](https://diariodarepublica.pt/dr/detalhe/lei/7-1996-621340), de 29 de fevereiro, sobre o órgão de soberania Presidente da República;
 
 b) À sexta alteração ao [Decreto-Lei n.º 288/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), de 13 de novembro, na sua redação atual, que aprova a Lei Orgânica e o quadro de pessoal da Secretaria-Geral da Presidência da República;
 
@@ -217,7 +257,7 @@ O artigo 11.º do [Decreto-Lei n.º 91/2021](https://diariodarepublica.pt/dr/det
 
 3 - O período referido no número anterior compreende eventual anterior exercício de funções ao abrigo do regime de pessoal dos órgãos e serviços da Presidência da República, desde que sucedido, sem interrupções, de nomeação para o Gabinete.
 
-4 - O direito a que se referem os n.<sup>os</sup>2 e 3 depende da inexistência de vínculo de emprego, público ou privado, anterior à nomeação.
+4 - O direito a que se referem os n.os2 e 3 depende da inexistência de vínculo de emprego, público ou privado, anterior à nomeação.
 
 5 - Verificando-se os requisitos previstos nos números anteriores, é aberto procedimento concursal, nos termos da legislação aplicável à Administração Pública, para ocupação dos postos de trabalho correspondentes na SGPR, sendo os ex-membros do gabinete opositores únicos e obrigatórios.
 
@@ -247,12 +287,14 @@ São revogados os artigos 17.º e 22.º do [Decreto-Lei n.º 28-A/96](https://di
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Marisa da Luz Bento Garrido Marques Oliveira.
 
-**Promulgado em 13 de dezembro de 2025.**
+Promulgado em 13 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 16 de dezembro de 2025.**
+Referendado em 16 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+119919751

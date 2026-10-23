@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/2005/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2005-490257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdda62461e840f772e255eec67385478c990d79f91c859470746fd00d2b632cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e1e35e2393f3aa06901953d934f82205bf96d419ed204da197d9f2a7cda1cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,50 +69,188 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Activo Imobilizado
-- Empresa
-- Sociedade Comercial
-- Cidadão Estrangeiro
-- Certidão
-- Pessoal Dirigente
 - Avaliação de Prédios
+- Avaliação do Património
+- Certidão
+- Cidadão Estrangeiro
 - Código do Imposto do SELO
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
 - Código do IRC
 - Código do IRS
-- Imposto Municipal sobre Imóveis
 - Definição de Competências
 - Emigrante
+- Empresa
 - Estatuto dos Benefícios Fiscais
 - Fusão de Sociedades
+- Habitação
+- Herança
 - Imposto do SELO
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Código do Imposto Municipal sobre Imóveis
+- Imposto Municipal sobre Imóveis
+- IRC
 - IRS
-- IVA
-- Transmissão da Propriedade
-- Pagamento por Conta
 - Isenção Fiscal
-- Veículo
-- Avaliação do Património
+- IVA
+- Pagamento por Conta
 - Pessoa Coletiva
 - Pessoa Singular
-- IRC
+- Pessoal Dirigente
 - Prédio Rústico
+- Prédio Urbano
 - Reclamação
 - Regime Fiscal
-- Habitação
 - Retenção na Fonte
 - Serviço de Finanças
-- Prédio Urbano
+- Sociedade Comercial
 - Trabalhador Independente
 - Transacção Intracomunitária
-- Herança
+- Transmissão da Propriedade
+- Veículo
 - Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:105637672:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 61º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, com a redacção do presente diploma,\
+    \ pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:693853:por
+  label: "Alterado o art. 15º do Dec Lei 287/2003 de 12-Nov, com a redacção do presente diploma, pela LEI.6/2006.27.02.2006.AR,\
+    \ DR.IS-A [41] de 27.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-2006-693853
+  date: '2006-02-27'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterado o art. 22º [a nova redacção tem natureza interpretativa] do RITI aprovado pelo Dec Lei 290/92 de 28-Dez,\
+    \ com a redacção conferida no presente diploma, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 28º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, alterado pelo presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:636388:por
+  label: "Alterados os art.s 26º e 28º pelo DEC LEI.277/2007.01.08.2007.MFAP, DR.IS [147] de 01.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-2007-636388
+  date: '2007-08-01'
+- type: amended_by
+  target: pt:dre:642527:por
+  label: "Alterado o artigo 26.º do Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de Setembro, na redacção\
+    \ do presente diploma, pelo DEC LEI.324/2007.28.09.2007.MJ, DR.IS [188] de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-2007-642527
+  date: '2007-09-28'
+- type: amended_by
+  target: pt:dre:629425:por
+  label: "Alterado o art. 10º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, e na redacção do presente diploma, pelo DEC LEI.361/2007.02.11.2007.MFAP, DR.IS [211] de 02.11.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-2007-629425
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art. 18º do Dec Lei 42/91 de 22-Jan, revisto e republicado pelo Dec Lei 134/2001 de 24-Abr e na redacção\
+    \ do presente diploma, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: "Alterado o art. 22º do Regime do IVA nas Transacções Intracomunitárias, aprovado pelo Dec Lei 290/92, de 28-Dez,\
+    \ na redacção do presente diploma, pelo DEC LEI.102/2008.20.06.2008.MFAP, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterados os arts. 10.º e 28.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de\
+    \ 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art 69º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, na redacção\
+    \ do presente diploma, republicado pelo presente diploma, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\
+    09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 28.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterado o art. 10º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, com a redacção constante do presente\
+    \ diploma, pela LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o art. 37º do Código do Imposto Municipal sobre Imóveis aprovado pelo Dec Lei 287/2003, de 12-Nov, na redacção\
+    \ do presente diploma , pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:304719:por
+  label: "Alterado o art. 15.º do Dec Lei 287/2003, de 12-Nov, na redacção da presente lei, pela LEI.60-A/2011.30.11.2011.AR,\
+    \ DR.IS [230-Supl] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2011-304719
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 13º, 37º e 75º do Código do Imposto Municipal sobre Imóveis aprovado pelo Dec Lei 287/2003, de\
+    \ 12-Nov, na redacção do presente diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 15º e 112º do Código do Imposto Municipal sobre Imóveis (IMI), aprovado pelo Dec Lei\
+    \ 287/2003 de 12-nov, alterado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 10º e 28º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado\
+    \ pelo Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação aos arts. 81.º e 90.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo
+    presente diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 10.º e 28.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-nov, na redação do presente
+    diploma, pelo(a) Lei n.º 82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterado o art. 118.º do Código do Imposto Municipal sobre Imóveis (CIMI) aprovado pelo Dec Lei 287/2003, de 12-nov,
+    na redação do presente diploma pelo(a) Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 118.º do Código do Imposto Municipal sobre Imóveis (CIMI) aprovado pelo Dec Lei 287/2003, de 12-nov,
+    na redação do presente diploma pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/134/200
   label: null
@@ -153,16 +291,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1282/2003/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1282/2003/11/13/p/dre
+- type: cites
+  target: pt:dre:165040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689420:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:489774:por
+  label: "Revogado, a partir de 01.01.2010, o DR 2/90, de 12-Jan, na redacção do presente diploma, pelo DR.25/2009.14.09.2009.MFAP,\
+    \ DR.IS [178] de 14.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/25-2009-489774
+  date: '2009-09-14'
 article_structure:
-  article_count: 27
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:50Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +465,9 @@ d) (Revogada.)
 
 12 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -289,7 +531,9 @@ Os artigos 8.º, 47.º, 61.º, 69.º, 99.º e 109.º do Código do Imposto sobre
 
 10 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +555,9 @@ Os artigos 8.º, 47.º, 61.º, 69.º, 99.º e 109.º do Código do Imposto sobre
 
 10 - No caso de a modificação do objecto social ou a alteração substancial da natureza da actividade anteriormente exercida ser consequência da realização de uma operação de fusão, cisão ou entrada de activos à qual se aplique o regime previsto no artigo 68.º, o requerimento referido no número anterior pode ser apresentado até ao fim do mês seguinte ao pedido do registo da operação na conservatória do registo comercial.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -327,7 +573,9 @@ Os artigos 8.º, 47.º, 61.º, 69.º, 99.º e 109.º do Código do Imposto sobre
 
 7 - A prova mencionada no número anterior deve integrar o processo de documentação fiscal a que se refere o artigo 121.º
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +589,9 @@ Os artigos 8.º, 47.º, 61.º, 69.º, 99.º e 109.º do Código do Imposto sobre
 
 6 - Sempre que, durante o período de aplicação do regime especial de tributação dos grupos de sociedades previsto no artigo 63.º ou imediatamente após o seu termo, e em resultado de uma operação de fusão envolvendo a totalidade das sociedades abrangidas por aquele regime, uma das sociedades pertencentes ao grupo incorpore as restantes ou haja lugar à constituição de uma nova sociedade, pode o Ministro das Finanças, a requerimento da sociedade dominante apresentado no prazo de 90 dias após o pedido do registo da fusão na conservatória do registo comercial, autorizar que os prejuízos fiscais do grupo ainda por deduzir possam ser deduzidos do lucro tributável da sociedade incorporante ou da nova sociedade resultante da fusão, nas condições referidas nos números anteriores.
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - Se o contribuinte verificar, pelos elementos de que disponha, que o montante do pagamento por conta já efectuado é igual ou superior ao imposto que será devido com base na matéria colectável do exercício, pode deixar de efectuar novo pagamento por conta, mas deve enviar, por transmissão electrónica de dados, uma declaração de limitação de pagamento por conta, de modelo oficial, até ao termo do prazo para o respectivo pagamento.
 
@@ -349,7 +599,9 @@ Os artigos 8.º, 47.º, 61.º, 69.º, 99.º e 109.º do Código do Imposto sobre
 
 3 - ...
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +673,9 @@ m) ...
 
 10 - Os documentos referidos nas alíneas f), g) e j) do n.º 6 devem conter a assinatura de quem represente a sociedade no momento da sua emissão, a qual deve ser comprovada através do reconhecimento, podendo este ser efectuado pelo serviço de finanças competente.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Seja ou não devido imposto, é sempre obrigatório prestar as declarações e proceder à relação dos bens e direitos, a qual, em caso de isenção, deve abranger apenas os bens e direitos referidos no artigo 10.º do Código do IRS, bem como outros bens sujeitos a registo, matrícula ou inscrição.
 
@@ -431,7 +685,9 @@ m) ...
 
 4 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -479,7 +735,9 @@ l) ...
 
 6 - Sempre que haja lugar à junção dos elementos referidos nos n.os 2 e 3 do artigo 37.º, têm-se por não entregues as declarações que não sejam por eles acompanhadas.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -491,7 +749,9 @@ l) ...
 
 5 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - As avaliações directas de prédios rústicos são efectuadas por peritos avaliadores permanentes, um por cada serviço de finanças, com observância do disposto no artigo 56.º
 
@@ -499,7 +759,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Os peritos regionais a que se referem os artigos 74.º e 76.º são nomeados pelo director-geral dos Impostos, mediante proposta do director de finanças.
 
@@ -507,7 +769,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -521,17 +785,23 @@ l) ...
 
 6 - ...
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Fica igualmente suspensa a liquidação do imposto enquanto não for decidido o pedido de isenção apresentado pelo sujeito passivo, para os prédios destinados a habitação própria e permanente e para os prédios de reduzido valor patrimonial de sujeitos passivos de baixos rendimentos, ao abrigo dos artigos 42.º e 45.º do Estatuto dos Benefícios Fiscais, desde que o requerimento seja apresentado dentro do prazo e o valor declarado, nomeadamente o valor de aquisição do acto ou contrato, seja inferior aos limites estabelecidos nesses artigos, aplicando-se, para efeitos do pagamento do imposto que venha a ser devido, os prazos previstos nos n.os 2 a 5 do artigo 120.º, e sem quaisquer encargos se o indeferimento do pedido for por motivo não imputável ao sujeito passivo.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 A apreciação das reclamações referidas no artigo anterior é da competência dos chefes de finanças da área de situação dos prédios, devendo ser decididas no prazo de 90 dias, excepto as que tiverem por fundamento o valor patrimonial tributário exagerado do prédio, as quais devem ser resolvidas no prazo de 180 dias, podendo as reclamações ser apresentadas no serviço de finanças da área do domicílio fiscal do reclamante.
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -577,7 +847,9 @@ Os artigos 15.º e 27.º do [Decreto-Lei n.º 287/2003](https://diariodarepublic
 
 7 - As plantas de arquitectura previstas no n.º 2 do artigo 37.º do Código do Imposto Municipal sobre Imóveis, a juntar à declaração modelo n.º 1, para efeitos de avaliação dos prédios referidos no n.º 1, são fornecidas gratuitamente pelas câmaras municipais, mediante declaração de que as mesmas se destinam exclusivamente ao cumprimento da obrigação imposta pelo presente artigo, podendo aquelas entidades cobrar apenas os custos associados à reprodução daqueles documentos.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -713,12 +985,12 @@ b) Nas situações previstas no n.º 3, aos pedidos apresentados a partir de 1 d
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 22 de Novembro de 2005.**
+Promulgado em 22 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Novembro de 2005.**
+Referendado em 23 de Novembro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

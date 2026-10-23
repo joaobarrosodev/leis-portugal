@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/109a00/24432451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/160/1999/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1999-331434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fe3e2411eb465db1427ae71ac87eaebd28b73a7e43ea74ea40fcf2bba88d6b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e017a562eb120bbafa3e6ecf6b2a4964c60a68a60653c0a34f8fc426d0f9000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Ministério do Trabalho e da Solidariedade
 - Comissão de Fiscalização
-- Gestão Financeira
+- Conselho Diretivo
 - Definição de Competências
 - Gestão do Património
-- Conselho Diretivo
+- Gestão Financeira
 - Integração de Trabalhadores
+- Ministério do Trabalho e da Solidariedade
 - Orgânica
 - Quadro de Pessoal
 relationships:
@@ -80,6 +80,39 @@ relationships:
   target: pt:dre:638538:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545639:por
+  label: "Extinto o Centro Nacional de Protecção contra os Riscos Profissionais, criado no âmbito do ex-Ministério da Solidariedade\
+    \ e Segurança Social pelo Dec Lei 35/96 de 02-Mai e cuja orgânica consta do presente diploma, pelo DEC LEI.211/2006.27.10.2006.MTSSO,\
+    \ DR.IS [208] de 27.10.2006, nos termos do previsto no respectivo art. 36º, sendo as suas atribuições de natureza técnico-normativa\
+    \ integradas na Direcção-Geral da Segurança Social, as suas atribuições de natureza operacional integradas no Instituto\
+    \ da Segurança Social e as atribuições relativas à gestão dos fundos obrigatórios integradas no Instituto de Gestão Financeira\
+    \ da Segurança Social\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2006-545639
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:638526:por
+  label: "Determinada a sucessão do Instituto de Segurança Social, I.P.), (ISS, I.P.), nas atribuições de natureza operacional,\
+    \ com excepcção das relativas à gestão dos fundos obrigatórios, do Centro Nacional de Protecção contra os Riscos Profissionais,\
+    \ I.P., (que ée extinto), cujas atribuições constam do presente diploma, pelo DEC LEI.214/2007.29.05.2007.MTSSO, DR.IS\
+    \ [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2007-638526
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638538:por
+  label: "Determinada a sucessão do Instituto de Gestão Financeira da Segurança Social, I.P. (IGFSS, I.P.), nas atribuições,\
+    \ relativas à gestão do Fundo de Reservas Matemáticas, do Fundo de Assistência e do Fundo de Garantia e Actualização de\
+    \ Pensões, do Centro Nacional de Protecção contra os Riscos Profissionais, constantes do presente diploma, pelo DEC LEI.215/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2007-638538
+  date: '2007-05-29'
+- type: amended_by
+  target: pt:dre:638546:por
+  label: "Determinado que a DGSS suceda nas atribuições técnicas e normativas do Centro Nacional de Protecção contra os Riscos\
+    \ Profissionais, criado pelo Dec Lei 35/96, de 02-Mai, e cuja orgânica foi aprovada pelo presente diploma, pelo DR.64/2007.29.05.2007.MTSSO,\
+    \ DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-2007-638546
+  date: '2007-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/1998/05/04/p/dre
   label: null
@@ -92,16 +125,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/1998/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/1998/08/04/p/dre
+- type: cites
+  target: pt:dre:431226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:692256:por
+  label: "Rectificado pela DECL-RECT.10-AE/99.1999.05.31.PCM, DR.IS-A [126]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-ae-1999-692256
+  date: '1999-05-31'
 article_structure:
   article_count: 38
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:46Z'
   warnings: []
   errors: []
 ---
@@ -654,12 +708,12 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/145/2008/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/145-2008-439110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T05:00:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d86d52eddb5370df1c797d423334ab27551487792cbb3ba67f904ef0eed3fb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 524a6fd1ac8d51ce7a412bde2dc6e67253871f1d6a38031f6f83cc16e7e0f62f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:00:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,31 @@ reuse:
 subjects:
 - Carreira Militar
 - Exército
-- Promoção Profissional
 - Militar
+- Promoção Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2007/04/16/p/dre
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519615:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:00:33Z'
   warnings: []
   errors: []
 ---
@@ -93,12 +101,12 @@ validation:
 
 de 30 de Outubro
 
-**O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 3 do artigo 28.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro, na redacção que lhe foi dada pela [Lei Orgânica n.º 2/2007](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2007-519615), de 16 de Abril, o seguinte:
 
 É confirmada a promoção ao posto de Major-General do Coronel Tirocinado de Infantaria António Xavier Lobato Faria Menezes, efectuada por deliberação de 8 de Outubro de 2008 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 16 do mesmo mês.
 
-**Assinado em 24 de Outubro de 2008.**
+Assinado em 24 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.

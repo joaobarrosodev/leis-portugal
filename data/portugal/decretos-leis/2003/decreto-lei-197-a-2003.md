@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 200/2003, 2º Suplemento, Série I-A de 2003-08-30
   number: '200'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5752-(14) a 5752-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0048aafb1dce6377b2013107a6f5cbb3adc19b80fa614d08f3399d4ad40d9579
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c698e373cabc29aba79ad8c6747a9ea7c7bc8235b8cb8d59c1cdc51349062c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Carreira Militar
+- Cessação do Contrato de Trabalho
+- Contratação de Pessoal
 - Estatuto
 - Estatuto dos Militares das Forças Armadas
-- Serviço Militar
-- Instrução Militar
-- Contratação de Pessoal
 - Forças Armadas
-- Promoção Profissional
+- Instrução Militar
 - Militar
-- Cessação do Contrato de Trabalho
+- Promoção Profissional
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:2299239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574568:por
+  label: "Alterado o art. 278.º e aditado o art. 9.º-A ao Estatuto Militar das Forças Armadas, aprovado pelo Dec Lei 236/99,\
+    \ de 25-Jun, renumerado pelo presente diploma, pelo DEC LEI.70/2005.17.03.2005.MDN, DR.IS-A [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2005-574568
+  date: '2005-03-17'
+- type: amended_by
+  target: pt:dre:640149:por
+  label: "Alterado o art. 170º do Estatuto dos Militares das Forças Armadas, aprovado pelo Dec Lei 236/99 de 25-Jun, renumerado\
+    \ e republicado pelo presente diploma, pelo DEC LEI.310/2007.11.09.2007.MDN, DR.IS [175] de 11.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/310-2007-640149
+  date: '2007-09-11'
+- type: amends
+  target: pt:numero:lei:25/2000
+  label: "Altera os artigos 3.º e 94.º e revoga o artigo 94.º-A, na redacção da Lei n.º 25/2000, de 23 de Agosto, altera os\
+    \ artigos 5.º, 30.º, 42.º, 43.º, 74.º, 105.º, 131.º, 153.º, 181.º, 248.º, 261.º, 262.º, 283.º, 288.º e 290.º e adita os\
+    \ artigos 291.º a 314.º ao Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 236/99, de 25 de Junho,\
+    \ DR.IS-A [146], renumera-o e republica-o em anexo, com as alterações introduzidas\0\0"
+  source: null
+  date: '1999-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/157/1992/07/31/p/dre
   label: null
@@ -111,16 +131,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:274443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 361
-  section_count: 59
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 321
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:46Z'
   warnings: []
   errors: []
 ---
@@ -157,13 +217,17 @@ c) ...
 
 d) Serviço efectivo decorrente de convocação ou mobilização.
 
-###### Artigo 5.º — Serviço efectivo em RC e RV
+Artigo 5.º
+
+Serviço efectivo em RC e RV
 
 1 - O serviço efectivo em RC compreende a prestação de serviço militar voluntário por um período de tempo limitado, com vista à satisfação das necessidades das Forças Armadas ou ao seu eventual ingresso nos QP.
 
 2 - O serviço efectivo em RV compreende a prestação de serviço militar voluntário por um período de 12 meses, com vista à satisfação das necessidades das Forças Armadas, ao ingresso no regime de contrato ou ao eventual recrutamento para os QP.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O militar dos QP é sempre considerado mais antigo que os militares das restantes formas de prestação de serviço promovidos a posto igual ou correspondente, com o mesmo tempo de serviço no posto.
 
@@ -173,7 +237,9 @@ d) Serviço efectivo decorrente de convocação ou mobilização.
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +255,9 @@ d) Serviço efectivo decorrente de convocação ou mobilização.
 
 7 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +275,9 @@ b) Nas situações de ausência ilegítima ou de deserção;
 
 c) [Anterior alínea b).]
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 ...
 
@@ -221,7 +291,9 @@ d) ...
 
 e) ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - Aos militares das Forças Armadas são aplicáveis, em matéria de férias, as disposições previstas no regime geral da função pública, sem prejuízo da actividade operacional ou da frequência de cursos, tirocínios, instrução ou estágios.
 
@@ -229,7 +301,9 @@ e) ...
 
 3 - A licença para férias só pode ser concedida aos militares que possuírem, no mínimo, seis meses de serviço efectivamente prestado.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +317,9 @@ e) ...
 
 6 - Das decisões do CEMGFA e dos CEM dos ramos não cabe recurso hierárquico.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Para ingresso na categoria de sargentos é exigido, no mínimo, o ensino secundário complementado por formação militar adequada ou formação militar que habilite com a certificação de formação profissional de nível 3.
 
@@ -261,7 +337,9 @@ d) ...
 
 e) ...
 
-###### Artigo 153.º — [...]
+Artigo 153.º
+
+[...]
 
 1 - ...
 
@@ -275,13 +353,17 @@ d) Seja abrangido por outras condições legalmente previstas.
 
 2 - Na situação de passagem à reserva prevista no n.º 7 do artigo 31.º-F da LDNFA, a indemnização a prestar pelo militar é fixada pelo CEM do ramo respectivo, nos termos constantes do n.º 3 do artigo 171.º do presente Estatuto.
 
-###### Artigo 181.º — [...]
+Artigo 181.º
+
+[...]
 
 1 - ...
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 248.º — [...]
+Artigo 248.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +383,9 @@ Quadro especial de recursos humanos e financeiros médicos (MED), administraçã
 
 4 - ...
 
-###### Artigo 261.º — [...]
+Artigo 261.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +397,9 @@ Quadro especial de recursos humanos e financeiros médicos (MED), administraçã
 
 5 - ...
 
-###### Artigo 262.º — [...]
+Artigo 262.º
+
+[...]
 
 ...
 
@@ -323,7 +409,9 @@ b) ...
 
 c) ...
 
-###### Artigo 283.º — [...]
+Artigo 283.º
+
+[...]
 
 1 - O ingresso na categoria de praças da Armada faz-se no posto de primeiro-marinheiro, de entre militares:
 
@@ -335,7 +423,9 @@ b) Em RC, desde que habilitados com o curso de promoção de marinheiros;
 
 3 - As condições de admissão ao CFM são objecto de regulamentação em diploma próprio.
 
-###### Artigo 288.º — [...]
+Artigo 288.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +435,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 290.º — Ingresso em categorias superiores
+Artigo 290.º
+
+Ingresso em categorias superiores
 
 As praças da Armada podem concorrer à frequência de cursos que habilitem ao ingresso nas categorias de sargento ou de oficial, desde que satisfaçam, designadamente, as seguintes condições:
 
@@ -361,7 +453,7 @@ c) ...»
 
 ## ANEXO I — [...]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
 
 ###### Artigo 3.º — Aditamentos
 
@@ -371,11 +463,13 @@ Ao EMFAR aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr
 
 Dos regimes de contrato e de voluntariado
 
-## TÍTULO I
+TÍTULO I
 
-# Parte comum
+Parte comum
 
-###### Artigo 291.º — Condições de admissão
+Artigo 291.º
+
+Condições de admissão
 
 1 - Constitui condição de admissão ao RC e ao RV, para além das previstas na LSM e respectivo Regulamento (RLSM), a posse de avaliação de mérito favorável, relativamente ao período de serviço militar eventualmente prestado.
 
@@ -391,13 +485,17 @@ c) Curso do ensino básico ou equivalente, para a categoria de praças.
 
 4 - As condições especiais de admissão ao RC e ao RV são estabelecidas por portaria do MDN, sob proposta dos CEM de cada ramo.
 
-###### Artigo 292.º — Candidatura
+Artigo 292.º
+
+Candidatura
 
 1 - A candidatura à prestação de serviço em RC ou RV formaliza-se através da declaração a que se refere o RLSM, endereçada ao CEM do ramo em que o cidadão manifesta vontade de prestar serviço militar.
 
 2 - Os prazos e procedimentos a observar na apresentação da candidatura para admissão ao serviço efectivo em RC e RV são fixados por despacho do CEM respectivo.
 
-###### Artigo 293.º — Designação e identificação dos militares
+Artigo 293.º
+
+Designação e identificação dos militares
 
 1 - Os militares em RC e RV são designados, sob forma abreviada, pelo número de identificação militar, posto, classe, arma ou serviço e especialidade, em função do respectivo ramo, forma de prestação de serviço, e nome.
 
@@ -405,7 +503,9 @@ c) Curso do ensino básico ou equivalente, para a categoria de praças.
 
 3 - Ao militar em RC e RV é conferido um cartão de identificação militar, de uso obrigatório.
 
-###### Artigo 294.º — Instrução militar
+Artigo 294.º
+
+Instrução militar
 
 1 - O militar em RC e RV é sujeito, após a incorporação, ao período de instrução militar que compreende a instrução básica e a instrução complementar.
 
@@ -413,7 +513,9 @@ c) Curso do ensino básico ou equivalente, para a categoria de praças.
 
 3 - A duração da instrução complementar, para cada uma das classes, armas, serviços e especialidades, é fixada por despacho do CEM do ramo respectivo.
 
-###### Artigo 295.º — Postos dos militares em instrução
+Artigo 295.º
+
+Postos dos militares em instrução
 
 1 - O militar em instrução básica designa-se, de acordo com o ramo onde presta serviço, por:
 
@@ -433,13 +535,17 @@ c) Segundo-grumete ou soldado, quando destinado à categoria de praça.
 
 3 - Por portaria do MDN, e mediante proposta do respectivo CEM, são definidas as classes ou especialidades de cada ramo que permitirão que o militar em instrução complementar se designe, de acordo com o ramo onde preste serviço, por primeiro-grumete ou segundo-cabo graduado quando destinado a esses postos da categoria de praças.
 
-###### Artigo 296.º — Funções
+Artigo 296.º
+
+Funções
 
 1 - Os militares em RC e RV exercem funções de acordo com o seu posto, classe ou especialidade e qualificações.
 
 2 - As funções específicas para os militares em RC e RV, bem como as respectivas classes, subclasses, armas, serviços e especialidades, são fixadas por despacho do CEM do respectivo ramo.
 
-###### Artigo 297.º — Ingresso na categoria
+Artigo 297.º
+
+Ingresso na categoria
 
 1 - Constituem habilitações necessárias ao ingresso nas diferentes categorias dos militares em RC e RV:
 
@@ -455,13 +561,17 @@ c) Praças - cursos de formação de praças.
 
 4 - A inscrição em cada uma das categorias após a instrução militar é efectuada por ordem decrescente de classificação obtida nos cursos indicados no n.º 1.
 
-###### Artigo 298.º — Antiguidade relativa
+Artigo 298.º
+
+Antiguidade relativa
 
 1 - A antiguidade relativa entre militares com o mesmo posto ou com postos correspondentes nas diferentes classes e especialidades é determinada pelas datas de antiguidade nesse posto e, em caso de igualdade destas, pelas datas de antiguidade no posto anterior, e assim sucessivamente, até ao primeiro posto da respectiva categoria.
 
 2 - A antiguidade relativa dos primeiros-marinheiros com a mesma data de antiguidade é determinada pela classificação obtida no curso de promoção de marinheiros.
 
-###### Artigo 299.º — Avaliação do mérito
+Artigo 299.º
+
+Avaliação do mérito
 
 1 - A avaliação do mérito dos militares em RC e RV releva, designadamente, para os seguintes efeitos:
 
@@ -477,13 +587,17 @@ e) Admissão na função pública.
 
 2 - O Regulamento de Avaliação do Mérito dos Militares em RC e RV é aprovado por portaria do MDN, sob proposta do CCEM.
 
-###### Artigo 300.º — Condições gerais de promoção
+Artigo 300.º
+
+Condições gerais de promoção
 
 1 - As condições gerais de promoção dos militares em RC e RV são as constantes do artigo 56.º do presente Estatuto.
 
 2 - A verificação das condições gerais de promoção dos militares em RC e RV é definida pelo CEM do ramo respectivo.
 
-###### Artigo 301.º — Cessação
+Artigo 301.º
+
+Cessação
 
 1 - Constituem causas de cessação do vínculo contratual correspondente à prestação de serviço efectivo em RC e RV:
 
@@ -529,7 +643,9 @@ b) Findo o período experimental, através de requerimento do interessado dirigi
 
 6 - O apuramento dos factos que levam à aplicação das alíneas b), e) e f) do n.º 3 do presente artigo, é feito em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final.
 
-###### Artigo 302.º — Casos especiais
+Artigo 302.º
+
+Casos especiais
 
 1 - O militar em RC ou RV que à data da passagem à reserva de disponibilidade ou de recrutamento se encontre em tratamento ou com baixa hospitalar por doença ou acidente em serviço, beneficia de assistência médica, medicamentosa e hospitalar, a prestar pelos serviços de saúde militar, até à data em que estiver definida a sua situação clínica, por homologação da decisão da competente junta médica, sem prejuízo do direito à assistência na doença estabelecido para os militares do QP.
 
@@ -537,15 +653,19 @@ b) Findo o período experimental, através de requerimento do interessado dirigi
 
 3 - O militar em RC e RV, que à data da passagem à reserva de disponibilidade ou de recrutamento se encontre em baixa hospitalar por doença ou acidente sem relação com o serviço, beneficia da assistência prevista no n.º 1 do presente artigo, salvo declaração expressa em contrário do próprio, enquanto não ocorrer a alta hospitalar ou a transferência para unidade hospitalar civil não possa ser concedida sem grave prejuízo do respectivo processo de recuperação clínica.
 
-###### Artigo 303.º — Admissão nos quadros permanentes
+Artigo 303.º
+
+Admissão nos quadros permanentes
 
 O militar que se encontre a frequentar curso para ingresso nos QP dos ramos das Forças Armadas, e que entretanto tenha atingido o limite máximo de duração legalmente previsto para o regime de prestação de serviço em que se encontra, continua a prestar serviço no posto que detém até ao ingresso nos QP ou à exclusão daquele curso.
 
-## TÍTULO II
+TÍTULO II
 
 Do regime de contrato
 
-###### Artigo 304.º — Início da prestação de serviço
+Artigo 304.º
+
+Início da prestação de serviço
 
 A prestação de serviço efectivo em RC inicia-se:
 
@@ -557,7 +677,9 @@ c) No 1.º dia imediatamente a seguir à data da caducidade do vínculo, para os
 
 d) Na data fixada no despacho de deferimento do ingresso em RC, para os cidadãos que já se encontrem a prestar serviço efectivo decorrente de convocação ou mobilização.
 
-###### Artigo 305.º — Postos
+Artigo 305.º
+
+Postos
 
 São os seguintes os postos dos militares em RC após a instrução militar, consoante as respectivas categorias:
 
@@ -567,7 +689,9 @@ b) Sargentos - segundo-subsargento ou segundo-furriel, subsargento ou furriel e 
 
 c) Praças - segundo-grumete ou soldado, primeiro-grumete ou segundo-cabo, segundo-marinheiro ou primeiro-cabo e primeiro-marinheiro ou cabo-adjunto.
 
-###### Artigo 306.º — Condições especiais de promoção
+Artigo 306.º
+
+Condições especiais de promoção
 
 1 - São necessários, para efeitos de promoção aos postos indicados no artigo anterior e no respeito pelos efectivos fixados nos termos do n.º 6 do artigo 42.º do presente Estatuto, os seguintes tempos mínimos de permanência no posto antecedente:
 
@@ -603,27 +727,35 @@ Segundo-marinheiro ou primeiro-cabo - um ano no posto de primeiro-grumete ou seg
 
 8 - As condições especiais de promoção satisfeitas, no todo ou em parte, durante a prestação de serviço efectivo, são consideradas para efeitos de promoção dos militares em RC.
 
-###### Artigo 307.º — Cursos de promoção
+Artigo 307.º
+
+Cursos de promoção
 
 Os cursos de promoção mencionados no artigo anterior são abertos tendo em conta as necessidades de pessoal dos ramos, sendo as condições especiais de admissão aos mesmos fixadas por despacho do CEM do ramo respectivo.
 
-###### Artigo 308.º — Reclassificação e mudança de categoria
+Artigo 308.º
+
+Reclassificação e mudança de categoria
 
 1 - O militar em RC, mediante a obtenção de formação adequada, e compatibilizando os interesses individuais com os da instituição militar, pode ser reclassificado em diferente classe ou especialidade, tendo em vista a sua melhor utilização no exercício das funções inerentes à sua futura situação.
 
 2 - Ao militar em RC, reunidos os pressupostos previstos no número anterior, pode ainda ser facultada a mudança de categoria.
 
-###### Artigo 309.º — Licença registada
+Artigo 309.º
+
+Licença registada
 
 1 - Ao militar em RC pode ser concedida licença registada, quando o requeira, por tempo não superior a três meses, seguidos ou interpolados, por cada período de três anos, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período.
 
 2 - A licença registada não pode ser imposta ao militar em RC, salvo nas situações e para os efeitos previstos na segunda parte do n.º 1 e no n.º 2 do artigo 47.º do RLSM.
 
-## TÍTULO III
+TÍTULO III
 
 Do regime de voluntariado
 
-###### Artigo 310.º — Início da prestação de serviço
+Artigo 310.º
+
+Início da prestação de serviço
 
 A prestação do serviço efectivo em RV inicia-se:
 
@@ -633,11 +765,15 @@ b) Na data da apresentação na unidade, estabelecimento ou órgão, a designar 
 
 c) Na data fixada no despacho de deferimento do ingresso em RV, para os cidadãos que já se encontrem a prestar serviço efectivo, decorrente de convocação e mobilização.
 
-###### Artigo 311.º — Licença de férias
+Artigo 311.º
+
+Licença de férias
 
 Os militares em RV têm direito a 22 dias úteis de férias, a serem gozados durante a vigência do respectivo vínculo contratual.
 
-###### Artigo 312.º — Postos
+Artigo 312.º
+
+Postos
 
 1 - São os seguintes os postos dos militares em RV após a instrução militar, consoante as respectivas categorias:
 
@@ -651,11 +787,15 @@ c) Segundo-grumete ou soldado e primeiro-grumete ou segundo-cabo, para os milita
 
 3 - O militar é graduado em primeiro-grumete ou segundo-cabo quando se encontre a frequentar curso de promoção para estes postos.
 
-###### Artigo 313.º — Condições especiais de promoção
+Artigo 313.º
+
+Condições especiais de promoção
 
 As condições especiais de promoção dos militares em RV aplicam-se exclusivamente na categoria de praça, consistindo na habilitação com o Curso de Promoção de Grumetes ou o Curso de Promoção a Cabo, consoante se trate, respectivamente, de militares da Marinha ou do Exército e Força Aérea.
 
-###### Artigo 314.º — Licença registada
+Artigo 314.º
+
+Licença registada
 
 1 - Ao militar em RV pode ser concedida licença registada, quando o requeira, por tempo não superior a 30 dias, seguidos ou interpolados, dependendo a sua concessão de não existir inconveniente para o serviço e devendo a prestação de serviço ser prolongada por igual período.
 
@@ -691,25 +831,25 @@ O EMFAR aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/
 
 Visto e aprovado em Conselho de Ministros, 24 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas.
 
-**Promulgado em 27 de Agosto de 2003.**
+Promulgado em 27 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Agosto de 2003.**
+Referendado em 29 de Agosto de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (republicação)
 
 ESTATUTO DOS MILITARES DAS FORÇAS ARMADAS
 
-# LIVRO I
+LIVRO I
 
-# Parte geral
+Parte geral
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -765,7 +905,7 @@ O militar, em cerimónia pública, presta juramento de bandeira perante a Bandei
 
 4 - O militar tem direito de acesso ao respectivo processo individual.
 
-## TÍTULO II
+TÍTULO II
 
 Deveres e direitos
 
@@ -897,7 +1037,7 @@ f) A beneficiar de redução nas tarifas dos transportes colectivos públicos, d
 
 g) A beneficiar, nos termos da lei, para si e para a sua família, de um sistema de assistência, protecção e apoio social, abrangendo, designadamente, pensões de reforma, de sobrevivência e de preço de sangue e subsídios de invalidez.
 
-## TÍTULO III
+TÍTULO III
 
 Hierarquia, cargos e funções
 
@@ -1021,7 +1161,7 @@ O militar não pode ser nomeado para cargo a que corresponda posto inferior ao s
 
 4 - O direito à remuneração referida no número anterior só se constitui quando não haja titular para o cargo militar a desempenhar, nos termos em que este é definido nos n.os 1 e 2 do artigo 33.º
 
-## TÍTULO IV
+TÍTULO IV
 
 Efectivos, situações e tempo de serviço
 
@@ -1097,7 +1237,7 @@ c) Aquele que, nos termos da legislação disciplinar aplicável, não deva ser 
 
 Conta-se como tempo de permanência no posto o tempo de serviço efectivo a partir da data de antiguidade no respectivo posto.
 
-## TÍTULO V
+TÍTULO V
 
 Promoções e graduações
 
@@ -1333,7 +1473,7 @@ d) Desista ou não obtenha aproveitamento no respectivo curso de promoção.
 
 2 - Cessada a graduação, não pode a mesma ser invocada para efeitos de obtenção de quaisquer vantagens ou benefícios.
 
-## TÍTULO VI
+TÍTULO VI
 
 Ensino e formação nas Forças Armadas
 
@@ -1397,7 +1537,7 @@ A nomeação para cursos, tirocínios e estágios é feita por antiguidade, esco
 
 Os cursos de formação ministrados nas Forças Armadas que confiram conhecimentos e aptidões habilitantes para o exercício profissional garantem o direito à respectiva certificação profissional.
 
-## TÍTULO VII
+TÍTULO VII
 
 Avaliação
 
@@ -1531,7 +1671,7 @@ d) Juntas médicas.
 
 O militar que adquirir uma diminuição permanente na capacidade geral de ganho resultante de lesão ou doença adquirida ou agravada no cumprimento do serviço militar ou na defesa dos interesses da Pátria beneficia dos direitos e das regalias previstos em legislação especial.
 
-## TÍTULO VIII
+TÍTULO VIII
 
 Licenças
 
@@ -1607,7 +1747,7 @@ b) A confirmação do casamento é efectuada através de certidão destinada ao 
 
 Quando o militar mude de residência habitual, por força de transferência ou deslocamento, é-lhe concedido um período de licença até 10 dias seguidos.
 
-## TÍTULO IX
+TÍTULO IX
 
 Reclamações e recursos
 
@@ -1663,13 +1803,13 @@ c) Da data em que o interessado tiver conhecimento do acto, nos restantes casos.
 
 Os prazos referidos nos artigos 104.º e 105.º suspendem-se ou interrompem-se estando o militar em situação de campanha, integrado em forças fora dos quartéis ou bases, ou embarcado em unidades navais ou aéreas, a navegar ou em voo, bem como no desempenho de missões temporárias de serviço fora do território nacional.
 
-# LIVRO II
+LIVRO II
 
 Dos militares dos quadros permanentes
 
-## TÍTULO I
+TÍTULO I
 
-# Parte comum
+Parte comum
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1969,7 +2109,7 @@ As regras de nomeação e colocação dos militares são estabelecidas por despa
 
 #### SECÇÃO I — Situações
 
-##### SUBSECÇÃO I
+SUBSECÇÃO I
 
 Disposições gerais
 
@@ -2003,7 +2143,7 @@ c) Reforma.
 
 2 - O militar na reforma não pode exercer funções militares, salvo nas circunstâncias excepcionais previstas neste Estatuto.
 
-##### SUBSECÇÃO II
+SUBSECÇÃO II
 
 Activo
 
@@ -2077,7 +2217,7 @@ b) De licença ilimitada.
 
 3 - Regressa ao activo o militar que, tendo transitado para a reserva ou reforma por motivo disciplinar ou criminal, seja reabilitado, sem prejuízo dos limites de idade em vigor.
 
-##### SUBSECÇÃO III
+SUBSECÇÃO III
 
 Reserva
 
@@ -2179,7 +2319,7 @@ Decretada a mobilização geral ou declarados o estado de sítio ou a guerra, o 
 
 3 - A transição para a situação de reserva nos termos do disposto nas alíneas a) e b) do n.º 1 do artigo 154.º fica suspensa, salvo declaração em contrário do militar, enquanto permanecerem na situação de activo militares por ele ultrapassados na promoção aos postos mencionados no referido artigo.
 
-##### SUBSECÇÃO IV
+SUBSECÇÃO IV
 
 Reforma
 
@@ -2223,7 +2363,7 @@ A passagem à reforma tem lugar na data fixada no documento oficial que promova 
 
 #### SECÇÃO II — Efectivos
 
-##### SUBSECÇÃO
+SUBSECÇÃO
 
 Quadros
 
@@ -2313,7 +2453,7 @@ b) Quatro anos, para a categoria de praças.
 
 3 - Na fixação da indemnização a que se refere a alínea c) do n.º 1 devem ser tidos em consideração, designadamente, a duração e os custos dos cursos de formação e subsequentes acções de qualificação e actualização, na perspectiva de utilização efectiva do militar em funções próprias do quadro especial e do posto decorrentes da formação adquirida.
 
-##### SUBSECÇÃO II
+SUBSECÇÃO II
 
 Situações em relação ao quadro especial
 
@@ -2729,11 +2869,13 @@ b) Em estado de sítio ou de guerra, ao militar na situação de reserva.
 
 6 - A licença para estudos conta como tempo de serviço efectivo, mas sem os aumentos de tempo previstos no n.º 3 do artigo 46.º ou outros estabelecidos em legislação especial.
 
-## TÍTULO II
+TÍTULO II
 
 Oficiais
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 #### SECÇÃO I — Chefias militares
 
@@ -2757,7 +2899,7 @@ Oficiais
 
 ###### Artigo 210.º — Presidente do Supremo Tribunal Militar
 
-**O presidente do Supremo Tribunal Militar (STM) tem a patente de almirante ou general, segue em precedência hierárquica os CEM dos ramos e é nomeado e exonerado nos termos da LDNFA.**
+O presidente do Supremo Tribunal Militar (STM) tem a patente de almirante ou general, segue em precedência hierárquica os CEM dos ramos e é nomeado e exonerado nos termos da LDNFA.
 
 ###### Artigo 211.º — Comandante-chefe e comandante operacional
 
@@ -3451,11 +3593,13 @@ b) Curso geral de guerra (CGGA), para a promoção a oficial superior;
 
 c) Curso básico de comando (CBC), para a promoção a capitão.
 
-## TÍTULO III
+TÍTULO III
 
 Sargentos
 
-### CAPÍTULO I — Parte comum
+### CAPÍTULO I
+
+## Parte comum
 
 ###### Artigo 260.º — Ingresso na categoria
 
@@ -3755,7 +3899,7 @@ e) Cursos de actualização.
 
 3 - O curso de promoção a sargento-chefe (CPSCH) visa aprofundar os conhecimentos técnicos e militares necessários à coordenação e controlo da execução, bem como, no âmbito do sistema de avaliação de mérito, exercer papel selectivo para a promoção aos postos de sargento-chefe e sargento-mor.
 
-## TÍTULO IV
+TÍTULO IV
 
 Praças da Marinha
 
@@ -3869,13 +4013,13 @@ b) Ter idade não superior à exigida para a frequência do curso a que se refer
 
 c) Ficar aprovado nas provas do concurso de admissão ao curso e ser seleccionado para o preenchimento das vagas abertas para cada concurso.
 
-# LIVRO III
+LIVRO III
 
 Dos regimes de contrato e de voluntariado
 
-## TÍTULO I
+TÍTULO I
 
-# Parte comum
+Parte comum
 
 ###### Artigo 290.º — Condições de admissão
 
@@ -4043,7 +4187,7 @@ b) Findo o período experimental, através de requerimento do interessado dirigi
 
 O militar que se encontre a frequentar curso para ingresso nos QP dos ramos das Forças Armadas, e que entretanto tenha atingido o limite máximo de duração legalmente previsto para o regime de prestação de serviço em que se encontra, continua a prestar serviço no posto que detém, até ao ingresso nos QP ou à exclusão daquele curso.
 
-## TÍTULO II
+TÍTULO II
 
 Do regime de contrato
 
@@ -4121,7 +4265,7 @@ Os cursos de promoção mencionados no artigo anterior são abertos tendo em con
 
 2 - A licença registada não pode ser imposta ao militar em RC, salvo nas situações e para os efeitos previstos na segunda parte do n.º 1 e no n.º 2 do artigo 47.º do RLSM.
 
-## TÍTULO III
+TÍTULO III
 
 Do regime de voluntariado
 
@@ -4165,12 +4309,12 @@ As condições especiais de promoção dos militares em RV aplicam-se exclusivam
 
 ## ANEXO I — (a que se refere o artigo 28.º do Estatuto)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
 
 ## ANEXO II — (a que se refere o artigo 227.º, n.º 2, do Estatuto)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
 
 ## ANEXO III — (a que se refere o artigo 270.º, n.º 2, do Estatuto)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200a02/00140073.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20925-1964-535588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68e4e14adebdb45a75cd3ab113ed28c29425c323cdb3d930f1f131cfd8c16129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10324a8b42d16aca84984dd8f252ddd373ae5995bd7fd3a58e453d81e6d11a56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:25Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +90,15 @@ REGULAMENTO DOS PRÉMIOS DA ACADEMIA DAS CIÊNCIAS DE LISBOA
 
 I) Regulamento Geral dos Prémios
 
-###### Artigo 1.º Os concursos para atribuição dos prémios da Academia das Ciências de Lisboa serão abertos no mês de Janeiro de cada ano. O prazo de entrega das obras que constituem título de candidatura terminará um ano após a publicação do respectivo edital no Diário do Governo. Haverá um edital único, que será publicado na folha oficial e num jornal de cada uma das cidades de Lisboa, Porto e Coimbra e das capitais das províncias ultramarinas.
+Artigo 1.º Os concursos para atribuição dos prémios da Academia das Ciências de Lisboa serão abertos no mês de Janeiro de cada ano. O prazo de entrega das obras que constituem título de candidatura terminará um ano após a publicação do respectivo edital no Diário do Governo. Haverá um edital único, que será publicado na folha oficial e num jornal de cada uma das cidades de Lisboa, Porto e Coimbra e das capitais das províncias ultramarinas.
 
-###### Art. 2.º As condições de admissão ao concurso, no que respeita à natureza das obras e aos autores, constam do regulamento especial de cada um dos prédios e serão indicadas no edital.
+Art. 2.º As condições de admissão ao concurso, no que respeita à natureza das obras e aos autores, constam do regulamento especial de cada um dos prédios e serão indicadas no edital.
 
 § 1.º Não poderão constituir-se candidatos aos prémios os académicos efectivos da Academia das Ciências de Lisboa.
 
 § 2.º Um autor anteriormente premiado só poderá ser admitido a concurso ao mesmo prémio três anos após o termo do prazo de um concurso em que tenha sido premiado.
 
-###### Art. 3.º Pelo candidato, ou seu procurador bastante, serão entregues na secretaria da Academia, dentro do prazo do concurso:
+Art. 3.º Pelo candidato, ou seu procurador bastante, serão entregues na secretaria da Academia, dentro do prazo do concurso:
 
 a) Requerimento dirigido ao presidente da Academia, contendo os elementos de identificação do candidato e da obra e a declaração de que o candidato se conformará com a decisão da Academia sobre a atribuição do prémio;
 
@@ -108,15 +108,15 @@ b) Cinco exemplares da obra, os quais não serão devolvidos ao candidato.
 
 § 2.º Se a obra for inédita, os exemplares entregues serão dactilografados e assinados, e um deles será rubricado pelo autor em cada uma das folhas.
 
-###### Art. 4.º Terminado o prazo de entrega das obras, será nomeada pela Academia, em sessão plenária, para cada um dos prémios a que houver concorrentes, uma comissão de exame das obras apresentadas. No caso dos prémios que correspondam à actividade de uma só classe, a composição da comissão será proposta pela classe respectiva.
+Art. 4.º Terminado o prazo de entrega das obras, será nomeada pela Academia, em sessão plenária, para cada um dos prémios a que houver concorrentes, uma comissão de exame das obras apresentadas. No caso dos prémios que correspondam à actividade de uma só classe, a composição da comissão será proposta pela classe respectiva.
 
-###### Art. 5.º Cada uma das comissões será constituída por três académicas efectivos ou correspondentes nacionais.
+Art. 5.º Cada uma das comissões será constituída por três académicas efectivos ou correspondentes nacionais.
 
 § 1.º Os membros da comissão serão académicos das duas classes ou só de uma, conforme o prémio corresponder à actividade das duas classes ou só de uma.
 
 § 2.º O presidente da comissão será um académico efectivo para tal designado pela Academia. O relator será escolhido pela comissão, podendo esta função ser acumulada com a presidência da comissão.
 
-###### Art. 6.º Cada comissão elaborará um parecer do qual constarão:
+Art. 6.º Cada comissão elaborará um parecer do qual constarão:
 
 a) Os nomes dos autores e os títulos de todas as obras apresentadas, com as restantes indicações didascálicas consideradas necessárias para a sua identificação;
 
@@ -126,7 +126,7 @@ c) A indicação da obra ou obras que no entender da comissão sejam merecedoras
 
 d) As razões de ordem científica ou literária justificativas da escolha da obra ou obras propostas pela comissão para a atribuição do prémio ou prémios.
 
-###### Art. 7.º O parecer será lido pelo presidente ou pelo relator da comissão em sessão plenária ou da classe respectiva não posterior ao mês de Maio, conforme se tratar de prémios gerais ou de prémios privativos das classes. O parecer será posto à discussão e votação na sessão seguinte da Academia ou da classe, conforme o caso.
+Art. 7.º O parecer será lido pelo presidente ou pelo relator da comissão em sessão plenária ou da classe respectiva não posterior ao mês de Maio, conforme se tratar de prémios gerais ou de prémios privativos das classes. O parecer será posto à discussão e votação na sessão seguinte da Academia ou da classe, conforme o caso.
 
 § 1.º Durante o período desde a leitura até à votação do parecer, as obras concorrentes estarão na secretaria da Academia à disposição dos académicos efectivos que queiram examiná-las.
 
@@ -134,39 +134,39 @@ d) As razões de ordem científica ou literária justificativas da escolha da ob
 
 § 3.º Se o parecer da comissão não for aprovado, proceder-se-á por esferas brancas e pretas à votação das obras em mérito absoluto e em mérito relativo.
 
-###### Art. 8.º A Academia reserva-se o direito de não atribuir qualquer dos prémios, se nenhuma das obras admitidas ao respectivo concurso for considerada digna de aprovação em mérito absoluto.
+Art. 8.º A Academia reserva-se o direito de não atribuir qualquer dos prémios, se nenhuma das obras admitidas ao respectivo concurso for considerada digna de aprovação em mérito absoluto.
 
-###### Art. 9.º A entrega de todos os prémios far-se-á em sessão plenária e pública da Academia, expressamente convocada para este fim.
+Art. 9.º A entrega de todos os prémios far-se-á em sessão plenária e pública da Academia, expressamente convocada para este fim.
 
-###### Art. 10.º Poderá ser facultado aos autores premiados que o requeiram o conhecimento do parecer da comissão na parte relativa às suas obras, se o parecer tiver sido aprovado pela Academia ou pela classe.
+Art. 10.º Poderá ser facultado aos autores premiados que o requeiram o conhecimento do parecer da comissão na parte relativa às suas obras, se o parecer tiver sido aprovado pela Academia ou pela classe.
 
-###### Art. 11.º A Academia poderá publicar, de acordo com o autor, qualquer das obras inéditas que tenha sido premiada ou seja considerada merecedora de publicação.
+Art. 11.º A Academia poderá publicar, de acordo com o autor, qualquer das obras inéditas que tenha sido premiada ou seja considerada merecedora de publicação.
 
-###### Art. 12.º Se a algum dos concursos não for apresentada obra considerada digna de prémio, a Academia poderá adicionar o montante do prémio ao do concurso seguinte, instituir neste um segundo prémio ou dar ao respectivo montante a aplicação que julgar conveniente, tendo sempre em conta as intenções manifestadas pelo instituidor.
+Art. 12.º Se a algum dos concursos não for apresentada obra considerada digna de prémio, a Academia poderá adicionar o montante do prémio ao do concurso seguinte, instituir neste um segundo prémio ou dar ao respectivo montante a aplicação que julgar conveniente, tendo sempre em conta as intenções manifestadas pelo instituidor.
 
 II) Regulamento Especial do Prémio Alvarenga do Piauhy (Brasil)
 
-###### Artigo 1.º O prémio científico denominado Prémio Alvarenga do Piauhy (Brasil), instituído na Academia das Ciências de Lisboa em 1898, destina-se a estimular em Portugal o progresso dos ciências médicas.
+Artigo 1.º O prémio científico denominado Prémio Alvarenga do Piauhy (Brasil), instituído na Academia das Ciências de Lisboa em 1898, destina-se a estimular em Portugal o progresso dos ciências médicas.
 
-###### Art. 2.º O valor do prémio é de 2500$00, abrindo-se concurso para a sua adjudicação sempre que as disponibilidades provenientes dos juros acumulados tenham atingido aquela importância.
+Art. 2.º O valor do prémio é de 2500$00, abrindo-se concurso para a sua adjudicação sempre que as disponibilidades provenientes dos juros acumulados tenham atingido aquela importância.
 
 único. As quantias que na data de abertura de cada concurso excederem o valor do prémio serão contabilizadas nos juros destinados ao prémio seguinte.
 
-###### Art. 3.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original e inédita sobre qualquer ramo das ciências médicas, incluindo a história da medicina portuguesa.
+Art. 3.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original e inédita sobre qualquer ramo das ciências médicas, incluindo a história da medicina portuguesa.
 
 III) Regulamento Especial do Prémio Ricardo Malheiros
 
-###### Artigo 1.º O prémio literário anual denominado Prémio Ricardo Malheiros, instituído na Academia das Ciências de Lisboa em 1933, no valor de 5000$00, destina-se a estimular a cultura e a criação literárias em Portugal.
+Artigo 1.º O prémio literário anual denominado Prémio Ricardo Malheiros, instituído na Academia das Ciências de Lisboa em 1933, no valor de 5000$00, destina-se a estimular a cultura e a criação literárias em Portugal.
 
-###### Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original em língua portuguesa, dos géneros romance, novela e conto, publicada no ano da abertura do concurso.
+Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original em língua portuguesa, dos géneros romance, novela e conto, publicada no ano da abertura do concurso.
 
 IV) Regulamento Especial do Prémio Artur Malheiros
 
-###### Artigo 1.º O prémio científico anual denominado Prémio Artur Malheiros, instituído na Academia das Ciências de Lisboa em 1937, no valor de 5000$00, destina-se a estimular em Portugal o progresso das ciências, nomeadamente a física, a química, as matemáticas puras e aplicadas, a engenharia, o actuariado, a biologia, a medicina, a jurisprudência e a economia.
+Artigo 1.º O prémio científico anual denominado Prémio Artur Malheiros, instituído na Academia das Ciências de Lisboa em 1937, no valor de 5000$00, destina-se a estimular em Portugal o progresso das ciências, nomeadamente a física, a química, as matemáticas puras e aplicadas, a engenharia, o actuariado, a biologia, a medicina, a jurisprudência e a economia.
 
-###### Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original inédita sobre o ramo de conhecimentos científicos que for indicado no edital de abertura do concurso.
+Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original inédita sobre o ramo de conhecimentos científicos que for indicado no edital de abertura do concurso.
 
-###### Art. 3.º O ramo de conhecimentos para que se abrirá concurso será decidido pela Academia em sessão plenária no mês de Dezembro, em regra pela seguinte ordem:
+Art. 3.º O ramo de conhecimentos para que se abrirá concurso será decidido pela Academia em sessão plenária no mês de Dezembro, em regra pela seguinte ordem:
 
 1.º Ciências matemáticas;
 
@@ -182,44 +182,44 @@ IV) Regulamento Especial do Prémio Artur Malheiros
 
 7.º Ciências económicas e financeiras.
 
-###### Art. 4.º No ano imediato àquele ou àqueles em que o prémio não for atribuído, abrir-se-á concurso em mais de um ramo de conhecimentos, observando-se a ordem indicada no artigo 3.º
+Art. 4.º No ano imediato àquele ou àqueles em que o prémio não for atribuído, abrir-se-á concurso em mais de um ramo de conhecimentos, observando-se a ordem indicada no artigo 3.º
 
 V) Regulamento Especial do Prémio Ramos Paz
 
-###### Artigo 1.º O prémio literário denominado Prémio Ramos Paz, instituído na Academia das Ciências de Lisboa em 1943, destina-se a estimular em Portugal o gosto pelos estudos brasileiros.
+Artigo 1.º O prémio literário denominado Prémio Ramos Paz, instituído na Academia das Ciências de Lisboa em 1943, destina-se a estimular em Portugal o gosto pelos estudos brasileiros.
 
-###### Art. 2.º O valor do prémio é de 3000$00, abrindo-se concurso para a sua adjudicação sempre que as disponibilidades provenientes dos juros acumulados tenham atingido aquela importância.
+Art. 2.º O valor do prémio é de 3000$00, abrindo-se concurso para a sua adjudicação sempre que as disponibilidades provenientes dos juros acumulados tenham atingido aquela importância.
 
 § único. As quantias que, na data da abertura do concurso, excederem o valor do prémio serão contabilizadas nos juros destinados ao prémio seguinte.
 
-###### Art. 3.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original inédita sobre qualquer aspecto da literatura brasileira ou das relações literárias luso-brasileiras.
+Art. 3.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original inédita sobre qualquer aspecto da literatura brasileira ou das relações literárias luso-brasileiras.
 
-###### Art. 4.º A abertura do concurso será comunicada às Faculdades de Letras do País, tendo em conta que nelas funciona uma cadeira de Literatura Brasileira.
+Art. 4.º A abertura do concurso será comunicada às Faculdades de Letras do País, tendo em conta que nelas funciona uma cadeira de Literatura Brasileira.
 
 VI) Regulamento Especial do Prémio António Larragoiti
 
-###### Artigo 1.º O prémio denominado Prémio António Larragoiti, instituído em 1945 para ser atribuído alternadamente pela Academia das Ciências de Lisboa e pela Academia Brasileira de Letras, no valor de 12000$00, destina-se a estimular os trabalhos e estudos de interesse luso-brasileiro em Portugal e no Brasil.
+Artigo 1.º O prémio denominado Prémio António Larragoiti, instituído em 1945 para ser atribuído alternadamente pela Academia das Ciências de Lisboa e pela Academia Brasileira de Letras, no valor de 12000$00, destina-se a estimular os trabalhos e estudos de interesse luso-brasileiro em Portugal e no Brasil.
 
-###### Art. 2.º Nos anos em que competir a Portugal, o prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original de interesse luso-brasileiro, nos domínios da literatura, da filologia, da história e das ciências jurídicas, políticas e sociais, publicada no ano da abertura do concurso ou no ano anterior.
+Art. 2.º Nos anos em que competir a Portugal, o prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original de interesse luso-brasileiro, nos domínios da literatura, da filologia, da história e das ciências jurídicas, políticas e sociais, publicada no ano da abertura do concurso ou no ano anterior.
 
 VII) Regulamento Especial do Prémio Abílio Lopes do Rego
 
-###### Artigo 1.º O prémio científico anual denominado Prémio Abílio Lopes do Rego, instituído na Academia das Ciências de Lisboa em 1950, no valor do rendimento do fundo inicial de 1000000$00 legado para este efeito, destina-se a estimular em Portugal o progresso dos estudos de administração ultramarina. O montante do prémio será fixado pela Academia em sessão plenária realizada no mês de Dezembro.
+Artigo 1.º O prémio científico anual denominado Prémio Abílio Lopes do Rego, instituído na Academia das Ciências de Lisboa em 1950, no valor do rendimento do fundo inicial de 1000000$00 legado para este efeito, destina-se a estimular em Portugal o progresso dos estudos de administração ultramarina. O montante do prémio será fixado pela Academia em sessão plenária realizada no mês de Dezembro.
 
-###### Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original, em língua portuguesa, sobre administração ultramarina, publicada no ano da abertura do concurso ou inédita.
+Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original, em língua portuguesa, sobre administração ultramarina, publicada no ano da abertura do concurso ou inédita.
 
 § único. A expressão «administração ultramarina» deverá ser entendida em sentido lato, isto é, abrangendo:
 
 a) qualquer tema da ciência de colonização ou qualquer problema concreto que diga directamente respeito à administração ultramarina portuguesa; b) qualquer estudo de ciências humanas de interesse directo e imediato para a administração ultramarina portuguesa.
 
-###### Art. 3.º A abertura do concurso será comunicada ao Ministério do Ultramar, com a solicitação de que dela seja dado conhecimento em todas as províncias ultramarinas.
+Art. 3.º A abertura do concurso será comunicada ao Ministério do Ultramar, com a solicitação de que dela seja dado conhecimento em todas as províncias ultramarinas.
 
-###### Art. 4.º No ano imediato àquele ou àqueles em que o prémio não for atribuído, abrir-se-á concurso para mais de um prémio. Os montantes dos vários prémios serão desiguais.
+Art. 4.º No ano imediato àquele ou àqueles em que o prémio não for atribuído, abrir-se-á concurso para mais de um prémio. Os montantes dos vários prémios serão desiguais.
 
 VIII) Regulamento Especial do Prémio General Casimiro Dantas
 
-###### Artigo 1.º O prémio literário bienal denominado Prémio General Casimiro Dantas, instituído na Academia das Ciências de Lisboa em 1963, no valor de 8000$00, destina-se a estimular a cultura e a criação literárias em Portugal.
+Artigo 1.º O prémio literário bienal denominado Prémio General Casimiro Dantas, instituído na Academia das Ciências de Lisboa em 1963, no valor de 8000$00, destina-se a estimular a cultura e a criação literárias em Portugal.
 
-###### Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original, em língua portuguesa, dos géneros poesia, teatro e ensaio, publicada no ano da abertura do concurso ou no ano anterior.
+Art. 2.º O prémio será atribuído, mediante concurso realizado nos termos do Regulamento Geral dos Prémios da Academia das Ciências de Lisboa, a autor português de obra original, em língua portuguesa, dos géneros poesia, teatro e ensaio, publicada no ano da abertura do concurso ou no ano anterior.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 23 de Novembro de 1964. - O Director-Geral, João Alexandre Ferreira de Almeida.

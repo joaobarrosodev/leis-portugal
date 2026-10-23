@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/2002/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2002-185096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d32aa471e13acd3fdec26b9780e19541944f31cc4efa42aac2a8d922f179cfde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e99a4fb6da761c5a29c5e35cce409872787a79696895bf040d1e8fdabcf5a958
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional de Saúde
 - Aproximação das Legislações
 - Comissão de Verificação Técnica
-- Radiactividade
-- Radioprotecção
-- Direção Geral da Saúde
 - Contra-ordenação
 - Controlo de Qualidade
-- Saúde
-- Administração Regional de Saúde
+- Direção Geral da Saúde
 - Equipamento Hospitalar
-- Saúde Pública
-- Segurança no Trabalho
 - Fiscalização
 - IPSS
 - Licenciamento
 - Medicina Nuclear
-- Radioterapia
 - Militar
+- Radiactividade
+- Radioprotecção
+- Radioterapia
+- Saúde
+- Saúde Pública
+- Segurança das Instalações
+- Segurança no Trabalho
+- Serviços Complementares de Diagnóstico
 - Setor Privado
 - Setor Público
-- Segurança das Instalações
-- Serviços Complementares de Diagnóstico
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439380:por
+  label: "Aditado o art. 34º-A pelo DEC LEI.215/2008.10.11.2008.MS, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2008-439380
+  date: '2008-11-10'
+- type: amended_by
+  target: pt:dre:669996:por
+  label: "Alterado, a partir de 21.06.2011, o art. 2º e repristinados os arts. 18º e 19º, a al. a) do nº1 do art. 20º, as\
+    \ als. c), d), e), f) e g) do nº1 do art. 24º e os arts. 31º, 32º, 33º e 34º (revogados pelo Dec Lei 279/2009, de 06-Out)\
+    \ do presente diploma, pelo DEC LEI.72/2011.16.06.2011.MS, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-2011-669996
+  date: '2011-06-16'
 - type: cites
   target: celex:31980L0836
   label: null
@@ -118,16 +130,34 @@ relationships:
   target: eli:/application/external/euratom
   label: null
   source: /application/external/euratom
+- type: corrected_by
+  target: pt:dre:325158:por
+  label: "Rectificado pela DECL-RECT.30-A/2002.2002.09.30.PCM DR.IS-B [226]2º Supl de 30/Set/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-a-2002-325158
+  date: '2002-09-30'
+- type: repealed_by
+  target: pt:dre:491395:por
+  label: "Revogados, a partir de 11.10.2009, os arts. 18.º a 22.º, 24.º, 26.º, 30.º a 34.º e 39.º, pelo DEC LEI.279/2009.06.10.2009.MS,\
+    \ DR.IS [193] de 06.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/279-2009-491395
+  date: '2009-10-06'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o presente diploma, retificado pela Decl Ret 30-A/202 de 30-set, e alterado pelo
+    Dec Lei 215/2008 de 10-nov, pelo Dec Lei 279/2009 de 06-out e pelo Dec Lei 72/2011 de 16-jun, pelo(a) Decreto-Lei n.º
+    108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 99
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:24Z'
   warnings: []
   errors: []
 ---
@@ -1498,15 +1528,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Pedro Lynce de Faria - Luís Filipe Pereira.
 
-**Promulgado em 1 de Julho de 2002.**
+Promulgado em 1 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Julho de 2002.**
+Referendado em 4 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I
 
@@ -1826,7 +1856,7 @@ TABELA I
 
 Número mínimo de pessoas do sector de física de um serviço de radioterapia
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 B - Número mínimo de pessoas do sector de física médica de um serviço de medicina nuclear
 
@@ -1838,7 +1868,7 @@ TABELA II
 
 Número mínimo de físicos qualificados em física médica de um serviço de medicina nuclear
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 1 - O EHC deverá ser alargado no caso do serviço de medicina nuclear dispor de contadores que efectuem contagens in vitro ou de contadores que efectuem contagens in vivo.
 
@@ -1958,7 +1988,7 @@ TABELA I
 
 Cargas de trabalho semanais mais frequentes numa instalação de radiodiagnóstico
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA II
 
@@ -1966,31 +1996,31 @@ Factores de utilização (U) para barreiras primárias (ver nota a)
 
 (nota a) O factor de uso para barreiras secundárias é normalmente 1.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA III
 
 Factor de ocupação (T)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA IV
 
 Espessura semi-redutora (HVL) e deci-redutora (TVL)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA V
 
 Diminuição da intensidade duma radiação em função da espessura da camada absorvente
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA VI
 
 Equivalência de espessuras de chumbo a vários materiais
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 ## ANEXO IV — A - Parâmetros e critérios para diagnóstico radiográfico
 
@@ -2442,19 +2472,19 @@ Espessuras semi-redutora (HVL) (ver nota a) e deci-redutora (TVL) (ver nota b)
 
 (nota b) Tenth Value Lay.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA II
 
 Densidade de materiais de construção
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA III
 
 Barreiras de protecção necessárias para instalações de radioterapia externa com fontes de cobalto-60
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 ## ANEXO VI — A - Cálculo de dimensionamento das barreiras de protecção numa instalação de medicina nuclear
 
@@ -2546,37 +2576,37 @@ TABELA I
 
 Principais radionuclidos utilizados em medicina nuclear e respectivas energias de radiação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA II
 
 Espessura semi-redutora (HVL) e deci-redutora (TVL)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA III
 
 Espessura de vidro acrílico para paragem de partículas (beta) de diferentes energias
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA IV
 
 Factores de ponderação de acordo com a classe do radionuclido considerando os coeficientes de dose efectiva para a população em geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA V
 
 Factores de ponderação de acordo com o tipo de procedimento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 TABELA VI
 
 Classificação das instalações em termos de risco
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
+[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)](https://files.diariodarepublica.pt/1s/2002/08/182a00/57075745.pdf)
 
 ## ANEXO VII
 

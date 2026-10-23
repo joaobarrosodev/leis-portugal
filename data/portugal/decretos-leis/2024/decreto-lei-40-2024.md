@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11000/0000300004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/2024/06/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2024-868245178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43e9d02b7cf9238fd8d236b6f3b8ea456cd341de8b6ff9bf7b5b361b54a89f88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebe427ab1ef1f77be08be3d0956840d48adcf6f5f15e8bbc9d737f4458a0e324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade Tributária e Aduaneira
+- Benefícios Fiscais
 - Centro de Estudos Fiscais e Aduaneiros
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Ministério das Finanças
 - Orgânica
-- Benefícios Fiscais
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:118/2011
+  label: Altera, a partir de 8 de junho de 2024, o artigo 13.º-A do Decreto-Lei n.º 118/2011, de 15 de dezembro, Diário da
+    República n.º 239/2011, Série I
+  source: null
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2011/12/15/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/2024/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/2024/02/02/p/dre
+- type: cites
+  target: pt:dre:145591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060195:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:19Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +172,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de maio de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento.
 
-**Promulgado em 29 de maio de 2024.**
+Promulgado em 29 de maio de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 31 de maio de 2024.**
+Referendado em 31 de maio de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+117766406

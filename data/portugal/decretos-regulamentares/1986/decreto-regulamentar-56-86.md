@@ -46,40 +46,126 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1986-222465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T06:13:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e95c3d608ccdda98fa1ca73898736f6d32164eabeda5616010726d9e1697fa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8aa0ca7d52dc6508dd44419cdb27c89940c718d1f70f3e5ac98a3bc93c78937
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:13:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Agricultura da Beira Interior
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:518853:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494858:por
+  label: "Alterado o quadro de pessoal pela PORT.754/87.02.09.1987.MF, DR.IS [201] de 02.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/754-1987-494858
+  date: '1987-09-02'
+- type: amended_by
+  target: pt:dre:563608:por
+  label: "Alterado, no referente ao pessoal técnico-profissional, o quadro de pessoal da Direcção Regional de Agricultura\
+    \ da Beira Interior pelo DR.43/90.19.12.1990.MAPA, DR.IS [291] de 19.12.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/43-1990-563608
+  date: '1990-12-19'
+- type: amended_by
+  target: pt:dre:590965:por
+  label: "Alterado, relativamente às carreiras de informática, o quadro de pessoal da Direcção Regional de Agricultura da\
+    \ Beira Interior pela PORT.1221/91.30.12.1991.MF, DR.IS-B [300] de 30.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1221-1991-590965
+  date: '1991-12-30'
+- type: amended_by
+  target: pt:dre:175499:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras específicas das áreas funcionais de biblioteca e documentação\
+    \ e de arquivo, pela PORT.169/92.13.03.1992.MF, DR.IS-B [61] de 13.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/169-1992-175499
+  date: '1992-03-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL DA DIRECÇÃO REGIONAL DE AGRICULTURA DA BEIRA INTERIOR, CONSTANTE DO MAPA I ANEXO, PELO\
+    \ DESPACHO NORMATIVO 249/94, DE 10 DE MARCO, PUBLICADO NO DR.IS-B, 93, DE 940321.\01."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-03-21'
+- type: amended_by
+  target: pt:dre:518853:por
+  label: "Determinado que a Direcção Regional de Agricultura e Pescas do Centro suceda nas atribuições da Direcção Regional\
+    \ de Agricultura da Beira Interior, cuja orgânica foi aprovada pelo presente diploma, pelo DR.12/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2007-518853
+  date: '2007-02-27'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453224:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:13:36Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +248,7 @@ e) Divisão de Protecção à Produção Vegetal;
 
 4) Serviços operativos de âmbito local:
 
-##### Divisão da Zona Agrária.
+Divisão da Zona Agrária.
 
 ###### Artigo 4.º — (Órgãos)
 
@@ -488,22 +574,22 @@ b) Laboratório de Castelo Branco.
 
 Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 5 de Setembro de 1986.**
+Promulgado em 5 de Setembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1986.**
+Referendado em 12 de Setembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo I a que se refere o n.º 1 do artigo 18.º do Decreto Regulamentar n.º 56/86
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf)
 
 Mapa anexo II a que se refere o n.º 1 do artigo 18.º do Decreto Regulamentar n.º 56/86
 
 Categorias e carreiras a extinguir nos termos do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23200/29612971.pdf)

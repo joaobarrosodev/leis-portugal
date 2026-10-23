@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1979-382663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c77e67e5a59a7389104217cf5e2aefa603512ca5a408507e11eaa79590de822b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 872e596d769f7b08be285dcfe484d6243d77ac3e014dda9cd99a14981352a23a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Guimarães
+- Ordenamento do Território
+- Política de Solos
+- Renovação Urbana
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:49Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +101,7 @@ Assim:
 
 Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona do centro histórico de Guimarães e as imediações da Rua de D. João I, na cidade de Guimarães.
+Artigo único - 1 - Ao abrigo do disposto no artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, é declarada área crítica de recuperação e reconversão urbanística a zona do centro histórico de Guimarães e as imediações da Rua de D. João I, na cidade de Guimarães.
 
 2 - Os limites da área crítica referida no número anterior vão demarcados na planta anexa a este diploma, que dele faz parte integrante.
 
@@ -100,12 +109,12 @@ Nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o
 
 Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - João Orlindo Almeida Pina.
 
-**Promulgado em 23 de Abril de 1979.**
+Promulgado em 23 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11700/09960997.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11700/09960997.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11700/09960997.pdf)
 
-**O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.**
+O Primeiro-Ministro, Carlos Alberto da Mota Pinto. - O Ministro da Administração Interna, António Gonçalves Ribeiro. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina.

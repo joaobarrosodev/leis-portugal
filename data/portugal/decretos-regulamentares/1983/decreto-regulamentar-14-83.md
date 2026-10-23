@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1983-311398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76a24276c07dec0aef02133424689edd192f697e64b7ec75b740419270f72625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e50cf654a3542f06a381796a31447cf0fa932fc6c88b3b1b8eb743882270e298
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inscrição Marítima
+- Licenciamento
+- Pesca
+- Pessoal do MAR
+- Transporte Marítimo
+relationships:
+- type: corrected_by
+  target: pt:dre:165214:por
+  label: Rectificado pela DECL.DD2977.1983.03.08.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165214
+  date: '1983-03-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:57Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +104,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Deixa de ser permitida a concessão de licenças de trabalho a bordo.
+Artigo 1.º - 1 - Deixa de ser permitida a concessão de licenças de trabalho a bordo.
 
 2 - Aos actuais titulares de licença de trabalho é facultada a inscrição marítima e a atribuição de correspondente cédula marítima nas condições constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - A cédula marítima é de modelo normal, sendo aposto na página 1, com carimbo de letra vermelha, os dizeres «Válida para pesca local e costeira» ou «Válida para o tráfego local», consoante o tipo de navegação em causa.
+Art. 2.º - 1 - A cédula marítima é de modelo normal, sendo aposto na página 1, com carimbo de letra vermelha, os dizeres «Válida para pesca local e costeira» ou «Válida para o tráfego local», consoante o tipo de navegação em causa.
 
 2 - As categorias de inscrição são obrigatoriamente as mesmas para que foram concedidas as licenças de trabalho, ou seja, pescador e marinheiro de 2.ª classe do tráfego local.
 
@@ -106,26 +116,26 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - De futuro os candidatos às categorias de pescador e marinheiro de 2.ª classe do tráfego local terão de possuir a 6.ª classe da escolaridade obrigatória, desde que nascidos depois de 1 de Janeiro de 1967.
 
-###### Art. 3.º - 1 - É concedido o prazo de 18 meses a contar da data da entrada em vigor do presente diploma para os tripulantes de licenças de trabalho requererem a inscrição marítima, findo o qual aquelas são consideradas sem validade.
+Art. 3.º - 1 - É concedido o prazo de 18 meses a contar da data da entrada em vigor do presente diploma para os tripulantes de licenças de trabalho requererem a inscrição marítima, findo o qual aquelas são consideradas sem validade.
 
 2 - As inscrições marítimas ao abrigo deste diploma são requeridas ao director-geral do Pessoal do Mar e Estudos Náuticos, sendo os requerimentos entregues nas repartições marítimas, que instruirão convenientemente o processo, nomeadamente com cópia da licença de trabalho a substituir.
 
 3 - A repartição marítima competente para a inscrição marítima é exclusivamente a que exerce a jurisdição na área de validade para que foi concedida a licença de trabalho.
 
-###### Art. 4.º Os casos omissos e as dúvidas suscitadas pela aplicação do presente diploma serão resolvidos por despacho conjunto dos Secretários de Estado das Pescas e dos Transportes Exteriores e Comunicações.
+Art. 4.º Os casos omissos e as dúvidas suscitadas pela aplicação do presente diploma serão resolvidos por despacho conjunto dos Secretários de Estado das Pescas e dos Transportes Exteriores e Comunicações.
 
-###### Art. 5.º É revogado o Despacho Ministerial n.º 69/73, de 4 de Junho.
+Art. 5.º É revogado o Despacho Ministerial n.º 69/73, de 4 de Junho.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Francisco José Pereira Pinto Balsemão - Basílio Adolfo Mendonça Horta da Franca - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 3 de Fevereiro de 1983.**
+Promulgado em 3 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Fevereiro de 1983.**
+Referendado em 8 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

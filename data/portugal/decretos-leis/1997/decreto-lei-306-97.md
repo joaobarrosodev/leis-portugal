@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/306/1997/11/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1997-688063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:53:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2a32b7c42d6e570a759a0874031e881aac5c16441586dbc0ca214bd5d1668f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 499d67c06d2da4a5f5b9673346f14c479f6b163fe74fe0d203558a391631e4af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Comércio
 - Comissão de Avaliação Técnica dos Dispositivos Médicos para Diagnóstico IN Vitro
-- Infarmed
 - Contra-ordenação
+- Embalagem
 - Etiquetagem
 - Fiscalização
 - Ilícito de MERA Ordenação Social
-- Embalagem
+- Infarmed
 - Meios Complementares de Diagnóstico
+- Multa
 - Regime Jurídico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:341047:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341047:por
+  label: "Alterados os arts 3º, 12º e 13º pelo DEC LEI.189/2000.2000.08.12.MS DR.IS-A [186]; o presente diploma cessa a sua\
+    \ vigência a partir de 08-Dez 2003, sem prejuízo do disposto no nº 2 do art. 26º da norma revogatória.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-2000-341047
+  date: '2000-08-12'
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:53:21Z'
   warnings: []
   errors: []
 ---
@@ -385,12 +391,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 24 de Outubro de 1997.**
+Promulgado em 24 de Outubro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 1997.**
+Referendado em 30 de Outubro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

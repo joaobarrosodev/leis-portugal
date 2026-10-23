@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/359/2007/11/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-2007-629411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:00:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ca5a6ee04d202d68e53124a043e96ddd14544156ac94518a24fdd82a17d823b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c1de1e26b57896e6a29a3184da4bdbaae37cd8f2347eecd1575d806e4a310f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:00:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Seguradora
-- Garantia
 - Corretor
+- Garantia
 - Garantia Bancária
-- Seguro
 - Instituto de Seguros de Portugal
 - Mediação de Seguros
 - Regime Jurídico
 - Responsabilidade Civil
 - Resseguro
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:66041391:por
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/144/2006/07/31/p/dre
 article_structure:
-  article_count: 14
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:00:53Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +137,9 @@ Os artigos 11.º, 14.º, 19.º, 34.º, 38.º, 39.º, 44.º, 59.º, 97.º, 102.º
 
 2 - Sem prejuízo do disposto nas alíneas b) a d) do número anterior, os mediadores de seguros ou de resseguros pessoas colectivas podem adoptar a forma de sociedade europeia, de cooperativa, de agrupamento complementar de empresas ou outra forma jurídica compatível com o exercício de actividades sujeitas à supervisão prudencial do Banco de Portugal, do Instituto de Seguros de Portugal ou da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -151,7 +153,9 @@ Os artigos 11.º, 14.º, 19.º, 34.º, 38.º, 39.º, 44.º, 59.º, 97.º, 102.º
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +179,9 @@ ii) ...
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -193,11 +199,15 @@ f) ...
 
 2 - As comunicações e os documentos a enviar ao Instituto de Seguros de Portugal nos termos previstos no presente decreto-lei devem, sempre que assim seja determinado por instrução do Instituto, ser efectuadas com recurso às tecnologias de informação e através da utilização de documentos electrónicos.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 À empresa de resseguros é correspondentemente aplicável, com as devidas adaptações, o disposto nas alíneas a), b), d) e h) a j) do artigo anterior.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +217,9 @@ f) ...
 
 4 - Por acordo com o tomador do seguro, o disposto no n.º 1 pode ser afastado nos casos de co-seguro.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -223,7 +235,9 @@ f) ...
 
 7 - Na falta de fixação pelas partes, no contrato que titula a transmissão da carteira, de outra data para a respectiva produção de efeitos, estes produzem-se, relativamente a cada contrato que integre a carteira, na sua data aniversária ou, nos contratos renováveis, na data da sua renovação, devendo, em qualquer dos casos, essa data ser incluída nas comunicações previstas nos n.os 2 e 6.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +255,9 @@ f) ...
 
 8 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - Os montantes em euros referidos nas alíneas c) do n.º 1 do artigo 17.º e c) do n.º 1 e no n.º 2 do artigo 19.º são revistos de cinco em cinco anos para reflectirem a evolução do índice europeu de preços no consumidor, publicado pelo EUROSTAT.
 
@@ -251,7 +267,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - ...
 
@@ -261,13 +279,17 @@ f) ...
 
 4 - ...
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - ...
 
 2 - Os corretores de seguros devem adequar a sua estrutura societária ao disposto na alínea b) do n.º 4 do artigo 19.º até ao final de 2008.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -287,12 +309,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Manuel António Gomes de Almeida de Pinho - Maria de Lurdes Reis Rodrigues - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 19 de Outubro de 2007.**
+Promulgado em 19 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 25 de Outubro de 2007.**
+Referendado em 25 de Outubro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

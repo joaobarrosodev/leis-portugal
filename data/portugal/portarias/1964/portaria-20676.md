@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20676-1964-578748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d68230dcaf6eb4face40514cbad6f11d25985eb264dd95bcf316bd6bcb970973
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7856a121814930b2c23b69c6d511d6a40b0058d9b5a211d92a6f160ff8d5ed42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:03Z'
   warnings: []
   errors: []
 ---
@@ -91,35 +99,35 @@ Despesas com o pessoal:
 
 Pessoal militar permanente e não permanente privativo da Forca Aérea
 
-###### Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 30000$00
+Artigo 1.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 30000$00
 
-###### Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 20000$00
+Artigo 2.º, n.º 1), alínea b) «Remunerações acidentais - Gratificações a militares dos quadros - De especialidade» ... 20000$00
 
 Pessoal privativo equiparado a militar e civil
 
-###### Artigo 4.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 170000$00
+Artigo 4.º, n.º 1), alínea a) «Outras despesas com o pessoal - Ajudas de custo - Dentro e fora da província» ... 170000$00
 
-###### Artigo 4.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque (a pagar na metrópole)» ... 180000$00
+Artigo 4.º, n.º 1), alínea b) «Outras despesas com o pessoal - Ajudas de custo - De embarque (a pagar na metrópole)» ... 180000$00
 
-###### Artigo 4.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 300000$00
+Artigo 4.º, n.º 2), alínea a) «Outras despesas com o pessoal - Alimentação - Rancho e pão» ... 300000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 7000$00
+Artigo 5.º, n.º 1), alínea a) «Aquisições de utilização permanente - Móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 7000$00
 
-###### Artigo 5.º, n.º 1), alínea e) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e oficinas» ... 3000$00
+Artigo 5.º, n.º 1), alínea e) «Aquisições de utilização permanente - Móveis - Equipamentos de instrução e de treino operacional, material de assistência religiosa, sanitário, educação física e desportos, máquinas, ferramentas, instrumentos, aparelhos, utensílios e outros móveis de laboratório e oficinas» ... 3000$00
 
-###### Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De móveis» ... 8000$00
+Artigo 6.º, n.º 1) «Despesas de conservação e aproveitamento do material - De móveis» ... 8000$00
 
-###### Artigo 7.º, n.º 2) «Material de consumo corrente - Impressos» ... 3000$00
+Artigo 7.º, n.º 2) «Material de consumo corrente - Impressos» ... 3000$00
 
-###### Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 3000$00
+Artigo 7.º, n.º 3) «Material de consumo corrente - Artigos de expediente e diverso material não especificado» ... 3000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto, - Luz, aquecimento, água, lavagem e limpeza» ... 160000$00
+Artigo 8.º, n.º 2) «Despesas de higiene, saúde e conforto, - Luz, aquecimento, água, lavagem e limpeza» ... 160000$00
 
-###### Artigo 10.º, n.º 3) «Outros encargos - Despesas imprevistas ou reservadas» ... 50000$00
+Artigo 10.º, n.º 3) «Outros encargos - Despesas imprevistas ou reservadas» ... 50000$00
 
 ... 934000$00
 
@@ -129,25 +137,25 @@ Despesas com o pessoal:
 
 Pessoal militar permanente e não permanente privativo da Forca Aérea
 
-###### Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 140000$00
+Artigo 2.º, n.º 1), alínea a) «Remunerações acidentais - Gratificações a militares dos quadros - De serviço aéreo» ... 140000$00
 
 Pessoal privativo e equiparado a militar e civil
 
-###### Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 690000$00
+Artigo 3.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil contratado» ... 690000$00
 
-###### Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 20000$00
+Artigo 3.º, n.º 1), alínea b) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Pessoal civil assalariado» ... 20000$00
 
 Despesas com o material:
 
-###### Artigo 5.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 3000$00
+Artigo 5.º, n.º 1), alínea b) «Aquisições de utilização permanente - Móveis - Livros, revistas, boletins técnicos, outras publicações e suas encadernações» ... 3000$00
 
-###### Artigo 6.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 5000$00
+Artigo 6.º, n.º 3), alínea a) «Despesas de conservação e aproveitamento do material - De móveis - Material de aquartelamento, mobiliário e artigos de copa e cozinha» ... 5000$00
 
-###### Artigo 6.º, n.º 4), alínea c) «Despesas de conservação o aproveitamento do material - De móveis - De material do defesa e segurança pública - Combustíveis, comburentes, lubrificantes, oxigénio e outros compostos e elemento» ... 16000$00
+Artigo 6.º, n.º 4), alínea c) «Despesas de conservação o aproveitamento do material - De móveis - De material do defesa e segurança pública - Combustíveis, comburentes, lubrificantes, oxigénio e outros compostos e elemento» ... 16000$00
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 11.º, n.º 1) «Abono de família - Despesas com o abono de família aos funcionários» ... 60000$00
+Artigo 11.º, n.º 1) «Abono de família - Despesas com o abono de família aos funcionários» ... 60000$00
 
 ... 934000$00
 

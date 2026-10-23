@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/168/2001/05/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2001-332753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f584bbb083f422ed55526f342cd02527125bb4b21494536f2f657c13ecd005b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a65d796e6d85e685469e026651470c5f60c3b6d56c8f81dc82d95694d142297
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
 - Controlo Financeiro
 - Controlo Orçamental
 - Fiscalização
+- Gestão Financeira
 - Programa Comunitário
 - QCA III
 - Regulamento CE
@@ -80,6 +80,13 @@ relationships:
   target: pt:dre:521029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521029:por
+  label: "Extinta a Estrutura de Apoio Técnico ao Controlo de 2.º nível do QCA III, instituída no presente diploma e na Resolução\
+    \ do Conselho de Ministros n.º 172/2001 (2.ªSérie), de 26 de Dezembro, e integradas as respectivas atribuições no IFDR,\
+    \ pelo DEC LEI.137/2007.27.04.2007.MAOTDR, DR.IS [82] de 27.04.2007, nos termos do seu artigo 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2007-521029
+  date: '2007-04-27'
 - type: cites
   target: celex:31994R1681
   label: null
@@ -92,16 +99,21 @@ relationships:
   target: celex:32001R0438
   label: null
   source: http://data.europa.eu/eli/reg/2001/438/oj
+- type: corrected_by
+  target: pt:dre:571972:por
+  label: "Rectificado pela DECL-RECT.13-Q/2001.2001.06.30.PCM DR.IS-A [150]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-q-2001-571972
+  date: '2001-06-30'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:13Z'
   warnings: []
   errors: []
 ---
@@ -252,12 +264,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Abril de 2001. - Jaime José Matos da Gama - Jaime José Matos da Gama - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Fernando Manuel dos Santos Vigário Pacheco - José Adelmo Gouveia Bordalo Junqueiro - António Luís Santos Costa - Mário Cristina de Sousa - António Ricardo Rocha de Magalhães - Luís Manuel Capoulas Santos - Ana Benavente - Nélson Madeira Baltazar - Paulo José Fernandes Pedroso - José Sócrates Carvalho Pinto de Sousa - João Alexandre do Nascimento Baptista - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Luís Miguel de Oliveira Fontes.
 
-**Promulgado em 11 de Maio de 2001.**
+Promulgado em 11 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Maio de 2001.**
+Referendado em 17 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/2004/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2004-277851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae7b1e6f659cd596140dacb15d51ba33dae88de79ce3705191ad8f4ab6662b1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71c77446943ebdbbe9ae6d77cc3e9017a1682f31dfada79b28c850fde3d2c30a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,21 @@ reuse:
 subjects:
 - Alimento para Crianças
 - Aproximação das Legislações
-- Multa
-- Leite
-- Criança
-- Direção Geral da Saúde
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
 - Controlo Sanitário
+- Criança
+- Definição de Competências
+- Direção Geral da Saúde
 - Etiquetagem
 - Fiscalização
+- Leite
+- Limite Máximo de Resíduos
+- Multa
+- Pesticida
 - Proteção do Consumidor
 - Regime Jurídico
-- Pesticida
-- Limite Máximo de Resíduos
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:439404:por
@@ -113,16 +113,21 @@ relationships:
   target: celex:32003L0014
   label: null
   source: http://data.europa.eu/eli/dir/2003/14/oj
+- type: repealed_by
+  target: pt:dre:439404:por
+  label: "Revogado pelo DEC LEI.217/2008.11.11.2008.MADRP, DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2008-439404
+  date: '2008-11-11'
 article_structure:
-  article_count: 34
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:43:42Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +174,9 @@ Objecto
 
 2 - O presente diploma contém 10 anexos, que dele fazem parte integrante.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -187,11 +194,15 @@ Objecto
 
 8 - As fórmulas para lactentes e as fórmulas de transição não podem conter substâncias em quantidades susceptíveis de pôr em risco a saúde dos lactentes e das crianças de pouca idade.
 
-###### Artigo 4.º-A — [...]
+Artigo 4.º-A
+
+[...]
 
 As fórmulas para lactentes e as fórmulas de transição não podem conter resíduos de pesticidas específicos em teores superiores a 0,01 mg/kg, em produtos prontos para consumo ou reconstituídos de acordo com as instruções do fabricante, com excepção das substâncias constantes no anexo IX, relativamente às quais os teores máximos de resíduos admissíveis são os aí fixados para as mesmas e sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +224,9 @@ As fórmulas para lactentes e as fórmulas de transição não podem conter res�
 
 10 - A rotulagem das fórmulas para lactentes e das fórmulas de transição, além do disposto nos números anteriores, deve também mencionar o nome, a firma ou denominação social e o endereço completo ou a sede social do fabricante, importador, embalador ou do responsável pelo lançamento do produto no mercado nacional.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -221,13 +234,17 @@ As fórmulas para lactentes e as fórmulas de transição não podem conter res�
 
 3 - ...
 
-###### Artigo 12.º — Restrições
+Artigo 12.º
+
+Restrições
 
 1 - Sem prejuízo do procedimento contra-ordenacional a que houver lugar, a DGS pode suspender ou limitar provisoriamente o comércio dos produtos abrangidos por este diploma, ainda que circulem livremente em qualquer outro Estado do espaço económico europeu, desde que verifique, de forma fundamentada, que não obedecem aos critérios de composição e de qualidade definidos nos artigos 4.º, 4.º-A e 4.º-B ou que põem em perigo a saúde pública.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Constitui contra-ordenação, punível com coima mínima de (euro) 50 e máxima de (euro) 3740 ou de (euro) 14960, consoante se trate de pessoa singular ou colectiva:
 
@@ -271,13 +288,13 @@ Proibição de utilização de produtos agrícolas contaminados com determinados
 
 2 - Para efeito no disposto no número anterior, considera-se que os pesticidas enumerados nos quadros n.os 1 e 2 do anexo X não foram utilizados se os respectivos resíduos no produto pronto para consumo ou reconstituído de acordo com as instruções do fabricante não excederem um teor de 0,003 mg/kg.
 
-## ANEXO IX
+ANEXO IX
 
 Níveis máximos de resíduos específicos para os pesticidas ou metabolitos de pesticidas nas fórmulas para lactentes e nas fórmulas de transição.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
-## ANEXO X
+ANEXO X
 
 Pesticidas que não podem ser utilizados em produtos agrícolas destinados à produção de fórmulas para lactentes e fórmulas de transição.
 
@@ -321,15 +338,15 @@ Após a entrada em vigor do presente diploma, as fórmulas para lactentes e as f
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Luís Filipe Pereira.
 
-**Promulgado em 24 de Maio de 2004.**
+Promulgado em 24 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Maio de 2004.**
+Referendado em 26 de Maio de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -739,7 +756,7 @@ Máximo: 1 g/100 ml e 30% do teor total de glícidos.
 
 5.1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 A relação cálcio/fósforo não deve ser inferior a 1,2 nem superior a 2.
 
@@ -747,15 +764,15 @@ A relação cálcio/fósforo não deve ser inferior a 1,2 nem superior a 2.
 
 Aplicam-se todos os requisitos do n.º 5.1, excepto os relativos ao ferro e zinco, que são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 6 - Vitaminas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 7 - Podem ser adicionados os nucleotídeos que se seguem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO II — Composição de base das fórmulas de transição quando reconstituídas de acordo com as instruções do fabricante
 
@@ -845,7 +862,7 @@ Máximo: utilizados separadamente ou em conjunto - 20% do teor total de glícido
 
 5.1:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 5.2 - Zinco:
 
@@ -869,21 +886,21 @@ As concentrações devem ser, no mínimo, iguais às habitualmente presentes no 
 
 6 - Vitaminas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 7 - Podem ser adicionados os nucleotídeos que se seguem:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO III — Substâncias nutritivas
 
 1 - Vitaminas:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 2 - Substâncias minerais:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 3 - Aminoácidos e outros componentes nitrogenados:
 
@@ -941,33 +958,33 @@ Inositol.
 
 ## ANEXO IV — Critérios de composição das fórmulas para lactentes em que é permitida a respectiva menção
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO V — Aminoácidos essenciais e semiessenciais no leite humano
 
 Para efeitos do disposto no presente anexo, os aminoácidos essenciais e semiessenciais presentes no leite humano, expressos em miligramas por 100 kJ e por kcal, são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO VI — Aminoácidos presentes na caseína e nas proteínas do leite humano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO VII — Elementos minerais presentes no leite de vaca
 
 Para efeitos de referência, os teores dos elementos minerais no leite de vaca, expressos por 100 g de sólidos não gordos e por 1 g de proteínas, são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO VIII — Valores de referência para a rotulagem nutricional dos alimentos destinados a lactentes e crianças de tenra idade
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO IX
 
 Níveis máximos de resíduos específicos para os pesticidas ou metabolitos de pesticidas nas fórmulas para lactentes e nas fórmulas de transição.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
+[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)](https://files.diariodarepublica.pt/1s/2004/06/132a00/35773589.pdf)
 
 ## ANEXO X
 

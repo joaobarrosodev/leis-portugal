@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20400/0000300006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/98/2023/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2023-223045467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cbe6cc80f8edb513e3ffff2e8024502d66b7a796dfe50d9f091018574a482c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc096b2044e0d62f63ef0c72eda43a57e03af8dc3ac4194db500e98807da587c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jogos de Fortuna e Azar
-- Estabelecimento de Jogos
 - Contra-ordenação
+- Departamento de Jogos
+- Estabelecimento de Jogos
+- Eurosorteio
 - Fiscalização
+- Jogos de Fortuna e Azar
 - Lisboa
 - Mediador dos Jogos Sociais do Estado
+- Plataforma Eletrónica
+- Prémio
 - Regulamento dos Mediadores dos Jogos Sociais do Estado
 - Santa Casa da Misericórdia
-- Prémio
-- Departamento de Jogos
-- Plataforma Eletrónica
-- Eurosorteio
 relationships:
 - type: amended_by
   target: pt:dre:928803702:por
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/43/2022/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/43/2022/01/19/p/dre
+- type: cites
+  target: pt:dre:177847671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:14Z'
   warnings: []
   errors: []
 ---
@@ -253,12 +277,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de setembro de 2023. - Maria Helena Chaves Carreiras - Fernando Medina Maciel Almeida Correia - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 12 de outubro de 2023.**
+Promulgado em 12 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2023.**
+Referendado em 17 de outubro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116965324

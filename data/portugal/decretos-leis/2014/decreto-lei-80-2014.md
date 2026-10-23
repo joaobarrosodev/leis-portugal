@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/80/2014/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2014-25343675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbd173fe0012af630e00165db23a4b860c9c5dc459ab8c2e2166060c43ab6ef5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ea877ccde9366575cb8b69f922f272a75fffc4592be7cb7427655462f0d17c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Ministro da Economia
-- Definição de Competências
-- Ministério da Economia
+- Auditoria de Qualidade
 - Conselho Diretivo
+- Definição de Competências
+- Diploma Legal
+- Fiscal Único
+- Instituto Português da Qualidade
 - Instituto Público
 - Licenciamento
-- Instituto Português da Qualidade
+- Ministério da Economia
+- Ministro da Economia
 - Orgânica
-- Diploma Legal
-- Auditoria de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:180398433:por
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/58/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/58/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:520871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:55Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +209,9 @@ x) [Anterior alínea v)].
 
 4 - Para prossecução das suas atribuições, o IPQ, I. P., deve promover a articulação e colaboração com os serviços e organismos do ME e de outros ministérios nas respetivas áreas de atuação, bem como com outras entidades nacionais e internacionais, de natureza pública ou privada.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -225,26 +239,32 @@ j) [...].
 
 3 - [...].»
 
-###### Artigo 3.º — Sucessão
+Artigo 3.º
+
+Sucessão
 
 O IPQ, I. P., sucede nas atribuições das DRE nos domínios da metrologia e qualidade.
 
-###### Artigo 4.º — Transição de pessoal
+Artigo 4.º
+
+Transição de pessoal
 
 É fixado como critério geral e abstrato de seleção do pessoal necessário à prossecução das atribuições do IPQ, I. P., o desempenho de funções nas DRE, nos domínios da metrologia e qualidade.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima.
 
-**Promulgado em 6 de maio de 2014.**
+Promulgado em 6 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de maio de 2014.**
+Referendado em 8 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

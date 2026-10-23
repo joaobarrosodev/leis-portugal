@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/109/1999/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1999-138784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d29ab4df993105929cf706352002f48d20ca94de24eac50beeb83542a94933bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f140f30fb381f50b32cdf962232dc626b4b7ac70119ef4c8b89a08a7b14ae42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
 subjects:
 - Auditório Nacional Carlos Alberto
 - CASA das Artes
-- Recrutamento de Pessoal
-- Ministério da Cultura
 - Instituto Português das Artes do Espectáculo
 - Integração de Serviços
+- Ministério da Cultura
 - Orgânica
 - Pessoal Artístico
 - Pessoal Técnico-artístico
+- Recrutamento de Pessoal
 - Teatro LUÍS de Camões
 - Teatro Politeama
 - Transferência de Competências
@@ -91,16 +91,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/402/1998/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/402/1998/12/17/p/dre
+- type: cites
+  target: pt:dre:191550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:582192:por
+  label: "Revogada a al g) do art. 15º e o art. 31º do Dec Lei 149/98 de 25-Mai, na parte que se refere ao Teatro Luís de\
+    \ Camões, na redacção dada pelo presente diploma pelo DEC LEI.354/99.1999.09.03.MC,DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1999-582192
+  date: '1999-09-03'
+- type: repealed_by
+  target: pt:dre:660295:por
+  label: "Revogado pelo DEC LEI.181/2003.2003.08.16.MC DR.IS-A [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2003-660295
+  date: '2003-08-16'
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:29Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +168,7 @@ Os artigos 15.º, 28.º e 31.º do [Decreto-Lei n.º 149/98](https://diariodarep
 
 «Artigo 15.º
 
-##### Divisão de Coordenação e Programação
+Divisão de Coordenação e Programação
 
 ...
 
@@ -167,7 +186,9 @@ f) ...
 
 g) Coordenar a programação das unidades de extensão artística afectas ao IPAE, nomeadamente o Auditório Nacional de Carlos Alberto e a Casa das Artes, no Porto, e o Teatro de Luís de Camões, em Lisboa, em colaboração com outros serviços do Ministério da Cultura.
 
-###### Artigo 28.º — Pessoal com contrato individual de trabalho
+Artigo 28.º
+
+Pessoal com contrato individual de trabalho
 
 1 - (Igual à actual redacção.)
 
@@ -177,7 +198,9 @@ g) Coordenar a programação das unidades de extensão artística afectas ao IPA
 
 4 - O pessoal a que se refere o número anterior beneficia do regime geral da segurança social e não fica abrangido pelo estatuto da função pública.
 
-###### Artigo 31.º — Unidades de extensão artística
+Artigo 31.º
+
+Unidades de extensão artística
 
 Consideram-se desde já integradas no IPAE, como unidades de extensão artística, o Auditório Nacional de Carlos Alberto e a Casa das Artes, no Porto, e o Teatro de Luís de Camões.»
 
@@ -187,12 +210,12 @@ Consideram-se desde já integradas no IPAE, como unidades de extensão artístic
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Manuel Maria Ferreira Carrilho.
 
-**Promulgado em 15 de Março de 1999.**
+Promulgado em 15 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Março de 1999.**
+Referendado em 18 de Março de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

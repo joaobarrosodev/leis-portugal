@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/278/2003/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2003-468404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cf1eceae64ba05c87aa6b88a9e5132c680b8fab7e677a2e8ee3f46fd3e108c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af830019007fd23df1711c64d44d9c0e4180ce8fca61ccb8e9236d3eb708bac2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Comissão Interprofissional da Região Demarcada do Douro
-- Indicação Geográfica
-- Denominação de Origem
 - Conselho Interprofissional
 - Criação de Serviços
+- Denominação de Origem
+- Indicação Geográfica
 - Instituto do Vinho do Porto
 - Instituto dos Vinhos do Douro e do Porto
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
+- Reestruturação de Serviços
 - Região Demarcada do Douro
 relationships:
 - type: amended_by
@@ -102,16 +102,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/413/2001/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/413/2001/04/18/p/dre
+- type: cites
+  target: pt:dre:163642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667356:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473500:por
+  label: "Revogadas as als. h), l), m), n) e o) apenas relativamente às atribuições do Instituto dos Vinhos do Douro e Porto\
+    \ que transitam para a Autoridade de Segurança Alimentar e Económica, do art. 13º, do presente diploma, pelo DEC LEI.237/2005.30.12.2005.MEI,\
+    \ DR.IS-A [250] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2005-473500
+  date: '2005-12-30'
+- type: repealed_by
+  target: pt:dre:518860:por
+  label: "Revogado a partir de 01.03.2007, com excepção do disposto nos nºs. 2 a 4 do art. 13º, pelo DEC LEI.47/2007.27.02.2007.MADRP,\
+    \ DR.IS [41] de 27.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2007-518860
+  date: '2007-02-27'
+- type: repealed_by
+  target: pt:dre:552998:por
+  label: "Revogados os nºs 2 a 4 do art. 13º, a partir de 01.05.2012, pelo DEC LEI.97/2012.23.04.2012.MAMAOT, DR.IS [80] de\
+    \ 23.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2012-552998
+  date: '2012-04-23'
 article_structure:
   article_count: 41
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:31Z'
   warnings: []
   errors: []
 ---
@@ -172,15 +219,15 @@ O presente diploma entra em vigor no 20.º dia após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 20 de Outubro de 2003.**
+Promulgado em 20 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Outubro de 2003.**
+Referendado em 23 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — LEI ORGÂNICA DO INSTITUTO DOS VINHOS DO DOURO E DO PORTO
 

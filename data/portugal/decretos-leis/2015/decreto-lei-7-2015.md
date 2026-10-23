@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/00800/0038000386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/7/2015/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2015-66145328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d76a8bc75fd8bef45f0983ddc9e45bff23853a2fb370f7c07fad0b0fed0aea61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9ef15243bd4e17d22cd8f6dbb679ca6d86bbff7521df74d757770a56a2414a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
+- Benefícios Fiscais
+- CMVM
 - Código do Imposto do SELO
+- Contribuições e Impostos
 - Estatuto dos Benefícios Fiscais
 - Fundo de Investimento
 - Fundo de Investimento Imobiliário
 - Imposto do SELO
-- Contribuições e Impostos
 - Organismo de Investimento Colectivo
-- Benefícios Fiscais
-- CMVM
 - Sociedade de Gestão e Investimento Imobiliário
-- Arrendamento Urbano para Habitação
 - Tabela Geral do Imposto do SELO
 - Tributação
 relationships:
@@ -86,6 +86,43 @@ relationships:
   target: pt:dre:117537583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 2.º e 4.º do Código do Imposto do Selo, aprovado pela Lei 150/99 de 11-set, na versão republicada
+    do Código pelo Dec Lei 287/2003 de 12-nov retificado pela Decl-Ret. 4/2004 de 09-jan, na redação do presente diploma,
+    pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30 nos termos do seu art.
+    154.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterado o art. 22.º do Estatuto dos Benefícios Fiscais (EBF), aprovado em anexo ao Dec Lei 215/89, de 01-jul, na
+    versão revista e republicada pelo Dec Lei 108/2008, de 26-jun, na redação do presente diploma pelo(a) Lei n.º 42/2016
+    - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:107061810:por
+  label: Alterado o art. 3.º do Código do Imposto de Selo aprovado em anexo à Lei 150/99 de 11-set na versão republicada pelo
+    Dec Lei 287/2003 de 12-nov e na redação do presente diploma, pelo(a) Lei n.º 22/2017 - Diário da República n.º 99/2017,
+    Série I de 2017-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/22-2017-107061810
+  date: '2017-05-23'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 2.º, 3.º e 23.º do Código do Imposto do Selo, aprovado em anexo à Lei 150/99 de 11-set DR.IS-A
+    [213], na versão republicada pelo Dec Lei 287/2003 de 12-nov, retificada pela Decl Ret 4/2004 de 09-jan, e com a redação
+    dada pelo presente diploma (retificado pela Decl Ret 12/2015 de 11-mar) pelo(a) Lei n.º 114/2017 - Diário da República
+    n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 24.º e 71.º do Estatuto dos Benefícios Fiscais (EBF) aprovado pelo Dec Lei 215/89 de 01-jul, na
+    versão renumerada, com tabela de correspondência, e republicada do EBF pelo Dec Lei 108/2008 de 26-jun e na redação do
+    presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/2013/01/28/p/dre
   label: null
@@ -106,16 +143,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: corrected_by
+  target: pt:dre:66707710:por
+  label: Retificado o art. 4.º (na parte em que altera os arts. 2.º, 3.º, 5.º, 9.º e 23.º do Código do Imposto do Selo, aprovado
+    pela Lei 150/99 de 11-set) e a verba 29 do art. 5.º, ambos do presente diploma, pelo(a) Declaração de Retificação n.º
+    12/2015 - Diário da República n.º 49/2015, Série I de 2015-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/12-2015-66707710
+  date: '2015-03-11'
 article_structure:
-  article_count: 17
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:07Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +246,9 @@ b) No ano da cessação da atividade, em que é constituído pelo período decor
 
 16 - No caso de entidades referidas no n.º 1 divididas em compartimentos patrimoniais autónomos, as regras previstas no presente artigo são aplicáveis, com as necessárias adaptações, a cada um dos referidos compartimentos, sendo-lhes ainda aplicável o disposto no [Decreto-Lei n.º 14/2013](https://diariodarepublica.pt/web/guest/pesquisa/-/search/257001/details/normal?l=1), de 28 de janeiro.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -226,7 +272,9 @@ b) No ano da cessação da atividade, em que é constituído pelo período decor
 
 11 - [...].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -370,7 +418,9 @@ f) [...].
 
 8 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -412,7 +462,9 @@ q) As entidades abrangidas pelo regime estabelecido no artigo 22.º do EBF, quan
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -464,7 +516,9 @@ v) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de inve
 
 4 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -480,7 +534,9 @@ v) Nas situações previstas na verba n.º 29 da Tabela Geral, os fundos de inve
 
 7 - Nas situações previstas na verba n.º 29 da Tabela Geral, o imposto é devido sempre que os fundos de investimento mobiliário, fundos de investimento imobiliário, sociedades de investimento mobiliário e sociedades de investimento imobiliário sejam constituídos e operem de acordo com a legislação nacional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]:
 
@@ -528,7 +584,9 @@ v) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia do
 
 2 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -540,7 +598,9 @@ v) Nas situações previstas na verba n.º 29 da Tabela Geral, no último dia do
 
 5 - Para efeitos da verba n.º 29 da Tabela Geral, o valor líquido global das entidades previstas na alínea v) do n.º 3 do artigo 3.º corresponde à média dos valores comunicados à CMVM ou divulgados pelas entidades gestoras, com exceção do valor correspondente aos ativos relativos a unidades de participação ou participações sociais detidas em organismos de investimento coletivo abrangidos pelo regime estabelecido no artigo 22.º do EBF, no último dia de cada mês do trimestre.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -646,12 +706,12 @@ O presente decreto-lei produz os seus efeitos a partir de 1 de julho de 2015.
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque.
 
-**Promulgado em 6 de janeiro de 2015.**
+Promulgado em 6 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de janeiro de 2015.**
+Referendado em 8 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

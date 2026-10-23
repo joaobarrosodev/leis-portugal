@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/263-1979-369595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:54:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14d1007b992699c525ffef4fbedb10672ee5d12977b73f0159030497ba4cd472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1599670a4322bb181243a0e0a96d929a8c8da1c6bf9ac9ecf23430f4152fe0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formas de Provimento
+- Integração de Trabalhadores
+- Ministério do Trabalho
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:525383:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369599:por
+  label: "Aditada a al.e) à norma n.º 20 do presente diploma pelo DN.265/79.13.09.1979.MT, DR.IS [212] de 13.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/265-1979-369599
+  date: '1979-09-13'
+- type: cites
+  target: pt:dre:150740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:54:04Z'
   warnings: []
   errors: []
 ---

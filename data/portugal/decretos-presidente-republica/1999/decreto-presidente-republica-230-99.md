@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/230/1999/12/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/230-1999-632048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f999db2138babaf81809489d4eb9bce4a45c89162ff753dd888006e04de33420
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf8b1f6817f05384ec787a064444ec0ab48e17a2e60a76ee9022a79a44f316ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal do MAR
-- Convenção
-- Portugal
-- Material de Ensino
-- Macau
-- Importação
-- Material Audiovisual
-- Qualidade de VIDA
 - Bruxelas
-relationships: []
+- Convenção
+- Importação
+- Macau
+- Material Audiovisual
+- Material de Ensino
+- Pessoal do MAR
+- Portugal
+- Qualidade de VIDA
+relationships:
+- type: cites
+  target: pt:dre:475301:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:14Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +98,14 @@ validation:
 
 de 9 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau a Convenção Aduaneira Relativa ao Material de Bem-Estar Destinado ao Pessoal Marítimo, de 1 de Dezembro de 1964, aprovada pelo [Decreto-Lei n.º 47098](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47098-1966-475301), de 15 de Julho de 1966, cujo texto foi publicado no Diário do Governo, 1.ª série, de 15 de Julho de 1966.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 29 de Novembro de 1999.**
+Assinado em 29 de Novembro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto-lei de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto-lei de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

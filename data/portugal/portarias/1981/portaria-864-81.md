@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/864-1981-563633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a735a4ec54db8dc2b2a44eb27b73f399ab85dfa79cf35c5d5a7393b8092e409c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2e28b1c4cce1339c8ed2705b270c592eca8a497f43df6fb7b8e4af7cc4531b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Assistência Psiquiátrica
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+- Serviço Regional
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A NOTA ANEXA PELA PORTARIA 283/83, PUBLICADA NO DR.IS, 63, DE 830317.\0317.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:396365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396365:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, com a redacção que lhe foi conferida pela Port 283/83,\
+    \ de 17-Mar, pela PORT.954/84.22.12.1984.PCM, DR.IS [295] de 22.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/954-1984-396365
+  date: '1984-12-22'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:32Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +128,6 @@ Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Adminis
 
 Quadro de pessoal da Delegação da Zona Centro do Instituto de Assistência Psiquiátrica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/22300/25932593.pdf))](https://files.diariodarepublica.pt/1s/1981/09/22300/25932593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22300/25932593.pdf)
 
 Nota. - O funcionário administrativo que desempenhar as funções de tesoureiro manterá a actual remuneração mensal de 200$00 para falhas, sem prejuízo da revisão deste quantitativo nos termos da lei aplicável.

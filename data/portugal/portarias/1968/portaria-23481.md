@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23481-1968-272656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f41d11b0e8bf8ac1ff130b11229e5ab365d5fcc7b55cbad0141eb96c5252233f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bb70231948e32d994b1fbcb0325f0723fd9fb4eaa8c0a6fe06de65a12eeb93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480169:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:47:53Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +98,17 @@ REGIMENTO DA CORPORAÇÃO DA EDUCAÇÃO FÍSICA E DESPORTOS
 
 ## TÍTULO I — Da constituição, fins e atribuições
 
-###### Artigo 1.º - 1. A Corporação da Educação Física e Desportos, instituída pelo [Decreto n.º 47215](https://diariodarepublica.pt/dr/detalhe/decreto/47215-1966-480169), de 23 de Setembro de 1966, nos termos da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 2 de Agosto de 1956, constitui a organização unitária das actividades gimnodesportivas de natureza privada e representa os interesses das mesmas actividades, com vista ao desenvolvimento da cultura física nacional.
+Artigo 1.º - 1. A Corporação da Educação Física e Desportos, instituída pelo [Decreto n.º 47215](https://diariodarepublica.pt/dr/detalhe/decreto/47215-1966-480169), de 23 de Setembro de 1966, nos termos da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 2 de Agosto de 1956, constitui a organização unitária das actividades gimnodesportivas de natureza privada e representa os interesses das mesmas actividades, com vista ao desenvolvimento da cultura física nacional.
 
 2. Fazem parte da Corporação as federações nacionais que tenham por objecto actividades gimnodesportivas e sejam como tais reconhecidas peio Ministério da Educação Nacional.
 
-###### Art. 2.º A Corporação da Educação Física e Desportos é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
+Art. 2.º A Corporação da Educação Física e Desportos é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
 
-###### Art. 3.º - 1. A Corporação exerce a sua actividade no plano nacional, em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelas superiores exigências do bem comum.
+Art. 3.º - 1. A Corporação exerce a sua actividade no plano nacional, em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelas superiores exigências do bem comum.
 
 2. A Corporação não poderá utilizar ou ceder a sua sede ou contribuir com os seus meios de acção para qualquer espécie de actividade política ou social que seja contrária aos interesses da Nação ou à constituição do Estado.
 
-###### Art. 4.º São atribuições da Corporação da Educação Física e Desportos:
+Art. 4.º São atribuições da Corporação da Educação Física e Desportos:
 
 a) Coordenar a acção dos organismos incorporados;
 
@@ -124,7 +132,7 @@ i) Conhecer dos recursos interpostos das decisões disciplinares dos organismos 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 5.º São órgãos da Corporação:
+Art. 5.º São órgãos da Corporação:
 
 a) O conselho;
 
@@ -132,17 +140,17 @@ b) A direcção;
 
 c) A junta disciplinar.
 
-###### Art. 6.º Sempre que a Corporação da Educação Física e Desportos funcione como órgão consultivo, nos termos da base VI da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), serão convocados para as reuniões em que sejam apresentados assuntos submetidos por qualquer Ministério ao Ministério da Educação Nacional, os representantes dos serviços públicos e das entidades especializadas que, para o efeito, o presidente considere conveniente.
+Art. 6.º Sempre que a Corporação da Educação Física e Desportos funcione como órgão consultivo, nos termos da base VI da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), serão convocados para as reuniões em que sejam apresentados assuntos submetidos por qualquer Ministério ao Ministério da Educação Nacional, os representantes dos serviços públicos e das entidades especializadas que, para o efeito, o presidente considere conveniente.
 
 ### CAPÍTULO II — Do presidente da Corporação
 
-###### Art. 7.º - 1. O presidente da Corporação é eleito pelo conselho de entre os representantes dos organismos que o compõem.
+Art. 7.º - 1. O presidente da Corporação é eleito pelo conselho de entre os representantes dos organismos que o compõem.
 
 2. O presidente da Corporação é coadjuvado e substituído nas suas faltas ou impedimentos por um vice-presidente, eleito nos termos do número anterior.
 
-###### Art. 8.º O presidente e o vice-presidente podem ser eleitos para dois mandatos consecutivos.
+Art. 8.º O presidente e o vice-presidente podem ser eleitos para dois mandatos consecutivos.
 
-###### Art. 9.º Compete ao presidente da Corporação:
+Art. 9.º Compete ao presidente da Corporação:
 
 a) Representar a Corporação em juízo ou fora dele;
 
@@ -172,13 +180,13 @@ m) Designar os representantes dos serviços públicos e das entidades especializ
 
 #### SECÇÃO I — Da constituição e competência
 
-###### Art. 10.º - 1. O conselho da Corporação é constituído pelos representantes dos organismos incorporados.
+Art. 10.º - 1. O conselho da Corporação é constituído pelos representantes dos organismos incorporados.
 
 2. A integração de qualquer organismo gimnodesportivo na Corporação far-se-á mediante simples requerimento dirigido ao presidente, acompanhado dos seus estatutos e documentos comprovativos da sua aprovação e da homologação da eleição dos corpos gerentes respectivos.
 
 3. Como organismo coordenador das actividades gimnodesportivas dos trabalhadores terá assento no conselho a Fundação Nacional para a Alegria no Trabalho, que participará nas suas reuniões e nas secções respectivas com voto consultivo.
 
-###### Art. 11.º - 1. Cada organismo terá um representante, escolhido de entre os membros da respectiva direcção.
+Art. 11.º - 1. Cada organismo terá um representante, escolhido de entre os membros da respectiva direcção.
 
 2. Os nomes dos representantes designados são transmitidos ao presidente da Corporação até ao dia 15 de Novembro de cada ano, acompanhados das cópias das actas das reuniões em que foram eleitos.
 
@@ -186,7 +194,7 @@ m) Designar os representantes dos serviços públicos e das entidades especializ
 
 4. Os representantes dos organismos devem actuar em estreita harmonia com os órgãos directivos dos mesmos.
 
-###### Art. 12.º Compete ao conselho:
+Art. 12.º Compete ao conselho:
 
 a) Eleger o presidente e o vice-presidente da Corporação e os vogais da direcção e da junta disciplinar, bem como os respectivos substitutos;
 
@@ -218,7 +226,7 @@ n) Fixar o montante das ajudas de custo a que têm direito os membros dos órgã
 
 ##### SUBSECÇÃO I — Das eleições
 
-###### Art. 13.º - 1. Nas eleições cometidas ao conselho da Corporação haverá listas separadas para cada uma das seguintes votações:
+Art. 13.º - 1. Nas eleições cometidas ao conselho da Corporação haverá listas separadas para cada uma das seguintes votações:
 
 a) Do presidente da Corporação;
 
@@ -238,15 +246,15 @@ e) Dos procuradores à Câmara Corporativa.
 
 5. Feito o apuramento, serão proclamados pelo presidente os mais votados.
 
-###### Art. 14.º Podem exercer cargos electivos ou de representação da Corporação os dirigentes dos organismos que não tenham sido designados por eleição para os corpos gerentes desses organismos, salvo pelo que respeita ao presidente, vice-presidente da Corporação e vogais da direcção e seus substitutos.
+Art. 14.º Podem exercer cargos electivos ou de representação da Corporação os dirigentes dos organismos que não tenham sido designados por eleição para os corpos gerentes desses organismos, salvo pelo que respeita ao presidente, vice-presidente da Corporação e vogais da direcção e seus substitutos.
 
 ##### SUBSECÇÃO II — Da instalação
 
-###### Art. 15.º - 1. Os membros designados pelos diversos organismos, como seus representantes no conselho, reunir-se-ão na primeira semana de Dezembro.
+Art. 15.º - 1. Os membros designados pelos diversos organismos, como seus representantes no conselho, reunir-se-ão na primeira semana de Dezembro.
 
 2. A convocação será feita pelo presidente em exercício.
 
-###### Art. 16.º - 1. No dia, hora e local designados na convocatória, os representantes dos organismos reunir-se-ão em sessão preparatória, sob a presidência do presidente cessante, que designará dois dos presentes para o secretariarem.
+Art. 16.º - 1. No dia, hora e local designados na convocatória, os representantes dos organismos reunir-se-ão em sessão preparatória, sob a presidência do presidente cessante, que designará dois dos presentes para o secretariarem.
 
 2. O presidente mandará desde logo fazer a chamada pela relação organizada de acordo com as comunicações efectuadas nos termos do artigo 11.º, n.º 2.
 
@@ -254,31 +262,31 @@ e) Dos procuradores à Câmara Corporativa.
 
 4. A comissão exerce ainda as restantes atribuições cometidas por este Regimento.
 
-###### Art. 17.º A comissão reunir-se-á desde logo, elegerá um presidente e um relator e deliberará, podendo os representantes cujos poderes não possam ser confirmados enviar ao presidente representações ou documentos justificativos, dos quais será dado conhecimento à comissão para decisão imediata.
+Art. 17.º A comissão reunir-se-á desde logo, elegerá um presidente e um relator e deliberará, podendo os representantes cujos poderes não possam ser confirmados enviar ao presidente representações ou documentos justificativos, dos quais será dado conhecimento à comissão para decisão imediata.
 
-###### Art. 18.º - 1. Verificados os poderes da maioria, pelo menos dos membros do conselho, proceder-se-á à eleição da mesa definitiva, composta pelo presidente e vice-presidente da Corporação e por dois secretários, todos eleitos de entre os membros do conselho.
+Art. 18.º - 1. Verificados os poderes da maioria, pelo menos dos membros do conselho, proceder-se-á à eleição da mesa definitiva, composta pelo presidente e vice-presidente da Corporação e por dois secretários, todos eleitos de entre os membros do conselho.
 
 2. Simultâneamente, proceder-se-á à eleição dos substitutos do vice-presidente e dos secretários.
 
 3. O presidente e o vice-presidente ficam impedidos da representação que lhes competia como membros do conselho, devendo neste ser substituídos pela forma prescrita para a respectiva designação.
 
-###### Art. 19.º - 1. Seguidamente proceder-se-á à eleição dos vogais da direcção e seus substitutos de entre os membros do conselho e à dos vogais da junta disciplinar e respectivos substitutos também de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
+Art. 19.º - 1. Seguidamente proceder-se-á à eleição dos vogais da direcção e seus substitutos de entre os membros do conselho e à dos vogais da junta disciplinar e respectivos substitutos também de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
 
 2. A sessão será então suspensa, para continuar ainda no mês de Dezembro, na data desde logo marcada pelo presidente, com o fim de definir as linhas gerais de acção a desenvolver pela Corporação e de discutir e votar o orçamento ordinário do ano seguinte, elaborados entretanto pela direcção eleita.
 
-###### Art. 20.º O presidente, o vice-presidente e os órgãos da Corporação entram em exercício de funções em 1 de Janeiro, cessando os dos anteriores nesse mesmo dia.
+Art. 20.º O presidente, o vice-presidente e os órgãos da Corporação entram em exercício de funções em 1 de Janeiro, cessando os dos anteriores nesse mesmo dia.
 
 ##### SUBSECÇÃO III — Das reuniões
 
-###### Art. 21.º - 1. Além da reunião efectuada em Dezembro, para efeito do disposto nos artigos 15.º, 18.º e 19.º, o conselho da Corporação reúne ainda ordinàriamente no mês de Fevereiro para discussão e votação do relatório e conta da gerência anterior e ainda de quatro em quatro anos, em Outubro, com o fim de eleger os Procuradores à Câmara Corporativa.
+Art. 21.º - 1. Além da reunião efectuada em Dezembro, para efeito do disposto nos artigos 15.º, 18.º e 19.º, o conselho da Corporação reúne ainda ordinàriamente no mês de Fevereiro para discussão e votação do relatório e conta da gerência anterior e ainda de quatro em quatro anos, em Outubro, com o fim de eleger os Procuradores à Câmara Corporativa.
 
 2. Na reunião do mês de Fevereiro estarão obrigatòriamente presentes os membros da direcção anterior.
 
-###### Art. 22.º - 1. O conselho reunirá extraordinàriamente quando o presidente da Corporação o convoque, por iniciativa da direcção ou a requerimento de, pelo menos, metade dos membros do conselho, para tratar do assunto ou assuntos que, pela sua especial relevância, justifiquem essa convocação.
+Art. 22.º - 1. O conselho reunirá extraordinàriamente quando o presidente da Corporação o convoque, por iniciativa da direcção ou a requerimento de, pelo menos, metade dos membros do conselho, para tratar do assunto ou assuntos que, pela sua especial relevância, justifiquem essa convocação.
 
 2. Os pedidos de convocação das reuniões extraordinárias, quando formulados pelos membros do conselho, serão sempre apresentados, por escrito, ao presidente.
 
-###### Art. 23.º - 1. O conselho da Corporação deverá pronunciar-se na reunião ordinária sobre todos os assuntos que interessem ao desenvolvimento e fins da Corporação, desde que tais assuntos constem da ordem dos trabalhos.
+Art. 23.º - 1. O conselho da Corporação deverá pronunciar-se na reunião ordinária sobre todos os assuntos que interessem ao desenvolvimento e fins da Corporação, desde que tais assuntos constem da ordem dos trabalhos.
 
 2. A ordem dos trabalhos será elaborada pelo presidente.
 
@@ -286,23 +294,23 @@ e) Dos procuradores à Câmara Corporativa.
 
 4. Serão nulas as deliberações sobre assuntos que não constem das respectivas ordens dos trabalhos e, bem assim, as que contrariem as leis e o regimento ou impliquem despesas que não tenham cabimento orçamental.
 
-###### Art. 24.º A matéria da alínea g) do artigo 12.º tanto pode ser tratada em sessão ordinária como em sessão extraordinária.
+Art. 24.º A matéria da alínea g) do artigo 12.º tanto pode ser tratada em sessão ordinária como em sessão extraordinária.
 
-###### Art. 25.º - 1. As reuniões do conselho, ordinárias e extraordinárias, são convocadas pelo presidente, com especificação dos assuntos a tratar e com antecedência de, pelo menos, vinte dias.
+Art. 25.º - 1. As reuniões do conselho, ordinárias e extraordinárias, são convocadas pelo presidente, com especificação dos assuntos a tratar e com antecedência de, pelo menos, vinte dias.
 
 2. Este prazo pode ser reduzido para dez dias, quando o presidente entender que as circunstâncias aconselham urgência, sendo neste caso de cinco dias o prazo a que se refere o n.º 3 do artigo 23.º
 
 3. As convocatórias para as sessões em que se discute o orçamento ou o relatório e contas serão acompanhadas de exemplares desses documentos.
 
-###### Art. 26.º - 1. Poderão constituir-se secções do conselho com a incumbência de dar os pareceres especializados que lhes forem solicitados pelo conselho ou pela direcção ou sugerir as providências que considerarem convenientes.
+Art. 26.º - 1. Poderão constituir-se secções do conselho com a incumbência de dar os pareceres especializados que lhes forem solicitados pelo conselho ou pela direcção ou sugerir as providências que considerarem convenientes.
 
 2. Compete ao presidente da Corporação determinar, em cada caso, a composição das secções, às quais podem ser agregados técnicos de reconhecida competência sobre os assuntos em estudo, precedendo proposta dos seus membros.
 
 ##### SUBSECÇÃO IV — Da ordem dos trabalhos
 
-###### Art. 27.º A abertura dos trabalhos de cada sessão será feita pelo presidente à hora marcada na convocação.
+Art. 27.º A abertura dos trabalhos de cada sessão será feita pelo presidente à hora marcada na convocação.
 
-###### Art. 28.º - 1. Constituída a mesa, proceder-se-á à chamada, e, se estiver presente um terço, pelo menos, do número total dos membros do conselho, entrar-se-á no período de antes da ordem do dia.
+Art. 28.º - 1. Constituída a mesa, proceder-se-á à chamada, e, se estiver presente um terço, pelo menos, do número total dos membros do conselho, entrar-se-á no período de antes da ordem do dia.
 
 2. Não estando presente o quórum referido no número anterior, adiar-se-á a sessão por uma hora, e, se a situação se mantiver, o presidente suspenderá os trabalhos e marcará nova reunião.
 
@@ -320,17 +328,17 @@ d) À apreciação de quaisquer outros assuntos de interesse geral, nomeadamente
 
 5. Meia hora depois da abertura da sessão, se os assuntos de antes da ordem do dia não estiverem esgotados, poderá o presidente prolongar esta parte da sessão por outra meia hora.
 
-###### Art. 29.º Terminados os trabalhos do primeiro período da sessão, entrar-se-á na ordem do dia, desde que se encontre presente a maioria dos membros do conselho com direito a voto.
+Art. 29.º Terminados os trabalhos do primeiro período da sessão, entrar-se-á na ordem do dia, desde que se encontre presente a maioria dos membros do conselho com direito a voto.
 
 ##### SUBSECÇÃO V — Das deliberações e votações
 
-###### Art. 30.º - 1. As deliberações são tomadas por maioria absoluta de votos dos membros presentes.
+Art. 30.º - 1. As deliberações são tomadas por maioria absoluta de votos dos membros presentes.
 
 2. De cada sessão será lavrada acta, com indicação dos membros presentes, relato circunstanciado dos trabalhos e registo das deliberações tomadas.
 
 3. As actas são assinadas pelo presidente e secretários.
 
-###### Art. 31.º - 1. As votações poderão realizar se:
+Art. 31.º - 1. As votações poderão realizar se:
 
 a) Por levantados e sentados;
 
@@ -350,11 +358,11 @@ c) Por votação nominal.
 
 ##### SUBSECÇÃO VI — Do uso da palavra
 
-###### Art. 32.º - 1. Nas reuniões do conselho da Corporação podem usar da palavra, além do presidente, os membros que a pedirem para assuntos julgados pertinentes.
+Art. 32.º - 1. Nas reuniões do conselho da Corporação podem usar da palavra, além do presidente, os membros que a pedirem para assuntos julgados pertinentes.
 
 2. O orador enunciará livremente as suas opiniões e não poderá ser interrompido sem o seu consentimento.
 
-###### Art. 33.º - 1. A palavra poderá ser pedida para:
+Art. 33.º - 1. A palavra poderá ser pedida para:
 
 a) Tratar de assuntos de antes da ordem do dia;
 
@@ -380,19 +388,19 @@ f) Enviar para a mesa quaisquer alterações ao texto das deliberações a tomar
 
 7. Não haverá justificação, nem discussão, de perguntas ou requerimentos;
 
-###### Art. 34.º Nas reuniões do conselho da Corporação cada membro poderá usar da palavra duas vezes sobre cada ponto inscrito na ordem do dia, pelo tempo de vinte minutos da primeira e dez minutos da segunda; todavia, o presidente, se o interesse e a importância da exposição o justificarem, poderá prorrogar o primeiro tempo até trinta e o segundo até quinze minutos.
+Art. 34.º Nas reuniões do conselho da Corporação cada membro poderá usar da palavra duas vezes sobre cada ponto inscrito na ordem do dia, pelo tempo de vinte minutos da primeira e dez minutos da segunda; todavia, o presidente, se o interesse e a importância da exposição o justificarem, poderá prorrogar o primeiro tempo até trinta e o segundo até quinze minutos.
 
-###### Art. 35.º O debate findará pela falta de oradores inscritos, pela declaração do presidente de que o assunto está suficientemente esclarecido ou ainda pela aprovação de requerimento para que a matéria seja dada por discutida.
+Art. 35.º O debate findará pela falta de oradores inscritos, pela declaração do presidente de que o assunto está suficientemente esclarecido ou ainda pela aprovação de requerimento para que a matéria seja dada por discutida.
 
 ### CAPÍTULO IV — Da direcção
 
 #### SECÇÃO I — Da composição e competência
 
-###### Art. 36.º - 1. A direcção da Corporação é constituída por um presidente e um vice-presidente, que são, respectivamente, o presidente e o vice-presidente da Corporação, e por três vogais, todos eleitos de entre os membros do conselho.
+Art. 36.º - 1. A direcção da Corporação é constituída por um presidente e um vice-presidente, que são, respectivamente, o presidente e o vice-presidente da Corporação, e por três vogais, todos eleitos de entre os membros do conselho.
 
 2. O vice-presidente coadjuva o presidente e substitui-o nas suas faltas ou impedimentos.
 
-###### Art. 37.º Compete à direcção:
+Art. 37.º Compete à direcção:
 
 a) Dar execução às deliberações do conselho;
 
@@ -416,7 +424,7 @@ j) Tomar as demais deliberações e providências que entrem nas atribuições d
 
 #### SECÇÃO II — Do funcionamento
 
-###### Art. 38.º - 1. A direcção reunirá ordinàriamente duas vezes por mês e, extraordinàriamente, sempre que qualquer dos seus membros o julgue necessário.
+Art. 38.º - 1. A direcção reunirá ordinàriamente duas vezes por mês e, extraordinàriamente, sempre que qualquer dos seus membros o julgue necessário.
 
 2. As reuniões só poderão efectuar-se quando estiver presente a maioria dos membros.
 
@@ -426,21 +434,21 @@ j) Tomar as demais deliberações e providências que entrem nas atribuições d
 
 5. De cada reunião será lavrada acta, assinada por todos os presentes.
 
-###### Art. 39.º Os membros da direcção respondem solidàriamente pelas deliberações tomadas com o seu voto.
+Art. 39.º Os membros da direcção respondem solidàriamente pelas deliberações tomadas com o seu voto.
 
 ### CAPÍTULO V — Da acção disciplinar da Corporação
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 40.º Considera-se infracção disciplinar o acto praticado voluntàriamente pelos desportistas ou pelos organismos desportivos, com violação dos deveres regulamentares.
+Art. 40.º Considera-se infracção disciplinar o acto praticado voluntàriamente pelos desportistas ou pelos organismos desportivos, com violação dos deveres regulamentares.
 
-###### Art. 41.º Os vários organismos gimnodesportivos deverão providenciar por que os seus associados mantenham a necessária compostura e decoro nos recintos sob sua guarda ou vigilância., punindo-os quando tal se não verifique.
+Art. 41.º Os vários organismos gimnodesportivos deverão providenciar por que os seus associados mantenham a necessária compostura e decoro nos recintos sob sua guarda ou vigilância., punindo-os quando tal se não verifique.
 
-###### Art. 42.º A competência disciplinar sobre federações, associações, clubes, dirigentes e demais elementos da orgânica gimnodesportica compete aos órgãos disciplinares dos organismos gimnodesportivos ou dos de hierarquia superior quanto às infracções dos seus regulamentos e determinações.
+Art. 42.º A competência disciplinar sobre federações, associações, clubes, dirigentes e demais elementos da orgânica gimnodesportica compete aos órgãos disciplinares dos organismos gimnodesportivos ou dos de hierarquia superior quanto às infracções dos seus regulamentos e determinações.
 
 #### SECÇÃO II — Das penas
 
-###### Art. 43.º - 1. As penas aplicáveis aos desportistas e organismos desportivos são:
+Art. 43.º - 1. As penas aplicáveis aos desportistas e organismos desportivos são:
 
 a) Advertência;
 
@@ -456,13 +464,13 @@ f) Irradiação ou dissolução.
 
 2. A pena da alínea b) e seguintes é sempre registada no processo do infractor.
 
-###### Art. 44.º - 1. As penas serão graduadas atendendo a todas as circunstâncias agravantes e atenuantes que acompanharem, precederem ou se seguirem à prática das infracções.
+Art. 44.º - 1. As penas serão graduadas atendendo a todas as circunstâncias agravantes e atenuantes que acompanharem, precederem ou se seguirem à prática das infracções.
 
 2. As amnistias não destroem os efeitos já produzidos pela aplicação da pena, nem determinam, relativamente ao castigo aplicado, o cancelamento do registo.
 
 3. A pena de multa importa para o infractor a suspensão do exercício da sua actividade desportiva até pagamento integral.
 
-###### Art. 45.º - 1. As penas das alíneas a) e b) do artigo 43.º serão aplicadas por faltas leves.
+Art. 45.º - 1. As penas das alíneas a) e b) do artigo 43.º serão aplicadas por faltas leves.
 
 2. A pena da alínea c) é aplicável, em regra, aos organismos por faltas cometidas pelos seus filiados ou praticadas nos locais de desporto sob sua guarda ou vigilância.
 
@@ -488,35 +496,35 @@ c) Prática de actos manifestamente contrários à ordem constitucional estabele
 
 ##### SUBSECÇÃO I — Da composição e competência
 
-###### Art. 46.º A junta disciplinar é constituída por um juiz dos tribunais superiores designados pelo conselho corporativo, o qual presidirá, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
+Art. 46.º A junta disciplinar é constituída por um juiz dos tribunais superiores designados pelo conselho corporativo, o qual presidirá, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
 
-###### Art. 47.º Sem prejuízo da competência atribuída, por lei, à Direcção-Geral de Educação Física, Desportos e Saúde Escolar, compete à junta disciplinar da Corporação conhecer dos recursos interpostos das decisões disciplinares dos organismos incorporados.
+Art. 47.º Sem prejuízo da competência atribuída, por lei, à Direcção-Geral de Educação Física, Desportos e Saúde Escolar, compete à junta disciplinar da Corporação conhecer dos recursos interpostos das decisões disciplinares dos organismos incorporados.
 
-###### Art. 48.º A junta disciplinar pode conceder a revisão das decisões que haja proferido quando se tenham produzido novos factos ou se apresentem outras provas susceptíveis de modificarem a apreciação anteriormente feita.
+Art. 48.º A junta disciplinar pode conceder a revisão das decisões que haja proferido quando se tenham produzido novos factos ou se apresentem outras provas susceptíveis de modificarem a apreciação anteriormente feita.
 
 ##### SUBSECÇÃO II — Do funcionamento
 
-###### Art. 49.º - 1. O julgamento será realizado em conferência, sendo as respectivas decisões tomadas por maioria de votos dos membros que constituem a junta disciplinar.
+Art. 49.º - 1. O julgamento será realizado em conferência, sendo as respectivas decisões tomadas por maioria de votos dos membros que constituem a junta disciplinar.
 
 2. A elaboração da sentença compete ao presidente.
 
-###### Art. 50.º - 1. Os recursos interpostos para a junta disciplinar devem estar improrrogàvelmente julgados no prazo de 30 dias a contar da interposição do recurso.
+Art. 50.º - 1. Os recursos interpostos para a junta disciplinar devem estar improrrogàvelmente julgados no prazo de 30 dias a contar da interposição do recurso.
 
 2. Respondem por perdas e danos os membros da junta que derem causa a que a decisão deixe de ser proferida dentro do prazo, salvo se o presidente considerar justificado o facto.
 
-###### Art. 51.º Todas as decisões tomadas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Corporação, o qual, por sua vez, delas dará conhecimento ao Ministro da Educação Nacional.
+Art. 51.º Todas as decisões tomadas em processos disciplinares serão imediatamente comunicadas, por cópia, ao presidente da Corporação, o qual, por sua vez, delas dará conhecimento ao Ministro da Educação Nacional.
 
-###### Art. 52.º Os processos afectos à junta disciplinar seguirão os trâmites fixados em regulamento aprovado por portaria do Ministro das Corporações e Previdência Social, sob proposta da direcção da Corporação e com o parecer favorável do Ministro da Educação Nacional.
+Art. 52.º Os processos afectos à junta disciplinar seguirão os trâmites fixados em regulamento aprovado por portaria do Ministro das Corporações e Previdência Social, sob proposta da direcção da Corporação e com o parecer favorável do Ministro da Educação Nacional.
 
 ## TÍTULO III — Do mandato e obrigatoriedade dos cargos electivos
 
-###### Art. 53.º - 1. O mandato dos membros do conselho, da direcção e da junta disciplinar tem a duração de um ano, coincidente com o ano civil.
+Art. 53.º - 1. O mandato dos membros do conselho, da direcção e da junta disciplinar tem a duração de um ano, coincidente com o ano civil.
 
 2. O mandato continuará em vigor até ao termo deste prazo, ainda que, entretanto, o titular tenha deixado de possuir a qualidade de dirigente gimnodesportivo exigida como pressuposto da sua eleição; mas não poderá ser reeleito se no momento da reeleição a não possuir de novo.
 
 3. Os representantes da Corporação na Câmara Corporativa que atinjam o termo do mandato continuam a representá-la até final do quadriénio, salvo o disposto na parte final do número anterior.
 
-###### Art. 54.º São causas de extinção do mandato dos cargos electivos da Corporação:
+Art. 54.º São causas de extinção do mandato dos cargos electivos da Corporação:
 
 a) A perda de nacionalidade portuguesa;
 
@@ -530,7 +538,7 @@ e) Duas faltas às reuniões do conselho da Corporação e cinco faltas às reun
 
 f) A recusa a desempenhar os cargos para que tiver sido eleito, fora dos casos previstos no artigo seguinte.
 
-###### Art. 55.º - 1. Só podem escusar-se do exercício de cargos electivos da Corporação:
+Art. 55.º - 1. Só podem escusar-se do exercício de cargos electivos da Corporação:
 
 a) Os representantes que tenham completado 70 anos de idade;
 
@@ -542,7 +550,7 @@ c) Os que tiverem exercido qualquer dos cargos no ano anterior àquele a que o p
 
 ## TÍTULO IV — Dos meios financeiros
 
-###### Art. 56.º - 1. Constituem receitas da Corporação:
+Art. 56.º - 1. Constituem receitas da Corporação:
 
 a) As contribuições dos organismos incorporados;
 
@@ -564,25 +572,25 @@ g) Quaisquer outras importâncias que possam resultar de exercício da sua activ
 
 4. Os empréstimos só poderão ser autorizados quando se indique desde logo a forma do seu reembolso, e se prove a viabilidade efectiva das amortizações.
 
-###### Art. 57.º Os levantamentos de fundos da Corporação efectuar-se-ão por meio de cheque assinado pelo presidente ou pelo vice-presidente, quando em exercício, e por um dos vogais da direcção, e autenticado com o selo branco.
+Art. 57.º Os levantamentos de fundos da Corporação efectuar-se-ão por meio de cheque assinado pelo presidente ou pelo vice-presidente, quando em exercício, e por um dos vogais da direcção, e autenticado com o selo branco.
 
-###### Art. 58.º - 1. O orçamento das receitas e despesas, bem como as contas de gerência e o relatório anual, depois de aprovados pelo conselho da Corporação serão submetidos pelo presidente à apreciação das Direcções-Gerais do Trabalho e Corporações e da Educação Física e Desportos, até 5 de Janeiro e 1 de Março, respectivamente.
+Art. 58.º - 1. O orçamento das receitas e despesas, bem como as contas de gerência e o relatório anual, depois de aprovados pelo conselho da Corporação serão submetidos pelo presidente à apreciação das Direcções-Gerais do Trabalho e Corporações e da Educação Física e Desportos, até 5 de Janeiro e 1 de Março, respectivamente.
 
 2. Os orçamentos suplementares serão igualmente submetidos à apreciação daquela entidade cinco dias após a sua aprovação.
 
-###### Art. 59.º A direcção facultará a qualquer membro do conselho da Corporação, sempre que para tal seja solicitada, a sua escrita e arquivos.
+Art. 59.º A direcção facultará a qualquer membro do conselho da Corporação, sempre que para tal seja solicitada, a sua escrita e arquivos.
 
 ## TÍTULO V — Disposições gerais
 
-###### Art. 60.º Nas reuniões da direcção ou do conselho, na falta ou impedimento simultâneo do presidente e do vice-presidente, assumirá a presidência o vogal ou o secretário mais antigo, e, se todos tiverem a mesma antiguidade, a substituição caberá ao mais velho.
+Art. 60.º Nas reuniões da direcção ou do conselho, na falta ou impedimento simultâneo do presidente e do vice-presidente, assumirá a presidência o vogal ou o secretário mais antigo, e, se todos tiverem a mesma antiguidade, a substituição caberá ao mais velho.
 
-###### Art. 61.º - 1. Os organismos incorporados deverão designar novos representantes no conselho, no prazo máximo de dez dias, desde que se verifique o impedimento permanente e simultâneo do seu representante efectivo e respectivo substituto.
+Art. 61.º - 1. Os organismos incorporados deverão designar novos representantes no conselho, no prazo máximo de dez dias, desde que se verifique o impedimento permanente e simultâneo do seu representante efectivo e respectivo substituto.
 
 2. Enquanto a designação se não realizar, o organismo poderá fazer-se representar por um dos membros da direcção.
 
 3. No caso de impedimento permanente e simultâneo do titular e seu substituto de qualquer cargo directivo da Corporação, proceder-se-á a nova eleição.
 
-###### Art. 62.º - 1. O desempenho de cargos electivos da Corporação é gratuito.
+Art. 62.º - 1. O desempenho de cargos electivos da Corporação é gratuito.
 
 2. Os membros dos órgãos da Corporação têm, porém direito:
 

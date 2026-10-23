@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20921-1964-535272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee3df35a5ae30ad92dbd58df5ad7b4cabc0f7e903c78503b386b05108ef61754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a3cd1f8b21a8a77de3c8b579778c8aa3c229ced750ade9562921a4c19a4af42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Armazenagem
+- Comércio
+- Floricultura
+- Fruto
+- Margens de Comercialização
+- Metrópole
+- Plantula
+- Produto Hortícola
+- Semente
 relationships:
 - type: amended_by
   target: pt:dre:607368:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:412019:por
+  label: "Alterados os n.ºs 24.º e 48.º PORT.820/73.19.11.1973.MECO, DG.IS [270] de 19.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-1973-412019
+  date: '1973-11-19'
+- type: cites
+  target: pt:dre:173157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446519:por
+  label: Revogado o n.º 48.º da presente portaria pelo(a) Portaria n.º 95/78 - Diário da República n.º 40/1978, Série I de
+    1978-02-17, nos termos dos seus n.ºs 1.º e 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1978-446519
+  date: '1978-02-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:20Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +147,7 @@ Não se pode também aceitar um estado de coisas que permite sejam lançados no 
 
 Outros instrumentos decisivos para o êxito das operações de comercialização e para o saneamento dos respectivos circuitos serão os mercados centrais, de que se espera vir a erguer em breve as primeiras unidades. Na criação do mercado central, que não visará fins lucrativos, participarão, além da Junta Nacional das Frutas, os municípios e todas as actividades profissionais interessadas no circuito da comercialização. A sua função será a de prestar serviços, sem lucro, a todas as actividades do sector e de constituir, ao mesmo tempo, uma bolsa dos respectivos produtos. Além de possuir todas, ou algumas, das instalações características das estações fruteiras, disporá ainda de locais para vendas em leilão. Anexo ao mercado, funcionará um entreposto frigorífico, de preferência polivalente, destinado a servir as necessidades não só do mercado interno como também da exportação. As vendas, neste mercado, incidirão apenas sobre grandes lotes e far-se-ão exclusivamente a armazenistas, industriais e exportadores.
 
-## Anexo ao mercado central funcionará, como norma, um mercado abastecedor grossista, o qual receberá os produtos não só daquele mercado como directamente das estações fruteiras regionais e que se destina exclusivamente a servir o abastecimento do respectivo aglomerado populacional. Nos centros menos importantes, e sempre que se justifique, serão criados simples mercados abastecedores.
+Anexo ao mercado central funcionará, como norma, um mercado abastecedor grossista, o qual receberá os produtos não só daquele mercado como directamente das estações fruteiras regionais e que se destina exclusivamente a servir o abastecimento do respectivo aglomerado populacional. Nos centros menos importantes, e sempre que se justifique, serão criados simples mercados abastecedores.
 
 4. A adopção progressiva de normas qualitativas para os produtos destinados ao mercado interno, colocando-os em igualdade de condições relativamente aos que se destinam à exportação, surge como medida indispensável à melhoria da comercialização da produção horto-frutícola portuguesa.
 

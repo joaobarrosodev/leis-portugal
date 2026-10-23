@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/04/097a00/18971908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/100/1997/04/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1997-476774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 273f1e6ba255dbbe5f9d0df107cea8abdfd048cd5e3fc0c7892135a81815fa46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affbac124505186db55d124a40ecaa7240f6f3838068307242c77e6c7734701a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Direcção Geral de Protecção das Culturas
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:628851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que a competência relativa à definição das orientações estratégicas da Direcção-Geral, cuja orgânica\
+    \ foi aprovada no presente diploma, bem como o acompanhamento da sua execução, seja exercida pelo Ministro da Agricultura,\
+    \ do Desenvolvimento Rural e das Pescas em articulação com o Ministro da Ciência, Tecnologia e Ensino Superior, pelo DEC\
+    \ LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:518854:por
+  label: "Determinada a sucessão da DGADR nas atribuições da DGPC (que é extinta), com excepção das relativas ao domínio da\
+    \ investigação, cuja orgânica consta do presente diploma, que é revogado, nos termos do art. 5º do Dec Lei 201/2006 de\
+    \ 27-Out, a partir de 01.03.2007 pelo DR.8/2007.27.02.2007.MADRP, DR.IS [41] de 27.02.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/8-2007-518854
+  date: '2007-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
   label: null
@@ -83,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335901:por
+  label: "Revogada a al. g) do art. 6º pelo DEC LEI.166/2000.2000.08.05.MADRP, DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2000-335901
+  date: '2000-08-05'
+- type: repealed_by
+  target: pt:dre:628851:por
+  label: "Revogado, a partir de 01.11.2007, e determinado que o Instituto Nacional de Recursos Biológicos, I. P. suceda nas\
+    \ atribuições no domínio da investigação da Direcção-Geral de Protecção das Culturas, pelo DEC LEI.356/2007.29.10.2007.MADRP,\
+    \ DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/356-2007-628851
+  date: '2007-10-29'
 article_structure:
-  article_count: 37
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:39Z'
   warnings: []
   errors: []
 ---
@@ -335,7 +374,9 @@ d) Divisão de Documentação, Informação e Relações Públicas;
 
 e) Repartição de Administração Geral.
 
-###### Artigo 12.º — Divisão de Planeamento, Informática e Estatística
+###### Artigo 12.º
+
+##### Divisão de Planeamento, Informática e Estatística
 
 À Divisão de Planeamento, Informática e Estatística compete:
 
@@ -349,7 +390,9 @@ d) Avaliar e apoiar as necessidades relativas aos meios informáticos dos órgã
 
 e) Promover e coordenar os trabalhos de âmbito estatístico relativos às atribuições da DGPC.
 
-###### Artigo 13.º — Divisão de Formação e Gestão de Recursos Humanos
+###### Artigo 13.º
+
+##### Divisão de Formação e Gestão de Recursos Humanos
 
 À Divisão de Formação e Gestão de Recursos Humanos compete:
 
@@ -375,7 +418,9 @@ j) Assegurar o processamento dos vencimentos do pessoal e outros abonos a que ti
 
 l) Instruir os processos relativos às prestações sociais dos funcionários da DGPC e dos seus familiares e a acidentes em serviço.
 
-###### Artigo 14.º — Divisão de Gestão Financeira e Controlo Orçamental
+###### Artigo 14.º
+
+##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
 
@@ -397,7 +442,9 @@ h) Garantir o tratamento automático da informação de carácter financeiro.
 
 2 - Na dependência da Divisão de Gestão Financeira e Controlo Orçamental funciona uma tesouraria, dirigida por um tesoureiro, que assegura as tarefas inerentes ao movimento de receitas e despesas e respectiva escrituração.
 
-###### Artigo 15.º — Divisão de Documentação, Informação e Relações Públicas
+###### Artigo 15.º
+
+##### Divisão de Documentação, Informação e Relações Públicas
 
 À Divisão de Documentação, Informação e Relações Públicas compete:
 
@@ -485,7 +532,9 @@ c) Colaborar, através do controlo da qualidade, no processo de acreditação do
 
 #### SECÇÃO IV — Serviços operativos
 
-##### SUBSECÇÃO I — Artigo 19.º
+##### SUBSECÇÃO I
+
+###### Artigo 19.º
 
 Direcção de Serviços de Fitossanidade
 
@@ -511,7 +560,9 @@ c) Divisão de Identificação e de Bioecologia de Patogéneos;
 
 d) Divisão de Pragas e Meios de Protecção.
 
-###### Artigo 20.º — Divisão de Inspecção Fitossanitária
+###### Artigo 20.º
+
+##### Divisão de Inspecção Fitossanitária
 
 À Divisão de Inspecção Fitossanitária compete:
 
@@ -533,7 +584,9 @@ h) Executar os exames periciais decorrentes do controlo fitossanitário;
 
 i) Colaborar, dentro do seu âmbito, nos sistemas de informação das organizações comunitárias e internacionais a que Portugal aderiu.
 
-###### Artigo 21.º — Divisão de Sanidade Vegetal
+###### Artigo 21.º
+
+##### Divisão de Sanidade Vegetal
 
 À Divisão de Sanidade Vegetal compete:
 
@@ -557,9 +610,11 @@ i) Coordenar os serviços regionais nas actividades da sua competência;
 
 j) Elaborar as normas e estabelecer os sistemas de controlo e orientações necessárias ao cumprimento das disposições legais no âmbito das suas competências.
 
-##### SUBSECÇÃO II — Artigo 22.º
+##### SUBSECÇÃO II
 
-##### Divisão de Identificação e de Bioecologia de Patogéneos
+###### Artigo 22.º
+
+Divisão de Identificação e de Bioecologia de Patogéneos
 
 1 - À Divisão de Identificação e de Bioecologia de Patogéneos compete:
 
@@ -573,7 +628,9 @@ d) A formação no âmbito da sua competência.
 
 2 - A Divisão de Identificação e de Bioecologia de Patogéneos integra laboratórios e equipas especializadas em bacteriologia, virologia e micologia.
 
-###### Artigo 23.º — Divisão de Pragas e Meios de Protecção
+###### Artigo 23.º
+
+##### Divisão de Pragas e Meios de Protecção
 
 1 - À Divisão de Pragas e Meios de Protecção compete:
 
@@ -597,7 +654,9 @@ i) A formação no âmbito da sua competência.
 
 2 - A Divisão de Pragas e Meios de Protecção integra laboratórios e equipas especializadas em entomologia, nematologia e rodentologia.
 
-##### SUBSECÇÃO III — Artigo 24.º
+##### SUBSECÇÃO III
+
+###### Artigo 24.º
 
 Direcção de Serviços de Sementes e Propágulos
 
@@ -627,7 +686,9 @@ b) Divisão de Sementes;
 
 c) Divisão de Materiais de Propagação Vegetativa.
 
-###### Artigo 25.º — Divisão do Catálogo Nacional de Variedades
+###### Artigo 25.º
+
+##### Divisão do Catálogo Nacional de Variedades
 
 À Divisão do Catálogo Nacional de Variedades compete:
 
@@ -653,7 +714,9 @@ j) Apoiar e colaborar nas acções de formação e de informação dos agentes e
 
 l) Colaborar, no âmbito das suas competências, nos sistemas de informação das organizações comunitárias a que Portugal aderiu.
 
-###### Artigo 26.º — Divisão de Sementes
+###### Artigo 26.º
+
+##### Divisão de Sementes
 
 À Divisão de Sementes, que integra o laboratório de ensaio de sementes, compete:
 
@@ -683,7 +746,9 @@ m) Apoiar e colaborar nas acções de formação e informação dos agentes envo
 
 n) Colaborar, no âmbito das suas competências, nos sistemas de informação das organizações comunitárias e internacionais a que Portugal aderiu.
 
-###### Artigo 27.º — Divisão de Materiais de Propagação Vegetativa
+###### Artigo 27.º
+
+##### Divisão de Materiais de Propagação Vegetativa
 
 À Divisão de Materiais de Propagação Vegetativa compete:
 
@@ -707,7 +772,9 @@ i) Apoiar e colaborar nas acções de formação e de informação dos agentes e
 
 j) Colaborar no âmbito das suas competências nos sistemas de informação das organizações comunitárias e internacionais a que Portugal aderiu.
 
-##### SUBSECÇÃO IV — Artigo 28.º
+##### SUBSECÇÃO IV
+
+###### Artigo 28.º
 
 Direcção de Serviços de Produtos Fitofarmacêuticos
 
@@ -731,7 +798,9 @@ c) Divisão de Avaliação Biológica;
 
 d) Divisão de Toxicologia, Ambiente e Ecotoxicologia.
 
-###### Artigo 29.º — Divisão de Homologação
+###### Artigo 29.º
+
+##### Divisão de Homologação
 
 1 - À Divisão de Homologação compete:
 
@@ -749,7 +818,9 @@ f) Manter uma base de dados de homologação de produtos fitofarmacêuticos e co
 
 2 - A Divisão de Homologação integra uma equipa especializada no âmbito da avaliação e estabelecimento de limites máximos de resíduos.
 
-###### Artigo 30.º — Divisão de Formulações e Resíduos
+###### Artigo 30.º
+
+##### Divisão de Formulações e Resíduos
 
 1 - À Divisão de Formulações e Resíduos compete:
 
@@ -769,7 +840,9 @@ g) Proceder à avaliação dos produtos fitofarmacêuticos para fins de homologa
 
 2 - A Divisão de Formulações e Resíduos integra os laboratórios e as equipas especializadas, no âmbito das análises e estudos sobre formulações de produtos fitofarmacêuticos e no âmbito dos resíduos e seu comportamento.
 
-###### Artigo 31.º — Divisão de Avaliação Biológica
+###### Artigo 31.º
+
+##### Divisão de Avaliação Biológica
 
 1 - À Divisão de Avaliação Biológica compete:
 
@@ -789,7 +862,9 @@ g) Elaborar informação no domínio da sua especialidade.
 
 2 - A Divisão de Avaliação Biológica integra os laboratórios e as equipas especializadas no âmbito específico de fungicidas, insecticidas, herbicidas e reguladores de crescimento.
 
-###### Artigo 32.º — Divisão de Toxicologia, Ambiente e Ecotoxicologia
+###### Artigo 32.º
+
+##### Divisão de Toxicologia, Ambiente e Ecotoxicologia
 
 1 - À Divisão de Toxicologia, Ambiente e Ecotoxicologia compete:
 
@@ -805,7 +880,9 @@ e) Promover e colaborar nos estudos necessários à avaliação do risco dos pro
 
 2 - A Divisão de Toxicologia, Ambiente e Ecotoxicologia integra duas equipas especializadas diferenciadas nas áreas de toxicologia e ambiente.
 
-##### SUBSECÇÃO V — Artigo 33.º
+##### SUBSECÇÃO V
+
+###### Artigo 33.º
 
 Centro Nacional de Registo de Variedades Protegidas
 
@@ -927,16 +1004,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 3 de Abril de 1997.**
+Promulgado em 3 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Abril de 1997.**
+Referendado em 10 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA DE PESSOAL DIRIGENTE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/04/097a00/18971908.pdf))](https://files.diariodarepublica.pt/1s/1997/04/097a00/18971908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/04/097a00/18971908.pdf)

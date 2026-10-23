@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1981-390381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 526e7fd449d46cc3a9646907403ae3b00a967b61c5b55d06f4df985bd4765b7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b45a16df84341f30c396e7058ebd3a08b45111e8a23693fceb8c373fd8ee9fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa Nacional de Pensões
+- Centro Nacional de Pensões
+- Quadro de Pessoal
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:325765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:451644:por
+  label: "Prorrogado, por um ano, o regime de instalação estabelecido pelo presente diploma, pela PORT.624/83.30.05.1983.MAS,\
+    \ DR.IS [124] de 30.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1983-451644
+  date: '1983-05-30'
+- type: amended_by
+  target: pt:dre:193577:por
+  label: Prorrogado até 31.12.1986 o regime de instalação do Centro Nacional de Pensões pelo(a) Decreto-Lei n.º 44/86 - Diário
+    da República n.º 55/1986, Série I de 1986-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1986-193577
+  date: '1986-03-07'
+- type: amended_by
+  target: pt:dre:325765:por
+  label: "Extinto o Centro Nacional de Pens&#245;es e inserido no art. 28&#186; do Estatuto do ISSS com as respectivas compet&#234;ncias,\
+    \ pelo DEC LEI.316-A/2000.2000.12.07.MTS DR.IS-A [282]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-a-2000-325765
+  date: '2000-12-07'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:03:41Z'
   warnings: []
   errors: []
 ---
@@ -166,8 +208,8 @@ As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho
 
 Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
 
-**Promulgado em 3 de Janeiro de 1981.**
+Promulgado em 3 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

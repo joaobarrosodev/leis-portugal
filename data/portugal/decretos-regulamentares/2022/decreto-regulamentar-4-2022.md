@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/19000/0002800097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/4/2022/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2022-201699171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 093e67806c1279eb965466ff25f2128d82e808f854ca4b62b65f3d9321760997
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f1d5cbbb09b054a4dd5dbed1d02ba6cbeb8930ec0df2a74782935c37f646bdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,42 +70,42 @@ subjects:
 - Acesso ao Emprego
 - Acordo
 - Acordo de Schengen
-- Embaixada
-- Direito de Residência
-- Família
-- ALTO Comissariado para as Migrações
-- Registo Criminal
-- Autoridade Tributária e Aduaneira
-- Residência de Estrangeiros
-- Cidadão Estrangeiro
-- Formação Profissional
-- Circulação de Pessoas
-- Criança
-- Direitos do Homem
-- Igualdade de Tratamento
-- Conselho Consultivo para os Assuntos da Imigração
-- Portugal
-- Direitos da Criança
-- Regulamentação de Atos Legislativos
-- Autoridade Marítima Nacional
-- Comissão Nacional para os Direitos Humanos
-- Plano Nacional contra o Tráfico de Seres Humanos
-- Estatuto dos Refugiados
-- Serviço Nacional de Saúde
-- Fiscalização
-- Palop
-- Imigrante
-- Centro Distrital de Solidariedade e Segurança Social
-- Documento Eletrónico
-- Menoridade
-- Serviços Partilhados do Ministério da Saúde
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Serviço de Estrangeiros e Fronteiras
-- Serviço de Estrangeiros
-- Dados Pessoais
-- Tráfico de Pessoas
 - Admissão de Estrangeiros
+- ALTO Comissariado para as Migrações
+- Autoridade Marítima Nacional
+- Autoridade Tributária e Aduaneira
+- Centro Distrital de Solidariedade e Segurança Social
+- Cidadão Estrangeiro
+- Circulação de Pessoas
+- Comissão Nacional para os Direitos Humanos
+- Conselho Consultivo para os Assuntos da Imigração
+- Criança
+- Dados Pessoais
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
+- Direito de Residência
+- Direitos da Criança
+- Direitos do Homem
+- Documento Eletrónico
+- Embaixada
+- Estatuto dos Refugiados
 - Estratégia Nacional para os Direitos das Crianças 2021-2024
+- Família
+- Fiscalização
+- Formação Profissional
+- Igualdade de Tratamento
+- Imigrante
+- Menoridade
+- Palop
+- Plano Nacional contra o Tráfico de Seres Humanos
+- Portugal
+- Registo Criminal
+- Regulamentação de Atos Legislativos
+- Residência de Estrangeiros
+- Serviço de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Tráfico de Pessoas
 relationships:
 - type: cites
   target: celex:32001L0040
@@ -175,20 +175,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/313/2021/12/09/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/313/2021/12/09/p/dre
+- type: cites
+  target: pt:dre:116382281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165129790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175595589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200268064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70167924:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0040
   label: null
   source: null
 article_structure:
-  article_count: 167
+  article_count: 135
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:03Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +325,9 @@ Os artigos 2.º, 8.º, 10.º, 12.º, 12.º-A, 13.º, 23.º-B, 24.º, 27.º, 28.�
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A entrada no país de menores estrangeiros desacompanhados de quem exerce as responsabilidades parentais apenas deve ser autorizada quando exista cidadão português ou cidadão estrangeiro que permaneça regularmente em Portugal que se responsabilize pela sua estada, após confirmação de existência de autorização válida adequada emitida pelo respetivo representante legal e avaliação de todos os demais elementos pertinentes.
 
@@ -247,7 +337,9 @@ Os artigos 2.º, 8.º, 10.º, 12.º, 12.º-A, 13.º, 23.º-B, 24.º, 27.º, 28.�
 
 4 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de visto que, por força da legislação aplicável, deva ser apresentado num posto consular e numa secção consular da embaixada a que se referem, respetivamente, os n.os 2 e 5 do artigo 3.º e o artigo 67.º do Regulamento Consular, aprovado em anexo ao [Decreto-Lei n.º 51/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2021-165129790), de 15 de junho, é formulado em impresso próprio, assinado pelo requerente e instruído com toda a documentação necessária.
 
@@ -277,7 +369,9 @@ c) [...]
 
 11 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -307,7 +401,9 @@ g) [...]
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - [...]
 
@@ -323,7 +419,9 @@ g) [...]
 
 7 - Quando admitido em instituição de ensino superior, o requerente de visto de residência, nacional de Estado terceiro de língua oficial portuguesa é dispensado da prova de meios de subsistência.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -357,7 +455,9 @@ m) [...]
 
 4 - [...]
 
-###### Artigo 23.º-B — [...]
+Artigo 23.º-B
+
+[...]
 
 O pedido de visto de estada temporária para frequência de curso em estabelecimento de ensino ou formação profissional previsto na alínea k) do n.º 1 do artigo 54.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, deve ser acompanhado dos seguintes documentos:
 
@@ -365,7 +465,9 @@ a) [...]
 
 b) [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - São definidos por portaria dos membros do Governo responsáveis pelas áreas da administração interna e do trabalho e da solidariedade social os comprovativos de posse de meios de subsistência necessários para:
 
@@ -381,7 +483,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 2 - Para efeitos do disposto na alínea e) do número anterior, o pedido deve ser acompanhado de termo de responsabilidade e de documento que certifique a qualidade de ministro do culto ou de membro de instituto de vida consagrada do requerente, exarados pela igreja ou pela comunidade religiosa a que pertença, devidamente reconhecidas nos termos da ordem jurídica portuguesa, junto com os documentos do n.º 8 do artigo 62.º ou do n.º 5 do artigo 59.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, quando a atividade religiosa for prestada em regime de voluntariado ou quando revista o exercício de uma atividade profissional subordinada.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Quando apresentadas, as ofertas de emprego previstas no n.º 4 do artigo 59.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, são publicitadas em local próprio no sítio do IEFP, I. P., na Internet, após o momento da sua apresentação, devidamente identificadas e numeradas, ficando também acessíveis a cidadãos nacionais de países terceiros.
 
@@ -391,7 +495,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 4 - A divulgação das ofertas de emprego pode, a pedido da entidade empregadora, ser suspensa, sendo a mesma retirada após comunicação do seu preenchimento.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -401,7 +507,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 4 - Caso a oferta de emprego seja preenchida, a entidade empregadora deve informar o IEFP, I. P., para os efeitos do n.º 4 do artigo anterior.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -419,7 +527,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 8 - A autoridade consular comunica imediatamente ao SEF a concessão de visto de residência para frequência de programa de estudos de ensino superior, nos termos do n.º 8 do artigo 53.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 38.º — Relação de vistos concedidos e comunicação da emissão dos vistos concedidos com dispensa de parecer obrigatório do Serviço de Estrangeiros e Fronteiras
+Artigo 38.º
+
+Relação de vistos concedidos e comunicação da emissão dos vistos concedidos com dispensa de parecer obrigatório do Serviço de Estrangeiros e Fronteiras
 
 1 - [...]
 
@@ -433,7 +543,9 @@ e) [Anterior alínea e) do corpo do artigo.]
 
 6 - Os processos de vistos concedidos sem parecer do SEF ou consulta prévia nos termos das normas referidas no número anterior devem ser enviados ao SEF, por via eletrónica, mencionando expressamente o domicílio indicado em território nacional e, quando aplicável, os dados relativos a subscritores dos termos de responsabilidade para efeitos do disposto no n.º 6 do artigo 12.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...]
 
@@ -465,7 +577,9 @@ d) Quando aplicável, informação necessária para verificação da inscrição
 
 11 - A decisão sobre os pedidos de prorrogação de permanência apresentados por titular de visto de acompanhamento de familiar portador de um visto de estada temporária é tomada em consonância com a adotada quanto ao cidadão acompanhado.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -489,7 +603,9 @@ d) Quando aplicável, informação necessária para verificação da inscrição
 
 11 - [...]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - [...]
 
@@ -511,7 +627,9 @@ b) Informação necessária para verificação da inscrição na administração
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 58.º — Exercício de atividade profissional por titular de autorização de residência para investigação, estudo, estágio profissional ou voluntariado
+Artigo 58.º
+
+Exercício de atividade profissional por titular de autorização de residência para investigação, estudo, estágio profissional ou voluntariado
 
 1 - Os titulares de autorização de residência para investigação, estudo, estágio profissional ou voluntariado podem exercer atividade profissional, subordinada ou independente, complementarmente à atividade que deu origem ao visto, podendo para o efeito inscrever-se no Serviço Público de Emprego.
 
@@ -523,7 +641,9 @@ b) Informação necessária para verificação da inscrição na administração
 
 5 - (Revogado.)
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -591,7 +711,9 @@ b) Cópia autenticada do atestado médico emitido em estabelecimento de saúde o
 
 27 - (Anterior n.º 25.)
 
-###### Artigo 65.º-D — [...]
+Artigo 65.º-D
+
+[...]
 
 1 - [...]
 
@@ -647,7 +769,9 @@ i) [...]
 
 18 - [...]
 
-###### Artigo 65.º-E — [...]
+Artigo 65.º-E
+
+[...]
 
 1 - [...]
 
@@ -701,7 +825,9 @@ i) [...]
 
 17 - [...]
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pode ser solicitada segunda via do título de residência em caso de mau estado de conservação, perda ou extravio, destruição, furto ou roubo, salvo se houver lugar à sua renovação, nos termos dos artigos 78.º ou 121.º-E da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
@@ -713,7 +839,9 @@ i) [...]
 
 5 - O pedido de segunda via de título de residência por perda, extravio, destruição, furto ou roubo determina a inserção de indicação de objeto furtado, desviado ou extraviado no Sistema Integrado de Informação do SEF e no Sistema de Informação Schengen e impede que o seu titular o utilize se o recuperar, devendo neste caso proceder à sua entrega junto do SEF.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - [...]
 
@@ -741,19 +869,25 @@ Acesso ao procedimento de asilo e proteção subsidiária
 
 3 - O disposto no n.º 1 é aplicável às pessoas que não apresentem documentos válidos ou que tenham entrado de forma irregular em território nacional.
 
-###### Artigo 8.º-B — Proteção de menores e adultos vulneráveis
+Artigo 8.º-B
+
+Proteção de menores e adultos vulneráveis
 
 1 - As autoridades nacionais competentes pela vigilância, fiscalização e controlo das fronteiras realizam as diligências adequadas à identificação e referenciação de menores e adultos vulneráveis para os serviços competentes, designadamente o Sistema de Referenciação Nacional para Crianças (presumíveis) Vítimas de Tráfico de Seres Humanos.
 
 2 - Para efeitos do número anterior, considera-se pessoas vulneráveis os menores não acompanhados, pessoas com deficiência, idosos, grávidas, famílias com menores e pessoas que manifesta ou presumivelmente tenham sido vítimas de tráfico, de tortura, violação ou outras formas graves de violência psicológica, física ou sexual.
 
-###### Artigo 8.º-C — Menores sem documentos
+Artigo 8.º-C
+
+Menores sem documentos
 
 1 - Na ausência de documentos, e em caso de dúvida, as autoridades nacionais competentes pela vigilância, fiscalização e controlo das fronteiras marítimas, terrestres e aeroportuárias, aplicam a presunção de que a pessoa tem menos de 18 anos.
 
 2 - A idade é subsequentemente avaliada e determinada pelas autoridades competentes.
 
-###### Artigo 18.º-A — Visto de estada temporária para acompanhamento de requerente de visto de estada temporária
+Artigo 18.º-A
+
+Visto de estada temporária para acompanhamento de requerente de visto de estada temporária
 
 1 - O pedido de visto de estada temporária para acompanhamento de requerente de visto de estada temporária previsto nas alíneas g) e h) do n.º 1 do artigo 54.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado de:
 
@@ -763,7 +897,9 @@ b) Comprovativo da disponibilidade de recursos estáveis e regulares, suficiente
 
 2 - Para efeitos do disposto no número anterior, consideram-se membros da família as pessoas previstas no n.º 1 do artigo 99.º e no n.º 1 do artigo 100.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 18.º-B — Visto de estada temporária para o exercício de atividade profissional prestada de forma remota para fora do território nacional
+Artigo 18.º-B
+
+Visto de estada temporária para o exercício de atividade profissional prestada de forma remota para fora do território nacional
 
 O pedido de visto de estada temporária para o exercício de atividade profissional prestada de forma remota, previsto na alínea i) do n.º 1 do artigo 54.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado de:
 
@@ -789,7 +925,9 @@ c) Comprovativo de rendimentos médios mensais auferidos no exercício de ativid
 
 d) Documento que ateste a sua residência fiscal.
 
-###### Artigo 23.º-C — Visto para procura de trabalho
+Artigo 23.º-C
+
+Visto para procura de trabalho
 
 1 - O pedido de visto para procura de trabalho previsto no artigo 57.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado de:
 
@@ -799,7 +937,7 @@ b) Comprovativo de apresentação de declaração de manifestação de interesse
 
 2 - A autoridade consular comunica imediatamente ao SEF e ao IEFP, I. P., a concessão dos vistos referidos no número anterior.
 
-###### Artigo 24.º-A
+Artigo 24.º-A
 
 Visto de estada temporária, visto para procura de trabalho e visto de residência a cidadãos nacionais de Estados-Membros da Comunidade dos Países de Língua Portuguesa
 
@@ -813,7 +951,9 @@ Visto de estada temporária, visto para procura de trabalho e visto de residênc
 
 5 - Os vistos CPLP têm uma validade territorial limitada ao território nacional e são impressos em vinheta de modelo a aprovar por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da administração interna.
 
-###### Artigo 24.º-B — Visto de residência para acompanhamento de requerente de visto de residência
+Artigo 24.º-B
+
+Visto de residência para acompanhamento de requerente de visto de residência
 
 1 - O pedido de visto de residência para acompanhamento de requerente de visto de residência previsto no n.º 5 do artigo 58.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado de:
 
@@ -825,7 +965,9 @@ b) Comprovativo da disponibilidade de recursos estáveis e regulares, suficiente
 
 3 - Para efeitos do disposto no n.º 4 do artigo 65.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, a articulação com os competentes serviços da Autoridade Tributária e Aduaneira, da Segurança Social e da Direção-Geral da Saúde para a obtenção e a atribuição dos números de identificação fiscal, de segurança social e do serviço nacional de saúde, é da responsabilidade da entidade competente para a decisão de deferimento dos pedidos de reagrupamento familiar, que os deve transmitir de forma eletrónica ao titular do visto, logo que dos mesmos tenha conhecimento.
 
-###### Artigo 31.º-A — Visto de residência para o exercício de atividade profissional prestada de forma remota para fora do território nacional
+Artigo 31.º-A
+
+Visto de residência para o exercício de atividade profissional prestada de forma remota para fora do território nacional
 
 1 - O pedido de visto de residência para o exercício de atividade profissional prestada de forma remota, previsto no artigo 61.º-B da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, é acompanhado de:
 
@@ -849,17 +991,23 @@ d) Documento que ateste a sua residência fiscal.
 
 2 - Quando o requerente não disponha de visto de residência para prestação de trabalho remoto, é aplicável, com as necessárias adaptações, o procedimento definido no n.º 2 e seguintes dos artigos 88.º e 89.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, sendo para esse efeito exigível o cumprimento do disposto no número anterior.
 
-###### Artigo 49.º-A — Prorrogação de visto para procura de trabalho
+Artigo 49.º-A
+
+Prorrogação de visto para procura de trabalho
 
 O pedido de prorrogação de permanência apresentado por titular de visto para procura de trabalho, nos termos da alínea c) do n.º 1 do artigo 57.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), na sua redação atual, é acompanhado de comprovativo de inscrição junto do IEFP, I. P., e de declaração do requerente com indicação da manutenção das condições da estada prevista, sendo apreciado tendo em consideração as razões que justificaram a sua concessão.
 
-###### Artigo 51.º-A — Autorização de residência a cidadãos nacionais de Estados-Membros da Comunidade dos Países de Língua Portuguesa
+Artigo 51.º-A
+
+Autorização de residência a cidadãos nacionais de Estados-Membros da Comunidade dos Países de Língua Portuguesa
 
 1 - Os pedidos de concessão e de renovação de autorização de residência apresentados por cidadãos nacionais de Estados-Membros da CPLP, bem como os pedidos de nacionais de outro Estado a que as condições especiais daquele Acordo sejam estendidas por acordo internacional, independentemente da sua finalidade, são instruídos apenas com os documentos a que se referem as alíneas a) a d) do n.º 1 do artigo 12.º
 
 2 - Nos casos previstos no número anterior, para efeitos de emissão da autorização de residência, os serviços competentes consultam oficiosamente o registo criminal português do requerente, nos termos do n.º 3 do artigo 87.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual.
 
-###### Artigo 92.º-B — Comunicação entre serviços e entidades públicas
+Artigo 92.º-B
+
+Comunicação entre serviços e entidades públicas
 
 Nos termos do disposto no n.º 5 do artigo 124.º e no artigo 215.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, os serviços competentes comunicam, ainda:
 
@@ -867,7 +1015,9 @@ a) À segurança social, à Autoridade Tributária e Aduaneira e aos SPMS - Serv
 
 b) Ao SEF e ao IEFP, I. P., por via eletrónica, os vistos para procura de trabalho concedidos.
 
-###### Artigo 92.º-C — Identificação de estrangeiros
+Artigo 92.º-C
+
+Identificação de estrangeiros
 
 1 - A recolha e tratamento de fotografias, imagens faciais e dados dactiloscópicos para efeitos de identificação de estrangeiros, nacionais de Estados-Membros da União Europeia, apátridas e cidadãos nacionais no âmbito do Sistema Integrado de Informação do SEF verificam-se nos termos e para os efeitos previstos na lei nacional e na regulamentação aplicável ao Sistema de Informação de Schengen, e com respeito pelas normas mínimas de qualidade dos dados e às especificações técnicas previstas nesses instrumentos.
 
@@ -897,15 +1047,15 @@ O presente decreto regulamentar entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de setembro de 2022. - Mariana Guimarães Vieira da Silva - Bernardo Forjaz Vieira Ivo Cruz - José Luís Pereira Carneiro - Ana Catarina Veiga dos Santos Mendonça Mendes - Elvira Maria Correia Fortunato - Gabriel Gameiro Rodrigues Bastos.
 
-**Promulgado em 23 de setembro de 2022.**
+Promulgado em 23 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de setembro de 2022.**
+Referendado em 23 de setembro de 2022.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -2840,3 +2990,5 @@ c) Sobre duas impressões palmares para os nacionais de países terceiros que es
 ###### Artigo 93.º — Norma revogatória
 
 É revogado o [Decreto Regulamentar n.º 6/2004](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2004-222820), de 26 de abril.
+
+115722321

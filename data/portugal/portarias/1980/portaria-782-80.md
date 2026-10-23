@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/782-1980-462070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89434340c4c4c90a168163a36a8e4d68af6cf96e33703c4ed5d1e9d550655f27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8f1d70221297f6092e5c91bc84070956564c8987e7a4551bdba0bf67f9a87d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Hospital Distrital
+- Matosinhos
+- Quadro de Pessoal
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA PELA PORTARIA NUMERO 855/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 190, DE 20/8/91.\0/8/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:402771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318156:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma pela PORT.1234/82.31.12.1982.MFP,\
+    \ DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1234-1982-318156
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:308283:por
+  label: "Alterado o quadro de pessoal pela PORT.128/83.1983.02.03.MFP DR.IS [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-1983-308283
+  date: '1983-02-03'
+- type: amended_by
+  target: pt:dre:308285:por
+  label: "Alterado o quadro de pessoal pela PORT.125/83.1983.02.03.MFP DR.IS [28]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-1983-308285
+  date: '1983-02-03'
+- type: amended_by
+  target: pt:dre:435467:por
+  label: "Alterado, na parte referente ao pessoal técnico superior e pessoal médico, o quadro de pessoal aprovado pelo presente\
+    \ diploma, na redacção da Portaria 128/83, de 03 de Fevereiro, pela PORT.807-N3/83.30.07.1983.MFP, DR.IS [174 6ºSupl]\
+    \ de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-n3-1983-435467
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:228635:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, na redacção da Port 1234/82, de 31-Dez, da Port 125/83,\
+    \ de 03-Fev, da Port 128/83, de 03-Fev e pela Port 807-N3/93, de 30-Jul, pela PORT.305/86.21.06.1986.MF, DR.IS [140] de\
+    \ 21.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/305-1986-228635
+  date: '1986-06-21'
+- type: amended_by
+  target: pt:dre:373385:por
+  label: "Alterado o quadro de pessoal do Hospital Distrital de Matosinhos pela PORT.429/88.1988.07.06.MF,DR.IS [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/429-1988-373385
+  date: '1988-07-06'
+- type: amended_by
+  target: pt:dre:642185:por
+  label: Substituído o quadro de pessoal médico do Hospital Distrital de Matosinhos pelo(a) Portaria n.º 413/91 - Diário da
+    República n.º 112/1991, Série I-B de 1991-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/413-1991-642185
+  date: '1991-05-16'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:59Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +160,6 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Hospital Distrital de Matosinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23000/31143115.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23000/31143115.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/23000/31143115.pdf)
 
 Nota. - Ao funcionário administrativo que exercer as funções de tesoureiro será atribuída a remuneração mensal de 600$00, para falhas.

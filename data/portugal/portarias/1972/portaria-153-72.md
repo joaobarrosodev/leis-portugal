@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-1972-396731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 612686060c4d7f116ee3913c8ac375f61c8ff90541f4494326e9b5088d193694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7359f27d47b80dde63083485a0fc84c08fb745a826ad66e33cd5376680fc5ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:405755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643954:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:39Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +104,11 @@ Nos termos do n.º 4 do artigo 13.º do [Decreto-Lei n.º 237/71](https://diario
 
 Manda o Governo da República Portuguesa, pelo Ministro da Economia, aprovar o Regulamento da Comissão Nacional do Frio, que vai anexo a esta portaria, dela fazendo parte.
 
-**O Ministro da Economia, João Augusto Dias Rosas.**
+O Ministro da Economia, João Augusto Dias Rosas.
 
 Regulamento da Comissão Nacional do Frio
 
-###### Artigo 1.º - 1. Para cumprimento das funções que lhe cabem, incumbe à Comissão Nacional do Frio:
+Artigo 1.º - 1. Para cumprimento das funções que lhe cabem, incumbe à Comissão Nacional do Frio:
 
 a) Elaborar e actualizar, por si ou em colaboração com entidades competentes, o inventário das instalações frigoríficas existentes no País, classificando-as segundo potências, capacidades, finalidades e outros aspectos específicos, com vista a agrupá-las por tipos de mono ou polivalência ou de outras características especiais;
 
@@ -106,7 +122,7 @@ e) Promover a realização de cursos e colóquios sobre os problemas da aplicaç
 
 2. O disposto na alínea a) do número precedente abrange as instalações frigoríficas destinadas a leite, lacticínios e à refrigeração e congelação de produtos avícolas e caça.
 
-###### Art. 2.º - 1. A instalação dos estabelecimentos frigoríficos constantes da tabela aprovada pela [Portaria n.º 24223](https://diariodarepublica.pt/dr/detalhe/portaria/24223-1969-405755), de 4 de Agosto de 1969, carece de parecer favorável da Comissão Nacional do Frio.
+Art. 2.º - 1. A instalação dos estabelecimentos frigoríficos constantes da tabela aprovada pela [Portaria n.º 24223](https://diariodarepublica.pt/dr/detalhe/portaria/24223-1969-405755), de 4 de Agosto de 1969, carece de parecer favorável da Comissão Nacional do Frio.
 
 2. Os organismos que superintendem no licenciamento da instalação e funcionamento dos estabelecimentos referidos no número precedente remeterão à Comissão Nacional do Frio duplicado do requerimento exigido para efeito do artigo 30.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, e nos termos do artigo 5.º do [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966.
 
@@ -114,11 +130,11 @@ e) Promover a realização de cursos e colóquios sobre os problemas da aplicaç
 
 4. Sem prejuízo do disposto na alínea b) do n.º 1 do artigo 12.º do [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), mantém-se o estabelecido na lei vigente em relação à montagem e funcionamento de instalações frigoríficas, nomeadamente no respeitante a organismos competentes e trâmites relativos a organização e instrução processuais.
 
-###### Art. 3.º - 1. Para os efeitos do que dispõe o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), são consideradas as instalações frigoríficas destinadas a pré-arrefecimento, refrigeração, congelação, armazenagem, conservação, transporte, distribuição ou manutenção pelo frio, de matérias-primas e produtos alimentares, desde a produção até à venda para consumo, incluindo as instalações frigorificas actualmente em funcionamento, em construção ou legalmente autorizadas.
+Art. 3.º - 1. Para os efeitos do que dispõe o [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), são consideradas as instalações frigoríficas destinadas a pré-arrefecimento, refrigeração, congelação, armazenagem, conservação, transporte, distribuição ou manutenção pelo frio, de matérias-primas e produtos alimentares, desde a produção até à venda para consumo, incluindo as instalações frigorificas actualmente em funcionamento, em construção ou legalmente autorizadas.
 
 2. Para efeito do presente Regulamento, são apenas considerados estabelecimentos frigoríficos aqueles onde se exerçam as actividades industriais relacionadas pelos grupos 201.2.1.2; 201.2.4; 201.2.5; 203.1.1.2; 204.1.4; 204.2; 204.4 e 209.9.2, constantes da tabela aprovada pela [Portaria n.º 24223](https://diariodarepublica.pt/dr/detalhe/portaria/24223-1969-405755), em conformidade com o Regulamento de Instalação e Laboração dos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), e, bem assim, os meios de transporte frigoríficos.
 
-###### Art. 4.º - 1. A Comissão Nacional do Frio reunirá, mediante convocação do presidente, por sua iniciativa ou por solicitação de qualquer dos vogais.
+Art. 4.º - 1. A Comissão Nacional do Frio reunirá, mediante convocação do presidente, por sua iniciativa ou por solicitação de qualquer dos vogais.
 
 2. Para todas as reuniões, cada vogal será expressamente convocado pelo presidente, pelo menos com oito dias de antecedência.
 
@@ -126,25 +142,25 @@ e) Promover a realização de cursos e colóquios sobre os problemas da aplicaç
 
 4. A discussão de qualquer matéria compreendida na ordem do dia pode ser adiada, total ou parcialmente, para outra reunião, a pedido fundamentado de qualquer dos membros e se a Comissão Nacional do Frio assim o deliberar.
 
-###### Art. 5.º - 1. A presença dos vogais nas reuniões é obrigatória, devendo as faltas ser justificadas perante o presidente.
+Art. 5.º - 1. A presença dos vogais nas reuniões é obrigatória, devendo as faltas ser justificadas perante o presidente.
 
 2. Os vogais da Comissão Nacional do Frio podem fazer-se substituir por representantes devidamente credenciados pelo departamento respectivo.
 
-###### Art. 6.º - 1. As reuniões da Comissão Nacional do Frio só podem realizar-se com a presença da maioria do número legal dos seus membros, incluindo o presidente.
+Art. 6.º - 1. As reuniões da Comissão Nacional do Frio só podem realizar-se com a presença da maioria do número legal dos seus membros, incluindo o presidente.
 
 2. As deliberações serão tomadas pela maioria dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 7.º - 1. Um secretário sem direito a voto lavrará a acta de cada reunião.
+Art. 7.º - 1. Um secretário sem direito a voto lavrará a acta de cada reunião.
 
 2. De cada acta será enviada cópia aos membros da Comissão Nacional do Frio.
 
 3. No início de cada reunião será lida e submetida a aprovação a acta da reunião anterior, que, depois de aprovada, será assinada por todos os presentes à reunião a que respeita.
 
-###### Art. 8.º - 1. A comissão executiva reunirá com a frequência que for determinada pelo presidente da Comissão Nacional do Frio, de acordo com as necessidades e a natureza dos assuntos a examinar.
+Art. 8.º - 1. A comissão executiva reunirá com a frequência que for determinada pelo presidente da Comissão Nacional do Frio, de acordo com as necessidades e a natureza dos assuntos a examinar.
 
 2. É aplicável o disposto ao artigo anterior, sendo, porém, as cópias das actas enviadas apenas aos membros da comissão executiva.
 
-###### Art. 9.º Compete, nomeadamente, ao presidente da Comissão Nacional do Frio:
+Art. 9.º Compete, nomeadamente, ao presidente da Comissão Nacional do Frio:
 
 a) Convocar e presidir às reuniões da Comissão e da sua comissão executiva;
 
@@ -158,14 +174,14 @@ e) Orientar e despachar o expediente da Comissão Nacional do Frio;
 
 f) Representar a Comissão Nacional do Frio nas organizações internacionais do frio.
 
-###### Art. 10.º O presidente, nos seus impedimentos, será substituído pelo representante do Ministério do Ultramar.
+Art. 10.º O presidente, nos seus impedimentos, será substituído pelo representante do Ministério do Ultramar.
 
-###### Art. 11.º A conveniência de se constituírem grupos de trabalho, bem como a escolha dos seus componentes, poderá ser decidida por votação dos membros da Comissão Nacional do Frio, cabendo ao presidente voto de qualidade.
+Art. 11.º A conveniência de se constituírem grupos de trabalho, bem como a escolha dos seus componentes, poderá ser decidida por votação dos membros da Comissão Nacional do Frio, cabendo ao presidente voto de qualidade.
 
-###### Art. 12.º - 1. Sempre que na promoção e execução de estudos técnicos ou económicos a comissão executiva entenda conveniente, poderá a Comissão Nacional do Frio solicitar para o efeito a colaboração de outras entidades, incluindo consultores privados, nacionais ou estrangeiros.
+Art. 12.º - 1. Sempre que na promoção e execução de estudos técnicos ou económicos a comissão executiva entenda conveniente, poderá a Comissão Nacional do Frio solicitar para o efeito a colaboração de outras entidades, incluindo consultores privados, nacionais ou estrangeiros.
 
 2. O disposto no número precedente pode ser adoptado, aquando da elaboração de determinados pareceres, designadamente os referentes à atribuição de auxílios financeiros previstos no [Decreto-Lei n.º 237/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1971-643954), relativamente à instalação do frio, sem prejuízo, quanto a essa atribuição, de ser sempre ouvido o representante do Ministério das Finanças.
 
 3. A instrução processual e a elaboração dos estudos que permitam esclarecer o enquadramento económico-social de cada caso, para efeito dos auxílios referidos no número anterior, situam-se fora do âmbito das funções da Comissão Nacional do Frio.
 
-**O Ministro da Economia, João Augusto Dias Rosas.**
+O Ministro da Economia, João Augusto Dias Rosas.

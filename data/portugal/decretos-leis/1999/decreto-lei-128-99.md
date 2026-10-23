@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/093a00/21092110.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/128/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1999-534590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:05:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce4d14038d2d6c090303c76c5fff3a1a4cdc7b92eacbfb00c0eae93e566388cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3d88a7e270ab8f46c1b966376572fa20c635f693c8f3fe2cf8037d6720a963e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:05:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- AÇO
 - Certificado de Conformidade
-- Multa
-- Sistema Português da Qualidade
+- Comércio
 - Contra-ordenação
 - Fiscalização
 - Instituto Português da Qualidade
-- Normas de Segurança
-- AÇO
 - Material de Construção
-- Comércio
+- Multa
 - Normalização
+- Normas de Segurança
+- Sistema Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:628781:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309003:por
+  label: "Suspensa, pelo prazo de 90 dias, a aplicação do presente diploma pelo DEC LEI.215/99.1999.06.15.MECO, DR.IS-A [137]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1999-309003
+  date: '1999-06-15'
+- type: amended_by
+  target: pt:dre:694221:por
+  label: "Alterado o nº 1 do art. 2º pelo DEC LEI.441/99.1999.11.02.MECO, DR.IS-A [255]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/441-1999-694221
+  date: '1999-11-02'
 - type: cites
   target: celex:31989L0106
   label: null
@@ -89,16 +100,22 @@ relationships:
   target: eli:/application/external/tratado
   label: null
   source: /application/external/tratado
+- type: repealed_by
+  target: pt:dre:628781:por
+  label: "Revogado o presente diploma, alterado pelo Dec Lei 441/99, de 02-Nov, pelo DEC LEI.390/2007.10.12.2007.MEI, DR.IS\
+    \ [237] de 10.12.2007, a partir da sua entrada em vigor (180 dias após 10.12.2007)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-2007-628781
+  date: '2007-12-10'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:05:59Z'
   warnings: []
   errors: []
 ---
@@ -165,12 +182,12 @@ d) Em 10% para a Direcção-Geral da Indústria.
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 7 de Abril de 1999.**
+Promulgado em 7 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

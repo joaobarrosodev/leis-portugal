@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/059a00/21122129.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2002/03/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2002-250610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddbbf2f0e6f3d1951cfe3131cb3701f5b76f3a5608af275b5fb192b486efe3d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b473f59677c55a8c187f51ad16ce4b4d3467e772525dcd6c0ae83d2abc174c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Turismo de Natureza
 - Licenciamento
 - Regime Jurídico
+- Turismo
+- Turismo de Natureza
 relationships:
 - type: amended_by
   target: pt:dre:247248:por
@@ -110,16 +110,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/37/1997/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/37/1997/09/25/p/dre
+- type: cites
+  target: pt:dre:156003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247248:por
+  label: "Revogado, com excepção das disposições referentes à animação ambiental constantes dos nºs 2 e 3 do art. 2º e dos\
+    \ arts. 8º, 9º, e 12º, o Dec Lei 47/99 de 16-Fev, na redacção do presente diploma (revogado na mesma data), pelo DEC LEI.39/2008.07.03.2008.MEI,\
+    \ DR.IS [48] de 07.03.2008, com a entrada em vigor das portarias nele previstas \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2008-247248
+  date: '2008-03-07'
 article_structure:
-  article_count: 100
+  article_count: 74
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:03Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +207,9 @@ d) Vistoriar as casas de natureza para efeitos da sua classificação, revisão 
 
 e) Aprovar o nome e a classificação das casas de natureza.
 
-###### Artigo 11.º — Competência dos órgãos municipais
+Artigo 11.º
+
+Competência dos órgãos municipais
 
 1 - Para efeitos do presente diploma, compete à câmara municipal, sem prejuízo de outras competências atribuídas por lei:
 
@@ -178,11 +223,15 @@ d) Apreender o alvará de licença ou de autorização de utilização para casa
 
 2 - Para efeitos do presente diploma, compete ao presidente da câmara municipal emitir o alvará de licença ou de autorização de utilização para casas de natureza.
 
-###### Artigo 13.º — Instalação
+Artigo 13.º
+
+Instalação
 
 Sem prejuízo do disposto no n.º 1 do artigo seguinte, para efeitos do presente diploma, considera-se instalação de casas de natureza o processo de licenciamento ou de autorização para a realização de operações urbanísticas relativas à construção e ou utilização de edifícios ou suas fracções destinados ao funcionamento daquelas casas.
 
-###### Artigo 14.º — Regime aplicável
+Artigo 14.º
+
+Regime aplicável
 
 1 - ...
 
@@ -200,7 +249,9 @@ Sem prejuízo do disposto no n.º 1 do artigo seguinte, para efeitos do presente
 
 8 - Para os efeitos do disposto nos n.os 2 e 3 do artigo 19.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, os pareceres da Direcção-Geral do Turismo e do Instituto da Conservação da Natureza, emitidos, respectivamente, ao abrigo do disposto nos artigos 16.º, 18.º, 19.º e 23.º, são obrigatoriamente comunicados por aquelas entidades à câmara municipal competente.
 
-###### Artigo 16.º — Consulta à Direcção-Geral do Turismo
+Artigo 16.º
+
+Consulta à Direcção-Geral do Turismo
 
 1 - Sempre que a Direcção-Geral do Turismo deva emitir parecer sobre o licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza, a câmara municipal deve consultar aquela entidade no âmbito da apreciação do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de dez dias após a recepção do requerimento referido no artigo anterior.
 
@@ -218,7 +269,9 @@ c) A apreciação da localização das casas de natureza, quando estas não se s
 
 5 - ...
 
-###### Artigo 18.º — Consulta ao Instituto da Conservação da Natureza
+Artigo 18.º
+
+Consulta ao Instituto da Conservação da Natureza
 
 1 - Sempre que o Instituto da Conservação da Natureza deva emitir parecer sobre o licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza, nos termos do disposto no n.º 1 do artigo 23.º, a câmara municipal deve consultar aquela entidade no âmbito da apreciação do pedido de informação prévia, remetendo-lhe para o efeito a documentação necessária no prazo de 10 dias após a recepção do requerimento referido no artigo anterior.
 
@@ -234,9 +287,13 @@ b) ...
 
 5 - ...
 
-#### SECÇÃO III — Licenciamento ou autorização de operações urbanísticas
+SECÇÃO III
 
-###### Artigo 19.º — Parecer da Direcção-Geral do Turismo
+Licenciamento ou autorização de operações urbanísticas
+
+Artigo 19.º
+
+Parecer da Direcção-Geral do Turismo
 
 1 - O deferimento pela câmara municipal do pedido de licenciamento ou a autorização para a realização de obras de edificação referentes a casas de natureza carece sempre de parecer da Direcção-Geral do Turismo sobre o projecto de arquitectura.
 
@@ -256,7 +313,9 @@ c) A apreciação da localização das casas de natureza, quando estas não se s
 
 6 - ...
 
-###### Artigo 23.º — Parecer do Instituto da Conservação da Natureza
+Artigo 23.º
+
+Parecer do Instituto da Conservação da Natureza
 
 1 - O deferimento pela câmara municipal do pedido do licenciamento ou de autorização para a realização de obras de edificação referentes a casas de natureza carece de parecer do Instituto da Conservação da Natureza sobre o projecto de arquitectura, se este não se tiver pronunciado no âmbito do pedido de informação prévia.
 
@@ -270,7 +329,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 24.º — Obras isentas ou dispensadas de licença municipal
+Artigo 24.º
+
+Obras isentas ou dispensadas de licença municipal
 
 1 - Carecem de autorização da Direcção-Geral do Turismo as obras previstas nas alíneas a) e b) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, quando as mesmas forem realizadas no interior das casas de natureza, desde que:
 
@@ -286,9 +347,13 @@ b) ...
 
 5 - ...
 
-#### SECÇÃO IV — Licenciamento ou autorização da utilização
+SECÇÃO IV
 
-###### Artigo 25.º — Licença ou autorização de utilização para casas de natureza
+Licenciamento ou autorização da utilização
+
+Artigo 25.º
+
+Licença ou autorização de utilização para casas de natureza
 
 1 - Concluída a obra e equipada a casa em condições de iniciar o seu funcionamento, o interessado requer a concessão da licença ou da autorização de utilização para casas de natureza dos edifícios novos, reconstruídos, ampliados ou alterados, ou das fracções autónomas cujas obras tenham sido licenciadas ou autorizadas nos termos do presente diploma.
 
@@ -298,7 +363,9 @@ b) ...
 
 4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização é o constante da alínea b) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
 
-###### Artigo 26.º — Vistoria
+Artigo 26.º
+
+Vistoria
 
 1 - A vistoria deve realizar-se no prazo de 30 dias a contar da data da apresentação do requerimento referido no n.º 1 do artigo anterior e, sempre que possível, em data a acordar com o interessado.
 
@@ -326,17 +393,23 @@ f) Um representante de outra associação patronal do sector, no caso do requere
 
 7 - Quando o auto de vistoria conclua em sentido desfavorável ou quando seja desfavorável o voto, fundamentado, do elemento referido na alínea b) do n.º 2, não pode ser concedida a licença ou a autorização de utilização para casas de natureza.
 
-###### Artigo 27.º — Alvará de licença ou de autorização de utilização para casas de natureza
+Artigo 27.º
+
+Alvará de licença ou de autorização de utilização para casas de natureza
 
 1 - Concedida a licença ou a autorização de utilização para casas de natureza, o titular requer ao presidente da câmara municipal a emissão do alvará que a titula, o qual deve ser emitido no prazo de 30 dias a contar da data da recepção do respectivo requerimento.
 
 2 - A emissão do alvará deve ser notificada ao requerente, por correio registado, no prazo de oito dias a contar da data da sua decisão.
 
-###### Artigo 28.º — Funcionamento das casas de natureza
+Artigo 28.º
+
+Funcionamento das casas de natureza
 
 O funcionamento das casas de natureza depende apenas da titularidade do alvará de licença ou de autorização de utilização para casas de natureza, emitido nos termos do disposto no artigo anterior, o qual constitui, relativamente a estes empreendimentos, o alvará de licença ou autorização de utilização previsto nos artigos 62.º e 74.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Artigo 29.º — Especificações do alvará
+Artigo 29.º
+
+Especificações do alvará
 
 1 - O alvará de licença ou de autorização de utilização para casas de natureza deve especificar, para além dos elementos referidos no n.º 5 do artigo 77.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, os seguintes:
 
@@ -350,11 +423,15 @@ d) A capacidade máxima das casas de natureza provisoriamente fixada pela Direc�
 
 2 - Sempre que haja alteração de qualquer dos elementos constantes do alvará, a entidade titular da licença ou da autorização de utilização para casas de natureza ou a entidade exploradora das mesmas deve, para efeitos de averbamento, comunicar o facto à câmara municipal no prazo de 30 dias a contar da data do mesmo, enviando cópia à Direcção-Geral do Turismo.
 
-###### Artigo 30.º — Modelo de alvará de licença ou autorização de utilização para casas de natureza
+Artigo 30.º
+
+Modelo de alvará de licença ou autorização de utilização para casas de natureza
 
 O modelo de alvará de licença ou de autorização de utilização para casas de natureza é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente e do ordenamento do território e do turismo.
 
-###### Artigo 31.º — Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
+Artigo 31.º
+
+Alteração da utilização e concessão de licença ou autorização de utilização em edifícios sem anterior título de utilização
 
 1 - Se for requerida a alteração ao uso fixado em anterior licença ou autorização de utilização para permitir que o edifício, ou sua fracção, se destine à instalação de uma casa de natureza ou quando se pretender utilizar total ou parcialmente edifícios que não possuam licença ou autorização de utilização para neles se proceder à instalação daqueles empreendimentos, a câmara municipal deve consultar a Direcção-Geral do Turismo e o Instituto da Conservação da Natureza, aplicando-se aos pareceres destas entidades, com as necessárias adaptações, o disposto nos artigos 19.º e 23.º
 
@@ -364,7 +441,9 @@ O modelo de alvará de licença ou de autorização de utilização para casas d
 
 4 - O prazo para deliberação sobre a concessão da licença ou autorização de utilização ou de alteração da utilização é o constante da alínea b) do n.º 1 do artigo 30.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, no caso de se tratar de procedimento de autorização, e o previsto na alínea d) do n.º 1 do artigo 23.º do mesmo diploma, no caso de se tratar de procedimento de licenciamento, a contar em ambos os casos a partir da data da realização da vistoria ou do termo do prazo para a sua realização.
 
-###### Artigo 32.º — Caducidade da licença ou da autorização de utilização para casas de natureza
+Artigo 32.º
+
+Caducidade da licença ou da autorização de utilização para casas de natureza
 
 1 - A licença ou a autorização de utilização para casas de natureza caduca:
 
@@ -382,15 +461,21 @@ e) Quando, por qualquer motivo, as casas de natureza não puderem ser classifica
 
 3 - A apreensão do alvará tem lugar na sequência de notificação ao respectivo titular, sendo em seguida encerrada a casa de natureza.
 
-###### Artigo 33.º — Intimação judicial para a prática de acto legalmente devido
+Artigo 33.º
+
+Intimação judicial para a prática de acto legalmente devido
 
 Decorridos os prazos para a prática de qualquer acto especialmente regulado no presente diploma sem que o mesmo se mostre praticado, aplica-se às casas de natureza, com as necessárias adaptações, o disposto nos artigos 111.º, 112.º e 113.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro.
 
-###### Artigo 34.º — Legitimidade para proceder à intimação judicial para a prática de acto legalmente devido
+Artigo 34.º
+
+Legitimidade para proceder à intimação judicial para a prática de acto legalmente devido
 
 Para efeito do disposto no artigo anterior, as associações patronais do sector do turismo que tenham personalidade jurídica podem intentar, em nome dos seus associados, os pedidos de intimação nele previstos.
 
-###### Artigo 35.º — Requerimento
+Artigo 35.º
+
+Requerimento
 
 1 - No prazo de dois meses a contar da data da emissão do alvará de licença ou de autorização de utilização para casas de natureza ou da abertura da casa nos termos do disposto no artigo 33.º, o interessado deve requerer à Direcção-Geral do Turismo a aprovação definitiva da classificação das casas de natureza.
 
@@ -398,7 +483,9 @@ Para efeito do disposto no artigo anterior, as associações patronais do sector
 
 3 - ...
 
-###### Artigo 37.º — Classificação
+Artigo 37.º
+
+Classificação
 
 1 - ...
 
@@ -406,7 +493,9 @@ Para efeito do disposto no artigo anterior, as associações patronais do sector
 
 3 - A classificação e a capacidade máxima definitivas das casas de natureza são averbadas ao alvará de licença ou de autorização de utilização para casas de natureza, devendo para o efeito a Direcção-Geral do Turismo comunicar o facto à câmara municipal.
 
-###### Artigo 39.º — Revisão da classificação
+Artigo 39.º
+
+Revisão da classificação
 
 1 - ...
 
@@ -422,13 +511,17 @@ Para efeito do disposto no artigo anterior, as associações patronais do sector
 
 7 - ...
 
-###### Artigo 42.º — Regime de exploração das casas de natureza
+Artigo 42.º
+
+Regime de exploração das casas de natureza
 
 1 - ...
 
 2 - As casas de natureza apenas podem ser exploradas pelo Instituto da Conservação da Natureza, pelas autarquias locais, por associações de desenvolvimento local, por pessoas singulares ou pequenas e médias empresas.
 
-###### Artigo 57.º — Contra-ordenações
+Artigo 57.º
+
+Contra-ordenações
 
 1 - Para além das previstas nos regulamentos a que se refere o n.º 3 do artigo 2.º e das estabelecidas no artigo 98.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, de 4 de Junho, constituem contra-ordenações:
 
@@ -480,7 +573,9 @@ s) A violação do disposto no n.º 2 do artigo 65.º
 
 7 - ...
 
-###### Artigo 58.º — Sanções acessórias
+Artigo 58.º
+
+Sanções acessórias
 
 1 - ...
 
@@ -494,7 +589,9 @@ s) A violação do disposto no n.º 2 do artigo 65.º
 
 6 - ...
 
-###### Artigo 60.º — Competência sancionatória
+Artigo 60.º
+
+Competência sancionatória
 
 1 - ...
 
@@ -502,7 +599,9 @@ s) A violação do disposto no n.º 2 do artigo 65.º
 
 3 - A aplicação das coimas e das sanções acessórias previstas no regime jurídico da urbanização e da edificação, da competência da câmara municipal, é exercida pelo presidente da câmara.
 
-###### Artigo 63.º — Interdição de utilização
+Artigo 63.º
+
+Interdição de utilização
 
 O director-geral do Turismo é competente para determinar a interdição temporária da utilização de partes individualizadas, instalações ou equipamentos das casas de natureza, sem prejuízo das competências atribuídas às autoridades de saúde pelo [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, nessa matéria, pelo seu deficiente estado de conservação ou pela falta de cumprimento do disposto no presente diploma e nos regulamentos a que se refere o n.º 3 do artigo 2.º, que sejam susceptíveis de pôr em perigo a saúde pública ou a segurança dos utentes.»
 
@@ -518,17 +617,19 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Visto e aprovado em Conselho de Ministros de 13 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 14 de Fevereiro de 2002.**
+Promulgado em 14 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Fevereiro de 2002.**
+Referendado em 22 de Fevereiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -1180,7 +1281,9 @@ b) Proceder à organização e instrução dos processos referentes às contra-o
 
 2 - No âmbito da sua actividade de inspecção, a Direcção-Geral do Turismo pode recorrer a entidades públicas ou a entidades privadas acreditadas junto desta nas áreas dos serviços, equipamentos e infra-estruturas existentes nas casas de natureza.
 
-###### Artigo 55.º — Livro de reclamações
+###### Artigo 55.º
+
+## Livro de reclamações
 
 1 - Em todas as casas de natureza deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 

@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/90-1982-379905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T06:06:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a96c34a442128f3819712ba24b7545dc1a5d31c472690b55b98d71755b94d6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b132c16729244ee507917a9b6ac1abf6e807dc992cb6d15b7575aa13b2f46d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:06:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciatura
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:376835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:662686:por
+  label: "Alterado o curso de licenciatura em Engenharia Electrotécnica, pela PORT.115/87.20.02.1987.MEC, DR.IS [43] de 20.02.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-1987-662686
+  date: '1987-02-20'
+- type: amended_by
+  target: pt:dre:376835:por
+  label: "Alterada a designação do curso de licenciatura em Engenharia de Construção Naval pela PORT.549/88.1988.08.13.ME,\
+    \ DR.IS [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/549-1988-376835
+  date: '1988-08-13'
+- type: cites
+  target: pt:dre:147199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474690:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:06:37Z'
   warnings: []
   errors: []
 ---
@@ -194,8 +224,8 @@ As dúvidas suscitadas na aplicação do presente diploma serão esclarecidas po
 
 Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.
 
-**Promulgado em 9 de Novembro de 1982.**
+Promulgado em 9 de Novembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

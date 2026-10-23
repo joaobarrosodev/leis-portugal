@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/8/2000/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2000-402091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b748ed458d4a619c759338a89f80638d835e965d6694dba90c64dd255cdca31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdaa8ca35c909215e7bbb82fb09c41f3f9bfe2767aacf84cde503a4dfbace307
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,23 @@ relationships:
   target: celex:31998L0030
   label: null
   source: http://data.europa.eu/eli/dir/1998/30/oj
+- type: repealed_by
+  target: pt:dre:683858:por
+  label: "Revogado o Dec Lei 374/89 de 25-Out, com a redacção dada pelo presente diploma, pelo DEC LEI.30/2006.15.02.2006.MEI,\
+    \ DR.IS-A [33] de 15.02.2006, que lhe mantém, contudo, a vigência nas matérias que não forem incompatíveis com o citado\
+    \ Dec Lei 30/2006 até à entrada em vigor da respectiva legislação complementar.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-2006-683858
+  date: '2006-02-15'
 article_structure:
-  article_count: 44
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:23:12Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +171,9 @@ b) Média pressão - a pressão de serviço igual ou inferior a 20 bar e superio
 
 c) Baixa pressão - a pressão de serviço igual ou inferior a 4 bar.
 
-###### Artigo 2.º — Definição e formas de exercício
+Artigo 2.º
+
+Definição e formas de exercício
 
 1 - As actividades a que se refere o artigo anterior são exercidas, mediante concessão ou licença, por empresas legalmente constituídas e para o efeito vocacionadas.
 
@@ -176,7 +185,9 @@ c) Baixa pressão - a pressão de serviço igual ou inferior a 4 bar.
 
 5 - As empresas concessionárias ou licenciadas podem, temporária e supletivamente, distribuir e fornecer quaisquer gases combustíveis canalizados, designadamente gases de substituição do gás natural, em conformidade com o que for determinado nos respectivos contratos de concessão ou nas respectivas licenças.
 
-###### Artigo 10.º — Definição de servidões
+Artigo 10.º
+
+Definição de servidões
 
 1 - ...
 
@@ -210,7 +221,9 @@ c) No caso de redes de distribuição de baixa pressão, as restrições estabel
 
 5 - ...
 
-###### Artigo 11.º — Indemnização e sinalização das servidões
+Artigo 11.º
+
+Indemnização e sinalização das servidões
 
 1 - O pagamento das indemnizações resultantes da constituição de servidões ou da expropriação de direitos fica, por inteiro, a cargo da entidade concessionária ou licenciada.
 
@@ -218,7 +231,9 @@ c) No caso de redes de distribuição de baixa pressão, as restrições estabel
 
 3 - Os sinalizadores a que se refere o número anterior são considerados para todos os efeitos legais como marcos delimitadores das servidões.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 São objecto de regulamentação autónoma:
 
@@ -230,7 +245,7 @@ c) [Antiga alínea b).]
 
 d) [Antiga alínea c).]
 
-###### Artigo 2.º
+Artigo 2.º
 
 São aditados ao Decreto-Lei n.º 374/89, de 25 de Outubro, alterado pelos Decretos-Leis n.os 274-A/93, de 4 de Agosto, e 232/90, de 16 de Julho, novos artigos, 10.º-A, 11.º-A, 11.º-B, 11.º-C, 11.º-D, 11.º-E, 11.º-F, 11.º-G, 11.º-H, 11.º-I e 11.º-J, com a seguinte redacção:
 
@@ -254,13 +269,17 @@ c) Ocupar temporariamente quaisquer terrenos que sejam necessários para a execu
 
 5 - As rendas de indemnização a que se referem os n.os 3 e 4 são devidas enquanto a servidão ou a ocupação perdurar e a concessionária não desocupar os terrenos e não os repuser, na medida do possível, no estado em que se encontravam anteriormente à constituição da servidão ou ocupação.
 
-###### Artigo 11.º-A — Atribuição de licenças
+Artigo 11.º-A
+
+Atribuição de licenças
 
 1 - Compete ao Ministro da Economia atribuir licenças para a distribuição e fornecimento de gás natural em regime de serviço público em zonas de território nacional não abrangidas pelas concessões de distribuição regional.
 
 2 - As condições para a atribuição das licenças, nomeadamente os requisitos técnicos e financeiros que devem ser respeitados pelas entidades licenciadas, são regulamentadas por portaria do Ministro da Economia.
 
-###### Artigo 11.º-B — Classificação das licenças
+Artigo 11.º-B
+
+Classificação das licenças
 
 As licenças para distribuição e fornecimento de gás natural classificam-se em:
 
@@ -270,7 +289,9 @@ b) Licenças para exploração de postos de enchimento;
 
 c) Licenças para exploração de distribuição privativa.
 
-###### Artigo 11.º-C — Natureza das licenças para exploração de redes locais autónomas
+Artigo 11.º-C
+
+Natureza das licenças para exploração de redes locais autónomas
 
 1 - As licenças para exploração de redes locais autónomas compreendem a distribuição e o fornecimento de gás natural, ou dos seus gases de substituição, a pólos de consumo.
 
@@ -282,7 +303,9 @@ c) Licenças para exploração de distribuição privativa.
 
 5 - As actividades que integram as licenças definidas por este artigo são exercidas em regime de serviço público, gozando de direitos e obrigações em tudo idênticos aos que a lei confere às exercidas sob concessão.
 
-###### Artigo 11.º-D — Condições para a atribuição de licenças de redes locais autónomas
+Artigo 11.º-D
+
+Condições para a atribuição de licenças de redes locais autónomas
 
 1 - As licenças para exploração de redes locais autónomas devem ser atribuídas a sociedades que comprovem experiência e capacidade técnico-financeira e de gestão e ainda, tendo em conta a área a desenvolver, demonstrem real adaptação e interesse na prossecução do serviço público a licenciar.
 
@@ -304,17 +327,23 @@ c) Outras sociedades que demonstrem possuir capacidade técnica, financeira e de
 
 7 - A portaria a que se refere o n.º 2 do artigo 11.º-A estabelecerá, nos casos previstos n.º 4 do presente artigo, as condições de transição para a empresa a quem venha a ser atribuída licença prevista no presente diploma.
 
-###### Artigo 11.º-E — Duração das licenças de exploração de redes locais autónomas
+Artigo 11.º-E
+
+Duração das licenças de exploração de redes locais autónomas
 
 A duração da licença é estabelecida por um prazo máximo de 20 anos, tendo em conta, designadamente, o plano de expansão do sistema de gás natural e a amortização dos custos de construção, instalação e desenvolvimento da respectiva rede.
 
-###### Artigo 11.º-F — Transmissão da licença
+Artigo 11.º-F
+
+Transmissão da licença
 
 1 - As licenças de redes locais autónomas podem ser transmitidas mediante autorização do Ministro da Economia, em condições a definir na portaria a que se refere o n.º 2 do artigo 11.º-A.
 
 2 - A transmissão das licenças fica sujeita à verificação e manutenção dos pressupostos que determinaram a sua atribuição.
 
-###### Artigo 11.º-G — Extinção das licenças
+Artigo 11.º-G
+
+Extinção das licenças
 
 1 - A licença extingue-se por caducidade ou por revogação.
 
@@ -326,7 +355,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 3 - A revogação da licença dá-se sempre que o seu titular falte, culposamente, ao cumprimento das condições estabelecidas, nomeadamente no que se refere à regularidade, à qualidade e à segurança da prestação do serviço.
 
-###### Artigo 11.º-H — Reversão dos bens
+Artigo 11.º-H
+
+Reversão dos bens
 
 1 - Com a extinção da licença para a exploração de uma rede local autónoma, os bens integrantes da respectiva rede e instalação, incluindo as instalações de GNL, podem reverter a favor do Estado ou da concessionária de distribuição regional em cuja área vier a integrar-se a rede licenciada.
 
@@ -334,7 +365,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 3 - A indemnização a que se refere o número anterior deverá cobrir outros danos directamente resultantes da caducidade operada por força do previsto na alínea b) do n.º 2 do artigo anterior.
 
-###### Artigo 11.º-I — Licenças para a exploração de postos de enchimento
+Artigo 11.º-I
+
+Licenças para a exploração de postos de enchimento
 
 1 - As licenças para exploração de postos de enchimento podem ser requeridas por quaisquer entidades que demonstrem possuir a necessária capacidade técnica e financeira.
 
@@ -348,7 +381,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 6 - É aplicável às licenças de postos de enchimento, com as devidas adaptações, o disposto nos artigos 11.º-F e 11.º-G e nos n.os 4 e 5 do artigo seguinte.
 
-###### Artigo 11.º-J — Licenças para exploração de distribuição privativa
+Artigo 11.º-J
+
+Licenças para exploração de distribuição privativa
 
 1 - As licenças para exploração de distribuição privativa podem ser requeridas por quaisquer entidades que justifiquem o respectivo interesse, para abastecimento próprio ou para cedência ou fornecimento a terceiros, devidamente identificados, desde que se verifiquem as seguintes condições:
 
@@ -366,11 +401,11 @@ b) Que a entidade requerente se submeta ao cumprimento das condições impostas 
 
 6 - A obrigação a que se refere o número anterior não se verifica se houver lugar à transmissão das instalações para uma concessionária ou para uma entidade titular de uma licença para exploração de uma rede local autónoma.»
 
-###### Artigo 3.º
+Artigo 3.º
 
 Os artigos 12.º, 13.º e 14.º do Decreto-Lei n.º 374/89, de 25 de Outubro, alterado pelos Decretos-Leis n.os 274-A/93, de 4 de Agosto, e 232/90, de 16 de Julho, ficam revogados com a entrada em vigor do diploma que procede à revisão do Decreto-Lei n.º 232/90, de 16 de Julho.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os artigos 11.º-A a 11.º-J passam a constituir o capítulo IV do Decreto-Lei n.º 374/89, de 25 de Outubro, com a epígrafe «Regime das licenças».
 
@@ -378,21 +413,27 @@ Os artigos 12.º, 13.º e 14.º do Decreto-Lei n.º 374/89, de 25 de Outubro, al
 
 Visto e aprovado em Conselho de Ministros de 18 de Novembro de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 23 de Dezembro de 1999.**
+Promulgado em 23 de Dezembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Dezembro de 1999.**
+Referendado em 30 de Dezembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — Republicação
+ANEXO
 
-### CAPÍTULO I — Âmbito de aplicação, definição e forma de exercício
+Republicação
 
-###### Artigo 1.º — Âmbito
+CAPÍTULO I
+
+Âmbito de aplicação, definição e forma de exercício
+
+Artigo 1.º
+
+Âmbito
 
 1 - O presente diploma define o regime do exercício das actividades de transporte e importação de gás natural, no estado gasoso ou liquefeito, e de distribuição de gás natural e dos seus gases de substituição.
 
@@ -428,7 +469,9 @@ b) Média pressão - a pressão de serviço igual ou inferior a 20 bar e superio
 
 c) Baixa pressão - a pressão de serviço igual ou inferior a 4 bar.
 
-###### Artigo 2.º — Definição e formas de exercício
+Artigo 2.º
+
+Definição e formas de exercício
 
 1 - As actividades a que se refere o artigo anterior são exercidas, mediante concessão ou licença, por empresas legalmente constituídas e para o efeito vocacionadas.
 
@@ -440,13 +483,19 @@ c) Baixa pressão - a pressão de serviço igual ou inferior a 4 bar.
 
 5 - As empresas concessionárias ou licenciadas podem, temporária e supletivamente, distribuir e fornecer quaisquer gases combustíveis canalizados, designadamente gases de substituição do gás natural, em conformidade com o que for determinado nos respectivos contratos de concessão ou nas respectivas licenças.
 
-### CAPÍTULO II — Regime da concessão
+CAPÍTULO II
 
-###### Artigo 3.º — Aprovação das concessões
+Regime da concessão
+
+Artigo 3.º
+
+Aprovação das concessões
 
 É da competência do Conselho de Ministros a aprovação das concessões a atribuir nos termos do artigo seguinte, estabelecendo a natureza e o âmbito das mesmas.
 
-###### Artigo 4.º — Atribuição das concessões
+Artigo 4.º
+
+Atribuição das concessões
 
 É da competência do Conselho de Ministros a atribuição das concessões aprovadas para a exploração dos serviços de:
 
@@ -454,7 +503,9 @@ a) Importação de gás natural e seu transporte e fornecimento através da rede
 
 b) Distribuição e fornecimento de gás natural através das redes regionais de baixa pressão.
 
-###### Artigo 5.º — Construção, manutenção e reparação das instalações, gasodutos e redes de distribuição
+Artigo 5.º
+
+Construção, manutenção e reparação das instalações, gasodutos e redes de distribuição
 
 1 - A construção, manutenção e reparação das instalações, gasodutos e redes de distribuição do gás que integrem os projectos das concessionárias serão efectuadas por estas, que suportarão os respectivos custos.
 
@@ -462,7 +513,9 @@ b) Distribuição e fornecimento de gás natural através das redes regionais de
 
 3 - A garantia do seguro mencionado no número anterior terá um valor mínimo obrigatório, estabelecido até 31 de Janeiro de cada ano civil, através de portaria do Ministro da Economia.
 
-###### Artigo 6.º — Concurso público e ajuste directo
+Artigo 6.º
+
+Concurso público e ajuste directo
 
 1 - A adjudicação das concessões a que se refere o presente diploma é precedida de ajuste directo ou de concurso público.
 
@@ -472,7 +525,9 @@ b) Distribuição e fornecimento de gás natural através das redes regionais de
 
 4 - O ajuste directo e o concurso público a que referem os números anteriores são realizados por determinação do Ministro da Economia.
 
-###### Artigo 7.º — Duração da concessão
+Artigo 7.º
+
+Duração da concessão
 
 1 - A duração da concessão será estabelecida de acordo com a sua natureza, não podendo exceder 40 anos contados a partir da publicação do acto que a outorgar.
 
@@ -480,21 +535,29 @@ b) Distribuição e fornecimento de gás natural através das redes regionais de
 
 3 - A concessão poderá ser renovada se o interesse público assim o justificar e a concessionária estiver a cumprir as obrigações emergentes do contrato de concessão.
 
-###### Artigo 8.º — Reversão dos bens no termo da concessão
+Artigo 8.º
+
+Reversão dos bens no termo da concessão
 
 1 - No termo da concessão os bens integrantes da mesma revertem a favor do Estado.
 
 2 - À concessionária será, então, devido o pagamento de indemnização.
 
-###### Artigo 9.º — Cedência, oneração da concessão e venda de bens dela integrantes
+Artigo 9.º
+
+Cedência, oneração da concessão e venda de bens dela integrantes
 
 1 - É interdito à concessionária fazer a cessão da concessão, aliená-la ou de qualquer modo onerá-la, no todo ou em qualquer das suas partes, sem prévia autorização do Governo.
 
 2 - Os actos de cessão da concessão, alienação e oneração praticados pela concessionária sem autorização do Governo são considerados inexistentes.
 
-### CAPÍTULO III — Servidões e indemnizações
+CAPÍTULO III
 
-###### Artigo 10.º — Definição de servidões
+Servidões e indemnizações
+
+Artigo 10.º
+
+Definição de servidões
 
 1 - Entende-se que as servidões devidas à passagem do gás combustível compreendem a ocupação do solo e subsolo, devendo os gasodutos subterrâneos ser instalados à profundidade determinada pelos regulamentos e respectivas normas técnicas de segurança.
 
@@ -528,7 +591,9 @@ c) No caso de redes de distribuição de baixa pressão, as restrições estabel
 
 5 - A ocupação temporária de terrenos para depósitos de materiais e equipamento necessários à colocação dos gasodutos, sua reparação ou renovação não poderá exceder 18 m de largura, numa faixa sobre as tubagens.
 
-###### Artigo 11.º — Indemnização e sinalização das servidões
+Artigo 11.º
+
+Indemnização e sinalização das servidões
 
 1 - O pagamento das indemnizações resultantes da constituição de servidões ou da expropriação de direitos fica, por inteiro, a cargo da entidade concessionária ou licenciada.
 
@@ -536,7 +601,9 @@ c) No caso de redes de distribuição de baixa pressão, as restrições estabel
 
 3 - Os sinalizadores a que se refere o número anterior são considerados para todos os efeitos legais como marcos delimitadores das servidões.
 
-###### Artigo 12.º — Direitos e deveres aplicáveis à armazenagem subterrânea
+Artigo 12.º
+
+Direitos e deveres aplicáveis à armazenagem subterrânea
 
 1 - Para além dos direitos de expropriação previstos no artigo anterior e na legislação específica aplicável, são reconhecidos à concessionária do serviço público de importação, transporte e fornecimento de gás natural, adiante designada por concessionária, com vista à construção e operações das instalações de armazenagem subterrânea de gás natural, os seguintes direitos:
 
@@ -554,15 +621,21 @@ c) Ocupar temporariamente quaisquer terrenos que sejam necessários para a execu
 
 5 - As rendas de indemnização a que se referem os n.os 3 e 4 são devidas enquanto a servidão ou a ocupação perdurar e a concessionária não desocupar os terrenos e não os repuser, na medida do possível, no estado em que se encontravam anteriormente à constituição da servidão ou ocupação.
 
-### CAPÍTULO IV — Regime de licenças
+CAPÍTULO IV
 
-###### Artigo 13.º — Atribuição de licenças
+Regime de licenças
+
+Artigo 13.º
+
+Atribuição de licenças
 
 1 - Compete ao Ministro da Economia atribuir licenças para a distribuição e fornecimento de gás natural em regime de serviço público em zonas de território nacional não abrangidas pelas concessões de distribuição regional.
 
 2 - As condições para a atribuição das licenças, nomeadamente os requisitos técnicos e financeiros que devem ser respeitados pelas entidades licenciadas, são regulamentadas por portaria do Ministro da Economia.
 
-###### Artigo 14.º — Classificação das licenças
+Artigo 14.º
+
+Classificação das licenças
 
 As licenças para distribuição e fornecimento de gás natural classificam-se em:
 
@@ -572,7 +645,9 @@ b) Licenças para exploração de postos de enchimento;
 
 c) Licenças para exploração de distribuição privativa.
 
-###### Artigo 15.º — Natureza das licenças para exploração de redes locais autónomas
+Artigo 15.º
+
+Natureza das licenças para exploração de redes locais autónomas
 
 1 - As licenças para exploração de redes locais autónomas compreendem a distribuição e o fornecimento de gás natural, ou dos seus gases de substituição, a pólos de consumo.
 
@@ -584,7 +659,9 @@ c) Licenças para exploração de distribuição privativa.
 
 5 - As actividades que integram as licenças definidas por este artigo são exercidas em regime de serviço público, gozando de direitos e obrigações em tudo idênticos aos que a lei confere às exercidas sob concessão.
 
-###### Artigo 16.º — Condições para a atribuição de licenças de redes locais autónomas
+Artigo 16.º
+
+Condições para a atribuição de licenças de redes locais autónomas
 
 1 - As licenças para exploração de redes locais autónomas devem ser atribuídas a sociedades que comprovem experiência e capacidade técnico-financeira e de gestão e ainda, tendo em conta a área a desenvolver, demonstrem real adaptação e interesse na prossecução do serviço público a licenciar.
 
@@ -606,17 +683,23 @@ c) Outras sociedades que demonstrem possuir capacidade técnica, financeira e de
 
 7 - A portaria a que se refere o n.º 2 do artigo 13.º estabelecerá, nos casos previstos no n.º 4 do presente artigo, as condições de transição para a empresa a quem venha a ser atribuída licença prevista no presente diploma.
 
-###### Artigo 17.º — Duração das licenças de exploração de redes locais autónomas
+Artigo 17.º
+
+Duração das licenças de exploração de redes locais autónomas
 
 A duração da licença é estabelecida por um prazo máximo de 20 anos, tendo em conta, designadamente, o plano de expansão do sistema de gás natural e a amortização dos custos de construção, instalação e desenvolvimento da respectiva rede.
 
-###### Artigo 18.º — Transmissão da licença
+Artigo 18.º
+
+Transmissão da licença
 
 1 - As licenças de redes locais autónomas podem ser transmitidas mediante autorização do Ministro da Economia, em condições a definir na portaria a que se refere o n.º 2 do artigo 13.º
 
 2 - A transmissão das licenças fica sujeita à verificação e manutenção dos pressupostos que determinaram a sua atribuição.
 
-###### Artigo 19.º — Extinção das licenças
+Artigo 19.º
+
+Extinção das licenças
 
 1 - A licença extingue-se por caducidade ou por revogação.
 
@@ -628,7 +711,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 3 - A revogação da licença dá-se sempre que o seu titular falte, culposamente, ao cumprimento das condições estabelecidas, nomeadamente no que se refere à regularidade, à qualidade e à segurança da prestação do serviço.
 
-###### Artigo 20.º — Reversão dos bens
+Artigo 20.º
+
+Reversão dos bens
 
 1 - Com a extinção da licença para a exploração de uma rede local autónoma, os bens integrantes da respectiva rede e instalação, incluindo as instalações de GNL, podem reverter a favor do Estado ou da concessionária de distribuição regional em cuja área vier a integrar-se a rede licenciada.
 
@@ -636,7 +721,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 3 - A indemnização a que se refere o número anterior deverá cobrir outros danos directamente resultantes da caducidade operada por força do previsto na alínea b) do n.º 2 do artigo anterior.
 
-###### Artigo 21.º — Licenças para a exploração de postos de enchimento
+Artigo 21.º
+
+Licenças para a exploração de postos de enchimento
 
 1 - As licenças para exploração de postos de enchimento podem ser requeridas por quaisquer entidades que demonstrem possuir a necessária capacidade técnica e financeira.
 
@@ -650,7 +737,9 @@ b) Pela integração do pólo de consumo objecto de licença no sistema nacional
 
 6 - É aplicável às licenças de postos de enchimento, com as devidas adaptações, o disposto nos artigos 18.º e 19.º e nos n.os 4 e 5 do artigo seguinte.
 
-###### Artigo 22.º — Licenças para exploração de distribuição privativa
+Artigo 22.º
+
+Licenças para exploração de distribuição privativa
 
 1 - As licenças para exploração de distribuição privativa podem ser requeridas por quaisquer entidades que justifiquem o respectivo interesse, para abastecimento próprio ou para cedência ou fornecimento a terceiros, devidamente identificados, desde que se verifiquem as seguintes condições:
 
@@ -668,9 +757,13 @@ b) Que a entidade requerente se submeta ao cumprimento das condições impostas 
 
 6 - A obrigação a que se refere o número anterior não se verifica se houver lugar à transmissão das instalações para uma concessionária ou para uma entidade titular de uma licença para exploração de uma rede local autónoma.
 
-### CAPÍTULO V — Direitos e deveres da concessionária
+CAPÍTULO V
 
-###### Artigo 23.º — Direitos da concessionária
+Direitos e deveres da concessionária
+
+Artigo 23.º
+
+Direitos da concessionária
 
 São direitos da concessionária:
 
@@ -682,7 +775,9 @@ c) Utilizar, nos termos que venham a ser fixados, as ruas, praças, estradas, ca
 
 d) Todos os que lhe forem conferidos por lei, relativos às condições de exploração da concessão.
 
-###### Artigo 24.º — Deveres da concessionária
+Artigo 24.º
+
+Deveres da concessionária
 
 São deveres da concessionária:
 
@@ -698,7 +793,9 @@ e) Cumprir as obrigações emergentes da outorga da concessão;
 
 f) Não ceder, alienar ou onerar a concessão sem autorização do Governo.
 
-###### Artigo 25.º — Rescisão da concessão
+Artigo 25.º
+
+Rescisão da concessão
 
 1 - A violação culposa e grave dos deveres da concessionária poderá determinar a rescisão do contrato de concessão.
 
@@ -706,9 +803,13 @@ f) Não ceder, alienar ou onerar a concessão sem autorização do Governo.
 
 3 - Em caso de rescisão, os bens integrantes da concessão revertem a favor do Estado, sem direito a qualquer indemnização.
 
-### CAPÍTULO VI — Disposição final
+CAPÍTULO VI
 
-###### Artigo 26.º — Regulamentação
+Disposição final
+
+Artigo 26.º
+
+Regulamentação
 
 Serão objecto de regulamentação autónoma:
 

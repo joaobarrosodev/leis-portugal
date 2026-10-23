@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-1971-635617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef576f9280f5d23c5f21f9188115b638e5e53394462b817fb59739127b96f1bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9460e1f67d228c5c7a244868fe2cb13fa547bc4b5799d384f06ffb255f5da8cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:32:23Z'
   warnings: []
   errors: []
 ---
@@ -130,10 +130,10 @@ b) Ao restante pessoal:
 
 7.º O limite da competência disciplinar das autoridades militares, a exercer sobre o pessoal civil militarizado do C. M. E. F. E. D., é o fixado no quadro anexo a esta portaria, considerando-se o mesmo, para todos os efeitos, como um dos quadros a que se refere o artigo 79.º do Regulamento de Disciplina Militar.
 
-**O Secretário de Estado do Exército, José de Oliveira Vitoriano.**
+O Secretário de Estado do Exército, José de Oliveira Vitoriano.
 
 Quadro a que se refere o n.º 7.º da Portaria n.º 412/71
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/18300/11401140.pdf))](https://files.diariodarepublica.pt/1s/1971/08/18300/11401140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/18300/11401140.pdf)
 
-**O Secretário de Estado do Exército, José de Oliveira Vitoriano.**
+O Secretário de Estado do Exército, José de Oliveira Vitoriano.

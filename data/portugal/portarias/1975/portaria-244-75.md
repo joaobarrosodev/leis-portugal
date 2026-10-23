@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-1975-161771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T04:41:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a6093c2526e5fdca33db9dc6bd21e978deaf1491a61fe310cf523999767a2ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 778983bdb4736a66129729d787f4817f49672019c60dfca39710317e0aa45381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:41:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,27 @@ relationships:
   target: pt:dre:299647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:299647:por
+  label: Alterada a al. d) do art. 146.º e as notas do mapa n.º3 a que se refere o § único do mesmo artigo, e revogadas as
+    notas ao mapa mencionado no n.º 2.º do Dec 46960, de 14-abr de 1966, alterado pela Port 612/70, de 2-dez, e pela presente,
+    pelo(a) Portaria n.º 442/78 - Diário da República n.º 180/1978, Série I de 1978-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1978-299647
+  date: '1978-08-07'
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:41:53Z'
   warnings: []
   errors: []
 ---

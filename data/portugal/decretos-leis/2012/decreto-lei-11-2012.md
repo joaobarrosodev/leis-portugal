@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2012/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:16:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5820ec343dfd8ac1a729e5839d5710ac63a01e82a628b2427ac7abbdf74a7dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2eddcf06bbdc1687650b784b07af959a650ffe102b34263792721d52304b43f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:16:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,6 +77,24 @@ relationships:
   target: pt:dre:1150573735:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74126124:por
+  label: Determinada a prorrogação, durante o ano de 2016, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 21.º e n.ºs 2 e 3 do art. 22.º do presente diploma, pelo(a) Decreto-Lei n.º 18/2016 - Diário da República n.º
+    72/2016, Série I de 2016-04-13, nos termos do disposto no seu art. 101.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2016-74126124
+  date: '2016-04-13'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Determinada a prorrogação, durante o ano de 2017, como medida excecional de estabilidade orçamental e para cumprimento
+    das obrigações internacionais e europeias, dos efeitos temporários das normas e medidas, cuja vigência esteja condicionada
+    à manutenção do procedimento por défice excessivo ou do Programa de Assistência Económica e Financeira (PAEF), presentes
+    no art. 21.º e nos n.ºs 2 e 3 do art. 22.º do presente diploma pelo(a) Decreto-Lei n.º 25/2017 - Diário da República n.º
+    45/2017, Série I de 2017-03-03, nos termos do disposto no seu art. 134.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/1993/05/27/p/dre
   label: null
@@ -85,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:282875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:16:29Z'
   warnings: []
   errors: []
 ---
@@ -393,12 +435,12 @@ O presente decreto-lei entra em vigor na data de entrada em vigor da Lei do Orç
 
 Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Miguel Fernando Cassola de Miranda Relvas - António Joaquim Almeida Henriques - Maria de Assunção Oliveira Cristas Machado da Graça - Fernando Serra Leal da Costa - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de Janeiro de 2012.**
+Promulgado em 3 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Janeiro de 2012.**
+Referendado em 5 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

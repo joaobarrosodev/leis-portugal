@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/180a00/37803781.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/167/2000/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2000-335903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e38298b4649fea82efe63af0cffe5c55d7c0bca024f2439e8ec2adb5693a10a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01f5c9a403502464aee5d4b96d7bed1803febd715b52a609c452ab987bc014c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,26 +69,26 @@ reuse:
 subjects:
 - Albufeira.cidade
 - Alcoutim
-- Sistema Multimunicipal de Saneamento do Algarve
 - Aljezur
-- Gestão de Resíduos
-- Sociedade Anónima
+- Autarquia Local
 - Castro Marim
-- Saneamento Básico
 - Faro
+- Gestão de Resíduos
+- Instituto Regulador de Águas e Resíduos
 - IPE
 - Lagoa
 - Lagos
-- Instituto Regulador de Águas e Resíduos
 - Monchique
 - Olhão
-- Proteção do Ambiente
 - Poluição da água
 - Portimão
+- Proteção do Ambiente
+- Saneamento Básico
 - Silves
+- Sistema Multimunicipal de Saneamento do Algarve
+- Sociedade Anónima
 - Tavira
 - Tratamento de ÁGUA
-- Autarquia Local
 - VILA do Bispo
 - Vila Real de Santo António
 relationships:
@@ -96,6 +96,11 @@ relationships:
   target: pt:dre:123166491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573127:por
+  label: "Alterado o art. 3.º pelo DEC LEI.172-B/2001.2001.05.26.MAOT DR.IS-A [122]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-b-2001-573127
+  date: '2001-05-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/1996/09/04/p/dre
   label: null
@@ -108,16 +113,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:241638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:123166491:por
+  label: Revogada, a partir de 16.07.2019, e determinada a extinção do sistema multimunicipal de saneamento do Algarve, para
+    recolha, tratamento e rejeição de efluentes dos municipios de Albufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa,
+    Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António,
+    do presente diploma, pelo(a) Decreto-Lei n.º 93/2019 - Diário da República n.º 133/2019, Série I de 2019-07-15, na redacção
+    do Dec Lei 172-B/2001, de 26-mai DR.IS-A [122]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-2019-123166491
+  date: '2019-07-15'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:55Z'
   warnings: []
   errors: []
 ---
@@ -190,12 +220,12 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Julho de 2000.**
+Promulgado em 19 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 2000.**
+Referendado em 27 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

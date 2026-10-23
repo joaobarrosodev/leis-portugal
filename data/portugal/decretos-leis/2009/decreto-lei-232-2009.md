@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17900/0642806435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/2009/09/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2009-489710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c95da82066f6fe72d63a8c06d44302ecf493c501205fcf4d61a7c0cc54667429
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e37603b98368e97ee23c2478998ab06eba84b81776cd196860fb91b7c95b2dd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- NATO
 - Banda de Música
 - BASE Aérea
 - Brasão de Armas
+- Busca e Salvamento
 - Campo de Tiro
 - Chefe do Estado Maior da Força Aérea
 - Comandante
+- Comando Aéreo
 - Comando Aéreo dos Açores
 - Comando da Instrução
 - Comando da Logística
-- Comissão Histórico-cultural da Força Aérea
 - Comando do Pessoal
-- Força Aérea
+- Comissão Histórico-cultural da Força Aérea
 - Conselho Superior da Força Aérea
 - Conselho Superior de Disciplina da Força Aérea
 - Definição de Competências
 - Diretor
-- Comando Aéreo
+- Força Aérea
+- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
 - Inspecção Geral da Força Aérea
 - Junta Superior de Saúde
-- Gabinete de Prevenção e Investigação de Acidentes com Aeronaves
 - Museu do Ar
+- NATO
 - Orgânica
 - Presidente
 - Sistema Nacional para a Busca e Salvamento Aéreo
 - Vice-chefe do Estado Maior da Força Aérea
 - ZONA Aérea da Madeira
 - ZONA Aérea dos Açores
-- Busca e Salvamento
 relationships:
 - type: amended_by
   target: pt:dre:65983264:por
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+- type: cites
+  target: pt:dre:247435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657447:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65983264:por
+  label: Revogado a partir de 01.01.2015 e extintos o Comando de Instrução e Formação da Força Aérea (CIFFA), a Base do Lumiar,
+    o Gabinete de Avaliação e Qualidade do CIFFA, os órgãos de apoio direto do CIFFA bem como o Grupo de Apoio do EMFA, sendo
+    as suas atribuições integradas na UAL pelo(a) Decreto-Lei n.º 187/2014 - Diário da República n.º 250/2014, Série I de
+    2014-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2014-65983264
+  date: '2014-12-29'
 article_structure:
   article_count: 38
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:58Z'
   warnings: []
   errors: []
 ---
@@ -682,15 +714,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte à sua public
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
 
-**Promulgado em 30 de Agosto de 2009.**
+Promulgado em 30 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Agosto de 2009.**
+Referendado em 31 de Agosto de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO
 

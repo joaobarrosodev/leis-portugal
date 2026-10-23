@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/290a00/70817094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/232/2004/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2004-219078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7beae02518b75e5f0b8d2be64745544eb81b16fcc298d03afcc0d52cc878d2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec19161aa04dc6e1371ead05fd18b5277be76917683797f5e06ce71a34f6fbdc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,42 +68,42 @@ reuse:
 subjects:
 - ÁREA Metropolitana
 - Autoridade Metropolitana de Transportes
-- Financiamento
-- Titulo de Transporte
-- Fiscal Único
-- Ordenamento do Território
-- Gestão Financeira
+- Câmara Municipal
 - Comissão Instaladora
-- Transporte Terrestre
 - Conselho de Administração
 - Conselho Geral
 - Contrato Individual de Trabalho
-- Transporte Rodoviário
-- Transporte Ferroviário
 - Definição de Competências
-- Planeamento Urbano
 - Empresa Pública
 - Estatuto
+- Financiamento
+- Fiscal Único
 - Fiscalização
-- Lisboa
+- Gestão Financeira
 - Junta Metropolitana
-- Política de Transportes
+- Lisboa
+- Ordenamento do Território
 - Orgânica
-- Pessoa Colectiva de Direito Público
 - Organização dos Transportes
+- Pessoa Colectiva de Direito Público
+- Planeamento Urbano
+- Política de Transportes
+- Porto
 - Preço
-- Serviço Público
 - Receita
-- Câmara Municipal
 - Regime de Instalação
 - Regime de Pessoal
+- Serviço Público
 - Tarifa Geral de Transportes
+- Titulo de Transporte
 - Transporte
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Fluvial
 - Transporte Público
+- Transporte Rodoviário
+- Transporte Terrestre
 - Transporte Urbano
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:396960:por
@@ -149,16 +149,75 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396960:por
+  label: "Revogado, a partir de 10.01.2009, o Dec Lei 268/2003, de 28-Out, na redacção do presente diploma, - sucedendo as\
+    \ AMT de Lisboa e do Porto nos direitos e obrigações que, por força destes diplomas, existam -, pela LEI.1/2009.05.01.2009.AR,\
+    \ DR.IS [2] de 05.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-2009-396960
+  date: '2009-01-05'
 article_structure:
-  article_count: 80
+  article_count: 78
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:49Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +334,9 @@ f) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Cada AMT tem como órgãos a assembleia geral, o conselho de administração, o conselho geral e o fiscal único.
 
@@ -289,7 +350,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +370,9 @@ d) Das taxas de carácter específico que venham a ser introduzidas.
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 São objecto de transferência para as AMT, nos termos do artigo 5.º, na medida em que forem prejudicadas pelas definidas no presente diploma, as atribuições e competências dos organismos e serviços das administrações directa e autónoma, designadamente as conferidas pelos seguintes diplomas e legislação complementar respectiva:
 
@@ -343,15 +408,15 @@ Em anexo ao presente diploma, do qual faz parte integrante, é republicado na í
 
 Visto e aprovado em Conselho de Ministros de 30 de Setembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - Daniel Viegas Sanches - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia - Luís José de Mello e Castro Guedes.
 
-**Promulgado em 17 de Novembro de 2004.**
+Promulgado em 17 de Novembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 2 de Dezembro de 2004.**
+Referendado em 2 de Dezembro de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
@@ -1037,7 +1102,9 @@ e) Por caducidade do mandato, no caso de dissolução da AMT Porto, E. P. E.
 
 À extinção e liquidação da AMT Porto, E. P. E., aplica-se o disposto no artigo 34.º do [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Criação
 

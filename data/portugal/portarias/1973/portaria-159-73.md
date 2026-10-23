@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-1973-684455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:00:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e6dffbd4da883806099eff9d2d909bdaefdacbb179912538a42515b108ea20c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cfe62b07bdf29a86dd4312d54d91f6ece4fee6d1354367fc4b865cfca4bff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:00:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:00:06Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado das Comunic
 
 Regulamento de Fardamentos do Pessoal dos Aeroportos e Aeródromos Dependentes da Direcção-Geral da Aeronáutica Civil.
 
-###### Artigo 1.º O pessoal dos aeroportos e aeródromos especificadamente mencionado neste Regulamento usará fardamentos dos modelos a seguir descritos, quando em serviço.
+Artigo 1.º O pessoal dos aeroportos e aeródromos especificadamente mencionado neste Regulamento usará fardamentos dos modelos a seguir descritos, quando em serviço.
 
-###### Art. 2.º Os artigos que constituem os fardamentos são os seguintes:
+Art. 2.º Os artigos que constituem os fardamentos são os seguintes:
 
 1) Farda A (fig. 1), destinada a:
 
@@ -399,30 +411,30 @@ Bombeiros auxiliares - uma divisa.
 
 Nota. - Nas restantes especialidades a distinção de classes será indicada no distintivo (fig. 9).
 
-###### Art. 3.º Aos funcionários dos aeroportos e aeródromos a quem tenham sido distribuídos fardamentos é proibido o seu uso fora de serviço.
+Art. 3.º Aos funcionários dos aeroportos e aeródromos a quem tenham sido distribuídos fardamentos é proibido o seu uso fora de serviço.
 
-###### Art. 4.º Os encargos resultantes da distribuição de fardamentos ao pessoal pertencem aos aeroportos e aeródromos.
+Art. 4.º Os encargos resultantes da distribuição de fardamentos ao pessoal pertencem aos aeroportos e aeródromos.
 
-###### Art. 5.º Aos fardamentos referidos neste Regulamento é atribuída a duração estabelecida na tabela anexa, ficando os funcionários responsáveis pela sua inutilização, quando se verifique antes de findo aquele prazo.
+Art. 5.º Aos fardamentos referidos neste Regulamento é atribuída a duração estabelecida na tabela anexa, ficando os funcionários responsáveis pela sua inutilização, quando se verifique antes de findo aquele prazo.
 
-###### Art. 6.º Os diversos tipos de resguardos descritos neste Regulamento só serão atribuídos quando as circunstâncias concretamente o justifiquem.
+Art. 6.º Os diversos tipos de resguardos descritos neste Regulamento só serão atribuídos quando as circunstâncias concretamente o justifiquem.
 
-###### Art. 7.º Todos os tecidos destinados à confecção de fardamentos, resguardos, etc., para o pessoal do Aeroporto do Sal deverão ser basicamente de terylene ou tecido similar apropriado às condições climatéricas locais.
+Art. 7.º Todos os tecidos destinados à confecção de fardamentos, resguardos, etc., para o pessoal do Aeroporto do Sal deverão ser basicamente de terylene ou tecido similar apropriado às condições climatéricas locais.
 
-###### Art. 8.º O tipo de fardamento a usar de Verão ou de Inverno será determinado pela direcção do aeroporto, conforme as condições climatéricas das quadras do ano e as conveniências impostas pelos serviços.
+Art. 8.º O tipo de fardamento a usar de Verão ou de Inverno será determinado pela direcção do aeroporto, conforme as condições climatéricas das quadras do ano e as conveniências impostas pelos serviços.
 
-###### Art. 9.º A presente portaria é extensiva ao Aeroporto de Lisboa, alterando e substituindo o disposto na [Portaria n.º 35/71](https://diariodarepublica.pt/dr/detalhe/portaria/35-1971-446727), de 22 de Janeiro, em tudo o que se mostre necessário à uniformização da regulamentação sobre fardamentos do pessoal dos aeroportos e aeródromos dependentes da Direcção-Geral da Aeronáutica Civil.
+Art. 9.º A presente portaria é extensiva ao Aeroporto de Lisboa, alterando e substituindo o disposto na [Portaria n.º 35/71](https://diariodarepublica.pt/dr/detalhe/portaria/35-1971-446727), de 22 de Janeiro, em tudo o que se mostre necessário à uniformização da regulamentação sobre fardamentos do pessoal dos aeroportos e aeródromos dependentes da Direcção-Geral da Aeronáutica Civil.
 
 Ministério das Comunicações, 13 de Fevereiro de 1973. - O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
 Tabela de duração dos artigos de fardamento e resguardo a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf))](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.
 
 Da Figura 1 à Figura 26
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf))](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/03/05300/03630372.pdf)
 
-**O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.**
+O Secretário de Estado das Comunicações e Transportes, João Maria Leitão de Oliveira Martins.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/2007/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2007-518464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 196dbde999f5a55c135d2f82c23d34e49a05538403ed37a427a216e57da585df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d183952d77ddcf2cb73d5b1b217fdc6760f69b9a7c912cb2bb2b2bb07a980a78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA Submarina
-- Multa
 - Contra-ordenação
 - Direcção Geral das Pescas e Aquicultura
 - Fiscalização
-- Pesca
 - Licenciamento
+- Multa
+- Pesca
 - Pesca Desportiva
 - ZONA de Pesca
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:498751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:498751:por
+  label: "Dada nova redação aos arts. 10º, 11º, 12º-A, 13º, 13º-A e 14º do Dec Lei 246/2000 de 29-set, alterado pelo presente\
+    \ diploma, pelo DEC LEI.101/2013.25.07.2013.MAMAOT, DR.IS [142] de 25.07.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2013-498751
+  date: '2013-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre
   label: null
@@ -88,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/246/2000/09/29/p/dre
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:01Z'
   warnings: []
   errors: []
 ---
@@ -152,19 +166,25 @@ i) ...
 
 j) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - As interdições ou restrições previstas no número anterior são estabelecidas por despacho conjunto do membro do Governo responsável pela área das pescas e dos demais membros do Governo competentes.
 
-###### Artigo 12.º-A — [...]
+Artigo 12.º-A
+
+[...]
 
 1 - A emissão das licenças está sujeita ao pagamento de uma taxa, cujos montante e destino são fixados por portaria dos membros do Governo responsáveis pelas áreas da administração interna, das finanças, da defesa, do ambiente e das pescas, sem prejuízo do disposto no número seguinte.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -172,13 +192,17 @@ j) ...
 
 3 - ...
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - A Direcção-Geral de Pescas e Aquicultura, enquanto entidade coordenadora, elabora, em articulação com as demais entidades competentes dos ministérios das áreas da administração interna, das finanças, da defesa, do ambiente, da economia e das pescas, um plano anual de vigilância, fiscalização e controlo da actividade da pesca lúdica, que define os objectivos a atingir e os correspondentes meios humanos e materiais afectos às acções a empreender no respectivo período.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -196,12 +220,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Emanuel Augusto dos Santos - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Rui Nobre Gonçalves.
 
-**Promulgado em 23 de Fevereiro de 2007.**
+Promulgado em 23 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 26 de Fevereiro de 2007.**
+Referendado em 26 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

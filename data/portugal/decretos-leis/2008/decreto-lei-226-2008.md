@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/226/2008/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-2008-439815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f37ecf08490180e5f7d15db2b52b532243e192a8f8bc7b404279532293a0a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfb235fab46af549e6cb57f202fa29e81a9a8b4d5c09be50d20ba8fd549dc597
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Processo Civil
-- Ordem dos Advogados
-- Código do Processo Civil
 - Câmara dos Solicitadores
-- Sistema Judicial
+- Código do Processo Civil
+- Comissão para a Eficácia das Execuções
+- Direito Civil
 - Direito Privado
 - Estatuto
 - Estatuto dos Solicitadores
-- Comissão para a Eficácia das Execuções
+- Ordem dos Advogados
+- Processo Civil
 - Processo de Execução
-- Direito Civil
+- Sistema Judicial
 relationships:
 - type: amended_by
   target: pt:dre:70280713:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276805:por
+  label: "Alterados, em 13.05.2011, os arts. 833º-A e 861.º-A do Código de Processo Civil, aprovado pelo Dec Lei 44129, de\
+    \ 28-Dez, na redacção do presente diploma, pelo DEC LEI.52/2011.13.04.2011.MJ, DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2011-276805
+  date: '2011-04-13'
+- type: amended_by
+  target: pt:dre:145578:por
+  label: "Alterado, a partir de 15.03.2012, o art. 812.º-D do Código de Processo Civil, aprovado pelo Dec Lei 44129, de 28-Dez-1961,\
+    \ aditado pelo presente diploma, pela LEI.63/2011.14.12.2011.AR, DR.IS [238] de 14.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/63-2011-145578
+  date: '2011-12-14'
+- type: amended_by
+  target: pt:dre:191994:por
+  label: "Dada nova redação aos arts. 834º e 886º-A do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-dez 1961,\
+    \ alterado pelo presente diploma, pela LEI.60/2012.09.11.2012.AR, DR.IS [217] de 09.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-2012-191994
+  date: '2012-11-09'
+- type: amended_by
+  target: pt:dre:499803:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma constante do nº 2 do art. 814.º do CPC\
+    \ aprovado pelo Dec Lei 44129, de 28-dez 1961, na redação do presente diploma, quando interpretada no sentido de limitar\
+    \ os fundamentos de oposição à execução instaurada com base em requerimentos de injunção à qual foi aposta a fórmula executória,\
+    \ pelo AC.388/2013.24.09.2013.TCS, DR.IS [184] de 24.09.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/388-2013-499803
+  date: '2013-09-24'
+- type: amended_by
+  target: pt:dre:70280713:por
+  label: Transformada em Ordem dos Solicitadores e dos Agentes de Execução a Câmara dos Solicitadores, cujo Estatuto foi aprovado
+    pelo Dec Lei 88/2003 de 26-abr, alterado pelo presente diploma, pelo(a) Lei n.º 154/2015 - Diário da República n.º 179/2015,
+    Série I de 2015-09-14, que revogou o referido decreto-lei, a partir de 14.10.2015, sem prejuízo do disposto no n.º 2 do
+    art. 6.º daquela lei, que o manteve, contudo, em vigor, nos termos do n.º 24 do seu art. 3.º, até à entrada em vigor de
+    todas as normas do Estatuto da Ordem dos Solicitadores e dos Agentes de Execução, aprovado e publicado em anexo à mesma
+    lei.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/154-2015-70280713
+  date: '2015-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -123,16 +159,322 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2008/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2008/04/21/p/dre
+- type: cites
+  target: pt:dre:140330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:602683:por
+  label: "Rectificado o art. 1.º [na parte que altera o nº 1 do art. 898.º do CPC aprovado pelo Dec Lei 44129 de 28-Dez 1961],\
+    \ e a al. a) do art. 23.º que deve ler-se \"O disposto no artigo 1.º, na parte em que altera o artigo 376.º do Código\
+    \ de Processo Civil, no artigo 10.º e no artigo 22.º do presente decreto-lei entra em vigor no dia seguinte ao da sua\
+    \ publicação\" ambos do presente diploma, pela DECL-RECT.2/2009.19.01.2009.PCM, DR.IS [12] de 19.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2009-602683
+  date: '2009-01-19'
+- type: repealed_by
+  target: pt:dre:497406:por
+  label: "Revogados, a partir de 01.09.2013, os art.s 11.º a 19.º pela LEI.41/2013.26.06.2013.AR, DR.IS [121] de 26.06.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/41-2013-497406
+  date: '2013-06-26'
+- type: repealed_by
+  target: pt:dre:499517:por
+  label: "Revogado a partir de 01.09.2013, o Dec Lei 202/2003, de 10-set, na redação do presente diploma, pelo DEC LEI.122/2013.26.08.2013.MJ,\
+    \ DR.IS [163] de 26.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2013-499517
+  date: '2013-08-26'
+- type: repealed_by
+  target: pt:dre:70236273:por
+  label: Revogada, a partir de 09.10.2015, a Lei 15/2005 de 26-jan, na redação do presente diploma, pelo(a) Lei n.º 145/2015
+    - Diário da República n.º 176/2015, Série I de 2015-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/145-2015-70236273
+  date: '2015-09-09'
 article_structure:
-  article_count: 163
+  article_count: 23
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:03Z'
   warnings: []
   errors: []
 ---
@@ -219,7 +561,9 @@ Os artigos 15.º, 46.º, 47.º, 233.º, 234.º, 239.º, 240.º, 241.º, 242.º, 
 
 3 - ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - À execução apenas podem servir de base:
 
@@ -233,7 +577,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -245,7 +591,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 233.º — [...]
+Artigo 233.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +613,9 @@ c) Contacto pessoal do agente de execução ou do funcionário judicial com o ci
 
 6 - ...
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - Incumbe à secretaria promover oficiosamente, sem necessidade de despacho prévio, as diligências que se mostrem adequadas à efectivação da regular citação pessoal do réu e à rápida remoção das dificuldades que obstem à realização do acto, sem prejuízo do disposto no n.º 4 e da citação por agente de execução ou promovida por mandatário judicial.
 
@@ -291,7 +641,9 @@ f) ...
 
 6 - Não tendo o autor designado o agente de execução que efectua a citação nem feito a declaração prevista no n.º 9 do artigo 239.º, ou ficando a designação sem efeito, aplica-se o disposto no artigo 811.º-A.
 
-###### Artigo 239.º — Citação por agente de execução ou funcionário judicial
+Artigo 239.º
+
+Citação por agente de execução ou funcionário judicial
 
 1 - Frustrando-se a via postal, a citação é efectuada mediante contacto pessoal do agente de execução com o citando.
 
@@ -315,7 +667,9 @@ f) ...
 
 11 - Aplica-se à citação por agente de execução o disposto no n.º 2 do artigo 234.º
 
-###### Artigo 240.º — [...]
+Artigo 240.º
+
+[...]
 
 1 - No caso referido no artigo anterior, se o agente de execução ou o funcionário judicial apurar que o citando reside ou trabalha efectivamente no local indicado, não podendo proceder à citação por não o encontrar, deve deixar nota com indicação de hora certa para a diligência na pessoa encontrada que estiver em melhores condições de a transmitir ao citando ou, quando tal for impossível, afixar o respectivo aviso no local mais indicado.
 
@@ -333,7 +687,9 @@ b) Não o encontrando, a citação é feita na pessoa capaz que esteja em melhor
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 241.º — [...]
+Artigo 241.º
+
+[...]
 
 Sempre que a citação se mostre efectuada em pessoa diversa do citando, em consequência do disposto no n.º 2 do artigo 236.º e na alínea b) do n.º 2 do artigo anterior, ou haja consistido na afixação da nota de citação nos termos do n.º 4 do artigo anterior, sendo ainda enviada, pelo agente de execução ou pela secretaria, no prazo de dois dias úteis, carta registada ao citando, comunicando-lhe:
 
@@ -345,7 +701,9 @@ c) O destino dado ao duplicado; e
 
 d) A identidade da pessoa em quem a citação foi realizada.
 
-###### Artigo 242.º — [...]
+Artigo 242.º
+
+[...]
 
 1 - Se a citação não puder realizar-se por estar o citando impossibilitado de a receber, em consequência de notória anomalia psíquica ou de outra incapacidade de facto, o agente de execução ou o funcionário judicial dá conta da ocorrência, dela se notificando o autor.
 
@@ -355,7 +713,9 @@ d) A identidade da pessoa em quem a citação foi realizada.
 
 4 - ...
 
-###### Artigo 252.º-A — [...]
+Artigo 252.º-A
+
+[...]
 
 1 - Ao prazo de defesa do citando acresce uma dilação de cinco dias quando:
 
@@ -369,7 +729,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 261.º — [...]
+Artigo 261.º
+
+[...]
 
 1 - As notificações avulsas dependem de despacho prévio que as ordene e são feitas pelo agente de execução, designado para o efeito pelo requerente ou pela secretaria, ou por funcionário de justiça, nos termos do n.º 9 do artigo 239.º, na própria pessoa do notificando, à vista do requerimento, entregando-se ao notificado o duplicado e cópia dos documentos que o acompanhem.
 
@@ -381,7 +743,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 280.º — [...]
+Artigo 280.º
+
+[...]
 
 1 - ...
 
@@ -389,7 +753,9 @@ b) ...
 
 3 - Quando se trate de acções fundadas em actos provenientes do exercício de actividades sujeitas a tributação e o interessado não haja demonstrado o cumprimento de qualquer dever fiscal que lhe incumba, a secretaria ou o agente de execução deve comunicar a pendência da causa e o seu objecto à administração fiscal, preferencialmente por via electrónica, sem que o andamento regular do processo seja suspenso.
 
-###### Artigo 376.º — [...]
+Artigo 376.º
+
+[...]
 
 1 - A habilitação do adquirente ou cessionário da coisa ou direito em litígio, para com ele seguir a causa, faz-se por termo de cessão lavrado no processo ou por requerimento de habilitação.
 
@@ -421,7 +787,9 @@ c) Da declaração de decurso do prazo de contestação sem que o notificado ten
 
 7 - (Anterior n.º 2.)
 
-###### Artigo 467.º — [...]
+Artigo 467.º
+
+[...]
 
 1 - Na petição, com que propõe a acção, deve o autor:
 
@@ -453,13 +821,17 @@ g) Designar o agente de execução incumbido de efectuar a citação ou o mandat
 
 8 - A designação do agente de execução fica sem efeito se ele declarar que não a aceita, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 801.º — [...]
+Artigo 801.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A tramitação dos processos executivos é efectuada electronicamente, nos termos do artigo 138.º-A.
 
-###### Artigo 803.º — [...]
+Artigo 803.º
+
+[...]
 
 1 - Quando a obrigação seja alternativa e pertença ao devedor a escolha da prestação, este é citado pelo agente de execução para se opor à execução e notificado para, no mesmo prazo da oposição, se outro não tiver sido fixado pelas partes, declarar por qual das prestações opta.
 
@@ -467,7 +839,9 @@ g) Designar o agente de execução incumbido de efectuar a citação ou o mandat
 
 3 - Na falta de escolha pelo devedor ou por terceiro, bem como no caso de haver vários devedores e não ser possível formar maioria quanto à escolha, esta é efectuada pelo credor.
 
-###### Artigo 804.º — [...]
+Artigo 804.º
+
+[...]
 
 1 - ...
 
@@ -481,7 +855,9 @@ g) Designar o agente de execução incumbido de efectuar a citação ou o mandat
 
 6 - (Anterior n.º 4.)
 
-###### Artigo 805.º — [...]
+Artigo 805.º
+
+[...]
 
 1 - ...
 
@@ -501,7 +877,9 @@ g) Designar o agente de execução incumbido de efectuar a citação ou o mandat
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 806.º — [...]
+Artigo 806.º
+
+[...]
 
 1 - O registo informático de execuções contém o rol das execuções pendentes e, relativamente a cada uma delas, a seguinte informação:
 
@@ -533,7 +911,9 @@ c) A extinção da execução por não terem sido encontrados bens penhoráveis,
 
 5 - ...
 
-###### Artigo 807.º — Rectificação, actualização, eliminação e consulta dos dados
+Artigo 807.º
+
+Rectificação, actualização, eliminação e consulta dos dados
 
 1 - ...
 
@@ -553,7 +933,9 @@ d) Por quem tenha relação contratual ou pré-contratual com o titular dos dado
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 808.º — [...]
+Artigo 808.º
+
+[...]
 
 1 - Cabe ao agente de execução, salvo quando a lei determine o contrário, efectuar todas as diligências de execução, incluindo, nos termos de portaria do membro do Governo responsável pela área da justiça, as citações, notificações e publicações.
 
@@ -581,7 +963,9 @@ d) Por quem tenha relação contratual ou pré-contratual com o titular dos dado
 
 13 - Não se aplica o estatuto de agente de execução aos oficiais de justiça que realizem diligências de execução nos termos dos n.os 4, 5 e 8.
 
-###### Artigo 809.º — [...]
+Artigo 809.º
+
+[...]
 
 1 - Sem prejuízo de outras intervenções estabelecidas na lei, compete ao juiz de execução:
 
@@ -597,7 +981,9 @@ d) ...
 
 3 - Quando os pedidos de intervenção do juiz efectuados por agente de execução ao abrigo das alíneas a) e d) do n.º 1 sejam manifestamente injustificados, o juiz aplica multa de montante fixado entre 0,5 e 5 UC e notifica, por meios electrónicos, o órgão com competência disciplinar sobre os agentes de execução.
 
-###### Artigo 810.º — [...]
+Artigo 810.º
+
+[...]
 
 1 - No requerimento executivo, dirigido ao tribunal de execução, o exequente:
 
@@ -669,7 +1055,9 @@ b) O envio electrónico imediato do requerimento executivo e demais documentos q
 
 12 - A designação do agente de execução fica sem efeito se ele declarar que não a aceita por meios electrónicos, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 811.º — [...]
+Artigo 811.º
+
+[...]
 
 1 - O agente de execução recusa receber o requerimento quando:
 
@@ -685,7 +1073,9 @@ c) ...
 
 4 - Findo o prazo referido no número anterior sem que tenha sido apresentado outro requerimento ou o documento em falta, extingue-se a execução, sendo dela notificado apenas o exequente.
 
-###### Artigo 811.º-A — Designação do agente de execução pela secretaria
+Artigo 811.º-A
+
+Designação do agente de execução pela secretaria
 
 1 - Não tendo o exequente designado o agente de execução ou ficando a designação sem efeito, é esta feita pela secretaria, segundo a escala constante da lista informática fornecida pela Câmara dos Solicitadores.
 
@@ -693,7 +1083,9 @@ c) ...
 
 3 - O agente de execução designado nos termos dos números anteriores é notificado pela secretaria da sua designação, por meios electrónicos.
 
-###### Artigo 814.º — Fundamentos de oposição à execução baseada em sentença ou injunção
+Artigo 814.º
+
+Fundamentos de oposição à execução baseada em sentença ou injunção
 
 1 - (Anterior corpo do artigo.)
 
@@ -701,17 +1093,23 @@ c) ...
 
 3 - Nas execuções baseadas em requerimento de injunção ao qual tenha sido aposta fórmula executória, o expediente respeitante à injunção é enviado oficiosamente e exclusivamente por via electrónica ao tribunal competente para a execução.
 
-###### Artigo 816.º — [...]
+Artigo 816.º
+
+[...]
 
 Não se baseando a execução em sentença ou em requerimento de injunção ao qual tenha sido aposta fórmula executória, além dos fundamentos de oposição especificados no n.º 1 do artigo 814.º, na parte em que sejam aplicáveis, podem ser alegados quaisquer outros que possam ser invocados no processo de declaração.
 
-###### Artigo 820.º — [...]
+Artigo 820.º
+
+[...]
 
 1 - Sem prejuízo da remessa do processo para despacho liminar nos termos do disposto no artigo 812.º-C, o juiz pode conhecer oficiosamente das questões a que aludem os n.os 1 e 3 do artigo 812.º-E, bem como a alínea g) do artigo 812.º-D, até ao primeiro acto de transmissão de bens penhorados.
 
 2 - ...
 
-###### Artigo 824.º — [...]
+Artigo 824.º
+
+[...]
 
 1 - ...
 
@@ -731,7 +1129,9 @@ Não se baseando a execução em sentença ou em requerimento de injunção ao q
 
 9 - As propostas enviadas pelo agente de execução ao tribunal nos termos dos n.os 6 e 7 contêm um projecto de decisão fundamentada que o juiz pode sustentar.
 
-###### Artigo 827.º — [...]
+Artigo 827.º
+
+[...]
 
 1 - ...
 
@@ -739,7 +1139,9 @@ Não se baseando a execução em sentença ou em requerimento de injunção ao q
 
 3 - ...
 
-###### Artigo 828.º — [...]
+Artigo 828.º
+
+[...]
 
 1 - ...
 
@@ -759,7 +1161,9 @@ b) Seja manifesto que a penhora efectuada sobre bens do devedor principal é suf
 
 7 - ...
 
-###### Artigo 831.º — [...]
+Artigo 831.º
+
+[...]
 
 1 - ...
 
@@ -767,7 +1171,9 @@ b) Seja manifesto que a penhora efectuada sobre bens do devedor principal é suf
 
 3 - Quando a citação referida no número anterior não possa ser feita regular e imediatamente é anotado o respectivo domicílio para efeito de posterior citação.
 
-###### Artigo 832.º — Consultas e diligências prévias à penhora
+Artigo 832.º
+
+Consultas e diligências prévias à penhora
 
 1 - As consultas e diligências prévias à penhora têm início no prazo máximo de cinco dias contados:
 
@@ -787,7 +1193,9 @@ c) Da notificação da secretaria ao agente de execução, depois de proferido d
 
 6 - Não havendo lugar à extinção da execução nem à sua remessa, o agente de execução inscreve no registo informático de execuções os dados referidos no n.º 1 do artigo 806.º e prossegue com as diligências prévias à penhora.
 
-###### Artigo 834.º — [...]
+Artigo 834.º
+
+[...]
 
 1 - Independentemente da ordem pela qual o exequente indicou bens à penhora, do resultado das diligências prévias à penhora e dos bens nomeados à penhora pelo executado, o agente de execução deve efectuar a penhora daqueles bens preferencialmente pela seguinte ordem:
 
@@ -823,13 +1231,17 @@ f) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 837.º — Dever de informação
+Artigo 837.º
+
+Dever de informação
 
 1 - O agente de execução informa o exequente de todas as diligências efectuadas, assim como do motivo da frustração da penhora.
 
 2 - As informações referidas no número anterior são disponibilizadas exclusivamente por meios electrónicos após a realização de cada diligência ou do conhecimento do motivo da frustração da penhora, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 838.º — [...]
+Artigo 838.º
+
+[...]
 
 1 - ...
 
@@ -841,7 +1253,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 839.º — [...]
+Artigo 839.º
+
+[...]
 
 1 - É constituído depositário dos bens o agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, pessoa por este designada, salvo se o exequente consentir que seja depositário o próprio executado ou outra pessoa designada pelo agente de execução ou ocorrer alguma das seguintes circunstâncias:
 
@@ -855,7 +1269,9 @@ c) ...
 
 3 - Sem prejuízo do disposto no n.º 3 do artigo 861.º, as rendas em dinheiro são depositadas em instituição de crédito, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria, à medida que se vençam ou se cobrem.
 
-###### Artigo 840.º — [...]
+Artigo 840.º
+
+[...]
 
 1 - ...
 
@@ -869,13 +1285,17 @@ c) ...
 
 6 - A remuneração referida no número anterior constitui encargo para os efeitos do Regulamento das Custas Processuais.
 
-###### Artigo 842.º-A — [...]
+Artigo 842.º-A
+
+[...]
 
 1 - Quando o imóvel penhorado for divisível e o seu valor exceder manifestamente o da dívida exequenda e dos créditos reclamados, o executado pode requerer ao agente de execução autorização para proceder ao seu fraccionamento, sem prejuízo do prosseguimento da execução.
 
 2 - Ouvidos os interessados, o agente de execução autoriza que se proceda ao fraccionamento do imóvel e ao levantamento da penhora sobre algum dos imóveis resultantes da divisão, quando se verifique manifesta suficiência do valor dos restantes para a satisfação do crédito do exequente e dos credores reclamantes e das custas da execução.
 
-###### Artigo 843.º — [...]
+Artigo 843.º
+
+[...]
 
 1 - ...
 
@@ -883,7 +1303,9 @@ c) ...
 
 3 - O agente de execução pode socorrer-se, na administração dos bens, de colaboradores, que actuam sob sua responsabilidade.
 
-###### Artigo 845.º — [...]
+Artigo 845.º
+
+[...]
 
 1 - A requerimento de qualquer interessado, ou por iniciativa do agente de execução, é removido o depositário que, não sendo o agente de execução, deixe de cumprir os deveres do seu cargo.
 
@@ -891,7 +1313,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 847.º — [...]
+Artigo 847.º
+
+[...]
 
 1 - O executado pode requerer ao agente de execução o levantamento da penhora se, por acto ou omissão que não seja da sua responsabilidade, não forem efectuadas quaisquer diligências para a realização do pagamento efectivo do crédito nos seis meses anteriores ao requerimento.
 
@@ -905,7 +1329,9 @@ c) ...
 
 6 - No caso referido no número anterior, aplica-se, com as necessárias adaptações, o n.º 3 do artigo 920.º até que o exequente retome a prática normal dos actos executivos subsequentes.
 
-###### Artigo 848.º — [...]
+Artigo 848.º
+
+[...]
 
 1 - ...
 
@@ -915,7 +1341,9 @@ c) ...
 
 4 - O dinheiro, os papéis de crédito, as pedras e os metais preciosos que sejam apreendidos são depositados em instituição de crédito, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria.
 
-###### Artigo 851.º — [...]
+Artigo 851.º
+
+[...]
 
 1 - ...
 
@@ -927,7 +1355,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 854.º — [...]
+Artigo 854.º
+
+[...]
 
 1 - Quando solicitado pelo agente de execução, o depositário é obrigado a apresentar os bens que tenha recebido, salvo o disposto nos artigos anteriores.
 
@@ -937,7 +1367,9 @@ c) ...
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 856.º — [...]
+Artigo 856.º
+
+[...]
 
 1 - ...
 
@@ -953,7 +1385,9 @@ c) ...
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 857.º — [...]
+Artigo 857.º
+
+[...]
 
 1 - A penhora de direitos incorporados em títulos de crédito e valores mobiliários titulados não abrangidos pelo n.º 14 do artigo 861.º-A realiza-se mediante a apreensão do título, ordenando-se ainda, sempre que possível, o averbamento do ónus resultante da penhora.
 
@@ -961,7 +1395,9 @@ c) ...
 
 3 - Os títulos de crédito apreendidos são depositados em instituição de crédito, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria.
 
-###### Artigo 859.º — [...]
+Artigo 859.º
+
+[...]
 
 1 - Se o devedor declarar que a exigibilidade da obrigação depende de prestação a efectuar pelo executado e este confirmar a declaração, o executado é notificado para satisfazer a prestação no prazo de 15 dias.
 
@@ -971,7 +1407,9 @@ c) ...
 
 4 - Nos casos a que se refere o n.º 2, a prestação pode ser exigida na mesma execução e sem necessidade de citação do executado, servindo de título executivo a sua declaração de reconhecimento da dívida.
 
-###### Artigo 860.º — [...]
+Artigo 860.º
+
+[...]
 
 1 - Logo que a dívida se vença, o devedor que não a haja contestado é obrigado:
 
@@ -987,7 +1425,9 @@ b) A apresentar o documento do depósito ou a entregar a coisa devida ao agente 
 
 5 - ...
 
-###### Artigo 861.º — [...]
+Artigo 861.º
+
+[...]
 
 1 - ...
 
@@ -995,7 +1435,9 @@ b) A apresentar o documento do depósito ou a entregar a coisa devida ao agente 
 
 3 - Findo o prazo de oposição, se esta não tiver sido deduzida, ou julgada a oposição improcedente, o agente de execução entrega ao exequente as quantias depositadas que não garantam crédito reclamado, até ao valor da dívida exequenda, depois de descontado o montante relativo a despesas de execução referido no n.º 3 do artigo 821.º
 
-###### Artigo 861.º-A — [...]
+Artigo 861.º-A
+
+[...]
 
 1 - ...
 
@@ -1033,7 +1475,9 @@ b) Determina o limite da penhora, expresso em euros, calculado pelo agente de ex
 
 14 - Com a excepção da alínea b) do n.º 5, os números anteriores aplicam-se, com as necessárias adaptações, à penhora de valores mobiliários, escriturais ou titulados, integrados em sistema centralizado, registados ou depositados em intermediário financeiro ou registados junto do respectivo emitente.
 
-###### Artigo 862.º — [...]
+Artigo 862.º
+
+[...]
 
 1 - ...
 
@@ -1047,7 +1491,9 @@ b) Determina o limite da penhora, expresso em euros, calculado pelo agente de ex
 
 6 - ...
 
-###### Artigo 864.º — [...]
+Artigo 864.º
+
+[...]
 
 1 - A citação do executado, do cônjuge e dos credores é efectuada nos termos gerais, mas só a do executado pode ter lugar editalmente, nos termos de portaria do membro do Governo responsável pela área da justiça.
 
@@ -1079,13 +1525,17 @@ d) (Revogada.)
 
 11 - (Anterior n.º 10.)
 
-###### Artigo 864.º-A — [...]
+Artigo 864.º-A
+
+[...]
 
 1 - O cônjuge do executado, citado nos termos da alínea a) do n.º 3 do artigo anterior, é admitido a deduzir, no prazo de 10 dias, ou até ao termo do prazo concedido ao executado, se terminar depois daquele, oposição à execução ou à penhora e a exercer, no apenso de verificação e graduação de créditos e na fase do pagamento, todos os direitos que a lei processual confere ao executado.
 
 2 - O cônjuge do executado também pode requerer a separação dos bens do casal, nos termos do n.º 5 do artigo 825.º, quando a penhora recaia sobre bens comuns.
 
-###### Artigo 866.º — [...]
+Artigo 866.º
+
+[...]
 
 1 - Findo o prazo para a reclamação de créditos, ou apresentada reclamação nos termos do n.º 3 do artigo 865.º, dela são notificados, pela secretaria do tribunal, o executado, o exequente, os credores reclamantes e o cônjuge do executado, caso se tenha oposto à execução ou à penhora nos termos do n.º 1 do artigo 864.º-A, aplicando-se à notificação do executado o artigo 235.º, devidamente adaptado, sem prejuízo de a notificação se fazer na pessoa do mandatário, quando constituído.
 
@@ -1097,7 +1547,9 @@ d) (Revogada.)
 
 5 - ...
 
-###### Artigo 869.º — [...]
+Artigo 869.º
+
+[...]
 
 1 - ...
 
@@ -1113,11 +1565,15 @@ d) (Revogada.)
 
 7 - ...
 
-###### Artigo 870.º — Suspensão da execução nos casos de insolvência
+Artigo 870.º
+
+Suspensão da execução nos casos de insolvência
 
 Qualquer credor pode obter a suspensão da execução, a fim de impedir os pagamentos, mostrando que foi requerida a recuperação de empresa ou a insolvência do executado.
 
-###### Artigo 871.º — [...]
+Artigo 871.º
+
+[...]
 
 1 - Pendendo mais de uma execução sobre os mesmos bens, é sustada, quanto a estes, aquela em que a penhora tenha sido posterior.
 
@@ -1125,13 +1581,17 @@ Qualquer credor pode obter a suspensão da execução, a fim de impedir os pagam
 
 3 - A sustação prevista no n.º 1 pode, ainda, ser realizada a todo o tempo, a requerimento do exequente, do executado ou de credor citado para reclamar o seu crédito, nos termos do número anterior.
 
-###### Artigo 872.º — [...]
+Artigo 872.º
+
+[...]
 
 1 - O pagamento pode ser feito pela entrega de dinheiro, pela adjudicação dos bens penhorados, pela consignação dos seus rendimentos ou pelo produto da respectiva venda.
 
 2 - ...
 
-###### Artigo 875.º — [...]
+Artigo 875.º
+
+[...]
 
 1 - ...
 
@@ -1149,17 +1609,23 @@ Qualquer credor pode obter a suspensão da execução, a fim de impedir os pagam
 
 8 - ...
 
-###### Artigo 878.º — [...]
+Artigo 878.º
+
+[...]
 
 É aplicável à adjudicação de bens, com as necessárias adaptações, o disposto nos artigos 887.º e 888.º, no n.º 2 do artigo 897.º, nos n.os 1 a 2 do artigo 898.º e nos artigos 900.º, 901.º e 908.º a 911.º
 
-###### Artigo 882.º — [...]
+Artigo 882.º
+
+[...]
 
 1 - É admitido o pagamento em prestações da dívida exequenda, se exequente e executado, de comum acordo, requererem, ao agente de execução, a suspensão da execução.
 
 2 - ...
 
-###### Artigo 886.º — [...]
+Artigo 886.º
+
+[...]
 
 1 - ...
 
@@ -1179,7 +1645,9 @@ g) Venda em leilão electrónico.
 
 2 - ...
 
-###### Artigo 886.º-A — [...]
+Artigo 886.º-A
+
+[...]
 
 1 - ...
 
@@ -1199,7 +1667,9 @@ b) Igual ao seu valor de mercado, nos restantes casos.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 886.º-C — [...]
+Artigo 886.º-C
+
+[...]
 
 1 - O agente de execução pode realizar ou autorizar a venda antecipada de bens, quando estes não possam ou não devam conservar-se, por estarem sujeitos a deterioração ou depreciação, ou quando haja manifesta vantagem na antecipação da venda.
 
@@ -1209,7 +1679,9 @@ b) Igual ao seu valor de mercado, nos restantes casos.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 890.º — [...]
+Artigo 890.º
+
+[...]
 
 1 - Determinada a venda mediante propostas em carta fechada, o juiz designa o dia e a hora para a abertura das propostas, devendo aquela ser publicitada, pelo agente de execução, com a antecipação de 10 dias:
 
@@ -1225,17 +1697,23 @@ b) Mediante edital a afixar na porta dos prédios urbanos a vender.
 
 5 - Se a sentença que se executa estiver pendente de recurso ou estiver pendente oposição à execução ou à penhora, faz-se menção do facto no edital e no anúncio.
 
-###### Artigo 891.º — [...]
+Artigo 891.º
+
+[...]
 
 Até ao dia de abertura das propostas, o depositário é obrigado a mostrar os bens a quem pretenda examiná-los, podendo este fixar as horas em que, durante o dia, faculta a inspecção e devendo o agente de execução indicá-las no anúncio e no edital da venda.
 
-###### Artigo 897.º — [...]
+Artigo 897.º
+
+[...]
 
 1 - Os proponentes devem juntar à sua proposta, como caução, um cheque visado, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria, no montante correspondente a 5 % do valor anunciado para a venda, ou garantia bancária no mesmo valor.
 
 2 - Aceite alguma proposta, o proponente ou preferente é notificado para, no prazo de 15 dias, depositar numa instituição de crédito, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria, a totalidade ou a parte do preço em falta.
 
-###### Artigo 898.º — [...]
+Artigo 898.º
+
+[...]
 
 1 - Findo o prazo referido no n.º 2 do artigo anterior e o proponente ou preferente não tiver depositado o preço, ouvidos interessados na venda, o agente de execução pode:
 
@@ -1251,7 +1729,9 @@ c) Liquidar a responsabilidade do proponente ou preferente remisso, devendo ser 
 
 4 - ...
 
-###### Artigo 901.º-A — [...]
+Artigo 901.º-A
+
+[...]
 
 1 - A venda de estabelecimento comercial de valor superior a 500 UC tem lugar, sob proposta do exequente, do executado ou de um credor que sobre ele tenha garantia real, mediante propostas em carta fechada.
 
@@ -1259,7 +1739,9 @@ c) Liquidar a responsabilidade do proponente ou preferente remisso, devendo ser 
 
 3 - ...
 
-###### Artigo 904.º — [...]
+Artigo 904.º
+
+[...]
 
 A venda é feita por negociação particular:
 
@@ -1275,7 +1757,9 @@ e) Quando se frustre a venda em depósito público ou equiparado, por falta de p
 
 f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
-###### Artigo 905.º — [...]
+Artigo 905.º
+
+[...]
 
 1 - ...
 
@@ -1289,7 +1773,9 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 6 - A venda de imóvel em que tenha sido, ou esteja sendo, feita construção urbana, ou de fracção dele, pode efectuar-se no estado em que se encontre, com dispensa da licença de utilização ou de construção, cuja falta de apresentação a entidade com competência para a formalização do acto faz consignar no documento, constituindo ónus do adquirente a respectiva legalização.
 
-###### Artigo 906.º — [...]
+Artigo 906.º
+
+[...]
 
 1 - ...
 
@@ -1299,7 +1785,9 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 4 - O gerente do estabelecimento deposita o preço líquido em instituição de crédito, à ordem do agente de execução ou, nos casos em que as diligências de execução são realizadas por oficial de justiça, da secretaria, e apresenta no processo o respectivo conhecimento, nos cinco dias posteriores à realização da venda, sob cominação das sanções aplicáveis ao infiel depositário.
 
-###### Artigo 907.º-A — Venda em depósito público ou equiparado
+Artigo 907.º-A
+
+Venda em depósito público ou equiparado
 
 1 - São vendidos em depósito público ou equiparado os bens que tenham sido para aí removidos e não devam ser vendidos por outra forma.
 
@@ -1307,7 +1795,9 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 3 - O modo de realização da venda em depósito público ou equiparado, que deve ter em conta a natureza dos bens a vender, é regulado em portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 908.º — [...]
+Artigo 908.º
+
+[...]
 
 1 - Se, depois da venda, se reconhecer a existência de algum ónus ou limitação que não fosse tomado em consideração e que exceda os limites normais inerentes aos direitos da mesma categoria, ou de erro sobre a coisa transmitida, por falta de conformidade com o que foi anunciado, o comprador pode pedir, na execução, a anulação da venda e a indemnização a que tenha direito, sendo aplicável o artigo 906.º do Código Civil.
 
@@ -1315,13 +1805,17 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 3 - ...
 
-###### Artigo 913.º — [...]
+Artigo 913.º
+
+[...]
 
 1 - ...
 
 2 - Aplica-se ao remidor, que exerça o seu direito no acto de abertura e aceitação das propostas em carta fechada, o disposto no artigo 897.º, com as adaptações necessárias, bem como o disposto nos n.os 1 a 2 do artigo 898.º, devendo o preço ser integralmente depositado quando o direito de remição seja exercido depois desse momento, com o acréscimo de 5 % para indemnização do proponente se este já tiver feito o depósito referido no n.º 2 do artigo 897.º, e aplicando-se, em qualquer caso, o disposto no artigo 900.º
 
-###### Artigo 916.º — [...]
+Artigo 916.º
+
+[...]
 
 1 - ...
 
@@ -1333,7 +1827,9 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 917.º — [...]
+Artigo 917.º
+
+[...]
 
 1 - ...
 
@@ -1347,7 +1843,9 @@ f) Quando se frustre a venda em leilão electrónico por falta de proponentes.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 919.º — [...]
+Artigo 919.º
+
+[...]
 
 1 - A execução extingue-se nas seguintes situações:
 
@@ -1363,7 +1861,9 @@ d) Quando ocorra outra causa de extinção da execução.
 
 3 - A extinção da execução é comunicada, por via electrónica, ao tribunal, sendo assegurado pelo sistema informático o arquivo automático e electrónico do processo, sem necessidade de intervenção judicial ou da secretaria.
 
-###### Artigo 920.º — [...]
+Artigo 920.º
+
+[...]
 
 1 - ...
 
@@ -1375,7 +1875,9 @@ d) Quando ocorra outra causa de extinção da execução.
 
 5 - O exequente pode ainda requerer a renovação da execução extinta nos termos da alínea c) do n.º 1 do artigo 919.º, quando indique bens penhoráveis aplicando-se, com as necessárias adaptações, o disposto no número anterior.
 
-###### Artigo 921.º — [...]
+Artigo 921.º
+
+[...]
 
 1 - Se a execução correr à revelia do executado e este não tiver sido citado, quando o deva ser, ou houver fundamento para declarar nula a citação, pode o executado requerer a todo o tempo, na execução, que esta seja anulada.
 
@@ -1385,7 +1887,9 @@ d) Quando ocorra outra causa de extinção da execução.
 
 4 - Se, após a venda, tiver decorrido o tempo necessário para a usucapião, o executado fica apenas com o direito de exigir do exequente, no caso de dolo ou de má fé deste, a indemnização do prejuízo sofrido, se esse direito não tiver prescrito entretanto.
 
-###### Artigo 936.º — [...]
+Artigo 936.º
+
+[...]
 
 1 - Mesmo antes de terminada a avaliação ou a execução regulada no artigo anterior, pode o exequente fazer, ou mandar fazer sob sua direcção e vigilância, as obras e trabalhos necessários para a prestação do facto, com a obrigação de dar contas ao agente de execução.
 
@@ -1393,13 +1897,17 @@ d) Quando ocorra outra causa de extinção da execução.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 937.º — [...]
+Artigo 937.º
+
+[...]
 
 1 - Aprovadas as contas pelo agente de execução, o crédito do exequente é pago pelo produto da execução a que se refere o artigo 935.º
 
 2 - ...
 
-###### Artigo 941.º — [...]
+Artigo 941.º
+
+[...]
 
 1 - Quando a obrigação do devedor consista em não praticar algum facto, o credor pode requerer, no caso de violação, que esta seja verificada por meio de perícia e que o juiz ordene:
 
@@ -1415,7 +1923,9 @@ c) O pagamento da quantia devida a título de sanção pecuniária compulsória,
 
 4 - ...
 
-###### Artigo 990.º — [...]
+Artigo 990.º
+
+[...]
 
 1 - ...
 
@@ -1449,7 +1959,9 @@ a) Cópia da sentença;
 
 b) A informação e a documentação enviada pelo autor nos termos do n.º 1.
 
-###### Artigo 812.º-C — Diligências iniciais
+Artigo 812.º-C
+
+Diligências iniciais
 
 Sem prejuízo do disposto no artigo seguinte, o agente de execução que receba o processo analisa-o e inicia imediatamente as consultas e as diligências prévias à penhora nos termos dos artigos 832.º e 833.º-A, e procede à penhora nas execuções baseadas em:
 
@@ -1465,7 +1977,9 @@ ii) Excedendo o montante da dívida a alçada do tribunal da relação, o exeque
 
 d) Qualquer outro título de obrigação pecuniária vencida de montante não superior à alçada do tribunal da relação, desde que não tenham sido indicados à penhora, pelo exequente, estabelecimento comercial, direito real menor que sobre eles incida ou quinhão em património que os inclua.
 
-###### Artigo 812.º-D — Remessa do processo para despacho liminar
+Artigo 812.º-D
+
+Remessa do processo para despacho liminar
 
 O agente de execução que receba o processo deve analisá-lo e remetê-lo electronicamente ao juiz para despacho liminar nos seguintes casos:
 
@@ -1483,7 +1997,9 @@ f) Se o agente de execução suspeitar que se verifica uma das situações previ
 
 g) Se, pedida a execução de sentença arbitral, o agente de execução duvidar de que o litígio pudesse ser cometido à decisão por árbitros, quer por estar submetido, por lei especial, exclusivamente a tribunal judicial ou a arbitragem necessária, quer por o direito litigioso não ser disponível pelo seu titular.
 
-###### Artigo 812.º-E — Indeferimento liminar
+Artigo 812.º-E
+
+Indeferimento liminar
 
 1 - Nos casos previstos no artigo anterior, o juiz indefere liminarmente o requerimento executivo quando:
 
@@ -1501,7 +2017,9 @@ c) Fundando-se a execução em título negocial, seja manifesto, face aos elemen
 
 5 - Quando o processo deva prosseguir e, no caso do n.º 3 do artigo 804.º, o devedor deva ser ouvido, o juiz profere despacho de citação do executado para, no prazo de 20 dias, pagar ou opor-se à execução.
 
-###### Artigo 812.º-F — Citação prévia e dispensa de citação prévia
+Artigo 812.º-F
+
+Citação prévia e dispensa de citação prévia
 
 1 - A penhora é efectuada sem citação prévia do executado nos casos do artigo 812.º-C, excepto quando a citação prévia pelo agente de execução tenha sido requerida pelo exequente.
 
@@ -1521,7 +2039,9 @@ d) Quando, no registo informático de execuções, conste a menção da frustra�
 
 5 - Ocorrendo especial dificuldade em efectuar a citação prévia, designadamente por ausência do citando em parte certa, o juiz pode dispensar a sua realização, a requerimento do exequente, quando, nos termos do n.º 3, a demora justifique o justo receio de perda da garantia patrimonial do crédito.
 
-###### Artigo 833.º-A — Diligências prévias à penhora
+Artigo 833.º-A
+
+Diligências prévias à penhora
 
 1 - Não há lugar a diligências prévias à penhora para identificação ou localização de bens penhoráveis sempre que no requerimento executivo sejam identificados bens referidos nas alíneas a) a d) do n.º 1 do artigo 834.º de valor previsivelmente igual ou superior ao crédito exequendo acrescido das custas previsíveis da execução.
 
@@ -1541,7 +2061,9 @@ b) O nome e os números de identificação civil ou de beneficiário da seguran�
 
 7 - A consulta de outras declarações ou de outros elementos protegidos pelo sigilo fiscal, bem como de outros dados sujeitos a regime de confidencialidade, fica sujeita a despacho judicial de autorização, aplicando-se o n.º 2 do artigo 519.º-A, com as necessárias adaptações.
 
-###### Artigo 833.º-B — Resultado das diligências prévias à penhora
+Artigo 833.º-B
+
+Resultado das diligências prévias à penhora
 
 1 - Após as consultas efectuadas nos termos do artigo anterior, o agente de execução notifica o exequente, preferencialmente por via electrónica, do resultado da consulta ao registo informático das execuções e dos bens penhoráveis identificados ou do facto de não ter identificado quaisquer bens penhoráveis.
 
@@ -1565,7 +2087,9 @@ a) Não tenha feito qualquer declaração; ou
 
 b) Haja feito declaração falsa de que tenha resultado o não apuramento de bens suficientes para satisfação da obrigação.
 
-###### Artigo 907.º-B — Venda em leilão electrónico
+Artigo 907.º-B
+
+Venda em leilão electrónico
 
 1 - Excepto nos casos referidos nos artigos 902.º e 903.º, a venda de bens imóveis e de bens móveis penhorados é sempre feita em leilão electrónico, nos termos a definir por portaria do membro do Governo responsável pela área da justiça:
 
@@ -1593,7 +2117,9 @@ Os artigos 70.º, 93.º, 115.º a 129.º, 131.º, 142.º e 165.º do Estatuto da
 
 3 - A caixa de compensações dos agentes de execução é sujeita a regulamentação autónoma.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - Podem requerer a inscrição no estágio:
 
@@ -1605,17 +2131,23 @@ b) ...
 
 3 - ...
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
 2 - O solicitador ou advogado que foi agente de execução está impedido de exercer mandato judicial em representação do exequente ou do executado, durante três anos contados a partir da extinção da execução na qual tenha assumido as funções de agente de execução.
 
-###### Artigo 116.º — Exercício da actividade de agente de execução
+Artigo 116.º
+
+Exercício da actividade de agente de execução
 
 As competências específicas de agente de execução e as demais funções que lhe forem atribuídas podem ser exercidas nos termos deste Estatuto e da lei e sob fiscalização da Comissão para a Eficácia das Execuções.
 
-###### Artigo 117.º — Requisitos de inscrição e registo
+Artigo 117.º
+
+Requisitos de inscrição e registo
 
 1 - Só pode exercer as funções de agente de execução o solicitador ou o advogado que:
 
@@ -1639,7 +2171,9 @@ h) Requeira a inscrição ou registo até três anos após a conclusão do está
 
 3 - (Revogado.)
 
-###### Artigo 118.º — Estágio de agente de execução
+Artigo 118.º
+
+Estágio de agente de execução
 
 1 - A duração do estágio de agente de execução é de 10 meses.
 
@@ -1693,13 +2227,17 @@ a) Ser designada para os efeitos previstos no n.os 5 a 13 por mais de três per�
 
 b) Ministrar cursos ou associar-se à organização de cursos de preparação para o exame de admissão a estágio de agente de execução durante o período para o qual for designada.
 
-###### Artigo 119.º — Inscrição e registo definitivos e início de funções
+Artigo 119.º
+
+Inscrição e registo definitivos e início de funções
 
 1 - Verificado o cumprimento dos requisitos de inscrição ou de registo, a cópia do processo do agente de execução estagiário é remetida ao Conselho Geral.
 
 2 - O agente de execução só pode iniciar funções após a prestação de juramento solene perante o presidente regional da Câmara dos Solicitadores e o presidente do Conselho Distrital da Ordem dos Advogados em que assuma o compromisso de cumprir as funções de agente de execução nos termos da lei e deste Estatuto.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - É incompatível com o exercício das funções de agente de execução:
 
@@ -1713,7 +2251,9 @@ c) O desenvolvimento no seu escritório de outra actividade para além das de so
 
 3 - São ainda aplicáveis subsidiariamente aos agentes de execução as incompatibilidades gerais inerentes à profissão de solicitador e de advogado.
 
-###### Artigo 121.º — Impedimentos e suspeições do agente de execução
+Artigo 121.º
+
+Impedimentos e suspeições do agente de execução
 
 1 - É aplicável ao agente de execução, com as necessárias adaptações, o regime estabelecido no Código de Processo Civil acerca dos impedimentos e suspeições dos funcionários da secretaria.
 
@@ -1727,7 +2267,9 @@ b) ...
 
 4 - São ainda subsidiariamente aplicáveis aos agentes de execução os impedimentos gerais inerentes à profissão de solicitador e de advogado.
 
-###### Artigo 122.º — [...]
+Artigo 122.º
+
+[...]
 
 1 - Os agentes de execução podem requerer à Comissão para a Eficácia das Execuções, em casos excepcionais e devidamente fundamentados, a suspensão de aceitar novos processos.
 
@@ -1747,7 +2289,9 @@ d) [Anterior alínea b).]
 
 5 - Se o motivo não for considerado justificado, o agente de execução tem de continuar a exercer as suas funções, sob pena de ser instaurado processo disciplinar.
 
-###### Artigo 123.º — Deveres do agente de execução
+Artigo 123.º
+
+Deveres do agente de execução
 
 1 - Para além dos deveres a que estão sujeitos por estar inscrito como solicitador ou como advogado, e sem prejuízo do disposto nos artigos seguintes, são deveres do agente de execução:
 
@@ -1783,7 +2327,9 @@ p) Desempenhar diligentemente as funções de patrono no segundo período de est
 
 2 - Os actos processuais efectivamente praticados pelo agente de execução não estão sujeitos ao dever de sigilo profissional.
 
-###### Artigo 124.º — Contas-clientes do agente de execução
+Artigo 124.º
+
+Contas-clientes do agente de execução
 
 1 - Os agentes de execução estão sujeitos às disposições sobre conta-clientes previstas neste Estatuto, acrescidas das especificidades constantes dos números seguintes.
 
@@ -1809,7 +2355,9 @@ b) Na conta-cliente dos executados, todas as quantias recebidas e destinadas ao 
 
 10 - Os movimentos a débito das contas-clientes são efectuados ou autorizados através de aplicação informática aprovada pelo Conselho Geral.
 
-###### Artigo 125.º — [...]
+Artigo 125.º
+
+[...]
 
 1 - ...
 
@@ -1819,7 +2367,9 @@ b) Na conta-cliente dos executados, todas as quantias recebidas e destinadas ao 
 
 4 - O Fundo de Garantia dos Agentes de Execução previsto no artigo 127.º-A é solidariamente responsável pelas obrigações do agente de execução resultantes do exercício da sua actividade se houver falta de provisão em qualquer das suas contas-clientes ou irregularidade na respectiva movimentação até ao valor máximo de (euro) 100 000.
 
-###### Artigo 126.º — [...]
+Artigo 126.º
+
+[...]
 
 1 - O agente de execução é obrigado a aplicar, na remuneração dos seus serviços, as tarifas aprovadas por portaria do membro do Governo responsável pela área da justiça, ouvida a Câmara.
 
@@ -1827,7 +2377,9 @@ b) Na conta-cliente dos executados, todas as quantias recebidas e destinadas ao 
 
 3 - O agente de execução deve afixar no seu escritório as tarifas aplicáveis nas execuções e, sempre que solicitado, fornecer aos interessados uma previsão dos custos.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - As receitas da caixa de compensações são constituídas por uma permilagem dos valores recebidos no âmbito das funções de agente de execução.
 
@@ -1841,7 +2393,9 @@ b) Na conta-cliente dos executados, todas as quantias recebidas e destinadas ao 
 
 6 - Para os efeitos do artigo 127.º-A, são cativadas 10 % das receitas anuais da caixa de compensações até ao montante de (euro) 1 000 000.
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - O agente de execução pode delegar noutro agente de execução a competência para a prática de todos ou de determinados actos numa execução, comunicando prontamente tal facto à parte que o designou.
 
@@ -1853,7 +2407,9 @@ b) Na conta-cliente dos executados, todas as quantias recebidas e destinadas ao 
 
 5 - À delegação prevista no presente artigo aplica-se ainda o Regulamento de Delegação de Execuções, aprovado pelo Conselho Geral da Câmara dos Solicitadores.
 
-###### Artigo 129.º — Substituição do agente de execução
+Artigo 129.º
+
+Substituição do agente de execução
 
 1 - No caso de morte ou incapacidade definitiva do agente de execução, bem como se este requerer a cessação das funções na especialidade, for suspenso por período superior a 10 dias ou expulso, o exequente designa substituto nos termos da lei de processo.
 
@@ -1885,7 +2441,9 @@ a) O saldo das contas-clientes referentes à execução, após liquidação das 
 
 b) A qualidade de fiel depositário na execução.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo 69.º-D, os agentes de execução são fiscalizados, pelo menos bienalmente, por uma comissão composta por um máximo de três agentes de execução nomeados ou por entidade externa designada para o efeito pelo Grupo de Gestão da Comissão para a Eficácia das Execuções, a quem apresentam um relatório no prazo de 15 dias após o termo da inspecção.
 
@@ -1895,7 +2453,9 @@ b) A qualidade de fiel depositário na execução.
 
 4 - (Revogado.)
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - ...
 
@@ -1903,7 +2463,9 @@ b) A qualidade de fiel depositário na execução.
 
 3 - As multas aplicadas a solicitadores constituem receita do respectivo conselho regional.
 
-###### Artigo 165.º — [...]
+Artigo 165.º
+
+[...]
 
 1 - ...
 
@@ -1929,11 +2491,15 @@ Colégio de Especialidade de Agentes de Execução
 
 4 - Sem prejuízo do disposto nos números anteriores e nos artigos seguintes, aplica-se, com as necessárias adaptações, o disposto nos artigos 12.º a 28.º do presente Estatuto.
 
-###### Artigo 69.º-B — Comissão para a Eficácia das Execuções
+Artigo 69.º-B
+
+Comissão para a Eficácia das Execuções
 
 A Comissão para a Eficácia das Execuções é o órgão independente da Câmara dos Solicitadores responsável em matéria de acesso e admissão a estágio, de avaliação dos agentes de execução estagiários e de disciplina dos agentes de execução.
 
-###### Artigo 69.º-C — Competências
+Artigo 69.º-C
+
+Competências
 
 Compete à Comissão para a Eficácia das Execuções:
 
@@ -1953,7 +2519,9 @@ g) Proceder a inspecções e fiscalizações aos agentes de execução;
 
 h) Decidir as questões relacionadas com os impedimentos e suspeições do agente de execução.
 
-###### Artigo 69.º-D — Composição da Comissão para a Eficácia das Execuções
+Artigo 69.º-D
+
+Composição da Comissão para a Eficácia das Execuções
 
 1 - A Comissão para a Eficácia das Execuções é composta pelos seguintes membros:
 
@@ -1985,7 +2553,9 @@ j) Um vogal cooptado por decisão maioritária dos vogais referidos nas alíneas
 
 5 - A Comissão para a Eficácia das Execuções pode solicitar a participação de representantes de outras entidades relevantes para a discussão e execução de tarefas específicas.
 
-###### Artigo 69.º-E — Funcionamento
+Artigo 69.º-E
+
+Funcionamento
 
 1 - A Comissão para a Eficácia das Execuções funciona em plenário e em grupo de gestão.
 
@@ -1999,7 +2569,9 @@ j) Um vogal cooptado por decisão maioritária dos vogais referidos nas alíneas
 
 6 - A participação dos restantes vogais no plenário confere-lhes o direito ao abono de senhas de presença, nos termos e condições a fixar por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da justiça.
 
-###### Artigo 69.º-F — Competências
+Artigo 69.º-F
+
+Competências
 
 1 - Compete ao plenário da Comissão para a Eficácia das Execuções:
 
@@ -2025,7 +2597,9 @@ a) Relativamente a agentes de execução que sejam, igualmente, solicitadores, n
 
 b) Relativamente a agentes de execução que sejam, igualmente, advogados, no Conselho Distrital de Deontologia com competência na área do domicílio profissional do agente de execução respectivo.
 
-###### Artigo 119.º-A — Sociedade de agentes de execução
+Artigo 119.º-A
+
+Sociedade de agentes de execução
 
 1 - Os agentes de execução podem constituir ou participar em sociedades com o objecto exclusivo de exercício das competências específicas de agente de execução.
 
@@ -2033,7 +2607,9 @@ b) Relativamente a agentes de execução que sejam, igualmente, advogados, no Co
 
 3 - Compete ao conselho geral regulamentar o registo das sociedades de agentes de execução.
 
-###### Artigo 119.º-B — Lista dos agentes de execução
+Artigo 119.º-B
+
+Lista dos agentes de execução
 
 1 - O conselho geral é responsável pelo tratamento dos dados constantes da lista dos agentes de execução, devendo registar os agentes de execução inscritos e registados, por comarca, devendo manter a lista permanentemente actualizada, indicando designadamente:
 
@@ -2045,7 +2621,9 @@ b) Os agentes de execução suspensos.
 
 3 - O agente de execução impossibilitado de exercer as suas funções é excluído da lista informática.
 
-###### Artigo 127.º-A — Fundo de Garantia dos Agentes de Execução
+Artigo 127.º-A
+
+Fundo de Garantia dos Agentes de Execução
 
 1 - O Fundo de Garantia dos Agentes de Execução destina-se a garantir o cumprimento das obrigações assumidas ao abrigo do n.º 4 do artigo 125.º
 
@@ -2053,7 +2631,9 @@ b) Os agentes de execução suspensos.
 
 3 - O Fundo é gerido por um profissional especificamente designado para o efeito, nomeado pelo Conselho Geral.
 
-###### Artigo 131.º-A — Infracções disciplinares do agente de execução
+Artigo 131.º-A
+
+Infracções disciplinares do agente de execução
 
 1 - É aplicável ao agente de execução, com as necessárias adaptações, o regime a que estão sujeitos os solicitadores, no que diz respeito à acção disciplinar, designadamente aos deveres e à responsabilidade disciplinar.
 
@@ -2079,7 +2659,9 @@ i) Não entregar ao cliente, à Câmara ou ao Estado as quantias a estes devidos
 
 j) Contratar ou manter funcionários ou colaboradores sem cumprir o regulamento específico aprovado pela assembleia geral.
 
-###### Artigo 131.º-B — Penas disciplinares do agente de execução
+Artigo 131.º-B
+
+Penas disciplinares do agente de execução
 
 1 - São aplicáveis ao agente de execução as penas disciplinares a que estão sujeitos os solicitadores, acrescidas das especificidades constantes dos números seguintes.
 
@@ -2091,7 +2673,9 @@ j) Contratar ou manter funcionários ou colaboradores sem cumprir o regulamento 
 
 5 - As multas aplicadas a agentes de execução constituem receita da caixa de compensações.
 
-###### Artigo 131.º-C — Publicidade das penas disciplinares do agente de execução
+Artigo 131.º-C
+
+Publicidade das penas disciplinares do agente de execução
 
 1 - É aplicável ao agente de execução o regime da publicidade das penas disciplinares a que estão sujeitos os solicitadores, acrescidas das especificidades constantes do número seguinte.
 
@@ -2139,7 +2723,9 @@ Os artigos 1.º a 11.º e 13.º do [Decreto-Lei n.º 201/2003](https://diariodar
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O registo informático de execuções contém o rol das execuções pendentes e, relativamente a cada uma delas, a seguinte informação:
 
@@ -2177,17 +2763,23 @@ c) A extinção da execução por não terem sido encontrados bens penhoráveis,
 
 7 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O agente de execução inscreve a execução no registo informático após a consulta prévia efectuada nos termos do artigo 832.º do Código de Processo Civil.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os dados do registo informático de execuções são inscritos e actualizados pelo agente de execução a partir dos elementos de que disponha.
 
 2 - Os dados constantes dos n.os 1 e 2 do artigo 2.º são introduzidos no prazo de dois dias úteis após a sua obtenção.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A actualização ou rectificação dos dados inscritos no registo informático de execuções pode ser requerida pelo respectivo titular, a todo o tempo, junto da secretaria do tribunal materialmente competente.
 
@@ -2197,7 +2789,9 @@ O agente de execução inscreve a execução no registo informático após a con
 
 4 - A menção de execução finda com pagamento parcial ou de execução extinta, nos termos das alíneas b) e c) do n.º 2 do artigo 2.º, é eliminada a requerimento do devedor logo que este prove o cumprimento da obrigação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -2215,13 +2809,17 @@ e) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 7.º — Competência para deferir a consulta
+Artigo 7.º
+
+Competência para deferir a consulta
 
 1 - O pedido de consulta é dirigido a qualquer tribunal cível.
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -2239,13 +2837,17 @@ e) ...
 
 8 - (Revogado.)
 
-###### Artigo 9.º — Consulta por acesso directo
+Artigo 9.º
+
+Consulta por acesso directo
 
 1 - Os magistrados judiciais e do Ministério Público, as pessoas capazes de exercer o mandato judicial e os agentes de execução têm acesso directo ao registo informático, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O pedido de consulta pelo titular dos dados ou por quem tenha autorização do titular dos dados é dirigido à secretaria do tribunal competente.
 
@@ -2263,7 +2865,9 @@ e) ...
 
 8 - A passagem do certificado deve ser rejeitada se o requerente não tiver legitimidade ou não respeitar o disposto nos n.os 2 a 4, sendo o requerimento devolvido com decisão fundamentada do oficial de justiça.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Nos casos referidos na alínea e) do n.º 1 do artigo 6.º, em que não haja autorização do titular dos dados, o requerimento de autorização para consulta do registo informático de execuções é dirigido ao juiz do tribunal competente, em modelo aprovado nos termos do n.º 2 do artigo anterior.
 
@@ -2279,7 +2883,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Sem prejuízo do previsto no artigo 5.º relativamente à eliminação de determinados dados, os dados constantes do registo informático de execuções são conservados em registo até 10 anos após a extinção da execução.»
 
@@ -2309,7 +2915,9 @@ c) Promover o cumprimento pontual das obrigações.
 
 4 - A Direcção-Geral da Administração da Justiça é a entidade responsável pelo tratamento dos dados constantes da lista pública de execuções.
 
-###### Artigo 16.º-B — Actualização e rectificação de registos na lista pública de execuções
+Artigo 16.º-B
+
+Actualização e rectificação de registos na lista pública de execuções
 
 1 - A lista identifica, relativamente a cada execução:
 
@@ -2339,7 +2947,9 @@ d) O facto que determinou a extinção da execução.
 
 10 - À lista pública de execuções aplica-se, com as necessárias adaptações, o disposto no artigo 14.º e nas alíneas a), b) e e) do n.º 1 e no n.º 2 do artigo 15.º
 
-###### Artigo 16.º-C — Eliminação e suspensão dos registos da lista pública de execuções
+Artigo 16.º-C
+
+Eliminação e suspensão dos registos da lista pública de execuções
 
 1 - Todos os registos constantes da lista pública de execuções referentes a processos executivos findos há mais de cinco anos são oficiosamente retirados.
 
@@ -2357,7 +2967,9 @@ Os artigos 1.º, 2.º, 3.º e 5.º do [Decreto-Lei n.º 202/2003](https://diario
 
 O presente decreto-lei estabelece o regime das comunicações por meios telemáticos entre a secretaria judicial e o agente de execução, no âmbito do exercício das competências deste em sede de processo executivo.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Na transmissão de quaisquer documentos, informações, notificações ou outras mensagens dirigidas ao agente de execução pode a secretaria judicial utilizar meios telemáticos que garantam a segurança das comunicações, designadamente a respectiva confidencialidade e fiabilidade, bem como a identificação inequívoca do transmissor e do destinatário.
 
@@ -2367,7 +2979,9 @@ O presente decreto-lei estabelece o regime das comunicações por meios telemát
 
 4 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -2379,7 +2993,9 @@ O presente decreto-lei estabelece o regime das comunicações por meios telemát
 
 5 - No que respeita a quaisquer documentos respeitantes à efectivação do acto de citação, a comunicação por meios telemáticos dispensa a junção aos autos pelo agente de execução dos respectivos originais, nos termos a definir por portaria do membro do Governo responsável pela área da justiça.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O juiz pode determinar, a todo o tempo, oficiosamente ou a requerimento de qualquer das partes, a apresentação, pelo agente de execução, do original do documento transmitido por meios telemáticos.»
 
@@ -2407,7 +3023,9 @@ Os artigos 10.º, 11.º, 13.º e 14.º do anexo ao [Decreto-Lei n.º 269/98](htt
 
 7 - O disposto na alínea n) do n.º 2 não é aplicável quando o requerimento de injunção for apresentado por meios electrónicos, assegurando o sistema informático a identificação do requerente ou mandatário que procede à apresentação do requerimento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -2429,13 +3047,17 @@ h) ...
 
 2 - ...
 
-###### Artigo 13.º — Conteúdo e efeito das notificações
+Artigo 13.º
+
+Conteúdo e efeito das notificações
 
 1 - (Anterior corpo do artigo.)
 
 2 - As notificações efectuadas nos termos do número e dos artigos anteriores interrompem a prescrição nos termos do disposto no artigo 323.º do Código Civil.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -2547,12 +3169,12 @@ b) O disposto nos artigos 15.º, 467.º, 675.º-A, 808.º, 810.º, 833.º-A, 837
 
 Visto e aprovado em Conselho de Ministros de 25 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Alberto Bernardes Costa - Pedro Manuel Dias de Jesus Marques - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 30 de Outubro de 2008.**
+Promulgado em 30 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Outubro de 2008.**
+Referendado em 31 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

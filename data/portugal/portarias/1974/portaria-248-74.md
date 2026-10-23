@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-1974-411819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24d030a9cbd791cffbd72141e769ee470424c509cf64dee2ecdb5820e2acd1ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4eaab6d9128089ab6de683fde81335dbb91e73add41947b274faf739ee0a418
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:47Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +109,7 @@ Nestes termos, ao abrigo do disposto na base XXVIII da [Lei n.º 2115](https://d
 
 Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Segurança Social, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 206.º do Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 206.º do Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina passa a ter a seguinte redacção:
 
 ###### ARTIGO 206.º — (Comissão de execução do estatuto)
 
@@ -101,6 +117,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Segu
 
 2. A comissão funcionará no Ministério das Corporações e Segurança Social e denominar-se-á «Comissão de Execução do Estatuto do Pessoal de Enfermagem, Técnico e Auxiliar de Medicina das Instituições de Previdência».
 
-###### Art. 2.º A presente portaria entra imediatamente em vigor.
+Art. 2.º A presente portaria entra imediatamente em vigor.
 
 Ministério das Corporações e Segurança Social, 11 de Fevereiro de 1974. - O Ministro das Corporações e Segurança Social, Joaquim Dias da Silva Pinto.

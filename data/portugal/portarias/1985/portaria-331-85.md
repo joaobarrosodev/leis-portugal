@@ -48,40 +48,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-1985-151901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2afda239cbba32b1ce58b7f9bf4de82128c258a2a61e03777de40ad3b0f56f0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f8012d4c43159b8e923a4ee3e407eaa58f6498597370c77015d973732dc226e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Peixe Congelado
+- Preço
+- Sardinha
+- Serviço de Lotas e Vendagem
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:193589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171892:por
+  label: "Dada nova redacção ao nº 15 e às als. b) e c) do art. 18.º, pelo presente diploma, pela PORT.855/85.13.11.1985.MFP,\
+    \ DR.IS [261] de 13.11.1985\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/855-1985-171892
+  date: '1985-11-13'
+- type: amended_by
+  target: pt:dre:193589:por
+  label: "Alterado o nº 15 e al. c) do nº 18 pelA PORT.69/86.1986.03.08.MF, DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-1986-193589
+  date: '1986-03-08'
+- type: cites
+  target: pt:dre:386009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643965:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:24:13Z'
   warnings: []
   errors: []
 ---
@@ -168,11 +209,11 @@ c) Será atribuído até ao máximo de 45000 contos para todo o período, e só 
 
 Secretarias de Estado do Orçamento, do Comércio Interno e das Pescas.
 
-**Assinada em 27 de Maio de 1985.**
+Assinada em 27 de Maio de 1985.
 
-**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade. - O Secretário de Estado das Pescas, Carlos Alberto Martins Pimenta.**
+O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio Interno, Agostinho Alberto Bento da Silva Abade. - O Secretário de Estado das Pescas, Carlos Alberto Martins Pimenta.
 
-## Anexo a que se refere o n.º 4.º da Portaria n.º 331/85, de 31 de Maio
+Anexo a que se refere o n.º 4.º da Portaria n.º 331/85, de 31 de Maio
 
 Normas de classificação da sardinha
 
@@ -206,6 +247,6 @@ c) Guelras - em descoloração e com muco opaco.
 
 2 - Categoria de tamanho - é determinada para cada lote segundo o seu calibre em função do peso unitário dos peixes ou do número de peixes por quilograma, agrupados em classes, designados por tamanhos, da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/12500/14811483.pdf))](https://files.diariodarepublica.pt/1s/1985/05/12500/14811483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/12500/14811483.pdf)
 
 3 - Os lotes devem ser homogéneos no que respeita à categoria frescura e calibragem. O lote que não seja homogéneo é classificado na mais baixa categoria de frescura e ou calibragem.

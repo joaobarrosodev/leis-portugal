@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1983-311799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0b395c08261055103f11269770ff3c092c9b867683dc3d865944e63b7a5d6aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00304836430f3e8363c1ceb41638a29c09e90e116421c5b2d40647089eba0756
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Embarcação
+- Energia Elétrica
+- Regulamento de Segurança das Instalações Eléctricas das Embarcações
+relationships:
+- type: cites
+  target: pt:dre:460826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577948:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:423429:por
+  label: Rectificado pela DECL.DD5963.13.05.1983.PCM, DR.IS [125-Supl] de 31.05.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-423429
+  date: '1983-05-13'
 article_structure:
   article_count: 0
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:07:20Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +104,13 @@ Em cumprimento do disposto no artigo 1.º do [Decreto-Lei n.º 379/80](https://d
 
 REGULAMENTO DE SEGURANÇA DAS INSTALAÇÕES ELÉCTRICAS DAS EMBARCAÇÕES
 
-# PARTE II
+## PARTE II
 
 Quadros eléctricos. Protecção das instalações. Distribuição. Aparelhos de comando. Cabos eléctricos.
 
 ### CAPÍTULO I — Quadros eléctricos
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definições)
 
@@ -110,13 +126,13 @@ d) Quadro de distribuição final - o conjunto de aparelhos de comando e protec�
 
 e) Circuito final - a parte da instalação que se desenvolve após a última protecção de sobreintensidade de um quadro (entre aquela protecção e o aparelho de utilização).
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Condições e disposições gerais estabelecidas na parte I do Regulamento)
 
 Serão mantidas todas as condições e disposições gerais aplicáveis aos quadros, estabelecidas na parte I do Regulamento, aprovada pelo [Decreto Regulamentar n.º 39/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1981-577948), de 26 de Agosto, tendo em consideração as regras complementares indicadas nesta parte II do Regulamento.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Etiquetas de identificação)
 
@@ -124,31 +140,31 @@ Serão mantidas todas as condições e disposições gerais aplicáveis aos quad
 
 2 - O calibre dos fusíveis e o ajuste de relais de protecção deverão também ser indicados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Marcação da tensão)
 
 Cada quadro de distribuição (geral ou final) deverá ser marcado com o valor da tensão nominal de serviço.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Temperatura ambiente)
 
 A temperatura ambiente considerada deverá estar de acordo com o indicado no artigo 3.º da parte I deste Regulamento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Partes estruturais de alumínio)
 
 Se houver partes estruturais de alumínio, deverão tomar-se as medidas necessárias para evitar a corrosão nas zonas de contacto do alumínio com outros metais.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Materiais isolantes)
 
 Os materiais isolantes deverão ser, pelo menos, não propagadores da chama e não higroscópicos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Invólucros e estruturas dos quadros)
 
@@ -166,7 +182,7 @@ Os materiais isolantes deverão ser, pelo menos, não propagadores da chama e n�
 
 7 - Os quadros com tensões diferentes deverão ficar devidamente divididos nas partes correspondentes a essas tensões distintas por materiais, pelo menos, não propagadores da chama.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Aparelhos de comando e protecção em geral)
 
@@ -180,7 +196,7 @@ Os materiais isolantes deverão ser, pelo menos, não propagadores da chama e n�
 
 5 - Os disjuntores deverão ser do tipo de actuação livre no desligar (com mecanismo que impeça o disjuntor de ficar ligado durante uma sobrecarga ou curto-circuito, mesmo que mantido na posição de ligado pelo operador).
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Ensaios dos quadros antes de montados a bordo)
 
@@ -206,7 +222,7 @@ O valor de resistência de isolamento não deverá ser inferior a 1 M(Ómega), q
 
 3 - O construtor do quadro fornecerá relatório dos ensaios realizados, sendo obrigatória a presença da entidade fiscalizadora nos casos indicados no n.º 1 do artigo 7.º do [Decreto-Lei n.º 379/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1980-460826), de 16 de Setembro.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Disposições estruturais e de montagem dos quadros eléctricos principais e de emergência)
 
@@ -230,7 +246,7 @@ O valor de resistência de isolamento não deverá ser inferior a 1 M(Ómega), q
 
 10 - Se for necessário, existirão aberturas para ventilação nas partes inferior e superior, de maneira a reduzir a elevação de temperatura. Estas aberturas não poderão reduzir o tipo de protecção do invólucro.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Barramentos e condutores em barra)
 
@@ -264,7 +280,7 @@ a) Em corrente alternada - L1, L2, L3, a partir da frente para trás, de cima pa
 
 b) Em corrente contínua - positivo, neutro e negativo, contando da mesma maneira.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Aparelhos de comando e protecção dos circuitos dos geradores)
 
@@ -288,7 +304,7 @@ b) Em corrente contínua - positivo, neutro e negativo, contando da mesma maneir
 
 10 - Os aparelhos de comando dos geradores que não funcionem em paralelo possuirão os dispositivos necessários que impeçam a sua ligação simultânea ao mesmo barramento, a não ser que sejam tomadas outras medidas impeditivas dessa manobra.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Aparelhos de comando e protecção dos circuitos de saída)
 
@@ -312,7 +328,7 @@ b) Se os interruptores forem montados antes dos fusíveis (entre o barramento e 
 
 c) Sempre que não haja razão impeditiva, devidamente justificada, será preferido o sistema de montagem indicado na alínea a) (fusíveis montados entre o barramento e os interruptores).
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Aparelhos de comando e protecção do circuito da alimentação de energia do exterior)
 
@@ -324,7 +340,7 @@ c) Sempre que não haja razão impeditiva, devidamente justificada, será prefer
 
 No caso de este circuito poder ser utilizado para o fornecimento de energia ao exterior, será também instalado no quadro um aparelho de protecção de sobreintensidade.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Aparelhos de comando e protecção dos circuitos auxiliares, de comando, medida e sinalização)
 
@@ -346,7 +362,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 7 - Os secundários dos transformadores de medida serão ligados à massa do casco.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Precisão e escalas dos aparelhos de medida)
 
@@ -360,7 +376,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 5 - Recomenda-se que os aparelhos sejam devidamente blindados, por exemplo por invólucros, de modo a reduzir os efeitos de indução provocados por condutores próximos.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Aparelhos de medida para geradores de corrente contínua)
 
@@ -374,7 +390,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 5 - Nos sistemas de distribuição a 3 fios, alimentados por geradores a 3 fios ou por sobretensor de regulação, deverá ser ligado 1 amperímetro em cada pólo de cada gerador e 1 voltímetro entre cada pólo do barramento e o condutor neutro.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Aparelhos de medida para geradores de corrente alternada)
 
@@ -386,7 +402,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 4 - Pelo menos um dos voltímetros indicados nos n.os 1 e 3 deverá ser equipado com comutador, a fim de efectuar leituras de tensão simples e compostas.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Sistema de comando de velocidade de geradores de corrente alternada)
 
@@ -394,7 +410,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 2 - Como reserva ao sistema indicado, o regulador de velocidade da máquina motriz deverá ter comando local e manual de velocidade.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Indicadores de falhas de isolamento da instalação)
 
@@ -404,7 +420,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 3 - Se for empregue um medidor de isolamento, este poderá ser comum a outros sistemas de distribuição.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Ligações internas dos quadros principais e de emergência)
 
@@ -424,7 +440,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 8 - Poderão ser aceites como alternativa às regras indicadas no n.º 6 deste artigo medidas de reforço do isolamento dos condutores com mangas ou enfitagem suplementar ou outras disposições equivalentes.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Ligadores. Terminais)
 
@@ -438,7 +454,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 5 - As ligações dos cabos do exterior do quadro poderão ser feitas aos terminais dos aparelhos de comando e protecção, sempre que executadas com segurança e não haja impedimento ou inconveniência para a passagem dos cabos até aos aparelhos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Localização e instalação dos quadros principais e de emergência)
 
@@ -456,7 +472,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 7 - Nas embarcações de passageiros de mais de 50 tAB, em que houver apenas uma estação geradora principal, o quadro principal deverá ficar situado na mesma zona principal de incêndio. Quando houver mais de uma estação geradora principal, será admitido que exista um só quadro principal.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Aparelhos diversos de regulação, comando e sinalização)
 
@@ -468,7 +484,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 4 - A regra indicada no n.º 1 deste artigo não será aplicada aos dispositivos de regulação dos geradores que, construtivamente, façam parte integrante deles. Igualmente poderão ser aceites outras excepções à aplicação daquela regra, nos casos devidamente justificados.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Quadros de emergência de tensão inferior a 50 V)
 
@@ -476,7 +492,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 2 - Serão mantidas todas as outras regras que sejam aplicáveis, nomeadamente as destinadas a assegurar a continuidade de funcionamento da instalação em condições de emergência.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Quadros de distribuição. Características em geral)
 
@@ -490,7 +506,7 @@ b) No secundário de transformadores monofásicos admite-se a protecção numa s
 
 5 - Os quadros de distribuição de tensão superior a 50 V não alimentados pela instalação principal ou que não estejam ligados a outros que possuam indicadores de falhas de isolamento, conforme prescrito no artigo 21.º, serão equipados com aqueles indicadores.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Aparelhos de corte à entrada dos quadros de distribuição)
 
@@ -502,7 +518,7 @@ a) Quadros de tensão nominal igual ou inferior a 50 V;
 
 b) Quadros cujo circuito de alimentação seja de intensidade nominal inferior ou igual a 63 A, se tiver aparelhos de corte em todos os circuitos de saída ou se for alimentado por outro quadro situado no mesmo local equipado com aparelho de corte na saída respectiva.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Aparelhos de comando e protecção dos circuitos de saída dos quadros de distribuição)
 
@@ -522,7 +538,7 @@ devendo ser cumpridas as regras indicadas nos n.os 2 e 3 do artigo 14.º
 
 4 - Os circuitos de saída dos quadros de distribuição de tensão nominal igual ou inferior a 50 V serão dispensados da existência de aparelho de corte, quando não haja prejuízo para condições especiais de funcionamento do circuito.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Quadros de faróis de navegação)
 
@@ -540,7 +556,7 @@ devendo ser cumpridas as regras indicadas nos n.os 2 e 3 do artigo 14.º
 
 ### CAPÍTULO II — Protecção das instalações
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Condições gerais)
 
@@ -562,7 +578,7 @@ b) Circuitos de iluminação, desde que não se possa ocasionar uma falha geral 
 
 4 - Os aparelhos para protecção contra as sobreintensidades deverão ser escolhidos atendendo às condições requeridas no que respeita a sobrecargas e a curtos-circuitos.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Cálculo da intensidade das correntes de curto-circuito)
 
@@ -578,7 +594,7 @@ a) Instalações de corrente alternada - 10 vezes a intensidade nominal dos gera
 
 b) Instalações de corrente contínua - 10 vezes a intensidade nominal dos geradores ligados simultaneamente, mais 6 vezes a intensidade nominal dos motores simultaneamente em serviço.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Características em geral dos aparelhos de protecção, atendendo às correntes de curto-circuito)
 
@@ -588,7 +604,7 @@ a) Ao factor de potência em curto-circuito, que nas instalações das embarcaç
 
 b) A componente subtransitória e transitória da corrente alternada de curto-circuito.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Emprego de disjuntores com poder de corte ou de fecho inferior à intensidade de curto-circuito prevista)
 
@@ -602,7 +618,7 @@ b) Quando o disjuntor (ligado do lado do utilizador) for fechado sobre a corrent
 
 3 - Poderão ser utilizados disjuntores com fusíveis montados a jusante, desde que o conjunto de disjuntores e fusíveis tenha características coordenadas, de maneira que o funcionamento dos fusíveis impeça o estabelecimento de um arco entre pólos ou peças metálicas do disjuntor, quando as correntes de sobreintensidade forem tais que o fusível actue.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Poder de corte nominal em curto-circuito)
 
@@ -610,7 +626,7 @@ b) Quando o disjuntor (ligado do lado do utilizador) for fechado sobre a corrent
 
 2 - Em corrente alternada não deverá ser inferior ao valor eficaz da componente alternada da corrente de curto-circuito prevista no ponto da instalação, com excepção do caso indicado no artigo 34.º
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Poder de fecho nominal em curto-circuito)
 
@@ -618,7 +634,7 @@ b) Quando o disjuntor (ligado do lado do utilizador) for fechado sobre a corrent
 
 2 - O disjuntor deverá ser capaz de ligar a corrente correspondente ao poder de fecho, sem abrir, durante o máximo tempo da temporização prevista.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Coordenação dos poderes de corte nominais em curto-circuito em função das condições de selectividade)
 
@@ -628,13 +644,13 @@ b) Quando o disjuntor (ligado do lado do utilizador) for fechado sobre a corrent
 
 3 - Os aparelhos de protecção deverão poder suportar, sem abrir, uma corrente pelo menos igual à corrente de curto-circuito no ponto considerado durante um tempo correspondente à sua duração de abertura, acrescido do atraso necessário à temporização.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Comportamento dos aparelhos de corte sujeitos a curtos-circuitos)
 
 Os aparelhos de corte não destinados a actuar em curto-circuito deverão ser adequados para a máxima corrente de curto-circuito que os possa percorrer durante o tempo requerido para actuação dos aparelhos de protecção respectivos.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Características dos aparelhos de protecção atendendo às sobrecargas)
 
@@ -642,7 +658,7 @@ Os aparelhos de corte não destinados a actuar em curto-circuito deverão ser ad
 
 2 - O emprego de fusíveis como protecção de sobrecargas só será admitido até 320 A, desde que tenham características adequadas, recomendando-se, no entanto, o emprego de disjuntores para valores superiores a 200 A.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Protecção dos circuitos em geral contra sobreintensidades)
 
@@ -660,7 +676,7 @@ d) Instalações de corrente alternada ou de corrente contínua a 2 fios - prote
 
 3 - Os aparelhos de protecção de sobreintensidades não poderão interromper condutores ligados à massa do casco, a não ser que o façam simultaneamente para todos os condutores do circuito.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Protecção de geradores contra sobreintensidades)
 
@@ -686,13 +702,13 @@ e) Os aparelhos de protecção dos geradores deverão ser eficientes, mesmo no c
 
 f) Atendendo às diferentes origens que os geradores possam ter e sendo, por consequência, construídos segundo normas diferentes, será verificada caso por caso a sobrecarga admissível de cada gerador, com o fim de escolher a protecção adequada.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Protecção de geradores contra curtos circuitos do lado do gerador)
 
 Quando os geradores possam funcionar em paralelo, serão tomadas em consideração as correntes de defeito que o disjuntor terá de cortar, no caso de um curto-circuito entre este gerador e o seu disjuntor.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Protecção dos circuitos dos serviços essenciais. Sistema de corte preferencial de circuitos)
 
@@ -716,7 +732,7 @@ Quando a energia eléctrica necessária a navegar tiver de ser fornecida por mai
 
 6 - Serão dispensadas do cumprimento destas regras as embarcações que não possuam auxiliares de serviços essenciais alimentados electricamente, assim como as embarcações de pesca local, de tráfego local, rebocadores locais e auxiliares locais com arqueação bruta inferior a 100 t ou que transportem menos de 50 passageiros.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Protecção de transformadores de potência contra sobreintensidades)
 
@@ -732,7 +748,7 @@ Quando a energia eléctrica necessária a navegar tiver de ser fornecida por mai
 
 6 - Os aparelhos de corte e de protecção utilizados nos circuitos dos transformadores serão previstos para suportar as sobreintensidades correspondentes à ligação do transformador.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Protecção dos circuitos de distribuição em geral contra sobreintensidades)
 
@@ -744,7 +760,7 @@ Quando a energia eléctrica necessária a navegar tiver de ser fornecida por mai
 
 4 - Os circuitos de alimentação de quadros de distribuição finais poderão ser equipados apenas com protecção de curto-circuito se a soma das intensidades nominais das protecções de sobrecarga dos circuitos finais respectivos não for superior à intensidade nominal da protecção que for necessária para o circuito de alimentação.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Protecção de motores contra sobreintensidades)
 
@@ -764,13 +780,13 @@ Quando a energia eléctrica necessária a navegar tiver de ser fornecida por mai
 
 8 - Se forem utilizados corta-circuitos fusíveis para protecção de motores polifásicos, deverão ser tomadas precauções para evitar o funcionamento em monofásico.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Protecção dos circuitos finais de iluminação contra sobreintensidades)
 
 Cada circuito final de iluminação deverá ser protegido por aparelhos adequados contra as sobrecargas e os curtos-circuitos.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Protecção do circuito de alimentação de energia do exterior contra sobreintensidades)
 
@@ -778,7 +794,7 @@ Cada circuito final de iluminação deverá ser protegido por aparelhos adequado
 
 2 - Os aparelhos de protecção indicados no n.º 1 poderão ser montados no quadro se o comprimento do cabo de ligação entre a tomada de energia do exterior e o quadro for inferior a 10 m e a intensidade nominal do circuito inferior ou igual a 63 A ou as características da embarcação tornarem impraticável a sua inclusão na caixa da tomada do exterior por razões de falta de espaço ou de localização.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Protecção de baterias de acumuladores contra sobreintensidades)
 
@@ -788,7 +804,7 @@ Cada circuito final de iluminação deverá ser protegido por aparelhos adequado
 
 3 - As baterias de acumuladores para arranque de motores de combustão poderão ter protecção contra curto-circuito ou não ter protecção. Quando não existir esta protecção, a instalação será efectuada de modo a minimizar todos os efeitos de uma possível avaria.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Protecção dos circuitos auxiliares de comando, medida e sinalização contra sobreintensidades)
 
@@ -800,7 +816,7 @@ Cada circuito final de iluminação deverá ser protegido por aparelhos adequado
 
 4 - A protecção destes circuitos será suprimida quando a sua actuação possa provocar perturbações mais graves que os próprios efeitos da avaria que deveria proteger. Deverão ser tomadas as precauções necessárias para reduzir as consequências das avarias nos circuitos desprotegidos, nomeadamente o risco de fogo e a sua propagação.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Protecção de componentes estáticos ou de semicondutores contra sobreintensidades)
 
@@ -808,7 +824,7 @@ Cada circuito final de iluminação deverá ser protegido por aparelhos adequado
 
 2 - A protecção a montante dos aparelhos indicados no n.º 1 deverá ser assegurada por disjuntor com temporização escolhida em função das características de fusão do fusível, de modo a assegurar a protecção das células contra as sobreintensidades perigosas.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Protecção contra retorno de energia em geradores de corrente alternada)
 
@@ -824,7 +840,7 @@ b) 8% a 15% da potência nominal, para geradores accionados por motores diesel c
 
 4 - Os aparelhos de protecção deverão ser adequados para suportarem o retorno de energia da instalação motivado, por exemplo, por guinchos de carga com frenagem por recuperação.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Protecção contra retorno de energia de geradores de corrente contínua)
 
@@ -834,7 +850,7 @@ b) 8% a 15% da potência nominal, para geradores accionados por motores diesel c
 
 3 - Quando existir ligação de equilíbrio, o aparelho de protecção deverá ser ligado ao pólo que não for ligado ao enrolamento compound.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Protecção de falta de tensão de geradores de corrente contínua e de corrente alternada)
 
@@ -842,7 +858,7 @@ b) 8% a 15% da potência nominal, para geradores accionados por motores diesel c
 
 2 - Recomenda-se que a protecção funcione, no caso de diminuição de tensão, instantaneamente, para valores inferiores a 40% da tensão nominal, e temporizadamente, de modo compatível com a selectividade da instalação (por exemplo 3 segundos), para valores entre 70% e 40%.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Protecção de falta de tensão de motores de corrente contínua e de corrente alternada)
 
@@ -856,13 +872,13 @@ b) Interrompendo a alimentação do motor, mas permitindo o arranque automático
 
 3 - Os motores das máquinas de leme não serão equipados com protecção de falta de tensão, assim como outros de serviço essencial cuja interrupção represente perigo grave imediato para a segurança da embarcação.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Protecção de transformadores contra sobretensões)
 
 Deverão ser tomadas as precauções necessárias para que o lado da baixa tensão dos transformadores não seja afectado por defeitos provenientes da alta tensão. A ligação à massa do casco, do lado da baixa tensão, poderá ser usada como medida preventiva.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Protecção de máquinas de corrente alternada contra sobretensões)
 
@@ -870,13 +886,13 @@ Nas instalações eléctricas de corrente alternada de alta tensão deverão tom
 
 ### CAPÍTULO III — Distribuição de circuitos
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Ligação dos geradores)
 
 A ligação dos geradores aos utilizadores poderá ser feita por intermédio de uma rede radial ou de uma rede em anel.
 
-###### ARTIGO 59.º
+ARTIGO 59.º
 
 (Ligação dos utilizadores)
 
@@ -890,7 +906,7 @@ c) Quadro de distribuição geral;
 
 d) Quadro de distribuição final.
 
-###### ARTIGO 60.º
+ARTIGO 60.º
 
 (Secção dos cabos de uma rede em anel)
 
@@ -898,19 +914,19 @@ A secção dos cabos de uma rede em anel ou de qualquer circuito malhado (por ex
 
 Estes cabos poderão ser interrompidos, se necessário, em cada quadro, sem necessidade de protecção suplementar.
 
-###### ARTIGO 61.º
+ARTIGO 61.º
 
 (Equilíbrio de cargas nos circuitos de corrente contínua a 3 fios)
 
 Os aparelhos de utilização ligados a um condutor activo (extremo) e ao condutor compensador (médio) deverão ser repartidos de maneira que, em condições normais, a carga sobre as duas metades da instalação seja equilibrada, tanto quanto possível, não diferindo entre si mais de 15%, tanto nos quadros de distribuição como nos quadros principais.
 
-###### ARTIGO 62.º
+ARTIGO 62.º
 
 (Equilíbrio de cargas nas redes de corrente alternada a 3 ou 4 fios)
 
 Os aparelhos de utilização deverão ser repartidos pelos circuitos finais de maneira que a carga, em cada fase, seja, em condições normais, equilibrada, não diferindo mais de 15%, tanto nos quadros de distribuição como nos principais.
 
-###### ARTIGO 63.º
+ARTIGO 63.º
 
 (Instalações de corrente contínua com retorno pela massa do casco)
 
@@ -920,7 +936,7 @@ Os aparelhos de utilização deverão ser repartidos pelos circuitos finais de m
 
 3 - As instalações de distribuição com retorno pela massa do casco não deverão ser instaladas a menos de 10 m de agulhas magnéticas ou de equipamentos radioeléctricos, incluindo radiogoniómetros.
 
-###### ARTIGO 64.º
+ARTIGO 64.º
 
 (Estabelecimento dos circuitos de iluminação em geral)
 
@@ -938,7 +954,7 @@ c) 18 para 220 V.
 
 4 - Os aparelhos de iluminação deverão ser alimentados por circuitos finais, distintos dos utilizados para aquecimento ou força motriz, com excepção de ventoinhas de cabina ou de radiadores portáteis.
 
-###### ARTIGO 65.º
+ARTIGO 65.º
 
 (Circuitos de iluminação de casas de máquinas e de locais acessíveis a passageiros)
 
@@ -954,7 +970,7 @@ d) Locais acessíveis a passageiros, incluindo salões e locais de reunião,
 
 deverão ser alimentados por mais de um circuito (podendo um deles ser o circuito de emergência), de modo que a falha de um dos circuitos não reduza a iluminação a um nível insuficiente nem haja interrupção prolongada na iluminação daqueles locais.
 
-###### ARTIGO 66.º
+ARTIGO 66.º
 
 (Circuitos de iluminação de locais de carga das embarcações de carga)
 
@@ -962,25 +978,25 @@ deverão ser alimentados por mais de um circuito (podendo um deles ser o circuit
 
 2 - Os interruptores e sinalizadores mencionados no n.º 1 deverão ser localizados e resguardados de modo a ficarem só acessíveis a pessoal qualificado.
 
-###### ARTIGO 67.º
+ARTIGO 67.º
 
 (Circuitos de tomadas)
 
 Os circuitos de tomadas para lâmpadas portáteis e aparelhos de utilização de tipo doméstico deverão ser estabelecidos conforme o estipulado no artigo 64.º
 
-###### ARTIGO 68.º
+ARTIGO 68.º
 
 (Circuitos de motores eléctricos em geral)
 
 Cada motor eléctrico de serviço essencial, ou qualquer motor de potência igual ou superior a 1 kW, deverá ser alimentado por circuito final próprio e separado.
 
-###### ARTIGO 69.º
+ARTIGO 69.º
 
 (Circuitos de aparelhos de aquecimento)
 
 Cada aparelho de aquecimento deverá ser alimentado por um circuito final próprio, a não ser no caso de pequenos radiadores, que poderão ser alimentados por um mesmo circuito final até ao número máximo de 10, desde que o seu consumo total não ultrapasse 16 A.
 
-###### ARTIGO 70.º
+ARTIGO 70.º
 
 (Circuitos de faróis de navegação)
 
@@ -988,7 +1004,7 @@ Cada aparelho de aquecimento deverá ser alimentado por um circuito final própr
 
 2 - A secção do condutor de alimentação de cada farol não será inferior a 1,5 mm2.
 
-###### ARTIGO 71.º
+ARTIGO 71.º
 
 (Circuitos de motores de máquinas do leme e outros circuitos essenciais)
 
@@ -1008,7 +1024,7 @@ Cada aparelho de aquecimento deverá ser alimentado por um circuito final própr
 
 8 - As embarcações de pesca local, de tráfego local, rebocadores locais e auxiliares locais com arqueação bruta inferior a 100 t ou que transportem menos de 50 passageiros serão dispensadas do cumprimento integral das regras deste artigo, podendo ser aceites simplificações, pela entidade fiscalizadora, de acordo com o tipo e serviço da embarcação.
 
-###### ARTIGO 72.º
+ARTIGO 72.º
 
 (Disposições relativas a meios de combate ou prevenção de incêndio)
 
@@ -1022,7 +1038,7 @@ c) Circuitos de alimentação dos motores eléctricos de bombas de incêndio, do
 
 d) Separação dos cabos da instalação principal e de emergência, de modo que o fogo numa zona vertical principal (de incêndio) não afecte a instalação de emergência noutra zona.
 
-###### ARTIGO 73.º
+ARTIGO 73.º
 
 (Paragem à distância de bombas com descarga para o mar)
 
@@ -1030,7 +1046,7 @@ d) Separação dos cabos da instalação principal e de emergência, de modo que
 
 2 - Os interruptores mencionados no n.º 1 deverão ficar resguardados em caixas, fechadas à chave, com tampa de vidro (ou equivalente) e devidamente identificados com etiquetas duráveis.
 
-###### ARTIGO 74.º
+ARTIGO 74.º
 
 (Circuitos de motores de bombas de esgotos submersíveis instaladas permanentemente)
 
@@ -1040,13 +1056,13 @@ d) Separação dos cabos da instalação principal e de emergência, de modo que
 
 3 - Deverá ser possível efectuar o arranque do motor de uma bomba submersível instalada permanentemente a partir de uma posição acima do pavimento das anteparas.
 
-###### ARTIGO 75.º
+ARTIGO 75.º
 
 (Circuitos dos guinchos de carga e descarga)
 
 Se os aparelhos não necessários a navegar forem alimentados pelos mesmos circuitos que os aparelhos necessários a navegar, aqueles deverão poder ser desligados, ficando completamente isolados.
 
-###### ARTIGO 76.º
+ARTIGO 76.º
 
 (Circuitos de alimentação de aparelhos de utilização diversos de baixa potência)
 
@@ -1054,7 +1070,7 @@ Se os aparelhos não necessários a navegar forem alimentados pelos mesmos circu
 
 2 - Se a tensão do circuito for igual ou inferior a 50 V, a intensidade de corrente máxima permitida será de 30 A.
 
-###### ARTIGO 77.º
+ARTIGO 77.º
 
 (Circuito de alimentação de energia do exterior)
 
@@ -1072,13 +1088,13 @@ Se os aparelhos não necessários a navegar forem alimentados pelos mesmos circu
 
 7 - A ligação do circuito de alimentação do exterior ao quadro da instalação da embarcação deverá ser feita cumprindo o estipulado no artigo 15.º
 
-###### ARTIGO 78.º
+ARTIGO 78.º
 
 (Circuitos de alimentação de equipamentos de radiocomunicações e auxiliares de navegação)
 
 Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliares de navegação serão estabelecidos e protegidos de acordo com as regras indicadas em geral para os aparelhos de utilização essenciais. Será respeitada toda a regulamentação oficial que lhes seja aplicável, nomeadamente o Regulamento do Serviço Radioeléctrico das Embarcações.
 
-###### ARTIGO 79.º
+ARTIGO 79.º
 
 (Estabelecimento das fontes de energia de emergência)
 
@@ -1094,7 +1110,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 6 - As baterias de acumuladores utilizadas para cumprir o disposto no n.º 2 deverão ligar automaticamente no caso de interrupção no fornecimento de energia da fonte normal. Deverá existir uma indicação no quadro principal de que as baterias estão à descarga.
 
-###### ARTIGO 80.º
+ARTIGO 80.º
 
 (Montagem dos circuitos de emergência)
 
@@ -1102,7 +1118,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 2 - Os circuitos da instalação de emergência que façam a alimentação de utilizadores essenciais em duplicado da alimentação da instalação normal deverão ser estabelecidos de modo a ficarem o mais afastados possível daqueles.
 
-###### ARTIGO 81.º
+ARTIGO 81.º
 
 (Quadros de emergência)
 
@@ -1114,7 +1130,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 ### CAPÍTULO IV — Aparelhos de comando. Arrancadores de motores. Freios e embraiagens magnéticas
 
-###### ARTIGO 82.º
+ARTIGO 82.º
 
 (Invólucros)
 
@@ -1124,7 +1140,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 3 - Recomenda-se o emprego de dispositivos para imobilização de manípulos e volantes de operação, assim como a existência de fechos nas portas, a fim de que não possam ser actuados ou violados por pessoas não qualificadas para tal.
 
-###### ARTIGO 83.º
+ARTIGO 83.º
 
 (Direcção de rotação de volantes ou manípulos)
 
@@ -1132,7 +1148,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 2 - Para controlar a velocidade de motores ou a tensão eléctrica de geradores, a rotação deverá ser no sentido dos ponteiros do relógio para aumentar a velocidade ou a tensão. Se o movimento do manípulo for linear, este deverá ser dirigido para cima ou para a direita, com o fim de produzir os mesmos efeitos.
 
-###### ARTIGO 84.º
+ARTIGO 84.º
 
 (Comandos de actuação manual)
 
@@ -1142,7 +1158,7 @@ Os circuitos de alimentação de equipamentos de radiocomunicações e auxiliare
 
 3 - A elevação da temperatura de manípulos ou outras partes que for necessário tocar ou empunhar em serviço não deverá ultrapassar 15ºC para partes de metal, e 25ºC, no caso de materiais isolantes.
 
-###### ARTIGO 85.º
+ARTIGO 85.º
 
 (Resistências)
 
@@ -1158,7 +1174,7 @@ c) Envolvidos por material que os proteja contra a corrosão.
 
 3 - As ligações internas entre resistências ou das resistências a réguas de terminais não deverão ser soldadas, a não ser por soldadura forte de latão ou cobre ou por soldadura autogénea. As ligações deverão ser suficientemente robustas, a fim de impedir desapertos ou deslocamentos com a vibração, assim como elevação demasiada de temperatura.
 
-###### ARTIGO 86.º
+ARTIGO 86.º
 
 (Aparelhos de corte e de fecho)
 
@@ -1168,7 +1184,7 @@ c) Envolvidos por material que os proteja contra a corrosão.
 
 3 - Os aparelhos de corte e de fecho, incluindo os seccionadores e os inversores de marcha, deverão ser ligados de modo que os enrolamentos de excitação em derivação sejam providos de circuito de dissipação de energia adequado.
 
-###### ARTIGO 87.º
+ARTIGO 87.º
 
 (Variações admissíveis de tensão e frequência)
 
@@ -1180,19 +1196,19 @@ b) Elevação da tensão até 110%;
 
 c) Variações da frequência de (mais ou menos) 5%.
 
-###### ARTIGO 88.º
+ARTIGO 88.º
 
 (Queda de tensão em bobinas ligadas em série)
 
 A queda de tensão verificada em bobinas ligadas em série, tais como de relais de sobrecarga e de freios, não deverá reduzir substancialmente a tensão aplicada aos terminais do motor.
 
-###### ARTIGO 89.º
+ARTIGO 89.º
 
 (Placas e etiquetas para indicadores visuais)
 
 Os arrancadores, resistências, reguladores ou outras unidades deverão possuir as placas e etiquetas duráveis, com indicações escritas ou gráficas sobre identificação do equipamento, referência dos circuitos, características principais dos aparelhos de protecção, utilização de comandos (incluindo o efeito de rotação de volantes e manípulos) e significado de alarmes e sinalizadores.
 
-###### ARTIGO 90.º
+ARTIGO 90.º
 
 (Elevação de temperatura)
 
@@ -1200,29 +1216,29 @@ Os arrancadores, resistências, reguladores ou outras unidades deverão possuir 
 
 2 - A elevação de temperatura, em condições normais de serviço, de bobinas de desligar, de sopragem, de contactores e de relais não deverá ultrapassar os valores a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
 considerando a temperatura ambiente de 45ºC e a medição efectuada pelo método de resistência.
 
-###### ARTIGO 91.º
+ARTIGO 91.º
 
 (Aparelhos de corte utilizando líquidos inflamáveis)
 
 Não serão empregues aparelhos de corte que utilizem líquidos inflamáveis.
 
-###### ARTIGO 92.º
+ARTIGO 92.º
 
 (Aparelhos de corte de corrente contínua)
 
 Os aparelhos de corte de corrente contínua deverão ter uma actuação independente da velocidade de manobra do operador.
 
-###### ARTIGO 93.º
+ARTIGO 93.º
 
 (Tipo de mecanismo dos disjuntores)
 
 Os disjuntores de intensidades nominais superiores a 16 A deverão ser do tipo de desligar livre, isto é, a acção de desligar iniciada por qualquer dos seus dispositivos automáticos (sobrecarga, curto-circuito ou mínima tensão) deverá ser feita independentemente da posição ou da actuação do comando manual ou de qualquer outro sistema de ligar. Deverão também possuir sistema de antibombagem (manobras repetidas de ligar e desligar devidas a curto-circuito).
 
-###### ARTIGO 94.º
+ARTIGO 94.º
 
 (Arranque de motores eléctricos)
 
@@ -1236,7 +1252,7 @@ b) Para motores de corrente alternada de potência superior a 0,5 kW, um disjunt
 
 c) Para motores de potência igual ou inferior a 0,5 kW, um interruptor multipolar.
 
-###### ARTIGO 95.º
+ARTIGO 95.º
 
 (Meios de desligar os motores eléctricos)
 
@@ -1250,7 +1266,7 @@ c) Aos fusíveis do circuito do quadro que alimentar o motor, se forem facilment
 
 2 - Se o motor for instalado afastado ou em compartimento diferente do seu arrancador ou de outros dispositivos de desligar, deverá instalar-se junto do motor um interruptor adicionado, a não ser que se possa manter o circuito desligado com segurança.
 
-###### ARTIGO 96.º
+ARTIGO 96.º
 
 (Limitação da intensidade da corrente de arranque)
 
@@ -1258,7 +1274,7 @@ c) Aos fusíveis do circuito do quadro que alimentar o motor, se forem facilment
 
 2 - Os arrancadores de motores de corrente alternada poderão ser do tipo directo, desde que não provoquem as perturbações indicadas no n.º 1. A queda de tensão na instalação não deverá exceder 15% da tensão nominal.
 
-###### ARTIGO 97.º
+ARTIGO 97.º
 
 (Montagem de arrancadores)
 
@@ -1272,7 +1288,7 @@ c) Se os arrancadores forem instalados num quadro principal, deverão ficar em c
 
 2 - Os arrancadores montados nos quadros deverão obedecer às regras respeitantes aos quadros que lhes forem aplicáveis.
 
-###### ARTIGO 98.º
+ARTIGO 98.º
 
 (Sistemas de arrancador único)
 
@@ -1284,13 +1300,13 @@ b) Se o arrancador único for automático, deverão existir meios alternativos p
 
 c) Quando o arrancador for empregue para arranque de motores de serviços essenciais, os aparelhos necessários para o arranque serão duplicados, com possibilidade de serem postos em operação no caso de avaria.
 
-###### ARTIGO 99.º
+ARTIGO 99.º
 
 (Arrancadores de comando automático)
 
 Os arrancadores de motores de funcionamento dependente de dispositivos, tais como pressóstatos, termóstatos, níveis de líquidos, etc., deverão ser de actuação automática.
 
-###### ARTIGO 100.º
+ARTIGO 100.º
 
 (Aparelhos de comando de outros utilizadores além de motores)
 
@@ -1302,7 +1318,7 @@ Os arrancadores de motores de funcionamento dependente de dispositivos, tais com
 
 4 - Os aparelhos de comando, instalados nos quadros de acordo com as regras respectivas, não deverão, em regra, ser empregues para comando à distância ou automático de utilizadores. Poderão ser aceites excepções, depois de analisadas caso por caso.
 
-###### ARTIGO 101.º
+ARTIGO 101.º
 
 (Freios magnéticos)
 
@@ -1322,7 +1338,7 @@ Os arrancadores de motores de funcionamento dependente de dispositivos, tais com
 
 8 - Se o motor com o qual o freio for utilizado puder trabalhar num regime inferior ao nominal por períodos mais longos que os correspondentes ao funcionamento a plena carga, as características nominais das bobinas dos freios deverão corresponder ao período de funcionamento a carga reduzida.
 
-###### ARTIGO 102.º
+ARTIGO 102.º
 
 (Embraiagens magnéticas)
 
@@ -1332,7 +1348,7 @@ Os arrancadores de motores de funcionamento dependente de dispositivos, tais com
 
 3 - Os anéis colectores para alimentação da embraiagem deverão ser construídos em material resistente à corrosão. De preferência deverão ser empregues escovas de contacto duplo.
 
-###### ARTIGO 103.º
+ARTIGO 103.º
 
 (Ensaios)
 
@@ -1352,7 +1368,7 @@ A tensão de ensaio deverá ser aplicada durante 1 minuto e ter um valor de freq
 
 ### CAPÍTULO V — Cabos eléctricos
 
-###### ARTIGO 104.º
+ARTIGO 104.º
 
 (Condutores)
 
@@ -1370,7 +1386,7 @@ b) 1,5 mm2, para os circuitos em geral, incluindo iluminação e força motriz;
 
 c) 2,5 mm2, para circuitos de tomadas para ligação de aparelhos de utilização de fins diversos.
 
-###### ARTIGO 105.º
+ARTIGO 105.º
 
 (Isolantes)
 
@@ -1378,7 +1394,7 @@ c) 2,5 mm2, para circuitos de tomadas para ligação de aparelhos de utilizaçã
 
 2 - A temperatura nominal do isolante deverá ser pelos menos 10ºC superior à máxima temperatura ambiente do espaço envolvente do cabo.
 
-###### ARTIGO 106.º
+ARTIGO 106.º
 
 (Revestimentos protectores, bainhas e armaduras)
 
@@ -1398,7 +1414,7 @@ c) 2,5 mm2, para circuitos de tomadas para ligação de aparelhos de utilizaçã
 
 8 - Todos os cabos deverão ser, em geral, não propagadores de chama ou resistentes ao fogo, conforme definido em normas ou regulamentos nacionais ou nas publicações da CEI 331 e 332.
 
-###### ARTIGO 107.º
+ARTIGO 107.º
 
 (Determinação da secção nominal dos condutores dos cabos)
 
@@ -1422,13 +1438,13 @@ a) Igual à dos condutores de fase, para secções até 16 mm2;
 
 b) Pelo menos, metade da secção do condutor de fase, para secções superiores a 16 mm2, podendo ser limitada ao valor máximo de 50 mm2.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 (Intensidade de corrente máxima admissível dos cabos)
 
 1 - A intensidade de corrente máxima admissível de cabos, monocondutores, em serviço contínuo, para várias espécies de isolantes poderá ser a dada na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
 2 - Os valores indicados no n.º 1 serão aplicáveis nas seguintes condições:
 
@@ -1448,23 +1464,23 @@ d) Grupo até 6 cabos agrupados juntos e colocados ao ar livre.
 
 4 - Os valores indicados neste artigo são valores médios para aplicações genéricas, devendo ser rectificados com base em dados mais precisos para cada caso concreto, sempre que for considerado conveniente ou necessário.
 
-###### ARTIGO 109.º
+ARTIGO 109.º
 
 (Factores de correcção da intensidade de corrente máxima admissível dos cabos com a temperatura ambiente)
 
 1 - Se a temperatura ambiente for diferente de 45ºC, valor normalmente adoptado para embarcações de serviço em qualquer clima, às intensidades de corrente máximas admissíveis, indicadas no n.º 1 do artigo 108.º, deverão ser aplicados os factores de correcção indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
 2 - Não será admissível considerar temperaturas ambientes inferiores a 35ºC, em qualquer caso.
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 (Factores de correcção para agrupamento de cabos)
 
 Quando mais de 6 cabos possam ser percorridos simultaneamente pelas intensidades de corrente máximas admissíveis e fiquem montados lado a lado, impedindo a livre circulação do ar, deverá ser aplicado um factor de correcção de 0.85 aos valores indicados no n.º 1 do artigo 108.º
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 (Factores de correcção para serviço temporário)
 
@@ -1472,13 +1488,13 @@ Quando mais de 6 cabos possam ser percorridos simultaneamente pelas intensidades
 
 2 - Para regimes de funcionamento uni-horários ou de meia hora, os factores de correcção poderão ser dados aproximadamente por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
 3 - Para regimes de funcionamento intermitentes, com períodos de 10 minutos e factor de marcha de 40% (períodos de 10 minutos dos quais 4 minutos com carga constante e 6 minutos sem carga), o factor de correcção poderá ser calculado por:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 (Ligação em paralelo de cabos)
 
@@ -1488,13 +1504,13 @@ Quando mais de 6 cabos possam ser percorridos simultaneamente pelas intensidades
 
 3 - Os cabos multicondutores (de 2, 3 ou 4 condutores com a mesma secção) poderão ser empregues como cabos monocondutores, ligando em paralelo os condutores, em ambas as extremidades, por terminais adequados. A intensidade máxima admissível será a soma das intensidades máximas admissíveis de cada condutor.
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 (Resistência dos cabos a curtos-circuitos)
 
 Os cabos e os condutores isolados deverão ser capazes de suportar os esforços térmicos e mecânicos provocados pela máxima intensidade de corrente de curto-circuito que os possa percorrer, tomando em consideração a característica de tempo/corrente das protecções e a amplitude máxima (de pico) verificada durante a primeira metade do ciclo.
 
-###### ARTIGO 114.º
+ARTIGO 114.º
 
 (Condições gerais de montagem)
 
@@ -1514,7 +1530,7 @@ Os cabos e os condutores isolados deverão ser capazes de suportar os esforços 
 
 8 - Os cabos dos circuitos de serviços essenciais, de emergência, iluminação, comunicações internas ou instrumentação não deverão atravessar casas de máquinas, cozinhas, lavandarias ou outros locais com risco de incêndio elevado, a não ser nos casos em que não seja possível outra solução ou que liguem a equipamentos situados nesses locais.
 
-###### ARTIGO 115.º
+ARTIGO 115.º
 
 (Protecção mecânica de cabos)
 
@@ -1522,15 +1538,15 @@ Os cabos e os condutores isolados deverão ser capazes de suportar os esforços 
 
 2 - Os cabos instalados em locais de risco elevado de danos mecânicos, como no caso de locais para carga, deverão ser protegidos por condutas, tubos ou caixas metálicas, mesmo que sejam armados, desde que a estrutura não lhes confira protecção equivalente.
 
-###### ARTIGO 116.º
+ARTIGO 116.º
 
 (Raios de curvatura)
 
 Os raios de curvatura que poderão ser dados aos cabos na sua instalação deverão ser adequados ao tipo de cabo e estar de acordo com as recomendações dos fabricantes, não devendo ser inferiores aos valores dados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09100/13691392.pdf)
 
-###### ARTIGO 117.º
+ARTIGO 117.º
 
 (Fixação de cabos)
 
@@ -1544,7 +1560,7 @@ Os raios de curvatura que poderão ser dados aos cabos na sua instalação dever
 
 5 - Os elementos de suporte dos cabos deverão ser suficientemente robustos e de materiais resistentes à corrosão ou ser devidamente protegidos.
 
-###### ARTIGO 118.º
+ARTIGO 118.º
 
 (Travessia de pavimentos e anteparas)
 
@@ -1554,7 +1570,7 @@ Os raios de curvatura que poderão ser dados aos cabos na sua instalação dever
 
 3 - Os cabos que atravessem anteparas não estanques ou, de modo geral, furos em chapas estruturais de aço deverão fazê-lo de maneira a evitar danos nos cabos.
 
-###### ARTIGO 119.º
+ARTIGO 119.º
 
 (Instalação de cabos em condutas e tubos metálicos)
 
@@ -1582,7 +1598,7 @@ j) Os cabos de alta tensão, por exemplo, os empregues para lâmpadas de descarg
 
 l) O material dos tubos deverá ser, em geral, de aço, podendo ser de alumínio, se os tubos ficarem fixados a estruturas ou divisórias de alumínio. A espessura dos tubos será escolhida atendendo aos riscos de danos metálicos e corrosões previstos, sendo especialmente considerados os tubos que forem montados no exterior ou em tanques de água ou de combustíveis.
 
-###### ARTIGO 120.º
+ARTIGO 120.º
 
 (Instalação de cabos em tubos não metálicos)
 
@@ -1596,7 +1612,7 @@ c) O emprego destes tubos deverá ser limitado até tubos de diâmetro interior 
 
 d) Os tubos deverão ser montados de modo que permitam a sua dilatação e contracção, devidas a variações de temperatura de 50ºC.
 
-###### ARTIGO 121.º
+ARTIGO 121.º
 
 (Instalação de cabos em câmaras de refrigeração)
 
@@ -1612,7 +1628,7 @@ d) Os tubos deverão ser montados de modo que permitam a sua dilatação e contr
 
 6 - Serão tomadas as medidas que impeçam que os cabos sejam empregues para pendurar cargas.
 
-###### ARTIGO 122.º
+ARTIGO 122.º
 
 (Instalação de cabos monocondutores em corrente alternada)
 
@@ -1632,7 +1648,7 @@ f) Com o fim de compensar as diferenças de impedância dos circuitos com compri
 
 g) No caso de circuitos formados por vários cabos monocondutores em paralelo, por fase, todos os cabos deverão ter os mesmos percursos e a mesma secção. Recomenda-se que os cabos pertencentes à mesma fase sejam alternados com os das outras fases, de modo a evitar repartição desigual da corrente.
 
-###### ARTIGO 123.º
+ARTIGO 123.º
 
 (Extremidades - pontos - dos cabos e de condutores eléctricos)
 
@@ -1648,7 +1664,7 @@ g) No caso de circuitos formados por vários cabos monocondutores em paralelo, p
 
 6 - Apenas será removida a parte do isolante dos condutores que for necessária para efectuar as ligações. Recomenda-se que os cabos com isolantes inflamáveis sejam abertos, retirando as bainhas protectoras no mínimo indispensável, devendo ser envolvidos com fitas, pelo menos, não propagadoras da chama.
 
-###### ARTIGO 124.º
+ARTIGO 124.º
 
 (Junções e derivações)
 
@@ -1662,12 +1678,12 @@ g) No caso de circuitos formados por vários cabos monocondutores em paralelo, p
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 11 de Março de 1983.**
+Promulgado em 11 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 14 de Março de 1983.**
+Referendado em 14 de Março de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

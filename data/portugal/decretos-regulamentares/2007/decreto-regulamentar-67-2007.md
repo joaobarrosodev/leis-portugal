@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/35063509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/67/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-2007-638545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b29fbee83b6314933f6a550a12ce041555e9dc792b94f3a4e6747703aca6760
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e898719c3f794f875f75e2316ebecaf42ab7571a28888083de3e91d7ce479bc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autoridade para os Serviços de Sangue e da Transplantação
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho de Transplantação
 - Definição de Competências
 - Diretor Geral
-- Secretaria Geral
+- Gestão Financeira
+- Ministério da Saúde
 - Orgânica
 - Organização Portuguesa de Transplantação
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Ministério da Saúde
+- Secretaria Geral
 - Subdirector Geral
 - Transferência de Competências
 relationships:
@@ -83,6 +83,20 @@ relationships:
   target: pt:dre:543006:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544428:por
+  label: "Determinada a sucessão, nos termos da al. b) do art. 10º, da DGS nas atribuições da Autoridade para os Serviços\
+    \ de Sangue e da Transplantação, pelo DR.14/2012.26.01.2012.MS, DR.IS [19] de 26.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-2012-544428
+  date: '2012-01-26'
+- type: amended_by
+  target: pt:dre:543006:por
+  label: "Determinada a sucessão do Instituto Português do Sangue e da Transplantação, I.P. (IPST,I.P.) nas atribuições da\
+    \ Autoridade para os Serviços de Sangue e da Transplantação, com exceção das atribuições transferidas para a Direção-Geral\
+    \ da Saúde (DGS), constantes do presente diploma, que é revogado, a partir de 21.02.2012 pelo DEC LEI.39/2012.16.02.2012.MS,\
+    \ DR.IS [34] de 16.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2012-543006
+  date: '2012-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre
   label: null
@@ -91,16 +105,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:31:14Z'
   warnings: []
   errors: []
 ---
@@ -315,16 +337,16 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 22 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
 
-**Promulgado em 13 de Abril de 2007.**
+Promulgado em 13 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/35063509.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/35063509.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/35063509.pdf)

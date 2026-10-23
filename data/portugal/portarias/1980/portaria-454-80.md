@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1980-470236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66522e7805b1b135419c1f6ce269fde94769fd3844387a4067760d572bb064f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059ad3b557eb64168ae41917d8f6c945d8ce7a15a887ebb0754257880750c89c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Forças Armadas
+- Habitação
+- Serviços Sociais
+relationships:
+- type: cites
+  target: pt:dre:281444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363892:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:01Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +107,9 @@ Considerando que se torna necessário proceder à respectiva rectificação:
 
 Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General dos Forças Armadas, nos termos do disposto nos artigos 10.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, e 35.º § 1.º, alínea d), do [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de Abril de 1960, o seguinte:
 
-###### Artigo único. O n.º 4 do artigo 7.º e o n.º 1 do artigo 28.º do Regulamento para a Concessão de Empréstimos para Habitação Própria pelos Serviços Sociais das Forças Armadas através da Caixa Económica das Forças Armadas, aprovado pela [Portaria n.º 581/79](https://diariodarepublica.pt/dr/detalhe/portaria/581-1979-363892), de 6 de Novembro, passam a ter a seguinte redacção:
+Artigo único. O n.º 4 do artigo 7.º e o n.º 1 do artigo 28.º do Regulamento para a Concessão de Empréstimos para Habitação Própria pelos Serviços Sociais das Forças Armadas através da Caixa Económica das Forças Armadas, aprovado pela [Portaria n.º 581/79](https://diariodarepublica.pt/dr/detalhe/portaria/581-1979-363892), de 6 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - ...
 
@@ -102,7 +117,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General dos Forças 
 
 4 - Por despacho do CEMGFA, mediante proposta da comissão directiva dos SSFA, serão igualmente fixados a área, para efeitos dos artigos 2.º e 11.º, os critérios sociais de convocação dos beneficiários titulares para concessão dos empréstimos e, se julgado necessário, as verbas que devem ser destinadas à aplicação daqueles critérios sociais.
 
-###### Art. 28.º - 1 - A definição das situações e a concretização das circunstâncias em que poderão ser concedidos os empréstimos previstos no n.º 2 do artigo 1.º, assim como as condições de concessão de tais empréstimos, nomeadamente idade do mutuário, taxas de juro, prazos de amortização, quantitativos, condições de amortização e pagamento de juros e condições especiais, são fixadas por despacho do CEMGFA, mediante proposta da comissão directiva dos SSFA:
+Art. 28.º - 1 - A definição das situações e a concretização das circunstâncias em que poderão ser concedidos os empréstimos previstos no n.º 2 do artigo 1.º, assim como as condições de concessão de tais empréstimos, nomeadamente idade do mutuário, taxas de juro, prazos de amortização, quantitativos, condições de amortização e pagamento de juros e condições especiais, são fixadas por despacho do CEMGFA, mediante proposta da comissão directiva dos SSFA:
 
 2 - ...
 

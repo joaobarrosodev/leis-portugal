@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/132/1999/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/132-1999-534633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2422120acff100903db6e3ec41f73f4c2a2b8137518e2bafc80627f7cd0f7894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e3dd8525180671542210ceaea8af0c894f1a41467dd254e686c11e0e557bfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ACTO Ilícito
-- Crime
+- Aviação Civil
 - Convenção
-- Portugal
+- Crime
 - Macau
 - Montreal
-- Aviação Civil
+- Portugal
 - Segurança Aérea
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:686068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:29:47Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +97,14 @@ validation:
 
 de 22 de Abril
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau, nos mesmos termos em que a ela está vinculado o Estado Português, a Convenção para a Repressão de Actos Ilícitos contra a Segurança da Aviação Civil, de 23 de Setembro de 1971, aprovada pelo [Decreto n.º 451/72](https://diariodarepublica.pt/dr/detalhe/decreto/451-1972-686068), de 14 de Novembro, cujo texto foi publicado no Diário do Governo, 1.ª série, de 14 de Novembro de 1972.
 
 Foram ouvidos os órgãos de governo próprios do território de Macau.
 
-**Assinado em 15 de Abril de 1999.**
+Assinado em 15 de Abril de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com os referidos decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/03/05700/02820282.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/137-1970-228389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:10:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b53aea30b61976d80aad70146da1e5bd5f6db9da0974bd90e9f6a4c1327d7f72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95081cf53a0064875350c6abd8d219206810b619834f6581afeafa44b92085bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:10:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Fabrico Industrial
+- Produto Alimentar
+- Proteção do Consumidor
 relationships:
 - type: amended_by
   target: pt:dre:499539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142099:por
+  label: "Acrescentadas as normas NP-719, NP-720, NP-721, NP-722, NP-723, NP-724 e NP-725, pela PORT.230/70.05.05.1970.MECO,\
+    \ DG.IS [105] de 05.05.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-1970-142099
+  date: '1970-05-05'
+- type: cites
+  target: pt:dre:272027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELA PORTARIA 1313/93, DE 29 DE DEZEMBRO, PUBLICADA NO DR.IS-B, 302, DE 931229.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:195066:por
+  label: "Revogada, no que se refere às normas portuguesas NP-588 (1970) e NP-597 (1969), pela PORT.157/86.23.04.1986.MAPA,\
+    \ DR.IS [94] de 23.04.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1986-195066
+  date: '1986-04-23'
+- type: repealed_by
+  target: pt:dre:499539:por
+  label: "Revogada, no que se refere à NP-589 (1969), pela PORT.958/87.26.12.1987.MAPA, DR.IS [296] de 26.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/958-1987-499539
+  date: '1987-12-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:10:58Z'
   warnings: []
   errors: []
 ---

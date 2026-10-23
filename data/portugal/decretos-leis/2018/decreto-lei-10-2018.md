@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/02/03200/0096700968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/10/2018/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2018-114685734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd6d9e01f9e1592b5b18916570fc4497795b4e25699aa9b184e9cd228d2ca591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e83a08fa67beda29aecf6cc48cd77d3ae84b075a34afa43ee9e84478a85deb0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Multa
+- Arborização
+- Autarquia Local
 - Definição de Competências
 - Equipa de Reflorestação
-- Arborização
-- Proteção da Floresta
-- Subvenção Pública
+- Incêndio
+- Multa
 - Plano Municipal de Defesa da Floresta contra Incêndios
 - Plano Nacional de Defesa da Floresta contra Incêndios
+- Prevenção de Incêndios
 - Propriedade Privada
+- Proteção da Floresta
 - Reembolso
-- Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios
-- Autarquia Local
-- ZONA Crítica de Incêndio Florestal
 - Sistema de Defesa da Floresta contra Incêndios
+- Sistema Nacional de Prevenção e Protecção da Floresta contra Incêndios
+- Subvenção Pública
+- ZONA Crítica de Incêndio Florestal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/76/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/76/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:40Z'
   warnings: []
   errors: []
 ---
@@ -175,15 +203,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de janeiro de 2018. - Augusto Ernesto Santos Silva - José Alberto de Azeredo Ferreira Lopes - Maria Isabel Solnado Porto Oneto - Francisca Eugénia da Silva Dias Van Dunem - Pedro Manuel Dias de Jesus Marques - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 6 de fevereiro de 2018.**
+Promulgado em 6 de fevereiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 12 de fevereiro de 2018.**
+Referendado em 12 de fevereiro de 2018.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que refere o artigo 2.º)
 
@@ -216,3 +244,5 @@ III. Nas faixas de gestão de combustíveis envolventes aos edifícios devem ain
 IV. No caso de faixas de gestão de combustível que abranjam arvoredo classificado de interesse público, zonas de proteção a edifícios e monumentos nacionais, manchas de arvoredo com especial valor patrimonial ou paisagístico ou manchas de arvoredo e outra vegetação protegida no âmbito da conservação da natureza e biodiversidade, tal como identificado em instrumento de gestão florestal, ou outros instrumentos de gestão territorial ou de gestão da Rede Natura 2000, pode a comissão municipal de defesa da floresta aprovar critérios específicos de gestão de combustíveis.
 
 V. A aplicação dos critérios estabelecidos nos pontos anteriores pode ser excecionada mediante pedido apresentado pela entidade responsável pela gestão de combustível, quando da aplicação dos mesmos possa resultar um risco significativo e fundamentado para a estabilidade dos solos e taludes de vias rodo ou ferroviárias, através de despacho dos membros do Governo responsáveis pelas áreas da proteção civil e das infraestruturas.»
+
+111130082

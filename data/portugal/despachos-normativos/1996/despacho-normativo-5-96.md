@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/012b00/00720073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/5/1996/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1996-589686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4270ad9709be51e0260bdd7f1776f09d3f03d9521f03d9a5158beb49c99e789
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dba37b8b8be97d8d3b7c5f11af767d3b7c8b6b56cfeb87956273103a29e2528
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Árvore
-- Gado Caprino
 - CEE
 - Cereal
 - Gado Bovino
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Gado Caprino
 - Gado Ovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Política Agrícola Comum
 - Regulamento CE
 - Sistema Integrado de Gestão e Controlo
@@ -83,6 +83,11 @@ relationships:
   target: pt:dre:558267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621547:por
+  label: "Alterado o nº 3, pelo DN.11/96.04.03.1996.MADRP, DR.IS-B [54] de 04.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/11-1996-621547
+  date: '1996-03-04'
 - type: cites
   target: celex:31968R0805
   label: null
@@ -115,16 +120,21 @@ relationships:
   target: celex:31993R0738
   label: null
   source: http://data.europa.eu/eli/reg/1993/738/oj
+- type: repealed_by
+  target: pt:dre:558267:por
+  label: "Revogado pelo DN.5/97.1997.01.21.MADRP, DR.IS-B [31] de 1997.02.06\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/5-1997-558267
+  date: '1997-01-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:50Z'
   warnings: []
   errors: []
 ---

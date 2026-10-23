@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 62/1993, 1º Suplemento, Série I-B de 1993-03-15
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1210-(2) a 1210-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/35-a/1993/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-1993-551623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T08:05:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ce705583e2ef9f7fe4e0172f458460c4035c025f45c9f8ccd7b79854e0698e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 688de0e3a5c1749fb3b8dd79cff86cafb1a1ecd189ecb39df3bd27b2daf88f40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:05:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,16 +108,21 @@ relationships:
   target: celex:31992R3887
   label: null
   source: http://data.europa.eu/eli/reg/1992/3887/oj
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DESPACHO NORMATIVO 323/94, DE 30 DE MARCO, PUBLICADO NO DR.IS-B, 108, DE 940510.\008, DE 940510."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-05-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:05:56Z'
   warnings: []
   errors: []
 ---
@@ -236,13 +241,13 @@ Ministério da Agricultura, 15 de Março de 1993. - Pelo Ministro da Agricultura
 
 Identificação, por regiões agrárias, das categorias de rendimento das culturas arvenses em sequeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do Despacho Normativo n.º 35-A/93)
 
 Identificação, por regiões agrárias, das categorias de rendimento das culturas arvenses em regadio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
 
 ## ANEXO III — (a que se refere o n.º 7 do Despacho Normativo n.º 35-A/93)
 
@@ -362,7 +367,7 @@ Nota. - V. limites demarcados na Carta Militar de Portugal, 1:25000.
 
 Identificação das categorias de rendimento em certas freguesias da Região do Oeste
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/062b01/00020011.pdf)
 
 ## ANEXO V — (a que se refere o n.º 8 do Despacho Normativo n.º 35-A/93)
 

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 300/1979, 5º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3478-(93) a 3478-(98)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30005/00930098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1979-231284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T06:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99f0c60aa0b5ffea6508b84193462ec5ce6d10458fbd1c45fe21ec8e0b0b8699
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 782c2cdbad8566662ab7577d7e1d8166e6adb94070e6ad5bad6a285ce4ef515b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Formação Profissional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Pessoal Dirigente
+- Proteção Social
+- Recrutamento de Pessoal
+- Regime de Pessoal
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:378311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:297797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:378311:por
+  label: "Revogado pelo DR.72/82.03.11.1982.MFP, DR.IS [254] de 03.11.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/72-1982-378311
+  date: '1982-11-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:01:25Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +133,19 @@ Tendo em vista dar execução ao disposto no artigo 17.º do [Decreto-Lei n.º 3
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito de aplicação)
 
 O regime do pessoal dos serviços da Secretaria de Estado da Administração Pública, a que se refere o artigo 3.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro, é o constante do presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Categorias do pessoal)
 
 As categorias do pessoal da SEAP são as constantes do anexo a este diploma, sendo os respectivos contingentes fixados nos diplomas orgânicos a que se refere o artigo 16.º do [Decreto-Lei n.º 385/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823), de 19 de Setembro.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Provimento)
 
@@ -126,7 +167,7 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro do organismo da SEAP em que vier a ser provido definitivamente, finda a comissão.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Regime de estágio para as carreiras de informática)
 
@@ -144,7 +185,7 @@ b) Se o estagiário não tiver obtido aproveitamento, ser-lhe-á rescindido o co
 
 5 - O tempo de serviço prestado durante o período de estágio será contado para todos os efeitos legais, desde que não se verifique interrupção de serviço.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Recrutamento e promoção de pessoal)
 
@@ -168,7 +209,7 @@ d) Cursos de formação.
 
 6 - Aos lugares abertos a concurso aplicar-se-á o disposto nos n.os 1, 2 e 3.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Formação e aperfeiçoamento profissional)
 
@@ -192,13 +233,13 @@ d) De estágios, cursos e visitas de estudo realizados por entidades nacionais o
 
 6 - Os estágios e cursos de formação que funcionem como condição de ingresso ou acesso nos quadros da SEAP serão regulamentados por despacho do Secretário de Estado da Administração Pública, que definirá, nomeadamente, a sua natureza, programas e condições de realização.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Classificação de serviço)
 
 Em cada ano civil os funcionários dos serviços a que se aplica o presente diploma serão classificados, relativamente ao serviço prestado, de acordo com o diploma a que se refere o n.º 1 do artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Pessoal dirigente)
 
@@ -212,13 +253,13 @@ a) Chefes de secção com o mínimo de três anos de bom e efectivo serviço;
 
 b) Indivíduos possuidores de curso superior e experiência adequada.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Carreira técnica superior)
 
 Os lugares de assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos previstos no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, de entre indivíduos habilitados com licenciatura adequada.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Técnicos superiores para exercício de funções no domínio da informática)
 
@@ -236,7 +277,7 @@ e) Assessor informático.
 
 2 - Aos técnicos superiores a que se refere o número anterior será exigida formação complementar em informática, para além da licenciatura adequada.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Carreira técnica)
 
@@ -244,7 +285,7 @@ e) Assessor informático.
 
 2 - Os lugares de técnico de 2.ª classe serão providos de entre indivíduos habilitados com curso superior adequado.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Carreira de programadores)
 
@@ -254,7 +295,7 @@ e) Assessor informático.
 
 3 - O provimento nos lugares de programador de 2.ª classe fica condicionado ao aproveitamento em estágio com a duração de doze meses, conforme previsto no artigo 4.º, durante o qual os candidatos serão remunerados pelo provimento da letra K.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Chefe de secção)
 
@@ -264,7 +305,7 @@ a) Primeiros-oficiais ou técnicos auxiliares principais pertencentes aos quadro
 
 b) Indivíduos habilitados com curso superior adequado.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Carreira administrativa)
 
@@ -274,13 +315,13 @@ b) Indivíduos habilitados com curso superior adequado.
 
 3 - O provimento nos lugares de escriturário-dactilógrafo de 2.ª classe, bem como a progressão na respectiva carreira, far-se-ão nos termos previstos no artigo 12.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Tradutor-correspondente-intérprete)
 
 Os lugares de tradutor-correspondente-intérprete serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e domínio escrito e falado de, pelo menos, duas línguas estrangeiras.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Carreira de técnico auxiliar)
 
@@ -288,7 +329,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Operador de meios áudio-visuais)
 
@@ -296,7 +337,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de operador de meios áudio-visuais de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e preparação profissional adequada.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Carreira de desenhador)
 
@@ -304,7 +345,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de desenhador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, sendo dada a preferência aos que possuam experiência ou formação específica para as funções a que se destinam.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Carreira de operador)
 
@@ -312,7 +353,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de operador de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado que tenham adquirido formação complementar em informática e aproveitamento no estágio, com a duração de seis meses, a que se refere o artigo 4.º deste diploma, durante o qual serão remunerados pelo vencimento da letra M.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Carreira de operador de registos de dados)
 
@@ -320,7 +361,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de operador de registo de dados de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e que tenham adquirido formação complementar de informática e aproveitamento no estágio, com duração de seis meses, a que se refere o artigo 4.º deste diploma, durante o qual serão remunerados pelo vencimento da letra Q.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Carreira de assistente de relações públicas)
 
@@ -328,7 +369,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de assistentes de relações públicas de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e aproveitamento em curso de formação organizado pela Direcção-Geral de Recrutamento e Formação com a duração de dois meses.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Chefias do sector gráfico)
 
@@ -340,7 +381,7 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 4 - A criação das categorias de encarregado geral e encarregado fica sujeita às regras de densidade a que se refere o n.º 9 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Carreira de operador de fotocomposição)
 
@@ -348,13 +389,13 @@ Os lugares de tradutor-correspondente-intérprete serão providos de entre indiv
 
 2 - Os lugares de operador de fotocomposição de 3.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação profissional adequada, ou de entre funcionários ou agentes que desempenhem funções na mesma área funcional, habilitados com a escolaridade obrigatória e que tenham adquirido formação e qualificação profissionais adequadas.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Revisor gráfico)
 
 O lugar de revisor gráfico será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Carreira de operador de reprografia)
 
@@ -362,25 +403,25 @@ O lugar de revisor gráfico será provido de entre indivíduos habilitados com o
 
 2 - Os lugares de operador de reprografia de 3.ª classe serão providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Outras carreiras operárias)
 
 O provimento nas categorias das carreiras de impressor de offset, fotógrafo de fotolitografia, encadernador, electricista, serralheiro mecânico, mecânico, canalizador, pintor e carpinteiro será feito de acordo com o disposto na portaria a que se refere o n.º 6 do artigo 14.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Pessoal auxiliar)
 
 Os lugares de encarregado de pessoal auxiliar, bem como os de motorista, telefonista, contínuo, guarda, porteiro, servente e auxiliar de limpeza, serão providos nos termos da lei geral.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Áreas funcionais)
 
 Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, as carreiras da mesma área funcional deverão constar do respectivo aviso de abertura de concurso.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Pessoal requisitado)
 
@@ -394,7 +435,7 @@ Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-
 
 5 - O pessoal dos serviços da SEAP poderá, nas condições previstas nos números anteriores, ser requisitado para outros departamentos da Administração Pública.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Destacamento)
 
@@ -404,7 +445,7 @@ Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-
 
 3 - Os destacamentos carecem de autorização do membro do Governo de que dependa o funcionário, obtido o parecer favorável dos dirigentes dos serviços ou organismos competentes, cabendo a estes acordar quanto ao programa e duração da colaboração ou dos trabalhos a efectuar em comum pelos respectivos funcionários.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Contrato além do quadro)
 
@@ -414,7 +455,7 @@ Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-
 
 3 - O regime do pessoal contratado será o que estiver estabelecido nas disposições legais aplicáveis, nomeadamente naquelas em que se contém o regime do pessoal nomeado e que não sejam incompatíveis com a natureza do vínculo contratual.
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Trabalho a meio tempo)
 
@@ -426,13 +467,13 @@ Para efeitos de aplicação do disposto no artigo 6.º do [Decreto-Lei n.º 191-
 
 4 - Enquanto exercer funções a meio tempo o funcionário não poderá exercer qualquer outra actividade remunerada.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Exercício de outras actividades)
 
 O exercício pelo pessoal da SEAP de quaisquer actividades, de natureza pública ou privada, alheias ao serviço, anda que não remuneradas, carece de autorização do Secretário de Estado da Administração Pública.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Contrato de mera prestação de serviços)
 
@@ -442,13 +483,13 @@ O exercício pelo pessoal da SEAP de quaisquer actividades, de natureza pública
 
 3 - O exercício da actividade prevista no n.º 1 não confere por si a qualidade do agente administrativo.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Comissões e grupos de trabalho)
 
 Para o estudo de problemas específicos poderão ser constituídas comissões ou grupos de trabalho, cujo mandato, composição e funcionamento serão estabelecidos em despacho do Secretário de Estado da Administração Pública.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Recrutamento excepcional)
 
@@ -458,7 +499,7 @@ Para o estudo de problemas específicos poderão ser constituídas comissões ou
 
 3 - Quando se verifique o recrutamento nos termos dos números anteriores, o despacho de nomeação deverá ser acompanhado do respectivo currículo, para efeitos de publicação.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Primeiro provimento)
 
@@ -484,19 +525,19 @@ d) Para categoria correspondente às funções que o funcionário ou agente actu
 
 7 - Quando, pela aplicação das normas constantes do presente diploma, puder resultar para o funcionário ou agente provimento em categoria remunerada por letra de vencimento inferior à que já detém, aquele manterá a actual designação funcional e respectiva remuneração, extinguindo-se os correspondentes lugares à medida que vagarem.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Tempo de serviço dos adidos)
 
 Aos funcionários adidos já integrados ou a integrar nos quadros dos serviços da SEAP será contado, para todos os efeitos legais, nomeadamente a conversão da nomeação provisória em definitiva e normal progressão na carreira, o tempo de serviço prestado nos organismos de origem, bem como na situação de vinculado ao quadro geral de adidos.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Alteração do ordenamento de carreiras)
 
 O ordenamento de carreiras e categorias constantes do anexo ao presente diploma poderá ser alterado por portaria do Secretário de Estado da Administração Pública, desde que o respectivo normativo de provimento conste de lei geral, ou mediante decreto, no caso contrário.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Serviços sociais)
 
@@ -504,13 +545,13 @@ O ordenamento de carreiras e categorias constantes do anexo ao presente diploma 
 
 2 - A inscrição nos Serviços Sociais referidos no n.º 1 faz cessar automaticamente a qualidade de beneficiários de qualquer serviço ou obra social de idêntica natureza.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Dúvidas de aplicação)
 
 As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado da Administração Pública.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Entrada em vigor)
 
@@ -518,14 +559,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1979.**
+Promulgado em 31 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo a que se refere o artigo 2.º
+Anexo a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30005/00930098.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30005/00930098.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30005/00930098.pdf)
 
-**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.**
+O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

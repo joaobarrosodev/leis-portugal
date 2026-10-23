@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/15/2012/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-2012-543879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 084761aea78380bd55b69fda9c3d307de31f4404277040eed3780696a0000f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bf4e49154b08775c561c581e621511ff90b6c8082bc74ad5ba49d86def1c110
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Gestão Financeira
 - Definição de Competências
+- Gestão Financeira
 - Inspecção Geral
 - Inspecção Geral da Educação
-- Ministério da Educação e Ciência
 - Inspecção Geral da Educação e Ciência
-- Orgânica
-- Quadro de Pessoal
 - Ministério da Ciência Tecnologia e Ensino Superior
+- Ministério da Educação e Ciência
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a direção da Inspeção-Geral da Educação e Ciência seja exercida pelo Ministro da Educação conjuntamente
+    com o Ministro da Ciência, Tecnologia e Ensino Superior no que diz respeito às suas áreas de competência pelo(a) Decreto-Lei
+    n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre a Inspeção-Geral da Educação e Ciência, com orgânica aprovada
+    pelo presente diploma, seja exercida pelo Ministro da Ciência, Tecnologia e Ensino Superior, conjuntamente com o Ministro
+    da Educação, nas matérias da sua competência pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República n.º 232/2019, 1º
+    Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado, com efeitos a 30.03.2022, o exercício da direção pela Ministra da Ciência, Tecnologia e Ensino Superior,
+    conjuntamente com o Ministro da Educação, nas áreas da sua competência, sobre a Inspeção-Geral da Educação e Ciência pelo(a)
+    Decreto-Lei n.º 32/2022 - Diário da República n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Educação, Ciência e Inovação a
+    direção sobre a Inspeção-Geral da Educação e Ciência pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024,
+    Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Educação, Ciência e Inovação a
+    direção sobre a Inspeção-Geral da Educação e Ciência pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º 142/2025,
+    Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/16/2009/09/02/p/dre
   label: null
@@ -97,16 +133,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:230944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569552:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:52Z'
   warnings: []
   errors: []
 ---
@@ -247,18 +299,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Nuno Paulo de Sousa Arrobas Crato.
 
-**Promulgado em 18 de Janeiro de 2012.**
+Promulgado em 18 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 20 de Janeiro de 2012.**
+Referendado em 20 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (mapa a que se refere o artigo 8.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/02000/0050200504.pdf))](https://files.diariodarepublica.pt/1s/2012/01/02000/0050200504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/02000/0050200504.pdf)

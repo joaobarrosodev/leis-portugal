@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/05/120a00/12401241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/1996/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1996-445896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T01:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25a95350b6e2f0ff2617ca1defd2e63fbd29b9cd14cfaee91282236f22c62133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b905bf955824828fd2f78efacf71409b59bfd76f4ae886cd391d247f4dfd371c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Produto Cárneo
 - CE Países
 - CEE
-- Multa
 - Contra-ordenação
 - Controlo Sanitário
 - Importação
+- Multa
 - Política Agrícola Comum
 - Produto Animal
+- Produto Cárneo
 relationships:
 - type: amended_by
   target: pt:dre:580792:por
@@ -102,16 +102,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/282/1993/08/17/p/dre
+- type: cites
+  target: pt:dre:329987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688799:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580792:por
+  label: "Revogado pelo DEC LEI.210/2000.2000.09.02.MADRP, DR.IS-A [203]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2000-580792
+  date: '2000-09-02'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:47:43Z'
   warnings: []
   errors: []
 ---
@@ -136,11 +165,11 @@ Os artigos 3.º, 4.º, 5.º e 6.º do [Decreto-Lei n.º 111/93](https://diarioda
 
 Compete ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA), na qualidade de autoridade sanitária veterinária nacional e às direcções regionais de agricultura o controlo e aplicação da disciplina instituída pelo presente diploma e suas disposições regulamentares.
 
-###### Artigo 4.º
+Artigo 4.º
 
 Compete ao IPPAA e às direcções regionais de agricultura assegurar a fiscalização do cumprimento das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à Inspecção-Geral das Actividades Económicas (IGAE), na sua qualidade de autoridade fiscalizadora e órgão de polícia criminal.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Nos termos deste diploma e suas disposições regulamentares, e sem prejuízo do disposto nos Decretos-Leis n.os [28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, e [109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542), de 15 de Março, com a nova redacção que lhe é dada pelo [Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto, constituem contra-ordenações, puníveis de acordo com o previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e suas alterações, aplicadas pelo organismo competente em matéria de veterinária:
 
@@ -164,7 +193,7 @@ i) O não aviso com antecedência ao pessoal veterinário do posto de inspecçã
 
 2 - A negligência e a tentativa serão sempre punidas.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
 
@@ -196,7 +225,7 @@ São aditados os artigos 7.º, 8.º e 9.º ao [Decreto-Lei n.º 111/93](https://
 
 2 - A entidade que levantar o auto de notícia remeterá o mesmo à Inspecção-Geral das Actividades Económicas (IGAE), que, após instrução do competente processo, o remeterá ao IPPAA, para decisão.
 
-###### Artigo 8.º
+Artigo 8.º
 
 A afectação do produto das coimas cobradas em aplicação do artigo 5.º far-se-á da seguinte forma:
 
@@ -208,18 +237,18 @@ c) 20% para a entidade que instruiu o processo;
 
 d) 60% para os cofres do Estado.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Nas Regiões Autónomas dos Açores e da Madeira, a execução administrativa do presente diploma cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas ao IPPAA, na qualidade de autoridade veterinária sanitária nacional.»
 
 Visto e aprovado em Conselho de Ministros de 4 de Abril de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 10 de Maio de 1996.**
+Promulgado em 10 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Maio de 1996.**
+Referendado em 13 de Maio de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

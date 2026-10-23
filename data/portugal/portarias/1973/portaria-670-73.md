@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/670-1973-413043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dd40446daf7b169ad515cdf80426d72016947417ddf466436903002c5086a51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffeb687a190dff0b1db307a566e00e65240bcbb7b83b4997f70f3dc16c594c46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,34 @@ relationships:
   target: pt:dre:310579:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:141271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469867:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:310579:por
+  label: Revogada, na parte em que se refere aos preços no continente das algas agarófita, constante na presentente portaria,
+    pelo(a) Portaria n.º 663/75 - Diário do Governo n.º 262/1975, Série I de 1975-11-12, no seu art. 9.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/663-1975-310579
+  date: '1975-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:17Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +114,13 @@ Manda o Governo da República Portuguesa, pela Secretário de Estado do Comérci
 
 a) Preços das algas agarófitas (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf)
 
 (nota a) Algas habitualmente utilizadas pela indústria nacional de ágar-ágar, incluindo o cabelão-dos-açores e francelha mansa.
 
 b) Preços das algas carraginófitas (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23500/17611761.pdf)
 
 (nota a) Algas para produção de carragenina e ficocolóides do tipo agaróide, incluindo as agarófitas não abrangidas no tipo anterior.
 

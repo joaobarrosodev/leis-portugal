@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/37-1978-448539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:47:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f275b90ead3c87bb4cb1057200a0c887ab5da0f78cda7fa29d30a77cc7538b98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bafa4e929544f67137ac99e3600334d9035de46a0e799ea04df0559c4c189c48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjudicação de Obras Públicas
+- Autarquia Local
+- Casa Degradada
+- Crédito à Habitação
+- Obras de Conservação e Restauro
+- Programa
+- Regulamentação de Atos Legislativos
+- Regulamento Geral das Edificações Urbanas
+- Renovação Urbana
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: pt:dre:408927:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:47:59Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +117,7 @@ Ao abrigo do disposto do artigo 20.º do [Decreto-Lei n.º 704/76](https://diari
 
 8 - Os agregados familiares dos mutuários dos empréstimos a conceder pelo FFH, ao abrigo da alínea c) do artigo 3.º do [Decreto-Lei n.º 704/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1976-408927), não poderão ter rendimentos ilíquidos que excedam os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
 
 9.1 - Os empréstimos referidos no número anterior serão concedidos nas seguintes condições:
 
@@ -143,14 +157,14 @@ TABELA I
 
 Amortização mensal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
 
 TABELA II
 
 Prestações mensais para amortização de 100000$00, num período de tempo variável de um a doze anos, à taxa de juro de 7,5% ao ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03100/03030304.pdf)
 
 Nota. - Para qualquer montante diferente de 100000$00, multiplicar pelo múltiplo ou submúltiplo de 100 contos.
 
-**O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

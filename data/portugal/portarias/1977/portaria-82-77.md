@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/82-1977-141782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3591272ada39a11e11495e4f1d76860de152929f21302fa1f78a9d91756c7a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a42fcd6ee6f17dc64b8bb4e835f2342a5b93df9a12451ea25571ba6166126f62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Secretaria de Estado das Pescas
+- Tráfego Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:294563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:31:50Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +111,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 1. Os artigos 59.º e 60.º do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 59.º Ao inscrito marítimo que tiver servido em embarcações de pesca como contramestre-pescador, encarregado de pesca, auxiliar de pesca ou mestre de redes será atribuída a categoria de mestre costeiro-pescador, desde que satisfaça ao seguinte:
+Art. 59.º Ao inscrito marítimo que tiver servido em embarcações de pesca como contramestre-pescador, encarregado de pesca, auxiliar de pesca ou mestre de redes será atribuída a categoria de mestre costeiro-pescador, desde que satisfaça ao seguinte:
 
 a) Ter dezoito meses de embarque no exercício de qualquer das funções referidas na primeira parte do corpo do artigo depois de adquirida a categoria de contramestre-pescador e provar por exame teórico e prático estar habilitado para o exercício das funções de mestre costeiro-pescador; ou
 
@@ -118,7 +131,7 @@ a) Comandar qualquer embarcação empregada na pesca costeira até 200 tdw, nome
 
 b) Exercer as funções de encarregado de pesca, de auxiliar de pesca ou de mestre de redes em qualquer embarcação de pesca.
 
-###### Art. 60.º A categoria de contramestre-pescador será atribuída:
+Art. 60.º A categoria de contramestre-pescador será atribuída:
 
 a) Ao marítimo com a categoria de marinheiro-pescador que tenha pelo menos dezoito meses de tempo de embarque em embarcações de pesca no exercício de funções correspondentes à categoria e que prove por exame teórico e prático estar habilitado para o exercício das funções de contramestre-pescador; ou
 
@@ -130,7 +143,7 @@ b) Ao inscrito marítimo que tenha servido em embarcações de pesca como contra
 
 2. É acrescentado ao artigo 141.º do RIM um § único com a seguinte redacção:
 
-###### Art. 141.º ...
+Art. 141.º ...
 
 ...
 

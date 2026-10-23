@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11600/10901092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-1980-474129
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc938012833bd4bdb2ffa3470fe788a23dcc5f4bb7c6fc236047c7d1c06365ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04713620359193e9bb9a5018bcf23e25301aac64600c6b9f50e20d8018014745
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Café
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:612417:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA PELO DECRETO-LEI NUMERO 53/89, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 44, DE 22/2/89. REVOGADO\
+    \ O ARTIGO 7 PELA PORTARIA NUMERO 617/80, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 213, DE 15/9/80.\0 DE 15/9/80.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:612417:por
+  label: "Revogada, a partir de 21.08.1989, pelo DEC LEI.53/89.22.02.1989.MAPA, DR.IS [44] de 22.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1989-612417
+  date: '1989-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:04Z'
   warnings: []
   errors: []
 ---
@@ -232,4 +268,4 @@ d) A menção «torrefacto com açúcares» ou «torrefacto com gorduras» ou «
 
 É aplicável à instrução dos processos instaurados por infracção ao presente diploma, bem como à graduação da responsabilidade dos seus agentes, o preceituado no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668) e demais legislação complementar.
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves. - O Secretário de Estado da Indústria Transformadora, Ricardo Manuel Simões Bayão Horta.

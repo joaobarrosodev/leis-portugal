@@ -48,36 +48,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-1984-385611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T08:04:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11de9b9cfbf283897e3d386d8d045a672698b4d2572a8757e2e6a2be45b9db9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71e7ee6d30dc03b3e506717ef5afa48233e5c67c5e90d747f5b44dce95bb5ada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:04:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cartão de Identificação
+- Instituto António Sérgio do Sector Cooperativo
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:04:56Z'
   warnings: []
   errors: []
 ---
@@ -108,8 +110,8 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado do Fomento 
 
 Secretaria de Estado do Fomento Cooperativo.
 
-**Assinada em 8 de Junho de 1984.**
+Assinada em 8 de Junho de 1984.
 
-**O Secretário de Estado do Fomento Cooperativo, Armando dos Santos Lopes.**
+O Secretário de Estado do Fomento Cooperativo, Armando dos Santos Lopes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15700/20612062.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15700/20612062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15700/20612062.pdf)

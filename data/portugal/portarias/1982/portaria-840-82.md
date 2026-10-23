@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/840-1982-374436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f45062400a766b9f92c882b0f33836125ece7f6150f7a842013b3615dd47874c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccbaaf2553b02f02d0f201469bf1171306e3152eff6a2d8627561b28aba5d361
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Lugares
+- Direcção Geral da Informação
+- Direcção Geral de Divulgação
+- Integração de Trabalhadores
+- Ministério da Qualidade de VIDA
+- Quadro de Pessoal
+- Quadro Geral de Adidos
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:389462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682863:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:18Z'
   warnings: []
   errors: []
 ---
@@ -115,16 +143,16 @@ MAPA I
 
 Secretaria-Geral do Ministério da Qualidade de Vida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)
 
 MAPA II
 
 Direcção-Geral da Informação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)
 
 MAPA III
 
 Direcção-Geral da Divulgação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf))](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/20300/25882589.pdf)

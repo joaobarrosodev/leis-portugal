@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/763/1994/11/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/763-1994-534053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T08:26:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f44cf8ee32de42353ef21e33085232e14010ac3a80b196ec1d958e860738653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b07ab04c924d655c86dabf2b667a0c3ecca10e90626bfb2ca5a0d8f0638f972
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:26:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Empresa
-- Projeto de Investimento
+- Financiamento
 - Indústria Vidreira
 - Modernização Industrial
+- Pedip II
+- Projeto de Investimento
 - Reestruturação Industrial
 - Regime de Apoio
-- Pedip II
 - Sistema de Incentivos Pedip
 relationships:
 - type: amended_by
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/934/1994/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/934/1994/10/21/p/dre
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626067:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:26:46Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/12500/0329803299.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2017/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9de660fc81660ed2a11a83fdb7f84adc716c8f67fb3b1e53b72d0c042aa17c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c542a21af0da2fcd6aca301b9463f017fff67c57d0fe3c5d517b9be3fa86c7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Director Adjunto
 - Autoridade Tributária e Aduaneira
-- Pessoal Dirigente
+- Director Adjunto
 - Ministério das Finanças
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Unidade dos Grandes Contribuintes
 relationships:
@@ -112,13 +112,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:18Z'
   warnings: []
   errors: []
 ---
@@ -159,13 +159,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de maio de 2017. - Mário José Gomes de Freitas Centeno - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 22 de junho de 2017.**
+Promulgado em 22 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de junho de 2017.**
+Referendado em 23 de junho de 2017.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
 
@@ -175,4 +175,4 @@ Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Est
 
 (mapa a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/12500/0329803299.pdf))](https://files.diariodarepublica.pt/1s/2017/06/12500/0329803299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/12500/0329803299.pdf)

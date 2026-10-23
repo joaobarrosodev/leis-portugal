@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23804-1968-256461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0793663d732d65556fdcf350c91136e02de7b63fe3655b64e18425af35381d22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a9def780a170f76c94ac0beff03506bc57822fed1b6988a01002e6db3d0d590
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:51Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +132,11 @@ Manda o Governo da República Portuguesa, pelo Ministério do Ultramar, nos term
 
 3.º Na sua aplicação às províncias de Angola e Moçambique os artigos 4.º, n.º 1, 6.º, n.º 1, 16.º e 17.º terão a seguinte redacção:
 
-###### Art. 4.º - 1. O pedido será indeferido quando o loteamento não se conformar com o plano ou anteplano de urbanização aprovado e seus regulamentos, salvo se a alteração proposta vier a merecer aprovação do governador-geral, ou do Ministro do Ultramar no caso de o plano ou anteplano sobre que incida a alteração ter tido aprovação ministerial.
+Art. 4.º - 1. O pedido será indeferido quando o loteamento não se conformar com o plano ou anteplano de urbanização aprovado e seus regulamentos, salvo se a alteração proposta vier a merecer aprovação do governador-geral, ou do Ministro do Ultramar no caso de o plano ou anteplano sobre que incida a alteração ter tido aprovação ministerial.
 
 ...
 
-###### Art. 6.º - 1. A licença de loteamento será titulada por alvará, do qual constarão as prescrições a que o requerente fica sujeito, e designadamente:
+Art. 6.º - 1. A licença de loteamento será titulada por alvará, do qual constarão as prescrições a que o requerente fica sujeito, e designadamente:
 
 a) Os condicionamentos de ordem urbanística relativos à utilização dos espaços privados e públicos e sua distribuição, incluindo a natureza e tipos das construções, além dos traçados viários, parques de estacionamento, espaços livres de recreio e desporto e demais órgãos do equipamento urbano;
 
@@ -144,13 +152,13 @@ f) A discriminação das áreas a afectar a habitação económica, com a fixaç
 
 ...
 
-###### Art. 16.º - 1. A todas as obras efectuadas com inobservância dos preceitos sobre loteamento urbano aplicar-se-á, na parte não especialmente prevista no presente diploma, o disposto no [Decreto n.º 40742](https://diariodarepublica.pt/dr/detalhe/decreto/40742-1956-232903), de 25 de Agosto de 1956, bem como outras disposições legais em vigor, no que se refere a construções ou partes de construção executadas sem as respectivas licenças ou em desconformidade com elas.
+Art. 16.º - 1. A todas as obras efectuadas com inobservância dos preceitos sobre loteamento urbano aplicar-se-á, na parte não especialmente prevista no presente diploma, o disposto no [Decreto n.º 40742](https://diariodarepublica.pt/dr/detalhe/decreto/40742-1956-232903), de 25 de Agosto de 1956, bem como outras disposições legais em vigor, no que se refere a construções ou partes de construção executadas sem as respectivas licenças ou em desconformidade com elas.
 
 2. Para os efeitos do número anterior, considera-se o decreto nele referido aplicável a todos os concelhos e à totalidade das respectivas áreas.
 
 ...
 
-###### Art. 17.º - 1. Incumbe às câmaras e comissões municipais, às Direcções Provinciais dos Serviços de Obras Públicas e Transportes, à Polícia de Segurança Pública e às autoridades administrativas fiscalizar o cumprimento das disposições deste diploma, devendo levantar autos pelas infracções que verificarem.
+Art. 17.º - 1. Incumbe às câmaras e comissões municipais, às Direcções Provinciais dos Serviços de Obras Públicas e Transportes, à Polícia de Segurança Pública e às autoridades administrativas fiscalizar o cumprimento das disposições deste diploma, devendo levantar autos pelas infracções que verificarem.
 
 4.º No n.º 2 do artigo 15.º a expressão «nos termos dos artigos 689.º e seguintes do Código Administrativo» é substituída por «nos termos do Código das Execuções Fiscais».
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/35/1997/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/35-1997-350904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baec27a06e5be31ff1f4357e3869fc8050cce744195755f5b6fd2a78a3d70425
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 912f351996ab22caee65f0bc8281ee00bc47cc46c2dd14683d3aca32ad429d7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:24:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
+- Áustria
 - Bélgica
 - CE Países
 - Convenção
-- Portugal
-- RFA
+- França
 - Fronteiras
-- Áustria
 - Livre Circulação de Mercadorias
 - Livre Circulação de Pessoas
+- Luxemburgo
 - Países Baixos
+- Portugal
+- RFA
 - Schengen
 - Sistema de Informação Schengen
-- França
-- Luxemburgo
 relationships:
 - type: amended_by
   target: pt:dre:147862:por
@@ -91,16 +91,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/35/1997/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/35/1997/05/30/p/dre
+- type: cites
+  target: pt:dre:350905:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:147862:por
+  label: "Rectificado pela DECL-RECT.13/97.1997.07.03.PR, DR.IS-A [164] de 1997.07.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-1997-147862
+  date: '1997-07-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:24:20Z'
   warnings: []
   errors: []
 ---
@@ -109,16 +118,16 @@ validation:
 
 de 30 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo de Adesão do Governo da República da Áustria à Convenção de Aplicação do Acordo de Schengen, de 14 de Junho de 1985, entre os Governos dos Estados da União Económica Benelux, da República Federal da Alemanha e da República Francesa Relativo à Supressão Gradual dos Controlos nas Fronteiras Comuns, assinada em Schengen em 19 de Junho de 1990, à qual aderiram a República Italiana, a República Portuguesa e o Reino de Espanha e a República Helénica, pelos acordos assinados, respectivamente, a 27 de Novembro de 1990, a 25 de Junho de 1991 e a 6 de Novembro de 1992, incluindo a Acta Final e declarações, concluído em Bruxelas em 28 de Abril de 1995, aprovado, para ratificação, pela [Resolução da Assembleia da República n.º 35/97](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/35-1997-350905), em 30 de Maio de 1997.
 
-**Assinado em 26 de Abril de 1997.**
+Assinado em 26 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Abril de 1997.**
+Referendado em 28 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

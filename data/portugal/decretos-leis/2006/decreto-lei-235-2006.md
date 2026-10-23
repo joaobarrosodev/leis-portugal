@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/12/23400/82748279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/235/2006/12/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-2006-545461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ef8524bcf7e51856eb5b992b6ee14ecf23468b30df5df98544c9cf1c8884f75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e77db6535812cfd403152a0dbe3abec91b2c2a1b4e4580a1e93ce960871b531a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Garantia
-- Infarmed
-- Ministro da Saúde
+- Comércio
 - Concurso Público
 - Contrato de Concessão
 - Definição de Competências
-- Serviço Nacional de Saúde
-- Fiscalização
-- Medicamento
-- Farmácia Hospitalar
-- Serviço Público
-- Regime Jurídico
 - Estabelecimento Hospitalar
-- Comércio
+- Farmácia Hospitalar
+- Fiscalização
+- Garantia
+- Infarmed
+- Medicamento
+- Ministro da Saúde
+- Regime Jurídico
+- Serviço Nacional de Saúde
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:490238:por
@@ -90,16 +90,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/176/2006/08/30/p/dre
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490238:por
+  label: "Revogado, a partir de 21.09.2009, o presente diploma, pelo DEC LEI.241/2009.16.09.2009.MS, DR.IS [180] de 16.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-2009-490238
+  date: '2009-09-16'
 article_structure:
   article_count: 49
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:13Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +172,7 @@ A instalação, abertura e funcionamento de farmácia para dispensa de medicamen
 
 ###### Artigo 5.º — Autorização
 
-**O Ministro da Saúde autoriza, mediante despacho, a abertura de concurso para a instalação, abertura e funcionamento de farmácia nos hospitais do Serviço Nacional de Saúde.**
+O Ministro da Saúde autoriza, mediante despacho, a abertura de concurso para a instalação, abertura e funcionamento de farmácia nos hospitais do Serviço Nacional de Saúde.
 
 ###### Artigo 6.º — Iniciativa
 
@@ -494,12 +504,12 @@ Em tudo quanto não estiver expressamente previsto no presente diploma quanto ao
 
 Visto e aprovado em Conselho de Ministros de 12 de Outubro de 2006. - José Sócrates Carvalho Pinto de Sousa - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
 
-**Promulgado em 22 de Novembro de 2006.**
+Promulgado em 22 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 22 de Novembro de 2006.**
+Referendado em 22 de Novembro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

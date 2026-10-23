@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 142/1996, 2º Suplemento, Série I-B de 1996-06-21
   number: '142'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1592-(6) a 1592-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/06/142b02/00060006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/24-a/1996/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/24-a-1996-169248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70625389cbbeeaa9625d0335d6a9bed3b4b7a3c8e7829ff9a6ca1eb4232895b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fdc52a168b9da6507ca401c25dc88597db41496ef035e9dff263d29a0855a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - ÁREA Metropolitana
-- Financiamento
+- Autarquia Local
 - Contrato Programa
+- Financiamento
 - Transporte de Passageiros
 - Transporte Público
 - Transporte Urbano
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:233297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233297:por
+  label: "Acrescentados os nºs 7 e 8, pelo DN.39/96.1996.09.27.MEPAT, DR.IS-B [235] de 10/Out/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/39-1996-233297
+  date: '1996-09-27'
+- type: cites
+  target: pt:dre:194248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:10Z'
   warnings: []
   errors: []
 ---

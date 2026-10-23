@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/250a00/71397144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/268/2003/10/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-2003-466831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f543587e010397f3b23ef2ffb3f027be503e4995508b37d685b7cd2aa045dadc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d500b8f5ac33be3d095e299968bf40f6ecb81e5741f3e843ecba2c9fe7b8d9c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,39 +68,45 @@ reuse:
 subjects:
 - ÁREA Metropolitana
 - Autoridade Metropolitana de Transportes
-- Financiamento
-- Fiscal Único
-- Ordenamento do Território
 - Comissão Instaladora
-- Transporte Terrestre
 - Conselho de Administração
 - Conselho Geral
-- Transporte Ferroviário
 - Definição de Competências
-- Planeamento Urbano
+- Financiamento
+- Fiscal Único
 - Fiscalização
 - Lisboa
-- Política de Transportes
+- Ordenamento do Território
 - Orgânica
-- Pessoa Colectiva de Direito Público
 - Organização dos Transportes
+- Pessoa Colectiva de Direito Público
+- Planeamento Urbano
+- Política de Transportes
+- Porto
 - Preço
-- Serviço Público
 - Receita
 - Regime de Instalação
 - Regime de Pessoal
+- Serviço Público
 - Tarifa Geral de Transportes
 - Transporte
 - Transporte de Passageiros
+- Transporte Ferroviário
 - Transporte Fluvial
 - Transporte Público
+- Transporte Terrestre
 - Transporte Urbano
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:500023:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219078:por
+  label: "Alterados os arts. 5º, 8º, 11º e 14º, revogados os arts. 2º, 3º, 6º, 9º, nº.3 do art. 10º, 15º e 16º e republicado\
+    \ na íntegra o presente diploma, pelo DEC LEI.232/2004.13.12.2004.MOPTC, DR.IS-A [290] de 13.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-2004-219078
+  date: '2004-12-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/129/2000/07/13/p/dre
   label: null
@@ -141,16 +147,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1991/08/02/p/dre
+- type: cites
+  target: pt:dre:195784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396960:por
+  label: "Revogado, a partir de 10.01.2009, o presente diploma, na redacção do Dec Lei 232/2004, de 13-Dez, - sucedendo as\
+    \ AMT de Lisboa e do Porto nos direitos e obrigações que, por força destes diplomas, existam -, pela LEI.1/2009.05.01.2009.AR,\
+    \ DR.IS [2] de 05.01.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/1-2009-396960
+  date: '2009-01-05'
+- type: repealed_by
+  target: pt:dre:500023:por
+  label: "Revogada a Lei 159/99, de 14-set, na redação do presente diploma, pela LEI.75/2013.12.09.2013.AR, DR.IS [176] de\
+    \ 12.09.2013, nos termos dos arts. 3 e 4º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-2013-500023
+  date: '2013-09-12'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:16Z'
   warnings: []
   errors: []
 ---
@@ -485,12 +556,12 @@ O presente diploma constitui, para todos os efeitos legais, título bastante par
 
 Visto e aprovado em Conselho de Ministros de 31 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Manuel Gonçalves Marques Mendes - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 10 de Outubro de 2003.**
+Promulgado em 10 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Outubro de 2003.**
+Referendado em 15 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

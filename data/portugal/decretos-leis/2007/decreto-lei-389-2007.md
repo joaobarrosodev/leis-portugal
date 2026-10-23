@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/389/2007/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:01:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9dbef87db17666e4d1b937b2b9949763c3951b72ea2859a5cd6c13695c3d3b48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a3481774de46d5e0fd0a19cc5de5b961157149a314d0b33b9ea0061fdafe952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:01:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Armazenagem
+- Câmara Municipal
+- Combustível
 - Contra-ordenação
 - Definição de Competências
-- Distribuição de Gás
-- Produto Petrolífero
-- Combustível
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Direcção Geral de Geologia e Energia
+- Distribuição de Gás
+- Fiscalização
 - Gás
 - Licenciamento
 - Medidas Preventivas
-- Direcção Geral de Geologia e Energia
 - Normas de Construção
 - Normas de Segurança
-- Câmara Municipal
 - Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
+- Recurso
 - Taxa
 - Vistoria
 relationships:
@@ -93,6 +93,32 @@ relationships:
   target: pt:dre:175787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247714:por
+  label: "Alterado o art. 26º do Dec Lei 267/2002 de 16-Nov, na redacção e republicado pelo presente diploma, pelo DEC LEI.31/2008.25.02.2008.MEI,\
+    \ DR.IS [39] de 25.02.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2008-247714
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:452935:por
+  label: "Alterados os artigos 3.º, 4.º, 5.º, 6.º, 12.º, 13.º e 15.º do Decreto-Lei n.º 267/2002, de 26-Nov, na redacção do\
+    \ presente diploma, e republicado com a redacção actual pelo DEC LEI.195/2008.06.10.2008.MEI, DR.IS [193] de 06.10.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/195-2008-452935
+  date: '2008-10-06'
+- type: amended_by
+  target: pt:dre:175787:por
+  label: "Alterados os art.s 5º, 12º, 13º, 15º, 30º e anexo iii do Dec Lei 267/2002, de 26-nov, na redação do presente diploma,\
+    \ pelo DEC LEI.217/2012.09.10.2012.MEE, DR.IS [195] de 09.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2012-175787
+  date: '2012-10-09'
+- type: amends
+  target: pt:numero:decreto-lei:267/2002
+  label: "Altera, a partir de 14.01.2008, os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 12.º, 13.º, 15.º, 16.º, 26.º, 30.º,\
+    \ 34.º e o anexo II, adita o anexo III e revoga a al. b) do n.º 1 do art. 16º do Decreto-Lei n.º 267/2002, de 26 de Novembro,\
+    \ DR.IS-A [273], e republica-o.\0.\0"
+  source: null
+  date: '2002-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1997/05/23/p/dre
   label: null
@@ -133,16 +159,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/460/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/460/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:142105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
+  article_count: 44
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:01:21Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +283,9 @@ b) ...
 
 c) Redes e ramais de distribuição ligadas a reservatórios de gases de petróleo liquefeito sujeitos ao regime estabelecido no [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de Maio.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - São abrangidas pelo presente diploma as instalações referidas no artigo anterior afectas aos seguintes produtos derivados do petróleo:
 
@@ -209,7 +301,9 @@ d) [Anterior alínea c).]
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -253,7 +347,9 @@ s) [Anterior alínea k).]
 
 t) 'Rede de distribuição de GPL' o sistema constituído por tubagens, válvulas e acessórios, alimentado por garrafas ou reservatórios de GPL, para alimentação dos ramais de abastecimento de instalações com gás da terceira família, como definido no [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de Maio.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A construção, exploração, alteração de capacidade, renovação de licença e outras alterações que de qualquer forma afectem as condições de segurança da instalação ficam sujeitas a licenciamento nos termos do presente diploma.
 
@@ -263,7 +359,9 @@ t) 'Rede de distribuição de GPL' o sistema constituído por tubagens, válvula
 
 4 - As instalações objecto de um processo de licenciamento simplificado ou não sujeitas a licenciamento são as constantes do anexo iii do presente diploma, que dele faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +373,9 @@ c) A autorização para a execução e entrada em funcionamento das redes de dis
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -291,7 +391,9 @@ a) O licenciamento de postos de abastecimento de combustíveis localizados nas r
 
 b) A autorização para a execução e entrada em funcionamento das redes e ramais de distribuição de gás, objecto do [Decreto-Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1997-400399), de 23 de Maio, quando associadas a reservatórios de GPL com capacidade global superior ou igual a 50 m3.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +403,9 @@ b) A autorização para a execução e entrada em funcionamento das redes e rama
 
 4 - As entidades inspectoras de instalações de combustíveis derivados do petróleo (EIC) e as entidades inspectoras de redes e ramais de distribuição e instalações de gás (EIG), cujos estatutos foram publicados pelas Portarias n.os [1211/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1211-2003-476277), de 16 de Outubro, e [362/2000](https://diariodarepublica.pt/dr/detalhe/portaria/362-2000-303609), de 20 de Junho, respectivamente, podem colaborar com a entidade licenciadora competente nos termos deste diploma e daqueles estatutos, no que diz respeito à apreciação de projectos, vistorias e inspecções previstas neste diploma, nos termos de legislação complementar ou, na sua falta, mediante protocolo ou contrato com as entidades licenciadoras competentes, que defina a sua actuação e procedimento.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -323,7 +427,9 @@ b) A autorização para a execução e entrada em funcionamento das redes e rama
 
 10 - No processo de renovação do alvará ou da licença de exploração, por motivo de caducidade, pode ser dispensada a vistoria final se, na vistoria inicial, for verificada a permanência da conformidade com o projecto.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -339,7 +445,9 @@ b) A autorização para a execução e entrada em funcionamento das redes e rama
 
 7 - Em caso de não execução da obra no prazo fixado nos termos do n.º 2 o processo é cancelado, salvo autorização de prorrogação concedida pela entidade licenciadora a solicitação do interessado.
 
-###### Artigo 15.º — Validade e renovação da licença de exploração
+Artigo 15.º
+
+Validade e renovação da licença de exploração
 
 1 - ...
 
@@ -351,7 +459,9 @@ b) A autorização para a execução e entrada em funcionamento das redes e rama
 
 5 - No processo de renovação de alvará ou licença de exploração por motivo de caducidade não é necessária a apresentação dos comprovativos dos seguros de responsabilidade civil de empreiteiro e de responsável pela execução das instalações existentes, desde que não tenha havido lugar à execução de qualquer alteração significativa após o licenciamento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O titular da licença de exploração de uma instalação de armazenamento, ou de um posto de abastecimento de combustíveis, deve comunicar ao licenciador, em pedido devidamente documentado, no prazo de 30 dias a partir da ocorrência, solicitando o respectivo averbamento no processo correspondente:
 
@@ -367,7 +477,9 @@ d) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 26.º — Contra-ordenações
+Artigo 26.º
+
+Contra-ordenações
 
 1 - ...
 
@@ -381,7 +493,9 @@ c) O não cumprimento da obrigação de informação prevista no n.º 1 do artig
 
 3 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os acidentes ocorridos em instalações abrangidas pelo artigo 1.º são obrigatoriamente comunicados, no prazo máximo de vinte e quatro horas, pelo detentor da licença de exploração da instalação à entidade licenciadora, que deve proceder ao respectivo inquérito e manter o registo correspondente.
 
@@ -389,7 +503,9 @@ c) O não cumprimento da obrigação de informação prevista no n.º 1 do artig
 
 3 - A entidade licenciadora deve de imediato informar a Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT) de todas as ocorrências de acidente, nomeadamente a emissão de substâncias, incêndios ou explosões, resultantes de desenvolvimentos súbitos e imprevistos ocorridos numa instalação abrangida pelo presente diploma que tenha conhecimento por força do disposto no n.º 1.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +595,9 @@ Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 15.º, 16.º, 18.º
 
 A execução e a entrada em funcionamento das redes e ramais de distribuição ligados a postos GPL licenciados nos termos da legislação aplicável carecem de autorização a conceder pela entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A autorização de execução referida no artigo anterior deve ser requerida pelo proprietário das redes e ramais de distribuição à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL, devendo constar do requerimento:
 
@@ -491,7 +609,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -501,13 +621,17 @@ b) ...
 
 4 - O original do termo da responsabilidade referido no número anterior deve ser entregue à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL e os duplicados ao proprietário, sendo um destinado à entidade exploradora.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Antes da entrada em funcionamento das redes ou ramais de distribuição, deve o proprietário requerer à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL a autorização de exploração.
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A transmissão da propriedade das armazenagens, redes e ramais de distribuição de gás deve ser comunicada à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL, no prazo de 30 dias a contar da data de transmissão, para efeitos de averbamento da titularidade da propriedade.
 
@@ -515,7 +639,9 @@ b) ...
 
 3 - A substituição da entidade exploradora das instalações deve ser comunicada à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pelo proprietário das instalações no prazo de cinco dias a contar da data de substituição.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -525,7 +651,9 @@ b) ...
 
 4 - Sempre que se verifiquem situações que ponham em causa a segurança de pessoas e bens, a entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pode determinar a suspensão da autorização de exploração das instalações, bem como a selagem das mesmas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -533,7 +661,9 @@ b) ...
 
 3 - A entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pode fixar um prazo à entidade exploradora para a resolução de qualquer anomalia de funcionamento ou pedido de assistência técnica.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -543,7 +673,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os processos de contra-ordenação são instruídos pela entidade licenciadora competente, cabendo ao presidente da câmara municipal ou ao director regional da economia competente a aplicação das coimas e sanções acessórias, sem prejuízo do disposto no número seguinte.
 
@@ -551,7 +683,9 @@ b) ...
 
 3 - Para efeitos do disposto no número anterior, a entidade licenciadora envia à Direcção-Geral de Energia e Geologia o respectivo processo de contra-ordenação devidamente instruído.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 ...
 
@@ -561,13 +695,17 @@ b) Em 40 % da entidade instrutora do respectivo processo;
 
 c) (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A fiscalização do cumprimento do disposto no presente diploma é da competência da entidade licenciadora competente.
 
 2 - A fiscalização mencionada no número anterior é exercida no âmbito do licenciamento e no âmbito da regulamentação técnica das instalações e não prejudica as competências atribuídas por lei a outras entidades.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -591,15 +729,15 @@ O presente decreto-lei entra em vigor 45 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - José Manuel dos Santos de Magalhães - Fernando Teixeira dos Santos - João Manuel Machado Ferrão - Fernando Pereira Serrasqueiro.
 
-**Promulgado em 7 de Março de 2007.**
+Promulgado em 7 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de Março de 2007.**
+Referendado em 8 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

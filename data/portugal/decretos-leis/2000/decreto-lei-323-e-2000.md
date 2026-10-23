@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 292/2000, 3º Suplemento, Série I-A de 2000-12-20
   number: '292'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 7408-(45) a 7408-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/12/292a03/00450049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/323-e/2000/12/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-e-2000-315336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2540eb43ac1a122540140ca23ac6e6825d095b075efe54510efb62cd12f7bca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb8f7a19d3aa760f0515f17ab8ef07076d1b263ab1191791287c0db74cc94e57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70095697:por
+  label: Revogado, a partir de 30.08.2015, pelo(a) Decreto-Lei n.º 171/2015 - Diário da República n.º 165/2015, Série I de
+    2015-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-2015-70095697
+  date: '2015-08-25'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:42Z'
   warnings: []
   errors: []
 ---
@@ -373,12 +395,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2001.
 
 Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2000. - António Manuel de Oliveira Guterres - António Luís Santos Costa - Alberto de Sousa Martins.
 
-**Promulgado em 19 de Dezembro de 2000.**
+Promulgado em 19 de Dezembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Dezembro de 2000.**
+Referendado em 19 de Dezembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

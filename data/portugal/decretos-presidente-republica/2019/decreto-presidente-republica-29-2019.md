@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06900/0189601896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29/2019/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-2019-122035519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:36:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7884bd7f0e4b12f948d5e5793e4ff8e4acad422c05d57537e77cf29b50f5a6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 238c9bfb8d03ffd0c00ef82f247cb41e80c1265f7bc98b86198b8fbc5e564e30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:36:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Força Aérea
-- Presidente da República
 - Nomeação
+- Presidente da República
 - Vice-chefe do Estado Maior da Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:148443997:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148443997:por
+  label: Confirmada a exoneração do nomeado pelo presente diploma pelo(a) Decreto do Presidente da República n.º 54/2020 -
+    Diário da República n.º 222/2020, Série I de 2020-11-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/54-2020-148443997
+  date: '2020-11-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/1-a/2009/07/07/p/dre
   label: null
@@ -82,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:36:29Z'
   warnings: []
   errors: []
 ---
@@ -97,12 +103,14 @@ validation:
 
 de 8 de abril
 
-**O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, na sua redação atual, o seguinte:**
+O Presidente da República decreta, nos termos do n.º 5 do artigo 24.º da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/345291/details/normal?l=1), de 7 de julho, na sua redação atual, o seguinte:
 
 É confirmada a nomeação para o cargo de Vice-Chefe do Estado-Maior da Força Aérea, do Tenente-General PILAV José Alberto Fangueiro da Mata, efetuada por despacho do Ministro da Defesa Nacional de 27 de março de 2019, com efeitos a partir de 9 de abril de 2019.
 
-**Assinado em 28 de março de 2019.**
+Assinado em 28 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+112207294

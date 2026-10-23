@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/72/2010/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2010-335467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 818e056e86a38b4587b9d5a3cae130e6d09198ae823fdd7a1c25a521eae34cde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4a6f7f692585db7accf194b55ec434cab5f1e0c181f81d5a111c498ad8f6dc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Contribuições da Segurança Social
 - Desempregado
-- Prestações de Desemprego
 - Desemprego
+- Prestações de Desemprego
 - Proteção no Desemprego
 - Segurança Social
 - Subsídio de Desemprego
@@ -80,6 +80,65 @@ relationships:
   target: pt:dre:125417313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553468:por
+  label: "Alterados, a partir de 01.04.2012, os arts. 24º, 29º, 60º, 76º e 80º do Dec Lei 220/2006, de 03-nov , na redação\
+    \ do presente diploma, pelo DEC LEI.64/2012.15.03.2012.MSSSOC, DR.IS [54] de 15.03.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2012-553468
+  date: '2012-03-15'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação ao art. 30º do Dec Lei 220/2006 de 03-nov, alterado pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:256986:por
+  label: "Alterado a partir de 01.02.2013 o art. 76º do Dec Lei 220/2006, de 03-nov, na redação do presente diploma, pelo\
+    \ DEC LEI.13/2013.25.01.2013.MSSSOC, DR.IS [18] de 25.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2013-256986
+  date: '2013-01-25'
+- type: amended_by
+  target: pt:dre:75194223:por
+  label: Alterados a partir de 01.10.2016 os arts. 17.º (na redação do Dec Lei 64/2012, de 15-mar), 41.º, 46.º, 48.º (na redação
+    do Dec Lei 72/2010, de 18-jun, 49.º e 70.º (ambos na redação do Dec Lei 64/2012, de 15-mar e do Dec Lei 13/2013, de 25-jan),
+    82.º (na redação do Dec Lei 64/2012, de 15-mar) e 85.º e revogados na mesma data a al. f) do n.º 1 do art. 41.º, a al.
+    d) do n.º 1 do art. 48.º, a al. j) do n.º 1 do art. 49.º e os n.os 2 e 4 do art. 82.º do Dec Lei 220/2006, de 03-nov,
+    republicado pelo presente diploma pelo(a) Lei n.º 34/2016 - Diário da República n.º 162/2016, Série I de 2016-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-2016-75194223
+  date: '2016-08-24'
+- type: amended_by
+  target: pt:dre:107114288:por
+  label: Alterado o art. 30.º do Dec Lei 220/2006 de 03-nov, com a redação dada presente diploma, pelo(a) Decreto-Lei n.º
+    53-A/2017 - Diário da República n.º 105/2017, 1º Suplemento, Série I de 2017-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-a-2017-107114288
+  date: '2017-05-31'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Alterados, a partir de 01.07.2018, os arts. 22.º e 80.º do Dec Lei 220/2006 de 03-nov, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Alterados, a partir de 29.06.2019 e nos termos do art. 210.º, os arts. 24.º e 78.º do Dec Lei 220/2006 de 03-nov,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série
+    I de 2019-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:125417313:por
+  label: Alterados, a partir de 01.11.2019, os arts. 22.º (na redação dos Dec Lei 64/2012 de 15-mar e 53/2018 de 02-jul) e
+    24.º (na redação dos Dec Lei 64/2012 de 15-mar e 84/2019 de 28-jun) do Dec Lei 220/2006 de 03-nov, na versão republicada
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 153/2019 - Diário da República n.º 200/2019, Série I de 2019-10-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/153-2019-125417313
+  date: '2019-10-17'
+- type: amended_by
+  target: pt:dre:175983734:por
+  label: Alterado o art. 29.º e aditado o art. 28.º-A ao Dec Lei 220/2006, de 03-nov, na versão republicada pelo presente
+    diploma pelo(a) Decreto-Lei n.º 119/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2021-175983734
+  date: '2021-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -120,16 +179,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2010/05/05/p/dre
+- type: cites
+  target: pt:dre:217547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692254:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:75491407:por
+  label: Retificada a Lei 34/2016 de 24-ago, na parte em que altera a al. d) do n.º 1 do art. 48.º e o n.º 4 do art. 82.º
+    (este na redação do Dec. Lei 64/2012 de 15-mar) do Dec. Lei 220/2006 de 03-nov (na versão republicada pelo presente diploma,),
+    bem como retificado o art. 4.º da mesma lei (que revoga a al. f) do n.º 1 do art. 41.º, a al. d) do n.º 1 do art. 48.º,
+    a al. j) do n.º 1 do art. 49.º e os n.ºs 2 e 4 do art. 82.º do citado Dec. Lei 220/2006), pelo(a) Declaração de Retificação
+    n.º 19/2016 - Diário da República n.º 194/2016, Série I de 2016-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/19-2016-75491407
+  date: '2016-10-10'
+- type: repealed_by
+  target: pt:dre:114425586:por
+  label: Revogados os n.ºs 2 e 3 do art. 28.º do Dec Lei 220/2006 de 03-nov, na versão republicada pelo diploma, eliminando
+    a redução de 10% no montante diário do subsídio de desemprego efetuado após 180 dias da sua concessão, a qual se aplica
+    às prestações em curso e aos requerimentos pendentes; e determinada a majoração em 10%, em algumas situações, do montante
+    diário do subsídio de desemprego e do subsídio por cessação de atividade, pelo(a) Lei n.º 114/2017 - Diário da República
+    n.º 249/2017, Série I de 2017-12-29, nos termos do disposto respectivamente nos seus arts. 122.º e 123.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 article_structure:
-  article_count: 117
+  article_count: 96
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:48Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +341,9 @@ Os artigos 2.º, 4.º, 7.º, 13.º, 23.º, 24.º, 27.º, 29.º, 30.º, 33.º, 35
 
 2 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -190,7 +357,9 @@ d) ...
 
 e) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -198,7 +367,9 @@ e) ...
 
 3 - A protecção através do subsídio de desemprego parcial é assegurada nas situações em que o beneficiário, requerente ou titular de prestações de desemprego exerça uma actividade profissional nos termos do presente decreto-lei.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +391,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +403,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -240,13 +415,17 @@ e) ...
 
 4 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 4 do artigo 60.º, o direito ao subsídio de desemprego parcial é reconhecido a quem seja requerente ou titular de subsídio de desemprego e exerça, ou venha a exercer, uma actividade profissional por conta de outrem a tempo parcial, com um período normal de trabalho semanal inferior ao praticado a tempo completo em situação comparável, ou uma actividade profissional independente nos termos previstos no presente diploma, desde que o valor do rendimento relevante do trabalho independente ou da retribuição do trabalho por conta de outrem a tempo parcial seja inferior ao montante do subsídio de desemprego.
 
 2 - O direito ao subsídio referido no número anterior apenas é reconhecido aos beneficiários que reúnam as condições de atribuição do subsídio de desemprego.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - O montante mensal do subsídio de desemprego não pode ser superior ao triplo do valor do indexante dos apoios sociais (IAS) nem inferior ao valor desse indexante, sem prejuízo do disposto nos números seguintes.
 
@@ -256,7 +435,9 @@ e) ...
 
 4 - O valor líquido da remuneração de referência referido nos números anteriores obtém-se pela dedução, ao valor ilíquido daquela remuneração, da taxa contributiva que seria imputável ao beneficiário e da taxa de retenção do IRS.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O montante diário do subsídio social de desemprego é indexado ao valor do indexante dos apoios sociais (IAS) e calculado na base de 30 dias por mês, nos termos seguintes:
 
@@ -270,7 +451,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O montante do subsídio de desemprego parcial corresponde à diferença entre o montante do subsídio de desemprego acrescido de 35 % do seu valor e a retribuição do trabalho por conta de outrem.
 
@@ -290,11 +473,15 @@ b) A soma dos rendimentos de trabalho por conta de outrem, ou trabalho independe
 
 5 - O montante do subsídio de desemprego parcial não pode, em qualquer caso, ser superior ao montante do subsídio de desemprego que lhe corresponda.
 
-###### Artigo 35.º — Actualização do valor do indexante dos apoios sociais
+Artigo 35.º
+
+Actualização do valor do indexante dos apoios sociais
 
 Sempre que o valor do indexante dos apoios sociais (IAS) seja actualizado, o novo valor é considerado a partir da produção de efeitos do diploma que procede à sua fixação.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -306,11 +493,15 @@ Sempre que o valor do indexante dos apoios sociais (IAS) seja actualizado, o nov
 
 5 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 A duração do período de atribuição do subsídio de desemprego parcial tem como limite o período de concessão definido para o subsídio de desemprego.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - A falta de comparência do beneficiário, sempre que convocado pelos centros de emprego, é justificada nos termos constantes do regime previsto no Código do Trabalho, sem prejuízo do disposto nos n.os 2 e 3 e no artigo seguinte quanto às faltas por motivo de doença, devendo, na aplicação do referido regime, considerar-se as especificidades da relação entre o candidato a emprego e o centro de emprego, nomeadamente o facto de o beneficiário possuir maior flexibilidade na organização e gestão do seu tempo.
 
@@ -322,7 +513,9 @@ A duração do período de atribuição do subsídio de desemprego parcial tem c
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +531,9 @@ d) (Revogada.)
 
 3 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Determina a suspensão do pagamento das prestações, sem prejuízo do disposto no número seguinte, o reconhecimento do direito às seguintes prestações:
 
@@ -356,7 +551,9 @@ f) Subsídio parental inicial atribuído a um progenitor em caso de impossibilid
 
 2 - Os titulares do subsídio de desemprego parcial que se encontrem em situação de incapacidade para o trabalho por doença ou por impedimento no âmbito da protecção na parentalidade diferente do que determina a suspensão do pagamento das prestações nos termos do número anterior têm direito a receber o subsídio de desemprego durante o período de incapacidade ou de impedimento.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -370,7 +567,9 @@ f) Subsídio parental inicial atribuído a um progenitor em caso de impossibilid
 
 6 - O pagamento das prestações de desemprego é ainda suspenso durante o período de exercício de actividade profissional determinante do reconhecimento do direito ao subsídio de desemprego parcial, quando o rendimento relevante da actividade profissional independente ou a retribuição do trabalho por conta de outrem for igual ou superior ao valor do subsídio de desemprego, consoante o caso.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +579,9 @@ f) Subsídio parental inicial atribuído a um progenitor em caso de impossibilid
 
 4 - Durante o período de concessão das prestações de desemprego é proibida a sua acumulação com rendimentos provenientes do exercício de trabalho, ou actividade, a qualquer título, em empresa com a qual o beneficiário manteve uma relação laboral cuja cessação tenha dado origem ao reconhecimento do direito àquelas prestações, ou em empresa ou grupo empresarial que tenha uma relação de domínio ou de grupo com aquela.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -390,7 +591,9 @@ f) Subsídio parental inicial atribuído a um progenitor em caso de impossibilid
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 76.º — Meios de prova específicos do subsídio social de desemprego e do subsídio de desemprego parcial
+Artigo 76.º
+
+Meios de prova específicos do subsídio social de desemprego e do subsídio de desemprego parcial
 
 1 - ...
 
@@ -406,7 +609,9 @@ b) Prova dos rendimentos da actividade profissional exercida.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A atribuição do subsídio social de desemprego subsequente bem como a atribuição do subsídio de desemprego parcial no decurso do período de atribuição do subsídio de desemprego não dependem de requerimento, mas obrigam os interessados à apresentação dos meios de prova específicos das condições que justificam a sua atribuição.
 
@@ -422,7 +627,9 @@ b) Do início da actividade profissional.
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -478,15 +685,15 @@ São revogados o n.º 2 do artigo 2.º, o n.º 2 do artigo 13.º, o n.º 3 do ar
 
 Visto e aprovado em Conselho de Ministros de 13 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.
 
-**Promulgado em 11 de Junho de 2010.**
+Promulgado em 11 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de Junho de 2010.**
+Referendado em 14 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

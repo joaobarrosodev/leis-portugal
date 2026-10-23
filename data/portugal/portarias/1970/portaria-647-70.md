@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/647-1970-146675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5576f9085ab7d448f3b3302e6990688787ff02150f373a61c9a7851038ac2ac3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8bf1bf1b6fc6a0e098b03e5326ab852080acdf2cac39e3f1d4ec7762c3343b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322329:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:04Z'
   warnings: []
   errors: []
 ---
@@ -88,4 +96,4 @@ de 18 de Dezembro
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, nos termos do disposto na alínea 2) do artigo 1.º do [Decreto-Lei n.º 44764](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44764-1962-155606), de 4 de Dezembro de 1962, ouvida a Comissão Reguladora do Comércio de Arroz, que se mantenha durante a campanha de 1970-1971 a limitação da laboração das fábricas de descasque de arroz às suas quotas de rateio e que, para esse efeito, se subordinem às mesmas quotas as distribuições obrigatórias que forem efectuadas pelo Grémio dos Industriais de Arroz em execução do artigo 17.º do [Decreto-Lei n.º 27149](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27149-1936-322329), de 30 de Outubro de 1936.
 
-**O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.**
+O Secretário de Estado do Comércio, Valentim Xavier Pintado. - O Secretário de Estado da Indústria, Rogério da Conceição Serafim Martins.

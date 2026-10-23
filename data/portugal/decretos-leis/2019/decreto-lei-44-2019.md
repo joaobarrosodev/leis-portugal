@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06400/0179001798.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/44/2019/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca2a19158f5549ceddea70a188f34110e1fd02ac655d2de802fbd6ee9cd68d49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f0df31fdc2198a08ddb92a88619746fd26b8475c351bcdbd0be9b33664c2e7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Formação Profissional
+- Autarquia Local
+- Autoridade Nacional de Emergência e Proteção Civil
+- Bombeiro
+- Câmara Municipal
+- Centro de Estudos e Formação Autárquica
 - Comandante Operacional Municipal
 - Definição de Competências
 - Escola Nacional de Bombeiros
+- Formação Profissional
 - Junta de Freguesia
-- Bombeiro
-- Centro de Estudos e Formação Autárquica
 - Plano de Emergência
 - Presidente
-- Câmara Municipal
-- Autarquia Local
-- Autoridade Nacional de Emergência e Proteção Civil
+- Proteção Civil
 relationships:
 - type: amended_by
   target: pt:dre:902793530:por
@@ -111,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/449/2001/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/449/2001/05/05/p/dre
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629393:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:16Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +195,9 @@ Os artigos 1.º a 13.º, 15.º, 16.º, 18.º a 20.º e 23.º da [Lei n.º 65/200
 
 A presente lei define o enquadramento institucional e operacional da proteção civil no âmbito das autarquias locais, estabelece a organização dos serviços municipais de proteção civil (SMPC) e define as competências do coordenador municipal de proteção civil, em desenvolvimento da Lei de Bases da Proteção Civil.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -187,7 +217,9 @@ f) [...];
 
 g) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Em cada município existe uma comissão municipal de proteção civil (CMPC), organismo que assegura a nível municipal a coordenação em matéria de proteção civil, cuja composição é definida na Lei de Bases da Proteção Civil.
 
@@ -205,11 +237,15 @@ d) Promover e apoiar a realização de exercícios a nível municipal, simulacro
 
 e) Promover e difundir a emissão de comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social.
 
-###### Artigo 4.º — Subcomissões
+Artigo 4.º
+
+Subcomissões
 
 Nos municípios onde tal se justifique, face à frequência ou magnitude previsível da manifestação de determinado risco, a CMPC pode determinar a constituição de subcomissões, que tenham como objeto o respetivo acompanhamento.
 
-###### Artigo 5.º — Competência para aprovação dos planos municipais de proteção civil
+Artigo 5.º
+
+Competência para aprovação dos planos municipais de proteção civil
 
 1 - Compete à câmara municipal, através do SMPC, elaborar o plano municipal de emergência de proteção civil, os planos municipais especiais de emergência de proteção civil e acompanhar a sua execução.
 
@@ -217,7 +253,9 @@ Nos municípios onde tal se justifique, face à frequência ou magnitude previs�
 
 3 - A câmara municipal é ouvida sobre o estabelecimento de medidas preventivas necessárias à regulação provisória do uso do solo, nos termos da Lei de Bases da Proteção Civil.
 
-###### Artigo 6.º — Competências do presidente da câmara municipal
+Artigo 6.º
+
+Competências do presidente da câmara municipal
 
 1 - [...].
 
@@ -225,7 +263,9 @@ Nos municípios onde tal se justifique, face à frequência ou magnitude previs�
 
 3 - Compete ao presidente da câmara municipal ativar e desativar o plano municipal de emergência de proteção civil e os planos municipais especiais de emergência de proteção civil, ouvida, sempre que possível, a CMPC.
 
-###### Artigo 7.º — Dever de colaboração das juntas de freguesia
+Artigo 7.º
+
+Dever de colaboração das juntas de freguesia
 
 As juntas de freguesia têm o dever de colaborar com o SMPC, no âmbito das suas atribuições e competências, próprias ou delegadas, designadamente através da promoção de ações em matéria de:
 
@@ -235,7 +275,9 @@ b) Sensibilização e informação pública;
 
 c) Apoio à gestão de ocorrências, conforme previsto no respetivo plano municipal de emergência de proteção civil e nos planos municipais especiais de emergência de proteção civil.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Em função dos riscos existentes na respetiva área geográfica, as juntas de freguesia podem deliberar a existência de unidades locais de proteção civil (ULPC), fixando a respetiva constituição e tarefas, mediante parecer vinculativo das CMPC respetivas.
 
@@ -245,7 +287,9 @@ c) Apoio à gestão de ocorrências, conforme previsto no respetivo plano munici
 
 4 - As freguesias limítrofes podem agrupar-se para a constituição de ULPC, sendo designado presidente um dos presidentes das juntas de freguesia que a constituem.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -261,7 +305,9 @@ d) Sensibilização e informação pública.
 
 3 - O SMPC depende hierarquicamente do presidente da câmara municipal, com a faculdade de delegação no vereador por si designado, e é dirigido pelo coordenador municipal de proteção civil.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Compete ao SMPC executar as atividades de proteção civil de âmbito municipal, bem como centralizar, tratar e divulgar toda a informação recebida nesta matéria.
 
@@ -323,7 +369,9 @@ b) Promover campanhas de informação junto dos munícipes sobre medidas prevent
 
 c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, as orientações e procedimentos a ter pela população para fazer face à situação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os diversos agentes de proteção civil com responsabilidade de atuação na área do município e entidades com especial dever de colaboração devem estabelecer entre si relações de coordenação institucional, no sentido de aumentar a eficácia e efetividade das medidas tomadas.
 
@@ -333,13 +381,17 @@ c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, a
 
 4 - [Revogado.]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O presidente da câmara municipal é competente para solicitar ao presidente da ANEPC a participação das Forças Armadas em funções de proteção civil na área operacional do seu município.
 
 2 - O presidente da câmara pode solicitar a colaboração das Forças Armadas diretamente ao comandante da unidade implantada no seu município, nos casos previstos no artigo 53.º da Lei de Bases da Proteção Civil.
 
-###### Artigo 13.º — Centro de coordenação operacional municipal
+Artigo 13.º
+
+Centro de coordenação operacional municipal
 
 1 - Em cada município há um CCOM.
 
@@ -351,7 +403,9 @@ c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, a
 
 5 - [Revogado.]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo da dependência hierárquica e funcional do presidente da câmara, o CCOM mantém permanente ligação de articulação operacional com o comandante operacional previsto no SIOPS.
 
@@ -359,11 +413,15 @@ c) Difundir, na iminência ou ocorrência de acidentes graves ou catástrofes, a
 
 3 - [...].
 
-###### Artigo 16.º — Operações de proteção e socorro
+Artigo 16.º
+
+Operações de proteção e socorro
 
 Na iminência ou ocorrência de acidente grave ou catástrofe, são desencadeadas operações municipais de proteção e socorro, em harmonia com os planos municipais de emergência de proteção civil vigentes e com o sistema de gestão de operações, com vista a possibilitar a unidade de direção das ações a desenvolver, a coordenação técnica e operacional dos meios a empenhar e a adequação das medidas de carácter excecional a adotar.
 
-###### Artigo 18.º — Planos municipais de emergência de proteção civil
+Artigo 18.º
+
+Planos municipais de emergência de proteção civil
 
 1 - Em cada município tem de existir um plano municipal de emergência de proteção civil destinado a enfrentar a generalidade das situações de emergência que se admitem no respetivo território.
 
@@ -379,11 +437,15 @@ Na iminência ou ocorrência de acidente grave ou catástrofe, são desencadeada
 
 7 - [Revogado.]
 
-###### Artigo 19.º — Atualização dos planos municipais de emergência de proteção civil
+Artigo 19.º
+
+Atualização dos planos municipais de emergência de proteção civil
 
 Os planos municipais de emergência de proteção civil devem ser atualizados no prazo fixado pela CNPC, através da resolução prevista no n.º 3 do artigo anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Em cada município existe uma comissão municipal de defesa da floresta contra incêndios, que pode ser apoiada pelo gabinete técnico florestal, sendo o seu âmbito, natureza, missão, atribuições e composição reguladas pelo disposto no [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, na sua redação atual, que estrutura o Sistema Nacional de Defesa da Floresta contra Incêndios (SNDFCI).
 
@@ -391,7 +453,9 @@ Os planos municipais de emergência de proteção civil devem ser atualizados no
 
 3 - A intervenção do CCOM no âmbito da defesa da floresta contra incêndios é efetuada nos termos do SIOPS.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Os conteúdos curriculares da formação dos trabalhadores do SMPC constam de portaria dos membros do Governo responsáveis pelas áreas da proteção civil e das autarquias locais, ouvida a Associação Nacional de Municípios Portugueses.
 
@@ -417,7 +481,9 @@ Coordenador municipal de proteção civil
 
 6 - O coordenador municipal de proteção civil pode auferir despesas de representação, nos termos da lei.
 
-###### Artigo 15.º-A — Competências do coordenador municipal de proteção civil
+Artigo 15.º-A
+
+Competências do coordenador municipal de proteção civil
 
 1 - Compete ao coordenador municipal de proteção civil:
 
@@ -437,7 +503,9 @@ g) Convocar e coordenar o CCOM, nos termos previstos no SIOPS.
 
 2 - Sem prejuízo da dependência hierárquica e funcional do presidente da câmara, o coordenador municipal de proteção civil mantém uma permanente articulação com o comandante operacional previsto no SIOPS.
 
-###### Artigo 16.º-A — Central municipal de operações de socorro
+Artigo 16.º-A
+
+Central municipal de operações de socorro
 
 1 - Pode ser criada ao nível municipal, pela câmara municipal, uma central municipal de operações de socorro (CMOS), no âmbito do SMPC, nos municípios com mais do que um corpo de bombeiros.
 
@@ -465,15 +533,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de setembro de 2018. - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita.
 
-**Promulgado em 19 de março de 2019.**
+Promulgado em 19 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de março de 2019.**
+Referendado em 27 de março de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
@@ -784,3 +852,5 @@ O serviço prestado no SMPC é de total disponibilidade, pelo que o pessoal que 
 ###### Artigo 25.º — Produção de efeitos
 
 Os municípios adaptam os seus serviços ao regime previsto na presente lei no prazo de 180 dias.
+
+112181966

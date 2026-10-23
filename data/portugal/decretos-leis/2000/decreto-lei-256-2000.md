@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/256/2000/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f51e02d3b4dd34e1e66aec1a995b27f577ddddb196ce87f40c80115443e73a37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7959a7e68a97d2b336e24c32ae8424c5ce19c435f696c09162299429b1793fb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Saúde Pública
-- Proteção do Ambiente
 - Comércio
+- Proteção do Ambiente
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:463435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424729:por
+  label: "Alterados os anexos I e II e os arts. 3º 4º e 5º, do Dec Lei 264/98 de 19-Ago, na redacção do presente diploma e\
+    \ do Dec Lei 446/99 de 03-Nov, pelo DEC LEI.238/2002.2002.11.05.MECO, DR.IS-B [255] \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2002-424729
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:667121:por
+  label: "Alterada a al. a) do nº 7.2 e eliminado o nº 7.4 ambos do Anexo I ao Dec Lei 264/98, de 19-Ago, na redacção do Dec\
+    \ Lei 446/99 de 03-Nov, do presenet diploma e do Dec Lei 238/2002, de 05-Nov, pelo DEC LEI.141/2003.2003.07.02.MECO, DR.IS-A\
+    \ [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-2003-667121
+  date: '2003-07-02'
+- type: amended_by
+  target: pt:dre:252837:por
+  label: "Alterada a redacção dada ao anexo II do Dec Lei 264/98, de 19-Ago, pelo DEC LEI.123/2004.24.05.2004.MECO, DR.IS-A\
+    \ [121] de 24.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2004-252837
+  date: '2004-05-24'
+- type: amended_by
+  target: pt:dre:147997:por
+  label: "Alterados os nºs 10.1 e 10.5 do anexo I do Dec Lei 264/98, de 19-Ago, com a redacção dada pelo presente diploma,\
+    \ pelo DEC LEI.162/2005.22.09.2005.MEI, DR.IS-A [183] de 22.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2005-147997
+  date: '2005-09-22'
+- type: amended_by
+  target: pt:dre:463435:por
+  label: "Alterado o nº 6.1.1 do anexo I ao Dec Lei 264/98 de 19-Ago, alterado, substituído e republicado pelo Dec Lei 446/99\
+    \ de 03-Nov, na redacção do presente diploma, pelo DEC LEI.222/2005.27.12.2005.MEI, DR.IS-A [247] de 27.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2005-463435
+  date: '2005-12-27'
 - type: cites
   target: celex:31976L0769
   label: null
@@ -100,16 +131,21 @@ relationships:
   target: celex:31999L0051
   label: null
   source: http://data.europa.eu/eli/dir/1999/51/oj
+- type: corrected_by
+  target: pt:dre:315509:por
+  label: "Rectificado pela DECL-RECT.16-Q/2000.2000.12.29.PCM,DR.IS-A [300]5º Supl de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-q-2000-315509
+  date: '2000-12-29'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:19:56Z'
   warnings: []
   errors: []
 ---
@@ -268,23 +304,23 @@ c) ...»
 
 Visto e aprovado em Conselho de Ministros de 10 Agosto de 2000. - António Manuel de Oliveira Guterres - Vítor Manuel Sampaio Caetano Ramalho - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 2 de Outubro de 2000.**
+Promulgado em 2 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2000.**
+Referendado em 4 de Outubro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Lista de substâncias a que se refere o n.º 1 do artigo 3.º
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)
 
 ## ANEXO II — Lista de substâncias a que se refere o n.º 2 do artigo 3.º
 
-[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)
+[[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)](https://files.diariodarepublica.pt/1s/2000/10/240a00/57795783.pdf)
 
 ## ANEXO III
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/37/1998/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/37-1998-437430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 243b0716809120d0fdd3a3b152c6d536d1700b4e1c0da8743da617803c8b23c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8202d60ab70f61059ba012843dd0e80f7cccda9b7010978267f8a3d5248c3f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Mulher
 - Criança
-- Luta contra a Discriminação
-- Estatuto dos Refugiados
-- Património Cultural
-- ONU
-- Macau
-- Medicamento
-- Refugiado
 - Discriminação Racial
 - Discriminação Sexual
 - Droga
-- Proteção do Ambiente
-- Património Mundial
 - Ensino
+- Estatuto dos Refugiados
+- Luta contra a Discriminação
+- Macau
+- Medicamento
+- Mulher
+- ONU
+- Património Cultural
+- Património Mundial
 - Prostituição
+- Proteção do Ambiente
+- Refugiado
 - Sequestro de Pessoas
 - Xenofobia
 relationships:
@@ -88,16 +88,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/34-a/1998/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/decpresrep/34-a/1998/07/31/p/dre
+- type: cites
+  target: pt:dre:182272:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:01Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +110,7 @@ validation:
 
 de 17 de Agosto
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e do artigo 3.º, n.os 2 e 3, e do artigo 69.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e do artigo 3.º, n.os 2 e 3, e do artigo 69.º do Estatuto Orgânico de Macau, o seguinte:
 
 ###### Artigo único
 
@@ -116,8 +120,8 @@ de 17 de Agosto
 
 Para publicação no Boletim Oficial de Macau.
 
-**Assinado em 8 de Agosto de 1998.**
+Assinado em 8 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

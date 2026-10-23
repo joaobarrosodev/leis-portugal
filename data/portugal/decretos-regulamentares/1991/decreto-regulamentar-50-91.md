@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/09/219b00/50175019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/50/1991/09/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1991-300857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:19:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505f3334cacea0eb093e0fca50b7d2003278b6c4fd0c9743677e833d526fa439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d71877e084ba3de17380497f060c68f5f43a53beabb79b11fb6ada80a852dcc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:19:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,29 @@ relationships:
   target: pt:dre:692274:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:431188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563417:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:692274:por
+  label: "Revogado pelo DEC LEI.449-A/99.1999.11.04.MTS, DR.IS-A [257] Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/449-a-1999-692274
+  date: '1999-11-04'
 article_structure:
   article_count: 13
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:19:18Z'
   warnings: []
   errors: []
 ---
@@ -117,17 +130,17 @@ O FEFSS dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Gestão Financeira, compreendendo:
 
-##### Divisão de Gestão de Aplicações Financeiras e Crédito;
+Divisão de Gestão de Aplicações Financeiras e Crédito;
 
-##### Divisão de Informação e Análise de Mercado;
+Divisão de Informação e Análise de Mercado;
 
-##### Divisão de Gestão de Imóveis;
+Divisão de Gestão de Imóveis;
 
 b) Repartição Administrativa, compreendendo:
 
-#### Secção de Administração Geral;
+Secção de Administração Geral;
 
-#### Secção de Contabilidade.
+Secção de Contabilidade.
 
 ###### Artigo 4.º — Direcção de Serviços de Gestão Financeira
 
@@ -139,7 +152,9 @@ b) Orientar a elaboração do projecto de orçamento do FEFSS.
 
 2 - As competências referidas no número anterior serão exercidas através das divisões referidas na alínea a) do artigo anterior.
 
-###### Artigo 5.º — Divisão de Gestão de Aplicações Financeiras e Crédito
+###### Artigo 5.º
+
+##### Divisão de Gestão de Aplicações Financeiras e Crédito
 
 Compete à Divisão de Gestão de Aplicações Financeiras e Crédito:
 
@@ -159,7 +174,9 @@ g) Colaborar na elaboração do projecto de orçamento do FEFSS;
 
 h) Propor a realização e obtenção de estudos e pareceres de entidades de reconhecida competência, quando tal se torne necessário.
 
-###### Artigo 6.º — Divisão de Informação e Análise de Mercado
+###### Artigo 6.º
+
+##### Divisão de Informação e Análise de Mercado
 
 Compete à Divisão de Informação e Análise de Mercado:
 
@@ -173,7 +190,9 @@ d) Fornecer à Divisão de Gestão de Aplicações Financeiras e Crédito os ele
 
 e) Propor a realização e obtenção de estudos e pareceres de entidades de reconhecida competência, quando tal se torne necessário.
 
-###### Artigo 7.º — Divisão de Gestão de Imóveis
+###### Artigo 7.º
+
+##### Divisão de Gestão de Imóveis
 
 Compete à Divisão de Gestão de Imóveis:
 
@@ -187,7 +206,9 @@ c) Propor a realização de estudos e prestações de serviços conducentes à m
 
 Compete à Repartição Administrativa promover e executar todas as acções referentes à gestão administrativa e formação de pessoal, à elaboração do projecto de orçamento do FEFSS e controlo da execução orçamental, à organização contabilística, à aquisição de bens e serviços e a gestão do património de utilização própria do FEFSS, bem como emitir certidões e outros documentos constantes do cadastro individual.
 
-###### Artigo 9.º — Secção de Administração Geral
+###### Artigo 9.º
+
+#### Secção de Administração Geral
 
 Compete à Secção de Administração Geral:
 
@@ -205,7 +226,9 @@ f) Manter actualizado o inventário de bens do FEFSS e velar pela sua conservaç
 
 g) Receber, registar, protocolar, classificar e distribuir a correspondência, documentação e publicações e assegurar o serviço de expedição.
 
-###### Artigo 10.º — Secção de Contabilidade
+###### Artigo 10.º
+
+#### Secção de Contabilidade
 
 Compete à Secção de Contabilidade:
 
@@ -251,16 +274,16 @@ Presidência do Conselho de Ministros, 12 de Agosto de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Albino da Silva Peneda.
 
-**Promulgado em 6 de Setembro de 1991.**
+Promulgado em 6 de Setembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Setembro de 1991.**
+Referendado em 10 de Setembro de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro anexo a que se refere o artigo 11.º do Decreto Regulamentar n.º 50/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/219b00/50175019.pdf))](https://files.diariodarepublica.pt/1s/1991/09/219b00/50175019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/219b00/50175019.pdf)

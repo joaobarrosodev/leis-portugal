@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/59-1979-364903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8f47b6693f2828dea1bec097f7c674e3e61fd1e6dfea21f151a18f79a13e883
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13b03c54969dec140fcec6963f4354394d83e73b7c44a42aa1bb74569af81a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério dos Negócios Estrangeiros
+- Regulamento do Ministério dos Negócios Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:666295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:436270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507591:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:666295:por
+  label: "Revogado o artigo 32.º do Regulamento do Ministério dos Negócios Estrangeiros, aprovado pelo Decreto n.º 47478,\
+    \ de 31 de Dezembro de 1966, na redacção do presente diploma, pelo DR.27/87.15.04.1987.MNE, DR.IS [88] de 15.04.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/27-1987-666295
+  date: '1987-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:40Z'
   warnings: []
   errors: []
 ---
@@ -91,30 +108,30 @@ de 13 de Outubro
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 84.º a 87.º e 89.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 84.º a 87.º e 89.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, passam a ter a seguinte redacção:
 
-###### Art. 84.º A partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
+Art. 84.º A partir do ingresso no serviço diplomático, as promoções até à categoria de primeiro-secretário de embaixada, inclusive, fazem-se, por mérito ou por antiguidade, de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior.
 
-###### Art. 85.º As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:
+Art. 85.º As promoções referidas no artigo anterior obedecem à ordem estabelecida pelo conselho do Ministério, nos termos seguintes:
 
 a) O conselho do Ministério, ao elaborar as listas de promoção, deve, a seguir a cada três propostas de promoção por mérito, indicar para o mesmo efeito o funcionário mais antigo na categoria dos funcionários a promover;
 
 b) O Ministro não poderá deixar de obedecer à ordem estabelecida pelo conselho do Ministério sempre que a promoção for por antiguidade, mas, se pretender efectuar qualquer promoção por mérito não coincidente com a ordem proposta pelo conselho, deverá justificar e fundamentar a sua decisão.
 
-###### Art. 86.º As promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.
+Art. 86.º As promoções a conselheiro de embaixada e a ministro plenipotenciário de 2.ª classe obedecem à ordem estabelecida pelo conselho do Ministério e fazem-se por mérito de entre os funcionários com três anos de bom e efectivo serviço na categoria imediatamente inferior, dependendo ainda a promoção a conselheiro de embaixada da permanência do funcionário nos serviços externos por tempo não inferior a seis anos.
 
-###### Art. 87.º Caso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.
+Art. 87.º Caso o Ministro pretenda efectuar qualquer promoção não coincidente com a ordem constante das listas de promoção estabelecidas pelo conselho, nos termos do artigo anterior, deverá justificar e fundamentar a sua decisão.
 
-###### Art. 89.º Nenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.
+Art. 89.º Nenhum funcionário do serviço diplomático poderá ser promovido duas vezes consecutivas no mesmo país.
 
-###### Art. 2.º São revogados os n.os 4 e 9 do artigo 32.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, com a redacção constante do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.
+Art. 2.º São revogados os n.os 4 e 9 do artigo 32.º do [Decreto n.º 47478](https://diariodarepublica.pt/dr/detalhe/decreto/47478-1966-436270), de 31 de Dezembro de 1966, com a redacção constante do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.
 
-###### Art. 3.º Este decreto entra em vigor na data da sua publicação.
+Art. 3.º Este decreto entra em vigor na data da sua publicação.
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - João Carlos Lopes Cardoso de Freitas Cruz.
 
-**Promulgado em 29 de Setembro de 1979.**
+Promulgado em 29 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/207/2004/08/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2004-480524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01987f0627dfcc967d1741abc245c9b4cb74ad2ae4e886f3e741700310d95075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e39b352c087dac2bb9b54e4ed1834ab877dea94d012527db01bda035257ca1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alentejo
 - Assembleia Geral
-- Sociedade Anónima
-- Fiscal Único
+- Beja
 - Capital Social
 - Centro Hospitalar
 - Centro Hospitalar do Baixo Alentejo
+- Conselho Consultivo
 - Conselho de Administração
 - Contrato Programa
 - Criação de Serviços
 - Definição de Competências
 - Empresa Pública
+- Estabelecimento Hospitalar
 - Estatuto
-- Serviço Nacional de Saúde
 - Extinção de Serviços
+- Fiscal Único
+- Gestão de Recursos Humanos
 - Gestão Hospitalar
 - Hospital de São Paulo-Serpa
 - Hospital Distrital
 - Hospital José Joaquim Fernandes
-- Conselho Consultivo
-- Beja
-- Alentejo
-- Estabelecimento Hospitalar
 - Serpa
-- Gestão de Recursos Humanos
+- Serviço Nacional de Saúde
+- Sociedade Anónima
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:453991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453991:por
+  label: "Criada a Unidade Local de Saúde do Baixo Alentejo, E. P. E., por integração do Centro Hospitalar do Baixo Alentejo,\
+    \ E. P. E., criado pelo presente diploma, transformado em E.P.E. pelo Dec Lei 93/2005 de 11-Dez, e dos centros de saúde\
+    \ do distrito de Beja, com excepção do centro de saúde de Odemira, pelo DEC LEI.183/2008.04.09.2008.MS, DR.IS [171] de\
+    \ 04.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-2008-453991
+  date: '2008-09-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/2002/12/09/p/dre
   label: null
@@ -112,16 +120,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:13Z'
   warnings: []
   errors: []
 ---
@@ -310,15 +342,15 @@ O primeiro regulamento interno do Centro deve ser submetido à assembleia geral 
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - Arlindo Marques da Cunha.
 
-**Promulgado em 2 de Agosto de 2004.**
+Promulgado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 5 de Agosto de 2004.**
+Referendado em 5 de Agosto de 2004.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
 ## ANEXO — ESTATUTOS
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/39/1998/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/39-1998-566625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 375ecd072a9d7f5a9c4a20347a2643c73215ee549d9024eba80ac8ba7e7a0764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c49888586075edf51d69402a000f205777481d8ce9491bf2336286d6d6519e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/1998/04/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/1998/04/28/p/dre
+- type: cites
+  target: pt:dre:176483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186934:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:28:01Z'
   warnings: []
   errors: []
 ---
@@ -105,8 +113,8 @@ b) A segunda, dirigida aos cidadãos eleitores recenseados em cada uma das regi�
 
 2 - Os boletins de voto destinados aos cidadãos eleitores recenseados em cada uma das Regiões Autónomas só conterão a pergunta de alcance nacional prevista na alínea a) do n.º 1.
 
-**Assinado em 19 de Agosto de 1998.**
+Assinado em 19 de Agosto de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

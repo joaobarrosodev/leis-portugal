@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/376/1998/11/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1998-216514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:02:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e284aa31bae6c588b30eb2710c8194abf177cb55aed662ba6f00e28b403961ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d68be1766496f7ae4fe3765bc44e51df7f4947295e899035bee5103edd42b14c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:02:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Associação de Agricultores
 - Agrupamento de Produtores
-- Organização Interprofissional
-- Investigação Científica e Tecnológica
-- Controlo de Qualidade
-- Direito Privado
-- Controlo Sanitário
-- Indústria Agro-alimentar
-- Mercado Agrícola
-- Pessoa Coletiva
-- Política Alimentar
-- Informação do Consumidor
-- Produção
-- Política Agrícola
+- Associação de Agricultores
 - Comércio
+- Controlo de Qualidade
+- Controlo Sanitário
+- Direito Privado
+- Indústria Agro-alimentar
+- Informação do Consumidor
+- Investigação Científica e Tecnológica
+- Mercado Agrícola
+- Organização Interprofissional
+- Pessoa Coletiva
+- Política Agrícola
+- Política Alimentar
+- Produção
 - Produto Agrícola
+- Produto Alimentar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/123/1997/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/123/1997/11/13/p/dre
+- type: cites
+  target: pt:dre:687460:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:02:52Z'
   warnings: []
   errors: []
 ---
@@ -139,16 +143,16 @@ O pedido de adesão da organização à organização interprofissional deve ser
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 10 de Novembro de 1998.**
+Promulgado em 10 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Novembro de 1998.**
+Referendado em 13 de Novembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO A QUE SE REFERE O ARTIGO 3.º
+ANEXO A QUE SE REFERE O ARTIGO 3.º
 
 [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/1998/11/272a00/64746475.pdf)

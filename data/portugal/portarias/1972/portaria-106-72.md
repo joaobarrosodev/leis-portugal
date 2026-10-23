@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-1972-399039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e38c551f43150d15d9d4feea6ebcaebb21381d6ac11933286c9e4d4f286c463
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d56507b39c17cb34e479160ddde210dc6aadefc8617ba4126c4b9bc9605fc113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:34Z'
   warnings: []
   errors: []
 ---
@@ -1139,6 +1139,6 @@ Contínuo ... 30
 
 ... 1518
 
-**O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.**
+O Ministro dos Negócios Estrangeiros, Rui Manuel de Medeiros d'Espiney Patrício.
 
 (Não carece de visto ou anotação do Tribunal de Contas.)

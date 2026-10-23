@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/10/203a00/61236131.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/173/2005/10/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2005-594308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fa1cffa947e26e45b8fd8c487257e0f11524b73eb65e66745535cca939fdadf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f4039496925e9a324a3bcd1d1fdc5dbb9492bc1cb2d94b95d889787ccf02ffb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Comércio
+- Comissão de Coordenação e Desenvolvimento Regional
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional do Ambiente
-- Comissão de Coordenação e Desenvolvimento Regional
-- Inspecção Geral das Actividades Económicas
-- Licenciamento
-- Embalagem
-- Inspecção Geral do Ambiente e do Ordenamento do Território
-- Proteção do Ambiente
-- Política do Ambiente
-- Regime Jurídico
-- Pesticida
-- Produto Fitofarmacêutico
 - Eliminação de Resíduos
+- Embalagem
+- Inspecção Geral das Actividades Económicas
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Licenciamento
+- Multa
+- Pesticida
+- Política do Ambiente
+- Produto Fitofarmacêutico
+- Proteção do Ambiente
+- Regime Jurídico
 - TAXA de Prestação de Serviços
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:260454:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541635:por
+  label: "Alterados os arts. 13.º, 15.º, 19.º, 25.º, 26.º, 28.º e 29.º e revogadas as als. o) do nº 1 do art. 26.º e c) do\
+    \ art. 29.º, pelo DEC LEI.187/2006.19.09.2006.MADRP, DR.IS [181] de 19.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/187-2006-541635
+  date: '2006-09-19'
+- type: amended_by
+  target: pt:dre:608226:por
+  label: "Alterado o art. 1º pelo DEC LEI.101/2009.11.05.2009.MADRP, DR.IS [90] de 11.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/101-2009-608226
+  date: '2009-05-11'
 - type: cites
   target: celex:32002D1600
   label: null
@@ -97,16 +108,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
+- type: repealed_by
+  target: pt:dre:260454:por
+  label: "Revogado, a partir de 16.04.2013, o presente diploma, alterado pelos Dec Lei 187/2006 de 19-set e 101/2009 de 11-mai,\
+    \ pela LEI.26/2013.11.04.2013.AR, DR.IS [71] de 11.04.2013, que remete para aquela lei todas as referências feitas a este\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2013-260454
+  date: '2013-04-11'
 article_structure:
   article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:00Z'
   warnings: []
   errors: []
 ---
@@ -599,12 +617,12 @@ São revogados os n.os 4 e 5 do artigo 19.º do Decreto-Lei n.º 94/98, de 15 de
 
 Visto e aprovado em Conselho de Ministros de 22 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - António Fernando Correia de Campos.
 
-**Promulgado em 4 de Outubro de 2005.**
+Promulgado em 4 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Outubro de 2005.**
+Referendado em 11 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

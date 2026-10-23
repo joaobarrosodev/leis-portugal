@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26700/30643064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/986-1981-568489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c790f981abf4c1f1352358553c6920475782e139741055bcc33aec899bc19e04
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ceb4854d881a0486f187d77bf76493b118b7aaaffbf6c4b6b1c4df16a6407043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Missão Militar
+- NATO
 relationships:
 - type: amended_by
   target: pt:dre:378322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:576960:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552864:por
+  label: Rectificada pela DECL.DD5847.21.12.1981.CR, DR.IS [4] de 06.01.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-552864
+  date: '1981-12-21'
+- type: repealed_by
+  target: pt:dre:378322:por
+  label: "Revogada pela PORT.486/88.1988.07.25.MDN DR.IS [170]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/486-1988-378322
+  date: '1988-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:59:28Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +114,7 @@ Manda o Conselho da Revolução, pelo Chefe do Estado-Maior-General das Forças 
 
 3.º A composição da Missão Militar OTAN passa a ser a constante do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/26700/30643064.pdf))](https://files.diariodarepublica.pt/1s/1981/11/26700/30643064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26700/30643064.pdf)
 
 4.º Esta portaria produz efeitos a partir de 5 de Agosto de 1981.
 

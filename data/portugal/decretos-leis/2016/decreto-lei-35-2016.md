@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/12300/0201702019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2016/06/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ac3434ed56c295069c4eb4fb54676bb59abf148dfaff047488bec060c3a4700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 277dd237ca32a797f0d49743ccd9c038cb821c789a3ed58cf9cd228fe4257751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
+- Conselho Diretivo
 - Definição de Competências
 - Instituto de Ação Social das Forças Armadas
-- Conselho Diretivo
+- Ministério da Defesa Nacional
 - Orgânica
 relationships:
 - type: amended_by
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: pt:dre:175329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:59Z'
   warnings: []
   errors: []
 ---
@@ -184,7 +204,9 @@ e) [Anterior alínea c).]
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O conselho diretivo é composto por um presidente e por dois vogais.
 
@@ -198,7 +220,9 @@ e) [Anterior alínea c).]
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O IASFA, I. P., obriga-se mediante as assinaturas do presidente do conselho diretivo e de qualquer dos vogais.»
 
@@ -230,12 +254,12 @@ O presente decreto-lei entra em vigor no 1.º dia útil do mês seguinte ao da s
 
 Visto e aprovado em Conselho de Ministros de 2 de junho de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - José António Fonseca Vieira da Silva.
 
-**Promulgado em 20 de junho de 2016.**
+Promulgado em 20 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de junho de 2016.**
+Referendado em 23 de junho de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

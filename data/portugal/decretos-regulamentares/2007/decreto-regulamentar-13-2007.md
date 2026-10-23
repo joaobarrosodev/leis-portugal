@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/13/2007/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2007-518587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c769cf18be3a5e16e51f4af350800ea94ce49767fd9174c77faff271b07afc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59265605b0aaf8d5435722338604895e9424dd9db100b30eef87764fb891a55f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,6 +70,29 @@ subjects:
 - Plano Director Municipal
 - Regulamento
 relationships:
+- type: amended_by
+  target: pt:dre:629127:por
+  label: "Ratificada a suspensão, pelo prazo de dois anos e na área delimitada na planta anexa, dos nºs 1 e 2 do art. 23º\
+    \ do Regulamento do PDM da Chamusca, ratificado pela Res 180/95, de 27-Dez, da PCM, com a suspensão parcial aprovada pelo\
+    \ presente diploma, pela RES.168/2007.19.10.2007.PCM, DR.IS [202] de 19.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/168-2007-629127
+  date: '2007-10-19'
+- type: amended_by
+  target: pt:dre:456182:por
+  label: "Ratificada a suspensão, pelo prazo de dois anos e na área delimitada na planta anexa, dos arts. 19º, 21º e 22º do\
+    \ Regulamento do PDM da Chamusca, ratificado pela Res 180/95, de 27-Dez, da PCM, com as alterações tornadas públicas pela\
+    \ Decl 248/99(2ªSérie), de 11-Ago, Decl 103/2001(2ªSérie), de 04-Abr, Decl 163/2001(2ªSérie), de 18-Maio, Decl 240/2001(2ªSérie),\
+    \ de 08-Ago, Decl 255/2002(2ªSérie), de 12-Ago, a suspensão parcial aprovada pelo presente diploma e a ratificação da\
+    \ suspensão aprovada pela Res 168/2007, da PCM, de 19-Out e publicado em anexo o texto das medidas preventivas por igual\
+    \ prazo e para a mesma àrea, pela RES.100/2008.24.06.2008.PCM, DR.IS [120] de 24.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/100-2008-456182
+  date: '2008-06-24'
+- type: amended_by
+  target: pt:dre:70762119:por
+  label: Tornada pública a prorrogação por mais um ano do prazo de vigência das medidas preventivas determinadas pelo presente
+    diploma pelo(a) Aviso n.º 12166/2015 - Diário da República n.º 206/2015, Série II de 2015-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12166-2015-70762119
+  date: '2015-10-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/3/2004/01/03/p/dre
   label: null
@@ -86,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/180/1995/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/180/1995/12/27/p/dre
+- type: cites
+  target: pt:dre:240375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643121:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:29:59Z'
   warnings: []
   errors: []
 ---
@@ -160,14 +199,14 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Humberto Delgado Ubach Chaves Rosa.
 
-**Promulgado em 23 de Fevereiro de 2007.**
+Promulgado em 23 de Fevereiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 28 de Fevereiro de 2007.**
+Referendado em 28 de Fevereiro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05600/16641665.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05600/16641665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05600/16641665.pdf)

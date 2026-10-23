@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/133/2014/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2014-56474691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:23:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e850c06ef0de7cfaffba62c56b762718ce01e24dcbb243cf5b8aeaa697f28543
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 145aa5d30e70cb34c9a736858473d74d120001c2d6992627b9e88d2cb706fb64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:23:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Terrestre
-- Veículo
-- Transporte de Mercadorias
 - Equipamento de Veículo
+- Normalização
 - Regulamentação dos Transportes
 - Regulamento que FIXA os Pesos e as Dimensões Máximos Autorizados para os Veículos em Circulação
-- Normalização
+- Transporte de Mercadorias
+- Transporte Terrestre
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:108284890:por
@@ -86,20 +86,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2005/06/21/p/dre
+- type: repealed_by
+  target: pt:dre:108284890:por
+  label: Revogado, a partir de 12.10.2017, pelo(a) Decreto-Lei n.º 132/2017 - Diário da República n.º 196/2017, Série I de
+    2017-10-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-2017-108284890
+  date: '2017-10-11'
 - type: transposes
   target: celex:32002L0007
   label: null
   source: null
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:23:56Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +158,9 @@ Transporte de material lenhoso, papel, pasta de papel, produtos cerâmicos, áci
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -194,15 +202,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de agosto de 2014. - Pedro Passos Coelho - António de Magalhães Pires de Lima.
 
-**Promulgado em 1 de setembro de 2014.**
+Promulgado em 1 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de setembro de 2014.**
+Referendado em 2 de setembro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -596,15 +604,15 @@ Condições relativas à equivalência entre certas suspensões não pneumática
 
 3 - Definição da frequência e do amortecimento - na presente definição, considera-se uma massa suspensa M (kg) por cima do eixo motor ou do bogie; o eixo ou o bogie têm uma rigidez vertical total entre a superfície da estrada e a massa suspensa de K newtons por metro (N/m) e um coeficiente de amortecimento total de C newtons por metro por segundo (N/ms), sendo Z igual ao deslocamento vertical da massa suspensa. A equação do movimento da oscilação livre da massa suspensa é:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 A frequência da oscilação da massa suspensa F (rad/sec) é:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 O amortecimento é crítico se C = C(índice o), sendo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 A razão de amortecimento como fração do amortecimento crítico é C/C(índice o).
 
@@ -612,7 +620,7 @@ Durante a oscilação transitória livre da massa suspensa o movimento vertical 
 
 Pode calcular-se o amortecimento através da medição da altura dos picos sucessivos da oscilação na mesma direção. Sendo A(índice 1) e A(índice 2) as amplitudes de pico dos 1.º e 2.º ciclos, a razão de amortecimento D é:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 sendo 1n o logaritmo natural do coeficiente da amplitude.
 
@@ -634,10 +642,10 @@ Deve ser instalado no veículo um transdutor de deslocamento vertical entre o ei
 
 No traçado pode ser medido, por um lado, o intervalo de tempo entre o 1.º e o 2.º picos de compressão de modo a obter a frequência F e, por outro, a razão de amplitude para obter o amortecimento. Para os eixos motores duplos, devem ser instalados transdutores entre cada eixo motor e o quadro que se encontra imediatamente por cima.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 Fig. 1 - Degrau para os ensaios de suspensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf))](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/17100/0478504792.pdf)
 
 Fig. 2 - Resposta transitória amortecida

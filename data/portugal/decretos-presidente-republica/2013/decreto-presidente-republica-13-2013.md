@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/13/2013/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/13-2013-257051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 844548b8275419b22bdfdf1cc80be73e7a2c20922c2e368c8b6133c5e09b10bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 448e34e5d2acc493154ea72aa99f3d33f9e21db534e9028ef431a98d323cbc49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,44 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Judicial
-- Jurisdição
-- Crime
-- Processo Penal
-- Casa-abrigo
-- Combate à Violência
-- Mulher
-- Violência
-- Convenção
-- Portugal
-- Migração
-- Indemnização
 - Aborto
+- Ajuda Judicial
+- Casa-abrigo
+- Casamento
+- Combate à Violência
+- Conselho da Europa
+- Convenção
+- Crime
+- Direito de Família
+- Direito Penal
+- Indemnização
+- Investigação Criminal
 - Istambul
+- Jurisdição
 - Linha de Atendimento Telefónico
 - Medidas Preventivas
-- Conselho da Europa
-- Direito Penal
+- Migração
+- Mulher
+- Portugal
+- Processo Penal
 - Proteção Social
 - Sanção
-- Casamento
-- Direito de Família
-- Investigação Criminal
+- Violência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/4/2013/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/4/2013/01/21/p/dre
+- type: cites
+  target: pt:dre:257059:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:37Z'
   warnings: []
   errors: []
 ---
@@ -112,16 +116,16 @@ validation:
 
 de 21 de janeiro
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:
 
 É ratificada a Convenção do Conselho da Europa para a Prevenção e o Combate à Violência contra as Mulheres e a Violência Doméstica, adotada em Istambul, a 11 de maio de 2011, aprovada pela [Resolução da Assembleia da República n.º 4/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-2013-257059), em 14 de dezembro de 2012.
 
-**Assinado em 11 de janeiro de 2013.**
+Assinado em 11 de janeiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de janeiro de 2013.**
+Referendado em 15 de janeiro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

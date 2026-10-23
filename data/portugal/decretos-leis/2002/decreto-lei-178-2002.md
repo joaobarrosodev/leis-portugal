@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/175a00/55695570.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/178/2002/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2002-196969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 361434d61a97d94b7288557f08ca579c876771b62fa9688f748cc1b0c752056e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51ff973e5ec214ebbfa7fce766998f24941d5906d77ae76b2019b44ba59c715a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,20 +77,36 @@ relationships:
   target: pt:dre:58248462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636971:por
+  label: "Alterado o art. 3º do Regulamento da Actividade Marítimo-Turística, aprovado pelo Decreto-Lei n.º 21/2002, de 31-Jan,\
+    \ na redacção do presente diploma, pelo DEC LEI.289/2007.17.08.2007.MOPTC, DR.IS [158] de 17.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2007-636971
+  date: '2007-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2002/01/31/p/dre
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:58248462:por
+  label: Revogado o Dec Lei 21/2002, de 31-jan, na redação do presente diploma, pelo(a) Decreto-Lei n.º 149/2014 - Diário
+    da República n.º 196/2014, Série I de 2014-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-2014-58248462
+  date: '2014-10-10'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:22Z'
   warnings: []
   errors: []
 ---
@@ -119,12 +135,12 @@ O prazo previsto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 21/2002](https://
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 10 de Julho de 2002.**
+Promulgado em 10 de Julho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2002.**
+Referendado em 19 de Julho de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

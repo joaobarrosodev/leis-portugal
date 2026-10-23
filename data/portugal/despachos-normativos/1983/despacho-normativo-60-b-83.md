@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 53/1983, 1º Suplemento, Série I de 1983-03-05
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 828-(3) a 828-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/60-b-1983-667299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e20c196ffa98ad05336c9b01456c205c8a58c9edcb4b37cc2f8d3d5be3c0b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74686f72b9ecf81ed54149584fc2120e83fea6a38fb8ca4d4f1a90f09bb343e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centeio
+- Cereal
+- EPAC
+- Farinha
+- Fixação de Preços
+- Milho
+- Preço
+- Preço de Venda
+- Trigo
 relationships:
 - type: amended_by
   target: pt:dre:627012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:144397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656378:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DESPACHO NORMATIVO NUMERO 142-A/83, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE, NUMERO 142, SUPLEMENTO,\
+    \ DE 830622.\030622.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: repealed_by
+  target: pt:dre:627012:por
+  label: Revogado, a partir de 29.06.1983, pelo(a) Despacho Normativo n.º 142-A/83 - Diário da República n.º 142/1983, 1º
+    Suplemento, Série I de 1983-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/142-a-1983-627012
+  date: '1983-06-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:07Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +147,7 @@ Trigo
 
 1.º Os preços de venda pela Empresa Pública de Abastecimento de Cereais (EPAC) de trigo mole nacional e rijo da classe C são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf)
 
 2.º Os preços de venda pela EPAC de trigo rijo de grão claro das classes A e B, definidas e classificadas pela [Portaria n.º 20795](https://diariodarepublica.pt/dr/detalhe/portaria/20795-1964-537381), de 9 de Setembro de 1964, por tonelada, são os estabelecidos no número anterior, acrescidos de 8470$00 ou 6540$00, respectivamente.
 
@@ -117,7 +169,7 @@ Centeio
 
 5.º Os preços de venda pela EPAC de centeio destinado à produção de farinhas são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf))](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/05301/00030004.pdf)
 
 III
 

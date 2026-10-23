@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-1971-643927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:29:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fc9841234d6c69ac864771fa70c696445990c6cae24505d6fa27766e35316db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6df1da2d0fc91859bb7dfeb8ae5cc24d7a6a0411516d0f030fd42c1c1495c088
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:198679:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:29:11Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,7 @@ de 31 de Maio
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 18.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969, aprovar o Regulamento do Gabinete do Plano do Cunene, que faz parte integrante desta portaria e baixa assinado pelo Ministro do Ultramar.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
@@ -94,7 +98,7 @@ REGULAMENTO DO GABINETE DO PLANO DO CUNENE
 
 ### CAPÍTULO I — Da organização do Gabinete
 
-###### Artigo 1.º - 1. O Gabinete do Plano do Cunene é constituído por órgãos e por serviços.
+Artigo 1.º - 1. O Gabinete do Plano do Cunene é constituído por órgãos e por serviços.
 
 2. São órgãos do Gabinete o conselho administrativo, o director-delegado e o conselho coordenador.
 
@@ -104,13 +108,13 @@ REGULAMENTO DO GABINETE DO PLANO DO CUNENE
 
 ##### SUBSECÇÃO I — Do conselho administrativo
 
-###### Art. 2.º - 1. O conselho administrativo é formado por um presidente e dois vogais, sendo assistido por um representante do Tribunal de Contas.
+Art. 2.º - 1. O conselho administrativo é formado por um presidente e dois vogais, sendo assistido por um representante do Tribunal de Contas.
 
 2. As funções de presidente serão desempenhadas pelo director do Gabinete e, na sua falta ou impedimento, pelo subdirector.
 
 3. Servirá de secretário o chefe da secretaria do Gabinete.
 
-###### Art. 3.º - 1. Ao conselho administrativo incumbe a direcção superior da actividade do Gabinete, competindo-lhe especialmente:
+Art. 3.º - 1. Ao conselho administrativo incumbe a direcção superior da actividade do Gabinete, competindo-lhe especialmente:
 
 a) Apreciar e propor os planos de actividade, os programas de trabalho anuais e os correspondentes orçamentos;
 
@@ -132,23 +136,23 @@ i) Apresentar o relatório anual da actividade do Gabinete.
 
 2. A competência do conselho administrativo será exercida sem prejuízo da que está legalmente atribuída ao presidente do Conselho Superior de Fomento Ultramarino.
 
-###### Art. 4.º - 1. O conselho administrativo pode delegar parte da sua competência no presidente, em qualquer dos seus vogais ou no director-delegado do Gabinete.
+Art. 4.º - 1. O conselho administrativo pode delegar parte da sua competência no presidente, em qualquer dos seus vogais ou no director-delegado do Gabinete.
 
 2. Pode igualmente permitir que o presidente delegue nos vogais ou no director-delegado a competência que o conselho lhe tenha cometido.
 
-###### Art. 5.º - 1. Ao representante do Tribunal de Contas no conselho administrativo compete pronunciar-se sobre a legalidade das despesas, sem prejuízo do disposto na parte final do corpo do artigo 14.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969.
+Art. 5.º - 1. Ao representante do Tribunal de Contas no conselho administrativo compete pronunciar-se sobre a legalidade das despesas, sem prejuízo do disposto na parte final do corpo do artigo 14.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969.
 
 2. No caso de parecer desfavorável do representante do Tribunal de Contas quanto à legalidade de qualquer despesa sobre que deva pronunciar-se, será o respectivo processo presente ao Ministro do Ultramar, para ser sanada a ilegalidade que se verificar.
 
-###### Art. 6.º - 1. As deliberações do conselho administrativo tomadas contra o voto do presidente ficarão suspensas até decisão definitiva do Ministro do Ultramar.
+Art. 6.º - 1. As deliberações do conselho administrativo tomadas contra o voto do presidente ficarão suspensas até decisão definitiva do Ministro do Ultramar.
 
 2. Das deliberações definitivas e executórias do conselho cabe recurso contencioso nos termos da lei geral.
 
-###### Art. 7.º O conselho administrativo reúne-se, ordinàriamente, uma vez por mês e extraordinàriamente, sempre que o presidente o convoque.
+Art. 7.º O conselho administrativo reúne-se, ordinàriamente, uma vez por mês e extraordinàriamente, sempre que o presidente o convoque.
 
 ##### SUBSECÇÃO II — Do director-delegado
 
-###### Art. 8.º - 1. Ao director-delegado incumbe a direcção da actividade da Delegação, competindo-lhe especialmente:
+Art. 8.º - 1. Ao director-delegado incumbe a direcção da actividade da Delegação, competindo-lhe especialmente:
 
 a) Apreciar e propor os planos de actividade, os programas de trabalho anuais e os correspondentes orçamentos dos serviços da Delegação;
 
@@ -168,7 +172,7 @@ g) Apresentar o relatório anual da actividade da Delegação.
 
 ##### SUBSECÇÃO III — Do conselho coordenador
 
-###### Art. 9.º - 1. O conselho coordenador é composto por um presidente e um número variável de vogais.
+Art. 9.º - 1. O conselho coordenador é composto por um presidente e um número variável de vogais.
 
 2. A presidência das reuniões plenárias do conselho compete ao secretário provincial de Obras Públicas de Angola ou, nos seus impedimentos, ao director do Gabinete.
 
@@ -180,7 +184,7 @@ g) Apresentar o relatório anual da actividade da Delegação.
 
 6. Servirá de secretário quem for designado como tal pelo presidente do conselho coordenador.
 
-###### Art. 10.º Ao conselho coordenador compete especialmente:
+Art. 10.º Ao conselho coordenador compete especialmente:
 
 a) Promover a participação dos organismos públicos da província na realização dos planos de desenvolvimento sócio-económico da região do Cunene.
 
@@ -188,7 +192,7 @@ b) Coordenar essa participação e assegurar que ela seja prestada de modo que s
 
 c) Emitir os pareceres que lhe sejam determinados pelo presidente do conselho ou os solicitados pelo conselho administrativo do Gabinete.
 
-###### Art. 11.º - 1. O conselho coordenador funcionará em reuniões plenárias ou por secções, consoante as matérias a apreciar.
+Art. 11.º - 1. O conselho coordenador funcionará em reuniões plenárias ou por secções, consoante as matérias a apreciar.
 
 2. As reuniões plenárias realizar-se-ão, ordinàriamente, uma vez em cada semestre e, extraordinàriamente, sempre que o presidente as convoque.
 
@@ -198,23 +202,23 @@ c) Emitir os pareceres que lhe sejam determinados pelo presidente do conselho ou
 
 ##### SUBSECÇÃO IV — Disposições comuns
 
-###### Art. 12.º - 1. Nas reuniões dos órgãos colegiais do Gabinete serão tratados os assuntos constantes da agenda elaborada pelo presidente e distribuída pelos vogais, com a devida antecedência.
+Art. 12.º - 1. Nas reuniões dos órgãos colegiais do Gabinete serão tratados os assuntos constantes da agenda elaborada pelo presidente e distribuída pelos vogais, com a devida antecedência.
 
 2. Sob proposta de qualquer vogal, o presidente pode inscrever na agenda de uma das reuniões seguintes os assuntos que lhe tenham sido sugeridos.
 
 3. Em caso de urgência ou de diminuta importância, pode qualquer assunto ser tratado antes da ordem do dia, desde que o presidente o autorize.
 
-###### Art. 13.º O exercício de quaisquer cargos do Gabinete pelos titulares de órgãos singulares ou colegiais não poderá prejudicar a independência deles, enquanto suportes desses órgãos.
+Art. 13.º O exercício de quaisquer cargos do Gabinete pelos titulares de órgãos singulares ou colegiais não poderá prejudicar a independência deles, enquanto suportes desses órgãos.
 
-###### Art. 14.º Os titulares dos órgãos colegiais não podem tomar parte em deliberação que, de alguma forma, lhes diga respeito, nem o director-delegado decidir quanto a matérias de qualquer modo conexas com interesses pessoais dele.
+Art. 14.º Os titulares dos órgãos colegiais não podem tomar parte em deliberação que, de alguma forma, lhes diga respeito, nem o director-delegado decidir quanto a matérias de qualquer modo conexas com interesses pessoais dele.
 
-###### Art. 15.º - 1. As deliberações serão tomadas por maioria de votos e, em caso de empate, o respectivo presidente tem voto de qualidade.
+Art. 15.º - 1. As deliberações serão tomadas por maioria de votos e, em caso de empate, o respectivo presidente tem voto de qualidade.
 
 2. Os vogais vencidos farão consignar na acta as razões do seu desacordo.
 
 3. Quando exerçam funções deliberativas, os órgãos do Gabinete só podem deliberar desde que esteja presente a maioria dos seus membros.
 
-###### Art. 16.º - 1. As deliberações constarão de acta e só por ela podem ser provadas.
+Art. 16.º - 1. As deliberações constarão de acta e só por ela podem ser provadas.
 
 2. As actas podem ser aprovadas no final da reunião, em minuta, ou na reunião que se seguir.
 
@@ -224,13 +228,13 @@ c) Emitir os pareceres que lhe sejam determinados pelo presidente do conselho ou
 
 ##### SUBSECÇÃO I — Das disposições gerais
 
-###### Art. 17.º - 1. Os serviços do Gabinete serão dirigidos pelo director, coadjuvado pelo subdirector, que o substituirá nas suas faltas ou impedimentos.
+Art. 17.º - 1. Os serviços do Gabinete serão dirigidos pelo director, coadjuvado pelo subdirector, que o substituirá nas suas faltas ou impedimentos.
 
 2. Nas faltas ou impedimentos do subdirector, será este substituído pelo chefe de serviços administrativos e financeiros.
 
 3. Os serviços da Delegação serão dirigidos pelo director-delegado e, nas suas faltas ou impedimentos, pelo director dos serviços de estudos.
 
-###### Art. 18.º Ao director compete dirigir superiormente a actividade dos serviços do Gabinete e especialmente:
+Art. 18.º Ao director compete dirigir superiormente a actividade dos serviços do Gabinete e especialmente:
 
 a) Outorgar nos contratos a celebrar pelo Gabinete;
 
@@ -246,11 +250,11 @@ f) Conceder, nos termos da lei, licenças graciosas ao pessoal da Delegação;
 
 g) Autorizar a prestação de serviços extraordinários.
 
-###### Art. 19.º O director poderá delegar no subdirector, no chefe de serviços administrativos e financeiros e em funcionários de categoria igual ou superior à letra J a competência para a prática dos actos mais correntes ou repetidos relativos a quaisquer funções.
+Art. 19.º O director poderá delegar no subdirector, no chefe de serviços administrativos e financeiros e em funcionários de categoria igual ou superior à letra J a competência para a prática dos actos mais correntes ou repetidos relativos a quaisquer funções.
 
-###### Art. 20.º Ao subdirector cumpre auxiliar o director no exercício da sua competência, de harmonia com a orientação dele recebida.
+Art. 20.º Ao subdirector cumpre auxiliar o director no exercício da sua competência, de harmonia com a orientação dele recebida.
 
-###### Art. 21.º - 1. Os serviços centrais e os da Delegação são organizados em direcções de serviços.
+Art. 21.º - 1. Os serviços centrais e os da Delegação são organizados em direcções de serviços.
 
 2. Cada direcção de serviços será dirigida por um director de serviços, o qual pode ser coadjuvado por chefes de divisão.
 
@@ -260,37 +264,37 @@ g) Autorizar a prestação de serviços extraordinários.
 
 5. Os directores de serviços são substituídos, nas suas faltas ou impedimentos, pelos chefes de divisão ou, nas faltas ou impedimentos destes, pelo funcionário que for designado pelo director do Gabinete, sob proposta do competente director de serviços.
 
-###### Art. 22.º Aos chefes de divisão compete auxiliar os directores de serviços no exercício da sua competência, de harmonia com a orientação deles recebida.
+Art. 22.º Aos chefes de divisão compete auxiliar os directores de serviços no exercício da sua competência, de harmonia com a orientação deles recebida.
 
-###### Art. 23.º Os serviços centrais e os da Delegação comunicarão entre si através da direcção do Gabinete.
+Art. 23.º Os serviços centrais e os da Delegação comunicarão entre si através da direcção do Gabinete.
 
 ##### SUBSECÇÃO II — Dos serviços centrais
 
-###### Art. 24.º Os serviços centrais compreendem:
+Art. 24.º Os serviços centrais compreendem:
 
 a) Serviços de planeamento; e
 
 b) Serviços financeiros.
 
-###### Art. 25.º Nos serviços centrais existirão igualmente:
+Art. 25.º Nos serviços centrais existirão igualmente:
 
 a) A secretaria, encarregada do desempenho de funções de natureza administrativa de todos os órgãos e serviços, designadamente do expediente e arquivo, da gestão do pessoal, das traduções e aprovisionamento; e
 
 b) O sector técnico auxiliar, encarregado do apoio aos serviços de planeamento, abrangendo as actividades de documentação, desenho, cálculo e reprodução de documentos.
 
-###### Art. 26.º Compete às direcções de serviços participar na superintendência da execução dos empreendimentos, e bem assim elaborar e participar na execução dos planos de desenvolvimento sócio-económico da região do Cunene.
+Art. 26.º Compete às direcções de serviços participar na superintendência da execução dos empreendimentos, e bem assim elaborar e participar na execução dos planos de desenvolvimento sócio-económico da região do Cunene.
 
-###### Art. 27.º - 1. Compete à direcção de serviços de planeamento promover a elaboração de planos com vista ao desenvolvimento sócio-económico da região do Cunene.
+Art. 27.º - 1. Compete à direcção de serviços de planeamento promover a elaboração de planos com vista ao desenvolvimento sócio-económico da região do Cunene.
 
 2. O pessoal técnico pode ser chamado a exercer funções, quer em grupos de trabalho, quer por atribuição de responsabilidade directa às direcções de serviços, mesmo para além da sua competência específica.
 
-###### Art. 28.º A cada serviço cabe orientar, em termos de planeamento e sua execução, um conjunto de actividades subsectoriais e de estudos de base, devendo para isso, em relação aos seus domínios de actividade, deter elementos para avaliação das respectivas situações actuais, determinar as evoluções previsíveis, identificar os estrangulamentos existentes, seguir a evolução da execução dos planos de fomento, conhecer as actuações conformes com os planos regionais e acompanhar a evolução das actividades correntes dos serviços e das actividades privadas na região do Cunene.
+Art. 28.º A cada serviço cabe orientar, em termos de planeamento e sua execução, um conjunto de actividades subsectoriais e de estudos de base, devendo para isso, em relação aos seus domínios de actividade, deter elementos para avaliação das respectivas situações actuais, determinar as evoluções previsíveis, identificar os estrangulamentos existentes, seguir a evolução da execução dos planos de fomento, conhecer as actuações conformes com os planos regionais e acompanhar a evolução das actividades correntes dos serviços e das actividades privadas na região do Cunene.
 
-###### Art. 29.º Às direcções dos serviços centrais cabe igualmente seguir e orientar os serviços da Delegação, propondo as medidas necessárias para obter a colaboração dos serviços da metrópole e de Angola e das entidades privadas, nacionais e estrangeiras, com vista ao desenvolvimento da região do Cunene.
+Art. 29.º Às direcções dos serviços centrais cabe igualmente seguir e orientar os serviços da Delegação, propondo as medidas necessárias para obter a colaboração dos serviços da metrópole e de Angola e das entidades privadas, nacionais e estrangeiras, com vista ao desenvolvimento da região do Cunene.
 
 ##### SUBSECÇÃO III — Dos serviços da Delegação
 
-###### Art. 30.º - 1. Os serviços da Delegação compreendem:
+Art. 30.º - 1. Os serviços da Delegação compreendem:
 
 a) Serviços de estudos, com sede na cidade de Sá da Bandeira, especialmente incumbidos de toda a acção de estudo e recolha de elementos locais destinada à elaboração de planos de desenvolvimento sócio-económico da região do Cunene;
 
@@ -298,11 +302,11 @@ b) Serviços de fiscalização de obras destinados a fazer cumprir, em Angola, o
 
 2. Os serviços da Delegação mencionados no número anterior são formados por divisões e sectores de apoio geral.
 
-###### Art. 31.º - 1. Os serviços administrativos da Delegação são constituídos pelas secções de expediente e arquivo, de pessoal, de aprovisionamento, de contabilidade e de gestão das contas de depósito à ordem, bem como pela de manutenção geral e transportes de superfície.
+Art. 31.º - 1. Os serviços administrativos da Delegação são constituídos pelas secções de expediente e arquivo, de pessoal, de aprovisionamento, de contabilidade e de gestão das contas de depósito à ordem, bem como pela de manutenção geral e transportes de superfície.
 
 2. Os serviços mencionados no número anterior serão orientados tècnicamente pelo chefe dos serviços administrativos e financeiros.
 
-###### Art. 32.º - 1. Nos serviços de estudos funcionam as seguintes divisões:
+Art. 32.º - 1. Nos serviços de estudos funcionam as seguintes divisões:
 
 a) Divisão agrária, que se ocupa da agricultura, silvicultura, pecuária, fauna, pesca, comercialização e industrialização de produtos agrários, investigação aplicada e regiões alimentares;
 
@@ -312,9 +316,9 @@ c) Divisão de promoção social, povoamento e reordenamento, que compreende est
 
 2. As divisões referidas no número anterior serão orientadas tècnicamente pela direcção de serviços de planeamento, através do director-delegado.
 
-###### Art. 33.º Nos serviços de estudos existirá um sector técnico auxiliar.
+Art. 33.º Nos serviços de estudos existirá um sector técnico auxiliar.
 
-###### Art. 34.º - 1. Nos serviços de fiscalização de obras funcionaram as seguintes divisões:
+Art. 34.º - 1. Nos serviços de fiscalização de obras funcionaram as seguintes divisões:
 
 a)Divisão de gestão geral e de contrôle, que se ocupa das actividades administrativas, de manutenção e transportes, de técnicas auxiliares e de segurança no trabalho; e
 
@@ -322,29 +326,29 @@ b) Divisão de engenharia civil, que compreende os sectores relativos a barragen
 
 2. As divisões referidas no número anterior serão orientadas tècnicamente pela direcção de serviços de planeamento, através do director-delegado.
 
-###### Art. 35.º Nos serviços de fiscalização de obras existirão os seguintes sectores de apoio geral:
+Art. 35.º Nos serviços de fiscalização de obras existirão os seguintes sectores de apoio geral:
 
 a) Sector administrativo, formado pelas secções de expediente e arquivo, de pessoal, de aprovisionamento e de contabilidade; e
 
 b) Sector técnico auxiliar.
 
-###### Art. 36.º - 1. O director-delegado pode corresponder-se directamente com os serviços da província e com entidades particulares.
+Art. 36.º - 1. O director-delegado pode corresponder-se directamente com os serviços da província e com entidades particulares.
 
 2. Submeterá, porém, ao director do Gabinete cópia dos documentos que expedir no uso da faculdade referida no número anterior, bem como dos que justifiquem as decisões que tomar.
 
 ### CAPÍTULO II — Do pessoal e dos quadros
 
-###### Art. 37.º - 1. Os quadros do pessoal são os constantes dos mapas anexos a este diploma, e o provimento do pessoal neles previsto far-se-á em comissão de serviço ou por contrato.
+Art. 37.º - 1. Os quadros do pessoal são os constantes dos mapas anexos a este diploma, e o provimento do pessoal neles previsto far-se-á em comissão de serviço ou por contrato.
 
 2. Os vencimentos ou gratificações dos membros do conselho administrativo e do pessoal em comissão de serviço serão, todavia, fixados por despacho do Ministro do Ultramar, sendo também da sua competência aprovar os termos e condições, designadamente as remunerações, que poderão ser estipulados nos contratos.
 
-###### Art. 38.º - 1. O pessoal, nomeado em comissão de serviço ou contratado, que se encontre em serviço no Gabinete transitará para lugares dos quadros, de categorias tanto quanto possível equiparáveis aos desempenhados à data da publicação deste diploma.
+Art. 38.º - 1. O pessoal, nomeado em comissão de serviço ou contratado, que se encontre em serviço no Gabinete transitará para lugares dos quadros, de categorias tanto quanto possível equiparáveis aos desempenhados à data da publicação deste diploma.
 
 2. O movimento do pessoal acima referido efectuar-se-á segundo relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, lavrando-se as necessárias apostilas aos respectivos contratos.
 
 ### CAPÍTULO III — Da gestão financeira e da responsabilidade perante a Fazenda Nacional
 
-###### Art. 39.º - 1. Aos serviços financeiros compete assegurar a gestão financeira e, designadamente:
+Art. 39.º - 1. Aos serviços financeiros compete assegurar a gestão financeira e, designadamente:
 
 a) Preparar o planeamento financeiro, de acordo com a orientação superior;
 
@@ -370,21 +374,21 @@ k) Manter actualizado o cadastro dos bens afectos ao funcionamento do Gabinete e
 
 2. Os serviços administrativos da Delegação devem prestar aos serviços financeiros a colaboração necessária ao exercício das funções acima referidas, cabendo-lhes, em especial, cumprir os deveres estabelecidos nas alíneas f), g) e h) no que respeita à Delegação mencionada.
 
-###### Art. 40.º - 1. Os serviços do Gabinete e da Delegação só poderão liquidar despesas respeitantes a cada ano até 31 de Janeiro do ano imediato.
+Art. 40.º - 1. Os serviços do Gabinete e da Delegação só poderão liquidar despesas respeitantes a cada ano até 31 de Janeiro do ano imediato.
 
 2. O pagamento das despesas referidas no número anterior não poderá ser feito posteriormente a 14 de Fevereiro ou 31 de Março seguintes, consoante haja de efectuar-se na metrópole ou na província de Angola.
 
 3. Fica salvo o disposto nos números precedentes quanto às despesas suportadas pelas verbas provenientes de fontes sul-africanas, cuja liquidação e pagamento poderão efectuar-se até à data de encerramento da respectiva conta de gerência.
 
-###### Art. 41.º Os serviços administrativos da Delegação devem remeter aos serviços financeiros, até 30 de Abril de cada ano, os processos de despesas pagas no ano anterior, os quais serão objecto de parecer por parte dos serviços financeiros e seguidamente presentes ao conselho administrativo.
+Art. 41.º Os serviços administrativos da Delegação devem remeter aos serviços financeiros, até 30 de Abril de cada ano, os processos de despesas pagas no ano anterior, os quais serão objecto de parecer por parte dos serviços financeiros e seguidamente presentes ao conselho administrativo.
 
-###### Art. 42.º São responsáveis perante a Fazenda Nacional:
+Art. 42.º São responsáveis perante a Fazenda Nacional:
 
 a) O conselho administrativo;
 
 b) O director, o chefe de serviços administrativos e financeiros, o director-delegado, o chefe da contabilidade do Gabinete e o chefe dos serviços administrativos da Delegação.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Quadros do pessoal do Gabinete do Plano do Cunene
 
@@ -392,12 +396,12 @@ MAPA I
 
 Serviços centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf))](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf)
 
 MAPA II
 
 Delegação do Gabinete e serviços respectivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf))](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/05/12700/08290834.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

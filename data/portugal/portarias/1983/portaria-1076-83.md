@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1076-1983-432660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 909db3637a0ddb40672be05d5b402eb9096aa1fc1dc76816474977973e85f3fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bcdc6846091888eff8097d9e5e8bf3c5b594379dd35880b276168b60ee4a78f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:401042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401042:por
+  label: "Alterados os limites estabelecidos nos arts. 23.º, 24.º, 30.º e 33.º do Dec Lei 98/82 de 07-Abr, na redacção do\
+    \ presente diploma, pela PORT.876/84.30.11.1984.MFP, DR.IS [278] de 30.11.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/876-1984-401042
+  date: '1984-11-30'
+- type: cites
+  target: pt:dre:397311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607275:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:01Z'
   warnings: []
   errors: []
 ---
@@ -119,6 +134,6 @@ Manda o Governo da República Portuguesa, através do Ministro das Finanças e d
 
 Ministério das Finanças e do Plano.
 
-**Assinada em 13 de Dezembro de 1983.**
+Assinada em 13 de Dezembro de 1983.
 
 Pelo Ministro das Finanças do Plano, António d'Almeida, Secretário de Estado do Tesouro.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/07/15700/08610862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20656-1964-578091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11edd0eb21b3c7bc04bdb5ea941066cd5e540522decbf52098f64603cb68d7fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 496923c6f1239222becf4226a714dc7b388178bb5417b6d5fbead2dd4c00cd8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento
+- Leite
+- Produção Leiteira
+- Regulamento
+- Regulamento de Recolha e Distribuição do Leite Destinado ao Consumo Público e a Industrialização
 relationships:
 - type: amended_by
   target: pt:dre:313181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:528175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:313181:por
+  label: "Revogada pelo DEC LEI.47710.1967.05.18.MECO, DG.IS [117]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47710-1967-313181
+  date: '1967-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:38Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +122,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricu
 
 Regulamento de Recolha e Distribuição do Leite Destinado ao Consumo Público e à Industrialização no Continente
 
-###### Artigo 1.º Compete às organizações da lavoura a operação de recolha e concentração colectiva do leite destinado a venda, quer para o consumo público em natureza, quer para industrialização, a qual se fará nos termos do [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953, observadas as seguintes regras:
+Artigo 1.º Compete às organizações da lavoura a operação de recolha e concentração colectiva do leite destinado a venda, quer para o consumo público em natureza, quer para industrialização, a qual se fará nos termos do [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953, observadas as seguintes regras:
 
 1.ª A recolha do leite de tipo especial deverá ser delegada nas empresas privadas sempre que técnica e econòmicamente tal se justifique e sejam estas a proceder à sua distribuição.
 
@@ -124,7 +142,7 @@ A situação dos trabalhadores que prestam serviço nos postos referidos nesta r
 
 8.ª Os postos que vierem a fazer parte da rede proposta e aprovada para cada área serão licenciados em nome das organizações encarregadas da recolha.
 
-###### Art. 2.º A distribuição e venda de leite não especial para consumo directo compete às organizações da produção e também às empresas de carácter privado em relação aos centros de consumo em que presentemente o fazem, no todo ou em parte.
+Art. 2.º A distribuição e venda de leite não especial para consumo directo compete às organizações da produção e também às empresas de carácter privado em relação aos centros de consumo em que presentemente o fazem, no todo ou em parte.
 
 § 1.º O leite destinado tanto ao consumo em natureza como à industrialização é fornecido pelas organizações da lavoura nos seus postos de recolha e de concentração. Podem também funcionar como postos de concentração, mediante parecer técnico favorável da Direcção-Geral dos Serviços Pecuários, instalações existentes em unidades industriais, por acordo entre os interessados.
 
@@ -134,9 +152,9 @@ A situação dos trabalhadores que prestam serviço nos postos referidos nesta r
 
 § 4.º O esquema de comercialização será informado pela Junta Nacional dos Produtos Pecuários, nos termos da parte final do preceito citado na disposição antecedente, depois de ouvidas as Corporações da Lavoura e da Indústria.
 
-###### Art. 3.º Onde não existam centrais pasteurizadoras ou centrais leiteiras instaladas em condições legalmente fixadas, o tratamento do leite, bem como o seu transporte a partir dos locais de entrega referidos no § 1.º do artigo 2.º, compete às entidades que utilizam o leite, sem prejuízo de, por acordo entre os interessados, qualquer das operações poder ser efectuada por outra.
+Art. 3.º Onde não existam centrais pasteurizadoras ou centrais leiteiras instaladas em condições legalmente fixadas, o tratamento do leite, bem como o seu transporte a partir dos locais de entrega referidos no § 1.º do artigo 2.º, compete às entidades que utilizam o leite, sem prejuízo de, por acordo entre os interessados, qualquer das operações poder ser efectuada por outra.
 
-###### Art. 4.º As organizações da lavoura fornecerão às empresas privadas, nas condições do artigo 2.º, o leite correspondente à sua participação na distribuição ao consumo.
+Art. 4.º As organizações da lavoura fornecerão às empresas privadas, nas condições do artigo 2.º, o leite correspondente à sua participação na distribuição ao consumo.
 
 § 1.º As organizações da lavoura das áreas excedentárias fornecerão o leite necessário para suprir as insuficiências das áreas deficitárias.
 
@@ -144,7 +162,7 @@ A situação dos trabalhadores que prestam serviço nos postos referidos nesta r
 
 § 3.º A utilização referida no § 2.º poderá tornar-se extensiva aos centros de tratamento e envasilhamento de leite.
 
-###### Art. 5.º As organizações da lavoura encarregadas da recolha promoverão a distribuição do leite de cada área, excedentário do consumo directo, pelas unidades fabris, quer das cooperativas agrícolas, quer das empresas de carácter privado, tomando em consideração, salvo casos especiais devidamente justificados, as laborações efectiva dos últimos dois anos civis.
+Art. 5.º As organizações da lavoura encarregadas da recolha promoverão a distribuição do leite de cada área, excedentário do consumo directo, pelas unidades fabris, quer das cooperativas agrícolas, quer das empresas de carácter privado, tomando em consideração, salvo casos especiais devidamente justificados, as laborações efectiva dos últimos dois anos civis.
 
 § 1.º As quantidades de leite adquirido para fins industriais que, por força das exigências do consumo em natureza, as empresas industriais tenham nos últimos dois anos cedido para o abastecimento público serão consideradas para o efeito do disposto no corpo deste artigo.
 
@@ -152,11 +170,11 @@ A situação dos trabalhadores que prestam serviço nos postos referidos nesta r
 
 § 3.º A Junta Nacional dos Produtos Pecuários fornecerá seguidamente às organizações de recolha e de concentração de leite a indicação prevista no § 2.º, da qual os industriais, no caso de discordância das percentagens indicadas, terão direito de recurso, dentro dos 30 dias seguintes. A divergência será resolvida em sessão do conselho técnico da produção e comércio de leite e lacticínios da Junta, ouvidas as Corporações da Lavoura e da Indústria.
 
-###### Art. 6.º Os excedentes do consumo em natureza e da industrialização do leite que possam vir a decorrer do eventual aumento da produção serão obrigatòriamente recebidos pelas unidades fabris em funcionamento, proporcionalmente às laborações previstas no artigo anterior.
+Art. 6.º Os excedentes do consumo em natureza e da industrialização do leite que possam vir a decorrer do eventual aumento da produção serão obrigatòriamente recebidos pelas unidades fabris em funcionamento, proporcionalmente às laborações previstas no artigo anterior.
 
 § único. Ficam isentas do condicionamento previsto no corpo deste artigo, sem prejuízo da intervenção do sistema de recolha, as quantidades do leite que qualquer empresa venha a fomentar. À Junta Nacional dos Produtos Pecuários cabe julgar do interesse dessas intervenções junto da produção.
 
-###### Art. 7.º Para o efeito do pagamento do leite à produção do continente, são estabelecidos três graus de qualidade sujeitos à seguinte tabela de preços mínimos:
+Art. 7.º Para o efeito do pagamento do leite à produção do continente, são estabelecidos três graus de qualidade sujeitos à seguinte tabela de preços mínimos:
 
 Leite pasteurizável ... 2$10
 
@@ -170,12 +188,12 @@ Leite desvalorizado ... 1$70
 
 § 3.º Os encargos a que alude o § 2.º serão acordados entre os organismos da lavoura e da indústria e na falta de acordo serão estabelecidos pela Junta Nacional dos Produtos Pecuários, depois de ouvidos aqueles organismos.
 
-###### Art. 8.º Os requisitos correspondentes aos diferentes graus de qualidade estabelecidos no presente regulamento serão fixados pelas entidades oficiais competentes, mas deve prever-se o progressivo aumento das exigências a formular por aquelas entidades até se atingir o nível geral de qualidade satisfatório.
+Art. 8.º Os requisitos correspondentes aos diferentes graus de qualidade estabelecidos no presente regulamento serão fixados pelas entidades oficiais competentes, mas deve prever-se o progressivo aumento das exigências a formular por aquelas entidades até se atingir o nível geral de qualidade satisfatório.
 
-###### Art. 9.º Para o efeito da classificação do leite relacionada com a atribuição dos preços de pagamento à produção, deverão as organizações da recolha possuir serviços próprios, convenientemente apetrechados, cujo funcionamento terá de subordinar-se às regras e técnicas estabelecidas na lei e aos preceitos de ordem higio-sanitários.
+Art. 9.º Para o efeito da classificação do leite relacionada com a atribuição dos preços de pagamento à produção, deverão as organizações da recolha possuir serviços próprios, convenientemente apetrechados, cujo funcionamento terá de subordinar-se às regras e técnicas estabelecidas na lei e aos preceitos de ordem higio-sanitários.
 
-###### Art. 10.º Na venda do leite destinado tanto à industrialização como ao consumo em natureza, a classificação para o efeito da atribuição de preços será feita pelas organizações da lavoura, com direito de recurso dos compradores para as entidades oficiais competentes.
+Art. 10.º Na venda do leite destinado tanto à industrialização como ao consumo em natureza, a classificação para o efeito da atribuição de preços será feita pelas organizações da lavoura, com direito de recurso dos compradores para as entidades oficiais competentes.
 
-###### Art. 11.º As disposições do presente regulamento, no que respeita a recolha de leite, serão aplicadas nas diferentes regiões do País depois de completadas e prontas a funcionar as respectivas redes. A aplicação poderá, porém, ser gradual e progressiva, depois de aprovados o programa de actuação e o início de funcionamento, nos termos do artigo 1.º, regra 3.ª
+Art. 11.º As disposições do presente regulamento, no que respeita a recolha de leite, serão aplicadas nas diferentes regiões do País depois de completadas e prontas a funcionar as respectivas redes. A aplicação poderá, porém, ser gradual e progressiva, depois de aprovados o programa de actuação e o início de funcionamento, nos termos do artigo 1.º, regra 3.ª
 
 Secretarias de Estado da Agricultura, do Comércio e da Indústria, 6 de Julho de 1964. - O Secretário de Estado de Agricultura, Luís Le Cocq de Albuquerque de Azevedo Coutinho. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho. - Pelo Secretário de Estado da Indústria, José Luís Esteves da Fonseca, Subsecretário de Estado da Indústria.

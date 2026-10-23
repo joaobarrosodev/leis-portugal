@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08200/26932698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/141/2007/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cbafdbffeb446451ac9e7a28b3b5d12e3d7899ac35a3103785c5af1ca98884e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fcb6732df69c870b05c78aa4600641c332147ea23d807e700184dbfca5a7e34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Turismo
-- Definição de Competências
 - Conselho Diretivo
+- Definição de Competências
+- Fiscal Único
 - Instituto de Turismo de Portugal
 - Ministério da Economia e da Inovação
 - Orgânica
 - Quadro de Pessoal
 - Secretário Geral
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:178510:por
@@ -107,16 +107,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:217518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626254:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178510:por
+  label: "Revogado, a partir de 01.07.2012, pelo DEC LEI.129/2012.22.06.2012.MEE, DR.IS [120] de 22.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-2012-178510
+  date: '2012-06-22'
+- type: repeals
+  target: pt:numero:decreto-lei:277/2001
+  label: "Revoga, a partir de 01.05.2007, o Decreto-Lei n.º 277/2001, de 19 de Outubro, DR.IS-A [243] e determina que o Turismo\
+    \ de Portugal, I. P., suceda nas atribuições do Instituto de Formação Turística, cuja orgânica foi aprovada pelo citado\
+    \ diploma\0\0"
+  source: null
+  date: '2001-10-19'
+- type: repeals
+  target: pt:numero:decreto-lei:8/2004
+  label: "Revoga, a partir de 01.05.2007, o Decreto-Lei n.º 8/2004, de 07 de Janeiro, DR.IS-A [5] e determina que o Turismo\
+    \ de Portugal, I. P., suceda nas atribuições da Direcção-Geral do Turismo, cuja orgânica foi aprovada pelo citado diploma\0\
+    \0"
+  source: null
+  date: '2004-01-07'
+- type: repeals
+  target: pt:numero:decreto-lei:77/2004
+  label: "Revoga, a partir de 01.05.2007, os artigos 2.º, 3.º, 4.º, e na parte aplicável ao Instituto do Turismo de Portugal,\
+    \ os artigos 5.º e 6.º, todos do Decreto-Lei n.º 77/2004, de 31 de Março, DR.IS-A [77], e determina que o Turismo de Portugal,\
+    \ I. P., suceda nas atribuições do Instituto de Turismo de Portugal, cuja orgânica foi aprovada pelo citado diploma\0\0"
+  source: null
+  date: '2004-03-31'
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:56:36Z'
   warnings: []
   errors: []
 ---
@@ -517,12 +579,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 11 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 14 de Abril de 2007.**
+Promulgado em 14 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 18 de Abril de 2007.**
+Referendado em 18 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

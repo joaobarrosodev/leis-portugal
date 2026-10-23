@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/704-1975-309490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:53:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de64e708a7d5de4651504105ba3cdbd71952fa09837d9b0ae8d1456cd4e41c0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6dee35a3f0de9b7777951f25dd3b20d9bb92affe968975ed6bc8a755eb07dca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:53:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aluguer
+- Aparelho de Medição
+- Distribuição de Energia Elétrica
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:380503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:242189:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380503:por
+  label: "Revogada pela PORT.322/79.05.07.1979.MIT, DR.IS [153] de 05.07.1979, em tudo quanto se lhe oponha.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/322-1979-380503
+  date: '1979-07-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:53:23Z'
   warnings: []
   errors: []
 ---
@@ -99,13 +112,13 @@ QUADRO I
 
 Taxas fixas mensais de aluguer de contadores monofásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
 
 QUADRO II
 
 Taxas fixas mensais de aluguer de contadores trifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
 
 Os valores das taxas indicadas nestes quadros incluem os valores correspondentes aos transformadores de intensidade, quando empregados.
 
@@ -115,13 +128,13 @@ QUADRO III
 
 Taxas fixas mensais de aluguer de disjuntores de entrada monofásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
 
 QUADRO IV
 
 Taxas fixas mensais de aluguer de disjuntores de entrada trifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf))](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/27600/19171918.pdf)
 
 Os disjuntores a empregar como disjuntores de entrada serão dotados de relais térmicos e electromagnéticos ou relais magnetotérmicos. Estes disjuntores poderão ainda ser dotados de protecção sensível à corrente diferencial-residual, de média sensibilidade.
 

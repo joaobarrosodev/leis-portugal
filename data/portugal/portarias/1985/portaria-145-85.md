@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-1985-326899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T08:19:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f71631551d419410fbb0d96a34d994015738087bd239614e7a385b3a3cb389
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52dda6edf6c61cf8c0c25692017c8f426fae6b74d76fa3baf38bbb42bb2339e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:19:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente
+- Educação Especial
+- Família
+- Segurança Social
+- Subsídio de Educação Especial
 relationships:
 - type: amended_by
   target: pt:dre:355532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:355532:por
+  label: "Revogada pela PORT.657/88.29.09.1988.MF, DR.IS [226] de 29.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/657-1988-355532
+  date: '1988-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:19:24Z'
   warnings: []
   errors: []
 ---
@@ -112,13 +134,13 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado da Admini
 
 1.º É aprovada a tabela para a determinação da comparticipação familiar prevista no artigo 9.º, n.º 1, do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, com vista ao cálculo do subsídio de educação especial como prestação por encargos familiares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf)
 
 2.º Em qualquer caso, nas modalidades de internato e de semi-internato a comparticipação familiar não deverá ser inferior ao valor do abono de família percebido por um só filho.
 
 3.º É aprovada a tabela das despesas a considerar para o cálculo da poupança familiar a que se refere o n.º 1.º, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf))](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06000/06340635.pdf)
 
 4.º As instituições processadoras do subsídio de educação especial devem proceder com todo o rigor na determinação do quantitativo da prestação através do apuramento do valor da comparticipação familiar, designadamente:
 
@@ -132,6 +154,6 @@ b) Exercendo, sempre que necessário, o poder conferido pelo n.º 4 do artigo 10
 
 Secretarias de Estado da Administração Pública, do Orçamento e da Segurança Social.
 
-**Assinada em 31 de Janeiro de 1985.**
+Assinada em 31 de Janeiro de 1985.
 
-**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**
+O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

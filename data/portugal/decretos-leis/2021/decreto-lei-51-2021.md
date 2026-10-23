@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/51/2021/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2021-165129790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be99e161c5a481f966a7b2b5bb1ae6988382aa094247091716e279fa06074649
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d8f295752be2bb9599b5ec27e326447a5ddfcdb8d49fb6bc8156eb99b38e36b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Nacionalidade
 - Arquivo
+- Atendimento Público
 - Bandeira
-- Modernização Administrativa
 - Cartão de Cidadão
 - Cartão de Identificação
 - CE Países
+- Centro de Atendimento Consular
 - Cidadão Estrangeiro
 - Cidadão Nacional
+- Conselho Consultivo
 - Consulado
 - Consulado Honorário
 - Cooperação Consular
+- Cooperação Judiciária
 - Definição de Competências
+- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
 - Documentação
 - Documento de Viagem
 - Emolumento Consular
-- Registos e Notariado
 - Fiscalização
-- Pagamento
-- Palop
 - Horário de Funcionamento
-- Simbolo de Identificação
-- Conselho Consultivo
-- Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Pessoal Consular
+- Ministério dos Negócios Estrangeiros
+- Modernização Administrativa
 - Modernização Tecnológica
+- Nacionalidade
+- Pagamento
 - Página na Internet
 - Países Terceiros
-- Cooperação Judiciária
+- Palop
+- Pessoal Consular
+- Plataforma Eletrónica
 - Protecção e Assistência Consular
 - Registo Civil
+- Registos e Notariado
 - Regulamento Consular
 - Repatriamento
 - Representação Consular
-- Ministério dos Negócios Estrangeiros
 - Serviços Periféricos
-- Atendimento Público
+- Simbolo de Identificação
 - Vistoria
-- Plataforma Eletrónica
-- Centro de Atendimento Consular
 relationships:
 - type: amended_by
   target: pt:dre:837022979:por
@@ -146,16 +146,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114778985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603208:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 77
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:48Z'
   warnings: []
   errors: []
 ---
@@ -200,15 +236,15 @@ O presente decreto-lei entra em vigor no primeiro dia útil do terceiro mês seg
 
 Visto e aprovado em Conselho de Ministros de 27 de maio de 2021. - António Luís Santos da Costa - Francisco Gonçalo Nunes André - João Rodrigo Reis Carvalho Leão - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -1176,20 +1212,22 @@ b) Colaborar com os respetivos postos consulares, nos termos acordados, em outra
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 1 do artigo 33.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 42.º)
 
 A. Formulário comum para o compromisso de reembolso das despesas de proteção consular em caso de assistência financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
 
 B. Formulário comum para o compromisso de reembolso das despesas de proteção consular em caso de repatriamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 43.º)
 
 Formulário de pedido de reembolso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11400/0001400044.pdf)
+
+114306133

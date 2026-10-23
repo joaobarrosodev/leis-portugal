@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/164a00/33133323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2000-320560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05319de4f8138ddc06c4300def9a9cc063953502886865d094da7a79976c4b73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a0d83fb1e3eab08a0a1c71df01b3f84ee25ba2303031409b106f7efa9033b18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Património
-- Direcção Geral dos Serviços Prisionais
+- Auditoria Jurídica
 - Centro de Estudos Judiciários
-- Pessoal Dirigente
+- Comissão de Protecção às Vítimas de Crimes
+- Conselho Consultivo da Justiça
 - Conselho de Dirigentes do Ministério da Justiça
-- Instituto Nacional de Medicina Legal
+- Conselho Superior de Assuntos Criminais
 - Definição de Competências
+- Direcção Geral da Administração da Justiça
 - Direcção Geral da Administração Extrajudicial
 - Direcção Geral dos Registos e do Notariado
+- Direcção Geral dos Serviços Prisionais
 - Extinção de Serviços
-- Secretaria Geral
-- Gabinete de Política Legislativa e Planeamento
-- Ministério da Justiça
-- Instituto de Gestão Financeira e Patrimonial da Justiça
-- Instituto de Medicina Legal
-- Instituto de Reinserção Social
-- Integração de Trabalhadores
-- Conselho Superior de Assuntos Criminais
-- Auditoria Jurídica
-- Conselho Consultivo da Justiça
 - Gabinete de Auditoria e Modernização
+- Gabinete de Política Legislativa e Planeamento
 - Gabinete para as Relações Internacionais Europeias e de Cooperação
 - Inspecção Geral dos Serviços de Justiça
 - Instituto das Tecnologias de Informação na Justiça
+- Instituto de Gestão Financeira e Patrimonial da Justiça
+- Instituto de Medicina Legal
+- Instituto de Reinserção Social
+- Instituto Nacional de Medicina Legal
+- Integração de Trabalhadores
+- Ministério da Justiça
+- Ministério Público
 - Núcleo de Coordenação do Programa de Informatização Judiciária
 - Orgânica
-- Comissão de Protecção às Vítimas de Crimes
-- Quadro de Pessoal
-- Direcção Geral da Administração da Justiça
-- Ministério Público
+- Património
+- Pessoal Dirigente
 - Polícia Judiciária
+- Quadro de Pessoal
+- Secretaria Geral
 - Serviços Sociais
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:179293:por
@@ -111,16 +111,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/535/1999/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/535/1999/12/13/p/dre
+- type: cites
+  target: pt:dre:445741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685588:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:336710:por
+  label: "Rectificado pela DECL-RECT.7-P/2000.2000.08.28.PCM DR.IS-A [201]2ºSupl de 31/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-p-2000-336710
+  date: '2000-08-28'
+- type: repealed_by
+  target: pt:dre:457200:por
+  label: "Revogado o art. 10.º e alterado o mapa anexo ao presente diploma, pelo DEC LEI.4/2005.05.01.2005.MJ, DR.IS-A [3]\
+    \ de 05.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2005-457200
+  date: '2005-01-05'
+- type: repealed_by
+  target: pt:dre:548239:por
+  label: "Revogada a al. i) do art. 18.º do presente diploma, pelo DEC LEI.116-A/2006.16.06.2006.PCM, DR.IS-A [115-2ºSupl]\
+    \ de 16.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-a-2006-548239
+  date: '2006-06-16'
+- type: repealed_by
+  target: pt:dre:545645:por
+  label: "Revogado o presente diploma, e extinto o Conselho de Dirigentes do MJ, sem qualquer transferência de competências.\
+    \ Determinada a extinção, sendo objecto de fusão, do Gabinete para as Relações Internacionais, Europeias e de Cooperação\
+    \ e o Gabinete de de Política Legislativa e Planeamento, sendo as suas atribuições integradas na Direcção-Geral da Política\
+    \ de Justiça, nos termos da al. a) do nº 3 do art. 27º. Reestruturados: - o Instituto de Gestão Financeira e Patrimonial\
+    \ da Justiça, que passa a designar-se Instituto de Gestão Financeira e das Infra-Estruturas da Justiça, I.P.; - e a Direcção-Geral\
+    \ da Administração Extrajudicial que passa a designar-se Gabinete para a Resolução Alternativa de Litígios, pelo DEC LEI.206/2006.27.10.2006.MJ,\
+    \ DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-2006-545645
+  date: '2006-10-27'
 article_structure:
   article_count: 44
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:30Z'
   warnings: []
   errors: []
 ---
@@ -823,15 +863,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 2000. - António Manuel de Oliveira Guterres. - Jaime José Matos da Gama. - Joaquim Augusto Nunes Pina Moura. - António Luís Santos Costa. - Alberto de Sousa Martins.
 
-**Promulgado em 10 de Julho de 2000.**
+Promulgado em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Julho de 2000.**
+Referendado em 12 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Mapa a que se refere o artigo 28.º
 

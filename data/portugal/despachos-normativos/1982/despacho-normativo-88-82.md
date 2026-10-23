@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13100/16441645.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1982-395698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T07:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ef750c1a079db6c2ea70cfc3a951df6684bb5c7136a40391e8c91f3efd7fa31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fcd497dea3a3dd0aa87d90be7b3fc71bad1e74eee68059d6195b15d5ae05b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Educação dos Adultos
 relationships:
 - type: amended_by
   target: pt:dre:565869:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179838:por
+  label: "Alterado o n.º 3.3 pelo DN.66/85.01.08.1985.ME, DR.IS [175] de 01.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/66-1985-179838
+  date: '1985-08-01'
+- type: amended_by
+  target: pt:dre:418228:por
+  label: "Alterado o n.º 3.3 pelo DN.74/87.24.08.1987.MEC, DR.IS [193] de 24.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/74-1987-418228
+  date: '1987-08-24'
+- type: amended_by
+  target: pt:dre:551254:por
+  label: "Alterado, a partir de 01.01.1990, o montante mensal das bolsas, criadas no presente diploma, pelo DN.114/89.30.12.1989.ME,\
+    \ DR.IS [299] de 30.12.1989\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/114-1989-551254
+  date: '1989-12-30'
+- type: cites
+  target: pt:dre:231305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:565869:por
+  label: "Revogado pelo DN.131/90.30.10.1990.ME, DR.IS [251] de 30.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/131-1990-565869
+  date: '1990-10-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:21:47Z'
   warnings: []
   errors: []
 ---

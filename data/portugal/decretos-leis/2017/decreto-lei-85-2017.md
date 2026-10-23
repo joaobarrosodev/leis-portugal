@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0423204233.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/85/2017/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2017-107761911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2edeb610b14acba39d8105e2cc2dd1f527640804accf843a496ee2dd22a03b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5064c57559536a192d257cbca516751b2385c96c136a2a12db3f6cf1a76b791c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
+- Agência para a Modernização Administrativa
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Autoridade Tributária e Aduaneira
-- Informação Cadastral e Geográfica
-- Instituto dos Registos e do Notariado
+- Conselho Diretivo
 - Consultoria
+- Contratação Pública
 - Contrato Administrativo
 - Delegação de Competências
-- Secretaria Geral
-- Ministro da Justiça
-- Ministério da Justiça
-- Conselho Diretivo
-- IFAP
-- Instituto de Gestão Financeira e Equipamentos da Justiça
 - Direção Geral do Território
+- IFAP
+- Informação Cadastral e Geográfica
 - Instituto da Conservação da Natureza e das Florestas
-- Agência para a Modernização Administrativa
+- Instituto de Gestão Financeira e Equipamentos da Justiça
+- Instituto dos Registos e do Notariado
+- Ministério da Justiça
+- Ministro da Justiça
 - Regime Jurídico
 - Registo Predial
-- Contratação Pública
+- Secretaria Geral
 relationships:
 - type: cites
   target: celex:32014L0024
@@ -108,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2016/12/28/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106549661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:27Z'
   warnings: []
   errors: []
 ---
@@ -224,12 +240,12 @@ O presente decreto-lei produz efeitos no dia seguinte ao da sua publicação e v
 
 Visto e aprovado em Conselho de Ministros de 6 de julho de 2017. - Augusto Ernesto Santos Silva - Maria Manuel de Lemos Leitão Marques - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
 
-**Promulgado em 21 de julho de 2017.**
+Promulgado em 21 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de julho de 2017.**
+Referendado em 24 de julho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

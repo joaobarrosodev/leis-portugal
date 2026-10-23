@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/184/1999/05/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1999-316946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 427c55b6dbcef4eff5d7fba279cf3cbb0afa8a0d5e8ae18034990ca90c63f981
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 829a67c09d25a5c3e6743e73f1442eb0e183eea83a8efc912c1e26b26981af90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
 - Armazenagem
-- Multa
-- Sistema Português da Qualidade
+- Comércio
 - Contra-ordenação
 - Direcção Geral da Indústria
 - Direito Comunitário
 - Etiquetagem
+- Fertilizante
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Livre Circulação de Mercadorias
-- Norma
-- Fertilizante
 - Madeira.região Autónoma
-- Açores
-- Comércio
-- Transporte de Mercadorias Perigosas
+- Multa
+- Norma
 - Normalização
+- Sistema Português da Qualidade
+- Transporte de Mercadorias Perigosas
 relationships:
 - type: amended_by
   target: pt:dre:480911:por
@@ -137,16 +137,32 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1
   label: null
   source: http://data.europa.eu/eli/dir/1
+- type: corrected_by
+  target: pt:dre:402713:por
+  label: "Rectificado pelo DECL-RECT.10-BJ/99.1999.07.30.PCM,DR.IS-A [177]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-bj-1999-402713
+  date: '1999-07-30'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "Revogado o presente diploma, na redacção da Decl-Rect 10-BJ/99 de 30-Jul, pelo DEC LEI.190/2004.17.08.2004.MECO,\
+    \ DR.IS-A [193] de 17.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2004-08-17'
+- type: repealed_by
+  target: pt:dre:480911:por
+  label: "Revogado pelo DEC LEI.190/2004.17.08.2004.MECO, DR.IS-A [193] de 17.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-2004-480911
+  date: '2004-08-17'
 article_structure:
   article_count: 12
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:20Z'
   warnings: []
   errors: []
 ---
@@ -289,15 +305,15 @@ São revogados o Decreto-Lei n.º 256/90 de 7 de Agosto, e as Portarias n.os 909
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - Vítor Manuel Sampaio Caetano Ramalho - José Apolinário Nunes Portada - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 10 de Maio de 1999.**
+Promulgado em 10 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Maio de 1999.**
+Referendado em 12 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Do CAPÍTULO A ao CAPÍTULO E
 
@@ -307,13 +323,13 @@ Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manu
 
 1 - Misturas sólidas ou fluidas de oligoelementos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)
 
 2 - Adubos CE que contêm elementos principais e ou secundários com oligoelementos
 
 2.1 - Para aplicação no solo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)](https://files.diariodarepublica.pt/1s/1999/05/122a00/29352969.pdf)
 
 2.2 - Para pulverização foliar:
 

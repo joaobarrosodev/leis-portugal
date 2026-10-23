@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/76637663.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/450/1999/11/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1999-693817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 689653ada8361dca6e3c89cf973984b9bea0211e16d81e9b0a9111fb84d4b38c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cd8c09adae8c7b44b2931fdfb88bfcfc1303e4380b3a88edf0447326261c9ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
 subjects:
 - Acesso à Informação
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - BDAP
 - Conselho Geral
 - Definição de Competências
-- Administração Pública
+- Função Pública
+- Gestão de Recursos Humanos
 - Instituto de Gestão da BASE de Dados dos Recursos Humanos da Administração Pública
 - Membros do Governo
 - Orgânica
-- Sistema de Informação
-- Presidente
 - Política de Emprego
+- Presidente
 - Recursos Humanos
-- Administração Local
-- Administração Regional
-- Gestão de Recursos Humanos
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:567032:por
@@ -91,16 +91,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/47/1998/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1998/03/07/p/dre
+- type: cites
+  target: pt:dre:219145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:567032:por
+  label: "Revogado pelo DEC LEI.300/2001.2001.11.22.MREAP DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:08Z'
   warnings: []
   errors: []
 ---
@@ -137,12 +146,12 @@ Constituição e presidência do conselho geral
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 19 de Outubro de 1999.**
+Promulgado em 19 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

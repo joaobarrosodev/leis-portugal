@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/188a00/25412549.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/138/1996/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1996-405761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a03a9e0f201992ebbdd22cd87e14f8ea42dfcdf9df93907f84dfe232b69f6bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dd13b74137d40fd02eda36e381ef97743c61bac32d3b0d93a6cae8a7dfefd4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - CE Países
-- Multa
-- Radiactividade
 - Contra-ordenação
-- Portugal
 - Direcção Geral do Ambiente
-- Saúde Pública
 - Euratom
-- Resíduo
+- Multa
+- Portugal
 - Proteção do Ambiente
+- Radiactividade
+- Resíduo
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:488787:por
@@ -89,16 +89,21 @@ relationships:
   target: celex:31992L0003
   label: null
   source: http://data.europa.eu/eli/dir/1992/3/oj
+- type: repealed_by
+  target: pt:dre:488787:por
+  label: "Revogado, a partir de 31.08.2009, pelo DEC LEI.198/2009.26.08.2009.MCTES, DR.IS [165] de 26.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2009-488787
+  date: '2009-08-26'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:02Z'
   warnings: []
   errors: []
 ---
@@ -351,14 +356,14 @@ c) Em 20% para a Direcção-Geral da Saúde.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Rodrigues Pereira Penedos - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/188a00/25412549.pdf))](https://files.diariodarepublica.pt/1s/1996/08/188a00/25412549.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/188a00/25412549.pdf)

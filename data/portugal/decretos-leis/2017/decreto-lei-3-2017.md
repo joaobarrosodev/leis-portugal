@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00500/0030800312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/3/2017/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2017-105711788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7dce773105ad057921b0b405d85c03ed76677bc248e23fddb0be5779ff26e969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba4407a6d2b773653b67361c5823f6b84449dfbcad07e21816cc2c990dd04be1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Administração Pública
 - Aposentação
+- Caixa Geral de Aposentações
 - Cálculo de Pensões
 - Estatuto
 - Estatuto da Aposentação
-- Administração Pública
-- Caixa Geral de Aposentações
+- Forças Armadas
+- Função Pública
+- Funcionário Público
+- GNR
 - Idade de Reforma
 - Interpretação do Direito
-- GNR
-- Forças Armadas
+- Militar
 - Pensão de Aposentação
 - Pensão de Invalidez
-- Pensão de Velhice
 - Pensão de Reforma
+- Pensão de Velhice
 - Proteção Social
 - Reforma
 - Regime de Protecção Social Convergente
 - Regime Geral da Segurança Social
 - Regulamento
 - Reserva
-- Militar
 - Segurança Social
-- Funcionário Público
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -136,16 +136,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2009/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2009/08/13/p/dre
+- type: cites
+  target: pt:dre:247991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469066:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70437577:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:31Z'
   warnings: []
   errors: []
 ---
@@ -312,12 +372,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de novembro de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Marcos da Cunha e Lorena Perestrello de Vasconcellos - Maria Constança Dias Urbano de Sousa - José António Fonseca Vieira da Silva.
 
-**Promulgado em 16 de dezembro de 2016.**
+Promulgado em 16 de dezembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de janeiro de 2017.**
+Referendado em 3 de janeiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

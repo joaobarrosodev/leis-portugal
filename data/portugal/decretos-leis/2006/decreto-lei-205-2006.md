@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2006-545650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3afe87d7920c59872a1a16e62d58bd952f19c652f63880157452bed4d2fb468f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21756930e8e19525f0bb020c9489f3824a0f913afb36228d1d827843be0c6cd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,51 +66,51 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Fiscal
-- Sistema de Controlo Interno
 - ADSE
-- Reestruturação de Serviços
-- Ministério das Finanças e da Administração Pública
-- Inspeção Geral de Finanças
-- Pessoal Dirigente
+- Banco de Portugal
+- Caixa Geral de Aposentações
+- CMVM
 - Comissão de Acompanhamento das Privatizações
-- Serviços Sociais da Administração Pública
-- Direcção Geral do Tesouro
+- Conselho Coordenador
+- Conselho Diretivo
 - Conselho Superior de Finanças
 - Controlador Financeiro
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral do Orçamento
+- Direção Geral do Tesouro e Finanças
 - Direcção Geral da Administração e do Emprego Público
+- Direcção Geral da Administração Pública
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
+- Direcção Geral de Estudos e Previsão
 - Direcção Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros
 - Direcção Geral do Património
-- Instituto de Gestão do Crédito Público
-- Direção Geral do Tesouro e Finanças
+- Direcção Geral do Tesouro
 - Direcção Geral dos Impostos
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Diretor Geral
 - Extinção de Serviços
-- Caixa Geral de Aposentações
-- INA
 - Fundação Ricardo Espírito Santo Silva
-- Secretaria Geral
 - Fundo de Regularização da Dívida Pública
-- Banco de Portugal
-- Conselho Diretivo
+- INA
+- Inspeção Geral de Finanças
 - Inspecção Geral da Administração Pública
 - Inspetor Geral
+- Instituto de Gestão do Crédito Público
 - Instituto de Informática
 - Instituto de Seguros de Portugal
 - Instituto Português de Santo António
 - Integração de Serviços
-- Direcção Geral da Administração Pública
-- Direcção Geral de Estudos e Previsão
-- Direção Geral do Orçamento
+- Ministério das Finanças e da Administração Pública
 - Orgânica
-- Conselho Coordenador
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
 - Serviços Sociais
-- CMVM
+- Serviços Sociais da Administração Pública
+- Sistema de Controlo Interno
 - Subdirector Geral
 - Transferência de Serviços
 - Vice-presidente
@@ -120,6 +120,31 @@ relationships:
   target: pt:dre:73958532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:689576:por
+  label: "Alterado o art. 14.º pelo DEC LEI.69-A/2009.24.03.2009.MFAP, DR.IS [58-Supl] de 24.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/69-a-2009-689576
+  date: '2009-03-24'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinada a transição para o Ministério das Finanças, dos serviços, organismos e entidades identificados no presente\
+    \ diploma, alterado pelo Dec Lei 69-A/2009 de 24-Mar, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011,\
+    \ nos termos do seu art. 11º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinto o Instituto de Informática criado pelo Dec Lei 464/77, de 11-Nov, e reestruturado pelo presente diploma,\
+    \ pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011, que determina, nos termos dos art.s 30º e 31º, a fusão\
+    \ e integração das suas atribuições na Entidade de Serviços Partilhados da Administração Pública, I. P.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterado o art. 22.º do Dec. Lei 47/2005 de 24-fev, revogado pelo presente diploma sem prejuízo do disposto no seu
+    art. 37.º, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/33/2006/02/17/p/dre
   label: null
@@ -136,16 +161,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683408:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145590:por
+  label: "Revogado o presente diploma, a partir de 20.12.2011 e com excepção do nº 4 do art. 37º, na redacção do Dec Lei 69-A/2009,\
+    \ de 24-Mar, pelo DEC LEI.117/2011.15.12.2011.MF, DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
+- type: repealed_by
+  target: pt:dre:504159:por
+  label: "Revogado o Dec Lei 39190 de 27-abr, na redação do presente diploma, pelo DEC LEI.159/2013.19.11.2013.PCM, DR.IS\
+    \ [224] de 19.11.2013, nos termos dos art.ºs 3.º e 4.º deste\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2013-504159
+  date: '2013-11-19'
 article_structure:
   article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:38Z'
   warnings: []
   errors: []
 ---
@@ -762,20 +815,20 @@ As referências legais feitas aos serviços e organismos objecto de extinção, 
 
 Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Henrique Nuno Pires Severiano Teixeira - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.
 
-**Promulgado em 19 de Outubro de 2006.**
+Promulgado em 19 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 23 de Outubro de 2006.**
+Referendado em 23 de Outubro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Cargos de direcção superior da administração directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)
 
 ## ANEXO II — Dirigentes de organismos da administração indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf))](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/20800/74547463.pdf)

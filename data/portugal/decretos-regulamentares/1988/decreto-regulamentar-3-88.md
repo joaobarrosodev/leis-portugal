@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 18/1988, 1º Suplemento, Série I de 1988-01-22
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 256-(2) a 256-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01801/00020011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,124 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1988-138480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0950aa96fa53353b0858ef3e495d5744e188310ff355b922d88f47b839e3865c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 019d9a9056fe70fc5e179abb9971f9d65c18ac1ecfaf087cca91d5cdfbbdb8bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Auditor
+- Comissão Técnica
+- Conselho de Administração
+- Conselho Geral
+- Definição de Competências
+- Director Clínico
+- Enfermeiro-director
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Orgânica
+- Presidente
 relationships:
 - type: amended_by
   target: pt:dre:654680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612811:por
+  label: "Alterado o art. 28º pelo DR.7/89.1989.03.04.MF, DR.IS [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-1989-612811
+  date: '1989-03-04'
+- type: amended_by
+  target: pt:dre:574932:por
+  label: "Alterados os arts. 7º, 9º, 12º e 14º pelo DR.14/90.06.06.1990.MS, DR.IS [130] de 06.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-1990-574932
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:261316:por
+  label: "Alterado o art. 17º pelo DEC LEI.39/2002.2002.02.26.MS, DR.IS-A [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2002-261316
+  date: '2002-02-26'
+- type: amended_by
+  target: pt:dre:425487:por
+  label: "Mantido em vigor nos termos do art. 3º, pela LEI.27/2002.08.11.2002.AR, DR.IS-A [258] de 08.11.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/27-2002-425487
+  date: '2002-11-08'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405373:por
+  label: "Revogados os nºs 1 e 2 do art. 12º e o nº 1 do art. 14º, , assim como são revogadas, na parte em que remete para\
+    \ o final do n.º 1 e para os nºs 2 e 3 do art. 5.º do Dec Lei 323/89 de 26-Set, as normas constantes do n.º 3 e do n.º\
+    \ 2, respectivamente, dos referidos arts. 12º e 14.º (na redacção conferida pelo DR 14/90 de 06-Jun) do presente diploma\
+    \ pelo DEC LEI.135/96.1996.08.13.MS, DR.IS-A [187]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/135-1996-405373
+  date: '1996-08-13'
+- type: repealed_by
+  target: pt:dre:353350:por
+  label: "Revogado o art. 36.º pelo DEC LEI.284/99.1999.07.26.MS DR.S-A [172]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/284-1999-353350
+  date: '1999-07-26'
+- type: repealed_by
+  target: pt:dre:569893:por
+  label: "Revogado o art. 32º, continuando transitoriamente a aplicar-se aos centros de responsabilidade existentes até à\
+    \ sua transformação em CRI, pelo DEC LEI.374/99.1999.09.18.MS,DR.IS-A [219] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1999-569893
+  date: '1999-09-18'
+- type: repealed_by
+  target: pt:dre:654680:por
+  label: "Revogado pelo DEC LEI.188/2003.2003.08.20.MS DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/188-2003-654680
+  date: '2003-08-20'
 article_structure:
   article_count: 40
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:08Z'
   warnings: []
   errors: []
 ---
@@ -719,12 +803,12 @@ O esquema de órgãos previsto neste diploma é aplicável aos hospitais em regi
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 13 de Janeiro de 1988.**
+Promulgado em 13 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Janeiro de 1988.**
+Referendado em 15 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

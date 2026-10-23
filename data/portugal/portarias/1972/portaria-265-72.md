@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1972-680803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1a288c31ac7f8c034fb88f6c8c2893adf5094dcd4aa12f5b6e9f4caea48fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6552bf659d8418ad843dced6b01fec717793638539c8050228ba78811541c24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234956:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:20Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 1.º Reforce, com a importância de 1200000$00, a verba do capítulo 12.º, artigo 350.º, n.º 8), alínea b) «III Plano de Fomento - Programa de execução para 1972 - Transportes, comunicações e meteorologia - Portos e navegação», utilizando como contrapartida igual quantia de disponibilidades a sair das verbas que se indicam da mesma tabela orçamental de despesa:
 
-### Capitulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
+Capitulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
 
 2) Pesca:
 
@@ -111,7 +123,7 @@ a) Transportes rodoviários ... 800000$00
 
 2.º Abra um crédito especial de 10701289$10, para reforço das verbas a seguir indicadas da referida tabela orçamental de despesa:
 
-### Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
+Capítulo 12.º, artigo 350.º «III Plano de Fomento - Programa de execução para 1972»:
 
 5) Melhoramentos rurais:
 

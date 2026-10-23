@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/56-1984-661738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:55:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da5c58087c4fdc74343f76d0ec297f8babbb9fba747897c20e023c043a1a63d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a79c3b0ad47abeacc7e485dc45b868839199e33203ab0dcf1ec0fcb163195f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:55:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- África do Sul
+- Embaixador
+- Nomeação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:55:56Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +88,16 @@ validation:
 
 de 30 de Março
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o embaixador José Manuel Peixoto de Villas-Boas de Vasconcelos Faria para o cargo de embaixador de Portugal em Pretória.
 
-**Assinado em 7 de Março de 1984.**
+Assinado em 7 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 19 de Março de 1984.**
+Referendado em 19 de Março de 1984.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.

@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1982-397486
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38657edcc9b111dbd5113ecfa01a611608a9b5879752dc0d53d2c374755cdc9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6a0fa0541ac8b0af7e581efac8b9560276672720c921f82c86c33242fd51db8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- ÁREA NON Aedificandi
+- Ermesinde
+- Normas de Segurança
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:264553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:38Z'
   warnings: []
   errors: []
 ---
@@ -98,25 +110,25 @@ Considerando o disposto no n.º 4 do artigo 30.º do Regulamento para a Explora�
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Até à aprovação dos planos ao anteprojecto de ampliação das infra-estruturas da linha do Minho, entre Campanhã e Ermesinde, e linha de circunvalação de Leixões, serão consideradas áreas non aedificandi as faixas à esquerda e à direita da linha do Minho, entre os quilómetros 0,500 a 8,450, e da linha de circunvalação de Leixões, entre os quilómetros 0,400 a 1,900, conforme os limites e distâncias expressos nos desenhos n.os V-004646 a V-004655, respectivamente, anexos a este diploma e referidos ao eixo da entrevia da linha do Minho, entre Campanha e Ermesinde, e ao eixo da via da linha de circunvalação de Leixões, entre Ermesinde e São Gemil. Os referidos limites e distâncias encontram-se igualmente descritos nos quadros anexos ao presente decreto regulamentar.
+Artigo 1.º Até à aprovação dos planos ao anteprojecto de ampliação das infra-estruturas da linha do Minho, entre Campanhã e Ermesinde, e linha de circunvalação de Leixões, serão consideradas áreas non aedificandi as faixas à esquerda e à direita da linha do Minho, entre os quilómetros 0,500 a 8,450, e da linha de circunvalação de Leixões, entre os quilómetros 0,400 a 1,900, conforme os limites e distâncias expressos nos desenhos n.os V-004646 a V-004655, respectivamente, anexos a este diploma e referidos ao eixo da entrevia da linha do Minho, entre Campanha e Ermesinde, e ao eixo da via da linha de circunvalação de Leixões, entre Ermesinde e São Gemil. Os referidos limites e distâncias encontram-se igualmente descritos nos quadros anexos ao presente decreto regulamentar.
 
-###### Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção nas áreas referidas no artigo anterior ficam sujeitas, caso a caso, a autorização do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses (CP), E. P.
+Art. 2.º A implantação de edifícios, arruamentos, passagens de nível ou qualquer outro tipo de ampliação ou construção nas áreas referidas no artigo anterior ficam sujeitas, caso a caso, a autorização do Ministro da Habitação, Obras Públicas e Transportes, sob proposta dos Caminhos de Ferro Portugueses (CP), E. P.
 
-###### Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos e das ampliações em causa.
+Art. 3.º Os limites e distâncias das áreas non aedificandi definidos no artigo 1.º serão revistos decorridos 5 anos, para o que se tomará em consideração a evolução dos estudos e das ampliações em causa.
 
 Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
 
-**Promulgado em 18 de Julho de 1982.**
+Promulgado em 18 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Linha do Minho - Troço Campanhã-Ermesinde
 
 Terrenos a declarar como área «non aedificandi»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf)
 
 Linha de circunvalação de Leixões
 
@@ -124,4 +136,4 @@ Troço Ermesinde-São Gemil
 
 Terrenos a declarar como área «non aedificandi»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf))](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/19100/24372444.pdf)

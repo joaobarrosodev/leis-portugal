@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/2008/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2008-247445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f98fa1aa31a048942bd39bb5b115f782faf419fc486bf10ce362b179092c65e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18df325f13708b071d952c98a19935d098fb2804e4700f8819ead2bae989952
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,41 +69,67 @@ reuse:
 subjects:
 - Assistência Técnica
 - Certificação Profissional
-- Multa
-- Contra-ordenação
 - Climatização
+- Contra-ordenação
+- Equipamento de Combate a Incêndios
 - Equipamento Térmico
-- Saúde Pública
 - Especificação Técnica
 - Fiscalização
+- Multa
 - Normas de Segurança
 - Ozono
-- Proteção do Ambiente
 - Pessoal Técnico
+- Proteção do Ambiente
 - Qualificação Profissional
 - Regime Jurídico
 - Regulamento CE
 - Sanção
-- Equipamento de Combate a Incêndios
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:185224662:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114288884:por
+  label: Alterados, nos termos do art. 36.º, os arts. 5.º, 6.º e 7.º e o anexo I do Dec Lei 152/2005, de 31-ago, na redação
+    do presente diploma, pelo(a) Decreto-Lei n.º 145/2017 - Diário da República n.º 231/2017, Série I de 2017-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2017-114288884
+  date: '2017-11-30'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 7.º-A do Dec Lei 152/2005 de 31-ago, na versão republicada pelo presente diploma,
+    pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 7.º-A do Dec Lei 152/2005 de 31-ago, na versão republicada pelo
+    presente diploma, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do art.
+    241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
 - type: cites
   target: celex:32000R2037
   label: null
   source: http://data.europa.eu/eli/reg/2000/2037/oj
+- type: repealed_by
+  target: pt:dre:25345968:por
+  label: "Revogados o n.º 1 do art. 3.º, o art. 9.º e as als. a), g), h), i) e j) do n.º 1 do art. 11º do Dec Lei 152/2005\
+    \ de 31-ago, alterado e republicado pelo presente diploma, pelo DEC LEI.85/2014.27.05.2014.MAOTE, DR.IS [101] de 27.05.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-2014-25345968
+  date: '2014-05-27'
 article_structure:
-  article_count: 30
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:40Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +170,17 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - Apenas os técnicos qualificados de acordo com o presente decreto-lei podem assegurar as operações de trasfega, reciclagem, valorização e destruição das substâncias que empobrecem a camada de ozono, as operações de recuperação para reciclagem, valorização e destruição dessas substâncias contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, sistemas de protecção contra incêndios e extintores, bem como as operações de manutenção, reparação e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias, aplicando-se quanto aos equipamentos contendo solventes o disposto no artigo 10.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os técnicos são qualificados para intervenções de trasfega, reciclagem, valorização e destruição das substâncias que empobrecem a camada de ozono, para as intervenções de recuperação para reciclagem, valorização e destruição, dessas substâncias contidas em equipamentos de refrigeração e de ar condicionado, bombas de calor, bem como para as intervenções de manutenção, reparação e de assistência desses mesmos equipamentos, incluindo a detecção de eventuais fugas das referidas substâncias, nos grupos A, B ou C, nos seguintes termos:
 
@@ -208,7 +238,9 @@ iii) Experiência de três anos relevante e continuada adquirida nos últimos ci
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O reconhecimento como técnico qualificado é da competência da APA, que emite para o efeito um certificado.
 
@@ -220,7 +252,9 @@ iii) Experiência de três anos relevante e continuada adquirida nos últimos ci
 
 5 - A APA mantém actualizada a lista dos certificados emitidos com a identificação dos técnicos qualificados e respectiva qualificação e promove a sua divulgação, designadamente por meios electrónicos, sempre que disponíveis.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O certificado emitido nos termos do artigo anterior tem a validade de três anos, renovável por iguais períodos.
 
@@ -230,7 +264,9 @@ iii) Experiência de três anos relevante e continuada adquirida nos últimos ci
 
 4 - A falta de renovação do certificado determina a caducidade do mesmo e a consequente necessidade de emissão de novo certificado, nos termos do artigo anterior.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As intervenções técnicas em equipamentos de refrigeração e de ar condicionado e bombas de calor devem ser efectuadas pelos técnicos qualificados identificados na alínea a) do anexo i ao presente decreto-lei, do qual faz parte integrante, e segundo a norma EN 378.
 
@@ -242,7 +278,9 @@ iii) Experiência de três anos relevante e continuada adquirida nos últimos ci
 
 5 - As intervenções técnicas referidas no presente artigo devem acautelar todas as medidas viáveis para evitar ou minimizar as fugas das substâncias regulamentadas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Sem prejuízo das contra-ordenações previstas no artigo 8.º do Decreto-Lei n.º 119/2002, de 20 de Abril, bem como nos diplomas legais de gestão de resíduos aplicáveis, constitui contra-ordenação ambiental grave:
 
@@ -284,7 +322,9 @@ b) A não entrega das fichas de intervenção conforme exigível nos termos do n
 
 7 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O presente decreto-lei aplica-se às Regiões Autónomas da Madeira e dos Açores, sem prejuízo das adaptações que possam ser introduzidas através de diploma regional adequado, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais.
 
@@ -296,11 +336,11 @@ b) A não entrega das fichas de intervenção conforme exigível nos termos do n
 
 a) Equipamentos de refrigeração e de ar condicionado e bombas de calor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 b) Sistemas fixos de protecção contra incêndios e extintores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 ###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 152/2005, de 31 de Agosto
 
@@ -328,7 +368,9 @@ g) Deliberar sobre a entidade ou entidades que, em cada ano civil, assegura ou a
 
 2 - O regime de funcionamento da CRAC e da CEI são objecto de regulamento interno a aprovar pelas próprias comissões.
 
-###### Artigo 7.º-A — Taxas
+Artigo 7.º-A
+
+Taxas
 
 1 - Pela emissão de certificados e suas renovações, bem como pela realização do exame teórico-prático referido nos n.os 3 e 4 do artigo 5.º, são devidas taxas destinadas a custear os inerentes encargos administrativos, a cobrar pela APA nos seguintes termos:
 
@@ -366,15 +408,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira - Rui Carlos Pereira - João Tiago Valente Almeida da Silveira - João Manuel Machado Ferrão - Manuel António Gomes de Almeida de Pinho - Rui Nobre Gonçalves - José António Fonseca Vieira da Silva - António Fernando Correia de Campos.
 
-**Promulgado em 8 de Fevereiro de 2008.**
+Promulgado em 8 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Fevereiro de 2008.**
+Referendado em 12 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 152/2005, de 31 de Agosto
 
@@ -630,11 +672,11 @@ São revogadas as alíneas i) e j) do n.º 1 e a alínea a) do n.º 2 do artigo 
 
 a) Equipamentos de refrigeração e de ar condicionado e bombas de calor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 b) Sistemas fixos de protecção contra incêndios e extintores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 ## ANEXO IV — Soluções técnicas de gestão de resíduos contendo substâncias que empobrecem a camada de ozono (ODS)
 
@@ -644,7 +686,7 @@ QUADRO N.º 1
 
 Distribuição de substâncias regulamentadas por diferentes produtos/equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 2 - Operações de gestão. - A designação das operações a que os resíduos são sujeitas é efectuada na óptica das definições constantes no artigo 2.º do Regulamento (CE) n.º [2037/2000](https://data.europa.eu/eli/reg/2000/2037/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Junho.
 
@@ -788,7 +830,7 @@ QUADRO N.º 2
 
 Monitorização de perdas de ODS numa unidade de tratamento totalmente automática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
 
 Unidades de tratamento semiautomáticas ou manuais
 
@@ -816,4 +858,4 @@ QUADRO N.º 3
 
 Tecnologias de destruição aceites no âmbito do Protocolo de Montreal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf))](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/04100/0130601320.pdf)

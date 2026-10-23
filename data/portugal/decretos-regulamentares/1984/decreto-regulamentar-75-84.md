@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1984-399634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9204fef71f970c2f17c457a2c2f15a638a9e329ebad0ecb3d64be2c6b09b0ba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10176db83a0d92c55357d454d261aa417c601b1d571a201599e65b933427aa4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gabinete de Planeamento
+- Ministério da Agricultura Florestas e Alimentação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:662901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228255:por
+  label: "Criado um lugar no quadro de pessoal constante pela PORT.343/86.05.07.1986.MF, DR.IS [152] de 05.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/343-1986-228255
+  date: '1986-07-05'
+- type: amended_by
+  target: pt:dre:228242:por
+  label: "Criado um lugar no quadro de pessoal constante pela PORT.346/86.07.07.1986.MF, DR.IS [153] de 07.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-1986-228242
+  date: '1986-07-07'
+- type: amended_by
+  target: pt:dre:663140:por
+  label: "Alterado o quadro de pessoal, pela PORT.68/87.02.02.1987.MF, DR.IS [27] de 02.02.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/68-1987-663140
+  date: '1987-02-02'
+- type: cites
+  target: pt:dre:141047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219108:por
+  label: "Revogado pelo DEC LEI.247/86.23.08.1986.MAPA, DR.IS [193] de 23.08.1986, em tudo o que contrarie o citado diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1986-219108
+  date: '1986-08-23'
+- type: repealed_by
+  target: pt:dre:662901:por
+  label: "Revogado pelo DR.14/87.05.02.1987.MAPA, DR.IS [30] de 05.02.1987, em tudo o que contrarie o citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-1987-662901
+  date: '1987-02-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:12Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +147,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação (MAFA), abreviadamente designado por Gabinete de Planeamento, criado nos termos do n.º 1 do artigo 11.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 13 de Maio, e da alínea a) do artigo 7.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, é um serviço central com atribuições de concepção, coordenação e apoio da actividade do Ministério nos domínios da formulação da política económica, do planeamento e da integração económica da agricultura e de actividades conexas da tutela do Ministério, conjunto adiante resumidamente designado por agricultura.
+Artigo 1.º - 1 - O Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação (MAFA), abreviadamente designado por Gabinete de Planeamento, criado nos termos do n.º 1 do artigo 11.º da [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 13 de Maio, e da alínea a) do artigo 7.º do [Decreto-Lei n.º 293/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1982-394487), de 27 de Julho, é um serviço central com atribuições de concepção, coordenação e apoio da actividade do Ministério nos domínios da formulação da política económica, do planeamento e da integração económica da agricultura e de actividades conexas da tutela do Ministério, conjunto adiante resumidamente designado por agricultura.
 
 2 - O Gabinete de Planeamento observará, para efeitos do processo de planeamento estabelecido na [Lei n.º 31/77](https://diariodarepublica.pt/dr/detalhe/lei/31-1977-251995), de 23 de Maio, as directivas funcionais e técnicas emanadas do ministério responsável pelo plano.
 
 3 - O Gabinete de Planeamento enquadrará e coordenará, para efeitos da formulação da política económica e dos processos de planeamento e da integração económica, todas as estruturas operacionais já eventualmente constituídas ou a constituir para os sectores da agricultura, florestas e alimentação.
 
-###### Art. 2.º Sob a orientação directa do Ministro e para o exercício das suas atribuições, compete ao Gabinete de Planeamento:
+Art. 2.º Sob a orientação directa do Ministro e para o exercício das suas atribuições, compete ao Gabinete de Planeamento:
 
 a) Apoiar a acção do Ministro e dos secretários de Estado na formulação das políticas da agricultura, no seu planeamento e nas relações internacionais delas resultantes;
 
@@ -124,7 +177,7 @@ j) Assegurar a participação do Ministério no Conselho Nacional de Estatístic
 
 l) Assegurar as condições necessárias ao funcionamento da comissão consultiva de estatística do Ministério, nos termos do disposto nos Decretos-Leis n.os [427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e [96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março, e no [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto.
 
-###### Art. 3.º - 1 - O Gabinete de Planeamento é dirigido por 1 director-geral, coadjuvado por 2 subdirectores-gerais.
+Art. 3.º - 1 - O Gabinete de Planeamento é dirigido por 1 director-geral, coadjuvado por 2 subdirectores-gerais.
 
 2 - O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral que for designado para o efeito por despacho ministerial.
 
@@ -132,13 +185,13 @@ l) Assegurar as condições necessárias ao funcionamento da comissão consultiv
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos do Gabinete de Planeamento:
+Art. 4.º São órgãos do Gabinete de Planeamento:
 
 a) A comissão de planeamento da agricultura, florestas e alimentação;
 
 b) A comissão consultiva de estatística.
 
-###### Art. 5.º - 1 - A comissão de planeamento da agricultura, florestas e alimentação é um órgão consultivo no domínio do planeamento destes sectores.
+Art. 5.º - 1 - A comissão de planeamento da agricultura, florestas e alimentação é um órgão consultivo no domínio do planeamento destes sectores.
 
 2 - A comissão de planeamento da agricultura, florestas e alimentação é constituída pelos seguintes membros:
 
@@ -160,7 +213,7 @@ d) O presidente do conselho de gerência da Empresa Pública de Abastecimento de
 
 7 - Sem prejuízo do disposto nos números anteriores, a comissão de planeamento da agricultura, florestas e alimentação estabelecerá o seu regulamento interno de funcionamento, a aprovar por portaria do Ministro.
 
-###### Art. 6.º Na sequência das grandes linhas programáticas definidas pelo Conselho Nacional de Agricultura, Florestas e Alimentação, à comissão de planeamento da agricultura, florestas e alimentação compete pronunciar-se sobre:
+Art. 6.º Na sequência das grandes linhas programáticas definidas pelo Conselho Nacional de Agricultura, Florestas e Alimentação, à comissão de planeamento da agricultura, florestas e alimentação compete pronunciar-se sobre:
 
 a) A participação específica dos vários serviços e entidades no âmbito do planeamento da agricultura;
 
@@ -174,7 +227,7 @@ e) Os projectos do plano e do programa anual de investimentos para a agricultura
 
 f) As questões que sejam submetidas à sua apreciação pelo director-geral do Gabinete de Planeamento e que se relacionem com a acção do Ministério no âmbito do plano e da assistência técnica e cooperação económica externas.
 
-###### Art. 7.º - 1 - A comissão consultiva de estatística do Ministério da Agricultura, Florestas e Alimentação funcionará junto do Gabinete de Planeamento, de acordo com o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e com as alterações introduzidas pelo [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
+Art. 7.º - 1 - A comissão consultiva de estatística do Ministério da Agricultura, Florestas e Alimentação funcionará junto do Gabinete de Planeamento, de acordo com o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e com as alterações introduzidas pelo [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março.
 
 2 - A comissão consultiva de estatística é constituída pelos seguintes membros:
 
@@ -192,7 +245,7 @@ d) Os representantes de cada uma das direcções-gerais, dos organismos equipara
 
 5 - Sem prejuízo do disposto nos números anteriores, a comissão consultiva de estatística do Ministério da Agricultura, Florestas e Alimentação estabelecerá o seu regulamento interno de funcionamento, a aprovar por portaria do Ministro.
 
-###### Art. 8.º À comissão consultiva de estatística compete:
+Art. 8.º À comissão consultiva de estatística compete:
 
 a) Apoiar o director-geral do Gabinete de Planeamento para o desempenho das suas funções de representante do Ministério no Conselho Nacional de Estatística;
 
@@ -208,7 +261,7 @@ f) Dinamizar a colaboração dos serviços do Ministério com os serviços produ
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 9.º Para o desempenho das suas atribuições, o Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação estrutura-se nas seguintes unidades orgânicas:
+Art. 9.º Para o desempenho das suas atribuições, o Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação estrutura-se nas seguintes unidades orgânicas:
 
 a) Direcção de Serviços de Análise e Política Económica;
 
@@ -222,7 +275,7 @@ e) Centro de Documentação;
 
 f) Repartição Administrativa.
 
-###### Art. 10.º - 1 - A Direcção de Serviços de Análise e Política Económica tem as seguintes competências:
+Art. 10.º - 1 - A Direcção de Serviços de Análise e Política Económica tem as seguintes competências:
 
 a) Efectuar os estudos e as análises de carácter macroeconómico e de conjuntura necessárias à formulação da política de desenvolvimento e integração da agricultura, no âmbito das competências indicadas nas alíneas a) e b) do artigo 2.º;
 
@@ -248,7 +301,7 @@ c) Divisão de Compatibilizações Sectoriais e de Organização do Plano;
 
 d) Divisão de Política Sócio-Estrutural.
 
-###### Art. 11.º À Divisão de Análise e Informação Económica compete:
+Art. 11.º À Divisão de Análise e Informação Económica compete:
 
 a) Estudar e aplicar as técnicas de análise macroeconómica de molde a evidenciar o comportamento das principais grandezas entre si e das suas relações com variáveis exógenas à agricultura;
 
@@ -258,7 +311,7 @@ c) Elaborar e difundir análises periódicas sobre a conjuntura, de modo a funda
 
 d) Avaliar os efeitos e o impacte dos planos e das medidas de política sectoriais face aos objectivos prosseguidos.
 
-###### Art. 12.º À Divisão de Estatística e de Apoio ao Funcionamento da Comissão Consultiva de Estatística compete:
+Art. 12.º À Divisão de Estatística e de Apoio ao Funcionamento da Comissão Consultiva de Estatística compete:
 
 a) Estabelecer, em colaboração com os restantes serviços do Ministério e de acordo com a comissão consultiva de estatística, os planos de produção de indicadores estatísticos de natureza técnico-económica para a agricultura;
 
@@ -268,7 +321,7 @@ c) Promover o aperfeiçoamento das técnicas de informação estatística e da s
 
 d) Coordenar a realização das operações estatísticas, designadamente as previstas na legislação da Comunidade Económica Europeia, devendo para tal desenvolver as necessárias acções de formação e apoio a todas as unidades estatísticas do Ministério.
 
-###### Art. 13.º À Divisão de Compatibilizações Sectoriais e de Organização do Plano compete:
+Art. 13.º À Divisão de Compatibilizações Sectoriais e de Organização do Plano compete:
 
 a) Explicitar, ajustar e actualizar os grandes objectivos sectorias decorrentes, simultaneamente, da política económica global e dos diagnósticos elaborados pelos diferentes serviços ou entidades que intervêm no sistema de planeamento para a agricultura;
 
@@ -278,7 +331,7 @@ c) Preparar a metodologia e assegurar a elaboração dos planos anual e de médi
 
 d) Participar na identificação e compatibilização sectorial de programas e projectos de desenvolvimento, por forma a garantir a sua inserção no planeamento e na estratégia definida para o sector.
 
-###### Art. 14.º À Divisão de Política Sócio-Estrutural compete:
+Art. 14.º À Divisão de Política Sócio-Estrutural compete:
 
 a) Analisar e estabelecer o diagnóstico dos aspectos sócio-estruturais dos sectores agrícola, florestal e agro-alimentar, tendo em vista a detecção de bloqueamentos, bem como acompanhar a sua evolução;
 
@@ -288,7 +341,7 @@ c) Interpretar, divulgar e preparar a aplicação da legislação relativa às q
 
 d) Avaliar os custos sociais decorrentes da necessária adaptação das estruturas técnico-económicas e propor as medidas compensatórias mais convenientes, acompanhando os seus efeitos e sugerindo eventuais medidas de ajustamento durante a sua aplicação.
 
-###### Art. 15.º - 1 - A Direcção de Serviços de Economia dos Produtos tem as seguintes competências:
+Art. 15.º - 1 - A Direcção de Serviços de Economia dos Produtos tem as seguintes competências:
 
 a) Analisar a estrutura económica e a situação conjuntural dos vários produtos agrícolas com a finalidade de formular medidas específicas, no âmbito das competências indicadas nas alíneas a) e b) do artigo 2.º;
 
@@ -310,7 +363,7 @@ c) Divisão de Horto-Frutícolas e Tubérculos;
 
 d) Divisão de Vinho e Produtos Vinícolas.
 
-###### Art. 16.º A cada divisão, na área da sua especialidade, compete:
+Art. 16.º A cada divisão, na área da sua especialidade, compete:
 
 a) Coordenar, formular e propor os objectivos e medidas de política no domínio da economia dos produtos agro-alimentares;
 
@@ -322,7 +375,7 @@ d) Formular e propor os objectivos e as consequentes medidas de política no dom
 
 e) Analisar e acompanhar o funcionamento da política agrícola comum da Comunidade Económica Europeia na óptica da sua influência sobre a política económica a estabelecer para os diferentes produtos.
 
-###### Art. 17.º - 1 - A Direcção de Serviços das Políticas de Crédito e de Seguros tem as seguintes competências:
+Art. 17.º - 1 - A Direcção de Serviços das Políticas de Crédito e de Seguros tem as seguintes competências:
 
 a) Estudar e propor os objectivos e as medidas de política relativas ao crédito agrícola, no âmbito das competências indicadas nas alíneas a), c), d) e h) do artigo 2.º;
 
@@ -342,7 +395,7 @@ b) Divisão de Coordenação e Apoio Regional;
 
 c) Divisão de Coordenação de Seguros.
 
-###### Art. 18.º À Divisão de Política de Crédito compete:
+Art. 18.º À Divisão de Política de Crédito compete:
 
 a) Formular e propor os objectivos, as medidas de política e os tipos de crédito para a agricultura;
 
@@ -354,7 +407,7 @@ d) Colaborar no estudo e definição de uma política de apoio e promoção de c
 
 e) Coligir os elementos de carácter técnico-económico e financeiro de interesse para o sector e garantir que se mantenham actualizados os dados referentes ao crédito concedido aos agricultores.
 
-###### Art. 19.º À Divisão de Coordenação e Apoio Regional compete:
+Art. 19.º À Divisão de Coordenação e Apoio Regional compete:
 
 a) Coordenar a actuação dos serviços regionais de agricultura no domínio do crédito, assegurando as ligações e o apoio especializado necessário à elaboração dos respectivos programas e projectos;
 
@@ -366,7 +419,7 @@ d) Dar parecer sobre os problemas de crédito que sejam apresentados pelos servi
 
 e) Elaborar relatórios sobre a execução, as condições e a aplicação do crédito, com base nos elementos a fornecer pelos vários organismos centrais e regionais do Ministério.
 
-###### Art. 20.º À Divisão de Coordenação de Seguros compete:
+Art. 20.º À Divisão de Coordenação de Seguros compete:
 
 a) Colaborar na definição de uma política de protecção dos agricultores contra os riscos resultantes de acidentes climatéricos ou provocados por agentes bióticos incontroláveis;
 
@@ -374,7 +427,7 @@ b) Contribuir para a correcta definição de cobertura e identificação das act
 
 c) Assegurar a participação do Ministério nos trabalhos ou órgãos que venham a ser estabelecidos para o lançamento de um sistema adequado de protecção dos agricultores contra os mencionados riscos.
 
-###### Art. 21.º - 1 - A Direcção de Serviços de Programação tem as seguintes competências:
+Art. 21.º - 1 - A Direcção de Serviços de Programação tem as seguintes competências:
 
 a) Orientar e coordenar, no quadro da programação anual dos investimentos, a preparação dos programas e projectos dos vários serviços e organismos do Ministério, ou sob a tutela deste por forma compatibilizada com os objectivos do plano e com vista a uma actuação integrada e coerente, no âmbito das competências indicadas nas alíneas d) e e) do artigo 2.º;
 
@@ -396,7 +449,7 @@ c) Divisão de Controle da Execução dos Programas e Projectos;
 
 d) Divisão de Formação e de Análise e Avaliação de Programas e Projectos.
 
-###### Art. 22.º À Divisão de Coordenação e de Compatibilização de Programas e Projectos compete:
+Art. 22.º À Divisão de Coordenação e de Compatibilização de Programas e Projectos compete:
 
 a) Assegurar a compatibilização dos programas de acção dos vários serviços do Ministério com os objectivos da política agrária e as orientações do planeamento nacional;
 
@@ -404,7 +457,7 @@ b) Compatibilizar os projectos das empresas do sector da agricultura sob tutela 
 
 c) Coordenar as acções dos programas e projectos do Ministério com as que lhes correspondam noutros ministérios.
 
-###### Art. 23.º À Divisão de Orçamentação e Gestão de Programas e Projectos compete:
+Art. 23.º À Divisão de Orçamentação e Gestão de Programas e Projectos compete:
 
 a) Avaliar as necessidades de financiamento para a execução dos programas e projectos do Ministério;
 
@@ -414,7 +467,7 @@ c) Preparar o orçamento de investimento do Ministério;
 
 d) Apoiar a implantação e gestão dos programas e projectos.
 
-###### Art. 24.º À Divisão de Controle da Execução dos Programas e Projectos compete:
+Art. 24.º À Divisão de Controle da Execução dos Programas e Projectos compete:
 
 a) Definir e propor os critérios e normas para o controle da execução dos programas e projectos integrados nos planos de acção do Ministério;
 
@@ -422,7 +475,7 @@ b) Acompanhar e controlar a realização material e financeira dos programas e p
 
 c) Elaborar periodicamente, com base nos elementos fornecidos pelos serviços do Ministério, relatórios de execução do programa de investimentos.
 
-###### Art. 25.º À Divisão de Formação e de Análise e Avaliação de Programas e Projectos compete:
+Art. 25.º À Divisão de Formação e de Análise e Avaliação de Programas e Projectos compete:
 
 a) Estabelecer e propor a metodologia e as normas para análise e avaliação dos programas e projectos da agricultura;
 
@@ -432,7 +485,7 @@ c) Apoiar a formação de técnicos do Ministério no domínio da elaboração e
 
 d) Analisar e avaliar técnica, económica e financeiramente os programas e projectos a incluir no plano, incluindo os com financiamento externo.
 
-###### Art. 26.º - 1 - Ao Centro de Documentação, que funcionará na dependência directa do director do Gabinete de Planeamento, compete:
+Art. 26.º - 1 - Ao Centro de Documentação, que funcionará na dependência directa do director do Gabinete de Planeamento, compete:
 
 a) Montar e manter actualizado o arquivo de documentação necessária à actividade do Gabinete de Planeamento;
 
@@ -446,7 +499,7 @@ e) Assegurar o funcionamento do sector de reprografia.
 
 2 - O responsável pelo Centro de Documentação será equiparado, para todos os efeitos, inclusive o de remuneração, a chefe de divisão.
 
-###### Art. 27.º - 1 - A Repartição Administrativa exerce as suas competências nos domínios da administração financeira, patrimonial, do pessoal, expediente, arquivo e administração geral.
+Art. 27.º - 1 - A Repartição Administrativa exerce as suas competências nos domínios da administração financeira, patrimonial, do pessoal, expediente, arquivo e administração geral.
 
 2 - A Repartição Administrativa assegura as ligações com os serviços centrais de coordenação e apoio do Ministério e com outros organismos de forma a garantir a efectivação das suas competências.
 
@@ -496,34 +549,34 @@ h) Promover a aquisição de mobiliário e demais equipamentos necessários, pro
 
 ### CAPÍTULO III — Dos quadros de pessoal
 
-###### Art. 28.º - 1 - O Gabinete de Planeamento, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e de pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
+Art. 28.º - 1 - O Gabinete de Planeamento, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e de pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
 
 2 - A distribuição do pessoal referido no número anterior pelas unidades e serviços do Gabinete de Planeamento será feita por despacho do director-geral.
 
 ### CAPÍTULO IV — Disposições gerais e finais
 
-###### Art. 29.º O Gabinete de Planeamento disporá e gerirá orçamento próprio, o qual, depois de elaborado e aprovado nos termos legais, será objecto de relatório de gerência a apresentar até fins de Março ao Ministro.
+Art. 29.º O Gabinete de Planeamento disporá e gerirá orçamento próprio, o qual, depois de elaborado e aprovado nos termos legais, será objecto de relatório de gerência a apresentar até fins de Março ao Ministro.
 
-###### Art. 30.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do director-geral do Gabinete de Planeamento, poderão ser celebrados contratos com entidades ou indivíduos para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ele cometidas.
+Art. 30.º - 1 - Mediante autorização ministerial e sob proposta fundamentada do director-geral do Gabinete de Planeamento, poderão ser celebrados contratos com entidades ou indivíduos para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das atribuições a ele cometidas.
 
 2 - Os contratos realizados ao abrigo do número anterior não conferem em caso algum a qualidade de agente administrativo.
 
-###### Art. 31.º O Gabinete de Planeamento poderá propor a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação que vier a ser definida, bem como custear a realização de estágios.
+Art. 31.º O Gabinete de Planeamento poderá propor a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação que vier a ser definida, bem como custear a realização de estágios.
 
-###### Art. 32.º O Serviço de Informação de Mercados (SIMA) e a Rede de Informações de Contabilidades Agrícolas (RICA) funcionam na dependência do director-geral do Gabinete de Planeamento.
+Art. 32.º O Serviço de Informação de Mercados (SIMA) e a Rede de Informações de Contabilidades Agrícolas (RICA) funcionam na dependência do director-geral do Gabinete de Planeamento.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Manuel José Dias Soares Costa - José Manuel San-Bento de Menezes - Alípio Barrosa Pereira Dias.
 
-**Promulgado em 11 de Setembro de 1984.**
+Promulgado em 11 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 12 de Setembro de 1984.**
+Referendado em 12 de Setembro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa anexo a que se refere o n.º 1 do artigo 16.º do Decreto Regulamentar n.º 75/84
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/22300/29362944.pdf))](https://files.diariodarepublica.pt/1s/1984/09/22300/29362944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/22300/29362944.pdf)

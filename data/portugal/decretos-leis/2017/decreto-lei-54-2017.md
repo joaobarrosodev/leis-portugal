@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2017/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2017-107458728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fda001ecd63ffada51ffd484b2a4b4d755d1fc53529ba042f2fd49145e13025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66cd7adfa7917b346f143806329a4d35b6ac866a73dfc312ba671c10e2971319
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bolsa de Firmas
-- Modernização Administrativa
 - Conservatória do Registo Comercial
-- Instituto dos Registos e do Notariado
-- Emolumento do Notariado
 - Cooperativa
-- Firma
-- Programa Simplex
-- Regime Jurídico
-- Registo Nacional de Pessoas Coletivas
-- Regulamento Emolumentar dos Registos e Notariado
-- Registo Comercial
 - Cooperativa na Hora
 - Criação de Cooperativas
+- Emolumento do Notariado
+- Firma
+- Instituto dos Registos e do Notariado
+- Modernização Administrativa
+- Programa Simplex
+- Regime Jurídico
+- Registo Comercial
+- Registo Nacional de Pessoas Coletivas
+- Regulamento Emolumentar dos Registos e Notariado
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
@@ -124,16 +124,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2010/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2010/09/02/p/dre
+- type: cites
+  target: pt:dre:176071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66414231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70300348:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:56Z'
   warnings: []
   errors: []
 ---
@@ -388,12 +500,12 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2017.
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva.
 
-**Promulgado em 17 de maio de 2017.**
+Promulgado em 17 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2017.**
+Referendado em 24 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

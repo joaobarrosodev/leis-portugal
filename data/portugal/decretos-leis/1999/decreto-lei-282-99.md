@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/172a00/46814683.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/282/1999/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1999-353344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68592e15eb756e8c542ac7f4c9fcd1a80795f95eea2b538cb08fa2361f4366ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97dfeb337e40663213be926b32d67a12629b84c9e5dc89823f82970dfbbbf78d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,45 @@ reuse:
 subjects:
 - Autoridade de Segurança da Ponte 25 de Abril
 - Comissão de Segurança
-- Ponte 25 de Abril
-- LUSOPONTE
 - Criação de Serviços
 - Definição de Competências
 - Direcção Geral de Viação
-- RIO TEJO
 - Gabinete da Travessia do TEJO em Lisboa
-- Instituto Nacional do Transporte Ferroviário
 - Instituto das Estradas de Portugal
+- Instituto Nacional do Transporte Ferroviário
+- LUSOPONTE
+- Ponte 25 de Abril
 - Refer
+- RIO TEJO
 - Segurança das Instalações
 relationships:
 - type: amended_by
   target: pt:dre:449386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545646:por
+  label: "Extinto, sendo objecto de fusão, a Autoridade de Segurança da Ponte 25 de Abril, criada pelo presente diploma, passando\
+    \ as competências nos termos da al. c) do nº 2 do art. 26.º para a EP-Estradas de Portugal, E.P.E e para a REFER -Rede\
+    \ Ferrovisária Nacional, E.P.E., pelo DEC LEI.210/2006.27.10.2006.MOPTC, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-2006-545646
+  date: '2006-10-27'
+- type: repealed_by
+  target: pt:dre:449386:por
+  label: "Revogado pelo DEC LEI.95/2008.06.06.2008.MOPTC, DR.IS [109] de 06.06.2008 (a partir de 06.07.2008 sem prejuízo do\
+    \ disposto no art. 9.º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2008-449386
+  date: '2008-06-06'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:21Z'
   warnings: []
   errors: []
 ---
@@ -217,12 +230,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Junho de 1999. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Julho de 1999.**
+Referendado em 15 de Julho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

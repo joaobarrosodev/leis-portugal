@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/178a00/47024705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/2001/08/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6756b845aad79f8344cfac4bb0ccd39f8d50dd37e3a21d07b8cd9ab3d495eb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52e1d08b9968ed19db6f11bcea4b39812cfd9556e714e2c790d6eb25cfe13210
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
+- Conselho Consultivo
 - Definição de Competências
 - Estatuto
 - Governador Civil
-- Conselho Consultivo
+- Proteção Civil
 relationships:
 - type: amended_by
   target: pt:dre:146221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448163:por
+  label: "Alterado o art. 4º-C e revogados o art. 4º-B e als. f) e g) do art. 4º-F do Dec Lei 252/92, de 19-Nov, aditados\
+    \ pelo presente diploma, pelo Dec Lei 264/2002, de 25-Nov, DR.IS-A [272] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-2002-448163
+  date: '2002-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/252/1992/11/19/p/dre
   label: null
@@ -84,16 +90,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/1995/11/28/p/dre
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640908:por
+  label: "Revogada a al. i) do art. 4º-F do Dec Lei 252/92 de 19-Nov, aditado pelo presente diploma, pela LEI.40/2007.24.08.2007.AR,\
+    \ DR.IS [163] de 24.08.2007, a partir de 31.10.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-2007-640908
+  date: '2007-08-24'
+- type: repealed_by
+  target: pt:dre:146221:por
+  label: "Revogado o Dec Lei 252/92, de 19-Nov, na redacção do presente diploma, pelo DEC LEI.114/2011.30.11.2011.MAI, DR.IS\
+    \ [230] de 30.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-2011-146221
+  date: '2011-11-30'
 article_structure:
-  article_count: 16
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:19Z'
   warnings: []
   errors: []
 ---
@@ -128,15 +158,21 @@ Os artigos 1.º, 2.º, 4.º, 13.º, 14.º e 15.º do [Decreto-Lei n.º 252/92](h
 
 Do governador civil
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 O presente diploma estabelece a definição da missão, o estatuto orgânico e pessoal, as competências e o regime dos actos praticados pelo governador civil, bem como a composição e as competências dos respectivos órgãos de apoio e a organização dos serviços do governo civil.
 
-###### Artigo 2.º — Missão
+Artigo 2.º
+
+Missão
 
 O governador civil é, nos termos da Constituição, o representante do Governo na área do distrito, exercendo no mesmo as funções e competências que lhe são conferidas por lei.
 
-###### Artigo 4.º — Competências
+Artigo 4.º
+
+Competências
 
 O governador civil, sem prejuízo de outras consagradas em legislação avulsa, exerce competências nos seguintes domínios:
 
@@ -148,9 +184,13 @@ c) Segurança pública;
 
 d) Protecção civil.
 
-### CAPÍTULO V — Conselho coordenador da administração central de âmbito distrital
+CAPÍTULO V
 
-###### Artigo 13.º — [...]
+Conselho coordenador da administração central de âmbito distrital
+
+Artigo 13.º
+
+[...]
 
 1 - O conselho coordenador é um órgão de consulta do governador civil que reúne obrigatoriamente uma vez em cada trimestre, e sempre que o governador civil o convoque.
 
@@ -174,7 +214,9 @@ b) Limitar a convocação dos representantes às áreas sectoriais a abordar.
 
 4 - A convocação para cada reunião do conselho coordenador será dirigida directamente pelo governador civil ao representante dos serviços indicados no n.º 2.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Compete ao conselho coordenador, sob proposta e no âmbito das competências do governador civil, pronunciar-se sobre as seguintes matérias relativas ao respectivo distrito:
 
@@ -190,7 +232,9 @@ d) Outras matérias de interesse para a administração de âmbito distrital.
 
 3 - As conclusões finais das reuniões realizadas pelo conselho coordenador serão transmitidas ao membro do Governo competente em razão da matéria.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O governador civil é apoiado por um gabinete pessoal nomeado por despacho do Ministro da Administração Interna, sob proposta do governador civil.
 
@@ -224,7 +268,9 @@ e) Atribuir financiamentos a associações no âmbito do distrito.
 
 3 - Compete ainda ao governador civil desenvolver todas as diligências necessárias e convenientes a uma adequada cooperação na articulação entre os serviços públicos desconcentrados de âmbito distrital e entre aqueles e outros órgãos administrativos localizados na circunscrição distrital, de acordo com as orientações dos respectivos membros do Governo.
 
-###### Artigo 4.º-B — Competências na aproximação entre o cidadão e a Administração
+Artigo 4.º-B
+
+Competências na aproximação entre o cidadão e a Administração
 
 Compete ao governador civil na sua função de personalização da relação entre o cidadão e a Administração, na área do distrito:
 
@@ -232,7 +278,9 @@ a) Promover, através da organização de balcões de atendimento próprios, a p
 
 b) Centralizar o acompanhamento da sequência das questões ou procedimentos multissectoriais, fomentando e assegurando a oportunidade da intervenção de cada serviço ou entidade desconcentrada de âmbito distrital interveniente nos mesmos, para potenciar a emissão de decisões globais, céleres e oportunas.
 
-###### Artigo 4.º-C — Competências no exercício de poderes de tutela
+Artigo 4.º-C
+
+Competências no exercício de poderes de tutela
 
 Compete ao governador civil, no distrito e no exercício de poderes de tutela do Governo:
 
@@ -240,7 +288,9 @@ a) Dar conhecimento às instâncias competentes das situações de incumprimento
 
 b) Acompanhar junto dos serviços desconcentrados de âmbito distrital o andamento de processos ou o tratamento de questões suscitadas no distrito ou com interesse para o mesmo, devendo dar conhecimento ao Governo nos termos da alínea c) do n.º 1 do artigo 4.º-A.
 
-###### Artigo 4.º-D — Competências no exercício de funções de segurança e de polícia
+Artigo 4.º-D
+
+Competências no exercício de funções de segurança e de polícia
 
 Compete ao governador civil, no distrito e no exercício de funções de segurança e de polícia:
 
@@ -262,11 +312,15 @@ b) Propor ao Ministro da Administração Interna para aprovação os regulamento
 
 c) Aplicar as medidas de polícia e as sanções contra-ordenacionais previstas na lei.
 
-###### Artigo 4.º-E — Competências no âmbito da protecção e socorro
+Artigo 4.º-E
+
+Competências no âmbito da protecção e socorro
 
 Compete ao governador civil, no exercício de funções de protecção e socorro, desencadear e coordenar, na iminência ou ocorrência de acidente grave, catástrofe ou calamidade, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso, com a coadjuvação do director do centro coordenador de socorro distrital e do chefe da delegação distrital de protecção civil e a colaboração dos agentes de protecção civil competentes, nos termos legais.
 
-###### Artigo 4.º-F — Outras competências
+Artigo 4.º-F
+
+Outras competências
 
 Além de outras competências que lhe sejam atribuídas por lei, compete ainda ao governador civil:
 
@@ -302,12 +356,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte à sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Alberto de Sousa Martins.
 
-**Promulgado em 20 de Julho de 2001.**
+Promulgado em 20 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 23 de Julho de 2001.**
+Referendado em 23 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

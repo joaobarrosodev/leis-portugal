@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/172a00/46784679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/280/1999/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1999-353340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dd41b6e7d493c39614ea8acc3dddbe4aeaf5de91f645efb15f3d9cec8dcd6dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4102a520fb503b044ea67c443f401e01084db841051efbcd38e0aee9b207ead4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Aeroportos
 - Aeroporto
+- ANA
 - Aproximação das Legislações
 - Assistência em Escala
-- Transporte Aéreo
 - Comunidade Europeia
 - Domínio Público Aeroportuário
 - Licenciamento
-- Administração de Aeroportos
-- ANA
 - Taxa
 - Taxa Aeroportuária
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:190615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636707:por
+  label: "Alterados os art.s 18.º e 19.º do Dec Lei 102/90, de 21-Mar, na redacção do presente diploma, e republicado pelo\
+    \ DEC LEI.268/2007.26.07.2007.MOPTC, DR.IS [143] de 26.07.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-2007-636707
+  date: '2007-07-26'
+- type: amended_by
+  target: pt:dre:489496:por
+  label: "Alterado o art. 17º e revogados os arts. 18º e 19º do Dec Lei 102/90 de 21-Mar, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.216/2009.04.09.2009.MOPTC, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2009-489496
+  date: '2009-09-04'
 - type: cites
   target: celex:31996L0067
   label: null
   source: http://data.europa.eu/eli/dir/1996/67/oj
+- type: repealed_by
+  target: pt:dre:190615:por
+  label: "Revogado o Dec Lei 102/90, de 21-mar, na redação do presente diploma e dos Dec Lei 268/2007, de 26-jul e 216/2009,\
+    \ de 04-set, pelo DEC LEI.254/2012.28.11.2012.MEE, DR.IS [230] de 28.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2012-190615
+  date: '2012-11-28'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:09:21Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +141,7 @@ Os artigos 17.º, 18.º e 19.º do Decreto-Lei n.º 102/90, de 21 de Março, pas
 
 Atendendo à natureza dos serviços e actividades desenvolvidos, as taxas a cobrar nos termos do artigo anterior agrupam-se em taxas de tráfego, de assistência em escala, de ocupação e outras taxas de natureza comercial.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - O quantitativo das taxas de tráfego é fixado, após prévio parecer do Instituto Nacional de Aviação Civil:
 
@@ -149,7 +167,7 @@ b) Nos aeroportos e aeródromos regionalizados ou municipais, pelos órgãos de 
 
 7 - Para efeitos do número anterior, e sem prejuízo de consulta facultativa a outras entidades reconhecidas pela entidade exploradora do aeroporto, consideram-se associações representativas o comité de utilizadores do aeroporto constituído nos termos do Decreto-Lei n.º 275/99, de 23 de Julho, sobre assistência em escala, bem como outras associações de transportadores aéreos ou de utilizadores ou prestadores de assistência em escala, legalmente constituídas e cujos associados demonstrem representar, no seu conjunto, pelo menos 25% do tráfego anual movimentado ou assistido no aeroporto ou do montante de taxas cobradas pelo aeroporto.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - Os poderes conferidos pelo n.º 1 do artigo anterior são exercidos por iniciativa da entidade competente para a fixação das taxas, ou sob proposta fundamentada das entidades exploradoras e informada pelo Instituto Nacional de Aviação Civil.
 
@@ -167,12 +185,12 @@ Enquanto não forem fixados os quantitativos das taxas de acordo com o presente 
 
 Visto e aprovado em Conselho de Ministros de 21 de Maio de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
 
-**Promulgado em 8 de Julho de 1999.**
+Promulgado em 8 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Julho de 1999**
+Referendado em 14 de Julho de 1999
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

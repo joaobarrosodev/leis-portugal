@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/06600/0000400021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2020/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecfdfd1d15ffc5fddb0d91f89344f28d9294c5e5a111bd07f99f1e48272b3a26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f9e8132226524ea895b65b00933c3357adb11a53911a493c1fd39374b5c965
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Nacionalidade
+- Ação Social
+- Administração Pública
 - Atleta de ALTA Competição
-- Residência de Estrangeiros
-- Financiamento
 - Bacharelato
 - Bolseiro
 - Cidadão Estrangeiro
@@ -78,45 +76,47 @@ subjects:
 - Concurso de Acesso
 - Concurso de Ingresso
 - Cônjuge
-- Timor Leste
+- Curso Técnico Superior Profissional
 - Definição de Competências
 - Diploma
+- Direção Geral do Ensino Superior
 - Diretor Geral
 - Doutoramento
+- Ensino
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Educação
-- União Europeia
+- Estabelecimento de Ensino
 - Estatuto
-- Administração Pública
 - Estudante
-- Ação Social
+- Família
+- Financiamento
+- Forças Armadas
+- Funcionário Público
 - Gestão Escolar
-- Palop
 - Lei de Bases
 - Licenciatura
+- Matrícula
 - Mestrado
-- Direção Geral do Ensino Superior
 - Missão Diplomática
 - Missão Oficial
+- Mobilidade de Pessoal
 - Mudança de Curso
-- Forças Armadas
+- Nacionalidade
+- Palop
 - Política de Educação
-- Ensino
-- Estabelecimento de Ensino
 - Qualificação Profissional
 - Regime Especial de Acesso e Ingresso no Ensino Superior
 - Regulamento
-- Ensino Superior
-- Mobilidade de Pessoal
-- Funcionário Público
+- Residência de Estrangeiros
 - Sistema de Ensino
 - Sistema Educativo
+- Timor Leste
+- União Europeia
 - Universidade Aberta
-- Matrícula
-- Curso Técnico Superior Profissional
 relationships:
 - type: amended_by
   target: pt:dre:211844897:por
@@ -162,16 +162,132 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/34/2016/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/34/2016/02/19/p/dre
+- type: cites
+  target: pt:dre:115652962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73650496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75319452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 44
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:45Z'
   warnings: []
   errors: []
 ---
@@ -240,7 +356,9 @@ c) Três representantes dos estabelecimentos de ensino superior particular e coo
 
 2 - [...]
 
-###### Artigo 20.º-A — [...]
+Artigo 20.º-A
+
+[...]
 
 1 - [...]
 
@@ -276,7 +394,9 @@ a) Apresentação da candidatura, aos interessados que só então reúnam condi�
 
 b) Alteração da candidatura, aos candidatos que já a hajam apresentado.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -304,7 +424,9 @@ d) [...]
 
 e) Titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -312,15 +434,21 @@ e) Titulares dos cursos de dupla certificação de nível secundário e cursos a
 
 3 - Quando as universidades e institutos politécnicos compreendam unidades orgânicas autónomas, a necessidade de fixação de vagas referida no número anterior considera apenas os ciclos de estudos da mesma área de educação e formação da unidade orgânica respetiva.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os critérios de seriação de cada concurso especial são fixados pelo órgão legal e estatutariamente competente da instituição, podendo este fixar prioridades na ocupação de vagas a candidatos com deficiência, emigrantes e familiares que com eles residam e candidatos oriundos da área de influência regional da instituição de ensino superior.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A candidatura à matrícula e inscrição em pares instituição/ciclo de estudos objeto de concurso local, nos termos da alínea b) do n.º 2 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, na sua redação atual, por estudantes titulares das habilitações a que se referem os artigos 4.º, 6.º, 9.º, 12.º e 13.º-A, é feita nos termos fixados pelo regulamento do respetivo concurso local.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os concursos especiais objeto do presente diploma são considerados na avaliação periódica da qualidade das instituições de ensino superior e dos seus ciclos de estudos, que deve ponderar:
 
@@ -332,7 +460,9 @@ c) O progresso e aproveitamento escolar dos estudantes que ingressam através do
 
 2 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O número máximo de vagas para admissão de estudantes ao abrigo dos concursos especiais para acesso e ingresso no ensino superior regulados pelo presente diploma e dos concursos de mudança de par instituição/curso para o 1.º ano curricular é fixado anualmente por despacho do membro do Governo responsável pela área da ciência, tecnologia e ensino superior.
 
@@ -384,13 +514,17 @@ b) Cursos de Estado-Membro da União Europeia, legalmente equivalentes ao ensino
 
 c) Outros cursos não portugueses, legalmente equivalentes ao ensino secundário português, conferentes de dupla certificação, escolar e profissional, nas situações em que os candidatos em causa tenham nacionalidade portuguesa.
 
-###### Artigo 13.º-B — Ciclos de estudos a que se podem candidatar
+Artigo 13.º-B
+
+Ciclos de estudos a que se podem candidatar
 
 1 - O órgão legal e estatutariamente competente de cada instituição de ensino superior fixa as áreas de educação e formação da classificação nacional de áreas de educação e formação (CNAEF) que facultam a candidatura a cada ciclo de estudos de licenciatura e ou integrado de mestrado, em concordância com o elenco previamente fixado pela Comissão Nacional de Acesso ao Ensino Superior (CNAES).
 
 2 - A fixação a que se refere o número anterior pode ser feita, exclusiva ou complementarmente, através da indicação específica dos cursos que facultam a candidatura a cada ciclo de estudos.
 
-###### Artigo 13.º-C — Condições específicas
+Artigo 13.º-C
+
+Condições específicas
 
 1 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado está sujeita às condições fixadas pelo órgão legal e estatutariamente competente da instituição de ensino superior, devendo a avaliação da capacidade para a frequência considerar cumulativamente:
 
@@ -428,7 +562,9 @@ c) A fórmula da nota de candidatura decorrente da aplicação do disposto no pr
 
 5 - A Direção-Geral do Ensino Superior procede à divulgação no seu sítio na Internet da informação referida no número anterior.
 
-###### Artigo 13.º-D — Realização de candidatura e provas
+Artigo 13.º-D
+
+Realização de candidatura e provas
 
 1 - A realização da candidatura a um ciclo de estudos de licenciatura ou integrado de mestrado ministrados em instituições de ensino superior públicas é apresentada a nível nacional através do sítio na Internet da Direção-Geral do Ensino Superior nos termos de regulamento a aprovar por portaria de membro do Governo responsável pela área da ciência, tecnologia e ensino superior.
 
@@ -448,7 +584,9 @@ a) As provas referidas na alínea b) do n.º 1 do artigo anterior podem ser subs
 
 b) As provas referidas na alínea c) do n.º 1 do artigo anterior podem ser realizadas através de plataformas tecnológicas ou por teleconferência, desde que haja condições que assegurem a fiabilidade da avaliação desenvolvida.
 
-###### Artigo 16.º-A — Normas regulamentares
+Artigo 16.º-A
+
+Normas regulamentares
 
 Os órgãos legal e estatutariamente competentes das instituições de ensino superior estabelecem, em regulamento próprio, as condições necessárias para a aplicação do disposto no presente diploma, incluindo a fixação dos diplomas, cursos ou áreas de educação e formação que facultam a candidatura a cada ciclo de estudos.»
 
@@ -484,15 +622,15 @@ As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir
 
 Visto e aprovado em Conselho de Ministros de 5 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - Miguel Filipe Pardal Cabrita.
 
-**Promulgado em 23 de março de 2020.**
+Promulgado em 23 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 30 de março de 2020.**
+Referendado em 30 de março de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 10.º)
 
@@ -851,3 +989,5 @@ d) Os n.os 4 e 6 do artigo 5.º do Regulamento dos Regimes de Mudança de Curso,
 1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - O disposto no presente diploma aplica-se aos concursos especiais para acesso e ingresso no ensino superior no ano letivo de 2014-2015 e nos anos letivos seguintes, com exceção do artigo 8.º que só se aplica aos concursos especiais para acesso e ingresso no ensino superior realizados após o ano letivo de 2015-2016.
+
+113155189

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28800/40664068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1045-1983-443299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dc28af2b3967c98dfa5bb445904230e495b8acef187bcd44ccd607841b92e71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fe150ea0956a719bc6c0db83d84c21790c182d20c29370123a2987e15ea311e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Batata
+- Comércio
+- Importação
 relationships:
 - type: amended_by
   target: pt:dre:401352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:308340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:401352:por
+  label: "Revogada pela PORT.900/84.10.12.1984.MA, DR.IS [284] de 10.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/900-1984-401352
+  date: '1984-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:10Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +192,7 @@ b) Margem do retalhista 100$00.
 
 9.º - 1 - Os preços de intervenção a praticar pela Junta Nacional das Frutas na aquisição de batata de consumo a que se refere o número anterior, ponderados os custos de produção nas várias regiões, serão os seguintes por quilograma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/12/28800/40664068.pdf))](https://files.diariodarepublica.pt/1s/1983/12/28800/40664068.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/12/28800/40664068.pdf)
 
 2 - Os preços referidos no n.º 1 entendem-se para a batata de consumo devidamente encascada e escolhida de acordo com normas a divulgar pela Junta Nacional das Frutas e colocada nos armazéns ou locais previamente indicados para o efeito.
 
@@ -198,6 +226,6 @@ No que se refere às operações respeitantes à importação de batata-semente,
 
 Secretarias de Estado da Agricultura, da Alimentação, do Comércio Externo e do Comércio Interno.
 
-**Assinada em 30 de Novembro de 1983.**
+Assinada em 30 de Novembro de 1983.
 
-**O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão dos Santos e Silva Marques. - A Secretária de Estado do Comércio Externo, Maria Raquel Lopes de Bethencourt Ferreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**
+O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão dos Santos e Silva Marques. - A Secretária de Estado do Comércio Externo, Maria Raquel Lopes de Bethencourt Ferreira. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.

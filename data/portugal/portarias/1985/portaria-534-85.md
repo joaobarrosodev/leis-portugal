@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-1985-179840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T08:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b499668e484a039fe4bfae126f3de3f0360abb187e4a7428c917d5c8e499a381
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a4a800cbffce303868c1ebd1707ea23cc07ca10b9e8829d970fea7186d9116c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Lisboa
+- Regulamento Interno
+- Santa Casa da Misericórdia
+- Serviços de Acção Social
+relationships:
+- type: cites
+  target: pt:dre:247414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452688:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:29:10Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +126,11 @@ Nestes termos:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, de acordo com o artigo 24.º do [Decreto-Lei n.º 40397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40397-1955-247414), de 24 de Novembro de 1955, do artigo 13.º do [Decreto-Lei n.º 692/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/692-1970-414417), de 31 de Dezembro, e bem assim do artigo 2.º do [Decreto do Governo n.º 50/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/50-1983-452688), de 1 de Julho, o seguinte:
 
-###### Artigo único. É aprovado o Regulamento Interno do Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa, anexo a esta portaria.
+Artigo único. É aprovado o Regulamento Interno do Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa, anexo a esta portaria.
 
 Ministério do Trabalho e Segurança Social.
 
-**Assinada em 2 de Julho de 1985.**
+Assinada em 2 de Julho de 1985.
 
 Pelo Ministro do Trabalho e Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares, Secretária de Estado da Segurança Social.
 
@@ -118,9 +138,9 @@ Regulamento Interno do Serviço de Acção Social da Santa Casa da Misericórdia
 
 ### CAPÍTULO I — Da direcção
 
-###### Artigo 1.º O Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa, criado pelo [Decreto-Lei n.º 313/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1979-378958), de 20 de Agosto, adiante designado por SAS, é dirigido por um director de serviços.
+Artigo 1.º O Serviço de Acção Social da Santa Casa da Misericórdia de Lisboa, criado pelo [Decreto-Lei n.º 313/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1979-378958), de 20 de Agosto, adiante designado por SAS, é dirigido por um director de serviços.
 
-###### Art. 2.º - 1 - Ao director do SAS compete, designadamente:
+Art. 2.º - 1 - Ao director do SAS compete, designadamente:
 
 a) Dirigir, coordenar e orientar os serviços do SAS e o núcleo de apoio técnico;
 
@@ -168,7 +188,7 @@ u) Passar diplomas de famílias de acolhimento, cancelando-os quando for caso di
 
 #### SECÇÃO I — Organização interna do SAS
 
-###### Art. 3.º - 1 - O SAS compreende os seguintes serviços:
+Art. 3.º - 1 - O SAS compreende os seguintes serviços:
 
 a) Serviços administrativos;
 
@@ -186,9 +206,9 @@ f) Serviço de atendimento unificado de Lisboa.
 
 #### SECÇÃO II — Dos serviços administrativos
 
-###### Art. 4.º Os serviços administrativos são dirigidos por funcionário com a categoria de chefe de repartição.
+Art. 4.º Os serviços administrativos são dirigidos por funcionário com a categoria de chefe de repartição.
 
-###### Art. 5.º Ao chefe dos serviços administrativos compete, designadamente, o seguinte:
+Art. 5.º Ao chefe dos serviços administrativos compete, designadamente, o seguinte:
 
 a) Dirigir, orientar e coordenar toda a actividade dos serviços administrativos;
 
@@ -200,7 +220,7 @@ d) Acompanhar e supervisionar a movimentação do fundo permanente destinado a o
 
 e) Exercer as funções que lhe sejam delegadas pelo director do SAS.
 
-###### Art. 6.º Aos serviços administrativos cabe, nomeadamente, o seguinte:
+Art. 6.º Aos serviços administrativos cabe, nomeadamente, o seguinte:
 
 a) A recepção de correspondência, seu registo e distribuição pelos serviços, execução e expediente geral do SAS, bem como o registo de saída e a expedição de toda a correspondência;
 
@@ -234,7 +254,7 @@ o) Providenciar quanto à limpeza das instalações e respectivo mobiliário, em
 
 p) Gerir os stocks de material de escritório distribuído ao SAS.
 
-###### Art. 7.º - 1 - Os serviços administrativos compreendem:
+Art. 7.º - 1 - Os serviços administrativos compreendem:
 
 a) Secção central;
 
@@ -244,15 +264,15 @@ c) Núcleo de apoio administrativo local.
 
 2 - As secções referidas nas alíneas a) e b) do número anterior são dirigidas por funcionários com a categoria de chefe de secção e os núcleos de apoio administrativo local por funcionários administrativos com os requisitos necessários para o efeito.
 
-###### Art. 8.º Os núcleos de apoio administrativo local funcionam junto dos serviços de acção social local e dos serviços de acolhimento sócio-educativo e terão a dimensão adequada às necessidades.
+Art. 8.º Os núcleos de apoio administrativo local funcionam junto dos serviços de acção social local e dos serviços de acolhimento sócio-educativo e terão a dimensão adequada às necessidades.
 
-###### Art. 9.º Os núcleos de apoio administrativo local dependem funcionalmente do chefe dos serviços administrativos do SAS e hierarquicamente do dirigente dos serviços onde funcionam.
+Art. 9.º Os núcleos de apoio administrativo local dependem funcionalmente do chefe dos serviços administrativos do SAS e hierarquicamente do dirigente dos serviços onde funcionam.
 
 #### SECÇÃO III — Dos serviços de acolhimento sócio-educativo
 
-###### Art. 10.º Os serviços de acolhimento sócio-educativo são dirigidos por funcionário com a categoria de chefe de divisão.
+Art. 10.º Os serviços de acolhimento sócio-educativo são dirigidos por funcionário com a categoria de chefe de divisão.
 
-###### Art. 11.º Compete ao chefe dos serviços de acolhimento sócio-educativo, designadamente:
+Art. 11.º Compete ao chefe dos serviços de acolhimento sócio-educativo, designadamente:
 
 a) Dirigir, orientar e coordenar toda a actividade dos serviços;
 
@@ -274,7 +294,7 @@ i) Acompanhar a movimentação dos fundos permanentes das residências e lares e
 
 j) Autorizar a utilização de alojamento em pensões, utilização de restaurantes, concessão de passagens, nos termos e limites estabelecidos pela Mesa, submetendo as decisões a ratificação superior.
 
-###### Art. 12.º São atribuições dos serviços de acolhimento sócio-educativo, designadamente:
+Art. 12.º São atribuições dos serviços de acolhimento sócio-educativo, designadamente:
 
 a) Acolher menores com idade igual ou inferior a 6 anos à data da admissão, cujas situações não tenham resposta no respectivo quadro familiar;
 
@@ -284,7 +304,7 @@ c) Prestar apoio técnico e propor apoio financeiro às instituições particula
 
 d) Articular a acção dos serviços com entidades e outros serviços que intervenham directa ou indirectamente na prevenção e ou solução dos problemas desta área.
 
-###### Art. 13.º Os serviços de acolhimento sócio-educativo compreendem:
+Art. 13.º Os serviços de acolhimento sócio-educativo compreendem:
 
 a) Serviço de admissões;
 
@@ -296,9 +316,9 @@ d) Equipa de apoio às instituições particulares de solidariedade social;
 
 e) Residências e lares.
 
-###### Art. 14.º O serviço de admissões é dirigido por funcionários com categoria não inferior à de técnico principal ou equivalente.
+Art. 14.º O serviço de admissões é dirigido por funcionários com categoria não inferior à de técnico principal ou equivalente.
 
-###### Art. 15.º Compete ao chefe do serviço de admissões:
+Art. 15.º Compete ao chefe do serviço de admissões:
 
 a) Dirigir, orientar e coordenar a acção do serviço;
 
@@ -306,21 +326,21 @@ b) Acompanhar a movimentação do fundo permanente de acordo com as normas aplic
 
 c) Superintender na disciplina do pessoal em obediência às leis e regulamentos em vigor.
 
-###### Art. 16.º O serviço de admissões é constituído pelo Centro de Acolhimento e Observação e pela equipa técnica designada por equipa de admissões.
+Art. 16.º O serviço de admissões é constituído pelo Centro de Acolhimento e Observação e pela equipa técnica designada por equipa de admissões.
 
-###### Art. 17.º Cabe especialmente ao Centro de Acolhimento, sob a direcção do chefe do serviço de admissões:
+Art. 17.º Cabe especialmente ao Centro de Acolhimento, sob a direcção do chefe do serviço de admissões:
 
 a) Acolher, por períodos de curta duração, menores em regime de observação ou cuja situação requeira internamento imediato;
 
 b) Prosseguir os objectivos sócio-educativos adequados aos menores em causa, enquanto ali permaneçam.
 
-###### Art. 18.º - 1 - A equipa de admissões é constituída por técnicos com as especializações adequadas, sendo coordenada pelo chefe de serviço a que se refere o artigo 14.º
+Art. 18.º - 1 - A equipa de admissões é constituída por técnicos com as especializações adequadas, sendo coordenada pelo chefe de serviço a que se refere o artigo 14.º
 
 2 - A equipa de admissões estuda e analisa os pedidos de admissão de menores referidos na alínea a) do artigo 12.º, propondo superiormente o encaminhamento adequado à situação.
 
-###### Art. 19.º O serviço de colocações familiares é dirigido por funcionário com categoria profissional não inferior à de técnico principal ou equivalente.
+Art. 19.º O serviço de colocações familiares é dirigido por funcionário com categoria profissional não inferior à de técnico principal ou equivalente.
 
-###### Art. 20.º Compete ao chefe do serviço de colocações familiares:
+Art. 20.º Compete ao chefe do serviço de colocações familiares:
 
 a) Dirigir, coordenar e orientar a acção do serviço;
 
@@ -328,23 +348,23 @@ b) Atribuir subsídios individuais, quer mensais, quer eventuais, nos termos e l
 
 c) Superintender na disciplina do pessoal, em obediência às leis e regulamentos em vigor.
 
-###### Art. 21.º O serviço de colocações familiares dispõe de uma equipa de recrutamento, selecção e formação de famílias de acolhimento, adiante referida por equipa de recurso, e bem assim de uma equipa de seguimento da situação dos menores em colocação familiar, adiante designada por equipa de seguimento.
+Art. 21.º O serviço de colocações familiares dispõe de uma equipa de recrutamento, selecção e formação de famílias de acolhimento, adiante referida por equipa de recurso, e bem assim de uma equipa de seguimento da situação dos menores em colocação familiar, adiante designada por equipa de seguimento.
 
-###### Art. 22.º A equipa de recurso o a equipa de seguimento são constituídas por técnicos com especializações adequadas, sendo coordenadas pelo chefe do serviço de colocações familiares.
+Art. 22.º A equipa de recurso o a equipa de seguimento são constituídas por técnicos com especializações adequadas, sendo coordenadas pelo chefe do serviço de colocações familiares.
 
-###### Art. 23.º - 1 - A equipa de recurso avalia a capacidade e idoneidade de candidatos a famílias de acolhimento, em ordem ao seu recrutamento e eventual selecção, promovendo a formação das famílias escolhidas.
+Art. 23.º - 1 - A equipa de recurso avalia a capacidade e idoneidade de candidatos a famílias de acolhimento, em ordem ao seu recrutamento e eventual selecção, promovendo a formação das famílias escolhidas.
 
 2 - A equipa de seguimento assegura o acompanhamento da situação do menor em colocação familiar, tendo em consideração a família de acolhimento e a família do mesmo menor.
 
 3 - O acompanhamento da situação do menor visa, por um lado, garantir que na família de acolhimento ele tenha ambiente de segurança e afecto adequados ao seu integral desenvolvimento e, por outro lado, a evolução da família natural com vista à sua reinserção.
 
-###### Art. 24.º O serviço de adopções é dirigido por funcionário com categoria profissional não inferior à de técnico principal ou equivalente.
+Art. 24.º O serviço de adopções é dirigido por funcionário com categoria profissional não inferior à de técnico principal ou equivalente.
 
-###### Art. 25.º Compete ao chefe do serviço dirigir, coordenar e orientar a actividade do mesmo, em ordem à adequada execução das suas atribuições.
+Art. 25.º Compete ao chefe do serviço dirigir, coordenar e orientar a actividade do mesmo, em ordem à adequada execução das suas atribuições.
 
-###### Art. 26.º O serviço de adopções é integrado por uma equipa de técnicos com a especialização adequada.
+Art. 26.º O serviço de adopções é integrado por uma equipa de técnicos com a especialização adequada.
 
-###### Art. 27.º Cabe especialmente ao serviço de adopções o seguinte:
+Art. 27.º Cabe especialmente ao serviço de adopções o seguinte:
 
 a) Prestar informações sobre matéria do âmbito das adopções;
 
@@ -354,11 +374,11 @@ c) Propor e acompanhar a entrega dos menores adoptandos em período preparatóri
 
 d) Elaborar o relatório necessário à decisão judicial de adopção.
 
-###### Art. 28.º A equipa de apoio às instituições particulares de solidariedade social é constituída por técnicos com as especializações adequadas, sendo coordenada por um dos seus elementos designado pelo chefe do serviço.
+Art. 28.º A equipa de apoio às instituições particulares de solidariedade social é constituída por técnicos com as especializações adequadas, sendo coordenada por um dos seus elementos designado pelo chefe do serviço.
 
-###### Art. 29.º As residências e lares são dirigidos por funcionários com categoria profissional de director de estabelecimento.
+Art. 29.º As residências e lares são dirigidos por funcionários com categoria profissional de director de estabelecimento.
 
-###### Art. 30.º Ao director de estabelecimento de residências e de lares compete:
+Art. 30.º Ao director de estabelecimento de residências e de lares compete:
 
 a) Dirigir, coordenar e orientar o respectivo estabelecimento;
 
@@ -368,9 +388,9 @@ c) Coordenar a equipa prevista no artigo 31.º;
 
 d) Exercer as funções inerentes à qualidade de encarregado de educação dos menores, nos termos estabelecidos pelo provedor.
 
-###### Art. 31.º Em cada residência ou lar funcionará uma equipa técnica interdisciplinar, coordenada pelo director do estabelecimento, e composta, designadamente, pelo técnico de serviço social e pelo psicólogo que o apoia, bem como pelos técnicos do estabelecimento que actuam nas áreas de educação e saúde.
+Art. 31.º Em cada residência ou lar funcionará uma equipa técnica interdisciplinar, coordenada pelo director do estabelecimento, e composta, designadamente, pelo técnico de serviço social e pelo psicólogo que o apoia, bem como pelos técnicos do estabelecimento que actuam nas áreas de educação e saúde.
 
-###### Art. 32.º Cabe especialmente às equipas técnicas das residências e lares o seguinte:
+Art. 32.º Cabe especialmente às equipas técnicas das residências e lares o seguinte:
 
 a) Promover, quer no contacto com cada menor quer no que respeita ao ambiente geral, uma relação que vise o desenvolvimento integral dos utentes;
 
@@ -380,11 +400,11 @@ c) Providenciar pela conservação, segurança e correcto aproveitamento das ins
 
 #### SECÇÃO IV — Dos serviços de acção social local
 
-###### Art. 33.º A acção social local a cargo da Santa Casa da Misericórdia de Lisboa desenvolve-se por zonas geográficas, adiante designadas por zonas, as quais integram os serviços de acção social local.
+Art. 33.º A acção social local a cargo da Santa Casa da Misericórdia de Lisboa desenvolve-se por zonas geográficas, adiante designadas por zonas, as quais integram os serviços de acção social local.
 
-###### Art. 34.º Cada serviço de acção social local é dirigido por funcionário com a categoria de chefe de divisão.
+Art. 34.º Cada serviço de acção social local é dirigido por funcionário com a categoria de chefe de divisão.
 
-###### Art. 35.º Ao chefe do serviço de acção social local compete:
+Art. 35.º Ao chefe do serviço de acção social local compete:
 
 a) Dirigir, orientar e coordenar toda a actividade das zonas que integram o serviço;
 
@@ -402,7 +422,7 @@ g) Autorizar a utilização do alojamento em pensões, utilização de restauran
 
 h) Acompanhar a movimentação dos fundos permanentes administrados por funcionários do serviço e, bem assim, fazer o controle da atribuição de subsídios.
 
-###### Art. 36.º Ao serviço de acção social local cabe, nomeadamente:
+Art. 36.º Ao serviço de acção social local cabe, nomeadamente:
 
 a) Assegurar o atendimento à população da área geográfica abrangida, prestando a informação pertinente e procedendo ao devido encaminhamento e, bem assim, conceder a ajuda adequada, nos termos e limites estabelecidos pela Mesa;
 
@@ -420,11 +440,11 @@ g) Promover, apoiar e assegurar na respectiva área geográfica a realização d
 
 h) Promover o diagnóstico da realidade social da área, com vista a permitir uma intervenção social adequada.
 
-###### Art. 37.º Os equipamentos previstos na alínea d) do artigo anterior são constituídos, designadamente, por creches e jardins-de-infância, centros de actividades de tempos livres e centros de dia para idosos.
+Art. 37.º Os equipamentos previstos na alínea d) do artigo anterior são constituídos, designadamente, por creches e jardins-de-infância, centros de actividades de tempos livres e centros de dia para idosos.
 
-###### Art. 38.º Cada zona é coordenada por funcionário com categoria não inferior a técnico principal ou equivalente.
+Art. 38.º Cada zona é coordenada por funcionário com categoria não inferior a técnico principal ou equivalente.
 
-###### Art. 39.º Compete ao coordenador de zona, nomeadamente:
+Art. 39.º Compete ao coordenador de zona, nomeadamente:
 
 a) Assegurar a coordenação das actividades de acção social exercidas na zona, designadamente nos estabelecimentos nela existentes;
 
@@ -434,15 +454,15 @@ c) Verificar da assiduidade do pessoal da zona, recolhendo e prestando, com a pe
 
 d) Atribuir subsídios individuais, quer mensais, quer eventuais, nos termos e limites estabelecidos pela Mesa.
 
-###### Art. 40.º - 1 - As creches e jardins-de-infância asseguram o acolhimento diurno de crianças de 1.ª e 2.ª infâncias, visando a minimização das situações de carência das respectivas famílias e promovendo a acção educativa que favoreça o integral desenvolvimento da criança.
+Art. 40.º - 1 - As creches e jardins-de-infância asseguram o acolhimento diurno de crianças de 1.ª e 2.ª infâncias, visando a minimização das situações de carência das respectivas famílias e promovendo a acção educativa que favoreça o integral desenvolvimento da criança.
 
 2 - A admissão dos utentes e as comparticipações das respectivas famílias obedecerão a critérios fixados superiormente.
 
-###### Art. 41.º Os centros de ocupação de tempos livres visam prosseguir actividades que proporcionem à população um espaço de recreação, de animação e convívio, para bem-estar individual e mais ajustada integração social.
+Art. 41.º Os centros de ocupação de tempos livres visam prosseguir actividades que proporcionem à população um espaço de recreação, de animação e convívio, para bem-estar individual e mais ajustada integração social.
 
-###### Art. 42.º Os centros de dia asseguram o acolhimento diurno de idosos, proporcionando serviços e actividades com vista à melhoria da qualidade de vida e à integração social dos mesmos.
+Art. 42.º Os centros de dia asseguram o acolhimento diurno de idosos, proporcionando serviços e actividades com vista à melhoria da qualidade de vida e à integração social dos mesmos.
 
-###### Art. 43.º - 1 - As creches e jardins-de-infância são dirigidos, orientados e coordenados por funcionários com a categoria de director de estabelecimento.
+Art. 43.º - 1 - As creches e jardins-de-infância são dirigidos, orientados e coordenados por funcionários com a categoria de director de estabelecimento.
 
 2 - Quando a creche e o jardim-de-infância funcionem em conjunto serão dirigidos apenas por um director de estabelecimento.
 
@@ -450,7 +470,7 @@ d) Atribuir subsídios individuais, quer mensais, quer eventuais, nos termos e l
 
 4 - Os centros de ocupação de tempos livres e bem assim os centros de dia para idosos são dirigidos, orientados e coordenados por técnicos com formação adequada.
 
-###### Art. 44.º Ao dirigente de creches e jardins-de-infância, de centros de ocupação de tempos livres e de centros de dia para idosos compete, nomeadamente:
+Art. 44.º Ao dirigente de creches e jardins-de-infância, de centros de ocupação de tempos livres e de centros de dia para idosos compete, nomeadamente:
 
 a) Dirigir, orientar e coordenar toda a actividade dos respectivos estabelecimentos;
 
@@ -466,9 +486,9 @@ f) Zelar pela conservação, segurança e correcto aproveitamento das instalaç�
 
 #### SECÇÃO V — Do serviço de colónias de férias
 
-###### Art. 45.º O serviço de colónias de férias é dirigido por funcionário com categoria não inferior a técnico de 1.ª classe ou equivalente.
+Art. 45.º O serviço de colónias de férias é dirigido por funcionário com categoria não inferior a técnico de 1.ª classe ou equivalente.
 
-###### Art. 46.º Compete ao chefe do serviço de colónias de férias:
+Art. 46.º Compete ao chefe do serviço de colónias de férias:
 
 a) Dirigir, orientar e coordenar toda a actividade do serviço;
 
@@ -476,9 +496,9 @@ b) Elaborar o plano anual de acção e respectivo orçamento e propô-los superi
 
 c) Acompanhar a movimentação do fundo permanente, de acordo com as normas aplicáveis.
 
-###### Art. 47.º O serviço de colónias de férias dispõe de uma equipa de técnicos, a qual será constituída por funcionários com a adequada formação e coordenada pelo chefe do serviço.
+Art. 47.º O serviço de colónias de férias dispõe de uma equipa de técnicos, a qual será constituída por funcionários com a adequada formação e coordenada pelo chefe do serviço.
 
-###### Art. 48.º Compete à equipa técnica do serviço de colónias de férias, nomeadamente:
+Art. 48.º Compete à equipa técnica do serviço de colónias de férias, nomeadamente:
 
 a) Facultar às crianças, jovens e idosos utentes do SAS o gozo de um período de férias em local e pela forma adequados;
 
@@ -496,9 +516,9 @@ g) Providenciar pela segurança, conservação e manutenção dos equipamentos a
 
 #### SECÇÃO VI — Do lar de doentes irrecuperáveis e de grandes inválidos
 
-###### Art. 49.º O lar de doentes irrecuperáveis e de grandes inválidos, adiante designado por Pousal, é dirigido por funcionário com a categoria de director de estabelecimento.
+Art. 49.º O lar de doentes irrecuperáveis e de grandes inválidos, adiante designado por Pousal, é dirigido por funcionário com a categoria de director de estabelecimento.
 
-###### Art. 50.º Compete ao director do Pousal:
+Art. 50.º Compete ao director do Pousal:
 
 a) Dirigir, orientar e coordenar toda a actividade do estabelecimento;
 
@@ -506,9 +526,9 @@ b) Elaborar o plano anual de acção e respectivo orçamento e propô-los superi
 
 c) Acompanhar a movimentação do fundo permanente, de acordo com as normas aplicáveis.
 
-###### Art. 51.º O Pousal dispõe de uma equipa técnica coordenada pelo respectivo director.
+Art. 51.º O Pousal dispõe de uma equipa técnica coordenada pelo respectivo director.
 
-###### Art. 52.º Compete à equipa técnica do Pousal, nomeadamente:
+Art. 52.º Compete à equipa técnica do Pousal, nomeadamente:
 
 a) Estudar e analisar os pedidos de admissão com vista a decisão superior;
 
@@ -526,11 +546,11 @@ g) Zelar pela conservação, segurança e correcto aproveitamento das instalaç�
 
 #### SECÇÃO VII — Do serviço de atendimento unificado de Lisboa
 
-###### Art. 53.º - 1 - O serviço de atendimento unificado de Lisboa, adiante designado por SAUL, articula a sua actuação nos domínios técnico e financeiro com o Centro Regional de Segurança Social de Lisboa.
+Art. 53.º - 1 - O serviço de atendimento unificado de Lisboa, adiante designado por SAUL, articula a sua actuação nos domínios técnico e financeiro com o Centro Regional de Segurança Social de Lisboa.
 
 2 - O SAUL é dirigido por funcionário com categoria não inferior a técnico principal ou equivalente.
 
-###### Art. 54.º Compete ao chefe do SAUL:
+Art. 54.º Compete ao chefe do SAUL:
 
 a) Dirigir, orientar e coordenar toda a actividade do serviço;
 
@@ -542,9 +562,9 @@ d) Atribuir e propor a atribuição de subsídios individuais, quer periódicos,
 
 e) Autorizar, nos termos e limites estabelecidos pela Mesa, a utilização de alojamento em pensões, a utilização de restaurantes e a concessão de passagens, submetendo as decisões a ratificação superior.
 
-###### Art. 55.º O SAUL dispõe de uma equipa técnica coordenada pelo respectivo chefe.
+Art. 55.º O SAUL dispõe de uma equipa técnica coordenada pelo respectivo chefe.
 
-###### Art. 56.º Compete à equipa técnica do SAUL, nomeadamente:
+Art. 56.º Compete à equipa técnica do SAUL, nomeadamente:
 
 a) Atender, informar, orientar e encaminhar nacionais e estrangeiros que se encontrem transitoriamente na cidade de Lisboa e careçam de apoio;
 
@@ -558,9 +578,9 @@ e) Propor ou estabelecer a colaboração com entidades e instituições que deva
 
 #### SECÇÃO VIII — Do núcleo de apoio técnico
 
-###### Art. 57.º O núcleo de apoio técnico do SAS, adiante designado por NAT, é constituído por técnicos com, especialização e experiência adequadas.
+Art. 57.º O núcleo de apoio técnico do SAS, adiante designado por NAT, é constituído por técnicos com, especialização e experiência adequadas.
 
-###### Art. 58.1 - 1 - Constituem funções do NAT, designadamente:
+Art. 58.1 - 1 - Constituem funções do NAT, designadamente:
 
 a) O estudo e planeamento da acção do SAS;
 
@@ -588,4 +608,4 @@ h) O acompanhamento dos estágios de estudantes, de acordo com o currículo dos 
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 59.º O presente Regulamento será revisto no prazo de um ano, em resultado da experiência entretanto colhida.
+Art. 59.º O presente Regulamento será revisto no prazo de um ano, em resultado da experiência entretanto colhida.

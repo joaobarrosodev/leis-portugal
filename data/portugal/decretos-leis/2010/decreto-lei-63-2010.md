@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/63/2010/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2010-335452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7670345da1d709f290e70668814338411a403f82e1a4adb5e60b50b5e3ab764f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a59a77c209de8005b52e2afc012c9e82925d4576b7ec3f4848aa413584bad8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acolhimento Familiar
-- Financiamento
 - Direitos da Criança
+- Financiamento
 - Jovem
 - Menoridade
-- Tutela de Menores
 - Prestações da Segurança Social
 - Subsídio
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:124716448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:124716448:por
+  label: Alterado, a partir de 01.12.2019, o art. 13.º do Dec Lei 12/2008 de 17-jan, com a redação dada pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 139/2019 - Diário da República n.º 177/2019, Série I de 2019-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2019-124716448
+  date: '2019-09-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2008/01/17/p/dre
   label: null
@@ -92,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+- type: cites
+  target: pt:dre:248483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:37Z'
   warnings: []
   errors: []
 ---
@@ -152,12 +170,12 @@ O presente decreto-lei entra em vigor no dia útil seguinte ao da sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Valter Victorino Lemos - Ana Maria Teodoro Jorge - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 24 de Maio de 2010.**
+Promulgado em 24 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 27 de Maio de 2010.**
+Referendado em 27 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

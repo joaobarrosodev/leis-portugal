@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/04/092a00/22152219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1995-224175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:42:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af46900ffeac9b6d441a4dd376d2d679349fa2afa94fbd2bbcd5b3d8dc4961d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80d0c643f794c1e5987edd393619e1337cd153af44d901af97549cfbd80365ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,11 @@ reuse:
 subjects:
 - Admissão de Pessoal
 - Casa do Douro
-- Comissão Interprofissional da Região Demarcada do Douro
-- Vinho
+- Comércio
 - Comissão de Fiscalização
+- Comissão Executiva
 - Comissão Instaladora
+- Comissão Interprofissional da Região Demarcada do Douro
 - Conselho Geral
 - Conselho Interprofissional
 - Conselho Vitivinícola Interprofissional
@@ -82,24 +83,50 @@ subjects:
 - Instituto do Vinho do Porto
 - PESO da Régua
 - Produção
-- Comércio
-- Comissão Executiva
+- Vinho
 - Vinho do Porto
 relationships:
 - type: amended_by
   target: pt:dre:468404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:203856:por
+  label: "Aditada uma al f) ao nº 1 do artº 7º e alterado o nº 7 do artº 10º do Estatuto, pelo DEC LEI.200/97.1997.08.07.MADRP\
+    \ DR.IS-A [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1997-203856
+  date: '1997-08-07'
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374380:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546994:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468404:por
+  label: "Revogado a partir da entrada em vigor do DEC LEI.278/2003.06.11.2003.MADRP, DR.IS-A [257] de 06.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/278-2003-468404
+  date: '2003-11-06'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:42:31Z'
   warnings: []
   errors: []
 ---
@@ -190,15 +217,15 @@ Durante o período transitório em que a CD continuar a assegurar a disciplina d
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva.
 
-**Promulgado em 14 de Março de 1995.**
+Promulgado em 14 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Março de 1995.**
+Referendado em 16 de Março de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Estatuto da Comissão Interprofissional da Região Demarcada do Douro
 

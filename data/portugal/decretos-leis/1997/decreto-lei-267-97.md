@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/267/1997/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1997-661564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ec755304d27d116b8fca257ccab4346f9b3366305918e732a8cd8a4ed1d912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d635d46cdb26865d92f8e384aed96ea9f886ece0e386cab53eba8404d4fa85f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
 - Auto-estrada da Beira Interior
+- Auto-estrada da Beira Litoral- Beira ALTA
 - Auto-estrada da Costa de Prata
+- Auto-estrada do Algarve
 - Auto-estrada do Grande Porto
-- SCUT
+- Auto-estrada do Interior Norte
 - Auto-estrada IC4
-- Garantia
 - Concurso
 - Concurso Internacional
-- Concurso Público Internacional
 - Concurso Público
+- Concurso Público Internacional
 - Contrato de Concessão
-- Pagamento
+- Garantia
 - Infraestrutura dos Transportes
 - Interesse Público
+- Pagamento
 - Portagem
-- Auto-estrada da Beira Litoral- Beira ALTA
-- Auto-estrada do Algarve
-- Auto-estrada do Interior Norte
+- Recurso
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:353937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:30Z'
   warnings: []
   errors: []
 ---
@@ -258,17 +262,19 @@ O Governo aprovará as bases de cada contrato de concessão, por decreto-lei, e 
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.
 
-**Promulgado em 15 de Setembro de 1997.**
+Promulgado em 15 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 1997.**
+Referendado em 18 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO I — Parte 1
+## ANEXO I
+
+## Parte 1
 
 Costa de Prata
 
@@ -276,17 +282,17 @@ IC 1 - Vagos-Aveiro (IP 5).
 
 IC 1 - Angeja-Maceda (incluindo a variante a norte de Estarreja).
 
-# Parte 2 — Beira Interior
+## Parte 2 — Beira Interior
 
 IP 2 - Teixoso-Guarda.
 
 IP 6 - Mouriscas-Gardete.
 
-# Parte 3 — Algarve
+## Parte 3 — Algarve
 
 IC 4 - Alcantarilha-Lagos.
 
-# Parte 4 — Grande Porto
+## Parte 4 — Grande Porto
 
 IP 4 - Sendim-Águas Santas (incluindo a ligação ao nó do aeroporto do IC 24).
 
@@ -294,19 +300,21 @@ IC 24 - nó de Alfena-nó da Ermida (IC 25).
 
 IC 25 - nó da Ermida (IC 24)-IP 9 (excluindo a variante de Paços de Ferreira).
 
-# Parte 5 — Interior Norte
+## Parte 5 — Interior Norte
 
 IP 3 - IP 5-Castro Daire.
 
 IP 3 - Régua-Vila Verde da Raia.
 
-## ANEXO II — Parte 1
+## ANEXO II
+
+## Parte 1
 
 Costa de Prata
 
 IC 1 - Maceda-Coimbrões.
 
-# Parte 2 — Beira Interior
+## Parte 2 — Beira Interior
 
 IP 2 - Gardete-Castelo Branco.
 
@@ -314,11 +322,11 @@ IP 2 - Castelo Branco-Teixoso.
 
 IP 6 - Abrantes-Mouriscas.
 
-# Parte 3 — Algarve
+## Parte 3 — Algarve
 
 IC 4 - Guia-Alcantarilha.
 
-# Parte 4 — Grande Porto
+## Parte 4 — Grande Porto
 
 IP 4 - Leixões-Sendim.
 
@@ -326,10 +334,10 @@ IC 24 - nó da Maia (IP 1)-Alfena.
 
 IC 25 - variante de Paços de Ferreira.
 
-# Parte 5 — Interior Norte
+## Parte 5 — Interior Norte
 
 IP 3 - Castro Daire-Régua.
 
-# Parte 6 — Beira Litoral-Beira Alta
+## Parte 6 — Beira Litoral-Beira Alta
 
 IP 5 - Albergaria (IP 1)-Vilar Formoso.

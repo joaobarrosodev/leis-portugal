@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18800/19261927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1979-377528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85112bf9eb1749c835da8f6056eb0cf1387ce7a2c5987f668315f50a0986b161
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3717a209a4451a2f8be1332f34aa53884f23622bfea2391079d460aa596c8e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Caixa de Previdência
+- Regulamento Geral das Caixas Sindicais de Previdência
 relationships:
 - type: amended_by
   target: pt:dre:387296:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:387296:por
+  label: "Revogado pelo DR.45/84.1984.06.25.MNE, DR.IS [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-1984-387296
+  date: '1984-06-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:14Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +122,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo único. Ao artigo 18.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, é acrescentado o n.º 4, com a redacção seguinte:
+Artigo único. Ao artigo 18.º do Regulamento Geral das Caixas Sindicais de Previdência, aprovado pelo [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, é acrescentado o n.º 4, com a redacção seguinte:
 
 4 - Deixam de estar sujeitos às caixas sindicais de previdência os trabalhadores que exerçam a sua profissão no estrangeiro, mas ao serviço de empresas portuguesas:
 
@@ -121,8 +132,8 @@ b) Quando, não existindo tal convenção, os trabalhadores requeiram a suspens�
 
 Carlos Alberto da Mota Pinto - Eusébio Marques de Carvalho - Acácio Manuel Pereira Magro.
 
-**Promulgado em 23 de Julho de 1979.**
+Promulgado em 23 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

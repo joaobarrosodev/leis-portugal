@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/58/2014/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c356973ed00ed313970d4bed485d1ffa0240cd6b07fe34501322bfcc894c025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40e1ce2e056cca96e0944b102dace28bb26094db0123e6f5e0de664142a8b7c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Património
-- Fiscal Único
-- Gestão Financeira
-- Fundação
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
 - Estatuto
-- Património Cultural
+- Fiscal Único
+- Fundação
 - Fundação Mata do Buçaco
 - Fundação Pública
 - Gestão do Património
-- Conselho Diretivo
-- Conselho Consultivo
+- Gestão Financeira
 - Mata Nacional do Buçaco
 - Mealhada
+- Património
+- Património Cultural
 - Património Histórico
-- Pessoa Colectiva de Direito Privado
 - Património Natural
+- Pessoa Colectiva de Direito Privado
 - Regime de Pessoal
 - Utilidade Pública
 relationships:
@@ -90,6 +90,20 @@ relationships:
   target: pt:dre:163561200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561200:por
+  label: Alterados, a partir de 17.06.2021, os arts. 4.º, 6.º e 9.º e o anexo i, aditados os arts. 4.º-A e 7.º-A e revogados
+    os n.ºs 4, 5, 6, 7 e 8 do art. 4.º, o art. 8.º e o anexo ii do Dec Lei 58/2014 de 15-abr, na versão republicada pelo presente
+    diploma, pelo(a) Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18 nos termos do seu art.
+    7.º, e que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2021-163561200
+  date: '2021-05-18'
+- type: amends
+  target: pt:numero:lei:120/2009
+  label: "Altera os arts. 2.º, 4.º e 8.º, altera e renumera o Anexo I e revoga o art. 3.º, o n.º 3 do art. 5.º e o art. 7.º\
+    \ do Dec Lei n.º 120/2009, de 19-mai, DR IS [96], e procede à respetiva republicação\0\0"
+  source: null
+  date: '2009-05-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2009/05/19/p/dre
   label: null
@@ -114,16 +128,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
+- type: cites
+  target: pt:dre:179571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 33
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:32Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +208,9 @@ Os artigos 2.º, 4.º e 8.º do [Decreto-Lei n.º 120/2009](https://diariodarepu
 
 2 - A FMB, F.P., é uma fundação pública de direito privado, criada por tempo indeterminado.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O património inicial da FMB, F.P., é composto pelos bens previstos no artigo 16.º dos respetivos Estatutos, publicados no anexo I ao presente decreto-lei, do qual faz parte integrante.
 
@@ -184,7 +228,9 @@ Os artigos 2.º, 4.º e 8.º do [Decreto-Lei n.º 120/2009](https://diariodarepu
 
 8 - É revogado o direito de usufruto anteriormente constituído a favor da FMB, F.P., sobre os imóveis designados Monumento à Batalha do Buçaco e Museu Histórico e Militar da Guerra Peninsular, passando estes imóveis a integrar a Rede de Museus Militares.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 O presente decreto-lei constitui título suficiente para todos os efeitos legais, incluindo o de registo predial do direito de usufruto referido no artigo 4.º»
 
@@ -212,15 +258,15 @@ São revogados o artigo 3.º, o n.º 3 do artigo 5.º e o artigo 7.º do [Decret
 
 Visto e aprovado em Conselho de Ministros de 27 de fevereiro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 8 de abril de 2014.**
+Promulgado em 8 de abril de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de abril de 2014.**
+Referendado em 10 de abril de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 3.º)
 
@@ -228,7 +274,9 @@ Visto e aprovado em Conselho de Ministros de 27 de fevereiro de 2014. - Pedro Pa
 
 ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO
 
-###### Artigo 1.º — Natureza
+Artigo 1.º
+
+Natureza
 
 1 - A Fundação Mata do Buçaco, F.P., adiante designada abreviadamente por FMB, F.P., é uma fundação pública de direito privado, dotada de órgãos e património próprio e de autonomia administrativa e financeira.
 
@@ -238,19 +286,27 @@ ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO
 
 4 - A Câmara Municipal da Mealhada participa na gestão da FMB, F.P., nos termos e com as especificidades constantes dos presentes Estatutos.
 
-###### Artigo 2.º — Sede
+Artigo 2.º
+
+Sede
 
 A FMB, F.P., tem a sua sede no concelho da Mealhada.
 
-###### Artigo 3.º — Objeto e beneficiários
+Artigo 3.º
+
+Objeto e beneficiários
 
 A FMB, F.P., prossegue fins de interesse social nas áreas da preservação do património histórico, artístico e cultural e da proteção do património natural, tendo por beneficiários os cidadãos em geral.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 A FMB, F.P., tem como atribuições as atividades relacionadas com a prossecução dos seus fins, designadamente, a recuperação, requalificação e revitalização, gestão, exploração e conservação de todo o património, natural e edificado, da Mata Nacional do Buçaco.
 
-###### Artigo 5.º — Órgãos
+Artigo 5.º
+
+Órgãos
 
 São órgãos da FMB, F.P.:
 
@@ -260,7 +316,9 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
-###### Artigo 6.º — Composição e estatuto do conselho diretivo
+Artigo 6.º
+
+Composição e estatuto do conselho diretivo
 
 1 - O conselho diretivo da FMB, F.P., é composto pelo presidente e por um vogal não executivo.
 
@@ -274,7 +332,9 @@ c) O conselho consultivo.
 
 6 - O vogal não executivo não é remunerado, nem aufere senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativo às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.
 
-###### Artigo 7.º — Competências do conselho diretivo
+Artigo 7.º
+
+Competências do conselho diretivo
 
 1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e da gestão da FMB, F.P.:
 
@@ -286,7 +346,9 @@ b) Proceder ao inventário anual do património a submeter ao fiscal único;
 
 3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
 
-###### Artigo 8.º — Funcionamento do conselho diretivo
+Artigo 8.º
+
+Funcionamento do conselho diretivo
 
 1 - O conselho diretivo reúne uma vez por semana e extraordinariamente sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação do vogal não executivo.
 
@@ -294,7 +356,9 @@ b) Proceder ao inventário anual do património a submeter ao fiscal único;
 
 3 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, podendo os membros discordantes do teor da mesma nela exarar as respetivas declarações de voto.
 
-###### Artigo 9.º — Fiscal único
+Artigo 9.º
+
+Fiscal único
 
 1 - O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, aplicável nos termos da Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, competindo-lhe ainda:
 
@@ -304,7 +368,9 @@ b) Elaborar o parecer sobre se a aplicação dos rendimentos se realiza em harmo
 
 2 - O fiscal único é remunerado nos termos definidos para os institutos públicos de regime comum pela Lei-Quadro dos Institutos Públicos, aprovada pela [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro.
 
-###### Artigo 10.º — Conselho consultivo
+Artigo 10.º
+
+Conselho consultivo
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da FMB, F.P.
 
@@ -334,7 +400,9 @@ i) Uma personalidade designada pela Universidade de Coimbra.
 
 5 - O exercício de funções de membro do conselho consultivo não é remunerado, nem confere direito ao pagamento de despesas com as deslocações.
 
-###### Artigo 11.º — Competências e funcionamento do conselho consultivo
+Artigo 11.º
+
+Competências e funcionamento do conselho consultivo
 
 1 - Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo:
 
@@ -354,7 +422,9 @@ g) Dar parecer sobre os atos de gestão do património florestal da FMB, F.P.
 
 2 - No caso das alíneas f) e g) do número anterior, as deliberações são tomadas por uma maioria de dois terços dos membros do conselho consultivo.
 
-###### Artigo 12.º — Autonomia financeira
+Artigo 12.º
+
+Autonomia financeira
 
 1 - A FMB, F.P., goza de autonomia financeira, devendo a sua ação estar subordinada às regras dos presentes Estatutos, da Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, e da demais legislação aplicável.
 
@@ -364,13 +434,17 @@ g) Dar parecer sobre os atos de gestão do património florestal da FMB, F.P.
 
 4 - A FMB, F.P., pode fazer investimentos, bem como participar no capital de sociedades comerciais ou criar sociedades que sejam instrumento útil para a prossecução do objetivo de otimização da gestão do seu património, desde que necessárias ou úteis à prossecução dos seus fins estatutários, com prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e das florestas, anualmente renovada, nos termos definidos nos presentes Estatutos, na Lei-Quadro das Fundações, aprovada pela [Lei n.º 24/2012](https://diariodarepublica.pt/dr/detalhe/lei/24-2012-179571), de 9 de julho, e na demais legislação aplicável.
 
-###### Artigo 13.º — Dotação financeira inicial e financiamento
+Artigo 13.º
+
+Dotação financeira inicial e financiamento
 
 1 - A dotação financeira inicial da FMB, F.P., corresponde ao direito de usufruto constituído sobre o património do Estado constante do anexo ao diploma que instituiu a FMB, F.P.
 
 2 - O financiamento da FMB, F.P., é assegurado pelas receitas previstas nos termos dos presentes Estatutos.
 
-###### Artigo 14.º — Receitas
+Artigo 14.º
+
+Receitas
 
 Constituem receitas da FMB, F.P., as provenientes de:
 
@@ -396,11 +470,15 @@ j) Prestação de serviços a terceiros;
 
 k) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que, por lei ou negócio jurídico, lhe devam pertencer.
 
-###### Artigo 15.º — Despesas
+Artigo 15.º
+
+Despesas
 
 Constituem despesas da FMB, F.P., as que resultem de encargos decorrentes da prossecução dos seus fins estatutários.
 
-###### Artigo 16.º — Património
+Artigo 16.º
+
+Património
 
 O património da FMB, F.P., é constituído:
 
@@ -410,11 +488,15 @@ b) Por todos os contributos, em dinheiro ou em espécie, a título de dotação 
 
 c) Pelos bens móveis ou imóveis que a FMB, F.P., venha a adquirir a título gratuito ou oneroso.
 
-###### Artigo 17.º — Modificação dos Estatutos
+Artigo 17.º
+
+Modificação dos Estatutos
 
 A alteração dos presentes estatutos é efetuada por decreto-lei.
 
-###### Artigo 18.º — Extinção
+Artigo 18.º
+
+Extinção
 
 1 - A FMB, F.P., é instituída por tempo indeterminado.
 
@@ -424,7 +506,7 @@ A alteração dos presentes estatutos é efetuada por decreto-lei.
 
 «ANEXO II
 
-# Parte A
+Parte A
 
 (a que se refere o n.º 4 do artigo 4.º)
 
@@ -586,7 +668,7 @@ Pousada Pequena;
 
 Sede da antiga administração.
 
-# Parte B
+Parte B
 
 (a que se refere o n.º 5 do artigo 4.º)
 
@@ -854,7 +936,9 @@ A alteração dos presentes estatutos é efetuada por decreto-lei.
 
 2 - A FMB, F.P., pode ser extinta nos termos aplicáveis à extinção de fundações públicas, revertendo o seu património para o Estado.
 
-## ANEXO II — Parte A
+## ANEXO II
+
+## Parte A
 
 (a que se refere o n.º 4 do artigo 4.º)
 
@@ -1016,7 +1100,7 @@ Pousada Pequena;
 
 Sede da antiga administração.
 
-# Parte B
+Parte B
 
 (a que se refere o n.º 5 do artigo 4.º)
 

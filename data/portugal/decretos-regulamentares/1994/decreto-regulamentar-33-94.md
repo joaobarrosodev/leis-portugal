@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/202b00/51155118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/33/1994/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1994-654523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 505ee486d8cd6df2c0f11f2340490889337527a9e2317fc7b11a3ad886916c23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3591bf6cd6a9558839b0897e3b36d7e72e053ce9f142614bd2f790d54fe4ed1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,61 @@ relationships:
   target: pt:dre:69920322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489711:por
+  label: "Extinta, a partir de 01.10.2009, a Unidade de Apoio ao Quartel-General do Comando da Área Ibero-Atlântica (IBERLANT\
+    \ - Iberian Atlantic Area), prevista no presente diploma, sendo as suas atribuições integradas na Unidade de Apoio POSUPNATO,\
+    \ pelo DEC LEI.234/2009.15.09.2009.MDN, DR.IS [179] de 15.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/234-2009-489711
+  date: '2009-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:238858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920322:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 10/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2015-69920322
+  date: '2015-07-31'
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:54Z'
   warnings: []
   errors: []
 ---
@@ -400,12 +441,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

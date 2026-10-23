@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-2009-494006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T03:08:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57453bdf01b6c4d469a463620cc310ca2f954bd65894422503417422c8a03d73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95592cafe7570e78dcecac313fef1f44328ea46759d0cbf5a44829d9f6c6fd20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:08:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Acompanhamento
-- Ordenamento do Território
-- Comissão Mista de Coordenação
-- Plano Director Municipal
-- Desenvolvimento Regional
-- Planeamento Urbano
-- Publicitação
-- Política de Solos
-- Plano de Pormenor
-- Plano de Urbanização
-- Plano Regional
-- Urbanismo
-- Madeira.região Autónoma
-- Plano Regional de Ordenamento do Território
-- Regime Jurídico
 - Açores
 - Autarquia Local
+- Comissão de Acompanhamento
+- Comissão Mista de Coordenação
+- Desenvolvimento Regional
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Planeamento Urbano
+- Plano de Pormenor
+- Plano de Urbanização
+- Plano Director Municipal
+- Plano Regional
+- Plano Regional de Ordenamento do Território
+- Política de Solos
+- Publicitação
+- Regime Jurídico
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:189940:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterado o art. 148º do Dec Lei 380/99, de 22-Set, na redacção do presente diploma, pelo DEC LEI.2/2011.06.01.2011.PCM,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
   label: null
@@ -120,16 +126,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:08:08Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +204,9 @@ A redacção conferida pelos artigos 2.º e 3.º do [Decreto-Lei n.º 316/2007](
 
 3 - ...
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +230,9 @@ A redacção conferida pelos artigos 2.º e 3.º do [Decreto-Lei n.º 316/2007](
 
 11 - ...
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +242,9 @@ a) ...
 
 b) ...
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +274,9 @@ e) ...
 
 9 - ...
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -280,12 +326,12 @@ f) ...»
 
 Visto e aprovado em Conselho de Ministros de 1 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia - Fernando Teixeira dos Santos - Jaime de Jesus Lopes Silva - José António de Melo Pinto Ribeiro.
 
-**Promulgado em 29 de Julho de 2009.**
+Promulgado em 29 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Julho de 2009.**
+Referendado em 30 de Julho de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

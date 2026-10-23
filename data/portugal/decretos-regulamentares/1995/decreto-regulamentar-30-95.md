@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/30/1995/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/30-1995-690652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 282fe357bbb331882ccbd74d79fcff603a403fd0997bf2d2b38c15baaae7992b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3ea9cf0ce408cee1e05f5dc2bef27bdd08694bd7e30f42c09cc170d4e1c9a48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Recursos Minerais
-- Gestão dos Recursos
-- Terras e Pedras
-- Pedreiras
 - Coimbra
+- Gestão dos Recursos
+- Pedreiras
+- Recursos Minerais
 - Recursos Naturais
+- Reserva Ecológica Nacional
+- Terras e Pedras
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/1992/10/12/p/dre
@@ -85,16 +85,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:23:15Z'
   warnings: []
   errors: []
 ---
@@ -157,22 +181,22 @@ Presidência do Conselho de Ministros, 28 de Agosto de 1995.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Luís Filipe da Conceição Pereira - Maria Teresa Pinto Basto Gouveia.
 
-**Promulgado em 5 de Outubro de 1995.**
+Promulgado em 5 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Outubro de 1995.**
+Referendado em 10 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Área de reserva para arcoses na região da Catraia
 
 Extractos das cartas n.os 19-B e 20-A do Instituto Geográfico e Cadastral à escala de 1:50000
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf))](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf)
 
 ## ANEXO II — Coordenadas dos vértices das áreas de reserva para arcoses na região da Catraia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf))](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/11/269b00/71677168.pdf)

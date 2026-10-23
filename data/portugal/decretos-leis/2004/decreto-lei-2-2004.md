@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/2/2004/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2004-240387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f068258d9cc5ad55dffcfe358a7b86e43aebe4742c5ac1f98434938b0625e1c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00d5d4a9a2dffaf8fbb843fdedcd25ce292ebe57f6f3f0fde796a87dc4824eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ reuse:
 subjects:
 - Acreditação
 - Aproximação das Legislações
-- Pessoal Dirigente
+- Comércio
 - Oleaginosas
+- Pessoal Dirigente
+- Produto Agrícola
 - Produto Hortícola
 - Regulamento
 - Regulamento Técnico da Produção de Sementes de Espécies Oleaginosas e Fibrosas
 - Regulamento Técnico da Produção e Comercialização de Sementes de Espécies Oleaginosas e Fibrosas
 - Semente
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:245284:por
@@ -129,16 +129,21 @@ relationships:
   target: celex:32003L0045
   label: null
   source: http://data.europa.eu/eli/dir/2003/45/oj
+- type: repealed_by
+  target: pt:dre:245284:por
+  label: "Revogado pelo DEC LEI.144/2005.26.08.2005.MADRP, DR.IS-A [164] de 26.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2005-245284
+  date: '2005-08-26'
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:03Z'
   warnings: []
   errors: []
 ---
@@ -191,15 +196,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2003. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 5 de Dezembro de 2003.**
+Promulgado em 5 de Dezembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Dezembro de 2003.**
+Referendado em 10 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Regulamento técnico da produção e comercialização de sementes de espécies oleaginosas e fibrosas
 
@@ -427,7 +432,7 @@ QUADRO I
 
 Distâncias mínimas de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
 
 2 - As distâncias mínimas referidas no quadro anterior podem ser encurtadas se houver uma protecção suficiente de toda a fonte de pólen indesejável.
 
@@ -615,7 +620,7 @@ QUADRO II
 
 Normas e tolerâncias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
 
 ###### Artigo 16.º — Estado sanitário dos lotes de sementes
 
@@ -627,7 +632,7 @@ QUADRO III
 
 Organismos nocivos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
 
 3 - No caso de Glycine max, o disposto no n.º 2 é aplicável em particular aos organismos Pseudomonas syringae pv. glycinea e Diaporthe phasealorum, sendo as condições a satisfazer pelos lotes de sementes as seguintes:
 
@@ -649,7 +654,7 @@ QUADRO IV
 
 Peso dos lotes e das amostras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)](https://files.diariodarepublica.pt/1s/2004/01/001a00/00120023.pdf)
 
 ### CAPÍTULO VII — Do acondicionamento das sementes e da etiquetagem
 

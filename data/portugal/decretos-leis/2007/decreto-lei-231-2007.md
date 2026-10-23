@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2007/06/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2007-639146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc72a3de8e1b6f7ca269a14ef4f42a1573c63922d713b205ae0ea7355257e5b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5641032fb4590507895bf538cadfce72d1591be5d144d2df889b8b42e4b589fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,51 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Caminhos de Ferro
-- Transporte Ferroviário
-- Instituto da Mobilidade e dos Transportes Terrestres
 - Infraestrutura dos Transportes
+- Instituto da Mobilidade e dos Transportes Terrestres
 - Instituto Nacional do Transporte Ferroviário
 - Licenciamento
 - Metropolitano
 - Prestação de Serviços
 - Transferência de Competências
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:70476205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140549:por
+  label: "Constituído como serviço concessionado o serviço público de transporte ferroviário de passageiros no território\
+    \ nacional prestado pela CP, E.P.E., nos termos do nº 2 do art. 4º do Dec Lei 270/2003 de 28-Out, com as alterações constantes\
+    \ deste diploma, pelo DEC LEI.137-A/2009.12.06.2009.MOPTC, DR.IS [112-Supl] de 12.06.2009, até à celebração dos contratos\
+    \ referidos no art. 6º daquele diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-a-2009-140549
+  date: '2009-06-12'
+- type: amended_by
+  target: pt:dre:611311:por
+  label: "Alterado o art. 49º e revogados os nºs 3 e 4 do art. 20º, a partir de 29.03.2010, do Dec Lei 270/2003, de 28-Out,\
+    \ republicado pelo presente diploma, pelo DEC LEI.20/2010.24.03.2010.MOPTC, DR.IS [58] de 24.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2010-611311
+  date: '2010-03-24'
+- type: amended_by
+  target: pt:dre:335456:por
+  label: "Substituído e alterado, a partir de 14.06.2010, o anexo v do Dec Lei 270/2003, de 28-Out, na redacção do presente\
+    \ diploma, pelo DEC LEI.62/2010.09.06.2010.MOPTC, DR.IS [111] de 09.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2010-335456
+  date: '2010-06-09'
+- type: amended_by
+  target: pt:dre:279843:por
+  label: "Alterados, a partir de 22.02.2011, os arts. 3º, 64º, 66º-D e 66º-O do Dec Lei 270/2003, de 28-Out, na redacção e\
+    \ republicado pelo presente diploma, pelo DEC LEI.27/2011.17.02.2011.MOPTC, DR.IS [34] de 17.02.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/27-2011-279843
+  date: '2011-02-17'
+- type: amended_by
+  target: pt:dre:70409926:por
+  label: Alterado o anexo V do Dec Lei 270/2003 de 28-out, com a redação dada pelo presente diploma, pelo(a) Decreto-Lei n.º
+    214-D/2015 - Diário da República n.º 191/2015, 1º Suplemento, Série I de 2015-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-d-2015-70409926
+  date: '2015-09-30'
 - type: cites
   target: celex:31969R1191
   label: null
@@ -127,16 +159,25 @@ relationships:
   target: celex:32004R0881
   label: null
   source: http://data.europa.eu/eli/reg/2004/881/oj
+- type: repealed_by
+  target: pt:dre:70476205:por
+  label: Revogadas (a partir de 08.10.2015) as als. e) a i), k) a m), p) a r), v), w), y) e z) do art 3.º (na redação do presente
+    diploma), os arts 11º, 18º, 32º, 38º, 40º, 43º (na redação do presente diploma), o art 20.º (na redação do presente diploma),
+    o art 22.º (na redação do presente diploma), o art 70º (na redação do presente diploma) e as als b), d) a p), s) e t)
+    do art 77.º (na redação do presente diploma) do Dec Lei 270/2003 de 28-out, pelo(a) Decreto-Lei n.º 217/2015 - Diário
+    da República n.º 196/2015, Série I de 2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2015-70476205
+  date: '2015-10-07'
 article_structure:
-  article_count: 149
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 120
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:20Z'
   warnings: []
   errors: []
 ---
@@ -265,13 +306,17 @@ aa) [Anterior alínea v).]
 
 ab) [Anterior alínea x).]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O requisito de capacidade técnica considera-se preenchido desde que a empresa tenha uma organização de gestão com a experiência ou os conhecimentos necessários para exercer, de modo seguro e eficaz, o controlo de exploração e a supervisão do tipo de operações abrangido pela licença.
 
 2 - Quando a empresa não tenha ainda iniciado actividade, deve demonstrar que tem condições de vir a dispor de uma organização de gestão nos termos referidos no número anterior.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +332,9 @@ b) ...
 
 5 - A informação a que se refere o número anterior conterá ainda a discriminação de receitas e despesas por actividade, para efeitos de avaliação do impacte dos subsídios e subvenções nos preços finais praticados, nos termos a definir por instrução do IMTT.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -303,7 +350,9 @@ b) ...
 
 7 - Depois de 1 de Janeiro de 2007 os direitos previstos no n.º 2 são concedidos a todas as empresas de transporte ferroviário estabelecidas num Estado membro.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O acesso pela rede e a prestação, nos terminais e portos que sirvam, ou possam servir, mais de um cliente final, de serviços relacionados com o exercício dos direitos referidos no artigo 20.º são concedidos a todas as empresas de transporte ferroviário de forma não discriminatória, não podendo estar sujeitos a restrições, a menos que existam alternativas ferroviárias viáveis em condições de mercado para os requerentes ou partes interessadas em causa.
 
@@ -311,7 +360,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O gestor da infra-estrutura edita o directório da rede até 12 meses antes da entrada em vigor do horário respectivo.
 
@@ -325,7 +376,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os candidatos apresentam os seus pedidos de canais horários ao gestor de infra-estrutura até oito meses antes da entrada em vigor do horário técnico.
 
@@ -345,7 +398,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - O gestor da infra-estrutura prepara um projecto de horário técnico até cinco meses antes da entrada em vigor do horário técnico.
 
@@ -357,13 +412,17 @@ b) ...
 
 5 - ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - O gestor da infra-estrutura aprova o horário técnico e procede à respectiva comunicação aos candidatos até três meses antes da respectiva entrada em vigor.
 
 2 - ...
 
-###### Artigo 64.º — Responsabilidade em matéria de segurança
+Artigo 64.º
+
+Responsabilidade em matéria de segurança
 
 1 - Os gestores da infra-estrutura e as empresas de transporte ferroviário são responsáveis, perante os utilizadores, os clientes, os próprios trabalhadores e terceiros, pela segurança da exploração da sua parte do sistema ferroviário e pelo controlo dos riscos associados, incluindo o fornecimento de material e a contratação de serviços.
 
@@ -393,7 +452,9 @@ b) ...
 
 14 - (Revogado.)
 
-###### Artigo 65.º — Sistemas de gestão de segurança
+Artigo 65.º
+
+Sistemas de gestão de segurança
 
 1 - Os gestores da infra-estrutura e as empresas de transporte ferroviário estão obrigados a criar sistemas de gestão de segurança, tendo em conta as necessárias medidas de controlo dos riscos.
 
@@ -403,13 +464,17 @@ b) ...
 
 4 - Para efeitos do número anterior, o sistema de gestão da segurança deve satisfazer os requisitos e incluir os elementos previstos no anexo III, adaptados ao carácter, dimensão e outras características da actividade desenvolvida.
 
-###### Artigo 66.º — Procedimentos comuns de emergência
+Artigo 66.º
+
+Procedimentos comuns de emergência
 
 1 - Para o desenvolvimento dos sistemas de gestão da segurança, o gestor da infra-estrutura e as empresas de transporte ferroviário devem prestar mútua colaboração, nomeadamente para estabelecimento dos procedimentos comuns de emergência.
 
 2 - Os procedimentos comuns de emergência estão sujeitos a aprovação do IMTT, nos termos de regulamento a emitir.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +486,9 @@ b) ...
 
 5 - No âmbito dos recursos apresentados ao abrigo do número anterior, o IMTT pode determinar a imposição de acesso em condições equitativas e não discriminatórias, aplicando-se o disposto no artigo 73.º, com as necessárias adaptações.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -473,7 +540,9 @@ v) ...
 
 4 - ...
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - ...
 
@@ -493,7 +562,9 @@ v) ...
 
 9 - O prazo de 12 meses referido no n.º 7 conta-se a partir da data de entrada em vigor do regulamento previsto no artigo 66.º-I.
 
-###### Artigo 86.º — Taxa de regulação
+Artigo 86.º
+
+Taxa de regulação
 
 1 - As entidades gestoras da infra-estrutura de sistemas de metropolitano e metropolitano ligeiro de superfície pagam uma taxa pelo exercício genérico da actividade de regulação.
 
@@ -521,7 +592,9 @@ Sistema de gestão de segurança dos gestores das infra-estruturas
 
 O sistema de gestão da segurança do gestor da infra-estrutura deve ainda ter em conta os efeitos da operação de diversas empresas de transporte ferroviário na infra-estrutura sob sua gestão e tomar providências que permitam a operação em conformidade com as ETI e as normas técnicas de segurança e com as condições estabelecidas no certificado de segurança daquelas empresas.
 
-###### Artigo 66.º-B — Aprovação dos sistemas de gestão da segurança
+Artigo 66.º-B
+
+Aprovação dos sistemas de gestão da segurança
 
 1 - A aprovação dos sistemas de gestão da segurança cabe ao IMTT.
 
@@ -531,7 +604,9 @@ O sistema de gestão da segurança do gestor da infra-estrutura deve ainda ter e
 
 4 - O IMTT fixa, por regulamento, o procedimento para a aprovação dos sistemas de gestão da segurança.
 
-###### Artigo 66.º-C — Relatório de aplicação do sistema de gestão da segurança
+Artigo 66.º-C
+
+Relatório de aplicação do sistema de gestão da segurança
 
 O gestor da infra-estrutura e as empresas de transporte ferroviário devem apresentar anualmente ao IMTT, antes de 30 de Junho, um relatório sobre a segurança respeitante ao ano civil anterior, que inclui, designadamente:
 
@@ -543,7 +618,9 @@ c) Os resultados das auditorias de segurança internas;
 
 d) Observações sobre deficiências e funcionamento incorrecto das operações ferroviárias e da gestão da infra-estrutura que possam ser importantes para a avaliação dos níveis de segurança.
 
-###### Artigo 66.º-D — Certificado de segurança
+Artigo 66.º-D
+
+Certificado de segurança
 
 1 - O acesso e utilização da infra-estrutura ferroviária por parte das empresas de transporte ferroviário dependem da titularidade de um certificado de segurança.
 
@@ -559,7 +636,9 @@ b) Parte B - respeitante à demonstração do cumprimento dos requisitos especí
 
 5 - Quando se trate de empresa de transporte ferroviário titular de certificado de segurança emitido noutro Estado membro e que pretenda aceder à rede nacional para prestar serviços equivalentes àqueles para que já se encontra certificada, é apenas exigida a demonstração dos aspectos mencionados na alínea b) do número anterior.
 
-###### Artigo 66.º-E — Emissão, renovação, alteração, revisão, suspensão, revogação e cassação do certificado de segurança
+Artigo 66.º-E
+
+Emissão, renovação, alteração, revisão, suspensão, revogação e cassação do certificado de segurança
 
 1 - Compete ao IMTT a emissão, renovação, alteração, revisão, suspensão, revogação e cassação dos certificados de segurança ou de parte destes.
 
@@ -585,7 +664,9 @@ b) Parte B - respeitante à demonstração do cumprimento dos requisitos especí
 
 12 - A comunicação a que se refere o número anterior inclui a denominação e o endereço da empresa de transporte ferroviário, a data de emissão, o âmbito e a validade do certificado de segurança ou da autorização de segurança e, em caso de revogação, as razões da decisão.
 
-###### Artigo 66.º-F — Material circulante em utilização
+Artigo 66.º-F
+
+Material circulante em utilização
 
 1 - Compete ao IMTT autorizar a colocação em serviço do material circulante que, embora autorizado por uma parte B de certificado de segurança emitido por outro Estado membro, não esteja totalmente abrangido pelas ETI aplicáveis.
 
@@ -595,7 +676,9 @@ b) Parte B - respeitante à demonstração do cumprimento dos requisitos especí
 
 4 - O IMTT pode incluir, no certificado de autorização, condições de utilização e outras restrições.
 
-###### Artigo 66.º-G — Autorização de segurança
+Artigo 66.º-G
+
+Autorização de segurança
 
 1 - O exercício das actividades de gestão e exploração da infra-estrutura por parte do gestor da mesma depende da obtenção de uma autorização de segurança.
 
@@ -605,7 +688,9 @@ a) Parte A: respeitante à demonstração da existência de um sistema de gestã
 
 b) Parte B: respeitante à demonstração do cumprimento dos requisitos específicos necessários à segurança da concepção, manutenção e exploração da infra-estrutura ferroviária, incluindo, se aplicável, a manutenção e a exploração do sistema de controlo de tráfego e de sinalização.
 
-###### Artigo 66.º-H — Emissão, renovação, alteração, revisão, suspensão e revogação da autorização de segurança
+Artigo 66.º-H
+
+Emissão, renovação, alteração, revisão, suspensão e revogação da autorização de segurança
 
 1 - Compete ao IMTT a emissão, renovação, alteração, revisão, suspensão e revogação das autorizações de segurança ou de partes destas.
 
@@ -627,7 +712,9 @@ b) Parte B: respeitante à demonstração do cumprimento dos requisitos específ
 
 10 - A comunicação a que se refere o número anterior inclui a denominação e o endereço do gestor da infra-estrutura, a data de emissão, o âmbito e a validade do certificado de segurança ou da autorização de segurança e, em caso de revogação, as razões da decisão.
 
-###### Artigo 66.º-I — Procedimento de emissão
+Artigo 66.º-I
+
+Procedimento de emissão
 
 1 - O IMTT estabelece, por regulamento, os procedimentos para a emissão de certificado de segurança ou de autorização de segurança.
 
@@ -639,13 +726,17 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 3 - O IMTT decide os pedidos de certificação de segurança e de autorização de segurança, obrigatoriamente apresentados em língua portuguesa, em prazo inferior a quatro meses, contados da recepção de todas as informações necessárias e de quaisquer informações adicionais que tenha solicitado.
 
-###### Artigo 66.º-J — Taxas
+Artigo 66.º-J
+
+Taxas
 
 1 - Pela prática de actos em matéria de certificados de segurança e de autorizações de segurança são devidas taxas.
 
 2 - As taxas a que se refere o número anterior constituem receita própria do IMTT e o seu montante e forma de pagamento são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
 
-###### Artigo 66.º-L — Formação do pessoal com funções relevantes para a segurança da exploração
+Artigo 66.º-L
+
+Formação do pessoal com funções relevantes para a segurança da exploração
 
 1 - Até à aprovação de um regime legal que discipline o acesso à profissão do pessoal das empresas de transporte ferroviário e do gestor da infra-estrutura, cujas funções são relevantes para a segurança da exploração, e para efeitos da obtenção do certificado de segurança e da autorização de segurança, aplicar-se-ão as regras a fixar por regulamento do IMTT.
 
@@ -653,7 +744,9 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 3 - Os exames e a concessão de certificados serão assegurados por entidade diversa da que presta formação, devidamente acreditada pelo IMTT ou, na falta de tal entidade, pelo próprio IMTT que pode, para o efeito, requisitar os meios técnicos necessários às empresas do sector.
 
-###### Artigo 66.º-M — Acesso a estruturas de formação
+Artigo 66.º-M
+
+Acesso a estruturas de formação
 
 1 - Cabe ao IMTT garantir que as empresas têm acesso equitativo e não discriminatório às estruturas de formação de pessoal com funções relevantes para a segurança da exploração.
 
@@ -661,7 +754,9 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 3 - Os trabalhadores das empresas de transporte ferroviário e do gestor da infra-estrutura têm direito a que lhes seja facultada toda a documentação relativa à sua formação, qualificações e experiência.
 
-###### Artigo 66.º-N — Normas técnicas de segurança
+Artigo 66.º-N
+
+Normas técnicas de segurança
 
 1 - O IMTT aprova e publica as normas técnicas de segurança, que estabelecem os requisitos de segurança ferroviária, e garante a sua aplicação e implementação de forma transparente e não discriminatória.
 
@@ -669,7 +764,9 @@ b) A discriminação dos requisitos a considerar para efeitos de cumprimento do 
 
 3 - As normas de segurança são publicadas na 2.ª série do Diário da República.
 
-###### Artigo 66.º-O — Relatório anual de segurança
+Artigo 66.º-O
+
+Relatório anual de segurança
 
 1 - O IMTT elabora um relatório anual de segurança.
 
@@ -685,7 +782,9 @@ d) Os resultados da supervisão dos gestores das infra-estruturas e das empresas
 
 3 - O IMTT envia à Agência Ferroviária Europeia o relatório anual de segurança, até ao dia 30 de Setembro do ano seguinte ao ano a que respeita.
 
-###### Artigo 66.º-P — Obrigações de notificação e comunicação
+Artigo 66.º-P
+
+Obrigações de notificação e comunicação
 
 1 - A emissão e alteração de normas técnicas de segurança, bem como o respectivo processo de elaboração e publicitação, são notificados pelo IMTT à Comissão Europeia e à Agência Ferroviária Europeia.
 
@@ -725,7 +824,9 @@ i) Planos de acção, alerta e informação em caso de emergência, acordados co
 
 j) Disposições tendo em vista uma auditoria interna periódica do sistema de gestão da segurança.
 
-## ANEXO IV — Autorização de colocação em serviço de material circulante em utilização
+ANEXO IV
+
+Autorização de colocação em serviço de material circulante em utilização
 
 1 - A documentação técnica sobre o material circulante ou tipo de material circulante a apresentar ao IMTT deve incluir:
 
@@ -739,7 +840,9 @@ d) Derrogações das normas técnicas de segurança necessárias para a concess�
 
 2 - O IMTT pode exigir a realização de ensaios na rede, indicando o seu âmbito e conteúdo, para verificar a conformidade com os parâmetros restritivos mencionados na alínea c) do n.º 1.
 
-## ANEXO V — Indicadores comuns de segurança
+ANEXO V
+
+Indicadores comuns de segurança
 
 I - Indicadores relativos a acidentes, que devem ter em conta as disposições do Regulamento (CE) n.º [91/2003](https://data.europa.eu/eli/reg/2003/91/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários, na medida em que essas informações se encontrem disponíveis:
 
@@ -871,15 +974,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - José Manuel Santos de Magalhães - Manuel Lobo Antunes - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
 
-**Promulgado em 24 de Maio de 2007.**
+Promulgado em 24 de Maio de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 25 de Maio de 2007.**
+Referendado em 25 de Maio de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 270/2003
 
@@ -1569,7 +1672,7 @@ o) «Repartição» a afectação da capacidade da infra-estrutura ferroviária 
 
 ##### SUBSECÇÃO II — Horários técnicos
 
-# PARTE I — Competência do gestor da infra-estrutura e vigência do horário técnico
+## PARTE I — Competência do gestor da infra-estrutura e vigência do horário técnico
 
 ###### Artigo 36.º — Elaboração e aprovação
 
@@ -1593,7 +1696,7 @@ c) As margens.
 
 4 - O gestor da infra-estrutura e um candidato podem, nos termos do artigo 49.º, celebrar um acordo quadro para a utilização da capacidade na infra-estrutura ferroviária em causa, com duração superior ao período de vigência de um horário técnico.
 
-# PARTE II — Procedimento
+## PARTE II — Procedimento
 
 ###### Artigo 38.º — Pedidos de canais horários
 
@@ -2523,7 +2626,7 @@ d) A complexidade do sistema de metropolitano ou metropolitano ligeiro de superf
 
 ## ANEXO I — [a que se refere alínea b) do n.º 1 do artigo 2.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11300/38163851.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11300/38163851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11300/38163851.pdf)
 
 ## ANEXO II — (Revogado.)
 

@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1978-446559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c25575c4768e6602b77071f9db9e0cd39a8c4babefe0105c9750c45ef05cdf73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf40c080266bab67639a1f99d1ef61bbf28e0d3c5f5f882d040708632b2e7709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Assistente de Operações Aeroportuárias
+- Bombeiro
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Orgânica
+- Quadro de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:183003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:183003:por
+  label: "Dada nova redacção ao art. 14º pelo DR.44/85.08.07.1985.MES, DR.IS [154] de 08.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-1985-183003
+  date: '1985-07-08'
+- type: corrected_by
+  target: pt:dre:585412:por
+  label: Rectificado pela DECL.DD7648.31.03.1978.PCM, DR.IS [75]Supl de 31.03.1978, que procede à publicação dos anexos 1
+    e 2
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-585412
+  date: '1978-03-31'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:26Z'
   warnings: []
   errors: []
 ---
@@ -365,22 +384,22 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1978.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 6 de Fevereiro de 1978.**
+Promulgado em 6 de Fevereiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA I
 
 Mapa a que se refere o artigo 2.º do Decreto Regulamentar n.º 9/78
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf))](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)
 
 MAPA II
 
 Mapa a que se refere o artigo 2.º do Decreto Regulamentar n.º 9/78
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf))](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 128/1989, 1º Suplemento, Série I de 1989-06-05
   number: '128'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2182-(2) a 2182-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/12801/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/35-1989-405940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T04:05:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5ff69c06dd44767c0e8c9a8843a04cff6e86f1ddc87f17990b2e5358616527c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f5b116c78cf30e1d69fe75aabbc2ad0ac9b4d6fcc08c7f40ab52019c86e02d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:05:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bulgária
+- Embaixador
+- Nomeação
+relationships:
+- type: amended_by
+  target: pt:dre:660477:por
+  label: "EXONERADO O MINISTRO PLENIPOTENCIÁRIO LUÍS GONZAGA FERREIRA, PELO DECRETO 41/93, DO PR, DE 17 DE SETEMBRO, PUBLICADO\
+    \ NO DR.IS-A, 219, DE 930917.\030917.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/41-1993-660477
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:05:11Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +92,16 @@ validation:
 
 de 5 de Junho
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea a), da Constituição, o seguinte:
 
 É nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Luís Gonzaga Ferreira para o cargo de embaixador de Portugal em Sófia.
 
-**Assinado em 11 de Maio de 1989.**
+Assinado em 11 de Maio de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 22 de Maio de 1989.**
+Referendado em 22 de Maio de 1989.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.

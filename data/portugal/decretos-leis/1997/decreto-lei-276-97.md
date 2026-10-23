@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1997/10/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1997-667167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a646c4d02617c23db6d7e16d278897cb9be31058c9c44f3925b6ce775b32b164
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa0efc67919644e4d91d51d1d0f1809975c826bfab7c77b5644e5d2e5b9a1660
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,29 +68,49 @@ reuse:
 subjects:
 - Comissão Interministerial
 - Comissão Interministerial para os Assuntos da Floresta
-- Proteção da Floresta
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Orgânica
 - Política Florestal
+- Proteção da Floresta
 relationships:
 - type: amended_by
   target: pt:dre:553442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553442:por
+  label: Mantido em vigor o presente diploma pelo(a) Lei n.º 12/2012 - Diário da República n.º 52/2012, Série I de 2012-03-13,
+    nos termos do disposto no n.º 2 do art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2012-553442
+  date: '2012-03-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: pt:dre:285145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490450:por
+  label: "Revogado, a partir de 16.12.2011, sem prejuízo do disposto no n.º 1 do art. 2.º, pelo DEC LEI.254/2009.24.09.2009.MADRP,\
+    \ DR.IS [186] de 24.09.2009 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2009-490450
+  date: '2009-09-24'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:52:40Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +173,7 @@ e) Ministério do Ambiente.
 
 ###### Artigo 4.º — Presidente
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode delegar a presidência ou fazer-se representar nas reuniões do órgão para as quais esteja impedido.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pode delegar a presidência ou fazer-se representar nas reuniões do órgão para as quais esteja impedido.
 
 ###### Artigo 5.º — Funcionamento
 
@@ -173,12 +193,12 @@ São revogados os artigos 1.º, 2.º, 3.º e 4.º do [Decreto-Lei n.º 128/88](h
 
 Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Marcelo de Sousa Vasconcelos - José Socrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Setembro de 1997.**
+Promulgado em 19 de Setembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Setembro de 1997.**
+Referendado em 24 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12000/0438904394.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/118/2015/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2015-67541745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 879f3a1a3eb262c8170a2a0681a89030276a8a32fb443e7f10b860114a16c039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d02c33e6d26dd328adcbdfa14620a5eab9c2f300c591b7f602b3fc77344b4cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Alimentação
+- Alimentação Humana
 - Aproximação das Legislações
 - Consumidor
 - Controlo de Qualidade
 - Direção Geral de Alimentação e Veterinária
 - Fiscalização
 - Norma Portuguesa
-- Alimentação Humana
 - Política Alimentar
-- Alimentação
-- Suplemento Alimentar
+- Produto Alimentar
 - Proteção do Consumidor
+- Suplemento Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:155732595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Alterados, a partir de 28.07.2021, os arts. 11.º e 14.º do Dec Lei 136/2003 de 28-jun, na versão republicada pelo
+    presente diploma, pelo(a) Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
 - type: cites
   target: celex:32002L0046
   label: null
@@ -144,6 +150,22 @@ relationships:
   target: eli:http://data.europa.eu/el
   label: null
   source: http://data.europa.eu/el
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693251:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32002L0046
   label: null
@@ -153,15 +175,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 36
+  article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:40Z'
   warnings: []
   errors: []
 ---
@@ -202,13 +224,17 @@ Os artigos 1.º a 4.º, 7.º a 11.º, 13.º e 14.º do [Decreto-Lei n.º 136/200
 
 O presente diploma transpõe para a ordem jurídica interna a [Diretiva n.º 2002/46/CE](https://data.europa.eu/eli/dir/2002/46/oj?locale=pt), do Parlamento Europeu e do Conselho, de 10 de junho de 2002, alterada pela [Diretiva n.º 2006/37/CE](https://data.europa.eu/eli/dir/2006/37/oj?locale=pt), da Comissão, de 30 de março de 2006, relativa à aproximação das legislações dos Estados-Membros respeitantes aos suplementos alimentares, com as alterações introduzidas pelos Regulamentos (CE) n.os [1137/2008](https://data.europa.eu/eli/reg/2008/1137/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de outubro de 2008, e [1170/2009](https://data.europa.eu/eli/reg/2009/1170/oj?locale=pt), da Comissão, de 30 de novembro de 2009, e pelos Regulamentos (UE) n.os [1161/2011](https://data.europa.eu/eli/reg/2011/1161/oj?locale=pt), da Comissão, de 14 de novembro de 2011, e [119/2014](https://data.europa.eu/eli/reg/2014/119/oj?locale=pt), da Comissão, de 7 de fevereiro de 2014.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
 2 - O presente diploma não se aplica aos medicamentos tal como definidos no [Decreto-Lei n.º 176/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), de 30 de agosto, que estabelece o regime jurídico dos medicamentos de uso humano.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -218,7 +244,9 @@ b) [...];
 
 c) «Autoridade competente», a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto organismo responsável pela definição, execução e avaliação das políticas de segurança alimentar.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Apenas as vitaminas e os minerais referidos nos anexos I e II do [Regulamento (CE) n.º 1170/2009](https://data.europa.eu/eli/reg/2009/1170/oj?locale=pt), da Comissão, de 30 de novembro de 2009, sob as formas enunciadas naquele Regulamento e nos Regulamentos (UE) n.os [1161/2011](https://data.europa.eu/eli/reg/2011/1161/oj?locale=pt), da Comissão, de 14 de novembro de 2011, e [119/2014](https://data.europa.eu/eli/reg/2014/119/oj?locale=pt), da Comissão, de 7 de fevereiro de 2014, podem ser utilizados no fabrico de suplementos alimentares.
 
@@ -232,7 +260,9 @@ c) «Autoridade competente», a Direção-Geral de Alimentação e Veterinária 
 
 6 - [Revogado].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
@@ -240,7 +270,9 @@ c) «Autoridade competente», a Direção-Geral de Alimentação e Veterinária 
 
 3 - A rotulagem, a apresentação no mercado e a publicidade aos suplementos alimentares, seja escrita, audiovisual ou difundida apenas por meios auditivos, devem incluir, com destaque suficiente e adequado, a referência «SUPLEMENTO ALIMENTAR», que identifique inequivocamente o produto enquanto tal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A quantidade de nutrientes ou substâncias com efeito nutricional ou fisiológico presentes no produto deve ser declarada no rótulo sob forma numérica, sendo as unidades a utilizar para as vitaminas e minerais as que se encontram especificadas nos anexos I e II do [Regulamento (CE) n.º 1170/2009](https://data.europa.eu/eli/reg/2009/1170/oj?locale=pt), da Comissão, de 30 de novembro de 2009.
 
@@ -250,7 +282,9 @@ c) «Autoridade competente», a Direção-Geral de Alimentação e Veterinária 
 
 4 - [...].
 
-###### Artigo 9.º — Comercialização e notificação
+Artigo 9.º
+
+Comercialização e notificação
 
 1 - É proibida a comercialização de suplementos alimentares que não cumpram o disposto no presente diploma.
 
@@ -260,11 +294,15 @@ c) «Autoridade competente», a Direção-Geral de Alimentação e Veterinária 
 
 4 - Caso o produto já tenha sido comercializado na União Europeia, o fabricante ou o importador dão cumprimento ao processo referido no artigo seguinte e notificam a autoridade competente da identidade da autoridade destinatária da primeira notificação de comercialização.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Compete à Autoridade de Segurança Alimentar e Económica (ASAE), no âmbito das suas competências, a fiscalização do cumprimento das normas do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]:
 
@@ -276,7 +314,9 @@ b) A comercialização de suplementos alimentares com desrespeito pelo disposto 
 
 3 - [...].
 
-###### Artigo 13.º — Instrução e decisão
+Artigo 13.º
+
+Instrução e decisão
 
 1 - [Revogado].
 
@@ -284,7 +324,9 @@ b) A comercialização de suplementos alimentares com desrespeito pelo disposto 
 
 3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
 
-###### Artigo 14.º — Destino das coimas
+Artigo 14.º
+
+Destino das coimas
 
 1 - A afetação do produto das coimas faz-se da seguinte forma:
 
@@ -322,13 +364,17 @@ Processo de notificação
 
 8 - Caso a apreciação da notificação exija os estudos ou pareceres a que se refere o artigo seguinte, o prazo previsto no número anterior fica suspenso até à receção pela autoridade competente dos referidos estudos ou pareceres, sendo o notificante informado desta suspensão.
 
-###### Artigo 9.º-B — Estudos ou pareceres
+Artigo 9.º-B
+
+Estudos ou pareceres
 
 1 - O diretor-geral de Alimentação e Veterinária pode, sempre que necessário, solicitar aos operadores que tenham feito a notificação de suplementos alimentares, nos termos do disposto no artigo anterior, que apresentem estudos de qualidade e segurança dos suplementos alimentares realizados por entidades com reconhecida competência técnica nestas áreas.
 
 2 - As entidades a que se refere o número anterior não podem ter quaisquer interesses diretos ou indiretos no âmbito da produção, transformação, importação, exportação e comercialização de suplementos alimentares e devem ser escolhidas de entre as constantes de uma lista a publicar, através de edital, no sítio na Internet da DGAV.
 
-###### Artigo 14.º-A — Aplicação às Regiões Autónomas
+Artigo 14.º-A
+
+Aplicação às Regiões Autónomas
 
 Os atos e os procedimentos necessários à execução do presente diploma nas Regiões Autónomas competem às entidades das respetivas administrações regionais com atribuições e competências na matéria em causa.»
 
@@ -342,15 +388,15 @@ São revogados os n.os 4, 5 e 6 do artigo 4.º, o n.º 1 do artigo 13.º, o arti
 
 Visto e aprovado em Conselho de Ministros de 9 de abril de 2015. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Luís Álvaro Barbosa de Campos Ferreira - António de Magalhães Pires de Lima - Artur Álvaro Laureano Homem da Trindade - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 12 de junho de 2015.**
+Promulgado em 12 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de junho de 2015.**
+Referendado em 16 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/56/1998/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1998-186544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 255d042e73722bb8b588a5b46e9cf69f2fc73e7b487b5d8940a6efd0d56fe8b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c6ba972e24f1b69e03b6d2b18e87fb63f7b72eb85358e7f93fd0be5a7ce11b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Ajuste Direto
 - Aquisição de Bens e Serviços
-- Modernização Administrativa
 - Despesas Públicas
 - Empreitada de Obras Públicas
-- Administração Pública
-- Serviço de Atendimento ao Cidadão
 - Loja do Cidadão
+- Modernização Administrativa
+- Serviço de Atendimento ao Cidadão
 relationships:
 - type: amended_by
   target: pt:dre:319740:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145623:por
+  label: "Mantido em vigor, pelo DEC LEI.85/99.1999.03.19.PCM DR.IS-A [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/85-1999-145623
+  date: '1999-03-19'
+- type: amended_by
+  target: pt:dre:408476:por
+  label: "Mantido em vigor, até 31 de Dezembro de 2000, o regime aprovado pelo presente diploma, pelo DEC LEI.25/2000.2000.03.02.MREAP\
+    \ DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2000-408476
+  date: '2000-03-02'
+- type: amended_by
+  target: pt:dre:319740:por
+  label: "Mantido em vigor até 31 de Dezembro de 2001, pelo DEC LEI.63/2001.2001.02.19.MREAP DR.IS-A [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2001-319740
+  date: '2001-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/176/1997/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/176/1997/10/21/p/dre
+- type: cites
+  target: pt:dre:672656:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:08Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +140,12 @@ As empreitadas de obras públicas e a aquisição de bens e serviços destinados
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 4 de Março de 1998.**
+Promulgado em 4 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Março de 1998.**
+Referendado em 6 de Março de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

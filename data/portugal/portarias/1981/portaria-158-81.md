@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02500/02890305.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-1981-389673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ab89c58293182bedbdf66be9638b47d6adb4713abe3d2e5580b052a6d6bfb90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bf2b4a61dbb7e6c260106b805c7ef1a30ae57db973e2f88f07b2fccff3e17af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abate de Animais
+- Controlo de Qualidade
+- Controlo Sanitário
+- Exploração Pecuária
+- Gado Suíno
+- Pecuária
+- Produção Animal
+- Saúde Pública
+- Suinicultura
 relationships:
 - type: amended_by
   target: pt:dre:439393:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:159360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:162669:por
+  label: "Revogada pelo Dec Lei 163/97.1997.06.27.MADRP, DR.IS-A [146], a partir da entrada em vigor das Portarias previstas\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1997-162669
+  date: '1997-06-27'
+- type: repealed_by
+  target: pt:dre:428996:por
+  label: "Revogada pelo DEC LEI.339/99.1999.08.25.MADRP DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1999-428996
+  date: '1999-08-25'
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogada, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:02Z'
   warnings: []
   errors: []
 ---

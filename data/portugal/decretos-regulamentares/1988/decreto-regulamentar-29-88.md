@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1988-378087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T06:16:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a42bf30fd9a86a43bbd1f62f05a3d0399ae488eb4e26be7422b1dc2cdf995e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b3c8b4f877bc5c4be4ce57f74d1577dcae8d1ca5fa4cf531cc2020d4808beaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:16:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Contrato de Concessão
+- Espinho
+- Jogos de Fortuna e Azar
+- Póvoa de Varzim
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:572658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:16:07Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +111,13 @@ Assim:
 
 Ao abrigo do disposto no artigo 15.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As entidades que pretendam concorrer às concessões das zonas de jogo de Espinho e da Póvoa de Varzim deverão dirigir as suas propostas ao Ministro do Comércio e Turismo, em cartas fechadas, registadas e lacradas, endereçadas à Inspecção-Geral de Jogos (IGJ) e com a indicação exterior de se destinarem aos respectivos concursos, dentro do prazo de 30 dias a contar da data da publicação do anúncio da sua abertura no Diário da República, 3.ª série.
+Artigo 1.º - 1 - As entidades que pretendam concorrer às concessões das zonas de jogo de Espinho e da Póvoa de Varzim deverão dirigir as suas propostas ao Ministro do Comércio e Turismo, em cartas fechadas, registadas e lacradas, endereçadas à Inspecção-Geral de Jogos (IGJ) e com a indicação exterior de se destinarem aos respectivos concursos, dentro do prazo de 30 dias a contar da data da publicação do anúncio da sua abertura no Diário da República, 3.ª série.
 
 2 - O prazo das concessões a que se refere o número anterior é de vinte anos, com início no dia 1 de Janeiro de 1989.
 
 3 - Os contratos de concessão serão assinados no prazo de quatro meses a contar das datas em que forem notificadas as adjudicações das concessões.
 
-###### Art. 2.º - 1 - Constituem bens do Estado afectos às concessões os seguintes:
+Art. 2.º - 1 - Constituem bens do Estado afectos às concessões os seguintes:
 
 a) Na zona de jogo de Espinho, o casino;
 
@@ -111,7 +125,7 @@ b) Na zona de jogo da Póvoa de Varzim, o casino e o conjunto de piscinas revers
 
 2 - As concessionárias garantirão a conservação, em bom estado de utilização, das instalações afectas às concessões, bem como do respectivo equipamento, mobiliário e utensilagem, nos termos das instruções dimanadas da IGJ.
 
-###### Art. 3.º - 1 - Sem prejuízo do disposto na demais legislação aplicável, as concessionárias ficam obrigadas ao cumprimento das seguintes contrapartidas mínimas:
+Art. 3.º - 1 - Sem prejuízo do disposto na demais legislação aplicável, as concessionárias ficam obrigadas ao cumprimento das seguintes contrapartidas mínimas:
 
 a) Prestação de contrapartida a pagar em quatro prestações semestrais e iguais, no valor de 1100000 contos cada uma, na zona de jogo de Espinho, e no valor de 750000 contos cada uma, na zona de jogo da Póvoa de Varzim, ambas a preços de 1987, as primeiras das quais terão de ser pagas antes da data da assinatura dos respectivos contratos de concessão, devendo os valores indicados ser previamente convertidos em escudos correntes dos anos em que forem pagas as prestações pelo processo indicado no artigo 4.º;
 
@@ -123,7 +137,7 @@ b) Contrapartidas anuais no valor de 50% das receitas brutas dos jogos, não pod
 
 4 - A sonegação das receitas brutas dos jogos constitui motivo de rescisão dos contratos, observando-se os §§ 1.º e 2.º do artigo 52.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, independentemente de outras responsabilidades em que possam incorrer as concessionárias, seus administradores e trabalhadores, bem como terceiros envolvidos.
 
-###### Art. 4.º - 1 - As importâncias constantes do quadro anexo encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1987, sendo convertidas em escudos correntes do ano a que as prestações digam respeito pela fórmula seguinte:
+Art. 4.º - 1 - As importâncias constantes do quadro anexo encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1987, sendo convertidas em escudos correntes do ano a que as prestações digam respeito pela fórmula seguinte:
 
 VC = VR x (IPAC/IP87)
 
@@ -139,7 +153,7 @@ IP87 é o valor do índice médio de preços no consumidor para o continente, ex
 
 2 - Não estando publicado à data em que se torne necessário aplicar a fórmula indicada no número anterior o índice relativo ao ano a que a prestação se refira, tomar-se-á o mesmo actualizado a partir do último valor disponível, com uma evolução idêntica à ocorrida no último período correspondente para que esteja disponível, procedendo-se às actualizações necessárias logo que a referida publicação ocorra.
 
-###### Art. 5.º - 1 - As contrapartidas referidas na alínea a) do n.º 1 do artigo 3.º serão depositadas no FT, a entregar mediante guias a emitir pela IGJ, e destinam-se a subsidiar investimentos em projectos declarados de interesse para o turismo pela Direcção-Geral de Turismo:
+Art. 5.º - 1 - As contrapartidas referidas na alínea a) do n.º 1 do artigo 3.º serão depositadas no FT, a entregar mediante guias a emitir pela IGJ, e destinam-se a subsidiar investimentos em projectos declarados de interesse para o turismo pela Direcção-Geral de Turismo:
 
 a) Quanto à zona de jogo de Espinho: no Município de Santa Maria da Feira, na importância de 100000 contos, e a verba remanescente nos Municípios de Espinho, Vila Nova de Gaia e Ovar;
 
@@ -149,7 +163,7 @@ b) Quanto à zona de jogo da Póvoa de Varzim: no Município de Barcelos, na imp
 
 3 - Consideram-se perdidas a favor do FT as verbas que não forem utilizadas nos prazos estabelecidos no despacho referido no número anterior, excepto quando o incumprimento dos referidos prazos for tido como justificado pelo Ministro do Comércio e Turismo.
 
-###### Art. 6.º - 1 - As contrapartidas referidas na alínea b) do n.º 1 do artigo 3.º realizam-se pelas formas seguintes:
+Art. 6.º - 1 - As contrapartidas referidas na alínea b) do n.º 1 do artigo 3.º realizam-se pelas formas seguintes:
 
 a) Através do pagamento do imposto especial sobre o jogo, nos termos da legislação em vigor;
 
@@ -183,7 +197,7 @@ c) As referidas nas alíneas c), g) e i), até 31 de Janeiro do ano seguinte àq
 
 5 - No que respeita à aplicação das importâncias referidas no número anterior, observar-se-á, com as adaptações necessárias, o disposto nos n.os 2 e 3 do artigo 5.º
 
-###### Art. 7.º - 1 - Constituem únicos factores de preferência para adjudicação das concessões as ofertas das mais elevadas contrapartidas superiores às previstas na alínea a) do n.º 1 do artigo 3.º
+Art. 7.º - 1 - Constituem únicos factores de preferência para adjudicação das concessões as ofertas das mais elevadas contrapartidas superiores às previstas na alínea a) do n.º 1 do artigo 3.º
 
 2 - Na hipótese de se verificar que nos dois concursos a mesma entidade concorrente ofereceu as mais elevadas contrapartidas, deverá aquela optar por uma das adjudicações no prazo de oito dias após a abertura das propostas propriamente ditas.
 
@@ -193,7 +207,7 @@ c) As referidas nas alíneas c), g) e i), até 31 de Janeiro do ano seguinte àq
 
 5 - Sem prejuízo do disposto nos números anteriores e em caso de igualdade de ofertas, o Conselho de Ministros escolherá a proposta que, no seu critério, se afigure como mais adequada à prossecução do interesse público.
 
-###### Art. 8.º - 1 - As propostas a que se refere o n.º 1 do artigo 1.º só serão consideradas se forem acompanhadas dos seguintes elementos:
+Art. 8.º - 1 - As propostas a que se refere o n.º 1 do artigo 1.º só serão consideradas se forem acompanhadas dos seguintes elementos:
 
 a) Documentos comprovativos da constituição da sociedade anónima, obedecendo aos requisitos fixados nos Decretos-Leis n.os 48912, de 18 de Março de 1969, e 274/88, de 3 de Agosto, incluindo certidão do registo comercial, estatutos e indicação dos membros dos corpos sociais, ou identificação completa das entidades que se proponham constituí-la, nos mesmos termos, dentro do prazo de 90 dias a contar da data da notificação da adjudicação;
 
@@ -215,17 +229,17 @@ a) No prazo de quinze dias após a assinatura do contrato, relativamente aos con
 
 b) No prazo de quinze dias após a notificação da adjudicação das concessões, quanto aos demais concorrentes.
 
-###### Art. 9.º - 1 - A IGJ pode solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
+Art. 9.º - 1 - A IGJ pode solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
 
 2 - O Conselho de Ministros pode excluir dos concursos as propostas que, em si ou nos documentos que as acompanhem, contenham expressões vagas ou que condicionem, por qualquer forma, as obrigações a assumir, que se apresentem em termos que possam dificultar o confronto com as demais propostas ou que não preencham os requisitos dos concursos.
 
-###### Art. 10.º - 1 - No terceiro dia útil posterior ao do encerramento dos concursos proceder-se-á, na IGJ, à abertura das propostas para o efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de quinze dias, durante os quais o Conselho de Ministros poderá rejeitar a admissão aos concursos de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
+Art. 10.º - 1 - No terceiro dia útil posterior ao do encerramento dos concursos proceder-se-á, na IGJ, à abertura das propostas para o efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de quinze dias, durante os quais o Conselho de Ministros poderá rejeitar a admissão aos concursos de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
 
 2 - Passado o prazo referido no número anterior, proceder-se-á, na IGJ, à abertura dos sobrescritos dos concorrentes que não hajam sido excluídos, contendo as propostas propriamente ditas, para efeito da respectiva graduação, que será feita no prazo de quinze dias, após o que o Conselho de Ministros deliberará sobre as adjudicações.
 
 3 - O Conselho de Ministros reserva-se o direito de não outorgar as concessões a nenhum dos concorrentes, quaisquer que sejam as propostas apresentadas, se considerar isso conveniente para os interesses do Estado, anulando os concursos e restituindo as cauções prestadas, sem direito dos concorrentes a qualquer indemnização.
 
-###### Art. 11.º - 1 - As concessões continuarão a ser exploradas pelas actuais empresas concessionárias, em termos a acordar com o Ministro do Comércio e Turismo, se, findo o prazo de qualquer das actuais concessões, os concursos não tiverem terminado.
+Art. 11.º - 1 - As concessões continuarão a ser exploradas pelas actuais empresas concessionárias, em termos a acordar com o Ministro do Comércio e Turismo, se, findo o prazo de qualquer das actuais concessões, os concursos não tiverem terminado.
 
 2 - Se, abertos os concursos, não houver concorrentes ou, havendo-os, não forem outorgadas as concessões, serão abertos novos concursos nas condições que forem fixadas para o efeito, continuando as concessões a ser exploradas nos termos do número anterior.
 
@@ -233,18 +247,18 @@ Presidência do Conselho de Ministros, 3 de Junho de 1988.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 18 de Julho de 1988.**
+Promulgado em 18 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1988.**
+Referendado em 18 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro anexo ao Decreto Regulamentar n.º 29/88
 
 (Milhares de contos - escudos de 1987)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17800/32053208.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17800/32053208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/17800/32053208.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/2007/08/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2007-640914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1a3304a1d2af2d762b80ebc60230841e5ac3af522eedff3a35517b3eb77df4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b1a04c94282b7eee11cb18c3c34a12d0667870426cd169c6fc33f4635f9495e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Fiscal Único
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Construção Civil
 - Comissão Paritária
 - Comissão Permanente
 - Conselho Científico
-- Conselho de Orientação
-- Definição de Competências
-- Recrutamento de Pessoal
-- Gestão do Património
-- Conselho Diretivo
 - Conselho Consultivo
-- Propriedade Industrial
-- LNEC
+- Conselho de Orientação
+- Conselho Diretivo
+- Construção Civil
+- Definição de Competências
+- Financiamento
+- Fiscal Único
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Investigação Científica e Tecnológica
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Obras Públicas
 - Orgânica
-- Urbanismo
+- Pessoal Dirigente
 - Presidente
+- Propriedade Industrial
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
-- Gestão de Recursos Humanos
+- Urbanismo
 - Vogal
 relationships:
 - type: amended_by
   target: pt:dre:179530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308745:por
+  label: "Alterado o art. 21º (rectificado pela Decl-Rect 93/2007, de 16-Out) do presente diploma, pelo DEC LEI.125/2010.18.11.2010.MOPTC,\
+    \ DR.IS [224] de 18.11.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2010-308745
+  date: '2010-11-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/210/2006/10/27/p/dre
   label: null
@@ -111,16 +117,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667357:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:642005:por
+  label: "Rectificado pela DECL-RECT.93/2007.16.10.2007.PCM, DR.IS [199] de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/93-2007-642005
+  date: '2007-10-16'
+- type: repealed_by
+  target: pt:dre:179530:por
+  label: "Revogado o presente diploma, a partir de 01.08.2012, - salvo o disposto no seu art. 21º no que se refere ao nº 5\
+    \ do art 35º do Dec Lei 422/99, de 21-out -, na redação do Dec Lei 125/2010, de 18-nov, pelo DEC LEI.157/2012.18.07.2012.MEE,\
+    \ DR.IS [138] de 18.07.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2012-179530
+  date: '2012-07-18'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:42Z'
   warnings: []
   errors: []
 ---
@@ -483,12 +517,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - Manuel Frederico Tojal de Valsassina Heitor.
 
-**Promulgado em 3 de Abril de 2007.**
+Promulgado em 3 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Abril de 2007.**
+Referendado em 5 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

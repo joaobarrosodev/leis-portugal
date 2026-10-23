@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/760-1983-453574
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T07:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd40b5c617547b6bbc4b0dc2c719f29c593e0f7725e59c7ebde9a4792449c1e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b6e2cc2a8748ed76d2d853007c9847b3334292b3c18c66d33057ed6c7649ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Pessoal
+- Carreira Diplomática
+- Funcionário Diplomático
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: cites
+  target: pt:dre:245348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:48:14Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +104,13 @@ Manda o Governo da República Portuguesa, ao abrigo do disposto no artigo 41.º 
 
 Ministérios dos Negócios Estrangeiros e da Reforma Administrativa.
 
-**Assinada em 8 de Junho de 1983.**
+Assinada em 8 de Junho de 1983.
 
-**O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
 Regulamento do Sistema de Classificação de Serviço dos Funcionários da Carreira Diplomática
 
-###### Artigo 1.º Todos os funcionários da carreira diplomática até à categoria de ministros plenipotenciários de 2.ª classe, inclusive, serão objecto de classificação anual de serviço, que terá por base as informações individuais de serviço do modelo junto ao presente Regulamento.
+Artigo 1.º Todos os funcionários da carreira diplomática até à categoria de ministros plenipotenciários de 2.ª classe, inclusive, serão objecto de classificação anual de serviço, que terá por base as informações individuais de serviço do modelo junto ao presente Regulamento.
 
 2 - As informações individuais de serviço serão elaboradas até 31 de Dezembro de cada ano ou sempre e quando o funcionário, ou o responsável pela elaboração da informação, for transferido de serviço, devendo ser enviadas ao secretário-geral, em envelope fechado com a indicação de confidencial, no primeiro caso até 15 de Janeiro e nos restantes até 15 dias após a cessação das respectivas funções.
 
@@ -118,7 +130,7 @@ Regulamento do Sistema de Classificação de Serviço dos Funcionários da Carre
 
 10 - Os eventuais comentários dos funcionários referidos no n.º 8, bem como a decisão do avaliador referida no número anterior, deverão ser anexados à informação individual de serviço a que se refiram e com esta transmitidos ao secretário-geral.
 
-###### Art. 2.º - 1 - É criada a comissão permanente de classificação, constituída pelos seguintes elementos:
+Art. 2.º - 1 - É criada a comissão permanente de classificação, constituída pelos seguintes elementos:
 
 a) Secretário-geral ou um embaixador em quem ele delegar;
 
@@ -142,6 +154,6 @@ e) 1 funcionário diplomático designado pelo secretário-geral, sem direito de 
 
 7 - Todos os intervenientes no processo de classificação ficam obrigados ao dever do sigilo sobre esta matéria.
 
-**O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.**
+O Ministro dos Negócios Estrangeiros, Vasco Luís Caldeira Coelho Futscher Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16100/26002604.pdf)

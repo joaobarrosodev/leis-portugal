@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/030a00/10911095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/26/2006/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2006-684611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b86c40a551036707af6d83e5d84013ce3c90d6ed445e543a1cf40cd6234c3c82
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df22e85b3737e69b6ff730973ebd8da37d2f1a1d4969c2b42265660bb29baafd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Alimento para Animais
+- BSE
+- Comércio
+- Controlo Sanitário
 - Direção Geral da Saúde
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- BSE
-- Saúde Pública
-- Alimento para Animais
+- Multa
 - Regulamento CE
-- Comércio
+- Saúde Pública
 - Transporte de Animais
 relationships:
 - type: amended_by
@@ -104,16 +104,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/387/1998/12/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/387/1998/12/04/p/dre
+- type: repealed_by
+  target: pt:dre:106647823:por
+  label: Revogado, a partir de 28.03.2017, o Dec Lei 387/98 de 04-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei
+    n.º 33/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2017-106647823
+  date: '2017-03-23'
 article_structure:
-  article_count: 10
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:28Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +152,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 3 - (Revogado.)
 
-###### Artigo 2.º — Produtos interditos na cadeia alimentar
+Artigo 2.º
+
+Produtos interditos na cadeia alimentar
 
 1 - É interdita a entrada, por qualquer forma, na cadeia alimentar humana e animal, bem como a detenção e comercialização para essa finalidade das matérias de risco específico (MRE) definidas como tal no Regulamento (CE) n.º [999/2001](http://data.europa.eu/eli/reg/2001/999/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Maio, que estabelece as regras para a prevenção e a erradicação de determinadas encefalopatias espongiformes transmissíveis (EET), qualquer que seja a sua proveniência.
 
@@ -160,29 +168,39 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 6 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Os MRE referidos no artigo anterior são, aquando da sua remoção, obrigatoriamente marcados nos termos da legislação em vigor.
 
 2 - Os produtos referidos no n.º 1 do artigo 1.º e os MRE referidos no n.º 1 do artigo 2.º são considerados subprodutos e classificados como matérias da categoria 1 de acordo com o Regulamento (CE) n.º [1774/2002](http://data.europa.eu/eli/reg/2002/1774/oj?locale=pt), do Parlamento Europeu e do Conselho, de 3 de Outubro, que estabelece as regras sanitárias relativas aos subprodutos animais não destinados a consumo humano, devendo ser encaminhados, armazenados, tratados e ou transformados e eliminados conforme previsto no mesmo regulamento.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os MRE referidos no n.º 1 do artigo 1.º e no n.º 1 do artigo 2.º devem ser transportados em veículos ou contentores, em conformidade com o anexo II do Regulamento (CE) n.º [1774/2002](http://data.europa.eu/eli/reg/2002/1774/oj?locale=pt), do Parlamento Europeu e do Conselho, de 3 de Outubro, para as unidades de transformação de subprodutos autorizadas pela DGV, acompanhados pela guia de acompanhamento de subprodutos de origem animal estabelecida no anexo III do presente diploma, que dele faz parte integrante, a fim de serem tratados nos termos do n.º 2 do artigo anterior.
 
 2 - Os produtos transformados, incluindo os resultantes do tratamento e ou transformação das matérias da categoria 1, nos termos do n.º 2 do artigo anterior, devem ser acompanhados durante o transporte pela guia de acompanhamento de subprodutos de origem animal referida no anexo III.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
 2 - Os subprodutos de origem animal referidos no Regulamento (CE) n.º [1774/2002](http://data.europa.eu/eli/reg/2002/1774/oj?locale=pt) devem ser acompanhados durante o transporte com guias de acompanhamento de subprodutos de origem animal cujos modelos constam do anexo III do presente diploma, que dele faz parte integrante.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 A colocação no mercado, como alimento simples ou como ingredientes, de farinhas obtidas a partir de mamíferos só é permitida se tiverem sido obtidas segundo as condições estabelecidas no Regulamento (CE) n.º [1774/2002](http://data.europa.eu/eli/reg/2002/1774/oj?locale=pt), nomeadamente no que se refere aos métodos de transformação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - É punido com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva, quem:
 
@@ -202,7 +220,9 @@ g) Detiver MRE de origem nacional, comunitária ou de países terceiros que não
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -234,15 +254,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.
 
-**Promulgado em 27 de Janeiro de 2006.**
+Promulgado em 27 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 2006.**
+Referendado em 27 de Janeiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Alteração aos anexos do Decreto-Lei n.º 387/98, de 4 de Dezembro, a que se refere o n.º 2 do artigo 1.º
 
@@ -298,7 +318,9 @@ f) «Estabelecimento» a unidade de armazenamento, preparação, tratamento e ou
 
 12 - O controlo dos MRE, como os subprodutos de categoria 1, é assegurado pelo médico veterinário inspector sanitário do estabelecimento.
 
-## ANEXO III — (a que se refere o n.º 2 do artigo 5.º)
+ANEXO III
+
+(a que se refere o n.º 2 do artigo 5.º)
 
 Os modelos referidos neste anexo devem ser emitidos em quadruplicado, destinando-se:
 

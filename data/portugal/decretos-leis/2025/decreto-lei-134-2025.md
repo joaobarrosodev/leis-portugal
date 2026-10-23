@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/12/24700/0007400077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/134/2025/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2025-992627246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7bdd8528804e610981f412f3c67813b957537724b43871624d9dd0dc919ae5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfcd5c82833a44ca4012a77fe16636c28782a2d45e9f95a72d100d0ac0945300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Produto Alimentar
+- Alimentação Humana
 - Aproximação das Legislações
 - Leite
-- Alimentação Humana
+- Produto Alimentar
 - Proteção do Consumidor
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:62/2017
+  label: Altera, a partir de 29 de dezembro de 2025, o artigo 1.º e os anexos xiii e xiv, do Decreto-Lei n.º 62/2017, de 9
+    de junho, Diário da República n.º 112/2017, Série I
+  source: null
+  date: '2017-06-09'
 - type: cites
   target: celex:32001L0114
   label: null
@@ -105,6 +111,14 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: pt:dre:107495709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32001L0114
   label: null
@@ -120,13 +134,13 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:30Z'
   warnings: []
   errors: []
 ---
@@ -183,15 +197,15 @@ Os produtos colocados no mercado ou rotulados antes de 14 de junho de 2026, nos 
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Rui Miguel Ladeira Pereira.
 
-**Promulgado em 11 de dezembro de 2025.**
+Promulgado em 11 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 15 de dezembro de 2025.**
+Referendado em 15 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -223,7 +237,9 @@ c) Enzimas alimentares autorizadas em conformidade com o [Regulamento (CE) n.º 
 
 d) Aditivos alimentares autorizados em conformidade com o [Regulamento (CE) n.º 1333/2008](https://data.europa.eu/eli/reg/2008/1333/oj?locale=pt) do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008.
 
-## ANEXO XIV — [a que se refere a subalínea ii) da alínea a) do artigo 23.º]
+ANEXO XIV
+
+[a que se refere a subalínea ii) da alínea a) do artigo 23.º]
 
 [...]:
 
@@ -274,3 +290,5 @@ v) A expressão checa ‘zahuštěné slazené polotučné mléko’ designa o p
 w) A expressão checa ‘sušená smetana’ designa o produto definido na alínea i) do n.º 2 do anexo xiii;
 
 x) A expressão checa ‘sušené polotučné mléko’ designa o produto definido na alínea iii) do n.º 2 do anexo xiii que contém, em massa, entre 14 % e 16 % de matéria gorda.»
+
+119919743

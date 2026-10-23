@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-1973-413059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T04:12:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4da9952d9caf665c8f7813aad7af97f3e7aecaa4c3784b82f0feeb15116dba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514d83c1bec53220644f2adc7e09f8095ebb8792e6b5cd2003697c6d09d45436
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:12:06Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +90,14 @@ Secretaria de Estado da Instrução e Cultura, 8 de Setembro de 1973. - O Secret
 
 Regulamento do Prémio Prof. Doutor Rocha Pereira
 
-###### Artigo 1.º É instituído na Faculdade de Medicina da Universidade do Porto o Prémio Prof. Doutor Rocha Pereira, constituído pelo rendimento anual da importância de 50000$00, que para o efeito foi legada pela viúva àquela Faculdade.
+Artigo 1.º É instituído na Faculdade de Medicina da Universidade do Porto o Prémio Prof. Doutor Rocha Pereira, constituído pelo rendimento anual da importância de 50000$00, que para o efeito foi legada pela viúva àquela Faculdade.
 
-###### Art. 2.º - 1. O Prémio será atribuído anualmente ao aluno mais classificado na cadeira de Clínica Médica.
+Art. 2.º - 1. O Prémio será atribuído anualmente ao aluno mais classificado na cadeira de Clínica Médica.
 
 2. Em igualdade de circunstâncias será o Prémio atribuído ao aluno com média geral mais elevada, e se ainda persistir a igualdade será distribuído em partes iguais pelos candidatos.
 
-###### Art. 3.º A indicação do aluno a quem deve ser atribuído o Prémio será feita pelo Conselho Escolar da Faculdade de Medicina da Universidade do Porto e transmitida ao reitor da Universidade.
+Art. 3.º A indicação do aluno a quem deve ser atribuído o Prémio será feita pelo Conselho Escolar da Faculdade de Medicina da Universidade do Porto e transmitida ao reitor da Universidade.
 
-###### Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
+Art. 4.º A entrega do Prémio compete ao reitor da Universidade e terá lugar, em princípio, na sessão inaugural dos trabalhos escolares do ano lectivo imediato ao da decisão do Conselho Escolar.
 
 Direcção-Geral do Ensino Superior, 8 de Setembro de 1973. - O Director-Geral, Vítor P. Crespo:

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/1999/06/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-1999-390246
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 915fe4f5b633ec46d3a68f87c357691d1bf101d08c6c45f35e60dfc8fd6470b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c40e27b5c21b5db2c4ff6de0a532299a284cddfb7ba1d527a81c14137e170f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/46/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/46/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:315338:por
+  label: "Revogado o art. 4.º do Dec Lei 391/88, de 26-Out, na redacção do presente diploma, pela LEI.30-E/2000.20.12.2000.AR,\
+    \ DR.IS-A [292]3ºSupl de 20.12.2000 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-e-2000-315338
+  date: '2000-12-20'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:26Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +156,11 @@ São alterados os artigos 4.º, 11.º, 14.º, 17.º, 19.º e 21.º do [Decreto-L
 
 3 - Os advogados, advogados estagiários e solicitadores indigitados pelo gabinete de consulta jurídica poderão igualmente requerer a nomeação prévia de patrono ao consulente, nos termos do n.º 1.
 
-###### Artigo 11.º
+Artigo 11.º
 
 Os honorários atribuídos aos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário, bem como as despesas que se revelem justificadas por eles realizadas, devidamente discriminadas e comprovadas, ou ainda outras despesas adequadas embora não documentadas, são pagos, independentemente da cobrança de custas, pelo Cofre Geral dos Tribunais, através das suas delegações junto dos tribunais em que os serviços hajam sido prestados.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Nos casos restantes, o advogado, advogado estagiário ou solicitador deve apresentar no final da audiência de julgamento a sua nota de honorários e despesas realizadas; quando a sentença não seja proferida na audiência de julgamento, a nota de honorários deve ser apresentada no prazo de 10 dias a contar da sua notificação.
 
@@ -142,7 +168,7 @@ Os honorários atribuídos aos advogados, advogados estagiários e solicitadores
 
 3 - Quando tal se justificar, nomeadamente pela complexidade de processos de previsível duração de audiências, e seja requerido, poderá ser abonado ao patrono oficioso um adiantamento, na fase inicial ou no decurso do processo, a título de provisão para despesas e honorários, o qual deverá ser levado em conta na nota final de honorários.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - ...
 
@@ -150,11 +176,11 @@ Os honorários atribuídos aos advogados, advogados estagiários e solicitadores
 
 3 - O atraso na efectivação do pagamento de honorários e despesas que seja imputável aos serviços do Estado não pode eximir este do pagamento com fundamento em prescrição presuntiva.
 
-###### Artigo 19.º
+Artigo 19.º
 
 Na falta de disposição especial, é de 10 dias o prazo para o exercício de qualquer poder processual relacionado com o presente regime de apoio judiciário.
 
-###### Artigo 21.º
+Artigo 21.º
 
 1 - Sem prejuízo do disposto no número seguinte, o pagamento dos honorários e o reembolso das despesas de serviços prestados, no âmbito de aplicação do presente diploma, determinam a inaplicabilidade do disposto nos artigos 33.º, 40.º, 41.º, 42.º e 89.º, n.º 1, alínea b), do Código das Custas Judiciais.
 
@@ -174,15 +200,15 @@ O presente diploma aplica-se aos processos pendentes à data da sua entrada em v
 
 Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
 
-**Promulgado em 20 de Maio de 1999.**
+Promulgado em 20 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 1999.**
+Referendado em 25 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 TABELA ANEXA
 

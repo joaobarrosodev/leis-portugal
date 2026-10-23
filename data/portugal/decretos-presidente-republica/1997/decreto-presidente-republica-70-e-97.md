@@ -30,7 +30,7 @@ publication:
   reference: Diário da República n.º 275/1997, 1º Suplemento, Série I-A de 1997-11-27
   number: '275'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6400-(2) a 6400-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/11/275a01/00020003.pdf
 entry_into_force_dates: []
@@ -57,18 +57,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/70-e/1997/11/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/70-e-1997-158002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c552c9da39de90e6a6334eff3c0b6b6b339e339baf4f88ec2e80c304bed833ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5125c55ae40bb8228516bf1e2901ba1cadef92548c140c9220d41b359b7e83ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,31 +77,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo XIII
-- Secretário de Estado da Administração Interna
-- Secretário de Estado do Turismo
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Secretário de Estado da Saúde
-- Secretário de Estado do Ambiente
 - Nomeação
 - Secretário de Estado
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro do Ambiente
+- Secretário de Estado da Administração Interna
 - Secretário de Estado da Indústria e Energia
 - Secretário de Estado da Inserção Social
 - Secretário de Estado da Juventude
+- Secretário de Estado da Saúde
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio
 - Secretário de Estado do Desenvolvimento Regional
-relationships: []
+- Secretário de Estado do Turismo
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+relationships:
+- type: corrected_by
+  target: pt:dre:305440:por
+  label: "Rectificado pelo DECL-RECT.21-B/97.1997.11.27.PR, DR.IS-A [277]-2ºSupl de 29/Nov/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-b-1997-305440
+  date: '1997-11-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:26Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +115,7 @@ validation:
 
 de 27 de Novembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -144,12 +149,12 @@ O Prof. Doutor José Ângelo Guerreiro da Silva Secretário de Estado do Ambient
 
 O Dr. Luís Miguel de Oliveira Fontes Secretário de Estado da Juventude.
 
-**Assinado em 26 de Novembro de 1997.**
+Assinado em 26 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Novembro de 1997.**
+Referendado em 26 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

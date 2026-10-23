@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/18/1998/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1998-437794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:25:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62b0eb5eaf5e308fd12679b2aae3effc4bcf65c050062f04203556108a3a1250
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f8399a25f6511ffb6282f6fb30be37f053e3004f51e80c3ac27030a534b728b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:25:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
 - Carreira Profissional
 - Instituições de Previdência Social
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Regime Jurídico
+- Sistema Retributivo
 - Trabalhador das Instituições de Previdência
 relationships:
 - type: cites
@@ -101,16 +101,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/773/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/773/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:157052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 127
+  article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:25:16Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +247,9 @@ Os artigos da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/por
 
 3 - Os trabalhadores que, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, optaram pela manutenção do seu regime de trabalho continuam abrangidos pelo disposto no presente diploma.
 
-###### Artigo 7.º-A — Estruturação dos quadros de pessoal
+Artigo 7.º-A
+
+Estruturação dos quadros de pessoal
 
 1 - Os quadros devem ser estruturados agrupando o pessoal em:
 
@@ -171,7 +273,9 @@ g) Pessoal auxiliar.
 
 4 - Enquanto não for implantado o sistema de fixação de quadros de pessoal estabelecido para a função pública, o qual se aplicará aos quadros de pessoal das instituições abrangidas pela presente portaria, o quadro de pessoal de informática será estruturado com dotações globais, com excepção das categorias de assessor informático principal, assessor informático e operador de sistema-chefe, que não integram as referidas dotações.
 
-###### Artigo 8.º — Categorias
+Artigo 8.º
+
+Categorias
 
 As categorias do pessoal abrangido por esta portaria são as seguintes:
 
@@ -681,7 +785,9 @@ Cozinheiro.
 
 (nota c) Lugares a extinguir quando aos respectivos concursos de provimento não concorra qualquer trabalhador em condições de neles ser provido, de acordo com as regras estabelecidas na presente portaria.
 
-###### Artigo 13.º — Exame médico
+Artigo 13.º
+
+Exame médico
 
 1 - ...
 
@@ -697,7 +803,9 @@ Cozinheiro.
 
 7 - O resultado do exame médico será comunicado ao competente serviço do ministério da tutela.
 
-###### Artigo 14.º — Pedidos de visto e comunicação mensal de alterações
+Artigo 14.º
+
+Pedidos de visto e comunicação mensal de alterações
 
 1 - Todo e qualquer movimento de pessoal, designadamente admissões, promoções, transferências, exonerações, bem como a informação da realização de concursos de provimento de vagas, tem de ser comunicado ao serviço referido no n.º 7 do artigo anterior, para efeitos de visto, sem o que aqueles actos serão considerados nulos e de nenhum efeito.
 
@@ -705,17 +813,23 @@ Cozinheiro.
 
 3 - ...
 
-###### Artigo 16.º — Nomeação
+Artigo 16.º
+
+Nomeação
 
 A nomeação para o preenchimento dos lugares dos quadros de pessoal das instituições abrangidas por este diploma é da competência dos respectivos órgãos gestores.
 
-###### Artigo 16.º-A — Pessoal dirigente
+Artigo 16.º-A
+
+Pessoal dirigente
 
 1 - O pessoal dirigente é provido em comissão de serviço.
 
 2 - O recrutamento, o provimento e a substituição do pessoal dirigente, bem como a suspensão e a cessação das respectivas comissões de serviço, obedecem ao regime da função pública, salvo quanto à competência nele prevista, que, relativamente ao pessoal abrangido por este diploma, é do órgão gestor da instituição.
 
-###### Artigo 17.º — Instrumentos de mobilidade
+Artigo 17.º
+
+Instrumentos de mobilidade
 
 1 - O preenchimento de vagas em qualquer das categorias previstas nesta portaria, à excepção das de director de serviços e chefe de divisão, é feito através de um dos seguintes instrumentos de mobilidade:
 
@@ -729,7 +843,9 @@ d) A deslocação.
 
 2 - Caso não seja possível o preenchimento das vagas nos termos do número anterior e sempre que tal se revele indispensável ao normal funcionamento das instituições, poderão os respectivos órgãos gestores propor ao membro do Governo da tutela o destacamento ou a requisição de trabalhadores dos serviços ou organismos da Administração Pública, de acordo com o regime previsto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, com as necessárias adaptações.
 
-###### Artigo 18.º — Provimento de lugares
+Artigo 18.º
+
+Provimento de lugares
 
 1 - O provimento dos lugares é feito por ordem de classificação dos candidatos aprovados em concurso, quando este for o instrumento de mobilidade utilizado, produzindo efeitos, obtido o visto, nos seguintes termos:
 
@@ -751,13 +867,17 @@ d) Subsistindo a igualdade, preferirá o candidato da instituição onde a vaga 
 
 3 - Compete ao órgão gestor ou ao júri dos concursos estabelecer critérios de desempate sempre que se verifique igualdade de classificação nos concursos externos e, bem assim, se após a aplicação dos critérios referidos no número anterior subsistir a igualdade.
 
-###### Artigo 18.º-A — Classificação de serviço
+Artigo 18.º-A
+
+Classificação de serviço
 
 1 - O acesso a categoria superior é condicionado a classificação de serviço não inferior a Bom.
 
 2 - Para efeitos de promoção nas carreiras, as menções qualitativas relevantes em cada situação poderão ser interpoladas, mas serão necessariamente em número igual ao dos anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria anterior, não podendo a última menção atribuída ser inferior à menção mínima requerida em cada situação.
 
-###### Artigo 18.º-B — Intercomunicabilidade de carreiras
+Artigo 18.º-B
+
+Intercomunicabilidade de carreiras
 
 1 - Quaisquer trabalhadores de posse das habilitações literárias exigidas podem candidatar-se a lugares de acesso de carreiras de um quadro de pessoal diferente, desde que:
 
@@ -769,7 +889,9 @@ b) Se trate de carreiras inseridas na mesma área funcional.
 
 3 - O recrutamento e selecção na situação prevista no número anterior far-se-á de acordo com o disposto nos artigos 83.º a 85.º
 
-###### Artigo 19.º — Transferência
+Artigo 19.º
+
+Transferência
 
 1 - A transferência é a mudança do trabalhador para lugar de quadro de outra instituição abrangida pela presente portaria.
 
@@ -783,7 +905,9 @@ b) Afinidade de conteúdo funcional, quando a natureza e complexidade das tarefa
 
 4 - A transferência só se poderá efectuar se houver acordo do órgão gestor da instituição de origem do trabalhador.
 
-###### Artigo 20.º — Permuta
+Artigo 20.º
+
+Permuta
 
 1 - A permuta é a nomeação recíproca e simultânea de trabalhadores pertencentes a quadros de pessoal de instituições diversas abrangidas pelo presente diploma.
 
@@ -797,7 +921,9 @@ b) Que sejam respeitados os requisitos habilitacionais de cada carreira;
 
 c) Que os índices correspondentes ao escalão 1 de cada categoria sejam iguais.
 
-###### Artigo 21.º — Deslocação
+Artigo 21.º
+
+Deslocação
 
 1 - Quando numa das instituições abrangidas pelo presente diploma se verifique uma situação de desadequação ou de insuficiência de pessoal e noutra dessas instituições houver pessoal desadequado, transitoriamente subocupado, podem os órgãos gestores das mesmas propor a deslocação do pessoal necessário, com ou sem reciprocidade.
 
@@ -807,7 +933,9 @@ c) Que os índices correspondentes ao escalão 1 de cada categoria sejam iguais.
 
 4 - A deslocação não prejudica quaisquer direitos ou regalias dos trabalhadores deslocados.
 
-###### Artigo 22.º — Readmissão de trabalhadores pensionistas de invalidez considerados aptos
+Artigo 22.º
+
+Readmissão de trabalhadores pensionistas de invalidez considerados aptos
 
 1 - Sempre que os trabalhadores que hajam sido dados como inválidos sejam considerados aptos em junta médica de revisão, serão readmitidos na categoria e com a antiguidade que tinham à data da verificação da invalidez.
 
@@ -815,11 +943,15 @@ c) Que os índices correspondentes ao escalão 1 de cada categoria sejam iguais.
 
 3 - Tendo sido extinta a instituição em que o trabalhador prestava serviço, o mesmo será colocado no quadro do centro regional de segurança social em que aquela foi integrada, ou extraquadro, até que se verifique vaga da sua categoria, contando-se o prazo previsto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, a partir da data do reinício de funções, para os efeitos nele previstos.
 
-###### Artigo 23.º — Recrutamento de directores de serviços e chefes de divisão
+Artigo 23.º
+
+Recrutamento de directores de serviços e chefes de divisão
 
 O recrutamento para os cargos de director de serviços e chefe de divisão obedece ao disposto na lei para idênticos cargos da função pública.
 
-###### Artigo 24.º — Chefes de repartição
+Artigo 24.º
+
+Chefes de repartição
 
 1 - O recrutamento dos chefes de repartição far-se-á, mediante concurso, de entre:
 
@@ -829,11 +961,15 @@ b) Indivíduos possuidores de curso superior e adequada experiência profissiona
 
 2 - Os actuais lugares de chefe de repartição que não tenham correspondência em unidades orgânicas são extintos à medida que vagarem.
 
-###### Artigo 25.º — Chefes de secção
+Artigo 25.º
+
+Chefes de secção
 
 Os lugares de chefe de secção são providos de entre oficiais administrativos principais.
 
-###### Artigo 26.º — Oficiais administrativos
+Artigo 26.º
+
+Oficiais administrativos
 
 1 - Os lugares de oficial administrativo principal, de primeiro-oficial e de segundo-oficial são providos, respectivamente, de entre primeiros-oficiais, segundos-oficiais e terceiros-oficiais com, pelo menos, três anos de serviço na categoria classificados, no mínimo, de Bom.
 
@@ -841,7 +977,9 @@ Os lugares de chefe de secção são providos de entre oficiais administrativos 
 
 3 - O concurso para terceiro-oficial incluirá uma prova de dactilografia ou tratamento de texto e abrangerá obrigatoriamente como método de selecção uma prova de conhecimentos gerais e uma prova de conhecimentos específicos, cada uma delas eliminatória de per si, provas essas que poderão ser complementadas com uma entrevista profissional de selecção nos casos em que a instituição interessada o considere conveniente.
 
-###### Artigo 28.º — Técnicos superiores de contabilidade e gestão financeira
+Artigo 28.º
+
+Técnicos superiores de contabilidade e gestão financeira
 
 1 - Os lugares de assessor principal são providos de entre assessores de contabilidade e gestão financeira com um mínimo de três anos de serviço na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -853,7 +991,9 @@ Os lugares de chefe de secção são providos de entre oficiais administrativos 
 
 5 - Os lugares de técnico superior de 2.ª classe de contabilidade e gestão financeira são providos de entre indivíduos habilitados com licenciatura em curso superior adequado, aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 29.º — Técnicos de contabilidade e administração
+Artigo 29.º
+
+Técnicos de contabilidade e administração
 
 1 - Os lugares de técnico especialista principal e técnico especialista de contabilidade e administração são providos de entre, respectivamente, técnicos especialistas e técnicos principais de contabilidade e administração com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -861,7 +1001,9 @@ Os lugares de chefe de secção são providos de entre oficiais administrativos 
 
 3 - Os lugares de técnico de 2.ª classe de contabilidade e administração são providos em indivíduos habilitados com curso superior da especialidade que não confira o grau de licenciatura, aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 31.º — Técnicos superiores de serviços jurídicos e de contencioso
+Artigo 31.º
+
+Técnicos superiores de serviços jurídicos e de contencioso
 
 1 - Os lugares de assessor principal de serviços jurídicos e de contencioso são providos de entre assessores de serviços jurídicos e de contencioso com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco classificados de Bom.
 
@@ -871,7 +1013,9 @@ Os lugares de chefe de secção são providos de entre oficiais administrativos 
 
 4 - Os lugares de técnico superior de 2.ª classe de serviços jurídicos e de contencioso são providos de entre indivíduos licenciados em Direito, aprovados em estágio com classificação não inferior a Bom (14 valores), gozando de preferência os que se encontrem qualificados para o exercício da advocacia.
 
-###### Artigo 33.º — Técnicos superiores de estatística, organização, planeamento e documentação
+Artigo 33.º
+
+Técnicos superiores de estatística, organização, planeamento e documentação
 
 1 - Os lugares de assessor principal de estatística, organização, planeamento e documentação são providos de entre assessores de estatística, organização, planeamento e documentação com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -881,7 +1025,9 @@ Os lugares de chefe de secção são providos de entre oficiais administrativos 
 
 4 - Os lugares de técnico superior de 2.ª classe de estatística, organização, planeamento e documentação são providos de entre indivíduos habilitados com licenciatura em curso superior adequado, aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 35.º — Operadores de sistema
+Artigo 35.º
+
+Operadores de sistema
 
 1 - Os lugares de operador de sistema-chefe são providos de entre operadores de sistema principais com, pelo menos, dois anos de serviço na categoria classificados de Muito bom ou três anos classificados de Bom e, em qualquer dos casos, formação complementar em informática.
 
@@ -897,7 +1043,9 @@ b) 12.º ano, via profissionalizante, da área de informática;
 
 c) Curso complementar do ensino secundário e formação profissional em informática adequada ao conteúdo funcional do cargo a prover.
 
-###### Artigo 52.º — Técnicos superiores de tradução e correspondência estrangeira
+Artigo 52.º
+
+Técnicos superiores de tradução e correspondência estrangeira
 
 1 - Os lugares de assessor principal de tradução e correspondência estrangeira são providos de entre assessores de tradução e correspondência estrangeira com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -907,7 +1055,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 4 - Os lugares de técnico superior de 2.ª classe de tradução e correspondência estrangeira são providos de entre indivíduos habilitados com licenciatura em curso superior adequado aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 53.º — Técnicos-adjuntos de tradução e correspondência estrangeira
+Artigo 53.º
+
+Técnicos-adjuntos de tradução e correspondência estrangeira
 
 1 - Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista de tradução e correspondência estrangeira são providos de entre, respectivamente, técnicos-adjuntos especialistas e técnicos-adjuntos principais de tradução e correspondência estrangeira com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -915,7 +1065,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 3 - Os lugares de técnico-adjunto de 2.ª classe de tradução e correspondência estrangeira são providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente e conhecimentos profundos de dois idiomas estrangeiros, comprovados mediante a realização de provas.
 
-###### Artigo 56.º — Técnicos superiores de prevenção
+Artigo 56.º
+
+Técnicos superiores de prevenção
 
 1 - Os lugares de assessor principal de prevenção são providos de entre assessores de prevenção com um mínimo de três anos na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -927,7 +1079,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 5 - Os lugares de técnico superior de 2.ª classe de prevenção são providos de entre indivíduos habilitados com licenciatura em curso superior adequado, após estágio de duração não inferior a um ano no Laboratório de Avaliação de Riscos, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 57.º — Técnicos superiores analistas
+Artigo 57.º
+
+Técnicos superiores analistas
 
 1 - Os lugares de assessor principal analista são providos de entre assessores analistas com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -939,7 +1093,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 5 - Os lugares de técnico superior de 2.ª classe analista são providos de entre indivíduos habilitados com licenciatura em curso superior adequado, após estágio de duração não inferior a um ano no Laboratório de Avaliação de Riscos, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 58.º — Prevencionistas
+Artigo 58.º
+
+Prevencionistas
 
 1 - Os lugares de prevencionista especialista principal e especialista são providos, respectivamente, de entre prevencionistas especialistas e principais com um mínimo de três anos na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -947,7 +1103,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 3 - Os lugares de prevencionista de 2.ª classe são providos por indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura, aprovados em estágio de duração não inferior a um ano no Laboratório de Avaliação de Riscos, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 59.º — Analistas
+Artigo 59.º
+
+Analistas
 
 1 - Os lugares de analistas especialista principal e especialista são providos, respectivamente, de entre analistas especialistas e principais com um mínimo de três anos de serviço na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -955,19 +1113,25 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 3 - Os lugares de analista de 2.ª classe são providos por indivíduos bacharelados com o curso de Química Laboratorial, aprovados em estágio de duração não interior a um ano no Laboratório de Avaliação de Riscos, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 60.º — Técnicos auxiliares prevencionistas
+Artigo 60.º
+
+Técnicos auxiliares prevencionistas
 
 1 - Os lugares de técnicos auxiliares especialista, principal e de 1.ª classe prevencionistas são providos, respectivamente, de entre técnicos auxiliares principais e de 1.ª e de 2.ª classes prevencionistas com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe prevencionista são providos em indivíduos habilitados com o curso geral do ensino secundário ou equivalente e as disciplinas de Física, Química e Matemática do curso complementar, após estágio de seis meses a um ano no Laboratório de Avaliação de Riscos.
 
-###### Artigo 61.º — Técnicos auxiliares de laboratório
+Artigo 61.º
+
+Técnicos auxiliares de laboratório
 
 1 - Os lugares de técnicos auxiliares especialista, principal e de 1.ª classe de laboratório são providos, respectivamente, de entre técnicos auxiliares principais e de 1.ª e de 2.ª classes de laboratório com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe de laboratório são providos em indivíduos habilitados com o curso geral do ensino secundário ou equivalente e as disciplinas de Física, Química e Matemática do curso complementar, após estágio de seis meses a um ano no Laboratório de Avaliação de Riscos.
 
-###### Artigo 63.º-B — Engenheiros
+Artigo 63.º-B
+
+Engenheiros
 
 1 - Os lugares de assessor principal engenheiro são providos de entre assessores engenheiros com um mínimo de três anos de serviço na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -979,7 +1143,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 5 - Os lugares de engenheiro de 2.ª classe são providos por indivíduos habilitados com licenciatura em engenharia adequada à natureza específica das funções a desempenhar, mediante aprovação em estágio, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 63.º-C — Arquitectos
+Artigo 63.º-C
+
+Arquitectos
 
 1 - Os lugares de assessor principal arquitecto são providos de entre assessores arquitectos com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -989,7 +1155,9 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 4 - Os lugares de arquitecto de 2.ª classe são providos de entre indivíduos habilitados com licenciatura em Arquitectura mediante aprovação em estágio, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 63.º-D — Engenheiros técnicos
+Artigo 63.º-D
+
+Engenheiros técnicos
 
 1 - Os lugares de engenheiros técnicos especialista principal e especialista são providos, respectivamente, de entre engenheiros técnicos especialistas e principais com um mínimo de três anos de serviço na categoria classificados de Muito bom ou de cinco anos classificados de Bom.
 
@@ -997,11 +1165,15 @@ c) Curso complementar do ensino secundário e formação profissional em inform�
 
 3 - Os lugares de engenheiro técnico de 2.ª classe são providos de entre indivíduos bacharelados com o curso superior de engenharia adequado à natureza específica das funções que irão desempenhar, mediante aprovação em estágio, com classificação não inferior a Bom (14 valores).
 
-###### Artigo 63.º-E — Técnicos-adjuntos
+Artigo 63.º-E
+
+Técnicos-adjuntos
 
 Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são providos, respectivamente, de entre técnicos-adjuntos especialistas e principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
-###### Artigo 63.º-F — Topógrafos
+Artigo 63.º-F
+
+Topógrafos
 
 1 - Os lugares de topógrafos especialista de 1.ª classe e especialista são providos, respectivamente, de entre topógrafos especialistas e principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -1009,7 +1181,9 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 3 - Os lugares de topógrafo de 2.ª classe são providos de entre diplomados com curso técnico-profissional adequado de duração não inferior a três anos, para além de nove anos de escolaridade.
 
-###### Artigo 63.º-G — Fiscais técnicos de obras
+Artigo 63.º-G
+
+Fiscais técnicos de obras
 
 1 - Os lugares de fiscais técnicos de obras especialista de 1.ª classe e especialista são providos, respectivamente, de entre fiscais técnicos de obras especialistas e principais com um mínimo de três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -1017,7 +1191,9 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 3 - Os lugares de fiscal técnico de obras de 2.ª classe são providos de entre diplomados com curso de formação técnico-profissional adequado, com duração não inferior a três anos, para além de nove anos de escolaridade.
 
-###### Artigo 63.º-H — Desenhadores
+Artigo 63.º-H
+
+Desenhadores
 
 1 - Os lugares de desenhadores especialista de 1.ª classe e especialista são providos de entre, respectivamente, desenhadores especialistas e principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -1025,7 +1201,9 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 3 - Os lugares de desenhador de 2.ª classe são providos de entre diplomados com curso de formação técnico-profissional adequado de duração não inferior a três anos, para além de nove anos de escolaridade.
 
-###### Artigo 65.º — Técnicos de serviço social
+Artigo 65.º
+
+Técnicos de serviço social
 
 1 - Os lugares de técnicos especialista principal e especialista de serviço social são providos de entre, respectivamente, técnicos especialistas e principais de serviço social com, pelo menos, três anos de serviço na categoria classificados de Muito Bom ou cinco anos classificados de Bom.
 
@@ -1035,25 +1213,33 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 4 - Os lugares de técnico de 2.ª classe de serviço social são providos por indivíduos habilitados com o curso superior de Serviço Social aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 67.º — Técnicos de microfilmagem
+Artigo 67.º
+
+Técnicos de microfilmagem
 
 1 - Os lugares de técnicos especialista principal e especialista de microfilmagem são providos de entre, respectivamente, técnicos especialistas e principais de microfilmagem com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
 2 - Os lugares de técnicos principal e de 1.ª classe de microfilmagem são providos de entre, respectivamente, técnicos de 1.ª e de 2.ª classes de microfilmagem com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-###### Artigo 68.º — Operadores de microfilmagem
+Artigo 68.º
+
+Operadores de microfilmagem
 
 1 - Os lugares de operadores de microfilmagem especialista, principal e de 1.ª classe são providos de entre, respectivamente, operadores de microfilmagem principais e de 1.ª e de 2.ª classes com um mínimo de três anos na categoria classificados de Bom.
 
 2 - Os lugares de operador de microfilmagem de 2.ª classe são providos de entre diplomados com curso de formação profissional adequado com duração não inferior a 18 meses, para além de nove anos de escolaridade, ou habilitados com o 11.º ano ou equivalente.
 
-###### Artigo 69.º — Técnicos de reprografia
+Artigo 69.º
+
+Técnicos de reprografia
 
 1 - Os lugares de técnicos especialista principal e especialista de reprografia são providos de entre, respectivamente, técnicos especialistas e principais de reprografia com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
 2 - Os lugares de técnicos principal e de 1.ª classe de reprografia são providos de entre, respectivamente, técnicos de 1.ª e de 2.ª classes de reprografia com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-###### Artigo 70.º — Desenhador
+Artigo 70.º
+
+Desenhador
 
 1 - Os lugares de desenhadores especialista de 1.ª classe e especialista são providos de entre, respectivamente, desenhadores especialistas e principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -1061,13 +1247,17 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 3 - Os lugares de desenhadores de 2.ª classe são providos por diplomados com curso de formação técnico-profissional de duração não inferior a três anos, para além de nove anos de escolaridade.
 
-###### Artigo 71.º — Compositores
+Artigo 71.º
+
+Compositores
 
 1 - Os lugares de compositores especialista, principal e de 1.ª classe são providos de entre, respectivamente, compositores principais e de 1.ª e de 2.ª classes com um mínimo de três anos na categoria classificados de Bom.
 
 2 - Os lugares de compositor de 2.ª classe são providos de entre diplomados com curso de formação profissional adequado com duração não inferior a 18 meses, para além de nove anos de escolaridade, ou habilitados com o 11.º ano ou equivalente.
 
-###### Artigo 74.º — Espirometristas, audiometristas e radiologistas
+Artigo 74.º
+
+Espirometristas, audiometristas e radiologistas
 
 1 - Os lugares de espirometrista, audiometrista e radiologista especialistas de 1.ª classe são providos de entre espirometristas, audiometristas e radiologistas especialistas com, pelo menos, três anos de bom e efectivo serviço mediante concurso de provas públicas, que incluirá avaliação curricular, complementada com a apresentação, para discussão, de uma monografia elaborada para o efeito.
 
@@ -1079,25 +1269,35 @@ Os lugares de técnicos-adjuntos especialista de 1.ª classe e especialista são
 
 5 - O ingresso nas carreiras de espirometrista, audiometrista e radiologista faz-se pela 2.ª classe, de acordo com o regime estabelecido para os técnicos de diagnóstico e terapêutica da função pública.
 
-###### Artigo 77.º — Educadores de infância
+Artigo 77.º
+
+Educadores de infância
 
 A carreira de educador de infância rege-se pelo Estatuto da Carreira dos Educadores de Infância e dos Professores do Ensino Básico e Secundário, com as adaptações que vigorarem para o ministério da tutela.
 
-###### Artigo 79. — Ajudante de creche e jardim-de-infância
+Artigo 79.
+
+Ajudante de creche e jardim-de-infância
 
 O ingresso na carreira de ajudante de creche e jardim-de-infância é condicionado à posse da escolaridade obrigatória.
 
-###### Artigo 80.º — Fiscais administrativos
+Artigo 80.º
+
+Fiscais administrativos
 
 Os lugares de fiscais administrativos especialista, principal e de 1.ª classe são providos de entre, respectivamente, fiscais administrativos principais e de 1.ª e de 2.ª classes com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-###### Artigo 81.º — Pessoal auxiliar
+Artigo 81.º
+
+Pessoal auxiliar
 
 1 - O ingresso nas carreiras do quadro de pessoal auxiliar é condicionado à posse da escolaridade obrigatória.
 
 2 - O ingresso na carreira de motorista de ligeiros está, ainda, condicionado à posse de carta de condução.
 
-###### Artigo 82.º — Pessoal operário
+Artigo 82.º
+
+Pessoal operário
 
 1 - ...
 
@@ -1115,7 +1315,9 @@ Os lugares de fiscais administrativos especialista, principal e de 1.ª classe s
 
 8 - O recrutamento para a categoria de operário principal das carreiras de pessoal qualificado e semiqualificado faz-se de entre operários das respectivas carreiras posicionados no 3.º escalão ou superior.
 
-###### Artigo 83.º — Processo do concurso de habilitação
+Artigo 83.º
+
+Processo do concurso de habilitação
 
 1 - Ao concurso de habilitação são aplicáveis as normas de regulamentação do processo de concurso comum que não contrariem o disposto na presente secção.
 
@@ -1137,25 +1339,35 @@ g) Os programas das provas referentes a cada uma das categorias abrangidas pelo 
 
 h) Será centralizado no serviço referido no n.º 7 do artigo 13.º deste diploma, que prestará aos júris o apoio técnico necessário.
 
-###### Artigo 84.º — Habilitação
+Artigo 84.º
+
+Habilitação
 
 Os trabalhadores aprovados em concurso de habilitação, quer aberto nos termos previstos neste diploma, quer aberto para o departamento ministerial da tutela ou outro, neste caso com igual programa de provas, ficam aptos a candidatar-se aos concursos abertos para provimento de lugares referentes às categorias em relação às quais se encontram habilitados.
 
-###### Artigo 85.º — Quota para opositores com concurso de habilitação
+Artigo 85.º
+
+Quota para opositores com concurso de habilitação
 
 1 - O número de lugares a prover por pessoal habilitado nos termos do presente diploma não pode ultrapassar a quota a fixar, em cada caso, no respectivo aviso de abertura de concurso, atento o aproveitamento racional dos recursos humanos e as necessidades do serviço.
 
 2 - Nos concursos em que sejam simultaneamente opositores candidatos possuidores de habilitação e candidatos habilitados nos termos do artigo anterior será a classificação final de uns e outros fixada em listas próprias.
 
-###### Artigo 93.º — Formação profissional
+Artigo 93.º
+
+Formação profissional
 
 O conteúdo curricular, o sistema de funcionamento e os critérios de avaliação dos cursos de formação exigidos para provimento nas categorias das carreiras de pessoal de informática serão os definidos para idênticas categorias da função pública.
 
-###### Artigo 98.º — Duração semanal do trabalho
+Artigo 98.º
+
+Duração semanal do trabalho
 
 Os trabalhadores abrangidos por este diploma prestarão, de segunda-feira a sexta-feira, o número de horas de trabalho semanal fixado para os funcionários públicos.
 
-###### Artigo 99.º — Horário de trabalho
+Artigo 99.º
+
+Horário de trabalho
 
 1 - Os horários de trabalho são fixados pelo órgão gestor da instituição, tendo em conta o período de funcionamento da mesma e a duração semanal de cada grupo profissional, devendo o período diário de trabalho ser interrompido por um intervalo de duração não inferior a uma hora, de modo que os trabalhadores não prestem mais de cinco horas de trabalho consecutivo.
 
@@ -1167,7 +1379,9 @@ Os trabalhadores abrangidos por este diploma prestarão, de segunda-feira a sext
 
 5 - Os trabalhadores-estudantes e os trabalhadores com filhos, adoptandos, adoptados ou enteados a cargo, com idade inferior a 12 anos ou que sejam deficientes e se encontrem em alguma das situações previstas no artigo 21.º do [Decreto-Lei n.º 133-B/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-b-1997-158179), de 30 de Maio, poderão requerer os horários específicos previstos no regime da função pública.
 
-###### Artigo 101.º — Trabalho por turnos
+Artigo 101.º
+
+Trabalho por turnos
 
 1 - A realização de trabalho por turnos depende de autorização do membro do Governo da tutela.
 
@@ -1179,15 +1393,21 @@ Os trabalhadores abrangidos por este diploma prestarão, de segunda-feira a sext
 
 5 - Os turnos são obrigatoriamente rotativos, por períodos a fixar pelo órgão gestor da instituição.
 
-###### Artigo 103.º — Assiduidade e pontualidade
+Artigo 103.º
+
+Assiduidade e pontualidade
 
 Os trabalhadores devem comparecer à hora fixada para o início de cada período de trabalho no respectivo serviço, não podendo ausentar-se antes do seu termo sem autorização do imediato superior hierárquico.
 
-###### Artigo 104.º — Descanso semanal
+Artigo 104.º
+
+Descanso semanal
 
 Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido de um dia de descanso complementar, que são o domingo e o sábado, respectivamente.
 
-###### Artigo 106.º — Duração das férias
+Artigo 106.º
+
+Duração das férias
 
 1 - Todos os trabalhadores têm direito a férias, em cada ano civil, nos termos do que vigora para a função pública, sem prejuízo do estabelecido neste diploma.
 
@@ -1197,7 +1417,9 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 4 - Durante as férias não pode ser exercida qualquer actividade remunerada, salvo se a mesma já viesse a ser exercida.
 
-###### Artigo 107.º — Acumulação de férias
+Artigo 107.º
+
+Acumulação de férias
 
 1 - Salvo os casos previstos neste diploma, as férias devem ser gozadas no decurso do ano civil em que se vencem.
 
@@ -1205,13 +1427,17 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 3 - No caso de acumulação de férias por conveniência de serviço, o trabalhador não pode, salvo acordo nesse sentido, ser impedido de gozar metade dos dias de férias a que tiver direito no ano a que as mesmas se reportam.
 
-###### Artigo 109.º — Férias seguidas ou interpoladas
+Artigo 109.º
+
+Férias seguidas ou interpoladas
 
 1 - As férias devem ser gozadas seguida ou interpoladamente, não podendo um dos períodos ser inferior a metade dos dias de férias a que o trabalhador tenha direito.
 
 2 - Sem prejuízo dos casos de conveniência de serviço devidamente fundamentada, não pode ser imposto ao trabalhador o gozo interpolado das férias a que tem direito.
 
-###### Artigo 110.º — Subsídio de férias
+Artigo 110.º
+
+Subsídio de férias
 
 1 - Durante o período de férias, o trabalhador é abonado das remunerações a que teria direito se se encontrasse em serviço efectivo, à excepção do subsídio de refeição.
 
@@ -1219,7 +1445,9 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 3 - Se houver lugar a antecipação de férias nos termos do artigo 106.º, a parte correspondente do respectivo subsídio será abonada no mês seguinte àquele em que o trabalhador adquirir o direito ao gozo do período de férias por antecipação.
 
-###### Artigo 111.º — Suspensão e alteração do gozo de férias
+Artigo 111.º
+
+Suspensão e alteração do gozo de férias
 
 1 - ...
 
@@ -1227,7 +1455,9 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 3 - Verificado o disposto na parte final do n.º 1 e sempre que o trabalhador não possa gozar, no respectivo ano civil, a totalidade ou parte das férias já vencidas, poderão as mesmas ser gozadas até ao termo do ano civil imediato.
 
-###### Artigo 114.º — Licença sem retribuição
+Artigo 114.º
+
+Licença sem retribuição
 
 1 - ...
 
@@ -1235,7 +1465,9 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 3 - ...
 
-###### Artigo 115.º — Definição
+Artigo 115.º
+
+Definição
 
 1 - Falta é a ausência durante um período igual ou inferior a um dia de trabalho, bem como a não comparência em local a que o trabalhador deva deslocar-se por motivo de serviço.
 
@@ -1243,7 +1475,9 @@ Os trabalhadores têm direito, em regra, a um dia de descanso semanal, acrescido
 
 3 - As faltas podem ser justificadas ou injustificadas.
 
-###### Artigo 116.º — Faltas justificadas
+Artigo 116.º
+
+Faltas justificadas
 
 1 - ...
 
@@ -1273,25 +1507,33 @@ l) Motivadas por isolamento profiláctico, nos termos da legislação da funçã
 
 3 - ...
 
-###### Artigo 117.º — Consequências das faltas justificadas
+Artigo 117.º
+
+Consequências das faltas justificadas
 
 1 - ...
 
 2 - Exceptuadas as faltas dadas por motivo de doença ou acidente e as previstas na alínea i) do artigo anterior, as indicadas nas restantes alíneas não determinam perda de retribuição.
 
-###### Artigo 118.º — Faltas a descontar na retribuição ou nas férias
+Artigo 118.º
+
+Faltas a descontar na retribuição ou nas férias
 
 1 - Em caso de alegada conveniência poderão os trabalhadores faltar ao serviço até dois dias seguidos ou interpolados por mês.
 
 2 - As faltas dadas nos termos do número anterior serão descontadas na retribuição ou nas férias do próprio ano ou nas do seguinte, à escolha do trabalhador, à razão de uma falta por cada dia de férias, salvaguardando sempre o mínimo de oito dias úteis de férias por ano.
 
-###### Artigo 126.º — Remuneração do trabalho prestado em dia de descanso semanal, complementar ou feriado
+Artigo 126.º
+
+Remuneração do trabalho prestado em dia de descanso semanal, complementar ou feriado
 
 1 - A remuneração do trabalho prestado em dia de descanso semanal, complementar ou feriado é igual à retribuição normal acrescida de 100%.
 
 2 - ...
 
-###### Artigo 127.º — Trabalho nocturno
+Artigo 127.º
+
+Trabalho nocturno
 
 1 - ...
 
@@ -1301,7 +1543,9 @@ l) Motivadas por isolamento profiláctico, nos termos da legislação da funçã
 
 4 - ...
 
-###### Artigo 131.º — Exercício temporário de funções inerentes a outro cargo da mesma categoria ou de categoria superior
+Artigo 131.º
+
+Exercício temporário de funções inerentes a outro cargo da mesma categoria ou de categoria superior
 
 1 - ...
 
@@ -1337,17 +1581,23 @@ d) Licença especial para assistência a filhos.
 
 13 - O tempo de serviço prestado em regime de contrato de trabalho a termo certo releva, para efeitos de antiguidade, desde o início da prestação de trabalho, caso o contratado venha a ser provido, por concurso e sem interrupção de funções, em lugar do quadro de instituição abrangida pelo presente diploma.
 
-###### Artigo 132.º — Abono para falhas
+Artigo 132.º
+
+Abono para falhas
 
 1 - Os trabalhadores da carreira administrativa ou com a categoria de chefe de secção que manuseiem ou tenham à sua guarda, nas áreas de tesouraria ou cobrança, valores, numerário, títulos ou documentos, sendo por eles responsáveis, têm direito a abono para falhas no montante e com o regime estabelecidos para a função pública.
 
 2 - O número de trabalhadores que, em cada instituição, tem direito a abono para falhas é fixado por despacho do membro do Governo da tutela.
 
-###### Artigo 135.º — Trabalhadores-estudantes
+Artigo 135.º
+
+Trabalhadores-estudantes
 
 Os trabalhadores que frequentem qualquer grau de ensino oficial ou equivalente têm direito às facilidades e regalias nos termos previstos na lei geral.
 
-###### Artigo 136.º — Maternidade, paternidade e adopção
+Artigo 136.º
+
+Maternidade, paternidade e adopção
 
 1 - Os trabalhadores beneficiam dos direitos e regalias consignados na lei geral de protecção da maternidade, paternidade e adopção.
 
@@ -1355,7 +1605,9 @@ Os trabalhadores que frequentem qualquer grau de ensino oficial ou equivalente t
 
 3 - Nos casos em que os trabalhadores não reúnam as condições gerais de atribuição daqueles subsídios, as instituições suportam totalmente o pagamento das respectivas retribuições.
 
-###### Artigo 147.º — Sanções disciplinares
+Artigo 147.º
+
+Sanções disciplinares
 
 1 - ...
 
@@ -1367,13 +1619,17 @@ c) ...
 
 2 - ...
 
-###### Artigo 150.º — Exercício da acção disciplinar
+Artigo 150.º
+
+Exercício da acção disciplinar
 
 1 - O procedimento disciplinar deve, sob pena de prescrição, iniciar-se no prazo de três meses a contar da data em que a direcção teve conhecimento da infracção.
 
 2 - ...
 
-###### Artigo 169.º — Complemento do subsídio de doença
+Artigo 169.º
+
+Complemento do subsídio de doença
 
 1 - As instituições pagarão aos seus trabalhadores, quando doentes, um complemento que, adicionado ao subsídio de doença a que os mesmos tenham direito como beneficiários da segurança social, corresponda:
 
@@ -1383,13 +1639,17 @@ b) À respectiva retribuição líquida passados os primeiros 30 dias e até per
 
 2 - O complemento regulamentado no número anterior integra o subsídio de doença e as prestações pecuniárias compensatórias dos subsídios de férias e de Natal.
 
-###### Artigo 170.º — Complemento de pensões
+Artigo 170.º
+
+Complemento de pensões
 
 1 - As instituições concederão aos seus trabalhadores que se reformarem por invalidez ou por velhice, neste último caso desde que tenham mais de 70 anos de idade ou 36 anos de serviço, um complemento mensal que, adicionado à pensão a que tiverem direito como beneficiários da segurança social, iguale o montante da pensão que lhes seria atribuída pela Caixa Geral de Aposentações se para ela tivessem contribuído pelo tempo de serviço prestado às instituições de segurança social.
 
 2 - O disposto no número anterior aplica-se, a partir da entrada em vigor do presente diploma, aos trabalhadores das instituições de segurança social já reformados.
 
-###### Artigo 173.º — Benefícios sociais
+Artigo 173.º
+
+Benefícios sociais
 
 1 - Os trabalhadores têm direito aos benefícios sociais concedidos pelos serviços sociais do ministério da tutela.
 
@@ -1419,7 +1679,9 @@ Direito à carreira
 
 4 - O direito ao provimento em categoria superior à que possuíam à data da nomeação para o cargo dirigente não prejudica o direito de os respectivos titulares se candidatarem aos concursos de acesso que ocorrerem na pendência da respectiva comissão de serviço.
 
-###### Artigo 17.º-A — Concurso
+Artigo 17.º-A
+
+Concurso
 
 1 - O concurso é o processo de recrutamento e selecção normal e obrigatório para o preenchimento de vagas, sem prejuízo da utilização dos restantes instrumentos de mobilidade previstos no artigo anterior.
 
@@ -1437,7 +1699,9 @@ Direito à carreira
 
 8 - Sempre que se verifique a existência de trabalhadores posicionados no último escalão da sua categoria com mais de seis anos de serviço na mesma classificados no mínimo de Bom, havendo vagas orçamentadas na instituição, é obrigatória a abertura de concurso de acesso, na modalidade de concurso interno condicionado, a que se podem candidatar todos os trabalhadores vinculados ao quadro da instituição que reúnam os requisitos gerais e especiais de acesso à categoria para a qual o concurso é aberto.
 
-###### Artigo 17.º-B — Processo de concurso
+Artigo 17.º-B
+
+Processo de concurso
 
 1 - O processo de concurso interno geral ou externo inicia-se com a divulgação do respectivo aviso de abertura, a circular por todas as instituições abrangidas por este diploma e demais instituições de segurança social, bem como através de publicação em dois jornais mais lidos na região.
 
@@ -1493,7 +1757,9 @@ b) Da sua homologação ou do termo da selecção pelo órgão gestor, no caso d
 
 14 - A constituição de reservas de recrutamento só poderá fazer-se para categorias de acesso, quando for possível prever com exactidão a ocorrência de vagas, designadamente as resultantes da passagem à reforma ou de movimentos em cadeia originados pela abertura de concurso para lugares de topo ou intermédios da respectiva carreira.
 
-###### Artigo 17.º-C — Selecção de candidatos
+Artigo 17.º-C
+
+Selecção de candidatos
 
 1 - A selecção dos candidatos é feita, de acordo com os métodos indicados no aviso de abertura, pelo órgão gestor da instituição, o qual pode delegar esta competência, cabendo-lhe, neste caso, homologar a lista de classificação final dos candidatos.
 
@@ -1523,7 +1789,9 @@ c) Cursos de formação profissional.
 
 11 - O recurso previsto no n.º 9 tem efeitos suspensivos e deverá ser dirigido ao membro do Governo da tutela no prazo de oito dias úteis a contar do registo da comunicação a que se refere o n.º 11 do artigo 17.º-B, respeitada a dilação de três dias.
 
-###### Artigo 17.º-D — Classificação dos candidatos
+Artigo 17.º-D
+
+Classificação dos candidatos
 
 1 - Finda a aplicação dos métodos de selecção, o órgão gestor ou o júri procederá, no prazo máximo de 10 dias úteis, à classificação e ordenação dos candidatos e elaborará acta da qual constará a lista de classificação final e a sua fundamentação.
 
@@ -1537,7 +1805,9 @@ c) Cursos de formação profissional.
 
 6 - Consideram-se excluídos os candidatos que obtenham classificação inferior a 10 valores, considerando-se como tal, por arredondamento, as classificações inferiores a 9,5 valores e, bem assim, os que sejam considerados Não apto no exame médico de selecção.
 
-###### Artigo 18.º-C — Regime dos estágios nas carreiras técnica superior e técnica e nas de informática
+Artigo 18.º-C
+
+Regime dos estágios nas carreiras técnica superior e técnica e nas de informática
 
 1 - O estágio para ingresso nas carreiras técnica superior e técnica e nas de informática obedece às seguintes regras:
 
@@ -1585,7 +1855,9 @@ b) O número de estagiários não pode ultrapassar em mais 30% o número de luga
 
 10 - A obtenção de classificação inferior a Regular (10 valores) em qualquer dos módulos dos cursos de formação a realizar no decurso do período do estágio nas carreiras de informática implica o regresso do estagiário ao lugar de origem ou à imediata rescisão do contrato a termo, sem direito a indemnização.
 
-###### Artigo 18.º-D — Salvaguarda de situações especiais
+Artigo 18.º-D
+
+Salvaguarda de situações especiais
 
 1 - A exigência das habilitações literárias para ingresso nas carreiras não abrange a situação de promoção de trabalhadores admitidos em lugares de acesso ao abrigo da regra de intercomunicabilidade estabelecida no artigo 18.º-B.
 
@@ -1597,7 +1869,9 @@ b) Para o provimento em categoria da carreira técnica é exigida habilitação 
 
 3 - Aos trabalhadores já integrados em carreiras para as quais não possuam as habilitações exigidas para o respectivo ingresso é vedada a promoção, para além dos limites fixados no presente artigo.
 
-###### Artigo 34.º-A — Técnicos superiores de informática
+Artigo 34.º-A
+
+Técnicos superiores de informática
 
 1 - Os lugares de assessor informático principal são providos de entre assessores informáticos com, pelo menos, dois anos de serviço na categoria classificados de Muito bom ou três anos classificados de Bom.
 
@@ -1607,7 +1881,9 @@ b) Para o provimento em categoria da carreira técnica é exigida habilitação 
 
 4 - Os lugares de técnico superior de 2.ª classe de informática são providos de entre indivíduos habilitados com licenciatura em curso superior adequado, designadamente nos domínios específicos da informática, ciências de computação e afins, aprovados em estágio com classificação não interior a Bom (14 valores).
 
-###### Artigo 64.º-A — Técnicos superiores de serviço social
+Artigo 64.º-A
+
+Técnicos superiores de serviço social
 
 1 - Os lugares de assessor principal de serviço social são providos de entre assessores de serviço social com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
@@ -1617,11 +1893,15 @@ b) Para o provimento em categoria da carreira técnica é exigida habilitação 
 
 4 - Os lugares de técnico superior de 2.ª classe de serviço social são providos de entre indivíduos habilitados com licenciatura em curso superior adequado aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 81.º-D — Fiéis auxiliares de armazém, auxiliares de alimentação e auxiliares de serviços gerais
+Artigo 81.º-D
+
+Fiéis auxiliares de armazém, auxiliares de alimentação e auxiliares de serviços gerais
 
 O ingresso nas carreiras de fiel auxiliar de armazém, de auxiliar de alimentação e de auxiliar de serviços gerais é condicionado à posse da escolaridade obrigatória.
 
-###### Artigo 81.º-E — Auxiliares administrativos
+Artigo 81.º-E
+
+Auxiliares administrativos
 
 1 - É criada a carreira de auxiliar administrativo em substituição das carreiras de contínuo e porteiro, que são extintas.
 
@@ -1629,19 +1909,27 @@ O ingresso nas carreiras de fiel auxiliar de armazém, de auxiliar de alimentaç
 
 3 - Compete aos serviços administrativos coordenar a actividade dos auxiliares administrativos, podendo, todavia, em condições excepcionais, ser criada a categoria de encarregado dos auxiliares administrativos, a recrutar de entre auxiliares administrativos posicionados no 4.º escalão ou superior.
 
-###### Artigo 81.º-F — Serventes
+Artigo 81.º-F
+
+Serventes
 
 Os lugares de servente são providos de entre indivíduos habilitados com a escolaridade obrigatória.
 
-###### Artigo 82.º-B — Cozinheiros
+Artigo 82.º-B
+
+Cozinheiros
 
 O recrutamento para a categoria de cozinheiro é feito de entre indivíduos habilitados com a escolaridade obrigatória e a posse da respectiva carteira profissional.
 
-###### Artigo 101.º-A — Subsídio de turno
+Artigo 101.º-A
+
+Subsídio de turno
 
 Os trabalhadores em regime de trabalho por turnos têm direito a um subsídio de turno de montante e condições de atribuição idênticos aos que vigorarem para a função pública.
 
-###### Artigo 114.º-A — Licença sem retribuição pelo período de um ano, renovável
+Artigo 114.º-A
+
+Licença sem retribuição pelo período de um ano, renovável
 
 1 - Em casos excepcionais devidamente fundamentados, pode ser concedida aos trabalhadores, mediante requerimento, licença sem vencimento por um ano, renovável até ao limite de três anos, se se mantiverem os motivos que a determinaram e não advierem inconvenientes para o serviço.
 
@@ -1649,7 +1937,9 @@ Os trabalhadores em regime de trabalho por turnos têm direito a um subsídio de
 
 3 - No ano do regresso e no seguinte o trabalhador tem direito a gozar um período de férias proporcional ao tempo de serviço prestado, respectivamente, no ano da suspensão de funções e no ano de regresso à actividade, salvaguardado sempre um período mínimo de oito dias úteis de férias consecutivos.
 
-###### Artigo 169.º-A — Subsídio em caso de faltas para assistência à família
+Artigo 169.º-A
+
+Subsídio em caso de faltas para assistência à família
 
 1 - Em caso de faltas para assistência à família, a que se referem os artigos 13.º e 23.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, as instituições pagarão aos seus trabalhadores um subsídio de montante igual ao previsto nas alíneas a) e b) do n.º 1 do artigo anterior.
 
@@ -1849,22 +2139,22 @@ Presidência do Conselho de Ministros, 25 de Junho de 1998.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 24 de Julho de 1998.**
+Promulgado em 24 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Julho de 1998.**
+Referendado em 27 de Julho de 1998.
 
 Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.
 
-## ANEXO N.º 1 — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)
+## ANEXO N.º 1 — [[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)
 
 ## ANEXO N.º 2 — Carreiras do pessoal de informática
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)
 
 ## ANEXO N.º 3 — Carreiras do pessoal auxiliar dos serviços e estabelecimentos da segurança social
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)](https://files.diariodarepublica.pt/1s/1998/08/187b00/39844007.pdf)

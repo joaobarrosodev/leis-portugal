@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/413/1999/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1999-667145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:12:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77c9edc6b6d0b0656c1edbc522af85c1b12ae299d2a68d6797ad3b16f1dd255
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f51f8e065a373cbca0549e502e262c0bc7ad537f11bf6bcb5c0d338043d8bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:12:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- Tempo de Serviço
-- Formação Profissional
-- Concurso
-- Serviço de Saúde
+- Avaliação do Pessoal
 - Carreira Profissional
+- Concurso
+- Estabelecimento Hospitalar
+- Formação Profissional
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Horário de Trabalho
+- Ministério da Saúde
 - Pessoal Auxiliar
 - Progressão na Carreira
 - Quadro de Pessoal
 - Reclassificação de Pessoal
-- Ministério da Saúde
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Horário de Trabalho
-- Estabelecimento Hospitalar
 - Remuneração
-- Avaliação do Pessoal
+- Serviço de Saúde
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1746540:por
+  label: "Não declarada a inconstitucionalidade do nº. 3 do art. 3º e art. 7º, na sua aplicação conjugada, e também com o\
+    \ anexo I e o mapa III do anexo II pelo AC.679/2005.06.12.2005.TCS, DR.IIS [46] de 06.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/679-2006-1746540
+  date: '2005-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1992/10/21/p/dre
   label: null
@@ -105,16 +111,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:12:17Z'
   warnings: []
   errors: []
 ---
@@ -161,19 +189,25 @@ Os artigos 6.º, 10.º, 11.º e 12.º do [Decreto-Lei n.º 231/92](https://diari
 
 7 - (Actual n.º 6.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Quando ocorram necessidades imperiosas de serviço, pode o pessoal provido em qualquer das carreiras ou categorias previstas neste diploma ser temporariamente afecto, mediante despacho do órgão dirigente máximo do estabelecimento ou serviço respectivo, ao exercício de funções correspondentes a outra daquelas carreiras ou categorias para as quais revele aptidão.
 
 2 - A afectação a que se refere o número anterior faz-se pelo período máximo de 120 dias, o qual poderá ser prorrogado nos casos devidamente fundamentados com base nas necessidades dos serviços e mediante o acordo do funcionário.
 
-###### Artigo 11.º — Classificação de serviço e concursos
+Artigo 11.º
+
+Classificação de serviço e concursos
 
 1 - Ao pessoal dos serviços gerais é aplicável o regime geral da classificação de serviço, devendo os notadores, em regra, ser designados de entre os funcionários detentores das categorias de chefia a que se refere o artigo 4.º
 
 2 - É aplicável ao pessoal dos serviços gerais o regime geral de recrutamento e selecção para a Administração Pública, devendo os respectivos júris de concurso, em regra, integrar maioritariamente funcionários providos nas correspondentes categorias de chefia ou na carreira a que o concurso respeite.
 
-###### Artigo 12.º — Formação permanente
+Artigo 12.º
+
+Formação permanente
 
 1 - O Ministério da Saúde proporcionará ao pessoal abrangido pelo presente diploma cursos ou acções de formação destinados a garantir a preparação adequada ao exercício das respectivas funções.
 
@@ -241,15 +275,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Francisco Ventura Ramos.
 
-**Promulgado em 23 de Setembro de 1999.**
+Promulgado em 23 de Setembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Outubro de 1999.**
+Referendado em 1 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Tabelas
 
@@ -259,16 +293,16 @@ Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1999. - António Ma
 
 Tabela a aplicar entre 1 de Junho de 1999 e 30 de Junho de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)
 
 MAPA II
 
 Tabelas a aplicar entre 1 de Julho e 30 de Novembro de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)
 
 MAPA III
 
 Tabelas a aplicar a partir de 1 de Dezembro de 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)](https://files.diariodarepublica.pt/1s/1999/10/241a00/69636966.pdf)

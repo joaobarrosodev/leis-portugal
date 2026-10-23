@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/548-1977-286539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T05:25:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbe7905d860a97294e97d0cadf82650a194295c143d3cbb6578ca28ac9c43b20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf1e2014b69b53c276e0d8edf5f55681fdf1f2c7bead7473d5f79c5fb2d688df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:25:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Custo da Construção
+- Habitação Social
+- Renda Limitada
 relationships:
 - type: amended_by
   target: pt:dre:297619:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:408154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:278969:por
+  label: Rectificada pela DECL.DD7801.10.10.1977.PCM, DR.IS [234] de 10.10.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-278969
+  date: '1977-10-10'
+- type: repealed_by
+  target: pt:dre:297609:por
+  label: "Revogada, no que respeita à matéria prevista no art. 4º do Dec Lei 608/73, de 14-Nov., pela PORT.383/78.1978.07.14.MHOP\
+    \ DR.IS [160]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-1978-297609
+  date: '1978-07-14'
+- type: repealed_by
+  target: pt:dre:297619:por
+  label: Revogada pelo(a) Portaria n.º 382/78 - Diário da República n.º 160/1978, Série I de 1978-07-14, na matéria que se
+    refere ao disposto no artigo 3.º do Decreto-Lei 608/73, de 14-nov,
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/382-1978-297619
+  date: '1978-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:25:08Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +132,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Habitação, Urbanism
 
 4.º - 1. Cada tipo de casa de renda limitada terá por características mínimas as constantes do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf))](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
 
 Nota. - Área útil (AU) é a soma das áreas de todos os compartimentos da habitação, incluindo vestíbulos, instalações sanitárias, arrumos, outros compartimentos de função similar e armários nas paredes, e mede-se pelo perímetro interior das paredes que limitam o fogo, descontando enxalços até 30 cm, paredes interiores, divisórias e condutas.
 
@@ -120,7 +152,7 @@ d) Uma taxa de capitalização a aplicar ao valor final, determinado na alínea 
 
 e) Para cada tipo de casa de renda limitada não serão considerados os valores obtidos através da alínea anterior que excedam os seguintes limites máximos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf))](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
 
 3. A fixação definitiva das rendas será feita pelo Fundo de Fomento da Habitação, tomando em conta o que nos n.os 1 e 2 do presente artigo se estabelece, bem como, concretamente, os elementos referidos no n.º 2 do artigo 6.º ou no artigo 8.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), conforme os casos, e, ainda, o preço da construção corrente na zona em que o edifício será implantado e a qualidade de urbanização em que o mesmo se integra.
 
@@ -136,6 +168,6 @@ Ministério da Habitação, Urbanismo e Construção, 26 de Julho de 1977. - O M
 
 Variação do custo do metro quadrado com a área bruta (Ab)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf))](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/08/20000/20852087.pdf)
 
-**O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/96/1996/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1996-413413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55570bec3b941485383219ad7ef1bd172cd377d6223cc0d146bb45c46243252b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af8a2b7eb0d83091802f7d4403b93dc866fd7af083e4c1dd33974dcb2426fca4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,10 +72,10 @@ subjects:
 - Escola Superior de Gestão
 - Escola Superior de Tecnologia
 - Escola Superior de Tecnologia e Gestão
+- Estabelecimento de Ensino
 - Extinção de Serviços
 - Instituto Politécnico
 - Integração de Trabalhadores
-- Estabelecimento de Ensino
 - Pessoal Docente
 - Santarém
 - Tomar
@@ -84,6 +84,12 @@ relationships:
   target: pt:dre:314440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:314440:por
+  label: "Prorrogado o regime de instalação da Escola Superior de Tecnologia de Tomar e da Escola Superior de Gestão de Tomar\
+    \ pelo DEC LEI.25/2001.2001.01.31.ME,DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2001-314440
+  date: '2001-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/1994/01/27/p/dre
   label: null
@@ -92,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/304/1994/12/19/p/dre
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571177:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:34Z'
   warnings: []
   errors: []
 ---
@@ -166,16 +192,16 @@ b) A partir de 1 de Janeiro de 1997, na parte restante.
 
 Visto e aprovado em Conselho de Ministros de 29 de Maio de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 28 de Junho de 1996.**
+Promulgado em 28 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Julho de 1996.**
+Referendado em 3 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Mapa anexo a que se refere o n.º 2 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/164a00/19901991.pdf))](https://files.diariodarepublica.pt/1s/1996/07/164a00/19901991.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/164a00/19901991.pdf)

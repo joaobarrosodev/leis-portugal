@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16600/0519905200.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/8/2017/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2017-108068705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b84de68878adac56a6517b6cd546aa8af096fadb8d65bdd8c6327795bd0cb520
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d52beccfe3580cbcb907ee9d57a3a8a1a8afb01ef5bf461bab2776b4afa135e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,26 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Valores Mobiliários
+- Atividade Bancária
+- Autoridade Competente
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
 - Autoridade Europeia dos Valores Mobiliários e dos Mercados
-- Instituição de Crédito
-- Supervisão Financeira
+- Banco de Portugal
+- CMVM
 - Definição de Competências
 - Fiscalização
 - Fiscalização Económica
 - Fundo de Investimento
-- Banco de Portugal
 - Informação
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Investimento
 - Mercado de Valores
 - Mercado Financeiro
 - Regulamento CE
-- CMVM
-- Instituição Financeira
+- Supervisão Financeira
 - Valor de Referência
-- Autoridade de Supervisão de Seguros e Fundos de Pensões
-- Autoridade Competente
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:216771968:por
@@ -109,16 +109,22 @@ relationships:
   target: celex:32016R1011
   label: null
   source: http://data.europa.eu/eli/reg/2016/1011/oj
+- type: repealed_by
+  target: pt:dre:216771968:por
+  label: Revogado, a partir de 09.08.2023, pelo(a) Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de
+    2023-08-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-2023-216771968
+  date: '2023-08-08'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:23Z'
   warnings: []
   errors: []
 ---
@@ -195,12 +201,12 @@ c) À informação recebida relativamente ao n.º 1 do artigo 21.º e aos n.os 2
 
 Visto e aprovado em Conselho de Ministros de 8 de junho de 2017. - António Luís Santos da Costa - Carolina Maria Gomes Ferra.
 
-**Promulgado em 3 de julho de 2017.**
+Promulgado em 3 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de julho de 2017.**
+Referendado em 6 de julho de 2017.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

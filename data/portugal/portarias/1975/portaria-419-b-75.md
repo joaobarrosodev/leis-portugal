@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 153/1975, 2º Suplemento, Série I de 1975-07-05
   number: '153'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 936-(3) a 936-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/07/15302/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-b-1975-424142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T04:46:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdbef99d33db45fecf05c8fd590598294acd6f4bc81fd0e0d3287c680f594115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 125934fefe1ecf811ec36222f5b4fcba8b39c9470c9c1e42fcaac6563ebf92af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:46:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso
+- Direcção Geral das Contribuições e Impostos
+- Gestão de Recursos Humanos
+- Pessoal Administrativo
+- Quadro de Pessoal
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:311231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:311231:por
+  label: "Dada nova redacção à al. c) do nº 6 e revogados os nºs 11 e 12 pela PORT.737/75.12.12.1975.MF, DG.IS [286] de 12.12.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/737-1975-311231
+  date: '1975-12-12'
+- type: cites
+  target: pt:dre:271226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693236:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:46:16Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +168,4 @@ Secretaria de Estado do Orçamento, 5 de Julho de 1975. - O Secretário de Estad
 
 Alterações ao quadro geral do pessoal, a que se referem os artigos 22.º e 65.º da Organização da Direcção-Geral das Contribuições e Impostos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1975/07/15302/00030004.pdf))](https://files.diariodarepublica.pt/1s/1975/07/15302/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/07/15302/00030004.pdf)

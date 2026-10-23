@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10500/0268302684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/53/2017/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2017-107106260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:33:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bfb5f308d846529751ac5163672880419c6cbaa96a5f08d2dd27ad7e55553f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83ac77199e341e91e73737aa83b30bb7768932e4c9d2b57039f0f7f93d1d6116
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:33:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,46 @@ reuse:
 subjects:
 - Alfândega
 - Autoridade Tributária e Aduaneira
-- Modernização Administrativa
+- Código do Imposto sobre Veículos
 - Definição de Competências
 - Desalfândegamento
+- Documento Eletrónico
+- Documentos do Veículo
+- Imposto sobre Veículos
 - Informatização
 - Instituto da Mobilidade e dos Transportes
-- Veículo
-- Documentos do Veículo
-- Documento Eletrónico
+- Modernização Administrativa
 - Programa Simplex
-- Código do Imposto sobre Veículos
-- Imposto sobre Veículos
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterado o art. 25.º do Código do Imposto sobre Veículos, constante do anexo I da Lei 22-A/2007 de 29-jun, com a
+    redação dada pelo presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22-a/2007/06/29/p/dre
+- type: cites
+  target: pt:dre:226204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:33:52Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +146,9 @@ Os artigos 3.º, 6.º, 17.º, 19.º, 20.º, 21.º, 24.º, 25.º e 27.º do Códi
 
 2 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]:
 
@@ -148,7 +160,9 @@ b) No momento da apresentação da declaração aduaneira de veículos pelos par
 
 3 - [...].
 
-###### Artigo 17.º — Obrigações declarativas
+Artigo 17.º
+
+Obrigações declarativas
 
 1 - A introdução no consumo e a liquidação do imposto são tituladas pela declaração aduaneira de veículos (DAV).
 
@@ -160,7 +174,9 @@ b) No momento da apresentação da declaração aduaneira de veículos pelos par
 
 5 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os operadores reconhecidos estão obrigados à apresentação da DAV no prazo máximo de 20 dias úteis após a ocorrência do facto gerador do imposto.
 
@@ -170,7 +186,9 @@ b) No momento da apresentação da declaração aduaneira de veículos pelos par
 
 4 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Os particulares e os sujeitos passivos que não se encontrem constituídos como operadores registados ou operadores reconhecidos estão obrigados à apresentação da DAV nos prazos seguintes:
 
@@ -186,7 +204,9 @@ b) [...].
 
 5 - Sem prejuízo do disposto no número anterior, o original do certificado de matrícula ou documento equivalente do veículo deve ser depositado no Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), ou, no caso das regiões autónomas, nos serviços competentes em matéria de transportes terrestres, no prazo de 10 dias a contar da data de apresentação da DAV.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -200,7 +220,9 @@ b) [...].
 
 6 - [...].
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Os veículos que entrem em território nacional e não se destinem a ser matriculados, por se destinarem a desmantelamento, circulação ou permanência em domínio exclusivamente privado, colecionismo ou qualquer outra razão que dispense a atribuição de matrícula nacional devem, no prazo de 10 dias úteis após a entrada em território nacional, ser objeto de apresentação de DAV, sendo os documentos originais do veículo entregues no IMT, I. P., ou nos serviços competentes em matéria de transportes terrestres, no caso das regiões autónomas, no prazo de 10 dias a contar da data de apresentação da DAV.
 
@@ -210,7 +232,9 @@ b) [...].
 
 4 - Sempre que se pretenda proceder à introdução do veículo no consumo, o imposto é determinado em função das taxas em vigor no momento da apresentação da DAV, tomando-se em consideração os anos de uso que o veículo possuísse àquela data.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A liquidação do imposto sobre veículos é realizada pela Autoridade Tributária e Aduaneira (AT) com base na DAV, dentro dos seguintes prazos:
 
@@ -228,7 +252,9 @@ c) [...].
 
 5 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -258,12 +284,12 @@ O presente decreto-lei entra em vigor no dia 1 de julho de 2017.
 
 Visto e aprovado em Conselho de Ministros de 27 de abril de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno.
 
-**Promulgado em 17 de maio de 2017.**
+Promulgado em 17 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 24 de maio de 2017.**
+Referendado em 24 de maio de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/48/2014/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2014-571634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f769a90b89a0e5d8429df933e93611d087ed003595f37d974bbb9cb7d40d78d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e55dbbd4a3529d27de8f0bcd1bf63acb923b6cc7746ab254a7555ad7fd710818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Alimento para Crianças
 - Aproximação das Legislações
-- Leite
 - Controlo de Qualidade
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
+- Embalagem
 - Etiquetagem
 - Fabrico Industrial
-- Embalagem
+- Leite
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:107495709:por
@@ -102,16 +102,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/217/2008/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/217/2008/11/11/p/dre
+- type: repealed_by
+  target: pt:dre:107495709:por
+  label: Revogado a partir de 01.07.2017 pelo(a) Decreto-Lei n.º 62/2017 - Diário da República n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2017-107495709
+  date: '2017-06-09'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:25Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +159,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -164,13 +171,17 @@ c) [...].
 
 4 - No caso das fórmulas de transição fabricadas a partir de hidrolisados de proteínas definidas no ponto 2.2 do anexo II do presente decreto-lei, do qual faz parte integrante, com um teor proteico entre o mínimo e 0,56 g/100 kJ (2,25 g/100 kcal), a adequação da fórmula de transição à alimentação especial dos lactentes deve ser demonstrada através de estudos apropriados, realizados de acordo com orientações especializadas geralmente aceites sobre a conceção e a realização desses estudos, e deve respeitar as especificações correspondentes estabelecidas no anexo VI do presente decreto-lei, do qual faz parte integrante.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
 2 - A denominação de venda dos produtos definidos nas alíneas d) e e) do artigo 2.º, integralmente fabricados a partir das proteínas do leite de vaca ou do leite de cabra, é, respetivamente, 'Leite para lactentes' e 'Leite de transição'.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -182,15 +193,15 @@ Os anexos I, II, III e VI ao Decreto-Lei n.º 217/2008, de 11 de novembro, passa
 
 Visto e aprovado em Conselho de Ministros de 13 de fevereiro de 2014. - Pedro Passos Coelho - Luís Álvaro Barbosa de Campos Ferreira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 12 de março de 2014.**
+Promulgado em 12 de março de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de março de 2014.**
+Referendado em 13 de março de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -200,7 +211,7 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 1 - Energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 2 - Proteínas
 
@@ -208,13 +219,13 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 2.1 - Fórmulas para lactentes fabricadas a partir de proteínas do leite de vaca ou do leite de cabra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 Para um mesmo valor energético, a fórmula para lactentes deve conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo V). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 2, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2. A razão metionina:cistina poderá ser superior a 2, mas não superior a 3, desde que a adequação do produto a utilizações nutricionais específicas por lactentes seja demonstrada através de estudos apropriados, realizados de acordo com orientações especializadas geralmente aceites sobre a conceção e a realização desses estudos.
 
 2.2 - Fórmulas para lactentes fabricadas a partir de hidrolisados de proteínas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 Para um mesmo valor energético, a fórmula para lactentes deve conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo V). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 2, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2. A razão metionina:cistina poderá ser superior a 2, mas não superior a 3, desde que a adequação do produto a utilizações nutricionais específicas por lactentes seja demonstrada através de estudos apropriados, realizados de acordo com orientações especializadas geralmente aceites sobre a conceção e a realização desses estudos.
 
@@ -222,7 +233,7 @@ O teor de L-carnitina deve ser pelo menos igual a 0,3 mg/100 kJ (1,2 mg/100 kcal
 
 2.3 - Fórmulas para lactentes fabricadas a partir de isolados de proteínas de soja, estremes ou de uma mistura com proteínas do leite de vaca ou do leite de cabra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 No fabrico destas fórmulas para lactentes apenas podem ser utilizados isolados de proteína de soja.
 
@@ -238,11 +249,11 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 4 - Colina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 5 - Lípidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 5.1 - É proibida a utilização das seguintes substâncias:
 
@@ -252,7 +263,7 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 5.2 - Ácido láurico e ácido mirístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 5.3 - O teor de ácidos gordos trans não deve ser superior a 3 % do teor total de lípidos.
 
@@ -260,7 +271,7 @@ Quando adicionada às fórmulas para lactentes, a quantidade de taurina não dev
 
 5.5 - Ácido linoleico (na forma de glicerídos = lineolatos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 5.6 - O teor de ácido alfa-linolénico não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).
 
@@ -280,11 +291,11 @@ O teor de ácido docosa-hexaenóico (22:6 n-3) não deve ser superior ao de LCP 
 
 7 - Inositol
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 8 - Hidratos de carbono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 8.1 - Apenas podem ser utilizados os seguintes hidratos de carbono:
 
@@ -306,7 +317,7 @@ Amido gelatinizado, naturalmente isento de glúten.
 
 8.2 - Lactose
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 A presente disposição não se aplica a fórmulas para lactentes em que os isolados de proteína de soja representem mais de 50 % do teor proteico total.
 
@@ -320,7 +331,7 @@ A glucose só pode ser adicionada a fórmulas para lactentes fabricadas a partir
 
 8.5 - Amido pré-cozido e ou gelatinizado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 9 - Fruto-oligossacáridos e galacto-oligossacáridos
 
@@ -332,7 +343,7 @@ Podem ser usadas outras combinações e níveis máximos de fruto-oligossacárid
 
 10.1 - Fórmulas para lactentes fabricadas a partir de proteínas do leite de vaca ou do leite de cabra ou de hidrolisados de proteínas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 A razão cálcio: fósforo não deve ser inferior a 1 nem superior a 2.
 
@@ -340,17 +351,17 @@ A razão cálcio: fósforo não deve ser inferior a 1 nem superior a 2.
 
 Aplicam-se todos os requisitos do ponto 10.1, exceto os relativos ao ferro e fósforo, que são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 11 - Vitaminas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 12 - Nucleótidos
 
 Podem ser adicionados os nucleótidos que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 ## ANEXO II — Composição de base das fórmulas de transição quando reconstituídas de acordo com as instruções do fabricante
 
@@ -358,7 +369,7 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 1 - Energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 2 - Proteínas
 
@@ -366,19 +377,19 @@ Os valores estabelecidos no presente anexo referem-se ao produto final pronto a 
 
 2.1 - Fórmulas de transição fabricadas a partir de proteínas do leite de vaca ou do leite de cabra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 Para um mesmo valor energético, as fórmulas de transição devem conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo V). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina: cistina não for superior a 3, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2.
 
 2.2 - Fórmulas de transição fabricadas a partir de hidrolisados de proteínas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 Para um mesmo valor energético, as fórmulas de transição devem conter uma quantidade disponível de cada aminoácido indispensável e condicionalmente indispensável pelo menos igual à contida na proteína de referência (leite humano, tal como definido no anexo V). No entanto, para efeitos de cálculo, poderão adicionar-se as concentrações de metionina e cistina, se a razão metionina:cistina não for superior a 3, e poderão adicionar-se as concentrações de fenilalanina e tirosina, se a razão tirosina:fenilalanina não for superior a 2.
 
 2.3 - Fórmulas de transição fabricadas a partir de isolados de proteínas de soja, estremes ou de uma mistura com proteínas do leite de vaca ou do leite de cabra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 No fabrico destas fórmulas apenas podem ser utilizados estes isolados de proteína de soja.
 
@@ -392,7 +403,7 @@ Quando adicionada às fórmulas de transição, a quantidade de taurina não dev
 
 4 - Lípidos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 4.1 - É proibida a utilização das seguintes substâncias:
 
@@ -402,7 +413,7 @@ Quando adicionada às fórmulas de transição, a quantidade de taurina não dev
 
 4.2 - Ácido láurico e ácido mirístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 4.3 - O teor de ácidos gordos trans não deve ser superior a 3 % do teor total em lípidos.
 
@@ -410,7 +421,7 @@ Quando adicionada às fórmulas de transição, a quantidade de taurina não dev
 
 4.5 - Ácido linoleico (na forma de glicerídeos = lineolatos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 4.6 - O teor de ácido alfa-linolénico não deve ser inferior a 12 mg/100 kJ (50 mg/100 kcal).
 
@@ -432,19 +443,19 @@ A quantidade de fosfolípidos nas fórmulas de transição não deve ser superio
 
 6 - Hidratos de Carbono
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 6.1 - É proibida a utilização de ingredientes com glúten.
 
 6.2 - Lactose
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 A presente disposição não se aplica às fórmulas de transição em que os isolados de proteínas de soja representem mais de 50 % do teor proteico total.
 
 6.3 - Sacarose, frutose, mel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 O mel deve ser tratado para destruir esporos de Clostridium botulinum.
 
@@ -462,7 +473,7 @@ Podem ser usadas outras combinações e níveis máximos de fruto-oligossacárid
 
 8.1 - Fórmulas de transição fabricadas a partir de proteínas do leite de vaca ou do leite de cabra ou de hidrolisados de proteínas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 A razão cálcio: fósforo presente nas fórmulas de transição não deve ser inferior a 1,0 nem superior a 2.
 
@@ -470,27 +481,27 @@ A razão cálcio: fósforo presente nas fórmulas de transição não deve ser i
 
 Aplicam-se todos os requisitos do ponto 8.1., exceto os relativos ao ferro e fósforo, que são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 9 - Vitaminas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 10 - Nucleótidos
 
 Podem ser adicionados os nucleótidos que se seguem:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 ## ANEXO III — Substâncias nutritivas
 
 1 - Vitaminas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 2 - Substâncias minerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 3 - Aminoácidos e outros compostos nitrogenados
 
@@ -558,7 +569,7 @@ Especificações relativas ao teor e à fonte de proteínas e à transformação
 
 Teor proteico = teor de azoto x 6,25
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
 
 2 - Fonte da proteína
 
@@ -576,4 +587,4 @@ Processo de hidrólise em duas fases, utilizando um preparado de tripsina com um
 
 Os aminoácidos indispensáveis e condicionalmente indispensáveis presentes no leite humano, expressos em mg por 100 kJ e por 100 kcal, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf))](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/03/06000/0217402182.pdf)

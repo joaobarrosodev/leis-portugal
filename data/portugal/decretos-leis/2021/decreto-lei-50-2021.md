@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11400/0000700013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/50/2021/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2021-165129789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1ebf4d33a5ddf20dec215b7d36f84431fecd4d615e77df4e00601d01c9f58e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d870358b2179785099f066ed332ff3b612a0c0304075c6a8bfebadb075f61f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
 subjects:
 - Acreditação
 - Adjudicação
-- Empresa
+- Administração Pública
 - BENS de Consumo
 - Caderno de Encargos
-- Energia Elétrica
-- Consumo de Energia
-- Contrato
-- Definição de Competências
-- Edifício Público
-- Política Energética
-- Equipamento Eléctrico
-- Administração Pública
-- Factura
-- Fiscalização
-- Direção Geral de Energia e Geologia
 - Certificado de Qualidade
 - Código dos Contratos Públicos
+- Consumo de Energia
+- Contratação Pública
+- Contrato
+- Definição de Competências
+- Direção Geral de Energia e Geologia
+- ECO AP
+- Edifício Público
+- Eficiência Energética
+- Empresa
 - Energia
+- Energia Elétrica
+- Equipamento Eléctrico
+- Factura
+- Fiscalização
+- Política Energética
 - Poupança de Energia
 - Preço
-- ECO AP
 - Regime Jurídico
-- Eficiência Energética
 - Vistoria
-- Contratação Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/162/2019/10/25/p/dre
@@ -113,16 +113,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/2/2011/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/2/2011/01/12/p/dre
+- type: cites
+  target: pt:dre:125692189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485640:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:42:46Z'
   warnings: []
   errors: []
 ---
@@ -341,12 +361,14 @@ O presente decreto-lei entra em vigor 90 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de maio de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 5 de junho de 2021.**
+Promulgado em 5 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2021.**
+Referendado em 8 de junho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114306328

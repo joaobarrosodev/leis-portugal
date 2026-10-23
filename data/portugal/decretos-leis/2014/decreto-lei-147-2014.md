@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/2014/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-2014-58228087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7502647b5ecd4cccfad8e0065dcb40131bc0b1607027927d2fcbe245181e4ed7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 328bf030f324fe63fd0868c273d509dc862b69087eaf03b7fcb31c94de757635
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Transporte Rodoviário
-- Veículo
-- Transporte de Mercadorias
 - Portagem
 - Taxa
+- Transporte de Mercadorias
+- Transporte Rodoviário
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:lei:60/2010
+  label: Altera os arts. 1.º, 2.º, 3.º, 4.º e 5.º (este último na redação da Lei 66-B/2012, de 31-dez) e o anexo II, adita
+    o art. 2.º-A e revoga os n.os 4 a 12 do art. 2.º do Dec Lei n.º 60/2010, de 08-jun, DR IS [110] que republica nos termos
+    do n.º 2 do art. 6º
+  source: null
 - type: cites
   target: celex:31985R3821
   label: null
@@ -111,15 +117,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 17
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:09Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +178,9 @@ Objeto e âmbito
 
 3 - O presente decreto-lei aplica-se às portagens a cobrar a veículos pesados de mercadorias, entendendo-se como tais os veículos a motor ou conjuntos de veículos articulados utilizados no transporte rodoviário de mercadorias ou a este destinados, com um peso bruto máximo autorizado igual ou superior a 3,5 toneladas.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -198,7 +206,9 @@ Objeto e âmbito
 
 12 - [Revogado].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -212,7 +222,9 @@ d) [Anterior alínea c)].
 
 2 - [...].
 
-###### Artigo 4.º — Modulação da taxa de utilização da infraestrutura
+Artigo 4.º
+
+Modulação da taxa de utilização da infraestrutura
 
 1 - Sem prejuízo do disposto no artigo 2.º-A, a taxa de utilização da infraestrutura deve ser diferenciada em função das classes de emissão EURO dos veículos, definidas nos termos do anexo I ao presente decreto-lei, do qual faz parte integrante.
 
@@ -242,7 +254,9 @@ e) A diferenciação seja concebida e aplicada de forma transparente e neutra do
 
 6 - A aplicação das diferenciações previstas no n.º 1 e no número anterior não pode destinar-se a gerar receitas adicionais provenientes das taxas de utilização da infraestrutura, devendo qualquer acréscimo involuntário de receitas ser compensado por alterações da estrutura de diferenciação, a aplicar no prazo de dois anos, a contar do final do ano em que as receitas adicionais tiverem sido geradas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O disposto no artigo 2.º-A não se aplica aos sistemas de portagens em vigor ou previstos em contratos de concessão de obras públicas ou de concessão de serviços, conforme definidos no artigo 407.º do Código dos Contratos Públicos, em vigor em 10 de junho de 2008, ou em relação aos quais tenham sido recebidas, até 10 de junho de 2008, propostas ou candidaturas no âmbito de um procedimento de contratação pública, enquanto aqueles estiverem em vigor e não sofrerem alterações substanciais.
 
@@ -310,15 +324,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de julho de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima.
 
-**Promulgado em 3 de outubro de 2014.**
+Promulgado em 3 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 6 de outubro de 2014.**
+Referendado em 6 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -472,17 +486,17 @@ e) A diferenciação seja concebida e aplicada de forma transparente e neutra do
 
 1 - Veículo «EURO 0»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
 
 2 - Veículos «EURO I/EURO II»:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
 
 3 - Veículos «EURO III/EURO IV/EURO V/VEA»:
 
 As massas específicas de monóxido de carbono, hidrocarbonetos totais, óxidos de azoto e partículas, determinadas no ensaio ESC, e a opacidade dos fumos, determinada no ensaio ELR, não devem exceder os seguintes valores (1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
 
 (1) Um ciclo de ensaios é constituídos por uma sequência de pontos de ensaio, cada um dos quais com uma velocidade e um binário definidos, que devem ser seguidos pelo motor em condições funcionamento em estado estacionário (ensaio ESC) ou transiente (ensaios ETC e ELR).
 
@@ -546,7 +560,7 @@ O cálculo das portagens baseia-se no número de quilómetros, real ou prevision
 
 O quadro seguinte estabelece um conjunto de coeficientes de equivalência indicativos. Sempre que forem fixados coeficientes de equivalência diferentes, estes devem ser calculados com base em critérios objetivamente justificáveis e tornados públicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
 
 ## ANEXO III — Determinação indicativa das classes de veículos
 
@@ -560,8 +574,8 @@ Todos os veículos a motor e conjuntos de veículos com um peso máximo autoriza
 
 Veículos a motor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
 
 Conjunto de veículos (veículos articulados e conjuntos veículo-reboque)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19500/0518105189.pdf)

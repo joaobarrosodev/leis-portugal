@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/086b00/23952402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/8/2003/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2003-226227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea463e4f425ea108ea1acf0edbb41f8a56f67c47c50aa4c8d1dea8189b2fe3e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 698b619993622a82c4078a3c44b88cdd4926acd1361c1d70c6b0ba96debaf4c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Industrial
-- Localização de Empresas
+- Câmara Municipal
 - Fiscalização
 - Indústria
 - Licenciamento
 - Licenciamento de Obras
-- Câmara Municipal
+- Localização de Empresas
 - Regulamento
 - Sanção
 - Vistoria
@@ -80,6 +80,19 @@ relationships:
   target: pt:dre:439091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:520849:por
+  label: "Alterados os arts. 4º a 6º, 10º, 11º, 12º, 15º e 19º do Regulamento do Licenciamento da Actividade Industrial aprovado\
+    \ no presente diploma pelo DR.61/2007.09.05.2007.MEI, DR.IS [89] de 09.05.2007, que remeteu as referências efectuadas,\
+    \ respectivamente: à direcção regional do ambiente e do ordenamento do território para a comissão de coordenação e desenvolvimento\
+    \ regional, à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (contida na al. d) do art. 10º) para a\
+    \ Autoridade de Segurança Alimentar e Económica; assim como as efectuadas ao Ministro ou Ministério da Economia, ao Ministro\
+    \ ou Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e ao Ministro ou Ministério do Ordenamento do Território\
+    \ e Ambiente (contidas nos arts.2.º, 9.º, 12.º, 14.º, 21.º, 22.º e 23.º) para, respectivamente, o ministro ou ministério\
+    \ responsável pela área da economia, o ministro ou ministério responsável pelas áreas da agricultura, do desenvolvimento\
+    \ rural e das pescas, e o ministro ou ministério responsável pela área do ambiente; e procedeu à sua republicação \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/61-2007-520849
+  date: '2007-05-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec
   label: null
@@ -120,16 +133,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/61/1991/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/61/1991/11/27/p/dre
+- type: cites
+  target: pt:dre:226807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439091:por
+  label: "Revogado pelo DEC LEI.209/2008.29.10.2008.PCM, DR.IS [2210] de 29.10.2008, a partir da entrada em vigor prevista\
+    \ no art. 84º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2008-439091
+  date: '2008-10-29'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:28:35Z'
   warnings: []
   errors: []
 ---
@@ -162,15 +229,15 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 28 de Março de 2003.**
+Promulgado em 28 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Abril de 2003.**
+Referendado em 1 de Abril de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — REGULAMENTO DO LICENCIAMENTO DA ACTIVIDADE INDUSTRIAL
 

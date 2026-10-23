@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19000/22522261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1980-471112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T06:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df5a684d7f3a1c667360af4734ea6e6d2cf03f7552be458a21bc6d8b08f6266f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97b3cde605d91aab762c164388b442aa5b8b418679a9e83aa45e09e8a550a0c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Parque de Campismo
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613380:por
+  label: "Repristinado, por recusa de ratificação do Dec Lei 327/95 de 05-Dez, pela RES.10/96.17.02.1996.AR, DR.IS-A [41]\
+    \ de 17.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1996-613380
+  date: '1996-02-17'
+- type: cites
+  target: pt:dre:146879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470586:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:442949:por
+  label: Revogado o art. 16º pelo DEC LEI.423/83.05.12.1983.PCM, DR.IS [279] de 05.12.1983, sem prejuízo do disposto no seu
+    art. 35º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/423-1983-442949
+  date: '1983-12-05'
+- type: repealed_by
+  target: pt:dre:633726:por
+  label: "Revogado pelo DEC LEI.327/95.1995.12.05.MCT, DR.IS-A [280], sem prejuízo do disposto no nº 2 do art. 2º do referido\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/327-1995-633726
+  date: '1995-12-05'
+- type: repealed_by
+  target: pt:dre:156001:por
+  label: "Revogado pelo DEC LEI.167/97.1997.07.04.MECO, DR.IS-A [152], no que se refere à instalação e ao funcionamento dos\
+    \ parques de campismo públicos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/167-1997-156001
+  date: '1997-07-04'
+- type: repealed_by
+  target: pt:dre:250607:por
+  label: "Revogado pelo DEC LEI.55/2002.2002.03.11.MECO DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2002-250607
+  date: '2002-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:02:23Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +155,11 @@ REGULAMENTO DOS PARQUES DE CAMPISMO
 
 #### SECÇÃO I — Da instalação dos parques
 
-###### Artigo 1.º - 1 - Os processos respeitantes à localização e projectos das instalações dos parques de campismo públicos serão organizados pelas câmaras municipais, de harmonia com o disposto no [Decreto-Lei n.º 307/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1980-470586), de 18 de Agosto.
+Artigo 1.º - 1 - Os processos respeitantes à localização e projectos das instalações dos parques de campismo públicos serão organizados pelas câmaras municipais, de harmonia com o disposto no [Decreto-Lei n.º 307/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1980-470586), de 18 de Agosto.
 
 2 - Os processos respeitantes à classificação, disciplina e funcionamento destes parques serão organizados pela Direcção-Geral do Turismo, de harmonia com o disposto no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), de 27 de Novembro.
 
-###### Art. 2.º - 1 - Para poder instalar-se um parque de campismo deverá, em primeiro lugar, requerer-se a aprovação da respectiva localização.
+Art. 2.º - 1 - Para poder instalar-se um parque de campismo deverá, em primeiro lugar, requerer-se a aprovação da respectiva localização.
 
 2 - O requerimento deve indicar o local onde se pretende fazer a instalação e ser acompanhado do original e de dezanove cópias dos seguintes elementos:
 
@@ -132,7 +183,7 @@ d) O sistema de drenagem do solo.
 
 6) No caso de as instalações do parque não serem todas construídas simultaneamente, a memória descritiva deverá conter também a indicação das fases de realização do empreendimento.
 
-###### Art. 3.º - 1 - Aprovada a localização, o interessado deverá apresentar o projecto das instalações no prazo que for fixado pela câmara municipal.
+Art. 3.º - 1 - Aprovada a localização, o interessado deverá apresentar o projecto das instalações no prazo que for fixado pela câmara municipal.
 
 2 - O prazo fixado para apresentação do projecto não poderá ser inferior a seis meses nem superior a dois anos e deverá ter em conta as características e dimensão do empreendimento.
 
@@ -140,7 +191,7 @@ d) O sistema de drenagem do solo.
 
 4 - Se o projecto não for apresentado no prazo fixado, caducará a aprovação da localização.
 
-###### Art. 4.º - 1 - Os projectos, de que serão apresentados oito exemplares, incluirão os seguintes elementos:
+Art. 4.º - 1 - Os projectos, de que serão apresentados oito exemplares, incluirão os seguintes elementos:
 
 1) Planta do arranjo geral a dar ao terreno, à escala de 1:1000, ou, se não for possível, de 1:2000, com altimetria, indicando a localização das instalações projectadas e do dispositivo do abastecimento de água;
 
@@ -184,31 +235,31 @@ l) A indicação dos prazos previstos para início e termo das construções.
 
 5 - No caso previsto no n.º 3, os elementos a que se refere a alínea 2) do n.º 1 poderão respeitar apenas às edificações a construir na fase cuja aprovação se pretenda.
 
-###### Art. 5.º - 1 - Quando os elementos exigidos para a apreciação da localização e dos projectos não forem apresentados em conformidade com o disposto neste Regulamento, a câmara municipal deverá solicitar imediatamente ao interessado que corrija as deficiências encontradas.
+Art. 5.º - 1 - Quando os elementos exigidos para a apreciação da localização e dos projectos não forem apresentados em conformidade com o disposto neste Regulamento, a câmara municipal deverá solicitar imediatamente ao interessado que corrija as deficiências encontradas.
 
 2 - Neste caso, os prazos para os serviços se pronunciarem só começarão a correr a partir da data em que forem corrigidas as deficiências.
 
-###### Art. 6.º - 1 - A câmara municipal poderá exigir, se necessário, a apresentação de mais exemplares dos elementos referidos nos artigos 2.º e 4.º
+Art. 6.º - 1 - A câmara municipal poderá exigir, se necessário, a apresentação de mais exemplares dos elementos referidos nos artigos 2.º e 4.º
 
 2 - Além destes elementos, a câmara municipal poderá ainda solicitar ao interessado quaisquer outros que forem julgados indispensáveis para uma correcta apreciação dos pedidos.
 
-###### Art. 7.º Recebidos os elementos exigidos para a apreciação da localização e dos projectos dos parques, a câmara municipal remetê-los-á às demais entidades interessadas, no prazo de quinze dias a contar do seu recebimento.
+Art. 7.º Recebidos os elementos exigidos para a apreciação da localização e dos projectos dos parques, a câmara municipal remetê-los-á às demais entidades interessadas, no prazo de quinze dias a contar do seu recebimento.
 
-###### Art. 8.º - 1 - Quando as decisões dos serviços ou entidades consultadas não tiverem sido tomadas nas reuniões conjuntas previstas na alínea b) do n.º 2 do artigo 8.º e nos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), a câmara municipal deverá pronunciar-se no prazo de quinze dias, a contar da última decisão recebida, considerando-se que dá a sua aprovação ao requerido se não for proferida qualquer comunicação dentro deste prazo.
+Art. 8.º - 1 - Quando as decisões dos serviços ou entidades consultadas não tiverem sido tomadas nas reuniões conjuntas previstas na alínea b) do n.º 2 do artigo 8.º e nos n.os 1 e 2 do artigo 9.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), a câmara municipal deverá pronunciar-se no prazo de quinze dias, a contar da última decisão recebida, considerando-se que dá a sua aprovação ao requerido se não for proferida qualquer comunicação dentro deste prazo.
 
 2 - A aprovação dos projectos poderá ser condicionada à realização das alterações que se julgarem convenientes, podendo, neste caso, exigir-se a apresentação de novos elementos.
 
-###### Art. 9.º A câmara municipal deverá comunicar ao interessado o que for decidido quanto à localização, projecto, classificação e capacidade provisórias, atribuídas pela Direcção-Geral do Turismo, no prazo de quinze dias, contados da última decisão tomada.
+Art. 9.º A câmara municipal deverá comunicar ao interessado o que for decidido quanto à localização, projecto, classificação e capacidade provisórias, atribuídas pela Direcção-Geral do Turismo, no prazo de quinze dias, contados da última decisão tomada.
 
-###### Art. 10.º - 1 - A câmara municipal fixará, quando da aprovação dos projectos, o prazo de início e termo da respectiva construção, caducando aquela aprovação se estes prazos não forem respeitados.
+Art. 10.º - 1 - A câmara municipal fixará, quando da aprovação dos projectos, o prazo de início e termo da respectiva construção, caducando aquela aprovação se estes prazos não forem respeitados.
 
 2 - Estes prazos poderão ser prorrogados pela câmara municipal, por motivos devidamente justificados.
 
-###### Art. 11.º - 1 - Concluídas as obras de instalação, deverão os interessados requerer à Direcção-Geral do Turismo a respectiva vistoria, para verificação da sua conformidade com o projecto aprovado e da observância dos requisitos exigidos em matéria de salubridade e demais prescrições legais.
+Art. 11.º - 1 - Concluídas as obras de instalação, deverão os interessados requerer à Direcção-Geral do Turismo a respectiva vistoria, para verificação da sua conformidade com o projecto aprovado e da observância dos requisitos exigidos em matéria de salubridade e demais prescrições legais.
 
 2 - Simultaneamente, deverão requerer a autorização de funcionamento e apresentar o projecto de regulamento do parque, sem o que não se considerará requerida a vistoria.
 
-###### Art. 12.º - 1 - A vistoria às instalações será realizada conjuntamente, nos termos dos artigos 16.º e 17.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), por funcionários da Direcção-Geral do Turismo, pelo delegado distrital de Saúde ou seu representante e pelos funcionários das demais entidades ou serviços competentes, públicos ou privados.
+Art. 12.º - 1 - A vistoria às instalações será realizada conjuntamente, nos termos dos artigos 16.º e 17.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), por funcionários da Direcção-Geral do Turismo, pelo delegado distrital de Saúde ou seu representante e pelos funcionários das demais entidades ou serviços competentes, públicos ou privados.
 
 2 - Do relatório da vistoria será entregue um exemplar a cada um dos intervenientes.
 
@@ -216,21 +267,21 @@ l) A indicação dos prazos previstos para início e termo das construções.
 
 4 - No momento da vistoria será entregue ao interessado um certificado destinado a comprovar a data da sua realização.
 
-###### Art. 13.º - 1 - Com o resultado da vistoria, será notificada ao interessado a decisão sobre a entrada em funcionamento do parque.
+Art. 13.º - 1 - Com o resultado da vistoria, será notificada ao interessado a decisão sobre a entrada em funcionamento do parque.
 
 2 - No caso de não ser autorizado o funcionamento do parque, devem ser comunicados ao interessado os fundamentos da recusa.
 
 3 - Sendo autorizado o funcionamento, da notificação devem constar a classificação e a capacidade do parque e ainda a aprovação do seu regulamento interno.
 
-###### Art. 14.º Autorizado tacitamente o funcionamento do parque, nos termos do n.º 4 do artigo 17.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), considerar-se-á igualmente aprovado o respectivo regulamento interno.
+Art. 14.º Autorizado tacitamente o funcionamento do parque, nos termos do n.º 4 do artigo 17.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), considerar-se-á igualmente aprovado o respectivo regulamento interno.
 
-###### Art. 15.º - 1 - Não poderão ser feitas quaisquer alterações nos parques de campismo que impliquem alteração nos projectos iniciais sem a prévia autorização da câmara municipal, ouvida a Direcção-Geral do Turismo, que poderá exigir para o efeito, sempre que se mostre conveniente, um projecto das obras a efectuar com os elementos necessários à apreciação do pedido.
+Art. 15.º - 1 - Não poderão ser feitas quaisquer alterações nos parques de campismo que impliquem alteração nos projectos iniciais sem a prévia autorização da câmara municipal, ouvida a Direcção-Geral do Turismo, que poderá exigir para o efeito, sempre que se mostre conveniente, um projecto das obras a efectuar com os elementos necessários à apreciação do pedido.
 
 2 - É aplicável neste caso, com as necessárias adaptações, o disposto neste Regulamento para os projectos dos parques.
 
 3 - As infracções ao disposto no n.º 1 deste artigo serão punidas com multa de 1000$00 a 10000$00, devendo ainda ser obtida a legalização das obras nos termos estabelecidos.
 
-###### Art. 16.º - 1 - Para efeitos da declaração de utilidade turística prevista no artigo 24.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), os interessados deverão apresentar na Direcção-Geral do Turismo um requerimento devidamente fundamentado.
+Art. 16.º - 1 - Para efeitos da declaração de utilidade turística prevista no artigo 24.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), os interessados deverão apresentar na Direcção-Geral do Turismo um requerimento devidamente fundamentado.
 
 2 - No caso de a instalação do parque não se encontrar ainda requerida ou autorizada, o requerimento a que se refere o número anterior deverá ser acompanhado dos elementos exigidos neste diploma para a apreciação da localização e do projecto do parque, sem o que o pedido não poderá ser apreciado.
 
@@ -238,7 +289,7 @@ l) A indicação dos prazos previstos para início e termo das construções.
 
 #### SECÇÃO II — Dos requisitos gerais
 
-###### Art. 17.º - 1 - Os terrenos destinados à instalação dos parques terão de obedecer, pelo menos, aos seguintes requisitos:
+Art. 17.º - 1 - Os terrenos destinados à instalação dos parques terão de obedecer, pelo menos, aos seguintes requisitos:
 
 a) Terem localização adequada do ponto de vista turístico;
 
@@ -266,13 +317,13 @@ j) Serem suficientemente drenados para facilitar o escoamento das águas pluviai
 
 4 - A localização dos terrenos no aspecto turístico será livremente apreciada pela Direcção-Geral do Turismo, quando os respectivos processos lhe forem remetidos pelas câmaras para parecer.
 
-###### Art. 18.º - 1 - Os parques deverão ser devidamente vedados.
+Art. 18.º - 1 - Os parques deverão ser devidamente vedados.
 
 2 - Entre a vedação e as construções existentes no parque, com excepção da recepção, deverá existir uma faixa de terreno de largura não inferior a 3 m.
 
 3 - A câmara municipal poderá dispensar a vedação se o terreno onde for instalado o parque oferecer, pelas suas condições naturais, suficiente isolamento do exterior.
 
-###### Art. 19.º - 1 - Todos os parques devem possuir dentro do recinto o mínimo de 30 l de água potável canalizada por pessoa e por dia.
+Art. 19.º - 1 - Todos os parques devem possuir dentro do recinto o mínimo de 30 l de água potável canalizada por pessoa e por dia.
 
 2 - Os pontos de água devem ser cimentados em volta e dispor de drenagem conveniente.
 
@@ -284,7 +335,7 @@ j) Serem suficientemente drenados para facilitar o escoamento das águas pluviai
 
 6 - A infracção ao disposto nos n.os 1, 3 e 5 será punida com multa de 5000$00 a 20000$00.
 
-###### Art. 20.º - 1 - Todos os parques deverão dispor de energia eléctrica para a sua conveniente iluminação e de telefone ligado à rede geral.
+Art. 20.º - 1 - Todos os parques deverão dispor de energia eléctrica para a sua conveniente iluminação e de telefone ligado à rede geral.
 
 2 - Durante as horas de descanso haverá luz permanente à entrada do parque e das instalações sanitárias, e no interior destas essa luz será accionável através de interruptor, com a protecção necessária para não se tornar incómoda.
 
@@ -292,9 +343,9 @@ j) Serem suficientemente drenados para facilitar o escoamento das águas pluviai
 
 4 - Junto às tomadas de corrente destinadas aos utentes deverá ser indicada a respectiva tensão.
 
-###### Art. 21.º Nos parques deverão existir recipientes para o lixo, com tampa, convenientemente distribuídos pelo terreno, de modo a assegurar uma capacidade mínima de 4 dm3 por pessoa e por dia.
+Art. 21.º Nos parques deverão existir recipientes para o lixo, com tampa, convenientemente distribuídos pelo terreno, de modo a assegurar uma capacidade mínima de 4 dm3 por pessoa e por dia.
 
-###### Art. 22.º - 1 - Todos os parques deverão dispor de um sistema eficiente de protecção contra incêndios.
+Art. 22.º - 1 - Todos os parques deverão dispor de um sistema eficiente de protecção contra incêndios.
 
 2 - O pessoal dos parques deverá ser instruído sobre o manejo de extintores e as medidas a tomar em caso de incêndio.
 
@@ -306,29 +357,29 @@ j) Serem suficientemente drenados para facilitar o escoamento das águas pluviai
 
 6 - Suspenso o funcionamento, o parque só poderá reabrir mediante prévia comunicação à Direcção-Geral do Turismo, por carta registada, de ter sido suprida a falta.
 
-###### Art. 23.º Os parques que confinem com as praias fluviais ou marítimas devem dispor do equipamento necessário que garanta a utilização dessas praias com segurança por parte dos utentes.
+Art. 23.º Os parques que confinem com as praias fluviais ou marítimas devem dispor do equipamento necessário que garanta a utilização dessas praias com segurança por parte dos utentes.
 
-###### Art. 24.º - 1 - Todos os parques devem possuir uma caixa-ambulância munida de material necessário para curativos e dos medicamentos normalmente usados para socorros urgentes, de acordo com o que for estabelecido pela Direcção-Geral de Saúde.
+Art. 24.º - 1 - Todos os parques devem possuir uma caixa-ambulância munida de material necessário para curativos e dos medicamentos normalmente usados para socorros urgentes, de acordo com o que for estabelecido pela Direcção-Geral de Saúde.
 
 2 - A caixa será confiada à guarda do encarregado do parque.
 
-###### Art. 25.º - 1 - A capacidade máxima dos parques será calculada de acordo com a área destinada a cada instalação de tenda, reboque ou veículo habitável, sem prejuízo dos limites correspondentes à capacidade das instalações comuns existentes.
+Art. 25.º - 1 - A capacidade máxima dos parques será calculada de acordo com a área destinada a cada instalação de tenda, reboque ou veículo habitável, sem prejuízo dos limites correspondentes à capacidade das instalações comuns existentes.
 
 2 - A não observância do disposto no n.º 1 será punida com multa de 2000$00 a 10000$00.
 
-###### Art. 26.º - 1 - Os parques deverão ser devidamente sinalizados e possuir acesso à via pública que permita o trânsito fácil de veículos automóveis e reboques.
+Art. 26.º - 1 - Os parques deverão ser devidamente sinalizados e possuir acesso à via pública que permita o trânsito fácil de veículos automóveis e reboques.
 
 2 - As vias de circulação interna terão a largura mínima de 3 m ou 5 m, respectivamente, conforme sejam de sentido único ou duplo, e deverão ser mantidas em bom estado de conservação.
 
 3 - Deverá ser indicada à entrada dos parques, em local bem visível do exterior, a inexistência de lugares vagos através de caracteres que permitam a sua leitura fácil mesmo de noite.
 
-###### Art. 27.º - 1 - A câmara municipal, ouvida a Direcção-Geral do Turismo, poderá autorizar a construção dentro dos parques de campismo de instalações destinadas a fornecer alojamento aos campistas.
+Art. 27.º - 1 - A câmara municipal, ouvida a Direcção-Geral do Turismo, poderá autorizar a construção dentro dos parques de campismo de instalações destinadas a fornecer alojamento aos campistas.
 
 2 - Tais instalações deverão ter sempre um carácter complementar relativamente à capacidade dos respectivos parques, não podendo, em qualquer caso, exceder-se o número de três quartos por hectare utilizável.
 
 3 - A Direcção-Geral do Turismo decidirá livremente, sem prejuízo do disposto no número anterior, sobre a possibilidade e oportunidade da construção destas instalações e, bem assim, sobre a sua dimensão.
 
-###### Art. 28.º - 1 - Às instalações previstas no artigo anterior é aplicável, com as necessárias adaptações e tendo em atenção o disposto nos números seguintes, o estabelecido no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, e no [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, e os respectivos quartos deverão satisfazer, pelo menos, os requisitos estabelecidos nos referidos diplomas para os motéis de duas estrelas.
+Art. 28.º - 1 - Às instalações previstas no artigo anterior é aplicável, com as necessárias adaptações e tendo em atenção o disposto nos números seguintes, o estabelecido no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, e no [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro, e os respectivos quartos deverão satisfazer, pelo menos, os requisitos estabelecidos nos referidos diplomas para os motéis de duas estrelas.
 
 2 - Em qualquer caso, não será exigível a construção de instalações sanitárias privativas nem de zonas de estar e de recepção-portaria.
 
@@ -336,11 +387,11 @@ j) Serem suficientemente drenados para facilitar o escoamento das águas pluviai
 
 #### SECÇÃO III — Da classificação e requisitos especiais
 
-###### Art. 29.º - 1 - Os parques de campismo serão classificados em parques de uma, duas, três e quatro estrelas, de acordo com os requisitos enumerados no presente Regulamento.
+Art. 29.º - 1 - Os parques de campismo serão classificados em parques de uma, duas, três e quatro estrelas, de acordo com os requisitos enumerados no presente Regulamento.
 
 2 - Quando os parques se destinarem exclusivamente à instalação de reboques ou veículos habitáveis, poderão denominar-se «parques de caravanismo».
 
-###### Art. 30.º - 1 - Os parques de campismo de uma estrela deverão possuir os seguintes requisitos mínimos:
+Art. 30.º - 1 - Os parques de campismo de uma estrela deverão possuir os seguintes requisitos mínimos:
 
 a) Recepção instalada junto da entrada;
 
@@ -378,7 +429,7 @@ j) Instalações para o pessoal do parque.
 
 9 - Nos parques de uma estrela deverá destinar-se a cada instalação uma superfície média de 80 m2.
 
-###### Art. 31.º - 1 - Os parques de campismo de duas estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos no artigo anterior:
+Art. 31.º - 1 - Os parques de campismo de duas estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos no artigo anterior:
 
 a) Nenhum campista deverá estar instalado a mais de 100 m das instalações sanitárias;
 
@@ -396,7 +447,7 @@ g) Electricidade para caravanas.
 
 2 - Nos parques de duas estrelas deverá destinar-se a cada instalação uma superfície média de 80 m2.
 
-###### Art. 32.º - 1 - Os parques de campismo de três estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
+Art. 32.º - 1 - Os parques de campismo de três estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
 
 a) Terreno sempre arborizado, de modo a proporcionar sombras adequadas;
 
@@ -426,7 +477,7 @@ n) Restaurante ou cantina.
 
 2 - Nos parques de três estrelas deverá destinar-se a cada instalação uma superfície média de 100 m2.
 
-###### Art. 33.º - 1 - Os parques de campismo de quatro estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
+Art. 33.º - 1 - Os parques de campismo de quatro estrelas deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
 
 a) Terreno nivelado por forma a proporcionar um melhor aproveitamento do mesmo;
 
@@ -460,21 +511,21 @@ p) Restaurante.
 
 2 - Nos parques de quatro estrelas deverá destinar-se a cada instalação uma superfície média de 150 m2.
 
-###### Art. 34.º A Direcção-Geral do Turismo poderá, a título excepcional, dispensar alguns dos requisitos gerais ou especiais a que se refere o presente Regulamento, para o que o interessado deverá apresentar a respectiva justificação.
+Art. 34.º A Direcção-Geral do Turismo poderá, a título excepcional, dispensar alguns dos requisitos gerais ou especiais a que se refere o presente Regulamento, para o que o interessado deverá apresentar a respectiva justificação.
 
 #### SECÇÃO IV — Do funcionamento e preços
 
-###### Art. 35.º - 1 - Os parques deverão ter um regulamento interno, aprovado pela Direcção-Geral do Turismo, do qual constarão, obrigatoriamente, as disposições dos artigos 47.º a 50.º deste Regulamento e as medidas de protecção contra incêndios em vigor no parque.
+Art. 35.º - 1 - Os parques deverão ter um regulamento interno, aprovado pela Direcção-Geral do Turismo, do qual constarão, obrigatoriamente, as disposições dos artigos 47.º a 50.º deste Regulamento e as medidas de protecção contra incêndios em vigor no parque.
 
 2 - Na recepção dos parques existirá, pelo menos, um exemplar do regulamento e respectiva tradução em francês e inglês, igualmente aprovado pela Direcção-Geral do Turismo, que será facultado aos campistas no momento da inscrição.
 
-###### Art. 36.º - 1 - Os parques deverão abrir e encerrar de acordo com a época de funcionamento aprovada.
+Art. 36.º - 1 - Os parques deverão abrir e encerrar de acordo com a época de funcionamento aprovada.
 
 2 - A época de funcionamento não poderá ser alterada nem interrompida sem autorização da Direcção-Geral do Turismo, a requerer com a antecedência mínima de trinta dias.
 
 3 - As infracções ao disposto nos números anteriores serão punidas com multa de 2000$00 a 10000$00.
 
-###### Art. 37.º - 1 - A recepção deverá abrir às 8 horas e encerrar às 20 horas, pelo menos, garantindo um mínimo de oito horas de funcionamento diário com pessoal habilitado.
+Art. 37.º - 1 - A recepção deverá abrir às 8 horas e encerrar às 20 horas, pelo menos, garantindo um mínimo de oito horas de funcionamento diário com pessoal habilitado.
 
 2 - Na recepção, e em local bem visível ao público, serão afixadas em português, francês e inglês as seguintes indicações:
 
@@ -500,7 +551,7 @@ j) Indicação do correio mais próximo;
 
 l) Informações dos serviços religiosos mais próximos.
 
-###### Art. 38.º - 1 - Nenhum parque poderá funcionar sem dispor, pelo menos, de um encarregado, de recepcionistas e de guardas.
+Art. 38.º - 1 - Nenhum parque poderá funcionar sem dispor, pelo menos, de um encarregado, de recepcionistas e de guardas.
 
 2 - Ao encarregado compete:
 
@@ -534,11 +585,11 @@ d) Receber dos campistas as importâncias devidas.
 
 9 - A falta do pessoal previsto nos n.os 2 a 4 determinará, enquanto não for suprida, a suspensão do funcionamento do parque.
 
-###### Art. 39.º - 1 - Em cada parque existirá um sistema de registo onde serão inscritos os campistas que o utilizem, com a indicação dos elementos e documentos da sua identificação e, bem assim, dos dias e horas da respectiva chegada e partida.
+Art. 39.º - 1 - Em cada parque existirá um sistema de registo onde serão inscritos os campistas que o utilizem, com a indicação dos elementos e documentos da sua identificação e, bem assim, dos dias e horas da respectiva chegada e partida.
 
 2 - Sempre que os campistas constituam um grupo, bastará inscrever-se o responsável pelo grupo, indicando-se por algarismo o número de pessoas que o acompanham.
 
-###### Art. 40.º - 1 - Em todos os parques existirá um livro de reclamações, que será obrigatoriamente facultado aos utentes que o solicitem.
+Art. 40.º - 1 - Em todos os parques existirá um livro de reclamações, que será obrigatoriamente facultado aos utentes que o solicitem.
 
 2 - O livro, de modelo a aprovar pela Direcção-Geral do Turismo, deverá ter termos de abertura e de encerramento assinados pelo chefe da repartição competente e as folhas numeradas e rubricadas pelo mesmo funcionário, podendo estas assinaturas e rubricas ser de chancela.
 
@@ -548,27 +599,27 @@ d) Receber dos campistas as importâncias devidas.
 
 5 - O encarregado deverá fazer acompanhar a reclamação dos elementos de identidade do reclamante.
 
-###### Art. 41.º - 1 - Nos parques só é autorizada a permanência de material desocupado mediante menção expressa e nas condições previstas pelo respectivo regulamento interno.
+Art. 41.º - 1 - Nos parques só é autorizada a permanência de material desocupado mediante menção expressa e nas condições previstas pelo respectivo regulamento interno.
 
 2 - Poderá ainda ser autorizada, mediante menção expressa no respectivo regulamento, uma zona especialmente destinada ao estacionamento de material desocupado.
 
 3 - A zona prevista no número anterior deverá ser rotativa regularmente, com vista à defesa das condições naturais do parque.
 
-###### Art. 42.º O regulamento interno do parque deverá indicar expressamente se são autorizadas as visitas aos utentes, e, no caso afirmativo, a que condições deverão obedecer, tendo em conta a capacidade do parque.
+Art. 42.º O regulamento interno do parque deverá indicar expressamente se são autorizadas as visitas aos utentes, e, no caso afirmativo, a que condições deverão obedecer, tendo em conta a capacidade do parque.
 
-###### Art. 43.º É proibido o acesso às pessoas que se façam acompanhar de animais, salvo disposição em contrário no regulamento interno do parque.
+Art. 43.º É proibido o acesso às pessoas que se façam acompanhar de animais, salvo disposição em contrário no regulamento interno do parque.
 
-###### Art. 44.º - 1 - É proibida a utilização dos parques de campismo com carácter de residência permanente.
+Art. 44.º - 1 - É proibida a utilização dos parques de campismo com carácter de residência permanente.
 
 2 - Para os efeitos do disposto no número anterior, considera-se residência permanente a utilização das instalações por um período superior a cento e oitenta dias em cada ano civil.
 
-###### Art. 45.º Os preços a praticar nos parques serão regulamentados oportunamente em portaria, de acordo com a respectiva classificação.
+Art. 45.º Os preços a praticar nos parques serão regulamentados oportunamente em portaria, de acordo com a respectiva classificação.
 
-###### Art. 46.º - 1 - Os proprietários e exploradores dos parques serão obrigados a mantê-los em perfeito estado de limpeza, bem como a providenciar no sentido de os mesmos oferecerem aspecto cuidado e agradável.
+Art. 46.º - 1 - Os proprietários e exploradores dos parques serão obrigados a mantê-los em perfeito estado de limpeza, bem como a providenciar no sentido de os mesmos oferecerem aspecto cuidado e agradável.
 
 2 - Para este efeito deverá existir, pelo menos, um serviço diário de recolha do lixo.
 
-###### Art. 47.º - 1 - A utilização dos parques depende de prévia identificação dos campistas, mediante a apresentação dos respectivos passaportes, bilhetes de identidade ou, quando exigida, da carta ou licença de campista passada por organismo nacional ou internacional oficialmente reconhecido.
+Art. 47.º - 1 - A utilização dos parques depende de prévia identificação dos campistas, mediante a apresentação dos respectivos passaportes, bilhetes de identidade ou, quando exigida, da carta ou licença de campista passada por organismo nacional ou internacional oficialmente reconhecido.
 
 2 - A exigência da carta ou licença de campista só poderá ser feita desde que estabelecida no regulamento oficialmente aprovado para o parque.
 
@@ -576,11 +627,11 @@ d) Receber dos campistas as importâncias devidas.
 
 4 - Os campistas com idade inferior a 15 anos só poderão frequentar os parques quando acompanhados pelos pais ou por pessoas maiores que se responsabilizem por eles.
 
-###### Art. 48.º - 1 - O encarregado do parque poderá impedir a entrada ou permanência a todo aquele que, depois de advertido, não observe o disposto neste diploma ou no regulamento do parque e ainda aos que entrem ou pretendam entrar com fim diferente da prática do campismo.
+Art. 48.º - 1 - O encarregado do parque poderá impedir a entrada ou permanência a todo aquele que, depois de advertido, não observe o disposto neste diploma ou no regulamento do parque e ainda aos que entrem ou pretendam entrar com fim diferente da prática do campismo.
 
 2 - O encarregado poderá solicitar o auxílio das autoridades policiais para fazer cumprir as determinações impostas nos termos do número anterior.
 
-###### Art. 49.º - 1 - Os utentes do parque têm direito a:
+Art. 49.º - 1 - Os utentes do parque têm direito a:
 
 a) Utilizar as respectivas instalações e serviços de acordo com o disposto no presente diploma e no regulamento do parque;
 
@@ -596,7 +647,7 @@ f) Manter inviolável o respectivo alojamento, designadamente impedindo a entrad
 
 2 - Os utentes que apresentem alguma reclamação deverão indicar o seu nome completo, o domicílio e o respectivo documento de identificação, sob pena de aquela não poder ser considerada.
 
-###### Art. 50.º Os utentes do parque devem:
+Art. 50.º Os utentes do parque devem:
 
 a) Acatar dentro do parque a autoridade dos responsáveis pelo seu funcionamento;
 
@@ -622,7 +673,7 @@ l) Identificar-se por meio da carta de campista, quando a possuir, mesmo que est
 
 ### CAPÍTULO II — Dos parques de campismo privativos
 
-###### Art. 51.º - 1 - A Direcção-Geral do Turismo pode autorizar, a requerimento dos interessados, que os parques de campismo sejam destinados apenas aos associados ou beneficiários das entidades proprietárias ou exploradoras, classificando-os de privativos.
+Art. 51.º - 1 - A Direcção-Geral do Turismo pode autorizar, a requerimento dos interessados, que os parques de campismo sejam destinados apenas aos associados ou beneficiários das entidades proprietárias ou exploradoras, classificando-os de privativos.
 
 2 - O requerimento deverá ser devidamente fundamentado e instruído com os estatutos da entidade requerente.
 
@@ -630,27 +681,27 @@ l) Identificar-se por meio da carta de campista, quando a possuir, mesmo que est
 
 4 - Os parques de campismo pertencentes ou explorados pela Federação ou pelas colectividades nela filiadas serão destinados aos titulares da carta de campista nacional e do carnet camping internacional.
 
-###### Art. 52.º A instalação e funcionamento dos parques de campismo privativos regular-se-ão pelas normas próprias das entidades proprietárias ou exploradoras e pelos respectivos regulamentos internos, com observância do disposto no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879) e nos artigos seguintes.
+Art. 52.º A instalação e funcionamento dos parques de campismo privativos regular-se-ão pelas normas próprias das entidades proprietárias ou exploradoras e pelos respectivos regulamentos internos, com observância do disposto no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879) e nos artigos seguintes.
 
-###### Art. 53.º - 1 - A localização dos parques de campismo privativos deverá ser previamente autorizada pelas câmaras municipais nos termos estabelecidos no [Decreto-Lei n.º 307/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1980-470586) e neste Regulamento para os parques públicos.
+Art. 53.º - 1 - A localização dos parques de campismo privativos deverá ser previamente autorizada pelas câmaras municipais nos termos estabelecidos no [Decreto-Lei n.º 307/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1980-470586) e neste Regulamento para os parques públicos.
 
 2 - A câmara municipal poderá condicionar a autorização prevista no número anterior à satisfação de alguns dos outros requisitos estabelecidos neste Regulamento.
 
 3 - Em todos os casos deverá observar-se o disposto no artigo 17.º deste Regulamento.
 
-###### Art. 54.º - 1 - O funcionamento dos parques de campismo privativos dependerá de autorização da Direcção-Geral do Turismo.
+Art. 54.º - 1 - O funcionamento dos parques de campismo privativos dependerá de autorização da Direcção-Geral do Turismo.
 
 2 - Para este efeito, os interessados deverão apresentar nas câmaras municipais o projecto das instalações, nos termos dos artigos 3.º e 4.º deste Regulamento com excepção do disposto neste último artigo referente à classificação.
 
 3 - Para a aprovação do projecto, realização da vistoria e autorização de funcionamento observar-se-á o disposto neste Regulamento para os parques públicos.
 
-###### Art. 55.º Na instalação e funcionamento dos parques privativos observar-se-á o disposto nos artigos 19.º e 24.º deste Regulamento.
+Art. 55.º Na instalação e funcionamento dos parques privativos observar-se-á o disposto nos artigos 19.º e 24.º deste Regulamento.
 
-###### Art. 56.º O disposto neste diploma relativamente à aprovação dos regulamentos internos dos parques públicos não se aplica aos parques privativos, devendo, no entanto, as entidades proprietárias ou exploradoras enviar à Direcção-Geral do Turismo, para conhecimento, um exemplar do respectivo regulamento interno antes da abertura do parque.
+Art. 56.º O disposto neste diploma relativamente à aprovação dos regulamentos internos dos parques públicos não se aplica aos parques privativos, devendo, no entanto, as entidades proprietárias ou exploradoras enviar à Direcção-Geral do Turismo, para conhecimento, um exemplar do respectivo regulamento interno antes da abertura do parque.
 
-###### Art. 57.º A utilização dos parques privativos por quem não for beneficiário ou associado das respectivas entidades proprietárias ou exploradoras determinará a sua imediata sujeição à disciplina estabelecida para os parques de campismo públicos.
+Art. 57.º A utilização dos parques privativos por quem não for beneficiário ou associado das respectivas entidades proprietárias ou exploradoras determinará a sua imediata sujeição à disciplina estabelecida para os parques de campismo públicos.
 
-###### Art. 58.º - 1 - A Direcção-Geral do Turismo poderá classificar os parques de campismo privativos, desde que estes disponham dos requisitos exigidos para as diversas categorias dos parques públicos.
+Art. 58.º - 1 - A Direcção-Geral do Turismo poderá classificar os parques de campismo privativos, desde que estes disponham dos requisitos exigidos para as diversas categorias dos parques públicos.
 
 2 - Neste caso, deverão os parques privativos afixar a respectiva placa normalizada nos termos da alínea b) do artigo 38.º deste diploma.
 
@@ -660,7 +711,7 @@ l) Identificar-se por meio da carta de campista, quando a possuir, mesmo que est
 
 ### CAPÍTULO III — Do campismo fora dos parques
 
-###### Art. 59.º - 1 - Fora dos parques não é permitida a prática do campismo nos centros urbanos, nas zonas de protecção a nascentes e condutas de água potável, ou a menos de 1 km dos próprios parques e das praias ou outros lugares habitualmente frequentados pelo público.
+Art. 59.º - 1 - Fora dos parques não é permitida a prática do campismo nos centros urbanos, nas zonas de protecção a nascentes e condutas de água potável, ou a menos de 1 km dos próprios parques e das praias ou outros lugares habitualmente frequentados pelo público.
 
 2 - Na instalação conjunta de tendas, reboques ou veículos habitáveis fora dos parques, o número de campistas não poderá ser superior a vinte.
 
@@ -668,7 +719,7 @@ l) Identificar-se por meio da carta de campista, quando a possuir, mesmo que est
 
 4 - A inobservância do disposto nos n.os 1 e 2 implicará para os infractores a obrigação de abandonar imediatamente o local, para além da eventual sanção prevista no artigo 63.º
 
-###### Art. 60.º - 1 - A Direcção-Geral do Turismo poderá autorizar a realização fora dos parques de acampamentos com carácter eventual, sem a observância das limitações impostas no artigo anterior.
+Art. 60.º - 1 - A Direcção-Geral do Turismo poderá autorizar a realização fora dos parques de acampamentos com carácter eventual, sem a observância das limitações impostas no artigo anterior.
 
 2 - Para este efeito, os interessados deverão apresentar na Direcção-Geral do Turismo o respectivo pedido, indicando a entidade organizadora, a duração do acampamento, o processo de abastecimento de água potável, as medidas de salubridade tomadas e a sua localização, que deverá ser indicada de modo a não haver dúvidas e, se possível, com uma planta à escala conveniente.
 
@@ -680,7 +731,7 @@ l) Identificar-se por meio da carta de campista, quando a possuir, mesmo que est
 
 6 - Pela realização de acampamentos com carácter eventual sem a autorização prevista neste artigo a entidade organizadora será punida com multa até 10000$00, devendo as autoridades administrativas ou policiais promover o imediato abandono do local.
 
-###### Art. 61.º - 1 - Quando acamparem fora dos parques, os campistas deverão observar as normas usuais de urbanidade, higiene e convivência, e especialmente:
+Art. 61.º - 1 - Quando acamparem fora dos parques, os campistas deverão observar as normas usuais de urbanidade, higiene e convivência, e especialmente:
 
 a) Procederem de modo a não inquinar as águas das fontes e poços;
 
@@ -700,31 +751,31 @@ c) Fossas para a recolha de lixos e detritos.
 
 ### CAPÍTULO IV — Da fiscalização e sanções
 
-###### Art. 62.º - 1 - A fiscalização do cumprimento do disposto no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879) e no presente Regulamento compete à Direcção-Geral do Turismo, à Direcção-Geral de Saúde e às autoridades administrativas e policiais.
+Art. 62.º - 1 - A fiscalização do cumprimento do disposto no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879) e no presente Regulamento compete à Direcção-Geral do Turismo, à Direcção-Geral de Saúde e às autoridades administrativas e policiais.
 
 2 - Para efeitos do disposto no número anterior, aos funcionários em serviço de fiscalização, depois de devidamente identificados, serão facultados, a todo o momento, o acesso aos parques públicos e privativos e suas dependências e, bem assim, quaisquer elementos por eles solicitados.
 
-###### Art. 63.º As infracções ao disposto neste diploma e no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), para que não seja especialmente prevista qualquer sanção, serão punidas com multa de 500$00 a 10000$00.
+Art. 63.º As infracções ao disposto neste diploma e no [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), para que não seja especialmente prevista qualquer sanção, serão punidas com multa de 500$00 a 10000$00.
 
-###### Art. 64.º No caso de reincidência, os limites máximos das multas estabelecidas neste diploma serão elevados para o dobro.
+Art. 64.º No caso de reincidência, os limites máximos das multas estabelecidas neste diploma serão elevados para o dobro.
 
-###### Art. 65.º Quando for aplicada a pena de multa, o director-geral do Turismo poderá, atendendo à reduzida gravidade e demais circunstâncias da infracção, substituir a pena de multa pela de advertência, se se tratar da primeira infracção verificada há mais de um ano.
+Art. 65.º Quando for aplicada a pena de multa, o director-geral do Turismo poderá, atendendo à reduzida gravidade e demais circunstâncias da infracção, substituir a pena de multa pela de advertência, se se tratar da primeira infracção verificada há mais de um ano.
 
-###### Art. 66.º Será aplicável a pena de suspensão até seis meses do funcionamento dos parques de campismo públicos por infracções repetidas em matéria de funcionamento ou, no caso de segunda reincidência, em matéria de preços.
+Art. 66.º Será aplicável a pena de suspensão até seis meses do funcionamento dos parques de campismo públicos por infracções repetidas em matéria de funcionamento ou, no caso de segunda reincidência, em matéria de preços.
 
-###### Art. 67.º - 1 - No caso de incumprimento injustificado das providências ordenadas nos termos da alínea g) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), será suspenso o funcionamento do parque de campismo até que tenha sido dada integral satisfação ao que tiver sido determinado.
+Art. 67.º - 1 - No caso de incumprimento injustificado das providências ordenadas nos termos da alínea g) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 588/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/588-1970-146879), será suspenso o funcionamento do parque de campismo até que tenha sido dada integral satisfação ao que tiver sido determinado.
 
 2 - Independentemente da aplicação da sanção a que haja lugar, a Direcção-Geral do Turismo notificará o empresário, sempre que a natureza da infracção o justifique, para corrigir, no prazo que lhe for fixado, a deficiência verificada.
 
 3 - Neste caso, se o empresário não cumprir a notificação que lhe for feita, a Direcção-Geral do Turismo poderá suspender temporariamente o funcionamento do parque até que a deficiência seja corrigida.
 
-###### Art. 68.º - 1 - Será aplicada a pena de encerramento definitivo do parque de campismo público quando, pela prática de infracções repetidas e graves, a manutenção da sua exploração represente um grave prejuízo para os interesses do turismo nacional.
+Art. 68.º - 1 - Será aplicada a pena de encerramento definitivo do parque de campismo público quando, pela prática de infracções repetidas e graves, a manutenção da sua exploração represente um grave prejuízo para os interesses do turismo nacional.
 
 2 - Para este efeito, considerar-se-ão graves, nomeadamente, as infracções respeitantes a preços e ao funcionamento.
 
-###### Art. 69.º O parque encerrado definitivamente por aplicação da sanção prevista no artigo anterior só poderá reabrir desde que passe a ser explorado por uma entidade que não a que o explorava à data em que se verificaram as infracções.
+Art. 69.º O parque encerrado definitivamente por aplicação da sanção prevista no artigo anterior só poderá reabrir desde que passe a ser explorado por uma entidade que não a que o explorava à data em que se verificaram as infracções.
 
-###### Art. 70.º - 1 - Quando forem aplicadas as penas de suspensão ou de encerramento, a sua execução só será efectuada depois de terminada a estada de todos os campistas que, à data da notificação da sanção, se encontrem no parque.
+Art. 70.º - 1 - Quando forem aplicadas as penas de suspensão ou de encerramento, a sua execução só será efectuada depois de terminada a estada de todos os campistas que, à data da notificação da sanção, se encontrem no parque.
 
 2 - A partir da notificação referida no número anterior ficará interdita a admissão de novos campistas, ainda que as respectivas reservas sejam anteriores.
 
@@ -732,7 +783,7 @@ c) Fossas para a recolha de lixos e detritos.
 
 ### CAPÍTULO V — Do registo
 
-###### Art. 71.º - 1 - A Direcção-Geral do Turismo organizará um registo de todos os parques públicos e privativos existentes.
+Art. 71.º - 1 - A Direcção-Geral do Turismo organizará um registo de todos os parques públicos e privativos existentes.
 
 2 - Do registo constarão sempre os seguintes elementos:
 
@@ -766,30 +817,30 @@ o) Sanções aplicadas.
 
 3 - Para efeitos do disposto nos números anteriores, a Direcção-Geral do Turismo poderá, a qualquer tempo, solicitar aos interessados as informações que julgue necessárias e, bem assim, a respectiva prova documental.
 
-###### Art. 72.º As entidades exploradoras dos parques devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos a que se refere o n.º 2 do artigo anterior, no prazo de trinta dias, a contar da data em que a mesma se tenha verificado.
+Art. 72.º As entidades exploradoras dos parques devem comunicar à Direcção-Geral do Turismo a alteração de qualquer dos elementos a que se refere o n.º 2 do artigo anterior, no prazo de trinta dias, a contar da data em que a mesma se tenha verificado.
 
-###### Art. 73.º As reclamações, sanções, louvores e relatórios de inspecção e de vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
+Art. 73.º As reclamações, sanções, louvores e relatórios de inspecção e de vistoria serão anotados no registo por meio de averbamento, com menção dos processos onde se encontram os respectivos documentos.
 
-###### Art. 74.º Poderão ser passadas certidões dos elementos constantes do registo, a requerimento da entidade proprietária ou exploradora do parque ou de quem mostre interesse legítimo na sua obtenção.
+Art. 74.º Poderão ser passadas certidões dos elementos constantes do registo, a requerimento da entidade proprietária ou exploradora do parque ou de quem mostre interesse legítimo na sua obtenção.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 75.º - 1 - Da apresentação dos elementos exigidos neste Regulamento será passado recibo, do qual conste a menção dos elementos entregues e a data do seu recebimento.
+Art. 75.º - 1 - Da apresentação dos elementos exigidos neste Regulamento será passado recibo, do qual conste a menção dos elementos entregues e a data do seu recebimento.
 
 2 - Todos os elementos poderão ser remetidos, conforme as respectivas competências, às câmaras municipais ou à Direcção-Geral do Turismo, pelo correio, sob registo postal, mas, neste caso, os duplicados ou recibos só serão devolvidos ao interessado se este tiver enviado, para o efeito, um sobrescrito devidamente franquiado.
 
-###### Art. 76.º O interessado terá sempre direito a ser informado do estado dos processos e poderá obter as certidões que pretender, desde que indique o fim para que as requer.
+Art. 76.º O interessado terá sempre direito a ser informado do estado dos processos e poderá obter as certidões que pretender, desde que indique o fim para que as requer.
 
-###### Art. 77.º A Direcção-Geral do Turismo fornecerá às entidades interessadas os elementos necessários à elaboração de guias ou outras formas de promoção turística.
+Art. 77.º A Direcção-Geral do Turismo fornecerá às entidades interessadas os elementos necessários à elaboração de guias ou outras formas de promoção turística.
 
-###### Art. 78.º Além dos parques previstos neste Regulamento, a Direcção-Geral do Turismo poderá classificar outros parques de características diferentes, nomeadamente os parques rurais, mediante legislação apropriada.
+Art. 78.º Além dos parques previstos neste Regulamento, a Direcção-Geral do Turismo poderá classificar outros parques de características diferentes, nomeadamente os parques rurais, mediante legislação apropriada.
 
-###### Art. 79.º Fica revogado o [Decreto n.º 127/71](https://diariodarepublica.pt/dr/detalhe/decreto/127-1971-445693), de 6 de Abril.
+Art. 79.º Fica revogado o [Decreto n.º 127/71](https://diariodarepublica.pt/dr/detalhe/decreto/127-1971-445693), de 6 de Abril.
 
 Francisco Sá Carneiro - João António Morais Leitão - Basílio Adolfo Mendonça Horta da Franca.
 
-**Promulgado em 1 de Agosto de 1980.**
+Promulgado em 1 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

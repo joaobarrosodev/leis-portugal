@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/34/1991/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1991-659558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe34ca3aab4806eb54a8e29c18a07b30254a042593224ca8a886caea4b2c82e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ed273eea0f275e9d90be23784daeaa96a5b2cb0a1ad725627ed2bb3356d78c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ subjects:
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Secretário Aduaneiro
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282696:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:18:54Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +105,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido no n.º 3 do artigo 20.º e no artigo 45.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. O artigo 1.º do [Decreto Regulamentar n.º 4/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1988-282696), de 27 de Janeiro, passa a ter a seguinte redacção:
+Artigo único. O artigo 1.º do [Decreto Regulamentar n.º 4/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1988-282696), de 27 de Janeiro, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º - 1 - ...
 
@@ -117,12 +125,12 @@ Presidência do Conselho de Ministros, 6 de Maio de 1991.
 
 Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
 
-**Promulgado em 27 de Maio de 1991.**
+Promulgado em 27 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Maio de 1991.**
+Referendado em 29 de Maio de 1991.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

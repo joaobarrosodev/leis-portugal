@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/182/2005/11/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2005-584866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d3989a5bb35714e1d5bf5d195c439dcae436821b6c0a1a95ef24a33b8a89b88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 025b95d3c0ea06c095326e7a99ea10333014bd151a9a4ee5884a92a471d6666e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Direcção Geral de Viação
-- Veículo
 - Equipamento de Veículo
 - Regulamento
 - Regulamento da Homologação CE de Modelo de Automóveis e Reboques seus Sistemas Componentes e Unidades Técnicas
 - Regulamento Relativo aos Pneus e a sua Instalação nos Automóveis e seus Reboques
+- Veículo
 relationships:
 - type: cites
   target: celex:32005L0011
@@ -82,13 +82,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:49:11Z'
   warnings: []
   errors: []
 ---
@@ -143,12 +143,12 @@ O presente diploma entra em vigor em 1 de Janeiro de 2006.
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - João Titterington Gomes Cravinho - Manuel António Gomes de Almeida de Pinho.
 
-**Promulgado em 21 de Outubro de 2005.**
+Promulgado em 21 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Outubro de 2005.**
+Referendado em 24 de Outubro de 2005.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/1995/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1995-145228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aaa5e1136ff5b1fb8687081cdb52427501705ca8784feb805541fea96f26749f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f1348d4094871bb1f7ea74b83a83566b8ff44e1c43e77c0ad0b448038adab36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Garantia
-- Empresa
-- Jogos de Fortuna e Azar
+- Algarve
 - Capital Social
-- Estabelecimento de Jogos
-- Turismo
-- Formação Profissional
 - Concurso Público
 - Contrato de Concessão
 - Definição de Competências
-- Algarve
-- Inspecção Geral de Jogos
+- Empresa
+- Estabelecimento de Jogos
+- Formação Profissional
 - Fundo de Turismo
+- Garantia
+- Inspecção Geral de Jogos
 - Instituto Nacional de Formação Turística
+- Jogos de Fortuna e Azar
 - Ministro do Comércio e Turismo
 - Receita Própria
 - Regulamento
+- Turismo
 - ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:226231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:348306:por
+  label: "Prorrogado prazo pelo DR.4/2001.2001.03.24.MECO, DR.IS-B [71] de 2001/MAR/24\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2001-348306
+  date: '2001-03-24'
+- type: amended_by
+  target: pt:dre:226231:por
+  label: "Prorrogado o prazo previsto no nº 3 do art. 6º, pelo DR.7/2003.2003.03.24.MECO, DR.IS-B [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/7-2003-226231
+  date: '2003-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
   label: null
@@ -98,16 +108,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/8/1994/02/02/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:48Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +152,7 @@ Assim:
 
 Ao abrigo do artigo 11.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - São abertos concursos públicos para adjudicação da concessão do exclusivo da exploração de jogos de fortuna ou azar no casino de Vilamoura e em outros dois casinos a instalar, um no Barlavento Algarvio, pelo menos 25 km a oeste daquela localidade, e um outro no Sotavento Algarvio, pelo menos 25 km a leste da mesma localidade.
+Artigo 1.º - 1 - São abertos concursos públicos para adjudicação da concessão do exclusivo da exploração de jogos de fortuna ou azar no casino de Vilamoura e em outros dois casinos a instalar, um no Barlavento Algarvio, pelo menos 25 km a oeste daquela localidade, e um outro no Sotavento Algarvio, pelo menos 25 km a leste da mesma localidade.
 
 2 - Os concorrentes poderão apresentar-se aos três concursos ou apresentar propostas de adjudicação global da concessão da exploração dos três casinos a que se refere o número anterior.
 
@@ -140,7 +166,7 @@ a) Em prédio a afectar exclusivamente a casino ou em edifício integrado em emp
 
 b) No prédio onde se situa o actual casino de Monte Gordo, no caso do casino do Sotavento.
 
-###### Art. 2.º - 1 - A concessão, que principia com a assinatura do contrato, terminará em 31 de Dezembro de 2017.
+Art. 2.º - 1 - A concessão, que principia com a assinatura do contrato, terminará em 31 de Dezembro de 2017.
 
 2 - Quando for adjudicada a um concorrente a concessão da exploração de mais de um dos casinos a que se refere o n.º 1 do artigo anterior, e independentemente de ter por base uma proposta de adjudicação global ou propostas autónomas, será celebrado um único contrato de concessão, sem prejuízo do cumprimento das obrigações respeitantes a cada um dos casinos cuja exploração é concessionada, salvo no que se refere às obrigações constantes das alíneas b) e c) do n.º 1 do artigo 4.º, as quais serão unitárias e de valor mínimo correspondente ao somatório dos valores constantes, respectivamente, dos anexos I e II ao presente diploma, do qual fazem parte integrante.
 
@@ -148,7 +174,7 @@ b) No prédio onde se situa o actual casino de Monte Gordo, no caso do casino do
 
 4 - Com excepção do casino de Vilamoura, no qual a exploração dos jogos poderá iniciar-se no 30.º dia posterior ao da assinatura do contrato de concessão, a referida exploração não poderá iniciar-se antes de concluído o edifício do casino ou, no caso do casino do Sotavento Algarvio, quando a concessionária optar por efectuar a exploração da concessão no imóvel onde está instalado o actual casino de Monte Gordo, antes de cumprida a obrigação estabelecida no n.º 2 do artigo 4.º
 
-###### Art. 3.º - 1 - O capital social da sociedade concessionária não pode ser inferior a:
+Art. 3.º - 1 - O capital social da sociedade concessionária não pode ser inferior a:
 
 a) 500000000$00 ou 1000000000$00, no caso de tal sociedade ser concessionária da exploração, respectivamente, de um ou de ambos os casinos a instalar no Barlavento e no Sotavento Algarvios;
 
@@ -160,7 +186,7 @@ d) 2000000000$00, no caso de tal sociedade ser concessionária da exploração d
 
 2 - O capital social da sociedade ou sociedades concessionárias deve estar integralmente realizado em dinheiro na data da assinatura do contrato.
 
-###### Art. 4.º - 1 - Sem prejuízo do disposto na legislação aplicável à generalidade das zonas de jogo, a concessionária fica vinculada ao cumprimento das seguintes obrigações:
+Art. 4.º - 1 - Sem prejuízo do disposto na legislação aplicável à generalidade das zonas de jogo, a concessionária fica vinculada ao cumprimento das seguintes obrigações:
 
 a) Construção, em local a aprovar pelo Ministro do Comércio e Turismo, dos casinos do Barlavento e do Sotavento, dotados das características e requisitos de conforto e funcionalidade definidos em portaria daquele membro do Governo;
 
@@ -190,7 +216,7 @@ iii) Casino de Monte Gordo, no caso da concessionária da exploração do casino
 
 8 - O depósito referido nos n.os 6 e 7 pode ser substituído por garantia bancária ou seguro-caução, mobilizáveis em termos equivalentes.
 
-###### Art. 5.º - 1 - As importâncias a que aludem as alíneas b) e c) do n.º 1 do artigo anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1994, sendo convertidas em escudos do ano a que as prestações digam respeito pela fórmula seguinte:
+Art. 5.º - 1 - As importâncias a que aludem as alíneas b) e c) do n.º 1 do artigo anterior encontram-se expressas em escudos com poder aquisitivo referido ao ano de 1994, sendo convertidas em escudos do ano a que as prestações digam respeito pela fórmula seguinte:
 
 VC = VR x (IPAC/IP94)
 
@@ -206,13 +232,13 @@ IP 94é o valor do índice médio de preços no consumidor para o continente, ex
 
 2 - Caso o IPAC não se encontre publicado quando se torne necessário aplicar a fórmula prevista no número anterior, considerar-se-á, para o efeito, um valor equivalente ao último valor disponível do índice de preços aplicável, procedendo-se às actualizações necessárias logo que ocorra a referida publicação.
 
-###### Art. 6.º - 1 - A contrapartida a que alude a alínea b) do n.º 1 do artigo 4.º será depositada no FT, mediante guias a emitir pela Inspecção-Geral de Jogos (IGJ), e destina-se a financiar ou a subsidiar obras localizadas na área da Região de Turismo do Algarve e declaradas de interesse para o turismo pela Direçcão-Geral do Turismo, bem como acções de promoção turística da referida área.
+Art. 6.º - 1 - A contrapartida a que alude a alínea b) do n.º 1 do artigo 4.º será depositada no FT, mediante guias a emitir pela Inspecção-Geral de Jogos (IGJ), e destina-se a financiar ou a subsidiar obras localizadas na área da Região de Turismo do Algarve e declaradas de interesse para o turismo pela Direçcão-Geral do Turismo, bem como acções de promoção turística da referida área.
 
 2 - O montante dos financiamentos ou subsídios a conceder ao abrigo do número anterior bem como os prazos e condições da respectiva utilização serão definidos por despacho do Ministro do Comércio e Turismo, considerando-se perdidas a favor do FT as verbas que não forem utilizadas nos prazos estabelecidos naquele despacho.
 
 3 - O Ministro do Comércio e Turismo pode autorizar que parte da contrapartida prevista na alínea b) do n.º 1 do artigo 4.º, de montante não superior a um terço daquela, seja destinada a subsidiar até 50% do montante dos investimentos a realizar pela concessionária, no prazo máximo de cinco anos a contar da data da assinatura do contrato de concessão, em novas infra-estruturas de animação turística localizadas na área da Região de Turismo do Algarve.
 
-###### Art. 7.º - 1 - A contrapartida referida na alínea c) do n.º 1 do artigo 4.º realiza-se pelas formas seguintes:
+Art. 7.º - 1 - A contrapartida referida na alínea c) do n.º 1 do artigo 4.º realiza-se pelas formas seguintes:
 
 a) Através do pagamento do imposto especial sobre o jogo, nos termos da legislação em vigor;
 
@@ -236,7 +262,7 @@ a) As referidas nas alíneas a) a c), nos termos previtos na legislação aplic�
 
 b) A referida na alínea d), até 31 de Janeiro do ano seguinte àquele a que as receitas respeitarem.
 
-###### Art. 8.º - 1 - Para efeitos de adjudicação da concessão, constitui factor de preferência a oferta da mais elevada contrapartida superior à prevista na alínea b) do n.º 1 do artigo 4.º
+Art. 8.º - 1 - Para efeitos de adjudicação da concessão, constitui factor de preferência a oferta da mais elevada contrapartida superior à prevista na alínea b) do n.º 1 do artigo 4.º
 
 2 - Sem prejuízo do disposto no número anterior, constitui ainda factor de preferência a adjudicação global da concessão da exploração dos três casinos a que se refere o n.º 1 do artigo 1.º, o qual não relevará quando a contrapartida inicial oferecida, em proposta global ou em três propostas, pelo mesmo concorrente for inferior em mais de 10% à que, no conjunto, seria obtida se se adjudicasse separadamente a exploração daqueles casinos aos concorrentes que, para cada exploração, oferecessem o valor mais elevado da referida contrapartida.
 
@@ -244,7 +270,7 @@ b) A referida na alínea d), até 31 de Janeiro do ano seguinte àquele a que as
 
 4 - Para efeitos do disposto no número anterior, é sempre considerada mais adequada à prossecução do interesse público a proposta de concorrente a quem seja adjudicada a concessão da exploração de um dos outros casinos a que se refere o n.º 1 do artigo 1.º
 
-###### Art. 9.º - 1 - As entidades que pretendam concorrer à concessão da exploração do exclusivo a que se refere o artigo 1.º devem dirigir as suas propostas ao Ministro do Comércio e Turismo, em cartas fechadas, registadas e lacradas, endereçadas à IGJ e com a indicação exterior de se destinarem ao respectivo concurso, dentro do prazo de 90 dias a contar da data da publicação, na 3.ª série do Diário da República, do anúncio de abertura do mesmo.
+Art. 9.º - 1 - As entidades que pretendam concorrer à concessão da exploração do exclusivo a que se refere o artigo 1.º devem dirigir as suas propostas ao Ministro do Comércio e Turismo, em cartas fechadas, registadas e lacradas, endereçadas à IGJ e com a indicação exterior de se destinarem ao respectivo concurso, dentro do prazo de 90 dias a contar da data da publicação, na 3.ª série do Diário da República, do anúncio de abertura do mesmo.
 
 2 - As propostas a que se refere o número anterior só serão consideradas se forem acompanhadas dos seguintes elementos:
 
@@ -278,11 +304,11 @@ a) No prazo de 15 dias após o pagamento da primeira prestação da contrapartid
 
 b) No prazo de 15 dias após a notificação da adjudicação da concessão, quanto aos demais concorrentes.
 
-###### Art. 10.º - 1 - Os concorrentes poderão solicitar à IGJ todos os esclarecimentos que entendam necessários durante os primeiros 20 dias do período de abertura dos concursos, devendo aquela responder no prazo máximo de 10 dias.
+Art. 10.º - 1 - Os concorrentes poderão solicitar à IGJ todos os esclarecimentos que entendam necessários durante os primeiros 20 dias do período de abertura dos concursos, devendo aquela responder no prazo máximo de 10 dias.
 
 2 - Dos esclarecimentos prestados ao abrigo do número anterior juntar-se-á cópia às peças patentes do concurso.
 
-###### Art. 11.º - 1 - No 3.º dia útil posterior ao do termo do prazo para apresentação das propostas, proceder-se-á, na IGJ, à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, o que será feito por uma comissão presidida pelo inspector-geral de Jogos e tendo como vogais o director-geral do Turismo, o presidente da comissão administrativa do FT e três personalidades designadas pelos Ministros da Administração Interna, das Finanças e do Comércio e Turismo, a qual elaborará o seu relatório no prazo de 15 dias.
+Art. 11.º - 1 - No 3.º dia útil posterior ao do termo do prazo para apresentação das propostas, proceder-se-á, na IGJ, à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, o que será feito por uma comissão presidida pelo inspector-geral de Jogos e tendo como vogais o director-geral do Turismo, o presidente da comissão administrativa do FT e três personalidades designadas pelos Ministros da Administração Interna, das Finanças e do Comércio e Turismo, a qual elaborará o seu relatório no prazo de 15 dias.
 
 2 - A IGJ pode solicitar aos concorrentes os esclarecimentos que entenda necessários.
 
@@ -304,42 +330,42 @@ d) Incumprimento do disposto no n.º 3 do artigo 1.º, quando for caso disso.
 
 7 - O Conselho de Ministros reserva-se o direito de não atribuir a concessão a nenhum dos concorrentes, quaisquer que sejam as propostas apresentadas, anulando o concurso ou concursos e restituindo a caução prestada, sem direito a indemnização.
 
-###### Art. 12.º Durante o prazo da concessão ou concessões não serão concessionadas novas explorações de jogos de fortuna ou azar no Algarve, com excepção de salas de jogo do bingo, as quais, no entanto, não poderão ser criadas na área dos municípios onde vierem a situar-se os casinos nem na área dos municípios que com aqueles confinem.
+Art. 12.º Durante o prazo da concessão ou concessões não serão concessionadas novas explorações de jogos de fortuna ou azar no Algarve, com excepção de salas de jogo do bingo, as quais, no entanto, não poderão ser criadas na área dos municípios onde vierem a situar-se os casinos nem na área dos municípios que com aqueles confinem.
 
-###### Art. 13.º - 1 - A exploração do casino de Vilamoura, ao abrigo da [Resolução do Conselho de Ministros n.º 8/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-1994-500198) (2.ª série), de 28 de Abril, cessará 15 dias antes da data estabelecida pela IGJ, sob proposta da concessionária, para o início da exploração dos jogos de fortuna ou azar ou, caso esta pretenda realizar obras no imóvel, para o início de tais obras.
+Art. 13.º - 1 - A exploração do casino de Vilamoura, ao abrigo da [Resolução do Conselho de Ministros n.º 8/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-1994-500198) (2.ª série), de 28 de Abril, cessará 15 dias antes da data estabelecida pela IGJ, sob proposta da concessionária, para o início da exploração dos jogos de fortuna ou azar ou, caso esta pretenda realizar obras no imóvel, para o início de tais obras.
 
 2 - A exploração dos casinos da Praia da Rocha e de Monte Gordo, ao abrigo do disposto na resolução do Conselho de Ministros a que se refere o número anterior, deverá cessar pelo menos 30 dias antes da data estabelecida pela IGJ, sob proposta da concessionária, para o início da exploração dos jogos de fortuna ou azar nos novos casinos a instalar no Barlavento e no Sotavento Algarvios.
 
 3 - Sem prejuízo do disposto no número anterior, a exploração do casino de Monte Gordo, quando a concessionária da exploração do casino a instalar no Sotavento Algarvio haja exercido a opção prevista na alínea b) do n.º 1 do artigo 1.º, cessa 15 dias antes da data fixada para o início das obras.
 
-###### Art. 14.º - 1 - Quando a exploração dos casinos a que se refere o n.º 1 do artigo 1.º venha a efectuar-se em imóveis integrados no domínio privado do Estado, é assegurada às respectivas concessionárias a posse de tais imóveis durante o período da concessão, sem prejuízo do disposto no artigo anterior.
+Art. 14.º - 1 - Quando a exploração dos casinos a que se refere o n.º 1 do artigo 1.º venha a efectuar-se em imóveis integrados no domínio privado do Estado, é assegurada às respectivas concessionárias a posse de tais imóveis durante o período da concessão, sem prejuízo do disposto no artigo anterior.
 
 2 - Caso a concessionária do casino a instalar no Sotavento exerça a opção prevista na alínea b) do n.º 5 do artigo 1.º, pode suceder na posição contratual da comissão administrativa nomeada ao abrigo da [Resolução do Conselho de Ministros n.º 8/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/8-1994-500198) (2.ª série), de 28 de Abril, enquanto arrendatária do imóvel onde está instalado o casino de Monte Gordo, nos termos do respectivo contrato de arrendamento e de cessão de exploração.
 
-###### Art. 15.º São revogados os Decretos n.os 49463, de 27 de Dezembro de 1969, e 134/71, de 8 de Abril.
+Art. 15.º São revogados os Decretos n.os 49463, de 27 de Dezembro de 1969, e 134/71, de 8 de Abril.
 
-###### Art. 16.º O presente diploma reporta os seus efeitos à data da entrada em vigor do artigo 27.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 10/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1995-145222), de 19 de Janeiro.
+Art. 16.º O presente diploma reporta os seus efeitos à data da entrada em vigor do artigo 27.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 10/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-1995-145222), de 19 de Janeiro.
 
 Presidência do Conselho de Ministros, 10 de Outubro de 1994.
 
 Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 29 de Dezembro de 1994.**
+Promulgado em 29 de Dezembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Janeiro de 1995.**
+Referendado em 2 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I
 
 Contrapartida inicial mínima a que se refere a alínea b) do n.º 1 do artigo 4.º do Decreto Regulamentar n.º 1/95, de 19 de Janeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf))](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf)
 
 ## ANEXO II — Contrapartidas anuais a que se refere a alínea c) do n.º 1 do artigo 4.º do Decreto Regulamentar n.º 1/95, de 19 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf))](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/01/016b00/03240329.pdf)

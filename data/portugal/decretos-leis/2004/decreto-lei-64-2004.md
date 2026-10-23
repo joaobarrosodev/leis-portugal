@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2004-541267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19b92f24895beadf8c8852490e4893ce042282201adab8f2ffc1d7353b90d49f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8adc3c0f54d3eab59678251e18347c31756db554de26d2ac03f810c820068d69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Rural
+- Arborização
 - Comissão de Acompanhamento
 - Definição de Competências
-- Arborização
-- Instituto Nacional de Intervenção e Garantia Agrícola
+- Desenvolvimento Rural
+- Ifadap
 - Instituto de Desenvolvimento Rural e Hidráulica
-- Reforma Antecipada
+- Instituto Nacional de Intervenção e Garantia Agrícola
 - Piddac
 - Plano de Desenvolvimento
+- Reforma Antecipada
 - Ruris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:571914:por
@@ -105,16 +105,23 @@ relationships:
   target: celex:32002R0445
   label: null
   source: http://data.europa.eu/eli/reg/2002/445/oj
+- type: repealed_by
+  target: pt:dre:571914:por
+  label: "Revogados, na parte relativa à intervenção «Reforma Antecipada», os arts. 5.º e 8.º, bem como revogado, na parte\
+    \ em que se refere ao Regulamento (CEE) n.º 2079/92, do Conselho, de 30 de junho de 1992, o n.º 1 do art. 16.º pelo DEC\
+    \ LEI.38/2014.14.03.2014.MAGM, DR.IS [52] de 14.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2014-571914
+  date: '2014-03-14'
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:53Z'
   warnings: []
   errors: []
 ---
@@ -321,12 +328,12 @@ São ratificados todos os actos praticados pelo IDRHa, bem como pelo INGA e pelo
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto - António José de Castro Bagão Félix - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 10 de Março de 2004.**
+Promulgado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 14 de Março de 2004.**
+Referendado em 14 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

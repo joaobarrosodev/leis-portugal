@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/05/12100/06790680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-1972-681819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ef38314a089ed072da7fd09f9002ec65a4624954fcbe59a5ccd0eecd3eedcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69a2b004fe9e3778e82b49f3155887ca2dab91557bfa34db70b119c7f6b4cb44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,33 @@ relationships:
   target: pt:dre:216140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477364:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216140:por
+  label: Revogada pelo(a) Portaria n.º 178-B/77 - Diário da República n.º 75/1977, 1º Suplemento, Série I de 1977-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-b-1977-216140
+  date: '1977-03-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:55Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +170,4 @@ A granel ... 8$30 - 9$00
 
 10.º Esta portaria entrará em vigor trinta dias após a data da sua publicação e revoga a [Portaria n.º 22957](https://diariodarepublica.pt/dr/detalhe/portaria/22957-1967-388052), de 12 de Outubro de 1967, bem como os despachos proferidos nos termos do seu n.º 5.º
 
-**O Ministro da Economia, João Augusto Dias Rosas.**
+O Ministro da Economia, João Augusto Dias Rosas.

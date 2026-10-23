@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29/1996/11/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-1996-168639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T04:22:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 921e382d26572b8053acad941ad1c604ef3823739710bcf67087af974225434d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f424b283cc75c7aae02e8075ff123ff87c199771560ad8c1c1b1511a948a9529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:22:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Carta Europeia da Energia
 - Convenção
-- Portugal
 - Energia
+- Portugal
 - Recursos Energéticos
 - Tratado da Carta da Energia
 relationships:
@@ -77,32 +77,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/36/1996/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/36/1996/11/15/p/dre
+- type: cites
+  target: pt:dre:168640:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:22:34Z'
   warnings: []
   errors: []
 ---
 
 # Decreto do Presidente da República n.º 29/96
 
-**O presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:**
+O presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Tratado da Carta da Energia, incluindo anexos, decisões e Acta Final, e o Protocolo da Carta da Energia Relativo à Eficiência Energética e aos Aspectos Ambientais Associados, assinando em Lisboa em 17 de Dezembro de 1994, aprovado para ratificação, pela [Resolução da Assembleia da República n.º 36/96](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/36-1996-168640), de 9 de Maio de 1996.
 
-**Assinado em 4 de outubro de 1996.**
+Assinado em 4 de outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de outubro de 1996.**
+Referendado em 8 de outubro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

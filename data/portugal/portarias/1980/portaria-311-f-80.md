@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 125/1980, 2º Suplemento, Série I de 1980-05-30
   number: '125'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1292-(19) a 1292-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12502/00190022.pdf
 entry_into_force_dates: []
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-f-1980-667954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T06:17:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7bb2c752fe91664b156de52f95db4cc1e960e36cbd9c7b57615662bd7ef42c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f59478fcae66b359fce78742926b9937b54d08fea0869955c782feb01540d396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:17:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Portos
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:606744:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:388397:por
+  label: "Aumentado o quadro de pessoal fixado pelo presente diploma, pela PORT.264/81.12.03.1981.MFP, DR.IS [59] de 12.03.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1981-388397
+  date: '1981-03-12'
+- type: amended_by
+  target: pt:dre:573879:por
+  label: "Alterado o quadro de pessoal da Direcção-Geral dos Portos aprovado pelo presente diploma, pela PORT.393/81.16.05.1981.MFP,\
+    \ DR.IS [112] de 16.05.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-1981-573879
+  date: '1981-05-16'
+- type: amended_by
+  target: pt:dre:606744:por
+  label: "Alterado o quadro de pessoal pela PORT.430/82.1982.04.28.MFP, DR.IS [98] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-1982-606744
+  date: '1982-04-28'
+- type: cites
+  target: pt:dre:372975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678068:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:17:19Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +137,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Pessoal e vencimentos da Direcção-Geral de Portos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12502/00190022.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12502/00190022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12502/00190022.pdf)

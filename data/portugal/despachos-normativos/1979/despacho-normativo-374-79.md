@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/374-1979-365966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17d08867aad56ab8797a1d27a600f522d09c59e0b050c81a9770f96cbc3e1efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cdbb3b7d531989acd0c0b4aa772ce877f721c63e818f45d818f92d73f03c6cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Jovem
+- Prestações da Segurança Social
+- Primeiro Emprego
+- Proteção no Desemprego
+- Segurança Social
+- Subsídio de Desemprego
+relationships:
+- type: cites
+  target: pt:dre:251798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363285:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:56:42Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +106,13 @@ Considerando a necessária articulação entre medidas diversificadas e tendo em
 
 Ao abrigo do n.º 1 do artigo 5.º do [Decreto-Lei n.º 445/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1979-363285), de 9 de Novembro, determina-se o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Noção)
 
 Para efeitos deste despacho, são considerados candidatos a primeiro emprego os indivíduos que não tenham trabalhado por conta de outrem ou por conta própria durante mais de cento e vinte dias consecutivos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Condições de atribuição)
 
@@ -116,7 +130,7 @@ e) Estejam inscritos, como candidatos a emprego, no centro de emprego da área d
 
 2 - Para efeitos de serem considerados a cargo do requerente, os familiares referidos na alínea d) do número anterior não poderão auferir quaisquer rendimentos, salvo abono de família e prestações complementares.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Prova)
 
@@ -130,19 +144,19 @@ c) Declaração da junta de freguesia sobre a composição do agregado familiar 
 
 2 - Os documentos referidos nas alíneas a) e b) do número anterior serão devolvidos ao requerente após averbamento no processo.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Montante)
 
 O montante do subsídio de desemprego a atribuir aos requerentes abrangidos pelo presente despacho será de 60% do salário mínimo nacional fixado para os trabalhadores da indústria, comércio e serviços.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Remissão)
 
 Em tudo o que não se encontre expressamente regulado pelo presente despacho aplicar-se-ão as disposições comuns do capítulo III do [Decreto-Lei n.º 183/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1977-251798), de 5 de Maio.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Entrada em vigor)
 

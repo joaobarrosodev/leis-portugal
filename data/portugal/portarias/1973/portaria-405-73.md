@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/405-1973-422799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:06:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4e86db8a86d0fce19596ea7a24011bf9cee5780ad1c72e337323e7ea4b3fa60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1912cb3f70ba5e169ab1cc4a21c176ba1be24d3aae5bf7382fdf6cac198ca27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:06:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:266131:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:691861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:06:00Z'
   warnings: []
   errors: []
 ---
@@ -1010,13 +1014,13 @@ LISTA II
 
 Substâncias proibidas em concentrações superiores às indicadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
 LISTA III
 
 Substâncias proibidas em concentrações superiores às indicadas e em aplicações diferentes das mencionadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
 LISTA IV
 
@@ -1024,18 +1028,18 @@ Corantes e pigmentos autorizados
 
 (Violetas, castanhos, brancos e pretos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
 (Vermelhos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
 (Azuis e verdes)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
 (Amarelos e laranjas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf))](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/13500/10021008.pdf)
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

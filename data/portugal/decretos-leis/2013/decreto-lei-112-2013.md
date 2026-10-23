@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/2013/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T03:20:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 380470118749e6ac610097bd15a91ac9fbf5a7a1a3d566ab2e027e5fa5e0ee0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67e0ffc27e92bd96214a28ef3b4ccaddebb51d918ad2bf076e45f237e57244ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:20:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
 - Beneficiário
-- Seguro
-- Instituto de Seguros de Portugal
-- Documento Eletrónico
-- Operação de Capitalização
-- Informação do Consumidor
 - Companhia de Seguros
+- Contrato de Seguro
+- Documento Eletrónico
+- Informação do Consumidor
+- Instituto de Seguros de Portugal
+- Óbito
+- Operação de Capitalização
+- Seguro
 - Seguro de Acidentes Pessoais
 - Seguro de VIDA
-- Óbito
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/384/2007/11/19/p/dre
@@ -90,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628369:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:20:32Z'
   warnings: []
   errors: []
 ---
@@ -160,13 +172,17 @@ b) Os contratos de seguro de vida, os contratos de seguro de acidentes pessoais 
 
 c) Os contratos de seguro associados a contratos de crédito, em que existe total e permanente identidade entre o capital seguro e o capital em dívida, sendo, assim, a instituição mutuante a única e exclusiva beneficiária.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Sem prejuízo do disposto no regime jurídico do contrato de seguro, aprovado pelo [Decreto-Lei n.º 72/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2008-249804), de 16 de abril, a apólice deve ainda conter os elementos que permitam identificar o beneficiário, caso não seja o ou os herdeiros legais ou quando a cláusula de designação beneficiária não seja genérica, designadamente o nome ou a denominação completos, o domicílio ou a sede, os números de identificação civil e fiscal, sem prejuízo do dispostos nos n.os 1 e 2 do artigo seguinte.
 
 2 - No caso de o tomador do seguro ou o segurado, consoante aquele que disponha do direito, pretender alterar o beneficiário durante a vigência do contrato, deve comunicar por escrito ao segurador essa sua intenção, bem como os elementos referidos no número anterior relativamente ao novo beneficiário.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -174,7 +190,9 @@ c) Os contratos de seguro associados a contratos de crédito, em que existe tota
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Qualquer interessado pode obter informação constante do registo central quanto à existência de contrato de seguro ou operação de capitalização em que seja segurado ou subscritor uma pessoa determinada e sobre o segurador com o qual foi contratado.
 
@@ -218,12 +236,12 @@ São revogados os n.os 3 e 4 do artigo 4.º, a alínea d) do artigo 8.º, o n.º
 
 Visto e aprovado em Conselho de Ministros de 11 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Álvaro Santos Pereira.
 
-**Promulgado em 30 de julho de 2013.**
+Promulgado em 30 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de agosto de 2013.**
+Referendado em 1 de agosto de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

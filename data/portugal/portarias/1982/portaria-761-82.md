@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/761-1982-396922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T07:24:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44dcba6de4b82742f1ea10b87a511d31c40b054fbb0a0ab36f9e2c5af27d5fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a46badf2f68912fe218073e680c558c36d1d04bd29bd04a5570301360869840
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:24:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formação Profissional
+- Pilotagem
+- Piloto Aviador
+- Subsídio
+relationships:
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:24:26Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +96,6 @@ de 6 de Agosto
 
 Mandam o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, e o Governo, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Habitação, Obras Públicas e Transportes, que o montante dos subsídios a conceder nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, seja no ano de 1982 o seguidamente indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18000/23202321.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18000/23202321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18000/23202321.pdf)
 
 Conselho da Revolução e Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, 14 de Julho de 1982. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.

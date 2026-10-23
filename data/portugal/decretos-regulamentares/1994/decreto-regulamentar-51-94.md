@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/204b00/51975204.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/51/1994/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1994-657861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10257a8b1ec5fee7d83a19c1de3aa79f49be217aa88ef4b9f3ce7404e68a717
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9a6323e795c2402965084f2d80efcbfd9c8fed1a65e9ad73805514b7c557589
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/51/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657447:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:355932:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 251/94, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL.\0\
+    , 4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/251-1994-355932
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:69920324:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 12/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2015-69920324
+  date: '2015-07-31'
 article_structure:
   article_count: 40
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:19Z'
   warnings: []
   errors: []
 ---
@@ -706,12 +722,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 27 de Julho de 1994.**
+Promulgado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1994.**
+Referendado em 29 de Julho de 1994.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

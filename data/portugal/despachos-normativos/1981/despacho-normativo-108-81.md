@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/108-1981-389447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T07:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f460118e8a6cefb9e988218b5266e22d19840dbd29d54440eda55863740735b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 083283bf5de38351d1a907c3479411a07aad810a9c879d88268995c7a886a10e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educação Especial
+- Formação Profissional
+- Pessoal Docente
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:193606:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:349080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579498:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193606:por
+  label: "Revogado pelo DN.18/86.1985.03.05.MEC, DR.IS [53] de 5/MAR/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/18-1986-193606
+  date: '1985-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:07:53Z'
   warnings: []
   errors: []
 ---
@@ -315,7 +344,7 @@ Curso de formação de professores de ensino especial
 
 1.º ano - 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 Observação. - Funcionarão ainda actividades de natureza complementar, nomeadamente actividades de expressão e inglês (com carácter obrigatório para os alunos que não disponham de formação de inglês ao nível do curso complementar dos liceus ou equivalente).
 
@@ -323,7 +352,7 @@ QUADRO II
 
 1.º ano - 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 Observação. - Funcionarão ainda actividades de natureza complementar, nomeadamente actividades de expressão e inglês (com carácter obrigatório para os alunos que não disponham de formação de inglês ao nível do curso complementar dos liceus ou equivalente).
 
@@ -331,23 +360,23 @@ QUADRO III
 
 2.º ano - 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 QUADRO IV
 
 2.º ano - 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 QUADRO V
 
 3.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 ## ANEXO II — Agrupamento das unidades por áreas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf))](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/04/07900/08610865.pdf)
 
 ## ANEXO III — Modelo de diploma
 

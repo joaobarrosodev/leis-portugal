@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22240-1966-478182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1f0e6c1c2de31cf2a12a275db104bbd69096356580846cc6990a8992b669728
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f17aa4cc9629fd65b0196de53c5386f3d860e3c8a4017cead4b1fc4e54c692c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,30 @@ relationships:
   target: pt:dre:427858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427858:por
+  label: Extinta a zona de pesca reservada criada pelo presente diploma pelo(a) Portaria n.º 292/76 - Diário da República
+    n.º 110/1976, Série I de 1976-05-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-1976-427858
+  date: '1976-05-11'
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:21Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +124,9 @@ Regulamento Especial para a Zona de Pesca Reservada da Lagoa das Braças
 
 ### CAPÍTULO I
 
-###### Artigo 1.º A zona de pesca reservada da lagoa das Braças situa-se no perímetro florestal das dunas de Quiaios, concelho da Figueira da Foz.
+Artigo 1.º A zona de pesca reservada da lagoa das Braças situa-se no perímetro florestal das dunas de Quiaios, concelho da Figueira da Foz.
 
-###### Art. 2.º Só poderão pescar nesta zona de pesca reservada:
+Art. 2.º Só poderão pescar nesta zona de pesca reservada:
 
 a) Os indivíduos que além de serem titulares de uma licença legal de pesca cuja validade territorial abranja o concelho da Figueira da Foz ou concelhos seus limítrofes, possuam uma licença especial diária passada pela Administração Florestal da Figueira da Foz, no valor de 20$00;
 
@@ -120,38 +134,38 @@ b) Os menores de 14 anos, devidamente acompanhados do pai ou tutor, quando estes
 
 c) Os indivíduos estrangeiros, turistas não residentes no País, que possuam uma licença especial diária no valor de 40$00.
 
-###### Art. 3.º Sempre que na lagoa das Braças tenha aplicação o estipulado no artigo 42.º do Regulamento da Pesca aprovado pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), competirá à Direcção-Geral dos Serviços Florestais e Aquícolas tomar as medidas que entender mais adequadas:
+Art. 3.º Sempre que na lagoa das Braças tenha aplicação o estipulado no artigo 42.º do Regulamento da Pesca aprovado pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), competirá à Direcção-Geral dos Serviços Florestais e Aquícolas tomar as medidas que entender mais adequadas:
 
 ### CAPÍTULO II
 
-###### Art. 4.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá interditar o exercício da pesca, no todo ou em parte desta zona de pesca reservada, logo que o quantitativo piscícola fique reduzido a densidades julgadas inconvenientes ou porque se tenham levado a efeito, nas mesmas, repovoamentos que necessitem de protecção.
+Art. 4.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá interditar o exercício da pesca, no todo ou em parte desta zona de pesca reservada, logo que o quantitativo piscícola fique reduzido a densidades julgadas inconvenientes ou porque se tenham levado a efeito, nas mesmas, repovoamentos que necessitem de protecção.
 
-###### Art. 5.º Só é permitido pescar nesta reserva de 1 de Julho a 31 de Outubro, inclusive, pelo que se considera época de defeso o período compreendido entre 1 de Novembro e 30 de Junho.
+Art. 5.º Só é permitido pescar nesta reserva de 1 de Julho a 31 de Outubro, inclusive, pelo que se considera época de defeso o período compreendido entre 1 de Novembro e 30 de Junho.
 
-###### Art. 6.º Cada licença especial diária não dá direito ao seu titular de retirar da lagoa das Braças mais de 30 achigãs (número que se fixa a título experimental), devendo o pescador submeter-se sempre à contagem, junto do guarda florestal encarregado da vigilância e fiscalização desta zona de pesca reservada, do número de achigãs pescado em cada dia.
+Art. 6.º Cada licença especial diária não dá direito ao seu titular de retirar da lagoa das Braças mais de 30 achigãs (número que se fixa a título experimental), devendo o pescador submeter-se sempre à contagem, junto do guarda florestal encarregado da vigilância e fiscalização desta zona de pesca reservada, do número de achigãs pescado em cada dia.
 
-###### Art. 7.º A não observância do preceito que se estabelece no artigo anterior, ou qualquer tentativa que vise esconder o número de achigãs pescado, implica a caducidade imediata da licença especial diária e a impossibilidade de voltar a pescar nesta zona de pesca reservada, independentemente de qualquer outro procedimento penal previsto no [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 7.º A não observância do preceito que se estabelece no artigo anterior, ou qualquer tentativa que vise esconder o número de achigãs pescado, implica a caducidade imediata da licença especial diária e a impossibilidade de voltar a pescar nesta zona de pesca reservada, independentemente de qualquer outro procedimento penal previsto no [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 8.º Não poderão ser capturados achigãs com menos de 25 cm e as outras espécies referidas neste regulamento com menos de 20 cm, medidas nas condições legalmente estipuladas. Todas as espécies que não possuam as medidas indicadas deverão ser imediatamente lançadas à água, quaisquer que sejam os seus ferimentos.
+Art. 8.º Não poderão ser capturados achigãs com menos de 25 cm e as outras espécies referidas neste regulamento com menos de 20 cm, medidas nas condições legalmente estipuladas. Todas as espécies que não possuam as medidas indicadas deverão ser imediatamente lançadas à água, quaisquer que sejam os seus ferimentos.
 
-###### Art. 9.º Cada pescador não poderá utilizar simultâneamente mais do que uma cana e cada cana não pode ter mais do que um anzol.
+Art. 9.º Cada pescador não poderá utilizar simultâneamente mais do que uma cana e cada cana não pode ter mais do que um anzol.
 
-###### Art. 10.º O exercício da pesca só pode fazer-se de terra ou vadeando.
+Art. 10.º O exercício da pesca só pode fazer-se de terra ou vadeando.
 
 ### CAPÍTULO III
 
-###### Art. 11.º Todo o indivíduo que, sem licença especial diária, proceder ao exercício da pesca dentro desta zona reservada fica sujeito à multa prevista na alínea b) do artigo 72.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 11.º Todo o indivíduo que, sem licença especial diária, proceder ao exercício da pesca dentro desta zona reservada fica sujeito à multa prevista na alínea b) do artigo 72.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 12.º A pesca na época do defeso prevista no artigo 5.º deste regulamento constitui crime punível nos termos do § único do artigo 67.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 12.º A pesca na época do defeso prevista no artigo 5.º deste regulamento constitui crime punível nos termos do § único do artigo 67.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 13.º A retenção de espécies piscícolas com inobservância do estabelecido no artigo 8.º do presente regulamento, bem como a captura e retenção de maiores quantidades do que se estipula no artigo 6.º deste mesmo regulamento, constitui contravenção punível nos termos do artigo 73.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 13.º A retenção de espécies piscícolas com inobservância do estabelecido no artigo 8.º do presente regulamento, bem como a captura e retenção de maiores quantidades do que se estipula no artigo 6.º deste mesmo regulamento, constitui contravenção punível nos termos do artigo 73.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 14.º O exercício da pesca com inobservância do estipulado no artigo 9.º deste regulamento é punível nos termos do artigo 65.º do referido [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 14.º O exercício da pesca com inobservância do estipulado no artigo 9.º deste regulamento é punível nos termos do artigo 65.º do referido [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 15.º O uso de barco a motor é punível com as penas constantes do artigo 79.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), com apreensão e perda do barco a motor a favor do Estado.
+Art. 15.º O uso de barco a motor é punível com as penas constantes do artigo 79.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), com apreensão e perda do barco a motor a favor do Estado.
 
-###### Art. 16.º Aos indivíduos que, nesta zona de pesca reservada, cometam outras infracções não mencionadas neste regulamento ser-lhes-ão aplicáveis as disposições previstas pelos §§ 2.º e 3.º do artigo 83.º do Regulamento da Pesca nas Águas Interiores, aprovado pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+Art. 16.º Aos indivíduos que, nesta zona de pesca reservada, cometam outras infracções não mencionadas neste regulamento ser-lhes-ão aplicáveis as disposições previstas pelos §§ 2.º e 3.º do artigo 83.º do Regulamento da Pesca nas Águas Interiores, aprovado pelo [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
 
-###### Art. 17.º Todos os indivíduos que praticarem o exercício da pesca nesta reserva ficam obrigados a fornecer à Direcção-Geral dos Serviços Florestais e Aquícolas, sempre que lhes for exigido, os elementos que esta entender necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças especiais de pesca.
+Art. 17.º Todos os indivíduos que praticarem o exercício da pesca nesta reserva ficam obrigados a fornecer à Direcção-Geral dos Serviços Florestais e Aquícolas, sempre que lhes for exigido, os elementos que esta entender necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças especiais de pesca.
 
 Secretaria de Estado da Agricultura, 7 de Outubro de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

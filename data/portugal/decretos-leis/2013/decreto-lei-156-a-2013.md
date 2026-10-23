@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08
   number: '217'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 6424-(6) a 6424-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/11/21702/0000600026.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ade74f822a7b6be788d547c7bb3e414cd8baab5d925b4fe0515107fc665a5cad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72e946412b9737637d86d0b42ac9dba70fd10e11bbf8e714b6e0433b9acaab9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Vida Selvagem
-- Multa
-- Proteção dos Animais
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
+- Multa
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
-- Vegetais
 - Rede Natura 2000
+- Vegetais
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
@@ -122,15 +122,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:20Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +191,9 @@ d) Espécies aquícolas, quando aqueles atos sejam permitidos pela legislação 
 
 10 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -201,7 +203,9 @@ d) Espécies aquícolas, quando aqueles atos sejam permitidos pela legislação 
 
 4 - [...].
 
-###### Artigo 15.º-A — [...]
+Artigo 15.º-A
+
+[...]
 
 Os detentores de espécimes de espécies de aves autóctones ou de outras espécies incluídas no âmbito de aplicação do presente diploma devem proceder conforme estipulado em portaria dos membros do Governo responsáveis pelas áreas das finanças, da conservação da natureza e das pescas.»
 
@@ -211,15 +215,15 @@ Os anexos B-I, B-II e B-IV ao Decreto-Lei n.º 140/99, de 24 de abril, alterado 
 
 Visto e aprovado em Conselho de Ministros de 7 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 8 de novembro de 2013.**
+Promulgado em 8 de novembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 8 de novembro de 2013.**
+Referendado em 8 de novembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -785,7 +789,9 @@ Florestas (sub)naturais de essências indígenas no estado de matas em alto fust
 
 95A0 Pinhais oro-mediterrânicos de altitude.
 
-## ANEXO B-II — Espécies animais e vegetais de interesse comunitário cuja conservação exige a designação de zonas especiais de conservação
+ANEXO B-II
+
+Espécies animais e vegetais de interesse comunitário cuja conservação exige a designação de zonas especiais de conservação
 
 Interpretação
 
@@ -1741,7 +1747,7 @@ Asyneuma giganteum (Boiss.) Bornm.
 
 * Campanula gelida Kovanda.
 
-Campanula romanica [([ver documento original](https://files.diariodarepublica.pt/1s/2013/11/21702/0000600026.pdf))](https://files.diariodarepublica.pt/1s/2013/11/21702/0000600026.pdf).
+Campanula romanica [(ver documento original)](https://files.diariodarepublica.pt/1s/2013/11/21702/0000600026.pdf).
 
 * Campanula sabatia De Not.
 
@@ -3025,7 +3031,9 @@ Bryophyta
 
 * Thamnobryum fernandesii Sergio (o).
 
-## ANEXO B-IV — Espécies animais e vegetais de interesse da comunidade que exigem uma proteção rigorosa
+ANEXO B-IV
+
+Espécies animais e vegetais de interesse da comunidade que exigem uma proteção rigorosa
 
 As espécies que constam do presente anexo são indicadas:
 

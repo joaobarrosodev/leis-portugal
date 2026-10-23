@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/188a00/42564258.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/211/1997/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1997-209592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3aaa3b6fc1878fe4f4c5e282ceb72412aec12c5519b12b2dbc5fc4aa748e6aa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55aa16b10fb65340a4223c287aea6a46412ffaa7323891ef06d6c0afe4292d16
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Defesa Nacional
-- Extinção de Lugares
-- Extinção de Serviços
-- Secretaria Geral
 - Auditoria Jurídica
 - Departamento de Assuntos Jurídicos
+- Extinção de Lugares
+- Extinção de Serviços
+- Ministério da Defesa Nacional
 - Orgânica
 - Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:489502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:615042:por
+  label: "Alterados os arts. 9º e 12º e o quadro de pessoal anexo, referido no nº 2 do art. 20º do Dec Lei 47/93 de 26-Fev,\
+    \ na redacção do presente diploma, pelo DEC LEI.290/2000.2000.11.14.MDN DR.IS-A [263]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-2000-615042
+  date: '2000-11-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/47/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:655675:por
+  label: "Revogado o Decreto-Lei n.º 47/93, de 26 de Fevereiro, na redacção do presente diploma, pelo DEC LEI.154-A/2009.06.07.2009.MDN,\
+    \ DR.IS [128]2ºSupl de 06.07.2009, com excepção dos artigos 21.º e 22.º, que permanecem em vigor nos termos do n.º 2 do\
+    \ seu artigo 34.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-a-2009-655675
+  date: '2009-07-06'
+- type: repealed_by
+  target: pt:dre:489502:por
+  label: "Revogado o presente diploma, a partir de 01.11.2009, nos termos do art. 5.º do Dec Lei 201/2006, de 27-Out, pelo\
+    \ DR.19/2009.04.09.2009.MDN, DR.IS [172] de 04.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-2009-489502
+  date: '2009-09-04'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:10Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +209,7 @@ O DeJur é dirigido por um director, equiparado a subdirector-geral, e dispõe d
 
 ###### Artigo 9.º — Pessoal
 
-**O secretário-geral determina, por despacho, o pessoal do quadro da Secretaria-Geral que fica afecto ao DeJur.**
+O secretário-geral determina, por despacho, o pessoal do quadro da Secretaria-Geral que fica afecto ao DeJur.
 
 ###### Artigo 10.º — Extinção da Auditoria Jurídica
 
@@ -204,15 +227,15 @@ O DeJur é dirigido por um director, equiparado a subdirector-geral, e dispõe d
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 1 de Agosto de 1997.**
+Promulgado em 1 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 1997.**
+Referendado em 4 de Agosto de 1997.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 QUADRO I A QUE SE REFERE O ARTIGO 8.º
 
@@ -224,4 +247,4 @@ Director de serviços ... 2
 
 QUADRO II A QUE SE REFERE O N.º 2 DO ARTIGO 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/188a00/42564258.pdf))](https://files.diariodarepublica.pt/1s/1997/08/188a00/42564258.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/08/188a00/42564258.pdf)

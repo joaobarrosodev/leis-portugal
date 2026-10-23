@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/2/2023/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2023-214042394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T06:35:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7de92fc038108f6a3c2b2f9d21e7a065ae72784989322e041b7c02901e413a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43d32758d6153d0235ec623e0896a3abe2584f6033b2a7500fbeedfb689ecfc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:35:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Academia de Marinha
 - Academia da Força Aérea
-- Reestruturação de Serviços
+- Academia de Marinha
+- Academia Militar
+- Açores
 - Aquário Vasco da GAMA
-- Região Autónoma
 - Arquivo Histórico da Força Aérea
 - BASE Aérea
 - Biblioteca Central da Marinha
 - Campo de Tiro
-- Hospital das Forças Armadas
 - Centro de Informações e Segurança Militares
-- Formação Profissional
 - Chefe do Estado Maior da Armada
 - Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior do Exército
 - Chefe do Estado Maior General das Forças Armadas
+- Comando Aéreo
 - Comando da Logística
 - Comando de ZONA Aérea
 - Comando de ZONA Marítima
-- Estado Maior do Exército
-- Estrutura de Comando do Exército
-- Inspecção Geral do Exército
-- Vice-chefe do Estado Maior do Exército
+- Comando do Exército
+- Comando do Pessoal
+- Comando Militar
 - Comando Naval
 - Comando Naval da Madeira
 - Comando Naval do Continente
 - Comando Naval dos Açores
 - Comando Operacional
-- Exército
+- Comando Operacional da Madeira
 - Comando Operacional das Forças Armadas
+- Comando Operacional dos Açores
+- Comissão Consultiva da Saúde Militar
 - Comissão Cultural da Marinha
 - Comissão de Direito Marítimo Internacional
 - Comissão Permanente de Uniformes
-- Ensino Superior Militar
-- Comando do Pessoal
-- Força Aérea
 - Conselho Superior da Força Aérea
 - Conselho Superior de Disciplina do Exército
 - Conselho Superior do Exército
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Marinha
+- Ensino Superior Militar
 - Escola das Armas
 - Escola de Fuzileiros
 - Escola de Sargentos do Exército
@@ -114,35 +111,38 @@ subjects:
 - Escola Superior de Tecnologias Navais
 - Estado Maior da Armada
 - Estado Maior da Força Aérea
-- Academia Militar
-- ZONA Militar da Madeira
-- Comando Aéreo
-- Comando Militar
+- Estado Maior do Exército
+- Estado Maior General das Forças Armadas
+- Estrutura de Comando do Exército
+- Exército
+- Força Aérea
+- Forças Armadas
+- Formação Profissional
 - Gabinete do Chefe do Estado Maior da Armada
 - Gabinete do Chefe do Estado Maior da Força Aérea
 - Gabinete do Chefe do Estado Maior do Exército
+- Gabinete do Chefe do Estado Maior General das Forças Armadas
+- Hospital das Forças Armadas
 - Inspecção Geral
+- Inspecção Geral do Exército
+- Instituto Universitário Militar
 - Integração de Serviços
 - Junta Médica de Recurso do Exército
-- Chefe do Estado Maior do Exército
+- Madeira.região Autónoma
+- Marinha
 - Museu de Marinha
-- Forças Armadas
+- Museu Militar
 - Orgânica
 - Planetário Calouste Gulbenkian
-- Museu Militar
-- Madeira.região Autónoma
-- Estado Maior General das Forças Armadas
-- Açores
+- Planetário de Marinha
+- Reestruturação de Serviços
+- Região Autónoma
+- Regulamentação de Atos Legislativos
 - Vice-chefe do Estado Maior da Armada
 - Vice-chefe do Estado Maior da Força Aérea
-- Comando do Exército
+- Vice-chefe do Estado Maior do Exército
+- ZONA Militar da Madeira
 - ZONA Militar dos Açores
-- Instituto Universitário Militar
-- Gabinete do Chefe do Estado Maior General das Forças Armadas
-- Comando Operacional dos Açores
-- Comando Operacional da Madeira
-- Comissão Consultiva da Saúde Militar
-- Planetário de Marinha
 relationships:
 - type: amended_by
   target: pt:dre:216769883:por
@@ -188,16 +188,252 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/3/2021/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/3/2021/08/09/p/dre
+- type: cites
+  target: pt:dre:107584769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114358691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123725410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156974201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169256653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169256654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178080766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74526739:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:216769883:por
+  label: Retificado o art. 2.º; al. j) do n.º 2 do art. 4.º; al. e) do art. 9.º; al. g) do art. 83.º; al. d) do art. 20.º,
+    al. l) do n. º1 do art. 27.º e respetiva republicação, al.o) do n.º1, do art. 39.º e respetiva republicação; al. j) do
+    n.º1, do art. 43.º e respetiva republicação, al. r) do n.º1, do art. 48.º e na respetiva republicação, als. b) e K) do
+    n.º1, do art. 55.º e a respetiva republicação, al. n) do n.º1, do art. 63.º e respetiva republicação, todos do art. 101.º
+    (na parte em que altera o DR 10/2015 de 31-jul); o n.º 3 do art. 38.º, do art.104.º e respetiva republicação (na parte
+    em que altera o DR 11/2015, de 31-jul); n.ºs 1 e 2, al. d) do n.º 2 do art. 2.º, e respetiva republicação, n.º 1 do art.
+    6.º, n.º 1 do art. 9.º, art. 17.º, a al. f) do n.º 2 do art. 25.º e respetiva republicação, n.º 5 do art. 43.º e respetiva
+    republicação, al. b) do n.º 2 do art. 55.º, als a) e c) do n.º 2 do art. 56.º, al. c) do n.º 2 do art. 57.º, al. f) do
+    n.º 2 do art. 58.º, al. b) do n.º 3 do art. 68.º, todos do art. 106.º (na parte em que altera o DR 12/2015, de 31-jul);
+    e art. 2.º, n.º 1 do art. 4.º, n.º 2 do art. 12.º, als. h) e j) do n.º 1 do art. 42.º e a respetiva republicação, art.
+    52.º e respetiva republicação, al. n) do n.º 1 do art. 58.º, art.116.º, a republicação do n.º 1 do art. 116.º, a republicação
+    do n.º 8 do art. 139.º, todos do anexo i (a que se refere o n.º 1 do art. 110.º); a republicação da al. c) do n.º 2 do
+    art. 21.º, arts. 65.º, 66.º, 67.º, al. e) do art. 69.º, n.ºs 1 e 2 do art. 74.º, todos no anexo ii (a que se refere o
+    n.º 2 do art. 110.º); al. b) do n.º 3 do art. 5.º, n.ºs 1 e 2 e epígrafe do art. 7.º, n.º 1 do art. 9.º, todos no anexo
+    iii (a que se refere o n.º 3 do art. 110.º), do presente diploma, pelo(a) Declaração de Retificação n.º 17-A/2023 - Diário
+    da República n.º 151/2023, 1º Suplemento, Série I de 2023-08-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/17-a-2023-216769883
+  date: '2023-08-04'
 article_structure:
-  article_count: 667
-  section_count: 132
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 470
+  section_count: 137
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:35:07Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +494,7 @@ d) Procede à primeira alteração ao [Decreto Regulamentar n.º 12/2015](https:
 
 ###### Artigo 2.º — Chefe do Estado-Maior-General das Forças Armadas
 
-**O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) é o principal conselheiro militar da Ministra da Defesa Nacional e o chefe de mais elevada autoridade na hierarquia das Forças Armadas, sendo a sua competência estabelecida na lei.**
+O Chefe do Estado-Maior-General das Forças Armadas (CEMGFA) é o principal conselheiro militar da Ministra da Defesa Nacional e o chefe de mais elevada autoridade na hierarquia das Forças Armadas, sendo a sua competência estabelecida na lei.
 
 ###### Artigo 3.º — Gabinete do Chefe do Estado-Maior-General das Forças Armadas
 
@@ -396,7 +632,9 @@ b) Exercer a coordenação e supervisão de atividades que envolvam várias unid
 
 8 - O CEMC dispõe de um gabinete para apoio técnico e administrativo.
 
-#### SECÇÃO II — Divisão de Planeamento Estratégico Militar
+#### SECÇÃO II
+
+##### Divisão de Planeamento Estratégico Militar
 
 ###### Artigo 7.º — Missão e estrutura
 
@@ -538,7 +776,9 @@ l) Avaliar e propor, no âmbito das respetivas competências, o desenvolvimento 
 
 m) Prever o reforço de forma incremental do CCOM, com elementos nomeados em ordem de batalha, os quais podem ser projetados integrados num quartel-general de força conjunta, quer em operações, quer para a realização de exercícios e treinos, nos planos externo e interno.
 
-#### SECÇÃO III — Divisão de Recursos
+#### SECÇÃO III
+
+##### Divisão de Recursos
 
 ###### Artigo 12.º — Missão e estrutura
 
@@ -684,7 +924,9 @@ p) Contribuir para a definição da doutrina militar conjunta e combinada no dom
 
 q) Contribuir para a organização das Forças Armadas no caso de o país entrar em estado de guerra, nomeadamente quanto à participação global das componentes não militares da defesa nacional no apoio a operações militares, através de estudos e propostas.
 
-#### SECÇÃO IV — Divisão de Inovação e Transformação
+#### SECÇÃO IV
+
+##### Divisão de Inovação e Transformação
 
 ###### Artigo 16.º — Missão e estrutura
 
@@ -736,7 +978,9 @@ d) Potenciar parcerias para a materialização de projetos de desenvolvimento, e
 
 e) Colaborar na definição da doutrina, formação e treino relacionados com os sistemas, processos ou serviços resultantes de projetos de desenvolvimento que identifique.
 
-###### Artigo 19.º — Secção de Avaliação e Melhoria
+###### Artigo 19.º
+
+#### Secção de Avaliação e Melhoria
 
 À Secção de Avaliação e Melhoria compete:
 
@@ -2660,7 +2904,9 @@ Centro de Estudos Estratégicos da Marinha
 
 2 - O CEEM tem por missão principal desenvolver a reflexão e o estudo nas áreas da estratégia marítima e da doutrina naval, promovendo a projeção externa da Marinha.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -2704,7 +2950,9 @@ s) Propor as linhas de orientação relativas à disponibilização de pessoal e
 
 2 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -2722,7 +2970,9 @@ f) [...]
 
 2 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -2742,7 +2992,9 @@ e) (Revogada.)
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 [...]
 
@@ -2776,13 +3028,17 @@ n) [...]
 
 o) Elaborar e implementar a doutrina no domínio da segurança e saúde no trabalho (SST), bem como assegurar a gestão, a coordenação e a execução de atividades neste âmbito, em colaboração com os restantes UEO da Marinha com competências nestas matérias.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
 2 - A SP integra ainda na sua estrutura o Departamento Administrativo e Financeiro, o Gabinete de SST, o Gabinete de Estudos e Planeamento e Sistemas de Informação do Pessoal e o Gabinete da Qualidade do Sistema de Gestão das Pessoas da Marinha, cuja dependência, estrutura e competência são definidas no regulamento interno da SP.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -2828,7 +3084,9 @@ q) [Anterior alínea p).]
 
 5 - O superintendente do Pessoal é um vice-almirante.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -2866,7 +3124,9 @@ o) Validar, acompanhar e avaliar os programas e as atividades, no âmbito da for
 
 3 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -2902,7 +3162,9 @@ n) [Anterior alínea o).]
 
 3 - O diretor de Pessoal é um comodoro.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -2954,13 +3216,17 @@ t) [Anterior alínea r).]
 
 5 - O diretor de Saúde é um comodoro, da classe de médicos navais.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
 2 - A SM integra ainda na sua estrutura o Gabinete de Ambiente, Energia e Recursos, cuja dependência, estrutura e competências são definidas no regulamento interno da SM.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -3008,7 +3274,9 @@ s) [Anterior alínea q).]
 
 4 - O superintendente do Material é um vice-almirante.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -3016,7 +3284,9 @@ s) [Anterior alínea q).]
 
 3 - (Revogado.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -3042,7 +3312,9 @@ j) [...]
 
 2 - O diretor de Abastecimento é um comodoro.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -3074,7 +3346,9 @@ m) [Anterior alínea j).]
 
 2 - O diretor de Infraestruturas é um comodoro.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -3106,7 +3380,9 @@ l) [...]
 
 3 - O diretor de Navios é um contra-almirante e o subdiretor de Navios é um comodoro.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 [...]
 
@@ -3132,7 +3408,9 @@ j) Avaliar a condição técnica das viaturas, no âmbito das suas competências
 
 k) [Anterior alínea j).]
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - [...]
 
@@ -3146,7 +3424,9 @@ d) A Direção de Controlo Financeiro (DCF).
 
 2 - A SF integra ainda na sua estrutura o Gabinete de Normativo e Apoio à Contratação Pública, cuja dependência, estrutura e competências são definidas no regulamento interno da SF.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...]
 
@@ -3190,7 +3470,9 @@ r) [Anterior alínea q).]
 
 3 - O superintendente das Finanças é um contra-almirante.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 [...]
 
@@ -3212,7 +3494,9 @@ h) [Anterior alínea g).]
 
 i) [Anterior alínea h).]
 
-###### Artigo 51.º — Direção de Controlo Financeiro
+Artigo 51.º
+
+Direção de Controlo Financeiro
 
 À DCF compete:
 
@@ -3234,11 +3518,15 @@ h) [...]
 
 i) [...]
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 A SI tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos informacionais, sem prejuízo da competência específica de outras entidades.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 À SI compete:
 
@@ -3262,7 +3550,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A SI compreende:
 
@@ -3276,7 +3566,9 @@ d) [...]
 
 2 - (Revogado.)
 
-###### Artigo 55.º — Superintendente da Informação
+Artigo 55.º
+
+Superintendente da Informação
 
 1 - Ao superintendente da Informação compete:
 
@@ -3312,7 +3604,9 @@ n) [...]
 
 3 - O superintendente da Informação é um comodoro.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 [...]
 
@@ -3340,7 +3634,9 @@ k) [Anterior alínea j).]
 
 l) [Anterior alínea k).]
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -3374,7 +3670,9 @@ n) [Anterior alínea l).]
 
 2 - (Revogado.)
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 [...]
 
@@ -3386,7 +3684,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Ao CN compete:
 
@@ -3410,7 +3710,9 @@ b) A realização de atividades no domínio das ciências e técnicas do mar.
 
 4 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA e por sua determinação, o CN é colocado, pelo CEMA, na dependência direta do CEMGFA e relaciona-se diretamente com o CCOM, atuando de acordo com as modalidades de comando e controlo a definir caso a caso pelo CEMGFA.
 
-###### Artigo 62.º — Estrutura
+Artigo 62.º
+
+Estrutura
 
 1 - [...]
 
@@ -3428,7 +3730,9 @@ e) Os centros da componente operacional do sistema de forças;
 
 f) A Base Naval de Lisboa (BNL).
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]
 
@@ -3468,7 +3772,9 @@ p) [...]
 
 3 - [...]
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - O 2.º CN exerce as competências que lhe forem delegadas e assegura a suplência do CN, nas suas ausências e impedimentos.
 
@@ -3476,7 +3782,9 @@ p) [...]
 
 3 - (Revogado.)
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]
 
@@ -3484,7 +3792,9 @@ p) [...]
 
 3 - O Chefe do Estado-Maior do CN encontra-se na direta dependência do Comandante Naval.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -3512,13 +3822,17 @@ c) Assegurar a articulação, a nível regional, com as outras autoridades públ
 
 10 - Os comandos de zona marítima dos Açores e da Madeira apoiam, respetivamente, o COA e o COM, de acordo com as respetivas capacidades instaladas, designadamente no âmbito administrativo-logístico, de manutenção dos sistemas de comunicação e informação, de segurança das instalações e no controlo das respetivas servidões militares, quando existam.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - O CA é composto pelo CEMA, que preside, e por todos os vice-almirantes no ativo.
 
 2 - [...]
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...]
 
@@ -3536,7 +3850,9 @@ c) Assegurar a articulação, a nível regional, com as outras autoridades públ
 
 8 - O regimento do CA é aprovado por despacho do CEMA.
 
-###### Artigo 74.º — Juntas médicas da Marinha
+Artigo 74.º
+
+Juntas médicas da Marinha
 
 1 - As juntas médicas da Marinha (JMM) são órgãos técnicos de consulta destinados a pronunciar-se sobre a aptidão física e psíquica do pessoal militar, militarizado e civil da Marinha e dos respetivos candidatos.
 
@@ -3554,11 +3870,15 @@ d) [...]
 
 4 - O apoio administrativo às JRC, JSN e JMRA é assegurado por uma secretaria e arquivo comuns, que funcionam na dependência da JSN.
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 A IGM tem por missão apoiar o CEMA no exercício da função de controlo e avaliação, designadamente através da realização de inspeções e auditorias.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - [...]
 
@@ -3590,7 +3910,9 @@ m) (Revogada.)
 
 2 - No exercício das suas competências, a IGM articula-se com entidades externas com competências no domínio da auditoria e inspeção, designadamente a Inspeção-Geral da Defesa Nacional (IGDN), com a qual coopera e partilha informação, nomeadamente no âmbito das boas práticas de auditoria e de gestão adotadas, garantindo a racionalidade, complementaridade e sinergia das intervenções.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - [...]
 
@@ -3602,7 +3924,9 @@ c) O Departamento de Segurança, Saúde no Trabalho e Ambiente (DSSTA).
 
 2 - (Revogado.)
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - [...]
 
@@ -3646,7 +3970,9 @@ r) (Revogada.)
 
 3 - [...]
 
-###### Artigo 106.º — [...]
+Artigo 106.º
+
+[...]
 
 [...]
 
@@ -3658,7 +3984,9 @@ c) Elaborar estudos, informações e propostas no âmbito das ações de auditor
 
 d) (Revogada.)
 
-###### Artigo 107.º — Departamento de Segurança, Saúde no Trabalho e Ambiente
+Artigo 107.º
+
+Departamento de Segurança, Saúde no Trabalho e Ambiente
 
 Ao DSSTA compete:
 
@@ -3674,7 +4002,9 @@ e) (Revogada.)
 
 f) (Revogada.)
 
-###### Artigo 108.º — [...]
+Artigo 108.º
+
+[...]
 
 1 - [...]
 
@@ -3692,7 +4022,9 @@ e) [...]
 
 f) Os órgãos culturais (OC).
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 [...]
 
@@ -3702,7 +4034,9 @@ b) A Base de Fuzileiros (BF);
 
 c) [Anterior alínea b).]
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - [...]
 
@@ -3716,7 +4050,9 @@ c) [Anterior alínea b).]
 
 6 - (Revogado.)
 
-###### Artigo 111.º — [...]
+Artigo 111.º
+
+[...]
 
 1 - À UAICM compete prestar apoio logístico e administrativo às UEO e outras entidades na sua área de responsabilidade, definidas por despacho do CEMA, bem como garantir a segurança e manutenção das respetivas instalações.
 
@@ -3730,19 +4066,25 @@ c) [Anterior alínea b).]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O Comandante da EN é um contra-almirante.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - [...]
 
 2 - As normas que regulam o SFPM são aprovadas por despacho do CEMA.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - São escolas do SFPM:
 
@@ -3772,7 +4114,9 @@ d) O Centro de Educação Física da Armada (CEFA).
 
 4 - A estrutura e competências da EHO constam de diploma próprio.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - [...]
 
@@ -3796,7 +4140,9 @@ g) [Anterior alínea d).]
 
 4 - (Revogado.)
 
-###### Artigo 116.º — Centro Integrado de Tática e Análise Naval
+Artigo 116.º
+
+Centro Integrado de Tática e Análise Naval
 
 1 - O CITAN é um órgão de base, na direta dependência do Comandante da Flotilha, responsável pela formação técnico-profissional, contínua, do pessoal da Marinha, nas áreas da tática e das operações navais, do aconselhamento da navegação, da fiscalização dos espaços marítimos e da operação e exploração de sistemas de comando e controlo de natureza tática e, nesse âmbito, integra o SFPM.
 
@@ -3814,7 +4160,9 @@ d) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - O CEFA é um órgão de base, na direta dependência do diretor de Formação, que integra o SFPM.
 
@@ -3838,7 +4186,9 @@ g) [...]
 
 4 - (Revogado.)
 
-###### Artigo 118.º — Competências
+Artigo 118.º
+
+Competências
 
 1 - A Flotilha é um órgão de base, à qual compete:
 
@@ -3860,7 +4210,9 @@ g) Supervisionar o aprontamento das unidades navais e outros meios operacionais 
 
 3 - (Revogado.)
 
-###### Artigo 119.º — Órgãos de execução de serviços
+Artigo 119.º
+
+Órgãos de execução de serviços
 
 1 - [...]
 
@@ -3876,7 +4228,9 @@ e) Outros órgãos que realizam atividades de apoio global à gestão e atividad
 
 2 - Os órgãos de execução de serviços são regulados por despacho do CEMA.
 
-###### Artigo 127.º — Missão
+Artigo 127.º
+
+Missão
 
 1 - Os órgãos culturais são órgãos de base que têm por missão realizar atividades de apoio geral da Marinha no domínio do património cultural, histórico, artístico, literário e científico.
 
@@ -3886,7 +4240,9 @@ a) A Academia de Marinha (AM);
 
 b) A Direção Cultural da Marinha (DCM).
 
-###### Artigo 128.º — Academia de Marinha
+Artigo 128.º
+
+Academia de Marinha
 
 1 - A AM tem autonomia científica e funciona na direta dependência do CEMA, incumbindo-lhe promover e desenvolver os estudos e divulgar os conhecimentos relacionados com a história, as artes, as letras e as ciências e tudo o mais que diga respeito ao mar e às atividades marítimas.
 
@@ -3894,7 +4250,9 @@ b) A Direção Cultural da Marinha (DCM).
 
 3 - O regulamento interno da AM é aprovado pela Assembleia dos Académicos, promulgado pelo presidente da AM e homologado por despacho do CEMA.
 
-###### Artigo 129.º — Direção Cultural da Marinha
+Artigo 129.º
+
+Direção Cultural da Marinha
 
 1 - A DCM compreende:
 
@@ -3920,7 +4278,9 @@ vii) A Revista da Armada (RA).
 
 3 - (Revogado.)
 
-###### Artigo 130.º — Diretor Cultural da Marinha
+Artigo 130.º
+
+Diretor Cultural da Marinha
 
 1 - Ao diretor Cultural da Marinha compete:
 
@@ -3954,7 +4314,9 @@ m) [...]
 
 3 - [...]
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - O AVG tem por missão assegurar a exposição e a manutenção de exemplares vivos em aquários, promover o conhecimento de ecossistemas aquáticos, conservar as coleções oceanográficas e desenvolver atividades de investigação no domínio da fauna e da flora aquáticas.
 
@@ -3982,7 +4344,9 @@ i) [...]
 
 4 - (Revogado.)
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - [...]
 
@@ -4006,7 +4370,9 @@ f) Proporcionar estágios curriculares, em articulação com a DF, a estabelecim
 
 5 - (Revogado.)
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - O MM tem por missão assegurar a conservação e exposição dos objetos de valor histórico, artístico e documental do património da Marinha, ou confiados à sua guarda, que constituam documentos do passado marítimo dos portugueses e dos seus contributos para a história nacional e universal.
 
@@ -4038,7 +4404,9 @@ j) Desenvolver atividades que contribuem para a sensibilização e divulgação 
 
 5 - (Revogado.)
 
-###### Artigo 135.º — Planetário de Marinha
+Artigo 135.º
+
+Planetário de Marinha
 
 1 - O PM tem por missão assegurar a promoção do interesse pela astronomia, através da divulgação dos conhecimentos científicos relativos ao Universo, junto do público em geral e da comunidade escolar em particular.
 
@@ -4060,7 +4428,9 @@ e) Organizar e realizar estágios e outras ações de formação, destinados a p
 
 5 - (Revogado.)
 
-###### Artigo 138.º — [...]
+Artigo 138.º
+
+[...]
 
 1 - [...]
 
@@ -4074,7 +4444,9 @@ c) As unidades e destacamentos operacionais;
 
 d) [...]
 
-###### Artigo 139.º — [...]
+Artigo 139.º
+
+[...]
 
 1 - O CCF tem por missão, relativamente às forças e unidades de fuzileiros e a outras que lhe sejam atribuídas:
 
@@ -4114,7 +4486,9 @@ c) As forças e unidades de fuzileiros atribuídas.
 
 8 - O Comandante do Corpo de Fuzileiros é coadjuvado e substituído, nas suas ausências, faltas e impedimentos, pelo 2.º Comandante do Corpo de Fuzileiros.
 
-###### Artigo 140.º — Forças, unidades e destacamentos operacionais
+Artigo 140.º
+
+Forças, unidades e destacamentos operacionais
 
 1 - [...]
 
@@ -4132,11 +4506,15 @@ c) As forças e unidades de fuzileiros atribuídas.
 
 8 - O aumento e abate das unidades navais ao efetivo dos navios de guerra da Marinha são estabelecidos por portaria do membro do Governo responsável pela área da defesa nacional.
 
-###### Artigo 145.º — [...]
+Artigo 145.º
+
+[...]
 
 À CDMI compete estudar e emitir parecer sobre as matérias conexas aos espaços marítimos sob soberania ou jurisdição nacional e alto-mar, aos seus usos e às atividades aí exercidas, designadamente no âmbito do direito internacional, do direito do mar e do direito comercial marítimo.
 
-###### Artigo 146.º — Composição e funcionamento
+Artigo 146.º
+
+Composição e funcionamento
 
 1 - A CDMI funciona na dependência direta do CEMA e é constituída por:
 
@@ -4156,7 +4534,9 @@ d) Dois representantes da Marinha, preferencialmente licenciados em Direito.
 
 5 - O regimento da CDMI é aprovado por despacho do CEMA, mediante proposta do presidente da CDMI.
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 1 - [...]
 
@@ -4164,11 +4544,15 @@ d) Dois representantes da Marinha, preferencialmente licenciados em Direito.
 
 3 - [...]
 
-###### Artigo 151.º — [...]
+Artigo 151.º
+
+[...]
 
 As JMM podem pronunciar-se sobre a aptidão física e psíquica relativamente a outro pessoal militarizado, nos termos das orientações definidas por despacho do CEMA.
 
-###### Artigo 153.º — Organização interna
+Artigo 153.º
+
+Organização interna
 
 A organização interna das UEO é definida nos respetivos regulamentos internos, a aprovar por despacho do CEMA.»
 
@@ -4184,11 +4568,15 @@ Conselho Superior de Disciplina da Armada
 
 2 - A composição, o funcionamento e as competências do CSDA constam do Regulamento de Disciplina Militar.
 
-###### Artigo 73.º-B — Missão
+Artigo 73.º-B
+
+Missão
 
 A JMRA é um órgão de conselho do CEMA, que tem por missão estudar e emitir parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres emitidos por outras juntas médicas da Marinha.
 
-###### Artigo 73.º-C — Competências
+Artigo 73.º-C
+
+Competências
 
 1 - À JMRA compete:
 
@@ -4198,7 +4586,9 @@ b) Emitir parecer sobre a não satisfação das condições gerais de promoção
 
 2 - Os pareceres da JMRA estão sujeitos a homologação do CEMA.
 
-###### Artigo 73.º-D — Composição
+Artigo 73.º-D
+
+Composição
 
 1 - A JMRA tem a seguinte composição:
 
@@ -4216,7 +4606,9 @@ c) Dois vogais nomeados com caráter eventual e em conformidade com os casos em 
 
 5 - Os membros da JMRA são nomeados por despacho do CEMA.
 
-###### Artigo 110.º-A — Base de Fuzileiros
+Artigo 110.º-A
+
+Base de Fuzileiros
 
 1 - À BF compete prestar apoio logístico às unidades e forças de fuzileiros, em particular:
 
@@ -4230,7 +4622,9 @@ d) Assegurar, quando determinado, os militares necessários para a constituiçã
 
 2 - O Comandante da BF encontra-se na direta dependência do Comandante do Corpo de Fuzileiros.
 
-###### Artigo 114.º-A — Escola de Fuzileiros
+Artigo 114.º-A
+
+Escola de Fuzileiros
 
 1 - A EF é um órgão de base, na direta dependência do Comandante do Corpo de Fuzileiros.
 
@@ -4256,7 +4650,9 @@ h) Manter o acervo museológico de artefactos, armamento, obras de arte militar 
 
 4 - O Comandante da EF é um oficial da classe de fuzileiros.
 
-###### Artigo 118.º-A — Estrutura
+Artigo 118.º-A
+
+Estrutura
 
 1 - A Flotilha compreende:
 
@@ -4272,7 +4668,9 @@ e) Os órgãos de apoio.
 
 2 - As esquadrilhas e os agrupamentos de unidades operacionais são criados e extintos por despacho do CEMA.
 
-###### Artigo 118.º-B — Comandante da Flotilha
+Artigo 118.º-B
+
+Comandante da Flotilha
 
 1 - Ao Comandante da Flotilha compete:
 
@@ -4310,7 +4708,9 @@ o) Presidir ao Grupo Permanente de Análise de Acidentes Marítimos.
 
 3 - O Comandante da Flotilha é coadjuvado e substituído, nas suas ausências, faltas e impedimentos, pelo 2.º Comandante da Flotilha.
 
-###### Artigo 118.º-C — Centro de Experimentação Operacional da Marinha
+Artigo 118.º-C
+
+Centro de Experimentação Operacional da Marinha
 
 1 - O CEOM tem por missão apoiar a experimentação operacional da Marinha, e dos parceiros, combinando as capacidades e os conhecimentos necessários, visando o desenvolvimento futuro das tecnologias emergentes, contribuindo para o respetivo desenvolvimento científico e inovação orientado para o oceano.
 
@@ -4334,7 +4734,9 @@ v) Centros de investigação, desenvolvimento e inovação, da indústria, nacio
 
 4 - A estrutura e competências do CEOM são definidas em regulamento interno.
 
-###### Artigo 128.º-A — Direção Cultural da Marinha
+Artigo 128.º-A
+
+Direção Cultural da Marinha
 
 1 - A DCM tem por missão divulgar e garantir a preservação da memória histórica da Marinha e contribuir para o desenvolvimento cultural e científico nacional, no âmbito das artes, das letras e das ciências relacionadas com o mar.
 
@@ -4362,7 +4764,9 @@ j) Promover a celebração de protocolos e parcerias de colaboração ou coopera
 
 k) Promover a realização de estudos técnico-científicos relativos ao património histórico da Marinha, estabelecendo parcerias com outras entidades, nomeadamente universidades e centros de investigação.
 
-###### Artigo 133.º-A — Fragata D. Fernando II e Glória
+Artigo 133.º-A
+
+Fragata D. Fernando II e Glória
 
 1 - A FDFG tem por missão assegurar a conservação, valorização e divulgação das tradições marítimas nacionais, representante das missões realizadas pela Marinha, contribuindo para a cultura e enriquecimento da história marítima e para o conhecimento do mar, e compreende a unidade auxiliar da Marinha (UAM) D. Fernando II e Glória e os navios-museu.
 
@@ -4378,7 +4782,9 @@ c) Desenvolver atividades que contribuem para a sensibilização e divulgação 
 
 4 - O comandante da UAM D. Fernando II e Glória acumula a direção da FDFG e, neste âmbito, encontra-se na direta dependência do diretor Cultural da Marinha.
 
-###### Artigo 142.º-A — Instituto Hidrográfico
+Artigo 142.º-A
+
+Instituto Hidrográfico
 
 1 - O IH tem por missão assegurar as atividades de investigação e desenvolvimento tecnológico relacionadas com as ciências e as técnicas do mar, tendo em vista a sua aplicação prioritária em operações militares navais, designadamente nas áreas da hidrografia, da cartografia hidrográfica, da segurança da navegação, da oceanografia e da defesa do meio marinho.
 
@@ -4388,7 +4794,9 @@ c) Desenvolver atividades que contribuem para a sensibilização e divulgação 
 
 4 - A estrutura orgânica, as atribuições, as competências e o regime administrativo e financeiro do IH são estabelecidos por diploma próprio.
 
-###### Artigo 142.º-B — Serviço de Busca e Salvamento Marítimo
+Artigo 142.º-B
+
+Serviço de Busca e Salvamento Marítimo
 
 1 - O SBSM é o serviço responsável pelas ações de busca e salvamento relativas a acidentes ocorridos com navios ou embarcações.
 
@@ -4452,7 +4860,9 @@ e) (Revogada.)
 
 f) [...]
 
-###### Artigo 7.º — Divisão de Comunicação do Exército
+Artigo 7.º
+
+Divisão de Comunicação do Exército
 
 1 - À DCE compete planear, assegurar e coordenar as atividades de informação pública, relações públicas e protocolo do Exército, de acordo com as orientações do CEME, em especial:
 
@@ -4474,7 +4884,9 @@ h) Exercer a autoridade técnica e funcional do Sistema de Comunicação do Exé
 
 2 - O porta-voz do CEME integra a estrutura da DCE para efeitos de assessoria de imprensa.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 À RAG compete assegurar as relações do Exército com o exterior, com exceção das que são próprias dos órgãos referidos nos artigos 6.º e 7.º, bem como prestar o apoio administrativo que lhe for determinado, e, em especial:
 
@@ -4482,7 +4894,9 @@ a) Assegurar o processamento dos documentos relativos à ligação institucional
 
 b) [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -4500,7 +4914,9 @@ c) [...]
 
 d) O Centro de Experimentação e Modernização Tecnológica do Exército (CEMTEx).
 
-###### Artigo 11.º — Direção de Comunicações e Informação
+Artigo 11.º
+
+Direção de Comunicações e Informação
 
 1 - À DCI compete estudar, planear, dirigir, coordenar e executar as atividades do Exército nos domínios das comunicações e da informação, incluindo as áreas da gestão da informação e do conhecimento, da guerra de informação, da segurança da informação e informação geoespacial, contribuindo para a superioridade de informação e de decisão do Exército.
 
@@ -4566,7 +4982,9 @@ bb) (Revogada.)
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -4604,7 +5022,9 @@ g) Realizar estudos, elaborar propostas e coordenar atividades no âmbito da ino
 
 4 - O EMC compreende até seis divisões, criadas e extintas por despacho do CEME.
 
-###### Artigo 20.º — Unidade de Apoio ao Estado-Maior do Exército
+Artigo 20.º
+
+Unidade de Apoio ao Estado-Maior do Exército
 
 1 - [...]
 
@@ -4640,7 +5060,9 @@ n) Garantir o apoio a militares, ex-militares e antigos combatentes para tratar 
 
 o) Assegurar o apoio de comunicações e sistemas de informação ao EME e órgãos apoiados.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -4652,7 +5074,9 @@ b) [...]
 
 c) O Departamento de Finanças (DFIN).
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -4666,13 +5090,17 @@ c) (Revogada.)
 
 d) (Revogada.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
 2 - O Comandante do Pessoal é um tenente-general, designado por Ajudante-General do Exército, que dispõe de autoridade funcional e técnica no âmbito da administração dos recursos humanos, da formação, do apoio social, da saúde e da psicologia, e tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -4696,7 +5124,9 @@ h) Desenvolver previsões e reportar os efetivos do Exército para apoio à deci
 
 i) Coordenar e acompanhar a prestação de proteção jurídica, quando for reconhecido o direito à mesma.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -4734,7 +5164,9 @@ n) Aprovar documentos metodológicos da formação.
 
 4 - O diretor da DF é um major-general.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -4794,7 +5226,9 @@ y) Elaborar os processos relativos a reconstituição de carreira.
 
 4 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -4862,7 +5296,9 @@ cc) Coordenar o planeamento, a monitorização e a avaliação dos planos nacion
 
 4 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - À DS compete planear, dirigir e coordenar o apoio sanitário no Exército, em coordenação com a Direção de Saúde Militar (DIRSAM), sempre que necessário.
 
@@ -4898,7 +5334,9 @@ l) (Revogada.)
 
 5 - No âmbito da saúde militar, a DS depende técnica e funcionalmente da DIRSAM.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -4926,7 +5364,9 @@ j) [...]
 
 k) (Revogada.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -4948,7 +5388,9 @@ g) (Revogada.)
 
 h) [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -4966,7 +5408,9 @@ f) [Anterior alínea e).]
 
 2 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -4994,7 +5438,9 @@ j) Elaborar, em coordenação com as direções logísticas, o Plano de Aquisiç
 
 k) (Revogada.)
 
-###### Artigo 33.º — Direção de Reabastecimento e Transportes
+Artigo 33.º
+
+Direção de Reabastecimento e Transportes
 
 1 - À DRT compete executar, de forma integrada, as atividades logísticas de reabastecimento, transportes e serviços de campanha do Exército, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação de abastecimentos.
 
@@ -5062,7 +5508,9 @@ cc) [...]
 
 4 - O diretor da DRT é um major-general.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -5094,7 +5542,9 @@ l) Promover a liberação de cauções e executar a aplicação de penalidades p
 
 3 - O diretor da DA é um brigadeiro-general.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - À DIE compete assegurar a direção, a coordenação, o controlo administrativo e a execução técnica das atividades de conceção, construção, remodelação, manutenção, conservação e demolição referentes a instalações do Exército, incluindo os respetivos equipamentos e redes, bem como fiscalizar a funcionalidade e qualidade da execução dos respetivos contratos, quanto à realização do interesse público, visado pela decisão de contratar e a observância das normas de segurança aplicáveis.
 
@@ -5136,7 +5586,9 @@ q) (Revogada.)
 
 3 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -5176,9 +5628,13 @@ p) Confecionar e distribuir alimentação;
 
 q) Prestar apoio em alojamento e alimentação, através das messes militares sob sua autoridade hierárquica.
 
-#### SECÇÃO IV — Departamento de Finanças
+SECÇÃO IV
 
-###### Artigo 37.º — [...]
+Departamento de Finanças
+
+Artigo 37.º
+
+[...]
 
 1 - O DFIN assegura as atividades do Exército no domínio da administração dos recursos financeiros, de acordo com os planos e diretivas aprovados pelo CEME.
 
@@ -5216,7 +5672,9 @@ o) Coligir e sistematizar os dados relevantes, no âmbito orçamental e financei
 
 3 - O DFIN é dirigido por um major-general, designado por diretor de Finanças, que dispõe de autoridade funcional e técnica no âmbito dos recursos financeiros do Exército.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...]
 
@@ -5238,7 +5696,9 @@ e) O Centro de Capacitação Tática, Simulação e Certificação (CCTSC).
 
 5 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - O CFT tem por missão apoiar o exercício do comando por parte do CEME, tendo em vista a geração, a preparação, o aprontamento e a sustentação das forças e meios da componente operacional do sistema de forças e, ainda, o cumprimento das missões que sejam atribuídas pelo CEMGFA ao Exército, bem como a administração e direção das unidades e órgãos da componente fixa colocados na sua direta dependência.
 
@@ -5266,7 +5726,9 @@ j) Integrar os contributos dos órgãos na dependência do VCEME que possuem com
 
 3 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA, e por sua determinação, o CFT é colocado, pelo CEME, na dependência direta do CEMGFA, e relaciona-se diretamente com o CCOM, atuando de acordo com as modalidades de comando e controlo a definir caso a caso pelo CEMGFA.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...]
 
@@ -5290,7 +5752,9 @@ i) Apoiar o COA, de acordo com as capacidades instaladas, no âmbito administrat
 
 2 - [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -5314,7 +5778,9 @@ i) Apoiar o COM, de acordo com as capacidades instaladas, no âmbito administrat
 
 2 - [...]
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - A Inspeção-Geral do Exército (IGE) tem por missão apoiar o CEME no exercício da função de controlo e avaliação, designadamente através da realização de inspeções e auditorias.
 
@@ -5348,7 +5814,9 @@ j) Efetuar a gestão funcional dos sistemas de informação de apoio à atividad
 
 6 - O inspetor-geral do Exército é, em acumulação de funções, o Encarregado de Proteção de Dados do Exército.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 [...]
 
@@ -5358,7 +5826,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 a) [...]
 
@@ -5376,7 +5846,9 @@ g) O CGIC;
 
 h) O CCTSC.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -5384,7 +5856,9 @@ h) O CCTSC.
 
 3 - (Revogado.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - O CSMIE tem por missão executar e coordenar as atividades no âmbito das informações militares, contrainformação e segurança militar do Exército.
 
@@ -5398,7 +5872,9 @@ c) Realizar, de forma sistemática, a pesquisa e o processamento de notícias e 
 
 d) Conduzir as atividades de contrainformação de rotina, necessárias à avaliação permanente das ameaças à segurança militar no Exército.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 A área do apoio logístico compreende:
 
@@ -5412,7 +5888,9 @@ d) [...]
 
 e) [...]
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - A Academia Militar (AM) é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.
 
@@ -5426,7 +5904,9 @@ e) [...]
 
 6 - O Comandante da AM é um major-general, na direta dependência do CEME, sendo coadjuvado por um brigadeiro-general da GNR, designado por 2.º Comandante.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - [...]
 
@@ -5476,7 +5956,9 @@ v) Assegurar a formação aos cursos do regime de contrato especial, conforme lh
 
 2 - [...]
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 [...]
 
@@ -5490,7 +5972,9 @@ d) Ministrar formação inicial e de atualização para condutores de mercadoria
 
 e) Assegurar a formação aos cursos do regime de contrato especial, conforme lhe for determinado.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - [...]
 
@@ -5534,7 +6018,9 @@ r) Incorporar os militares destinados aos regimes de voluntariado e de contrato;
 
 s) Ministrar cursos de formação, designadamente os de progressão na carreira.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...]
 
@@ -5546,7 +6032,9 @@ b) [...]
 
 c) Constituir-se como polo de formação, para as especialidades de músicos e corneteiros/clarins, no âmbito do sistema de formação do Exército.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - [...]
 
@@ -5560,7 +6048,9 @@ c) [...]
 
 d) O Laboratório Nacional do Medicamento (LM).
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - [...]
 
@@ -5572,7 +6062,9 @@ c) Guardar detidos, com a condição militar, até serem apresentados a interrog
 
 2 - [...]
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 [...]
 
@@ -5592,7 +6084,9 @@ g) Garantir a qualidade laboratorial e a manutenção das condições de biosseg
 
 h) Participar em projetos de investigação, desenvolvimento e inovação dentro da sua esfera de ação.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 [...]
 
@@ -5642,7 +6136,9 @@ j) Assegurar uma valência multidisciplinar no âmbito da exploração de dados 
 
 3 - O CEMTEx tem na sua dependência hierárquica as UEO definidas por despacho do CEME.
 
-###### Artigo 28.º-A — Centro de Psicologia Aplicada do Exército
+Artigo 28.º-A
+
+Centro de Psicologia Aplicada do Exército
 
 1 - Ao CPAE compete planear, coordenar e dirigir a atividade da psicologia e sociologia militar no Exército e aprontar um Módulo de Operações Psicológicas.
 
@@ -5674,7 +6170,9 @@ l) Efetuar intervenção e apoio psicológico a militares, seus familiares próx
 
 m) Efetuar o apoio militar de emergência, através do conceito de duplo uso do Núcleo de Apoio e Intervenção Psicológica e do Módulo de Operações Psicológicas, no âmbito da intervenção psicológica e das operações de informação e sensibilização.
 
-###### Artigo 33.º-A — Direção de Manutenção e Sistemas de Armas
+Artigo 33.º-A
+
+Direção de Manutenção e Sistemas de Armas
 
 1 - À DMSA compete executar, de forma integrada, as atividades logísticas relativas à manutenção dos recursos materiais do Exército e a gestão da sustentação dos sistemas de armas, de acordo com as diretivas superiores, exceto as referentes à aquisição e alienação desses recursos.
 
@@ -5714,7 +6212,9 @@ o) Conduzir atividades de engenharia em todas as fases do ciclo de vida dos mate
 
 4 - O diretor da DMSA é um brigadeiro-general.
 
-###### Artigo 37.º-A — Estrutura
+Artigo 37.º-A
+
+Estrutura
 
 O DFIN compreende:
 
@@ -5726,7 +6226,9 @@ c) A Divisão de Auditoria e Controlo Interno (DACI);
 
 d) A Repartição de Apoio Geral (RAG).
 
-###### Artigo 37.º-B — Gabinete do Diretor de Finanças
+Artigo 37.º-B
+
+Gabinete do Diretor de Finanças
 
 1 - O Gabinete do Diretor de Finanças é o órgão de apoio direto e pessoal do diretor de Finanças.
 
@@ -5742,7 +6244,9 @@ d) Assegurar que o sistema financeiro do Exército acompanha a evolução da leg
 
 e) Acompanhar as políticas e boas práticas desenvolvidas no âmbito da modernização administrativa do Estado e da Administração Pública, propondo a implementação no Exército das que se enquadram no âmbito da administração dos recursos financeiros.
 
-###### Artigo 37.º-C — Divisão de Gestão Orçamental e Financeira
+Artigo 37.º-C
+
+Divisão de Gestão Orçamental e Financeira
 
 1 - À DGOF compete assegurar a execução das operações necessárias à gestão dos recursos orçamentais colocados à disposição do Exército, bem como a implementação dos sistemas contabilísticos orçamentais, financeiros e de gestão no Exército.
 
@@ -5770,7 +6274,9 @@ j) Assegurar a disponibilização do orçamento aprovado às UEO do Exército e 
 
 k) Assegurar o pedido de libertação dos meios financeiros necessários para o cumprimento das obrigações do Exército para com terceiros.
 
-###### Artigo 37.º-D — Divisão de Auditoria e Controlo Interno
+Artigo 37.º-D
+
+Divisão de Auditoria e Controlo Interno
 
 1 - À DACI compete realizar ações de auditoria interna e controlo interno no âmbito da área de responsabilidade do DFIN.
 
@@ -5788,7 +6294,9 @@ e) Executar auditorias internas e ações de apoio técnico às UEO do Exército
 
 f) Acompanhar a implementação das recomendações emitidas em relatórios de auditoria e inspeção, no âmbito da administração dos recursos financeiros do Exército.
 
-###### Artigo 37.º-E — Repartição de Apoio Geral
+Artigo 37.º-E
+
+Repartição de Apoio Geral
 
 1 - À RAG compete assegurar o apoio administrativo-logístico, de comunicações e sistemas de informação necessários ao funcionamento do Departamento de Finanças.
 
@@ -5806,7 +6314,9 @@ e) Assegurar a execução das operações no domínio da administração dos rec
 
 f) Promover as medidas necessárias à segurança e saúde no trabalho, de acordo com as orientações superiores.
 
-###### Artigo 62.º-A — Centro de Informação Geoespacial do Exército
+Artigo 62.º-A
+
+Centro de Informação Geoespacial do Exército
 
 1 - Ao CIGeoE compete prover com informação e apoio geoespacial do Exército e outras entidades, bem como desenvolver ações de investigação científica e tecnológica.
 
@@ -5844,7 +6354,9 @@ o) Garantir o apoio geoespacial às FND e END, na forma e condições que lhe fo
 
 p) Colaborar com a DHCM na promoção e divulgação do acervo histórico da cartografia militar.
 
-###### Artigo 62.º-B — Centro de Transmissões do Exército
+Artigo 62.º-B
+
+Centro de Transmissões do Exército
 
 1 - Ao CTE compete implementar, controlar, gerir e executar as atividades que garantam a contínua operacionalidade das comunicações e sistemas de informação, necessárias à garantia da resiliência e disponibilidade da informação armazenada, processada e transmitida nos sistemas de informação e comunicações do Exército, de natureza estrutural e conjuntural.
 
@@ -5878,7 +6390,9 @@ m) Realizar estágios técnicos de especialização, atualização ou adaptaçã
 
 n) Participar na realização de verificações e auditorias técnicas dos materiais, equipamentos, sistemas, procedimentos e documentação do seu âmbito.
 
-###### Artigo 62.º-C — Centro de Guerra de Informação e Ciberespaço
+Artigo 62.º-C
+
+Centro de Guerra de Informação e Ciberespaço
 
 1 - Ao CGIC compete garantir a segurança da informação, a proteção do ambiente de informação e a ciberdefesa do Exército, de forma a assegurar a liberdade de ação no ciberespaço e a sua superioridade de informação.
 
@@ -5904,7 +6418,9 @@ i) Garantir a segurança periférica das redes afetas aos Sistemas de Informaç�
 
 j) Garantir a implementação de medidas de segurança de acordo com as diretivas e normas emanadas pela Autoridade Nacional de Segurança.
 
-###### Artigo 62.º-D — Centro de Capacitação Tática, Simulação e Certificação
+Artigo 62.º-D
+
+Centro de Capacitação Tática, Simulação e Certificação
 
 1 - O CCTSC tem por missão executar e coordenar atividades de certificação, simulação e aprontamento de forças e militares a projetar para teatros de operações.
 
@@ -5936,7 +6452,9 @@ Chefe do Estado-Maior da Força Aérea
 
 2 - O CEMFA é, por inerência, a Autoridade Aeronáutica Nacional (AAN) e, nesta qualidade funcional, depende do Ministro da Defesa Nacional, nos termos da legislação aplicável.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -5962,7 +6480,9 @@ h) Assegurar o apoio aos órgãos de conselho da Força Aérea.
 
 4 - O chefe do GABCEMFA é um major-general.
 
-###### Artigo 3.º — Assessoria do Chefe do Estado-Maior da Força Aérea
+Artigo 3.º
+
+Assessoria do Chefe do Estado-Maior da Força Aérea
 
 1 - O CEMFA dispõe de:
 
@@ -5976,7 +6496,9 @@ b) Assessoria jurídica.
 
 4 - O assessor jurídico do CEMFA exerce autoridade funcional e técnica no que respeita à área jurídica na Força Aérea.
 
-###### Artigo 5.º — Natureza, competências e estrutura
+Artigo 5.º
+
+Natureza, competências e estrutura
 
 1 - O Vice-Chefe do Estado-Maior da Força Aérea (VCEMFA) é o 2.º Comandante da Força Aérea, sendo o tenente-general hierarquicamente superior a todos os oficiais do seu posto na Força Aérea.
 
@@ -6006,7 +6528,9 @@ c) O Serviço de Documentação da Força Aérea (SDFA);
 
 d) O Sub-Registo (SR).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -6022,7 +6546,9 @@ d) Assegurar o apoio administrativo ao SCEMFA e ao EMFA;
 
 e) (Revogada.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -6064,7 +6590,9 @@ q) Promover a inovação e transformação da Força Aérea, com vista à melhor
 
 r) Assegurar, no âmbito das atividades da Força Aérea, a definição das políticas de gestão ambiental, energia e recursos.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -6078,7 +6606,9 @@ d) (Revogada.)
 
 e) (Revogada.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Ao SUBCEMFA compete, em especial:
 
@@ -6090,7 +6620,9 @@ c) (Revogada.)
 
 2 - O SUBCEMFA é um major-general piloto aviador.
 
-#### SECÇÃO I — Artigo 13.º
+SECÇÃO I
+
+Artigo 13.º
 
 Natureza e composição
 
@@ -6104,7 +6636,9 @@ b) O Comando da Logística da Força Aérea (CLAFA) e as direções técnicas re
 
 c) A Direção de Finanças da Força Aérea (DFFA).
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -6158,7 +6692,9 @@ w) [...]
 
 x) Coordenar e desenvolver as atividades no domínio da psicologia organizacional.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -6192,7 +6728,9 @@ f) O Serviço de Assistência Religiosa (SAR).
 
 5 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O Comandante do Pessoal da Força Aérea exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, sobre as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita às seguintes áreas:
 
@@ -6212,11 +6750,15 @@ f) Assistência religiosa.
 
 3 - O Comandante do Pessoal da Força Aérea é um tenente-general, na direta dependência do CEMFA.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Os órgãos de apoio direto são criados e extintos por despacho do CEMFA.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -6260,7 +6802,9 @@ r) Garantir a gestão do registo, a verificação e a validação dos dados na �
 
 3 - O diretor da DP é um major-general.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A DS tem por missão assegurar a prevenção, manutenção e controlo da recuperação da saúde do pessoal da Força Aérea, no âmbito do Sistema de Saúde Militar (SSM), bem como assegurar o apoio médico-sanitário às operações militares atribuídas à Força Aérea, às evacuações aeromédicas e às missões de busca e salvamento.
 
@@ -6304,7 +6848,9 @@ q) (Revogada.)
 
 4 - O diretor da DS é um brigadeiro-general.
 
-###### Artigo 23.º — Direção de Formação
+Artigo 23.º
+
+Direção de Formação
 
 1 - A DF tem por missão conceber, elaborar, implementar e controlar os planos, programas e atividades de formação da sua competência, que incluem as atividades de instrução e formação complementar de voo bem como programar e controlar as atividades de educação física e desportos na Força Aérea.
 
@@ -6338,7 +6884,9 @@ m) Coordenar, no âmbito da Força Aérea, as ações de cooperação no domíni
 
 3 - O diretor da DF é um brigadeiro-general.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -6388,7 +6936,9 @@ u) (Revogada.)
 
 v) (Revogada.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...]
 
@@ -6408,7 +6958,9 @@ f) O Gabinete do Coordenador de Missão no Âmbito dos Incêndios Rurais (GCMIR)
 
 3 - [...]
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O Comandante da Logística da Força Aérea exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, sobre as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita às seguintes áreas:
 
@@ -6432,11 +6984,15 @@ h) Transportes.
 
 3 - O Comandante da Logística da Força Aérea é um tenente-general, na direta dependência do CEMFA.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Os órgãos de apoio direto do CLAFA são criados e extintos por despacho do CEMFA.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -6462,7 +7018,9 @@ i) Assegurar a aquisição e gestão das publicações técnicas necessárias à
 
 3 - O diretor da DAT é um brigadeiro-general.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]
 
@@ -6488,7 +7046,9 @@ h) Dirigir, sustentar e administrar a satisfação das necessidades em termos de
 
 4 - O diretor da DCSI é um brigadeiro-general.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -6528,7 +7088,9 @@ p) Supervisionar o Laboratório de Metrologia da Força Aérea, de acordo com as
 
 3 - O diretor da DEP é um brigadeiro-general.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -6560,7 +7122,9 @@ k) Promover e apoiar medidas de melhoria que visem tornar a Força Aérea mais e
 
 4 - O diretor da DI é um brigadeiro-general.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...]
 
@@ -6584,7 +7148,9 @@ h) Executar auditorias técnicas nas suas áreas de competências.
 
 3 - O diretor da DMSA é um major-general.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -6620,7 +7186,9 @@ c) O Serviço de Auditoria e Controlo Interno (SACI).
 
 4 - O diretor de Finanças da Força Aérea é um major-general, na direta dependência do CEMFA.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - O CA é o comando da componente aérea.
 
@@ -6688,7 +7256,9 @@ r) Assegurar a permanente ligação às forças e serviços de segurança e à p
 
 s) Planear, dirigir e controlar as atividades de defesa passiva e ativa relativas à proteção da Força.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -6722,7 +7292,9 @@ f) [...]
 
 g) (Revogada.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O Comandante Aéreo exerce autoridade hierárquica sobre os órgãos mencionados no artigo anterior e autoridade funcional e técnica, através dos respetivos comandantes, diretores ou chefes, das unidades, estabelecimentos e órgãos da Força Aérea, no que respeita às seguintes áreas:
 
@@ -6738,17 +7310,23 @@ b) Segurança militar.
 
 5 - O Comandante Aéreo é um tenente-general, na direta dependência do CEMFA.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
 2 - O 2.º Comandante Aéreo é um major-general piloto aviador.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 Os órgãos de apoio direto do CA são criados e extintos por despacho do CEMFA.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -6826,7 +7404,9 @@ ii) (Revogada.)
 
 3 - Os órgãos de operações aéreas são dirigidos por um brigadeiro-general piloto aviador, designado por diretor das Operações Aéreas.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - [...]
 
@@ -6866,7 +7446,9 @@ i) Apoiar o Comando Operacional dos Açores de acordo com as respetivas capacida
 
 6 - O Comandante do CZAA é um brigadeiro-general piloto aviador.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O Comando da Zona Aérea da Madeira (CZAM) tem por missão:
 
@@ -6896,7 +7478,9 @@ e) Apoiar o Comando Operacional da Madeira de acordo com as respetivas capacidad
 
 5 - O Comandante do CZAM é um coronel piloto aviador.
 
-###### Artigo 46.º — Natureza
+Artigo 46.º
+
+Natureza
 
 1 - Os órgãos de conselho destinam-se a apoiar as decisões do CEMFA em assuntos especiais e importantes na preparação, disciplina e administração da Força Aérea.
 
@@ -6908,7 +7492,9 @@ b) O Conselho Superior de Disciplina da Força Aérea (CSDFA);
 
 c) A Junta Superior de Saúde da Força Aérea (JSSFA).
 
-###### Artigo 47.º — Conselho Superior da Força Aérea
+Artigo 47.º
+
+Conselho Superior da Força Aérea
 
 1 - O CSFA é o órgão máximo de consulta do CEMFA.
 
@@ -6934,13 +7520,17 @@ d) A distribuição dos efetivos das especialidades por categorias e postos.
 
 8 - As funções de secretário do CSFA são desempenhadas pelo tenente-general mais moderno presente na reunião.
 
-###### Artigo 49.º — Conselho Superior de Disciplina da Força Aérea
+Artigo 49.º
+
+Conselho Superior de Disciplina da Força Aérea
 
 1 - O CSDFA é o órgão consultivo e de apoio ao CEMFA em matéria disciplinar.
 
 2 - A composição, funcionamento e competências do CSDFA constam do Regulamento de Disciplina Militar.
 
-###### Artigo 51.º — Junta Superior de Saúde da Força Aérea
+Artigo 51.º
+
+Junta Superior de Saúde da Força Aérea
 
 1 - A JSSFA tem por missão e competência estudar e dar parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres formulados por outras juntas médicas da Força Aérea, designadamente as juntas médicas referentes ao pessoal navegante.
 
@@ -6948,7 +7538,9 @@ d) A distribuição dos efetivos das especialidades por categorias e postos.
 
 3 - O presidente da JSSFA é um oficial general, em acumulação de funções ou na reserva.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...]
 
@@ -7000,13 +7592,17 @@ c) Os órgãos de apoio direto.
 
 7 - A IGFA é dirigida por um oficial general, na situação de reserva, designado por inspetor-geral da Força Aérea, na dependência direta do CEMFA.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A AFA é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.
 
 2 - O Comandante da AFA é um major-general, na direta dependência do CEMFA.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A UAL tem por missão prestar apoio logístico e administrativo às unidades, estabelecimentos e órgãos definidos por despacho do CEMFA, assim como aos militares adidos.
 
@@ -7044,7 +7640,9 @@ o) (Revogada.)
 
 p) (Revogada.)
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - [...]
 
@@ -7060,7 +7658,9 @@ d) [Anterior alínea e).]
 
 e) (Revogada.)
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]
 
@@ -7076,7 +7676,9 @@ d) [...]
 
 e) Executar inspeções técnicas, em coordenação com a IGFA, bem como no âmbito da dependência funcional e técnica do Registo Central e Autoridade Nacional de Segurança.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O CFMTFA tem por missão ministrar a formação militar, humanística, técnica e científica do pessoal da Força Aérea, cujo âmbito não esteja coberto pelos órgãos de ensino da Força Aérea e, ainda, garantir a segurança militar e a defesa imediata.
 
@@ -7098,7 +7700,9 @@ g) A certificação de competências no âmbito da formação ministrada.
 
 3 - (Revogado.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]
 
@@ -7118,7 +7722,9 @@ f) [...]
 
 g) Proceder à convocação e mobilização dos cidadãos na situação de reserva de recrutamento ou de disponibilidade, nos termos da Lei do Serviço Militar.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...]
 
@@ -7138,7 +7744,9 @@ e) A Base Aérea n.º 8 - Ovar;
 
 f) [Anterior alínea e).]
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - [...]
 
@@ -7146,7 +7754,9 @@ f) [Anterior alínea e).]
 
 3 - O Aeródromo de Manobra n.º 3, em Porto Santo, está na dependência hierárquica do Comandante Aéreo, através do CZAM.
 
-###### Artigo 63.º — Unidade de Aprontamento e Apoio Operacional
+Artigo 63.º
+
+Unidade de Aprontamento e Apoio Operacional
 
 1 - A UAAO tem por missão:
 
@@ -7162,13 +7772,17 @@ d) Garantir a segurança militar e a defesa imediata.
 
 3 - A UAAO, em Alcochete, está na dependência hierárquica do Comandante Aéreo.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - As estações de radar são elementos da componente operacional do sistema de forças, da responsabilidade da Força Aérea, com a missão de garantir a prontidão dos meios de deteção e de comunicações integrados no sistema de comando e controlo aéreo.
 
 2 - [...]
 
-###### Artigo 65.º — Direção Histórico-Cultural da Força Aérea
+Artigo 65.º
+
+Direção Histórico-Cultural da Força Aérea
 
 1 - A Direção Histórico-Cultural da Força Aérea (DHCFA) tem por missão apoiar a representação institucional e a comunicação estratégica da Força Aérea, divulgar e garantir a preservação da sua memória e património histórico-cultural aeronáutico que constitui o acervo dos órgãos de natureza cultural (ONC) na sua dependência, assim como contribuir para o desenvolvimento científico e cultural nacional, no âmbito do ar e das ciências aeronáuticas.
 
@@ -7196,7 +7810,9 @@ c) A revista Mais Alto (MALTO).
 
 5 - O diretor da DHCFA é um oficial general, na situação de reserva, na direta dependência do CEMFA.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]
 
@@ -7212,7 +7828,9 @@ d) Coordenar com as unidades, estabelecimentos e órgãos os programas de manute
 
 e) [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -7232,7 +7850,9 @@ f) [...]
 
 g) (Revogada.)
 
-###### Artigo 68.º — Banda de Música da Força Aérea
+Artigo 68.º
+
+Banda de Música da Força Aérea
 
 1 - A BMFA é um ONC sendo a sua dependência definida por despacho do CEMFA.
 
@@ -7248,7 +7868,9 @@ c) Executar ações de divulgação técnico-artísticas performativas, promotor
 
 d) Divulgar e ser um agente contínuo de divulgação e de valorização do acervo e espólio musical histórico-cultural aeronáutico nas suas ações performativas.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Os elementos da componente operacional do sistema de forças são as forças e os meios da Força Aérea destinados ao cumprimento das missões de natureza operacional.
 
@@ -7282,23 +7904,33 @@ c) Desenvolver as atividades conducentes à coordenação com a Autoridade Nacio
 
 3 - O GCMIR é dirigido por um oficial general, na situação de reserva.
 
-###### Artigo 33.º-A — Serviço Administrativo e Financeiro
+Artigo 33.º-A
+
+Serviço Administrativo e Financeiro
 
 O SAF tem por missão assegurar as operações financeiras de natureza central e apoiar e controlar a execução orçamental e a gestão financeira dos órgãos cuja responsabilidade administrativo-financeira lhe seja atribuída.
 
-###### Artigo 33.º-B — Serviço de Gestão de Recursos Financeiros
+Artigo 33.º-B
+
+Serviço de Gestão de Recursos Financeiros
 
 O SGRF tem por missão assegurar as atividades de planeamento e controlo da gestão dos recursos financeiros e dos vencimentos, pensões e outros abonos, coordenando e elaborando a proposta orçamental e a prestação de contas consolidada da Força Aérea, e desenvolver a contabilidade de gestão e outra informação financeira relevante, como instrumentos de apoio à gestão e à tomada de decisão.
 
-###### Artigo 33.º-C — Serviço de Auditoria e Controlo Interno
+Artigo 33.º-C
+
+Serviço de Auditoria e Controlo Interno
 
 O SACI tem por missão assegurar as ações de auditoria e controlo regular da atividade administrativo-financeira e promover o sistema de controlo interno no âmbito da gestão dos recursos financeiros da Força Aérea.
 
-###### Artigo 52.º-A — Gabinete de Prevenção de Acidentes
+Artigo 52.º-A
+
+Gabinete de Prevenção de Acidentes
 
 O GPA tem por missão superintender tecnicamente as unidades, estabelecimentos ou órgãos da Força Aérea, no que respeita à área da prevenção de acidentes.
 
-###### Artigo 54.º-A — Serviço Jurídico da Força Aérea
+Artigo 54.º-A
+
+Serviço Jurídico da Força Aérea
 
 1 - O SJFA tem por missão conduzir os assuntos de natureza jurídica, no âmbito das atribuições e competências da Força Aérea, sob a dependência técnica e funcional do assessor jurídico do CEMFA.
 
@@ -7326,7 +7958,9 @@ j) Executar inspeções técnicas, em coordenação com a IGFA;
 
 k) Colaborar com as unidades, estabelecimentos e órgãos no âmbito do ensino e formação na definição e implementação, nomeadamente a docência, dos conteúdos programáticos das disciplinas da área de direito.
 
-###### Artigo 57.º-A — Centro de Psicologia da Força Aérea
+Artigo 57.º-A
+
+Centro de Psicologia da Força Aérea
 
 1 - O CPSIFA tem por missão a avaliação psicológica no âmbito da seleção de pessoal, assim como a intervenção no domínio da psicologia organizacional, em particular nas vertentes aeronáutica e militar.
 
@@ -7346,7 +7980,9 @@ f) Participar em atividades promotoras da segurança operacional, e em concreto 
 
 g) Participar em exercícios nacionais de âmbito operacional, com vista à aquisição, treino, desenvolvimento e aplicação de competências na área de intervenção em crise.
 
-###### Artigo 58.º-A — Serviço de Justiça e Disciplina
+Artigo 58.º-A
+
+Serviço de Justiça e Disciplina
 
 1 - O SJD tem por missão estudar e emitir parecer sobre as matérias diretamente relacionadas com a administração da justiça e disciplina na Força Aérea.
 
@@ -7366,7 +8002,9 @@ f) Apoiar tecnicamente as áreas de pessoal das unidades e órgãos da Força A�
 
 g) Executar inspeções técnicas, em coordenação com a IGFA.
 
-###### Artigo 58.º-B — Serviço de Ação Social
+Artigo 58.º-B
+
+Serviço de Ação Social
 
 1 - O SAS tem por missão promover o bem-estar social e assegurar o apoio social ao pessoal da Força Aérea.
 
@@ -7388,7 +8026,9 @@ g) Assegurar o cumprimento do Programa para a Prevenção dos Comportamentos Adi
 
 h) Executar inspeções técnicas, em coordenação com a IGFA.
 
-###### Artigo 58.º-C — Serviço de Assistência Religiosa
+Artigo 58.º-C
+
+Serviço de Assistência Religiosa
 
 1 - O SAR tem por missão assegurar a assistência religiosa na Força Aérea.
 
@@ -7402,7 +8042,9 @@ c) Colaborar em ações culturais;
 
 d) Estudar e propor obras de construção, conservação e restauro do património religioso da Força Aérea.
 
-###### Artigo 71.º-A — Organização interna
+Artigo 71.º-A
+
+Organização interna
 
 A organização interna das unidades, estabelecimentos e órgãos da Força Aérea é definida pelo CEMFA.»
 
@@ -7476,15 +8118,15 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 2 de fevereiro de 2023. - António Luís Santos da Costa - Maria Helena Chaves Carreiras - Fernando Medina Maciel Almeida Correia.
 
-**Promulgado em 10 de abril de 2023.**
+Promulgado em 10 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de abril de 2023.**
+Referendado em 14 de abril de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 110.º)
 
@@ -9964,7 +10606,7 @@ Republicação do [Decreto Regulamentar n.º 11/2015](https://diariodarepublica.
 
 ###### Artigo 1.º — Natureza
 
-**O Chefe do Estado-Maior do Exército (CEME) é o comandante do Exército e tem as competências estabelecidas na lei.**
+O Chefe do Estado-Maior do Exército (CEME) é o comandante do Exército e tem as competências estabelecidas na lei.
 
 #### SECÇÃO II — Gabinete do Chefe do Estado-Maior do Exército
 
@@ -10030,7 +10672,9 @@ k) Compilar e divulgar a legislação com interesse para o Exército.
 
 3 - O diretor do DEJUR é o assessor jurídico pessoal do CEME, sendo um consultor jurídico do mapa de pessoal civil do Exército, e é equiparado, para efeitos de estatuto remuneratório e avaliação do desempenho, a cargo de direção intermédia de 1.º grau.
 
-###### Artigo 7.º — Divisão de Comunicação do Exército
+###### Artigo 7.º
+
+##### Divisão de Comunicação do Exército
 
 1 - À DCE compete planear, assegurar e coordenar as atividades de informação pública, relações públicas e protocolo do Exército, de acordo com as orientações do CEME, em especial:
 
@@ -10996,7 +11640,9 @@ d) Assegurar que o sistema financeiro do Exército acompanha a evolução da leg
 
 e) Acompanhar as políticas e boas práticas desenvolvidas no âmbito da modernização administrativa do Estado e da Administração Pública, propondo a implementação no Exército das que se enquadram no âmbito da administração dos recursos financeiros.
 
-###### Artigo 37.º-C — Divisão de Gestão Orçamental e Financeira
+###### Artigo 37.º-C
+
+##### Divisão de Gestão Orçamental e Financeira
 
 1 - À DGOF compete assegurar a execução das operações necessárias à gestão dos recursos orçamentais colocados à disposição do Exército, bem como a implementação dos sistemas contabilísticos orçamentais, financeiros e de gestão no Exército;
 
@@ -11024,7 +11670,9 @@ j) Assegurar a disponibilização do orçamento aprovado às UEO do Exército e 
 
 k) Assegurar o pedido de libertação dos meios financeiros necessários para o cumprimento das obrigações do Exército para com terceiros.
 
-###### Artigo 37.º-D — Divisão de Auditoria e Controlo Interno
+###### Artigo 37.º-D
+
+##### Divisão de Auditoria e Controlo Interno
 
 1 - À DACI compete realizar ações de auditoria interna e controlo interno no âmbito da área de responsabilidade do DFIN.
 
@@ -13717,3 +14365,5 @@ g) O [Decreto Regulamentar n.º 56/94](https://diariodarepublica.pt/dr/detalhe/d
 ###### Artigo 73.º — Entrada em vigor
 
 O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+116430659

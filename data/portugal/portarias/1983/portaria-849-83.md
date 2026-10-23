@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-1983-455919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb96404e76ff499e37bc610d48578a7440f60184c01eb32ed2d923b81d6edb55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f760d78ef8f7333bf893835dfce497a4e50244ca5e0afac4d081f8be9509158
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Barcelos
+- Castelo Branco
+- Guarda
+- Ovar
+- Quadro de Pessoal
+- Santo Tirso
+- Secretaria Judicial
+- Seixal
+- Tribunal
+- VILA NOVA de Famalicão
+- VILA Verde
 relationships: []
 article_structure:
   article_count: 0
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:30Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Tribunal de Barcelos
 
 Secretaria judicial:
 
-#### Secção central e 6 secções de processos:
+Secção central e 6 secções de processos:
 
 Pessoal:
 
@@ -125,7 +136,7 @@ Tribunal de Castelo Branco
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 
@@ -159,7 +170,7 @@ Tribunal da Guarda
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos:
+Secção central e 3 secções de processos:
 
 Pessoal:
 
@@ -193,7 +204,7 @@ Tribunal de Loulé
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos:
+Secção central e 3 secções de processos:
 
 Pessoal:
 
@@ -221,7 +232,7 @@ Tribunal de Ovar
 
 Secretaria judicial:
 
-#### Secção central e 6 secções de processos:
+Secção central e 6 secções de processos:
 
 Pessoal:
 
@@ -255,7 +266,7 @@ Tribunal de Santo Tirso
 
 Secretaria judicial:
 
-#### Secção central e 6 secções de processos:
+Secção central e 6 secções de processos:
 
 Pessoal:
 
@@ -291,7 +302,7 @@ Tribunal do Seixal
 
 Secretaria judicial:
 
-#### Secção central e 4 secções de processos:
+Secção central e 4 secções de processos:
 
 Pessoal:
 
@@ -321,7 +332,7 @@ Tribunal de Vila Nova de Famalicão
 
 Secretaria judicial:
 
-#### Secção central e 6 secções de processos:
+Secção central e 6 secções de processos:
 
 Pessoal:
 
@@ -357,7 +368,7 @@ Tribunal de Vila Verde
 
 Secretaria judicial:
 
-#### Secção central e 3 secções de processos:
+Secção central e 3 secções de processos:
 
 Pessoal:
 
@@ -385,6 +396,6 @@ Oficial-porteiro ... 1
 
 Ministério da Justiça.
 
-**Assinada em 5 de Agosto de 1983.**
+Assinada em 5 de Agosto de 1983.
 
-**O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.**
+O Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete.

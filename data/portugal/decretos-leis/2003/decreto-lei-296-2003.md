@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/296/2003/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-2003-438041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9b24276426b9c1a71224b0bd6ecc1aa8f27176e9c10f00b64284ba73c79d75b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7810b8fbf4672f5bfe68f952d062647616fecdde219519b92a288c03abd2b89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,9 +70,9 @@ subjects:
 - Aproximação das Legislações
 - Assistência Mútua
 - CE Países
+- Cobrança de Dívidas
 - Feoga
 - Medidas Preventivas
-- Cobrança de Dívidas
 - Responsabilidade Civil
 relationships:
 - type: amended_by
@@ -99,16 +99,21 @@ relationships:
   target: celex:32002L0094
   label: null
   source: http://data.europa.eu/eli/dir/2002/94/oj
+- type: repealed_by
+  target: pt:dre:190200:por
+  label: "Revogado pelo DEC LEI.263/2012.20.12.2012.MF, DR.IS [246] de 20.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-2012-190200
+  date: '2012-12-20'
 article_structure:
   article_count: 38
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:47Z'
   warnings: []
   errors: []
 ---
@@ -421,7 +426,9 @@ b) A declaração de que as condições previstas no artigo 22.º para o procedi
 
 6 - A taxa de câmbio a utilizar, caso as moedas dos Estados membros da autoridade requerente e requerida sejam diferentes, deverá ser a última cotação de venda registada no ou nos mercados cambiais mais representativos no Estado membro da autoridade requerente na data da assinatura do pedido.
 
-###### Artigo 25.º — Título executivo
+###### Artigo 25.º
+
+## Título executivo
 
 1 - O título executivo emitido por uma entidade competente de um outro Estado membro é equiparado a título nacional desde que preencha os requisitos essenciais exigidos para os títulos dos créditos nacionais similares.
 
@@ -529,30 +536,30 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 10 de Novembro de 2003.**
+Promulgado em 10 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Novembro de 2003.**
+Referendado em 12 de Novembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I — DIRECTIVA [76/308/CEE](https://data.europa.eu/eli/dir/1976/308/oj?locale=pt)
 
 (Artigo 4º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)
 
 ## ANEXO II — DIRECTIVA [76/308/CEE](https://data.europa.eu/eli/dir/1976/308/oj?locale=pt)
 
 (Artigo 5º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)
 
 ## ANEXO III — DIRECTIVA [76/308/CEE](https://data.europa.eu/eli/dir/1976/308/oj?locale=pt)
 
 (Artigo 6º a 13º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)](https://files.diariodarepublica.pt/1s/2003/11/270a00/79337941.pdf)

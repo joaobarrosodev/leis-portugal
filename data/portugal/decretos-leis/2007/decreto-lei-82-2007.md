@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/82/2007/03/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2007-520466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:02:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2e4bc67be549a4c9685cb475d1ed4f78516240b345411bff0b76467fb75a607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d32051aff38b4fc79ab3cc69ce9797881040d23684f7edb9ae3b75fd0d3326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Finanças e da Administração Pública
-- Pessoal Dirigente
 - Conselho Técnico Aduaneiro
 - Definição de Competências
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Diretor Geral
+- Ministério das Finanças e da Administração Pública
 - Orgânica
+- Pessoal Dirigente
 - Subdirector Geral
 relationships:
 - type: amended_by
   target: pt:dre:164404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145590:por
+  label: "Extinta a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (ex- Direcção-Geral das Alfândegas,\
+    \ prevista no Dec Lei 49-B/76, de 20-Jan, redenominada pelo Dec Lei 158/96, de 20-Jan), DEC LEI.117/2011.15.12.2011.MF,\
+    \ DR.IS [239] de 15.12.2011, que determina, nos termos dos art.s 30º e 31º, a fusão e integração das suas atribuições\
+    \ na Autoridade Tributária e Aduaneira.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-2011-145590
+  date: '2011-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
   label: null
@@ -94,16 +102,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/360/1999/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/360/1999/09/16/p/dre
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679824:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:638570:por
+  label: "Rectificado pela DECL-RECT.44/2007.23.05.2007.PCM, DR.IS [101] de 25.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/44-2007-638570
+  date: '2007-05-23'
+- type: repealed_by
+  target: pt:dre:145591:por
+  label: "Revogado, a partir de 01.01.2012, mantendo-se em vigor o disposto na al. a) do art. 12º, pelo DEC LEI.118/2011.15.12.2011.MF,\
+    \ DR.IS [239] de 15.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/118-2011-145591
+  date: '2011-12-15'
+- type: repealed_by
+  target: pt:dre:164404:por
+  label: "Revogado o Dec Lei 281/91 de 09-ago, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:02:27Z'
   warnings: []
   errors: []
 ---
@@ -310,16 +351,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António José de Castro Guerra - Rui Nobre Gonçalves.
 
-**Promulgado em 8 de Março de 2007.**
+Promulgado em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 9 de Março de 2007.**
+Referendado em 9 de Março de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06300/18631866.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06300/18631866.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18631866.pdf)

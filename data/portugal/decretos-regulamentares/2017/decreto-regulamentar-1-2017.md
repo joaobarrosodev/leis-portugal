@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2017/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2017-106522766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T06:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f2c52b4fb837835a32d2c1af56fa5e93f442190f76998f5f5501455a0ce4702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6af9c760cadf94aeabcd53474a384bfcc2729a16e3dee46c6b8564732a642744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,25 +69,31 @@ subjects:
 - Abono para Falhas
 - Carreira Diplomática
 - Cazaquistão
-- Profissão Diplomática
-- Sistema Retributivo
-- Remuneração Acessória
 - Guiné Equatorial
-- Pessoal Consular
+- Habitação
+- Ministério dos Negócios Estrangeiros
 - País Estrangeiro
 - Panamá
+- Pessoal Consular
 - Pessoal de Chefia
 - Pessoal Diplomático
-- Habitação
+- Profissão Diplomática
 - Remuneração
-- Ministério dos Negócios Estrangeiros
+- Remuneração Acessória
 - Serviços Periféricos
+- Sistema Retributivo
 - Subsídio de Refeição
 relationships:
 - type: amended_by
   target: pt:dre:114133925:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114133925:por
+  label: Alterado o anexo VII ao DR 3/2013, de 08-mai, na redação do presente diploma pelo(a) Decreto Regulamentar n.º 9/2017
+    - Diário da República n.º 211/2017, Série I de 2017-11-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-2017-114133925
+  date: '2017-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
   label: null
@@ -96,16 +102,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/3/2013/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/3/2013/05/08/p/dre
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260891:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:34:10Z'
   warnings: []
   errors: []
 ---
@@ -144,54 +158,54 @@ O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publica
 
 Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão.
 
-**Promulgado em 31 de janeiro de 2017.**
+Promulgado em 31 de janeiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de fevereiro de 2017.**
+Referendado em 14 de fevereiro de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo II ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO II — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo III ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO III — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo IV ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo V ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO V — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo VI ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO VI — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo VII ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
 
 ## ANEXO VII — (a que se refere o artigo 2.º)
 
 Tabela correspondente ao anexo VIII ao [Decreto Regulamentar n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2013-260891), de 8 de maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0108601088.pdf)

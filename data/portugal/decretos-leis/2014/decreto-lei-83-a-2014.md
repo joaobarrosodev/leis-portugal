@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 99/2014, 1º Suplemento, Série I de 2014-05-23
   number: '99'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2954-(2) a 2954-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83-a/2014/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-a-2014-25345121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1f66c5f7c6f3151f09f225c53c31bc8ac1b46a76ce90ba34ee1a931a251b7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 224e3d57309cdcc9f79db54a0614985bdd5a336ed3aa534f058f27b2e468107a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recurso
-- Bolsa de Emprego
 - Admissão de Pessoal
-- Tempo de Serviço
+- Avaliação do Pessoal
+- Bolsa de Emprego
 - Colocação de Professores
 - Concurso
+- Contratação de Pessoal
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Ensino Oficial
 - Ensino Português no Estrangeiro
-- Sistema Retributivo
-- Formador
-- Recrutamento de Pessoal
-- Contratação de Pessoal
-- Pessoal Técnico Especializado
 - Estabelecimento de Ensino
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
 - Estágio de Formação
+- Formador
+- Mobilidade de Pessoal
+- Pessoal Docente
+- Pessoal Técnico Especializado
 - Progressão na Carreira
-- Contrato de Trabalho
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Recurso
 - Regime Jurídico
 - Remuneração
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Educação Pré-escolar
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73788169:por
+  label: Alterados os arts. 32.º, 36.º, 37.º, 38.º e 39.º do Dec Lei 132/2012, de 27-jun, na redação do presente diploma pelo(a)
+    Decreto-Lei n.º 9/2016 - Diário da República n.º 46/2016, Série I de 2016-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2016-73788169
+  date: '2016-03-07'
+- type: amended_by
+  target: pt:dre:106607298:por
+  label: Alterados os arts. 1.º, 2.º, 4.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 16.º, 17.º, 18.º, 22.º, 23.º, 24.º, 26.º, 28.º,
+    29.º, 36.º, 37.º, 38.º, 39.º (os quatro últimos na redação do Dec Lei 9/2016 de 07-mar) e 42.º, aditados os arts. 42.º-A
+    e 50.º-A, e revogados os n.ºs 3 e 11 do art. 9.º, a al. c) do n.º 3 do art. 10.º (esta última revogação com efeitos a
+    01.01.2019), as als. c) e d) do n.º 1 do art. 11.º, o n.º 3 do art. 16.º, a al. c) do art. 23.º, o n.º 2 do art. 25.º,
+    os n.ºs 6 e 8 do art. 28.º, o n.º 3 do art. 30.º, o n.º 10 do art. 37.º, o n.º 6 do art. 38.º, a al. c) do n.º 1 do art.
+    41.º e os arts. 46.º, 47.º, 47.º-A, 47.º-B, 47.º-C, 47.º-D, 47.º-E, 47.º-F e 48.º, todos do Dec Lei 132/2012 de 27-jun,
+    na versão republicada pelo presente diploma, pelo(a) Decreto-Lei n.º 28/2017 - Diário da República n.º 53/2017, Série
+    I de 2017-03-15 que republica o Dec Lei 132/2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2017-106607298
+  date: '2017-03-15'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 10.º e 42.º (ambos com a redação dada pelo Dec Lei 28/2017 de 15-mar) do Dec lei 132/2012 de 27-jun,
+    na versão republicada pelo presente diploma, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
   label: null
@@ -139,16 +163,163 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/212/2009/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/212/2009/02/23/p/dre
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:55021024:por
+  label: Retificados o art. 2.º (na parte em que altera o n.º 4 do art. 10.º do Dec Lei 132/2012 de 27-jun) e a republicação
+    do citado diploma (na parte referente ao o n.º 4 do art. 10º) pelo(a) Declaração de Retificação n.º 36/2014 - Diário da
+    República n.º 139/2014, Série I de 2014-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/36-2014-55021024
+  date: '2014-07-22'
 article_structure:
-  article_count: 101
+  article_count: 74
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:00Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +378,9 @@ Os artigos 4.º a 11.º, 16.º, 18.º a 20.º, 22.º, 23.º, 26.º, 28.º, 31.º
 
 2 - O presente diploma é, ainda, aplicável nas Regiões Autónomas da Madeira e dos Açores para efeitos de concurso interno e 2.ª prioridade da mobilidade interna, considerando a regulamentação própria emanada dos respetivos órgãos do governo regional.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -225,7 +398,9 @@ Os artigos 4.º a 11.º, 16.º, 18.º a 20.º, 22.º, 23.º, 26.º, 28.º, 31.º
 
 8 - [Anterior n.º 7].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, a abertura dos concursos do pessoal docente obedece à seguinte periodicidade:
 
@@ -247,7 +422,9 @@ c) O prazo previsto na alínea anterior pode ser antecipado por despacho do memb
 
 7 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -277,7 +454,9 @@ c) [...].
 
 11 - [Anterior n.º 9].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os candidatos ao concurso interno podem ser opositores, em simultâneo, à transferência de um agrupamento de escolas ou escola não agrupada ou zona pedagógica no grupo de recrutamento em que se encontram vinculados e à transição de grupo de recrutamento.
 
@@ -285,7 +464,9 @@ c) [...].
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -319,7 +500,9 @@ b) Contratos de duração anual e contratos de duração temporária.
 
 11 - Para efeitos do disposto no presente decreto-lei, considera-se horário anual aquele que corresponde ao intervalo entre o último dia estabelecido pelo calendário escolar para o início das aulas e 31 de agosto do mesmo ano escolar.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]:
 
@@ -343,7 +526,9 @@ d) 3.ª prioridade - indivíduos qualificados profissionalmente para o grupo de 
 
 4 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]:
 
@@ -367,7 +552,9 @@ d) [...].
 
 4 - Para efeitos da graduação profissional dos docentes de carreira com formação especializada em educação especial ao abrigo da alínea a) do n.º 1 do artigo 56.º do ECD, é aplicado o disposto no n.º 1, relevando para o efeito, a classificação profissional da graduação obtida no curso de especialização, sendo considerado o dia 1 de setembro do ano civil em que o docente, nos termos da [Portaria n.º 212/2009](https://diariodarepublica.pt/dr/detalhe/portaria/212-2009-602028), de 23 de fevereiro, concluiu a formação especializada.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -375,7 +562,9 @@ d) [...].
 
 3 - Aos candidatos colocados nos concursos interno e de contratação é dada a faculdade de, dentro dos prazos indicados, poderem aceitar a colocação de modo presencial na sede do agrupamento ou na escola onde foram colocados e no caso do concurso externo, na sede do agrupamento ou escola onde se encontravam à data da candidatura.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 [...]:
 
@@ -385,13 +574,17 @@ b) [...];
 
 c) Impossibilidade de os docentes não integrados na carreira serem colocados em exercício de funções docentes nesse ano, através dos procedimentos concursais regulados no presente diploma.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, é fixada a dotação das vagas dos agrupamentos de escolas ou de escolas não agrupadas e dos quadros de zonas pedagógica.
 
 2 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -401,7 +594,9 @@ c) Impossibilidade de os docentes não integrados na carreira serem colocados em
 
 4 - Os candidatos aos concursos interno e externo podem indicar, de entre as suas preferências, os agrupamentos de escolas ou escolas não agrupadas em que pretendem ser colocados e os quadros de zona pedagógica, independentemente de naqueles existirem vagas a ocupar à data de abertura do concurso.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -415,7 +610,9 @@ c) Os docentes de carreira que pretendam mudar de grupo de recrutamento.
 
 3 - [Anterior n.º 2].
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 Para efeitos do concurso externo, são consideradas:
 
@@ -425,7 +622,9 @@ b) As vagas correspondentes às necessidades dos quadros de zona pedagógica;
 
 c) As vagas não preenchidas pelo concurso interno.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Para efeitos de necessidades temporárias dos agrupamentos de escolas ou escolas não agrupadas, os docentes são ordenados de acordo com a graduação profissional e na seguinte sequência:
 
@@ -439,7 +638,9 @@ d) [...];
 
 e) [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]:
 
@@ -463,7 +664,9 @@ c) [Revogada].
 
 8 - O disposto na presente secção não é aplicável às escolas portuguesas no estrangeiro.
 
-###### Artigo 31.º — Recurso hierárquico
+Artigo 31.º
+
+Recurso hierárquico
 
 1 - As listas definitivas de exclusão, de colocação dos candidatos e de candidatos não colocados são homologadas pelo diretor-geral da Administração Escolar, sendo as listas publicitadas na página na Internet da Direção-Geral da Administração Escolar, cabendo recurso hierárquico elaborado em formulário eletrónico sem efeito suspensivo, a apresentar no prazo de cinco dias úteis ao membro do Governo competente.
 
@@ -473,11 +676,15 @@ c) [Revogada].
 
 4 - [Revogado].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 O disposto na presente secção não é aplicável aos agrupamentos de escolas ou escolas não agrupadas com contrato de autonomia e escolas portuguesas no estrangeiro.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As necessidades temporárias não satisfeitas por docentes de carreira são preenchidas por recrutamento de indivíduos detentores de habilitação profissional para a docência, mediante celebração de contrato de trabalho a termo resolutivo, nos termos do número seguinte.
 
@@ -491,7 +698,9 @@ O disposto na presente secção não é aplicável aos agrupamentos de escolas o
 
 6 - [Revogado].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -507,7 +716,9 @@ O disposto na presente secção não é aplicável aos agrupamentos de escolas o
 
 7 - [...].
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Os candidatos indicados na alínea a) do n.º 1 do artigo 28.º e no n.º 1 do artigo 33.º integram a reserva de recrutamento, com vista à satisfação de necessidades transitórias, em horários temporários surgidos após a contratação inicial.
 
@@ -515,7 +726,9 @@ O disposto na presente secção não é aplicável aos agrupamentos de escolas o
 
 3 - [...].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -541,7 +754,9 @@ O disposto na presente secção não é aplicável aos agrupamentos de escolas o
 
 12 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
@@ -563,7 +778,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...].
 
@@ -615,7 +832,9 @@ c) Habilitações e formação complementar.
 
 19 - O não cumprimento dos prazos referidos nos números anteriores determina a anulação da colocação e a aplicação do disposto na alínea c) do artigo 18.º
 
-###### Artigo 40.º — Bolsa de contratação de escola
+Artigo 40.º
+
+Bolsa de contratação de escola
 
 1 - Os agrupamentos de escolas ou escolas não agrupadas com contrato de autonomia e a escolas portuguesas no estrangeiro constituem, através dos procedimentos da contratação de escola, uma bolsa de contratação.
 
@@ -639,7 +858,9 @@ c) Habilitações e formação complementar.
 
 11 - Para efeitos do disposto no n.º 2 do artigo 42.º, releva o contrato que resulta da colocação na primeira bolsa de contratação de escola, em horário completo e com termo a 31 de agosto.
 
-###### Artigo 42.º — Contrato a termo resolutivo
+Artigo 42.º
+
+Contrato a termo resolutivo
 
 1 - Os contratos a termo resolutivo têm como duração mínima 30 dias e máxima, um ano escolar.
 
@@ -677,7 +898,9 @@ d) Concordância expressa das partes.
 
 14 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela Direção-Geral da Administração Escolar estando disponibilizados na respetiva aplicação informática.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Os docentes contratados a termo resolutivo são remunerados pelo índice 167 da escala indiciária constante em anexo ao ECD, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
 
@@ -693,7 +916,9 @@ b) Frequência, com aproveitamento, de formação contínua no mínimo de 50 hor
 
 5 - Aos técnicos especiais é aplicada a tabela do anexo ao presente diploma, que dele faz parte integrante, sendo a retribuição mensal respetiva calculada na proporção do período normal de trabalho semanal.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano escolar.
 
@@ -741,15 +966,15 @@ Sem prejuízo do disposto no artigo anterior, o presente decreto-lei entra em vi
 
 Visto e aprovado em Conselho de Ministros de 24 de abril de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Alberto Nunes Ferreira Gomes.
 
-**Promulgado em 21 de maio de 2014.**
+Promulgado em 21 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de maio de 2014.**
+Referendado em 22 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -757,7 +982,7 @@ Visto e aprovado em Conselho de Ministros de 24 de abril de 2014. - Pedro Passos
 
 (a que se refere o n.º 5 do artigo 43.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf)»
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf)»
 
 ## ANEXO II — (a que se refere o artigo 7.º)
 
@@ -1725,4 +1950,4 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — (a que se refere o n.º 5 do artigo 43.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/05/09901/0000200022.pdf)

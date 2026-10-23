@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/260a00/77967809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/474/1999/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/474-1999-682984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:13:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07122c970576aff7a6da1b3ca7718aa7423c79d99348fbc5be30d299eef0ebbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370e0bdfac84b91658c2ea6bdb525baa51e7c2459b2d4ea505bdbf22f873fb80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:13:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Telefone
-- Multa
-- REDE Pública de Telecomunicações
-- Serviço Universal de Telecomunicações
+- Comunicações
 - Contra-ordenação
 - Contrato de Concessão
 - Contrato de Prestação de Serviços
 - Fiscalização
 - Instituto das Comunicações de Portugal
-- Serviço FIXO de Telefone
-- Preço
-- Serviço Público
-- Proteção do Consumidor
-- Comunicações
-- Regulamento
+- Multa
 - Posto Público
+- Preço
+- Proteção do Consumidor
+- REDE Pública de Telecomunicações
+- Regulamento
+- Serviço FIXO de Telefone
+- Serviço Público
+- Serviço Universal de Telecomunicações
+- Telefone
 relationships:
 - type: amended_by
   target: pt:dre:581061:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:516041:por
+  label: "Alterados os arts.4º, e 17º, pela LEI.95/2001.2001.08.20.AR, DR.IS-A [192]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/95-2001-516041
+  date: '2001-08-20'
+- type: amended_by
+  target: pt:dre:160349:por
+  label: "Alterado o art. 25º do Regulamento pelo DEC LEI.133/2002.2002.05.14.MES, DR.IS-A [111] \0] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2002-160349
+  date: '2002-05-14'
 - type: cites
   target: celex:31998L0010
   label: null
   source: http://data.europa.eu/eli/dir/1998/10/oj
+- type: repealed_by
+  target: pt:dre:581061:por
+  label: "Revogado a partir de 11/Fev/2004, com as alterações introduzidas pela Lei 95/2001 de 20-Ago, pela LEI.5/2004.10.02.2004.AR,\
+    \ DR.IS-A [34] de 10.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2004-581061
+  date: '2004-02-10'
 article_structure:
   article_count: 57
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:13:33Z'
   warnings: []
   errors: []
 ---
@@ -171,15 +187,15 @@ O presente diploma entra em vigor em 1 de Janeiro de 2000.
 
 Visto e aprovado em Conselho de Ministros de 9 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 19 de Outubro de 1999.**
+Promulgado em 19 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Outubro de 1999.**
+Referendado em 21 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Regulamento de Exploração do Serviço Fixo de Telefone
 

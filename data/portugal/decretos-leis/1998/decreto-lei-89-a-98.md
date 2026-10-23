@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 82/1998, 1º Suplemento, Série I-A de 1998-04-07
   number: '82'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(2) a 1540-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/082a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/89-a/1998/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-a-1998-456502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T02:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f52a1de2373b28e5fc4c675edd801cc4df24c4027141bdc8f0564d463c7e8040
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54b774f1852cc4c2b1485cfae061512a4824ae670d5d3bd5f797d409ff1d6e33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Crédito Bonificado
+- Educação Pré-escolar
+- Ensino Particular
+- Estabelecimento de Ensino
 - Financiamento
 - Garantia
-- Crédito Bonificado
-- Ensino Particular
 - JURO Bonificado
 - Juros
-- Estabelecimento de Ensino
 - Programa de Desenvolvimento e Expansão da Educação Pré-escolar
-- Educação Pré-escolar
 - Subsídio
 - TAXA de JURO
 relationships:
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+- type: cites
+  target: pt:dre:358959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:04:54Z'
   warnings: []
   errors: []
 ---
@@ -208,12 +224,12 @@ Compete à entidade mutuante fazer o controlo da aplicação dos fundos mutuados
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Manuel da Costa Monteiro Consiglieri Pedroso - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 6 de Abril de 1998.**
+Promulgado em 6 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 1998**
+Referendado em 6 de Abril de 1998
 
 Pelo Primeiro-Ministro, Jaime José Matos da Gama, Ministro dos Negócios Estrangeiros.

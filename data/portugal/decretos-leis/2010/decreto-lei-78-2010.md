@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/78/2010/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2010-334894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd53693cefd559f878a214b5bafd0a7a9af634320975cfc6e3475834036d3572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a63ea46a5df5bd45e1f8f7501f495ff545b4300a7b31d94ac66f933efa4c2343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,42 @@ reuse:
 subjects:
 - Controlo Sanitário
 - Exploração Pecuária
-- Prodep
 - Licenciamento
-- Tratamento de Resíduos
-- Política Agrícola Comum
 - Pecuária
+- Política Agrícola Comum
+- Prodep
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:496729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277655:por
+  label: "Alterados os arts. 66º e 67º do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma, pelo DEC LEI.45/2011.25.03.2011.MADRP,\
+    \ DR.IS [60] de 25.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2011-277655
+  date: '2011-03-25'
+- type: amended_by
+  target: pt:dre:146214:por
+  label: "Alterados os art.s 66º e 67º bem como o anexo IV do Dec Lei 214/2008, de 10-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.107/2011.16.11.2011.MAMAOT, DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2011-146214
+  date: '2011-11-16'
+- type: amended_by
+  target: pt:dre:260886:por
+  label: "Alterados os arts. 66º e 67º e o anexo IV do Dec Lei 214/2008, de 10-nov, na redação do presente diploma, pelo DEC\
+    \ LEI.59/2013.08.05.2013.MAMAOT, DR.IS [88] de 08.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/59-2013-260886
+  date: '2013-05-08'
+- type: amends
+  target: pt:numero:decreto-lei:316/2009
+  label: "Altera, a partir de 30.06.2010, os artigos 3.º, 66.º, 67.º (os dois últimos na redacção do Decreto-Lei n.º 316/2009,\
+    \ de 29 de Outubro), 73.º e 76.º, adita os artigos 68.º-A e 68.º-B, e altera os anexos II, III e IV (os dois últimos anexos\
+    \ na redacção do Decreto-Lei n.º 316/2009, de 29 de Outubro), todos do Decreto-Lei n.º 214/2008, de 10 de Novembro, DR.IS\
+    \ [218] \0\0"
+  source: null
+  date: '2008-11-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/214/2008/11/10/p/dre
   label: null
@@ -86,16 +112,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/316/2009/10/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/316/2009/10/29/p/dre
+- type: cites
+  target: pt:dre:439393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483397:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496729:por
+  label: "Revogado o Dec Lei n.º 214/2008, de 10-nov, na redação do presente diploma, pelo DEC LEI.81/2013.14.06.2013.MAMAOT,\
+    \ DR.IS [113] de 14.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-2013-496729
+  date: '2013-06-14'
 article_structure:
-  article_count: 8
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:52Z'
   warnings: []
   errors: []
 ---
@@ -208,7 +248,9 @@ jj) «Titular» a pessoa singular ou colectiva habilitada ao exercício de uma a
 
 ll) ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - As actividades pecuárias já licenciadas ou autorizadas ao abrigo da legislação anterior devem promover junto da entidade coordenadora, até 31 de Março de 2011, a actualização dos registos das explorações e solicitar a reclassificação das suas actividades pecuárias, com a actualização do cadastro de acordo com as disposições do presente decreto-lei e das respectivas portarias.
 
@@ -222,7 +264,9 @@ ll) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +276,9 @@ ll) ...
 
 4 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Os titulares de actividades pecuárias da classe 2, após os procedimentos previstos nos n.os 2 a 4 do artigo 67.º, devem, no prazo de 18 meses a contar do termo do prazo estabelecido no n.º 2 do mesmo artigo, promover a adaptação das suas instalações e estruturas complementares à actividade pecuária, de acordo com o estipulado no presente decreto-lei e nas normas regulamentares de cada actividade, assegurando, nomeadamente, o cumprimento das normas técnicas relativas à gestão e valorização dos efluentes pecuários.
 
@@ -244,7 +290,9 @@ ll) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 76.º — Processos em curso
+Artigo 76.º
+
+Processos em curso
 
 1 - Aos processos que se encontrem em curso aplicam-se as normas do presente diploma com as especificações previstas nos números seguintes.
 
@@ -262,7 +310,9 @@ Medidas administrativas
 
 O titular das actividades pecuárias previstas no n.º 1 do artigo 67.º que não apresente o respectivo pedido de regularização das mesmas no prazo previsto no n.º 2 daquele artigo perde o direito ao regime excepcional de regularização consagrado no presente decreto-lei, considerando-se, para todos os efeitos legais, como uma nova actividade pecuária, devendo para tal iniciar a correspondente tramitação.
 
-###### Artigo 68.º-B — Articulação com outros regimes
+Artigo 68.º-B
+
+Articulação com outros regimes
 
 O disposto nos artigos 66.º a 68.º, em relação ao período transitório, ao regime excepcional de regularização e ao título para o exercício da actividade pecuária, não prejudica o cumprimento da legislação ambiental em vigor, nomeadamente a necessidade de obtenção de quaisquer títulos, autorizações ou licenças, nos termos e nos prazos estabelecidos na referida legislação ambiental.»
 
@@ -272,15 +322,15 @@ Os anexos II, III e IV do [Decreto-Lei n.º 214/2008](https://diariodarepublica.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - Ana Maria Teodoro Jorge.
 
-**Promulgado em 14 de Junho de 2010.**
+Promulgado em 14 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 15 de Junho de 2010.**
+Referendado em 15 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -310,17 +360,27 @@ TABELA N.º 1
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf))](https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/12200/0227402278.pdf)
 
-## ANEXO III — [...]
+ANEXO III
 
-#### SECÇÃO I — [...]
+[...]
 
-#### SECÇÃO II — [...]
+SECÇÃO I
 
-#### SECÇÃO III — [...]
+[...]
 
-#### SECÇÃO IV — [...]
+SECÇÃO II
+
+[...]
+
+SECÇÃO III
+
+[...]
+
+SECÇÃO IV
+
+[...]
 
 A - Actividades pecuárias da classe 1
 
@@ -412,7 +472,9 @@ C) [...]
 
 8) ...
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1.º
 

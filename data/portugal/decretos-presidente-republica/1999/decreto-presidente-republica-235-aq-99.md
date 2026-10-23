@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 296/1999, 1º Suplemento, Série I-A de 1999-12-22
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 9210-(11) a 9210-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/296a01/00110011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/235-aq/1999/12/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/235-aq-1999-380680
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab025e170b7f4a576d73edf3715b784c59d9bb26e1fe50a47704f9f63aa37197
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4458cb6c54edba7f2a5c827d916670f7e92ee8539dba1fe7e6c7bdc94fa67f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:44Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +86,7 @@ validation:
 
 de 22 de Dezembro
 
-**O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:**
+O Presidente da República, ouvido o Governo, decreta, nos termos do artigo 134.º, alínea f), da Constituição, o seguinte:
 
 A pena residual de prisão aplicada a Maria Manuela Fernandes Afonso, de 37 anos de idade, no processo n.º 60/99 da 1.ª Secção da 5.ª Vara Criminal de Lisboa é reduzida, por indulto, em dois anos de prisão, por razões humanitárias.
 
@@ -96,12 +96,12 @@ a) Não se ter a indultada constituído em ausência ilegítima do estabelecimen
 
 b) Não se constituir a indultada em ausência ilegítima do estabelecimento prisional relativamente a medida de flexibilização da pena que esteja a gozar à data da publicação do indulto.
 
-**Assinado em 15 de Dezembro de 1999.**
+Assinado em 15 de Dezembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Dezembro de 1999.**
+Referendado em 22 de Dezembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

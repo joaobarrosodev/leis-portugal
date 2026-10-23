@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16200/0563005642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/300/2007/08/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2007-640899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e499ca2e51def119c7d9884204bb6778d7fbe70ed6fa6273de8a96e1f42dd10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 996ed54a476539f0b28b9f7e1214d79e6d071b0f903e52526d579e29680f9505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,28 @@ reuse:
 subjects:
 - Autorização Legislativa
 - Comissão de Gestão
-- Gestão Financeira
 - Controlo Financeiro
 - Direção Geral do Tesouro e Finanças
 - Direito de Concorrência
 - Empresa Pública
 - Estatuto
-- Setor Empresarial do Estado
+- Gestão Financeira
 - Gestor Público
 - Ministro das Finanças
 - Regime Jurídico
 - Setor Empresarial
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:500215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 17.º e aditado o art. 17.º-A ao Dec Lei 558/99 de 17-Dez, republicado pelo presente diploma, pela\
+    \ LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26-a/1996/03/27/p/dre
   label: null
@@ -104,16 +110,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/17/2007/04/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/17/2007/04/26/p/dre
+- type: cites
+  target: pt:dre:470775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500215:por
+  label: "Revogado a partir de 02.12.2013, o Dec Lei 558/99, de 17-dez, na redação do presente diploma, pelo DEC LEI.133/2013.03.10.2013.MF,\
+    \ DR.IS [191] de 03.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-2013-500215
+  date: '2013-10-03'
 article_structure:
-  article_count: 78
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 57
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:40Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +190,9 @@ Os artigos 4.º, 6.º, 10.º, 11.º, 12.º, 13.º, 15.º, 26.º, 29.º, 31.º, 3
 
 A actividade do sector empresarial do Estado deve orientar-se no sentido da obtenção de níveis adequados de satisfação das necessidades da colectividade, bem como desenvolver-se segundo parâmetros exigentes de qualidade, economia, eficiência e eficácia, contribuindo igualmente para o equilíbrio económico e financeiro do conjunto do sector público.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +200,9 @@ A actividade do sector empresarial do Estado deve orientar-se no sentido da obte
 
 3 - Os membros dos órgãos de administração das empresas participadas designados ou propostos pelo Estado, directamente ou através das sociedades a que se refere o n.º 3 do artigo 10.º, ficam sujeitos ao regime jurídico aplicável aos gestores públicos, nos termos do respectivo estatuto.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os direitos do Estado como accionista são exercidos através da Direcção-Geral do Tesouro e Finanças, sob a direcção do Ministro das Finanças, que pode delegar, em conformidade com as orientações previstas no artigo seguinte e mediante a prévia coordenação, por despacho conjunto, com os ministros responsáveis pelo sector.
 
@@ -168,7 +212,9 @@ A actividade do sector empresarial do Estado deve orientar-se no sentido da obte
 
 4 - As entidades responsáveis pelo exercício da função accionista, nos termos do presente artigo, devem estar representadas no órgão de administração das empresas públicas, através de um membro não executivo, ou, caso a estrutura de gestão da empresa não preveja a existência destes membros, no respectivo órgão de fiscalização, não se aplicando naquele caso o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de Março.
 
-###### Artigo 11.º — Orientações de gestão
+Artigo 11.º
+
+Orientações de gestão
 
 1 - Com vista à definição do exercício da gestão das empresas públicas, são emitidas orientações estratégicas destinadas à globalidade do sector empresarial do Estado, através de resolução do Conselho de Ministros.
 
@@ -188,7 +234,9 @@ b) Orientações específicas, definidas através de despacho conjunto do Minist
 
 7 - O disposto nos números anteriores não prejudica a especificação em cada diploma constitutivo de empresa pública dos demais poderes de tutela e superintendência que venham a ser estabelecidos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - As empresas públicas estão sujeitas a controlo financeiro, que compreende, designadamente, a análise da sustentabilidade e a avaliação da legalidade, economia, eficiência e eficácia da sua gestão.
 
@@ -196,7 +244,9 @@ b) Orientações específicas, definidas através de despacho conjunto do Minist
 
 3 - ...
 
-###### Artigo 13.º — Deveres especiais de informação e controlo
+Artigo 13.º
+
+Deveres especiais de informação e controlo
 
 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, devem as empresas públicas facultar ao Ministro das Finanças e ao ministro responsável pelo respectivo sector, directamente ou através das sociedades previstas no n.º 3 do artigo 10.º, os seguintes elementos, visando o seu acompanhamento e controlo:
 
@@ -218,11 +268,15 @@ f) [Anterior alínea e).]
 
 4 - As sociedades participadas pelas sociedades de capitais exclusivamente públicos a que se refere o n.º 3 do artigo 10.º remetem através destas as informações referidas no n.º 1 do presente artigo.
 
-###### Artigo 15.º — Gestores públicos
+Artigo 15.º
+
+Gestores públicos
 
 Os membros dos órgãos de administração das empresas públicas, independentemente da respectiva forma jurídica, ficam sujeitos ao estatuto do gestor público.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - As entidades públicas empresariais têm um capital, designado 'capital estatutário', detido pelo Estado e destinado a responder às respectivas necessidades permanentes.
 
@@ -230,7 +284,9 @@ Os membros dos órgãos de administração das empresas públicas, independentem
 
 3 - A remuneração do capital estatutário é efectuada de acordo com o regime previsto para a distribuição dos lucros do exercício nas sociedades anónimas.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -242,25 +298,33 @@ b) ...
 
 c) ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Os projectos do plano de actividades, do orçamento anual e dos planos de investimento anuais e plurianuais e respectivas fontes de financiamento são elaborados com respeito pelos pressupostos macroeconómicos, pelas orientações de gestão previstas no artigo 11.º e pelas directrizes definidas pelo Governo, bem como, quando for caso disso, por contratos de gestão ou por contratos-programa, e devem ser remetidos para aprovação, até 30 de Novembro do ano anterior, ao Ministro das Finanças e ao ministro responsável pelo respectivo sector de actividade.
 
 2 - Em casos especiais, pode o prazo previsto no número anterior ser antecipado através de despacho conjunto do Ministro das Finanças e do ministro responsável pelo sector de actividade.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - As entidades públicas empresariais devem elaborar, com referência a 31 de Dezembro do ano anterior, os documentos de prestação de contas, remetendo-os à Inspecção-Geral de Finanças e à Direcção-Geral do Tesouro e Finanças, no prazo em que nas sociedades anónimas se deve proceder à disponibilização daqueles documentos aos accionistas.
 
 2 - Os documentos referidos no número anterior são aprovados pelo Ministro das Finanças e pelo ministro responsável pelo sector de actividade de cada empresa.
 
-###### Artigo 35.º — Alteração dos estatutos
+Artigo 35.º
+
+Alteração dos estatutos
 
 1 - Quando os estatutos das empresas públicas sejam aprovados ou alterados por acto legislativo, devem os mesmos ser republicados em anexo ao referido acto legislativo.
 
 2 - A alteração de estatutos de empresas públicas sob forma societária pode ser efectuada nos termos da lei comercial, carecendo de autorização prévia mediante despacho conjunto do Ministro das Finanças e do ministro responsável pelo sector de actividade.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Os direitos de accionista do Estado ou de outras entidades públicas estaduais a que se refere o presente diploma, nas sociedades em que, mesmo conjuntamente, não detenham influência dominante, são exercidos, respectivamente, pela Direcção-Geral do Tesouro e Finanças ou pelos órgãos de gestão das entidades titulares.
 
@@ -272,7 +336,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 37.º — Constituição de sociedades e aquisição ou alienação de partes de capital
+Artigo 37.º
+
+Constituição de sociedades e aquisição ou alienação de partes de capital
 
 1 - Sem prejuízo do disposto em legislação especial, a participação do Estado ou de outras entidades públicas estaduais, bem como das empresas públicas, na constituição de sociedades e na aquisição ou alienação de partes de capital está sujeita a autorização do Ministro das Finanças e do ministro responsável pelo sector, excepto nas aquisições que decorram de dação em cumprimento, doação, renúncia ou abandono.
 
@@ -316,7 +382,9 @@ m) Os relatórios dos administradores não executivos sobre o desempenho dos adm
 
 n) Os relatórios de auditoria externa.
 
-###### Artigo 13.º-B — Obrigação de informação
+Artigo 13.º-B
+
+Obrigação de informação
 
 1 - Os órgãos de gestão das empresas públicas dão a conhecer anualmente, em aviso a publicar na 2.ª série do Diário da República, as seguintes informações, sem prejuízo de, por portaria do Ministro das Finanças, se determinar as condições da sua divulgação complementar:
 
@@ -338,13 +406,19 @@ h) Outros elementos que sejam fixados em resolução do Conselho de Ministros.
 
 2 - As condições de publicação do aviso referido no número anterior são objecto de despacho do membro do Governo responsável pela edição do Diário da República e do Ministro das Finanças.
 
-#### Secção IV — Estruturas de gestão
+Secção IV
 
-###### Artigo 18.º-A — Estruturas de gestão das empresas públicas
+Estruturas de gestão
+
+Artigo 18.º-A
+
+Estruturas de gestão das empresas públicas
 
 Sem prejuízo do disposto no Código das Sociedades Comerciais, pode ser determinada pelo Ministro das Finanças e pelo ministro do respectivo sector de actividade a adopção das estruturas de gestão constantes dos artigos seguintes, atendendo designadamente à dimensão das empresas públicas e à complexidade da respectiva gestão.
 
-###### Artigo 18.º-B — Titulares de órgãos de gestão executivos e não executivos
+Artigo 18.º-B
+
+Titulares de órgãos de gestão executivos e não executivos
 
 1 - Sem prejuízo do disposto no n.º 3, o conselho de administração compreende administradores executivos e não executivos, sendo estes em número superior ao daqueles.
 
@@ -352,19 +426,25 @@ Sem prejuízo do disposto no Código das Sociedades Comerciais, pode ser determi
 
 3 - O conselho de administração pode integrar exclusivamente administradores executivos, podendo ser, nesse caso, a sua actividade acompanhada por um conselho geral e de supervisão.
 
-###### Artigo 18.º-C — Comissão executiva
+Artigo 18.º-C
+
+Comissão executiva
 
 1 - Os administradores executivos constituem a comissão executiva.
 
 2 - Compete à comissão executiva assegurar a gestão quotidiana da empresa, bem como exercer as funções que o conselho de administração nela delegue.
 
-###### Artigo 18.º-D — Comissões especializadas
+Artigo 18.º-D
+
+Comissões especializadas
 
 1 - Os administradores não executivos designados para a comissão de auditoria nomeiam entre si o seu presidente.
 
 2 - Os administradores não executivos designam entre si uma comissão de avaliação.
 
-###### Artigo 18.º-E — Comissão de auditoria
+Artigo 18.º-E
+
+Comissão de auditoria
 
 1 - Compete à comissão de auditoria:
 
@@ -384,13 +464,17 @@ g) Comunicar ao conselho de administração e à assembleia geral os resultados 
 
 2 - Em caso de existência de um conselho geral e de supervisão, este nomeia, de entre os seus membros, uma comissão de auditoria destinada ao exercício das competências referidas no número anterior.
 
-###### Artigo 18.º-F — Comissão de avaliação
+Artigo 18.º-F
+
+Comissão de avaliação
 
 1 - Compete à comissão de avaliação apresentar anualmente um relatório circunstanciado de avaliação do grau e das condições de cumprimento, em cada exercício, das orientações de gestão definidas nos termos da lei.
 
 2 - Em caso de existência de um conselho geral e de supervisão, os respectivos membros designam entre si uma comissão de avaliação, à qual se aplica, com as devidas adaptações, o regime previsto no número anterior.
 
-###### Artigo 18.º-G — Regimentos
+Artigo 18.º-G
+
+Regimentos
 
 1 - O conselho de administração elabora e aprova um regimento, do qual constam, designadamente:
 
@@ -430,13 +514,13 @@ O presente decreto-lei entra em vigor no prazo de 30 dias a contar da respectiva
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
 
-**Promulgado em 27 de Julho de 2007.**
+Promulgado em 27 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Agosto de 2007.**
+Referendado em 2 de Agosto de 2007.
 
 Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.
 

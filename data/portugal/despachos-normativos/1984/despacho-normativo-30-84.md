@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/30-1984-660533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5a717f17511e99741fc1e1d9d1c7063f3ada53a629b5e28beb35bd6c748ed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 712ce5f2cb1043a9626e2ad35eb5d844fec1370aac87e016bad8dd35fdef1628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de DIA
+- Comparticipações da Segurança Social
+- IPSS
+- Jardim de Infância
+- Lares
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:325079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226778:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:325079:por
+  label: "Revogado pelo DN.20/85.13.02.1985.MTSS, DR.IS [79] de 04.04.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/20-1985-325079
+  date: '1985-02-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:29Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +128,7 @@ I
 
 São estabelecidos, para servirem de base durante o ano de 1984 ao cálculo das comparticipações da segurança social devidas em função de acordos de cooperação com as instituições particulares de solidariedade social que prossigam objectivos do âmbito da segurança social, celebrados ao abrigo dos Despachos Normativos n.os [387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775) e [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778), de 31 de Dezembro, os valores dos custos mensais médios por utente e por valência, constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf))](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf)
 
 2 - O valor do custo médio fixado para a valência do jardim-de-infância será reduzido em 25% nos casos em que não é fornecida alimentação às crianças.
 
@@ -121,7 +140,7 @@ II
 
 As percentagens máximas a utilizar para cálculo das comparticipações da segurança social com base nos custos médios definidos na norma anterior são, para cada uma das valências, as constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf))](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/03100/03830385.pdf)
 
 III
 

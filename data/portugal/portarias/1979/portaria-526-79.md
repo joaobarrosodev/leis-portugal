@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 226/1979, 1º Suplemento, Série I de 1979-09-29
   number: '226'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2546-(10) a 2546-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf
 entry_into_force_dates: []
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/526-1979-403330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31c657f1308dcf5068259a521b136fef914e19296c3790427d52a47126387140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fc485c140094945afb2cf387e372a71cf98dbf92f86e1e3ad61b708511de86a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bagagem
+- CP
+- Preço
+- Tarifa Geral de Transportes
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226652:por
+  label: "Alterados os arts. 7º, 8º, 10º, 12º, 13º, 14º, 18º, 19º, 20º, 22º, 29º, 32º, 33º, 42º, 50º, 51º, 52º, 56º, 58º,\
+    \ 63º, 80º, 86º, 91º, 98º, 100º, 104º, 108º, 111º e 112º da Tarifa Geral de Transportes - Parte I «Passageiros e Bagagens»,\
+    \ aprovada pela Port 403/75 de 30-Jun DG.IS [148]Supl, com a redacção dada pelo presente diploma, pela PORT.1116/80.31.12.1980.MFP,\
+    \ DR.IS [301-9º Supl] de 31.12.1980 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1116-1980-226652
+  date: '1980-12-31'
+- type: cites
+  target: pt:dre:219555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233959:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:246493:por
+  label: "Revogada a parte I \"Passageiros e Bagagens\" da Tarifa Geral de Transportes dos Caminhos-de-Ferro, aprovada pela\
+    \ Port 403/75 de 30-Jun, com a redacção dada no presente diploma, pelo DEC LEI.58/2008.26.03.2008.MOPTC, DR.IS [60] de\
+    \ 26.03.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2008-246493
+  date: '2008-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:41Z'
   warnings: []
   errors: []
 ---
@@ -357,12 +388,12 @@ Ministérios das Finanças, do Comércio e Turismo e dos Transportes e Comunica�
 
 Tabela de preços n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)
 
 Tabela de preços n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)
 
 Tabela de preços n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf))](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/22601/00100015.pdf)

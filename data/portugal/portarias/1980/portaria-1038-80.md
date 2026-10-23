@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1038-1980-459651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db930955a264e82b77a93f823a3ebd831cb28591a5557ce5e91a72a8050b64a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41eff67b28cc3a1273cfd0880b696c150c25276f66d987d75b96eeab0f1d6ee5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Contabilidade Pública
+- Direcção Geral das Alfândegas
+- Direcção Geral das Contribuições e Impostos
+- Núcleo de Informática
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:600089:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:279627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:39Z'
   warnings: []
   errors: []
 ---
@@ -113,16 +142,16 @@ Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 26
 
 ## ANEXO I — Mapa do pessoal do Núcleo de Informática da Direcção-Geral da Contabilidade Pública (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
 
 (nota a) A vigorar até à produção de efeitos do [Decreto Regulamentar n.º 53/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1980-461663), de 27 de Setembro.
 
 ## ANEXO II — Mapa do pessoal do Núcleo de Informática da Direcção-Geral das Contribuições e Impostos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
 
 ## ANEXO III — Mapa do pessoal do Núcleo de Informática da Direcção-Geral das Alfândegas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf))](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/28400/40974097.pdf)
 
 Pelo Ministro das Finanças e do Plano, José António da Silveira Godinho, Secretário de Estado Adjunto do Ministro das Finanças e do Plano. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.

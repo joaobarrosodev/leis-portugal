@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0425904260.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2017/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2017-107761915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T03:34:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dd38f3971b7834ec518417382f566129179b9e782fc2543bad03ebdec1b46ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f206759d05fdcf4f6d05fbf978daa891dc87caa020d0f46b35ad010f9308d742
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:34:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
-- Obras Particulares
-- Obras de Conservação e Restauro
-- Renovação Urbana
-- Sociedade de Reabilitação Urbana
-- Fiscalização
-- Obras Municipais
-- Obras Públicas
-- Regime Jurídico
-- Setor Empresarial
-- Sector Empresarial Local
-- Prédio Urbano
 - Empresa Municipal
+- Fiscalização
+- Obras de Conservação e Restauro
+- Obras Municipais
+- Obras Particulares
+- Obras Públicas
+- Prédio Urbano
+- Regime Jurídico
+- Renovação Urbana
+- Sector Empresarial Local
+- Setor Empresarial
+- Sociedade de Reabilitação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:122349220:por
@@ -107,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2012/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2012/08/31/p/dre
+- type: cites
+  target: pt:dre:174825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:34:30Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +193,9 @@ Os artigos 37.º e 79.º do [Decreto-Lei n.º 307/2009](https://diariodarepublic
 
 5 - [...].
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - As sociedades de reabilitação urbana criadas ao abrigo do [Decreto-Lei n.º 104/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2004-301786), de 7 de maio, prosseguem o seu objeto social até ao momento da sua extinção, que ocorre exclusivamente nos termos do artigo 38.º do presente decreto-lei, salvo se forem designadas como entidades gestoras em operações de reabilitação urbana, nos termos do presente decreto-lei.
 
@@ -195,12 +221,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de março de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Eduardo Arménio do Nascimento Cabrita - Luís Filipe Carrilho de Castro Mendes - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 7 de junho de 2017.**
+Promulgado em 7 de junho de 2017.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 8 de junho de 2017.**
+Referendado em 8 de junho de 2017.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1984, 5º Suplemento, Série I de 1984-12-31
   number: '301'
   series: I
-  supplement: 5º Suplemento
+  supplement: null
   pages: 3976-(209) a 3976-(212)
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/30105/02090212.pdf
 entry_into_force_dates: []
@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/181-1984-220546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T07:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a33923d4dde1ae4f508dd0e6a2e1fb1e420589a0cfdff0c1fbac5496750c3ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15a464ed25869ee1f7c33bd0d0e5aacb4081a2d58f3dbc0abef79fb5e620c754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração de Portos
+- Admissão de Pessoal
+- Direcção Geral de Portos
+- Juntas Portuárias
+relationships:
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395896:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:29:10Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Nestes termos:
 
 Determina-se, ao abrigo do disposto na alínea c) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), de 10 de Maio, mantido em vigor pelo n.º 1 do artigo 40.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/12/30105/02090212.pdf))](https://files.diariodarepublica.pt/1s/1984/12/30105/02090212.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/30105/02090212.pdf)
 
 1 - Considera-se descongelada a admissão para os quadros de pessoal dos organismos portuários a que se refere o artigo 1.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, da forma a seguir indicada.
 

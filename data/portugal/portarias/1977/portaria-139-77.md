@@ -48,36 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/139-1977-141052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b91798f3d56a8870eeb7839dee85a4c3c0c37a0c245b2e2c065fabee90193ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d99f6636d1a5add394b301cb4047f64456f59dcfe03f67bd16bbf3a7b73dc6f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Diploma
+- Direcção Geral de Estudos Náuticos
+- Direcção Geral do Pessoal do MAR
+- Embarcação de Pesca
+- Inscrição Marítima
+- Marinha Mercante
+- Radiocomunicações
+- Regulamento
+- Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca
+- Tráfego Marítimo
+relationships:
+- type: cites
+  target: pt:dre:335771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:253074:por
+  label: Rectificada pela DECL.DD8354.18.06.1977.PCM, DR.IS [139] de 18.06.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-253074
+  date: '1977-06-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:07Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +119,7 @@ Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha 
 
 O corpo do artigo 50.º, o corpo do § 1.º, a alínea b) do mesmo parágrafo, bem como os §§ 2.º e 4.º do mesmo artigo e o artigo 157.º-A do Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos de certificado de radiotelegrafista, respectivamente da classe A e da classe B, passados pela Direcção-Geral do Pessoal do Mar, desde que satisfaçam aos restantes requisitos da inscrição marítima.
+Art. 50.º As categorias de radiotelegrafista prático das classes A e B serão atribuídas a indivíduos de certificado de radiotelegrafista, respectivamente da classe A e da classe B, passados pela Direcção-Geral do Pessoal do Mar, desde que satisfaçam aos restantes requisitos da inscrição marítima.
 
 § 1.º O certificado de radiotelegrafista da classe A, sem prazo de validade, será considerado equivalente ao certificado limitado de radiotelegrafista de 2.ª classe, consignado no Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações, e será passado aos indivíduos que o requeiram e satisfaçam às seguintes condições:
 
@@ -114,6 +137,6 @@ b) Ser radiotelegrafista prático da classe B, com mais de quatro anos de embarq
 
 ...
 
-###### Art. 157.º-A. Os programas de exames para passagem dos certificados de radiotelegrafista prático previstos no artigo 50.º, §§ 1.º, 2.º e 4.º, serão estabelecidos pela Direcção-Geral dos Estudos Náuticos, devendo satisfazer as condições exigidas para a atribuição dos certificados equivalentes de radiotelegrafista pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
+Art. 157.º-A. Os programas de exames para passagem dos certificados de radiotelegrafista prático previstos no artigo 50.º, §§ 1.º, 2.º e 4.º, serão estabelecidos pela Direcção-Geral dos Estudos Náuticos, devendo satisfazer as condições exigidas para a atribuição dos certificados equivalentes de radiotelegrafista pelo Regulamento de Radiocomunicações anexo à Convenção Internacional de Telecomunicações.
 
 Secretaria de Estado da Marinha Mercante, 28 de Fevereiro de 1977. - O Secretário de Estado da Marinha Mercante, António José Borrani Crisóstomo Teixeira.

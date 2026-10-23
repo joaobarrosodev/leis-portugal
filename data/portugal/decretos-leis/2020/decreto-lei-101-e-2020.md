@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07
   number: '237'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7-(46) a 7-(65)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23701/0004600065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101-e/2020/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-e-2020-150570705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:39:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6f65d5319b0b0e208249704315e1d3612f9339841192f3f3c140ef356daf0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f63c43da59dbea40befcd85fc1f6f703055ca30f055d5f7863774b6a3a9fb99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:39:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Região Autónoma
 - Assistência Mútua
+- Autoridade Competente
+- Autoridade para as Condições do Trabalho
 - Autorização Legislativa
 - CE Países
+- Código do Trabalho
 - Construção Civil
 - Contra-ordenação
 - Contra-ordenação Laboral
 - Contrato de Prestação de Serviços
-- Transporte Rodoviário
+- Cooperação Europeia
 - Definição de Competências
-- Regime Laboral
 - Destacamento de Pessoal
-- Regulamentação de Atos Legislativos
-- Código do Trabalho
 - Empresa de Trabalho Temporário
 - Entidade Patronal
-- União Europeia
 - Fiscalização
 - Indústria da Construção
-- Publicitação
 - Legitimidade
 - Livre Circulação de Trabalhadores
 - Mercado Interno CE
 - Página na Internet
-- Cooperação Europeia
-- Sistema de Informação
 - Prestação de Serviços
+- Publicitação
 - Queixa
+- Região Autónoma
+- Regime Laboral
+- Regulamentação de Atos Legislativos
 - Remuneração
+- Sistema de Informação
 - Subsídio
 - Trabalhador
 - Trabalho Temporário
+- Transporte Rodoviário
 - Tribunal
-- Autoridade Competente
-- Autoridade para as Condições do Trabalho
+- União Europeia
 relationships:
 - type: cites
   target: celex:31996L0071
@@ -158,6 +158,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:107094724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145102350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31996L0071
   label: null
@@ -175,15 +215,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 44
+  article_count: 34
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:39:24Z'
   warnings: []
   errors: []
 ---
@@ -266,7 +306,9 @@ i) A retribuição, os subsídios e abonos inerentes ao destacamento, presumindo
 
 4 - Se a autoridade competente apurar que uma empresa, de forma abusiva ou fraudulenta, criou a impressão de que o enquadramento de um trabalhador é suscetível de ser considerado como destacamento, deve assegurar que esse trabalhador não pode, em caso algum, ficar sujeito a condições de trabalho menos favoráveis do que as aplicáveis aos trabalhadores destacados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As informações relativas às condições de trabalho a que o trabalhador destacado em território português tem direito, previstas no artigo 7.º do Código do Trabalho e nos artigos 3.º-A, 3.º-B e 3.º-C da presente lei, são divulgadas em sítio oficial na Internet a nível nacional, segundo formatos e normas que assegurem o acesso a pessoas com deficiência.
 
@@ -300,7 +342,9 @@ g) [...]
 
 5 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -314,7 +358,9 @@ g) [...]
 
 6 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -324,7 +370,9 @@ g) [...]
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -338,7 +386,9 @@ d) À cedência transnacional de trabalhadores e ao combate a atividades ilícit
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -368,7 +418,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Em caso de incumprimento das condições de trabalho previstas no artigo 7.º do Código do Trabalho e no artigo 3.º-A da presente lei, o trabalhador destacado em território português tem direito:
 
@@ -382,13 +434,17 @@ b) [...]
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Nas situações de destacamento abrangidas pelos artigos 6.º e 8.º do Código do Trabalho e para efeitos das condições de trabalho previstas no artigo 7.º do mesmo Código e no artigo 3.º-A da presente lei, o contratante a quem o serviço é prestado é solidariamente responsável nos termos do n.º 4 do artigo 551.º do referido Código, bem como por qualquer retribuição líquida em atraso correspondente à retribuição mínima legal, convencional ou garantida por contrato de trabalho, devida ao trabalhador destacado pelo prestador de serviços, enquanto subcontratante direto.
 
 2 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A ACT, enquanto autoridade requerida, não é obrigada a aceitar ou desencadear um pedido de cobrança ou a proceder à notificação de uma decisão se o pedido não contiver a informação referida nos n.os 1 a 3 do artigo 14.º, for incompleto ou manifestamente não corresponder à decisão a que se refere.
 
@@ -418,7 +474,9 @@ b) Subsídios, abonos ou reembolsos destinados a cobrir exclusivamente as despes
 
 3 - Constitui contraordenação grave a violação do disposto nos números anteriores.
 
-###### Artigo 3.º-B — Trabalho temporário
+Artigo 3.º-B
+
+Trabalho temporário
 
 1 - Sem prejuízo de regime mais favorável constante de lei ou contrato de trabalho e do estabelecido no artigo 7.º do Código do Trabalho e no artigo anterior, os trabalhadores destacados por empresas de trabalho temporário têm direito a todas as condições de trabalho aplicáveis aos trabalhadores temporários cedidos por empresas de trabalho temporário estabelecidas em Portugal.
 
@@ -430,7 +488,9 @@ b) Subsídios, abonos ou reembolsos destinados a cobrir exclusivamente as despes
 
 5 - Nos casos de cedência ilícita do trabalhador temporário, em incumprimento do número anterior, considera-se que este se encontra destacado, no território do Estado onde se encontra a executar o trabalho, pela empresa de trabalho temporário com a qual tem uma relação de trabalho.
 
-###### Artigo 3.º-C — Destacamento de longa duração
+Artigo 3.º-C
+
+Destacamento de longa duração
 
 1 - Quando a duração efetiva do destacamento seja superior a 12 meses, independentemente da lei aplicável à relação de trabalho, para além das condições referidas no n.º 1 do artigo 3.º-A, os trabalhadores destacados têm direito a todas as condições de trabalho previstas na lei e em instrumento de regulamentação coletiva de eficácia geral aplicável.
 
@@ -466,15 +526,15 @@ O presente decreto-lei entra em vigor no 1.º dia útil seguinte ao da sua publi
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2020. - António Luís Santos da Costa - Berta Ferreira Milheiro Nunes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 3 de dezembro de 2020.**
+Promulgado em 3 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 3 de dezembro de 2020.**
+Referendado em 3 de dezembro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -919,3 +979,5 @@ Sem prejuízo das competências legais próprias, as competências atribuídas p
 ###### Artigo 24.º — Entrada em vigor
 
 A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+113784876

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/21800/0780707808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/213/2008/11/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2008-439383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cac0a6a9f8f2194d6cc2b7fd847a7a082733835979d1df99202f71a963f60ba7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2e8ab6bb252fcf36eee473549595a4dc834044ac845d5c7b6587602bd09162b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Confederação de Empregadores
+- Benefícios Fiscais
 - Comissão Permanente de Concertação Social
-- Secretaria Geral
+- Confederação de Empregadores
+- Confederação Sindical
 - Interesse Público
 - Página na Internet
 - Pessoa Coletiva de Utilidade Pública
 - Presidência do Conselho de Ministros
-- Benefícios Fiscais
-- Confederação Sindical
+- Secretaria Geral
 - Utilidade Pública
 relationships:
 - type: amended_by
@@ -85,16 +85,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/391/2007/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/391/2007/12/13/p/dre
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165036155:por
+  label: Revogado a partir de 01.07.2021 pelo(a) Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2021-165036155
+  date: '2021-06-14'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:04:48Z'
   warnings: []
   errors: []
 ---
@@ -155,12 +172,12 @@ As entidades abrangidas pelo regime do presente decreto-lei são inscritas em ba
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Pedro Manuel Dias de Jesus Marques.
 
-**Promulgado em 23 de Outubro de 2008.**
+Promulgado em 23 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 28 de Outubro de 2008.**
+Referendado em 28 de Outubro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

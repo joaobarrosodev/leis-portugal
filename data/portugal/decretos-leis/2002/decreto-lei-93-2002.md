@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/93/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2002-303189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f1cf13d2675acb92eaa8597e1358a72ee3101821254ccfed2bf4fc90b525550
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8dd744265301588e44b9a5f5f4613559e3d9470b1a20c04a738c39922c380ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ subjects:
 - Acreditação
 - Aproximação das Legislações
 - Direcção Geral de Viação
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
 - Veículo
-- Equipamento de Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -92,15 +92,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2001/31/oj
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:45Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +137,9 @@ São alterados os artigos 1.º e 22.º e os anexos VI e VIII do Decreto-Lei n.º
 
 O presente diploma aplica-se às portas dos automóveis das categorias M(índice 1) e N, conforme definidas na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, adiante designado, abreviadamente, por Regulamento da Homologação CE.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +159,9 @@ O presente diploma aplica-se às portas dos automóveis das categorias M(índice
 
 9 - (Anterior n.º 8.)
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 1 - ...
 
@@ -173,7 +177,7 @@ O presente diploma aplica-se às portas dos automóveis das categorias M(índice
 
 7 - Sobreposição longitudinal (J) entre dois degraus seguidos do mesmo lanço, ou entre o degrau mais alto e o piso do habitáculo do condutor - 200 mm.
 
-## ANEXO VIII
+ANEXO VIII
 
 Distância mínima (P) entre a aresta superior do ou dos corrimãos, das pegas ou de dispositivos equivalentes e o piso do habitáculo do condutor.
 
@@ -191,12 +195,12 @@ b) Deixa de conceder a homologação CE e pode recusar conceder a homologação 
 
 Visto e aprovado em Conselho de Ministros de 7 de Março de 2002. - António Manuel de Oliveira Guterres - Luís Filipe Marques Amado - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Diogo Campos Barradas de Lacerda Machado - Luís Garcia Braga da Cruz.
 
-**Promulgado em 27 de Março de 2002.**
+Promulgado em 27 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Março de 2002.**
+Referendado em 28 de Março de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

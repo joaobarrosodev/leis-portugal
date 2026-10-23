@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14700/0003800042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/68/2021/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2021-168697991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e323cbe32a5f19e8ec06fca5f0d6a9de5a11cfae2211c878c05e19d36f00f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 280ac4fdc251e923d31a6a7c3528c51b676f4a8ea0abe27e9a509a9085665168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metropolitano de Lisboa
 - ÁREA Metropolitana
+- Autoridade Competente
 - Autoridade Metropolitana de Transportes
-- Transporte Terrestre
 - Compensação Financeira
 - Conselho de Ministros
 - Contrato de Concessão
@@ -78,19 +77,20 @@ subjects:
 - Estatuto
 - Expropriação
 - GAIA
+- Governo XXII
 - Loures
+- Metro do Porto
 - Metropolitano
-- Política de Transportes
+- Metropolitano de Lisboa
 - Odivelas
+- Política de Transportes
 - Serviço Público
 - Servidão Legal
-- Metro do Porto
 - Transporte
 - Transporte de Passageiros
 - Transporte Público
+- Transporte Terrestre
 - Transporte Urbano
-- Autoridade Competente
-- Governo XXII
 relationships:
 - type: amended_by
   target: pt:dre:1126675657:por
@@ -136,16 +136,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2016/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2016/12/19/p/dre
+- type: cites
+  target: pt:dre:105387216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:61725766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:16Z'
   warnings: []
   errors: []
 ---
@@ -194,7 +242,9 @@ As bases i, vi, vii, ix, x, xi-a, xiii, xv e xix da concessão do sistema de met
 
 3 - [...].
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - [...]:
 
@@ -238,7 +288,9 @@ d) [...];
 
 e) [...].
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 1 - [...].
 
@@ -256,17 +308,23 @@ e) [...].
 
 8 - [...].
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 A construção ou adaptação de infraestruturas compreende a aquisição, por via do direito privado, ou a expropriação, dos terrenos necessários à sua implantação e a constituição das necessárias servidões.
 
-###### Base X — [...]
+Base X
+
+[...]
 
 1 - [...].
 
 2 - O Estado e os municípios cuja área seja abrangida pelo sistema podem, na qualidade de acionistas da concessionária, transferir para esta bens dominiais e outros bens e direitos a título de entradas em espécie, nos termos regulados no acordo parassocial.
 
-###### Base XI-A — [...]
+Base XI-A
+
+[...]
 
 1 - Compete à concessionária constituir as servidões ou direitos de uso ou de passagem necessários à instalação das catenárias do sistema, bastando para esse efeito a notificação escrita por parte da concessionária ao dono ou titular do prédio serviente ou afetado.
 
@@ -282,7 +340,9 @@ A construção ou adaptação de infraestruturas compreende a aquisição, por v
 
 7 - Se, apesar de realizadas as diligências referidas no número anterior, não for possível à concessionária identificar os donos ou titulares dos prédios a afetar pela imposição de servidões ou direitos, designadamente pela falta de resposta dentro do prazo fixado, é suficiente, para notificação dos donos ou titulares desconhecidos, a publicação, pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., na 2.ª série do Diário da República, das plantas do traçado do sistema em escala adequada e que permita a clara identificação dos prédios servientes ou afetados.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - [...].
 
@@ -298,7 +358,9 @@ A construção ou adaptação de infraestruturas compreende a aquisição, por v
 
 7 - [...].
 
-###### Base XV — [...]
+Base XV
+
+[...]
 
 1 - [...].
 
@@ -308,7 +370,9 @@ A construção ou adaptação de infraestruturas compreende a aquisição, por v
 
 4 - [...].
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - A concessionária deve manter como seu objeto social principal a exploração do sistema e a sua sede social em local sito na área metropolitana do Porto.
 
@@ -330,7 +394,9 @@ Os artigos 1.º e 2.º do [Decreto-Lei n.º 175/2014](https://diariodarepublica.
 
 2 - O ML, E. P. E., pode explorar novas modalidades de transporte público de passageiros, desde que as suas características próprias o justifiquem, quer pela identidade tecnológica, quer por contribuírem para a otimização e a racionalização do sistema de transportes.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -368,12 +434,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de julho de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - João Saldanha de Azevedo Galamba - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 22 de julho de 2021.**
+Promulgado em 22 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 23 de julho de 2021.**
+Referendado em 23 de julho de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+114443445

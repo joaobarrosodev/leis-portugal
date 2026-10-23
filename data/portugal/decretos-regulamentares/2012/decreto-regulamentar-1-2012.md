@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/1/2012/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2012-477078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b68cec524c3e26b8b384ea25c81d79f8dafa4cad62fe5acd26398b80903249cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3a4a337890a5e754121779d042514458b29aca3d754567ac3bbc93d25aca9c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Autonomia Financeira
-- Pessoal Dirigente
-- Gestão Financeira
-- Definição de Competências
+- Comissão para a Cidadania e a Igualdade de Género
 - Conselho Consultivo
+- Definição de Competências
+- Gestão Financeira
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Quadro de Pessoal
 - Receita Própria
-- Comissão para a Cidadania e a Igualdade de Género
 relationships:
 - type: amended_by
   target: pt:dre:926483751:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que o Ministro Adjunto exerce as competências legalmente previstas sobre a Comissão para a Cidadania
+    e a Igualdade de Género pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I
+    de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:114177785:por
+  label: Determinado que a direção sobre a Comissão para a Cidadania e a Igualdade de Género seja exercida pela Ministra da
+    Presidência e da Modernização Administrativa, pelo(a) Decreto-Lei n.º 138/2017 - Diário da República n.º 217/2017, Série
+    I de 2017-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2017-114177785
+  date: '2017-11-10'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a direção sobre a Comissão para a Cidadania e a Igualdade de Género, com
+    orgânica aprovada pelo presente diploma, seja exercida pela Ministra de Estado e da Presidência, pelo(a) Decreto-Lei n.º
+    169-B/2019 - Diário da República n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a Presidência do Conselho de Ministros compreende a Comissão para a Cidadania
+    e a Igualdade de Género com orgânica aprovada pelo presente diploma pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pela Ministra da Juventude e Modernização a direção
+    sobre a Comissão para a Cidadania e a Igualdade de Género pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024,
+    Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pela Ministra da Cultura, Juventude e Desporto a
+    direção sobre a Comissão para a Cidadania e a Igualdade de Género pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República
+    n.º 142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
   label: null
@@ -92,16 +134,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:521260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:51Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +288,9 @@ e) O grupo técnico-científico.
 
 7 - Podem tomar parte nas reuniões do conselho consultivo, sem direito a voto, individualidades, bem como dirigentes ou técnicos da CIG, quando convidados pelo presidente.
 
-###### Artigo 7.º — Secção interministerial
+###### Artigo 7.º
+
+#### Secção interministerial
 
 1 - A secção interministerial do conselho consultivo é integrada por representantes de departamentos governamentais das áreas da Administração Pública consideradas de interesse para os objectivos da CIG, nomeadamente pela incidência que as respectivas políticas possam ter sobre a promoção da cidadania e da igualdade de género.
 
@@ -254,7 +310,9 @@ c) Pronunciar-se sobre o programa anual de actividades da CIG, bem como sobre os
 
 d) Acompanhar e avaliar a execução das medidas de política numa abordagem integrada e transversal da perspectiva de género.
 
-###### Artigo 8.º — Secção das organizações não governamentais
+###### Artigo 8.º
+
+#### Secção das organizações não governamentais
 
 1 - A secção de organizações não governamentais do conselho consultivo é composta por representantes de organizações da sociedade civil não governamentais, como tal reconhecidas nos termos da lei, cujo objecto estatutário se destine essencialmente à promoção dos valores da cidadania, da defesa dos direitos humanos, dos direitos das mulheres e da igualdade de género, e cujos objectivos se coadunem com os da CIG.
 
@@ -342,18 +400,18 @@ O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao d
 
 Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas.
 
-**Promulgado em 3 de Janeiro de 2012.**
+Promulgado em 3 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 5 de Janeiro de 2012.**
+Referendado em 5 de Janeiro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (mapa a que se refere o artigo 13.º)
 
 Mapa de pessoal dirigente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/00500/0004300046.pdf))](https://files.diariodarepublica.pt/1s/2012/01/00500/0004300046.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/00500/0004300046.pdf)

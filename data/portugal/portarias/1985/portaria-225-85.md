@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09200/10821083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-1985-324307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T08:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 923af3755b07bfa7db577e78b1be6f6171c0a4065add041a101c52fd9e864b87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce49e91c57f010b027709dab248803728c12589ac360af1c844b311c08725aa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:21:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aparelho de Medição
+- Fiscalização
+- Metrologia
+- Normalização
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:441324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124831330:por
+  label: Revogada, pelo(a) Portaria n.º 320/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-2019-124831330
+  date: '2019-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:21:21Z'
   warnings: []
   errors: []
 ---
@@ -192,10 +210,10 @@ Disposições finais
 
 Ministério da Indústria e Energia.
 
-**Assinada em 8 de Abril de 1983.**
+Assinada em 8 de Abril de 1983.
 
 Pelo Ministro da Indústria e Energia, João Nuno Boulain de Carvalho Carreira, Secretário de Estado da Indústria.
 
 FICHA DE CÉLULA DE CARGA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09200/10821083.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09200/10821083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09200/10821083.pdf)

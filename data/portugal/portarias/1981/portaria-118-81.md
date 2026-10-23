@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-1981-389847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fc74edcdc1771074221aefb029aecc76a3030ec10eb6e9568b9f2d8286dd644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67839b0e699c11b0c6a5c81fe161c0d8fa795b05b15bbdb830f71d3c14f3f935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aveiro
+- Centro de Saúde
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:662337:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318334:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma pela\
+    \ PORT.1331/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1331-1982-318334
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:451615:por
+  label: "Alterado, na parte referente ao pessoal de enfermagem, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.570/83.14.05.1983.MFP, DR.IS [111] de 14.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-1983-451615
+  date: '1983-05-14'
+- type: amended_by
+  target: pt:dre:435583:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.807-V2/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-v2-1983-435583
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:396503:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar sanitário, o quadro de pessoal aprovado pelo presente diploma,\
+    \ pela PORT.964/84.26.12.1984.MS, DR.IS [297] de 26.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/964-1984-396503
+  date: '1984-12-26'
+- type: amended_by
+  target: pt:dre:180449:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.597/85.14.08.1985.PCM, DR.IS [186] de 14.08.1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-1985-180449
+  date: '1985-08-14'
+- type: amended_by
+  target: pt:dre:662337:por
+  label: "Acrescentado um lugar ao quadro de pessoal, pela PORT.217/87.1987.03.24.ME DR.IS [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-1987-662337
+  date: '1987-03-24'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:06Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +156,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Aveiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02100/02090210.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02100/02090210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02100/02090210.pdf)
 
 Notas
 

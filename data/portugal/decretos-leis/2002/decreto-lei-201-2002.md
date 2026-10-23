@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/201/2002/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2002-646111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc9671951c68269f329b1e8533a64bff5107ef68ea6c8c732509590a4572f0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6786be5886f6ac09015d3141446affc6b07257136f2b90bf44d493bdfc25be42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,35 @@ reuse:
 subjects:
 - Agência de Câmbio
 - Aproximação das Legislações
-- Instituição de Crédito
+- Atividade Bancária
+- Banca
+- Banco de Portugal
 - Caixa Central de Crédito Àgrícola Mútuo
 - Caixa de Crédito Agrícola Mútuo
 - Caixa Económica
 - Capital Social
+- CMVM
+- Comissão CE
+- Companhia de Seguros
 - Comunidade Europeia
+- Crédito
 - Definição de Competências
 - Finangeste
 - Fiscalização
 - Fundo de Garantia de Depósitos
-- Banco de Portugal
-- Sociedade Gestora de Fundos de Titularização de Créditos
-- Comissão CE
 - Ilícito de MERA Ordenação Social
-- Banca
-- Atividade Bancária
+- Instituição de Crédito
+- Instituição Financeira
 - Instituição Financeira de Crédito
-- Crédito
 - Órgãos Sociais
 - Participação Qualificada
-- Sanção Penal
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
 - Regime Jurídico
 - Registo Obrigatório
+- Sanção Penal
 - Segredo Profissional
-- Companhia de Seguros
 - SGPS
 - Sigilo Bancário
-- CMVM
-- Instituição Financeira
 - Sociedade Corretora
 - Sociedade de Capital de Risco
 - Sociedade de Desenvolvimento Regional
@@ -109,6 +108,7 @@ subjects:
 - Sociedade Financeira para Aquisição a Crédito
 - Sociedade Gestora de Cartões de Crédito
 - Sociedade Gestora de Fundos de Investimento
+- Sociedade Gestora de Fundos de Titularização de Créditos
 - Sociedade Gestora de Patrimónios
 - Sociedade Mediadora
 - Sucursal
@@ -117,6 +117,147 @@ relationships:
   target: pt:dre:66581992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391198:por
+  label: "Alterado o n.º 3 do artigo 101.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, na redacção do presente diploma, pelo DEC LEI.319/2002.28.12.2002.MECO,\
+    \ DR.IS-A [300] de 28.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-2002-391198
+  date: '2002-12-28'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art 69º do regime jurídico do crédito agrícola mútuo e das cooperativas de crédito agrícola, aprovado\
+    \ pelo Dec Lei 24/91 de 11-Jan, na redacção do presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl]\
+    \ de 29.03.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:539387:por
+  label: "Alterados os arts. 16º, 18º, 30º, 58º, 100º, 103º e 117º do Regime Geral das Instituições de Crédito e Sociedades\
+    \ Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, com as alterações constantes do presente diploma, pelo DEC LEI.145/2006.31.07.2006.MFAP,\
+    \ DR.IS [146] de 31.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2006-539387
+  date: '2006-07-31'
+- type: amended_by
+  target: pt:dre:520193:por
+  label: "Alterado o art. 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec Lei 298/92\
+    \ de 31-Dez, com a redacção conferida no presente diploma, pelo DEC LEI.104/2007.03.04.2007.MFAP, DR.IS [66] de 03.04.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/104-2007-520193
+  date: '2007-04-03'
+- type: amended_by
+  target: pt:dre:241222:por
+  label: "Alterados os arts. 3º, 4º, 8º, 16º, 29º-A, 69º, 103º, 105º, 120º, 197º, 199º-C, 199º-F, 199º-G do Regime Jurídico\
+    \ das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-Dez, com a redacção do presente\
+    \ diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
+- type: amended_by
+  target: pt:dre:386799:por
+  label: "Alterados os art.s 116º e 120º e revogado o art. 89º do Regime Geral das Instituições de Crédito e Sociedades Financeiras\
+    \ aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.1/2008.03.01.2008.MFAP, DR.IS\
+    \ [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/1-2008-386799
+  date: '2008-01-03'
+- type: amended_by
+  target: pt:dre:456783:por
+  label: "Alterados os arts. 30º, 31º, 33º, 69º, 85º e 158º do Dec Lei 298/92 de 31-Dez, na redacção do presente diploma,\
+    \ pelo DEC LEI.126/2008.21.07.2008.MFAP, DR.IS [139] de 21.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2008-456783
+  date: '2008-07-21'
+- type: amended_by
+  target: pt:dre:626446:por
+  label: "Alterado o art. 120.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei\
+    \ 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.211-A/2008.03.11.2008.MFAP, DR.IS [213-Supl] de 03.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-a-2008-626446
+  date: '2008-11-03'
+- type: amended_by
+  target: pt:dre:494547:por
+  label: "Alterado o art. 69º do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola Mútuo, aprovado\
+    \ pelo Dec Lei 24/91, de 11-Jan, na redacção do presente diploma, pelo DEC LEI.142/2009.16.06.2009.MFAP, DR.IS [114] de\
+    \ 16.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2009-494547
+  date: '2009-06-16'
+- type: amended_by
+  target: pt:dre:492383:por
+  label: "Alterados os art.s 101º, 155º e 167º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo DEC LEI.162/2009.20.07.2009.MFAP, DR.IS [138]\
+    \ de 20.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2009-492383
+  date: '2009-07-20'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: "Alterados, a partir de 01.11.2009, os arts. 4.º, 6.º, 8.º, 117.º-A (este último aditado pelo presente diploma) do\
+    \ Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção\
+    \ do presente diploma, pelo DEC LEI.317/2009.30.10.2009.MFAP, DR.IS [211] de 30.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:332702:por
+  label: "Alterados os arts. 13.º, 20.º, 102.º, 103.º, 104.º, 105.º, 107.º, 176.º e 196.º do Regime Geral das Instituições\
+    \ de Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92, de 31-Dez, na redacção do presente diploma, pelo\
+    \ DEC LEI.52/2010.26.05.2010.MFAP, DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:617129:por
+  label: "Alterado o art. 13º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Dec -Lei\
+    \ n.º 298/92, de 13-Dez, na redacção do presente diploma, pelo DEC LEI.140-A/2010.30.12.2010.MFAP, DR.IS [252-2ºSupl]\
+    \ de 30.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-a-2010-617129
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:314946:por
+  label: "Dada nova redação aos arts. 92º, 116º, 142º, 155º, 158º, 159º, 167º-A, e 197º do Regime Geral das Instituições de\
+    \ Crédito e Sociedades Financeiras, aprovado pelo Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo DEC LEI.31-A/2012.10.02.2012.MF,\
+    \ DR.IS [30-Supl] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-a-2012-314946
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: "Alterados os art.s 2º, 3º, 4º, 8º, 13º e 117º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras,\
+    \ aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.242/2012.07.11.2012.MF, DR.IS\
+    \ [215] de 07.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:258114:por
+  label: "Alterados os arts. 16º, 22º e 23º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado\
+    \ pelo Dec Lei n.º 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.18/2013.06.02.2013.MF, DR.IS [26] de\
+    \ 06.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-2013-258114
+  date: '2013-02-06'
+- type: amended_by
+  target: pt:dre:475919:por
+  label: "Alterado a partir de 07.09.2013 o art. 6º do Regime Geral das Instituições de Crédito e Sociedades Financeiras (RGICSF)\
+    \ aprovado pelo Dec Lei 298/92, de 31-dez, na redação do presente diploma, pelo DEC LEI.63-A/2013.10.05.2013.MF, DR.IS\
+    \ [90-Supl] de 10.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-a-2013-475919
+  date: '2013-05-10'
+- type: amended_by
+  target: pt:dre:55068738:por
+  label: Dada nova redação ao art. 155.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo
+    Dec Lei 298/92 de 31-dez, alterado pelo presente diploma, pelo(a) Decreto-Lei n.º 114-A/2014 - Diário da República n.º
+    147/2014, 1º Suplemento, Série I de 2014-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/114-a-2014-55068738
+  date: '2014-08-01'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Alterados, a partir de 23.11.2014, sem prejuízo do disposto nos n.ºs 2 a 7 do art. 26.º, os arts 3.º, 6.º, 8.º, 16.º,
+    18.º, 20.º,21.º,22.º, 23.º, 30.º, 31.º,33.º, 39.º, 43.º, 52.º, 57.º, 58.º, 60.º, 69.º, 80.º, 103.º, 104.º, 116.º, 117.º,
+    120.º, 130.º, 132.º, 196.º,199.º-C, do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo
+    Dec Lei 298/92 de 31-dez, e republicado em anexo, na redação do presente diploma, pelo(a) Decreto-Lei n.º 157/2014 - Diário
+    da República n.º 206/2014, Série I de 2014-10-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterado o art. 20.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Dec. Lei
+    298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República n.º 38/2015, Série I de
+    2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
 - type: cites
   target: celex:31977L0780
   label: null
@@ -150,15 +291,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
 article_structure:
-  article_count: 325
+  article_count: 263
   section_count: 50
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:52Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +356,9 @@ Os artigos 2.º, 3.º, 4.º, 6.º, 8.º, 10.º, 12.º, 13.º, 16.º, 18.º, 20.�
 
 2 - São também instituições de crédito as empresas que tenham por objecto a emissão de meios de pagamento sob a forma de moeda electrónica.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 São instituições de crédito:
 
@@ -241,7 +384,9 @@ j) As instituições de moeda electrónica;
 
 l) Outras empresas que, correspondendo à definição do artigo anterior, como tal sejam qualificadas pela lei.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Os bancos podem efectuar as operações seguintes:
 
@@ -283,7 +428,9 @@ s) Outras operações análogas e que a lei lhes não proíba.
 
 2 - As restantes instituições de crédito só podem efectuar as operações permitidas pelas normas legais e regulamentares que regem a sua actividade.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - São sociedades financeiras:
 
@@ -315,7 +462,9 @@ l) Outras empresas que sejam como tal qualificadas pela lei.
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Só as instituições de crédito, com excepção das instituições de moeda electrónica, podem exercer a actividade de recepção, do público, de depósitos ou outros fundos reembolsáveis, para utilização por conta própria.
 
@@ -331,13 +480,17 @@ c) ...
 
 d) Empresas de seguros, no respeitante a operações de capitalização.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
 2 - As instituições de crédito e as instituições financeiras autorizadas noutros Estados membros da Comunidade Europeia podem prestar em Portugal, nos termos do presente diploma, serviços que se integrem nas mencionadas actividades e que os prestadores estejam autorizados a efectuar no seu país de origem.
 
-###### Artigo 12.º — Decisões do Banco de Portugal
+Artigo 12.º
+
+Decisões do Banco de Portugal
 
 1 - Os recursos interpostos das decisões do Banco de Portugal, tomadas no âmbito do presente diploma, seguem, em tudo o que nele não seja especialmente regulado, os termos constantes da respectiva lei orgânica.
 
@@ -345,7 +498,9 @@ d) Empresas de seguros, no respeitante a operações de capitalização.
 
 3 - Pelas decisões a que se refere o presente artigo, de que resultem danos para terceiros, a responsabilidade civil pessoal dos seus autores apenas pode ser efectivada mediante acção de regresso do Banco, salvo se a respectiva conduta constituir crime.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Para efeitos deste diploma, entende-se por:
 
@@ -403,7 +558,9 @@ a2) De uma relação de domínio; ou
 
 b) Ligadas a uma terceira pessoa através de uma relação de domínio.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 2, a constituição de instituições de crédito depende de autorização a conceder, caso a caso, pelo Banco de Portugal.
 
@@ -417,13 +574,17 @@ b) Ligadas a uma terceira pessoa através de uma relação de domínio.
 
 6 - Quando a Comissão ou o Conselho da União Europeia assim o decidam, nos termos previstos na Directiva n.º [2000/12/CE](https://data.europa.eu/eli/dir/2000/12/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de Março de 2000, serão limitadas as autorizações ou suspensas as apreciações dos pedidos de autorização já apresentados na data da decisão ou posteriormente a essa data.
 
-###### Artigo 18.º — Filiais de instituições autorizadas no estrangeiro
+Artigo 18.º
+
+Filiais de instituições autorizadas no estrangeiro
 
 1 - A autorização para constituir uma instituição de crédito que seja filial de instituição de crédito autorizada em país estrangeiro, ou que seja filial da empresa-mãe de instituição nestas condições, depende de consulta prévia à autoridade de supervisão do país em causa.
 
 2 - O disposto no número anterior é igualmente aplicável quando a instituição a constituir for dominada pelas mesmas pessoas singulares ou colectivas que dominem uma instituição de crédito autorizada noutro país.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A autorização será recusada sempre que:
 
@@ -443,7 +604,9 @@ g) ...
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A autorização caduca se os requerentes a ela expressamente renunciarem ou se a instituição não iniciar a sua actividade no prazo de 12 meses.
 
@@ -451,7 +614,9 @@ g) ...
 
 3 - A autorização caduca ainda se a instituição for dissolvida, sem prejuízo da prática dos actos necessários à respectiva liquidação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -459,7 +624,9 @@ g) ...
 
 3 - A revogação da autorização implica dissolução e liquidação da instituição de crédito, salvo se, no caso indicado na alínea d) do n.º 1, o Banco de Portugal o dispensar.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -469,7 +636,9 @@ g) ...
 
 4 - (Revogado.)
 
-###### Artigo 29.º-A — [...]
+Artigo 29.º-A
+
+[...]
 
 1 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação de valores mobiliários, o Banco de Portugal, antes de decidir sobre o pedido de autorização, solicitará informações à Comissão do Mercado de Valores Mobiliários sobre a idoneidade dos accionistas.
 
@@ -477,7 +646,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Dos órgãos de administração e fiscalização de uma instituição de crédito, incluindo os membros do conselho geral e os administradores não executivos, apenas poderão fazer parte pessoas cuja idoneidade e disponibilidade dêem garantias de gestão sã e prudente, tendo em vista, de modo particular, a segurança dos fundos confiados à instituição.
 
@@ -487,7 +658,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Os membros do órgão de administração a quem caiba assegurar a gestão corrente da instituição de crédito e os revisores oficiais de contas que integrem o órgão de fiscalização devem possuir experiência adequada ao desempenho das respectivas funções.
 
@@ -497,7 +670,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O Banco de Portugal pode opor-se a que os membros dos órgãos de administração e do conselho geral das instituições de crédito exerçam funções de administração noutras sociedades, se entender que a acumulação é susceptível de prejudicar o exercício das funções que o interessado já desempenhe, nomeadamente por existirem riscos graves de conflito de interesses, ou, tratando-se de pessoas a quem caiba a gestão corrente da instituição, por se verificarem inconvenientes significativos no que respeita à sua disponibilidade para o cargo.
 
@@ -505,7 +680,9 @@ g) ...
 
 3 - No caso de funções a exercer em entidade sujeita a registo no Banco de Portugal, o poder de oposição exerce-se no âmbito do processo de registo regulado no artigo 69.º; nos demais casos, os interessados deverão comunicar ao Banco de Portugal a sua pretensão com a antecedência mínima de 30 dias sobre a data prevista para o início das novas funções, entendendo-se, na falta de decisão dentro desse prazo, que o Banco de Portugal não se opõe à acumulação.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -515,11 +692,15 @@ g) ...
 
 4 - (Revogado.)
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 O estabelecimento em Portugal de sucursais de instituições de crédito não compreendidas no artigo 48.º fica sujeito ao disposto na presente secção, no artigo 16.º, no n.º 3 do artigo 17.º, nos artigos 19.º, 21.º e 22.º, nas alíneas b) a f) do artigo 23.º-A, no n.º 2 do artigo 49.º e nos artigos 54.º e 55.º
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - O estabelecimento da sucursal fica dependente de autorização a ser concedida, caso a caso, pelo Ministro das Finanças, podendo esta competência ser delegada no Banco de Portugal.
 
@@ -527,11 +708,15 @@ O estabelecimento em Portugal de sucursais de instituições de crédito não co
 
 3 - A autorização pode ser recusada nos casos referidos nas alíneas a), b) e e) do n.º 1 do artigo 20.º, bem como se o Banco de Portugal considerar insuficiente o sistema de supervisão a que a instituição de crédito estiver sujeita.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 O Banco de Portugal publicará uma lista das instituições de crédito e instituições financeiras com sede em países da Comunidade Europeia e não estabelecidas em Portugal, habilitadas a prestar serviços no País.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O registo dos membros dos órgãos de administração e fiscalização, incluindo os que integrem o conselho geral e os administradores não executivos, deverá ser solicitado, após a respectiva designação, mediante requerimento da instituição de crédito.
 
@@ -551,7 +736,9 @@ O Banco de Portugal publicará uma lista das instituições de crédito e instit
 
 9 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - ...
 
@@ -567,7 +754,9 @@ O Banco de Portugal publicará uma lista das instituições de crédito e instit
 
 7 - É aplicável o disposto nos n.os 6 e 7 do artigo anterior.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - Salvo o disposto no número seguinte, o prazo para requerer qualquer registo é de 30 dias a contar da data em que os factos a registar tiverem ocorrido.
 
@@ -579,7 +768,9 @@ O Banco de Portugal publicará uma lista das instituições de crédito e instit
 
 5 - ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 Além de outros fundamentos legalmente previstos, o registo será recusado nos seguintes casos:
 
@@ -593,7 +784,9 @@ d) ...
 
 e) Quando se verifique que não está preenchida alguma das condições de que depende a autorização necessária para a constituição da instituição ou para o exercício da actividade, nomeadamente quando algum dos membros do órgão de administração ou de fiscalização não satisfaça os requisitos de idoneidade, experiência ou disponibilidade legalmente exigidos, bem como quando haja fundamento para oposição nos termos do artigo 33.º e no caso previsto no n.º 10 do artigo 105.º
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 5, 6 e 7, as instituições de crédito não podem conceder crédito, sob qualquer forma ou modalidade, incluindo a prestação de garantias, quer directa quer indirectamente, aos membros dos seus órgãos de administração ou fiscalização, nem a sociedades ou outros entes colectivos por eles directa ou indirectamente dominados.
 
@@ -611,7 +804,9 @@ e) Quando se verifique que não está preenchida alguma das condições de que d
 
 8 - Os membros do órgão de administração ou fiscalização de uma instituição de crédito não podem participar na apreciação e decisão de operações de concessão de crédito a sociedades ou outros entes colectivos não incluídos no n.º 1 de que sejam gestores ou em que detenham participações qualificadas, bem como na apreciação e decisão dos casos abrangidos pelos n.os 5 e 7, exigindo-se em todas estas situações a aprovação por maioria de pelo menos dois terços dos restantes membros do órgão de administração e o parecer favorável do órgão de fiscalização.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -623,7 +818,9 @@ e) Quando se verifique que não está preenchida alguma das condições de que d
 
 5 - (Revogado.)
 
-###### Artigo 92.º — Atribuições do Banco de Portugal enquanto banco central
+Artigo 92.º
+
+Atribuições do Banco de Portugal enquanto banco central
 
 Nos termos da sua Lei Orgânica, compete ao Banco de Portugal:
 
@@ -631,13 +828,17 @@ a) Orientar e fiscalizar os mercados monetário e cambial, bem como regular, fis
 
 b) Recolher e elaborar as estatísticas monetárias, financeiras, cambiais e da balança de pagamentos, designadamente no âmbito da sua colaboração com o Banco Central Europeu.
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - Compete ao Ministro das Finanças, ouvido o Banco de Portugal ou sob sua proposta, fixar, por portaria, o capital social mínimo das instituições de crédito.
 
 2 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - Uma fracção não inferior a 10% dos lucros líquidos apurados em cada exercício pelas instituições de crédito deve ser destinada à formação de uma reserva legal, até um limite igual ao valor do capital social ou ao somatório das reservas livres constituídas e dos resultados transitados, se superior.
 
@@ -645,7 +846,9 @@ b) Recolher e elaborar as estatísticas monetárias, financeiras, cambiais e da 
 
 3 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - As instituições de crédito não podem deter no capital de uma sociedade participação qualificada cujo montante ultrapasse 15% dos fundos próprios da instituição participante.
 
@@ -663,7 +866,9 @@ b) As acções ou outras partes de capital detidas em nome próprio mas por cont
 
 6 - O disposto no presente artigo não se aplica às participações noutras instituições de crédito, em sociedades financeiras, em instituições financeiras, em sociedades gestoras de fundos de pensões ou em empresas de seguros.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 4, as instituições de crédito não podem deter, directa ou indirectamente, numa sociedade, por prazo seguido ou interpolado, superior a três anos, participação que lhes confira mais de 25% dos direitos de voto, correspondentes ao capital da sociedade participada.
 
@@ -673,7 +878,9 @@ b) As acções ou outras partes de capital detidas em nome próprio mas por cont
 
 4 - O prazo previsto no n.º 1 é de cinco anos relativamente às participações indirectas detidas através de sociedades de capital de risco.
 
-###### Artigo 102.º — Comunicação das participações qualificadas
+Artigo 102.º
+
+Comunicação das participações qualificadas
 
 1 - A pessoa singular ou colectiva que, directa ou indirectamente, pretenda deter participação qualificada numa instituição de crédito deve comunicar previamente ao Banco de Portugal o seu projecto.
 
@@ -689,7 +896,9 @@ b) As acções ou outras partes de capital detidas em nome próprio mas por cont
 
 7 - As comunicações previstas no presente artigo devem especificar os actos ou factos jurídicos de que resultem ou possam resultar a detenção da participação, a identidade da contraparte nesses actos, quando determinável, e o montante da participação em causa.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - No prazo máximo de três meses a contar da comunicação referida no artigo 102.º, o Banco de Portugal opor-se-á ao projecto, se não considerar demonstrado que a pessoa em causa ou as características do seu projecto reúnem condições que garantam uma gestão sã e prudente da instituição de crédito.
 
@@ -721,11 +930,15 @@ g) ...
 
 8 - Sempre que o objecto da instituição de crédito compreender alguma actividade de intermediação de valores mobiliários, o Banco de Portugal, antes de se pronunciar nos termos do n.º 1, solicitará informações à Comissão do Mercado de Valores Mobiliários sobre a idoneidade dos detentores de participações qualificadas, devendo a Comissão, se for caso disso, prestar as referidas informações no prazo de um mês.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 Deve ser comunicada ao Banco de Portugal, no prazo de 15 dias, a celebração dos actos mediante os quais sejam concretizados os projectos de aquisição ou aumento de participação qualificada, sujeitos a comunicação prévia nos termos do artigo 102.º
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - Sempre que tenha conhecimento da constituição ou do aumento de uma participação sujeita a comunicação nos termos do artigo 102.º, sem que o interessado a ela haja procedido, o Banco de Portugal, independentemente das sanções aplicáveis e salvo o disposto no número seguinte, poderá determinar a inibição do exercício, na instituição de crédito participada, dos direitos de voto integrantes da referida participação, na medida necessária e adequada para impedir a influência na gestão que foi obtida através do acto não comunicado.
 
@@ -747,13 +960,17 @@ Deve ser comunicada ao Banco de Portugal, no prazo de 15 dias, a celebração do
 
 10 - Se o exercício dos direitos de voto abrangidos pela inibição tiver sido determinante para a eleição dos órgãos de administração ou fiscalização, o Banco de Portugal deve, na pendência da acção de anulação da respectiva deliberação, recusar os respectivos registos.
 
-###### Artigo 106.º — Inibição por motivos supervenientes
+Artigo 106.º
+
+Inibição por motivos supervenientes
 
 1 - O Banco de Portugal, com fundamento em factos relevantes, que venham ao seu conhecimento após a constituição ou aumento de uma participação qualificada e que criem o receio justificado de que a influência exercida pelo seu detentor possa prejudicar a gestão sã e prudente da instituição de crédito participada, pode determinar a inibição do exercício dos direitos de voto integrantes da mesma participação.
 
 2 - Às decisões tomadas nos termos do n.º 1 é aplicável, com as necessárias adaptações, o disposto nos n.os 4 e seguintes do artigo 105.º
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - A pessoa singular ou colectiva que pretenda deixar de deter participação qualificada numa instituição de crédito, ou diminuí-la de tal modo que a percentagem de direitos de voto ou de capital de que seja titular desça a nível inferior a qualquer dos limiares de 5%, 10%, 20%, 33% ou 50%, ou de tal modo que a instituição deixe de ser sua filial, deve informar previamente o Banco de Portugal e comunicar-lhe o novo montante da sua participação.
 
@@ -761,7 +978,9 @@ Deve ser comunicada ao Banco de Portugal, no prazo de 15 dias, a celebração do
 
 3 - Às situações previstas no presente artigo é aplicável, com as devidas adaptações, o disposto no artigo 104.º
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -775,15 +994,21 @@ Deve ser comunicada ao Banco de Portugal, no prazo de 15 dias, a celebração do
 
 6 - ...
 
-###### Artigo 113.º — Rácio do imobilizado e aquisição de títulos de capital
+Artigo 113.º
+
+Rácio do imobilizado e aquisição de títulos de capital
 
 O Banco de Portugal poderá definir, por aviso, os limites ao valor do activo imobilizado das instituições de crédito, bem como ao valor total das acções ou outras partes de capital de quaisquer sociedades não abrangidas no referido activo, que as instituições de crédito podem deter.
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 Os limites previstos nos artigos 100.º e 101.º podem ser excedidos e a restrição constante do artigo 112.º ultrapassada, em resultado de aquisições em reembolso de crédito próprio, devendo as situações daí resultantes ser regularizadas no prazo de dois anos, o qual, havendo motivo fundado, poderá ser prorrogado pelo Banco de Portugal, nas condições que este determinar.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -791,7 +1016,9 @@ Os limites previstos nos artigos 100.º e 101.º podem ser excedidos e a restri�
 
 3 - As instituições sujeitas à supervisão do Banco de Portugal devem publicar as suas contas nos termos e com a periodicidade definidas em aviso do Banco de Portugal, podendo este exigir a respectiva certificação legal.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - No desempenho das suas funções de supervisão, compete em especial ao Banco de Portugal:
 
@@ -807,7 +1034,9 @@ e) Sancionar as infracções.
 
 2 - O Banco de Portugal pode exigir a realização de auditorias especiais por entidade independente, por si designada, a expensas da instituição auditada.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - Ficam sujeitas à supervisão do Banco de Portugal as sociedades gestoras de participações sociais quando as participações detidas, directa ou indirectamente, lhes confiram a maioria dos direitos de voto em uma ou mais instituições de crédito ou sociedades financeiras.
 
@@ -817,13 +1046,17 @@ e) Sancionar as infracções.
 
 4 - O disposto no artigo 43.º-A é aplicável às sociedades gestoras de participações sociais a que se refere o n.º 1 do presente artigo.
 
-###### Artigo 118.º — [...]
+Artigo 118.º
+
+[...]
 
 1 - Se as condições em que decorre a actividade de uma instituição de crédito não respeitarem as regras de uma gestão sã e prudente, o Banco de Portugal pode notificá-la para, no prazo que lhe fixar, tomar as providências necessárias para restabelecer ou reforçar o equilíbrio financeiro, ou corrigir os métodos de gestão.
 
 2 - Sempre que tiver conhecimento do projecto de uma operação por uma instituição de crédito que, no seu entender, seja susceptível de implicar a violação ou o agravamento da violação de regras prudenciais aplicáveis ou infringir as regras de uma gestão sã e prudente, o Banco de Portugal pode notificar essa instituição para se abster de realizar tal operação.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - ...
 
@@ -837,7 +1070,9 @@ e) Sancionar as infracções.
 
 6 - O Banco de Portugal pode exigir que as instituições de crédito lhe apresentem relatórios de trabalhos relacionados com matérias de supervisão prudencial, realizados por uma entidade devidamente habilitada e para o efeito aceite pelo mesmo Banco.
 
-###### Artigo 142.º — [...]
+Artigo 142.º
+
+[...]
 
 1 - ...
 
@@ -853,7 +1088,9 @@ e) Sancionar as infracções.
 
 7 - Não sendo aceites as condições estabelecidas pelo Banco de Portugal, ou as propostas que apresente, poderá ser revogada a autorização de exercício da actividade.
 
-###### Artigo 155.º — [...]
+Artigo 155.º
+
+[...]
 
 1 - ...
 
@@ -863,7 +1100,9 @@ e) Sancionar as infracções.
 
 4 - São abrangidos pelo disposto no número anterior os fundos representados por certificados de depósito emitidos pela instituição de crédito, mas não os representados por outros títulos de dívida por ela emitidos nem os débitos emergentes de aceites próprios ou de promissórias em circulação.
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - O Fundo é gerido por uma comissão directiva composta por três membros, sendo o presidente um elemento do conselho de administração do Banco de Portugal, por este designado, outro nomeado pelo Ministro das Finanças e um terceiro designado pela associação que em Portugal represente as instituições de crédito participantes que, no seu conjunto, detenham o maior volume de depósitos garantidos.
 
@@ -873,7 +1112,9 @@ e) Sancionar as infracções.
 
 4 - ...
 
-###### Artigo 159.º — [...]
+Artigo 159.º
+
+[...]
 
 1 - O Fundo disporá dos seguintes recursos:
 
@@ -891,11 +1132,15 @@ f) Produto das coimas aplicadas às instituições de crédito.
 
 2 - Verificando-se uma situação de urgência, designadamente se puderem estar em causa aspectos de estabilidade sistémica, o Banco de Portugal poderá, nas condições definidas na sua Lei Orgânica, facultar temporariamente ao Fundo os recursos adequados à satisfação das suas necessidades imediatas.
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 167.º-A, o Fundo aplicará os recursos disponíveis em operações financeiras, mediante plano de aplicações acordado com o Banco de Portugal.
 
-###### Artigo 176.º — [...]
+Artigo 176.º
+
+[...]
 
 A autorização para a constituição de sociedades financeiras será recusada sempre que:
 
@@ -909,7 +1154,9 @@ d) O Banco de Portugal não considerar demonstrado que todos os accionistas sati
 
 e) ...
 
-###### Artigo 177.º — [...]
+Artigo 177.º
+
+[...]
 
 1 - A autorização de uma sociedade financeira caduca se os requerentes a ela expressamente renunciarem ou se a sociedade não iniciar actividade no prazo de 12 meses.
 
@@ -917,29 +1164,39 @@ e) ...
 
 3 - A autorização caduca ainda se a sociedade for dissolvida, sem prejuízo da prática dos actos necessários à respectiva liquidação.
 
-###### Artigo 178.º — [...]
+Artigo 178.º
+
+[...]
 
 1 - ...
 
 2 - A revogação da autorização implica dissolução e liquidação da sociedade salvo se, no caso indicado na alínea d) do número anterior, o Banco de Portugal o dispensar.
 
-###### Artigo 183.º — [...]
+Artigo 183.º
+
+[...]
 
 Estão sujeitas a prévia autorização do Banco de Portugal as alterações dos contratos de sociedade e a fusão e cisão das sociedades financeiras, nos termos dos artigos 34.º e 35.º
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - Salvo o disposto em lei especial, é aplicável às sociedades financeiras o disposto nos artigos 94.º a 97.º, 99.º e 115.º
 
 2 - Os adquirentes de participações iguais ou superiores a 10% do capital ou dos direitos de voto de sociedade financeira não abrangida pelo título X-A devem comunicar o facto ao Banco de Portugal, nos termos previstos no artigo 104.º, podendo o Banco de Portugal exigir a prestação das informações a que se refere o n.º 7 do artigo 103.º e usar dos poderes previstos no artigo 106.º
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 1 - Salvo o disposto em lei especial, é aplicável às sociedades financeiras, com as necessárias adaptações, o disposto nos artigos 93.º, 116.º, 118.º a 121.º e 125.º a 128.º
 
 2 - ...
 
-###### Artigo 199.º-C — [...]
+Artigo 199.º-C
+
+[...]
 
 O título II é aplicável, com as necessárias adaptações, às empresas de investimento com sede em Portugal, com as seguintes modificações:
 
@@ -955,21 +1212,29 @@ e) No n.º 6 do artigo 16.º, a referência feita à Directiva n.º [2000/12/CE]
 
 f) O artigo 33.º aplica-se sem prejuízo do disposto em lei especial.
 
-###### Artigo 199.º-F — [...]
+Artigo 199.º-F
+
+[...]
 
 O registo e a lista referidos nos artigos 67.º e 68.º são da competência da Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 199.º-G — Remissão
+Artigo 199.º-G
+
+Remissão
 
 O disposto nos artigos 35.º-A, 42.º-A e 102.º a 111.º é também aplicável às empresas de investimento, às sociedades gestoras de fundos de investimento e à tomada de participações nestas mesmas empresas.
 
-###### Artigo 207.º — [...]
+Artigo 207.º
+
+[...]
 
 1 - Sempre que a infracção resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.
 
 2 - O infractor pode ser sujeito pelo Banco de Portugal à injunção de cumprir o dever em causa.
 
-###### Artigo 225.º — [...]
+Artigo 225.º
+
+[...]
 
 1 - ...
 
@@ -1123,15 +1388,15 @@ O n.º 9 do artigo 69.º do Regime Jurídico do Crédito Agrícola Mútuo e das 
 
 Visto e aprovado em Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
 
-**Promulgado em 9 de Setembro de 2002.**
+Promulgado em 9 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2002.**
+Referendado em 13 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Regime Geral das Instituições de Crédito e Sociedades Financeiras
 

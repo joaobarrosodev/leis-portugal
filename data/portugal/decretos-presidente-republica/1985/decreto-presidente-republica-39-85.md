@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/39-1985-181393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:57:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f55c830f716038dfd024e207105cd637487e0f232bb14a990b166f0039552eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a486d97a1328a0c9b7310022a6622f18305f5e8c248de9c95db4426b2a5625c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:57:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- China
+- Embaixador
+- Exoneração
+- Pequim
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:57:13Z'
   warnings: []
   errors: []
 ---
@@ -84,16 +88,16 @@ validation:
 
 de 20 de Junho.
 
-**O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea a) do artigo 138.º da Constituição, o seguinte:
 
 É exonerado, sob proposta do Governo, o embaixador António Leal da Costa Lobo do cargo de embaixador de Portugal em Pequim.
 
-**Assinado em 17 de Maio de 1985.**
+Assinado em 17 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.**
+O Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares. - O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama.
 
-**Referendado em 11 de Junho de 1985.**
+Referendado em 11 de Junho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

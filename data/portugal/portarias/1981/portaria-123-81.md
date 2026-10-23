@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-1981-389849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb018ee1976c46a9bfc60b51d06006b0189a5ecacc8503895b4bd7405605de29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44a312c57c454890afd8da1560da7862ea34ad3c74debaddf98eca4e3b3a757e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Évora
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:396510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318336:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma pela\
+    \ PORT.1333/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1333-1982-318336
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:309710:por
+  label: "Alterado o quadro de pessoal pela PORT.179/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-1983-309710
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:435443:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.807-C3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-c3-1983-435443
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:396510:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar sanitário, o quadro de pessoal, pela PORT.970/84.26.12.1984.MS,\
+    \ DR.IS [297] de 26.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-1984-396510
+  date: '1984-12-26'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:14Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +145,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Évora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02100/02150216.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02100/02150216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02100/02150216.pdf)
 
 Notas
 

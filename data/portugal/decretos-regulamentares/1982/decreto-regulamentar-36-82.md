@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/36-1982-395312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 393ec66ea158073183e2dcd10c0a95ba4d5624217fa7f2935a8afa03c32f1ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c67b78aa166a87430dac7b0adf9bc7d0e429ffd7f94b08f95f577796367109fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Registo Automóvel
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:248220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404371:por
+  label: "Alterados os arts. 1º, 11º, 29º e 35º do Regulamento do Registo Automóvel aprovado pelo Dec 55/75 de 12-Fev, na\
+    \ redacção do presente diploma, pelo DEC LEI.178-A/2005.28.10.2005.MJ, DR.IS-A [208-Supl] de 28.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-a-2005-404371
+  date: '2005-10-28'
+- type: amended_by
+  target: pt:dre:248220:por
+  label: "Alterado o art. 11.º do Regulamento do Registo de Automóveis, aprovado pelo Dec 55/75, de 12-Fev, na redacção do\
+    \ presente diploma, pelo DEC LEI.20/2008.31.01.2008.MJ, DR.IS [22] de 31.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2008-248220
+  date: '2008-01-31'
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395317:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:05:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +122,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 5.º, 11.º, 13.º, 14.º, 16.º, 19.º, 20.º, 29.º, 35.º, 37.º, 38.º, 39.º, 45.º, 54.º, 63.º e 64.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 5.º, 11.º, 13.º, 14.º, 16.º, 19.º, 20.º, 29.º, 35.º, 37.º, 38.º, 39.º, 45.º, 54.º, 63.º e 64.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 1.º — (Livro de registos e talonário de apresentações)
 
@@ -278,12 +304,12 @@ As certidões dos actos de registo terão por base as anotações lavradas no li
 
 2 - Para efeitos do número anterior, o preenchimento de cada conjunto de impressos ou o do requerimento para registo submetido a tratamento automático é equiparado a um requerimento destinado a obter certidões.
 
-###### Art. 2.º São revogados o artigo 4.º, os n.os 3 e 4 do artigo 18.º, o n.º 2 do artigo 26.º e o n.º 4 do artigo 39.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro.
+Art. 2.º São revogados o artigo 4.º, os n.os 3 e 4 do artigo 18.º, o n.º 2 do artigo 26.º e o n.º 4 do artigo 39.º do Regulamento do Registo de Automóveis, aprovado pelo [Decreto n.º 55/75](https://diariodarepublica.pt/dr/detalhe/decreto/55-1975-159882), de 12 de Fevereiro.
 
 Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 
-**Promulgado em 7 de Junho de 1982.**
+Promulgado em 7 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/10/231a00/67066715.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2002-657223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c39dd13e9491b7231c7fe8eceeba03d729c55ec0799fc7af2cf1f8f6a1051d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17fec075738895e4c86663dfebad0512f959363c299ce880c0da51a27ba6326e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Inspecção Geral da Ciência e do Ensino Superior
-- Investigação Científica e Tecnológica
-- Pessoal Dirigente
-- Fundação para a Ciência e a Tecnologia
+- Academia das Ciências de Lisboa
+- Auditoria Jurídica
+- Centro Científico e Cultural de Macau
+- Conselho Nacional de Acção Social do Ensino Superior
+- Conselho Nacional de Educação
 - Conselho Nacional do Ensino Superior
 - Conselho Superior de Ciência e Tecnologia
+- Conselho Superior de Ciência Tecnologia e Inovação
 - Criação de Serviços
 - Definição de Competências
+- Direção Geral do Ensino Superior
 - Direcção Geral de Protecção das Culturas
+- Ensino Superior
 - Extinção de Serviços
-- Secretaria Geral
+- Fundação para a Ciência e a Tecnologia
 - Gabinete Coordenador da Política Científica e Tecnológica
-- Ministério da Ciência e do Ensino Superior
+- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
 - Gabinete de Relações Internacionais da Ciência e do Ensino Superior
 - Gestão Orçamental
-- Ineti
-- Instituto de Cooperação Científica e Tecnológica Internacional
 - IHCT
+- Ineti
+- Inspecção Geral da Ciência e do Ensino Superior
+- Instituto de Cooperação Científica e Tecnológica Internacional
+- Instituto de Investigação Científica e Tropical
 - Instituto de Investigação das Pescas e do Mar
+- Instituto de Meteorologia
 - Instituto Geológico e Mineiro
 - Instituto Hidrográfico
 - Instituto Nacional de Acreditação da Formação de Professores
-- Instituto de Meteorologia
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Tecnológico e Nuclear
 - Integração de Trabalhadores
-- Laboratório Nacional de Investigação Veterinária
+- Investigação Científica e Tecnológica
 - Laboratório Nacional de Engenharia Civil
-- Conselho Nacional de Acção Social do Ensino Superior
-- Conselho Superior de Ciência Tecnologia e Inovação
-- Gabinete de Gestão Financeira da Ciência e do Ensino Superior
+- Laboratório Nacional de Investigação Veterinária
+- Ministério da Ciência e do Ensino Superior
 - Observatório da Ciência e do Ensino Superior
-- Centro Científico e Cultural de Macau
-- Direção Geral do Ensino Superior
-- Conselho Nacional de Educação
-- Instituto de Investigação Científica e Tropical
-- Auditoria Jurídica
-- Orgânica
-- Tecnologia
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Quadro de Pessoal
-- Academia das Ciências de Lisboa
 - Observatório das Ciências e das Tecnologias
-- Ensino Superior
-- Instituto Nacional de Investigação Agrária
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Geral
+- Tecnologia
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -117,6 +117,13 @@ relationships:
   target: pt:dre:457005:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério da Ciência, Inovação e Ensino Superior dos serviços e organismos compreendidos\
+    \ no agora extinto Ministério da Ciência, e do Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl\
+    \ de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
@@ -145,16 +152,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16-a/2002/05/31/p/dre
+- type: cites
+  target: pt:dre:168777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685034:por
+  label: "Revogados os nºs 3 e 4 do art 11º pelo DEC LEI.122/2003.2003.06.18.MCES, DR.IS-A [139]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2003-685034
+  date: '2003-06-18'
+- type: repealed_by
+  target: pt:dre:457005:por
+  label: "Revogado pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
 article_structure:
   article_count: 41
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:57Z'
   warnings: []
   errors: []
 ---
@@ -273,7 +318,7 @@ b) Instituto Tecnológico e Nuclear.
 
 ###### Artigo 7.º — Administração autónoma
 
-**O Ministro da Ciência e do Ensino Superior exerce a tutela sobre a Academia das Ciências de Lisboa.**
+O Ministro da Ciência e do Ensino Superior exerce a tutela sobre a Academia das Ciências de Lisboa.
 
 ###### Artigo 8.º — Superintendência conjunta
 
@@ -727,15 +772,15 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 20 de Setembro de 2002.**
+Promulgado em 20 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Setembro de 2002.**
+Referendado em 25 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente
 

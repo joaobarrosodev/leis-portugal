@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/31/2019/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2019-120454103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d05e7792831d3cc25fd1eb76ee31fdae99ba846ade4701d36fef1139814bee5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6d1386e428b10d6002c912cab703bd1bc34ce450f0eebf09b942e99d15663aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,53 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro da Economia
+- Administração de Portos
+- Comissão de Coordenação e Desenvolvimento Regional
 - Competência Própria
 - Conselho de Ministros
 - CP
-- Transporte Ferroviário
 - Definição de Competências
-- Administração de Portos
-- Lisboa
-- Setor Empresarial do Estado
 - Gabinete Governamental
-- Comissão de Coordenação e Desenvolvimento Regional
-- Secretário de Estado da Energia
-- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
-- Ministro da Cultura
-- Ministro das Finanças
-- Instituição Financeira de Desenvolvimento
-- Instituto da Mobilidade e dos Transportes
+- Governo XXI
 - IFAP
+- Instituição Financeira de Desenvolvimento
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto da Mobilidade e dos Transportes
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
 - Laboratório Nacional de Engenharia Civil
+- Lisboa
 - Membros do Governo
 - Metro-Mondego
-- Instituto da Habitação e da Reabilitação Urbana
-- Secretário de Estado do Ambiente
 - Ministro
+- Ministro Adjunto e da Economia
+- Ministro da Administração Interna
+- Ministro da Agricultura Florestas e Desenvolvimento Rural
 - Ministro da Ciência Tecnologia e Ensino Superior
+- Ministro da Cultura
+- Ministro da Economia
+- Ministro das Finanças
+- Ministro das Infraestruturas e da Habitação
+- Ministro do Ambiente e da Transição Energética
 - Ministro do MAR
 - Ministro do Planeamento
 - Orgânica
 - Piddac
-- Secretário de Estado da Presidência do Conselho de Ministros
 - Reunião de Secretários de Estado
 - Secretário de Estado
+- Secretário de Estado Adjunto e da Mobilidade
 - Secretário de Estado Adjunto e das Comunicações
 - Secretário de Estado Adjunto e dos Assuntos Parlamentares
+- Secretário de Estado da Energia
 - Secretário de Estado da Habitação
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Desenvolvimento Regional
-- Ministro da Administração Interna
+- Secretário de Estado do Ordenamento do Território e da Conservação da Natureza
+- Setor Empresarial do Estado
 - Transferência de Competências
 - Transferência de Serviços
+- Transporte Ferroviário
 - Tutela
-- Instituto dos Mercados Públicos do Imobiliário e da Construção
-- Governo XXI
-- Ministro da Agricultura Florestas e Desenvolvimento Rural
-- Ministro do Ambiente e da Transição Energética
-- Ministro Adjunto e da Economia
-- Secretário de Estado Adjunto e da Mobilidade
-- Ministro das Infraestruturas e da Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decpresrep/14-c/2019/02/18/p/dre
@@ -149,16 +149,208 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/14-n/2019/
   label: null
   source: http://data.dre.pt/eli/decpresrep/14-n/2019/
+- type: cites
+  target: pt:dre:106578565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108021183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114177785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116923610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119685141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65983260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66108236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66443112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66463205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69927762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70686130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909765:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
+  article_count: 43
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:38:03Z'
   warnings: []
   errors: []
 ---
@@ -221,7 +413,9 @@ p) [...];
 
 q) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O Primeiro-Ministro é coadjuvado no exercício das suas funções pelo Secretário de Estado Adjunto e dos Assuntos Parlamentares.
 
@@ -259,7 +453,9 @@ q) [...].
 
 18 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -269,13 +465,17 @@ q) [...].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As/os secretárias/os de Estado não dispõem de competência própria, exceto no que se refere aos respetivos gabinetes, e exercem, em cada caso, a competência que neles seja delegada pelo Primeiro-Ministro ou pela/o ministra/o respetiva/o, sem prejuízo da competência própria exercida pelo Secretário de Estado Adjunto e dos Assuntos Parlamentares, nos termos do n.º 3 do artigo seguinte.
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +513,9 @@ b) Assegurar as relações do Governo com a Assembleia da República e com os gr
 
 8 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes da Ministra da Cultura, do Ministro do Planeamento e do Ministro das Infraestruturas e da Habitação.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A Ministra da Presidência e da Modernização Administrativa tem por missão exercer as competências que lhe são delegadas pelo Primeiro-Ministro, em matéria de preparação, convocação e coordenação do Conselho de Ministros e da Reunião de Secretárias/os de Estado, promover a coordenação interministerial dos diversos departamentos governamentais, bem como formular, conduzir, executar e avaliar uma política global e coordenada nas áreas da modernização administrativa, em matéria de simplificação, inovação e participação dos cidadãos e outros interessados, e da cidadania e da igualdade.
 
@@ -337,7 +539,9 @@ e) [...].
 
 6 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -357,7 +561,9 @@ e) [...].
 
 9 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -373,7 +579,9 @@ e) [...].
 
 7 - O Ministro da Administração Interna exerce ainda os poderes que lhe são conferidos pelo n.º 7 do artigo 14.º, pelo n.º 6 do artigo 15.º, pelo n.º 6 do artigo 24.º, pela alínea c) do n.º 2 do artigo 24.º-A, pelo n.º 4 do artigo 26.º, pelo n.º 4 do artigo 27.º e pelo n.º 5 do artigo 28.º
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -401,7 +609,9 @@ e) [...].
 
 13 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -425,7 +635,9 @@ e) [...].
 
 11 - O Ministro da Ciência, Tecnologia e Ensino Superior exerce ainda os poderes que lhe são conferidos pelos n.os 3 e 5 do artigo 15.º, pelo n.º 6 do artigo 16.º, pelo n.º 3 do artigo 17.º, pelo n.º 9 do artigo 18.º, pelo n.º 3 do artigo anterior, pela alínea a) do n.º 2 do artigo 24.º-A e pelos n.os 10, 11 e 15 do artigo 28.º
 
-###### Artigo 24.º — Planeamento
+Artigo 24.º
+
+Planeamento
 
 1 - O Ministro do Planeamento tem por missão formular, conduzir, executar e avaliar as políticas de desenvolvimento e coesão, incluindo o desenvolvimento regional.
 
@@ -445,7 +657,9 @@ b) A Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico E
 
 7 - O Ministro do Planeamento exerce ainda os poderes que lhe são conferidos pelo n.º 8 do artigo 14.º, pelo n.º 10 do artigo 18.º, pelo n.º 6 do artigo 27.º e pelo n.º 6 do artigo 28.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O Ministro do Ambiente e da Transição Energética tem por missão formular, conduzir, executar e avaliar as políticas de ambiente, ordenamento do território, cidades, transportes urbanos, suburbanos e rodoviários de passageiros, mobilidade, alterações climáticas, clima, conservação da natureza e energia e geologia, numa perspetiva de desenvolvimento sustentável e de coesão social e territorial.
 
@@ -469,7 +683,9 @@ c) [...].
 
 8 - O Ministro do Ambiente e da Transição Energética exerce ainda os poderes que lhe são conferidos pelo n.º 4 do artigo 12.º, pelo n.º 6 do artigo 24.º, pela alínea c) do n.º 2 do artigo 24.º-A, pelo n.º 8 do artigo seguinte e pelos n.os 10 e 15 do artigo 28.º
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...].
 
@@ -487,7 +703,9 @@ c) [...].
 
 8 - [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...].
 
@@ -521,7 +739,9 @@ c) [...].
 
 16 - A Ministra do Mar exerce ainda os poderes que lhe são conferidos pelo n.º 4 do artigo 12.º, pelo n.º 5 do artigo 15.º e pela alínea c) do n.º 2 do artigo 24.º-A.
 
-###### Artigo 34.º — Gabinetes dos Secretários de Estado Adjunto e dos Assuntos Parlamentares e da Presidência do Conselho de Ministros
+Artigo 34.º
+
+Gabinetes dos Secretários de Estado Adjunto e dos Assuntos Parlamentares e da Presidência do Conselho de Ministros
 
 Os Gabinetes dos Secretários de Estado Adjunto e dos Assuntos Parlamentares e da Presidência do Conselho de Ministros são equiparados, para efeitos da legislação sobre gabinetes, a gabinetes ministeriais.»
 
@@ -565,15 +785,15 @@ As alterações introduzidas pelo presente decreto-lei produzem efeitos a partir
 
 Visto e aprovado em Conselho de Ministros de 21 de fevereiro de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - Ricardo Emanuel Martins Mourinho Félix - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões - Ângelo Nelson Rosário de Souza - Pedro Nuno de Oliveira Santos - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 25 de fevereiro de 2019.**
+Promulgado em 25 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 28 de fevereiro de 2019.**
+Referendado em 28 de fevereiro de 2019.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 
@@ -697,7 +917,7 @@ q) Ministra do Mar.
 
 ###### Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo Ministro dos Negócios Estrangeiros ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição.
 
 ###### Artigo 8.º — Competência dos membros do Governo
 
@@ -1180,3 +1400,5 @@ Nos casos previstos na Constituição e na lei, o Governo da República procede 
 ###### Artigo 36.º — Produção de efeitos
 
 O presente decreto-lei produz efeitos reportados a 26 de novembro de 2015, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente decreto-lei.
+
+112108117

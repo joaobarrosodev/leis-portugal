@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/180/2006/09/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2006-539979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T02:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd852cf6c12772e5021f76352727dd8a519cf07dc6d761dbe340450d7f345e4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 485f96eb5148a6909e5ee1493cbb63c10ca273f1c4a0b6ede90b4b618d7ed3cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
-- Contra-ordenação
-- Região Demarcada
 - Comissão Nacional da Reserva Ecológica Nacional
-- Proteção do Ambiente
-- Política de Solos
+- Contra-ordenação
 - Domínio Público Hídrico
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Região Demarcada
 - Regime Jurídico
+- Reserva Ecológica Nacional
 relationships:
 - type: amended_by
   target: pt:dre:124256708:por
@@ -115,16 +115,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:209591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:152705:por
+  label: "Rectificado e republicado o anexo IV, pela DECL-RECT.75-A/2006.30.10.2006.PCM, DR.IS [212] de 03.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/75-a-2006-152705
+  date: '2006-10-30'
+- type: corrected_by
+  target: pt:dre:546211:por
+  label: "Rectificado e republicado o anexo IV, pela DECL-RECT.76/2006.30.10.2006.PCM, DR.IS [213] de 06.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/76-2006-546211
+  date: '2006-10-30'
+- type: repealed_by
+  target: pt:dre:453518:por
+  label: "Revogado, a partir de 21.09.2008, o Dec Lei 93/90, de 19-Mar, com as alterações introduzidas pelo presente diploma,revogado\
+    \ na mesma data, pelo DEC LEI.166/2008.22.08.2008.MAOTDR, DR.IS [162] de 22.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-2008-453518
+  date: '2008-08-22'
 article_structure:
-  article_count: 36
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:53:08Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +273,9 @@ Delimitação
 
 14 - As cartas de delimitação da REN são de consulta pública livre, devendo as mesmas ser disponibilizadas em suporte de papel na sede da respectiva CCDR e através da sua colocação em suporte informático no sítio da Internet da mesma entidade.
 
-###### Artigo 4.º — Regime
+Artigo 4.º
+
+Regime
 
 1 - Nas áreas incluídas na REN são proibidas as acções de iniciativa pública ou privada que se traduzam em operações de loteamento, obras de urbanização, construção e ou ampliação, obras hidráulicas, vias de comunicação, aterros, escavações e destruição do coberto vegetal.
 
@@ -221,15 +303,21 @@ d) As acções identificadas como isentas de autorização ou de comunicação p
 
 7 - O ónus de inalienabilidade está sujeito a registo e cessa ocorrendo a morte ou invalidez permanente e absoluta do proprietário ou quando decorrido o prazo de 15 anos referido no número anterior.
 
-###### Artigo 5.º — Domínio público hídrico
+Artigo 5.º
+
+Domínio público hídrico
 
 Sem prejuízo das competências que caibam às entidades da Administração Pública em matéria de defesa das margens do domínio público hídrico, o licenciamento, por parte dessas entidades, das acções referidas no n.º 1 do artigo 4.º em áreas integradas na REN fica sujeito ao regime previsto nesse artigo.
 
-###### Artigo 10.º — Demarcação obrigatória
+Artigo 10.º
+
+Demarcação obrigatória
 
 As áreas integradas na REN são especificamente demarcadas em todos os instrumentos de gestão territorial que definam ou determinem a ocupação física do solo, designadamente planos especiais e planos municipais de ordenamento do território.
 
-###### Artigo 12.º — Contra-ordenações
+Artigo 12.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação, punível com coima de (euro) 250 a (euro) 3740, a realização, em solos da REN, de operações de loteamento, obras de urbanização, construção e ou ampliação, obras hidráulicas, vias de comunicação, aterros, escavações e destruição do coberto vegetal em violação do presente diploma.
 
@@ -253,7 +341,9 @@ g) Obrigação de reposição da situação no estado anterior ao momento da pr�
 
 4 - A tentativa e a negligência são puníveis nos termos gerais, sendo os montantes máximos e mínimos das coimas previstas nos n.os 1 e 2 reduzidos a metade.
 
-###### Artigo 14.º — Embargos e demolições
+Artigo 14.º
+
+Embargos e demolições
 
 1 - ...
 
@@ -291,7 +381,9 @@ Procedimento
 
 11 - Nos procedimentos iniciados ao abrigo da alínea b) do n.º 2 do artigo anterior, as obras podem realizar-se decorrido o prazo de 30 dias sobre a apresentação da comunicação prévia à CCDR.
 
-###### Artigo 16.º-A — Taxa de apreciação
+Artigo 16.º-A
+
+Taxa de apreciação
 
 A apreciação dos pedidos de autorização previstos na alínea a) do n.º 2 do artigo 4.º-A está sujeita ao pagamento prévio de taxas, cujo valor é definido em portaria do membro do Governo responsável pela área do ambiente e ordenamento do território.»
 
@@ -301,9 +393,9 @@ A apreciação dos pedidos de autorização previstos na alínea a) do n.º 2 do
 
 Acções insusceptíveis de prejudicar o equilíbrio ecológico das áreas integradas na Reserva Ecológica Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf)
 
-## ANEXO V
+ANEXO V
 
 Requisitos a observar para viabilização das acções insusceptíveis de prejudicar o equilíbrio ecológico das áreas integradas na Reserva Ecológica Nacional identificadas no anexo IV.
 
@@ -893,13 +985,13 @@ São revogados o artigo 7.º, a alínea c) do artigo 8.º e o artigo 19.º do [D
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 18 de Agosto de 2006.**
+Promulgado em 18 de Agosto de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Agosto de 2006.**
+Referendado em 24 de Agosto de 2006.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 
@@ -1269,7 +1361,7 @@ r) Ínsua - forma de acumulação sedimentar situada nos leitos dos cursos de á
 
 ## ANEXO IV — Acções insusceptíveis de prejudicar o equilíbrio ecológico das áreas integradas na Reserva Ecológica Nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf))](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/09/17200/65516578.pdf)
 
 ## ANEXO V
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/214/1999/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1999-309002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:08:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5544b54ea23a697491db4401909c5de3764af044ca9faa3d8818923e05ffad89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40f8a4aedce990d5cc87cfa69933f8cbc240a6f51d29f18efba2a2e29146d4d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:08:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
-- Aproximação das Legislações
-- Garantia
-- Cosec
-- Importação
 - Apoio à Exportação
+- Aproximação das Legislações
 - Conselho de Garantias Financeiras
+- Contrato de Seguro
+- Cosec
 - Exportação
+- Garantia
+- Importação
 - Prémio de Seguro
 - Seguro de Créditos
 relationships:
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:517996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517996:por
+  label: "Alterados os arts. 11º, 15º e 16º do Dec Lei 183/88 de 24-Mai, na redacção do presente diploma, pelo DEC LEI.31/2007.14.02.2007.MFAP,\
+    \ DR.IS [32] de 14.02.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/31-2007-517996
+  date: '2007-02-14'
 - type: cites
   target: celex:31973D0391
   label: null
@@ -93,16 +99,22 @@ relationships:
   target: celex:31998L0029
   label: null
   source: http://data.europa.eu/eli/dir/1998/29/oj
+- type: repealed_by
+  target: pt:dre:667484:por
+  label: "Revogado o Dec Lei 126/91 de 22-Mar, com na redacção constante do presente diploma, pelo DEC LEI.51/2006.14.03.2006.MFAP,\
+    \ DR.IS-A [52] de 14.03.2006 e nos termos do art. 10º deste último diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2006-667484
+  date: '2006-03-14'
 article_structure:
-  article_count: 36
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 29
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:08:01Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +157,9 @@ Riscos seguráveis
 
 2 - Os Ministros das Finanças e da Economia podem definir, mediante portaria conjunta, outros riscos susceptíveis de cobertura no âmbito do seguro de créditos.
 
-###### Artigo 4.º — Factos geradores de sinistros
+Artigo 4.º
+
+Factos geradores de sinistros
 
 1 - Constituem factos geradores de sinistro, relativamente ao seguro de créditos:
 
@@ -179,7 +193,9 @@ o) Eventos catastróficos, tais como terramotos, maremotos, erupções vulcânic
 
 2 - Para efeitos do disposto no número anterior, entende-se por 'país terceiro' país que não seja o do devedor nem o da seguradora ou o do titular da apólice.
 
-###### Artigo 5.º — Limites de cobertura
+Artigo 5.º
+
+Limites de cobertura
 
 1 - A cobertura é limitada a uma percentagem do crédito seguro, a estabelecer pela seguradora, salvo no caso de seguros celebrados com a garantia do Estado, em que caberá a este aprovar tal percentagem ou dela prescindir.
 
@@ -187,7 +203,9 @@ o) Eventos catastróficos, tais como terramotos, maremotos, erupções vulcânic
 
 3 - ...
 
-###### Artigo 6.º — Riscos seguráveis
+Artigo 6.º
+
+Riscos seguráveis
 
 1 - ...
 
@@ -197,7 +215,9 @@ o) Eventos catastróficos, tais como terramotos, maremotos, erupções vulcânic
 
 4 - Exceptua-se do referido no n.º 2 a obrigação de caucionar o pagamento de pensões de acidente de trabalho.
 
-###### Artigo 8.º — Contrato de seguro
+Artigo 8.º
+
+Contrato de seguro
 
 1 - Dos contratos de seguro a que se referem os capítulos anteriores deve constar, além do estabelecido no Código Comercial e, bem assim, no n.º 1 do artigo 178.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, e no artigo 13.º do Decreto-Lei n.º 176/95, de 26 de Julho, o seguinte:
 
@@ -211,7 +231,9 @@ d) Prazos de participação do sinistro e de pagamento das indemnizações.
 
 2 - A seguradora tem a faculdade de, na apólice, subordinar a eficácia do seguro a condição, bem como estabelecer prazos constitutivos de sinistro.
 
-###### Artigo 11.º — Prémios
+Artigo 11.º
+
+Prémios
 
 1 - Salvo convenção em contrário, o contrato de seguro só começa a vigorar depois de pago o prémio inicial, independentemente da data fixada na apólice.
 
@@ -219,7 +241,9 @@ d) Prazos de participação do sinistro e de pagamento das indemnizações.
 
 3 - São aplicáveis as disposições legais relativas ao pagamento de prémios não contrariadas pelo presente diploma, nomeadamente o disposto no artigo 23.º do Decreto-Lei n.º 176/95, de 26 de Julho.
 
-###### Artigo 15.º — Garantia do Estado
+Artigo 15.º
+
+Garantia do Estado
 
 1 - A COSEC - Companhia de Seguro de Créditos, S. A., pode beneficiar da prévia garantia do Estado para o seguro dos riscos previstos no n.º 1 do artigo 3.º e no n.º 1 do artigo 6.º, quando estejam em causa factos geradores do sinistro de natureza política, monetária ou catastrófica.
 
@@ -231,7 +255,9 @@ d) Prazos de participação do sinistro e de pagamento das indemnizações.
 
 5 - ...
 
-###### Artigo 16.º — Apólices e prémios
+Artigo 16.º
+
+Apólices e prémios
 
 1 - As condições gerais e especiais, bem como as tarifas de prémios dos contratos de seguro a celebrar com prévia garantia do Estado, são aprovadas por despacho conjunto dos Ministros das Finanças e da Economia, mediante proposta da COSEC e parecer do Conselho de Garantias Financeiras.
 
@@ -301,15 +327,15 @@ Deverão ser propostas ao Governo, no prazo de 60 dias a contar da data da publi
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 27 de Maio de 1999.**
+Promulgado em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 1 de Junho de 1999.**
+Referendado em 1 de Junho de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Princípios comuns aplicáveis ao seguro de créditos à exportação
 
@@ -689,7 +715,9 @@ d) O segurador deve responder imediata e pormenorizadamente a qualquer pedido de
 
 Todas as notificações serão normalmente efectuadas através de um sistema de correio electrónico ou, se necessário, através de qualquer outro meio adequado de comunicação escrita imediata.
 
-## ANEXO II — CAPÍTULO I
+## ANEXO II
+
+### CAPÍTULO I
 
 Âmbito
 

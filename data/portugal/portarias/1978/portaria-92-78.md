@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/92-1978-448360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T05:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5314b6c6357105a4980112604c3b1fac87eb2c8d568a364fb58e0cdd1fcd3662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73e0386bb3ba135d85695e2f905b7e6b7b53517ea1b72196dd12ce32a6f502a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:50:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Habitação Social
+- Plano Geral de Urbanização
+- Prédio Urbano
+- Regulamentação de Atos Legislativos
+- Urbanismo
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:50:11Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +208,7 @@ VII.6 - Instalações eléctricas.
 
 VII.7 - Instalações electro-mecânicas.
 
-### Capítulo VII - Instalações e equipamentos
+Capítulo VII - Instalações e equipamentos
 
 VII.1 - Instalações de distribuição de água
 
@@ -336,7 +346,7 @@ Os edifícios poderão ainda ser equipados com contador-totalizador, para detec�
 
 Quadro VII.1 - 1 - Torneiras de serviço: tipos e quantidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
 
 1.4.1.3 - Os compartimentos para vazamento e para recolha de lixos e os compartimentos para utensílios e produtos de limpeza dos espaços comuns deverão dispor de torneira com dispositivo para adaptação a mangueira e com chave de segredo.
 
@@ -406,13 +416,13 @@ A aplicação de tubagens de plástico encontra-se abrangida pelo artigo 17.º d
 
 Quadro VII.2 - 1 - Calibres mínimos dos ramais de descarga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
 
 2.2.2.2 - Sempre que possível, os elementos do equipamento deverão ser dispostos de forma a dispensar a sua ventilação secundária. Para o efeito, os comprimentos dos respectivos ramais de descarga não deverão, em regra, ser superiores aos valores indicados no quadro VII.2 - 2.
 
 Quadro VII.2 - 2 - Comprimentos máximos dos ramais de descarga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
 
 2.2.2.3 - Quando os comprimentos dos ramais de descarga ultrapassem os valores limite indicados no quadro VII.2 - 2, recorrer-se-á a sifões de piso, os quais não deverão distar dos tubos de queda mais de 1,50 m. A instalação de tais sifões não deverá obrigar ao rebaixamento da laje de piso, salvo se esta solução for justificável sob os pontos de vista técnico e económico.
 
@@ -576,7 +586,7 @@ Os materiais normalmente usados nas adufas são o aço macio, o ferro fundido ou
 
 Os materiais normalmente usados nas condutas de lixo são o betão, o grés cerâmico vidrado ou o fibrocimento, com as seguintes espessuras mínimas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf))](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03900/03630370.pdf)
 
 4.2.3 - Acessórios:
 
@@ -604,4 +614,4 @@ Os materiais normalmente usados nas condutas de lixo são o betão, o grés cer�
 
 4.3.5 - O tubo de ventilação deve ser protegido, no topo superior, por um dispositivo que impeça a penetração de qualquer objecto no seu interior.
 
-**O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.**
+O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.

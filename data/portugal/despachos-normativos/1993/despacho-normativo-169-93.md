@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/169/1993/07/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1993-392648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T08:01:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95445922774968e57f802831f4f5836404ab88d70fdb1fd461141254c22fe497
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f59a0d8111919203fbed04b093e3a0bda441093d72c09d4f03a213d4d10df5c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:01:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/191/1992/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/191/1992/10/13/p/dre
+- type: cites
+  target: pt:dre:225801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442304:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:451190:por
+  label: "Rectificado o sumário e o n.º 1 pela DECL-RECT.193/93.30.09.1993.PCM, DR.IS-B [230]3ºSupl de 30.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/193-1993-451190
+  date: '1993-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:01:29Z'
   warnings: []
   errors: []
 ---

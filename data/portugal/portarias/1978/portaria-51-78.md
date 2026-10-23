@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-1978-448922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T05:42:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a3383dc83261141faff3b6d3f1674eed0e789a61f4750fa947139d22a73921a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c06f5e2bcdf190544c542799cba9ae65743758a5684da73fff25a93731ac008f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:42:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Exame
+- Ensino de Condução
+- Escola de Condução
+- Exame de Condução
+- Examinador
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:363896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:363896:por
+  label: "Alterados os n.ºs 4.º, 7.º e 10.º, bem como o quadro anexo e aditado o n.º 11.º pela PORT.584/79.06.11.1979.MTC,\
+    \ DR.IS [256] de 06.11.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/584-1979-363896
+  date: '1979-11-06'
+- type: cites
+  target: pt:dre:286512:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:42:58Z'
   warnings: []
   errors: []
 ---
@@ -141,6 +157,6 @@ Quadro anexo à Portaria n.º 51/78, de 25 de Janeiro
 
 Número mínimo de lições de frequência obrigatória
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/02100/02360237.pdf))](https://files.diariodarepublica.pt/1s/1978/01/02100/02360237.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/02100/02360237.pdf)
 
-**O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.**
+O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

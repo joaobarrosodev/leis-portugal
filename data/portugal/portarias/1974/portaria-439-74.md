@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 159/1974, 1º Suplemento, Série I de 1974-07-10
   number: '159'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 810-(3) a 810-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15901/00030003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/439-1974-560186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T04:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1e7f43b2c77ca4f4b6c9304a56d24f7fc55e143d34299412269b08394fceff7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91072f167c1a581e6359b7edd3a55d76d3c7f7f406b45e79cb9668689b41f524
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Processo Civil
+- Processo Civil
+- Recurso
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309946:por
+  label: "Alterado o art. 709º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, pelo DEC LEI.128/83.12.03.1983.MJ,\
+    \ DR.IS [59] de 12.03.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/128-1983-309946
+  date: '1983-03-12'
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterado o art. 709.º do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961, na redacção do presente\
+    \ diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: amended_by
+  target: pt:dre:640911:por
+  label: "Alterado, a partir de 01 de Janeiro de 2008, sem prejuízo do disposto nos artigos 11.º, e 12.º, o artigo 709.º,\
+    \ do Código de Processo Civil, aprovado pelo Decreto-Lei 44129, de 28 de Dezembro de 1961, na redacção do presente diploma,\
+    \ pelo DEC LEI.303/2007.24.08.2007.MJ, DR.IS [163] de 24.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-2007-640911
+  date: '2007-08-24'
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:27:24Z'
   warnings: []
   errors: []
 ---

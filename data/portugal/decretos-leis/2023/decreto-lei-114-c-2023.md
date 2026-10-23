@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05
   number: '234'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 136-(2) a 136-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23403/0000200010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/114-c/2023/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:45:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 660598e0a7dd877e02beaabf15246826fdf5d0899cf335d8bc98f8188d76288d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05450a6999c7d7785597fe74a21583b5f666192eef7b43c4344fd2562014f77b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:45:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,18 @@ reuse:
 subjects:
 - Acesso à Informação
 - Aproximação das Legislações
-- Código do Registo Comercial
-- Regulamentação de Atos Legislativos
 - Base de Dados
-- Dados Pessoais
+- Código do Registo Comercial
 - Comércio
+- Dados Pessoais
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:24/2019
+  label: Altera, a partir de 6 de dezembro de 2023, os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 10.º e adita o artigo 6.º-A ao Decreto-Lei
+    n.º 24/2019, de 1 de fevereiro, Diário da República n.º 23/2019, Série I
+  source: null
+  date: '2019-02-01'
 - type: cites
   target: celex:32012L0017
   label: null
@@ -101,6 +107,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/57/2023/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/57/2023/10/10/p/dre
+- type: cites
+  target: pt:dre:118950630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222583129:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32012L0017
   label: null
@@ -114,15 +136,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 24
+  article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:45:48Z'
   warnings: []
   errors: []
 ---
@@ -293,7 +315,9 @@ n) [...];
 
 o) [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -301,7 +325,9 @@ o) [...].
 
 3 - O registo de cessação de atividade do comerciante individual é realizado oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +339,9 @@ b) A existência, na base de dados de inibições e destituições ou nos regist
 
 3 - Além dos casos previstos nos números anteriores, o registo só pode ser recusado se, por falta de elementos ou pela natureza do ato, não puder ser feito como provisório por dúvidas.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -331,7 +359,9 @@ b) A existência, na base de dados de inibições e destituições ou nos regist
 
 8 - A cessação de funções prevista na alínea l) do n.º 1 é averbada oficiosa e gratuitamente, na sequência da comunicação ao Instituto dos Registos e do Notariado, I. P., das decisões de inibição e de destituição para efeitos de integração da informação na base de dados de inibições e destituições.
 
-###### Artigo 78.º-D — [...]
+Artigo 78.º-D
+
+[...]
 
 1 - [...].
 
@@ -373,13 +403,17 @@ Os artigos 1.º a 5.º e 10.º do [Decreto-Lei n.º 24/2019](https://diariodarep
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - O presente decreto-lei é ainda aplicável às pessoas singulares que se encontrem inibidas para o exercício do comércio, para o exercício do cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo ou para a administração de patrimónios alheios.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para os efeitos previstos no presente decreto-lei, o intercâmbio de informação a realizar entre os registos comerciais dos Estados-Membros da União Europeia e a disponibilização da informação pública e dos documentos constantes do registo comercial nacional, previstos na [Diretiva (UE) 2017/1132](https://data.europa.eu/eli/dir/2017/1132/oj?locale=pt) do Parlamento Europeu e do Conselho, de 14 de junho de 2017, na sua redação atual, são efetuados através do sistema de interconexão dos registos centrais, comerciais e das sociedades (Sistema de Interconexão), constituído:
 
@@ -395,7 +429,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As entidades previstas no n.º 1 do artigo 2.º dispõem de um número único de identificação (EUID) que permite a sua identificação inequívoca nas comunicações efetuadas através do Sistema de Interconexão.
 
@@ -405,7 +441,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -431,7 +469,9 @@ d) Nacionalidade;
 
 e) Data e local de nascimento.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Através do Sistema de Interconexão é disponibilizada, sem encargos, sobre as entidades previstas no n.º 1 do artigo 2.º, a seguinte informação:
 
@@ -479,12 +519,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de outubro de 2023. - Mariana Guimarães Vieira da Silva - Jorge Albino Alves Costa.
 
-**Promulgado em 27 de novembro de 2023.**
+Promulgado em 27 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 29 de novembro de 2023.**
+Referendado em 29 de novembro de 2023.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+117126092

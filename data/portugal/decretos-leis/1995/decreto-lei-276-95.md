@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/247a00/66106611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/276/1995/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1995-668293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89962771968e97a8830be8d31b77fd899998dde2ce70f280feeaa14531438c39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fbd8bc2514737aa35ac296636f2c3c696238ac2324eb1f64b75e89a7c90d13a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Formação Profissional
-- Estatuto
 - Carreira Profissional
-- Recrutamento de Pessoal
+- Estágio de Formação
+- Estatuto
+- Formação Profissional
 - Pessoal de BAD
 - Pessoal Técnico Adjunto
 - Pessoal Técnico Superior
 - Qualificação Profissional
-- Estágio de Formação
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
@@ -86,16 +86,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:372613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:15Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +134,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 10.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, passa a ter a seguinte redacção:
 
 ###### Artigo 10.º — Outros requisitos de ingresso nas carreiras de técnico-adjunto de biblioteca e documentação e de arquivo
 
@@ -124,7 +142,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - ...
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Junho, o artigo 11.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Junho, o artigo 11.º-A, com a seguinte redacção:
 
 ###### Artigo 11.º-A — Contagem do tempo de serviço
 
@@ -134,16 +152,16 @@ a) Promoção e progressão, relativamente aos funcionários que, à data da ent
 
 b) De antiguidade na carreira, para os funcionários que, na mesma data, se encontrem providos em lugares de acesso das carreiras mencionadas na alínea precedente.
 
-###### Art. 3.º A mudança de escalão que resulte do disposto na alínea a) do artigo 11.º-A do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, apenas produz efeitos a partir do dia 1 do mês seguinte ao da entrada em vigor do presente diploma.
+Art. 3.º A mudança de escalão que resulte do disposto na alínea a) do artigo 11.º-A do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, apenas produz efeitos a partir do dia 1 do mês seguinte ao da entrada em vigor do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Manuel Castro de Almeida.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

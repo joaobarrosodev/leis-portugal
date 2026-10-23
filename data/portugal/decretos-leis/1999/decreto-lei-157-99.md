@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/108a00/24242435.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/1999/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1999-331179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c550d25b687cc0c0c6cc2f6b5f20fe73fe134ef4cd811a59b207579dfa73e5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07f7b0669b9199cd0c2bc3b21f601dad34dbe635cfc0306fad9e05b9d373e609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Associação de Centros de Saúde
-- Ministro da Saúde
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
 - Centro de Saúde
 - Cuidados Médicos
+- Ministro da Saúde
+- Política de Saúde
+- Saúde Pública
+- Serviço Nacional de Saúde
 - Unidade de Cuidados na Comunidade
 relationships:
 - type: amended_by
   target: pt:dre:107541409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261316:por
+  label: "Alterado o art. 24º pelo DEC LEI.39/2002.2002.02.26.MS, DR.IS-A [48] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2002-261316
+  date: '2002-02-26'
+- type: amended_by
+  target: pt:dre:220169:por
+  label: "Repristinado o presente diploma, com a redacção dada pelo Dec Lei 39/2002 de 26-Fev, pelo DEC LEI.88/2005.03.06.2005.MS,\
+    \ DR.IS-A [107] de 03.06.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2005-220169
+  date: '2005-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -90,16 +101,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:232365:por
+  label: "Revogado com a entrada em vigor do DEC LEI.60/2003.2003.04.01.MS DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2003-232365
+  date: '2003-04-01'
+- type: repealed_by
+  target: pt:dre:640665:por
+  label: "Revogado a partir de 27.08.2007, o art. 12º pelo DEC LEI.298/2007.22.08.2007.MS, DR.IS [161] de 22.08.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-2007-640665
+  date: '2007-08-22'
+- type: repealed_by
+  target: pt:dre:608237:por
+  label: "Revogado, a partir de 16.05.2009, na redacção do Dec Lei 39/2002, de 26-Fev, revogado pelo Dec Lei 60/2003, de 01-Abr\
+    \ e repristinado pelo Dec Lei 88/2005, de 03-Jun, pelo DEC LEI.102/2009.11.05.2009.MS, DR.IS [90] de 11.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-2009-608237
+  date: '2009-05-11'
 article_structure:
   article_count: 60
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:46Z'
   warnings: []
   errors: []
 ---
@@ -800,12 +863,12 @@ O presente diploma entra em vigor 60 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Fevereiro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Francisco Ventura Ramos.
 
-**Promulgado em 21 de Abril de 1999.**
+Promulgado em 21 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1999.**
+Referendado em 29 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

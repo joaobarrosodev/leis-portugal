@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/107/1997/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T01:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5eacffcc0c2a3494745f5f2b8fdce21f6972e91cdddcc5978062b8a98627f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 014237f1971fae2fc8a1493cd1d23ef33dfe642b6e2f4bfdbcc04d2a94ffd5ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Direcção Geral de Informática e Apoio aos Serviços Tributários
 - Direcção Geral dos Impostos
+- Fundo de Estabilização Tributário
 - Fundos Autónomos
 - Ministério das Finanças
-- Fundo de Estabilização Tributário
 - Orgânica
 relationships:
 - type: amended_by
@@ -84,16 +84,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608072:por
+  label: "Revogado o Decreto-Lei n.º 158/96, de 3 de Setembro, na redacção do presente diploma, pelo DEC LEI.47/2005.24.02.2005.MFAP,\
+    \ DR.IS-A [39] de 24.02.2005, nos termos do seu art. 35.º e 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2005-608072
+  date: '2005-02-24'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:48:49Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +152,12 @@ O presente decreto-lei produz efeitos a partir de 31 de Janeiro de 1997.
 
 Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 18 de Abril de 1997.**
+Promulgado em 18 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 22 de Abril de 1997.**
+Referendado em 22 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

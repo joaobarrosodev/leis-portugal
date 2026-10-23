@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1074-1980-459910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 715e05807afc40553760099b84c35191635790b126fc83b5c2b6e37cf7bbb49f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a3623d01d032c5bdf2d9334b8b1c3b7d9d3cf29f04b183fecd69d8a69bcc15d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:09:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CTT
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:215770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368467:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:09:30Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +118,7 @@ Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comuni
 
 3.º O artigo 1.º do Regulamento para o Serviço de Encomendas Postais, aprovado por Decreto de 22 de Agosto de 1911, na redacção que lhe foi dada pelo [Decreto n.º 37132](https://diariodarepublica.pt/dr/detalhe/decreto/37132-1948-368467), de 4 de Novembro de 1948, passa a ter a seguinte redacção:
 
-###### Artigo 1.º Podem transitar pelo correio, sob a designação de encomendas postais, os volumes que satisfaçam as condições de peso e de dimensões a estabelecer pelos CTT.
+Artigo 1.º Podem transitar pelo correio, sob a designação de encomendas postais, os volumes que satisfaçam as condições de peso e de dimensões a estabelecer pelos CTT.
 
 § 1.º O correio aceita ainda, sob a designação de encomendas incómodas, os volumes que excedam as dimensões normais ou que, pelo seu volume, formato ou estrutura, não se possam facilmente acomodar com outras encomendas e, com a denominação de encomendas frágeis, as que contenham objectos que se possam quebrar facilmente ou cuja manipulação exija cuidados especiais.
 

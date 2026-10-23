@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
   number: '81'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 636-(28) a 636-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00280031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-r-1978-656394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:35:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f5672f2304cb5fb86f1f59f6f5ef4384e3d364740cc746faf04fd77b2796b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 542757b92bb5f49b4913ca1a66115c2944a381286bcc014cc5642cf90d7a8a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:35:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- AGA
+- Comércio
+- Embalagem
+- Especificação Técnica
+- Etiquetagem
+- Importação
+- Preço
+- Preço de Venda
+- Refinaria de Açúcar
 relationships:
 - type: amended_by
   target: pt:dre:231344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:255046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515850:por
+  label: "Revogado o n.º 1 do 3.º, os n.ºs 5.º, 10.º, 11.º, 13.º, 14.º, 15.º, e substituída a tabela a que se refere o n.º\
+    \ 4 do n.º 3.º, pela PORT.182/79.11.04.1979.MCT, DR.IS [85]Supl de 11.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-1979-515850
+  date: '1979-04-11'
+- type: repealed_by
+  target: pt:dre:231344:por
+  label: "Revogada pela PORT.762/79.31.12.1979.MCT, DR.IS [300]8ºSupl de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/762-1979-231344
+  date: '1979-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:35:04Z'
   warnings: []
   errors: []
 ---
@@ -301,6 +342,6 @@ Secretaria de Estado do Comércio Interno, 4 de Abril de 1978. - O Secretário d
 
 Tabela de variação do preço da rama a que se refere o n.º 4 do n.º 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08102/00280031.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08102/00280031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08102/00280031.pdf)
 
-**O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.**
+O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

@@ -48,36 +48,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/109-1985-172146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T07:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38a794120f468f930f9e140fdce7e001d4825ea4991eaae232db9f8a00a2299e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 038ad2e59bae52245aa754a400603e4b23979f076d478714375fd0029784d474
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Azeite
+- Instituto do Azeite e Produtos Oleaginosos
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:31:19Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +105,7 @@ Ao abrigo do disposto na alínea l) do n.º 1 do artigo 3.º do [Decreto-Lei n.�
 
 1 - O Instituto do Azeite e Produtos Oleaginosos adquirirá o azeite virgem da campanha de 1985-1986 com acidez não superior a 14º, que satisfaça a respectiva norma e que os produtores lhe proponham para venda, aos preços seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/11/26600/38563856.pdf))](https://files.diariodarepublica.pt/1s/1985/11/26600/38563856.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/11/26600/38563856.pdf)
 
 a) Entende-se por azeite não lampante o azeite de acidez não superior a 3,3º e caracteres organolépticos normais.
 

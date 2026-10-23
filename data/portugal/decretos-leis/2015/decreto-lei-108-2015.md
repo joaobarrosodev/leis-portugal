@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11600/0390403925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/108/2015/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2015-67507927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf8d8251cefb403049dcc8fa2dc7c104d1d795e5adc616f6bfccdbd66c662a86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be7fd6ba027762abeb6469d507644f6b85f4f2cdc9a9078f3e2b5c13df208e9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso ao Emprego
-- Grupo Desfavorecido
-- Financiamento
-- Instituto do Emprego e Formação Profissional
-- Centro de Emprego Protegido
-- Formação Profissional
-- Marca
 - Barreira Arquitectónica
+- Centro de Emprego Protegido
+- Criação de Emprego
+- Deficiente
+- Emprego
 - Emprego Protegido
 - Empresa de Inserção
-- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
-- Igualdade de Oportunidades
-- Inserção Profissional
-- Criação de Emprego
-- Mercado de Emprego
+- Financiamento
+- Formação Profissional
 - Fórum para a Integração Profissional
+- Grupo Desfavorecido
+- Igualdade de Oportunidades
 - Incapacidade Física
-- Qualificação Profissional
-- Programa de Inserção
-- Emprego
-- Promoção de Emprego
+- Inserção Profissional
+- Instituto do Emprego e Formação Profissional
+- Marca
+- Mercado de Emprego
+- Mercado do Trabalho
 - Política de Emprego
+- Programa de Emprego e Apoio à Qualificação das Pessoas com Deficiências e Incapacidades
+- Programa de Inserção
+- Promoção de Emprego
+- Qualificação Profissional
 - Reconversão Profissional
 - Regime Jurídico
-- Mercado do Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
@@ -130,16 +130,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/2014/06/26/p/dre
+- type: cites
+  target: pt:dre:151559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66325237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
 article_structure:
-  article_count: 141
+  article_count: 104
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:28Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +258,9 @@ d) [Revogada.]
 
 3 - O presente decreto-lei cria a Marca Entidade Empregadora Inclusiva.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A concessão dos apoios financeiros às entidades promotoras das medidas previstas no presente decreto-lei, nos termos definidos nos capítulos seguintes e na respetiva regulamentação, depende do preenchimento, desde a data da candidatura e durante o respetivo período de concessão, dos seguintes requisitos:
 
@@ -220,7 +290,9 @@ c) A interligação com a plataforma de interoperabilidade da Administração P�
 
 3 - No âmbito dos procedimentos administrativos previstos no presente decreto-lei, os requerentes podem solicitar a dispensa da apresentação dos documentos em posse de qualquer serviço ou organismo da Administração Pública, nos termos do artigo 28.º-A do [Decreto-Lei n.º 135/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1999-534640), de 22 de abril, alterado pelos [Decretos-Leis n.os 29/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2000-410918), de 13 de março, [72-A/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), de 18 de junho, e [73/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2014-25343691), de 13 de maio.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -232,7 +304,9 @@ c) A interligação com a plataforma de interoperabilidade da Administração P�
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -242,7 +316,9 @@ c) A interligação com a plataforma de interoperabilidade da Administração P�
 
 4 - A frequência de ações, pelos destinatários previstos no n.º 4 do artigo 6.º, pode ser precedida de uma fase prévia destinada à recuperação e atualização de competências pessoais e sociais, com uma duração máxima de 800 horas, a acrescer às horas previstas para as ações de qualificação, nos termos dos n.os 2 e 3 do presente artigo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -250,37 +326,51 @@ c) A interligação com a plataforma de interoperabilidade da Administração P�
 
 3 - Os centros de emprego ou centros de emprego e formação profissional podem também solicitar às entidades formadoras que desenvolvem ações de qualificação previstas no capítulo II que realizem ações de acompanhamento pós-colocação, pelo período máximo de 12 meses, relativamente aos seus formandos que fiquem empregados no final da formação, em termos equiparados às ações desenvolvidas pelos centros de recursos.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As ações de informação, avaliação e orientação para a qualificação e o emprego, a colocação e o acompanhamento pós-colocação realizadas nos termos previstos nos n.os 2 e 3 do artigo anterior são desenvolvidas pelos centros de recursos ou pelas entidades formadoras em estreita articulação com o respetivo centro de emprego ou centro de emprego e formação profissional.
 
 2 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 São destinatários da medida prevista na presente secção as pessoas com deficiência e incapacidade, inscritas nos centros de emprego ou centros de emprego e formação profissional, incluindo as que solicitem apoio financeiro ao IEFP, I. P., para aquisição de produtos de apoio e os trabalhadores em regime de emprego apoiado, para efeitos de avaliação da capacidade de trabalho, prevista nos artigos 72.º e seguintes.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 As ações de informação, avaliação e orientação para a qualificação e o emprego têm um período máximo de duração de quatro meses.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As ações de apoio à colocação têm um período máximo de duração de 12 meses.
 
 2 - A contagem do prazo referido no número anterior suspende-se caso o destinatário seja integrado num estágio ou num contrato emprego-inserção que constitua uma etapa prévia do processo de inserção profissional, podendo ser retomada logo que este termine.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 São destinatários do acompanhamento pós-colocação trabalhadores com deficiência e incapacidade, por conta própria ou de outrem, que necessitem de apoio para a manutenção ou progressão no emprego, bem como empregadores que admitam trabalhadores com estas características ou que mantenham ao seu serviço trabalhadores que tenham adquirido deficiência.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O período máximo de duração das ações de acompanhamento pós-colocação é de 12 meses, podendo ser prorrogado até ao limite de 24 meses, em situações excecionais, designadamente, no caso de pessoas com deficiências ao nível das funções mentais, desde que devidamente justificado.
 
 2 - [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O acompanhamento pós-colocação é ainda aplicável, com as necessárias adaptações, aos destinatários inseridos em estágios financiados pelo IEFP,I. P., em qualquer das modalidades de contrato emprego-inserção ou no emprego apoiado em mercado aberto.
 
@@ -290,7 +380,9 @@ a) [...]
 
 b) Emprego apoiado em mercado aberto, 36 meses, podendo ser prorrogado, anualmente, quando existam razões fundamentadas.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...].
 
@@ -314,15 +406,21 @@ b) [...].
 
 6 - [Revogado.]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 Os apoios à adaptação de postos de trabalho e eliminação de barreiras arquitetónicas visam promover a integração socioprofissional da pessoa com deficiência e incapacidade no mercado normal de trabalho ou a manutenção do emprego nos casos de deficiência e incapacidade adquirida, nomeadamente através de apoios que compensem os empregadores dos encargos decorrentes da sua contratação ou manutenção no emprego.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Constituem destinatários dos apoios à adaptação de postos de trabalho e à eliminação de barreiras arquitetónicas as pessoas com deficiência e incapacidade desempregadas ou à procura do primeiro emprego, inscritas nos centros de emprego ou nos centros de emprego e formação profissional, bem como os trabalhadores que adquiram deficiência e incapacidade no decurso da sua vida profissional.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -334,7 +432,9 @@ b) [...]
 
 c) [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O IEFP, I. P., concede apoio financeiro para adaptação de postos de trabalho aos empregadores de direito privado ou de direito público que não façam parte da administração direta do Estado que necessitem de adaptar o equipamento ou o posto de trabalho às dificuldades funcionais do trabalhador, nos seguintes casos:
 
@@ -354,7 +454,9 @@ b) Manutenção do emprego do trabalhador que tenha adquirido deficiência e inc
 
 7 - O apoio para adaptação do posto de trabalho sob a forma de subsídio não reembolsável, é pago de uma só vez.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...].
 
@@ -366,7 +468,9 @@ b) Manutenção do emprego do trabalhador que tenha adquirido deficiência e inc
 
 5 - Para efeitos do presente artigo é aplicável o disposto nos n.os 2 e 7 do artigo anterior.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A cessação do contrato de trabalho, antes do fim do respetivo prazo, inicial ou subsequente, ou nos três anos subsequentes à admissão do trabalhador, no caso de contratos sem termo, ou da atribuição do apoio, no caso da manutenção do emprego, determina a devolução do apoio concedido, nas seguintes situações:
 
@@ -378,7 +482,9 @@ c) [...].
 
 2 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 [...]:
 
@@ -390,7 +496,9 @@ c) Emprego protegido;
 
 d) Emprego apoiado em mercado aberto.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - [...].
 
@@ -398,33 +506,45 @@ d) Emprego apoiado em mercado aberto.
 
 3 - A comparticipação financeira prevista no presente artigo pode ser efetuada com base na modalidade de custos unitários, por mês e por beneficiário, nos termos previstos no regime jurídico do «Contrato emprego-inserção» e do «Contrato emprego-inserção +».
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Considera-se emprego protegido a atividade profissional desenvolvida por pessoas com deficiência e incapacidade e com capacidade de trabalho reduzida em estruturas produtivas dos setores primário, secundário ou terciário, com personalidade jurídica própria ou as estruturas de pessoas coletivas de direito público ou privado, dotadas de autonomia administrativa e financeira e denominados centros de emprego protegido.
 
 2 - Os centros de emprego protegido são criados especificamente para proporcionar às pessoas com deficiência e incapacidade e com capacidade de trabalho reduzida o exercício de uma atividade profissional e o desenvolvimento de competências pessoais, sociais e profissionais necessárias à sua integração, sempre que possível, em regime normal de trabalho ou em emprego apoiado em mercado aberto.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 O emprego protegido destina-se a pessoas com deficiência e incapacidade, inscritas em centros de emprego ou centros de emprego e formação profissional, com capacidade de trabalho não inferior a 30 % nem superior a 75 % da capacidade normal de trabalho de um trabalhador nas mesmas funções profissionais.
 
-###### Artigo 47.º — Criação de centros de emprego protegido
+Artigo 47.º
+
+Criação de centros de emprego protegido
 
 1 - [...].
 
 2 - [...].
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - Considera-se emprego apoiado em mercado aberto a atividade profissional desenvolvida por pessoas com deficiência e incapacidade e capacidade de trabalho reduzida, em postos de trabalho em regime de contrato de emprego apoiado, integrados na organização produtiva ou de prestação de serviços dos empregadores, sob condições especiais, designadamente sob a forma de enclaves.
 
 2 - [...].
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 O emprego apoiado em mercado aberto destina-se a pessoas com deficiência e incapacidade, inscritas nos centros de emprego ou centros de emprego e formação profissional, com capacidade de trabalho não inferior a 30 % nem superior a 90 % da capacidade normal de trabalho de um trabalhador nas mesmas funções profissionais.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...].
 
@@ -442,13 +562,17 @@ a) [...]
 
 b) [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - A presente secção regula as relações estabelecidas entre as pessoas com deficiência e incapacidade inseridas nas modalidades de emprego protegido e de emprego apoiado em mercado aberto.
 
 2 - [...].
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - [...].
 
@@ -458,7 +582,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - A comparticipação prevista nos n.os 1 e 2 do artigo anterior é atribuída de acordo com os seguintes escalões, sem prejuízo do disposto no número seguinte:
 
@@ -476,7 +602,9 @@ d) Escalão 4, capacidade de trabalho entre 30 % e 44 %, 70 % da retribuição a
 
 4 - A comparticipação prevista no presente artigo é paga através de adiantamentos semestrais, com acerto de contas no semestre seguinte, salvo durante o período de estágio em que é paga através de reembolsos mensais.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - O apoio financeiro previsto no artigo anterior é atribuído até que o trabalhador transite para o regime normal de trabalho ou atinja uma capacidade de trabalho superior a 75 % ou 90 % da capacidade normal exigida a outro trabalhador nas mesmas funções profissionais, consoante se trate de emprego protegido ou emprego apoiado em mercado aberto, respetivamente, salvo o previsto nos números seguintes.
 
@@ -486,7 +614,9 @@ d) Escalão 4, capacidade de trabalho entre 30 % e 44 %, 70 % da retribuição a
 
 4 - Quando na sequência da revisão da avaliação prevista na alínea b) do n.º 1 do artigo 77.º, se passe a aplicar a comparticipação prevista para o 1.º escalão na alínea a) do n.º 1 do artigo anterior, deve ser promovida nova revisão no final do respetivo período de concessão, previsto no número anterior.
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - O trabalhador com deficiência e incapacidade integrado em regime de emprego apoiado é avaliado periodicamente, por forma a alterar ou cessar o apoio referido nos artigos 69.º e 70.º, nos seguintes termos:
 
@@ -504,7 +634,9 @@ c) No caso previsto no n.º 4 do artigo 71.º
 
 5 - [...].
 
-###### Artigo 78.º — Natureza e objetivos
+Artigo 78.º
+
+Natureza e objetivos
 
 1 - A Marca Entidade Empregadora Inclusiva destina-se a promover o reconhecimento e distinção pública de práticas de gestão abertas e inclusivas, desenvolvidas por entidades empregadoras relativamente às pessoas com deficiência e incapacidade.
 
@@ -520,21 +652,29 @@ d) Serviço e relação com a comunidade.
 
 3 - A Marca é atribuída por decisão de um júri.
 
-###### Artigo 79.º — Níveis de distinção
+Artigo 79.º
+
+Níveis de distinção
 
 1 - A Marca é atribuída às entidades que, nos dois anos anteriores ao da candidatura, evidenciem práticas de gestão aberta e inclusiva, relativamente às pessoas com deficiência e incapacidade, em, pelo menos, um dos domínios previstos no n.º 2 do artigo anterior relativamente ao período a que se reporta a candidatura.
 
 2 - Às entidades a quem seja atribuída a Marca e que se destaquem por práticas exemplares em todos os domínios identificados no n.º 2 do artigo anterior é atribuída a Marca Entidade Empregadora Inclusiva - Excelência.
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 Podem candidatar-se à atribuição da Marca os empregadores dos setores público, privado, cooperativo e da economia social, bem como pessoas com deficiência e incapacidade envolvidas na criação de empresas, como empreendedores, ou do próprio emprego.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 O regulamento da atribuição da Marca, respetivas condições de acesso e o júri são estabelecidos por despacho do membro do Governo responsável pelas áreas do emprego e da formação profissional.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - [...].
 
@@ -546,7 +686,9 @@ a) Depende da reunião das condições técnicas necessárias à tramitação de
 
 b) Compete ao IEFP, I. P., promover a reunião das condições técnicas referida nesses números.
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - O disposto nos n.os 1 e 3 do artigo 8.º, no n.º 3 do artigo 12.º, no n.º 2 do artigo 28.º, no artigo 29.º, nos artigos 81.º e 89.º e no n.º 6 do artigo 90.º, é objeto de regulamentação através de despacho do membro do Governo responsável pelas áreas do emprego e da formação profissional.
 
@@ -588,15 +730,15 @@ Sem prejuízo do disposto no presente decreto-lei, ao incumprimento das obrigaç
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Anabela Maria Pinto de Miranda Rodrigues - Sérgio Paulo Lopes da Silva Monteiro - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 3 de junho de 2015.**
+Promulgado em 3 de junho de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 4 de junho de 2015.**
+Referendado em 4 de junho de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

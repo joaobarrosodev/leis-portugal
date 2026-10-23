@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/483-1979-370603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T05:59:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d793b75bc52ac0b5140ec79564aaf96e1aac991305da3de67782d7730df6717b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77c871d05e1c9a4663468d2a1853f845005679381855bd58ad482b5227f88463
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:59:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Álcool
+- Preço
 relationships:
 - type: amended_by
   target: pt:dre:408699:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565034:por
+  label: "Alterados os n.ºs 4.º e 6.º, n.º 1 pelo DN.231/81.09.09.1981.MCT, DR.IS [207] de 09.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/231-1981-565034
+  date: '1981-09-09'
+- type: amended_by
+  target: pt:dre:308507:por
+  label: "Aditado o n.º 9.º-A pela PORT.85/83.27.01.1983.MACP, DR.IS [22] de 27.01.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/85-1983-308507
+  date: '1983-01-27'
+- type: cites
+  target: pt:dre:280690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:182823:por
+  label: "Revogado o nº 7 do presente diploma pela PORT.460/85.24.06.1985.MCT, DR.IS [159] de 13.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-1985-182823
+  date: '1985-06-24'
+- type: repealed_by
+  target: pt:dre:408699:por
+  label: "Revogada pela PORT.1235/92.31.12.1992.MCT, DR.IS-B [301] de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1235-1992-408699
+  date: '1992-12-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:59:40Z'
   warnings: []
   errors: []
 ---
@@ -142,13 +176,13 @@ e) Outros industriais utilizadores de álcool no seu processo de fabrico não in
 
 4.º Os preços de venda de álcool etílico a praticar pela AGA - Administração-Geral do Açúcar e do Álcool, E. P., por litro, são os constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf)
 
 5.º A venda de álcool etílico pela AGA nos termos dos números anteriores é limitada às entidades cujo contingente anual de álcool não seja inferior a 100 l.
 
 6.º - 1 - Os preços de venda ao público no continente são os constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf))](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/09/20700/22342235.pdf)
 
 2 - Os preços a que se refere o n.º 1 incluem todas as importâncias correspondentes aos encargos de comercialização, abrangendo o lucro e o imposto de transacções.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/21/2003/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2003-209042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e428ed29bf0ca60e354fa397e6951d881e8f71488cd177e73e142c9cc40d090
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d98a0ac750e2a2d9d374b9061dc4e4138b5ac2a376a092b90e1db204ca1ce2aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,28 +72,39 @@ subjects:
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
+- Porto
 - Teatro Nacional de são JOÃO
 - Transferência de Verbas
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:521023:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:521023:por
+  label: "Determinada a sucessão, do Teatro Nacional de São João, E.P.E., relativamente às atribuições do Teatro Nacional\
+    \ de São João, no que toca ao Auditório Nacional Carlos Alberto, para os efeitos previstos no n.º 1 do artigo 1.º do presente\
+    \ diploma pelo DEC LEI.159/2007.27.04.2007.MC, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2007-521023
+  date: '2007-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/149/1998/05/25/p/dre
+- type: cites
+  target: pt:dre:457224:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:03Z'
   warnings: []
   errors: []
 ---
@@ -136,12 +147,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Pedro Manuel da Cruz Roseta.
 
-**Promulgado em 17 de Janeiro de 2003.**
+Promulgado em 17 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 24 de Janeiro de 2003.**
+Referendado em 24 de Janeiro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/64/1997/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/64-1997-653147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T04:25:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d90368b06c61e2417725330e275e1afc0af693647bac1854b946da9d30b6f5f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04729fe2bf593446273ea24735c517bee0279f675a9aeca2e010feed9a5bf8e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:25:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,45 +69,54 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Base de Dados
+- Bruxelas
 - CE Países
 - Comunidade Europeia
+- Confidencialidade
 - Convenção
-- Portugal
-- Documentação Classificada
-- Estatuto Jurídico
-- Segurança Pública
-- Europol
 - Cooperação Policial
-- Base de Dados
+- Documentação Classificada
 - Droga
+- Estatuto Jurídico
+- Europol
 - Orçamento
 - Parlamento Europeu
-- Sistema de Informação
-- Confidencialidade
+- Portugal
 - Responsabilidade do Estado
 - Segredo Profissional
+- Segurança Pública
+- Sistema de Informação
 - Tratado da União Europeia
-- Bruxelas
 - Tribunal de Justiça CE
 relationships:
 - type: amended_by
   target: pt:dre:165423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:165423:por
+  label: "Ratificado o Protocolo pelo DEC.67/99.1999.02.24.PR, DR.IS-A [46] de 24/fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/67-1999-165423
+  date: '1999-02-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/60/1997/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/60/1997/09/19/p/dre
+- type: cites
+  target: pt:dre:653144:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:25:00Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +125,7 @@ validation:
 
 de 19 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição o seguinte:**
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição o seguinte:
 
 ###### Artigo 1.º
 
@@ -130,12 +139,12 @@ a) Aceitar a competência do Tribunal de Justiça das Comunidades Europeias de a
 
 b) Reservar o direito de dispor na sua legislação nacional que, sempre que uma questão relativa à interpretação da Convenção EUROPOL seja suscitada em processo pendente perante um órgão jurisdicional nacional cujas decisões não sejam susceptíveis de recurso judicial previsto no direito interno, esse órgão é obrigado a submeter a questão ao Tribunal de Justiça das Comunidades Europeias.
 
-**Assinado em 29 de Agosto de 1997.**
+Assinado em 29 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Setembro de 1997.**
+Referendado em 3 de Setembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

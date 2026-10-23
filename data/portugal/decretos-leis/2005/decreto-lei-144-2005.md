@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/144/2005/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2005-245284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf61902be1f1f1f8f42113f53ea32a2ffa3db8bb9e310ac67f8ba8a63a95b403
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bc4195054aaa3b54e0203057a26891fe3c1746c36ef2debc4f66afbf42d4da7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agricultor
 - Aproximação das Legislações
 - Catálogo Nacional de Variedades
-- Multa
-- Organismo Geneticamente Modificado
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
 - Direcção Geral de Protecção das Culturas
@@ -81,18 +81,43 @@ subjects:
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
 - Licenciamento
+- Multa
+- Organismo Geneticamente Modificado
+- Produção Agrícola
+- Produto Agrícola
 - Produto Hortícola
 - Produtor
-- Agricultor
-- Produção Agrícola
 - Semente
-- Comércio
-- Produto Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:334276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518415:por
+  label: "Alterados os arts. 19º e 28º e os anexos I e II do presente diploma pelo DEC LEI.62/2007.14.03.2007.MADRP, DR.IS\
+    \ [52] de 14.03.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2007-518415
+  date: '2007-03-14'
+- type: amended_by
+  target: pt:dre:636178:por
+  label: "Alterado o anexo iv pelo DEC LEI.260/2007.17.07.2007.MADRP, DR.IS [136] de 17.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2007-636178
+  date: '2007-07-17'
+- type: amended_by
+  target: pt:dre:601371:por
+  label: "Alterados, com efeitos a 01.04.2009, os arts. 25.º, 29.º, 34.º, 39.º, 41.º, bem como o anexo II (este na redacção\
+    \ do Dec Lei 62/2007 de 14-Mar), todos do presente diploma, pelo DEC LEI.38/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/38-2009-601371
+  date: '2009-02-10'
+- type: amended_by
+  target: pt:dre:490452:por
+  label: "Determinado que o regime de derrogações previsto no art. 2º do Dec Lei 257/2009, de 24-Set, seja aplicável e prevaleça\
+    \ sobre o Dec Lei 154/2004, de 30-Jun, na redacção do presente diploma, pelo DEC LEI.257/2009.24.09.2009.MADRP, DR.IS\
+    \ [186] de 24.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2009-490452
+  date: '2009-09-24'
 - type: cites
   target: celex:31966L0401
   label: null
@@ -137,16 +162,21 @@ relationships:
   target: celex:32004L0117
   label: null
   source: http://data.europa.eu/eli/dir/2004/117/oj
+- type: repealed_by
+  target: pt:dre:334276:por
+  label: "Revogado, a partir de 25.07.2010, pelo DEC LEI.88/2010.20.07.2010.MADRP, DR.IS [139] de 20.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2010-334276
+  date: '2010-07-20'
 article_structure:
   article_count: 46
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:24Z'
   warnings: []
   errors: []
 ---
@@ -1019,19 +1049,19 @@ Todas as referências feitas para os diplomas que agora se revogam consideram-se
 
 Visto e aprovado em Conselho de Ministros de 14 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Luís Medeiros Vieira - Francisco Ventura Ramos.
 
-**Promulgado em 2 de Agosto de 2005.**
+Promulgado em 2 de Agosto de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Agosto de 2005.**
+Referendado em 4 de Agosto de 2005.
 
 Pelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna.
 
 ## ANEXO I — Regulamento técnico da produção e certificação de sementes de cereais
 
-# Parte A
+Parte A
 
 Espécies abrangidas e categorias de semente
 
@@ -1091,7 +1121,7 @@ Semente base;
 
 Semente certificada.
 
-# Parte B
+Parte B
 
 Condições a satisfazer pelas culturas
 
@@ -1109,7 +1139,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 2.2 - Nas culturas destinadas à produção de sementes certificadas de híbridos de Avena sativa, Hordeum vulgare, Oryza sativa, Triticum aestivum, T. durum, T. spelta e X Triticosecale autogâmico o componente feminino deve estar a uma distância mínima de 25 m de qualquer outra variedade da mesma espécie, excepto de uma cultura do progenitor masculino.
 
@@ -1259,7 +1289,7 @@ Produção de semente pré-base e base: 0;
 
 Produção de semente certificada: 1 por 50 m2.
 
-# Parte C
+Parte C
 
 Controlo dos lotes de semente produzida
 
@@ -1273,7 +1303,7 @@ QUADRO I
 
 Normas para a presença de Claviceps purpúrea
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4 - Normas e tolerâncias - a semente a certificar deve estar de acordo com os limites ou outras condições no que se refere à germinação, semente pura e teor máximo em número de sementes de outras espécies de plantas, incluindo grãos vermelhos de arroz, de acordo com o disposto no quadro seguinte:
 
@@ -1281,7 +1311,7 @@ QUADRO II
 
 Normas e tolerâncias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 5 - O peso dos lotes e das amostras para as determinações laboratoriais deve obedecer ao disposto no quadro seguinte:
 
@@ -1289,7 +1319,7 @@ QUADRO III
 
 Peso máximo dos lotes e peso mínimo das amostras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 Nota. - O peso máximo do lote apenas pode ser excedido em 5%.
 
@@ -1301,7 +1331,7 @@ Se quando sujeita a um exame oficial uma amostra de pelo menos 3 kg retirada do 
 
 ## ANEXO II — Regulamento técnico da produção e certificação de sementes de espécies forrageiras
 
-# Parte A
+Parte A
 
 Espécies abrangidas e categorias de semente
 
@@ -1485,7 +1515,7 @@ Semente comercial: a esta categoria não são admitidos lotes de sementes das es
 
 3 - Para as espécies Trifolium subterraneum, Medicago littoralis, M. polymorpha, M. rugosa, M. scutellata, M. tornata e M. truncatula, em virtude da sua capacidade de auto-sementeira, cujas sementes possuem períodos de dormência variáveis, e tendo em conta que pode ser difícil identificar a geração da semente produzida, pelo que nestas situações a semente obtida resulta de mistura de gerações, os lotes assim resultantes devem ser identificados por etiqueta de cor vermelha, na qual é impressa em vez da categoria a menção «Mistura de gerações», devendo a semente obedecer aos requisitos estabelecidos para a categoria certificada.
 
-# Parte B
+Parte B
 
 Condições a satisfazer pelas culturas
 
@@ -1507,7 +1537,7 @@ QUADRO I
 
 Espécies antecedentes interditas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4 - Isolamento:
 
@@ -1517,7 +1547,7 @@ QUADRO II
 
 Distâncias de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4.2 - No caso de a cultura não se destinar a posteriores multiplicações, podem ser usadas distâncias de isolamento mais reduzidas do que as referidas no quadro II, sendo que nestes casos deve ser indicada na etiqueta desses lotes a menção «Multiplicação não autorizada».
 
@@ -1547,7 +1577,7 @@ QUADRO III
 
 Limites máximos de presença de outras variedades da mesma espécie ou fora do tipo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 8.2 - No caso de variedades de Pisum sativum e Vicia faba, os limites máximos de plantas de outras variedades ou fora do tipo admitidas nos campos de multiplicação são os seguintes:
 
@@ -1571,7 +1601,7 @@ Produção de semente pré-base e base: 1 por 50 m2;
 
 Produção de semente certificada: 1 por 1 por 10 m2.
 
-# Parte C
+Parte C
 
 Controlo dos lotes de semente produzida
 
@@ -1599,7 +1629,7 @@ QUADRO I
 
 Normas e tolerâncias para as categorias de semente certificada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 QUADRO II
 
@@ -1607,7 +1637,7 @@ Normas e tolerâncias para as sementes pré-base e base
 
 (sem prejuízo das normas e tolerâncias indicadas no presente quadro, aplicam-se as normas e tolerâncias do quadro I)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4 - Semente comercial:
 
@@ -1643,11 +1673,11 @@ QUADRO III
 
 Peso dos lotes e das amostras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 Nota. - O peso máximo do lote apenas pode ser excedido em 5%.
 
-# Parte D
+Parte D
 
 Certificação de misturas de sementes
 
@@ -1691,7 +1721,7 @@ Nenhum componente pode estar presente numa proporção inferior a 5% em peso.
 
 9 - Os lotes são considerados em reserva 10 meses após a data de amostragem constante na etiqueta oficial, devendo o produtor ou acondicionador de sementes solicitar à DGPC a revisão da faculdade germinativa, sendo recusados os lotes em que pelo menos um dos componentes apresente valores de faculdade germinativa inferior à regulamentar.
 
-# Parte E
+Parte E
 
 Acondicionamento em pequenas embalagens
 
@@ -1705,7 +1735,7 @@ Em «pequena embalagem CE B», ou seja, quando a embalagem contém sementes de e
 
 ## ANEXO III — Regulamento técnico da produção e certificação de sementes de beterrabas
 
-# Parte A
+Parte A
 
 Espécies abrangidas e categorias de semente
 
@@ -1725,7 +1755,7 @@ Semente monogérmica - as sementes geneticamente monogérmicas;
 
 Sementes de precisão - as sementes destinadas aos semeadores mecânicos de precisão e que originam uma única plântula.
 
-# Parte B
+Parte B
 
 Condições a satisfazer pelas culturas
 
@@ -1743,7 +1773,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 3 - Inspecção de campo - os campos de produção de sementes são inspeccionados ao longo do ciclo cultural pelo menos duas vezes, uma das quais incidindo sobre as plantas jovens e a outra à floração.
 
@@ -1751,7 +1781,7 @@ Distâncias de isolamento
 
 5 - Pureza varietal - na determinação da pureza varietal o limite máximo de plantas fora de tipo é de 2%, sendo consideradas como plantas fora de tipo as plantas pertencentes a uma outra espécie ou subespécie, os híbridos naturais com uma outra subespécie e as plantas manifestamente diferentes da variedade.
 
-# Parte C
+Parte C
 
 Controlo dos lotes de semente produzida
 
@@ -1765,13 +1795,13 @@ QUADRO I
 
 Normas e tolerâncias admitidas para todas as categorias de semente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4 - As sementes de beterraba não podem ser introduzidas em zonas reconhecidas como «indémicas de rizomania», a menos que a percentagem em peso da matéria inerte não ultrapasse 0,5%.
 
 5 - A presença de organismos nocivos que reduzam o valor de utilização das sementes é tolerada no limite mais baixo possível.
 
-# Parte D
+Parte D
 
 Acondicionamento em pequenas embalagens
 
@@ -1785,7 +1815,7 @@ Pequenas embalagens CE de sementes que não sejam monogérmicas ou de precisão,
 
 ## ANEXO IV — Regulamento técnico da produção e certificação de sementes de espécies hortícolas
 
-# Parte A
+Parte A
 
 Espécies abrangidas e categorias de semente
 
@@ -1903,7 +1933,7 @@ Semente certificada,
 
 Semente standard - a esta categoria não são admitidos lotes de sementes de chicória industrial.
 
-# Parte B
+Parte B
 
 Controlo dos campos de multiplicação
 
@@ -1921,7 +1951,7 @@ QUADRO I
 
 Distâncias de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 5 - Inspecção de campo:
 
@@ -1947,7 +1977,7 @@ Categoria de semente certificada e standard - 3%.
 
 6.2 - No caso de espécies alogâmicas, as culturas devem possuir suficiente identidade e pureza varietal.
 
-# Parte C
+Parte C
 
 Controlo dos lotes de sementes produzidas
 
@@ -1975,7 +2005,7 @@ QUADRO I
 
 Normas e tolerâncias para todas as categorias de semente
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 7 - Os pesos mínimos das amostras para as determinações da semente pura, teor máximo de sementes de outras espécies e germinação mínima, são os constantes do quadro seguinte:
 
@@ -1983,11 +2013,11 @@ QUADRO II
 
 Peso mínimo das amostas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 7.1 - Para as variedades híbridas das espécies acima citadas, o peso mínimo da amostra pode ser reduzido até um quarto do peso fixo; contudo, a amostra deve ter, pelo menos, 5 g de peso e conter, no mínimo, 400 sementes.
 
-# Parte D
+Parte D
 
 Acondicionamento das sementes em pequenas embalagens e embalagens de semente standard
 
@@ -2003,7 +2033,7 @@ Acondicionamento das sementes em pequenas embalagens e embalagens de semente sta
 
 ## ANEXO V — Regulamento técnico da produção e certificação de sementes de espécies oleaginosas e fibrosas
 
-# Parte A
+Parte A
 
 Espécies abrangidas e categorias de semente
 
@@ -2061,7 +2091,7 @@ Certificada de 3.ª geração, para lotes de semente de Linum usitatissimum;
 
 Semente comercial - a esta categoria não são admitidos lotes de sementes das espécies identificadas com (x) no número anterior.
 
-# Parte B
+Parte B
 
 Condições a satisfazer pelas culturas
 
@@ -2089,7 +2119,7 @@ QUADRO I
 
 Distâncias mínimas de isolamento
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 4 - O estado cultural, o desenvolvimento da cultura do campo de multiplicação de sementes e o respectivo grau de limpeza de infestantes devem permitir uma inspecção satisfatória por forma a não impossibilitar a avaliação da identidade, pureza varietal e específica e estado sanitário das plantas, que a verificar-se implica a reprovação do campo de multiplicação.
 
@@ -2229,7 +2259,7 @@ Para a semente certificada: 1%.
 
 10 - Quando for o caso, a avaliação do grau de contaminação de qualquer dos organismos nocivos presentes na cultura, referidos no número anterior, deve ser realizada nos lotes de sementes produzidos nesse campo de multiplicação.
 
-# Parte C
+Parte C
 
 Controlo dos lotes de semente produzida
 
@@ -2239,7 +2269,7 @@ QUADRO I
 
 Normas e tolerâncias
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 2 - Estado sanitário dos lotes de sementes:
 
@@ -2251,7 +2281,7 @@ QUADRO II
 
 Organismos nocivos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 3 - No caso de Glycine max, em particular para os organismos Pseudomonas syringae pv. glycinea e Diaporthe phasealorum, as condições a satisfazer pelos lotes de sementes são as seguintes:
 
@@ -2271,13 +2301,13 @@ QUADRO III
 
 Peso dos lotes e das amostras
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
+[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)](https://files.diariodarepublica.pt/1s/2005/08/164a00/50145054.pdf)
 
 Nota. - O peso máximo de um lote não pode ser excedido em mais de 5%.
 
 ## ANEXO VI — Regulamento técnico das etiquetas de certificação de lotes de sementes
 
-# Parte A
+Parte A
 
 Disposições gerais
 
@@ -2299,7 +2329,7 @@ As etiquetas oficiais de certificação de lotes de sementes, quanto à sua util
 
 8 - As embalagens de sementes das diferentes categorias podem ostentar uma etiqueta do produtor de semente, que deve ser distinta da etiqueta oficial ou ser impressa na própria embalagem, contendo sempre informação do produtor de sementes.
 
-# Parte B
+Parte B
 
 Etiquetas CE e nacionais
 
@@ -2541,7 +2571,7 @@ Se for caso disso, os resultados de análises preliminares das sementes.
 
 9 - As etiquetas de certificação nacionais devem possuir as características e conter todas as informações referidas nos números anteriores, à excepção da menção «Regras e normas CE», e devem conter a menção «Comercialização autorizada exclusivamente em Portugal».
 
-# Parte C
+Parte C
 
 Etiquetas OCDE
 
@@ -2593,7 +2623,7 @@ Declaração de reacondionamento, se for o caso;
 
 Regulamento técnico da comercialização de sementes pertencentes a variedades em fase de inscrição num catálogo de um Estado membro.
 
-# Parte A
+Parte A
 
 Variedades abrangidas
 
@@ -2601,7 +2631,7 @@ Variedades abrangidas
 
 2 - O presente regulamento aplica-se às variedades pertencentes às espécies UE listadas nos anexos I a VI.
 
-# Parte B
+Parte B
 
 Espécies agrícolas
 
@@ -2641,7 +2671,7 @@ No caso de indicação do peso e da utilização de produtos fitofarmacêuticos 
 
 5 - Qualquer tratamento químico deve ser mencionado na etiqueta oficial, numa etiqueta do produtor ou sobre a embalagem ou dentro dela ou ainda no contentor.
 
-# Parte C
+Parte C
 
 Espécies hortícolas
 

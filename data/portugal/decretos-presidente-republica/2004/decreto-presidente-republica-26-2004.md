@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/26/2004/05/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/26-2004-301787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61ad2b9612ecb8cff8b6eaeda5b69d6af69a21aca4e6d908bb47d369d6fdc4ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 958ee39a0d4cbca021b2c4ca8c9b84f16673846de797416012203d685576e8b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,33 @@ reuse:
 subjects:
 - Embaixador
 - LA Valetta
-- Nomeação
 - Malta
+- Nomeação
 relationships:
 - type: amended_by
   target: pt:dre:532787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:532787:por
+  label: "Exonerada pelo DEC.28/2005.28.04.2005.PR, DR.IS-A [82] de 28.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/28-2005-532787
+  date: '2005-04-28'
+- type: corrected_by
+  target: pt:dre:270382:por
+  label: "Rectificado pela DECL-RECT.40/2004.11.05.2004.PR, DR.IS-A [118] de 20.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/40-2004-270382
+  date: '2004-05-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:21Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +103,16 @@ validation:
 
 de 7 de Maio
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:
 
 É nomeada, sob proposta do Governo, a ministra plenipotenciária de 1.ª classe Maria do Carmo de Sousa Pinto Allegro de Magalhães para o cargo de embaixadora de Portugal em La Valette.
 
-**Assinado em 8 de Abril de 2004.**
+Assinado em 8 de Abril de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 2004.**
+Referendado em 16 de Abril de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso. - A Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Teresa Pinto Basto Gouveia.**
+O Primeiro-Ministro, José Manuel Durão Barroso. - A Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Teresa Pinto Basto Gouveia.

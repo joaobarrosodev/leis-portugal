@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23114-1967-376015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 840918326a757660eb31540568e55acfe147d68ff1592837de0398616a3b081d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 838e93026970191bd3855f946f06d079840c085a37c9fc3cd903423f7fd04668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:578769:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:59Z'
   warnings: []
   errors: []
 ---
@@ -85,29 +89,29 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que seja aplicado às províncias ultramarinas o [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964, com as seguintes alterações:
 
-###### Artigo 1.º O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, precedidas da actual classe pré-primária, e outro complementar, constituído por duas novas classes.
+Artigo 1.º O ensino primário é ampliado, passando a compreender dois ciclos, um elementar, correspondente às actuais quatro classes, precedidas da actual classe pré-primária, e outro complementar, constituído por duas novas classes.
 
 ...
 
-###### Art. 3.º - 1. ...
+Art. 3.º - 1. ...
 
 2. ...
 
 3. Ficarão todavia dispensados do ciclo complementar do ensino primário os que frequentem até final o curso preparatório do ensino secundário.
 
-###### Art. 4.º - 1. Ficarão sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matricularem na 1.ª classe em 1968-1969 pela primeira vez ou como repetentes.
+Art. 4.º - 1. Ficarão sujeitos à obrigatoriedade do ciclo complementar os indivíduos de ambos os sexos que se matricularem na 1.ª classe em 1968-1969 pela primeira vez ou como repetentes.
 
 2. O referido ciclo poderá, todavia, funcionar, com carácter facultativo, em 1968-1969, se as circunstâncias assim o aconselharem.
 
-###### Art. 5.º Aos professores que regerem o ciclo complementar atribuir-se-á uma gratificação mensal a fixar pelos governos das províncias.
+Art. 5.º Aos professores que regerem o ciclo complementar atribuir-se-á uma gratificação mensal a fixar pelos governos das províncias.
 
 ...
 
-###### Art. 8.º - 1. ...
+Art. 8.º - 1. ...
 
 2. Esses cursos serão regidos por professores que o governador da província designará e que perceberão uma gratificação a fixar pelo mesmo.
 
-###### Art. 9.º Os governos das províncias, em providência legislativa, fixarão os casos em que a exigência da aprovação na 6.ª classe do ensino primário complementar ou no ciclo preparatório do ensino secundário substituirá a actual exigência de habilitação com a 4.ª classe do ensino primário elementar.
+Art. 9.º Os governos das províncias, em providência legislativa, fixarão os casos em que a exigência da aprovação na 6.ª classe do ensino primário complementar ou no ciclo preparatório do ensino secundário substituirá a actual exigência de habilitação com a 4.ª classe do ensino primário elementar.
 
 Ministério do Ultramar, 29 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/292/2007/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-2007-640651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28daae34f0e16531127b10258fe902241ca11582fb286c87ff97186a0eb3b57a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b06ca8741194245d80bdf1dfe8831af6ae74cd5b8182b7667f5f00b744227e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Instituto dos Museus e da Conservação
 - Constituição de Sociedade
 - Estatuto
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Instituto dos Museus e da Conservação
 - Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Proteção do Ambiente
 - Parques do Monte da LUA
 - Património Mundial
-- Instituto da Conservação da Natureza e da Biodiversidade
+- Proteção do Ambiente
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:174824:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174824:por
+  label: "Dada nova redacção ao art. 3º e ao anexo II do Dec Lei 215/2000 de 02-set, alterado pelo presente diploma, pelo\
+    \ DEC LEI.205/2012.31.08.2012.MAMAOT, DR.IS [169] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-2012-174824
+  date: '2012-08-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/215/2000/09/02/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/97/2007/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/97/2007/03/29/p/dre
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:29Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +156,7 @@ d) ...
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - ...
 
@@ -204,7 +222,9 @@ Os artigos 15.º e 17.º dos Estatutos da sociedade Parques de Sintra - Monte da
 
 3 - O mandato dos membros do conselho de administração é de três anos, podendo ser renovado até ao limite máximo de três vezes.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O conselho de administração reúne mensalmente e sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos administradores.
 
@@ -218,15 +238,15 @@ São republicados em anexo os Estatutos da sociedade Parques de Sintra - Monte d
 
 Visto e aprovado em Conselho de Ministros de 24 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 24 de Julho de 2007.**
+Promulgado em 24 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 26 de Julho de 2007.**
+Referendado em 26 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (republicação)
 

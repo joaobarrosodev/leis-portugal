@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/01/00200/00070007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21771-1966-233329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:11:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16b36dbfb2f9eb1e7147bf1674ef38c84a185df759315ed73927b9aec764507e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b2ed872d1bd764dd5a35064a2b78f63b9e098b0d0fa14776511e82de00bfb00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:11:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,25 @@ relationships:
   target: pt:dre:314625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:259441:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314625:por
+  label: "Revogada pelo DEC LEI.439/75.16.08.1975.MTC, DG.IS [188] de 16.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/439-1975-314625
+  date: '1975-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:11:22Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +101,7 @@ Verificando-se a necessidade de alterar várias disposições do Regulamento Rel
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o artigo 5.º, o n.º 5) do artigo 6.º e os artigos 16.º, 32.º, 37.º e 38.º do referido regulamento passem a ter a seguinte redacção:
 
-###### Art. 5.º As embarcações de recreio agrupam-se, quanto ao modo de propulsão, nas seguintes classes:
+Art. 5.º As embarcações de recreio agrupam-se, quanto ao modo de propulsão, nas seguintes classes:
 
 Embarcações, com convés, a motor ... A
 
@@ -108,7 +117,7 @@ Embarcações, de boca aberta, com motor ... F
 
 Embarcações a remos ... G
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 ...
 
@@ -116,13 +125,13 @@ Embarcações a remos ... G
 
 ...
 
-###### Art. 16.º As embarcações de recreio devem ter fixada, em lugar visível, uma chapa de modelo F anexo a este regulamento com o seu número de registo, chapa que pode ser fornecida ao interessado, contra pagamento, na secção respectiva da Brigada Naval.
+Art. 16.º As embarcações de recreio devem ter fixada, em lugar visível, uma chapa de modelo F anexo a este regulamento com o seu número de registo, chapa que pode ser fornecida ao interessado, contra pagamento, na secção respectiva da Brigada Naval.
 
 § único. Para facilidade de identificação, as embarcações de recreio devem ter, em local bem visível, o nome de registo da embarcação.
 
 ...
 
-###### Art. 32.º As denominações das diversas graduações de pratícantes amadores de actividades náuticas são: principiante, marinheiro, patrão, patrão de costa e patrão de alto mar.
+Art. 32.º As denominações das diversas graduações de pratícantes amadores de actividades náuticas são: principiante, marinheiro, patrão, patrão de costa e patrão de alto mar.
 
 a) Principiante é o amador autorizado a governar embarcações de vela até 1 t;
 
@@ -138,11 +147,11 @@ e) Patrão de alto mar é o amador habilitado a governar e a comandar embarcaç�
 
 ...
 
-###### Art. 37.º As provas para as diferentes graduações são as determinadas nos artigos seguintes.
+Art. 37.º As provas para as diferentes graduações são as determinadas nos artigos seguintes.
 
 Para principiantes (só vela) e para marinheiro (vela e motor)
 
-###### Art. 38.º O programa da parte teórica é o seguinte:
+Art. 38.º O programa da parte teórica é o seguinte:
 
 a) Para principiante: regras de navegação para evitar abalroamentos;
 

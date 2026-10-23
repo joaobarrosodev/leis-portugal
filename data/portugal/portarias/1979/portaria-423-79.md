@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/423-1979-377772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T05:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a0cb123d77fb5d141caf5ce614391647a582a36d1f6d539139b8a6042582af9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 551c65aacd3ab297377d42a856631aeefc8e0d66710e19e5331ff94575b52681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Inscrição Marítima
+- Marinha Mercante
+- Pesca
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:58:20Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado das Pesca
 
 Os artigos 43.º e 74.º do Regulamento da Inscrição Marítima Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 43.º Ao radiotécnico-chefe compete a chefia das estações de radiocomunicações de qualquer categoria e a responsabilidade pela assistência técnica e eficiência dos serviços de electricidade e electrónica respeitante aos equipamentos de radiocomunicações e de ajudas à navegação, em embarcações da marinha mercante.
+Art. 43.º Ao radiotécnico-chefe compete a chefia das estações de radiocomunicações de qualquer categoria e a responsabilidade pela assistência técnica e eficiência dos serviços de electricidade e electrónica respeitante aos equipamentos de radiocomunicações e de ajudas à navegação, em embarcações da marinha mercante.
 
 § 1.º A categoria de radiotécnico-chefe será atribuída ao radiotécnico de 1.ª classe que prove ter:
 
@@ -104,7 +112,7 @@ a) Dois anos de embarque como primeiro-radiotécnico ou chefe de radiotecnia, de
 
 b) Três mil e seiscentas horas de navegação como primeiro-radiotécnico ou chefe de radiotecnia.
 
-###### Art. 74.º Ao maquinista-chefe compete a chefia (nomeadamente a supervisão, gestão e contrôle) das instalações de máquinas de qualquer potência, dos sistemas de contrôle remoto e dos serviços de electricidade e electrónica respeitantes ao sector de máquinas, em embarcações da marinha mercante.
+Art. 74.º Ao maquinista-chefe compete a chefia (nomeadamente a supervisão, gestão e contrôle) das instalações de máquinas de qualquer potência, dos sistemas de contrôle remoto e dos serviços de electricidade e electrónica respeitantes ao sector de máquinas, em embarcações da marinha mercante.
 
 § 1.º A categoria de maquinista-chefe será atribuída ao maquinista de 1.ª classe que prove ter:
 

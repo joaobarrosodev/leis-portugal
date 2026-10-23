@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/3/1997/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1997-570114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45c0e30f700667dd5d3ad38c1b7badbf3127cb19d8e8509adce146109a381b81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a54b5ea241f33f72082615355ef404690a6712897a4d51cfa6c103143e05b508
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Profissional
-- Pessoal Docente
-- Ensino Básico
-- Remuneração
 - Educação Pré-escolar
+- Ensino Básico
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:231676:por
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/39/1994/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/39/1994/01/14/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563611:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:21Z'
   warnings: []
   errors: []
 ---
@@ -126,14 +146,14 @@ Presidência do Conselho de Ministros, 16 de Dezembro de 1996.
 
 António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 13 de Janeiro de 1997.**
+Promulgado em 13 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Janeiro de 1997.**
+Referendado em 15 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/028b00/05850586.pdf))](https://files.diariodarepublica.pt/1s/1997/02/028b00/05850586.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/028b00/05850586.pdf)

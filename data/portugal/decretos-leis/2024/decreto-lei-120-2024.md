@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2024/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2024-901661919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a4cf68a8b27bef6622852ce94516309cfc729dee2e72329ac171dd8d453a89a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d717f87e9a94364509cf131ac41bace3a6a51ee969df92bf88dbcc8d81f1a250
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Ministério da Justiça
 - Guarda Prisional
+- Ministério da Justiça
 - Progressão na Carreira
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:3/2014
+  label: Altera, com efeitos a partir de 1 de janeiro de 2025, os artigos 28.º, 33.º, 34.º, 35.º e 37.º e revoga o artigo
+    44.º do Estatuto do Pessoal do Corpo da Guarda Prisional, aprovado em anexo ao Decreto-Lei n.º 3/2014, de 9 de janeiro,
+    Diário da República n.º 6/2014, Série I
+  source: null
+  date: '2014-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/118/2021/12/16/p/dre
   label: null
@@ -92,16 +99,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/6/2017/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/6/2017/03/02/p/dre
+- type: cites
+  target: pt:dre:106542300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124500724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175983733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606115:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:39Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +151,7 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto-lei procede à quarta alteração ao Estatuto do Pessoal do Corpo da Guarda Prisional, aprovado em anexo ao [Decreto-Lei n.º 3/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2014-606115), de 9 de janeiro, alterado pela [Lei n.º 6/2017](https://diariodarepublica.pt/dr/detalhe/lei/6-2017-106542300), de 2 de março, e pelos Decretos-Leis n.<sup>os</sup>[134/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2019-124500724), de 6 de setembro, e [118/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2021-175983733), de 16 de dezembro.
+O presente decreto-lei procede à quarta alteração ao Estatuto do Pessoal do Corpo da Guarda Prisional, aprovado em anexo ao [Decreto-Lei n.º 3/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2014-606115), de 9 de janeiro, alterado pela [Lei n.º 6/2017](https://diariodarepublica.pt/dr/detalhe/lei/6-2017-106542300), de 2 de março, e pelos Decretos-Leis n.os[134/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2019-124500724), de 6 de setembro, e [118/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2021-175983733), de 16 de dezembro.
 
 ###### Artigo 2.º — Alteração ao Estatuto do Pessoal do Corpo da Guarda Prisional
 
@@ -138,7 +165,9 @@ Os artigos 28.º, 33.º, 34.º, 35.º e 37.º do Estatuto do Pessoal do Corpo da
 
 2 - Os membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da justiça aprovam por portaria o modelo das fichas de avaliação e as normas necessárias à aplicação do disposto no número anterior, no que respeita, designadamente, à identificação das unidades orgânicas e dos intervenientes no procedimento de avaliação de desempenho.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -148,7 +177,9 @@ a) [...]
 
 b) Avaliação de desempenho com a menção qualitativa de ‘Suficiente’ nos últimos cinco anos.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -158,7 +189,9 @@ a) [...]
 
 b) Avaliação de desempenho com a menção qualitativa de ‘Suficiente’ nos últimos cinco anos.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -174,7 +207,9 @@ d) [...]
 
 3 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -198,12 +233,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e p
 
 Visto e aprovado em Conselho de Ministros de 12 de dezembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Rita Alarcão Júdice.
 
-**Promulgado em 23 de dezembro de 2024.**
+Promulgado em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de dezembro de 2024.**
+Referendado em 27 de dezembro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118516036

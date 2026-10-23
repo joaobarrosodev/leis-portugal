@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/28/2006/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2006-683843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:54:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf71e86531aeda4251193c099ab03cd08fa5dbc05a8a220e8db37de10856bea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d97cff193c9c5a2b4cadc32f66d9e9c83bd044d84358d678e793bc792eb017c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:54:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
+- Coimbra
+- Évora
+- Guimarães
 - Lisboa
 - Oficial de Justiça
-- Remuneração Acessória
-- Guimarães
-- Coimbra
+- Porto
 - Remuneração
-- Évora
+- Remuneração Acessória
+- Sistema Retributivo
+- Tribunal Central Administrativo
 - Tribunal Central Administrativo Norte
 - Tribunal Central Administrativo SUL
-- Tribunal Central Administrativo
 - Tribunal da Relação
-- Porto
 relationships:
 - type: amended_by
   target: pt:dre:604668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517664:por
+  label: "Prorrogado o âmbito de vigência do presente diploma, até 31.12.2007, pelo DEC LEI.29/2007.13.02.2007.MJ, DR.IS [31]\
+    \ de 13.02.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2007-517664
+  date: '2007-02-13'
+- type: amended_by
+  target: pt:dre:248189:por
+  label: "Prorrogado o âmbito de vigência, até 31.12.2008, pelo DEC LEI.19/2008.30.01.2008.MJ, DR.IS [21] de 30.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-2008-248189
+  date: '2008-01-30'
+- type: amended_by
+  target: pt:dre:604668:por
+  label: "Prorrogada a vigência até 31.12.2009, pelo DEC LEI.56/2009.03.03.2009.MJ, DR.IS [43] de 03.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-2009-604668
+  date: '2009-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/2000/08/09/p/dre
   label: null
@@ -101,16 +117,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/74/2002/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/74/2002/03/26/p/dre
+- type: cites
+  target: pt:dre:300607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633292:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:54:30Z'
   warnings: []
   errors: []
 ---
@@ -145,14 +177,14 @@ As disposições do presente decreto-lei reportam os seus efeitos a 1 de Janeiro
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Alberto Bernardes Costa.
 
-**Promulgado em 2 de Fevereiro de 2006.**
+Promulgado em 2 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Fevereiro de 2006.**
+Referendado em 3 de Fevereiro de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 [(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2006/02/033a00/11861189.pdf)

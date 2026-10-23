@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 38/2016, 1º Suplemento, Série I de 2016-02-24
   number: '38'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 596-(2) a 596-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/2-a/2016/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/2-a-2016-73700782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T05:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f183ef894951ca206372b729a4e0019c2f3e422ceca599ffe659a1f152a64418
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 594fd7ca8a734efb53d921d70936f76407957d5734f3286ba08b068dd8200fa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,8 +70,8 @@ reuse:
 subjects:
 - Chefe do Estado Maior da Força Aérea
 - Força Aérea
-- Nomeação
 - Forças Armadas
+- Nomeação
 - Promoção Profissional
 relationships:
 - type: cites
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:25:34Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +100,16 @@ validation:
 
 de 24 de fevereiro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea p), da Constituição, o seguinte:
 
 É nomeado para o cargo de Chefe do Estado-Maior da Força Aérea, sob proposta do Governo, conforme Deliberação do Conselho de Ministros de 18 de fevereiro de 2016, o Tenente-General Manuel Teixeira Rolo, sendo promovido ao posto de General, nos termos do n.º 2 do artigo 197.º do Estatuto dos Militares das Forças Armadas, aprovado em anexo ao [Decreto-Lei n.º 90/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67348942/details/normal?l=1), de 29 de maio, e atento o disposto no n.º 7 do artigo 38.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66016527/details/normal?l=1), de 31 de dezembro.
 
-**Assinado em 19 de fevereiro de 2016.**
+Assinado em 19 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 23 de fevereiro de 2016.**
+Referendado em 23 de fevereiro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.

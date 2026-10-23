@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/197/1994/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/197-1994-281656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T08:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2c008f186b7a4047a2ccd83e4fc7e6f6d3d4d4a1cfc724287faf51423dfc20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54a46f16f45176ae256a4416ae33a043f3e5263d6729a9a836e7d1653cec801d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:13:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,64 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino à Distância
-- Estatuto
 - Ensino Superior
+- Estatuto
 - Universidade Aberta
 relationships:
 - type: amended_by
   target: pt:dre:1196782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659962:por
+  label: "Alterado o art.º 2.º do Cap I e os art.ºs 77,78,79,81,85 e 115 do Cap VI dos Estatutos da Universidade Aberta constantes\
+    \ do presente diploma, pelo DN.4/96.12.01.1996.ME, DR.IS-B [10] de 12.01.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/4-1996-659962
+  date: '1996-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/867/1991/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/867/1991/08/22/p/dre
+- type: cites
+  target: pt:dre:220897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619174:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1196782:por
+  label: "Revogados os Estatutos da Universidade Aberta pelo DN.65-B/2008.22.12.2008.MCTES, DR.IIS [246-2ºSupl] de 22.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/65-b-2008-1196782
+  date: '2008-12-22'
 article_structure:
   article_count: 115
-  section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:13:08Z'
   warnings: []
   errors: []
 ---
@@ -820,7 +856,9 @@ d) Secretariar os órgãos de governo da Universidade e preparar todas as decis�
 
 ### CAPÍTULO IV — Órgãos de coordenação científico-pedagógica
 
-###### Artigo 50.º — SECÇÃO I
+###### Artigo 50.º
+
+#### SECÇÃO I
 
 Conselhos científico e pedagógico
 
@@ -1906,4 +1944,4 @@ O processo da primeira eleição dos membros da assembleia da Universidade const
 
 Os presentes Estatutos entram em vigor na data da sua publicação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/03/071b00/14891505.pdf))](https://files.diariodarepublica.pt/1s/1994/03/071b00/14891505.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1994/03/071b00/14891505.pdf)

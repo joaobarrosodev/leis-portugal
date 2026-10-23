@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/697-1979-365957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T06:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd6884ed56800bccd1abb9ca4b13d07ef2e2d7b4217a3ed07ecd229202f8dcf1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a95eb67b960792dc647232a467820f5a1feb530e6c830c7c0f2e85c0b23f7de1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Bolsa de Estudos
+- Ensino Primário
+- Formação Profissional
+- Pessoal Docente
+- Plano de Estudos
+- Qualificação Profissional
+relationships:
+- type: cites
+  target: pt:dre:273830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:04:53Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +113,7 @@ De harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 111/76](https://d
 
 Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Ensinos Básico e Secundário, o seguinte:
 
-###### Artigo 1.º O n.º 2 da [Portaria n.º 139-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-1976-273830), de 12 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O n.º 2 da [Portaria n.º 139-A/76](https://diariodarepublica.pt/dr/detalhe/portaria/139-a-1976-273830), de 12 de Março, passa a ter a seguinte redacção:
 
 1.º ano
 
@@ -163,7 +177,7 @@ Total, vinte e seis horas.
 
 Um currículo igual ao 3.º ano do curso geral.
 
-###### Art. 2.º O n.º 9 da mesma portaria passa a ter a seguinte redacção:
+Art. 2.º O n.º 9 da mesma portaria passa a ter a seguinte redacção:
 
 1 - São vedadas as matrículas aos candidatos que por duas vezes perderem a frequência do mesmo ano.
 

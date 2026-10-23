@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/197/2002/09/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2002-647505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:32:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d2f5e2835aaf51f714d519cd5129e25a1f48070434e9bb445ef10a38567e618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6301d03b3f17a9ebea8b7a408fb8a42037b4d577ae20b09fb8888e759fc279a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:32:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Carcaça
 - Carne de Suíno
 - Classificação de Carcaças
-- Multa
 - Controlo Sanitário
+- Financiamento
 - Gado Bovino
 - Instituto Nacional de Intervenção e Garantia Agrícola
+- Multa
 - Taxa
 - Transporte
 relationships:
@@ -85,16 +85,27 @@ relationships:
   target: celex:32000D0766
   label: null
   source: http://data.europa.eu/eli/dec/2000/766/oj
+- type: corrected_by
+  target: pt:dre:175145:por
+  label: "Rectificado pela DECL-RECT.31-C/2002.2002.10.30.PCM, DR.IS-A [252]Supl de 31/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-c-2002-175145
+  date: '2002-10-30'
+- type: repealed_by
+  target: pt:dre:482630:por
+  label: "Revogado, à excepção dos anexos n.º 1 e n.º 2, n.º 1, pelo DEC LEI.244/2003.07.10.2003.MADRP, DR.IS-A [232] de 07.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-2003-482630
+  date: '2002-09-05'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:32:45Z'
   warnings: []
   errors: []
 ---
@@ -175,24 +186,24 @@ O presente diploma entra em vigor no 15.º dia seguinte ao da sua publicação.
 
 Visto e aprovado no Conselho de Ministros de 1 de Agosto de 2002. - José Manuel Durão Barroso - Norberto Emílio Sequeira da Rosa - João Luís Mota de Campos - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Luís Filipe Vieira Frazão Gomes - Luís Filipe Pereira.
 
-**Promulgado em 5 de Setembro de 2002.**
+Promulgado em 5 de Setembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 13 de Setembro de 2002.**
+Referendado em 13 de Setembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO N.º 1 — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)
+## ANEXO N.º 1 — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)
 
 ## ANEXO N.º 2
 
 1 - Estabelecimentos de abate que promovam a recolha, transformação e destruição dos subprodutos, com excepção dos MRE, gerados exclusivamente no próprio estabelecimento:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)
 
 2 - Estabelecimentos de abate que promovam a recolha, transformação e destruição da totalidade dos subprodutos gerados quer no próprio estabelecimento quer nas salas de desmancha, com excepção dos MRE:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)](https://files.diariodarepublica.pt/1s/2002/09/222a00/65356536.pdf)

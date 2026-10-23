@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/16500/0000800017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/127/2019/08/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2019-124283151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T03:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f28290ca5ef6c9fd0a961a3fa7a2008f459f2faba1368eed9be828702c96ede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 090a51b04c5435ff33582d2e6f7c350fec0f75ea64732b637d26f4a9826228f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Comunitária
 - Aquisição de Bens e Serviços
 - Associação Nacional de Municípios Portugueses
-- Financiamento
+- CIC Portugal 2020
 - Definição de Competências
+- Desenvolvimento Económico
 - FEDER
+- Financiamento
 - Fiscalização
+- FSE
 - Fundos CE
 - Gabinete de Gestão Financeira
-- Pagamento
 - IFAP
 - Instituto de Gestão Financeira da Segurança Social
 - Investimento
 - Investimento Público
-- FSE
-- Desenvolvimento Económico
+- Madeira.região Autónoma
+- Pagamento
 - Política Económica
 - Programa Operacional
-- Madeira.região Autónoma
-- Açores
 - Transferência de Verbas
-- CIC Portugal 2020
 relationships:
 - type: amended_by
   target: pt:dre:1049254412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:130779511:por
+  label: Alterado o art. 25.º (na redação do presente diploma) do Dec Lei 159/2014 de 27-out pelo(a) Decreto-Lei n.º 10-L/2020
+    - Diário da República n.º 61/2020, 1º Suplemento, Série I de 2020-03-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-l-2020-130779511
+  date: '2020-03-26'
 - type: cites
   target: celex:32013R1303
   label: null
@@ -120,16 +126,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/88/2018/11/06/p/dre
+- type: cites
+  target: pt:dre:115312062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116895169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:37:03Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +218,9 @@ e) Comissão especializada para a territorialização das políticas, integrada 
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -234,7 +262,9 @@ q) [...].
 
 3 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -266,7 +296,9 @@ c) [...].
 
 12 - No caso dos PO e dos PDR das regiões autónomas, a competência para decidir o recurso administrativo previsto no n.º 7 é do membro do governo regional responsável pela respetiva área setorial.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A aferição da eficiência na utilização dos recursos públicos e da razoabilidade financeira, no âmbito de operações, investimentos ou ações, pode ser feita com recurso a peritos externos independentes, caso a autoridade de gestão considere necessário.
 
@@ -274,7 +306,9 @@ c) [...].
 
 3 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -286,7 +320,9 @@ c) [...].
 
 5 - A autoridade de gestão de cada PO temático responde perante o membro do Governo coordenador da comissão especializada da CIC Portugal 2020 do respetivo domínio temático.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...].
 
@@ -308,7 +344,9 @@ c) [...].
 
 10 - A autoridade de gestão de cada PO regional do continente responde perante o membro do Governo coordenador da comissão especializada relativa à territorialização das políticas.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -322,7 +360,9 @@ c) [...].
 
 6 - A autoridade de gestão do PO de assistência técnica responde perante o membro do Governo coordenador da CIC Portugal 2020.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -336,7 +376,9 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -346,7 +388,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...].
 
@@ -372,7 +416,9 @@ i) [...].
 
 3 - [...].
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...].
 
@@ -384,7 +430,9 @@ i) [...].
 
 5 - No caso dos instrumentos financeiros referidos no n.º 1 do artigo 7.º do [Decreto-Lei n.º 159/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2014-58605739), de 27 de outubro, na sua redação atual, a satisfação da contribuição pública nacional pode ser assegurada por uma entidade pública distinta da entidade beneficiária, nos termos definidos na configuração do respetivo instrumento financeiro.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - A Agência, I. P., efetua pagamentos aos beneficiários e transferências para as autoridades de gestão dos PO das regiões autónomas, para os organismos intermédios com competências delegadas de pagamento aos beneficiários e para as entidades responsáveis pela aplicação de instrumentos financeiros, bem como, no caso das operações apoiadas pelo FSE, para o Instituto de Gestão Financeira da Segurança Social, I. P.
 
@@ -394,7 +442,9 @@ i) [...].
 
 4 - [...].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -438,7 +488,9 @@ Os artigos 6.º, 7.º, 14.º, 17.º, 18.º, 19.º, 21.º e 25.º do [Decreto-Lei
 
 4 - Sem prejuízo do disposto nos números anteriores, os resultados e as realizações acordados podem ser revistos pela autoridade de gestão após a decisão de aprovação, mediante pedido do beneficiário, quando se verifiquem circunstâncias supervenientes à data de decisão de aprovação, inultrapassáveis e não imputáveis ao beneficiário, e desde que a operação continue a observar os critérios de seleção do respetivo concurso.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os apoios a conceder no âmbito dos FEEI podem revestir a natureza de subvenções, reembolsáveis ou não reembolsáveis, prémios, estes apenas no FEADER e no FEAMP, instrumentos financeiros ou ainda de uma combinação destes, conforme estabelecido na legislação europeia e na regulamentação específica aplicáveis.
 
@@ -474,7 +526,9 @@ e) Taxa fixa.
 
 12 - O disposto no n.º 3 não é aplicável a operações financiadas pelo FC, pelo FEADER e pelo FEAMP.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -502,7 +556,9 @@ e) Taxa fixa.
 
 13 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -524,7 +580,9 @@ e) Taxa fixa.
 
 10 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - As operações cujo custo total elegível seja superior a 25 milhões de euros estão sujeitas a homologação pela CIC Portugal 2020, com exceção das aprovadas no âmbito da assistência técnica e dos PO e dos PDR das regiões autónomas.
 
@@ -540,7 +598,9 @@ e) Taxa fixa.
 
 7 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Nos projetos com custo total elegível igual ou superior a 1 milhão de euros, que não constituam um auxílio de Estado, uma medida de assistência técnica ou um instrumento financeiro, a cofinanciar pelo FEDER ou FC, em que o apoio público não seja calculado em função de montantes únicos ou tabelas normalizadas de custos unitários, a despesa elegível de uma operação é reduzida antecipadamente, tendo em conta o potencial da operação para gerar receita líquida ao longo de um determinado período de referência, que abrange tanto a execução da operação, como o período após a sua conclusão.
 
@@ -552,7 +612,9 @@ e) Taxa fixa.
 
 5 - Nos projetos geradores de receita líquida exclusivamente durante a sua execução, aos quais não seja aplicável o disposto nos números anteriores, é aplicável o disposto no n.º 8 do artigo 65.º do [Regulamento (UE) n.º 1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na sua redação atual.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A aceitação da decisão de aprovação da candidatura é feita mediante assinatura do termo de aceitação ou através da celebração de contrato entre a entidade competente para o efeito e o beneficiário, quando a regulamentação específica assim o preveja.
 
@@ -560,7 +622,9 @@ e) Taxa fixa.
 
 3 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os pagamentos aos beneficiários, no âmbito dos fundos da política de coesão, são efetuados pela Agência, I. P., e pelos organismos intermédios com competências delegadas nessa matéria, bem como, no caso das operações apoiadas pelo FSE, pelo Instituto de Gestão Financeira da Segurança Social, I. P., com base em pedidos de pagamento apresentados pela respetiva autoridade de gestão, a título de adiantamento, de reembolso ou de saldo final, com base em procedimentos a definir pela Agência, I. P.
 
@@ -606,12 +670,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de julho de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - Maria de Fátima de Jesus Fonseca - Eduardo Arménio do Nascimento Cabrita - Pedro Gramaxo de Carvalho Siza Vieira - Graça Maria da Fonseca Caetano Gonçalves - Manuel Frederico Tojal de Valsassina Heitor - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Marta Alexandra Fartura Braga Temido de Almeida Simões - Ângelo Nelson Rosário de Souza - Alberto Afonso Souto de Miranda - José Fernando Gomes Mendes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
 
-**Promulgado em 31 de julho de 2019.**
+Promulgado em 31 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 1 de agosto de 2019.**
+Referendado em 1 de agosto de 2019.
 
 Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+112543209

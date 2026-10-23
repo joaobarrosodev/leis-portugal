@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/10/20400/0000300042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/91/2020/10/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2020-145875116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79f2343dd6483e925b72d21f5aa7038df8dd8987f2f3835ffa4f33ea5639687e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b7b23384122dc3d6a51e4557d5821070d25038db4f650ecf7e6d54e47f89b58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Tráfego Ferroviário
+- Agência Ferroviária da União Europeia
 - Aproximação das Legislações
 - Autoridade Nacional
 - Caminhos de Ferro
 - CE Países
 - Certificado de Conformidade
-- Multa
 - Comboio
+- Comissão CE
 - Contra-ordenação
-- Transporte Ferroviário
 - Decisão CE
 - Definição de Competências
-- União Europeia
 - Especificação Técnica
 - ETI
 - Fiscalização
 - Formulário Eletrónico
-- Comissão CE
 - Infraestrutura dos Transportes
 - Instituto da Mobilidade e dos Transportes
-- Licenciamento
-- Veículo
-- Material Ferroviário
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
+- Licenciamento
+- Material Ferroviário
+- Multa
 - Normas de Segurança
 - Notificação
 - Página na Internet
-- Regulamento Geral sobre o Ruido
+- Poluição Sonora
 - Prazo
 - Rede Ferroviária
 - Regulamento CE
-- Poluição Sonora
+- Regulamento Geral sobre o Ruido
 - Segurança Ferroviária
 - Sistema Ferroviário Transeuropeu Convencional
 - Sistema Ferroviário Transeuropeu de Alta Velocidade
-- Agência Ferroviária da União Europeia
+- Tráfego Ferroviário
+- Transporte Ferroviário
+- União Europeia
+- Veículo
 relationships:
 - type: cites
   target: celex:32008D0768
@@ -172,6 +172,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2007/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2007/01/17/p/dre
+- type: cites
+  target: pt:dre:191561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70476205:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32016L0797
   label: null
@@ -179,13 +211,13 @@ relationships:
 article_structure:
   article_count: 58
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:33Z'
   warnings: []
   errors: []
 ---
@@ -1294,15 +1326,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de setembro de 2020. - António Luís Santos da Costa - João Nuno Marques de Carvalho Mendes - Pedro Nuno de Oliveira Santos.
 
-**Promulgado em 12 de outubro de 2020.**
+Promulgado em 12 de outubro de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de outubro de 2020.**
+Referendado em 14 de outubro de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — [a que se refere a alínea ii) do artigo 3.º]
 
@@ -1671,3 +1703,5 @@ Tratando-se de regras nacionais respeitantes aos subsistemas que integram um ve�
 3.4 - Idioma - os processos e a correspondência relativos ao procedimento de verificação «CE» devem ser redigidos em língua portuguesa ou numa língua oficial da União Europeia aceite pelo requerente.
 
 4 - Verificação de partes do subsistema, nos termos do n.º 9 do artigo 16.º - caso deva ser emitido um certificado de verificação para determinadas partes de um subsistema, são aplicáveis, com as necessárias adaptações, às partes em causa as disposições do presente anexo.
+
+113642817

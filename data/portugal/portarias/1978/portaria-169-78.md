@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 73/1978, 1º Suplemento, Série I de 1978-03-29
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 604-(2) a 604-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-1978-219556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T05:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbb8dd56961d4383aeadb3751b88dc01639f66bc8acce34eb103d4d5a7bbebfe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7802a2e9b80a80e223dad5dd16e223d51cf704c31910f746709f7d63c8bc804c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carris
+- CP
+- Metropolitano de Lisboa
+- Passe Social
+- Preço
+- Serviço de Transportes Colectivos do Porto
+- Transporte de Passageiros
+- Transporte Público
+- Transporte Urbano
+- Transtejo
 relationships:
 - type: amended_by
   target: pt:dre:403329:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298252:por
+  label: Introduzido um aditamento ao ponto 1.2.2.1 do n.º 1.º pela PORT.347/78.30.06.1978.MCT, DR.IS [148] de 30.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/347-1978-298252
+  date: '1978-06-30'
+- type: cites
+  target: pt:dre:148442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632405:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:403329:por
+  label: "Revogada pela PORT.525/79.29.09.1979.MF, DR.IS [226]Supl de 29.09.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/525-1979-403329
+  date: '1979-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:34:08Z'
   warnings: []
   errors: []
 ---
@@ -110,11 +142,11 @@ Manda o Governo da República Portuguesa, pelos Ministros dos Transportes e Comu
 
 Autocarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 Elevadores - Bilhete simples ... 2$50
 
@@ -132,7 +164,7 @@ Bilhete de correspondência com as carreiras da empresa Joaquim Jerónimo, Lda. 
 
 1.1.3 - Transtejo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 1.2 - Passes:
 
@@ -214,23 +246,23 @@ Terreiro do Paço-Montijo ... 135$00
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 2.1.2 - Outros percursos com um ou dois términos fora da cidade:
 
 Autocarros e troleicarros:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 Fora da cidade, nos percursos comuns às carreiras dos STCP sujeitas a estas tarifas, os outros concessionários deverão praticar as tarifas homologadas para aquelas.
 
 Eléctricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 2.2 - Passes:
 
@@ -274,7 +306,7 @@ Carreiras rodoviárias interurbanas
 
 4.1.2 - As tarifas assumem valores múltiplos de 4$00, fazendo-se os necessários arredondamentos por excesso; exceptuam-se as tarifas correspondentes a percursos até 20 km, para os quais se aplica a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 4.1.3 - A tarifa mínima resultante do aumento será de 4$00.
 
@@ -292,7 +324,7 @@ A requerimento dos concessionários, a DGTT poderá autorizar a utilização de 
 
 4.3.1 - Para número ilimitado de viagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07301/00020006.pdf)
 
 4.3.2 - Para número ilimitado de viagens:
 

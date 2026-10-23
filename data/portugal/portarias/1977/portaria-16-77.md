@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/01/01200/00690069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-1977-138076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T05:15:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca7f967a597eff3f457be288167f8c2f1194ac867eb0885b2a30e8b8f240115
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b58a02e1853406f9410be3fdf8589747b835e8b1169616558b241848ef668b53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:15:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,37 @@ relationships:
   target: pt:dre:329197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336488:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329197:por
+  label: Revogada, pelo(a) Portaria n.º 596/78 - Diário da República n.º 224/1978, Série I de 1978-09-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/596-1978-329197
+  date: '1978-09-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:15:34Z'
   warnings: []
   errors: []
 ---

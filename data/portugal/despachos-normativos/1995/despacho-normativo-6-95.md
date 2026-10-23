@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/6/1995/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-1995-138543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T08:28:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd46b08eabb67fa142b76cf5420c047efb74d22176ac7b6b73acebdb4f24f965
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84c4f8a6f6951a891aa3a3c3a0c1829cf04d8a5d90d0a456ba7c2aa1ea5b812e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:28:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,33 @@ subjects:
 - Estatuto
 - Instituto Politécnico
 - Setúbal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
 article_structure:
   article_count: 59
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:28:55Z'
   warnings: []
   errors: []
 ---
@@ -894,7 +910,7 @@ Os Estatutos do IPS podem ser revistos nos termos do artigo 46.º da [Lei n.º 5
 
 ###### Artigo 56.º — Cessação de funções
 
-**O presidente da comissão instaladora do IPS cessa funções com a tomada de posse do respectivo primeiro presidente eleito.**
+O presidente da comissão instaladora do IPS cessa funções com a tomada de posse do respectivo primeiro presidente eleito.
 
 ###### Artigo 57.º — Final do regime de instalação
 
@@ -918,12 +934,12 @@ Os presentes Estatutos entram em vigor no dia seguinte ao da sua publicação no
 
 ## ANEXO I — Logótipo do Instituto Politécnico de Setúbal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf))](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)
 
 Logótipo da Escola Superior de Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf))](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)
 
 Logótipo da Escola Superior de Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf))](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/02/029b00/06800688.pdf)

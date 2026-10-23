@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 289/1999, 1º Suplemento, Série I-A de 1999-12-14
   number: '289'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8864-(2) a 8864-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/289a01/00020002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/235-a/1999/12/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/235-a-1999-243685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T04:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63f04209b1ecb9195f36d7db817546cbed07b73b875a4e78c3aa7d112f179d64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 701c4cbbeca977dab5013142f6f987ad8f3c18090b1d20af7e81706282aea615
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Promoção Turística
 - Convenção
-- Portugal
 - Direitos Aduaneiros
 - Documento Aduaneiro
-- ONU
-- Macau
-- Impresso
 - Importação
 - Importação Temporária
+- Impresso
+- Macau
 - Material Audiovisual
 - Material Científico
 - Material Eléctrico e Electrónico
-- Material Profissional
-- Transporte de Mercadorias
 - Material Médico-Cirúrgico
+- Material Profissional
 - Mercadoria
+- ONU
+- Portugal
+- Promoção Turística
 - Transporte de Animais
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/54-a/1997/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec/54-a/1997/10/02/p/dre
+- type: cites
+  target: pt:dre:403360:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:32:23Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +110,7 @@ validation:
 
 de 14 de Dezembro
 
-**O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 292.º, n.º 1, da Constituição e dos artigos 3.º, n.os 2 e 3, 69.º e 70.º do Estatuto Orgânico de Macau, o seguinte:
 
 É estendida ao território de Macau a Convenção Relativa à Importação Temporária, de 26 de Junho de 1990, aprovada pelo [Decreto n.º 54-A/97](https://diariodarepublica.pt/dr/detalhe/decreto/54-a-1997-403360), de 2 de Outubro, cujo texto foi publicado no Diário da República, 1.ª série, de 2 de Outubro de 1997.
 
@@ -114,8 +118,8 @@ Reserva-se a possibilidade de não aceitação no território de Macau dos livre
 
 Foram ouvidos os órgãos de governo próprio do território de Macau.
 
-**Assinado em 10 de Dezembro de 1999.**
+Assinado em 10 de Dezembro de 1999.
 
-**Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e texto da Convenção.**
+Publique-se no Boletim Oficial de Macau, em conjunto com o referido decreto de aprovação e texto da Convenção.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.

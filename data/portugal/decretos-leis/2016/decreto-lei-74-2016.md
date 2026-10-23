@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/74/2016/11/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T03:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b90c6c83e6c7685ec74a3b01bf51300b377ae002e99401657e55578314c39761
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f41b6b874f8bbea3da41623642c701c87b8c2a4e4cff138ccb5a8cab400dc091
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Livro de Reclamações
-- Farmácia
-- Apoio Psicológico
-- Direção Geral da Saúde
-- Contra-ordenação
-- Definição de Competências
 - Administração Regional de Saúde
+- Apoio Psicológico
+- Assistência Médica
+- Contra-ordenação
+- Cuidados Médicos
+- Definição de Competências
+- Direção Geral da Saúde
+- Droga
 - Emolumento
 - Enfermagem
 - Entidade Reguladora da Saúde
-- Saúde Pública
+- Farmácia
 - Fiscalização
 - Licenciamento
-- Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências
-- Droga
-- Toxicodependente
-- Preço
-- Cuidados Médicos
-- Reabilitação
+- Livro de Reclamações
 - Ministério da Saúde
+- Preço
+- Reabilitação
+- Saúde Pública
+- Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências
 - Terapêutica
+- Toxicodependente
 - Vistoria
 relationships:
 - type: cites
@@ -132,16 +132,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/279/2009/10/06/p/dre
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56304801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58940164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968709:por
+  label: null
+  source: null
 article_structure:
-  article_count: 100
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 75
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:31:50Z'
   warnings: []
   errors: []
 ---
@@ -184,23 +224,31 @@ Os artigos 1.º, 2.º, 4.º, 8.º, 10.º, 12.º, 13.º, 15.º, 16.º, 17.º, 19.
 
 O presente diploma regula o licenciamento, o funcionamento e a fiscalização do exercício da atividade das unidades privadas que atuem na área do tratamento ou da recuperação de pessoas com comportamentos aditivos e dependências, e define os requisitos a que devem obedecer as suas instalações, organização e funcionamento.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O presente diploma é aplicável a todas as unidades privadas, com ou sem fins lucrativos, independentemente da designação ou forma jurídica adotadas, adiante designadas por unidades, que atuem na área dos comportamentos aditivos e dependências e que se dediquem ao tratamento, reabilitação ou recuperação de pessoas com comportamentos aditivos e dependências.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - As clínicas de desabituação são unidades assistenciais onde se realiza o tratamento de síndromas de privação em pessoas com comportamentos aditivos e dependências, mediante terapêutica medicamentosa, sob responsabilidade médica, com suporte de enfermagem e apoio de médico psiquiatra.
 
 2 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As unidades abrangidas pelo presente diploma devem colaborar, nas campanhas e nos programas de saúde pública, com as Administrações Regionais de Saúde (ARS), o Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), a Direção-Geral da Saúde e outras entidades públicas.
 
 2 - As mesmas unidades devem ainda cooperar com as ARS e o SICAD em programas específicos de avaliação do fenómeno dos comportamentos aditivos e dependências e do seu tratamento, devendo fornecer-lhe anualmente os dados que lhes forem solicitados.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -212,7 +260,9 @@ b) [...].
 
 3 - É admitida, excecionalmente, a instalação de unidades em edifícios remodelados, com estrutura de alvenaria, desde que no respetivo licenciamento tenha sido observado o disposto na legislação em vigor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -222,7 +272,9 @@ b) [...].
 
 4 - Nos casos previstos no n.º 3 do artigo 10.º deve acautelar-se que os revestimentos aplicados garantam resistência ao impacto equiparável à do betão.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - As instalações devem permitir a fácil circulação e deslocação de utentes, garantindo a eliminação de barreiras arquitetónicas, nos termos da legislação em vigor.
 
@@ -234,13 +286,17 @@ b) [...].
 
 5 - As portas dos quartos devem ter o mínimo de 90 cm de largura útil e ser pivotantes.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
 2 - As instalações previstas no número anterior devem ter acesso controlado, ser convenientemente localizadas e permitir a boa conservação e monitorização dos medicamentos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +322,9 @@ i) [...].
 
 3 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As unidades devem dispor de um sistema que permita a chamada de enfermeiro pelos utentes através de botoneira.
 
@@ -276,7 +334,9 @@ i) [...].
 
 4 - [...].
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...].
 
@@ -284,7 +344,9 @@ i) [...].
 
 3 - Em caso de falha elétrica, os ascensores devem dispor das condições para se movimentarem até ao piso de entrada, devendo ser assegurado que pelo menos um dos ascensores existentes na unidade com capacidade para transporte de camas se mantenha em funcionamento com alimentação de socorro.
 
-###### Artigo 21.º — Reprocessamento de dispositivos médicos e outros materiais
+Artigo 21.º
+
+Reprocessamento de dispositivos médicos e outros materiais
 
 1 - As unidades devem assegurar, por si ou com recurso a terceiros, o reprocessamento dos dispositivos médicos e de outros materiais e equipamentos utilizados, podendo, em alternativa, recorrer à utilização de dispositivos médicos e outros materiais e equipamentos de uso único.
 
@@ -292,11 +354,15 @@ i) [...].
 
 3 - Em caso de recurso a dispositivos médicos e outros materiais de uso único, estes devem ser armazenados na farmácia e ter inscritos os respetivos prazos de validade.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 As unidades devem dispor de sistema de gestão de resíduos nos termos da legislação em vigor.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - As unidades devem dispor de profissionais devidamente habilitados e com formação adequada.
 
@@ -306,19 +372,25 @@ As unidades devem dispor de sistema de gestão de resíduos nos termos da legisl
 
 4 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
 2 - Para os efeitos do número anterior, a entidade responsável pela unidade deve contratar e manter em vigor um seguro de responsabilidade civil e profissional que cubra os riscos inerentes à respetiva atividade e à atividade dos profissionais.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - As unidades devem dispor de um regulamento interno e de tabela de preços.
 
 2 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - As unidades estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -326,7 +398,9 @@ As unidades devem dispor de sistema de gestão de resíduos nos termos da legisl
 
 3 - [Revogado].
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -334,19 +408,25 @@ As unidades devem dispor de sistema de gestão de resíduos nos termos da legisl
 
 3 - Devem ainda existir sala de técnicos e gabinete médico, com áreas mínimas de 10 m2 e largura mínima de 2,60 m, e instalações sanitárias para o pessoal.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - [...].
 
 2 - A sala referida no número anterior deve estar equipada e possuir área, acabamentos e instalações em conformidade com as atividades a desenvolver e respeitando as respetivas normas de higiene e segurança, não podendo a sua área ser inferior a 2 m2 por utente para uma utilização simultânea de, no mínimo, 50 % dos utentes.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A direção técnica das unidades é assumida por profissional de saúde com habilitação e formação adequadas ao exercício da função, e supervisão de um médico psiquiatra.
 
 2 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -354,19 +434,25 @@ As unidades devem dispor de sistema de gestão de resíduos nos termos da legisl
 
 3 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - As unidades devem dispor de salas de consulta com área mínima de 10 m2 e a largura mínima de 2,60 m.
 
 2 - As unidades devem, igualmente, dispor de sala de espera, receção e instalações sanitárias para os utentes, com portas a abrir para o exterior ou de correr, com puxadores redondos e de fácil abertura pelo pessoal, adaptadas à utilização por pessoas com mobilidade condicionada, com sistema de chamada de emergência por botoneira.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - A direção técnica das unidades é assumida por profissional de saúde com habilitação e formação adequadas ao exercício da função.
 
 2 - [Anterior corpo do artigo].
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - As unidades devem dispor de gabinetes destinados a locais de trabalho dos técnicos e demais profissionais, bem como à receção e atendimento de utentes e familiares.
 
@@ -380,11 +466,15 @@ As unidades devem dispor de sistema de gestão de resíduos nos termos da legisl
 
 6 - As instalações sanitárias para utentes devem ser separadas por género, com portas a abrir para o exterior ou de correr, com puxadores redondos e de fácil abertura pelo pessoal.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 As unidades devem dispor de responsáveis técnicos com habilitação e formação adequada na área da psicologia.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O funcionamento das unidades a que se refere o presente diploma depende da atribuição de uma licença obtida mediante procedimento simplificado, no caso das unidades de ambulatório previstas no n.º 3 do artigo 3.º, ou mediante procedimento ordinário, nos restantes casos.
 
@@ -428,15 +518,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de setembro de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Adalberto Campos Fernandes - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 24 de outubro de 2016.**
+Promulgado em 24 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 27 de outubro de 2016.**
+Referendado em 27 de outubro de 2016.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -516,7 +606,9 @@ i) Zona de duche com ralo no pavimento.
 
 2.2.2 - Cada área ou unidade de internamento deve ter imediato acesso a um carro de emergência apetrechado com desfibrilhador, bala de oxigénio e equipamento de insuflação manual e demais equipamentos previstos em normas técnicas específicas, tais como estetoscópio e esfigmomanómetro.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...].
 
@@ -530,7 +622,9 @@ i) Zona de duche com ralo no pavimento.
 
 6 - O sistema de 'sujos' deve ser independente do de 'limpos'.
 
-## ANEXO III — Requisitos mínimos a considerar no reprocessamento de dispositivos médicos e outros materiais, para efeitos do n.º 2 do artigo 21.º
+ANEXO III
+
+Requisitos mínimos a considerar no reprocessamento de dispositivos médicos e outros materiais, para efeitos do n.º 2 do artigo 21.º
 
 1 - Para a obtenção de artigos esterilizados, devem adotar-se as seguintes modalidades:
 
@@ -554,11 +648,13 @@ c) Triagem, montagem e embalagem;
 
 d) Esterilização em autoclave validada e mantida de acordo com a legislação nacional, adaptado às necessidades do serviço e ao tipo de técnicas utilizadas.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 1 - Equipamento mínimo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
 
 2 - Outros requisitos:
 
@@ -568,11 +664,13 @@ d) Esterilização em autoclave validada e mantida de acordo com a legislação 
 
 2.3 - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 1 - Equipamento mínimo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
 
 2 - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia elétrica pela rede de socorro.»
 
@@ -580,7 +678,7 @@ d) Esterilização em autoclave validada e mantida de acordo com a legislação 
 
 Republicação do [Decreto-Lei n.º 16/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1999-181067), de 25 de janeiro
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -646,7 +744,7 @@ b) Os centros de dia.
 
 2 - As mesmas unidades devem ainda cooperar com as ARS e o SICAD em programas específicos de avaliação do fenómeno dos comportamentos aditivos e dependências e do seu tratamento, devendo fornecer-lhe anualmente os dados que lhes forem solicitados.
 
-## TÍTULO II
+TÍTULO II
 
 Unidades de internamento
 
@@ -878,7 +976,9 @@ d) Segurança, higiene e qualidade dos cuidados de saúde, de acordo com o regim
 
 2 - O regulamento interno bem como a tabela de preços devem ser afixados em local bem visível e acessível aos utentes.
 
-###### Artigo 34.º — Livro de reclamações
+###### Artigo 34.º
+
+## Livro de reclamações
 
 1 - As unidades estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
 
@@ -988,7 +1088,7 @@ b) A sua declaração expressa de opção de internamento, bem como do seu conhe
 
 Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 31.º a 34.º
 
-## TÍTULO III
+TÍTULO III
 
 Unidades de ambulatório
 
@@ -1050,7 +1150,7 @@ As unidades devem dispor de responsáveis técnicos com habilitação e formaç�
 
 Às unidades previstas neste capítulo aplica-se, com as necessárias adaptações, o disposto nos artigos 31.º a 34.º
 
-## TÍTULO IV
+TÍTULO IV
 
 Licenciamento, fiscalização e sanções
 
@@ -1092,7 +1192,7 @@ Ao licenciamento, fiscalização e contraordenações é aplicável o regime est
 
 [Revogado]
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais
 
@@ -1222,7 +1322,7 @@ d) Esterilização em autoclave validada e mantida de acordo com a legislação 
 
 1 - Equipamento mínimo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
 
 2 - Outros requisitos:
 
@@ -1256,6 +1356,6 @@ c) Tábua de engomar.
 
 1 - Equipamento mínimo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf))](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/11/21400/0391603930.pdf)
 
 2 - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia elétrica pela rede de socorro.

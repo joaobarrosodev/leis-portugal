@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1982-397755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:17:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 852b5a0e69a87a2d29c5a1686831392d62b2aa147d2edbdac19de57f18912134
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb47dabac0bd9e012bcd14a1f79dd74b543dd5e185a8b5e3afcf01b07652ca63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Companhia das Lezírias
+- Investimento Público
+- Pisee
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:379476:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:379476:por
+  label: Alterado o n.º 2 pelo(a) Despacho Normativo n.º 271/82 - Diário da República n.º 282/1982, Série I de 1982-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/271-1982-379476
+  date: '1982-12-07'
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:17:10Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +108,7 @@ Dando cumprimento ao disposto no artigo 13.º do [Decreto-Lei n.º 260/76](https
 
 1 - Consideram-se incluídos no Programa de Investimentos do Sector Empresarial do Estado para 1982 os projectos da Companhia das Lezírias, E. P, a seguir discriminados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/08/18700/23952396.pdf))](https://files.diariodarepublica.pt/1s/1982/08/18700/23952396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/08/18700/23952396.pdf)
 
 2 - A despesa de investimento referida no n.º 1 será financiada por uma dotação para capital da empresa no montante de 30 milhões de escudos. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou quase capital, nos termos que venham a ser definidos.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 78/2015, 1º Suplemento, Série I de 2015-04-22
   number: '78'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2036-(2) a 2036-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07801/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/29-a/2015/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/29-a-2015-67059120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T05:22:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd59ada0be95c2065f9bf6f65db0975904aa59bac14053e74687e880daf105a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ed331b689f29cf063fedafa71cf29eb0fd9aced69f66edf0ea5d27649b529ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:22:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,86 +67,90 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
+- Branqueamento de Capitais
+- Bruxelas
 - CE Países
+- Circulação de Mercadorias
 - Circulação de Pessoas
-- Desenvolvimento Rural
+- Combate à Droga
 - Combate à Fraude
 - Combate ao Terrorismo
-- Política Fiscal
 - Comunicação Social
 - Comunicações Eletrónicas
+- Controlo Sanitário
 - Convenção
 - Cooperação Aduaneira
-- Cooperação Comercial
-- Política de Cooperação
-- Cooperação Diplomática
-- Cooperação Financeira
-- Cooperação Jurídica
-- Cooperação Técnica
-- Cooperação Transfronteira
-- Corrupção
-- Portugal
-- Crime Organizado
-- Controlo Sanitário
-- Combate à Droga
-- Migração
-- Energia Nuclear
-- Política Energética
-- Saúde Pública
-- União Europeia
-- Política de Saúde
-- Política Externa
-- Euratom
-- Política de Defesa
-- Pesca
-- Branqueamento de Capitais
-- Importação
-- Indústria Mineira
-- Segurança da Informação
-- Cooperação Tecnológica
-- Política de Transportes
-- Segurança Internacional
-- Circulação de Mercadorias
-- Terrorismo
-- Diversidade Biológica
-- Política da Justiça
-- Política Aduaneira
 - Cooperação Agrícola
+- Cooperação Comercial
 - Cooperação Cultural
+- Cooperação Diplomática
 - Cooperação Económica
+- Cooperação Financeira
 - Cooperação Industrial
 - Cooperação Internacional
 - Cooperação Judiciária
-- Política do Ambiente
-- Política Social
+- Cooperação Jurídica
+- Cooperação Militar
+- Cooperação Técnica
+- Cooperação Tecnológica
+- Cooperação Transfronteira
+- Corrupção
+- Crime Organizado
+- Desenvolvimento Rural
+- Direito Internacional
+- Diversidade Biológica
 - Energia
+- Energia Nuclear
+- Euratom
 - Exportação
-- Proteção Fitossanitária
+- Importação
+- Indústria Mineira
+- Migração
+- Moldova
+- Pequenas e Médias Empresas
+- Pesca
+- PME
+- Política Aduaneira
+- Política da Justiça
+- Política de Cooperação
+- Política de Defesa
 - Política de Emprego
+- Política de Saúde
+- Política de Transportes
+- Política do Ambiente
+- Política Energética
+- Política Externa
+- Política Fiscal
+- Política Social
+- Portugal
 - Propriedade Intelectual
 - Proteção do Consumidor
-- Pequenas e Médias Empresas
-- PME
-- Moldova
-- Direito Internacional
-- Cooperação Militar
-- Bruxelas
+- Proteção Fitossanitária
+- Saúde Pública
+- Segurança da Informação
+- Segurança Internacional
+- Terrorismo
 - Tribunal de Justiça CE
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/40-a/2015/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/40-a/2015/04/22/p/dre
+- type: cites
+  target: pt:dre:67059121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:22:59Z'
   warnings: []
   errors: []
 ---
@@ -155,16 +159,16 @@ validation:
 
 de 22 de abril
 
-**O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135º, alínea b) da Constituição, o seguinte:
 
 É ratificado o Acordo de Associação entre a União Europeia e a Comunidade Europeia da Energia Atómica e os seus Estados membros, por um lado, e a República da Moldávia, por outro, assinado em Bruxelas, em 27 de junho de 2014, aprovado pela [Resolução da Assembleia da República n.º 40-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/40-a-2015-67059121), em 20 de março de 2015.
 
-**Assinado em 17 de abril de 2015.**
+Assinado em 17 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 17 de abril de 2015.**
+Referendado em 17 de abril de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

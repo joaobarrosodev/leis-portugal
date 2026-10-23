@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1985-326945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:10:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eb616e39519ceeef5d678de9adb61f91591f5ed8d5afd25c1c904d990dabd4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 749b47b9b6d5762cdafc3bfae2a5071362a0d49bdf16107c14278d00ed928496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:10:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atribuição de Verba
+- Bingo
+- Direito de Acesso
+- Jogos de Fortuna e Azar
+- Regime Jurídico
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:627248:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:170319:por
+  label: "Dada nova redacção ao art. 26º do DR 41/82 de 16-Jul, com a redacção constante do presente diploma, pelo DR.76/85.25.11.1985.MCT,\
+    \ DR.IS [271] de 25.11.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/76-1985-170319
+  date: '1985-11-25'
+- type: cites
+  target: pt:dre:376408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394162:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:627248:por
+  label: "Revogado o art. 4º, pelo DR.76/86.1986.12.31.PCM, DR.IS [300]11ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/76-1986-627248
+  date: '1986-12-31'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:10:57Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +124,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 25.º e 26.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, passam a ter as seguintes redacções:
+Artigo 1.º Os artigos 25.º e 26.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, passam a ter as seguintes redacções:
 
 ###### Artigo 25.º — Cartões de bingo
 
@@ -135,7 +160,7 @@ d) 2,5% para a Inspecção-Geral de Jogos, pelos encargos de fiscalização do j
 
 5 - A Inspecção-Geral de Jogos promoverá a entrega às entidades referidas nos n.os 1 e 2 das importâncias que lhes são destinadas até ao dia 15 de cada mês em relação às importâncias depositadas no mês anterior.
 
-###### Art. 2.º Aos artigos 15.º e 16.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, são aditados os seguintes números:
+Art. 2.º Aos artigos 15.º e 16.º do [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, são aditados os seguintes números:
 
 ###### Artigo 15.º
 
@@ -163,26 +188,26 @@ d) 2,5% para a Inspecção-Geral de Jogos, pelos encargos de fiscalização do j
 
 4 - Nos casos em que as salas do bingo não funcionem todos os dias, bem como nos casos em que as salas não funcionem mais de 4 horas diárias, poderá ser dispensada a existência de adjunto de chefe de sala e de contínuo pela Inspecção-Geral de Jogos, que determinará ainda as condições de substituição do pessoal das salas.
 
-###### Art. 3.º É aditado ao [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, o artigo 42.º, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto Regulamentar n.º 41/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1982-394162), de 16 de Julho, o artigo 42.º, com a seguinte redacção:
 
 ###### Artigo 42.º — Do direito subsidiário
 
 Em tudo o que não estiver previsto no presente diploma, observar-se-á, na parte aplicável, o disposto na legislação que disciplina a exploração dos jogos de fortuna ou azar nos casinos.
 
-###### Art. 4.º - 1 - No prazo de 5 anos não será consentida a criação de novas salas de jogo do bingo.
+Art. 4.º - 1 - No prazo de 5 anos não será consentida a criação de novas salas de jogo do bingo.
 
 2 - Salvo casos de força maior, como tal reconhecidos pelo membro do Governo com tutela sobre a Inspecção-Geral de Jogos, consideram-se improrrogáveis os prazos legal e contratualmente fixados para abertura das salas de jogo do bingo já adjudicadas.
 
-###### Art. 5.º É revogado o [Decreto Regulamentar n.º 70/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1982-376408), de 25 de Outubro.
+Art. 5.º É revogado o [Decreto Regulamentar n.º 70/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1982-376408), de 25 de Outubro.
 
 Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Joaquim Martins Ferreira do Amaral - Francisco José de Sousa Tavares.
 
-**Promulgado em 6 de Março de 1985.**
+Promulgado em 6 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 8 de Março de 1985.**
+Referendado em 8 de Março de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2008-247711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14a001f899e6d1e570d4d83c37d1891642dca9b6dce6d37a1d2bb461340cd792
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86dd106053870eebc12547ced82703528e9b969e9aeffd6e5cdc126cb846fa27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,20 +71,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Direção Geral de Veterinária
 - Conselho Regional da Agricultura e Pescas
-- Secretaria Geral
+- Direção Geral de Veterinária
 - Gabinete de Planeamento e Políticas
 - Gestão Orçamental
 - Instituto dos Vinhos do Douro e do Porto
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Orçamento
 - Orgânica
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:552998:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455151:por
+  label: "Alterado o anexo I do Decreto-Lei n.º 209/2006, de 27 de Outubro, na redacção do presente diploma, pelo DEC LEI.160/2008.08.08.2008.MADRP,\
+    \ DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2008-455151
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Extinto o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, e determinada a transição para o Ministério\
+    \ da Agricultura, do Mar, Ambiente e Ordenamento do Território dos serviços, organismos, entidades e estruturas identificados\
+    \ no Dec lei 209/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl]\
+    \ de 12.07.2011, nos termos do seu art. 17º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
+- type: amended_by
+  target: pt:dre:544386:por
+  label: "Extinta, sendo objecto de fusão, nos termos do disposto no nº 3 do art. 34º, a Secretaria-Geral do Ministério da\
+    \ Agricultura, do Desenvolvimento Rural e das Pescas (criada pelo Dec Lei 209/206 de 27-Out, ora revogado), cujas atribuições\
+    \ e competências constam do DR 7/2007 de 27-Fev, alterado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012, nos termos do disposto no nº 3 do seu art. 34; sendo as suas atribuições no domínio da elaboração\
+    \ e do acompanhamento da execução do orçamento integradas no Gabinete de Planeamento e Políticas e as restantes na Secretaria-Geral,\
+    \ ambos do MAMAOT.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2006/10/27/p/dre
   label: null
@@ -109,16 +133,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/7/2007/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/7/2007/02/27/p/dre
+- type: cites
+  target: pt:dre:518851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545637:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544386:por
+  label: "Revogado, a partir de 22.01.2012, o Dec Lei 209/2006 de 27-Out, alterado pelo presente diploma, pelo DEC LEI.7/2012.17.01.2012.MAMAOT,\
+    \ DR.IS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2012-544386
+  date: '2012-01-17'
+- type: repealed_by
+  target: pt:dre:553635:por
+  label: "Revogado, a partir de 01.04.2012, o DR 7/2007, de 27 de fev, na redacção do presente diploma, pelo DR.33/2012.20.03.2012.MAMAOT,\
+    \ DR.IS [57] de 20.03.2012, sucedendo a SG do MAMAOT nas atribuições, direitos e obrigações da secretaria-geral do Ministério\
+    \ da Agricultura, do Desenvolvimento Rural e das Pescas, com exceção das atribuições no domínio da elaboração e do acompanhamento\
+    \ da execução do orçamento.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/33-2012-553635
+  date: '2012-03-20'
+- type: repealed_by
+  target: pt:dre:552998:por
+  label: "Revogado, a partir de 01.05.2012, o Dec Lei 47/2007, de 27-fev, na redacção do presente diploma, pelo DEC LEI.97/2012.23.04.2012.MAMAOT,\
+    \ DR.IS [80] de 23.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2012-552998
+  date: '2012-04-23'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:38Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +267,7 @@ f) Coordenar e elaborar o orçamento de funcionamento do MADRP e acompanhar a su
 
 ## ANEXO I — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf)
 
 ###### Artigo 2.º — Alteração ao [Decreto Regulamentar n.º 6/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2007-518852), de 27 de Fevereiro
 
@@ -239,7 +307,9 @@ m) ...
 
 n) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 ...
 
@@ -291,7 +361,7 @@ O artigo 3.º e o anexo do [Decreto Regulamentar n.º 11/2007](https://diariodar
 
 ## ANEXO — [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121301215.pdf)
 
 ###### Artigo 5.º — Alteração ao [Decreto Regulamentar n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-2007-518853), de 27 de Fevereiro
 
@@ -347,12 +417,12 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Rui Nobre Gonçalves.
 
-**Promulgado em 12 de Fevereiro de 2008.**
+Promulgado em 12 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Fevereiro de 2008.**
+Referendado em 13 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

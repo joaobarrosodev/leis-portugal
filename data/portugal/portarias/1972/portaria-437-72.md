@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18300/10111013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-1972-676208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b2f63d200040f5031f39b4c0f643fa89b1dca14e1760767961ba89659fbbb80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b9ef64dd797fc01b8c3a24a5530933b9a06703298a7cc7e38515dc6aeebece4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo Geral da Marinha
+- Marinha
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:654531:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:278549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632023:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:654531:por
+  label: "Revogada pelo DR.35/94.1994.09.01.MDN, DR.IS-B [202]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/35-1994-654531
+  date: '1994-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:49:26Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +116,13 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, aprovar e p�
 
 Regulamento do Arquivo Geral da Marinha
 
-###### Artigo 1.º O Arquivo Geral da Marinha (A. G. M.), criado pelo [Decreto-Lei n.º 42840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42840-1960-278549), de 10 de Fevereiro de 1960, alterado pelo [Decreto-Lei n.º 538/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1971-632023), de 4 de Dezembro, é um organismo que funciona na dependência directa do Ministro da Marinha, destinado a:
+Artigo 1.º O Arquivo Geral da Marinha (A. G. M.), criado pelo [Decreto-Lei n.º 42840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42840-1960-278549), de 10 de Fevereiro de 1960, alterado pelo [Decreto-Lei n.º 538/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1971-632023), de 4 de Dezembro, é um organismo que funciona na dependência directa do Ministro da Marinha, destinado a:
 
 a) Guardar e conservar todos os arquivos das unidades e serviços do Ministério da Marinha ali depositados;
 
 b) Colaborar na difusão da história da Marinha portuguesa, publicar trabalhos de reconhecido mérito sobre o assunto, incluindo índices e inventários, quer da documentação do Arquivo, quer da referente à Marinha existente noutros arquivos.
 
-###### Art. 2.º O Arquivo Geral da Marinha compreende:
+Art. 2.º O Arquivo Geral da Marinha compreende:
 
 a) Director;
 
@@ -120,7 +140,7 @@ g) Secretaria;
 
 h) Oficina de Encadernação.
 
-###### Art. 3.º - 1. Ao director do Arquivo Geral da Marinha compete, de uma maneira geral:
+Art. 3.º - 1. Ao director do Arquivo Geral da Marinha compete, de uma maneira geral:
 
 a) Dirigir e fiscalizar todas as actividades do Arquivo;
 
@@ -132,7 +152,7 @@ d) Elaborar o relatório anual.
 
 2. O director é um oficial general ou superior da reserva da Armada.
 
-###### Art. 4.º - 1. Ao subdirector compete, de uma maneira geral:
+Art. 4.º - 1. Ao subdirector compete, de uma maneira geral:
 
 a) Auxiliar o director no desempenho das suas funções, de acordo com a orientação que nesse sentido lhe for dada;
 
@@ -142,17 +162,17 @@ c) Desempenhar as atribuições que nas unidades competem aos oficiais imediatos
 
 2. O subdirector é um oficial superior da Armada.
 
-###### Art. 5.º - 1. Ao Arquivo Central compete guardar e conservar toda a documentação imediatamente necessária às unidades e serviços do Ministério da Marinha que estes ali depositem, dispondo-a de modo a satisfazer ràpidamente as suas requisições e a facilitar a futura passagem ao Arquivo Histórico dos documentos que interessa conservar e a promover a inutilização, passado o período de interesse administrativo, dos que não tiverem importância histórica.
+Art. 5.º - 1. Ao Arquivo Central compete guardar e conservar toda a documentação imediatamente necessária às unidades e serviços do Ministério da Marinha que estes ali depositem, dispondo-a de modo a satisfazer ràpidamente as suas requisições e a facilitar a futura passagem ao Arquivo Histórico dos documentos que interessa conservar e a promover a inutilização, passado o período de interesse administrativo, dos que não tiverem importância histórica.
 
 2. O Arquivo Central é chefiado por um oficial da Armada ou por um funcionário civil do quadro do pessoal civil do Ministério da Marinha (Q. P. C. M. M.).
 
-###### Art. 6.º Como regra geral em relação a cada unidade ou serviço do Ministério da Marinha, a entrega de documentação no A. G. M. efectua-se:
+Art. 6.º Como regra geral em relação a cada unidade ou serviço do Ministério da Marinha, a entrega de documentação no A. G. M. efectua-se:
 
 a) De cinco em cinco anos; ou
 
 b) Quando a unidade for abatida ou quando o serviço extinto ou profundamente reorganizado.
 
-###### Art. 7.º - 1. Na entrega ao A. G. M. da documentação das unidades e serviços do Ministério da Marinha devem ser seguidas as normas seguintes:
+Art. 7.º - 1. Na entrega ao A. G. M. da documentação das unidades e serviços do Ministério da Marinha devem ser seguidas as normas seguintes:
 
 a) A documentação deve ser ordenada por assuntos e datas e encadernada ou arrumada em pastas-arquivos;
 
@@ -166,7 +186,7 @@ d) A documentação é acompanhada por guia de remessa em triplicado, sendo os l
 
 3. Fora do continente, as unidades e serviços devem informar o Arquivo, por mensagem, da remessa da documentação.
 
-###### Art. 8.º - 1. Decorridos dez anos sobre a data da incorporação dos documentos no Arquivo Central, estes poderão ser:
+Art. 8.º - 1. Decorridos dez anos sobre a data da incorporação dos documentos no Arquivo Central, estes poderão ser:
 
 a) Inutilizados, desde que se verifique que não possuem interesse histórico ou administrativo;
 
@@ -188,7 +208,7 @@ b) Do director do Arquivo Histórico, no que se refere ao reconhecimento de falt
 
 5. Para a destruição da documentação poderá o director do A. G. M. requisitar a colaboração do pessoal da unidade ou serviço a que a mesma respeita.
 
-###### Art. 9.º - 1. Ao Arquivo Histórico compete guardar, conservar e valorizar toda a documentação sem imediato interesse administrativo que possa ser utilizável como fonte de estudos históricos, sendo constituído:
+Art. 9.º - 1. Ao Arquivo Histórico compete guardar, conservar e valorizar toda a documentação sem imediato interesse administrativo que possa ser utilizável como fonte de estudos históricos, sendo constituído:
 
 a) Por todos os documentos manuscritos que interessem à história da Marinha existentes nos arquivos ou museus dependentes do Ministério da Marinha;
 
@@ -204,13 +224,13 @@ e) Pelos livros e publicações de carácter histórico naval.
 
 3. O Arquivo Histórico é dirigido por um oficial da Armada ou por um bibliotecário-arquivista do Q. P. C. M. M.
 
-###### Art. 10.º Como regra geral, e tendo em conta o disposto no artigo 8.º, a transferência dos documentos do Arquivo Central para o Arquivo Histórico efectua-se:
+Art. 10.º Como regra geral, e tendo em conta o disposto no artigo 8.º, a transferência dos documentos do Arquivo Central para o Arquivo Histórico efectua-se:
 
 a) Quando se trate de originais de documentos microfilmados a que for reconhecido interesse histórico, após a microfilmagem;
 
 b) Quando se trate de documentos que não foram microfilmados e a que for reconhecido valor histórico, logo que deixem de oferecer interesse administrativo.
 
-###### Art. 11.º - 1. A Biblioteca é constituída por obras de que o Arquivo necessite para o desempenho das suas funções e pelas que respeitem legislação naval portuguesa.
+Art. 11.º - 1. A Biblioteca é constituída por obras de que o Arquivo necessite para o desempenho das suas funções e pelas que respeitem legislação naval portuguesa.
 
 2. Na Biblioteca serão conservadas, devidamente, as gravuras pertencentes à extinta Imprensa da Armada.
 
@@ -218,7 +238,7 @@ b) Quando se trate de documentos que não foram microfilmados e a que for reconh
 
 4. A Biblioteca é dirigida por um oficial da Armada ou funcionário civil do Q. P. C. M. M., na directa dependência do director do Arquivo Histórico.
 
-###### Art. 12.º - 1. No âmbito do Arquivo Histórico e da Biblioteca funciona uma sala de leitura pública, sob a fiscalização de um oficial da Armada ou funcionário civil do Q. P. C. M. M.
+Art. 12.º - 1. No âmbito do Arquivo Histórico e da Biblioteca funciona uma sala de leitura pública, sob a fiscalização de um oficial da Armada ou funcionário civil do Q. P. C. M. M.
 
 2. O horário de funcionamento da sala de leitura é estabelecido por despacho do Ministro da Marinha, mediante proposta do director do A. G. M.
 
@@ -226,15 +246,15 @@ b) Quando se trate de documentos que não foram microfilmados e a que for reconh
 
 4. Os documentos com classificação superior a reservado não podem ser consultados enquanto mantiverem tal classificação.
 
-###### Art. 13.º - 1. O Gabinete de Microfilmagem destina-se a executar os trabalhos de microfilmagem a que se refere o [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, e este Regulamento, os quais serão realizados nas condições neles estabelecidas.
+Art. 13.º - 1. O Gabinete de Microfilmagem destina-se a executar os trabalhos de microfilmagem a que se refere o [Decreto-Lei n.º 29/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1972-400002), de 24 de Janeiro, e este Regulamento, os quais serão realizados nas condições neles estabelecidas.
 
 2. O Gabinete é utilizado, para os fins atrás referidos, não só pelos serviços do A. G. M., mas também por todas as unidades e serviços do Ministério da Marinha, aos quais fica vedada a aquisição e utilização de material de microfilmagem para os mesmos fins.
 
 3. A responsabilidade das operações de microfilmagem pertence ao subdirector do Arquivo.
 
-###### Art. 14.º O Gabinete de Microfilmagem também disporá de instalações de fotocópia e de fotografia adequadas aos trabalhos necessários ao A. G. M.
+Art. 14.º O Gabinete de Microfilmagem também disporá de instalações de fotocópia e de fotografia adequadas aos trabalhos necessários ao A. G. M.
 
-###### Art. 15.º - 1. À Secretaria compete:
+Art. 15.º - 1. À Secretaria compete:
 
 a) Executar o serviço de correspondência, expediente e arquivo;
 
@@ -246,14 +266,14 @@ d) Exercer as funções próprias das secretarias das unidades da Armada em rela
 
 2. A Secretaria é chefiada por um oficial da Armada ou por um funcionário civil do Q. P. C. M. M.
 
-###### Art. 16.º - 1. O A. G. M. pode passar certidões extraídas dos livros ou dos documentos existentes, com observância dos preceitos legais que se referem ao imposto do selo.
+Art. 16.º - 1. O A. G. M. pode passar certidões extraídas dos livros ou dos documentos existentes, com observância dos preceitos legais que se referem ao imposto do selo.
 
 2. As certidões são autenticadas com a assinatura do director do A. G. M. e o selo em branco.
 
-###### Art. 17.º As fotocópias obtidas a partir do microfilme têm a força probatória dos originais, desde que sejam autenticadas com a assinatura do director do A. G. M. e o selo em branco.
+Art. 17.º As fotocópias obtidas a partir do microfilme têm a força probatória dos originais, desde que sejam autenticadas com a assinatura do director do A. G. M. e o selo em branco.
 
-###### Art. 18.º À Oficina de Encadernação compete executar os trabalhos de encadernação necessários à conveniente arrumação e conservação dos documentos existentes no Arquivo, quando tais trabalhos não possam ser executados no Instituto Hidrográfico.
+Art. 18.º À Oficina de Encadernação compete executar os trabalhos de encadernação necessários à conveniente arrumação e conservação dos documentos existentes no Arquivo, quando tais trabalhos não possam ser executados no Instituto Hidrográfico.
 
-###### Art. 19.º As lotações de pessoal militar e civil do Arquivo Geral da Marinha são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha, mediante proposta do director.
+Art. 19.º As lotações de pessoal militar e civil do Arquivo Geral da Marinha são fixadas, respectivamente, por portaria e por despacho do Ministro da Marinha, mediante proposta do director.
 
 Ministério da Marinha, 20 de Julho de 1972. - O Ministro da Marinha, Manuel Pereira Crespo.

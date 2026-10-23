@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 215/1988, 1º Suplemento, Série I de 1988-09-16
   number: '215'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3818-(2) a 3818-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/21501/00020002.pdf
 entry_into_force_dates: []
@@ -48,36 +48,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/62-1988-241818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T04:03:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c51476b504b5c85b95f2f7837c40ceebaad8d6a50f71bcf733611d299224ed6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2137275ea5469fcb0fa65a222a0c04a7bf83156bc073891964864bf42182e05c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:03:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo XI
+- Nomeação
+- Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social
+- Subsecretário de Estado da Modernização Administrativa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:03:45Z'
   warnings: []
   errors: []
 ---
@@ -86,16 +90,16 @@ validation:
 
 de 16 de Setembro
 
-**O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos da alínea h) do artigo 136.º da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro, o Dr. Jorge Hernâni de Almeida Seabra e a Dr.ª Isabel Maria Freire dos Santos Corte Real para os cargos de Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social e de Subsecretária de Estado da Modernização Administrativa, respectivamente.
 
-**Assinado em 15 de Setembro de 1988.**
+Assinado em 15 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Setembro de 1988.**
+Referendado em 15 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

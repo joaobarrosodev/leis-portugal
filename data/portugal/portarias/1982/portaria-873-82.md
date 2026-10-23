@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/873-1982-375802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6246f451637f8a502f661f294df265ec38485fcf37eae7961c1b73da8f3e555
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1e4eaac2f820ade33f6a16d5939a5605c86ac9773907a85fc750824e293e2eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ADSE
+- Cartão de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:274429:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274429:por
+  label: "Substituído o modelo anexo ao presente diploma pela PORT.1231-B/90.27.12.1990.MF, DR.IS [297]Supl de 27.12.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1231-b-1990-274429
+  date: '1990-12-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:03Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +117,4 @@ Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finança
 
 Ministério das Finanças e do Plano, 30 de Julho de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21400/28312835.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21400/28312835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21400/28312835.pdf)

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 216/2000, 1º Suplemento, Série I-A de 2000-09-18
   number: '216'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4958-(3) a 4958-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/216a01/00030003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/39-c/2000/09/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/39-c-2000-424967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T04:36:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1150c52c360da1b41452b6a568d946d66d060a204f28c1f929d925ca6803b3f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63143f58bed87d2291fd61a67225a0dedd016e5720fcfeb805a1de05f2e26ebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:36:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
 subjects:
 - Exoneração
 - Governo XIV
-- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado da Administração Pública
+- Secretário de Estado do Tesouro e das Finanças
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:36:06Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ validation:
 
 de 18 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São exonerados, a seu pedido e sob proposta do Primeiro-Ministro:
 
@@ -98,12 +98,12 @@ O Sr. José Narciso Rodrigues de Miranda do cargo de Secretário de Estado da Ad
 
 O Prof. Doutor António do Pranto Nogueira Leite do cargo de Secretário de Estado do Tesouro e das Finanças.
 
-**Assinado em 18 de Setembro de 2000.**
+Assinado em 18 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Setembro de 2000.**
+Referendado em 18 de Setembro de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

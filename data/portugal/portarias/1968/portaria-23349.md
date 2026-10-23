@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23349-1968-274853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c4932db73f0c89acfe49653cd81ca3ddff7df9a564ea602d18443206df18422
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50cdb990b13935af2e8f849e5c3a62e673fc2ed45716bbabb6a2af7a336d1fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:45:07Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +110,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo da
 
 2.º Em cada uma das subáreas da Convenção as espécies protegidas são as que se referem no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
 
 3.º No que respeita à sua malhagem, as redes de arrasto não poderão ter, em qualquer das suas partes, dimensões inferiores às que a seguir se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
 
 4.º Se as redes não estiverem molhadas e já usadas, os mínimos referidos no número anterior serão substituídos pelos valores que para o efeito hajam sido comunicados pela Comissão Consultiva Nacional das Pescarias do Noroeste do Atlântico.
 
@@ -138,11 +154,11 @@ Ministério da Marinha, 6 de Maio de 1968. - O Ministro da Marinha, Fernando Qui
 
 Bitolas utilizáveis na medição das malhagens das redes de arrasto na área da Comissão Internacional das Pescarias do Noroeste do Atlântico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
 
 Tipo A, com mola (modelo ICNAF)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
 
 Tipo B, com peso de 5 kg
 
@@ -150,6 +166,6 @@ Tipo B, com peso de 5 kg
 
 Maneira como deve ser fixado ao saco da rede de arrasto o resguardo superior, dito «modelo polaco», ao qual se refere o n.º 7.º, alínea b), desta portaria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10800/06650667.pdf)
 
 Ministério da Marinha, 6 de Maio de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/347-1971-643558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39b74e7443b6420625df9e7de8be8dbb8390b528908e14bc300451bf933701f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696715157b3b88f985ab49d52d3c088a5c770e75deb0abb7b5cb6f8cc4a663c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,28 @@ relationships:
   target: pt:dre:691812:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527608:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +114,7 @@ Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, da
 
 3.º É prorrogada até 31 de Dezembro de 1971 a vigência da lotação do pessoal permanente das O. N. S. V. e da correspondente tabela de vencimentos aprovadas pela [Portaria n.º 23920](https://diariodarepublica.pt/dr/detalhe/portaria/23920-1969-527608), de 14 de Fevereiro de 1969, com a alteração introduzida por esta portaria.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Marinha, Manuel Pereira Crespo.
 
 MAPA II
 
@@ -180,4 +192,4 @@ Serventes ... De 45$00 a 20$00
 
 (nota a) Conforme o artigo 13.º do [Decreto-Lei n.º 48193](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48193-1968-241068).
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo. - O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro da Marinha, Manuel Pereira Crespo.

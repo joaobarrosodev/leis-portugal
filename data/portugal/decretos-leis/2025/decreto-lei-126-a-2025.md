@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/126-a/2025/12/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2025-964514220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T03:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a846162ae3090b8fcb91b0433c9cb0f48d619951eb309268c6d87f2ef674a9d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2aa606ff2da3ce2772d65c30d07984ea5d74e367d43e6c7ad376cb4be776fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Aproximação das Legislações
+- Armamento
 - Armas e Munições
+- Certificado de Qualidade
 - Controlo dos Armamentos
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Armamento
 - Especificação Técnica
 - Fiscalização
-- Simbolo de Identificação
 - Licenciamento
-- Certificado de Qualidade
 - Normas de Segurança
+- PSP
+- Regulamentação de Atos Legislativos
+- Simbolo de Identificação
 - Uso e porte de arma
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:8/2020
+  label: Altera, a partir de 6 de dezembro de 2025, o anexo i do Decreto-Lei n.º 8/2020, de 9 de março, Diário da República
+    n.º 48/2020, Série I
+  source: null
+  date: '2020-03-09'
 - type: cites
   target: celex:32019L0068
   label: null
@@ -98,6 +104,10 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/8/2020/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/8/2020/03/09/p/dre
+- type: cites
+  target: pt:dre:130008906:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L0068
   label: null
@@ -109,13 +119,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:51:15Z'
   warnings: []
   errors: []
 ---
@@ -154,15 +164,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - João Rui da Silva Gomes Ferreira - Maria Lúcia da Conceição Abrantes Amaral.
 
-**Promulgado em 4 de dezembro de 2025.**
+Promulgado em 4 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 4 de dezembro de 2025.**
+Referendado em 4 de dezembro de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -183,3 +193,5 @@ Especificações técnicas para marcação de armas de fogo e seus componentes e
 6 - (Anterior n.º 5.)
 
 7 - (Anterior n.º 6.)
+
+119853355

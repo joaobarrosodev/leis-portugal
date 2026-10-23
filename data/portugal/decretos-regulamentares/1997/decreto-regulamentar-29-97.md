@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/173b00/38973900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/29/1997/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1997-144834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:24:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd55fa873b2a1ef4a9c404aabe7f30491647b7336a492f000d5682520f2d9fc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 898dd314647c87d95e350e2f6b7a608868e2cf5e193ed066fe165b69b499f071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:24:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Caderneta Radiológica
-- Radioprotecção
 - Direção Geral da Saúde
+- Euratom
+- Radioprotecção
 - Saúde Pública
 - Segurança no Trabalho
-- Euratom
 relationships:
 - type: amended_by
   target: pt:dre:204379871:por
@@ -91,16 +91,27 @@ relationships:
   target: celex:31990L0641
   label: null
   source: http://data.europa.eu/eli/dir/1990/641/oj
+- type: corrected_by
+  target: pt:dre:139227:por
+  label: "Rectificado pela Decl-Rect.14-M/97.1997.07.31.PCM, DR.IS-B [175]-4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-m-1997-139227
+  date: '1997-07-31'
+- type: repealed_by
+  target: pt:dre:117202785:por
+  label: Revogado, a partir de 02.04.2019, o presente diploma, retificado pela Decl-Ret 14-M/97 de 31-jul, pelo(a) Decreto-Lei
+    n.º 108/2018 - Diário da República n.º 232/2018, Série I de 2018-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2018-117202785
+  date: '2018-12-03'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:24:20Z'
   warnings: []
   errors: []
 ---
@@ -203,19 +214,19 @@ Ao regime de protecção dos trabalhadores externos que intervêm em zonas contr
 
 Presidência do Conselho de Ministros, 8 de Maio de 1997. - António Manuel de Oliveira Guterres - Alberto Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Maria João Fernandes Rodrigues - Elisa Maria da Costa Guimarães Ferreira - José Mariano Rebelo Pires Gago.
 
-**Promulgado em 26 de Junho de 1997.**
+Promulgado em 26 de Junho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Disposições relativas aos documentos individuais referidos no n.º 2 do artigo 4.º
 
-# Parte 1.ª
+Parte 1.ª
 
 1 - O sistema de vigilância radiológica, destinado aos trabalhadores externos, deve incluir os seguintes elementos:
 
@@ -229,7 +240,7 @@ c) Dados a fornecer no final de cada intervenção.
 
 3 - Os dados relativos à identidade do trabalhador externo devem incluir a indicação do sexo e da data de nascimento do titular.
 
-# Parte 2.ª
+Parte 2.ª
 
 Antes da intervenção de empresa externa ou de uma autoridade habilitada, os dados do sistema de vigilância radiológica a fornecer, ao operador ou ao médico autorizado junto da empresa, são os seguintes:
 
@@ -241,7 +252,7 @@ c) Data do último exame médico periódico;
 
 d) Resultado da vigilância individual de exposição do trabalhador externo.
 
-# Parte 3.ª
+Parte 3.ª
 
 Os dados que, no final de cada intervenção, devem ser considerados para registo no sistema de vigilância radiológico são os seguintes:
 
@@ -259,7 +270,7 @@ d) Em caso de contaminação interna, estimativa da actividade incorporada ou da
 
 2 - Com base no disposto no n.º 2 da parte 1.º do anexo I do diploma de que o presente anexo constitui parte integrante, a emissão do documento individual é da responsabilidade da Direcção-Geral da Saúde, que lhe atribuirá um número de identificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/38973900.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/38973900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/38973900.pdf)
 
 Este documento (caderneta radiológica) é emitido pela Direcção-Geral da Saúde ao abrigo da legislação nacional que implementa a Directiva do Conselho n.º [90/641/EURATOM](https://data.europa.eu/eli/dir/1990/641/oj?locale=pt) (4 de Dezembro) em Portugal.
 

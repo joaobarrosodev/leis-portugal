@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/12600/0000400008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/32/2020/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T03:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6d60630bd1f23908bd98c1f37e07a90e39decf16fe2ec77b8f06081491c5f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 572e1749bc6318899ec76a616b4d6e98a789aa56a0e9dc221865431c1c6a0c83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Prevenção de Incêndios
-- Ordenamento do Território
-- Proteção da Floresta
 - Comissão de Coordenação e Desenvolvimento Regional
+- Exploração Florestal
 - Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Regime Jurídico
 - Sector Florestal
 relationships:
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/77/2017/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/77/2017/08/17/p/dre
+- type: cites
+  target: pt:dre:108010873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:118051705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:40:25Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +171,9 @@ Os artigos 2.º, 4.º, 5.º, 7.º, 9.º, 10.º, 11.º, 15.º e 18.º do [Decreto
 
 3 - Às ações de arborização e rearborização previstas no presente decreto-lei não é aplicável o [Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de abril.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Estão sujeitas a autorização do ICNF, I. P., as ações de arborização e rearborização que se realizem:
 
@@ -171,7 +197,9 @@ f) Com recurso a espécies do género Eucalyptus spp.
 
 5 - Os pedidos de autorização previstos nos n.os 1 e 2 são decididos no prazo de 45 dias contados a partir da respetiva apresentação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Estão sujeitas a comunicação prévia ao município da área territorial, quando disponha de um gabinete técnico florestal, ou ao ICNF, I. P., nos restantes casos, as ações de arborização e de rearborização com recurso a espécies florestais nas situações abaixo referidas:
 
@@ -197,7 +225,9 @@ b) ...
 
 5 - Deve ser comunicado ao ICNF, I. P., bem como aos municípios, o início e a conclusão da execução das ações de arborização e rearborização referidas no n.º 1 até 10 dias antes do início das mesmas e nos 15 dias após a sua conclusão.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O pedido de autorização e a comunicação prévia a que se referem, respetivamente, os artigos 4.º e 5.º são efetuados por transmissão eletrónica, através do sistema previsto no artigo seguinte, deles devendo constar:
 
@@ -215,7 +245,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +261,9 @@ c) ...
 
 6 - O ICNF, I. P., e os municípios notificam as CCDR através do sistema de informação das comunicações prévias efetuadas no âmbito do artigo 5.º, para efeitos de cumprimento da comunicação prévia, nos termos do artigo 22.º do regime jurídico da Reserva Ecológica Nacional, aprovado pelo [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2008-453518), de 22 de agosto, na sua redação atual.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +275,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +295,9 @@ c) Em áreas inseridas na Rede Nacional de Áreas Protegidas ou Rede Natura 2000
 
 d) Em áreas submetidas ao Regime Florestal, nos termos do Decreto de 24 de dezembro de 1901.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +337,9 @@ n) ...
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 ...
 
@@ -331,12 +371,14 @@ O presente decreto-lei entra em vigor no prazo de 180 dias a contar da sua publi
 
 Visto e aprovado em Conselho de Ministros de 21 de maio de 2020. - António Luís Santos da Costa - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 24 de junho de 2020.**
+Promulgado em 24 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 26 de junho de 2020.**
+Referendado em 26 de junho de 2020.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113351662

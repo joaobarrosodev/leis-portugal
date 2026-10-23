@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/94-1974-407484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T04:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e101177d4bf87d64239e7e25fcc3a99970a7a6f367975a004e024d955e402304
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e790f709a2522841edb888f027ab37e13ae9c7e68c2f18bed0049c63190fe2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,32 @@ relationships:
   target: pt:dre:315546:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:409143:por
+  label: Revogada, na parte aplicável aos sabões comuns, pelo(a) Portaria n.º 575/76 - Diário da República n.º 224/1976, Série
+    I de 1976-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/575-1976-409143
+  date: '1976-09-23'
+- type: repealed_by
+  target: pt:dre:315546:por
+  label: Revogada pelo(a) Portaria n.º 101-I/77 - Diário da República n.º 50/1977, 2º Suplemento, Série I de 1977-03-01, na
+    parte que contraria a mesma portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-i-1977-315546
+  date: '1977-03-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:38:11Z'
   warnings: []
   errors: []
 ---

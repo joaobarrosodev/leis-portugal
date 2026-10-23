@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/45/1998/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1998-218484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a828d75ea4bec6d82acb97d913ea3b80d2ed3303267145999ae8f5fc02c6572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c6cb42cbd546934c531ac24994846bd6afdf069806872578d404aad29eb7fee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,91 @@ relationships:
   target: pt:dre:571007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterados os art.s 82º e 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.472/99.08.11.1999.MF, DR.IS-A [260] de 08.11.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o art. 82º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 114.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os art.s 82º, 85º e 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "Alterado o art. 86º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterado o art. 85º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterado o art. 86º do Código do IRC aprovado pelo Dec Lei 442-B/88 de 30-Nov, com a redacção do presente diploma,\
+    \ pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterado o art. 86.º do Código do IRC, aprovado pelo Dec Lei n.º 442-B/88, de 30-Nov, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, e com a redacção do presente diploma, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl]\
+    \ de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo presente diploma - revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul -, na redacção do presente diploma, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de 05.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:499180:por
+  label: "Alterado o art. 96º do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-nov, na redação do presente diploma,\
+    \ pela LEI.55/2013.08.08.2013.AR, DR.IS [152] de 08.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-2013-499180
+  date: '2013-08-08'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: Dada nova redação ao art. 84.º do Código do IRC, aprovado pelo Dec Lei 442-B/88 de 30-nov, alterado pelo presente
+    diploma, pela LEI.2/2014.16.01.2014.AR, DR.IS [11] de 16.01.2014
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:53Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +209,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 66.º — Bases para o apuramento, fixação ou alteração dos rendimentos
+Artigo 66.º
+
+Bases para o apuramento, fixação ou alteração dos rendimentos
 
 1 - ...
 
@@ -152,7 +229,9 @@ c) (Eliminada.)
 
 5 - ...
 
-###### Artigo 114.º — Comunicação de rendimentos e retenções
+Artigo 114.º
+
+Comunicação de rendimentos e retenções
 
 1 - ...
 
@@ -206,7 +285,9 @@ c) ...
 
 6 - ...
 
-###### Artigo 84.º — Limitações aos pagamentos por conta
+Artigo 84.º
+
+Limitações aos pagamentos por conta
 
 1 - ...
 
@@ -214,17 +295,23 @@ c) ...
 
 3 - ...
 
-###### Artigo 85.º — Pagamento do imposto
+Artigo 85.º
+
+Pagamento do imposto
 
 1 - O imposto devido pelas entidades não referidas no n.º 1 do artigo 82.º e que estejam obrigadas a apresentação de declaração periódica de rendimentos ou que entreguem declaração de substituição será pago até ao termo do prazo para apresentação daquela ou, em caso de declaração de substituição, até ao dia da sua apresentação.
 
 2 - ...
 
-###### Artigo 86.º — Falta de pagamento do imposto autoliquidado
+Artigo 86.º
+
+Falta de pagamento do imposto autoliquidado
 
 Havendo lugar a autoliquidação do imposto e não sendo efectuado o pagamento deste e dos juros devidos, sendo caso disso, até ao termo do prazo para apresentação da declaração, começam a correr imediatamente juros compensatórios, com o limite de 180 dias, e a cobrança da dívida será promovida pelos serviços centrais da Direcção-Geral dos Impostos, nos termos previstos no artigo 87.º
 
-###### Artigo 96.º — Declaração periódica de rendimentos
+Artigo 96.º
+
+Declaração periódica de rendimentos
 
 1 - A declaração periódica de rendimentos a que se refere a alínea b) do n.º 1 do artigo 94.º deverá ser apresentada anualmente até ao último dia útil do mês de Maio, em duplicado, na repartição de finanças da área da sede, direcção efectiva ou estabelecimento estável em que estiver centralizada a contabilidade ou na direcção de finanças da mesma área.
 
@@ -256,12 +343,12 @@ b) Se o facto que implicar a caducidade ocorreu depois de já ter sido entregue 
 
 Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 12 de Fevereiro de 1998.**
+Promulgado em 12 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Fevereiro de 1998.**
+Referendado em 18 de Fevereiro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

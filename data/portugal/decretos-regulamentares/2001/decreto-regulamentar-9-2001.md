@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/126b00/32183230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/9/2001/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-2001-332251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:27:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4aea95288d2d06aa824565bb6055ec9f0534b9eb1205f06ad0f7a37954a9c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c3a9d45feb2205c311f2e040596e599acfc12641f178ecb7975634a68a176f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:27:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo de Schengen
-- Imigração
-- Família
-- Nacionalidade
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Boletim de Alojamento
-- Trabalho
-- Instituto do Emprego e Formação Profissional
 - Cidadão Estrangeiro
 - Contrato de Prestação de Serviços
+- Contrato de Trabalho
 - Definição de Competências
+- Direito à Informação
+- Direito Territorial
 - Diretor
 - Documento de Viagem
+- Emprego
 - Entrada de Estrangeiros
 - Estudante
-- Impresso
+- Família
 - Fronteiras
-- Direito à Informação
-- Livre Circulação de Pessoas
+- Imigração
+- Impresso
 - Inspecção Geral do Trabalho
-- Serviço de Estrangeiros e Fronteiras
-- Prazo de Validade
-- Emprego
-- Contrato de Trabalho
+- Instituto do Emprego e Formação Profissional
+- Livre Circulação de Pessoas
 - Ministério dos Negócios Estrangeiros
-- Serviço de Informações de Segurança
 - Ministro da Administração Interna
+- Nacionalidade
+- Passaporte
+- Prazo de Validade
+- Residência de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
+- Serviço de Informações de Segurança
 - Taxa
 - Termo de Responsabilidade
-- Direito Territorial
-- Passaporte
+- Trabalho
 - Transporte de Passageiros
-- Admissão de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:222820:por
@@ -133,16 +133,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1025/1999/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1025/1999/11/22/p/dre
+- type: cites
+  target: pt:dre:211817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665959:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:222820:por
+  label: "Revogado o DR 5-A/2000 de 26-Abr, com a redacção do presente diploma, pelo DR.6/2004.26.04.2004.MAI, DR.IS-B [98]\
+    \ de 26.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/6-2004-222820
+  date: '2004-04-26'
 article_structure:
-  article_count: 57
+  article_count: 45
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:27:08Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +225,9 @@ f) ...
 
 5 - A apresentação do pedido de visto de residência para o exercício de uma actividade profissional subordinada deve ser acompanhada do parecer favorável da Inspecção-Geral do Trabalho (IGT).
 
-###### Artigo 14.º — Visto de trabalho
+Artigo 14.º
+
+Visto de trabalho
 
 1 - O pedido de visto de trabalho previsto nas alíneas a) e d) do artigo 37.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, deve ser acompanhado da promessa de contrato de trabalho assinada por ambas as partes.
 
@@ -205,7 +241,9 @@ b) Comprovativo de que o requerente se encontra habilitado a exercer a actividad
 
 4 - A apresentação do pedido de visto de trabalho para o exercício de uma actividade profissional subordinada deve ser precedida da comunicação pelo empregador, ao IEFP, da existência de uma oferta de emprego e acompanhada do parecer favorável da IGT.
 
-###### Artigo 19.º — Consulta prévia
+Artigo 19.º
+
+Consulta prévia
 
 1 - ...
 
@@ -213,7 +251,9 @@ b) Comprovativo de que o requerente se encontra habilitado a exercer a actividad
 
 3 - A consulta prévia prevista no n.º 5 do artigo 40.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, é efectuada pelo Ministério dos Negócios Estrangeiros, directamente ao Serviço de Informações e Segurança, devendo o SEF ser informado sempre que o parecer seja desfavorável à admissão do cidadão estrangeiro no território nacional.
 
-###### Artigo 21.º — Concessão de vistos
+Artigo 21.º
+
+Concessão de vistos
 
 1 - ...
 
@@ -223,7 +263,9 @@ b) Comprovativo de que o requerente se encontra habilitado a exercer a actividad
 
 4 - (Anterior n.º 5.)
 
-###### Artigo 27.º — Prorrogação de permanência
+Artigo 27.º
+
+Prorrogação de permanência
 
 1 - A prorrogação da permanência nos termos dos n.os 1 e 2 do artigo 52.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, poderá ter lugar se se mantiverem os motivos que admitiram a admissão do cidadão estrangeiro em território nacional.
 
@@ -297,7 +339,9 @@ c) Razões pessoais ou profissionais atendíveis.
 
 12 - A prorrogação de permanência será concedida sob a forma de vinheta autocolante de modelo aprovado pela [Portaria n.º 1025/99](https://diariodarepublica.pt/dr/detalhe/portaria/1025-1999-643566), de 22 de Novembro.
 
-###### Artigo 28.º — Autorização de permanência
+Artigo 28.º
+
+Autorização de permanência
 
 1 - O pedido de autorização de permanência prevista nos n.os 1 e 2 do artigo 55.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, será formulado em impresso próprio e acompanhado dos seguintes documentos:
 
@@ -317,7 +361,9 @@ b) Declaração comprovativa da situação perante a segurança social;
 
 c) Em caso de alteração da entidade patronal, proposta de contrato de trabalho ou contrato de trabalho, ou declaração escrita do trabalhador da existência de uma relação laboral, confirmada por um sindicato do sector de actividade do requerente ou por associação com assento no Conselho Consultivo para os Assuntos da Imigração, que contenha os elementos essenciais do contrato de trabalho e identifique o local de trabalho e as entidades a que se refere o artigo 144.º, n.os 4 e 5, do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, nos termos da alínea a) do n.º 1 do artigo 55.º do mesmo diploma legal.
 
-###### Artigo 29.º — Instrução
+Artigo 29.º
+
+Instrução
 
 1 - ...
 
@@ -327,7 +373,9 @@ c) Em caso de alteração da entidade patronal, proposta de contrato de trabalho
 
 4 - No caso previsto no n.º 1 do artigo 56.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, a instrução do pedido pelo SEF vale, para todos os efeitos legais, como consulta prévia nos termos da alínea a) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto.
 
-###### Artigo 31.º — Comunicação do deferimento
+Artigo 31.º
+
+Comunicação do deferimento
 
 1 - O deferimento do pedido formulado nos termos do n.º 1 do artigo 56.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, é comunicado ao Ministério dos Negócios Estrangeiros e determina a concessão, com urgência, de visto de residência sem a consulta prévia prevista na alínea a) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, salvo no caso de verificação de factos que, se fossem do conhecimento da autoridade competente, teriam obstado ao reconhecimento do direito ao reagrupamento familiar.
 
@@ -339,7 +387,9 @@ c) Em caso de alteração da entidade patronal, proposta de contrato de trabalho
 
 5 - ...
 
-###### Artigo 32.º — Concessão e renovação da autorização de residência
+Artigo 32.º
+
+Concessão e renovação da autorização de residência
 
 1 - ...
 
@@ -375,13 +425,17 @@ b) Certificado de registo criminal.
 
 9 - (Anterior n.º 8.)
 
-###### Artigo 35.º — Competência
+Artigo 35.º
+
+Competência
 
 1 - ...
 
 2 - O cancelamento de autorizações de residência é da competência do director do SEF, com possibilidade de delegação.
 
-###### Artigo 37.º — Decisão e notificação para a concessão e renovação
+Artigo 37.º
+
+Decisão e notificação para a concessão e renovação
 
 1 - O SEF decide a concessão da autorização de residência e a sua renovação nos prazos de 60 dias e 30 dias, respectivamente.
 
@@ -389,7 +443,9 @@ b) Certificado de registo criminal.
 
 3 - ...
 
-###### Artigo 38.º — Concessão de autorização de residência com dispensa de visto de residência
+Artigo 38.º
+
+Concessão de autorização de residência com dispensa de visto de residência
 
 1 - O pedido de concessão de autorização de residência com dispensa de visto nos termos do artigo 87.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, deve ser formulado em impresso próprio e acompanhado dos seguintes documentos:
 
@@ -429,7 +485,9 @@ b) Outros documentos comprovativos da existência da união de facto nos termos 
 
 9 - A concessão de autorização de residência nos termos do presente artigo é da competência do director do SEF, com possibilidade de delegação.
 
-###### Artigo 39.º — Regime excepcional
+Artigo 39.º
+
+Regime excepcional
 
 1 - O pedido formulado nos termos do artigo 88.º do [Decreto-Lei n.º 244/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1998-434982), de 8 de Agosto, é dirigido ao Ministro da Administração Interna, através do SEF.
 
@@ -461,15 +519,15 @@ O Decreto Regulamentar n.º 5-A/2000, de 26 de Abril, que regulamenta o [Decreto
 
 Visto e aprovado em Conselho de Ministros de 30 de Março de 2001. - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Luís Filipe Marques Amado - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Maria Manuela de Brito Arcanjo Marques da Costa - Paulo José Fernandes Pedroso.
 
-**Promulgado em 11 de Maio de 2001.**
+Promulgado em 11 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 17 de Maio de 2001.**
+Referendado em 17 de Maio de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 Decreto Regulamentar n.º 5-A/2000, de 26 de Abril
 

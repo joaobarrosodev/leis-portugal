@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2002/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2002-239226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T02:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a85f16436a737efb8241e1d5f6c0def0dc012be52069458134772e97b46b8485
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62a7194558a63f99ca0c25554e415e860fed42cf9fa75591feffe9aecc0e13a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Estudos Judiciários
-- Formação Profissional
 - Curso de Formação
+- Estágio de Formação
+- Formação Profissional
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Orgânica
-- Estágio de Formação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/16/1998/04/08/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2000/03/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2000/03/20/p/dre
+- type: cites
+  target: pt:dre:165851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514813:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:30:56Z'
   warnings: []
   errors: []
 ---
@@ -123,13 +131,17 @@ Os artigos 58.º, 59.º e 69.º da [Lei n.º 16/98](https://diariodarepublica.pt
 
 2 - ...
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - (Redacção do anterior corpo artigo.)
 
 2 - Quando ocorra uma situação de manifesta carência de magistrados que importe suprir com urgência, o Ministro da Justiça, após a apresentação de proposta pelo Conselho Superior da Magistratura ou pela Procuradoria-Geral da República e ouvido o director do Centro de Estudos Judiciários, pode, por despacho fundamentado, alterar os prazos de decurso dos períodos referidos no número anterior.
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O estágio tem início no dia 15 de Setembro subsequente à conclusão da fase teórico-prática, salvo se outro prazo for definido no despacho previsto no n.º 2 do artigo 59.º
 
@@ -143,12 +155,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Novembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa.
 
-**Promulgado em 4 de Janeiro de 2002.**
+Promulgado em 4 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Janeiro de 2002.**
+Referendado em 10 de Janeiro de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

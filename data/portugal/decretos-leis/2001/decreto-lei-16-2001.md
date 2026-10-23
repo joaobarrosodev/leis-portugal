@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/01/023a00/04520454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/16/2001/01/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2001-313618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T02:25:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f81394aa52d7bdd4d1206ba5835928810ed32bc3279c2cf68fb9491efb154632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fadf2ef82e216fbb370b6e74a6f55f94817550c1db376fdf6fc62f85bc8502ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:25:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,24 @@ reuse:
 subjects:
 - Criação de Serviços
 - Definição de Competências
-- Secretaria Geral
 - Gabinete dos Assuntos Europeus
 - Integração de Trabalhadores
+- Ministério da Saúde
 - Orgânica
 - Quadro de Pessoal
-- Ministério da Saúde
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:287653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287653:por
+  label: "Determinada a transição para a Divisão de Assuntos Europeus da Direcção Geral da Saúde, das competências exercidas\
+    \ pelo Gabinete dos Assuntos Europeus da Secretaria-Geral do Ministério da Saúde criado pelo presente diploma, pelo DR.3-A/2005.31.05.2005.MS,\
+    \ DR.IS-B [104-Supl] de 31.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-a-2005-287653
+  date: '2005-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/96/2000/05/23/p/dre
   label: null
@@ -87,16 +94,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/992/1993/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/992/1993/10/08/p/dre
+- type: cites
+  target: pt:dre:300040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669481:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:303128:por
+  label: "Rectificado pela DECL-RECT.4-C/2001.2001.02.28.PCM,DR.IS-A [50]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-2001-303128
+  date: '2001-02-28'
+- type: repealed_by
+  target: pt:dre:611883:por
+  label: "Revogado pelo DEC LEI.257/2001.2001.09.22.MS, DR.IS-A [221], reportando-se o seus efeitos a partir da data da entrada\
+    \ em vigor da Lei Orgânica do Departamento de Modernização e Recursos da Saúde\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-2001-611883
+  date: '2001-09-22'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:25:03Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +179,9 @@ m) ...
 
 2 - Para o exercício das atribuições referidas no número anterior, e especialmente das que implicam coordenação de actividades, devem os serviços e organismos do Ministério da Saúde facultar todas as informações e a colaboração técnica que lhes venha a ser solicitada pela Secretaria-Geral.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para o exercício das suas atribuições, a Secretaria-Geral dispõe dos seguintes serviços:
 
@@ -171,7 +199,9 @@ f) [Igual à anterior alínea e)];
 
 g) [Igual à anterior alínea f)].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Transita para o quadro de pessoal da Secretaria-Geral a que se refere o artigo 13.º o pessoal actualmente provido nos quadros de pessoal aprovados pela [Portaria n.º 992/93](https://diariodarepublica.pt/dr/detalhe/portaria/992-1993-669481), de 8 de Outubro, de acordo com as regras constantes do número seguinte.
 
@@ -219,15 +249,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - Alberto de Sousa Martins.
 
-**Promulgado em 15 de Janeiro de 2001.**
+Promulgado em 15 de Janeiro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 18 de Janeiro de 2001.**
+Referendado em 18 de Janeiro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Quadro de pessoal dirigente a que se refere o artigo 13.º, n.º 1
 

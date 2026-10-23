@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/152/2006/08/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2006-539251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T02:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92170405b9393df97fece1cc56323bc2c336f26875e4c71804896c7875e08481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c42b3a9f0fde753470a5eaba0457b093b9fb5eac46519022084f1dcc845e0f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Administração dos Portos do Douro e Leixões
 - Armazenagem
-- Sociedade Anónima
 - Contrato de Concessão
 - Definição de Competências
-- Importação
-- Transporte de Mercadorias
-- Porto de Leixões
-- Exportação
-- Serviço Público
-- Ministro de Estado e das Finanças
 - Exploração Portuária
+- Exportação
+- Importação
 - Ministro das Obras Públicas Transportes e Comunicações
+- Ministro de Estado e das Finanças
 - Ministro do Trabalho e da Solidariedade Social
+- Porto de Leixões
+- Produto Alimentar
+- Serviço Público
+- Sociedade Anónima
+- Transporte de Mercadorias
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/188/2001/06/25/p/dre
@@ -99,16 +99,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/2003/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/2003/05/10/p/dre
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580999:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:52:39Z'
   warnings: []
   errors: []
 ---
@@ -153,21 +169,23 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 8 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia - José António Fonseca Vieira da Silva.
 
-**Promulgado em 19 de Julho de 2006.**
+Promulgado em 19 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 24 de Julho de 2006.**
+Referendado em 24 de Julho de 2006.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Bases da concessão
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nestas bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados têm o significado que a seguir lhes é apontado:
 
@@ -231,11 +249,15 @@ aa) «TIR Accionista», a taxa interna de rentabilidade para os accionistas, em 
 
 ### CAPÍTULO II — Objecto e regime de exploração
 
-###### Base II — Objecto e âmbito da Concessão
+Base II
+
+Objecto e âmbito da Concessão
 
 A Concessão tem por objecto a exploração, em regime de serviço público, da actividade de recepção, movimentação, armazenagem, expedição e transporte de matérias-primas alimentares e produtos conexos, mediante a utilização das infra-estruturas de armazenagem existentes, que a SILOPOR desenvolvia na área afecta à Concessão.
 
-###### Base III — Área afecta à Concessão
+Base III
+
+Área afecta à Concessão
 
 1 - A área afecta à Concessão, incluindo os acessos rodoviários e ferroviários nela implantados, compreende aproximadamente 25000 m2 e situa-se em terreno do domínio privado da APDL, encontrando-se definida e identificada em anexo ao Contrato de Concessão.
 
@@ -245,7 +267,9 @@ A Concessão tem por objecto a exploração, em regime de serviço público, da 
 
 4 - A APDL e a Concessionária acordam as condições de utilização do novo portão da via de ligação da área portuária à área afecta à Concessão e de utilização do espaço que medeia entre o limite poente da área afecta à Concessão e a via de circulação rodoviária adjacente.
 
-###### Base IV — Bens da Concessão
+Base IV
+
+Bens da Concessão
 
 1 - Para além da área identificada na base III, consideram-se integrados no estabelecimento da Concessão e estão afectos a esta:
 
@@ -277,7 +301,9 @@ c) As obras, equipamentos e outros bens que venham a ser realizados e implantado
 
 12 - Em caso de substituição, a Concessionária deve optar, precedendo consulta ao Concedente, pela aquisição dos materiais e equipamentos cuja tecnologia e padrão de qualidade melhor sirvam a eficiência, segurança e economia das actividades concessionadas.
 
-###### Base V — Obras
+Base V
+
+Obras
 
 1 - É obrigação da Concessionária a realização de todas as obras de reparação e conservação decorrentes da normal utilização dos bens que integram o estabelecimento da Concessão e estão afectos a esta, as quais devem assegurar a permanência destes bens em boas condições de exploração durante todo o período da Concessão e até ao seu termo.
 
@@ -293,13 +319,17 @@ c) As obras, equipamentos e outros bens que venham a ser realizados e implantado
 
 7 - Sem prejuízo do referido nos anteriores números, o Concedente garante a qualidade do projecto e da construção inicial dos silos e das reparações posteriormente efectuadas e responsabiliza-se por qualquer vício de sua estrutura, desde que devidamente demonstrado por perito aceite por ambas as Partes.
 
-###### Base VI — Aquisição de equipamentos
+Base VI
+
+Aquisição de equipamentos
 
 1 - A Concessionária paga ao Concedente na data da celebração do Contrato de Concessão o preço estabelecido no processo adjudicatório.
 
 2 - O preço referido no número anterior é integralmente pago pela Concessionária na data da celebração do Contrato de Concessão, mediante entrega de cheque visado à ordem da Direcção-Geral do Tesouro.
 
-###### Base VII — Regime de exploração
+Base VII
+
+Regime de exploração
 
 1 - A exploração da Concessão é exercida em regime de serviço público, em conformidade com o disposto no Contrato de Concessão e nas disposições legais e regulamentares aplicáveis à Concessão.
 
@@ -329,7 +359,9 @@ c) Se o cliente for devedor de facturas vencidas ou existir risco de boa cobran�
 
 11 - A Concessionária sujeita-se, sem direito a indemnização, às eventuais restrições à actividade concessionada, resultantes, designadamente, da reformulação das vias gerais de acesso e de circulação do Porto de Leixões e respectivas obras.
 
-###### Base VIII — Plano de Actividades
+Base VIII
+
+Plano de Actividades
 
 1 - Por forma a permitir ao Concedente a avaliação de uma perfeita adequação entre o desenvolvimento das instalações e equipamentos e os níveis de evolução tecnológica e de qualidade de serviços prestados, a Concessionária obriga-se a elaborar e a remeter, até 31 de Outubro de cada ano, um Plano de Actividades para os três anos subsequentes, onde se estabeleçam a estratégia e as acções a prosseguir no domínio do objecto da Concessão.
 
@@ -347,7 +379,9 @@ e) Programa financeiro, conta de exploração e balanço previsionais.
 
 3 - O Plano de Actividades é da exclusiva responsabilidade da Concessionária, e o seu conhecimento e avaliação pelo Concedente não o envolve em responsabilidade alguma, nem exonera a Concessionária das obrigações decorrentes do Contrato de Concessão.
 
-###### Base IX — Regulamento de Exploração
+Base IX
+
+Regulamento de Exploração
 
 1 - A Concessionária obriga-se a cumprir os procedimentos de exploração em vigor na SILOPOR na data da assinatura do Contrato de Concessão, até à aprovação do Regulamento de Exploração.
 
@@ -361,7 +395,9 @@ e) Programa financeiro, conta de exploração e balanço previsionais.
 
 6 - A Concessionária está autorizada a utilizar, na estrita medida das necessidades da Concessão, as vias de circulação e os acessos que medeiam entre a área afecta à Concessão e as áreas rodoviárias e ferroviárias circundantes.
 
-###### Base X — Tarifas
+Base X
+
+Tarifas
 
 1 - As tarifas a praticar pela Concessionária na realização de operações, prestação de serviços e uso das instalações constam de anexo ao Contrato de Concessão.
 
@@ -375,7 +411,9 @@ e) Programa financeiro, conta de exploração e balanço previsionais.
 
 6 - O tarifário é da exclusiva responsabilidade da Concessionária, e o seu conhecimento e aprovação pelo Concedente não o envolve em responsabilidade alguma, nem exonera a Concessionária das obrigações decorrentes do Contrato de Concessão.
 
-###### Base XI — Publicidade e informação
+Base XI
+
+Publicidade e informação
 
 1 - A Concessionária deve adoptar um sistema eficiente de tratamento e consulta de elementos informativos relativos à exploração, de modo a poder facultá-los com prontidão ao Concedente ou a quaisquer outras entidades com legitimidade para os solicitar.
 
@@ -397,13 +435,17 @@ b) A demonstração de resultados analítica ou balancete de contas que evidenci
 
 c) A lista de clientes e respectivos volumes de carga para os quais foram praticados descontos comerciais nesse semestre, no prazo de 90 dias após o termo de cada semestre.
 
-###### Base XII — Sistemas de informação
+Base XII
+
+Sistemas de informação
 
 A Concessionária obriga-se a estabelecer um interface com o sistema informático da APDL, em prazo a acordar após a entrada em vigor do Contrato de Concessão, por forma a gerar e manter actualizada e disponível toda a informação necessária, designadamente os elementos referidos na base anterior, bem como os necessários ao cumprimento de normas e regulamentos de segurança.
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base XIII — Objecto e sede da Concessionária
+Base XIII
+
+Objecto e sede da Concessionária
 
 1 - A Concessionária é a sociedade comercial cujo pacto social consta de anexo ao Contrato de Concessão, a qual tem sede em Portugal durante todo o prazo da Concessão, e tem como objecto principal as actividades inerentes à Concessão.
 
@@ -429,7 +471,9 @@ c) A indicação expressa de que está vedada a participação, directa ou indir
 
 9 - Ficam ainda sujeitas a informação ao Concedente as modificações na composição dos corpos sociais da Concessionária.
 
-###### Base XIV — Financiamento da Concessão
+Base XIV
+
+Financiamento da Concessão
 
 1 - Compete à Concessionária assegurar a realização dos meios financeiros necessários ao cumprimento das responsabilidades assumidas e das actividades compreendidas no objecto da Concessão, seja por entradas por parte do(s) sócio(s) seja pela tomada de financiamento junto deste(s) ou de terceiras entidades.
 
@@ -437,7 +481,9 @@ c) A indicação expressa de que está vedada a participação, directa ou indir
 
 3 - Os contratos referidos no número anterior não admitem condições ou cláusulas que se oponham ao estabelecido no Contrato de Concessão e não podem ser alterados sem autorização do Concedente.
 
-###### Base XV — Responsabilidade da Concessionária
+Base XV
+
+Responsabilidade da Concessionária
 
 1 - A Concessionária é, face ao Concedente, a única e directa responsável pelo atempado e perfeito cumprimento das obrigações constantes do Contrato de Concessão e as decorrentes de normas, regulamentos ou disposições administrativas que lhe sejam aplicáveis, sem que para exclusão ou limitação da sua responsabilidade possa opor ao Concedente qualquer contrato ou relação com terceiros.
 
@@ -447,7 +493,9 @@ c) A indicação expressa de que está vedada a participação, directa ou indir
 
 4 - A partir da data de entrada em vigor do Contrato de Concessão, a Concessionária é inteiramente responsável pelos encargos e custos da utilização ou fruição de bens ou serviços anteriormente contratados pela SILOPOR emergentes de contratos que não tenham sido ou pela sua natureza não possam ser rescindidos, nomeadamente contratos de água, electricidade e telefones.
 
-###### Base XVI — Pessoal da Concessão
+Base XVI
+
+Pessoal da Concessão
 
 1 - Os trabalhadores utilizados na Concessão devem estar vinculados à Concessionária por contrato individual de trabalho ou ser por ela recrutados de harmonia com o regime jurídico aplicável.
 
@@ -459,7 +507,9 @@ c) A indicação expressa de que está vedada a participação, directa ou indir
 
 5 - No mês de Janeiro de cada ano civil, a Concessionária dá conhecimento ao Concedente da composição do quadro global de pessoal afecto à Concessão.
 
-###### Base XVII — Segurança e ambiente
+Base XVII
+
+Segurança e ambiente
 
 1 - A Concessionária obriga-se a adoptar medidas e a instalar equipamentos contra incêndios, bem como a introduzir meios adequados à prevenção de acidentes pessoais, materiais e de poluição decorrentes da actividade exercida na área afecta à Concessão.
 
@@ -473,7 +523,9 @@ c) Participar de imediato ao Concedente e às entidades competentes quaisquer ac
 
 3 - As medidas e procedimentos referidos nos números anteriores são objecto do Regulamento de Segurança e Higiene no Trabalho, que constitui anexo ao Contrato de Concessão.
 
-###### Base XVIII — Seguros
+Base XVIII
+
+Seguros
 
 1 - A Concessionária celebra e mantém em vigor os contratos de seguros necessários para garantir uma efectiva cobertura dos riscos seguráveis inerentes à Concessão, designadamente os seguintes:
 
@@ -529,7 +581,9 @@ d) As apólices contêm cláusulas de reposição automática de capital e de ac
 
 ### CAPÍTULO IV — Condição financeira da Concessão
 
-###### Base XIX — Assunção do risco
+Base XIX
+
+Assunção do risco
 
 1 - A Concessionária assume integral responsabilidade por todos os riscos inerentes à Concessão durante o prazo da sua duração, excepto nos casos em que o contrário resulte expressamente do Contrato de Concessão.
 
@@ -545,13 +599,17 @@ c) Exigências decorrentes de normas legais ou determinações administrativas d
 
 d) Alterações à lei geral.
 
-###### Base XX — Cenário de referência
+Base XX
+
+Cenário de referência
 
 1 - As Partes estabelecem que o modelo económico-financeiro descrito em anexo ao Contrato de Concessão (Caso Base) representa o cenário de referência com base no qual é efectuada a reposição do reequilíbrio financeiro, nos termos da base seguinte.
 
 2 - O Caso Base apenas pode ser alterado quando haja lugar à reposição do equilíbrio financeiro da Concessão e exclusivamente para reflectir a reposição efectuada.
 
-###### Base XXI — Reposição do equilíbrio financeiro da Concessão
+Base XXI
+
+Reposição do equilíbrio financeiro da Concessão
 
 1 - A Concessionária tem direito à reposição do equilíbrio financeiro da Concessão exclusivamente nos seguintes casos:
 
@@ -593,7 +651,9 @@ d) Qualquer outra forma que seja acordada entre o Concedente e a Concessionária
 
 8 - A Concessionária deve notificar o Concedente da ocorrência de qualquer evento que possa dar lugar à reposição do equilíbrio financeiro da Concessão, nos 30 dias seguintes à data da sua verificação.
 
-###### Base XXII — Contrapartidas financeiras a pagar pela Concessionária
+Base XXII
+
+Contrapartidas financeiras a pagar pela Concessionária
 
 1 - A Concessionária paga ao Concedente na data da celebração do Contrato de Concessão o preço estabelecido no processo adjudicatório pela aquisição de todos os equipamentos que constam do respectivo anexo ao Contrato de Concessão, nos termos definidos na base VI.
 
@@ -613,11 +673,15 @@ d) Qualquer outra forma que seja acordada entre o Concedente e a Concessionária
 
 ### CAPÍTULO V — Duração da Concessão
 
-###### Base XXIII — Prazo da Concessão
+Base XXIII
+
+Prazo da Concessão
 
 O prazo da Concessão é de 25 anos a contar da data da assinatura do Contrato de Concessão.
 
-###### Base XXIV — Decurso do prazo da Concessão
+Base XXIV
+
+Decurso do prazo da Concessão
 
 1 - Decorrido o prazo da Concessão, o Concedente entra de imediato na posse dos bens que integram o estabelecimento da Concessão, os quais revertem gratuitamente, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, não podendo a Concessionária reclamar por esse facto qualquer indemnização nem invocar, a qualquer título, o direito de retenção sobre esses bens.
 
@@ -635,7 +699,9 @@ c) Relação dos direitos da Concessionária sobre terceiros que se revelem nece
 
 ### CAPÍTULO VI — Regime administrativo da Concessão
 
-###### Base XXV — Rescisão do Contrato de Concessão
+Base XXV
+
+Rescisão do Contrato de Concessão
 
 1 - O não cumprimento das obrigações contratuais pela Concessionária constitui fundamento para a rescisão do Contrato de Concessão.
 
@@ -677,7 +743,9 @@ o) A obstrução à requisição, sequestro ou à intervenção do Concedente em
 
 6 - A rescisão do Contrato de Concessão implica a reversão gratuita do estabelecimento para o Concedente e a perda, a favor deste, de todas as cauções prestadas pela Concessionária como garantia do bom e pontual cumprimento das obrigações emergentes do Contrato de Concessão.
 
-###### Base XXVI — Incumprimento da Concessionária e multas contratuais
+Base XXVI
+
+Incumprimento da Concessionária e multas contratuais
 
 1 - Sem prejuízo do direito de rescisão ou de resgate pelo Concedente nos termos previstos no Contrato de Concessão e do disposto nos números seguintes, o incumprimento, cumprimento defeituoso ou o não cumprimento pontual pela Concessionária de obrigações da Concessão ou de determinações do Concedente emitidas no âmbito da lei ou do Contrato de Concessão origina a aplicação à Concessionária de multas contratuais, em montante cujo valor varia em função da sua gravidade, entre um mínimo de (euro) 1000 e um máximo de (euro) 20000 relativamente a cada uma das situações de incumprimento.
 
@@ -695,7 +763,9 @@ o) A obstrução à requisição, sequestro ou à intervenção do Concedente em
 
 8 - A imposição de multas não impede o exercício pelo Concedente de outros direitos previstos no Contrato de Concessão, designadamente do direito de rescisão, nem impede a aplicação de outras sanções previstas em lei ou regulamento.
 
-###### Base XXVII — Força maior
+Base XXVII
+
+Força maior
 
 1 - Consideram-se casos de casos de força maior os eventos imprevisíveis e irresistíveis, exteriores à Concessionária e independentes da sua vontade ou actuação, ainda que indirectos, que comprovadamente impeçam o cumprimento das suas obrigações contratuais e que tenham um impacto directo negativo sobre a Concessão, em moldes que excedam os regimes das obrigações e do risco previstos no Contrato de Concessão.
 
@@ -709,7 +779,9 @@ b) Há lugar à reposição do equilíbrio financeiro, de acordo com o estabelec
 
 c) Há lugar à rescisão do Contrato de Concessão, de acordo com o estabelecido na base XXV, quando o cumprimento das obrigações emergentes do Contrato de Concessão seja definitivamente impossível, e o fosse mesmo que tivesse sido recebida a indemnização a que se referem as alíneas anteriores, ou quando a eventual reposição do equilíbrio financeiro seja excessivamente onerosa para o Concedente, devendo, em qualquer das circunstâncias, a Concessionária pagar ao Concedente a indemnização aplicável, ou recebida, ao risco em causa em praças da União Europeia por apólices comercialmente aceitáveis, desde pelo menos seis meses antes da verificação do evento de força maior.
 
-###### Base XXVIII — Resgate da Concessão
+Base XXVIII
+
+Resgate da Concessão
 
 1 - O Concedente pode resgatar a Concessão quando motivos de interesse público o justifiquem, desde que decorrido metade do prazo da Concessão, mediante aviso comunicado por escrito à Concessionária com, pelo menos, um ano de antecedência.
 
@@ -719,7 +791,9 @@ c) Há lugar à rescisão do Contrato de Concessão, de acordo com o estabelecid
 
 4 - Aplica-se aos casos de resgate o disposto no n.º 4 da base XXV.
 
-###### Base XXIX — Extinção do serviço público
+Base XXIX
+
+Extinção do serviço público
 
 1 - O Concedente pode extinguir o serviço público concessionado por razões de interesse público devidamente fundamentadas.
 
@@ -727,13 +801,17 @@ c) Há lugar à rescisão do Contrato de Concessão, de acordo com o estabelecid
 
 3 - Nos casos de extinção do serviço público aplica-se o disposto no n.º 4 da base XXV.
 
-###### Base XXX — Emergência grave
+Base XXX
+
+Emergência grave
 
 1 - Em caso de guerra, estado de sítio ou emergência grave, o Concedente pode assumir transitoriamente a exploração do serviço concessionado, de harmonia com as normas aplicáveis a ocorrências dessa natureza, após notificação por escrito à Concessionária e sem precedência de qualquer formalidade.
 
 2 - Enquanto se verificar a situação prevista no número anterior suspende-se a contagem do prazo da Concessão, ficando a Concessionária exonerada das obrigações decorrentes do Contrato de Concessão durante o período de duração da situação de emergência grave.
 
-###### Base XXXI — Sequestro
+Base XXXI
+
+Sequestro
 
 1 - O Concedente pode assumir a exploração do serviço concessionado se, por facto imputável à Concessionária, estiver iminente a cessação da actividade ou ocorrer perturbação grave que ponha em causa o funcionamento da Concessão.
 
@@ -745,15 +823,21 @@ c) Há lugar à rescisão do Contrato de Concessão, de acordo com o estabelecid
 
 5 - A Concessionária retoma a Concessão, dando por findo o sequestro, no prazo que o Concedente venha a fixar-lhe e que não pode ser inferior a 30 dias sobre a data da notificação da retoma.
 
-###### Base XXXII — Requisição
+Base XXXII
+
+Requisição
 
 O Concedente tem o direito de requisitar, nos termos da lei, os bens e trabalhadores afectos à Concessão, devendo a requisição terminar quando cessar o motivo que lhe tiver dado causa.
 
-###### Base XXXIII — Extinção por acordo
+Base XXXIII
+
+Extinção por acordo
 
 O Concedente e a Concessionária podem, a qualquer momento, acordar na extinção total ou parcial da Concessão, definindo os seus efeitos.
 
-###### Base XXXIV — Fiscalização
+Base XXXIV
+
+Fiscalização
 
 1 - O estabelecimento da Concessão e as actividades nele exercidas ficam sujeitos à fiscalização do Concedente, sem prejuízo do exercício de fiscalização por parte de outras entidades competentes.
 
@@ -765,15 +849,21 @@ O Concedente e a Concessionária podem, a qualquer momento, acordar na extinçã
 
 5 - Quando a Concessionária não tenha respeitado determinações emitidas pelo Concedente no âmbito dos seu poderes de fiscalização, assiste a este a faculdade de proceder à correcção da situação, directamente ou através de terceiros, correndo os correspondentes custos por conta da Concessionária.
 
-###### Base XXXV — Vistorias
+Base XXXV
+
+Vistorias
 
 Constituem encargo da Concessionária todas as despesas resultantes de vistorias extraordinárias, nomeadamente determinadas pelo Concedente ou devidas a reclamações de terceiros, desde que se conclua pela existência de irregularidades que lhe sejam imputáveis.
 
-###### Base XXXVI — Autorizações e aprovações
+Base XXXVI
+
+Autorizações e aprovações
 
 As autorizações e aprovações a emitir pelo Concedente, nos termos previstos no Contrato de Concessão, ou as suas eventuais recusas não implicam a assunção de qualquer responsabilidade pelo Concedente nem exoneram a Concessionária do cumprimento cabal e atempado das suas obrigações.
 
-###### Base XXXVII — Concedente
+Base XXXVII
+
+Concedente
 
 1 - O Estado Português é o Concedente, sem prejuízo do disposto nos números seguintes da presente base.
 
@@ -781,7 +871,9 @@ As autorizações e aprovações a emitir pelo Concedente, nos termos previstos 
 
 3 - A posição do Estado Português, como Concedente, transmite-se automaticamente para a APDL 30 dias após a assinatura do Contrato de Concessão, em conformidade com o disposto no n.º 4 do artigo 3.º do [Decreto-Lei n.º 29/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2003-198687), de 12 de Fevereiro.
 
-###### Base XXXVIII — Caução
+Base XXXVIII
+
+Caução
 
 1 - Como garantia do bom e integral cumprimento de todas obrigações emergentes do Contrato de Concessão, a Concessionária presta a favor do Concedente uma caução no montante de (euro) 750000.
 
@@ -797,7 +889,9 @@ As autorizações e aprovações a emitir pelo Concedente, nos termos previstos 
 
 7 - Todas as despesas derivadas da prestação e reforços da caução são da responsabilidade da Concessionária.
 
-###### Base XXXIX — Oneração ou transmissão de direitos e exploração de serviços por terceiros
+Base XXXIX
+
+Oneração ou transmissão de direitos e exploração de serviços por terceiros
 
 1 - A Concessionária não pode, sem prévio consentimento do Concedente, onerar, transmitir, subconceder ou por qualquer outra forma fazer-se substituir, no todo ou em parte, na titularidade ou exercício dos direitos e bens da Concessão.
 
@@ -805,7 +899,9 @@ As autorizações e aprovações a emitir pelo Concedente, nos termos previstos 
 
 3 - A exploração, devidamente autorizada, dos serviços concessionados por terceiros fica subordinada ao regime que vier a ser estabelecido entre Concedente e Concessionária, sendo a Concessionária solidariamente responsável pelas faltas ocorridas na prestação desses serviços.
 
-###### Base XL — Documentação integrante, interpretação e integração do Contrato de Concessão
+Base XL
+
+Documentação integrante, interpretação e integração do Contrato de Concessão
 
 1 - O Contrato de Concessão rege-se pelo seu clausulado e pelos anexos nele expressamente referidos.
 
@@ -827,7 +923,9 @@ iii) Programa de Procedimento.
 
 5 - Sem prejuízo do disposto no número anterior, a Concessionária é total e exclusivamente responsável pelo estrito cumprimento das suas obrigações contratuais e não fica delas exonerada pelo facto de apresentar as suas dúvidas ao Concedente nos termos previstos nesta base, salvo se o Concedente tiver dado o seu acordo escrito à interpretação apresentada pela Concessionária.
 
-###### Base XLI — Lei aplicável
+Base XLI
+
+Lei aplicável
 
 1 - O Contrato de Concessão, incluindo os contratos a ele anexos, fica sujeito à lei portuguesa e aos princípios de direito administrativo.
 
@@ -835,7 +933,9 @@ iii) Programa de Procedimento.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Base XLII — Resolução de diferendos
+Base XLII
+
+Resolução de diferendos
 
 1 - Caso surja qualquer diferendo relacionado com a interpretação, integração ou execução do Contrato de Concessão, ou com a sua validade e eficácia, ou de qualquer das suas disposições, o Concedente e a Concessionária devem, em primeiro lugar, tentar chegar a um acordo conciliatório.
 
@@ -861,20 +961,28 @@ iii) Programa de Procedimento.
 
 12 - A Concessionária obriga-se a dar imediato conhecimento ao Concedente da ocorrência de qualquer diferendo ou litígio com as entidades subcontratadas no âmbito dos subcontratos e a prestar-lhe toda a informação relativa à evolução dos mesmos.
 
-###### Base XLIII — Invalidade parcial do Contrato de Concessão
+Base XLIII
+
+Invalidade parcial do Contrato de Concessão
 
 A eventual nulidade, anulabilidade ou ineficácia de qualquer das cláusulas do Contrato de Concessão não implica só por si a sua invalidade total, devendo o Concedente e a Concessionária, se tal se verificar, procurar por acordo modificar ou substituir a ou as cláusulas inválidas ou ineficazes por outras, o mais rapidamente possível e por forma a salvaguardar a plena validade, eficácia e equilíbrio económico-financeiro do Contrato de Concessão, de acordo com o espírito, finalidades e exigências daquele.
 
-###### Base XLIV — Efeito aglutinador do Contrato de Concessão
+Base XLIV
+
+Efeito aglutinador do Contrato de Concessão
 
 1 - Não obstante o disposto sobre a interpretação e integração do Contrato de Concessão, este aglutina e substitui integralmente todos os anteriores documentos do procedimento, aí se incluindo o Programa de Procedimento, o Caderno de Encargos, a proposta entregue pelo Concorrente e a Proposta Final, e, bem assim, todos e quaisquer anteriores acordos, verbais ou escritos, celebrados entre o Concedente e a Concessionária, relativos ao seu objecto.
 
 2 - Não podem ser invocados, nem têm qualquer validade ou eficácia, quaisquer documentos ou acordos que não sejam considerados pelo clausulado do Contrato de Concessão como fazendo parte integrante do mesmo, salvo como eventual elemento de interpretação ou de integração.
 
-###### Base XLV — Entrada em vigor do Contrato de Concessão
+Base XLV
+
+Entrada em vigor do Contrato de Concessão
 
 O Contrato de Concessão entra em vigor no dia da sua assinatura.
 
-###### Base XLVI — Exercício de direitos
+Base XLVI
+
+Exercício de direitos
 
 Sem prejuízo do disposto na base XLII quanto à resolução de diferendos, o não exercício ou o exercício tardio ou parcial de qualquer direito que assista ao Concedente ou à Concessionária ao abrigo do Contrato de Concessão não importa a renúncia a esse direito, não impede o seu exercício posterior nem constitui moratória ou novação da respectiva obrigação.

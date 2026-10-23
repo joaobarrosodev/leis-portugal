@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/112a00/23952399.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/119/1997/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1997-397133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T01:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 824dcb702e848772f0964c84fede00f6a67ae0cb5c0234512d3254a84c636c1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bb699af0e24929e102a34705aa3ec462686453385aab480017d4987ec5f7e03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
+- Certificado de Qualidade
 - Controlo de Qualidade
-- Região Demarcada
+- Denominação de Origem
+- Indicação Geográfica
 - Instituto da Vinha e do Vinho
 - Isenção Fiscal
-- Certificado de Qualidade
-- Taxa
 - Produto Vitivinícola
+- Região Demarcada
+- Taxa
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:552802:por
@@ -88,16 +88,28 @@ relationships:
   target: celex:31993R2238
   label: null
   source: http://data.europa.eu/eli/reg/1993/2238/oj
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado o Dec Lei 350/88 de 30-set, com excepção dos arts 5º e 6º, na redacção do presente diploma, pelo Dec Lei\
+    \ 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação da legislação prevista\
+    \ nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
+- type: repealed_by
+  target: pt:dre:552802:por
+  label: "Revogado, a partir de 25.04.2012, pelo DEC LEI.94/2012.20.04.2012.MAMAOT, DR.IS [79] de 20.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/94-2012-552802
+  date: '2012-04-20'
 article_structure:
-  article_count: 14
+  article_count: 16
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:49:04Z'
   warnings: []
   errors: []
 ---
@@ -210,7 +222,9 @@ Por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas s
 
 As perdas de produtos vínicos passíveis de pagamento de taxas previstas no presente diploma, que ocorram devido a caso fortuito ou de força maior, devidamente comprovado, devem ser comunicadas imediatamente ao IVV ou à respectiva entidade certificadora, conforme os casos, por forma que estas possam proceder a uma verificação dos factos.
 
-#### SECÇÃO I — Artigo 10.º
+#### SECÇÃO I
+
+###### Artigo 10.º
 
 Isenções
 
@@ -226,7 +240,9 @@ d) As perdas previstas no artigo 9.º;
 
 e) Os vinhos destinados ao autoconsumo dos produtores, até ao limite de 1000 l, por campanha.
 
-#### SECÇÃO II — Artigo 11.º
+#### SECÇÃO II
+
+###### Artigo 11.º
 
 Regulamentação
 
@@ -328,12 +344,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
 
-**Promulgado em 26 de Abril de 1997.**
+Promulgado em 26 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 29 de Abril de 1997.**
+Referendado em 29 de Abril de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

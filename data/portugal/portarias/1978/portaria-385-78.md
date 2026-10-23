@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1978-297443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T05:39:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f79af4875458a854315cf211369c9b7b226bb17e0ce765a57a02be3e7f71d561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86b59cf60d89a472f150b6cc7ab43cb4a3bd77e7c24705a15b4c45376607ed1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:39:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Estabelecimento Prisional
+- Forças Armadas
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Serviços Prisionais Militares
+relationships:
+- type: cites
+  target: pt:dre:355330:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:39:56Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +98,7 @@ Manda o Conselho da Revolução, pelo seu membro designado de acordo com o artig
 
 1 - São os Serviços Prisionais Militares autorizados a admitir, em regime de prestação de serviços, o pessoal que se discrimina no quadro seguinte, nos quantitativos e com os vencimentos no mesmo indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16200/13151316.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16200/13151316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16200/13151316.pdf)
 
 2 - A duração dos contratos de prestação de serviço será de seis meses, com início em 1 de Janeiro de 1978.
 

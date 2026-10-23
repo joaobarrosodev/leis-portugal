@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 172/1996, 1º Suplemento, Série I-A de 1996-07-26
   number: '172'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2136-(2) a 2136-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/172a01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/101-a/1996/07/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-1996-475476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1de616acd4ee0c38c99270aa4b178fc87496782cee52df107e3fdf4b1ed4c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef020516db5561f7d487c1a2f8fdaba2611e3d6ffd62a4d3e5717e3da01b466a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Administração Pública
-- Férias
 - Administração Local
-- Funcionário Público
+- Administração Pública
 - Administração Regional
+- Férias
+- Função Pública
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:138777:por
@@ -82,16 +82,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:138777:por
+  label: "Revogado o Dec Lei 497/88 de 30-Dez, na redacção do presente diploma, pelo DEC LEI.100/99.31.03.1999.PCM, DR.IS-A\
+    \ [76] de 31.03.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1999-138777
+  date: '1999-03-31'
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:11Z'
   warnings: []
   errors: []
 ---
@@ -138,11 +152,15 @@ d) 25 dias úteis de férias a partir de 60 anos de idade.
 
 5 - Durante as férias não pode ser exercida qualquer actividade remunerada, salvo se a mesma já viesse sendo legalmente exercida.
 
-###### Artigo 3.º — Antecipação do gozo de férias referente ao primeiro ano de serviço
+Artigo 3.º
+
+Antecipação do gozo de férias referente ao primeiro ano de serviço
 
 Sem prejuízo do disposto no n.º 1 do artigo anterior, quando o início de funções ocorra até 15 de Junho, o funcionário ou agente pode gozar antecipadamente, nesse ano civil, após seis meses de serviço efectivo, metade do período de férias a que teria direito se possuísse mais de um ano de serviço efectivo.
 
-###### Artigo 4.º — Retribuição durante as férias
+Artigo 4.º
+
+Retribuição durante as férias
 
 1 - ...
 
@@ -166,12 +184,12 @@ O presente diploma produz efeitos reportados a 1 de Janeiro de 1996.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 25 de Julho de 1996.**
+Promulgado em 25 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Julho de 1996.**
+Referendado em 26 de Julho de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

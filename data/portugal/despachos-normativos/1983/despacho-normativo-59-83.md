@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/59-1983-311453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T07:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0245b73f4f5c7e7eb544cc2f991acf28be1586006712801b691749603ec765f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfd9c91b2c91ec70ff0c0e92fb214f625d88e3c8150e8d955caf3ee4d68c9773
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão de Coordenação da Região do Algarve
+- Pessoal de Chefia
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:382994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:26:02Z'
   warnings: []
   errors: []
 ---
@@ -89,6 +101,6 @@ Considerando ainda que há urgência em dar cumprimento àquele imperativo legal
 
 Ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, é aprovada a programação do preenchimento do lugar de chefe de repartição, vago e nunca provido, do quadro de pessoal da Comissão de Coordenação da Região do Algarve, aprovado pelo [Decreto-Lei n.º 71/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1979-382994), de 29 de Dezembro, pelo modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/04900/07220722.pdf))](https://files.diariodarepublica.pt/1s/1983/03/04900/07220722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/04900/07220722.pdf)
 
 Ministérios das Finanças e do Plano, da Administração Interna e da Reforma Administrativa, 3 de Fevereiro de 1983. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Administração Interna, José Ângelo Ferreira Correia Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

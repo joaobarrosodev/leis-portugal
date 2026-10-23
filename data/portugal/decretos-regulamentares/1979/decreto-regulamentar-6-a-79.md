@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 70/1979, 1º Suplemento, Série I de 1979-03-24
   number: '70'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 482-(1) a 482-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/07001/00010015.pdf
 entry_into_force_dates: []
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b39a348fddd5c48de10faff6510c562261061a6807405d06ccc3f282012115d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55827c25558176ccca4129b98248ca0aeacc95dc8c70c02a2bbbd7f13075af23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Serviço Regional de Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:222468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472502:por
+  label: "Dada nova redacção ao art. 3º, pelo DR.29/80.1980.07.24.PCM, DR.IS [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/29-1980-472502
+  date: '1980-07-24'
+- type: amended_by
+  target: pt:dre:228247:por
+  label: "Criado um lugar no quadro de pessoal constante do quadro anexo, pela PORT.341/86.05.07.1986.MF, DR.IS [152] de 05.07.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/341-1986-228247
+  date: '1986-07-05'
+- type: amended_by
+  target: pt:dre:228250:por
+  label: "Criado um lugar no quadro de pessoal constante do anexo ao presente diploma, pela PORT.339/86.05.07.1986.MF, DR.IS\
+    \ [152] de 05.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-1986-228250
+  date: '1986-07-05'
+- type: amended_by
+  target: pt:dre:228245:por
+  label: "Criado um lugar no quadro de pessoal constante do quadro anexo, pela PORT.345/86.07.07.1986.MF, DR.IS [153] de 07.07.1986\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/345-1986-228245
+  date: '1986-07-07'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298014:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:385398:por
+  label: "Revogado pelo DEC LEI.223/84.06.07.1984.PCM, DR.IS [155] de 06.07.1984, sem prejuízo do disposto no seu n.º 2 do\
+    \ artigo 39.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1984-385398
+  date: '1984-07-06'
+- type: repealed_by
+  target: pt:dre:228013:por
+  label: "Revogado pelo DEC LEI.190/86.16.07.1986.MAPA, DR.IS [161] de 16.07.1986, sem prejuízo do disposto no seu n.º 2 do\
+    \ artigo 22.º \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/190-1986-228013
+  date: '1986-07-16'
+- type: repealed_by
+  target: pt:dre:222468:por
+  label: "Revogadas as disposições, no que dizem respeito à Direcção Regional de Agricultura do Alentejo, pelo DR.58/86.08.10.1986.MAPA,\
+    \ DR.IS [232] de 08.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/58-1986-222468
+  date: '1986-10-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:40Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +146,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - Os serviços regionais de agricultura, abreviadamente designados por SRA, criados na dependência do Ministro da Agricultura e Pescas nos termos dos artigos 7.º e 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, são serviços executivos, nos respectivos limites geográficos, da política agrária e dos planos decorrentes da programação nacional que, total ou parcelarmente, se insiram nesses limites.
+Artigo 1.º - 1 - Os serviços regionais de agricultura, abreviadamente designados por SRA, criados na dependência do Ministro da Agricultura e Pescas nos termos dos artigos 7.º e 42.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, são serviços executivos, nos respectivos limites geográficos, da política agrária e dos planos decorrentes da programação nacional que, total ou parcelarmente, se insiram nesses limites.
 
 2 - As atribuições dos serviços regionais de agricultura são as constantes do artigo 39.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
 3 - A acção dos serviços regionais de agricultura desenvolve-se, nos termos do artigo 9.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, em regiões agrárias coincidentes com as regiões Plano.
 
-###### Art. 2.º - 1 - Os serviços regionais de agricultura gozam de autonomia administrativa.
+Art. 2.º - 1 - Os serviços regionais de agricultura gozam de autonomia administrativa.
 
 2 - Os serviços regionais de agricultura dispõem das seguintes receitas próprias:
 
@@ -124,13 +178,13 @@ i) Quaisquer outras receitas que lhes sejam atribuídas por lei ou contrato.
 
 4 - Os saldos das dotações não utilizadas serão transferidos para o ano económico subsequente.
 
-###### Art. 3.º Os serviços regionais de agricultura são dirigidos por um director regional, coadjuvado por um subdirector regional, que o substituirá nas suas ausências e impedimentos.
+Art. 3.º Os serviços regionais de agricultura são dirigidos por um director regional, coadjuvado por um subdirector regional, que o substituirá nas suas ausências e impedimentos.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 #### SECÇÃO I — Dos órgãos
 
-###### Art. 4.º São órgãos dos serviços regionais de agricultura:
+Art. 4.º São órgãos dos serviços regionais de agricultura:
 
 a) O Conselho Regional de Agricultura;
 
@@ -138,11 +192,11 @@ b) O Conselho Técnico Regional;
 
 c) O Conselho Administrativo.
 
-###### Art. 5.º - 1 - O Conselho Regional de Agricultura é um órgão consultivo de concertação e diálogo entre a Administração e os interesses económicos e sociais no campo agrário regional.
+Art. 5.º - 1 - O Conselho Regional de Agricultura é um órgão consultivo de concertação e diálogo entre a Administração e os interesses económicos e sociais no campo agrário regional.
 
 2 - A composição e funções do Conselho são as constantes do [Decreto-Lei n.º 166/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1978-298014), de 6 de Julho.
 
-###### Art. 6.º - 1 - O Conselho Técnico Regional é um órgão de consulta e apoio ao director regional, por ele presidido, cujas atribuições e composição são as constantes dos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 6.º - 1 - O Conselho Técnico Regional é um órgão de consulta e apoio ao director regional, por ele presidido, cujas atribuições e composição são as constantes dos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
 2 - O Conselho Técnico Regional será secretariado por um secretário, sem direito a voto, designado pelo director regional.
 
@@ -150,7 +204,7 @@ c) O Conselho Administrativo.
 
 4 - Sempre que se mostre conveniente, serão convocados ou convidados, com estatuto consultivo, outros elementos do Ministério da Agricultura e Pescas ou a ele estranhos especialmente qualificados para o esclarecimento das matérias em apreciação.
 
-###### Art. 7.º - 1 - Ao presidente do Conselho Técnico Regional compete:
+Art. 7.º - 1 - Ao presidente do Conselho Técnico Regional compete:
 
 a) Convocar as reuniões e os convidados quando necessário;
 
@@ -170,13 +224,13 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do Conselho.
 
-###### Art. 8.º - 1 - O Conselho Técnico Regional funciona em reuniões plenárias ou restritas sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 8.º - 1 - O Conselho Técnico Regional funciona em reuniões plenárias ou restritas sob prévia decisão do presidente, reunindo o plenário ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do Conselho Técnico Regional são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
 3 - As entidades estranhas ao Ministério da Agricultura e Pescas convidadas de conformidade com o n.º 4 do artigo 6.º terão direito a uma senha de presença por cada reunião a que assistam, bem como ao abono das despesas de transportes, nos termos legais.
 
-###### Art. 9.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
+Art. 9.º - 1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira, constituído pelos seguintes membros:
 
 a) O director regional, que presidirá;
 
@@ -188,7 +242,7 @@ d) O director do Gabinete de Planeamento.
 
 2 - Servirá de secretário do Conselho o chefe da Repartição de Administração Financeira.
 
-###### Art. 10.º - 1 - Compete ao Conselho Administrativo:
+Art. 10.º - 1 - Compete ao Conselho Administrativo:
 
 a) Elaborar o projecto de orçamento do Serviço Regional de conta das dotações consignadas no Orçamento Geral do Estado e propor as alterações consideradas necessárias;
 
@@ -224,7 +278,7 @@ d) Convocar e dirigir as reuniões do Conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 11.º - 1 - São serviços dos serviços regionais de agricultura:
+Art. 11.º - 1 - São serviços dos serviços regionais de agricultura:
 
 A) Serviços de apoio:
 
@@ -260,11 +314,11 @@ b) Zonas agrárias.
 
 ##### SUBSECÇÃO I — Dos serviços de apoio
 
-###### Art. 12.º - 1 - O Gabinete de Planeamento tem como atribuições a programação das actividades dos serviços regionais de agricultura, o ordenamento regional, a coordenação das matérias relativas ao crédito, seguros, custos e preços dos produtos agrários e dos factores de produção.
+Art. 12.º - 1 - O Gabinete de Planeamento tem como atribuições a programação das actividades dos serviços regionais de agricultura, o ordenamento regional, a coordenação das matérias relativas ao crédito, seguros, custos e preços dos produtos agrários e dos factores de produção.
 
 2 - O Gabinete de Planeamento assegura as ligações com unidades afins do Ministério da Agricultura e Pescas, nomeadamente com o Gabinete de Planeamento deste Ministério.
 
-###### Art. 13.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
+Art. 13.º O Gabinete de Planeamento é dirigido por um director de serviços e compreende as seguintes divisões:
 
 a) Estudos e Programação;
 
@@ -272,7 +326,7 @@ b) Ordenamento;
 
 c) Crédito e Seguros.
 
-###### Art. 14.º À Divisão de Estudos e Programação compete:
+Art. 14.º À Divisão de Estudos e Programação compete:
 
 a) Assegurar a participação do serviço regional de agricultura na elaboração de estudos, planos e projectos de desenvolvimento regional, a integrar nos programas nacionais;
 
@@ -284,7 +338,7 @@ d) Acompanhar a execução dos programas e projectos e zelar pela elaboração d
 
 e) Assegurar a elaboração do relatório anual de actividade do serviço regional de agricultura.
 
-###### Art. 15.º À Divisão de Ordenamento compete, inserida na perspectiva nacional estabelecida:
+Art. 15.º À Divisão de Ordenamento compete, inserida na perspectiva nacional estabelecida:
 
 a) Recolher e tratar os dados disponíveis tendo em vista o ordenamento regional em relação aos vários domínios agrários, promovendo as acções julgadas necessárias à obtenção daquela finalidade;
 
@@ -296,7 +350,7 @@ d) Manter actualizado o conhecimento das produções, disponibilidades, custos e
 
 e) Coordenar a nível regional as acções referentes à protecção do meio ambiente, tendo em vista a defesa da actividade agrária.
 
-###### Art. 16.º À Divisão de Crédito e Seguros compete:
+Art. 16.º À Divisão de Crédito e Seguros compete:
 
 a) Participar na formulação da política de crédito agrícola e seguros, em estreita colaboração com os organismos centrais do Ministério;
 
@@ -310,7 +364,7 @@ e) Controlar a aplicação do crédito agrícola a nível da região agrária;
 
 f) Obter informação técnica, económica e social dos vários serviços que permita um parecer sobre a viabilidade do empreendimento solicitado pelas empresas agro-industriais.
 
-###### Art. 17.º - 1 - A Direcção de Serviços de Administração tem atribuições nos seguintes domínios:
+Art. 17.º - 1 - A Direcção de Serviços de Administração tem atribuições nos seguintes domínios:
 
 a) Administração patrimonial e financeira;
 
@@ -322,7 +376,7 @@ d) Serviços gerais, vigilância e segurança das instalações.
 
 2 - A Direcção de Serviços de Administração assegurará as ligações com os serviços do Ministério, nomeadamente com a Secretaria-Geral, e com outros organismos, de forma a garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 18.º A Direcção de Serviços de Administração é dirigida por um director de serviços administrativos e compreende as seguintes repartições:
+Art. 18.º A Direcção de Serviços de Administração é dirigida por um director de serviços administrativos e compreende as seguintes repartições:
 
 a) Administração Patrimonial;
 
@@ -330,7 +384,7 @@ b) Administração Financeira;
 
 c) Pessoal e Assuntos Gerais.
 
-###### Art. 19.º À Repartição de Administração Patrimonial, constituída por três secções, compete:
+Art. 19.º À Repartição de Administração Patrimonial, constituída por três secções, compete:
 
 a) Assegurar o aproveitamento racional e a utilização dos edifícios e outras instalações do serviço regional de agricultura;
 
@@ -348,7 +402,7 @@ g) Promover todas as demais aquisições necessárias ao funcionamento dos servi
 
 h) Organizar e manter actualizado o inventário do serviço regional de agricultura respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital.
 
-###### Art. 20.º - 1 - À Repartição de Administração Financeira, constituída por duas secções, compete:
+Art. 20.º - 1 - À Repartição de Administração Financeira, constituída por duas secções, compete:
 
 a) Coligir todos os elementos indispensáveis à elaboração do projecto de orçamento do serviço regional de agricultura;
 
@@ -370,7 +424,7 @@ i) Manter devidamente organizado o arquivo de toda a documentação das gerênci
 
 2 - Adstrita à Repartição de Administração Financeira, funciona a tesouraria.
 
-###### Art. 21.º À Repartição do Pessoal e Assuntos Gerais, constituída por três secções, compete:
+Art. 21.º À Repartição do Pessoal e Assuntos Gerais, constituída por três secções, compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da região;
 
@@ -390,7 +444,7 @@ h) Promover a divulgação pelos serviços das normas internas e demais directiv
 
 i) Superintender no pessoal auxiliar de limpeza, assegurando a organização do respectivo trabalho.
 
-###### Art. 22.º O Centro de Documentação e Informação Científica e Técnica é um serviço de apoio directamente dependente do director regional e orientado por um técnico superior, competindo-lhe:
+Art. 22.º O Centro de Documentação e Informação Científica e Técnica é um serviço de apoio directamente dependente do director regional e orientado por um técnico superior, competindo-lhe:
 
 a) Planear, centralizar e coordenar todos os processos de aquisição, permuta e oferta de publicações, a desenvolver pelo serviço regional de agricultura, a nível nacional e internacional;
 
@@ -404,7 +458,7 @@ e) Gerir os serviços de reprografia, desenho e oficinas gráficas do serviço r
 
 f) Organizar a participação do serviço regional de agricultura em feiras, exposições, colóquios e outras actividades afins, sob a orientação da Direcção-Geral de Extensão Rural.
 
-###### Art. 23.º O Núcleo de Estatística é um serviço de apoio directamente dependente do director regional e orientado por um técnico superior, competindo-lhe:
+Art. 23.º O Núcleo de Estatística é um serviço de apoio directamente dependente do director regional e orientado por um técnico superior, competindo-lhe:
 
 a) Assegurar a participação do serviço regional de agricultura na execução dos recenseamentos de âmbito agrário promovidos pelo Instituto Nacional de Estatística, em colaboração com o Gabinete de Planeamento do Ministério;
 
@@ -416,15 +470,15 @@ d) Satisfazer as solicitações do Gabinete de Planeamento do serviço regional 
 
 ##### SUBSECÇÃO II — Dos serviços operativos
 
-###### Art. 24.º A Direcção de Serviços de Extensão Rural tem atribuições nos domínios do associativismo, da família e juventude rurais, da formação profissional e da organização e gestão da empresa agrícola, em ligação com a Direcção-Geral de Extensão Rural.
+Art. 24.º A Direcção de Serviços de Extensão Rural tem atribuições nos domínios do associativismo, da família e juventude rurais, da formação profissional e da organização e gestão da empresa agrícola, em ligação com a Direcção-Geral de Extensão Rural.
 
-###### Art. 25.º A Direcção de Serviços de Extensão Rural é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 25.º A Direcção de Serviços de Extensão Rural é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Associativismo, Juventude e Família Rural;
 
 b) Formação Profissional, Organização e Gestão da Empresa Agrária.
 
-###### Art. 26.º À Divisão de Associativismo, Juventude e Família Rural compete:
+Art. 26.º À Divisão de Associativismo, Juventude e Família Rural compete:
 
 a) Apoiar e dinamizar as associações de agricultores ou outras formas associativas da comunidade rural, promovendo acções de adestramento e organização como meio de desenvolvimento social, económico e cultural das populações;
 
@@ -442,7 +496,7 @@ g) Emitir parecer, sob o ponto de vista cooperativo, em íntima colaboração co
 
 h) Recolher e preparar os dados sobre o associativismo na região.
 
-###### Art. 27.º À Divisão de Formação Profissional, Organização e Gestão da Empresa Agrária compete:
+Art. 27.º À Divisão de Formação Profissional, Organização e Gestão da Empresa Agrária compete:
 
 a) Promover a formação profissional de agricultores e trabalhadores rurais e definir os meios destinados a assegurar a instalação e funcionamento das infra-estruturas necessárias para o efeito;
 
@@ -464,9 +518,9 @@ i) Promover e apoiar a gestão das explorações agrícolas a cargo do Serviço 
 
 j) Manter explorações modelo, localizadas em áreas representativas da região, recorrendo ao apoio integrado dos restantes serviços do serviço regional de agricultura para a sua implementação e manutenção.
 
-###### Art. 28.º A Direcção de Serviços de Higiene e Defesa Animal tem atribuições nos domínios da defesa sanitária dos animais, do melhoramento zootécnico e protecção do património genético e da higiene pública veterinária, em ligação com a Direcção-Geral dos Serviços Veterinários.
+Art. 28.º A Direcção de Serviços de Higiene e Defesa Animal tem atribuições nos domínios da defesa sanitária dos animais, do melhoramento zootécnico e protecção do património genético e da higiene pública veterinária, em ligação com a Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 29.º A Direcção de Serviços de Higiene e Defesa Animal é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 29.º A Direcção de Serviços de Higiene e Defesa Animal é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Sanidade Animal;
 
@@ -474,7 +528,7 @@ b) Higiene Pública Veterinária;
 
 c) Protecção e Melhoramento do Património Genético.
 
-###### Art. 30.º À Divisão de Sanidade Animal compete:
+Art. 30.º À Divisão de Sanidade Animal compete:
 
 a) Colaborar com a Direcção-Geral dos Serviços Veterinários em programas e acções de âmbito nacional de luta sistemática, preventiva e curativa contra as doenças dos animais e programar a defesa sanitária destes, em casos específicos, a nível regional;
 
@@ -492,7 +546,7 @@ g) Compatibilizar a actividade dos médicos veterinários ao serviço das câmar
 
 h) Participar na elaboração das normas de higiene a que devem obedecer os alojamentos, transporte e alimentação animal e assegurar o seu cumprimento.
 
-###### Art. 31.º À Divisão de Higiene Pública Veterinária compete:
+Art. 31.º À Divisão de Higiene Pública Veterinária compete:
 
 a) Assegurar a execução das medidas destinadas a garantir a qualidade das matérias-primas e produtos de origem animal destinados ao consumo público, de forma que sejam respeitadas a genuinidade e salubridade;
 
@@ -506,7 +560,7 @@ e) Colaborar nas acções conducentes à aplicação do respeitante às atribui�
 
 f) Colaborar com os organismos competentes nas acções conducentes à protecção do meio ambiente das agressões decorrentes do processo agrário.
 
-###### Art. 32.º À Divisão de Protecção e Melhoramento do Património Genético compete, sob a orientação dos serviços centrais a que está atribuído este domínio:
+Art. 32.º À Divisão de Protecção e Melhoramento do Património Genético compete, sob a orientação dos serviços centrais a que está atribuído este domínio:
 
 a) Assegurar a identificação dos animais, colaborando com a Direcção-Geral dos Serviços Veterinários na definição das suas aptidões e no contrôle dos seus ascendentes e descendentes;
 
@@ -518,9 +572,9 @@ d) Colaborar na avaliação da capacidade genética dos reprodutores;
 
 e) Colaborar nas acções de preservação das espécies, raças ou estirpes de animais que se pretendam salvaguardar.
 
-###### Art. 33.º A Direcção de Serviços de Produção Agrária tem atribuições nos domínios da produção agrária, bem como nos da sua comercialização e industrialização, em ligação com as entidades competentes.
+Art. 33.º A Direcção de Serviços de Produção Agrária tem atribuições nos domínios da produção agrária, bem como nos da sua comercialização e industrialização, em ligação com as entidades competentes.
 
-###### Art. 34.º A Direcção de Serviços de Produção Agrária é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 34.º A Direcção de Serviços de Produção Agrária é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Produção Agrícola;
 
@@ -530,7 +584,7 @@ c) Produção Florestal;
 
 d) Comercialização e agro-industriais.
 
-###### Art. 35.º À Divisão de Produção Agrícola compete:
+Art. 35.º À Divisão de Produção Agrícola compete:
 
 a) Colaborar com as direcções-gerais competentes, a nível regional, no estudo e definição das espécies vegetais e suas variedades mais importantes e aptas para as diferentes zonas agro-ecológicas;
 
@@ -550,7 +604,7 @@ h) Recolher e coligir, no âmbito regional, os elementos existentes no campo da 
 
 i) Coordenar e apoiar a elaboração e execução de planos de produção agrícola, em estreita colaboração com os serviços de extensão rural.
 
-###### Art. 36.º À Divisão de Produção Animal compete:
+Art. 36.º À Divisão de Produção Animal compete:
 
 a) Colaborar com as direcções-gerais competentes, a nível regional, no estudo e definição das zonas agro-ecológicas mais adequadas às diferentes espécies e raças de animais, bem como dos sistemas de exploração aconselhados para as diferentes sub-regiões, atendendo aos seus condicionalismos sócio-económicos;
 
@@ -576,7 +630,7 @@ k) Acompanhar e apoiar os serviços de extensão rural na aplicação de conheci
 
 l) Participar e apoiar a organização e realização de concursos, certames e exposições pecuárias com interesse para a região.
 
-###### Art. 37.º À Divisão de Produção Florestal compete, sob a orientação da Direcção-Geral de Fomento Florestal e da Direcção-Geral de Ordenamento e Gestão Florestal:
+Art. 37.º À Divisão de Produção Florestal compete, sob a orientação da Direcção-Geral de Fomento Florestal e da Direcção-Geral de Ordenamento e Gestão Florestal:
 
 a) Participar no estudo e definição das espécies florestais mais importantes e melhor adaptadas às diferentes zonas agro-ecológicas da região;
 
@@ -594,7 +648,7 @@ g) Apoiar a criação de unidades de actividades de I-D, permitindo a inserção
 
 h) Acompanhar as actividades de I-D, quer nas unidades referidas na alínea anterior, quer noutras existentes na região.
 
-###### Art. 38.º À Divisão de Comercialização e Agro-Indústriais compete, sob orientação da Direcção-Geral das Indústrias Agrícolas e Alimentares e do Instituto de Qualidade Alimentar:
+Art. 38.º À Divisão de Comercialização e Agro-Indústriais compete, sob orientação da Direcção-Geral das Indústrias Agrícolas e Alimentares e do Instituto de Qualidade Alimentar:
 
 a) Participar na definição de normas técnicas e práticas mais adequadas à comercialização dos produtos agrários e assegurar a sua execução a nível regional;
 
@@ -608,9 +662,9 @@ e) Colaborar no estabelecimento de normas contratuais entre agricultores e indus
 
 f) Apoiar e desenvolver acções conducentes à salvaguarda da indústria artesanal no meio rural, atendendo ao seu interesse económico e social.
 
-###### Art. 39.º A Direcção de Serviços de Apoio à Produção tem atribuições nos domínios do solo, climatologia, recursos hídricos, engenharia rural e protecção da produção agrícola e de apoio à produção florestal, em ligação com as direcções-gerais competentes.
+Art. 39.º A Direcção de Serviços de Apoio à Produção tem atribuições nos domínios do solo, climatologia, recursos hídricos, engenharia rural e protecção da produção agrícola e de apoio à produção florestal, em ligação com as direcções-gerais competentes.
 
-###### Art. 40.º A Direcção de Serviços de Apoio à Produção é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 40.º A Direcção de Serviços de Apoio à Produção é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Solos, Hidráulica e Engenharia Agrícola;
 
@@ -618,7 +672,7 @@ b) Protecção da Produção Agrícola;
 
 c) Apoio à Produção Florestal.
 
-###### Art. 41.º À Divisão de Solos, Hidráulica e Engenharia Agrícola compete, em ligação com a Direcção-Geral de Hidráulica e Engenharia Agrícola:
+Art. 41.º À Divisão de Solos, Hidráulica e Engenharia Agrícola compete, em ligação com a Direcção-Geral de Hidráulica e Engenharia Agrícola:
 
 a) Colaborar na definição das normas e técnicas de defesa e conservação do solo, assegurando, a nível regional, a sua correcta e racional utilização para a renovação e estabilidade ecológica;
 
@@ -642,7 +696,7 @@ j) Apoiar ou executar o estudo e a definição dos modelos mais adequados ao equ
 
 l) Colaborar na gestão e dimensionamento do parque de máquinas da região e apoiar a gestão dos parques de máquinas de organizações cooperativas e de alugadores de máquinas.
 
-###### Art. 42.º À Divisão de Protecção da Produção Agrícola compete, em colaboração com a Direcção-Geral de Protecção da Produção Agrícola:
+Art. 42.º À Divisão de Protecção da Produção Agrícola compete, em colaboração com a Direcção-Geral de Protecção da Produção Agrícola:
 
 a) Apoiar e acompanhar as acções de combate contra pragas, doenças das plantas e infestantes das culturas, promovendo a sua execução em casos excepcionais;
 
@@ -656,7 +710,7 @@ e) Colaborar nas acções conducentes à protecção do meio ambiente das agress
 
 f) Apoiar, promover e acompanhar a execução de acções no âmbito da fitossanidade, em colaboração com o Instituto Nacional de Investigação Agrária e a Direcção-Geral de Protecção da Produção Agrícola.
 
-###### Art. 43.º À Divisão de Apoio à Produção Florestal compete, em colaboração com a Direcção-Geral de Ordenamento e Gestão Florestal:
+Art. 43.º À Divisão de Apoio à Produção Florestal compete, em colaboração com a Direcção-Geral de Ordenamento e Gestão Florestal:
 
 a) Promover e apoiar a gestão do património florestal privado, expropriado e nacionalizado e colaborar na gestão do património florestal comunitário;
 
@@ -674,7 +728,7 @@ g) Promover as acções conducentes à fiscalização da protecção dos arvored
 
 h) Colaborar na produção de sementes, propágulos e plantas de espécies florestais, nomeadamente promovendo na região a instalação de viveiros florestais.
 
-###### Art. 44.º A Divisão de Gestão e Estruturação Fundiária é dirigida por um chefe de divisão, competindo-lhe:
+Art. 44.º A Divisão de Gestão e Estruturação Fundiária é dirigida por um chefe de divisão, competindo-lhe:
 
 a) Programar e coordenar, a âmbito regional, a execução das medidas legislativas definidas no âmbito da Reforma Agrária;
 
@@ -686,13 +740,13 @@ d) Promover e garantir a aplicação das normas de utilização do património a
 
 ##### SUBSECÇÃO III — Dos serviços locais
 
-###### Art. 45.º - 1 - As sub-regiões agrárias, instituídas pelo n.º 4 do artigo 9.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, têm como domínio a execução, nas áreas geográficas que lhes sejam conferidas, das atribuições do respectivo serviço regional de agricultura.
+Art. 45.º - 1 - As sub-regiões agrárias, instituídas pelo n.º 4 do artigo 9.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, têm como domínio a execução, nas áreas geográficas que lhes sejam conferidas, das atribuições do respectivo serviço regional de agricultura.
 
 2 - As sub-regiões agrárias são dirigidas por um director de serviços.
 
 3 - Em cada serviço regional de agricultura as sub-regiões agrárias, bem como as áreas geográficas da sua actuação, serão definidas por decreto simples do Ministro da Agricultura e Pescas.
 
-###### Art. 46.º As sub-regiões agrárias compreendem os seguintes serviços:
+Art. 46.º As sub-regiões agrárias compreendem os seguintes serviços:
 
 a) Núcleo Administrativo;
 
@@ -700,13 +754,13 @@ b) Divisão de Extensão Rural e Produção Agrária;
 
 c) Divisão de Apoio à Produção, Higiene e Sanidade Animal.
 
-###### Art. 47.º - 1 - Ao Núcleo Administrativo, dependente hierarquicamente do director de serviços, compete assegurar o suporte administrativo da sub-região.
+Art. 47.º - 1 - Ao Núcleo Administrativo, dependente hierarquicamente do director de serviços, compete assegurar o suporte administrativo da sub-região.
 
 2 - O Núcleo Administrativo, no exercício das suas funções, depende funcionalmente da Direcção de Serviços de Administração.
 
 3 - O Núcleo Administrativo será equiparado a repartição ou secção administrativa mediante decreto simples do Ministro da Agricultura e Pescas.
 
-###### Art. 48.º À Divisão de Extensão Rural e Produção Agrária compete:
+Art. 48.º À Divisão de Extensão Rural e Produção Agrária compete:
 
 a) Executar, a nível da sub-região agrária, as acções do âmbito da competência das Direcções de Serviços de Extensão Rural e de Produção Agrária, do serviço regional de agricultura;
 
@@ -716,7 +770,7 @@ c) Recolher os dados e a informação de interesse para as direcções de servi�
 
 d) Coordenar e apoiar tecnicamente, no âmbito das suas actividades, as acções desenvolvidas nas zonas agrárias.
 
-###### Art. 49.º À Divisão de Apoio à Produção, Higiene e Sanidade Animal compete:
+Art. 49.º À Divisão de Apoio à Produção, Higiene e Sanidade Animal compete:
 
 a) Executar, a nível da sub-região agrária, as acções do âmbito da competência das Direcções de Serviços de Higiene e Defesa Animal e de Apoio à Produção;
 
@@ -726,7 +780,7 @@ c) Recolher os dados e a informação de interesse para as direcções de servi�
 
 d) Coordenar e apoiar tecnicamente, no âmbito das suas actividades, as acções desenvolvidas nas zonas agrárias.
 
-###### Art. 50.º - 1 - As zonas agrárias, instituídas pelo n.º 4 do artigo 9.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, são equiparadas a divisões, sendo-lhes cometida a execução, a nível local, das acções desenvolvidas pela sub-região.
+Art. 50.º - 1 - As zonas agrárias, instituídas pelo n.º 4 do artigo 9.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, são equiparadas a divisões, sendo-lhes cometida a execução, a nível local, das acções desenvolvidas pela sub-região.
 
 2 - Em cada sub-região, as zonas agrárias, bem como as áreas geográficas da sua actuação e as respectivas subdivisões orgânicas, serão definidas por decreto simples do Ministro da Agricultura e Pescas.
 
@@ -736,21 +790,21 @@ d) Coordenar e apoiar tecnicamente, no âmbito das suas actividades, as acções
 
 #### SECÇÃO I — Dos quadros do pessoal
 
-###### Art. 51.º - 1 - Os serviços regionais de agricultura disporão do contingente do pessoal dirigente e dos quadros únicos constantes dos mapas I a VII anexos a este diploma e que dele fazem parte integrante.
+Art. 51.º - 1 - Os serviços regionais de agricultura disporão do contingente do pessoal dirigente e dos quadros únicos constantes dos mapas I a VII anexos a este diploma e que dele fazem parte integrante.
 
 2 - As vagas resultantes da nomeação de funcionários dos serviços regionais de agricultura para qualquer cargo ou função pública, em regime de comissão, poderão ser providas interinamente.
 
-###### Art. 52.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo do provimento dos seus titulares em lugares de pessoal dirigente dos serviços regionais de agricultura só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do Decreto Regulamente n.º 79/77, de 26 de Novembro.
+Art. 52.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo do provimento dos seus titulares em lugares de pessoal dirigente dos serviços regionais de agricultura só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do Decreto Regulamente n.º 79/77, de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na competente dotação orçamental enquanto se mantiver aquela situação.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 53.º Os directores de serviços, chefes de divisão e outros dirigentes serão substituídos nas suas ausências e impedimentos pelos funcionários que vierem a ser designados pelo Ministro da Agricultura e Pescas, sob proposta do director regional.
+Art. 53.º Os directores de serviços, chefes de divisão e outros dirigentes serão substituídos nas suas ausências e impedimentos pelos funcionários que vierem a ser designados pelo Ministro da Agricultura e Pescas, sob proposta do director regional.
 
 ### CAPÍTULO IV — Ligações dos serviços regionais de agricultura com os serviços centrais do Ministério
 
-###### Art. 54.º As relações entre os serviços regionais de agricultura e as direcções-gerais e serviços centrais equiparados, além do expresso no n.º 2 do artigo 11.º deste diploma, basear-se-ão nos princípios a seguir mencionados:
+Art. 54.º As relações entre os serviços regionais de agricultura e as direcções-gerais e serviços centrais equiparados, além do expresso no n.º 2 do artigo 11.º deste diploma, basear-se-ão nos princípios a seguir mencionados:
 
 a) As actividades resultantes dessas relações, desde que sejam pontuais, deverão ser estabelecidas por protocolo;
 
@@ -758,38 +812,38 @@ b) Os serviços regionais de agricultura participarão no planeamento e programa
 
 ### CAPÍTULO V — Disposições gerais e finais
 
-###### Art. 55.º - 1 - Os serviços regionais de agricultura poderão, sem prejuízo das funções que lhes estão cometidas, realizar trabalhos que lhes sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 55.º - 1 - Os serviços regionais de agricultura poderão, sem prejuízo das funções que lhes estão cometidas, realizar trabalhos que lhes sejam solicitados por entidades públicas, cooperativas ou privadas.
 
 2 - Os serviços prestados serão cobrados de acordo com a tabela de preços que vier a ser aprovada por despacho ministerial.
 
-###### Art. 56.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, os serviços regionais de agricultura poderão celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 56.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, os serviços regionais de agricultura poderão celebrar contratos ou termos de tarefas com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 57.º Os serviços regionais de agricultura poderão promover a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação do Ministério.
+Art. 57.º Os serviços regionais de agricultura poderão promover a realização de cursos de actualização técnico-profissional para o seu pessoal e conceder-lhe bolsas de estudo, de harmonia com a política de formação do Ministério.
 
-###### Art. 58.º - 1 - A cobrança coerciva das dívidas aos serviços regionais de agricultura provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento haja sido reconhecida por despacho ministerial, realizar-se-á através do processo de execução fiscal.
+Art. 58.º - 1 - A cobrança coerciva das dívidas aos serviços regionais de agricultura provenientes de taxas ou outros rendimentos, cuja obrigação de pagamento haja sido reconhecida por despacho ministerial, realizar-se-á através do processo de execução fiscal.
 
 2 - Servirá de base à execução fiscal a certidão extraída dos livros ou documentos, passada pelos serviços competentes, onde se certifique o montante da dívida e a sua proveniência.
 
-###### Art. 59.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidos por lei aos organismos integrados nos serviços regionais de agricultura pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para estes serviços regionais.
+Art. 59.º As atribuições, competências e direitos, nomeadamente os inerentes à cobrança de receitas conferidos por lei aos organismos integrados nos serviços regionais de agricultura pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para estes serviços regionais.
 
-###### Art. 60.º - 1 - O presente diploma entrará em vigor no dia seguinte ao da sua publicação.
+Art. 60.º - 1 - O presente diploma entrará em vigor no dia seguinte ao da sua publicação.
 
 2 - A sua implementação efectivar-se-á, em cada região, de harmonia com a orientação que vier a ser definida por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 61.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 61.º As dúvidas suscitadas pela aplicação do presente diploma e os casos omissos serão resolvidos por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
 Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 16 de Março de 1979.**
+Promulgado em 16 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Do MAPA I ao MAPA VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/03/07001/00010015.pdf))](https://files.diariodarepublica.pt/1s/1979/03/07001/00010015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/03/07001/00010015.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

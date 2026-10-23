@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/69/2010/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2010-335686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f50b1414839ab140442a911cc3e85e67a6ac6f9e5dc3565110f8d180bc470225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e8a955606c2f61b83c876a7c3ee0b025396d115ab700edf6f21c9dd3573b0d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Desenvolvimento Rural
+- Financiamento
+- IFAP
 - Proder
 - Programa de Desenvolvimento Rural
-- Financiamento
-- Desenvolvimento Rural
 - REDE Rural Nacional
-- IFAP
 - Ruris
 relationships:
 - type: amended_by
   target: pt:dre:553458:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553458:por
+  label: "Alterados os art. 11º e 20º do Dec Lei 2/2008, de 04-jan, na redação do presente diploma, pelo DEC LEI.62/2012.14.03.2012.MAMAOT,\
+    \ DR.IS [53] de 14.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2012-553458
+  date: '2012-03-14'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -92,15 +98,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
 article_structure:
-  article_count: 13
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:44Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +155,9 @@ d) O Programa para a Rede Rural Nacional (PRRN), com incidência territorial nac
 
 2 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -163,7 +171,9 @@ d) Autoridade de gestão do PRRN.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -177,7 +187,9 @@ d) Comité de Acompanhamento do PRRN.
 
 2 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +203,9 @@ b) Secretariado técnico.
 
 4 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - É criada a Rede Rural Nacional (RRN), enquanto mecanismo de intercâmbio de informações e conhecimentos especializados entre os agentes dos territórios rurais, coordenada pela Direcção-Geral de Agricultura e Desenvolvimento Rural, com a seguinte estrutura:
 
@@ -227,7 +241,9 @@ d) O Programa para a Rede Rural Nacional, adiante designado por PRRN, com incid�
 
 2 - No que se refere ao PRRN, aplicam-se as regras estabelecidas no presente diploma, com as necessárias adaptações.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -241,7 +257,9 @@ d) O Programa para a Rede Rural Nacional, adiante designado por PRRN, com incid�
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +275,9 @@ c) Submissão em contínuo.
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +285,9 @@ c) Submissão em contínuo.
 
 3 - As alterações aos elementos constantes das alíneas a) e i) do número anterior, quer sejam anteriores ou posteriores à celebração do contrato de financiamento, devem dar origem a nova decisão de aprovação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -285,7 +307,9 @@ g) ...
 
 h) Cumprir as disposições nacionais e comunitárias aplicáveis em matéria de ambiente, higiene e bem-estar animal, aplicáveis ao investimento.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +323,9 @@ h) Cumprir as disposições nacionais e comunitárias aplicáveis em matéria de
 
 6 - Sem prejuízo do disposto no n.º 4 do artigo 16.º do presente decreto-lei, os termos e efeitos da resolução, da modificação ou da denúncia do contrato, designadamente a obrigação de reposição de quantias já pagas ao beneficiário, são objecto de decisão da autoridade de gestão, sob proposta da entidade contratante.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -317,12 +343,12 @@ São revogados o n.º 2 do artigo 5.º e o n.º 4 do artigo 20.º do Decreto-Lei
 
 Visto e aprovado em Conselho de Ministros de 6 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Teixeira dos Santos - Rui Carlos Pereira. - José António Fonseca Vieira da Silva - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro - Valter Victorino Lemos.
 
-**Promulgado em 8 de Junho de 2010.**
+Promulgado em 8 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de Junho de 2010.**
+Referendado em 9 de Junho de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

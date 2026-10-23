@@ -29,7 +29,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/157/2014/10/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:24:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbacce84293ca57da06134903e46e16a0526d42a346c972cda45f9e39ad1cafe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ec934f61da57258d29301cc5e19f61f2627b4c45d147f6373f08a7e2e5483f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:24:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,37 +71,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Valores Mobiliários
 - Autoridade Bancária Europeia
-- Financiamento
-- Instituição de Crédito
-- Código dos Valores Mobiliários
-- Comissão Nacional de Protecção de Dados
-- Risco Sistémico
-- Supervisão Financeira
-- Contra-ordenação
 - Banco Central Europeu
-- União Europeia
-- Fundo de Garantia de Depósitos
 - Banco de Portugal
 - Branqueamento de Capitais
-- Ministério das Finanças
+- CMVM
+- Código dos Valores Mobiliários
+- Comissão Nacional de Protecção de Dados
+- Conselho Europeu de Risco Sistémico
+- Contra-ordenação
+- Financiamento
+- Fundo de Garantia de Depósitos
+- Instituição de Crédito
+- Instituição Financeira
 - Instituição Financeira de Crédito
 - Instituto de Seguros de Portugal
 - Investimento
-- Terrorismo
+- Ministério das Finanças
 - Prestação de Serviços
 - Regime Geral das Instituições de Crédito e Sociedades Financeiras
-- CMVM
+- Risco Sistémico
 - Sistema Europeu de Autoridades de Supervisão Financeira
-- Instituição Financeira
 - Sociedade de Investimento
-- Conselho Europeu de Risco Sistémico
+- Supervisão Financeira
+- Terrorismo
+- União Europeia
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:115740680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66581992:por
+  label: Alterados os arts. 2.º-A, 20.º, 199.º-A e 199.º-L do Regime Geral das Instituições de Crédito e Sociedades Financeiras
+    aprovado pelo Dec. Lei 298/92 de 31-dez, na redação do presente diploma, pelo(a) Lei n.º 16/2015 - Diário da República
+    n.º 38/2015, Série I de 2015-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2015-66581992
+  date: '2015-02-24'
+- type: amended_by
+  target: pt:dre:67356344:por
+  label: Alterado o art. 4.º do Dec. Lei 260/94 de 22-out, na redação do presente diploma, pelo(a) Decreto-Lei n.º 100/2015
+    - Diário da República n.º 106/2015, Série I de 2015-06-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-2015-67356344
+  date: '2015-06-02'
+- type: amended_by
+  target: pt:dre:106960759:por
+  label: Alterado a partir de 04.05.2017, o art. 66.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras,
+    aprovado pelo Dec Lei 298/92 de 31-dez, na redação do presente diploma, na versão republicada pela Lei 23-A/2015, de 26-mar
+    pelo(a) Lei n.º 16/2017 - Diário da República n.º 85/2017, Série I de 2017-05-03, e nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-2017-106960759
+  date: '2017-05-03'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Alterado o art. 363.º do Código dos Valores Mobiliários aprovado pelo Dec Lei 486/99, de 13-nov, na redação do presente
+    diploma pelo(a) Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2018-115740680
+  date: '2018-07-20'
 - type: cites
   target: celex:31994L0019
   label: null
@@ -222,6 +248,13 @@ relationships:
   target: eli:http://data.europa.eu/eli/reg/
   label: null
   source: http://data.europa.eu/eli/reg/
+- type: repealed_by
+  target: pt:dre:108021178:por
+  label: Revogada, a partir de 17.09.2017, a Lei 25/2008 de 05-jun, na redação do presente diploma, pelo(a) Lei n.º 83/2017
+    - Diário da República n.º 159/2017, Série I de 2017-08-18 nos termos do n.º 4 do seu art. 188.º e do n.º 1 do seu art.
+    189.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-2017-108021178
+  date: '2017-08-18'
 - type: transposes
   target: celex:32002L0087
   label: null
@@ -239,15 +272,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 639
+  article_count: 432
   section_count: 68
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:24:21Z'
   warnings: []
   errors: []
 ---
@@ -366,7 +399,9 @@ b) O exercício da supervisão das instituições de crédito e das sociedades f
 
 2 - [Revogado].
 
-###### Artigo 3.º — Tipos de instituições de crédito
+Artigo 3.º
+
+Tipos de instituições de crédito
 
 [...]:
 
@@ -394,7 +429,9 @@ k) [...]
 
 l) [...].
 
-###### Artigo 6.º — Tipos de sociedades financeiras
+Artigo 6.º
+
+Tipos de sociedades financeiras
 
 1 - [...]:
 
@@ -446,7 +483,9 @@ l) Outras empresas que, correspondendo à definição de sociedade financeira, s
 
 4 - [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -464,13 +503,17 @@ d) [...].
 
 4 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para os efeitos do presente Regime Geral, não são considerados como fundos reembolsáveis recebidos do público os fundos obtidos mediante emissão de obrigações, nos termos e limites do Código das Sociedades Comerciais ou da legislação aplicável, nem os fundos obtidos através da emissão de papel comercial, nos termos e limites da legislação aplicável.
 
 2 - [...].
 
-###### Artigo 13.º-A — [...]
+Artigo 13.º-A
+
+[...]
 
 1 - Para efeitos do cômputo de uma participação qualificada, além dos inerentes às ações de que o participante tenha a titularidade ou o usufruto, consideram-se os direitos de voto:
 
@@ -502,7 +545,9 @@ i) [...].
 
 6 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]:
 
@@ -530,7 +575,9 @@ j) Ter nos órgãos de administração e fiscalização membros cuja idoneidade,
 
 3 - [Anterior n.º 2].
 
-###### Artigo 14.º-A — Dispensas
+Artigo 14.º-A
+
+Dispensas
 
 1 - O Banco de Portugal pode dispensar as instituições de crédito com sede em Portugal que estejam filiadas de modo permanente num organismo central que as supervisione e que também tenha sede em Portugal, total ou parcialmente, do cumprimento dos requisitos e obrigações elencados no número seguinte caso exista legislação que, em relação a essas instituições e a esse organismo central, preveja o seguinte:
 
@@ -552,7 +599,9 @@ c) [Revogada].
 
 4 - Em caso de dispensa, os capítulos I e II do título III, o capítulo II-C do título VII, os n.os 9 e 10 do artigo 116.º-K e o título VII-A aplicam-se ao conjunto constituído pelo organismo central e pelas instituições nele filiadas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A constituição de instituições de crédito depende de autorização a conceder, caso a caso, pelo Banco de Portugal.
 
@@ -566,7 +615,9 @@ c) [Revogada].
 
 6 - [Revogado].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]:
 
@@ -602,7 +653,9 @@ d) [...].
 
 6 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -610,7 +663,9 @@ d) [...].
 
 3 - O disposto no n.º 1 é também aplicável quando a instituição de crédito a constituir for filial de uma empresa de seguros ou de uma empresa de investimento autorizada em país estrangeiro, ou seja filial da empresa-mãe de empresa nestas condições ou for dominada pelas mesmas pessoas singulares ou coletivas que dominem uma empresa de seguros ou uma empresa de investimento autorizada em país estrangeiro.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]:
 
@@ -634,7 +689,9 @@ h) Os membros do órgão de administração ou fiscalização que não cumpram o
 
 3 - As necessidades económicas do mercado não podem constituir motivo de recusa de autorização.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - A autorização caduca se a instituição de crédito não iniciar a sua atividade no prazo de 12 meses.
 
@@ -642,7 +699,9 @@ h) Os membros do órgão de administração ou fiscalização que não cumpram o
 
 3 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]:
 
@@ -678,7 +737,9 @@ m) Se a instituição de crédito cometer uma das infrações a que se refere o 
 
 4 - A revogação da autorização implica dissolução e liquidação da instituição de crédito, salvo se, no caso indicado nas alíneas d) e i) do n.º 1, o Banco de Portugal o dispensar.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...].
 
@@ -688,7 +749,9 @@ m) Se a instituição de crédito cometer uma das infrações a que se refere o 
 
 4 - [...].
 
-###### Artigo 30.º — Disposições gerais
+Artigo 30.º
+
+Disposições gerais
 
 1 - A adequação, para o exercício das respetivas funções, dos membros dos órgãos de administração e fiscalização das instituições de crédito está sujeita a avaliação para o exercício do cargo e no decurso de todo o seu mandato.
 
@@ -706,7 +769,9 @@ m) Se a instituição de crédito cometer uma das infrações a que se refere o 
 
 8 - O Banco de Portugal regulamenta o regime previsto no presente capítulo.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - Os membros dos órgãos de administração e fiscalização devem demonstrar que possuem as competências e qualificações necessárias ao exercício das suas funções, adquiridas através de habilitação académica ou de formação especializada apropriadas ao cargo a exercer e através de experiência profissional com duração e níveis de responsabilidade que estejam em consonância com as características, a complexidade e a dimensão da instituição de crédito, bem como com os riscos associados à atividade por esta desenvolvida.
 
@@ -718,7 +783,9 @@ m) Se a instituição de crédito cometer uma das infrações a que se refere o 
 
 5 - Os órgãos de administração e fiscalização devem dispor, em termos coletivos, de conhecimentos, competências e experiência adequados.
 
-###### Artigo 32.º — Falta de adequação superveniente
+Artigo 32.º
+
+Falta de adequação superveniente
 
 1 - As instituições de crédito comunicam ao Banco de Portugal, logo que deles tomem conhecimento, quaisquer factos supervenientes à autorização para o exercício de funções que possam afetar os requisitos de idoneidade, qualificação profissional, independência ou disponibilidade da pessoa autorizada, nos mesmos termos em que estes deveriam ter sido ou seriam comunicados para efeitos da apresentação do pedido de autorização para o exercício de funções, por referência ao disposto nos artigos 30.º a 31.º-A e 33.º
 
@@ -746,7 +813,9 @@ d) Fixar um prazo para alterações na composição do órgão em causa e aprese
 
 9 - O disposto no presente artigo aplica-se, com as necessárias adaptações, aos gerentes de sucursais e de escritórios de representação previstos no artigo 45.º
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O Banco de Portugal pode opor-se a que os membros dos órgãos de administração ou fiscalização das instituições de crédito exerçam funções de administração ou fiscalização noutras entidades se entender que a acumulação é suscetível de prejudicar o exercício das funções que o interessado já desempenhe, nomeadamente por existirem riscos graves de conflitos de interesses ou por de tal facto resultar falta de disponibilidade para o exercício do cargo, em termos a regulamentar pelo Banco de Portugal.
 
@@ -770,7 +839,9 @@ d) Fixar um prazo para alterações na composição do órgão em causa e aprese
 
 11 - Para efeitos do número anterior nos demais casos, as instituições de crédito devem comunicar ao Banco de Portugal a pretensão dos interessados com a antecedência mínima de 30 dias sobre a data prevista para o início das novas funções, entendendo-se, na falta de decisão dentro desse prazo, que o Banco de Portugal não se opõe à acumulação.
 
-###### Artigo 36.º — Requisitos do estabelecimento em país da União Europeia
+Artigo 36.º
+
+Requisitos do estabelecimento em país da União Europeia
 
 1 - A instituição de crédito com sede em Portugal que pretenda estabelecer sucursal em Estado-Membro da União Europeia deve notificar previamente desse facto o Banco de Portugal, especificando os seguintes elementos:
 
@@ -786,7 +857,9 @@ d) Identificação dos gerentes da sucursal.
 
 3 - A abertura de novos estabelecimentos num Estado-Membro em que a instituição de crédito já tenha uma sucursal apenas carece da comunicação do novo endereço, nos termos previstos no artigo 40.º
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...].
 
@@ -794,17 +867,23 @@ d) Identificação dos gerentes da sucursal.
 
 3 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 Observado o disposto nos artigos anteriores, a sucursal pode efetuar no país de acolhimento as operações constantes da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, que a instituição esteja autorizada a efetuar em Portugal e que estejam mencionadas no programa de atividades referido na alínea b) do n.º 1 do artigo 36.º
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Em caso de modificação de alguns dos elementos referidos nas alíneas b) a d) do n.º 1 do artigo 36.º ou do sistema de garantia de depósitos referido no n.º 2 do artigo 37.º, a instituição de crédito comunica-a, por escrito e pelo menos com um mês de antecedência, ao Banco de Portugal e à autoridade de supervisão do país onde tiver estabelecido a sucursal.
 
 2 - [...].
 
-###### Artigo 40.º-A — [...]
+Artigo 40.º-A
+
+[...]
 
 1 - [...]:
 
@@ -828,7 +907,9 @@ f) Eventual imposição de requisitos específicos de liquidez.
 
 5 - O Banco de Portugal consulta as autoridades competentes dos Estados-Membros de acolhimento sobre as medidas operacionais necessárias à aplicação imediata dos planos de recuperação de liquidez tomadas pela instituição de crédito, caso tal seja relevante para os riscos de liquidez na moeda do Estado-Membro de acolhimento.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - As instituições de crédito com sede em Portugal que pretendam estabelecer sucursais em países que não sejam membros da União Europeia observam o disposto no artigo 36.º e no presente artigo.
 
@@ -842,7 +923,9 @@ f) Eventual imposição de requisitos específicos de liquidez.
 
 6 - Em caso de modificação de alguns dos elementos referidos nas alíneas b) a d) do n.º 1 do artigo 36.º, a instituição de crédito comunica-a, por escrito e pelo menos com um mês de antecedência, ao Banco de Portugal.
 
-###### Artigo 43.º — Liberdade de prestação de serviços na União Europeia
+Artigo 43.º
+
+Liberdade de prestação de serviços na União Europeia
 
 1 - A instituição de crédito com sede em Portugal que pretenda iniciar noutro Estado-Membro da União Europeia prestação de serviços constantes da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, que esteja autorizada a efetuar em Portugal e que não sejam prestados por meio de estabelecimento permanente que possua no país de residência do destinatário da prestação deve notificar previamente o Banco de Portugal, especificando as atividades que se propõe exercer nesse Estado.
 
@@ -850,11 +933,15 @@ f) Eventual imposição de requisitos específicos de liquidez.
 
 3 - [...].
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 O disposto na presente secção aplica-se ao estabelecimento em Portugal de sucursais de instituições de crédito autorizadas noutros Estados-Membros da União Europeia ou em Estados pertencentes ao Espaço Económico Europeu e sujeitas à supervisão das respetivas autoridades.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -862,11 +949,15 @@ O disposto na presente secção aplica-se ao estabelecimento em Portugal de sucu
 
 3 - A abertura de novos estabelecimentos em Portugal por instituição de crédito que já tenha sucursal em Portugal apenas carece da comunicação do novo endereço, nos termos previstos no artigo 51.º
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 Observado que seja o disposto nos artigos anteriores, a sucursal pode efetuar em Portugal as operações constantes da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, que a instituição de crédito esteja autorizada a realizar no seu país de origem e que constem do programa de atividades referido na alínea a) do n.º 1 do artigo 49.º
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - Quando se verifique que uma sucursal não cumpre, ou que existe um risco significativo de não cumprir, as disposições que lhe são aplicáveis, incluindo a lei nacional relativa à supervisão da liquidez, à execução da política monetária ou ao dever de informação sobre operações efetuadas em território português, o Banco de Portugal ordena-lhe que ponha termo à irregularidade ou tome medidas para evitar o risco de não cumprimento.
 
@@ -888,7 +979,9 @@ b) Remeter o assunto para a Autoridade Bancária Europeia e requerer a sua assis
 
 8 - As medidas cautelares adotadas nos termos do n.º 5 cessam nos casos em que o Estado de origem tome medidas de saneamento ou quando o Banco de Portugal entenda que tais medidas deixaram de se justificar.
 
-###### Artigo 56.º-A — [...]
+Artigo 56.º-A
+
+[...]
 
 1 - [...].
 
@@ -916,13 +1009,17 @@ c) [...].
 
 10 - Se o Banco de Portugal entender que as medidas operacionais relativas à aplicação dos planos de recuperação de liquidez da instituição de crédito não são adequadas, pode remeter o assunto para a Autoridade Bancária Europeia e requerer a sua assistência nos termos do artigo 19.º do [Regulamento (UE) n.º 1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O estabelecimento em Portugal de sucursais de instituições de crédito não compreendidas no artigo 48.º fica sujeito ao disposto na presente secção, no n.º 3 do artigo 17.º, nos artigos 19.º, 21.º e 22.º, nos n.os 2 e 3 do artigo 49.º e nos artigos 54.º e 55.º
 
 2 - Das condições de autorização e funcionamento aplicáveis às sucursais de países terceiros estabelecidas em Portugal não pode resultar um tratamento mais favorável do que aquele de que beneficiam as sucursais de Estados-Membros da União Europeia.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - O estabelecimento da sucursal depende de autorização do Banco de Portugal.
 
@@ -942,11 +1039,15 @@ e) [...].
 
 4 - [...].
 
-###### Artigo 60.º — Liberdade de prestação de serviços em Portugal
+Artigo 60.º
+
+Liberdade de prestação de serviços em Portugal
 
 As instituições de crédito autorizadas noutro Estado-Membro da União Europeia a prestar no seu país de origem os serviços constantes da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, podem prestar esses serviços em território português, ainda que não possuam estabelecimento em Portugal.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - É condição do início da prestação de serviços em Portugal que a instituição de crédito notifique a autoridade competente do Estado-Membro de origem.
 
@@ -954,7 +1055,9 @@ As instituições de crédito autorizadas noutro Estado-Membro da União Europei
 
 3 - [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 O registo das instituições de crédito com sede em Portugal abrange os seguintes elementos:
 
@@ -988,7 +1091,9 @@ n) [...]
 
 o) [...].
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 O registo das instituições de crédito autorizadas em país estrangeiro e que disponham de sucursais ou escritório de representação em Portugal abrange os seguintes elementos:
 
@@ -1008,7 +1113,9 @@ g) [...]
 
 h) [...].
 
-###### Artigo 69.º — [...]
+Artigo 69.º
+
+[...]
 
 1 - O registo dos membros dos órgãos de administração e fiscalização deve ser solicitado após a respetiva autorização pelo Banco de Portugal, mediante requerimento da instituição de crédito, que deve indicar a data do respetivo início de funções e que, nos casos de autorização prévia nos termos estabelecidos no n.º 3 do artigo 30.º-B, deve ser acompanhado de cópia da ata da qual conste a deliberação da designação dos interessados.
 
@@ -1028,7 +1135,9 @@ h) [...].
 
 9 - [Revogado].
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [Revogado].
 
@@ -1050,7 +1159,9 @@ c) Cancelamento do registo, na sequência da revogação da autorização para o
 
 7 - [Revogado].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...].
 
@@ -1062,7 +1173,9 @@ c) Cancelamento do registo, na sequência da revogação da autorização para o
 
 5 - [...].
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 [...]:
 
@@ -1076,7 +1189,9 @@ d) [...]
 
 e) Quando se verifique que não está preenchida alguma das condições de que depende a autorização necessária para a constituição da instituição de crédito ou para o exercício da atividade.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Os membros dos órgãos de administração ou fiscalização das instituições de crédito, os seus colaboradores, mandatários, comissários e outras pessoas que lhes prestem serviços a título permanente ou ocasional não podem revelar ou utilizar informações sobre factos ou elementos respeitantes à vida da instituição ou às relações desta com os seus clientes cujo conhecimento lhes advenha exclusivamente do exercício das suas funções ou da prestação dos seus serviços.
 
@@ -1084,7 +1199,9 @@ e) Quando se verifique que não está preenchida alguma das condições de que d
 
 3 - [...].
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - [...].
 
@@ -1104,7 +1221,9 @@ f) [...].
 
 3 - [Revogado].
 
-###### Artigo 80.º — Dever de segredo do Banco de Portugal
+Artigo 80.º
+
+Dever de segredo do Banco de Portugal
 
 1 - [...].
 
@@ -1116,7 +1235,9 @@ f) [...].
 
 5 - Fica igualmente ressalvada do dever de segredo a comunicação a outras entidades pelo Banco de Portugal de dados centralizados, nos termos da legislação respetiva.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - [...]:
 
@@ -1176,11 +1297,15 @@ f) Para assegurar o funcionamento correto dos sistemas de compensação em caso 
 
 7 - O Banco de Portugal só pode comunicar informações que tenha recebido de entidades de outro Estado-Membro da União Europeia ou de países não membros com o consentimento expresso dessas entidades e, se for o caso, exclusivamente para os efeitos autorizados.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 Os acordos de cooperação referidos no n.º 3 do artigo 81.º só podem ser celebrados quando as informações a prestar beneficiem de garantias de segredo pelo menos equivalentes às estabelecidas no presente Regime Geral e tenham por objetivo o desempenho de funções de supervisão que estejam cometidas às entidades em causa.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - A supervisão das instituições de crédito, das companhias financeiras, das companhias financeiras mistas, em especial a sua supervisão prudencial, incluindo a da atividade que exerçam no estrangeiro, incumbe ao Banco de Portugal, de acordo com a sua Lei Orgânica e o presente Regime Geral.
 
@@ -1202,7 +1327,9 @@ d) Coopera de forma estreita com o Comité Europeu do Risco Sistémico.
 
 6 - A prossecução das demais atribuições legais do Banco de Portugal não deve interferir nem prejudicar o desempenho das suas competências legais de supervisão, designadamente no âmbito da Autoridade Bancária Europeia ou do Comité Europeu do Risco Sistémico.
 
-###### Artigo 93.º-A — [...]
+Artigo 93.º-A
+
+[...]
 
 1 - [...]:
 
@@ -1250,7 +1377,9 @@ ii) A percentagem dos fundos próprios totais das instituições de crédito-mã
 
 iii) A percentagem do total de fundos próprios exigidos ao abrigo do artigo 87.º do referido Regulamento das instituições de crédito-mãe que beneficiam do exercício da faculdade prevista no n.º 1 do artigo 9.º do referido Regulamento representado por fundos próprios detidos em filiais situadas em países terceiros.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1 - [...].
 
@@ -1288,7 +1417,9 @@ b) [...].
 
 11 - [...].
 
-###### Artigo 103.º-A — [...]
+Artigo 103.º-A
+
+[...]
 
 1 - [...]:
 
@@ -1308,7 +1439,9 @@ c) [...].
 
 6 - O Banco de Portugal consulta a base de dados de sanções da Autoridade Bancária Europeia para efeitos da apreciação do proposto adquirente.
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - [...]:
 
@@ -1328,7 +1461,9 @@ g) [Anterior alínea e)].
 
 2 - [...].
 
-###### Artigo 116.º-A — [...]
+Artigo 116.º-A
+
+[...]
 
 1 - Tomando em consideração os critérios técnicos previstos no artigo 116.º-B, o Banco de Portugal analisa as disposições, estratégias, processos e mecanismos aplicados pelas instituições de crédito para dar cumprimento ao presente Regime Geral e ao [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, e avalia:
 
@@ -1348,7 +1483,9 @@ c) Os riscos revelados por testes de esforço, tendo em consideração a naturez
 
 6 - O Banco de Portugal informa de imediato a Autoridade Bancária Europeia dos resultados da análise e avaliação a que se refere o presente artigo sempre que tal análise e avaliação revelem que uma instituição de crédito pode apresentar um risco sistémico na aceção do artigo 23.º do [Regulamento (UE) n.º 1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 116.º-B — [...]
+Artigo 116.º-B
+
+[...]
 
 1 - Para além dos riscos de crédito, de mercado e operacional, a análise e a avaliação realizadas pelo Banco de Portugal, de acordo com o disposto no artigo anterior, devem incluir pelo menos o seguinte:
 
@@ -1388,7 +1525,9 @@ j) A avaliação do risco sistémico, de acordo com os critérios previstos no a
 
 9 - Para efeitos do disposto no número anterior, o Banco de Portugal tem acesso, pelo menos às ordens do dia e a quaisquer documentos de apoio relativos às reuniões do órgão de administração e das respetivas comissões, bem como aos resultados da avaliação interna ou externa do desempenho do órgão de administração.
 
-###### Artigo 116.º-C — [...]
+Artigo 116.º-C
+
+[...]
 
 1 - O Banco de Portugal pode exigir que as instituições de crédito que não cumpram as normas que disciplinam a sua atividade, ou relativamente às quais disponha de informação evidenciando que não as cumprirá no prazo de um ano, adotem com caráter imediato as medidas ou ações necessárias para resolver a situação.
 
@@ -1440,7 +1579,9 @@ c) O resultado da análise e avaliação efetuadas nos termos dos artigos 116.º
 
 d) A avaliação do risco sistémico.
 
-###### Artigo 116.º-G — [...]
+Artigo 116.º-G
+
+[...]
 
 1 - As instituições de crédito devem implementar meios específicos, independentes e autónomos adequados de receção, tratamento e arquivo das participações de irregularidades graves relacionadas com a sua administração, organização contabilística e fiscalização interna e de indícios sérios de infrações a deveres previstos no presente Regime Geral ou no [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
 
@@ -1458,7 +1599,9 @@ d) A avaliação do risco sistémico.
 
 8 - O Banco de Portugal aprova a regulamentação necessária para assegurar a implementação das normas previstas no presente artigo.
 
-###### Artigo 117.º — [...]
+Artigo 117.º
+
+[...]
 
 1 - [...].
 
@@ -1468,7 +1611,9 @@ d) A avaliação do risco sistémico.
 
 4 - O disposto nos artigos 30.º a 32.º, com as necessárias adaptações, 42.º-A, 43.º-A e nos n.os 1 e 3 do artigo 115.º é aplicável às sociedades gestoras de participações sociais sujeitas à supervisão do Banco de Portugal.
 
-###### Artigo 118.º-A — [...]
+Artigo 118.º-A
+
+[...]
 
 1 - É vedada às instituições de crédito a concessão de crédito a entidades sediadas em ordenamentos jurídicos offshore considerados não cooperantes ou cujo beneficiário último seja desconhecido.
 
@@ -1480,7 +1625,9 @@ d) A avaliação do risco sistémico.
 
 5 - O disposto no n.º 3 é também aplicável a quaisquer outras entidades habilitadas a prestar serviços de pagamentos em território nacional.
 
-###### Artigo 120.º — [...]
+Artigo 120.º
+
+[...]
 
 1 - As instituições de crédito apresentam ao Banco de Portugal as informações necessárias à avaliação do cumprimento do disposto no presente Regime Geral e no [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, nomeadamente para a verificação:
 
@@ -1518,7 +1665,9 @@ i) Do cumprimento permanente das condições previstas nos artigos 14.º, 15.º 
 
 9 - As instituições de crédito registam todas as suas operações e processos, designadamente os sujeitos ao disposto no presente Regime Geral e no [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, de forma a que o Banco de Portugal possa, em qualquer momento, verificar o respetivo cumprimento.
 
-###### Artigo 121.º — [...]
+Artigo 121.º
+
+[...]
 
 1 - Os revisores oficiais de contas ao serviço de uma instituição de crédito e os auditores externos que, por exigência legal, prestem a uma instituição de crédito serviços de auditoria são obrigados a comunicar ao Banco de Portugal, com a maior brevidade, os factos ou decisões respeitantes a essa instituição de que tenham conhecimento no exercício das suas funções, quando tais factos ou decisões sejam suscetíveis de:
 
@@ -1534,7 +1683,9 @@ c) [...].
 
 4 - A comunicação dos factos ou decisões referidos no n.º 1 é feita simultaneamente ao órgão de administração da instituição de crédito, salvo razão ponderosa em contrário.
 
-###### Artigo 122.º — Instituições de crédito autorizadas em outros Estados-Membros da União Europeia
+Artigo 122.º
+
+Instituições de crédito autorizadas em outros Estados-Membros da União Europeia
 
 1 - As instituições de crédito autorizadas em outros Estados-Membros da União Europeia e que exerçam atividade em Portugal, desde que sujeitas à supervisão das autoridades dos países de origem, não estão sujeitas à supervisão prudencial do Banco de Portugal.
 
@@ -1544,7 +1695,9 @@ c) [...].
 
 4 - [...].
 
-###### Artigo 122.º-A — [...]
+Artigo 122.º-A
+
+[...]
 
 1 - No exercício das suas funções de supervisão de instituições de crédito que atuem, nomeadamente através de uma sucursal, em mais do que um Estado-Membro da União Europeia que não seja o da sua sede, o Banco de Portugal deve colaborar com as autoridades de supervisão competentes, podendo trocar informações relativas à estrutura de administração e à estrutura acionista de instituições de crédito, bem como todas as informações suscetíveis de facilitar a supervisão, nomeadamente em matéria de liquidez, solvabilidade, garantia de depósitos, limites aos grandes riscos, outros fatores que possam influenciar o risco sistémico que a instituição de crédito representa, organização administrativa e contabilística, e controlo interno, nomeadamente para a identificação de uma sucursal significativa.
 
@@ -1562,13 +1715,17 @@ c) [...].
 
 8 - Caso discorde das medidas a tomar pelas autoridades competentes do Estado-Membro de acolhimento, o Banco de Portugal pode remeter o assunto para a Autoridade Bancária Europeia e requerer a sua assistência, nos termos do artigo 19.º do [Regulamento (UE) n.º 1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 123.º — Deveres das instituições autorizadas em outros Estados-Membros da União Europeia
+Artigo 123.º
+
+Deveres das instituições autorizadas em outros Estados-Membros da União Europeia
 
 1 - Para os efeitos do artigo 122.º, as instituições nele mencionadas devem apresentar ao Banco de Portugal os elementos de informação que este considere necessários.
 
 2 - [...].
 
-###### Artigo 124.º — Inspeção de sucursais de instituições de crédito autorizadas
+Artigo 124.º
+
+Inspeção de sucursais de instituições de crédito autorizadas
 
 1 - [...].
 
@@ -1584,13 +1741,17 @@ c) [...].
 
 7 - As verificações e inspeções de sucursais são efetuadas de acordo com o direito português.
 
-###### Artigo 130.º — Competência
+Artigo 130.º
+
+Competência
 
 1 - [...].
 
 2 - [Revogado].
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - Sem prejuízo da supervisão em base individual, as instituições de crédito com sede em Portugal que tenham como filiais uma ou mais instituições de crédito ou instituições financeiras, ou que nelas detenham uma participação ficam sujeitas à supervisão com base na sua situação financeira consolidada.
 
@@ -1610,7 +1771,9 @@ c) Quando duas ou mais instituições de crédito ou instituições financeiras 
 
 6 - O Banco de Portugal comunica à Autoridade Bancária Europeia, à Comissão Europeia e às autoridades competentes dos Estados-Membros em causa a lista das companhias financeiras e das companhias financeiras mistas sujeitas à sua supervisão em base consolidada.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - O Banco de Portugal exerce a supervisão em base consolidada quando uma companhia financeira ou uma companhia financeira mista tenha sede em Portugal e seja empresa-mãe de instituições de crédito com sede em Portugal e noutros Estados-Membros da União Europeia.
 
@@ -1622,7 +1785,9 @@ c) Quando duas ou mais instituições de crédito ou instituições financeiras 
 
 5 - [Revogado].
 
-###### Artigo 132.º-A — [...]
+Artigo 132.º-A
+
+[...]
 
 1 - Quando uma instituição de crédito, cuja empresa-mãe seja uma instituição de crédito, uma companhia financeira mista ou uma companhia financeira sediada em país terceiro, não esteja sujeita a supervisão em base consolidada em termos equivalentes aos da presente secção, deve ser verificado se está sujeita, por parte de uma autoridade de supervisão do país terceiro, a uma supervisão equivalente.
 
@@ -1638,7 +1803,9 @@ c) Quando duas ou mais instituições de crédito ou instituições financeiras 
 
 7 - [...].
 
-###### Artigo 132.º-C — [...]
+Artigo 132.º-C
+
+[...]
 
 1 - [...].
 
@@ -1646,7 +1813,9 @@ c) Quando duas ou mais instituições de crédito ou instituições financeiras 
 
 3 - O Banco de Portugal deve notificar a Comissão Europeia e a Autoridade Bancária Europeia dos acordos celebrados ao abrigo do disposto no n.º 1, quando for nomeado como autoridade competente.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - [...].
 
@@ -1660,7 +1829,9 @@ c) Quando duas ou mais instituições de crédito ou instituições financeiras 
 
 6 - As filiais de qualquer instituição de crédito, companhia financeira ou companhia financeira mista não incluída no âmbito da supervisão numa base consolidada são obrigadas a apresentar ao Banco de Portugal todas as informações úteis para o exercício da supervisão.
 
-###### Artigo 135.º — [...]
+Artigo 135.º
+
+[...]
 
 1 - O Banco de Portugal pode solicitar às autoridades de supervisão dos Estados-Membros da União Europeia, em que tenham sede as sociedades participadas, as informações necessárias para a supervisão em base consolidada.
 
@@ -1672,7 +1843,9 @@ b) Autoridades competentes dos Estados-Membros da União Europeia em que tenham 
 
 3 - [...].
 
-###### Artigo 135.º-A — [...]
+Artigo 135.º-A
+
+[...]
 
 1 - Compete ao Banco de Portugal, na qualidade de autoridade competente responsável pelo exercício da supervisão em base consolidada das instituições de crédito mãe na União Europeia e das instituições de crédito controladas por companhias financeiras mãe na União Europeia ou por companhias financeiras mistas mãe na União Europeia:
 
@@ -1686,7 +1859,9 @@ c) O planeamento e coordenação das atividades de supervisão em colaboração 
 
 3 - [...].
 
-###### Artigo 135.º-B — [...]
+Artigo 135.º-B
+
+[...]
 
 1 - O Banco de Portugal, na qualidade de autoridade responsável pelo exercício da supervisão em base consolidada, deve estabelecer colégios de autoridades de supervisão para facilitar o exercício das funções referidas nos artigos 135.º-A, 135.º-C e 137.º-A e, sob reserva de requisitos previstos no artigo 82.º, deve, se for caso disso, assegurar a coordenação e a cooperação adequadas com as autoridades competentes relevantes de países terceiros.
 
@@ -1728,7 +1903,9 @@ e) [...].
 
 9 - Em caso de desacordo entre as autoridades competentes em relação ao funcionamento dos colégios de autoridades de supervisão, o Banco de Portugal pode remeter o assunto para a Autoridade Bancária Europeia e requerer a sua assistência, nos termos do artigo 19.º do [Regulamento (UE) n.º 1093/2010](https://data.europa.eu/eli/reg/2010/1093/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de novembro de 2010.
 
-###### Artigo 135.º-C — [...]
+Artigo 135.º-C
+
+[...]
 
 1 - A autoridade responsável pela supervisão numa base consolidada e as autoridades competentes responsáveis pela supervisão das filiais, num Estado-Membro da União Europeia, de uma instituição de crédito-mãe na União Europeia, de uma companhia financeira-mãe na União Europeia ou de uma companhia financeira mista-mãe na União Europeia devem empreender os esforços necessários para chegar a uma decisão conjunta relativamente:
 
@@ -1768,11 +1945,15 @@ d) [Anterior alínea c)].
 
 12 - [...].
 
-###### Artigo 136.º — [...]
+Artigo 136.º
+
+[...]
 
 Quando uma instituição de crédito, uma companhia financeira, uma companhia financeira mista ou uma companhia mista controlarem uma ou mais filiais sujeitas à supervisão do Instituto de Seguros de Portugal, este fornece ao Banco de Portugal as informações que sejam necessárias à supervisão em base consolidada.
 
-###### Artigo 137.º — Colaboração com outras autoridades de supervisão de Estados-Membros da União Europeia
+Artigo 137.º
+
+Colaboração com outras autoridades de supervisão de Estados-Membros da União Europeia
 
 1 - Para efeito da supervisão, em base consolidada, da situação financeira de instituições de crédito com sede em outros Estados-Membros da União Europeia, o Banco de Portugal deve prestar às respetivas autoridades de supervisão as informações de que disponha ou que possa obter relativamente às instituições que supervisione e que sejam participadas por aquelas instituições.
 
@@ -1780,7 +1961,9 @@ Quando uma instituição de crédito, uma companhia financeira, uma companhia fi
 
 3 - [...].
 
-###### Artigo 137.º-B — [...]
+Artigo 137.º-B
+
+[...]
 
 1 - [...].
 
@@ -1788,7 +1971,9 @@ Quando uma instituição de crédito, uma companhia financeira, uma companhia fi
 
 3 - O Banco de Portugal, na qualidade de autoridade competente responsável pela autorização de uma filial de uma empresa-mãe que seja uma instituição de crédito, pode, por acordo bilateral e informando a Autoridade Bancária Europeia, delegar a sua responsabilidade de supervisão nas autoridades competentes que autorizaram e supervisionam a empresa-mãe.
 
-###### Artigo 137.º-C — [...]
+Artigo 137.º-C
+
+[...]
 
 1 - [...].
 
@@ -1802,7 +1987,9 @@ Quando uma instituição de crédito, uma companhia financeira, uma companhia fi
 
 6 - [...].
 
-###### Artigo 137.º-D — [...]
+Artigo 137.º-D
+
+[...]
 
 1 - [...].
 
@@ -1816,7 +2003,9 @@ c) [...]
 
 d) [...].
 
-###### Artigo 152.º — [...]
+Artigo 152.º
+
+[...]
 
 1 - As medidas previstas no presente título são aplicáveis, com as devidas adaptações, às empresas-mãe que tenham como filial, na aceção da alínea o) do n.º 1 do artigo 2.º-A, uma ou mais instituições de crédito ou empresas de investimento que exerçam as atividades previstas nas alíneas b) e c) do n.º 1 do artigo 199.º-A sujeitas a supervisão em base consolidada, desde que se verifiquem os pressupostos legais da sua aplicação em relação a qualquer uma dessas suas filiais.
 
@@ -1824,7 +2013,9 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 153.º-E — Comissão diretiva do Fundo de Resolução
+Artigo 153.º-E
+
+Comissão diretiva do Fundo de Resolução
 
 1 - [...].
 
@@ -1846,7 +2037,9 @@ d) [...].
 
 10 - A organização e o funcionamento do conselho consultivo são regulamentados por portaria do membro do Governo responsável pela área das finanças.
 
-###### Artigo 167.º — [...]
+Artigo 167.º
+
+[...]
 
 1 - [...]:
 
@@ -1874,7 +2067,9 @@ b) O remanescente até ao limite fixado no n.º 1 do artigo 166.º, no prazo má
 
 11 - [...].
 
-###### Artigo 184.º — Sucursais de sociedades financeiras filiais de instituições de crédito em Estados-Membros da União Europeia
+Artigo 184.º
+
+Sucursais de sociedades financeiras filiais de instituições de crédito em Estados-Membros da União Europeia
 
 1 - O disposto no artigo 36.º, no n.º 1 do artigo 37.º e nos artigos 38.º a 40.º aplica-se ao estabelecimento, em Estados-Membros da União Europeia, de sucursais de sociedades financeiras com sede em Portugal, quando estas sociedades financeiras, por sua vez, sejam filiais de uma ou várias instituições de crédito que estejam sujeitas à lei portuguesa, gozem de regime legal que lhes permita o exercício de uma ou mais atividades enumeradas nos pontos 2 a 12 e 15 da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, e preencham cumulativamente as seguintes condições:
 
@@ -1894,7 +2089,9 @@ f) [...].
 
 3 - [...].
 
-###### Artigo 188.º — Sucursais de filiais de instituições de crédito de Estados-Membros da União Europeia
+Artigo 188.º
+
+Sucursais de filiais de instituições de crédito de Estados-Membros da União Europeia
 
 1 - Rege-se pelo disposto nos artigos 44.º e 46.º a 56.º o estabelecimento, em Portugal, de sucursais de instituições financeiras sujeitas à lei de outros Estados-Membros da União Europeia quando estas instituições tenham a natureza de filial de instituição de crédito ou de filial comum de várias instituições de crédito, gozem de regime que lhes permita exercer uma ou mais das atividades enumeradas nos pontos 2 a 12 e 15 da lista constante do anexo I à [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, e preencham cumulativamente as seguintes condições:
 
@@ -1916,13 +2113,17 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - [...].
 
 2 - O disposto no artigo 29.º-A é aplicável ao estabelecimento das sucursais referidas no número anterior, quando as mesmas se proponham exercer em Portugal alguma atividade de intermediação de instrumentos financeiros.
 
-###### Artigo 196.º — Supervisão prudencial
+Artigo 196.º
+
+Supervisão prudencial
 
 1 - Salvo o disposto em lei especial, o título VII é aplicável, com as necessárias adaptações, às sociedades financeiras com exceção dos artigos 91.º, 92.º, 116.º-D, 116.º-E, 117.º a 117.º-B e 122.º a 124.º
 
@@ -1930,7 +2131,9 @@ f) [...].
 
 3 - Quando uma instituição financeira com sede no estrangeiro, que preste serviços ou disponha de escritório de representação em Portugal, exerça no País atividade de intermediação de instrumentos financeiros, a supervisão dessa atividade compete igualmente à Comissão do Mercado de Valores Mobiliários.
 
-###### Artigo 199.º-A — [...]
+Artigo 199.º-A
+
+[...]
 
 [...]:
 
@@ -1960,7 +2163,9 @@ g) [...].
 
 6 - «Sociedade gestora de fundos de investimento mobiliário», a sociedade cuja atividade habitual consista na gestão de organismos de investimento coletivo autorizados nos termos do regime jurídico dos organismos de investimento coletivo, definido em legislação específica.
 
-###### Artigo 199.º-C — [...]
+Artigo 199.º-C
+
+[...]
 
 [...]:
 
@@ -1978,7 +2183,9 @@ f) [...]
 
 g) Por decisão da Comissão Europeia podem ser limitadas as autorizações para a constituição ou aquisição de participações qualificadas em empresas de investimento dominadas por pessoas coletivas ou singulares de países terceiros, ou suspensas as apreciações dos respetivos pedidos de autorização, ainda que já apresentados.
 
-###### Artigo 199.º-D — [...]
+Artigo 199.º-D
+
+[...]
 
 1 - [...]:
 
@@ -2008,7 +2215,9 @@ h) [...].
 
 6 - [...].
 
-###### Artigo 199.º-E — Atividade, em Portugal, de empresas de investimento com sede em outros Estados-Membros da União Europeia
+Artigo 199.º-E
+
+Atividade, em Portugal, de empresas de investimento com sede em outros Estados-Membros da União Europeia
 
 1 - [...]:
 
@@ -2034,7 +2243,9 @@ i) O disposto no artigo 56.º-A é aplicável apenas às empresas de investiment
 
 3 - Para efeitos do presente artigo, entende-se como autoridade de supervisão do Estado-Membro de origem aquela que, no Estado-Membro da União Europeia em causa, tenha sido designada como ponto de contacto nos termos do artigo 56.º da [Diretiva n.º 2004/39/CE](https://data.europa.eu/eli/dir/2004/39/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de abril de 2004.
 
-###### Artigo 199.º-I — [...]
+Artigo 199.º-I
+
+[...]
 
 1 - O disposto nos artigos 35.º-A, 42.º-A, 43.º-A e 102.º a 111.º é também aplicável às empresas de investimento, às sociedades gestoras de fundos de investimento mobiliário e à tomada de participações nestas mesmas empresas.
 
@@ -2048,7 +2259,9 @@ i) O disposto no artigo 56.º-A é aplicável apenas às empresas de investiment
 
 6 - [...].
 
-###### Artigo 199.º-L — [...]
+Artigo 199.º-L
+
+[...]
 
 1 - Às sociedades gestoras de fundos de investimento mobiliário aplica-se o disposto no presente título com exceção do ponto 5.º do artigo 199.º-A e dos artigos 199.º-C a 199.º-H, entendendo-se o âmbito das competências do n.º 2 do artigo 122.º, a que alude o artigo anterior, ao previsto na alínea e) do n.º 4.
 
@@ -2108,7 +2321,9 @@ g) [...].
 
 8 - [...].
 
-###### Artigo 201.º — [...]
+Artigo 201.º
+
+[...]
 
 [...]:
 
@@ -2118,13 +2333,17 @@ b) Factos praticados em território estrangeiro de que sejam responsáveis insti
 
 c) [...].
 
-###### Artigo 202.º — Responsabilidade pelas contraordenações
+Artigo 202.º
+
+Responsabilidade pelas contraordenações
 
 1 - Pela prática das contraordenações previstas no presente Regime Geral podem ser responsabilizadas, conjuntamente ou não, pessoas singulares e pessoas coletivas, ainda que irregularmente constituídas, bem como associações sem personalidade jurídica.
 
 2 - É punível como autor das contraordenações previstas no presente Regime Geral todo aquele que, por ação ou omissão, contribuir causalmente para a sua verificação.
 
-###### Artigo 203.º — [...]
+Artigo 203.º
+
+[...]
 
 1 - As pessoas coletivas e as entidades equiparadas referidas no artigo anterior são responsáveis pelas contraordenações cometidas pelos titulares dos respetivos cargos de administração, gerência, direção ou chefia, no exercício das suas funções, bem como pelas contraordenações cometidas por mandatários, representantes ou trabalhadores do ente coletivo em atos praticados em nome e no interesse deste.
 
@@ -2132,7 +2351,9 @@ c) [...].
 
 3 - A invalidade ou a ineficácia jurídica dos atos em que se funde a relação entre o agente individual e o ente coletivo não obstam à responsabilidade deste.
 
-###### Artigo 204.º — Responsabilidade das pessoas singulares
+Artigo 204.º
+
+Responsabilidade das pessoas singulares
 
 1 - A responsabilidade das pessoas coletivas e entidades equiparadas não exclui a responsabilidade individual dos respetivos agentes.
 
@@ -2140,7 +2361,9 @@ c) [...].
 
 3 - A responsabilidade dos titulares dos cargos de administração ou direção das pessoas coletivas e entidades equiparadas pode ser especialmente atenuada quando, cumulativamente, não sejam diretamente responsáveis pelo pelouro ou pela área onde se verificou a prática da infração e a sua responsabilidade se funde unicamente no facto de, conhecendo ou devendo conhecer a prática da infração, não terem adotado imediatamente as medidas adequadas para lhe pôr termo.
 
-###### Artigo 205.º — [...]
+Artigo 205.º
+
+[...]
 
 1 - A tentativa e a negligência são sempre puníveis.
 
@@ -2150,7 +2373,9 @@ c) [...].
 
 4 - [Revogado].
 
-###### Artigo 206.º — [...]
+Artigo 206.º
+
+[...]
 
 1 - A determinação da medida da coima e das sanções acessórias faz-se em função da ilicitude concreta do facto, da culpa do agente e das exigências de prevenção, tendo ainda em conta a natureza individual ou coletiva do agente.
 
@@ -2200,13 +2425,17 @@ e) O nível de colaboração do arguido.
 
 6 - [...].
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 1 - Sempre que uma pessoa deva responder simultaneamente a título de crime e a título de contraordenação pela prática dos mesmos factos, o processamento das contraordenações para que seja competente o Banco de Portugal e a respetiva decisão cabem sempre a esta autoridade.
 
 2 - Sempre que uma pessoa deva responder apenas a título de crime, ainda que os factos sejam também puníveis a título de contraordenação, pode o juiz penal aplicar as sanções acessórias previstas para a contraordenação em causa.
 
-###### Artigo 209.º — [...]
+Artigo 209.º
+
+[...]
 
 1 - O procedimento pelas contraordenações previstas no presente regime prescreve no prazo de cinco anos.
 
@@ -2222,7 +2451,9 @@ e) O nível de colaboração do arguido.
 
 7 - O prazo referido nos n.os 5 e 6 é elevado para o dobro se tiver havido recurso para o Tribunal Constitucional.
 
-###### Artigo 210.º — [...]
+Artigo 210.º
+
+[...]
 
 [...]:
 
@@ -2250,7 +2481,9 @@ l) A violação das normas sobre registo de operações constantes do n.º 3 do 
 
 m) As violações dos preceitos imperativos do presente Regime Geral e da legislação específica, incluindo a legislação da União Europeia, que rege a atividade das instituições de crédito e das sociedades financeiras, não previstas nas alíneas anteriores e no artigo seguinte, bem como dos regulamentos emitidos em cumprimento ou para execução dos referidos preceitos.
 
-###### Artigo 211.º — [...]
+Artigo 211.º
+
+[...]
 
 1 - São puníveis com coima de (euro) 10 000 a (euro) 5 000 000 ou de (euro) 4 000 a (euro) 5 000 000, consoante seja aplicada a ente coletivo ou a pessoa singular, as infrações adiante referidas:
 
@@ -2336,11 +2569,15 @@ oo) A permissão de que uma ou mais pessoas que incumpram o disposto nos artigos
 
 4 - Caso a pessoa coletiva seja uma filial, o rendimento bruto considerado é o rendimento bruto resultante das contas consolidadas da empresa-mãe no exercício económico anterior.
 
-###### Artigo 211.º-A — [...]
+Artigo 211.º-A
+
+[...]
 
 Sem prejuízo do disposto na alínea a) do n.º 1 do artigo seguinte, se o dobro do benefício económico obtido pelo infrator for determinável e exceder o limite máximo da coima aplicável, este é elevado àquele valor.
 
-###### Artigo 212.º — [...]
+Artigo 212.º
+
+[...]
 
 1 - Conjuntamente com as coimas previstas nos artigos 210.º e 211.º, podem ser aplicadas aos responsáveis por qualquer infração as seguintes sanções acessórias:
 
@@ -2356,7 +2593,9 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 2 - A publicação a que se refere a alínea c) do número anterior é efetuada, na íntegra ou por extrato, a expensas do infrator, num local idóneo para o cumprimento das finalidades de proteção dos clientes e do sistema financeiro, designadamente num jornal nacional, regional ou local, consoante o que, no caso, se afigure mais adequado.
 
-###### Artigo 213.º — [...]
+Artigo 213.º
+
+[...]
 
 1 - A competência para o processamento das contraordenações previstas no presente Regime Geral e para a aplicação das respetivas sanções pertence ao Banco de Portugal.
 
@@ -2364,7 +2603,9 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 3 - No decurso da averiguação ou da instrução, o Banco de Portugal pode solicitar às entidades policiais e a quaisquer outros serviços públicos ou autoridades toda a colaboração ou auxílio necessários para a realização das finalidades do processo.
 
-###### Artigo 215.º — [...]
+Artigo 215.º
+
+[...]
 
 1 - Quando necessária à averiguação ou à instrução do processo, pode proceder-se a buscas a quaisquer locais e à apreensão de quaisquer documentos e equipamentos, bem como determinar-se o congelamento de quaisquer valores, independentemente do local ou instituição em que se encontrem, devendo os valores apreendidos ser depositados em conta à ordem do Banco de Portugal, garantindo o pagamento da coima e das custas em que venha a ser condenado o arguido.
 
@@ -2380,7 +2621,9 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 7 - No decurso de inspeções a entidades sujeitas à supervisão do Banco de Portugal, estão obrigadas a facultar-lhe o acesso irrestrito aos seus sistemas e arquivos, incluindo os informáticos, onde esteja armazenada informação relativa a clientes ou operações, informação de natureza contabilística, prudencial ou outra informação relevante no âmbito das competências do Banco de Portugal, bem como a permitir que sejam extraídas cópias e traslados dessa informação.
 
-###### Artigo 217.º — Forma das comunicações e notificações
+Artigo 217.º
+
+Forma das comunicações e notificações
 
 1 - As comunicações são feitas por carta registada, fax, correio eletrónico ou qualquer outro meio de telecomunicação.
 
@@ -2392,7 +2635,9 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 5 - Sempre que o arguido se recusar a receber a notificação, o agente certifica essa recusa, valendo o ato como notificação.
 
-###### Artigo 218.º — Deveres de testemunhas e peritos
+Artigo 218.º
+
+Deveres de testemunhas e peritos
 
 1 - Às testemunhas e aos peritos que não comparecerem no dia, hora e local designados para a diligência do processo, nem justificarem a falta no próprio dia ou nos cinco dias úteis seguintes, ou que, tendo comparecido, se recusem injustificadamente a depor ou a exercer a respetiva função, é aplicada pelo Banco de Portugal uma sanção pecuniária até 10 UC.
 
@@ -2404,7 +2649,9 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 5 - Em caso de impugnação judicial da decisão do Banco de Portugal e quando for essencial para a boa decisão da causa, o tribunal, por despacho fundamentado, pode solicitar ao Banco de Portugal a transcrição de toda ou de parte da prova gravada nos termos dos números anteriores.
 
-###### Artigo 219.º — Arquivamento dos autos
+Artigo 219.º
+
+Arquivamento dos autos
 
 1 - Logo que tiver sido recolhida prova bastante de não se ter verificado a infração, de o agente não a ter praticado a qualquer título ou de ser legalmente inadmissível o procedimento, são os autos arquivados.
 
@@ -2418,13 +2665,17 @@ e) Suspensão do exercício do direito de voto atribuído aos titulares de parti
 
 6 - [Revogado].
 
-###### Artigo 220.º — [...]
+Artigo 220.º
+
+[...]
 
 1 - Concluída a instrução, o processo é apresentado à entidade a quem caiba proferir a decisão, acompanhado de parecer sobre as infrações que devem considerar-se provadas e as sanções que lhes são aplicáveis.
 
 2 - [Revogado].
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - A decisão que aplique coima contém:
 
@@ -2452,7 +2703,9 @@ c) A indicação de que, em caso de impugnação judicial, o tribunal pode decid
 
 d) A indicação de que não vigora o princípio da proibição da reformatio in pejus.
 
-###### Artigo 223.º — [...]
+Artigo 223.º
+
+[...]
 
 1 - O conselho de administração do Banco de Portugal pode suspender, total ou parcialmente, a execução da sanção, sempre que conclua que dessa forma são ainda realizadas de modo adequado e suficiente as finalidades de prevenção.
 
@@ -2464,7 +2717,9 @@ d) A indicação de que não vigora o princípio da proibição da reformatio in
 
 5 - Decorrido o tempo de suspensão sem que o arguido tenha praticado qualquer ilícito criminal ou de mera ordenação social para cujo processamento seja competente o Banco de Portugal, e sem que tenha violado as obrigações que lhe hajam sido impostas, considera-se extinta a sanção cuja execução tinha sido suspensa, procedendo-se, no caso contrário, à sua execução, quando se revele que as finalidades que estavam na base da suspensão não puderam, por meio dela, ser alcançadas.
 
-###### Artigo 224.º — [...]
+Artigo 224.º
+
+[...]
 
 1 - Em caso de condenação, são devidas custas pelo arguido.
 
@@ -2474,7 +2729,9 @@ d) A indicação de que não vigora o princípio da proibição da reformatio in
 
 4 - O reembolso pelas despesas referidas no número anterior é calculado à razão de metade de 1 UC nas primeiras 100 folhas ou fração do processado e de um décimo de UC por cada conjunto subsequente de 25 folhas ou fração do processado.
 
-###### Artigo 227.º-A — [...]
+Artigo 227.º-A
+
+[...]
 
 1 - Quando a natureza da infração, a intensidade da culpa e as demais circunstâncias o justifiquem, pode o Banco de Portugal, antes de imputar formalmente ao arguido a prática de qualquer contraordenação e com base nos factos indiciados, notificar o arguido da decisão de aplicação de uma sanção reduzida, nos termos e condições constantes dos números seguintes.
 
@@ -2506,7 +2763,9 @@ d) Requerer qualquer diligência complementar.
 
 9 - No processo sumaríssimo não tem lugar o pagamento de custas.
 
-###### Artigo 227.º-B — [...]
+Artigo 227.º-B
+
+[...]
 
 1 - Decorrido o prazo de impugnação judicial, a decisão que condene o agente pela prática de uma ou mais infrações especialmente graves é divulgada no sítio na Internet do Banco de Portugal, na íntegra ou por extrato que inclua, pelo menos, a identidade da pessoa singular ou coletiva condenada e informação sobre o tipo e a natureza da infração, mesmo que tenha sido judicialmente impugnada, sendo, neste caso, feita expressa menção deste facto.
 
@@ -2526,7 +2785,9 @@ c) A divulgação possa, tanto quanto seja possível determinar, causar danos de
 
 6 - Independentemente do trânsito em julgado, as decisões judiciais relativas ao crime de atividade ilícita de receção de depósitos e outros fundos reembolsáveis são divulgadas pelo Banco de Portugal nos termos dos números anteriores.
 
-###### Artigo 228.º — [...]
+Artigo 228.º
+
+[...]
 
 1 - [...].
 
@@ -2534,7 +2795,9 @@ c) A divulgação possa, tanto quanto seja possível determinar, causar danos de
 
 3 - Havendo vários arguidos, o prazo a que se refere o número anterior conta-se a partir do termo do prazo que terminar em último lugar.
 
-###### Artigo 230.º — Decisão judicial
+Artigo 230.º
+
+Decisão judicial
 
 1 - O juiz pode decidir por despacho quando não considere necessária a audiência de julgamento e o arguido, o Ministério Público e o Banco de Portugal não se oponham a essa forma de decisão.
 
@@ -2644,7 +2907,9 @@ z) «Sociedades financeiras», as empresas, com exceção das instituições de 
 
 aa) «Sucursal», o estabelecimento de uma empresa desprovido de personalidade jurídica e que efetue diretamente, no todo ou em parte, operações inerentes à atividade da empresa de que faz parte.
 
-###### Artigo 4.º-A — Tipos de empresas de investimento
+Artigo 4.º-A
+
+Tipos de empresas de investimento
 
 1 - São empresas de investimento:
 
@@ -2664,7 +2929,9 @@ g) Outras empresas que, correspondendo à definição de empresas de investiment
 
 2 - Sem prejuízo do disposto no número anterior, as sociedades de consultoria para investimento e as sociedades gestoras de sistemas de negociação multilateral não estão sujeitas ao disposto no presente Regime Geral.
 
-###### Artigo 30.º-A — Avaliação pelas instituições de crédito
+Artigo 30.º-A
+
+Avaliação pelas instituições de crédito
 
 1 - Cabe às instituições de crédito verificar, em primeira linha, que todos os membros dos órgãos de administração e fiscalização possuem os requisitos de adequação necessários para o exercício das respetivas funções.
 
@@ -2684,7 +2951,9 @@ g) Outras empresas que, correspondendo à definição de empresas de investiment
 
 9 - O relatório de avaliação dos membros dos órgãos de administração e fiscalização deve acompanhar o requerimento de autorização dirigido ao Banco de Portugal ou, tratando-se de reavaliação, ser-lhe facultado logo que concluído.
 
-###### Artigo 30.º-B — Avaliação pelo Banco de Portugal
+Artigo 30.º-B
+
+Avaliação pelo Banco de Portugal
 
 1 - A adequação dos membros dos órgãos de administração e fiscalização das instituições de crédito é objeto de avaliação pelo Banco de Portugal, em sede do processo de autorização da instituição de crédito.
 
@@ -2710,7 +2979,9 @@ g) Outras empresas que, correspondendo à definição de empresas de investiment
 
 12 - O Banco de Portugal pode, através de regulamentação, fazer depender o exercício dos titulares de funções essenciais à sua autorização.
 
-###### Artigo 30.º-C — Recusa e revogação da autorização
+Artigo 30.º-C
+
+Recusa e revogação da autorização
 
 1 - A falta de idoneidade, qualificação profissional, independência ou disponibilidade dos membros dos órgãos de administração e fiscalização é fundamento de recusa da respetiva autorização para o exercício de funções.
 
@@ -2726,7 +2997,9 @@ g) Outras empresas que, correspondendo à definição de empresas de investiment
 
 7 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos gerentes das sucursais e dos escritórios de representação previstos no artigo 45.º
 
-###### Artigo 30.º-D — Idoneidade
+Artigo 30.º-D
+
+Idoneidade
 
 1 - Na avaliação da idoneidade deve ter-se em conta o modo como a pessoa gere habitualmente os negócios, profissionais ou pessoais, ou exerce a profissão, em especial nos aspetos que revelem a sua capacidade para decidir de forma ponderada e criteriosa, ou a sua tendência para cumprir pontualmente as suas obrigações ou para ter comportamentos compatíveis com a preservação da confiança do mercado, tomando em consideração todas as circunstâncias que permitam avaliar o comportamento profissional para as funções em causa.
 
@@ -2774,7 +3047,9 @@ f) Factos praticados na qualidade de administrador, diretor ou gerente de qualqu
 
 9 - Considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização das instituições de crédito que se encontrem registados junto da Comissão do Mercado de Valores Mobiliários, do Instituto de Seguros de Portugal ou de autoridades de supervisão da União Europeia, quando esse registo esteja sujeito a exigências de controlo da idoneidade, a menos que factos supervenientes conduzam o Banco de Portugal a pronunciar-se em sentido contrário.
 
-###### Artigo 31.º-A — Independência
+Artigo 31.º-A
+
+Independência
 
 1 - O requisito de independência tem em vista prevenir o risco de sujeição dos membros dos órgãos de administração e fiscalização à influência indevida de outras pessoas ou entidades, promovendo condições que permitam o exercício das suas funções com isenção.
 
@@ -2788,7 +3063,9 @@ c) Relações de parentesco ou análogas, bem como relações profissionais ou d
 
 3 - O órgão de fiscalização deve dispor de uma maioria de membros independentes, na aceção do n.º 5 do artigo 414.º do Código das Sociedades Comerciais.
 
-###### Artigo 32.º-A — Suspensão provisória de funções
+Artigo 32.º-A
+
+Suspensão provisória de funções
 
 1 - Em situações de justificada urgência e para prevenir o risco de grave dano para a gestão sã e prudente de uma instituição de crédito ou para a estabilidade do sistema financeiro, o Banco de Portugal pode determinar a suspensão provisória das funções de qualquer membro dos respetivos órgãos de administração ou de fiscalização.
 
@@ -2804,7 +3081,9 @@ c) Em consequência da adoção de uma das medidas previstas no n.º 4 do artigo
 
 d) Pelo decurso de 30 dias sobre a data da suspensão, sem que seja instaurado procedimento com vista a adotar alguma das decisões previstas nas alíneas b) e c), de cujo início deve ser notificada a instituição de crédito e o titular do cargo em causa.
 
-###### Artigo 33.º-A — Titulares de funções essenciais
+Artigo 33.º-A
+
+Titulares de funções essenciais
 
 1 - As instituições de crédito devem identificar os cargos cujos titulares, não pertencendo aos órgãos de administração ou fiscalização, exerçam funções que lhes confiram influência significativa na gestão da instituição de crédito.
 
@@ -2818,7 +3097,9 @@ d) Pelo decurso de 30 dias sobre a data da suspensão, sem que seja instaurado p
 
 6 - Na situação prevista no número anterior, o Banco de Portugal aplica, com as necessárias adaptações, as medidas previstas no n.º 4 do artigo 32.º ou fixa prazo às instituições de crédito para que tomem as medidas adequadas, devendo em qualquer caso comunicar a sua decisão às pessoas em causa e à instituição de crédito.
 
-###### Artigo 81.º-A — Base de dados de contas
+Artigo 81.º-A
+
+Base de dados de contas
 
 1 - O Banco de Portugal organiza e gere uma base de dados relativa a contas de depósito, de pagamentos, de crédito e de instrumentos financeiros, denominada base de dados de contas domiciliadas no território nacional em instituições de crédito, sociedades financeiras ou instituições de pagamento, adiante designadas entidades participantes.
 
@@ -2852,7 +3133,9 @@ c) Aos agentes de execução, nos termos legalmente previstos, bem como, no âmb
 
 10 - O Banco de Portugal regulamenta os aspetos necessários à execução do disposto no presente artigo, designadamente no que respeita ao acesso reservado à informação centralizada e aos deveres de reporte das entidades participantes.
 
-###### Artigo 115.º-A — Sistemas de governo
+Artigo 115.º-A
+
+Sistemas de governo
 
 1 - Os órgãos de administração e de fiscalização das instituições de crédito definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização e a prevenção de conflitos de interesses.
 
@@ -2868,7 +3151,9 @@ d) Acompanhar e controlar a atividade da direção de topo.
 
 3 - Os órgãos de administração e de fiscalização acompanham e avaliam periodicamente a eficácia dos sistemas de governo da instituição de crédito e, no âmbito das respetivas competências, tomam e propõem as medidas adequadas para corrigir quaisquer deficiências detetadas nos mesmos.
 
-###### Artigo 115.º-B — Comité de nomeações
+Artigo 115.º-B
+
+Comité de nomeações
 
 1 - As instituições de crédito, atendendo à sua dimensão, organização interna, natureza, âmbito e à complexidade das suas atividades, podem criar um comité de nomeações, composto por membros do órgão de administração que não desempenhem funções executivas ou por membros do órgão de fiscalização.
 
@@ -2890,7 +3175,9 @@ e) Rever periodicamente a política do órgão de administração em matéria de
 
 5 - O objetivo e a política para a representação do género sub-representado referidos na alínea b) do n.º 2 do artigo 435.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, bem como a respetiva aplicação, são publicados nos termos da alínea c) do n.º 2 desse mesmo artigo.
 
-###### Artigo 115.º-C — Política de remuneração
+Artigo 115.º-C
+
+Política de remuneração
 
 1 - As instituições de crédito definem a política de remuneração aplicável, incluindo os benefícios discricionários de pensão, ao nível do grupo, da empresa-mãe e das filiais.
 
@@ -2924,7 +3211,9 @@ e) Distinguir de forma clara os critérios para a fixação da componente fixa d
 
 6 - A implementação da política de remuneração deve ser sujeita a uma análise interna centralizada e independente, com uma periodicidade mínima anual, a realizar pelo comité de remunerações, se existente, pelos membros não executivos do órgão de administração ou pelos membros do órgão de fiscalização, tendo como objetivo a verificação do cumprimento das políticas e procedimentos de remuneração adotados pelo órgão societário competente.
 
-###### Artigo 115.º-D — Remunerações em instituições de crédito que beneficiem de intervenção excecional do Estado
+Artigo 115.º-D
+
+Remunerações em instituições de crédito que beneficiem de intervenção excecional do Estado
 
 Quando as instituições de crédito beneficiem de uma intervenção excecional do Estado, a respetiva política de remuneração está ainda sujeita aos seguintes requisitos durante o período de intervenção:
 
@@ -2934,7 +3223,9 @@ b) As remunerações devem ser reestruturadas de modo consentâneo com uma gest�
 
 c) A componente variável da remuneração dos colaboradores da instituição de crédito deve ser limitada a uma percentagem dos lucros sempre que tal seja necessário para a manutenção de uma base de fundos próprios sólida e para a cessação tempestiva da intervenção excecional do Estado.
 
-###### Artigo 115.º-E — Componente variável da remuneração
+Artigo 115.º-E
+
+Componente variável da remuneração
 
 1 - Na definição da componente variável da remuneração dos colaboradores referidos no n.º 2 do artigo 115.º-C, as instituições de crédito devem assegurar que aquela componente não limita a capacidade da instituição de crédito para reforçar a sua base de fundos próprios e que na sua concessão são tidos em consideração todos os tipos de riscos, atuais e futuros.
 
@@ -2992,7 +3283,9 @@ b) Quando o colaborador atinja a situação de reforma, os benefícios discricio
 
 15 - As regras decorrentes do presente artigo não podem ser afastadas, designadamente através da utilização por parte dos colaboradores de qualquer mecanismo de cobertura de risco tendente a atenuar os efeitos de alinhamento pelo risco inerentes às modalidades de remuneração ou através do pagamento da componente variável da remuneração por intermédio de entidades instrumentais ou outros métodos com efeito equivalente.
 
-###### Artigo 115.º-F — Rácio entre componentes fixa e variável da remuneração
+Artigo 115.º-F
+
+Rácio entre componentes fixa e variável da remuneração
 
 1 - As instituições de crédito devem estabelecer rácios apropriados entre as componentes fixa e variável da remuneração total dos colaboradores referidos no n.º 2 do artigo 115.º-C, representando a componente fixa uma proporção suficientemente elevada da remuneração total, a fim de permitir a aplicação de uma política plenamente flexível relativa à componente variável da remuneração, incluindo a possibilidade de não pagamento da mesma.
 
@@ -3012,7 +3305,9 @@ c) Os colaboradores diretamente afetados pelos níveis máximos mais elevados da
 
 6 - Na definição do rácio entre as componentes fixa e variável da remuneração total, as instituições de crédito podem aplicar uma taxa de desconto, calculada de acordo com as orientações definidas pela Autoridade Bancária Europeia ao abrigo do disposto no segundo parágrafo da subalínea iii) da alínea g) do n.º 1 do artigo 94.º da [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, a um máximo de um quarto da componente variável da remuneração, desde que a mesma seja paga em instrumentos diferidos por um período igual ou superior a cinco anos.
 
-###### Artigo 115.º-G — Comunicação e divulgação da política de remuneração
+Artigo 115.º-G
+
+Comunicação e divulgação da política de remuneração
 
 1 - O Banco de Portugal recolhe as informações divulgadas de acordo com os critérios de divulgação estabelecidos nas alíneas g) a i) do n.º 1 do artigo 450.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, e analisa comparativamente as tendências e práticas de remuneração.
 
@@ -3026,7 +3321,9 @@ b) Deveres de informação ao Banco de Portugal relativos à política de remune
 
 4 - O Banco de Portugal comunica as informações previstas nos n.os 1 e 2 à Autoridade Bancária Europeia.
 
-###### Artigo 115.º-H — Comité de remunerações
+Artigo 115.º-H
+
+Comité de remunerações
 
 1 - As instituições de crédito significativas em termos de dimensão, de organização interna e da natureza, âmbito e complexidade das respetivas atividades devem criar um comité de remunerações, composto por membros do órgão de administração que não desempenhem funções executivas ou por membros do órgão de fiscalização.
 
@@ -3036,19 +3333,25 @@ b) Deveres de informação ao Banco de Portugal relativos à política de remune
 
 4 - No âmbito da sua atividade, o comité de remunerações deve observar os interesses de longo prazo dos acionistas, dos investidores e de outros interessados na instituição de crédito, bem como o interesse público.
 
-###### Artigo 115.º-I — Dever de divulgação no sítio na Internet
+Artigo 115.º-I
+
+Dever de divulgação no sítio na Internet
 
 1 - As instituições de crédito e as sociedades financeiras que mantenham um sítio na Internet devem fazer constar do mesmo informação que exponha o cumprimento das normas previstas nos artigos 115.º-A a 115.º-F e 115.º-H, bem como das normas que disponham sobre políticas relativas às exigências de idoneidade, qualificação profissional, disponibilidade e independência dos membros dos órgãos de administração e de fiscalização.
 
 2 - O Banco de Portugal regulamenta o conteúdo, grau de detalhe e forma de apresentação da informação a divulgar nos termos no número anterior.
 
-###### Artigo 115.º-J — Processo de autoavaliação da adequação do capital interno
+Artigo 115.º-J
+
+Processo de autoavaliação da adequação do capital interno
 
 1 - As instituições de crédito devem dispor de estratégias e processos sólidos, eficazes e completos para avaliar e manter numa base permanente os montantes, tipos e distribuição de capital interno que consideram adequados para cobrir a natureza e o nível dos riscos a que estejam ou possam vir a estar expostas.
 
 2 - As instituições de crédito analisam periodicamente as estratégias e os processos, a fim de garantir o seu carácter exaustivo e a sua proporcionalidade relativamente à natureza, nível e complexidade das respetivas atividades.
 
-###### Artigo 115.º-K — Tratamento dos riscos
+Artigo 115.º-K
+
+Tratamento dos riscos
 
 1 - O órgão de administração da instituição de crédito é globalmente responsável pelo risco, ao qual compete:
 
@@ -3062,7 +3365,9 @@ d) Participar ativamente na avaliação de ativos e na utilização de notaçõe
 
 2 - Para efeitos do exercício adequado das funções referidas no número anterior, as instituições de crédito implementam procedimentos internos de comunicação com o órgão de administração.
 
-###### Artigo 115.º-L — Comité de riscos
+Artigo 115.º-L
+
+Comité de riscos
 
 1 - As instituições de crédito significativas em termos de dimensão, organização interna e natureza, âmbito e complexidade das suas atividades devem constituir um comité de riscos composto por membros do órgão de administração que não desempenhem funções executivas e que possuam conhecimentos, competências e experiência adequados para poderem compreender inteiramente e monitorizar a estratégia de risco e a apetência pelo risco da instituição de crédito.
 
@@ -3080,7 +3385,9 @@ d) Examinar se os incentivos estabelecidos na política de remuneração da inst
 
 4 - O órgão de fiscalização e o comité de riscos, quando este tenha sido constituído, têm acesso às informações sobre a situação de risco da instituição de crédito e, se necessário e adequado, à função de gestão de risco da instituição de crédito e a aconselhamento especializado externo, cabendo-lhes determinar a natureza, a quantidade, o formato e a frequência das informações relativas a riscos que devam receber.
 
-###### Artigo 115.º-M — Função de gestão de riscos
+Artigo 115.º-M
+
+Função de gestão de riscos
 
 1 - As instituições de crédito estabelecem uma função de gestão de riscos independente das funções operacionais e dotada de recursos adequados, sendo responsável por:
 
@@ -3094,7 +3401,9 @@ c) Participar nas decisões relativas à gestão de riscos materiais.
 
 3 - O responsável pela função de gestão de riscos pode reportar diretamente ao órgão de fiscalização e não pode ser destituído sem aprovação prévia do mesmo.
 
-###### Artigo 115.º-N — Risco de crédito e risco de contraparte
+Artigo 115.º-N
+
+Risco de crédito e risco de contraparte
 
 1 - O processo de aprovação, alteração, prorrogação ou refinanciamento de crédito é estabelecido de forma clara e fundamenta-se em critérios sólidos e definidos.
 
@@ -3106,21 +3415,29 @@ c) Participar nas decisões relativas à gestão de riscos materiais.
 
 5 - As instituições de crédito asseguram a diversificação adequada das respetivas carteiras de crédito, considerando os mercados visados e a sua estratégia de crédito global.
 
-###### Artigo 115.º-O — Risco residual
+Artigo 115.º-O
+
+Risco residual
 
 As instituições de crédito implementam políticas e procedimentos internos, definidos por escrito, que garantam o controlo do risco residual de as técnicas reconhecidas adotadas para a redução do risco de crédito serem menos eficazes do que o previsto.
 
-###### Artigo 115.º-P — Risco de concentração
+Artigo 115.º-P
+
+Risco de concentração
 
 As instituições de crédito asseguram que o risco de concentração decorrente das posições em risco sobre cada contraparte individualmente considerada, incluindo contrapartes centrais, conjuntos de contrapartes ligadas entre si e contrapartes que atuam no mesmo setor económico ou na mesma região geográfica, ou decorrente da mesma atividade ou mercadoria, ou da aplicação de técnicas de redução do risco de crédito, nomeadamente do risco associado a grandes riscos indiretos, é tratado e controlado, designadamente por meio de políticas e procedimentos definidos por escrito.
 
-###### Artigo 115.º-Q — Risco de titularização
+Artigo 115.º-Q
+
+Risco de titularização
 
 1 - Os riscos decorrentes das operações de titularização em relação às quais as instituições de crédito sejam investidoras, cedentes ou patrocinadoras, incluindo riscos de reputação, nomeadamente os que emergem no contexto de estruturas ou produtos complexos, são objeto de avaliação e tratamento, de acordo com políticas e procedimentos adequados, a fim de assegurar que a realidade económica das operações seja plenamente considerada na avaliação dos riscos e nas decisões de gestão.
 
 2 - As instituições de crédito cedentes de operações de titularização renováveis, relativamente às quais esteja consagrada uma cláusula relativa ao reembolso antecipado, dispõem de planos de liquidez que prevejam as repercussões dos reembolsos programados e antecipados no âmbito daquelas operações.
 
-###### Artigo 115.º-R — Risco de mercado
+Artigo 115.º-R
+
+Risco de mercado
 
 1 - As instituições de crédito estabelecem e implementam políticas e processos de identificação, avaliação e gestão de todas as fontes e efeitos significativos dos riscos de mercado.
 
@@ -3136,17 +3453,23 @@ b) Posições inversas em contratos de futuros sobre índices de ações cujo pr
 
 c) Cobertura do risco de perda que exista entre a data do compromisso da tomada firme e o dia útil seguinte, no caso da tomada firme de instrumentos de dívida e de títulos de capital em que a instituição de crédito aplique, para cálculo dos requisitos de fundos próprios, o artigo 345.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
 
-###### Artigo 115.º-S — Risco de taxa de juro resultante de atividades não incluídas na carteira de negociação
+Artigo 115.º-S
+
+Risco de taxa de juro resultante de atividades não incluídas na carteira de negociação
 
 As instituições de crédito implementam sistemas para identificar, avaliar e gerir o risco que resulta de uma eventual alteração das taxas de juro suscetível de afetar as atividades excluídas da sua carteira de negociação.
 
-###### Artigo 115.º-T — Risco operacional
+Artigo 115.º-T
+
+Risco operacional
 
 1 - As instituições de crédito estabelecem e implementam políticas e procedimentos para avaliar e gerir o risco operacional a que se encontram sujeitas, cabendo-lhes definir a respetiva noção de risco operacional, incluindo eventos de reduzida frequência mas de grande impacto.
 
 2 - As instituições de crédito implementam planos de contingência e de continuidade de negócio que assegurem a sua capacidade de operar numa base contínua e de conter perdas caso se verifique uma perturbação grave da respetiva atividade.
 
-###### Artigo 115.º-U — Risco de liquidez
+Artigo 115.º-U
+
+Risco de liquidez
 
 1 - As instituições de crédito devem dispor de estratégias, políticas, procedimentos e sistemas robustos para identificar, medir, gerir e monitorizar o risco de liquidez tendo por referência um conjunto de horizontes temporais apropriados, incluindo o intradiário, de forma a garantir que mantêm níveis adequados de liquidez.
 
@@ -3208,7 +3531,9 @@ b) Tomar as medidas necessárias, caso verifique que a evolução dos perfis de 
 
 c) Informar a Autoridade Bancária Europeia das medidas adotadas nos termos da alínea anterior.
 
-###### Artigo 115.º-V — Risco de alavancagem excessiva
+Artigo 115.º-V
+
+Risco de alavancagem excessiva
 
 1 - As instituições de crédito dispõem de políticas e procedimentos para identificar, gerir e controlar o risco de alavancagem excessiva.
 
@@ -3216,7 +3541,9 @@ c) Informar a Autoridade Bancária Europeia das medidas adotadas nos termos da a
 
 3 - As instituições de crédito tratam de forma prudente o risco de alavancagem excessiva, considerando os seus potenciais aumentos resultantes de reduções dos fundos próprios da instituição de crédito e a capacidade de responderem a situações adversas.
 
-###### Artigo 115.º-W — Análise comparativa dos métodos internos de cálculo dos requisitos de fundos próprios
+Artigo 115.º-W
+
+Análise comparativa dos métodos internos de cálculo dos requisitos de fundos próprios
 
 1 - As instituições de crédito autorizadas a utilizar métodos internos para o cálculo dos montantes das posições ponderadas pelo risco ou dos requisitos de fundos próprios, exceto para o risco operacional, comunicam anualmente ao Banco de Portugal os resultados dos cálculos dos seus métodos internos para as posições em risco ou posições incluídas em carteiras de referência especificadas ao abrigo do n.º 8 do artigo 78.º da [Diretiva n.º 2013/36/UE](https://data.europa.eu/eli/dir/2013/36/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, juntamente com uma explicação sobre as metodologias utilizadas para aqueles efeitos.
 
@@ -3242,7 +3569,9 @@ b) Não criam incentivos errados; ou
 
 c) Não incentivam outras instituições a adotar métodos idênticos.
 
-###### Artigo 116.º-H — Participação de infrações ao Banco de Portugal
+Artigo 116.º-H
+
+Participação de infrações ao Banco de Portugal
 
 1 - Qualquer pessoa que tenha conhecimento de indícios sérios de infrações a deveres previstos no presente Regime Geral ou no [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, pode fazer uma participação ao Banco de Portugal.
 
@@ -3254,7 +3583,9 @@ c) Não incentivam outras instituições a adotar métodos idênticos.
 
 5 - O Banco de Portugal pode aprovar a regulamentação necessária para assegurar a implementação das garantias previstas nos números anteriores.
 
-###### Artigo 116.º-I — Plano de atividades de supervisão
+Artigo 116.º-I
+
+Plano de atividades de supervisão
 
 1 - O Banco de Portugal adota, pelo menos anualmente, um plano de atividades de supervisão para as instituições de crédito, o qual tem em consideração o processo de análise e avaliação previsto no artigo 116.º-A e inclui:
 
@@ -3286,13 +3617,17 @@ e) Inspeções temáticas para controlo de riscos específicos de ocorrência pr
 
 4 - A adoção de um plano de atividades de supervisão pelo Banco de Portugal não obsta a que as autoridades competentes dos Estados-Membros de acolhimento procedam, numa base casuística, a verificações e inspeções in loco das atividades realizadas pelas sucursais das instituições de crédito com sede em Portugal.
 
-###### Artigo 116.º-J — Testes de esforço
+Artigo 116.º-J
+
+Testes de esforço
 
 1 - O Banco de Portugal efetua, com uma periodicidade adequada, e pelo menos anualmente, testes de esforço às instituições de crédito, para facilitar o processo de análise e avaliação nos termos do artigo 116.º-A.
 
 2 - Os resultados dos testes de esforço podem ser objeto de publicação.
 
-###### Artigo 116.º-K — Revisão contínua da autorização para utilização de métodos internos
+Artigo 116.º-K
+
+Revisão contínua da autorização para utilização de métodos internos
 
 1 - O Banco de Portugal revê regularmente, e pelo menos de três em três anos, o cumprimento pelas instituições de crédito dos requisitos relativos aos métodos que requerem a sua autorização antes da sua utilização para o cálculo dos requisitos de fundos próprios de acordo com a regulamentação aplicável.
 
@@ -3318,7 +3653,9 @@ b) Que detenham posições em risco específico que sejam significativas em term
 
 10 - O Banco de Portugal, atendendo à natureza, escala e complexidade das atividades das instituições de crédito, monitoriza se estas não dependem única e sistematicamente de notações de risco externas para avaliarem a qualidade creditícia de uma entidade ou instrumento financeiro.
 
-###### Artigo 116.º-L — Aplicação de medidas de supervisão a instituições de crédito com perfis de risco semelhantes
+Artigo 116.º-L
+
+Aplicação de medidas de supervisão a instituições de crédito com perfis de risco semelhantes
 
 1 - Caso o Banco de Portugal determine, nos termos do artigo 116.º-A, que instituições de crédito com perfis de risco semelhantes, designadamente com modelos de negócio ou localização geográfica semelhantes das suas posições em risco, estão ou podem vir a estar expostas a riscos semelhantes ou colocam riscos ao sistema financeiro, pode aplicar o processo de análise e avaliação a que se refere o referido artigo a essas instituições de crédito de modo semelhante ou idêntico.
 
@@ -3328,7 +3665,9 @@ b) Que detenham posições em risco específico que sejam significativas em term
 
 4 - O Banco de Portugal notifica a Autoridade Bancária Europeia sempre que aplique o disposto nos números anteriores.
 
-###### Artigo 116.º-M — Requisitos específicos de liquidez
+Artigo 116.º-M
+
+Requisitos específicos de liquidez
 
 1 - Para efeitos da determinação do nível adequado de requisitos de liquidez com base na análise e avaliação efetuadas nos termos desta secção, o Banco de Portugal avalia a necessidade de impor um requisito específico de liquidez para captar os riscos de liquidez a que a instituição de crédito está ou pode vir a estar exposta, considerando:
 
@@ -3342,7 +3681,9 @@ d) O risco sistémico de liquidez que ameace a integridade do sistema financeiro
 
 2 - O Banco de Portugal deve ponderar a necessidade de aplicar sanções ou outras medidas administrativas, nomeadamente requisitos prudenciais, cujo nível esteja em geral relacionado com a disparidade entre a posição real de liquidez da instituição de crédito e os requisitos de liquidez e de financiamento estável estabelecidos a nível nacional ou da União Europeia.
 
-###### Artigo 116.º-N — Requisitos específicos de publicação
+Artigo 116.º-N
+
+Requisitos específicos de publicação
 
 1 - O Banco de Portugal pode estabelecer, por regulamentação, que as instituições de crédito:
 
@@ -3352,7 +3693,9 @@ b) Utilizem meios de comunicação e locais específicos para a publicação de 
 
 2 - O Banco de Portugal pode exigir que as empresas-mãe publiquem anualmente, de forma integral ou por remissão para informações equivalentes, uma descrição da sua estrutura jurídica e de governo de sociedade e da estrutura organizacional do grupo.
 
-###### Artigo 116.º-O — Coerência das revisões, avaliações e medidas de supervisão
+Artigo 116.º-O
+
+Coerência das revisões, avaliações e medidas de supervisão
 
 O Banco de Portugal informa a Autoridade Bancária Europeia sobre:
 
@@ -3360,13 +3703,17 @@ a) O funcionamento do seu processo de análise e avaliação previsto no artigo 
 
 b) A metodologia utilizada como base das decisões a que se referem os artigos 116.º-B, 116.º-C, 116.º-J, 116.º-K e 116.º-M sobre o processo a que se refere a alínea anterior.
 
-###### Artigo 121.º-A — Sucursais de países terceiros
+Artigo 121.º-A
+
+Sucursais de países terceiros
 
 1 - As sucursais de instituições de crédito com sede em países terceiros autorizadas a exercer atividade em Portugal estão sujeitas à supervisão prudencial do Banco de Portugal aplicando-se-lhes, com as necessárias adaptações, o regime das instituições de crédito autorizadas em Portugal.
 
 2 - O Banco de Portugal pode emitir regulamentação com vista à aplicação do disposto no número anterior.
 
-###### Artigo 129.º-A — Nível de aplicação do processo de autoavaliação da adequação do capital interno
+Artigo 129.º-A
+
+Nível de aplicação do processo de autoavaliação da adequação do capital interno
 
 1 - As instituições de crédito cumprem as obrigações previstas no artigo 115.º-J em base individual, exceto as que sejam filiais em Portugal, empresas-mãe ou instituições de crédito incluídas na supervisão em base consolidada.
 
@@ -3380,7 +3727,9 @@ b) A metodologia utilizada como base das decisões a que se referem os artigos 1
 
 6 - O disposto no presente artigo é aplicável em base subconsolidada às instituições de crédito que sejam filiais, caso essas instituições de crédito ou a respetiva empresa-mãe, quando se tratar de uma companhia financeira-mãe ou uma companhia financeira mista-mãe, tenham uma instituição de crédito, uma empresa de investimento, uma instituição financeira ou uma sociedade gestora de fundos de investimento mobiliário, na aceção do n.º 6 do artigo 199.º-A, como filial num país terceiro, ou nela detenham uma participação.
 
-###### Artigo 129.º-B — Aplicação em matéria de tratamento de riscos e processo e medidas de supervisão
+Artigo 129.º-B
+
+Aplicação em matéria de tratamento de riscos e processo e medidas de supervisão
 
 1 - As instituições de crédito cumprem as obrigações previstas no capítulo II-C do título VII e nos n.os 9 e 10 do artigo 116.º-K, em base individual, salvo dispensa pelo Banco de Portugal da aplicação de requisitos prudenciais em base individual, nos termos do artigo 7.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013.
 
@@ -3392,7 +3741,9 @@ b) A metodologia utilizada como base das decisões a que se referem os artigos 1
 
 5 - Quando o Banco de Portugal renuncie à aplicação dos requisitos de fundos próprios em base consolidada previstos para grupos de empresas de investimento no artigo 15.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, as obrigações previstas no artigo 116.º-A aplicam-se às empresas de investimento em base individual.
 
-###### Artigo 133.º-A — Regime de supervisão das companhias financeiras mistas
+Artigo 133.º-A
+
+Regime de supervisão das companhias financeiras mistas
 
 1 - Quando uma companhia financeira mista seja objeto de disposições equivalentes ao abrigo do presente Regime Geral e do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelos Decretos-Leis n.os 18/2013, de 6 de fevereiro, e 91/2014, de 20 de junho, relativo à supervisão dos conglomerados financeiros, designadamente em termos de supervisão em função do risco, o Banco de Portugal pode, após consulta das outras autoridades competentes responsáveis pela supervisão das filiais, aplicar apenas o regime do Decreto-Lei n.º 145/2006, de 31 de julho, alterado pelos Decretos-Leis n.os 18/2013, de 6 de fevereiro, e 91/2014, de 20 de junho, a essa companhia financeira mista.
 
@@ -3400,7 +3751,9 @@ b) A metodologia utilizada como base das decisões a que se referem os artigos 1
 
 3 - O Banco de Portugal informa a Autoridade Bancária Europeia e a Autoridade Europeia dos Seguros e Pensões Complementares de Reforma das decisões tomadas ao abrigo dos n.os 1 e 2.
 
-###### Artigo 138.º-A — Autoridade competente
+Artigo 138.º-A
+
+Autoridade competente
 
 1 - O Banco de Portugal é a autoridade competente para aplicar:
 
@@ -3412,7 +3765,9 @@ c) O disposto no artigo 458.º do [Regulamento (UE) n.º 575/2013](https://data.
 
 2 - Para efeitos do disposto no número anterior, o Banco de Portugal atua na função de autoridade macroprudencial nacional, nos termos da alínea c) do artigo 12.º da Lei n.º 5/98, de 31 de janeiro, alterada pelos Decretos-Leis n.os 118/2001, de 17 de abril, 50/2004, de 10 de março, 39/2007, de 20 de fevereiro, 31-A/2012, de 10 de fevereiro, e 142/2013, de 18 de outubro, e do artigo 2.º do Decreto-Lei n.º 228/2000, de 23 de setembro, alterado pelos Decretos-Leis n.os 211-A/2008, de 3 de novembro, e 143/2013, de 18 de outubro.
 
-###### Artigo 138.º-B — Definições e disposições gerais relativas às reservas de fundos próprios
+Artigo 138.º-B
+
+Definições e disposições gerais relativas às reservas de fundos próprios
 
 1 - Para efeitos do disposto no presente título, entende-se por reservas de fundos próprios as seguintes:
 
@@ -3452,7 +3807,9 @@ iv) Reserva para risco sistémico.
 
 3 - Para efeitos do disposto no n.º 2 do artigo 138.º-D, do n.º 2 do artigo 138.º-E, do n.º 2 do artigo 138.º-P, do n.º 3 do artigo 138.º-R e do n.º 6 do artigo 138.º-U, relevam os fundos próprios principais de nível 1 mantidos para cumprir os requisitos previstos no artigo 92.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013 e os requisitos impostos nos termos da alínea a) do n.º 2 do artigo 116.º-C.
 
-###### Artigo 138.º-C — Âmbito de aplicação
+Artigo 138.º-C
+
+Âmbito de aplicação
 
 1 - O disposto no presente título não é aplicável às empresas de investimento que não se encontrem autorizadas a prestar os serviços e atividades de investimento de negociação por conta própria e de tomada firme ou de colocação com garantia de instrumentos financeiros, na aceção, respetivamente, das alíneas c) e f) do ponto 1.º do artigo 199.º-A, designadamente as empresas de investimento referidas nas alíneas b) a d) do artigo 4.º-A.
 
@@ -3460,7 +3817,9 @@ iv) Reserva para risco sistémico.
 
 3 - O Banco de Portugal comunica a decisão de dispensa à Comissão Europeia, ao Comité Europeu do Risco Sistémico, à Autoridade Bancária Europeia e às autoridades competentes dos Estados-Membros interessados.
 
-###### Artigo 138.º-D — Reserva de conservação
+Artigo 138.º-D
+
+Reserva de conservação
 
 1 - As instituições de crédito mantêm uma reserva de conservação constituída por fundos próprios principais de nível 1 de 2,5 % do montante total das posições em risco, em base individual e consolidada, consoante aplicável.
 
@@ -3468,7 +3827,9 @@ iv) Reserva para risco sistémico.
 
 3 - O incumprimento do disposto no n.º 1 sujeita as instituições de crédito às restrições previstas nos n.os 2 a 4 do artigo 138.º-AA.
 
-###### Artigo 138.º-E — Reserva contracíclica
+Artigo 138.º-E
+
+Reserva contracíclica
 
 1 - As instituições de crédito mantêm uma reserva contracíclica específica da instituição de crédito, constituída por fundos próprios principais de nível 1, em base individual e consolidada, consoante aplicável, equivalente ao montante total das posições em risco multiplicado pela percentagem da reserva contracíclica calculada nos termos dos artigos 138.º-L e 138.º-M.
 
@@ -3476,7 +3837,9 @@ iv) Reserva para risco sistémico.
 
 3 - O incumprimento do disposto no n.º 1 sujeita as instituições de crédito às restrições previstas nos n.os 2 a 4 do artigo 138.º-AA.
 
-###### Artigo 138.º-F — Referencial de reserva
+Artigo 138.º-F
+
+Referencial de reserva
 
 1 - O Banco de Portugal calcula, para cada trimestre, o referencial de reserva que serve de base à determinação da percentagem de reserva contracíclica nos termos do n.º 1 do artigo seguinte.
 
@@ -3492,7 +3855,9 @@ i) Um indicador do crescimento dos níveis do crédito em Portugal e, em particu
 
 ii) As orientações gerais emitidas pelo Comité Europeu do Risco Sistémico relativas à medição e ao cálculo do desvio das tendências de longo prazo dos rácios de crédito em relação ao produto interno bruto e ao cálculo dos referenciais de reserva.
 
-###### Artigo 138.º-G — Determinação da percentagem de reserva contracíclica
+Artigo 138.º-G
+
+Determinação da percentagem de reserva contracíclica
 
 1 - O Banco de Portugal avalia e determina trimestralmente a percentagem de reserva contracíclica para Portugal, considerando, para o efeito, os seguintes elementos:
 
@@ -3512,13 +3877,17 @@ c) Quaisquer outros elementos que o Banco de Portugal considere relevantes para 
 
 3 - Caso se justifique, e considerando os elementos referidos no n.º 1, o Banco de Portugal pode determinar uma percentagem de reserva contracíclica superior a 2,5 % do montante total das posições em risco.
 
-###### Artigo 138.º-H — Prazo para aplicação da reserva contracíclica
+Artigo 138.º-H
+
+Prazo para aplicação da reserva contracíclica
 
 1 - Quando o Banco de Portugal determinar, pela primeira vez, a percentagem de reserva contracíclica acima de zero ou, posteriormente, a aumentar, a mesma é aplicável para efeitos de cálculo da reserva contracíclica específica da instituição de crédito 12 meses após a data da divulgação prevista no artigo seguinte, salvo se o Banco de Portugal determinar que a mesma é aplicável em data anterior, com base em circunstâncias excecionais devidamente fundamentadas.
 
 2 - Em caso de redução da percentagem de reserva contracíclica em vigor, o Banco de Portugal informa igualmente sobre o período indicativo durante o qual não é expectável um aumento da percentagem de reserva contracíclica.
 
-###### Artigo 138.º-I — Divulgações relativas à reserva contracíclica
+Artigo 138.º-I
+
+Divulgações relativas à reserva contracíclica
 
 1 - O Banco de Portugal divulga trimestralmente a percentagem de reserva contracíclica através da respetiva publicação no seu sítio na Internet, incluindo, designadamente, os seguintes elementos:
 
@@ -3540,7 +3909,9 @@ g) Em caso de redução da percentagem de reserva contracíclica, a menção do 
 
 3 - O Banco de Portugal comunica ao Comité Europeu do Risco Sistémico as decisões trimestrais relativas à determinação da percentagem de reserva contracíclica e as informações indicadas no n.º 1.
 
-###### Artigo 138.º-J — Reconhecimento da percentagem de reserva contracíclica
+Artigo 138.º-J
+
+Reconhecimento da percentagem de reserva contracíclica
 
 1 - O Banco de Portugal pode reconhecer uma percentagem de reserva contracíclica superior a 2,5 % do montante total das posições em risco, estabelecida por uma autoridade designada num Estado-Membro da União Europeia responsável pela determinação dessa percentagem ou por uma autoridade competente de um país terceiro com essa responsabilidade, para efeitos de cálculo da reserva contracíclica específica da instituição de crédito.
 
@@ -3554,7 +3925,9 @@ c) Em caso de aumento da percentagem de reserva contracíclica, a indicação da
 
 d) Caso a data prevista na alínea anterior seja inferior ao período de 12 meses após a data da divulgação prevista neste número, a referência às circunstâncias excecionais que fundamentam a redução desse prazo.
 
-###### Artigo 138.º-K — Decisão sobre percentagens de reserva contracíclica de países terceiros
+Artigo 138.º-K
+
+Decisão sobre percentagens de reserva contracíclica de países terceiros
 
 1 - O Banco de Portugal pode determinar a percentagem de reserva contracíclica aplicável às instituições de crédito para efeitos do cálculo da respetiva reserva contracíclica específica relativamente às posições em risco sobre um país terceiro no caso de a autoridade competente desse país terceiro:
 
@@ -3576,7 +3949,9 @@ c) Se a percentagem de reserva contracíclica for determinada, pela primeira vez
 
 d) Caso a data prevista na alínea anterior seja inferior ao período de 12 meses após a data da divulgação prevista neste número, a referência às circunstâncias excecionais que fundamentam a redução desse prazo.
 
-###### Artigo 138.º-L — Cálculo da percentagem da reserva contracíclica específica da instituição de crédito
+Artigo 138.º-L
+
+Cálculo da percentagem da reserva contracíclica específica da instituição de crédito
 
 1 - A percentagem da reserva contracíclica específica da instituição de crédito consiste na média ponderada das percentagens de reserva contracíclica que são aplicáveis nos ordenamentos jurídicos em que as posições em risco de crédito relevantes da instituição de crédito estão situadas, ou que são aplicadas para efeitos deste artigo por força dos n.os 1 e 2 do artigo anterior.
 
@@ -3596,7 +3971,9 @@ c) Se a posição em risco for uma titularização, aos requisitos de fundos pr�
 
 6 - As instituições de crédito devem indicar a localização geográfica das posições em risco de crédito relevantes.
 
-###### Artigo 138.º-M — Data de aplicação da percentagem de reserva contracíclica específica da instituição de crédito
+Artigo 138.º-M
+
+Data de aplicação da percentagem de reserva contracíclica específica da instituição de crédito
 
 1 - Em caso de aumento da percentagem de reserva contracíclica determinada pelo Banco de Portugal ou pelas autoridades designadas de outros Estados-Membros da União Europeia, a mesma é aplicável a partir da data divulgada pelo Banco de Portugal ou por aquelas autoridades nos respetivos sítios na Internet.
 
@@ -3608,7 +3985,9 @@ c) Se a posição em risco for uma titularização, aos requisitos de fundos pr�
 
 5 - Em caso de redução da percentagem de reserva contracíclica, a mesma é imediatamente aplicável.
 
-###### Artigo 138.º-N — Identificação das G-SII
+Artigo 138.º-N
+
+Identificação das G-SII
 
 1 - Compete ao Banco de Portugal identificar, em base consolidada, as G-SII.
 
@@ -3628,7 +4007,9 @@ e) Atividade transfronteiriça do grupo.
 
 4 - A metodologia resulta numa ponderação quantitativa global para cada entidade enumerada na alínea b) do n.º 2 do artigo 138.º-B, a qual é avaliada de modo a permitir identificar as G-SII e afetá-las a uma das subcategorias previstas no artigo seguinte.
 
-###### Artigo 138.º-O — Subcategorias de G-SII
+Artigo 138.º-O
+
+Subcategorias de G-SII
 
 1 - As G-SII são afetas a cinco subcategorias que respeitam os seguintes critérios:
 
@@ -3646,7 +4027,9 @@ b) Reafetar uma entidade enumerada na alínea b) do n.º 2 do artigo 138.º-B qu
 
 4 - A decisão tomada nos termos da alínea b) do número anterior é comunicada à Autoridade Bancária Europeia.
 
-###### Artigo 138.º-P — Reserva de G-SII
+Artigo 138.º-P
+
+Reserva de G-SII
 
 1 - Cada G-SII mantém, em base consolidada, uma reserva de G-SII constituída por fundos próprios principais de nível 1 correspondente à subcategoria a que está afeta, de acordo com o seguinte:
 
@@ -3658,7 +4041,9 @@ c) Na subcategoria mais alta é exigida uma reserva de fundos próprios de 3,5 %
 
 2 - A reserva de G-SII exigida nos termos do disposto no número anterior é cumulativa com os requisitos previstos no artigo 92.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, no artigo 138.º-D e no artigo 138.º-E, e com os requisitos impostos nos termos da alínea a) do n.º 2 do artigo 116.º-C.
 
-###### Artigo 138.º-Q — Identificação de O-SII
+Artigo 138.º-Q
+
+Identificação de O-SII
 
 1 - Compete ao Banco de Portugal identificar, consoante aplicável, em base individual, subconsolidada ou consolidada, as O-SII.
 
@@ -3672,7 +4057,9 @@ c) Importância das atividades transfronteiriças;
 
 d) Interconectividade da instituição de crédito ou do grupo, conforme aplicável, com o sistema financeiro.
 
-###### Artigo 138.º-R — Reserva de O-SII
+Artigo 138.º-R
+
+Reserva de O-SII
 
 1 - O Banco de Portugal pode exigir às O-SII que mantenham, em base consolidada, subconsolidada ou individual, consoante aplicável, uma reserva de O-SII constituída por fundos próprios principais de nível 1 de até 2 % do montante total das posições em risco, tendo em conta os critérios para a identificação das O-SII.
 
@@ -3680,13 +4067,17 @@ d) Interconectividade da instituição de crédito ou do grupo, conforme aplicá
 
 3 - A reserva de O-SII, caso seja exigida nos termos do n.º 1, é cumulativa com os requisitos previstos no artigo 92.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, no artigo 138.º-D e no artigo 138.º-E, e com os requisitos impostos nos termos da alínea a) do n.º 2 do artigo 116.º-C.
 
-###### Artigo 138.º-S — Concurso de requisitos de reservas de G-SII e O-SII
+Artigo 138.º-S
+
+Concurso de requisitos de reservas de G-SII e O-SII
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 138.º-R e no artigo 138.º-X, se uma O-SII for filial de uma G-SII ou de uma O-SII que seja uma instituição de crédito-mãe na União Europeia, uma companhia financeira-mãe na União Europeia ou uma companhia financeira mista-mãe na União Europeia sujeita a uma reserva de O-SII em base consolidada, a reserva de fundos próprios aplicável à O-SII filial a nível individual ou subconsolidado deve ser inferior a 1 % do montante total das posições em risco ou à percentagem da reserva de G-SII ou O-SII aplicável ao grupo a nível consolidado, consoante o mais elevado.
 
 2 - Caso um grupo, em base consolidada, esteja sujeito a uma reserva de G-SII e uma reserva de O-SII, é aplicável a reserva de fundos próprios mais elevada.
 
-###### Artigo 138.º-T — Notificação, revisão e divulgação relativas a G-SII e a O-SII
+Artigo 138.º-T
+
+Notificação, revisão e divulgação relativas a G-SII e a O-SII
 
 1 - O Banco de Portugal notifica a Comissão Europeia, o Comité Europeu do Risco Sistémico e a Autoridade Bancária Europeia da firma ou denominação das G-SII e das O-SII e a subcategoria a que está afeta cada G-SII nos termos do artigo 138.º-O, e divulga essa informação no sítio da Internet.
 
@@ -3702,7 +4093,9 @@ c) A percentagem que pretende determinar para a reserva de O-SII.
 
 4 - O Banco de Portugal comunica o resultado da revisão anual referida no número anterior às G-SII e O-SII em causa, à Comissão Europeia, ao Comité Europeu do Risco Sistémico e à Autoridade Bancária Europeia e divulga a informação atualizada nos termos do n.º 1.
 
-###### Artigo 138.º-U — Reserva para risco sistémico
+Artigo 138.º-U
+
+Reserva para risco sistémico
 
 1 - De modo a prevenir ou reduzir os riscos sistémicos ou macroprudenciais não cíclicos de longo prazo não cobertos pelo [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, que constituam um risco de perturbação do sistema financeiro suscetível de ter consequências negativas graves para o sistema financeiro e a economia nacional, o Banco de Portugal pode determinar às instituições de crédito sujeitas à sua supervisão, ou a um ou mais subconjuntos dessas instituições, a aplicação de uma reserva para risco sistémico constituída por fundos próprios principais de nível 1, em base individual, subconsolidada e consolidada.
 
@@ -3724,7 +4117,9 @@ b) A reserva para risco sistémico é revista pelo menos bianualmente.
 
 8 - Se a aplicação das restrições a que se refere o número anterior conduzir a uma melhoria insuficiente dos fundos próprios principais de nível 1 da instituição de crédito, à luz do risco sistémico relevante, o Banco de Portugal pode tomar medidas suplementares, quer nos termos dos seus poderes de supervisão quer mediante procedimentos contraordenacionais.
 
-###### Artigo 138.º-V — Procedimento de mera notificação e de obtenção de parecer relativo à reserva para risco sistémico
+Artigo 138.º-V
+
+Procedimento de mera notificação e de obtenção de parecer relativo à reserva para risco sistémico
 
 1 - Caso o Banco de Portugal determine uma percentagem de reserva para risco sistémico de até 3 %, deve notificar, com a antecedência de um mês relativamente à publicação da respetiva decisão, a Comissão Europeia, o Comité Europeu do Risco Sistémico, a Autoridade Bancária Europeia, as autoridades competentes e designadas dos Estados-Membros interessados e as autoridades de supervisão dos países terceiros interessados.
 
@@ -3760,7 +4155,9 @@ iii) Em caso de discordância por parte das autoridades desse Estado-Membro e em
 
 iv) Suspende a decisão de estabelecer a reserva para as referidas posições em risco até que a Autoridade Bancária Europeia decida.
 
-###### Artigo 138.º-W — Procedimento de autorização relativo à reserva para risco sistémico
+Artigo 138.º-W
+
+Procedimento de autorização relativo à reserva para risco sistémico
 
 1 - Sem prejuízo do disposto nos n.os 4 e 5 do artigo anterior, caso o Banco de Portugal determine uma percentagem de reserva para risco sistémico superior a 3 %, deve notificar desse facto a Comissão Europeia, o Comité Europeu do Risco Sistémico, a Autoridade Bancária Europeia, as autoridades competentes e designadas dos Estados-Membros interessados e as autoridades de supervisão dos países terceiros interessados, neste último caso se a reserva se aplicar às posições em risco situadas nesses países.
 
@@ -3770,7 +4167,9 @@ iv) Suspende a decisão de estabelecer a reserva para as referidas posições em
 
 4 - Os procedimentos constantes dos números anteriores são aplicáveis a partir de 1 de janeiro de 2015, sempre que o Banco de Portugal determine uma percentagem de reserva para risco sistémico superior a 5 %, aplicável às posições em risco situadas em Portugal, podendo ser igualmente aplicável às posições em risco em países terceiros.
 
-###### Artigo 138.º-X — Concurso de requisitos de reservas de G-SII e O-SII e de reserva para risco sistémico
+Artigo 138.º-X
+
+Concurso de requisitos de reservas de G-SII e O-SII e de reserva para risco sistémico
 
 1 - É aplicável a reserva de fundos próprios mais elevada, nos seguintes casos:
 
@@ -3784,7 +4183,9 @@ b) Se uma instituição de crédito ou um grupo estiverem sujeitos, em base indi
 
 4 - Caso se aplique o disposto no n.º 2 e uma instituição de crédito pertencer a um grupo identificado como G-SII ou a um grupo ou subgrupo identificado como O-SII, tal não pode implicar que essa instituição esteja, em base individual, sujeita a um requisito combinado de reservas de fundos próprios inferior à soma da reserva de conservação, da reserva contracíclica e à soma da reserva de O-SII e da reserva para risco sistémico aplicáveis a essa entidade em base individual.
 
-###### Artigo 138.º-Y — Divulgação da reserva de risco sistémico
+Artigo 138.º-Y
+
+Divulgação da reserva de risco sistémico
 
 O Banco de Portugal divulga a reserva para risco sistémico no seu sítio na Internet, incluindo as seguintes informações:
 
@@ -3798,7 +4199,9 @@ d) A data a partir da qual é aplicável às instituições de crédito a reserv
 
 e) Os países onde estão situadas posições em risco reconhecidas na reserva para risco sistémico.
 
-###### Artigo 138.º-Z — Reconhecimento da percentagem de uma reserva para risco sistémico
+Artigo 138.º-Z
+
+Reconhecimento da percentagem de uma reserva para risco sistémico
 
 1 - O Banco de Portugal pode reconhecer a percentagem de uma reserva para risco sistémico determinada por outro Estado-Membro da União Europeia, tendo em conta as informações apresentadas pelo mesmo na respetiva notificação, e determinar a aplicação dessa percentagem às instituições de crédito em relação às posições em risco situadas naquele Estado-Membro.
 
@@ -3806,7 +4209,9 @@ e) Os países onde estão situadas posições em risco reconhecidas na reserva p
 
 3 - O Banco de Portugal pode solicitar ao Comité Europeu do Risco Sistémico que emita uma recomendação, dirigida a um ou mais Estados-Membros da União Europeia, para que os mesmos reconheçam a percentagem da reserva para risco sistémico determinada nos termos desta secção.
 
-###### Artigo 138.º-AA — Restrições às distribuições
+Artigo 138.º-AA
+
+Restrições às distribuições
 
 1 - As instituições de crédito que cumpram o requisito combinado de reserva de fundos próprios não podem proceder a distribuições relacionadas com fundos próprios principais de nível 1 que conduzam a uma diminuição desses seus fundos próprios para um nível em que o requisito combinado de reserva deixe de ser cumprido.
 
@@ -3836,7 +4241,9 @@ d) O reembolso de montantes pagos relacionados com os instrumentos de fundos pr�
 
 e) A distribuição de elementos a que se referem as alíneas b) a e) do n.º 1 do artigo 26.º do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho 2013.
 
-###### Artigo 138.º-AB — Cálculo do montante máximo distribuível
+Artigo 138.º-AB
+
+Cálculo do montante máximo distribuível
 
 1 - O cálculo pelas instituições de crédito do montante máximo distribuível é efetuado multiplicando a soma calculada nos termos do número seguinte pelo fator determinado nos termos do n.º 3, devendo aquele montante ser reduzido em consequência de qualquer das ações a que se refere o n.º 3 do artigo 138.º-AA.
 
@@ -3862,15 +4269,17 @@ d) O fator é 0,6 situando-se no quarto, e mais elevado, quartil do requisito co
 
 a):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
 
 b):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
 
 Q(índice n) indica o número do quartil em causa.
 
-###### Artigo 138.º-AC — Comunicação ao Banco de Portugal de distribuição com restrições
+Artigo 138.º-AC
+
+Comunicação ao Banco de Portugal de distribuição com restrições
 
 1 - As instituições de crédito que não cumpram o requisito combinado de reserva de fundos próprios devem comunicar ao Banco de Portugal a intenção de distribuir qualquer dos seus lucros distribuíveis ou efetuar qualquer ato a que se refere o n.º 3 do artigo 138.º-AA, em conjunto com as seguintes informações:
 
@@ -3898,7 +4307,9 @@ iv) Pagamento de remunerações variáveis ou de benefícios discricionários de
 
 2 - As instituições de crédito mantêm procedimentos que garantam o cálculo rigoroso do montante dos lucros distribuíveis e do montante máximo distribuível, assegurando igualmente a demonstração desse rigor a pedido do Banco de Portugal.
 
-###### Artigo 138.º-AD — Plano de conservação de fundos próprios
+Artigo 138.º-AD
+
+Plano de conservação de fundos próprios
 
 1 - A instituição de crédito que não cumpra o requisito combinado de reservas apresenta um plano de conservação de fundos próprios ao Banco de Portugal no prazo de cinco dias úteis a contar da data em que verifique o incumprimento desse requisito.
 
@@ -3922,21 +4333,29 @@ a) Aumento dos fundos próprios da instituição de crédito para níveis e segu
 
 b) Imposição de restrições à distribuição mais estritas do que as previstas pelos artigos desta secção, no âmbito dos poderes previstos no artigo 116.º-C.
 
-###### Artigo 174.º-A — Regime das sociedades financeiras
+Artigo 174.º-A
+
+Regime das sociedades financeiras
 
 O título II é aplicável, com as necessárias adaptações, às sociedades financeiras com sede em Portugal com exceção da alínea b) e da última parte da alínea d) do n.º 1 do artigo 14.º, do n.º 3 do artigo 16.º, do n.º 3 do artigo 22.º e do n.º 2 do artigo 23.º
 
-###### Artigo 197.º-A — Reservas de fundos próprios
+Artigo 197.º-A
+
+Reservas de fundos próprios
 
 O Banco de Portugal pode determinar, por regulamentação, os termos em que sujeita as sociedades financeiras aos requisitos do título VII-A.
 
-###### Artigo 200.º-A — Desobediência
+Artigo 200.º-A
+
+Desobediência
 
 1 - Quem se recusar a acatar as ordens ou mandados legítimos do Banco de Portugal, emanados no âmbito das suas funções, ou criar, por qualquer forma, obstáculos à sua execução incorre na pena prevista para o crime de desobediência qualificada, se o Banco de Portugal ou funcionário tiverem feito a advertência dessa cominação.
 
 2 - Na mesma pena incorre quem não cumprir, dificultar ou defraudar a execução das sanções acessórias ou medidas cautelares aplicadas em processo de contraordenação.
 
-###### Artigo 214.º-A — Segredo de justiça
+Artigo 214.º-A
+
+Segredo de justiça
 
 1 - O processo de contraordenação encontra-se sujeito a segredo de justiça até que seja proferida decisão administrativa.
 
@@ -3948,7 +4367,9 @@ b) Consultar os autos e obter cópias, extratos e certidões de quaisquer partes
 
 3 - São aplicáveis ao processo de contraordenação, com as devidas adaptações, as exceções previstas no Código de Processo Penal para o regime de segredo de justiça.
 
-###### Artigo 216.º-A — Medidas cautelares
+Artigo 216.º-A
+
+Medidas cautelares
 
 1 - Quando se revele necessário à eficaz instrução do processo de contraordenação ou à salvaguarda do sistema financeiro ou dos interesses dos depositantes, investidores e demais credores, o Banco de Portugal pode:
 
@@ -3966,7 +4387,9 @@ c) Determinar o encerramento preventivo, no todo ou em parte, de estabelecimento
 
 5 - Das decisões do Banco de Portugal tomadas ao abrigo do presente artigo cabe sempre recurso, com subida imediata, em separado e com efeito meramente devolutivo.
 
-###### Artigo 219.º-A — Imputação das infrações e defesa
+Artigo 219.º-A
+
+Imputação das infrações e defesa
 
 1 - Reunidos indícios suficientes da verificação da contraordenação e de quem foram os seus agentes, o arguido e, quando existir, o seu defensor, são notificados para, querendo, apresentar defesa por escrito e oferecer meios de prova, sendo, para o efeito, fixado pelo Banco de Portugal um prazo entre 10 e 30 dias úteis.
 
@@ -3978,11 +4401,15 @@ c) Determinar o encerramento preventivo, no todo ou em parte, de estabelecimento
 
 5 - O Banco de Portugal deve comunicar ao arguido ou ao seu defensor, quando exista, as diligências adicionais de prova que, por sua iniciativa, realize após a apresentação da defesa, conferindo prazo para que, querendo, se pronuncie sobre aquelas diligências.
 
-###### Artigo 227.º- C — Comunicação de sanções
+Artigo 227.º- C
+
+Comunicação de sanções
 
 O Banco de Portugal comunica à Autoridade Bancária Europeia as sanções aplicadas pela prática das contraordenações previstas nas alíneas a), b), r) e cc) a ll) do artigo 211.º e pela violação das regras do [Regulamento (UE) n.º 575/2013](https://data.europa.eu/eli/reg/2013/575/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de junho de 2013, a situação e o resultado dos recursos das decisões que as aplicam.
 
-###### Artigo 228.º-A — Efeito do recurso
+Artigo 228.º-A
+
+Efeito do recurso
 
 O recurso de impugnação de decisões proferidas pelo Banco de Portugal só tem efeito suspensivo se o recorrente prestar garantia, no prazo de 20 dias, no valor de metade da coima aplicada, salvo se demonstrar, em igual prazo, que não a pode prestar, no todo ou em parte, por insuficiência de meios.»
 
@@ -4072,7 +4499,9 @@ i) Com coima de (euro) 5 000 a (euro) 500 000, se o agente for uma pessoa coleti
 
 ii) Com coima de (euro) 2 500 a (euro) 250 000, se o agente for uma pessoa singular.
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - Conjuntamente com as coimas, podem ser aplicadas ao responsável por qualquer das contraordenações previstas no artigo 53.º as seguintes sanções acessórias, em função da gravidade da infração e da culpa do agente:
 
@@ -4106,7 +4535,9 @@ c) Sempre que a entidade financeira seja uma filial, o rendimento bruto consider
 
 4 - Quando estejam em causa pessoas coletivas que sejam entidades financeiras e os limites máximos das coimas previstas no artigo anterior sejam, simultaneamente, suscetíveis de agravamento nos termos dos n.os 1 e 2, prevalece como limite máximo o montante mais elevado.
 
-###### Artigo 55.º-A — Graduação da sanção
+Artigo 55.º-A
+
+Graduação da sanção
 
 1 - A determinação da medida da coima e das sanções acessórias faz-se em função da ilicitude concreta do facto, da culpa do agente e das exigências de prevenção, tendo ainda em conta a natureza individual ou coletiva do agente.
 
@@ -4146,7 +4577,9 @@ e) O nível de colaboração do arguido com a autoridade administrativa competen
 
 4 - A coima deve exceder o benefício económico obtido pelo arguido ou pessoa que fosse seu propósito beneficiar, na medida em que aquele seja determinável.
 
-###### Artigo 55.º-B — Divulgação da decisão
+Artigo 55.º-B
+
+Divulgação da decisão
 
 1 - No caso de infrações praticadas no âmbito da atividade de instituições de crédito ou empresas de investimento, decorrido o prazo de impugnação judicial, a decisão condenatória é divulgada no sítio na Internet da autoridade administrativa competente, na íntegra ou por extrato que inclua, pelo menos, a identidade da pessoa singular ou coletiva condenada e informação sobre o tipo e a natureza da infração, mesmo que tenha sido requerida a sua impugnação judicial, sendo, neste caso, feita expressa menção deste facto.
 
@@ -4164,7 +4597,9 @@ c) A publicação possa, tanto quanto pode ser determinado, causar danos desprop
 
 5 - As informações divulgadas nos termos dos números anteriores mantêm-se disponíveis no sítio na Internet da autoridade administrativa competente durante cinco anos, contados a partir do momento em que a decisão condenatória se torne definitiva ou transite em julgado, e não podem ser indexadas a motores de pesquisa na Internet.
 
-###### Artigo 57.º-A — Comunicação de sanções
+Artigo 57.º-A
+
+Comunicação de sanções
 
 No caso de sanções aplicadas no contexto da atividade de uma instituição de crédito ou empresa de investimento, a autoridade administrativa competente comunica à Autoridade Bancária Europeia as sanções aplicadas, bem como a situação e o resultado dos recursos das decisões que as aplicam.»
 
@@ -4194,7 +4629,9 @@ Os artigos 1.º e 4.º do Decreto-Lei n.º 260/94, de 22 de outubro, passam a te
 
 As sociedades de investimento são sociedades financeiras que têm por objeto exclusivo a realização das operações financeiras e a prestação de serviços conexos definidos neste diploma.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -4218,7 +4655,9 @@ Os artigos 1.º e 5.º do Decreto-Lei n.º 72/95, de 15 de abril, alterado pelos
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -4240,7 +4679,9 @@ Os artigos 2.º a 5.º do Decreto-Lei n.º 171/95, de 18 de julho, alterado pelo
 
 2 - Compreendem-se na atividade de factoring as ações complementares de colaboração entre as entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro e os seus clientes, designadamente de estudo dos riscos de crédito e de apoio jurídico, comercial e contabilístico à boa gestão dos créditos transacionados.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 [...]:
 
@@ -4250,13 +4691,17 @@ b) [...]
 
 c) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
 2 - As designações «sociedade de factoring», «sociedade de cessão financeira» ou quaisquer outras que sugiram essa atividade só podem ser usadas pelas entidades habilitadas a exercer a atividade de factoring nos termos do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -4276,7 +4721,9 @@ Os artigos 1.º e 8.º do Decreto-Lei n.º 211/98, de 16 de julho, alterado pelo
 
 As sociedades de garantia mútua são sociedades financeiras que têm por objeto exclusivo a realização de operações financeiras e a prestação dos serviços conexos previstos neste diploma em benefício de micro, pequenas e médias empresas, ou outras pessoas coletivas, qualquer que seja a sua natureza jurídica, designadamente associações e agrupamentos complementares de empresas, bem como pessoas singulares, em especial estudantes e investigadores, regendo-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As sociedades de garantia mútua só podem financiar a sua atividade com fundos próprios e através dos seguintes recursos:
 
@@ -4508,15 +4955,15 @@ d) 100 % da reserva de G-SII, em 2019.
 
 Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Paula Maria von Hafe Teixeira da Cruz.
 
-**Promulgado em 20 de outubro de 2014.**
+Promulgado em 20 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de outubro de 2014.**
+Referendado em 21 de outubro de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 25.º)
 
@@ -8354,11 +8801,11 @@ d) O fator é 0,6 situando-se no quarto, e mais elevado, quartil do requisito co
 
 a):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
 
 b):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf))](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/20600/0538405539.pdf)
 
 Q(índice n) indica o número do quartil em causa.
 

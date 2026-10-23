@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/2014/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2014-25345582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b073a296a6243a30dff5738166b9d8b03f6f6144a90d16798bc7047cbcedce6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b4f1daefc1d3cb371bfba3d2f761b554ef028a92f4192e2237222cd5b908b12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,21 +72,21 @@ subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
 - Definição de Competências
-- Poluição Atmosférica
+- Equipamento Agrícola
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Especificação Técnica
-- Segurança no Trabalho
 - Fiscalização
 - Homologação
-- Veículo
-- Segurança Rodoviária
 - Normas de Segurança
+- Poluição Atmosférica
+- Regulamento
+- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
 - Regulamento Respeitante as Medidas a Tomar contra as Emissões de Gases Poluentes e de Particulas Poluentes Provenientes
   dos Motores Destinados a Propulsão dos Tractores Agrícolas ou Florestais
-- Regulamento
-- Equipamento Agrícola
-- Regulamento da Homologação dos Tractores Agrícolas e Florestais de Rodas
+- Segurança no Trabalho
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: celex:31997L0068
@@ -117,15 +117,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2014/44/oj
 article_structure:
-  article_count: 12
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:15Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +192,9 @@ e) Engate do tipo esfera (conforme a figura 4 do anexo XXX);
 
 f) Engate do tipo cabeçote (conforme a figura 5 do anexo XXX).
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
@@ -220,7 +222,9 @@ f) Engate do tipo cabeçote (conforme a figura 5 do anexo XXX).
 
 13 - [...].
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - As dimensões dos dispositivos de ligação mecânica ao trator devem satisfazer o representado nas figuras 1 a 5 e no quadro 1 do anexo XXX ao presente decreto-lei.
 
@@ -238,7 +242,9 @@ f) Engate do tipo cabeçote (conforme a figura 5 do anexo XXX).
 
 8 - [...].
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...].
 
@@ -252,7 +258,9 @@ c) Indicação do valor D, referido no anexo XXXI, para o ensaio dinâmico, ou d
 
 d) [...].
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - [...]:
 
@@ -270,7 +278,9 @@ d) Em caso de verificação da resistência em conformidade com o anexo XXXII ao
 
 2 - [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Todos os dispositivos de ligação mecânica devem vir acompanhados por instruções de utilização fornecidas pelo fabricante, as quais devem compreender o número de homologação CE do componente e os valores D (kN) ou T (toneladas), consoante o ensaio a que tenha sido submetido o dispositivo de ligação.
 
@@ -302,15 +312,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de maio de 2014. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - Miguel Bento Martins Costa Macedo e Silva - António de Magalhães Pires de Lima.
 
-**Promulgado em 17 de junho de 2014.**
+Promulgado em 17 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 19 de junho de 2014.**
+Referendado em 19 de junho de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -332,7 +342,7 @@ Figura 1c
 
 Dispositivo de engate automático, com cavilha dentada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 1d
 
@@ -340,13 +350,13 @@ Engate de boca de lobo sem rotação
 
 (correspondente à norma ISO 6489-5:2011)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Quadro 1
 
 Formas e dimensões dos engates de boca de lobo do reboque ou da alfaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 2
 
@@ -358,7 +368,7 @@ Barra oscilante
 
 Corresponde à norma ISO 6489, parte 3, de junho de 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 4
 
@@ -366,7 +376,7 @@ Engate do tipo esfera
 
 (correspondente à norma ISO 24347:2005)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Figura 5
 
@@ -374,9 +384,11 @@ Engate do tipo cabeçote
 
 (correspondente à norma ISO 6489-4:2004)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-## ANEXO XXXI — [...]
+ANEXO XXXI
+
+[...]
 
 [...]
 
@@ -390,7 +402,7 @@ A componente horizontal, segundo o eixo longitudinal do veículo, é representad
 
 Para a ligação mecânica vale a expressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 As componentes da força vertical perpendiculares ao plano da via são expressas pela carga vertical estática S (Kg).
 
@@ -402,9 +414,11 @@ As massas tecnicamente admissíveis M(índice T) e M(índice R) são especificad
 
 3.2- Forças de ensaio. - A força de ensaio é a resultante geométrica das componentes vertical e horizontal da carga:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-## ANEXO XXXII — [...]
+ANEXO XXXII
+
+[...]
 
 [...]
 
@@ -438,7 +452,9 @@ Durante o ensaio, a deformação do dispositivo de ligação não deve exceder 1
 
 A verificação é efetuada depois de anulada a carga vertical (em daN, igual a g . S/10) e restabelecida a pré-carga de 500 daN.
 
-## ANEXO XXXIII — [...]
+ANEXO XXXIII
+
+[...]
 
 [...]
 
@@ -448,15 +464,17 @@ A verificação é efetuada depois de anulada a carga vertical (em daN, igual a 
 
 Qualquer trator cuja massa em carga exceda 2,5 t deve estar equipado com um dispositivo de engate cuja altura acima do solo satisfaça uma das relações seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 ou
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 As massas m(índice t), m(índice lt), m(índice a) e m(índice la) são expressas em kg.
 
-## ANEXO XXXIV — [...]
+ANEXO XXXIV
+
+[...]
 
 [...]
 
@@ -464,11 +482,13 @@ As massas m(índice t), m(índice lt), m(índice a) e m(índice la) são express
 
 Exemplo de uma marca de homologação CE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 O dispositivo de ligação que ostenta a marca de homologação CE de componente acima é um dispositivo para o qual a homologação CE foi concedida na Alemanha (e 1), sob o número 38-363 e em que foi realizado um ensaio de resistência estático (S).
 
-## ANEXO XXXV — (a que se referem os artigos 67.º e 68.º)
+ANEXO XXXV
+
+(a que se referem os artigos 67.º e 68.º)
 
 COMUNICAÇÃO RELATIVA À CONCESSÃO, À RECUSA, À REVOGAÇÃO OU À EXTENSÃO DA HOMOLOGAÇÃO CE DE UM COMPONENTE NO QUE DIZ RESPEITO À SUA RESISTÊNCIA E ÀS DIMENSÕES E À CARGA VERTICAL NO PONTO DE ENGATE DE UM TIPO DE DISPOSITIVO DE LIGAÇÃO (ENGATE DE BOCA DE LOBO, ENGATE DE BOCA DE LOBO SEM ROTAÇÃO, GANCHO DE REBOQUE, BARRA OSCILANTE, ENGATE DO TIPO ESFERA E ENGATE DO TIPO CABEÇOTE.)
 
@@ -518,7 +538,9 @@ Carga vertical no ponto de engate (S):... (Kg)
 
 (2) [...]
 
-## ANEXO XXXVI — [...]
+ANEXO XXXVI
+
+[...]
 
 [...]
 
@@ -578,11 +600,11 @@ Carga vertical no ponto de engate (S):... (Kg)
 
 [...]
 
-# Parte 1
+Parte 1
 
 [...]
 
-# Parte 2
+Parte 2
 
 [...]
 
@@ -820,7 +842,7 @@ Carga vertical no ponto de engate (S):... (Kg)
 
 2.6.4.2 - [...]:
 
-# Parte 3
+Parte 3
 
 [...]
 
@@ -832,9 +854,9 @@ Carga vertical no ponto de engate (S):... (Kg)
 
 3.1.2 - Especificações dos tipos de motor que compõem a família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
-# Parte 4
+Parte 4
 
 [...]
 
@@ -1070,17 +1092,19 @@ Carga vertical no ponto de engate (S):... (Kg)
 
 4.6.4.2 - [...].
 
-## ANEXO III — [...]
+ANEXO III
 
 [...]
 
 [...]
 
-# Parte I
+[...]
+
+Parte I
 
 [...]
 
-# Parte II
+Parte II
 
 1 - [...].
 
@@ -1104,7 +1128,7 @@ Fator de deterioração (DF) calculado/fixo (1)
 
 Especificar os valores dos DF e os resultados das emissões no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 2.4.1.2 - Sistema de recolha de amostras utilizado para o ensaio NRSC : ...
 
@@ -1124,7 +1148,7 @@ Especificar os valores dos DF e os resultados das emissões no quadro seguinte:
 
 Os dados relativos à regeneração podem ser comunicados para os motores da fase IV.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 Trabalho do ciclo para arranque a quente sem regeneração kWh
 
@@ -1142,17 +1166,19 @@ Método: filtro simples/filtros múltiplos (1)
 
 (1) Riscar o que não interessa.
 
-## ANEXO VII — [...]
+ANEXO VII
 
 [...]
 
 [...]
 
-# Parte 1
+[...]
+
+Parte 1
 
 [...]
 
-# Parte 2
+Parte 2
 
 [...]
 
@@ -1322,7 +1348,9 @@ Método: filtro simples/filtros múltiplos (1)
 
 (2) [...].
 
-## ANEXO IX — RECONHECIMENTO DE HOMOLOGAÇÕES ALTERNATIVAS
+ANEXO IX
+
+RECONHECIMENTO DE HOMOLOGAÇÕES ALTERNATIVAS
 
 As homologações que se seguem e, quando aplicável, as marcas de homologação correspondentes são reconhecidas como equivalentes a uma homologação nos termos do presente regulamento:
 
@@ -1462,7 +1490,7 @@ MODELO A
 
 3.3.1.2 - Especificações dos tipos de motor que compõem a família:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 3.4 - [...].
 
@@ -1570,7 +1598,7 @@ MODELO A
 
 3.5.3 - Facultativo: Potência eventual na tomada de força (TF) à velocidade nominal (de acordo com o Código 2 da OCDE ou a norma ISO 789-1:1990)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 (*) JO L 59 de 27.2.1998, p. 1.
 
@@ -1598,17 +1626,23 @@ MODELO B
 
 (1) [...].
 
-## ANEXO II — [...]
-
-### Capítulo I — [...]
-
-### Capítulo II — [...]
-
-# Parte I
+ANEXO II
 
 [...]
 
-# Parte II
+Capítulo I
+
+[...]
+
+Capítulo II
+
+[...]
+
+Parte I
+
+[...]
+
+Parte II
 
 Resultados dos ensaios
 
@@ -1622,23 +1656,27 @@ Variante/versão:...
 
 a. Resultados finais dos ensaios NRSC/ESC/WHSC (1) incluindo DF (g/kWh)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 b. Resultados finais dos ensaios NRTC/ETC/WHTC (1) incluindo DF (g/kWh) (*)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf))](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/06/12100/0340803420.pdf)
 
 (1) Riscar o que não interessa.
 
 (*) Se for caso disso.
 
-### Capítulo II — [...]
-
-## ANEXO III — [...]
+Capítulo II
 
 [...]
 
-# Parte I
+ANEXO III
+
+[...]
+
+[...]
+
+Parte I
 
 [...]
 
@@ -1710,6 +1748,6 @@ B - [...]
 
 C - [...]
 
-# Parte II
+Parte II
 
 [...]»

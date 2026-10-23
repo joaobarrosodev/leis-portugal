@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/21100/0000600017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2024/10/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2024-893982645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8631c37bf469cc0bda68ea6c3a0eedfdb883301ebb59828320c894f275793b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3720ca740baa2bd2f7caef5659c1ae0dd8276d12dba19568dbb3d5c5d9b498a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Aforro
-- Transmissão da Propriedade
 - Regime Jurídico
+- Transmissão da Propriedade
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:122/2002
+  label: Altera, a partir de 29 de novembro de 2024, os artigos 2.º, 4.º, 6.º e 10.º, adita os artigos 5.º-A, 5.º-B e 9.º-B,
+    revoga o n.º 1 do artigo 11.º e republica, nos termos do artigo 12.º do presente diploma, o Decreto-Lei n.º 122/2002,
+    de 4 de maio, Diário da República n.º 103/2002, Série I-A
+  source: null
+  date: '2002-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2002/05/04/p/dre
   label: null
@@ -94,16 +101,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73-a/2008/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73-a/2008/01/23/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66384016:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:50:14Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +189,7 @@ O presente decreto-lei procede à:
 
 a) Sexta alteração ao [Decreto n.º 43454](https://diariodarepublica.pt/dr/detalhe/decreto/43454-1960-479932), de 30 de dezembro de 1960, na sua redação atual, que insere disposições relativas à criação de certificados de renda vitalícia mediante a aceitação de numerário, à regulamentação da disposição legal que estabelece os certificados de aforro e à escrituração e funcionamento dos Fundos de regularização da dívida pública e de renda vitalícia;
 
-b) Terceira alteração ao [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>[122/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2002-370864), de 4 de maio, e [47/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2008-247030), de 13 de março, que autoriza a emissão de uma nova série de certificados de aforro, denominada "série B", cuja administração fica a cargo da Junta do Crédito Público;
+b) Terceira alteração ao [Decreto-Lei n.º 172-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-b-1986-518811), de 30 de junho, alterado pelos Decretos-Leis n.os[122/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2002-370864), de 4 de maio, e [47/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2008-247030), de 13 de março, que autoriza a emissão de uma nova série de certificados de aforro, denominada "série B", cuja administração fica a cargo da Junta do Crédito Público;
 
 c) Segunda alteração ao [Decreto-Lei n.º 122/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2002-370864), de 4 de maio, alterado pelo [Decreto-Lei n.º 47/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2008-247030), de 13 de março, que aprova o regime jurídico das novas séries de certificados de aforro.
 
@@ -372,15 +419,15 @@ O presente decreto-lei entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de setembro de 2024. - Joaquim Miranda Sarmento - Joaquim Miranda Sarmento - Pedro Reis.
 
-**Promulgado em 16 de outubro de 2024.**
+Promulgado em 16 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 17 de outubro de 2024.**
+Referendado em 17 de outubro de 2024.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 12.º)
 
@@ -531,3 +578,5 @@ Findo o prazo de 10 anos a que se refere o artigo anterior, consideram-se prescr
 ###### Artigo 14.º — Entrada em vigor
 
 O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+
+118284288

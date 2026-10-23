@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1970-147270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:21:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77fe52b58fb678c6ba8bb960ea269a616c87bccbc7b75a1746e2f706725c8fb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc0ac0302c971089193d8370989eafbc25d7b6893e894da14f4422804bc6558e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:21:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400643:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:21:28Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +91,17 @@ de 20 de Novembro
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, alterar para a seguinte, a redacção dos artigos 6.º a 9.º e respectivos parágrafos do Regulamento sobre a Organização e Funcionamento do Centro de Documentação Técnico-Económica do Ministério do Ultramar, aprovado pela [Portaria n.º 23060](https://diariodarepublica.pt/dr/detalhe/portaria/23060-1967-400643), de 14 de Dezembro de 1967:
 
-###### Art. 6.º A direcção será constituída por um presidente, pelo director do Centro e por dois vogais designados pelo Ministro por períodos de dois anos, renováveis.
+Art. 6.º A direcção será constituída por um presidente, pelo director do Centro e por dois vogais designados pelo Ministro por períodos de dois anos, renováveis.
 
 § 1.º O presidente será o director-geral de Economia ou o director-geral de Obras Públicas e Comunicações e nas suas faltas ou impedimentos é substituído pelo director do Centro.
 
 § 2.º Os vogais serão propostos pelo presidente da direcção e designados, respectivamente, entre funcionários da Direcção-Geral de Economia, da Direcção-Geral de Obras Públicas e Comunicações ou de qualquer outro serviço técnico do Ministério com assento no conselho orientador, não devendo, em regra, ter categoria inferior à de chefe de repartição.
 
-###### Art. 7.º O Centro disporá de um director, a quem compete executar todo o expediente e a gestão administrativa do mesmo e em quem o presidente da direcção poderá delegar parte das suas atribuições.
+Art. 7.º O Centro disporá de um director, a quem compete executar todo o expediente e a gestão administrativa do mesmo e em quem o presidente da direcção poderá delegar parte das suas atribuições.
 
 § único. O director do Centro será designado pelo Ministro, sob proposta do presidente da direcção, de entre funcionários da Direcção-Geral de Economia ou da Direcção-Geral de Obras Públicas e Comunicações, não devendo, em regra, ter categoria inferior à de chefe de repartição.
 
-###### Art. 8.º O conselho orientador será presidido pelo presidente da direcção e constituído pelos seguintes vogais designados pelo Ministro:
+Art. 8.º O conselho orientador será presidido pelo presidente da direcção e constituído pelos seguintes vogais designados pelo Ministro:
 
 a) Um representante do Conselho Superior de Fomento Ultramarino;
 
@@ -113,8 +117,8 @@ f) Um representante da Inspecção-Geral de Minas;
 
 g) Um representante do Gabinete do Plano do Zambeze.
 
-###### Art. 9.º O conselho administrativo será constituído pelo director do Centro, que presidirá, pelos dois vogais da direcção e pelo tesoureiro.
+Art. 9.º O conselho administrativo será constituído pelo director do Centro, que presidirá, pelos dois vogais da direcção e pelo tesoureiro.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

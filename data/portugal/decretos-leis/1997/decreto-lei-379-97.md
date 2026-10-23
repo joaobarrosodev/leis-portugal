@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/298a00/68046811.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/379/1997/12/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1997-421028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-17T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fff98d2119cf85ac807c62c374eca62a3fdb8404ad63f4b3f0ae06a032334bbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60ae9f943fba527921d0ab7400150ea15d99841143de8203ca4c2cbac0b849bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Criança
 - Contra-ordenação
+- Criança
 - Equipamento Social
+- Estabelecimento de Ensino
 - Fiscalização
 - Normas de Segurança
 - Parque de Diversões
-- Estabelecimento de Ensino
 - Regulamento
 - Segurança das Instalações
 - Seguro Obrigatório de Responsabilidade Civil
@@ -81,20 +81,45 @@ relationships:
   target: pt:dre:70300350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608886:por
+  label: "Alterados os arts. 3º, 7º, 9º, 13º, 16º, 19º, 23º, 25º, 31º, 32º, 33º, 34º, 35º e 38º, aditados os arts. 23º-A,\
+    \ 23º-B, 23º-C, 23.º-D e 25º-A e republicado o Regulamento anexo ao presente diploma, pelo DEC LEI.119/2009.19.05.2009.MEI,\
+    \ DR.IS [96] de 19.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2009-608886
+  date: '2009-05-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70300350:por
+  label: Revogado a partir de 15.01.2016, na redação do Dec Lei 119/2009, de 19-mai pelo(a) Decreto-Lei n.º 203/2015 - Diário
+    da República n.º 182/2015, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-2015-70300350
+  date: '2015-09-17'
 article_structure:
   article_count: 44
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:57Z'
   warnings: []
   errors: []
 ---
@@ -127,15 +152,15 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Guilherme d'Oliveira Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Paulo Jorge Sacadura Almeida Coelho.
 
-**Promulgado em 2 de Dezembro de 1997.**
+Promulgado em 2 de Dezembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Dezembro de 1997.**
+Referendado em 9 de Dezembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO
 
@@ -425,7 +450,9 @@ A entidade responsável pelo espaço de jogo e recreio deve assegurar uma manute
 
 2 - Sempre que a superfície de impacte seja constituída por areia, aparas de madeira ou outro material semelhante, deve proceder-se à sua renovação completa pelo menos uma vez por ano.
 
-###### Artigo 30.º — Livro de manutenção
+###### Artigo 30.º
+
+## Livro de manutenção
 
 A entidade responsável pelo espaço de jogo e recreio deve possuir um livro de manutenção que contenha os seguintes elementos:
 

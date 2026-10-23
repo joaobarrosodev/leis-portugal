@@ -46,40 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/144-1981-389986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T06:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 567282a6595b8954ae885b1a86378f9fc8e5388090833e586529c34af33641c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4830ae97bb94544102831b18ee2a1a7a9deac2361a60d576a9481c9b3b6f157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Saúde
+- Quadro de Pessoal
+- Santarém
 relationships:
 - type: amended_by
   target: pt:dre:396496:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:318330:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.1327/82.31.12.1982.MFP, DR.IS [301] de 31.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1327-1982-318330
+  date: '1982-12-31'
+- type: amended_by
+  target: pt:dre:309712:por
+  label: "Alterado o quadro de pessoal pela PORT.182/83.1983.03.02.MFP DR.IS [50]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-1983-309712
+  date: '1983-03-02'
+- type: amended_by
+  target: pt:dre:451860:por
+  label: "Acrescidos quatro lugares de capelão ao quadro de pessoal aprovado pelo presente diploma, pela PORT.662/83.08.06.1983.MFP,\
+    \ DR.IS [131] de 08.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/662-1983-451860
+  date: '1983-06-08'
+- type: amended_by
+  target: pt:dre:435452:por
+  label: "Alterado, na parte referente ao pessoal técnico superior, o quadro de pessoal aprovado pelo presente diploma, pela\
+    \ PORT.807-F3/83.30.07.1983.MFP, DR.IS [174-6.º Supl] de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/807-f3-1983-435452
+  date: '1983-07-30'
+- type: amended_by
+  target: pt:dre:396496:por
+  label: "Alterado, na parte referente ao pessoal técnico auxiliar sanitário, o quadro de pessoal aprovado pelo presente diploma\
+    \ , pela PORT.976/84.26.12.1984.MS, DR.IS [297] de 26.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-1984-396496
+  date: '1984-12-26'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394913:por
+  label: Rectificada pela DECL.DD6504.15.04.1981.PCM, DR.IS [97] de 28.04.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-394913
+  date: '1981-04-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:38:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +155,7 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Quadro de pessoal do Centro de Saúde Distrital de Santarém
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02400/02610262.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02400/02610262.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02400/02610262.pdf)
 
 Notas
 

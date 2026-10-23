@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13900/0461504634.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/263/2007/07/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2007-636062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:58:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77214a92c8fe1e9a1ce355515e7d4833fe060d57ad5775106de744f06adf34bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d88d20faf77142187b43f39136df3bb91d0a8015cb58c7d719c599510d1720d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects:
 - Agência de Turismo
 - Alvará
-- Turismo
-- Multa
+- Comércio
 - Contra-ordenação
 - Direito de Estabelecimento
 - Licenciamento
+- Multa
 - Proteção do Consumidor
 - Sanção Económica
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
@@ -115,16 +115,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/784/1993/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/784/1993/09/06/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286770:por
+  label: "Revogado, a partir de 05.06.2011, o Dec Lei n.º 209/97, de 13-Ago, na redacção do presente diploma, pelo DEC LEI.61/2011.06.05.2011.MEID,\
+    \ DR.IS [88] de 06.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2011-286770
+  date: '2011-05-06'
 article_structure:
-  article_count: 117
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 77
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:58:57Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +227,9 @@ i) ...
 
 j) O exercício de actividades de animação turística, nos termos previstos no artigo 53.º-A.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +247,9 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +263,9 @@ c) ...
 
 6 - A utilização de marcas pelas agências de viagens e turismo carece de prévia comunicação ao Turismo de Portugal, I. P.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O exercício da actividade de agências de viagens e turismo depende de licença, constante de alvará, a conceder pelo Turismo de Portugal, I. P.
 
@@ -237,7 +281,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -259,7 +305,9 @@ e) Declaração em como o titular do estabelecimento em nome individual de respo
 
 5 - Quando os elementos a que se referem as alíneas a) e c) do n.º 2 se encontrem disponíveis na Internet, a respectiva apresentação pode ser substituída por uma declaração do interessado a indicar o endereço do sítio onde aqueles documentos podem ser consultados e a autorizar, se for caso disso, essa consulta.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -267,7 +315,9 @@ e) Declaração em como o titular do estabelecimento em nome individual de respo
 
 3 - Para os efeitos do disposto no número anterior, o pedido deve ser instruído com um certificado emitido pela entidade competente do país onde se encontra situada a sede da sociedade, comprovando que esta se encontra habilitada ao exercício da actividade de agência de viagens e turismo, bem como os elementos referidos nas alíneas c) a e) do n.º 2 do artigo 6.º, e código de acesso à certidão permanente ou, em alternativa, certidão do registo comercial actualizada e em vigor, ou respectiva cópia simples, comprovando a constituição da representação permanente em Portugal.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +333,9 @@ e) Se a agência não entregar no Turismo de Portugal, I. P., o comprovativo de 
 
 2 - A revogação da licença será determinada por despacho do presidente do Turismo de Portugal, I. P., e acarreta a cassação do alvará da agência.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O Turismo de Portugal, I. P., deve organizar e manter actualizado um registo das agências licenciadas, o qual será disponibilizado e acessível ao público no sítio da Internet deste instituto público.
 
@@ -305,7 +357,9 @@ f) ...
 
 4 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - As agências de viagens e turismo devem dispor, no mínimo, de um estabelecimento para atendimento dos clientes.
 
@@ -313,7 +367,9 @@ f) ...
 
 3 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A abertura ou mudança de localização dos estabelecimentos ou de quaisquer formas de representação só pode ser efectuada após comunicação ao Turismo de Portugal, I. P.
 
@@ -323,7 +379,9 @@ f) ...
 
 4 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ....
 
@@ -337,11 +395,15 @@ f) ...
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Aos representantes das agências, quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas, aos cais de embarque e aos recintos destinados aos passageiros nos aeroportos ou gares desde que tal acesso seja possível em função dos regulamentos de segurança adoptados pelas respectivas entidades gestoras.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Em todos os estabelecimentos das agências de viagens e turismo deve existir um livro de reclamações, aplicando-se à sua utilização, edição e venda o regime previsto no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro.
 
@@ -353,7 +415,9 @@ Aos representantes das agências, quando devidamente identificados e em serviço
 
 5 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -371,7 +435,9 @@ c) Serviços turísticos não subsidiários do transporte e do alojamento.
 
 5 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Antes da venda de uma viagem turística, a agência deve informar, por escrito ou por qualquer outra forma adequada, os clientes que se desloquem ao estrangeiro sobre a necessidade de documento de identificação civil, passaportes e vistos, prazos legais para a respectiva obtenção e formalidades sanitárias e, caso a viagem se realize no território de Estados membros da União Europeia, a documentação exigida para a obtenção de assistência médica ou hospitalar em caso de acidente ou doença.
 
@@ -381,13 +447,17 @@ c) Serviços turísticos não subsidiários do transporte e do alojamento.
 
 4 - Qualquer descrição de uma viagem bem como o respectivo preço e as restantes condições do contrato não devem conter elementos enganadores nem induzir o consumidor em erro.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
 2 - Aquando da venda de qualquer serviço, as agências devem entregar aos clientes documentação que mencione o objecto e características do serviço, data da prestação, preço e pagamentos já efectuados, excepto quando tais elementos figurem nos documentos referidos no número anterior e não tenham sofrido alteração.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -397,7 +467,9 @@ a) A exigência de documento de identificação civil, passaportes, vistos e for
 
 b) ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 A agência fica vinculada ao cumprimento pontual do programa, salvo se:
 
@@ -405,7 +477,9 @@ a) Estando prevista no próprio programa a possibilidade de alteração das cond
 
 b) Existir acordo das partes em contrário, cabendo o ónus da prova à agência de viagens.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os contratos de venda de viagens organizadas deverão conter, de forma clara, precisa e com caracteres legíveis, as seguintes menções:
 
@@ -443,7 +517,9 @@ n) ...
 
 5 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 a) ...
 
@@ -461,7 +537,9 @@ g) ...
 
 h) A ocorrência de catástrofes naturais, epidemias, revoluções e situações análogas que se verifiquem no local de destino da viagem e de que a agência tenha conhecimento ou que lhe tenham sido comunicadas.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O cliente pode ceder a sua posição, fazendo-se substituir por outra pessoa que preencha todas as condições requeridas para a viagem organizada, desde que informe a agência, por forma escrita, até sete dias antes da data prevista para a partida, e que tal cessão seja possível nos termos dos regulamentos de transportes aplicáveis à situação.
 
@@ -473,11 +551,15 @@ h) A ocorrência de catástrofes naturais, epidemias, revoluções e situações
 
 5 - Caso não seja possível a cessão da posição contratual prevista no n.º 1 por força dos regulamentos de transportes aplicáveis, deve tal informação ser prestada, por escrito, ao cliente, no momento da reserva.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Nas visitas a centros históricos, museus, monumentos nacionais ou sítios classificados, incluídas em viagens turísticas, à excepção das viagens previstas no n.º 3 do artigo 17.º, os turistas devem ser acompanhados por guias-intérpretes.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -485,7 +567,9 @@ Nas visitas a centros históricos, museus, monumentos nacionais ou sítios class
 
 3 - O cliente deve comunicar à agência a sua decisão no prazo de quatro dias úteis após a recepção da notificação prevista no n.º 1.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +583,9 @@ Nas visitas a centros históricos, museus, monumentos nacionais ou sítios class
 
 6 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A responsabilidade da agência terá como limite o montante máximo exigível às entidades prestadoras dos serviços, nos termos da Convenção de Montreal, de 28 de Maio de 1999, sobre Transporte Aéreo Internacional, e da Convenção de Berna, de 1961, sobre Transporte Ferroviário.
 
@@ -527,7 +613,9 @@ c) ...
 
 5 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -543,7 +631,9 @@ d) ...
 
 e) A assistência médica e medicamentos necessários em caso de acidente ou doença, ocorridos durante a viagem, incluindo aqueles que se revelem necessários após a conclusão da viagem.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - O montante garantido através da caução é de 5 % do valor das vendas de viagens organizadas efectuadas pela agência no ano anterior, devendo o respectivo quantitativo ser comunicado ao Turismo de Portugal, I. P., pelo representante legal da empresa, com base em declaração emitida por técnico oficial de contas.
 
@@ -557,13 +647,17 @@ e) A assistência médica e medicamentos necessários em caso de acidente ou doe
 
 6 - Quando os elementos a que se referem os números anteriores se encontrem disponíveis na Internet, a respectiva apresentação pode ser substituída por uma declaração do interessado a indicar o endereço do sítio onde aqueles documentos podem ser consultados e a autorizar, se for caso disso, essa consulta.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - As agências de viagens estão obrigadas a promover anualmente a actualização da caução prestada, nos termos e condições referidas no artigo anterior, e a comunicar ao Turismo de Portugal, I. P., o montante actualizado de cobertura.
 
 2 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Os clientes interessados em accionar a caução devem requerer ao Turismo de Portugal, I. P., que demande a entidade garante, apresentando:
 
@@ -577,11 +671,15 @@ c) Requerimento solicitando intervenção da comissão arbitral, nos termos do a
 
 3 - O requerimento referido na alínea c) do n.º 1 é apresentado no prazo de 20 dias úteis após o termo da viagem ou no prazo previsto no contrato, se superior.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 Caso haja lugar a pagamento por parte da agência de viagens e turismo, o Turismo de Portugal, I. P., notifica a agência de viagens e a entidade garante para pagarem, no prazo de 20 dias úteis, a quantia fixada.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -591,7 +689,9 @@ Caso haja lugar a pagamento por parte da agência de viagens e turismo, o Turism
 
 4 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Podem organizar viagens as associações, misericórdias, instituições privadas de solidariedade social, institutos públicos, cooperativas e entidades análogas, estando dispensados do licenciamento como agências de viagens e turismo desde que se verifiquem cumulativamente os seguintes requisitos:
 
@@ -609,7 +709,9 @@ d) Que não utilizem meios publicitários para a sua promoção dirigidos ao pú
 
 4 - A entidade referida no número anterior deve prestar uma caução, nos termos do artigo 41.º e seguintes, cujo montante mínimo é reduzido a (euro) 5000, e deve celebrar um seguro de responsabilidade civil, nos termos previstos para as agências de viagens e turismo.
 
-###### Artigo 55.º — Competências de fiscalização e instrução de processos
+Artigo 55.º
+
+Competências de fiscalização e instrução de processos
 
 1 - Compete à Autoridade de Segurança Alimentar e Económica:
 
@@ -623,13 +725,17 @@ c) Instruir os processos por infracções ao estabelecido neste diploma.
 
 3 - ...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - Todas as autoridades e seus agentes devem participar à Autoridade de Segurança Alimentar e Económica quaisquer infracções ao presente diploma e respectivas disposições regulamentares.
 
 2 - Quando se tratar de infracção ao disposto no n.º 6 do artigo 14.º, a participação será feita à Direcção-Geral de Transportes Terrestres.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Constituem contra-ordenações os seguintes comportamentos:
 
@@ -683,7 +789,9 @@ s) O incumprimento do estipulado nos n.os 1 e 5 do artigo 53.º-A.
 
 8 - A infracção prevista na alínea f) do n.º 1 é punida nos termos previstos na lei geral relativa ao livro de reclamações.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -691,7 +799,9 @@ s) O incumprimento do estipulado nos n.os 1 e 5 do artigo 53.º-A.
 
 3 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - É da competência da Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das coimas previstas no presente diploma, à excepção das resultantes da violação do n.º 6 do artigo 14.º, cuja competência é do director-geral de Transportes Terrestres.
 
@@ -701,11 +811,15 @@ s) O incumprimento do estipulado nos n.os 1 e 5 do artigo 53.º-A.
 
 4 - A aplicação das coimas é comunicada ao Turismo de Portugal, I. P., para efeitos de averbamento ao registo.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60 % para os cofres do Estado, em 30 % para a Autoridade de Segurança Alimentar e Económica e em 10 % para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade, excepto o que resultar das coimas previstas por infracção ao disposto no n.º 6 do artigo 14.º, que reverterá em 60 % para os cofres do Estado, em 20 % para a Direcção-Geral de Transportes Terrestres e em 20 % para a entidade fiscalizadora.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - Os montantes das taxas devidas pela concessão de licenças e de autorizações constituem receitas do Turismo de Portugal, I. P., e são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo, a aprovar no prazo de 90 dias.
 
@@ -715,7 +829,9 @@ O produto das coimas recebidas por infracção ao disposto no presente diploma r
 
 4 - As empresas de animação turística que pretendam constituir-se como agências de viagens e turismo e reúnam os requisitos previstos neste diploma para o efeito pagam o diferencial da taxa de licenciamento entre a respectiva licença e o valor da taxa prevista para as agências de viagens e turismo.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Nos casos de deferimento, expresso ou tácito, de pedidos de licenciamento previstos no artigo 6.º, perante recusa injustificada ou falta de emissão do alvará respectivo no prazo devido, pode o interessado requerer ao tribunal administrativo competente a intimação da autoridade competente para proceder à referida emissão.
 
@@ -759,7 +875,9 @@ c) Cópia simples dos contratos de prestação de garantias e comprovativo do pa
 
 5 - A alteração do documento complementar emitido pelo Turismo de Portugal, I. P., com vista à autorização do exercício de novas actividades de animação turística é efectuada por averbamento, aplicando-se o disposto nos números anteriores.
 
-###### Artigo 64.º-A — Meios de comunicação
+Artigo 64.º-A
+
+Meios de comunicação
 
 As comunicações e requerimentos previstos no presente diploma são efectuados por via informática, nos termos a definir por portaria do membro do Governo com tutela na área do turismo.»
 
@@ -789,15 +907,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de Abril de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Maria Isabel da Silva Pires de Lima.
 
-**Promulgado em 5 de Julho de 2007.**
+Promulgado em 5 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 10 de Julho de 2007.**
+Referendado em 10 de Julho de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do [Decreto-Lei n.º 209/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1997-202780), de 13 de Agosto
 
@@ -1039,7 +1157,9 @@ A transmissão da propriedade e a cessão de exploração dos estabelecimentos d
 
 Aos representantes das agências, quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas, aos cais de embarque e aos recintos destinados aos passageiros nos aeroportos ou gares, desde que tal acesso seja possível em função dos regulamentos de segurança adoptados pelas respectivas entidades gestoras.
 
-###### Artigo 16.º — Livro de reclamações
+###### Artigo 16.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos das agências de viagens e turismo deve existir um livro de reclamações, aplicando-se à sua utilização, edição e venda, o regime previsto no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro.
 

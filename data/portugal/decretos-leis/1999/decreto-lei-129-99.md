@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/093a00/21102111.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/129/1999/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1999-534596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:06:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dbf727aff31db89005c397a036e827e308c548a1f139dcfb7dfce4594dc2809
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 113a8e6b92c481b917ec670dd0213542e92fd917e7cef55e92679265219e9ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
+- IAPMEI
 - Orgânica
 - Presidente
-- IAPMEI
 - Substituição de Funções
 - Vice-presidente
 - Vogal
@@ -78,16 +78,31 @@ relationships:
   target: pt:dre:520986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:361880:por
+  label: "Alterdos os arts. 4º, 5º e 7º do Dec Lei 387/88 de 25-Out, com a redacção deste diploma, pelo DEC LEI.35-A/2003.2003.02.27.MECO\
+    \ DR.IS-A [49]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-a-2003-361880
+  date: '2003-02-27'
+- type: cites
+  target: pt:dre:354114:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520986:por
+  label: "Revogado, a partir de 01.05.2007, pelo DEC LEI.140/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2007-520986
+  date: '2007-04-27'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:06:04Z'
   warnings: []
   errors: []
 ---
@@ -114,7 +129,7 @@ Os artigos 7.º e 10.º do [Decreto-Lei n.º 387/88](https://diariodarepublica.p
 
 O conselho de administração do IAPMEI é constituído por um presidente, por um vice-presidente e cinco vogais, nomeados e exonerados pelo Conselho de Ministros, sob proposta do Ministro da Economia.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - ...
 
@@ -130,12 +145,12 @@ b) ...
 
 Visto e aprovado em Conselho de Ministros de 4 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 7 de Abril de 1999.**
+Promulgado em 7 de Abril de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Abril de 1999.**
+Referendado em 9 de Abril de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

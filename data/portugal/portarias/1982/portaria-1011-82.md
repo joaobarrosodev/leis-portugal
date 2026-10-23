@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1011-1982-378172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T07:00:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb4f47a6b0bdb58691fdb247ea4ec84232809bab5df7b0eb56acdf77d9ee5f4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdd19b3b0217c5f0e70e89c7f30911670d032095f5a85c0648d2d4a97a65b3e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:00:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Direcção Geral do Ensino Particular e Cooperativo
+- Equivalência de Habilitações Literárias
+- Plano de Estudos
+- Sistema Educativo
+relationships:
+- type: cites
+  target: pt:dre:328636:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:00:08Z'
   warnings: []
   errors: []
 ---
@@ -115,13 +124,13 @@ No caso da língua portuguesa, são os programas oficiais portugueses neste mome
 
 Ministério da Educação, 8 de Outubro de 1982. - O Ministro da Educação, João José Fraústo da Silva.
 
-## Anexo 1 à Portaria n.º 1011/82, de 29 de Outubro
+Anexo 1 à Portaria n.º 1011/82, de 29 de Outubro
 
 Tabela de equivalência integral entre as classes de 10ème e de 3ème do Lycée Français Charles Lepierre e o sistema de ensino português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
 
-## Anexo 2 à Portaria n.º 1011/82, de 29 de Outubro
+Anexo 2 à Portaria n.º 1011/82, de 29 de Outubro
 
 Integração de matérias portuguesas no currículo do Lycée Français Charles Lepierre
 
@@ -129,11 +138,11 @@ Integração de matérias portuguesas no currículo do Lycée Français Charles 
 
 1.1 - A crianças nacionalidade portuguesa e a crianças estrangeiras que já falam português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
 
 1.2 - A crianças sem quaisquer conhecimentos de português:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
 
 2 - Ensino do Português e de Estudos Sociais/História de Portugal nas classes de 6ème e 5ème (1.º e 2.º anos de ensino preparatório):
 
@@ -153,7 +162,7 @@ Achou-se ainda vantajoso fazer acompanhar este esquema programático da listagem
 
 O presente esquema programático não dispensa a leitura atenta dos programas em vigor (aprovados por despachos de 2 de Julho de 1980 e de 10 de Julho de 1980 do Secretário de Estado da Educação), sobretudo no que diz respeito à tradução das aprendizagens em comportamentos, para uma mais clara compreensão dos objectivos desta disciplina no ensino oficial português.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
 
 3 - Ensino do Português e da História e Geografia de Portugal nas classes de 4ème e 3ème (7.º, 8.º e 9.º anos de escolaridade):
 
@@ -177,7 +186,7 @@ Assim, de acordo com os programas em vigor, deverá fazer-se referência à situ
 
 3.3 - Integração no programa francês de rubricas relativas à história e geografia de Portugal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf))](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/25100/35923598.pdf)
 
 3.4 - Bibliografia:
 

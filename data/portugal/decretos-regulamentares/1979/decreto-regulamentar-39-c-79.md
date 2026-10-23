@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 175/1979, 4º Suplemento, Série I de 1979-07-31
   number: '175'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 1762-(34) a 1762-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/17504/00340049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-c-1979-402718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T06:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b050ff833ff2fb2291edb76e21a62e001bb8bcf2040db7795dad0add6963376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43ddcdbbda2ea1aed172fa32f7f34d36b22cdc8700ebdc76c69a1a3adae819ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Definição de Competências
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Equipa de Projecto
+- Gestão do Património
+- Gestão Financeira
+- Ministério da Agricultura e Pescas
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Substituição de Funções
 relationships:
 - type: amended_by
   target: pt:dre:221084:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:458220:por
+  label: "Alterados os arts. 12º, 16º, 17º, 18º, 19º, 20º, 36º, 40º, 41º, 43º e 50º, pelo DR.73/80.1980.11.18.PCM, DR.IS [267]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/73-1980-458220
+  date: '1980-11-18'
+- type: cites
+  target: pt:dre:252872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:221084:por
+  label: "Revogado pelo DEC LEI.375/86.06.11.1986.MAPA, DR.IS [256] de 06.11.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-1986-221084
+  date: '1986-11-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:00:12Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +135,9 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção-Geral de Hidráulica e Engenharia Agrícola, do Ministério da Agricultura e Pescas, abreviadamente designada por DGHEA, criada pelo artigo 42.º e alínea e) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo dotado de autonomia administrativa e financeira que exerce a sua acção no âmbito dos projectos hidroagrícolas, solos e agro-ecologia, mecanização e infra-estruturas rurais.
+Artigo 1.º A Direcção-Geral de Hidráulica e Engenharia Agrícola, do Ministério da Agricultura e Pescas, abreviadamente designada por DGHEA, criada pelo artigo 42.º e alínea e) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio, é um organismo dotado de autonomia administrativa e financeira que exerce a sua acção no âmbito dos projectos hidroagrícolas, solos e agro-ecologia, mecanização e infra-estruturas rurais.
 
-###### Art. 2.º - 1 - As atribuições da Direcção-Geral de Hidráulica e Engenharia Agrícola são as constantes do artigo 27.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 2.º - 1 - As atribuições da Direcção-Geral de Hidráulica e Engenharia Agrícola são as constantes do artigo 27.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
 2 - A DGHEA é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais.
 
@@ -102,13 +145,13 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e
 
 #### SECÇÃO I — Dos Órgãos
 
-###### Art. 3.º São órgãos da DGHEA:
+Art. 3.º São órgãos da DGHEA:
 
 a) O conselho técnico;
 
 b) O conselho administrativo.
 
-###### Art. 4.º - 1 - O conselho técnico é constituído pelos seguintes membros:
+Art. 4.º - 1 - O conselho técnico é constituído pelos seguintes membros:
 
 a) O director-geral da DGHEA, que presidirá;
 
@@ -130,7 +173,7 @@ f) Os directores de serviço da DGHEA.
 
 5 - As entidades estranhas ao Ministério da Agricultura e Pescas convidadas de conformidade com o número anterior terão direito a uma senha de presença por cada reunião que assistam bem como ao abono das despesas de transportes, nos termos legais.
 
-###### Art. 5.º - 1 - Ao conselho técnico compete emitir parecer sobre:
+Art. 5.º - 1 - Ao conselho técnico compete emitir parecer sobre:
 
 a) Os projectos de diploma que interfiram com a actividade da DGHEA;
 
@@ -156,11 +199,11 @@ b) Elaborar as actas das reuniões e desenvolver as acções delas resultantes;
 
 c) Assegurar o arquivo e o expediente do conselho.
 
-###### Art. 6.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
+Art. 6.º - 1 - O conselho técnico funciona em reuniões plenárias ou restritas, sob prévia decisão do presidente, reunindo o plenário ordinariamente, pelo menos, duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
 
 2 - Os assuntos submetidos à apreciação do conselho técnico são resolvidos por maioria simples dos membros presentes, tendo o presidente voto de qualidade.
 
-###### Art. 7.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
+Art. 7.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e é constituído pelos seguintes membros:
 
 a) O director-geral, que presidirá;
 
@@ -178,7 +221,7 @@ e) O director de Serviços de Projectos e Obras.
 
 4 - O representante do Tribunal de Contas terá direito a uma gratificação mensal a fixar por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do Secretário de Estado da Administração Pública.
 
-###### Art. 8.º - 1 - Ao conselho administrativo compete:
+Art. 8.º - 1 - Ao conselho administrativo compete:
 
 a) Organizar os orçamentos ordinários e suplementares da DGHEA;
 
@@ -216,7 +259,7 @@ d) Convocar e dirigir as reuniões do conselho.
 
 #### SECÇÃO II — Dos serviços
 
-###### Art. 9.º A Direcção-Geral de Hidráulica e Engenharia Agrícola dispõe dos seguintes serviços:
+Art. 9.º A Direcção-Geral de Hidráulica e Engenharia Agrícola dispõe dos seguintes serviços:
 
 A) Serviços operativos:
 
@@ -248,17 +291,17 @@ g) Centro de Documentação e Informação.
 
 ##### SUBSECÇÃO I — Dos serviços operativos
 
-###### Art. 10.º - 1 - A Direcção de Serviços de Projectos e Obras tem como atribuições a gestão dos projectos das áreas de actuação da DGHEA.
+Art. 10.º - 1 - A Direcção de Serviços de Projectos e Obras tem como atribuições a gestão dos projectos das áreas de actuação da DGHEA.
 
 2 - A Direcção de Serviços de Projectos e Obras assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 11.º A Direcção de Serviços de Projectos e Obras é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 11.º A Direcção de Serviços de Projectos e Obras é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Gestão de Projectos;
 
 b) Obras.
 
-###### Art. 12.º À Divisão de Gestão de Projectos compete:
+Art. 12.º À Divisão de Gestão de Projectos compete:
 
 a) Coordenar a gestão das equipas de projecto nos campos de acção da DGHEA;
 
@@ -278,7 +321,7 @@ h) Promover, em ligação com a Direcção de Serviços de Administração e com
 
 i) Propor a adjudicação dos estudos necessários à prossecução dos projectos.
 
-###### Art. 13.º À Divisão de Obras compete:
+Art. 13.º À Divisão de Obras compete:
 
 a) Promover a organização dos programas de concurso das obras a cargo da DGHEA e dos serviços regionais de agricultura, a pedido destes;
 
@@ -294,11 +337,11 @@ f) Acompanhar as obras a realizar pela DGHEA e outras cujas condições de execu
 
 g) Assistir os serviços regionais de agricultura nos concursos e acompanhamento das obras a seu cargo:
 
-###### Art. 14.º - 1 - A Direcção de Serviços de Hidráulica Agrícola tem como atribuições a apreciação e a realização dos estudos e projectos de rega, de drenagem, de defesa, de beneficiação e conservação do solo e da água e assegurar a exploração da rede hidrometeorológica a cargo do Ministério da Agricultura e Pescas.
+Art. 14.º - 1 - A Direcção de Serviços de Hidráulica Agrícola tem como atribuições a apreciação e a realização dos estudos e projectos de rega, de drenagem, de defesa, de beneficiação e conservação do solo e da água e assegurar a exploração da rede hidrometeorológica a cargo do Ministério da Agricultura e Pescas.
 
 2 - A Direcção de Serviços de Hidráulica Agrícola assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 15.º A Direcção de Serviços de Hidráulica Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 15.º A Direcção de Serviços de Hidráulica Agrícola é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Rega e Drenagem;
 
@@ -310,7 +353,7 @@ d) Geotecnia e Geoidrologia;
 
 e) Estruturas Hidráulicas.
 
-###### Art. 16.º À Divisão de Rega e Drenagem compete:
+Art. 16.º À Divisão de Rega e Drenagem compete:
 
 a) Definir as condições técnicas e económicas a que devem satisfazer as estruturas e outras benfeitorias hidroagrícolas em obediência às características locais e às necessidades das explorações agrícolas a beneficiar;
 
@@ -336,7 +379,7 @@ l) Apoiar os serviços regionais de agricultura nos projectos de rega, de adapta
 
 m) Dar parecer sobre os pedidos de licenciamento e de financiamento das obras hidroagrícolas, nos termos do artigo 6.º do [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março.
 
-###### Art. 17.º À Divisão de Conservação do Solo e da Água compete:
+Art. 17.º À Divisão de Conservação do Solo e da Água compete:
 
 a) Projectar as obras de sistematização do terreno, em complemento da adopção de técnicas culturais e de ordenamento agrícola adequados à valorização das potencialidades do solo e dos recursos naturais;
 
@@ -358,7 +401,7 @@ i) Apoiar, em ligação com os serviços regionais de agricultura, a instalaçã
 
 j) Apreciar os pedidos de licenciamento e de financiamento de obras de conservação do solo e da água, a solicitação dos serviços e entidades interessados.
 
-###### Art. 18.º À Divisão de Meteorologia e Hidrologia Agrária compete:
+Art. 18.º À Divisão de Meteorologia e Hidrologia Agrária compete:
 
 a) Promover, com os restantes organismos do Ministério da Agricultura e Pescas, a planificação, montagem e revisão da rede de observações hidrometeorológicas e agroclimatológicas, assegurando a respectiva coordenação;
 
@@ -384,7 +427,7 @@ l) Apoiar os serviços regionais de agricultura e outros organismos do Ministér
 
 m) Promover a divulgação de métodos, técnicas e resultados hidrológicos.
 
-###### Art. 19.º À Divisão de Geotecnia e Geoidrologia compete:
+Art. 19.º À Divisão de Geotecnia e Geoidrologia compete:
 
 a) Realizar estudos geotécnicos necessários à implantação e construção de estruturas e obras hidráulicas;
 
@@ -402,7 +445,7 @@ g) Colaborar com outros organismos na protecção e recarga de lençóis subterr
 
 h) Apoiar os serviços regionais de agricultura no domínio da prospecção, captação e exploração de águas subterrâneas.
 
-###### Art. 20.º À Divisão de Estruturas Hidráulicas compete:
+Art. 20.º À Divisão de Estruturas Hidráulicas compete:
 
 a) Apoiar os diversos departamentos da DGHEA no domínio da concepção e dimensionamento das estruturas hidráulicas a utilizar nas redes de rega, enxugo e drenagem;
 
@@ -416,11 +459,11 @@ e) Apoiar a execução de obras projectadas pela DGHEA ou, eventualmente, por ou
 
 f) Dar parecer sobre pedidos de licenciamento de estruturas hidráulicas para fins agrícolas, nos termos do artigo 6.º do [Decreto-Lei n.º 108/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1974-412426), de 15 de Março.
 
-###### Art. 21.º - 1 - A Direcção de Serviços de Solos e Agro-Ecologia tem como atribuições os trabalhos conducentes ao melhor aproveitamento do meio agro-ecológico e à defesa do solo.
+Art. 21.º - 1 - A Direcção de Serviços de Solos e Agro-Ecologia tem como atribuições os trabalhos conducentes ao melhor aproveitamento do meio agro-ecológico e à defesa do solo.
 
 2 - A Direcção de Serviços de Solos e Agro-Ecologia assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 22.º A Direcção de Serviços de Solos e Agro-Ecologia é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 22.º A Direcção de Serviços de Solos e Agro-Ecologia é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Génese, Classificação e Cartografia dos Solos;
 
@@ -430,7 +473,7 @@ c) Agro-Ecologia e Reconhecimento do Uso do Solo;
 
 d) Caracterização Analítica de Solos.
 
-###### Art. 23.º À Divisão de Génese, Classificação e Cartografia dos Solos compete:
+Art. 23.º À Divisão de Génese, Classificação e Cartografia dos Solos compete:
 
 a) Reconhecer os solos nos seus aspectos morfológicos, físicos, químicos e genéticos e elaborar a Carta dos Solos de Portugal;
 
@@ -440,7 +483,7 @@ c) Elaborar, de colaboração com as outras divisões intervenientes, as memóri
 
 d) Promover trabalhos e estudos de índole pedológica, de harmonia com a metodologia científica e técnica que vier a ser acordada com o Instituto Nacional de Investigação Agrária, com vista a uma uniforme classificação e cartografia dos solos.
 
-###### Art. 24.º À Divisão de Defesa e Melhoramento do Solo compete:
+Art. 24.º À Divisão de Defesa e Melhoramento do Solo compete:
 
 a) Promover e colaborar em acções tendentes à defesa do solo agrícola, propondo as medidas legislativas convenientes;
 
@@ -454,7 +497,7 @@ e) Efectuar a caracterização dos solos a submeter à beneficiação pelo regad
 
 f) Dar parecer sobre estudos de caracterização dos solos a submeter a projectos de beneficiação sob financiamento do Estado, a pedido dos organismos e entidades competentes.
 
-###### Art. 25.º À Divisão de Agro-Ecologia e Reconhecimento do Uso do Solo compete:
+Art. 25.º À Divisão de Agro-Ecologia e Reconhecimento do Uso do Solo compete:
 
 a) Caracterizar e delimitar cartograficamente zonas naturais e estações ecológicas, por integração de todas as informações com significado ecológico;
 
@@ -466,7 +509,7 @@ d) Colaborar em estudos e planos de ordenamento agrário;
 
 e) Colaborar nos estudos qualitativos das massas hídricas, com vista à sua defesa para a produção agrícola.
 
-###### Art. 26.º À Divisão de Caracterização Analítica de Solos compete:
+Art. 26.º À Divisão de Caracterização Analítica de Solos compete:
 
 a) Prestar o devido apoio laboratorial aos estudos de cartografia dos solos, por forma a possibilitar a sua caracterização analítica, classificação e compreensão dos processos pedogénicos que lhes estão ligados;
 
@@ -474,11 +517,11 @@ b) Proceder a determinações analíticas em amostras de solo e de água, solici
 
 c) Proceder a análises e ensaios laboratoriais necessários à caracterização geotécnica dos solos de fundações, de aterros e de outros maciços terrosos.
 
-###### Art. 27.º - 1 - A Direcção de Serviços de Mecanização tem como atribuições o ensaio e a experimentação do equipamento mecânico e a preparação e aplicação de legislação, normas e regulamentos no domínio da mecanização agrícola.
+Art. 27.º - 1 - A Direcção de Serviços de Mecanização tem como atribuições o ensaio e a experimentação do equipamento mecânico e a preparação e aplicação de legislação, normas e regulamentos no domínio da mecanização agrícola.
 
 2 - A Direcção de Serviços de Mecanização assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 28.º A Direcção de Serviços de Mecanização é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 28.º A Direcção de Serviços de Mecanização é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Ensaios e Experimentação;
 
@@ -486,7 +529,7 @@ b) Organização do Trabalho e Projectos de Mecanização;
 
 c) Normalização e Regulamentação.
 
-###### Art. 29.º À Divisão de Ensaios e Experimentação compete:
+Art. 29.º À Divisão de Ensaios e Experimentação compete:
 
 a) Determinar e verificar as características mecânicas e funcionais dos motores, tractores e máquinas agrícolas de fabricação nacional e estrangeira;
 
@@ -498,7 +541,7 @@ d) Colaborar na modificação de máquinas importadas e na construção de prot�
 
 e) Fornecer à indústria nacional elementos que conduzam à adopção de soluções de mecanização adequadas às características específicas do agro-português.
 
-###### Art. 30.º À Divisão de Organização do Trabalho e de Projectos de Mecanização compete:
+Art. 30.º À Divisão de Organização do Trabalho e de Projectos de Mecanização compete:
 
 a) Calcular tempos padrão e limiares de rendibilidade dos equipamentos mecânicos, em condições de emprego devidamente caracterizadas;
 
@@ -520,7 +563,7 @@ i) Definir e elaborar projectos-tipo de mecanização para diversas unidades de 
 
 j) Colaborar no estudo da localização de novos edifícios e da ampliação ou mudança de instalações agrícolas, no âmbito da mecanização.
 
-###### Art. 31.º À Divisão de Normalização e Regulamentação compete:
+Art. 31.º À Divisão de Normalização e Regulamentação compete:
 
 a) Colaborar com o serviço que representa em Portugal a Organização Internacional de Normalização na preparação de normas nacionais e internacionais de nomenclatura, de fabrico, de qualidade e de segurança operacional de máquinas agrícolas e de tractores;
 
@@ -548,11 +591,11 @@ m) Manter o registo actualizado de fabricantes, importadores e agentes de materi
 
 n) Coordenar, em ligação com a Divisão de Estatística e Cálculo, a recolha dos dados necessários ao recenseamento e à estatística de comércio interno e externo de tractores e máquinas agrícolas.
 
-###### Art. 32.º - 1 - A Direcção de Serviços de Construções de Infra-Estruturas Rurais tem como atribuições a promoção e o apoio ao estudo e execução dos modelos mais adequados ao equipamento da empresa agrícola no domínio das construções, dos caminhos agrícolas, da electrificação e do equipamento colectivo das sociedades rurais.
+Art. 32.º - 1 - A Direcção de Serviços de Construções de Infra-Estruturas Rurais tem como atribuições a promoção e o apoio ao estudo e execução dos modelos mais adequados ao equipamento da empresa agrícola no domínio das construções, dos caminhos agrícolas, da electrificação e do equipamento colectivo das sociedades rurais.
 
 2 - A Direcção de Serviços de Construções e Infra-Estruturas Rurais assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 33.º A Direcção de Serviços de Construções e Infra-Estruturas Rurais é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 33.º A Direcção de Serviços de Construções e Infra-Estruturas Rurais é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Instalações Agro-Pecuárias;
 
@@ -560,7 +603,7 @@ b) Equipamentos Colectivos e Caminhos Agrícolas;
 
 c) Electrificação Rural.
 
-###### Art. 34.º À Divisão de Instalações Agro-Pecuárias compete:
+Art. 34.º À Divisão de Instalações Agro-Pecuárias compete:
 
 a) Elaborar projectos de construções agrícolas e pecuárias para as diversas regiões, respondendo a programas correntes e tendo em conta as inovações técnicas e as constantes arquitectónicas regionais;
 
@@ -588,7 +631,7 @@ m) Apoiar os serviços regionais de agricultura nos projectos e na execução de
 
 n) Dar parecer, a solicitação das entidades ou serviços competentes, sobre projectos e obras a executar com o auxílio financeiro do Estado.
 
-###### Art. 35.º À Divisão de Equipamentos Colectivos e Caminhos Agrícolas compete:
+Art. 35.º À Divisão de Equipamentos Colectivos e Caminhos Agrícolas compete:
 
 a) Apoiar, em ligação com os serviços regionais de agricultura, a execução de infra-estruturas sociais comunitárias em meio agrícola;
 
@@ -608,7 +651,7 @@ h) Colaborar em estudos técnico-económicos relativos a métodos e equipamentos
 
 i) Dar parecer sobre projectos e obras de caminhos agrícolas a realizar com apoio financeiro do Estado, a solicitação das entidades ou serviços competentes.
 
-###### Art. 36.º À Divisão de Electrificação Rural compete:
+Art. 36.º À Divisão de Electrificação Rural compete:
 
 a) Promover o fomento da electrificação agrícola e rural;
 
@@ -642,11 +685,11 @@ p) Dar parecer sobre projectos e obras de electrificação rural a realizar com 
 
 ##### SUBSECÇÃO II — Dos serviços de apoio
 
-###### Art. 37.º - 1 - O Gabinete de Planeamento tem como atribuições a programação e o contrôle de execução das actividades da DGHEA, os trabalhos referentes ao ordenamento físico do território com vista à adequada afectação e valorização dos recursos naturais e a análise de projectos, bem como colaborar com os Gabinetes de Informação e Cooperação Internacional e de Planeamento do Ministério da Agricultura e Pescas nos contactos com as instituições internacionais ligadas ao financiamento e à cooperação técnica em projectos do âmbito da DGHEA.
+Art. 37.º - 1 - O Gabinete de Planeamento tem como atribuições a programação e o contrôle de execução das actividades da DGHEA, os trabalhos referentes ao ordenamento físico do território com vista à adequada afectação e valorização dos recursos naturais e a análise de projectos, bem como colaborar com os Gabinetes de Informação e Cooperação Internacional e de Planeamento do Ministério da Agricultura e Pescas nos contactos com as instituições internacionais ligadas ao financiamento e à cooperação técnica em projectos do âmbito da DGHEA.
 
 2 - O Gabinete de Planeamento assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 38.º - 1 - O Gabinete de Planeamento compreende as seguintes divisões:
+Art. 38.º - 1 - O Gabinete de Planeamento compreende as seguintes divisões:
 
 a) Programação e Contrôle;
 
@@ -656,7 +699,7 @@ c) Análises de Projectos.
 
 2 - O director do Gabinete de Planeamento tem categoria de director de serviços.
 
-###### Art. 39.ª À Divisão de Programação e Contrôle compete:
+Art. 39.ª À Divisão de Programação e Contrôle compete:
 
 a) Preparar e coordenar os programas e projectos a longo e médio prazos e anuais e colaborar na programação financeira da DGHEA;
 
@@ -674,7 +717,7 @@ g) Acompanhar e controlar a realização material e financeira dos programas e p
 
 h) Assegurar um sistema de contrôle de custos, em ligação com a Repartição de Administração Financeira, e efectuar a correspondente análise financeira.
 
-###### Art. 40.º À Divisão de Ordenamento Físico compete:
+Art. 40.º À Divisão de Ordenamento Físico compete:
 
 a) Promover, nomeadamente em colaboração com a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, o levantamento sistemático dos recursos hídricos susceptíveis de utilização em agricultura;
 
@@ -698,7 +741,7 @@ j) Participar em estudos de ordenamento físico necessários a planos de urbaniz
 
 l) Colaborar com os organismos competentes no que respeita à influência de indústrias poluentes do ambiente rural, designadamente as indústrias agrícolas, e à protecção das águas dos produtos químicos e orgânicos empregues na agricultura.
 
-###### Art. 41.º À Divisão de Análise de Projectos compete:
+Art. 41.º À Divisão de Análise de Projectos compete:
 
 a) Realizar estudos de viabilidade e correspondentes trabalhos de base relativos às fases de estudo prévio, anteprojecto e projecto de aproveitamentos hidroagrícolas, colaborando com outros organismos quando tais aproveitamentos sejam de fins múltiplos;
 
@@ -710,9 +753,9 @@ d) Proceder aos estudos agro-económicos relativos aos perímetros de rega e às
 
 e) Realizar os estudos de análise durante e após a execução dos projectos de aproveitamentos hidroagrícolas e de engenharia rural, colaborando com outros organismos quando aqueles aproveitamentos sejam de fins múltiplos.
 
-###### Art. 42.º O Gabinete de Apoio aos Perímetros de Rega tem como atribuições apoiar o serviço de gestão dos perímetros de rega, em particular as associações de regantes e beneficiários, de forma a obter-se o melhor aproveitamento das correspondentes obras de fomento hidroagrícola.
+Art. 42.º O Gabinete de Apoio aos Perímetros de Rega tem como atribuições apoiar o serviço de gestão dos perímetros de rega, em particular as associações de regantes e beneficiários, de forma a obter-se o melhor aproveitamento das correspondentes obras de fomento hidroagrícola.
 
-###### Art. 43.º O Gabinete de Apoio aos Perímetros de Rega é dirigido por um chefe de divisão e compete-lhe:
+Art. 43.º O Gabinete de Apoio aos Perímetros de Rega é dirigido por um chefe de divisão e compete-lhe:
 
 a) Impulsionar o aproveitamento das obras de fomento hidroagrícola por forma a extrair delas o maior rendimento possível, bem como coordenar, orientar e fiscalizar os serviços de gestão dos perímetros, em particular as associações de regantes e beneficiários;
 
@@ -740,9 +783,9 @@ m) Examinar, em colaboração com outros departamentos da DGHEA, os orçamentos 
 
 n) Dar parecer sobre as propostas de novas utilizações de águas públicas nas bacias hidrográficas das obras de fomento hidroagrícola de iniciativa do Estado.
 
-###### Art. 44.º O Gabinete de Gestão de Parques de Máquinas tem como atribuições a gestão racional dos parques de máquinas do Ministério da Agricultura e Pescas e o apoio aos parques de máquinas agrícolas de cooperativas e outros de utilização colectiva.
+Art. 44.º O Gabinete de Gestão de Parques de Máquinas tem como atribuições a gestão racional dos parques de máquinas do Ministério da Agricultura e Pescas e o apoio aos parques de máquinas agrícolas de cooperativas e outros de utilização colectiva.
 
-###### Art. 45.º O Gabinete de Gestão de Parques de Máquinas é dirigido por um chefe de divisão e compete-lhe:
+Art. 45.º O Gabinete de Gestão de Parques de Máquinas é dirigido por um chefe de divisão e compete-lhe:
 
 a) Assegurar a gestão do parque de máquinas da DGHEA;
 
@@ -754,9 +797,9 @@ d) Intervir, através da emissão de parecer técnico, na aquisição de todos o
 
 e) Elaborar as tabelas de preços de aluguer de tractores e de máquinas agrícolas de alugadores privados subsidiados pelo Estado e dos equipamentos mecânicos dos parques sob a jurisdição da DGHEA.
 
-###### Art. 46.º O Gabinete de Engenharia Rural tem como atribuições a obtenção dos dados de base e a caracterização dos parâmetros necessários aos projectos da responsabilidade da DGHEA e a promoção das actividades de formação e especialização do seu pessoal técnico, de acordo com as necessidades dos seus serviços e dos projectos a seu cargo.
+Art. 46.º O Gabinete de Engenharia Rural tem como atribuições a obtenção dos dados de base e a caracterização dos parâmetros necessários aos projectos da responsabilidade da DGHEA e a promoção das actividades de formação e especialização do seu pessoal técnico, de acordo com as necessidades dos seus serviços e dos projectos a seu cargo.
 
-###### Art. 47.º O Gabinete de Engenharia Rural é dirigido por um chefe de divisão e compete-lhe:
+Art. 47.º O Gabinete de Engenharia Rural é dirigido por um chefe de divisão e compete-lhe:
 
 a) Promover e dar continuidade à obtenção dos dados de base necessários aos projectos da responsabilidade da DGHEA em ligação com os serviços regionais de agricultura, o Instituto Nacional de Investigação Agrária, as Universidades e os Institutos Universitários;
 
@@ -768,11 +811,11 @@ d) Apoiar os restantes departamentos da DGHEA no planeamento das actividades de 
 
 e) Assegurar as condições necessárias à efectivação do treino de técnicos integrados em equipas de projectos, nomeadamente nos casos decorrentes de acordos internacionais.
 
-###### Art. 48.º - 1 - A Direcção de Serviços de Cartografia e Cálculo tem como atribuições a orientação e execução de todos os trabalhos topográficos e cartográficos, estudos estatísticos e apoio de cálculo automático necessário ao campo de actuação da DGHEA.
+Art. 48.º - 1 - A Direcção de Serviços de Cartografia e Cálculo tem como atribuições a orientação e execução de todos os trabalhos topográficos e cartográficos, estudos estatísticos e apoio de cálculo automático necessário ao campo de actuação da DGHEA.
 
 2 - A Direcção de Serviços de Cartografia e Cálculo assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 49.º A Direcção de Serviços de Cartografia e Cálculo é dirigida por um director de serviços e compreende as seguintes divisões:
+Art. 49.º A Direcção de Serviços de Cartografia e Cálculo é dirigida por um director de serviços e compreende as seguintes divisões:
 
 a) Topografia;
 
@@ -780,7 +823,7 @@ b) Cartografia;
 
 c) Estatística e Cálculo.
 
-###### Art. 50.º À Divisão de Topografia compete:
+Art. 50.º À Divisão de Topografia compete:
 
 a) Executar ou fiscalizar a execução dos levantamentos topográficos e nivelamentos necessários aos estudos e projectos a cargo da DGHEA ou que sejam solicitados por outros organismos do Ministério da Agricultura e Pescas;
 
@@ -800,7 +843,7 @@ h) Apoiar os restantes departamentos da DGHEA no uso de técnicas de detecção 
 
 i) Colaborar com outros organismos do Estado e quaisquer outras entidades, em particular com o Instituto Superior de Agronomia, Instituto Geográfico e Cadastral e Serviço Cartográfico do Exército.
 
-###### Art. 51.º À Divisão de Cartografia compete:
+Art. 51.º À Divisão de Cartografia compete:
 
 a) Assegurar a publicação das cartas elaboradas pelos diversos departamentos da DGHEA e outros organismos do Ministério da Agricultura e Pescas, conforme decisão superior;
 
@@ -818,7 +861,7 @@ g) Assegurar o desenho dos levantamentos clássicos, aerofotogramétricos e de f
 
 h) Assegurar o arquivo de filmes, fotografias, desenhos e outros elementos que tenham servido à impressão e publicação de cartas.
 
-###### Art. 52.º À Divisão de Estatística e de Cálculo compete:
+Art. 52.º À Divisão de Estatística e de Cálculo compete:
 
 a) Estudar os programas que permitam resolver com a melhor eficiência os cálculos inerentes aos estudos e projectos dos diversos departamentos da DGHEA;
 
@@ -834,11 +877,11 @@ f) Elaborar programas e realizar cálculos relativos ao contrôle da realizaçã
 
 g) Efectuar o tratamento dos dados estatísticos relativos às máquinas agrícolas, aos perímetros regados, às construções rurais, aos estudos económicos e aos estudos de utilização do solo.
 
-###### Art. 53.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
+Art. 53.º - 1 - A Direcção de Serviços de Administração exerce as suas atribuições nos domínios da administração financeira e patrimonial e de pessoal, expediente e arquivo.
 
 2 - A Direcção de Serviços de Administração assegura as ligações com outras unidades do Ministério da Agricultura e Pescas ou a ele estranhas, tendo em vista garantir a efectivação das atribuições que lhe estão cometidas.
 
-###### Art. 54.º A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
+Art. 54.º A Direcção de Serviços de Administração é dirigida por um director de serviços e compreende as seguintes repartições:
 
 a) Administração Financeira;
 
@@ -846,7 +889,7 @@ b) Administração Patrimonial;
 
 c) Pessoal e Assuntos Gerais.
 
-###### Art. 55.º A Repartição de Administração Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 55.º A Repartição de Administração Financeira é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Orçamento e Conta;
 
@@ -854,7 +897,7 @@ b) Processamento e Verificação;
 
 c) Contabilidade.
 
-###### Art. 56.º À Secção de Orçamento e Conta compete:
+Art. 56.º À Secção de Orçamento e Conta compete:
 
 a) Coligir todos os elementos de receita e despesa indispensáveis à organização do orçamento da DGHEA;
 
@@ -868,7 +911,7 @@ e) Manter organizado o arquivo de toda a documentação das gerências findas;
 
 f) Fiscalizar a aplicação de subsídios e empréstimos concedidos através da DGHEA.
 
-###### Art. 57.º À Secção de Processamento e Verificação compete:
+Art. 57.º À Secção de Processamento e Verificação compete:
 
 a) Elaborar as folhas de vencimentos e outros abonos do pessoal;
 
@@ -878,7 +921,7 @@ c) Organizar os processos relativos a todas as despesas de execução de project
 
 d) Verificar todos os documentos de despesa e receita remetidos pelos diversos serviços.
 
-###### Art. 58.º À Secção de Contabilidade compete:
+Art. 58.º À Secção de Contabilidade compete:
 
 a) Escriturar os livros de contabilidade;
 
@@ -892,7 +935,7 @@ e) Assegurar o cálculo de análise de custos em ligação com a Divisão de Pro
 
 f) Fiscalizar o movimento de tesouraria, efectuando mensalmente o seu balanço.
 
-###### Art. 59.º Adstrito à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
+Art. 59.º Adstrito à Repartição de Administração Financeira funciona uma tesouraria, dirigida por um tesoureiro, à qual compete:
 
 a) Arrecadar todas as receitas pertencentes à DGHEA;
 
@@ -900,7 +943,7 @@ b) Efectuar o pagamento de todas as despesas devidamente autorizadas;
 
 c) Manter devidamente escriturados todos os livros de tesouraria.
 
-###### Art. 60.º A Repartição de Administração Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 60.º A Repartição de Administração Patrimonial é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Património e Instalações;
 
@@ -908,7 +951,7 @@ b) Aprovisionamento;
 
 c) Oficinas e Parque Automóvel.
 
-###### Art. 61.º À Secção de Património e Instalações compete:
+Art. 61.º À Secção de Património e Instalações compete:
 
 a) Organizar e manter actualizado o inventário da DGHEA respeitante a edifícios e outras instalações, maquinaria e equipamento, material de transporte e demais bens de capital;
 
@@ -924,25 +967,25 @@ f) Zelar pela segurança dos edifícios e outras instalações;
 
 g) Assegurar a eficiência das redes de comunicação interna e externa dos serviços.
 
-###### Art. 62.º À Secção de Aprovisionamento compete:
+Art. 62.º À Secção de Aprovisionamento compete:
 
 a) Promover a aquisição de maquinaria e equipamento, material de transporte, mobiliário e demais equipamentos necessários à DGHEA, ouvidos os serviços competentes;
 
 b) Promover todas as demais aquisições necessárias ao funcionamento dos serviços e proceder à sua armazenagem, conservação e distribuição pelos órgãos e serviços.
 
-###### Art. 63.º À Secção de Oficinas e Parque Automóvel compete:
+Art. 63.º À Secção de Oficinas e Parque Automóvel compete:
 
 a) Assegurar a gestão do parque de viaturas automóveis, de acordo com as instruções do Gabinete de Gestão de Viaturas do Estado;
 
 b) Assegurar a manutenção das oficinas de viaturas automóveis da DGHEA.
 
-###### Art. 64.º A Repartição de Pessoal e Assuntos Gerais é dirigida por um chefe de repartição e compreende as seguintes secções:
+Art. 64.º A Repartição de Pessoal e Assuntos Gerais é dirigida por um chefe de repartição e compreende as seguintes secções:
 
 a) Pessoal;
 
 b) Assuntos Gerais.
 
-###### Art. 65.º À Secção de Pessoal compete:
+Art. 65.º À Secção de Pessoal compete:
 
 a) Elaborar e manter actualizado o cadastro de todo o pessoal da DGHEA;
 
@@ -954,7 +997,7 @@ d) Instruir todos os processos referentes a prestações sociais de que sejam be
 
 e) Superintender no pessoal auxiliar.
 
-###### Art. 66.º À Secção de Assuntos Gerais compete:
+Art. 66.º À Secção de Assuntos Gerais compete:
 
 a) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de todo o expediente da DGHEA;
 
@@ -966,7 +1009,7 @@ d) Assegurar uma adequada circulação de documentos e normas pelos diversos ser
 
 e) Prestar apoio administrativo aos órgãos e serviços da DGHEA.
 
-###### Art. 67.º - 1 - O Centro de Documentação e Informação tem como atribuições assegurar a difusão e a documentação e informação no âmbito das acções da DGHEA.
+Art. 67.º - 1 - O Centro de Documentação e Informação tem como atribuições assegurar a difusão e a documentação e informação no âmbito das acções da DGHEA.
 
 2 - O Centro de Documentação e Informação é orientado por um técnico e compete-lhe:
 
@@ -994,9 +1037,9 @@ l) Assegurar o serviço de tradução.
 
 ### CAPÍTULO III — Gestão patrimonial e financeira
 
-###### Art. 68.º Para a realização dos seus fins, a DGHEA administrará os bens a seu cargo de acordo com as boas regras de gestão.
+Art. 68.º Para a realização dos seus fins, a DGHEA administrará os bens a seu cargo de acordo com as boas regras de gestão.
 
-###### Art. 69.º A gestão da DGHEA será disciplinada pelos seguintes instrumentos de previsão:
+Art. 69.º A gestão da DGHEA será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Plano de actividade plurianual;
 
@@ -1004,15 +1047,15 @@ b) Programa anual de trabalho;
 
 c) Orçamento privativo anual e suas actualizações.
 
-###### Art. 70.º Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no planeamento agrícola que vier a ser definido para o sector.
+Art. 70.º Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no planeamento agrícola que vier a ser definido para o sector.
 
-###### Art. 71.º - 1 - O orçamento privativo será elaborado anualmente com base no programa de trabalhos para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
+Art. 71.º - 1 - O orçamento privativo será elaborado anualmente com base no programa de trabalhos para cada ano económico, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado contrôle de gestão.
 
 2 - O orçamento será submetido à aprovação do Ministro da Agricultura e Pescas nos prazos legais.
 
-###### Art. 72.º A DGHEA administrará autonomamente as dotações que anualmente lhe forem concedidas para execução dos programas de investimento, bem como as suas receitas próprias:
+Art. 72.º A DGHEA administrará autonomamente as dotações que anualmente lhe forem concedidas para execução dos programas de investimento, bem como as suas receitas próprias:
 
-###### Art. 73.º - 1 - Constituem receitas próprias da DGHEA:
+Art. 73.º - 1 - Constituem receitas próprias da DGHEA:
 
 a) As dotações que lhe forem atribuídas no Orçamento Geral do Estado;
 
@@ -1038,33 +1081,33 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 3 - O regime previsto no número anterior aplicar-se-á a partir de 1 de Janeiro de 1980.
 
-###### Art. 74.º As tarifas praticadas pela DGHEA serão aprovadas por despacho ministerial e fixadas tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda fazer-se intervir o nível de serviço prestado e os custos indirectos de financiamento.
+Art. 74.º As tarifas praticadas pela DGHEA serão aprovadas por despacho ministerial e fixadas tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda fazer-se intervir o nível de serviço prestado e os custos indirectos de financiamento.
 
-###### Art. 75.º A aceitação de subsídios e subvenções não necessita de autorização do Governo, quando transmitidos livres de encargos ou obrigações.
+Art. 75.º A aceitação de subsídios e subvenções não necessita de autorização do Governo, quando transmitidos livres de encargos ou obrigações.
 
-###### Art. 76.º - 1 - O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas à DGHEA no Orçamento Geral do Estado.
+Art. 76.º - 1 - O conselho administrativo requisitará mensalmente, nos termos da lei vigente, à competente delegação da Direcção-Geral da Contabilidade Pública as importâncias que se mostrem necessárias, por conta das dotações orçamentais consignadas à DGHEA no Orçamento Geral do Estado.
 
 2 - As importâncias correspondentes às requisições serão levantadas pela DGHEA e por ela depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 77.º - 1 - Todas as receitas da DGHEA serão movimentadas por meio de cheques nominativos.
+Art. 77.º - 1 - Todas as receitas da DGHEA serão movimentadas por meio de cheques nominativos.
 
 2 - Poderá, no entanto, ser constituído, à responsabilidade do tesoureiro, um fundo de maneio para ocorrer ao pagamento de pequenas despesas de carácter corrente.
 
-###### Art. 78.º Todos os documentos relativos a recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director dos Serviços de Administração ou pelos seus substitutos legais.
+Art. 78.º Todos os documentos relativos a recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo e pelo director dos Serviços de Administração ou pelos seus substitutos legais.
 
-###### Art. 79.º - 1 - A contabilidade da DGHEA deverá corresponder às necessidades da gestão que lhe é própria, compreendendo uma contabilidade analítica, e deverá permitir um contrôle orçamental contínuo.
+Art. 79.º - 1 - A contabilidade da DGHEA deverá corresponder às necessidades da gestão que lhe é própria, compreendendo uma contabilidade analítica, e deverá permitir um contrôle orçamental contínuo.
 
 2 - As normas de contabilidade serão definidas em regulamento de gestão interna a aprovar por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 80.º A prestação de contas será feita nos termos da lei geral aplicável.
+Art. 80.º A prestação de contas será feita nos termos da lei geral aplicável.
 
-###### Art. 81.º A acção do Tribunal de Contas na DGHEA exerce-se por intermédio do seu delegado.
+Art. 81.º A acção do Tribunal de Contas na DGHEA exerce-se por intermédio do seu delegado.
 
 ### CAPÍTULO IV — Equipas de projecto
 
-###### Art. 82.º A equipa de projecto é a unidade expressamente constituída para a realização de um projecto multidisciplinar, sob a responsabilidade de um chefe de projecto e constituída por técnicos de diferentes especialidades e serviços.
+Art. 82.º A equipa de projecto é a unidade expressamente constituída para a realização de um projecto multidisciplinar, sob a responsabilidade de um chefe de projecto e constituída por técnicos de diferentes especialidades e serviços.
 
-###### Art. 83.º - 1 - Os chefes de projecto são nomeados por despacho ministerial, sob proposta do director-geral da DGHEA, de acordo com o director regional da área de execução do projecto.
+Art. 83.º - 1 - Os chefes de projecto são nomeados por despacho ministerial, sob proposta do director-geral da DGHEA, de acordo com o director regional da área de execução do projecto.
 
 2 - Os chefes de projecto são responsáveis pela consistência e eficácia dos estudos a cargo da sua equipa e pela conclusão destes estudos nos prazos e nas condições fixados previamente.
 
@@ -1074,19 +1117,19 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 5 - Os chefes de projecto terão direito a uma gratificação mensal a fixar, caso a caso, por despacho conjunto dos Ministros das Finanças e do Plano e da Agricultura e Pescas e do Secretário de Estado da Administração Pública, sendo o respectivo encargo suportado pelas dotações consignadas ao projecto.
 
-###### Art. 84.º - 1 - As equipas de projecto são compostas por técnicos das diversas especialidades que interessam ao projecto, nomeados pelo respectivo director-geral ou equiparado, mediante proposta do chefe de projecto e ouvido o responsável do serviço técnico em questão.
+Art. 84.º - 1 - As equipas de projecto são compostas por técnicos das diversas especialidades que interessam ao projecto, nomeados pelo respectivo director-geral ou equiparado, mediante proposta do chefe de projecto e ouvido o responsável do serviço técnico em questão.
 
 2 - A nomeação dos técnicos é feita por tempo limitado, o necessário à execução da tarefa respectiva e de acordo com o plano de trabalho, e a sua actividade é exercida a tempo inteiro.
 
 3 - Os técnicos nomeados actuam na dependência funcional do chefe de projecto, sem prejuízo dos vínculos e obrigações inerentes aos organismos de origem.
 
-###### Art. 85.º A regulamentação referente às equipas de projecto será definida por despacho ministerial, mediante proposta do director-geral da DGHEA.
+Art. 85.º A regulamentação referente às equipas de projecto será definida por despacho ministerial, mediante proposta do director-geral da DGHEA.
 
 ### CAPÍTULO V — Pessoal
 
 #### SECÇÃO I — Dos quadros do pessoal
 
-###### Art. 86.º - 1 - A DGHEA, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
+Art. 86.º - 1 - A DGHEA, para o desempenho das suas atribuições, disporá do contingente de pessoal dirigente e do pessoal dos quadros únicos constantes do mapa anexo ao presente diploma.
 
 2 - Os encargos com o pessoal referido no número anterior serão incluídos no orçamento privativo da DGHEA e suportados de conta das suas receitas próprias.
 
@@ -1094,41 +1137,41 @@ j) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a ou
 
 4 - O regime previsto nos dois números anteriores aplicar-se-á a partir de 1 de Janeiro de 1980.
 
-###### Art. 87.º O lugar de director dos Serviços de Administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
+Art. 87.º O lugar de director dos Serviços de Administração será provido nos termos do n.º 5 do artigo 46.º do [Decreto-Lei n.º 221/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1977-252872), de 28 de Maio.
 
-###### Art. 88.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da DGHEA só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
+Art. 88.º - 1 - Os lugares dos quadros únicos do Ministério da Agricultura e Pescas que vierem a vagar por motivo de provimento dos seus titulares em lugares de pessoal dirigente da DGHEA só poderão ser preenchidos mediante a observância dos princípios consignados no n.º 5 do artigo 2.º do [Decreto Regulamentar n.º 79/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1977-281266), de 26 de Novembro.
 
 2 - O montante dos vencimentos correspondentes aos lugares vagos referidos no número anterior será abatido na dotação orçamental correspondente enquanto se mantiver aquela situação.
 
-###### Art. 89.º O tesoureiro terá direito a um abono para falhas de acordo com a lei vigente.
+Art. 89.º O tesoureiro terá direito a um abono para falhas de acordo com a lei vigente.
 
 #### SECÇÃO II — Do regime de substituição
 
-###### Art. 90.º O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo subdirector-geral mais antigo.
+Art. 90.º O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral que for designado por despacho ministerial, sob sua proposta, ou, na falta de designação, pelo subdirector-geral mais antigo.
 
-###### Art. 91.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
+Art. 91.º Os directores de serviços são substituídos nas suas ausências e impedimentos pelo chefe de divisão da respectiva direcção de serviços que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de divisão mais antigo da direcção de serviços.
 
-###### Art. 92.º O director dos Serviços de Administração é substituído nas suas ausências e impedimentos pelo chefe de repartição que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
+Art. 92.º O director dos Serviços de Administração é substituído nas suas ausências e impedimentos pelo chefe de repartição que for designado por despacho do director-geral, sob proposta do director de serviços, ou, na falta de designação, pelo chefe de repartição mais antigo da direcção de serviços.
 
-###### Art. 93.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director-geral ou, na falta de designação, pelo técnico superior mais antigo na divisão.
+Art. 93.º Os chefes de divisão são substituídos nas suas ausências e impedimentos pelo técnico superior da divisão que, sob proposta do director de serviços de que depende, for designado por despacho do director-geral ou, na falta de designação, pelo técnico superior mais antigo na divisão.
 
-###### Art. 94.º O tesoureiro será substituído nas suas ausências e impedimentos pelo oficial de secretaria que for designado, sob sua proposta, por despacho do director-geral.
+Art. 94.º O tesoureiro será substituído nas suas ausências e impedimentos pelo oficial de secretaria que for designado, sob sua proposta, por despacho do director-geral.
 
 ### CAPÍTULO VI — Disposições gerais e finais
 
-###### Art. 95.º A DGHEA poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
+Art. 95.º A DGHEA poderá, sem prejuízo das funções que lhe estão cometidas, realizar quaisquer trabalhos que lhe sejam solicitados por entidades públicas, cooperativas ou privadas.
 
-###### Art. 96.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGHEA poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+Art. 96.º - 1 - Mediante autorização ministerial e sob proposta fundamentada, a DGHEA poderá celebrar contratos ou termos de tarefa com entidades ou indivíduos, nacionais ou estrangeiros, para a realização de estudos, projectos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
 
 2 - Os contratos serão sempre reduzidos a escrito e não conferirão em caso algum a qualidade de agente administrativo.
 
-###### Art. 97.º A DGHEA poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
+Art. 97.º A DGHEA poderá promover a realização de cursos de actualização técnico-profissional para o seu pessoal, de harmonia com a política de formação que vier a ser definida.
 
-###### Art. 98.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGHEA estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
+Art. 98.º Para a realização de actividades de estudo e formação no âmbito das suas atribuições, poderá a DGHEA estabelecer convénios com instituições científicas, técnicas e educacionais, nacionais ou estrangeiras, ouvido o Gabinete de Informação e Cooperação Internacional.
 
-###### Art. 99.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGHEA incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
+Art. 99.º Os abonos inerentes a transportes e ajudas de custo devidos a funcionários de outros departamentos ministeriais ou a pessoas a eles estranhas, pela sua participação na realização de projectos e outros empreendimentos da DGHEA incluídos no Plano, serão pagos de conta das dotações consignadas a esses objectivos.
 
-###### Art. 100.º - 1 - A cobrança coerciva das dívidas à DGHEA provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
+Art. 100.º - 1 - A cobrança coerciva das dívidas à DGHEA provenientes de taxas ou outros rendimentos cuja obrigação de pagamento esteja estabelecida em diploma ou haja sido reconhecida por despacho ministerial far-se-á pelo processo de execuções fiscais, através dos serviços de justiça fiscal.
 
 2 - O processo terá por base certidão, passada pela entidade competente, da qual constem os elementos seguintes:
 
@@ -1142,30 +1185,30 @@ d) Data da certidão e assinatura da entidade emitente devidamente autenticada c
 
 3 - A mora do devedor a que alude a alínea c) do número anterior conta-se a partir do último dia do prazo fixado para o pagamento.
 
-###### Art. 101.º A DGHEA poderá, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, subsidiar a aquisição de serviços ou a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com os objectivos prosseguidos pela Direcção-Geral.
+Art. 101.º A DGHEA poderá, precedendo despacho ministerial de autorização, sob proposta devidamente fundamentada, subsidiar a aquisição de serviços ou a realização de trabalhos efectuados por entidades públicas ou privadas relacionados com os objectivos prosseguidos pela Direcção-Geral.
 
-###### Art. 102.º - 1 - A DGHEA poderá, precedendo despacho ministerial de autorização, conceder subsídios a órgãos de gestão dos perímetros de rega, nomeadamente as associações de regantes e beneficiários, para fazer face a despesas necessárias à exploração e conservação das obras de fomento hidroagrícola e a despesas fortuitas de administração dessas obras.
+Art. 102.º - 1 - A DGHEA poderá, precedendo despacho ministerial de autorização, conceder subsídios a órgãos de gestão dos perímetros de rega, nomeadamente as associações de regantes e beneficiários, para fazer face a despesas necessárias à exploração e conservação das obras de fomento hidroagrícola e a despesas fortuitas de administração dessas obras.
 
 2 - Quando os subsídios sejam reembolsáveis e provenham de dotações do Plano, o reembolso será feito directamente nos cofres do Tesouro, mediante guias a expedir pela DGHEA.
 
-###### Art. 103.º A DGHEA poderá comparticipar nos encargos com a construção de infra-estruturas rurais de interesse colectivo e agrícola, de acordo com as orientações definidas nos planos de investimento do sector público.
+Art. 103.º A DGHEA poderá comparticipar nos encargos com a construção de infra-estruturas rurais de interesse colectivo e agrícola, de acordo com as orientações definidas nos planos de investimento do sector público.
 
-###### Art. 104.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados na DGHEA pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
+Art. 104.º As atribuições, competências e direitos conferidos por lei aos organismos e órgãos integrados na DGHEA pelo [Decreto Regulamentar n.º 78/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1977-281379), de 25 de Novembro, transitam para esta Direcção-Geral.
 
-###### Art. 105.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
+Art. 105.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, do Ministro das Finanças e do Plano e do Secretário de Estado da Administração Pública quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 106.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 106.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Manuel Jacinto Nunes - Apolinário José Barbosa da Cruz Vaz Portugal.
 
-**Promulgado em 30 de Julho de 1979.**
+Promulgado em 30 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 86.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/07/17504/00340049.pdf))](https://files.diariodarepublica.pt/1s/1979/07/17504/00340049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/07/17504/00340049.pdf)
 
-**O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.**
+O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes.

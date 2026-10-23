@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/186/2012/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2012-175174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baeeb696939fc78c7d96241bb90de8d76505888dc99467a44afe25cd57cb0cde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bbcb02bce203db731719575d7b89474c70d19853fcbf7a793c9eaa35556846a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alienação de Acções
-- Sociedade Anónima
 - Capital Social
 - Empordef
 - Estaleiros Navais de Viana do Castelo
 - Privatização
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:176059:por
@@ -88,16 +88,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2011/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2011/09/13/p/dre
+- type: cites
+  target: pt:dre:307630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:38Z'
   warnings: []
   errors: []
 ---
@@ -260,12 +284,12 @@ O presente diploma entra em vigor no 1.º dia útil após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - José Pedro Correia de Aguiar-Branco.
 
-**Promulgado em 7 de agosto de 2012.**
+Promulgado em 7 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 9 de agosto de 2012.**
+Referendado em 9 de agosto de 2012.
 
 Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.

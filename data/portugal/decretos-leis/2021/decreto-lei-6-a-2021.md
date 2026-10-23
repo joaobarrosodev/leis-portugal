@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 9/2021, 1º Suplemento, Série I de 2021-01-14
   number: '9'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 13-(2) a 13-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00901/0000200004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/6-a/2021/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2021-153959842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T03:43:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 614dc89632738d5476308b6d81fa26187ac007c339d47fe8dfd96c63a4205709
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e393aff60f0bf5f62aa2d60822ebdf42fb3dc2a635569149918361e4a89a1599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:43:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Multa
-- Contra-ordenação
-- Estado de Emergência
-- Fiscalização
 - ASAE
-- GNR
+- Autoridade para as Condições do Trabalho
+- Contra-ordenação
 - Doença Infecciosa
 - Epidemia
-- Teletrabalho
 - Equipamento de Proteção
-- Autoridade para as Condições do Trabalho
+- Estado de Emergência
+- Fiscalização
+- GNR
+- Multa
+- PSP
+- Teletrabalho
 relationships:
 - type: amended_by
   target: pt:dre:201773286:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Considerado revogado, a partir de 01.10.2022, pelo(a) Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022,
+    1º Suplemento, Série I de 2022-09-30 nos termos dos arts. 2.º e 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28-b/2020/06/26/p/dre
   label: null
@@ -115,16 +121,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:136788887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137939969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144272529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145589087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149220108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:43:05Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +223,9 @@ j) ...
 
 k) O cumprimento do disposto em matéria de limites às taxas e comissões cobradas pelas plataformas intermediárias no setor da restauração e similares.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O incumprimento dos deveres estabelecidos nas alíneas a) a h), j) e k) do artigo anterior constitui contraordenação, sancionada com coima de (euro) 100 a (euro) 500, no caso de pessoas singulares, e de (euro) 1000 a (euro) 10 000, no caso de pessoas coletivas.
 
@@ -199,7 +239,9 @@ k) O cumprimento do disposto em matéria de limites às taxas e comissões cobra
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A fiscalização do cumprimento dos deveres previstos nas alíneas a) a h), j) e k) do artigo 2.º compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade de Segurança Alimentar e Económica e às Polícias Municipais.
 
@@ -237,12 +279,14 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de janeiro de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Eduardo Arménio do Nascimento Cabrita - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
 
-**Promulgado em 14 de janeiro de 2021.**
+Promulgado em 14 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 14 de janeiro de 2021.**
+Referendado em 14 de janeiro de 2021.
 
-**O Primeiro-Ministro, António Luís Santos da Costa.**
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113888848

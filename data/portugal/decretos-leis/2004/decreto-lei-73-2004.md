@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/072a00/19201923.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/73/2004/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2004-211030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:46:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f49872a7baf8b49c3e4a42834f97af6d0223a5fedf6e52201f9f827f597eabc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca884eafb0d1008c196498625cd7e9683fe026bebfa1a7a401b11faa7a3667d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:46:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aproximação das Legislações
-- Embarcação
-- Transporte Marítimo
-- Documento de Transporte
 - Administração de Portos
+- Aproximação das Legislações
+- Documento de Transporte
+- Embarcação
 - Exploração Portuária
 - Transporte Internacional
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:175788:por
@@ -82,20 +82,25 @@ relationships:
   target: celex:32002L0006
   label: null
   source: http://data.europa.eu/eli/dir/2002/6/oj
+- type: repealed_by
+  target: pt:dre:175788:por
+  label: "Revogado pelo DEC LEI.218/2012.09.10.2012.MAMAOT, DR.IS [195] de 09.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-2012-175788
+  date: '2012-10-09'
 - type: transposes
   target: celex:32002L0006
   label: null
   source: null
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:46:59Z'
   warnings: []
   errors: []
 ---
@@ -194,17 +199,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto - António Pedro de Nobre Carmona Rodrigues.
 
-**Promulgado em 10 de Março de 2004.**
+Promulgado em 10 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 15 de Março de 2004.**
+Referendado em 15 de Março de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO I — Parte A
+## ANEXO I
+
+## Parte A
 
 Lista das formalidades de declaração, referidas no artigo 2.º, exigidas dos navios à chegada e ou à partida de portos portugueses
 
@@ -230,7 +237,7 @@ Quando as autoridades exijam informações relativas à tripulação de um navio
 
 Relativamente aos navios certificados para o transporte de 12 ou menos passageiros, a «Lista de passageiros» constitui o documento de base em que são fornecidas às autoridades públicas no porto as informações relativas aos passageiros à chegada e à partida de um navio.
 
-# Parte B
+Parte B
 
 Signatários das declarações
 
@@ -254,7 +261,7 @@ As autoridades públicas no porto aceitam a «Lista da tripulação» datada e a
 
 Relativamente aos navios certificados para o transporte de 12 ou menos passageiros, as autoridades públicas no porto aceitam a «Lista de passageiros» datada e assinada pelo comandante, o agente do navio ou outra pessoa devidamente autorizada pelo comandante, ou autenticada de forma aceitável pela autoridade competente.
 
-# Parte C
+Parte C
 
 Especificações técnicas
 

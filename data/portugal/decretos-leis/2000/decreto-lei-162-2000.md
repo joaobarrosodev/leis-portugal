@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/162/2000/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2000-314418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T02:17:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c9738ca7c831927d9b6c60935b57e0ddc6dbe7d29cccb687b7f380f6c1a4dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce8f052569b9098d9c7a4ed7257df10fcc7f8ea2401abe080f93999de62c26d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:17:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comércio
+- Embalagem
 - Gestão de Resíduos
 - Multa
-- Embalagem
 - Proteção do Ambiente
 - Proteção do Consumidor
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:75662181:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284949:por
+  label: "Alterado o art. 6º pelo DEC LEI.92/2006.25.05.2006.MAOTDR, DR.IS-A [101] de 25.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2006-284949
+  date: '2006-05-25'
+- type: amended_by
+  target: pt:dre:75662181:por
+  label: Alterados os arts. 2.º e 4.º do Dec Lei 366 -A/97, de 20-dez, na redação do presente diploma, pelo(a) Decreto-Lei
+    n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2016-75662181
+  date: '2016-11-04'
 - type: cites
   target: celex:31994L0062
   label: null
@@ -86,15 +97,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/366-a/1997/12/20/p/dre
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:17:50Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +148,9 @@ Os artigos 4.º e 6.º do Decreto-Lei n.º 366-A/97, de 20 de Dezembro, passam a
 
 7 - Os produtores de resíduos de embalagens não urbanas têm de proceder, dentro das suas instalações, à recolha selectiva e triagem desses resíduos e providenciar a sua valorização, directamente em unidades devidamente licenciadas para o efeito ou de acordo com o disposto no artigo seguinte.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -153,12 +166,12 @@ Os artigos 4.º e 6.º do Decreto-Lei n.º 366-A/97, de 20 de Dezembro, passam a
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 11 de Julho de 2000.**
+Promulgado em 11 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2000.**
+Referendado em 19 de Julho de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

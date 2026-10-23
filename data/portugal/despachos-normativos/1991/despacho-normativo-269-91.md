@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/269/1991/11/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/269-1991-316875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T07:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ee238d70e258ab3c0364d1b910fbe282e5e960f1499ecc65d531e11c134b61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38d7860bb0834cadc63ed5e866f2e278b6ca2d2702af5423418fa8f218088855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:52:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Ensino Particular
 - Educação dos Adultos
 - Ensino Básico
+- Ensino Particular
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/74/1991/02/09/p/dre
@@ -79,16 +79,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/193/1991/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/193/1991/09/05/p/dre
+- type: cites
+  target: pt:dre:221523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:52:20Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +153,7 @@ Ministério da Educação, 4 de Outubro de 1991. - O Ministro da Educação, Rob
 
 1 - Sistema de ensino por unidades capitalizáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/11/261b00/58145815.pdf))](https://files.diariodarepublica.pt/1s/1991/11/261b00/58145815.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/11/261b00/58145815.pdf)
 
 2 - Sistema de ensino por blocos de aprendizagem
 

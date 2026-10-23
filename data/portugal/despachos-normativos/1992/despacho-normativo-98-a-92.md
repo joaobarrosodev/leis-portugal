@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 140/1992, 1º Suplemento, Série I-B de 1992-06-20
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2908-(2) a 2908-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/06/140b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/98-a/1992/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/98-a-1992-642919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T07:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f531a3b04e602f85c551d4616231c1e458165cce0f73566ca78020989d78b06e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ee0f47d6b1f2374020cb8ef7085c20813120e30dd5fd0ba68d07605b8a86e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:59:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Básico
 - Avaliação de Conhecimentos
+- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:393272:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS OS NUMEROS 33-A, 33-B, 33-C, 33-D, 33-E E 33-F PELO DESPACHO NORMATIVO 644-A/94, DE 8 DE SETEMBRO, PUBLICADO\
+    \ NO DR.IS-B, 214, SUPL, DE 940915.\0 940915."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:393272:por
+  label: "Revogado pelo DN.30/2001.2001.06.22.ME DR.IS-B [166] de 19/Jul/2001, nos termos do respectivo art. 57º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/30-2001-393272
+  date: '2001-06-22'
 article_structure:
   article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:59:48Z'
   warnings: []
   errors: []
 ---

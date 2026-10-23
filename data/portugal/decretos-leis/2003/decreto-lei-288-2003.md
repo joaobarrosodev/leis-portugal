@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/288/2003/11/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2003-445969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T02:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c66decaab64a92137282dfc8ba83adf2bab938ff5d2c3144713bf5796fed902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc75dc2cd31ed851f26b67b41ce71f6bd2cb2e2a0eed950793a1c6a957db70a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Análise Laboratorial
-- Produção Animal
 - Aproximação das Legislações
-- Produto Cárneo
-- Leite
 - Controlo Sanitário
-- Saúde Pública
-- OVO
-- Proteção do Consumidor
-- Pesticida
+- Leite
 - Limite Máximo de Resíduos
+- OVO
+- Pesticida
+- Produção Animal
+- Produto Alimentar
 - Produto Animal
+- Produto Cárneo
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:601372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601372:por
+  label: "Mantido em vigor, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
 - type: cites
   target: celex:31979L0700
   label: null
@@ -103,13 +108,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:40:42Z'
   warnings: []
   errors: []
 ---
@@ -258,15 +263,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Setembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Armando José Cordeiro Sevinate Pinto.
 
-**Promulgado em 24 de Outubro de 2003.**
+Promulgado em 24 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Outubro de 2003.**
+Referendado em 30 de Outubro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO
 
@@ -286,13 +291,13 @@ QUADRO N.º 1
 
 Número mínimo de amostras primárias a colher nos lotes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
 
 QUADRO N.º 2
 
 Número de amostras primárias seleccionadas de forma aleatória necessário para uma dada probabilidade de detecção de pelo menos uma amostra não conforme num lote de carne ou de aves de capoeira para uma determinada incidência de resíduos não conformes no lote.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
 
 Notas
 
@@ -328,13 +333,13 @@ QUADRO N.º 3
 
 Carne e aves de capoeira: descrição das amostras primárias e dimensão mínima das amostras de laboratório
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
 
 QUADRO N.º 4
 
 Ovos e produtos lácteos: descrição das amostras primárias e dimensão mínima das amostras de laboratório
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)](https://files.diariodarepublica.pt/1s/2003/11/264a00/76727679.pdf)
 
 4 - Preparação da amostra de laboratório. - Se a amostra global foi maior do que o necessário para a amostra de laboratório, deve ser dividida de forma a constituir-se uma parte representativa. Pode utilizar-se um instrumento de amostragem, um divisor de amostras ou outro processo apropriado de redução da dimensão das amostras, mas as unidades de ovos inteiros não devem ser cortadas ou partidas. Se necessário, são colhidos, nesta fase, duplicados das amostras de laboratório, que também podem ser preparados pelo processo alternativo acima descrito. As dimensões mínimas das amostras de laboratório são indicadas nos quadros n.os 3 e 4.
 

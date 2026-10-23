@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-1987-421047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 975cb9dc22144e6c1374ccbee16469f0ced52ec3f5c8338f626db00591c2584b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de72230c78721ad3529cf95e099770071be86f7e0568f44363c08f49c58e85bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Jogos de Fortuna e Azar
+- Tróia
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:463868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:44Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +108,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As entidades que pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo de Tróia deverão fazer acompanhar as suas propostas de requerimento dirigido ao Secretário de Estado do Turismo (SET), em carta fechada, registada e lacrada, endereçada à Inspecção-Geral de Jogos (IGJ) e com a indicação exterior de se destinar ao respectivo concurso, dentro do prazo de 60 dias a contar da data da publicação do anúncio da sua abertura no Diário da República.
+Artigo 1.º - 1 - As entidades que pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo de Tróia deverão fazer acompanhar as suas propostas de requerimento dirigido ao Secretário de Estado do Turismo (SET), em carta fechada, registada e lacrada, endereçada à Inspecção-Geral de Jogos (IGJ) e com a indicação exterior de se destinar ao respectivo concurso, dentro do prazo de 60 dias a contar da data da publicação do anúncio da sua abertura no Diário da República.
 
 2 - A concessão, que principia com a assinatura do contrato, terminará em 31 de Dezembro do 25.º ano posterior ao da data do início da exploração dos jogos de fortuna ou azar.
 
@@ -105,7 +116,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 4 - A exploração dos jogos não poderá iniciar-se antes de concluído o edifício do casino respectivo.
 
-###### Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo de Tróia tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
+Art. 2.º - 1 - As obrigações mínimas que a concessionária da zona de jogo de Tróia tem de assumir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
 
 a) Construir em Tróia, em local a aprovar pelo membro do Governo com tutela sobre o sector do turismo, um casino dotado das características e requisitos de conforto e funcionalidade que forem definidos em portaria do mesmo membro do Governo, o qual, com todo o seu recheio, pertences e anexos, será reversível para o Estado no termo da concessão;
 
@@ -137,7 +148,7 @@ m) Assegurar alojamento condigno aos funcionários da IGJ em serviço na zona.
 
 4 - As importâncias a que aludem as alíneas e) a g) do n.º 1 serão anualmente actualizadas de acordo com a evolução do índice médio de preços no consumidor para o continente, excluindo a habitação, publicado pelo Instituto Nacional de Estatística.
 
-###### Art. 3.º A obrigação a que alude a segunda parte da alínea h) do n.º 1 do artigo 2.º será concretizada nos seguintes termos:
+Art. 3.º A obrigação a que alude a segunda parte da alínea h) do n.º 1 do artigo 2.º será concretizada nos seguintes termos:
 
 a) A concessionária da zona de jogo subsidiará com a importância mensal de 1500000$00, a valores do mês de Novembro de 1986, a concessionária dos transportes colectivos no rio Sado, importância que será actualizada sempre que se verifiquem alterações nos seguintes custos de exploração:
 
@@ -177,17 +188,17 @@ d) A importância indicada na alínea a) deste artigo será entregue na sede da 
 
 e) O pagamento do subsídio a que alude a alínea a) deste artigo será garantido através do depósito referido no n.º 6 do artigo 14.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 4.º - 1 - O pagamento das importâncias a que se referem as alíneas c) e d) do n.º 1 do artigo 2.º será efectuado na Tesouraria da Fazenda Pública do Concelho de Grândola até ao dia 10 de cada mês, em relação ao mês anterior, mediante guias emitidas pela IGJ, que as enviará à Repartição de Finanças do mesmo concelho, devendo ser devolvidos à IGJ dois exemplares das referidas guias, com o pagamento devidamente averbado.
+Art. 4.º - 1 - O pagamento das importâncias a que se referem as alíneas c) e d) do n.º 1 do artigo 2.º será efectuado na Tesouraria da Fazenda Pública do Concelho de Grândola até ao dia 10 de cada mês, em relação ao mês anterior, mediante guias emitidas pela IGJ, que as enviará à Repartição de Finanças do mesmo concelho, devendo ser devolvidos à IGJ dois exemplares das referidas guias, com o pagamento devidamente averbado.
 
 2 - Não sendo efectuado o pagamento no referido prazo, seguir-se-á o processo de cobrança coerciva previsto no artigo 42.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969.
 
-###### Art. 5.º Constitui único factor de preferência para adjudicação da concessão a oferta, para além das condições mínimas estabelecidas no artigo 2.º, de obrigações que tenham interesse turístico.
+Art. 5.º Constitui único factor de preferência para adjudicação da concessão a oferta, para além das condições mínimas estabelecidas no artigo 2.º, de obrigações que tenham interesse turístico.
 
-###### Art. 6.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária, ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março 1969, são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
+Art. 6.º - 1 - Os prazos para a aquisição dos terrenos cuja propriedade não seja da concessionária, ou para a apresentação dos pedidos de declaração de utilidade pública urgente para efeitos de expropriação, nos termos do artigo 9.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março 1969, são de seis meses sobre a data da aprovação da localização dos respectivos empreendimentos.
 
 2 - Os prazos fixados para as realizações que constituam obrigações contratuais poderão ser antecipados pela concessionária, bem como, mediante solicitação desta devidamente fundamentada, prorrogados pelo tempo estritamente necessário pelo SET.
 
-###### Art. 7.º - 1 - Os requerimentos a que se refere n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 7.º - 1 - Os requerimentos a que se refere n.º 1 do artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 a) Documentos comprovativos da constituição de sociedade anónima, obedecendo aos requisitos fixados nos Decretos-Leis n.os 48912, de 18 de Março de 1969, e 340/80, de 30 de Agosto, incluindo certidão de registo comercial, estatutos e indicação dos membros dos corpos sociais ou identificação completa das entidades que se proponham constituí-la nos mesmos termos, dentro do prazo de 90 dias a contar da data da notificação da adjudicação;
 
@@ -213,11 +224,11 @@ a) No prazo de quinze dias após a assinatura do contrato, relativamente ao conc
 
 b) No prazo de quinze dias após a notificação da adjudicação da concessão, quanto aos demais concorrentes.
 
-###### Art. 8.º - 1 - A IGJ poderá solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
+Art. 8.º - 1 - A IGJ poderá solicitar aos concorrentes os esclarecimentos que sejam julgados necessários.
 
 2 - O Conselho de Ministros (CM) poderá excluir do concurso as propostas que em si ou nos documentos que as acompanhem contenham expressões vagas, ou que condicionem por qualquer forma as obrigações a assumir, que se apresentem em termos que possam dificultar o confronto com as demais propostas, ou que não preencham os requisitos do concurso.
 
-###### Art. 9.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á na IGJ à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de 30 dias, durante os quais o CM poderá rejeitar a admissão ao concurso de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
+Art. 9.º - 1 - No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á na IGJ à abertura das propostas para efeito de apreciação das condições de admissão dos concorrentes, que será feita no prazo de 30 dias, durante os quais o CM poderá rejeitar a admissão ao concurso de concorrentes em relação aos quais não reconheça a necessária idoneidade, nomeadamente a financeira.
 
 2 - Passado o prazo referido no número anterior proceder-se-á na IGJ à abertura dos sobrescritos dos concorrentes que não hajam sido excluídos, contendo as propostas propriamente ditas, para efeito da respectiva graduação, que será feita no prazo de 30 dias, após o que o CM deliberará sobre a adjudicação.
 
@@ -225,12 +236,12 @@ b) No prazo de quinze dias após a notificação da adjudicação da concessão,
 
 Aníbal António Cavaco Silva - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 16 de Abril de 1987.**
+Promulgado em 16 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Abril de 1987.**
+Referendado em 28 de Abril de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

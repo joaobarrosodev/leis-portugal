@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/66-1976-507179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T05:09:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce94b4b262b160da8625d3a6c3bb9e78b2047346de2bdfabd145c40e151cc6da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb85c8ce1ca2816a2a2b795cfbf334af3ac7d58cf6485ff28de53145465b9abe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:09:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Expropriação
+- Prédio Rústico
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:473953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:427458:por
+  label: Declarado nulo o acto de expropriação do prédio rústico denominado «Herdade de Enxoto Tordos» pelo(a) Portaria n.º
+    277/76 - Diário da República n.º 103/1976, Série I de 1976-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-1976-427458
+  date: '1976-05-03'
+- type: amended_by
+  target: pt:dre:381139:por
+  label: "Derrogada, relativamente ao prédio rústico denominado \"Herdade das Faias\", pela PORT.296/79.25.06.1979.MAP, DR.IS\
+    \ [144] de 25.06.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1979-381139
+  date: '1979-06-25'
+- type: amended_by
+  target: pt:dre:382221:por
+  label: "Derrogada, relativa à expropriação do prédio rústico denominado «Herdade do Pisão do Freixo»., pela PORT.364/79.24.07.1979.MAP,\
+    \ DR.IS [169] de 24.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/364-1979-382221
+  date: '1979-07-24'
+- type: amended_by
+  target: pt:dre:382231:por
+  label: "Derrogada, relativamente aos prédios rústicos Herdade de Padrões e Courela de Aboicinha, ambos do concelho de Grândola,\
+    \ pela PORT.362/79.24.07.1979.MAP, DR.IS [169] de 24.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/362-1979-382231
+  date: '1979-07-24'
+- type: amended_by
+  target: pt:dre:473903:por
+  label: "Derrogada na parte respeitante ao prédio rústico «Courela da Ameirinha» pela PORT.247/80.14.05.1980.MAP, DR.IS [111]\
+    \ de 14.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-1980-473903
+  date: '1980-05-14'
+- type: amended_by
+  target: pt:dre:473953:por
+  label: "Derrogada na parte respeitante ao prédio rústico «Herdade da Caniceira» pela PORT.252/80.15.05.1980.MAP, DR.IS [112]\
+    \ de 15.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/252-1980-473953
+  date: '1980-05-15'
+- type: cites
+  target: pt:dre:310272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:430240:por
+  label: Rectificada pela DECL.DD8252.16.08.1976.PCM, DR.IS [191] de 16.08.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-430240
+  date: '1976-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:09:56Z'
   warnings: []
   errors: []
 ---

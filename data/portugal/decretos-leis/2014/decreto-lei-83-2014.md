@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/83/2014/05/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T03:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319075d165a60e7e0b69b9f58fc46b593b9ede4e8591b22d642bda14aa373a72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d612f820c31545c89a3244ce40d8893f88d64da208ec880b0cb45b42491b02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
-- Ministério da Administração Interna
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
 - Contra-ordenação
 - Definição de Competências
+- Fogueira
+- Incêndio
+- Instituto da Conservação da Natureza e das Florestas
+- Ministério da Administração Interna
+- Prevenção de Incêndios
+- Proteção Civil
 - Proteção da Floresta
 - Secretaria Geral
-- Bombeiro
-- Instituto da Conservação da Natureza e das Florestas
-- Fogueira
-- Autoridade Nacional de Protecção Civil
 - Sistema de Defesa da Floresta contra Incêndios
 relationships:
 - type: amended_by
   target: pt:dre:108010872:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:108010872:por
+  label: Alterados os arts. 26.º, 40.º e 41.º do Dec Lei 124/2006, de 28-jun, na redação do presente diploma pelo(a) Lei n.º
+    76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/76-2017-108010872
+  date: '2017-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
   label: null
@@ -101,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/17/2009/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/17/2009/01/14/p/dre
+- type: cites
+  target: pt:dre:146221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397362:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:25:58Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +183,9 @@ Os artigos 26.º, 40.º e 41.º do [Decreto-Lei n.º 124/2006](https://diariodar
 
 6 - [Anterior n.º 5].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -181,7 +205,9 @@ b) Ao conselho diretivo do Instituto da Conservação da Natureza e das Floresta
 
 5 - As competências previstas nos n.ºs 3 e 4 podem ser delegadas, nos termos da lei.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A afetação do produto das coimas cobradas em resultado da aplicação do disposto nas alíneas a), b), c), d), o) e p) do n.º 2 do artigo 38.º é feita da seguinte forma:
 
@@ -217,12 +243,12 @@ As referências à Autoridade Florestal Nacional efetuadas no [Decreto-Lei n.º 
 
 Visto e aprovado em Conselho de Ministros de 17 de abril de 2014. - Pedro Passos Coelho - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Jorge Manuel Lopes Moreira da Silva - José Diogo Santiago de Albuquerque.
 
-**Promulgado em 21 de maio de 2014.**
+Promulgado em 21 de maio de 2014.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de maio de 2014.**
+Referendado em 22 de maio de 2014.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 26/1981, 1º Suplemento, Série I de 1981-01-31
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 332-(1) a 332-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf
 entry_into_force_dates: []
@@ -46,40 +46,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-a-1981-258345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T06:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a875f5be4afd4b5b21f55be96e23ad8a200b11ca414da014793cf5c016b85bbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca812c5d68476bb080ee8898fb04e693c0d40ef21fd1866c63fd431a7f7fc3f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Função Pública
+- Ministério dos Assuntos Sociais
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:227464:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599889:por
+  label: "Alterado o quadro de pessoal pela PORT.249/82.1982.03.05.MFP, DR.IS [53] de 5/MAR/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-1982-599889
+  date: '1982-03-05'
+- type: amended_by
+  target: pt:dre:375205:por
+  label: "Alterado o Quadro de Pessoal da Secretaria-Geral do Ministério dos Assuntos Sociais, aprovado pelo presente diploma,\
+    \ pela PORT.906/82.25.09.1982.MFP, DR.IS [223] de 25.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-1982-375205
+  date: '1982-09-25'
+- type: amended_by
+  target: pt:dre:308533:por
+  label: "Alterado o quadro de pessoal pela PORT.91/83.1983.01.29.MFP DR.IS [24]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/91-1983-308533
+  date: '1983-01-29'
+- type: amended_by
+  target: pt:dre:227464:por
+  label: "Criado um lugar de assessor no quadro de pessoal da Secretaria-Geral do Ministério da Saúde, pela PORT.189/86.08.05.1986.MF,\
+    \ DR.IS [105] de 08.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-1986-227464
+  date: '1986-05-08'
+- type: cites
+  target: pt:dre:140294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:39:04Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +162,15 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 ## ANEXO — Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o secretário-geral, designado por despacho do Ministro dos Assuntos Sociais, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro dos Assuntos Sociais, João António Morais Leitão.
 
 Mapa comparativo [a que se refere a alínea a) do n.º 21 do [Despacho Normativo n.º 1/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1980-581856)] entre a situação actual e es alterações resultantes da aplicação do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
 
 Indicação dos requisitos de provimento das categorias e carreiras alteradas e da legislação que aprova os quadros de pessoal e estabelece o respectivo normativo de provimento.
 
@@ -160,14 +220,14 @@ Mapa comparativo de encargos resultantes da aplicação do [Decreto-Lei n.º 191
 
 Encargos com o quadro actual ([Decreto Regulamentar n.º 39/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/39-1977-253384))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
 
 Encargos com o quadro resultante da aplicação do [Decreto-Lei n.º 377/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1979-369590), de 13 de Setembro, e diplomas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
 
 Encargos com o quadro resultante da aplicação do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/01/02601/00010006.pdf)
 
-**O Ministro dos Assuntos Sociais, João António Morais Leitão.**
+O Ministro dos Assuntos Sociais, João António Morais Leitão.

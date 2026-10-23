@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/40/1997/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1997-558228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:55:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14af2ce6060158efee11d90e0806d9762ba3bbff7c01b1ad88967f344deba28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5aea5144f99fb3c86ca5e734b509053dc449aebb82e833d768f09a570639c29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:55:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Falência
-- Empresa
 - Criação de Serviços
+- Empresa
+- Falência
 - Lisboa
 - Quadro de Pessoal
 - Tribunal de Recuperação da Empresa e de Falência
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1996/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1996/08/31/p/dre
+- type: cites
+  target: pt:dre:241394:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:55:07Z'
   warnings: []
   errors: []
 ---
@@ -138,19 +142,19 @@ Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 1996. - António 
 
 Pomulgado em 24 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 27 de Janeiro de 1997.**
+Referendado em 27 de Janeiro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 MAPA ANEXO
 
 Tribunal de Recuperação da Empresa e de Falência de Lisboa
 
-#### Secção central e duas secções de processos
+Secção central e duas secções de processos
 
 Pessoal:
 
@@ -166,7 +170,7 @@ Escriturário judicial ... 5
 
 Tribunal de Recuperação da Empresa e de Falência de Vila Nova de Gaia
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Pessoal:
 

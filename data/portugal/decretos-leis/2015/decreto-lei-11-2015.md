@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01700/0053600542.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/11/2015/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2015-66325235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a404a4190a29e591a413bfd3b80da3ae121248f95e80dc65cd1b01d3cc9d9b8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 351e2e87c9432d76fba6a4d9a0e13039a05401af80602a293da50b68bfee0b97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Capital Social
-- Exército
-- Gestão Financeira
 - Criação de Empresas
 - Estabelecimentos Fabris do Exército
 - Estatuto
+- Exército
 - Extinção de Serviços
-- Setor Empresarial do Estado
-- Gestão do Património
-- Manutenção Militar
-- Pessoal Civil
-- Militar
-- Saneamento Económico e Financeiro
 - Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Manutenção Militar
+- Militar
+- MM-GESTÃO PARTILHADA
+- Pessoal Civil
+- Saneamento Económico e Financeiro
+- Setor Empresarial do Estado
 - Transferência de Competências
 - Transferência Patrimonial
-- MM-GESTÃO PARTILHADA
 relationships:
 - type: amended_by
   target: pt:dre:107584769:por
@@ -128,16 +128,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/34/2008/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/34/2008/02/22/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57701290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58763441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675788:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107584769:por
+  label: Revogado o presente diploma, com exceção dos Estatutos da MM - Gestão Partilhada, E. P. E. (MM, E. P. E.), aprovados
+    em anexo, que se mantêm em vigor até 30.06.2017, e definidos os termos da extinção da MM, E. P. E., constituída pelo presente
+    diploma, com integração das atribuições relativas ao Exército neste ramo das Forças Armadas e extinção das restantes,
+    pelo(a) Decreto-Lei n.º 76/2017 - Diário da República n.º 124/2017, Série I de 2017-06-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-2017-107584769
+  date: '2017-06-29'
 article_structure:
   article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:30Z'
   warnings: []
   errors: []
 ---
@@ -290,15 +362,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 27 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Berta Maria Correia de Almeida de Melo Cabral.
 
-**Promulgado em 20 de janeiro de 2015.**
+Promulgado em 20 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 21 de janeiro de 2015.**
+Referendado em 21 de janeiro de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

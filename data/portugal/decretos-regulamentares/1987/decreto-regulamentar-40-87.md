@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/07/14900/25342544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,211 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/40-1987-419595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47070a8d90e77d70e5d1a7ae1e12a9689a8d8e5c38f2f47185c87a3eb17d5ff5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb4a84338ad47619b3d995b3987282bf6ba459dcdd456c1f504de6531d52330c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Administração Pública
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:520431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420436:por
+  label: "Alterado o quadro de pessoal da Direcção Geral da Administração Pública pela PORT.603/87.15.07.1987.MF, DR.IS [160]\
+    \ de 15.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/603-1987-420436
+  date: '1987-07-15'
+- type: amended_by
+  target: pt:dre:418045:por
+  label: "Afectado transitoriamente o pessoal da ex-SEAP - até definição orgânica das oficinas gráficas do extinto CICTRA\
+    \ - à Direcção Geral da Administração Pública cujo quadro de pessoal consta do present diploma, PORT.741/87.29.08.1987.MF,\
+    \ DR.IS [198] de 29.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/741-1987-418045
+  date: '1987-08-29'
+- type: amended_by
+  target: pt:dre:496925:por
+  label: "Alterado o quadro de pessoal, pela PORT.868/87.11.11.1987.MF, DR.IS [260] de 11.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/868-1987-496925
+  date: '1987-11-11'
+- type: amended_by
+  target: pt:dre:282694:por
+  label: "Alterado o quadro de pessoal aprovado no presente diploma, pela PORT.53/88.27.01.1988.MF, DR.IS [22] de 27.01.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1988-282694
+  date: '1988-01-27'
+- type: amended_by
+  target: pt:dre:509781:por
+  label: "Alterados os arts. 4º e 13º e aumentado o quadro de pessoal da DGAP, pelo DR.3/91.01.02.1991.MF, DR.IS-B [27] de\
+    \ 01.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/3-1991-509781
+  date: '1991-02-01'
+- type: amended_by
+  target: pt:dre:615788:por
+  label: Alterado o quadro de pessoal pela PORT.280/91.06.04.1991.MF, DR.IS-B [80] de 06.04.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-1991-615788
+  date: '1991-04-06'
+- type: amended_by
+  target: pt:dre:649345:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo presente, com as alterações
+    introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul, 741/87, de 29-ago, 53/88, de 27-jan, e 878/89,
+    de 11-out, e pelo DR 3/91, de 01-fev, pelo(a) Portaria n.º 572/91 - Diário da República n.º 145/1991, Série I-B de 1991-06-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/572-1991-649345
+  date: '1991-06-27'
+- type: amended_by
+  target: pt:dre:402769:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo presente diploma, com as alterações
+    introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de15-jul, 741/87, de 29-ago, 53/88, de 27-jan, e 878/89,
+    de 11-out, e pelo DR 3/91, de 01-fev, pelo(a) Despacho Normativo n.º 172/91 - Diário da República n.º 190/1991, Série
+    I-B de 1991-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/172-1991-402769
+  date: '1991-08-20'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Alterado o presente diploma, relativamente às atribuições cometidas à Direcção Geral de Administração Pública na
+    área da formação profissional, pelo(a) Decreto-Lei n.º 451/91 - Diário da República n.º 279/1991, 1º Suplemento, Série
+    I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:152137:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo presente diploma, com as alterações
+    introduzidas pelas Ports 603/87,de 15-jul, 741/87, de 29-ago, e 53/88, de 27-jan, pelo Dec Lei 292/88, de 24-ago, pela
+    Port 878/89, de 11-out, pelo DR 3/91, de 01-fev, e pela Port 572/91, de 27-jun, pelo(a) Despacho Normativo n.º 21/92 -
+    Diário da República n.º 32/1992, Série I-B de 1992-02-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/21-1992-152137
+  date: '1992-02-07'
+- type: amended_by
+  target: pt:dre:239033:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo presente diploma, com as alterações
+    introduzidas pelo Dec Lei 292/88, de 24-ago, pelas Ports 603/87, de 15-jul, 741/87, de 29-ago, 53/88, de 27-jan, 878/89,
+    de 11-out, e 572/91, de 27-jun, e pelo DR 3/91, de 01-fev, pelo(a) Despacho Normativo n.º 173/92 - Diário da República
+    n.º 213/1992, Série I-B de 1992-09-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/173-1992-239033
+  date: '1992-09-15'
+- type: amended_by
+  target: pt:dre:230961:por
+  label: Alterado o quadro de pessoal da Direcção Geral da Administração Pública pelo(a) Despacho Normativo n.º 175/92 - Diário
+    da República n.º 218/1992, Série I-B de 1992-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/175-1992-230961
+  date: '1992-09-21'
+- type: amended_by
+  target: pt:dre:624378:por
+  label: Alterado o quadro de pessoal da Direcção-Geral da Administração Pública, aprovado pelo presente diploma, com as alterações
+    introduzidas pelo Dec Lei 292/88, de 24-ago, pelos DRs 3/91, de 01-fev, e 28/92, de 31-out, pelas Ports 603/87, de 15-jul,
+    741/87, de 29-ago, 868/87, de 11-nov, 53/88, de 27-jan, 280/91, de 06-abr, e 572/91, de 27-jun, e pelos DNs 172/91, de
+    20-ago, 21/92, de 07-fev, 173/92, de 15-set, e 175/92, de 21-set, pelo(a) Despacho Normativo n.º 247/92 - Diário da República
+    n.º 294/1992, Série I-B de 1992-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/247-1992-624378
+  date: '1992-12-22'
+- type: amended_by
+  target: pt:dre:455465:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros da Direcção Geral da Administração Pública pelo\
+    \ DEC LEI.296-A/95.1995.11.17.PCM, DR.IS-A [266]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/296-a-1995-455465
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para o Ministério da Reforma do Estado e da Administração Pública, da Direcção-Geral da\
+    \ Administração Pública, cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A\
+    \ [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:567032:por
+  label: "Extintos o Departamento de Recrutamento e Selecção de Pessoal, o Departamento de Apoio à Desconcentração e à Descentralização,\
+    \ o Departamento de Gestão de Excedentes de Pessoal e o Departamento de Reclassificação, Reconversão e Colocação de Pessoal\
+    \ da Direcção-Geral da Administração Pública, cuja orgânica foi aprovada pelo presente diploma (com as alterações introduzidas\
+    \ pelo Dr 28/92 de 31-Out e pelo Dec Lei 13/97 de 17-Jan) pelo DEC LEI.300/2001.2001.11.22.MREAP DR.IS-A [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-2001-567032
+  date: '2001-11-22'
+- type: amended_by
+  target: pt:dre:432175:por
+  label: "Transferidas para a Direcção-Geral da Administração Pública, cuja orgânica foi aprovada pelo presente diploma, a\
+    \ Base de Dados de Recursos Humanos da Administração Pública, criada pelo Dec Lei 47/98, de 07-Mar, bem como as atribuições\
+    \ conferidas ao Instituto para a Inovação na Administração do Estado nos domínios do emprego público e gestão de recursos\
+    \ humanos, dos modelos organizacionais da Administração Pública e da sociedade de informação, e assumidas nos termos do\
+    \ disposto nos n.ºs 1, 2 e 3 do Dec Lei 300/2001, de 22-Nov, pelo DEC LEI.215/2002.22.10.2002.MF, DR.IS-A [244] de 22.10.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-2002-432175
+  date: '2002-10-22'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:217570:por
+  label: "Revogada a al. d) do nº 1 do art. 5º, alterados os arts. 4º, 8º, 10º e 15º, extintos os departamentos de estruturas\
+    \ orgânicas, quadros e carreiras de pessoal e de integração administrativa, constantes dos arts. 4º e 15º, pelo DR.28/92.1992.10.31.MFDR.IS-B\
+    \ [252)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1992-217570
+  date: '1992-10-31'
+- type: repealed_by
+  target: pt:dre:520431:por
+  label: "Revogado a partir de 01.04.2007, nos termos do art. 5º do Dec Lei 201/2006 de 27-Out, pelo DR.22/2007.29.03.2007.MFAP,\
+    \ DR.IS [63] de 29.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/22-2007-520431
+  date: '2007-03-29'
 article_structure:
   article_count: 33
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:59Z'
   warnings: []
   errors: []
 ---
@@ -644,19 +815,19 @@ Com a entrada em vigor deste diploma são dadas por findas as comissões de serv
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Junho de 1987.**
+Promulgado em 9 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Junho de 1987.**
+Referendado em 11 de Junho de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO N.º 1 — Quadro de pessoal a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/14900/25342544.pdf))](https://files.diariodarepublica.pt/1s/1987/07/14900/25342544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/14900/25342544.pdf)
 
 ## ANEXO N.º 2 — Conteúdos funcionais
 

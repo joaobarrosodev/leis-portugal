@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/776-1975-310637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f943381894818735f274c53686ccef03dfa5096436c8947f4d388e484f920a69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86fca9ef8a5e6bc4db2468c9432bc56bc53d0657da2ec99b8b11e9371d913937
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Castelo Branco
+- Expropriação
+- Idanha-a-nova
+- Prédio Rústico
+- Reforma Agrária
 relationships:
 - type: amended_by
   target: pt:dre:3389664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2603510:por
+  label: "Derrogado parte pela port.1261/2003(2ªSérie).18.09.2003.pcm, dr.iis [234] de 09.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1261-2003-2603510
+  date: '1975-12-27'
+- type: amended_by
+  target: pt:dre:448529:por
+  label: Derrogada, no que concerne à expropriação de 438,500 ha do prédio rústico da Companhia Agrícola Penha Garcia, S.
+    A. R. L, pelo(a) Portaria n.º 78/78 - Diário da República n.º 33/1978, Série I de 1978-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/78-1978-448529
+  date: '1978-02-09'
+- type: amended_by
+  target: pt:dre:380722:por
+  label: "Derrogada, no que se refere ao prédio rústico denominado «Quinta da Caneca» pela PORT.344/79.11.07.1979.MAP, DR.IS\
+    \ [158] de 11.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1979-380722
+  date: '1979-07-11'
+- type: amended_by
+  target: pt:dre:1932471:por
+  label: "Derrogada relativamente aos prédios rústicos \"Herdade de Idanha-a-Velha, Ribeiro do Pessegueiro, Cabeço dos Pombos,\
+    \ Devesa, Chão da Devesa, Poldras, Ferranheira, À Ponte, Vale do Conde e Cabeço do Leito\" pela PORT.423/99(2ªSÉRIE).1999.04.09.PCM\
+    \ DR.IIS [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/423-1999-1932471
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:1932475:por
+  label: "Derrogada na parte relativa ao prédio rústico \"Granja de Penha Garcia\" pela PORT.427/99(2ªSÉRIE).1999.04.09.PCM\
+    \ DR.IIS [98] de 27/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/427-1999-1932475
+  date: '1999-04-09'
+- type: amended_by
+  target: pt:dre:1420069:por
+  label: "Derrogada em pela PORT.454/99(2ªSÉRIE).1999.04.16.PCM DR.IIS [103] DE 04/MAI/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/454-1999-1420069
+  date: '1999-04-16'
+- type: amended_by
+  target: pt:dre:3179468:por
+  label: "Derrogada parte pela PORT.148/2004(2ªSérie).07.01.2004.PCM, DR.IIS [23] de 28.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-2004-3179468
+  date: '2004-01-07'
+- type: amended_by
+  target: pt:dre:3389664:por
+  label: "Derrogada pela PORT.615/2004(2ªSérie).06.05.2004.PCM, DR.IIS [122] de 25.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/615-2004-3389664
+  date: '2004-05-06'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:55:03Z'
   warnings: []
   errors: []
 ---

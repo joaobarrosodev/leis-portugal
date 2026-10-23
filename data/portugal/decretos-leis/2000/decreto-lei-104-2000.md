@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/104/2000/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2000-291663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T02:16:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 287b9ee7a1896c8dc5d2e90de2da4dd0515af80a823bd39de2b326451cafb022
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5187a265c6dad432f1dd88796ee910a7fae84c978618e14e6500cec943b9b919
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:16:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,35 +68,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Região Autónoma
-- Multa
+- Comércio
 - Contra-ordenação
 - Direcção Geral de Energia
 - Especificação Técnica
 - Fiscalização
 - Gasóleo
 - Gasolina
+- Multa
+- Região Autónoma
 - Veículo
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:218332:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611885:por
+  label: "Alterados os anexos I, II, III e IV pelo DEC LEI.254/2001.2001.09.22.MECO, DR.IS-A [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2001-611885
+  date: '2001-09-22'
+- type: amended_by
+  target: pt:dre:158584:por
+  label: "Alterado o art. 7º pelo DEC LEI.150/2002.2002.05.23.MECO DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2002-158584
+  date: '2002-05-23'
 - type: cites
   target: celex:31998L0070
   label: null
   source: http://data.europa.eu/eli/dir/1998/70/oj
+- type: corrected_by
+  target: pt:dre:336715:por
+  label: "Rectificado pela DECL-RECT.7-U/2000.2000.08.31.PCM DR.IS-A [201]2º Supl de 31/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-u-2000-336715
+  date: '2000-08-31'
+- type: repealed_by
+  target: pt:dre:218332:por
+  label: "Revogado, com a redacção dada pelos Dec Lei 254/2000 de 22-Set e 150/2002 de 23-Mai, pelo DEC LEI.235/2004.16.12.2004.MAET,\
+    \ DR.IS-A [293] de 16.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2004-218332
+  date: '2004-12-16'
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:16:34Z'
   warnings: []
   errors: []
 ---
@@ -277,28 +298,28 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 18 de Maio de 2000.**
+Promulgado em 18 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Maio de 2000.**
+Referendado em 25 de Maio de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO I — Especificações das gasolinas sem chumbo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
 
 ## ANEXO II — Especificações do gasóleo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
 
 ## ANEXO III — Especificações das gasolinas sem chumbo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
 
 ## ANEXO IV — Especificações do gasóleo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)](https://files.diariodarepublica.pt/1s/2000/06/129a00/25722577.pdf)

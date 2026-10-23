@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-1973-683204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T04:13:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be837516cb2d37bbed633a2834baef51e12560a19c682faef1acaf2787583165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64046ca49e5867a728be65daa56107b9761340f3999da3ba6b27f5deb3ee79c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:13:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:13:12Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +101,21 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 2971.º, n.º 2, alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 1000000$00
+Artigo 2971.º, n.º 2, alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 1000000$00
 
-###### Artigo 2971.º, n.º 4, alínea a), 1 «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 6000000$00
+Artigo 2971.º, n.º 4, alínea a), 1 «Passagens de ou para o exterior - Por motivo de licença graciosa - A pagar na metrópole» ... 6000000$00
 
-###### Artigo 2971.º, n.º 4, alínea b), 1 «Por quaisquer outros motivos - A pagar na metrópole» ... 9000000$00
+Artigo 2971.º, n.º 4, alínea b), 1 «Por quaisquer outros motivos - A pagar na metrópole» ... 9000000$00
 
-###### Artigo 2972.º; n.º 3, alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 1000000$00
+Artigo 2972.º; n.º 3, alínea a) «Diversas despesas - Despesas com valores selados - A pagar na metrópole» ... 1000000$00
 
-###### Artigo 2972.º, n.º 37, alínea a) «Passagem e auxílio a necessitados - A pagar na metrópole» ... 100000$00
+Artigo 2972.º, n.º 37, alínea a) «Passagem e auxílio a necessitados - A pagar na metrópole» ... 100000$00
 
-###### Artigo 2972.º, n.º 40, alínea a) «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, cancro, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de pobres das províncias ultramarinas - A pagar na metrópole» ... 2300000$00
+Artigo 2972.º, n.º 40, alínea a) «Despesas com assistência médica, tratamento e internamento de casos de tuberculose, cancro, alienação mental e lepra em hospitais, manicómios, casas de saúde e sanatórios de funcionários civis do activo, aposentados e operários do Estado e de pobres das províncias ultramarinas - A pagar na metrópole» ... 2300000$00
 
 ### CAPÍTULO 11.º — Exercícios findos
 
-###### Artigo 2980.º, alínea a) «Para pagamento de despesas não previstas [alínea b) do artigo 5.º do Decreto n.º 22545, de 18 de Maio de 1933] - Na metrópole» ... 100000$00
+Artigo 2980.º, alínea a) «Para pagamento de despesas não previstas [alínea b) do artigo 5.º do Decreto n.º 22545, de 18 de Maio de 1933] - Na metrópole» ... 100000$00
 
 ... 19500000$00
 

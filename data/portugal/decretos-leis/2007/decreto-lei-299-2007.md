@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/299/2007/08/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2007-640666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d32dd3dbd34f6c7034d9728a3024ec919ac005a303d61ad3098c59f5103b9f43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f617ce7f236777ecbe876299d88d130abeedc24a5953e8e153c275ae74cc8be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Denominação de Instituição
+- Educação Pré-escolar
 - Ensino Artístico
 - Ensino não Superior
-- Denominação de Instituição
 - Ensino Oficial
 - Ensino Profissional
 - Ensino Secundário
 - Estabelecimento de Ensino
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/314/1997/11/15/p/dre
@@ -87,16 +87,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686619:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:36Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +169,9 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 O presente decreto-lei define as normas aplicáveis à denominação dos estabelecimentos de educação ou de ensino públicos não superiores.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 3, a denominação dos estabelecimentos de educação ou de ensino públicos não superiores é constituída pelos elementos constantes das alíneas seguintes:
 
@@ -153,7 +187,9 @@ d) No caso das escolas profissionais e das escolas artísticas a denominação d
 
 3 - A inclusão na denominação do estabelecimento de ensino de um nome de um patrono ou outro nome alusivo à região onde a escola se insere, nos termos da alínea b) do n.º 1, é facultativa, excepto nas localidades onde exista mais de um estabelecimento de ensino ou mais de um estabelecimento do mesmo nível ou modalidade de ensino, ou da mesma área de formação, neste último caso quando se trate de escolas profissionais ou artísticas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A denominação dos estabelecimentos de educação ou de ensino públicos é fixada por despacho do Ministro da Educação, sob proposta das entidades a que se refere o número seguinte.
 
@@ -167,7 +203,9 @@ d) No caso das escolas profissionais e das escolas artísticas a denominação d
 
 6 - As pessoas singulares e colectivas, públicas ou privadas, podem escolher nome de patrono ou denominação do estabelecimento de educação ou de ensino, nos termos da alínea b) do artigo 3.º do [Decreto-Lei n.º 388/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1988-354116), de 25 de Outubro, devendo ser observados os critérios definidos nos artigos 2.º e 8.º
 
-###### Artigo 6.º — Instrução do processo
+Artigo 6.º
+
+Instrução do processo
 
 1 - As propostas de denominação dos estabelecimentos de educação ou de ensino, devidamente fundamentadas, são apresentadas, por via electrónica e em formulário próprio, à direcção regional de educação respectiva.
 
@@ -181,11 +219,15 @@ a) Analisar as propostas de denominação dos estabelecimentos de educação ou 
 
 b) Preparar e submeter a proposta de despacho a que se refere o n.º 1 do artigo 3.º ao membro do Governo competente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A denominação dos estabelecimentos de educação ou de ensino atribuída no respectivo diploma de criação ou em diploma posterior é mantida, sem prejuízo das necessárias alterações que decorram da compatibilização com os princípios definidos nos artigos 2.º e 8.º
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os estabelecimentos da rede pública são designados em função do nível de educação ou de ensino ou da modalidade que exclusiva ou prioritariamente ministram, de acordo com a tipologia e designações constantes do quadro n.º 1 anexo ao presente diploma, do qual faz parte integrante.
 
@@ -199,7 +241,9 @@ A denominação dos estabelecimentos de educação ou de ensino atribuída no re
 
 6 - A alteração da denominação atribuída a um estabelecimento de educação ou de ensino ou a um agrupamento de escolas é feita por despacho do Ministro da Educação.
 
-###### Artigo 8.º-A — [...]
+Artigo 8.º-A
+
+[...]
 
 O serviço central a que se refere o artigo 6.º assegura o registo das denominações dos estabelecimentos de educação ou de ensino públicos e a respectiva atribuição de um número de código, a utilizar pelos serviços do Ministério da Educação.»
 
@@ -211,7 +255,7 @@ QUADRO N.º 1
 
 Tipologia dos estabelecimentos de educação ou ensino públicos e respectiva designação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf)
 
 ###### Artigo 2.º — Disposições finais
 
@@ -229,13 +273,13 @@ São revogados os n.os 3 e 4 do artigo 3.º, os n.os 2 e 3 do artigo 8.º, os ar
 
 Visto e aprovado em Conselho de Ministros de 21 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
 
-**Promulgado em 26 de Julho de 2007.**
+Promulgado em 26 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 2 de Agosto de 2007.**
+Referendado em 2 de Agosto de 2007.
 
 Pelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros.
 
@@ -337,4 +381,4 @@ QUADRO N.º 1
 
 Tipologia dos estabelecimentos de educação ou ensino públicos e respectiva designação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16100/0559705600.pdf)

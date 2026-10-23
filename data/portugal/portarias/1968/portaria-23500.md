@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23500-1968-273608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a93c2b11d77e5498290f2b3deb1930b32125021289eac4e4a3adc628f92b0a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b20528b87df2a7bf73a7cfbc690a26a6439da965cd299a10fb559d9806dfae53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:48:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:48:18Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha:
 
 1.º Fixar os seguintes efectivos para as subclasses dos despenseiros e dos cozinheiros da classe da taifa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/17300/10611061.pdf))](https://files.diariodarepublica.pt/1s/1968/07/17300/10611061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/17300/10611061.pdf)
 
 2.º Determinar que a admissão ao curso do 2.º grau se faça proporcionalmente aos efectivos de cada subclasse
 

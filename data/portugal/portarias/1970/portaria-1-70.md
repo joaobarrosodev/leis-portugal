@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1-1970-275261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T03:09:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cb2538bee9ef009cd073b1932b0b925dfc27fc9d83b647aa7da59766a0ffb9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8a46d4e1ff0a49a7e2b89e9d680a0d36240ffcfbd8ed3b4b28930855e2906c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:09:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658425:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:09:58Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +116,7 @@ Sendo, por isso, oportuno agora aplicar aquelas normas:
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, aplicar os artigos 255.º a 302.º do Estatuto do Ciclo Preparatório do Ensino Secundário, aprovado pelo [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, com excepção do n.º 3 do artigo 257.º, n.º 3 do artigo 261.º, n.os 3, 4 e 5 do artigo 262.º, n.º 3 do artigo 271.º e artigos 272.º, 273.º, 274.º, 275.º e 293.º, devendo observar-se as seguintes alterações:
 
-###### Art. 256.º - 1. A habilitação académica exigida aos candidatos a professores do ciclo preparatório é uma das seguintes, ou habilitação declarada equivalente:
+Art. 256.º - 1. A habilitação académica exigida aos candidatos a professores do ciclo preparatório é uma das seguintes, ou habilitação declarada equivalente:
 
 a) Para o 1.º grupo: licenciatura em Filologia Clássica, Ciências Históricas, Ciências Filosóficas, Ciências Histórico-Filosóficas; bacharelato em Filologia Clássica, Ciências Históricas, Ciências Filosóficas, Ciências Histórico-Filosóficas;
 
@@ -122,7 +146,7 @@ a) Para o 1.º e 4.º grupos e para a docência das disciplinas de Desenho e Tra
 
 b) Para a docência das disciplinas de Francês ou Inglês: aprovação num exame ad hoc que revele, além da cultura geral adequada, perfeito conhecimento de uma ou outra dessas línguas, conforme os casos, dispensando-se, todavia, a apreciação da cultura quando esta resulte das habilitações académicas do candidato.
 
-###### Art. 257.º - 1. A cultura pedagógica é comprovada:
+Art. 257.º - 1. A cultura pedagógica é comprovada:
 
 a) Pela aprovação nas disciplinas da Secção de Ciências Pedagógicas das Universidades portuguesas ou habilitação equivalente;
 
@@ -132,7 +156,7 @@ c) Quanto aos Trabalhos Manuais e à Educação Musical, pela aprovação em cur
 
 2. ...
 
-###### Art. 258.º - 1. A prática pedagógica é adquirida com estágio realizado em escolas preparatórias a designar por despacho do Ministro do Ultramar, mediante proposta da Direcção-Geral de Educação.
+Art. 258.º - 1. A prática pedagógica é adquirida com estágio realizado em escolas preparatórias a designar por despacho do Ministro do Ultramar, mediante proposta da Direcção-Geral de Educação.
 
 2. O estágio tem a duração de um ano lectivo, completado com o serviço de exames de fim do ciclo: mas quanto aos candidatos a professores de Educação Física, entrar-se-á em linha de conta com o tempo do estágio incluído no respectivo curso.
 
@@ -140,11 +164,11 @@ c) Quanto aos Trabalhos Manuais e à Educação Musical, pela aprovação em cur
 
 4. Os estagiários poderão ser professores contratados do quadro comum do ultramar ou nomeados professores de serviço eventual, estando obrigados a regência nos termos do artigo 228.º, n.º 1, e artigo 229.º, n.º 2, deste diploma, já aplicados ao ultramar pela [Portaria n.º 23718](https://diariodarepublica.pt/dr/detalhe/portaria/23718-1968-263216), de 20 de Novembro de 1968, e percebendo a correspondente remuneração.
 
-###### Art. 259.º - 1. A abertura do estágio será comunicada por aviso da Direcção Provincial dos Serviços de Educação, publicado no Boletim Oficial da província.
+Art. 259.º - 1. A abertura do estágio será comunicada por aviso da Direcção Provincial dos Serviços de Educação, publicado no Boletim Oficial da província.
 
 2. ...
 
-###### Art. 260.º - 1. ...
+Art. 260.º - 1. ...
 
 2. Os candidatos que sejam professores contratados não necessitam de apresentar os documentos a que se refere o número anterior se já constarem dos seus processos individuais, devendo, no entanto, juntar cópia autêntica do seu registo biográfico.
 
@@ -156,31 +180,31 @@ c) Quanto aos Trabalhos Manuais e à Educação Musical, pela aprovação em cur
 
 6. Do parecer do conselho pedagógico haverá recurso para o Ministro.
 
-###### Art. 261.º - 1. O ingresso no estágio pedagógico será requerido ao governador-geral na Direcção Provincial dos Serviços de Educação, até 20 de Agosto, por candidatos que comprovem possuir as habilitações legais.
+Art. 261.º - 1. O ingresso no estágio pedagógico será requerido ao governador-geral na Direcção Provincial dos Serviços de Educação, até 20 de Agosto, por candidatos que comprovem possuir as habilitações legais.
 
 2. ...
 
-###### Art. 262.º - 1. O ingresso no estágio depende da inspecção médica realizada pela Junta Provincial de Saúde, cujo parecer será fundamentado e concluirá obrigatòriamente pela admissão ou rejeição do candidato e será rigorosamente confidencial.
+Art. 262.º - 1. O ingresso no estágio depende da inspecção médica realizada pela Junta Provincial de Saúde, cujo parecer será fundamentado e concluirá obrigatòriamente pela admissão ou rejeição do candidato e será rigorosamente confidencial.
 
 2. Da decisão da Junta Provincial cabe recurso para a Junta de Saúde do Ultramar.
 
-###### Art. 264.º - 1. O júri da prova de ingresso para os candidatos a professores de Trabalhos Manuais será nomeado pelo governador da província e constituído pelo inspector provincial de Educação ou inspector adjunto do ciclo preparatório do ensino secundário, por um professor de Desenho e um de Trabalhos Manuais, por cada sexo, e por um professor de Língua Portuguesa.
+Art. 264.º - 1. O júri da prova de ingresso para os candidatos a professores de Trabalhos Manuais será nomeado pelo governador da província e constituído pelo inspector provincial de Educação ou inspector adjunto do ciclo preparatório do ensino secundário, por um professor de Desenho e um de Trabalhos Manuais, por cada sexo, e por um professor de Língua Portuguesa.
 
 ...
 
-###### Art. 267.º ...
+Art. 267.º ...
 
 ...
 
 6. A lista dos candidatos aprovados, por ordem decrescente de classificação, será tornada pública por aviso fixado na escola e publicado no Boletim Oficial.
 
-###### Art. 268.º - 1. De todas as sessões do júri se lavrarão actas que, depois de aprovadas, serão assinadas por todos os membros e, no final, enviadas à Direcção e à Inspecção Provincial dos Serviços de Educação.
+Art. 268.º - 1. De todas as sessões do júri se lavrarão actas que, depois de aprovadas, serão assinadas por todos os membros e, no final, enviadas à Direcção e à Inspecção Provincial dos Serviços de Educação.
 
 2. ...
 
 3. Cada um dos membros do júri do exame de admissão ao estágio tem direito à gratificação que for fixada pelos órgãos legislativos das províncias onde se realizarem os estágios, por cada candidato que preste provas, e a outros abonos que forem devidos pelas deslocações a que eventualmente for obrigado.
 
-###### Art. 269.º - 1. Os concorrentes serão graduados segundo:
+Art. 269.º - 1. Os concorrentes serão graduados segundo:
 
 a) As habilitações exigidas no artigo 256.º pela ordem de preferência aí indicada;
 
@@ -194,39 +218,39 @@ e) A frequência com aproveitamento de um curso de formação organizado pela Di
 
 2. A lista dos candidatos admitidos ao estágio será publicada no Boletim Oficial da província.
 
-###### Art. 270.º - 1. A matrícula no estágio realiza-se na secretaria das escolas onde funcionam os serviços de estágio do respectivo grupo de disciplinas ou disciplina dentro dos três dias imediatos à publicação no Boletim Oficial da lista dos candidatos admitidos.
+Art. 270.º - 1. A matrícula no estágio realiza-se na secretaria das escolas onde funcionam os serviços de estágio do respectivo grupo de disciplinas ou disciplina dentro dos três dias imediatos à publicação no Boletim Oficial da lista dos candidatos admitidos.
 
 ...
 
-###### Art. 271.º - 1. ...
+Art. 271.º - 1. ...
 
 2. Poderá ser concedida isenção de propinas e bolsa de estudo aos estagiários que provem carência de recursos em condições a fixar pelo Ministério do Ultramar.
 
-###### Art. 279.º - 1. O estágio é dirigido por professores metodólogos, nomeados em comissão pelo Ministro do Ultramar, sob proposta do director-geral de Educação, ouvidos os governos das províncias, de entre os professores efectivos do ciclo preparatório, do ensino liceal ou do ensino técnico profissional.
+Art. 279.º - 1. O estágio é dirigido por professores metodólogos, nomeados em comissão pelo Ministro do Ultramar, sob proposta do director-geral de Educação, ouvidos os governos das províncias, de entre os professores efectivos do ciclo preparatório, do ensino liceal ou do ensino técnico profissional.
 
 2. O Ministro do Ultramar poderá também designar para o exercício das funções de metodólogo professores dos quadros da metrópole que tenham sido nomeados, em comissão, nos termos do § 1.º do artigo 3.º do [Decreto-Lei n.º 43913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43913-1961-180424), de 14 de Setembro de 1961, para o desempenho de funções docentes nas províncias ultramarinas.
 
 3. ...
 
-###### Art. 281. A orientação dos estágios pertence à Inspecção Provincial de Educação.
+Art. 281. A orientação dos estágios pertence à Inspecção Provincial de Educação.
 
 ...
 
-###### Art. 284.º - 1. ...
+Art. 284.º - 1. ...
 
 2. Para a regência, organização ou direcção das matérias ou actividades indicadas nas alíneas do número anterior poderão ser designados inspectores, metodólogos, professores do ciclo preparatório ou de outros ramos de ensino, ou ainda entidades de reconhecida competência estranhas aos serviços de educação do ultramar, sendo a forma dessa actividade estudada, caso a caso, pela Direcção dos Serviços de Educação.
 
 ...
 
-###### Art. 290.º O conselho dos metodólogos de cada localidade reúne-se na 2.ª quinzena de Junho, sob a presidência do inspector provincial dos Serviços de Educação ou delegado seu, a fim de proceder à classificação dos estagiários.
+Art. 290.º O conselho dos metodólogos de cada localidade reúne-se na 2.ª quinzena de Junho, sob a presidência do inspector provincial dos Serviços de Educação ou delegado seu, a fim de proceder à classificação dos estagiários.
 
 ...
 
-###### Art. 295.º - 1. A admissão ao Exame de Estado é requerida pelos candidatos à Direcção dos Serviços de Educação, de 1 a 6 de Julho do ano em que tiverem terminado o estágio ou em qualquer dos dois anos subsequentes.
+Art. 295.º - 1. A admissão ao Exame de Estado é requerida pelos candidatos à Direcção dos Serviços de Educação, de 1 a 6 de Julho do ano em que tiverem terminado o estágio ou em qualquer dos dois anos subsequentes.
 
 ...
 
-###### Art. 300.º - 1. Terminadas as provas, o júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas das classificações seguintes:
+Art. 300.º - 1. Terminadas as provas, o júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas das classificações seguintes:
 
 a) Classificação da habilitação académica (coeficiente 2);
 
@@ -240,7 +264,7 @@ c) Classificação do Exame de Estado (coeficiente 3).
 
 ...
 
-###### Art. 302.º Os professores do 2.º e 3.º grupos poderão beneficiar, num dos períodos de férias grandes após os Exames de Estado, de um subsídio para a frequência de um curso de férias em países de língua francesa ou inglesa, conforme o grupo, a fixar em despacho do Ministro do Ultramar.
+Art. 302.º Os professores do 2.º e 3.º grupos poderão beneficiar, num dos períodos de férias grandes após os Exames de Estado, de um subsídio para a frequência de um curso de férias em países de língua francesa ou inglesa, conforme o grupo, a fixar em despacho do Ministro do Ultramar.
 
 Ministério do Ultramar, 3 de Janeiro de 1970. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

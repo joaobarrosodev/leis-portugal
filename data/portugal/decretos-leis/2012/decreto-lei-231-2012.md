@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/231/2012/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/231-2012-192437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47cc8eba4955ad8b909b532611e0a04e6fb7b5f35d76e3e6d43790e251656a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 671b6cd31b9d2f07063f31a349bf4947e26e00fbcd3db11ed2970bf987cd62e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
 - Aproximação das Legislações
+- Comércio
 - Contrato de Concessão
 - Definição de Competências
-- Distribuição de Gás
 - Direção Geral de Energia e Geologia
+- Distribuição de Gás
 - Entidade Reguladora dos Serviços Energéticos
+- Gás Natural
 - Informação do Consumidor
 - Preço
-- Serviço Público
 - Rede Nacional de Distribuição de Gás Natural
 - Rede Nacional de Transporte Instalações de Armazenamento e Terminais
+- Serviço Público
 - SGPS
-- Comércio
 relationships:
 - type: cites
   target: celex:32003L0055
@@ -125,15 +125,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/30/2006/02/15/p/dre
 article_structure:
-  article_count: 195
+  article_count: 120
   section_count: 59
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:20Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +200,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 11.º, 12.º, 13.º, 14.º,
 
 4 - O presente decreto-lei incorpora, ainda, a disciplina do Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs para a ordem jurídica interna a Diretiva n.º [2006/123/CE](http://data.europa.eu/eli/dir/2006/123/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa ao mercado interno dos serviços.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -210,7 +212,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 7.º, 8.º, 11.º, 12.º, 13.º, 14.º,
 
 4 - O regime de aquisição do biogás, do gás proveniente da biomassa e dos outros tipos de gás é definido por portaria do membro do Governo responsável pela área da energia, ouvida a ERSE, a Agência Portuguesa do Ambiente e o operador da RNTGN, no âmbito das suas atribuições.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -312,7 +316,9 @@ vv) ...
 
 ww) [Anterior alínea xx).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O exercício das atividades abrangidas pelo presente decreto-lei obedece a princípios de racionalidade e eficácia dos meios a utilizar, contribuindo para a progressiva melhoria da competitividade e eficiência do SNGN e para a realização do mercado interno da energia, num quadro de utilização racional dos recursos, de proteção dos consumidores e de minimização dos impactes ambientais, no respeito pelas disposições legais aplicáveis.
 
@@ -322,7 +328,9 @@ ww) [Anterior alínea xx).]
 
 4 - Sem prejuízo das competências atribuídas a outras entidades administrativas, designadamente à Direção-Geral de Energia e Geologia (DGEG), à Autoridade da Concorrência e à Comissão do Mercado de Valores Mobiliários, no domínio específico das suas atribuições, as atividades de transporte de gás natural, de armazenamento subterrâneo de gás natural, de receção, armazenamento e regaseificação em terminais de GNL, de distribuição e de comercialização de gás natural, de gestão de mercados organizados e de operação logística de mudança de comercializador estão sujeitas a regulação pela Entidade Reguladora dos Serviços Energéticos (ERSE), nos termos previstos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no presente decreto-lei, nos estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, alterado pelo Decreto-Lei n.º 200/2002, de 25 de setembro, e pelo Decreto-Lei n.º 212/2012, de 25 de setembro, e demais legislação aplicável.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +354,9 @@ d) ...
 
 7 - Os custos incorridos pelas entidades titulares das concessões e licenças referidas nos números anteriores em atividades de apoio à supervisão, acompanhamento e fiscalização das suas obrigações apenas podem ser repercutidos na tarifa de uso global do sistema, nos termos da legislação e regulamentos em vigor, mediante autorização prévia da DGEG e desde que tenham sido incorridos de forma justificada e eficiente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -362,7 +372,9 @@ d) ...
 
 7 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -404,7 +416,9 @@ f) [Anterior alínea e).]
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A RNTIAT compreende a rede de transporte de gás natural em alta pressão, as infraestruturas para a respetiva operação, incluindo as estações de redução de pressão e medida de 1.ª classe e respetiva ligação ao cliente final, as infraestruturas de armazenamento subterrâneo de gás natural e os terminais de GNL, bem como as respetivas infraestruturas de ligação à rede de transporte.
 
@@ -418,7 +432,9 @@ f) [Anterior alínea e).]
 
 6 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O planeamento da RNTIAT deve assegurar a existência de capacidade das infraestruturas, o desenvolvimento adequado e eficiente da rede e a segurança do abastecimento, e deve ter em conta as disposições e os objetivos previstos no Regulamento (CE) n.º [715/2009](http://data.europa.eu/eli/reg/2009/715/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de julho, nomeadamente quanto ao plano decenal não vinculativo de desenvolvimento da rede à escala comunitária, no âmbito do mercado interno do gás natural.
 
@@ -438,7 +454,9 @@ c) Planos quinquenais de desenvolvimento e investimento das redes de distribuiç
 
 6 - A elaboração do PDIRGN, no que diz respeito às interligações internacionais, deve ser feita em estreita cooperação com os operadores de rede respetivos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Compete ao operador da RNTGN a gestão técnica global do SNGN.
 
@@ -534,7 +552,9 @@ ff) Apresentar à ERSE, anualmente, um relatório com a descrição das reclama�
 
 7 - A DGEG define no Regulamento da Segurança de Abastecimento e Planeamento as obrigações do operador da RNTGN em matéria de segurança de abastecimento e planeamento.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -546,7 +566,9 @@ ff) Apresentar à ERSE, anualmente, um relatório com a descrição das reclama�
 
 5 - Excecionalmente, mediante autorização do membro do Governo responsável pela área da energia, o operador da RNTGN pode substituir a ligação às redes de distribuição por UAG, quando tal se justifique por motivos de racionalidade económica devendo, nesse caso, a solução adotada ser implementada pelos operadores das redes de distribuição.
 
-###### Artigo 15.º — Obrigações do operador da RNTGN
+Artigo 15.º
+
+Obrigações do operador da RNTGN
 
 São obrigações do operador da RNTGN, nomeadamente:
 
@@ -572,7 +594,9 @@ j) (Revogada.)
 
 l) (Revogada.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -582,7 +606,9 @@ l) (Revogada.)
 
 4 - As concessões de armazenamento subterrâneo de gás natural são exercidas em regime de acesso regulado ou em regime de acesso negociado de terceiros, conforme previsto no Decreto-Lei n.º 30/2006, de 15 de fevereiro.
 
-###### Artigo 17.º — Obrigações dos operadores de armazenamento subterrâneo
+Artigo 17.º
+
+Obrigações dos operadores de armazenamento subterrâneo
 
 São obrigações dos operadores de armazenamento subterrâneo, nomeadamente:
 
@@ -604,7 +630,9 @@ h) [Anterior alínea g).]
 
 i) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado.
 
-###### Artigo 19.º — Obrigações dos operadores de terminal de GNL
+Artigo 19.º
+
+Obrigações dos operadores de terminal de GNL
 
 São obrigações dos operadores de terminal de GNL, nomeadamente:
 
@@ -624,7 +652,9 @@ g) ...
 
 h) Fornecer às entidades reguladoras referidas no n.º 2 do artigo 51.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as informações necessárias ao exercício das suas competências específicas e ao conhecimento do mercado.
 
-###### Artigo 21.º — Obrigações das concessionárias e titulares de licenças de distribuição
+Artigo 21.º
+
+Obrigações das concessionárias e titulares de licenças de distribuição
 
 1 - O disposto no n.º 1 do artigo 8.º é aplicável, com as necessárias adaptações, às entidades titulares das licenças de serviço público de distribuição local de gás natural exercidas em regime de serviço público, nos termos do artigo 22.º
 
@@ -654,7 +684,9 @@ k) Apresentar à ERSE, anualmente, um relatório com a descrição das reclamaç
 
 3 - As concessionárias ou titulares de licenças de distribuição podem assumir, nos termos a prever na regulamentação da ERSE, obrigações de compensação das respetivas redes de distribuição.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -664,13 +696,17 @@ k) Apresentar à ERSE, anualmente, um relatório com a descrição das reclamaç
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
 2 - O modelo da licença, os procedimentos e requisitos para a sua atribuição e transmissão, bem como o regime de exploração da respetiva rede de distribuição são definidos por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os pedidos para atribuição de licenças de distribuição da RNDGN para polos de consumo são dirigidos ao membro do Governo responsável pela área da energia e entregues na DGEG, que os publicita, através de aviso, na 2.ª série do Diário da República, bem como no respetivo sítio na Internet, durante um prazo não inferior a seis meses.
 
@@ -680,7 +716,9 @@ k) Apresentar à ERSE, anualmente, um relatório com a descrição das reclamaç
 
 4 - (Revogado.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - As licenças para utilização privativa são atribuídas pelo diretor-geral da DGEG e podem ser requeridas por quaisquer entidades que demonstrem interesse particular na veiculação de gás natural em rede, alimentada por ramal ou por UAG, destinada ao abastecimento de um consumidor e considerada, para todos os efeitos, como parte integrante das instalações de utilização final, em qualquer das seguintes situações:
 
@@ -704,7 +742,9 @@ b) ...
 
 9 - O regime aplicável às redes privativas, nomeadamente no que respeita à contratação do transporte de GNL através de camião-cisterna e à respetiva ligação às redes de distribuição, nos termos previstos no n.º 5, é objeto de legislação específica.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -716,7 +756,9 @@ c) Seguro de responsabilidade civil, nos termos previstos no artigo 6.º
 
 2 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A comercialização de gás natural efetua-se nos termos estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no presente decreto-lei e demais legislação e regulamentação aplicáveis.
 
@@ -726,7 +768,9 @@ c) Seguro de responsabilidade civil, nos termos previstos no artigo 6.º
 
 4 - Excetua-se do disposto no n.º 2 a atividade de comercialização de último recurso, que está sujeita a licença e a regulação nos termos previstos no presente decreto-lei e em legislação e regulamentação complementares.
 
-###### Artigo 33.º — Conteúdo do registo de comercialização
+Artigo 33.º
+
+Conteúdo do registo de comercialização
 
 O registo para o exercício da atividade de comercialização de gás natural deve conter, nomeadamente, os seguintes elementos:
 
@@ -734,7 +778,9 @@ a) A identificação do titular;
 
 b) A data e número de ordem do registo.
 
-###### Artigo 34.º — Procedimento de registo
+Artigo 34.º
+
+Procedimento de registo
 
 1 - O pedido de registo como comercializador de gás natural é apresentado no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, do domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, do telefone, fax e endereço eletrónico.
 
@@ -770,7 +816,9 @@ h) Documento contendo identificação dos meios utilizados para cumprimento das 
 
 9 - Pelos custos da apreciação do pedido e da efetivação do registo é devida uma taxa que reverte a favor da DGEG, cujo montante é fixado por portaria do membro do Governo responsável pela área da energia.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Constituem direitos dos comercializadores de gás natural, para além do exercício da atividade nos termos da legislação e da regulamentação aplicáveis, nomeadamente os seguintes:
 
@@ -810,7 +858,9 @@ m) Apresentar propostas de fornecimento de gás natural para as quais disponha d
 
 n) Assegurar a constituição e manutenção de reservas de segurança de gás natural de acordo com o previsto no presente decreto-lei e a regulamentação em vigor.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - Os contratos dos comercializadores com os clientes regem-se por princípios de transparência, informação e equidade, devendo especificar os seguintes elementos:
 
@@ -852,7 +902,9 @@ c) Qualquer diferença nos termos e condições contratuais deve refletir os cus
 
 9 - (Revogado.)
 
-###### Artigo 37.º — Prazo, extinção e transmissão do título de registo de comercializador de gás natural
+Artigo 37.º
+
+Prazo, extinção e transmissão do título de registo de comercializador de gás natural
 
 1 - Os registos de comercialização de gás natural são efetuados por prazo indeterminado, sem prejuízo da sua extinção nos termos do presente decreto-lei.
 
@@ -874,7 +926,9 @@ d) Não iniciar o exercício da atividade no prazo de um ano após o seu registo
 
 6 - O registo de comercializador de gás natural é pessoal e intransmissível, ressalvadas as situações de reestruturação societária.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - Os comercializadores ficam obrigados a enviar à ERSE, anualmente e sempre que ocorram alterações, nos termos definidos no Regulamento de Relações Comerciais, uma tabela dos preços de referência que se propõem praticar para os clientes de baixa pressão no âmbito da comercialização de gás natural.
 
@@ -900,13 +954,17 @@ b) Enviar à ERSE, semestralmente, os preços efetivamente praticados em relaç�
 
 10 - Para efeitos do n.º 8, os custos médios de referência para a aquisição de gás natural são determinados de acordo com o mecanismo de aprovisionamento eficiente de gás natural por parte dos comercializadores de último recurso retalhistas previsto no Regulamento Tarifário.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - No âmbito do funcionamento de mercados constituídos ao abrigo de acordos internacionais de que o Estado Português seja parte signatária, o reconhecimento de comercializador por uma das partes determina o reconhecimento automático pela outra, nos termos previstos nos respetivos acordos.
 
 2 - Compete à DGEG efetuar o registo dos comercializadores reconhecidos nos termos do número anterior.
 
-###### Artigo 40.º — Comercializadores de último recurso
+Artigo 40.º
+
+Comercializadores de último recurso
 
 1 - A atividade de comercialização de último recurso é exercida em regime de serviço público, nos termos estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, e no presente decreto-lei, ficando sujeita à atribuição de licença.
 
@@ -920,7 +978,9 @@ b) Enviar à ERSE, semestralmente, os preços efetivamente praticados em relaç�
 
 6 - A atribuição de novas licenças de comercializador de último recurso fica dependente da sua prévia sujeição à concorrência, mediante o lançamento de procedimentos pré-contratuais, cujas peças são aprovadas por despacho do membro do Governo responsável pela área da energia.
 
-###### Artigo 41.º — Direitos e deveres dos comercializadores de último recurso retalhistas
+Artigo 41.º
+
+Direitos e deveres dos comercializadores de último recurso retalhistas
 
 1 - Constitui direito dos comercializadores de último recurso retalhistas o exercício da atividade licenciada nos termos da legislação e da regulamentação aplicáveis.
 
@@ -948,7 +1008,9 @@ g) [Anterior alínea d)].
 
 6 - Se se verificar ausência de alternativa de comercializadores registados decorrido o período previsto no número anterior, é aplicável o disposto na alínea c) do n.º 3.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Com vista a garantir o abastecimento necessário à satisfação dos contratos com clientes finais, o comercializador de último recurso grossista deve adquirir as quantidades de gás natural que lhe sejam solicitadas pelos comercializadores de último recurso retalhistas, podendo, para o efeito, adquirir gás natural ao comercializador do SNGN, diretamente ou através de leilões, no âmbito dos contratos de aprovisionamento de longo prazo em regime de take or pay, celebrados em data anterior à entrada em vigor da Diretiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento e do Conselho, de 26 de junho, ou em mercados organizados ou ainda através de contratos bilaterais, assegurando, em qualquer caso, que o respetivo preço seja o mais baixo de entre os praticados na data da aquisição.
 
@@ -960,13 +1022,17 @@ g) [Anterior alínea d)].
 
 5 - Os comercializadores de último recurso retalhistas aplicam a clientes finais com consumos anuais iguais ou inferiores a 10 000 m3, a título transitório, e, de forma contínua, aos clientes economicamente vulneráveis, as tarifas transitórias de venda previstas no artigo 4.º do Decreto-Lei n.º 74/2012, de 26 de março, conforme publicadas pela ERSE, de acordo com o estabelecido no Regulamento Tarifário.
 
-###### Artigo 43.º — Prazo das licenças de comercialização de último recurso
+Artigo 43.º
+
+Prazo das licenças de comercialização de último recurso
 
 1 - A licença de comercialização de último recurso grossista é válida até 2028.
 
 2 - As licenças de comercialização de último recurso retalhista têm uma duração correspondente à dos contratos de concessão ou à das licenças de distribuição de gás natural.
 
-###### Artigo 44.º — Operador logístico de mudança de comercializador
+Artigo 44.º
+
+Operador logístico de mudança de comercializador
 
 1 - O operador logístico de mudança de comercializador é a entidade que tem atribuições no âmbito da gestão da mudança de comercializador de gás natural, podendo incluir, nomeadamente, a gestão dos equipamentos de medida, a recolha de informação local ou a distância e o fornecimento de informação sobre o consumo aos agentes de mercado.
 
@@ -980,7 +1046,9 @@ g) [Anterior alínea d)].
 
 6 - O operador logístico de mudança de comercializador pode ser comum para o SNGN e para o SEN.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -994,7 +1062,9 @@ g) [Anterior alínea d)].
 
 6 - ...
 
-###### Artigo 46.º — Operadores de mercado
+Artigo 46.º
+
+Operadores de mercado
 
 1 - Os operadores de mercado são as entidades responsáveis pela gestão do mercado organizado e pela concretização de atividades conexas, nos termos do número seguinte, da legislação prevista no n.º 3 do artigo anterior e, subsidiariamente, das disposições da legislação financeira aplicáveis aos mercados em que se realizem operações a prazo.
 
@@ -1010,7 +1080,9 @@ d) Comunicar ao operador da RNTGN toda a informação relevante para a gestão t
 
 3 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -1048,7 +1120,9 @@ g) (Revogada.)
 
 3 - (Revogado.)
 
-###### Artigo 48.º — Medidas de salvaguarda e de emergência
+Artigo 48.º
+
+Medidas de salvaguarda e de emergência
 
 1 - Em caso de crise repentina no mercado da energia e de ameaça à segurança física ou outra, de pessoas, equipamentos, instalações, ou à integridade das redes, designadamente por via de acidente grave ou evento de força maior, o membro do Governo responsável pela área da energia pode tomar, a título transitório e temporariamente, as medidas de salvaguarda necessárias.
 
@@ -1064,7 +1138,9 @@ g) (Revogada.)
 
 7 - As medidas que sejam tomadas ao abrigo do presente artigo são comunicadas e, no caso previsto no número anterior, devidamente fundamentadas à Comissão Europeia, e devem permitir que os operadores de mercado, sempre que tal seja possível ou adequado, deem uma primeira resposta às situações de perturbação no aprovisionamento.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - Os comercializadores em regime de mercado e os comercializadores de último recurso retalhistas estão sujeitos à obrigação de assegurar a constituição e manutenção de reservas de segurança para garantia de abastecimento dos seus clientes, nos termos do Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro.
 
@@ -1088,7 +1164,9 @@ g) (Revogada.)
 
 11 - (Revogado.)
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Com observância dos critérios de contagem estabelecidos no presente decreto-lei, a quantidade global mínima de reservas de segurança de gás natural é fixada por portaria do membro do Governo responsável pela área da energia, não podendo ser inferior às quantidades necessárias a assegurar os consumos dos clientes protegidos e a fazer face aos consumos não interruptíveis dos centros eletroprodutores em regime ordinário nas situações referidas nas alíneas a) a c) do n.º 2 do artigo 52.º
 
@@ -1096,7 +1174,9 @@ g) (Revogada.)
 
 3 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -1112,7 +1192,9 @@ c) Navios metaneiros que se encontrem em trânsito devidamente assegurado para u
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - A competência para autorizar ou para determinar o uso das reservas de segurança em caso de perturbação grave do abastecimento pertence ao membro do Governo responsável pela área da energia, tendo em consideração o interesse nacional, as obrigações assumidas em acordos internacionais e o definido no plano de emergência.
 
@@ -1126,7 +1208,9 @@ c) Procura excecionalmente elevada de gás natural durante um período de, pelo 
 
 3 - ...
 
-###### Artigo 53.º — Obrigações dos operadores da RNTIAT em matéria de segurança do abastecimento
+Artigo 53.º
+
+Obrigações dos operadores da RNTIAT em matéria de segurança do abastecimento
 
 1 - Enquanto responsável pela gestão técnica global do SNGN, e sem prejuízo do disposto no artigo 13.º, compete ao operador da RNTGN em matéria de segurança do abastecimento:
 
@@ -1140,7 +1224,9 @@ d) Reportar à DGEG e à ERSE as situações verificadas de incumprimento das ob
 
 2 - As entidades concessionárias de armazenamento subterrâneo e de terminal de GNL devem dar prioridade, em termos de utilização da capacidade de armazenamento, à constituição e manutenção das reservas de segurança.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 ...
 
@@ -1164,7 +1250,9 @@ i) Regulamento da RNDGN;
 
 j) Regulamento da Segurança de Abastecimento e Planeamento.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - O regulamento de armazenamento subterrâneo estabelece:
 
@@ -1182,7 +1270,9 @@ d) As condições de acesso às infraestruturas e de gestão da segurança pelos
 
 4 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - O regulamento da RNTGN, o regulamento da RNDGN, o regulamento de armazenamento subterrâneo e o regulamento de terminal de receção, armazenamento e regaseificação de GNL são aprovados por portaria do membro do Governo responsável pela área da energia, sob proposta da DGEG, a qual, na sua preparação, deve solicitar o parecer da ERSE e propostas às respetivas entidades concessionárias e, no caso do regulamento da RNDGN, também às entidades licenciadas.
 
@@ -1190,7 +1280,9 @@ d) As condições de acesso às infraestruturas e de gestão da segurança pelos
 
 3 - O regulamento da segurança de abastecimento e planeamento é aprovado pela DGEG, ouvida a ERSE, sendo a sua aplicação da competência da DGEG.
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - As novas infraestruturas relativas a interligações, a instalações de armazenamento subterrâneo e a terminais de GNL, bem como os aumentos significativos de capacidade nas infraestruturas existentes e as alterações das infraestruturas que permitam o desenvolvimento de novas fontes de fornecimento de gás, podem beneficiar das derrogações previstas nos termos do artigo 36.º da Diretiva n.º [2009/73/CE](http://data.europa.eu/eli/dir/2009/73/oj?locale=pt), do Parlamento e do Conselho, de 13 de junho, tendo em consideração o seguinte:
 
@@ -1216,7 +1308,9 @@ d) Que a derrogação não prejudica a concorrência nem o bom funcionamento do 
 
 8 - A aprovação pela Comissão Europeia de uma decisão de derrogação deixa de produzir efeitos dois anos após a sua adoção, caso a construção da infraestrutura não se tenha ainda iniciado, ou cinco anos após a referida adoção, se a infraestrutura não estiver ainda operacional, salvo se a Comissão decidir que os atrasos são devidos a obstáculos relevantes, para além do controlo da entidade a quem a derrogação foi concedida.
 
-###### Artigo 75.º — Apresentação do PDIRGN e PDIRD
+Artigo 75.º
+
+Apresentação do PDIRGN e PDIRD
 
 As primeiras propostas de PDIRGN e PDIRD, elaborados nos termos dos artigos 12.º e 12.º-A, são apresentadas até ao final dos primeiros trimestres de 2013 e 2014, respetivamente.»
 
@@ -1250,7 +1344,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 5 - ...
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -1258,7 +1354,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - O não cumprimento das obrigações previstas no número anterior constitui incumprimento do contrato de concessão, incluindo para efeitos do disposto na base xxxviii.
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - ...
 
@@ -1272,13 +1370,17 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 6 - (Anterior n.º 3.)
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - (Anterior corpo da base.)
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-las com antecedência razoável aos utilizadores afetados pelas mesmas.
 
-###### Base XII — [...]
+Base XII
+
+[...]
 
 1 - ...
 
@@ -1294,7 +1396,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 7 - ...
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -1302,7 +1406,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XV — [...]
+Base XV
+
+[...]
 
 1 - ...
 
@@ -1310,7 +1416,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - A aprovação de quaisquer projetos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de conceção, de projeto ou da inadequação das instalações e do equipamento ao serviço da concessão.
 
-###### Base XVII — [...]
+Base XVII
+
+[...]
 
 1 - ...
 
@@ -1322,7 +1430,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 5 - ...
 
-###### Base XVIII — [...]
+Base XVIII
+
+[...]
 
 1 - A concessionária é responsável pela exploração e pela manutenção das infraestruturas que integram a RNTGN e respetivas instalações em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
@@ -1334,7 +1444,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 5 - No âmbito do exercício da atividade concessionada, a concessionária deve gerir os fluxos de gás natural, assegurando a sua interoperacionalidade com as redes e demais infraestruturas a que esteja ligada, no respeito pela regulamentação aplicável.
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos no n.º 4 da base i que o concedente entenda dever solicitar-lhe, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia e, em particular, os obtidos no âmbito do exercício da atividade de gestão técnica global do SNGN, nos termos da base xxvii-A.
 
@@ -1346,13 +1458,17 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 5 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei aplicável.
 
-###### Base XXIV — [...]
+Base XXIV
+
+[...]
 
 1 - Sem prejuízo das medidas de emergência que podem ser adotadas pelo concedente, se se verificar uma situação que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
 
 2 - ...
 
-###### Base XXVI — [...]
+Base XXVI
+
+[...]
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -1362,7 +1478,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 4 - (Anterior n.º 3.)
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 1 - No âmbito da gestão técnica global do SNGN, a concessionária deve proceder à coordenação sistémica das infraestruturas que constituem o SNGN, por forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e a continuidade do abastecimento de gás natural nos curto, médio e longo prazos, mediante o exercício das seguintes funções:
 
@@ -1442,7 +1560,9 @@ z) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 6 - O exercício da atividade de gestão técnica global do SNGN desenvolve-se nos termos da legislação e regulamentação aplicáveis, designadamente, do Regulamento de Relações Comerciais, do Regulamento de Operação das Infraestruturas, do Regulamento do Acesso às Redes, às Infraestruturas e às Interligações e do Regulamento da RNTGN, e do contrato de concessão.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - O planeamento da RNTIAT deve ser efetuado de modo a assegurar a existência de capacidade das infraestruturas e o desenvolvimento sustentado e eficiente da rede e deve ser devidamente coordenado com o planeamento das infraestruturas e das instalações com que se interliga.
 
@@ -1454,7 +1574,9 @@ b) PDIRGN, que tenha em consideração os planos quinquenais de desenvolvimento 
 
 3 - A caracterização da RNTIAT e a proposta de PDIRGN devem ser submetidas pela concessionária à DGEG, com a periodicidade de dois anos, até ao final do primeiro trimestre de cada ano ímpar.
 
-###### Base XXX — [...]
+Base XXX
+
+[...]
 
 1 - Constitui obrigação da concessionária controlar a constituição, a manutenção e a libertação das reservas de segurança de gás natural, de forma transparente e não discriminatória, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -1462,7 +1584,9 @@ b) PDIRGN, que tenha em consideração os planos quinquenais de desenvolvimento 
 
 3 - ...
 
-###### Base XXXII — Supervisão, acompanhamento e fiscalização
+Base XXXII
+
+Supervisão, acompanhamento e fiscalização
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -1484,7 +1608,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
 
-###### Base XXXIV — [...]
+Base XXXIV
+
+[...]
 
 1 - ...
 
@@ -1500,7 +1626,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 7 - (Anterior n.º 6.)
 
-###### Base XXXVI — [...]
+Base XXXVI
+
+[...]
 
 1 - ...
 
@@ -1510,7 +1638,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 4 - (Anterior n.º 3.)
 
-###### Base XXXVIII — Sanções contratuais
+Base XXXVIII
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 10 000 000.
 
@@ -1534,7 +1664,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
 
-###### Base XXXIX — [...]
+Base XXXIX
+
+[...]
 
 1 - ...
 
@@ -1560,7 +1692,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 9 - ...
 
-###### Base XLII — [...]
+Base XLII
+
+[...]
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -1568,7 +1702,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - ...
 
-###### Base XLIII — [...]
+Base XLIII
+
+[...]
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos um ano de antecedência.
 
@@ -1582,7 +1718,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 6 - ...
 
-###### Base XLIV — [...]
+Base XLIV
+
+[...]
 
 1 - ...
 
@@ -1634,7 +1772,9 @@ As bases iv, v, vi, ix, xiii, xiv, xviii, xix, xx, xxviii, xxx, xxxii, xxxiv, xx
 
 4 - (Anterior n.º 3.)
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -1656,7 +1796,9 @@ g) Fornecer os serviços destinados a satisfazer, de forma transparente e não d
 
 h) Atribuir as capacidades de injeção, armazenamento e extração em coordenação com o operador da rede de transporte, no quadro da gestão técnica global do SNGN, tendo em conta a compatibilização de fluxos e quantidades de gás entre as duas infraestruturas.
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - ...
 
@@ -1670,13 +1812,17 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 6 - (Anterior n.º 5.)
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - (Anterior corpo da base.)
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -1686,7 +1832,9 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 4 - ...
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -1694,7 +1842,9 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XVIII — [...]
+Base XVIII
+
+[...]
 
 1 - ...
 
@@ -1706,13 +1856,17 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 5 - ...
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - A concessionária é responsável pela exploração das infraestruturas e manutenção das capacidades de armazenamento em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
 2 - ...
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
 
@@ -1726,7 +1880,9 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os agentes diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -1736,7 +1892,9 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 4 - (Anterior n.º 3.)
 
-###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+Base XXX
+
+Supervisão, acompanhamento, fiscalização e regulação
 
 1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis.
 
@@ -1758,7 +1916,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
 
-###### Base XXXII — [...]
+Base XXXII
+
+[...]
 
 1 - ...
 
@@ -1774,7 +1934,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 7 - (Anterior n.º 6.)
 
-###### Base XXXIV — [...]
+Base XXXIV
+
+[...]
 
 1 - ...
 
@@ -1784,7 +1946,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 4 - (Anterior n.º 3.)
 
-###### Base XXXVI — Sanções contratuais
+Base XXXVI
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
 
@@ -1808,7 +1972,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
 
-###### Base XXXVII — [...]
+Base XXXVII
+
+[...]
 
 1 - ...
 
@@ -1834,7 +2000,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 9 - ...
 
-###### Base XL — [...]
+Base XL
+
+[...]
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -1842,7 +2010,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - ...
 
-###### Base XLII — [...]
+Base XLII
+
+[...]
 
 1 - ...
 
@@ -1892,7 +2062,9 @@ As bases i, v, vi, ix, xiii, xiv, xviii, xix, xx, xxviii, xxx, xxxii, xxxiv, xxx
 
 3 - ...
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -1916,7 +2088,9 @@ h) Fornecer os serviços destinados a satisfazer, de forma transparente e não d
 
 i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navios metaneiros para o terminal respeita as especificações de qualidade dispostas na legislação e regulamentação aplicáveis, em coordenação com o operador da rede de transporte no quadro da gestão técnica global do SNGN.
 
-###### Base VI — [...]
+Base VI
+
+[...]
 
 1 - ...
 
@@ -1930,13 +2104,17 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 6 - (Anterior n.º 4.)
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - (Anterior corpo da base.)
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 1 - ...
 
@@ -1946,7 +2124,9 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 4 - ...
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 1 - ...
 
@@ -1954,7 +2134,9 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XVIII — [...]
+Base XVIII
+
+[...]
 
 1 - ...
 
@@ -1966,13 +2148,17 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 5 - ...
 
-###### Base XIX — [...]
+Base XIX
+
+[...]
 
 1 - A concessionária é responsável pela exploração das infraestruturas que integram a concessão, e respetivas instalações, em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
 2 - ...
 
-###### Base XX — [...]
+Base XX
+
+[...]
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
 
@@ -1986,7 +2172,9 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os utilizadores diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
 
-###### Base XXVIII — [...]
+Base XXVIII
+
+[...]
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -1996,7 +2184,9 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 4 - (Anterior n.º 3.)
 
-###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+Base XXX
+
+Supervisão, acompanhamento, fiscalização e regulação
 
 1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -2018,7 +2208,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 6 - A concessionária deve constituir e manter um seguro de acidentes pessoais, de montante a definir no contrato de concessão, de modo a cobrir os riscos inerentes ao exercício pelo pessoal das entidades fiscalizadora e reguladora das suas funções nas instalações da concessionária.
 
-###### Base XXXII — [...]
+Base XXXII
+
+[...]
 
 1 - ...
 
@@ -2034,7 +2226,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 7 - (Anterior n.º 6.)
 
-###### Base XXXIV — [...]
+Base XXXIV
+
+[...]
 
 1 - ...
 
@@ -2044,7 +2238,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 4 - (Anterior n.º 3.)
 
-###### Base XXXVI — Sanções contratuais
+Base XXXVI
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante é variável, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
 
@@ -2068,7 +2264,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
 
-###### Base XXXVII — [...]
+Base XXXVII
+
+[...]
 
 1 - ...
 
@@ -2094,7 +2292,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 9 - ...
 
-###### Base XL — [...]
+Base XL
+
+[...]
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -2102,7 +2302,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - ...
 
-###### Base XLI — [...]
+Base XLI
+
+[...]
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos 1 ano de antecedência.
 
@@ -2116,7 +2318,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 6 - ...
 
-###### Base XLII — [...]
+Base XLII
+
+[...]
 
 1 - ...
 
@@ -2188,7 +2392,9 @@ Procedimento na sequência de pedido do interessado
 
 5 - O disposto no presente artigo não é aplicável à atribuição de novas concessões de armazenamento subterrâneo na sequência da apresentação de pedidos de autorização de trabalhos de pesquisa geológica, de acordo com o Regulamento de Armazenamento Subterrâneo, a qual observa os termos e procedimentos definidos na portaria referida no número anterior.
 
-###### Artigo 12.º-A — Procedimento de elaboração do PDIRGN
+Artigo 12.º-A
+
+Procedimento de elaboração do PDIRGN
 
 1 - A proposta de PDIRGN deve ser apresentada pelo operador da RNTGN à DGEG até ao final do 1.º trimestre de cada ano ímpar ou, no caso previsto no n.º 3 do artigo anterior, até ao final do 1.º trimestre de cada ano.
 
@@ -2212,7 +2418,9 @@ Procedimento na sequência de pedido do interessado
 
 11 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RNTIAT previstos no PDIRGN, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
 
-###### Artigo 12.º-B — Planeamento da RNDGN
+Artigo 12.º-B
+
+Planeamento da RNDGN
 
 1 - O planeamento da RNDGN deve ser efetuado de forma a assegurar a existência de capacidade nas redes para a receção e entrega de gás natural, com níveis adequados de qualidade de serviço e de segurança, no âmbito do mercado interno de gás natural.
 
@@ -2220,7 +2428,9 @@ Procedimento na sequência de pedido do interessado
 
 3 - Os PDIRD devem basear-se na caracterização técnica das redes e na oferta e procura, atuais e previstas, aferidas com base na análise do mercado, devem estar coordenados com o PDIRGN e ter em conta o objetivo de facilitar o desenvolvimento de medidas de gestão da procura.
 
-###### Artigo 12.º-C — Procedimento de elaboração dos PDIRD
+Artigo 12.º-C
+
+Procedimento de elaboração dos PDIRD
 
 1 - Os operadores da RNDGN devem apresentar a respetiva proposta de PDIRD à DGEG até ao final de abril de cada ano par.
 
@@ -2246,7 +2456,9 @@ Procedimento na sequência de pedido do interessado
 
 12 - Cabe à ERSE acompanhar e fiscalizar a calendarização, orçamentação e execução dos projetos de investimento na RNDGN previstos nos PDIRD, que ficam sujeitos ao seu parecer vinculativo, no âmbito das suas atribuições, não podendo este parecer versar sobre questões estratégicas de desenvolvimento da rede ou relacionadas com a segurança do abastecimento.
 
-###### Artigo 17.º-A — Relacionamento entre operadores de armazenamento subterrâneo de gás natural
+Artigo 17.º-A
+
+Relacionamento entre operadores de armazenamento subterrâneo de gás natural
 
 1 - Quando cavidades de diversos operadores interliguem a uma estação de gás, ao operador em cuja concessão se integre esta estação compete gerir a receção, a compressão, a injeção, o armazenamento, a extração, a medição e o envio de gás natural para a RNTGN, de acordo com as solicitações dos agentes de mercado, assegurando a interoperacionalidade com a RNTGN, no quadro da atividade de gestão técnica global do SNGN.
 
@@ -2260,7 +2472,9 @@ Procedimento na sequência de pedido do interessado
 
 6 - Caso os operadores não cheguem a um entendimento relativamente às matérias constantes dos n.os 2, 3 e 4, pode a DGEG, a todo o tempo, emitir, sob a forma de despacho, um manual de procedimentos a tal respeitante, com base nas propostas dos operadores.
 
-###### Artigo 29.º-A — Redes de distribuição fechadas
+Artigo 29.º-A
+
+Redes de distribuição fechadas
 
 1 - Considera-se rede de distribuição fechada uma rede que distribua gás natural no interior de um sítio industrial, comercial ou de serviços partilhados geograficamente circunscrito, fora do âmbito das concessões e licenças de distribuição de gás natural, e que não abasteça clientes domésticos, desde que se reúna um dos seguintes requisitos:
 
@@ -2280,11 +2494,15 @@ b) A rede distribua gás natural essencialmente ao proprietário ou ao operador 
 
 7 - Caso um utilizador de uma rede fechada não concorde com as tarifas de acesso ou as suas metodologias, por falta de transparência ou razoabilidade, pode solicitar a intervenção da ERSE para analisar e, caso necessário, fixar as tarifas segundo as metodologias a estabelecer por esta entidade nos seus regulamentos.
 
-###### Artigo 34.º-A — Listagem de comercializadores de gás natural registados
+Artigo 34.º-A
+
+Listagem de comercializadores de gás natural registados
 
 A DGEG divulga no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio na Internet, mantendo periodicamente atualizada, a lista dos comercializadores de gás natural reconhecidos nos termos do presente decreto-lei, com indicação do nome ou firma, domicílio profissional ou sede, telefone, fax, endereço eletrónico e data do respetivo registo.
 
-###### Artigo 36.º-A — Reclamações e pedidos de clientes
+Artigo 36.º-A
+
+Reclamações e pedidos de clientes
 
 1 - Sem prejuízo dos casos em que haja lugar à aplicação do regime previsto no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, e 317/2009, de 30 de outubro, os comercializadores devem implementar procedimentos adequados ao tratamento célere e harmonizado de reclamações e pedidos de informações que lhe sejam apresentadas pelos clientes.
 
@@ -2296,11 +2514,15 @@ A DGEG divulga no balcão único eletrónico dos serviços referido no artigo 6.
 
 5 - A ERSE publica na plataforma referida no artigo 38.º-A as conclusões dos relatórios apresentados nos termos do número anterior, com a indicação do número de reclamações recebidas e do comercializador em causa.
 
-###### Artigo 36.º-B — Resolução extrajudicial de conflitos
+Artigo 36.º-B
+
+Resolução extrajudicial de conflitos
 
 Sem prejuízo do recurso aos tribunais e às entidades responsáveis pela defesa e promoção dos direitos dos consumidores, os litígios de consumo podem ser sujeitos a arbitragem necessária, nos termos previstos no artigo 15.º da Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, e 44/2011, de 22 de junho.
 
-###### Artigo 36.º-C — Sistemas inteligentes
+Artigo 36.º-C
+
+Sistemas inteligentes
 
 1 - A implementação de sistemas destinados a medir e gerir a informação relativa ao gás natural (sistemas inteligentes) depende de:
 
@@ -2312,7 +2534,9 @@ b) Estudo que determine qual o modelo de sistema inteligente economicamente mais
 
 3 - A portaria prevista no número anterior prevê, nomeadamente, os requisitos técnicos e funcionais do sistema inteligente, os respetivos calendários de instalação, o modo de financiamento dos custos inerentes e de repercussão desses custos na tarifa de uso global do sistema, devendo assegurar a interoperabilidade dos sistemas de medida a implementar e ter em conta o respeito das normas apropriadas e das boas práticas, bem como a importância do desenvolvimento do mercado interno do gás natural.
 
-###### Artigo 38.º-A — Informação centralizada aos consumidores
+Artigo 38.º-A
+
+Informação centralizada aos consumidores
 
 1 - A ERSE publica na plataforma centralizada a que se refere a alínea a) do n.º 3 do artigo 6.º do Decreto-Lei n.º 30/2006, de 15 de fevereiro, as seguintes informações:
 
@@ -2326,7 +2550,9 @@ d) A identificação dos meios à disposição dos consumidores para o tratament
 
 2 - A plataforma referida no número anterior é gerida e disponibilizada pela ERSE diretamente no seu sítio na Internet.
 
-###### Artigo 38.º-B — Deveres dos consumidores
+Artigo 38.º-B
+
+Deveres dos consumidores
 
 Constituem deveres dos consumidores:
 
@@ -2338,7 +2564,9 @@ c) Manter em condições de segurança as suas infraestruturas e equipamentos, n
 
 d) Facultar todas as informações estritamente necessárias ao fornecimento de gás natural.
 
-###### Artigo 39.º-A — Atividade do comercializador do SNGN
+Artigo 39.º-A
+
+Atividade do comercializador do SNGN
 
 1 - O comercializador do SNGN é a entidade titular dos contratos de longo prazo em regime de take or pay celebrados em data anterior à entrada em vigor da Diretiva n.º [2003/55/CE](http://data.europa.eu/eli/dir/2003/55/oj?locale=pt), do Parlamento e do Conselho, de 26 de junho.
 
@@ -2350,7 +2578,9 @@ b) Centros eletroprodutores com contrato de fornecimento outorgado em data anter
 
 c) Outras entidades, sem prejuízo do fornecimento às entidades referidas nas alíneas anteriores.
 
-###### Artigo 39.º-B — Leilões de gás natural
+Artigo 39.º-B
+
+Leilões de gás natural
 
 1 - Com o objetivo de facilitar a entrada de novos agentes no mercado de gás natural, o Regulamento das Relações Comerciais pode prever a realização pelo comercializador do SNGN de leilões anuais de gás natural para satisfação de consumos nacionais.
 
@@ -2358,7 +2588,9 @@ c) Outras entidades, sem prejuízo do fornecimento às entidades referidas nas a
 
 3 - Os termos e condições de realização dos leilões são aprovados pela ERSE, na sequência de proposta apresentada pelo comercializador do SNGN.
 
-###### Artigo 43.º-A — Transmissão, modificação e extinção das licenças de comercialização de último recurso
+Artigo 43.º-A
+
+Transmissão, modificação e extinção das licenças de comercialização de último recurso
 
 1 - A transmissão da licença de comercialização de último recurso retalhista depende de autorização da entidade emitente, desde que se mantenham os pressupostos que determinaram a sua atribuição.
 
@@ -2378,11 +2610,15 @@ c) Não cumprir, reiteradamente, a obrigação de envio da informação estabele
 
 d) Não começar a exercer a atividade no prazo de um ano após a emissão da licença, ou, tendo-a começado a exercer, a haja interrompido por igual período, sendo esta inatividade confirmada pelo gestor técnico global do SNGN.
 
-###### Artigo 46.º-A — Integração da gestão de mercados organizados
+Artigo 46.º-A
+
+Integração da gestão de mercados organizados
 
 A gestão de mercados organizados integra-se no âmbito do funcionamento dos mercados constituídos ao abrigo de acordos internacionais celebrados entre o Estado Português e outros Estados membros da União Europeia.
 
-###### Artigo 47.º-A — Avaliação de riscos
+Artigo 47.º-A
+
+Avaliação de riscos
 
 1 - A DGEG é responsável pela avaliação integral dos riscos que afetam a segurança do aprovisionamento do SNGN, com a colaboração do operador da RNTGN, bem como pela sua atualização nos termos previstos no número seguinte.
 
@@ -2390,7 +2626,9 @@ A gestão de mercados organizados integra-se no âmbito do funcionamento dos mer
 
 3 - As atualizações da avaliação de riscos são enviadas à Comissão Europeia e devem ser consideradas para efeitos de definição dos padrões de abastecimento ao nível da produção e dos padrões de segurança para planeamento das redes.
 
-###### Artigo 47.º-B — Plano preventivo de ação
+Artigo 47.º-B
+
+Plano preventivo de ação
 
 1 - A DGEG é ainda responsável por elaborar, nos termos e de acordo com os procedimentos previstos no Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro, mediante proposta do operador da RNTGN, um plano preventivo de ação, definindo as medidas necessárias tendo em vista a eliminação ou atenuação dos riscos identificados na avaliação de riscos do aprovisionamento do SNGN a que se refere o artigo anterior.
 
@@ -2398,7 +2636,9 @@ A gestão de mercados organizados integra-se no âmbito do funcionamento dos mer
 
 3 - O plano preventivo de ação deve ser publicitado até 3 de dezembro de 2012 e atualizado de dois em dois anos, salvo se as circunstâncias impuserem atualizações mais frequentes, devendo refletir a avaliação de riscos mais recente.
 
-###### Artigo 47.º-C — Relatório de monitorização da segurança de abastecimento
+Artigo 47.º-C
+
+Relatório de monitorização da segurança de abastecimento
 
 1 - A DGEG apresenta ao membro do Governo responsável pela área da energia, até 15 de julho de cada ano, um RMSA, o qual deve incluir as medidas adotadas e uma proposta de adoção das medidas adequadas a reforçar a segurança do abastecimento do SNGN.
 
@@ -2414,17 +2654,23 @@ c) Quadros regulamentares destinados a incentivar de forma adequada novos invest
 
 4 - O RMSA é publicitado no sítio na Internet da DGEG e enviado à Comissão Europeia e à ERSE até 31 de julho de cada ano.
 
-###### Artigo 48.º-A — Colaboração do gestor técnico global do sistema
+Artigo 48.º-A
+
+Colaboração do gestor técnico global do sistema
 
 O operador da RNTGN deve colaborar ativamente com a DGEG na elaboração da avaliação de riscos de abastecimento, do RMSA, do plano preventivo de ação e do plano de emergência previstos nos artigos 47.º-A, 47.º-B, 47.º-C e 48.º, nos termos definidos no Regulamento da Segurança de Abastecimento e Planeamento Energético.
 
-###### Artigo 50.º-A — Clientes protegidos e obrigações adicionais
+Artigo 50.º-A
+
+Clientes protegidos e obrigações adicionais
 
 1 - Os clientes protegidos a considerar para efeitos de constituição e manutenção de reservas de segurança são todos os clientes domésticos já ligados a uma rede de distribuição de gás e os clientes previstos na alínea a) do n.º 1 do artigo 2.º do Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro.
 
 2 - Como obrigação adicional, resultante da avaliação de riscos do aprovisionamento do SNGN, e tendo em consideração o disposto no n.º 2 do artigo 8.º do Regulamento (UE) n.º [994/2010](http://data.europa.eu/eli/reg/2010/994/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de outubro, devem ser igualmente considerados para efeitos de constituição e manutenção de reservas de segurança todos os consumos não interruptíveis dos centros eletroprodutores em regime ordinário.
 
-###### Artigo 50.º-B — Consumos interruptíveis dos centros eletroprodutores em regime ordinário
+Artigo 50.º-B
+
+Consumos interruptíveis dos centros eletroprodutores em regime ordinário
 
 1 - Os comercializadores só podem deixar de assegurar a constituição e manutenção de reservas de segurança necessárias a garantir os consumos dos centros eletroprodutores em regime ordinário desde que estes obtenham autorização da DGEG para celebrar contratos de fornecimento de gás natural que permitam a interrupção nas situações referidas no n.º 2 do artigo 52.º e demonstrem estar contratualmente garantido o fornecimento de combustível alternativo ao gás natural.
 
@@ -2432,7 +2678,9 @@ O operador da RNTGN deve colaborar ativamente com a DGEG na elaboração da aval
 
 3 - No caso de resposta favorável ou de falta de resposta da DGEG no prazo referido no número anterior, os centros eletroprodutores devem informar o respetivo comercializador de gás natural de que cessa a sua obrigação de constituir e manter reservas de segurança.
 
-###### Artigo 62.º-A — Regulamento da RNDGN
+Artigo 62.º-A
+
+Regulamento da RNDGN
 
 O regulamento da RNDGN estabelece as condições técnicas e de segurança a que devem obedecer o projeto, a construção, a exploração e a manutenção das redes de distribuição de gás natural cuja pressão de serviço:
 
@@ -2440,35 +2688,47 @@ a) Seja superior a 4 bar e não exceda 20 bar (média pressão);
 
 b) Seja igual ou inferior a 4 bar (baixa pressão).
 
-###### Artigo 62.º-B — Regulamento da Segurança de Abastecimento e Planeamento
+Artigo 62.º-B
+
+Regulamento da Segurança de Abastecimento e Planeamento
 
 1 - O Regulamento da Segurança de Abastecimento e Planeamento define e concretiza a forma de cumprimento das obrigações do operador da RNT e da RNTGN em matéria de segurança de abastecimento, planeamento energético e planeamento das redes.
 
 2 - O Regulamento previsto no número anterior define ainda o modo de estabelecimento dos padrões de segurança de abastecimento ao nível da produção e dos padrões de segurança para planeamento das redes.
 
-###### Artigo 72.º-A — Derrogações relacionadas com falta de capacidade e necessidade de cumprimento de obrigações de serviço público
+Artigo 72.º-A
+
+Derrogações relacionadas com falta de capacidade e necessidade de cumprimento de obrigações de serviço público
 
 1 - Os operadores das redes de transporte e de distribuição podem recusar, fundamentadamente, o acesso às respetivas redes por falta de capacidade ou no caso de esse acesso os impedir de cumprir as obrigações de serviço público previstas no Decreto-Lei n.º 30/2006, de 15 de fevereiro, e no presente decreto-lei.
 
 2 - Em caso de recusa de acesso à rede por falta de capacidade ou falta de ligação, os operadores das redes de transporte ou de distribuição devem efetuar os melhoramentos necessários, na medida em que tal seja economicamente viável, e sempre que um potencial cliente esteja interessado em pagar por isso.
 
-###### Artigo 75.º-A — Reconhecimento mútuo
+Artigo 75.º-A
+
+Reconhecimento mútuo
 
 1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos de permissão administrativa para as atividades de receção, armazenamento, regaseificação, armazenamento subterrâneo, transporte, distribuição, comercialização e operação de mercados de gás natural reguladas no presente decreto-lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
 
 2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
 
-###### Artigo 75.º-B — Validade de permissões administrativas
+Artigo 75.º-B
+
+Validade de permissões administrativas
 
 Os registos de comercializador de gás natural, a licença de comercializador de último recurso e a autorização de gestor de mercados organizados de gás natural têm validade em todo o território de Portugal continental.
 
-###### Artigo 75.º-C — Desmaterialização de procedimentos
+Artigo 75.º-C
+
+Desmaterialização de procedimentos
 
 1 - Todos os pedidos, comunicações e notificações e, em geral, quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei e respetiva legislação regulamentar relativos às atividades de receção, armazenamento, regaseificação, armazenamento subterrâneo, transporte, distribuição, comercialização, operação de mercados de gás natural e operação logística de mudança de comercializador de gás natural, excetuados os procedimentos regulatórios e sancionatórios, devem ser efetuados através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, ou da plataforma eletrónica de contratação pública, acessível através daquele balcão, conforme ao caso aplicáveis.
 
 2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
 
-###### Artigo 75.º-D — Cooperação administrativa
+Artigo 75.º-D
+
+Cooperação administrativa
 
 As autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores de serviços estabelecidos em outro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos do capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno (IMI).»
 
@@ -2562,15 +2822,15 @@ O presente decreto-lei entra em vigor no prazo de 30 dias após a sua publicaç�
 
 Visto e aprovado em Conselho de Ministros de 16 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira.
 
-**Promulgado em 18 de outubro de 2012.**
+Promulgado em 18 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 22 de outubro de 2012.**
+Referendado em 22 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 13.º)
 
@@ -4142,7 +4402,9 @@ Bases da concessão da atividade de transporte de gás natural através da Rede 
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto a atividade de transporte de gás natural em alta pressão, exercida em regime de serviço público, através da RNTGN.
 
@@ -4172,7 +4434,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 5 - A concessionária é desde já autorizada, nos termos do número anterior, a explorar, direta ou indiretamente, ou a ceder a exploração da capacidade excedentária da rede de telecomunicações instalada para a operação da RNTGN.
 
-###### Base II — Âmbito e exclusividade da concessão
+Base II
+
+Âmbito e exclusividade da concessão
 
 1 - Sem prejuízo do disposto no número seguinte, a concessão tem como âmbito geográfico todo o território do continente e é exercida em regime de exclusivo, sem prejuízo do direito de acesso de terceiros às várias infraestruturas que a integram nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis.
 
@@ -4180,7 +4444,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - O regime de exclusivo referido no n.º 1 pode ser alterado em conformidade com a política energética aprovada pela União Europeia e aplicável ao Estado Português.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -4188,7 +4454,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessionária deve desempenhar as atividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adotar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no setor do gás com vista a garantir, designadamente, a segurança do abastecimento e a de pessoas e bens.
 
@@ -4196,7 +4464,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base xxxvi, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão.
 
-###### Base V — Direitos e obrigações da concessionária
+Base V
+
+Direitos e obrigações da concessionária
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -4204,7 +4474,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 3 - O não cumprimento das obrigações previstas no número anterior constitui incumprimento do contrato de concessão, incluindo para efeitos do disposto na base xxxviii.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores da RNTGN
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores da RNTGN
 
 1 - A concessionária deve proporcionar aos utilizadores da RNTGN, de forma não discriminatória e transparente, o acesso às respetivas infraestruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
 
@@ -4220,7 +4492,9 @@ g) O desenvolvimento dos estudos necessários ao cumprimento de outras obrigaç�
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VII — Bens e meios afetos à concessão
+Base VII
+
+Bens e meios afetos à concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem a RNTGN, designadamente:
 
@@ -4248,7 +4522,9 @@ d) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrig
 
 e) As relações e posições jurídicas diretamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
 
-###### Base VIII — Inventário do património
+Base VIII
+
+Inventário do património
 
 1 - A concessionária deve elaborar e manter permanentemente atualizado e à disposição do concedente um inventário do património afeto à concessão.
 
@@ -4256,13 +4532,17 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base x.
 
-###### Base IX — Manutenção dos bens afetos à concessão
+Base IX
+
+Manutenção dos bens afetos à concessão
 
 1 - A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança os bens e meios afetos à concessão, efetuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-las com antecedência razoável aos utilizadores afetados pelas mesmas.
 
-###### Base X — Regime de oneração e transmissão dos bens afetos à concessão
+Base X
+
+Regime de oneração e transmissão dos bens afetos à concessão
 
 1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
 
@@ -4272,7 +4552,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 4 - A oneração ou transmissão de bens e direitos afetos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respetivos atos ou contratos.
 
-###### Base XI — Posse e propriedade dos bens
+Base XI
+
+Posse e propriedade dos bens
 
 1 - A concessionária detém a posse e propriedade dos bens afetos à concessão até à extinção desta.
 
@@ -4280,7 +4562,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base XII — Objeto social, sede e ações da sociedade
+Base XII
+
+Objeto social, sede e ações da sociedade
 
 1 - O projeto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do membro do Governo responsável pela área da energia.
 
@@ -4296,7 +4580,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 7 - A oneração de ações referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIII — Deliberações da concessionária e acordos entre acionistas
+Base XIII
+
+Deliberações da concessionária e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações da concessionária relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade.
 
@@ -4304,7 +4590,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XIV — Financiamento
+Base XIV
+
+Financiamento
 
 1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -4312,7 +4600,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO IV — Construção, planeamento, remodelação e expansão das infraestruturas
 
-###### Base XV — Projetos
+Base XV
+
+Projetos
 
 1 - A construção e a exploração das infraestruturas da RNTGN ficam sujeitas à aprovação dos respetivos projetos nos termos da legislação aplicável.
 
@@ -4320,7 +4610,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - A aprovação de quaisquer projetos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de conceção, de projeto ou da inadequação das instalações e do equipamento ao serviço da concessão.
 
-###### Base XVI — Direitos e deveres decorrentes da aprovação dos projetos
+Base XVI
+
+Direitos e deveres decorrentes da aprovação dos projetos
 
 1 - A aprovação dos respetivos projetos confere à concessionária, nomeadamente, os seguintes direitos:
 
@@ -4336,7 +4628,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XVII — Planeamento, remodelação e expansão da RNTGN
+Base XVII
+
+Planeamento, remodelação e expansão da RNTGN
 
 1 - O planeamento da RNTGN deve ser coordenado com o planeamento da RNTIAT e da RNDGN, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -4350,7 +4644,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 ### CAPÍTULO V — Exploração das infraestruturas
 
-###### Base XVIII — Condições de exploração
+Base XVIII
+
+Condições de exploração
 
 1 - A concessionária é responsável pela exploração e pela manutenção das infraestruturas que integram a RNTGN e respetivas instalações em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
@@ -4362,7 +4658,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 5 - No âmbito do exercício da atividade concessionada, a concessionária deve gerir os fluxos de gás natural, assegurando a sua interoperacionalidade com as redes e demais infraestruturas a que esteja ligada, no respeito pela regulamentação aplicável.
 
-###### Base XIX — Informação
+Base XIX
+
+Informação
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos no n.º 4 da base i que o concedente entenda dever solicitar-lhe, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia e, em particular, os obtidos no âmbito do exercício da atividade de gestão técnica global do SNGN, nos termos da base xxvii-A.
 
@@ -4374,13 +4672,17 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 5 - A concessionária tem igualmente a obrigação de fornecer à ERSE a informação prevista na lei aplicável.
 
-###### Base XX — Participação de desastres e acidentes
+Base XX
+
+Participação de desastres e acidentes
 
 1 - A concessionária é obrigada a participar imediatamente à DGEG todos os desastres e acidentes ocorridos nas suas instalações.
 
 2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
 
-###### Base XXI — Ligação dos utilizadores à RNTGN
+Base XXI
+
+Ligação dos utilizadores à RNTGN
 
 1 - A ligação dos utilizadores à RNTGN, quer nos pontos de receção quer nos postos de redução de pressão e entrega às redes com as quais esteja ligada ou a clientes finais, faz-se nas condições previstas nos regulamentos aplicáveis.
 
@@ -4394,7 +4696,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 6 - Os utilizadores devem prestar à concessionária todas as informações que esta considere necessárias à ligação dos utilizadores à RNTGN e à correta exploração das respetivas infraestruturas e instalações.
 
-###### Base XXII — Interrupção por facto imputável ao utilizador
+Base XXII
+
+Interrupção por facto imputável ao utilizador
 
 1 - A concessionária pode interromper a prestação do serviço público concessionado aos utilizadores nos termos da regulamentação aplicável e nomeadamente nos seguintes casos:
 
@@ -4406,7 +4710,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores da RNTGN que causem perturbações que afetem a qualidade do serviço prestado, quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XXIII — Interrupções por razões de interesse público ou de serviço
+Base XXIII
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
 
@@ -4414,13 +4720,17 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores da RNTGN que possam vir a ser afetados com a antecedência mínima de 36 horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infraestruturas e instalações do SNGN.
 
-###### Base XXIV — Medidas de proteção
+Base XXIV
+
+Medidas de proteção
 
 1 - Sem prejuízo das medidas de emergência que podem ser adotadas pelo concedente, se se verificar uma situação que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
 
 2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGEG, às respetivas autoridades concelhias, à autoridade policial da zona afetada e, se for caso disso, ao Serviço Nacional de Proteção Civil.
 
-###### Base XXV — Responsabilidade civil
+Base XXV
+
+Responsabilidade civil
 
 1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da atividade objeto da concessão.
 
@@ -4430,7 +4740,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVI — Cobertura por seguros
+Base XXVI
+
+Cobertura por seguros
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -4442,7 +4754,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 ### CAPÍTULO VI — Gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento
 
-###### Base XXVII — Gestão técnica global do SNGN
+Base XXVII
+
+Gestão técnica global do SNGN
 
 1 - No âmbito da gestão técnica global do SNGN, a concessionária deve proceder à coordenação sistémica das infraestruturas que constituem o SNGN, por forma a assegurar o seu funcionamento integrado e harmonizado e a segurança e a continuidade do abastecimento de gás natural nos curto, médio e longo prazos, mediante o exercício das seguintes funções:
 
@@ -4522,7 +4836,9 @@ z) Desenvolver e manter atualizadas as metodologias e os modelos necessários à
 
 6 - O exercício da atividade de gestão técnica global do SNGN desenvolve-se nos termos da legislação e regulamentação aplicáveis, designadamente do Regulamento de Relações Comerciais, do Regulamento de Operação das Infraestruturas, do Regulamento do Acesso às Redes, às Infraestruturas e às Interligações e do Regulamento da RNTGN, e do contrato de concessão.
 
-###### Base XXVII-A — Informações no âmbito da gestão técnica global do SNGN
+Base XXVII-A
+
+Informações no âmbito da gestão técnica global do SNGN
 
 1 - A concessionária deve proceder à elaboração, recolha, tratamento e conservação de todas as informações e documentos relevantes para o exercício da atividade de gestão técnica global do SNGN, em termos proporcionais às exigências do cumprimento das suas funções, e deve proceder à sua gestão em termos transparentes, não discriminatórios e de forma não abusiva.
 
@@ -4540,7 +4856,9 @@ e) Elementos relativos ao RMSA;
 
 f) Elementos do âmbito da gestão técnica global do SNGN necessários para a preparação da análise de risco e dos planos preventivos de ação e de emergência previstos na regulamentação sobre segurança do aprovisionamento.
 
-###### Base XXVIII — Planeamento da RNTIAT
+Base XXVIII
+
+Planeamento da RNTIAT
 
 1 - O planeamento da RNTIAT deve ser efetuado de modo a assegurar a existência de capacidade das infraestruturas e o desenvolvimento sustentado e eficiente da rede e deve ser devidamente coordenado com o planeamento das infraestruturas e das instalações com que se interliga.
 
@@ -4552,11 +4870,15 @@ b) PDIRGN, que tenha em consideração os planos quinquenais de desenvolvimento 
 
 3 - A caracterização da RNTIAT e a proposta de PDIRGN devem ser submetidas pela concessionária à DGEG, com a periodicidade de dois anos, até ao final do primeiro trimestre de cada ano ímpar.
 
-###### Base XXIX — Colaboração na monitorização da segurança do abastecimento
+Base XXIX
+
+Colaboração na monitorização da segurança do abastecimento
 
 A concessionária da RNTGN deve colaborar com o Governo, através da DGEG, na promoção das condições de garantia e segurança do abastecimento de gás natural do SNGN e respetiva monitorização, nos termos previstos na legislação e na regulamentação aplicáveis.
 
-###### Base XXX — Controlo da constituição e manutenção das reservas de segurança
+Base XXX
+
+Controlo da constituição e manutenção das reservas de segurança
 
 1 - Constitui obrigação da concessionária controlar a constituição, a manutenção e a libertação das reservas de segurança de gás natural, de forma transparente e não discriminatória, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -4566,7 +4888,9 @@ A concessionária da RNTGN deve colaborar com o Governo, através da DGEG, na pr
 
 ### CAPÍTULO VII — Garantias e fiscalização do cumprimento das obrigações da concessionária
 
-###### Base XXXI — Caução
+Base XXXI
+
+Caução
 
 1 - Para garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 10 000 000.
 
@@ -4582,7 +4906,9 @@ A concessionária da RNTGN deve colaborar com o Governo, através da DGEG, na pr
 
 7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma, à primeira solicitação, cujo texto deve ser previamente aprovado pela DGEG.
 
-###### Base XXXII — Supervisão, acompanhamento e fiscalização
+Base XXXII
+
+Supervisão, acompanhamento e fiscalização
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -4606,13 +4932,17 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO VIII — Modificações objetivas e subjetivas da concessão
 
-###### Base XXXIII — Alteração do contrato de concessão
+Base XXXIII
+
+Alteração do contrato de concessão
 
 1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respetivo equilíbrio económico e financeiro, nos termos previstos na base xxxvi.
 
 2 - O contrato de concessão pode também ser alterado por força de disposição legal imperativa, designadamente decorrente das políticas energéticas aprovadas pela União Europeia e aplicáveis ao Estado Português.
 
-###### Base XXXIV — Transmissão e oneração da concessão
+Base XXXIV
+
+Transmissão e oneração da concessão
 
 1 - A concessionária não pode, sem prévia autorização do concedente, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados.
 
@@ -4628,7 +4958,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO IX — Condição económica e financeira da concessionária
 
-###### Base XXXV — Equilíbrio económico e financeiro da concessão
+Base XXXV
+
+Equilíbrio económico e financeiro da concessão
 
 1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
 
@@ -4636,7 +4968,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
 
-###### Base XXXVI — Reposição do equilíbrio económico e financeiro
+Base XXXVI
+
+Reposição do equilíbrio económico e financeiro
 
 1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio económico e financeiro da concessão nos seguintes casos:
 
@@ -4660,7 +4994,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 ### CAPÍTULO X — Incumprimento do contrato de concessão
 
-###### Base XXXVII — Responsabilidade da concessionária por incumprimento
+Base XXXVII
+
+Responsabilidade da concessionária por incumprimento
 
 1 - A violação pela concessionária de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
 
@@ -4678,7 +5014,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
 
-###### Base XXXVIII — Sanções contratuais
+Base XXXVIII
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 10 000 000.
 
@@ -4702,7 +5040,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
 
-###### Base XXXIX — Sequestro
+Base XXXIX
+
+Sequestro
 
 1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, o concedente, através de despacho do membro do Governo responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
 
@@ -4730,7 +5070,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 ### CAPÍTULO XI — Extinção da concessão
 
-###### Base XL — Casos de extinção da concessão
+Base XL
+
+Casos de extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respetivo prazo.
 
@@ -4740,13 +5082,17 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, a que assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respetivo auto.
 
-###### Base XLI — Procedimentos em caso de extinção da concessão
+Base XLI
+
+Procedimentos em caso de extinção da concessão
 
 1 - O concedente reserva-se no direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva da atividade objeto da concessão para a nova concessionária.
 
 2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XLII — Decurso do prazo da concessão
+Base XLII
+
+Decurso do prazo da concessão
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -4754,7 +5100,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respetivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
 
-###### Base XLIII — Resgate da concessão
+Base XLIII
+
+Resgate da concessão
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos um ano de antecedência.
 
@@ -4768,7 +5116,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 6 - Para os efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XLIV — Rescisão do contrato de concessão pelo concedente
+Base XLIV
+
+Rescisão do contrato de concessão pelo concedente
 
 1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
 
@@ -4804,7 +5154,9 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afetos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos, nos termos gerais de direito.
 
-###### Base XLV — Rescisão do contrato de concessão pela concessionária
+Base XLV
+
+Rescisão do contrato de concessão pela concessionária
 
 1 - A concessionária pode rescindir o contrato de concessão com fundamento em incumprimento grave das obrigações do concedente se do mesmo resultarem perturbações que ponham em causa o exercício da atividade concedida.
 
@@ -4816,11 +5168,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO XII — Disposições diversas
 
-###### Base XLVI — Exercício dos poderes do concedente
+Base XLVI
+
+Exercício dos poderes do concedente
 
 Os poderes do concedente referidos nas presentes bases, exceto quando devam ser exercidos pelo membro do Governo responsável pela área da energia, devem ser exercidos pela DGEG, sendo os atos praticados pelo respetivo diretor-geral ou pela ERSE, consoante as competências de cada uma destas entidades.
 
-###### Base XLVII — Resolução de diferendos
+Base XLVII
+
+Resolução de diferendos
 
 1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de agosto.
 
@@ -4832,7 +5188,9 @@ Bases das concessões da atividade de armazenamento subterrâneo de gás natural
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto a atividade de armazenamento subterrâneo de gás natural exercida em regime de serviço público.
 
@@ -4844,11 +5202,15 @@ b) A construção, a operação, a exploração, a manutenção e a expansão da
 
 3 - A concessionária pode exercer outras atividades para além das que se integram no objeto da concessão, no respeito pela legislação aplicável ao setor do gás natural, com fundamento no proveito daí resultante para a concessão ou com vista a otimizar a utilização dos bens afetos à mesma, desde que essas atividades sejam acessórias ou complementares e não prejudiquem a regularidade e a continuidade da prestação do serviço público e sejam previamente autorizadas pelo concedente.
 
-###### Base II — Área da concessão
+Base II
+
+Área da concessão
 
 A área e a localização geográfica da concessão são definidas no contrato de concessão.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -4856,7 +5218,9 @@ A área e a localização geográfica da concessão são definidas no contrato d
 
 3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessionária deve desempenhar as atividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adotar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no setor do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
 
@@ -4866,7 +5230,9 @@ A área e a localização geográfica da concessão são definidas no contrato d
 
 4 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base xxxiv, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão.
 
-###### Base V — Direitos e obrigações da concessionária
+Base V
+
+Direitos e obrigações da concessionária
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -4888,7 +5254,9 @@ g) Fornecer os serviços destinados a satisfazer, de forma transparente e não d
 
 h) Atribuir as capacidades de injeção, armazenamento e extração em coordenação com o operador da rede de transporte, no quadro da gestão técnica global do SNGN, tendo em conta a compatibilização de fluxos e quantidades de gás entre as duas infraestruturas.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores
 
 1 - A concessionária deve proporcionar aos utilizadores, de forma não discriminatória e transparente, o acesso às respetivas infraestruturas nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos ou ainda de condicionalismos de natureza contratual, desde que aceites pela ERSE.
 
@@ -4904,7 +5272,9 @@ h) Atribuir as capacidades de injeção, armazenamento e extração em coordena�
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VII — Bens e meios afetos à concessão
+Base VII
+
+Bens e meios afetos à concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem o armazenamento subterrâneo de gás natural, designadamente:
 
@@ -4934,7 +5304,9 @@ g) Quaisquer fundos ou reservas consignados à garantia do cumprimento das obrig
 
 h) As relações e posições jurídicas diretamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços.
 
-###### Base VIII — Inventário do património
+Base VIII
+
+Inventário do património
 
 1 - A concessionária deve elaborar e manter permanentemente atualizado e à disposição do concedente um inventário do património afeto à concessão.
 
@@ -4942,13 +5314,17 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base x.
 
-###### Base IX — Manutenção dos bens afetos à concessão
+Base IX
+
+Manutenção dos bens afetos à concessão
 
 1 - A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança os bens e meios afetos à concessão, efetuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
 
-###### Base X — Regime de oneração e transmissão dos bens afetos à concessão
+Base X
+
+Regime de oneração e transmissão dos bens afetos à concessão
 
 1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
 
@@ -4958,7 +5334,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 4 - A oneração ou transmissão de bens e direitos afetos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respetivos atos ou contratos.
 
-###### Base XI — Posse e propriedade dos bens
+Base XI
+
+Posse e propriedade dos bens
 
 1 - A concessionária detém a posse e propriedade dos bens afetos à concessão enquanto durar a concessão e até à extinção desta.
 
@@ -4966,7 +5344,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base XII — Objeto social, sede e forma
+Base XII
+
+Objeto social, sede e forma
 
 1 - O projeto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do membro do Governo responsável pela área da energia.
 
@@ -4974,7 +5354,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - O objeto social da concessionária pode incluir o exercício de outras atividades para além das que integram o objeto da concessão e, bem assim, a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao setor do gás natural.
 
-###### Base XIII — Ações da concessionária
+Base XIII
+
+Ações da concessionária
 
 1 - Todas as ações representativas do capital social da concessionária são obrigatoriamente nominativas.
 
@@ -4984,7 +5366,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 4 - A oneração de ações referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIV — Deliberações da concessionária e acordos entre acionistas
+Base XIV
+
+Deliberações da concessionária e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações da concessionária relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade.
 
@@ -4992,7 +5376,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XV — Financiamento
+Base XV
+
+Financiamento
 
 1 - A concessionária é responsável única pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -5000,7 +5386,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO IV — Construção, planeamento, remodelação e expansão das infraestruturas
 
-###### Base XVI — Projetos
+Base XVI
+
+Projetos
 
 1 - A construção e a exploração das infraestruturas de armazenamento subterrâneo ficam sujeitas à aprovação dos respetivos projetos nos termos da legislação aplicável.
 
@@ -5008,7 +5396,9 @@ h) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - A aprovação dos projetos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de conceção, de projeto, de construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
 
-###### Base XVII — Direitos e deveres decorrentes da aprovação dos projetos
+Base XVII
+
+Direitos e deveres decorrentes da aprovação dos projetos
 
 1 - A aprovação dos respetivos projetos confere à concessionária, nomeadamente, os seguintes direitos:
 
@@ -5024,7 +5414,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XVIII — Planeamento, remodelação e expansão das infraestruturas
+Base XVIII
+
+Planeamento, remodelação e expansão das infraestruturas
 
 1 - O planeamento das infraestruturas está integrado no planeamento da RNTIAT, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -5038,13 +5430,17 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 ### CAPÍTULO V — Exploração das infraestruturas
 
-###### Base XIX — Condições de exploração
+Base XIX
+
+Condições de exploração
 
 1 - A concessionária é responsável pela exploração das infraestruturas e manutenção das capacidades de armazenamento em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
 2 - A concessionária deve assegurar-se de que o gás natural injetado, armazenado ou extraído cumpre as características técnicas e as especificações de qualidade estabelecidas e que o seu armazenamento subterrâneo é efetuado em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
 
-###### Base XX — Informação
+Base XX
+
+Informação
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
 
@@ -5058,21 +5454,29 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os agentes diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
 
-###### Base XXI — Participação de desastres e acidentes
+Base XXI
+
+Participação de desastres e acidentes
 
 1 - A concessionária é obrigada a participar imediatamente à DGEG todos os desastres e acidentes ocorridos nas suas instalações, e se tal não for possível no prazo máximo de três dias a contar a partir da data da ocorrência.
 
 2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
 
-###### Base XXII — Ligação das infraestruturas à RNTGN
+Base XXII
+
+Ligação das infraestruturas à RNTGN
 
 A ligação das infraestruturas de armazenamento subterrâneo à RNTGN faz-se nas condições previstas nos regulamentos aplicáveis.
 
-###### Base XXIII — Relacionamento com a concessionária da RNTGN
+Base XXIII
+
+Relacionamento com a concessionária da RNTGN
 
 A concessionária encontra-se sujeita às obrigações que decorrem do exercício por parte da concessionária da RNTGN das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
 
-###### Base XXIV — Interrupção por facto imputável ao utilizador
+Base XXIV
+
+Interrupção por facto imputável ao utilizador
 
 1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável e, nomeadamente, nos seguintes casos:
 
@@ -5084,7 +5488,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores que causem perturbações que afetem a qualidade do serviço prestado quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XXV — Interrupções por razões de interesse público ou de serviço
+Base XXV
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência declarada ao abrigo de legislação específica.
 
@@ -5092,13 +5498,17 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das respetivas infraestruturas e instalações que possam vir a ser afetados, com a antecedência mínima de 36 horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infraestruturas ou instalações.
 
-###### Base XXVI — Medidas de proteção
+Base XXVI
+
+Medidas de proteção
 
 1 - Sem prejuízo das medidas de emergência adotadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
 
 2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGEG, às respetivas autoridades concelhias, à autoridade policial da zona afetada e, se for caso disso, ao Serviço Nacional de Proteção Civil.
 
-###### Base XXVII — Responsabilidade civil
+Base XXVII
+
+Responsabilidade civil
 
 1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da atividade objeto da concessão.
 
@@ -5108,7 +5518,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVIII — Cobertura por seguros
+Base XXVIII
+
+Cobertura por seguros
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -5120,7 +5532,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 ### CAPÍTULO VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
 
-###### Base XXIX — Caução
+Base XXIX
+
+Caução
 
 1 - Para a garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 5 000 000.
 
@@ -5136,7 +5550,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma à primeira solicitação, cujo texto deve ser previamente aprovado pelo concedente.
 
-###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+Base XXX
+
+Supervisão, acompanhamento, fiscalização e regulação
 
 1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis.
 
@@ -5160,7 +5576,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO VII — Modificações objetivas e subjetivas da concessão
 
-###### Base XXXI — Alteração do contrato de concessão
+Base XXXI
+
+Alteração do contrato de concessão
 
 1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respetivo equilíbrio económico e financeiro, nos termos previstos na base xxxiv.
 
@@ -5168,7 +5586,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
-###### Base XXXII — Transmissão e oneração da concessão
+Base XXXII
+
+Transmissão e oneração da concessão
 
 1 - A concessionária não pode, sem prévia autorização do concedente, através do membro do Governo responsável pela área da energia, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados.
 
@@ -5186,7 +5606,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO VIII — Condição económica e financeira da concessionária
 
-###### Base XXXIII — Equilíbrio económico e financeiro da concessão
+Base XXXIII
+
+Equilíbrio económico e financeiro da concessão
 
 1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
 
@@ -5194,7 +5616,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
 
-###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+Base XXXIV
+
+Reposição do equilíbrio económico e financeiro
 
 1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio financeiro da concessão nos seguintes casos:
 
@@ -5218,7 +5642,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 ### CAPÍTULO IX — Incumprimento do contrato de concessão
 
-###### Base XXXV — Responsabilidade da concessionária por incumprimento
+Base XXXV
+
+Responsabilidade da concessionária por incumprimento
 
 1 - A violação pela concessionária de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
 
@@ -5236,7 +5662,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
 
-###### Base XXXVI — Sanções contratuais
+Base XXXVI
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
 
@@ -5260,7 +5688,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiros.
 
-###### Base XXXVII — Sequestro
+Base XXXVII
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes do contrato de concessão, o concedente, através de despacho do membro do Governo responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
 
@@ -5288,7 +5718,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 ### CAPÍTULO X — Suspensão e extinção da concessão
 
-###### Base XXXVIII — Casos de extinção da concessão
+Base XXXVIII
+
+Casos de extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respetivo prazo.
 
@@ -5298,13 +5730,17 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, a que assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respetivo auto.
 
-###### Base XXXIX — Procedimentos em caso de extinção da concessão
+Base XXXIX
+
+Procedimentos em caso de extinção da concessão
 
 1 - O concedente reserva-se no direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva da atividade objeto da concessão para a nova concessionária.
 
 2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XL — Decurso do prazo da concessão
+Base XL
+
+Decurso do prazo da concessão
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -5312,7 +5748,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respetivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
 
-###### Base XLI — Resgate da concessão
+Base XLI
+
+Resgate da concessão
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com, pelo menos, 1 ano de antecedência.
 
@@ -5326,7 +5764,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 6 - Para os efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XLII — Rescisão do contrato de concessão pelo concedente
+Base XLII
+
+Rescisão do contrato de concessão pelo concedente
 
 1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
 
@@ -5362,7 +5802,9 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afetos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
 
-###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+Base XLIII
+
+Rescisão do contrato de concessão pela concessionária
 
 1 - A concessionária pode rescindir o contrato de concessão com fundamento em incumprimento grave das obrigações do concedente, se do mesmo resultarem perturbações que ponham em causa o exercício da atividade concedida.
 
@@ -5374,11 +5816,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO XI — Disposições diversas
 
-###### Base XLIV — Exercício dos poderes do concedente
+Base XLIV
+
+Exercício dos poderes do concedente
 
 Os poderes do concedente referidos nas presentes bases, exceto quando devam ser exercidos pelo membro do Governo responsável pela área da energia, devem ser exercidos pela DGEG, sendo os atos praticados pelo respetivo diretor-geral, ou pela ERSE, consoante as competências de cada uma destas entidades.
 
-###### Base XLV — Resolução de diferendos
+Base XLV
+
+Resolução de diferendos
 
 1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de agosto.
 
@@ -5390,7 +5836,9 @@ Bases das concessões da atividade de receção, armazenamento e regaseificaçã
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto a atividade de receção, armazenamento e regaseificação de GNL, em terminal de GNL, exercida em regime de serviço público.
 
@@ -5406,11 +5854,15 @@ d) A construção, a operação, a exploração, a manutenção e a expansão da
 
 3 - A concessionária pode exercer outras atividades para além das que se integram no objeto da concessão, no respeito pela legislação aplicável ao setor do gás natural, com fundamento no proveito daí resultante para a concessão ou com vista a otimizar a utilização dos bens afetos à mesma, desde que essas atividades sejam acessórias ou complementares e não prejudiquem a regularidade e a continuidade da prestação do serviço público e sejam previamente autorizadas pelo concedente.
 
-###### Base II — Área da concessão
+Base II
+
+Área da concessão
 
 A área e localização geográfica da concessão são definidas no contrato de concessão.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - O prazo da concessão é fixado pelo concedente no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -5418,7 +5870,9 @@ A área e localização geográfica da concessão são definidas no contrato de 
 
 3 - A intenção de renovação da concessão deve ser comunicada à concessionária pelo concedente com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessionária deve desempenhar as atividades concessionadas de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adotar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no setor do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
 
@@ -5426,7 +5880,9 @@ A área e localização geográfica da concessão são definidas no contrato de 
 
 3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base xxxiv, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão.
 
-###### Base V — Direitos e obrigações da concessionária
+Base V
+
+Direitos e obrigações da concessionária
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidos no Decreto-Lei n.º 30/2006, de 15 de fevereiro, no Decreto-Lei n.º 140/2006, de 26 de julho, e na demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases.
 
@@ -5450,7 +5906,9 @@ h) Fornecer os serviços destinados a satisfazer, de forma transparente e não d
 
 i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navios metaneiros para o terminal respeita as especificações de qualidade dispostas na legislação e regulamentação aplicáveis, em coordenação com o operador da rede de transporte no quadro da gestão técnica global do SNGN.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores
 
 1 - A concessionária deve proporcionar aos utilizadores, de forma não discriminatória e transparente, o acesso às respetivas infraestruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
 
@@ -5466,7 +5924,9 @@ i) Solicitar aos agentes de mercado que garantam que o GNL descarregado dos navi
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VII — Bens e meios afetos à concessão
+Base VII
+
+Bens e meios afetos à concessão
 
 1 - Consideram-se afetos à concessão os bens necessários à prossecução da atividade de receção, armazenamento e regaseificação de GNL, designadamente:
 
@@ -5494,7 +5954,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - Os bens referidos no n.º 1 e na alínea a) do n.º 2 são considerados, para os efeitos da aplicação do regime de oneração e transmissão dos bens afetos à concessão, como infraestruturas de serviço público que integram a concessão.
 
-###### Base VIII — Inventário do património
+Base VIII
+
+Inventário do património
 
 1 - A concessionária deve elaborar e manter permanentemente atualizado, e à disposição do concedente, um inventário do património afeto à concessão.
 
@@ -5502,13 +5964,17 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base x.
 
-###### Base IX — Manutenção dos bens afetos à concessão
+Base IX
+
+Manutenção dos bens afetos à concessão
 
 1 - A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança, os bens e meios afetos à concessão, efetuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
 
 2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-la com antecedência razoável aos utilizadores afetados por tais medidas.
 
-###### Base X — Regime de oneração e transmissão dos bens afetos à concessão
+Base X
+
+Regime de oneração e transmissão dos bens afetos à concessão
 
 1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
 
@@ -5518,7 +5984,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 4 - A oneração ou transmissão de bens, e direitos, afetos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respetivos atos ou contratos.
 
-###### Base XI — Posse e propriedade dos bens
+Base XI
+
+Posse e propriedade dos bens
 
 1 - A concessionária detém a posse e propriedade dos bens afetos à concessão até à extinção desta.
 
@@ -5526,7 +5994,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base XII — Objeto social, sede e forma
+Base XII
+
+Objeto social, sede e forma
 
 1 - O projeto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do membro do Governo responsável pela área da energia.
 
@@ -5534,7 +6004,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - O objeto social da concessionária pode incluir o exercício de outras atividades, para além das que integram o objeto da concessão, e bem assim a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao setor do gás natural.
 
-###### Base XIII — Ações da concessionária
+Base XIII
+
+Ações da concessionária
 
 1 - Todas as ações representativas do capital social da concessionária são obrigatoriamente nominativas.
 
@@ -5544,7 +6016,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 4 - A oneração de ações referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e bem assim informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIV — Deliberações da concessionária e acordos entre acionistas
+Base XIV
+
+Deliberações da concessionária e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações da concessionária relativas à alteração do objeto social, à transformação, fusão, cisão ou dissolução da sociedade.
 
@@ -5552,7 +6026,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - As autorizações e aprovações previstas na presente base não podem ser infundadamente recusadas e consideram-se tacitamente concedidas se não forem recusadas, por escrito, no prazo de 60 dias a contar da data da respetiva solicitação.
 
-###### Base XV — Financiamento
+Base XV
+
+Financiamento
 
 1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -5560,7 +6036,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 ### CAPÍTULO IV — Construção, planeamento, remodelação e expansão das infraestruturas
 
-###### Base XVI — Projetos
+Base XVI
+
+Projetos
 
 1 - A construção e a exploração das infraestruturas que integram a concessão ficam sujeitas à aprovação dos respetivos projetos nos termos da legislação aplicável.
 
@@ -5568,7 +6046,9 @@ f) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 3 - A aprovação de quaisquer projetos pelo concedente não implica qualquer responsabilidade derivada de erros de conceção, de projeto, de construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
 
-###### Base XVII — Direitos e deveres decorrentes da aprovação dos projetos
+Base XVII
+
+Direitos e deveres decorrentes da aprovação dos projetos
 
 1 - A aprovação dos respetivos projetos confere à concessionária, nomeadamente, os seguintes direitos:
 
@@ -5584,7 +6064,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XVIII — Planeamento, remodelação e expansão das infraestruturas
+Base XVIII
+
+Planeamento, remodelação e expansão das infraestruturas
 
 1 - O planeamento das infraestruturas está integrado no planeamento da RNTIAT, em particular com a RNTGN, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -5598,13 +6080,17 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 ### CAPÍTULO V — Exploração das infraestruturas
 
-###### Base XIX — Condições de exploração
+Base XIX
+
+Condições de exploração
 
 1 - A concessionária é responsável pela exploração das infraestruturas que integram a concessão, e respetivas instalações, em condições de segurança, fiabilidade e qualidade de serviço, no respeito pela legislação e regulamentação aplicáveis.
 
 2 - A concessionária deve assegurar-se de que o gás recebido no terminal cumpre as características técnicas e as especificações de qualidade estabelecidas e que o seu armazenamento, tratamento, regaseificação e expedição é efetuado em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
 
-###### Base XX — Informação
+Base XX
+
+Informação
 
 1 - A concessionária tem a obrigação de fornecer ao concedente, através da DGEG, todos os documentos e outros elementos de informação relativos à concessão e a outras atividades autorizadas nos termos do n.º 3 da base i, designadamente os necessários à resposta a quaisquer pedidos da Comissão Europeia, que o concedente entenda dever solicitar-lhe.
 
@@ -5618,21 +6104,29 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 6 - A concessionária deve, ainda, solicitar, receber e tratar todas as informações de todos os operadores de mercados e de todos os utilizadores diretamente interessados necessárias à boa gestão das respetivas infraestruturas.
 
-###### Base XXI — Participação de desastres e acidentes
+Base XXI
+
+Participação de desastres e acidentes
 
 1 - A concessionária é obrigada a participar imediatamente à DGEG todos os desastres e acidentes ocorridos nas suas instalações e, se tal não for possível, no prazo máximo de três dias a contar a partir da data da ocorrência.
 
 2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
 
-###### Base XXII — Ligação das infraestruturas à RNTGN
+Base XXII
+
+Ligação das infraestruturas à RNTGN
 
 A ligação das infraestruturas do terminal de GNL à RNTGN faz-se nas condições previstas nos regulamentos aplicáveis.
 
-###### Base XXIII — Relacionamento com a concessionária da RNTGN no âmbito da gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento
+Base XXIII
+
+Relacionamento com a concessionária da RNTGN no âmbito da gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento
 
 A concessionária encontra-se sujeita às obrigações que decorrem do exercício, por parte da concessionária da RNTGN, das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
 
-###### Base XXIV — Interrupção por facto imputável ao utilizador
+Base XXIV
+
+Interrupção por facto imputável ao utilizador
 
 1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável, e nomeadamente nos seguintes casos:
 
@@ -5644,7 +6138,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos utilizadores que causem perturbações que afetem a qualidade do serviço prestado, quando, uma vez identificadas as causas perturbadoras, os utilizadores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XXV — Interrupções por razões de interesse público ou de serviço
+Base XXV
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente, quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
 
@@ -5652,13 +6148,17 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das respetivas infraestruturas e instalações que possam vir a ser afetados, com a antecedência mínima de 36 horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das infraestruturas ou instalações.
 
-###### Base XXVI — Medidas de proteção
+Base XXVI
+
+Medidas de proteção
 
 1 - Sem prejuízo das medidas de emergência adotadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
 
 2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGEG, às respetivas autoridades concelhias, à autoridade policial da zona afetada e, se for caso disso, ao Serviço Nacional de Proteção Civil.
 
-###### Base XXVII — Responsabilidade civil
+Base XXVII
+
+Responsabilidade civil
 
 1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da atividade objeto da concessão.
 
@@ -5668,7 +6168,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVIII — Cobertura por seguros
+Base XXVIII
+
+Cobertura por seguros
 
 1 - Para garantir o cumprimento das suas obrigações, a concessionária é obrigada a celebrar e manter em vigor um seguro de responsabilidade civil, em valor mínimo obrigatório a definir no contrato de concessão.
 
@@ -5680,7 +6182,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 ### CAPÍTULO VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
 
-###### Base XXIX — Caução
+Base XXIX
+
+Caução
 
 1 - Para garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução no valor de (euro) 5 000 000.
 
@@ -5696,7 +6200,9 @@ c) Incumprimento de obrigações contratuais que expressamente estabeleçam esta
 
 7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma, à primeira solicitação, cujo texto deve ser previamente aprovado pela DGEG.
 
-###### Base XXX — Supervisão, acompanhamento, fiscalização e regulação
+Base XXX
+
+Supervisão, acompanhamento, fiscalização e regulação
 
 1 - Sem prejuízo das competências atribuídas a outras entidades públicas, em particular à ERSE, cabe à DGEG o exercício dos poderes de supervisão, acompanhamento e fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -5720,7 +6226,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO VII — Modificações objetivas e subjetivas da concessão
 
-###### Base XXXI — Alteração do contrato de concessão
+Base XXXI
+
+Alteração do contrato de concessão
 
 1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respetivo equilíbrio económico e financeiro nos termos previstos na base xxxiv.
 
@@ -5728,7 +6236,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária, desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
-###### Base XXXII — Transmissão e oneração da concessão
+Base XXXII
+
+Transmissão e oneração da concessão
 
 1 - A concessionária não pode, sem prévia autorização do concedente, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados.
 
@@ -5746,7 +6256,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 ### CAPÍTULO VIII — Condição económica e financeira da concessionária
 
-###### Base XXXIII — Equilíbrio económico e financeiro do contrato
+Base XXXIII
+
+Equilíbrio económico e financeiro do contrato
 
 1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
 
@@ -5754,7 +6266,9 @@ d) Emitir ordens, determinações, diretivas ou instruções, no âmbito dos pod
 
 3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
 
-###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+Base XXXIV
+
+Reposição do equilíbrio económico e financeiro
 
 1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio económico e financeiro da concessão, nos seguintes casos:
 
@@ -5780,7 +6294,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 ### CAPÍTULO IX — Incumprimento do contrato de concessão
 
-###### Base XXXV — Responsabilidade da concessionária por incumprimento
+Base XXXV
+
+Responsabilidade da concessionária por incumprimento
 
 1 - A violação, pela concessionária, de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
 
@@ -5798,7 +6314,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.
 
-###### Base XXXVI — Sanções contratuais
+Base XXXVI
+
+Sanções contratuais
 
 1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante é variável, em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
 
@@ -5822,7 +6340,9 @@ b) Em alternativa e quando tal se justifique, a uma sanção pecuniária compuls
 
 9 - A aplicação de multas ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
 
-###### Base XXXVII — Sequestro
+Base XXXVII
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela concessionária, das obrigações emergentes do contrato de concessão, o concedente, através de despacho do membro do Governo responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
 
@@ -5850,7 +6370,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 ### CAPÍTULO X — Suspensão e extinção da concessão
 
-###### Base XXXVIII — Casos de extinção da concessão
+Base XXXVIII
+
+Casos de extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respetivo prazo.
 
@@ -5860,13 +6382,17 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 4 - A tomada de posse da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, à qual assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respetivo auto.
 
-###### Base XXXIX — Procedimentos em caso de extinção da concessão
+Base XXXIX
+
+Procedimentos em caso de extinção da concessão
 
 1 - O concedente reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva da atividade objeto da concessão para a nova concessionária.
 
 2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XL — Decurso do prazo da concessão
+Base XL
+
+Decurso do prazo da concessão
 
 1 - Decorrido o prazo da concessão, sem necessidade de qualquer comunicação entre as Partes nesse sentido, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para efeitos do contrato de concessão.
 
@@ -5874,7 +6400,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respetivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
 
-###### Base XLI — Resgate da concessão
+Base XLI
+
+Resgate da concessão
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com pelo menos 1 ano de antecedência.
 
@@ -5888,7 +6416,9 @@ c) Deficiências graves no estado geral das infraestruturas, instalações ou eq
 
 6 - Para efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XLII — Rescisão do contrato de concessão pelo concedente
+Base XLII
+
+Rescisão do contrato de concessão pelo concedente
 
 1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
 
@@ -5924,7 +6454,9 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afetos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
 
-###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+Base XLIII
+
+Rescisão do contrato de concessão pela concessionária
 
 1 - A concessionária pode rescindir o contrato de concessão com fundamento no incumprimento grave das obrigações do concedente, se do mesmo resultarem perturbações que ponham em causa o exercício da atividade concedida.
 
@@ -5936,11 +6468,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO XI — Disposições diversas
 
-###### Base XLIV — Exercício dos poderes do concedente
+Base XLIV
+
+Exercício dos poderes do concedente
 
 Os poderes do concedente referidos nas presentes bases, exceto quando devam ser exercidos pelo membro do Governo responsável pela área da energia, devem ser exercidos pela DGEG, sendo os atos praticados pelo respetivo diretor-geral, ou pela ERSE, consoante as competências de cada uma destas entidades.
 
-###### Base XLV — Resolução de diferendos
+Base XLV
+
+Resolução de diferendos
 
 1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de agosto.
 
@@ -5952,7 +6488,9 @@ Bases das concessões da atividade de distribuição de gás natural
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objeto da concessão
+Base I
+
+Objeto da concessão
 
 1 - A concessão tem por objeto a atividade de distribuição regional de gás natural em baixa e média pressão exercida em regime de serviço público através da RNDGN na área que venha a ser definida no contrato de concessão.
 
@@ -5972,13 +6510,17 @@ b) A gestão da interligação da RNDGN com a RNTGN.
 
 5 - A concessionária é desde já autorizada, nos termos do número anterior, a explorar, direta ou indiretamente, ou ceder a exploração, da capacidade excedentária da rede de telecomunicações instalada para a operação da RNDGN.
 
-###### Base II — Âmbito e exclusividade da concessão
+Base II
+
+Âmbito e exclusividade da concessão
 
 1 - A concessão tem como âmbito geográfico os concelhos indicados no contrato de concessão e é exercida em regime de exclusivo, sem prejuízo do direito de acesso de terceiros às várias infraestruturas que a integram nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis.
 
 2 - O regime de exclusivo referido no n.º 1 pode ser alterado em conformidade com a política energética aprovada pela União Europeia e aplicável ao Estado Português.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - O prazo da concessão é fixado no contrato de concessão e não pode exceder 40 anos contados a partir da data da celebração do respetivo contrato.
 
@@ -5986,7 +6528,9 @@ b) A gestão da interligação da RNDGN com a RNTGN.
 
 3 - A intenção de renovação da concessão deve ser comunicada à concessionária, pelo concedente, com a antecedência mínima de dois anos relativamente ao termo do prazo da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessionária deve desempenhar a atividade concessionada de acordo com as exigências de um regular, contínuo e eficiente funcionamento do serviço público e adotar, para o efeito, os melhores procedimentos, meios e tecnologias utilizados no setor do gás, com vista a garantir, designadamente, a segurança de pessoas e bens.
 
@@ -5994,13 +6538,17 @@ b) A gestão da interligação da RNDGN com a RNTGN.
 
 3 - Quando, por efeito do disposto no número anterior, se alterarem significativamente as condições de exploração da concessão, o concedente compromete-se a promover a reposição do equilíbrio económico e financeiro da concessão, nos termos previstos na base xxxiv, desde que a concessionária não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correta e prudente gestão.
 
-###### Base V — Direitos e obrigações da concessionária
+Base V
+
+Direitos e obrigações da concessionária
 
 1 - A concessionária beneficia dos direitos e encontra-se sujeita às obrigações estabelecidas no Decreto-Lei n.º 30/2006, de 15 de fevereiro, e demais legislação e regulamentação aplicáveis à atividade que integra o objeto da concessão, sem prejuízo dos demais direitos e obrigações estabelecidos nas presentes bases e no contrato de concessão.
 
 2 - A concessionária deve contribuir para a segurança do abastecimento de gás natural, assegurando nomeadamente a capacidade das respetivas redes e demais infraestruturas.
 
-###### Base VI — Princípios aplicáveis às relações com os utilizadores
+Base VI
+
+Princípios aplicáveis às relações com os utilizadores
 
 1 - A concessionária deve proporcionar aos utilizadores da RNDGN, de forma não discriminatória e transparente, o acesso às respetivas infraestruturas, nos termos previstos nas presentes bases e na legislação e na regulamentação aplicáveis, não podendo estabelecer diferenças de tratamento entre os referidos utilizadores que não resultem da aplicação de critérios ou de condicionalismos legais, regulamentares ou técnicos, ou ainda de condicionalismos de natureza contratual desde que aceites pela ERSE.
 
@@ -6014,7 +6562,9 @@ b) A gestão da interligação da RNDGN com a RNTGN.
 
 ### CAPÍTULO II — Bens e meios afetos à concessão
 
-###### Base VII — Bens e meios afetos à concessão
+Base VII
+
+Bens e meios afetos à concessão
 
 1 - Consideram-se afetos à concessão os bens que constituem a RNDGN na parte correspondente à área da mesma, designadamente:
 
@@ -6038,7 +6588,9 @@ e) As relações e posições jurídicas diretamente relacionadas com a concess�
 
 f) Os ativos incorpóreos correspondentes aos investimentos realizados pelas concessionárias associados aos processos de conversão de clientes para gás natural.
 
-###### Base VIII — Inventário do património
+Base VIII
+
+Inventário do património
 
 1 - A concessionária deve elaborar e manter permanentemente atualizado, e à disposição do concedente, um inventário do património afeto à concessão.
 
@@ -6046,11 +6598,15 @@ f) Os ativos incorpóreos correspondentes aos investimentos realizados pelas con
 
 3 - Os bens e direitos patrimoniais tornados desnecessários à concessão são abatidos ao inventário, nos termos previstos no n.º 2 da base x.
 
-###### Base IX — Manutenção dos bens afetos à concessão
+Base IX
+
+Manutenção dos bens afetos à concessão
 
 A concessionária fica obrigada a manter, durante o prazo de vigência da concessão, em permanente estado de bom funcionamento, conservação e segurança, os bens e meios afetos à concessão, efetuando para tanto as reparações, renovações, adaptações e modernizações necessárias ao bom desempenho do serviço público concedido.
 
-###### Base X — Regime de oneração e transmissão dos bens afetos à concessão
+Base X
+
+Regime de oneração e transmissão dos bens afetos à concessão
 
 1 - A concessionária não pode onerar ou transmitir, por qualquer forma, os bens que integram a concessão, sem prejuízo do disposto nos números seguintes.
 
@@ -6060,7 +6616,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 4 - A oneração ou transmissão de bens, e direitos, afetos à concessão em desrespeito do disposto na presente base determina a nulidade dos respetivos atos ou contratos.
 
-###### Base XI — Posse e propriedade dos bens
+Base XI
+
+Posse e propriedade dos bens
 
 1 - A concessionária detém a posse e propriedade dos bens afetos à concessão enquanto durar a concessão e até à extinção desta.
 
@@ -6068,7 +6626,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 ### CAPÍTULO III — Sociedade concessionária
 
-###### Base XII — Objeto social, sede e forma
+Base XII
+
+Objeto social, sede e forma
 
 1 - O projeto de estatutos da sociedade concessionária deve ser submetido a prévia aprovação do membro do Governo responsável pela área da energia.
 
@@ -6076,7 +6636,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 3 - O objeto social da concessionária pode incluir o exercício de outras atividades, para além das que integram o objeto da concessão e, bem assim, a participação no capital de outras sociedades, desde que seja respeitado o disposto nas presentes bases e na legislação aplicável ao setor do gás natural.
 
-###### Base XIII — Ações da concessionária
+Base XIII
+
+Ações da concessionária
 
 1 - Todas as ações representativas do capital social da concessionária são obrigatoriamente nominativas.
 
@@ -6086,7 +6648,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 4 - A oneração de ações referida no número anterior deve, em qualquer caso, ser comunicada ao concedente, a quem deve ser enviada, no prazo de 30 dias a contar a partir da data em que seja constituída, cópia autenticada do documento que formaliza a oneração e, bem assim, informação detalhada sobre quaisquer outros termos e condições que sejam estabelecidos.
 
-###### Base XIV — Deliberações dos órgãos da sociedade concessionária e acordos entre acionistas
+Base XIV
+
+Deliberações dos órgãos da sociedade concessionária e acordos entre acionistas
 
 1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização prévia do concedente, através do membro do Governo responsável pela área da energia, as deliberações da concessionária relativas à alteração do objeto social, à transformação, fusão, cisão ou dissolução da sociedade.
 
@@ -6094,7 +6658,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 3 - As autorizações a aprovações previstas na presente base não podem ser infundadamente recusadas e considerar-se-ão tacitamente concedidas se não forem recusadas, por escrito, no prazo de 30 dias a contar a partir da data da respetiva solicitação.
 
-###### Base XV — Financiamento
+Base XV
+
+Financiamento
 
 1 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, de forma a cumprir cabal e atempadamente todas as obrigações que assume no contrato de concessão.
 
@@ -6102,7 +6668,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 ### CAPÍTULO IV — Construção, planeamento, remodelação e expansão das infraestruturas
 
-###### Base XVI — Projetos
+Base XVI
+
+Projetos
 
 1 - A construção e a exploração da rede e demais infraestruturas de distribuição de gás natural ficam sujeitas à aprovação dos respetivos projetos nos termos da legislação aplicável.
 
@@ -6110,7 +6678,9 @@ A concessionária fica obrigada a manter, durante o prazo de vigência da conces
 
 3 - A aprovação dos projetos pelo concedente não implica, para este, qualquer responsabilidade derivada de erros de conceção, projeto, construção ou da inadequação das instalações e do equipamento ao serviço da concessão.
 
-###### Base XVII — Direitos e deveres decorrentes da aprovação dos projetos
+Base XVII
+
+Direitos e deveres decorrentes da aprovação dos projetos
 
 1 - A aprovação dos respetivos projetos confere à concessionária, nomeadamente, os seguintes direitos:
 
@@ -6126,7 +6696,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 4 - No atravessamento de terrenos do domínio público ou dos particulares, a concessionária deve adotar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XVIII — Planeamento, remodelação e expansão das redes e demais infraestruturas
+Base XVIII
+
+Planeamento, remodelação e expansão das redes e demais infraestruturas
 
 1 - O planeamento das redes e demais infraestruturas está integrado no planeamento da RNDGN, nos termos previstos na legislação e na regulamentação aplicáveis.
 
@@ -6140,7 +6712,9 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 ### CAPÍTULO V — Exploração das infraestruturas
 
-###### Base XIX — Condições de exploração
+Base XIX
+
+Condições de exploração
 
 1 - A concessionária, enquanto operadora da RNDGN na área da sua concessão, é responsável pela exploração e manutenção das redes e infraestruturas que integram a concessão, no respeito pela legislação e regulamentação aplicáveis.
 
@@ -6148,17 +6722,23 @@ c) Proceder à expropriação, por utilidade pública e urgente, nos termos da l
 
 3 - A concessionária deve assegurar que a distribuição de gás natural é efetuada em condições técnicas adequadas, de forma a garantir a segurança de pessoas e bens.
 
-###### Base XX — Informação
+Base XX
+
+Informação
 
 A concessionária tem a obrigação de fornecer ao concedente todos os elementos relativos à concessão que este entenda dever solicitar-lhe.
 
-###### Base XXI — Participação de desastres e acidentes
+Base XXI
+
+Participação de desastres e acidentes
 
 1 - A concessionária é obrigada a participar imediatamente à DGEG todos os desastres e acidentes ocorridos nas suas instalações e, se tal não for possível, no prazo máximo de três dias a contar a partir da data da ocorrência.
 
 2 - Sem prejuízo das competências atribuídas às autoridades públicas, sempre que dos desastres ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais importantes, a concessionária deve elaborar, e enviar ao concedente, um relatório técnico com a análise das circunstâncias da ocorrência e com o estado das instalações.
 
-###### Base XXII — Ligações das redes de distribuição à RNTGN e aos consumidores
+Base XXII
+
+Ligações das redes de distribuição à RNTGN e aos consumidores
 
 1 - A ligação das redes de distribuição à RNTGN deve fazer-se nas condições previstas nos regulamentos aplicáveis.
 
@@ -6172,11 +6752,15 @@ A concessionária tem a obrigação de fornecer ao concedente todos os elementos
 
 6 - A concessionária tem o direito de montar, nas instalações dos consumidores, equipamentos de medida ou de telemedida, bem como sistemas de proteção nos pontos de ligação da sua rede com essas instalações.
 
-###### Base XXIII — Relacionamento com a concessionária da RNTGN
+Base XXIII
+
+Relacionamento com a concessionária da RNTGN
 
 A concessionária encontra-se sujeita às obrigações que decorrem do exercício, por parte da concessionária da RNTGN, das suas competências em matéria de gestão técnica global do SNGN, planeamento da RNTIAT e segurança do abastecimento, nos termos previstos na legislação e na regulamentação aplicáveis.
 
-###### Base XXIV — Interrupção por facto imputável ao consumidor
+Base XXIV
+
+Interrupção por facto imputável ao consumidor
 
 1 - A concessionária pode interromper a prestação do serviço público concessionado nos termos da regulamentação aplicável e, nomeadamente, nos seguintes casos:
 
@@ -6188,7 +6772,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 2 - A concessionária pode, ainda, interromper unilateralmente a prestação do serviço público concessionado aos consumidores que causem perturbações que afetem a qualidade do serviço prestado quando, uma vez identificadas as causas perturbadoras, os consumidores, após aviso da concessionária, não corrijam as anomalias em prazo adequado, tendo em consideração os trabalhos a realizar.
 
-###### Base XXV — Interrupções por razões de interesse público ou de serviço
+Base XXV
+
+Interrupções por razões de interesse público ou de serviço
 
 1 - A prestação do serviço público concessionado pode ser interrompida por razões de interesse público, nomeadamente quando se trate da execução de planos nacionais de emergência, declarada ao abrigo de legislação específica.
 
@@ -6196,13 +6782,17 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 3 - Nas situações referidas nos números anteriores, a concessionária deve avisar os utilizadores das redes e os consumidores que possam vir a ser afetados, com a antecedência mínima de 36 horas, salvo no caso da realização de trabalhos que a segurança de pessoas e bens torne inadiáveis ou quando haja necessidade urgente de trabalhos para garantir a segurança das redes e demais infraestruturas de distribuição de gás natural.
 
-###### Base XXVI — Medidas de proteção
+Base XXVI
+
+Medidas de proteção
 
 1 - Sem prejuízo das medidas de emergência adotadas pelo Governo, quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas ou bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança.
 
 2 - As medidas referidas no número anterior devem ser imediatamente comunicadas à DGEG, às respetivas autoridades concelhias, à autoridade policial da zona afetada e, se for caso disso, ao Serviço Nacional de Proteção Civil.
 
-###### Base XXVII — Responsabilidade civil
+Base XXVII
+
+Responsabilidade civil
 
 1 - A concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da atividade objeto da concessão.
 
@@ -6212,7 +6802,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 4 - A concessionária deve apresentar ao concedente os documentos comprovativos da celebração do seguro, bem como da atualização referida no número anterior.
 
-###### Base XXVIII — Cobertura por seguros
+Base XXVIII
+
+Cobertura por seguros
 
 1 - Para além do seguro referido na base anterior, a concessionária deve assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efetiva cobertura dos riscos da concessão.
 
@@ -6222,7 +6814,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 ### CAPÍTULO VI — Garantias e fiscalização do cumprimento das obrigações da concessionária
 
-###### Base XXIX — Caução
+Base XXIX
+
+Caução
 
 1 - Para a garantia do pontual e integral cumprimento das obrigações emergentes do contrato de concessão e da cobrança das multas aplicadas, a concessionária deve, antes da assinatura do contrato de concessão, prestar a favor do concedente uma caução a definir no contrato de concessão entre (euro) 1 000 000 e (euro) 5000 000.
 
@@ -6238,7 +6832,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 7 - A caução prevista nesta base bem como outras que a concessionária venha a estar obrigada a constituir a favor do concedente devem ser prestadas por depósito em dinheiro ou por garantia bancária autónoma à primeira solicitação, cujo texto deve ser previamente aprovado pelo concedente.
 
-###### Base XXX — Fiscalização e regulação
+Base XXX
+
+Fiscalização e regulação
 
 1 - Sem prejuízo das competências atribuídas a outras entidades públicas, cabe à DGEG o exercício dos poderes de fiscalização da concessão, nomeadamente no que se refere ao cumprimento das disposições legais e regulamentares aplicáveis e do contrato de concessão.
 
@@ -6248,7 +6844,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 ### CAPÍTULO VII — Modificações objetivas e subjetivas da concessão
 
-###### Base XXXI — Alteração do contrato de concessão
+Base XXXI
+
+Alteração do contrato de concessão
 
 1 - O contrato de concessão pode ser alterado unilateralmente pelo concedente, sem prejuízo da reposição do respetivo equilíbrio económico e financeiro nos termos previstos na base xxxiv.
 
@@ -6256,7 +6854,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 3 - O contrato de concessão pode ainda ser modificado por acordo entre o concedente e a concessionária, desde que a modificação não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
-###### Base XXXII — Transmissão e oneração da concessão
+Base XXXII
+
+Transmissão e oneração da concessão
 
 1 - A concessionária não pode, sem prévia autorização do concedente, através do membro do Governo responsável pela área da energia, onerar, subconceder, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados.
 
@@ -6272,7 +6872,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 ### CAPÍTULO VIII — Condição económica e financeira da concessionária
 
-###### Base XXXIII — Equilíbrio económico e financeiro da concessão
+Base XXXIII
+
+Equilíbrio económico e financeiro da concessão
 
 1 - É garantido à concessionária o equilíbrio económico e financeiro da concessão, nas condições de uma gestão eficiente.
 
@@ -6280,7 +6882,9 @@ c) Incumprimento de obrigações contratuais pelo cliente final, designadamente 
 
 3 - A concessionária é responsável por todos os riscos inerentes à concessão, sem prejuízo do disposto na legislação aplicável e nas presentes bases.
 
-###### Base XXXIV — Reposição do equilíbrio económico e financeiro
+Base XXXIV
+
+Reposição do equilíbrio económico e financeiro
 
 1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio financeiro da concessão, nos seguintes casos:
 
@@ -6302,7 +6906,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 ### CAPÍTULO IX — Incumprimento do contrato de concessão
 
-###### Base XXXV — Responsabilidade da concessionária por incumprimento
+Base XXXV
+
+Responsabilidade da concessionária por incumprimento
 
 1 - A violação, pela concessionária, de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.
 
@@ -6320,7 +6926,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 8 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, dos efeitos da verificação de um caso de força maior.
 
-###### Base XXXVI — Multas contratuais
+Base XXXVI
+
+Multas contratuais
 
 1 - Sem prejuízo das situações de incumprimento que podem dar origem a sequestro ou rescisão da concessão nos termos previstos nas presentes bases e no contrato de concessão, o incumprimento pela concessionária de quaisquer obrigações assumidas no contrato de concessão pode ser sancionado, por decisão do concedente, pela aplicação de multas contratuais, cujo montante varia em função da gravidade da infração cometida e do grau de culpa do infrator, até (euro) 5 000 000.
 
@@ -6334,7 +6942,9 @@ d) Combinação das modalidades anteriores ou qualquer outra forma que seja acor
 
 6 - A aplicação de multas não prejudica a aplicação de outras sanções contratuais nem de outras sanções previstas na lei ou em regulamento nem isenta a concessionária da responsabilidade civil, criminal e contraordenacional em que incorrer perante o concedente ou terceiro.
 
-###### Base XXXVII — Sequestro
+Base XXXVII
+
+Sequestro
 
 1 - Em caso de incumprimento grave pela concessionária das obrigações emergentes do contrato de concessão, o concedente, através de despacho do membro do Governo responsável pela área da energia, pode, mediante sequestro, tomar conta da concessão.
 
@@ -6362,7 +6972,9 @@ c) Deficiências graves no estado geral das redes e demais infraestruturas que c
 
 ### CAPÍTULO X — Suspensão e extinção da concessão
 
-###### Base XXXVIII — Casos de extinção da concessão
+Base XXXVIII
+
+Casos de extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do respetivo prazo.
 
@@ -6372,7 +6984,9 @@ c) Deficiências graves no estado geral das redes e demais infraestruturas que c
 
 4 - A tomada de posse do estabelecimento da concessão pelo concedente é precedida de vistoria ad perpetuam rei memoriam, realizada pelo concedente, à qual assistem representantes da concessionária, destinada à verificação do estado de conservação e manutenção dos bens, devendo ser lavrado o respetivo auto.
 
-###### Base XXXIX — Decurso do prazo da concessão
+Base XXXIX
+
+Decurso do prazo da concessão
 
 1 - Decorrido o prazo da concessão, transmitem-se para o concedente todos os bens e meios afetos à concessão, livres de ónus ou encargos, em bom estado de conservação, funcionamento e segurança, sem prejuízo do normal desgaste do seu uso para os efeitos do contrato de concessão.
 
@@ -6380,13 +6994,17 @@ c) Deficiências graves no estado geral das redes e demais infraestruturas que c
 
 3 - Caso a concessionária não dê cumprimento ao disposto no n.º 1, o concedente promove a realização dos trabalhos e aquisições que sejam necessários à reposição dos bens aí referidos, correndo os respetivos custos pela concessionária e podendo ser utilizada a caução para os liquidar no caso de a concessionária não proceder ao pagamento voluntário e atempado dos referidos custos.
 
-###### Base XL — Procedimentos em caso de extinção da concessão
+Base XL
+
+Procedimentos em caso de extinção da concessão
 
 1 - O concedente reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efetuar, durante o mesmo prazo, a transferência progressiva da atividade objeto da concessão para a nova concessionária.
 
 2 - No contrato de concessão são previstos os termos e os modos pelos quais se procede, em caso de extinção da concessão, à transferência para o concedente da titularidade de eventuais direitos detidos pela concessionária sobre terceiros e que se revelem necessários para a continuidade da prestação dos serviços concedidos e, em geral, à tomada de quaisquer outras medidas tendentes a evitar a interrupção da prestação do serviço público concessionado.
 
-###### Base XLI — Resgate da concessão
+Base XLI
+
+Resgate da concessão
 
 1 - O concedente, através do membro do Governo responsável pela área da energia, pode resgatar a concessão sempre que o interesse público o justifique, decorridos que sejam, pelo menos, 15 anos sobre a data do início do respetivo prazo, mediante notificação feita à concessionária, por carta registada com aviso de receção, com, pelo menos, 1 ano de antecedência.
 
@@ -6400,7 +7018,9 @@ c) Deficiências graves no estado geral das redes e demais infraestruturas que c
 
 6 - Para efeitos do cálculo da indemnização, o valor dos bens que se encontrem anormalmente depreciados ou deteriorados devido a deficiência da concessionária na sua manutenção ou reparação é determinado de acordo com o seu estado de funcionamento efetivo.
 
-###### Base XLII — Rescisão do contrato de concessão pelo concedente
+Base XLII
+
+Rescisão do contrato de concessão pelo concedente
 
 1 - O concedente pode rescindir o contrato de concessão no caso de violação grave, não sanada ou não sanável, das obrigações da concessionária decorrentes do contrato de concessão.
 
@@ -6436,7 +7056,9 @@ i) Recusa da reconstituição atempada da caução.
 
 8 - A rescisão do contrato de concessão pelo concedente implica a transmissão gratuita de todos os bens e meios afetos à concessão para o concedente sem qualquer indemnização e, bem assim, a perda da caução prestada em garantia do pontual e integral cumprimento do contrato, sem prejuízo do direito de o concedente ser indemnizado pelos prejuízos sofridos nos termos gerais de direito.
 
-###### Base XLIII — Rescisão do contrato de concessão pela concessionária
+Base XLIII
+
+Rescisão do contrato de concessão pela concessionária
 
 1 - A concessionária pode rescindir o contrato de concessão com fundamento no incumprimento grave das obrigações do concedente se do mesmo resultarem perturbações que ponham em causa o exercício da atividade concedida.
 
@@ -6448,11 +7070,15 @@ i) Recusa da reconstituição atempada da caução.
 
 ### CAPÍTULO XI — Disposições diversas
 
-###### Base XLIV — Exercício dos poderes do concedente
+Base XLIV
+
+Exercício dos poderes do concedente
 
 Os poderes do concedente referidos nas presentes bases, exceto quando devam ser exercidos pelo membro do Governo responsável pela área da energia, devem ser exercidos pela DGEG, sendo os atos praticados pelo respetivo diretor-geral ou pela ERSE, consoante as competências de cada uma destas entidades.
 
-###### Base XLV — Resolução de diferendos
+Base XLV
+
+Resolução de diferendos
 
 1 - O concedente e a concessionária podem celebrar convenções de arbitragem destinadas à resolução de quaisquer questões emergentes do contrato de concessão, nos termos da Lei n.º 31/86, de 29 de agosto.
 

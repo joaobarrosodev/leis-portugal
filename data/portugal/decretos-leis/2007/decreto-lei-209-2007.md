@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34693471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/2007/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-2007-638547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:57:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e38118ef42aeabe29fdd31ab9763e4ba02194a5f3795a638cc975ca71083c9f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b0d8dd4bb93fb3bafa05f25ba29872ee2992f7d41236bde3524e24596bd8a05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho Consultivo
 - Definição de Competências
 - Diretor Geral
 - Ministério do Trabalho e da Solidariedade Social
-- Conselho Consultivo
 - Orgânica
 - Subdirector Geral
 relationships:
@@ -76,6 +76,31 @@ relationships:
   target: pt:dre:178818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145193:por
+  label: "Determinada a reestruturação do Gabinete de Estratégia e Planenamento, cuja orgânica e competências constam deste\
+    \ diploma, pelo DEC LEI.126/2011.29.12.2011.MSSSOC, DR.IS [249] de 29.12.2011, nos termos do disposto no nº 4 do seu art.\
+    \ 25º e arys. 26º e 28º, sendo as suas atribuições nos domínios do trabalho, emprego, formação profissional e segurança\
+    \ e saúde no trabalho, excepto no plano das relações internacionais e de cooperação, integradas no Gabinete de Estratégia\
+    \ e Estudos; e as suas atribuições no domínio das relações internacionais e de cooperação, designadamente com países de\
+    \ língua oficial portuguesa, nas áreas do trabalho, emprego, formação profissional e segurança e saúde no trabalho integradas\
+    \ na Direcção-Geral das Actividades Económicas, ambos do Ministério da Economia e do Emprego. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-2011-145193
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:543046:por
+  label: "Considerado revogado, a partir de 01.03.2012, pelo DR.24/2012.13.02.2012.MSSSOC, DR.IS [31] de 13.02.2012, conforme\
+    \ o seu art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-2012-543046
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:178818:por
+  label: "Determinado, a partir de 01.07.2012, que o Gabinete de Estratégia e Estudos, suceda nas atribuições nos domínios\
+    \ do trabalho, emprego, formação profissional e segurança e saúde no trabalho, exceto no plano das relações internacionais\
+    \ e de cooperação, no Gabinete de Estratégia e Planeamento do extinto Ministério do Trabalho e da Solidariedade Social,\
+    \ pelo DR.45/2012.20.06.2012.MEE, DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-2012-178818
+  date: '2012-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/137/2003/06/28/p/dre
   label: null
@@ -92,16 +117,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/418/1998/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/418/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:169458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693252:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:635797:por
+  label: "Rectificado pela DECL-RECT.66/2007.05.07.2007.PCM, DR.IS [128] de 05.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/66-2007-635797
+  date: '2007-07-05'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:57:53Z'
   warnings: []
   errors: []
 ---
@@ -242,16 +288,16 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
 
-**Promulgado em 14 de Abril de 2007.**
+Promulgado em 14 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANÍBAL CAVACO SILVA.**
+O Presidente da República, ANÍBAL CAVACO SILVA.
 
-**Referendado em 16 de Abril de 2007.**
+Referendado em 16 de Abril de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (quadro a que se refere o artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10300/34693471.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10300/34693471.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/34693471.pdf)

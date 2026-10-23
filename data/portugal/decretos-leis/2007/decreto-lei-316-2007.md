@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T02:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dde51631bc921ad41b60f21b44584853dfcc6e20fbff09243451b9987fef5f72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c90c76080ca954970f1039d68d6fc923c978821b4b3d3393803593de6cb09ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Análise Económica
-- Construção Clandestina
-- Multa
-- Ordenamento do Território
+- Autarquia Local
 - Comissão Mista de Coordenação
+- Construção Clandestina
 - Contra-ordenação
-- Política Industrial
 - Desenvolvimento Regional
-- Planeamento Urbano
-- Orla Costeira
-- Política de Saúde
-- Indemnização
 - Direito à Informação
 - Diversidade Biológica
-- Política de Solos
+- Indemnização
+- Madeira.região Autónoma
+- Multa
+- Ordenamento do Território
+- Orla Costeira
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
 - Plano Regional
+- Plano Regional de Ordenamento do Território
+- Política de Saúde
+- Política de Solos
 - Política do Ambiente
 - Política Económica
+- Política Industrial
 - Política Social
-- Urbanismo
-- Madeira.região Autónoma
-- Plano Regional de Ordenamento do Território
 - Regime Jurídico
-- Açores
-- Autarquia Local
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:191996:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602059:por
+  label: "Alterados os art.s 77º, 92º-A, 93º, 95º, 97º-A, 100º, 104º, 107º, 109º e 148º do Dec Lei 380/99, de 22-Set, na redacção\
+    \ do presente diploma, pelo DEC LEI.46/2009.20.02.2009.MAOTDR, DR.IS [36] de 20.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46-2009-602059
+  date: '2009-02-20'
+- type: amended_by
+  target: pt:dre:494006:por
+  label: "Alterados o nº 3 do art. 77º ( na redacção do Dec Lei 310/2003, de 10-Dez, da Decl Rect 104/2007, de 06-Nov e do\
+    \ Dec Lei 46/2009, de 20-Fev), o nº 2 do art. 85º ( na redacção do Dec Lei 310/2003, de 10-Dez), a al. b) do nº 4 do art.\
+    \ 107º ( com efeitos desde 24.09.2007 a 25.02.2009 ) e as als. j) do nº 2 ( com efeitos desde 24.09.2007 a 25.02.2009\
+    \ ) e d) do nº 4 do art. 148º ( ambos na redacção do Dec Lei 310/2003, de 10-Dez, da Decl Rect 104/2007, de 06-Nov e do\
+    \ Dec Lei 46/2009, de 20-Fev ), e o nº 2 do art. 75º-B, todos do Dec Lei 380/99, de 22-Set, na redacção conferida pelos\
+    \ arts. 2º e 3º do presente diploma, pelo DEC LEI.181/2009.07.08.2009.MAOTDR, DR.IS [152] de 07.08.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/181-2009-494006
+  date: '2009-08-07'
+- type: amended_by
+  target: pt:dre:485605:por
+  label: "Alterados os art.s 148º e 151º do Dec Lei 380/99, de 22-Set, na redacção do presente diploma, pelo DEC LEI.2/2011.06.01.2011.PCM,\
+    \ DR.IS [4] de 06.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-2011-485605
+  date: '2011-01-06'
 - type: cites
   target: celex:32001L0042
   label: null
@@ -106,16 +128,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: corrected_by
+  target: pt:dre:629446:por
+  label: "Rectificado o presente diploma bem como o respectivo Anexo pela DECL-RECT.104/2007.06.11.2007.PCM, DR.IS [213] de\
+    \ 06.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/104-2007-629446
+  date: '2007-11-06'
 article_structure:
-  article_count: 258
+  article_count: 180
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:59:57Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +244,9 @@ c) Os planos especiais de ordenamento do território, compreendendo os planos de
 
 4 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -224,13 +254,17 @@ c) Os planos especiais de ordenamento do território, compreendendo os planos de
 
 3 - Na ratificação de planos directores municipais e nas deliberações municipais que aprovam os planos não sujeitos a ratificação devem ser expressamente indicadas as normas dos instrumentos de gestão territorial preexistentes revogadas ou alteradas.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A elaboração do programa nacional da política de ordenamento do território compete ao Governo, sob coordenação do ministro responsável pelo ordenamento do território.
 
 2 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O acompanhamento da elaboração da proposta de programa nacional da política de ordenamento do território inclui a concertação com as entidades que, no decurso dos trabalhos da comissão consultiva, formulem objecções às orientações do futuro programa.
 
@@ -240,7 +274,9 @@ c) Os planos especiais de ordenamento do território, compreendendo os planos de
 
 4 - (Revogado.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - Emitido o parecer da comissão consultiva e, quando for o caso, decorrido o período adicional de concertação, o Governo procede à abertura de um período de discussão pública, através de aviso a publicar no Diário da República e a divulgar através da comunicação social e da sua página na Internet, do qual consta a indicação do período de discussão, das eventuais sessões públicas a que haja lugar e dos locais onde se encontra disponível a proposta, acompanhada do parecer da comissão consultiva, dos demais pareceres eventualmente emitidos e dos resultados das reuniões de concertação, bem como da forma como os interessados podem apresentar as suas observações ou sugestões.
 
@@ -252,7 +288,9 @@ c) Os planos especiais de ordenamento do território, compreendendo os planos de
 
 5 - Findo o período de discussão pública, o Governo pondera e divulga os respectivos resultados, designadamente através da comunicação social e da sua página na Internet, e elabora a versão final da proposta a apresentar à Assembleia da República.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -264,7 +302,9 @@ b) ...
 
 c) ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +312,9 @@ c) ...
 
 3 - Sempre que seja necessário proceder à avaliação ambiental nos termos do artigo 3.º do Decreto-Lei n.º 232/2007, de 15 de Junho, o plano sectorial é acompanhado por um relatório ambiental, no qual se identificam, descrevem e avaliam os eventuais efeitos significativos no ambiente resultantes da aplicação do plano e as suas alternativas razoáveis que tenham em conta os objectivos e o âmbito de aplicação territorial respectivos.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -300,7 +342,9 @@ g) A indicação se o plano está sujeito a avaliação ambiental ou as razões 
 
 6 - Os pareceres solicitados ao abrigo dos números anteriores são emitidos no prazo de 15 dias e podem não ser considerados, caso sejam emitidos após o decurso desse prazo.
 
-###### Artigo 39.º — Acompanhamento
+Artigo 39.º
+
+Acompanhamento
 
 1 - No decurso da elaboração do plano sectorial, a entidade responsável pela elaboração do plano solicita parecer à comissão de coordenação e desenvolvimento regional territorialmente competente, às entidades ou serviços da administração central representativas dos interesses a ponderar, bem como às câmaras municipais das autarquias abrangidas, as quais se devem pronunciar no prazo de 22 dias, findo o qual se considera nada terem a opor à proposta de plano.
 
@@ -310,7 +354,9 @@ g) A indicação se o plano está sujeito a avaliação ambiental ou as razões 
 
 4 - (Revogado.)
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - Concluída a elaboração do plano sectorial e emitidos os pareceres previstos no artigo anterior ou decorridos os prazos aí fixados, a entidade pública responsável pela elaboração do plano procede à abertura de um período de discussão pública da proposta de plano sectorial através de aviso a publicar, com a antecedência de cinco dias, no Diário da República e a divulgar através da comunicação social e da Internet.
 
@@ -322,11 +368,15 @@ g) A indicação se o plano está sujeito a avaliação ambiental ou as razões 
 
 5 - Findo o período de discussão pública, a entidade pública responsável pondera e divulga os respectivos resultados, designadamente através da comunicação social e da Internet, e elabora a versão final da proposta para aprovação.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 Os planos especiais de ordenamento do território estabelecem regimes de salvaguarda de recursos e valores naturais e o regime de gestão compatível com a utilização sustentável do território.
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - ...
 
@@ -340,7 +390,9 @@ c) [Anterior alínea b).]
 
 3 - Os demais elementos que podem acompanhar os planos especiais de ordenamento do território são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A elaboração dos planos especiais de ordenamento do território é determinada por despacho do ministro competente em razão da matéria, do qual deve, nomeadamente, constar:
 
@@ -360,7 +412,9 @@ g) O prazo de elaboração.
 
 2 - A composição da comissão de acompanhamento é definida tendo em conta os critérios estabelecidos em resolução do Conselho de Ministros.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - A elaboração técnica dos planos especiais de ordenamento do território é acompanhada por uma comissão de acompanhamento cuja composição deve traduzir a natureza dos interesses a salvaguardar e a relevância das implicações técnicas a considerar, integrando representantes de serviços e entidades da administração directa ou indirecta do Estado, das Regiões Autónomas, dos municípios e de outras entidades públicas cuja participação seja aconselhável no âmbito do acompanhamento da elaboração do plano.
 
@@ -376,7 +430,9 @@ g) O prazo de elaboração.
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Ao longo da elaboração dos planos especiais de ordenamento do território, a entidade pública responsável deve facultar aos interessados todos os elementos relevantes para que estes possam conhecer o estado dos trabalhos e a evolução da tramitação procedimental, bem como formular sugestões à entidade pública responsável e à comissão de acompanhamento.
 
@@ -394,7 +450,9 @@ g) O prazo de elaboração.
 
 8 - Findo o período de discussão pública, a entidade pública responsável pondera e divulga os respectivos resultados, designadamente através da comunicação social e da sua página na Internet, e elabora a versão final da proposta para aprovação.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 ...
 
@@ -410,7 +468,9 @@ e) ...
 
 f) Medidas específicas de protecção e valorização do património cultural.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +492,9 @@ g) ...
 
 3 - Os planos regionais de ordenamento do território são ainda acompanhados por um relatório ambiental, no qual se identificam, descrevem e avaliam os eventuais efeitos significativos no ambiente resultantes da aplicação do plano e as suas alternativas razoáveis que tenham em conta os objectivos e o âmbito de aplicação territorial respectivos.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - A elaboração dos planos regionais de ordenamento do território é acompanhada por uma comissão consultiva, integrada por representantes das entidades e serviços da administração directa e indirecta do Estado que assegurem a prossecução dos interesses públicos relevantes, designadamente, em matéria de ordenamento do território, ambiente, conservação da natureza, habitação, economia, agricultura, florestas, obras públicas, transportes, comunicações, educação, saúde, segurança, protecção civil, desporto, cultura, dos municípios abrangidos, bem como de representantes dos interesses económicos, sociais, culturais e ambientais.
 
@@ -446,7 +508,9 @@ g) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - O acompanhamento da elaboração da proposta de plano regional de ordenamento do território inclui a concertação com as entidades que, no decurso dos trabalhos da comissão consultiva, formulem objecções às soluções definidas para o futuro plano.
 
@@ -456,13 +520,17 @@ g) ...
 
 4 - (Revogado.)
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - A discussão pública dos planos regionais de ordenamento do território rege-se, com as necessárias adaptações, pelas disposições relativas ao Programa Nacional da Política de Ordenamento do Território.
 
 2 - Juntamente com a proposta de plano é divulgado o respectivo relatório ambiental.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -472,7 +540,9 @@ a) Consagrar as formas e os prazos, previamente acordados com as câmaras munici
 
 b) Identificar as disposições dos planos municipais de ordenamento do território abrangidos incompatíveis com a estrutura regional do sistema urbano, das redes, das infra-estruturas e dos equipamentos de interesse regional e com a delimitação da estrutura regional de protecção e valorização ambiental, a adaptar nos termos da alínea c) do n.º 1 do artigo 97.º
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -480,7 +550,9 @@ b) Identificar as disposições dos planos municipais de ordenamento do territó
 
 3 - Sempre que seja necessário proceder à avaliação ambiental nos termos do artigo 2.º do Decreto-Lei n.º 232/2007, de 15 de Junho, os planos intermunicipais de ordenamento do território são ainda acompanhados pelo relatório ambiental, no qual se identificam, descrevem e avaliam os eventuais efeitos significativos no ambiente resultantes da aplicação do plano e as suas alternativas razoáveis que tenham em conta os objectivos e o âmbito de aplicação territorial respectivos.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -492,21 +564,29 @@ b) Identificar as disposições dos planos municipais de ordenamento do territó
 
 5 - Os pareceres solicitados ao abrigo dos números anteriores são emitidos no prazo de 15 dias e podem não ser considerados, caso sejam emitidos após o decurso desse prazo.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - A elaboração dos planos intermunicipais de ordenamento do território é acompanhada por uma comissão consultiva, aplicando-se quanto ao acompanhamento, concertação e discussão pública destes planos, as disposições relativas ao plano director municipal, com as necessárias adaptações.
 
 2 - No âmbito do parecer final da comissão consultiva, a posição da comissão de coordenação e desenvolvimento regional inclui obrigatoriamente a apreciação sobre a conformidade com as disposições legais e regulamentares vigentes e a articulação e coerência da proposta com os objectivos, princípios e regras aplicáveis no território em causa, definidos por quaisquer outros instrumentos de gestão territorial eficazes.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - Concluída a versão final, a proposta de plano intermunicipal de ordenamento do território é enviada à comissão de coordenação e desenvolvimento regional territorialmente competente, a qual pode emitir parecer no prazo de 10 dias, improrrogáveis, a notificar, sendo o caso, às assembleias municipais interessadas e à assembleia intermunicipal.
 
 2 - O parecer referido no número anterior, quando emitido, não possui carácter vinculativo e incide apenas sobre a conformidade com as disposições legais e regulamentares vigentes e a compatibilidade ou conformidade com os instrumentos de gestão territorial eficazes.
 
-###### Artigo 68.º — (Revogado.)
+Artigo 68.º
 
-###### Artigo 74.º — [...]
+(Revogado.)
+
+Artigo 74.º
+
+[...]
 
 1 - A elaboração dos planos municipais de ordenamento do território compete à câmara municipal, sendo determinada por deliberação, a publicar no Diário da República e a divulgar através da comunicação social e na respectiva página da Internet, que estabelece os respectivos prazos de elaboração e do período de participação a que se refere o n.º 2 do artigo 77.º
 
@@ -526,7 +606,9 @@ b) Identificar as disposições dos planos municipais de ordenamento do territó
 
 9 - Os pareceres solicitados ao abrigo dos números anteriores são emitidos no prazo de 15 dias e podem não ser considerados, caso sejam emitidos após o decurso desse prazo.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - O acompanhamento da elaboração dos planos municipais de ordenamento do território visa:
 
@@ -556,7 +638,9 @@ d) Promover o estabelecimento de uma adequada concertação de interesses.
 
 10 - (Revogado.)
 
-###### Artigo 76.º — [...]
+Artigo 76.º
+
+[...]
 
 1 - O acompanhamento da elaboração da proposta de plano director municipal inclui a concertação com as entidades que, no decurso dos trabalhos da comissão de acompanhamento, formulem objecções às soluções definidas para o futuro plano.
 
@@ -570,7 +654,9 @@ d) Promover o estabelecimento de uma adequada concertação de interesses.
 
 6 - (Revogado.)
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - ...
 
@@ -594,19 +680,25 @@ d) Promover o estabelecimento de uma adequada concertação de interesses.
 
 11 - (Revogado.)
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - Concluído o projecto de versão final do plano director municipal, este é enviado à comissão de coordenação e desenvolvimento regional territorialmente competente, a qual pode emitir parecer no prazo de 10 dias, improrrogáveis, a notificar, sendo o caso, à câmara municipal e à assembleia municipal.
 
 2 - O parecer referido no número anterior, quando emitido, não possui carácter vinculativo e incide apenas sobre a conformidade com as disposições legais e regulamentares vigentes e a compatibilidade ou conformidade com os instrumentos de gestão territorial eficazes.
 
-###### Artigo 79.º — Aprovação
+Artigo 79.º
+
+Aprovação
 
 1 - ...
 
 2 - Se o plano director municipal aprovado mantiver incompatibilidades com plano sectorial ou plano regional de ordenamento do território, deve ser solicitada a sua ratificação nos termos do artigo 80.º
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - A ratificação pelo Governo do plano director municipal tem como efeito a derrogação das normas dos planos sectoriais e dos planos regionais de ordenamento do território incompatíveis com as opções municipais.
 
@@ -622,7 +714,9 @@ d) Promover o estabelecimento de uma adequada concertação de interesses.
 
 7 - A ratificação do plano director municipal é efectuada por resolução do Conselho de Ministros.
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -636,7 +730,9 @@ c) Plano de pormenor - dois meses.
 
 3 - Os prazos fixados no número anterior suspendem-se nos casos previstos no n.º 2 do artigo anterior.
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - O plano director municipal estabelece a estratégia de desenvolvimento territorial, a política municipal de ordenamento do território e de urbanismo e as demais políticas urbanas, integra e articula as orientações estabelecidas pelos instrumentos de gestão territorial de âmbito nacional e regional e estabelece o modelo de organização espacial do território municipal.
 
@@ -646,7 +742,9 @@ c) Plano de pormenor - dois meses.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - O plano director municipal define um modelo de organização municipal do território nomeadamente estabelecendo:
 
@@ -696,7 +794,9 @@ a) Tenha decorrido o prazo de cinco anos sobre a data de entrada em vigor do pla
 
 b) Os índices e parâmetros de referência estabelecidos no plano director municipal definam os usos e a cércea máxima a observar, bem como os indicadores relativos à definição da rede viária e do estacionamento.
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1 - ...
 
@@ -718,7 +818,9 @@ d) Programa de execução, contendo designadamente disposições indicativas sob
 
 3 - Os demais elementos que acompanham o plano director municipal são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - O plano de urbanização concretiza, para uma determinada área do território municipal, a política de ordenamento do território e de urbanismo, fornecendo o quadro de referência para a aplicação das políticas urbanas e definindo a estrutura urbana, o regime de uso do solo e os critérios de transformação do território.
 
@@ -730,7 +832,9 @@ b) Outras áreas do território municipal que, de acordo com os objectivos e pri
 
 3 - Sem prejuízo do disposto na alínea d) do artigo 88.º, o solo rural complementar referido na alínea a) do número anterior não pode ser objecto de reclassificação.
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 O plano de urbanização deve adoptar o conteúdo material apropriado às condições da área territorial a que respeita, aos objectivos das políticas urbanas e às transformações previstas nos termos de referência e na deliberação municipal que determinou a sua elaboração, dispondo nomeadamente sobre:
 
@@ -754,7 +858,9 @@ i) A delimitação e os objectivos das unidades ou subunidades operativas de pla
 
 j) A identificação dos sistemas de execução do plano.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -774,7 +880,9 @@ c) Programa de execução, contendo designadamente disposições indicativas sob
 
 3 - Os demais elementos que acompanham o plano de urbanização são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - O plano de pormenor desenvolve e concretiza propostas de ocupação de qualquer área do território municipal, estabelecendo regras sobre a implantação das infra-estruturas e o desenho dos espaços de utilização colectiva, a forma de edificação e a disciplina da sua integração na paisagem, a localização e inserção urbanística dos equipamentos de utilização colectiva e a organização espacial das demais actividades de interesse geral.
 
@@ -782,7 +890,9 @@ c) Programa de execução, contendo designadamente disposições indicativas sob
 
 3 - O plano de pormenor abrange áreas contínuas do território municipal, correspondentes, designadamente, a uma unidade ou subunidade operativa de planeamento e gestão ou a parte delas.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1 - O plano de pormenor deve adoptar o conteúdo material apropriado às condições da área territorial a que respeita e aos objectivos previstos nos termos de referência e na deliberação municipal que determinou a sua elaboração, estabelecendo nomeadamente:
 
@@ -812,7 +922,9 @@ l) A estruturação das acções de perequação compensatória.
 
 3 - ...
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - ...
 
@@ -850,7 +962,9 @@ g) Quadro de transformação fundiária explicitando o relacionamento entre os p
 
 4 - Os demais elementos que acompanham o plano de pormenor são fixados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - Os instrumentos de gestão territorial podem ser objecto de alteração, de rectificação, de revisão e de suspensão.
 
@@ -866,7 +980,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 95.º — [...]
+Artigo 95.º
+
+[...]
 
 1 - ...
 
@@ -882,7 +998,9 @@ d) As alterações resultantes de situações de interesse público não previst
 
 e) As alterações aos planos de ordenamento de áreas protegidas decorrentes de alterações dos limites da área protegida respectiva.
 
-###### Artigo 96.º — [...]
+Artigo 96.º
+
+[...]
 
 1 - As alterações aos instrumentos de gestão territorial seguem, com as devidas adaptações, os procedimentos previstos no presente diploma para a sua elaboração, aprovação, ratificação e publicação, com excepção do disposto nos números e artigos seguintes.
 
@@ -900,7 +1018,9 @@ e) As alterações aos planos de ordenamento de áreas protegidas decorrentes de
 
 8 - (Anterior n.º 3.)
 
-###### Artigo 97.º — Alteração por adaptação
+Artigo 97.º
+
+Alteração por adaptação
 
 1 - A alteração por adaptação dos instrumentos de gestão territorial decorre:
 
@@ -920,7 +1040,9 @@ e) (Revogada.)
 
 4 - (Revogado.)
 
-###### Artigo 99.º — [...]
+Artigo 99.º
+
+[...]
 
 1 - A suspensão, total e parcial, de instrumentos de desenvolvimento territorial e de instrumentos de política sectorial ocorre quando se verifiquem circunstâncias excepcionais resultantes de alteração significativa das perspectivas de desenvolvimento económico-social incompatíveis com a concretização das opções estabelecidas no plano, ouvidas as câmaras municipais das autarquias abrangidas, a comissão de coordenação e desenvolvimento regional e a entidade pública responsável pela elaboração do plano sectorial.
 
@@ -928,7 +1050,9 @@ e) (Revogada.)
 
 3 - O acto que determina a suspensão deve conter a fundamentação, o prazo e a incidência territorial da suspensão, bem como indicar expressamente as disposições suspensas.
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - ...
 
@@ -944,19 +1068,25 @@ b) ...
 
 5 - A ratificação pelo Governo da deliberação da assembleia municipal prevista na alínea b) do n.º 2 incide exclusivamente sobre a suspensão do plano municipal de ordenamento do território e destina-se a assegurar o cumprimento das disposições legais e regulamentares aplicáveis.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 1 - A compatibilidade ou conformidade entre os diversos instrumentos de gestão territorial é condição da respectiva validade.
 
 2 - ...
 
-###### Artigo 102.º — [...]
+Artigo 102.º
+
+[...]
 
 1 - São nulos os planos elaborados e aprovados em violação de qualquer instrumento de gestão territorial com o qual devessem ser compatíveis ou conformes.
 
 2 - ...
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - ...
 
@@ -978,7 +1108,9 @@ a) O presidente da câmara municipal ou o presidente da comissão de coordenaç�
 
 b) ...
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - ...
 
@@ -994,7 +1126,9 @@ c) (Revogada.)
 
 4 - As ordens de embargo e de demolição são objecto de registo na conservatória de registo predial competente mediante comunicação do presidente da câmara municipal, da comissão de coordenação e desenvolvimento regional ou do órgão competente dependente do membro do Governo responsável pelo ordenamento do território, procedendo-se oficiosamente aos necessários averbamentos.
 
-###### Artigo 107.º — [...]
+Artigo 107.º
+
+[...]
 
 1 - ...
 
@@ -1014,7 +1148,9 @@ c) (Revogada.)
 
 9 - ...
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - ...
 
@@ -1026,7 +1162,9 @@ c) (Revogada.)
 
 5 - A deliberação municipal referida no n.º 1, bem como a de prorrogação das medidas preventivas está sujeita a publicação nos termos da alínea e) do n.º 4 do artigo 148.º
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
@@ -1044,17 +1182,23 @@ c) (Revogada.)
 
 8 - ...
 
-###### Artigo 114.º — [...]
+Artigo 114.º
+
+[...]
 
 1 - ...
 
 2 - A competência para ordenar o embargo, a demolição, a reposição da configuração do terreno ou a recuperação do coberto vegetal referidos no número anterior pertence ao presidente da câmara municipal ou, quando se trate de medidas preventivas estabelecidas pelo Governo, ao presidente da comissão de coordenação e desenvolvimento regional ou ao órgão competente dependente do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 São nulos os actos administrativos que decidam pedidos de licenciamento ou admitam comunicações prévias com inobservância das proibições ou limitações consequentes do estabelecimento de medidas preventivas ou que violem os pareceres vinculativos nelas previstos.
 
-###### Artigo 117.º — Suspensão de procedimentos
+Artigo 117.º
+
+Suspensão de procedimentos
 
 1 - Nas áreas a abranger por novas regras urbanísticas constantes de plano especial ou municipal de ordenamento do território ou sua revisão, os procedimentos de informação prévia, de comunicação prévia e de licenciamento ficam suspensos a partir da data fixada para o início do período de discussão pública e até à data da entrada em vigor daqueles instrumentos de planeamento.
 
@@ -1068,7 +1212,9 @@ São nulos os actos administrativos que decidam pedidos de licenciamento ou admi
 
 6 - Caso o plano seja aprovado com alterações ao projecto a que se refere o número anterior, os interessados podem, querendo, reformular a sua pretensão, dispondo de idêntica possibilidade aqueles que não tenham feito uso da faculdade prevista no mesmo número.
 
-###### Artigo 131.º — [...]
+Artigo 131.º
+
+[...]
 
 1 - O reparcelamento da propriedade é a operação que consiste no agrupamento de terrenos localizados dentro de perímetros urbanos delimitados em plano municipal de ordenamento do território e na sua posterior divisão ajustada àquele, com a adjudicação das parcelas resultantes aos primitivos proprietários ou a outras entidades interessadas na operação.
 
@@ -1090,7 +1236,9 @@ São nulos os actos administrativos que decidam pedidos de licenciamento ou admi
 
 10 - A operação de reparcelamento em área abrangida por plano de pormenor que contenha as menções constantes das alíneas a) a d), h) e i) do n.º 1 do artigo 91.º pode concretizar-se através dos contratos referidos no números anteriores e registo efectuado nos termos dos artigos 92.º-A e 92.º-B, não lhe sendo aplicável o disposto no n.º 6 do presente artigo.
 
-###### Artigo 132.º — [...]
+Artigo 132.º
+
+[...]
 
 1 - ...
 
@@ -1102,7 +1250,9 @@ São nulos os actos administrativos que decidam pedidos de licenciamento ou admi
 
 5 - ...
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 1 - O licenciamento ou a aprovação da operação de reparcelamento produz os seguintes efeitos:
 
@@ -1114,7 +1264,9 @@ c) Transmissão para a câmara municipal, de pleno direito e livre de quaisquer 
 
 2 - A operação de reparcelamento concretizada nos termos do n.º 10 do artigo 131.º produz os efeitos referidos no número anterior com as adaptações decorrentes do disposto nos artigos 92.º-A e 92.º-B.
 
-###### Artigo 134.º — [...]
+Artigo 134.º
+
+[...]
 
 1 - ...
 
@@ -1122,7 +1274,9 @@ c) Transmissão para a câmara municipal, de pleno direito e livre de quaisquer 
 
 3 - Os custos da urbanização são repartidos pelos proprietários e as outras entidades interessadas ou por estes e pela câmara municipal nos termos do artigo 142.º
 
-###### Artigo 144.º — [...]
+Artigo 144.º
+
+[...]
 
 1 - As entidades responsáveis pela elaboração dos instrumentos de gestão territorial promovem a permanente avaliação da adequação e concretização da disciplina consagrada nos mesmos, bem como, relativamente aos planos sujeitos a avaliação ambiental, dos efeitos significativos da sua execução no ambiente, por forma a identificar os efeitos negativos imprevistos e aplicar as necessárias medidas correctivas previstas na declaração ambiental.
 
@@ -1134,11 +1288,15 @@ c) Transmissão para a câmara municipal, de pleno direito e livre de quaisquer 
 
 5 - ...
 
-###### Artigo 147.º — [...]
+Artigo 147.º
+
+[...]
 
 O Governo promove a criação e o desenvolvimento de um sistema nacional de informação territorial, integrando os elementos de análise relevante nos âmbitos nacional, regional e local, a funcionar em articulação com o observatório referido no artigo 144.º
 
-###### Artigo 148.º — [...]
+Artigo 148.º
+
+[...]
 
 1 - ...
 
@@ -1178,7 +1336,9 @@ d) A deliberação municipal que aprova o plano municipal de ordenamento do terr
 
 e) A deliberação municipal que aprova as medidas preventivas não sujeitas a ratificação, incluindo o respectivo texto e a planta de delimitação, bem como a deliberação municipal que aprova a prorrogação do prazo de vigência das medidas preventivas.
 
-###### Artigo 149.º — [...]
+Artigo 149.º
+
+[...]
 
 1 - O programa nacional da política de ordenamento do território, os planos sectoriais, os planos especiais e os planos regionais de ordenamento do território divulgados nos termos previstos no artigo anterior devem ainda ser objecto de publicitação em dois jornais diários, num semanário de grande expansão nacional e na página da Internet das entidades responsáveis pela sua elaboração.
 
@@ -1186,7 +1346,9 @@ e) A deliberação municipal que aprova as medidas preventivas não sujeitas a r
 
 3 - ...
 
-###### Artigo 150.º — Depósito e consulta
+Artigo 150.º
+
+Depósito e consulta
 
 1 - A Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano procede ao depósito de todos os instrumentos de gestão territorial com o conteúdo documental integral previsto no presente diploma, incluindo as alterações, revisões, suspensões, adaptações e rectificações de que sejam objecto, bem como das medidas preventivas, disponibilizando a sua consulta a todos os interessados.
 
@@ -1194,7 +1356,9 @@ e) A deliberação municipal que aprova as medidas preventivas não sujeitas a r
 
 3 - A consulta dos instrumentos de gestão territorial prevista neste artigo deve igualmente ser possível em suporte informático adequado e através do sistema nacional de informação territorial.
 
-###### Artigo 151.º — Instrução dos pedidos de depósito
+Artigo 151.º
+
+Instrução dos pedidos de depósito
 
 1 - Para efeitos do depósito de planos intermunicipais e de planos municipais de ordenamento do território não sujeitos a ratificação, assim como das respectivas alterações e revisões, e ainda de medidas preventivas, no prazo de 15 dias após a sua publicação no Diário da República, a assembleia intermunicipal ou a câmara municipal, conforme o caso, remete à Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano uma colecção completa das peças escritas e gráficas que, nos termos do presente decreto-lei, constituem o conteúdo documental do instrumento de gestão territorial, bem como cópia autenticada da deliberação da assembleia municipal que aprova o plano, o respectivo relatório ambiental, os pareceres emitidos nos termos do presente diploma ou a acta da conferência de serviços, quando a eles houver lugar, e o relatório de ponderação dos resultados da discussão pública.
 
@@ -1234,13 +1398,17 @@ c) A eventual necessidade de alteração aos planos municipais de ordenamento do
 
 7 - Aos contratos celebrados entre o Estado e outras entidades públicas e as autarquias locais que tenham por objecto a elaboração, alteração, revisão ou execução de instrumentos de gestão territorial, aplicam-se, com as necessárias adaptações, os n.os 2 e 3 do presente artigo.
 
-###### Artigo 6.º- B — Procedimento concursal
+Artigo 6.º- B
+
+Procedimento concursal
 
 1 - O regulamento do plano director municipal ou do plano de urbanização pode fazer depender de procedimento concursal e da celebração de contrato, a elaboração de planos de urbanização ou de planos de pormenor para a respectiva execução.
 
 2 - Nos regulamentos referidos no número anterior devem ser estabelecidas as regras gerais relativas ao procedimento concursal e às condições de qualificação, avaliação e selecção das propostas, bem como ao conteúdo do contrato e às formas de resolução de litígios.
 
-###### Artigo 75.º-A — Acompanhamento dos planos directores municipais
+Artigo 75.º-A
+
+Acompanhamento dos planos directores municipais
 
 1 - O acompanhamento da elaboração do plano director municipal é assegurado por uma comissão de acompanhamento, cuja composição deve traduzir a natureza dos interesses a salvaguardar e a relevância das implicações técnicas a considerar, integrando representantes de serviços e entidades da administração directa ou indirecta do Estado, das Regiões Autónomas, do município e de outras entidades públicas cuja participação seja aconselhável no âmbito do plano.
 
@@ -1264,7 +1432,9 @@ c) Fundamento técnico das soluções defendidas pela câmara municipal.
 
 8 - A constituição, a composição e o funcionamento da comissão de acompanhamento são regulados por portaria do membro do Governo responsável pelo ordenamento do território.
 
-###### Artigo 75.º-B — Comissão de acompanhamento
+Artigo 75.º-B
+
+Comissão de acompanhamento
 
 1 - Para efeitos do disposto nos n.os 1 e 2 do artigo anterior, a designação dos representantes dos serviços e entidades da administração directa ou indirecta do Estado e das Regiões Autónomas inclui a delegação ou subdelegação dos poderes adequados para efeitos de vinculação daqueles serviços e entidades.
 
@@ -1272,7 +1442,9 @@ c) Fundamento técnico das soluções defendidas pela câmara municipal.
 
 3 - Caso o representante de um serviço ou entidade não manifeste, na reunião da comissão de acompanhamento que aprova o parecer final, a sua concordância com as soluções projectadas, ou, apesar de regularmente convocado, não compareça à reunião, considera-se que o serviço ou entidade por si representado nada tem a opor à proposta de plano director municipal, desde que não manifeste a sua discordância no prazo de cinco dias após a comunicação do resultado da reunião.
 
-###### Artigo 75.º-C — Acompanhamento dos planos de urbanização e dos planos de pormenor
+Artigo 75.º-C
+
+Acompanhamento dos planos de urbanização e dos planos de pormenor
 
 1 - O acompanhamento da elaboração dos planos de urbanização e dos planos de pormenor é facultativo.
 
@@ -1284,7 +1456,9 @@ c) Fundamento técnico das soluções defendidas pela câmara municipal.
 
 5 - A convocatória da conferência de serviços é acompanhada das propostas de plano de urbanização e de plano de pormenor, bem como dos respectivos relatórios ambientais, e deve ser efectuada com a antecedência de 15 dias.
 
-###### Artigo 91.º -A — Modalidades específicas
+Artigo 91.º -A
+
+Modalidades específicas
 
 1 - O plano de pormenor pode adoptar modalidades específicas com conteúdo material adaptado a finalidades particulares de intervenção previstas nos termos de referência do plano e na deliberação municipal que determinou a respectiva elaboração.
 
@@ -1322,7 +1496,9 @@ c) Uma área de reabilitação urbana constituída nos termos da lei.
 
 7 - O conteúdo do plano de pormenor de salvaguarda é definido nos termos previstos na Lei n.º 107/2001, de 8 de Setembro.
 
-###### Artigo 92.º-A — Efeitos registais
+Artigo 92.º-A
+
+Efeitos registais
 
 1 - A certidão do plano de pormenor que contenha as menções constantes das alíneas a) a d), h) e i) do n.º 1 do artigo 91.º, constitui título bastante para a individualização no registo predial dos prédios resultantes das operações de loteamento, estruturação da compropriedade ou reparcelamento previstas no plano.
 
@@ -1338,7 +1514,9 @@ c) Uma área de reabilitação urbana constituída nos termos da lei.
 
 7 - Nas situações previstas no presente artigo não é aplicável o disposto no n.º 1 do artigo 49.º do regime jurídico da urbanização e da edificação.
 
-###### Artigo 92.º-B — Taxas e obras de urbanização
+Artigo 92.º-B
+
+Taxas e obras de urbanização
 
 1 - Sempre que outra solução não resulte do plano de pormenor, a emissão da certidão referida no n.º 1 do artigo anterior depende do prévio pagamento:
 
@@ -1352,7 +1530,9 @@ b) Das compensações em numerário devidas nos termos do n.º 4 do artigo 44.º
 
 4 - Cada prédio responde apenas pela parte do montante da garantia que lhe cabe nos termos da parte final do número anterior, sendo lícito ao seu titular requerer a substituição da hipoteca legal por outro meio de caução admissível, valendo a deliberação camarária de aceitação, como título bastante para cancelamento da inscrição da hipoteca legal.
 
-###### Artigo 97.º-A — Rectificação
+Artigo 97.º-A
+
+Rectificação
 
 1 - As rectificações dos instrumentos de gestão territorial são admissíveis para efeitos de:
 
@@ -1366,7 +1546,9 @@ d) Correcções de regulamentos ou de plantas determinadas por incongruência en
 
 2 - Ao procedimento de elaboração, aprovação e publicação das declarações de rectificação aplica-se o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Artigo 97.º-B — Alteração simplificada
+Artigo 97.º-B
+
+Alteração simplificada
 
 1 - Estão sujeitas a um regime procedimental simplificado as alterações de planos municipais de ordenamento do território que resultem da necessidade de integrar a lacuna originada pela cessação de restrições e servidões de utilidade pública ou pela desafectação de bens imóveis do domínio público ou dos fins de utilidade pública a que se encontravam adstritos, designadamente os do domínio privado indisponível do Estado, quando:
 
@@ -1384,7 +1566,9 @@ b) A área seja igual ou inferior à da maior parcela existente na área envolve
 
 6 - As alterações aos planos municipais de ordenamento do território referidas neste artigo estão sujeitas ao disposto nos artigos 78.º e 79.º, aplicando-se o disposto nos artigos 148.º a 151.º
 
-###### Artigo 151.º-A — Informação e divulgação
+Artigo 151.º-A
+
+Informação e divulgação
 
 1 - Após a publicação no Diário da República de instrumento de gestão territorial sujeito a avaliação ambiental, a entidade competente pela respectiva elaboração envia à Agência Portuguesa do Ambiente uma declaração contendo os elementos referidos no artigo 10.º do Decreto-Lei n.º 232/2007, de 15 de Junho.
 
@@ -1414,15 +1598,15 @@ O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeir
 
 Visto e aprovado em Conselho de Ministros de 14 de Junho de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues - Humberto Delgado Ubach Chaves Rosa.
 
-**Promulgado em 10 de Setembro de 2007.**
+Promulgado em 10 de Setembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 12 de Setembro de 2007.**
+Referendado em 12 de Setembro de 2007.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — Republicação do Decreto-Lei n.º 380/99, de 22 de Setembro
 

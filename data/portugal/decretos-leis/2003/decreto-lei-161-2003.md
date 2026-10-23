@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/161/2003/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2003-669865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T02:38:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dead96c7ad34ec9d690f43d6e430028ae0bccd5e1f67cb9152ec100b44350756
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dfdc07cc94df7f42236bd5243cdbd693b18728d52b8e9261f8288c1de869882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:38:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Alimento para Animais
 - Aproximação das Legislações
 - CE Países
-- Direção Geral de Veterinária
-- Definição de Competências
-- Direcção Regional de Agricultura
+- Circulação de Mercadorias
 - Controlo Sanitário
+- Definição de Competências
+- Direção Geral de Veterinária
+- Direcção Regional de Agricultura
 - Fiscalização
 - Inspecção Geral das Actividades Económicas
-- Circulação de Mercadorias
-- Alimento para Animais
-- Troca Intracomunitária
 - Saúde Animal
+- Troca Intracomunitária
 relationships:
 - type: cites
   target: celex:31996L0025
@@ -90,14 +90,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2000/16/oj
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:38:02Z'
   warnings: []
   errors: []
 ---
@@ -314,19 +314,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 20 de Maio de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 4 de Julho de 2003.**
+Promulgado em 4 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 7 de Julho de 2003.**
+Referendado em 7 de Julho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Normas técnicas
 
-# PARTE A — Generalidades
+## PARTE A — Generalidades
 
 I - Notas explicativas
 
@@ -334,7 +334,7 @@ I - Notas explicativas
 
 Origem do produto/subproduto, por exemplo, vegetal, animal, mineral;
 
-# Parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos;
+Parte do produto/subproduto utilizada, por exemplo, totalidade, sementes, tubérculos, ossos;
 
 Processo de transformação a que o produto/subproduto foi sujeito, por exemplo, descasque, extracção, aquecimento e ou o produto/subproduto resultante, por exemplo, flocos, sêmeas, polpa, matérias gordas;
 
@@ -492,57 +492,57 @@ Ao leite ou produtos lácteos na alimentação de animais de criação, mantidos
 
 À gelatina de animais não ruminantes para invólucros de aditivos.
 
-# PARTE B — Lista não exaustiva das principais matérias-primas para alimentação animal
+## PARTE B — Lista não exaustiva das principais matérias-primas para alimentação animal
 
 1 - Grãos de cereais, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 2 - Sementes ou frutos oleaginosos, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 3 - Sementes de leguminosas, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 4 - Tubérculos e raízes, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 5 - Outras sementes e frutos, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 6 - Forragens e outros alimentos grosseiros:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 7 - Outras plantas, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 8 - Produtos lácteos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 9 - Produtos provenientes de animais terrestres:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 10 - Peixes, outros animais marinhos, respectivos produtos e subprodutos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 11 - Minerais:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
 12 - Diversos:
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
+[[[[[[[[[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)](https://files.diariodarepublica.pt/1s/2003/07/167a00/42604278.pdf)
 
-# PARTE C — Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista
+## PARTE C — Disposições relativas à designação e declaração de determinados constituintes de matérias-primas não incluídas na lista
 
 As matérias-primas para alimentação animal colocadas em circulação que não constem da parte B do presente anexo serão objecto de uma declaração obrigatória dos constituintes indicados na col. 2 do quadro seguinte nos termos da alínea d) do n.º 2 do artigo 6.º
 

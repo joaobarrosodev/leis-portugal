@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/514-1980-470625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d39f147ea57196751b1d4995d5f2cfb8bde673bdfc32226a6a1e95febd10ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8906b35720c03b3be11a91ee15e7261a541856db3189faaadc83345e92b73813
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral da Previdência
+- Ministério dos Assuntos Sociais
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:396895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506186:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:574502:por
+  label: Rectificado o mapa anexo pela PORT.438/81.27.05.1981.MFP, DR.IS [121] de 27.05.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-1981-574502
+  date: '1981-05-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:22:31Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +138,4 @@ Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e 
 
 Mapa a que se refere o artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18600/21742174.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18600/21742174.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18600/21742174.pdf)

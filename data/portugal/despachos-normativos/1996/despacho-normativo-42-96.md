@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/243b00/36773679.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/42/1996/10/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-1996-225831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T08:30:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1b11f4771a780d39bfb361d8da72692f9da5ffc7aa4426890f18a44c14d7dc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e36de643fe494b5e65ef382b6ef354e91a50accc8a2124e963edac35038bbec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:30:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Especificação Técnica
 - Certificado de Qualidade
+- Comércio
+- Especificação Técnica
+- Fruticultura
 - Materiais de Viveiro
 - Produção Agrícola
 - Produção Vegetal
 - Regulamento
-- Fruticultura
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:641704:por
@@ -92,16 +92,21 @@ relationships:
   target: celex:31993L0079
   label: null
   source: http://data.europa.eu/eli/dir/1993/79/oj
+- type: repealed_by
+  target: pt:dre:641704:por
+  label: "Revogado pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T08:30:40Z'
   warnings: []
   errors: []
 ---

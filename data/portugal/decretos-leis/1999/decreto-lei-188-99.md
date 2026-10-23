@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/188/1999/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1999-316373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:07:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b82cb23ea640f95e35080e46e9c07cdfdc047aee224119069b00331e5cad4a8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82a2bc58117f6d4b4b766e1c86f566558a20ca87b716289f2c2a6712c1f5a1bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:07:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ subjects:
 - Estatuto
 - Estatuto dos Militares da Guarda Nacional Republicana
 - GNR
+- Militar
 - Orgânica
 - Pessoal Militarizado
 - Promoção Profissional
 - Quadro de Pessoal
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:482611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545633:por
+  label: "Alterado o art 193º do estatuto da GNR, aprovado pelo Dec Lei 265/93 de 31-Jul, na redacção do presente diploma,\
+    \ pelo DEC LEI.216/2006.30.10.2006.MAI, DR.IS [209] de 30.10.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2006-545633
+  date: '2006-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/231/1993/06/26/p/dre
   label: null
@@ -92,16 +98,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/69/1998/03/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/69/1998/03/26/p/dre
+- type: cites
+  target: pt:dre:197752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345093:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491440:por
+  label: "Revogado parcialmente, a partir de 01.10.2010, o Dec Lei 265/93 de 31-Jul, com as alterações constantes do presente\
+    \ diploma, pelo DEC LEI.297/2009.14.10.2009.MAI, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/297-2009-491440
+  date: '2009-10-14'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:07:25Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +178,9 @@ f) Capitão, a comandante de companhia ou unidade equivalente, a comandante de d
 
 g) Tenente ou alferes, a comandante de pelotão, a adjunto de comandante de subunidade de escalão companhia, a instrutor e a outros de natureza equivalente.
 
-###### Artigo 226.º — Funções
+Artigo 226.º
+
+Funções
 
 1 - ...
 
@@ -178,12 +208,12 @@ Na alínea a) do n.º 1 do artigo 33.º da Lei Orgânica da Guarda Nacional Repu
 
 Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 14 de Maio de 1999.**
+Promulgado em 14 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 20 de Maio de 1999.**
+Referendado em 20 de Maio de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

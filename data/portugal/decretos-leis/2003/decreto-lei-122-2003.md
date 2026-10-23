@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/122/2003/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2003-685034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:37:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44afa0c150d7f8561ae0499e768fccb284ae3753405ba3bfa4c1f49aee98530a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb4adc3886f749bf7f4e62c4da868b6f6b7feff07d86a914ce9fcb765d5c00bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:37:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,38 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
-- Reestruturação de Serviços
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Gestão Financeira
+- Bolsa de Estudos
 - Conselho Administrativo
 - Definição de Competências
-- Diretor Geral
-- Fundo de Acção Social
-- Ministério da Ciência e do Ensino Superior
-- Integração de Trabalhadores
 - Direção Geral do Ensino Superior
+- Diretor Geral
+- Ensino Superior
+- Fundo de Acção Social
+- Gestão Financeira
+- Integração de Trabalhadores
+- Ministério da Ciência e do Ensino Superior
 - Orgânica
+- Pessoal Dirigente
 - Política de Educação
 - Quadro de Pessoal
 - Receita
-- Ensino Superior
-- Bolsa de Estudos
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:520993:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457005:por
+  label: "Determinado que as atribuições e competências do Gabinete, cuja orgânica foi aprovada no presente diploma, no que\
+    \ se refere à coordenação e gestão orçamental do orçamento de funcionamento dos serviços do Ministério, sejam assumidas\
+    \ pela Secretaria-Geral, cuja orgânica consta do Dec Lei 111/2003, de 06-Jun, e as que se referem ao acompanhamento dos\
+    \ recursos físicos e dos planos de investimento do ensino superior, sejam assumidas pela Direcção-Geral do Ensino Superior,\
+    \ cuja orgânica consta do Dec Lei 122/2003, de 18-Jun, pelo DEC LEI.10/2005.06.01.2005.MCIES, DR.IS-A [4] de 06.01.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2005-457005
+  date: '2005-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/2002/10/07/p/dre
   label: null
@@ -108,16 +118,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/113/1997/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/113/1997/09/16/p/dre
+- type: cites
+  target: pt:dre:217937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657223:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:656107:por
+  label: "Revogada a Lei 113/97, de 16-Set, na redacção dada pelo presente diploma, pela LEI.37/2003.22.08.2003.AR, DR.IS-A\
+    \ [193] de 22.08.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2003-656107
+  date: '2003-08-22'
+- type: repealed_by
+  target: pt:dre:520993:por
+  label: "Revogado, com excepção do disposto no nº 4 do art. 7º, pelo DEC LEI.151/2007.27.04.2007.MCTES, DR.IS [82] de 27.04.2007,\
+    \ a partir de 01.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2007-520993
+  date: '2007-04-27'
 article_structure:
   article_count: 42
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:37:19Z'
   warnings: []
   errors: []
 ---
@@ -370,7 +412,9 @@ f) Recolher, tratar e divulgar informação relativa a eventos internacionais ju
 
 g) Participar na prestação internacional de informações acerca do sistema de ensino superior português.
 
-###### Artigo 17.º — Divisão da Rede
+###### Artigo 17.º
+
+##### Divisão da Rede
 
 À Divisão da Rede compete, designadamente:
 
@@ -388,7 +432,9 @@ f) Assegurar a actualização permanente dos módulos da base de dados do sistem
 
 g) Assegurar a disponibilização através da Internet de informação actualizada acerca dos processos em curso no âmbito das alíneas a), b) e c).
 
-###### Artigo 18.º — Divisão do Registo
+###### Artigo 18.º
+
+##### Divisão do Registo
 
 À Divisão do Registo compete, designadamente:
 
@@ -404,7 +450,9 @@ e) Instruir os processos de equivalência, reconhecimento e registo de habilita�
 
 f) Assegurar a informação acerca dos cursos de ensino superior e promover a sua difusão quer através de guias informativos, quer através da Internet.
 
-###### Artigo 19.º — Divisão de Pessoal Docente e não Docente
+###### Artigo 19.º
+
+##### Divisão de Pessoal Docente e não Docente
 
 À Divisão de Pessoal Docente e não Docente compete, designadamente:
 
@@ -652,15 +700,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 3 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria.
 
-**Promulgado em 29 de Maio de 2003.**
+Promulgado em 29 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Junho de 2003.**
+Referendado em 3 de Junho de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO — Quadro de pessoal dirigente
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21747-1965-508266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 567907e3349e8df34d2a12b85b131fb78c4afd22a5ae10fd8e6c705da0d48cbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd3d82e695b01defb7336e6cd3b4e1288ff4a433fc927effea3d1e4f5b156dd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:10:52Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +92,12 @@ Ministério da Educação Nacional, 27 de Dezembro de 1965. - Pelo Ministro da E
 
 REGULAMENTO DO PRÉMIO ABÍLIO BENEDICTO VIRGOLINO DA SILVA
 
-###### Artigo 1.º O Prémio Abílio Benedicto Virgolino da Silva é constituído pelo rendimento anual da importância de 100000$00, doada pelo Dr. Mário Garcia da Silva, convertida no certificado de renda perpétua n.º 310, assentado à Escola Industrial e Comercial da Marinha Grande.
+Artigo 1.º O Prémio Abílio Benedicto Virgolino da Silva é constituído pelo rendimento anual da importância de 100000$00, doada pelo Dr. Mário Garcia da Silva, convertida no certificado de renda perpétua n.º 310, assentado à Escola Industrial e Comercial da Marinha Grande.
 
-###### Art. 2.º - 1. Para efeitos de atribuição, o prémio é anualmente desdobrado em dois, de igual quantitativo, destinando-se um ao aluno ou aluna que conclua com mais elevada classificação (média geral) o curso industrial de vidraria e outro ao aluno ou aluna que conclua com mais elevada classificação o curso geral de comércio.
+Art. 2.º - 1. Para efeitos de atribuição, o prémio é anualmente desdobrado em dois, de igual quantitativo, destinando-se um ao aluno ou aluna que conclua com mais elevada classificação (média geral) o curso industrial de vidraria e outro ao aluno ou aluna que conclua com mais elevada classificação o curso geral de comércio.
 
 2. No caso de igualdade de classificação, o prémio será atribuído em cada curso ao aluno que tenha, segundo parecer do conselho escolar, melhor curriculum.
 
-###### Art. 3.º Se os cursos indicados no artigo anterior vierem a ser extintos ou alterados, os prémios passarão para os que, em futuros planos de estudos da mesma escola, maiores afinidades tenham com aqueles e, no caso de extinção da escola, os prémios passarão, sempre nas mesmas condições, para a escola técnica da cidade de Leiria ou ainda, se tal escola não existir, para a que dentro do distrito de Leiria se situe mais próximo da Marinha Grande.
+Art. 3.º Se os cursos indicados no artigo anterior vierem a ser extintos ou alterados, os prémios passarão para os que, em futuros planos de estudos da mesma escola, maiores afinidades tenham com aqueles e, no caso de extinção da escola, os prémios passarão, sempre nas mesmas condições, para a escola técnica da cidade de Leiria ou ainda, se tal escola não existir, para a que dentro do distrito de Leiria se situe mais próximo da Marinha Grande.
 
 Direcção-Geral do Ensino Técnico Profissional, 24 de Dezembro de 1965. - O Director-Geral, Carlos Proença.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/86/2002/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ff1363799dbb57ad0dd89464e91af5658a396d8641b1bd72eac0259ef628be7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84f5cf49f1e6c630e9cb18fb38c94e3adacd5e7c90b4db1332dcffe1616081d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recursos Hídricos
+- Agricultura
 - Aproveitamento Hidroagrícola
 - Exploração Agrícola
+- Recursos Hídricos
 - Regime Jurídico
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:932559322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147612:por
+  label: "Alterados os art. 103.º, 104.º e 107.º do Dec Lei 269/82, de 10-Jul, com a redacção que lhe foi dada pelo presente\
+    \ diploma, prorrogando os prazos previstos nos referidos artigos, pelo DEC LEI.169/2005.26.09.2005.MADRP, DR.IS-A [185]\
+    \ de 26.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-2005-147612
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
   label: null
@@ -112,16 +119,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/92/1995/05/09/p/dre
+- type: cites
+  target: pt:dre:198146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637743:por
+  label: null
+  source: null
 article_structure:
-  article_count: 170
-  section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 115
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:39Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +235,9 @@ Aproveitamentos hidroeléctricos das obras
 
 A exploração dos aproveitamentos hidroeléctricos das obras subordina-se, sempre, às necessidades hidroagrícolas.
 
-###### Artigo 6.º — Grupos de obras
+Artigo 6.º
+
+Grupos de obras
 
 As obras de que trata a secção precedente classificam-se nos quatro grupos seguintes:
 
@@ -180,23 +249,31 @@ Grupo III - obras de interesse local com elevado impacte colectivo;
 
 Grupo IV - outras obras colectivas de interesse local.
 
-###### Artigo 9.º — Iniciativa das obras
+Artigo 9.º
+
+Iniciativa das obras
 
 1 - As obras dos grupos I e II são de iniciativa estatal.
 
 2 - As obras dos grupos III e IV são de iniciativa das autarquias e ou dos agricultores interessados em conjunto com os proprietários ou possuidores, podendo as do grupo III ser também de iniciativa estatal quando as mesmas se revistam de elevado interesse económico-social.
 
-###### Artigo 10.º — Identificação dos projectos e realização dos estudos prévios das obras dos grupos I e II
+Artigo 10.º
+
+Identificação dos projectos e realização dos estudos prévios das obras dos grupos I e II
 
 1 - A identificação dos projectos hidroagrícolas dos grupos I e II compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 2 - O início dos estudos prévios respeitantes a obras dos grupos I e II será determinado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelecerá o prazo para a sua apresentação pelo IHERA.
 
-###### Artigo 11.º — Competência
+Artigo 11.º
+
+Competência
 
 Compete ao IHERA a elaboração dos estudos prévios e dos projectos de execução e a construção das obras, incluindo estruturas hidráulicas primárias, centrais hidroeléctricas, regularização fluvial, rede de rega a jusante dos circuitos hidráulicos primários, redes de enxugo e drenagem, estações elevatórias respectivas, adaptação ao regadio, defesa e conservação do solo, rede viária agrícola e electrificação rural.
 
-###### Artigo 12.º — Conteúdo dos estudos prévios
+Artigo 12.º
+
+Conteúdo dos estudos prévios
 
 1 - Os estudos prévios visam a definição do interesse hidroagrícola das obras, a avaliação da viabilidade económica, social e ambiental e a fixação das condições técnicas e financeiras de exequibilidade.
 
@@ -232,17 +309,23 @@ n) Identificação dos principais impactes e condicionantes ambientais, devendo 
 
 4 - Para os projectos sujeitos ao regime de avaliação de impacte ambiental, de acordo com o previsto no [Decreto-Lei n.º 69/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2000-281589), de 3 de Maio, os estudos prévios deverão ser obrigatoriamente acompanhados de um estudo de impacte ambiental.
 
-###### Artigo 13.º — Intervenção obrigatória do Conselho de Ministros
+Artigo 13.º
+
+Intervenção obrigatória do Conselho de Ministros
 
 Tendo em consideração os estudos prévios e após a audiência dos interessados nos termos do Código do Procedimento Administrativo, o Conselho de Ministros decidirá, sob proposta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, a elaboração dos projectos de execução, classificando a obra, fixando a área de intervenção, que compreenderá todas as áreas susceptíveis de virem a ser áreas beneficiadas, o regime de construção, conservação e exploração, declarando a utilidade pública urgente dos empreendimentos e fixando a percentagem do respectivo custo a financiar a fundo perdido pelo Estado e o número de anos e a taxa de juros a considerar no reembolso do remanescente.
 
-###### Artigo 17.º — Projectos de execução e relatório de conformidade ambiental
+Artigo 17.º
+
+Projectos de execução e relatório de conformidade ambiental
 
 1 - Os projectos de execução desenvolverão as premissas fixadas nos estudos prévios, estabelecendo as especificações técnicas a que as obras, as instalações e os equipamentos têm de subordinar-se, e conterão as peças escritas, os desenhos e as cartas com o detalhe necessário para a delimitação do perímetro hidroagrícola, os orçamentos, os programas de execução e os projectos dos regulamentos provisórios das obras e os respectivos planos de conservação e de exploração, bem como carta cadastral com implantação das infra-estruturas e identificação dos prédios e áreas a expropriar.
 
 2 - Para os projectos sujeitos ao regime de avaliação de impacte ambiental, será elaborado o respectivo relatório de conformidade ambiental do projecto de execução com a declaração de impacte ambiental, de acordo com o previsto no [Decreto-Lei n.º 69/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2000-281589), de 3 de Maio.
 
-###### Artigo 19.º — Menções obrigatórias do projecto de regulamento provisório
+Artigo 19.º
+
+Menções obrigatórias do projecto de regulamento provisório
 
 Do projecto de regulamento provisório constarão, além das disposições especiais que para cada caso devem ser fixadas:
 
@@ -266,15 +349,21 @@ i) Direitos e obrigações dos utentes de água para fins não agrícolas;
 
 j) Especificação dos critérios nos quais se baseie a determinação da taxa de conservação e fixação do seu montante provisório.
 
-###### Artigo 20.º — Aprovação dos projectos de execução
+Artigo 20.º
+
+Aprovação dos projectos de execução
 
 1 - Os projectos de execução são aprovados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
 2 - Com a aprovação do projecto de execução, é fixado o perímetro hidroagrícola, entrando o regulamento provisório da obra de aproveitamento hidroagrícola em vigor com a sua publicação no Diário da República, 2.ª série.
 
-##### SUBSECÇÃO II — Das obras dos grupos III e IV
+SUBSECÇÃO II
 
-###### Artigo 21.º — Apoio técnico e financeiro
+Das obras dos grupos III e IV
+
+Artigo 21.º
+
+Apoio técnico e financeiro
 
 1 - Qualquer grupo ou associação de agricultores, por si ou através das autarquias locais, pode solicitar o apoio técnico e ou financeiro do Estado para a execução das obras dos grupos III e IV, em requerimento dirigido ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo do disposto no n.º 2 do artigo 9.º
 
@@ -282,17 +371,23 @@ j) Especificação dos critérios nos quais se baseie a determinação da taxa d
 
 3 - O apoio técnico e financeiro solicitado ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas será objecto de contrato-programa nos termos da legislação em vigor.
 
-###### Artigo 23.º — Esclarecimentos complementares
+Artigo 23.º
+
+Esclarecimentos complementares
 
 1 - Quando os elementos constantes do documento justificativo não permitam tirar conclusões quanto ao interesse da obra pretendida, o director regional de agricultura a que se refere o n.º 2 do artigo 21.º determinará que se proceda, no âmbito do contrato-programa previsto no artigo 21.º, n.º 3, aos necessários estudos prévios.
 
 2 - Sempre que a natureza dos estudos prévios a que se refere o n.º 1 o implique, serão os mesmos efectuados pelo IHERA ou com a colaboração deste a solicitação do director regional de agricultura.
 
-###### Artigo 25.º — Acções complementares
+Artigo 25.º
+
+Acções complementares
 
 Quando, por motivos de ordem técnica, se verifique que a obra pretendida deverá beneficiar zona que exceda a representada pelos requerentes, o requerimento só terá seguimento desde que a alteração proposta mereça o acordo destes.
 
-###### Artigo 26.º — Entidade competente para aprovação dos projectos e seus encargos
+Artigo 26.º
+
+Entidade competente para aprovação dos projectos e seus encargos
 
 1 - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta fundamentada da DRA, decidirá da execução das obras e da sua classificação, determinando, quando necessário, qual a entidade a quem competirá a elaboração dos respectivos projectos de execução, e fixará a percentagem do custo das obras a financiar a fundo perdido pelo Estado.
 
@@ -300,25 +395,35 @@ Quando, por motivos de ordem técnica, se verifique que a obra pretendida dever�
 
 3 - Aos estudos prévios e projectos de execução das obras dos grupos III e IV é aplicável, com as necessárias adaptações, o disposto nos artigos 12.º e seguintes para as obras dos grupos I e II.
 
-###### Artigo 28.º — Competência para a construção das obras
+Artigo 28.º
+
+Competência para a construção das obras
 
 Compete ao IHERA promover a construção das obras dos grupos I e II, de acordo com o estabelecido no artigo 11.º
 
-###### Artigo 33.º — Declaração de utilidade pública
+Artigo 33.º
+
+Declaração de utilidade pública
 
 O regime estabelecido nos artigos anteriores é extensivo às obras dos grupos III e IV quando, caso a caso, seja declarada a utilidade pública do empreendimento.
 
-###### Artigo 34.º — Competência para expropriações
+Artigo 34.º
+
+Competência para expropriações
 
 As expropriações de que tratam o artigo 32.º competirão ao IHERA, e as do artigo 33.º àquele Instituto ou à DRA respectiva, consoante for determinado pelo MADRP nos termos do n.º 1 do artigo 26.º
 
-###### Artigo 35.º — Obrigações dos proprietários ou possuidores de terras nas áreas das obras
+Artigo 35.º
+
+Obrigações dos proprietários ou possuidores de terras nas áreas das obras
 
 1 - Os proprietários ou possuidores legítimos de terrenos em que tenha de proceder-se a estudos ou trabalhos preparatórios, levados a cabo por entidades públicas, das obras de fomento agrícola e subsidiárias destas ou de terrenos que lhes derem acesso ficam obrigados a consentir na ocupação destes terrenos, na passagem através deles e no desvio de águas e de vias de comunicação enquanto durarem os referidos estudos ou trabalhos.
 
 2 - Excepto no caso de simples passagem através dos terrenos, a obrigação a que o n.º 1 se refere só se efectiva 15 dias após notificação pelos serviços, na qual se informe da necessidade de ocupação dos terrenos e desvio de águas ou de vias de comunicação e se convidem os interessados a dar o seu parecer, dentro daquele prazo, sobre a melhor forma de realizar os trabalhos com o menor prejuízo.
 
-###### Artigo 42.º — Isenção de taxa de beneficiação e redução da taxa de exploração
+Artigo 42.º
+
+Isenção de taxa de beneficiação e redução da taxa de exploração
 
 1 - Fixado pelo modo indicado no artigo anterior o direito de cada proprietário ou consorte, é reconhecida a cada um dos utentes a faculdade de regar com isenção do pagamento da taxa de beneficiação e de redução da taxa de exploração da obra uma área de terreno que será determinada em função do respectivo caudal e da dotação de rega que for fixada para a área de regadio em que estiver situado o prédio.
 
@@ -326,29 +431,41 @@ As expropriações de que tratam o artigo 32.º competirão ao IHERA, e as do ar
 
 3 - Para os efeitos do n.º 1, a taxa de exploração será reduzida em função do valor médio do respectivo caudal.
 
-###### Artigo 43.º — Cadastro das áreas isentas de taxa de beneficiação
+Artigo 43.º
+
+Cadastro das áreas isentas de taxa de beneficiação
 
 Quando a área do terreno a regar com isenção do pagamento da taxa de beneficiação não abranger a totalidade de um prédio e ficar uma parte sujeita ao pagamento desse encargo, serão as duas parcelas discriminadas no respectivo cadastro das propriedades.
 
-###### Artigo 45.º — Redução dos encargos de conservação e de exploração
+Artigo 45.º
+
+Redução dos encargos de conservação e de exploração
 
 A todos ou alguns dos antigos consortes ou proprietários de águas incorporadas em novos aproveitamentos poderão ser fixadas taxas de conservação e de exploração inferiores às dos novos regantes, em atenção às condições mais favoráveis em que anteriormente aproveitavam as suas águas.
 
-###### Artigo 47.º — Exploração e conservação das obras no aspecto global
+Artigo 47.º
+
+Exploração e conservação das obras no aspecto global
 
 1 - A conservação e exploração das obras de aproveitamento hidroagrícola são da responsabilidade das entidades a quem tiver sido atribuída a respectiva concessão, nos termos do presente diploma, sem prejuízo das atribuições conferidas por lei ao IHERA e às DRA nas obras dos grupos I e II e às DRA nas obras do grupo III.
 
 2 - A exploração e conservação das obras do grupo IV é da exclusiva responsabilidade dos beneficiários respectivos.
 
-###### Artigo 48.º — Exploração e conservação das obras a cargo do IHERA
+Artigo 48.º
+
+Exploração e conservação das obras a cargo do IHERA
 
 Serão efectuadas pelo IHERA a exploração e conservação das obras na parte em que os respectivos regulamentos lhe atribuam essa competência.
 
-###### Artigo 49.º — Participação das associações de beneficiários
+Artigo 49.º
+
+Participação das associações de beneficiários
 
 Determinada a elaboração do projecto de execução de uma obra dos grupos I, II e III, a DRA em cuja área de jurisdição se situe a maior parte dos terrenos a beneficiar, em conjunto com o IHERA, apoiará a constituição de uma associação de beneficiários e promoverá a sua audição nas componentes do projecto que lhe digam directamente respeito.
 
-###### Artigo 52.º — Criação das juntas de agricultores ou cooperativas de rega
+Artigo 52.º
+
+Criação das juntas de agricultores ou cooperativas de rega
 
 1 - Aprovado o projecto de execução de uma obra do grupo IV entregue pelos requerentes nos termos do artigo 21.º, a DRA respectiva promoverá, no prazo de 60 dias, uma reunião para a qual serão convocados todos os empresários agrícolas e os proprietários dos prédios situados na zona beneficiada, quer tenham sido ou não requerentes da obra.
 
@@ -358,7 +475,9 @@ Determinada a elaboração do projecto de execução de uma obra dos grupos I, I
 
 4 - Não podendo a reunião funcionar, far-se-á nova convocatória; voltando a verificar-se falta de participação, do facto será dado conhecimento ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que resolverá sobre a conclusão dos projectos de execução.
 
-###### Artigo 55.º — Atribuições do IHERA
+Artigo 55.º
+
+Atribuições do IHERA
 
 Sem prejuízo das competências estabelecidas no presente diploma e das que lhe forem reservadas pelo contrato de concessão, o IHERA tem as seguintes atribuições em matéria de conservação e exploração das obras de aproveitamento hidroagrícola:
 
@@ -390,7 +509,9 @@ n) Propor para as diferentes obras de aproveitamento hidroagrícola que o aconse
 
 o) Promover a elaboração de estudos e projectos, bem como a execução e fiscalização das obras que visem a melhoria dos aproveitamentos hidroagrícolas.
 
-###### Artigo 56.º — Atribuições das DRA
+Artigo 56.º
+
+Atribuições das DRA
 
 As DRA têm as seguintes atribuições em matéria de exploração e conservação das obras de aproveitamento hidroagrícola:
 
@@ -412,27 +533,37 @@ h) Conceder, procedendo o despacho ministerial de autorização e mediante propo
 
 i) Realizar todos os actos da competência do IHERA em relação às obras do grupo III que por este lhes venham a ser consignados mediante protocolo.
 
-###### Artigo 59.º — Financiamento pelo Estado das obras do grupo IV
+Artigo 59.º
+
+Financiamento pelo Estado das obras do grupo IV
 
 As obras do grupo IV serão financiadas directamente pelo Estado quando seja reconhecido o seu interesse social, caso em que se aplicará o disposto no artigo anterior para as obras do grupo III.
 
-###### Artigo 61.º — Taxa de beneficiação das obras
+Artigo 61.º
+
+Taxa de beneficiação das obras
 
 1 - O Estado cobrará dos beneficiários de cada obra hidroagrícola dos grupos I, II e III uma taxa anual, denominada «taxa de beneficiação», destinada ao reembolso da percentagem do seu custo não participado a fundo perdido.
 
 2 - Para os efeitos do número anterior, são considerados beneficiários os proprietários ou possuidores legítimos de prédios rústicos situados na zona beneficiada, os utilizadores industriais directos da respectiva obra e as autarquias locais consumidoras de água pela mesma fornecida.
 
-###### Artigo 63.º — Repartição de encargos relativos à taxa de beneficiação
+Artigo 63.º
+
+Repartição de encargos relativos à taxa de beneficiação
 
 1 - Na repartição dos encargos anuais relativos à taxa de beneficiação pelos beneficiários, deverá atender-se nomeadamente à área beneficiada, dotações e consumos de água, ao interesse económico e social das culturas, à valorização dos prédios e das produções e às condições efectivas de rega e enxugo verificadas, bem como à taxa de beneficiação fixada para os utilizadores industriais directos e autarquias locais nos termos do número seguinte.
 
 2 - A taxa de beneficiação para os utilizadores industriais directos e autarquias locais, consumidores de água pela mesma fornecida, é calculada na proporção do volume consumido e da garantia de fornecimento.
 
-###### Artigo 64.º — Entidade responsável pela liquidação da taxa de beneficiação
+Artigo 64.º
+
+Entidade responsável pela liquidação da taxa de beneficiação
 
 A liquidação da taxa de beneficiação será feita pela entidade responsável pela conservação e exploração da obra.
 
-###### Artigo 65.º — Afixação dos mapas da taxa de beneficiação
+Artigo 65.º
+
+Afixação dos mapas da taxa de beneficiação
 
 1 - ...
 
@@ -452,13 +583,17 @@ A liquidação da taxa de beneficiação será feita pela entidade responsável 
 
 9 - ...
 
-###### Artigo 66.º — Taxa de conservação
+Artigo 66.º
+
+Taxa de conservação
 
 1 - Pelos prédios e parcelas beneficiados pelas obras de aproveitamento hidroagrícolas, é devida pelos proprietários ou usufrutuários uma taxa de conservação anual por hectare beneficiado.
 
 2 - A taxa de conservação destina-se exclusivamente a cobrir os custos de conservação das infra-estruturas e será fixada nos regulamentos provisório e ou definitivo, previstos no n.º 2 do artigo 20.º e na alínea a) do artigo 55.º do presente diploma, ficando sujeita a revisão anual por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-###### Artigo 67.º — Taxa de exploração
+Artigo 67.º
+
+Taxa de exploração
 
 1 - Pela utilização da obra, é devida pelos regantes beneficiários e utentes precários uma taxa de exploração em função do volume de água utilizado.
 
@@ -472,11 +607,15 @@ A liquidação da taxa de beneficiação será feita pela entidade responsável 
 
 6 - Até à outorga do contrato de concessão, é fixada uma taxa provisória pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do IHERA.
 
-###### Artigo 68.º — Liquidação e cobrança das taxas de conservação e de exploração
+Artigo 68.º
+
+Liquidação e cobrança das taxas de conservação e de exploração
 
 A liquidação e a cobrança das taxas de conservação e de exploração serão realizadas pela entidade responsável pela exploração da obra de aproveitamento hidroagrícola e cobradas a partir da disponibilização da água para rega.
 
-###### Artigo 69.º — Afixação dos mapas da taxa de exploração e conservação
+Artigo 69.º
+
+Afixação dos mapas da taxa de exploração e conservação
 
 1 - Para os efeitos de reclamação, a liquidação das taxas de conservação e de exploração deverá ser precedida da afixação dos respectivos mapas até à data que for determinada no regulamento de cada obra.
 
@@ -494,11 +633,15 @@ A liquidação e a cobrança das taxas de conservação e de exploração serão
 
 8 - Constitui receita do IHERA uma percentagem das taxas de conservação e de exploração fixada pelo Governo e destinada a satisfazer os encargos resultantes da alínea l) do artigo 55.º
 
-###### Artigo 73.º — Remessa das decisões sobre as reclamações às entidades competentes
+Artigo 73.º
+
+Remessa das decisões sobre as reclamações às entidades competentes
 
 Resolvidas as reclamações e recursos, o Instituto Português de Cartografia e Cadastro (IPCC) enviará à Direcção-Geral dos Impostos e ao IHERA os elementos cadastrais a transmitir por este último às entidades responsáveis pela conservação e exploração, nomeadamente para os efeitos da elaboração dos mapas de liquidação das taxas de beneficiação, de conservação e de exploração, de acordo com os regulamentos respectivos.
 
-###### Artigo 75.º — Efeitos da inscrição dos prédios para fins fiscais
+Artigo 75.º
+
+Efeitos da inscrição dos prédios para fins fiscais
 
 1 - Efectuadas as inscrições dos prédios na matriz ou as necessárias correcções, nos termos dos artigos anteriores, as secções de finanças comunicarão às entidades responsáveis pela conservação e exploração os números de inscrição e o rendimento colectável dos prédios para serem transcritos no registo cadastral.
 
@@ -508,19 +651,25 @@ Resolvidas as reclamações e recursos, o Instituto Português de Cartografia e 
 
 4 - ...
 
-###### Artigo 76.º — Nota de registo
+Artigo 76.º
+
+Nota de registo
 
 1 - Efectuado o registo, os conservadores enviarão às entidades responsáveis pela conservação e exploração a correspondente nota.
 
 2 - ...
 
-###### Artigo 77.º — Aquisição de terras pelo Estado
+Artigo 77.º
+
+Aquisição de terras pelo Estado
 
 1 - ...
 
 2 - Após a tomada de decisão de construção das obras, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas tornará públicos os preços máximos a aplicar às terras do sequeiro a beneficiar e ao regadio já existente à data do despacho a que se refere o artigo 10.º, para os efeitos da aquisição dos terrenos referidos no n.º 1, tendo em conta, nomeadamente, os estudos prévios.
 
-###### Artigo 81.º — Apoio técnico aos agricultores
+Artigo 81.º
+
+Apoio técnico aos agricultores
 
 Durante a execução e utilização das obras de aproveitamento hidroagrícola, a DRA respectiva promoverá a divulgação, junto dos agricultores e trabalhadores rurais abrangidos, dos tipos e técnicas culturais de manejo da água e dos solos mais convenientes em conformidade com os resultados obtidos em explorações piloto, nos centros tecnológicos e em campos experimentais.»
 
@@ -536,19 +685,27 @@ São aditados ao [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detal
 
 Taxa de exploração e conservação para actividades não agrícolas
 
-###### Artigo 69-A.º — Taxa de conservação e exploração para actividades não agrícolas
+Artigo 69-A.º
+
+Taxa de conservação e exploração para actividades não agrícolas
 
 1 - A utilização da obra hidroagrícola para fins não agrícolas não pode, excepto quando se trate de abastecimento público, prejudicar a satisfação de todas as necessidades das áreas beneficiadas, sendo devida uma taxa de conservação e exploração nos termos a fixar pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, por proposta do IHERA.
 
 2 - É aplicável à taxa de conservação e exploração para actividades não agrícolas o regime estabelecido na subsecção anterior, sendo a mesma devida a partir do início da actividade.
 
-### CAPÍTULO IX — Integridade dos perímetros hidroagrícolas
+CAPÍTULO IX
 
-###### Artigo 94.º — Inscrição e registo
+Integridade dos perímetros hidroagrícolas
+
+Artigo 94.º
+
+Inscrição e registo
 
 Com a aprovação do projecto de execução das obras dos grupos I, II e III, o IHERA, as DRA ou as entidades responsáveis pela conservação e exploração da obra promoverão a inscrição na matriz e no registo predial da sujeição do prédio ou das parcelas do prédio ao regime do presente diploma.
 
-###### Artigo 95.º — Protecção das áreas beneficiadas
+Artigo 95.º
+
+Protecção das áreas beneficiadas
 
 1 - São proibidas todas e quaisquer construções, actividades ou utilizações não agrícolas de prédios ou parcelas de prédios das áreas beneficiadas, excepto as que, nos termos dos regulamentos provisório e definitivo da obra, forem admitidas como complementares da actividade agrícola.
 
@@ -556,17 +713,23 @@ Com a aprovação do projecto de execução das obras dos grupos I, II e III, o 
 
 3 - O Estado e demais pessoas colectivas públicas são responsáveis pelos prejuízos que advenham para os particulares de boa-fé da nulidade dos actos administrativos prescrita no número anterior.
 
-###### Artigo 96.º — Cessação das acções violadoras
+Artigo 96.º
+
+Cessação das acções violadoras
 
 Independentemente do processamento das contra-ordenações e da aplicação das coimas, o IHERA ou as DRA, conforme os casos, devem ordenar a cessação imediata das acções desenvolvidas em violação do disposto no presente diploma.
 
-###### Artigo 97.º — Ordem de embargo e reposição da situação anterior à infracção
+Artigo 97.º
+
+Ordem de embargo e reposição da situação anterior à infracção
 
 1 - O IHERA ou as DRA, conforme os casos, devem, após a audição dos interessados, mas independentemente de aplicação das coimas, determinar, aos responsáveis pelas acções violadoras do regime estabelecido no presente diploma, que se abstenham dessas acções e procedam à reposição da situação anterior à infracção, fixando o prazo e os termos que devem ser observados.
 
 2 - À ordem de embargo e reposição da situação anterior é integralmente aplicável o regime estabelecido no [Decreto-Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1995-513870), de 9 de Maio.
 
-###### Artigo 98.º — Contra-ordenações
+Artigo 98.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação a prática pelos proprietários, usufrutuários, beneficiários ou utilizadores a título precários dos seguintes actos:
 
@@ -604,7 +767,9 @@ j) Não cumprimento das obrigações legais relativas a transacção de terrenos
 
 5 - Em tudo o que não se encontra expressamente previsto e regulado neste diploma, designadamente quanto ao montante e à determinação da medida das coimas, é aplicável o regime geral das contra-ordenações contido no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro.
 
-###### Artigo 99.º — Sanções acessórias
+Artigo 99.º
+
+Sanções acessórias
 
 As contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
 
@@ -614,11 +779,15 @@ b) A privação do direito a subsídio outorgado por entidades ou serviços púb
 
 c) A apreensão de objectos utilizados na prática da infracção.
 
-###### Artigo 100.º — Expropriação
+Artigo 100.º
+
+Expropriação
 
 A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao conteúdo das alíneas f) e g) do n.º 1 do artigo 98.º, após a aplicação de três contra-ordenações.
 
-###### Artigo 101.º — Exclusão de prédios
+Artigo 101.º
+
+Exclusão de prédios
 
 1 - A exclusão de prédios ou parcelas de prédios das áreas beneficiadas por obras de aproveitamento hidroagrícola e consequente desafectação da Reserva Agrícola Nacional só pode ser efectuada por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, na sequência de proposta do IHERA, instruída com parecer da respectiva Comissão Regional de Reserva Agrícola.
 
@@ -628,9 +797,13 @@ A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao c
 
 4 - Para a fixação do montante compensatório, que constitui receita própria do IHERA, ter-se-á em atenção o custo, por hectare beneficiado, das obras de aproveitamento hidroagrícola e das obras subsidiárias, devidamente actualizado em função do índice de preços no consumidor estabelecido pelo Instituto Nacional de Estatística.
 
-### CAPÍTULO X — Concessão
+CAPÍTULO X
 
-###### Artigo 102.º — Concessão
+Concessão
+
+Artigo 102.º
+
+Concessão
 
 1 - A conservação e exploração das obras de aproveitamento hidroagrícola poderá ser atribuída, no todo ou em parte, através de concessão, a pessoas colectivas públicas ou privadas com capacidade técnica e financeira adequada, sendo dada preferência às entidades do tipo associativo ou cooperativo que representem a maioria dos proprietários e dos regantes beneficiados com a obra e às autarquias locais.
 
@@ -642,9 +815,13 @@ A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao c
 
 5 - A minuta base do contrato de concessão e dos regulamentos provisório e definitivo anexos e as minutas finais dos contratos a celebrar com cada entidade são aprovadas por portaria e despacho, respectivamente, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-### CAPÍTULO XI — Disposições finais e transitórias
+CAPÍTULO XI
 
-###### Artigo 103.º — Reclassificação das obras do grupo III
+Disposições finais e transitórias
+
+Artigo 103.º
+
+Reclassificação das obras do grupo III
 
 1 - As obras do grupo III são reclassificadas como obras do grupo IV.
 
@@ -652,7 +829,9 @@ A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao c
 
 3 - No prazo fixado no n.º 2, o IHERA e o INAG submeterão ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e ao Ministério do Ambiente e do Ordenamento do Território uma proposta conjunta sobre as infra-estruturas a integrar nos perímetros de rega a cargo do IHERA.
 
-###### Artigo 104.º — Regime de concessão
+Artigo 104.º
+
+Regime de concessão
 
 1 - A conservação e exploração de obras de aproveitamento hidroagrícola entregues pelo IHERA e pelas DRA às associações de beneficiários à data da entrada em vigor do presente diploma ou que não o tendo sido, deva caber a estas deverá ser regulamentada através de contrato de concessão.
 
@@ -660,17 +839,23 @@ A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao c
 
 3 - Findo o prazo estabelecido no número anterior, o IHERA assume automaticamente a conservação e exploração das obras de aproveitamento hidroagrícola que não foram objecto de contrato de concessão.
 
-###### Artigo 105.º — Obras incluídas no aproveitamento de fins múltiplos do Alqueva
+Artigo 105.º
+
+Obras incluídas no aproveitamento de fins múltiplos do Alqueva
 
 1 - Para os efeitos da aplicação do disposto no artigo 2.º, a componente hidroagrícola do empreendimento de fins múltiplos do Alqueva refere-se exclusivamente aos perímetros de rega definidos, ou a definir, naquele empreendimento, bem como às infra-estruturas que os integram, nomeadamente as de distribuição de água para rega, posicionados a jusante do sistema primário daquele empreendimento.
 
 2 - No empreendimento de fins múltiplos do Alqueva é aplicável a alínea d) do n.º 1 e o n.º 2 do artigo 2.º do [Decreto-Lei n.º 32/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1995-198146), na redacção dada pelo [Decreto-Lei n.º 335/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-2001-536640), de 24 de Dezembro.
 
-###### Artigo 106.º — Obras abrangidas pelo presente diploma
+Artigo 106.º
+
+Obras abrangidas pelo presente diploma
 
 O presente diploma é exclusivamente aplicável às obras de aproveitamento hidroagrícola, tal como definidas nos artigos 1.º a 4.º do presente diploma, iniciadas ou concluídas na vigência do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), de 20 de Novembro de 1959, sem prejuízo do estabelecido em diplomas especiais e nos Decretos-Leis n.os [45/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1994-515808), [46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806) e [47/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1994-515807), todos de 22 de Fevereiro.
 
-###### Artigo 107.º — Legislação complementar
+Artigo 107.º
+
+Legislação complementar
 
 1 - A legislação aplicável às associações de beneficiários e juntas de agricultores será objecto de revisão por decreto regulamentar com vista à adaptar o respectivo regime ao disposto no presente diploma no prazo máximo de 180 dias.
 
@@ -698,15 +883,15 @@ O [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Luís Garcia Braga da Cruz - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 13 de Março de 2002.**
+Promulgado em 13 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 21 de Março de 2002.**
+Referendado em 21 de Março de 2002.
 
-**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 

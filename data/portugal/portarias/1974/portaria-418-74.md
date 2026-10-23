@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1974-476346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T04:26:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b7731380ed607c1be518e564a6016bf5ad84ba3c57d3cf39031a1781e4ad479
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec54f3278a6d35fafb59d72f7f950591657843d98e8a51dcb5d545aa5a1264dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:26:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:476134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:26:53Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Manda o Governo Provisório, pelo Ministro da Coordenação Interterritorial:
 
 3.º Os artigos 1.º, n.os 1 e 2, 3.º, n.os 1 e 3, 5.º, n.º 1, e 6.º passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1. Os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público podem ser demitidos, mandados aposentar ou apresentar no Ministério nos termos estabelecidos por este diploma.
+Artigo 1.º - 1. Os servidores civis do Estado, serviços e empresas públicas, autarquias locais e demais pessoas colectivas de direito público podem ser demitidos, mandados aposentar ou apresentar no Ministério nos termos estabelecidos por este diploma.
 
 2. Será constituída em cada província ultramarina, por despacho do respectivo Governador, uma comissão provincial de reclassificação, composta de três a cinco membros, encarregada de estudar e apresentar ao Governador propostas para a apresentação no Ministério, aposentação ou demissão dos funcionários ou agentes a que se refere o número anterior.
 
@@ -104,7 +112,7 @@ Manda o Governo Provisório, pelo Ministro da Coordenação Interterritorial:
 
 ...
 
-###### Art. 3.º - 1. Os funcionários ou agentes que contem, pelo menos, quinze anos de serviço efectivo, podem ser aposentados compulsivamente por simples despacho do Ministro da Coordenação Interterritorial, desde que, pelo seu comportamento, mostrarem não oferecer actualmente garantias de idoneidade para o exercício das suas funções, revelarem desrespeito pelos princípios consignados no Programa do Movimento das Forças Armadas, ou comprometerem a eficácia do serviço público.
+Art. 3.º - 1. Os funcionários ou agentes que contem, pelo menos, quinze anos de serviço efectivo, podem ser aposentados compulsivamente por simples despacho do Ministro da Coordenação Interterritorial, desde que, pelo seu comportamento, mostrarem não oferecer actualmente garantias de idoneidade para o exercício das suas funções, revelarem desrespeito pelos princípios consignados no Programa do Movimento das Forças Armadas, ou comprometerem a eficácia do serviço público.
 
 2. ...
 
@@ -112,7 +120,7 @@ Manda o Governo Provisório, pelo Ministro da Coordenação Interterritorial:
 
 ...
 
-###### Art. 5.º - 1. A Comissão Provincial de Reclassificação, quando proponha a apresentação no Ministério, aposentação ou demissão de qualquer funcionário ou agente, deverá fundamentar a sua proposta, tendo sobretudo em conta os seguintes aspectos:
+Art. 5.º - 1. A Comissão Provincial de Reclassificação, quando proponha a apresentação no Ministério, aposentação ou demissão de qualquer funcionário ou agente, deverá fundamentar a sua proposta, tendo sobretudo em conta os seguintes aspectos:
 
 a) Comportamento contrário ao espírito da ordem democrática estabelecida, revelado já depois do dia 25 de Abril de 1974;
 
@@ -122,7 +130,7 @@ c) Características e qualificações do funcionário que o recomendem para fun�
 
 2. ...
 
-###### Art. 6.º Cessam em 31 de Julho de 1974 todas as comissões de serviço iniciadas antes de 25 de Abril do ano corrente, continuando, porém, salvo decisão em contrário, os funcionários ou agentes a desempenhar as respectivas funções enquanto não for feita nova nomeação.
+Art. 6.º Cessam em 31 de Julho de 1974 todas as comissões de serviço iniciadas antes de 25 de Abril do ano corrente, continuando, porém, salvo decisão em contrário, os funcionários ou agentes a desempenhar as respectivas funções enquanto não for feita nova nomeação.
 
 4.º Esta portaria entrará em vigor no dia seguinte àquele em que for publicada nos Boletins Oficiais.
 

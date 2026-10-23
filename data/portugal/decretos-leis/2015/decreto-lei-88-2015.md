@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10300/0317303178.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/88/2015/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2015-67332417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:30:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03058bc99dc627c27fa392f52e46e95430910b46163b12b6f60fcac44ac62875
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 003010d8cbd7436d76ab5b14a88b513875dd2783ebd8b9508c1eed842842d633
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:30:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Aproximação das Legislações
-- Substancia Cancerigena
+- Condições de Higiene e Segurança no Trabalho
+- Controlo Sanitário
+- Doença Profissional
+- Embalagem
+- Etiquetagem
+- Higiene do Trabalho
+- Indústria da Madeira
+- Prevenção de Riscos Profissionais
+- Produto Químico
 - Radiactividade
 - Radioprotecção
-- Higiene do Trabalho
-- Controlo Sanitário
-- Segurança no Trabalho
-- Etiquetagem
-- Embalagem
-- Doença Profissional
-- Prevenção de Riscos Profissionais
 - Regime Jurídico
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento CE
-- Indústria da Madeira
+- Segurança no Trabalho
 - Sinalização de Segurança
+- Substancia Cancerigena
 - Substância Perigosa
 - Trabalhador por Conta de Outrem
 relationships:
@@ -176,6 +176,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:174778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616576:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32009L0161
   label: null
@@ -185,15 +233,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 24
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:30:26Z'
   warnings: []
   errors: []
 ---
@@ -278,7 +326,9 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 [...]:
 
@@ -292,7 +342,9 @@ iii) Toxicidade para órgãos-alvo específicos após exposição única, catego
 
 b) [...].
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 [...]:
 
@@ -306,7 +358,9 @@ ii) Classificadas na classe de perigo: toxicidade para órgãos-alvo específico
 
 c) [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 [...]:
 
@@ -336,7 +390,9 @@ h) [...]
 
 i) [...].
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - [...].
 
@@ -380,7 +436,9 @@ p) Toxicidade reprodutiva, categoria 1A ou 1B (H360, H360F, H360FD, H360Fd, H360
 
 6 - [Revogado].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - [...]:
 
@@ -452,7 +510,9 @@ l) [...]
 
 m) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -488,7 +548,9 @@ i) [...].
 
 8 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -530,7 +592,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 12.º, 18.º, 19.º, 20.º e 22.º do [
 
 4 - [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -554,7 +618,9 @@ e) Trabalhos suscetíveis de provocar a exposição a poeira de madeira de folho
 
 f) As substâncias ou as misturas que se libertem nos processos referidos nas alíneas anteriores.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O empregador deve evitar ou reduzir a utilização de agentes cancerígenos ou mutagénicos, substituindo-os por substâncias, misturas ou processos que, nas condições de utilização, não sejam perigosos ou impliquem menor risco para a segurança e a saúde dos trabalhadores.
 
@@ -562,7 +628,9 @@ f) As substâncias ou as misturas que se libertem nos processos referidos nas al
 
 3 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 Sem prejuízo do disposto em matéria de obrigações gerais do empregador e informação e consulta dos trabalhadores previstas no regime jurídico da promoção da segurança e saúde no trabalho, nas atividades em que exista risco de contaminação por agentes cancerígenos ou mutagénicos, o empregador deve tomar medidas para:
 
@@ -576,7 +644,9 @@ d) [...]
 
 e) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]:
 
@@ -592,7 +662,9 @@ d) [...].
 
 3 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo do disposto em matéria de exames de saúde no regime jurídico da promoção da segurança e saúde no trabalho, o empregador deve assegurar a vigilância da saúde dos trabalhadores em relação aos quais o resultado da avaliação revele a existência de riscos, através de exames de saúde de admissão, periódicos e ocasionais, devendo em qualquer caso os primeiros ser realizados antes da exposição aos riscos.
 
@@ -608,7 +680,9 @@ d) [...].
 
 7 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Constitui contraordenação muito grave a violação dos artigos 4.º e 5.º, das alíneas a) a e), g) e j) a n) do artigo 6.º, do artigo 13.º e do n.º 3 do artigo 14.º
 
@@ -618,15 +692,21 @@ d) [...].
 
 4 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela [Lei n.º 107/2009](https://diariodarepublica.pt/dr/detalhe/lei/107-2009-489761), de 14 de setembro, alterada pela [Lei n.º 63/2013](https://diariodarepublica.pt/dr/detalhe/lei/63-2013-499519), de 27 de agosto.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 A fiscalização do cumprimento do presente diploma compete à Autoridade para as Condições do Trabalho e à Direção-Geral da Saúde, no âmbito das respetivas competências.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 Sem prejuízo das competências legislativas próprias, as competências atribuídas pelo presente diploma às autoridades e serviços administrativos são, nas Regiões Autónomas, exercidas pelos órgãos e serviços das respetivas administrações regionais.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -648,18 +728,18 @@ O presente decreto-lei entra em vigor no dia 1 de junho de 2015.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2015. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.
 
-**Promulgado em 13 de maio de 2015.**
+Promulgado em 13 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 14 de maio de 2015.**
+Referendado em 14 de maio de 2015.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 6.º)
 
 ## ANEXO — Valores limite de exposição profissional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/05/10300/0317303178.pdf))](https://files.diariodarepublica.pt/1s/2015/05/10300/0317303178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/05/10300/0317303178.pdf)

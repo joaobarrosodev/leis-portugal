@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54/2010/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2010-332469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T03:13:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ee89055e12f35fbd31f57a303984d7bb48741d4a82b6425f9cf0fc743f24ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1456e692c8f6e9a24ae3d961c04445cdd5f38a1f09b6d2a8b7fab0fa59dd74c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:13:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Aproximação das Legislações
-- Multa
+- ASAE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
 - Gabinete de Planeamento e Políticas
-- ASAE
-- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
 - Informação do Consumidor
 - Informação Nutricional
+- Multa
+- Produto Alimentar
 - Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31990L0496
@@ -103,15 +103,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/167/2004/07/07/p/dre
 article_structure:
-  article_count: 32
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:13:27Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +152,9 @@ Os artigos 1.º, 3.º, 5.º, 6.º, 7.º, 13.º, 14.º, 16.º e 17.º do Decreto-
 
 O presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º [90/496/CEE](https://data.europa.eu/eli/dir/1990/496/oj?locale=pt), do Conselho, de 24 de Setembro, relativa à rotulagem nutricional dos géneros alimentícios, alterada pela Directiva n.º [2003/120/CE](https://data.europa.eu/eli/dir/2003/120/oj?locale=pt), da Comissão, de 5 de Dezembro, relativa à rotulagem nutricional dos géneros alimentícios e pela Directiva n.º [2008/100/CE](https://data.europa.eu/eli/dir/2008/100/oj?locale=pt), da Comissão, de 28 de Outubro, relativa à rotulagem nutricional dos géneros alimentícios no que diz respeito às doses diárias recomendadas, aos factores de conversão de energia e às definições.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -196,7 +198,9 @@ ii) Polímeros de hidratos de carbono comestíveis, que foram obtidos de matéri
 
 iii) Polímeros de hidratos de carbono sintéticos comestíveis que produzem um efeito fisiológico benéfico, demonstrado por provas científicas comummente aceites.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -206,7 +210,9 @@ b) Aos nutrientes enumerados na subalínea ii) da alínea a) do artigo 3.º do p
 
 c) Às substâncias pertencentes a uma das categorias dos nutrientes referidos na alínea anterior ou que sejam suas componentes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +236,9 @@ b) A quantidade de proteínas, hidratos de carbono, açúcares, lípidos, ácido
 
 5 - ...
 
-###### Artigo 7.º — Indicação do valor energético e do teor de nutrientes
+Artigo 7.º
+
+Indicação do valor energético e do teor de nutrientes
 
 1 - ...
 
@@ -240,7 +248,9 @@ b) A quantidade de proteínas, hidratos de carbono, açúcares, lípidos, ácido
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O Gabinete de Planeamento e Políticas (GPP) é o organismo responsável pelas medidas de política relativas à qualidade e segurança alimentar, competindo-lhe, designadamente:
 
@@ -250,7 +260,9 @@ b) Elaborar e coordenar a execução do plano de controlo oficial para verifica�
 
 2 - Os serviços competentes nas Regiões Autónomas e as Direcções Regionais de Agricultura e Pescas executam o plano de controlo oficial previsto no número anterior.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui contra-ordenação punível com coima nos montantes mínimo de (euro) 750 e máximo de (euro) 3740 para as pessoas singulares ou até ao montante máximo de (euro) 44 890, caso o agente seja pessoa colectiva:
 
@@ -262,7 +274,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 16.º — Fiscalização, instrução e decisão
+Artigo 16.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas Regiões Autónomas.
 
@@ -270,7 +284,9 @@ b) ...
 
 3 - (Revogado.)
 
-###### Artigo 17.º — Afectação do produto das coimas
+Artigo 17.º
+
+Afectação do produto das coimas
 
 O produto da aplicação das coimas previstas no presente decreto-lei reverte a favor das seguintes entidades:
 
@@ -300,15 +316,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Abril de 2010. - José Sócrates Carvalho Pinto de Sousa - Pedro Manuel Carqueijeiro Lourtie - Fernando Medina Maciel Almeida Correia - António Manuel Soares Serrano - Ana Maria Teodoro Jorge.
 
-**Promulgado em 14 de Maio de 2010.**
+Promulgado em 14 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de Maio de 2010.**
+Referendado em 18 de Maio de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 3.º)
 
@@ -372,7 +388,9 @@ Iodo ((mi)g) - 150.
 
 De um modo geral, a quantidade a tomar em consideração para decidir o que constitui uma quantidade significativa corresponde a 15 % da dose diária recomendada, especificada no presente anexo para 100 g ou 100 ml ou por embalagem, caso esta apenas contenha uma porção.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -380,23 +398,31 @@ Fibra: 2 kcal/g - 8 kJ/g.
 
 Eritritol: 0 kcal/g - 0 kJ/g.
 
-## ANEXO III — Unidades a utilizar na declaração do valor energético e do teor de nutrientes
+ANEXO III
+
+Unidades a utilizar na declaração do valor energético e do teor de nutrientes
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf))](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf)
 
 [...]
 
-## ANEXO II — (a que se refere o artigo 5.º)
+ANEXO II
+
+(a que se refere o artigo 5.º)
 
 Republicação do Decreto-Lei n.º 167/2004, de 7 de Julho
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º [90/496/CEE](https://data.europa.eu/eli/dir/1990/496/oj?locale=pt), do Conselho, de 24 de Setembro, relativa à rotulagem nutricional dos géneros alimentícios, alterada pela Directiva n.º [2003/120/CE](https://data.europa.eu/eli/dir/2003/120/oj?locale=pt), da Comissão, de 5 de Dezembro, relativa à rotulagem nutricional dos géneros alimentícios e pela Directiva n.º [2008/100/CE](https://data.europa.eu/eli/dir/2008/100/oj?locale=pt), da Comissão, de 28 de Outubro, relativa à rotulagem nutricional dos géneros alimentícios no que diz respeito às doses diárias recomendadas, aos factores de conversão de energia e às definições.
 
-###### Artigo 2.º — Âmbito
+Artigo 2.º
+
+Âmbito
 
 1 - O presente decreto-lei estabelece as normas a que obedece a rotulagem nutricional dos géneros alimentícios que se encontram no estado em que vão ser fornecidos ao consumidor final.
 
@@ -410,7 +436,9 @@ b) Aos integradores dietéticos/suplementos alimentares.
 
 4 - O disposto no presente diploma não prejudica a legislação relativa aos géneros alimentícios destinados a uma alimentação especial.
 
-###### Artigo 3.º — Definições
+Artigo 3.º
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -462,13 +490,17 @@ ii) Polímeros de hidratos de carbono comestíveis, que foram obtidos de matéri
 
 iii) Polímeros de hidratos de carbono sintéticos comestíveis que produzem um efeito fisiológico benéfico, demonstrado por provas científicas comummente aceites.
 
-###### Artigo 4.º — Características da rotulagem nutricional
+Artigo 4.º
+
+Características da rotulagem nutricional
 
 1 - Sem prejuízo do disposto no n.º 2, a rotulagem nutricional é facultativa.
 
 2 - Quando uma alegação nutricional conste do rótulo, da apresentação ou da publicidade do género alimentício, com excepção das campanhas publicitárias colectivas, a rotulagem nutricional é obrigatória.
 
-###### Artigo 5.º — Alegações nutricionais admitidas
+Artigo 5.º
+
+Alegações nutricionais admitidas
 
 São admitidas as alegações nutricionais referentes apenas ao seguinte:
 
@@ -478,7 +510,9 @@ b) Aos nutrientes enumerados na subalínea ii) da alínea a) do artigo 3.º do p
 
 c) Às substâncias pertencentes a uma das categorias dos nutrientes referidos na alínea anterior ou que sejam suas componentes.
 
-###### Artigo 6.º — Elementos que compõem a rotulagem nutricional
+Artigo 6.º
+
+Elementos que compõem a rotulagem nutricional
 
 1 - As informações que constituem a rotulagem nutricional devem apresentar-se de acordo com um dos seguintes grupos:
 
@@ -514,7 +548,9 @@ f) Todas as vitaminas ou minerais indicados no anexo i do presente diploma e pre
 
 5 - Quando seja mencionada a quantidade de ácidos gordos polinsaturados e ou monoinsaturados e ou o teor de colesterol, deve ser também indicada a quantidade de ácidos gordos saturados, não constituindo esta última, neste caso, uma alegação nutricional na acepção do n.º 2.
 
-###### Artigo 7.º — Indicação do valor energético e do teor de nutrientes
+Artigo 7.º
+
+Indicação do valor energético e do teor de nutrientes
 
 1 - O valor energético a indicar deve ser calculado utilizando os factores de conversão constantes do anexo ii do presente diploma, que dele faz parte integrante.
 
@@ -524,11 +560,15 @@ f) Todas as vitaminas ou minerais indicados no anexo i do presente diploma e pre
 
 4 - As quantidades indicadas devem referir-se ao género alimentício tal como este é posto à venda mas estas informações também podem ser fornecidas depois de o mesmo se encontrar preparado, desde que a descrição do método de preparação seja suficientemente pormenorizada e que a informação diga respeito ao género alimentício pronto para consumo.
 
-###### Artigo 8.º — Vitaminas e minerais
+Artigo 8.º
+
+Vitaminas e minerais
 
 As informações relativas às vitaminas e minerais devem ser expressas em percentagem da dose diária recomendada (DDR), nos termos do anexo i do presente diploma, para as quantidades referidas no n.º 3 do artigo 7.º
 
-###### Artigo 9.º — Açúcares, polióis e amido
+Artigo 9.º
+
+Açúcares, polióis e amido
 
 Sempre que sejam declarados os açúcares e ou os polióis e ou o amido, deve constar imediatamente a seguir à menção do teor de hidratos de carbono a seguinte declaração:
 
@@ -540,7 +580,9 @@ Polióis - ... g;
 
 Amido - ... g.
 
-###### Artigo 10.º — Ácidos gordos e colesterol
+Artigo 10.º
+
+Ácidos gordos e colesterol
 
 Sempre que sejam declarados a quantidade e ou o tipo de ácidos gordos e ou a quantidade de colesterol, deve constar imediatamente a seguir à menção do teor de lípidos totais a seguinte declaração:
 
@@ -554,7 +596,9 @@ Polinsaturados - ... g;
 
 Colesterol - ... mg.
 
-###### Artigo 11.º — Valores declarados
+Artigo 11.º
+
+Valores declarados
 
 Os valores declarados devem ser valores médios estabelecidos, em cada caso, a partir do seguinte:
 
@@ -564,7 +608,9 @@ b) Do cálculo efectuado a partir dos valores médios conhecidos ou efectivos re
 
 c) Do cálculo efectuado a partir de dados geralmente estabelecidos e aceites.
 
-###### Artigo 12.º — Modo de apresentação
+Artigo 12.º
+
+Modo de apresentação
 
 1 - As informações constantes da rotulagem nutricional devem ser agrupadas num único local sob a forma de quadro e, se o espaço o permitir, com alinhamento vertical dos números mas, se o espaço não for suficiente, as informações devem ser dispostas linearmente.
 
@@ -572,7 +618,9 @@ c) Do cálculo efectuado a partir de dados geralmente estabelecidos e aceites.
 
 3 - As informações a que se referem os números anteriores devem ser redigidas em português, excepto se a informação dos consumidores for assegurada por outros meios e sem prejuízo da sua reprodução noutras línguas.
 
-###### Artigo 13.º — Autoridades competentes
+Artigo 13.º
+
+Autoridades competentes
 
 1 - O Gabinete de Planeamento e Políticas (GPP) é o organismo responsável pelas medidas de política relativas à qualidade e segurança alimentar, competindo-lhe, designadamente:
 
@@ -582,7 +630,9 @@ b) Elaborar e coordenar a execução do plano de controlo oficial para verifica�
 
 2 - Os serviços competentes nas Regiões Autónomas e as Direcções Regionais de Agricultura e Pescas executam o plano de controlo oficial previsto no número anterior.
 
-###### Artigo 14.º — Contra-ordenações
+Artigo 14.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação punível com coima nos montantes mínimo de (euro) 750 e máximo de (euro) 3740 para as pessoas singulares ou até ao montante máximo de (euro) 44 890, caso o agente seja pessoa colectiva:
 
@@ -594,7 +644,9 @@ b) A comercialização de géneros alimentícios cuja rotulagem nutricional não
 
 3 - Às contra-ordenações previstas no presente diploma aplica-se subsidiariamente o disposto no Regime Geral das Contra-Ordenações e Coimas.
 
-###### Artigo 15.º — Sanções acessórias
+Artigo 15.º
+
+Sanções acessórias
 
 1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, desde que verificados os pressupostos da aplicação das sanções acessórias tal como previsto no Regime Geral das Contra-Ordenações e Coimas, as seguintes sanções acessórias:
 
@@ -614,7 +666,9 @@ g) Suspensão de autorizações de licenças e alvarás.
 
 2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.
 
-###### Artigo 16.º — Fiscalização, instrução e decisão
+Artigo 16.º
+
+Fiscalização, instrução e decisão
 
 1 - Sem prejuízo das competências atribuídas por lei às autoridades policiais e fiscalizadoras, a fiscalização e a instrução dos processos por infracção ao disposto no presente decreto-lei competem à Autoridade de Segurança Alimentar e Económica (ASAE) e aos serviços competentes nas Regiões Autónomas.
 
@@ -622,7 +676,9 @@ g) Suspensão de autorizações de licenças e alvarás.
 
 3 - (Revogado.)
 
-###### Artigo 17.º — Afectação do produto das coimas
+Artigo 17.º
+
+Afectação do produto das coimas
 
 O produto da aplicação das coimas previstas no presente decreto-lei reverte a favor das seguintes entidades:
 
@@ -634,11 +690,15 @@ c) 20 % para a entidade que instruiu o processo;
 
 d) 10 % para a CACMEP.
 
-###### Artigo 18.º — Norma revogatória
+Artigo 18.º
+
+Norma revogatória
 
 É revogada a Portaria n.º 751/93, de 23 de Agosto.
 
-## ANEXO I — Vitaminas e minerais que podem ser declarados e respectiva dose diária recomendada (DDR)
+ANEXO I
+
+Vitaminas e minerais que podem ser declarados e respectiva dose diária recomendada (DDR)
 
 Vitamina A ((mi)g) - 800.
 
@@ -696,7 +756,9 @@ Iodo ((mi)g) - 150.
 
 De um modo geral, a quantidade a tomar em consideração para decidir o que constitui uma quantidade significativa corresponde a 15 % da dose diária recomendada, especificada no presente anexo para 100 g ou 100 ml ou por embalagem, caso esta apenas contenha uma porção.
 
-## ANEXO II — Factores de conversão relativos ao valor energético a indicar
+ANEXO II
+
+Factores de conversão relativos ao valor energético a indicar
 
 Hidratos de carbono (excepto polióis): 4 kcal/g - 17 kJ/g.
 
@@ -716,11 +778,13 @@ Fibra: 2 kcal/g - 8 k/g.
 
 Eritritol: 0 kcal/g - 0 kJ/g.
 
-## ANEXO III — Unidades a utilizar na declaração do valor energético e do teor de nutrientes
+ANEXO III
+
+Unidades a utilizar na declaração do valor energético e do teor de nutrientes
 
 Energia - kJ e kcal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf))](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/05/10400/0184201847.pdf)
 
 Colestrol - miligramas (mg).
 

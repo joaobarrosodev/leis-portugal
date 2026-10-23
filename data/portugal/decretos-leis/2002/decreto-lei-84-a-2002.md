@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 80/2002, 1º Suplemento, Série I-A de 2002-04-05
   number: '80'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3244-(2) a 3244-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/080a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/84-a/2002/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-2002-150946
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T02:36:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a7c373ee0ca49ad89007495bf758b8ccb0ad0b208d3fa0cad63b9ada74d51ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c681c32f915b10b157ca4dff9e4bcda90d2d1263f252d7b5531d9e0c38dc9492
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:36:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Contabilidade Pública
 - Orçamento
 - Pocal
-- Contabilidade Pública
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:70262478:por
@@ -107,16 +107,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679669:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70262478:por
+  label: Revogado, com efeitos a 01.01.2017, com exceção dos pontos 2.9, 3.3 e 8.3.1, relativos, respetivamente, ao controlo
+    interno, às regras previsionais e às modificações do orçamento, o Dec Lei 54-A/99, de 22-fev, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 192/2015 - Diário da República n.º 178/2015, Série I de 2015-09-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2015-70262478
+  date: '2015-09-11'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:36:35Z'
   warnings: []
   errors: []
 ---
@@ -159,12 +198,12 @@ f) No orçamento inicial, as importâncias a considerar nas rubricas 'Remuneraç
 
 Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - José Sócrates Carvalho Pinto de Sousa.
 
-**Promulgado em 1 de Abril de 2002.**
+Promulgado em 1 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Abril de 2002.**
+Referendado em 3 de Abril de 2002.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

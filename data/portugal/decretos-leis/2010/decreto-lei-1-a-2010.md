@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 1/2010, 1º Suplemento, Série I de 2010-01-04
   number: '1'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 20-(2) a 20-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2010/01/00101/0000200004.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/1-a/2010/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2010-622293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T03:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab7baf66152d14604895fca5b4f419fe66847d83eba23236be4bbf577b5092a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 994988e370fa2494a313ed2c5fc375e7fea40864b94b4686b540e2c44156ca83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atividade Agrícola
-- Financiamento
-- Instituição de Crédito
-- Empresa
+- Auxílio de Minimis
 - Beneficiário
 - Crédito à Pecuária
+- Empresa
 - Empréstimo
-- Auxílio de Minimis
+- Exploração Florestal
+- Financiamento
 - Fiscalização
 - IFAP
+- Instituição de Crédito
 - JURO Bonificado
 - Linha de Crédito
-- Exploração Florestal
 - Pequenas e Médias Empresas
 - Sector Florestal
 relationships:
@@ -87,6 +87,11 @@ relationships:
   target: pt:dre:278761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278761:por
+  label: "Aditado o art. 14º-A pelo DEC LEI.41/2011.22.03.2011.MADRP, DR.IS [57] de 22.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2011-278761
+  date: '2011-03-22'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -106,13 +111,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:11:42Z'
   warnings: []
   errors: []
 ---
@@ -293,12 +298,12 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - António Manuel Soares Serrano.
 
-**Promulgado em 30 de Dezembro de 2009.**
+Promulgado em 30 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 30 de Dezembro de 2009.**
+Referendado em 30 de Dezembro de 2009.
 
 Pelo Primeiro-Ministro, o Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 299/1986, 2º Suplemento, Série I de 1986-12-30
   number: '299'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3858-(5) a 3858-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29902/00050012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1986-376024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T06:14:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40a79028349681634c9d0bdfb0df9edf1a784ba72c19f305f75bd7dda7f568ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb830e9b0e9e9a85411cd8dc775836be1cb8e6db2e18a59f94258ae67eade1fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Segurança Social
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:490249:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287586:por
+  label: "Alterada a redacção dos arts. 4.º e 30.º, pelo DR.9/88.03.03.1988.MESS, DR.IS [52] de 03.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/9-1988-287586
+  date: '1988-03-03'
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324937:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:653124:por
+  label: "Revogada a secção II do capítulo II e a secção II do capítulo IV, pelo DEC LEI.328/93.25.09.1993.MESS, DR.IS-A [226]\
+    \ de 25.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/328-1993-653124
+  date: '1993-09-25'
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o presente diploma, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela Lei n.º\
+    \ 119/2009, de 30 de Dezembro), na redacção do DR 9/98, de 03-Mar e do Dec Lei 328/93, de 25-Set, pela LEI.110/2009.16.09.2009.AR,\
+    \ DR.IS [180] de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter\
+    \ transitoriamente em vigor as disposições procedimentais do presente diploma que não contrariem o disposto no Código\
+    \ aprovado pela citada Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
   article_count: 50
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:14:06Z'
   warnings: []
   errors: []
 ---
@@ -291,7 +331,7 @@ b) O regime de protecção na maternidade que lhes era aplicável no que respeit
 
 O montante dos subsídios de doença e maternidade dos beneficiários que estavam abrangidos pelo regime especial é determinado pelas regras fixadas no [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937) enquanto os centros regionais de segurança social não dispuserem dos registos de remunerações que lhes permitam efectuar os cálculos dos mesmos com base nas remunerações registadas a partir de Janeiro de 1987.
 
-##### SUBSECÇAO II
+SUBSECÇAO II
 
 Subsídio de desemprego
 
@@ -479,12 +519,12 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1987.
 
 Aníbal António Cavaco Silva - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Dezembro de 1986.**
+Promulgado em 24 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Dezembro de 1986.**
+Referendado em 29 de Dezembro de 1986.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 90/1985, 1º Suplemento, Série I de 1985-04-18
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1060-(11) a 1060-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09001/00110012.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-a-1985-477174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T07:32:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c9fa79a64a89620c1252969cd691cc5abe6ab42f0727aff3ec4f42a15ec0c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e470ac3a331ba48b809f6f91dc96bd897ddcbba01eb2dc5f74963d189f4b129e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:32:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Preço
+- Tabaco
+relationships:
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660883:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:32:15Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +140,4 @@ Ministérios das Finanças e do Plano e da Indústria e Energia, 15 de Abril de 
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/04/09001/00110012.pdf))](https://files.diariodarepublica.pt/1s/1985/04/09001/00110012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/04/09001/00110012.pdf)

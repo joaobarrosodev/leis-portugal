@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08200/07010702.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-1977-139934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T05:16:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a450978df8b687b50a92ef70846ddcabfa4b111a920f7f68d3888a0187615aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: febe07af74c0ffffb51bd84b61f865841aab8d4d6a1fada2271a46e5a3a3aef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:16:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Leite
+- Preço de Venda
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:294678:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:160730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676446:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:294678:por
+  label: Revogada, a partir de 27.05.1978,pelo(a) Portaria n.º 285/78 - Diário da República n.º 120/1978, Série I de 1978-05-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/285-1978-294678
+  date: '1978-05-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:16:24Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +127,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comér
 
 2.º Os preços máximos de venda, por quilograma, do leite em pó instantâneo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08200/07010702.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08200/07010702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08200/07010702.pdf)
 
 3.º Os preços máximos de venda de outras fracções serão os correspondentes aos fixados por quilograma.
 

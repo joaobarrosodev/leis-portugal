@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/199a00/27382743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/147/1996/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1996-401960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T01:44:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f15f473579ed68ba0e9bc5955d4ef1c1172f3c94a03136152dca00d87928d51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efc72abd848a20fe4356ee5c74714a8bac98c44da25bad8fe12fcf6ba419a1a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:44:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gabinete de Auditoria Interna
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
 - Criação de Serviços
 - Definição de Competências
 - Departamento de Estatística
@@ -76,13 +73,16 @@ subjects:
 - Departamento para os Assuntos Europeus e Relações Externas
 - Direcção Geral das Condições de Trabalho
 - Direcção Geral do Emprego e Formação Profissional
-- Ministério para a Qualificação e o Emprego
+- Gabinete de Auditoria Interna
 - Gabinete Jurídico
-- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
 - Inofor
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Instituto do Emprego e Formação Profissional
 - Integração de Trabalhadores
+- Ministério para a Qualificação e o Emprego
 - Ministro para a Qualificação e o Emprego
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Regime de Pessoal
 - Serviço Regional
@@ -92,6 +92,12 @@ relationships:
   target: pt:dre:516029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186543:por
+  label: "Transitados para a dependência do Ministro do Trabalho e da Solidariedade os organismos e serviços até aqui integrados\
+    \ no presente Ministério, pelo DEC LEI.55/98.1998.03.16.PCM DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-1998-186543
+  date: '1998-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/208/1993/06/16/p/dre
   label: null
@@ -104,16 +110,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/83/1991/02/20/p/dre
+- type: cites
+  target: pt:dre:265689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487122:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516029:por
+  label: "Revogado pelo DEC LEI.115/98.1998.05.04.MTS, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/115-1998-516029
+  date: '1998-05-04'
 article_structure:
   article_count: 29
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:44:17Z'
   warnings: []
   errors: []
 ---
@@ -514,16 +541,16 @@ Salvo disposição legal em contrário, o Ministro para a Qualificação e o Emp
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria João Fernandes Rodrigues - Fernando Lopes Ribeiro Mendes - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 8 de Agosto de 1996.**
+Promulgado em 8 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 12 de Agosto de 1996.**
+Referendado em 12 de Agosto de 1996.
 
-**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
 
 MAPA A QUE SE REFERE O ARTIGO 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/199a00/27382743.pdf))](https://files.diariodarepublica.pt/1s/1996/08/199a00/27382743.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/199a00/27382743.pdf)

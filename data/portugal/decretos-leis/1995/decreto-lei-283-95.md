@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/283/1995/10/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1995-668112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90060cc8d24975d12c0dd3a44d6723ec88c95d61fcc5f34f8196444742518f6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a575149c4f66c88c5df394d13089fb1b46420ec149c224e21aea3ef4766d47d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aposentação
-- Financiamento
 - Caixa Geral de Aposentações
+- Financiamento
 - Instituto Nacional de Pilotagem dos Portos
 - Pensão de Aposentação
 - Transferência de Competências
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:25Z'
   warnings: []
   errors: []
 ---
@@ -101,30 +113,30 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A partir do dia 1 do mês seguinte ao da entrada em vigor do presente diploma, a Caixa Geral de Aposentações (CGA) passa a ser responsável pelo pagamento das pensões de aposentação do pessoal oriundo das extintas corporações e secções locais de pilotos cuja passagem à situação de aposentação, nos termos do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, ocorreu até 1 de Maio de 1989.
+Artigo 1.º - 1 - A partir do dia 1 do mês seguinte ao da entrada em vigor do presente diploma, a Caixa Geral de Aposentações (CGA) passa a ser responsável pelo pagamento das pensões de aposentação do pessoal oriundo das extintas corporações e secções locais de pilotos cuja passagem à situação de aposentação, nos termos do [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, ocorreu até 1 de Maio de 1989.
 
 2 - O Instituto Nacional de Pilotagem dos Portos (INPP) transferirá mensalmente para a CGA, até ao dia 15 de cada mês a que respeitam, as verbas necessárias ao pagamento das pensões referidas no número anterior.
 
-###### Art. 2 - 1 - A CGA passa a suportar o encargo previsto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), de 3 de Junho, relativamente ao pessoal do INPP cuja aposentação ocorra em momento posterior ao da entrada em vigor do presente diploma.
+Art. 2 - 1 - A CGA passa a suportar o encargo previsto no n.º 4 do artigo 4.º do [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), de 3 de Junho, relativamente ao pessoal do INPP cuja aposentação ocorra em momento posterior ao da entrada em vigor do presente diploma.
 
 2 - O INPP continuará a suportar o encargo referido no número anterior relativamente ao pessoal cuja aposentação seja anterior à data da entrada em vigor do presente diploma.
 
-###### Art. 3.º Por força do presente diploma, o INPP participa no financiamento da CGA com uma contribuição mensal de montante igual ao da soma das quotas do pessoal ao seu serviço, a qual será remetida a esta instituição juntamente com essas quotas.
+Art. 3.º Por força do presente diploma, o INPP participa no financiamento da CGA com uma contribuição mensal de montante igual ao da soma das quotas do pessoal ao seu serviço, a qual será remetida a esta instituição juntamente com essas quotas.
 
-###### Art. 4.º Em caso de extinção ou de reestruturação do INPP que implique a reafectação do pessoal ao seu serviço, o respectivo diploma que proceda à reestruturação ou extinção deve determinar quais as entidades responsáveis pelo cumprimento das obrigações previstas no n.º 2 do artigo 1.º, no n.º 2 do artigo 2.º e no artigo 3.º
+Art. 4.º Em caso de extinção ou de reestruturação do INPP que implique a reafectação do pessoal ao seu serviço, o respectivo diploma que proceda à reestruturação ou extinção deve determinar quais as entidades responsáveis pelo cumprimento das obrigações previstas no n.º 2 do artigo 1.º, no n.º 2 do artigo 2.º e no artigo 3.º
 
-###### Art. 5.º No prazo de 15 dias contados a partir da data da entrada em vigor do presente diploma, deve o INPP enviar à CGA a lista nominal dos aposentados a que se refere o n.º 1 do artigo 1.º, com indicação da informação necessária ao processamento das pensões.
+Art. 5.º No prazo de 15 dias contados a partir da data da entrada em vigor do presente diploma, deve o INPP enviar à CGA a lista nominal dos aposentados a que se refere o n.º 1 do artigo 1.º, com indicação da informação necessária ao processamento das pensões.
 
-###### Art. 6.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Baptista Duarte Silva.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

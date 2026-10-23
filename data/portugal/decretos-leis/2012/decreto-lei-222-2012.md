@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/222/2012/10/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 958f1cd870e5461d148f8805f52c4c8bd673ff08cb35b57160308a317623b920
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0e2bdcbd9627346a8372471c375d1482828019fbdcc45935ea872dddb194045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
-- Doença Animal
+- Abate de Animais
+- Açores
+- Base de Dados
 - Carne
 - Carne de Suíno
 - Circulação de GADO
+- Comércio
 - Contra-ordenação
+- Controlo Sanitário
 - Definição de Competências
 - Direção Geral de Alimentação e Veterinária
-- Controlo Sanitário
-- Plano de Controlo e Erradicação da Doença de Aujeszky
-- Exploração Pecuária
-- Abate de Animais
-- Base de Dados
-- Instituto Nacional de Investigação Agrária e Veterinária
+- Doença Animal
 - Epidemia
+- Exploração Pecuária
+- GADO
+- Instituto Nacional de Investigação Agrária e Veterinária
 - Madeira.região Autónoma
-- Registo de Animais
-- Açores
 - Medicamento Veterinário
-- Comércio
+- Plano de Controlo e Erradicação da Doença de Aujeszky
+- Registo de Animais
+- Saúde Animal
 - Transporte de Animais
 - Vacinação
-- Saúde Animal
 relationships:
 - type: cites
   target: celex:32008D0185
@@ -99,15 +99,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/dec-lei/85/2012/04/05/p/dre
 article_structure:
-  article_count: 113
+  article_count: 69
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:18:13Z'
   warnings: []
   errors: []
 ---
@@ -224,7 +224,9 @@ s) 'Período de vazio' o período de tempo que medeia entre a saída dos animais
 
 2 - Salvo outra determinação da Direção-Geral de Alimentação e Veterinária, para efeitos do PCEDA, os suínos destinados a abate só podem permanecer por um período máximo de 72 horas nos entrepostos de suínos para abate, e de sete dias nos entrepostos de suínos para explorações em vida, em ambos os casos a contar da data da aquisição dos animais.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -250,7 +252,9 @@ j) ...
 
 k) (Revogada.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -270,7 +274,9 @@ g) ...
 
 h) Celebrar protocolos com a DGAV para a execução das ações mencionadas nas alíneas anteriores.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 ...
 
@@ -284,11 +290,15 @@ d) ...
 
 e) Celebrar protocolos com a DGAV para a execução das ações mencionadas nas alíneas anteriores.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A doença de Aujeszky é uma doença de declaração obrigatória, nos termos das disposições conjugadas do artigo 1.º do Decreto-Lei n.º 39209, de 14 de maio de 1953, alterado pelos Decretos-Leis n.os 51/90, de 10 de fevereiro, e 69/93, de 10 de março, pela Lei n.º 30/2006, de 11 de julho, e pelas Portarias n.os 268/76, de 28 de abril, e 82/95, de 30 de janeiro, e do artigo 12.º do anexo i ao Decreto-Lei n.º 79/2011, de 20 de junho.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A classificação sanitária dos efetivos é atribuída pela DGAV, considerando a avaliação epidemiológica efetuada.
 
@@ -312,13 +322,17 @@ h) 'Efetivo suspeito' efetivo que contém pelo menos um suíno clinicamente susp
 
 3 - Os efetivos classificados ao abrigo do Decreto-Lei n.º 161/2002, de 10 de julho, mantêm a classificação sanitária atribuída à data da entrada em vigor do presente Plano.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A classificação dos efetivos indemnes (A4) ou oficialmente indemnes (A5) é suspensa, de acordo com os procedimentos previstos no presente Plano, e os efetivos adquirem, respetivamente, a classificação de indemnes suspensos (A4S) ou de oficialmente indemnes suspensos (A5S).
 
 2 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A atribuição da classificação sanitária depende da realização de uma avaliação epidemiológica nos efetivos suinícolas, recolhida, nomeadamente, através do rastreio serológico.
 
@@ -338,7 +352,9 @@ e) 'Rastreio de seguimento' o rastreio serológico efetuado para a manutenção 
 
 f) 'Rastreio adicional' o rastreio serológico efetuado sempre que se verifiquem reações serológicas positivas nos efetivos classificados como indemnes (A4) ou oficialmente indemnes (A5).
 
-###### Artigo 15.º — Execução
+Artigo 15.º
+
+Execução
 
 1 - O rastreio serológico deve ser efetuado numa única intervenção.
 
@@ -350,7 +366,9 @@ f) 'Rastreio adicional' o rastreio serológico efetuado sempre que se verifiquem
 
 5 - Sempre que se justifique do ponto de vista epidemiológico, e de forma a conhecer o estatuto sanitário dos efetivos de suínos, o diretor-geral de Alimentação e Veterinária pode, por despacho, determinar a realização de outros rastreios, para além dos referidos no presente Plano.
 
-###### Artigo 16.º — Amostra
+Artigo 16.º
+
+Amostra
 
 1 - Em efetivos com suínos de reprodução, os soros devem ser colhidos e distribuídos pelos reprodutores existentes.
 
@@ -358,7 +376,9 @@ f) 'Rastreio adicional' o rastreio serológico efetuado sempre que se verifiquem
 
 3 - Caso existam diversos pavilhões na mesma exploração, a amostra deve ser repartida por todos.
 
-###### Artigo 17.º — Aquisição de estatuto sanitário em saneamento
+Artigo 17.º
+
+Aquisição de estatuto sanitário em saneamento
 
 1 - Para adquirirem o estatuto sanitário em saneamento (A3), os efetivos já classificados como desconhecidos (A1) devem ser sujeitos a rastreio serológico até 30 de abril de 2013 ou, decorrido este prazo, nos 30 dias subsequentes à data da notificação do produtor relativa à atribuição da classificação sanitária.
 
@@ -370,7 +390,9 @@ b) Nas explorações que não contenham animais de reprodução, ao efetivo de s
 
 3 - O número mínimo de suínos, objeto de rastreio serológico na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, a exploração adquire o estatuto sanitário em saneamento (A3).
 
@@ -388,7 +410,9 @@ c) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resul
 
 5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.
 
-###### Artigo 19.º — Aquisição de estatuto indemne
+Artigo 19.º
+
+Aquisição de estatuto indemne
 
 1 - Todos os produtores dos efetivos classificados em saneamento (A3) que não tenham registado manifestações clínicas, patológicas ou serológicas da doença e que tenham cumprido o plano de vacinação, pelo menos nos últimos 12 meses contados desde o dia 1 de novembro de 2012, ficam obrigados a requerer à DGAV, nos 30 dias subsequentes, a confirmação das condições para a realização do início do primeiro rastreio e, em caso de decisão favorável, a proceder a:
 
@@ -410,7 +434,9 @@ b) Um rastreio por amostragem ao efetivo de engorda nas explorações sem animai
 
 8 - O número mínimo de suínos, objeto do segundo rastreio serológico na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução, de acordo com a tabela que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-###### Artigo 20.º — Resultados dos rastreios
+Artigo 20.º
+
+Resultados dos rastreios
 
 1 - A realização do primeiro rastreio aos suínos reprodutores, determina que:
 
@@ -448,7 +474,9 @@ c) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resul
 
 6 - Por despacho do diretor-geral de Alimentação e Veterinária e, por um período de tempo a definir, podem ser determinados os procedimentos a adotar no caso de se detetar a presença nos suínos reprodutores de um número de suínos serologicamente positivos não superior a 1 %.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O efetivo indemne (A4) adquire o estatuto de oficialmente indemne (A5) se:
 
@@ -464,7 +492,9 @@ c) Nos últimos 12 meses não tiverem sido registadas manifestações clínicas,
 
 4 - O número mínimo de suínos, objeto dos rastreios na exploração a que se refere o número anterior, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A realização do primeiro rastreio aos suínos reprodutores determina que:
 
@@ -502,7 +532,9 @@ c) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resul
 
 6 - Caso os suínos com resultados serológicos duvidosos, referidos nos n.os 2 e 5, já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - Um efetivo indemne (A4) pode manter o estatuto, desde que cumpra o programa de vacinação e efetue um rastreio serológico por amostragem, nos termos seguintes, adquirindo o estatuto de efetivo em saneamento (A3), no caso de não cumprir o mesmo:
 
@@ -518,7 +550,9 @@ ii) Nas explorações sem animais de reprodução, ao efetivo de suínos de engo
 
 3 - O número mínimo de suínos, objeto de rastreio na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - Caso a totalidade dos animais apresente resultados negativos no rastreio, o efetivo mantém o estatuto indemne (A4).
 
@@ -538,13 +572,17 @@ c) [Anterior alínea c) do n.º 4.]
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Um efetivo oficialmente indemne (A5) pode manter este estatuto, desde que efetue quadrimestralmente um rastreio serológico por amostragem do efetivo reprodutor, nas explorações com animais de reprodução, e ao efetivo de engorda, nas explorações que não contenham animais de reprodução, adquirindo o estatuto em saneamento (A4) se não efetuar o referido rastreio serológico.
 
 2 - O número mínimo de suínos, objeto de rastreio na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -556,7 +594,9 @@ c) [Anterior alínea c) do n.º 4.]
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Para adquirirem o estatuto indemne (A4), os efetivos com classificação indemne suspensa (A4S) devem:
 
@@ -570,7 +610,9 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 4 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -580,7 +622,9 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 4 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo indemne suspenso (A4S) mantém-se, desde que os animais positivos e duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da notificação pela DGAV dos resultados serológicos.
 
@@ -592,7 +636,9 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 5 - Se a percentagem de suínos com resultados serológicos positivos for superior a 2 %, o estatuto de efetivo indemne suspenso (A4S) deve ser retirado, adquirindo o estatuto positivo (A2).
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Para adquirirem o estatuto oficialmente indemne (A5), os efetivos com classificação indemne suspensa (A5S) devem:
 
@@ -604,7 +650,9 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 3 - (Revogado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -614,7 +662,9 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 4 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser mantido, desde que os animais positivos e duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da notificação pela DGAV dos resultados serológicos.
 
@@ -626,11 +676,15 @@ b) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, n
 
 5 - Se a percentagem de suínos com resultados serológico positivo for superior de 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser retirado, adquirindo o estatuto positivo (A2).
 
-###### Artigo 33.º — Rastreio serológico nos efetivos positivos (A2)
+Artigo 33.º
+
+Rastreio serológico nos efetivos positivos (A2)
 
 As explorações onde tenham sido detetados suínos positivos podem ser sujeitas a medidas específicas, as quais são fixadas por despacho do diretor-geral de Alimentação e Veterinária.
 
-###### Artigo 34.º — Rastreio serológico nos suínos de substituição nascidos e criados na própria exploração
+Artigo 34.º
+
+Rastreio serológico nos suínos de substituição nascidos e criados na própria exploração
 
 1 - Nos efetivos classificados como desconhecidos (A1), positivos (A2) ou em saneamento (A3), a totalidade dos suínos de substituição nascidos e criados na própria exploração deve ser sujeita a um rastreio serológico, nos 30 dias antes da primeira cobrição.
 
@@ -638,7 +692,9 @@ As explorações onde tenham sido detetados suínos positivos podem ser sujeitas
 
 3 - O efetivo a que refere o número anterior adquire ou mantém o estatuto sanitário de positivo (A2) e é sujeito a todas as medidas aplicáveis.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Os efetivos reprodutores dos centros de colheita de sémen têm que ser obrigatoriamente indemnes (A4) ou oficialmente indemnes (A5).
 
@@ -648,11 +704,15 @@ As explorações onde tenham sido detetados suínos positivos podem ser sujeitas
 
 4 - ...
 
-###### Artigo 36.º — Rastreios serológicos em matadouros
+Artigo 36.º
+
+Rastreios serológicos em matadouros
 
 De forma a caracterizar a situação de circulação do vírus da doença de Aujeszky e a controlar a aplicação das vacinas utilizadas, o diretor-geral de Alimentação e Veterinária pode, por despacho, determinar a realização de rastreios serológicos em matadouros.
 
-###### Artigo 37.º — Exceções à obrigatoriedade do rastreio serológico
+Artigo 37.º
+
+Exceções à obrigatoriedade do rastreio serológico
 
 1 - As explorações de recria e ou acabamento que pratiquem o período de vazio, por pavilhão ou por compartimento, quando do seu repovoamento, estão dispensadas da realização do rastreio serológico e adquirem a classificação da exploração de origem.
 
@@ -662,7 +722,9 @@ De forma a caracterizar a situação de circulação do vírus da doença de Auj
 
 4 - (Revogado.)
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -678,7 +740,9 @@ De forma a caracterizar a situação de circulação do vírus da doença de Auj
 
 7 - (Revogado.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -696,7 +760,9 @@ d)...
 
 4 - Nos termos do disposto no número anterior, podem ser aprovados, por despacho do diretor-geral de Alimentação e Veterinária, os programas de vacinação específicos em regiões de baixo risco de transmissão de doença.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -710,7 +776,9 @@ a) 'Zona indemne' zona epidemiológica em que todas as explorações adquiriram 
 
 b) 'Zona oficialmente indemne' zona epidemiológica em que todos os efetivos adquiriram a classificação sanitária oficialmente indemne.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Sem prejuízo do disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril, a movimentação dos suínos para exploração em vida está sujeita a prévia autorização da DGAV.
 
@@ -720,13 +788,17 @@ b) 'Zona oficialmente indemne' zona epidemiológica em que todos os efetivos adq
 
 4 - O diretor-geral de Alimentação e Veterinária pode, por despacho, restringir a movimentação dos animais, em função da evolução epidemiológica da doença.
 
-###### Artigo 44.º — Movimentação de suínos de efetivos de estatuto sanitário desconhecido
+Artigo 44.º
+
+Movimentação de suínos de efetivos de estatuto sanitário desconhecido
 
 1 - A movimentação de suínos de efetivos de estatuto sanitário desconhecido (A1) só pode ser efetuada para abate, decorrido o prazo de 180 dias previsto para o rastreio de avaliação.
 
 2 - A partir de 1 de novembro de 2013, os efetivos de estatuto sanitário desconhecido (A1) só podem deslocar suínos para abate após efetuarem a avaliação epidemiológica.
 
-###### Artigo 45.º — Movimentação de suínos de efetivos positivos
+Artigo 45.º
+
+Movimentação de suínos de efetivos positivos
 
 1 - Os suínos de efetivos positivos com a doença de Aujeszky (A2) só podem circular com destino ao matadouro.
 
@@ -736,7 +808,9 @@ a) Registada em nome do mesmo titular, mediante autorização da DGAV, e desde q
 
 b) ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -750,7 +824,9 @@ b) ...
 
 6 - A movimentação de suínos de substituição deve ser efetuada com suínos provenientes de exploração de multiplicação ou seleção com estatuto igual ou superior a efetivo em saneamento (A3), adquirindo a classificação do efetivo da exploração de origem.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -762,7 +838,9 @@ b) ...
 
 5 - Por despacho do diretor-geral de Alimentação e Veterinária, pode ser determinada a data a partir da qual as explorações de recria e ou acabamento deixam de poder receber suínos provenientes de efetivos classificados de positivos (A2) ou em saneamento (A3).
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Os produtores são obrigados a solicitar à DGAV o registo das suas explorações, centros de agrupamento, centros de colheita de sémen, quarentenas, entrepostos para abate e para a exploração em vida, em conformidade com o disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril.
 
@@ -770,7 +848,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 Para efeitos do presente Plano, sem prejuízo do disposto nos artigos 24.º e 25.º da Portaria n.º 636/2009, de 9 de junho, os centros de agrupamento e entrepostos de suínos devem satisfazer as seguintes condições de funcionamento:
 
@@ -780,13 +860,17 @@ b) Só admitir animais identificados e provenientes de efetivos sem restrições
 
 c) ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Pode ser determinado o sequestro sanitário, sempre que for detetado um animal positivo na exploração.
 
 2 - As explorações classificadas como positivas (A2) devem ser colocadas em sequestro, só podendo ser movimentados suínos com destino ao abate, exceto nas situações previstas no presente Plano.
 
-###### Artigo 51.º — Medidas de polícia sanitária
+Artigo 51.º
+
+Medidas de polícia sanitária
 
 1 - ...
 
@@ -812,7 +896,9 @@ f) ...
 
 6 - (Revogado.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -872,7 +958,9 @@ b) Não estejam em condições para realizar a prova de diagnóstico serológico
 
 3 - Caso os suínos com resultados serológicos prejudicados já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.
 
-###### Artigo 41.º-A — Medidas administrativas
+Artigo 41.º-A
+
+Medidas administrativas
 
 Sem prejuízo do disposto no artigo anterior, em caso de incumprimento da obrigação prevista no artigo 39.º, o diretor-geral de Alimentação e Veterinária pode determinar:
 
@@ -914,15 +1002,15 @@ b) O anexo i ao Plano de Controlo e Erradicação da Doença de Aujeszky, aprova
 
 Visto e aprovado em Conselho de Ministros de 2 de agosto de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 1 de outubro de 2012.**
+Promulgado em 1 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 3 de outubro de 2012.**
+Referendado em 3 de outubro de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO — (a que se refere o artigo 7.º)
 

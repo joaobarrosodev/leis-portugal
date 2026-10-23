@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/53-d/2013/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/53-d-2013-616636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T05:17:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94dabce7236dfa127364004c35a319654bb56bbfd16ee5f8b37f6237cc33c149
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2b3452eb51caf6153386b3e802f205f177c83e98def67ae2e84491cf34a909a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
-- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
 - Governo XIX
 - Nomeação
 - Secretário de Estado
+- Secretário de Estado Adjunto do Ministro Adjunto e do Desenvolvimento Regional
 - Secretário de Estado do Desporto e Juventude
+- Secretário de Estado dos Assuntos Parlamentares e da Igualdade
 - Secretário de Estado para a Modernização Administrativa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:17:41Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ validation:
 
 de 13 de abril
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -106,12 +106,12 @@ O Mestre Pedro Alexandre Vicente de Araújo Lomba Secretário de Estado Adjunto 
 
 O Mestre Joaquim Pedro Formigal Cardoso da Costa Secretário de Estado para a Modernização Administrativa.
 
-**Assinado em 13 de abril de 2013.**
+Assinado em 13 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de abril de 2013.**
+Referendado em 13 de abril de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

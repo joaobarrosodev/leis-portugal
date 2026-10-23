@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/33/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2008-247718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:05:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7409522b6a1902f6099e90a462fbaca18e1387d4f9cff18f95a0feb2cf55548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46f2117ec00f9b3dae2a18ed429a16d2a8e5da12703633d2b85431b3a0b439c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:05:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Aproximação das Legislações
-- Etiquetagem
 - Aditivo Alimentar
-- Indústria Alimentar
+- Aproximação das Legislações
 - Comércio
+- Etiquetagem
+- Indústria Alimentar
+- Produto Alimentar
 relationships:
 - type: amended_by
   target: pt:dre:286753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:286753:por
+  label: "Alterados os anexos II, III, IV, V e VI do Dec Lei 121/98, de 08-Mai, na redacção do presente diploma, pelo DEC\
+    \ LEI.64/2011.09.05.2011.MADRP, DR.IS [89] de 09.05.2011, de acordo com o respectivo anexo I\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2011-286753
+  date: '2011-05-09'
 - type: cites
   target: celex:31994L0035
   label: null
@@ -117,15 +123,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2006/52/oj
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:05:39Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +224,9 @@ z) ...
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -250,15 +258,15 @@ O presente decreto-lei produz efeitos desde 15 de Fevereiro de 2008.
 
 Visto e aprovado em Conselho de Ministros de 10 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Emanuel Augusto dos Santos - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
 
-**Promulgado em 12 de Fevereiro de 2008.**
+Promulgado em 12 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Fevereiro de 2008.**
+Referendado em 13 de Fevereiro de 2008.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — Alteração do anexo ao Decreto-Lei n.º 121/98, de 8 de Maio, na redacção dada pelo Decreto-Lei n.º 363/98, de 19 de Novembro
 
@@ -276,7 +284,7 @@ b) Na lista de aditivos é acrescentado o seguinte aditivo:
 
 a) A lista dos aditivos e limites máximos autorizados nos queijos curados é alterada do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 b) A linha correspondente ao «Pain courant français» passa a ter a seguinte redacção:
 
@@ -292,11 +300,11 @@ a) No quadro «Sorbatos, benzoatos e p-hidroxibenzoatos», são eliminadas as li
 
 b) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis são suprimidas as seguintes linhas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 c) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis são aditadas as seguintes linhas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 d) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis, a expressão «Alimentos dietéticos para fins medicinais específicos» é substituída pela expressão «Alimentos dietéticos destinados a fins medicinais específicos, tal como definidos no Decreto-Lei n.º 212/2000, de 2 de Setembro».
 
@@ -304,17 +312,17 @@ d) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis, a
 
 a) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis, a linha relativa a «Crustáceos e cefalópodes» passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 b) No quadro relativo aos géneros alimentícios e doses máximas aplicáveis, na col. «Géneros alimentícios» a designação «Amidos (excluindo os amidos utilizados em preparados para lactentes, alimentos de transição e alimentos para desmame)» é substituída por «Amidos (excluindo os amidos utilizados em preparados para lactentes, alimentos de transição, alimentos transformados à base de cereais e alimentos para bebés)»;
 
 c) No quadro relativo aos géneros alimentícios e teores máximos aplicáveis são aditadas as seguintes rubricas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 5 - Na parte C do anexo iii o quadro referente aos E 249, E 250, E 251 e E 252 é alterado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 d) A parte D do anexo iii é alterada do seguinte modo:
 
@@ -324,25 +332,25 @@ i) A nota passa a ter a seguinte redacção:
 
 ii) As linhas correspondentes aos E 310 a E 321 e E 310 a E 320 passam a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 iii) É aditada a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 6 - O anexo iv é alterado do seguinte modo:
 
 a) A linha correspondente ao E 385 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 b) Após a linha correspondente ao E 967, é inserida a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 c) É aditada a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 d) Na linha correspondente ao E 468, a expressão «Suplementos dietéticos sólidos» é substituída pela expressão «Suplementos alimentares, tal como definidos no Decreto-Lei n.º 136/2003, de 28 de Junho, fornecidos sob a forma sólida»;
 
@@ -356,21 +364,21 @@ h) Nas linhas correspondentes aos E 405, E 432 a E 436, E 473 e E 474, E 475, E 
 
 i) A linha correspondente aos E 1505 a E 1520 passa a ter a seguinte redacção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 j) São aditadas as seguintes linhas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 7 - O anexo v é alterado do seguinte modo:
 
 a) Após a linha correspondente ao E 967, é inserida a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 b) Após a linha correspondente ao E 466, é inserida a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 c) Na 3.ª col. da linha correspondente aos E 551 e E 552, é aditada a seguinte frase:
 
@@ -384,7 +392,7 @@ b) No título da parte 3 e nas linhas correspondentes aos E 170 a E 526, E 500, 
 
 c) Na parte 4, a seguir à linha correspondente ao E 472c, é inserida a seguinte linha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0121501221.pdf)
 
 ## ANEXO II — Alteração do anexo ao Decreto-Lei n.º 394/97, de 10 de Dezembro, rectificado pela Declaração de Rectificação n.º 3-B/99, de 30 de Janeiro
 

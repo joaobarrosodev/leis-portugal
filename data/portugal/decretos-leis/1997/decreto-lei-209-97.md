@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/08/186a00/42194230.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/209/1997/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1997-202780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T01:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1d3cbde904d0d41d8fd410906a9a525162d820342d2e474fa9db2d017c79e85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972dafefa9dc18c38b0e1902a30264db4e6bfccd394bfe84430878b70f7c6e1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:51:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,69 @@ reuse:
 subjects:
 - Agência de Turismo
 - Alvará
-- Turismo
-- Multa
+- Comércio
 - Contra-ordenação
 - Direito de Estabelecimento
 - Licenciamento
+- Multa
 - Proteção do Consumidor
 - Sanção Económica
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio
+- Turismo
 - Viagem de Turismo
 relationships:
 - type: amended_by
   target: pt:dre:286770:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490774:por
+  label: "Alterado os arts. 1.º a 3.º, 5.º, 8.º, 14.º, 23.º, 30.º, 39.º, 40.º, 54.º, 57.º a 59.º, 60.º e 61.º do presente\
+    \ diploma, o qual é republicado na integra com as alterações ora introduzidas, pelo DEC LEI.12/99.1999.01.11.MECO DR.IS-A\
+    \ [8]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1999-490774
+  date: '1999-01-11'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: "Alterado o art. 6º pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:636062:por
+  label: "Alterados os art.s 2º, 3º, 5º, 8º, 14º, 23º, 30º, 40º, 57º, 59º, 60º, 61º (todos na redacção do Dec Lei 12/99, de\
+    \ 11-Jan), o art. 6º (na redacção do Dec Lei 76-A/2006, de 29-Mar), os art.s 4º, 9º, 10º, 11º, 12º, 15º, 16º, 17º, 18º,\
+    \ 19º, 20º, 21º, 22º, 24º, 25º, 27º, 41º, 45º, 46º, 47º, 49º, 50º, 52º, 55º, 56º, 62º, 65º, aditados os art.s 53º-A e\
+    \ 64º-A, e revogados o nº 5 do art. 3º (na redacção do Dec Lei 12/99, de 11-Jan), o nº 4 do art. 6º (na redacção do Dec\
+    \ Lei 76-A/2006, de 29-Mar), a al. c) do nº 3 e o nº 4 do art. 10º, os nºs 2 e 3 do art. 11º, os nºs 3 e 4 do art. 12º,\
+    \ os nºs 3, 4 e 5 do art. 16º, e os art.s 53º, 54º (na redacção do Dec Lei 12/99, de 11-Jan), 63º e 64º, com republicação,\
+    \ pelo DEC LEI.263/2007.20.07.2007.MEI, DR.IS [139] de 20.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-2007-636062
+  date: '2007-07-20'
 - type: cites
   target: celex:31990L0314
   label: null
   source: http://data.europa.eu/eli/dir/1990/314/oj
+- type: corrected_by
+  target: pt:dre:305442:por
+  label: "Rectificado pela DECL-RECT.21-D/97.1997.11.13.PCM, DR.IS-A [277]-2ºSupl de 29/Nov/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-d-1997-305442
+  date: '1997-11-13'
+- type: repealed_by
+  target: pt:dre:286770:por
+  label: "Revogado, a partir de 05.06.2011, na redacção dos Decs Lei 12/99, de 11-Jan, 76-A/2006, de 29-Mar e 263/2007, de\
+    \ 20-Jul, pelo DEC LEI.61/2011.06.05.2011.MEID, DR.IS [88] de 06.05.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2011-286770
+  date: '2011-05-06'
 article_structure:
   article_count: 68
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:51:05Z'
   warnings: []
   errors: []
 ---
@@ -360,7 +394,9 @@ A transmissão da propriedade e a cessão de exploração dos estabelecimentos d
 
 Aos representantes das agências, quando devidamente identificados e em serviço, é permitido o acesso às delegações das alfândegas, aos cais de embarque e aos recintos destinados aos passageiros nos aeroportos ou gares.
 
-###### Artigo 16.º — Livro de reclamações
+###### Artigo 16.º
+
+## Livro de reclamações
 
 1 - Em todos os estabelecimentos das agências de viagens e turismo deve existir um livro destinado aos utentes para que estes possam formular observações e reclamações sobre o estado e a apresentação das instalações e do equipamento, bem como sobre a qualidade dos serviços e o modo como foram prestados.
 
@@ -934,12 +970,12 @@ O presente diploma entra em vigor no dia 1 de Agosto de 1997.
 
 Visto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Manuel de Matos Fernandes - Augusto Carlos Serra Ventura Mateus - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 4 de Julho de 1997.**
+Promulgado em 4 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 10 de Julho de 1997.**
+Referendado em 10 de Julho de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

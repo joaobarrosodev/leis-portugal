@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/173a00/45744577.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206/2001/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2001-372853
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T02:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07b89002b36d8f584a052cc325e1974b5815024c510d52a9018b7e94a74116e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07c9cb3685eff466ae4bb8ac4b4d02d6d4707dcbe6161191777b1d7a687659b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência Funerária
-- Multa
 - Contra-ordenação
 - Fiscalização
 - Funeral
 - Inspecção Geral das Actividades Económicas
+- Multa
 - Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:307671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518198:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma contida na al a) do n.º 1 do art 6.º do\
+    \ presente diploma, em conjugação com o disposto no artigo 5.º do mesmo diploma, enquanto exclui as associações mutualistas\
+    \ do exercício da actividade funerária aos seus associados, pelo AC.635/2006.21.11.2006.TCS, DR.IS [28] de 08.02.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/635-2006-518198
+  date: '2006-11-21'
+- type: cites
+  target: pt:dre:313653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:604584:por
+  label: "Revogado o art. 2.º e alterados os arts. 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 14.º e 16.º, pelo DEC LEI.41/2005.18.02.2005.MAET,\
+    \ DR.IS-A [35] de 18.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2005-604584
+  date: '2005-02-18'
+- type: repealed_by
+  target: pt:dre:307671:por
+  label: "Revogado o presente diploma, a partir de 13.12.2010, na redacção do Dec Lei 41/2005, de 18-Fev, pelo DEC LEI.109/2010.14.10.2010.MEID,\
+    \ DR.IS [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-2010-307671
+  date: '2010-10-14'
 article_structure:
   article_count: 20
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:26:09Z'
   warnings: []
   errors: []
 ---
@@ -211,7 +239,9 @@ c) Abster-se de usar serviços de terceiros cuja idoneidade profissional não se
 
 d) Abster-se, por si ou através de terceiros, de contactar as famílias do falecido com o intuito de obter a encomenda da organização do funeral, sem que os seus serviços tenham sido previamente solicitados para o efeito.
 
-###### Artigo 12.º — Livro de reclamações
+###### Artigo 12.º
+
+## Livro de reclamações
 
 1 - As agências funerárias devem possuir, por estabelecimento, um livro de reclamações, devendo a sua existência ser divulgada de forma visível, designadamente no mostruário e na factura.
 
@@ -307,12 +337,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Diogo Campos Barradas de Lacerda Machado - Vítor Manuel da Silva Santos - Maria Manuela de Brito Arcanjo Marques da Costa.
 
-**Promulgado em 17 de Julho de 2001.**
+Promulgado em 17 de Julho de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 19 de Julho de 2001.**
+Referendado em 19 de Julho de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

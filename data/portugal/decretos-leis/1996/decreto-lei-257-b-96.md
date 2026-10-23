@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 302/1996, 1º Suplemento, Série I-A de 1996-12-31
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4716-(7) a 4716-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/302a01/00070011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/257-b/1996/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-b-1996-276219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce1a3ccde65df37088bfed7a6c8cf136b5e6df1c3eee7b46ff237a10e431449
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b7b1eea0d68c3d4febb3cce5edb594a6c3871d8c915740aba6ea98f6f7f7e3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,23 @@ reuse:
 subjects:
 - Acção Financeira
 - Atividade Industrial
+- Benefícios Fiscais
 - Bolsa de Valores
 - Código do IRS
-- Política Fiscal
 - Contrato
 - Contribuinte
 - Direito Fiscal
 - Estatuto dos Benefícios Fiscais
+- Evasão Fiscal
+- Exploração Agrícola
 - Fraude Fiscal
 - Fundo de Capital de Risco
+- IRC
 - IRS
 - Mercado de Capitais
 - Mercado Financeiro
-- Exploração Agrícola
-- Evasão Fiscal
-- IRC
+- Política Fiscal
 - Regime Fiscal
-- Benefícios Fiscais
 - Retenção na Fonte
 - Sociedade Corretora
 relationships:
@@ -92,6 +92,93 @@ relationships:
   target: pt:dre:243769:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301798:por
+  label: "Alterada a redacção do art. 6.º do Código do IRS, aprovado pelo Dec-Lei 442-A/88 de 30-Nov, na redacção do presente\
+    \ diploma, pelo DEC LEI.3/97.08.01.1997.MF, DR.IS-A [6] de 08.01.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1997-301798
+  date: '1997-01-08'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterado o art. 34º do Estatuto dos Benefícios Fiscais, aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do\
+    \ presente diploma, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682983:por
+  label: "Alterado o art. 117.º do Código do IRS aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 68º-B do Código do IRC, aprovado pelo Dec Lei 442-B/88, de 30-Nov, na redacção do presente diploma,\
+    \ pelo DEC LEI.55/2000.14.04.2000.MF, DR.IS-A [89] de 14.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "Alterados os arts. 4º, 6.º, 8.º, 91.º e 117.º do Código do IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, na redacção\
+    \ do presente diploma, pela LEI.30-G/2000.29.12.2000.AR, DR.IS-A [299-3ºSupl] de 29.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterado o art. 5.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.109-B/2001.27.12.2001.AR, DR.IS-A [298-2ºSupl] de 27.12.2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "Alterado o art. 5.º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:673640:por
+  label: "Alterado o art. 34º do Estatuto dos Benefícios Fiscais aprovado pelo Decreto-Lei 215/89, de 01-Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.163/2003.2003.07.24.MF DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2003-673640
+  date: '2003-07-24'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterado o art. 34º do Estatuto dos Benefícios Fiscais aprovado pelo Dec Lei 215/89, de 01-Jul, na redacção do presente\
+    \ diploma, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "Alterado o art 5.º do Código do IRS aprovado pelo Dec Lei 442-A/88 de 30-Nov, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:456221:por
+  label: Alterado o art. 34º do Dec Lei 215/89, de 01-Jul, na redacção do presente diploma, pelo DEC LEI.108/2008.26.06.2008.MFAP,
+    DR.IS [122] de 26.06.2008
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/108-2008-456221
+  date: '2008-06-26'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 18.10.2009, o art 5º do Código de IRS, aprovado pelo Dec Lei 442-A/88 de 30-Nov, republicado\
+    \ pelo Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Alterados os art.s 5º e 117º do Código do IRS, aprovado pelo Dec Lei 442-A/88, de 30-Nov, na redacção do presente\
+    \ diploma, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o art. 5º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo\
+    \ Dec Lei 442-A/88, de 30-nov, na redação do presente diploma, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2013-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/85/1996/06/29/p/dre
   label: null
@@ -100,16 +187,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+- type: cites
+  target: pt:dre:428666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477288:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:679669:por
+  label: "Revogado o nº 1 do art. 12º do Dec Lei 486/99 de 13-Nov, repondo em vigor, na redacção dada pelo presente diploma\
+    \ e pela Lei 87-B/98 de 31-Dez, o art. 117º do Código do IRS, pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
 article_structure:
-  article_count: 13
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:46:53Z'
   warnings: []
   errors: []
 ---
@@ -174,13 +275,17 @@ h) [Anterior alínea g).]
 
 4 - ...
 
-###### Artigo 5.º — Rendimentos da categoria D
+Artigo 5.º
+
+Rendimentos da categoria D
 
 1 - ...
 
 2 - Consideram-se ainda rendimentos agrícolas os referidos nas alíneas c), d), e) e g) do n.º 2 do artigo anterior quando imputáveis a uma actividade agrícola, silvícola ou pecuária, com excepção das mais-valias resultantes da alienação onerosa de prédios rústicos afectos ao exercício de uma actividade agrícola, silvícola ou pecuária, da transferência destes para o património particular do empresário e, bem assim, da afectação dos mesmos a uma actividade comercial ou industrial por ele exercida.
 
-###### Artigo 6.º — Rendimentos da categoria E
+Artigo 6.º
+
+Rendimentos da categoria E
 
 1 - ...
 
@@ -230,7 +335,9 @@ b) Tratando-se de swaps de taxa de juro ou de taxa de juro e divisas, pela difer
 
 7 - Estando em causa instrumentos financeiros derivados, o disposto no n.º 11 do artigo 68.º-B do Código do IRC é aplicável, com as necessárias adaptações, para efeitos de IRS.
 
-###### Artigo 8.º — Momento a partir do qual ficam sujeitos a tributação
+Artigo 8.º
+
+Momento a partir do qual ficam sujeitos a tributação
 
 os rendimentos da categoria E
 
@@ -260,7 +367,9 @@ d) Quanto ao n.º 6 do artigo 6.º, ao apuramento do respectivo quantitativo.
 
 5 - ...
 
-###### Artigo 91.º — Retenção na fonte - regras gerais
+Artigo 91.º
+
+Retenção na fonte - regras gerais
 
 1 - Nos casos previstos nos artigos 92.º a 94.º e noutros estabelecidos na lei, a entidade devedora dos rendimentos sujeitos a retenção na fonte é obrigada, no acto do pagamento, do vencimento, ainda que presumido, da sua colocação à disposição, da sua liquidação ou do apuramento do respectivo quantitativo, consoante os casos, ou, tratando-se de comissões, pela intermediação na celebração de quaisquer contratos, no acto do seu pagamento ou colocação à disposição, a deduzir-lhes as importâncias correspondentes à aplicação das taxas neles previstas por conta do imposto respeitante ao ano em que esses actos ocorrem.
 
@@ -270,7 +379,9 @@ d) Quanto ao n.º 6 do artigo 6.º, ao apuramento do respectivo quantitativo.
 
 4 - ...
 
-###### Artigo 117.º — Sociedades corretoras e sociedades financeiras de corretagem
+Artigo 117.º
+
+Sociedades corretoras e sociedades financeiras de corretagem
 
 As sociedades corretoras, as sociedades financeiras de corretagem e as outras instituições financeiras deverão comunicar à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, relativamente a cada sujeito passivo, mediante modelo aprovado oficialmente ou por suporte informático:
 
@@ -286,7 +397,9 @@ b) O número de contratos de instrumentos financeiros derivados, bem como o resp
 
 Instrumentos financeiros derivados
 
-###### Artigo 68.º-B — Instrumentos financeiros derivados - regras gerais
+Artigo 68.º-B
+
+Instrumentos financeiros derivados - regras gerais
 
 1 - Na consideração dos proveitos ou ganhos e custos ou perdas relativos a instrumentos financeiros derivados, salvo os previstos no artigo seguinte, observar-se-á o seguinte:
 
@@ -324,7 +437,9 @@ b) Por posição entende-se a detenção, directa ou indirecta, de contratos rel
 
 11 - Se a substância de uma operação ou conjunto de operações difere da sua forma, o momento, a fonte e o carácter dos pagamentos e recebimentos, proveitos e custos, ganhos e perdas, decorrentes dessa operação, podem ser recaracterizados pela administração fiscal de modo a ter em conta essa substância.
 
-###### Artigo 68.º-C — Swaps
+Artigo 68.º-C
+
+Swaps
 
 1 - Havendo lugar à cessão ou anulação de um swap ou operação cambial a prazo, com pagamento e recebimento de valores de regularização, observar-se-á o seguinte:
 
@@ -358,7 +473,9 @@ e) Exercício de 2001 - 90% do seu valor.
 
 3 - Relativamente aos contratos referidos no número anterior, a parte do rendimento líquido negativa não deduzida num exercício pode ser deduzida ao rendimento líquido positivo obtido num ou mais dos cinco exercícios seguintes, aplicando-se, até ao exercício de 2001, ao valor líquido dessa dedução a percentagem referida no n.º 2 que respeita ao exercício em que é feita a dedução.
 
-###### Artigo 36.º-A — Swaps e empréstimos de instituições financeiras não residentes
+Artigo 36.º-A
+
+Swaps e empréstimos de instituições financeiras não residentes
 
 Ficam isentos de IRC os juros decorrentes de empréstimos concedidos por instituições financeiras não residentes a instituições de crédito residentes, bem como os ganhos obtidos por aquelas instituições decorrentes de operações de swap efectuadas com instituições de crédito residentes.»
 
@@ -374,12 +491,12 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 31 de Dezembro de 1996.**
+Promulgado em 31 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 31 de Dezembro de 1996.**
+Referendado em 31 de Dezembro de 1996.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/60/2020/08/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2020-140431104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e49c742d9fdfeb7aa55b2b6ab346740cec3e9e4f2aca227239cb71e87ca48a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3345dbadde2fa024a1d5dd0ef573bb4cb3e9e4145ce6a6dbeef1762e263d521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência para a Energia
-- Energia não Poluente
-- Energia Elétrica
-- Entidade Emissora de Garantias de Origem
-- Energia Hidroelétrica
-- Energia Renovável
-- Energia Térmica
 - Combustível
 - Energia
+- Energia Elétrica
+- Energia Hidroelétrica
+- Energia não Poluente
+- Energia Renovável
+- Energia Térmica
+- Entidade Emissora de Garantias de Origem
 - Produção de Energia Elétrica
 relationships:
 - type: amended_by
@@ -149,20 +149,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+- type: cites
+  target: pt:dre:114337041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117537583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683861:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:204502328:por
+  label: Revogado, a partir de 10.12.2022, o Dec Lei 141/2010 de 31-dez, na versão republicada pelo presente diploma pelo(a)
+    Decreto-Lei n.º 84/2022 - Diário da República n.º 236/2022, Série I de 2022-12-09 nos termos do art. 57.º e do n.º 1 do
+    art. 58.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-2022-204502328
+  date: '2022-12-09'
 - type: transposes
   target: celex:32009L0028
   label: null
   source: null
 article_structure:
-  article_count: 61
+  article_count: 44
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:00Z'
   warnings: []
   errors: []
 ---
@@ -209,7 +276,9 @@ e) Estabelece o mecanismo de emissão de garantias de origem para energia de aqu
 
 f) Estabelece o mecanismo de emissão de garantias de origem para gases de baixo teor de carbono e para gases de origem renovável.
 
-###### Artigo 1.º-A — [...]
+Artigo 1.º-A
+
+[...]
 
 [...]:
 
@@ -241,7 +310,9 @@ m) [Anterior alínea j).]
 
 n) [Anterior alínea k).]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - A meta de utilização de energia proveniente de fontes renováveis no consumo final bruto de energia é fixada nas seguintes percentagens:
 
@@ -265,7 +336,9 @@ a) Para o ano 2020 - 10 %;
 
 b) Para o ano 2030 - 20 %.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -279,7 +352,9 @@ b) Para o ano 2030 - 20 %.
 
 6 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -297,7 +372,9 @@ b) Para o ano 2030 - 20 %.
 
 8 - Para o ano de 2030, é fixada uma meta mínima de 3,5 pontos percentuais em teor energético da quota de energia proveniente de fontes renováveis nos transportes referida no n.º 1, a cumprir com biocombustíveis produzidos a partir das matérias-primas enumerados na parte A do anexo IV do [Decreto-Lei n.º 117/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2010-307650), de 25 de outubro, na sua redação atual.
 
-###### Artigo 8.º-H — [...]
+Artigo 8.º-H
+
+[...]
 
 1 - Os procedimentos de controlo prévio a aplicar à produção de eletricidade, aquecimento ou arrefecimento a partir de fontes de energia renováveis, gases de origem renovável e gases de baixo teor de carbono, à construção e utilização de infraestruturas de rede que lhes estejam associadas, bem como ao processo de transformação de biomassa em biocombustíveis ou outros produtos energéticos, constam de diplomas próprios.
 
@@ -305,7 +382,9 @@ b) Para o ano 2030 - 20 %.
 
 3 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -329,7 +408,9 @@ b) Para o ano 2030 - 20 %.
 
 11 - A informação, a prestar pelos comercializadores aos consumidores finais, relativa a garantias de origem utilizadas ao abrigo do n.º 2, incluindo a forma de acesso às mesmas garantias de origem, é prestada nos termos da regulamentação da ERSE.
 
-###### Artigo 9.º-A — [...]
+Artigo 9.º-A
+
+[...]
 
 1 - Os produtores de energia para aquecimento e arrefecimento a partir de fontes de energia renováveis podem solicitar à EEGO, diretamente ou através de um terceiro, a emissão de garantias de origem referentes à energia por si produzida, nos termos do presente decreto-lei.
 
@@ -337,7 +418,9 @@ b) Para o ano 2030 - 20 %.
 
 3 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -377,7 +460,9 @@ f) [...].
 
 9 - As regras aplicáveis à emissão das garantias de origem pela EEGO e à entrega das referidas garantias de origem à DGEG, para os efeitos previstos nos n.os 9 e 10 do artigo 9.º, no n.º 1 do artigo 9.º-A, no n.º 1 do artigo 9.º-B e no n.º 1 do artigo 9.º-C e para a disponibilização ao público em geral da informação que sustenta a emissão das referidas garantias de origem, são aprovadas por despacho do diretor-geral de Energia e Geologia.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Ficam cometidas à concessionária da Rede Nacional de Transporte de Eletricidade as competências de EEGO relativas à produção de eletricidade e de energia para aquecimento e arrefecimento a partir de fontes de energia renovável e à produção de gases de origem renovável e de gases de baixo teor de carbono.
 
@@ -391,7 +476,9 @@ f) [...].
 
 6 - Nas Regiões Autónomas dos Açores e da Madeira, ficam cometidas às concessionárias EDA - Empresa de Eletricidade dos Açores, E. P., e à EEM - Empresa de Eletricidade da Madeira, S. A., respetivamente, as competências de EEGO relativas à produção de eletricidade e de energia para aquecimento e arrefecimento a partir de fontes de energia renováveis e à produção de gases de origem renovável e de gases de baixo teor de carbono.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]:
 
@@ -409,7 +496,9 @@ e) [Anterior alínea d).]
 
 3 - O procedimento aplicável ao registo, junto da EEGO, dos produtores sujeitos à disciplina deste decreto-lei, consta do manual de procedimentos previsto no número anterior.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os registos contabilísticos respeitantes à atividade de emissão das garantias de origem são individualizados e separados daqueles relativos a outras atividades.
 
@@ -429,7 +518,9 @@ b) [...].
 
 4 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Constitui obrigação de todos os produtores de eletricidade e de energia para aquecimento ou arrefecimento a partir de fontes renováveis, de gases de baixo teor de carbono e de gases de origem renovável, que tenham solicitado a emissão de garantias de origem, contribuir para a fiabilidade do sistema de emissão das mesmas.
 
@@ -465,7 +556,9 @@ e) Informações complementares que venham a ser estabelecidas por despacho do d
 
 3 - Aplica-se às garantias de origem da produção de gases de baixo teor de carbono o disposto no artigo 9.º, com as devidas adaptações.
 
-###### Artigo 9.º-C — Garantia de origem da produção de gases de origem renovável
+Artigo 9.º-C
+
+Garantia de origem da produção de gases de origem renovável
 
 1 - Os produtores de gases de origem renovável devem solicitar à EEGO a emissão de garantias de origem referentes aos gases por si produzidos, nos termos do presente decreto-lei.
 
@@ -481,11 +574,15 @@ d) Informações complementares que venham a ser estabelecidas por despacho do d
 
 3 - Aplica-se às garantias de origem da produção de gases de origem renovável o disposto no artigo 9.º, com as devidas adaptações.
 
-###### Artigo 14.º-A — Fiscalização
+Artigo 14.º-A
+
+Fiscalização
 
 Compete à ENSE, E. P. E., a fiscalização do cumprimento das disposições constantes no presente decreto-lei e respetivo quadro regulamentar, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 14.º-B — Contraordenações
+Artigo 14.º-B
+
+Contraordenações
 
 1 - Constitui contraordenação punível com coima de (euro) 500 a (euro) 3740, no caso de pessoas singulares, e de (euro) 2500 a (euro) 44 891, no caso de pessoas coletivas:
 
@@ -503,7 +600,9 @@ e) O incumprimento da obrigação de facultar à EEGO, designadamente, todas as 
 
 3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
 
-###### Artigo 14.º-C — Sanções acessórias
+Artigo 14.º-C
+
+Sanções acessórias
 
 1 - Em simultâneo com a coima, e em função da gravidade da infração e da culpa do agente, podem ser aplicadas as seguintes sanções acessórias:
 
@@ -519,7 +618,9 @@ d) O encerramento de estabelecimento, quando a infração tenha sido praticada n
 
 3 - A autoridade que tomou a decisão condenatória pode determinar a sua publicidade, a expensas do infrator.
 
-###### Artigo 14.º-D — Instrução de decisão e produto das coimas
+Artigo 14.º-D
+
+Instrução de decisão e produto das coimas
 
 1 - Compete à ENSE, E. P. E., proceder à instauração, instrução e decisão dos processos de contraordenação nos termos previstos no artigo anterior.
 
@@ -529,7 +630,9 @@ a) 60 % para o Estado;
 
 b) 40 % para a ENSE, E. P. E.
 
-###### Artigo 14.º-E — Aplicação às Regiões Autónomas
+Artigo 14.º-E
+
+Aplicação às Regiões Autónomas
 
 O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respetivos órgãos de governo próprio.»
 
@@ -561,13 +664,13 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 30 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Pedro Soeiro de Matos Fernandes.
 
-**Promulgado em 6 de agosto de 2020.**
+Promulgado em 6 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 6 de agosto de 2020.**
+Referendado em 6 de agosto de 2020.
 
 Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
 
@@ -575,7 +678,9 @@ Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estad
 
 Republicação do [Decreto-Lei n.º 141/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2010-306619), de 31 de dezembro
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objeto
 
@@ -1185,11 +1290,11 @@ Fórmula de normalização para a contabilização da eletricidade gerada a part
 
 1 - Para a contabilização da eletricidade gerada a partir da energia hídrica, aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
 
 2 - Para a contabilização da eletricidade gerada a partir da energia eólica, aplica-se a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 7.º)
 
@@ -1213,4 +1318,6 @@ Até 31 de janeiro de 2013, o diretor-geral de Energia e Geologia emite, por des
 
 Teor energético dos combustíveis para transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15900/0001600043.pdf)
+
+113476662

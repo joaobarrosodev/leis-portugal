@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/76-1977-141400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T05:30:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0823cca22a3228243a8e6f6244844d247b5bc517870b8e98b4ee95c3d5ceccd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2d977c0e244c4f1e1e1b48551abe17b0b68e6e2bc488c783d63b0fbb3e8e2ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:30:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agência de Câmbio
+- Associação Nacional das Casas de Câmbio
+- Banco de Portugal
+- Instituição de Crédito
+- Integração de Trabalhadores
+- Reconversão de Empresas
+- Reconversão Profissional
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:678782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:256023:por
+  label: Alterado o presente diploma, com efeitos a 01.07.1976, no referente ao trabalhador João Jorge Matias da Costa constante
+    do quadro anexo, pelo(a) Portaria n.º 540/77 - Diário da República n.º 197/1977, Série I de 1977-08-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/540-1977-256023
+  date: '1977-08-26'
+- type: cites
+  target: pt:dre:409338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:30:25Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +133,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesour
 
 4. São colocados nas classes e instituições de crédito abaixo indicadas os seguintes trabalhadores, a quem fica assegurada a retribuição de base da classe respectiva, acrescida das diuturnidades vencidas até 30 de Junho de 1976, sendo o valor destas últimas o vigente ao tempo da integração, assim como o direito aos mesmos benefícios e regalias dos trabalhadores de idêntica classe com mais de um ano de serviço:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
 
 5. Sem prejuízo do disposto no número anterior, as férias a gozar em 1976 não dão direito ao respectivo subsídio.
 
@@ -119,7 +141,7 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesour
 
 7. São colocados na classe C e nas instituições de crédito abaixo indicadas os seguintes sócios trabalhadores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
 
 8. A retribuição mensal dos sócios trabalhadores será igual à retribuição de base da classe C.
 
@@ -137,11 +159,11 @@ Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesour
 
 a) Pensionistas a cargo da extinta Associação Nacional das Casas de Câmbios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
 
 b) Trabalhadores que tenham completado 65 ou mais anos de idade até à data da publicação do presente diploma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03900/02360240.pdf)
 
 15. Da aplicação do disposto nos n.os 12, 13 e 14 não poderão resultar pensões de reforma ou de sobrevivência de quantitativos inferiores aos mínimos estabelecidos para o sector bancário.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/5/2010/12/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2010-306474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T06:32:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 616964d0bdc694834bd624947951830f09e33276b3341021419f352591dc04bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c561838517108908f335050df1563b52c6519b2741e7e1dfa62b5f63f8d46265
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:32:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Director Adjunto
 - Direção
+- Director Adjunto
 - Diretor
-- Remuneração Acessória
+- Educação Pré-escolar
+- Ensino Básico
 - Estabelecimento de Ensino
 - Pessoal Docente
 - Prémio de Desempenho
-- Ensino Básico
 - Remuneração
-- Educação Pré-escolar
+- Remuneração Acessória
 - Subdiretor
 relationships:
 - type: cites
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/44/2010/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/44/2010/06/14/p/dre
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681639:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:32:49Z'
   warnings: []
   errors: []
 ---
@@ -156,24 +176,24 @@ O presente decreto regulamentar entra em vigor a 1 de Janeiro de 2011.
 
 Visto e aprovado em Conselhos de Ministros de 4 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel Girão de Melo Veiga Vilar.
 
-**Promulgado em 14 de Dezembro de 2010.**
+Promulgado em 14 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de Dezembro de 2010.**
+Referendado em 16 de Dezembro de 2010.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)
 
 ## ANEXO III — (a que se refere o n.º 4 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf))](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/12/24800/0592205924.pdf)

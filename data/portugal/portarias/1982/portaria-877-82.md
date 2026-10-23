@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/877-1982-375831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T07:27:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d462e8f6b6da848c181afbd2c6caed99be9e5386aca07a30975da377a421857
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a2bd736a948c19194f3f9b9682a92f8bc366631c8c557940f906b74ea94c273
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:27:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Actualização de Pensões
+- Função Pública
+- Pensões
 relationships:
 - type: amended_by
   target: pt:dre:658239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469224:por
+  label: Rectificada pela DECL.DD2682.1982.12.30.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469224
+  date: '1982-12-30'
+- type: corrected_by
+  target: pt:dre:311596:por
+  label: Rectificadas algumas tabelas de equivalências contidas no mapa I anexo ao presente diploma, pela PORT.490/83.28.04.1983.MFP,
+    DR.IS [97] de 28.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/490-1983-311596
+  date: '1983-04-28'
+- type: corrected_by
+  target: pt:dre:401371:por
+  label: Rectificada a tabela de equivalências contida no mapa II anexo ao presente diploma, pela PORT.907/84.13.12.1984.PCM,
+    DR.IS [287] de 13.12.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-1984-401371
+  date: '1984-12-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:27:08Z'
   warnings: []
   errors: []
 ---
@@ -125,16 +153,16 @@ Mapa I a que se refere o n.º 1.º da Portaria n.º 877/82
 
 Categorias comuns à Administração Central e Local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)
 
 Mapa II a que se refere o n.º 1.º da Portaria n.º 877/02
 
 Categorias específicas da Administração Local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)
 
 Mapa III a que se refere o n.º 1.º da Portaria n.º 877/82
 
 Professores primários, mestres e categorias diversas da área do ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf))](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/09/21600/29112923.pdf)

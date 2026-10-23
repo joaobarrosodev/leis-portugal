@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/06100/0003800062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/49/2025/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00f5f94bc757c39d4938fbdf7ab0b9fb149c4ffbc3911b16fdbb0e5b865d8cda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dcda6e98fa1374fb426e3aee0807031dd3a98e764e3e96f7b243d6e259365a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,21 +70,46 @@ subjects:
 - Código de Procedimento e de Processo Tributário
 - Código do Imposto do SELO
 - Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Código do Imposto Municipal sobre Imóveis
 - Código do IRC
 - Código do IRS
 - Código do IVA
 - Conservação de Documentos
+- Contribuições e Impostos
 - Estatuto dos Benefícios Fiscais
 - Factura
-- Código do Imposto Municipal sobre Imóveis
-- Contribuições e Impostos
+- IES
 - Lei Geral Tributária
 - Pagamento a Prestações
 - Poupança
 - Regime Complementar do Procedimento de Inspecção Tributária
-- IES
 - Tributação
 relationships:
+- type: amends
+  target: pt:numero:decreto-lei:287/2003
+  label: Altera, a partir de 1 de julho de 2025, o artigo 37.º do Código do Imposto Municipal sobre Imóveis (IMI) e o artigo
+    7.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis (IMT), ambos aprovados em anexo ao Decreto-Lei
+    n.º 287/2003, de 12 de novembro, Diário da República n.º 262/2003, Série I-A
+  source: null
+  date: '2003-11-12'
+- type: amends
+  target: pt:numero:decreto-lei:8/2007
+  label: Altera, a partir de 1 de julho de 2025, o artigo 2.º e revoga a alínea c) do n.º 2 do mesmo artigo 2.º do Decreto-Lei
+    n.º 8/2007, de 17 de janeiro, Diário da República n.º 12/2007, Série I
+  source: null
+  date: '2007-01-17'
+- type: amends
+  target: pt:numero:decreto-lei:28/2019
+  label: Adita, a partir de 1 de julho de 2025, o artigo 4.º-A ao Decreto-Lei n.º 28/2019, de 15 de fevereiro, Diário da República
+    n.º 33/2019, Série I
+  source: null
+  date: '2019-02-15'
+- type: amends
+  target: pt:numero:decreto-lei:125/2021
+  label: Altera, a partir de 1 de julho de 2025, os artigos 7.º, 10.º e 16.º-C do Decreto-Lei n.º 125/2021, de 30 de dezembro,
+    Diário da República n.º 252/2021, Série I
+  source: null
+  date: '2021-12-30'
 - type: cites
   target: celex:32003L0048
   label: null
@@ -129,20 +154,134 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+- type: cites
+  target: pt:dre:119622094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139348418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176800374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181066898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185390584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201414022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205050312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70485720:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-lei:62/2005
+  label: Revoga, a partir de 1 de julho de 2025, o Decreto-Lei n.º 62/2005, de 11 de março, Diário da República n.º 50/2005,
+    Série I-A
+  source: null
+  date: '2005-03-11'
+- type: repeals
+  target: pt:numero:portaria:563-A/2005
+  label: Revoga, a partir de 1 de julho de 2025, a Portaria n.º 563-A/2005, de 28 de junho, Diário da República n.º 122/2005,
+    1º Suplemento, Série I-B
+  source: null
+  date: '2005-06-28'
+- type: repeals
+  target: pt:numero:portaria:338/2015
+  label: Revoga, a partir de 1 de julho de 2025, a Portaria n.º 338/2015, de 8 de outubro, Diário da República n.º 197/2015,
+    Série I
+  source: null
+  date: '2015-10-08'
 - type: transposes
   target: celex:32003L0048
   label: null
   source: null
 article_structure:
-  article_count: 47
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:52:30Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +340,7 @@ k) Ao [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-
 
 l) Ao [Decreto-Lei n.º 28/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), de 15 de fevereiro, alterado pelo [Decreto-Lei n.º 48/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2020-139348418), de 3 de agosto, que procede à regulamentação das obrigações relativas ao processamento de faturas e outros documentos fiscalmente relevantes bem como das obrigações de conservação de livros, registos e respetivos documentos de suporte que recaem sobre os sujeitos passivos de IVA;
 
-m) Ao [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[28-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), de 25 de março, [42/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), de 29 de junho, e [85/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), de 21 de dezembro, que altera o regime de pagamento em prestações de tributos nas fases pré-executiva e executiva e aprova regimes excecionais de pagamento em prestações no ano de 2022.
+m) Ao [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro, alterado pelos Decretos-Leis n.os[28-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), de 25 de março, [42/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), de 29 de junho, e [85/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), de 21 de dezembro, que altera o regime de pagamento em prestações de tributos nas fases pré-executiva e executiva e aprova regimes excecionais de pagamento em prestações no ano de 2022.
 
 ###### Artigo 2.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Singulares
 
@@ -233,7 +372,9 @@ Os artigos 12.º, 22.º, 31.º, 58.º-A, 78.º, 78.º-B, 78.º-C, 78.º-D, 84.º
 
 11 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -255,7 +396,9 @@ Os artigos 12.º, 22.º, 31.º, 58.º-A, 78.º, 78.º-B, 78.º-C, 78.º-D, 84.º
 
 10 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -287,7 +430,7 @@ Os artigos 12.º, 22.º, 31.º, 58.º-A, 78.º, 78.º-B, 78.º-C, 78.º-D, 84.º
 
 15 - [...]
 
-a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulem despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, até ao final do mês de fevereiro do ano seguinte ao da sua emissão, sendo aplicável, com as necessárias adaptações, o disposto nos n.<sup>os</sup>2 a 6 e 8 do artigo 78.º-B;
+a) As faturas e outros documentos referidos nas alíneas c) e e) do n.º 13, que titulem despesas e encargos relacionados exclusiva ou parcialmente com a sua atividade empresarial ou profissional, através do Portal das Finanças, até ao final do mês de fevereiro do ano seguinte ao da sua emissão, sendo aplicável, com as necessárias adaptações, o disposto nos n.os2 a 6 e 8 do artigo 78.º-B;
 
 b) Os imóveis afetos exclusiva ou parcialmente à sua atividade empresarial ou profissional e, de entre estas, a afetação a atividades hoteleiras ou de alojamento local, através do Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita;
 
@@ -299,7 +442,9 @@ c) [...]
 
 18 - [...]
 
-###### Artigo 58.º-A — [...]
+Artigo 58.º-A
+
+[...]
 
 1 - [...]
 
@@ -323,7 +468,9 @@ c) [...]
 
 11 - [...]
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - [...]
 
@@ -353,7 +500,9 @@ c) [...]
 
 14 - [...]
 
-###### Artigo 78.º-B — [...]
+Artigo 78.º-B
+
+[...]
 
 1 - [...]
 
@@ -373,7 +522,9 @@ c) [...]
 
 9 - [...]
 
-###### Artigo 78.º-C — [...]
+Artigo 78.º-C
+
+[...]
 
 1 - [...]
 
@@ -391,7 +542,9 @@ c) [...]
 
 8 - [...]
 
-###### Artigo 78.º-D — [...]
+Artigo 78.º-D
+
+[...]
 
 1 - [...]
 
@@ -423,7 +576,9 @@ c) Para efeitos do disposto na alínea anterior, os sujeitos passivos devem, no 
 
 d) [...]
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
@@ -435,7 +590,9 @@ d) [...]
 
 5 - [...]
 
-###### Artigo 101.º-B — [...]
+Artigo 101.º-B
+
+[...]
 
 1 - [...]
 
@@ -457,7 +614,9 @@ e) [...]
 
 5 - [...]
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - Os titulares dos rendimentos da categoria B são obrigados:
 
@@ -477,7 +636,9 @@ a) [...]
 
 b) Entregar à Autoridade Tributária e Aduaneira uma declaração de modelo oficial que discrimine os rendimentos mencionados na alínea anterior até ao fim do mês de fevereiro de cada ano, por referência ao ano anterior.
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - [...]
 
@@ -521,11 +682,15 @@ d) [...]
 
 15 - [...]
 
-###### Artigo 124.º-A — [...]
+Artigo 124.º-A
+
+[...]
 
 As pessoas singulares ou coletivas, os organismos e outras entidades sem personalidade jurídica, que prestem serviços de custódia e administração de criptoativos por conta de terceiros ou tenham a gestão de uma ou mais plataformas de negociação de criptoativos, devem comunicar à Autoridade Tributária e Aduaneira, até ao final do mês de fevereiro de cada ano, relativamente a cada sujeito passivo, através de modelo oficial, as operações efetuadas com a sua intervenção, relativamente a criptoativos.
 
-###### Artigo 127.º — [...]
+Artigo 127.º
+
+[...]
 
 1 - As instituições de crédito, as cooperativas de habitação, as empresas de locação financeira, as empresas de seguros e as empresas gestoras dos fundos e de outros regimes complementares referidos nos artigos 16.º, 17.º e 21.º do Estatuto dos Benefícios Fiscais, incluindo as associações mutualistas e as instituições sem fins lucrativos que tenham por objeto a prestação de cuidados de saúde, e as demais entidades que possam comparticipar em despesas de saúde, comunicam à Autoridade Tributária e Aduaneira, até ao final do mês de fevereiro de cada ano, em declaração de modelo oficial, relativamente ao ano anterior e a cada sujeito passivo:
 
@@ -565,7 +730,9 @@ Os artigos 23.º, 31.º-B, 54.º-A e 97.º do Código do IRC passam a ter a segu
 
 7 - [...]
 
-###### Artigo 31.º-B — [...]
+Artigo 31.º-B
+
+[...]
 
 1 - [...]
 
@@ -593,7 +760,9 @@ b) A apresentação da exposição fundamentada a que se refere o n.º 2, desde 
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 54.º-A — [...]
+Artigo 54.º-A
+
+[...]
 
 1 - [...]
 
@@ -619,7 +788,9 @@ b) A apresentação da exposição fundamentada a que se refere o n.º 2, desde 
 
 12 - [...]
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - [...]
 
@@ -731,7 +902,9 @@ c) [...]
 
 21 - [...]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
@@ -739,7 +912,9 @@ c) [...]
 
 3 - Não há lugar à entrega da declaração referida no n.º 1 quando se trate de pessoas sujeitas a IVA pela prática de uma só operação tributável nos termos da alínea a) do n.º 1 do artigo 2.º
 
-###### Artigo 41.º — Prazo de entrega da declaração periódica
+Artigo 41.º
+
+Prazo de entrega da declaração periódica
 
 1 - [...]
 
@@ -761,7 +936,9 @@ c) [...]
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -773,9 +950,11 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 50.º — Registo das operações efetuadas por sujeitos passivos que não disponham de contabilidade organizada
+Artigo 50.º
 
-1 - Os sujeitos passivos que não possuam contabilidade organizada nos termos do Código do IRS ou do IRC procedem, para cumprimento das exigências constantes nos n.<sup>os</sup>1 dos artigos 45.º e 48.º, à classificação das faturas que titulam as respetivas operações, diretamente no Portal das Finanças, no prazo previsto no artigo 45.º, diferenciando:
+Registo das operações efetuadas por sujeitos passivos que não disponham de contabilidade organizada
+
+1 - Os sujeitos passivos que não possuam contabilidade organizada nos termos do Código do IRS ou do IRC procedem, para cumprimento das exigências constantes nos n.os1 dos artigos 45.º e 48.º, à classificação das faturas que titulam as respetivas operações, diretamente no Portal das Finanças, no prazo previsto no artigo 45.º, diferenciando:
 
 a) Nas operações ativas, as transmissões de bens e prestações de serviços, nos termos do n.º 3 do artigo 44.º;
 
@@ -795,7 +974,9 @@ e) (Revogada.)
 
 5 - (Revogado.)
 
-###### Artigo 52.º — Prazo de arquivo e conservação dos registos e documentos de suporte
+Artigo 52.º
+
+Prazo de arquivo e conservação dos registos e documentos de suporte
 
 1 - Os sujeitos passivos são obrigados a arquivar e conservar em boa ordem durante os 10 anos civis subsequentes todos os registos e respetivos documentos de suporte, incluindo, quando a contabilidade é estabelecida por meios informáticos, os relativos à análise, programação e execução dos tratamentos.
 
@@ -811,7 +992,9 @@ e) (Revogada.)
 
 7 - [...]
 
-###### Artigo 65.º — Registo das operações
+Artigo 65.º
+
+Registo das operações
 
 1 - Os retalhistas sujeitos ao regime especial de tributação previsto no artigo 60.º procedem à classificação das faturas que titulam as respetivas operações, diretamente no Portal das Finanças, até à confirmação da declaração a que se refere a alínea b) do n.º 1 do artigo 67.º, se enviada dentro do prazo legal, ou até ao fim desse prazo, se essa obrigação não tiver sido cumprida, diferenciando:
 
@@ -821,7 +1004,9 @@ b) Nas operações passivas, as despesas efetuadas no âmbito da atividade, desi
 
 2 - (Revogado.)
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - [...]
 
@@ -843,7 +1028,9 @@ c) (Revogada.)
 
 7 - (Revogado.)
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - [...]
 
@@ -871,7 +1058,9 @@ Os artigos 44.º e 45.º do Código do IS passam a ter a seguinte redação:
 
 6 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - [...]
 
@@ -883,7 +1072,7 @@ Os artigos 44.º e 45.º do Código do IS passam a ter a seguinte redação:
 
 5 - [...]
 
-6 - Da notificação referida nos n.<sup>os</sup>1 a 3, constam duas opções de pagamento:
+6 - Da notificação referida nos n.os1 a 3, constam duas opções de pagamento:
 
 a) O pronto pagamento com o desconto, nos termos do n.º 2;
 
@@ -913,7 +1102,7 @@ O artigo 37.º do Código do IMI passa a ter a seguinte redação:
 
 5 - [...]
 
-6 - Quando os elementos referidos nos n.<sup>os</sup>2 e 3 sejam enviados à Autoridade Tributária e Aduaneira pela câmara municipal, o sujeito passivo fica dispensado de proceder à sua entrega.»
+6 - Quando os elementos referidos nos n.os2 e 3 sejam enviados à Autoridade Tributária e Aduaneira pela câmara municipal, o sujeito passivo fica dispensado de proceder à sua entrega.»
 
 ###### Artigo 7.º — Alteração ao Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis
 
@@ -963,7 +1152,7 @@ O artigo 41.º-B do EBF passa a ter a seguinte redação:
 
 12 - [...]
 
-13 - Para efeitos do disposto nos n.<sup>os</sup>11 e 12, os sujeitos passivos devem indicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita:
+13 - Para efeitos do disposto nos n.os11 e 12, os sujeitos passivos devem indicar no Portal das Finanças, até ao final do mês de fevereiro do ano seguinte àquele a que o imposto respeita:
 
 a) Os membros do agregado familiar que frequentam estabelecimentos de ensino situados em território do interior ou das regiões autónomas e o valor total das respetivas despesas suportadas;
 
@@ -1077,7 +1266,9 @@ e) Seja requerida a regularização da situação tributária pela entidade insp
 
 7 - [...]
 
-###### Artigo 58.º-A — Regularização da situação tributária
+Artigo 58.º-A
+
+Regularização da situação tributária
 
 1 - Na sequência da apresentação do requerimento previsto no n.º 2 do artigo anterior, a administração tributária disponibiliza à entidade inspecionada, no prazo de 10 dias, na área reservada da Inspeção Tributária e Aduaneira no Portal das Finanças, proposta de documento com os termos da regularização pretendida, designadamente quais as obrigações declarativas a cumprir para o efeito pela entidade inspecionada, com detalhe do respetivo teor.
 
@@ -1101,7 +1292,9 @@ b) Requerer a realização de uma reunião entre a entidade inspecionada, ou man
 
 9 - (Anterior n.º 7.)
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...]
 
@@ -1175,7 +1368,7 @@ c) (Revogada.)
 
 ###### Artigo 13.º — Alteração ao [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro
 
-Os artigos 7.º, 10.º e 16.º-C do [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro, alterado pelos Decretos-Leis n.<sup>os</sup>[28-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), de 25 de março, [42/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), de 29 de junho, e [85/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), de 21 de dezembro, passam a ter a seguinte redação:
+Os artigos 7.º, 10.º e 16.º-C do [Decreto-Lei n.º 125/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), de 30 de dezembro, alterado pelos Decretos-Leis n.os[28-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), de 25 de março, [42/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), de 29 de junho, e [85/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), de 21 de dezembro, passam a ter a seguinte redação:
 
 «Artigo 7.º
 
@@ -1189,13 +1382,17 @@ Os artigos 7.º, 10.º e 16.º-C do [Decreto-Lei n.º 125/2021](https://diarioda
 
 4 - Em caso de indeferimento do pedido, é o devedor notificado e extraída certidão de dívida pelos serviços competentes.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
 2 - A criação do plano é notificada ao devedor e os documentos de pagamento de cada prestação são obtidos nos termos do n.º 1 do artigo 8.º
 
-###### Artigo 16.º-C — [...]
+Artigo 16.º-C
+
+[...]
 
 1 - [...]
 
@@ -1265,11 +1462,11 @@ São revogados:
 
 a) O artigo 136.º do Código do IRC;
 
-b) A alínea e) do n.º 1, a alínea d) do n.º 3 e o n.º 10 do artigo 29.º, as alíneas d) e e) do n.º 1 e os n.<sup>os</sup>3, 4 e 5 do artigo 50.º, o n.º 2 do artigo 65.º e a alínea c) do n.º 1, n.<sup>os</sup>6 e 7 do artigo 67.º do Código do IVA;
+b) A alínea e) do n.º 1, a alínea d) do n.º 3 e o n.º 10 do artigo 29.º, as alíneas d) e e) do n.º 1 e os n.os3, 4 e 5 do artigo 50.º, o n.º 2 do artigo 65.º e a alínea c) do n.º 1, n.os6 e 7 do artigo 67.º do Código do IVA;
 
 c) Os artigos 52.º e 56.º do Código do IS;
 
-d) O [Decreto-Lei n.º 62/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2005-575550), de 11 de março, alterado pelas Leis n.<sup>os</sup>[39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), de 29 de julho, e [37/2010](https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257), de 2 de setembro, que transpõe para a ordem jurídica interna a [Diretiva n.º 2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), do Conselho, de 3 de junho, relativa à tributação dos rendimentos da poupança sob a forma de juros;
+d) O [Decreto-Lei n.º 62/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2005-575550), de 11 de março, alterado pelas Leis n.os[39-A/2005](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), de 29 de julho, e [37/2010](https://diariodarepublica.pt/dr/detalhe/lei/37-2010-344257), de 2 de setembro, que transpõe para a ordem jurídica interna a [Diretiva n.º 2003/48/CE](https://data.europa.eu/eli/dir/2003/48/oj?locale=pt), do Conselho, de 3 de junho, relativa à tributação dos rendimentos da poupança sob a forma de juros;
 
 e) A alínea c) do n.º 2 do artigo 2.º do [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de janeiro, na sua redação atual, que cria a Informação Empresarial Simplificada (IES);
 
@@ -1285,12 +1482,14 @@ g) A [Portaria n.º 563-A/2005](https://diariodarepublica.pt/dr/detalhe/portaria
 
 Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento.
 
-**Promulgado em 21 de março de 2025.**
+Promulgado em 21 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 21 de março de 2025.**
+Referendado em 21 de março de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
+
+118862628

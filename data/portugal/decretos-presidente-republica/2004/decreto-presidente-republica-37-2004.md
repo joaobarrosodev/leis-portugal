@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/37/2004/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/37-2004-505638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T04:47:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24dd8ba5f5e2a4e6f69fa70b5f2997d64bc4193facdc27e172476db26b04c8a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a9ac2618ac97ef49eec283a360ab633bc4125521095223575081d2947a1e785
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,29 +69,33 @@ reuse:
 subjects:
 - Ajuda Judicial
 - Autoridade Central
-- Convenção
-- Cooperação Jurídica
-- Portugal
 - China
-- Região Administrativa Especial de Hong Kong
+- Convenção
 - Cooperação Judiciária
+- Cooperação Jurídica
 - Direito Penal
+- Portugal
 - Procuradoria Geral da República
+- Região Administrativa Especial de Hong Kong
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/54/2004/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/54/2004/07/21/p/dre
+- type: cites
+  target: pt:dre:505642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:47:49Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ validation:
 
 de 21 de Julho
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificado o Acordo entre o Governo da República Portuguesa e o Governo da Região Administrativa Especial de Hong Kong, da República Popular da China, Relativo ao Auxílio Judiciário Mútuo em Matéria Penal, assinado em Hong Kong em 24 de Maio de 2001, aprovado pela [Resolução da Assembleia da República n.º 54/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/54-2004-505642), em 27 de Maio de 2004.
 
-**Assinado em 6 de Julho de 2004.**
+Assinado em 6 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 8 de Julho de 2004.**
+Referendado em 8 de Julho de 2004.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

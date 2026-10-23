@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/09/202b00/50615065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregul/21/1994/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-1994-654528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T06:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4089be2281b1911aa608bb88bf717017f7767c11770aaa247e50b87f14814db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16ca8ce4a370b82b90b3c4c24520e5fe29a962493485f0ce8454a0a896019c41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,50 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Marinha
 - Estado Maior da Armada
 - Extinção de Serviços
 - Gabinete de Heráldica Naval
+- Marinha
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:69920322:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO D RECTIFICAÇÃO 255/94, DA PCM, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL.\0\
+    \ 4SUPL."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/49/1993/02/26/p/dre
+- type: cites
+  target: pt:dre:657439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69920322:por
+  label: Revogado (a partir de 01.08.2015) pelo(a) Decreto Regulamentar n.º 10/2015 - Diário da República n.º 148/2015, Série
+    I de 2015-07-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/10-2015-69920322
+  date: '2015-07-31'
 article_structure:
   article_count: 23
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:21:37Z'
   warnings: []
   errors: []
 ---
@@ -226,7 +246,9 @@ d) Orientar e controlar o funcionamento dos serviços de apoio do EMA.
 
 4 - O SCEMA é coadjuvado por um oficial adjunto, exercendo as funções que por aquele lhe forem delegadas, nomeadamente para efeitos do disposto na alínea d) do n.º 1.
 
-###### Artigo 8.º — Divisão de Pessoal e Organização
+###### Artigo 8.º
+
+##### Divisão de Pessoal e Organização
 
 1 - Compete à Divisão de Pessoal e Organização elaborar estudos, planos, informações, pareceres ou propostas no âmbito da obtenção, formação e conservação dos recursos humanos e do desenvolvimento organizacional e, em especial, sobre:
 
@@ -264,7 +286,9 @@ g) Assegurar a divulgação das leis e regulamentos relativos ao funcionamento d
 
 h) Coordenar as tarefas relacionadas com a publicação das Ordens da Armada.
 
-###### Artigo 9.º — Divisão de Informações
+###### Artigo 9.º
+
+##### Divisão de Informações
 
 1 - Compete à Divisão de Informações elaborar estudos, planos, informações, pareceres ou propostas no âmbito da informação militar e da segurança militar, bem como do protocolo e do cerimonial, e, em especial, sobre:
 
@@ -296,7 +320,9 @@ h) Assegurar o planeamento e a coordenação das cerimónias militares a realiza
 
 3 - A Divisão de Informações mantém a ligação técnica às divisões de informações do Estado-Maior-General das Forças Armadas e dos Estados-Maiores do Exército e da Força Aérea, no âmbito do Serviço de Informações Militares.
 
-###### Artigo 10.º — Divisão de Operações
+###### Artigo 10.º
+
+##### Divisão de Operações
 
 1 - Compete à Divisão de Operações elaborar estudos, planos, informações, pareceres ou propostas no âmbito da utilização operacional dos meios e, em especial, sobre:
 
@@ -326,7 +352,9 @@ c) Acompanhar, em colaboração com o Instituto Hidrográfico, os assuntos relat
 
 d) Preparar e executar as tarefas de inspecção que lhe forem designadas.
 
-###### Artigo 11.º — Divisão de Logística do Material
+###### Artigo 11.º
+
+##### Divisão de Logística do Material
 
 1 - Compete à Divisão de Logística do Material elaborar estudos, planos, informações, pareceres ou propostas no âmbito da determinação das necessidades de meios e serviços e, em especial, sobre:
 
@@ -346,7 +374,9 @@ b) Preparar e executar as tarefas de inspecção que lhe forem designadas;
 
 c) Estudar e dar parecer, no seu âmbito, sobre doutrina militar conjunta.
 
-###### Artigo 12.º — Divisão de Planeamento
+###### Artigo 12.º
+
+##### Divisão de Planeamento
 
 1 - Compete à Divisão de Planeamento elaborar estudos, planos, informações, pareceres ou propostas no âmbito de um sistema de planeamento integrado de actividades e, em especial, sobre:
 
@@ -368,7 +398,9 @@ b) Apoiar a coordenação e acompanhar a execução das actividades de inspecç�
 
 c) Apoiar a realização de exposições e conferências sobre assuntos de âmbito estratégico ou de natureza multidisciplinar.
 
-###### Artigo 13.º — Divisão de Comunicações
+###### Artigo 13.º
+
+##### Divisão de Comunicações
 
 1 - Compete à Divisão de Comunicações elaborar estudos, planos, informações, pareceres ou propostas no âmbito da utilização das comunicações, sistemas de informação de natureza operacional e guerra electrónica e, em especial, sobre:
 
@@ -510,12 +542,12 @@ Presidência do Conselho de Ministros, 4 de Abril de 1994.
 
 Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
 
-**Promulgado em 5 de Agosto de 1994.**
+Promulgado em 5 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Agosto de 1994.**
+Referendado em 12 de Agosto de 1994.
 
 Pelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.

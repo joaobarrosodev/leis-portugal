@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/35/1995/02/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1995-198139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T01:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73b58b2b1581cf373806aa92c7f9b8e72ed91d34ca0a7bfe58fed33b70b369af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f99eab4fc2479e5cd0fa6dd9d41886d37fb1d5b1a5b4e6f91a9566112fe2045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Energia não Poluente
-- Política Energética
 - Apoio ao Investimento
-- QCA
+- Energia não Poluente
 - Ministro da Indústria e Energia
+- Política Energética
 - Poupança de Energia
 - Programa Energia
+- QCA
 - Regime de Apoio
 - Sistema de Incentivos a Utilização Racional de Energia
 - Subsídio
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/68/1994/08/11/p/dre
+- type: cites
+  target: pt:dre:222627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374242:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:41:41Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +140,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º a 11.º e 15.º a 17.º do [Decreto-Lei n.º 188/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1988-374240), de 27 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º a 11.º e 15.º a 17.º do [Decreto-Lei n.º 188/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1988-374240), de 27 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -262,7 +278,7 @@ b) Subsídios reembolsáveis.
 
 Cada um dos domínios de intervenção previstos no artigo 1.º será objecto de regulamentação autónoma de harmonia com as orientações estabelecidas para o efeito na [Resolução do Conselho de Ministros n.º 68/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/68-1994-222627), de 11 de Agosto, mediante despacho do Ministro da Indústria e Energia.
 
-###### Art. 2.º - 1 - O presente diploma produz efeitos na data da entrada em vigor dos despachos previstos no artigo 17.º, com a redacção constante do artigo 1.º
+Art. 2.º - 1 - O presente diploma produz efeitos na data da entrada em vigor dos despachos previstos no artigo 17.º, com a redacção constante do artigo 1.º
 
 2 - Os processos em curso à data mencionada no número anterior cujas candidaturas tenham sido apresentadas posteriormente a 1 de Janeiro de 1994 poderão transitar para o âmbito da regulamentação agora aprovada caso cumpram as respectivas condições de acesso e de elegibilidade, através de solicitação do promotor e mediante proposta do organismo gestor homologada pelo Ministro da Indústria e Energia.
 
@@ -270,12 +286,12 @@ Cada um dos domínios de intervenção previstos no artigo 1.º será objecto de
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1994. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral.
 
-**Promulgado em 24 de Janeiro de 1995.**
+Promulgado em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Janeiro de 1995.**
+Referendado em 26 de Janeiro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1985-180611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T06:11:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbd63d94f2fa3ff6fd8496abb0980da5ea012e51b246087b5cef060b203e1d22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 681c3f58aad21006335456560eda9072b6741ae3c65c570da1ca8a7f642f211a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:11:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colocação de Professores
+- Ensino Preparatório
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:11:45Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +112,15 @@ Regulamentando o disposto no [Decreto-Lei n.º 75/85](https://diariodarepublica.
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As delegações regionais da Direcção-Geral de Pessoal abrirão anualmente concurso de professores provisórios para preenchimento, em 2.ª fase, dos horários a que se refere o n.º 1 do artigo 8.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967).
+Artigo 1.º As delegações regionais da Direcção-Geral de Pessoal abrirão anualmente concurso de professores provisórios para preenchimento, em 2.ª fase, dos horários a que se refere o n.º 1 do artigo 8.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967).
 
-###### Art. 2.º Os horários disponíveis para a 2.ª fase do concurso serão preenchidos por candidatos que se encontrem nas condições do n.º 1 do artigo 9.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de acordo com as regras definidas neste decreto regulamentar.
+Art. 2.º Os horários disponíveis para a 2.ª fase do concurso serão preenchidos por candidatos que se encontrem nas condições do n.º 1 do artigo 9.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de acordo com as regras definidas neste decreto regulamentar.
 
 I
 
 Da deslocação de professores para os quais a escola em que estão colocados não tem serviço docente para lhes distribuir
 
-###### Art. 3.º - 1 - Quando numa escola se verificar que, num determinado ano escolar, não existe serviço docente para um ou mais dos professores colocados num determinado grupo, subgrupo, disciplina ou especialidade, poderão os docentes colocados nesse grupo, subgrupo, disciplina ou especialidade candidatar-se a ser deslocados para outro estabelecimento de ensino, durante esse ano escolar, para o preenchimento de um horário de 10 ou mais horas semanais de serviço lectivo desse grupo, subgrupo, disciplina ou especialidade.
+Art. 3.º - 1 - Quando numa escola se verificar que, num determinado ano escolar, não existe serviço docente para um ou mais dos professores colocados num determinado grupo, subgrupo, disciplina ou especialidade, poderão os docentes colocados nesse grupo, subgrupo, disciplina ou especialidade candidatar-se a ser deslocados para outro estabelecimento de ensino, durante esse ano escolar, para o preenchimento de um horário de 10 ou mais horas semanais de serviço lectivo desse grupo, subgrupo, disciplina ou especialidade.
 
 2 - Do pedido de deslocação referido no número anterior, que será formalizado em impresso próprio (modelo n.º 1), a fornecer pela Direcção-Geral de Pessoal a todos os estabelecimentos de ensino, constarão, por ordem decrescente de preferência, as escolas de um único distrito do continente em que o docente pretende prestar serviço.
 
@@ -117,35 +132,35 @@ b) Professores provisórios portadores de habilitação própria, de acordo com 
 
 c) Professores provisórios portadores de habilitação suficiente, de acordo com a sua graduação na docência determinada nos termos do artigo 18.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967).
 
-###### Art. 4.º Quando depois de esgotado o mecanismo de colocações a que se refere o artigo anterior se verificar ainda a existência de docentes sem horário lectivo, os mesmos poderão ser deslocados nos termos do disposto no artigo 27.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, de acordo com a ordem inversa das prioridades estabelecidas no n.º 3 do artigo 3.º do presente diploma.
+Art. 4.º Quando depois de esgotado o mecanismo de colocações a que se refere o artigo anterior se verificar ainda a existência de docentes sem horário lectivo, os mesmos poderão ser deslocados nos termos do disposto no artigo 27.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, de acordo com a ordem inversa das prioridades estabelecidas no n.º 3 do artigo 3.º do presente diploma.
 
 II
 
 Da atribuição de serviço na 2.ª fase a professores provisórios que se encontram nas condições do artigo 5.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967)
 
-###### Art. 5.º Aos professores profissionalizados não efectivos e aos provisórios dos ensinos preparatório ou secundário que tenham concorrido à 1.ª fase deste concurso na situação de vinculados a que se refere o artigo 4.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967) e não obtiveram colocação será aplicado o disposto no n.º 1 do artigo 5.º daquele decreto-lei.
+Art. 5.º Aos professores profissionalizados não efectivos e aos provisórios dos ensinos preparatório ou secundário que tenham concorrido à 1.ª fase deste concurso na situação de vinculados a que se refere o artigo 4.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967) e não obtiveram colocação será aplicado o disposto no n.º 1 do artigo 5.º daquele decreto-lei.
 
-###### Art. 6.º Aos professores referidos no artigo anterior, se profissionalizados ou titulares da competente habilitação própria ou suficiente,, será atribuído serviço na escola e no grupo, subgrupo, disciplina ou especialidade para que têm direito a celebrar contrato, em horário de 11 ou mais horas semanais de serviço docente, em função da ordem decrescente da sua graduação na docência.
+Art. 6.º Aos professores referidos no artigo anterior, se profissionalizados ou titulares da competente habilitação própria ou suficiente,, será atribuído serviço na escola e no grupo, subgrupo, disciplina ou especialidade para que têm direito a celebrar contrato, em horário de 11 ou mais horas semanais de serviço docente, em função da ordem decrescente da sua graduação na docência.
 
-###### Art. 7.º Se por falta de serviço docente não for possível dar cumprimento ao determinado no artigo anterior, permanecerão aqueles docentes no estabelecimento de ensino em que celebraram contrato, podendo a Direcção-Geral de Pessoal, depois de cumprido o disposto no artigo 3.º deste diploma, proceder à deslocação, para leccionar, durante esse ano escolar, em qualquer escola da zona, ou zonas, a que concorreram na 1.ª fase do concurso, no grupo, subgrupo, disciplina ou especialidade em que estão contratados.
+Art. 7.º Se por falta de serviço docente não for possível dar cumprimento ao determinado no artigo anterior, permanecerão aqueles docentes no estabelecimento de ensino em que celebraram contrato, podendo a Direcção-Geral de Pessoal, depois de cumprido o disposto no artigo 3.º deste diploma, proceder à deslocação, para leccionar, durante esse ano escolar, em qualquer escola da zona, ou zonas, a que concorreram na 1.ª fase do concurso, no grupo, subgrupo, disciplina ou especialidade em que estão contratados.
 
-###### Art. 8.º Para efeitos do cumprimento do estabelecido no artigo anterior, os respectivos docentes poderão indicar em impressos próprios (modelo n.º 1), um por distrito, fornecidos pela Direcção-Geral de Pessoal, escolas dos distritos do continente onde pretendem prestar serviço.
+Art. 8.º Para efeitos do cumprimento do estabelecido no artigo anterior, os respectivos docentes poderão indicar em impressos próprios (modelo n.º 1), um por distrito, fornecidos pela Direcção-Geral de Pessoal, escolas dos distritos do continente onde pretendem prestar serviço.
 
-###### Art. 9.º - 1 - As delegações da Direcção-Geral de Pessoal atribuirão serviço aos docentes mencionados no artigo 7.º deste decreto regulamentar procurando conciliar os interesses da Administração com as preferências manifestadas pelos interessados, de acordo com a ordem em que, no impresso próprio, indicaram as respectivas escolas.
+Art. 9.º - 1 - As delegações da Direcção-Geral de Pessoal atribuirão serviço aos docentes mencionados no artigo 7.º deste decreto regulamentar procurando conciliar os interesses da Administração com as preferências manifestadas pelos interessados, de acordo com a ordem em que, no impresso próprio, indicaram as respectivas escolas.
 
 2 - Caso não seja possível a colocação no distrito a que se refere o artigo 8.º, poderá o respectivo delegado da Direcção-Geral de Pessoal contactar outras delegações da zona ou zonas a que os docentes concorreram na 1.ª fase do concurso com vista a uma possível deslocação para um desses distritos.
 
-###### Art. 10.º Aos professores deslocados nos termos dos artigos anteriores é aplicável o disposto no artigo 26.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
+Art. 10.º Aos professores deslocados nos termos dos artigos anteriores é aplicável o disposto no artigo 26.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
-###### Art. 11.º Os concelhos directivos, ou quem as suas vezes fizer, deverão, quando for caso disso, completar, logo que possível, os horários dos docentes referidos nos artigos 3.º, 4.º, 7.º e 9.º deste diploma.
+Art. 11.º Os concelhos directivos, ou quem as suas vezes fizer, deverão, quando for caso disso, completar, logo que possível, os horários dos docentes referidos nos artigos 3.º, 4.º, 7.º e 9.º deste diploma.
 
-###### Art. 12.º Não é permitida a prestação de serviço docente extraordinário nos respectivos grupos, subgrupos, disciplinas ou especialidades enquanto não for dado cumprimento ao disposto no artigo anterior, salvo em casos devidamente justificados.
+Art. 12.º Não é permitida a prestação de serviço docente extraordinário nos respectivos grupos, subgrupos, disciplinas ou especialidades enquanto não for dado cumprimento ao disposto no artigo anterior, salvo em casos devidamente justificados.
 
 III
 
 Do preenchimento dos horários ainda existentes no segundo dia útil do mês de Outubro, após a execução do disposto nos artigos 3.º, 7.º e 10.º deste diploma
 
-###### Art. 13.º Os horários completos ou incompletos ainda existentes no segundo dia útil do mês de Outubro, depois de feitas as deslocações referidas nos artigos anteriores, serão atribuídos a candidatos ainda não colocados, de acordo com as seguintes prioridades:
+Art. 13.º Os horários completos ou incompletos ainda existentes no segundo dia útil do mês de Outubro, depois de feitas as deslocações referidas nos artigos anteriores, serão atribuídos a candidatos ainda não colocados, de acordo com as seguintes prioridades:
 
 a) Professores profissionalizados não efectivos que desejem ser colocados num grupo, subgrupo, disciplina ou especialidade a que corresponda a sua habilitação profissional;
 
@@ -165,7 +180,7 @@ IV
 
 Da abertura de concurso
 
-###### Art. 14.º - A abertura do concurso para a 2.ª fase de colocações de professores provisórios será determinada pelo director-geral de Pessoal, mediante aviso a publicar no Diário da República.
+Art. 14.º - A abertura do concurso para a 2.ª fase de colocações de professores provisórios será determinada pelo director-geral de Pessoal, mediante aviso a publicar no Diário da República.
 
 2 - No primeiro dia do prazo do concurso serão afixados, em cada delegação regional, os horários postos a concurso, bem como a indicação dos locais de apresentação das candidaturas.
 
@@ -173,7 +188,7 @@ V
 
 Da apresentação a concurso
 
-###### Art. 15.º - 1 - A apresentação a concurso far-se-á mediante o preenchimento de um boletim e uma ficha de modelo a aprovar por despacho ministerial.
+Art. 15.º - 1 - A apresentação a concurso far-se-á mediante o preenchimento de um boletim e uma ficha de modelo a aprovar por despacho ministerial.
 
 2 - Os impressos referidos no número anterior, devidamente preenchidos pelos candidatos, serão entregues em mão nos locais de apresentação de candidaturas, acompanhados de certificado de habilitações académicas e certidão de tempo de serviço.
 
@@ -185,19 +200,19 @@ VI
 
 Da disciplina do concurso
 
-###### Art. 16.º - 1 - Os opositores à 2.ª fase do concurso de professores provisórios só poderão candidatar-se a horários de estabelecimentos de ensino de um único distrito do continente, no máximo a dois grupos, subgrupos, disciplinas ou especialidades.
+Art. 16.º - 1 - Os opositores à 2.ª fase do concurso de professores provisórios só poderão candidatar-se a horários de estabelecimentos de ensino de um único distrito do continente, no máximo a dois grupos, subgrupos, disciplinas ou especialidades.
 
 2 - Os candidatos que sejam professores profissionalizados só poderão concorrer a grupo, subgrupo, disciplina ou especialidade correspondente à respectiva profissionalização.
 
-###### Art. 17.º Dentro de cada uma das alíneas do artigo 13.º deste decreto regulamentar a ordenação dos candidatos efectuar-se-á de acordo com o estabelecido no capítulo IV do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de, 25 de Março, respeitando-se, para efeitos de colocação, a ordem segundo a qual forem indicados os horários no boletim de concurso.
+Art. 17.º Dentro de cada uma das alíneas do artigo 13.º deste decreto regulamentar a ordenação dos candidatos efectuar-se-á de acordo com o estabelecido no capítulo IV do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de, 25 de Março, respeitando-se, para efeitos de colocação, a ordem segundo a qual forem indicados os horários no boletim de concurso.
 
-###### Art. 18.º - 1 - Os conselhos directivos, ou quem as suas vezes fizer, entregarão em mão, na respectiva delegação da Direcção-Geral de Pessoal, em triplicado, o mapa de requisição de professores (modelo n.º 2) na data referida no artigo 13.º deste diploma.
+Art. 18.º - 1 - Os conselhos directivos, ou quem as suas vezes fizer, entregarão em mão, na respectiva delegação da Direcção-Geral de Pessoal, em triplicado, o mapa de requisição de professores (modelo n.º 2) na data referida no artigo 13.º deste diploma.
 
 2 - juntamente com o mapa referido no número anterior, os conselhos directivos, ou quem as suas vezes fizer, entregarão também relação dos professores referidos nos artigos 3.º e 5.º deste diploma (modelo n.º 3), bem como os correspondentes pedidos de deslocação.
 
-###### Art. 19.º Nos dois dias imediatos ao indicado no artigo 13.º os delegados regionais da Direcção-Geral de Pessoal farão a codificação dos horários requisitados, procedendo à sua afixação imediata.
+Art. 19.º Nos dois dias imediatos ao indicado no artigo 13.º os delegados regionais da Direcção-Geral de Pessoal farão a codificação dos horários requisitados, procedendo à sua afixação imediata.
 
-###### Art. 20.º - 1 - Os delegados regionais da Direcção-Geral de Pessoal afixarão as listas de graduação dos candidatos, às quais anexarão os seguintes elementos:
+Art. 20.º - 1 - Os delegados regionais da Direcção-Geral de Pessoal afixarão as listas de graduação dos candidatos, às quais anexarão os seguintes elementos:
 
 a) Prazo de interposição de reclamações ou de apresentação de desistência do concurso;
 
@@ -205,17 +220,17 @@ b) Data provável de afixação das listas de colocações.
 
 2 - Em cada grupo, subgrupo, disciplina ou especialidade as listas de graduação dos candidatos aos horários referidos no artigo 13.º deste decreto regulamentar irão sendo afixadas à medida das necessidades de cada distrito.
 
-###### Art. 21.º A afixação das listas de colocação relativas ao preenchimento dos horários referidos no artigo 13.º deste decreto regulamentar constituirá o único meio oficial de comunicação aos candidatos.
+Art. 21.º A afixação das listas de colocação relativas ao preenchimento dos horários referidos no artigo 13.º deste decreto regulamentar constituirá o único meio oficial de comunicação aos candidatos.
 
-###### Art. 22.º - 1 - A apresentação nos estabelecimentos de ensino far-se-á no prazo de 3 dias, contado a partir do dia seguinte ao da afixação das listas de colocação para os candidatos colocados em horários referidos no artigo 13.º deste diploma.
+Art. 22.º - 1 - A apresentação nos estabelecimentos de ensino far-se-á no prazo de 3 dias, contado a partir do dia seguinte ao da afixação das listas de colocação para os candidatos colocados em horários referidos no artigo 13.º deste diploma.
 
 2 - Findo o prazo referido no número anterior, deverão os conselhos directivos, ou quem as suas vezes fizer, comunicar às respectivas delegações regionais da Direcção-Geral de Pessoal, em impresso próprio, a fornecer pela Direcção-Geral de Pessoal, os horários que ficaram vagos por se não terem apresentado os candidatos colocados ou que surgiram após a data referida no artigo 13.º deste decreto regulamentar.
 
-###### Art. 23.º Aos candidatos que não façam a sua apresentação no prazo indicado no n.º 1 do artigo 22.º é aplicável o disposto no n.º 6 do artigo 35.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
+Art. 23.º Aos candidatos que não façam a sua apresentação no prazo indicado no n.º 1 do artigo 22.º é aplicável o disposto no n.º 6 do artigo 35.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
-###### Art. 24.º Os conselhos directivos, ou quem as suas vezes fizer, deverão deslocar-se à respectiva delegação regional da Direcção-Geral de Pessoal no dia da publicação das listas de colocações relativas aos horários referidos no artigo 13.º deste decreto regulamentar, onde receberão a notificação dos professores colocados no seu estabelecimento de ensino.
+Art. 24.º Os conselhos directivos, ou quem as suas vezes fizer, deverão deslocar-se à respectiva delegação regional da Direcção-Geral de Pessoal no dia da publicação das listas de colocações relativas aos horários referidos no artigo 13.º deste decreto regulamentar, onde receberão a notificação dos professores colocados no seu estabelecimento de ensino.
 
-###### Art. 25.º São motivos de exclusão, independentemente de outros procedimentos previstos na lei:
+Art. 25.º São motivos de exclusão, independentemente de outros procedimentos previstos na lei:
 
 a) A apresentação do boletim irregularmente preenchido;
 
@@ -225,7 +240,7 @@ VII
 
 Do preenchimento dos horários supervenientes às requisições referidas no n.º 1 do artigo 12.º, bem como dos considerados disponíveis por não aceitação de colocação ou por impedimento temporário dos respectivos titulares.
 
-###### Art. 26.º - 1 - Os horários supervenientes às requisições referidas no n.º 1 do artigo 18.º, bem como os considerados disponíveis por não aceitação de colocação ou por impedimento temporário dos respectivos titulares, serão preenchidos de acordo com os seguintes critérios de prioridades:
+Art. 26.º - 1 - Os horários supervenientes às requisições referidas no n.º 1 do artigo 18.º, bem como os considerados disponíveis por não aceitação de colocação ou por impedimento temporário dos respectivos titulares, serão preenchidos de acordo com os seguintes critérios de prioridades:
 
 a) Completamento, quando possível, de horários de docentes portadores de habilitação própria ou suficiente para o correspondente grupo, subgrupo, disciplina ou especialidade;
 
@@ -237,38 +252,38 @@ d) Atribuição de horas extraordinárias a docentes do estabelecimento de ensin
 
 2 - Aos docentes colocados na sequência do disposto no artigo 16.º apenas poderá ser aplicado o disposto na alínea a) do número anterior mediante a sua prévia concordância.
 
-###### Art. 27.º - 1 - O completamento a que se refere a alínea a), bem como o serviço extraordinário previsto na alínea d) do artigo anterior, é da competência dos conselhos directivos ou de quem as suas vezes fizer.
+Art. 27.º - 1 - O completamento a que se refere a alínea a), bem como o serviço extraordinário previsto na alínea d) do artigo anterior, é da competência dos conselhos directivos ou de quem as suas vezes fizer.
 
 2 - A atribuição de horários aos professores a que se refere a alínea b) do artigo anterior far-se-á a pedido dos conselhos directivos, ou de quem as suas vezes fizer, endereçado aos delegados regionais da Direcção-Geral de Pessoal.
 
 3 - As colocações feitas ao abrigo da alínea c) do artigo anterior serão feitas com base em listas de graduação de candidatos à 2.ª fase que se encontrem por colocar e que no respectivo boletim de concurso tenham concorrido a escolas onde vierem a verificar-se horários disponíveis.
 
-###### Art. 28.º As colocações a que se refere o artigo 26.º deste diploma só se efectuarão em horários que surgirem até 31 de Maio de cada ano, salvo se, por indicação devidamente justificada do respectivo conselho directivo, ou de quem as suas vezes, fizer, houver necessidade de se proceder a colocações para além daquela data.
+Art. 28.º As colocações a que se refere o artigo 26.º deste diploma só se efectuarão em horários que surgirem até 31 de Maio de cada ano, salvo se, por indicação devidamente justificada do respectivo conselho directivo, ou de quem as suas vezes, fizer, houver necessidade de se proceder a colocações para além daquela data.
 
-###### Art. 29.º - 1 - Os candidatos colocados em horários a que se refere a alínea c) do artigo 26.º deste diploma que não aceitem a colocação ou não se apresentem no prazo de 3 dias, contado a partir da data em que foram notificados, não estão sujeitos à penalização referida no n.º 6 do artigo 25.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
+Art. 29.º - 1 - Os candidatos colocados em horários a que se refere a alínea c) do artigo 26.º deste diploma que não aceitem a colocação ou não se apresentem no prazo de 3 dias, contado a partir da data em que foram notificados, não estão sujeitos à penalização referida no n.º 6 do artigo 25.º do [Decreto-Lei n.º 75/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1985-324967), de 25 de Março.
 
 2 - Os candidatos referidos no número anterior apenas poderão, no ano lectivo a que o concurso se refere, ser contratados nos termos do disposto no artigo 31.º deste diploma.
 
-###### Art. 30.º - 1 - Sempre que se esgotarem as possibilidades de preenchimento de horários com candidatos mencionados na alínea c) do artigo 26.º deste diploma, os delegados regionais da Direcção-Geral de Pessoal comunicarão esse facto aos conselhos directivos, ou a quem as suas vezes fizer.
+Art. 30.º - 1 - Sempre que se esgotarem as possibilidades de preenchimento de horários com candidatos mencionados na alínea c) do artigo 26.º deste diploma, os delegados regionais da Direcção-Geral de Pessoal comunicarão esse facto aos conselhos directivos, ou a quem as suas vezes fizer.
 
 2 - Logo que os conselhos directivos, ou quem as suas vezes fizer, receberem as comunicações a que se refere o número anterior, procurarão preencher aqueles horários de acordo com o estabelecido na alínea d) do artigo 26.º deste diploma.
 
-###### Art. 31.º - 1 - Esgotadas as possibilidades de preenchimento de horários, ao abrigo do disposto no n.º 2 do artigo anterior os conselhos directivos, ou quem as suas vezes fizer, proporão, para homologação, aos delegados regionais da Direcção-Geral de Pessoal candidatos para preenchimento dos horários ainda vagos.
+Art. 31.º - 1 - Esgotadas as possibilidades de preenchimento de horários, ao abrigo do disposto no n.º 2 do artigo anterior os conselhos directivos, ou quem as suas vezes fizer, proporão, para homologação, aos delegados regionais da Direcção-Geral de Pessoal candidatos para preenchimento dos horários ainda vagos.
 
 2 - Os candidatos propostos nos termos do número anterior que não possuam habilitação própria nem suficiente terão obrigatoriamente de satisfazer os requisitos de qualificação previamente fixados pelas direcções-gerais de ensino.
 
 3 - Os candidatos propostos nos termos deste artigo iniciarão o exercício de funções da data em que a proposta for enviada à delegação da Direcção - Geral de Pessoal.
 
-###### Art. 32.º Os candidatos a que se refere o artigo anterior celebrarão os respectivos contratos na data indicada no n.º 3 do mesmo artigo.
+Art. 32.º Os candidatos a que se refere o artigo anterior celebrarão os respectivos contratos na data indicada no n.º 3 do mesmo artigo.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 26 de Julho de 1985.**
+Promulgado em 26 de Julho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Julho de 1985.**
+Referendado em 30 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

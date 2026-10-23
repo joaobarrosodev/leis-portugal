@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2002-371035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3f65d7855db1b601a4c358cdee25d11cceb1e6fc73b788ab70b3d253fb58c7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81c50cc5d59f170770a7a7377ea066960744951c01e659f29b8a5488b89ec4c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,145 +67,184 @@ reuse:
 subjects:
 - Agência de Inovação
 - Agência Nacional para os Programas Comunitários Sócrates e Leonardo da Vinci
+- Agência Portuguesa de Apoio ao Desenvolvimento
 - Anefa
-- Ministério da Defesa Nacional
-- Instituto do Emprego e Formação Profissional
-- Ministério do Trabalho e da Solidariedade
+- Auditoria Jurídica
 - Comissão de Coordenação da Região Centro
 - Comissão de Coordenação da Região de Lisboa e VALE do TEJO
+- Comissão de Coordenação da Região do Alentejo
 - Comissão de Coordenação da Região do Algarve
 - Comissão de Coordenação da Região Norte
-- Comissão de Coordenação da Região do Alentejo
-- Ministério da Administração Interna
-- Conselho Nacional de Avaliação do Ensino Superior
-- Ministério da Segurança Social e do Trabalho
 - Comissão Nacional de Protecção das Crianças e Jovens em Risco
-- Ministro da Saúde
 - Comissão para a Igualdade no Trabalho e no Emprego
-- Ministro da Economia
 - Conselho Coordenador dos Institutos Superiores Politécnicos
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Ministério da Educação
 - Conselho de Ministros para os Assuntos Económicos
 - Conselho de Ministros para os Assuntos Europeus
 - Conselho de Reitores das Universidades Portuguesas
+- Conselho Nacional de Avaliação do Ensino Superior
+- Conselho Nacional de Educação
 - Conselho Nacional para a Acção Social no Ensino Superior
-- Ministro da Segurança Social e do Trabalho
-- Ministério da Reforma do Estado e da Administração Pública
-- Instituto António Sérgio do Sector Cooperativo
 - Costagest
+- Departamento de Prospectiva e Planeamento
+- Direção Geral do Ensino Superior
+- Direcção Geral do Desenvolvimento Regional
 - EDIA
 - Estrutura de Apoio Técnico
 - Fundo de Apoio ao Estudante
-- Secretaria Geral
-- Ministério da Economia
-- Ministério da Ciência e do Ensino Superior
 - Gabinete para os Assuntos Europeus e Relações Externas
-- Ministro da Justiça
-- Secretário de Estado Adjunto do Ministro da Saúde
-- Ministro Adjunto do Primeiro-ministro
-- Secretário de Estado Adjunto do Ministro da Administração Interna
-- Secretário de Estado Adjunto do Ministro da Justiça
-- Secretário de Estado da Indústria Comércio e Serviços
-- Ministério da Cultura
-- Ministério das Finanças
-- Secretário de Estado da Educação
-- Secretário de Estado do Tesouro e das Finanças
-- Secretário de Estado dos Assuntos Fiscais
-- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
-- Ministério da Justiça
-- Ministro da Cultura
-- Ministro de Estado
-- Ministro para os Assuntos Parlamentares
-- Primeiro-ministro
-- Secretário de Estado da Administração Local
-- Secretário de Estado da Saúde
-- Secretário de Estado dos Transportes
+- Governo XV
 - Ineti
-- Instituto Nacional da Propriedade Industrial
+- Inofor
+- Instituto António Sérgio do Sector Cooperativo
+- Instituto de Electromecânica e das Tecnologias de Informação
 - Instituto de Investigação das Pescas e do Mar
+- Instituto do Emprego e Formação Profissional
 - Instituto Geológico e Mineiro
 - Instituto Hidrográfico
+- Instituto Nacional da Propriedade Industrial
 - Instituto Nacional de Acreditação da Formação de Professores
-- Inofor
+- Instituto Nacional de Investigação Agrária
+- Instituto Nacional de Saúde Dr Ricardo Jorge
 - Instituto Tecnológico e Nuclear
 - Intervenção Operacional da Sociedade da Informação
 - IPE
 - Laboratório Nacional de Engenharia Civil
-- Instituto de Electromecânica e das Tecnologias de Informação
-- Santa Casa da Misericórdia
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério da Ciência e da Tecnologia
-- Direção Geral do Ensino Superior
-- Conselho Nacional de Educação
-- Auditoria Jurídica
-- Secretário de Estado da Justiça
+- Ministério da Ciência e do Ensino Superior
+- Ministério da Cultura
+- Ministério da Defesa Nacional
+- Ministério da Economia
+- Ministério da Educação
+- Ministério da Justiça
+- Ministério da Reforma do Estado e da Administração Pública
+- Ministério da Saúde
+- Ministério da Segurança Social e do Trabalho
 - Ministério das Cidades Ordenamento do Território e Ambiente
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral do Desenvolvimento Regional
+- Ministério das Finanças
 - Ministério das Obras Públicas Transportes e Habitação
-- Secretário de Estado do Ambiente
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministério do Equipamento Social
 - Ministério do Planeamento
-- Secretário de Estado das Comunidades Portuguesas
-- Secretário de Estado para os Assuntos Europeus
+- Ministério do Trabalho e da Solidariedade
+- Ministério dos Negócios Estrangeiros
+- Ministro Adjunto do Primeiro-ministro
+- Ministro da Administração Interna
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Ministro da Ciência e do Ensino Superior
-- Secretário de Estado Adjunto do Ministro da Presidência
+- Ministro da Cultura
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
 - Ministro da República
+- Ministro da Saúde
+- Ministro da Segurança Social e do Trabalho
 - Ministro das Cidades Ordenamento do Território e Ambiente
 - Ministro das Obras Públicas Transportes e Habitação
+- Ministro de Estado
 - Ministro de Estado e da Defesa Nacional
+- Ministro de Estado e das Finanças
 - Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas
+- Ministro para os Assuntos Parlamentares
 - Orgânica
 - Parpública
 - Parque EXPO 98
-- Secretário de Estado da Presidência do Conselho de Ministros
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Ministro de Estado e das Finanças
 - Presidência do Conselho de Ministros
-- Ministério da Saúde
-- Ministro da Educação
-- Ministro da Presidência
+- Primeiro-ministro
+- Santa Casa da Misericórdia
+- Secretaria Geral
+- Secretário de Estado Adjunto do Ministro da Administração Interna
 - Secretário de Estado Adjunto do Ministro da Cultura
 - Secretário de Estado Adjunto do Ministro da Economia
+- Secretário de Estado Adjunto do Ministro da Justiça
+- Secretário de Estado Adjunto do Ministro da Presidência
+- Secretário de Estado Adjunto do Ministro da Saúde
 - Secretário de Estado Adjunto e das Pescas
 - Secretário de Estado Adjunto e do Ordenamento do Território
-- Ministério dos Negócios Estrangeiros
 - Secretário de Estado da Administração Educativa
+- Secretário de Estado da Administração Local
 - Secretário de Estado da Ciência e Tecnologia
 - Secretário de Estado da Defesa e Antigos Combatentes
+- Secretário de Estado da Educação
 - Secretário de Estado da Habitação
+- Secretário de Estado da Indústria Comércio e Serviços
+- Secretário de Estado da Justiça
 - Secretário de Estado da Juventude e Desportos
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Secretário de Estado da Saúde
 - Secretário de Estado da Segurança Social
+- Secretário de Estado das Comunidades Portuguesas
 - Secretário de Estado das Obras Públicas
+- Secretário de Estado do Ambiente
 - Secretário de Estado do Comércio e Turismo
 - Secretário de Estado do Desenvolvimento Rural
 - Secretário de Estado do Orçamento
-- Governo XV
-- Ministério do Ambiente e do Ordenamento do Território
+- Secretário de Estado do Tesouro e das Finanças
 - Secretário de Estado do Trabalho
-- Ministro da Administração Interna
-- Instituto Nacional de Investigação Agrária
-- Agência Portuguesa de Apoio ao Desenvolvimento
+- Secretário de Estado dos Assuntos Fiscais
+- Secretário de Estado dos Negócios Estrangeiros e da Cooperação
+- Secretário de Estado dos Transportes
+- Secretário de Estado para os Assuntos Europeus
 relationships:
 - type: amended_by
   target: pt:dre:507641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:684205:por
+  label: "Alterados os art. 6.º, 9.º, 14.º, 17.º, 20.º, 24.º, 25.º, 26.º, 27.º, 29.º, 30.º, 31.º e aditado o art. 6.º-A á\
+    \ Lei Orgânica do XV Governo Constitucional aprovada pelo presente diploma republicando-a na integra pelo DEC LEI.119/2003.2003.06.17.PCM\
+    \ DR.IS-A [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-2003-684205
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:608182:por
+  label: "Alterado o art. 18.º e o art. 26.º (na redacção do Dec Lei 119/2003, de 17-Jun) da Lei Orgânica, aprovada pelo presente\
+    \ diploma, e republicada na integra, pelo DEC LEI.20/2004.22.01.2004.PCM, DR.IS-A [18] de 22.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-2004-608182
+  date: '2004-01-22'
+- type: amended_by
+  target: pt:dre:507641:por
+  label: "Alterados os arts. 9.º e 25.º, na redacção conferida pelo Dec Lei 119/2003, de 17-Jun, aditado o art. 32.º-A e republicado\
+    \ na integra, pelo DEC LEI.176/2004.23.07.2004.PCM, DR.IS-A [172] de 23.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2004-507641
+  date: '2004-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/474-a/1999/11/08/p/dre
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692200:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:153106:por
+  label: "Rectificado e republicado na integra pela DECL-RECT.20/2002.2002.05.17.PCM, DR.IS-A [123] de 28/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/20-2002-153106
+  date: '2002-05-17'
+- type: repealed_by
+  target: pt:dre:656107:por
+  label: "Revogada a Lei 113/97, de 16-Set, na redacção dada pelo presente diploma (determinada a transição para o Ministério\
+    \ da Ciência e do Ensino Superior do Fundo de Apoio ao Estudante), pela LEI.37/2003.22.08.2003.AR, DR.IS-A [193] de 22.08.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2003-656107
+  date: '2003-08-22'
 article_structure:
   article_count: 36
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:31:09Z'
   warnings: []
   errors: []
 ---
@@ -332,7 +371,7 @@ c) Secretário de Estado da Juventude e Desportos.
 
 ###### Artigo 7.º
 
-**O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.**
+O Primeiro-Ministro, salvo sua indicação em contrário, será substituído, nas suas ausências ou impedimentos, pela Ministra de Estado e das Finanças ou por ministro que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do artigo 185.º, n.º 1, da Constituição.
 
 ###### Artigo 8.º
 
@@ -678,12 +717,12 @@ O presente diploma produz efeitos desde 6 de Abril de 2002.
 
 Visto e aprovado em Conselho de Ministros de 11 de Abril de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Nuno Albuquerque Morais Sarmento - Luís Manuel Gonçalves Marques Mendes - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - José David Gomes Justino - Pedro Lynce de Faria - Pedro Manuel da Cruz Roseta - Luís Filipe Pereira - António José de Castro Bagão Félix - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
 
-**Promulgado em 22 de Abril de 2002.**
+Promulgado em 22 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Abril de 2002.**
+Referendado em 26 de Abril de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/83/2009/09/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/83-2009-489215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T05:05:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eecff9d43005ae55fb8cbb78b2f7ceb32245647b007c6a6ea3b9bc27d3b2a763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30f3eef8d98d14b3a2736f3c05122a18dd35664db251d87a3467483ecdd0a026
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:05:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contrato de Trabalho
 - Convenção
-- Portugal
+- Genebra
 - Grupo Sociocultural
 - OIT
+- Portugal
 - Sanção Penal
-- Contrato de Trabalho
-- Genebra
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolassrep/84/2009/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/84/2009/09/07/p/dre
+- type: cites
+  target: pt:dre:438224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489222:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T05:05:51Z'
   warnings: []
   errors: []
 ---
@@ -98,16 +106,16 @@ validation:
 
 de 7 de Setembro
 
-**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:
 
 É ratificada a retirada por parte da República Portuguesa da Convenção Relativa à Abolição das Sanções Penais por Quebra do Contrato de Trabalho por Parte dos Trabalhadores Indígenas, adoptada na 38.ª Sessão da Conferência Geral da Organização Internacional do Trabalho, em Genebra em 21 de Junho de 1955, aprovada, para ratificação, pelo [Decreto-Lei n.º 42691](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42691-1959-438224), de 30 de Novembro de 1959, aprovada pela [Resolução da Assembleia da República n.º 84/2009](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/84-2009-489222), em 23 de Julho de 2009.
 
-**Assinado em 24 de Agosto de 2009.**
+Assinado em 24 de Agosto de 2009.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 1 de Setembro de 2009.**
+Referendado em 1 de Setembro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

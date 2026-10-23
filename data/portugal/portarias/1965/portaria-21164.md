@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21164-1965-238428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a29673527fe97068c9dc3d5cde82fae8eae07aae4a530ea5a8091745b2278b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30ecd5b67624f6ded1cf7f49262d871647362a3b274d0eaf07a2dcf075373b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:57:33Z'
   warnings: []
   errors: []
 ---
@@ -88,16 +88,16 @@ Ministério da Educação Nacional, 13 de Março de 1965. - Pelo Ministro da Edu
 
 REGULAMENTO DO PRÉMIO CARLOS JOSÉ SILVA FERRER DE MONCADA
 
-###### Artigo 1.º É instituído na Faculdade de Direito da Universidade de Lisboa um prémio com a designação de Prémio Carlos José Silva Ferrer de Moncada, o qual será constituído pelo rendimento anual da importância de 70000$00.
+Artigo 1.º É instituído na Faculdade de Direito da Universidade de Lisboa um prémio com a designação de Prémio Carlos José Silva Ferrer de Moncada, o qual será constituído pelo rendimento anual da importância de 70000$00.
 
-###### Art. 2.º A importância do prémio será convertida em certificado de renda perpétua, assentado à Faculdade de Direito.
+Art. 2.º A importância do prémio será convertida em certificado de renda perpétua, assentado à Faculdade de Direito.
 
-###### Art. 3.º O prémio será atribuído anualmente ao aluno da Faculdade de Direito da Universidade de Lisboa que, tendo beneficiado de bolsa de estudo, obtiver mais elevada classificação no exame final da disciplina de História do Direito Romano.
+Art. 3.º O prémio será atribuído anualmente ao aluno da Faculdade de Direito da Universidade de Lisboa que, tendo beneficiado de bolsa de estudo, obtiver mais elevada classificação no exame final da disciplina de História do Direito Romano.
 
 § único. Em igualdade de condições, a importância do prémio será distribuída igualmente pelos alunos que as satisfizerem.
 
-###### Art. 4.º Ao aluno ou alunos a quem for atribuído o prémio será entregue um documento impresso com a seguinte inscrição: «Prémio Carlos José Silva Ferrer de Moncada. Nasceu em 21 de Fevereiro de 1939 e foi estudante da Faculdade de Direito da Universidade de Lisboa. Serviu a Pátria como oficial miliciano da Força Aérea em Negage, Angola - Junho de 1961 a Julho de 1963, altura em que regressou a Lisboa, onde faleceu em 6 de Setembro de 1963. Sacrificou, assim, a vida pela Pátria».
+Art. 4.º Ao aluno ou alunos a quem for atribuído o prémio será entregue um documento impresso com a seguinte inscrição: «Prémio Carlos José Silva Ferrer de Moncada. Nasceu em 21 de Fevereiro de 1939 e foi estudante da Faculdade de Direito da Universidade de Lisboa. Serviu a Pátria como oficial miliciano da Força Aérea em Negage, Angola - Junho de 1961 a Julho de 1963, altura em que regressou a Lisboa, onde faleceu em 6 de Setembro de 1963. Sacrificou, assim, a vida pela Pátria».
 
-###### Art. 5.º O nome ou nomes dos alunos beneficiados e a data da entrega do prémio serão comunicados, em cada ano, e antes de se proceder a essa entrega, aos instituidores do prémio.
+Art. 5.º O nome ou nomes dos alunos beneficiados e a data da entrega do prémio serão comunicados, em cada ano, e antes de se proceder a essa entrega, aos instituidores do prémio.
 
 Direcção-Geral do Ensino Superior e das Belas-Artes, 13 de Marco de 1965. - O Director-Geral, João Alexandre Ferreira de Almeida.

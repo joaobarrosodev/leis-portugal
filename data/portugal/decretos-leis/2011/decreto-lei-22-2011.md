@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/22/2011/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: efa5e851ac21e9c084ebc509b0e0a3037db9825cc79b4ec8e57430cd0d5650ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3224d854c2de21d913b13caca187be13c1031ce3dbde7fddc185a143527d8d76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,39 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Instituto da Segurança Social
-- Protecção à Família
-- Rede
+- Administração Regional de Saúde
+- Apoio Domiciliário
 - Assistência Médica
-- Financiamento
-- Doença Mental
 - Criação de Serviços
 - Cuidados de Enfermagem
-- Unidade de Cuidados Continuados Integrados de Saúde Mental
-- Definição de Competências
-- Administração Regional de Saúde
-- Saúde Pública
-- Política de Saúde
-- Serviço Nacional de Saúde
-- Fiscalização
-- Ministério do Trabalho e da Solidariedade Social
-- Instalação de Serviços
-- Direitos do Indivíduo
-- Licenciamento
-- Saúde Mental
-- Prestação de Serviços
-- Inserção Social
 - Cuidados Médicos
-- Reabilitação
-- Apoio Domiciliário
-- Ministério da Saúde
+- Deficiente Mental
+- Definição de Competências
+- Direitos do Indivíduo
+- Doença Mental
 - Estabelecimento Hospitalar
+- Família
+- Financiamento
+- Fiscalização
+- Inserção Social
+- Instalação de Serviços
+- Instituto da Segurança Social
+- Licenciamento
+- Ministério da Saúde
+- Ministério do Trabalho e da Solidariedade Social
+- Política de Saúde
+- Prestação de Serviços
+- Protecção à Família
+- Reabilitação
+- Rede
 - Responsabilidade Civil
+- Saúde Mental
+- Saúde Pública
 - Segredo Profissional
 - Serviço Local de Saúde Mental
+- Serviço Nacional de Saúde
 - Transporte de Doentes
-- Deficiente Mental
+- Unidade de Cuidados Continuados Integrados de Saúde Mental
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
@@ -129,16 +129,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:169001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616776:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
+  article_count: 39
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:14:58Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +201,9 @@ Os artigos 5.º, 9.º, 14.º e 16.º do [Decreto-Lei n.º 8/2010](https://diario
 
 2 - As unidades e equipas previstas no presente decreto-lei, bem como o pessoal que as integra, são responsáveis, nos termos do artigo 491.º do Código Civil, pelos danos causados pelas pessoas com as incapacidades mencionadas no artigo 2.º
 
-###### Artigo 9.º — Unidades residenciais
+Artigo 9.º
+
+Unidades residenciais
 
 1 - Constituem unidades residenciais:
 
@@ -189,7 +219,9 @@ d) Residências de apoio máximo.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 14.º — Unidades sócio-ocupacionais
+Artigo 14.º
+
+Unidades sócio-ocupacionais
 
 1 - ...
 
@@ -201,7 +233,9 @@ d) Residências de apoio máximo.
 
 5 - ...
 
-###### Artigo 16.º — Equipas de apoio domiciliário
+Artigo 16.º
+
+Equipas de apoio domiciliário
 
 1 - ...
 
@@ -273,15 +307,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua pub
 
 Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Pedro Manuel Dias de Jesus Marques - Ana Maria Teodoro Jorge.
 
-**Promulgado em 26 de Janeiro de 2011.**
+Promulgado em 26 de Janeiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 31 de Janeiro de 2011.**
+Referendado em 31 de Janeiro de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO — (a que se refere o artigo 5.º)
 

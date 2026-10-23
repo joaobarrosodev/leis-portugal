@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/096a00/18541857.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/112/1998/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-1998-176335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:56:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7254df8f1b0646215dfbc23c1a26bf648fe1b77de770e4e6ea3015d64ef4be92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ffb8deaf02e00b7d642850ac4f720b08f18ee41288806c10e7b84443ef142df1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:56:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
 - Carreira Médica Hospitalar
 - Colocação de Médicos
 - Concurso
-- Contrato Administrativo
-- Serviço Nacional de Saúde
-- Formas de Provimento
-- Internato Complementar
-- Remuneração
-- Gestão de Recursos Humanos
 - Contratação Pública
+- Contrato Administrativo
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Internato Complementar
+- Médico
+- Remuneração
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:602072:por
@@ -98,16 +98,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/950/1995/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/950/1995/08/02/p/dre
+- type: cites
+  target: pt:dre:288258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648372:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518466:por
+  label: "Revogada a al. a) do nº 1 do art. 2º, nº 2 do art. 3º e nº 1 do art. 4º, pelo DEC LEI.60/2007.13.03.2007.MS, DR.IS\
+    \ [51] de 13.03.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/60-2007-518466
+  date: '2007-03-13'
+- type: repealed_by
+  target: pt:dre:602072:por
+  label: "Revogado pelo DEC LEI.45/2009.13.02.2009.MS, DR.IS [31] de 13.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2009-602072
+  date: '2009-02-13'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:56:42Z'
   warnings: []
   errors: []
 ---
@@ -214,12 +245,12 @@ O presente diploma produz efeitos, com excepção dos remuneratórios, desde 1 d
 
 Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.
 
-**Promulgado em 2 de Abril de 1998.**
+Promulgado em 2 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 16 de Abril de 1998.**
+Referendado em 16 de Abril de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

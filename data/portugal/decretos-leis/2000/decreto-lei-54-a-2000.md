@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 83/2000, 1º Suplemento, Série I-A de 2000-04-07
   number: '83'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1526-(2) a 1526-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/083a01/00020014.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21e6cc017abade7123e7f126644b6c1aa76b4220d76e95ba57922d2df1779839
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf595d83578c9f8d0b763eab8210e02cbabd42e3a12be2e963b89be3761b835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,79 +70,108 @@ subjects:
 - Ajuda Comunitária
 - Apoio Técnico
 - Associação Nacional de Municípios Portugueses
-- Financiamento
+- Autarquia Local
+- Base de Dados
 - BEI
-- Inspeção Geral de Finanças
+- CES
+- Comissão CE
 - Comissão de Acompanhamento
-- Ministro do Ambiente e do Ordenamento do Território
 - Comissão de Gestão
-- Gestão Financeira
-- Direcção Geral do Tesouro
-- Governo Regional
-- Ministério da Reforma do Estado e da Administração Pública
 - Contrato Programa
 - Controlo Financeiro
 - Coordenador
 - Definição de Competências
+- Departamento de Prospectiva e Planeamento
 - Direcção Geral de Assuntos Europeus e Relações Internacionais
+- Direcção Geral do Desenvolvimento Regional
+- Direcção Geral do Tesouro
 - Direcção Geral dos Assuntos Comunitários
 - Diretor Geral
 - Encarregado de Missão
-- União Europeia
 - Estatuto
 - FEDER
 - Feoga
+- Financiamento
 - Fiscalização
+- FSE
 - Fundo de Coesão
 - Fundos CE
-- Comissão CE
 - Gabinete para os Assuntos Europeus e Relações Externas
+- Gestão Financeira
 - Gestor
-- Ministério das Finanças
-- Ministro das Finanças
+- Governo Regional
 - Grupo de Trabalho
-- Base de Dados
+- Ifadap
 - IFOP
-- Tribunal de Contas
-- FSE
-- Departamento de Prospectiva e Planeamento
-- Direcção Geral do Desenvolvimento Regional
+- Inspeção Geral de Finanças
+- Ministério da Reforma do Estado e da Administração Pública
+- Ministério das Finanças
+- Ministério do Ambiente e do Ordenamento do Território
 - Ministério do Planeamento
+- Ministério dos Negócios Estrangeiros
+- Ministro das Finanças
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro para a Igualdade
 - Observatório do Quadro Comunitário de Apoio
 - Orgânica
 - Popram
-- Sistema de Informação
 - Prodesa
 - QCA III
 - Regulamento
-- Ifadap
 - Relatório
-- Ministério dos Negócios Estrangeiros
-- Ministério do Ambiente e do Ordenamento do Território
-- Autarquia Local
+- Sistema de Informação
+- Tribunal de Contas
+- União Europeia
 - Unidade de Gestão
-- CES
 relationships:
 - type: amended_by
   target: pt:dre:521029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339845:por
+  label: "Alterados os arts. 10.º, 12.º, 15.º, 17.º, 19.º, 20.º e 35.º pela LEI.20/2000.2000.08.10.AR DR.IS-A [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2000-339845
+  date: '2000-08-10'
+- type: amended_by
+  target: pt:dre:164205:por
+  label: "Alterado o art. 27º pelo DEC LEI.122/2001.2001.04.17.MPLA,DR.IS-A [90]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2001-164205
+  date: '2001-04-17'
+- type: amended_by
+  target: pt:dre:647110:por
+  label: "Salvaguardado o quadro legal aplicável aos projectos no âmbito da Intervenção Operacional da Economia inserida no\
+    \ QCA III cujas estruturas foram definidas pelo presente diploma, pela RES.101/2003.2003.07.10.PCM DR.IS-B [182] DE 08/AGO/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/101-2003-647110
+  date: '2003-07-10'
+- type: amended_by
+  target: pt:dre:245335:por
+  label: "Alterados os nºs 1 e 3 do art. 33º pela LEI.51/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2005-245335
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:521029:por
+  label: "Extinta a Estrutura de Apoio Técnico à Comissão de Gestão do QCA III, instituída no presente diploma e na Resolução\
+    \ do Conselho de Ministros n.º 27/2000, de 16 de Maio, e integradas as respectivas atribuições no IFDR, pelo DEC LEI.137/2007.27.04.2007.MAOTDR,\
+    \ DR.IS [82] de 27.04.2007, nos termos do seu artigo 14.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2007-521029
+  date: '2007-04-27'
 - type: cites
   target: celex:31999R1260
   label: null
   source: http://data.europa.eu/eli/reg/1999/1260/oj
 article_structure:
   article_count: 50
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:32Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +244,9 @@ g) Transparência, rigor e eficácia da gestão dos recursos financeiros;
 
 h) Reforço dos mecanismos de controlo, acompanhamento e avaliação.
 
-###### Artigo 3.º — Divisão da estrutura orgânica
+###### Artigo 3.º
+
+##### Divisão da estrutura orgânica
 
 1 - A estrutura orgânica responsável pela execução do QCA III é definida tendo em consideração os três seguintes níveis de actuação:
 
@@ -877,12 +908,12 @@ Até à conclusão da execução do II Quadro Comunitário de Apoio (1994-1999),
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Guilherme d'Oliveira Martins - Arnaldo Jorge d'Assunção Silva - Rui Nobre Guedes - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina - Armando António Martins Vara.
 
-**Promulgado em 31 de Março de 2000.**
+Promulgado em 31 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Abril de 2000.**
+Referendado em 6 de Abril de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

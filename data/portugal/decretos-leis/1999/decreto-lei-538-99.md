@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/288a00/88018809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/538/1999/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1999-632933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T02:14:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19dad4a98f7a07b2c0db5f9a61adf9674c4f0ffe4e500aeabc577e182c6496c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f44b2eee29fadcac37b3d51d5a9c40001891217b0086cec09464c4ae65cc256
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:14:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia Elétrica
-- Instalação de Co-geração
-- Multa
+- Co-geração
 - Contra-ordenação
+- Energia Elétrica
 - Energia Térmica
 - Equipamento Eléctrico
-- Co-geração
+- Instalação de Co-geração
+- Multa
 - Normas de Segurança
 - Sistema Eléctrico de Serviço Público
 - Sistema Eléctrico não Vinculado
@@ -81,6 +81,12 @@ relationships:
   target: pt:dre:611330:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576277:por
+  label: "Alterados os arts. 2º, 4º, 5º, 7º, 9º, 10º, 23º, 27º e 28º pelo DEC LEI.313/2001.2001.12.10.MECO DR.IS-A [284]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/313-2001-576277
+  date: '2001-12-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/1995/07/27/p/dre
   label: null
@@ -89,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/186/1995/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/186/1995/07/27/p/dre
+- type: cites
+  target: pt:dre:484668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:576278:por
+  label: "Revogados, quando aplicáveis à informação, gestão, atribuição e caducidade dos pontos de recepção, os arts. 14º\
+    \ e 16º 18º e 19º pelo DEC LEI.312/2001.2001.12.10.MECO DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-2001-576278
+  date: '2001-12-10'
+- type: repealed_by
+  target: pt:dre:611330:por
+  label: "Revogado o presente diploma, a partir de 30.03.2010, na redacção do Dec Lei 312/2001, de 10-Dez, e Dec Lei 313/2001,\
+    \ de 10-Dez, pelo DEC LEI.23/2010.25.03.2010.MEID, DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2010-611330
+  date: '2010-03-25'
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:14:58Z'
   warnings: []
   errors: []
 ---
@@ -595,12 +621,12 @@ b) Em 40% para a entidade que tiver aplicado a coima.
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura - Elisa Maria da Costa Guimarães Ferreira.
 
-**Promulgado em 19 de Novembro de 1999.**
+Promulgado em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Novembro de 1999.**
+Referendado em 25 de Novembro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/77/2013/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2013-513621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T03:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6d850a8b440e86beb7ffef3e8f8fadd52f8cef5ce07b64735c6ad91efe3842a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b1c5dc39714e178b429bafd1f8638ab8f142696fc725a555ff1564906279609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aguardente
-- Denominação de Origem
 - Controlo de Qualidade
+- Denominação de Origem
 - Estatuto
 - Instituto dos Vinhos do Douro e do Porto
 - Região Demarcada do Douro
@@ -79,6 +79,12 @@ relationships:
   target: pt:dre:214724639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:58325220:por
+  label: Dada nova redação, a partir de 01.01.2015, aos arts. 11.º e 12.º do Dec Lei 97/2012 de 23-abr, com as alterações
+    introduzidas pelo presente diploma, pelo(a) Decreto-Lei n.º 152/2014 - Diário da República n.º 199/2014, Série I de 2014-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/152-2014-58325220
+  date: '2014-10-15'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -100,15 +106,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2012/315/oj
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:22:50Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +169,9 @@ Aguardente de origem vitícola e beneficiação
 
 6 - As aguardentes de origem vitícola acima referidas estão sujeitas a contas correntes específicas.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 [...]:
 
@@ -175,11 +183,15 @@ c) [...];
 
 d) [...].
 
-###### Artigo 24.º — Aguardente de origem vitícola
+Artigo 24.º
+
+Aguardente de origem vitícola
 
 A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...].
 
@@ -187,7 +199,9 @@ A quantidade de aguardente de origem vitícola destinada a interromper a ferment
 
 3 - A quantidade de aguardente de origem vitícola destinada a interromper a fermentação, de acordo com o grau de doçura desejado, é fixada anualmente no comunicado de vindima.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -231,7 +245,9 @@ iv) [...];
 
 v) [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -257,12 +273,12 @@ iii) [...].»
 
 Visto e aprovado em Conselho de Ministros de 26 de abril de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
 
-**Promulgado em 27 de maio de 2013.**
+Promulgado em 27 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 29 de maio de 2013.**
+Referendado em 29 de maio de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.

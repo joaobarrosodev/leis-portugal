@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - A página 578 existe incorrectamente denominada no Diário 45/84.
 language: por
@@ -48,40 +48,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1984-661495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T06:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cecf2fa13481c30057c6d5105ca3c000e0970e2aa836a11ce652dc62cffe1a28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b62de184c43ff86c7acd609d4d26205fd24b17446d43b84c1aba503d8bce3768
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:08:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Instalações Radioelétricas
+- Servidão Radioelétrica
+- Utilidade Pública
+- Vilar Formoso
 relationships:
 - type: amended_by
   target: pt:dre:449206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449206:por
+  label: "Revogado pelo DR.44/2002.2002.10.22.MECO, DR.IS-B [264] de 15/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-2002-449206
+  date: '2002-10-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T06:08:46Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +116,11 @@ Considerando o disposto no n.º 1 do artigo 14.º do [Decreto-Lei n.º 597/73](h
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º As áreas adjacentes ao percurso de ligação hertziana entre os centros radioeléctricos de Piçarrinhas e de Vilar Formoso, numa distância de 70,075 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
+Artigo 1.º As áreas adjacentes ao percurso de ligação hertziana entre os centros radioeléctricos de Piçarrinhas e de Vilar Formoso, numa distância de 70,075 km, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro.
 
-###### Art. 2.º A ligação hertziana referida no artigo anterior é composta por 2 estações terminais, situadas, respectivamente, na localidade denominada «Malhada da Cabra, em Piçarrinhas, na Serra da Estrela, e no Alto dos Ataques, em Vilar Formoso.
+Art. 2.º A ligação hertziana referida no artigo anterior é composta por 2 estações terminais, situadas, respectivamente, na localidade denominada «Malhada da Cabra, em Piçarrinhas, na Serra da Estrela, e no Alto dos Ataques, em Vilar Formoso.
 
-###### Art. 3.º Os centros radioeléctricos de Piçarrinhas e de Vilar Formoso utilizam antenas directivas com cotas de 1309 m e de 805 m, respectivamente, em relação ao nível do mar, e situam-se em pontos com as seguinte coordenadas geográficas:
+Art. 3.º Os centros radioeléctricos de Piçarrinhas e de Vilar Formoso utilizam antenas directivas com cotas de 1309 m e de 805 m, respectivamente, em relação ao nível do mar, e situam-se em pontos com as seguinte coordenadas geográficas:
 
 a) Piçarrinhas:
 
@@ -116,15 +134,15 @@ Latitude - 40º 36' 30" N.;
 
 Longitude - 6º 49' 17,10" W.
 
-###### Art. 4.º A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem uma largura de 40 m.
+Art. 4.º A zona de desobstrução a que aludem a alínea b) do n.º 1 do artigo 6.º e o artigo 11.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, tem uma largura de 40 m.
 
 Esta zona de desobstrução, que é medida perpendicularmente e para cada lado da projecção horizontal da linha recta que une as antenas dos centros radioeléctricos respectivos, encontra-se demarcada em plano horizontal, na planta topográfica à escala de 1:250000, conforme a figura 1 em anexo a este diploma.
 
-###### Art. 5.º NA zona de desobstrução definida no artigo anterior é definida a implantação ou manutenção de edifícios ou de outros obstáculos da linha recta que une as 2 antenas terminais menos de [([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf))](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf).
+Art. 5.º NA zona de desobstrução definida no artigo anterior é definida a implantação ou manutenção de edifícios ou de outros obstáculos da linha recta que une as 2 antenas terminais menos de [(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf).
 
 O elipsóide da 1.ª zona de Fresnel e o perfil do terreno entre as antenas consideradas estão representados em plano vertical nas escalas de 1:400000 (eixo de abcissas) e de 1:6000 (eixo das ordenadas), conforme a figura 2 em anexo a este diploma.
 
-###### Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
+Art. 6.º O director dos Serviços de Radiocomunicações dos CTT é a entidade competente para:
 
 a) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos no n.º 2 do artigo 20.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro;
 
@@ -132,18 +150,18 @@ b) Fiscalizar o cumprimento das disposições legais respeitantes à presente se
 
 c) Aplicar, nos termos do artigo 24.º do [Decreto-Lei n.º 597/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/597-1973-411631), de 7 de Novembro, as multas decorrentes das infracções verificadas.
 
-###### Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
+Art. 7.º Das decisões tomadas nos termos das alíneas a) e c) do artigo anterior cabe recurso para o Ministro do Equipamento Social.
 
 Mário Soares - João Rosado Correia.
 
-**Promulgado em 26 de Janeiro de 1984.**
+Promulgado em 26 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Janeiro de 1984.**
+Referendado em 30 de Janeiro de 1984.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf))](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/04400/05770579.pdf)

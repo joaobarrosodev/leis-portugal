@@ -30,7 +30,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/4/2003/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2003-482133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73e6f6ccf3d28fbc8334c25d952619abeac310a19701311396256d5d238cd787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7d9605c97d4a72c8ca7c8da9354df303cec803234a9bb1fd3d45cf9e3570e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
-- Produto Químico
 - Aproximação das Legislações
 - Controlo de Qualidade
-- Saúde Pública
+- Embalagem
 - Especificação Técnica
 - Indústria de Plásticos
-- Embalagem
+- Produto Alimentar
+- Produto Químico
 - Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:520643:por
@@ -133,16 +133,26 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1996/
   label: null
   source: http://data.europa.eu/eli/dir/1996/
+- type: corrected_by
+  target: pt:dre:162462:por
+  label: "Rectificado pela DECL-RECT.1-P/2003.2003.02.28.PCM, DR.IS-A [50]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-p-2003-162462
+  date: '2003-02-28'
+- type: repealed_by
+  target: pt:dre:520643:por
+  label: "Revogado a partir de 16.05.2007 pelo DEC LEI.197/2007.15.05.2007.MADRP, DR.IS [93] de 15.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2007-520643
+  date: '2007-05-15'
 article_structure:
   article_count: 18
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:32Z'
   warnings: []
   errors: []
 ---
@@ -335,15 +345,15 @@ c) 60% para o Estado.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2002. - José Manuel Durão Barroso - António Manuel de Mendonça Martins da Cruz - Maria Celeste Ferreira Lopes Cardona - José Luís Fazenda Arnaut Duarte - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira.
 
-**Promulgado em 6 de Dezembro de 2002.**
+Promulgado em 6 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Dezembro de 2002.**
+Referendado em 11 de Dezembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
 ## ANEXO I
 
@@ -431,11 +441,11 @@ LME(T) - limite de migração específica nos géneros alimentícios ou nos simu
 
 #### SECÇÃO A — Lista de monómeros e de outras substâncias iniciadoras autorizadas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 #### SECÇÃO B — Lista de monómeros e outras substâncias iniciadoras que podem continuar a ser usados enquanto se aguarda decisão sobre a sua inclusão na secção A
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 ## ANEXO II
 
@@ -495,25 +505,25 @@ Qualquer tipo de especificação referente à substância ou ao polímero.
 
 #### SECÇÃO A — Lista não completa dos aditivos totalmente harmonizados ao nível comunitário
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 #### SECÇÃO B — Lista não completa de aditivos referidos no n.º 2 do artigo 4.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 ## ANEXO III — Produtos obtidos por fermentação bacteriana
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 ## ANEXO IV — Especificações
 
-# Parte A: Especificações gerais
+Parte A: Especificações gerais
 
 Os materiais e objectos fabricados a partir de isocianatos aromáticos ou corantes preparados por acoplamento diazóico não devem libertar aminas aromáticas primárias (expressas como anilina) numa quantidade detectável (LD = 0,02 mg/kg de alimento ou de simulador de alimento, incluindo a tolerância analítica). Contudo, excluem-se desta restrição os valores de migração das aminas aromáticas primárias constantes do presente diploma.
 
-# Parte B: Outras especificações
+Parte B: Outras especificações
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 18888 - Copolímero dos ácidos 3 - hidroxibutanóico e 3 - hidroxipentanóico
 
@@ -759,13 +769,13 @@ QUADRO N.º 1
 
 Tipos de géneros alimentícios e simuladores de géneros alimentícios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 QUADRO N.º 2
 
 Simuladores de géneros alimentícios a seleccionar para o ensino de materiais em contacto com géneros alimentícios em casos particulares.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 2 - Selecção dos simuladores de géneros alimentícios:
 
@@ -793,7 +803,7 @@ Acidez (expressa em percentagem de ácido oleico) = 0,5%, no máximo;
 
 Repartição dos ácidos gordos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 Pureza:
 
@@ -813,7 +823,7 @@ Ponto de fusão - 28(mais ou menos)2ºC.
 
 Espectro típico de absorção (espessura da camada d = 1 cm; referência: água a 35ºC).
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 Pelo menos 10% de transmitância de luz a 310 nm (célula de 1 cm; referência: água a 35ºC).
 
@@ -859,7 +869,7 @@ QUADRO N.º 3
 
 Condições convencionais para os ensaios de migração com simuladores de géneros alimentícios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 ### CAPÍTULO 3 — Ensaios gordos substitutivos da migração global específica
 
@@ -877,7 +887,7 @@ QUADRO N.º 4
 
 Condições convencionais para a realização dos ensaios de substituição
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
 
 ### CAPÍTULO 4 — Ensaios gordos alternativos da migração global e específica
 
@@ -915,4 +925,4 @@ Se o pH do género alimentício for inferior ou igual a 4,5, utilizar o simulado
 
 QUADRO
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)](https://files.diariodarepublica.pt/1s/2003/01/008a00/00620091.pdf)

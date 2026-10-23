@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/245a00/65426547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/272/1995/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1995-668482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T01:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eecc94eb6be506af572aa9ffef631afc16859a01c0342e8fb171b5b8c3b65131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 778d40bb1eb6765fecb8a30d91aeb260c52ff033e8cdd274b59cc204984127cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,39 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Infarmed
+- Comércio
 - Comparticipação do Estado
-- União Europeia
+- Exportação
 - Fabrico Industrial
 - Importação
-- Exportação
+- Infarmed
 - Regime Jurídico
-- Comércio
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:540387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468778:por
+  label: "Aditadas informações ao resumo das características do medicamento referido na alínea a) do n.º 2 do artigo 5.º do\
+    \ Decreto-Lei n.º 72/91, de 8 de Fevereiro, na redacção do presente diploma, pela PORT.161/96.16.05.1996.MS, DR.IS-B [114]\
+    \ de 16.05.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-1996-468778
+  date: '1996-05-16'
+- type: amended_by
+  target: pt:dre:223427:por
+  label: "Alterado o art. 60º do Dec Lei 72/91 de 08-Fev, com a redacção conferida pelo presente diploma, pelo DEC LEI.90/2004.20.04.2004.MS,\
+    \ DR.IS-A [93] de 20.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2004-223427
+  date: '2004-04-20'
+- type: amended_by
+  target: pt:dre:223178:por
+  label: "Alterada a redacção dada aos arts. 5.º e 8.º do Dec Lei 72/91, de 08-Fev, pelo DEC LEI.97/2004.23.04.2004.MS, DR.IS-A\
+    \ [96] de 23.04.2004 e nos termos do art. 4.º do mesmo determinadas as remissões e referências legais naquele diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/97-2004-223178
+  date: '2004-04-23'
 - type: cites
   target: celex:31993L0039
   label: null
@@ -96,16 +116,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/72/1991/02/08/p/dre
+- type: repealed_by
+  target: pt:dre:540387:por
+  label: "Revogado o Dec Lei 72/91, de 08-Fev, na redacção do presente diploma, pelo Dec Lei.176/2006.30.08.2006.MS, DR.IS\
+    \ [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-2006-540387
+  date: '2006-08-30'
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:40:10Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +154,7 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 8.º a 11.º, 13.º a 15.º, 41.º, 46.º, 54.º a 56.º, 59.º a 62.º, 64.º, 92.º e 94.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 8.º a 11.º, 13.º a 15.º, 41.º, 46.º, 54.º a 56.º, 59.º a 62.º, 64.º, 92.º e 94.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Âmbito
 
@@ -406,7 +432,7 @@ f) O incumprimento do disposto nos artigos 3.º a 8.º do Decreto-Lei n.º 101/9
 
 2 - As regras a que deve obedecer o funcionamento do Sistema Nacional de Farmacovigilância são estabelecidas por portaria do Ministro da Saúde.
 
-###### Art. 2.º São aditados ao Decreto-Lei n.º 72/91, de 8 de Fevereiro, os artigos 4.º-A, 59-A e 59.º-B:
+Art. 2.º São aditados ao Decreto-Lei n.º 72/91, de 8 de Fevereiro, os artigos 4.º-A, 59-A e 59.º-B:
 
 ###### Artigo 4.º-A — Instrução do processo
 
@@ -434,23 +460,23 @@ f) O incumprimento do disposto nos artigos 3.º a 8.º do Decreto-Lei n.º 101/9
 
 3 - O INFARMED deve fornecer, para efeito de exportação, o resumo das características do respectivo medicamento, nos termos em que foi aprovado.
 
-###### Art. 3.º Até à aprovação das portarias a que se referem o n.º 2 do artigo 4.º-A e o artigo 14.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro, na redacção que lhes é dada pelo presente diploma, mantém-se em vigor a actual regulamentação sobre a instrução dos pedidos e suas alterações.
+Art. 3.º Até à aprovação das portarias a que se referem o n.º 2 do artigo 4.º-A e o artigo 14.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro, na redacção que lhes é dada pelo presente diploma, mantém-se em vigor a actual regulamentação sobre a instrução dos pedidos e suas alterações.
 
-###### Art. 4.º - 1 - São revogados os artigos 18.º, 42.º a 45.º, 47.º a 53.º e 63.º e o anexo ao Decreto-Lei n.º 72/91, de 8 de Fevereiro, e o Decreto-Lei n.º 421/89, de 30 de Novembro.
+Art. 4.º - 1 - São revogados os artigos 18.º, 42.º a 45.º, 47.º a 53.º e 63.º e o anexo ao Decreto-Lei n.º 72/91, de 8 de Fevereiro, e o Decreto-Lei n.º 421/89, de 30 de Novembro.
 
 2 - O anexo ao Decreto-Lei n.º 72/91, de 8 de Fevereiro, é substituído pelos anexos A e B ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - José Manuel Cardoso Borges Soeiro - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira.
 
-**Promulgado em 3 de Outubro de 1995.**
+Promulgado em 3 de Outubro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Outubro de 1995.**
+Referendado em 6 de Outubro de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO A — Lista dos medicamentos a que se refere a alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 72/91, de 8 de Fevereiro
 

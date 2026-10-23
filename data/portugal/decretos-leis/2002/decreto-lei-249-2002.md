@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/249/2002/11/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-2002-451470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T02:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61d971c18ae6bd389b9ba155e1c86784692101b25c57f317ddc37bf8e48246b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c83e16830ba6e46660940115ae22ea8ee3719df3211e31b0d5e0f54c86c7675
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Contrato de Concessão
+- Financiamento
 - Locação Financeira
 - Metro do Porto
 - Porto
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:168697991:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188948:por
+  label: "Alterada a base XIV das bases de concessão do sistema de metro ligeiro do Porto, anexas ao Dec Lei 394-A/98 de 15-Dez,\
+    \ com a redacção deste diploma, pelo DEC LEI.33/2003.2003.02.24.MOPTH DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/33-2003-188948
+  date: '2003-02-24'
+- type: amended_by
+  target: pt:dre:452963:por
+  label: "Alterada a base vii da concessão do sistema de metro ligeiro do Porto, na redacção do presente diploma, pelo DEC\
+    \ LEI.192/2008.01.10.2008.MOPTC, DR.IS [190] de 01.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2008-452963
+  date: '2008-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/2001/09/26/p/dre
   label: null
@@ -92,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/161/1999/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/161/1999/09/14/p/dre
+- type: cites
+  target: pt:dre:324333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615832:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:33:58Z'
   warnings: []
   errors: []
 ---
@@ -158,12 +194,12 @@ b) Poderá, no âmbito da concessão, utilizar bens por via de locação ou de o
 
 Visto e aprovado em Conselho de Ministros de 26 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 6 de Novembro de 2002.**
+Promulgado em 6 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 11 de Novembro de 2002.**
+Referendado em 11 de Novembro de 2002.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.

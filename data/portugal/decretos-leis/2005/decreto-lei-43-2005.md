@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2005/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2005-606308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T02:50:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98fd1e4e8bb2b512817b53bc8f82c2385b04589d4c3bf3144583234ce35ba5a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 446cd67154ebc645bb8453b75cb1f5c51e8e9ad27169c3ca8e115237a6e0d6c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:50:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,20 @@ reuse:
 subjects:
 - Adjudicação de Obras Públicas
 - Adjudicação por Concurso Público
-- Distribuição de Energia Elétrica
 - Aproximação das Legislações
 - Aquisição de Bens e Serviços
+- Comunicações
 - Concurso Internacional
 - Concurso Público
 - Contrato de Concessão
+- Distribuição de Energia Elétrica
 - Empreitada de Obras Públicas
 - Formulário Eletrónico
-- Publicitação
-- Obras Públicas
 - Governo Electrónico
-- Serviço Público
-- Comunicações
+- Obras Públicas
+- Publicitação
 - Regulamento CE
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:1725651:por
@@ -134,13 +134,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:50:37Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +207,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -227,7 +229,7 @@ f) ...»
 
 3 - Os anexos I a XII do Decreto-Lei n.º 245/2003, de 7 de Outubro, passam a ter a seguinte redacção:
 
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)
+[[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)
 
 ###### Artigo 2.º — Norma revogatória
 
@@ -243,17 +245,19 @@ No preenchimento dos formulários tipo, a que se refere o artigo 2.º do Decreto
 
 Visto e aprovado em Conselho de Ministros de 14 de Outubro de 2004. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Luís Fazenda Arnaut Duarte - António Luís Guerra Nunes Mexia.
 
-**Promulgado em 20 de Janeiro de 2005.**
+Promulgado em 20 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 26 de Janeiro de 2005.**
+Referendado em 26 de Janeiro de 2005.
 
-**O Primeiro-Ministro, Pedro Miguel de Santana Lopes.**
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
 
-## ANEXO — Artigo 1.º
+## ANEXO
+
+###### Artigo 1.º
 
 Objecto
 
@@ -339,4 +343,4 @@ f) O anexo IX a que se refere o artigo 38.º é substituído pelo texto do anexo
 
 ###### Artigo 6.º — (Revogado.)
 
-[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)
+[[(ver anexos no documento original)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)](https://files.diariodarepublica.pt/1s/2005/02/037a00/15001527.pdf)

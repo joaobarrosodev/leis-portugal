@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-1972-396952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T03:44:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19e4abda9502f8b9613c0cf054768a28a16be9d23372410cc35a5172523a4f11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbca13c04dc13811e964880ae7bd812aeb06bf6aafc2940c2559872297b0edd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:44:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:397112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:44:27Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +95,7 @@ de 26 de Abril
 
 Manda o Governo da República Portuguesa, pelos Ministros da Justiça e dos Negócios Estrangeiros, nos termos do artigo 53.º do [Decreto-Lei n.º 126/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1972-397112), de 22 de Abril, aprovar e pôr em vigor os modelos anexos.
 
-**O Presidente do Conselho, Marcello Caetano. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Presidente do Conselho, Marcello Caetano. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.
 
 Modelos de averbamentos
 
@@ -165,11 +173,11 @@ Registo do estatuto de igualdade de direitos e deveres n.º ...
 
 (Convenção Luso-Brasileira de 7 de Setembro no 1971)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf)
 
 (Modelo de certidão de registo do estatuto de igualdade de direitos e deveres de cidadãos brasileiros em Portugal)
 
-REPÚBLICA [([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf) PORTUGUESA
+REPÚBLICA [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf) PORTUGUESA
 
 MINISTÉRIO DA JUSTIÇA
 
@@ -255,16 +263,16 @@ O Gerente d ...
 
 (nota 10) Assinatura por extenso do interessado.
 
-REPÚBLICA [([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf) PORTUGUESA
+REPÚBLICA [(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf) PORTUGUESA
 
 BILHETE DE IDENTIDADE N.º ...
 
 (Convenção Luso-Brasileira de 8 de Setembro de 1971)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf))](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/04/09800/05010503.pdf)
 
 Assinatura do Portador,
 
 ...
 
-**O Presidente do Conselho, Marcello Caetano. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.**
+O Presidente do Conselho, Marcello Caetano. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23071-1967-401699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T02:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a39f46f6b60cda2669ad6778d452e6042c98b7431aa8fd3a5bd9919b3291e86b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60e77307d76f75ed14a65c2a075144385f1dde1b8ed9416493f4b495c94ca834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:39:09Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +97,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, nos 
 
 1. Quando, a pedido dos expedidores ou consignatários, os vagões sejam carregados ou descarregados fora do recinto das estações, são devidas, consoante a distância do local da carga ou descarga à agulha de saída da estação, as taxas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29400/23782378.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29400/23782378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29400/23782378.pdf)
 
 Ministério das Comunicações, 20 de Dezembro de 1967. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

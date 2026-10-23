@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/91-1971-447568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T03:41:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88374e39d6def54a9b4a74549186125d81095ec3342bacbdf858049416c579ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00b2347e4b89e4d1166f40ad7700c9f2ae4b9734a089b795743301a5841967fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:41:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429587:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:41:13Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +101,21 @@ Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
 
 1.º No Regulamento de Uniformes e Pequeno Equipamento para Sargentos e Praças da Armada (R. U. P. E. S. P. A.), aprovado e mandado pôr em execução pelo [Decreto n.º 42508](https://diariodarepublica.pt/dr/detalhe/decreto/42508-1959-429587), de 16 de Setembro de 1959, é dada nova redacção aos artigos 2.º, 3.º, 4.º, 6.º, 7.º, 9.º, 12.º, 13.º, 14.º, 15.º, 16.º, 19.º, 21.º, 22.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 34.º, 35.º, 36.º, 37.º, 40.º, 42.º, 44.º, 46.º, 47.º, 55.º, 56.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 66.º, 68.º, 71.º, 72.º, 73.º, 74.º, 75.º, 77.º, 82.º, 83.º, 84.º, 85.º, 90.º, 91.º, 92.º, 116.º, 117.º, 123.º, 124.º, 129.º, 134.º, 136.º, 138.º, 142.º, 145.º, 151.º, 152.º, 154.º, 158.º, 161.º, 162.º, 163.º, 164.º, 165.º, 166.º, 168.º, 169.º, 170.º, 171.º, 172.º, 173.º, 174.º, 175.º, 176.º, 177.º, 178.º, 179.º, 180.º, 181.º, 182.º, 188.º, 190.º, 191.º, 193.º, 194.º, 195.º, 196.º, 197.º, 198.º, 200.º, 205.º, 207.º e 209.º, e são acrescentados os artigos 5.º-A, 5.º-B, 9.º-A, 21.º-A, 31.º-A, 36.º-A, 50.º-A, 53.º-A, 53.º-B, 59.º-A, 82.º-A, 90.º-A, 125.º-A, 127.º-A, 130.º-A, 131.º-A, 137.º-A, 140.º-A e 141.º-A, que a seguir se indicam:
 
-###### Art. 2.º Os artigos do 1.º grupo são obtidos pelos sargentos e praças da seguinte maneira:
+Art. 2.º Os artigos do 1.º grupo são obtidos pelos sargentos e praças da seguinte maneira:
 
 a) Os dos sargentos são adquiridos directamente por eles nas unidades e serviços na Fábrica Nacional de Cordoaria, nas Oficinas Gerais de Fardamento e no mercado e, a crédito, nas Oficinas Gerais de Fardamento e na Fábrica Nacional de Cordoaria;
 
 b) Os das praças são-lhes fornecidos pelas unidades ou serviços e requisitados pelos respectivos conselhos administrativos ao Depósito de Fardamento. Estes artigos são pagos pelas praças através do auxílio para fardamento a que se refere o artigo 168.º deste Regulamento e, em caso de dívida elevada, através de descontos nos seus vencimentos.
 
-###### Art. 3.º Os artigos do 2.º grupo são fornecidos gratuitamente aos sargentos e praças, que ficam seus detentores enquanto estiverem na efectividade do serviço e mantiverem graduação que ao seu uso dê direito. São pessoalmente responsáveis pela sua conservação e duração, dentro dos prazos mínimos fixados, e devem fazer-se acompanhar deles sempre que mudem de situação. Findos os respectivos prazos, os sargentos e praças receberão normalmente novos artigos e entregarão em troca os artigos incapazes, ficando sujeitos ao pagamento da correspondente indemnização caso tenham deixado extraviar qualquer deles, salvo nos casos expressos neste Regulamento. Os conselhos administrativos requisitarão os artigos deste grupo ao Depósito de Fardamento.
+Art. 3.º Os artigos do 2.º grupo são fornecidos gratuitamente aos sargentos e praças, que ficam seus detentores enquanto estiverem na efectividade do serviço e mantiverem graduação que ao seu uso dê direito. São pessoalmente responsáveis pela sua conservação e duração, dentro dos prazos mínimos fixados, e devem fazer-se acompanhar deles sempre que mudem de situação. Findos os respectivos prazos, os sargentos e praças receberão normalmente novos artigos e entregarão em troca os artigos incapazes, ficando sujeitos ao pagamento da correspondente indemnização caso tenham deixado extraviar qualquer deles, salvo nos casos expressos neste Regulamento. Os conselhos administrativos requisitarão os artigos deste grupo ao Depósito de Fardamento.
 
-###### Art. 4.º Os artigos do 3.º grupo são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga. São distribuídos aos sargentos e praças para a execução de certos serviços, findos os quais os deverão devolver, e também quando mudem de situação. Estes artigos são requisitados pelos conselhos administrativos à Direcção do Serviço de Abastecimento (depósito de artefactos).
+Art. 4.º Os artigos do 3.º grupo são pertença de cada unidade ou serviço, em cujas contas de material devem estar à carga. São distribuídos aos sargentos e praças para a execução de certos serviços, findos os quais os deverão devolver, e também quando mudem de situação. Estes artigos são requisitados pelos conselhos administrativos à Direcção do Serviço de Abastecimento (depósito de artefactos).
 
-###### Art. 5.º-A. As âncoras metálicas das bóinas para sargentos e para praças das unidades de fuzileiros especiais (fig. 27-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
+Art. 5.º-A. As âncoras metálicas das bóinas para sargentos e para praças das unidades de fuzileiros especiais (fig. 27-A) são de metal oxidado, de 0,035 m de altura por 0,020 m de largura.
 
-###### Art. 5.º-B. As âncoras metálicas do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
+Art. 5.º-B. As âncoras metálicas do colarinho da camisa azul para sargentos e praças (fig. 27-A) são de metal oxidado, de 0,017 m de altura por 0,010 m de largura.
 
-###### Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
+Art. 6.º A blusa azul para praças (figs. 1 e 2) é de flanela de lã sarjada azul-ferrete, sem forro, talhada em quimono de duas peças, formando uma a parte anterior e a outra a posterior. Do lado esquerdo do peito tem uma algibeira interior em zuarte azul-ferrete de 0,120 m de largura, 0,170 m de altura máxima e de 0,130 m de abertura, sendo esta inclinada 30º para facilitar a sua utilização.
 
 A manga é de uma só costura, com canhão sobreposto do próprio tecido, de 0,050 m de altura, pregado com quatro pespontos paralelos, formando dois bicos, nos quais o canhão atinge a altura máxima de 0,080 m.
 
@@ -127,7 +135,7 @@ Para as praças especializadas em submersíveis a blusa leva no peito, do lado d
 
 Para as praças das restantes especializações a elipse do distintivo da classe colocado no braço esquerdo leva inferiormente o respectivo distintivo de especialização (figs. 78 a 82-J) bordado do mesmo fio.
 
-###### Art. 7.º A blusa branca para praças é de algodão e de terylene branco, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
+Art. 7.º A blusa branca para praças é de algodão e de terylene branco, com o talhe da azul. A parte inferior dos canhões das mangas e do corpo da blusa tem um debrum de zuarte azul de 0,015 m de largura, levando a parte superior dos canhões um pesponto branco.
 
 A fita de seda para prender a manta é branca, sendo igualmente brancos os ilhós onde ela enfia e os botões de massa dos canhões.
 
@@ -139,7 +147,7 @@ Na blusa branca apenas se usam os distintivos de especialização em submersíve
 
 ...
 
-###### Art. 9.º O blusão para sargentos e para praças da música (figs. 4 e 5) é de algodão e terylene azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 6, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 7, que serve para abotoar uma casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
+Art. 9.º O blusão para sargentos e para praças da música (figs. 4 e 5) é de algodão e terylene azul, de talhe folgado, para permitir liberdade de movimentos. A gola é voltada, com bandas de 0,120 m de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 0,050 m. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 6, em carcela de 0,050 m de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto do padrão n.º 7, que serve para abotoar uma casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso de gravata preta com a camisa azul.
 
 Na altura do peito, de cada lado, tem uma algibeira exterior, de 0,140 m de altura por 0,120 m de largura, fazendo um fole sobreposto de 0,040 m de largura. Por cima de cada algibeira, a uma distância de 0,010 m, existe uma portinhola, de duplo recorte, terminada em bico, com largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão do padrão n.º 2 ou 3, conforme forem primeiros-sargentos e segundos-sargentos ou praças da música, pregado sobre o fole da algibeira.
 
@@ -151,15 +159,15 @@ Nos ombros tem platinas fixas do mesmo tecido, com 0,040 m de largura, que aboto
 
 § único. No blusão não se usam distintivos de especialização.
 
-###### Art. 9.º-A. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro, na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite de debrum.
+Art. 9.º-A. A boina de um só pano para sargentos e para praças das unidades de fuzileiros especiais é de lã azul-ferrete, forrada interiormente com um tecido preto, debruada no limite inferior com uma tira de carneira preta de 0,025 m, que forma um vivo de 0,010 m e se desenvolve verticalmente por dentro, na área correspondente ao distintivo; por dentro do debrum corre uma fita preta, de 0,050 m de largura, a qual forma um nó atrás e cujas pontas caem livremente com um comprimento entre 0,010 m e 0,012 m; copa com um desenvolvimento radial de 0,040 m a 0,060 m em relação ao perímetro do debrum; no lado direito, dois ilhós metálicos de ventilação, pretos, com 0,005 m de diâmetro e cujos centros distam 0,035 m entre si e 0,035 m do limite de debrum.
 
 Na parte anterior e diametralmente oposta ao nó das pontas, é aplicada como distintivo uma âncora metálica do modelo descrito no artigo 5.º-A e cujo centro fica a 0,035 m acima do debrum.
 
 ...
 
-###### Art. 12.º O boné para praças da música é igual ao descrito no artigo 11.º, mas os botões são do padrão n.º 4 e o emblema é todo bordado a prata.
+Art. 12.º O boné para praças da música é igual ao descrito no artigo 11.º, mas os botões são do padrão n.º 4 e o emblema é todo bordado a prata.
 
-###### Art. 13.º O boné para praças (figs. 7, 8 e 9) é de plástico branco.
+Art. 13.º O boné para praças (figs. 7, 8 e 9) é de plástico branco.
 
 Tem cinta cilíndrica, de 0,040 m de altura, sendo a parte superior (0,025 m) de plástico e a parte inferior (0,015 m) de pano de lã azul-ferrete com vivo deste mesmo pano a 0,015 m da aresta inferior.
 
@@ -171,7 +179,7 @@ O francalete é de fita de algodão azul-ferrete, com 0,020 m de largura. O bon�
 
 Interiormente é todo forrado de linol creme-claro, tendo uma tira de carneira com 0,040 m de largura que fica em contacto com a cabeça.
 
-###### Art. 14.º O boné de bivaque para sargentos-ajudantes (figs. 11 e 12) é de algodão e terylene azul, com copa formada por três peças: nas laterais, unidas com costuras verticais à frente e atrás da cabeça, e uma superior, unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
+Art. 14.º O boné de bivaque para sargentos-ajudantes (figs. 11 e 12) é de algodão e terylene azul, com copa formada por três peças: nas laterais, unidas com costuras verticais à frente e atrás da cabeça, e uma superior, unida com costuras longitudinais às peças laterais e vincada ao centro no sentido do comprimento. As peças laterais têm de altura: 0,100 m à frente, 0,130 m a meio e 0,090 m atrás e a peça superior tem o comprimento da cabeça e a largura de 0,095 m.
 
 Tem duas abas laterais (rebuço) cosidas atrás uma à outra e interiormente em toda a periferia do boné; estas abas são voltadas para cima e têm de altura: 0,050 m à frente, 0,080 m ao lado e 0,065 m atrás, sendo de feitio apropriado para virar para baixo, agasalhando as orelhas e cobrindo a nuca.
 
@@ -179,13 +187,13 @@ Do lado esquerdo da cabeça leva uma âncora com 0,025 m de altura (fig. 13) bor
 
 Interiormente é forrado com uma tira de carneira, com 0,040 m de largura, que fica em contacto com a cabeça.
 
-###### Art. 15.º O boné de bivaque para primeiros-sargentos e segundos-sargentos e praças da música é igual ao descrito no artigo 14.º, mas a âncora é bordada a algodão perlé vermelho-cochonilha.
+Art. 15.º O boné de bivaque para primeiros-sargentos e segundos-sargentos e praças da música é igual ao descrito no artigo 14.º, mas a âncora é bordada a algodão perlé vermelho-cochonilha.
 
-###### Art. 16.º As botas para sargentos e praças (fig. 14) são de bezerro waterproof, de cor preta, com biqueira, sem enfeites e sem presilha, tendo de cada lado oito ilhós pretos onde trabalha um atacador da mesma cor e têm sola de meio rasto. Têm no cano dois grampos para prender os polainitos brancos ou pretos, do modelo descrito na alínea a) do n.º 6 do artigo 142.º deste Regulamento.
+Art. 16.º As botas para sargentos e praças (fig. 14) são de bezerro waterproof, de cor preta, com biqueira, sem enfeites e sem presilha, tendo de cada lado oito ilhós pretos onde trabalha um atacador da mesma cor e têm sola de meio rasto. Têm no cano dois grampos para prender os polainitos brancos ou pretos, do modelo descrito na alínea a) do n.º 6 do artigo 142.º deste Regulamento.
 
 ...
 
-###### Art. 19.º Os botões de metal para praças da música e para cabos e marinheiros da subclasse dos despenseiros são de latão, redondos, lisos e com uma âncora gravada.
+Art. 19.º Os botões de metal para praças da música e para cabos e marinheiros da subclasse dos despenseiros são de latão, redondos, lisos e com uma âncora gravada.
 
 São de dois padrões:
 
@@ -195,17 +203,17 @@ N.º 4 com 0,015 m de diâmetro (fig. 18).
 
 ...
 
-###### Art. 21.º As calças azuis (padrão n.º 1) para sargentos e praças da música são de pano de lã azul-ferrete, direitas, com algibeiras nas costuras laterais.
+Art. 21.º As calças azuis (padrão n.º 1) para sargentos e praças da música são de pano de lã azul-ferrete, direitas, com algibeiras nas costuras laterais.
 
 Largura inferior da perna entre 0,230 m e 0,280 m e bainha interior de 0,035 m de altura.
 
-###### Art. 21.º-A. As calças azuis (padrão n.º 2) para sargentos e praças da música (figs. 23-B e 24-B) são de algodão e terylene azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 7.
+Art. 21.º-A. As calças azuis (padrão n.º 2) para sargentos e praças da música (figs. 23-B e 24-B) são de algodão e terylene azul, sem listas nem pestanas, direitas, tendo de cada lado, na folha da frente uma algibeira interior com abertura inclinada a 30º; a parte inferior da abertura começa na costura lateral. Na parte posterior tem de cada lado uma algibeira interior com abertura de 0,150 m tendo superiormente uma portinhola de duplo recorte terminada em bico, com a largura de 0,060 m ao centro e 0,050 m nos extremos; nesta portinhola está aberta uma casa para abotoar num botão preto do padrão n.º 7.
 
 Tem cós de 0,040 m de altura com sete passadeiras para o cinto.
 
 Largura inferior da perna entre 0,230 m e 0,280 m.
 
-###### Art. 22.º As calças azuis (padrão n.º 3) para praças (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete, sem listas nem pestanas, tendo alçapão, que é abotoado à frente com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimento.
+Art. 22.º As calças azuis (padrão n.º 3) para praças (figs. 23 e 24) são de flanela de lã sarjada azul-ferrete, sem listas nem pestanas, tendo alçapão, que é abotoado à frente com quatro botões do padrão n.º 7, colocados transversalmente. No interior, o alçapão possui duas abas, abotoadas a meio por três botões do mesmo padrão, levando a aba do lado direito uma algibeira de 0,015 m de largura e 0,019 m de comprimento.
 
 O cós da calça tem 0,060 m de altura, leva sete passadeiras e o forro do cós é do mesmo tecido.
 
@@ -213,11 +221,11 @@ As calças em baixo são cortadas em feitio de boca de sino, com largura inferio
 
 ...
 
-###### Art. 24.º As calças brancas para sargentos e praças da música são de algodão e terylene branco e com o talhe indicado no artigo 21.º
+Art. 24.º As calças brancas para sargentos e praças da música são de algodão e terylene branco e com o talhe indicado no artigo 21.º
 
-###### Art. 25.º As calças brancas para praças são de algodão e terylene branco, com o talhe indicado no artigo 22.º, tendo as algibeiras interiores e o forro do cós em pano cru e os botões brancos.
+Art. 25.º As calças brancas para praças são de algodão e terylene branco, com o talhe indicado no artigo 22.º, tendo as algibeiras interiores e o forro do cós em pano cru e os botões brancos.
 
-###### Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são de algodão e terylene azul, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,040 m de largura.
+Art. 26.º As calças de trabalho para sargentos e praças (figs. 23-A e 24-A) são de algodão e terylene azul, direitas, sem listas nem pestanas, tendo braguilha abotoada com seis botões pretos do padrão n.º 7, em carcela de 0,040 m de largura.
 
 De cada lado, junto à costura lateral, tem uma algibeira interior de 0,150 m de largura por 0,250 m de altura, de zuarte azul-ferrete; a abertura desta algibeira é vertical e está colocada na costura lateral das calças.
 
@@ -227,11 +235,11 @@ Tem cós de 0,040 m de altura, o qual, para segurar o cinto, leva sete passadeir
 
 Largura inferior da perna entre 0,250 m e 0,280 m e a bainha interior de 0,035 m de altura.
 
-###### Art. 27.º Os calções de banho para sargentos e praças são de sarja de nylon surat azul-escuro. Interiormente têm uma trousse de mousse nylon.
+Art. 27.º Os calções de banho para sargentos e praças são de sarja de nylon surat azul-escuro. Interiormente têm uma trousse de mousse nylon.
 
 O ajustamento à cintura é feito por meio de uma bainha elástica, reforçada por um cordão de seda.
 
-###### Art. 28.º Os calções brancos para sargentos e praças (fig. 25) são de algodão e terylene branco liso, abotoados à frente com seis botões brancos do padrão n.º 7, dos quais os quatro inferiores em carcela de 0,040 m de largura.
+Art. 28.º Os calções brancos para sargentos e praças (fig. 25) são de algodão e terylene branco liso, abotoados à frente com seis botões brancos do padrão n.º 7, dos quais os quatro inferiores em carcela de 0,040 m de largura.
 
 À frente, de cada lado, têm uma algibeira interior de pano cru de 0,150 m de largura por 0,250 m de altura, com a abertura oblíqua de 0,170 m de comprimento, fazendo um ângulo de 20º com a costura lateral da perna.
 
@@ -243,9 +251,9 @@ Comprimento da perna até 0,075 m acima da curva do joelho, estando o militar na
 
 Largura inferior da perna entre 0,350 m e 0,400 m e bainha interior de 0,035 m de altura.
 
-###### Art. 29.º Os calções de trabalho para sargentos e praças (figs. 25 e 26) são de algodão e terylene azul, de talhe igual ao dos calções brancos, descrito no artigo 28.º, mas com botões pretos, e com as algibeiras interiores e o forro do cós de zuarte azul-ferrete.
+Art. 29.º Os calções de trabalho para sargentos e praças (figs. 25 e 26) são de algodão e terylene azul, de talhe igual ao dos calções brancos, descrito no artigo 28.º, mas com botões pretos, e com as algibeiras interiores e o forro do cós de zuarte azul-ferrete.
 
-###### Art. 30.º A camisa azul para sargentos e praças (fig. 27) é de tecido de poliéster e algodão, com colarinho pegado de 0,035 m de altura atrás e de 0,075 m nos bicos, de manga comprida com punhos simples, de 0,060 m de altura, abotoada por um botão cinzento azulado do padrão n.º 7.
+Art. 30.º A camisa azul para sargentos e praças (fig. 27) é de tecido de poliéster e algodão, com colarinho pegado de 0,035 m de altura atrás e de 0,075 m nos bicos, de manga comprida com punhos simples, de 0,060 m de altura, abotoada por um botão cinzento azulado do padrão n.º 7.
 
 O colarinho tem, a 0,050 m dos vértices exteriores e na linha da bissectriz do ângulo formado nos bicos, orifícios caseados para colocar as âncoras metálicas, descritas no artigo 5.º-B.
 
@@ -257,17 +265,17 @@ Na altura do peito, de cada lado, tem uma algibeira exterior de 0,120 m de altur
 
 § único. Na camisa não se usam distintivos de especialização.
 
-###### Art. 31.º A camisa branca (padrão n.º 1) para sargentos e praças da música é de tecido liso branco com colarinho pegado indeformável, de manga comprida com punho de ida e volta.
+Art. 31.º A camisa branca (padrão n.º 1) para sargentos e praças da música é de tecido liso branco com colarinho pegado indeformável, de manga comprida com punho de ida e volta.
 
 A camisa é toda aberta à frente e abotoada com seis botões brancos do padrão n.º 8.
 
-###### Art. 31.º-A. A camisa branca (padrão n.º 2) para sargentos e praças da música é de tecido liso de algodão branco (popelina), com cós para prender o colarinho, de manga comprida com punho de ida e volta.
+Art. 31.º-A. A camisa branca (padrão n.º 2) para sargentos e praças da música é de tecido liso de algodão branco (popelina), com cós para prender o colarinho, de manga comprida com punho de ida e volta.
 
 A camisa é toda aberta à frente e abotoa com cinco botões brancos do padrão n.º 8.
 
 § único. É obrigatório o uso desta camisa por debaixo do dólman branco.
 
-###### Art. 32.º A camisa branca (padrão n.º 3) para sargentos e praças da música (fig. 28) é de tecido de algodão e terylene branco, sarjado, com colarinho pegado para usar aberta e formar bandas (com o primeiro botão desabotoado) e sem gravata, com a manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 8, que servem para enfiar as passadeiras.
+Art. 32.º A camisa branca (padrão n.º 3) para sargentos e praças da música (fig. 28) é de tecido de algodão e terylene branco, sarjado, com colarinho pegado para usar aberta e formar bandas (com o primeiro botão desabotoado) e sem gravata, com a manga até 0,025 m acima da curva do cotovelo, tendo nos ombros platinas fixas do mesmo tecido, de 0,040 m de largura, abotoadas debaixo do colarinho com um botão branco do padrão n.º 8, que servem para enfiar as passadeiras.
 
 A camisa é toda aberta à frente e abotoada com seis botões brancos do padrão n.º 8.
 
@@ -277,9 +285,9 @@ Na altura do peito, de cada lado, tem uma algibeira exterior, como a da camisa a
 
 ...
 
-###### Art. 34.º A capa branca para boné de sargentos e praças da música é de algodão e terylene branco.
+Art. 34.º A capa branca para boné de sargentos e praças da música é de algodão e terylene branco.
 
-###### Art. 35.º O casacão para praças (fig. 30) é de pano de lã azul-ferrete, forrado de flanela mista preta, de talhe amplo, com gola voltada, com 0,070 m de altura atrás, de 0,100 m de altura nos bicos, talhada de forma a unir à frente.
+Art. 35.º O casacão para praças (fig. 30) é de pano de lã azul-ferrete, forrado de flanela mista preta, de talhe amplo, com gola voltada, com 0,070 m de altura atrás, de 0,100 m de altura nos bicos, talhada de forma a unir à frente.
 
 Tem à frente duas ordens paralelas de quatro botões pretos de padrão n.º 5 abotoando na do lado direito. No prolongamento da ordem de botões do lado direito e debaixo da gola há um botão igual que serve para abotoar uma casa existente no prolongamento das outras; este botão pode usar-se desabotoado.
 
@@ -293,21 +301,21 @@ Em ambas as mangas, na folha exterior, as divisas e os distintivos de classe com
 
 No casacão não se usam distintivos de especialização.
 
-###### Art. 36.º O chapéu para praças (figs. 31 e 32) é de algodão e terylene branco, com copa formada por seis gomos. As abas, de 0,070 m de altura, são voltadas para cima, com o perímetro superior excedendo 0,040 m o inferior, sendo, a partir de 0,010 m do extremo superior, cheias de pespontos horizontais (intervalados de 0,002 m) para lhes aumentar a consistência. Interiormente é forrado com uma tira do mesmo tecido com 0,025 m de largura, que fica em contacto com a cabeça.
+Art. 36.º O chapéu para praças (figs. 31 e 32) é de algodão e terylene branco, com copa formada por seis gomos. As abas, de 0,070 m de altura, são voltadas para cima, com o perímetro superior excedendo 0,040 m o inferior, sendo, a partir de 0,010 m do extremo superior, cheias de pespontos horizontais (intervalados de 0,002 m) para lhes aumentar a consistência. Interiormente é forrado com uma tira do mesmo tecido com 0,025 m de largura, que fica em contacto com a cabeça.
 
-###### Art. 36.º-A. O cinto azul para sargentos e praças (figs. 33 e 34) é de precinta de algodão azul com 0,030 m de largura, ligado num dos extremos a uma fivela lisa de latão oxidado.
+Art. 36.º-A. O cinto azul para sargentos e praças (figs. 33 e 34) é de precinta de algodão azul com 0,030 m de largura, ligado num dos extremos a uma fivela lisa de latão oxidado.
 
-###### Art. 37.º O cinto branco para sargentos e praças (figs. 33 e 34) é de precinta de algodão branco, com 0,030 m de largura, ligado num dos extremos a uma fivela lisa de metal cromado.
+Art. 37.º O cinto branco para sargentos e praças (figs. 33 e 34) é de precinta de algodão branco, com 0,030 m de largura, ligado num dos extremos a uma fivela lisa de metal cromado.
 
 ...
 
-###### Art. 40.º O colarinho de alcaxa para praças (fig. 38) é constituído por um cabeção de zuarte azul-ferrete, de 0,360 m de largura por 0,230 m de altura, cosido a duas bandas do mesmo tecido com 0,450 m de comprimento, formando um decote em V que termina a 0,100 m do extremo das bandas, tudo forrado com zuarte igual ao da face exterior.
+Art. 40.º O colarinho de alcaxa para praças (fig. 38) é constituído por um cabeção de zuarte azul-ferrete, de 0,360 m de largura por 0,230 m de altura, cosido a duas bandas do mesmo tecido com 0,450 m de comprimento, formando um decote em V que termina a 0,100 m do extremo das bandas, tudo forrado com zuarte igual ao da face exterior.
 
 Tanto o cabeção como as bandas são guarnecidos com três fitas de algodão branco, de 0,005 m de largura, intervaladas umas das outras de 0,003 m, ficando a fita exterior a 0,015 m das orlas. Da origem do cabeção, ao centro, nasce uma tira de cotim branco, com 0,140 m de largura e 0,450 m de comprimento, que desce pelas costas e de cuja extremidade inferior sai, para um e outro lado, uma fita do mesmo cotim, com 0,030 m de largura e 0,450 m de comprimento, que vai abotoar num botão branco do padrão n.º 7 existente na parte inferior da banda desse lado; por cada botão haverá mais uma casa sobresselente para facilitar o ajustamento individual. Usa-se sobre o cabeção das blusas.
 
 ...
 
-###### Art. 42.º O corpete para praças (fig. 39) é de tecido de algodão e terylene sarjado, branco, tendo decote rectangular com um debrum de zuarte azul-ferrete, de 0,013 m de largura. Manga até 0,025 m acima da curva do cotovelo para, quando o corpete se usar exteriormente, se lhe colocarem as divisas e os distintivos como na blusa branca.
+Art. 42.º O corpete para praças (fig. 39) é de tecido de algodão e terylene sarjado, branco, tendo decote rectangular com um debrum de zuarte azul-ferrete, de 0,013 m de largura. Manga até 0,025 m acima da curva do cotovelo para, quando o corpete se usar exteriormente, se lhe colocarem as divisas e os distintivos como na blusa branca.
 
 Na altura do peito, de cada lado, tem uma algibeira exterior, como a da camisa azul (descrito no artigo 30.º), mas com botão branco do padrão n.º 8.
 
@@ -317,7 +325,7 @@ Na altura do peito, de cada lado, tem uma algibeira exterior, como a da camisa a
 
 ...
 
-###### Art. 44.º Os distintivos de postos e graduações são os seguintes:
+Art. 44.º Os distintivos de postos e graduações são os seguintes:
 
 1) Sargento-ajudante (fig. 41). - Um escudo nacional em cada manga ou passadeira, de 0,015 m de altura e 0,014 m de largura, circundado por uma palma com um ramo de loureiro e outro de carvalho, tudo bordado a fio de ouro e com o fundo do escudo em prata, formando o conjunto bordado uma figura de 0,035 m x 0,035 m. Usa também em cada manga ou passadeira o distintivo da classe bordado a fio de ouro.
 
@@ -363,7 +371,7 @@ b) O que provenha da vida civil - usa o distintivo da classe correspondente ao c
 
 ...
 
-###### Art. 46.º Os distintivos de classe são os seguintes:
+Art. 46.º Os distintivos de classe são os seguintes:
 
 I) Dos artilheiros (fig. 51). - Dois corpos de peça de artilharia com 0,050 m de comprimento cada, cruzados em ângulo recto e com as boladas para cima, formando uma figura de 0,040 m x 0,040 m.
 
@@ -413,7 +421,7 @@ XX) Dos fuzileiros (fig. 77-A). - Duas pistolas-metralhadoras completas com cano
 
 § único. Os auxiliares da extinta classe de serviços gerais usarão (fig. 76) uma âncora igual à da classe de manobra com a haste sobreposta por um quadrado de 0,010 m de lado com um dos vértices virado para baixo, formando uma figura de 0,040 m de altura por 0,025 m de largura.
 
-###### Art. 47.º Os distintivos das especializações são os seguintes:
+Art. 47.º Os distintivos das especializações são os seguintes:
 
 1) Apontadores (fig. 78). - Um círculo com 0,024 m de diâmetro representando o campo de uma ocular com os respectivos retículos.
 
@@ -447,7 +455,7 @@ XX) Dos fuzileiros (fig. 77-A). - Duas pistolas-metralhadoras completas com cano
 
 ...
 
-###### Art. 50.º-A O distintivo de frequência do curso de formação de oficiais do serviço especial para sargentos e praças é uma estrela de seis pontas, com 0,0075 m de raio (fig. 88-A), bordada a fio de ouro num círculo de pano azul-ferrete de 0,011 m de raio
+Art. 50.º-A O distintivo de frequência do curso de formação de oficiais do serviço especial para sargentos e praças é uma estrela de seis pontas, com 0,0075 m de raio (fig. 88-A), bordada a fio de ouro num círculo de pano azul-ferrete de 0,011 m de raio
 
 § 1.º Os sargentos-ajudantes usam-no colocado entre o escudo e o distintivo da classe, nas platinas e nas passadeiras e em ambas as mangas do jaquetão, imediatamente abaixo do distintivo da classe.
 
@@ -457,23 +465,23 @@ XX) Dos fuzileiros (fig. 77-A). - Duas pistolas-metralhadoras completas com cano
 
 ...
 
-###### Art. 53.º-A. O distintivo de sargentos e praças que prestem serviço, com carácter permanente, nas unidades de mergulhadores sapadores é um cordão azul-claro usado no ombro esquerdo.
+Art. 53.º-A. O distintivo de sargentos e praças que prestem serviço, com carácter permanente, nas unidades de mergulhadores sapadores é um cordão azul-claro usado no ombro esquerdo.
 
 O cordão é de lã, cilíndrico (fig. 92-A), que, sob a forma de canotão e partindo da parte interior do ombro onde abotoa com trancelim de lã com botão branco ou preto do padrão n.º 8, rodeia o braço junto ao extremo superior da manga, apertando com pinha de anel de correr.
 
 § único. Este distintivo é usado nos uniformes n.os 1, 2, 3, 4, 5-A e 5-B.
 
-###### Art. 53.º-B. O distintivo de sargentos e praças que prestam serviço em unidades de fuzileiros constituídas com carácter permanente é um cordão vermelho usado no ombro esquerdo (fig. 92-A).
+Art. 53.º-B. O distintivo de sargentos e praças que prestam serviço em unidades de fuzileiros constituídas com carácter permanente é um cordão vermelho usado no ombro esquerdo (fig. 92-A).
 
 O cordão é igual ao descrito no artigo 53.º-A e é usado nos mesmos uniformes indicados no § único desse artigo.
 
 ...
 
-###### Art. 55.º O dólman branco para sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
+Art. 55.º O dólman branco para sargentos-ajudantes (figs. 95 e 96) é igual ao determinado para os oficiais, tendo em cada ombro duas pequenas passadeiras do mesmo tecido para fixação da platina rígida.
 
 Os sargentos-ajudantes especializados em submersíveis usam no peito, do lado direito, o respectivo distintivo de especialização, confeccionado em metal dourado.
 
-###### Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
+Art. 56.º O dólman branco para primeiros-sargentos, segundos-sargentos e praças da música (figs. 97 e 98) é de algodão e terylene branco, ligeiramente cintado, fechado, com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana interior.
 
 Abotoa à frente com uma ordem de seis botões do padrão n.º 1 para os primeiros-sargentos e segundos-sargentos e do padrão n.º 3 para as praças da música; o botão superior fica distanciado 0,030 m da gola.
 
@@ -487,7 +495,7 @@ Nos ombros têm platinas fixas do mesmo algodão e terylene, com 0,40 m de largu
 
 ...
 
-###### Art. 58.º A fita para boné das praças (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,850 m de comprimento; as letras de legenda são em tipo de imprensa, maiúsculo, tecidas com fio de seda natural de cor amarela e têm 0,013 m de altura.
+Art. 58.º A fita para boné das praças (figs. 7 e 8) é de seda preta, com 0,028 m de largura e 0,850 m de comprimento; as letras de legenda são em tipo de imprensa, maiúsculo, tecidas com fio de seda natural de cor amarela e têm 0,013 m de altura.
 
 A fita é colocada com a legenda para a frente, dando uma laçada do lado esquerdo da cabeça na fivela especial descrita no artigo 59.º, sem que as pontas fiquem caídas.
 
@@ -495,13 +503,13 @@ As fitas pertencentes a este grupo têm a legenda «Armada» e são usadas pelas
 
 § único. As fitas para boné, com legendas privativas de unidades (artigo 134.º), pertencem aos artigos do 3.º grupo.
 
-###### Art. 59.º A fivela para boné das praças (fig. 10) é de alumínio pintado de preto, com 0,020 m de altura por 0,025 m de largura, tendo cinco ranhuras verticais, de 0,015 m de altura por 0,0015 m de largura, onde passa a fita, que dá uma laçada, como se vê na fig. 8.
+Art. 59.º A fivela para boné das praças (fig. 10) é de alumínio pintado de preto, com 0,020 m de altura por 0,025 m de largura, tendo cinco ranhuras verticais, de 0,015 m de altura por 0,0015 m de largura, onde passa a fita, que dá uma laçada, como se vê na fig. 8.
 
-###### Art. 59.º-A. A gravata de lã para sargentos e para praças da música é preta, própria para fazer um nó.
+Art. 59.º-A. A gravata de lã para sargentos e para praças da música é preta, própria para fazer um nó.
 
-###### Art. 60.º A gravata de seda para sargentos e para praças da música é preta, própria para fazer um nó.
+Art. 60.º A gravata de seda para sargentos e para praças da música é preta, própria para fazer um nó.
 
-###### Art. 61.º A jaqueta branca para sargentos da classe da taifa (figs. 101 e 102) é de algodão e terylene branco, cintada, fechada com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana inferior.
+Art. 61.º A jaqueta branca para sargentos da classe da taifa (figs. 101 e 102) é de algodão e terylene branco, cintada, fechada com gola direita entretelada, de cantos rectangulares, com altura entre 0,030 m e 0,050 m, unida por dois colchetes, tendo pestana inferior.
 
 Abotoa à frente com uma ordem de oito botões do padrão n.º 2; o botão superior fica distanciado 0,050 m da gola.
 
@@ -511,9 +519,9 @@ O comprimento da jaqueta vai até à altura da cinta.
 
 No peito, do lado esquerdo, é colocada uma âncora bordada a fio de ouro do mesmo feitio e tamanho da que serve de distintivo à classe de manobra.
 
-###### Art. 62.º A jaqueta branca para cabos e marinheiros da subclasse dos despenseiros é como a descrita no artigo 61.º sendo os botões do padrão n.º 4, e não tem âncora no peito.
+Art. 62.º A jaqueta branca para cabos e marinheiros da subclasse dos despenseiros é como a descrita no artigo 61.º sendo os botões do padrão n.º 4, e não tem âncora no peito.
 
-###### Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
+Art. 63.º O jaquetão azul para sargentos-ajudantes (figs. 103 e 104) é de pano de lã azul-ferrete, ligeiramente cintado e forrado de cetim preto. Gola voltada, com bandas de largura entre 0,100 m e 0,120 m. É assertoado com duas ordens de quatro botões de metal iguais aos dos oficiais, ligeiramente divergentes, dos quais os três inferiores são para usar abotoados. Quando abotoados, os botões inferiores das duas ordens ficam distanciados de 0,120 m a 0,140 m; em cada uma das ordens os botões ficam espaçados de 0,075 m a 0,095 m, segundo a altura do militar.
 
 Mangas fechadas sem canhões, mas com dois botões pequenos de metal iguais aos dos oficiais, junto à costura.
 
@@ -527,7 +535,7 @@ Para os sargentos-ajudantes especializados em submersíveis o jaquetão leva no 
 
 Para os restantes sargentos-ajudantes especializados a elipse do distintivo de classe, colocada no braço esquerdo, leva inferiormente o respectivo distintivo de especialização bordado a fio de ouro.
 
-###### Art. 64.º O jaquetão azul para primeiros-sargentos e segundos-sargentos (figs. 105 e 106) é igual ao anterior, mas os botões grandes são os do padrão n.º 1 e os pequenos do padrão n.º 2.
+Art. 64.º O jaquetão azul para primeiros-sargentos e segundos-sargentos (figs. 105 e 106) é igual ao anterior, mas os botões grandes são os do padrão n.º 1 e os pequenos do padrão n.º 2.
 
 Em ambas as mangas, na folha exterior, o jaquetão leva cosidas as divisas correspondentes à graduação, em fio de ouro brilhante, conforme foi descrito no artigo 44.º, n.os 2 e 3, e colocadas com o vértice superior a 0,080 m do pregado da manga. Por baixo, a 0,016 m do vértice inferior das divisas (figs. 42 e 44), leva cosida uma elipse de pano de lã azul-ferrete, igual à usada pelos sargentos-ajudantes, com o distintivo da classe bordado também a fio de ouro; para os primeiros-sargentos reunindo todas as condições de promoção (fig. 43) o intervalo de 0,016 m é reduzido a metade.
 
@@ -535,47 +543,47 @@ Usam os distintivos de especialização como os sargentos-ajudantes.
 
 ...
 
-###### Art. 66.º A «jersey» para praças (fig. 107) é de malha de lã azul-escura e com mangas até aos pulsos. A gola, de malha canelada, é justa ao pescoço tem 0,040 m de altura. O canhão das mangas, também de malha canelada, tem 0,100 m de altura. As costuras de ligação do corpo, da gola e das mangas são arrematadas por dentro sem lhes tirar a elasticidade. No corpo, bainha inferior de 0,050 m de altura.
+Art. 66.º A «jersey» para praças (fig. 107) é de malha de lã azul-escura e com mangas até aos pulsos. A gola, de malha canelada, é justa ao pescoço tem 0,040 m de altura. O canhão das mangas, também de malha canelada, tem 0,100 m de altura. As costuras de ligação do corpo, da gola e das mangas são arrematadas por dentro sem lhes tirar a elasticidade. No corpo, bainha inferior de 0,050 m de altura.
 
 ...
 
-###### Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins, da subclasse dos despenseiros e especializados em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
+Art. 68.º As luvas brancas para sargentos, praças das classes da música e de mestres clarins, da subclasse dos despenseiros e especializados em clarins (fig. 108) são de algodão, lisas, sem enfeites, abotoando com um botão branco.
 
 ...
 
-###### Art. 71.º A manta para praças é de fio de fibra sintética poliester, lisa, de cor preta, com 1,300 m de comprimento por 0,250 m de largura, unida nos extremos por uma costura, usando-se por debaixo do cabeção das blusas.
+Art. 71.º A manta para praças é de fio de fibra sintética poliester, lisa, de cor preta, com 1,300 m de comprimento por 0,250 m de largura, unida nos extremos por uma costura, usando-se por debaixo do cabeção das blusas.
 
-###### Art. 72.º As meias brancas para sargentos e praças (fig. 111), são de algodão, caneladas, tipo sport, de altura até ao joelho; terminam superiormente por um canhão de 0,120 m para usar dobrado.
+Art. 72.º As meias brancas para sargentos e praças (fig. 111), são de algodão, caneladas, tipo sport, de altura até ao joelho; terminam superiormente por um canhão de 0,120 m para usar dobrado.
 
-###### Art. 73.º As meias pretas para sargentos e praças (fig. 111) são de algodão e de modelo igual às descritas no artigo 72.º
+Art. 73.º As meias pretas para sargentos e praças (fig. 111) são de algodão e de modelo igual às descritas no artigo 72.º
 
-###### Art. 74.º As passadeiras para sargentos-ajudantes (fig. 112) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas presilhas fixas existentes aos ombros de certos uniformes (bata, camisa azul, camisa branca padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudo e uniformes camuflados e de exercício), formando um rectângulo de 0,115 m x 0,055 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com o escudo nacional circundado pelo silvado, tudo bordado também no mesmo fio e com o fundo do escudo em prata.
+Art. 74.º As passadeiras para sargentos-ajudantes (fig. 112) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas presilhas fixas existentes aos ombros de certos uniformes (bata, camisa azul, camisa branca padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudo e uniformes camuflados e de exercício), formando um rectângulo de 0,115 m x 0,055 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante e com o escudo nacional circundado pelo silvado, tudo bordado também no mesmo fio e com o fundo do escudo em prata.
 
-###### Art. 75.º As passadeiras para primeiros-sargentos (fig. 113) são como as descritas no artigo 74.º e usam-se nos mesmos uniformes, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante de um só cordão, com 0,007 m de largura; cada uma delas é constituída por dois ramos de 0,030 m de comprimento, nascendo as pontas da primeira a 0,020 m, do extremo da passadeira e formando um ângulo de 120º, cujo vértice fica virado para cima; a distância entre duas divisas consecutivas é de 0,002m.
-
-...
-
-###### Art. 77.º As passadeiras para cabos (fig. 115) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas platinas fixas existentes nos ombros de certos uniformes (bata, blusão, camisa azul, camisa branca padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudo e uniformes camuflados e de exercício), formando um rectângulo de 0,070 m x 0,050 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de algodão perlé vermelho-cochonilha e com duas divisas de pano de lã da mesma cor, direitas, com 0,008 m de largura, intervaladas umas das outras de 0,002 m e deixando livre, na extremidade virada para o ombro, uma margem de 0,004 m.
+Art. 75.º As passadeiras para primeiros-sargentos (fig. 113) são como as descritas no artigo 74.º e usam-se nos mesmos uniformes, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de ouro brilhante de um só cordão, com 0,007 m de largura; cada uma delas é constituída por dois ramos de 0,030 m de comprimento, nascendo as pontas da primeira a 0,020 m, do extremo da passadeira e formando um ângulo de 120º, cujo vértice fica virado para cima; a distância entre duas divisas consecutivas é de 0,002m.
 
 ...
 
-###### Art. 82.º As passadeiras para primeiros-sargentos reunindo todas as condições de promoção (fig. 122) são como as dos primeiros-sargentos, mas têm por baixo das divisas e ligada à inferior uma divisa invertida com a mesma largura, constituída por dois ramos, de 0,030 m de comprimento, formando-se um ângulo de 120º.
-
-###### Art. 82.º-A. As passadeiras para cabos reunindo todas as condições de promoção (fig. 124) são iguais às dos cabos, mas têm sobreposto, a meio e perpendicularmente às divisas, um pequeno galão de fio de ouro brilhante, de um cordão, com 0,005 m de largura.
-
-###### Art. 83.º As passadeiras para sargentos e praças podem ser metálicas, mas apenas para uso no casaco de zuarte e no fato de zuarte.
-
-###### Art. 84.º As peúgas para sargentos e praças são pretas, lisas e sem enfeites.
-
-###### Art. 85.º As platinas para sargentos-ajudantes são rígidas, iguais às determinadas para os oficiais subalternos, mas com os distintivos indicados no artigo 74.º, e tendo na face inferior um dispositivo apropriado para enfiar nas pequenas passadeiras de algodão e terylene branco existentes nos ombros do dólman branco.
+Art. 77.º As passadeiras para cabos (fig. 115) são de pano de lã azul-ferrete, consistentes, próprias para serem enfiadas nas platinas fixas existentes nos ombros de certos uniformes (bata, blusão, camisa azul, camisa branca padrão n.º 3, casaco de zuarte, fato de zuarte, gabardina, impermeável, sobretudo e uniformes camuflados e de exercício), formando um rectângulo de 0,070 m x 0,050 m, guarnecidas na face superior com o distintivo da respectiva classe bordado a fio de algodão perlé vermelho-cochonilha e com duas divisas de pano de lã da mesma cor, direitas, com 0,008 m de largura, intervaladas umas das outras de 0,002 m e deixando livre, na extremidade virada para o ombro, uma margem de 0,004 m.
 
 ...
 
-###### Art. 90.º O sobretudo para segundos-sargentos e praças da música é igual ao descrito no artigo 89.º, mas sem a abertura para a espada.
+Art. 82.º As passadeiras para primeiros-sargentos reunindo todas as condições de promoção (fig. 122) são como as dos primeiros-sargentos, mas têm por baixo das divisas e ligada à inferior uma divisa invertida com a mesma largura, constituída por dois ramos, de 0,030 m de comprimento, formando-se um ângulo de 120º.
 
-###### Art. 90.º-A. A tranqueta para fixar a gravata para sargentos e praças da música é de metal oxidado, de 0,060 m de comprimento por 0,005 m de largura, constituída por dois braços curvados fazendo de mola.
+Art. 82.º-A. As passadeiras para cabos reunindo todas as condições de promoção (fig. 124) são iguais às dos cabos, mas têm sobreposto, a meio e perpendicularmente às divisas, um pequeno galão de fio de ouro brilhante, de um cordão, com 0,005 m de largura.
 
-###### Art. 91.º Além do fardamento já indicado, pertencem a este grupo os seguintes artigos de uso individual, também obrigatório, iguais aos padrões existentes na 3.ª Repartição da Direcção do Serviço de Abastecimento:
+Art. 83.º As passadeiras para sargentos e praças podem ser metálicas, mas apenas para uso no casaco de zuarte e no fato de zuarte.
+
+Art. 84.º As peúgas para sargentos e praças são pretas, lisas e sem enfeites.
+
+Art. 85.º As platinas para sargentos-ajudantes são rígidas, iguais às determinadas para os oficiais subalternos, mas com os distintivos indicados no artigo 74.º, e tendo na face inferior um dispositivo apropriado para enfiar nas pequenas passadeiras de algodão e terylene branco existentes nos ombros do dólman branco.
+
+...
+
+Art. 90.º O sobretudo para segundos-sargentos e praças da música é igual ao descrito no artigo 89.º, mas sem a abertura para a espada.
+
+Art. 90.º-A. A tranqueta para fixar a gravata para sargentos e praças da música é de metal oxidado, de 0,060 m de comprimento por 0,005 m de largura, constituída por dois braços curvados fazendo de mola.
+
+Art. 91.º Além do fardamento já indicado, pertencem a este grupo os seguintes artigos de uso individual, também obrigatório, iguais aos padrões existentes na 3.ª Repartição da Direcção do Serviço de Abastecimento:
 
 1) Caderneta militar.
 
@@ -615,7 +623,7 @@ A 0,100 m de uma das extremidades tem uma pinha de anel de três, simples e fixa
 
 § 2.º A navalha de marinheiro é de lâmina de aço polido, sem ponta e sem enfeites, com cabo preto terminado por uma argola de latão para ligar ao fiel; o seu comprimento, quando fechada, é de 0,110 m.
 
-###### Art. 92.º Facultativamente podem ainda ser usados os seguintes artigos pertencentes a este grupo:
+Art. 92.º Facultativamente podem ainda ser usados os seguintes artigos pertencentes a este grupo:
 
 1) Cachecol para sargentos e praças - branco em mistura de lã e terylene, de forma rectangular com cerca de 1,200 m de comprimento por 0,300 m de largura. É autorizado o seu uso debaixo do sobretudo, casacão ou gabardina.
 
@@ -625,7 +633,7 @@ Os botões das platinas são cinzento-azulados do padrão n.º 7. Na gabardina n
 
 ...
 
-###### Art. 116.º As calças impermeáveis para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 143) são de lona impermeabilizada, pretas.
+Art. 116.º As calças impermeáveis para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 143) são de lona impermeabilizada, pretas.
 
 Têm do lado externo da perna e partindo da parte inferior até à altura da barriga da perna um fole do mesmo tecido, apertado em cima por dois colchetes e em baixo por uma fivela.
 
@@ -635,11 +643,11 @@ São seguras por meio de suspensórios reguláveis, feitos do mesmo tecido. Para
 
 Terminam em forma de polaina, com uma presilha que passa por baixo do sapato ou bota e aperta do lado exterior do pé numa fivela.
 
-###### Art. 117.º As calças de pijama para doentes são de tecido de algodão azul no Verão e de flanela de algodão da mesma cor no Inverno, do modelo usado no Hospital da Marinha.
+Art. 117.º As calças de pijama para doentes são de tecido de algodão azul no Verão e de flanela de algodão da mesma cor no Inverno, do modelo usado no Hospital da Marinha.
 
 ...
 
-###### Art. 123.º O casaco impermeável para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 142) é de lona impermeabilizada, preto, de talhe amplo, com gola voltada, com 0,100 m de altura atrás, talhada de forma a poder unir à frente.
+Art. 123.º O casaco impermeável para condutores mecânicos de automóveis e praças especializadas em condutores de automóveis (fig. 142) é de lona impermeabilizada, preto, de talhe amplo, com gola voltada, com 0,100 m de altura atrás, talhada de forma a poder unir à frente.
 
 Tem à frente duas ordens paralelas de três botões de padrão n.º 5, abotoando na do lado direito. No prolongamento da ordem de botões do lado direito e debaixo da gola há um botão idêntico que serve para a fechar.
 
@@ -653,21 +661,21 @@ Nos ombros tem platinas duplas do mesmo tecido, que enfiam em presilhas de requi
 
 Tem um cinto do mesmo tecido, enfiado em duas passadeiras laterais.
 
-###### Art. 124.º O casaco de pijama para doentes é de tecido de algodão azul no Verão e de flanela de algodão da mesma cor no Inverno, do modelo usado no Hospital da Marinha.
+Art. 124.º O casaco de pijama para doentes é de tecido de algodão azul no Verão e de flanela de algodão da mesma cor no Inverno, do modelo usado no Hospital da Marinha.
 
 ...
 
-###### Art. 125.º-A. O colchão de espuma, com uma cobertura verde com fecho de correr, tendo 1,800 m de comprimento, 0,600 m de largura e 0,080 m de altura.
+Art. 125.º-A. O colchão de espuma, com uma cobertura verde com fecho de correr, tendo 1,800 m de comprimento, 0,600 m de largura e 0,080 m de altura.
 
 ...
 
-###### Art. 127.º-A. O distintivo de identificação para sargentos e praças é constituído por uma placa de material plástico de cor branca, com o formato e as dimensões da fig. 147-A e que na parte posterior tem montado um alfinete de ama; na parte anterior é aplicada uma fita adesiva azul que tem gravado a branco o posto, a classe e o nome para sargentos e o posto, a classe, o número e o nome para praças.
+Art. 127.º-A. O distintivo de identificação para sargentos e praças é constituído por uma placa de material plástico de cor branca, com o formato e as dimensões da fig. 147-A e que na parte posterior tem montado um alfinete de ama; na parte anterior é aplicada uma fita adesiva azul que tem gravado a branco o posto, a classe e o nome para sargentos e o posto, a classe, o número e o nome para praças.
 
 § único. Os comandantes, directores ou chefes dos diferentes organismos poderão determinar outras cores de fundo além da azul, quando houver que distinguir subdivisões dentro desses organismos.
 
 ...
 
-###### Art. 129.º Os distintivos de sargentos e praças no serviço de rondas em terra ou quando façam parte de uma força de polícia naval são:
+Art. 129.º Os distintivos de sargentos e praças no serviço de rondas em terra ou quando façam parte de uma força de polícia naval são:
 
 1) Uma braçadeira (fig. 147) de pano de lã azul-ferrete, com 0,100 m de altura e 0,360 m de perímetro, tendo cosidas, a meio, em pano de lã amarelo, as letras maiúsculas «P. N.», cada uma com 0,060 m de altura por 0,045 m de largura. Ao lado direito de cada letra, na parte inferior, leva cosido um quadrado do mesmo pano amarelo, com 0,008 m de lado. É colocado na manga esquerda dos uniformes, acima do cotovelo.
 
@@ -677,23 +685,23 @@ Tem um cinto do mesmo tecido, enfiado em duas passadeiras laterais.
 
 ...
 
-###### Art. 130.º-A. O distintivo dos sargentos e praças designados para colaborar com os agentes da Polícia Marítima e cabos-de-mar nas funções que a estes pertencem é uma braçadeira de pano azul-ferrete, com 0,100 m de altura e 0,360 m de perímetro, tendo cosida, a meio, em pano de lã vermelho, as letras maiúsculas «S. P.», com 0,060 m de altura e 0,045 m de largura.
+Art. 130.º-A. O distintivo dos sargentos e praças designados para colaborar com os agentes da Polícia Marítima e cabos-de-mar nas funções que a estes pertencem é uma braçadeira de pano azul-ferrete, com 0,100 m de altura e 0,360 m de perímetro, tendo cosida, a meio, em pano de lã vermelho, as letras maiúsculas «S. P.», com 0,060 m de altura e 0,045 m de largura.
 
 Ao lado direito de cada letra, na parte inferior, leva cosido um quadrado do mesmo pano vermelho, com 0,008 m de lado. É colocado na manga esquerda dos uniformes, acima do cotovelo.
 
 ...
 
-###### Art. 131.º-A. O fato impermeável, constituído por duas peças, calças e blusão com capuz, de tecido de algodão impermeabilizado a borracha ou neoprene, de cor verde-azeitona, sendo as calças presas por suspensórios e o blusão apertado na cintura e na gola com cordão de algodão.
+Art. 131.º-A. O fato impermeável, constituído por duas peças, calças e blusão com capuz, de tecido de algodão impermeabilizado a borracha ou neoprene, de cor verde-azeitona, sendo as calças presas por suspensórios e o blusão apertado na cintura e na gola com cordão de algodão.
 
 ...
 
-###### Art. 134.º As fitas para boné de praças, pertencentes a este grupo, são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. P.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
+Art. 134.º As fitas para boné de praças, pertencentes a este grupo, são idênticas às descritas no artigo 58.º, mas têm a legenda privativa «N. R. P.», seguidas estas iniciais do nome do respectivo navio (por extenso ou abreviado, se o nome for muito longo) para as praças nele embarcadas.
 
 § único. Estas fitas são distribuídas às praças que prestem serviço na respectiva unidade e apenas enquanto nelas estiverem embarcadas; ao destacarem para outras situações devem tirar essas fitas dos seus bonés e substituí-las por outras de 1.º grupo com a legenda «Armada», fazendo entrega das fitas de legenda privativa antes de destacarem.
 
 ...
 
-###### Art. 136.º O impermeável para sentinelas, ordenanças, etc. (figs. 132 e 133) é de tecido impermeável preto, de corte direito e rodado, sem cinto, com gola de colarinho. Abotoa à frente com cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela; o botão superior usa-se, normalmente, desabotoado.
+Art. 136.º O impermeável para sentinelas, ordenanças, etc. (figs. 132 e 133) é de tecido impermeável preto, de corte direito e rodado, sem cinto, com gola de colarinho. Abotoa à frente com cinco botões pretos do padrão n.º 5, dos quais os quatro inferiores em carcela; o botão superior usa-se, normalmente, desabotoado.
 
 A manga nasce junto à gola e tem perto do pulso uma presilha abotoando em botões pretos do padrão n.º 7. De cada lado tem uma algibeira interior com abertura exterior vertical.
 
@@ -707,7 +715,7 @@ No impermeável não se usam distintivos de especialização.
 
 ...
 
-###### Art. 137.º-A. A maca é de lona de linho, com 2,060 m de comprimento por 1,140 m de largura; em toda a periferia há uma bainha dentro da qual, para reforço, está metido mealhar de sisal branco de dois fios.
+Art. 137.º-A. A maca é de lona de linho, com 2,060 m de comprimento por 1,140 m de largura; em toda a periferia há uma bainha dentro da qual, para reforço, está metido mealhar de sisal branco de dois fios.
 
 Em cada uma das bainhas das cabeceiras, que têm 0,50 m de largura, há dez ilhós, à distância de 0,120 m uns dos outros, abertos à máquina e guarnecidos com fio de linho.
 
@@ -717,13 +725,13 @@ Tem duas aranhas de dez filaças cada uma, feitas de linha de linho branco de se
 
 Para forrar a maca há um tomadouro com 7 m de comprimento feito de enxárcia igual à das arridas.
 
-###### Art. 138.º A mala para ordenanças é de couro, de cor castanha, com 0,300 m de altura por 0,400 m de largura, e com fole; tem uma bandoleira de 0,035 m de largura, de couro igual, com uma fivela de latão cromado para ajustamento individual. A bandoleira usa-se passando pelo ombro esquerdo.
+Art. 138.º A mala para ordenanças é de couro, de cor castanha, com 0,300 m de altura por 0,400 m de largura, e com fole; tem uma bandoleira de 0,035 m de largura, de couro igual, com uma fivela de latão cromado para ajustamento individual. A bandoleira usa-se passando pelo ombro esquerdo.
 
 A mala leva na parte superior o nome da unidade ou serviço, gravado numa chapa de latão cromado com 0,050 m de altura e com os cantos boleados. As letras, de tipo igual aos das fitas de boné, são cheias a tinta preta, e têm entre 0,030 m e 0,040 m de altura, conforme o seu número. Os nomes dos navios são antecedidos das iniciais «N. R. P.». No caso de unidades e serviços com nomes muito longos, devem empregar-se abreviaturas.
 
 ...
 
-###### Art. 140.º-A. Os uniformes camuflados e de exercício para sargentos e praças fazem parte deste grupo e são os seguintes:
+Art. 140.º-A. Os uniformes camuflados e de exercício para sargentos e praças fazem parte deste grupo e são os seguintes:
 
 1) O boné camuflado, de tecido de algodão camuflado: copa em três peças, sendo duas laterais, com as medidas à frente, ao meio e atrás, respectivamente de 0,050 m, 0,110 m e 0,050 m, e uma superior, de 0,080 m de largura máxima, vincada ao centro com costura no sentido do comprimento e unida, com costuras longitudinais às peças laterais; duas abas à frente e atrás, sendo a anterior entretelada e servindo de pala, redonda, com 0,070 m de máximo desenvolvimento para a frente, e a posterior, servindo de tapa-nuca, com duas pontas de 0,010 m a 0,011 m de desenvolvimento vertical a partir da orla da copa; a orla é reforçada interiormente com uma tira de tecido do boné, de 0,020 m de largura, que ajusta à cabeça, formando bainha de cada lado, no interior da qual trabalha um elástico.
 
@@ -813,9 +821,9 @@ Nos topos inferiores das mangas e das pernas existem presilhas com casa, que abo
 
 ...
 
-###### Art. 141.º-A. O travesseiro de espuma, com cobertura verde, tendo 0,600 m de comprimento por 0,250 m de largura.
+Art. 141.º-A. O travesseiro de espuma, com cobertura verde, tendo 0,600 m de comprimento por 0,250 m de largura.
 
-###### Art. 142.º Além dos artigos indicados, pertencem ainda a este grupo os de equipamento a seguir discriminados:
+Art. 142.º Além dos artigos indicados, pertencem ainda a este grupo os de equipamento a seguir discriminados:
 
 1) Cassetete. - De borracha endurecida coberta a couro preto, com 0,520 m de altura e 0,025 m de diâmetro, terminando na parte superior por uma protecção de latão cromado; a 0,120 m da parte superior tem um anel com um olhal onde prende o fiel.
 
@@ -839,7 +847,7 @@ b) De lona branca ou preta, com 0,150 m de altura, tendo duas presilhas e fivela
 
 ...
 
-###### Art. 145.º Os artigos deste grupo a usar pelos motociclistas são os que a seguir se indicam:
+Art. 145.º Os artigos deste grupo a usar pelos motociclistas são os que a seguir se indicam:
 
 1) Botas de cano alto (fig. 154). - De atanado, pretas, sem biqueira, abertas longitudinalmente, com fole interior de cabedal da mesma cor e apertando do lado exterior da perna com três presilhas.
 
@@ -893,13 +901,13 @@ c) Tempo frio e seco. - Os artigos descritos nos n.os 1), 3), 4), 5), 7) e 8), c
 
 ...
 
-###### Art. 151.º Os artigos facultativos são marcados como se segue:
+Art. 151.º Os artigos facultativos são marcados como se segue:
 
 1) Cachecol. - Com o tipo III, numa das extremidades.
 
 2) Gabardina. - Com o tipo II, no forro interior, na parte superior das costas, junto à costura da gola.
 
-###### Art. 152.º Os artigos de pequeno equipamento são marcados da forma seguinte:
+Art. 152.º Os artigos de pequeno equipamento são marcados da forma seguinte:
 
 1) Capa para colchão. - Com o tipo I, interiormente, na bainha da abertura.
 
@@ -923,35 +931,35 @@ c) Tempo frio e seco. - Os artigos descritos nos n.os 1), 3), 4), 5), 7) e 8), c
 
 ...
 
-###### Art. 154.º Os artigos de fardamento e de uso individual (1.º grupo) que cada sargento e praça da Armada é obrigado a possuir, bem como os respectivos prazos de duração, vão indicados na tabela I anexa a este Regulamento.
+Art. 154.º Os artigos de fardamento e de uso individual (1.º grupo) que cada sargento e praça da Armada é obrigado a possuir, bem como os respectivos prazos de duração, vão indicados na tabela I anexa a este Regulamento.
 
 § único. Os artigos de fardamento e de uso individual a distribuir a cada praça na ocasião do seu alistamento são os indicados na coluna 7 da tabela I.
 
 ...
 
-###### Art. 158.º As praças ultramarinas usam os artigos de uniforme e os distintivos definidos para as restantes praças da Armada, incluídos em tabelas de uniformes que, de acordo com as condições climatéricas locais, são estabelecidas para cada província por diploma especial.
+Art. 158.º As praças ultramarinas usam os artigos de uniforme e os distintivos definidos para as restantes praças da Armada, incluídos em tabelas de uniformes que, de acordo com as condições climatéricas locais, são estabelecidas para cada província por diploma especial.
 
 § único. Às praças ultramarinas quando na metrópole aplicam-se as tabelas de uniformes estabelecidas para as restantes praças da Armada.
 
 ...
 
-###### Art. 161.º Constituirão matéria de despacho do Ministro da Marinha (a publicar na Ordem da Armada, 1.ª série), por proposta da Direcção do Serviço de Abastecimento, os quadros com os «tipos» numerados, e respectivas medidas, correspondentes aos tamanhos mais usados, de cada um dos artigos do 1.º grupo que aquela Direcção julgue conveniente ter em depósito.
+Art. 161.º Constituirão matéria de despacho do Ministro da Marinha (a publicar na Ordem da Armada, 1.ª série), por proposta da Direcção do Serviço de Abastecimento, os quadros com os «tipos» numerados, e respectivas medidas, correspondentes aos tamanhos mais usados, de cada um dos artigos do 1.º grupo que aquela Direcção julgue conveniente ter em depósito.
 
 § único. Estes quadros serão acompanhados da descrição da maneira como devem ser tiradas as respectivas medidas.
 
-###### Art. 162.º Na 3.ª Repartição da Direcção do Serviço de Abastecimento existirão padrões de todos os artigos constantes deste Regulamento.
+Art. 162.º Na 3.ª Repartição da Direcção do Serviço de Abastecimento existirão padrões de todos os artigos constantes deste Regulamento.
 
-###### Art. 163.º De cada artigo existirá ainda na 3.ª Repartição da Direcção do Serviço de Abastecimento uma especificação, onde, além da transcrição da disposição deste Regulamento onde ele é descrito e da sua figura, se inscreverão todos os pormenores referentes a esse artigo, incluindo o respectivo quadro com os tipos.
+Art. 163.º De cada artigo existirá ainda na 3.ª Repartição da Direcção do Serviço de Abastecimento uma especificação, onde, além da transcrição da disposição deste Regulamento onde ele é descrito e da sua figura, se inscreverão todos os pormenores referentes a esse artigo, incluindo o respectivo quadro com os tipos.
 
-###### Art. 164.º Na 3.ª Repartição da Direcção do Serviço de Abastecimento existirão ainda padrões dos tecidos a utilizar na confecção dos diferentes artigos.
+Art. 164.º Na 3.ª Repartição da Direcção do Serviço de Abastecimento existirão ainda padrões dos tecidos a utilizar na confecção dos diferentes artigos.
 
-###### Art. 165.º De cada tecido existirá ainda na 3.ª Repartição da Direcção do Serviço de Abastecimento uma especificação donde constarão todas as suas características, incluindo cópia do boletim de análise.
+Art. 165.º De cada tecido existirá ainda na 3.ª Repartição da Direcção do Serviço de Abastecimento uma especificação donde constarão todas as suas características, incluindo cópia do boletim de análise.
 
-###### Art. 166.º Os padrões, quer dos artigos, quer dos tecidos, não poderão sair nunca da Direcção do Serviço de Abastecimento, nem deles serão tiradas amostras para dar aos fornecedores; serão, contudo, sempre mostrados a quem o desejar (incluindo os próprios concorrentes aos concursos de aquisição de artigos).
+Art. 166.º Os padrões, quer dos artigos, quer dos tecidos, não poderão sair nunca da Direcção do Serviço de Abastecimento, nem deles serão tiradas amostras para dar aos fornecedores; serão, contudo, sempre mostrados a quem o desejar (incluindo os próprios concorrentes aos concursos de aquisição de artigos).
 
 ...
 
-###### Art. 168.º As praças do activo têm direito mensalmente a um auxílio para fardamento de quantitativo fixado nos termos legais, em função do custo dos artigos do 1.º grupo fornecidos pela Direcção do Serviço de Abastecimento; a importância do auxílio vencido, embora pertença à praça, não lhe é entregue, sendo administrada por aquela Direcção.
+Art. 168.º As praças do activo têm direito mensalmente a um auxílio para fardamento de quantitativo fixado nos termos legais, em função do custo dos artigos do 1.º grupo fornecidos pela Direcção do Serviço de Abastecimento; a importância do auxílio vencido, embora pertença à praça, não lhe é entregue, sendo administrada por aquela Direcção.
 
 § único. Perdem o direito ao auxílio as praças:
 
@@ -961,7 +969,7 @@ c) Tempo frio e seco. - Os artigos descritos nos n.os 1), 3), 4), 5), 7) e 8), c
 
 3) Durante o tempo em que prestarem serviço noutros Ministérios, quando tenham sido desligadas do respectivo quadro.
 
-###### Art. 169.º O abono de auxílio para fardamento é feito ùnicamente na Direcção do Serviço de Abastecimento, onde será aberta uma conta corrente a cada praça, na qual se lançará em colunas separadas:
+Art. 169.º O abono de auxílio para fardamento é feito ùnicamente na Direcção do Serviço de Abastecimento, onde será aberta uma conta corrente a cada praça, na qual se lançará em colunas separadas:
 
 1) A crédito:
 
@@ -977,9 +985,9 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 § único: Nestas contas são registadas, pela Ordem da Direcção do Serviço do Pessoal, 2.ª série, as mudanças de situação que, de acordo com o § único do artigo 168.º, influam no abono de auxílio para fardamento.
 
-###### Art. 170.º As unidades e serviços enviam à 1.ª Repartição da Direcção do Serviço de Abastecimento as suas requisições de artigos do 1.º grupo (de fardamento e de uso individual) e do 2.º grupo (de pequeno equipamento), em impressos separados e satisfazendo os requisitos indicados no Regulamento da Administração da Fazenda Naval.
+Art. 170.º As unidades e serviços enviam à 1.ª Repartição da Direcção do Serviço de Abastecimento as suas requisições de artigos do 1.º grupo (de fardamento e de uso individual) e do 2.º grupo (de pequeno equipamento), em impressos separados e satisfazendo os requisitos indicados no Regulamento da Administração da Fazenda Naval.
 
-###### Art. 171.º As unidades e serviços só podem requisitar estes artigos para distribuição imediata.
+Art. 171.º As unidades e serviços só podem requisitar estes artigos para distribuição imediata.
 
 § 1.º Exceptuam-se as seguintes unidades, que podem requisitar artigos para seu provimento:
 
@@ -1005,7 +1013,7 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 § 4.º Todas as requisições para provimento serão atendidas pela Direcção do Serviço de Abastecimento apenas na medida do julgado indispensável para a regularidade dos serviços.
 
-###### Art. 172.º As requisições de pequeno equipamento devem ser acompanhadas de uma relação, em duplicado, discriminativa das praças a quem os artigos se destinam, por onde a 2.ª Repartição da Direcção do Serviço de Abastecimento verificará se foram respeitados os prazos de duração.
+Art. 172.º As requisições de pequeno equipamento devem ser acompanhadas de uma relação, em duplicado, discriminativa das praças a quem os artigos se destinam, por onde a 2.ª Repartição da Direcção do Serviço de Abastecimento verificará se foram respeitados os prazos de duração.
 
 § 1.º Para tal fim, existirá no final da conta corrente de fardamento de cada praça indicada no artigo 169.º um registo onde serão inscritas as datas de distribuição dos artigos de pequeno equipamento.
 
@@ -1017,17 +1025,17 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 § 5.º Os artigos requisitados com destino aos sargentos e praças constantes de qualquer relação não podem ser distribuídos a outrem sem prévia consulta à Direcção do Serviço de Abastecimento (2.ª Repartição).
 
-###### Art. 173.º Normalmente, devem as requisições ser expedidas para a Direcção do Serviço de Abastecimento, entre os dias 23 e 28 de cada mês, não podendo cada unidade ou serviço fazer mais de duas requisições por mês.
+Art. 173.º Normalmente, devem as requisições ser expedidas para a Direcção do Serviço de Abastecimento, entre os dias 23 e 28 de cada mês, não podendo cada unidade ou serviço fazer mais de duas requisições por mês.
 
 § único. Exceptuam-se os navios que se destinem a comissões de serviço que se presuma excederem quatro meses e as requisições de artigos de confecção individual.
 
-###### Art. 174.º Os artigos serão entregues pelo Depósito de Fardamento aos sargentos das unidades e serviços que se apresentem para os receber; estes deverão passar recibo provisório num dos exemplares da guia de remessa, que fica em poder do Depósito.
+Art. 174.º Os artigos serão entregues pelo Depósito de Fardamento aos sargentos das unidades e serviços que se apresentem para os receber; estes deverão passar recibo provisório num dos exemplares da guia de remessa, que fica em poder do Depósito.
 
-###### Art. 175.º Nas unidades e serviços, logo que sejam recebidos os artigos requisitados, proceder-se-á à sua distribuição pelos sargentos e praças a quem se destinavam, registando-se nas respectivas cadernetas militares a data da distribuição de cada artigo e quantidade distribuída.
+Art. 175.º Nas unidades e serviços, logo que sejam recebidos os artigos requisitados, proceder-se-á à sua distribuição pelos sargentos e praças a quem se destinavam, registando-se nas respectivas cadernetas militares a data da distribuição de cada artigo e quantidade distribuída.
 
 § único. Será elaborada em seguida uma relação dos artigos de fardamento distribuídos nesse mês (incluindo os de confecção individual) e outra dos de pequeno equipamento, as quais serão enviadas à 2.ª Repartição da Direcção do Serviço de Abastecimento juntamente com as próprias facturas.
 
-###### Art. 176.º Ao ser-lhes distribuído numa unidade ou serviço um novo artigo de pequeno equipamento, o sargento ou a praça deve entregar em troca o correspondente artigo incapaz devidamente limpo.
+Art. 176.º Ao ser-lhes distribuído numa unidade ou serviço um novo artigo de pequeno equipamento, o sargento ou a praça deve entregar em troca o correspondente artigo incapaz devidamente limpo.
 
 § 1.º Os artigos incapazes assim recebidos nas unidades ou serviços devem ser por estes entregues no Depósito de Fardamento, globalmente, até ao dia 10 do mês seguinte ao da distribuição, acompanhados de uma relação, em duplicado, discriminativa de quem os entregou; o duplicado desta relação é devolvido pelo Depósito depois de passado recibo. Se os artigos incapazes não entrarem até ao dia indicado no Depósito, intimar-se-á aos seus detentores os descontos por extraviados, indicados no artigo 198.º deste Regulamento.
 
@@ -1035,39 +1043,39 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 § 3.º O Depósito de Fardamento fará entrega mensalmente no Depósito de Recuperáveis e Inúteis dos artigos recebidos nos termos dos parágrafos anteriores.
 
-###### Art. 177.º Fora do continente as unidades e serviços devem requisitar aos depósitos dos comandos territoriais os artigos de que necessitarem, a não ser que esses depósitos não existam, caso em que as requisições serão canalizadas para a Direcção do Serviço de Abastecimento.
+Art. 177.º Fora do continente as unidades e serviços devem requisitar aos depósitos dos comandos territoriais os artigos de que necessitarem, a não ser que esses depósitos não existam, caso em que as requisições serão canalizadas para a Direcção do Serviço de Abastecimento.
 
-###### Art. 178.º Sempre, porém, que as circunstâncias o justifiquem, podem os comandos das unidades pedir autorização superior (mesmo por mensagem), por intermédio da Direcção do Serviço de Abastecimento, para adquirir os artigos no mercado local, devendo, contudo, indicar sempre no pedido, além das quantidades necessárias, o preço de aquisição de cada artigo e declarar expressamente que os padrões serão respeitados e que os artigos a adquirir se destinam todos a distribuição imediata.
+Art. 178.º Sempre, porém, que as circunstâncias o justifiquem, podem os comandos das unidades pedir autorização superior (mesmo por mensagem), por intermédio da Direcção do Serviço de Abastecimento, para adquirir os artigos no mercado local, devendo, contudo, indicar sempre no pedido, além das quantidades necessárias, o preço de aquisição de cada artigo e declarar expressamente que os padrões serão respeitados e que os artigos a adquirir se destinam todos a distribuição imediata.
 
 § 1.º Em casos normais estas aquisições só serão autorizadas se os preços propostos não excederem em mais de 20 por cento aqueles que servirem de base à última compra efectuada para provimento do Depósito de Fardamento.
 
 § 2.º Ficam os comandos das unidades responsáveis por que os artigos assim adquiridos satisfaçam a todas as condições deste Regulamento.
 
-###### Art. 179.º As unidades indicadas no § 1.º do artigo 171.º devem enviar à 2.ª Repartição da Direcção do Serviço de Abastecimento, até ao dia 15 do mês seguinte, um balancete de fardamento e outro de pequeno equipamento, numerados seguidamente dentro de cada ano, donde conste todo o movimento havido no mês, acompanhado dos respectivos documentos de receita (facturas da Direcção do Serviço de Abastecimento e do mercado, guias de remessa e ordens de receita) e de despesa (relações de fardamento ou de pequeno equipamento distribuído, relações de artigos vendidos a pronto pagamento, recibos das guias de remessa e ordens de despesa); quer os documentos de receita, quer os de despesa, devem ser numerados seguidamente dentro de cada ano económico.
+Art. 179.º As unidades indicadas no § 1.º do artigo 171.º devem enviar à 2.ª Repartição da Direcção do Serviço de Abastecimento, até ao dia 15 do mês seguinte, um balancete de fardamento e outro de pequeno equipamento, numerados seguidamente dentro de cada ano, donde conste todo o movimento havido no mês, acompanhado dos respectivos documentos de receita (facturas da Direcção do Serviço de Abastecimento e do mercado, guias de remessa e ordens de receita) e de despesa (relações de fardamento ou de pequeno equipamento distribuído, relações de artigos vendidos a pronto pagamento, recibos das guias de remessa e ordens de despesa); quer os documentos de receita, quer os de despesa, devem ser numerados seguidamente dentro de cada ano económico.
 
 § único. Na mesma altura será enviado à Direcção do Serviço de Abastecimento o numerário proveniente dos artigos vendidos a pronto pagamento.
 
-###### Art. 180.º Quando um navio regresse a Lisboa deve entregar, dentro de quinze dias, no Depósito de Fardamento os artigos que lhe restarem da comissão e que estejam em perfeito estado de conservação, acompanhados da respectiva guia de entrega.
+Art. 180.º Quando um navio regresse a Lisboa deve entregar, dentro de quinze dias, no Depósito de Fardamento os artigos que lhe restarem da comissão e que estejam em perfeito estado de conservação, acompanhados da respectiva guia de entrega.
 
 § 1.º Os artigos julgados em condições de sofrer desvalorização devem também ser entregues naquele Depósito, em separado dos que estiverem em bom estado; serão acompanhados de uma outra guia de entrega donde conste, por transcrição, a parte da acta do respectivo conselho administrativo onde foi justificada a deterioração dos artigos.
 
 § 2.º É expressamente proibida nas unidades e serviços a desvalorização dos artigos dos 1.º e 2.º grupos, que é apenas da competência da Direcção do Serviço de Abastecimento.
 
-###### Art. 181.º A Direcção do Serviço de Abastecimento lançará sobre o preço de todos os artigos de fardamento e de uso individual (1.º grupo) que forneça uma percentagem destinada a constituir um fundo de reserva para dívidas insolúveis, deteriorações e extravios.
+Art. 181.º A Direcção do Serviço de Abastecimento lançará sobre o preço de todos os artigos de fardamento e de uso individual (1.º grupo) que forneça uma percentagem destinada a constituir um fundo de reserva para dívidas insolúveis, deteriorações e extravios.
 
 § único. Esta percentagem, actualmente de 2 por cento, pode ser alterada por despacho do Ministro da Marinha, com o acordo do Ministro das Finanças.
 
-###### Art. 182.º Os oficiais, sargentos e praças da Armada, em qualquer situação, podem adquirir artigos para seu uso individual, a pronto pagamento, caso não haja inconveniente em tal fornecimento.
+Art. 182.º Os oficiais, sargentos e praças da Armada, em qualquer situação, podem adquirir artigos para seu uso individual, a pronto pagamento, caso não haja inconveniente em tal fornecimento.
 
 ...
 
-###### Art. 188.º Os conselhos administrativos das unidades ou serviços serão reembolsados das importâncias dos consertos de fardamento pela Direcção do Serviço de Abastecimento, para o que enviarão mensalmente à 2.ª Repartição da Direcção do Serviço de Abastecimento dois exemplares, por cada companhia ou destacamento, da relação a que se refere o artigo 186.º, acompanhados de um recibo da quantia total, assinado pelo secretário-tesoureiro e pelo presidente e autenticado com o respectivo selo branco.
+Art. 188.º Os conselhos administrativos das unidades ou serviços serão reembolsados das importâncias dos consertos de fardamento pela Direcção do Serviço de Abastecimento, para o que enviarão mensalmente à 2.ª Repartição da Direcção do Serviço de Abastecimento dois exemplares, por cada companhia ou destacamento, da relação a que se refere o artigo 186.º, acompanhados de um recibo da quantia total, assinado pelo secretário-tesoureiro e pelo presidente e autenticado com o respectivo selo branco.
 
 § único. Efectuado o pagamento à 2.ª Repartição da Direcção do Serviço de Abastecimento em face dos originais da relação, com o carimbo «Pago» procederá aos lançamentos a débito da conta corrente de fardamento de cada praça.
 
 ...
 
-###### Art. 190.º Sempre que as contas de fardamento a que se refere o artigo 169.º acusem dívidas elevadas, a 2.ª Repartição da Direcção do Serviço de Abastecimento providenciará para que sejam efectuados descontos nos vencimentos dessas praças, com o fim de amortizar as suas dívidas.
+Art. 190.º Sempre que as contas de fardamento a que se refere o artigo 169.º acusem dívidas elevadas, a 2.ª Repartição da Direcção do Serviço de Abastecimento providenciará para que sejam efectuados descontos nos vencimentos dessas praças, com o fim de amortizar as suas dívidas.
 
 § 1.º Ao considerar uma dívida elevada a 2.ª Repartição da Direcção do Serviço de Abastecimento terá em conta o critério que superiormente lhe tiver sido fixado e atenderá sempre aos casos em que as penas disciplinares façam prever baixa de serviço por mau comportamento.
 
@@ -1075,7 +1083,7 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 § 3.º Os descontos por dívida elevada constarão das folhas de vencimentos e deles o conselho administrativo elaborará relação em quadruplicado, da qual enviará três exemplares ao Conselho Administrativo da Administração Central da Marinha até ao dia 5 do mês seguinte àquele em que os descontos foram efectuados.
 
-###### Art. 191.º As praças com dívidas de fardamento não poderão ter baixa do serviço.
+Art. 191.º As praças com dívidas de fardamento não poderão ter baixa do serviço.
 
 § 1.º Exceptuam-se as que estiverem em qualquer dos seguintes casos:
 
@@ -1099,7 +1107,7 @@ b) Os consertos de fardamento que lhe foram pagos.
 
 ...
 
-###### Art. 193.º No caso de a conta corrente apresentar saldo devedor, proceder-se-á da seguinte forma:
+Art. 193.º No caso de a conta corrente apresentar saldo devedor, proceder-se-á da seguinte forma:
 
 1) O militar que for promovido de praça a sargento ou a oficial deverá dirigir-se à 2.ª Repartição da Direcção do Serviço de Abastecimento, onde pagará a sua dívida a pronto pagamento, contra recibo com o respectivo selo branco. Caso o não tenha feito dentro de dez dias subsequentes à sua promoção, aquela Repartição intimará descontos mensais nos seus vencimentos até extinção total da dívida;
 
@@ -1111,7 +1119,7 @@ Se, por estar fora do continente ou por outra circunstância ponderosa a praça 
 
 3) Se a praça tiver falecido, o saldo devedor será descontado pelo Conselho Administrativo da Força de Fusileiros do Continente, na importância do último vencimento, e só o que deste sobrar é que será incluído no espólio. No caso de o vencimento não comportar a dívida de fardamento, será o restante descontado no total do espólio constituído pelo dinheiro que o falecido tinha em seu poder e pela importância proveniente da venda em leilão dos artigos do 1.º grupo que tiver deixado e dos objectos susceptíveis de deterioração ou cuja conservação a bordo haja sido considerada difícil ou dispendiosa, excepto se o falecimento tiver ocorrido por doença epidémica ou de fácil transmissão, em que o médico pode aconselhar que certos artigos sejam queimados. As importâncias assim recebidas serão comunicadas à 2.ª Repartição da Direcção do Serviço de Abastecimento, onde serão seguidamente entregues, e onde será creditada a conta corrente do falecido pelo respectivo valor. Havendo saldo devedor, será ele saldado pela «reserva para dívidas insolúveis, deteriorações e extravios» indicada no artigo 181.º Não sendo o Conselho Administrativo da Força de Fuzileiros do Continente a organizar o espólio, competirá a quem o fizer o cumprimento destas disposições.
 
-###### Art. 194.º No caso de a conta corrente apresentar saldo credor, proceder-se-á da maneira seguinte:
+Art. 194.º No caso de a conta corrente apresentar saldo credor, proceder-se-á da maneira seguinte:
 
 1) O militar que for promovido de praça a sargento ou a oficial, deverá dirigir-se à 2.ª Repartição da Direcção do Serviço de Abastecimento, onde lhe será entregue o saldo a seu favor contra recibo, com selo fiscal da taxa legal, assinado pelo próprio ou por seu procurador bastante. No caso de essa importância não ser reclamada dentro do prazo de três anos, dar-se-á a sua prescrição a favor do Estado;
 
@@ -1119,21 +1127,21 @@ Se, por estar fora do continente ou por outra circunstância ponderosa a praça 
 
 3) Se a praça tiver falecido, o saldo credor será, por indicação da 2.ª Repartição da Direcção do Serviço de Abastecimento, entregue no Conselho Administrativo da Força de Fusileiros do Continente, contra recibo com o respectivo selo branco; este Conselho Administrativo incluirá a importância recebida no respectivo espólio.
 
-###### Art. 195.º Todas as unidades e serviços que destacarem alguma praça para a Companhia de Adidos, a fim de passar à disponibilidade ou levar baixa, devem enviar àquela Companhia os seguintes documentos:
+Art. 195.º Todas as unidades e serviços que destacarem alguma praça para a Companhia de Adidos, a fim de passar à disponibilidade ou levar baixa, devem enviar àquela Companhia os seguintes documentos:
 
 1) Caderneta militar;
 
 2) Declaração, assinada pelo secretário-tesoureiro do Conselho Administrativo, do movimento de fardamento havido nos últimos três meses (artigos do 1.º grupo que lhe foram distribuídos, consertos de fardamento que lhe foram pagos e descontos por dívida elevada), com os respectivos valores (não tendo havido movimento, deve declarar-se que não houve).
 
-###### Art. 196.º A Companhia de Adidos enviará estes documentos, junto com a sua própria declaração, à 2.ª Repartição da Direcção do Serviço de Abastecimento, que fechará a conta corrente pelas declarações e devolverá a caderneta depois de a ter conferido e de lhe ter aposto um carimbo com a natureza e importância do saldo da conta e a indicação do seu pagamento, se o tiver havido.
+Art. 196.º A Companhia de Adidos enviará estes documentos, junto com a sua própria declaração, à 2.ª Repartição da Direcção do Serviço de Abastecimento, que fechará a conta corrente pelas declarações e devolverá a caderneta depois de a ter conferido e de lhe ter aposto um carimbo com a natureza e importância do saldo da conta e a indicação do seu pagamento, se o tiver havido.
 
-###### Art. 197.º Os artigos de fardamento e de uso individual (1.º grupo) quando extraviados propositadamente (vendidos, trocados ou emprestados) ou deteriorados sem causa comprovada sujeitam os sargentos e praças a quem pertenciam a procedimento disciplinar ou outro mais grave que, em face das disposições legais, se deva adoptar.
+Art. 197.º Os artigos de fardamento e de uso individual (1.º grupo) quando extraviados propositadamente (vendidos, trocados ou emprestados) ou deteriorados sem causa comprovada sujeitam os sargentos e praças a quem pertenciam a procedimento disciplinar ou outro mais grave que, em face das disposições legais, se deva adoptar.
 
 § 1.º Ao mesmo procedimento se sujeitam os militares que tenham recebido artigos deste grupo por compra ilegal, troca ou empréstimo, bem como quem facilite, consinta ou sancione tais actos.
 
 § 2.º Estes artigos, quando perdidos ou deteriorados em serviço por motivo de força maior devidamente comprovado, originam a organização de um processo na 2.ª Repartição da Direcção do Serviço de Abastecimento, com vista à substituição gratuita de novos artigos, tratando-se de praças, ou ao seu pagamento aos preços do momento, tratando-se de sargentos.
 
-###### Art. 198.º Os artigos de pequeno equipamento (2.º grupo) quando extraviados ou deteriorados nas condições do corpo do artigo anterior sujeitam aqueles a quem estavam distribuídos a procedimento disciplinar ou outro mais grave que, em face das disposições legais, se deve adoptar e ainda ao pagamento, por descontos nos vencimentos, das seguintes indemnizações:
+Art. 198.º Os artigos de pequeno equipamento (2.º grupo) quando extraviados ou deteriorados nas condições do corpo do artigo anterior sujeitam aqueles a quem estavam distribuídos a procedimento disciplinar ou outro mais grave que, em face das disposições legais, se deve adoptar e ainda ao pagamento, por descontos nos vencimentos, das seguintes indemnizações:
 
 1) Artigos extraviados ou deteriorados dentro da primeira metade do prazo de duração - a indemnização será igual ao preço do artigo novo que for distribuído em substituição do primeiro;
 
@@ -1159,7 +1167,7 @@ Se, por estar fora do continente ou por outra circunstância ponderosa a praça 
 
 ...
 
-###### Art. 200.º É considerada infracção ao presente Regulamento:
+Art. 200.º É considerada infracção ao presente Regulamento:
 
 1) O uso ou posse de artigos diferentes dos padrões aprovados, quer essa diferença seja no talhe, no tamanho, na cor ou até mesmo na qualidade do tecido;
 
@@ -1177,7 +1185,7 @@ Se, por estar fora do continente ou por outra circunstância ponderosa a praça 
 
 ...
 
-###### Art. 205.º O Estado não aliena nem facilita a difusão de artigos dos seus padrões privativos, mesmo retirados do serviço, para serem vendidos em leilão entre particulares ou cedidos a estes, salvo nas condições indicadas nos parágrafos seguintes:
+Art. 205.º O Estado não aliena nem facilita a difusão de artigos dos seus padrões privativos, mesmo retirados do serviço, para serem vendidos em leilão entre particulares ou cedidos a estes, salvo nas condições indicadas nos parágrafos seguintes:
 
 § 1.º Todos os artigos de fardamento de uso exterior retirados do serviço e entregues no Depósito de Recuperáveis e Inúteis serão desmanchados antes de nova utilização ou venda, excepto o calçado e os chapéus, que podem ser negociados livremente.
 
@@ -1187,11 +1195,11 @@ Os artigos de fardamento de uso interior e os de uso individual podem ser vendid
 
 ...
 
-###### Art. 207.º Os artigos dos 1.º e 2.º grupos estabelecidos neste Regulamento constituem a bagagem dos sargentos e praças da Armada e devem obrigatòriamente acompanhar o militar a que respeitam em todas as mudanças de situação.
+Art. 207.º Os artigos dos 1.º e 2.º grupos estabelecidos neste Regulamento constituem a bagagem dos sargentos e praças da Armada e devem obrigatòriamente acompanhar o militar a que respeitam em todas as mudanças de situação.
 
 ...
 
-###### Art. 209.º É permitido o uso de trajo civil, mas decente, quando fora das unidades e outros organismos e em actos que não impliquem serviço:
+Art. 209.º É permitido o uso de trajo civil, mas decente, quando fora das unidades e outros organismos e em actos que não impliquem serviço:
 
 1) Aos sargentos;
 
@@ -1245,11 +1253,11 @@ Fig. 147 - Distintivo de braçadeira para ronda em terra ou polícia naval.
 
 8.º São revogadas as Portarias n.os 18515, de 6 de Junho de 1961, 21689, de 26 de Novembro de 1965, 22012, de 21 de Maio de 1966, 22538, de 27 de Fevereiro de 1967, 22616, de 3 de Abril de 1967, 24290, de 16 de Setembro de 1969, 24459, de 9 de Dezembro de 1969, e 24492, de 29 de Dezembro de 1969.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
 Da TABELA I à TABELA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf))](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf)
 
 Notas à tabela III
 
@@ -1271,8 +1279,8 @@ VIII) Aos sargentos e praças da música é permitido ou poderá ser determinado
 
 IX) As sandálias usam-se sempre sem peúgas nem meias.
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf))](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/02/03800/01630191.pdf)
 
-**O Ministro da Marinha, Manuel Pereira Crespo.**
+O Ministro da Marinha, Manuel Pereira Crespo.

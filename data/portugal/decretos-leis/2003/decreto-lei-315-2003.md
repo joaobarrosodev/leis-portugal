@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/315/2003/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:41:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d926d272332a976f1ab2db134c48df246fbd3a3ac24df6c0c6268cae9fad3fa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7694a5c42762077419e0a437e691e5bfdc8fe6ba95391cfcc3d6fe52ee078c56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:41:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Abate de Animais
 - Animal Doméstico
 - Centro de Recolha de Animais
-- Multa
-- Proteção dos Animais
+- Cirurgia
+- Comércio
 - Contra-ordenação
 - Convenção
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
 - Fiscalização
-- Abate de Animais
-- Instituto da Conservação da Natureza
-- Licenciamento
-- Licença de Utilização
 - GNR
+- Instituto da Conservação da Natureza
+- Licença de Utilização
+- Licenciamento
+- Multa
 - Polícia Municipal
+- Proteção dos Animais
+- PSP
 - Regime Jurídico
-- Cirurgia
-- Comércio
-- Transporte de Animais
 - Saúde Animal
+- Transporte de Animais
 relationships:
 - type: amended_by
   target: pt:dre:180661988:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636746:por
+  label: "Alterado o art. 73º do Dec Lei 276/2001, de 17-Out, na redacção do presente diploma, pelo DEC LEI.265/2007.24.07.2007.MADRP,\
+    \ DR.IS [141] de 24.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-2007-636746
+  date: '2007-07-24'
+- type: amended_by
+  target: pt:dre:190815:por
+  label: "Alterados os art.s 1º, 2º, 3º, 3º-A, 4º, 5º, 10º, 11º, 19º, 25º, 32º, 35º, 66º, 68º, 70º e 73º do Dec Lei 276/2001,\
+    \ de 17-out, na redação do presente diploma, pelo DEC LEI.260/2012.12.12.2012.MAMAOT, DR.IS [240] de 12.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/260-2012-190815
+  date: '2012-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/2001/10/17/p/dre
   label: null
@@ -104,16 +116,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92/1995/09/12/p/dre
+- type: cites
+  target: pt:dre:562269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689623:por
+  label: null
+  source: null
 article_structure:
-  article_count: 109
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:41:09Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +170,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 10.º, 11.º, 13.º, 14.º,
 
 2 - Excluem-se do âmbito de aplicação deste diploma as espécies da fauna selvagem autóctone e exótica e os seus descendentes criados em cativeiro, objecto de regulamentação específica, e os touros de lide.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -198,7 +224,9 @@ z) «Autoridade competente», a Direcção-Geral de Veterinária (DGV), enquanto
 
 aa) «Licença de funcionamento», atribuição pela DGV de um número de registo aos alojamentos a que se refere o artigo 3.º
 
-###### Artigo 3.º — Licença de funcionamento
+Artigo 3.º
+
+Licença de funcionamento
 
 1 - Os alojamentos para hospedagem sem fins lucrativos, com fins comerciais, com excepção dos destinados exclusivamente à venda, e os centros de recolha carecem de licença de funcionamento a emitir pelo director-geral de Veterinária, sob parecer da DRA da área de localização e do médico veterinário municipal, no caso dos centros de recolha.
 
@@ -220,7 +248,9 @@ aa) «Licença de funcionamento», atribuição pela DGV de um número de regist
 
 10 - Os alojamentos referidos no n.º 1 já em funcionamento à data de entrada em vigor do presente diploma devem requerer a licença de funcionamento no prazo de 180 dias a contar da sua publicação, sem o que serão encerrados.
 
-###### Artigo 4.º — Assessoria técnica e assistência médico-veterinária
+Artigo 4.º
+
+Assessoria técnica e assistência médico-veterinária
 
 1 - Os requerentes que solicitem as licenças previstas no artigo 3.º necessitam de ter ao seu serviço um responsável técnico dotado de licenciatura adequada, acreditado pela respectiva Ordem e, na sua ausência, pela autoridade nacional competente para o efeito.
 
@@ -238,7 +268,9 @@ c) A colaboração com as autoridades competentes em todas as acções que estas
 
 5 - Exceptuam-se do disposto nos n.os 1 e 3 os alojamentos com fins higiénicos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os proprietários dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem manter, pelo prazo de um ano, os seguintes registos:
 
@@ -254,11 +286,15 @@ d) O movimento mensal, nomeadamente registos relativos à origem e às datas das
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Incumbe ao detentor do animal o dever especial de o cuidar, de forma a não pôr em causa os parâmetros de bem-estar, bem como de o vigiar, de forma a evitar que este ponha em risco a vida ou a integridade física de outras pessoas e animais.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -268,7 +304,9 @@ Incumbe ao detentor do animal o dever especial de o cuidar, de forma a não pôr
 
 4 - É proibido utilizar animais para fins didácticos e lúdicos, de treino, filmagens, exibições, publicidade ou actividades semelhantes, na medida em que daí resultem para eles dor ou sofrimentos consideráveis, salvo experiência científica de comprovada necessidade e justificada nos termos da lei.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -276,11 +314,15 @@ Incumbe ao detentor do animal o dever especial de o cuidar, de forma a não pôr
 
 3 - Sem prejuízo do disposto nos n.os 1 e 2 e em cumprimento do disposto no artigo 7.º da [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de Setembro, a deslocação de animais de companhia, nomeadamente cães e gatos, em transportes públicos não pode ser recusada, desde que os mesmos sejam devidamente acompanhados, acondicionados e sujeitos a meios de contenção que não lhes permitam morder ou causar danos ou prejuízos a pessoas, outros animais ou bens, de acordo com as condições e normas técnicas a estabelecer por portaria conjunta dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Obras Públicas, Transportes e Habitação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem dispor de um sistema de protecção contra incêndios, alarme para aviso de avarias deste sistema e, ainda, dos equipamentos referidos no artigo 8.º, quando se tratar de alojamentos em edifícios fechados.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +334,9 @@ As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem d
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -308,11 +352,15 @@ As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem d
 
 7 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos canídeos, têm de ser executadas por um médico veterinário.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Compete às câmaras municipais a recolha, a captura e o abate compulsivo de animais de companhia, sempre que seja indispensável, muito em especial por razões de saúde pública, de segurança e de tranquilidade de pessoas e de outros animais e, ainda, de segurança de bens, sem prejuízo das competências e das determinações emanadas da DGV nessa matéria.
 
@@ -334,7 +382,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 10 - A recolha, captura e abate compulsivo de cães e gatos é regulada por legislação própria.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +396,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 5 - Os alojamentos referidos neste capítulo devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +406,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -372,7 +426,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 8 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -400,7 +456,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 13 - As dimensões para o alojamento de aves devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo IV ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 ...
 
@@ -416,7 +474,9 @@ e) ...
 
 f) As dimensões dos alojamentos de répteis devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo V ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 As condições para a manutenção dos anfíbios são as seguintes:
 
@@ -424,7 +484,9 @@ a) Nos recipientes que só dispõem de parte aquática podem deter-se tritões d
 
 b) Os outros anfíbios, correntemente comercializados, necessitam de aquiterrários que devem estar conformes com os parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo VII ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 ...
 
@@ -452,17 +514,23 @@ c) ...
 
 d) Os aquários devem ser climatizados de tal forma que a temperatura seja adequada aos peixes que alojam, devendo a intensidade de iluminação e a qualidade da luz ser tais que o crescimento de algas seja possível.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 Os alojamentos de reprodução ou criação de mamíferos, aves, peixes e répteis só funcionam como locais de venda desde que esta se efectue em instalações diferenciadas das anteriores, salvaguardando-se sempre as condições de bem-estar animal, de acordo com o disposto no presente diploma para os alojamentos para hospedagem com fins comerciais.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Nos locais de venda, designadamente lojas, lojas de centros comerciais, feiras e mercados, o alojamento de animais deve ser efectuado separando-os por espécies, de forma a salvaguardarem-se as suas condições específicas de bem-estar, conforme o disposto nos artigos 7.º a 15.º e 16.º, n.os 3, 4, 5 e 6.
 
 2 - ...
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -476,7 +544,9 @@ b) Os animais devem ter idade superior a 8 semanas;
 
 c) ...
 
-###### Artigo 41.º — Instalações
+Artigo 41.º
+
+Instalações
 
 1 - ...
 
@@ -484,11 +554,15 @@ c) ...
 
 3 - ...
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 Compete, em especial, à DGV, às DRA, aos médicos veterinários municipais, à Inspecção-Geral das Actividades Económicas, ao ICN, às câmaras municipais, designadamente à PM, à GNR, à PSP e, em geral, a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima cujo montante mínimo é de (euro) 25 e o máximo de (euro) 3740:
 
@@ -536,13 +610,17 @@ f) Os espectáculos ou outras manifestações similares que envolvam lutas entre
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - Compete à DRA da área da prática da infracção a instrução dos processos de contra-ordenação.
 
 2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - Pelos custos inerentes à emissão da licença de funcionamento dos alojamentos e sua renovação nos termos do artigo 3.º, com excepção dos que sejam propriedade de associações zoófilas legalmente constituídas e sem fins lucrativos e dos centros de recolha oficiais, é devida uma taxa a pagar pelos requerentes.
 
@@ -560,27 +638,31 @@ Os anexos I, II, III, IV, V, VI e VII ao [Decreto-Lei n.º 276/2001](https://dia
 
 Na coluna da humidade relativa e nota de rodapé deve ler-se «55% (mais ou menos) 10%».
 
-## ANEXO II
+ANEXO II
 
 1 - Nos 2.º e 3.º quadros [alíneas a) e b)] devem ser eliminadas as notas de rodapé.
 
 2 - No 4.º quadro [alínea c)] acrescentar, em nota de rodapé, o texto «a superfície mínima do chão da gaiola para uma coelha e respectiva ninhada inclui a superfície do chão da caixa para o ninho».
 
-## ANEXO III
+ANEXO III
 
 No quadro correspondente à alínea f) a altura mínima da gaiola deve ler-se em centímetros.
 
-## ANEXO IV — Dimensões mínimas para o alojamento de certas aves
+ANEXO IV
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Dimensões mínimas para o alojamento de certas aves
+
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - O alojamento, por seis semanas, de um casal de colibris e de aves pertencentes às famílias Nectariniidae e Meliphagidae tem de ser feito numa gaiola de, pelo menos, 80 cm de comprimento por 40 cm de largura e por 40 cm de altura, sendo que, em caso de detenção mais longa, é necessário uma gaiola de 1,500 m3 para quatro aves.
 
 O alojamento de um casal e respectiva ninhada de codornizes anãs da China tem de ser feito numa gaiola de, pelo menos, 80 cm x 40 cm x 40 cm, devendo o seu pavimento ser coberto com um substrato de terra, mas nunca de areia.
 
-## ANEXO V — Superfície e altura mínimas de terrários para alojamento de répteis
+ANEXO V
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Superfície e altura mínimas de terrários para alojamento de répteis
+
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Exemplos:
 
@@ -602,15 +684,19 @@ Um casal de lagartos trepadores com o comprimento total de 20 cm:
 
 20 cm x 40 cm = 800 cm2 de superfície de base e 60 cm de altura.
 
-## ANEXO VI
+ANEXO VI
 
 No título deste quadro devel ler-se «dimensões de recipientes para alojamento de anfíbios».
 
-## ANEXO VII — Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
+ANEXO VII
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
 
-###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+
+Artigo 3.º
+
+Aditamento ao [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro
 
 São aditados os artigos 3.º-A e 6.º-A ao [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro, com a seguinte redacção:
 
@@ -622,11 +708,15 @@ Suspensão ou cancelamento da licença de funcionamento
 
 2 - Compete às câmaras municipais, sob a responsabilidade do médico veterinário municipal, executar as medidas para o cumprimento da decisão de suspensão ou cancelamento a que se refere o número anterior.
 
-###### Artigo 6.º-A — Abandono
+Artigo 6.º-A
+
+Abandono
 
 Considera-se abandono de animais de companhia a não prestação de cuidados no alojamento, bem como a sua remoção efectuada pelos seus detentores para fora do domicílio ou dos locais onde costumam estar mantidos, com vista a pôr termo à sua detenção, sem que procedam à sua transmissão para a guarda e responsabilidade de outras pessoas, das autarquias locais ou das sociedades zoófilas.»
 
-###### Artigo 4.º — Aditamento ao anexo III ao [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro
+Artigo 4.º
+
+Aditamento ao anexo III ao [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro
 
 É aditada uma alínea g) ao anexo III, com a seguinte redacção:
 
@@ -634,13 +724,13 @@ Considera-se abandono de animais de companhia a não prestação de cuidados no 
 
 g.1) Individualmente:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - Os animais têm de ter, no mínimo, espaço suficiente para estarem de pé, deitados, para se virarem e sentarem normalmente.
 
 Os cães alojados em gaiolas deverão ser exercitados em recintos de pelo menos 1,22 m x 3,04 m, duas vezes por dia, e caminharem à trela por um período mínimo de vinte minutos, duas vezes por dia.
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 g.2) Em grupo:
 
@@ -650,37 +740,47 @@ Num canil, cada animal deverá dispor de uma superfície de base de, pelo menos,
 
 Um recinto com as dimensões de 1,50 m x 3 m não poderá alojar mais de dois cães de raça média ou grande ou três cães de raça pequena.»
 
-###### Artigo 5.º — Norma revogatória
+Artigo 5.º
+
+Norma revogatória
 
 São revogados os artigos 20.º e 65.º e o capítulo VIII do [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro, mantendo-se, no entanto, estas disposições transitoriamente em vigor até à publicação de legislação especial sobre animais de companhia perigosos e potencialmente perigosos.
 
-###### Artigo 6.º — Republicação
+Artigo 6.º
+
+Republicação
 
 É republicado, em anexo, sendo parte integrante do presente decreto-lei, o [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de Outubro, com a redacção resultante do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
 
-**Promulgado em 20 de Novembro de 2003.**
+Promulgado em 20 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 6 de Dezembro de 2003.**
+Referendado em 6 de Dezembro de 2003.
 
-**O Primeiro-Ministro, José Manuel Durão Barroso.**
+O Primeiro-Ministro, José Manuel Durão Barroso.
 
-## ANEXO — CAPÍTULO I
+ANEXO
+
+CAPÍTULO I
 
 Disposições gerais
 
-###### Artigo 1.º — Âmbito de aplicação
+Artigo 1.º
+
+Âmbito de aplicação
 
 1 - O presente diploma estabelece as medidas complementares das disposições da Convenção Europeia para a Protecção dos Animais de Companhia, aprovada pelo [Decreto n.º 13/93](https://diariodarepublica.pt/dr/detalhe/decreto/13-1993-689623), de 13 de Abril, de ora em diante designada de Convenção.
 
 2 - Excluem-se do âmbito de aplicação deste diploma as espécies da fauna selvagem autóctone e exótica e os seus descendentes criados em cativeiro, objecto de regulamentação específica, e os touros de lide.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -732,7 +832,9 @@ z) «Autoridade competente», a Direcção-Geral de Veterinária (DGV), enquanto
 
 aa) «Licença de funcionamento», atribuição pela DGV de um número de registo aos alojamentos a que se refere o artigo 3.º
 
-###### Artigo 3.º — Licença de funcionamento
+Artigo 3.º
+
+Licença de funcionamento
 
 1 - Os alojamentos para hospedagem sem fins lucrativos, com fins comerciais, com excepção dos destinados exclusivamente à venda, e os centros de recolha carecem de licença de funcionamento a emitir pelo director-geral de Veterinária, sob parecer da DRA da área de localização e do médico veterinário municipal, no caso dos centros de recolha.
 
@@ -774,13 +876,17 @@ j) Certificado de capacidade de treinador, no caso dos centros de treino.
 
 10 - Os alojamentos referidos no n.º 1 já em funcionamento à data de entrada em vigor do presente diploma devem requerer a licença de funcionamento no prazo de 180 dias a contar da sua publicação, sem o que serão encerrados.
 
-###### Artigo 3.º-A — Suspensão ou cancelamento da licença de funcionamento
+Artigo 3.º-A
+
+Suspensão ou cancelamento da licença de funcionamento
 
 1 - Quando deixarem de estar reunidas as condições que determinaram a sua concessão, bem como quando deixarem de estar garantidas a segurança e a tranquilidade para pessoas e outros animais, o director-geral de veterinária pode suspender ou cancelar a licença de funcionamento do alojamento, determinando o destino dos animais, designadamente o seu abate.
 
 2 - Compete às câmaras municipais, sob a responsabilidade do médico veterinário municipal, executar as medidas para o cumprimento da decisão de suspensão ou cancelamento a que se refere o número anterior.
 
-###### Artigo 4.º — Assessoria técnica e assistência médico-veterinária
+Artigo 4.º
+
+Assessoria técnica e assistência médico-veterinária
 
 1 - Os requerentes que solicitem as licenças previstas no artigo 3.º necessitam de ter ao seu serviço um responsável técnico dotado de licenciatura adequada, acreditado pela respectiva Ordem e, na sua ausência, pela autoridade nacional competente para o efeito.
 
@@ -798,7 +904,9 @@ c) A colaboração com as autoridades competentes em todas as acções que estas
 
 5 - Exceptuam-se do disposto nos n.os 1 e 3 os alojamentos com fins higiénicos.
 
-###### Artigo 5.º — Manutenção de registos de alojamentos
+Artigo 5.º
+
+Manutenção de registos de alojamentos
 
 1 - Os proprietários dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem manter, pelo prazo de um ano, os seguintes registos:
 
@@ -814,17 +922,25 @@ d) O movimento mensal, nomeadamente registos relativos à origem e às datas das
 
 3 - Exceptuam-se do disposto nas alíneas c) e d) os alojamentos de animais com fins higiénicos.
 
-### CAPÍTULO II — Normas gerais de detenção, alojamento, maneio, intervenções cirúrgicas, captura e abate
+CAPÍTULO II
 
-###### Artigo 6.º — Dever especial de cuidado do detentor
+Normas gerais de detenção, alojamento, maneio, intervenções cirúrgicas, captura e abate
+
+Artigo 6.º
+
+Dever especial de cuidado do detentor
 
 Incumbe ao detentor do animal o dever especial de o cuidar, de forma a não pôr em causa os parâmetros de bem-estar, bem como de o vigiar, de forma a evitar que este ponha em risco a vida ou a integridade física de outras pessoas e animais.
 
-###### Artigo 6.º-A — Abandono
+Artigo 6.º-A
+
+Abandono
 
 Considera-se abandono de animais de companhia a não prestação de cuidados no alojamento, bem como a sua remoção efectuada pelos seus detentores para fora do domicílio ou dos locais onde costumam estar mantidos, com vista a pôr termo à sua detenção, sem que procedam à sua transmissão para a guarda e responsabilidade de outras pessoas, das autarquias locais ou das sociedades zoófilas.
 
-###### Artigo 7.º — Princípios básicos para o bem-estar dos animais
+Artigo 7.º
+
+Princípios básicos para o bem-estar dos animais
 
 1 - As condições de detenção e de alojamento para reprodução, criação, manutenção e acomodação dos animais de companhia devem salvaguardar os seus parâmetros de bem-estar animal, nomeadamente nos termos dos artigos seguintes.
 
@@ -834,7 +950,9 @@ Considera-se abandono de animais de companhia a não prestação de cuidados no 
 
 4 - É proibido utilizar animais para fins didácticos e lúdicos, de treino, filmagens, exibições, publicidade ou actividades semelhantes, na medida em que daí resultem para eles dor ou sofrimentos consideráveis, salvo experiência científica de comprovada necessidade e justificada nos termos da lei.
 
-###### Artigo 8.º — Condições dos alojamentos
+Artigo 8.º
+
+Condições dos alojamentos
 
 1 - Os animais devem dispor do espaço adequado às suas necessidades fisiológicas e etológicas, devendo o mesmo permitir:
 
@@ -850,7 +968,9 @@ b) A fuga e refúgio de animais sujeitos a agressão por parte de outros.
 
 5 - As instalações devem ser equipadas de acordo com as necessidades específicas dos animais que albergam, com materiais e equipamento que estimulem a expressão do repertório de comportamentos naturais, nomeadamente material para substrato, cama ou ninhos, ramos, buracos, locais para banhos e outros quaisquer adequados ao fim em vista.
 
-###### Artigo 9.º — Factores ambientais
+Artigo 9.º
+
+Factores ambientais
 
 1 - A temperatura, a ventilação e a luminosidade e obscuridade das instalações devem ser as adequadas à manutenção do conforto e bem-estar das espécies que albergam.
 
@@ -864,7 +984,9 @@ b) A fuga e refúgio de animais sujeitos a agressão por parte de outros.
 
 6 - As instalações devem dispor de abrigos para que os animais se protejam de condições climáticas adversas.
 
-###### Artigo 10.º — Carga, transporte e descarga de animais
+Artigo 10.º
+
+Carga, transporte e descarga de animais
 
 1 - O transporte de animais deve ser efectuado em veículos e contentores apropriados à espécie e número de animais a transportar, nomeadamente em termos de espaço, ventilação ou oxigenação, temperatura, segurança e fornecimento de água, de modo a salvaguardar a protecção dos mesmos e a segurança de pessoas e outros animais.
 
@@ -872,11 +994,15 @@ b) A fuga e refúgio de animais sujeitos a agressão por parte de outros.
 
 3 - Sem prejuízo do disposto nos n.os 1 e 2 e em cumprimento do disposto no artigo 7.º da [Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/lei/92-1995-562269), de 12 de Setembro, a deslocação de animais de companhia, nomeadamente cães e gatos, em transportes públicos não pode ser recusada, desde que os mesmos sejam devidamente acompanhados, acondicionados e sujeitos a meios de contenção que não lhes permitam morder ou causar danos ou prejuízos a pessoas, outros animais ou bens, de acordo com as condições e normas técnicas a estabelecer por portaria conjunta dos Ministros da Agricultura, Desenvolvimento Rural e Pescas e das Obras Públicas, Transportes e Habitação.
 
-###### Artigo 11.º — Sistemas de protecção
+Artigo 11.º
+
+Sistemas de protecção
 
 As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem dispor de um sistema de protecção contra incêndios, alarme para aviso de avarias deste sistema e, ainda, dos equipamentos referidos no artigo 8.º, quando se tratar de alojamentos em edifícios fechados.
 
-###### Artigo 12.º — Alimentação e abeberamento
+Artigo 12.º
+
+Alimentação e abeberamento
 
 1 - Deve existir um programa de alimentação bem definido, de valor nutritivo adequado e distribuído em quantidade suficiente para satisfazer as necessidades alimentares das espécies e dos indivíduos de acordo com a fase de evolução fisiológica em que se encontram, nomeadamente idade, sexo, fêmeas prenhes ou em fase de lactação.
 
@@ -890,7 +1016,9 @@ As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem d
 
 6 - Os animais devem dispor de água potável e sem qualquer restrição, salvo por razões médico-veterinárias.
 
-###### Artigo 13.º — Maneio
+Artigo 13.º
+
+Maneio
 
 1 - A observação diária dos animais e o seu maneio, a organização da dieta e o tratamento médico-veterinário devem ser assegurados por pessoal técnico competente e em número adequado à quantidade e espécies animais que alojam.
 
@@ -902,7 +1030,9 @@ As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem d
 
 5 - Quando houver necessidade de recorrer a meios de contenção, não devem estes causar ferimentos, dores ou angústia desnecessários aos animais.
 
-###### Artigo 14.º — Higiene
+Artigo 14.º
+
+Higiene
 
 1 - Devem ser cumpridos adequados padrões de higiene, nomeadamente no que respeita à higiene pessoal dos tratadores e demais pessoal em contacto com os animais, às instalações e a todas as estruturas de apoio ao maneio e tratamento dos animais.
 
@@ -918,11 +1048,15 @@ As instalações dos alojamentos referidos nos n.os 1 e 2 do artigo 3.º devem d
 
 7 - Devem ser observadas rigorosas medidas de higiene em todos os espaços e utensílios usados na prestação de cuidados médico-veterinários e todo o material não reutilizável deve ser eliminado de forma adequada.
 
-###### Artigo 15.º — Segurança de pessoas, animais e bens
+Artigo 15.º
+
+Segurança de pessoas, animais e bens
 
 Os alojamentos devem assegurar que as espécies animais neles mantidas não possam causar quaisquer riscos para a saúde e para a segurança de pessoas, outros animais e bens.
 
-###### Artigo 16.º — Cuidados de saúde animal
+Artigo 16.º
+
+Cuidados de saúde animal
 
 1 - Sem prejuízo de quaisquer medidas determinadas pela DGV, deve existir um programa de profilaxia médica e sanitária devidamente elaborado e supervisionado pelo médico veterinário responsável e executado por profissionais competentes.
 
@@ -936,11 +1070,15 @@ Os alojamentos devem assegurar que as espécies animais neles mantidas não poss
 
 6 - A administração e utilização de medicamentos, produtos ou substâncias referidas no número anterior deve ser feita sob orientação do médico veterinário responsável.
 
-###### Artigo 17.º — Intervenções cirúrgicas
+Artigo 17.º
+
+Intervenções cirúrgicas
 
 As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos canídeos, têm de ser executadas por um médico veterinário.
 
-###### Artigo 18.º — Amputações
+Artigo 18.º
+
+Amputações
 
 1 - Os detentores de animais de companhia que os apresentem com quaisquer amputações que modifiquem a aparência dos animais ou com fins não curativos devem possuir documento comprovativo, passado pelo médico veterinário que a elas procedeu, da necessidade dessa amputação, nomeadamente discriminando que as mesmas foram feitas por razões médico-veterinárias ou no interesse particular do animal ou para impedir a reprodução.
 
@@ -948,7 +1086,9 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 3 - Os detentores de animais importados que apresentem quaisquer das amputações referidas no n.º 1 devem possuir documento comprovativo da necessidade dessa amputação, passada pelo médico veterinário que a ela procedeu, legalizado pela autoridade competente do respectivo país.
 
-###### Artigo 19.º — Normas para a recolha, captura e abate compulsivo
+Artigo 19.º
+
+Normas para a recolha, captura e abate compulsivo
 
 1 - Compete às câmaras municipais a recolha, a captura e o abate compulsivo de animais de companhia, sempre que seja indispensável, muito em especial por razões de saúde pública, de segurança e de tranquilidade de pessoas e de outros animais, e, ainda, de segurança de bens, sem prejuízo das competências e das determinações emanadas da DGV nessa matéria.
 
@@ -970,17 +1110,25 @@ As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos
 
 10 - A recolha, captura e abate compulsivo de cães e gatos é regulada por legislação própria.
 
-###### Artigo 20.º — (Revogado.)
+Artigo 20.º
 
-###### Artigo 21.º — Controlo da reprodução pelas câmaras municipais
+(Revogado.)
+
+Artigo 21.º
+
+Controlo da reprodução pelas câmaras municipais
 
 As câmaras municipais podem, sempre que necessário e sob a responsabilidade do médico veterinário municipal, incentivar e promover o controlo da reprodução de animais de companhia, nomeadamente de cães e gatos vadios ou errantes, o qual deve ser efectuado por métodos contraceptivos que garantam o mínimo sofrimento dos animais.
 
-###### Artigo 22.º — Controlo da reprodução pelo detentor
+Artigo 22.º
+
+Controlo da reprodução pelo detentor
 
 O detentor de um animal de companhia que pretenda controlar a reprodução do mesmo deve fazê-lo de acordo com as orientações de um médico veterinário, salvaguardando sempre o mínimo sofrimento do animal.
 
-###### Artigo 23.º — Exames médico-veterinários, laboratoriais ou outros
+Artigo 23.º
+
+Exames médico-veterinários, laboratoriais ou outros
 
 A DGV pode, sempre que entender necessário, determinar a realização de quaisquer exames médico-veterinários, laboratoriais ou outros, para verificar se foi administrada a um animal de companhia qualquer substância, tratamento ou procedimento que vise aumentar ou diminuir o nível natural das capacidades fisiológicas e etológicas desse animal nas seguintes situações:
 
@@ -988,13 +1136,19 @@ a) No decurso de competições;
 
 b) Em qualquer momento, quando constitua risco para o bem-estar do animal.
 
-### CAPÍTULO III — Normas para os alojamentos de reprodução, criação, manutenção e venda de animais de companhia
+CAPÍTULO III
 
-###### Artigo 24.º — Disposições gerais
+Normas para os alojamentos de reprodução, criação, manutenção e venda de animais de companhia
+
+Artigo 24.º
+
+Disposições gerais
 
 Os detentores de animais de companhia que se dediquem à sua reprodução, criação, manutenção ou venda devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
 
-###### Artigo 25.º — Instalações
+Artigo 25.º
+
+Instalações
 
 1 - Os alojamentos no âmbito deste capítulo devem possuir instalações individualizadas destinadas à armazenagem de alimentos e equipamento limpo e à lavagem e recolha de material.
 
@@ -1006,7 +1160,9 @@ Os detentores de animais de companhia que se dediquem à sua reprodução, cria�
 
 5 - Os alojamentos referidos neste capítulo devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 26.º — Condições particulares para a manutenção de pequenos roedores e coelhos
+Artigo 26.º
+
+Condições particulares para a manutenção de pequenos roedores e coelhos
 
 1 - As caixas onde os animais são colocados devem estar providas com material de cama em quantidade suficiente, adaptada às espécies em causa, o qual deve ser renovado regularmente.
 
@@ -1014,7 +1170,9 @@ Os detentores de animais de companhia que se dediquem à sua reprodução, cria�
 
 3 - Ao planear a criação e ou manutenção deverá ter-se em conta o crescimento potencial dos animais, a fim de lhes assegurar um espaço apropriado, em conformidade com as medidas das caixas previstas no anexo II, durante todas as suas fases de desenvolvimento.
 
-###### Artigo 27.º — Condições particulares para a manutenção de cães e gatos
+Artigo 27.º
+
+Condições particulares para a manutenção de cães e gatos
 
 1 - O alojamento de cães e gatos deve obedecer às dimensões mínimas indicadas no anexo III ao presente diploma, do qual faz parte integrante.
 
@@ -1032,7 +1190,9 @@ Os detentores de animais de companhia que se dediquem à sua reprodução, cria�
 
 8 - Tendo em conta as grandes diferenças de tamanho e a fraca relação entre o tamanho e o peso das diferentes raças de cães, a altura da gaiola deve ser fixada em função da altura do corpo de cada animal medido à altura das espáduas.
 
-###### Artigo 28.º — Condições particulares para a manutenção de aves
+Artigo 28.º
+
+Condições particulares para a manutenção de aves
 
 1 - As dimensões das gaiolas devem ser tais que os pássaros possam bater as asas sem entrave.
 
@@ -1068,7 +1228,9 @@ d) Dever-se-á, também, enriquecer o ambiente dos alojamentos destes animais, c
 
 13 - As dimensões para o alojamento de aves devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo IV ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 29.º — Condições particulares para a manutenção de répteis
+Artigo 29.º
+
+Condições particulares para a manutenção de répteis
 
 Os alojamentos para a manutenção de répteis devem obedecer aos seguintes requisitos:
 
@@ -1084,7 +1246,9 @@ e) Uma espécie por recipiente, sendo que, em certos casos, por razões de segur
 
 f) As dimensões dos alojamentos de répteis devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo V ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 30.º — Condições particulares para a manutenção de anfíbios
+Artigo 30.º
+
+Condições particulares para a manutenção de anfíbios
 
 As condições para a manutenção dos anfíbios são as seguintes:
 
@@ -1092,7 +1256,9 @@ a) Nos recipientes que só dispõem de parte aquática podem deter-se tritões d
 
 b) Os outros anfíbios correntemente comercializados necessitam de aquiterrários que devem estar conformes com os parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo VII ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 31.º — Condições particulares para a manutenção de peixes
+Artigo 31.º
+
+Condições particulares para a manutenção de peixes
 
 A manutenção de peixes deve obedecer às seguintes condições:
 
@@ -1128,21 +1294,29 @@ c) A filtração permanente é indispensável e obrigatória;
 
 d) Os aquários devem ser climatizados de tal forma que a temperatura seja adequada aos peixes que alojam, devendo a intensidade de iluminação e a qualidade da luz ser tais que o crescimento de algas seja possível.
 
-###### Artigo 32.º — Instalações para venda
+Artigo 32.º
+
+Instalações para venda
 
 Os alojamentos de reprodução ou criação de mamíferos, aves, peixes e répteis só funcionam como locais de venda desde que esta se efectue em instalações diferenciadas das anteriores, salvaguardando-se sempre as condições de bem-estar animal, de acordo com o disposto no presente diploma para os alojamentos para hospedagem com fins comerciais.
 
-###### Artigo 33.º — Cuidados médico-veterinários
+Artigo 33.º
+
+Cuidados médico-veterinários
 
 Aos animais feridos ou doentes devem ser assegurados os cuidados médico-veterinários adequados.
 
-###### Artigo 34.º — Alojamento por espécies
+Artigo 34.º
+
+Alojamento por espécies
 
 1 - Nos locais de venda, designadamente lojas, lojas de centros comerciais, feiras e mercados, o alojamento de animais deve ser efectuado separando-os por espécies, de forma a salvaguardarem-se as suas condições específicas de bem-estar, conforme o disposto nos artigos 7.º a 15.º e 16.º, n.os 3, 4, 5 e 6.
 
 2 - Os operadores-receptores que alojem animais por um período superior a vinte e quatro horas devem mantê-los separados por espécies e em adequadas condições de bem-estar.
 
-###### Artigo 35.º — Venda em feiras e mercados
+Artigo 35.º
+
+Venda em feiras e mercados
 
 1 - É excepcionalmente admitida a venda de animais de companhia em feiras e mercados, dependendo da concessão de licença, a requerer pelos interessados na câmara municipal da área onde as mesmas tiverem lugar, no prazo mínimo de 30 dias antes da realização das mesmas.
 
@@ -1156,29 +1330,43 @@ b) Os animais devem ter idade superior a 8 semanas;
 
 c) A sua permanência nos locais não deve ultrapassar o limite máximo de 15 dias contados a partir da data em que neles deram entrada, prazo após o qual os animais deverão ser retirados para o seu alojamento de origem.
 
-###### Artigo 36.º — Animais feridos ou doentes
+Artigo 36.º
+
+Animais feridos ou doentes
 
 Os animais feridos ou doentes não podem ser mantidos nos locais de venda, devendo ser-lhes assegurados cuidados médico-veterinários.
 
-###### Artigo 37.º — Fêmeas prenhes e ninhadas
+Artigo 37.º
+
+Fêmeas prenhes e ninhadas
 
 As fêmeas prenhes, bem como as ninhadas em período de aleitamento, não podem ser mantidas nos locais de venda.
 
-###### Artigo 38.º — Pessoal auxiliar
+Artigo 38.º
+
+Pessoal auxiliar
 
 Os alojamentos devem dispor de pessoal auxiliar que possua os conhecimentos e a aptidão necessária para assegurar os cuidados adequados aos animais, o qual fica, contudo, sob a orientação do médico veterinário responsável.
 
-### CAPÍTULO IV — Normas para os alojamentos de hospedagem sem fins lucrativos e centros de recolha
+CAPÍTULO IV
 
-###### Artigo 39.º — Disposições gerais
+Normas para os alojamentos de hospedagem sem fins lucrativos e centros de recolha
+
+Artigo 39.º
+
+Disposições gerais
 
 Os detentores de animais de companhia em alojamentos de hospedagem sem fins lucrativos e em centros de recolha devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
 
-###### Artigo 40.º — Âmbito
+Artigo 40.º
+
+Âmbito
 
 Os alojamentos de hospedagem sem fins lucrativos e os centros de recolha não podem funcionar como locais de reprodução, criação, venda e hospitalização.
 
-###### Artigo 41.º — Instalações
+Artigo 41.º
+
+Instalações
 
 1 - Os alojamentos a que se refere este capítulo devem possuir instalações por espécie, para machos, fêmeas e fêmeas com respectivas ninhadas.
 
@@ -1186,63 +1374,95 @@ Os alojamentos de hospedagem sem fins lucrativos e os centros de recolha não po
 
 3 - Sem prejuízo do disposto no n.º 1, devem existir instalações diferenciadas para enfermaria, higiene, armazém, manuseamento de alimentos, lavagem de material e armazém de material e equipamento limpo.
 
-###### Artigo 42.º — Outras disposições
+Artigo 42.º
+
+Outras disposições
 
 1 - Além das condições previstas no artigo anterior, aplica-se também o disposto nos artigos 8.º a 16.º, 19.º, n.º 7, e 22.º
 
 2 - Os alojamentos de hospedagem sem fins lucrativos devem dispor de sala de quarentena.
 
-### CAPÍTULO V — Normas para alojamentos destinados a fins higiénicos
+CAPÍTULO V
 
-###### Artigo 43.º — Disposições gerais
+Normas para alojamentos destinados a fins higiénicos
+
+Artigo 43.º
+
+Disposições gerais
 
 Os alojamentos de animais de companhia, nomeadamente de cães e de gatos, destinados exclusivamente aos seus cuidados de higiene corporal devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas neste capítulo.
 
-###### Artigo 44.º — Âmbito dos alojamentos
+Artigo 44.º
+
+Âmbito dos alojamentos
 
 Nos alojamentos destinados a fins higiénicos só se pode proceder a banhos, secagem e escovagem dos pêlos, desparasitações externas, tosquias e cortes de unhas.
 
-###### Artigo 45.º — Equipamento, material e produtos
+Artigo 45.º
+
+Equipamento, material e produtos
 
 Os alojamentos devem possuir o equipamento, o material e os produtos adequados aos procedimentos referidos no artigo anterior.
 
-###### Artigo 46.º — Pessoal
+Artigo 46.º
+
+Pessoal
 
 O pessoal responsável pelas tarefas referidas no artigo 44.º deve possuir os conhecimentos e a experiência adequados para as executar.
 
-### CAPÍTULO VI — Normas para a hospedagem com fins médico-veterinários
+CAPÍTULO VI
 
-###### Artigo 47.º — Disposições gerais
+Normas para a hospedagem com fins médico-veterinários
+
+Artigo 47.º
+
+Disposições gerais
 
 A hospedagem de animais de companhia com fins médico-veterinários deve cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
 
-###### Artigo 48.º — Alojamentos
+Artigo 48.º
+
+Alojamentos
 
 Os animais devem ser alojados por espécies caso existam instalações para hospitalização.
 
-###### Artigo 49.º — Alimentação e abeberamento
+Artigo 49.º
+
+Alimentação e abeberamento
 
 Deve ser mantida comida suficiente e de boa qualidade e água potável, a administrar de acordo com a prescrição do médico veterinário.
 
-###### Artigo 50.º — Fins do alojamento
+Artigo 50.º
+
+Fins do alojamento
 
 O alojamento com fins higiénicos só é permitido desde que em instalações devidamente separadas das com fins médico-veterinários.
 
-###### Artigo 51.º — Equipamento, material e produtos
+Artigo 51.º
+
+Equipamento, material e produtos
 
 Os alojamentos referidos neste capítulo devem estar equipados com o material e os produtos adequados para os fins previstos.
 
-###### Artigo 52.º — Pessoal
+Artigo 52.º
+
+Pessoal
 
 O pessoal auxiliar deve possuir os conhecimentos e a experiência adequados, o qual fica, contudo, sob a orientação do médico veterinário responsável.
 
-### CAPÍTULO VII — Normas para circos, espectáculos, competições, concursos, exposições, publicidade e manifestações similares
+CAPÍTULO VII
 
-###### Artigo 53.º — Disposições gerais
+Normas para circos, espectáculos, competições, concursos, exposições, publicidade e manifestações similares
+
+Artigo 53.º
+
+Disposições gerais
 
 Os detentores de animais de companhia que os utilizem em circos, espectáculos, competições, concursos, provas, exposições, publicidade ou manifestações similares devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
 
-###### Artigo 54.º — Condições de utilização dos animais
+Artigo 54.º
+
+Condições de utilização dos animais
 
 1 - A utilização de animais de companhia em circos, espectáculos, competições, concursos, exposições, publicidade ou manifestações similares só deve ser realizada se os responsáveis pelos mesmos tiverem assegurado as condições necessárias para que o bem-estar dos animais não seja posto em causa.
 
@@ -1252,7 +1472,9 @@ Os detentores de animais de companhia que os utilizem em circos, espectáculos, 
 
 4 - Não se podem utilizar animais feridos ou doentes.
 
-###### Artigo 55.º — Condições de alojamento e maneio
+Artigo 55.º
+
+Condições de alojamento e maneio
 
 As condições de alojamento e maneio dos animais devem obedecer aos seguintes requisitos:
 
@@ -1270,7 +1492,9 @@ f) Os meios de contenção não podem causar quaisquer ferimentos, dores ou ang�
 
 g) Os detentores devem salvaguardar que os animais não causem quaisquer riscos para a saúde e a segurança de pessoas, outros animais e bens.
 
-###### Artigo 56.º — Áreas de exercício durante os períodos de actividade e inactividade circense
+Artigo 56.º
+
+Áreas de exercício durante os períodos de actividade e inactividade circense
 
 1 - Durante o período de actividade circense, o circo deve dispor de recintos que permitam uma área de exercício diário adequada às espécies animais que mantém, recomendando-se para os carnívoros de grande porte as dimensões mínimas de 6 m por 12 m de área ou 12 m de diâmetro.
 
@@ -1282,43 +1506,73 @@ g) Os detentores devem salvaguardar que os animais não causem quaisquer riscos 
 
 5 - Os animais ficam sob a vigilância do médico veterinário municipal da área onde o mesmo se situa.
 
-###### Artigo 57.º — Abate compulsivo
+Artigo 57.º
+
+Abate compulsivo
 
 Se houver quaisquer riscos para a segurança das pessoas, outros animais e bens, deve proceder-se ao abate do animal em causa, recorrendo a métodos de occisão que não lhe causem dores e sofrimento desnecessários e que devem, preferencialmente, ser executados por médico veterinário.
 
-### CAPÍTULO VIII — Normas para a detenção e o alojamento de animais selvagens ou de animais potencialmente perigosos
+CAPÍTULO VIII
+
+Normas para a detenção e o alojamento de animais selvagens ou de animais potencialmente perigosos
 
 (Revogado.)
 
-###### Artigo 58.º — (Revogado.)
-
-###### Artigo 59.º — (Revogado.)
-
-###### Artigo 60.º — (Revogado.)
-
-###### Artigo 61.º — (Revogado.)
-
-###### Artigo 62.º — (Revogado.)
-
-###### Artigo 63.º — (Revogado.)
-
-###### Artigo 64.º — (Revogado.)
-
-### CAPÍTULO IX — Disposições especiais
+Artigo 58.º
 
 (Revogado.)
 
-###### Artigo 65.º — (Revogado.)
+Artigo 59.º
 
-### CAPÍTULO X — Fiscalização, inspecção e contra-ordenações
+(Revogado.)
 
-#### SECÇÃO I — Disposições gerais
+Artigo 60.º
 
-###### Artigo 66.º — Fiscalização
+(Revogado.)
+
+Artigo 61.º
+
+(Revogado.)
+
+Artigo 62.º
+
+(Revogado.)
+
+Artigo 63.º
+
+(Revogado.)
+
+Artigo 64.º
+
+(Revogado.)
+
+CAPÍTULO IX
+
+Disposições especiais
+
+(Revogado.)
+
+Artigo 65.º
+
+(Revogado.)
+
+CAPÍTULO X
+
+Fiscalização, inspecção e contra-ordenações
+
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 66.º
+
+Fiscalização
 
 Compete, em especial, à DGV, às DRA, aos médicos veterinários municipais, à Inspecção-Geral das Actividades Económicas, ao ICN, às câmaras municipais, designadamente à PM, à GNR, à PSP e, em geral, a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
 
-###### Artigo 67.º — Inspecções
+Artigo 67.º
+
+Inspecções
 
 1 - As DRA efectuam anualmente inspecções periódicas aos alojamentos de hospedagem sem fins lucrativos, comerciais, médico-veterinários, higiénicos e aos seus animais de companhia, devendo abranger pelo menos 5% das existências nas respectivas áreas de jurisdição.
 
@@ -1326,9 +1580,13 @@ Compete, em especial, à DGV, às DRA, aos médicos veterinários municipais, à
 
 3 - As autoridades administrativas, policiais e as pessoas singulares e colectivas devem prestar toda a colaboração necessária às inspecções a efectuar no âmbito do presente diploma.
 
-#### SECÇÃO II — Das contra-ordenações
+SECÇÃO II
 
-###### Artigo 68.º — Contra-ordenações
+Das contra-ordenações
+
+Artigo 68.º
+
+Contra-ordenações
 
 1 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima cujo montante mínimo é de (euro) 25 e o máximo de (euro) 3740:
 
@@ -1376,7 +1634,9 @@ f) Os espectáculos ou outras manifestações similares que envolvam lutas entre
 
 6 - Sem prejuízo dos montantes máximos fixados, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática do acto ilícito.
 
-###### Artigo 69.º — Sanções acessórias
+Artigo 69.º
+
+Sanções acessórias
 
 Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
 
@@ -1392,13 +1652,17 @@ e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autoriza�
 
 f) Suspensão de autorizações, licenças e alvarás.
 
-###### Artigo 70.º — Tramitação processual
+Artigo 70.º
+
+Tramitação processual
 
 1 - Compete à DRA da área da prática da infracção a instrução dos processos de contra-ordenação.
 
 2 - Compete ao director-geral de Veterinária a aplicação das coimas e das sanções acessórias.
 
-###### Artigo 71.º — Afectação do produto das coimas
+Artigo 71.º
+
+Afectação do produto das coimas
 
 A afectação do produto das coimas far-se-á da seguinte forma:
 
@@ -1410,13 +1674,19 @@ c) 20% para a entidade que instruiu o processo;
 
 d) 60% para o Estado.
 
-###### Artigo 72.º — Competências das Regiões Autónomas dos Açores e da Madeira
+Artigo 72.º
+
+Competências das Regiões Autónomas dos Açores e da Madeira
 
 Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV no presente diploma são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas funções e competências, constituindo receita das Regiões Autónomas o produto das coimas aí cobradas e o produto das taxas devidas pela aprovação dos alojamentos dos animais a que se referem o n.º 2 do artigo 3.º e o n.º 3 do artigo 73.º
 
-### CAPÍTULO XI — Disposições finais
+CAPÍTULO XI
 
-###### Artigo 73.º — Taxas
+Disposições finais
+
+Artigo 73.º
+
+Taxas
 
 1 - Pelos custos inerentes à emissão da licença de funcionamento dos alojamentos e sua renovação nos termos do artigo 3.º, com excepção dos que sejam propriedade de associações zoófilas legalmente constituídas e sem fins lucrativos e dos centros de recolha oficiais, é devida uma taxa a pagar pelos requerentes.
 
@@ -1426,45 +1696,51 @@ Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à D
 
 4 - Por despacho conjunto dos Ministros de Estado e das Finanças, da Agricultura, Desenvolvimento Rural e Pescas e das Cidades, Ordenamento do Território e Ambiente serão fixados os custos específicos a serem tomados em conta no cálculo das taxas, o montante das taxas a cobrar bem como os aspectos administrativos do pagamento das mesmas.
 
-## ANEXO I — Temperatura ambiente/humidade relativa
+ANEXO I
+
+Temperatura ambiente/humidade relativa
 
 Animais alojados em gaiolas ou jaulas ou em recintos interiores
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - Em casos especiais, por exemplo, quando se albergam animais muito jovens ou sem pêlo, podem ser necessárias temperaturas ambientais mais elevadas.
 
 A humidade relativa (HR) deve ser adequada às espécies alojadas e normalmente mantida a 55% (mais ou menos) 10%, evitando-se valores inferiores a 40% ou superiores a 70%.
 
-## ANEXO II — Medidas mínimas das caixas para pequenos roedores e coelhos
+ANEXO II
+
+Medidas mínimas das caixas para pequenos roedores e coelhos
 
 Caixas para animais detidos individualmente ou em grupo não aplicável a coelhos-bravos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 a) Caixas para outros pequenos roedores:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 b) Caixas de pequenos roedores em reprodução:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 c) Caixas de coelhos em reprodução não aplicável aos coelhos-bravos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - A superfície mínima do chão da gaiola para uma coelha e respectiva ninhada inclui a superfície do chão da caixa para o ninho.
 
-## ANEXO III — Dimensões mínimas para o alojamento de cães e gatos
+ANEXO III
+
+Dimensões mínimas para o alojamento de cães e gatos
 
 a) Alojamento de gatos em lojas de venda:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 b) Alojamentos de gatos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - Para o cálculo da superfície mínima do chão pode incluir-se a superfície dos tabuleiros de repouso.
 
@@ -1474,29 +1750,29 @@ d) Alojamentos de cães:
 
 d.1) Individualmente:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 d.2) Em grupo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 e) A superfície mínima do chão do recinto para uma cadela e respectiva ninhada deve estar compreendida entre 4 m2 e 6 m2.
 
 f) Alojamento de cães em locais de venda:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 g) Alojamento de cães em centros de recolha oficiais e hospedagem sem fins lucrativos:
 
 g.1) Individualmente:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - Os animais têm de ter, no mínimo, espaço suficiente para estarem de pé, deitados, para se virarem e sentarem normalmente.
 
 Os cães alojados em gaiolas deverão ser exercitados em recintos de pelo menos 1,22 m x 3,04 m, duas vezes por dia, e caminharem à trela por um período mínimo de vinte minutos, duas vezes por dia:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 g.2) Em grupo:
 
@@ -1506,17 +1782,21 @@ Num canil, cada animal deverá dispor de uma superfície de base de, pelo menos,
 
 Um recinto com as dimensões 1,50 m x 3 m não poderá alojar mais de dois cães de raça média ou grande, ou três cães de raça pequena.
 
-## ANEXO IV — Dimensões mínimas para o alojamento de certas aves
+ANEXO IV
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Dimensões mínimas para o alojamento de certas aves
+
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Nota. - O alojamento, por seis semanas, de um casal de colibris e de aves pertencentes às famílias Nectariniidae e Meliphagidae tem de ser feito numa gaiola de pelo menos 80 cm de comprimento por 40 cm de largura e por 40 cm de altura, sendo que, em caso de detenção mais longa, é necessário uma gaiola de 1,500 m3 para quatro aves.
 
 O alojamento de um casal e respectiva ninhada de codornizes anãs da China tem de ser feito numa gaiola de pelo menos 80 cm x 40 cm x 40 cm, devendo o seu pavimento ser coberto com um substrato de terra, mas nunca de areia.
 
-## ANEXO V — Superfície e altura mínimas de terrários para alojamento de répteis
+ANEXO V
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Superfície e altura mínimas de terrários para alojamento de répteis
+
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
 Exemplos:
 
@@ -1538,10 +1818,14 @@ Um casal de lagartos trepadores com o comprimento total de 20 cm:
 
 20 cm x 40 cm = 800 cm2 de superfície de base e 60 cm de altura.
 
-## ANEXO VI — Dimensões mínimas de recipientes para alojamento de anfíbios
+ANEXO VI
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+Dimensões mínimas de recipientes para alojamento de anfíbios
 
-## ANEXO VII — Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)
+ANEXO VII
+
+Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
+
+[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)](https://files.diariodarepublica.pt/1s/2003/12/290a00/84498473.pdf)

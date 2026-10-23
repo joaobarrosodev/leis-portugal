@@ -32,7 +32,7 @@ publication:
   reference: Diário da República n.º 249/1999, 1º Suplemento, Série I-A de 1999-10-25
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7168-(2) a 7168-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/10/249a01/00020003.pdf
 entry_into_force_dates: []
@@ -59,18 +59,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decpresrep/199/1999/10/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/199-1999-332388
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T04:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff1ca4910a996c704b7a834240a424da0dbdbdb034d90cd6c4cde4916c658205
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a46533a2e14058eb1f02c3e74869f8501b163b6afbe7d01054d878f2047a4cf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,44 +78,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministro do Ambiente e do Ordenamento do Território
-- Ministro da Ciência e da Tecnologia
-- Ministro da Saúde
-- Ministro da Economia
-- Ministro do Trabalho e da Solidariedade
 - Governo XIV
-- Ministro da Justiça
 - Ministro Adjunto do Primeiro-ministro
-- Ministro dos Negócios Estrangeiros
+- Ministro da Administração Interna
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Ministro da Ciência e da Tecnologia
 - Ministro da Cultura
+- Ministro da Defesa Nacional
+- Ministro da Economia
+- Ministro da Educação
+- Ministro da Justiça
+- Ministro da Presidência
+- Ministro da Reforma do Estado e da Administração Pública
+- Ministro da Saúde
 - Ministro das Finanças
 - Ministro de Estado
-- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
-- Ministro da Reforma do Estado e da Administração Pública
+- Ministro do Ambiente e do Ordenamento do Território
 - Ministro do Equipamento Social
 - Ministro do Planeamento
+- Ministro do Trabalho e da Solidariedade
+- Ministro dos Negócios Estrangeiros
 - Ministro para a Igualdade
 - Nomeação
 - Secretário de Estado da Presidência do Conselho de Ministros
-- Ministro da Defesa Nacional
-- Ministro da Educação
-- Ministro da Presidência
-- Ministro da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:187965:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:402897:por
+  label: "Exonerado o Prof. Doutor Manuel Maria Carrilho do cargo de Ministro da Cultura pelo DEC.33-A/2000.2000.07.12.PR,DR.IS-A\
+    \ [159]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/33-a-2000-402897
+  date: '2000-07-12'
+- type: amended_by
+  target: pt:dre:586388:por
+  label: "Exonerado o Dr. Jorge Paulo Sacadura de Almeida Coelho do cargo de Ministro da Presidência, o Dr. Fernando Manuel\
+    \ dos Santos Gomes do cargo de Ministro Adjunto, o Dr. Fernando Manuel dos Santos Gomes do cargo de Ministro da Administração\
+    \ Interna, o Dr. Joaquim Augusto Nunes Pina Moura do cargo de Ministro da Economia, o Dr. Guilherme Waldemar Pereira d'Oliveira\
+    \ Martins do cargo de Ministro da Educação, a Dra. Maria de Belém Roseira Martins Coelho Henriques de PIna do cargo de\
+    \ Ministra para a Igualdade e o Sr. Armando António Martins Vara do cargo de Ministro Adjunto do Primeiro-Ministro, pelo\
+    \ DEC.39-A/2000.2000.09.14.PR,DR.IS-A [213]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/39-a-2000-586388
+  date: '2000-09-14'
+- type: amended_by
+  target: pt:dre:428669:por
+  label: "Exonerado Eduardo Luís Barreto Ferro Rodrigues do cargo de Ministro do Trabalho e da Solidariedade pelo DEC.16-B/2001.2001.03.10.PR,DR.IS-A\
+    \ [59]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/16-b-2001-428669
+  date: '2001-03-10'
+- type: amended_by
+  target: pt:dre:428668:por
+  label: "Exonerado Jorge Paulo Sacadura Almeida Coelho do cargo de Ministro do Equipamento Social pelo DEC.16-A/2001.2001.03.10.PR,DR.IS-A\
+    \ [59]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/16-a-2001-428668
+  date: '2001-03-14'
+- type: amended_by
+  target: pt:dre:187965:por
+  label: "Exonerados o Dr. Júlio de Castro Caldas, o Dr. Joaquim Augusto Nunes Pina Moura e a Prof. Doutora Maria Manuela\
+    \ Arcanjo Marques da Costa, respectivamente dos cargos de Ministro da Defesa Nacional, Ministro das Finanças e Ministro\
+    \ da Saúde, pelo DEC.34-A/2001.2001.07.03.PR DR.IS-A [152]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/34-a-2001-187965
+  date: '2001-07-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T04:31:22Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +159,7 @@ validation:
 
 de 25 de Outubro
 
-**O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:**
+O Presidente da República decreta, nos termos do artigo 133.º, alínea h), da Constituição, o seguinte:
 
 São nomeados, sob proposta do Primeiro-Ministro:
 
@@ -172,12 +207,12 @@ O Sr. Armando António Martins Vara Ministro Adjunto do Primeiro-Ministro;
 
 O Dr. Vitalino José Ferreira Prova Canas Secretário de Estado da Presidência do Conselho de Ministros.
 
-**Assinado em 25 de Outubro de 1999.**
+Assinado em 25 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 25 de Outubro de 1999.**
+Referendado em 25 de Outubro de 1999.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

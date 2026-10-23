@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/297/2001/11/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-2001-570100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T02:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 197ddf7c684051b4fa65916492af98944e605e7a55c1e18090b5add1624fa046
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc25680c79170099f24e1c83d12d92a4b3c79e952c30799302bd06ade258b456
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Certificado de Conformidade
 - Direcção Geral de Viação
 - Equipamento
+- Equipamento de Veículo
 - Especificação Técnica
 - Homologação
-- Veículo
-- Equipamento de Veículo
 - Proteção do Consumidor
 - Regulamento
 - Regulamento Relativo ao Arranjo Interior dos Automóveis
+- Veículo
 relationships:
 - type: cites
   target: celex:31970L0156
@@ -92,14 +92,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/2000/4/oj
 article_structure:
   article_count: 44
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:28:10Z'
   warnings: []
   errors: []
 ---
@@ -148,15 +148,15 @@ b) Deve recusar a matrícula e a entrada em circulação de veículos novos que 
 
 Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2001. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - António Luís Santos Costa - Luís Garcia Braga da Cruz.
 
-**Promulgado em 18 de Outubro de 2001.**
+Promulgado em 18 de Outubro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Outubro de 2001.**
+Referendado em 28 de Outubro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 REGULAMENTO RELATIVO AO ARRANJO INTERIOR DOS AUTOMÓVEIS
 
@@ -358,7 +358,9 @@ Os painéis de tecto accionados electricamente e os seus comandos devem obedecer
 
 2 - Os sistemas constituídos por hastes rebatíveis e suas articulações, utilizados para suportarem o tecto não rígido, não devem apresentar nenhuma aspereza perigosa ou aresta viva dirigida para trás ou para baixo, quando se situem à frente ou acima dos ocupantes.
 
-###### Artigo 13.º — Parte traseira dos bancos fixados ao veículo
+###### Artigo 13.º
+
+## Parte traseira dos bancos fixados ao veículo
 
 1 - A superfície da parte traseira dos bancos não deve conter asperezas perigosas nem arestas vivas susceptíveis de aumentar o risco ou a gravidade dos ferimentos dos ocupantes.
 
@@ -908,7 +910,7 @@ Posição da barra cilíndrica de ensaio na abertura do tecto de abrir e da jane
 
 Símbolo do interruptor comandado pelo condutor
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 ## ANEXO 5.º — (referente ao n.º 1 do artigo 5.º)
 
@@ -918,7 +920,7 @@ São considerados como susceptíveis de serem atingidos pelos joelhos dos ocupan
 
 1 - Dispositivo - o dispositivo é determinado no desenho cotado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 2 - Procedimento - o dispositivo pode ocupar todas as posições situadas abaixo do nível do quadro de bordo e tais que:
 
@@ -934,7 +936,7 @@ Elementos constituintes do manequim tridimensional
 
 (figura n.º 1)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 Dimensões e massas do manequim
 
@@ -954,7 +956,7 @@ Massas das pernas ... 13
 
 Total ... 75
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 ## ANEXO 7.º — (referente ao capítulo V)
 
@@ -962,7 +964,7 @@ Dispositivo de medição das saliências
 
 (figura n.º 1)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 ## ANEXO 8.º — Observações relativas ao capítulo I
 
@@ -988,7 +990,7 @@ Nos lados do veículo, o tecto começa no bordo superior da abertura da porta. N
 
 Para as medições, os rebordos orientados para baixo devem ser ignorados. São considerados como fazendo parte da parede lateral do veículo.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 Relativas ao n.º 7 do artigo 2.º
 
@@ -1004,7 +1006,7 @@ As grelhas serão consideradas conformes às especificações, se cumprirem as e
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 Relativas aos n.os 3 e 4 do artigo 4.º
 
@@ -1024,7 +1026,7 @@ Relativas ao n.º 7 do artigo 4.º
 
 Os n.os 6 e 7 do artigo 4.º completam-se mutuamente; a primeira frase do n.º 7 (quer dizer, retrair ou destacar sob uma força de 37,8 daN) é aplicada e em seguida o n.º 6, no caso de uma retracção até uma saliência compreendida entre 3,2 mm e 9,5 mm ou, no caso de destacamento, as duas últimas frases do n.º 7 (a superfície da secção transversal é medida antes da força ser aplicada). Todavia, se por razões práticas, o n.º 6 tiver de ser aplicado (retracção abaixo de 9,5 mm e acima de 3,2 mm), pode ser mais apropriado, à escolha do fabricante, verificar as especificações do n.º 6 antes de se aplicar a força de 37,8 daN especificada no n.º 7.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
+[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)](https://files.diariodarepublica.pt/1s/2001/11/270a00/74517468.pdf)
 
 Relativas ao n.º 8 do artigo 4.º
 

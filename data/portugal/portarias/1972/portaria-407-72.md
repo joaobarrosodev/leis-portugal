@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-1972-675809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T03:48:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 476814ff06a3d6fe517d1b31520f654da946f00620fc649e837b47a368f0850d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75e3746f87b99a2337885f6057bf004c8d532cc1d30cbf30062e458487385e66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:48:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:48:44Z'
   warnings: []
   errors: []
 ---
@@ -90,22 +90,22 @@ Ministério da Educação Nacional, 3 de Julho de 1972. - Pelo Ministro da Educa
 
 Regulamento do Prémio Escolar Flora Belo Gonçalves Coelho
 
-###### Artigo 1.º É criado o Prémio Escolar Flora Belo Gonçalves Coelho, como estímulo aos alunos das escolas do ensino primário da freguesia de Nabais, concelho de Gouveia, por iniciativa de Henrique Coelho.
+Artigo 1.º É criado o Prémio Escolar Flora Belo Gonçalves Coelho, como estímulo aos alunos das escolas do ensino primário da freguesia de Nabais, concelho de Gouveia, por iniciativa de Henrique Coelho.
 
-###### Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 8000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
+Art. 2.º O fundo de manutenção do referido Prémio é constituído pela importância de 8000$00, oferecida para esse fim, convertida em certificado de renda perpétua da Junta do Crédito Público, assentado à Direcção do Distrito Escolar da Guarda.
 
-###### Art. 3.º - 1. O rendimento do referido fundo será em cada ano entregue, alternadamente, ao aluno ou aluna das escolas referidas no artigo 1.º que tenha concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenha distinguido na prestação das provas desse exame.
+Art. 3.º - 1. O rendimento do referido fundo será em cada ano entregue, alternadamente, ao aluno ou aluna das escolas referidas no artigo 1.º que tenha concluído com aprovação o exame do ciclo elementar (4.ª classe) do ensino primário e mais se tenha distinguido na prestação das provas desse exame.
 
 2. Se se verificar igualdade de mérito entre vários alunos na prestação de provas, far-se-á a escolha tendo em atenção o currículo escolar anterior e de entre os de condição económica mais débil.
 
-###### Art. 4.º O nome do aluno a premiar deverá ser comunicado pelos respectivos professores, após a realização dos exames, ao delegado escolar, que, por sua vez, o transmitirá à Direcção do Distrito Escolar da Guarda.
+Art. 4.º O nome do aluno a premiar deverá ser comunicado pelos respectivos professores, após a realização dos exames, ao delegado escolar, que, por sua vez, o transmitirá à Direcção do Distrito Escolar da Guarda.
 
-###### Art. 5.º - 1. A atribuição do Prémio far-se-á anualmente, se for possível, no início do ano lectivo seguinte.
+Art. 5.º - 1. A atribuição do Prémio far-se-á anualmente, se for possível, no início do ano lectivo seguinte.
 
 2. No caso de surgirem dificuldades na escolha do candidato, será o assunto resolvido pelo director escolar.
 
-###### Art. 6.º O aluno que não comparecer no dia designado para entrega do Prémio, nem o reclamar no decorrer desse ano escolar, perderá o direito ao mesmo em benefício da caixa escolar.
+Art. 6.º O aluno que não comparecer no dia designado para entrega do Prémio, nem o reclamar no decorrer desse ano escolar, perderá o direito ao mesmo em benefício da caixa escolar.
 
-###### Art. 7.º Deverá ficar arquivado pelo período de cinco anos, na direcção escolar, em relação à atribuição do Prémio de cada ano, um breve relatório das circunstâncias de que o mesmo se tiver revestido.
+Art. 7.º Deverá ficar arquivado pelo período de cinco anos, na direcção escolar, em relação à atribuição do Prémio de cada ano, um breve relatório das circunstâncias de que o mesmo se tiver revestido.
 
 Direcção-Geral do Ensino Primário, 31 de Maio de 1972. - O Director-Geral do Ensino Básico, Teixeira de Matos.

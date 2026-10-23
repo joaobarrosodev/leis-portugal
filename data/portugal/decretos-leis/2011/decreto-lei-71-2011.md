@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/71/2011/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2011-670004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T03:15:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c80488ccd87fd7ae180c7b17ba003435325bca61546ebc20af92a87d76dca1fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 390ad7991144a6f9e0e625777cd4a3295028733f4bc8375e8d60c6fc6af5df1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:15:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,33 +68,33 @@ reuse:
 subjects:
 - Acreditação
 - ÁGUA Potável
+- Aparelho de Medição
 - Aproximação das Legislações
+- ASAE
 - Bebida
 - Certificado de Conformidade
-- Energia Elétrica
-- Multa
-- Metrologia
+- Certificado de Qualidade
+- Comércio
 - Comissão de Aplicação de Coimas em Matéria Económica e Publicidade
 - Contador-verificador
 - Contra-ordenação
+- Controlo Metrológico
 - Definição de Competências
-- Poluição Atmosférica
+- Energia
+- Energia Elétrica
 - Energia Térmica
 - Equipamento Térmico
 - Gás
-- Aparelho de Medição
-- ASAE
-- Veículo
-- Certificado de Qualidade
 - Instituto Português da Qualidade
 - Instituto Português de Acreditação
-- Energia
+- Metrologia
+- Multa
+- Normalização
+- Poluição Atmosférica
 - Regime Jurídico
 - Regulamento CE
-- Controlo Metrológico
-- Comércio
 - Taximetro
-- Normalização
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:106938487:por
@@ -132,16 +132,22 @@ relationships:
   target: celex:32009L0137
   label: null
   source: http://data.europa.eu/eli/dir/2009/137/oj
+- type: repealed_by
+  target: pt:dre:106938487:por
+  label: Revogado pelo(a) Decreto-Lei n.º 45/2017 - Diário da República n.º 82/2017, Série I de 2017-04-27, sem prejuízo do
+    disposto no art. 42.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2017-106938487
+  date: '2017-04-27'
 article_structure:
   article_count: 19
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:15:47Z'
   warnings: []
   errors: []
 ---
@@ -432,15 +438,15 @@ O presente decreto-lei entra em vigor no 1.º dia do mês seguinte à sua public
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 2011. - José Sócrates Carvalho Pinto de Sousa. - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - José Manuel Santos de Magalhães - José António Fonseca Vieira da Silva - António Augusto da Ascenção Mendonça - Ana Maria Teodoro Jorge.
 
-**Promulgado em 12 de Maio de 2011.**
+Promulgado em 12 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 13 de Maio de 2011.**
+Referendado em 13 de Maio de 2011.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
@@ -496,7 +502,7 @@ Sempre que o instrumento se destine a ser utilizado num campo electromagnético 
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 1.3.2 - a) Os ambientes mecânicos são classificados em três classes distintas - M1 a M3 - conforme a seguir se indica:
 
@@ -824,13 +830,13 @@ Definições
 
 «Condições de referência» - condições especificadas para as quais é convertida a quantidade de fluido medida.
 
-# PARTE I — Requisitos específicos - Contadores de gás
+## PARTE I — Requisitos específicos - Contadores de gás
 
 1 - Condições estipuladas de funcionamento - o fabricante deve especificar as condições estipuladas de funcionamento do contador de gás tendo em consideração o seguinte:
 
 1.1 - Os valores da gama de caudais de gás devem observar as seguintes condições:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 1.2 - A gama de temperaturas do gás, com uma amplitude mínima de 40ºC;
 
@@ -852,7 +858,7 @@ O instrumento deve ser concebido para a gama de gases e de pressões de alimenta
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 O contador de gás não deve explorar os erros máximos admissíveis nem favorecer de forma sistemática nenhuma das partes.
 
@@ -914,7 +920,7 @@ b) Quantidade correspondente ao valor do erro máximo admissível na quantidade 
 
 6 - Unidades - a quantidade medida deve ser indicada em metros cúbicos ou em quilogramas.
 
-# PARTE II — Requisitos específicos - Dispositivos de conversão de volume
+## PARTE II — Requisitos específicos - Dispositivos de conversão de volume
 
 Um dispositivo de conversão de volume constitui um subconjunto, que funciona independente e constitui um instrumento de medida quando associado a um instrumento de medida com o qual é compatível.
 
@@ -996,7 +1002,7 @@ Os valores de f(índice n), U(índice n), I(índice n), I(índice st), I(índice
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 As gamas de tensão, de frequência e do factor de potência dentro das quais o contador deve satisfazer as exigências em matéria de erros máximos admissíveis são especificadas no quadro n.º 2.
 
@@ -1012,7 +1018,7 @@ Estas gamas de tensão e de frequência devem reconhecer as características tí
 
 O erro da medição, que não deve exceder o erro máximo admissível referido no quadro n.º 2, é calculado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Quando o contador estiver a funcionar com uma corrente de carga variável, os erros expressos em percentagem não devem exceder os limites indicados no quadro n.º 2.
 
@@ -1020,7 +1026,7 @@ QUADRO N.º 2
 
 Valores dos erros máximos admissíveis expressos em percentagem para condições estipuladas de funcionamento, níveis de carga de corrente definidos e a temperatura de funcionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Excepção - para contadores polifásicos electromecânicos a gama de correntes para uma carga monofásica é limitada a 5I(índice tr) (menor que) I (menor que) I(índice max).
 
@@ -1044,7 +1050,7 @@ QUADRO N.º 3
 
 Valores críticos de variação na presença de perturbações de longa duração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 4.3 - Efeito admissível dos fenómenos electromagnéticos transitórios:
 
@@ -1314,7 +1320,7 @@ ii) Contador e sistema de medição.
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 1.2 - As propriedades do líquido a medir pelo instrumento, especificando o nome ou o tipo de líquido ou as suas características pertinentes, por exemplo:
 
@@ -1336,13 +1342,13 @@ QUADRO N.º 1
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 2.2 - São os seguintes os valores dos erros máximos admissíveis das indicações para quantidades inferiores a 2 l:
 
 QUADRO N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 2.3 - No entanto, independentemente da quantidade medida, o valor do erro máximo admissível é igual ao maior dos dois valores seguintes:
 
@@ -1382,7 +1388,7 @@ b) Instrumentos de medição associados - a exactidão dos instrumentos de medi�
 
 QUADRO N.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Estes valores aplicam-se à indicação das quantidades características do líquido no dispositivo de conversão;
 
@@ -1450,7 +1456,7 @@ Não deve ser possível alterar a grandeza medida.
 
 QUADRO N.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Nota. - O fabricante pode, contudo, especificar uma exactidão superior para certos tipos de sistemas de medição.
 
@@ -1612,13 +1618,13 @@ O fabricante deve especificar o factor (x), devendo (x) ser (igual ou menor que)
 
 Quadro N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 4.2 - Desvio padrão - o valor máximo admissível para o desvio padrão num instrumento da classe X (x) é o resultado da multiplicação do factor (x) pelo valor do quadro seguinte:
 
 Quadro N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Para as classes XI e XII, (x) deve ser inferior a 1.
 
@@ -1630,13 +1636,13 @@ Para a classe XIIII, (x) deve ser superior a 1.
 
 Quadro N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 4.4 - Valor da divisão de verificação - instrumentos com divisão múltipla:
 
 Quadro n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 5 - Intervalo de medição - ao especificar a gama de medição dos instrumentos da classe Y, o fabricante deve ter em conta que a capacidade mínima não deve ser inferior a:
 
@@ -1706,7 +1712,7 @@ O factor (x) de designação da classe deve ser (igual ou menor que) 2 e assumir
 
 Quadro n.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Nota. - O desvio calculado de cada enchimento em relação à média pode ser ajustado a fim de ter em conta o efeito do tamanho das partículas do material.
 
@@ -1728,7 +1734,7 @@ Nota. - O desvio calculado de cada enchimento em relação à média pode ser aj
 
 Quadro n.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 3 - Divisão de totalização - o valor da divisão de totalização d(índice t) deve ter os seguintes limites:
 
@@ -1752,7 +1758,7 @@ Quadro n.º 6
 
 Quadro n.º 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 8.2 - O valor crítico de variação devido a uma perturbação é igual ao valor de uma divisão de totalização para qualquer massa indicada ou total memorizado.
 
@@ -1778,7 +1784,7 @@ sendo d o valor de uma divisão da escala de totalização do dispositivo de tot
 
 Quadro n.º 8
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 4 - Velocidade da correia transportadora - a velocidade da correia transportadora deve ser especificada pelo fabricante. Para instrumentos com velocidade fixa e instrumentos com um mecanismo de controlo manual da velocidade da correia transportadora, a velocidade não deve variar para além de 5 % do valor nominal.
 
@@ -1802,7 +1808,7 @@ A velocidade do produto não deve ser diferente da velocidade da correia transpo
 
 Quadro n.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 2.2 - O valor do erro máximo admissível para o peso de vagões atrelados ou não atrelados pesados em movimento deve ser igual ao maior dos valores seguintes:
 
@@ -1826,7 +1832,7 @@ Quadro n.º 9
 
 Quadro n.º 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 4 - Gama de medição:
 
@@ -1840,7 +1846,7 @@ Quadro n.º 10
 
 Quadro n.º 11
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 5.2 - O valor crítico de variação devido a uma perturbação é igual ao valor da divisão.
 
@@ -2042,13 +2048,13 @@ Se um intervalo terminal for limitado por uma superfície, o valor do erro máxi
 
 Quadro n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 As sondas de medição podem também ser das classes de exactidão I ou II. Neste caso, para qualquer comprimento entre duas marcações da escala, uma das quais aposta no lastro e a outra na sonda, o valor do erro máximo admissível é igual a (mais ou menos) 0,6 mm sempre que a aplicação da fórmula dê um valor inferior a 0,6 mm. O valor do erro máximo admissível para o comprimento entre duas marcações consecutivas da escala e a diferença máxima admissível entre dois intervalos consecutivos são dados pelo quadro n.º 2.
 
 Quadro n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 Nos metros articulados, a junção deve ser feita de modo a não provocar erros, para além dos supramencionados, superiores a 0,3 mm para a classe II e a 0,5 mm para a classe III.
 
@@ -2098,7 +2104,7 @@ Requisitos específicos
 
 2 - Valores dos erros máximos admissíveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 3 - Materiais - os recipientes para a comercialização de bebidas devem ser fabricados com materiais suficientemente rígidos e dimensionalmente estáveis para que não seja ultrapassado o valor do erro máximo admissível da capacidade.
 
@@ -2216,7 +2222,7 @@ G(índice A) - é o peso por unidade de superfície da amostra de tecido, em new
 
 Quadro n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 2.2 - Se o objecto medido não for transportado pelo instrumento de medição, a sua velocidade deve situar-se dentro dos limites especificados pelo fabricante.
 
@@ -2226,7 +2232,7 @@ Quadro n.º 1
 
 Quadro n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 O valor verdadeiro do comprimento dos diversos tipos de material deve ser medido mediante a utilização de instrumentos adequados (por exemplo, fitas métricas).
 
@@ -2258,7 +2264,7 @@ O material a medir deve ser disposto sobre uma base apropriada (por exemplo, uma
 
 Quadro n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 1.3 - Velocidade do produto - a velocidade deve situar-se dentro dos limites especificados pelo fabricante para o instrumento.
 
@@ -2288,7 +2294,7 @@ Requisitos específicos
 
 Quadro n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 2 - O fabricante deve indicar os valores das condições estipuladas de funcionamento como segue:
 
@@ -2314,7 +2320,7 @@ p(índice min) (igual ou menor que) 860 hPa e p(índice max) (igual ou maior que
 
 Quadro n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 3.2 - O valor do erro máximo admissível no cálculo de lambda é igual a 0,3 %. O valor convencionalmente verdadeiro é calculado de acordo com a fórmula definida no n.º 5.3.7.3 do anexo i da Directiva n.º [98/69/CE](https://data.europa.eu/eli/dir/1998/69/oj?locale=pt), do Parlamento Europeu e do Conselho, de 13 de Outubro, relativa às medidas a tomar contra a poluição do ar pelas emissões provenientes dos veículos a motor e que altera a Directiva n.º [70/220/CEE](https://data.europa.eu/eli/dir/1970/220/oj?locale=pt), do Conselho, de 28 de Dezembro de 1998.
 
@@ -2332,7 +2338,7 @@ Para este efeito, são utilizados no cálculo os valores indicados pelo instrume
 
 Quadro n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11500/0320103243.pdf)
 
 O valor de lambda deve ser indicado com uma resolução de 0,001.
 

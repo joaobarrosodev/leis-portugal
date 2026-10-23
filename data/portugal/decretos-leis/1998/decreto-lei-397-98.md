@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/290a00/68696872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/397/1998/12/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1998-191548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T02:03:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88aae36474b2cc633be62cc9822a030c3ff8b1f3ae5feb9a7352c5297cada5dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5578a7751c21eeafba6506035c3700a7408b035d7853200033e3fad76496d8b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:03:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,47 +65,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Armamento
 - Autoridade Nacional de Segurança
-- Sociedade Comercial
-- Segurança Interna
+- Comércio
+- Comércio de Armas
 - Definição de Competências
 - Direcção Geral de Armamento e Equipamentos de Defesa
 - Direcção Geral do Comércio
 - Empresa Privada
 - Empresa Pública
-- Armamento
 - Estatuto
+- Exportação
 - Gabinete Nacional de Segurança
 - Importação
 - Licenciamento
+- Ministro da Defesa Nacional
 - Organismo Autónomo
-- Exportação
 - Presidência do Conselho de Ministros
 - Regime Jurídico
-- Ministro da Defesa Nacional
+- Segurança Interna
 - Setor Privado
 - Setor Público
-- Comércio
-- Comércio de Armas
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:493978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570566:por
+  label: "Alterados os arts. 2.º, 3.º, 4.º e 11.º, pela LEI.153/99.1999.09.14.AR DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/153-1999-570566
+  date: '1999-09-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/88-a/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:218547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493978:por
+  label: "Revogado o presente diploma, na redacção da Lei 153/99, de 14-Set, pela LEI.49/2009.05.08.2009.AR, DR.IS [150] de\
+    \ 05.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2009-493978
+  date: '2009-08-05'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:03:22Z'
   warnings: []
   errors: []
 ---
@@ -282,12 +305,12 @@ As empresas em nome individual e as sociedades comerciais cuja matrícula ou pac
 
 Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.
 
-**Promulgado em 25 de Novembro de 1998.**
+Promulgado em 25 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 3 de Dezembro de 1998.**
+Referendado em 3 de Dezembro de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

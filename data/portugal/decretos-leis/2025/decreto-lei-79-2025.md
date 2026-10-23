@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09700/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/79/2025/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2025-918823455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T03:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec971e91c19c7c2c0192ea9b765b60eea8550e9c20594e16ef838830c5a069c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce8f7bcc1397dc2bb5c90d061bfa0264043adc8ca2605a72c1be18cb7696c7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gás Natural
-- Energia Renovável
 - Combustível
-- Fiscalização
 - Direção Geral de Energia e Geologia
-- Gás
-- Licenciamento
+- Energia Renovável
 - Entidade Reguladora dos Serviços Energéticos
-- Sistema Nacional de Gás Natural
-- Plano de Recuperação e Resiliência
+- Fiscalização
+- Gás
+- Gás Natural
 - Hidrogénio
+- Licenciamento
+- Plano de Recuperação e Resiliência
 - Sistema Nacional de Gás
+- Sistema Nacional de Gás Natural
 relationships:
 - type: amended_by
   target: pt:dre:923837168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:decreto-lei:62/2020
+  label: Altera, a partir de 22 de maio de 2025, os artigos 3.º, 7.º, 51.º, 70.º, 71.º e 158.º e o anexo vi e revoga o n.º
+    13 do artigo 51.º e as alíneas g), h), j) e k) do n.º 1 do mesmo anexo vi ao Decreto-Lei n.º 62/2020, de 28 de agosto,
+    Diário da República n.º 168/2020, Série I
+  source: null
+  date: '2020-08-28'
+- type: amends
+  target: pt:numero:decreto-lei:70/2022
+  label: Altera, a partir de 22 de maio de 2025, o artigo 16.º (vigência) do Decreto-Lei n.º 70/2022, de 14 de outubro, Diário
+    da República n.º 199/2022, Série I
+  source: null
+  date: '2022-10-14'
 - type: cites
   target: celex:32023R1185
   label: null
@@ -125,20 +138,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/390/1994/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/390/1994/06/17/p/dre
+- type: cites
+  target: pt:dre:107791615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141377978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202233711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204502328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899341:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32024L1788
   label: null
   source: null
 article_structure:
-  article_count: 15
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:53:08Z'
   warnings: []
   errors: []
 ---
@@ -317,7 +366,9 @@ ooo) ‘Hidrogénio hipocarbónico’, o hidrogénio cujo teor energético é pr
 
 ppp) ‘Hidrogénio renovável’ é o hidrogénio produzido por eletrólise da água (num eletrolisador, alimentado por eletricidade), e com eletricidade proveniente de fontes renováveis. As emissões de gases com efeito de estufa ao longo de todo o ciclo de produção de hidrogénio renovável são próximas de zero. O hidrogénio renovável pode também ser produzido por reformação de biogás (em vez de gás natural) ou por conversão bioquímica de biomassa, desde que cumpra requisitos de sustentabilidade.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Todos os pedidos, comunicações e notificações ou quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei e respetiva regulamentação relativos às atividades de receção, armazenamento, regaseificação, armazenamento subterrâneo, transporte, distribuição, comercialização, operação de mercados de gás e operação logística de mudança de comercializador de gás e ainda produção de gases de origem renovável devem ser efetuados através do Portal Único dos Serviços Digitais - o Gov.pt, a que se refere o [Decreto-Lei n.º 49/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2024-875899341), de 8 de agosto, ou da plataforma eletrónica de contratação pública, acessível através daquele balcão, conforme ao caso aplicáveis.
 
@@ -331,7 +382,9 @@ ppp) ‘Hidrogénio renovável’ é o hidrogénio produzido por eletrólise da 
 
 6 - As notificações relacionadas com os procedimentos previstos no presente diploma são efetuadas através do Serviço Público de Notificações Eletrónicas (SPNE) associado à Morada Única Digital, nos termos do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - O pedido de registo é apresentado no Portal Único dos Serviços Digitais - o Gov.pt, referido no [Decreto-Lei n.º 49/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2024-875899341), de 8 de agosto, na sua redação atual, devendo ser dirigido à DGEG e incluir a identificação completa do requerente, com menção do nome ou firma, do número de identificação fiscal, domicílio profissional ou sede, do estabelecimento principal no território nacional, quando este exista, bem como o número do telefone, fax e endereço eletrónico
 
@@ -359,7 +412,9 @@ ppp) ‘Hidrogénio renovável’ é o hidrogénio produzido por eletrólise da 
 
 13 - (Revogado.)
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - O registo prévio é efetuado através do Portal Único dos Serviços Digitais - o Gov.pt, a que se o refere [Decreto-Lei n.º 49/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2024-875899341), de 8 de agosto, e observa o seguinte:
 
@@ -417,7 +472,9 @@ c) O exercício da atividade em desconformidade com as normas legais e regulamen
 
 10 - Enquanto não for disponibilizada a plataforma referida no número anterior, ou quando por motivos de indisponibilidade das plataformas eletrónicas não for possível o cumprimento do disposto no n.º 1, pode ser utilizado qualquer outro meio legalmente admissível, privilegiando a via eletrónica.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - [...]
 
@@ -435,7 +492,9 @@ d) Ao fornecimento através de equipamentos móveis (rodoviários, ferroviários
 
 4 - [...]
 
-###### Artigo 158.º — [...]
+Artigo 158.º
+
+[...]
 
 1 - [...]
 
@@ -513,15 +572,15 @@ O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de abril de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Maria da Graça Carvalho.
 
-**Promulgado em 16 de maio de 2025.**
+Promulgado em 16 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Marcelo Rebelo de Sousa.**
+O Presidente da República, Marcelo Rebelo de Sousa.
 
-**Referendado em 20 de maio de 2025.**
+Referendado em 20 de maio de 2025.
 
-**O Primeiro-Ministro, Luís Montenegro.**
+O Primeiro-Ministro, Luís Montenegro.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 
@@ -564,3 +623,5 @@ l) [...]
 4 - [...]
 
 5 - [...]»
+
+119079319

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/9/2014/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2014-571026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T03:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db2fee944cad334e511d54dd25123345c7cbf221cfa00d1ab9e496425e5d6256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64a0df06d49d4de83abb7f066460b1e71248fcdd9636b861c64b6f7cbb090396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Produto Biocida
 - Comissão CE
+- Produto Biocida
 - Saúde Animal
 relationships:
 - type: amended_by
@@ -96,16 +96,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/2002/05/03/p/dre
+- type: repealed_by
+  target: pt:dre:114177787:por
+  label: Revogado, a partir de 01.01.2018, o Dec Lei 121/2002 de 13-mai, na redação do presente diploma, mantendo-se contudo
+    transitoriamente em vigor o seu art. 38.º pelo(a) Decreto-Lei n.º 140/2017 - Diário da República n.º 217/2017, Série I
+    de 2017-11-10 nos termos do n.º 1 do seu art. 20.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2017-114177787
+  date: '2017-11-10'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:26:09Z'
   warnings: []
   errors: []
 ---
@@ -156,15 +163,15 @@ c) Maçaroca de milho em pó, a partir de 1 de fevereiro de 2015, para o tipo 14
 
 Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Passos Coelho - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo.
 
-**Promulgado em 16 de dezembro de 2013.**
+Promulgado em 16 de dezembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 18 de dezembro de 2013.**
+Referendado em 18 de dezembro de 2013.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 
@@ -172,22 +179,30 @@ Visto e aprovado em Conselho de Ministros de 21 de novembro de 2013. - Pedro Pas
 
 Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
 
-## ANEXO I-A — Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas de baixo risco
+ANEXO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
+Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas de baixo risco
 
-## ANEXO II — (a que se refere o artigo 3.º)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
+
+ANEXO II
+
+(a que se refere o artigo 3.º)
 
 Republicação do anexo I ao Decreto-Lei n.º 121/2002, de 3 de maio
 
-## ANEXO I — Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
+Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
 
 Republicação do anexo I-A ao Decreto-Lei n.º 121/2002, de 3 de maio
 
-## ANEXO I-A — Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas de baixo risco
+ANEXO I-A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)
+Lista de substâncias ativas e seus requisitos decididos a nível comunitário para inclusão em produtos biocidas de baixo risco
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01300/0039700444.pdf)

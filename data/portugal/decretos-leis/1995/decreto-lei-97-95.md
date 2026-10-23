@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/108a00/26452647.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/97/1995/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1995-513633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T01:43:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a03f413c17a857c33b5c3c04131965e7568751159a1868978c2fbb904320082
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b505c751fe3c31b33be3538d095b1d4ecb3ed70fc513b2366e96aca49e3af732
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:43:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
 - Comissão de Ética para a Saúde
-- Saúde
 - Definição de Competências
 - Experimentação nos Seres Humanos
+- Medicina
+- Saúde
 relationships:
 - type: amended_by
   target: pt:dre:116673880:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:116673880:por
+  label: Revogado, a partir de 14.12.2018, o presente diploma, pelo(a) Decreto-Lei n.º 80/2018 - Diário da República n.º 198/2018,
+    Série I de 2018-10-15, que determinou a remissão para aquele diploma das referências feitas ao presente, bem como a remissão
+    para as comissões de ética constituídas nos termos daquele decreto-lei das comissões de ética para a saúde previstas no
+    presente diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2018-116673880
+  date: '2018-10-15'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:43:01Z'
   warnings: []
   errors: []
 ---
@@ -199,12 +207,12 @@ As CES elaboram, no fim de cada ano civil, um relatório sobre a sua actividade,
 
 Visto e aprovado em Conselho de Ministros de 2 de Março de 1995. - Aníbal António Cavaco Silva - Adalberto Paulo da Fonseca Mendo.
 
-**Promulgado em 4 de Abril de 1995.**
+Promulgado em 4 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 6 de Abril de 1995.**
+Referendado em 6 de Abril de 1995.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

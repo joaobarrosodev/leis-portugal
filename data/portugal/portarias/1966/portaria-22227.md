@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22227-1966-480151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d938df324f2ccc19a758aad969e53a48ce53af76588de24422f9acd83af82d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aec9eaf0d0aa7f087f6a87fab96927907bf099ef485239cba5f480325584a6e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:06Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +112,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 2.º Os artigos 50.º, 51.º, 53.º, 55.º a 58.º, 63.º, 64.º, 65.º, 66.º, 67.º, 70.º, 71.º e 74.º a 76.º do mesmo diploma com as seguintes alterações:
 
-###### Art. 50.º - 1. Para efeito do recrutamento dos professores e da prestação do serviço docente, as disciplinas ministradas nas escolas práticas de agricultura distribuem-se pelos grupos seguintes:
+Art. 50.º - 1. Para efeito do recrutamento dos professores e da prestação do serviço docente, as disciplinas ministradas nas escolas práticas de agricultura distribuem-se pelos grupos seguintes:
 
 Grupo A:
 
@@ -114,7 +134,7 @@ Professores adjuntos: Língua e História Pátria.
 
 3. Os professores dos grupos A e B têm a designação de professores técnicos.
 
-###### Art. 51.º - 1. Segundo as necessidades do serviço de cada escola, o respectivo quadro de pessoal docente compreende professores efectivos e adjuntos, regentes de trabalhos e técnicos auxiliares, ou sòmente algumas dessas categorias, segundo para cada caso se encontre indicado no correspondente mapa anexo ao [Decreto n.º 46466](https://diariodarepublica.pt/dr/detalhe/decreto/46466-1965-292518), de 31 de Julho de 1965.
+Art. 51.º - 1. Segundo as necessidades do serviço de cada escola, o respectivo quadro de pessoal docente compreende professores efectivos e adjuntos, regentes de trabalhos e técnicos auxiliares, ou sòmente algumas dessas categorias, segundo para cada caso se encontre indicado no correspondente mapa anexo ao [Decreto n.º 46466](https://diariodarepublica.pt/dr/detalhe/decreto/46466-1965-292518), de 31 de Julho de 1965.
 
 2. Os professores efectivos e adjuntos exercem o magistério de qualquer dos grupos a que se refere o artigo anterior e a orientação dos correspondentes trabalhos práticos, segundo a distribuição fixada no mesmo artigo.
 
@@ -124,11 +144,11 @@ Professores adjuntos: Língua e História Pátria.
 
 ...
 
-###### Art. 53.º A regência das disciplinas não pertencentes aos grupos de que não possam encarregar-se os professores dos quadros da escola será confiada a professores de serviço eventual.
+Art. 53.º A regência das disciplinas não pertencentes aos grupos de que não possam encarregar-se os professores dos quadros da escola será confiada a professores de serviço eventual.
 
 ...
 
-###### Art. 55.º - 1. O provimento dos lugares de professor efectivo é feito mediante concurso de provas, anunciado no Diário do Governo e Boletins Oficiais das províncias ultramarinas com antecedência não inferior a 90 dias em relação ao termo do prazo que for fixado para a apresentação dos requerimentos, realizando-se as provas na escola que for designada por despacho ministerial.
+Art. 55.º - 1. O provimento dos lugares de professor efectivo é feito mediante concurso de provas, anunciado no Diário do Governo e Boletins Oficiais das províncias ultramarinas com antecedência não inferior a 90 dias em relação ao termo do prazo que for fixado para a apresentação dos requerimentos, realizando-se as provas na escola que for designada por despacho ministerial.
 
 2. A admissão ao concurso pode ser requerida, dentro do prazo fixado no anúncio a que se refere o número anterior, pelos candidatos que, tendo estagiado ou prestado serviço durante o mínimo de dois anos nas estações experimentais ou nos trabalhos de campo dos serviços agrícolas oficiais ou ainda na gerência de uma empresa agrícola, possuam a habilitação do curso superior de Agronomia.
 
@@ -150,17 +170,17 @@ f) Bilhete de identidade.
 
 5. O bilhete de identidade será restituído depois de conferido e de feita, à margem do requerimento, a anotação da conferência.
 
-###### Art. 56.º - 1. As provas do concurso são prestadas perante júri nomeado pelo Ministro do Ultramar e constituído por um presidente e, pelo menos, quatro vogais, todos escolhidos de entre professores do ensino superior ou profissional, dos quais pelo menos dois serão obrigatòriamente do ensino agrícola.
+Art. 56.º - 1. As provas do concurso são prestadas perante júri nomeado pelo Ministro do Ultramar e constituído por um presidente e, pelo menos, quatro vogais, todos escolhidos de entre professores do ensino superior ou profissional, dos quais pelo menos dois serão obrigatòriamente do ensino agrícola.
 
 2. Não pode fazer parte do júri o professor que for parente ou afim, até ao 4.º grau, de qualquer dos candidatos.
 
 3. Compete ao presidente do júri designar o secretário, distribuir o serviço pelos vogais e fixar o horário das provas.
 
-###### Art. 57.º - 1. A apreciação da documentação apresentada pelos candidatos compete ao júri, que proporá ao presidente a exclusão dos candidatos que não satisfaçam às condições legais.
+Art. 57.º - 1. A apreciação da documentação apresentada pelos candidatos compete ao júri, que proporá ao presidente a exclusão dos candidatos que não satisfaçam às condições legais.
 
 2. A relação dos candidatos admitidos à prestação das provas será publicada no Diário do Governo e nos Boletins Oficiais, após comunicação à Direcção-Geral do Ensino.
 
-###### Art. 58.º - 1. A requisição do júri podem os candidatos ser submetidos à inspecção de uma junta médica designada pelos serviços de saúde.
+Art. 58.º - 1. A requisição do júri podem os candidatos ser submetidos à inspecção de uma junta médica designada pelos serviços de saúde.
 
 2. À junta médica compete verificar se os candidatos sofrem de moléstia contagiosa, especialmente de tuberculose contagiosa ou evolutiva, ou de deficiência física que prejudique o exercício do magistério, bem como se possuem o equilíbrio mental que aquele exercício requer.
 
@@ -168,9 +188,9 @@ f) Bilhete de identidade.
 
 ...
 
-###### Art. 63.º Os concorrentes aprovados serão providos segundo as vagas existentes, nos termos do n.º 1 do artigo 10.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965, para o que será enviada à Direcção-Geral do Ensino cópia da acta da sessão do júri, com as classificações dos concorrentes, que depois de superiormente homologadas serão publicadas.
+Art. 63.º Os concorrentes aprovados serão providos segundo as vagas existentes, nos termos do n.º 1 do artigo 10.º do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965, para o que será enviada à Direcção-Geral do Ensino cópia da acta da sessão do júri, com as classificações dos concorrentes, que depois de superiormente homologadas serão publicadas.
 
-###### Art. 64.º - 1. Os professores que forem providos ficam constituídos no dever de apresentarem na Direcção-Geral do Ensino uma dissertação da sua autoria sobre assunto relacionado com a agricultura da região servida pela escola e com o ensino nesta ministrado, a qual será apreciada por um júri nomeado pelo Ministro e constituído por três professores do ensino superior ou profissional agrícola.
+Art. 64.º - 1. Os professores que forem providos ficam constituídos no dever de apresentarem na Direcção-Geral do Ensino uma dissertação da sua autoria sobre assunto relacionado com a agricultura da região servida pela escola e com o ensino nesta ministrado, a qual será apreciada por um júri nomeado pelo Ministro e constituído por três professores do ensino superior ou profissional agrícola.
 
 2. No prazo que lhe for fixado, cabe ao júri declarar a dissertação admitida à discussão, ou rejeitá-la, caso não satisfaça aos requisitos legais, seja destituída de merecimento científico ou contenha erros graves de forma.
 
@@ -180,13 +200,13 @@ f) Bilhete de identidade.
 
 5. A prova será classificada, por votação do júri, nos termos do n.º 1 do artigo 62.º
 
-###### Art. 65.º O professor que obtiver, nos termos do artigo anterior, a classificação de, pelo menos, 10 valores será nomeado definitivamente decorridos os prazos e nas condições previstas no Estatuto do Funcionalismo Ultramarino.
+Art. 65.º O professor que obtiver, nos termos do artigo anterior, a classificação de, pelo menos, 10 valores será nomeado definitivamente decorridos os prazos e nas condições previstas no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 66.º - 1. Os professores de nomeação provisória ou definitiva de uma escola podem requerer a sua transferência para outra em que haja vaga no grupo a que pertençam.
+Art. 66.º - 1. Os professores de nomeação provisória ou definitiva de uma escola podem requerer a sua transferência para outra em que haja vaga no grupo a que pertençam.
 
 2. Para os efeitos previstos no número anterior, ocorrida a vaga, a Direcção-Geral do Ensino só promoverá a abertura de concurso de provas depois de consultar, por anúncio publicado no Diário do Governo e Boletins Oficiais, os professores do respectivo grupo pertencente aos quadros das demais escolas.
 
-###### Art. 67.º - 1. O provimento dos lugares de professor adjunto dos grupos A e B é também feito mediante concurso de provas, aberto nos termos do n.º 1 do artigo 55.º
+Art. 67.º - 1. O provimento dos lugares de professor adjunto dos grupos A e B é também feito mediante concurso de provas, aberto nos termos do n.º 1 do artigo 55.º
 
 2. Podem ser admitidos ao concurso os candidatos que, não tendo mais de 40 anos no termo do prazo, provem:
 
@@ -198,11 +218,11 @@ c) Ter estagiado, ou prestado serviço, durante o mínimo de dois anos, nas esta
 
 ...
 
-###### Art. 70.º - 1. Os lugares de professor adjunto do grupo C são providos por concurso documental, a que podem ser admitidos os candidatos habilitados com o Exame de Estado para a correspondente categoria do 8.º grupo do ensino profissional.
+Art. 70.º - 1. Os lugares de professor adjunto do grupo C são providos por concurso documental, a que podem ser admitidos os candidatos habilitados com o Exame de Estado para a correspondente categoria do 8.º grupo do ensino profissional.
 
 2. O concurso, anunciado no Diário do Governo e nos Boletins Oficiais, será aberto perante a Direcção-Geral do Ensino, pelo prazo de quinze dias, ficando sujeito, bem como o provimento, às disposições aplicáveis do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
 
-###### Art. 71.º - 1. O provimento dos lugares de regente de trabalhos e de técnico auxiliar é feito por concurso documental, anunciado no Diário do Governo e nos Boletins Oficiais, e aberto perante as escolas pelo prazo de 30 dias, a que serão admitidos os candidatos com as seguintes habilitações:
+Art. 71.º - 1. O provimento dos lugares de regente de trabalhos e de técnico auxiliar é feito por concurso documental, anunciado no Diário do Governo e nos Boletins Oficiais, e aberto perante as escolas pelo prazo de 30 dias, a que serão admitidos os candidatos com as seguintes habilitações:
 
 a) Para regente de trabalhos, o curso de regente agrícola ou equivalente, podendo ainda ser exigida a especialização mais adequada à natureza do serviço a prestar;
 
@@ -216,7 +236,7 @@ b) Para técnico auxiliar, o curso de regente agrícola ou o das escolas prátic
 
 ...
 
-###### Art. 74.º - 1. A graduação dos candidatos é da competência do conselho escolar e será feita pela ordem decrescente da classificação obtida na habilitação legal, à qual se adicionará meio valor por cada ano completo de prática profissional realizada, com boa informação, em trabalhos de campo dos trabalhos agrícolas oficiais, não podendo, porém, daí resultar um aumento de classificação superior a 5 valores, nem ser valorizado o período a que se refere o n.º 2 do artigo 71.º
+Art. 74.º - 1. A graduação dos candidatos é da competência do conselho escolar e será feita pela ordem decrescente da classificação obtida na habilitação legal, à qual se adicionará meio valor por cada ano completo de prática profissional realizada, com boa informação, em trabalhos de campo dos trabalhos agrícolas oficiais, não podendo, porém, daí resultar um aumento de classificação superior a 5 valores, nem ser valorizado o período a que se refere o n.º 2 do artigo 71.º
 
 2. Caso se exija aos regentes agrícolas qualquer especialização, considera-se classificação da habilitação legal a média das classificações obtidas no curso e na especialização.
 
@@ -224,9 +244,9 @@ b) Para técnico auxiliar, o curso de regente agrícola ou o das escolas prátic
 
 4. As reclamações serão apresentadas ao director da escola, que, depois de sobre elas emitir parecer o conselho escolar, as enviará à Direcção-Geral do Ensino, acompanhadas de todos os documentos relativos ao concurso para decisão superior.
 
-###### Art. 75.º O provimento dos candidatos será, mediante prévia autorização ministerial, feito nos termos do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
+Art. 75.º O provimento dos candidatos será, mediante prévia autorização ministerial, feito nos termos do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 
-###### Art. 76.º - 1. Os professores, regentes de trabalho e técnicos auxiliares provisórios e os professores de serviço eventual são, salvo para a disciplina de Religião e Moral, escolhidos pelo governador, sob proposta do director da escola.
+Art. 76.º - 1. Os professores, regentes de trabalho e técnicos auxiliares provisórios e os professores de serviço eventual são, salvo para a disciplina de Religião e Moral, escolhidos pelo governador, sob proposta do director da escola.
 
 2. Para efeito do exercício eventual de funções docentes gozam de preferência os candidatos que possuam a habilitação exigida para ingresso nos correspondentes lugares do quadro.
 

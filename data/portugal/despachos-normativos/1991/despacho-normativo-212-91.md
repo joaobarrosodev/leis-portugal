@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/despnorm/212/1991/09/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/212-1991-293304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T07:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 975557555478b1e59a2156e8deedcd78824a221e7045aa53c510f17279a0941e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca77d85de704ea2457dded8412abc04744ef7bab2d8bc9325fc4288dfa836dee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Direcção Geral da Administração Autárquica
+- Financiamento
 - Instalação de Serviços
 - Junta de Freguesia
 - Transferência de Verbas
@@ -75,16 +75,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/147/1991/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/147/1991/08/07/p/dre
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681606:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:51:00Z'
   warnings: []
   errors: []
 ---

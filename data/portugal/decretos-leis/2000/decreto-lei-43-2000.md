@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/065a00/10241026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/43/2000/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2000-514659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9541e4db9695b6f11378be790d9b8cf1ed385259934b0b621d453ef977eacd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bc1228f4b1f9daf131c6bda3f5e73bca6d0c3ea31ef2cea67f65fe07147975f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão Vitivinícola Regional de Bucelas
 - Denominação de Origem
 - Região Demarcada
-- Vinho de Bucelas
-- Comissão Vitivinícola Regional de Bucelas
 - Vinha
+- Vinho de Bucelas
 relationships:
 - type: amended_by
   target: pt:dre:479875:por
@@ -79,16 +79,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/377/1993/11/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/377/1993/11/05/p/dre
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665161:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479875:por
+  label: "Revogado pelo Dec Lei 212/2004 de 23-Ago, DR.IS-A [198], mantido contudo transitoriamente em vigor até à publicação\
+    \ da legislação prevista nos arts 5º a 11º do referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/212-2004-479875
+  date: '2004-08-23'
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:22:13Z'
   warnings: []
   errors: []
 ---
@@ -135,15 +149,15 @@ c) Apreciar o orçamento e contas de exercício.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos.
 
-**Promulgado em 2 de Março de 2000.**
+Promulgado em 2 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Março de 2000.**
+Referendado em 9 de Março de 2000.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 ## ANEXO — Estatuto da Denominação de Origem Controlada (DOC) Bucelas
 
@@ -195,7 +209,9 @@ Arinto, com um mínimo de 75% do encepamento, esgana-cão e rabo-de-ovelha.
 
 4 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação de origem «Bucelas», a CVRBCC estabelece as condições em que decorre a sua elaboração, devendo os referidos vinhos ser conservados em secções separadas, em recipientes com a devida identificação, nos quais constem, nomeadamente, as indicações relativas ao volume do recipiente, à categoria de vinho contido e ao ano de colheita.
 
-###### Artigo 8.º — Título alcoométrico volúmico natural mínimo
+###### Artigo 8.º
+
+## Título alcoométrico volúmico natural mínimo
 
 Os mostos destinados aos vinhos DOC «Bucelas» devem ter um título alcoométrico volúmico natural mínimo de 10,5% vol.
 
@@ -233,6 +249,6 @@ c) Sejam cumpridas as restantes exigências estabelecidas pela legislação em v
 
 2 - Os rótulos a utilizar devem ser previamente apresentados para aprovação da CVRBCC, devendo estes respeitar as normas legais aplicáveis e as definidas pela CVRBCC em regulamento interno.
 
-## Anexo a que se refere o artigo 2.º
+Anexo a que se refere o artigo 2.º
 
 [(ver anexo no documento original)](https://files.diariodarepublica.pt/1s/2000/03/065a00/10241026.pdf)

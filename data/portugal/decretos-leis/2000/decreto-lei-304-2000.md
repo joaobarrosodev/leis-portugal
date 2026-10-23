@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/304/2000/11/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-2000-594965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T02:21:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef0bd0b26dbfe02289341a89aeefa0a9eb6a5f62685ad2fcc6a82bd1e4c0d6db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a44d65f1d8eb08f61ece8fafa7071093b476a14bc56f9773f15edc3332d082b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:21:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimento para Animais
 - Aproximação das Legislações
 - Certificado de Conformidade
-- Proteção dos Animais
+- Circulação de Mercadorias
 - Controlo de Qualidade
+- Controlo Sanitário
 - Direção Geral de Veterinária
 - Direcção Regional de Agricultura
-- Controlo Sanitário
-- Saúde Pública
 - Impresso
-- Circulação de Mercadorias
 - Países Terceiros
-- Aditivo Alimentar
 - Proteção do Consumidor
-- Alimento para Animais
+- Proteção dos Animais
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:31982L0471
@@ -102,13 +102,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:21:07Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +167,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 4 de Outubro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.
 
-**Promulgado em 7 de Novembro de 2000.**
+Promulgado em 7 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 9 de Novembro de 2000.**
+Referendado em 9 de Novembro de 2000.
 
 Pelo Primeiro-Ministro, Jorge Paulo Sacadura Almeida Coelho, Ministro de Estado.
 

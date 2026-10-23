@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/271/2001/10/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2001-621555
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T02:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60a0b2ea9449d3376788df3dc0b849eea1eb013236125c8421948edb6bb1e7ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d6ae1cf42861985a1bbc6da0db3cde503c7732d623ceb48cf2001d9d8129d20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Embarcação
-- Transporte Marítimo
 - Regime Jurídico
 - Regulamento dos Meios de Salvação
 - Segurança Marítima
 - Transporte de Carga
 - Transporte de Passageiros
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:280895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:159691:por
+  label: "Altera o art. 70.º do Regulamento dos Meios de Salvação aprovado pelo Dec Lei 191/98, de 10-Jul DR.IS-A [157] na\
+    \ redacção do presente diploma, pelo DEC LEI.138/2002.2002.05.16.MES DR.IS-A [113] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2002-159691
+  date: '2002-05-16'
+- type: amended_by
+  target: pt:dre:280895:por
+  label: "Dada nova redacção aos arts. 19º, 41º, 42º e 70º do Regulamento dos Meios de Salvação, aprovado no anexo nº 1 do\
+    \ Dec Lei 191/98 de 10-Jul, alterados no presente diploma, pelo DEC LEI.9/2011.18.01.2011.MOPTC, DR.IS [12] de 18.01.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/9-2011-280895
+  date: '2011-01-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/191/1998/07/10/p/dre
   label: null
@@ -90,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/567/1999/12/23/p/dre
+- type: cites
+  target: pt:dre:485046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661085:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T02:27:41Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +175,15 @@ Embarcações de sobrevivência
 
 3 - Sob parecer da autoridade marítima local, as embarcações existentes podem ser dispensadas de embarcações de sobrevivência sempre que as condições em que operem tornem desnecessário o uso daqueles meios.
 
-###### Artigo 21.º — Sinais visuais de socorro
+Artigo 21.º
+
+Sinais visuais de socorro
 
 As embarcações de passageiros devem possuir dois fachos de mão e, se operarem fora das zonas portuárias, devem também possuir dois sinais de pára-quedas.
 
-###### Artigo 22.º — Embarcações de sobrevivência
+Artigo 22.º
+
+Embarcações de sobrevivência
 
 1 - ...
 
@@ -162,17 +191,23 @@ As embarcações de passageiros devem possuir dois fachos de mão e, se operarem
 
 3 - São dispensadas dos requisitos previstos nos números anteriores as embarcações de boca aberta com comprimento inferior a 9 m e as embarcações que não transportem mais de duas pessoas.
 
-###### Artigo 23.º — Meios de salvação individuais
+Artigo 23.º
+
+Meios de salvação individuais
 
 1 - Os navios de carga devem possuir duas bóias de salvação, uma com sinal luminoso e outra com retenida de 30 m, sendo a primeira bóia dispensável nas embarcações de boca aberta com comprimento inferior a 9 m, que só efectuem navegação diurna.
 
 2 - ...
 
-###### Artigo 24.º — Sinais visuais de socorro
+Artigo 24.º
+
+Sinais visuais de socorro
 
 Os navios de carga devem possuir dois fachos de mão e, se o navio navegar fora das zonas portuárias, devem também possuir dois sinais de pára-quedas.
 
-###### Artigo 41.º — Embarcações de sobrevivência
+Artigo 41.º
+
+Embarcações de sobrevivência
 
 1 - ...
 
@@ -180,7 +215,9 @@ Os navios de carga devem possuir dois fachos de mão e, se o navio navegar fora 
 
 3 - São dispensadas dos requisitos dos números anteriores as embarcações de boca aberta com comprimento inferior a 9 m e as embarcações que não transportem mais de duas pessoas.
 
-###### Artigo 42.º — Meios de salvação individuais
+Artigo 42.º
+
+Meios de salvação individuais
 
 1 - As embarcações auxiliares locais, transportando pessoal em serviço, devem possuir bóias de salvação, de acordo com a tabela seguinte:
 
@@ -194,11 +231,15 @@ Os navios de carga devem possuir dois fachos de mão e, se o navio navegar fora 
 
 5 - ...
 
-###### Artigo 43.º — Sinais visuais de socorro
+Artigo 43.º
+
+Sinais visuais de socorro
 
 As embarcações auxiliares locais que não estejam permanentemente atracadas ou amarradas devem possuir dois fachos de mão e, se navegarem fora das zonas portuárias, devem também possuir dois sinais de pára-quedas.
 
-###### Artigo 51.º — Meios de salvação individuais
+Artigo 51.º
+
+Meios de salvação individuais
 
 1 - ...
 
@@ -206,7 +247,9 @@ As embarcações auxiliares locais que não estejam permanentemente atracadas ou
 
 3 - Nas embarcações que efectuem navegação nocturna os coletes de salvação devem possuir sinal luminoso.
 
-###### Artigo 54.º — Embarcações de sobrevivência
+Artigo 54.º
+
+Embarcações de sobrevivência
 
 1 - ...
 
@@ -214,11 +257,15 @@ As embarcações auxiliares locais que não estejam permanentemente atracadas ou
 
 3 - Sob parecer da autoridade marítima local, as embarcações existentes podem ser dispensadas de embarcações de sobrevivência sempre que as condições em que operem tornem desnecessário o uso daqueles meios.
 
-###### Artigo 56.º — Sinais visuais de socorro
+Artigo 56.º
+
+Sinais visuais de socorro
 
 As embarcações marítimo-turísticas locais devem possuir dois fachos de mão e, se navegarem fora das zonas portuárias, devem também possuir dois sinais de pára-quedas.
 
-###### Artigo 70.º — Meios de salvação individuais
+Artigo 70.º
+
+Meios de salvação individuais
 
 1 - As embarcações de pesca local de convés fechado devem possuir uma bóia de salvação com sinal luminoso e uma bóia com retenida de 30 m.
 
@@ -226,7 +273,9 @@ As embarcações marítimo-turísticas locais devem possuir dois fachos de mão 
 
 3 - As embarcações de pesca local devem possuir coletes de salvação para 100% das pessoas embarcadas.
 
-###### Artigo 71.º — Sinais visuais de socorro
+Artigo 71.º
+
+Sinais visuais de socorro
 
 As embarcações de pesca local devem possuir dois fachos de mão e, se operarem para além das 3 milhas da costa, devem também possuir dois sinais de pára-quedas.»
 
@@ -244,12 +293,12 @@ O prazo previsto no n.º 3 do artigo 21.º do [Decreto-Lei n.º 191/98](https://
 
 Visto e aprovado em Conselho de Ministros de 16 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Rui Eduardo Ferreira Rodrigues Pena - Eduardo Luís Barreto Ferro Rodrigues - Luís Manuel Capoulas Santos.
 
-**Promulgado em 27 de Setembro de 2001.**
+Promulgado em 27 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 4 de Outubro de 2001.**
+Referendado em 4 de Outubro de 2001.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/353/1997/12/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1997-404968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T01:54:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c659e5cca000ca77347136877d7a2db8dd73c257b77fcee66b309ae16f3dc9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c999fa7e0549dd55695b310d1710f5f5de7ef4f3bcd3aafbec7d4175a494dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:54:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Autoridade Coordenadora de Segurança-expo 98
-- Proteção Civil
 - Criação de Serviços
-- Segurança Pública
-- Extinção de Serviços
-- Primeiro-ministro
 - Exposição Internacional de Lisboa de 1998
+- Extinção de Serviços
 - Polícia Judiciária
+- Primeiro-ministro
+- Proteção Civil
+- PSP
+- Segurança Pública
 relationships: []
 article_structure:
   article_count: 17
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:54:21Z'
   warnings: []
   errors: []
 ---
@@ -323,12 +323,12 @@ A Autoridade Coordenadora de Segurança/EXPO 98 extingue-se decorrido o prazo de
 
 Visto e aprovado em Conselho de Ministros de 30 de Outubro de 1997. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Luís Filipe Marques Amado - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 
-**Promulgado em 21 de Novembro de 1997.**
+Promulgado em 21 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 28 de Novembro de 1997.**
+Referendado em 28 de Novembro de 1997.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

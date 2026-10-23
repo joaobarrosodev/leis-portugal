@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 169/2012, 1º Suplemento, Série I de 2012-08-31
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5006-(2) a 5006-(473)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/206-a/2012/08/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-a-2012-138983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T03:17:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22035ac833b07d3e0eb6dbf1fc6ca1549d9a9b42f79734423948fde62c4fe6ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166eecdec6584409cef6026feb964acaaadcc1ce950a45ca6cb5f64deaad6789
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:17:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,39 +69,63 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo ADR
-- PSP
 - Aproximação das Legislações
-- Formação Profissional
-- Transporte Marítimo
-- Transporte Terrestre
+- ASAE
+- Autoridade Nacional de Segurança Rodoviária
+- Comissão Nacional do Transporte de Mercadorias Perigosas
+- Condutor
 - Conselheiro de Segurança
 - Contra-ordenação
-- Transporte Rodoviário
-- Transporte Ferroviário
-- Comissão Nacional do Transporte de Mercadorias Perigosas
 - Especificação Técnica
 - Etiquetagem
 - Fiscalização
+- Formação Profissional
+- GNR
 - Impresso
 - Instituto da Mobilidade e dos Transportes Terrestres
-- ASAE
-- Veículo
-- Autoridade Nacional de Segurança Rodoviária
-- GNR
-- Segurança Rodoviária
-- Condutor
+- Mercadoria
+- PSP
 - Qualificação Profissional
 - Regulamento
 - Relatório
-- Mercadoria
+- Segurança Rodoviária
 - Substância Perigosa
 - Transporte de Mercadorias Perigosas
+- Transporte Ferroviário
 - Transporte Internacional
+- Transporte Marítimo
+- Transporte Rodoviário
+- Transporte Terrestre
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:115487880:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660369:por
+  label: "Dada nova redação ao n.º 2 do art. 20º-A, assim como aos anexos I e II do Dec Lei 41-A/2010 de 29-abr, alterados\
+    \ pelo presente diploma, pelo DEC LEI.19-A/2014.07.02.2014.MECO, DR.IS [27-Supl] de 07.02.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-a-2014-660369
+  date: '2014-02-07'
+- type: amended_by
+  target: pt:dre:70765717:por
+  label: Alterados os anexos I, II, do Dec Lei 41-A/2010, de 29-abr, na redação do presente diploma, pelo(a) Decreto-Lei n.º
+    246-A/2015 - Diário da República n.º 206/2015, 1º Suplemento, Série I de 2015-10-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-a-2015-70765717
+  date: '2015-10-21'
+- type: amended_by
+  target: pt:dre:108086598:por
+  label: Alterados, a partir de 30.09.2017, os anexos I e II do Dec Lei 41-A/2010 de 29-abr, na redação do presente diploma,
+    pelo(a) Decreto-Lei n.º 111-A/2017 - Diário da República n.º 168/2017, 1º Suplemento, Série I de 2017-08-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-a-2017-108086598
+  date: '2017-08-31'
+- type: amended_by
+  target: pt:dre:115487880:por
+  label: Alterado, com efeitos a 01.07.2018, o anexo I do Dec Lei 41-A/2010, de 29-abr, na redação do presente diploma, pelo(a)
+    Decreto-Lei n.º 41/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2018-115487880
+  date: '2018-06-11'
 - type: cites
   target: celex:31967L0548
   label: null
@@ -159,15 +183,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/
 article_structure:
-  article_count: 9
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T03:17:58Z'
   warnings: []
   errors: []
 ---
@@ -242,7 +266,9 @@ g) Comunicar previamente ao IMT, I. P., o local, a data e a hora das ações de 
 
 7 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -324,7 +350,9 @@ g) ...
 
 13 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -348,7 +376,9 @@ g) ...
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -372,7 +402,9 @@ Aptidão dos condutores rodoviários de mercadorias perigosas
 
 3 - Os condutores titulares de cartas de condução para veículos das categorias B e BE que não sejam titulares de cartas das categorias enunciadas no número anterior devem fazer a demonstração a que se refere o n.º 1 aquando da emissão e de todas as revalidações do seu certificado de formação.
 
-###### Artigo 20.º-B — Profissionais provenientes de outros Estados signatários do ADR e do RID
+Artigo 20.º-B
+
+Profissionais provenientes de outros Estados signatários do ADR e do RID
 
 Os certificados de formação de pessoal envolvido no transporte terrestre de mercadorias perigosas que comprovem qualificações obtidas noutro Estado membro da União Europeia ou do espaço económico europeu, nos termos da Diretiva n.º [2008/68/CE](https://data.europa.eu/eli/dir/2008/68/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de setembro, relativa ao transporte terrestre de mercadorias perigosas, ou noutro Estado parte do ADR ou do RID, e que tenham sido emitidos nos termos da respetiva legislação de implementação equivalem, para todos os efeitos legais, aos certificados de formação emitidos nos termos do presente decreto-lei.»
 
@@ -386,17 +418,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira.
 
-**Promulgado em 13 de julho de 2012.**
+Promulgado em 13 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, Aníbal Cavaco Silva.**
+O Presidente da República, Aníbal Cavaco Silva.
 
-**Referendado em 16 de julho de 2012.**
+Referendado em 16 de julho de 2012.
 
-**O Primeiro-Ministro, Pedro Passos Coelho.**
+O Primeiro-Ministro, Pedro Passos Coelho.
 
-## ANEXO I — Parte 1
+## ANEXO I
+
+## Parte 1
 
 A - São alterados os parágrafos 1.1.3.1, 1.1.3.2, 1.1.3.6.2, 1.2.1, 1.3.1 a 1.3.2.4, 1.3.3, 1.4.2, 1.4.2.2.1, 1.4.2.3 a 1.4.2.3.3, 1.6.1.1, 1.6.1.8, 1.6.1.14, 1.6.2.5, 1.6.3.18, 1.6.3.50, 1.6.4.12, 1.6.5.4, 1.7.1.1 a 1.7.1.3, 1.7.1.5 a 1.7.1.5.2, 1.7.2.3, 1.7.2.5, 1.8.6 a 1.8.6.8, 1.8.7 a 1.8.7.1.2, 1.8.7.1.4, 1.8.7.2, 1.8.7.2.3, 1.8.7.4.2, 1.8.7.5 a 1.8.7.5.2, 1.8.7.7.2, 1.8.7.7.4, 1.9.4, 1.9.5.2.2, 1.10.5 e 1.10.6, que passam a ter a seguinte redação:
 
@@ -1018,7 +1052,7 @@ Considera-se que preenchem este critério(2):
 
 Classe 1: Divisões 1.1, 1.2 e 1.5 (exceto grupos de compatibilidade A e L); e
 
-##### Divisão 1.3 (grupos de compatibilidade H e J);
+Divisão 1.3 (grupos de compatibilidade H e J);
 
 Classe 7: nºs ONU 2977 e 2978.
 
@@ -1300,7 +1334,7 @@ As disposições dos 1.8.7.7.1, 1.8.7.7.2, 1.8.7.7.3 e 1.8.7.7.5 devem ser aplic
 
 C- São revogados os parágrafos 1.6.1.2, 1.6.1.12, 1.6.1.13, 1.6.1.17, 1.6.1.18, 1.6.3.25 e 1.8.3.17.
 
-# Parte 2
+Parte 2
 
 A - São alterados os parágrafos 2.1.2.3, 2.1.2.4, 2.1.2.5, 2.1.2.6, 2.1.2.7, 2.1.3.3, 2.1.3.4.1, 2.1.3.5, 2.1.3.5.3, 2.1.3.6, 2.2.1.1.1, 2.2.1.1.6, 2.2.1.1.7.5, 2.2.1.1.8, 2.2.2.1.5, 2.2.3.2.1, 2.2.42.1.3, 2.2.43.3, 2.2.52.4, 2.2.61.1.1, 2.2.61.1.2, 2.2.61.3, 2.2.7.1.3, 2.2.7.2.1, 2.2.7.2.3.1.2, 2.2.7.2.3.4.1, 2.2.7.2.3.5, 2.2.7.2.4.1.1, 2.2.7.2.4.1.3 a 2.2.7.2.4.1.6, 2.2.7.2.4.2, 2.2.7.2.4.3, 2.2.8.1.6, 2.2.8.1.9, 2.2.9.1.10.1.2 a 2.2.9.1.10.1.4, 2.2.9.1.10.2.1, 2.2.9.1.10.2.3 a 2.2.9.1.10.2.6, 2.2.9.1.10.3 a 2.2.9.1.10.3.2, 2.2.9.1.10.4 a 2.2.9.1.10.4.3.4, 2.2.9.1.10.4.4, 2.2.9.1.10.4.4.2 a 2.2.9.1.10.4.4.6, 2.2.9.1.10.4.5, 2.2.9.1.10.4.5.2, 2.2.9.1.10.4.5.3, 2.2.9.1.10.4.6.1 a.2.2.9.1.10.4.6.4, 2.2.9.1.10.5, 2.2.9.1.10.6, 2.2.9.1.11, 2.2.9.1.14, 2.2.9.3, 2.3.3.1 a 2.3.3.1.5, 2.3.3.2 e 2.3.3.3, que passam a ter a seguinte redação:
 
@@ -1418,7 +1452,7 @@ NOTA 5: [...]
 
 NOTA 2: Neste quadro, o termo "composição de tiro" refere-se a matérias pirotécnicas sob forma de pólvora ou como componente pirotécnico elementar, tais como apresentado nos artifícios de divertimento, que são utilizados para produzir um efeito sonoro, ou utilizados como carga de rebentamento ou como carga propulsora, a menos que se demonstre que o tempo de subida da pressão dessas matérias é superior a 8 ms por 0,5 g de matéria pirotécnica no "Ensaio HSL da composição de tiro" do anexo 7 do Manual de Ensaios e de Critérios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.1.1.8 [...]
 
@@ -1458,13 +1492,13 @@ Gases corrosivos
 
 2.2.43.3 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.52.4 [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.61.1.1 O título da classe 6.1 abrange as matérias das quais se sabe, por experiência, ou das quais se pode admitir, a partir de experiências feitas com animais, que elas podem, em quantidade relativamente fraca, numa ação única ou de curta duração, prejudicar a saúde humana ou causar a morte por inalação, por absorção cutânea ou por ingestão.
 
@@ -1496,7 +1530,7 @@ Matérias tóxicas sem risco subsidiário
 
 Matérias tóxicas com risco(s) subsidiário(s)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.7.1.3 [...]
 
@@ -1516,7 +1550,7 @@ b) [...]
 
 Quadro 2.2.7.2.2.1: Valores de base para os radionuclídeos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 (a) [...]
 
@@ -1578,7 +1612,7 @@ Os pacotes que contenham matérias cindíveis devem ser classificados na rubrica
 
 a) Um limite de massa por remessa, sob condição de que a menor dimensão exterior de cada pacote não seja inferior a 10 cm, designadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) Urânio enriquecido em urânio 235 até um máximo de 1% em massa e com um teor total de plutónio e de urânio 233 que não exceda 1% da massa de urânio 235, na condição de que os nuclídeos cindíveis estejam repartidos de forma essencialmente homogénea no conjunto das matérias. Além disso, se o urânio 235 estiver sob a forma de metal, de óxido ou de carboneto, não pode formar uma rede;
 
@@ -1748,31 +1782,31 @@ Quadro 2.2.9.1.10.3.1: Categorias para as substâncias perigosas para o meio aqu
 
 a) Perigo agudo (de curta duração) para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) Perigo de longa duração para o meio aquático (ver também a figura 2.2.9.1.10.3.1)
 
 c) i) Substâncias não rapidamente degradáveis (ver Nota 4), relativamente àsquais existem dados adequados sobre a toxicidade crónica Perigo de longa duração para o meio aquático (ver também a figura 2.2.9.1.10.3.1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 ii) Substâncias rapidamente degradáveis, relativamente às quaisexistem dados adequados sobre a toxicidade crónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 iii) Substâncias relativamente às quaisnão existem dados adequados sobre a toxicidade crónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 Figura 2.2.9.1.10.3.1: Categorias para as substâncias perigosas (de longa duração) para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.3.2 O esquema de classificação do quadro 2.2.1.10.3.2, apresentado a seguir, resume os critérios de classificação para as substâncias.
 
 Quadro 2.2.9.1.10.3.2: Esquema de classificação para as substâncias perigosas para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4 Categorias e critérios de classificação das misturas
 
@@ -1792,7 +1826,7 @@ A figura 2.2.9.1.10.4.2 descreve os passos a seguir.
 
 Figura 2.2.9.1.10.4.2: Procedimento sequencial aplicado à classificação das misturas em função dos perigos agudos ou a longo prazo relativamente ao meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.3 Classificação das misturas quando existem dados relativos à toxicidade sobre toda a mistura
 
@@ -1856,13 +1890,13 @@ se a mistura i) ou ii) já estiver classificada a partir dos dados experimentais
 
 a) Em função da toxicidade aquática aguda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 A toxicidade calculada deve ser usada para atribuir a esta fração da mistura uma categoria de perigo aguda que pode a seguir ser utilizada para a aplicação do método da soma ;
 
 b) Em função da toxicidade aquática crónica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 A toxicidade equivalente reflecte o facto de que as substâncias não rapidamente degradáveis são de uma categoria de perigo de nível imediatamente superior (de maior perigo) ao das substâncias rapidamente degradáveis.
 
@@ -1886,7 +1920,7 @@ Em geral, para as misturas, uma classificação mais severa prevalece sobre uma 
 
 Quadro 2.2.9.1.10.4.6.2.2: Classificação das misturas em função do seu perigo agudo pela soma das concentrações dos componentes classificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.6.3 Classificação nas categorias Crónica 1 e Crónica 2
 
@@ -1898,7 +1932,7 @@ Quadro 2.2.9.1.10.4.6.2.2: Classificação das misturas em função do seu perig
 
 Quadro 2.2.9.1.10.4.6.3.3: Classificação das misturas em função do seu perigo a longo prazopela soma das concentrações dos componentes classificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.6.4 Misturas de componentes altamente tóxicos
 
@@ -1906,7 +1940,7 @@ Os componentes de toxicidade Aguda 1 ou Crónica 1 com uma toxicidade aguda clar
 
 Quadro 2.2.9.1.10.4.6.4: Factores multiplicativos para os componentes muito tóxicos das misturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.5 Substâncias ou misturas classificadas como matérias perigosas para o ambiente (meio aquático) com base no Regulamento (CE) n.º [1272/2008](https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt)(19)
 
@@ -2036,7 +2070,7 @@ Método A2, tal como descrito na Parte A do Anexo do Regulamento (CE) n.º [440/
 
 C - São revogados os parágrafos 2.2.2.1.1 (apenas a NOTA 4), 2.2.2.1.3 (apenas a NOTA 4) e 2.2.62.1.3 (apenas a definição de "Microorganismos e organismos geneticamente modificados")
 
-# Parte 3
+Parte 3
 
 A - São alterados os parágrafos 3.1.2.8.1, 3.1.2.8.1.1, 3.2.1, 3.2.2, 3.3.1 e 3.4.1 a 3.4.13, que passam a ter a seguinte redação:
 
@@ -2044,7 +2078,7 @@ A - São alterados os parágrafos 3.1.2.8.1, 3.1.2.8.1.1, 3.2.1, 3.2.2, 3.3.1 e 
 
 3.1.2.8.1.1 O nome técnico deve ser um nome químico ou um nome biológico reconhecido, ou um outro nome correntemente utilizado nos manuais, revistas e textos científicos e técnicos. Não devem ser utilizados nomes comerciais para este fim. No caso dos pesticidas, só podem ser utilizados os nomes comuns ISO, os outros nomes das linhas diretrizes para a classificação dos pesticidas pelo risco recomendada pela Organização Mundial de Saúde (OMS) ou os nomes das substâncias ativas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 3.2.2 [...]
 
@@ -2062,7 +2096,7 @@ NOTA 6: [...]
 
 NOTA 7: [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [
 
@@ -2290,7 +2324,7 @@ Devem ser acrescentados à designação oficial de transporte qualificativos com
 
 C - É revogado o parágrafo 3.1.2.9.
 
-# Parte 4
+Parte 4
 
 A -São alterados os parágrafos 4.1.1.1, 4.1.1.2, 4.1.1.19.6, 4.1.3.8.2, 4.1.4.1, 4.1.4.2, 4.1.5.5, 4.1.6.10, 4.1.6.14, 4.1.6.15, 4.1.7.1, 4.1.7.1.1, 4.1.7.2.1, 4.1.9.1.5, 4.1.9.3, 4.2.5.2.6, 4.2.5.3, 4.3.4.1.2 e 4.3.4.1.3,que passam a ter a seguinte redação:
 
@@ -2312,7 +2346,7 @@ NOTA: [...]
 
 Quadro 4.1.1.19.6: Lista das matérias assimiladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.3.8.2 [...]
 
@@ -2324,47 +2358,47 @@ NOTA: Um objeto de grande dimensão e robusto pode ser um reservatório flexíve
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
@@ -2372,15 +2406,15 @@ NOTA: Um objeto de grande dimensão e robusto pode ser um reservatório flexíve
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.5.5 Salvo especificações em contrário no ADR, as embalagens, incluindo os GRG e as grandes embalagens, devem respeitar as disposições dos Capítulos 6.1, 6.5 ou 6.6, conforme o caso, e devem satisfazer as prescrições de ensaio para o grupo de embalagem II.
 
@@ -2394,7 +2428,7 @@ Os recipientes sob pressão não podem ser enchidos depois da data limite do con
 
 Para os recipientes sob pressão "UN", as normas ISO enumeradas abaixo devem ser aplicadas. Para os outros recipientes sob pressão, as disposições da secção 4.1.6 consideram-se satisfeitas se forem aplicadas as normas apropriadas a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.7.1 Utilização das embalagens (com exceção dos GRG)
 
@@ -2418,7 +2452,7 @@ c) [...]
 
 4.2.5.2.6 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.2.5.3 [...]
 
@@ -2434,7 +2468,7 @@ c) A T10, ao n.º ONU 1838.
 
 4.3.4.1.2 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.3.4.1.3 [...]
 
@@ -2462,7 +2496,7 @@ g) [...]
 
 h) [...]
 
-# Parte 5
+Parte 5
 
 A - São alterados os parágrafos 5.1.5.1.4, 5.1.5.3.4, 5.1.5.4 a 5.1.5.4.2, 5.1.5.5, 5.2.1.7.2, 5.2.1.7.8, 5.2.1.8.1, 5.2.1.9.1, 5.2.1.9.2, 5.2.2.1.11.2, 5.2.2.1.11.5, 5.3.2.1.4, 5.3.2.3.2, 5.4.0 a 5.4.0.3, 5.4.1.1.1, 5.4.1.1.3, 5.4.1.1.6.1, 5.4.1.2.1, 5.4.1.2.5.1, 5.4.1.2.5.3, 5.4.1.4.2, 5.4.2, 5.4.3.4, 5.4.4 a 5.4.4.2, 5.4.5 e 5.5.2 a 5.5.2.4.4, que passam a ter a seguinte redação:
 
@@ -2776,13 +2810,13 @@ Em caso de emergência ou de acidente no decurso do transporte, os membros da tr
 
 - Retirar todo o vestuário contaminado e todo o equipamento de proteção contaminado após utilização,descartando-se dele de forma segura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 NOTA 1: Para as mercadorias perigosas de riscos múltiplos e para os carregamentos em comum, observam-se as prescrições aplicáveis a cada rubrica.
 
 NOTA 2: As indicações suplementares dadas acima podem ser adaptadas para aí figurarem as classes de perigo das mercadorias perigosas e os meios utilizados para as transportar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 Equipamentos de proteção geral e individual para se encontrarem a bordo do veículo de acordo com a secção 8.1.5 do ADR e para usar aquando da tomada de medidas gerais de emergência ou que comportem riscos particulares
 
@@ -2858,7 +2892,7 @@ b) As mercadorias ou matérias sujeitas a um tratamento de fumigação tenham si
 
 Sinal de alerta para os equipamentos de transporte sob fumigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 5.5.2.3.3 Se o equipamento de transporte sob fumigação tiver sido completamente ventilado, seja pela abertura das portas do equipamento seja por ventilação mecânica depois da fumigação, a data da ventilação deve estar indicada no sinal de alerta.
 
@@ -2900,13 +2934,13 @@ A menção "POLUENTE MARINHO" (em conformidade com o 5.4.1.4.3 do Código IMDG) 
 
 C- É revogado o parágrafo 5.4.1.1.4.
 
-# Parte 6
+Parte 6
 
 A - São alterados os parágrafos 6.1.3.1, 6.1.5.3.6.3, 6.2 e 6.2.1, 6.2.1.1.5, 6.2.1.3.4, 6.2.1.5.1, 6.2.1.6.1, 6.2.2.1.1, 6.2.2.2, 6.2.2.3, 6.2.2.4, 6.2.2.7 a 6.2.2.7.8, 6.2.2.8 a 6.2.2.8.4, 6.2.2.9 a 6.2.2.9.4, 6.2.2.10, 6.2.3.6.1, 6.2.3.9.2 a 6.2.3.9.6, 6.2.3.10.1, 6.2.4 a 6.2.4.2, 6.2.5, 6.2.6.3.3, 6.2.6.4, 6.3.4.2, 6.3.5.4.1, 6.3.5.4.2, 6.4.2.9, 6.4.5.4.4, 6.4.6.1, 6.4.7.16, 6.4.11.7, 6.4.13, 6.4.15.5, 6.4.22.6, 6.4.23.11 a 6.4.23.14, 6.5.2.1.1, 6.5.2.2.4, 6.5.4.1, 6.5.6.3.5, 6.6.1.2, 6.6.3.1, 6.6.5.2.2, 6.6.5.3.4.4 a 6.6.5.3.4.4.2, 6.7.2.6.2, 6.7.2.8.4, 6.7.2.10.1, 6.7.2.20.1, 6.7.2.20.2, 6.7.3.16.1, 6.7.3.16.2, 6.7.4.15.1, 6.7.4.15.2, 6.7.5.4.1, 6.7.5.10.4, 6.7.5.13.1, 6.8.2.1.20, 6.8.2.2.3, 6.8.2.3.3, 6.8.2.5.1, 6.8.2.6 a 6.8.2.6.2, 6.8.2.7, 6.8.3.2.3, 6.8.3.6, 6.8.3.7 e 6.8.4, que passam a ter a seguinte redação:
 
 6.1.3.1 [...]
 
-a) i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7. Não pode ser utilizado em embalagens que satisfaçam apenas as condições simplificadas dos 6.1.1.3, 6.1.5.3.1 e), 6.1.5.3.5 c), 6.1.5.4, 6.1.5.5.1 e 6.1.5.6 (ver também a alínea ii) abaixo). Para as embalagens de metal, marcadas em relevo, podem ser utilizadas as letras maiúsculas "UN" em vez do símbolo; ou
 
@@ -3010,7 +3044,7 @@ NOTA: As prescrições de marcação para os dispositivos de armazenagem a hidre
 
 6.2.2.7.2 [Anterior 6.2.2.7.1] [...]
 
-a) Símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
+a) Símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7. Não deve ser utilizado em recipientes sob pressão que satisfazem apenas as prescrições do 6.2.3 a 6.2.5 (ver 6.2.3.9).
 
@@ -3056,7 +3090,7 @@ p) [...]
 
 Exemplo das marcas inscritas numa garrafa de gás:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.2.7.6 [Anterior 6.2.2.7.5].
 
@@ -3082,7 +3116,7 @@ NOTA: No caso dos recipientes sob pressão não recarregáveis, tendo em conta a
 
 6.2.2.9.2 Devem ser apostas as seguintesmarcações de certificação:
 
-a) Símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
+a) Símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7;
 
@@ -3188,7 +3222,7 @@ A aplicação das normas citadas em referência tornaram-se obrigatórias desde 
 
 Se estiver listada mais do que uma norma obrigatória para a aplicação das mesmas prescrições, apenas uma delas deve ser aplicada na sua totalidade, a menos que a tabela seguinte o determine de outro modo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.4.2 Inspeções e ensaios periódicos
 
@@ -3200,7 +3234,7 @@ Quando um recipiente sob pressão é fabricado em conformidade com as prescriç�
 
 Se estiver listada mais do que uma norma obrigatória para a aplicação das mesmas prescrições, apenas uma delas deve ser aplicada na sua totalidade, a menos que a tabela seguinte o determine de outro modo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.5 Prescrições aplicáveis aos recipientes sob pressão "não UN" que não são concebidos, construídos e ensaiados de acordo com as normas anteriormente citadas
 
@@ -3244,7 +3278,7 @@ São consideradas satisfeitas as prescrições do presente parágrafo se forem a
 
 6.3.4.2 [...]
 
-a) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5 , 6.6 ou 6.7;
 
@@ -3270,7 +3304,7 @@ As amostras devem cair sobre a extremidade de uma barra de aço cilíndrica, dis
 
 Figura 6.3.5.4.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.4.2.9 Todas as válvulas através das quais possa escapar-se o conteúdo radioactivo devem estar protegidas contra toda a manipulação não autorizada.
 
@@ -3476,7 +3510,7 @@ w) [...]
 
 6.5.2.1.1 [...]
 
-a) símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7.
 
@@ -3502,7 +3536,7 @@ h) [...]
 
 A data de fabrico do recipiente interior em matéria plástico pode igualmente ser aposta sobre o recipiente interior junto da parte restante da marcação. Exemplo de um método de marcação apropriado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.5.4.1 Garantia da qualidade: os GRG devem ser fabricados, reconstruídos, reparados e ensaiados de acordo com um sistema de garantia da qualidade julgado satisfatório pela autoridade competente; este deve garantir que cada GRG fabricado, reconstruído ou reparado satisfaz as prescrições do presente capítulo.
 
@@ -3526,7 +3560,7 @@ NOTA: A norma ISO 16106:2006 "Embalagem - Embalagem de transporte para mercadori
 
 [...]
 
-a) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7.
 
@@ -3556,17 +3590,17 @@ NOTA: As grandes embalagens destinadas às matérias e objetos da classe 1 devem
 
 6.6.5.3.4.4.1 Para as embalagens interiores que contenham matérias sólidas, líquidas ou objetos, se o ensaio é executado com a matéria sólida ou líquida, ou com o objeto a transportar, ou com uma matéria que tenha essencialmente as mesmas características físicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.6.5.3.4.4.2 Para as embalagens interiores que contenham matérias líquidas, se o ensaio é executado com água:
 
 a) se a matéria a transportar tem uma densidade relativa que não ultrapasse 1,2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) se a matéria a transportar tem uma densidade relativa superior a 1,2, a altura de queda deve ser calculada em função da densidade relativa (d) da matéria a transportar arredondada por excesso à primeira casa decimal, de acordo com o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.2.6.2 [...]
 
@@ -3664,7 +3698,7 @@ iv) Marca de identificação (punção) do organismo de inspeção que realizou 
 
 Figura 6.7.2.20.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.2.20.2 As seguintes indicações devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -3754,7 +3788,7 @@ iv) Marca de identificação (punção) do organismo de inspeção que realizou 
 
 Figura 6.7.3.16.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.3.16.2 As indicações seguintes devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -3790,7 +3824,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só podeser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM, satisfazem as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -3856,7 +3890,7 @@ iii) Marca de identificação (punção) do organismo de inspeção que realizou
 
 Figura 6.7.4.15.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.4.15.2 Devem ser marcadas de forma duradoura as seguintes indicações na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -3904,7 +3938,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só podeser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM, satisfazem as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -3946,7 +3980,7 @@ iii) Marca de identificação (punção) do organismo de inspeção que realizou
 
 Figura 6.7.5.13.1: Exemplo de marcação sobre a placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.8.2.1.20 [...] | [...]
 
@@ -4038,7 +4072,7 @@ Desde 1 de Janeiro de 2009, a aplicação das normas abaixo referidas é obrigat
 
 Se existir mais do que uma norma enunciada como obrigatória para a aplicação das mesmas prescrições, apenas uma delas deverá ser aplicada, e na íntegra, salvo se especificado de outra forma no quadro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.8.2.6.2 Inspeções e ensaios
 
@@ -4046,7 +4080,7 @@ A norma citada como referência no quadro abaixo deve ser aplicada para as inspe
 
 A aplicação das normas abaixo referidas é obrigatória.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.8.2.7 Prescrições aplicáveis às cisternas não concebidas, construídas ou ensaiadas segundo as normas referidas
 
@@ -4078,7 +4112,7 @@ Desde 1 de Janeiro de 2009, a aplicação das normas abaixo referidas é obrigat
 
 Se existir mais do que uma norma enunciada como obrigatória para a aplicação das mesmas prescrições, apenas uma delas deverá ser aplicada, e na íntegra, salvo se especificado de outra forma no quadro seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.8.3.7 Prescrições relativas aos veículos-baterias e CGEM não concebidos, construídos ou ensaiados segundo as normas referidas
 
@@ -4134,7 +4168,7 @@ Além disso, todos os dispositivos de armazenagem a hidreto metálico devem ser 
 
 6.2.2.1.5 A norma seguinte aplica-se à concepção, ao fabrico, bem como às inspeções e ensaios iniciais, dos dispositivos de armazenagem a hidreto metálico "UN", a não ser que se trate de requisitos do controlo do sistema de avaliação da conformidade, e à aprovação, que devem estar em conformidade com o 6.2.2.5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.2.7.9 Para os quadros de garrafas as prescrições relativas à marcação dos recipientes sob pressão deve aplicar-se apenas às garrafas individualmente do quadro, e não a qualquer estrutura de conjunto.
 
@@ -4144,7 +4178,7 @@ A marcação especificada no 6.5.2.1.1 e 6.5.2.2 deve ser retirada do GRG de ori
 
 C - É revogado o parágrafo 6.2.3.5.2.
 
-# Parte 7
+Parte 7
 
 A -São alterados os parágrafos 7.1.3, 7.2.4 e 7.5.2.1, que passam a ter a seguinte redação:
 
@@ -4160,7 +4194,7 @@ V12 Os GRG do tipo 31HZ2 (31HA2, 31HB2, 31HN2, 31HD2 e 31HH2) devem ser transpor
 
 7.5.2.1 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 X [...]
 
@@ -4172,7 +4206,7 @@ X [...]
 
 (d) Carregamento em comum autorizado entre os explosivos de mina [com exceção do n.º ONU 0083, explosivos de mina (de desmonte) do tipo C] e o nitrato de amónio (n.os ONU 1942 e 2067) e os nitratos de metais alcalinos e os nitratos de metais alcalino-terrosos, na condição de que o conjunto seja considerado como formado de explosivos de mina da classe 1 para fins da sinalização, da segregação, da estiva e da carga máxima admissível. Os nitratos de metais alcalinos incluem o nitrato de césio (n.º ONU 1468), o nitrato de lítio (n.º ONU 1477) e o nitrato de sódio (n.º ONU 1498). Os nitratos de metais alcalino-terrosos incluem o nitrato de bário (n.º ONU 1446), o nitrato de berílio (n.º ONU 2464), o nitrato de cálcio (n.º ONU 1454), o nitrato de magnésio (n.º ONU 1474) e o nitrato de estrôncio (n.º ONU 1507).
 
-# Parte 8
+Parte 8
 
 A - São alterados os parágrafos 8.1.2.1, 8.1.4.3, 8.1.5.2, 8.1.5.3, 8.2.1, 8.2.1.2, 8.2.1.3, 8.2.1.5, 8.2.1.6, 8.2.2.2, 8.2.2.3.1, 8.2.2.3.2, 8.2.2.4 a 8.2.2.4.2, 8.2.2.5, 8.2.2.5.2, 8.2.2.5.3, 8.2.2.6.6, 8.2.2.7.1, 8.2.2.7.1.1, 8.2.2.7.1.3, 8.2.2.7.1.6, 8.2.2.7.2 a 8.2.2.7.2.4, e 8.2.2.8.1 a 8.2.2.8.3, que passam a ter a seguinte redação:
 
@@ -4346,17 +4380,17 @@ B - São acrescentados os parágrafos 8.2.2.3.6, 8.2.2.3.7, 8.2.2.3.8, 8.2.2.7.2
 
 8.2.2.8.5 Modelo de certificado de formação para condutores de veículos que transportam mercadorias perigosas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 C - São revogados os parágrafos 8.2.1.7 a 8.2.1.9, 8.2.2.5.4, 8.2.2.7.3 a 8.2.2.7.3.3 e 8.2.2.9.
 
-# Parte 9
+Parte 9
 
 A - São alterados os parágrafos 9.2.1.1, 9.2.2.3.3 e 9.2.2.6.3, que passam a ter a seguinte redação:
 
 9.2.1.1 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 9.2.2.3.3 O interruptor deve ser colocado numa caixa com um grau de proteção IP65 em conformidade com a norma CEI 60529.
 
@@ -4364,7 +4398,9 @@ A - São alterados os parágrafos 9.2.1.1, 9.2.2.3.3 e 9.2.2.6.3, que passam a t
 
 Os dispositivos de ligação eléctrica entre veículos a motor e reboques devem respeitar o grau de proteção IP54 segundo a norma CEI 60529 e devem ser concebidos de modo a impedir qualquer corte de corrente acidental. Os dispositivos de ligação eléctrica devem respeitar as normas ISO 12098:2004 e ISO 7638:2003, consoante o caso.
 
-## ANEXO II — Parte 1
+## ANEXO II
+
+## Parte 1
 
 A - São alterados os parágrafos 1.1.2 a 1.1.2.3, 1.1.3.1, 1.1.3.2, 1.1.4.1.1, 1.1.4.4 a 1.1.4.4.6, 1.1.4.5.2, 1.2.1, 1.3.1, 1.3.2.1 a 1.3.2.4, 1.3.3, 1.4.1.3, 1.4.2, 1.4.2.2.1, 1.4.2.3 a 1.4.2.3.3, 1.4.3.6, 1.5.1.1, 1.6.1.1, 1.6.1.3, 1.6.1.4, 1.6.1.5, 1.6.1.8, 1.6.1.14, 1.6.2.5, 1.6.2.7, 1.6.3.18, 1.6.3.25, 1.6.3.35, 1.6.4.12, 1.6.4.34, 1.7.1.1 a 1.7.1.3, 1.7.1.5 a 1.7.1.5.2, 1.7.2.3, 1.7.2.5, 1.8.1.1, 1.8.2.1 a 1.8.2.3, 1.8.3.2, 1.8.3.13, 1.8.3.15, 1.8.4, 1.8.5.1, 1.8.5.2, 1.8.6 a 1.8.6.8, 1.8.7 a 1.8.7.1.2, 1.8.7.1.4, 1.8.7.2, 1.8.7.2.3, 1.8.7.4.2, 1.8.7.5 a 1.8.7.5.2, 1.8.7.7.2, 1.8.7.7.4, 1.9.1, 1.9.2, 1.9.4, 1.9.5, 1.10.5 e 1.10.6, que passam a ter a seguinte Proteções:
 
@@ -4756,7 +4792,7 @@ O pessoal deve ser formado sobre as matérias da formação complementar, classi
 
 1.3.2.2.1 O quadro seguinte adequa os grupos de pessoal às seguintes categorias individuais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 1.3.2.2.2 A formação complementar específica deve compreender, pelo menos, as matérias seguintes:
 
@@ -5180,7 +5216,7 @@ Estas prescrições específicas não abarcarão as áreas cobertas pelo RID, no
 
 Quadro 1.10.5: Lista das mercadorias perigosas de alto risco
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 1.10.6 Para as matérias radioativas, as disposições do presente capítulo são consideradas satisfeitas quando forem aplicadas as disposições da Convenção sobre a Proteção Física das Matérias Nucleares(9), e da circular da AIEA sobre "A Proteção física de matérias e das instalações nucleares"(10).
 
@@ -5376,7 +5412,7 @@ Aplicam-se as disposições dos 1.8.7.7.1, 1.8.7.7.2, 1.8.7.7.3 e 1.8.7.7.5.
 
 C - São revogados os parágrafos 1.6.1.2, 1.6.1.13, 1.6.1.17, 1.6.1.18, 1.6.3.12, 1.6.3.21 e 1.8.3.17.
 
-# Parte 2
+Parte 2
 
 A - São alterados os parágrafos 2.1.2.3, 2.1.2.4, 2.1.2.5, 2.1.2.6, 2.1.2.7, 2.1.3.3, 2.1.3.4.1, 2.1.3.5, 2.1.3.5.3, 2.1.3.6, 2.2.1.1.1, 2.2.1.1.3, 2.2.1.1.6, 2.2.1.1.7.5, 2.2.2.1.5, 2.2.3.2.1, 2.2.4.1.13, 2.2.42.1.3, 2.2.43.3, 2.2.52.1.8, 2.2.52.4, 2.2.61.1.1, 2.2.61.1.2, 2.2.61.3, 2.2.7.1.3, 2.2.7.2.2.1, 2.2.7.2.3.1.2, 2.2.7.2.3.4.1, 2.2.7.2.3.5, 2.2.7.2.4.1.1, 2.2.7.2.4.1.3 a 2.2.7.2.4.1.6, 2.2.7.2.4.2, 2.2.7.2.4.3, 2.2.8.1.6, 2.2.9.1.10.1.4, 2.2.9.1.10.2.1, 2.2.9.1.10.2.3 a 2.2.9.1.10.2.6, 2.2.9.1.10.3 a 2.2.9.1.10.3.2, 2.2.9.1.10.4 a 2.2.9.1.10.4.3.4, 2.2.9.1.10.4.4, 2.2.9.1.10.4.4.2 a 2.2.9.1.10.4.4.6, 2.2.9.1.10.4.5, 2.2.9.1.10.4.5.2, 2.2.9.1.10.4.5.3, 2.2.9.1.10.4.6.1 a.2.2.9.1.10.4.6.4, 2.2.9.1.10.5, 2.2.9.1.10.6, 2.2.9.1.11, 2.2.9.1.14, 2.2.9.3, 2.3.3.1 a 2.3.3.1.5, 2.3.3.2 e 2.3.3.3, que passam a ter a seguinte Proteções:
 
@@ -5500,7 +5536,7 @@ NOTA 5: [...]
 
 NOTA 2: Neste quadro, o termo "composição de tiro" refere-se a matérias pirotécnicas sob forma de pólvora ou como componente pirotécnico elementar, tais como apresentado nos artifícios de divertimento, que são utilizados para produzir um efeito sonoro, ou utilizados como carga de rebentamento ou como carga propulsora, a menos que se demonstre que o tempo de subida da pressão dessas matérias é superior a 8 ms por 0,5 g de matéria pirotécnica no "Ensaio HSL da composição de tiro" do anexo 7 do Manual de Ensaios e de Critérios.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.1.1.8 [...]
 
@@ -5540,7 +5576,7 @@ Gases corrosivos
 
 2.2.43.3 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.52.1.8 A classificação dos peróxidos orgânicos e das misturas ou preparações de peróxidos orgânicos não enumerados em 2.2.52.4, em 4.1.4.2, na instrução de embalagem IBC520 ou em 4.2.5.2, na instrução de transporte em cisternas móveis T23, bem como a sua afectação a uma rubrica colectiva, devem ser feitas pela autoridade competente do país de origem. A declaração de autorização deve indicar a classificação e as condições de transporte aplicáveis. Se o país de origem não é um Estado parte do RID, a classificação e as condições de transporte devem ser reconhecidas pela autoridade competente do primeiro Estado parte do RID atingido pelo envio.
 
@@ -5548,7 +5584,7 @@ Gases corrosivos
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.61.1.1 O título da classe 6.1 abrange as matérias das quais se sabe, por experiência, ou das quais se pode admitir, a partir de experiências feitas com animais, que elas podem, em quantidade relativamente fraca, numa ação única ou de curta duração, prejudicar a saúde humana ou causar a morte por inalação, por absorção cutânea ou por ingestão.
 
@@ -5580,7 +5616,7 @@ Matérias tóxicas sem risco subsidiário
 
 Matérias tóxicas com risco(s) subsidiário(s)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.7.1.3 [...]
 
@@ -5600,7 +5636,7 @@ b) [...]
 
 Quadro 2.2.7.2.2.1: Valores de base para os radionuclídeos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 (a) [...]
 
@@ -5662,7 +5698,7 @@ Os pacotes que contenham matérias cindíveis devem ser classificados na rubrica
 
 a) Um limite de massa por remessa, sob condição de que a menor dimensão exterior de cada pacote não seja inferior a 10 cm, designadamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) Urânio enriquecido em urânio 235 até um máximo de 1% em massa e com um teor total de plutónio e de urânio 233 que não exceda 1% da massa de urânio 235, na condição de que os nuclídeos cindíveis estejam repartidos de forma essencialmente homogénea no conjunto das matérias. Além disso, se o urânio 235 estiver sob a forma de metal, de óxido ou de carboneto, não pode formar uma rede;
 
@@ -5832,31 +5868,31 @@ Quadro 2.2.9.1.10.3.1: Categorias para as substâncias perigosas para o meio aqu
 
 a) Perigo agudo (de curta duração) para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) Perigo de longa duração para o meio aquático (ver também a figura 2.2.9.1.10.3.1)
 
 c) i) Substâncias não rapidamente degradáveis (ver Nota 4), relativamente às quais existem dados adequados sobre a toxicidade crónica Perigo de longa duração para o meio aquático (ver também a figura 2.2.9.1.10.3.1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 ii) Substâncias rapidamente degradáveis, relativamente às quais existem dados adequados sobre a toxicidade crónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 iii) Substâncias relativamente às quais não existem dados adequados sobre a toxicidade crónica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 Figura 2.2.9.1.10.3.1: Categorias para as substâncias perigosas (de longa duração) para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.3.2 O esquema de classificação do quadro 2.2.1.10.3.2, apresentado a seguir, resume os critérios de classificação para as substâncias.
 
 Quadro 2.2.9.1.10.3.2: Esquema de classificação para as substâncias perigosas para o meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4 Categorias e critérios de classificação das misturas
 
@@ -5876,7 +5912,7 @@ A figura 2.2.9.1.10.4.2 descreve os passos a seguir.
 
 Figura 2.2.9.1.10.4.2: Procedimento sequencial aplicado à classificação das misturas em função dos perigos agudos ou a longo prazo relativamente ao meio aquático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.3 Classificação das misturas quando existem dados relativos à toxicidade sobre toda a mistura
 
@@ -5940,13 +5976,13 @@ se a mistura i) ou ii) já estiver classificada a partir dos dados experimentais
 
 a) Em função da toxicidade aquática aguda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 A toxicidade calculada deve ser usada para atribuir a esta fração da mistura uma categoria de perigo aguda que pode a seguir ser utilizada para a aplicação do método da soma ;
 
 b) Em função da toxicidade aquática crónica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 A toxicidade equivalente reflecte o facto de que as substâncias não rapidamente degradáveis são de uma categoria de perigo de nível imediatamente superior (de maior perigo) ao das substâncias rapidamente degradáveis.
 
@@ -5970,7 +6006,7 @@ Em geral, para as misturas, uma classificação mais severa prevalece sobre uma 
 
 Quadro 2.2.9.1.10.4.6.2.2: Classificação das misturas em função do seu perigo agudo pela soma das concentrações dos componentes classificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.6.3 Classificação nas categorias Crónica 1 e Crónica 2
 
@@ -5982,7 +6018,7 @@ Quadro 2.2.9.1.10.4.6.2.2: Classificação das misturas em função do seu perig
 
 Quadro 2.2.9.1.10.4.6.3.3: Classificação das misturas em função do seu perigo a longo prazo pela soma das concentrações dos componentes classificados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.4.6.4 Misturas de componentes altamente tóxicos
 
@@ -5990,7 +6026,7 @@ Os componentes de toxicidade Aguda 1 ou Crónica 1 com uma toxicidade aguda clar
 
 Quadro 2.2.9.1.10.4.6.4: Factores multiplicativos para os componentes muito tóxicos das misturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 2.2.9.1.10.5 Substâncias ou misturas classificadas como matérias perigosas para o ambiente (meio aquático) com base no Regulamento (CE) n.º [1272/2008](https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt)(19)
 
@@ -6120,7 +6156,7 @@ Método A2, tal como descrito na Parte A do Anexo do Regulamento (CE) n.º [440/
 
 C - São revogados os parágrafos 2.2.2.1.1 (apenas a NOTA 4), 2.2.2.1.3 (apenas a NOTA 4) e 2.2.62.1.3 (apenas a definição de "Microorganismos e organismos geneticamente modificados")
 
-# Parte 3
+Parte 3
 
 A - São alterados os parágrafos 3.1.2.8.1, 3.1.2.8.1.1, 3.2.1, 3.2.2, 3.3.1 e 3.4.1 a 3.4.13, que passam a ter a seguinte Proteções:
 
@@ -6148,11 +6184,11 @@ QUADRO A
 
 LISTA DAS MERCADORIAS PERIGOSAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 3.2.2 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 3.3.1[...]
 
@@ -6416,7 +6452,7 @@ Devem ser acrescentados à designação oficial de transporte qualificativos com
 
 C - É revogado o parágrafo 3.1.2.9.
 
-# Parte 4
+Parte 4
 
 A - São alterados os parágrafos 4.1.1.1, 4.1.1.2, 4.1.1.16, 4.1.1.19.6, 4.1.3.7, 4.1.3.8.1, 4.1.4.1, 4.1.4.2, 4.1.5.5, 4.1.6.10, 4.1.6.14, 4.1.6.15, 4.1.7.1, 4.1.7.1.1, 4.1.7.2.1, 4.1.7.2.2, 4.1.8.7, 4.1.9.1.5, 4.1.9.3, 4.1.10.4, 4.2, 4.2.5.2.6, 4.2.5.3, 4.3.4.1.2 e 4.3.4.1.3, que passam a ter a seguinte redação:
 
@@ -6440,7 +6476,7 @@ NOTA: [...]
 
 Quadro 4.1.1.19.6: Lista das matérias assimiladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.3.7 As embalagens e os GRG não expressamente autorizados pela instrução de embalagem aplicável não podem ser utilizados para o transporte de uma matéria ou de um objeto salvo por derrogação temporária às presentes disposições autorizada entre Estados partes do RID de acordo com a secção 1.5.1.
 
@@ -6452,59 +6488,59 @@ Quadro 4.1.1.19.6: Lista das matérias assimiladas
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
 4.1.4.2 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.5.5 Salvo especificações em contrário no RID, as embalagens, incluindo os GRG e as grandes embalagens, devem respeitar as disposições dos Capítulos 6.1, 6.5 ou 6.6, conforme o caso, e devem satisfazer as prescrições de ensaio para o grupo de embalagem II.
 
@@ -6518,7 +6554,7 @@ Os recipientes sob pressão não podem ser enchidos depois da data limite do con
 
 Para os recipientes sob pressão "UN", as normas ISO enumeradas abaixo devem ser aplicadas. Para os outros recipientes sob pressão, as disposições da secção 4.1.6 consideram-se satisfeitas se forem aplicadas as normas apropriadas a seguir indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.1.7.1 Utilização das embalagens (excepto GRG)
 
@@ -6568,7 +6604,7 @@ c) [...]
 
 4.2.5.2.6 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.2.5.3 [...]
 
@@ -6584,7 +6620,7 @@ c) A T10, ao n.º ONU 1838.
 
 4.3.4.1.2 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 4.3.4.1.3 [...]
 
@@ -6612,7 +6648,7 @@ g) [...]
 
 h) [...]
 
-# Parte 5
+Parte 5
 
 A - São alterados os parágrafos 5.1.5.1.4, 5.1.5.3.4, 5.1.5.4 a 5.1.5.4.2, 5.1.5.5, 5.2.1.7.2, 5.2.1.7.8, 5.2.1.8.1, 5.2.1.9.1, 5.2.1.9.2, 5.2.2.1.11.2, 5.2.2.1.11.5, 5.3.1.3, 5.3.2.1, 5.3.2.3.2, 5.4.0 a 5.4.0.3, 5.4.1.1.1, 5.4.1.1.3, 5.4.1.1.6.1, 5.4.1.1.7, 5.4.1.1.9, 5.4.1.1.11, 5.4.1.2.1, 5.4.1.2.5.1, 5.4.1.2.5.3, 5.4.1.4.2, 5.4.2, 5.4.3 a 5.4.3.4, 5.4.4 a 5.4.4.2, 5.4.5 e 5.5.2 a 5.5.2.4.4, que passam a ter a seguinte redação:
 
@@ -6956,7 +6992,7 @@ Em caso de emergência ou de acidente no decurso do transporte, o maquinista do 
 
 - Após a utilização, retirar todo o vestuário contaminado e todo o equipamento de Proteção contaminado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 Equipamentos de Proteção individual a ter na cabine do maquinista do comboio
 
@@ -7006,7 +7042,7 @@ b) As mercadorias ou matérias sujeitas a um tratamento de fumigação tenham si
 
 Sinal de alerta para os equipamentos de transporte sob fumigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 5.5.2.3.3 Se o equipamento de transporte sob fumigação tiver sido completamente ventilado, seja pela abertura das portas do equipamento seja por ventilação mecânica depois da fumigação, a data da ventilação deve estar indicada no sinal de alerta.
 
@@ -7048,13 +7084,13 @@ A menção "POLUENTE MARINHO" (de acordo com o 5.4.1.4.3 do Código IMDG) em vez
 
 C - São revogados os parágrafos 5.3.2.1.6 e 5.4.1.1.4.
 
-# Parte 6
+Parte 6
 
 A - São alterados os parágrafos 6.1.3.1, 6.1.5.3.6.3, 6.2 e 6.2.1, 6.2.1.1.5, 6.2.1.3.4, 6.2.1.5.1, 6.2.1.6.1, 6.2.2.1.1, 6.2.2.2, 6.2.2.3, 6.2.2.4, 6.2.2.7 a 6.2.2.7.8, 6.2.2.8 a 6.2.2.8.4, 6.2.2.9 a 6.2.2.9.4, 6.2.2.10, 6.2.3.6.1, 6.2.3.6.2, 6.2.3.9.2 a 6.2.3.9.6, 6.2.3.10.1, 6.2.4 a 6.2.4.2, 6.2.5, 6.2.6.3.3, 6.2.6.4, 6.3.4.2, 6.3.5.4.1, 6.3.5.4.2, 6.4.2.9, 6.4.5.4.4, 6.4.6.1, 6.4.7.16, 6.4.11.7, 6.4.13, 6.4.15.5, 6.4.22.6, 6.4.23.11 a 6.4.23.14, 6.5.2.1.1, 6.5.2.2.4, 6.5.4.1, 6.5.6.3.5, 6.6.1.2, 6.6.3.1, 6.6.5.2.2, 6.6.5.3.4.4 a 6.6.5.3.4.4.2, 6.7.2.6.2, 6.7.2.8.4, 6.7.2.10.1, 6.7.2.20.1, 6.7.2.20.2, 6.7.3.16.1, 6.7.3.16.2, 6.7.4.15.1, 6.7.4.15.2, 6.7.5.4.1, 6.7.5.10.4, 6.7.5.13.1, 6.8.2.1.2, 6.8.2.1.18, 6.8.2.1.29, 6.8.2.2.3, 6.8.2.3.3, 6.8.2.4.6, 6.8.2.5.1, 6.8.2.1.2, 6.8.2.6 a 6.8.2.6.2, 6.8.2.7, 6.8.3.2.3, 6.8.3.6, 6.8.3.7 e 6.8.4, que passam a ter a seguinte Proteções:
 
 6.1.3.1 [...]
 
-a) i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
+a) i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7. Não pode ser utilizado em embalagens que satisfaçam apenas as condições simplificadas dos 6.1.1.3, 6.1.5.3.1 e), 6.1.5.3.5 c), 6.1.5.4, 6.1.5.5.1 e 6.1.5.6 (ver também a alínea ii) abaixo). Para as embalagens de metal, marcadas em relevo, podem ser utilizadas as letras maiúsculas "UN" em vez do símbolo; ou
 
@@ -7158,7 +7194,7 @@ NOTA: As prescrições de marcação para os dispositivos de armazenagem a hidre
 
 6.2.2.7.2 [Anterior 6.2.2.7.1] [...]
 
-a) Símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
+a) Símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7. Não deve ser utilizado em recipientes sob pressão que satisfazem apenas as prescrições do 6.2.3 a 6.2.5 (ver 6.2.3.9).
 
@@ -7204,7 +7240,7 @@ p) [...]
 
 Exemplo das marcas inscritas numa garrafa de gás:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.2.7.6 [Anterior 6.2.2.7.5].
 
@@ -7230,7 +7266,7 @@ NOTA: No caso dos recipientes sob pressão não recarregáveis, tendo em conta a
 
 6.2.2.9.2 Devem ser apostas as seguintes marcações de certificação:
 
-a) Símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
+a) Símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf);
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7;
 
@@ -7338,7 +7374,7 @@ A aplicação das normas citadas em referência tornaram-se obrigatórias desde 
 
 Se estiver listada mais do que uma norma obrigatória para a aplicação das mesmas prescrições, apenas uma delas deve ser aplicada na sua totalidade, a menos que a tabela seguinte o determine de outro modo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.4.2 Inspeções e ensaios periódicos
 
@@ -7350,7 +7386,7 @@ Quando um recipiente sob pressão é fabricado em conformidade com as prescriç�
 
 Se estiver listada mais do que uma norma obrigatória para a aplicação das mesmas prescrições, apenas uma delas deve ser aplicada na sua totalidade, a menos que a tabela seguinte o determine de outro modo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.5 Prescrições aplicáveis aos recipientes sob pressão "não UN" que não são concebidos, construídos e ensaiados de acordo com as normas anteriormente citadas
 
@@ -7394,7 +7430,7 @@ São consideradas satisfeitas as prescrições do presente parágrafo se forem a
 
 6.3.4.2 [...]
 
-a) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5 , 6.6 ou 6.7;
 
@@ -7420,7 +7456,7 @@ As amostras devem cair sobre a extremidade de uma barra de aço cilíndrica, dis
 
 Figura 6.3.5.4.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.4.2.9 Todas as válvulas através das quais possa escapar-se o conteúdo radioativo devem estar protegidas contra toda a manipulação não autorizada.
 
@@ -7628,7 +7664,7 @@ w) [...]
 
 6.5.2.1.1 [...]
 
-a) símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só deve ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7.
 
@@ -7654,7 +7690,7 @@ h) [...]
 
 A data de fabrico do recipiente interior em matéria plástico pode igualmente ser aposta sobre o recipiente interior junto da parte restante da marcação. Exemplo de um método de marcação apropriado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.5.4.1 Garantia da qualidade: os GRG devem ser fabricados, reconstruídos, reparados e ensaiados de acordo com um sistema de garantia da qualidade julgado satisfatório pela autoridade competente; este deve garantir que cada GRG fabricado, reconstruído ou reparado satisfaz as prescrições do presente capítulo.
 
@@ -7678,7 +7714,7 @@ NOTA: A norma ISO 16106:2006 "Embalagem - Embalagem de transporte para mercadori
 
 [...]
 
-a) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+a) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM cumpre as prescrições aplicáveis dos Capítulos 6.1, 6.2, 6.3, 6.5, 6.6 ou 6.7.
 
@@ -7708,17 +7744,17 @@ NOTA: As grandes embalagens destinadas às matérias e objetos da classe 1 devem
 
 6.6.5.3.4.4.1 Para as embalagens interiores que contenham matérias sólidas, líquidas ou objetos, se o ensaio é executado com a matéria sólida ou líquida, ou com o objeto a transportar, ou com uma matéria que tenha essencialmente as mesmas características físicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.6.5.3.4.4.2 Para as embalagens interiores que contenham matérias líquidas, se o ensaio é executado com água:
 
 a) se a matéria a transportar tem uma densidade relativa que não ultrapasse 1,2:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 b) se a matéria a transportar tem uma densidade relativa superior a 1,2, a altura de queda deve ser calculada em função da densidade relativa (d) da matéria a transportar arredondada por excesso à primeira casa decimal, de acordo com o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.2.6.2 [...]
 
@@ -7748,7 +7784,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) O símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) O símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM satisfaz as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -7814,7 +7850,7 @@ iv) Marca de identificação (punção) do organismo de inspeção que realizou 
 
 Figura 6.7.2.20.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.2.20.2 As seguintes indicações devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -7846,7 +7882,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) Símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) Símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM, satisfazem as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -7904,7 +7940,7 @@ iv) Marca de identificação (punção) do organismo de inspeção que realizou 
 
 Figura 6.7.3.16.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.3.16.2 As indicações seguintes devem ser marcadas na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -7940,7 +7976,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM, satisfazem as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -8006,7 +8042,7 @@ iii) Marca de identificação (punção) do organismo de inspeção que realizou
 
 Figura 6.7.4.15.1: Exemplo de marcação da placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.7.4.15.2 Devem ser marcadas de forma duradoura as seguintes indicações na própria cisterna móvel ou numa placa de metal solidamente fixada à cisterna móvel:
 
@@ -8054,7 +8090,7 @@ iv) Número de série do fabricante;
 
 c) Aprovação
 
-i) o símbolo da ONU para as embalagens [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
+i) o símbolo da ONU para as embalagens [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf) ;
 
 Este símbolo só pode ser utilizado para certificar que uma embalagem, uma cisterna móvel ou um CGEM, satisfazem as prescrições aplicáveis dos capítulos 6.1, 6.2, 6.3, 6.5, 6.6 e 6.7;
 
@@ -8096,7 +8132,7 @@ iii) Marca de identificação (punção) do organismo de inspeção que realizou
 
 Figura 6.7.5.13.1: Exemplo de marcação sobre a placa de identificação (placa sinalética)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.8.2.1.2 Os vagões-cisternas devem ser construídos de modo a resistir, com a massa máxima admissível de carregamento, às solicitações que se produzem durante o transporte ferroviário. No que se refere a essas solicitações, remete-se para os ensaios impostos pela autoridade competente.(1) | Os contentores-cisternas bem como os seus meios de fixação devem poder absorver, com a massa máxima admissível de carregamento, as solicitações exercidas por:
 
@@ -8134,7 +8170,7 @@ Em alternativa, os vagões-cisternas destinados ao transporte de matérias para 
 
 (6) Esta fórmula decorre da fórmula geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 (7) O gabarito de carregamento de vagões de mercadorias G1 é citado na Especificação técnica de interoperabilidade (STI) referente ao sub-sistema "Material circulante - vagões para o transporte" do sistema ferroviário transeuropeu convencional (Decisão nº [2006/861/CE](https://data.europa.eu/eli/dec/2006/861/oj?locale=pt) da Comissão de 28 de Julho de 2008, publicada no Jornal Oficial da União Europeia, L 344 de 8 de Dezembro de 2006).
 
@@ -8266,7 +8302,7 @@ Além disso, todos os dispositivos de armazenagem a hidreto metálico devem ser 
 
 6.2.2.1.5 A norma seguinte aplica-se à concepção, ao fabrico, bem como às inspeções e ensaios iniciais, dos dispositivos de armazenagem a hidreto metálico "UN", a não ser que se trate de requisitos do controlo do sistema de avaliação da conformidade e à aprovação, que devem estar de acordo com o 6.2.2.5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 6.2.2.7.9 Para os quadros de garrafas as prescrições relativas à marcação dos recipientes sob pressão deve aplicar-se apenas às garrafas individualmente do quadro, e não a qualquer estrutura de conjunto.
 
@@ -8276,7 +8312,7 @@ A marcação especificada no 6.5.2.1.1 e 6.5.2.2 deve ser retirado do GRG de ori
 
 C - É revogado o parágrafo 6.2.3.5.2.
 
-# Parte 7
+Parte 7
 
 A - São alterados os parágrafos 7.1.3, 7.2.4, 7.3.3, 7.5.2.1 e 7.7, que passam a ter a seguinte Proteções:
 
@@ -8302,7 +8338,7 @@ Se o país de origem não for um Estado parte do RID, as condições fixadas dev
 
 7.5.2.1 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16901/0000200473.pdf)
 
 X [...]
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 251/1982, 1º Suplemento, Série I de 1982-10-29
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3598-(32) a 3598-(32)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25101/00320032.pdf
 entry_into_force_dates: []
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1012-d-1982-243348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T07:00:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f179a16bde6831a5472b4c15d3efd535469718d3cec2d7a2be55afa8e7b237f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80877991f68596df73857e11feac234089997f4ece758cdf9645c8b9fc3c8460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:00:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Delegação Portuguesa
+- NATO
 relationships:
 - type: amended_by
   target: pt:dre:356540:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:152327:por
+  label: "Alterado o quadro de pessoal especializado, constante do quadro I anexo à Port 1096/80, de 27-Dez, com as alterações\
+    \ resultantes do presente diploma, do Dec 144/80, de 27-Dez, dos DR 21/82, de 17-Abr, e 33/82, de 16-Jun, dos Dec Leis\
+    \ 57/82, de 25-Fev, 18/83, de 21-Jan, e das Port 766/78, de 26-Dez, 578/82, de 11-Jun, 917/83, de 07-Out, 972/83, de 12-Nov,\
+    \ e 1031/83, de 13-Dez, pelo DEC LEI.133/85.1985.05.02.MNE, DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1985-152327
+  date: '1985-05-02'
+- type: amended_by
+  target: pt:dre:182651:por
+  label: "Aumentado um lugar de conselheiro técnico à composição da DELNATO, fixada pelo presente diploma, pela PORT.452/85.12.07.1985.PCM,\
+    \ DR.IS [158] de 12.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/452-1985-182651
+  date: '1985-07-12'
+- type: amended_by
+  target: pt:dre:356540:por
+  label: "Alterado o nº 3 pela PORT.798/88.1988.12.12.MDN, DR.IS [285]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1988-356540
+  date: '1988-12-12'
+- type: cites
+  target: pt:dre:402961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T07:00:18Z'
   warnings: []
   errors: []
 ---

@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/dec-lei/208/1998/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1998-423674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T01:58:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de6144f9cc1efecfce9ce99ce9b3299b99e7bcfb274975a25a17abfcf4033646
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b681972507c00c0fe1e1ca721ed892cfbf3d34ef6bb1271ad93ce7b1eb1290a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,9 +72,9 @@ subjects:
 - Comissão de Acompanhamento
 - Comissão de Gestão
 - Fundos CE
-- QCA
 - Orgânica
 - Presidente
+- QCA
 - Supervisor Financeiro
 relationships:
 - type: cites
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1994/04/19/p/dre
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 76
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 61
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T01:58:39Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +177,9 @@ d) ...
 
 e) ...
 
-###### Artigo 3.º — Divisão da estrutura orgânica
+Artigo 3.º
+
+Divisão da estrutura orgânica
 
 1 - A estrutura orgânica relativa à execução do QCA divide-se nos três seguintes níveis:
 
@@ -177,7 +203,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 6.º — Composição da comissão de gestão dos fundos comunitários
+Artigo 6.º
+
+Composição da comissão de gestão dos fundos comunitários
 
 1 - ...
 
@@ -185,7 +213,9 @@ d) ...
 
 3 - O supervisor do QCA pode participar nas reuniões referidas no número anterior na qualidade de observador.
 
-###### Artigo 7.º — Competências da comissão de gestão
+Artigo 7.º
+
+Competências da comissão de gestão
 
 Compete à comissão de gestão:
 
@@ -205,7 +235,7 @@ g) Promover a articulação das acções e financiamentos e as necessárias sine
 
 h) Apoiar a preparação das reuniões da comissão governamental.
 
-###### Artigo 11.º
+Artigo 11.º
 
 1 - ...
 
@@ -223,7 +253,9 @@ d) Exercer as competências previstas nas alíneas anteriores relativamente à c
 
 4 - ...
 
-###### Artigo 14.º — Composição da comissão de acompanhamento
+Artigo 14.º
+
+Composição da comissão de acompanhamento
 
 1 - ...
 
@@ -255,13 +287,17 @@ k) [Anterior alínea j).]
 
 4 - O supervisor do QCA e a Inspecção-Geral de Finanças (IGF) podem participar nas reuniões referidas nos números anteriores na qualidade de observadores.
 
-###### Artigo 16.º — Funcionamento da comissão de acompanhamento
+Artigo 16.º
+
+Funcionamento da comissão de acompanhamento
 
 1 - A comissão de acompanhamento do QCA reúne-se em plenário, ordinariamente, duas vezes por ano e, extraordinariamente, a pedido das autoridades portuguesas ou dos representantes da Comissão Europeia.
 
 2 - A comissão de acompanhamento pode reunir-se nos termos do disposto no n.º 3 do artigo 14.º, sempre que necessário, mediante convocação do seu presidente.
 
-###### Artigo 19.º — Instrumentos de avaliação
+Artigo 19.º
+
+Instrumentos de avaliação
 
 1 - A avaliação do impacte dos efeitos económicos e sociais da execução global do QCA incumbe a um Observatório do QCA, coordenado pelo supervisor do QCA.
 
@@ -281,7 +317,9 @@ Natureza e modo de designação do supervisor
 
 3 - O supervisor do QCA funciona junto do Ministro do Equipamento, do Planeamento e da Administração do Território, com estatuto de encarregado de missão, nos termos do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-###### Artigo 22.º — Competências do supervisor do QCA
+Artigo 22.º
+
+Competências do supervisor do QCA
 
 1 - Ao supervisor do QCA compete:
 
@@ -299,13 +337,17 @@ e) Solicitar a intervenção dos organismos de controlo do Sistema Nacional de C
 
 3 - As competências atribuídas ao supervisor do QCA pelas alíneas b) e c) do n.º 1 deverão ser exercidas em articulação com a comissão de gestão dos fundos comunitários e com a comissão de acompanhamento do QCA.
 
-###### Artigo 23.º — Dever de colaboração e informação
+Artigo 23.º
+
+Dever de colaboração e informação
 
 1 - O supervisor do QCA e a comissão de gestão do QCA, sem prejuízo do desenvolvimento das suas competências específicas, têm um dever de colaboração recíproco.
 
 2 - O supervisor pode solicitar qualquer informação relevante para o exercício das suas funções aos organismos e entidades com funções de gestão, de acompanhamento e de controlo do QCA.
 
-###### Artigo 24.º — Secretariado
+Artigo 24.º
+
+Secretariado
 
 O supervisor do QCA é apoiado por um secretariado de apoio técnico com funções técnico-administrativas necessárias ao funcionamento do mesmo.»
 
@@ -319,7 +361,7 @@ Os artigos 26.º, 28.º, 34.º e 37.º passam a artigos 30.º, 32.º, 38.º e 41
 
 2 - Sem prejuízo das competências previstas no número anterior, no âmbito das intervenções operacionais financiadas pelo Fundo Social Europeu, as competências do gestor são definidas pelas normas que procedem à regulamentação da respectiva gestão e financiamento.
 
-###### Artigo 32.º
+Artigo 32.º
 
 Sem prejuízo dos poderes que lhe sejam conferidos no despacho da sua constituição, compete às unidades de gestão:
 
@@ -329,7 +371,9 @@ b) ...
 
 c) ...
 
-###### Artigo 38.º — Composição da unidade de acompanhamento
+Artigo 38.º
+
+Composição da unidade de acompanhamento
 
 1 - ...
 
@@ -343,7 +387,9 @@ c) ...
 
 6 - O supervisor do QCA e a IGF podem participar nas reuniões das unidades de acompanhamento referidas nos números anteriores, na qualidade de observadores.
 
-###### Artigo 41.º — Órgãos de controlo
+Artigo 41.º
+
+Órgãos de controlo
 
 1 - ...
 
@@ -403,7 +449,9 @@ c) Corresponder-se com quaisquer entidades públicas ou privadas sobre assuntos 
 
 d) Proceder ao exame de quaisquer elementos em poder de serviços públicos, empresas públicas ou privadas, ou obter aí o seu fornecimento, quando se mostrem indispensáveis à realização das respectivas tarefas.
 
-###### Artigo 43.º — Modalidades de articulação
+Artigo 43.º
+
+Modalidades de articulação
 
 1 - As entidades responsáveis pela gestão, acompanhamento e avaliação globais do QCA, os interlocutores financeiros da Comissão Europeia e as entidades responsáveis pelo controlo de segundo nível e de primeiro nível devem remeter à IGF a informação relevante para o exercício do controlo financeiro de alto nível, nas condições a definir por portaria conjunta dos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e Pescas e do Trabalho e da Solidariedade.
 
@@ -441,7 +489,9 @@ Estatuto do presidente da comissão de gestão
 
 Ao presidente da comissão de gestão referida no artigo 6.º é aplicável o disposto no n.º 1 do artigo 29.º
 
-###### Artigo 51.º — Relacionamento com o Tribunal de Contas
+Artigo 51.º
+
+Relacionamento com o Tribunal de Contas
 
 A IGF remeterá ao Tribunal de Contas a informação atinente à organização e funcionamento do sistema nacional de controlo do QCA, designadamente o plano anual de controlos e o relatório anual de controlo.»
 
@@ -461,15 +511,15 @@ Os artigos 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º,
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Luís Barreto Ferro Rodrigues.
 
-**Promulgado em 18 de Junho de 1998.**
+Promulgado em 18 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, JORGE SAMPAIO.**
+O Presidente da República, JORGE SAMPAIO.
 
-**Referendado em 30 de Junho de 1998.**
+Referendado em 30 de Junho de 1998.
 
-**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
 
 [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril
 
@@ -493,7 +543,9 @@ d) Transparência, rigor e eficácia da gestão dos recursos financeiros;
 
 e) Reforço dos mecanismos de controlo e avaliação.
 
-###### Artigo 3.º — Divisão da estrutura orgânica
+###### Artigo 3.º
+
+##### Divisão da estrutura orgânica
 
 1 - A estrutura orgânica relativa à execução do QCA divide-se nos três seguintes níveis:
 
